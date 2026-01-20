@@ -18,14 +18,14 @@ The package termit (version 2.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/es.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/hu.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/ja.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 37 | 50 | 74.0 | /mnt/stockage/packages/f17/termit/po/ko.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 30 | 50 | 60.0 | /mnt/stockage/packages/f17/termit/po/ru.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 29 | 50 | 58.0 | /mnt/stockage/packages/f17/termit/po/fr.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 29 | 50 | 58.0 | /mnt/stockage/packages/f17/termit/po/zh_TW.po | 
+ | [de](/f17/language/de) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/de.po | 
+ | [es](/f17/language/es) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/es.po | 
+ | [hu](/f17/language/hu) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/hu.po | 
+ | [ja](/f17/language/ja) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/termit/po/ja.po | 
+ | [ko](/f17/language/ko) | 37 | 50 | 74.0 | /mnt/stockage/packages/f17/termit/po/ko.po | 
+ | [ru](/f17/language/ru) | 30 | 50 | 60.0 | /mnt/stockage/packages/f17/termit/po/ru.po | 
+ | [fr](/f17/language/fr) | 29 | 50 | 58.0 | /mnt/stockage/packages/f17/termit/po/fr.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 29 | 50 | 58.0 | /mnt/stockage/packages/f17/termit/po/zh_TW.po | 
 {.sortable}
 
 

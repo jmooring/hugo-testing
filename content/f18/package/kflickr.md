@@ -18,37 +18,37 @@ The package kflickr (version 20100817):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/ast.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/bg.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/fr.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/he.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/it.po | 
- | [ku]({{< ref "/f18/language/ku.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/ku.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/ru.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/tr.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 327 | 332 | 98.5 | /mnt/stockage/packages/f18/kflickr/src/po/ar.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 323 | 332 | 97.3 | /mnt/stockage/packages/f18/kflickr/src/po/zh_CN.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 275 | 332 | 82.8 | /mnt/stockage/packages/f18/kflickr/src/po/de.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 245 | 332 | 73.8 | /mnt/stockage/packages/f18/kflickr/src/po/nb.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 239 | 332 | 72.0 | /mnt/stockage/packages/f18/kflickr/src/po/id.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 216 | 332 | 65.1 | /mnt/stockage/packages/f18/kflickr/src/po/cs.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 190 | 332 | 57.2 | /mnt/stockage/packages/f18/kflickr/src/po/sl.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 186 | 332 | 56.0 | /mnt/stockage/packages/f18/kflickr/src/po/ko.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 156 | 332 | 47.0 | /mnt/stockage/packages/f18/kflickr/src/po/uk.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 110 | 332 | 33.1 | /mnt/stockage/packages/f18/kflickr/src/po/hu.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 94 | 332 | 28.3 | /mnt/stockage/packages/f18/kflickr/src/po/nds.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 91 | 332 | 27.4 | /mnt/stockage/packages/f18/kflickr/src/po/et.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 83 | 332 | 25.0 | /mnt/stockage/packages/f18/kflickr/src/po/sr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 78 | 332 | 23.5 | /mnt/stockage/packages/f18/kflickr/src/po/sv.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 65 | 332 | 19.6 | /mnt/stockage/packages/f18/kflickr/src/po/eu.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 56 | 332 | 16.9 | /mnt/stockage/packages/f18/kflickr/src/po/lv.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 36 | 332 | 10.8 | /mnt/stockage/packages/f18/kflickr/src/po/ca.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 22 | 332 | 6.6 | /mnt/stockage/packages/f18/kflickr/src/po/gu.po | 
+ | [ast](/f18/language/ast) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/ast.po | 
+ | [bg](/f18/language/bg) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/bg.po | 
+ | [es](/f18/language/es) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/es.po | 
+ | [fr](/f18/language/fr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/fr.po | 
+ | [he](/f18/language/he) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/he.po | 
+ | [it](/f18/language/it) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/it.po | 
+ | [ku](/f18/language/ku) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/ku.po | 
+ | [nl](/f18/language/nl) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/nl.po | 
+ | [pl](/f18/language/pl) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/pl.po | 
+ | [pt](/f18/language/pt) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/ru.po | 
+ | [tr](/f18/language/tr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f18/kflickr/src/po/tr.po | 
+ | [ar](/f18/language/ar) | 327 | 332 | 98.5 | /mnt/stockage/packages/f18/kflickr/src/po/ar.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 323 | 332 | 97.3 | /mnt/stockage/packages/f18/kflickr/src/po/zh_CN.po | 
+ | [de](/f18/language/de) | 275 | 332 | 82.8 | /mnt/stockage/packages/f18/kflickr/src/po/de.po | 
+ | [nb_NO](/f18/language/nb_NO) | 245 | 332 | 73.8 | /mnt/stockage/packages/f18/kflickr/src/po/nb.po | 
+ | [id](/f18/language/id) | 239 | 332 | 72.0 | /mnt/stockage/packages/f18/kflickr/src/po/id.po | 
+ | [cs](/f18/language/cs) | 216 | 332 | 65.1 | /mnt/stockage/packages/f18/kflickr/src/po/cs.po | 
+ | [sl](/f18/language/sl) | 190 | 332 | 57.2 | /mnt/stockage/packages/f18/kflickr/src/po/sl.po | 
+ | [ko](/f18/language/ko) | 186 | 332 | 56.0 | /mnt/stockage/packages/f18/kflickr/src/po/ko.po | 
+ | [uk](/f18/language/uk) | 156 | 332 | 47.0 | /mnt/stockage/packages/f18/kflickr/src/po/uk.po | 
+ | [hu](/f18/language/hu) | 110 | 332 | 33.1 | /mnt/stockage/packages/f18/kflickr/src/po/hu.po | 
+ | [nds](/f18/language/nds) | 94 | 332 | 28.3 | /mnt/stockage/packages/f18/kflickr/src/po/nds.po | 
+ | [et](/f18/language/et) | 91 | 332 | 27.4 | /mnt/stockage/packages/f18/kflickr/src/po/et.po | 
+ | [sr](/f18/language/sr) | 83 | 332 | 25.0 | /mnt/stockage/packages/f18/kflickr/src/po/sr.po | 
+ | [sv](/f18/language/sv) | 78 | 332 | 23.5 | /mnt/stockage/packages/f18/kflickr/src/po/sv.po | 
+ | [eu](/f18/language/eu) | 65 | 332 | 19.6 | /mnt/stockage/packages/f18/kflickr/src/po/eu.po | 
+ | [lv](/f18/language/lv) | 56 | 332 | 16.9 | /mnt/stockage/packages/f18/kflickr/src/po/lv.po | 
+ | [ca](/f18/language/ca) | 36 | 332 | 10.8 | /mnt/stockage/packages/f18/kflickr/src/po/ca.po | 
+ | [gu](/f18/language/gu) | 22 | 332 | 6.6 | /mnt/stockage/packages/f18/kflickr/src/po/gu.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f24/package/supertux.md" >}}) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [minetest]({{< ref "/f24/package/minetest.md" >}}) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [gtg]({{< ref "/f24/package/gtg.md" >}}) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
+ | [supertux](/f24/package/supertux) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [minetest](/f24/package/minetest) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [gtg](/f24/package/gtg) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package upower (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f14/language/it.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f14/upower/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f14/upower/po/pl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f14/upower/po/sv.po | 
+ | [it](/f14/language/it) | 113 | 113 | 100.0 | /mnt/stockage/packages/f14/upower/po/it.po | 
+ | [pl](/f14/language/pl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f14/upower/po/pl.po | 
+ | [sv](/f14/language/sv) | 113 | 113 | 100.0 | /mnt/stockage/packages/f14/upower/po/sv.po | 
 {.sortable}
 
 

@@ -18,77 +18,77 @@ The package redhat-menus (version 12.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/as.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/bg.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/bn_IN.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/cs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/cy.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/et.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/fr.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/id.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/is.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ja.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/kn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ko.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/mr.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/nl.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ru.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/si.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sk.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/th.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/zh_TW.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 252 | 253 | 99.6 | /mnt/stockage/packages/f32/redhat-menus/po/lv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 246 | 261 | 94.3 | /mnt/stockage/packages/f32/redhat-menus/po/tr.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 240 | 261 | 92.0 | /mnt/stockage/packages/f32/redhat-menus/po/bn.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 240 | 261 | 92.0 | /mnt/stockage/packages/f32/redhat-menus/po/sl.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/af.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/am.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/hy.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/lt.po | 
- | [nso]({{< ref "/f32/language/nso.md" >}}) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/nso.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 218 | 261 | 83.5 | /mnt/stockage/packages/f32/redhat-menus/po/vi.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 216 | 261 | 82.8 | /mnt/stockage/packages/f32/redhat-menus/po/be.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 216 | 261 | 82.8 | /mnt/stockage/packages/f32/redhat-menus/po/ur.po | 
- | [zu]({{< ref "/f32/language/zu.md" >}}) | 213 | 261 | 81.6 | /mnt/stockage/packages/f32/redhat-menus/po/zu.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 205 | 261 | 78.5 | /mnt/stockage/packages/f32/redhat-menus/po/ka.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 132 | 261 | 50.6 | /mnt/stockage/packages/f32/redhat-menus/po/gl.po | 
- | [ilo]({{< ref "/f32/language/ilo.md" >}}) | 106 | 261 | 40.6 | /mnt/stockage/packages/f32/redhat-menus/po/ilo.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 5 | 261 | 1.9 | /mnt/stockage/packages/f32/redhat-menus/po/sq.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 0 | 261 | 0.0 | /mnt/stockage/packages/f32/redhat-menus/po/ku.po | 
- | [lo]({{< ref "/f32/language/lo.md" >}}) | 0 | 261 | 0.0 | /mnt/stockage/packages/f32/redhat-menus/po/lo.po | 
- | [my]({{< ref "/f32/language/my.md" >}}) | 0 | 261 | 0.0 | /mnt/stockage/packages/f32/redhat-menus/po/my.po | 
+ | [ar](/f32/language/ar) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ar.po | 
+ | [as](/f32/language/as) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/as.po | 
+ | [bg](/f32/language/bg) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/bg.po | 
+ | [bn_IN](/f32/language/bn_IN) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/bn_IN.po | 
+ | [ca](/f32/language/ca) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ca.po | 
+ | [cs](/f32/language/cs) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/cs.po | 
+ | [cy](/f32/language/cy) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/cy.po | 
+ | [da](/f32/language/da) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/da.po | 
+ | [de](/f32/language/de) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/de.po | 
+ | [el](/f32/language/el) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/en_GB.po | 
+ | [es](/f32/language/es) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/es.po | 
+ | [et](/f32/language/et) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/et.po | 
+ | [fa](/f32/language/fa) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/fa.po | 
+ | [fi](/f32/language/fi) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/fi.po | 
+ | [fr](/f32/language/fr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/fr.po | 
+ | [gu](/f32/language/gu) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/gu.po | 
+ | [he](/f32/language/he) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/he.po | 
+ | [hi](/f32/language/hi) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/hi.po | 
+ | [hr](/f32/language/hr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/hr.po | 
+ | [hu](/f32/language/hu) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/hu.po | 
+ | [id](/f32/language/id) | 253 | 253 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/id.po | 
+ | [is](/f32/language/is) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/is.po | 
+ | [it](/f32/language/it) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/it.po | 
+ | [ja](/f32/language/ja) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ja.po | 
+ | [kn](/f32/language/kn) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/kn.po | 
+ | [ko](/f32/language/ko) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ko.po | 
+ | [mk](/f32/language/mk) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/mk.po | 
+ | [ml](/f32/language/ml) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ml.po | 
+ | [mr](/f32/language/mr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/mr.po | 
+ | [ms](/f32/language/ms) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/nb.po | 
+ | [nl](/f32/language/nl) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/nl.po | 
+ | [or](/f32/language/or) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/or.po | 
+ | [pa](/f32/language/pa) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pa.po | 
+ | [pl](/f32/language/pl) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pl.po | 
+ | [pt](/f32/language/pt) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ro.po | 
+ | [ru](/f32/language/ru) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ru.po | 
+ | [si](/f32/language/si) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/si.po | 
+ | [sk](/f32/language/sk) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sk.po | 
+ | [sr](/f32/language/sr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/sv.po | 
+ | [ta](/f32/language/ta) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/ta.po | 
+ | [te](/f32/language/te) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/te.po | 
+ | [th](/f32/language/th) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/th.po | 
+ | [uk](/f32/language/uk) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 261 | 261 | 100.0 | /mnt/stockage/packages/f32/redhat-menus/po/zh_TW.po | 
+ | [lv](/f32/language/lv) | 252 | 253 | 99.6 | /mnt/stockage/packages/f32/redhat-menus/po/lv.po | 
+ | [tr](/f32/language/tr) | 246 | 261 | 94.3 | /mnt/stockage/packages/f32/redhat-menus/po/tr.po | 
+ | [bn](/f32/language/bn) | 240 | 261 | 92.0 | /mnt/stockage/packages/f32/redhat-menus/po/bn.po | 
+ | [sl](/f32/language/sl) | 240 | 261 | 92.0 | /mnt/stockage/packages/f32/redhat-menus/po/sl.po | 
+ | [af](/f32/language/af) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/af.po | 
+ | [am](/f32/language/am) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/am.po | 
+ | [hy](/f32/language/hy) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/hy.po | 
+ | [lt](/f32/language/lt) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/lt.po | 
+ | [nso](/f32/language/nso) | 221 | 261 | 84.7 | /mnt/stockage/packages/f32/redhat-menus/po/nso.po | 
+ | [vi](/f32/language/vi) | 218 | 261 | 83.5 | /mnt/stockage/packages/f32/redhat-menus/po/vi.po | 
+ | [be](/f32/language/be) | 216 | 261 | 82.8 | /mnt/stockage/packages/f32/redhat-menus/po/be.po | 
+ | [ur](/f32/language/ur) | 216 | 261 | 82.8 | /mnt/stockage/packages/f32/redhat-menus/po/ur.po | 
+ | [zu](/f32/language/zu) | 213 | 261 | 81.6 | /mnt/stockage/packages/f32/redhat-menus/po/zu.po | 
+ | [ka](/f32/language/ka) | 205 | 261 | 78.5 | /mnt/stockage/packages/f32/redhat-menus/po/ka.po | 
+ | [gl](/f32/language/gl) | 132 | 261 | 50.6 | /mnt/stockage/packages/f32/redhat-menus/po/gl.po | 
+ | [ilo](/f32/language/ilo) | 106 | 261 | 40.6 | /mnt/stockage/packages/f32/redhat-menus/po/ilo.po | 
+ | [sq](/f32/language/sq) | 5 | 261 | 1.9 | /mnt/stockage/packages/f32/redhat-menus/po/sq.po | 
+ | [ku](/f32/language/ku) | 0 | 261 | 0.0 | /mnt/stockage/packages/f32/redhat-menus/po/ku.po | 
+ | [lo](/f32/language/lo) | 0 | 261 | 0.0 | /mnt/stockage/packages/f32/redhat-menus/po/lo.po | 
+ | [my](/f32/language/my) | 0 | 261 | 0.0 | /mnt/stockage/packages/f32/redhat-menus/po/my.po | 
 {.sortable}
 
 

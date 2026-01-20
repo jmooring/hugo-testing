@@ -18,80 +18,80 @@ The package accountsservice (version 0.6.55):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ar.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ast.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/el.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/en.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/en_GB.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/gl.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/hu.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ia.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ja.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ka.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/lv.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/nl.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/oc.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/zh_TW.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/af.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/as.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/az.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/bg.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ca@valencia.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/cy.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/et.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/fa.po | 
- | [fo]({{< ref "/f32/language/fo.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/fo.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ga.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/hi.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/kn.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ky.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/mr.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/nb.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/nn.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/or.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ro.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/sq.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/th.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/vi.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/zh_HK.po | 
+ | [ar](/f32/language/ar) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ar.po | 
+ | [ast](/f32/language/ast) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ast.po | 
+ | [ca](/f32/language/ca) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ca.po | 
+ | [cs](/f32/language/cs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/cs.po | 
+ | [da](/f32/language/da) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/da.po | 
+ | [de](/f32/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/de.po | 
+ | [el](/f32/language/el) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/el.po | 
+ | [en](/f32/language/en) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/en.po | 
+ | [en_GB](/f32/language/en_GB) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/en_GB.po | 
+ | [eo](/f32/language/eo) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/eo.po | 
+ | [es](/f32/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/es.po | 
+ | [eu](/f32/language/eu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/eu.po | 
+ | [fi](/f32/language/fi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/fi.po | 
+ | [fr](/f32/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/fr.po | 
+ | [fur](/f32/language/fur) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/fur.po | 
+ | [gl](/f32/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/gl.po | 
+ | [hr](/f32/language/hr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/hr.po | 
+ | [hu](/f32/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/hu.po | 
+ | [ia](/f32/language/ia) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ia.po | 
+ | [id](/f32/language/id) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/id.po | 
+ | [it](/f32/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/it.po | 
+ | [ja](/f32/language/ja) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ja.po | 
+ | [ka](/f32/language/ka) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ka.po | 
+ | [kk](/f32/language/kk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/kk.po | 
+ | [ko](/f32/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ko.po | 
+ | [lt](/f32/language/lt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/lt.po | 
+ | [lv](/f32/language/lv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/lv.po | 
+ | [nl](/f32/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/nl.po | 
+ | [oc](/f32/language/oc) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/oc.po | 
+ | [pa](/f32/language/pa) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pa.po | 
+ | [pl](/f32/language/pl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pl.po | 
+ | [pt](/f32/language/pt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/ru.po | 
+ | [sk](/f32/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sk.po | 
+ | [sl](/f32/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sl.po | 
+ | [sr](/f32/language/sr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/sv.po | 
+ | [tr](/f32/language/tr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/tr.po | 
+ | [uk](/f32/language/uk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 59 | 59 | 100.0 | /mnt/stockage/packages/f32/accountsservice/po/zh_TW.po | 
+ | [af](/f32/language/af) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/af.po | 
+ | [as](/f32/language/as) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/as.po | 
+ | [az](/f32/language/az) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/az.po | 
+ | [be](/f32/language/be) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/be.po | 
+ | [bg](/f32/language/bg) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/bg.po | 
+ | [bn_IN](/f32/language/bn_IN) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/bn_IN.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ca@valencia.po | 
+ | [cy](/f32/language/cy) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/cy.po | 
+ | [et](/f32/language/et) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/et.po | 
+ | [fa](/f32/language/fa) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/fa.po | 
+ | [fo](/f32/language/fo) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/fo.po | 
+ | [ga](/f32/language/ga) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ga.po | 
+ | [gu](/f32/language/gu) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/gu.po | 
+ | [he](/f32/language/he) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/he.po | 
+ | [hi](/f32/language/hi) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/hi.po | 
+ | [kn](/f32/language/kn) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/kn.po | 
+ | [ky](/f32/language/ky) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ky.po | 
+ | [ml](/f32/language/ml) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ml.po | 
+ | [mr](/f32/language/mr) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/mr.po | 
+ | [ms](/f32/language/ms) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/nb.po | 
+ | [nn](/f32/language/nn) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/nn.po | 
+ | [or](/f32/language/or) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/or.po | 
+ | [ro](/f32/language/ro) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ro.po | 
+ | [sq](/f32/language/sq) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/sq.po | 
+ | [ta](/f32/language/ta) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/ta.po | 
+ | [te](/f32/language/te) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/te.po | 
+ | [th](/f32/language/th) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/th.po | 
+ | [vi](/f32/language/vi) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/vi.po | 
+ | [wa](/f32/language/wa) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/wa.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 0 | 59 | 0.0 | /mnt/stockage/packages/f32/accountsservice/po/zh_HK.po | 
 {.sortable}
 
 

@@ -18,36 +18,36 @@ The package clapper (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar_SA]({{< ref "/f39/language/ar_SA.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ar.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/eu.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/fr.po | 
- | [he_IL]({{< ref "/f39/language/he_IL.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/he.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/hu.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/pt.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/sv.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 159 | 253 | 62.8 | /mnt/stockage/packages/f39/clapper/po/zh_CN.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 102 | 253 | 40.3 | /mnt/stockage/packages/f39/clapper/po/tr.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/af.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/da.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/el.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/fi.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/ko.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/no.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/ro.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/sr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/uk.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/vi.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/zh_TW.po | 
+ | [ar_SA](/f39/language/ar_SA) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ar.po | 
+ | [ca](/f39/language/ca) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ca.po | 
+ | [cs](/f39/language/cs) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/cs.po | 
+ | [de](/f39/language/de) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/de.po | 
+ | [es](/f39/language/es) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/es.po | 
+ | [eu](/f39/language/eu) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/eu.po | 
+ | [fr](/f39/language/fr) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/fr.po | 
+ | [he_IL](/f39/language/he_IL) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/he.po | 
+ | [hu](/f39/language/hu) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/hu.po | 
+ | [it](/f39/language/it) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/it.po | 
+ | [ja](/f39/language/ja) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ja.po | 
+ | [nl](/f39/language/nl) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/nl.po | 
+ | [pl](/f39/language/pl) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/pt_BR.po | 
+ | [pt_PT](/f39/language/pt_PT) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/pt.po | 
+ | [ru](/f39/language/ru) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/ru.po | 
+ | [sv](/f39/language/sv) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/clapper/po/sv.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 159 | 253 | 62.8 | /mnt/stockage/packages/f39/clapper/po/zh_CN.po | 
+ | [tr](/f39/language/tr) | 102 | 253 | 40.3 | /mnt/stockage/packages/f39/clapper/po/tr.po | 
+ | [af](/f39/language/af) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/af.po | 
+ | [da](/f39/language/da) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/da.po | 
+ | [el](/f39/language/el) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/el.po | 
+ | [fi](/f39/language/fi) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/fi.po | 
+ | [ko](/f39/language/ko) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/ko.po | 
+ | [nb_NO](/f39/language/nb_NO) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/no.po | 
+ | [ro](/f39/language/ro) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/ro.po | 
+ | [sr](/f39/language/sr) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/sr.po | 
+ | [uk](/f39/language/uk) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/uk.po | 
+ | [vi](/f39/language/vi) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/vi.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 0 | 253 | 0.0 | /mnt/stockage/packages/f39/clapper/po/zh_TW.po | 
 {.sortable}
 
 

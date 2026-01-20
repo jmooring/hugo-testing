@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [minuet]({{< ref "/f35/package/minuet.md" >}}) | 412 | 412 | 100.0 | fi | 
- | [lollypop]({{< ref "/f35/package/lollypop.md" >}}) | 139 | 1437 | 9.7 | English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 4 | 6909 | 0.1 | English (Ireland) <en_IE@li.org> | 
+ | [minuet](/f35/package/minuet) | 412 | 412 | 100.0 | fi | 
+ | [lollypop](/f35/package/lollypop) | 139 | 1437 | 9.7 | English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 4 | 6909 | 0.1 | English (Ireland) <en_IE@li.org> | 
 {.sortable}
 
 

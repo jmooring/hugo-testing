@@ -18,79 +18,79 @@ The package python-caja (version 1.26.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f35/language/am.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/am.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ar.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ast.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/bg.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/br.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ca.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ca@valencia.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/cs.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/cy.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/el.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/en_AU.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/en_GB.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es.po/mnt/stockage/packages/f35/python-caja/po/es_ES.po | 
- | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es_AR.po | 
- | [es_CL]({{< ref "/f35/language/es_CL.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es_CL.po | 
- | [es_CO]({{< ref "/f35/language/es_CO.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es_CO.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/et.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fa.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fr.po | 
- | [fy]({{< ref "/f35/language/fy.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fy.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/gl.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/gu.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hu.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hy.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/id.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ie.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ja.po | 
- | [jv]({{< ref "/f35/language/jv.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/jv.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/lv.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/nb.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/nds.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pl.po | 
- | [pms]({{< ref "/f35/language/pms.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pms.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/uk.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/uz.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/zh_HK.po | 
- | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/fr_CA.po | 
- | [frp]({{< ref "/f35/language/frp.md" >}}) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/frp.po | 
- | [kmr]({{< ref "/f35/language/kmr.md" >}}) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/ku_IQ.po | 
- | [la]({{< ref "/f35/language/la.md" >}}) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/la.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/ne.po | 
+ | [am](/f35/language/am) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/am.po | 
+ | [ar](/f35/language/ar) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ar.po | 
+ | [ast](/f35/language/ast) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ast.po | 
+ | [be](/f35/language/be) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/be.po | 
+ | [bg](/f35/language/bg) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/bg.po | 
+ | [br](/f35/language/br) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/br.po | 
+ | [bs](/f35/language/bs) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/bs.po | 
+ | [ca](/f35/language/ca) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ca.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ca@valencia.po | 
+ | [cs](/f35/language/cs) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/cs.po | 
+ | [cy](/f35/language/cy) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/cy.po | 
+ | [da](/f35/language/da) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/da.po | 
+ | [de](/f35/language/de) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/de.po | 
+ | [el](/f35/language/el) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/el.po | 
+ | [en_AU](/f35/language/en_AU) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/en_AU.po | 
+ | [en_GB](/f35/language/en_GB) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/en_GB.po | 
+ | [eo](/f35/language/eo) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/eo.po | 
+ | [es](/f35/language/es) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es.po/mnt/stockage/packages/f35/python-caja/po/es_ES.po | 
+ | [es_AR](/f35/language/es_AR) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es_AR.po | 
+ | [es_CL](/f35/language/es_CL) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es_CL.po | 
+ | [es_CO](/f35/language/es_CO) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/es_CO.po | 
+ | [et](/f35/language/et) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/et.po | 
+ | [eu](/f35/language/eu) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/eu.po | 
+ | [fa](/f35/language/fa) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fa.po | 
+ | [fi](/f35/language/fi) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fi.po | 
+ | [fr](/f35/language/fr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fr.po | 
+ | [fy](/f35/language/fy) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/fy.po | 
+ | [gl](/f35/language/gl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/gl.po | 
+ | [gu](/f35/language/gu) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/gu.po | 
+ | [he](/f35/language/he) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/he.po | 
+ | [hi](/f35/language/hi) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hi.po | 
+ | [hr](/f35/language/hr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hr.po | 
+ | [hu](/f35/language/hu) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hu.po | 
+ | [hy](/f35/language/hy) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/hy.po | 
+ | [id](/f35/language/id) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/id.po | 
+ | [ie](/f35/language/ie) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ie.po | 
+ | [is](/f35/language/is) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/is.po | 
+ | [it](/f35/language/it) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/it.po | 
+ | [ja](/f35/language/ja) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ja.po | 
+ | [jv](/f35/language/jv) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/jv.po | 
+ | [kk](/f35/language/kk) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/kk.po | 
+ | [ko](/f35/language/ko) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ko.po | 
+ | [lt](/f35/language/lt) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/lt.po | 
+ | [lv](/f35/language/lv) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/lv.po | 
+ | [ms](/f35/language/ms) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/nb.po | 
+ | [nds](/f35/language/nds) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/nds.po | 
+ | [nl](/f35/language/nl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/nl.po | 
+ | [oc](/f35/language/oc) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/oc.po | 
+ | [pl](/f35/language/pl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pl.po | 
+ | [pms](/f35/language/pms) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pms.po | 
+ | [pt](/f35/language/pt) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ro.po | 
+ | [ru](/f35/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/ru.po | 
+ | [sk](/f35/language/sk) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sk.po | 
+ | [sl](/f35/language/sl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sl.po | 
+ | [sq](/f35/language/sq) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sq.po | 
+ | [sr](/f35/language/sr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sr.po | 
+ | [sv](/f35/language/sv) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/sv.po | 
+ | [th](/f35/language/th) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/th.po | 
+ | [tr](/f35/language/tr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/tr.po | 
+ | [uk](/f35/language/uk) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/uk.po | 
+ | [uz](/f35/language/uz) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/uz.po | 
+ | [vi](/f35/language/vi) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/python-caja/po/zh_HK.po | 
+ | [fr_CA](/f35/language/fr_CA) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/fr_CA.po | 
+ | [frp](/f35/language/frp) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/frp.po | 
+ | [kmr](/f35/language/kmr) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/ku_IQ.po | 
+ | [la](/f35/language/la) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/la.po | 
+ | [ne](/f35/language/ne) | 1 | 6 | 16.7 | /mnt/stockage/packages/f35/python-caja/po/ne.po | 
 {.sortable}
 
 

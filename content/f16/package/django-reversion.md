@@ -18,12 +18,12 @@ The package django-reversion (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/fr/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/he/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/it/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/pl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/ru/LC_MESSAGES/django.po | 
+ | [de](/f16/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f16/language/fr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/fr/LC_MESSAGES/django.po | 
+ | [he](/f16/language/he) | 117 | 117 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/he/LC_MESSAGES/django.po | 
+ | [it](/f16/language/it) | 117 | 117 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/it/LC_MESSAGES/django.po | 
+ | [pl](/f16/language/pl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/pl/LC_MESSAGES/django.po | 
+ | [ru](/f16/language/ru) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/django-reversion/src/reversion/locale/ru/LC_MESSAGES/django.po | 
 {.sortable}
 
 

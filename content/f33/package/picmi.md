@@ -18,48 +18,48 @@ The package picmi (version 20.08.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ca/picmi.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ca@valencia/picmi.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/da/picmi.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/en_GB/picmi.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/es/picmi.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/et/picmi.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/eu/picmi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/fr/picmi.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/gl/picmi.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/it/picmi.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ko/picmi.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/nl/picmi.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/nn/picmi.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/pt/picmi.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/pt_BR/picmi.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ru/picmi.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/sl/picmi.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/sv/picmi.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/uk/picmi.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/zh_TW/picmi.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/de/picmi.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/fi/picmi.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/pl/picmi.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/sk/picmi.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/sr/picmi.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/tr/picmi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/zh_CN/picmi.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 181 | 200 | 90.5 | /mnt/stockage/packages/f33/picmi/po/hu/picmi.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 172 | 200 | 86.0 | /mnt/stockage/packages/f33/picmi/po/nb/picmi.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 170 | 200 | 85.0 | /mnt/stockage/packages/f33/picmi/po/bs/picmi.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 170 | 200 | 85.0 | /mnt/stockage/packages/f33/picmi/po/kk/picmi.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 170 | 200 | 85.0 | /mnt/stockage/packages/f33/picmi/po/nds/picmi.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 166 | 200 | 83.0 | /mnt/stockage/packages/f33/picmi/po/lv/picmi.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 162 | 200 | 81.0 | /mnt/stockage/packages/f33/picmi/po/ro/picmi.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 160 | 200 | 80.0 | /mnt/stockage/packages/f33/picmi/po/cs/picmi.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 72 | 200 | 36.0 | /mnt/stockage/packages/f33/picmi/po/lt/picmi.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 70 | 200 | 35.0 | /mnt/stockage/packages/f33/picmi/po/el/picmi.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 63 | 200 | 31.5 | /mnt/stockage/packages/f33/picmi/po/ga/picmi.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 49 | 200 | 24.5 | /mnt/stockage/packages/f33/picmi/po/ug/picmi.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 35 | 200 | 17.5 | /mnt/stockage/packages/f33/picmi/po/mr/picmi.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 2 | 200 | 1.0 | /mnt/stockage/packages/f33/picmi/po/ml/picmi.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 200 | 0.0 | /mnt/stockage/packages/f33/picmi/po/ja/picmi.po | 
+ | [ca](/f33/language/ca) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ca/picmi.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ca@valencia/picmi.po | 
+ | [da](/f33/language/da) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/da/picmi.po | 
+ | [en_GB](/f33/language/en_GB) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/en_GB/picmi.po | 
+ | [es](/f33/language/es) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/es/picmi.po | 
+ | [et](/f33/language/et) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/et/picmi.po | 
+ | [eu](/f33/language/eu) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/eu/picmi.po | 
+ | [fr](/f33/language/fr) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/fr/picmi.po | 
+ | [gl](/f33/language/gl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/gl/picmi.po | 
+ | [it](/f33/language/it) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/it/picmi.po | 
+ | [ko](/f33/language/ko) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ko/picmi.po | 
+ | [nl](/f33/language/nl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/nl/picmi.po | 
+ | [nn](/f33/language/nn) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/nn/picmi.po | 
+ | [pt](/f33/language/pt) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/pt/picmi.po | 
+ | [pt_BR](/f33/language/pt_BR) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/pt_BR/picmi.po | 
+ | [ru](/f33/language/ru) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/ru/picmi.po | 
+ | [sl](/f33/language/sl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/sl/picmi.po | 
+ | [sv](/f33/language/sv) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/sv/picmi.po | 
+ | [uk](/f33/language/uk) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/uk/picmi.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 200 | 200 | 100.0 | /mnt/stockage/packages/f33/picmi/po/zh_TW/picmi.po | 
+ | [de](/f33/language/de) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/de/picmi.po | 
+ | [fi](/f33/language/fi) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/fi/picmi.po | 
+ | [pl](/f33/language/pl) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/pl/picmi.po | 
+ | [sk](/f33/language/sk) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/sk/picmi.po | 
+ | [sr](/f33/language/sr) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/sr/picmi.po | 
+ | [tr](/f33/language/tr) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/tr/picmi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 197 | 200 | 98.5 | /mnt/stockage/packages/f33/picmi/po/zh_CN/picmi.po | 
+ | [hu](/f33/language/hu) | 181 | 200 | 90.5 | /mnt/stockage/packages/f33/picmi/po/hu/picmi.po | 
+ | [nb_NO](/f33/language/nb_NO) | 172 | 200 | 86.0 | /mnt/stockage/packages/f33/picmi/po/nb/picmi.po | 
+ | [bs](/f33/language/bs) | 170 | 200 | 85.0 | /mnt/stockage/packages/f33/picmi/po/bs/picmi.po | 
+ | [kk](/f33/language/kk) | 170 | 200 | 85.0 | /mnt/stockage/packages/f33/picmi/po/kk/picmi.po | 
+ | [nds](/f33/language/nds) | 170 | 200 | 85.0 | /mnt/stockage/packages/f33/picmi/po/nds/picmi.po | 
+ | [lv](/f33/language/lv) | 166 | 200 | 83.0 | /mnt/stockage/packages/f33/picmi/po/lv/picmi.po | 
+ | [ro](/f33/language/ro) | 162 | 200 | 81.0 | /mnt/stockage/packages/f33/picmi/po/ro/picmi.po | 
+ | [cs](/f33/language/cs) | 160 | 200 | 80.0 | /mnt/stockage/packages/f33/picmi/po/cs/picmi.po | 
+ | [lt](/f33/language/lt) | 72 | 200 | 36.0 | /mnt/stockage/packages/f33/picmi/po/lt/picmi.po | 
+ | [el](/f33/language/el) | 70 | 200 | 35.0 | /mnt/stockage/packages/f33/picmi/po/el/picmi.po | 
+ | [ga](/f33/language/ga) | 63 | 200 | 31.5 | /mnt/stockage/packages/f33/picmi/po/ga/picmi.po | 
+ | [ug](/f33/language/ug) | 49 | 200 | 24.5 | /mnt/stockage/packages/f33/picmi/po/ug/picmi.po | 
+ | [mr](/f33/language/mr) | 35 | 200 | 17.5 | /mnt/stockage/packages/f33/picmi/po/mr/picmi.po | 
+ | [ml](/f33/language/ml) | 2 | 200 | 1.0 | /mnt/stockage/packages/f33/picmi/po/ml/picmi.po | 
+ | [ja](/f33/language/ja) | 0 | 200 | 0.0 | /mnt/stockage/packages/f33/picmi/po/ja/picmi.po | 
 {.sortable}
 
 

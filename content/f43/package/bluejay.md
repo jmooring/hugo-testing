@@ -18,11 +18,11 @@ The package bluejay (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f43/bluejay/po/cs/bluejay.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f43/bluejay/po/de/bluejay.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f43/bluejay/po/uk/bluejay.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 99 | 154 | 64.3 | /mnt/stockage/packages/f43/bluejay/po/zh_CN/bluejay.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 27 | 154 | 17.5 | /mnt/stockage/packages/f43/bluejay/po/fr/bluejay.po | 
+ | [cs](/f43/language/cs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f43/bluejay/po/cs/bluejay.po | 
+ | [de](/f43/language/de) | 154 | 154 | 100.0 | /mnt/stockage/packages/f43/bluejay/po/de/bluejay.po | 
+ | [uk](/f43/language/uk) | 154 | 154 | 100.0 | /mnt/stockage/packages/f43/bluejay/po/uk/bluejay.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 99 | 154 | 64.3 | /mnt/stockage/packages/f43/bluejay/po/zh_CN/bluejay.po | 
+ | [fr](/f43/language/fr) | 27 | 154 | 17.5 | /mnt/stockage/packages/f43/bluejay/po/fr/bluejay.po | 
 {.sortable}
 
 

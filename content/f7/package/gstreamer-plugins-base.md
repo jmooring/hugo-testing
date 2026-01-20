@@ -18,21 +18,21 @@ The package gstreamer-plugins-base (version 0.10.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 299 | 497 | 60.2 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/de.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 50 | 497 | 10.1 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/sv.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/cs.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/it.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/nb.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/nl.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/or.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/sq.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/vi.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 40 | 497 | 8.0 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/en_GB.po | 
- | [af]({{< ref "/f7/language/af.md" >}}) | 37 | 497 | 7.4 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/af.po | 
- | [az]({{< ref "/f7/language/az.md" >}}) | 37 | 497 | 7.4 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/az.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 37 | 497 | 7.4 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/sr.po | 
+ | [de](/f7/language/de) | 299 | 497 | 60.2 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/de.po | 
+ | [sv](/f7/language/sv) | 50 | 497 | 10.1 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/sv.po | 
+ | [cs](/f7/language/cs) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/cs.po | 
+ | [hu](/f7/language/hu) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/hu.po | 
+ | [it](/f7/language/it) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/it.po | 
+ | [nb_NO](/f7/language/nb_NO) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/nb.po | 
+ | [nl](/f7/language/nl) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/nl.po | 
+ | [or](/f7/language/or) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/or.po | 
+ | [sq](/f7/language/sq) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/sq.po | 
+ | [uk](/f7/language/uk) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/uk.po | 
+ | [vi](/f7/language/vi) | 49 | 497 | 9.9 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/vi.po | 
+ | [en_GB](/f7/language/en_GB) | 40 | 497 | 8.0 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/en_GB.po | 
+ | [af](/f7/language/af) | 37 | 497 | 7.4 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/af.po | 
+ | [az](/f7/language/az) | 37 | 497 | 7.4 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/az.po | 
+ | [sr](/f7/language/sr) | 37 | 497 | 7.4 | /mnt/stockage/packages/f7/gstreamer-plugins-base/po/sr.po | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package gnome-shell-extension-pomodoro (version 0.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/el.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/fa.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/fr.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/it.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/kk.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/pl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/tr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/zh_CN.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 373 | 374 | 99.7 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/es.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 255 | 339 | 75.2 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 165 | 282 | 58.5 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/ru.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 26 | 282 | 9.2 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/hu.po | 
+ | [ca](/f29/language/ca) | 282 | 282 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/ca.po | 
+ | [cs](/f29/language/cs) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/cs.po | 
+ | [de](/f29/language/de) | 341 | 341 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/de.po | 
+ | [el](/f29/language/el) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/el.po | 
+ | [fa](/f29/language/fa) | 282 | 282 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/fa.po | 
+ | [fr](/f29/language/fr) | 339 | 339 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/fr.po | 
+ | [id](/f29/language/id) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/id.po | 
+ | [it](/f29/language/it) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/it.po | 
+ | [kk](/f29/language/kk) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/kk.po | 
+ | [lt](/f29/language/lt) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/lt.po | 
+ | [nl](/f29/language/nl) | 336 | 336 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/nl.po | 
+ | [pl](/f29/language/pl) | 341 | 341 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/pl.po | 
+ | [sv](/f29/language/sv) | 341 | 341 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/sv.po | 
+ | [tr](/f29/language/tr) | 280 | 280 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/tr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 333 | 333 | 100.0 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/zh_CN.po | 
+ | [es](/f29/language/es) | 373 | 374 | 99.7 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/es.po | 
+ | [pt_BR](/f29/language/pt_BR) | 255 | 339 | 75.2 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 165 | 282 | 58.5 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/ru.po | 
+ | [hu](/f29/language/hu) | 26 | 282 | 9.2 | /mnt/stockage/packages/f29/gnome-shell-extension-pomodoro/po/hu.po | 
 {.sortable}
 
 

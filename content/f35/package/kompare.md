@@ -18,61 +18,61 @@ The package kompare (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ca/kompare.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ca@valencia/kompare.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/de/kompare.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/el/kompare.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/en_GB/kompare.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/es/kompare.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/et/kompare.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/fi/kompare.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/fr/kompare.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/it/kompare.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ko/kompare.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/nl/kompare.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/nn/kompare.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/pl/kompare.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/pt/kompare.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/pt_BR/kompare.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ru/kompare.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/sl/kompare.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/sv/kompare.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/uk/kompare.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/zh_CN/kompare.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/zh_TW/kompare.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 759 | 1428 | 53.2 | /mnt/stockage/packages/f35/kompare/po/cs/kompare.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 646 | 1428 | 45.2 | /mnt/stockage/packages/f35/kompare/po/eu/kompare.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 550 | 1430 | 38.5 | /mnt/stockage/packages/f35/kompare/po/sr/kompare.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 548 | 1428 | 38.4 | /mnt/stockage/packages/f35/kompare/po/da/kompare.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 548 | 1428 | 38.4 | /mnt/stockage/packages/f35/kompare/po/gl/kompare.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 548 | 1428 | 38.4 | /mnt/stockage/packages/f35/kompare/po/sk/kompare.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 544 | 1428 | 38.1 | /mnt/stockage/packages/f35/kompare/po/tr/kompare.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 540 | 1428 | 37.8 | /mnt/stockage/packages/f35/kompare/po/nb/kompare.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 539 | 1428 | 37.7 | /mnt/stockage/packages/f35/kompare/po/bs/kompare.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 539 | 1428 | 37.7 | /mnt/stockage/packages/f35/kompare/po/hu/kompare.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 539 | 1428 | 37.7 | /mnt/stockage/packages/f35/kompare/po/kk/kompare.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 509 | 1428 | 35.6 | /mnt/stockage/packages/f35/kompare/po/lv/kompare.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 509 | 1428 | 35.6 | /mnt/stockage/packages/f35/kompare/po/nds/kompare.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 497 | 1428 | 34.8 | /mnt/stockage/packages/f35/kompare/po/bg/kompare.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 497 | 1428 | 34.8 | /mnt/stockage/packages/f35/kompare/po/ja/kompare.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 475 | 1428 | 33.3 | /mnt/stockage/packages/f35/kompare/po/tg/kompare.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 463 | 1428 | 32.4 | /mnt/stockage/packages/f35/kompare/po/ta/kompare.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 447 | 1428 | 31.3 | /mnt/stockage/packages/f35/kompare/po/fa/kompare.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 313 | 1428 | 21.9 | /mnt/stockage/packages/f35/kompare/po/lt/kompare.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 287 | 1428 | 20.1 | /mnt/stockage/packages/f35/kompare/po/is/kompare.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 276 | 1428 | 19.3 | /mnt/stockage/packages/f35/kompare/po/ga/kompare.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 260 | 1428 | 18.2 | /mnt/stockage/packages/f35/kompare/po/pa/kompare.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 250 | 1428 | 17.5 | /mnt/stockage/packages/f35/kompare/po/hi/kompare.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 150 | 1428 | 10.5 | /mnt/stockage/packages/f35/kompare/po/ar/kompare.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 83 | 1428 | 5.8 | /mnt/stockage/packages/f35/kompare/po/sq/kompare.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 40 | 1428 | 2.8 | /mnt/stockage/packages/f35/kompare/po/eo/kompare.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 38 | 1428 | 2.7 | /mnt/stockage/packages/f35/kompare/po/ug/kompare.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 31 | 1428 | 2.2 | /mnt/stockage/packages/f35/kompare/po/hr/kompare.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 13 | 1428 | 0.9 | /mnt/stockage/packages/f35/kompare/po/ro/kompare.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 8 | 1428 | 0.6 | /mnt/stockage/packages/f35/kompare/po/mr/kompare.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 4 | 1428 | 0.3 | /mnt/stockage/packages/f35/kompare/po/km/kompare.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 1 | 1428 | 0.1 | /mnt/stockage/packages/f35/kompare/po/se/kompare.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 0 | 1428 | 0.0 | /mnt/stockage/packages/f35/kompare/po/be/kompare.po | 
+ | [ca](/f35/language/ca) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ca/kompare.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ca@valencia/kompare.po | 
+ | [de](/f35/language/de) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/de/kompare.po | 
+ | [el](/f35/language/el) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/el/kompare.po | 
+ | [en_GB](/f35/language/en_GB) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/en_GB/kompare.po | 
+ | [es](/f35/language/es) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/es/kompare.po | 
+ | [et](/f35/language/et) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/et/kompare.po | 
+ | [fi](/f35/language/fi) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/fi/kompare.po | 
+ | [fr](/f35/language/fr) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/fr/kompare.po | 
+ | [it](/f35/language/it) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/it/kompare.po | 
+ | [ko](/f35/language/ko) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ko/kompare.po | 
+ | [nl](/f35/language/nl) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/nl/kompare.po | 
+ | [nn](/f35/language/nn) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/nn/kompare.po | 
+ | [pl](/f35/language/pl) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/pl/kompare.po | 
+ | [pt](/f35/language/pt) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/pt/kompare.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/pt_BR/kompare.po | 
+ | [ru](/f35/language/ru) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/ru/kompare.po | 
+ | [sl](/f35/language/sl) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/sl/kompare.po | 
+ | [sv](/f35/language/sv) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/sv/kompare.po | 
+ | [uk](/f35/language/uk) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/uk/kompare.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/zh_CN/kompare.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 1428 | 1428 | 100.0 | /mnt/stockage/packages/f35/kompare/po/zh_TW/kompare.po | 
+ | [cs](/f35/language/cs) | 759 | 1428 | 53.2 | /mnt/stockage/packages/f35/kompare/po/cs/kompare.po | 
+ | [eu](/f35/language/eu) | 646 | 1428 | 45.2 | /mnt/stockage/packages/f35/kompare/po/eu/kompare.po | 
+ | [sr](/f35/language/sr) | 550 | 1430 | 38.5 | /mnt/stockage/packages/f35/kompare/po/sr/kompare.po | 
+ | [da](/f35/language/da) | 548 | 1428 | 38.4 | /mnt/stockage/packages/f35/kompare/po/da/kompare.po | 
+ | [gl](/f35/language/gl) | 548 | 1428 | 38.4 | /mnt/stockage/packages/f35/kompare/po/gl/kompare.po | 
+ | [sk](/f35/language/sk) | 548 | 1428 | 38.4 | /mnt/stockage/packages/f35/kompare/po/sk/kompare.po | 
+ | [tr](/f35/language/tr) | 544 | 1428 | 38.1 | /mnt/stockage/packages/f35/kompare/po/tr/kompare.po | 
+ | [nb_NO](/f35/language/nb_NO) | 540 | 1428 | 37.8 | /mnt/stockage/packages/f35/kompare/po/nb/kompare.po | 
+ | [bs](/f35/language/bs) | 539 | 1428 | 37.7 | /mnt/stockage/packages/f35/kompare/po/bs/kompare.po | 
+ | [hu](/f35/language/hu) | 539 | 1428 | 37.7 | /mnt/stockage/packages/f35/kompare/po/hu/kompare.po | 
+ | [kk](/f35/language/kk) | 539 | 1428 | 37.7 | /mnt/stockage/packages/f35/kompare/po/kk/kompare.po | 
+ | [lv](/f35/language/lv) | 509 | 1428 | 35.6 | /mnt/stockage/packages/f35/kompare/po/lv/kompare.po | 
+ | [nds](/f35/language/nds) | 509 | 1428 | 35.6 | /mnt/stockage/packages/f35/kompare/po/nds/kompare.po | 
+ | [bg](/f35/language/bg) | 497 | 1428 | 34.8 | /mnt/stockage/packages/f35/kompare/po/bg/kompare.po | 
+ | [ja](/f35/language/ja) | 497 | 1428 | 34.8 | /mnt/stockage/packages/f35/kompare/po/ja/kompare.po | 
+ | [tg](/f35/language/tg) | 475 | 1428 | 33.3 | /mnt/stockage/packages/f35/kompare/po/tg/kompare.po | 
+ | [ta](/f35/language/ta) | 463 | 1428 | 32.4 | /mnt/stockage/packages/f35/kompare/po/ta/kompare.po | 
+ | [fa](/f35/language/fa) | 447 | 1428 | 31.3 | /mnt/stockage/packages/f35/kompare/po/fa/kompare.po | 
+ | [lt](/f35/language/lt) | 313 | 1428 | 21.9 | /mnt/stockage/packages/f35/kompare/po/lt/kompare.po | 
+ | [is](/f35/language/is) | 287 | 1428 | 20.1 | /mnt/stockage/packages/f35/kompare/po/is/kompare.po | 
+ | [ga](/f35/language/ga) | 276 | 1428 | 19.3 | /mnt/stockage/packages/f35/kompare/po/ga/kompare.po | 
+ | [pa](/f35/language/pa) | 260 | 1428 | 18.2 | /mnt/stockage/packages/f35/kompare/po/pa/kompare.po | 
+ | [hi](/f35/language/hi) | 250 | 1428 | 17.5 | /mnt/stockage/packages/f35/kompare/po/hi/kompare.po | 
+ | [ar](/f35/language/ar) | 150 | 1428 | 10.5 | /mnt/stockage/packages/f35/kompare/po/ar/kompare.po | 
+ | [sq](/f35/language/sq) | 83 | 1428 | 5.8 | /mnt/stockage/packages/f35/kompare/po/sq/kompare.po | 
+ | [eo](/f35/language/eo) | 40 | 1428 | 2.8 | /mnt/stockage/packages/f35/kompare/po/eo/kompare.po | 
+ | [ug](/f35/language/ug) | 38 | 1428 | 2.7 | /mnt/stockage/packages/f35/kompare/po/ug/kompare.po | 
+ | [hr](/f35/language/hr) | 31 | 1428 | 2.2 | /mnt/stockage/packages/f35/kompare/po/hr/kompare.po | 
+ | [ro](/f35/language/ro) | 13 | 1428 | 0.9 | /mnt/stockage/packages/f35/kompare/po/ro/kompare.po | 
+ | [mr](/f35/language/mr) | 8 | 1428 | 0.6 | /mnt/stockage/packages/f35/kompare/po/mr/kompare.po | 
+ | [km](/f35/language/km) | 4 | 1428 | 0.3 | /mnt/stockage/packages/f35/kompare/po/km/kompare.po | 
+ | [se](/f35/language/se) | 1 | 1428 | 0.1 | /mnt/stockage/packages/f35/kompare/po/se/kompare.po | 
+ | [be](/f35/language/be) | 0 | 1428 | 0.0 | /mnt/stockage/packages/f35/kompare/po/be/kompare.po | 
 {.sortable}
 
 

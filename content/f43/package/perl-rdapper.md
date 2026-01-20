@@ -18,11 +18,11 @@ The package perl-rdapper (version 1.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/de/LC_MESSAGES/rdapper.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/en/LC_MESSAGES/rdapper.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/es/LC_MESSAGES/rdapper.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/fr/LC_MESSAGES/rdapper.po | 
- | [pt_PT]({{< ref "/f43/language/pt_PT.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/pt/LC_MESSAGES/rdapper.po | 
+ | [de](/f43/language/de) | 292 | 292 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/de/LC_MESSAGES/rdapper.po | 
+ | [en](/f43/language/en) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/en/LC_MESSAGES/rdapper.po | 
+ | [es](/f43/language/es) | 287 | 287 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/es/LC_MESSAGES/rdapper.po | 
+ | [fr](/f43/language/fr) | 301 | 301 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/fr/LC_MESSAGES/rdapper.po | 
+ | [pt_PT](/f43/language/pt_PT) | 301 | 301 | 100.0 | /mnt/stockage/packages/f43/perl-rdapper/locale/pt/LC_MESSAGES/rdapper.po | 
 {.sortable}
 
 

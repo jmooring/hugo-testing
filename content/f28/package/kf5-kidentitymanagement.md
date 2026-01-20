@@ -18,53 +18,53 @@ The package kf5-kidentitymanagement (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ar/libkpimidentities5.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/bs/libkpimidentities5.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ca/libkpimidentities5.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ca@valencia/libkpimidentities5.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/cs/libkpimidentities5.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/da/libkpimidentities5.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/de/libkpimidentities5.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/el/libkpimidentities5.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/en_GB/libkpimidentities5.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/es/libkpimidentities5.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/et/libkpimidentities5.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/fi/libkpimidentities5.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/fr/libkpimidentities5.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ga/libkpimidentities5.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/gl/libkpimidentities5.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/hu/libkpimidentities5.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ia/libkpimidentities5.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/it/libkpimidentities5.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ja/libkpimidentities5.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/kk/libkpimidentities5.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/km/libkpimidentities5.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ko/libkpimidentities5.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/lt/libkpimidentities5.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/lv/libkpimidentities5.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nb/libkpimidentities5.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nds/libkpimidentities5.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nl/libkpimidentities5.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nn/libkpimidentities5.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pl/libkpimidentities5.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pt/libkpimidentities5.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pt_BR/libkpimidentities5.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ru/libkpimidentities5.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sk/libkpimidentities5.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sl/libkpimidentities5.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sr/libkpimidentities5.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sv/libkpimidentities5.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/tr/libkpimidentities5.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/uk/libkpimidentities5.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/zh_CN/libkpimidentities5.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/zh_TW/libkpimidentities5.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 150 | 165 | 90.9 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/eo/libkpimidentities5.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 61 | 165 | 37.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ro/libkpimidentities5.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 20 | 165 | 12.1 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pa/libkpimidentities5.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 19 | 165 | 11.5 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/mr/libkpimidentities5.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 9 | 165 | 5.5 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ug/libkpimidentities5.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 2 | 165 | 1.2 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ast/libkpimidentities5.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 1 | 165 | 0.6 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/hi/libkpimidentities5.po | 
+ | [ar](/f28/language/ar) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ar/libkpimidentities5.po | 
+ | [bs](/f28/language/bs) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/bs/libkpimidentities5.po | 
+ | [ca](/f28/language/ca) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ca/libkpimidentities5.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ca@valencia/libkpimidentities5.po | 
+ | [cs](/f28/language/cs) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/cs/libkpimidentities5.po | 
+ | [da](/f28/language/da) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/da/libkpimidentities5.po | 
+ | [de](/f28/language/de) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/de/libkpimidentities5.po | 
+ | [el](/f28/language/el) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/el/libkpimidentities5.po | 
+ | [en_GB](/f28/language/en_GB) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/en_GB/libkpimidentities5.po | 
+ | [es](/f28/language/es) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/es/libkpimidentities5.po | 
+ | [et](/f28/language/et) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/et/libkpimidentities5.po | 
+ | [fi](/f28/language/fi) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/fi/libkpimidentities5.po | 
+ | [fr](/f28/language/fr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/fr/libkpimidentities5.po | 
+ | [ga](/f28/language/ga) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ga/libkpimidentities5.po | 
+ | [gl](/f28/language/gl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/gl/libkpimidentities5.po | 
+ | [hu](/f28/language/hu) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/hu/libkpimidentities5.po | 
+ | [ia](/f28/language/ia) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ia/libkpimidentities5.po | 
+ | [it](/f28/language/it) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/it/libkpimidentities5.po | 
+ | [ja](/f28/language/ja) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ja/libkpimidentities5.po | 
+ | [kk](/f28/language/kk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/kk/libkpimidentities5.po | 
+ | [km](/f28/language/km) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/km/libkpimidentities5.po | 
+ | [ko](/f28/language/ko) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ko/libkpimidentities5.po | 
+ | [lt](/f28/language/lt) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/lt/libkpimidentities5.po | 
+ | [lv](/f28/language/lv) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/lv/libkpimidentities5.po | 
+ | [nb_NO](/f28/language/nb_NO) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nb/libkpimidentities5.po | 
+ | [nds](/f28/language/nds) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nds/libkpimidentities5.po | 
+ | [nl](/f28/language/nl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nl/libkpimidentities5.po | 
+ | [nn](/f28/language/nn) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/nn/libkpimidentities5.po | 
+ | [pl](/f28/language/pl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pl/libkpimidentities5.po | 
+ | [pt](/f28/language/pt) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pt/libkpimidentities5.po | 
+ | [pt_BR](/f28/language/pt_BR) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pt_BR/libkpimidentities5.po | 
+ | [ru](/f28/language/ru) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ru/libkpimidentities5.po | 
+ | [sk](/f28/language/sk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sk/libkpimidentities5.po | 
+ | [sl](/f28/language/sl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sl/libkpimidentities5.po | 
+ | [sr](/f28/language/sr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sr/libkpimidentities5.po | 
+ | [sv](/f28/language/sv) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/sv/libkpimidentities5.po | 
+ | [tr](/f28/language/tr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/tr/libkpimidentities5.po | 
+ | [uk](/f28/language/uk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/uk/libkpimidentities5.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/zh_CN/libkpimidentities5.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 165 | 165 | 100.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/zh_TW/libkpimidentities5.po | 
+ | [eo](/f28/language/eo) | 150 | 165 | 90.9 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/eo/libkpimidentities5.po | 
+ | [ro](/f28/language/ro) | 61 | 165 | 37.0 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ro/libkpimidentities5.po | 
+ | [pa](/f28/language/pa) | 20 | 165 | 12.1 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/pa/libkpimidentities5.po | 
+ | [mr](/f28/language/mr) | 19 | 165 | 11.5 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/mr/libkpimidentities5.po | 
+ | [ug](/f28/language/ug) | 9 | 165 | 5.5 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ug/libkpimidentities5.po | 
+ | [ast](/f28/language/ast) | 2 | 165 | 1.2 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/ast/libkpimidentities5.po | 
+ | [hi](/f28/language/hi) | 1 | 165 | 0.6 | /mnt/stockage/packages/f28/kf5-kidentitymanagement/po/hi/libkpimidentities5.po | 
 {.sortable}
 
 

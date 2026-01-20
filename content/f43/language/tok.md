@@ -44,21 +44,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [godot]({{< ref "/f43/package/godot.md" >}}) | 6365 | 6365 | 100.0 | Toki Pona <https://hosted.weblate.org/projects/godot-engine/godot/tok/> | 
- | [lagrange]({{< ref "/f43/package/lagrange.md" >}}) | 1951 | 1965 | 99.3 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
- | [kf5-kxmlgui]({{< ref "/f43/package/kf5-kxmlgui.md" >}}) | 1535 | 1574 | 97.5 | toki pona | 
- | [kf6-kxmlgui]({{< ref "/f43/package/kf6-kxmlgui.md" >}}) | 1206 | 1289 | 93.6 | C <kde-i18n-doc@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f43/package/kf5-kcoreaddons.md" >}}) | 352 | 382 | 92.1 | toki pona | 
- | [kf6-kcoreaddons]({{< ref "/f43/package/kf6-kcoreaddons.md" >}}) | 373 | 485 | 76.9 | C <kde-i18n-doc@kde.org> | 
- | [kf6-kconfigwidgets]({{< ref "/f43/package/kf6-kconfigwidgets.md" >}}) | 218 | 312 | 69.9 | C <kde-i18n-doc@kde.org> | 
- | [kf5-kio]({{< ref "/f43/package/kf5-kio.md" >}}) | 7247 | 12037 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
- | [kf6-kio]({{< ref "/f43/package/kf6-kio.md" >}}) | 5037 | 8607 | 58.5 | C <kde-i18n-doc@kde.org> | 
- | [kio-extras]({{< ref "/f43/package/kio-extras.md" >}}) | 637 | 1743 | 36.5 | C <kde-i18n-doc@kde.org> | 
- | [folio]({{< ref "/f43/package/folio.md" >}}) | 283 | 954 | 29.7 |  | 
- | [neochat]({{< ref "/f43/package/neochat.md" >}}) | 90 | 4815 | 1.9 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
- | [minetest]({{< ref "/f43/package/minetest.md" >}}) | 57 | 10452 | 0.5 | Toki Pona <https://hosted.weblate.org/projects/minetest/minetest/tok/> | 
- | [kolourpaint]({{< ref "/f43/package/kolourpaint.md" >}}) | 10 | 2661 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
- | [gpaste]({{< ref "/f43/package/gpaste.md" >}}) | 0 | 1481 | 0.0 | none | 
+ | [godot](/f43/package/godot) | 6365 | 6365 | 100.0 | Toki Pona <https://hosted.weblate.org/projects/godot-engine/godot/tok/> | 
+ | [lagrange](/f43/package/lagrange) | 1951 | 1965 | 99.3 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
+ | [kf5-kxmlgui](/f43/package/kf5-kxmlgui) | 1535 | 1574 | 97.5 | toki pona | 
+ | [kf6-kxmlgui](/f43/package/kf6-kxmlgui) | 1206 | 1289 | 93.6 | C <kde-i18n-doc@kde.org> | 
+ | [kf5-kcoreaddons](/f43/package/kf5-kcoreaddons) | 352 | 382 | 92.1 | toki pona | 
+ | [kf6-kcoreaddons](/f43/package/kf6-kcoreaddons) | 373 | 485 | 76.9 | C <kde-i18n-doc@kde.org> | 
+ | [kf6-kconfigwidgets](/f43/package/kf6-kconfigwidgets) | 218 | 312 | 69.9 | C <kde-i18n-doc@kde.org> | 
+ | [kf5-kio](/f43/package/kf5-kio) | 7247 | 12037 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
+ | [kf6-kio](/f43/package/kf6-kio) | 5037 | 8607 | 58.5 | C <kde-i18n-doc@kde.org> | 
+ | [kio-extras](/f43/package/kio-extras) | 637 | 1743 | 36.5 | C <kde-i18n-doc@kde.org> | 
+ | [folio](/f43/package/folio) | 283 | 954 | 29.7 |  | 
+ | [neochat](/f43/package/neochat) | 90 | 4815 | 1.9 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
+ | [minetest](/f43/package/minetest) | 57 | 10452 | 0.5 | Toki Pona <https://hosted.weblate.org/projects/minetest/minetest/tok/> | 
+ | [kolourpaint](/f43/package/kolourpaint) | 10 | 2661 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
+ | [gpaste](/f43/package/gpaste) | 0 | 1481 | 0.0 | none | 
 {.sortable}
 
 

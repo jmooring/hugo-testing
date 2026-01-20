@@ -18,8 +18,8 @@ The package devscripts (version 2.19.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 50634 | 50634 | 100.0 | /mnt/stockage/packages/f30/devscripts/po4a/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 50634 | 50634 | 100.0 | /mnt/stockage/packages/f30/devscripts/po4a/po/fr.po | 
+ | [de](/f30/language/de) | 50634 | 50634 | 100.0 | /mnt/stockage/packages/f30/devscripts/po4a/po/de.po | 
+ | [fr](/f30/language/fr) | 50634 | 50634 | 100.0 | /mnt/stockage/packages/f30/devscripts/po4a/po/fr.po | 
 {.sortable}
 
 

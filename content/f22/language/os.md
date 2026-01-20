@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f22/package/python-django.md" >}}) | 2445 | 3327 | 73.5 | Ossetic (http://www.transifex.com/projects/p/django/language/os/) | 
- | [python-django-formtools]({{< ref "/f22/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/) | 
- | [pychess]({{< ref "/f22/package/pychess.md" >}}) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 11 | 15825 | 0.1 | Ossetian <os@li.org> | 
- | [exaile]({{< ref "/f22/package/exaile.md" >}}) | 1 | 4006 | 0.0 | Ossetian <os@li.org> | 
+ | [python-django](/f22/package/python-django) | 2445 | 3327 | 73.5 | Ossetic (http://www.transifex.com/projects/p/django/language/os/) | 
+ | [python-django-formtools](/f22/package/python-django-formtools) | 5 | 32 | 15.6 | Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/) | 
+ | [pychess](/f22/package/pychess) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 11 | 15825 | 0.1 | Ossetian <os@li.org> | 
+ | [exaile](/f22/package/exaile) | 1 | 4006 | 0.0 | Ossetian <os@li.org> | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package synfigstudio (version 0.62.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 3436 | 3436 | 100.0 | /mnt/stockage/packages/f14/synfigstudio/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 3428 | 3436 | 99.8 | /mnt/stockage/packages/f14/synfigstudio/po/fr.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 2892 | 3436 | 84.2 | /mnt/stockage/packages/f14/synfigstudio/po/ca.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 2135 | 3436 | 62.1 | /mnt/stockage/packages/f14/synfigstudio/po/ru.po | 
+ | [es](/f14/language/es) | 3436 | 3436 | 100.0 | /mnt/stockage/packages/f14/synfigstudio/po/es.po | 
+ | [fr](/f14/language/fr) | 3428 | 3436 | 99.8 | /mnt/stockage/packages/f14/synfigstudio/po/fr.po | 
+ | [ca](/f14/language/ca) | 2892 | 3436 | 84.2 | /mnt/stockage/packages/f14/synfigstudio/po/ca.po | 
+ | [ru](/f14/language/ru) | 2135 | 3436 | 62.1 | /mnt/stockage/packages/f14/synfigstudio/po/ru.po | 
 {.sortable}
 
 

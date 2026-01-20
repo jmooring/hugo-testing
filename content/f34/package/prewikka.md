@@ -18,14 +18,14 @@ The package prewikka (version 5.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 2274 | 2274 | 100.0 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/fr/LC_MESSAGES/prewikka.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1153 | 2274 | 50.7 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/it/LC_MESSAGES/prewikka.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1069 | 2274 | 47.0 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/ru/LC_MESSAGES/prewikka.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 871 | 2274 | 38.3 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/de/LC_MESSAGES/prewikka.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 450 | 2274 | 19.8 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/pt_BR/LC_MESSAGES/prewikka.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 435 | 2274 | 19.1 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/es/LC_MESSAGES/prewikka.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 366 | 2274 | 16.1 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/pl/LC_MESSAGES/prewikka.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 4 | 2270 | 0.2 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/en/LC_MESSAGES/prewikka.po | 
+ | [fr](/f34/language/fr) | 2274 | 2274 | 100.0 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/fr/LC_MESSAGES/prewikka.po | 
+ | [it](/f34/language/it) | 1153 | 2274 | 50.7 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/it/LC_MESSAGES/prewikka.po | 
+ | [ru](/f34/language/ru) | 1069 | 2274 | 47.0 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/ru/LC_MESSAGES/prewikka.po | 
+ | [de](/f34/language/de) | 871 | 2274 | 38.3 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/de/LC_MESSAGES/prewikka.po | 
+ | [pt_BR](/f34/language/pt_BR) | 450 | 2274 | 19.8 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/pt_BR/LC_MESSAGES/prewikka.po | 
+ | [es](/f34/language/es) | 435 | 2274 | 19.1 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/es/LC_MESSAGES/prewikka.po | 
+ | [pl](/f34/language/pl) | 366 | 2274 | 16.1 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/pl/LC_MESSAGES/prewikka.po | 
+ | [en](/f34/language/en) | 4 | 2270 | 0.2 | /mnt/stockage/packages/f34/prewikka/prewikka/locale/en/LC_MESSAGES/prewikka.po | 
 {.sortable}
 
 

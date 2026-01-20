@@ -42,23 +42,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f9/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Uzbek | 
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 301 | 330 | 91.2 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f9/package/gnome-backgrounds.md" >}}) | 28 | 36 | 77.8 | Uzbek | 
- | [ksig]({{< ref "/f9/package/ksig.md" >}}) | 65 | 85 | 76.5 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [gnome-nettool]({{< ref "/f9/package/gnome-nettool.md" >}}) | 784 | 1090 | 71.9 | Uzbek | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 107 | 165 | 64.8 | Uzbek | 
- | [bug-buddy]({{< ref "/f9/package/bug-buddy.md" >}}) | 593 | 972 | 61.0 | Uzbek | 
- | [konq-plugins]({{< ref "/f9/package/konq-plugins.md" >}}) | 938 | 1556 | 60.3 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [xmms]({{< ref "/f9/package/xmms.md" >}}) | 1796 | 3245 | 55.3 | Uzbek <uz-li@yahoogroups.com> | 
- | [dasher]({{< ref "/f9/package/dasher.md" >}}) | 245 | 445 | 55.1 | Uzbek | 
- | [kaffeine]({{< ref "/f9/package/kaffeine.md" >}}) | 1081 | 2354 | 45.9 | Uzbek <kmashrab@uni-bremen.de> | 
- | [amarok]({{< ref "/f9/package/amarok.md" >}}) | 3641 | 13254 | 27.5 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 2352 | 9200 | 25.6 | Uzbek | 
- | [k3b]({{< ref "/f9/package/k3b.md" >}}) | 2831 | 20630 | 13.7 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [gnome-mag]({{< ref "/f9/package/gnome-mag.md" >}}) | 60 | 596 | 10.1 | Uzbek | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 722 | 24184 | 3.0 | uzbek | 
- | [po4a]({{< ref "/f9/package/po4a.md" >}}) | 23 | 1613 | 1.4 | Uzbek <uz@li.org> | 
+ | [alacarte](/f9/package/alacarte) | 42 | 42 | 100.0 | Uzbek | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 301 | 330 | 91.2 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [gnome-backgrounds](/f9/package/gnome-backgrounds) | 28 | 36 | 77.8 | Uzbek | 
+ | [ksig](/f9/package/ksig) | 65 | 85 | 76.5 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [gnome-nettool](/f9/package/gnome-nettool) | 784 | 1090 | 71.9 | Uzbek | 
+ | [gnome-menus](/f9/package/gnome-menus) | 107 | 165 | 64.8 | Uzbek | 
+ | [bug-buddy](/f9/package/bug-buddy) | 593 | 972 | 61.0 | Uzbek | 
+ | [konq-plugins](/f9/package/konq-plugins) | 938 | 1556 | 60.3 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [xmms](/f9/package/xmms) | 1796 | 3245 | 55.3 | Uzbek <uz-li@yahoogroups.com> | 
+ | [dasher](/f9/package/dasher) | 245 | 445 | 55.1 | Uzbek | 
+ | [kaffeine](/f9/package/kaffeine) | 1081 | 2354 | 45.9 | Uzbek <kmashrab@uni-bremen.de> | 
+ | [amarok](/f9/package/amarok) | 3641 | 13254 | 27.5 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [gnome-panel](/f9/package/gnome-panel) | 2352 | 9200 | 25.6 | Uzbek | 
+ | [k3b](/f9/package/k3b) | 2831 | 20630 | 13.7 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [gnome-mag](/f9/package/gnome-mag) | 60 | 596 | 10.1 | Uzbek | 
+ | [gtk2](/f9/package/gtk2) | 722 | 24184 | 3.0 | uzbek | 
+ | [po4a](/f9/package/po4a) | 23 | 1613 | 1.4 | Uzbek <uz@li.org> | 
 {.sortable}
 
 

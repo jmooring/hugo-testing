@@ -18,10 +18,10 @@ The package gimp-resynthesizer (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 329 | 472 | 69.7 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/ru.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 27 | 472 | 5.7 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/es.po | 
+ | [fr](/f42/language/fr) | 472 | 472 | 100.0 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 472 | 472 | 100.0 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 329 | 472 | 69.7 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/ru.po | 
+ | [es](/f42/language/es) | 27 | 472 | 5.7 | /mnt/stockage/packages/f42/gimp-resynthesizer/po/es.po | 
 {.sortable}
 
 

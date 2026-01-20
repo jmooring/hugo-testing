@@ -18,26 +18,26 @@ The package mailnag (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/fr.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/hr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/it.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/tr.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 199 | 207 | 96.1 | /mnt/stockage/packages/f43/mailnag/po/ca.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 181 | 207 | 87.4 | /mnt/stockage/packages/f43/mailnag/po/sv.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 175 | 207 | 84.5 | /mnt/stockage/packages/f43/mailnag/po/pt_BR.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 167 | 207 | 80.7 | /mnt/stockage/packages/f43/mailnag/po/bg.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 167 | 207 | 80.7 | /mnt/stockage/packages/f43/mailnag/po/cs.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 167 | 207 | 80.7 | /mnt/stockage/packages/f43/mailnag/po/pt.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 160 | 207 | 77.3 | /mnt/stockage/packages/f43/mailnag/po/ru.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 142 | 207 | 68.6 | /mnt/stockage/packages/f43/mailnag/po/sr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 141 | 207 | 68.1 | /mnt/stockage/packages/f43/mailnag/po/id.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 126 | 207 | 60.9 | /mnt/stockage/packages/f43/mailnag/po/pl.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 122 | 207 | 58.9 | /mnt/stockage/packages/f43/mailnag/po/es.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 120 | 207 | 58.0 | /mnt/stockage/packages/f43/mailnag/po/uk.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 114 | 207 | 55.1 | /mnt/stockage/packages/f43/mailnag/po/gl.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 113 | 207 | 54.6 | /mnt/stockage/packages/f43/mailnag/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 82 | 207 | 39.6 | /mnt/stockage/packages/f43/mailnag/po/zh_CN.po | 
+ | [de](/f43/language/de) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/de.po | 
+ | [fr](/f43/language/fr) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/fr.po | 
+ | [hr](/f43/language/hr) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/hr.po | 
+ | [it](/f43/language/it) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/it.po | 
+ | [tr](/f43/language/tr) | 207 | 207 | 100.0 | /mnt/stockage/packages/f43/mailnag/po/tr.po | 
+ | [ca](/f43/language/ca) | 199 | 207 | 96.1 | /mnt/stockage/packages/f43/mailnag/po/ca.po | 
+ | [sv](/f43/language/sv) | 181 | 207 | 87.4 | /mnt/stockage/packages/f43/mailnag/po/sv.po | 
+ | [pt_BR](/f43/language/pt_BR) | 175 | 207 | 84.5 | /mnt/stockage/packages/f43/mailnag/po/pt_BR.po | 
+ | [bg](/f43/language/bg) | 167 | 207 | 80.7 | /mnt/stockage/packages/f43/mailnag/po/bg.po | 
+ | [cs](/f43/language/cs) | 167 | 207 | 80.7 | /mnt/stockage/packages/f43/mailnag/po/cs.po | 
+ | [pt](/f43/language/pt) | 167 | 207 | 80.7 | /mnt/stockage/packages/f43/mailnag/po/pt.po | 
+ | [ru](/f43/language/ru) | 160 | 207 | 77.3 | /mnt/stockage/packages/f43/mailnag/po/ru.po | 
+ | [sr](/f43/language/sr) | 142 | 207 | 68.6 | /mnt/stockage/packages/f43/mailnag/po/sr.po | 
+ | [id](/f43/language/id) | 141 | 207 | 68.1 | /mnt/stockage/packages/f43/mailnag/po/id.po | 
+ | [pl](/f43/language/pl) | 126 | 207 | 60.9 | /mnt/stockage/packages/f43/mailnag/po/pl.po | 
+ | [es](/f43/language/es) | 122 | 207 | 58.9 | /mnt/stockage/packages/f43/mailnag/po/es.po | 
+ | [uk](/f43/language/uk) | 120 | 207 | 58.0 | /mnt/stockage/packages/f43/mailnag/po/uk.po | 
+ | [gl](/f43/language/gl) | 114 | 207 | 55.1 | /mnt/stockage/packages/f43/mailnag/po/gl.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 113 | 207 | 54.6 | /mnt/stockage/packages/f43/mailnag/po/zh_TW.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 82 | 207 | 39.6 | /mnt/stockage/packages/f43/mailnag/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package naev-data (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 165843 | 166442 | 99.6 | /mnt/stockage/packages/f32/naev-data/po/de.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 13468 | 173899 | 7.7 | /mnt/stockage/packages/f32/naev-data/po/ko.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 239 | 103781 | 0.2 | /mnt/stockage/packages/f32/naev-data/po/ja.po | 
+ | [de](/f32/language/de) | 165843 | 166442 | 99.6 | /mnt/stockage/packages/f32/naev-data/po/de.po | 
+ | [ko](/f32/language/ko) | 13468 | 173899 | 7.7 | /mnt/stockage/packages/f32/naev-data/po/ko.po | 
+ | [ja](/f32/language/ja) | 239 | 103781 | 0.2 | /mnt/stockage/packages/f32/naev-data/po/ja.po | 
 {.sortable}
 
 

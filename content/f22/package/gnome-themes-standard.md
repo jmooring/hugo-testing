@@ -18,75 +18,75 @@ The package gnome-themes-standard (version 3.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f22/language/af.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/af.po | 
- | [an]({{< ref "/f22/language/an.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/an.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ar.po | 
- | [as]({{< ref "/f22/language/as.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/as.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/be.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/bg.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/bn_IN.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ca.po/mnt/stockage/packages/f22/gnome-themes-standard/po/ca@valencia.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/el.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/en_CA.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/en_GB.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/eo.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/eu.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fr.po | 
- | [fy]({{< ref "/f22/language/fy.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fy.po | 
- | [ga]({{< ref "/f22/language/ga.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ga.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/gl.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/gu.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/he.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/hi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/id.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/is.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ja.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/kk.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/km.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/lv.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ml.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/mr.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/nl.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/oc.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/or.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sr.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/te.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/tg.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/tr.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/uk.po | 
- | [uz]({{< ref "/f22/language/uz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/zh_HK.po | 
- | [fur]({{< ref "/f22/language/fur.md" >}}) | 11 | 12 | 91.7 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fur.po | 
+ | [af](/f22/language/af) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/af.po | 
+ | [an](/f22/language/an) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/an.po | 
+ | [ar](/f22/language/ar) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ar.po | 
+ | [as](/f22/language/as) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/as.po | 
+ | [be](/f22/language/be) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/be.po | 
+ | [bg](/f22/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/bg.po | 
+ | [bn_IN](/f22/language/bn_IN) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/bn_IN.po | 
+ | [bs](/f22/language/bs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/bs.po | 
+ | [ca](/f22/language/ca) | 48 | 48 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ca.po/mnt/stockage/packages/f22/gnome-themes-standard/po/ca@valencia.po | 
+ | [cs](/f22/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/cs.po | 
+ | [da](/f22/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/da.po | 
+ | [de](/f22/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/de.po | 
+ | [el](/f22/language/el) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/el.po | 
+ | [en_CA](/f22/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/en_CA.po | 
+ | [en_GB](/f22/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/en_GB.po | 
+ | [eo](/f22/language/eo) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/eo.po | 
+ | [es](/f22/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/es.po | 
+ | [et](/f22/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/et.po | 
+ | [eu](/f22/language/eu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/eu.po | 
+ | [fa](/f22/language/fa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fa.po | 
+ | [fi](/f22/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fi.po | 
+ | [fr](/f22/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fr.po | 
+ | [fy](/f22/language/fy) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fy.po | 
+ | [ga](/f22/language/ga) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ga.po | 
+ | [gl](/f22/language/gl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/gl.po | 
+ | [gu](/f22/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/gu.po | 
+ | [he](/f22/language/he) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/he.po | 
+ | [hi](/f22/language/hi) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/hi.po | 
+ | [hu](/f22/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/hu.po | 
+ | [id](/f22/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/id.po | 
+ | [is](/f22/language/is) | 10 | 10 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/is.po | 
+ | [it](/f22/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/it.po | 
+ | [ja](/f22/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ja.po | 
+ | [kk](/f22/language/kk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/kk.po | 
+ | [km](/f22/language/km) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/km.po | 
+ | [kn](/f22/language/kn) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/kn.po | 
+ | [ko](/f22/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ko.po | 
+ | [lt](/f22/language/lt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/lt.po | 
+ | [lv](/f22/language/lv) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/lv.po | 
+ | [ml](/f22/language/ml) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ml.po | 
+ | [mr](/f22/language/mr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/mr.po | 
+ | [nb_NO](/f22/language/nb_NO) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/nb.po | 
+ | [nl](/f22/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/nl.po | 
+ | [oc](/f22/language/oc) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/oc.po | 
+ | [or](/f22/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/or.po | 
+ | [pa](/f22/language/pa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pa.po | 
+ | [pl](/f22/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pl.po | 
+ | [pt](/f22/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ro.po | 
+ | [ru](/f22/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ru.po | 
+ | [sk](/f22/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sk.po | 
+ | [sl](/f22/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sl.po | 
+ | [sr](/f22/language/sr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sr.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/sv.po | 
+ | [ta](/f22/language/ta) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ta.po | 
+ | [te](/f22/language/te) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/te.po | 
+ | [tg](/f22/language/tg) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/tg.po | 
+ | [th](/f22/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/th.po | 
+ | [tr](/f22/language/tr) | 12 | 12 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/tr.po | 
+ | [ug](/f22/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/ug.po | 
+ | [uk](/f22/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/uk.po | 
+ | [uz](/f22/language/uz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/uz@cyrillic.po | 
+ | [vi](/f22/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/gnome-themes-standard/po/zh_HK.po | 
+ | [fur](/f22/language/fur) | 11 | 12 | 91.7 | /mnt/stockage/packages/f22/gnome-themes-standard/po/fur.po | 
 {.sortable}
 
 

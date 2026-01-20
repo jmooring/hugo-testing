@@ -18,11 +18,11 @@ The package pal (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f28/pal/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f28/pal/po/es.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f28/pal/po/sv.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1133 | 1151 | 98.4 | /mnt/stockage/packages/f28/pal/po/pl.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 138 | 1151 | 12.0 | /mnt/stockage/packages/f28/pal/po/tr.po | 
+ | [de](/f28/language/de) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f28/pal/po/de.po | 
+ | [es](/f28/language/es) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f28/pal/po/es.po | 
+ | [sv](/f28/language/sv) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f28/pal/po/sv.po | 
+ | [pl](/f28/language/pl) | 1133 | 1151 | 98.4 | /mnt/stockage/packages/f28/pal/po/pl.po | 
+ | [tr](/f28/language/tr) | 138 | 1151 | 12.0 | /mnt/stockage/packages/f28/pal/po/tr.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package gtweakui (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 153 | 252 | 60.7 | /mnt/stockage/packages/f20/gtweakui/po/tr.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/ca.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/es.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/pl.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 139 | 252 | 55.2 | /mnt/stockage/packages/f20/gtweakui/po/fr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 138 | 252 | 54.8 | /mnt/stockage/packages/f20/gtweakui/po/nl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 122 | 252 | 48.4 | /mnt/stockage/packages/f20/gtweakui/po/zh_CN.po | 
+ | [tr](/f20/language/tr) | 153 | 252 | 60.7 | /mnt/stockage/packages/f20/gtweakui/po/tr.po | 
+ | [ca](/f20/language/ca) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/ca.po | 
+ | [de](/f20/language/de) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/de.po | 
+ | [es](/f20/language/es) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/es.po | 
+ | [pl](/f20/language/pl) | 146 | 252 | 57.9 | /mnt/stockage/packages/f20/gtweakui/po/pl.po | 
+ | [fr](/f20/language/fr) | 139 | 252 | 55.2 | /mnt/stockage/packages/f20/gtweakui/po/fr.po | 
+ | [nl](/f20/language/nl) | 138 | 252 | 54.8 | /mnt/stockage/packages/f20/gtweakui/po/nl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 122 | 252 | 48.4 | /mnt/stockage/packages/f20/gtweakui/po/zh_CN.po | 
 {.sortable}
 
 

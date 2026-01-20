@@ -18,16 +18,16 @@ The package lingot (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f42/lingot/po/es.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f42/lingot/po/gl.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1052 | 1379 | 76.3 | /mnt/stockage/packages/f42/lingot/po/it.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1002 | 1379 | 72.7 | /mnt/stockage/packages/f42/lingot/po/cs.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 83 | 1379 | 6.0 | /mnt/stockage/packages/f42/lingot/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 81 | 1379 | 5.9 | /mnt/stockage/packages/f42/lingot/po/pt_BR.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 77 | 1379 | 5.6 | /mnt/stockage/packages/f42/lingot/po/sv.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 77 | 1379 | 5.6 | /mnt/stockage/packages/f42/lingot/po/zh_CN.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 45 | 1379 | 3.3 | /mnt/stockage/packages/f42/lingot/po/ca.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 44 | 1379 | 3.2 | /mnt/stockage/packages/f42/lingot/po/de.po | 
+ | [es](/f42/language/es) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f42/lingot/po/es.po | 
+ | [gl](/f42/language/gl) | 1379 | 1379 | 100.0 | /mnt/stockage/packages/f42/lingot/po/gl.po | 
+ | [it](/f42/language/it) | 1052 | 1379 | 76.3 | /mnt/stockage/packages/f42/lingot/po/it.po | 
+ | [cs](/f42/language/cs) | 1002 | 1379 | 72.7 | /mnt/stockage/packages/f42/lingot/po/cs.po | 
+ | [fr](/f42/language/fr) | 83 | 1379 | 6.0 | /mnt/stockage/packages/f42/lingot/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 81 | 1379 | 5.9 | /mnt/stockage/packages/f42/lingot/po/pt_BR.po | 
+ | [sv](/f42/language/sv) | 77 | 1379 | 5.6 | /mnt/stockage/packages/f42/lingot/po/sv.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 77 | 1379 | 5.6 | /mnt/stockage/packages/f42/lingot/po/zh_CN.po | 
+ | [ca](/f42/language/ca) | 45 | 1379 | 3.3 | /mnt/stockage/packages/f42/lingot/po/ca.po | 
+ | [de](/f42/language/de) | 44 | 1379 | 3.2 | /mnt/stockage/packages/f42/lingot/po/de.po | 
 {.sortable}
 
 

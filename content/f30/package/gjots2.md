@@ -18,16 +18,16 @@ The package gjots2 (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f30/language/es.md" >}}) | 781 | 1065 | 73.3 | /mnt/stockage/packages/f30/gjots2/po/es.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 774 | 1065 | 72.7 | /mnt/stockage/packages/f30/gjots2/po/sl.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 772 | 1065 | 72.5 | /mnt/stockage/packages/f30/gjots2/po/de_DE.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 765 | 1065 | 71.8 | /mnt/stockage/packages/f30/gjots2/po/sv.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/cs.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/it.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 1470 | 2130 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/no.po/mnt/stockage/packages/f30/gjots2/po/nb.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/ru.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 718 | 1065 | 67.4 | /mnt/stockage/packages/f30/gjots2/po/en_US.po | 
+ | [es](/f30/language/es) | 781 | 1065 | 73.3 | /mnt/stockage/packages/f30/gjots2/po/es.po | 
+ | [sl](/f30/language/sl) | 774 | 1065 | 72.7 | /mnt/stockage/packages/f30/gjots2/po/sl.po | 
+ | [de](/f30/language/de) | 772 | 1065 | 72.5 | /mnt/stockage/packages/f30/gjots2/po/de_DE.po | 
+ | [sv](/f30/language/sv) | 765 | 1065 | 71.8 | /mnt/stockage/packages/f30/gjots2/po/sv.po | 
+ | [cs](/f30/language/cs) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/cs.po | 
+ | [fr](/f30/language/fr) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/fr.po | 
+ | [it](/f30/language/it) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/it.po | 
+ | [nb_NO](/f30/language/nb_NO) | 1470 | 2130 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/no.po/mnt/stockage/packages/f30/gjots2/po/nb.po | 
+ | [ru](/f30/language/ru) | 735 | 1065 | 69.0 | /mnt/stockage/packages/f30/gjots2/po/ru.po | 
+ | [en_US](/f30/language/en_US) | 718 | 1065 | 67.4 | /mnt/stockage/packages/f30/gjots2/po/en_US.po | 
 {.sortable}
 
 

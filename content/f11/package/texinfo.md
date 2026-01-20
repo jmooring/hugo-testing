@@ -18,28 +18,28 @@ The package texinfo (version 4.13a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/es.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/pl.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/tr.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/vi.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 4667 | 4691 | 99.5 | /mnt/stockage/packages/f11/texinfo/po/zh_CN.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 4538 | 4691 | 96.7 | /mnt/stockage/packages/f11/texinfo/po/sv.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 3104 | 4691 | 66.2 | /mnt/stockage/packages/f11/texinfo/po/fr.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/eo.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/nb.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/ru.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 2559 | 4691 | 54.6 | /mnt/stockage/packages/f11/texinfo/po/da.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 2541 | 4691 | 54.2 | /mnt/stockage/packages/f11/texinfo/po/he.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 2508 | 4691 | 53.5 | /mnt/stockage/packages/f11/texinfo/po/hu.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 2422 | 4691 | 51.6 | /mnt/stockage/packages/f11/texinfo/po/ja.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 2041 | 4691 | 43.5 | /mnt/stockage/packages/f11/texinfo/po/cs.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 1892 | 4691 | 40.3 | /mnt/stockage/packages/f11/texinfo/po/zh_TW.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 1731 | 4691 | 36.9 | /mnt/stockage/packages/f11/texinfo/po/hr.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 21 | 4691 | 0.4 | /mnt/stockage/packages/f11/texinfo/po/rw.po | 
- | [de_AT]({{< ref "/f11/language/de_AT.md" >}}) | 1 | 4691 | 0.0 | /mnt/stockage/packages/f11/texinfo/po/de_AT.po | 
+ | [de](/f11/language/de) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/de.po | 
+ | [es](/f11/language/es) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/es.po | 
+ | [nl](/f11/language/nl) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/nl.po | 
+ | [pl](/f11/language/pl) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/pl.po | 
+ | [tr](/f11/language/tr) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/tr.po | 
+ | [vi](/f11/language/vi) | 4691 | 4691 | 100.0 | /mnt/stockage/packages/f11/texinfo/po/vi.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 4667 | 4691 | 99.5 | /mnt/stockage/packages/f11/texinfo/po/zh_CN.po | 
+ | [sv](/f11/language/sv) | 4538 | 4691 | 96.7 | /mnt/stockage/packages/f11/texinfo/po/sv.po | 
+ | [fr](/f11/language/fr) | 3104 | 4691 | 66.2 | /mnt/stockage/packages/f11/texinfo/po/fr.po | 
+ | [eo](/f11/language/eo) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/eo.po | 
+ | [nb_NO](/f11/language/nb_NO) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/nb.po | 
+ | [ro](/f11/language/ro) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/ro.po | 
+ | [ru](/f11/language/ru) | 3088 | 4691 | 65.8 | /mnt/stockage/packages/f11/texinfo/po/ru.po | 
+ | [da](/f11/language/da) | 2559 | 4691 | 54.6 | /mnt/stockage/packages/f11/texinfo/po/da.po | 
+ | [he](/f11/language/he) | 2541 | 4691 | 54.2 | /mnt/stockage/packages/f11/texinfo/po/he.po | 
+ | [hu](/f11/language/hu) | 2508 | 4691 | 53.5 | /mnt/stockage/packages/f11/texinfo/po/hu.po | 
+ | [ja](/f11/language/ja) | 2422 | 4691 | 51.6 | /mnt/stockage/packages/f11/texinfo/po/ja.po | 
+ | [cs](/f11/language/cs) | 2041 | 4691 | 43.5 | /mnt/stockage/packages/f11/texinfo/po/cs.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 1892 | 4691 | 40.3 | /mnt/stockage/packages/f11/texinfo/po/zh_TW.po | 
+ | [hr](/f11/language/hr) | 1731 | 4691 | 36.9 | /mnt/stockage/packages/f11/texinfo/po/hr.po | 
+ | [rw](/f11/language/rw) | 21 | 4691 | 0.4 | /mnt/stockage/packages/f11/texinfo/po/rw.po | 
+ | [de_AT](/f11/language/de_AT) | 1 | 4691 | 0.0 | /mnt/stockage/packages/f11/texinfo/po/de_AT.po | 
 {.sortable}
 
 

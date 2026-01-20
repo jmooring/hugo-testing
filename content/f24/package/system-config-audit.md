@@ -18,49 +18,49 @@ The package system-config-audit (version 0.4.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f24/language/as.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/as.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/bn.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/bn_IN.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/bs.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/fr.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/gu.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/hi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ja.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/kn.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ko.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/mai.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/mr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/nl.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/or.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/te.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/zh_TW.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 1132 | 1241 | 91.2 | /mnt/stockage/packages/f24/system-config-audit/po/bg.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 525 | 1241 | 42.3 | /mnt/stockage/packages/f24/system-config-audit/po/et.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 449 | 1241 | 36.2 | /mnt/stockage/packages/f24/system-config-audit/po/ca.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 123 | 1241 | 9.9 | /mnt/stockage/packages/f24/system-config-audit/po/tr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 88 | 1241 | 7.1 | /mnt/stockage/packages/f24/system-config-audit/po/ar.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 45 | 1241 | 3.6 | /mnt/stockage/packages/f24/system-config-audit/po/nds.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 29 | 1241 | 2.3 | /mnt/stockage/packages/f24/system-config-audit/po/nb.po | 
+ | [as](/f24/language/as) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/as.po | 
+ | [bn](/f24/language/bn) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/bn.po | 
+ | [bn_IN](/f24/language/bn_IN) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/bn_IN.po | 
+ | [bs](/f24/language/bs) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/bs.po | 
+ | [cs](/f24/language/cs) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/cs.po | 
+ | [da](/f24/language/da) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/da.po | 
+ | [de](/f24/language/de) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/de.po | 
+ | [el](/f24/language/el) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/el.po | 
+ | [es](/f24/language/es) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/es.po | 
+ | [fr](/f24/language/fr) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/fr.po | 
+ | [gu](/f24/language/gu) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/gu.po | 
+ | [hi](/f24/language/hi) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/hi.po | 
+ | [hu](/f24/language/hu) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/hu.po | 
+ | [it](/f24/language/it) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/it.po | 
+ | [ja](/f24/language/ja) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ja.po | 
+ | [kn](/f24/language/kn) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/kn.po | 
+ | [ko](/f24/language/ko) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ko.po | 
+ | [mai](/f24/language/mai) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/mai.po | 
+ | [ml](/f24/language/ml) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ml.po | 
+ | [mr](/f24/language/mr) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/mr.po | 
+ | [nl](/f24/language/nl) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/nl.po | 
+ | [or](/f24/language/or) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/or.po | 
+ | [pa](/f24/language/pa) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pa.po | 
+ | [pl](/f24/language/pl) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pl.po | 
+ | [pt](/f24/language/pt) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ru.po | 
+ | [sk](/f24/language/sk) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sk.po | 
+ | [sr](/f24/language/sr) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/sv.po | 
+ | [ta](/f24/language/ta) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/ta.po | 
+ | [te](/f24/language/te) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/te.po | 
+ | [uk](/f24/language/uk) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f24/system-config-audit/po/zh_TW.po | 
+ | [bg](/f24/language/bg) | 1132 | 1241 | 91.2 | /mnt/stockage/packages/f24/system-config-audit/po/bg.po | 
+ | [et](/f24/language/et) | 525 | 1241 | 42.3 | /mnt/stockage/packages/f24/system-config-audit/po/et.po | 
+ | [ca](/f24/language/ca) | 449 | 1241 | 36.2 | /mnt/stockage/packages/f24/system-config-audit/po/ca.po | 
+ | [tr](/f24/language/tr) | 123 | 1241 | 9.9 | /mnt/stockage/packages/f24/system-config-audit/po/tr.po | 
+ | [ar](/f24/language/ar) | 88 | 1241 | 7.1 | /mnt/stockage/packages/f24/system-config-audit/po/ar.po | 
+ | [nds](/f24/language/nds) | 45 | 1241 | 3.6 | /mnt/stockage/packages/f24/system-config-audit/po/nds.po | 
+ | [nb_NO](/f24/language/nb_NO) | 29 | 1241 | 2.3 | /mnt/stockage/packages/f24/system-config-audit/po/nb.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package vdr-iptv (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/ca_ES.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/de_DE.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/es_ES.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/lt_LT.po/mnt/stockage/packages/f42/vdr-iptv/po/fi_FI.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/fr_FR.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/it_IT.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/nl_NL.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/pl_PL.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 54 | 191 | 28.3 | /mnt/stockage/packages/f42/vdr-iptv/po/ru_RU.po | 
+ | [ca](/f42/language/ca) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/ca_ES.po | 
+ | [de](/f42/language/de) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/de_DE.po | 
+ | [es](/f42/language/es) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/es_ES.po | 
+ | [fi](/f42/language/fi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/lt_LT.po/mnt/stockage/packages/f42/vdr-iptv/po/fi_FI.po | 
+ | [fr](/f42/language/fr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/fr_FR.po | 
+ | [it](/f42/language/it) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/it_IT.po | 
+ | [nl](/f42/language/nl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/nl_NL.po | 
+ | [pl](/f42/language/pl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f42/vdr-iptv/po/pl_PL.po | 
+ | [ru](/f42/language/ru) | 54 | 191 | 28.3 | /mnt/stockage/packages/f42/vdr-iptv/po/ru_RU.po | 
 {.sortable}
 
 

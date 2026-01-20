@@ -18,47 +18,47 @@ The package anerley (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ar.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ast.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ca.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ca@valencia.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/de.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/bn_IN.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/gl.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ko.po | 
- | [lo]({{< ref "/f16/language/lo.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/lo.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ms.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/nl.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/sv.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/uk.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/wa.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/zh_TW.po | 
- | [es_MX]({{< ref "/f16/language/es_MX.md" >}}) | 8 | 11 | 72.7 | /mnt/stockage/packages/f16/anerley/po/es_MX.po | 
+ | [ar](/f16/language/ar) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ar.po | 
+ | [ast](/f16/language/ast) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ast.po | 
+ | [ca](/f16/language/ca) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ca.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ca@valencia.po | 
+ | [cs](/f16/language/cs) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/cs.po | 
+ | [da](/f16/language/da) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/da.po | 
+ | [de](/f16/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/de.po | 
+ | [en](/f16/language/en) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/bn_IN.po | 
+ | [en_GB](/f16/language/en_GB) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/en_GB.po | 
+ | [es](/f16/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/es.po | 
+ | [eu](/f16/language/eu) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/eu.po | 
+ | [fa](/f16/language/fa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/fa.po | 
+ | [fi](/f16/language/fi) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/fi.po | 
+ | [fr](/f16/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/fr.po | 
+ | [gl](/f16/language/gl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/gl.po | 
+ | [hi](/f16/language/hi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/hi.po | 
+ | [hu](/f16/language/hu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/hu.po | 
+ | [id](/f16/language/id) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/id.po | 
+ | [it](/f16/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/it.po | 
+ | [ja](/f16/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ja.po | 
+ | [ko](/f16/language/ko) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ko.po | 
+ | [lo](/f16/language/lo) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/lo.po | 
+ | [ms](/f16/language/ms) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ms.po | 
+ | [nb_NO](/f16/language/nb_NO) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/nb.po | 
+ | [nl](/f16/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/nl.po | 
+ | [pa](/f16/language/pa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pa.po | 
+ | [pl](/f16/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pl.po | 
+ | [pt](/f16/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ro.po | 
+ | [ru](/f16/language/ru) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/ru.po | 
+ | [sk](/f16/language/sk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/sk.po | 
+ | [sl](/f16/language/sl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/sl.po | 
+ | [sv](/f16/language/sv) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/sv.po | 
+ | [th](/f16/language/th) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/anerley/po/th.po | 
+ | [tr](/f16/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/tr.po | 
+ | [uk](/f16/language/uk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/uk.po | 
+ | [wa](/f16/language/wa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/wa.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/anerley/po/zh_TW.po | 
+ | [es_MX](/f16/language/es_MX) | 8 | 11 | 72.7 | /mnt/stockage/packages/f16/anerley/po/es_MX.po | 
 {.sortable}
 
 

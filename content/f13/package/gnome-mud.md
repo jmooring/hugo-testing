@@ -18,36 +18,36 @@ The package gnome-mud (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/de.po | 
- | [dz]({{< ref "/f13/language/dz.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/dz.po | 
- | [en_CA]({{< ref "/f13/language/en_CA.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/en_CA.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/en_GB.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/sr@Latn.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1057 | 1057 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1057 | 1057 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/fr.po | 
- | [ne]({{< ref "/f13/language/ne.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/ne.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/nl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1289 | 1289 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1057 | 1057 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/pt_BR.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/sr.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/sv.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/uk.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/zh_CN.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 970 | 1080 | 89.8 | /mnt/stockage/packages/f13/gnome-mud/po/el.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 899 | 1276 | 70.5 | /mnt/stockage/packages/f13/gnome-mud/po/tr.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 249 | 1200 | 20.8 | /mnt/stockage/packages/f13/gnome-mud/po/pl.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 221 | 1295 | 17.1 | /mnt/stockage/packages/f13/gnome-mud/po/pa.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 126 | 1057 | 11.9 | /mnt/stockage/packages/f13/gnome-mud/po/nb.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 120 | 1158 | 10.4 | /mnt/stockage/packages/f13/gnome-mud/po/hr.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 117 | 1158 | 10.1 | /mnt/stockage/packages/f13/gnome-mud/po/ar.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 110 | 1161 | 9.5 | /mnt/stockage/packages/f13/gnome-mud/po/oc.po | 
- | [az]({{< ref "/f13/language/az.md" >}}) | 58 | 1200 | 4.8 | /mnt/stockage/packages/f13/gnome-mud/po/az.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 41 | 1200 | 3.4 | /mnt/stockage/packages/f13/gnome-mud/po/ml.po | 
- | [rw]({{< ref "/f13/language/rw.md" >}}) | 42 | 1309 | 3.2 | /mnt/stockage/packages/f13/gnome-mud/po/rw.po | 
- | [mk]({{< ref "/f13/language/mk.md" >}}) | 0 | 1200 | 0.0 | /mnt/stockage/packages/f13/gnome-mud/po/mk.po | 
+ | [ca](/f13/language/ca) | 766 | 766 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/ca.po | 
+ | [cs](/f13/language/cs) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/cs.po | 
+ | [de](/f13/language/de) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/de.po | 
+ | [dz](/f13/language/dz) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/dz.po | 
+ | [en_CA](/f13/language/en_CA) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/en_CA.po | 
+ | [en_GB](/f13/language/en_GB) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/en_GB.po | 
+ | [error](/f13/language/error) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/sr@Latn.po | 
+ | [es](/f13/language/es) | 1057 | 1057 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/es.po | 
+ | [fr](/f13/language/fr) | 1057 | 1057 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/fr.po | 
+ | [ne](/f13/language/ne) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/ne.po | 
+ | [nl](/f13/language/nl) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/nl.po | 
+ | [pt](/f13/language/pt) | 1289 | 1289 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1057 | 1057 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/pt_BR.po | 
+ | [sr](/f13/language/sr) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/sr.po | 
+ | [sv](/f13/language/sv) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/sv.po | 
+ | [uk](/f13/language/uk) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/uk.po | 
+ | [vi](/f13/language/vi) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f13/gnome-mud/po/zh_CN.po | 
+ | [el](/f13/language/el) | 970 | 1080 | 89.8 | /mnt/stockage/packages/f13/gnome-mud/po/el.po | 
+ | [tr](/f13/language/tr) | 899 | 1276 | 70.5 | /mnt/stockage/packages/f13/gnome-mud/po/tr.po | 
+ | [pl](/f13/language/pl) | 249 | 1200 | 20.8 | /mnt/stockage/packages/f13/gnome-mud/po/pl.po | 
+ | [pa](/f13/language/pa) | 221 | 1295 | 17.1 | /mnt/stockage/packages/f13/gnome-mud/po/pa.po | 
+ | [nb_NO](/f13/language/nb_NO) | 126 | 1057 | 11.9 | /mnt/stockage/packages/f13/gnome-mud/po/nb.po | 
+ | [hr](/f13/language/hr) | 120 | 1158 | 10.4 | /mnt/stockage/packages/f13/gnome-mud/po/hr.po | 
+ | [ar](/f13/language/ar) | 117 | 1158 | 10.1 | /mnt/stockage/packages/f13/gnome-mud/po/ar.po | 
+ | [oc](/f13/language/oc) | 110 | 1161 | 9.5 | /mnt/stockage/packages/f13/gnome-mud/po/oc.po | 
+ | [az](/f13/language/az) | 58 | 1200 | 4.8 | /mnt/stockage/packages/f13/gnome-mud/po/az.po | 
+ | [ml](/f13/language/ml) | 41 | 1200 | 3.4 | /mnt/stockage/packages/f13/gnome-mud/po/ml.po | 
+ | [rw](/f13/language/rw) | 42 | 1309 | 3.2 | /mnt/stockage/packages/f13/gnome-mud/po/rw.po | 
+ | [mk](/f13/language/mk) | 0 | 1200 | 0.0 | /mnt/stockage/packages/f13/gnome-mud/po/mk.po | 
 {.sortable}
 
 

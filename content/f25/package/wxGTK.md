@@ -18,43 +18,43 @@ The package wxGTK (version 2.8.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/wxGTK/samples/internat/ar/internat.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/wxGTK/samples/internat/bg/internat.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 6497 | 6497 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/ja.po/mnt/stockage/packages/f25/wxGTK/samples/internat/ja/internat.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f25/wxGTK/samples/internat/ka/internat.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/nl.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/sl.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/tr.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/vi.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 6329 | 6391 | 99.0 | /mnt/stockage/packages/f25/wxGTK/locale/pt_BR.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 6359 | 6501 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/sv.po/mnt/stockage/packages/f25/wxGTK/samples/internat/sv/internat.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 6300 | 6442 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/fr.po/mnt/stockage/packages/f25/wxGTK/samples/internat/fr/internat.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 6249 | 6391 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/pt.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 6249 | 6391 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/uk.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 6234 | 6391 | 97.5 | /mnt/stockage/packages/f25/wxGTK/locale/ms.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 6232 | 6391 | 97.5 | /mnt/stockage/packages/f25/wxGTK/locale/es.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 6150 | 6392 | 96.2 | /mnt/stockage/packages/f25/wxGTK/locale/it.po/mnt/stockage/packages/f25/wxGTK/locale/msw/it.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 5256 | 6391 | 82.2 | /mnt/stockage/packages/f25/wxGTK/locale/hi.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 5330 | 6501 | 82.0 | /mnt/stockage/packages/f25/wxGTK/locale/pl.po/mnt/stockage/packages/f25/wxGTK/samples/internat/pl/internat.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 5271 | 6442 | 81.8 | /mnt/stockage/packages/f25/wxGTK/demos/dbbrowse/de/dbbrowse.po/mnt/stockage/packages/f25/wxGTK/demos/dbbrowse/de/help.po/mnt/stockage/packages/f25/wxGTK/demos/dbbrowse/de/de.po/mnt/stockage/packages/f25/wxGTK/locale/de.po/mnt/stockage/packages/f25/wxGTK/samples/internat/de/internat.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 5220 | 6391 | 81.7 | /mnt/stockage/packages/f25/wxGTK/locale/hu.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 5220 | 6391 | 81.7 | /mnt/stockage/packages/f25/wxGTK/locale/zh_TW.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 5194 | 6391 | 81.3 | /mnt/stockage/packages/f25/wxGTK/locale/zh_CN.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 5025 | 6391 | 78.6 | /mnt/stockage/packages/f25/wxGTK/locale/sq.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 5060 | 6671 | 75.9 | /mnt/stockage/packages/f25/wxGTK/locale/fi.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 4749 | 6391 | 74.3 | /mnt/stockage/packages/f25/wxGTK/locale/sk.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 4815 | 6491 | 74.2 | /mnt/stockage/packages/f25/wxGTK/locale/ru.po/mnt/stockage/packages/f25/wxGTK/samples/internat/ru/internat.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 4723 | 6391 | 73.9 | /mnt/stockage/packages/f25/wxGTK/locale/nb.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 4403 | 6391 | 68.9 | /mnt/stockage/packages/f25/wxGTK/locale/el.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 4122 | 6391 | 64.5 | /mnt/stockage/packages/f25/wxGTK/locale/da.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 3909 | 6391 | 61.2 | /mnt/stockage/packages/f25/wxGTK/locale/af.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 3896 | 6391 | 61.0 | /mnt/stockage/packages/f25/wxGTK/locale/id.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 3581 | 6496 | 55.1 | /mnt/stockage/packages/f25/wxGTK/locale/cs.po/mnt/stockage/packages/f25/wxGTK/samples/internat/cs/internat.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 3408 | 6391 | 53.3 | /mnt/stockage/packages/f25/wxGTK/locale/ca.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 2300 | 6391 | 36.0 | /mnt/stockage/packages/f25/wxGTK/locale/gl_ES.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 535 | 6391 | 8.4 | /mnt/stockage/packages/f25/wxGTK/locale/lv.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 371 | 6391 | 5.8 | /mnt/stockage/packages/f25/wxGTK/locale/eu.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 63 | 6458 | 1.0 | /mnt/stockage/packages/f25/wxGTK/locale/wxstd.po/mnt/stockage/packages/f25/wxGTK/samples/internat/ja_JP.EUC-JP/internat.po | 
+ | [ar](/f25/language/ar) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/wxGTK/samples/internat/ar/internat.po | 
+ | [bg](/f25/language/bg) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/wxGTK/samples/internat/bg/internat.po | 
+ | [ja](/f25/language/ja) | 6497 | 6497 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/ja.po/mnt/stockage/packages/f25/wxGTK/samples/internat/ja/internat.po | 
+ | [ka](/f25/language/ka) | 51 | 51 | 100.0 | /mnt/stockage/packages/f25/wxGTK/samples/internat/ka/internat.po | 
+ | [nl](/f25/language/nl) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/nl.po | 
+ | [sl](/f25/language/sl) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/sl.po | 
+ | [tr](/f25/language/tr) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/tr.po | 
+ | [vi](/f25/language/vi) | 6679 | 6679 | 100.0 | /mnt/stockage/packages/f25/wxGTK/locale/vi.po | 
+ | [pt_BR](/f25/language/pt_BR) | 6329 | 6391 | 99.0 | /mnt/stockage/packages/f25/wxGTK/locale/pt_BR.po | 
+ | [sv](/f25/language/sv) | 6359 | 6501 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/sv.po/mnt/stockage/packages/f25/wxGTK/samples/internat/sv/internat.po | 
+ | [fr](/f25/language/fr) | 6300 | 6442 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/fr.po/mnt/stockage/packages/f25/wxGTK/samples/internat/fr/internat.po | 
+ | [pt](/f25/language/pt) | 6249 | 6391 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/pt.po | 
+ | [uk](/f25/language/uk) | 6249 | 6391 | 97.8 | /mnt/stockage/packages/f25/wxGTK/locale/uk.po | 
+ | [ms](/f25/language/ms) | 6234 | 6391 | 97.5 | /mnt/stockage/packages/f25/wxGTK/locale/ms.po | 
+ | [es](/f25/language/es) | 6232 | 6391 | 97.5 | /mnt/stockage/packages/f25/wxGTK/locale/es.po | 
+ | [it](/f25/language/it) | 6150 | 6392 | 96.2 | /mnt/stockage/packages/f25/wxGTK/locale/it.po/mnt/stockage/packages/f25/wxGTK/locale/msw/it.po | 
+ | [hi](/f25/language/hi) | 5256 | 6391 | 82.2 | /mnt/stockage/packages/f25/wxGTK/locale/hi.po | 
+ | [pl](/f25/language/pl) | 5330 | 6501 | 82.0 | /mnt/stockage/packages/f25/wxGTK/locale/pl.po/mnt/stockage/packages/f25/wxGTK/samples/internat/pl/internat.po | 
+ | [de](/f25/language/de) | 5271 | 6442 | 81.8 | /mnt/stockage/packages/f25/wxGTK/demos/dbbrowse/de/dbbrowse.po/mnt/stockage/packages/f25/wxGTK/demos/dbbrowse/de/help.po/mnt/stockage/packages/f25/wxGTK/demos/dbbrowse/de/de.po/mnt/stockage/packages/f25/wxGTK/locale/de.po/mnt/stockage/packages/f25/wxGTK/samples/internat/de/internat.po | 
+ | [hu](/f25/language/hu) | 5220 | 6391 | 81.7 | /mnt/stockage/packages/f25/wxGTK/locale/hu.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 5220 | 6391 | 81.7 | /mnt/stockage/packages/f25/wxGTK/locale/zh_TW.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 5194 | 6391 | 81.3 | /mnt/stockage/packages/f25/wxGTK/locale/zh_CN.po | 
+ | [sq](/f25/language/sq) | 5025 | 6391 | 78.6 | /mnt/stockage/packages/f25/wxGTK/locale/sq.po | 
+ | [fi](/f25/language/fi) | 5060 | 6671 | 75.9 | /mnt/stockage/packages/f25/wxGTK/locale/fi.po | 
+ | [sk](/f25/language/sk) | 4749 | 6391 | 74.3 | /mnt/stockage/packages/f25/wxGTK/locale/sk.po | 
+ | [ru](/f25/language/ru) | 4815 | 6491 | 74.2 | /mnt/stockage/packages/f25/wxGTK/locale/ru.po/mnt/stockage/packages/f25/wxGTK/samples/internat/ru/internat.po | 
+ | [nb_NO](/f25/language/nb_NO) | 4723 | 6391 | 73.9 | /mnt/stockage/packages/f25/wxGTK/locale/nb.po | 
+ | [el](/f25/language/el) | 4403 | 6391 | 68.9 | /mnt/stockage/packages/f25/wxGTK/locale/el.po | 
+ | [da](/f25/language/da) | 4122 | 6391 | 64.5 | /mnt/stockage/packages/f25/wxGTK/locale/da.po | 
+ | [af](/f25/language/af) | 3909 | 6391 | 61.2 | /mnt/stockage/packages/f25/wxGTK/locale/af.po | 
+ | [id](/f25/language/id) | 3896 | 6391 | 61.0 | /mnt/stockage/packages/f25/wxGTK/locale/id.po | 
+ | [cs](/f25/language/cs) | 3581 | 6496 | 55.1 | /mnt/stockage/packages/f25/wxGTK/locale/cs.po/mnt/stockage/packages/f25/wxGTK/samples/internat/cs/internat.po | 
+ | [ca](/f25/language/ca) | 3408 | 6391 | 53.3 | /mnt/stockage/packages/f25/wxGTK/locale/ca.po | 
+ | [gl](/f25/language/gl) | 2300 | 6391 | 36.0 | /mnt/stockage/packages/f25/wxGTK/locale/gl_ES.po | 
+ | [lv](/f25/language/lv) | 535 | 6391 | 8.4 | /mnt/stockage/packages/f25/wxGTK/locale/lv.po | 
+ | [eu](/f25/language/eu) | 371 | 6391 | 5.8 | /mnt/stockage/packages/f25/wxGTK/locale/eu.po | 
+ | [error](/f25/language/error) | 63 | 6458 | 1.0 | /mnt/stockage/packages/f25/wxGTK/locale/wxstd.po/mnt/stockage/packages/f25/wxGTK/samples/internat/ja_JP.EUC-JP/internat.po | 
 {.sortable}
 
 

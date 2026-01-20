@@ -18,15 +18,15 @@ The package tin (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f21/language/et.md" >}}) | 11009 | 11009 | 100.0 | /mnt/stockage/packages/f21/tin/po/et.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 11009 | 11009 | 100.0 | /mnt/stockage/packages/f21/tin/po/fr.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 10694 | 11009 | 97.1 | /mnt/stockage/packages/f21/tin/po/zh_TW.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 24829 | 35333 | 70.3 | /mnt/stockage/packages/f21/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f21/tin/po/en_GB.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 7142 | 11009 | 64.9 | /mnt/stockage/packages/f21/tin/po/ru.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 16391 | 35333 | 46.4 | /mnt/stockage/packages/f21/tin/doc/l10n/de.po/mnt/stockage/packages/f21/tin/po/de.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 4681 | 11009 | 42.5 | /mnt/stockage/packages/f21/tin/po/da.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1063 | 11009 | 9.7 | /mnt/stockage/packages/f21/tin/po/sv.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 202 | 11009 | 1.8 | /mnt/stockage/packages/f21/tin/po/tr.po | 
+ | [et](/f21/language/et) | 11009 | 11009 | 100.0 | /mnt/stockage/packages/f21/tin/po/et.po | 
+ | [fr](/f21/language/fr) | 11009 | 11009 | 100.0 | /mnt/stockage/packages/f21/tin/po/fr.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 10694 | 11009 | 97.1 | /mnt/stockage/packages/f21/tin/po/zh_TW.po | 
+ | [en_GB](/f21/language/en_GB) | 24829 | 35333 | 70.3 | /mnt/stockage/packages/f21/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f21/tin/po/en_GB.po | 
+ | [ru](/f21/language/ru) | 7142 | 11009 | 64.9 | /mnt/stockage/packages/f21/tin/po/ru.po | 
+ | [de](/f21/language/de) | 16391 | 35333 | 46.4 | /mnt/stockage/packages/f21/tin/doc/l10n/de.po/mnt/stockage/packages/f21/tin/po/de.po | 
+ | [da](/f21/language/da) | 4681 | 11009 | 42.5 | /mnt/stockage/packages/f21/tin/po/da.po | 
+ | [sv](/f21/language/sv) | 1063 | 11009 | 9.7 | /mnt/stockage/packages/f21/tin/po/sv.po | 
+ | [tr](/f21/language/tr) | 202 | 11009 | 1.8 | /mnt/stockage/packages/f21/tin/po/tr.po | 
 {.sortable}
 
 

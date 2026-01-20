@@ -38,39 +38,39 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-user-guide]({{< ref "/f25/package/mate-user-guide.md" >}}) | 5 | 5 | 100.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 132 | 300 | 44.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-menus]({{< ref "/f25/package/mate-menus.md" >}}) | 34 | 97 | 35.1 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mozo]({{< ref "/f25/package/mozo.md" >}}) | 14 | 42 | 33.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-icon-theme]({{< ref "/f25/package/mate-icon-theme.md" >}}) | 1 | 4 | 25.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 122 | 499 | 24.4 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [python-caja]({{< ref "/f25/package/python-caja.md" >}}) | 1 | 6 | 16.7 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [atril]({{< ref "/f25/package/atril.md" >}}) | 264 | 1724 | 15.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-media]({{< ref "/f25/package/mate-media.md" >}}) | 26 | 226 | 11.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-sensors-applet]({{< ref "/f25/package/mate-sensors-applet.md" >}}) | 33 | 304 | 10.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [libmatemixer]({{< ref "/f25/package/libmatemixer.md" >}}) | 25 | 242 | 10.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [caja]({{< ref "/f25/package/caja.md" >}}) | 924 | 9313 | 9.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 20 | 251 | 8.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-backgrounds]({{< ref "/f25/package/mate-backgrounds.md" >}}) | 2 | 30 | 6.7 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-session-manager]({{< ref "/f25/package/mate-session-manager.md" >}}) | 45 | 681 | 6.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 145 | 2618 | 5.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-utils]({{< ref "/f25/package/mate-utils.md" >}}) | 198 | 3677 | 5.4 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [engrampa]({{< ref "/f25/package/engrampa.md" >}}) | 103 | 1940 | 5.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-control-center]({{< ref "/f25/package/mate-control-center.md" >}}) | 142 | 2722 | 5.2 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [pluma]({{< ref "/f25/package/pluma.md" >}}) | 249 | 5038 | 4.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [caja-extensions]({{< ref "/f25/package/caja-extensions.md" >}}) | 25 | 556 | 4.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-notification-daemon]({{< ref "/f25/package/mate-notification-daemon.md" >}}) | 6 | 139 | 4.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-system-monitor]({{< ref "/f25/package/mate-system-monitor.md" >}}) | 52 | 1307 | 4.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-terminal]({{< ref "/f25/package/mate-terminal.md" >}}) | 174 | 4439 | 3.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-desktop]({{< ref "/f25/package/mate-desktop.md" >}}) | 85 | 2346 | 3.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [eom]({{< ref "/f25/package/eom.md" >}}) | 51 | 1717 | 3.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-power-manager]({{< ref "/f25/package/mate-power-manager.md" >}}) | 77 | 2724 | 2.8 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-panel]({{< ref "/f25/package/mate-panel.md" >}}) | 112 | 4353 | 2.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-screensaver]({{< ref "/f25/package/mate-screensaver.md" >}}) | 18 | 983 | 1.8 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-polkit]({{< ref "/f25/package/mate-polkit.md" >}}) | 4 | 313 | 1.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mate-settings-daemon]({{< ref "/f25/package/mate-settings-daemon.md" >}}) | 20 | 1764 | 1.1 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [pidgin]({{< ref "/f25/package/pidgin.md" >}}) | 123 | 15756 | 0.8 | Kurdish (Iraq) (http://www.transifex.com/pidgin/pidgin/language/ku_IQ/) | 
- | [marco]({{< ref "/f25/package/marco.md" >}}) | 30 | 4089 | 0.7 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-user-guide](/f25/package/mate-user-guide) | 5 | 5 | 100.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-menu](/f25/package/mate-menu) | 132 | 300 | 44.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-menus](/f25/package/mate-menus) | 34 | 97 | 35.1 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mozo](/f25/package/mozo) | 14 | 42 | 33.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-icon-theme](/f25/package/mate-icon-theme) | 1 | 4 | 25.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [libmateweather](/f25/package/libmateweather) | 122 | 499 | 24.4 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [python-caja](/f25/package/python-caja) | 1 | 6 | 16.7 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [atril](/f25/package/atril) | 264 | 1724 | 15.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-media](/f25/package/mate-media) | 26 | 226 | 11.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-sensors-applet](/f25/package/mate-sensors-applet) | 33 | 304 | 10.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [libmatemixer](/f25/package/libmatemixer) | 25 | 242 | 10.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [caja](/f25/package/caja) | 924 | 9313 | 9.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [libmatekbd](/f25/package/libmatekbd) | 20 | 251 | 8.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-backgrounds](/f25/package/mate-backgrounds) | 2 | 30 | 6.7 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-session-manager](/f25/package/mate-session-manager) | 45 | 681 | 6.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-applets](/f25/package/mate-applets) | 145 | 2618 | 5.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-utils](/f25/package/mate-utils) | 198 | 3677 | 5.4 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [engrampa](/f25/package/engrampa) | 103 | 1940 | 5.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-control-center](/f25/package/mate-control-center) | 142 | 2722 | 5.2 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [pluma](/f25/package/pluma) | 249 | 5038 | 4.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [caja-extensions](/f25/package/caja-extensions) | 25 | 556 | 4.5 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-notification-daemon](/f25/package/mate-notification-daemon) | 6 | 139 | 4.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-system-monitor](/f25/package/mate-system-monitor) | 52 | 1307 | 4.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-terminal](/f25/package/mate-terminal) | 174 | 4439 | 3.9 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-desktop](/f25/package/mate-desktop) | 85 | 2346 | 3.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [eom](/f25/package/eom) | 51 | 1717 | 3.0 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-power-manager](/f25/package/mate-power-manager) | 77 | 2724 | 2.8 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-panel](/f25/package/mate-panel) | 112 | 4353 | 2.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-screensaver](/f25/package/mate-screensaver) | 18 | 983 | 1.8 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-polkit](/f25/package/mate-polkit) | 4 | 313 | 1.3 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mate-settings-daemon](/f25/package/mate-settings-daemon) | 20 | 1764 | 1.1 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [pidgin](/f25/package/pidgin) | 123 | 15756 | 0.8 | Kurdish (Iraq) (http://www.transifex.com/pidgin/pidgin/language/ku_IQ/) | 
+ | [marco](/f25/package/marco) | 30 | 4089 | 0.7 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
 {.sortable}
 
 

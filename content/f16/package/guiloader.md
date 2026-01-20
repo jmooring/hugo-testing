@@ -18,7 +18,7 @@ The package guiloader (version 2.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f16/guiloader/examples/hello/po/ru.po/mnt/stockage/packages/f16/guiloader/po/ru.po | 
+ | [ru](/f16/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f16/guiloader/examples/hello/po/ru.po/mnt/stockage/packages/f16/guiloader/po/ru.po | 
 {.sortable}
 
 

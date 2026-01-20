@@ -18,41 +18,41 @@ The package kdebugsettings (version 20.08.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ca/kdebugsettings.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/da/kdebugsettings.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/el/kdebugsettings.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/en_GB/kdebugsettings.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/es/kdebugsettings.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/et/kdebugsettings.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/eu/kdebugsettings.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/fi/kdebugsettings.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/fr/kdebugsettings.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/it/kdebugsettings.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ko/kdebugsettings.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/nl/kdebugsettings.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/nn/kdebugsettings.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/pt/kdebugsettings.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/pt_BR/kdebugsettings.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/sk/kdebugsettings.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/sl/kdebugsettings.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/sv/kdebugsettings.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/uk/kdebugsettings.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 203 | 206 | 98.5 | /mnt/stockage/packages/f33/kdebugsettings/po/gl/kdebugsettings.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 203 | 206 | 98.5 | /mnt/stockage/packages/f33/kdebugsettings/po/ru/kdebugsettings.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 203 | 206 | 98.5 | /mnt/stockage/packages/f33/kdebugsettings/po/zh_TW/kdebugsettings.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 192 | 206 | 93.2 | /mnt/stockage/packages/f33/kdebugsettings/po/ca@valencia/kdebugsettings.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 192 | 206 | 93.2 | /mnt/stockage/packages/f33/kdebugsettings/po/pl/kdebugsettings.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 182 | 206 | 88.3 | /mnt/stockage/packages/f33/kdebugsettings/po/zh_CN/kdebugsettings.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 172 | 206 | 83.5 | /mnt/stockage/packages/f33/kdebugsettings/po/de/kdebugsettings.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 123 | 206 | 59.7 | /mnt/stockage/packages/f33/kdebugsettings/po/cs/kdebugsettings.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 117 | 206 | 56.8 | /mnt/stockage/packages/f33/kdebugsettings/po/sr/kdebugsettings.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 98 | 206 | 47.6 | /mnt/stockage/packages/f33/kdebugsettings/po/tr/kdebugsettings.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 86 | 206 | 41.7 | /mnt/stockage/packages/f33/kdebugsettings/po/hu/kdebugsettings.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 32 | 206 | 15.5 | /mnt/stockage/packages/f33/kdebugsettings/po/ia/kdebugsettings.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 32 | 206 | 15.5 | /mnt/stockage/packages/f33/kdebugsettings/po/ro/kdebugsettings.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 31 | 206 | 15.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ar/kdebugsettings.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 206 | 0.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ja/kdebugsettings.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 206 | 0.0 | /mnt/stockage/packages/f33/kdebugsettings/po/lt/kdebugsettings.po | 
+ | [ca](/f33/language/ca) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ca/kdebugsettings.po | 
+ | [da](/f33/language/da) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/da/kdebugsettings.po | 
+ | [el](/f33/language/el) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/el/kdebugsettings.po | 
+ | [en_GB](/f33/language/en_GB) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/en_GB/kdebugsettings.po | 
+ | [es](/f33/language/es) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/es/kdebugsettings.po | 
+ | [et](/f33/language/et) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/et/kdebugsettings.po | 
+ | [eu](/f33/language/eu) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/eu/kdebugsettings.po | 
+ | [fi](/f33/language/fi) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/fi/kdebugsettings.po | 
+ | [fr](/f33/language/fr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/fr/kdebugsettings.po | 
+ | [it](/f33/language/it) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/it/kdebugsettings.po | 
+ | [ko](/f33/language/ko) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ko/kdebugsettings.po | 
+ | [nl](/f33/language/nl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/nl/kdebugsettings.po | 
+ | [nn](/f33/language/nn) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/nn/kdebugsettings.po | 
+ | [pt](/f33/language/pt) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/pt/kdebugsettings.po | 
+ | [pt_BR](/f33/language/pt_BR) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/pt_BR/kdebugsettings.po | 
+ | [sk](/f33/language/sk) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/sk/kdebugsettings.po | 
+ | [sl](/f33/language/sl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/sl/kdebugsettings.po | 
+ | [sv](/f33/language/sv) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/sv/kdebugsettings.po | 
+ | [uk](/f33/language/uk) | 206 | 206 | 100.0 | /mnt/stockage/packages/f33/kdebugsettings/po/uk/kdebugsettings.po | 
+ | [gl](/f33/language/gl) | 203 | 206 | 98.5 | /mnt/stockage/packages/f33/kdebugsettings/po/gl/kdebugsettings.po | 
+ | [ru](/f33/language/ru) | 203 | 206 | 98.5 | /mnt/stockage/packages/f33/kdebugsettings/po/ru/kdebugsettings.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 203 | 206 | 98.5 | /mnt/stockage/packages/f33/kdebugsettings/po/zh_TW/kdebugsettings.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 192 | 206 | 93.2 | /mnt/stockage/packages/f33/kdebugsettings/po/ca@valencia/kdebugsettings.po | 
+ | [pl](/f33/language/pl) | 192 | 206 | 93.2 | /mnt/stockage/packages/f33/kdebugsettings/po/pl/kdebugsettings.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 182 | 206 | 88.3 | /mnt/stockage/packages/f33/kdebugsettings/po/zh_CN/kdebugsettings.po | 
+ | [de](/f33/language/de) | 172 | 206 | 83.5 | /mnt/stockage/packages/f33/kdebugsettings/po/de/kdebugsettings.po | 
+ | [cs](/f33/language/cs) | 123 | 206 | 59.7 | /mnt/stockage/packages/f33/kdebugsettings/po/cs/kdebugsettings.po | 
+ | [sr](/f33/language/sr) | 117 | 206 | 56.8 | /mnt/stockage/packages/f33/kdebugsettings/po/sr/kdebugsettings.po | 
+ | [tr](/f33/language/tr) | 98 | 206 | 47.6 | /mnt/stockage/packages/f33/kdebugsettings/po/tr/kdebugsettings.po | 
+ | [hu](/f33/language/hu) | 86 | 206 | 41.7 | /mnt/stockage/packages/f33/kdebugsettings/po/hu/kdebugsettings.po | 
+ | [ia](/f33/language/ia) | 32 | 206 | 15.5 | /mnt/stockage/packages/f33/kdebugsettings/po/ia/kdebugsettings.po | 
+ | [ro](/f33/language/ro) | 32 | 206 | 15.5 | /mnt/stockage/packages/f33/kdebugsettings/po/ro/kdebugsettings.po | 
+ | [ar](/f33/language/ar) | 31 | 206 | 15.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ar/kdebugsettings.po | 
+ | [ja](/f33/language/ja) | 0 | 206 | 0.0 | /mnt/stockage/packages/f33/kdebugsettings/po/ja/kdebugsettings.po | 
+ | [lt](/f33/language/lt) | 0 | 206 | 0.0 | /mnt/stockage/packages/f33/kdebugsettings/po/lt/kdebugsettings.po | 
 {.sortable}
 
 

@@ -38,79 +38,79 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [adwaita-icon-theme]({{< ref "/f22/package/adwaita-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-desktop3]({{< ref "/f22/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-icon-theme]({{< ref "/f22/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-menus]({{< ref "/f22/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
- | [kf5-kdoctools]({{< ref "/f22/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Kashubian | 
- | [kf5-kpty]({{< ref "/f22/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [mingw-adwaita-icon-theme]({{< ref "/f22/package/mingw-adwaita-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f22/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Kashubian <csb@li.org> | 
- | [plasma-systemsettings]({{< ref "/f22/package/plasma-systemsettings.md" >}}) | 184 | 186 | 98.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [khelpcenter]({{< ref "/f22/package/khelpcenter.md" >}}) | 757 | 768 | 98.6 | Kashubian | 
- | [khotkeys]({{< ref "/f22/package/khotkeys.md" >}}) | 420 | 433 | 97.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [cinnamon-desktop]({{< ref "/f22/package/cinnamon-desktop.md" >}}) | 223 | 231 | 96.5 | Kashubian <csb@li.org> | 
- | [kinfocenter]({{< ref "/f22/package/kinfocenter.md" >}}) | 865 | 906 | 95.5 | Kaszëbsczi | 
- | [kf5-ktextwidgets]({{< ref "/f22/package/kf5-ktextwidgets.md" >}}) | 436 | 462 | 94.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [gnome-session]({{< ref "/f22/package/gnome-session.md" >}}) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
- | [cinnamon-session]({{< ref "/f22/package/cinnamon-session.md" >}}) | 379 | 404 | 93.8 | Kashubian <csb@li.org> | 
- | [kmenuedit]({{< ref "/f22/package/kmenuedit.md" >}}) | 258 | 281 | 91.8 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kde-cli-tools]({{< ref "/f22/package/kde-cli-tools.md" >}}) | 1910 | 2102 | 90.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kjsembed]({{< ref "/f22/package/kf5-kjsembed.md" >}}) | 222 | 248 | 89.5 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [ksysguard]({{< ref "/f22/package/ksysguard.md" >}}) | 963 | 1082 | 89.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kcmutils]({{< ref "/f22/package/kf5-kcmutils.md" >}}) | 486 | 563 | 86.3 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kross]({{< ref "/f22/package/kf5-kross.md" >}}) | 81 | 100 | 81.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [plasma-desktop]({{< ref "/f22/package/plasma-desktop.md" >}}) | 6564 | 8519 | 77.1 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kinit]({{< ref "/f22/package/kf5-kinit.md" >}}) | 99 | 134 | 73.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-khtml]({{< ref "/f22/package/kf5-khtml.md" >}}) | 1242 | 1723 | 72.1 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kparts]({{< ref "/f22/package/kf5-kparts.md" >}}) | 71 | 104 | 68.3 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [plasma-sdk]({{< ref "/f22/package/plasma-sdk.md" >}}) | 226 | 425 | 53.2 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [kf5-kio]({{< ref "/f22/package/kf5-kio.md" >}}) | 6073 | 11715 | 51.8 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [libksysguard]({{< ref "/f22/package/libksysguard.md" >}}) | 1401 | 2803 | 50.0 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [kf5-kxmlgui]({{< ref "/f22/package/kf5-kxmlgui.md" >}}) | 716 | 1538 | 46.6 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f22/package/kf5-kconfigwidgets.md" >}}) | 133 | 317 | 42.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kwin]({{< ref "/f22/package/kwin.md" >}}) | 1061 | 2629 | 40.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kdeclarative]({{< ref "/f22/package/kf5-kdeclarative.md" >}}) | 43 | 109 | 39.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 1562 | 4097 | 38.1 | Kashubian <csb@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f22/package/gdk-pixbuf2.md" >}}) | 481 | 1345 | 35.8 | Kashubian <csb@li.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f22/package/mingw-gdk-pixbuf.md" >}}) | 481 | 1345 | 35.8 | Kashubian <csb@li.org> | 
- | [plasma-workspace]({{< ref "/f22/package/plasma-workspace.md" >}}) | 3209 | 9112 | 35.2 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-ki18n]({{< ref "/f22/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-knotifyconfig]({{< ref "/f22/package/kf5-knotifyconfig.md" >}}) | 43 | 129 | 33.3 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [exaile]({{< ref "/f22/package/exaile.md" >}}) | 1255 | 4006 | 31.3 | Kashubian <csb@li.org> | 
- | [kf5-knewstuff]({{< ref "/f22/package/kf5-knewstuff.md" >}}) | 195 | 673 | 29.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [gdm]({{< ref "/f22/package/gdm.md" >}}) | 250 | 956 | 26.2 | Kashubian <csb@li.org> | 
- | [kf5-kservice]({{< ref "/f22/package/kf5-kservice.md" >}}) | 44 | 170 | 25.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kdelibs4support]({{< ref "/f22/package/kf5-kdelibs4support.md" >}}) | 1173 | 4813 | 24.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [librfm]({{< ref "/f22/package/librfm.md" >}}) | 276 | 2397 | 11.5 | Kashubian <csb@li.org> | 
- | [kdeplasma-addons]({{< ref "/f22/package/kdeplasma-addons.md" >}}) | 69 | 1049 | 6.6 | Kashubian | 
- | [k3b]({{< ref "/f22/package/k3b.md" >}}) | 783 | 15228 | 5.1 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [e16]({{< ref "/f22/package/e16.md" >}}) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
- | [rodent]({{< ref "/f22/package/rodent.md" >}}) | 345 | 9802 | 3.5 |  | 
- | [file-roller]({{< ref "/f22/package/file-roller.md" >}}) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
- | [plasma-oxygen]({{< ref "/f22/package/plasma-oxygen.md" >}}) | 16 | 613 | 2.6 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 106 | 4946 | 2.1 | Kashubian <csb@li.org> | 
- | [gimp]({{< ref "/f22/package/gimp.md" >}}) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 28 | 15962 | 0.2 | Kashubian <csb@li.org> | 
- | [kf5-kauth]({{< ref "/f22/package/kf5-kauth.md" >}}) | 0 | 58 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kbookmarks]({{< ref "/f22/package/kf5-kbookmarks.md" >}}) | 0 | 218 | 0.0 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [kf5-kcodecs]({{< ref "/f22/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kcompletion]({{< ref "/f22/package/kf5-kcompletion.md" >}}) | 0 | 20 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kconfig]({{< ref "/f22/package/kf5-kconfig.md" >}}) | 0 | 254 | 0.0 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [kf5-kcoreaddons]({{< ref "/f22/package/kf5-kcoreaddons.md" >}}) | 0 | 265 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f22/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kdnssd]({{< ref "/f22/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kglobalaccel]({{< ref "/f22/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kiconthemes]({{< ref "/f22/package/kf5-kiconthemes.md" >}}) | 0 | 37 | 0.0 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [kf5-kitemviews]({{< ref "/f22/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kjobwidgets]({{< ref "/f22/package/kf5-kjobwidgets.md" >}}) | 0 | 141 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-knotifications]({{< ref "/f22/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f22/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1261 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-kwindowsystem]({{< ref "/f22/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [kf5-sonnet]({{< ref "/f22/package/kf5-sonnet.md" >}}) | 0 | 665 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Kashubian (http://www.transifex.com/projects/p/MATE/language/csb/) | 
- | [tanglet]({{< ref "/f22/package/tanglet.md" >}}) | 0 | 125 | 0.0 | Kashubian (http://www.transifex.com/projects/p/tanglet/language/csb/) | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [adwaita-icon-theme](/f22/package/adwaita-icon-theme) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-desktop3](/f22/package/gnome-desktop3) | 235 | 235 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-icon-theme](/f22/package/gnome-icon-theme) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-menus](/f22/package/gnome-menus) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
+ | [kf5-kdoctools](/f22/package/kf5-kdoctools) | 8 | 8 | 100.0 | Kashubian | 
+ | [kf5-kpty](/f22/package/kf5-kpty) | 15 | 15 | 100.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [mingw-adwaita-icon-theme](/f22/package/mingw-adwaita-icon-theme) | 4 | 4 | 100.0 | Kashubian <csb@li.org> | 
+ | [xdg-user-dirs-gtk](/f22/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Kashubian <csb@li.org> | 
+ | [plasma-systemsettings](/f22/package/plasma-systemsettings) | 184 | 186 | 98.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [khelpcenter](/f22/package/khelpcenter) | 757 | 768 | 98.6 | Kashubian | 
+ | [khotkeys](/f22/package/khotkeys) | 420 | 433 | 97.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [cinnamon-desktop](/f22/package/cinnamon-desktop) | 223 | 231 | 96.5 | Kashubian <csb@li.org> | 
+ | [kinfocenter](/f22/package/kinfocenter) | 865 | 906 | 95.5 | Kaszëbsczi | 
+ | [kf5-ktextwidgets](/f22/package/kf5-ktextwidgets) | 436 | 462 | 94.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [gnome-session](/f22/package/gnome-session) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
+ | [cinnamon-session](/f22/package/cinnamon-session) | 379 | 404 | 93.8 | Kashubian <csb@li.org> | 
+ | [kmenuedit](/f22/package/kmenuedit) | 258 | 281 | 91.8 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kde-cli-tools](/f22/package/kde-cli-tools) | 1910 | 2102 | 90.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kjsembed](/f22/package/kf5-kjsembed) | 222 | 248 | 89.5 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [ksysguard](/f22/package/ksysguard) | 963 | 1082 | 89.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kcmutils](/f22/package/kf5-kcmutils) | 486 | 563 | 86.3 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kross](/f22/package/kf5-kross) | 81 | 100 | 81.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [plasma-desktop](/f22/package/plasma-desktop) | 6564 | 8519 | 77.1 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kinit](/f22/package/kf5-kinit) | 99 | 134 | 73.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-khtml](/f22/package/kf5-khtml) | 1242 | 1723 | 72.1 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kparts](/f22/package/kf5-kparts) | 71 | 104 | 68.3 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [plasma-sdk](/f22/package/plasma-sdk) | 226 | 425 | 53.2 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [kf5-kio](/f22/package/kf5-kio) | 6073 | 11715 | 51.8 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [libksysguard](/f22/package/libksysguard) | 1401 | 2803 | 50.0 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [kf5-kxmlgui](/f22/package/kf5-kxmlgui) | 716 | 1538 | 46.6 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kconfigwidgets](/f22/package/kf5-kconfigwidgets) | 133 | 317 | 42.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kwin](/f22/package/kwin) | 1061 | 2629 | 40.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kdeclarative](/f22/package/kf5-kdeclarative) | 43 | 109 | 39.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 1562 | 4097 | 38.1 | Kashubian <csb@li.org> | 
+ | [gdk-pixbuf2](/f22/package/gdk-pixbuf2) | 481 | 1345 | 35.8 | Kashubian <csb@li.org> | 
+ | [mingw-gdk-pixbuf](/f22/package/mingw-gdk-pixbuf) | 481 | 1345 | 35.8 | Kashubian <csb@li.org> | 
+ | [plasma-workspace](/f22/package/plasma-workspace) | 3209 | 9112 | 35.2 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-ki18n](/f22/package/kf5-ki18n) | 42 | 124 | 33.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-knotifyconfig](/f22/package/kf5-knotifyconfig) | 43 | 129 | 33.3 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [exaile](/f22/package/exaile) | 1255 | 4006 | 31.3 | Kashubian <csb@li.org> | 
+ | [kf5-knewstuff](/f22/package/kf5-knewstuff) | 195 | 673 | 29.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [gdm](/f22/package/gdm) | 250 | 956 | 26.2 | Kashubian <csb@li.org> | 
+ | [kf5-kservice](/f22/package/kf5-kservice) | 44 | 170 | 25.9 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kdelibs4support](/f22/package/kf5-kdelibs4support) | 1173 | 4813 | 24.4 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [librfm](/f22/package/librfm) | 276 | 2397 | 11.5 | Kashubian <csb@li.org> | 
+ | [kdeplasma-addons](/f22/package/kdeplasma-addons) | 69 | 1049 | 6.6 | Kashubian | 
+ | [k3b](/f22/package/k3b) | 783 | 15228 | 5.1 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [e16](/f22/package/e16) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
+ | [rodent](/f22/package/rodent) | 345 | 9802 | 3.5 |  | 
+ | [file-roller](/f22/package/file-roller) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
+ | [plasma-oxygen](/f22/package/plasma-oxygen) | 16 | 613 | 2.6 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 106 | 4946 | 2.1 | Kashubian <csb@li.org> | 
+ | [gimp](/f22/package/gimp) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 28 | 15962 | 0.2 | Kashubian <csb@li.org> | 
+ | [kf5-kauth](/f22/package/kf5-kauth) | 0 | 58 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kbookmarks](/f22/package/kf5-kbookmarks) | 0 | 218 | 0.0 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [kf5-kcodecs](/f22/package/kf5-kcodecs) | 0 | 348 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kcompletion](/f22/package/kf5-kcompletion) | 0 | 20 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kconfig](/f22/package/kf5-kconfig) | 0 | 254 | 0.0 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [kf5-kcoreaddons](/f22/package/kf5-kcoreaddons) | 0 | 265 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kdesignerplugin](/f22/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kdnssd](/f22/package/kf5-kdnssd) | 0 | 3 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kglobalaccel](/f22/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kiconthemes](/f22/package/kf5-kiconthemes) | 0 | 37 | 0.0 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [kf5-kitemviews](/f22/package/kf5-kitemviews) | 0 | 7 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kjobwidgets](/f22/package/kf5-kjobwidgets) | 0 | 141 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-knotifications](/f22/package/kf5-knotifications) | 0 | 18 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kwidgetsaddons](/f22/package/kf5-kwidgetsaddons) | 0 | 1261 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-kwindowsystem](/f22/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [kf5-sonnet](/f22/package/kf5-sonnet) | 0 | 665 | 0.0 | Kaszëbsczi <i18n-csb@linuxcsb.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Kashubian (http://www.transifex.com/projects/p/MATE/language/csb/) | 
+ | [tanglet](/f22/package/tanglet) | 0 | 125 | 0.0 | Kashubian (http://www.transifex.com/projects/p/tanglet/language/csb/) | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 
@@ -122,7 +122,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [rodent]({{< ref "/f22/package/rodent.md" >}}) | /mnt/stockage/packages/f22/rodent/apps/fgr/po/csb.po | error-unicode |  | 
+ | [rodent](/f22/package/rodent) | /mnt/stockage/packages/f22/rodent/apps/fgr/po/csb.po | error-unicode |  | 
 {.sortable}
 
 

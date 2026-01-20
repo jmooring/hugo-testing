@@ -18,12 +18,12 @@ The package semantik (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f19/semantik/src/po/cs.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 250 | 481 | 52.0 | /mnt/stockage/packages/f19/semantik/src/po/el.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 249 | 481 | 51.8 | /mnt/stockage/packages/f19/semantik/src/po/sk.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 247 | 481 | 51.4 | /mnt/stockage/packages/f19/semantik/src/po/ru.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 226 | 481 | 47.0 | /mnt/stockage/packages/f19/semantik/src/po/fr.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1 | 481 | 0.2 | /mnt/stockage/packages/f19/semantik/src/po/es.po | 
+ | [cs](/f19/language/cs) | 481 | 481 | 100.0 | /mnt/stockage/packages/f19/semantik/src/po/cs.po | 
+ | [el](/f19/language/el) | 250 | 481 | 52.0 | /mnt/stockage/packages/f19/semantik/src/po/el.po | 
+ | [sk](/f19/language/sk) | 249 | 481 | 51.8 | /mnt/stockage/packages/f19/semantik/src/po/sk.po | 
+ | [ru](/f19/language/ru) | 247 | 481 | 51.4 | /mnt/stockage/packages/f19/semantik/src/po/ru.po | 
+ | [fr](/f19/language/fr) | 226 | 481 | 47.0 | /mnt/stockage/packages/f19/semantik/src/po/fr.po | 
+ | [es](/f19/language/es) | 1 | 481 | 0.2 | /mnt/stockage/packages/f19/semantik/src/po/es.po | 
 {.sortable}
 
 

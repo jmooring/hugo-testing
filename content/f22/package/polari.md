@@ -18,47 +18,47 @@ The package polari (version 3.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f22/language/as.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/as.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/ca.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/ca@valencia.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f22/polari/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/eu.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/gl.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f22/polari/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/it.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/lv.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/nb.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f22/polari/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f22/polari/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 764 | 764 | 100.0 | /mnt/stockage/packages/f22/polari/po/sr.po/mnt/stockage/packages/f22/polari/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/sv.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f22/polari/po/te.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f22/polari/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f22/polari/po/zh_TW.po/mnt/stockage/packages/f22/polari/po/zh_HK.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 297 | 371 | 80.1 | /mnt/stockage/packages/f22/polari/po/eo.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 180 | 225 | 80.0 | /mnt/stockage/packages/f22/polari/po/ar.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 212 | 371 | 57.1 | /mnt/stockage/packages/f22/polari/po/ne.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 166 | 375 | 44.3 | /mnt/stockage/packages/f22/polari/po/kk.po | 
+ | [as](/f22/language/as) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/as.po | 
+ | [bs](/f22/language/bs) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/bs.po | 
+ | [ca](/f22/language/ca) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/ca.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/ca@valencia.po | 
+ | [cs](/f22/language/cs) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/cs.po | 
+ | [da](/f22/language/da) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/da.po | 
+ | [de](/f22/language/de) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/de.po | 
+ | [el](/f22/language/el) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 371 | 371 | 100.0 | /mnt/stockage/packages/f22/polari/po/en_GB.po | 
+ | [es](/f22/language/es) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/es.po | 
+ | [eu](/f22/language/eu) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/eu.po | 
+ | [fi](/f22/language/fi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/fi.po | 
+ | [fr](/f22/language/fr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/fr.po | 
+ | [gl](/f22/language/gl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/gl.po | 
+ | [he](/f22/language/he) | 380 | 380 | 100.0 | /mnt/stockage/packages/f22/polari/po/he.po | 
+ | [hu](/f22/language/hu) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/hu.po | 
+ | [id](/f22/language/id) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/id.po | 
+ | [it](/f22/language/it) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/it.po | 
+ | [ko](/f22/language/ko) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/ko.po | 
+ | [lt](/f22/language/lt) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/lt.po | 
+ | [lv](/f22/language/lv) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/lv.po | 
+ | [nb_NO](/f22/language/nb_NO) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/nb.po | 
+ | [pa](/f22/language/pa) | 225 | 225 | 100.0 | /mnt/stockage/packages/f22/polari/po/pa.po | 
+ | [pl](/f22/language/pl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/pl.po | 
+ | [pt](/f22/language/pt) | 225 | 225 | 100.0 | /mnt/stockage/packages/f22/polari/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 373 | 373 | 100.0 | /mnt/stockage/packages/f22/polari/po/ro.po | 
+ | [ru](/f22/language/ru) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/ru.po | 
+ | [sk](/f22/language/sk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/sk.po | 
+ | [sl](/f22/language/sl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/sl.po | 
+ | [sr](/f22/language/sr) | 764 | 764 | 100.0 | /mnt/stockage/packages/f22/polari/po/sr.po/mnt/stockage/packages/f22/polari/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/sv.po | 
+ | [te](/f22/language/te) | 225 | 225 | 100.0 | /mnt/stockage/packages/f22/polari/po/te.po | 
+ | [tr](/f22/language/tr) | 375 | 375 | 100.0 | /mnt/stockage/packages/f22/polari/po/tr.po | 
+ | [uk](/f22/language/uk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f22/polari/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 371 | 371 | 100.0 | /mnt/stockage/packages/f22/polari/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 495 | 495 | 100.0 | /mnt/stockage/packages/f22/polari/po/zh_TW.po/mnt/stockage/packages/f22/polari/po/zh_HK.po | 
+ | [eo](/f22/language/eo) | 297 | 371 | 80.1 | /mnt/stockage/packages/f22/polari/po/eo.po | 
+ | [ar](/f22/language/ar) | 180 | 225 | 80.0 | /mnt/stockage/packages/f22/polari/po/ar.po | 
+ | [ne](/f22/language/ne) | 212 | 371 | 57.1 | /mnt/stockage/packages/f22/polari/po/ne.po | 
+ | [kk](/f22/language/kk) | 166 | 375 | 44.3 | /mnt/stockage/packages/f22/polari/po/kk.po | 
 {.sortable}
 
 

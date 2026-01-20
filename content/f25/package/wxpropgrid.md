@@ -18,9 +18,9 @@ The package wxpropgrid (version 1.4.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f25/wxpropgrid/locale/fi.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f25/wxpropgrid/locale/it.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f25/wxpropgrid/locale/pl.po | 
+ | [fi](/f25/language/fi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f25/wxpropgrid/locale/fi.po | 
+ | [it](/f25/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f25/wxpropgrid/locale/it.po | 
+ | [pl](/f25/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f25/wxpropgrid/locale/pl.po | 
 {.sortable}
 
 

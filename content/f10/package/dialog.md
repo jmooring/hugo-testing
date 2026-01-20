@@ -18,53 +18,53 @@ The package dialog (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/be@latin.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ca.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/eo.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/fr.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ga.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/gl.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/hi.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/id.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ja.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ku.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/lt.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ms.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/nl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/sv.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/th.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/vi.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/wa.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/zh_TW.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/da.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/fi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/hu.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/ro.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/sr.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/tr.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/cy.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/pl.po | 
- | [rm]({{< ref "/f10/language/rm.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/rm.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/ru.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/uk.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 11 | 25 | 44.0 | /mnt/stockage/packages/f10/dialog/po/de.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 11 | 25 | 44.0 | /mnt/stockage/packages/f10/dialog/po/rw.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 10 | 25 | 40.0 | /mnt/stockage/packages/f10/dialog/po/el.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 10 | 25 | 40.0 | /mnt/stockage/packages/f10/dialog/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 10 | 25 | 40.0 | /mnt/stockage/packages/f10/dialog/po/pt_BR.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 9 | 25 | 36.0 | /mnt/stockage/packages/f10/dialog/po/cs.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 9 | 25 | 36.0 | /mnt/stockage/packages/f10/dialog/po/et.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 5 | 25 | 20.0 | /mnt/stockage/packages/f10/dialog/po/sq.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/ar.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/hr.po | 
- | [mg]({{< ref "/f10/language/mg.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/mg.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/mk.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 3 | 25 | 12.0 | /mnt/stockage/packages/f10/dialog/po/bg.po | 
+ | [be_Latn](/f10/language/be_Latn) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/be@latin.po | 
+ | [ca](/f10/language/ca) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ca.po | 
+ | [eo](/f10/language/eo) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/eo.po | 
+ | [eu](/f10/language/eu) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/eu.po | 
+ | [fr](/f10/language/fr) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/fr.po | 
+ | [ga](/f10/language/ga) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ga.po | 
+ | [gl](/f10/language/gl) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/gl.po | 
+ | [hi](/f10/language/hi) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/hi.po | 
+ | [id](/f10/language/id) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/id.po | 
+ | [it](/f10/language/it) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/it.po | 
+ | [ja](/f10/language/ja) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ja.po | 
+ | [ku](/f10/language/ku) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ku.po | 
+ | [lt](/f10/language/lt) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/lt.po | 
+ | [ms](/f10/language/ms) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/ms.po | 
+ | [nb_NO](/f10/language/nb_NO) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/nb.po | 
+ | [nl](/f10/language/nl) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/nl.po | 
+ | [sv](/f10/language/sv) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/sv.po | 
+ | [th](/f10/language/th) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/th.po | 
+ | [vi](/f10/language/vi) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/vi.po | 
+ | [wa](/f10/language/wa) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/wa.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 25 | 25 | 100.0 | /mnt/stockage/packages/f10/dialog/po/zh_TW.po | 
+ | [da](/f10/language/da) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/da.po | 
+ | [es](/f10/language/es) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/es.po | 
+ | [fi](/f10/language/fi) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/fi.po | 
+ | [hu](/f10/language/hu) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/hu.po | 
+ | [ro](/f10/language/ro) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/ro.po | 
+ | [sr](/f10/language/sr) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/sr.po | 
+ | [tr](/f10/language/tr) | 13 | 25 | 52.0 | /mnt/stockage/packages/f10/dialog/po/tr.po | 
+ | [cy](/f10/language/cy) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/cy.po | 
+ | [pl](/f10/language/pl) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/pl.po | 
+ | [rm](/f10/language/rm) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/rm.po | 
+ | [ru](/f10/language/ru) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/ru.po | 
+ | [uk](/f10/language/uk) | 12 | 25 | 48.0 | /mnt/stockage/packages/f10/dialog/po/uk.po | 
+ | [de](/f10/language/de) | 11 | 25 | 44.0 | /mnt/stockage/packages/f10/dialog/po/de.po | 
+ | [rw](/f10/language/rw) | 11 | 25 | 44.0 | /mnt/stockage/packages/f10/dialog/po/rw.po | 
+ | [el](/f10/language/el) | 10 | 25 | 40.0 | /mnt/stockage/packages/f10/dialog/po/el.po | 
+ | [pt](/f10/language/pt) | 10 | 25 | 40.0 | /mnt/stockage/packages/f10/dialog/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 10 | 25 | 40.0 | /mnt/stockage/packages/f10/dialog/po/pt_BR.po | 
+ | [cs](/f10/language/cs) | 9 | 25 | 36.0 | /mnt/stockage/packages/f10/dialog/po/cs.po | 
+ | [et](/f10/language/et) | 9 | 25 | 36.0 | /mnt/stockage/packages/f10/dialog/po/et.po | 
+ | [sq](/f10/language/sq) | 5 | 25 | 20.0 | /mnt/stockage/packages/f10/dialog/po/sq.po | 
+ | [ar](/f10/language/ar) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/ar.po | 
+ | [hr](/f10/language/hr) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/hr.po | 
+ | [mg](/f10/language/mg) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/mg.po | 
+ | [mk](/f10/language/mk) | 4 | 25 | 16.0 | /mnt/stockage/packages/f10/dialog/po/mk.po | 
+ | [bg](/f10/language/bg) | 3 | 25 | 12.0 | /mnt/stockage/packages/f10/dialog/po/bg.po | 
 {.sortable}
 
 

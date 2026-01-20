@@ -18,27 +18,27 @@ The package subscription-manager (version 1.25.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/fr.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/it.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/ja.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/ja.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/ko.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/ko.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/pt_BR.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/ru.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/ru.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/zh_CN.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/zh_TW.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/zh_TW.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 12003 | 12014 | 99.9 | /mnt/stockage/packages/f29/subscription-manager/de.po/mnt/stockage/packages/f29/subscription-manager/po/de.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 12000 | 12014 | 99.9 | /mnt/stockage/packages/f29/subscription-manager/es.po/mnt/stockage/packages/f29/subscription-manager/po/es.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/es.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/bn_IN.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/gu.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/hi.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/kn.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/mr.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/or.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/ta_IN.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/te.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 4795 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/ml.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 4517 | 5722 | 78.9 | /mnt/stockage/packages/f29/subscription-manager/po/as.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 4169 | 5722 | 72.9 | /mnt/stockage/packages/f29/subscription-manager/po/pa.po | 
+ | [fr](/f29/language/fr) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/fr.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/fr.po | 
+ | [it](/f29/language/it) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/it.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/it.po | 
+ | [ja](/f29/language/ja) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/ja.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/ja.po | 
+ | [ko](/f29/language/ko) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/ko.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/ko.po | 
+ | [pt_BR](/f29/language/pt_BR) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/pt_BR.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/ru.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/ru.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/zh_CN.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 6074 | 6074 | 100.0 | /mnt/stockage/packages/f29/subscription-manager/po/zh_TW.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/zh_TW.po | 
+ | [de](/f29/language/de) | 12003 | 12014 | 99.9 | /mnt/stockage/packages/f29/subscription-manager/de.po/mnt/stockage/packages/f29/subscription-manager/po/de.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/de.po | 
+ | [es](/f29/language/es) | 12000 | 12014 | 99.9 | /mnt/stockage/packages/f29/subscription-manager/es.po/mnt/stockage/packages/f29/subscription-manager/po/es.po/mnt/stockage/packages/f29/subscription-manager/syspurpose/po/es.po | 
+ | [bn_IN](/f29/language/bn_IN) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/bn_IN.po | 
+ | [gu](/f29/language/gu) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/gu.po | 
+ | [hi](/f29/language/hi) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/hi.po | 
+ | [kn](/f29/language/kn) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/kn.po | 
+ | [mr](/f29/language/mr) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/mr.po | 
+ | [or](/f29/language/or) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/or.po | 
+ | [ta](/f29/language/ta) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/ta_IN.po | 
+ | [te](/f29/language/te) | 4796 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/te.po | 
+ | [ml](/f29/language/ml) | 4795 | 5722 | 83.8 | /mnt/stockage/packages/f29/subscription-manager/po/ml.po | 
+ | [as](/f29/language/as) | 4517 | 5722 | 78.9 | /mnt/stockage/packages/f29/subscription-manager/po/as.po | 
+ | [pa](/f29/language/pa) | 4169 | 5722 | 72.9 | /mnt/stockage/packages/f29/subscription-manager/po/pa.po | 
 {.sortable}
 
 

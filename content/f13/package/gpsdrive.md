@@ -18,28 +18,28 @@ The package gpsdrive (version 2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f13/language/da.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/da.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/gl.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/it.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/nl.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 1387 | 1387 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/sk.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/sv.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/vi.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 2480 | 2505 | 99.0 | /mnt/stockage/packages/f13/gpsdrive/po/ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 2140 | 2165 | 98.8 | /mnt/stockage/packages/f13/gpsdrive/po/zh_CN.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 1590 | 1616 | 98.4 | /mnt/stockage/packages/f13/gpsdrive/po/ro.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 2115 | 2165 | 97.7 | /mnt/stockage/packages/f13/gpsdrive/po/es.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 1941 | 2165 | 89.7 | /mnt/stockage/packages/f13/gpsdrive/po/et.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1226 | 2106 | 58.2 | /mnt/stockage/packages/f13/gpsdrive/po/hu.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1330 | 2505 | 53.1 | /mnt/stockage/packages/f13/gpsdrive/po/de.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 1070 | 2106 | 50.8 | /mnt/stockage/packages/f13/gpsdrive/po/pa.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 812 | 2505 | 32.4 | /mnt/stockage/packages/f13/gpsdrive/po/fr.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 676 | 2505 | 27.0 | /mnt/stockage/packages/f13/gpsdrive/po/ja.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 599 | 2505 | 23.9 | /mnt/stockage/packages/f13/gpsdrive/po/el.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 540 | 2505 | 21.6 | /mnt/stockage/packages/f13/gpsdrive/po/nb.po | 
- | [de_AT]({{< ref "/f13/language/de_AT.md" >}}) | 424 | 2505 | 16.9 | /mnt/stockage/packages/f13/gpsdrive/po/de_AT.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 383 | 2505 | 15.3 | /mnt/stockage/packages/f13/gpsdrive/po/tr.po | 
+ | [da](/f13/language/da) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/da.po | 
+ | [gl](/f13/language/gl) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/gl.po | 
+ | [id](/f13/language/id) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/id.po | 
+ | [it](/f13/language/it) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/it.po | 
+ | [nl](/f13/language/nl) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/nl.po | 
+ | [sk](/f13/language/sk) | 1387 | 1387 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/sk.po | 
+ | [sv](/f13/language/sv) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/sv.po | 
+ | [vi](/f13/language/vi) | 2311 | 2311 | 100.0 | /mnt/stockage/packages/f13/gpsdrive/po/vi.po | 
+ | [ru](/f13/language/ru) | 2480 | 2505 | 99.0 | /mnt/stockage/packages/f13/gpsdrive/po/ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 2140 | 2165 | 98.8 | /mnt/stockage/packages/f13/gpsdrive/po/zh_CN.po | 
+ | [ro](/f13/language/ro) | 1590 | 1616 | 98.4 | /mnt/stockage/packages/f13/gpsdrive/po/ro.po | 
+ | [es](/f13/language/es) | 2115 | 2165 | 97.7 | /mnt/stockage/packages/f13/gpsdrive/po/es.po | 
+ | [et](/f13/language/et) | 1941 | 2165 | 89.7 | /mnt/stockage/packages/f13/gpsdrive/po/et.po | 
+ | [hu](/f13/language/hu) | 1226 | 2106 | 58.2 | /mnt/stockage/packages/f13/gpsdrive/po/hu.po | 
+ | [de](/f13/language/de) | 1330 | 2505 | 53.1 | /mnt/stockage/packages/f13/gpsdrive/po/de.po | 
+ | [pa](/f13/language/pa) | 1070 | 2106 | 50.8 | /mnt/stockage/packages/f13/gpsdrive/po/pa.po | 
+ | [fr](/f13/language/fr) | 812 | 2505 | 32.4 | /mnt/stockage/packages/f13/gpsdrive/po/fr.po | 
+ | [ja](/f13/language/ja) | 676 | 2505 | 27.0 | /mnt/stockage/packages/f13/gpsdrive/po/ja.po | 
+ | [el](/f13/language/el) | 599 | 2505 | 23.9 | /mnt/stockage/packages/f13/gpsdrive/po/el.po | 
+ | [nb_NO](/f13/language/nb_NO) | 540 | 2505 | 21.6 | /mnt/stockage/packages/f13/gpsdrive/po/nb.po | 
+ | [de_AT](/f13/language/de_AT) | 424 | 2505 | 16.9 | /mnt/stockage/packages/f13/gpsdrive/po/de_AT.po | 
+ | [tr](/f13/language/tr) | 383 | 2505 | 15.3 | /mnt/stockage/packages/f13/gpsdrive/po/tr.po | 
 {.sortable}
 
 

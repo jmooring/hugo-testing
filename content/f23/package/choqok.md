@@ -18,51 +18,51 @@ The package choqok (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/ca/choqok.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/en_GB/choqok.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/nl/choqok.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/pl/choqok.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/pt/choqok.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/pt_BR/choqok.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/sl/choqok.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/sv/choqok.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/uk/choqok.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 2152 | 2159 | 99.7 | /mnt/stockage/packages/f23/choqok/po/da/choqok.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2140 | 2159 | 99.1 | /mnt/stockage/packages/f23/choqok/po/de/choqok.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 2133 | 2159 | 98.8 | /mnt/stockage/packages/f23/choqok/po/el/choqok.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 2133 | 2159 | 98.8 | /mnt/stockage/packages/f23/choqok/po/es/choqok.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 2133 | 2159 | 98.8 | /mnt/stockage/packages/f23/choqok/po/hu/choqok.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/fr/choqok.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/it/choqok.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/nb/choqok.po | 
- | [nds]({{< ref "/f23/language/nds.md" >}}) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/nds/choqok.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 2097 | 2159 | 97.1 | /mnt/stockage/packages/f23/choqok/po/zh_TW/choqok.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1993 | 2159 | 92.3 | /mnt/stockage/packages/f23/choqok/po/fi/choqok.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 1991 | 2159 | 92.2 | /mnt/stockage/packages/f23/choqok/po/bs/choqok.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1877 | 2159 | 86.9 | /mnt/stockage/packages/f23/choqok/po/ru/choqok.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 1838 | 2159 | 85.1 | /mnt/stockage/packages/f23/choqok/po/ca@valencia/choqok.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 1838 | 2159 | 85.1 | /mnt/stockage/packages/f23/choqok/po/gl/choqok.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 1838 | 2159 | 85.1 | /mnt/stockage/packages/f23/choqok/po/tr/choqok.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 1798 | 2159 | 83.3 | /mnt/stockage/packages/f23/choqok/po/et/choqok.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1798 | 2159 | 83.3 | /mnt/stockage/packages/f23/choqok/po/zh_CN/choqok.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1696 | 2159 | 78.6 | /mnt/stockage/packages/f23/choqok/po/cs/choqok.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 1675 | 2159 | 77.6 | /mnt/stockage/packages/f23/choqok/po/km/choqok.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 1063 | 2159 | 49.2 | /mnt/stockage/packages/f23/choqok/po/bg/choqok.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 1039 | 2159 | 48.1 | /mnt/stockage/packages/f23/choqok/po/pa/choqok.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 890 | 1959 | 45.4 | /mnt/stockage/packages/f23/choqok/po/hr/choqok.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 973 | 2159 | 45.1 | /mnt/stockage/packages/f23/choqok/po/ja/choqok.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 753 | 2159 | 34.9 | /mnt/stockage/packages/f23/choqok/po/lt/choqok.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 502 | 2159 | 23.3 | /mnt/stockage/packages/f23/choqok/po/fa/choqok.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 455 | 2159 | 21.1 | /mnt/stockage/packages/f23/choqok/po/ro/choqok.po | 
- | [ia]({{< ref "/f23/language/ia.md" >}}) | 425 | 2159 | 19.7 | /mnt/stockage/packages/f23/choqok/po/ia/choqok.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 331 | 2159 | 15.3 | /mnt/stockage/packages/f23/choqok/po/sk/choqok.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 300 | 2159 | 13.9 | /mnt/stockage/packages/f23/choqok/po/ga/choqok.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 256 | 2159 | 11.9 | /mnt/stockage/packages/f23/choqok/po/ug/choqok.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 171 | 2159 | 7.9 | /mnt/stockage/packages/f23/choqok/po/mr/choqok.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 54 | 2159 | 2.5 | /mnt/stockage/packages/f23/choqok/po/eo/choqok.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 51 | 2159 | 2.4 | /mnt/stockage/packages/f23/choqok/po/sq/choqok.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 4 | 2159 | 0.2 | /mnt/stockage/packages/f23/choqok/po/ms/choqok.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 0 | 2159 | 0.0 | /mnt/stockage/packages/f23/choqok/po/is/choqok.po | 
+ | [ca](/f23/language/ca) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/ca/choqok.po | 
+ | [en_GB](/f23/language/en_GB) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/en_GB/choqok.po | 
+ | [nl](/f23/language/nl) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/nl/choqok.po | 
+ | [pl](/f23/language/pl) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/pl/choqok.po | 
+ | [pt](/f23/language/pt) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/pt/choqok.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/pt_BR/choqok.po | 
+ | [sl](/f23/language/sl) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/sl/choqok.po | 
+ | [sv](/f23/language/sv) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/sv/choqok.po | 
+ | [uk](/f23/language/uk) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f23/choqok/po/uk/choqok.po | 
+ | [da](/f23/language/da) | 2152 | 2159 | 99.7 | /mnt/stockage/packages/f23/choqok/po/da/choqok.po | 
+ | [de](/f23/language/de) | 2140 | 2159 | 99.1 | /mnt/stockage/packages/f23/choqok/po/de/choqok.po | 
+ | [el](/f23/language/el) | 2133 | 2159 | 98.8 | /mnt/stockage/packages/f23/choqok/po/el/choqok.po | 
+ | [es](/f23/language/es) | 2133 | 2159 | 98.8 | /mnt/stockage/packages/f23/choqok/po/es/choqok.po | 
+ | [hu](/f23/language/hu) | 2133 | 2159 | 98.8 | /mnt/stockage/packages/f23/choqok/po/hu/choqok.po | 
+ | [fr](/f23/language/fr) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/fr/choqok.po | 
+ | [it](/f23/language/it) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/it/choqok.po | 
+ | [nb_NO](/f23/language/nb_NO) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/nb/choqok.po | 
+ | [nds](/f23/language/nds) | 2100 | 2159 | 97.3 | /mnt/stockage/packages/f23/choqok/po/nds/choqok.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 2097 | 2159 | 97.1 | /mnt/stockage/packages/f23/choqok/po/zh_TW/choqok.po | 
+ | [fi](/f23/language/fi) | 1993 | 2159 | 92.3 | /mnt/stockage/packages/f23/choqok/po/fi/choqok.po | 
+ | [bs](/f23/language/bs) | 1991 | 2159 | 92.2 | /mnt/stockage/packages/f23/choqok/po/bs/choqok.po | 
+ | [ru](/f23/language/ru) | 1877 | 2159 | 86.9 | /mnt/stockage/packages/f23/choqok/po/ru/choqok.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 1838 | 2159 | 85.1 | /mnt/stockage/packages/f23/choqok/po/ca@valencia/choqok.po | 
+ | [gl](/f23/language/gl) | 1838 | 2159 | 85.1 | /mnt/stockage/packages/f23/choqok/po/gl/choqok.po | 
+ | [tr](/f23/language/tr) | 1838 | 2159 | 85.1 | /mnt/stockage/packages/f23/choqok/po/tr/choqok.po | 
+ | [et](/f23/language/et) | 1798 | 2159 | 83.3 | /mnt/stockage/packages/f23/choqok/po/et/choqok.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1798 | 2159 | 83.3 | /mnt/stockage/packages/f23/choqok/po/zh_CN/choqok.po | 
+ | [cs](/f23/language/cs) | 1696 | 2159 | 78.6 | /mnt/stockage/packages/f23/choqok/po/cs/choqok.po | 
+ | [km](/f23/language/km) | 1675 | 2159 | 77.6 | /mnt/stockage/packages/f23/choqok/po/km/choqok.po | 
+ | [bg](/f23/language/bg) | 1063 | 2159 | 49.2 | /mnt/stockage/packages/f23/choqok/po/bg/choqok.po | 
+ | [pa](/f23/language/pa) | 1039 | 2159 | 48.1 | /mnt/stockage/packages/f23/choqok/po/pa/choqok.po | 
+ | [hr](/f23/language/hr) | 890 | 1959 | 45.4 | /mnt/stockage/packages/f23/choqok/po/hr/choqok.po | 
+ | [ja](/f23/language/ja) | 973 | 2159 | 45.1 | /mnt/stockage/packages/f23/choqok/po/ja/choqok.po | 
+ | [lt](/f23/language/lt) | 753 | 2159 | 34.9 | /mnt/stockage/packages/f23/choqok/po/lt/choqok.po | 
+ | [fa](/f23/language/fa) | 502 | 2159 | 23.3 | /mnt/stockage/packages/f23/choqok/po/fa/choqok.po | 
+ | [ro](/f23/language/ro) | 455 | 2159 | 21.1 | /mnt/stockage/packages/f23/choqok/po/ro/choqok.po | 
+ | [ia](/f23/language/ia) | 425 | 2159 | 19.7 | /mnt/stockage/packages/f23/choqok/po/ia/choqok.po | 
+ | [sk](/f23/language/sk) | 331 | 2159 | 15.3 | /mnt/stockage/packages/f23/choqok/po/sk/choqok.po | 
+ | [ga](/f23/language/ga) | 300 | 2159 | 13.9 | /mnt/stockage/packages/f23/choqok/po/ga/choqok.po | 
+ | [ug](/f23/language/ug) | 256 | 2159 | 11.9 | /mnt/stockage/packages/f23/choqok/po/ug/choqok.po | 
+ | [mr](/f23/language/mr) | 171 | 2159 | 7.9 | /mnt/stockage/packages/f23/choqok/po/mr/choqok.po | 
+ | [eo](/f23/language/eo) | 54 | 2159 | 2.5 | /mnt/stockage/packages/f23/choqok/po/eo/choqok.po | 
+ | [sq](/f23/language/sq) | 51 | 2159 | 2.4 | /mnt/stockage/packages/f23/choqok/po/sq/choqok.po | 
+ | [ms](/f23/language/ms) | 4 | 2159 | 0.2 | /mnt/stockage/packages/f23/choqok/po/ms/choqok.po | 
+ | [is](/f23/language/is) | 0 | 2159 | 0.0 | /mnt/stockage/packages/f23/choqok/po/is/choqok.po | 
 {.sortable}
 
 

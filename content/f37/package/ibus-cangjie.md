@@ -18,9 +18,9 @@ The package ibus-cangjie (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f37/ibus-cangjie/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f37/ibus-cangjie/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f37/ibus-cangjie/po/zh_HK.po | 
+ | [pt_BR](/f37/language/pt_BR) | 152 | 152 | 100.0 | /mnt/stockage/packages/f37/ibus-cangjie/po/pt_BR.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 152 | 152 | 100.0 | /mnt/stockage/packages/f37/ibus-cangjie/po/zh_TW.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 152 | 152 | 100.0 | /mnt/stockage/packages/f37/ibus-cangjie/po/zh_HK.po | 
 {.sortable}
 
 

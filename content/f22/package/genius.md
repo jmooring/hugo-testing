@@ -18,47 +18,47 @@ The package genius (version 1.0.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 35283 | 35283 | 100.0 | /mnt/stockage/packages/f22/genius/help/cs/cs.po/mnt/stockage/packages/f22/genius/po/cs.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 6253 | 6253 | 100.0 | /mnt/stockage/packages/f22/genius/po/dz.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 33212 | 33212 | 100.0 | /mnt/stockage/packages/f22/genius/help/el/el.po/mnt/stockage/packages/f22/genius/po/el.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f22/genius/po/en_CA.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 7004 | 7004 | 100.0 | /mnt/stockage/packages/f22/genius/po/en_GB.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 2839 | 2839 | 100.0 | /mnt/stockage/packages/f22/genius/po/sr@Latn.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 35278 | 35278 | 100.0 | /mnt/stockage/packages/f22/genius/help/es/es.po/mnt/stockage/packages/f22/genius/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 7297 | 7297 | 100.0 | /mnt/stockage/packages/f22/genius/po/eu.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 7665 | 7665 | 100.0 | /mnt/stockage/packages/f22/genius/po/gl.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 2747 | 2747 | 100.0 | /mnt/stockage/packages/f22/genius/po/hr.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 6253 | 6253 | 100.0 | /mnt/stockage/packages/f22/genius/po/lv.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 3078 | 3078 | 100.0 | /mnt/stockage/packages/f22/genius/po/mk.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 6307 | 6307 | 100.0 | /mnt/stockage/packages/f22/genius/po/ne.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 2781 | 2781 | 100.0 | /mnt/stockage/packages/f22/genius/po/pt.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 8167 | 8167 | 100.0 | /mnt/stockage/packages/f22/genius/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 8492 | 8492 | 100.0 | /mnt/stockage/packages/f22/genius/po/sr.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 7979 | 7982 | 100.0 | /mnt/stockage/packages/f22/genius/po/da.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 7210 | 7665 | 94.1 | /mnt/stockage/packages/f22/genius/po/ro.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 29237 | 31478 | 92.9 | /mnt/stockage/packages/f22/genius/help/fr/fr.po/mnt/stockage/packages/f22/genius/po/fr.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 3931 | 5338 | 73.6 | /mnt/stockage/packages/f22/genius/po/nl.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 4386 | 8259 | 53.1 | /mnt/stockage/packages/f22/genius/po/zh_CN.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 3358 | 7665 | 43.8 | /mnt/stockage/packages/f22/genius/po/sv.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 13460 | 30867 | 43.6 | /mnt/stockage/packages/f22/genius/help/de/de.po/mnt/stockage/packages/f22/genius/po/de.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2444 | 6078 | 40.2 | /mnt/stockage/packages/f22/genius/po/it.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 2015 | 5927 | 34.0 | /mnt/stockage/packages/f22/genius/po/zh_TW.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2545 | 7688 | 33.1 | /mnt/stockage/packages/f22/genius/po/ja.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 9307 | 30272 | 30.7 | /mnt/stockage/packages/f22/genius/help/ru/ru.po/mnt/stockage/packages/f22/genius/po/ru.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 2352 | 7982 | 29.5 | /mnt/stockage/packages/f22/genius/po/ca.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 9132 | 33164 | 27.5 | /mnt/stockage/packages/f22/genius/help/pt_BR/pt_BR.po/mnt/stockage/packages/f22/genius/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 834 | 8029 | 10.4 | /mnt/stockage/packages/f22/genius/po/nb.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 561 | 7688 | 7.3 | /mnt/stockage/packages/f22/genius/po/id.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 169 | 2781 | 6.1 | /mnt/stockage/packages/f22/genius/po/hi.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 267 | 6647 | 4.0 | /mnt/stockage/packages/f22/genius/po/ar.po | 
- | [ga]({{< ref "/f22/language/ga.md" >}}) | 96 | 2781 | 3.5 | /mnt/stockage/packages/f22/genius/po/ga.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 89 | 3067 | 2.9 | /mnt/stockage/packages/f22/genius/po/sq.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 12 | 705 | 1.7 | /mnt/stockage/packages/f22/genius/po/ko.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 70 | 5125 | 1.4 | /mnt/stockage/packages/f22/genius/po/pa.po | 
- | [az]({{< ref "/f22/language/az.md" >}}) | 32 | 3090 | 1.0 | /mnt/stockage/packages/f22/genius/po/az.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 59 | 6602 | 0.9 | /mnt/stockage/packages/f22/genius/po/oc.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 24 | 3068 | 0.8 | /mnt/stockage/packages/f22/genius/po/ml.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 35 | 5398 | 0.6 | /mnt/stockage/packages/f22/genius/po/rw.po | 
+ | [cs](/f22/language/cs) | 35283 | 35283 | 100.0 | /mnt/stockage/packages/f22/genius/help/cs/cs.po/mnt/stockage/packages/f22/genius/po/cs.po | 
+ | [dz](/f22/language/dz) | 6253 | 6253 | 100.0 | /mnt/stockage/packages/f22/genius/po/dz.po | 
+ | [el](/f22/language/el) | 33212 | 33212 | 100.0 | /mnt/stockage/packages/f22/genius/help/el/el.po/mnt/stockage/packages/f22/genius/po/el.po | 
+ | [en_CA](/f22/language/en_CA) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f22/genius/po/en_CA.po | 
+ | [en_GB](/f22/language/en_GB) | 7004 | 7004 | 100.0 | /mnt/stockage/packages/f22/genius/po/en_GB.po | 
+ | [error](/f22/language/error) | 2839 | 2839 | 100.0 | /mnt/stockage/packages/f22/genius/po/sr@Latn.po | 
+ | [es](/f22/language/es) | 35278 | 35278 | 100.0 | /mnt/stockage/packages/f22/genius/help/es/es.po/mnt/stockage/packages/f22/genius/po/es.po | 
+ | [eu](/f22/language/eu) | 7297 | 7297 | 100.0 | /mnt/stockage/packages/f22/genius/po/eu.po | 
+ | [gl](/f22/language/gl) | 7665 | 7665 | 100.0 | /mnt/stockage/packages/f22/genius/po/gl.po | 
+ | [hr](/f22/language/hr) | 2747 | 2747 | 100.0 | /mnt/stockage/packages/f22/genius/po/hr.po | 
+ | [lv](/f22/language/lv) | 6253 | 6253 | 100.0 | /mnt/stockage/packages/f22/genius/po/lv.po | 
+ | [mk](/f22/language/mk) | 3078 | 3078 | 100.0 | /mnt/stockage/packages/f22/genius/po/mk.po | 
+ | [ne](/f22/language/ne) | 6307 | 6307 | 100.0 | /mnt/stockage/packages/f22/genius/po/ne.po | 
+ | [pt](/f22/language/pt) | 2781 | 2781 | 100.0 | /mnt/stockage/packages/f22/genius/po/pt.po | 
+ | [sl](/f22/language/sl) | 8167 | 8167 | 100.0 | /mnt/stockage/packages/f22/genius/po/sl.po | 
+ | [sr](/f22/language/sr) | 8492 | 8492 | 100.0 | /mnt/stockage/packages/f22/genius/po/sr.po | 
+ | [da](/f22/language/da) | 7979 | 7982 | 100.0 | /mnt/stockage/packages/f22/genius/po/da.po | 
+ | [ro](/f22/language/ro) | 7210 | 7665 | 94.1 | /mnt/stockage/packages/f22/genius/po/ro.po | 
+ | [fr](/f22/language/fr) | 29237 | 31478 | 92.9 | /mnt/stockage/packages/f22/genius/help/fr/fr.po/mnt/stockage/packages/f22/genius/po/fr.po | 
+ | [nl](/f22/language/nl) | 3931 | 5338 | 73.6 | /mnt/stockage/packages/f22/genius/po/nl.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 4386 | 8259 | 53.1 | /mnt/stockage/packages/f22/genius/po/zh_CN.po | 
+ | [sv](/f22/language/sv) | 3358 | 7665 | 43.8 | /mnt/stockage/packages/f22/genius/po/sv.po | 
+ | [de](/f22/language/de) | 13460 | 30867 | 43.6 | /mnt/stockage/packages/f22/genius/help/de/de.po/mnt/stockage/packages/f22/genius/po/de.po | 
+ | [it](/f22/language/it) | 2444 | 6078 | 40.2 | /mnt/stockage/packages/f22/genius/po/it.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 2015 | 5927 | 34.0 | /mnt/stockage/packages/f22/genius/po/zh_TW.po | 
+ | [ja](/f22/language/ja) | 2545 | 7688 | 33.1 | /mnt/stockage/packages/f22/genius/po/ja.po | 
+ | [ru](/f22/language/ru) | 9307 | 30272 | 30.7 | /mnt/stockage/packages/f22/genius/help/ru/ru.po/mnt/stockage/packages/f22/genius/po/ru.po | 
+ | [ca](/f22/language/ca) | 2352 | 7982 | 29.5 | /mnt/stockage/packages/f22/genius/po/ca.po | 
+ | [pt_BR](/f22/language/pt_BR) | 9132 | 33164 | 27.5 | /mnt/stockage/packages/f22/genius/help/pt_BR/pt_BR.po/mnt/stockage/packages/f22/genius/po/pt_BR.po | 
+ | [nb_NO](/f22/language/nb_NO) | 834 | 8029 | 10.4 | /mnt/stockage/packages/f22/genius/po/nb.po | 
+ | [id](/f22/language/id) | 561 | 7688 | 7.3 | /mnt/stockage/packages/f22/genius/po/id.po | 
+ | [hi](/f22/language/hi) | 169 | 2781 | 6.1 | /mnt/stockage/packages/f22/genius/po/hi.po | 
+ | [ar](/f22/language/ar) | 267 | 6647 | 4.0 | /mnt/stockage/packages/f22/genius/po/ar.po | 
+ | [ga](/f22/language/ga) | 96 | 2781 | 3.5 | /mnt/stockage/packages/f22/genius/po/ga.po | 
+ | [sq](/f22/language/sq) | 89 | 3067 | 2.9 | /mnt/stockage/packages/f22/genius/po/sq.po | 
+ | [ko](/f22/language/ko) | 12 | 705 | 1.7 | /mnt/stockage/packages/f22/genius/po/ko.po | 
+ | [pa](/f22/language/pa) | 70 | 5125 | 1.4 | /mnt/stockage/packages/f22/genius/po/pa.po | 
+ | [az](/f22/language/az) | 32 | 3090 | 1.0 | /mnt/stockage/packages/f22/genius/po/az.po | 
+ | [oc](/f22/language/oc) | 59 | 6602 | 0.9 | /mnt/stockage/packages/f22/genius/po/oc.po | 
+ | [ml](/f22/language/ml) | 24 | 3068 | 0.8 | /mnt/stockage/packages/f22/genius/po/ml.po | 
+ | [rw](/f22/language/rw) | 35 | 5398 | 0.6 | /mnt/stockage/packages/f22/genius/po/rw.po | 
 {.sortable}
 
 

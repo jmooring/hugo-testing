@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [filezilla]({{< ref "/f9/package/filezilla.md" >}}) | 6458 | 6469 | 99.8 | milliWHAT? | 
- | [gnubiff]({{< ref "/f9/package/gnubiff.md" >}}) | 1160 | 1172 | 99.0 | Français <fr@li.org> | 
- | [notecase]({{< ref "/f9/package/notecase.md" >}}) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
+ | [filezilla](/f9/package/filezilla) | 6458 | 6469 | 99.8 | milliWHAT? | 
+ | [gnubiff](/f9/package/gnubiff) | 1160 | 1172 | 99.0 | Français <fr@li.org> | 
+ | [notecase](/f9/package/notecase) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
 {.sortable}
 
 

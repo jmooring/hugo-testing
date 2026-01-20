@@ -18,39 +18,39 @@ The package indent (version 2.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/bg.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/el.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/es.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/et.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/fr.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/hr.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/sk.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/zh_CN.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 258 | 261 | 98.9 | /mnt/stockage/packages/f33/indent/po/hu.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 247 | 261 | 94.6 | /mnt/stockage/packages/f33/indent/po/da.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 247 | 261 | 94.6 | /mnt/stockage/packages/f33/indent/po/gl.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 247 | 261 | 94.6 | /mnt/stockage/packages/f33/indent/po/it.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 238 | 261 | 91.2 | /mnt/stockage/packages/f33/indent/po/ga.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 238 | 261 | 91.2 | /mnt/stockage/packages/f33/indent/po/id.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 444 | 522 | 85.1 | /mnt/stockage/packages/f33/indent/po/zh_TW.po/mnt/stockage/packages/f33/indent/po/zh_TW.Big5.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 218 | 261 | 83.5 | /mnt/stockage/packages/f33/indent/po/eu.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 199 | 261 | 76.2 | /mnt/stockage/packages/f33/indent/po/ja.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 194 | 261 | 74.3 | /mnt/stockage/packages/f33/indent/po/ca.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 190 | 261 | 72.8 | /mnt/stockage/packages/f33/indent/po/ro.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 51 | 261 | 19.5 | /mnt/stockage/packages/f33/indent/po/ko.po | 
+ | [bg](/f33/language/bg) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/bg.po | 
+ | [cs](/f33/language/cs) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/cs.po | 
+ | [de](/f33/language/de) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/de.po | 
+ | [el](/f33/language/el) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/el.po | 
+ | [eo](/f33/language/eo) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/eo.po | 
+ | [es](/f33/language/es) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/es.po | 
+ | [et](/f33/language/et) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/et.po | 
+ | [fi](/f33/language/fi) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/fi.po | 
+ | [fr](/f33/language/fr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/fr.po | 
+ | [hr](/f33/language/hr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/hr.po | 
+ | [nl](/f33/language/nl) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/nl.po | 
+ | [pl](/f33/language/pl) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/ru.po | 
+ | [sk](/f33/language/sk) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/sk.po | 
+ | [sr](/f33/language/sr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/sr.po | 
+ | [sv](/f33/language/sv) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/sv.po | 
+ | [tr](/f33/language/tr) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/tr.po | 
+ | [uk](/f33/language/uk) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/uk.po | 
+ | [vi](/f33/language/vi) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/indent/po/zh_CN.po | 
+ | [hu](/f33/language/hu) | 258 | 261 | 98.9 | /mnt/stockage/packages/f33/indent/po/hu.po | 
+ | [da](/f33/language/da) | 247 | 261 | 94.6 | /mnt/stockage/packages/f33/indent/po/da.po | 
+ | [gl](/f33/language/gl) | 247 | 261 | 94.6 | /mnt/stockage/packages/f33/indent/po/gl.po | 
+ | [it](/f33/language/it) | 247 | 261 | 94.6 | /mnt/stockage/packages/f33/indent/po/it.po | 
+ | [ga](/f33/language/ga) | 238 | 261 | 91.2 | /mnt/stockage/packages/f33/indent/po/ga.po | 
+ | [id](/f33/language/id) | 238 | 261 | 91.2 | /mnt/stockage/packages/f33/indent/po/id.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 444 | 522 | 85.1 | /mnt/stockage/packages/f33/indent/po/zh_TW.po/mnt/stockage/packages/f33/indent/po/zh_TW.Big5.po | 
+ | [eu](/f33/language/eu) | 218 | 261 | 83.5 | /mnt/stockage/packages/f33/indent/po/eu.po | 
+ | [ja](/f33/language/ja) | 199 | 261 | 76.2 | /mnt/stockage/packages/f33/indent/po/ja.po | 
+ | [ca](/f33/language/ca) | 194 | 261 | 74.3 | /mnt/stockage/packages/f33/indent/po/ca.po | 
+ | [ro](/f33/language/ro) | 190 | 261 | 72.8 | /mnt/stockage/packages/f33/indent/po/ro.po | 
+ | [ko](/f33/language/ko) | 51 | 261 | 19.5 | /mnt/stockage/packages/f33/indent/po/ko.po | 
 {.sortable}
 
 

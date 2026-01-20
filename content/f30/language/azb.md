@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtk2]({{< ref "/f30/package/gtk2.md" >}}) | 7 | 13704 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
- | [mingw-gtk2]({{< ref "/f30/package/mingw-gtk2.md" >}}) | 7 | 13704 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
- | [gtk3]({{< ref "/f30/package/gtk3.md" >}}) | 5 | 11853 | 0.0 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
- | [gtk4]({{< ref "/f30/package/gtk4.md" >}}) | 5 | 11853 | 0.0 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
- | [mingw-gtk3]({{< ref "/f30/package/mingw-gtk3.md" >}}) | 5 | 11853 | 0.0 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
- | [clutter]({{< ref "/f30/package/clutter.md" >}}) | 1 | 3057 | 0.0 | Iranian Azerbaiijani <az-ir@lists.sharif.edu> | 
+ | [gtk2](/f30/package/gtk2) | 7 | 13704 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [mingw-gtk2](/f30/package/mingw-gtk2) | 7 | 13704 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [gtk3](/f30/package/gtk3) | 5 | 11853 | 0.0 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [gtk4](/f30/package/gtk4) | 5 | 11853 | 0.0 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [mingw-gtk3](/f30/package/mingw-gtk3) | 5 | 11853 | 0.0 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [clutter](/f30/package/clutter) | 1 | 3057 | 0.0 | Iranian Azerbaiijani <az-ir@lists.sharif.edu> | 
 {.sortable}
 
 

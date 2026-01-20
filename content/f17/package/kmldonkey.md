@@ -18,40 +18,40 @@ The package kmldonkey (version 2.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/ca/kmldonkey.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/ca@valencia/kmldonkey.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/da/kmldonkey.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/en_GB/kmldonkey.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/es/kmldonkey.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/et/kmldonkey.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/fr/kmldonkey.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/gl/kmldonkey.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/it/kmldonkey.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/nb/kmldonkey.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/nds/kmldonkey.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/nl/kmldonkey.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/pt/kmldonkey.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/pt_BR/kmldonkey.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/sv/kmldonkey.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/uk/kmldonkey.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/zh_TW/kmldonkey.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 1822 | 1830 | 99.6 | /mnt/stockage/packages/f17/kmldonkey/po/tr/kmldonkey.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 1538 | 1830 | 84.0 | /mnt/stockage/packages/f17/kmldonkey/po/el/kmldonkey.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1524 | 1830 | 83.3 | /mnt/stockage/packages/f17/kmldonkey/po/ru/kmldonkey.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1401 | 1830 | 76.6 | /mnt/stockage/packages/f17/kmldonkey/po/de/kmldonkey.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 1183 | 1830 | 64.6 | /mnt/stockage/packages/f17/kmldonkey/po/bg/kmldonkey.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1165 | 1830 | 63.7 | /mnt/stockage/packages/f17/kmldonkey/po/zh_CN/kmldonkey.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1046 | 1830 | 57.2 | /mnt/stockage/packages/f17/kmldonkey/po/pl/kmldonkey.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 806 | 1830 | 44.0 | /mnt/stockage/packages/f17/kmldonkey/po/cs/kmldonkey.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 228 | 1830 | 12.5 | /mnt/stockage/packages/f17/kmldonkey/po/ga/kmldonkey.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 163 | 1830 | 8.9 | /mnt/stockage/packages/f17/kmldonkey/po/mai/kmldonkey.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 144 | 1830 | 7.9 | /mnt/stockage/packages/f17/kmldonkey/po/ro/kmldonkey.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 143 | 1830 | 7.8 | /mnt/stockage/packages/f17/kmldonkey/po/eo/kmldonkey.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 3 | 1830 | 0.2 | /mnt/stockage/packages/f17/kmldonkey/po/hr/kmldonkey.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/is/kmldonkey.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/lt/kmldonkey.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/nn/kmldonkey.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/sk/kmldonkey.po | 
+ | [ca](/f17/language/ca) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/ca/kmldonkey.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/ca@valencia/kmldonkey.po | 
+ | [da](/f17/language/da) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/da/kmldonkey.po | 
+ | [en_GB](/f17/language/en_GB) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/en_GB/kmldonkey.po | 
+ | [es](/f17/language/es) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/es/kmldonkey.po | 
+ | [et](/f17/language/et) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/et/kmldonkey.po | 
+ | [fr](/f17/language/fr) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/fr/kmldonkey.po | 
+ | [gl](/f17/language/gl) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/gl/kmldonkey.po | 
+ | [it](/f17/language/it) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/it/kmldonkey.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/nb/kmldonkey.po | 
+ | [nds](/f17/language/nds) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/nds/kmldonkey.po | 
+ | [nl](/f17/language/nl) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/nl/kmldonkey.po | 
+ | [pt](/f17/language/pt) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/pt/kmldonkey.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/pt_BR/kmldonkey.po | 
+ | [sv](/f17/language/sv) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/sv/kmldonkey.po | 
+ | [uk](/f17/language/uk) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/uk/kmldonkey.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 1830 | 1830 | 100.0 | /mnt/stockage/packages/f17/kmldonkey/po/zh_TW/kmldonkey.po | 
+ | [tr](/f17/language/tr) | 1822 | 1830 | 99.6 | /mnt/stockage/packages/f17/kmldonkey/po/tr/kmldonkey.po | 
+ | [el](/f17/language/el) | 1538 | 1830 | 84.0 | /mnt/stockage/packages/f17/kmldonkey/po/el/kmldonkey.po | 
+ | [ru](/f17/language/ru) | 1524 | 1830 | 83.3 | /mnt/stockage/packages/f17/kmldonkey/po/ru/kmldonkey.po | 
+ | [de](/f17/language/de) | 1401 | 1830 | 76.6 | /mnt/stockage/packages/f17/kmldonkey/po/de/kmldonkey.po | 
+ | [bg](/f17/language/bg) | 1183 | 1830 | 64.6 | /mnt/stockage/packages/f17/kmldonkey/po/bg/kmldonkey.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1165 | 1830 | 63.7 | /mnt/stockage/packages/f17/kmldonkey/po/zh_CN/kmldonkey.po | 
+ | [pl](/f17/language/pl) | 1046 | 1830 | 57.2 | /mnt/stockage/packages/f17/kmldonkey/po/pl/kmldonkey.po | 
+ | [cs](/f17/language/cs) | 806 | 1830 | 44.0 | /mnt/stockage/packages/f17/kmldonkey/po/cs/kmldonkey.po | 
+ | [ga](/f17/language/ga) | 228 | 1830 | 12.5 | /mnt/stockage/packages/f17/kmldonkey/po/ga/kmldonkey.po | 
+ | [mai](/f17/language/mai) | 163 | 1830 | 8.9 | /mnt/stockage/packages/f17/kmldonkey/po/mai/kmldonkey.po | 
+ | [ro](/f17/language/ro) | 144 | 1830 | 7.9 | /mnt/stockage/packages/f17/kmldonkey/po/ro/kmldonkey.po | 
+ | [eo](/f17/language/eo) | 143 | 1830 | 7.8 | /mnt/stockage/packages/f17/kmldonkey/po/eo/kmldonkey.po | 
+ | [hr](/f17/language/hr) | 3 | 1830 | 0.2 | /mnt/stockage/packages/f17/kmldonkey/po/hr/kmldonkey.po | 
+ | [is](/f17/language/is) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/is/kmldonkey.po | 
+ | [lt](/f17/language/lt) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/lt/kmldonkey.po | 
+ | [nn](/f17/language/nn) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/nn/kmldonkey.po | 
+ | [sk](/f17/language/sk) | 0 | 1830 | 0.0 | /mnt/stockage/packages/f17/kmldonkey/po/sk/kmldonkey.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package python-oslo-messaging (version 5.17.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f25/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-error.po/mnt/stockage/packages/f25/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-info.po/mnt/stockage/packages/f25/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-warning.po/mnt/stockage/packages/f25/python-oslo-messaging/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f25/language/en_GB) | 138 | 138 | 100.0 | /mnt/stockage/packages/f25/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-error.po/mnt/stockage/packages/f25/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-info.po/mnt/stockage/packages/f25/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-warning.po/mnt/stockage/packages/f25/python-oslo-messaging/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

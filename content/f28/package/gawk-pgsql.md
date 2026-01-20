@@ -18,7 +18,7 @@ The package gawk-pgsql (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 0 | 618 | 0.0 | /mnt/stockage/packages/f28/gawk-pgsql/po/fr.po | 
+ | [fr](/f28/language/fr) | 0 | 618 | 0.0 | /mnt/stockage/packages/f28/gawk-pgsql/po/fr.po | 
 {.sortable}
 
 

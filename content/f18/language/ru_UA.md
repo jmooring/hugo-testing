@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [skychart]({{< ref "/f18/package/skychart.md" >}}) | 3891 | 4213 | 92.4 | Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua> | 
+ | [skychart](/f18/package/skychart) | 3891 | 4213 | 92.4 | Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua> | 
 {.sortable}
 
 

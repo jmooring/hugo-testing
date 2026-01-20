@@ -18,7 +18,7 @@ The package scim-array (version 0.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f8/scim-array/po/zh_TW.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 79 | 79 | 100.0 | /mnt/stockage/packages/f8/scim-array/po/zh_TW.po | 
 {.sortable}
 
 

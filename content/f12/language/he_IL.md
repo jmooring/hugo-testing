@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [epdfview]({{< ref "/f12/package/epdfview.md" >}}) | 483 | 483 | 100.0 | Hebrew <none@none.org> | 
- | [filezilla]({{< ref "/f12/package/filezilla.md" >}}) | 7523 | 9102 | 82.7 | ABZPMGDNHM7 (please do not remove) | 
- | [squirrelmail]({{< ref "/f12/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f12/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f12/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [publican]({{< ref "/f12/package/publican.md" >}}) | 0 | 191 | 0.0 | None | 
- | [publican-fedora]({{< ref "/f12/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [epdfview](/f12/package/epdfview) | 483 | 483 | 100.0 | Hebrew <none@none.org> | 
+ | [filezilla](/f12/package/filezilla) | 7523 | 9102 | 82.7 | ABZPMGDNHM7 (please do not remove) | 
+ | [squirrelmail](/f12/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f12/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f12/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [publican](/f12/package/publican) | 0 | 191 | 0.0 | None | 
+ | [publican-fedora](/f12/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

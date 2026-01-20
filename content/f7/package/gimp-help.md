@@ -18,11 +18,11 @@ The package gimp-help (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 518 | 529 | 97.9 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 518 | 529 | 97.9 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/it.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 476 | 529 | 90.0 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/ru.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 430 | 529 | 81.3 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/de.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 52 | 529 | 9.8 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/sv.po | 
+ | [fr](/f7/language/fr) | 518 | 529 | 97.9 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/fr.po | 
+ | [it](/f7/language/it) | 518 | 529 | 97.9 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/it.po | 
+ | [ru](/f7/language/ru) | 476 | 529 | 90.0 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/ru.po | 
+ | [de](/f7/language/de) | 430 | 529 | 81.3 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/de.po | 
+ | [sv](/f7/language/sv) | 52 | 529 | 9.8 | /mnt/stockage/packages/f7/gimp-help/quickreference/po/sv.po | 
 {.sortable}
 
 

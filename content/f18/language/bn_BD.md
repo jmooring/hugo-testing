@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f18/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [firstboot]({{< ref "/f18/package/firstboot.md" >}}) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
- | [fonts-tweak-tool]({{< ref "/f18/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Bengali (Bangladesh) | 
- | [im-chooser]({{< ref "/f18/package/im-chooser.md" >}}) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f18/package/imsettings.md" >}}) | 0 | 441 | 0.0 | LANGUAGE <LL@li.org> | 
- | [preupgrade]({{< ref "/f18/package/preupgrade.md" >}}) | 0 | 768 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhn-client-tools]({{< ref "/f18/package/rhn-client-tools.md" >}}) | 0 | 4348 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f18/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [spacewalk-backend]({{< ref "/f18/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f18/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f18/package/system-config-services.md" >}}) | 0 | 518 | 0.0 | Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/) | 
- | [system-config-users]({{< ref "/f18/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f18/package/yum-rhn-plugin.md" >}}) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f18/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [firstboot](/f18/package/firstboot) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [fonts-tweak-tool](/f18/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Bengali (Bangladesh) | 
+ | [im-chooser](/f18/package/im-chooser) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f18/package/imsettings) | 0 | 441 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [preupgrade](/f18/package/preupgrade) | 0 | 768 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhn-client-tools](/f18/package/rhn-client-tools) | 0 | 4348 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f18/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [spacewalk-backend](/f18/package/spacewalk-backend) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f18/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f18/package/system-config-services) | 0 | 518 | 0.0 | Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/) | 
+ | [system-config-users](/f18/package/system-config-users) | 0 | 1452 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [yum-rhn-plugin](/f18/package/yum-rhn-plugin) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

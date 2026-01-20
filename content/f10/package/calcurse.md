@@ -18,11 +18,11 @@ The package calcurse (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1304 | 4042 | 32.3 | /mnt/stockage/packages/f10/calcurse/po/fr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1304 | 4042 | 32.3 | /mnt/stockage/packages/f10/calcurse/po/nl.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 643 | 4042 | 15.9 | /mnt/stockage/packages/f10/calcurse/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 638 | 4042 | 15.8 | /mnt/stockage/packages/f10/calcurse/po/es.po | 
- | [en]({{< ref "/f10/language/en.md" >}}) | 352 | 4042 | 8.7 | /mnt/stockage/packages/f10/calcurse/po/en.po | 
+ | [fr](/f10/language/fr) | 1304 | 4042 | 32.3 | /mnt/stockage/packages/f10/calcurse/po/fr.po | 
+ | [nl](/f10/language/nl) | 1304 | 4042 | 32.3 | /mnt/stockage/packages/f10/calcurse/po/nl.po | 
+ | [de](/f10/language/de) | 643 | 4042 | 15.9 | /mnt/stockage/packages/f10/calcurse/po/de.po | 
+ | [es](/f10/language/es) | 638 | 4042 | 15.8 | /mnt/stockage/packages/f10/calcurse/po/es.po | 
+ | [en](/f10/language/en) | 352 | 4042 | 8.7 | /mnt/stockage/packages/f10/calcurse/po/en.po | 
 {.sortable}
 
 

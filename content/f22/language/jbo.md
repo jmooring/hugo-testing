@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f22/package/supertux.md" >}}) | 193 | 1823 | 10.6 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [pychess]({{< ref "/f22/package/pychess.md" >}}) | 2 | 3091 | 0.1 | Lojban <jbo@li.org> | 
- | [gtg]({{< ref "/f22/package/gtg.md" >}}) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
+ | [supertux](/f22/package/supertux) | 193 | 1823 | 10.6 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [pychess](/f22/package/pychess) | 2 | 3091 | 0.1 | Lojban <jbo@li.org> | 
+ | [gtg](/f22/package/gtg) | 2 | 3497 | 0.1 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

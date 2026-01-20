@@ -18,21 +18,21 @@ The package foxtrotgps (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/fr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/pl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/sr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 986 | 995 | 99.1 | /mnt/stockage/packages/f35/foxtrotgps/po/de.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 982 | 995 | 98.7 | /mnt/stockage/packages/f35/foxtrotgps/po/cs.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 925 | 995 | 93.0 | /mnt/stockage/packages/f35/foxtrotgps/po/hu.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 925 | 995 | 93.0 | /mnt/stockage/packages/f35/foxtrotgps/po/ja.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 382 | 995 | 38.4 | /mnt/stockage/packages/f35/foxtrotgps/po/pt_BR.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 291 | 995 | 29.2 | /mnt/stockage/packages/f35/foxtrotgps/po/it.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 259 | 995 | 26.0 | /mnt/stockage/packages/f35/foxtrotgps/po/sk.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 211 | 995 | 21.2 | /mnt/stockage/packages/f35/foxtrotgps/po/ru.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 147 | 995 | 14.8 | /mnt/stockage/packages/f35/foxtrotgps/po/bg.po | 
+ | [es](/f35/language/es) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/es.po | 
+ | [fi](/f35/language/fi) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/fi.po | 
+ | [fr](/f35/language/fr) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/fr.po | 
+ | [nl](/f35/language/nl) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/nl.po | 
+ | [pl](/f35/language/pl) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/pl.po | 
+ | [sr](/f35/language/sr) | 995 | 995 | 100.0 | /mnt/stockage/packages/f35/foxtrotgps/po/sr.po | 
+ | [de](/f35/language/de) | 986 | 995 | 99.1 | /mnt/stockage/packages/f35/foxtrotgps/po/de.po | 
+ | [cs](/f35/language/cs) | 982 | 995 | 98.7 | /mnt/stockage/packages/f35/foxtrotgps/po/cs.po | 
+ | [hu](/f35/language/hu) | 925 | 995 | 93.0 | /mnt/stockage/packages/f35/foxtrotgps/po/hu.po | 
+ | [ja](/f35/language/ja) | 925 | 995 | 93.0 | /mnt/stockage/packages/f35/foxtrotgps/po/ja.po | 
+ | [pt_BR](/f35/language/pt_BR) | 382 | 995 | 38.4 | /mnt/stockage/packages/f35/foxtrotgps/po/pt_BR.po | 
+ | [it](/f35/language/it) | 291 | 995 | 29.2 | /mnt/stockage/packages/f35/foxtrotgps/po/it.po | 
+ | [sk](/f35/language/sk) | 259 | 995 | 26.0 | /mnt/stockage/packages/f35/foxtrotgps/po/sk.po | 
+ | [ru](/f35/language/ru) | 211 | 995 | 21.2 | /mnt/stockage/packages/f35/foxtrotgps/po/ru.po | 
+ | [bg](/f35/language/bg) | 147 | 995 | 14.8 | /mnt/stockage/packages/f35/foxtrotgps/po/bg.po | 
 {.sortable}
 
 

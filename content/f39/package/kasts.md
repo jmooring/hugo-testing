@@ -18,34 +18,34 @@ The package kasts (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ca/kasts.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ca@valencia/kasts.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/es/kasts.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/eu/kasts.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/fi/kasts.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/fr/kasts.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ia/kasts.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/it/kasts.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ka/kasts.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ko/kasts.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/nl/kasts.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/pl/kasts.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/sl/kasts.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/sv/kasts.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/uk/kasts.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/zh_TW/kasts.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1180 | 1231 | 95.9 | /mnt/stockage/packages/f39/kasts/po/tr/kasts.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1173 | 1231 | 95.3 | /mnt/stockage/packages/f39/kasts/po/ru/kasts.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1045 | 1231 | 84.9 | /mnt/stockage/packages/f39/kasts/po/de/kasts.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 940 | 1231 | 76.4 | /mnt/stockage/packages/f39/kasts/po/en_GB/kasts.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 940 | 1231 | 76.4 | /mnt/stockage/packages/f39/kasts/po/pt/kasts.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 791 | 1231 | 64.3 | /mnt/stockage/packages/f39/kasts/po/cs/kasts.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 686 | 1231 | 55.7 | /mnt/stockage/packages/f39/kasts/po/zh_CN/kasts.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 168 | 1231 | 13.6 | /mnt/stockage/packages/f39/kasts/po/sk/kasts.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 57 | 1231 | 4.6 | /mnt/stockage/packages/f39/kasts/po/pa/kasts.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 32 | 1231 | 2.6 | /mnt/stockage/packages/f39/kasts/po/pt_BR/kasts.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 1231 | 0.0 | /mnt/stockage/packages/f39/kasts/po/ja/kasts.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 1231 | 0.0 | /mnt/stockage/packages/f39/kasts/po/lt/kasts.po | 
+ | [ca](/f39/language/ca) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ca/kasts.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ca@valencia/kasts.po | 
+ | [es](/f39/language/es) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/es/kasts.po | 
+ | [eu](/f39/language/eu) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/eu/kasts.po | 
+ | [fi](/f39/language/fi) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/fi/kasts.po | 
+ | [fr](/f39/language/fr) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/fr/kasts.po | 
+ | [ia](/f39/language/ia) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ia/kasts.po | 
+ | [it](/f39/language/it) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/it/kasts.po | 
+ | [ka](/f39/language/ka) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ka/kasts.po | 
+ | [ko](/f39/language/ko) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/ko/kasts.po | 
+ | [nl](/f39/language/nl) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/nl/kasts.po | 
+ | [pl](/f39/language/pl) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/pl/kasts.po | 
+ | [sl](/f39/language/sl) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/sl/kasts.po | 
+ | [sv](/f39/language/sv) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/sv/kasts.po | 
+ | [uk](/f39/language/uk) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/uk/kasts.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1231 | 1231 | 100.0 | /mnt/stockage/packages/f39/kasts/po/zh_TW/kasts.po | 
+ | [tr](/f39/language/tr) | 1180 | 1231 | 95.9 | /mnt/stockage/packages/f39/kasts/po/tr/kasts.po | 
+ | [ru](/f39/language/ru) | 1173 | 1231 | 95.3 | /mnt/stockage/packages/f39/kasts/po/ru/kasts.po | 
+ | [de](/f39/language/de) | 1045 | 1231 | 84.9 | /mnt/stockage/packages/f39/kasts/po/de/kasts.po | 
+ | [en_GB](/f39/language/en_GB) | 940 | 1231 | 76.4 | /mnt/stockage/packages/f39/kasts/po/en_GB/kasts.po | 
+ | [pt](/f39/language/pt) | 940 | 1231 | 76.4 | /mnt/stockage/packages/f39/kasts/po/pt/kasts.po | 
+ | [cs](/f39/language/cs) | 791 | 1231 | 64.3 | /mnt/stockage/packages/f39/kasts/po/cs/kasts.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 686 | 1231 | 55.7 | /mnt/stockage/packages/f39/kasts/po/zh_CN/kasts.po | 
+ | [sk](/f39/language/sk) | 168 | 1231 | 13.6 | /mnt/stockage/packages/f39/kasts/po/sk/kasts.po | 
+ | [pa](/f39/language/pa) | 57 | 1231 | 4.6 | /mnt/stockage/packages/f39/kasts/po/pa/kasts.po | 
+ | [pt_BR](/f39/language/pt_BR) | 32 | 1231 | 2.6 | /mnt/stockage/packages/f39/kasts/po/pt_BR/kasts.po | 
+ | [ja](/f39/language/ja) | 0 | 1231 | 0.0 | /mnt/stockage/packages/f39/kasts/po/ja/kasts.po | 
+ | [lt](/f39/language/lt) | 0 | 1231 | 0.0 | /mnt/stockage/packages/f39/kasts/po/lt/kasts.po | 
 {.sortable}
 
 

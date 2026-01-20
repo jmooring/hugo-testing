@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f7/package/exaile.md" >}}) | 93 | 2580 | 3.6 | Franco-Provençal <frp@li.org> | 
+ | [exaile](/f7/package/exaile) | 93 | 2580 | 3.6 | Franco-Provençal <frp@li.org> | 
 {.sortable}
 
 

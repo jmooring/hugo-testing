@@ -18,59 +18,59 @@ The package kwebkitpart (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/bs/kwebkitpart.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ca/kwebkitpart.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ca@valencia/kwebkitpart.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/da/kwebkitpart.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/de/kwebkitpart.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/el/kwebkitpart.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/es/kwebkitpart.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/et/kwebkitpart.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/fi/kwebkitpart.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/gl/kwebkitpart.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/hu/kwebkitpart.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/kk/kwebkitpart.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/nb/kwebkitpart.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/nl/kwebkitpart.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/pl/kwebkitpart.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/pt/kwebkitpart.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/pt_BR/kwebkitpart.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ru/kwebkitpart.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sk/kwebkitpart.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sl/kwebkitpart.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr/kwebkitpart.po | 
- | [sr@ijekavian]({{< ref "/f18/language/sr@ijekavian.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr@ijekavian/kwebkitpart.po | 
- | [sr@ijekavian_Latn]({{< ref "/f18/language/sr@ijekavian_Latn.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr@ijekavianlatin/kwebkitpart.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr@latin/kwebkitpart.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sv/kwebkitpart.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/uk/kwebkitpart.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/zh_CN/kwebkitpart.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/zh_TW/kwebkitpart.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 576 | 624 | 92.3 | /mnt/stockage/packages/f18/kwebkitpart/po/cs/kwebkitpart.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 557 | 624 | 89.3 | /mnt/stockage/packages/f18/kwebkitpart/po/lt/kwebkitpart.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 556 | 624 | 89.1 | /mnt/stockage/packages/f18/kwebkitpart/po/tr/kwebkitpart.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 550 | 624 | 88.1 | /mnt/stockage/packages/f18/kwebkitpart/po/fr/kwebkitpart.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/ar/kwebkitpart.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/km/kwebkitpart.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/nds/kwebkitpart.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/th/kwebkitpart.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/ug/kwebkitpart.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 484 | 624 | 77.6 | /mnt/stockage/packages/f18/kwebkitpart/po/ro/kwebkitpart.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 432 | 624 | 69.2 | /mnt/stockage/packages/f18/kwebkitpart/po/ast/kwebkitpart.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 432 | 624 | 69.2 | /mnt/stockage/packages/f18/kwebkitpart/po/en_GB/kwebkitpart.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 432 | 624 | 69.2 | /mnt/stockage/packages/f18/kwebkitpart/po/eu/kwebkitpart.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 403 | 624 | 64.6 | /mnt/stockage/packages/f18/kwebkitpart/po/pa/kwebkitpart.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 398 | 624 | 63.8 | /mnt/stockage/packages/f18/kwebkitpart/po/ga/kwebkitpart.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 306 | 624 | 49.0 | /mnt/stockage/packages/f18/kwebkitpart/po/bg/kwebkitpart.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 292 | 624 | 46.8 | /mnt/stockage/packages/f18/kwebkitpart/po/it/kwebkitpart.po | 
- | [mai]({{< ref "/f18/language/mai.md" >}}) | 179 | 624 | 28.7 | /mnt/stockage/packages/f18/kwebkitpart/po/mai/kwebkitpart.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 179 | 624 | 28.7 | /mnt/stockage/packages/f18/kwebkitpart/po/mr/kwebkitpart.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 178 | 624 | 28.5 | /mnt/stockage/packages/f18/kwebkitpart/po/fa/kwebkitpart.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 175 | 624 | 28.0 | /mnt/stockage/packages/f18/kwebkitpart/po/eo/kwebkitpart.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 158 | 624 | 25.3 | /mnt/stockage/packages/f18/kwebkitpart/po/is/kwebkitpart.po | 
- | [tg]({{< ref "/f18/language/tg.md" >}}) | 65 | 624 | 10.4 | /mnt/stockage/packages/f18/kwebkitpart/po/tg/kwebkitpart.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 9 | 624 | 1.4 | /mnt/stockage/packages/f18/kwebkitpart/po/ms/kwebkitpart.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 0 | 624 | 0.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ja/kwebkitpart.po | 
+ | [bs](/f18/language/bs) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/bs/kwebkitpart.po | 
+ | [ca](/f18/language/ca) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ca/kwebkitpart.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ca@valencia/kwebkitpart.po | 
+ | [da](/f18/language/da) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/da/kwebkitpart.po | 
+ | [de](/f18/language/de) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/de/kwebkitpart.po | 
+ | [el](/f18/language/el) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/el/kwebkitpart.po | 
+ | [es](/f18/language/es) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/es/kwebkitpart.po | 
+ | [et](/f18/language/et) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/et/kwebkitpart.po | 
+ | [fi](/f18/language/fi) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/fi/kwebkitpart.po | 
+ | [gl](/f18/language/gl) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/gl/kwebkitpart.po | 
+ | [hu](/f18/language/hu) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/hu/kwebkitpart.po | 
+ | [kk](/f18/language/kk) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/kk/kwebkitpart.po | 
+ | [nb_NO](/f18/language/nb_NO) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/nb/kwebkitpart.po | 
+ | [nl](/f18/language/nl) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/nl/kwebkitpart.po | 
+ | [pl](/f18/language/pl) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/pl/kwebkitpart.po | 
+ | [pt](/f18/language/pt) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/pt/kwebkitpart.po | 
+ | [pt_BR](/f18/language/pt_BR) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/pt_BR/kwebkitpart.po | 
+ | [ru](/f18/language/ru) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ru/kwebkitpart.po | 
+ | [sk](/f18/language/sk) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sk/kwebkitpart.po | 
+ | [sl](/f18/language/sl) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sl/kwebkitpart.po | 
+ | [sr](/f18/language/sr) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr/kwebkitpart.po | 
+ | [sr@ijekavian](/f18/language/sr@ijekavian) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr@ijekavian/kwebkitpart.po | 
+ | [sr@ijekavian_Latn](/f18/language/sr@ijekavian_Latn) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr@ijekavianlatin/kwebkitpart.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sr@latin/kwebkitpart.po | 
+ | [sv](/f18/language/sv) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/sv/kwebkitpart.po | 
+ | [uk](/f18/language/uk) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/uk/kwebkitpart.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/zh_CN/kwebkitpart.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 624 | 624 | 100.0 | /mnt/stockage/packages/f18/kwebkitpart/po/zh_TW/kwebkitpart.po | 
+ | [cs](/f18/language/cs) | 576 | 624 | 92.3 | /mnt/stockage/packages/f18/kwebkitpart/po/cs/kwebkitpart.po | 
+ | [lt](/f18/language/lt) | 557 | 624 | 89.3 | /mnt/stockage/packages/f18/kwebkitpart/po/lt/kwebkitpart.po | 
+ | [tr](/f18/language/tr) | 556 | 624 | 89.1 | /mnt/stockage/packages/f18/kwebkitpart/po/tr/kwebkitpart.po | 
+ | [fr](/f18/language/fr) | 550 | 624 | 88.1 | /mnt/stockage/packages/f18/kwebkitpart/po/fr/kwebkitpart.po | 
+ | [ar](/f18/language/ar) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/ar/kwebkitpart.po | 
+ | [km](/f18/language/km) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/km/kwebkitpart.po | 
+ | [nds](/f18/language/nds) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/nds/kwebkitpart.po | 
+ | [th](/f18/language/th) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/th/kwebkitpart.po | 
+ | [ug](/f18/language/ug) | 506 | 624 | 81.1 | /mnt/stockage/packages/f18/kwebkitpart/po/ug/kwebkitpart.po | 
+ | [ro](/f18/language/ro) | 484 | 624 | 77.6 | /mnt/stockage/packages/f18/kwebkitpart/po/ro/kwebkitpart.po | 
+ | [ast](/f18/language/ast) | 432 | 624 | 69.2 | /mnt/stockage/packages/f18/kwebkitpart/po/ast/kwebkitpart.po | 
+ | [en_GB](/f18/language/en_GB) | 432 | 624 | 69.2 | /mnt/stockage/packages/f18/kwebkitpart/po/en_GB/kwebkitpart.po | 
+ | [eu](/f18/language/eu) | 432 | 624 | 69.2 | /mnt/stockage/packages/f18/kwebkitpart/po/eu/kwebkitpart.po | 
+ | [pa](/f18/language/pa) | 403 | 624 | 64.6 | /mnt/stockage/packages/f18/kwebkitpart/po/pa/kwebkitpart.po | 
+ | [ga](/f18/language/ga) | 398 | 624 | 63.8 | /mnt/stockage/packages/f18/kwebkitpart/po/ga/kwebkitpart.po | 
+ | [bg](/f18/language/bg) | 306 | 624 | 49.0 | /mnt/stockage/packages/f18/kwebkitpart/po/bg/kwebkitpart.po | 
+ | [it](/f18/language/it) | 292 | 624 | 46.8 | /mnt/stockage/packages/f18/kwebkitpart/po/it/kwebkitpart.po | 
+ | [mai](/f18/language/mai) | 179 | 624 | 28.7 | /mnt/stockage/packages/f18/kwebkitpart/po/mai/kwebkitpart.po | 
+ | [mr](/f18/language/mr) | 179 | 624 | 28.7 | /mnt/stockage/packages/f18/kwebkitpart/po/mr/kwebkitpart.po | 
+ | [fa](/f18/language/fa) | 178 | 624 | 28.5 | /mnt/stockage/packages/f18/kwebkitpart/po/fa/kwebkitpart.po | 
+ | [eo](/f18/language/eo) | 175 | 624 | 28.0 | /mnt/stockage/packages/f18/kwebkitpart/po/eo/kwebkitpart.po | 
+ | [is](/f18/language/is) | 158 | 624 | 25.3 | /mnt/stockage/packages/f18/kwebkitpart/po/is/kwebkitpart.po | 
+ | [tg](/f18/language/tg) | 65 | 624 | 10.4 | /mnt/stockage/packages/f18/kwebkitpart/po/tg/kwebkitpart.po | 
+ | [ms](/f18/language/ms) | 9 | 624 | 1.4 | /mnt/stockage/packages/f18/kwebkitpart/po/ms/kwebkitpart.po | 
+ | [ja](/f18/language/ja) | 0 | 624 | 0.0 | /mnt/stockage/packages/f18/kwebkitpart/po/ja/kwebkitpart.po | 
 {.sortable}
 
 

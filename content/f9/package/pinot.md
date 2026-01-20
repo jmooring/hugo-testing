@@ -18,17 +18,17 @@ The package pinot (version 0.84):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 528 | 537 | 98.3 | /mnt/stockage/packages/f9/pinot/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 525 | 537 | 97.8 | /mnt/stockage/packages/f9/pinot/po/fr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 519 | 537 | 96.6 | /mnt/stockage/packages/f9/pinot/po/sv.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 514 | 537 | 95.7 | /mnt/stockage/packages/f9/pinot/po/nl.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 420 | 537 | 78.2 | /mnt/stockage/packages/f9/pinot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 420 | 537 | 78.2 | /mnt/stockage/packages/f9/pinot/po/zh_TW.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 417 | 537 | 77.7 | /mnt/stockage/packages/f9/pinot/po/it.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 415 | 537 | 77.3 | /mnt/stockage/packages/f9/pinot/po/pt.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 336 | 537 | 62.6 | /mnt/stockage/packages/f9/pinot/po/ru.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 317 | 537 | 59.0 | /mnt/stockage/packages/f9/pinot/po/pt_BR.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 263 | 537 | 49.0 | /mnt/stockage/packages/f9/pinot/po/de.po | 
+ | [es](/f9/language/es) | 528 | 537 | 98.3 | /mnt/stockage/packages/f9/pinot/po/es.po | 
+ | [fr](/f9/language/fr) | 525 | 537 | 97.8 | /mnt/stockage/packages/f9/pinot/po/fr.po | 
+ | [sv](/f9/language/sv) | 519 | 537 | 96.6 | /mnt/stockage/packages/f9/pinot/po/sv.po | 
+ | [nl](/f9/language/nl) | 514 | 537 | 95.7 | /mnt/stockage/packages/f9/pinot/po/nl.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 420 | 537 | 78.2 | /mnt/stockage/packages/f9/pinot/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 420 | 537 | 78.2 | /mnt/stockage/packages/f9/pinot/po/zh_TW.po | 
+ | [it](/f9/language/it) | 417 | 537 | 77.7 | /mnt/stockage/packages/f9/pinot/po/it.po | 
+ | [pt](/f9/language/pt) | 415 | 537 | 77.3 | /mnt/stockage/packages/f9/pinot/po/pt.po | 
+ | [ru](/f9/language/ru) | 336 | 537 | 62.6 | /mnt/stockage/packages/f9/pinot/po/ru.po | 
+ | [pt_BR](/f9/language/pt_BR) | 317 | 537 | 59.0 | /mnt/stockage/packages/f9/pinot/po/pt_BR.po | 
+ | [de](/f9/language/de) | 263 | 537 | 49.0 | /mnt/stockage/packages/f9/pinot/po/de.po | 
 {.sortable}
 
 

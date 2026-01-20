@@ -18,16 +18,16 @@ The package powertop (version 2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 419 | 611 | 68.6 | /mnt/stockage/packages/f24/powertop/po/de_DE.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 407 | 611 | 66.6 | /mnt/stockage/packages/f24/powertop/po/id_ID.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 407 | 611 | 66.6 | /mnt/stockage/packages/f24/powertop/po/zh_TW.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 404 | 611 | 66.1 | /mnt/stockage/packages/f24/powertop/po/cs_CZ.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 391 | 611 | 64.0 | /mnt/stockage/packages/f24/powertop/po/hu_HU.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 254 | 611 | 41.6 | /mnt/stockage/packages/f24/powertop/po/ca.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 254 | 611 | 41.6 | /mnt/stockage/packages/f24/powertop/po/es_ES.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 241 | 611 | 39.4 | /mnt/stockage/packages/f24/powertop/po/en_US.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 84 | 611 | 13.7 | /mnt/stockage/packages/f24/powertop/po/en_GB.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 55 | 611 | 9.0 | /mnt/stockage/packages/f24/powertop/po/nl_NL.po | 
+ | [de](/f24/language/de) | 419 | 611 | 68.6 | /mnt/stockage/packages/f24/powertop/po/de_DE.po | 
+ | [id](/f24/language/id) | 407 | 611 | 66.6 | /mnt/stockage/packages/f24/powertop/po/id_ID.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 407 | 611 | 66.6 | /mnt/stockage/packages/f24/powertop/po/zh_TW.po | 
+ | [cs](/f24/language/cs) | 404 | 611 | 66.1 | /mnt/stockage/packages/f24/powertop/po/cs_CZ.po | 
+ | [hu](/f24/language/hu) | 391 | 611 | 64.0 | /mnt/stockage/packages/f24/powertop/po/hu_HU.po | 
+ | [ca](/f24/language/ca) | 254 | 611 | 41.6 | /mnt/stockage/packages/f24/powertop/po/ca.po | 
+ | [es](/f24/language/es) | 254 | 611 | 41.6 | /mnt/stockage/packages/f24/powertop/po/es_ES.po | 
+ | [en_US](/f24/language/en_US) | 241 | 611 | 39.4 | /mnt/stockage/packages/f24/powertop/po/en_US.po | 
+ | [en_GB](/f24/language/en_GB) | 84 | 611 | 13.7 | /mnt/stockage/packages/f24/powertop/po/en_GB.po | 
+ | [nl](/f24/language/nl) | 55 | 611 | 9.0 | /mnt/stockage/packages/f24/powertop/po/nl_NL.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package ekg2 (version 0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 2354 | 3717 | 63.3 | /mnt/stockage/packages/f8/ekg2/po/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 8 | 3421 | 0.2 | /mnt/stockage/packages/f8/ekg2/po/de.po | 
+ | [pl](/f8/language/pl) | 2354 | 3717 | 63.3 | /mnt/stockage/packages/f8/ekg2/po/pl.po | 
+ | [de](/f8/language/de) | 8 | 3421 | 0.2 | /mnt/stockage/packages/f8/ekg2/po/de.po | 
 {.sortable}
 
 

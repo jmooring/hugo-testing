@@ -18,11 +18,11 @@ The package ksensors (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 158 | 164 | 96.3 | /mnt/stockage/packages/f39/ksensors/po/fr.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 155 | 164 | 94.5 | /mnt/stockage/packages/f39/ksensors/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 126 | 164 | 76.8 | /mnt/stockage/packages/f39/ksensors/po/es.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 95 | 160 | 59.4 | /mnt/stockage/packages/f39/ksensors/po/nl.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 57 | 164 | 34.8 | /mnt/stockage/packages/f39/ksensors/po/cs.po | 
+ | [fr](/f39/language/fr) | 158 | 164 | 96.3 | /mnt/stockage/packages/f39/ksensors/po/fr.po | 
+ | [de](/f39/language/de) | 155 | 164 | 94.5 | /mnt/stockage/packages/f39/ksensors/po/de.po | 
+ | [es](/f39/language/es) | 126 | 164 | 76.8 | /mnt/stockage/packages/f39/ksensors/po/es.po | 
+ | [nl](/f39/language/nl) | 95 | 160 | 59.4 | /mnt/stockage/packages/f39/ksensors/po/nl.po | 
+ | [cs](/f39/language/cs) | 57 | 164 | 34.8 | /mnt/stockage/packages/f39/ksensors/po/cs.po | 
 {.sortable}
 
 

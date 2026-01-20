@@ -18,30 +18,30 @@ The package arm-none-eabi-gcc-cs (version 13.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 130429 | 130429 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/de.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/de.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libstdc++-v3/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 130429 | 130429 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/fr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/fr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libstdc++-v3/po/fr.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ro.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 130424 | 130424 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/sv.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/sv.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 130419 | 130424 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/uk.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/uk.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 1548 | 1696 | 91.3 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1448 | 1696 | 85.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 76979 | 130424 | 59.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/ru.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ru.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 921 | 1696 | 54.3 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ca.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 63248 | 130424 | 48.5 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/es.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/es.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 499 | 1696 | 29.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ka.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 28963 | 130424 | 22.2 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/zh_CN.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 25564 | 130424 | 19.6 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/vi.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/vi.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 20118 | 130424 | 15.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/id.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/id.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 17449 | 130424 | 13.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/sr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/sr.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 15389 | 130424 | 11.8 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/tr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 15078 | 130424 | 11.6 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/zh_TW.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/zh_TW.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 14833 | 130424 | 11.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/fi.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/fi.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 13950 | 130424 | 10.7 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/ja.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ja.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 11204 | 130424 | 8.6 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/da.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/da.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 5244 | 128728 | 4.1 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/hr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 5040 | 130424 | 3.9 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/nl.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/nl.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 221 | 130424 | 0.2 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/be.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/be.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 176 | 130424 | 0.1 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/el.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/el.po | 
+ | [de](/f38/language/de) | 130429 | 130429 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/de.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/de.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libstdc++-v3/po/de.po | 
+ | [fr](/f38/language/fr) | 130429 | 130429 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/fr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/fr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libstdc++-v3/po/fr.po | 
+ | [ro](/f38/language/ro) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ro.po | 
+ | [sv](/f38/language/sv) | 130424 | 130424 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/sv.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/sv.po | 
+ | [uk](/f38/language/uk) | 130419 | 130424 | 100.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/uk.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/uk.po | 
+ | [eo](/f38/language/eo) | 1548 | 1696 | 91.3 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/eo.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1448 | 1696 | 85.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 76979 | 130424 | 59.0 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/ru.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ru.po | 
+ | [ca](/f38/language/ca) | 921 | 1696 | 54.3 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ca.po | 
+ | [es](/f38/language/es) | 63248 | 130424 | 48.5 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/es.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/es.po | 
+ | [ka](/f38/language/ka) | 499 | 1696 | 29.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ka.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 28963 | 130424 | 22.2 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/zh_CN.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/zh_CN.po | 
+ | [vi](/f38/language/vi) | 25564 | 130424 | 19.6 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/vi.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/vi.po | 
+ | [id](/f38/language/id) | 20118 | 130424 | 15.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/id.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/id.po | 
+ | [sr](/f38/language/sr) | 17449 | 130424 | 13.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/sr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/sr.po | 
+ | [tr](/f38/language/tr) | 15389 | 130424 | 11.8 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/tr.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/tr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 15078 | 130424 | 11.6 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/zh_TW.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/zh_TW.po | 
+ | [fi](/f38/language/fi) | 14833 | 130424 | 11.4 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/fi.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/fi.po | 
+ | [ja](/f38/language/ja) | 13950 | 130424 | 10.7 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/ja.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/ja.po | 
+ | [da](/f38/language/da) | 11204 | 130424 | 8.6 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/da.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/da.po | 
+ | [hr](/f38/language/hr) | 5244 | 128728 | 4.1 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/hr.po | 
+ | [nl](/f38/language/nl) | 5040 | 130424 | 3.9 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/nl.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/nl.po | 
+ | [be](/f38/language/be) | 221 | 130424 | 0.2 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/be.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/be.po | 
+ | [el](/f38/language/el) | 176 | 130424 | 0.1 | /mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/gcc/po/el.po/mnt/stockage/packages/f38/arm-none-eabi-gcc-cs/libcpp/po/el.po | 
 {.sortable}
 
 

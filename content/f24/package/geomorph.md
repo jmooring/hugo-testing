@@ -18,9 +18,9 @@ The package geomorph (version 0.62):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f24/geomorph/po/en.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f24/geomorph/po/fr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1472 | 1508 | 97.6 | /mnt/stockage/packages/f24/geomorph/po/de.po | 
+ | [en](/f24/language/en) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f24/geomorph/po/en.po | 
+ | [fr](/f24/language/fr) | 1500 | 1508 | 99.5 | /mnt/stockage/packages/f24/geomorph/po/fr.po | 
+ | [de](/f24/language/de) | 1472 | 1508 | 97.6 | /mnt/stockage/packages/f24/geomorph/po/de.po | 
 {.sortable}
 
 

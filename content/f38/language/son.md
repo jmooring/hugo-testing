@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-maze]({{< ref "/f38/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f38/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f38/package/sugar-view-slides.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f38/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 | Songhay Localization Team <abdoulseydou@hotmail.com> | 
- | [sugar-abacus]({{< ref "/f38/package/sugar-abacus.md" >}}) | 23 | 28 | 82.1 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f38/package/sugar-toolkit-gtk3.md" >}}) | 161 | 213 | 75.6 | LANGUAGE <LL@li.org> | 
- | [gtkspell3]({{< ref "/f38/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f38/package/sugar-dimensions.md" >}}) | 98 | 176 | 55.7 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f38/package/tuxpaint.md" >}}) | 1517 | 3763 | 40.3 | Songhay Localization Team | 
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 260 | 989 | 26.3 | Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/> | 
- | [sugar]({{< ref "/f38/package/sugar.md" >}}) | 326 | 2305 | 14.1 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f38/package/sugar-browse.md" >}}) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f38/package/sugar-memorize.md" >}}) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f38/package/sugar-speak.md" >}}) | 1 | 227 | 0.4 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f38/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f38/package/sugar-distance.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f38/package/sugar-finance.md" >}}) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-flipsticks]({{< ref "/f38/package/sugar-flipsticks.md" >}}) | 0 | 151 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f38/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f38/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f38/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f38/package/sugar-view-slides) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f38/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 | Songhay Localization Team <abdoulseydou@hotmail.com> | 
+ | [sugar-abacus](/f38/package/sugar-abacus) | 23 | 28 | 82.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f38/package/sugar-toolkit-gtk3) | 161 | 213 | 75.6 | LANGUAGE <LL@li.org> | 
+ | [gtkspell3](/f38/package/gtkspell3) | 10 | 16 | 62.5 | Songhai <LL@li.org> | 
+ | [sugar-dimensions](/f38/package/sugar-dimensions) | 98 | 176 | 55.7 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f38/package/tuxpaint) | 1517 | 3763 | 40.3 | Songhay Localization Team | 
+ | [iso-codes](/f38/package/iso-codes) | 260 | 989 | 26.3 | Songhai languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/son/> | 
+ | [sugar](/f38/package/sugar) | 326 | 2305 | 14.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f38/package/sugar-browse) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f38/package/sugar-memorize) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f38/package/sugar-speak) | 1 | 227 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f38/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f38/package/sugar-distance) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f38/package/sugar-finance) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-flipsticks](/f38/package/sugar-flipsticks) | 0 | 151 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f38/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

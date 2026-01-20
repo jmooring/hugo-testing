@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f21/package/openerp.md" >}}) | 5 | 5 | 100.0 |  | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 5 | 5 | 100.0 |  | 
- | [enlightenment]({{< ref "/f21/package/enlightenment.md" >}}) | 2278 | 8431 | 27.0 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
- | [gnomebaker]({{< ref "/f21/package/gnomebaker.md" >}}) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
+ | [openerp](/f21/package/openerp) | 5 | 5 | 100.0 |  | 
+ | [openerp7](/f21/package/openerp7) | 5 | 5 | 100.0 |  | 
+ | [enlightenment](/f21/package/enlightenment) | 2278 | 8431 | 27.0 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [gnomebaker](/f21/package/gnomebaker) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
 {.sortable}
 
 

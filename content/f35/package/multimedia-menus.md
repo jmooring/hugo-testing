@@ -18,52 +18,52 @@ The package multimedia-menus (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ar.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ast.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/bn_IN.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/fa.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/fr.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/gu.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/hi.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/id.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ja.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/kn.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ko.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ml.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/mr.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/nb.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/nds.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/nl.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/or.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sk.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sv.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/te.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/zh_TW.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 105 | 112 | 93.8 | /mnt/stockage/packages/f35/multimedia-menus/po/hu_HU.po/mnt/stockage/packages/f35/multimedia-menus/po/hu.po | 
+ | [ar](/f35/language/ar) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ar.po | 
+ | [as](/f35/language/as) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/as.po | 
+ | [ast](/f35/language/ast) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ast.po | 
+ | [bn_IN](/f35/language/bn_IN) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/bn_IN.po | 
+ | [bs](/f35/language/bs) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/bs.po | 
+ | [ca](/f35/language/ca) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ca.po | 
+ | [cs](/f35/language/cs) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/cs.po | 
+ | [da](/f35/language/da) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/da.po | 
+ | [de](/f35/language/de) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/de.po | 
+ | [el](/f35/language/el) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/el.po | 
+ | [es](/f35/language/es) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/es.po | 
+ | [eu](/f35/language/eu) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/eu.po | 
+ | [fa](/f35/language/fa) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/fa.po | 
+ | [fi](/f35/language/fi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/fi.po | 
+ | [fr](/f35/language/fr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/fr.po | 
+ | [gu](/f35/language/gu) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/gu.po | 
+ | [he](/f35/language/he) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/he.po | 
+ | [hi](/f35/language/hi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/hi.po | 
+ | [id](/f35/language/id) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/id.po | 
+ | [is](/f35/language/is) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/is.po | 
+ | [it](/f35/language/it) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/it.po | 
+ | [ja](/f35/language/ja) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ja.po | 
+ | [kn](/f35/language/kn) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/kn.po | 
+ | [ko](/f35/language/ko) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ko.po | 
+ | [ml](/f35/language/ml) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ml.po | 
+ | [mr](/f35/language/mr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/mr.po | 
+ | [nb_NO](/f35/language/nb_NO) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/nb.po | 
+ | [nds](/f35/language/nds) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/nds.po | 
+ | [nl](/f35/language/nl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/nl.po | 
+ | [or](/f35/language/or) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/or.po | 
+ | [pa](/f35/language/pa) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pa.po | 
+ | [pl](/f35/language/pl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pl.po | 
+ | [pt](/f35/language/pt) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ru.po | 
+ | [sk](/f35/language/sk) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sk.po | 
+ | [sr](/f35/language/sr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/sv.po | 
+ | [ta](/f35/language/ta) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/ta.po | 
+ | [te](/f35/language/te) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/te.po | 
+ | [tr](/f35/language/tr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/tr.po | 
+ | [uk](/f35/language/uk) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 56 | 56 | 100.0 | /mnt/stockage/packages/f35/multimedia-menus/po/zh_TW.po | 
+ | [hu](/f35/language/hu) | 105 | 112 | 93.8 | /mnt/stockage/packages/f35/multimedia-menus/po/hu_HU.po/mnt/stockage/packages/f35/multimedia-menus/po/hu.po | 
 {.sortable}
 
 

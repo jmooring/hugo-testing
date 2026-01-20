@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
+ | [liblicense](/f10/package/liblicense) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package gpodder (version 0.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 2392 | 2392 | 100.0 | /mnt/stockage/packages/f10/gpodder/data/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2246 | 2392 | 93.9 | /mnt/stockage/packages/f10/gpodder/data/po/es.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2246 | 2392 | 93.9 | /mnt/stockage/packages/f10/gpodder/data/po/sv.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1952 | 2392 | 81.6 | /mnt/stockage/packages/f10/gpodder/data/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1860 | 2392 | 77.8 | /mnt/stockage/packages/f10/gpodder/data/po/ru.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1082 | 2392 | 45.2 | /mnt/stockage/packages/f10/gpodder/data/po/cs.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 976 | 2392 | 40.8 | /mnt/stockage/packages/f10/gpodder/data/po/nl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 800 | 2392 | 33.4 | /mnt/stockage/packages/f10/gpodder/data/po/pt.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 513 | 2392 | 21.4 | /mnt/stockage/packages/f10/gpodder/data/po/gl.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 116 | 2392 | 4.8 | /mnt/stockage/packages/f10/gpodder/data/po/uk.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 97 | 2392 | 4.1 | /mnt/stockage/packages/f10/gpodder/data/po/it.po | 
+ | [de](/f10/language/de) | 2392 | 2392 | 100.0 | /mnt/stockage/packages/f10/gpodder/data/po/de.po | 
+ | [es](/f10/language/es) | 2246 | 2392 | 93.9 | /mnt/stockage/packages/f10/gpodder/data/po/es.po | 
+ | [sv](/f10/language/sv) | 2246 | 2392 | 93.9 | /mnt/stockage/packages/f10/gpodder/data/po/sv.po | 
+ | [fr](/f10/language/fr) | 1952 | 2392 | 81.6 | /mnt/stockage/packages/f10/gpodder/data/po/fr.po | 
+ | [ru](/f10/language/ru) | 1860 | 2392 | 77.8 | /mnt/stockage/packages/f10/gpodder/data/po/ru.po | 
+ | [cs](/f10/language/cs) | 1082 | 2392 | 45.2 | /mnt/stockage/packages/f10/gpodder/data/po/cs.po | 
+ | [nl](/f10/language/nl) | 976 | 2392 | 40.8 | /mnt/stockage/packages/f10/gpodder/data/po/nl.po | 
+ | [pt](/f10/language/pt) | 800 | 2392 | 33.4 | /mnt/stockage/packages/f10/gpodder/data/po/pt.po | 
+ | [gl](/f10/language/gl) | 513 | 2392 | 21.4 | /mnt/stockage/packages/f10/gpodder/data/po/gl.po | 
+ | [uk](/f10/language/uk) | 116 | 2392 | 4.8 | /mnt/stockage/packages/f10/gpodder/data/po/uk.po | 
+ | [it](/f10/language/it) | 97 | 2392 | 4.1 | /mnt/stockage/packages/f10/gpodder/data/po/it.po | 
 {.sortable}
 
 

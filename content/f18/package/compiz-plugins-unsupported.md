@@ -18,35 +18,35 @@ The package compiz-plugins-unsupported (version 0.8.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f18/language/el.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/el.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/gl.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/hu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ko.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 8406 | 8406 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/pt.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 8609 | 8946 | 96.2 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/he.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 7897 | 8946 | 88.3 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/fr.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 7878 | 8946 | 88.1 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/pl.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 7711 | 8946 | 86.2 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/zh_CN.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 7339 | 8946 | 82.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/sv.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 7303 | 8946 | 81.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/es.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 7286 | 8946 | 81.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/en_GB.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 7029 | 8946 | 78.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/nb.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 7016 | 8946 | 78.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/fi.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 6624 | 8946 | 74.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/nl.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/gu.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/hi.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 6316 | 8946 | 70.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/pt_BR.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 4581 | 8946 | 51.2 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/eu.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 4485 | 8946 | 50.1 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/de.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 3640 | 8946 | 40.7 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ca.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2735 | 8946 | 30.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ru.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 2462 | 8946 | 27.5 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/tr.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 2237 | 8946 | 25.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/cs.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 1106 | 8946 | 12.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ar.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 430 | 8946 | 4.8 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/bn.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 39 | 8946 | 0.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/fa.po | 
+ | [el](/f18/language/el) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/el.po | 
+ | [gl](/f18/language/gl) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/gl.po | 
+ | [hu](/f18/language/hu) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/hu.po | 
+ | [it](/f18/language/it) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/it.po | 
+ | [ja](/f18/language/ja) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ja.po | 
+ | [ko](/f18/language/ko) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ko.po | 
+ | [pt](/f18/language/pt) | 8406 | 8406 | 100.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/pt.po | 
+ | [he](/f18/language/he) | 8609 | 8946 | 96.2 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/he.po | 
+ | [fr](/f18/language/fr) | 7897 | 8946 | 88.3 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/fr.po | 
+ | [pl](/f18/language/pl) | 7878 | 8946 | 88.1 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/pl.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 7711 | 8946 | 86.2 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/zh_CN.po | 
+ | [sv](/f18/language/sv) | 7339 | 8946 | 82.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/sv.po | 
+ | [es](/f18/language/es) | 7303 | 8946 | 81.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/es.po | 
+ | [en_GB](/f18/language/en_GB) | 7286 | 8946 | 81.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/en_GB.po | 
+ | [nb_NO](/f18/language/nb_NO) | 7029 | 8946 | 78.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/nb.po | 
+ | [fi](/f18/language/fi) | 7016 | 8946 | 78.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/fi.po | 
+ | [nl](/f18/language/nl) | 6624 | 8946 | 74.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/nl.po | 
+ | [gu](/f18/language/gu) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/gu.po | 
+ | [hi](/f18/language/hi) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/hi.po | 
+ | [pt_BR](/f18/language/pt_BR) | 6316 | 8946 | 70.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/pt_BR.po | 
+ | [eu](/f18/language/eu) | 4581 | 8946 | 51.2 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/eu.po | 
+ | [de](/f18/language/de) | 4485 | 8946 | 50.1 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/de.po | 
+ | [ca](/f18/language/ca) | 3640 | 8946 | 40.7 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ca.po | 
+ | [ru](/f18/language/ru) | 2735 | 8946 | 30.6 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ru.po | 
+ | [tr](/f18/language/tr) | 2462 | 8946 | 27.5 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/tr.po | 
+ | [cs](/f18/language/cs) | 2237 | 8946 | 25.0 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/cs.po | 
+ | [ar](/f18/language/ar) | 1106 | 8946 | 12.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/ar.po | 
+ | [bn](/f18/language/bn) | 430 | 8946 | 4.8 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/bn.po | 
+ | [fa](/f18/language/fa) | 39 | 8946 | 0.4 | /mnt/stockage/packages/f18/compiz-plugins-unsupported/po/fa.po | 
 {.sortable}
 
 

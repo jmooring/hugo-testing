@@ -18,83 +18,83 @@ The package system-config-samba (version 1.2.100):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/bg.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/bn.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/bn_IN.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/es.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/fa.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/ja.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/kn.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/lv.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/sk.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/sv.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/zh_TW.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/ar.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/gu.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/hi.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/is.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/mr.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/or.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/pa.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/sr@latin.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 488 | 571 | 85.5 | /mnt/stockage/packages/f24/system-config-samba/po/el.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 444 | 571 | 77.8 | /mnt/stockage/packages/f24/system-config-samba/po/ko.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 416 | 571 | 72.9 | /mnt/stockage/packages/f24/system-config-samba/po/th.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/as.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/ast.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/mai.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/te.po | 
- | [de_CH]({{< ref "/f24/language/de_CH.md" >}}) | 351 | 571 | 61.5 | /mnt/stockage/packages/f24/system-config-samba/po/de_CH.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 351 | 571 | 61.5 | /mnt/stockage/packages/f24/system-config-samba/po/hr.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 308 | 571 | 53.9 | /mnt/stockage/packages/f24/system-config-samba/po/id.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 299 | 571 | 52.4 | /mnt/stockage/packages/f24/system-config-samba/po/en_GB.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 299 | 571 | 52.4 | /mnt/stockage/packages/f24/system-config-samba/po/ms.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 299 | 571 | 52.4 | /mnt/stockage/packages/f24/system-config-samba/po/si.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/bs.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/cy.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/et.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/mk.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/ro.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 218 | 571 | 38.2 | /mnt/stockage/packages/f24/system-config-samba/po/sl.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 188 | 571 | 32.9 | /mnt/stockage/packages/f24/system-config-samba/po/tr.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 177 | 571 | 31.0 | /mnt/stockage/packages/f24/system-config-samba/po/vi.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 133 | 571 | 23.3 | /mnt/stockage/packages/f24/system-config-samba/po/eu.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 47 | 571 | 8.2 | /mnt/stockage/packages/f24/system-config-samba/po/nds.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/br.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ga.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/gl.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/hy.po | 
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ia.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ka.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/kk.po | 
- | [ks]({{< ref "/f24/language/ks.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ks.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ku.po | 
- | [lo]({{< ref "/f24/language/lo.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/lo.po | 
- | [my]({{< ref "/f24/language/my.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/my.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/nn.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/sq.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ur.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/zh_HK.po | 
+ | [bg](/f24/language/bg) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/bg.po | 
+ | [bn](/f24/language/bn) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/bn.po | 
+ | [bn_IN](/f24/language/bn_IN) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/bn_IN.po | 
+ | [ca](/f24/language/ca) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/ca.po | 
+ | [cs](/f24/language/cs) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/cs.po | 
+ | [da](/f24/language/da) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/da.po | 
+ | [de](/f24/language/de) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/de.po | 
+ | [es](/f24/language/es) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/es.po | 
+ | [fa](/f24/language/fa) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/fa.po | 
+ | [fi](/f24/language/fi) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/fi.po | 
+ | [fr](/f24/language/fr) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/fr.po | 
+ | [hu](/f24/language/hu) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/hu.po | 
+ | [it](/f24/language/it) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/it.po | 
+ | [ja](/f24/language/ja) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/ja.po | 
+ | [kn](/f24/language/kn) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/kn.po | 
+ | [lv](/f24/language/lv) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/lv.po | 
+ | [nb_NO](/f24/language/nb_NO) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/nb.po | 
+ | [nl](/f24/language/nl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/nl.po | 
+ | [pl](/f24/language/pl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/pl.po | 
+ | [pt](/f24/language/pt) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/ru.po | 
+ | [sk](/f24/language/sk) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/sk.po | 
+ | [sv](/f24/language/sv) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/sv.po | 
+ | [uk](/f24/language/uk) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 571 | 571 | 100.0 | /mnt/stockage/packages/f24/system-config-samba/po/zh_TW.po | 
+ | [ar](/f24/language/ar) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/ar.po | 
+ | [gu](/f24/language/gu) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/gu.po | 
+ | [he](/f24/language/he) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/he.po | 
+ | [hi](/f24/language/hi) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/hi.po | 
+ | [is](/f24/language/is) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/is.po | 
+ | [ml](/f24/language/ml) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/ml.po | 
+ | [mr](/f24/language/mr) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/mr.po | 
+ | [or](/f24/language/or) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/or.po | 
+ | [pa](/f24/language/pa) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/pa.po | 
+ | [sr](/f24/language/sr) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 518 | 571 | 90.7 | /mnt/stockage/packages/f24/system-config-samba/po/sr@latin.po | 
+ | [el](/f24/language/el) | 488 | 571 | 85.5 | /mnt/stockage/packages/f24/system-config-samba/po/el.po | 
+ | [ko](/f24/language/ko) | 444 | 571 | 77.8 | /mnt/stockage/packages/f24/system-config-samba/po/ko.po | 
+ | [th](/f24/language/th) | 416 | 571 | 72.9 | /mnt/stockage/packages/f24/system-config-samba/po/th.po | 
+ | [as](/f24/language/as) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/as.po | 
+ | [ast](/f24/language/ast) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/ast.po | 
+ | [mai](/f24/language/mai) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/mai.po | 
+ | [ta](/f24/language/ta) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/ta.po | 
+ | [te](/f24/language/te) | 360 | 571 | 63.0 | /mnt/stockage/packages/f24/system-config-samba/po/te.po | 
+ | [de_CH](/f24/language/de_CH) | 351 | 571 | 61.5 | /mnt/stockage/packages/f24/system-config-samba/po/de_CH.po | 
+ | [hr](/f24/language/hr) | 351 | 571 | 61.5 | /mnt/stockage/packages/f24/system-config-samba/po/hr.po | 
+ | [id](/f24/language/id) | 308 | 571 | 53.9 | /mnt/stockage/packages/f24/system-config-samba/po/id.po | 
+ | [en_GB](/f24/language/en_GB) | 299 | 571 | 52.4 | /mnt/stockage/packages/f24/system-config-samba/po/en_GB.po | 
+ | [ms](/f24/language/ms) | 299 | 571 | 52.4 | /mnt/stockage/packages/f24/system-config-samba/po/ms.po | 
+ | [si](/f24/language/si) | 299 | 571 | 52.4 | /mnt/stockage/packages/f24/system-config-samba/po/si.po | 
+ | [bs](/f24/language/bs) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/bs.po | 
+ | [cy](/f24/language/cy) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/cy.po | 
+ | [et](/f24/language/et) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/et.po | 
+ | [mk](/f24/language/mk) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/mk.po | 
+ | [ro](/f24/language/ro) | 291 | 571 | 51.0 | /mnt/stockage/packages/f24/system-config-samba/po/ro.po | 
+ | [sl](/f24/language/sl) | 218 | 571 | 38.2 | /mnt/stockage/packages/f24/system-config-samba/po/sl.po | 
+ | [tr](/f24/language/tr) | 188 | 571 | 32.9 | /mnt/stockage/packages/f24/system-config-samba/po/tr.po | 
+ | [vi](/f24/language/vi) | 177 | 571 | 31.0 | /mnt/stockage/packages/f24/system-config-samba/po/vi.po | 
+ | [eu](/f24/language/eu) | 133 | 571 | 23.3 | /mnt/stockage/packages/f24/system-config-samba/po/eu.po | 
+ | [nds](/f24/language/nds) | 47 | 571 | 8.2 | /mnt/stockage/packages/f24/system-config-samba/po/nds.po | 
+ | [br](/f24/language/br) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/br.po | 
+ | [ga](/f24/language/ga) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ga.po | 
+ | [gl](/f24/language/gl) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/gl.po | 
+ | [hy](/f24/language/hy) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/hy.po | 
+ | [ia](/f24/language/ia) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ia.po | 
+ | [ka](/f24/language/ka) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ka.po | 
+ | [kk](/f24/language/kk) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/kk.po | 
+ | [ks](/f24/language/ks) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ks.po | 
+ | [ku](/f24/language/ku) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ku.po | 
+ | [lo](/f24/language/lo) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/lo.po | 
+ | [my](/f24/language/my) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/my.po | 
+ | [nn](/f24/language/nn) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/nn.po | 
+ | [sq](/f24/language/sq) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/sq.po | 
+ | [ur](/f24/language/ur) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/ur.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 0 | 571 | 0.0 | /mnt/stockage/packages/f24/system-config-samba/po/zh_HK.po | 
 {.sortable}
 
 

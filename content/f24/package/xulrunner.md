@@ -18,7 +18,7 @@ The package xulrunner (version 44.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f24/xulrunner/firefox-44.0/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f24/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f24/xulrunner/firefox-44.0/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

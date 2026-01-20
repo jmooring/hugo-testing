@@ -18,33 +18,33 @@ The package gtick (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/de.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/eo.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f21/gtick/po/en@boldquot.po/mnt/stockage/packages/f21/gtick/po/en@quot.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/it.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/pl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/sr.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/zh_CN.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/fr.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/ga.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/id.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/vi.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 333 | 338 | 98.5 | /mnt/stockage/packages/f21/gtick/po/ru.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 308 | 338 | 91.1 | /mnt/stockage/packages/f21/gtick/po/da.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 169 | 338 | 50.0 | /mnt/stockage/packages/f21/gtick/po/fi.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 169 | 338 | 50.0 | /mnt/stockage/packages/f21/gtick/po/sk.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 169 | 338 | 50.0 | /mnt/stockage/packages/f21/gtick/po/uk.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 155 | 338 | 45.9 | /mnt/stockage/packages/f21/gtick/po/ko.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 150 | 338 | 44.4 | /mnt/stockage/packages/f21/gtick/po/cs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 113 | 338 | 33.4 | /mnt/stockage/packages/f21/gtick/po/es.po | 
- | [af]({{< ref "/f21/language/af.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/af.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/ca.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/eu.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/pt_BR.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/ro.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/sv.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 36 | 338 | 10.7 | /mnt/stockage/packages/f21/gtick/po/fa.po | 
+ | [de](/f21/language/de) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/de.po | 
+ | [eo](/f21/language/eo) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/eo.po | 
+ | [error](/f21/language/error) | 676 | 676 | 100.0 | /mnt/stockage/packages/f21/gtick/po/en@boldquot.po/mnt/stockage/packages/f21/gtick/po/en@quot.po | 
+ | [it](/f21/language/it) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/it.po | 
+ | [nl](/f21/language/nl) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/nl.po | 
+ | [pl](/f21/language/pl) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/pl.po | 
+ | [sr](/f21/language/sr) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/sr.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 338 | 338 | 100.0 | /mnt/stockage/packages/f21/gtick/po/zh_CN.po | 
+ | [fr](/f21/language/fr) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/fr.po | 
+ | [ga](/f21/language/ga) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/ga.po | 
+ | [id](/f21/language/id) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/id.po | 
+ | [vi](/f21/language/vi) | 334 | 338 | 98.8 | /mnt/stockage/packages/f21/gtick/po/vi.po | 
+ | [ru](/f21/language/ru) | 333 | 338 | 98.5 | /mnt/stockage/packages/f21/gtick/po/ru.po | 
+ | [da](/f21/language/da) | 308 | 338 | 91.1 | /mnt/stockage/packages/f21/gtick/po/da.po | 
+ | [fi](/f21/language/fi) | 169 | 338 | 50.0 | /mnt/stockage/packages/f21/gtick/po/fi.po | 
+ | [sk](/f21/language/sk) | 169 | 338 | 50.0 | /mnt/stockage/packages/f21/gtick/po/sk.po | 
+ | [uk](/f21/language/uk) | 169 | 338 | 50.0 | /mnt/stockage/packages/f21/gtick/po/uk.po | 
+ | [ko](/f21/language/ko) | 155 | 338 | 45.9 | /mnt/stockage/packages/f21/gtick/po/ko.po | 
+ | [cs](/f21/language/cs) | 150 | 338 | 44.4 | /mnt/stockage/packages/f21/gtick/po/cs.po | 
+ | [es](/f21/language/es) | 113 | 338 | 33.4 | /mnt/stockage/packages/f21/gtick/po/es.po | 
+ | [af](/f21/language/af) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/af.po | 
+ | [ca](/f21/language/ca) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/ca.po | 
+ | [eu](/f21/language/eu) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/eu.po | 
+ | [pt_BR](/f21/language/pt_BR) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/pt_BR.po | 
+ | [ro](/f21/language/ro) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/ro.po | 
+ | [sv](/f21/language/sv) | 89 | 338 | 26.3 | /mnt/stockage/packages/f21/gtick/po/sv.po | 
+ | [fa](/f21/language/fa) | 36 | 338 | 10.7 | /mnt/stockage/packages/f21/gtick/po/fa.po | 
 {.sortable}
 
 

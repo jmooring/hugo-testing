@@ -18,31 +18,31 @@ The package python-django-rest-framework (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/de/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/en/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/es/LC_MESSAGES/django.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/et/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/fr/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/pl/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/tr/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/cs/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/da/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/hu/LC_MESSAGES/django.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/mk/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/pt_BR/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/sv/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/zh_CN/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 447 | 493 | 90.7 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/ru/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 398 | 493 | 80.7 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/ko_KR/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 276 | 493 | 56.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/it/LC_MESSAGES/django.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 214 | 493 | 43.4 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/ar/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 104 | 493 | 21.1 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/sk/LC_MESSAGES/django.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 0 | 495 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/en_US/LC_MESSAGES/django.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/id/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/nl/LC_MESSAGES/django.po | 
- | [pt_PT]({{< ref "/f22/language/pt_PT.md" >}}) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/pt_PT/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/uk/LC_MESSAGES/django.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/vi/LC_MESSAGES/django.po | 
+ | [de](/f22/language/de) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/de/LC_MESSAGES/django.po | 
+ | [en](/f22/language/en) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f22/language/es) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/es/LC_MESSAGES/django.po | 
+ | [et](/f22/language/et) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/et/LC_MESSAGES/django.po | 
+ | [fr](/f22/language/fr) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/fr/LC_MESSAGES/django.po | 
+ | [pl](/f22/language/pl) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/pl/LC_MESSAGES/django.po | 
+ | [tr](/f22/language/tr) | 493 | 493 | 100.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/tr/LC_MESSAGES/django.po | 
+ | [cs](/f22/language/cs) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/cs/LC_MESSAGES/django.po | 
+ | [da](/f22/language/da) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/da/LC_MESSAGES/django.po | 
+ | [hu](/f22/language/hu) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/hu/LC_MESSAGES/django.po | 
+ | [mk](/f22/language/mk) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/mk/LC_MESSAGES/django.po | 
+ | [pt_BR](/f22/language/pt_BR) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [sv](/f22/language/sv) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/sv/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 476 | 493 | 96.6 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [ru](/f22/language/ru) | 447 | 493 | 90.7 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/ru/LC_MESSAGES/django.po | 
+ | [ko](/f22/language/ko) | 398 | 493 | 80.7 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/ko_KR/LC_MESSAGES/django.po | 
+ | [it](/f22/language/it) | 276 | 493 | 56.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/it/LC_MESSAGES/django.po | 
+ | [ar](/f22/language/ar) | 214 | 493 | 43.4 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/ar/LC_MESSAGES/django.po | 
+ | [sk](/f22/language/sk) | 104 | 493 | 21.1 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/sk/LC_MESSAGES/django.po | 
+ | [en_US](/f22/language/en_US) | 0 | 495 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/en_US/LC_MESSAGES/django.po | 
+ | [id](/f22/language/id) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/id/LC_MESSAGES/django.po | 
+ | [nl](/f22/language/nl) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/nl/LC_MESSAGES/django.po | 
+ | [pt_PT](/f22/language/pt_PT) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/pt_PT/LC_MESSAGES/django.po | 
+ | [uk](/f22/language/uk) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/uk/LC_MESSAGES/django.po | 
+ | [vi](/f22/language/vi) | 0 | 493 | 0.0 | /mnt/stockage/packages/f22/python-django-rest-framework/rest_framework/locale/vi/LC_MESSAGES/django.po | 
 {.sortable}
 
 

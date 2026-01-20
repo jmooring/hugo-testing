@@ -41,13 +41,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 59 | 59 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 486 | 10040 | 4.8 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhgb](/f9/package/rhgb) | 59 | 59 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [anaconda](/f9/package/anaconda) | 486 | 10040 | 4.8 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-config-date](/f9/package/system-config-date) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f9/package/system-config-services) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f9/package/system-config-users) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

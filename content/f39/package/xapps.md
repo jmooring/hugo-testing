@@ -18,71 +18,71 @@ The package xapps (version 2.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f39/language/be.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/be.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/bg.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/bn.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/cs.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/cy.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/el.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/en_CA.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/en_GB.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/eo.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/es.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/et.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/eu.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fa.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fr.po | 
- | [fr_CA]({{< ref "/f39/language/fr_CA.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fr_CA.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/he.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/hi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/hu.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ia.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/id.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/is.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ja.po | 
- | [kab]({{< ref "/f39/language/kab.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/kab.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ko.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ku.po | 
- | [la]({{< ref "/f39/language/la.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/la.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/lt.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/nb.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/nl.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/oc.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sk.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sr.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sr@latin.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/uk.po | 
- | [uz]({{< ref "/f39/language/uz.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/uz.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 72 | 73 | 98.6 | /mnt/stockage/packages/f39/xapps/po/ar.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/af.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/mai.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/zh_HK.po | 
- | [ie]({{< ref "/f39/language/ie.md" >}}) | 60 | 73 | 82.2 | /mnt/stockage/packages/f39/xapps/po/ie.po | 
- | [am]({{< ref "/f39/language/am.md" >}}) | 54 | 73 | 74.0 | /mnt/stockage/packages/f39/xapps/po/am.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 42 | 73 | 57.5 | /mnt/stockage/packages/f39/xapps/po/az.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 42 | 73 | 57.5 | /mnt/stockage/packages/f39/xapps/po/ms.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 29 | 73 | 39.7 | /mnt/stockage/packages/f39/xapps/po/kk.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 27 | 73 | 37.0 | /mnt/stockage/packages/f39/xapps/po/ka.po | 
- | [ber]({{< ref "/f39/language/ber.md" >}}) | 21 | 73 | 28.8 | /mnt/stockage/packages/f39/xapps/po/ber.po | 
- | [zgh]({{< ref "/f39/language/zgh.md" >}}) | 18 | 73 | 24.7 | /mnt/stockage/packages/f39/xapps/po/zgh.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 1 | 73 | 1.4 | /mnt/stockage/packages/f39/xapps/po/ca@valencia.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/xapps/po/vi.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/xapps/po/zh_TW.po | 
+ | [be](/f39/language/be) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/be.po | 
+ | [bg](/f39/language/bg) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/bg.po | 
+ | [bn](/f39/language/bn) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/bn.po | 
+ | [ca](/f39/language/ca) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ca.po | 
+ | [cs](/f39/language/cs) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/cs.po | 
+ | [cy](/f39/language/cy) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/cy.po | 
+ | [da](/f39/language/da) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/da.po | 
+ | [de](/f39/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/de.po | 
+ | [el](/f39/language/el) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/el.po | 
+ | [en_CA](/f39/language/en_CA) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/en_CA.po | 
+ | [en_GB](/f39/language/en_GB) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/en_GB.po | 
+ | [eo](/f39/language/eo) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/eo.po | 
+ | [es](/f39/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/es.po | 
+ | [et](/f39/language/et) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/et.po | 
+ | [eu](/f39/language/eu) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/eu.po | 
+ | [fa](/f39/language/fa) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fa.po | 
+ | [fi](/f39/language/fi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fi.po | 
+ | [fr](/f39/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fr.po | 
+ | [fr_CA](/f39/language/fr_CA) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/fr_CA.po | 
+ | [he](/f39/language/he) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/he.po | 
+ | [hi](/f39/language/hi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/hi.po | 
+ | [hr](/f39/language/hr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/hr.po | 
+ | [hu](/f39/language/hu) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/hu.po | 
+ | [ia](/f39/language/ia) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ia.po | 
+ | [id](/f39/language/id) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/id.po | 
+ | [is](/f39/language/is) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/is.po | 
+ | [it](/f39/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/it.po | 
+ | [ja](/f39/language/ja) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ja.po | 
+ | [kab](/f39/language/kab) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/kab.po | 
+ | [ko](/f39/language/ko) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ko.po | 
+ | [ku](/f39/language/ku) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ku.po | 
+ | [la](/f39/language/la) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/la.po | 
+ | [lt](/f39/language/lt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/lt.po | 
+ | [nb_NO](/f39/language/nb_NO) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/nb.po | 
+ | [nl](/f39/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/nl.po | 
+ | [oc](/f39/language/oc) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/oc.po | 
+ | [pl](/f39/language/pl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/pl.po | 
+ | [pt](/f39/language/pt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ro.po | 
+ | [ru](/f39/language/ru) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/ru.po | 
+ | [sk](/f39/language/sk) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sk.po | 
+ | [sl](/f39/language/sl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sl.po | 
+ | [sr](/f39/language/sr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sr.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sr@latin.po | 
+ | [sv](/f39/language/sv) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/sv.po | 
+ | [tr](/f39/language/tr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/tr.po | 
+ | [uk](/f39/language/uk) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/uk.po | 
+ | [uz](/f39/language/uz) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/xapps/po/uz.po | 
+ | [ar](/f39/language/ar) | 72 | 73 | 98.6 | /mnt/stockage/packages/f39/xapps/po/ar.po | 
+ | [af](/f39/language/af) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/af.po | 
+ | [mai](/f39/language/mai) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/mai.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/zh_CN.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 69 | 73 | 94.5 | /mnt/stockage/packages/f39/xapps/po/zh_HK.po | 
+ | [ie](/f39/language/ie) | 60 | 73 | 82.2 | /mnt/stockage/packages/f39/xapps/po/ie.po | 
+ | [am](/f39/language/am) | 54 | 73 | 74.0 | /mnt/stockage/packages/f39/xapps/po/am.po | 
+ | [az](/f39/language/az) | 42 | 73 | 57.5 | /mnt/stockage/packages/f39/xapps/po/az.po | 
+ | [ms](/f39/language/ms) | 42 | 73 | 57.5 | /mnt/stockage/packages/f39/xapps/po/ms.po | 
+ | [kk](/f39/language/kk) | 29 | 73 | 39.7 | /mnt/stockage/packages/f39/xapps/po/kk.po | 
+ | [ka](/f39/language/ka) | 27 | 73 | 37.0 | /mnt/stockage/packages/f39/xapps/po/ka.po | 
+ | [ber](/f39/language/ber) | 21 | 73 | 28.8 | /mnt/stockage/packages/f39/xapps/po/ber.po | 
+ | [zgh](/f39/language/zgh) | 18 | 73 | 24.7 | /mnt/stockage/packages/f39/xapps/po/zgh.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 1 | 73 | 1.4 | /mnt/stockage/packages/f39/xapps/po/ca@valencia.po | 
+ | [vi](/f39/language/vi) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/xapps/po/vi.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/xapps/po/zh_TW.po | 
 {.sortable}
 
 

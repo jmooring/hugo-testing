@@ -18,20 +18,20 @@ The package gnuchess (version 6.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/da.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/es.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/nb.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/sv.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/vi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/zh_CN.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/eo.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/fr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/nl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/pt_BR.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/sr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 733 | 1115 | 65.7 | /mnt/stockage/packages/f28/gnuchess/po/de.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 141 | 1115 | 12.6 | /mnt/stockage/packages/f28/gnuchess/po/gl.po | 
+ | [da](/f28/language/da) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/da.po | 
+ | [es](/f28/language/es) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/es.po | 
+ | [nb_NO](/f28/language/nb_NO) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/nb.po | 
+ | [sv](/f28/language/sv) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/sv.po | 
+ | [uk](/f28/language/uk) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/uk.po | 
+ | [vi](/f28/language/vi) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/vi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f28/gnuchess/po/zh_CN.po | 
+ | [eo](/f28/language/eo) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/eo.po | 
+ | [fr](/f28/language/fr) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/fr.po | 
+ | [nl](/f28/language/nl) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/nl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/pt_BR.po | 
+ | [sr](/f28/language/sr) | 1058 | 1115 | 94.9 | /mnt/stockage/packages/f28/gnuchess/po/sr.po | 
+ | [de](/f28/language/de) | 733 | 1115 | 65.7 | /mnt/stockage/packages/f28/gnuchess/po/de.po | 
+ | [gl](/f28/language/gl) | 141 | 1115 | 12.6 | /mnt/stockage/packages/f28/gnuchess/po/gl.po | 
 {.sortable}
 
 

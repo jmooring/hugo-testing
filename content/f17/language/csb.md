@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f17/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
- | [gnome-session]({{< ref "/f17/package/gnome-session.md" >}}) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
- | [exaile]({{< ref "/f17/package/exaile.md" >}}) | 1300 | 3675 | 35.4 | Kashubian <csb@li.org> | 
- | [gnome-panel]({{< ref "/f17/package/gnome-panel.md" >}}) | 283 | 3748 | 7.6 | Kashubian <csb@li.org> | 
- | [k3b]({{< ref "/f17/package/k3b.md" >}}) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
- | [e16]({{< ref "/f17/package/e16.md" >}}) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
- | [file-roller]({{< ref "/f17/package/file-roller.md" >}}) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
- | [gimp]({{< ref "/f17/package/gimp.md" >}}) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gnome-menus](/f17/package/gnome-menus) | 95 | 95 | 100.0 | Kashubian <csb@li.org> | 
+ | [gnome-session](/f17/package/gnome-session) | 447 | 475 | 94.1 | Kashubian <csb@li.org> | 
+ | [exaile](/f17/package/exaile) | 1300 | 3675 | 35.4 | Kashubian <csb@li.org> | 
+ | [gnome-panel](/f17/package/gnome-panel) | 283 | 3748 | 7.6 | Kashubian <csb@li.org> | 
+ | [k3b](/f17/package/k3b) | 671 | 15116 | 4.4 | Kashubian <i18n-csb@linuxcsb.org> | 
+ | [e16](/f17/package/e16) | 115 | 2828 | 4.1 | Kashubian <csb@li.org> | 
+ | [file-roller](/f17/package/file-roller) | 41 | 1555 | 2.6 | Kashubian <csb@li.org> | 
+ | [gimp](/f17/package/gimp) | 108 | 13636 | 0.8 | Kashubian <csb@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

@@ -18,61 +18,61 @@ The package xfce4-fsguard-plugin (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ar.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ast.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/el.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/en_AU.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/en_CA.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/en_GB.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/eu.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/he.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/hu.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/hye.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/id.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ie.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ja.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/kk.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/lv.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/nl.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/nn.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/oc.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sv.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/tr.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ug.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/zh_TW.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 56 | 71 | 78.9 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f41/language/ur_PK.md" >}}) | 56 | 71 | 78.9 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ur_PK.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 43 | 71 | 60.6 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/vi.po | 
+ | [ar](/f41/language/ar) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ar.po | 
+ | [ast](/f41/language/ast) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ast.po | 
+ | [be](/f41/language/be) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/be.po | 
+ | [bg](/f41/language/bg) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/bg.po | 
+ | [ca](/f41/language/ca) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ca.po | 
+ | [cs](/f41/language/cs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/cs.po | 
+ | [da](/f41/language/da) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/da.po | 
+ | [de](/f41/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/de.po | 
+ | [el](/f41/language/el) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/el.po | 
+ | [en_AU](/f41/language/en_AU) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/en_AU.po | 
+ | [en_CA](/f41/language/en_CA) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/en_CA.po | 
+ | [en_GB](/f41/language/en_GB) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/en_GB.po | 
+ | [es](/f41/language/es) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/es.po | 
+ | [et](/f41/language/et) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/et.po | 
+ | [eu](/f41/language/eu) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/eu.po | 
+ | [fi](/f41/language/fi) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/fi.po | 
+ | [fr](/f41/language/fr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/fr.po | 
+ | [gl](/f41/language/gl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/gl.po | 
+ | [he](/f41/language/he) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/he.po | 
+ | [hr](/f41/language/hr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/hr.po | 
+ | [hu](/f41/language/hu) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/hu.po | 
+ | [hy](/f41/language/hy) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/hye.po | 
+ | [id](/f41/language/id) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/id.po | 
+ | [ie](/f41/language/ie) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ie.po | 
+ | [is](/f41/language/is) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/is.po | 
+ | [it](/f41/language/it) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/it.po | 
+ | [ja](/f41/language/ja) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ja.po | 
+ | [kk](/f41/language/kk) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/kk.po | 
+ | [ko](/f41/language/ko) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ko.po | 
+ | [lt](/f41/language/lt) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/lt.po | 
+ | [lv](/f41/language/lv) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/lv.po | 
+ | [ms](/f41/language/ms) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/nb.po | 
+ | [nl](/f41/language/nl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/nl.po | 
+ | [nn](/f41/language/nn) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/nn.po | 
+ | [oc](/f41/language/oc) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/oc.po | 
+ | [pa](/f41/language/pa) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pa.po | 
+ | [pl](/f41/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pl.po | 
+ | [pt](/f41/language/pt) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ru.po | 
+ | [sk](/f41/language/sk) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sk.po | 
+ | [sl](/f41/language/sl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sl.po | 
+ | [sq](/f41/language/sq) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sq.po | 
+ | [sr](/f41/language/sr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sr.po | 
+ | [sv](/f41/language/sv) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/sv.po | 
+ | [th](/f41/language/th) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/th.po | 
+ | [tr](/f41/language/tr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/tr.po | 
+ | [ug](/f41/language/ug) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ug.po | 
+ | [uk](/f41/language/uk) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 71 | 71 | 100.0 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/zh_TW.po | 
+ | [ur](/f41/language/ur) | 56 | 71 | 78.9 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ur.po | 
+ | [ur_PK](/f41/language/ur_PK) | 56 | 71 | 78.9 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/ur_PK.po | 
+ | [vi](/f41/language/vi) | 43 | 71 | 60.6 | /mnt/stockage/packages/f41/xfce4-fsguard-plugin/po/vi.po | 
 {.sortable}
 
 

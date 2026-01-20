@@ -18,10 +18,10 @@ The package parcellite (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 180 | 184 | 97.8 | /mnt/stockage/packages/f10/parcellite/po/es.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 178 | 184 | 96.7 | /mnt/stockage/packages/f10/parcellite/po/de.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 178 | 184 | 96.7 | /mnt/stockage/packages/f10/parcellite/po/it.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 178 | 184 | 96.7 | /mnt/stockage/packages/f10/parcellite/po/ru.po | 
+ | [es](/f10/language/es) | 180 | 184 | 97.8 | /mnt/stockage/packages/f10/parcellite/po/es.po | 
+ | [de](/f10/language/de) | 178 | 184 | 96.7 | /mnt/stockage/packages/f10/parcellite/po/de.po | 
+ | [it](/f10/language/it) | 178 | 184 | 96.7 | /mnt/stockage/packages/f10/parcellite/po/it.po | 
+ | [ru](/f10/language/ru) | 178 | 184 | 96.7 | /mnt/stockage/packages/f10/parcellite/po/ru.po | 
 {.sortable}
 
 

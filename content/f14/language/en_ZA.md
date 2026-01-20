@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f14/package/iso-codes.md" >}}) | 761 | 770 | 98.8 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 492 | 1247 | 39.5 | English (South African) <en_za@li.org> | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 317 | 2424 | 13.1 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f14/package/virtaal.md" >}}) | 61 | 1171 | 5.2 | English <translate-devel@lists.sourceforge.net> | 
- | [olpc-switch-desktop]({{< ref "/f14/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f14/package/iso-codes) | 761 | 770 | 98.8 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 492 | 1247 | 39.5 | English (South African) <en_za@li.org> | 
+ | [pootle](/f14/package/pootle) | 317 | 2424 | 13.1 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f14/package/virtaal) | 61 | 1171 | 5.2 | English <translate-devel@lists.sourceforge.net> | 
+ | [olpc-switch-desktop](/f14/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

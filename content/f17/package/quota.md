@@ -18,9 +18,9 @@ The package quota (version 4.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 4292 | 4292 | 100.0 | /mnt/stockage/packages/f17/quota/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2766 | 2766 | 100.0 | /mnt/stockage/packages/f17/quota/po/fr.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 3958 | 3958 | 100.0 | /mnt/stockage/packages/f17/quota/po/pl.po | 
+ | [de](/f17/language/de) | 4292 | 4292 | 100.0 | /mnt/stockage/packages/f17/quota/po/de.po | 
+ | [fr](/f17/language/fr) | 2766 | 2766 | 100.0 | /mnt/stockage/packages/f17/quota/po/fr.po | 
+ | [pl](/f17/language/pl) | 3958 | 3958 | 100.0 | /mnt/stockage/packages/f17/quota/po/pl.po | 
 {.sortable}
 
 

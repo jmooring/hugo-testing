@@ -18,11 +18,11 @@ The package xfdashboard (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 4458 | 4777 | 93.3 | /mnt/stockage/packages/f22/xfdashboard/po/fr.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 4344 | 4777 | 90.9 | /mnt/stockage/packages/f22/xfdashboard/po/sr.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 660 | 4777 | 13.8 | /mnt/stockage/packages/f22/xfdashboard/po/es.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 51 | 4777 | 1.1 | /mnt/stockage/packages/f22/xfdashboard/po/he.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1 | 4777 | 0.0 | /mnt/stockage/packages/f22/xfdashboard/po/it_IT.po | 
+ | [fr](/f22/language/fr) | 4458 | 4777 | 93.3 | /mnt/stockage/packages/f22/xfdashboard/po/fr.po | 
+ | [sr](/f22/language/sr) | 4344 | 4777 | 90.9 | /mnt/stockage/packages/f22/xfdashboard/po/sr.po | 
+ | [es](/f22/language/es) | 660 | 4777 | 13.8 | /mnt/stockage/packages/f22/xfdashboard/po/es.po | 
+ | [he](/f22/language/he) | 51 | 4777 | 1.1 | /mnt/stockage/packages/f22/xfdashboard/po/he.po | 
+ | [it](/f22/language/it) | 1 | 4777 | 0.0 | /mnt/stockage/packages/f22/xfdashboard/po/it_IT.po | 
 {.sortable}
 
 

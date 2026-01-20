@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nemo-extensions]({{< ref "/f20/package/nemo-extensions.md" >}}) | 1 | 1 | 100.0 | Balinese <ban@li.org> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
+ | [nemo-extensions](/f20/package/nemo-extensions) | 1 | 1 | 100.0 | Balinese <ban@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 4 | 50 | 8.0 | Balinese <ban@li.org> | 
 {.sortable}
 
 

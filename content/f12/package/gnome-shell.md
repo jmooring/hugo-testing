@@ -18,28 +18,28 @@ The package gnome-shell (version 2.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/ar.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/de.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/fr.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/ga.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/it.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/pt_BR.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/sl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/sv.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/tr.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/zh_CN.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 90 | 91 | 98.9 | /mnt/stockage/packages/f12/gnome-shell/po/gl.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 88 | 89 | 98.9 | /mnt/stockage/packages/f12/gnome-shell/po/ko.po | 
+ | [ar](/f12/language/ar) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/ar.po | 
+ | [ca](/f12/language/ca) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/ca.po | 
+ | [cs](/f12/language/cs) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/cs.po | 
+ | [da](/f12/language/da) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/da.po | 
+ | [de](/f12/language/de) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/de.po | 
+ | [en_GB](/f12/language/en_GB) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/en_GB.po | 
+ | [es](/f12/language/es) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/es.po | 
+ | [fr](/f12/language/fr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/fr.po | 
+ | [ga](/f12/language/ga) | 92 | 92 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/ga.po | 
+ | [hu](/f12/language/hu) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/hu.po | 
+ | [it](/f12/language/it) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/it.po | 
+ | [nb_NO](/f12/language/nb_NO) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/nb.po | 
+ | [nl](/f12/language/nl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/nl.po | 
+ | [pa](/f12/language/pa) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/pa.po | 
+ | [pl](/f12/language/pl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/pt_BR.po | 
+ | [sl](/f12/language/sl) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/sl.po | 
+ | [sv](/f12/language/sv) | 91 | 91 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/sv.po | 
+ | [tr](/f12/language/tr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/tr.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 90 | 90 | 100.0 | /mnt/stockage/packages/f12/gnome-shell/po/zh_CN.po | 
+ | [gl](/f12/language/gl) | 90 | 91 | 98.9 | /mnt/stockage/packages/f12/gnome-shell/po/gl.po | 
+ | [ko](/f12/language/ko) | 88 | 89 | 98.9 | /mnt/stockage/packages/f12/gnome-shell/po/ko.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f7/package/abiword.md" >}}) | 3711 | 4644 | 79.9 | unknown <email@address> | 
+ | [abiword](/f7/package/abiword) | 3711 | 4644 | 79.9 | unknown <email@address> | 
 {.sortable}
 
 

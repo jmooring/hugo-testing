@@ -18,53 +18,53 @@ The package playonlinux (version 4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/nl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/pt.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2721 | 2728 | 99.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/de.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/bg.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/cs.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/en_GB.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 2482 | 2728 | 91.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/sv.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/ms.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/pl.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/es.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/zh_CN.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 2430 | 2728 | 89.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/uk.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 2372 | 2728 | 87.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/it.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 2312 | 2728 | 84.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/ru.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 2238 | 2728 | 82.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/pt_BR.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2194 | 2728 | 80.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/fi.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 2054 | 2728 | 75.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/ro.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 2034 | 2728 | 74.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/fr.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1949 | 2728 | 71.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/sk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1816 | 2728 | 66.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/zh_TW.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1566 | 2728 | 57.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/sr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 1537 | 2728 | 56.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/hr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 1235 | 2728 | 45.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/nb.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 1116 | 2728 | 40.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/et.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 965 | 2728 | 35.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/he.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 888 | 2728 | 32.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/ja.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 869 | 2728 | 31.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/tr.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 633 | 2728 | 23.2 | /mnt/stockage/packages/f32/playonlinux/lang/po/da.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 589 | 2728 | 21.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/gl.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 449 | 2728 | 16.5 | /mnt/stockage/packages/f32/playonlinux/lang/po/lt.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 448 | 2728 | 16.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/ko.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 337 | 2728 | 12.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/sr@latin.po | 
- | [jv]({{< ref "/f32/language/jv.md" >}}) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/jv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/th.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 293 | 2728 | 10.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/id.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 259 | 2728 | 9.5 | /mnt/stockage/packages/f32/playonlinux/lang/po/bn.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 223 | 2728 | 8.2 | /mnt/stockage/packages/f32/playonlinux/lang/po/el.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 191 | 2728 | 7.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/hu.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 179 | 2728 | 6.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/ast.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 131 | 2728 | 4.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/sl.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 113 | 2728 | 4.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/ar.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 89 | 2728 | 3.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/oc.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 32 | 2728 | 1.2 | /mnt/stockage/packages/f32/playonlinux/lang/po/bs.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 7 | 2728 | 0.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/si.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 3 | 2728 | 0.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/hi.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/ca.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/te.po | 
+ | [nl](/f32/language/nl) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/nl.po | 
+ | [pt](/f32/language/pt) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/pt.po | 
+ | [de](/f32/language/de) | 2721 | 2728 | 99.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/de.po | 
+ | [bg](/f32/language/bg) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/bg.po | 
+ | [cs](/f32/language/cs) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/cs.po | 
+ | [en_GB](/f32/language/en_GB) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/en_GB.po | 
+ | [sv](/f32/language/sv) | 2482 | 2728 | 91.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/sv.po | 
+ | [ms](/f32/language/ms) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/ms.po | 
+ | [pl](/f32/language/pl) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/pl.po | 
+ | [es](/f32/language/es) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/es.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/zh_CN.po | 
+ | [uk](/f32/language/uk) | 2430 | 2728 | 89.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/uk.po | 
+ | [it](/f32/language/it) | 2372 | 2728 | 87.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/it.po | 
+ | [ru](/f32/language/ru) | 2312 | 2728 | 84.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/ru.po | 
+ | [pt_BR](/f32/language/pt_BR) | 2238 | 2728 | 82.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/pt_BR.po | 
+ | [fi](/f32/language/fi) | 2194 | 2728 | 80.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/fi.po | 
+ | [ro](/f32/language/ro) | 2054 | 2728 | 75.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/ro.po | 
+ | [fr](/f32/language/fr) | 2034 | 2728 | 74.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/fr.po | 
+ | [sk](/f32/language/sk) | 1949 | 2728 | 71.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/sk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1816 | 2728 | 66.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/zh_TW.po | 
+ | [sr](/f32/language/sr) | 1566 | 2728 | 57.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/sr.po | 
+ | [hr](/f32/language/hr) | 1537 | 2728 | 56.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/hr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 1235 | 2728 | 45.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/nb.po | 
+ | [et](/f32/language/et) | 1116 | 2728 | 40.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/et.po | 
+ | [he](/f32/language/he) | 965 | 2728 | 35.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/he.po | 
+ | [ja](/f32/language/ja) | 888 | 2728 | 32.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/ja.po | 
+ | [tr](/f32/language/tr) | 869 | 2728 | 31.9 | /mnt/stockage/packages/f32/playonlinux/lang/po/tr.po | 
+ | [da](/f32/language/da) | 633 | 2728 | 23.2 | /mnt/stockage/packages/f32/playonlinux/lang/po/da.po | 
+ | [gl](/f32/language/gl) | 589 | 2728 | 21.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/gl.po | 
+ | [lt](/f32/language/lt) | 449 | 2728 | 16.5 | /mnt/stockage/packages/f32/playonlinux/lang/po/lt.po | 
+ | [ko](/f32/language/ko) | 448 | 2728 | 16.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/ko.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 337 | 2728 | 12.4 | /mnt/stockage/packages/f32/playonlinux/lang/po/sr@latin.po | 
+ | [jv](/f32/language/jv) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/jv.po | 
+ | [th](/f32/language/th) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/th.po | 
+ | [id](/f32/language/id) | 293 | 2728 | 10.7 | /mnt/stockage/packages/f32/playonlinux/lang/po/id.po | 
+ | [bn](/f32/language/bn) | 259 | 2728 | 9.5 | /mnt/stockage/packages/f32/playonlinux/lang/po/bn.po | 
+ | [el](/f32/language/el) | 223 | 2728 | 8.2 | /mnt/stockage/packages/f32/playonlinux/lang/po/el.po | 
+ | [hu](/f32/language/hu) | 191 | 2728 | 7.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/hu.po | 
+ | [ast](/f32/language/ast) | 179 | 2728 | 6.6 | /mnt/stockage/packages/f32/playonlinux/lang/po/ast.po | 
+ | [sl](/f32/language/sl) | 131 | 2728 | 4.8 | /mnt/stockage/packages/f32/playonlinux/lang/po/sl.po | 
+ | [ar](/f32/language/ar) | 113 | 2728 | 4.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/ar.po | 
+ | [oc](/f32/language/oc) | 89 | 2728 | 3.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/oc.po | 
+ | [bs](/f32/language/bs) | 32 | 2728 | 1.2 | /mnt/stockage/packages/f32/playonlinux/lang/po/bs.po | 
+ | [si](/f32/language/si) | 7 | 2728 | 0.3 | /mnt/stockage/packages/f32/playonlinux/lang/po/si.po | 
+ | [hi](/f32/language/hi) | 3 | 2728 | 0.1 | /mnt/stockage/packages/f32/playonlinux/lang/po/hi.po | 
+ | [ca](/f32/language/ca) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/ca.po | 
+ | [te](/f32/language/te) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f32/playonlinux/lang/po/te.po | 
 {.sortable}
 
 

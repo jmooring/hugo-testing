@@ -18,17 +18,17 @@ The package libextractor (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1952 | 1964 | 99.4 | /mnt/stockage/packages/f23/libextractor/po/pl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1952 | 1964 | 99.4 | /mnt/stockage/packages/f23/libextractor/po/uk.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1765 | 1964 | 89.9 | /mnt/stockage/packages/f23/libextractor/po/nl.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1460 | 1964 | 74.3 | /mnt/stockage/packages/f23/libextractor/po/vi.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 442 | 1964 | 22.5 | /mnt/stockage/packages/f23/libextractor/po/it.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 367 | 1964 | 18.7 | /mnt/stockage/packages/f23/libextractor/po/ga.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 367 | 1964 | 18.7 | /mnt/stockage/packages/f23/libextractor/po/sv.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 353 | 1964 | 18.0 | /mnt/stockage/packages/f23/libextractor/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 343 | 1964 | 17.5 | /mnt/stockage/packages/f23/libextractor/po/fr.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 260 | 1964 | 13.2 | /mnt/stockage/packages/f23/libextractor/po/ro.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 5 | 1964 | 0.3 | /mnt/stockage/packages/f23/libextractor/po/rw.po | 
+ | [pl](/f23/language/pl) | 1952 | 1964 | 99.4 | /mnt/stockage/packages/f23/libextractor/po/pl.po | 
+ | [uk](/f23/language/uk) | 1952 | 1964 | 99.4 | /mnt/stockage/packages/f23/libextractor/po/uk.po | 
+ | [nl](/f23/language/nl) | 1765 | 1964 | 89.9 | /mnt/stockage/packages/f23/libextractor/po/nl.po | 
+ | [vi](/f23/language/vi) | 1460 | 1964 | 74.3 | /mnt/stockage/packages/f23/libextractor/po/vi.po | 
+ | [it](/f23/language/it) | 442 | 1964 | 22.5 | /mnt/stockage/packages/f23/libextractor/po/it.po | 
+ | [ga](/f23/language/ga) | 367 | 1964 | 18.7 | /mnt/stockage/packages/f23/libextractor/po/ga.po | 
+ | [sv](/f23/language/sv) | 367 | 1964 | 18.7 | /mnt/stockage/packages/f23/libextractor/po/sv.po | 
+ | [de](/f23/language/de) | 353 | 1964 | 18.0 | /mnt/stockage/packages/f23/libextractor/po/de.po | 
+ | [fr](/f23/language/fr) | 343 | 1964 | 17.5 | /mnt/stockage/packages/f23/libextractor/po/fr.po | 
+ | [ro](/f23/language/ro) | 260 | 1964 | 13.2 | /mnt/stockage/packages/f23/libextractor/po/ro.po | 
+ | [rw](/f23/language/rw) | 5 | 1964 | 0.3 | /mnt/stockage/packages/f23/libextractor/po/rw.po | 
 {.sortable}
 
 

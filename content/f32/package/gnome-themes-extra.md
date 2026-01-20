@@ -18,79 +18,79 @@ The package gnome-themes-extra (version 3.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f32/language/af.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/af.po | 
- | [an]({{< ref "/f32/language/an.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/an.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/as.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/bg.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/bn_IN.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ca.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ca@valencia.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/el.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/en_CA.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/en_GB.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fur.po | 
- | [fy]({{< ref "/f32/language/fy.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fy.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ga.po | 
- | [gd]({{< ref "/f32/language/gd.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/gd.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/gl.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/id.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/is.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/kk.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/km.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/kn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ko.po | 
- | [ln]({{< ref "/f32/language/ln.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ln.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/lv.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/mr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/nb.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/nl.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/oc.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sr.po/mnt/stockage/packages/f32/gnome-themes-extra/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/te.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/tg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/tr.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ug.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/uk.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/zh_HK.po | 
+ | [af](/f32/language/af) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/af.po | 
+ | [an](/f32/language/an) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/an.po | 
+ | [ar](/f32/language/ar) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ar.po | 
+ | [as](/f32/language/as) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/as.po | 
+ | [be](/f32/language/be) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/be.po | 
+ | [bg](/f32/language/bg) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/bg.po | 
+ | [bn_IN](/f32/language/bn_IN) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/bn_IN.po | 
+ | [bs](/f32/language/bs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/bs.po | 
+ | [ca](/f32/language/ca) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ca.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ca@valencia.po | 
+ | [cs](/f32/language/cs) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/cs.po | 
+ | [da](/f32/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/da.po | 
+ | [de](/f32/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/de.po | 
+ | [el](/f32/language/el) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/el.po | 
+ | [en_CA](/f32/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/en_CA.po | 
+ | [en_GB](/f32/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/en_GB.po | 
+ | [eo](/f32/language/eo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/eo.po | 
+ | [es](/f32/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/es.po | 
+ | [et](/f32/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/et.po | 
+ | [eu](/f32/language/eu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/eu.po | 
+ | [fa](/f32/language/fa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fa.po | 
+ | [fi](/f32/language/fi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fi.po | 
+ | [fr](/f32/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fr.po | 
+ | [fur](/f32/language/fur) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fur.po | 
+ | [fy](/f32/language/fy) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/fy.po | 
+ | [ga](/f32/language/ga) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ga.po | 
+ | [gd](/f32/language/gd) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/gd.po | 
+ | [gl](/f32/language/gl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/gl.po | 
+ | [gu](/f32/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/gu.po | 
+ | [he](/f32/language/he) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/he.po | 
+ | [hi](/f32/language/hi) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/hi.po | 
+ | [hr](/f32/language/hr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/hr.po | 
+ | [hu](/f32/language/hu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/hu.po | 
+ | [id](/f32/language/id) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/id.po | 
+ | [is](/f32/language/is) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/is.po | 
+ | [it](/f32/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/it.po | 
+ | [ja](/f32/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ja.po | 
+ | [kk](/f32/language/kk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/kk.po | 
+ | [km](/f32/language/km) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/km.po | 
+ | [kn](/f32/language/kn) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/kn.po | 
+ | [ko](/f32/language/ko) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ko.po | 
+ | [ln](/f32/language/ln) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ln.po | 
+ | [lt](/f32/language/lt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/lt.po | 
+ | [lv](/f32/language/lv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/lv.po | 
+ | [ml](/f32/language/ml) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ml.po | 
+ | [mr](/f32/language/mr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/mr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/nb.po | 
+ | [ne](/f32/language/ne) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ne.po | 
+ | [nl](/f32/language/nl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/nl.po | 
+ | [oc](/f32/language/oc) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/oc.po | 
+ | [or](/f32/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/or.po | 
+ | [pa](/f32/language/pa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pa.po | 
+ | [pl](/f32/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pl.po | 
+ | [pt](/f32/language/pt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ro.po | 
+ | [ru](/f32/language/ru) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ru.po | 
+ | [sk](/f32/language/sk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sk.po | 
+ | [sl](/f32/language/sl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sl.po | 
+ | [sr](/f32/language/sr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sr.po/mnt/stockage/packages/f32/gnome-themes-extra/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/sv.po | 
+ | [ta](/f32/language/ta) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ta.po | 
+ | [te](/f32/language/te) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/te.po | 
+ | [tg](/f32/language/tg) | 12 | 12 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/tg.po | 
+ | [th](/f32/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/th.po | 
+ | [tr](/f32/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/tr.po | 
+ | [ug](/f32/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/ug.po | 
+ | [uk](/f32/language/uk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/uk.po | 
+ | [uz](/f32/language/uz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/uz@cyrillic.po | 
+ | [vi](/f32/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f32/gnome-themes-extra/po/zh_HK.po | 
 {.sortable}
 
 

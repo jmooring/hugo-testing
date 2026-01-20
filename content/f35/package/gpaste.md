@@ -18,24 +18,24 @@ The package gpaste (version 3.42.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f35/language/it.md" >}}) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/it.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/tr.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1246 | 1288 | 96.7 | /mnt/stockage/packages/f35/gpaste/po/fr.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1203 | 1288 | 93.4 | /mnt/stockage/packages/f35/gpaste/po/pl.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1198 | 1288 | 93.0 | /mnt/stockage/packages/f35/gpaste/po/zh_CN.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 945 | 1288 | 73.4 | /mnt/stockage/packages/f35/gpaste/po/sv.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 936 | 1288 | 72.7 | /mnt/stockage/packages/f35/gpaste/po/nl_NL.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 778 | 1288 | 60.4 | /mnt/stockage/packages/f35/gpaste/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 775 | 1288 | 60.2 | /mnt/stockage/packages/f35/gpaste/po/es.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 532 | 1288 | 41.3 | /mnt/stockage/packages/f35/gpaste/po/nb_NO.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 421 | 1288 | 32.7 | /mnt/stockage/packages/f35/gpaste/po/ja.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 87 | 1288 | 6.8 | /mnt/stockage/packages/f35/gpaste/po/zh_Hant.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 86 | 1288 | 6.7 | /mnt/stockage/packages/f35/gpaste/po/sl.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 67 | 1288 | 5.2 | /mnt/stockage/packages/f35/gpaste/po/cs.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 0 | 1288 | 0.0 | /mnt/stockage/packages/f35/gpaste/po/ar.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 0 | 1288 | 0.0 | /mnt/stockage/packages/f35/gpaste/po/fa.po | 
+ | [it](/f35/language/it) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/it.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/ru.po | 
+ | [tr](/f35/language/tr) | 1257 | 1288 | 97.6 | /mnt/stockage/packages/f35/gpaste/po/tr.po | 
+ | [fr](/f35/language/fr) | 1246 | 1288 | 96.7 | /mnt/stockage/packages/f35/gpaste/po/fr.po | 
+ | [pl](/f35/language/pl) | 1203 | 1288 | 93.4 | /mnt/stockage/packages/f35/gpaste/po/pl.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1198 | 1288 | 93.0 | /mnt/stockage/packages/f35/gpaste/po/zh_CN.po | 
+ | [sv](/f35/language/sv) | 945 | 1288 | 73.4 | /mnt/stockage/packages/f35/gpaste/po/sv.po | 
+ | [nl](/f35/language/nl) | 936 | 1288 | 72.7 | /mnt/stockage/packages/f35/gpaste/po/nl_NL.po | 
+ | [de](/f35/language/de) | 778 | 1288 | 60.4 | /mnt/stockage/packages/f35/gpaste/po/de.po | 
+ | [es](/f35/language/es) | 775 | 1288 | 60.2 | /mnt/stockage/packages/f35/gpaste/po/es.po | 
+ | [nb_NO](/f35/language/nb_NO) | 532 | 1288 | 41.3 | /mnt/stockage/packages/f35/gpaste/po/nb_NO.po | 
+ | [ja](/f35/language/ja) | 421 | 1288 | 32.7 | /mnt/stockage/packages/f35/gpaste/po/ja.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 87 | 1288 | 6.8 | /mnt/stockage/packages/f35/gpaste/po/zh_Hant.po | 
+ | [sl](/f35/language/sl) | 86 | 1288 | 6.7 | /mnt/stockage/packages/f35/gpaste/po/sl.po | 
+ | [cs](/f35/language/cs) | 67 | 1288 | 5.2 | /mnt/stockage/packages/f35/gpaste/po/cs.po | 
+ | [ar](/f35/language/ar) | 0 | 1288 | 0.0 | /mnt/stockage/packages/f35/gpaste/po/ar.po | 
+ | [fa](/f35/language/fa) | 0 | 1288 | 0.0 | /mnt/stockage/packages/f35/gpaste/po/fa.po | 
 {.sortable}
 
 

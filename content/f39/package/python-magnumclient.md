@@ -18,7 +18,7 @@ The package python-magnumclient (version 4.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f39/python-magnumclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f39/language/en_GB) | 170 | 170 | 100.0 | /mnt/stockage/packages/f39/python-magnumclient/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package cura-lulzbot (version 14.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 4953 | 5057 | 97.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/de/LC_MESSAGES/Cura.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 4953 | 5057 | 97.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/fr/LC_MESSAGES/Cura.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 4953 | 5057 | 97.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/ko/LC_MESSAGES/Cura.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 4444 | 5057 | 87.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/cs/LC_MESSAGES/Cura.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 4254 | 5057 | 84.1 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/ru/LC_MESSAGES/Cura.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2983 | 5057 | 59.0 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/es/LC_MESSAGES/Cura.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 2979 | 5057 | 58.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/nl/LC_MESSAGES/Cura.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 2886 | 5057 | 57.1 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/po/LC_MESSAGES/Cura.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 4163 | 10114 | 41.2 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/tr/LC_MESSAGES/Cura.po/mnt/stockage/packages/f22/cura-lulzbot/resources/locale/en/LC_MESSAGES/Cura.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1476 | 5057 | 29.2 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/zh/LC_MESSAGES/Cura.po | 
+ | [de](/f22/language/de) | 4953 | 5057 | 97.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/de/LC_MESSAGES/Cura.po | 
+ | [fr](/f22/language/fr) | 4953 | 5057 | 97.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/fr/LC_MESSAGES/Cura.po | 
+ | [ko](/f22/language/ko) | 4953 | 5057 | 97.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/ko/LC_MESSAGES/Cura.po | 
+ | [cs](/f22/language/cs) | 4444 | 5057 | 87.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/cs/LC_MESSAGES/Cura.po | 
+ | [ru](/f22/language/ru) | 4254 | 5057 | 84.1 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/ru/LC_MESSAGES/Cura.po | 
+ | [es](/f22/language/es) | 2983 | 5057 | 59.0 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/es/LC_MESSAGES/Cura.po | 
+ | [nl](/f22/language/nl) | 2979 | 5057 | 58.9 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/nl/LC_MESSAGES/Cura.po | 
+ | [error](/f22/language/error) | 2886 | 5057 | 57.1 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/po/LC_MESSAGES/Cura.po | 
+ | [en](/f22/language/en) | 4163 | 10114 | 41.2 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/tr/LC_MESSAGES/Cura.po/mnt/stockage/packages/f22/cura-lulzbot/resources/locale/en/LC_MESSAGES/Cura.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1476 | 5057 | 29.2 | /mnt/stockage/packages/f22/cura-lulzbot/resources/locale/zh/LC_MESSAGES/Cura.po | 
 {.sortable}
 
 

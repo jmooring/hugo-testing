@@ -18,10 +18,10 @@ The package splix (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f40/splix/ppd/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f40/splix/ppd/po/fr.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f40/splix/ppd/po/pt.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/splix/ppd/po/it.po | 
+ | [de](/f40/language/de) | 310 | 310 | 100.0 | /mnt/stockage/packages/f40/splix/ppd/po/de.po | 
+ | [fr](/f40/language/fr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f40/splix/ppd/po/fr.po | 
+ | [pt](/f40/language/pt) | 346 | 346 | 100.0 | /mnt/stockage/packages/f40/splix/ppd/po/pt.po | 
+ | [it](/f40/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/splix/ppd/po/it.po | 
 {.sortable}
 
 

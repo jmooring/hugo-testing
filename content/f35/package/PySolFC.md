@@ -18,11 +18,11 @@ The package PySolFC (version 2.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 9225 | 11742 | 78.6 | /mnt/stockage/packages/f35/PySolFC/po/de_pysol.po/mnt/stockage/packages/f35/PySolFC/po/de_games.po/mnt/stockage/packages/f35/PySolFC/po/de.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 9124 | 11742 | 77.7 | /mnt/stockage/packages/f35/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f35/PySolFC/po/ru_games.po/mnt/stockage/packages/f35/PySolFC/po/ru.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2972 | 5893 | 50.4 | /mnt/stockage/packages/f35/PySolFC/po/fr_pysol.po/mnt/stockage/packages/f35/PySolFC/po/fr_games.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 5718 | 11742 | 48.7 | /mnt/stockage/packages/f35/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f35/PySolFC/po/pl_games.po/mnt/stockage/packages/f35/PySolFC/po/pl.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 5368 | 11742 | 45.7 | /mnt/stockage/packages/f35/PySolFC/po/it_pysol.po/mnt/stockage/packages/f35/PySolFC/po/it_games.po/mnt/stockage/packages/f35/PySolFC/po/it.po | 
+ | [de](/f35/language/de) | 9225 | 11742 | 78.6 | /mnt/stockage/packages/f35/PySolFC/po/de_pysol.po/mnt/stockage/packages/f35/PySolFC/po/de_games.po/mnt/stockage/packages/f35/PySolFC/po/de.po | 
+ | [ru](/f35/language/ru) | 9124 | 11742 | 77.7 | /mnt/stockage/packages/f35/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f35/PySolFC/po/ru_games.po/mnt/stockage/packages/f35/PySolFC/po/ru.po | 
+ | [fr](/f35/language/fr) | 2972 | 5893 | 50.4 | /mnt/stockage/packages/f35/PySolFC/po/fr_pysol.po/mnt/stockage/packages/f35/PySolFC/po/fr_games.po | 
+ | [pl](/f35/language/pl) | 5718 | 11742 | 48.7 | /mnt/stockage/packages/f35/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f35/PySolFC/po/pl_games.po/mnt/stockage/packages/f35/PySolFC/po/pl.po | 
+ | [it](/f35/language/it) | 5368 | 11742 | 45.7 | /mnt/stockage/packages/f35/PySolFC/po/it_pysol.po/mnt/stockage/packages/f35/PySolFC/po/it_games.po/mnt/stockage/packages/f35/PySolFC/po/it.po | 
 {.sortable}
 
 

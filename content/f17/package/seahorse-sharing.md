@@ -18,7 +18,7 @@ The package seahorse-sharing (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f17/seahorse-sharing/po/pl.po | 
+ | [pl](/f17/language/pl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f17/seahorse-sharing/po/pl.po | 
 {.sortable}
 
 

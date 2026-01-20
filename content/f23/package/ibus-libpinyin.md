@@ -18,12 +18,12 @@ The package ibus-libpinyin (version 1.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f23/ibus-libpinyin/po/ca.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 372 | 372 | 100.0 | /mnt/stockage/packages/f23/ibus-libpinyin/po/zh_CN.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 117 | 372 | 31.5 | /mnt/stockage/packages/f23/ibus-libpinyin/po/fr.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 117 | 372 | 31.5 | /mnt/stockage/packages/f23/ibus-libpinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 117 | 372 | 31.5 | /mnt/stockage/packages/f23/ibus-libpinyin/po/zh_HK.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 42 | 372 | 11.3 | /mnt/stockage/packages/f23/ibus-libpinyin/po/ru.po | 
+ | [ca](/f23/language/ca) | 373 | 373 | 100.0 | /mnt/stockage/packages/f23/ibus-libpinyin/po/ca.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 372 | 372 | 100.0 | /mnt/stockage/packages/f23/ibus-libpinyin/po/zh_CN.po | 
+ | [fr](/f23/language/fr) | 117 | 372 | 31.5 | /mnt/stockage/packages/f23/ibus-libpinyin/po/fr.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 117 | 372 | 31.5 | /mnt/stockage/packages/f23/ibus-libpinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 117 | 372 | 31.5 | /mnt/stockage/packages/f23/ibus-libpinyin/po/zh_HK.po | 
+ | [ru](/f23/language/ru) | 42 | 372 | 11.3 | /mnt/stockage/packages/f23/ibus-libpinyin/po/ru.po | 
 {.sortable}
 
 

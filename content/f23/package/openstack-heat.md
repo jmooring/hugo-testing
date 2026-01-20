@@ -18,7 +18,7 @@ The package openstack-heat (version 2015.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 229 | 289 | 79.2 | /mnt/stockage/packages/f23/openstack-heat/heat/locale/ko_KR/LC_MESSAGES/heat-log-error.po | 
+ | [ko](/f23/language/ko) | 229 | 289 | 79.2 | /mnt/stockage/packages/f23/openstack-heat/heat/locale/ko_KR/LC_MESSAGES/heat-log-error.po | 
 {.sortable}
 
 

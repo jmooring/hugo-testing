@@ -18,10 +18,10 @@ The package recutils (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1507 | 1744 | 86.4 | /mnt/stockage/packages/f18/recutils/po/fi.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1507 | 1744 | 86.4 | /mnt/stockage/packages/f18/recutils/po/nl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1507 | 1744 | 86.4 | /mnt/stockage/packages/f18/recutils/po/sv.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1249 | 1744 | 71.6 | /mnt/stockage/packages/f18/recutils/po/de.po | 
+ | [fi](/f18/language/fi) | 1507 | 1744 | 86.4 | /mnt/stockage/packages/f18/recutils/po/fi.po | 
+ | [nl](/f18/language/nl) | 1507 | 1744 | 86.4 | /mnt/stockage/packages/f18/recutils/po/nl.po | 
+ | [sv](/f18/language/sv) | 1507 | 1744 | 86.4 | /mnt/stockage/packages/f18/recutils/po/sv.po | 
+ | [de](/f18/language/de) | 1249 | 1744 | 71.6 | /mnt/stockage/packages/f18/recutils/po/de.po | 
 {.sortable}
 
 

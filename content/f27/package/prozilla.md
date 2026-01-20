@@ -18,12 +18,12 @@ The package prozilla (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f27/prozilla/po/es.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1503 | 1503 | 100.0 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/it.po/mnt/stockage/packages/f27/prozilla/po/it.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/ro.po/mnt/stockage/packages/f27/prozilla/po/ro.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1429 | 1463 | 97.7 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/pt_BR.po/mnt/stockage/packages/f27/prozilla/po/pt_BR.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 553 | 569 | 97.2 | /mnt/stockage/packages/f27/prozilla/po/fr.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/nl.po/mnt/stockage/packages/f27/prozilla/po/nl.po | 
+ | [es](/f27/language/es) | 276 | 276 | 100.0 | /mnt/stockage/packages/f27/prozilla/po/es.po | 
+ | [it](/f27/language/it) | 1503 | 1503 | 100.0 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/it.po/mnt/stockage/packages/f27/prozilla/po/it.po | 
+ | [ro](/f27/language/ro) | 913 | 913 | 100.0 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/ro.po/mnt/stockage/packages/f27/prozilla/po/ro.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1429 | 1463 | 97.7 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/pt_BR.po/mnt/stockage/packages/f27/prozilla/po/pt_BR.po | 
+ | [fr](/f27/language/fr) | 553 | 569 | 97.2 | /mnt/stockage/packages/f27/prozilla/po/fr.po | 
+ | [nl](/f27/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/prozilla/libprozilla/po/nl.po/mnt/stockage/packages/f27/prozilla/po/nl.po | 
 {.sortable}
 
 

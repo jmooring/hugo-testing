@@ -18,17 +18,17 @@ The package xdg-desktop-portal (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/hu.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/pt_BR.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/sv.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/zh_CN.po | 
+ | [cs](/f24/language/cs) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/cs.po | 
+ | [de](/f24/language/de) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/de.po | 
+ | [fr](/f24/language/fr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/fr.po | 
+ | [hu](/f24/language/hu) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/hu.po | 
+ | [pl](/f24/language/pl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/pt_BR.po | 
+ | [sk](/f24/language/sk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/sk.po | 
+ | [sr](/f24/language/sr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/sr.po | 
+ | [sv](/f24/language/sv) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/sv.po | 
+ | [uk](/f24/language/uk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 88 | 88 | 100.0 | /mnt/stockage/packages/f24/xdg-desktop-portal/po/zh_CN.po | 
 {.sortable}
 
 

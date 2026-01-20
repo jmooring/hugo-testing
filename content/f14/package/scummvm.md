@@ -18,13 +18,13 @@ The package scummvm (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f14/scummvm/po/ca_ES.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f14/scummvm/po/fr_FR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f14/scummvm/po/ru_RU.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/de_DE.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/es_ES.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/it_IT.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/uk_UA.po | 
+ | [ca](/f14/language/ca) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f14/scummvm/po/ca_ES.po | 
+ | [fr](/f14/language/fr) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f14/scummvm/po/fr_FR.po | 
+ | [ru](/f14/language/ru) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f14/scummvm/po/ru_RU.po | 
+ | [de](/f14/language/de) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/de_DE.po | 
+ | [es](/f14/language/es) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/es_ES.po | 
+ | [it](/f14/language/it) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/it_IT.po | 
+ | [uk](/f14/language/uk) | 1104 | 1129 | 97.8 | /mnt/stockage/packages/f14/scummvm/po/uk_UA.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package fpm2 (version 0.75):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 746 | 746 | 100.0 | /mnt/stockage/packages/f10/fpm2/po/es.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 746 | 746 | 100.0 | /mnt/stockage/packages/f10/fpm2/po/hu.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 740 | 746 | 99.2 | /mnt/stockage/packages/f10/fpm2/po/de.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 658 | 746 | 88.2 | /mnt/stockage/packages/f10/fpm2/po/cs.po | 
+ | [es](/f10/language/es) | 746 | 746 | 100.0 | /mnt/stockage/packages/f10/fpm2/po/es.po | 
+ | [hu](/f10/language/hu) | 746 | 746 | 100.0 | /mnt/stockage/packages/f10/fpm2/po/hu.po | 
+ | [de](/f10/language/de) | 740 | 746 | 99.2 | /mnt/stockage/packages/f10/fpm2/po/de.po | 
+ | [cs](/f10/language/cs) | 658 | 746 | 88.2 | /mnt/stockage/packages/f10/fpm2/po/cs.po | 
 {.sortable}
 
 

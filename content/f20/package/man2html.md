@@ -18,22 +18,22 @@ The package man2html (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/gl.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/ja.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/sv.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/vi.po | 
+ | [ca](/f20/language/ca) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/ca.po | 
+ | [cs](/f20/language/cs) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/cs.po | 
+ | [da](/f20/language/da) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/da.po | 
+ | [de](/f20/language/de) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/de.po | 
+ | [es](/f20/language/es) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/es.po | 
+ | [fr](/f20/language/fr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/fr.po | 
+ | [gl](/f20/language/gl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/gl.po | 
+ | [it](/f20/language/it) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/it.po | 
+ | [ja](/f20/language/ja) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/ja.po | 
+ | [nl](/f20/language/nl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/nl.po | 
+ | [pl](/f20/language/pl) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/pl.po | 
+ | [pt](/f20/language/pt) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/ru.po | 
+ | [sv](/f20/language/sv) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/sv.po | 
+ | [vi](/f20/language/vi) | 58 | 58 | 100.0 | /mnt/stockage/packages/f20/man2html/po/vi.po | 
 {.sortable}
 
 

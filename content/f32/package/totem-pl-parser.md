@@ -18,102 +18,102 @@ The package totem-pl-parser (version 3.26.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f32/language/af.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/af.po | 
- | [an]({{< ref "/f32/language/an.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/an.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ast.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 1417 | 1417 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/az.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/be.po | 
- | [be_Latn]({{< ref "/f32/language/be_Latn.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/be@latin.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bn_IN.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/br.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ca.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ca@valencia.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/cs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/cy.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/de.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/dz.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/el.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 1795 | 1795 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/en_CA.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/en_GB.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/eo.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/en@shaw.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fur.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ga.po | 
- | [gd]({{< ref "/f32/language/gd.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/gd.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/gl.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/id.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/is.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ja.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ka.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/kk.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/km.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/kn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/lv.po | 
- | [mjw]({{< ref "/f32/language/mjw.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mjw.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ml.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mn.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mr.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nb.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nds.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nn.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/oc.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pl.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ps.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sr@latin.po/mnt/stockage/packages/f32/totem-pl-parser/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/te.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/tg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/tr.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ug.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/uk.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/zh_HK.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 1764 | 1766 | 99.9 | /mnt/stockage/packages/f32/totem-pl-parser/po/mg.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 1466 | 1532 | 95.7 | /mnt/stockage/packages/f32/totem-pl-parser/po/xh.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 1160 | 1838 | 63.1 | /mnt/stockage/packages/f32/totem-pl-parser/po/si.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 17 | 28 | 60.7 | /mnt/stockage/packages/f32/totem-pl-parser/po/mai.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 341 | 1552 | 22.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/wa.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 259 | 1685 | 15.4 | /mnt/stockage/packages/f32/totem-pl-parser/po/ku.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 95 | 870 | 10.9 | /mnt/stockage/packages/f32/totem-pl-parser/po/am.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 33 | 1532 | 2.2 | /mnt/stockage/packages/f32/totem-pl-parser/po/rw.po | 
+ | [af](/f32/language/af) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/af.po | 
+ | [an](/f32/language/an) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/an.po | 
+ | [ar](/f32/language/ar) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ar.po | 
+ | [as](/f32/language/as) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/as.po | 
+ | [ast](/f32/language/ast) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ast.po | 
+ | [az](/f32/language/az) | 1417 | 1417 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/az.po | 
+ | [be](/f32/language/be) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/be.po | 
+ | [be_Latn](/f32/language/be_Latn) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/be@latin.po | 
+ | [bg](/f32/language/bg) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bg.po | 
+ | [bn](/f32/language/bn) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bn_IN.po | 
+ | [br](/f32/language/br) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/br.po | 
+ | [bs](/f32/language/bs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/bs.po | 
+ | [ca](/f32/language/ca) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ca.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ca@valencia.po | 
+ | [cs](/f32/language/cs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/cs.po | 
+ | [cy](/f32/language/cy) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/cy.po | 
+ | [da](/f32/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/da.po | 
+ | [de](/f32/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/de.po | 
+ | [dz](/f32/language/dz) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/dz.po | 
+ | [el](/f32/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/el.po | 
+ | [en_CA](/f32/language/en_CA) | 1795 | 1795 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/en_CA.po | 
+ | [en_GB](/f32/language/en_GB) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/en_GB.po | 
+ | [eo](/f32/language/eo) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/eo.po | 
+ | [error](/f32/language/error) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/en@shaw.po | 
+ | [es](/f32/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/es.po | 
+ | [et](/f32/language/et) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/et.po | 
+ | [eu](/f32/language/eu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/eu.po | 
+ | [fa](/f32/language/fa) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fa.po | 
+ | [fi](/f32/language/fi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fi.po | 
+ | [fr](/f32/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fr.po | 
+ | [fur](/f32/language/fur) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/fur.po | 
+ | [ga](/f32/language/ga) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ga.po | 
+ | [gd](/f32/language/gd) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/gd.po | 
+ | [gl](/f32/language/gl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/gl.po | 
+ | [gu](/f32/language/gu) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/gu.po | 
+ | [he](/f32/language/he) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/he.po | 
+ | [hi](/f32/language/hi) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/hi.po | 
+ | [hr](/f32/language/hr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/hr.po | 
+ | [hu](/f32/language/hu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/hu.po | 
+ | [id](/f32/language/id) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/id.po | 
+ | [is](/f32/language/is) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/is.po | 
+ | [it](/f32/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/it.po | 
+ | [ja](/f32/language/ja) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ja.po | 
+ | [ka](/f32/language/ka) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ka.po | 
+ | [kk](/f32/language/kk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/kk.po | 
+ | [km](/f32/language/km) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/km.po | 
+ | [kn](/f32/language/kn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/kn.po | 
+ | [ko](/f32/language/ko) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ko.po | 
+ | [lt](/f32/language/lt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/lt.po | 
+ | [lv](/f32/language/lv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/lv.po | 
+ | [mjw](/f32/language/mjw) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mjw.po | 
+ | [mk](/f32/language/mk) | 35 | 35 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mk.po | 
+ | [ml](/f32/language/ml) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ml.po | 
+ | [mn](/f32/language/mn) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mn.po | 
+ | [mr](/f32/language/mr) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/mr.po | 
+ | [ms](/f32/language/ms) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nb.po | 
+ | [nds](/f32/language/nds) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nds.po | 
+ | [ne](/f32/language/ne) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ne.po | 
+ | [nl](/f32/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nl.po | 
+ | [nn](/f32/language/nn) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/nn.po | 
+ | [oc](/f32/language/oc) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/oc.po | 
+ | [or](/f32/language/or) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/or.po | 
+ | [pa](/f32/language/pa) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pa.po | 
+ | [pl](/f32/language/pl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pl.po | 
+ | [ps](/f32/language/ps) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ps.po | 
+ | [pt](/f32/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ro.po | 
+ | [ru](/f32/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ru.po | 
+ | [sk](/f32/language/sk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sk.po | 
+ | [sl](/f32/language/sl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sl.po | 
+ | [sq](/f32/language/sq) | 35 | 35 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sq.po | 
+ | [sr](/f32/language/sr) | 58 | 58 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sr@latin.po/mnt/stockage/packages/f32/totem-pl-parser/po/sr.po | 
+ | [sv](/f32/language/sv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/sv.po | 
+ | [ta](/f32/language/ta) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ta.po | 
+ | [te](/f32/language/te) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/te.po | 
+ | [tg](/f32/language/tg) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/tg.po | 
+ | [th](/f32/language/th) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/th.po | 
+ | [tr](/f32/language/tr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/tr.po | 
+ | [ug](/f32/language/ug) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/ug.po | 
+ | [uk](/f32/language/uk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/uk.po | 
+ | [uz](/f32/language/uz) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/uz@cyrillic.po | 
+ | [vi](/f32/language/vi) | 28 | 28 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/zh_HK.po | 
+ | [mg](/f32/language/mg) | 1764 | 1766 | 99.9 | /mnt/stockage/packages/f32/totem-pl-parser/po/mg.po | 
+ | [xh](/f32/language/xh) | 1466 | 1532 | 95.7 | /mnt/stockage/packages/f32/totem-pl-parser/po/xh.po | 
+ | [si](/f32/language/si) | 1160 | 1838 | 63.1 | /mnt/stockage/packages/f32/totem-pl-parser/po/si.po | 
+ | [mai](/f32/language/mai) | 17 | 28 | 60.7 | /mnt/stockage/packages/f32/totem-pl-parser/po/mai.po | 
+ | [wa](/f32/language/wa) | 341 | 1552 | 22.0 | /mnt/stockage/packages/f32/totem-pl-parser/po/wa.po | 
+ | [ku](/f32/language/ku) | 259 | 1685 | 15.4 | /mnt/stockage/packages/f32/totem-pl-parser/po/ku.po | 
+ | [am](/f32/language/am) | 95 | 870 | 10.9 | /mnt/stockage/packages/f32/totem-pl-parser/po/am.po | 
+ | [rw](/f32/language/rw) | 33 | 1532 | 2.2 | /mnt/stockage/packages/f32/totem-pl-parser/po/rw.po | 
 {.sortable}
 
 

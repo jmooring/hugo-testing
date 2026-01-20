@@ -18,8 +18,8 @@ The package TurboGears2 (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/TurboGears2/tests/i18n/de/LC_MESSAGES/tests.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/TurboGears2/tests/i18n/ru/LC_MESSAGES/tests.po | 
+ | [de](/f14/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/TurboGears2/tests/i18n/de/LC_MESSAGES/tests.po | 
+ | [ru](/f14/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/TurboGears2/tests/i18n/ru/LC_MESSAGES/tests.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package calcurse (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 3107 | 3107 | 100.0 | /mnt/stockage/packages/f8/calcurse/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 3107 | 3107 | 100.0 | /mnt/stockage/packages/f8/calcurse/po/fr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 2601 | 3107 | 83.7 | /mnt/stockage/packages/f8/calcurse/po/de.po | 
- | [en]({{< ref "/f8/language/en.md" >}}) | 901 | 3107 | 29.0 | /mnt/stockage/packages/f8/calcurse/po/en.po | 
+ | [es](/f8/language/es) | 3107 | 3107 | 100.0 | /mnt/stockage/packages/f8/calcurse/po/es.po | 
+ | [fr](/f8/language/fr) | 3107 | 3107 | 100.0 | /mnt/stockage/packages/f8/calcurse/po/fr.po | 
+ | [de](/f8/language/de) | 2601 | 3107 | 83.7 | /mnt/stockage/packages/f8/calcurse/po/de.po | 
+ | [en](/f8/language/en) | 901 | 3107 | 29.0 | /mnt/stockage/packages/f8/calcurse/po/en.po | 
 {.sortable}
 
 

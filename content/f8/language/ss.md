@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f8/package/amarok.md" >}}) | 3633 | 13192 | 27.5 | Serbian <kde-yu@kde.org.yu> | 
+ | [amarok](/f8/package/amarok) | 3633 | 13192 | 27.5 | Serbian <kde-yu@kde.org.yu> | 
 {.sortable}
 
 

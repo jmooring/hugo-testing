@@ -18,7 +18,7 @@ The package perl-Log-Report (version 1.34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 527 | 532 | 99.1 | /mnt/stockage/packages/f36/perl-Log-Report/lib/Log/Report/messages/log-report/nl_NL.po | 
+ | [nl](/f36/language/nl) | 527 | 532 | 99.1 | /mnt/stockage/packages/f36/perl-Log-Report/lib/Log/Report/messages/log-report/nl_NL.po | 
 {.sortable}
 
 

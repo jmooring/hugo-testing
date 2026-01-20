@@ -18,9 +18,9 @@ The package gtkgreet (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f42/gtkgreet/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f42/gtkgreet/po/fr.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f42/gtkgreet/po/ru.po | 
+ | [es](/f42/language/es) | 14 | 14 | 100.0 | /mnt/stockage/packages/f42/gtkgreet/po/es.po | 
+ | [fr](/f42/language/fr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f42/gtkgreet/po/fr.po | 
+ | [ru](/f42/language/ru) | 14 | 14 | 100.0 | /mnt/stockage/packages/f42/gtkgreet/po/ru.po | 
 {.sortable}
 
 

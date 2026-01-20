@@ -18,7 +18,7 @@ The package xlockmore (version 5.55):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f27/xlockmore/etc/xlockmore-6.0.zh_TW.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 200 | 200 | 100.0 | /mnt/stockage/packages/f27/xlockmore/etc/xlockmore-6.0.zh_TW.po | 
 {.sortable}
 
 

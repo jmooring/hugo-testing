@@ -18,15 +18,15 @@ The package scim-tables (version 0.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/ko.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/nl.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1000 | 1118 | 89.4 | /mnt/stockage/packages/f23/scim-tables/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 960 | 1118 | 85.9 | /mnt/stockage/packages/f23/scim-tables/po/zh_CN.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 395 | 1118 | 35.3 | /mnt/stockage/packages/f23/scim-tables/po/pa.po | 
+ | [de](/f23/language/de) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/de.po | 
+ | [fr](/f23/language/fr) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/fr.po | 
+ | [it](/f23/language/it) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/it.po | 
+ | [ja](/f23/language/ja) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/ja.po | 
+ | [ko](/f23/language/ko) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/ko.po | 
+ | [nl](/f23/language/nl) | 1003 | 1118 | 89.7 | /mnt/stockage/packages/f23/scim-tables/po/nl.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1000 | 1118 | 89.4 | /mnt/stockage/packages/f23/scim-tables/po/zh_TW.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 960 | 1118 | 85.9 | /mnt/stockage/packages/f23/scim-tables/po/zh_CN.po | 
+ | [pa](/f23/language/pa) | 395 | 1118 | 35.3 | /mnt/stockage/packages/f23/scim-tables/po/pa.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package system-config-vsftpd (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 0 | 16 | 0.0 | /mnt/stockage/packages/f8/system-config-vsftpd/po/sk.po | 
+ | [sk](/f8/language/sk) | 0 | 16 | 0.0 | /mnt/stockage/packages/f8/system-config-vsftpd/po/sk.po | 
 {.sortable}
 
 

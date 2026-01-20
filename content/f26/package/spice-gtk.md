@@ -18,8 +18,8 @@ The package spice-gtk (version 0.34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f26/language/it.md" >}}) | 275 | 355 | 77.5 | /mnt/stockage/packages/f26/spice-gtk/po/it.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2 | 355 | 0.6 | /mnt/stockage/packages/f26/spice-gtk/po/fr.po | 
+ | [it](/f26/language/it) | 275 | 355 | 77.5 | /mnt/stockage/packages/f26/spice-gtk/po/it.po | 
+ | [fr](/f26/language/fr) | 2 | 355 | 0.6 | /mnt/stockage/packages/f26/spice-gtk/po/fr.po | 
 {.sortable}
 
 

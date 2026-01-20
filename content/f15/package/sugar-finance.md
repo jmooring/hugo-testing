@@ -18,76 +18,76 @@ The package sugar-finance (version 3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f15/language/el.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/el.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/nl.po | 
- | [prs]({{< ref "/f15/language/prs.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/fa_AF.po | 
- | [ps]({{< ref "/f15/language/ps.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/ps.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/pt.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/zh_TW.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 139 | 142 | 97.9 | /mnt/stockage/packages/f15/sugar-finance/po/es.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 138 | 142 | 97.2 | /mnt/stockage/packages/f15/sugar-finance/po/sl.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 136 | 142 | 95.8 | /mnt/stockage/packages/f15/sugar-finance/po/fr.po | 
- | [km]({{< ref "/f15/language/km.md" >}}) | 34 | 142 | 23.9 | /mnt/stockage/packages/f15/sugar-finance/po/km.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 20 | 142 | 14.1 | /mnt/stockage/packages/f15/sugar-finance/po/de.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/af.po | 
- | [am]({{< ref "/f15/language/am.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/am.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ar.po | 
- | [ay]({{< ref "/f15/language/ay.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ay.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bg.po | 
- | [bi]({{< ref "/f15/language/bi.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bi.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bn.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bn_IN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ca.po | 
- | [cpp]({{< ref "/f15/language/cpp.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/cpp.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/cs.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/dz.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/en.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 0 | 426 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pseudo.po/mnt/stockage/packages/f15/sugar-finance/po/pis.po/mnt/stockage/packages/f15/sugar-finance/po/mvo.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/fa.po | 
- | [ff]({{< ref "/f15/language/ff.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ff.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/gu.po | 
- | [ha]({{< ref "/f15/language/ha.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ha.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/he.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/hi.po | 
- | [ht]({{< ref "/f15/language/ht.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ht.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/hu.po | 
- | [ig]({{< ref "/f15/language/ig.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ig.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/is.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ko.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ml.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/mn.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/mr.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ms.po | 
- | [na]({{< ref "/f15/language/na.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/na.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/nb.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ne.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pa.po | 
- | [pap]({{< ref "/f15/language/pap.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pap.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pt_BR.po | 
- | [qu]({{< ref "/f15/language/qu.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/qu.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ru.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/rw.po | 
- | [sd]({{< ref "/f15/language/sd.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/sd.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/si.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/sk.po | 
- | [sw]({{< ref "/f15/language/sw.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/sw.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ta.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/te.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/th.po | 
- | [tpi]({{< ref "/f15/language/tpi.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/tpi.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/tr.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ug.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ur.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/wa.po | 
- | [yo]({{< ref "/f15/language/yo.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/yo.po | 
+ | [el](/f15/language/el) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/el.po | 
+ | [it](/f15/language/it) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/it.po | 
+ | [nl](/f15/language/nl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/nl.po | 
+ | [prs](/f15/language/prs) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/fa_AF.po | 
+ | [ps](/f15/language/ps) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/ps.po | 
+ | [pt](/f15/language/pt) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/pt.po | 
+ | [sv](/f15/language/sv) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/sv.po | 
+ | [vi](/f15/language/vi) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 142 | 142 | 100.0 | /mnt/stockage/packages/f15/sugar-finance/po/zh_TW.po | 
+ | [es](/f15/language/es) | 139 | 142 | 97.9 | /mnt/stockage/packages/f15/sugar-finance/po/es.po | 
+ | [sl](/f15/language/sl) | 138 | 142 | 97.2 | /mnt/stockage/packages/f15/sugar-finance/po/sl.po | 
+ | [fr](/f15/language/fr) | 136 | 142 | 95.8 | /mnt/stockage/packages/f15/sugar-finance/po/fr.po | 
+ | [km](/f15/language/km) | 34 | 142 | 23.9 | /mnt/stockage/packages/f15/sugar-finance/po/km.po | 
+ | [de](/f15/language/de) | 20 | 142 | 14.1 | /mnt/stockage/packages/f15/sugar-finance/po/de.po | 
+ | [af](/f15/language/af) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/af.po | 
+ | [am](/f15/language/am) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/am.po | 
+ | [ar](/f15/language/ar) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ar.po | 
+ | [ay](/f15/language/ay) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ay.po | 
+ | [bg](/f15/language/bg) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bg.po | 
+ | [bi](/f15/language/bi) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bi.po | 
+ | [bn](/f15/language/bn) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bn.po | 
+ | [bn_IN](/f15/language/bn_IN) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/bn_IN.po | 
+ | [ca](/f15/language/ca) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ca.po | 
+ | [cpp](/f15/language/cpp) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/cpp.po | 
+ | [cs](/f15/language/cs) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/cs.po | 
+ | [dz](/f15/language/dz) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/dz.po | 
+ | [en](/f15/language/en) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/en.po | 
+ | [error](/f15/language/error) | 0 | 426 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pseudo.po/mnt/stockage/packages/f15/sugar-finance/po/pis.po/mnt/stockage/packages/f15/sugar-finance/po/mvo.po | 
+ | [fa](/f15/language/fa) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/fa.po | 
+ | [ff](/f15/language/ff) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ff.po | 
+ | [gu](/f15/language/gu) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/gu.po | 
+ | [ha](/f15/language/ha) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ha.po | 
+ | [he](/f15/language/he) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/he.po | 
+ | [hi](/f15/language/hi) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/hi.po | 
+ | [ht](/f15/language/ht) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ht.po | 
+ | [hu](/f15/language/hu) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/hu.po | 
+ | [ig](/f15/language/ig) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ig.po | 
+ | [is](/f15/language/is) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/is.po | 
+ | [ja](/f15/language/ja) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ja.po | 
+ | [ko](/f15/language/ko) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ko.po | 
+ | [mk](/f15/language/mk) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/mk.po | 
+ | [ml](/f15/language/ml) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ml.po | 
+ | [mn](/f15/language/mn) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/mn.po | 
+ | [mr](/f15/language/mr) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/mr.po | 
+ | [ms](/f15/language/ms) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ms.po | 
+ | [na](/f15/language/na) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/na.po | 
+ | [nb_NO](/f15/language/nb_NO) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/nb.po | 
+ | [ne](/f15/language/ne) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ne.po | 
+ | [pa](/f15/language/pa) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pa.po | 
+ | [pap](/f15/language/pap) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pap.po | 
+ | [pl](/f15/language/pl) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/pt_BR.po | 
+ | [qu](/f15/language/qu) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/qu.po | 
+ | [ro](/f15/language/ro) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ro.po | 
+ | [ru](/f15/language/ru) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ru.po | 
+ | [rw](/f15/language/rw) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/rw.po | 
+ | [sd](/f15/language/sd) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/sd.po | 
+ | [si](/f15/language/si) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/si.po | 
+ | [sk](/f15/language/sk) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/sk.po | 
+ | [sw](/f15/language/sw) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/sw.po | 
+ | [ta](/f15/language/ta) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ta.po | 
+ | [te](/f15/language/te) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/te.po | 
+ | [th](/f15/language/th) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/th.po | 
+ | [tpi](/f15/language/tpi) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/tpi.po | 
+ | [tr](/f15/language/tr) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/tr.po | 
+ | [ug](/f15/language/ug) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ug.po | 
+ | [ur](/f15/language/ur) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/ur.po | 
+ | [wa](/f15/language/wa) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/wa.po | 
+ | [yo](/f15/language/yo) | 0 | 142 | 0.0 | /mnt/stockage/packages/f15/sugar-finance/po/yo.po | 
 {.sortable}
 
 

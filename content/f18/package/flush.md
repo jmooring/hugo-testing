@@ -18,12 +18,12 @@ The package flush (version 0.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 5284 | 5284 | 100.0 | /mnt/stockage/packages/f18/flush/po/de.po/mnt/stockage/packages/f18/flush/po/cs.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2642 | 2642 | 100.0 | /mnt/stockage/packages/f18/flush/po/es.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2642 | 2642 | 100.0 | /mnt/stockage/packages/f18/flush/po/ru.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 2632 | 2642 | 99.6 | /mnt/stockage/packages/f18/flush/po/bg.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 1104 | 2642 | 41.8 | /mnt/stockage/packages/f18/flush/po/uk.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 25 | 2642 | 0.9 | /mnt/stockage/packages/f18/flush/po/fi.po | 
+ | [de](/f18/language/de) | 5284 | 5284 | 100.0 | /mnt/stockage/packages/f18/flush/po/de.po/mnt/stockage/packages/f18/flush/po/cs.po | 
+ | [es](/f18/language/es) | 2642 | 2642 | 100.0 | /mnt/stockage/packages/f18/flush/po/es.po | 
+ | [ru](/f18/language/ru) | 2642 | 2642 | 100.0 | /mnt/stockage/packages/f18/flush/po/ru.po | 
+ | [bg](/f18/language/bg) | 2632 | 2642 | 99.6 | /mnt/stockage/packages/f18/flush/po/bg.po | 
+ | [uk](/f18/language/uk) | 1104 | 2642 | 41.8 | /mnt/stockage/packages/f18/flush/po/uk.po | 
+ | [fi](/f18/language/fi) | 25 | 2642 | 0.9 | /mnt/stockage/packages/f18/flush/po/fi.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package bareftp (version 0.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/ja.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/nb.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/pl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/sv.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 440 | 448 | 98.2 | /mnt/stockage/packages/f24/bareftp/po/ca.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 440 | 448 | 98.2 | /mnt/stockage/packages/f24/bareftp/po/es.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 400 | 448 | 89.3 | /mnt/stockage/packages/f24/bareftp/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 400 | 448 | 89.3 | /mnt/stockage/packages/f24/bareftp/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 385 | 448 | 85.9 | /mnt/stockage/packages/f24/bareftp/po/sk.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 292 | 448 | 65.2 | /mnt/stockage/packages/f24/bareftp/po/de.po | 
+ | [fr](/f24/language/fr) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/fr.po | 
+ | [hu](/f24/language/hu) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/hu.po | 
+ | [it](/f24/language/it) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/it.po | 
+ | [ja](/f24/language/ja) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/ja.po | 
+ | [nb_NO](/f24/language/nb_NO) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/nb.po | 
+ | [pl](/f24/language/pl) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/pl.po | 
+ | [sv](/f24/language/sv) | 448 | 448 | 100.0 | /mnt/stockage/packages/f24/bareftp/po/sv.po | 
+ | [ca](/f24/language/ca) | 440 | 448 | 98.2 | /mnt/stockage/packages/f24/bareftp/po/ca.po | 
+ | [es](/f24/language/es) | 440 | 448 | 98.2 | /mnt/stockage/packages/f24/bareftp/po/es.po | 
+ | [pt_BR](/f24/language/pt_BR) | 400 | 448 | 89.3 | /mnt/stockage/packages/f24/bareftp/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 400 | 448 | 89.3 | /mnt/stockage/packages/f24/bareftp/po/ru.po | 
+ | [sk](/f24/language/sk) | 385 | 448 | 85.9 | /mnt/stockage/packages/f24/bareftp/po/sk.po | 
+ | [de](/f24/language/de) | 292 | 448 | 65.2 | /mnt/stockage/packages/f24/bareftp/po/de.po | 
 {.sortable}
 
 

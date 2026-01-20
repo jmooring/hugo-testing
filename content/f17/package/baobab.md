@@ -18,95 +18,95 @@ The package baobab (version 3.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ar.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/as.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ast.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/be.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/bg.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/bn_IN.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/ca/ca.po/mnt/stockage/packages/f17/baobab/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ca@valencia.po | 
- | [crh]({{< ref "/f17/language/crh.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/crh.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/cs/cs.po/mnt/stockage/packages/f17/baobab/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/da/da.po/mnt/stockage/packages/f17/baobab/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/de/de.po/mnt/stockage/packages/f17/baobab/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/en_GB/en_GB.po/mnt/stockage/packages/f17/baobab/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/es/es.po/mnt/stockage/packages/f17/baobab/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 1889 | 1889 | 100.0 | /mnt/stockage/packages/f17/baobab/help/eu/eu.po/mnt/stockage/packages/f17/baobab/po/eu.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/fi/fi.po/mnt/stockage/packages/f17/baobab/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/fr/fr.po/mnt/stockage/packages/f17/baobab/po/fr.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/he.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/hu/hu.po/mnt/stockage/packages/f17/baobab/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/it/it.po/mnt/stockage/packages/f17/baobab/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ja.po | 
- | [km]({{< ref "/f17/language/km.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/km.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/lv.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ml.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/nb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/nl.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/pl/pl.po/mnt/stockage/packages/f17/baobab/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/pt.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/ru/ru.po/mnt/stockage/packages/f17/baobab/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/sk.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/sl/sl.po/mnt/stockage/packages/f17/baobab/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 1098 | 1098 | 100.0 | /mnt/stockage/packages/f17/baobab/po/sr@latin.po/mnt/stockage/packages/f17/baobab/po/sr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/sv/sv.po/mnt/stockage/packages/f17/baobab/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/te.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/uk/uk.po/mnt/stockage/packages/f17/baobab/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/baobab/po/zh_CN.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 2426 | 2440 | 99.4 | /mnt/stockage/packages/f17/baobab/help/el/el.po/mnt/stockage/packages/f17/baobab/po/el.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 526 | 540 | 97.4 | /mnt/stockage/packages/f17/baobab/po/bn.po | 
- | [br]({{< ref "/f17/language/br.md" >}}) | 526 | 540 | 97.4 | /mnt/stockage/packages/f17/baobab/po/br.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 526 | 540 | 97.4 | /mnt/stockage/packages/f17/baobab/po/or.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 1311 | 1369 | 95.8 | /mnt/stockage/packages/f17/baobab/help/gl/gl.po/mnt/stockage/packages/f17/baobab/po/gl.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 506 | 540 | 93.7 | /mnt/stockage/packages/f17/baobab/po/gu.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 506 | 540 | 93.7 | /mnt/stockage/packages/f17/baobab/po/hi.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 506 | 540 | 93.7 | /mnt/stockage/packages/f17/baobab/po/mr.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 2385 | 2959 | 80.6 | /mnt/stockage/packages/f17/baobab/help/zh_TW/zh_TW.po/mnt/stockage/packages/f17/baobab/po/zh_TW.po/mnt/stockage/packages/f17/baobab/po/zh_HK.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 413 | 540 | 76.5 | /mnt/stockage/packages/f17/baobab/po/en@shaw.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 393 | 549 | 71.6 | /mnt/stockage/packages/f17/baobab/po/eo.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 1287 | 1861 | 69.2 | /mnt/stockage/packages/f17/baobab/help/zh_HK/zh_HK.po | 
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 370 | 540 | 68.5 | /mnt/stockage/packages/f17/baobab/po/be@latin.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 370 | 540 | 68.5 | /mnt/stockage/packages/f17/baobab/po/mk.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 336 | 540 | 62.2 | /mnt/stockage/packages/f17/baobab/po/ga.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 299 | 540 | 55.4 | /mnt/stockage/packages/f17/baobab/po/nn.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 287 | 540 | 53.1 | /mnt/stockage/packages/f17/baobab/po/mai.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 285 | 540 | 52.8 | /mnt/stockage/packages/f17/baobab/po/dz.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 285 | 540 | 52.8 | /mnt/stockage/packages/f17/baobab/po/ne.po | 
- | [ps]({{< ref "/f17/language/ps.md" >}}) | 282 | 540 | 52.2 | /mnt/stockage/packages/f17/baobab/po/ps.po | 
- | [af]({{< ref "/f17/language/af.md" >}}) | 229 | 540 | 42.4 | /mnt/stockage/packages/f17/baobab/po/af.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 210 | 540 | 38.9 | /mnt/stockage/packages/f17/baobab/po/si.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 837 | 2410 | 34.7 | /mnt/stockage/packages/f17/baobab/help/pt_BR/pt_BR.po/mnt/stockage/packages/f17/baobab/po/pt_BR.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 132 | 540 | 24.4 | /mnt/stockage/packages/f17/baobab/po/cy.po | 
- | [mg]({{< ref "/f17/language/mg.md" >}}) | 132 | 540 | 24.4 | /mnt/stockage/packages/f17/baobab/po/mg.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 118 | 540 | 21.9 | /mnt/stockage/packages/f17/baobab/po/ku.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 84 | 540 | 15.6 | /mnt/stockage/packages/f17/baobab/po/nds.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 32 | 540 | 5.9 | /mnt/stockage/packages/f17/baobab/po/hr.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 126 | 2440 | 5.2 | /mnt/stockage/packages/f17/baobab/help/oc/oc.po/mnt/stockage/packages/f17/baobab/po/oc.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 23 | 540 | 4.3 | /mnt/stockage/packages/f17/baobab/po/sq.po | 
- | [xh]({{< ref "/f17/language/xh.md" >}}) | 23 | 540 | 4.3 | /mnt/stockage/packages/f17/baobab/po/xh.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 22 | 540 | 4.1 | /mnt/stockage/packages/f17/baobab/po/en_CA.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 22 | 540 | 4.1 | /mnt/stockage/packages/f17/baobab/po/ka.po | 
- | [az]({{< ref "/f17/language/az.md" >}}) | 15 | 540 | 2.8 | /mnt/stockage/packages/f17/baobab/po/az.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 15 | 540 | 2.8 | /mnt/stockage/packages/f17/baobab/po/bs.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 15 | 540 | 2.8 | /mnt/stockage/packages/f17/baobab/po/ms.po | 
- | [mn]({{< ref "/f17/language/mn.md" >}}) | 14 | 540 | 2.6 | /mnt/stockage/packages/f17/baobab/po/mn.po | 
- | [am]({{< ref "/f17/language/am.md" >}}) | 6 | 540 | 1.1 | /mnt/stockage/packages/f17/baobab/po/am.po | 
- | [wa]({{< ref "/f17/language/wa.md" >}}) | 6 | 540 | 1.1 | /mnt/stockage/packages/f17/baobab/po/wa.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 2 | 540 | 0.4 | /mnt/stockage/packages/f17/baobab/po/rw.po | 
+ | [ar](/f17/language/ar) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ar.po | 
+ | [as](/f17/language/as) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/as.po | 
+ | [ast](/f17/language/ast) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ast.po | 
+ | [be](/f17/language/be) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/be.po | 
+ | [bg](/f17/language/bg) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/bg.po | 
+ | [bn_IN](/f17/language/bn_IN) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/bn_IN.po | 
+ | [ca](/f17/language/ca) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/ca/ca.po/mnt/stockage/packages/f17/baobab/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ca@valencia.po | 
+ | [crh](/f17/language/crh) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/crh.po | 
+ | [cs](/f17/language/cs) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/cs/cs.po/mnt/stockage/packages/f17/baobab/po/cs.po | 
+ | [da](/f17/language/da) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/da/da.po/mnt/stockage/packages/f17/baobab/po/da.po | 
+ | [de](/f17/language/de) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/de/de.po/mnt/stockage/packages/f17/baobab/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/en_GB/en_GB.po/mnt/stockage/packages/f17/baobab/po/en_GB.po | 
+ | [es](/f17/language/es) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/es/es.po/mnt/stockage/packages/f17/baobab/po/es.po | 
+ | [et](/f17/language/et) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/et.po | 
+ | [eu](/f17/language/eu) | 1889 | 1889 | 100.0 | /mnt/stockage/packages/f17/baobab/help/eu/eu.po/mnt/stockage/packages/f17/baobab/po/eu.po | 
+ | [fa](/f17/language/fa) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/fa.po | 
+ | [fi](/f17/language/fi) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/fi/fi.po/mnt/stockage/packages/f17/baobab/po/fi.po | 
+ | [fr](/f17/language/fr) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/fr/fr.po/mnt/stockage/packages/f17/baobab/po/fr.po | 
+ | [he](/f17/language/he) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/he.po | 
+ | [hu](/f17/language/hu) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/hu/hu.po/mnt/stockage/packages/f17/baobab/po/hu.po | 
+ | [id](/f17/language/id) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/id.po | 
+ | [it](/f17/language/it) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/it/it.po/mnt/stockage/packages/f17/baobab/po/it.po | 
+ | [ja](/f17/language/ja) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ja.po | 
+ | [km](/f17/language/km) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/km.po | 
+ | [kn](/f17/language/kn) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/kn.po | 
+ | [ko](/f17/language/ko) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ko.po | 
+ | [lt](/f17/language/lt) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/lt.po | 
+ | [lv](/f17/language/lv) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/lv.po | 
+ | [ml](/f17/language/ml) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ml.po | 
+ | [nb_NO](/f17/language/nb_NO) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/nb.po | 
+ | [nl](/f17/language/nl) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/nl.po | 
+ | [pa](/f17/language/pa) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/pa.po | 
+ | [pl](/f17/language/pl) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/pl/pl.po/mnt/stockage/packages/f17/baobab/po/pl.po | 
+ | [pt](/f17/language/pt) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/pt.po | 
+ | [ro](/f17/language/ro) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ro.po | 
+ | [ru](/f17/language/ru) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/ru/ru.po/mnt/stockage/packages/f17/baobab/po/ru.po | 
+ | [sk](/f17/language/sk) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/sk.po | 
+ | [sl](/f17/language/sl) | 1369 | 1369 | 100.0 | /mnt/stockage/packages/f17/baobab/help/sl/sl.po/mnt/stockage/packages/f17/baobab/po/sl.po | 
+ | [sr](/f17/language/sr) | 1098 | 1098 | 100.0 | /mnt/stockage/packages/f17/baobab/po/sr@latin.po/mnt/stockage/packages/f17/baobab/po/sr.po | 
+ | [sv](/f17/language/sv) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/sv/sv.po/mnt/stockage/packages/f17/baobab/po/sv.po | 
+ | [ta](/f17/language/ta) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ta.po | 
+ | [te](/f17/language/te) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/te.po | 
+ | [th](/f17/language/th) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/th.po | 
+ | [tr](/f17/language/tr) | 540 | 540 | 100.0 | /mnt/stockage/packages/f17/baobab/po/tr.po | 
+ | [ug](/f17/language/ug) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/ug.po | 
+ | [uk](/f17/language/uk) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/uk/uk.po/mnt/stockage/packages/f17/baobab/po/uk.po | 
+ | [vi](/f17/language/vi) | 549 | 549 | 100.0 | /mnt/stockage/packages/f17/baobab/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f17/baobab/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/baobab/po/zh_CN.po | 
+ | [el](/f17/language/el) | 2426 | 2440 | 99.4 | /mnt/stockage/packages/f17/baobab/help/el/el.po/mnt/stockage/packages/f17/baobab/po/el.po | 
+ | [bn](/f17/language/bn) | 526 | 540 | 97.4 | /mnt/stockage/packages/f17/baobab/po/bn.po | 
+ | [br](/f17/language/br) | 526 | 540 | 97.4 | /mnt/stockage/packages/f17/baobab/po/br.po | 
+ | [or](/f17/language/or) | 526 | 540 | 97.4 | /mnt/stockage/packages/f17/baobab/po/or.po | 
+ | [gl](/f17/language/gl) | 1311 | 1369 | 95.8 | /mnt/stockage/packages/f17/baobab/help/gl/gl.po/mnt/stockage/packages/f17/baobab/po/gl.po | 
+ | [gu](/f17/language/gu) | 506 | 540 | 93.7 | /mnt/stockage/packages/f17/baobab/po/gu.po | 
+ | [hi](/f17/language/hi) | 506 | 540 | 93.7 | /mnt/stockage/packages/f17/baobab/po/hi.po | 
+ | [mr](/f17/language/mr) | 506 | 540 | 93.7 | /mnt/stockage/packages/f17/baobab/po/mr.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 2385 | 2959 | 80.6 | /mnt/stockage/packages/f17/baobab/help/zh_TW/zh_TW.po/mnt/stockage/packages/f17/baobab/po/zh_TW.po/mnt/stockage/packages/f17/baobab/po/zh_HK.po | 
+ | [error](/f17/language/error) | 413 | 540 | 76.5 | /mnt/stockage/packages/f17/baobab/po/en@shaw.po | 
+ | [eo](/f17/language/eo) | 393 | 549 | 71.6 | /mnt/stockage/packages/f17/baobab/po/eo.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 1287 | 1861 | 69.2 | /mnt/stockage/packages/f17/baobab/help/zh_HK/zh_HK.po | 
+ | [be_Latn](/f17/language/be_Latn) | 370 | 540 | 68.5 | /mnt/stockage/packages/f17/baobab/po/be@latin.po | 
+ | [mk](/f17/language/mk) | 370 | 540 | 68.5 | /mnt/stockage/packages/f17/baobab/po/mk.po | 
+ | [ga](/f17/language/ga) | 336 | 540 | 62.2 | /mnt/stockage/packages/f17/baobab/po/ga.po | 
+ | [nn](/f17/language/nn) | 299 | 540 | 55.4 | /mnt/stockage/packages/f17/baobab/po/nn.po | 
+ | [mai](/f17/language/mai) | 287 | 540 | 53.1 | /mnt/stockage/packages/f17/baobab/po/mai.po | 
+ | [dz](/f17/language/dz) | 285 | 540 | 52.8 | /mnt/stockage/packages/f17/baobab/po/dz.po | 
+ | [ne](/f17/language/ne) | 285 | 540 | 52.8 | /mnt/stockage/packages/f17/baobab/po/ne.po | 
+ | [ps](/f17/language/ps) | 282 | 540 | 52.2 | /mnt/stockage/packages/f17/baobab/po/ps.po | 
+ | [af](/f17/language/af) | 229 | 540 | 42.4 | /mnt/stockage/packages/f17/baobab/po/af.po | 
+ | [si](/f17/language/si) | 210 | 540 | 38.9 | /mnt/stockage/packages/f17/baobab/po/si.po | 
+ | [pt_BR](/f17/language/pt_BR) | 837 | 2410 | 34.7 | /mnt/stockage/packages/f17/baobab/help/pt_BR/pt_BR.po/mnt/stockage/packages/f17/baobab/po/pt_BR.po | 
+ | [cy](/f17/language/cy) | 132 | 540 | 24.4 | /mnt/stockage/packages/f17/baobab/po/cy.po | 
+ | [mg](/f17/language/mg) | 132 | 540 | 24.4 | /mnt/stockage/packages/f17/baobab/po/mg.po | 
+ | [ku](/f17/language/ku) | 118 | 540 | 21.9 | /mnt/stockage/packages/f17/baobab/po/ku.po | 
+ | [nds](/f17/language/nds) | 84 | 540 | 15.6 | /mnt/stockage/packages/f17/baobab/po/nds.po | 
+ | [hr](/f17/language/hr) | 32 | 540 | 5.9 | /mnt/stockage/packages/f17/baobab/po/hr.po | 
+ | [oc](/f17/language/oc) | 126 | 2440 | 5.2 | /mnt/stockage/packages/f17/baobab/help/oc/oc.po/mnt/stockage/packages/f17/baobab/po/oc.po | 
+ | [sq](/f17/language/sq) | 23 | 540 | 4.3 | /mnt/stockage/packages/f17/baobab/po/sq.po | 
+ | [xh](/f17/language/xh) | 23 | 540 | 4.3 | /mnt/stockage/packages/f17/baobab/po/xh.po | 
+ | [en_CA](/f17/language/en_CA) | 22 | 540 | 4.1 | /mnt/stockage/packages/f17/baobab/po/en_CA.po | 
+ | [ka](/f17/language/ka) | 22 | 540 | 4.1 | /mnt/stockage/packages/f17/baobab/po/ka.po | 
+ | [az](/f17/language/az) | 15 | 540 | 2.8 | /mnt/stockage/packages/f17/baobab/po/az.po | 
+ | [bs](/f17/language/bs) | 15 | 540 | 2.8 | /mnt/stockage/packages/f17/baobab/po/bs.po | 
+ | [ms](/f17/language/ms) | 15 | 540 | 2.8 | /mnt/stockage/packages/f17/baobab/po/ms.po | 
+ | [mn](/f17/language/mn) | 14 | 540 | 2.6 | /mnt/stockage/packages/f17/baobab/po/mn.po | 
+ | [am](/f17/language/am) | 6 | 540 | 1.1 | /mnt/stockage/packages/f17/baobab/po/am.po | 
+ | [wa](/f17/language/wa) | 6 | 540 | 1.1 | /mnt/stockage/packages/f17/baobab/po/wa.po | 
+ | [rw](/f17/language/rw) | 2 | 540 | 0.4 | /mnt/stockage/packages/f17/baobab/po/rw.po | 
 {.sortable}
 
 

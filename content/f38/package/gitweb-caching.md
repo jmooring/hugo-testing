@@ -18,17 +18,17 @@ The package gitweb-caching (version 1.6.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 3458 | 3458 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/de.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/de.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/de.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 3348 | 3348 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/hu.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/hu.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 3368 | 3368 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/ja.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/ja.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 3383 | 3383 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/sv.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/sv.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 3224 | 3226 | 99.9 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/ru.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/ru.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 3449 | 3456 | 99.8 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/it.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/it.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/it.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 3406 | 3442 | 99.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/fr.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/fr.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/fr.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 1887 | 1911 | 98.7 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/el.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/el.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 716 | 732 | 97.8 | /mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/es.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1825 | 1903 | 95.9 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/zh_cn.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/zh_cn.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/nb.po | 
+ | [de](/f38/language/de) | 3458 | 3458 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/de.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/de.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/de.po | 
+ | [hu](/f38/language/hu) | 3348 | 3348 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/hu.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/hu.po | 
+ | [ja](/f38/language/ja) | 3368 | 3368 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/ja.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/ja.po | 
+ | [sv](/f38/language/sv) | 3383 | 3383 | 100.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/sv.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/sv.po | 
+ | [ru](/f38/language/ru) | 3224 | 3226 | 99.9 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/ru.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/ru.po | 
+ | [it](/f38/language/it) | 3449 | 3456 | 99.8 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/it.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/it.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/it.po | 
+ | [fr](/f38/language/fr) | 3406 | 3442 | 99.0 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/fr.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/fr.po/mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/fr.po | 
+ | [el](/f38/language/el) | 1887 | 1911 | 98.7 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/el.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/el.po | 
+ | [es](/f38/language/es) | 716 | 732 | 97.8 | /mnt/stockage/packages/f38/gitweb-caching/gitk-git/po/es.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1825 | 1903 | 95.9 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/zh_cn.po/mnt/stockage/packages/f38/gitweb-caching/git-gui/po/glossary/zh_cn.po | 
+ | [nb_NO](/f38/language/nb_NO) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f38/gitweb-caching/git-gui/po/nb.po | 
 {.sortable}
 
 

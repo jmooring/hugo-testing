@@ -18,93 +18,93 @@ The package kmenuedit (version 5.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/bs/kmenuedit.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ca/kmenuedit.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ca@valencia/kmenuedit.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/da/kmenuedit.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/de/kmenuedit.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/el/kmenuedit.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/en_GB/kmenuedit.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/cs/kmenuedit.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/es/kmenuedit.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/et/kmenuedit.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/eu/kmenuedit.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/fi/kmenuedit.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/fr/kmenuedit.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/gl/kmenuedit.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/he/kmenuedit.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/hu/kmenuedit.po | 
- | [ia]({{< ref "/f26/language/ia.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ia/kmenuedit.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/id/kmenuedit.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/it/kmenuedit.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/kk/kmenuedit.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ko/kmenuedit.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/lt/kmenuedit.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nb/kmenuedit.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nds/kmenuedit.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nl/kmenuedit.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nn/kmenuedit.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/pl/kmenuedit.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/pt/kmenuedit.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/pt_BR/kmenuedit.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ro/kmenuedit.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ru/kmenuedit.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sk/kmenuedit.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sl/kmenuedit.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr/kmenuedit.po | 
- | [sr@ijekavian]({{< ref "/f26/language/sr@ijekavian.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr@ijekavian/kmenuedit.po | 
- | [sr@ijekavian_Latn]({{< ref "/f26/language/sr@ijekavian_Latn.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr@ijekavianlatin/kmenuedit.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr@latin/kmenuedit.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sv/kmenuedit.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/tr/kmenuedit.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/uk/kmenuedit.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/zh_CN/kmenuedit.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/zh_TW/kmenuedit.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ar/kmenuedit.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/bg/kmenuedit.po | 
- | [csb]({{< ref "/f26/language/csb.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/csb/kmenuedit.po | 
- | [fy]({{< ref "/f26/language/fy.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/fy/kmenuedit.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ga/kmenuedit.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/hr/kmenuedit.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/is/kmenuedit.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ja/kmenuedit.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/km/kmenuedit.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/lv/kmenuedit.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/mk/kmenuedit.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ms/kmenuedit.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/si/kmenuedit.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/th/kmenuedit.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/vi/kmenuedit.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 240 | 277 | 86.6 | /mnt/stockage/packages/f26/kmenuedit/po/gu/kmenuedit.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 240 | 277 | 86.6 | /mnt/stockage/packages/f26/kmenuedit/po/ml/kmenuedit.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 240 | 277 | 86.6 | /mnt/stockage/packages/f26/kmenuedit/po/pa/kmenuedit.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 211 | 277 | 76.2 | /mnt/stockage/packages/f26/kmenuedit/po/fa/kmenuedit.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 202 | 277 | 72.9 | /mnt/stockage/packages/f26/kmenuedit/po/mr/kmenuedit.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 197 | 277 | 71.1 | /mnt/stockage/packages/f26/kmenuedit/po/eo/kmenuedit.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 191 | 277 | 69.0 | /mnt/stockage/packages/f26/kmenuedit/po/be/kmenuedit.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 191 | 277 | 69.0 | /mnt/stockage/packages/f26/kmenuedit/po/kn/kmenuedit.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 191 | 277 | 69.0 | /mnt/stockage/packages/f26/kmenuedit/po/ne/kmenuedit.po | 
- | [wa]({{< ref "/f26/language/wa.md" >}}) | 179 | 277 | 64.6 | /mnt/stockage/packages/f26/kmenuedit/po/wa/kmenuedit.po | 
- | [se]({{< ref "/f26/language/se.md" >}}) | 176 | 277 | 63.5 | /mnt/stockage/packages/f26/kmenuedit/po/se/kmenuedit.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 172 | 277 | 62.1 | /mnt/stockage/packages/f26/kmenuedit/po/af/kmenuedit.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 172 | 277 | 62.1 | /mnt/stockage/packages/f26/kmenuedit/po/ta/kmenuedit.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 160 | 277 | 57.8 | /mnt/stockage/packages/f26/kmenuedit/po/bn_IN/kmenuedit.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 311 | 554 | 56.1 | /mnt/stockage/packages/f26/kmenuedit/po/hne/kmenuedit.po/mnt/stockage/packages/f26/kmenuedit/po/hi/kmenuedit.po | 
- | [mai]({{< ref "/f26/language/mai.md" >}}) | 150 | 277 | 54.2 | /mnt/stockage/packages/f26/kmenuedit/po/mai/kmenuedit.po | 
- | [cy]({{< ref "/f26/language/cy.md" >}}) | 146 | 277 | 52.7 | /mnt/stockage/packages/f26/kmenuedit/po/cy/kmenuedit.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 121 | 277 | 43.7 | /mnt/stockage/packages/f26/kmenuedit/po/ku/kmenuedit.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 107 | 277 | 38.6 | /mnt/stockage/packages/f26/kmenuedit/po/tg/kmenuedit.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 101 | 277 | 36.5 | /mnt/stockage/packages/f26/kmenuedit/po/ug/kmenuedit.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 97 | 277 | 35.0 | /mnt/stockage/packages/f26/kmenuedit/po/bn/kmenuedit.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 96 | 277 | 34.7 | /mnt/stockage/packages/f26/kmenuedit/po/sq/kmenuedit.po | 
- | [uz]({{< ref "/f26/language/uz.md" >}}) | 172 | 554 | 31.0 | /mnt/stockage/packages/f26/kmenuedit/po/uz/kmenuedit.po/mnt/stockage/packages/f26/kmenuedit/po/uz@cyrillic/kmenuedit.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 61 | 277 | 22.0 | /mnt/stockage/packages/f26/kmenuedit/po/br/kmenuedit.po | 
- | [xh]({{< ref "/f26/language/xh.md" >}}) | 36 | 277 | 13.0 | /mnt/stockage/packages/f26/kmenuedit/po/xh/kmenuedit.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 25 | 277 | 9.0 | /mnt/stockage/packages/f26/kmenuedit/po/oc/kmenuedit.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 20 | 277 | 7.2 | /mnt/stockage/packages/f26/kmenuedit/po/te/kmenuedit.po | 
- | [hsb]({{< ref "/f26/language/hsb.md" >}}) | 14 | 277 | 5.1 | /mnt/stockage/packages/f26/kmenuedit/po/hsb/kmenuedit.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 4 | 277 | 1.4 | /mnt/stockage/packages/f26/kmenuedit/po/ast/kmenuedit.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 0 | 277 | 0.0 | /mnt/stockage/packages/f26/kmenuedit/po/or/kmenuedit.po | 
+ | [bs](/f26/language/bs) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/bs/kmenuedit.po | 
+ | [ca](/f26/language/ca) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ca/kmenuedit.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ca@valencia/kmenuedit.po | 
+ | [da](/f26/language/da) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/da/kmenuedit.po | 
+ | [de](/f26/language/de) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/de/kmenuedit.po | 
+ | [el](/f26/language/el) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/el/kmenuedit.po | 
+ | [en_GB](/f26/language/en_GB) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/en_GB/kmenuedit.po | 
+ | [en_US](/f26/language/en_US) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/cs/kmenuedit.po | 
+ | [es](/f26/language/es) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/es/kmenuedit.po | 
+ | [et](/f26/language/et) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/et/kmenuedit.po | 
+ | [eu](/f26/language/eu) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/eu/kmenuedit.po | 
+ | [fi](/f26/language/fi) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/fi/kmenuedit.po | 
+ | [fr](/f26/language/fr) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/fr/kmenuedit.po | 
+ | [gl](/f26/language/gl) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/gl/kmenuedit.po | 
+ | [he](/f26/language/he) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/he/kmenuedit.po | 
+ | [hu](/f26/language/hu) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/hu/kmenuedit.po | 
+ | [ia](/f26/language/ia) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ia/kmenuedit.po | 
+ | [id](/f26/language/id) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/id/kmenuedit.po | 
+ | [it](/f26/language/it) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/it/kmenuedit.po | 
+ | [kk](/f26/language/kk) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/kk/kmenuedit.po | 
+ | [ko](/f26/language/ko) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ko/kmenuedit.po | 
+ | [lt](/f26/language/lt) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/lt/kmenuedit.po | 
+ | [nb_NO](/f26/language/nb_NO) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nb/kmenuedit.po | 
+ | [nds](/f26/language/nds) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nds/kmenuedit.po | 
+ | [nl](/f26/language/nl) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nl/kmenuedit.po | 
+ | [nn](/f26/language/nn) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/nn/kmenuedit.po | 
+ | [pl](/f26/language/pl) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/pl/kmenuedit.po | 
+ | [pt](/f26/language/pt) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/pt/kmenuedit.po | 
+ | [pt_BR](/f26/language/pt_BR) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/pt_BR/kmenuedit.po | 
+ | [ro](/f26/language/ro) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ro/kmenuedit.po | 
+ | [ru](/f26/language/ru) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/ru/kmenuedit.po | 
+ | [sk](/f26/language/sk) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sk/kmenuedit.po | 
+ | [sl](/f26/language/sl) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sl/kmenuedit.po | 
+ | [sr](/f26/language/sr) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr/kmenuedit.po | 
+ | [sr@ijekavian](/f26/language/sr@ijekavian) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr@ijekavian/kmenuedit.po | 
+ | [sr@ijekavian_Latn](/f26/language/sr@ijekavian_Latn) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr@ijekavianlatin/kmenuedit.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sr@latin/kmenuedit.po | 
+ | [sv](/f26/language/sv) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/sv/kmenuedit.po | 
+ | [tr](/f26/language/tr) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/tr/kmenuedit.po | 
+ | [uk](/f26/language/uk) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/uk/kmenuedit.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/zh_CN/kmenuedit.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 277 | 277 | 100.0 | /mnt/stockage/packages/f26/kmenuedit/po/zh_TW/kmenuedit.po | 
+ | [ar](/f26/language/ar) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ar/kmenuedit.po | 
+ | [bg](/f26/language/bg) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/bg/kmenuedit.po | 
+ | [csb](/f26/language/csb) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/csb/kmenuedit.po | 
+ | [fy](/f26/language/fy) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/fy/kmenuedit.po | 
+ | [ga](/f26/language/ga) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ga/kmenuedit.po | 
+ | [hr](/f26/language/hr) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/hr/kmenuedit.po | 
+ | [is](/f26/language/is) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/is/kmenuedit.po | 
+ | [ja](/f26/language/ja) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ja/kmenuedit.po | 
+ | [km](/f26/language/km) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/km/kmenuedit.po | 
+ | [lv](/f26/language/lv) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/lv/kmenuedit.po | 
+ | [mk](/f26/language/mk) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/mk/kmenuedit.po | 
+ | [ms](/f26/language/ms) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/ms/kmenuedit.po | 
+ | [si](/f26/language/si) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/si/kmenuedit.po | 
+ | [th](/f26/language/th) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/th/kmenuedit.po | 
+ | [vi](/f26/language/vi) | 254 | 277 | 91.7 | /mnt/stockage/packages/f26/kmenuedit/po/vi/kmenuedit.po | 
+ | [gu](/f26/language/gu) | 240 | 277 | 86.6 | /mnt/stockage/packages/f26/kmenuedit/po/gu/kmenuedit.po | 
+ | [ml](/f26/language/ml) | 240 | 277 | 86.6 | /mnt/stockage/packages/f26/kmenuedit/po/ml/kmenuedit.po | 
+ | [pa](/f26/language/pa) | 240 | 277 | 86.6 | /mnt/stockage/packages/f26/kmenuedit/po/pa/kmenuedit.po | 
+ | [fa](/f26/language/fa) | 211 | 277 | 76.2 | /mnt/stockage/packages/f26/kmenuedit/po/fa/kmenuedit.po | 
+ | [mr](/f26/language/mr) | 202 | 277 | 72.9 | /mnt/stockage/packages/f26/kmenuedit/po/mr/kmenuedit.po | 
+ | [eo](/f26/language/eo) | 197 | 277 | 71.1 | /mnt/stockage/packages/f26/kmenuedit/po/eo/kmenuedit.po | 
+ | [be](/f26/language/be) | 191 | 277 | 69.0 | /mnt/stockage/packages/f26/kmenuedit/po/be/kmenuedit.po | 
+ | [kn](/f26/language/kn) | 191 | 277 | 69.0 | /mnt/stockage/packages/f26/kmenuedit/po/kn/kmenuedit.po | 
+ | [ne](/f26/language/ne) | 191 | 277 | 69.0 | /mnt/stockage/packages/f26/kmenuedit/po/ne/kmenuedit.po | 
+ | [wa](/f26/language/wa) | 179 | 277 | 64.6 | /mnt/stockage/packages/f26/kmenuedit/po/wa/kmenuedit.po | 
+ | [se](/f26/language/se) | 176 | 277 | 63.5 | /mnt/stockage/packages/f26/kmenuedit/po/se/kmenuedit.po | 
+ | [af](/f26/language/af) | 172 | 277 | 62.1 | /mnt/stockage/packages/f26/kmenuedit/po/af/kmenuedit.po | 
+ | [ta](/f26/language/ta) | 172 | 277 | 62.1 | /mnt/stockage/packages/f26/kmenuedit/po/ta/kmenuedit.po | 
+ | [bn_IN](/f26/language/bn_IN) | 160 | 277 | 57.8 | /mnt/stockage/packages/f26/kmenuedit/po/bn_IN/kmenuedit.po | 
+ | [hi](/f26/language/hi) | 311 | 554 | 56.1 | /mnt/stockage/packages/f26/kmenuedit/po/hne/kmenuedit.po/mnt/stockage/packages/f26/kmenuedit/po/hi/kmenuedit.po | 
+ | [mai](/f26/language/mai) | 150 | 277 | 54.2 | /mnt/stockage/packages/f26/kmenuedit/po/mai/kmenuedit.po | 
+ | [cy](/f26/language/cy) | 146 | 277 | 52.7 | /mnt/stockage/packages/f26/kmenuedit/po/cy/kmenuedit.po | 
+ | [ku](/f26/language/ku) | 121 | 277 | 43.7 | /mnt/stockage/packages/f26/kmenuedit/po/ku/kmenuedit.po | 
+ | [tg](/f26/language/tg) | 107 | 277 | 38.6 | /mnt/stockage/packages/f26/kmenuedit/po/tg/kmenuedit.po | 
+ | [ug](/f26/language/ug) | 101 | 277 | 36.5 | /mnt/stockage/packages/f26/kmenuedit/po/ug/kmenuedit.po | 
+ | [bn](/f26/language/bn) | 97 | 277 | 35.0 | /mnt/stockage/packages/f26/kmenuedit/po/bn/kmenuedit.po | 
+ | [sq](/f26/language/sq) | 96 | 277 | 34.7 | /mnt/stockage/packages/f26/kmenuedit/po/sq/kmenuedit.po | 
+ | [uz](/f26/language/uz) | 172 | 554 | 31.0 | /mnt/stockage/packages/f26/kmenuedit/po/uz/kmenuedit.po/mnt/stockage/packages/f26/kmenuedit/po/uz@cyrillic/kmenuedit.po | 
+ | [br](/f26/language/br) | 61 | 277 | 22.0 | /mnt/stockage/packages/f26/kmenuedit/po/br/kmenuedit.po | 
+ | [xh](/f26/language/xh) | 36 | 277 | 13.0 | /mnt/stockage/packages/f26/kmenuedit/po/xh/kmenuedit.po | 
+ | [oc](/f26/language/oc) | 25 | 277 | 9.0 | /mnt/stockage/packages/f26/kmenuedit/po/oc/kmenuedit.po | 
+ | [te](/f26/language/te) | 20 | 277 | 7.2 | /mnt/stockage/packages/f26/kmenuedit/po/te/kmenuedit.po | 
+ | [hsb](/f26/language/hsb) | 14 | 277 | 5.1 | /mnt/stockage/packages/f26/kmenuedit/po/hsb/kmenuedit.po | 
+ | [ast](/f26/language/ast) | 4 | 277 | 1.4 | /mnt/stockage/packages/f26/kmenuedit/po/ast/kmenuedit.po | 
+ | [or](/f26/language/or) | 0 | 277 | 0.0 | /mnt/stockage/packages/f26/kmenuedit/po/or/kmenuedit.po | 
 {.sortable}
 
 

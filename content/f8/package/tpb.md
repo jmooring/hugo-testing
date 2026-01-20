@@ -18,12 +18,12 @@ The package tpb (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/de.po/mnt/stockage/packages/f8/tpb/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/fr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/ja.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 658 | 666 | 98.8 | /mnt/stockage/packages/f8/tpb/po/ru.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 588 | 666 | 88.3 | /mnt/stockage/packages/f8/tpb/po/da.po | 
+ | [cs](/f8/language/cs) | 96 | 96 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/cs.po | 
+ | [de](/f8/language/de) | 799 | 799 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/de.po/mnt/stockage/packages/f8/tpb/po/de.po | 
+ | [fr](/f8/language/fr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/fr.po | 
+ | [ja](/f8/language/ja) | 96 | 96 | 100.0 | /mnt/stockage/packages/f8/tpb/debian/po/ja.po | 
+ | [ru](/f8/language/ru) | 658 | 666 | 98.8 | /mnt/stockage/packages/f8/tpb/po/ru.po | 
+ | [da](/f8/language/da) | 588 | 666 | 88.3 | /mnt/stockage/packages/f8/tpb/po/da.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package qtcurve (version 1.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 5727 | 5727 | 100.0 | /mnt/stockage/packages/f25/qtcurve/po/ko.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 5727 | 5727 | 100.0 | /mnt/stockage/packages/f25/qtcurve/po/ru.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 5814 | 5818 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 5814 | 5818 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 5814 | 5818 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/zh_HK.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 5723 | 5727 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/uk.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 417 | 5727 | 7.3 | /mnt/stockage/packages/f25/qtcurve/po/tr.po | 
+ | [ko](/f25/language/ko) | 5727 | 5727 | 100.0 | /mnt/stockage/packages/f25/qtcurve/po/ko.po | 
+ | [ru](/f25/language/ru) | 5727 | 5727 | 100.0 | /mnt/stockage/packages/f25/qtcurve/po/ru.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 5814 | 5818 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 5814 | 5818 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 5814 | 5818 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/zh_HK.po | 
+ | [uk](/f25/language/uk) | 5723 | 5727 | 99.9 | /mnt/stockage/packages/f25/qtcurve/po/uk.po | 
+ | [tr](/f25/language/tr) | 417 | 5727 | 7.3 | /mnt/stockage/packages/f25/qtcurve/po/tr.po | 
 {.sortable}
 
 

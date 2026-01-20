@@ -18,33 +18,33 @@ The package gnumed (version 1.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 23441 | 24258 | 96.6 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/de.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 43135 | 48490 | 89.0 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ru.po/mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ru_RU.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 19728 | 24245 | 81.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/es.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 9522 | 24245 | 39.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/pt_BR.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 9082 | 24245 | 37.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 8700 | 24245 | 35.9 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/nl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 7738 | 24245 | 31.9 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/pt.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 5461 | 24245 | 22.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/it.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 3470 | 24245 | 14.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/sv.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 2917 | 24245 | 12.0 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/el.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2248 | 24245 | 9.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/pl.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 2233 | 24245 | 9.2 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/sq.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1779 | 24245 | 7.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/cs.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 1386 | 24245 | 5.7 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ca.po | 
- | [en_CA]({{< ref "/f19/language/en_CA.md" >}}) | 910 | 24245 | 3.8 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/en_CA.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 587 | 24245 | 2.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/sr.po | 
- | [en_AU]({{< ref "/f19/language/en_AU.md" >}}) | 355 | 24245 | 1.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/en_AU.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 257 | 24245 | 1.1 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/id.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 157 | 24245 | 0.6 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ar.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 132 | 24245 | 0.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ro.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 130 | 24245 | 0.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/da.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 106 | 24245 | 0.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/uk.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 101 | 24245 | 0.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/zh_TW.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 90 | 24245 | 0.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ka.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 75 | 24245 | 0.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/nb.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 30 | 24245 | 0.1 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/bg.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 27 | 24245 | 0.1 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/tr.po | 
+ | [de](/f19/language/de) | 23441 | 24258 | 96.6 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/de.po | 
+ | [ru](/f19/language/ru) | 43135 | 48490 | 89.0 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ru.po/mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ru_RU.po | 
+ | [es](/f19/language/es) | 19728 | 24245 | 81.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/es.po | 
+ | [pt_BR](/f19/language/pt_BR) | 9522 | 24245 | 39.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/pt_BR.po | 
+ | [fr](/f19/language/fr) | 9082 | 24245 | 37.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/fr.po | 
+ | [nl](/f19/language/nl) | 8700 | 24245 | 35.9 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/nl.po | 
+ | [pt](/f19/language/pt) | 7738 | 24245 | 31.9 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/pt.po | 
+ | [it](/f19/language/it) | 5461 | 24245 | 22.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/it.po | 
+ | [sv](/f19/language/sv) | 3470 | 24245 | 14.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/sv.po | 
+ | [el](/f19/language/el) | 2917 | 24245 | 12.0 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/el.po | 
+ | [pl](/f19/language/pl) | 2248 | 24245 | 9.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/pl.po | 
+ | [sq](/f19/language/sq) | 2233 | 24245 | 9.2 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/sq.po | 
+ | [cs](/f19/language/cs) | 1779 | 24245 | 7.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/cs.po | 
+ | [ca](/f19/language/ca) | 1386 | 24245 | 5.7 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ca.po | 
+ | [en_CA](/f19/language/en_CA) | 910 | 24245 | 3.8 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/en_CA.po | 
+ | [sr](/f19/language/sr) | 587 | 24245 | 2.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/sr.po | 
+ | [en_AU](/f19/language/en_AU) | 355 | 24245 | 1.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/en_AU.po | 
+ | [id](/f19/language/id) | 257 | 24245 | 1.1 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/id.po | 
+ | [ar](/f19/language/ar) | 157 | 24245 | 0.6 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ar.po | 
+ | [ro](/f19/language/ro) | 132 | 24245 | 0.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ro.po | 
+ | [da](/f19/language/da) | 130 | 24245 | 0.5 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/da.po | 
+ | [uk](/f19/language/uk) | 106 | 24245 | 0.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/uk.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 101 | 24245 | 0.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/zh_TW.po | 
+ | [ka](/f19/language/ka) | 90 | 24245 | 0.4 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/ka.po | 
+ | [nb_NO](/f19/language/nb_NO) | 75 | 24245 | 0.3 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/nb.po | 
+ | [bg](/f19/language/bg) | 30 | 24245 | 0.1 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/bg.po | 
+ | [tr](/f19/language/tr) | 27 | 24245 | 0.1 | /mnt/stockage/packages/f19/gnumed/gnumed-client.1.3.6/client/po/tr.po | 
 {.sortable}
 
 

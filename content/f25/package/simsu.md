@@ -18,25 +18,25 @@ The package simsu (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/bg.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/fr.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/lt.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/ms.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/pt.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/ro.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 9 | 81 | 11.1 | /mnt/stockage/packages/f25/simsu/icons/po/cs.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 2 | 81 | 2.5 | /mnt/stockage/packages/f25/simsu/icons/po/he.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/ca.po | 
- | [es_CL]({{< ref "/f25/language/es_CL.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/es_CL.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/hu.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/ru.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/tr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/uk.po | 
+ | [bg](/f25/language/bg) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/bg.po | 
+ | [de](/f25/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/de.po | 
+ | [el](/f25/language/el) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/el.po | 
+ | [es](/f25/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/es.po | 
+ | [fr](/f25/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/fr.po | 
+ | [lt](/f25/language/lt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/lt.po | 
+ | [ms](/f25/language/ms) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/ms.po | 
+ | [nl](/f25/language/nl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/nl.po | 
+ | [pl](/f25/language/pl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/pl.po | 
+ | [pt](/f25/language/pt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/pt.po | 
+ | [ro](/f25/language/ro) | 81 | 81 | 100.0 | /mnt/stockage/packages/f25/simsu/icons/po/ro.po | 
+ | [cs](/f25/language/cs) | 9 | 81 | 11.1 | /mnt/stockage/packages/f25/simsu/icons/po/cs.po | 
+ | [he](/f25/language/he) | 2 | 81 | 2.5 | /mnt/stockage/packages/f25/simsu/icons/po/he.po | 
+ | [ca](/f25/language/ca) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/ca.po | 
+ | [es_CL](/f25/language/es_CL) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/es_CL.po | 
+ | [hu](/f25/language/hu) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/hu.po | 
+ | [ru](/f25/language/ru) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/ru.po | 
+ | [tr](/f25/language/tr) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/tr.po | 
+ | [uk](/f25/language/uk) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/simsu/icons/po/uk.po | 
 {.sortable}
 
 

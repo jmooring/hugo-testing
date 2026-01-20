@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [arandr]({{< ref "/f23/package/arandr.md" >}}) | 172 | 173 | 99.4 | Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/> | 
- | [exaile]({{< ref "/f23/package/exaile.md" >}}) | 3852 | 4006 | 96.2 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
- | [mate-notification-daemon]({{< ref "/f23/package/mate-notification-daemon.md" >}}) | 123 | 139 | 88.5 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [gnome-do]({{< ref "/f23/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
- | [mate-icon-theme]({{< ref "/f23/package/mate-icon-theme.md" >}}) | 3 | 4 | 75.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [cinnamon-translations]({{< ref "/f23/package/cinnamon-translations.md" >}}) | 2172 | 5515 | 39.4 | Sardinian <sc@li.org> | 
- | [atril]({{< ref "/f23/package/atril.md" >}}) | 484 | 1716 | 28.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 1 | 5 | 20.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 431 | 2401 | 18.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [caja]({{< ref "/f23/package/caja.md" >}}) | 496 | 9242 | 5.4 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 8 | 251 | 3.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-media]({{< ref "/f23/package/mate-media.md" >}}) | 7 | 225 | 3.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-menus]({{< ref "/f23/package/mate-menus.md" >}}) | 2 | 97 | 2.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [calibre]({{< ref "/f23/package/calibre.md" >}}) | 3 | 151684 | 0.0 | Sardinian (http://www.transifex.com/calibre/calibre/language/sc/) | 
- | [blivet-gui]({{< ref "/f23/package/blivet-gui.md" >}}) | 0 | 703 | 0.0 | Sardinian | 
- | [lightdm]({{< ref "/f23/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Sardinian <sc@li.org> | 
+ | [arandr](/f23/package/arandr) | 172 | 173 | 99.4 | Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/> | 
+ | [exaile](/f23/package/exaile) | 3852 | 4006 | 96.2 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
+ | [mate-notification-daemon](/f23/package/mate-notification-daemon) | 123 | 139 | 88.5 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [gnome-do](/f23/package/gnome-do) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
+ | [mate-icon-theme](/f23/package/mate-icon-theme) | 3 | 4 | 75.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [cinnamon-translations](/f23/package/cinnamon-translations) | 2172 | 5515 | 39.4 | Sardinian <sc@li.org> | 
+ | [atril](/f23/package/atril) | 484 | 1716 | 28.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 1 | 5 | 20.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 431 | 2401 | 18.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [caja](/f23/package/caja) | 496 | 9242 | 5.4 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [libmatekbd](/f23/package/libmatekbd) | 8 | 251 | 3.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-media](/f23/package/mate-media) | 7 | 225 | 3.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-menus](/f23/package/mate-menus) | 2 | 97 | 2.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [calibre](/f23/package/calibre) | 3 | 151684 | 0.0 | Sardinian (http://www.transifex.com/calibre/calibre/language/sc/) | 
+ | [blivet-gui](/f23/package/blivet-gui) | 0 | 703 | 0.0 | Sardinian | 
+ | [lightdm](/f23/package/lightdm) | 0 | 79 | 0.0 | Sardinian <sc@li.org> | 
 {.sortable}
 
 

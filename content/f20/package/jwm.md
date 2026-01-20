@@ -18,14 +18,14 @@ The package jwm (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/it.po | 
- | [pt_PT]({{< ref "/f20/language/pt_PT.md" >}}) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/pt-PT.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/ru.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 284 | 291 | 97.6 | /mnt/stockage/packages/f20/jwm/po/pl.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 274 | 291 | 94.2 | /mnt/stockage/packages/f20/jwm/po/nl.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 137 | 291 | 47.1 | /mnt/stockage/packages/f20/jwm/po/de.po | 
+ | [es](/f20/language/es) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/es.po | 
+ | [fr](/f20/language/fr) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/fr.po | 
+ | [it](/f20/language/it) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/it.po | 
+ | [pt_PT](/f20/language/pt_PT) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/pt-PT.po | 
+ | [ru](/f20/language/ru) | 288 | 291 | 99.0 | /mnt/stockage/packages/f20/jwm/po/ru.po | 
+ | [pl](/f20/language/pl) | 284 | 291 | 97.6 | /mnt/stockage/packages/f20/jwm/po/pl.po | 
+ | [nl](/f20/language/nl) | 274 | 291 | 94.2 | /mnt/stockage/packages/f20/jwm/po/nl.po | 
+ | [de](/f20/language/de) | 137 | 291 | 47.1 | /mnt/stockage/packages/f20/jwm/po/de.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package xconvers (version 0.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f15/xconvers/po/fr.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f15/xconvers/po/nl.po | 
+ | [fr](/f15/language/fr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f15/xconvers/po/fr.po | 
+ | [nl](/f15/language/nl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f15/xconvers/po/nl.po | 
 {.sortable}
 
 

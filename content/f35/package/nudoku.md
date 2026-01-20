@@ -18,11 +18,11 @@ The package nudoku (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/fr.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/ja.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/ru.po | 
+ | [de](/f35/language/de) | 95 | 95 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/de.po | 
+ | [es](/f35/language/es) | 124 | 124 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/es.po | 
+ | [fr](/f35/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/fr.po | 
+ | [ja](/f35/language/ja) | 124 | 124 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/ja.po | 
+ | [ru](/f35/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f35/nudoku/po/ru.po | 
 {.sortable}
 
 

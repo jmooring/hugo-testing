@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgtop2]({{< ref "/f12/package/libgtop2.md" >}}) | 24 | 126 | 19.0 | Latin <la@li.org> | 
- | [wesnoth]({{< ref "/f12/package/wesnoth.md" >}}) | 23074 | 212636 | 10.9 | Latin | 
- | [byobu]({{< ref "/f12/package/byobu.md" >}}) | 14 | 177 | 7.9 | Latin <la@li.org> | 
- | [gedit]({{< ref "/f12/package/gedit.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [metacity]({{< ref "/f12/package/metacity.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [mutter]({{< ref "/f12/package/mutter.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [yelp]({{< ref "/f12/package/yelp.md" >}}) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
- | [libgnomeprintui22]({{< ref "/f12/package/libgnomeprintui22.md" >}}) | 6 | 481 | 1.2 | Latin <la@li.org> | 
- | [deluge]({{< ref "/f12/package/deluge.md" >}}) | 17 | 1998 | 0.9 | Latin <la@li.org> | 
- | [libgnomeui]({{< ref "/f12/package/libgnomeui.md" >}}) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
- | [warzone2100]({{< ref "/f12/package/warzone2100.md" >}}) | 9 | 12738 | 0.1 | Latin | 
- | [gnome-panel]({{< ref "/f12/package/gnome-panel.md" >}}) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
- | [gnome-do-plugins]({{< ref "/f12/package/gnome-do-plugins.md" >}}) | 0 | 2323 | 0.0 | Latin <la@li.org> | 
+ | [libgtop2](/f12/package/libgtop2) | 24 | 126 | 19.0 | Latin <la@li.org> | 
+ | [wesnoth](/f12/package/wesnoth) | 23074 | 212636 | 10.9 | Latin | 
+ | [byobu](/f12/package/byobu) | 14 | 177 | 7.9 | Latin <la@li.org> | 
+ | [gedit](/f12/package/gedit) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [metacity](/f12/package/metacity) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [mutter](/f12/package/mutter) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [yelp](/f12/package/yelp) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
+ | [libgnomeprintui22](/f12/package/libgnomeprintui22) | 6 | 481 | 1.2 | Latin <la@li.org> | 
+ | [deluge](/f12/package/deluge) | 17 | 1998 | 0.9 | Latin <la@li.org> | 
+ | [libgnomeui](/f12/package/libgnomeui) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
+ | [warzone2100](/f12/package/warzone2100) | 9 | 12738 | 0.1 | Latin | 
+ | [gnome-panel](/f12/package/gnome-panel) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
+ | [gnome-do-plugins](/f12/package/gnome-do-plugins) | 0 | 2323 | 0.0 | Latin <la@li.org> | 
 {.sortable}
 
 

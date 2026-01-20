@@ -18,18 +18,18 @@ The package kid3 (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/it.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 1284 | 1288 | 99.7 | /mnt/stockage/packages/f16/kid3/po/et.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1265 | 1288 | 98.2 | /mnt/stockage/packages/f16/kid3/po/ru.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1176 | 1288 | 91.3 | /mnt/stockage/packages/f16/kid3/po/pl.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 1148 | 1288 | 89.1 | /mnt/stockage/packages/f16/kid3/po/tr.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1114 | 1288 | 86.5 | /mnt/stockage/packages/f16/kid3/po/zh_TW.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 988 | 1288 | 76.7 | /mnt/stockage/packages/f16/kid3/po/nl.po | 
+ | [cs](/f16/language/cs) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/cs.po | 
+ | [de](/f16/language/de) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/de.po | 
+ | [es](/f16/language/es) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/es.po | 
+ | [fi](/f16/language/fi) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/fi.po | 
+ | [fr](/f16/language/fr) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/fr.po | 
+ | [it](/f16/language/it) | 1288 | 1288 | 100.0 | /mnt/stockage/packages/f16/kid3/po/it.po | 
+ | [et](/f16/language/et) | 1284 | 1288 | 99.7 | /mnt/stockage/packages/f16/kid3/po/et.po | 
+ | [ru](/f16/language/ru) | 1265 | 1288 | 98.2 | /mnt/stockage/packages/f16/kid3/po/ru.po | 
+ | [pl](/f16/language/pl) | 1176 | 1288 | 91.3 | /mnt/stockage/packages/f16/kid3/po/pl.po | 
+ | [tr](/f16/language/tr) | 1148 | 1288 | 89.1 | /mnt/stockage/packages/f16/kid3/po/tr.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 1114 | 1288 | 86.5 | /mnt/stockage/packages/f16/kid3/po/zh_TW.po | 
+ | [nl](/f16/language/nl) | 988 | 1288 | 76.7 | /mnt/stockage/packages/f16/kid3/po/nl.po | 
 {.sortable}
 
 

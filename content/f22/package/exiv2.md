@@ -18,13 +18,13 @@ The package exiv2 (version 0.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 14226 | 31329 | 45.4 | /mnt/stockage/packages/f22/exiv2/po/de.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 13399 | 31329 | 42.8 | /mnt/stockage/packages/f22/exiv2/po/pl.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 9910 | 31329 | 31.6 | /mnt/stockage/packages/f22/exiv2/po/sk.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 5064 | 31329 | 16.2 | /mnt/stockage/packages/f22/exiv2/po/fr.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3936 | 31329 | 12.6 | /mnt/stockage/packages/f22/exiv2/po/es.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 3827 | 31329 | 12.2 | /mnt/stockage/packages/f22/exiv2/po/ru.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 844 | 31329 | 2.7 | /mnt/stockage/packages/f22/exiv2/po/fi.po | 
+ | [de](/f22/language/de) | 14226 | 31329 | 45.4 | /mnt/stockage/packages/f22/exiv2/po/de.po | 
+ | [pl](/f22/language/pl) | 13399 | 31329 | 42.8 | /mnt/stockage/packages/f22/exiv2/po/pl.po | 
+ | [sk](/f22/language/sk) | 9910 | 31329 | 31.6 | /mnt/stockage/packages/f22/exiv2/po/sk.po | 
+ | [fr](/f22/language/fr) | 5064 | 31329 | 16.2 | /mnt/stockage/packages/f22/exiv2/po/fr.po | 
+ | [es](/f22/language/es) | 3936 | 31329 | 12.6 | /mnt/stockage/packages/f22/exiv2/po/es.po | 
+ | [ru](/f22/language/ru) | 3827 | 31329 | 12.2 | /mnt/stockage/packages/f22/exiv2/po/ru.po | 
+ | [fi](/f22/language/fi) | 844 | 31329 | 2.7 | /mnt/stockage/packages/f22/exiv2/po/fi.po | 
 {.sortable}
 
 

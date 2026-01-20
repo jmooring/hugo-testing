@@ -18,11 +18,11 @@ The package fcitx-libpinyin (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/ru.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/zh_CN.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 241 | 246 | 98.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/de.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 211 | 246 | 85.8 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/ja.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 118 | 246 | 48.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/zh_TW.po | 
+ | [ru](/f25/language/ru) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/ru.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/zh_CN.po | 
+ | [de](/f25/language/de) | 241 | 246 | 98.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/de.po | 
+ | [ja](/f25/language/ja) | 211 | 246 | 85.8 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/ja.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 118 | 246 | 48.0 | /mnt/stockage/packages/f25/fcitx-libpinyin/po/zh_TW.po | 
 {.sortable}
 
 

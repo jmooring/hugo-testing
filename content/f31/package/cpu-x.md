@@ -18,28 +18,28 @@ The package cpu-x (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/fr.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/ru.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/zh.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 762 | 864 | 88.2 | /mnt/stockage/packages/f31/cpu-x/po/de.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 709 | 864 | 82.1 | /mnt/stockage/packages/f31/cpu-x/po/cs_CZ.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 709 | 864 | 82.1 | /mnt/stockage/packages/f31/cpu-x/po/it.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 709 | 864 | 82.1 | /mnt/stockage/packages/f31/cpu-x/po/pt.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 685 | 864 | 79.3 | /mnt/stockage/packages/f31/cpu-x/po/nb_NO.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 624 | 864 | 72.2 | /mnt/stockage/packages/f31/cpu-x/po/mr.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 577 | 864 | 66.8 | /mnt/stockage/packages/f31/cpu-x/po/es.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 271 | 864 | 31.4 | /mnt/stockage/packages/f31/cpu-x/po/ar.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 269 | 864 | 31.1 | /mnt/stockage/packages/f31/cpu-x/po/ms.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 163 | 864 | 18.9 | /mnt/stockage/packages/f31/cpu-x/po/uk.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 146 | 864 | 16.9 | /mnt/stockage/packages/f31/cpu-x/po/lv.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 65 | 864 | 7.5 | /mnt/stockage/packages/f31/cpu-x/po/zh_Hant.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 45 | 864 | 5.2 | /mnt/stockage/packages/f31/cpu-x/po/id.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 31 | 864 | 3.6 | /mnt/stockage/packages/f31/cpu-x/po/ja.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 3 | 864 | 0.3 | /mnt/stockage/packages/f31/cpu-x/po/el.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 0 | 864 | 0.0 | /mnt/stockage/packages/f31/cpu-x/po/ko.po | 
+ | [fr](/f31/language/fr) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/fr.po | 
+ | [pl](/f31/language/pl) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/ru.po | 
+ | [tr](/f31/language/tr) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 864 | 864 | 100.0 | /mnt/stockage/packages/f31/cpu-x/po/zh.po | 
+ | [de](/f31/language/de) | 762 | 864 | 88.2 | /mnt/stockage/packages/f31/cpu-x/po/de.po | 
+ | [cs](/f31/language/cs) | 709 | 864 | 82.1 | /mnt/stockage/packages/f31/cpu-x/po/cs_CZ.po | 
+ | [it](/f31/language/it) | 709 | 864 | 82.1 | /mnt/stockage/packages/f31/cpu-x/po/it.po | 
+ | [pt](/f31/language/pt) | 709 | 864 | 82.1 | /mnt/stockage/packages/f31/cpu-x/po/pt.po | 
+ | [nb_NO](/f31/language/nb_NO) | 685 | 864 | 79.3 | /mnt/stockage/packages/f31/cpu-x/po/nb_NO.po | 
+ | [mr](/f31/language/mr) | 624 | 864 | 72.2 | /mnt/stockage/packages/f31/cpu-x/po/mr.po | 
+ | [es](/f31/language/es) | 577 | 864 | 66.8 | /mnt/stockage/packages/f31/cpu-x/po/es.po | 
+ | [ar](/f31/language/ar) | 271 | 864 | 31.4 | /mnt/stockage/packages/f31/cpu-x/po/ar.po | 
+ | [ms](/f31/language/ms) | 269 | 864 | 31.1 | /mnt/stockage/packages/f31/cpu-x/po/ms.po | 
+ | [uk](/f31/language/uk) | 163 | 864 | 18.9 | /mnt/stockage/packages/f31/cpu-x/po/uk.po | 
+ | [lv](/f31/language/lv) | 146 | 864 | 16.9 | /mnt/stockage/packages/f31/cpu-x/po/lv.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 65 | 864 | 7.5 | /mnt/stockage/packages/f31/cpu-x/po/zh_Hant.po | 
+ | [id](/f31/language/id) | 45 | 864 | 5.2 | /mnt/stockage/packages/f31/cpu-x/po/id.po | 
+ | [ja](/f31/language/ja) | 31 | 864 | 3.6 | /mnt/stockage/packages/f31/cpu-x/po/ja.po | 
+ | [el](/f31/language/el) | 3 | 864 | 0.3 | /mnt/stockage/packages/f31/cpu-x/po/el.po | 
+ | [ko](/f31/language/ko) | 0 | 864 | 0.0 | /mnt/stockage/packages/f31/cpu-x/po/ko.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package gnome-shell-extension-forge (version 89):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 311 | 322 | 96.6 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/tr.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 122 | 322 | 37.9 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/pt_BR.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 81 | 322 | 25.2 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/es.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 72 | 322 | 22.4 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/it.po | 
- | [fr_CA]({{< ref "/f43/language/fr_CA.md" >}}) | 42 | 322 | 13.0 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/fr.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 16 | 322 | 5.0 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/nl.po | 
+ | [tr](/f43/language/tr) | 311 | 322 | 96.6 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/tr.po | 
+ | [pt_BR](/f43/language/pt_BR) | 122 | 322 | 37.9 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/pt_BR.po | 
+ | [es](/f43/language/es) | 81 | 322 | 25.2 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/es.po | 
+ | [it](/f43/language/it) | 72 | 322 | 22.4 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/it.po | 
+ | [fr_CA](/f43/language/fr_CA) | 42 | 322 | 13.0 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/fr.po | 
+ | [nl](/f43/language/nl) | 16 | 322 | 5.0 | /mnt/stockage/packages/f43/gnome-shell-extension-forge/po/nl.po | 
 {.sortable}
 
 

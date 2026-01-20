@@ -18,27 +18,27 @@ The package zathura (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f27/zathura/po/de.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 583 | 590 | 98.8 | /mnt/stockage/packages/f27/zathura/po/cs.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 477 | 590 | 80.8 | /mnt/stockage/packages/f27/zathura/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 477 | 590 | 80.8 | /mnt/stockage/packages/f27/zathura/po/ru.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 465 | 590 | 78.8 | /mnt/stockage/packages/f27/zathura/po/fr.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 448 | 590 | 75.9 | /mnt/stockage/packages/f27/zathura/po/id_ID.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 400 | 590 | 67.8 | /mnt/stockage/packages/f27/zathura/po/pl.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 372 | 590 | 63.1 | /mnt/stockage/packages/f27/zathura/po/no.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 365 | 590 | 61.9 | /mnt/stockage/packages/f27/zathura/po/lt.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 359 | 590 | 60.8 | /mnt/stockage/packages/f27/zathura/po/ca.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 345 | 590 | 58.5 | /mnt/stockage/packages/f27/zathura/po/it.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 343 | 590 | 58.1 | /mnt/stockage/packages/f27/zathura/po/es.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 336 | 590 | 56.9 | /mnt/stockage/packages/f27/zathura/po/tr.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 327 | 590 | 55.4 | /mnt/stockage/packages/f27/zathura/po/el.po | 
- | [es_CL]({{< ref "/f27/language/es_CL.md" >}}) | 237 | 590 | 40.2 | /mnt/stockage/packages/f27/zathura/po/es_CL.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 233 | 590 | 39.5 | /mnt/stockage/packages/f27/zathura/po/eo.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 224 | 590 | 38.0 | /mnt/stockage/packages/f27/zathura/po/uk_UA.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 129 | 590 | 21.9 | /mnt/stockage/packages/f27/zathura/po/ta_IN.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 49 | 590 | 8.3 | /mnt/stockage/packages/f27/zathura/po/et.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 0 | 590 | 0.0 | /mnt/stockage/packages/f27/zathura/po/he.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 0 | 590 | 0.0 | /mnt/stockage/packages/f27/zathura/po/hr.po | 
+ | [de](/f27/language/de) | 590 | 590 | 100.0 | /mnt/stockage/packages/f27/zathura/po/de.po | 
+ | [cs](/f27/language/cs) | 583 | 590 | 98.8 | /mnt/stockage/packages/f27/zathura/po/cs.po | 
+ | [pt_BR](/f27/language/pt_BR) | 477 | 590 | 80.8 | /mnt/stockage/packages/f27/zathura/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 477 | 590 | 80.8 | /mnt/stockage/packages/f27/zathura/po/ru.po | 
+ | [fr](/f27/language/fr) | 465 | 590 | 78.8 | /mnt/stockage/packages/f27/zathura/po/fr.po | 
+ | [id](/f27/language/id) | 448 | 590 | 75.9 | /mnt/stockage/packages/f27/zathura/po/id_ID.po | 
+ | [pl](/f27/language/pl) | 400 | 590 | 67.8 | /mnt/stockage/packages/f27/zathura/po/pl.po | 
+ | [nb_NO](/f27/language/nb_NO) | 372 | 590 | 63.1 | /mnt/stockage/packages/f27/zathura/po/no.po | 
+ | [lt](/f27/language/lt) | 365 | 590 | 61.9 | /mnt/stockage/packages/f27/zathura/po/lt.po | 
+ | [ca](/f27/language/ca) | 359 | 590 | 60.8 | /mnt/stockage/packages/f27/zathura/po/ca.po | 
+ | [it](/f27/language/it) | 345 | 590 | 58.5 | /mnt/stockage/packages/f27/zathura/po/it.po | 
+ | [es](/f27/language/es) | 343 | 590 | 58.1 | /mnt/stockage/packages/f27/zathura/po/es.po | 
+ | [tr](/f27/language/tr) | 336 | 590 | 56.9 | /mnt/stockage/packages/f27/zathura/po/tr.po | 
+ | [el](/f27/language/el) | 327 | 590 | 55.4 | /mnt/stockage/packages/f27/zathura/po/el.po | 
+ | [es_CL](/f27/language/es_CL) | 237 | 590 | 40.2 | /mnt/stockage/packages/f27/zathura/po/es_CL.po | 
+ | [eo](/f27/language/eo) | 233 | 590 | 39.5 | /mnt/stockage/packages/f27/zathura/po/eo.po | 
+ | [uk](/f27/language/uk) | 224 | 590 | 38.0 | /mnt/stockage/packages/f27/zathura/po/uk_UA.po | 
+ | [ta](/f27/language/ta) | 129 | 590 | 21.9 | /mnt/stockage/packages/f27/zathura/po/ta_IN.po | 
+ | [et](/f27/language/et) | 49 | 590 | 8.3 | /mnt/stockage/packages/f27/zathura/po/et.po | 
+ | [he](/f27/language/he) | 0 | 590 | 0.0 | /mnt/stockage/packages/f27/zathura/po/he.po | 
+ | [hr](/f27/language/hr) | 0 | 590 | 0.0 | /mnt/stockage/packages/f27/zathura/po/hr.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package wcd (version 5.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 1515 | 1515 | 100.0 | /mnt/stockage/packages/f17/wcd/src/po/de.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 1304 | 1515 | 86.1 | /mnt/stockage/packages/f17/wcd/src/po/fi.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1300 | 1515 | 85.8 | /mnt/stockage/packages/f17/wcd/src/po/es.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1286 | 1515 | 84.9 | /mnt/stockage/packages/f17/wcd/src/po/nl.po | 
+ | [de](/f17/language/de) | 1515 | 1515 | 100.0 | /mnt/stockage/packages/f17/wcd/src/po/de.po | 
+ | [fi](/f17/language/fi) | 1304 | 1515 | 86.1 | /mnt/stockage/packages/f17/wcd/src/po/fi.po | 
+ | [es](/f17/language/es) | 1300 | 1515 | 85.8 | /mnt/stockage/packages/f17/wcd/src/po/es.po | 
+ | [nl](/f17/language/nl) | 1286 | 1515 | 84.9 | /mnt/stockage/packages/f17/wcd/src/po/nl.po | 
 {.sortable}
 
 

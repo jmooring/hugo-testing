@@ -18,34 +18,34 @@ The package gphoto2 (version 2.5.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/fr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/hu.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/ru.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/sv.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/vi.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/zh_TW.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1672 | 1761 | 94.9 | /mnt/stockage/packages/f34/gphoto2/po/it.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 1627 | 1761 | 92.4 | /mnt/stockage/packages/f34/gphoto2/po/da.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1627 | 1761 | 92.4 | /mnt/stockage/packages/f34/gphoto2/po/nl.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 1611 | 1761 | 91.5 | /mnt/stockage/packages/f34/gphoto2/po/id.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1604 | 1761 | 91.1 | /mnt/stockage/packages/f34/gphoto2/po/de.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 1579 | 1761 | 89.7 | /mnt/stockage/packages/f34/gphoto2/po/zh_CN.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1442 | 1761 | 81.9 | /mnt/stockage/packages/f34/gphoto2/po/ja.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 1273 | 1761 | 72.3 | /mnt/stockage/packages/f34/gphoto2/po/cs.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 1185 | 1761 | 67.3 | /mnt/stockage/packages/f34/gphoto2/po/ro.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 800 | 1761 | 45.4 | /mnt/stockage/packages/f34/gphoto2/po/eu.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 800 | 1761 | 45.4 | /mnt/stockage/packages/f34/gphoto2/po/sk.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 727 | 1761 | 41.3 | /mnt/stockage/packages/f34/gphoto2/po/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 727 | 1761 | 41.3 | /mnt/stockage/packages/f34/gphoto2/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 727 | 1761 | 41.3 | /mnt/stockage/packages/f34/gphoto2/po/fi.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 721 | 1761 | 40.9 | /mnt/stockage/packages/f34/gphoto2/po/pa.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 273 | 1761 | 15.5 | /mnt/stockage/packages/f34/gphoto2/po/az.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 220 | 1761 | 12.5 | /mnt/stockage/packages/f34/gphoto2/po/is.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 17 | 1761 | 1.0 | /mnt/stockage/packages/f34/gphoto2/po/rw.po | 
+ | [fr](/f34/language/fr) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/fr.po | 
+ | [hu](/f34/language/hu) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/hu.po | 
+ | [pl](/f34/language/pl) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/ru.po | 
+ | [sr](/f34/language/sr) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/sr.po | 
+ | [sv](/f34/language/sv) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/sv.po | 
+ | [uk](/f34/language/uk) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/uk.po | 
+ | [vi](/f34/language/vi) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/vi.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1674 | 1761 | 95.1 | /mnt/stockage/packages/f34/gphoto2/po/zh_TW.po | 
+ | [it](/f34/language/it) | 1672 | 1761 | 94.9 | /mnt/stockage/packages/f34/gphoto2/po/it.po | 
+ | [da](/f34/language/da) | 1627 | 1761 | 92.4 | /mnt/stockage/packages/f34/gphoto2/po/da.po | 
+ | [nl](/f34/language/nl) | 1627 | 1761 | 92.4 | /mnt/stockage/packages/f34/gphoto2/po/nl.po | 
+ | [id](/f34/language/id) | 1611 | 1761 | 91.5 | /mnt/stockage/packages/f34/gphoto2/po/id.po | 
+ | [de](/f34/language/de) | 1604 | 1761 | 91.1 | /mnt/stockage/packages/f34/gphoto2/po/de.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 1579 | 1761 | 89.7 | /mnt/stockage/packages/f34/gphoto2/po/zh_CN.po | 
+ | [ja](/f34/language/ja) | 1442 | 1761 | 81.9 | /mnt/stockage/packages/f34/gphoto2/po/ja.po | 
+ | [cs](/f34/language/cs) | 1273 | 1761 | 72.3 | /mnt/stockage/packages/f34/gphoto2/po/cs.po | 
+ | [ro](/f34/language/ro) | 1185 | 1761 | 67.3 | /mnt/stockage/packages/f34/gphoto2/po/ro.po | 
+ | [eu](/f34/language/eu) | 800 | 1761 | 45.4 | /mnt/stockage/packages/f34/gphoto2/po/eu.po | 
+ | [sk](/f34/language/sk) | 800 | 1761 | 45.4 | /mnt/stockage/packages/f34/gphoto2/po/sk.po | 
+ | [en_GB](/f34/language/en_GB) | 727 | 1761 | 41.3 | /mnt/stockage/packages/f34/gphoto2/po/en_GB.po | 
+ | [es](/f34/language/es) | 727 | 1761 | 41.3 | /mnt/stockage/packages/f34/gphoto2/po/es.po | 
+ | [fi](/f34/language/fi) | 727 | 1761 | 41.3 | /mnt/stockage/packages/f34/gphoto2/po/fi.po | 
+ | [pa](/f34/language/pa) | 721 | 1761 | 40.9 | /mnt/stockage/packages/f34/gphoto2/po/pa.po | 
+ | [az](/f34/language/az) | 273 | 1761 | 15.5 | /mnt/stockage/packages/f34/gphoto2/po/az.po | 
+ | [is](/f34/language/is) | 220 | 1761 | 12.5 | /mnt/stockage/packages/f34/gphoto2/po/is.po | 
+ | [rw](/f34/language/rw) | 17 | 1761 | 1.0 | /mnt/stockage/packages/f34/gphoto2/po/rw.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package neon (version 0.27.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 327 | 487 | 67.1 | /mnt/stockage/packages/f8/neon/po/zh.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/de.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/nn.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/tr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 32 | 487 | 6.6 | /mnt/stockage/packages/f8/neon/po/ja.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 0 | 487 | 0.0 | /mnt/stockage/packages/f8/neon/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 0 | 487 | 0.0 | /mnt/stockage/packages/f8/neon/po/ru.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 327 | 487 | 67.1 | /mnt/stockage/packages/f8/neon/po/zh.po | 
+ | [cs](/f8/language/cs) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/cs.po | 
+ | [de](/f8/language/de) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/de.po | 
+ | [nn](/f8/language/nn) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/nn.po | 
+ | [tr](/f8/language/tr) | 76 | 487 | 15.6 | /mnt/stockage/packages/f8/neon/po/tr.po | 
+ | [ja](/f8/language/ja) | 32 | 487 | 6.6 | /mnt/stockage/packages/f8/neon/po/ja.po | 
+ | [fr](/f8/language/fr) | 0 | 487 | 0.0 | /mnt/stockage/packages/f8/neon/po/fr.po | 
+ | [ru](/f8/language/ru) | 0 | 487 | 0.0 | /mnt/stockage/packages/f8/neon/po/ru.po | 
 {.sortable}
 
 

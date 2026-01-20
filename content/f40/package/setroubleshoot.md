@@ -18,59 +18,59 @@ The package setroubleshoot (version 3.3.35):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/en_GB.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/fr.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/ja.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/ka.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/pl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/zh_CN.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 630 | 640 | 98.4 | /mnt/stockage/packages/f40/setroubleshoot/po/nl.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 614 | 640 | 95.9 | /mnt/stockage/packages/f40/setroubleshoot/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 613 | 640 | 95.8 | /mnt/stockage/packages/f40/setroubleshoot/po/es.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 609 | 640 | 95.2 | /mnt/stockage/packages/f40/setroubleshoot/po/fur.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 588 | 640 | 91.9 | /mnt/stockage/packages/f40/setroubleshoot/po/pt_BR.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 584 | 640 | 91.2 | /mnt/stockage/packages/f40/setroubleshoot/po/da.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/cs.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/it.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/sk.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/zh_TW.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 569 | 640 | 88.9 | /mnt/stockage/packages/f40/setroubleshoot/po/ca.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 527 | 640 | 82.3 | /mnt/stockage/packages/f40/setroubleshoot/po/pa.po | 
- | [as]({{< ref "/f40/language/as.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/as.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/bg.po | 
- | [bn_IN]({{< ref "/f40/language/bn_IN.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/bn_IN.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/gu.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/hu.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/kn.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/ml.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/ta.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/te.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 510 | 640 | 79.7 | /mnt/stockage/packages/f40/setroubleshoot/po/mr.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 510 | 640 | 79.7 | /mnt/stockage/packages/f40/setroubleshoot/po/or.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 505 | 640 | 78.9 | /mnt/stockage/packages/f40/setroubleshoot/po/hi.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 492 | 640 | 76.9 | /mnt/stockage/packages/f40/setroubleshoot/po/pt.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 423 | 640 | 66.1 | /mnt/stockage/packages/f40/setroubleshoot/po/bn.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 310 | 640 | 48.4 | /mnt/stockage/packages/f40/setroubleshoot/po/nn.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 286 | 640 | 44.7 | /mnt/stockage/packages/f40/setroubleshoot/po/he.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 239 | 640 | 37.3 | /mnt/stockage/packages/f40/setroubleshoot/po/sr.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 239 | 640 | 37.3 | /mnt/stockage/packages/f40/setroubleshoot/po/sr@latin.po | 
- | [mai]({{< ref "/f40/language/mai.md" >}}) | 140 | 640 | 21.9 | /mnt/stockage/packages/f40/setroubleshoot/po/mai.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 130 | 640 | 20.3 | /mnt/stockage/packages/f40/setroubleshoot/po/th.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 112 | 640 | 17.5 | /mnt/stockage/packages/f40/setroubleshoot/po/gl.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 80 | 640 | 12.5 | /mnt/stockage/packages/f40/setroubleshoot/po/nb.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 55 | 640 | 8.6 | /mnt/stockage/packages/f40/setroubleshoot/po/hr.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 38 | 640 | 5.9 | /mnt/stockage/packages/f40/setroubleshoot/po/ms.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 33 | 640 | 5.2 | /mnt/stockage/packages/f40/setroubleshoot/po/eu.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 17 | 640 | 2.7 | /mnt/stockage/packages/f40/setroubleshoot/po/nds.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 12 | 640 | 1.9 | /mnt/stockage/packages/f40/setroubleshoot/po/el.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 2 | 640 | 0.3 | /mnt/stockage/packages/f40/setroubleshoot/po/ar.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 2 | 640 | 0.3 | /mnt/stockage/packages/f40/setroubleshoot/po/si.po | 
+ | [en_GB](/f40/language/en_GB) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/en_GB.po | 
+ | [fi](/f40/language/fi) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/fi.po | 
+ | [fr](/f40/language/fr) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/fr.po | 
+ | [ja](/f40/language/ja) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/ja.po | 
+ | [ka](/f40/language/ka) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/ka.po | 
+ | [ko](/f40/language/ko) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/ko.po | 
+ | [pl](/f40/language/pl) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/pl.po | 
+ | [sv](/f40/language/sv) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/sv.po | 
+ | [tr](/f40/language/tr) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/tr.po | 
+ | [uk](/f40/language/uk) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 640 | 640 | 100.0 | /mnt/stockage/packages/f40/setroubleshoot/po/zh_CN.po | 
+ | [nl](/f40/language/nl) | 630 | 640 | 98.4 | /mnt/stockage/packages/f40/setroubleshoot/po/nl.po | 
+ | [de](/f40/language/de) | 614 | 640 | 95.9 | /mnt/stockage/packages/f40/setroubleshoot/po/de.po | 
+ | [es](/f40/language/es) | 613 | 640 | 95.8 | /mnt/stockage/packages/f40/setroubleshoot/po/es.po | 
+ | [fur](/f40/language/fur) | 609 | 640 | 95.2 | /mnt/stockage/packages/f40/setroubleshoot/po/fur.po | 
+ | [pt_BR](/f40/language/pt_BR) | 588 | 640 | 91.9 | /mnt/stockage/packages/f40/setroubleshoot/po/pt_BR.po | 
+ | [da](/f40/language/da) | 584 | 640 | 91.2 | /mnt/stockage/packages/f40/setroubleshoot/po/da.po | 
+ | [cs](/f40/language/cs) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/cs.po | 
+ | [it](/f40/language/it) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/it.po | 
+ | [ru](/f40/language/ru) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/ru.po | 
+ | [sk](/f40/language/sk) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/sk.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 578 | 640 | 90.3 | /mnt/stockage/packages/f40/setroubleshoot/po/zh_TW.po | 
+ | [ca](/f40/language/ca) | 569 | 640 | 88.9 | /mnt/stockage/packages/f40/setroubleshoot/po/ca.po | 
+ | [pa](/f40/language/pa) | 527 | 640 | 82.3 | /mnt/stockage/packages/f40/setroubleshoot/po/pa.po | 
+ | [as](/f40/language/as) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/as.po | 
+ | [bg](/f40/language/bg) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/bg.po | 
+ | [bn_IN](/f40/language/bn_IN) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/bn_IN.po | 
+ | [gu](/f40/language/gu) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/gu.po | 
+ | [hu](/f40/language/hu) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/hu.po | 
+ | [kn](/f40/language/kn) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/kn.po | 
+ | [ml](/f40/language/ml) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/ml.po | 
+ | [ta](/f40/language/ta) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/ta.po | 
+ | [te](/f40/language/te) | 522 | 640 | 81.6 | /mnt/stockage/packages/f40/setroubleshoot/po/te.po | 
+ | [mr](/f40/language/mr) | 510 | 640 | 79.7 | /mnt/stockage/packages/f40/setroubleshoot/po/mr.po | 
+ | [or](/f40/language/or) | 510 | 640 | 79.7 | /mnt/stockage/packages/f40/setroubleshoot/po/or.po | 
+ | [hi](/f40/language/hi) | 505 | 640 | 78.9 | /mnt/stockage/packages/f40/setroubleshoot/po/hi.po | 
+ | [pt](/f40/language/pt) | 492 | 640 | 76.9 | /mnt/stockage/packages/f40/setroubleshoot/po/pt.po | 
+ | [bn](/f40/language/bn) | 423 | 640 | 66.1 | /mnt/stockage/packages/f40/setroubleshoot/po/bn.po | 
+ | [nn](/f40/language/nn) | 310 | 640 | 48.4 | /mnt/stockage/packages/f40/setroubleshoot/po/nn.po | 
+ | [he](/f40/language/he) | 286 | 640 | 44.7 | /mnt/stockage/packages/f40/setroubleshoot/po/he.po | 
+ | [sr](/f40/language/sr) | 239 | 640 | 37.3 | /mnt/stockage/packages/f40/setroubleshoot/po/sr.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 239 | 640 | 37.3 | /mnt/stockage/packages/f40/setroubleshoot/po/sr@latin.po | 
+ | [mai](/f40/language/mai) | 140 | 640 | 21.9 | /mnt/stockage/packages/f40/setroubleshoot/po/mai.po | 
+ | [th](/f40/language/th) | 130 | 640 | 20.3 | /mnt/stockage/packages/f40/setroubleshoot/po/th.po | 
+ | [gl](/f40/language/gl) | 112 | 640 | 17.5 | /mnt/stockage/packages/f40/setroubleshoot/po/gl.po | 
+ | [nb_NO](/f40/language/nb_NO) | 80 | 640 | 12.5 | /mnt/stockage/packages/f40/setroubleshoot/po/nb.po | 
+ | [hr](/f40/language/hr) | 55 | 640 | 8.6 | /mnt/stockage/packages/f40/setroubleshoot/po/hr.po | 
+ | [ms](/f40/language/ms) | 38 | 640 | 5.9 | /mnt/stockage/packages/f40/setroubleshoot/po/ms.po | 
+ | [eu](/f40/language/eu) | 33 | 640 | 5.2 | /mnt/stockage/packages/f40/setroubleshoot/po/eu.po | 
+ | [nds](/f40/language/nds) | 17 | 640 | 2.7 | /mnt/stockage/packages/f40/setroubleshoot/po/nds.po | 
+ | [el](/f40/language/el) | 12 | 640 | 1.9 | /mnt/stockage/packages/f40/setroubleshoot/po/el.po | 
+ | [ar](/f40/language/ar) | 2 | 640 | 0.3 | /mnt/stockage/packages/f40/setroubleshoot/po/ar.po | 
+ | [si](/f40/language/si) | 2 | 640 | 0.3 | /mnt/stockage/packages/f40/setroubleshoot/po/si.po | 
 {.sortable}
 
 

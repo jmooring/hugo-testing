@@ -18,21 +18,21 @@ The package lilypond (version 2.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 10049 | 10049 | 100.0 | /mnt/stockage/packages/f13/lilypond/Documentation/po/de.po/mnt/stockage/packages/f13/lilypond/po/de.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 2513 | 2513 | 100.0 | /mnt/stockage/packages/f13/lilypond/po/fi.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 2611 | 2611 | 100.0 | /mnt/stockage/packages/f13/lilypond/po/nl.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f13/lilypond/po/vi.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 10194 | 10199 | 100.0 | /mnt/stockage/packages/f13/lilypond/Documentation/po/es.po/mnt/stockage/packages/f13/lilypond/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 8356 | 10200 | 81.9 | /mnt/stockage/packages/f13/lilypond/Documentation/po/fr.po/mnt/stockage/packages/f13/lilypond/po/fr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 807 | 2414 | 33.4 | /mnt/stockage/packages/f13/lilypond/po/uk.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 734 | 2513 | 29.2 | /mnt/stockage/packages/f13/lilypond/po/zh_TW.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 631 | 2513 | 25.1 | /mnt/stockage/packages/f13/lilypond/po/tr.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 396 | 2513 | 15.8 | /mnt/stockage/packages/f13/lilypond/po/sv.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 310 | 2513 | 12.3 | /mnt/stockage/packages/f13/lilypond/po/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 226 | 2513 | 9.0 | /mnt/stockage/packages/f13/lilypond/po/da.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 143 | 2513 | 5.7 | /mnt/stockage/packages/f13/lilypond/po/ru.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 129 | 3241 | 4.0 | /mnt/stockage/packages/f13/lilypond/po/ja.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 57 | 3241 | 1.8 | /mnt/stockage/packages/f13/lilypond/po/it.po | 
+ | [de](/f13/language/de) | 10049 | 10049 | 100.0 | /mnt/stockage/packages/f13/lilypond/Documentation/po/de.po/mnt/stockage/packages/f13/lilypond/po/de.po | 
+ | [fi](/f13/language/fi) | 2513 | 2513 | 100.0 | /mnt/stockage/packages/f13/lilypond/po/fi.po | 
+ | [nl](/f13/language/nl) | 2611 | 2611 | 100.0 | /mnt/stockage/packages/f13/lilypond/po/nl.po | 
+ | [vi](/f13/language/vi) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f13/lilypond/po/vi.po | 
+ | [es](/f13/language/es) | 10194 | 10199 | 100.0 | /mnt/stockage/packages/f13/lilypond/Documentation/po/es.po/mnt/stockage/packages/f13/lilypond/po/es.po | 
+ | [fr](/f13/language/fr) | 8356 | 10200 | 81.9 | /mnt/stockage/packages/f13/lilypond/Documentation/po/fr.po/mnt/stockage/packages/f13/lilypond/po/fr.po | 
+ | [uk](/f13/language/uk) | 807 | 2414 | 33.4 | /mnt/stockage/packages/f13/lilypond/po/uk.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 734 | 2513 | 29.2 | /mnt/stockage/packages/f13/lilypond/po/zh_TW.po | 
+ | [tr](/f13/language/tr) | 631 | 2513 | 25.1 | /mnt/stockage/packages/f13/lilypond/po/tr.po | 
+ | [sv](/f13/language/sv) | 396 | 2513 | 15.8 | /mnt/stockage/packages/f13/lilypond/po/sv.po | 
+ | [cs](/f13/language/cs) | 310 | 2513 | 12.3 | /mnt/stockage/packages/f13/lilypond/po/cs.po | 
+ | [da](/f13/language/da) | 226 | 2513 | 9.0 | /mnt/stockage/packages/f13/lilypond/po/da.po | 
+ | [ru](/f13/language/ru) | 143 | 2513 | 5.7 | /mnt/stockage/packages/f13/lilypond/po/ru.po | 
+ | [ja](/f13/language/ja) | 129 | 3241 | 4.0 | /mnt/stockage/packages/f13/lilypond/po/ja.po | 
+ | [it](/f13/language/it) | 57 | 3241 | 1.8 | /mnt/stockage/packages/f13/lilypond/po/it.po | 
 {.sortable}
 
 

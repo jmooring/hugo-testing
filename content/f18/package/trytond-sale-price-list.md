@@ -18,16 +18,16 @@ The package trytond-sale-price-list (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/ca_ES.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/fr_FR.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/cs_CZ.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/es_CO.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/nl_NL.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/ru_RU.po | 
+ | [bg](/f18/language/bg) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/ca_ES.po | 
+ | [de](/f18/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/de_DE.po | 
+ | [es](/f18/language/es) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/fr_FR.po | 
+ | [cs](/f18/language/cs) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/cs_CZ.po | 
+ | [es_CO](/f18/language/es_CO) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/es_CO.po | 
+ | [nl](/f18/language/nl) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/nl_NL.po | 
+ | [ru](/f18/language/ru) | 0 | 5 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-price-list/locale/ru_RU.po | 
 {.sortable}
 
 

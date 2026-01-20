@@ -18,7 +18,7 @@ The package pslib (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1898 | 1898 | 100.0 | /mnt/stockage/packages/f35/pslib/po/de.po | 
+ | [de](/f35/language/de) | 1898 | 1898 | 100.0 | /mnt/stockage/packages/f35/pslib/po/de.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package libextractor (version 0.5.17a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 729 | 771 | 94.6 | /mnt/stockage/packages/f7/libextractor/po/ga.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 729 | 771 | 94.6 | /mnt/stockage/packages/f7/libextractor/po/sv.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 729 | 771 | 94.6 | /mnt/stockage/packages/f7/libextractor/po/vi.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 594 | 771 | 77.0 | /mnt/stockage/packages/f7/libextractor/po/ro.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 508 | 771 | 65.9 | /mnt/stockage/packages/f7/libextractor/po/de.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 16 | 771 | 2.1 | /mnt/stockage/packages/f7/libextractor/po/rw.po | 
+ | [ga](/f7/language/ga) | 729 | 771 | 94.6 | /mnt/stockage/packages/f7/libextractor/po/ga.po | 
+ | [sv](/f7/language/sv) | 729 | 771 | 94.6 | /mnt/stockage/packages/f7/libextractor/po/sv.po | 
+ | [vi](/f7/language/vi) | 729 | 771 | 94.6 | /mnt/stockage/packages/f7/libextractor/po/vi.po | 
+ | [ro](/f7/language/ro) | 594 | 771 | 77.0 | /mnt/stockage/packages/f7/libextractor/po/ro.po | 
+ | [de](/f7/language/de) | 508 | 771 | 65.9 | /mnt/stockage/packages/f7/libextractor/po/de.po | 
+ | [rw](/f7/language/rw) | 16 | 771 | 2.1 | /mnt/stockage/packages/f7/libextractor/po/rw.po | 
 {.sortable}
 
 

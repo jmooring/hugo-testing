@@ -18,12 +18,12 @@ The package weechat (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f7/weechat/po/cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f7/weechat/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f7/weechat/po/ru.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 6748 | 7703 | 87.6 | /mnt/stockage/packages/f7/weechat/po/de.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 6228 | 7703 | 80.9 | /mnt/stockage/packages/f7/weechat/po/hu.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 5896 | 7703 | 76.5 | /mnt/stockage/packages/f7/weechat/po/es.po | 
+ | [cs](/f7/language/cs) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f7/weechat/po/cs.po | 
+ | [fr](/f7/language/fr) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f7/weechat/po/fr.po | 
+ | [ru](/f7/language/ru) | 7703 | 7703 | 100.0 | /mnt/stockage/packages/f7/weechat/po/ru.po | 
+ | [de](/f7/language/de) | 6748 | 7703 | 87.6 | /mnt/stockage/packages/f7/weechat/po/de.po | 
+ | [hu](/f7/language/hu) | 6228 | 7703 | 80.9 | /mnt/stockage/packages/f7/weechat/po/hu.po | 
+ | [es](/f7/language/es) | 5896 | 7703 | 76.5 | /mnt/stockage/packages/f7/weechat/po/es.po | 
 {.sortable}
 
 

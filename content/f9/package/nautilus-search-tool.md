@@ -18,10 +18,10 @@ The package nautilus-search-tool (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/it.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/sv.po | 
+ | [es](/f9/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/es.po | 
+ | [fr](/f9/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/fr.po | 
+ | [it](/f9/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/it.po | 
+ | [sv](/f9/language/sv) | 11 | 11 | 100.0 | /mnt/stockage/packages/f9/nautilus-search-tool/po/sv.po | 
 {.sortable}
 
 

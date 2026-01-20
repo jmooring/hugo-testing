@@ -18,16 +18,16 @@ The package cups (version 2.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 8223 | 8614 | 95.5 | /mnt/stockage/packages/f27/cups/locale/cups_zh_CN.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 7786 | 8614 | 90.4 | /mnt/stockage/packages/f27/cups/locale/cups_es.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 7441 | 8614 | 86.4 | /mnt/stockage/packages/f27/cups/locale/cups_pt_BR.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 7384 | 8614 | 85.7 | /mnt/stockage/packages/f27/cups/locale/cups_ja.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 7136 | 8614 | 82.8 | /mnt/stockage/packages/f27/cups/locale/cups_it.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 6913 | 8614 | 80.3 | /mnt/stockage/packages/f27/cups/locale/cups_ru.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 6555 | 8614 | 76.1 | /mnt/stockage/packages/f27/cups/locale/cups_ca.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 5098 | 8614 | 59.2 | /mnt/stockage/packages/f27/cups/locale/cups_de.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1205 | 8614 | 14.0 | /mnt/stockage/packages/f27/cups/locale/cups_cs.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1155 | 8624 | 13.4 | /mnt/stockage/packages/f27/cups/locale/cups_fr.po/mnt/stockage/packages/f27/cups/ppdc/foo-fr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 8223 | 8614 | 95.5 | /mnt/stockage/packages/f27/cups/locale/cups_zh_CN.po | 
+ | [es](/f27/language/es) | 7786 | 8614 | 90.4 | /mnt/stockage/packages/f27/cups/locale/cups_es.po | 
+ | [pt_BR](/f27/language/pt_BR) | 7441 | 8614 | 86.4 | /mnt/stockage/packages/f27/cups/locale/cups_pt_BR.po | 
+ | [ja](/f27/language/ja) | 7384 | 8614 | 85.7 | /mnt/stockage/packages/f27/cups/locale/cups_ja.po | 
+ | [it](/f27/language/it) | 7136 | 8614 | 82.8 | /mnt/stockage/packages/f27/cups/locale/cups_it.po | 
+ | [ru](/f27/language/ru) | 6913 | 8614 | 80.3 | /mnt/stockage/packages/f27/cups/locale/cups_ru.po | 
+ | [ca](/f27/language/ca) | 6555 | 8614 | 76.1 | /mnt/stockage/packages/f27/cups/locale/cups_ca.po | 
+ | [de](/f27/language/de) | 5098 | 8614 | 59.2 | /mnt/stockage/packages/f27/cups/locale/cups_de.po | 
+ | [cs](/f27/language/cs) | 1205 | 8614 | 14.0 | /mnt/stockage/packages/f27/cups/locale/cups_cs.po | 
+ | [fr](/f27/language/fr) | 1155 | 8624 | 13.4 | /mnt/stockage/packages/f27/cups/locale/cups_fr.po/mnt/stockage/packages/f27/cups/ppdc/foo-fr.po | 
 {.sortable}
 
 

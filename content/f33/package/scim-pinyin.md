@@ -18,14 +18,14 @@ The package scim-pinyin (version 0.5.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/fr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/ko.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/nl.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/zh_TW.po | 
+ | [de](/f33/language/de) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/de.po | 
+ | [fr](/f33/language/fr) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/fr.po | 
+ | [it](/f33/language/it) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/it.po | 
+ | [ja](/f33/language/ja) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/ja.po | 
+ | [ko](/f33/language/ko) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/ko.po | 
+ | [nl](/f33/language/nl) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/nl.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 204 | 634 | 32.2 | /mnt/stockage/packages/f33/scim-pinyin/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,41 +18,41 @@ The package xfce4-sensors-plugin (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ar.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/de.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/eu.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/gl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/lt.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/nl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/sk.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/zh_TW.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 298 | 354 | 84.2 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/el.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 293 | 354 | 82.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/fi.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 293 | 354 | 82.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ug.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 281 | 354 | 79.4 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/tr.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 269 | 354 | 76.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/lv.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 526 | 708 | 74.3 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ur.po/mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ur_PK.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 226 | 354 | 63.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/pl.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 180 | 354 | 50.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/sq.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 175 | 354 | 49.4 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ast.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 96 | 354 | 27.1 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/sv.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 25 | 354 | 7.1 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/vi.po | 
+ | [ar](/f22/language/ar) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ar.po | 
+ | [ca](/f22/language/ca) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ca.po | 
+ | [cs](/f22/language/cs) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/cs.po | 
+ | [da](/f22/language/da) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/da.po | 
+ | [de](/f22/language/de) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/de.po | 
+ | [en_GB](/f22/language/en_GB) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/en_GB.po | 
+ | [es](/f22/language/es) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/es.po | 
+ | [eu](/f22/language/eu) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/eu.po | 
+ | [fr](/f22/language/fr) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/fr.po | 
+ | [gl](/f22/language/gl) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/gl.po | 
+ | [hu](/f22/language/hu) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/hu.po | 
+ | [id](/f22/language/id) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/id.po | 
+ | [it](/f22/language/it) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/it.po | 
+ | [ja](/f22/language/ja) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ja.po | 
+ | [ko](/f22/language/ko) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ko.po | 
+ | [lt](/f22/language/lt) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/lt.po | 
+ | [nl](/f22/language/nl) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/nl.po | 
+ | [pt](/f22/language/pt) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ru.po | 
+ | [sk](/f22/language/sk) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/sk.po | 
+ | [uk](/f22/language/uk) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 354 | 354 | 100.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/zh_TW.po | 
+ | [el](/f22/language/el) | 298 | 354 | 84.2 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/el.po | 
+ | [fi](/f22/language/fi) | 293 | 354 | 82.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/fi.po | 
+ | [ug](/f22/language/ug) | 293 | 354 | 82.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ug.po | 
+ | [tr](/f22/language/tr) | 281 | 354 | 79.4 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/tr.po | 
+ | [lv](/f22/language/lv) | 269 | 354 | 76.0 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/lv.po | 
+ | [ur](/f22/language/ur) | 526 | 708 | 74.3 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ur.po/mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ur_PK.po | 
+ | [pl](/f22/language/pl) | 226 | 354 | 63.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/pl.po | 
+ | [sq](/f22/language/sq) | 180 | 354 | 50.8 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/sq.po | 
+ | [ast](/f22/language/ast) | 175 | 354 | 49.4 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/ast.po | 
+ | [sv](/f22/language/sv) | 96 | 354 | 27.1 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/sv.po | 
+ | [vi](/f22/language/vi) | 25 | 354 | 7.1 | /mnt/stockage/packages/f22/xfce4-sensors-plugin/po/vi.po | 
 {.sortable}
 
 

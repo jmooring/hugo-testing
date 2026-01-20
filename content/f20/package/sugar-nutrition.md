@@ -18,17 +18,17 @@ The package sugar-nutrition (version 13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f20/language/ayc.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/ayc.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/da.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/en.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/en_GB.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/en_US.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/es.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/nl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/zh_CN.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 191 | 192 | 99.5 | /mnt/stockage/packages/f20/sugar-nutrition/po/hy.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 183 | 192 | 95.3 | /mnt/stockage/packages/f20/sugar-nutrition/po/el.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 154 | 192 | 80.2 | /mnt/stockage/packages/f20/sugar-nutrition/po/pl.po | 
+ | [ayc](/f20/language/ayc) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/ayc.po | 
+ | [da](/f20/language/da) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/da.po | 
+ | [en](/f20/language/en) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/en.po | 
+ | [en_GB](/f20/language/en_GB) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/en_GB.po | 
+ | [en_US](/f20/language/en_US) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/en_US.po | 
+ | [es](/f20/language/es) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/es.po | 
+ | [nl](/f20/language/nl) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/nl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 192 | 192 | 100.0 | /mnt/stockage/packages/f20/sugar-nutrition/po/zh_CN.po | 
+ | [hy](/f20/language/hy) | 191 | 192 | 99.5 | /mnt/stockage/packages/f20/sugar-nutrition/po/hy.po | 
+ | [el](/f20/language/el) | 183 | 192 | 95.3 | /mnt/stockage/packages/f20/sugar-nutrition/po/el.po | 
+ | [pl](/f20/language/pl) | 154 | 192 | 80.2 | /mnt/stockage/packages/f20/sugar-nutrition/po/pl.po | 
 {.sortable}
 
 

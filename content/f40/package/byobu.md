@@ -18,26 +18,26 @@ The package byobu (version 6.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f40/byobu/debian/po/de.po/mnt/stockage/packages/f40/byobu/po/de.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f40/byobu/debian/po/en_GB.po/mnt/stockage/packages/f40/byobu/po/en_GB.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f40/byobu/debian/po/es.po/mnt/stockage/packages/f40/byobu/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/fr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/id.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/is.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/it.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/nl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/uk.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 158 | 177 | 89.3 | /mnt/stockage/packages/f40/byobu/po/cs.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 209 | 242 | 86.4 | /mnt/stockage/packages/f40/byobu/debian/po/ru.po/mnt/stockage/packages/f40/byobu/po/ru.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 142 | 177 | 80.2 | /mnt/stockage/packages/f40/byobu/po/pt_BR.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 189 | 242 | 78.1 | /mnt/stockage/packages/f40/byobu/debian/po/pt.po/mnt/stockage/packages/f40/byobu/po/pt.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 121 | 177 | 68.4 | /mnt/stockage/packages/f40/byobu/po/tr.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 114 | 177 | 64.4 | /mnt/stockage/packages/f40/byobu/po/bg.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 71 | 177 | 40.1 | /mnt/stockage/packages/f40/byobu/po/lt.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 65 | 177 | 36.7 | /mnt/stockage/packages/f40/byobu/po/ja.po | 
- | [la]({{< ref "/f40/language/la.md" >}}) | 14 | 177 | 7.9 | /mnt/stockage/packages/f40/byobu/po/la.po | 
+ | [de](/f40/language/de) | 242 | 242 | 100.0 | /mnt/stockage/packages/f40/byobu/debian/po/de.po/mnt/stockage/packages/f40/byobu/po/de.po | 
+ | [en_GB](/f40/language/en_GB) | 242 | 242 | 100.0 | /mnt/stockage/packages/f40/byobu/debian/po/en_GB.po/mnt/stockage/packages/f40/byobu/po/en_GB.po | 
+ | [es](/f40/language/es) | 242 | 242 | 100.0 | /mnt/stockage/packages/f40/byobu/debian/po/es.po/mnt/stockage/packages/f40/byobu/po/es.po | 
+ | [fr](/f40/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/fr.po | 
+ | [hu](/f40/language/hu) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/hu.po | 
+ | [id](/f40/language/id) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/id.po | 
+ | [is](/f40/language/is) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/is.po | 
+ | [it](/f40/language/it) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/it.po | 
+ | [nl](/f40/language/nl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/nl.po | 
+ | [sv](/f40/language/sv) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/sv.po | 
+ | [uk](/f40/language/uk) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/byobu/po/uk.po | 
+ | [cs](/f40/language/cs) | 158 | 177 | 89.3 | /mnt/stockage/packages/f40/byobu/po/cs.po | 
+ | [ru](/f40/language/ru) | 209 | 242 | 86.4 | /mnt/stockage/packages/f40/byobu/debian/po/ru.po/mnt/stockage/packages/f40/byobu/po/ru.po | 
+ | [pt_BR](/f40/language/pt_BR) | 142 | 177 | 80.2 | /mnt/stockage/packages/f40/byobu/po/pt_BR.po | 
+ | [pt](/f40/language/pt) | 189 | 242 | 78.1 | /mnt/stockage/packages/f40/byobu/debian/po/pt.po/mnt/stockage/packages/f40/byobu/po/pt.po | 
+ | [tr](/f40/language/tr) | 121 | 177 | 68.4 | /mnt/stockage/packages/f40/byobu/po/tr.po | 
+ | [bg](/f40/language/bg) | 114 | 177 | 64.4 | /mnt/stockage/packages/f40/byobu/po/bg.po | 
+ | [lt](/f40/language/lt) | 71 | 177 | 40.1 | /mnt/stockage/packages/f40/byobu/po/lt.po | 
+ | [ja](/f40/language/ja) | 65 | 177 | 36.7 | /mnt/stockage/packages/f40/byobu/po/ja.po | 
+ | [la](/f40/language/la) | 14 | 177 | 7.9 | /mnt/stockage/packages/f40/byobu/po/la.po | 
 {.sortable}
 
 

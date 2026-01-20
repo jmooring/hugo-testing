@@ -18,24 +18,24 @@ The package mypaint (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/fr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 1918 | 1918 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/it.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/ko.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1987 | 1987 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1987 | 1987 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/uk.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/zh_TW.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1576 | 1918 | 82.2 | /mnt/stockage/packages/f15/mypaint/po/cs.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 1389 | 2265 | 61.3 | /mnt/stockage/packages/f15/mypaint/po/nn_NO.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 1024 | 2265 | 45.2 | /mnt/stockage/packages/f15/mypaint/po/sl.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 896 | 2265 | 39.6 | /mnt/stockage/packages/f15/mypaint/po/nb.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 474 | 1916 | 24.7 | /mnt/stockage/packages/f15/mypaint/po/zh_CN.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 463 | 1981 | 23.4 | /mnt/stockage/packages/f15/mypaint/po/de.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 263 | 1916 | 13.7 | /mnt/stockage/packages/f15/mypaint/po/ja.po | 
+ | [es](/f15/language/es) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/es.po | 
+ | [fr](/f15/language/fr) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/fr.po | 
+ | [hu](/f15/language/hu) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/hu.po | 
+ | [id](/f15/language/id) | 1918 | 1918 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/id.po | 
+ | [it](/f15/language/it) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/it.po | 
+ | [ko](/f15/language/ko) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/ko.po | 
+ | [pl](/f15/language/pl) | 1987 | 1987 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/pl.po | 
+ | [ru](/f15/language/ru) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/ru.po | 
+ | [sv](/f15/language/sv) | 2265 | 2265 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/sv.po | 
+ | [uk](/f15/language/uk) | 1987 | 1987 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/uk.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 1982 | 1982 | 100.0 | /mnt/stockage/packages/f15/mypaint/po/zh_TW.po | 
+ | [cs](/f15/language/cs) | 1576 | 1918 | 82.2 | /mnt/stockage/packages/f15/mypaint/po/cs.po | 
+ | [nn](/f15/language/nn) | 1389 | 2265 | 61.3 | /mnt/stockage/packages/f15/mypaint/po/nn_NO.po | 
+ | [sl](/f15/language/sl) | 1024 | 2265 | 45.2 | /mnt/stockage/packages/f15/mypaint/po/sl.po | 
+ | [nb_NO](/f15/language/nb_NO) | 896 | 2265 | 39.6 | /mnt/stockage/packages/f15/mypaint/po/nb.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 474 | 1916 | 24.7 | /mnt/stockage/packages/f15/mypaint/po/zh_CN.po | 
+ | [de](/f15/language/de) | 463 | 1981 | 23.4 | /mnt/stockage/packages/f15/mypaint/po/de.po | 
+ | [ja](/f15/language/ja) | 263 | 1916 | 13.7 | /mnt/stockage/packages/f15/mypaint/po/ja.po | 
 {.sortable}
 
 

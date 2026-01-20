@@ -18,8 +18,8 @@ The package subnetcalc (version 2.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f42/subnetcalc/po/de/subnetcalc.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f42/subnetcalc/po/nb/subnetcalc.po | 
+ | [de](/f42/language/de) | 206 | 206 | 100.0 | /mnt/stockage/packages/f42/subnetcalc/po/de/subnetcalc.po | 
+ | [nb_NO](/f42/language/nb_NO) | 206 | 206 | 100.0 | /mnt/stockage/packages/f42/subnetcalc/po/nb/subnetcalc.po | 
 {.sortable}
 
 

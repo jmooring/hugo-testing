@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f36/package/iso-codes.md" >}}) | 738 | 771 | 95.7 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [libreoffice]({{< ref "/f36/package/libreoffice.md" >}}) | 344745 | 714914 | 48.2 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f36/package/tuxpaint.md" >}}) | 570 | 3763 | 15.1 | English (South African) <en_za@li.org> | 
- | [cinnamon-translations]({{< ref "/f36/package/cinnamon-translations.md" >}}) | 4 | 6909 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [iso-codes](/f36/package/iso-codes) | 738 | 771 | 95.7 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [libreoffice](/f36/package/libreoffice) | 344745 | 714914 | 48.2 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f36/package/tuxpaint) | 570 | 3763 | 15.1 | English (South African) <en_za@li.org> | 
+ | [cinnamon-translations](/f36/package/cinnamon-translations) | 4 | 6909 | 0.1 | English (South Africa) <en_ZA@li.org> | 
 {.sortable}
 
 

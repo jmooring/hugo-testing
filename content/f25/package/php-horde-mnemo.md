@@ -18,38 +18,38 @@ The package php-horde-mnemo (version 4.2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/bg/LC_MESSAGES/mnemo.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/da/LC_MESSAGES/mnemo.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/de/LC_MESSAGES/mnemo.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/el/LC_MESSAGES/mnemo.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 575 | 575 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/es/LC_MESSAGES/mnemo.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/et/LC_MESSAGES/mnemo.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/eu/LC_MESSAGES/mnemo.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/fi/LC_MESSAGES/mnemo.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/fr/LC_MESSAGES/mnemo.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/hr/LC_MESSAGES/mnemo.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 575 | 575 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/hu/LC_MESSAGES/mnemo.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/it/LC_MESSAGES/mnemo.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 575 | 575 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ja/LC_MESSAGES/mnemo.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/lt/LC_MESSAGES/mnemo.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/lv/LC_MESSAGES/mnemo.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/nb/LC_MESSAGES/mnemo.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 514 | 514 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/nl/LC_MESSAGES/mnemo.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/nn/LC_MESSAGES/mnemo.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/pl/LC_MESSAGES/mnemo.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 409 | 409 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/pt/LC_MESSAGES/mnemo.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/pt_BR/LC_MESSAGES/mnemo.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ro/LC_MESSAGES/mnemo.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/sk/LC_MESSAGES/mnemo.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/sl/LC_MESSAGES/mnemo.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/sv/LC_MESSAGES/mnemo.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/tr/LC_MESSAGES/mnemo.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/zh_CN/LC_MESSAGES/mnemo.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/zh_TW/LC_MESSAGES/mnemo.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 500 | 505 | 99.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/uk/LC_MESSAGES/mnemo.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 489 | 570 | 85.8 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ko/LC_MESSAGES/mnemo.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 489 | 575 | 85.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/cs/LC_MESSAGES/mnemo.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 265 | 476 | 55.7 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ru/LC_MESSAGES/mnemo.po | 
+ | [bg](/f25/language/bg) | 438 | 438 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/bg/LC_MESSAGES/mnemo.po | 
+ | [da](/f25/language/da) | 570 | 570 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/da/LC_MESSAGES/mnemo.po | 
+ | [de](/f25/language/de) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/de/LC_MESSAGES/mnemo.po | 
+ | [el](/f25/language/el) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/el/LC_MESSAGES/mnemo.po | 
+ | [es](/f25/language/es) | 575 | 575 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/es/LC_MESSAGES/mnemo.po | 
+ | [et](/f25/language/et) | 536 | 536 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/et/LC_MESSAGES/mnemo.po | 
+ | [eu](/f25/language/eu) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/eu/LC_MESSAGES/mnemo.po | 
+ | [fi](/f25/language/fi) | 505 | 505 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/fi/LC_MESSAGES/mnemo.po | 
+ | [fr](/f25/language/fr) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/fr/LC_MESSAGES/mnemo.po | 
+ | [hr](/f25/language/hr) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/hr/LC_MESSAGES/mnemo.po | 
+ | [hu](/f25/language/hu) | 575 | 575 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/hu/LC_MESSAGES/mnemo.po | 
+ | [it](/f25/language/it) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/it/LC_MESSAGES/mnemo.po | 
+ | [ja](/f25/language/ja) | 575 | 575 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ja/LC_MESSAGES/mnemo.po | 
+ | [lt](/f25/language/lt) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/lt/LC_MESSAGES/mnemo.po | 
+ | [lv](/f25/language/lv) | 505 | 505 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/lv/LC_MESSAGES/mnemo.po | 
+ | [nb_NO](/f25/language/nb_NO) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/nb/LC_MESSAGES/mnemo.po | 
+ | [nl](/f25/language/nl) | 514 | 514 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/nl/LC_MESSAGES/mnemo.po | 
+ | [nn](/f25/language/nn) | 246 | 246 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/nn/LC_MESSAGES/mnemo.po | 
+ | [pl](/f25/language/pl) | 570 | 570 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/pl/LC_MESSAGES/mnemo.po | 
+ | [pt](/f25/language/pt) | 409 | 409 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/pt/LC_MESSAGES/mnemo.po | 
+ | [pt_BR](/f25/language/pt_BR) | 579 | 579 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/pt_BR/LC_MESSAGES/mnemo.po | 
+ | [ro](/f25/language/ro) | 345 | 345 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ro/LC_MESSAGES/mnemo.po | 
+ | [sk](/f25/language/sk) | 505 | 505 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/sk/LC_MESSAGES/mnemo.po | 
+ | [sl](/f25/language/sl) | 386 | 386 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/sl/LC_MESSAGES/mnemo.po | 
+ | [sv](/f25/language/sv) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/sv/LC_MESSAGES/mnemo.po | 
+ | [tr](/f25/language/tr) | 537 | 537 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/tr/LC_MESSAGES/mnemo.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 419 | 419 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/zh_CN/LC_MESSAGES/mnemo.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 517 | 517 | 100.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/zh_TW/LC_MESSAGES/mnemo.po | 
+ | [uk](/f25/language/uk) | 500 | 505 | 99.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/uk/LC_MESSAGES/mnemo.po | 
+ | [ko](/f25/language/ko) | 489 | 570 | 85.8 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ko/LC_MESSAGES/mnemo.po | 
+ | [cs](/f25/language/cs) | 489 | 575 | 85.0 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/cs/LC_MESSAGES/mnemo.po | 
+ | [ru](/f25/language/ru) | 265 | 476 | 55.7 | /mnt/stockage/packages/f25/php-horde-mnemo/mnemo-4.2.14/locale/ru/LC_MESSAGES/mnemo.po | 
 {.sortable}
 
 

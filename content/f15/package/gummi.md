@@ -18,24 +18,24 @@ The package gummi (version 0.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f15/gummi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 749 | 787 | 95.2 | /mnt/stockage/packages/f15/gummi/po/zh_TW.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 743 | 787 | 94.4 | /mnt/stockage/packages/f15/gummi/po/es.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 734 | 787 | 93.3 | /mnt/stockage/packages/f15/gummi/po/ca.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 734 | 787 | 93.3 | /mnt/stockage/packages/f15/gummi/po/sv.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 730 | 787 | 92.8 | /mnt/stockage/packages/f15/gummi/po/pt_BR.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 719 | 787 | 91.4 | /mnt/stockage/packages/f15/gummi/po/pt.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 684 | 787 | 86.9 | /mnt/stockage/packages/f15/gummi/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 669 | 787 | 85.0 | /mnt/stockage/packages/f15/gummi/po/fr.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 428 | 787 | 54.4 | /mnt/stockage/packages/f15/gummi/po/cs.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 313 | 787 | 39.8 | /mnt/stockage/packages/f15/gummi/po/it.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 313 | 787 | 39.8 | /mnt/stockage/packages/f15/gummi/po/pl.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 297 | 787 | 37.7 | /mnt/stockage/packages/f15/gummi/po/nl.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 222 | 787 | 28.2 | /mnt/stockage/packages/f15/gummi/po/ar.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 177 | 787 | 22.5 | /mnt/stockage/packages/f15/gummi/po/ro.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 158 | 787 | 20.1 | /mnt/stockage/packages/f15/gummi/po/da.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 156 | 787 | 19.8 | /mnt/stockage/packages/f15/gummi/po/el.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 135 | 787 | 17.2 | /mnt/stockage/packages/f15/gummi/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 795 | 795 | 100.0 | /mnt/stockage/packages/f15/gummi/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 749 | 787 | 95.2 | /mnt/stockage/packages/f15/gummi/po/zh_TW.po | 
+ | [es](/f15/language/es) | 743 | 787 | 94.4 | /mnt/stockage/packages/f15/gummi/po/es.po | 
+ | [ca](/f15/language/ca) | 734 | 787 | 93.3 | /mnt/stockage/packages/f15/gummi/po/ca.po | 
+ | [sv](/f15/language/sv) | 734 | 787 | 93.3 | /mnt/stockage/packages/f15/gummi/po/sv.po | 
+ | [pt_BR](/f15/language/pt_BR) | 730 | 787 | 92.8 | /mnt/stockage/packages/f15/gummi/po/pt_BR.po | 
+ | [pt](/f15/language/pt) | 719 | 787 | 91.4 | /mnt/stockage/packages/f15/gummi/po/pt.po | 
+ | [de](/f15/language/de) | 684 | 787 | 86.9 | /mnt/stockage/packages/f15/gummi/po/de.po | 
+ | [fr](/f15/language/fr) | 669 | 787 | 85.0 | /mnt/stockage/packages/f15/gummi/po/fr.po | 
+ | [cs](/f15/language/cs) | 428 | 787 | 54.4 | /mnt/stockage/packages/f15/gummi/po/cs.po | 
+ | [it](/f15/language/it) | 313 | 787 | 39.8 | /mnt/stockage/packages/f15/gummi/po/it.po | 
+ | [pl](/f15/language/pl) | 313 | 787 | 39.8 | /mnt/stockage/packages/f15/gummi/po/pl.po | 
+ | [nl](/f15/language/nl) | 297 | 787 | 37.7 | /mnt/stockage/packages/f15/gummi/po/nl.po | 
+ | [ar](/f15/language/ar) | 222 | 787 | 28.2 | /mnt/stockage/packages/f15/gummi/po/ar.po | 
+ | [ro](/f15/language/ro) | 177 | 787 | 22.5 | /mnt/stockage/packages/f15/gummi/po/ro.po | 
+ | [da](/f15/language/da) | 158 | 787 | 20.1 | /mnt/stockage/packages/f15/gummi/po/da.po | 
+ | [el](/f15/language/el) | 156 | 787 | 19.8 | /mnt/stockage/packages/f15/gummi/po/el.po | 
+ | [ru](/f15/language/ru) | 135 | 787 | 17.2 | /mnt/stockage/packages/f15/gummi/po/ru.po | 
 {.sortable}
 
 

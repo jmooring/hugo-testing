@@ -18,9 +18,9 @@ The package speech-dispatcher (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 1370 | 1415 | 96.8 | /mnt/stockage/packages/f32/speech-dispatcher/po/de.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 285 | 1415 | 20.1 | /mnt/stockage/packages/f32/speech-dispatcher/po/cs.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 285 | 1415 | 20.1 | /mnt/stockage/packages/f32/speech-dispatcher/po/hu.po | 
+ | [de](/f32/language/de) | 1370 | 1415 | 96.8 | /mnt/stockage/packages/f32/speech-dispatcher/po/de.po | 
+ | [cs](/f32/language/cs) | 285 | 1415 | 20.1 | /mnt/stockage/packages/f32/speech-dispatcher/po/cs.po | 
+ | [hu](/f32/language/hu) | 285 | 1415 | 20.1 | /mnt/stockage/packages/f32/speech-dispatcher/po/hu.po | 
 {.sortable}
 
 

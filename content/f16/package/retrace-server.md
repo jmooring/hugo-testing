@@ -18,48 +18,48 @@ The package retrace-server (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f16/retrace-server/po/en_GB.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ast.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/es.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ko.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sk.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/te.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/zh_TW.po | 
+ | [en_GB](/f16/language/en_GB) | 123 | 123 | 100.0 | /mnt/stockage/packages/f16/retrace-server/po/en_GB.po | 
+ | [ar](/f16/language/ar) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ar.po | 
+ | [as](/f16/language/as) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/as.po | 
+ | [ast](/f16/language/ast) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ast.po | 
+ | [bn_IN](/f16/language/bn_IN) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ca.po | 
+ | [cs](/f16/language/cs) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/cs.po | 
+ | [da](/f16/language/da) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/da.po | 
+ | [de](/f16/language/de) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/de.po | 
+ | [el](/f16/language/el) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/el.po | 
+ | [es](/f16/language/es) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/es.po | 
+ | [fa](/f16/language/fa) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/fa.po | 
+ | [fi](/f16/language/fi) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/fi.po | 
+ | [fr](/f16/language/fr) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/fr.po | 
+ | [gu](/f16/language/gu) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/gu.po | 
+ | [he](/f16/language/he) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/he.po | 
+ | [hi](/f16/language/hi) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/hi.po | 
+ | [hu](/f16/language/hu) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/hu.po | 
+ | [id](/f16/language/id) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/id.po | 
+ | [it](/f16/language/it) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/it.po | 
+ | [ja](/f16/language/ja) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ja.po | 
+ | [kn](/f16/language/kn) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/kn.po | 
+ | [ko](/f16/language/ko) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ko.po | 
+ | [ml](/f16/language/ml) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ml.po | 
+ | [mr](/f16/language/mr) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/nb.po | 
+ | [nl](/f16/language/nl) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/nl.po | 
+ | [or](/f16/language/or) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/or.po | 
+ | [pa](/f16/language/pa) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pa.po | 
+ | [pl](/f16/language/pl) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pl.po | 
+ | [pt](/f16/language/pt) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ru.po | 
+ | [sk](/f16/language/sk) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sk.po | 
+ | [sr](/f16/language/sr) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/sv.po | 
+ | [ta](/f16/language/ta) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/ta.po | 
+ | [te](/f16/language/te) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/te.po | 
+ | [uk](/f16/language/uk) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 0 | 123 | 0.0 | /mnt/stockage/packages/f16/retrace-server/po/zh_TW.po | 
 {.sortable}
 
 

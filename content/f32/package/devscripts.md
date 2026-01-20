@@ -18,8 +18,8 @@ The package devscripts (version 2.20.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 51244 | 51244 | 100.0 | /mnt/stockage/packages/f32/devscripts/po4a/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 48363 | 51244 | 94.4 | /mnt/stockage/packages/f32/devscripts/po4a/po/de.po | 
+ | [fr](/f32/language/fr) | 51244 | 51244 | 100.0 | /mnt/stockage/packages/f32/devscripts/po4a/po/fr.po | 
+ | [de](/f32/language/de) | 48363 | 51244 | 94.4 | /mnt/stockage/packages/f32/devscripts/po4a/po/de.po | 
 {.sortable}
 
 

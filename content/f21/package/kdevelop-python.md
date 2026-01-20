@@ -18,23 +18,23 @@ The package kdevelop-python (version 1.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/ca/kdevpython.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/de/kdevpython.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/en_GB/kdevpython.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/es/kdevpython.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/et/kdevpython.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/fi/kdevpython.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/fr/kdevpython.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/it/kdevpython.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/nl/kdevpython.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/pl/kdevpython.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/pt/kdevpython.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/pt_BR/kdevpython.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/sk/kdevpython.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/sl/kdevpython.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/sv/kdevpython.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/tr/kdevpython.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/uk/kdevpython.po | 
+ | [ca](/f21/language/ca) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/ca/kdevpython.po | 
+ | [de](/f21/language/de) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/de/kdevpython.po | 
+ | [en_GB](/f21/language/en_GB) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/en_GB/kdevpython.po | 
+ | [es](/f21/language/es) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/es/kdevpython.po | 
+ | [et](/f21/language/et) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/et/kdevpython.po | 
+ | [fi](/f21/language/fi) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/fi/kdevpython.po | 
+ | [fr](/f21/language/fr) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/fr/kdevpython.po | 
+ | [it](/f21/language/it) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/it/kdevpython.po | 
+ | [nl](/f21/language/nl) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/nl/kdevpython.po | 
+ | [pl](/f21/language/pl) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/pl/kdevpython.po | 
+ | [pt](/f21/language/pt) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/pt/kdevpython.po | 
+ | [pt_BR](/f21/language/pt_BR) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/pt_BR/kdevpython.po | 
+ | [sk](/f21/language/sk) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/sk/kdevpython.po | 
+ | [sl](/f21/language/sl) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/sl/kdevpython.po | 
+ | [sv](/f21/language/sv) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/sv/kdevpython.po | 
+ | [tr](/f21/language/tr) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/tr/kdevpython.po | 
+ | [uk](/f21/language/uk) | 590 | 590 | 100.0 | /mnt/stockage/packages/f21/kdevelop-python/po/uk/kdevpython.po | 
 {.sortable}
 
 

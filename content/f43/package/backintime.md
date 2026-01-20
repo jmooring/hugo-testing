@@ -18,52 +18,52 @@ The package backintime (version 1.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f43/language/da.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/el.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/et.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/fr.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/he.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/ko.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/pt_BR.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/sk.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/sr_Latn.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/zh_TW.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 2779 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/fa.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 2768 | 2780 | 99.6 | /mnt/stockage/packages/f43/backintime/common/po/eu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 2766 | 2780 | 99.5 | /mnt/stockage/packages/f43/backintime/common/po/id.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 2763 | 2780 | 99.4 | /mnt/stockage/packages/f43/backintime/common/po/cs.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 2762 | 2780 | 99.4 | /mnt/stockage/packages/f43/backintime/common/po/hu.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 2737 | 2780 | 98.5 | /mnt/stockage/packages/f43/backintime/common/po/bg.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 2608 | 2780 | 93.8 | /mnt/stockage/packages/f43/backintime/common/po/pt.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 2595 | 2780 | 93.3 | /mnt/stockage/packages/f43/backintime/common/po/es.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 2373 | 2780 | 85.4 | /mnt/stockage/packages/f43/backintime/common/po/sr.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 2088 | 2780 | 75.1 | /mnt/stockage/packages/f43/backintime/common/po/tr.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 2023 | 2780 | 72.8 | /mnt/stockage/packages/f43/backintime/common/po/nn.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 2022 | 2780 | 72.7 | /mnt/stockage/packages/f43/backintime/common/po/ca.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 1806 | 2780 | 65.0 | /mnt/stockage/packages/f43/backintime/common/po/ar.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 1682 | 2780 | 60.5 | /mnt/stockage/packages/f43/backintime/common/po/nl.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 1663 | 2780 | 59.8 | /mnt/stockage/packages/f43/backintime/common/po/eo.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 1661 | 2780 | 59.7 | /mnt/stockage/packages/f43/backintime/common/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1573 | 2780 | 56.6 | /mnt/stockage/packages/f43/backintime/common/po/ru.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 1512 | 2780 | 54.4 | /mnt/stockage/packages/f43/backintime/common/po/sl.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 1472 | 2780 | 52.9 | /mnt/stockage/packages/f43/backintime/common/po/is.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 1153 | 2780 | 41.5 | /mnt/stockage/packages/f43/backintime/common/po/nb.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 1093 | 2780 | 39.3 | /mnt/stockage/packages/f43/backintime/common/po/vi.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 708 | 2780 | 25.5 | /mnt/stockage/packages/f43/backintime/common/po/th.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 691 | 2780 | 24.9 | /mnt/stockage/packages/f43/backintime/common/po/hr.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 607 | 2780 | 21.8 | /mnt/stockage/packages/f43/backintime/common/po/lt.po | 
- | [fo]({{< ref "/f43/language/fo.md" >}}) | 455 | 2780 | 16.4 | /mnt/stockage/packages/f43/backintime/common/po/fo.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 278 | 2780 | 10.0 | /mnt/stockage/packages/f43/backintime/common/po/ie.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 157 | 2780 | 5.6 | /mnt/stockage/packages/f43/backintime/common/po/bs.po | 
+ | [da](/f43/language/da) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/da.po | 
+ | [de](/f43/language/de) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/de.po | 
+ | [el](/f43/language/el) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/el.po | 
+ | [et](/f43/language/et) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/et.po | 
+ | [fi](/f43/language/fi) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/fi.po | 
+ | [fr](/f43/language/fr) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/fr.po | 
+ | [gl](/f43/language/gl) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/gl.po | 
+ | [he](/f43/language/he) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/he.po | 
+ | [it](/f43/language/it) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/it.po | 
+ | [ja](/f43/language/ja) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/ja.po | 
+ | [ko](/f43/language/ko) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/ko.po | 
+ | [pl](/f43/language/pl) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/pt_BR.po | 
+ | [sk](/f43/language/sk) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/sk.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/sr_Latn.po | 
+ | [sv](/f43/language/sv) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/sv.po | 
+ | [uk](/f43/language/uk) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 2780 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/zh_TW.po | 
+ | [fa](/f43/language/fa) | 2779 | 2780 | 100.0 | /mnt/stockage/packages/f43/backintime/common/po/fa.po | 
+ | [eu](/f43/language/eu) | 2768 | 2780 | 99.6 | /mnt/stockage/packages/f43/backintime/common/po/eu.po | 
+ | [id](/f43/language/id) | 2766 | 2780 | 99.5 | /mnt/stockage/packages/f43/backintime/common/po/id.po | 
+ | [cs](/f43/language/cs) | 2763 | 2780 | 99.4 | /mnt/stockage/packages/f43/backintime/common/po/cs.po | 
+ | [hu](/f43/language/hu) | 2762 | 2780 | 99.4 | /mnt/stockage/packages/f43/backintime/common/po/hu.po | 
+ | [bg](/f43/language/bg) | 2737 | 2780 | 98.5 | /mnt/stockage/packages/f43/backintime/common/po/bg.po | 
+ | [pt](/f43/language/pt) | 2608 | 2780 | 93.8 | /mnt/stockage/packages/f43/backintime/common/po/pt.po | 
+ | [es](/f43/language/es) | 2595 | 2780 | 93.3 | /mnt/stockage/packages/f43/backintime/common/po/es.po | 
+ | [sr](/f43/language/sr) | 2373 | 2780 | 85.4 | /mnt/stockage/packages/f43/backintime/common/po/sr.po | 
+ | [tr](/f43/language/tr) | 2088 | 2780 | 75.1 | /mnt/stockage/packages/f43/backintime/common/po/tr.po | 
+ | [nn](/f43/language/nn) | 2023 | 2780 | 72.8 | /mnt/stockage/packages/f43/backintime/common/po/nn.po | 
+ | [ca](/f43/language/ca) | 2022 | 2780 | 72.7 | /mnt/stockage/packages/f43/backintime/common/po/ca.po | 
+ | [ar](/f43/language/ar) | 1806 | 2780 | 65.0 | /mnt/stockage/packages/f43/backintime/common/po/ar.po | 
+ | [nl](/f43/language/nl) | 1682 | 2780 | 60.5 | /mnt/stockage/packages/f43/backintime/common/po/nl.po | 
+ | [eo](/f43/language/eo) | 1663 | 2780 | 59.8 | /mnt/stockage/packages/f43/backintime/common/po/eo.po | 
+ | [ro](/f43/language/ro) | 1661 | 2780 | 59.7 | /mnt/stockage/packages/f43/backintime/common/po/ro.po | 
+ | [ru](/f43/language/ru) | 1573 | 2780 | 56.6 | /mnt/stockage/packages/f43/backintime/common/po/ru.po | 
+ | [sl](/f43/language/sl) | 1512 | 2780 | 54.4 | /mnt/stockage/packages/f43/backintime/common/po/sl.po | 
+ | [is](/f43/language/is) | 1472 | 2780 | 52.9 | /mnt/stockage/packages/f43/backintime/common/po/is.po | 
+ | [nb_NO](/f43/language/nb_NO) | 1153 | 2780 | 41.5 | /mnt/stockage/packages/f43/backintime/common/po/nb.po | 
+ | [vi](/f43/language/vi) | 1093 | 2780 | 39.3 | /mnt/stockage/packages/f43/backintime/common/po/vi.po | 
+ | [th](/f43/language/th) | 708 | 2780 | 25.5 | /mnt/stockage/packages/f43/backintime/common/po/th.po | 
+ | [hr](/f43/language/hr) | 691 | 2780 | 24.9 | /mnt/stockage/packages/f43/backintime/common/po/hr.po | 
+ | [lt](/f43/language/lt) | 607 | 2780 | 21.8 | /mnt/stockage/packages/f43/backintime/common/po/lt.po | 
+ | [fo](/f43/language/fo) | 455 | 2780 | 16.4 | /mnt/stockage/packages/f43/backintime/common/po/fo.po | 
+ | [ie](/f43/language/ie) | 278 | 2780 | 10.0 | /mnt/stockage/packages/f43/backintime/common/po/ie.po | 
+ | [bs](/f43/language/bs) | 157 | 2780 | 5.6 | /mnt/stockage/packages/f43/backintime/common/po/bs.po | 
 {.sortable}
 
 

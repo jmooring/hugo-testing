@@ -18,23 +18,23 @@ The package kshutdown (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/ar.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/bg.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/el.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/es.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/pl.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/sk.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 773 | 776 | 99.6 | /mnt/stockage/packages/f15/kshutdown/po/pt_BR.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 772 | 776 | 99.5 | /mnt/stockage/packages/f15/kshutdown/po/tr.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 687 | 776 | 88.5 | /mnt/stockage/packages/f15/kshutdown/po/cs.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 687 | 776 | 88.5 | /mnt/stockage/packages/f15/kshutdown/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 643 | 776 | 82.9 | /mnt/stockage/packages/f15/kshutdown/po/zh_CN.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 605 | 778 | 77.8 | /mnt/stockage/packages/f15/kshutdown/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 318 | 776 | 41.0 | /mnt/stockage/packages/f15/kshutdown/po/it.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 275 | 776 | 35.4 | /mnt/stockage/packages/f15/kshutdown/po/hu.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 225 | 776 | 29.0 | /mnt/stockage/packages/f15/kshutdown/po/ru.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 72 | 776 | 9.3 | /mnt/stockage/packages/f15/kshutdown/po/nl.po | 
+ | [ar](/f15/language/ar) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/ar.po | 
+ | [bg](/f15/language/bg) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/bg.po | 
+ | [de](/f15/language/de) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/de.po | 
+ | [el](/f15/language/el) | 778 | 778 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/el.po | 
+ | [es](/f15/language/es) | 772 | 772 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/es.po | 
+ | [pl](/f15/language/pl) | 776 | 776 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/pl.po | 
+ | [sk](/f15/language/sk) | 776 | 776 | 100.0 | /mnt/stockage/packages/f15/kshutdown/po/sk.po | 
+ | [pt_BR](/f15/language/pt_BR) | 773 | 776 | 99.6 | /mnt/stockage/packages/f15/kshutdown/po/pt_BR.po | 
+ | [tr](/f15/language/tr) | 772 | 776 | 99.5 | /mnt/stockage/packages/f15/kshutdown/po/tr.po | 
+ | [cs](/f15/language/cs) | 687 | 776 | 88.5 | /mnt/stockage/packages/f15/kshutdown/po/cs.po | 
+ | [sv](/f15/language/sv) | 687 | 776 | 88.5 | /mnt/stockage/packages/f15/kshutdown/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 643 | 776 | 82.9 | /mnt/stockage/packages/f15/kshutdown/po/zh_CN.po | 
+ | [fr](/f15/language/fr) | 605 | 778 | 77.8 | /mnt/stockage/packages/f15/kshutdown/po/fr.po | 
+ | [it](/f15/language/it) | 318 | 776 | 41.0 | /mnt/stockage/packages/f15/kshutdown/po/it.po | 
+ | [hu](/f15/language/hu) | 275 | 776 | 35.4 | /mnt/stockage/packages/f15/kshutdown/po/hu.po | 
+ | [ru](/f15/language/ru) | 225 | 776 | 29.0 | /mnt/stockage/packages/f15/kshutdown/po/ru.po | 
+ | [nl](/f15/language/nl) | 72 | 776 | 9.3 | /mnt/stockage/packages/f15/kshutdown/po/nl.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package grub2 (version 1.98):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/ast.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/fi.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/id.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/ru.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/zh_CN.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1493 | 1687 | 88.5 | /mnt/stockage/packages/f14/grub2/po/de.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 997 | 1687 | 59.1 | /mnt/stockage/packages/f14/grub2/po/sv.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 357 | 1687 | 21.2 | /mnt/stockage/packages/f14/grub2/po/it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 222 | 1687 | 13.2 | /mnt/stockage/packages/f14/grub2/po/nl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 203 | 1687 | 12.0 | /mnt/stockage/packages/f14/grub2/po/hu.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 161 | 1687 | 9.5 | /mnt/stockage/packages/f14/grub2/po/fr.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 0 | 1687 | 0.0 | /mnt/stockage/packages/f14/grub2/po/ca.po | 
+ | [ast](/f14/language/ast) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/ast.po | 
+ | [fi](/f14/language/fi) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/fi.po | 
+ | [id](/f14/language/id) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/id.po | 
+ | [ru](/f14/language/ru) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/ru.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1589 | 1687 | 94.2 | /mnt/stockage/packages/f14/grub2/po/zh_CN.po | 
+ | [de](/f14/language/de) | 1493 | 1687 | 88.5 | /mnt/stockage/packages/f14/grub2/po/de.po | 
+ | [sv](/f14/language/sv) | 997 | 1687 | 59.1 | /mnt/stockage/packages/f14/grub2/po/sv.po | 
+ | [it](/f14/language/it) | 357 | 1687 | 21.2 | /mnt/stockage/packages/f14/grub2/po/it.po | 
+ | [nl](/f14/language/nl) | 222 | 1687 | 13.2 | /mnt/stockage/packages/f14/grub2/po/nl.po | 
+ | [hu](/f14/language/hu) | 203 | 1687 | 12.0 | /mnt/stockage/packages/f14/grub2/po/hu.po | 
+ | [fr](/f14/language/fr) | 161 | 1687 | 9.5 | /mnt/stockage/packages/f14/grub2/po/fr.po | 
+ | [ca](/f14/language/ca) | 0 | 1687 | 0.0 | /mnt/stockage/packages/f14/grub2/po/ca.po | 
 {.sortable}
 
 

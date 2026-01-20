@@ -18,53 +18,53 @@ The package kiriki (version 19.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/ca/kiriki.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/ca@valencia/kiriki.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/da/kiriki.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/de/kiriki.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/en_GB/kiriki.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/es/kiriki.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/fi/kiriki.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/fr/kiriki.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/gl/kiriki.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/id/kiriki.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/it/kiriki.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/ko/kiriki.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/nl/kiriki.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/nn/kiriki.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/pl/kiriki.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/pt/kiriki.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/pt_BR/kiriki.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sk/kiriki.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sl/kiriki.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sr/kiriki.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sv/kiriki.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/tr/kiriki.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/uk/kiriki.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/zh_CN/kiriki.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/zh_TW/kiriki.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 142 | 144 | 98.6 | /mnt/stockage/packages/f32/kiriki/po/cs/kiriki.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/bs/kiriki.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/el/kiriki.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/et/kiriki.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/hu/kiriki.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/kk/kiriki.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/nb/kiriki.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/nds/kiriki.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/ru/kiriki.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 136 | 144 | 94.4 | /mnt/stockage/packages/f32/kiriki/po/ga/kiriki.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 136 | 144 | 94.4 | /mnt/stockage/packages/f32/kiriki/po/km/kiriki.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 124 | 144 | 86.1 | /mnt/stockage/packages/f32/kiriki/po/lv/kiriki.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 76 | 144 | 52.8 | /mnt/stockage/packages/f32/kiriki/po/eo/kiriki.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 72 | 144 | 50.0 | /mnt/stockage/packages/f32/kiriki/po/ro/kiriki.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 70 | 144 | 48.6 | /mnt/stockage/packages/f32/kiriki/po/ja/kiriki.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 53 | 144 | 36.8 | /mnt/stockage/packages/f32/kiriki/po/ar/kiriki.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 53 | 144 | 36.8 | /mnt/stockage/packages/f32/kiriki/po/hi/kiriki.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 52 | 144 | 36.1 | /mnt/stockage/packages/f32/kiriki/po/lt/kiriki.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 34 | 144 | 23.6 | /mnt/stockage/packages/f32/kiriki/po/ug/kiriki.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 27 | 144 | 18.8 | /mnt/stockage/packages/f32/kiriki/po/mr/kiriki.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 10 | 144 | 6.9 | /mnt/stockage/packages/f32/kiriki/po/hr/kiriki.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 0 | 144 | 0.0 | /mnt/stockage/packages/f32/kiriki/po/is/kiriki.po | 
+ | [ca](/f32/language/ca) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/ca/kiriki.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/ca@valencia/kiriki.po | 
+ | [da](/f32/language/da) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/da/kiriki.po | 
+ | [de](/f32/language/de) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/de/kiriki.po | 
+ | [en_GB](/f32/language/en_GB) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/en_GB/kiriki.po | 
+ | [es](/f32/language/es) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/es/kiriki.po | 
+ | [fi](/f32/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/fi/kiriki.po | 
+ | [fr](/f32/language/fr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/fr/kiriki.po | 
+ | [gl](/f32/language/gl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/gl/kiriki.po | 
+ | [id](/f32/language/id) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/id/kiriki.po | 
+ | [it](/f32/language/it) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/it/kiriki.po | 
+ | [ko](/f32/language/ko) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/ko/kiriki.po | 
+ | [nl](/f32/language/nl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/nl/kiriki.po | 
+ | [nn](/f32/language/nn) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/nn/kiriki.po | 
+ | [pl](/f32/language/pl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/pl/kiriki.po | 
+ | [pt](/f32/language/pt) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/pt/kiriki.po | 
+ | [pt_BR](/f32/language/pt_BR) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/pt_BR/kiriki.po | 
+ | [sk](/f32/language/sk) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sk/kiriki.po | 
+ | [sl](/f32/language/sl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sl/kiriki.po | 
+ | [sr](/f32/language/sr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sr/kiriki.po | 
+ | [sv](/f32/language/sv) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/sv/kiriki.po | 
+ | [tr](/f32/language/tr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/tr/kiriki.po | 
+ | [uk](/f32/language/uk) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/uk/kiriki.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/zh_CN/kiriki.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 144 | 144 | 100.0 | /mnt/stockage/packages/f32/kiriki/po/zh_TW/kiriki.po | 
+ | [cs](/f32/language/cs) | 142 | 144 | 98.6 | /mnt/stockage/packages/f32/kiriki/po/cs/kiriki.po | 
+ | [bs](/f32/language/bs) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/bs/kiriki.po | 
+ | [el](/f32/language/el) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/el/kiriki.po | 
+ | [et](/f32/language/et) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/et/kiriki.po | 
+ | [hu](/f32/language/hu) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/hu/kiriki.po | 
+ | [kk](/f32/language/kk) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/kk/kiriki.po | 
+ | [nb_NO](/f32/language/nb_NO) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/nb/kiriki.po | 
+ | [nds](/f32/language/nds) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/nds/kiriki.po | 
+ | [ru](/f32/language/ru) | 138 | 144 | 95.8 | /mnt/stockage/packages/f32/kiriki/po/ru/kiriki.po | 
+ | [ga](/f32/language/ga) | 136 | 144 | 94.4 | /mnt/stockage/packages/f32/kiriki/po/ga/kiriki.po | 
+ | [km](/f32/language/km) | 136 | 144 | 94.4 | /mnt/stockage/packages/f32/kiriki/po/km/kiriki.po | 
+ | [lv](/f32/language/lv) | 124 | 144 | 86.1 | /mnt/stockage/packages/f32/kiriki/po/lv/kiriki.po | 
+ | [eo](/f32/language/eo) | 76 | 144 | 52.8 | /mnt/stockage/packages/f32/kiriki/po/eo/kiriki.po | 
+ | [ro](/f32/language/ro) | 72 | 144 | 50.0 | /mnt/stockage/packages/f32/kiriki/po/ro/kiriki.po | 
+ | [ja](/f32/language/ja) | 70 | 144 | 48.6 | /mnt/stockage/packages/f32/kiriki/po/ja/kiriki.po | 
+ | [ar](/f32/language/ar) | 53 | 144 | 36.8 | /mnt/stockage/packages/f32/kiriki/po/ar/kiriki.po | 
+ | [hi](/f32/language/hi) | 53 | 144 | 36.8 | /mnt/stockage/packages/f32/kiriki/po/hi/kiriki.po | 
+ | [lt](/f32/language/lt) | 52 | 144 | 36.1 | /mnt/stockage/packages/f32/kiriki/po/lt/kiriki.po | 
+ | [ug](/f32/language/ug) | 34 | 144 | 23.6 | /mnt/stockage/packages/f32/kiriki/po/ug/kiriki.po | 
+ | [mr](/f32/language/mr) | 27 | 144 | 18.8 | /mnt/stockage/packages/f32/kiriki/po/mr/kiriki.po | 
+ | [hr](/f32/language/hr) | 10 | 144 | 6.9 | /mnt/stockage/packages/f32/kiriki/po/hr/kiriki.po | 
+ | [is](/f32/language/is) | 0 | 144 | 0.0 | /mnt/stockage/packages/f32/kiriki/po/is/kiriki.po | 
 {.sortable}
 
 

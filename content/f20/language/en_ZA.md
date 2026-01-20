@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f20/package/iso-codes.md" >}}) | 761 | 774 | 98.3 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 472872 | 534770 | 88.4 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f20/package/tuxpaint.md" >}}) | 492 | 1247 | 39.5 | English (South African) <en_za@li.org> | 
- | [pootle]({{< ref "/f20/package/pootle.md" >}}) | 317 | 2424 | 13.1 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f20/package/virtaal.md" >}}) | 73 | 1171 | 6.2 | English <translate-devel@lists.sourceforge.net> | 
+ | [iso-codes](/f20/package/iso-codes) | 761 | 774 | 98.3 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [libreoffice](/f20/package/libreoffice) | 472872 | 534770 | 88.4 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f20/package/tuxpaint) | 492 | 1247 | 39.5 | English (South African) <en_za@li.org> | 
+ | [pootle](/f20/package/pootle) | 317 | 2424 | 13.1 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f20/package/virtaal) | 73 | 1171 | 6.2 | English <translate-devel@lists.sourceforge.net> | 
 {.sortable}
 
 

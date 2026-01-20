@@ -18,18 +18,18 @@ The package rubygem-virt-p2v (version 0.8.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1655 | 1655 | 100.0 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1655 | 1655 | 100.0 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/pl.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1655 | 1655 | 100.0 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/uk.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1618 | 1655 | 97.8 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/fr.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2863 | 3310 | 86.5 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/es.po/mnt/stockage/packages/f16/rubygem-virt-p2v/po/es_ES.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1035 | 1655 | 62.5 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/it.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 951 | 1655 | 57.5 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/zh_CN.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 833 | 1655 | 50.3 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/ru.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 425 | 1655 | 25.7 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 35 | 1655 | 2.1 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/zh_TW.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 28 | 1655 | 1.7 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/or.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 28 | 1655 | 1.7 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/te.po | 
+ | [nl](/f16/language/nl) | 1655 | 1655 | 100.0 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/nl.po | 
+ | [pl](/f16/language/pl) | 1655 | 1655 | 100.0 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/pl.po | 
+ | [uk](/f16/language/uk) | 1655 | 1655 | 100.0 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/uk.po | 
+ | [fr](/f16/language/fr) | 1618 | 1655 | 97.8 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/fr.po | 
+ | [es](/f16/language/es) | 2863 | 3310 | 86.5 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/es.po/mnt/stockage/packages/f16/rubygem-virt-p2v/po/es_ES.po | 
+ | [it](/f16/language/it) | 1035 | 1655 | 62.5 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/it.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 951 | 1655 | 57.5 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/zh_CN.po | 
+ | [ru](/f16/language/ru) | 833 | 1655 | 50.3 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/ru.po | 
+ | [pt_BR](/f16/language/pt_BR) | 425 | 1655 | 25.7 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/pt_BR.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 35 | 1655 | 2.1 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/zh_TW.po | 
+ | [or](/f16/language/or) | 28 | 1655 | 1.7 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/or.po | 
+ | [te](/f16/language/te) | 28 | 1655 | 1.7 | /mnt/stockage/packages/f16/rubygem-virt-p2v/po/te.po | 
 {.sortable}
 
 

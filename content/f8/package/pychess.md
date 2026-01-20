@@ -18,15 +18,15 @@ The package pychess (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f8/language/az.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/az_AZ/LC_MESSAGES/pychess.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/da_DA/LC_MESSAGES/pychess.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/fr_FR/LC_MESSAGES/pychess.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/hu_HU/LC_MESSAGES/pychess.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/nl_NL/LC_MESSAGES/pychess.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/pt_BR/LC_MESSAGES/pychess.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 457 | 460 | 99.3 | /mnt/stockage/packages/f8/pychess/lang/tr_TR/LC_MESSAGES/pychess.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 371 | 487 | 76.2 | /mnt/stockage/packages/f8/pychess/lang/es_ES/LC_MESSAGES/pychess.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 350 | 460 | 76.1 | /mnt/stockage/packages/f8/pychess/lang/de_DE/LC_MESSAGES/pychess.po | 
+ | [az](/f8/language/az) | 460 | 460 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/az_AZ/LC_MESSAGES/pychess.po | 
+ | [da](/f8/language/da) | 460 | 460 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/da_DA/LC_MESSAGES/pychess.po | 
+ | [fr](/f8/language/fr) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/fr_FR/LC_MESSAGES/pychess.po | 
+ | [hu](/f8/language/hu) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/hu_HU/LC_MESSAGES/pychess.po | 
+ | [nl](/f8/language/nl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/nl_NL/LC_MESSAGES/pychess.po | 
+ | [pt_BR](/f8/language/pt_BR) | 487 | 487 | 100.0 | /mnt/stockage/packages/f8/pychess/lang/pt_BR/LC_MESSAGES/pychess.po | 
+ | [tr](/f8/language/tr) | 457 | 460 | 99.3 | /mnt/stockage/packages/f8/pychess/lang/tr_TR/LC_MESSAGES/pychess.po | 
+ | [es](/f8/language/es) | 371 | 487 | 76.2 | /mnt/stockage/packages/f8/pychess/lang/es_ES/LC_MESSAGES/pychess.po | 
+ | [de](/f8/language/de) | 350 | 460 | 76.1 | /mnt/stockage/packages/f8/pychess/lang/de_DE/LC_MESSAGES/pychess.po | 
 {.sortable}
 
 

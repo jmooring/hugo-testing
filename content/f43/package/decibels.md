@@ -18,53 +18,53 @@ The package decibels (version 49.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f43/language/be.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/bg.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f43/decibels/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fur.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f43/decibels/po/hi.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/hu.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ia.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ka.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/lt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/nb.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ne.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/oc.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/pa.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ru.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f43/decibels/po/rw.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/uk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/uz.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/zh_TW.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 220 | 223 | 98.7 | /mnt/stockage/packages/f43/decibels/po/ar.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 212 | 223 | 95.1 | /mnt/stockage/packages/f43/decibels/po/eo.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 48 | 223 | 21.5 | /mnt/stockage/packages/f43/decibels/po/kab.po | 
+ | [be](/f43/language/be) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/be.po | 
+ | [bg](/f43/language/bg) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/bg.po | 
+ | [ca](/f43/language/ca) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ca.po | 
+ | [cs](/f43/language/cs) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/cs.po | 
+ | [da](/f43/language/da) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/da.po | 
+ | [de](/f43/language/de) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/de.po | 
+ | [el](/f43/language/el) | 176 | 176 | 100.0 | /mnt/stockage/packages/f43/decibels/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/en_GB.po | 
+ | [es](/f43/language/es) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/es.po | 
+ | [eu](/f43/language/eu) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/eu.po | 
+ | [fa](/f43/language/fa) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fa.po | 
+ | [fi](/f43/language/fi) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fi.po | 
+ | [fr](/f43/language/fr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fr.po | 
+ | [fur](/f43/language/fur) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/fur.po | 
+ | [gl](/f43/language/gl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/gl.po | 
+ | [he](/f43/language/he) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/he.po | 
+ | [hi](/f43/language/hi) | 176 | 176 | 100.0 | /mnt/stockage/packages/f43/decibels/po/hi.po | 
+ | [hu](/f43/language/hu) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/hu.po | 
+ | [ia](/f43/language/ia) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ia.po | 
+ | [id](/f43/language/id) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/id.po | 
+ | [it](/f43/language/it) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/it.po | 
+ | [ja](/f43/language/ja) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ja.po | 
+ | [ka](/f43/language/ka) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ka.po | 
+ | [ko](/f43/language/ko) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ko.po | 
+ | [lt](/f43/language/lt) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/lt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/nb.po | 
+ | [ne](/f43/language/ne) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ne.po | 
+ | [nl](/f43/language/nl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/nl.po | 
+ | [oc](/f43/language/oc) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/oc.po | 
+ | [pa](/f43/language/pa) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/pa.po | 
+ | [pt](/f43/language/pt) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ro.po | 
+ | [ru](/f43/language/ru) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/ru.po | 
+ | [rw](/f43/language/rw) | 108 | 108 | 100.0 | /mnt/stockage/packages/f43/decibels/po/rw.po | 
+ | [sk](/f43/language/sk) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sk.po | 
+ | [sl](/f43/language/sl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sl.po | 
+ | [sr](/f43/language/sr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sr.po | 
+ | [sv](/f43/language/sv) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/sv.po | 
+ | [tr](/f43/language/tr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/tr.po | 
+ | [uk](/f43/language/uk) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/uk.po | 
+ | [uz](/f43/language/uz) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/uz.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 223 | 223 | 100.0 | /mnt/stockage/packages/f43/decibels/po/zh_TW.po | 
+ | [ar](/f43/language/ar) | 220 | 223 | 98.7 | /mnt/stockage/packages/f43/decibels/po/ar.po | 
+ | [eo](/f43/language/eo) | 212 | 223 | 95.1 | /mnt/stockage/packages/f43/decibels/po/eo.po | 
+ | [kab](/f43/language/kab) | 48 | 223 | 21.5 | /mnt/stockage/packages/f43/decibels/po/kab.po | 
 {.sortable}
 
 

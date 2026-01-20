@@ -39,13 +39,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f20/package/poedit.md" >}}) | 1361 | 1525 | 89.2 | Kurdish(ckb)-Ú©ÙØ±Ø¯Û <asos.ap11@gmail.com> | 
- | [transmission]({{< ref "/f20/package/transmission.md" >}}) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [midori]({{< ref "/f20/package/midori.md" >}}) | 289 | 3347 | 8.6 | Kurdish (Sorani) <ckb@li.org> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 20 | 1194 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 82 | 11181 | 0.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [terminator]({{< ref "/f20/package/terminator.md" >}}) | 3 | 726 | 0.4 | Kurdish (Sorani) <ckb@li.org> | 
- | [lightdm]({{< ref "/f20/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [poedit](/f20/package/poedit) | 1361 | 1525 | 89.2 | Kurdish(ckb)-Ú©ÙØ±Ø¯Û <asos.ap11@gmail.com> | 
+ | [transmission](/f20/package/transmission) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [midori](/f20/package/midori) | 289 | 3347 | 8.6 | Kurdish (Sorani) <ckb@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 20 | 1194 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [stellarium](/f20/package/stellarium) | 82 | 11181 | 0.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [terminator](/f20/package/terminator) | 3 | 726 | 0.4 | Kurdish (Sorani) <ckb@li.org> | 
+ | [lightdm](/f20/package/lightdm) | 0 | 79 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
 {.sortable}
 
 

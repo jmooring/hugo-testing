@@ -18,44 +18,44 @@ The package lxlauncher (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f15/language/af.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/af.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ar.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/fr.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/hr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ja.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/lt.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/pt_BR.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/sk.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/uk.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ur.po | 
- | [ur_PK]({{< ref "/f15/language/ur_PK.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ur_PK.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 21 | 51 | 41.2 | /mnt/stockage/packages/f15/lxlauncher/po/ru.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 18 | 51 | 35.3 | /mnt/stockage/packages/f15/lxlauncher/po/et.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 8 | 51 | 15.7 | /mnt/stockage/packages/f15/lxlauncher/po/fi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 4 | 51 | 7.8 | /mnt/stockage/packages/f15/lxlauncher/po/zh_CN.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/fa.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/gl.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/ko.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/ml.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/nb.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/nn.po | 
- | [ps]({{< ref "/f15/language/ps.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/ps.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/tr.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/vi.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/zh_TW.po | 
+ | [af](/f15/language/af) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/af.po | 
+ | [ar](/f15/language/ar) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ar.po | 
+ | [cs](/f15/language/cs) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/cs.po | 
+ | [da](/f15/language/da) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/da.po | 
+ | [de](/f15/language/de) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/de.po | 
+ | [es](/f15/language/es) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/es.po | 
+ | [eu](/f15/language/eu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/eu.po | 
+ | [fr](/f15/language/fr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/fr.po | 
+ | [hr](/f15/language/hr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/hr.po | 
+ | [hu](/f15/language/hu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/hu.po | 
+ | [id](/f15/language/id) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/id.po | 
+ | [it](/f15/language/it) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/it.po | 
+ | [ja](/f15/language/ja) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ja.po | 
+ | [lt](/f15/language/lt) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/lt.po | 
+ | [nl](/f15/language/nl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/nl.po | 
+ | [pl](/f15/language/pl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/pl.po | 
+ | [pt](/f15/language/pt) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/pt_BR.po | 
+ | [sk](/f15/language/sk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/sk.po | 
+ | [sl](/f15/language/sl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/sl.po | 
+ | [sv](/f15/language/sv) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/sv.po | 
+ | [uk](/f15/language/uk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/uk.po | 
+ | [ur](/f15/language/ur) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ur.po | 
+ | [ur_PK](/f15/language/ur_PK) | 51 | 51 | 100.0 | /mnt/stockage/packages/f15/lxlauncher/po/ur_PK.po | 
+ | [ru](/f15/language/ru) | 21 | 51 | 41.2 | /mnt/stockage/packages/f15/lxlauncher/po/ru.po | 
+ | [et](/f15/language/et) | 18 | 51 | 35.3 | /mnt/stockage/packages/f15/lxlauncher/po/et.po | 
+ | [fi](/f15/language/fi) | 8 | 51 | 15.7 | /mnt/stockage/packages/f15/lxlauncher/po/fi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 4 | 51 | 7.8 | /mnt/stockage/packages/f15/lxlauncher/po/zh_CN.po | 
+ | [fa](/f15/language/fa) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/fa.po | 
+ | [gl](/f15/language/gl) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/gl.po | 
+ | [ko](/f15/language/ko) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/ko.po | 
+ | [ml](/f15/language/ml) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/ml.po | 
+ | [nb_NO](/f15/language/nb_NO) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/nb.po | 
+ | [nn](/f15/language/nn) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/nn.po | 
+ | [ps](/f15/language/ps) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/ps.po | 
+ | [tr](/f15/language/tr) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/tr.po | 
+ | [vi](/f15/language/vi) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/vi.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 0 | 51 | 0.0 | /mnt/stockage/packages/f15/lxlauncher/po/zh_TW.po | 
 {.sortable}
 
 

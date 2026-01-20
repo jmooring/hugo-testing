@@ -18,11 +18,11 @@ The package mono-tools (version 2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 254 | 331 | 76.7 | /mnt/stockage/packages/f17/mono-tools/po/pt_BR.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 31 | 331 | 9.4 | /mnt/stockage/packages/f17/mono-tools/po/ca.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 2 | 331 | 0.6 | /mnt/stockage/packages/f17/mono-tools/po/da.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 2 | 331 | 0.6 | /mnt/stockage/packages/f17/mono-tools/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 0 | 331 | 0.0 | /mnt/stockage/packages/f17/mono-tools/po/fr.po | 
+ | [pt_BR](/f17/language/pt_BR) | 254 | 331 | 76.7 | /mnt/stockage/packages/f17/mono-tools/po/pt_BR.po | 
+ | [ca](/f17/language/ca) | 31 | 331 | 9.4 | /mnt/stockage/packages/f17/mono-tools/po/ca.po | 
+ | [da](/f17/language/da) | 2 | 331 | 0.6 | /mnt/stockage/packages/f17/mono-tools/po/da.po | 
+ | [es](/f17/language/es) | 2 | 331 | 0.6 | /mnt/stockage/packages/f17/mono-tools/po/es.po | 
+ | [fr](/f17/language/fr) | 0 | 331 | 0.0 | /mnt/stockage/packages/f17/mono-tools/po/fr.po | 
 {.sortable}
 
 

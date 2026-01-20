@@ -18,8 +18,8 @@ The package scim-chewing (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/scim-chewing/po/nl.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/scim-chewing/po/zh_TW.po | 
+ | [nl](/f14/language/nl) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/scim-chewing/po/nl.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 306 | 306 | 100.0 | /mnt/stockage/packages/f14/scim-chewing/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package trytond-stock-supply (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/ca_ES.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/de_DE.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_ES.po | 
- | [es_AR]({{< ref "/f25/language/es_AR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_AR.po | 
- | [es_CO]({{< ref "/f25/language/es_CO.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_CO.po | 
- | [es_EC]({{< ref "/f25/language/es_EC.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_EC.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/pt_BR.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/sl_SI.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 145 | 147 | 98.6 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/hu_HU.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 118 | 147 | 80.3 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_MX.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 104 | 147 | 70.7 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/bg_BG.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 104 | 147 | 70.7 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/ru_RU.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/cs_CZ.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/it_IT.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/ja_JP.po | 
- | [lo]({{< ref "/f25/language/lo.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/lo_LA.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/lt_LT.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/zh_CN.po | 
+ | [ca](/f25/language/ca) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/ca_ES.po | 
+ | [de](/f25/language/de) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/de_DE.po | 
+ | [es](/f25/language/es) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_ES.po | 
+ | [es_AR](/f25/language/es_AR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_AR.po | 
+ | [es_CO](/f25/language/es_CO) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_CO.po | 
+ | [es_EC](/f25/language/es_EC) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_EC.po | 
+ | [fr](/f25/language/fr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/fr_FR.po | 
+ | [pt_BR](/f25/language/pt_BR) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/pt_BR.po | 
+ | [sl](/f25/language/sl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/sl_SI.po | 
+ | [hu](/f25/language/hu) | 145 | 147 | 98.6 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/hu_HU.po | 
+ | [es_MX](/f25/language/es_MX) | 118 | 147 | 80.3 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/es_MX.po | 
+ | [bg](/f25/language/bg) | 104 | 147 | 70.7 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/bg_BG.po | 
+ | [ru](/f25/language/ru) | 104 | 147 | 70.7 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/ru_RU.po | 
+ | [cs](/f25/language/cs) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/cs_CZ.po | 
+ | [it](/f25/language/it) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/it_IT.po | 
+ | [ja](/f25/language/ja) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/ja_JP.po | 
+ | [lo](/f25/language/lo) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/lo_LA.po | 
+ | [lt](/f25/language/lt) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/lt_LT.po | 
+ | [nl](/f25/language/nl) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/nl_NL.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 0 | 147 | 0.0 | /mnt/stockage/packages/f25/trytond-stock-supply/locale/zh_CN.po | 
 {.sortable}
 
 

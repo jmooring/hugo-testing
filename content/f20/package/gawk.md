@@ -18,18 +18,18 @@ The package gawk (version 4.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/it.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/sv.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/vi.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 3982 | 4553 | 87.5 | /mnt/stockage/packages/f20/gawk/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 3856 | 4553 | 84.7 | /mnt/stockage/packages/f20/gawk/po/pl.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/es.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/fi.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 2500 | 4553 | 54.9 | /mnt/stockage/packages/f20/gawk/po/ja.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 43 | 4553 | 0.9 | /mnt/stockage/packages/f20/gawk/po/ms.po | 
+ | [fr](/f20/language/fr) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/fr.po | 
+ | [it](/f20/language/it) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/it.po | 
+ | [sv](/f20/language/sv) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/sv.po | 
+ | [vi](/f20/language/vi) | 4544 | 4553 | 99.8 | /mnt/stockage/packages/f20/gawk/po/vi.po | 
+ | [nl](/f20/language/nl) | 3982 | 4553 | 87.5 | /mnt/stockage/packages/f20/gawk/po/nl.po | 
+ | [pl](/f20/language/pl) | 3856 | 4553 | 84.7 | /mnt/stockage/packages/f20/gawk/po/pl.po | 
+ | [da](/f20/language/da) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/da.po | 
+ | [de](/f20/language/de) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/de.po | 
+ | [es](/f20/language/es) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/es.po | 
+ | [fi](/f20/language/fi) | 2519 | 4553 | 55.3 | /mnt/stockage/packages/f20/gawk/po/fi.po | 
+ | [ja](/f20/language/ja) | 2500 | 4553 | 54.9 | /mnt/stockage/packages/f20/gawk/po/ja.po | 
+ | [ms](/f20/language/ms) | 43 | 4553 | 0.9 | /mnt/stockage/packages/f20/gawk/po/ms.po | 
 {.sortable}
 
 

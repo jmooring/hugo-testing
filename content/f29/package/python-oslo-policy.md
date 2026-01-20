@@ -18,8 +18,8 @@ The package python-oslo-policy (version 1.33.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f29/python-oslo-policy/oslo_policy/locale/en_GB/LC_MESSAGES/oslo_policy.po/mnt/stockage/packages/f29/python-oslo-policy/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f29/python-oslo-policy/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f29/language/en_GB) | 334 | 334 | 100.0 | /mnt/stockage/packages/f29/python-oslo-policy/oslo_policy/locale/en_GB/LC_MESSAGES/oslo_policy.po/mnt/stockage/packages/f29/python-oslo-policy/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f29/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f29/python-oslo-policy/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

@@ -18,38 +18,38 @@ The package ruqola (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ar/ruqola.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ca/ruqola.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ca@valencia/ruqola.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/es/ruqola.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/eu/ruqola.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ka/ruqola.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/nl/ruqola.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/pt_BR/ruqola.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/sl/ruqola.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/sv/ruqola.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/uk/ruqola.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 8856 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/fr/ruqola.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 8856 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/it/ruqola.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 8855 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/gl/ruqola.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 8855 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/ru/ruqola.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 8811 | 9145 | 96.3 | /mnt/stockage/packages/f43/ruqola/po/pl/ruqola.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 8366 | 9145 | 91.5 | /mnt/stockage/packages/f43/ruqola/po/fi/ruqola.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 8248 | 9145 | 90.2 | /mnt/stockage/packages/f43/ruqola/po/hu/ruqola.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 8200 | 9145 | 89.7 | /mnt/stockage/packages/f43/ruqola/po/eo/ruqola.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 7876 | 9145 | 86.1 | /mnt/stockage/packages/f43/ruqola/po/en_GB/ruqola.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 6133 | 9145 | 67.1 | /mnt/stockage/packages/f43/ruqola/po/tr/ruqola.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 5521 | 9145 | 60.4 | /mnt/stockage/packages/f43/ruqola/po/ia/ruqola.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 4326 | 9145 | 47.3 | /mnt/stockage/packages/f43/ruqola/po/pt/ruqola.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 2943 | 9145 | 32.2 | /mnt/stockage/packages/f43/ruqola/po/cs/ruqola.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 2850 | 9145 | 31.2 | /mnt/stockage/packages/f43/ruqola/po/zh_TW/ruqola.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 1179 | 9145 | 12.9 | /mnt/stockage/packages/f43/ruqola/po/et/ruqola.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1033 | 9145 | 11.3 | /mnt/stockage/packages/f43/ruqola/po/de/ruqola.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 442 | 9145 | 4.8 | /mnt/stockage/packages/f43/ruqola/po/lt/ruqola.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 97 | 9145 | 1.1 | /mnt/stockage/packages/f43/ruqola/po/zh_CN/ruqola.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 87 | 9145 | 1.0 | /mnt/stockage/packages/f43/ruqola/po/sk/ruqola.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 1 | 9145 | 0.0 | /mnt/stockage/packages/f43/ruqola/po/ast/ruqola.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 9145 | 0.0 | /mnt/stockage/packages/f43/ruqola/po/ja/ruqola.po | 
+ | [ar](/f43/language/ar) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ar/ruqola.po | 
+ | [ca](/f43/language/ca) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ca/ruqola.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ca@valencia/ruqola.po | 
+ | [es](/f43/language/es) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/es/ruqola.po | 
+ | [eu](/f43/language/eu) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/eu/ruqola.po | 
+ | [ka](/f43/language/ka) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/ka/ruqola.po | 
+ | [nl](/f43/language/nl) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/nl/ruqola.po | 
+ | [pt_BR](/f43/language/pt_BR) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/pt_BR/ruqola.po | 
+ | [sl](/f43/language/sl) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/sl/ruqola.po | 
+ | [sv](/f43/language/sv) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/sv/ruqola.po | 
+ | [uk](/f43/language/uk) | 9145 | 9145 | 100.0 | /mnt/stockage/packages/f43/ruqola/po/uk/ruqola.po | 
+ | [fr](/f43/language/fr) | 8856 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/fr/ruqola.po | 
+ | [it](/f43/language/it) | 8856 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/it/ruqola.po | 
+ | [gl](/f43/language/gl) | 8855 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/gl/ruqola.po | 
+ | [ru](/f43/language/ru) | 8855 | 9145 | 96.8 | /mnt/stockage/packages/f43/ruqola/po/ru/ruqola.po | 
+ | [pl](/f43/language/pl) | 8811 | 9145 | 96.3 | /mnt/stockage/packages/f43/ruqola/po/pl/ruqola.po | 
+ | [fi](/f43/language/fi) | 8366 | 9145 | 91.5 | /mnt/stockage/packages/f43/ruqola/po/fi/ruqola.po | 
+ | [hu](/f43/language/hu) | 8248 | 9145 | 90.2 | /mnt/stockage/packages/f43/ruqola/po/hu/ruqola.po | 
+ | [eo](/f43/language/eo) | 8200 | 9145 | 89.7 | /mnt/stockage/packages/f43/ruqola/po/eo/ruqola.po | 
+ | [en_GB](/f43/language/en_GB) | 7876 | 9145 | 86.1 | /mnt/stockage/packages/f43/ruqola/po/en_GB/ruqola.po | 
+ | [tr](/f43/language/tr) | 6133 | 9145 | 67.1 | /mnt/stockage/packages/f43/ruqola/po/tr/ruqola.po | 
+ | [ia](/f43/language/ia) | 5521 | 9145 | 60.4 | /mnt/stockage/packages/f43/ruqola/po/ia/ruqola.po | 
+ | [pt](/f43/language/pt) | 4326 | 9145 | 47.3 | /mnt/stockage/packages/f43/ruqola/po/pt/ruqola.po | 
+ | [cs](/f43/language/cs) | 2943 | 9145 | 32.2 | /mnt/stockage/packages/f43/ruqola/po/cs/ruqola.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 2850 | 9145 | 31.2 | /mnt/stockage/packages/f43/ruqola/po/zh_TW/ruqola.po | 
+ | [et](/f43/language/et) | 1179 | 9145 | 12.9 | /mnt/stockage/packages/f43/ruqola/po/et/ruqola.po | 
+ | [de](/f43/language/de) | 1033 | 9145 | 11.3 | /mnt/stockage/packages/f43/ruqola/po/de/ruqola.po | 
+ | [lt](/f43/language/lt) | 442 | 9145 | 4.8 | /mnt/stockage/packages/f43/ruqola/po/lt/ruqola.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 97 | 9145 | 1.1 | /mnt/stockage/packages/f43/ruqola/po/zh_CN/ruqola.po | 
+ | [sk](/f43/language/sk) | 87 | 9145 | 1.0 | /mnt/stockage/packages/f43/ruqola/po/sk/ruqola.po | 
+ | [ast](/f43/language/ast) | 1 | 9145 | 0.0 | /mnt/stockage/packages/f43/ruqola/po/ast/ruqola.po | 
+ | [ja](/f43/language/ja) | 0 | 9145 | 0.0 | /mnt/stockage/packages/f43/ruqola/po/ja/ruqola.po | 
 {.sortable}
 
 

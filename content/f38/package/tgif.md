@@ -18,9 +18,9 @@ The package tgif (version 4.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2439 | 16675 | 14.6 | /mnt/stockage/packages/f38/tgif/po/ru/ru.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/tgif/po/fr/fr.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/tgif/po/ja/ja.po | 
+ | [ru](/f38/language/ru) | 2439 | 16675 | 14.6 | /mnt/stockage/packages/f38/tgif/po/ru/ru.po | 
+ | [fr](/f38/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/tgif/po/fr/fr.po | 
+ | [ja](/f38/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/tgif/po/ja/ja.po | 
 {.sortable}
 
 

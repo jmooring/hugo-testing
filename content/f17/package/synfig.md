@@ -18,22 +18,22 @@ The package synfig (version 0.63.05):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 3989 | 3989 | 100.0 | /mnt/stockage/packages/f17/synfig/po/es.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 3936 | 3989 | 98.7 | /mnt/stockage/packages/f17/synfig/po/en_GB.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 3936 | 3989 | 98.7 | /mnt/stockage/packages/f17/synfig/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 3936 | 3989 | 98.7 | /mnt/stockage/packages/f17/synfig/po/it.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 3895 | 3989 | 97.6 | /mnt/stockage/packages/f17/synfig/po/nl.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 3229 | 3989 | 80.9 | /mnt/stockage/packages/f17/synfig/po/de.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2680 | 3989 | 67.2 | /mnt/stockage/packages/f17/synfig/po/zh_CN.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 1682 | 3989 | 42.2 | /mnt/stockage/packages/f17/synfig/po/lt.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1679 | 3989 | 42.1 | /mnt/stockage/packages/f17/synfig/po/ru.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1509 | 3989 | 37.8 | /mnt/stockage/packages/f17/synfig/po/pt_BR.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 1215 | 3989 | 30.5 | /mnt/stockage/packages/f17/synfig/po/fa_IR.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 702 | 3989 | 17.6 | /mnt/stockage/packages/f17/synfig/po/pl_PL.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 288 | 3989 | 7.2 | /mnt/stockage/packages/f17/synfig/po/ro.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 207 | 3989 | 5.2 | /mnt/stockage/packages/f17/synfig/po/no_NO.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 112 | 3989 | 2.8 | /mnt/stockage/packages/f17/synfig/po/sk_SK.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 32 | 3989 | 0.8 | /mnt/stockage/packages/f17/synfig/po/el_GR.po | 
+ | [es](/f17/language/es) | 3989 | 3989 | 100.0 | /mnt/stockage/packages/f17/synfig/po/es.po | 
+ | [en_GB](/f17/language/en_GB) | 3936 | 3989 | 98.7 | /mnt/stockage/packages/f17/synfig/po/en_GB.po | 
+ | [fr](/f17/language/fr) | 3936 | 3989 | 98.7 | /mnt/stockage/packages/f17/synfig/po/fr.po | 
+ | [it](/f17/language/it) | 3936 | 3989 | 98.7 | /mnt/stockage/packages/f17/synfig/po/it.po | 
+ | [nl](/f17/language/nl) | 3895 | 3989 | 97.6 | /mnt/stockage/packages/f17/synfig/po/nl.po | 
+ | [de](/f17/language/de) | 3229 | 3989 | 80.9 | /mnt/stockage/packages/f17/synfig/po/de.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2680 | 3989 | 67.2 | /mnt/stockage/packages/f17/synfig/po/zh_CN.po | 
+ | [lt](/f17/language/lt) | 1682 | 3989 | 42.2 | /mnt/stockage/packages/f17/synfig/po/lt.po | 
+ | [ru](/f17/language/ru) | 1679 | 3989 | 42.1 | /mnt/stockage/packages/f17/synfig/po/ru.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1509 | 3989 | 37.8 | /mnt/stockage/packages/f17/synfig/po/pt_BR.po | 
+ | [fa](/f17/language/fa) | 1215 | 3989 | 30.5 | /mnt/stockage/packages/f17/synfig/po/fa_IR.po | 
+ | [pl](/f17/language/pl) | 702 | 3989 | 17.6 | /mnt/stockage/packages/f17/synfig/po/pl_PL.po | 
+ | [ro](/f17/language/ro) | 288 | 3989 | 7.2 | /mnt/stockage/packages/f17/synfig/po/ro.po | 
+ | [nb_NO](/f17/language/nb_NO) | 207 | 3989 | 5.2 | /mnt/stockage/packages/f17/synfig/po/no_NO.po | 
+ | [sk](/f17/language/sk) | 112 | 3989 | 2.8 | /mnt/stockage/packages/f17/synfig/po/sk_SK.po | 
+ | [el](/f17/language/el) | 32 | 3989 | 0.8 | /mnt/stockage/packages/f17/synfig/po/el_GR.po | 
 {.sortable}
 
 

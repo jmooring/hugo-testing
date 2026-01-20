@@ -18,12 +18,12 @@ The package emelfm2 (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 6045 | 6094 | 99.2 | /mnt/stockage/packages/f20/emelfm2/po/ru.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 6044 | 6094 | 99.2 | /mnt/stockage/packages/f20/emelfm2/po/fr.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 6018 | 6094 | 98.8 | /mnt/stockage/packages/f20/emelfm2/po/de.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 5821 | 6094 | 95.5 | /mnt/stockage/packages/f20/emelfm2/po/zh_CN.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 5607 | 6094 | 92.0 | /mnt/stockage/packages/f20/emelfm2/po/pl.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 4771 | 6094 | 78.3 | /mnt/stockage/packages/f20/emelfm2/po/ja.po | 
+ | [ru](/f20/language/ru) | 6045 | 6094 | 99.2 | /mnt/stockage/packages/f20/emelfm2/po/ru.po | 
+ | [fr](/f20/language/fr) | 6044 | 6094 | 99.2 | /mnt/stockage/packages/f20/emelfm2/po/fr.po | 
+ | [de](/f20/language/de) | 6018 | 6094 | 98.8 | /mnt/stockage/packages/f20/emelfm2/po/de.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 5821 | 6094 | 95.5 | /mnt/stockage/packages/f20/emelfm2/po/zh_CN.po | 
+ | [pl](/f20/language/pl) | 5607 | 6094 | 92.0 | /mnt/stockage/packages/f20/emelfm2/po/pl.po | 
+ | [ja](/f20/language/ja) | 4771 | 6094 | 78.3 | /mnt/stockage/packages/f20/emelfm2/po/ja.po | 
 {.sortable}
 
 

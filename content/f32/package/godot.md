@@ -18,64 +18,64 @@ The package godot (version 3.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/es.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/es_AR.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/fr.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/ko.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/pt_BR.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/pt_PT.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 9536 | 9616 | 99.2 | /mnt/stockage/packages/f32/godot/editor/translations/zh_CN.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 9403 | 9616 | 97.8 | /mnt/stockage/packages/f32/godot/editor/translations/ru.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 9327 | 9616 | 97.0 | /mnt/stockage/packages/f32/godot/editor/translations/it.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 8041 | 9616 | 83.6 | /mnt/stockage/packages/f32/godot/editor/translations/ca.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 7626 | 9616 | 79.3 | /mnt/stockage/packages/f32/godot/editor/translations/el.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 7244 | 9616 | 75.3 | /mnt/stockage/packages/f32/godot/editor/translations/tr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 7181 | 9616 | 74.7 | /mnt/stockage/packages/f32/godot/editor/translations/nl.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 6580 | 9616 | 68.4 | /mnt/stockage/packages/f32/godot/editor/translations/ja.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 6247 | 9616 | 65.0 | /mnt/stockage/packages/f32/godot/editor/translations/th.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 5826 | 9616 | 60.6 | /mnt/stockage/packages/f32/godot/editor/translations/cs.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 4705 | 9616 | 48.9 | /mnt/stockage/packages/f32/godot/editor/translations/bn.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 4640 | 9616 | 48.3 | /mnt/stockage/packages/f32/godot/editor/translations/zh_TW.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 4488 | 9616 | 46.7 | /mnt/stockage/packages/f32/godot/editor/translations/id.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 4085 | 9616 | 42.5 | /mnt/stockage/packages/f32/godot/editor/translations/ar.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 3695 | 9616 | 38.4 | /mnt/stockage/packages/f32/godot/editor/translations/hu.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 3667 | 9616 | 38.1 | /mnt/stockage/packages/f32/godot/editor/translations/da.po | 
- | [sr_Cyrl]({{< ref "/f32/language/sr_Cyrl.md" >}}) | 3656 | 9616 | 38.0 | /mnt/stockage/packages/f32/godot/editor/translations/sr_Cyrl.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 3491 | 9616 | 36.3 | /mnt/stockage/packages/f32/godot/editor/translations/ro.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 3468 | 9616 | 36.1 | /mnt/stockage/packages/f32/godot/editor/translations/nb.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 3342 | 9616 | 34.8 | /mnt/stockage/packages/f32/godot/editor/translations/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 2685 | 9616 | 27.9 | /mnt/stockage/packages/f32/godot/editor/translations/sq.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 2056 | 9616 | 21.4 | /mnt/stockage/packages/f32/godot/editor/translations/he.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 1804 | 9616 | 18.8 | /mnt/stockage/packages/f32/godot/editor/translations/fa.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1167 | 9616 | 12.1 | /mnt/stockage/packages/f32/godot/editor/translations/bg.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 1066 | 9616 | 11.1 | /mnt/stockage/packages/f32/godot/editor/translations/vi.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 775 | 9616 | 8.1 | /mnt/stockage/packages/f32/godot/editor/translations/af.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 607 | 9616 | 6.3 | /mnt/stockage/packages/f32/godot/editor/translations/sv.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 555 | 9616 | 5.8 | /mnt/stockage/packages/f32/godot/editor/translations/zh_HK.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 529 | 9616 | 5.5 | /mnt/stockage/packages/f32/godot/editor/translations/ka.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 522 | 9616 | 5.4 | /mnt/stockage/packages/f32/godot/editor/translations/sk.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 484 | 9616 | 5.0 | /mnt/stockage/packages/f32/godot/editor/translations/lv.po | 
- | [en@pirate]({{< ref "/f32/language/en@pirate.md" >}}) | 403 | 9616 | 4.2 | /mnt/stockage/packages/f32/godot/editor/translations/pr.po | 
- | [de_CH]({{< ref "/f32/language/de_CH.md" >}}) | 401 | 9616 | 4.2 | /mnt/stockage/packages/f32/godot/editor/translations/de_CH.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 362 | 9616 | 3.8 | /mnt/stockage/packages/f32/godot/editor/translations/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 286 | 9616 | 3.0 | /mnt/stockage/packages/f32/godot/editor/translations/hr.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 234 | 9616 | 2.4 | /mnt/stockage/packages/f32/godot/editor/translations/si.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 218 | 9616 | 2.3 | /mnt/stockage/packages/f32/godot/editor/translations/lt.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 85 | 9616 | 0.9 | /mnt/stockage/packages/f32/godot/editor/translations/eo.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 84 | 9616 | 0.9 | /mnt/stockage/packages/f32/godot/editor/translations/sr_Latn.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 45 | 9616 | 0.5 | /mnt/stockage/packages/f32/godot/editor/translations/is.po | 
- | [ur_PK]({{< ref "/f32/language/ur_PK.md" >}}) | 45 | 9616 | 0.5 | /mnt/stockage/packages/f32/godot/editor/translations/ur_PK.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 42 | 9616 | 0.4 | /mnt/stockage/packages/f32/godot/editor/translations/ml.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 23 | 9616 | 0.2 | /mnt/stockage/packages/f32/godot/editor/translations/ms.po | 
- | [fil]({{< ref "/f32/language/fil.md" >}}) | 18 | 9616 | 0.2 | /mnt/stockage/packages/f32/godot/editor/translations/fil.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 15 | 9616 | 0.2 | /mnt/stockage/packages/f32/godot/editor/translations/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 11 | 9616 | 0.1 | /mnt/stockage/packages/f32/godot/editor/translations/te.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 0 | 9616 | 0.0 | /mnt/stockage/packages/f32/godot/editor/translations/et.po | 
- | [mi]({{< ref "/f32/language/mi.md" >}}) | 0 | 9616 | 0.0 | /mnt/stockage/packages/f32/godot/editor/translations/mi.po | 
+ | [de](/f32/language/de) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/de.po | 
+ | [es](/f32/language/es) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/es.po | 
+ | [es_AR](/f32/language/es_AR) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/es_AR.po | 
+ | [fi](/f32/language/fi) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/fi.po | 
+ | [fr](/f32/language/fr) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/fr.po | 
+ | [ko](/f32/language/ko) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/ko.po | 
+ | [pl](/f32/language/pl) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/pt_BR.po | 
+ | [pt_PT](/f32/language/pt_PT) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/pt_PT.po | 
+ | [uk](/f32/language/uk) | 9586 | 9616 | 99.7 | /mnt/stockage/packages/f32/godot/editor/translations/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 9536 | 9616 | 99.2 | /mnt/stockage/packages/f32/godot/editor/translations/zh_CN.po | 
+ | [ru](/f32/language/ru) | 9403 | 9616 | 97.8 | /mnt/stockage/packages/f32/godot/editor/translations/ru.po | 
+ | [it](/f32/language/it) | 9327 | 9616 | 97.0 | /mnt/stockage/packages/f32/godot/editor/translations/it.po | 
+ | [ca](/f32/language/ca) | 8041 | 9616 | 83.6 | /mnt/stockage/packages/f32/godot/editor/translations/ca.po | 
+ | [el](/f32/language/el) | 7626 | 9616 | 79.3 | /mnt/stockage/packages/f32/godot/editor/translations/el.po | 
+ | [tr](/f32/language/tr) | 7244 | 9616 | 75.3 | /mnt/stockage/packages/f32/godot/editor/translations/tr.po | 
+ | [nl](/f32/language/nl) | 7181 | 9616 | 74.7 | /mnt/stockage/packages/f32/godot/editor/translations/nl.po | 
+ | [ja](/f32/language/ja) | 6580 | 9616 | 68.4 | /mnt/stockage/packages/f32/godot/editor/translations/ja.po | 
+ | [th](/f32/language/th) | 6247 | 9616 | 65.0 | /mnt/stockage/packages/f32/godot/editor/translations/th.po | 
+ | [cs](/f32/language/cs) | 5826 | 9616 | 60.6 | /mnt/stockage/packages/f32/godot/editor/translations/cs.po | 
+ | [bn](/f32/language/bn) | 4705 | 9616 | 48.9 | /mnt/stockage/packages/f32/godot/editor/translations/bn.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 4640 | 9616 | 48.3 | /mnt/stockage/packages/f32/godot/editor/translations/zh_TW.po | 
+ | [id](/f32/language/id) | 4488 | 9616 | 46.7 | /mnt/stockage/packages/f32/godot/editor/translations/id.po | 
+ | [ar](/f32/language/ar) | 4085 | 9616 | 42.5 | /mnt/stockage/packages/f32/godot/editor/translations/ar.po | 
+ | [hu](/f32/language/hu) | 3695 | 9616 | 38.4 | /mnt/stockage/packages/f32/godot/editor/translations/hu.po | 
+ | [da](/f32/language/da) | 3667 | 9616 | 38.1 | /mnt/stockage/packages/f32/godot/editor/translations/da.po | 
+ | [sr_Cyrl](/f32/language/sr_Cyrl) | 3656 | 9616 | 38.0 | /mnt/stockage/packages/f32/godot/editor/translations/sr_Cyrl.po | 
+ | [ro](/f32/language/ro) | 3491 | 9616 | 36.3 | /mnt/stockage/packages/f32/godot/editor/translations/ro.po | 
+ | [nb_NO](/f32/language/nb_NO) | 3468 | 9616 | 36.1 | /mnt/stockage/packages/f32/godot/editor/translations/nb.po | 
+ | [sl](/f32/language/sl) | 3342 | 9616 | 34.8 | /mnt/stockage/packages/f32/godot/editor/translations/sl.po | 
+ | [sq](/f32/language/sq) | 2685 | 9616 | 27.9 | /mnt/stockage/packages/f32/godot/editor/translations/sq.po | 
+ | [he](/f32/language/he) | 2056 | 9616 | 21.4 | /mnt/stockage/packages/f32/godot/editor/translations/he.po | 
+ | [fa](/f32/language/fa) | 1804 | 9616 | 18.8 | /mnt/stockage/packages/f32/godot/editor/translations/fa.po | 
+ | [bg](/f32/language/bg) | 1167 | 9616 | 12.1 | /mnt/stockage/packages/f32/godot/editor/translations/bg.po | 
+ | [vi](/f32/language/vi) | 1066 | 9616 | 11.1 | /mnt/stockage/packages/f32/godot/editor/translations/vi.po | 
+ | [af](/f32/language/af) | 775 | 9616 | 8.1 | /mnt/stockage/packages/f32/godot/editor/translations/af.po | 
+ | [sv](/f32/language/sv) | 607 | 9616 | 6.3 | /mnt/stockage/packages/f32/godot/editor/translations/sv.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 555 | 9616 | 5.8 | /mnt/stockage/packages/f32/godot/editor/translations/zh_HK.po | 
+ | [ka](/f32/language/ka) | 529 | 9616 | 5.5 | /mnt/stockage/packages/f32/godot/editor/translations/ka.po | 
+ | [sk](/f32/language/sk) | 522 | 9616 | 5.4 | /mnt/stockage/packages/f32/godot/editor/translations/sk.po | 
+ | [lv](/f32/language/lv) | 484 | 9616 | 5.0 | /mnt/stockage/packages/f32/godot/editor/translations/lv.po | 
+ | [en@pirate](/f32/language/en@pirate) | 403 | 9616 | 4.2 | /mnt/stockage/packages/f32/godot/editor/translations/pr.po | 
+ | [de_CH](/f32/language/de_CH) | 401 | 9616 | 4.2 | /mnt/stockage/packages/f32/godot/editor/translations/de_CH.po | 
+ | [hi](/f32/language/hi) | 362 | 9616 | 3.8 | /mnt/stockage/packages/f32/godot/editor/translations/hi.po | 
+ | [hr](/f32/language/hr) | 286 | 9616 | 3.0 | /mnt/stockage/packages/f32/godot/editor/translations/hr.po | 
+ | [si](/f32/language/si) | 234 | 9616 | 2.4 | /mnt/stockage/packages/f32/godot/editor/translations/si.po | 
+ | [lt](/f32/language/lt) | 218 | 9616 | 2.3 | /mnt/stockage/packages/f32/godot/editor/translations/lt.po | 
+ | [eo](/f32/language/eo) | 85 | 9616 | 0.9 | /mnt/stockage/packages/f32/godot/editor/translations/eo.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 84 | 9616 | 0.9 | /mnt/stockage/packages/f32/godot/editor/translations/sr_Latn.po | 
+ | [is](/f32/language/is) | 45 | 9616 | 0.5 | /mnt/stockage/packages/f32/godot/editor/translations/is.po | 
+ | [ur_PK](/f32/language/ur_PK) | 45 | 9616 | 0.5 | /mnt/stockage/packages/f32/godot/editor/translations/ur_PK.po | 
+ | [ml](/f32/language/ml) | 42 | 9616 | 0.4 | /mnt/stockage/packages/f32/godot/editor/translations/ml.po | 
+ | [ms](/f32/language/ms) | 23 | 9616 | 0.2 | /mnt/stockage/packages/f32/godot/editor/translations/ms.po | 
+ | [fil](/f32/language/fil) | 18 | 9616 | 0.2 | /mnt/stockage/packages/f32/godot/editor/translations/fil.po | 
+ | [ta](/f32/language/ta) | 15 | 9616 | 0.2 | /mnt/stockage/packages/f32/godot/editor/translations/ta.po | 
+ | [te](/f32/language/te) | 11 | 9616 | 0.1 | /mnt/stockage/packages/f32/godot/editor/translations/te.po | 
+ | [et](/f32/language/et) | 0 | 9616 | 0.0 | /mnt/stockage/packages/f32/godot/editor/translations/et.po | 
+ | [mi](/f32/language/mi) | 0 | 9616 | 0.0 | /mnt/stockage/packages/f32/godot/editor/translations/mi.po | 
 {.sortable}
 
 

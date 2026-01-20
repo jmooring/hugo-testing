@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f11/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [filezilla]({{< ref "/f11/package/filezilla.md" >}}) | 7711 | 7716 | 99.9 | milliWHAT? | 
- | [jpoker]({{< ref "/f11/package/jpoker.md" >}}) | 256 | 279 | 91.8 | <pokersource-users@gna.org> | 
- | [poker-engine]({{< ref "/f11/package/poker-engine.md" >}}) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
- | [gnubiff]({{< ref "/f11/package/gnubiff.md" >}}) | 1032 | 1181 | 87.4 | Français <fr@li.org> | 
- | [poker-network]({{< ref "/f11/package/poker-network.md" >}}) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
- | [poker2d]({{< ref "/f11/package/poker2d.md" >}}) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [notecase]({{< ref "/f11/package/notecase.md" >}}) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
- | [supertuxkart]({{< ref "/f11/package/supertuxkart.md" >}}) | 41 | 928 | 4.4 |  | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dopewars](/f11/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [filezilla](/f11/package/filezilla) | 7711 | 7716 | 99.9 | milliWHAT? | 
+ | [jpoker](/f11/package/jpoker) | 256 | 279 | 91.8 | <pokersource-users@gna.org> | 
+ | [poker-engine](/f11/package/poker-engine) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
+ | [gnubiff](/f11/package/gnubiff) | 1032 | 1181 | 87.4 | Français <fr@li.org> | 
+ | [poker-network](/f11/package/poker-network) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
+ | [poker2d](/f11/package/poker2d) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
+ | [liblicense](/f11/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [notecase](/f11/package/notecase) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
+ | [supertuxkart](/f11/package/supertuxkart) | 41 | 928 | 4.4 |  | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

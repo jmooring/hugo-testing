@@ -18,11 +18,11 @@ The package python-django-mptt (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/dk/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/fr/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/pl/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 236 | 241 | 97.9 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/nb/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 184 | 188 | 97.9 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/de/LC_MESSAGES/django.po | 
+ | [da](/f18/language/da) | 188 | 188 | 100.0 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/dk/LC_MESSAGES/django.po | 
+ | [fr](/f18/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/fr/LC_MESSAGES/django.po | 
+ | [pl](/f18/language/pl) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/pl/LC_MESSAGES/django.po | 
+ | [nb_NO](/f18/language/nb_NO) | 236 | 241 | 97.9 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/nb/LC_MESSAGES/django.po | 
+ | [de](/f18/language/de) | 184 | 188 | 97.9 | /mnt/stockage/packages/f18/python-django-mptt/mptt/locale/de/LC_MESSAGES/django.po | 
 {.sortable}
 
 

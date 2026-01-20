@@ -18,9 +18,9 @@ The package pidgin-indicator (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/pidgin-indicator/po/de.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f22/pidgin-indicator/po/hu.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/pidgin-indicator/po/zh_CN.po | 
+ | [de](/f22/language/de) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/pidgin-indicator/po/de.po | 
+ | [hu](/f22/language/hu) | 47 | 47 | 100.0 | /mnt/stockage/packages/f22/pidgin-indicator/po/hu.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 31 | 31 | 100.0 | /mnt/stockage/packages/f22/pidgin-indicator/po/zh_CN.po | 
 {.sortable}
 
 

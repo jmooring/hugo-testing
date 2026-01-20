@@ -38,79 +38,79 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [django-registration]({{< ref "/f18/package/django-registration.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gambas3]({{< ref "/f18/package/gambas3.md" >}}) | 433 | 433 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-applets]({{< ref "/f18/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [python-django-registration]({{< ref "/f18/package/python-django-registration.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [trac]({{< ref "/f18/package/trac.md" >}}) | 5685 | 5685 | 100.0 | es_AR <LL@li.org> | 
- | [trytond]({{< ref "/f18/package/trytond.md" >}}) | 2672 | 2672 | 100.0 |  | 
- | [trytond-account]({{< ref "/f18/package/trytond-account.md" >}}) | 2302 | 2302 | 100.0 |  | 
- | [trytond-account-invoice]({{< ref "/f18/package/trytond-account-invoice.md" >}}) | 1018 | 1018 | 100.0 |  | 
- | [trytond-account-invoice-history]({{< ref "/f18/package/trytond-account-invoice-history.md" >}}) | 30 | 30 | 100.0 |  | 
- | [trytond-account-invoice-line-standalone]({{< ref "/f18/package/trytond-account-invoice-line-standalone.md" >}}) | 24 | 24 | 100.0 |  | 
- | [trytond-account-product]({{< ref "/f18/package/trytond-account-product.md" >}}) | 202 | 202 | 100.0 |  | 
- | [trytond-account-statement]({{< ref "/f18/package/trytond-account-statement.md" >}}) | 179 | 179 | 100.0 |  | 
- | [trytond-account-stock-anglo-saxon]({{< ref "/f18/package/trytond-account-stock-anglo-saxon.md" >}}) | 46 | 46 | 100.0 |  | 
- | [trytond-account-stock-continental]({{< ref "/f18/package/trytond-account-stock-continental.md" >}}) | 124 | 124 | 100.0 |  | 
- | [trytond-analytic-account]({{< ref "/f18/package/trytond-analytic-account.md" >}}) | 193 | 193 | 100.0 |  | 
- | [trytond-analytic-invoice]({{< ref "/f18/package/trytond-analytic-invoice.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-analytic-purchase]({{< ref "/f18/package/trytond-analytic-purchase.md" >}}) | 162 | 162 | 100.0 |  | 
- | [trytond-analytic-sale]({{< ref "/f18/package/trytond-analytic-sale.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-calendar]({{< ref "/f18/package/trytond-calendar.md" >}}) | 489 | 489 | 100.0 |  | 
- | [trytond-calendar-classification]({{< ref "/f18/package/trytond-calendar-classification.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-calendar-scheduling]({{< ref "/f18/package/trytond-calendar-scheduling.md" >}}) | 100 | 100 | 100.0 |  | 
- | [trytond-calendar-todo]({{< ref "/f18/package/trytond-calendar-todo.md" >}}) | 203 | 203 | 100.0 |  | 
- | [trytond-company]({{< ref "/f18/package/trytond-company.md" >}}) | 132 | 132 | 100.0 |  | 
- | [trytond-company-work-time]({{< ref "/f18/package/trytond-company-work-time.md" >}}) | 18 | 18 | 100.0 |  | 
- | [trytond-country]({{< ref "/f18/package/trytond-country.md" >}}) | 6997 | 6997 | 100.0 |  | 
- | [trytond-currency]({{< ref "/f18/package/trytond-currency.md" >}}) | 469 | 469 | 100.0 |  | 
- | [trytond-dashboard]({{< ref "/f18/package/trytond-dashboard.md" >}}) | 40 | 40 | 100.0 |  | 
- | [trytond-google-maps]({{< ref "/f18/package/trytond-google-maps.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-ldap-authentication]({{< ref "/f18/package/trytond-ldap-authentication.md" >}}) | 36 | 36 | 100.0 |  | 
- | [trytond-ldap-connection]({{< ref "/f18/package/trytond-ldap-connection.md" >}}) | 64 | 64 | 100.0 |  | 
- | [trytond-party]({{< ref "/f18/package/trytond-party.md" >}}) | 301 | 301 | 100.0 |  | 
- | [trytond-party-siret]({{< ref "/f18/package/trytond-party-siret.md" >}}) | 10 | 10 | 100.0 |  | 
- | [trytond-party-vcarddav]({{< ref "/f18/package/trytond-party-vcarddav.md" >}}) | 14 | 14 | 100.0 |  | 
- | [trytond-product]({{< ref "/f18/package/trytond-product.md" >}}) | 322 | 322 | 100.0 |  | 
- | [trytond-product-cost-fifo]({{< ref "/f18/package/trytond-product-cost-fifo.md" >}}) | 23 | 23 | 100.0 |  | 
- | [trytond-product-cost-history]({{< ref "/f18/package/trytond-product-cost-history.md" >}}) | 26 | 26 | 100.0 |  | 
- | [trytond-product-price-list]({{< ref "/f18/package/trytond-product-price-list.md" >}}) | 68 | 68 | 100.0 |  | 
- | [trytond-project]({{< ref "/f18/package/trytond-project.md" >}}) | 86 | 86 | 100.0 |  | 
- | [trytond-project-plan]({{< ref "/f18/package/trytond-project-plan.md" >}}) | 91 | 91 | 100.0 |  | 
- | [trytond-project-revenue]({{< ref "/f18/package/trytond-project-revenue.md" >}}) | 64 | 64 | 100.0 |  | 
- | [trytond-purchase]({{< ref "/f18/package/trytond-purchase.md" >}}) | 619 | 619 | 100.0 |  | 
- | [trytond-purchase-invoice-line-standalone]({{< ref "/f18/package/trytond-purchase-invoice-line-standalone.md" >}}) | 49 | 49 | 100.0 |  | 
- | [trytond-sale]({{< ref "/f18/package/trytond-sale.md" >}}) | 568 | 568 | 100.0 |  | 
- | [trytond-sale-opportunity]({{< ref "/f18/package/trytond-sale-opportunity.md" >}}) | 347 | 347 | 100.0 |  | 
- | [trytond-sale-price-list]({{< ref "/f18/package/trytond-sale-price-list.md" >}}) | 5 | 5 | 100.0 |  | 
- | [trytond-stock]({{< ref "/f18/package/trytond-stock.md" >}}) | 1230 | 1230 | 100.0 |  | 
- | [trytond-stock-forecast]({{< ref "/f18/package/trytond-stock-forecast.md" >}}) | 175 | 175 | 100.0 |  | 
- | [trytond-stock-inventory-location]({{< ref "/f18/package/trytond-stock-inventory-location.md" >}}) | 17 | 17 | 100.0 |  | 
- | [trytond-stock-location-sequence]({{< ref "/f18/package/trytond-stock-location-sequence.md" >}}) | 1 | 1 | 100.0 |  | 
- | [trytond-stock-product-location]({{< ref "/f18/package/trytond-stock-product-location.md" >}}) | 29 | 29 | 100.0 |  | 
- | [trytond-stock-supply]({{< ref "/f18/package/trytond-stock-supply.md" >}}) | 239 | 239 | 100.0 |  | 
- | [trytond-stock-supply-day]({{< ref "/f18/package/trytond-stock-supply-day.md" >}}) | 29 | 29 | 100.0 |  | 
- | [trytond-timesheet]({{< ref "/f18/package/trytond-timesheet.md" >}}) | 256 | 256 | 100.0 |  | 
- | [python-lettuce]({{< ref "/f18/package/python-lettuce.md" >}}) | 7720 | 7735 | 99.8 | Django-I18N <django-i18n@googlegroups.com> | 
- | [python-django]({{< ref "/f18/package/python-django.md" >}}) | 5069 | 5089 | 99.6 | Spanish (Argentina) (http://www.transifex.net/projects/p/django/language/es_AR/) | 
- | [clementine]({{< ref "/f18/package/clementine.md" >}}) | 4227 | 4251 | 99.4 |  | 
- | [mcrypt]({{< ref "/f18/package/mcrypt.md" >}}) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
- | [audacious]({{< ref "/f18/package/audacious.md" >}}) | 552 | 565 | 97.7 | Spanish (Argentinian) | 
- | [owncloud]({{< ref "/f18/package/owncloud.md" >}}) | 1125 | 1154 | 97.5 | Spanish (Argentina) (http://www.transifex.com/projects/p/owncloud/language/es_AR/) | 
- | [libgweather]({{< ref "/f18/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f18/package/gnomebaker.md" >}}) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
- | [x-tile]({{< ref "/f18/package/x-tile.md" >}}) | 652 | 732 | 89.1 | Spanish <MeloPixel> | 
- | [emerald]({{< ref "/f18/package/emerald.md" >}}) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
- | [gallery2]({{< ref "/f18/package/gallery2.md" >}}) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
- | [mate-applets]({{< ref "/f18/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [libmateweather]({{< ref "/f18/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [audacious-plugins]({{< ref "/f18/package/audacious-plugins.md" >}}) | 2234 | 3762 | 59.4 | Spanish (Argentinian) | 
- | [libvisual]({{< ref "/f18/package/libvisual.md" >}}) | 303 | 1055 | 28.7 | Spanish | 
- | [openerp]({{< ref "/f18/package/openerp.md" >}}) | 7834 | 47118 | 16.6 | Spanish (Argentina) <es_AR@li.org> | 
- | [gimp-lqr-plugin]({{< ref "/f18/package/gimp-lqr-plugin.md" >}}) | 56 | 928 | 6.0 | Español | 
- | [speedcrunch]({{< ref "/f18/package/speedcrunch.md" >}}) | 1 | 18 | 5.6 | es_AR | 
- | [bacula]({{< ref "/f18/package/bacula.md" >}}) | 0 | 18150 | 0.0 | Spanish | 
- | [bacula2]({{< ref "/f18/package/bacula2.md" >}}) | 0 | 18155 | 0.0 | Spanish | 
+ | [django-registration](/f18/package/django-registration) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gambas3](/f18/package/gambas3) | 433 | 433 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f18/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [python-django-registration](/f18/package/python-django-registration) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [trac](/f18/package/trac) | 5685 | 5685 | 100.0 | es_AR <LL@li.org> | 
+ | [trytond](/f18/package/trytond) | 2672 | 2672 | 100.0 |  | 
+ | [trytond-account](/f18/package/trytond-account) | 2302 | 2302 | 100.0 |  | 
+ | [trytond-account-invoice](/f18/package/trytond-account-invoice) | 1018 | 1018 | 100.0 |  | 
+ | [trytond-account-invoice-history](/f18/package/trytond-account-invoice-history) | 30 | 30 | 100.0 |  | 
+ | [trytond-account-invoice-line-standalone](/f18/package/trytond-account-invoice-line-standalone) | 24 | 24 | 100.0 |  | 
+ | [trytond-account-product](/f18/package/trytond-account-product) | 202 | 202 | 100.0 |  | 
+ | [trytond-account-statement](/f18/package/trytond-account-statement) | 179 | 179 | 100.0 |  | 
+ | [trytond-account-stock-anglo-saxon](/f18/package/trytond-account-stock-anglo-saxon) | 46 | 46 | 100.0 |  | 
+ | [trytond-account-stock-continental](/f18/package/trytond-account-stock-continental) | 124 | 124 | 100.0 |  | 
+ | [trytond-analytic-account](/f18/package/trytond-analytic-account) | 193 | 193 | 100.0 |  | 
+ | [trytond-analytic-invoice](/f18/package/trytond-analytic-invoice) | 2 | 2 | 100.0 |  | 
+ | [trytond-analytic-purchase](/f18/package/trytond-analytic-purchase) | 162 | 162 | 100.0 |  | 
+ | [trytond-analytic-sale](/f18/package/trytond-analytic-sale) | 2 | 2 | 100.0 |  | 
+ | [trytond-calendar](/f18/package/trytond-calendar) | 489 | 489 | 100.0 |  | 
+ | [trytond-calendar-classification](/f18/package/trytond-calendar-classification) | 2 | 2 | 100.0 |  | 
+ | [trytond-calendar-scheduling](/f18/package/trytond-calendar-scheduling) | 100 | 100 | 100.0 |  | 
+ | [trytond-calendar-todo](/f18/package/trytond-calendar-todo) | 203 | 203 | 100.0 |  | 
+ | [trytond-company](/f18/package/trytond-company) | 132 | 132 | 100.0 |  | 
+ | [trytond-company-work-time](/f18/package/trytond-company-work-time) | 18 | 18 | 100.0 |  | 
+ | [trytond-country](/f18/package/trytond-country) | 6997 | 6997 | 100.0 |  | 
+ | [trytond-currency](/f18/package/trytond-currency) | 469 | 469 | 100.0 |  | 
+ | [trytond-dashboard](/f18/package/trytond-dashboard) | 40 | 40 | 100.0 |  | 
+ | [trytond-google-maps](/f18/package/trytond-google-maps) | 2 | 2 | 100.0 |  | 
+ | [trytond-ldap-authentication](/f18/package/trytond-ldap-authentication) | 36 | 36 | 100.0 |  | 
+ | [trytond-ldap-connection](/f18/package/trytond-ldap-connection) | 64 | 64 | 100.0 |  | 
+ | [trytond-party](/f18/package/trytond-party) | 301 | 301 | 100.0 |  | 
+ | [trytond-party-siret](/f18/package/trytond-party-siret) | 10 | 10 | 100.0 |  | 
+ | [trytond-party-vcarddav](/f18/package/trytond-party-vcarddav) | 14 | 14 | 100.0 |  | 
+ | [trytond-product](/f18/package/trytond-product) | 322 | 322 | 100.0 |  | 
+ | [trytond-product-cost-fifo](/f18/package/trytond-product-cost-fifo) | 23 | 23 | 100.0 |  | 
+ | [trytond-product-cost-history](/f18/package/trytond-product-cost-history) | 26 | 26 | 100.0 |  | 
+ | [trytond-product-price-list](/f18/package/trytond-product-price-list) | 68 | 68 | 100.0 |  | 
+ | [trytond-project](/f18/package/trytond-project) | 86 | 86 | 100.0 |  | 
+ | [trytond-project-plan](/f18/package/trytond-project-plan) | 91 | 91 | 100.0 |  | 
+ | [trytond-project-revenue](/f18/package/trytond-project-revenue) | 64 | 64 | 100.0 |  | 
+ | [trytond-purchase](/f18/package/trytond-purchase) | 619 | 619 | 100.0 |  | 
+ | [trytond-purchase-invoice-line-standalone](/f18/package/trytond-purchase-invoice-line-standalone) | 49 | 49 | 100.0 |  | 
+ | [trytond-sale](/f18/package/trytond-sale) | 568 | 568 | 100.0 |  | 
+ | [trytond-sale-opportunity](/f18/package/trytond-sale-opportunity) | 347 | 347 | 100.0 |  | 
+ | [trytond-sale-price-list](/f18/package/trytond-sale-price-list) | 5 | 5 | 100.0 |  | 
+ | [trytond-stock](/f18/package/trytond-stock) | 1230 | 1230 | 100.0 |  | 
+ | [trytond-stock-forecast](/f18/package/trytond-stock-forecast) | 175 | 175 | 100.0 |  | 
+ | [trytond-stock-inventory-location](/f18/package/trytond-stock-inventory-location) | 17 | 17 | 100.0 |  | 
+ | [trytond-stock-location-sequence](/f18/package/trytond-stock-location-sequence) | 1 | 1 | 100.0 |  | 
+ | [trytond-stock-product-location](/f18/package/trytond-stock-product-location) | 29 | 29 | 100.0 |  | 
+ | [trytond-stock-supply](/f18/package/trytond-stock-supply) | 239 | 239 | 100.0 |  | 
+ | [trytond-stock-supply-day](/f18/package/trytond-stock-supply-day) | 29 | 29 | 100.0 |  | 
+ | [trytond-timesheet](/f18/package/trytond-timesheet) | 256 | 256 | 100.0 |  | 
+ | [python-lettuce](/f18/package/python-lettuce) | 7720 | 7735 | 99.8 | Django-I18N <django-i18n@googlegroups.com> | 
+ | [python-django](/f18/package/python-django) | 5069 | 5089 | 99.6 | Spanish (Argentina) (http://www.transifex.net/projects/p/django/language/es_AR/) | 
+ | [clementine](/f18/package/clementine) | 4227 | 4251 | 99.4 |  | 
+ | [mcrypt](/f18/package/mcrypt) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
+ | [audacious](/f18/package/audacious) | 552 | 565 | 97.7 | Spanish (Argentinian) | 
+ | [owncloud](/f18/package/owncloud) | 1125 | 1154 | 97.5 | Spanish (Argentina) (http://www.transifex.com/projects/p/owncloud/language/es_AR/) | 
+ | [libgweather](/f18/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f18/package/gnomebaker) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
+ | [x-tile](/f18/package/x-tile) | 652 | 732 | 89.1 | Spanish <MeloPixel> | 
+ | [emerald](/f18/package/emerald) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
+ | [gallery2](/f18/package/gallery2) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [mate-applets](/f18/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [libmateweather](/f18/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [audacious-plugins](/f18/package/audacious-plugins) | 2234 | 3762 | 59.4 | Spanish (Argentinian) | 
+ | [libvisual](/f18/package/libvisual) | 303 | 1055 | 28.7 | Spanish | 
+ | [openerp](/f18/package/openerp) | 7834 | 47118 | 16.6 | Spanish (Argentina) <es_AR@li.org> | 
+ | [gimp-lqr-plugin](/f18/package/gimp-lqr-plugin) | 56 | 928 | 6.0 | Español | 
+ | [speedcrunch](/f18/package/speedcrunch) | 1 | 18 | 5.6 | es_AR | 
+ | [bacula](/f18/package/bacula) | 0 | 18150 | 0.0 | Spanish | 
+ | [bacula2](/f18/package/bacula2) | 0 | 18155 | 0.0 | Spanish | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package purple-telegram (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/bg.po/mnt/stockage/packages/f26/purple-telegram/po/bg.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/cs_CZ.po/mnt/stockage/packages/f26/purple-telegram/po/cs_CZ.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/de_DE.po/mnt/stockage/packages/f26/purple-telegram/po/de_DE.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/es.po/mnt/stockage/packages/f26/purple-telegram/po/es.po | 
- | [es_AR]({{< ref "/f26/language/es_AR.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/es_AR.po/mnt/stockage/packages/f26/purple-telegram/po/es_AR.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/fr.po/mnt/stockage/packages/f26/purple-telegram/po/fr.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/it_IT.po/mnt/stockage/packages/f26/purple-telegram/po/it_IT.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/nl.po/mnt/stockage/packages/f26/purple-telegram/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/pl_PL.po/mnt/stockage/packages/f26/purple-telegram/po/pl_PL.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/sq.po/mnt/stockage/packages/f26/purple-telegram/po/sq.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/uk.po/mnt/stockage/packages/f26/purple-telegram/po/uk.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 610 | 644 | 94.7 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/ru_RU.po/mnt/stockage/packages/f26/purple-telegram/po/ru_RU.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 471 | 636 | 74.1 | /mnt/stockage/packages/f26/purple-telegram/po/pt_BR.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 220 | 636 | 34.6 | /mnt/stockage/packages/f26/purple-telegram/po/da.po | 
+ | [bg](/f26/language/bg) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/bg.po/mnt/stockage/packages/f26/purple-telegram/po/bg.po | 
+ | [cs](/f26/language/cs) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/cs_CZ.po/mnt/stockage/packages/f26/purple-telegram/po/cs_CZ.po | 
+ | [de](/f26/language/de) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/de_DE.po/mnt/stockage/packages/f26/purple-telegram/po/de_DE.po | 
+ | [es](/f26/language/es) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/es.po/mnt/stockage/packages/f26/purple-telegram/po/es.po | 
+ | [es_AR](/f26/language/es_AR) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/es_AR.po/mnt/stockage/packages/f26/purple-telegram/po/es_AR.po | 
+ | [fr](/f26/language/fr) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/fr.po/mnt/stockage/packages/f26/purple-telegram/po/fr.po | 
+ | [it](/f26/language/it) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/it_IT.po/mnt/stockage/packages/f26/purple-telegram/po/it_IT.po | 
+ | [nl](/f26/language/nl) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/nl.po/mnt/stockage/packages/f26/purple-telegram/po/nl.po | 
+ | [pl](/f26/language/pl) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/pl_PL.po/mnt/stockage/packages/f26/purple-telegram/po/pl_PL.po | 
+ | [sq](/f26/language/sq) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/sq.po/mnt/stockage/packages/f26/purple-telegram/po/sq.po | 
+ | [uk](/f26/language/uk) | 644 | 644 | 100.0 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/uk.po/mnt/stockage/packages/f26/purple-telegram/po/uk.po | 
+ | [ru](/f26/language/ru) | 610 | 644 | 94.7 | /mnt/stockage/packages/f26/purple-telegram/AppStream/po/ru_RU.po/mnt/stockage/packages/f26/purple-telegram/po/ru_RU.po | 
+ | [pt_BR](/f26/language/pt_BR) | 471 | 636 | 74.1 | /mnt/stockage/packages/f26/purple-telegram/po/pt_BR.po | 
+ | [da](/f26/language/da) | 220 | 636 | 34.6 | /mnt/stockage/packages/f26/purple-telegram/po/da.po | 
 {.sortable}
 
 

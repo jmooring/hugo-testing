@@ -18,16 +18,16 @@ The package kchildlock (version 0.91.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/el.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/fr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/sk.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/uk.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 682 | 806 | 84.6 | /mnt/stockage/packages/f25/kchildlock/po/bg.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 682 | 806 | 84.6 | /mnt/stockage/packages/f25/kchildlock/po/es.po | 
+ | [cs](/f25/language/cs) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/cs.po | 
+ | [de](/f25/language/de) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/de.po | 
+ | [el](/f25/language/el) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/el.po | 
+ | [fr](/f25/language/fr) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/ru.po | 
+ | [sk](/f25/language/sk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/sk.po | 
+ | [uk](/f25/language/uk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f25/kchildlock/po/uk.po | 
+ | [bg](/f25/language/bg) | 682 | 806 | 84.6 | /mnt/stockage/packages/f25/kchildlock/po/bg.po | 
+ | [es](/f25/language/es) | 682 | 806 | 84.6 | /mnt/stockage/packages/f25/kchildlock/po/es.po | 
 {.sortable}
 
 

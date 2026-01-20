@@ -39,26 +39,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f16/package/amarok.md" >}}) | 147 | 147 | 100.0 | Interlingua <kde-i18n-it@kde.org> | 
- | [lyx]({{< ref "/f16/package/lyx.md" >}}) | 17357 | 17357 | 100.0 | Interlingua LyX Team <g.sora@tiscali.it> | 
- | [tellico]({{< ref "/f16/package/tellico.md" >}}) | 5761 | 5765 | 99.9 | Interlingua <kde-i18n-it@kde.org> | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 1826 | 1850 | 98.7 | Interlingua <trans-ia@lists.fedoraproject.org> | 
- | [mailman]({{< ref "/f16/package/mailman.md" >}}) | 15551 | 22012 | 70.6 | Interlingua <TradSoft@interlingua.com> | 
- | [mc]({{< ref "/f16/package/mc.md" >}}) | 1406 | 3990 | 35.2 | Interlingua (http://www.transifex.com/projects/p/mc/language/ia/) | 
- | [lightdm-gtk]({{< ref "/f16/package/lightdm-gtk.md" >}}) | 19 | 56 | 33.9 | Interlingua <ia@li.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 24 | 79 | 30.4 | Interlingua <ia@li.org> | 
- | [widelands]({{< ref "/f16/package/widelands.md" >}}) | 327 | 6840 | 4.8 | Interlingua <ia@li.org> | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 59 | 1452 | 4.1 | Interlingua <trans-ia@lists.fedoraproject.org> | 
- | [gdk-pixbuf2]({{< ref "/f16/package/gdk-pixbuf2.md" >}}) | 49 | 1313 | 3.7 | Interlingua | 
- | [mingw32-gdk-pixbuf]({{< ref "/f16/package/mingw32-gdk-pixbuf.md" >}}) | 49 | 1313 | 3.7 | Interlingua | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 176 | 7138 | 2.5 | Interlingua <ia@li.org> | 
- | [mate-desktop]({{< ref "/f16/package/mate-desktop.md" >}}) | 9 | 407 | 2.2 | Interlingua (http://www.transifex.net/projects/p/MATE/language/ia/) | 
- | [clementine]({{< ref "/f16/package/clementine.md" >}}) | 25 | 3939 | 0.6 |  | 
- | [gtk2]({{< ref "/f16/package/gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [mingw32-gtk2]({{< ref "/f16/package/mingw32-gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [gtk3]({{< ref "/f16/package/gtk3.md" >}}) | 21 | 11853 | 0.2 | Interlingua | 
- | [mingw-gtk3]({{< ref "/f16/package/mingw-gtk3.md" >}}) | 21 | 11853 | 0.2 | Interlingua | 
- | [system-config-samba]({{< ref "/f16/package/system-config-samba.md" >}}) | 0 | 571 | 0.0 | Interlingua <trans-ia@lists.fedoraproject.org> | 
+ | [amarok](/f16/package/amarok) | 147 | 147 | 100.0 | Interlingua <kde-i18n-it@kde.org> | 
+ | [lyx](/f16/package/lyx) | 17357 | 17357 | 100.0 | Interlingua LyX Team <g.sora@tiscali.it> | 
+ | [tellico](/f16/package/tellico) | 5761 | 5765 | 99.9 | Interlingua <kde-i18n-it@kde.org> | 
+ | [system-config-date](/f16/package/system-config-date) | 1826 | 1850 | 98.7 | Interlingua <trans-ia@lists.fedoraproject.org> | 
+ | [mailman](/f16/package/mailman) | 15551 | 22012 | 70.6 | Interlingua <TradSoft@interlingua.com> | 
+ | [mc](/f16/package/mc) | 1406 | 3990 | 35.2 | Interlingua (http://www.transifex.com/projects/p/mc/language/ia/) | 
+ | [lightdm-gtk](/f16/package/lightdm-gtk) | 19 | 56 | 33.9 | Interlingua <ia@li.org> | 
+ | [lightdm](/f16/package/lightdm) | 24 | 79 | 30.4 | Interlingua <ia@li.org> | 
+ | [widelands](/f16/package/widelands) | 327 | 6840 | 4.8 | Interlingua <ia@li.org> | 
+ | [system-config-users](/f16/package/system-config-users) | 59 | 1452 | 4.1 | Interlingua <trans-ia@lists.fedoraproject.org> | 
+ | [gdk-pixbuf2](/f16/package/gdk-pixbuf2) | 49 | 1313 | 3.7 | Interlingua | 
+ | [mingw32-gdk-pixbuf](/f16/package/mingw32-gdk-pixbuf) | 49 | 1313 | 3.7 | Interlingua | 
+ | [stellarium](/f16/package/stellarium) | 176 | 7138 | 2.5 | Interlingua <ia@li.org> | 
+ | [mate-desktop](/f16/package/mate-desktop) | 9 | 407 | 2.2 | Interlingua (http://www.transifex.net/projects/p/MATE/language/ia/) | 
+ | [clementine](/f16/package/clementine) | 25 | 3939 | 0.6 |  | 
+ | [gtk2](/f16/package/gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [mingw32-gtk2](/f16/package/mingw32-gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [gtk3](/f16/package/gtk3) | 21 | 11853 | 0.2 | Interlingua | 
+ | [mingw-gtk3](/f16/package/mingw-gtk3) | 21 | 11853 | 0.2 | Interlingua | 
+ | [system-config-samba](/f16/package/system-config-samba) | 0 | 571 | 0.0 | Interlingua <trans-ia@lists.fedoraproject.org> | 
 {.sortable}
 
 

@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxinput]({{< ref "/f17/package/lxinput.md" >}}) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
- | [lxpanel]({{< ref "/f17/package/lxpanel.md" >}}) | 754 | 987 | 76.4 | LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com> | 
- | [oggconvert]({{< ref "/f17/package/oggconvert.md" >}}) | 89 | 132 | 67.4 | Franco-Provençal <frp@li.org> | 
- | [lxsession]({{< ref "/f17/package/lxsession.md" >}}) | 23 | 36 | 63.9 | LANGUAGE <LL@li.org> | 
- | [lxmusic]({{< ref "/f17/package/lxmusic.md" >}}) | 116 | 203 | 57.1 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f17/package/lxshortcut.md" >}}) | 23 | 43 | 53.5 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f17/package/lxterminal.md" >}}) | 59 | 144 | 41.0 | LANGUAGE <LL@li.org> | 
- | [lxtask]({{< ref "/f17/package/lxtask.md" >}}) | 43 | 122 | 35.2 | LANGUAGE <LL@li.org> | 
- | [lxrandr]({{< ref "/f17/package/lxrandr.md" >}}) | 36 | 122 | 29.5 | LANGUAGE <LL@li.org> | 
- | [lxsession-edit]({{< ref "/f17/package/lxsession-edit.md" >}}) | 13 | 64 | 20.3 | LANGUAGE <LL@li.org> | 
- | [exaile]({{< ref "/f17/package/exaile.md" >}}) | 3 | 3675 | 0.1 | Franco-Provençal <frp@li.org> | 
- | [lxdm]({{< ref "/f17/package/lxdm.md" >}}) | 0 | 30 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f17/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f17/package/lxinput) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [lxpanel](/f17/package/lxpanel) | 754 | 987 | 76.4 | LXDE Traduccion Arpitan <alekcxjo+arpitan@gmail.com> | 
+ | [oggconvert](/f17/package/oggconvert) | 89 | 132 | 67.4 | Franco-Provençal <frp@li.org> | 
+ | [lxsession](/f17/package/lxsession) | 23 | 36 | 63.9 | LANGUAGE <LL@li.org> | 
+ | [lxmusic](/f17/package/lxmusic) | 116 | 203 | 57.1 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f17/package/lxshortcut) | 23 | 43 | 53.5 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f17/package/lxterminal) | 59 | 144 | 41.0 | LANGUAGE <LL@li.org> | 
+ | [lxtask](/f17/package/lxtask) | 43 | 122 | 35.2 | LANGUAGE <LL@li.org> | 
+ | [lxrandr](/f17/package/lxrandr) | 36 | 122 | 29.5 | LANGUAGE <LL@li.org> | 
+ | [lxsession-edit](/f17/package/lxsession-edit) | 13 | 64 | 20.3 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f17/package/exaile) | 3 | 3675 | 0.1 | Franco-Provençal <frp@li.org> | 
+ | [lxdm](/f17/package/lxdm) | 0 | 30 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f17/package/lxpolkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package quearcode (version 0.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 62 | 67 | 92.5 | /mnt/stockage/packages/f37/quearcode/po/de.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 62 | 67 | 92.5 | /mnt/stockage/packages/f37/quearcode/po/en.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 62 | 67 | 92.5 | /mnt/stockage/packages/f37/quearcode/po/es.po | 
+ | [de](/f37/language/de) | 62 | 67 | 92.5 | /mnt/stockage/packages/f37/quearcode/po/de.po | 
+ | [en](/f37/language/en) | 62 | 67 | 92.5 | /mnt/stockage/packages/f37/quearcode/po/en.po | 
+ | [es](/f37/language/es) | 62 | 67 | 92.5 | /mnt/stockage/packages/f37/quearcode/po/es.po | 
 {.sortable}
 
 

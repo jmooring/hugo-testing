@@ -18,9 +18,9 @@ The package devscripts (version 2.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 52224 | 52224 | 100.0 | /mnt/stockage/packages/f36/devscripts/po4a/po/fr.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 52019 | 52224 | 99.6 | /mnt/stockage/packages/f36/devscripts/po4a/po/pt.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 47238 | 52224 | 90.5 | /mnt/stockage/packages/f36/devscripts/po4a/po/de.po | 
+ | [fr](/f36/language/fr) | 52224 | 52224 | 100.0 | /mnt/stockage/packages/f36/devscripts/po4a/po/fr.po | 
+ | [pt](/f36/language/pt) | 52019 | 52224 | 99.6 | /mnt/stockage/packages/f36/devscripts/po4a/po/pt.po | 
+ | [de](/f36/language/de) | 47238 | 52224 | 90.5 | /mnt/stockage/packages/f36/devscripts/po4a/po/de.po | 
 {.sortable}
 
 

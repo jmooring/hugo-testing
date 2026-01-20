@@ -18,15 +18,15 @@ The package cherrytree (version 0.30.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/it.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 4494 | 4494 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/uk.po/mnt/stockage/packages/f18/cherrytree/locale/ru.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/zh_CN.po | 
+ | [cs](/f18/language/cs) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/cs.po | 
+ | [de](/f18/language/de) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/de.po | 
+ | [es](/f18/language/es) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/es.po | 
+ | [fr](/f18/language/fr) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/fr.po | 
+ | [it](/f18/language/it) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/it.po | 
+ | [pl](/f18/language/pl) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/pt_BR.po | 
+ | [ru](/f18/language/ru) | 4494 | 4494 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/uk.po/mnt/stockage/packages/f18/cherrytree/locale/ru.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 2247 | 2247 | 100.0 | /mnt/stockage/packages/f18/cherrytree/locale/zh_CN.po | 
 {.sortable}
 
 

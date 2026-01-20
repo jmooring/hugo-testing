@@ -18,37 +18,37 @@ The package capnet-assist (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/bg.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ca.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/es.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/fr.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/hr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ja.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/lt.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/pt.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/sr.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ug.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 29 | 32 | 90.6 | /mnt/stockage/packages/f25/capnet-assist/po/pt_BR.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/cs.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/en_CA.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/et.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/ka.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/nb.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/sk.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/sq.po | 
- | [tl]({{< ref "/f25/language/tl.md" >}}) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/tl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f25/capnet-assist/po/hu.po | 
+ | [bg](/f25/language/bg) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/bg.po | 
+ | [ca](/f25/language/ca) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ca.po | 
+ | [de](/f25/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/de.po | 
+ | [es](/f25/language/es) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/es.po | 
+ | [fi](/f25/language/fi) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/fi.po | 
+ | [fr](/f25/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/fr.po | 
+ | [hr](/f25/language/hr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/hr.po | 
+ | [it](/f25/language/it) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/it.po | 
+ | [ja](/f25/language/ja) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ja.po | 
+ | [ko](/f25/language/ko) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ko.po | 
+ | [lt](/f25/language/lt) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/lt.po | 
+ | [pl](/f25/language/pl) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/pl.po | 
+ | [pt](/f25/language/pt) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/pt.po | 
+ | [ro](/f25/language/ro) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ro.po | 
+ | [ru](/f25/language/ru) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ru.po | 
+ | [sl](/f25/language/sl) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/sl.po | 
+ | [sr](/f25/language/sr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/sr.po | 
+ | [tr](/f25/language/tr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/tr.po | 
+ | [ug](/f25/language/ug) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/ug.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/capnet-assist/po/zh_TW.po | 
+ | [pt_BR](/f25/language/pt_BR) | 29 | 32 | 90.6 | /mnt/stockage/packages/f25/capnet-assist/po/pt_BR.po | 
+ | [cs](/f25/language/cs) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/cs.po | 
+ | [en_CA](/f25/language/en_CA) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/en_CA.po | 
+ | [et](/f25/language/et) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/et.po | 
+ | [ka](/f25/language/ka) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/ka.po | 
+ | [nb_NO](/f25/language/nb_NO) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/nb.po | 
+ | [sk](/f25/language/sk) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/sk.po | 
+ | [sq](/f25/language/sq) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/sq.po | 
+ | [tl](/f25/language/tl) | 27 | 32 | 84.4 | /mnt/stockage/packages/f25/capnet-assist/po/tl.po | 
+ | [hu](/f25/language/hu) | 0 | 32 | 0.0 | /mnt/stockage/packages/f25/capnet-assist/po/hu.po | 
 {.sortable}
 
 

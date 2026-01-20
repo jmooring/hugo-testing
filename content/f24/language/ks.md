@@ -39,34 +39,34 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f24/package/gnucash.md" >}}) | 29203 | 29737 | 98.2 | NONE | 
- | [eog]({{< ref "/f24/package/eog.md" >}}) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [evince]({{< ref "/f24/package/evince.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [yelp]({{< ref "/f24/package/yelp.md" >}}) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 43457 | 101018 | 43.0 | LANGUAGE <LL@li.org> | 
- | [eom]({{< ref "/f24/package/eom.md" >}}) | 724 | 1731 | 41.8 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [xviewer]({{< ref "/f24/package/xviewer.md" >}}) | 520 | 1677 | 31.0 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [atril]({{< ref "/f24/package/atril.md" >}}) | 536 | 1761 | 30.4 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [xreader]({{< ref "/f24/package/xreader.md" >}}) | 489 | 1637 | 29.9 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 37 | 2397 | 1.5 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 36 | 9634 | 0.4 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [abrt]({{< ref "/f24/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora-abrt/language/ks/) | 
- | [certmonger]({{< ref "/f24/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/) | 
- | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/) | 
- | [initscripts]({{< ref "/f24/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [libreport]({{< ref "/f24/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/libreport/language/ks/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [oscap-anaconda-addon]({{< ref "/f24/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ks/) | 
- | [pam]({{< ref "/f24/package/pam.md" >}}) | 0 | 606 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [pidgin]({{< ref "/f24/package/pidgin.md" >}}) | 0 | 18558 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/pidgin/language/ks/) | 
- | [policycoreutils]({{< ref "/f24/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/) | 
- | [setroubleshoot]({{< ref "/f24/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [setroubleshoot-plugins]({{< ref "/f24/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [system-config-date]({{< ref "/f24/package/system-config-date.md" >}}) | 0 | 1850 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [system-config-kickstart]({{< ref "/f24/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/system-config-kickstart/language/ks/) | 
- | [system-config-samba]({{< ref "/f24/package/system-config-samba.md" >}}) | 0 | 571 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [gnucash](/f24/package/gnucash) | 29203 | 29737 | 98.2 | NONE | 
+ | [eog](/f24/package/eog) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [evince](/f24/package/evince) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [yelp](/f24/package/yelp) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [libreoffice](/f24/package/libreoffice) | 43457 | 101018 | 43.0 | LANGUAGE <LL@li.org> | 
+ | [eom](/f24/package/eom) | 724 | 1731 | 41.8 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [xviewer](/f24/package/xviewer) | 520 | 1677 | 31.0 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [atril](/f24/package/atril) | 536 | 1761 | 30.4 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [xreader](/f24/package/xreader) | 489 | 1637 | 29.9 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [librfm](/f24/package/librfm) | 37 | 2397 | 1.5 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [rodent](/f24/package/rodent) | 36 | 9634 | 0.4 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [abrt](/f24/package/abrt) | 0 | 3230 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora-abrt/language/ks/) | 
+ | [certmonger](/f24/package/certmonger) | 0 | 2478 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/) | 
+ | [initial-setup](/f24/package/initial-setup) | 0 | 33 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/) | 
+ | [initscripts](/f24/package/initscripts) | 0 | 1003 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [libreport](/f24/package/libreport) | 0 | 3501 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/libreport/language/ks/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [oscap-anaconda-addon](/f24/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ks/) | 
+ | [pam](/f24/package/pam) | 0 | 606 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [pidgin](/f24/package/pidgin) | 0 | 18558 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/pidgin/language/ks/) | 
+ | [policycoreutils](/f24/package/policycoreutils) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [python-meh](/f24/package/python-meh) | 0 | 109 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/) | 
+ | [setroubleshoot](/f24/package/setroubleshoot) | 0 | 656 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [setroubleshoot-plugins](/f24/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [system-config-date](/f24/package/system-config-date) | 0 | 1850 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [system-config-kickstart](/f24/package/system-config-kickstart) | 0 | 1144 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/system-config-kickstart/language/ks/) | 
+ | [system-config-samba](/f24/package/system-config-samba) | 0 | 571 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
 {.sortable}
 
 

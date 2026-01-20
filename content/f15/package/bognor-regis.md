@@ -18,40 +18,40 @@ The package bognor-regis (version 0.6.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ar.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ast.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/de.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/bn_IN.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ko.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/nl.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/sk.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/sv.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/th.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/uk.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/wa.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/zh_TW.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 1 | 27 | 3.7 | /mnt/stockage/packages/f15/bognor-regis/po/ms.po | 
+ | [ar](/f15/language/ar) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ar.po | 
+ | [ast](/f15/language/ast) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ast.po | 
+ | [ca](/f15/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ca.po | 
+ | [cs](/f15/language/cs) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/cs.po | 
+ | [da](/f15/language/da) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/da.po | 
+ | [de](/f15/language/de) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/de.po | 
+ | [en](/f15/language/en) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/bn_IN.po | 
+ | [en_GB](/f15/language/en_GB) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/en_GB.po | 
+ | [es](/f15/language/es) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/es.po | 
+ | [eu](/f15/language/eu) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/eu.po | 
+ | [fi](/f15/language/fi) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/fi.po | 
+ | [fr](/f15/language/fr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/fr.po | 
+ | [gl](/f15/language/gl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/gl.po | 
+ | [hu](/f15/language/hu) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/hu.po | 
+ | [id](/f15/language/id) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/id.po | 
+ | [it](/f15/language/it) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/it.po | 
+ | [ja](/f15/language/ja) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ja.po | 
+ | [ko](/f15/language/ko) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ko.po | 
+ | [nl](/f15/language/nl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/nl.po | 
+ | [pa](/f15/language/pa) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/pa.po | 
+ | [pl](/f15/language/pl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ro.po | 
+ | [ru](/f15/language/ru) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/ru.po | 
+ | [sk](/f15/language/sk) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/sk.po | 
+ | [sl](/f15/language/sl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/sl.po | 
+ | [sv](/f15/language/sv) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/sv.po | 
+ | [th](/f15/language/th) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/th.po | 
+ | [tr](/f15/language/tr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/tr.po | 
+ | [uk](/f15/language/uk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/uk.po | 
+ | [wa](/f15/language/wa) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/wa.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 39 | 39 | 100.0 | /mnt/stockage/packages/f15/bognor-regis/po/zh_TW.po | 
+ | [ms](/f15/language/ms) | 1 | 27 | 3.7 | /mnt/stockage/packages/f15/bognor-regis/po/ms.po | 
 {.sortable}
 
 

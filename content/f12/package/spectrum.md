@@ -18,10 +18,10 @@ The package spectrum (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f12/spectrum/po/de.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f12/spectrum/po/ru.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 274 | 387 | 70.8 | /mnt/stockage/packages/f12/spectrum/po/pl.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 14 | 387 | 3.6 | /mnt/stockage/packages/f12/spectrum/po/cs.po | 
+ | [de](/f12/language/de) | 387 | 387 | 100.0 | /mnt/stockage/packages/f12/spectrum/po/de.po | 
+ | [ru](/f12/language/ru) | 387 | 387 | 100.0 | /mnt/stockage/packages/f12/spectrum/po/ru.po | 
+ | [pl](/f12/language/pl) | 274 | 387 | 70.8 | /mnt/stockage/packages/f12/spectrum/po/pl.po | 
+ | [cs](/f12/language/cs) | 14 | 387 | 3.6 | /mnt/stockage/packages/f12/spectrum/po/cs.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package fldigi (version 4.1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 7248 | 7844 | 92.4 | /mnt/stockage/packages/f32/fldigi/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 7203 | 7844 | 91.8 | /mnt/stockage/packages/f32/fldigi/po/pl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 5832 | 7844 | 74.3 | /mnt/stockage/packages/f32/fldigi/po/it.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 5092 | 7844 | 64.9 | /mnt/stockage/packages/f32/fldigi/po/ru.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4427 | 7844 | 56.4 | /mnt/stockage/packages/f32/fldigi/po/es.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 3407 | 7844 | 43.4 | /mnt/stockage/packages/f32/fldigi/po/el.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3277 | 7844 | 41.8 | /mnt/stockage/packages/f32/fldigi/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1141 | 7844 | 14.5 | /mnt/stockage/packages/f32/fldigi/po/fr.po | 
+ | [nl](/f32/language/nl) | 7248 | 7844 | 92.4 | /mnt/stockage/packages/f32/fldigi/po/nl.po | 
+ | [pl](/f32/language/pl) | 7203 | 7844 | 91.8 | /mnt/stockage/packages/f32/fldigi/po/pl.po | 
+ | [it](/f32/language/it) | 5832 | 7844 | 74.3 | /mnt/stockage/packages/f32/fldigi/po/it.po | 
+ | [ru](/f32/language/ru) | 5092 | 7844 | 64.9 | /mnt/stockage/packages/f32/fldigi/po/ru.po | 
+ | [es](/f32/language/es) | 4427 | 7844 | 56.4 | /mnt/stockage/packages/f32/fldigi/po/es.po | 
+ | [el](/f32/language/el) | 3407 | 7844 | 43.4 | /mnt/stockage/packages/f32/fldigi/po/el.po | 
+ | [de](/f32/language/de) | 3277 | 7844 | 41.8 | /mnt/stockage/packages/f32/fldigi/po/de.po | 
+ | [fr](/f32/language/fr) | 1141 | 7844 | 14.5 | /mnt/stockage/packages/f32/fldigi/po/fr.po | 
 {.sortable}
 
 

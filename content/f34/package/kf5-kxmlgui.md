@@ -18,107 +18,107 @@ The package kf5-kxmlgui (version 5.91.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ca/kxmlgui5.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/es/kxmlgui5.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fr/kxmlgui5.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nl/kxmlgui5.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sl/kxmlgui5.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sv/kxmlgui5.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/uk/kxmlgui5.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ar/kxmlgui5.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/az/kxmlgui5.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/el/kxmlgui5.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/en_GB/kxmlgui5.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hu/kxmlgui5.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ia/kxmlgui5.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/is/kxmlgui5.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/it/kxmlgui5.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ko/kxmlgui5.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pl/kxmlgui5.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pt/kxmlgui5.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pt_BR/kxmlgui5.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ru/kxmlgui5.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ta/kxmlgui5.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/vi/kxmlgui5.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/zh_CN/kxmlgui5.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 1535 | 1563 | 98.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/da/kxmlgui5.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 1535 | 1563 | 98.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/eu/kxmlgui5.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1534 | 1563 | 98.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/de/kxmlgui5.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 1534 | 1563 | 98.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fi/kxmlgui5.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 1534 | 1563 | 98.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ro/kxmlgui5.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 1512 | 1563 | 96.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sk/kxmlgui5.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 1505 | 1556 | 96.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nn/kxmlgui5.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 1502 | 1563 | 96.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/cs/kxmlgui5.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 1455 | 1563 | 93.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/et/kxmlgui5.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 1453 | 1563 | 93.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/be/kxmlgui5.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 1453 | 1563 | 93.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/tr/kxmlgui5.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 1430 | 1563 | 91.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ms/kxmlgui5.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 1429 | 1563 | 91.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hi/kxmlgui5.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 1428 | 1563 | 91.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/id/kxmlgui5.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 1427 | 1563 | 91.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/lt/kxmlgui5.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1427 | 1563 | 91.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/zh_TW/kxmlgui5.po | 
- | [my]({{< ref "/f34/language/my.md" >}}) | 1382 | 1563 | 88.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/my/kxmlgui5.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 1293 | 1563 | 82.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ml/kxmlgui5.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr/kxmlgui5.po | 
- | [sr@ijekavian]({{< ref "/f34/language/sr@ijekavian.md" >}}) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr@ijekavian/kxmlgui5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f34/language/sr@ijekavian_Latn.md" >}}) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr@ijekavianlatin/kxmlgui5.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr@latin/kxmlgui5.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 1218 | 1563 | 77.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/tg/kxmlgui5.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 1217 | 1563 | 77.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/gl/kxmlgui5.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 1214 | 1563 | 77.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ca@valencia/kxmlgui5.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1093 | 1563 | 69.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ja/kxmlgui5.po | 
- | [gd]({{< ref "/f34/language/gd.md" >}}) | 1017 | 1563 | 65.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/gd/kxmlgui5.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 1001 | 1556 | 64.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nb/kxmlgui5.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 1001 | 1563 | 64.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nds/kxmlgui5.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 986 | 1563 | 63.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pa/kxmlgui5.po | 
- | [se]({{< ref "/f34/language/se.md" >}}) | 967 | 1556 | 62.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/se/kxmlgui5.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bs/kxmlgui5.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ga/kxmlgui5.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/kk/kxmlgui5.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ug/kxmlgui5.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hr/kxmlgui5.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hy/kxmlgui5.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/km/kxmlgui5.po | 
- | [tt]({{< ref "/f34/language/tt.md" >}}) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/tt/kxmlgui5.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 956 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/he/kxmlgui5.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 951 | 1563 | 60.8 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/th/kxmlgui5.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 872 | 1563 | 55.8 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/wa/kxmlgui5.po | 
- | [fy]({{< ref "/f34/language/fy.md" >}}) | 870 | 1563 | 55.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fy/kxmlgui5.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 699 | 1563 | 44.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/eo/kxmlgui5.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 687 | 1563 | 44.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/lv/kxmlgui5.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 676 | 1563 | 43.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/mk/kxmlgui5.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 618 | 1563 | 39.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fa/kxmlgui5.po | 
- | [ku]({{< ref "/f34/language/ku.md" >}}) | 551 | 1563 | 35.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ku/kxmlgui5.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 525 | 1563 | 33.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/te/kxmlgui5.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 514 | 1563 | 32.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/mr/kxmlgui5.po | 
- | [kn]({{< ref "/f34/language/kn.md" >}}) | 505 | 1563 | 32.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/kn/kxmlgui5.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 500 | 1563 | 32.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bg/kxmlgui5.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 492 | 1563 | 31.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/si/kxmlgui5.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 489 | 1563 | 31.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/gu/kxmlgui5.po | 
- | [hsb]({{< ref "/f34/language/hsb.md" >}}) | 477 | 1563 | 30.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hsb/kxmlgui5.po | 
- | [be_Latn]({{< ref "/f34/language/be_Latn.md" >}}) | 452 | 1563 | 28.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/be@latin/kxmlgui5.po | 
- | [csb]({{< ref "/f34/language/csb.md" >}}) | 445 | 1563 | 28.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/csb/kxmlgui5.po | 
- | [hne]({{< ref "/f34/language/hne.md" >}}) | 444 | 1563 | 28.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hne/kxmlgui5.po | 
- | [mai]({{< ref "/f34/language/mai.md" >}}) | 441 | 1563 | 28.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/mai/kxmlgui5.po | 
- | [crh]({{< ref "/f34/language/crh.md" >}}) | 399 | 1563 | 25.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/crh/kxmlgui5.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 358 | 1563 | 22.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bn/kxmlgui5.po | 
- | [bn_IN]({{< ref "/f34/language/bn_IN.md" >}}) | 350 | 1563 | 22.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bn_IN/kxmlgui5.po | 
- | [ne]({{< ref "/f34/language/ne.md" >}}) | 342 | 1563 | 21.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ne/kxmlgui5.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 317 | 1563 | 20.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sq/kxmlgui5.po | 
- | [as]({{< ref "/f34/language/as.md" >}}) | 302 | 1563 | 19.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/as/kxmlgui5.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 282 | 1563 | 18.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ast/kxmlgui5.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 277 | 1563 | 17.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/oc/kxmlgui5.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 275 | 1563 | 17.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ka/kxmlgui5.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 268 | 1563 | 17.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/af/kxmlgui5.po | 
- | [lb]({{< ref "/f34/language/lb.md" >}}) | 268 | 1563 | 17.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/lb/kxmlgui5.po | 
- | [zh_Hant_HK]({{< ref "/f34/language/zh_Hant_HK.md" >}}) | 268 | 1563 | 17.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/zh_HK/kxmlgui5.po | 
- | [or]({{< ref "/f34/language/or.md" >}}) | 258 | 1563 | 16.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/or/kxmlgui5.po | 
- | [cy]({{< ref "/f34/language/cy.md" >}}) | 248 | 1563 | 15.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/cy/kxmlgui5.po | 
- | [uz]({{< ref "/f34/language/uz.md" >}}) | 442 | 3126 | 14.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/uz@cyrillic/kxmlgui5.po/mnt/stockage/packages/f34/kf5-kxmlgui/po/uz/kxmlgui5.po | 
- | [ps]({{< ref "/f34/language/ps.md" >}}) | 199 | 1563 | 12.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ps/kxmlgui5.po | 
- | [xh]({{< ref "/f34/language/xh.md" >}}) | 185 | 1563 | 11.8 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/xh/kxmlgui5.po | 
- | [br]({{< ref "/f34/language/br.md" >}}) | 62 | 1563 | 4.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/br/kxmlgui5.po | 
- | [ha]({{< ref "/f34/language/ha.md" >}}) | 17 | 1563 | 1.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ha/kxmlgui5.po | 
+ | [ca](/f34/language/ca) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ca/kxmlgui5.po | 
+ | [es](/f34/language/es) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/es/kxmlgui5.po | 
+ | [fr](/f34/language/fr) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fr/kxmlgui5.po | 
+ | [nl](/f34/language/nl) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nl/kxmlgui5.po | 
+ | [sl](/f34/language/sl) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sl/kxmlgui5.po | 
+ | [sv](/f34/language/sv) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sv/kxmlgui5.po | 
+ | [uk](/f34/language/uk) | 1563 | 1563 | 100.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/uk/kxmlgui5.po | 
+ | [ar](/f34/language/ar) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ar/kxmlgui5.po | 
+ | [az](/f34/language/az) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/az/kxmlgui5.po | 
+ | [el](/f34/language/el) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/el/kxmlgui5.po | 
+ | [en_GB](/f34/language/en_GB) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/en_GB/kxmlgui5.po | 
+ | [hu](/f34/language/hu) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hu/kxmlgui5.po | 
+ | [ia](/f34/language/ia) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ia/kxmlgui5.po | 
+ | [is](/f34/language/is) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/is/kxmlgui5.po | 
+ | [it](/f34/language/it) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/it/kxmlgui5.po | 
+ | [ko](/f34/language/ko) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ko/kxmlgui5.po | 
+ | [pl](/f34/language/pl) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pl/kxmlgui5.po | 
+ | [pt](/f34/language/pt) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pt/kxmlgui5.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pt_BR/kxmlgui5.po | 
+ | [ru](/f34/language/ru) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ru/kxmlgui5.po | 
+ | [ta](/f34/language/ta) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ta/kxmlgui5.po | 
+ | [vi](/f34/language/vi) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/vi/kxmlgui5.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 1556 | 1563 | 99.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/zh_CN/kxmlgui5.po | 
+ | [da](/f34/language/da) | 1535 | 1563 | 98.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/da/kxmlgui5.po | 
+ | [eu](/f34/language/eu) | 1535 | 1563 | 98.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/eu/kxmlgui5.po | 
+ | [de](/f34/language/de) | 1534 | 1563 | 98.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/de/kxmlgui5.po | 
+ | [fi](/f34/language/fi) | 1534 | 1563 | 98.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fi/kxmlgui5.po | 
+ | [ro](/f34/language/ro) | 1534 | 1563 | 98.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ro/kxmlgui5.po | 
+ | [sk](/f34/language/sk) | 1512 | 1563 | 96.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sk/kxmlgui5.po | 
+ | [nn](/f34/language/nn) | 1505 | 1556 | 96.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nn/kxmlgui5.po | 
+ | [cs](/f34/language/cs) | 1502 | 1563 | 96.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/cs/kxmlgui5.po | 
+ | [et](/f34/language/et) | 1455 | 1563 | 93.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/et/kxmlgui5.po | 
+ | [be](/f34/language/be) | 1453 | 1563 | 93.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/be/kxmlgui5.po | 
+ | [tr](/f34/language/tr) | 1453 | 1563 | 93.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/tr/kxmlgui5.po | 
+ | [ms](/f34/language/ms) | 1430 | 1563 | 91.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ms/kxmlgui5.po | 
+ | [hi](/f34/language/hi) | 1429 | 1563 | 91.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hi/kxmlgui5.po | 
+ | [id](/f34/language/id) | 1428 | 1563 | 91.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/id/kxmlgui5.po | 
+ | [lt](/f34/language/lt) | 1427 | 1563 | 91.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/lt/kxmlgui5.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1427 | 1563 | 91.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/zh_TW/kxmlgui5.po | 
+ | [my](/f34/language/my) | 1382 | 1563 | 88.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/my/kxmlgui5.po | 
+ | [ml](/f34/language/ml) | 1293 | 1563 | 82.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ml/kxmlgui5.po | 
+ | [sr](/f34/language/sr) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr/kxmlgui5.po | 
+ | [sr@ijekavian](/f34/language/sr@ijekavian) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr@ijekavian/kxmlgui5.po | 
+ | [sr@ijekavian_Latn](/f34/language/sr@ijekavian_Latn) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr@ijekavianlatin/kxmlgui5.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 1228 | 1546 | 79.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sr@latin/kxmlgui5.po | 
+ | [tg](/f34/language/tg) | 1218 | 1563 | 77.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/tg/kxmlgui5.po | 
+ | [gl](/f34/language/gl) | 1217 | 1563 | 77.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/gl/kxmlgui5.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 1214 | 1563 | 77.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ca@valencia/kxmlgui5.po | 
+ | [ja](/f34/language/ja) | 1093 | 1563 | 69.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ja/kxmlgui5.po | 
+ | [gd](/f34/language/gd) | 1017 | 1563 | 65.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/gd/kxmlgui5.po | 
+ | [nb_NO](/f34/language/nb_NO) | 1001 | 1556 | 64.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nb/kxmlgui5.po | 
+ | [nds](/f34/language/nds) | 1001 | 1563 | 64.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/nds/kxmlgui5.po | 
+ | [pa](/f34/language/pa) | 986 | 1563 | 63.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/pa/kxmlgui5.po | 
+ | [se](/f34/language/se) | 967 | 1556 | 62.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/se/kxmlgui5.po | 
+ | [bs](/f34/language/bs) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bs/kxmlgui5.po | 
+ | [ga](/f34/language/ga) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ga/kxmlgui5.po | 
+ | [kk](/f34/language/kk) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/kk/kxmlgui5.po | 
+ | [ug](/f34/language/ug) | 958 | 1563 | 61.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ug/kxmlgui5.po | 
+ | [hr](/f34/language/hr) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hr/kxmlgui5.po | 
+ | [hy](/f34/language/hy) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hy/kxmlgui5.po | 
+ | [km](/f34/language/km) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/km/kxmlgui5.po | 
+ | [tt](/f34/language/tt) | 957 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/tt/kxmlgui5.po | 
+ | [he](/f34/language/he) | 956 | 1563 | 61.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/he/kxmlgui5.po | 
+ | [th](/f34/language/th) | 951 | 1563 | 60.8 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/th/kxmlgui5.po | 
+ | [wa](/f34/language/wa) | 872 | 1563 | 55.8 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/wa/kxmlgui5.po | 
+ | [fy](/f34/language/fy) | 870 | 1563 | 55.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fy/kxmlgui5.po | 
+ | [eo](/f34/language/eo) | 699 | 1563 | 44.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/eo/kxmlgui5.po | 
+ | [lv](/f34/language/lv) | 687 | 1563 | 44.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/lv/kxmlgui5.po | 
+ | [mk](/f34/language/mk) | 676 | 1563 | 43.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/mk/kxmlgui5.po | 
+ | [fa](/f34/language/fa) | 618 | 1563 | 39.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/fa/kxmlgui5.po | 
+ | [ku](/f34/language/ku) | 551 | 1563 | 35.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ku/kxmlgui5.po | 
+ | [te](/f34/language/te) | 525 | 1563 | 33.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/te/kxmlgui5.po | 
+ | [mr](/f34/language/mr) | 514 | 1563 | 32.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/mr/kxmlgui5.po | 
+ | [kn](/f34/language/kn) | 505 | 1563 | 32.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/kn/kxmlgui5.po | 
+ | [bg](/f34/language/bg) | 500 | 1563 | 32.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bg/kxmlgui5.po | 
+ | [si](/f34/language/si) | 492 | 1563 | 31.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/si/kxmlgui5.po | 
+ | [gu](/f34/language/gu) | 489 | 1563 | 31.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/gu/kxmlgui5.po | 
+ | [hsb](/f34/language/hsb) | 477 | 1563 | 30.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hsb/kxmlgui5.po | 
+ | [be_Latn](/f34/language/be_Latn) | 452 | 1563 | 28.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/be@latin/kxmlgui5.po | 
+ | [csb](/f34/language/csb) | 445 | 1563 | 28.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/csb/kxmlgui5.po | 
+ | [hne](/f34/language/hne) | 444 | 1563 | 28.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/hne/kxmlgui5.po | 
+ | [mai](/f34/language/mai) | 441 | 1563 | 28.2 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/mai/kxmlgui5.po | 
+ | [crh](/f34/language/crh) | 399 | 1563 | 25.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/crh/kxmlgui5.po | 
+ | [bn](/f34/language/bn) | 358 | 1563 | 22.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bn/kxmlgui5.po | 
+ | [bn_IN](/f34/language/bn_IN) | 350 | 1563 | 22.4 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/bn_IN/kxmlgui5.po | 
+ | [ne](/f34/language/ne) | 342 | 1563 | 21.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ne/kxmlgui5.po | 
+ | [sq](/f34/language/sq) | 317 | 1563 | 20.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/sq/kxmlgui5.po | 
+ | [as](/f34/language/as) | 302 | 1563 | 19.3 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/as/kxmlgui5.po | 
+ | [ast](/f34/language/ast) | 282 | 1563 | 18.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ast/kxmlgui5.po | 
+ | [oc](/f34/language/oc) | 277 | 1563 | 17.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/oc/kxmlgui5.po | 
+ | [ka](/f34/language/ka) | 275 | 1563 | 17.6 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ka/kxmlgui5.po | 
+ | [af](/f34/language/af) | 268 | 1563 | 17.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/af/kxmlgui5.po | 
+ | [lb](/f34/language/lb) | 268 | 1563 | 17.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/lb/kxmlgui5.po | 
+ | [zh_Hant_HK](/f34/language/zh_Hant_HK) | 268 | 1563 | 17.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/zh_HK/kxmlgui5.po | 
+ | [or](/f34/language/or) | 258 | 1563 | 16.5 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/or/kxmlgui5.po | 
+ | [cy](/f34/language/cy) | 248 | 1563 | 15.9 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/cy/kxmlgui5.po | 
+ | [uz](/f34/language/uz) | 442 | 3126 | 14.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/uz@cyrillic/kxmlgui5.po/mnt/stockage/packages/f34/kf5-kxmlgui/po/uz/kxmlgui5.po | 
+ | [ps](/f34/language/ps) | 199 | 1563 | 12.7 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ps/kxmlgui5.po | 
+ | [xh](/f34/language/xh) | 185 | 1563 | 11.8 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/xh/kxmlgui5.po | 
+ | [br](/f34/language/br) | 62 | 1563 | 4.0 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/br/kxmlgui5.po | 
+ | [ha](/f34/language/ha) | 17 | 1563 | 1.1 | /mnt/stockage/packages/f34/kf5-kxmlgui/po/ha/kxmlgui5.po | 
 {.sortable}
 
 

@@ -18,37 +18,37 @@ The package peek (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/de.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/eu.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/hr.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/ja.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/nl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/sv.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 547 | 564 | 97.0 | /mnt/stockage/packages/f33/peek/po/nb.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 530 | 564 | 94.0 | /mnt/stockage/packages/f33/peek/po/pt_BR.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/fr.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/id.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/lt.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/zh_TW.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 492 | 564 | 87.2 | /mnt/stockage/packages/f33/peek/po/eo.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 492 | 564 | 87.2 | /mnt/stockage/packages/f33/peek/po/ru.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 487 | 564 | 86.3 | /mnt/stockage/packages/f33/peek/po/pl.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 487 | 564 | 86.3 | /mnt/stockage/packages/f33/peek/po/pt_PT.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 487 | 564 | 86.3 | /mnt/stockage/packages/f33/peek/po/sr.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 456 | 537 | 84.9 | /mnt/stockage/packages/f33/peek/po/he.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 478 | 564 | 84.8 | /mnt/stockage/packages/f33/peek/po/ar.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 445 | 564 | 78.9 | /mnt/stockage/packages/f33/peek/po/it.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 300 | 564 | 53.2 | /mnt/stockage/packages/f33/peek/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 289 | 564 | 51.2 | /mnt/stockage/packages/f33/peek/po/uk_UA.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 189 | 564 | 33.5 | /mnt/stockage/packages/f33/peek/po/fi.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 54 | 564 | 9.6 | /mnt/stockage/packages/f33/peek/po/ca.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 50 | 564 | 8.9 | /mnt/stockage/packages/f33/peek/po/ko.po | 
- | [nap]({{< ref "/f33/language/nap.md" >}}) | 33 | 564 | 5.9 | /mnt/stockage/packages/f33/peek/po/nap.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 13 | 564 | 2.3 | /mnt/stockage/packages/f33/peek/po/el.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 0 | 564 | 0.0 | /mnt/stockage/packages/f33/peek/po/kn.po | 
+ | [cs](/f33/language/cs) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/cs.po | 
+ | [de](/f33/language/de) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/de.po | 
+ | [eu](/f33/language/eu) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/eu.po | 
+ | [hr](/f33/language/hr) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/hr.po | 
+ | [ja](/f33/language/ja) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/ja.po | 
+ | [nl](/f33/language/nl) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/nl.po | 
+ | [sv](/f33/language/sv) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/sv.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 564 | 564 | 100.0 | /mnt/stockage/packages/f33/peek/po/zh_CN.po | 
+ | [nb_NO](/f33/language/nb_NO) | 547 | 564 | 97.0 | /mnt/stockage/packages/f33/peek/po/nb.po | 
+ | [pt_BR](/f33/language/pt_BR) | 530 | 564 | 94.0 | /mnt/stockage/packages/f33/peek/po/pt_BR.po | 
+ | [es](/f33/language/es) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/es.po | 
+ | [fr](/f33/language/fr) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/fr.po | 
+ | [id](/f33/language/id) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/id.po | 
+ | [lt](/f33/language/lt) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/lt.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 527 | 564 | 93.4 | /mnt/stockage/packages/f33/peek/po/zh_TW.po | 
+ | [eo](/f33/language/eo) | 492 | 564 | 87.2 | /mnt/stockage/packages/f33/peek/po/eo.po | 
+ | [ru](/f33/language/ru) | 492 | 564 | 87.2 | /mnt/stockage/packages/f33/peek/po/ru.po | 
+ | [pl](/f33/language/pl) | 487 | 564 | 86.3 | /mnt/stockage/packages/f33/peek/po/pl.po | 
+ | [pt_PT](/f33/language/pt_PT) | 487 | 564 | 86.3 | /mnt/stockage/packages/f33/peek/po/pt_PT.po | 
+ | [sr](/f33/language/sr) | 487 | 564 | 86.3 | /mnt/stockage/packages/f33/peek/po/sr.po | 
+ | [he](/f33/language/he) | 456 | 537 | 84.9 | /mnt/stockage/packages/f33/peek/po/he.po | 
+ | [ar](/f33/language/ar) | 478 | 564 | 84.8 | /mnt/stockage/packages/f33/peek/po/ar.po | 
+ | [it](/f33/language/it) | 445 | 564 | 78.9 | /mnt/stockage/packages/f33/peek/po/it.po | 
+ | [tr](/f33/language/tr) | 300 | 564 | 53.2 | /mnt/stockage/packages/f33/peek/po/tr.po | 
+ | [uk](/f33/language/uk) | 289 | 564 | 51.2 | /mnt/stockage/packages/f33/peek/po/uk_UA.po | 
+ | [fi](/f33/language/fi) | 189 | 564 | 33.5 | /mnt/stockage/packages/f33/peek/po/fi.po | 
+ | [ca](/f33/language/ca) | 54 | 564 | 9.6 | /mnt/stockage/packages/f33/peek/po/ca.po | 
+ | [ko](/f33/language/ko) | 50 | 564 | 8.9 | /mnt/stockage/packages/f33/peek/po/ko.po | 
+ | [nap](/f33/language/nap) | 33 | 564 | 5.9 | /mnt/stockage/packages/f33/peek/po/nap.po | 
+ | [el](/f33/language/el) | 13 | 564 | 2.3 | /mnt/stockage/packages/f33/peek/po/el.po | 
+ | [kn](/f33/language/kn) | 0 | 564 | 0.0 | /mnt/stockage/packages/f33/peek/po/kn.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package python-django-keyedcache (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/fr/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/he/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/it/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/ko/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/pl/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/sv/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/tr/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 16 | 18 | 88.9 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 7 | 8 | 87.5 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/ru/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 3 | 8 | 37.5 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/de/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 0 | 8 | 0.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/en/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f28/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/fr/LC_MESSAGES/django.po | 
+ | [he](/f28/language/he) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/he/LC_MESSAGES/django.po | 
+ | [it](/f28/language/it) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/it/LC_MESSAGES/django.po | 
+ | [ko](/f28/language/ko) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/ko/LC_MESSAGES/django.po | 
+ | [pl](/f28/language/pl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/pl/LC_MESSAGES/django.po | 
+ | [sv](/f28/language/sv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/sv/LC_MESSAGES/django.po | 
+ | [tr](/f28/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/tr/LC_MESSAGES/django.po | 
+ | [pt_BR](/f28/language/pt_BR) | 16 | 18 | 88.9 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f28/language/ru) | 7 | 8 | 87.5 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/ru/LC_MESSAGES/django.po | 
+ | [de](/f28/language/de) | 3 | 8 | 37.5 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/de/LC_MESSAGES/django.po | 
+ | [en](/f28/language/en) | 0 | 8 | 0.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f28/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f28/python-django-keyedcache/keyedcache/locale/es/LC_MESSAGES/django.po | 
 {.sortable}
 
 

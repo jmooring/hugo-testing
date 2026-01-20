@@ -18,11 +18,11 @@ The package vodovod (version 1.10r22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 430 | 457 | 94.1 | /mnt/stockage/packages/f22/vodovod/po/sv.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 274 | 457 | 60.0 | /mnt/stockage/packages/f22/vodovod/po/zh.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 261 | 457 | 57.1 | /mnt/stockage/packages/f22/vodovod/po/cs.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 178 | 457 | 38.9 | /mnt/stockage/packages/f22/vodovod/po/sr.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 0 | 457 | 0.0 | /mnt/stockage/packages/f22/vodovod/po/en.po | 
+ | [sv](/f22/language/sv) | 430 | 457 | 94.1 | /mnt/stockage/packages/f22/vodovod/po/sv.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 274 | 457 | 60.0 | /mnt/stockage/packages/f22/vodovod/po/zh.po | 
+ | [cs](/f22/language/cs) | 261 | 457 | 57.1 | /mnt/stockage/packages/f22/vodovod/po/cs.po | 
+ | [sr](/f22/language/sr) | 178 | 457 | 38.9 | /mnt/stockage/packages/f22/vodovod/po/sr.po | 
+ | [en](/f22/language/en) | 0 | 457 | 0.0 | /mnt/stockage/packages/f22/vodovod/po/en.po | 
 {.sortable}
 
 

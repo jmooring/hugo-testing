@@ -18,14 +18,14 @@ The package procps-ng (version 3.3.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/fr.po/mnt/stockage/packages/f29/procps-ng/po/fr.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/pl.po/mnt/stockage/packages/f29/procps-ng/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/pt_BR.po/mnt/stockage/packages/f29/procps-ng/po/pt_BR.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/sv.po/mnt/stockage/packages/f29/procps-ng/po/sv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/uk.po/mnt/stockage/packages/f29/procps-ng/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 4366 | 4593 | 95.1 | /mnt/stockage/packages/f29/procps-ng/po/vi.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 8337 | 9804 | 85.0 | /mnt/stockage/packages/f29/procps-ng/man-po/de.po/mnt/stockage/packages/f29/procps-ng/po/de.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 199 | 9804 | 2.0 | /mnt/stockage/packages/f29/procps-ng/man-po/zh_CN.po/mnt/stockage/packages/f29/procps-ng/po/zh_CN.po | 
+ | [fr](/f29/language/fr) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/fr.po/mnt/stockage/packages/f29/procps-ng/po/fr.po | 
+ | [pl](/f29/language/pl) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/pl.po/mnt/stockage/packages/f29/procps-ng/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/pt_BR.po/mnt/stockage/packages/f29/procps-ng/po/pt_BR.po | 
+ | [sv](/f29/language/sv) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/sv.po/mnt/stockage/packages/f29/procps-ng/po/sv.po | 
+ | [uk](/f29/language/uk) | 9785 | 9804 | 99.8 | /mnt/stockage/packages/f29/procps-ng/man-po/uk.po/mnt/stockage/packages/f29/procps-ng/po/uk.po | 
+ | [vi](/f29/language/vi) | 4366 | 4593 | 95.1 | /mnt/stockage/packages/f29/procps-ng/po/vi.po | 
+ | [de](/f29/language/de) | 8337 | 9804 | 85.0 | /mnt/stockage/packages/f29/procps-ng/man-po/de.po/mnt/stockage/packages/f29/procps-ng/po/de.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 199 | 9804 | 2.0 | /mnt/stockage/packages/f29/procps-ng/man-po/zh_CN.po/mnt/stockage/packages/f29/procps-ng/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package codeblocks (version 12.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 506 | 525 | 96.4 | /mnt/stockage/packages/f20/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 496 | 525 | 94.5 | /mnt/stockage/packages/f20/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po | 
+ | [hu](/f20/language/hu) | 506 | 525 | 96.4 | /mnt/stockage/packages/f20/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
+ | [it](/f20/language/it) | 496 | 525 | 94.5 | /mnt/stockage/packages/f20/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po | 
 {.sortable}
 
 

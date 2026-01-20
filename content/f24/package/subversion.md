@@ -18,18 +18,18 @@ The package subversion (version 1.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 30174 | 30174 | 100.0 | /mnt/stockage/packages/f24/subversion/subversion/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 23681 | 23681 | 100.0 | /mnt/stockage/packages/f24/subversion/subversion/po/fr.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 18741 | 21608 | 86.7 | /mnt/stockage/packages/f24/subversion/subversion/po/ko.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 22983 | 26708 | 86.1 | /mnt/stockage/packages/f24/subversion/subversion/po/sv.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 15745 | 19860 | 79.3 | /mnt/stockage/packages/f24/subversion/subversion/po/pl.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 14477 | 19860 | 72.9 | /mnt/stockage/packages/f24/subversion/subversion/po/nb.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 13042 | 19860 | 65.7 | /mnt/stockage/packages/f24/subversion/subversion/po/es.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 12500 | 19860 | 62.9 | /mnt/stockage/packages/f24/subversion/subversion/po/ja.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 17530 | 29569 | 59.3 | /mnt/stockage/packages/f24/subversion/subversion/po/zh_CN.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 9610 | 19860 | 48.4 | /mnt/stockage/packages/f24/subversion/subversion/po/it.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 9172 | 19860 | 46.2 | /mnt/stockage/packages/f24/subversion/subversion/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 7873 | 19860 | 39.6 | /mnt/stockage/packages/f24/subversion/subversion/po/zh_TW.po | 
+ | [de](/f24/language/de) | 30174 | 30174 | 100.0 | /mnt/stockage/packages/f24/subversion/subversion/po/de.po | 
+ | [fr](/f24/language/fr) | 23681 | 23681 | 100.0 | /mnt/stockage/packages/f24/subversion/subversion/po/fr.po | 
+ | [ko](/f24/language/ko) | 18741 | 21608 | 86.7 | /mnt/stockage/packages/f24/subversion/subversion/po/ko.po | 
+ | [sv](/f24/language/sv) | 22983 | 26708 | 86.1 | /mnt/stockage/packages/f24/subversion/subversion/po/sv.po | 
+ | [pl](/f24/language/pl) | 15745 | 19860 | 79.3 | /mnt/stockage/packages/f24/subversion/subversion/po/pl.po | 
+ | [nb_NO](/f24/language/nb_NO) | 14477 | 19860 | 72.9 | /mnt/stockage/packages/f24/subversion/subversion/po/nb.po | 
+ | [es](/f24/language/es) | 13042 | 19860 | 65.7 | /mnt/stockage/packages/f24/subversion/subversion/po/es.po | 
+ | [ja](/f24/language/ja) | 12500 | 19860 | 62.9 | /mnt/stockage/packages/f24/subversion/subversion/po/ja.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 17530 | 29569 | 59.3 | /mnt/stockage/packages/f24/subversion/subversion/po/zh_CN.po | 
+ | [it](/f24/language/it) | 9610 | 19860 | 48.4 | /mnt/stockage/packages/f24/subversion/subversion/po/it.po | 
+ | [pt_BR](/f24/language/pt_BR) | 9172 | 19860 | 46.2 | /mnt/stockage/packages/f24/subversion/subversion/po/pt_BR.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 7873 | 19860 | 39.6 | /mnt/stockage/packages/f24/subversion/subversion/po/zh_TW.po | 
 {.sortable}
 
 

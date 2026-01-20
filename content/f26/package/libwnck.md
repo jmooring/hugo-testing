@@ -18,95 +18,95 @@ The package libwnck (version 2.31.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ar.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/as.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ast.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/be.po | 
- | [be_Latn]({{< ref "/f26/language/be_Latn.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/be@latin.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/bg.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/bn.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/bn_IN.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 2206 | 2206 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ca@valencia.po/mnt/stockage/packages/f26/libwnck/po/ca.po | 
- | [crh]({{< ref "/f26/language/crh.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/crh.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/cs.po | 
- | [cy]({{< ref "/f26/language/cy.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/cy.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/de.po | 
- | [dz]({{< ref "/f26/language/dz.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/dz.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/en_CA.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/en_GB.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/eo.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 1082 | 1082 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/eu.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/gl.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/gu.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ja.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/kn.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ko.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ku.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/lv.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/mk.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ml.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/mr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/nn.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/or.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ru.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/si.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sl.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sq.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sv.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/te.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/vi.po | 
- | [xh]({{< ref "/f26/language/xh.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/xh.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/zh_HK.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 1101 | 1122 | 98.1 | /mnt/stockage/packages/f26/libwnck/po/ne.po | 
- | [ky]({{< ref "/f26/language/ky.md" >}}) | 69 | 73 | 94.5 | /mnt/stockage/packages/f26/libwnck/po/ky.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 893 | 1124 | 79.4 | /mnt/stockage/packages/f26/libwnck/po/en@shaw.po | 
- | [az]({{< ref "/f26/language/az.md" >}}) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/az.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/bs.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/fa.po | 
- | [mn]({{< ref "/f26/language/mn.md" >}}) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/mn.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 674 | 1124 | 60.0 | /mnt/stockage/packages/f26/libwnck/po/nb.po | 
- | [ka]({{< ref "/f26/language/ka.md" >}}) | 621 | 1122 | 55.3 | /mnt/stockage/packages/f26/libwnck/po/ka.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 33 | 73 | 45.2 | /mnt/stockage/packages/f26/libwnck/po/is.po | 
- | [li]({{< ref "/f26/language/li.md" >}}) | 30 | 73 | 41.1 | /mnt/stockage/packages/f26/libwnck/po/li.po | 
- | [wa]({{< ref "/f26/language/wa.md" >}}) | 30 | 73 | 41.1 | /mnt/stockage/packages/f26/libwnck/po/wa.po | 
- | [am]({{< ref "/f26/language/am.md" >}}) | 26 | 73 | 35.6 | /mnt/stockage/packages/f26/libwnck/po/am.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 343 | 1124 | 30.5 | /mnt/stockage/packages/f26/libwnck/po/ga.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 240 | 1124 | 21.4 | /mnt/stockage/packages/f26/libwnck/po/br.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 226 | 1124 | 20.1 | /mnt/stockage/packages/f26/libwnck/po/kk.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 216 | 1082 | 20.0 | /mnt/stockage/packages/f26/libwnck/po/ug.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 137 | 1124 | 12.2 | /mnt/stockage/packages/f26/libwnck/po/oc.po | 
- | [mai]({{< ref "/f26/language/mai.md" >}}) | 97 | 1124 | 8.6 | /mnt/stockage/packages/f26/libwnck/po/mai.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 65 | 1124 | 5.8 | /mnt/stockage/packages/f26/libwnck/po/hr.po | 
- | [rw]({{< ref "/f26/language/rw.md" >}}) | 2 | 73 | 2.7 | /mnt/stockage/packages/f26/libwnck/po/rw.po | 
- | [mi]({{< ref "/f26/language/mi.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f26/libwnck/po/mi.po | 
+ | [ar](/f26/language/ar) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ar.po | 
+ | [as](/f26/language/as) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/as.po | 
+ | [ast](/f26/language/ast) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ast.po | 
+ | [be](/f26/language/be) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/be.po | 
+ | [be_Latn](/f26/language/be_Latn) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/be@latin.po | 
+ | [bg](/f26/language/bg) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/bg.po | 
+ | [bn](/f26/language/bn) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/bn.po | 
+ | [bn_IN](/f26/language/bn_IN) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/bn_IN.po | 
+ | [ca](/f26/language/ca) | 2206 | 2206 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ca@valencia.po/mnt/stockage/packages/f26/libwnck/po/ca.po | 
+ | [crh](/f26/language/crh) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/crh.po | 
+ | [cs](/f26/language/cs) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/cs.po | 
+ | [cy](/f26/language/cy) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/cy.po | 
+ | [da](/f26/language/da) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/da.po | 
+ | [de](/f26/language/de) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/de.po | 
+ | [dz](/f26/language/dz) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/dz.po | 
+ | [el](/f26/language/el) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/en_CA.po | 
+ | [en_GB](/f26/language/en_GB) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/en_GB.po | 
+ | [eo](/f26/language/eo) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/eo.po | 
+ | [es](/f26/language/es) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/es.po | 
+ | [et](/f26/language/et) | 1082 | 1082 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/et.po | 
+ | [eu](/f26/language/eu) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/eu.po | 
+ | [fi](/f26/language/fi) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/fi.po | 
+ | [fr](/f26/language/fr) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/fr.po | 
+ | [gl](/f26/language/gl) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/gl.po | 
+ | [gu](/f26/language/gu) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/gu.po | 
+ | [he](/f26/language/he) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/he.po | 
+ | [hi](/f26/language/hi) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/hi.po | 
+ | [hu](/f26/language/hu) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/hu.po | 
+ | [id](/f26/language/id) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/id.po | 
+ | [it](/f26/language/it) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/it.po | 
+ | [ja](/f26/language/ja) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ja.po | 
+ | [kn](/f26/language/kn) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/kn.po | 
+ | [ko](/f26/language/ko) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ko.po | 
+ | [ku](/f26/language/ku) | 73 | 73 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ku.po | 
+ | [lt](/f26/language/lt) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/lt.po | 
+ | [lv](/f26/language/lv) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/lv.po | 
+ | [mk](/f26/language/mk) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/mk.po | 
+ | [ml](/f26/language/ml) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ml.po | 
+ | [mr](/f26/language/mr) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/mr.po | 
+ | [nl](/f26/language/nl) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/nl.po | 
+ | [nn](/f26/language/nn) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/nn.po | 
+ | [or](/f26/language/or) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/or.po | 
+ | [pa](/f26/language/pa) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pa.po | 
+ | [pl](/f26/language/pl) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pl.po | 
+ | [pt](/f26/language/pt) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ro.po | 
+ | [ru](/f26/language/ru) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ru.po | 
+ | [si](/f26/language/si) | 87 | 87 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/si.po | 
+ | [sk](/f26/language/sk) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sk.po | 
+ | [sl](/f26/language/sl) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sl.po | 
+ | [sq](/f26/language/sq) | 88 | 88 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sq.po | 
+ | [sr](/f26/language/sr) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/sv.po | 
+ | [ta](/f26/language/ta) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/ta.po | 
+ | [te](/f26/language/te) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/te.po | 
+ | [th](/f26/language/th) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/th.po | 
+ | [tr](/f26/language/tr) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/tr.po | 
+ | [uk](/f26/language/uk) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/uk.po | 
+ | [vi](/f26/language/vi) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/vi.po | 
+ | [xh](/f26/language/xh) | 73 | 73 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/xh.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 1124 | 1124 | 100.0 | /mnt/stockage/packages/f26/libwnck/po/zh_HK.po | 
+ | [ne](/f26/language/ne) | 1101 | 1122 | 98.1 | /mnt/stockage/packages/f26/libwnck/po/ne.po | 
+ | [ky](/f26/language/ky) | 69 | 73 | 94.5 | /mnt/stockage/packages/f26/libwnck/po/ky.po | 
+ | [error](/f26/language/error) | 893 | 1124 | 79.4 | /mnt/stockage/packages/f26/libwnck/po/en@shaw.po | 
+ | [az](/f26/language/az) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/az.po | 
+ | [bs](/f26/language/bs) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/bs.po | 
+ | [fa](/f26/language/fa) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/fa.po | 
+ | [mn](/f26/language/mn) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/mn.po | 
+ | [ms](/f26/language/ms) | 47 | 73 | 64.4 | /mnt/stockage/packages/f26/libwnck/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 674 | 1124 | 60.0 | /mnt/stockage/packages/f26/libwnck/po/nb.po | 
+ | [ka](/f26/language/ka) | 621 | 1122 | 55.3 | /mnt/stockage/packages/f26/libwnck/po/ka.po | 
+ | [is](/f26/language/is) | 33 | 73 | 45.2 | /mnt/stockage/packages/f26/libwnck/po/is.po | 
+ | [li](/f26/language/li) | 30 | 73 | 41.1 | /mnt/stockage/packages/f26/libwnck/po/li.po | 
+ | [wa](/f26/language/wa) | 30 | 73 | 41.1 | /mnt/stockage/packages/f26/libwnck/po/wa.po | 
+ | [am](/f26/language/am) | 26 | 73 | 35.6 | /mnt/stockage/packages/f26/libwnck/po/am.po | 
+ | [ga](/f26/language/ga) | 343 | 1124 | 30.5 | /mnt/stockage/packages/f26/libwnck/po/ga.po | 
+ | [br](/f26/language/br) | 240 | 1124 | 21.4 | /mnt/stockage/packages/f26/libwnck/po/br.po | 
+ | [kk](/f26/language/kk) | 226 | 1124 | 20.1 | /mnt/stockage/packages/f26/libwnck/po/kk.po | 
+ | [ug](/f26/language/ug) | 216 | 1082 | 20.0 | /mnt/stockage/packages/f26/libwnck/po/ug.po | 
+ | [oc](/f26/language/oc) | 137 | 1124 | 12.2 | /mnt/stockage/packages/f26/libwnck/po/oc.po | 
+ | [mai](/f26/language/mai) | 97 | 1124 | 8.6 | /mnt/stockage/packages/f26/libwnck/po/mai.po | 
+ | [hr](/f26/language/hr) | 65 | 1124 | 5.8 | /mnt/stockage/packages/f26/libwnck/po/hr.po | 
+ | [rw](/f26/language/rw) | 2 | 73 | 2.7 | /mnt/stockage/packages/f26/libwnck/po/rw.po | 
+ | [mi](/f26/language/mi) | 0 | 73 | 0.0 | /mnt/stockage/packages/f26/libwnck/po/mi.po | 
 {.sortable}
 
 

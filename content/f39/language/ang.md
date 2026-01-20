@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [vte]({{< ref "/f39/package/vte.md" >}}) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
- | [vte291]({{< ref "/f39/package/vte291.md" >}}) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
- | [gdk-pixbuf2]({{< ref "/f39/package/gdk-pixbuf2.md" >}}) | 223 | 1348 | 16.5 | Old English <modean52@comcast.net> | 
- | [mingw-gdk-pixbuf]({{< ref "/f39/package/mingw-gdk-pixbuf.md" >}}) | 223 | 1348 | 16.5 | Old English <modean52@comcast.net> | 
- | [libgnomecanvas]({{< ref "/f39/package/libgnomecanvas.md" >}}) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
- | [gtk4]({{< ref "/f39/package/gtk4.md" >}}) | 79 | 2432 | 3.2 | Old English <modean52@comcast.net> | 
- | [mingw-gtk4]({{< ref "/f39/package/mingw-gtk4.md" >}}) | 79 | 2432 | 3.2 | Old English <modean52@comcast.net> | 
- | [gtk2]({{< ref "/f39/package/gtk2.md" >}}) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
- | [mingw-gtk2]({{< ref "/f39/package/mingw-gtk2.md" >}}) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
- | [libgweather4]({{< ref "/f39/package/libgweather4.md" >}}) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
- | [gtk3]({{< ref "/f39/package/gtk3.md" >}}) | 158 | 11853 | 1.3 | Old English <modean52@comcast.net> | 
- | [mingw-gtk3]({{< ref "/f39/package/mingw-gtk3.md" >}}) | 158 | 11853 | 1.3 | Old English <modean52@comcast.net> | 
- | [wesnoth]({{< ref "/f39/package/wesnoth.md" >}}) | 2062 | 339620 | 0.6 | Old English <http://wiki.wesnoth.org/OldEnglishTranslation> | 
- | [libmateweather]({{< ref "/f39/package/libmateweather.md" >}}) | 30 | 5643 | 0.5 | Old English <modean52@comcast.net> | 
- | [chromium]({{< ref "/f39/package/chromium.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [vte](/f39/package/vte) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
+ | [vte291](/f39/package/vte291) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
+ | [gdk-pixbuf2](/f39/package/gdk-pixbuf2) | 223 | 1348 | 16.5 | Old English <modean52@comcast.net> | 
+ | [mingw-gdk-pixbuf](/f39/package/mingw-gdk-pixbuf) | 223 | 1348 | 16.5 | Old English <modean52@comcast.net> | 
+ | [libgnomecanvas](/f39/package/libgnomecanvas) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
+ | [gtk4](/f39/package/gtk4) | 79 | 2432 | 3.2 | Old English <modean52@comcast.net> | 
+ | [mingw-gtk4](/f39/package/mingw-gtk4) | 79 | 2432 | 3.2 | Old English <modean52@comcast.net> | 
+ | [gtk2](/f39/package/gtk2) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
+ | [mingw-gtk2](/f39/package/mingw-gtk2) | 403 | 13704 | 2.9 | Old English <modean52@comcast.net> | 
+ | [libgweather4](/f39/package/libgweather4) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
+ | [gtk3](/f39/package/gtk3) | 158 | 11853 | 1.3 | Old English <modean52@comcast.net> | 
+ | [mingw-gtk3](/f39/package/mingw-gtk3) | 158 | 11853 | 1.3 | Old English <modean52@comcast.net> | 
+ | [wesnoth](/f39/package/wesnoth) | 2062 | 339620 | 0.6 | Old English <http://wiki.wesnoth.org/OldEnglishTranslation> | 
+ | [libmateweather](/f39/package/libmateweather) | 30 | 5643 | 0.5 | Old English <modean52@comcast.net> | 
+ | [chromium](/f39/package/chromium) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

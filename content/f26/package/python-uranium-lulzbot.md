@@ -18,18 +18,18 @@ The package python-uranium-lulzbot (version 2.6.69):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/de/uranium.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/en/uranium.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/ptbr/uranium.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/es/uranium.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/fi/uranium.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/fr/uranium.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/it/uranium.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/nl/uranium.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/ru/uranium.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/tr/uranium.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 382 | 404 | 94.6 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/pl/uranium.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/hu/uranium.po | 
+ | [de](/f26/language/de) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/de/uranium.po | 
+ | [en](/f26/language/en) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/en/uranium.po | 
+ | [error](/f26/language/error) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/ptbr/uranium.po | 
+ | [es](/f26/language/es) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/es/uranium.po | 
+ | [fi](/f26/language/fi) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/fi/uranium.po | 
+ | [fr](/f26/language/fr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/fr/uranium.po | 
+ | [it](/f26/language/it) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/it/uranium.po | 
+ | [nl](/f26/language/nl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/nl/uranium.po | 
+ | [ru](/f26/language/ru) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/ru/uranium.po | 
+ | [tr](/f26/language/tr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/tr/uranium.po | 
+ | [pl](/f26/language/pl) | 382 | 404 | 94.6 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/pl/uranium.po | 
+ | [hu](/f26/language/hu) | 0 | 404 | 0.0 | /mnt/stockage/packages/f26/python-uranium-lulzbot/resources/i18n/hu/uranium.po | 
 {.sortable}
 
 

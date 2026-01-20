@@ -18,10 +18,10 @@ The package golang-github-snapcore-gettext (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f40/language/en.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/en/messages.po/mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/en-no-plural-forms/messages.po | 
- | [en_AU]({{< ref "/f40/language/en_AU.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/en_AU/messages.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/es/messages.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/ja/messages.po | 
+ | [en](/f40/language/en) | 14 | 14 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/en/messages.po/mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/en-no-plural-forms/messages.po | 
+ | [en_AU](/f40/language/en_AU) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/en_AU/messages.po | 
+ | [es](/f40/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/es/messages.po | 
+ | [ja](/f40/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f40/golang-github-snapcore-gettext/testdata/ja/messages.po | 
 {.sortable}
 
 

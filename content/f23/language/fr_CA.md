@@ -38,48 +38,48 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f23/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [mate-icon-theme]({{< ref "/f23/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [nemo-extensions]({{< ref "/f23/package/nemo-extensions.md" >}}) | 1 | 1 | 100.0 | French (Canada) <fr_CA@li.org> | 
- | [soundconverter]({{< ref "/f23/package/soundconverter.md" >}}) | 388 | 388 | 100.0 | French (Canada) <fr_CA@li.org> | 
- | [scratch]({{< ref "/f23/package/scratch.md" >}}) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
- | [wicd]({{< ref "/f23/package/wicd.md" >}}) | 1054 | 1138 | 92.6 | fr_CA <LL@li.org> | 
- | [deja-dup]({{< ref "/f23/package/deja-dup.md" >}}) | 1844 | 2011 | 91.7 | French (Canada) <fr_CA@li.org> | 
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 5147 | 5999 | 85.8 | French (Canada) <fr_CA@li.org> | 
- | [arduino]({{< ref "/f23/package/arduino.md" >}}) | 1742 | 2566 | 67.9 | French (Canada) (http://www.transifex.com/projects/p/arduino-ide-15/language/fr_CA/) | 
- | [cinnamon-translations]({{< ref "/f23/package/cinnamon-translations.md" >}}) | 6357 | 13441 | 47.3 | French (Canada) <fr_CA@li.org> | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 1 | 5 | 20.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [python-caja]({{< ref "/f23/package/python-caja.md" >}}) | 1 | 6 | 16.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mozo]({{< ref "/f23/package/mozo.md" >}}) | 5 | 42 | 11.9 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [picard]({{< ref "/f23/package/picard.md" >}}) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
- | [mate-menus]({{< ref "/f23/package/mate-menus.md" >}}) | 8 | 97 | 8.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [libmateweather]({{< ref "/f23/package/libmateweather.md" >}}) | 17 | 499 | 3.4 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-backgrounds]({{< ref "/f23/package/mate-backgrounds.md" >}}) | 1 | 30 | 3.3 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-session-manager]({{< ref "/f23/package/mate-session-manager.md" >}}) | 17 | 681 | 2.5 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-media]({{< ref "/f23/package/mate-media.md" >}}) | 5 | 225 | 2.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [libmatemixer]({{< ref "/f23/package/libmatemixer.md" >}}) | 4 | 242 | 1.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-notification-daemon]({{< ref "/f23/package/mate-notification-daemon.md" >}}) | 2 | 139 | 1.4 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-sensors-applet]({{< ref "/f23/package/mate-sensors-applet.md" >}}) | 3 | 304 | 1.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-panel]({{< ref "/f23/package/mate-panel.md" >}}) | 39 | 4387 | 0.9 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [caja-extensions]({{< ref "/f23/package/caja-extensions.md" >}}) | 4 | 556 | 0.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [avogadro]({{< ref "/f23/package/avogadro.md" >}}) | 4 | 565 | 0.7 | French (Canada) <fr_CA@li.org> | 
- | [atril]({{< ref "/f23/package/atril.md" >}}) | 12 | 1716 | 0.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-polkit]({{< ref "/f23/package/mate-polkit.md" >}}) | 2 | 313 | 0.6 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [calibre]({{< ref "/f23/package/calibre.md" >}}) | 927 | 151684 | 0.6 | French (Canada) (http://www.transifex.com/calibre/calibre/language/fr_CA/) | 
- | [engrampa]({{< ref "/f23/package/engrampa.md" >}}) | 11 | 1938 | 0.6 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-applets]({{< ref "/f23/package/mate-applets.md" >}}) | 14 | 2621 | 0.5 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-control-center]({{< ref "/f23/package/mate-control-center.md" >}}) | 14 | 2762 | 0.5 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-system-monitor]({{< ref "/f23/package/mate-system-monitor.md" >}}) | 5 | 1307 | 0.4 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [eom]({{< ref "/f23/package/eom.md" >}}) | 4 | 1731 | 0.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-screensaver]({{< ref "/f23/package/mate-screensaver.md" >}}) | 2 | 983 | 0.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [openerp7]({{< ref "/f23/package/openerp7.md" >}}) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
- | [openerp]({{< ref "/f23/package/openerp.md" >}}) | 8 | 23203 | 0.0 | French (Canada) <fr_CA@li.org> | 
- | [feedreader]({{< ref "/f23/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/MATE/language/fr_CA/) | 
- | [mc]({{< ref "/f23/package/mc.md" >}}) | 0 | 4070 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/mc/language/fr_CA/) | 
- | [pidgin-sipe]({{< ref "/f23/package/pidgin-sipe.md" >}}) | 0 | 1010 | 0.0 | French (Canada) (http://www.transifex.com/stefanb/pidgin-sipe/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f23/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [dopewars](/f23/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [mate-icon-theme](/f23/package/mate-icon-theme) | 4 | 4 | 100.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [nemo-extensions](/f23/package/nemo-extensions) | 1 | 1 | 100.0 | French (Canada) <fr_CA@li.org> | 
+ | [soundconverter](/f23/package/soundconverter) | 388 | 388 | 100.0 | French (Canada) <fr_CA@li.org> | 
+ | [scratch](/f23/package/scratch) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [wicd](/f23/package/wicd) | 1054 | 1138 | 92.6 | fr_CA <LL@li.org> | 
+ | [deja-dup](/f23/package/deja-dup) | 1844 | 2011 | 91.7 | French (Canada) <fr_CA@li.org> | 
+ | [mintmenu](/f23/package/mintmenu) | 5147 | 5999 | 85.8 | French (Canada) <fr_CA@li.org> | 
+ | [arduino](/f23/package/arduino) | 1742 | 2566 | 67.9 | French (Canada) (http://www.transifex.com/projects/p/arduino-ide-15/language/fr_CA/) | 
+ | [cinnamon-translations](/f23/package/cinnamon-translations) | 6357 | 13441 | 47.3 | French (Canada) <fr_CA@li.org> | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 1 | 5 | 20.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [python-caja](/f23/package/python-caja) | 1 | 6 | 16.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mozo](/f23/package/mozo) | 5 | 42 | 11.9 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [picard](/f23/package/picard) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
+ | [mate-menus](/f23/package/mate-menus) | 8 | 97 | 8.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [libmateweather](/f23/package/libmateweather) | 17 | 499 | 3.4 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-backgrounds](/f23/package/mate-backgrounds) | 1 | 30 | 3.3 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-session-manager](/f23/package/mate-session-manager) | 17 | 681 | 2.5 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-media](/f23/package/mate-media) | 5 | 225 | 2.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [libmatemixer](/f23/package/libmatemixer) | 4 | 242 | 1.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-notification-daemon](/f23/package/mate-notification-daemon) | 2 | 139 | 1.4 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-sensors-applet](/f23/package/mate-sensors-applet) | 3 | 304 | 1.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-panel](/f23/package/mate-panel) | 39 | 4387 | 0.9 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [caja-extensions](/f23/package/caja-extensions) | 4 | 556 | 0.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [avogadro](/f23/package/avogadro) | 4 | 565 | 0.7 | French (Canada) <fr_CA@li.org> | 
+ | [atril](/f23/package/atril) | 12 | 1716 | 0.7 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-polkit](/f23/package/mate-polkit) | 2 | 313 | 0.6 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [calibre](/f23/package/calibre) | 927 | 151684 | 0.6 | French (Canada) (http://www.transifex.com/calibre/calibre/language/fr_CA/) | 
+ | [engrampa](/f23/package/engrampa) | 11 | 1938 | 0.6 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-applets](/f23/package/mate-applets) | 14 | 2621 | 0.5 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-control-center](/f23/package/mate-control-center) | 14 | 2762 | 0.5 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-system-monitor](/f23/package/mate-system-monitor) | 5 | 1307 | 0.4 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [eom](/f23/package/eom) | 4 | 1731 | 0.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-screensaver](/f23/package/mate-screensaver) | 2 | 983 | 0.2 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [openerp7](/f23/package/openerp7) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
+ | [openerp](/f23/package/openerp) | 8 | 23203 | 0.0 | French (Canada) <fr_CA@li.org> | 
+ | [feedreader](/f23/package/feedreader) | 0 | 0 | 0.0 |  | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | French (Canada) (http://www.transifex.com/mate/MATE/language/fr_CA/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/MATE/language/fr_CA/) | 
+ | [mc](/f23/package/mc) | 0 | 4070 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/mc/language/fr_CA/) | 
+ | [pidgin-sipe](/f23/package/pidgin-sipe) | 0 | 1010 | 0.0 | French (Canada) (http://www.transifex.com/stefanb/pidgin-sipe/language/fr_CA/) | 
+ | [supertuxkart](/f23/package/supertuxkart) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 
@@ -91,7 +91,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [supertuxkart]({{< ref "/f23/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f23/supertuxkart/data/po/fr_CA.po | error-os |  | 
+ | [supertuxkart](/f23/package/supertuxkart) | /mnt/stockage/packages/f23/supertuxkart/data/po/fr_CA.po | error-os |  | 
 {.sortable}
 
 
@@ -102,7 +102,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [supertuxkart]({{< ref "/f23/package/supertuxkart.md" >}}) | /mnt/stockage/packages/f23/supertuxkart/data/po/fr_CA.po |  | 
+ | [supertuxkart](/f23/package/supertuxkart) | /mnt/stockage/packages/f23/supertuxkart/data/po/fr_CA.po |  | 
 {.sortable}
 
 

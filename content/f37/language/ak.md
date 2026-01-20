@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f37/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Akan <akan-translators@lists.launchpad.net> | 
- | [gtkspell3]({{< ref "/f37/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
- | [tuxpaint]({{< ref "/f37/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 | none | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 43 | 498 | 8.6 | Akan <ak@li.org> | 
- | [sugar-speak]({{< ref "/f37/package/sugar-speak.md" >}}) | 16 | 227 | 7.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f37/package/tuxpaint-stamps.md" >}}) | 165 | 3249 | 5.1 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 3 | 66 | 4.5 | LANGUAGE <LL@li.org> | 
- | [tilix]({{< ref "/f37/package/tilix.md" >}}) | 1 | 2429 | 0.0 | Akan <https://hosted.weblate.org/projects/tilix/translations/ak/> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/> | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sawfish]({{< ref "/f37/package/sawfish.md" >}}) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f37/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-menus](/f37/package/gnome-menus) | 70 | 70 | 100.0 | Akan <akan-translators@lists.launchpad.net> | 
+ | [gtkspell3](/f37/package/gtkspell3) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
+ | [tuxpaint](/f37/package/tuxpaint) | 1120 | 3763 | 29.8 | none | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
+ | [granite](/f37/package/granite) | 43 | 498 | 8.6 | Akan <ak@li.org> | 
+ | [sugar-speak](/f37/package/sugar-speak) | 16 | 227 | 7.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f37/package/tuxpaint-stamps) | 165 | 3249 | 5.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f37/package/sugar-clock) | 3 | 66 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [tilix](/f37/package/tilix) | 1 | 2429 | 0.0 | Akan <https://hosted.weblate.org/projects/tilix/translations/ak/> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [iso-codes](/f37/package/iso-codes) | 0 | 986 | 0.0 | Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/> | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sawfish](/f37/package/sawfish) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f37/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

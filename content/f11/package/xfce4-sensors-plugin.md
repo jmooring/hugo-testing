@@ -18,31 +18,31 @@ The package xfce4-sensors-plugin (version 0.10.99.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/de.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 244 | 327 | 74.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/cs.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 239 | 327 | 73.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/id.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 239 | 327 | 73.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ja.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 239 | 327 | 73.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/pt_BR.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/da.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/eu.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/pt_PT.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/uk.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 165 | 327 | 50.5 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/en_GB.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 119 | 327 | 36.4 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/hu.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 88 | 327 | 26.9 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/lv.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 78 | 327 | 23.9 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/fr.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 50 | 327 | 15.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ko.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 36 | 327 | 11.0 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ur.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 30 | 327 | 9.2 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/pl.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 27 | 327 | 8.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ca.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 27 | 327 | 8.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/el.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 27 | 327 | 8.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/sq.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 25 | 327 | 7.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ru.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 25 | 327 | 7.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 25 | 327 | 7.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/zh_TW.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 11 | 327 | 3.4 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/lt.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 10 | 327 | 3.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/gl.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 0 | 327 | 0.0 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ar.po | 
+ | [de](/f11/language/de) | 327 | 327 | 100.0 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/de.po | 
+ | [cs](/f11/language/cs) | 244 | 327 | 74.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/cs.po | 
+ | [id](/f11/language/id) | 239 | 327 | 73.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/id.po | 
+ | [ja](/f11/language/ja) | 239 | 327 | 73.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ja.po | 
+ | [pt_BR](/f11/language/pt_BR) | 239 | 327 | 73.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/pt_BR.po | 
+ | [da](/f11/language/da) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/da.po | 
+ | [eu](/f11/language/eu) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/eu.po | 
+ | [pt_PT](/f11/language/pt_PT) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/pt_PT.po | 
+ | [uk](/f11/language/uk) | 182 | 327 | 55.7 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/uk.po | 
+ | [en_GB](/f11/language/en_GB) | 165 | 327 | 50.5 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/en_GB.po | 
+ | [hu](/f11/language/hu) | 119 | 327 | 36.4 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/hu.po | 
+ | [lv](/f11/language/lv) | 88 | 327 | 26.9 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/lv.po | 
+ | [fr](/f11/language/fr) | 78 | 327 | 23.9 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/fr.po | 
+ | [ko](/f11/language/ko) | 50 | 327 | 15.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ko.po | 
+ | [ur](/f11/language/ur) | 36 | 327 | 11.0 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ur.po | 
+ | [pl](/f11/language/pl) | 30 | 327 | 9.2 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/pl.po | 
+ | [ca](/f11/language/ca) | 27 | 327 | 8.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ca.po | 
+ | [el](/f11/language/el) | 27 | 327 | 8.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/el.po | 
+ | [sq](/f11/language/sq) | 27 | 327 | 8.3 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/sq.po | 
+ | [ru](/f11/language/ru) | 25 | 327 | 7.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ru.po | 
+ | [vi](/f11/language/vi) | 25 | 327 | 7.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/vi.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 25 | 327 | 7.6 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/zh_TW.po | 
+ | [lt](/f11/language/lt) | 11 | 327 | 3.4 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/lt.po | 
+ | [gl](/f11/language/gl) | 10 | 327 | 3.1 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/gl.po | 
+ | [ar](/f11/language/ar) | 0 | 327 | 0.0 | /mnt/stockage/packages/f11/xfce4-sensors-plugin/po/ar.po | 
 {.sortable}
 
 

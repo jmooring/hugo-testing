@@ -18,12 +18,12 @@ The package gphotoframe (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f14/language/it.md" >}}) | 3500 | 3500 | 100.0 | /mnt/stockage/packages/f14/gphotoframe/help/it/it.po/mnt/stockage/packages/f14/gphotoframe/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 3521 | 3521 | 100.0 | /mnt/stockage/packages/f14/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f14/gphotoframe/po/ja.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1228 | 1233 | 99.6 | /mnt/stockage/packages/f14/gphotoframe/po/uk.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 482 | 1233 | 39.1 | /mnt/stockage/packages/f14/gphotoframe/po/en_GB.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 321 | 1233 | 26.0 | /mnt/stockage/packages/f14/gphotoframe/po/sv.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 43 | 1233 | 3.5 | /mnt/stockage/packages/f14/gphotoframe/po/te.po | 
+ | [it](/f14/language/it) | 3500 | 3500 | 100.0 | /mnt/stockage/packages/f14/gphotoframe/help/it/it.po/mnt/stockage/packages/f14/gphotoframe/po/it.po | 
+ | [ja](/f14/language/ja) | 3521 | 3521 | 100.0 | /mnt/stockage/packages/f14/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f14/gphotoframe/po/ja.po | 
+ | [uk](/f14/language/uk) | 1228 | 1233 | 99.6 | /mnt/stockage/packages/f14/gphotoframe/po/uk.po | 
+ | [en_GB](/f14/language/en_GB) | 482 | 1233 | 39.1 | /mnt/stockage/packages/f14/gphotoframe/po/en_GB.po | 
+ | [sv](/f14/language/sv) | 321 | 1233 | 26.0 | /mnt/stockage/packages/f14/gphotoframe/po/sv.po | 
+ | [te](/f14/language/te) | 43 | 1233 | 3.5 | /mnt/stockage/packages/f14/gphotoframe/po/te.po | 
 {.sortable}
 
 

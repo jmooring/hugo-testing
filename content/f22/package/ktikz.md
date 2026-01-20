@@ -18,8 +18,8 @@ The package ktikz (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f22/language/es.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f22/ktikz/po/ktikz_es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f22/ktikz/po/ktikz_fr.po | 
+ | [es](/f22/language/es) | 339 | 339 | 100.0 | /mnt/stockage/packages/f22/ktikz/po/ktikz_es.po | 
+ | [fr](/f22/language/fr) | 339 | 339 | 100.0 | /mnt/stockage/packages/f22/ktikz/po/ktikz_fr.po | 
 {.sortable}
 
 

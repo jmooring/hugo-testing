@@ -18,7 +18,7 @@ The package ecryptfs-utils (version 111):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/ecryptfs-utils/po/ca.po | 
+ | [ca](/f42/language/ca) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/ecryptfs-utils/po/ca.po | 
 {.sortable}
 
 

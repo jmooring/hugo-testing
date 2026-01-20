@@ -18,17 +18,17 @@ The package libsecret (version 0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/cs.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/ja.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/ru.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/sr.po/mnt/stockage/packages/f19/libsecret/po/sr@latin.po | 
+ | [cs](/f19/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/cs.po | 
+ | [es](/f19/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/es.po | 
+ | [gl](/f19/language/gl) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/gl.po | 
+ | [hu](/f19/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/hu.po | 
+ | [it](/f19/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/it.po | 
+ | [ja](/f19/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/ja.po | 
+ | [pl](/f19/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/ru.po | 
+ | [sl](/f19/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/sl.po | 
+ | [sr](/f19/language/sr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f19/libsecret/po/sr.po/mnt/stockage/packages/f19/libsecret/po/sr@latin.po | 
 {.sortable}
 
 

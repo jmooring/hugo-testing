@@ -18,7 +18,7 @@ The package klog (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 8063 | 9495 | 84.9 | /mnt/stockage/packages/f36/klog/translations/klog_ja.po | 
+ | [ja](/f36/language/ja) | 8063 | 9495 | 84.9 | /mnt/stockage/packages/f36/klog/translations/klog_ja.po | 
 {.sortable}
 
 

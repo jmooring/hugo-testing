@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f34/package/transmission.md" >}}) | 19 | 1998 | 1.0 | Cebuano (https://www.transifex.com/transmissionbt/teams/33778/ceb/) | 
- | [fragments]({{< ref "/f34/package/fragments.md" >}}) | 19 | 2006 | 0.9 | Cebuano (https://www.transifex.com/transmissionbt/teams/33778/ceb/) | 
- | [switchboard]({{< ref "/f34/package/switchboard.md" >}}) | 0 | 40 | 0.0 | Cebuano <ceb@li.org> | 
+ | [transmission](/f34/package/transmission) | 19 | 1998 | 1.0 | Cebuano (https://www.transifex.com/transmissionbt/teams/33778/ceb/) | 
+ | [fragments](/f34/package/fragments) | 19 | 2006 | 0.9 | Cebuano (https://www.transifex.com/transmissionbt/teams/33778/ceb/) | 
+ | [switchboard](/f34/package/switchboard) | 0 | 40 | 0.0 | Cebuano <ceb@li.org> | 
 {.sortable}
 
 

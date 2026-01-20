@@ -18,7 +18,7 @@ The package gawk-lmdb (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 0 | 513 | 0.0 | /mnt/stockage/packages/f27/gawk-lmdb/po/fr.po | 
+ | [fr](/f27/language/fr) | 0 | 513 | 0.0 | /mnt/stockage/packages/f27/gawk-lmdb/po/fr.po | 
 {.sortable}
 
 

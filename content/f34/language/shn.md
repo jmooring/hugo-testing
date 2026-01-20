@@ -39,17 +39,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f34/package/slick-greeter.md" >}}) | 60 | 211 | 28.4 | Shan <shn@li.org> | 
- | [shutter]({{< ref "/f34/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [blueberry]({{< ref "/f34/package/blueberry.md" >}}) | 2 | 166 | 1.2 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f34/package/simple-scan.md" >}}) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f34/package/cinnamon-translations.md" >}}) | 49 | 18303 | 0.3 | Shan <shn@li.org> | 
- | [fragments]({{< ref "/f34/package/fragments.md" >}}) | 4 | 2006 | 0.2 | Shan <shn@li.org> | 
- | [deja-dup]({{< ref "/f34/package/deja-dup.md" >}}) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f34/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
- | [onboard]({{< ref "/f34/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Shan <shn@li.org> | 
- | [pyhoca-gui]({{< ref "/f34/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [remmina]({{< ref "/f34/package/remmina.md" >}}) | 0 | 5134 | 0.0 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
+ | [slick-greeter](/f34/package/slick-greeter) | 60 | 211 | 28.4 | Shan <shn@li.org> | 
+ | [shutter](/f34/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [blueberry](/f34/package/blueberry) | 2 | 166 | 1.2 | Shan <shn@li.org> | 
+ | [simple-scan](/f34/package/simple-scan) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f34/package/cinnamon-translations) | 49 | 18303 | 0.3 | Shan <shn@li.org> | 
+ | [fragments](/f34/package/fragments) | 4 | 2006 | 0.2 | Shan <shn@li.org> | 
+ | [deja-dup](/f34/package/deja-dup) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f34/package/lightdm) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
+ | [onboard](/f34/package/onboard) | 0 | 2318 | 0.0 | Shan <shn@li.org> | 
+ | [pyhoca-gui](/f34/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [remmina](/f34/package/remmina) | 0 | 5134 | 0.0 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
 {.sortable}
 
 

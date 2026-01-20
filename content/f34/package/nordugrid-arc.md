@@ -18,10 +18,10 @@ The package nordugrid-arc (version 6.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 27011 | 27011 | 100.0 | /mnt/stockage/packages/f34/nordugrid-arc/po/ru.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 27011 | 27011 | 100.0 | /mnt/stockage/packages/f34/nordugrid-arc/po/sv.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1998 | 27011 | 7.4 | /mnt/stockage/packages/f34/nordugrid-arc/po/de.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 401 | 27011 | 1.5 | /mnt/stockage/packages/f34/nordugrid-arc/po/hu.po | 
+ | [ru](/f34/language/ru) | 27011 | 27011 | 100.0 | /mnt/stockage/packages/f34/nordugrid-arc/po/ru.po | 
+ | [sv](/f34/language/sv) | 27011 | 27011 | 100.0 | /mnt/stockage/packages/f34/nordugrid-arc/po/sv.po | 
+ | [de](/f34/language/de) | 1998 | 27011 | 7.4 | /mnt/stockage/packages/f34/nordugrid-arc/po/de.po | 
+ | [hu](/f34/language/hu) | 401 | 27011 | 1.5 | /mnt/stockage/packages/f34/nordugrid-arc/po/hu.po | 
 {.sortable}
 
 

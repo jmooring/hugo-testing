@@ -18,44 +18,44 @@ The package kmymoney (version 4.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/ca/kmymoney.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/nl/kmymoney.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/pt/kmymoney.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/pt_BR/kmymoney.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/sv/kmymoney.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/uk/kmymoney.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/bs/kmymoney.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/da/kmymoney.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/es/kmymoney.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/kk/kmymoney.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/ru/kmymoney.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 19212 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/it/kmymoney.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 19200 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/gl/kmymoney.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 19198 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/el/kmymoney.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 19198 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/et/kmymoney.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 19198 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/pl/kmymoney.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 19133 | 19224 | 99.5 | /mnt/stockage/packages/f18/kmymoney/po/fi/kmymoney.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 18871 | 19224 | 98.2 | /mnt/stockage/packages/f18/kmymoney/po/ro/kmymoney.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 18842 | 19224 | 98.0 | /mnt/stockage/packages/f18/kmymoney/po/fr/kmymoney.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 18735 | 19224 | 97.5 | /mnt/stockage/packages/f18/kmymoney/po/de/kmymoney.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 17428 | 19224 | 90.7 | /mnt/stockage/packages/f18/kmymoney/po/en_GB/kmymoney.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 15859 | 19224 | 82.5 | /mnt/stockage/packages/f18/kmymoney/po/zh_TW/kmymoney.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 14575 | 19224 | 75.8 | /mnt/stockage/packages/f18/kmymoney/po/cs/kmymoney.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 12829 | 19224 | 66.7 | /mnt/stockage/packages/f18/kmymoney/po/zh_CN/kmymoney.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 12516 | 19224 | 65.1 | /mnt/stockage/packages/f18/kmymoney/po/nds/kmymoney.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 11539 | 19224 | 60.0 | /mnt/stockage/packages/f18/kmymoney/po/hu/kmymoney.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 8933 | 19224 | 46.5 | /mnt/stockage/packages/f18/kmymoney/po/ca@valencia/kmymoney.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 4074 | 19224 | 21.2 | /mnt/stockage/packages/f18/kmymoney/po/tr/kmymoney.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 3096 | 19224 | 16.1 | /mnt/stockage/packages/f18/kmymoney/po/eu/kmymoney.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 2537 | 19224 | 13.2 | /mnt/stockage/packages/f18/kmymoney/po/sk/kmymoney.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 2164 | 19224 | 11.3 | /mnt/stockage/packages/f18/kmymoney/po/lt/kmymoney.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 1125 | 19224 | 5.9 | /mnt/stockage/packages/f18/kmymoney/po/ug/kmymoney.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 1123 | 19224 | 5.8 | /mnt/stockage/packages/f18/kmymoney/po/bg/kmymoney.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 1018 | 19224 | 5.3 | /mnt/stockage/packages/f18/kmymoney/po/ga/kmymoney.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 601 | 19224 | 3.1 | /mnt/stockage/packages/f18/kmymoney/po/eo/kmymoney.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 593 | 19224 | 3.1 | /mnt/stockage/packages/f18/kmymoney/po/mr/kmymoney.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 5 | 19224 | 0.0 | /mnt/stockage/packages/f18/kmymoney/po/ms/kmymoney.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 0 | 19224 | 0.0 | /mnt/stockage/packages/f18/kmymoney/po/ja/kmymoney.po | 
+ | [ca](/f18/language/ca) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/ca/kmymoney.po | 
+ | [nl](/f18/language/nl) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/nl/kmymoney.po | 
+ | [pt](/f18/language/pt) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/pt/kmymoney.po | 
+ | [pt_BR](/f18/language/pt_BR) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/pt_BR/kmymoney.po | 
+ | [sv](/f18/language/sv) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/sv/kmymoney.po | 
+ | [uk](/f18/language/uk) | 19224 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/uk/kmymoney.po | 
+ | [bs](/f18/language/bs) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/bs/kmymoney.po | 
+ | [da](/f18/language/da) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/da/kmymoney.po | 
+ | [es](/f18/language/es) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/es/kmymoney.po | 
+ | [kk](/f18/language/kk) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/kk/kmymoney.po | 
+ | [ru](/f18/language/ru) | 19220 | 19224 | 100.0 | /mnt/stockage/packages/f18/kmymoney/po/ru/kmymoney.po | 
+ | [it](/f18/language/it) | 19212 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/it/kmymoney.po | 
+ | [gl](/f18/language/gl) | 19200 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/gl/kmymoney.po | 
+ | [el](/f18/language/el) | 19198 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/el/kmymoney.po | 
+ | [et](/f18/language/et) | 19198 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/et/kmymoney.po | 
+ | [pl](/f18/language/pl) | 19198 | 19224 | 99.9 | /mnt/stockage/packages/f18/kmymoney/po/pl/kmymoney.po | 
+ | [fi](/f18/language/fi) | 19133 | 19224 | 99.5 | /mnt/stockage/packages/f18/kmymoney/po/fi/kmymoney.po | 
+ | [ro](/f18/language/ro) | 18871 | 19224 | 98.2 | /mnt/stockage/packages/f18/kmymoney/po/ro/kmymoney.po | 
+ | [fr](/f18/language/fr) | 18842 | 19224 | 98.0 | /mnt/stockage/packages/f18/kmymoney/po/fr/kmymoney.po | 
+ | [de](/f18/language/de) | 18735 | 19224 | 97.5 | /mnt/stockage/packages/f18/kmymoney/po/de/kmymoney.po | 
+ | [en_GB](/f18/language/en_GB) | 17428 | 19224 | 90.7 | /mnt/stockage/packages/f18/kmymoney/po/en_GB/kmymoney.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 15859 | 19224 | 82.5 | /mnt/stockage/packages/f18/kmymoney/po/zh_TW/kmymoney.po | 
+ | [cs](/f18/language/cs) | 14575 | 19224 | 75.8 | /mnt/stockage/packages/f18/kmymoney/po/cs/kmymoney.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 12829 | 19224 | 66.7 | /mnt/stockage/packages/f18/kmymoney/po/zh_CN/kmymoney.po | 
+ | [nds](/f18/language/nds) | 12516 | 19224 | 65.1 | /mnt/stockage/packages/f18/kmymoney/po/nds/kmymoney.po | 
+ | [hu](/f18/language/hu) | 11539 | 19224 | 60.0 | /mnt/stockage/packages/f18/kmymoney/po/hu/kmymoney.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 8933 | 19224 | 46.5 | /mnt/stockage/packages/f18/kmymoney/po/ca@valencia/kmymoney.po | 
+ | [tr](/f18/language/tr) | 4074 | 19224 | 21.2 | /mnt/stockage/packages/f18/kmymoney/po/tr/kmymoney.po | 
+ | [eu](/f18/language/eu) | 3096 | 19224 | 16.1 | /mnt/stockage/packages/f18/kmymoney/po/eu/kmymoney.po | 
+ | [sk](/f18/language/sk) | 2537 | 19224 | 13.2 | /mnt/stockage/packages/f18/kmymoney/po/sk/kmymoney.po | 
+ | [lt](/f18/language/lt) | 2164 | 19224 | 11.3 | /mnt/stockage/packages/f18/kmymoney/po/lt/kmymoney.po | 
+ | [ug](/f18/language/ug) | 1125 | 19224 | 5.9 | /mnt/stockage/packages/f18/kmymoney/po/ug/kmymoney.po | 
+ | [bg](/f18/language/bg) | 1123 | 19224 | 5.8 | /mnt/stockage/packages/f18/kmymoney/po/bg/kmymoney.po | 
+ | [ga](/f18/language/ga) | 1018 | 19224 | 5.3 | /mnt/stockage/packages/f18/kmymoney/po/ga/kmymoney.po | 
+ | [eo](/f18/language/eo) | 601 | 19224 | 3.1 | /mnt/stockage/packages/f18/kmymoney/po/eo/kmymoney.po | 
+ | [mr](/f18/language/mr) | 593 | 19224 | 3.1 | /mnt/stockage/packages/f18/kmymoney/po/mr/kmymoney.po | 
+ | [ms](/f18/language/ms) | 5 | 19224 | 0.0 | /mnt/stockage/packages/f18/kmymoney/po/ms/kmymoney.po | 
+ | [ja](/f18/language/ja) | 0 | 19224 | 0.0 | /mnt/stockage/packages/f18/kmymoney/po/ja/kmymoney.po | 
 {.sortable}
 
 

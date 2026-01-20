@@ -18,8 +18,8 @@ The package gssntlmssp (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f36/gssntlmssp/po/en_GB.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f36/gssntlmssp/po/ko.po | 
+ | [en_GB](/f36/language/en_GB) | 125 | 125 | 100.0 | /mnt/stockage/packages/f36/gssntlmssp/po/en_GB.po | 
+ | [ko](/f36/language/ko) | 125 | 125 | 100.0 | /mnt/stockage/packages/f36/gssntlmssp/po/ko.po | 
 {.sortable}
 
 

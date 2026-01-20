@@ -18,122 +18,122 @@ The package mate-settings-daemon (version 1.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/da.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/en_GB.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ja.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pl.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ru.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/uk.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zh_TW.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fr.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/gl.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/lt.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ms.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 2074 | 2203 | 94.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/tr.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 2051 | 2203 | 93.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sk.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1995 | 2203 | 90.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hu.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1995 | 2203 | 90.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ko.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1970 | 2203 | 89.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sv.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 1956 | 2203 | 88.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pt.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1954 | 2203 | 88.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/de.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1942 | 2203 | 88.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pt_BR.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 1920 | 2203 | 87.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ca@valencia.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 1892 | 2203 | 85.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bg.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 1892 | 2203 | 85.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/el.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 3762 | 4406 | 85.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zh_CN.po/mnt/stockage/packages/f43/mate-settings-daemon/po/cmn.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 1867 | 2203 | 84.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ca.po | 
- | [en_AU]({{< ref "/f43/language/en_AU.md" >}}) | 1831 | 2203 | 83.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/en_AU.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 1789 | 2203 | 81.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sl.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 1787 | 2203 | 81.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/et.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 1779 | 2203 | 80.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hy.po | 
- | [am]({{< ref "/f43/language/am.md" >}}) | 1688 | 2203 | 76.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/am.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 1676 | 2203 | 76.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ro.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 1574 | 2203 | 71.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ar.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 1556 | 2203 | 70.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/he.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 1465 | 2203 | 66.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pa.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 1465 | 2203 | 66.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ta.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 1465 | 2203 | 66.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zh_HK.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 1455 | 2203 | 66.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sr@latin.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 1298 | 2203 | 58.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/oc.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 1277 | 2203 | 58.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/eu.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 1272 | 2203 | 57.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fi.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 1177 | 2203 | 53.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mr.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 2248 | 4406 | 51.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es.po/mnt/stockage/packages/f43/mate-settings-daemon/po/es_ES.po | 
- | [kn]({{< ref "/f43/language/kn.md" >}}) | 1122 | 2203 | 50.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/kn.po | 
- | [crh]({{< ref "/f43/language/crh.md" >}}) | 1113 | 2203 | 50.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/crh.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 1101 | 2203 | 50.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/lv.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 1099 | 2203 | 49.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bn.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 1099 | 2203 | 49.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nn.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 1099 | 2203 | 49.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/th.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 1079 | 2203 | 49.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/gu.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/as.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bn_IN.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hi.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ml.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/or.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/te.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 1076 | 2203 | 48.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ast.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 1076 | 2203 | 48.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/vi.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 869 | 2203 | 39.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/be.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 820 | 2203 | 37.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/kk.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 766 | 2203 | 34.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mk.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 686 | 2203 | 31.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hr.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 678 | 2203 | 30.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ie.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 636 | 2203 | 28.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ur.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 481 | 2203 | 21.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/is.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 366 | 2203 | 16.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/cy.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 365 | 2203 | 16.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sq.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 349 | 2203 | 15.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ka.po | 
- | [dz]({{< ref "/f43/language/dz.md" >}}) | 348 | 2203 | 15.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/dz.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 325 | 2203 | 14.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/br.po | 
- | [mn]({{< ref "/f43/language/mn.md" >}}) | 325 | 2203 | 14.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mn.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 324 | 2203 | 14.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/af.po | 
- | [ku]({{< ref "/f43/language/ku.md" >}}) | 319 | 2203 | 14.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ku.po | 
- | [mg]({{< ref "/f43/language/mg.md" >}}) | 317 | 2203 | 14.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mg.po | 
- | [en_CA]({{< ref "/f43/language/en_CA.md" >}}) | 316 | 2203 | 14.3 | /mnt/stockage/packages/f43/mate-settings-daemon/po/en_CA.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 287 | 2203 | 13.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fa.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 277 | 2203 | 12.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ga.po | 
- | [mai]({{< ref "/f43/language/mai.md" >}}) | 249 | 2203 | 11.3 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mai.po | 
- | [xh]({{< ref "/f43/language/xh.md" >}}) | 249 | 2203 | 11.3 | /mnt/stockage/packages/f43/mate-settings-daemon/po/xh.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 247 | 2203 | 11.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bs.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 245 | 2203 | 11.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/az.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 207 | 2203 | 9.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ne.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 196 | 2203 | 8.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/eo.po | 
- | [nso]({{< ref "/f43/language/nso.md" >}}) | 184 | 2203 | 8.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nso.po | 
- | [zu]({{< ref "/f43/language/zu.md" >}}) | 184 | 2203 | 8.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zu.po | 
- | [es_CO]({{< ref "/f43/language/es_CO.md" >}}) | 180 | 2203 | 8.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_CO.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 124 | 2203 | 5.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/uz.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 100 | 2203 | 4.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nds.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 71 | 2203 | 3.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ug.po | 
- | [ky]({{< ref "/f43/language/ky.md" >}}) | 68 | 2203 | 3.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ky.po | 
- | [es_MX]({{< ref "/f43/language/es_MX.md" >}}) | 49 | 2203 | 2.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_MX.po | 
- | [es_AR]({{< ref "/f43/language/es_AR.md" >}}) | 47 | 2203 | 2.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_AR.po | 
- | [es_CL]({{< ref "/f43/language/es_CL.md" >}}) | 45 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_CL.po | 
- | [es_PR]({{< ref "/f43/language/es_PR.md" >}}) | 44 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_PR.po | 
- | [es_CR]({{< ref "/f43/language/es_CR.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_CR.po | 
- | [es_DO]({{< ref "/f43/language/es_DO.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_DO.po | 
- | [es_EC]({{< ref "/f43/language/es_EC.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_EC.po | 
- | [es_NI]({{< ref "/f43/language/es_NI.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_NI.po | 
- | [es_PA]({{< ref "/f43/language/es_PA.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_PA.po | 
- | [es_PE]({{< ref "/f43/language/es_PE.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_PE.po | 
- | [es_SV]({{< ref "/f43/language/es_SV.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_SV.po | 
- | [es_UY]({{< ref "/f43/language/es_UY.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_UY.po | 
- | [es_VE]({{< ref "/f43/language/es_VE.md" >}}) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_VE.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 39 | 2203 | 1.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/si.po | 
- | [kmr]({{< ref "/f43/language/kmr.md" >}}) | 35 | 2203 | 1.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ku_IQ.po | 
- | [ps]({{< ref "/f43/language/ps.md" >}}) | 32 | 2203 | 1.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ps.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 30 | 2203 | 1.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/wa.po | 
- | [frp]({{< ref "/f43/language/frp.md" >}}) | 17 | 2203 | 0.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/frp.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 11 | 2203 | 0.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fy.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 9 | 2203 | 0.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fur.po | 
- | [pms]({{< ref "/f43/language/pms.md" >}}) | 8 | 2203 | 0.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pms.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 8 | 2203 | 0.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/rw.po | 
+ | [cs](/f43/language/cs) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/cs.po | 
+ | [da](/f43/language/da) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/da.po | 
+ | [en_GB](/f43/language/en_GB) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/en_GB.po | 
+ | [id](/f43/language/id) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/id.po | 
+ | [it](/f43/language/it) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/it.po | 
+ | [ja](/f43/language/ja) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ja.po | 
+ | [nb_NO](/f43/language/nb_NO) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nb.po | 
+ | [nl](/f43/language/nl) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nl.po | 
+ | [pl](/f43/language/pl) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pl.po | 
+ | [ru](/f43/language/ru) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ru.po | 
+ | [sr](/f43/language/sr) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sr.po | 
+ | [uk](/f43/language/uk) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/uk.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 2203 | 2203 | 100.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zh_TW.po | 
+ | [fr](/f43/language/fr) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fr.po | 
+ | [gl](/f43/language/gl) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/gl.po | 
+ | [lt](/f43/language/lt) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/lt.po | 
+ | [ms](/f43/language/ms) | 2198 | 2203 | 99.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ms.po | 
+ | [tr](/f43/language/tr) | 2074 | 2203 | 94.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/tr.po | 
+ | [sk](/f43/language/sk) | 2051 | 2203 | 93.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sk.po | 
+ | [hu](/f43/language/hu) | 1995 | 2203 | 90.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hu.po | 
+ | [ko](/f43/language/ko) | 1995 | 2203 | 90.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ko.po | 
+ | [sv](/f43/language/sv) | 1970 | 2203 | 89.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sv.po | 
+ | [pt](/f43/language/pt) | 1956 | 2203 | 88.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pt.po | 
+ | [de](/f43/language/de) | 1954 | 2203 | 88.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/de.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1942 | 2203 | 88.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pt_BR.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 1920 | 2203 | 87.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ca@valencia.po | 
+ | [bg](/f43/language/bg) | 1892 | 2203 | 85.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bg.po | 
+ | [el](/f43/language/el) | 1892 | 2203 | 85.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/el.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 3762 | 4406 | 85.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zh_CN.po/mnt/stockage/packages/f43/mate-settings-daemon/po/cmn.po | 
+ | [ca](/f43/language/ca) | 1867 | 2203 | 84.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ca.po | 
+ | [en_AU](/f43/language/en_AU) | 1831 | 2203 | 83.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/en_AU.po | 
+ | [sl](/f43/language/sl) | 1789 | 2203 | 81.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sl.po | 
+ | [et](/f43/language/et) | 1787 | 2203 | 81.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/et.po | 
+ | [hy](/f43/language/hy) | 1779 | 2203 | 80.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hy.po | 
+ | [am](/f43/language/am) | 1688 | 2203 | 76.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/am.po | 
+ | [ro](/f43/language/ro) | 1676 | 2203 | 76.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ro.po | 
+ | [ar](/f43/language/ar) | 1574 | 2203 | 71.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ar.po | 
+ | [he](/f43/language/he) | 1556 | 2203 | 70.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/he.po | 
+ | [pa](/f43/language/pa) | 1465 | 2203 | 66.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pa.po | 
+ | [ta](/f43/language/ta) | 1465 | 2203 | 66.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ta.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 1465 | 2203 | 66.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zh_HK.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 1455 | 2203 | 66.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sr@latin.po | 
+ | [oc](/f43/language/oc) | 1298 | 2203 | 58.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/oc.po | 
+ | [eu](/f43/language/eu) | 1277 | 2203 | 58.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/eu.po | 
+ | [fi](/f43/language/fi) | 1272 | 2203 | 57.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fi.po | 
+ | [mr](/f43/language/mr) | 1177 | 2203 | 53.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mr.po | 
+ | [es](/f43/language/es) | 2248 | 4406 | 51.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es.po/mnt/stockage/packages/f43/mate-settings-daemon/po/es_ES.po | 
+ | [kn](/f43/language/kn) | 1122 | 2203 | 50.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/kn.po | 
+ | [crh](/f43/language/crh) | 1113 | 2203 | 50.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/crh.po | 
+ | [lv](/f43/language/lv) | 1101 | 2203 | 50.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/lv.po | 
+ | [bn](/f43/language/bn) | 1099 | 2203 | 49.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bn.po | 
+ | [nn](/f43/language/nn) | 1099 | 2203 | 49.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nn.po | 
+ | [th](/f43/language/th) | 1099 | 2203 | 49.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/th.po | 
+ | [gu](/f43/language/gu) | 1079 | 2203 | 49.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/gu.po | 
+ | [as](/f43/language/as) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/as.po | 
+ | [bn_IN](/f43/language/bn_IN) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bn_IN.po | 
+ | [hi](/f43/language/hi) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hi.po | 
+ | [ml](/f43/language/ml) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ml.po | 
+ | [or](/f43/language/or) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/or.po | 
+ | [te](/f43/language/te) | 1078 | 2203 | 48.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/te.po | 
+ | [ast](/f43/language/ast) | 1076 | 2203 | 48.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ast.po | 
+ | [vi](/f43/language/vi) | 1076 | 2203 | 48.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/vi.po | 
+ | [be](/f43/language/be) | 869 | 2203 | 39.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/be.po | 
+ | [kk](/f43/language/kk) | 820 | 2203 | 37.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/kk.po | 
+ | [mk](/f43/language/mk) | 766 | 2203 | 34.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mk.po | 
+ | [hr](/f43/language/hr) | 686 | 2203 | 31.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/hr.po | 
+ | [ie](/f43/language/ie) | 678 | 2203 | 30.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ie.po | 
+ | [ur](/f43/language/ur) | 636 | 2203 | 28.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ur.po | 
+ | [is](/f43/language/is) | 481 | 2203 | 21.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/is.po | 
+ | [cy](/f43/language/cy) | 366 | 2203 | 16.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/cy.po | 
+ | [sq](/f43/language/sq) | 365 | 2203 | 16.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/sq.po | 
+ | [ka](/f43/language/ka) | 349 | 2203 | 15.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ka.po | 
+ | [dz](/f43/language/dz) | 348 | 2203 | 15.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/dz.po | 
+ | [br](/f43/language/br) | 325 | 2203 | 14.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/br.po | 
+ | [mn](/f43/language/mn) | 325 | 2203 | 14.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mn.po | 
+ | [af](/f43/language/af) | 324 | 2203 | 14.7 | /mnt/stockage/packages/f43/mate-settings-daemon/po/af.po | 
+ | [ku](/f43/language/ku) | 319 | 2203 | 14.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ku.po | 
+ | [mg](/f43/language/mg) | 317 | 2203 | 14.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mg.po | 
+ | [en_CA](/f43/language/en_CA) | 316 | 2203 | 14.3 | /mnt/stockage/packages/f43/mate-settings-daemon/po/en_CA.po | 
+ | [fa](/f43/language/fa) | 287 | 2203 | 13.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fa.po | 
+ | [ga](/f43/language/ga) | 277 | 2203 | 12.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ga.po | 
+ | [mai](/f43/language/mai) | 249 | 2203 | 11.3 | /mnt/stockage/packages/f43/mate-settings-daemon/po/mai.po | 
+ | [xh](/f43/language/xh) | 249 | 2203 | 11.3 | /mnt/stockage/packages/f43/mate-settings-daemon/po/xh.po | 
+ | [bs](/f43/language/bs) | 247 | 2203 | 11.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/bs.po | 
+ | [az](/f43/language/az) | 245 | 2203 | 11.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/az.po | 
+ | [ne](/f43/language/ne) | 207 | 2203 | 9.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ne.po | 
+ | [eo](/f43/language/eo) | 196 | 2203 | 8.9 | /mnt/stockage/packages/f43/mate-settings-daemon/po/eo.po | 
+ | [nso](/f43/language/nso) | 184 | 2203 | 8.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nso.po | 
+ | [zu](/f43/language/zu) | 184 | 2203 | 8.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/zu.po | 
+ | [es_CO](/f43/language/es_CO) | 180 | 2203 | 8.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_CO.po | 
+ | [uz](/f43/language/uz) | 124 | 2203 | 5.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/uz.po | 
+ | [nds](/f43/language/nds) | 100 | 2203 | 4.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/nds.po | 
+ | [ug](/f43/language/ug) | 71 | 2203 | 3.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ug.po | 
+ | [ky](/f43/language/ky) | 68 | 2203 | 3.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ky.po | 
+ | [es_MX](/f43/language/es_MX) | 49 | 2203 | 2.2 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_MX.po | 
+ | [es_AR](/f43/language/es_AR) | 47 | 2203 | 2.1 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_AR.po | 
+ | [es_CL](/f43/language/es_CL) | 45 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_CL.po | 
+ | [es_PR](/f43/language/es_PR) | 44 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_PR.po | 
+ | [es_CR](/f43/language/es_CR) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_CR.po | 
+ | [es_DO](/f43/language/es_DO) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_DO.po | 
+ | [es_EC](/f43/language/es_EC) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_EC.po | 
+ | [es_NI](/f43/language/es_NI) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_NI.po | 
+ | [es_PA](/f43/language/es_PA) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_PA.po | 
+ | [es_PE](/f43/language/es_PE) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_PE.po | 
+ | [es_SV](/f43/language/es_SV) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_SV.po | 
+ | [es_UY](/f43/language/es_UY) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_UY.po | 
+ | [es_VE](/f43/language/es_VE) | 43 | 2203 | 2.0 | /mnt/stockage/packages/f43/mate-settings-daemon/po/es_VE.po | 
+ | [si](/f43/language/si) | 39 | 2203 | 1.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/si.po | 
+ | [kmr](/f43/language/kmr) | 35 | 2203 | 1.6 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ku_IQ.po | 
+ | [ps](/f43/language/ps) | 32 | 2203 | 1.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/ps.po | 
+ | [wa](/f43/language/wa) | 30 | 2203 | 1.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/wa.po | 
+ | [frp](/f43/language/frp) | 17 | 2203 | 0.8 | /mnt/stockage/packages/f43/mate-settings-daemon/po/frp.po | 
+ | [fy](/f43/language/fy) | 11 | 2203 | 0.5 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fy.po | 
+ | [fur](/f43/language/fur) | 9 | 2203 | 0.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/fur.po | 
+ | [pms](/f43/language/pms) | 8 | 2203 | 0.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/pms.po | 
+ | [rw](/f43/language/rw) | 8 | 2203 | 0.4 | /mnt/stockage/packages/f43/mate-settings-daemon/po/rw.po | 
 {.sortable}
 
 

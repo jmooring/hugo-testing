@@ -18,15 +18,15 @@ The package scim-hangul (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/scim-hangul/skim/po/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f24/scim-hangul/po/ko.po/mnt/stockage/packages/f24/scim-hangul/skim/po/ko.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/scim-hangul/skim/po/zh_TW.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/de.po/mnt/stockage/packages/f24/scim-hangul/skim/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/fr.po/mnt/stockage/packages/f24/scim-hangul/skim/po/fr.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/ja.po/mnt/stockage/packages/f24/scim-hangul/skim/po/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/nl.po/mnt/stockage/packages/f24/scim-hangul/skim/po/nl.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/pa.po/mnt/stockage/packages/f24/scim-hangul/skim/po/pa.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 62 | 214 | 29.0 | /mnt/stockage/packages/f24/scim-hangul/po/zh_CN.po/mnt/stockage/packages/f24/scim-hangul/skim/po/zh_CN.po | 
+ | [it](/f24/language/it) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/scim-hangul/skim/po/it.po | 
+ | [ko](/f24/language/ko) | 214 | 214 | 100.0 | /mnt/stockage/packages/f24/scim-hangul/po/ko.po/mnt/stockage/packages/f24/scim-hangul/skim/po/ko.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 19 | 19 | 100.0 | /mnt/stockage/packages/f24/scim-hangul/skim/po/zh_TW.po | 
+ | [de](/f24/language/de) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/de.po/mnt/stockage/packages/f24/scim-hangul/skim/po/de.po | 
+ | [fr](/f24/language/fr) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/fr.po/mnt/stockage/packages/f24/scim-hangul/skim/po/fr.po | 
+ | [ja](/f24/language/ja) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/ja.po/mnt/stockage/packages/f24/scim-hangul/skim/po/ja.po | 
+ | [nl](/f24/language/nl) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/nl.po/mnt/stockage/packages/f24/scim-hangul/skim/po/nl.po | 
+ | [pa](/f24/language/pa) | 77 | 214 | 36.0 | /mnt/stockage/packages/f24/scim-hangul/po/pa.po/mnt/stockage/packages/f24/scim-hangul/skim/po/pa.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 62 | 214 | 29.0 | /mnt/stockage/packages/f24/scim-hangul/po/zh_CN.po/mnt/stockage/packages/f24/scim-hangul/skim/po/zh_CN.po | 
 {.sortable}
 
 

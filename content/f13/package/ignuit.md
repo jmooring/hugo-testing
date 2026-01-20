@@ -18,8 +18,8 @@ The package ignuit (version 0.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 762 | 784 | 97.2 | /mnt/stockage/packages/f13/ignuit/po/de.po | 
- | [en_US]({{< ref "/f13/language/en_US.md" >}}) | 16 | 789 | 2.0 | /mnt/stockage/packages/f13/ignuit/po/en_US.po | 
+ | [de](/f13/language/de) | 762 | 784 | 97.2 | /mnt/stockage/packages/f13/ignuit/po/de.po | 
+ | [en_US](/f13/language/en_US) | 16 | 789 | 2.0 | /mnt/stockage/packages/f13/ignuit/po/en_US.po | 
 {.sortable}
 
 

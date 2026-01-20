@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mkvtoolnix]({{< ref "/f35/package/mkvtoolnix.md" >}}) | 24552 | 24552 | 100.0 | Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
- | [stellarium]({{< ref "/f35/package/stellarium.md" >}}) | 0 | 150019 | 0.0 | Chinese (Singapore) (https://www.transifex.com/stellarium/teams/80998/zh_SG/) | 
- | [visualboyadvance-m]({{< ref "/f35/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/) | 
+ | [mkvtoolnix](/f35/package/mkvtoolnix) | 24552 | 24552 | 100.0 | Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
+ | [stellarium](/f35/package/stellarium) | 0 | 150019 | 0.0 | Chinese (Singapore) (https://www.transifex.com/stellarium/teams/80998/zh_SG/) | 
+ | [visualboyadvance-m](/f35/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/) | 
 {.sortable}
 
 

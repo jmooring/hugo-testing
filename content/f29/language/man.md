@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f29/package/davfs2.md" >}}) | 5656 | 5656 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f29/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [shadow-utils]({{< ref "/f29/package/shadow-utils.md" >}}) | 2133 | 16788 | 12.7 | Danish <debian-l10n-danish@lists.debian.org> | 
- | [po4a]({{< ref "/f29/package/po4a.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f29/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f29/package/davfs2) | 5656 | 5656 | 100.0 |  | 
+ | [kde-i18n](/f29/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [shadow-utils](/f29/package/shadow-utils) | 2133 | 16788 | 12.7 | Danish <debian-l10n-danish@lists.debian.org> | 
+ | [po4a](/f29/package/po4a) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f29/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

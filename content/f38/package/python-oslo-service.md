@@ -18,7 +18,7 @@ The package python-oslo-service (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f38/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po/mnt/stockage/packages/f38/python-oslo-service/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f38/language/en_GB) | 280 | 280 | 100.0 | /mnt/stockage/packages/f38/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po/mnt/stockage/packages/f38/python-oslo-service/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

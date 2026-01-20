@@ -18,64 +18,64 @@ The package gtkspell3 (version 3.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f41/language/af.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/af.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ast.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/be.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/el.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/eu.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/fr.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ga.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/he.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/hu.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/hy.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ja.po | 
- | [ky]({{< ref "/f41/language/ky.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ky.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/lv.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/mn.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sv.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/vi.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/wa.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/zh_HK.po | 
- | [ak]({{< ref "/f41/language/ak.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/ak.po | 
- | [ff]({{< ref "/f41/language/ff.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/ff.po | 
- | [fo]({{< ref "/f41/language/fo.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/fo.po | 
- | [lg]({{< ref "/f41/language/lg.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/lg.po | 
- | [nso]({{< ref "/f41/language/nso.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/nso.po | 
- | [rm]({{< ref "/f41/language/rm.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/rm.po | 
- | [son]({{< ref "/f41/language/son.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/son.po | 
- | [zu]({{< ref "/f41/language/zu.md" >}}) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/zu.po | 
- | [st]({{< ref "/f41/language/st.md" >}}) | 8 | 16 | 50.0 | /mnt/stockage/packages/f41/gtkspell3/po/st.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 3 | 11 | 27.3 | /mnt/stockage/packages/f41/gtkspell3/po/rw.po | 
+ | [af](/f41/language/af) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/af.po | 
+ | [ast](/f41/language/ast) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ast.po | 
+ | [be](/f41/language/be) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/be.po | 
+ | [ca](/f41/language/ca) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ca.po | 
+ | [cs](/f41/language/cs) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/cs.po | 
+ | [da](/f41/language/da) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/da.po | 
+ | [de](/f41/language/de) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/de.po | 
+ | [el](/f41/language/el) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/el.po | 
+ | [eo](/f41/language/eo) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/eo.po | 
+ | [es](/f41/language/es) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/es.po | 
+ | [eu](/f41/language/eu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/eu.po | 
+ | [fi](/f41/language/fi) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/fi.po | 
+ | [fr](/f41/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/fr.po | 
+ | [ga](/f41/language/ga) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ga.po | 
+ | [gl](/f41/language/gl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/gl.po | 
+ | [he](/f41/language/he) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/he.po | 
+ | [hr](/f41/language/hr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/hr.po | 
+ | [hu](/f41/language/hu) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/hu.po | 
+ | [hy](/f41/language/hy) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/hy.po | 
+ | [id](/f41/language/id) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/id.po | 
+ | [is](/f41/language/is) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/is.po | 
+ | [it](/f41/language/it) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/it.po | 
+ | [ja](/f41/language/ja) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ja.po | 
+ | [ky](/f41/language/ky) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ky.po | 
+ | [lt](/f41/language/lt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/lt.po | 
+ | [lv](/f41/language/lv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/lv.po | 
+ | [mn](/f41/language/mn) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/mn.po | 
+ | [ms](/f41/language/ms) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/nb.po | 
+ | [nl](/f41/language/nl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/nl.po | 
+ | [pl](/f41/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/pl.po | 
+ | [pt](/f41/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ro.po | 
+ | [ru](/f41/language/ru) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/ru.po | 
+ | [sk](/f41/language/sk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sk.po | 
+ | [sl](/f41/language/sl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sl.po | 
+ | [sq](/f41/language/sq) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sq.po | 
+ | [sr](/f41/language/sr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sr.po | 
+ | [sv](/f41/language/sv) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/sv.po | 
+ | [th](/f41/language/th) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/th.po | 
+ | [tr](/f41/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/tr.po | 
+ | [uk](/f41/language/uk) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/uk.po | 
+ | [vi](/f41/language/vi) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/vi.po | 
+ | [wa](/f41/language/wa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/wa.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 16 | 16 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/zh_TW.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 15 | 15 | 100.0 | /mnt/stockage/packages/f41/gtkspell3/po/zh_HK.po | 
+ | [ak](/f41/language/ak) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/ak.po | 
+ | [ff](/f41/language/ff) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/ff.po | 
+ | [fo](/f41/language/fo) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/fo.po | 
+ | [lg](/f41/language/lg) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/lg.po | 
+ | [nso](/f41/language/nso) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/nso.po | 
+ | [rm](/f41/language/rm) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/rm.po | 
+ | [son](/f41/language/son) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/son.po | 
+ | [zu](/f41/language/zu) | 10 | 16 | 62.5 | /mnt/stockage/packages/f41/gtkspell3/po/zu.po | 
+ | [st](/f41/language/st) | 8 | 16 | 50.0 | /mnt/stockage/packages/f41/gtkspell3/po/st.po | 
+ | [rw](/f41/language/rw) | 3 | 11 | 27.3 | /mnt/stockage/packages/f41/gtkspell3/po/rw.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package lxhotkey (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/cs.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/fr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/gl.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/nl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/pt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/ru.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/uk.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 409 | 449 | 91.1 | /mnt/stockage/packages/f38/lxhotkey/po/sr.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 409 | 449 | 91.1 | /mnt/stockage/packages/f38/lxhotkey/po/sr@latin.po | 
+ | [cs](/f38/language/cs) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/cs.po | 
+ | [fr](/f38/language/fr) | 451 | 451 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/fr.po | 
+ | [gl](/f38/language/gl) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/gl.po | 
+ | [nl](/f38/language/nl) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/nl.po | 
+ | [pt](/f38/language/pt) | 449 | 449 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/pt.po | 
+ | [ru](/f38/language/ru) | 451 | 451 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/ru.po | 
+ | [uk](/f38/language/uk) | 451 | 451 | 100.0 | /mnt/stockage/packages/f38/lxhotkey/po/uk.po | 
+ | [sr](/f38/language/sr) | 409 | 449 | 91.1 | /mnt/stockage/packages/f38/lxhotkey/po/sr.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 409 | 449 | 91.1 | /mnt/stockage/packages/f38/lxhotkey/po/sr@latin.po | 
 {.sortable}
 
 

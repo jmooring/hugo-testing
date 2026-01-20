@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f24/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [lxmenu-data]({{< ref "/f24/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f24/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [python-django]({{< ref "/f24/package/python-django.md" >}}) | 1512 | 3371 | 44.9 | Ido (http://www.transifex.com/django/django/language/io/) | 
- | [gdk-pixbuf2]({{< ref "/f24/package/gdk-pixbuf2.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gdk-pixbuf]({{< ref "/f24/package/mingw-gdk-pixbuf.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f24/package/nautilus.md" >}}) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
- | [python-django-formtools]({{< ref "/f24/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
- | [gtk2]({{< ref "/f24/package/gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk2]({{< ref "/f24/package/mingw-gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk3]({{< ref "/f24/package/gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk3]({{< ref "/f24/package/mingw-gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 64 | 2397 | 2.7 | Ido <gnome-ido@lists.mterry.name> | 
- | [duplicity]({{< ref "/f24/package/duplicity.md" >}}) | 68 | 3632 | 1.9 | Ido | 
- | [deja-dup]({{< ref "/f24/package/deja-dup.md" >}}) | 31 | 2011 | 1.5 | Ido <io@li.org> | 
- | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 71 | 9634 | 0.7 | Ido <gnome-ido@lists.mterry.name> | 
+ | [alacarte](/f24/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [lxmenu-data](/f24/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f24/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python-django](/f24/package/python-django) | 1512 | 3371 | 44.9 | Ido (http://www.transifex.com/django/django/language/io/) | 
+ | [gdk-pixbuf2](/f24/package/gdk-pixbuf2) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gdk-pixbuf](/f24/package/mingw-gdk-pixbuf) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [nautilus](/f24/package/nautilus) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python-django-formtools](/f24/package/python-django-formtools) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
+ | [gtk2](/f24/package/gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk2](/f24/package/mingw-gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk3](/f24/package/gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk3](/f24/package/mingw-gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [librfm](/f24/package/librfm) | 64 | 2397 | 2.7 | Ido <gnome-ido@lists.mterry.name> | 
+ | [duplicity](/f24/package/duplicity) | 68 | 3632 | 1.9 | Ido | 
+ | [deja-dup](/f24/package/deja-dup) | 31 | 2011 | 1.5 | Ido <io@li.org> | 
+ | [isomaster](/f24/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [rodent](/f24/package/rodent) | 71 | 9634 | 0.7 | Ido <gnome-ido@lists.mterry.name> | 
 {.sortable}
 
 

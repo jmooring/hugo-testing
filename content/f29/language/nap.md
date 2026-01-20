@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f29/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Neapolitan <nap@li.org> | 
- | [cinnamon-translations]({{< ref "/f29/package/cinnamon-translations.md" >}}) | 3150 | 8793 | 35.8 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f29/package/slick-greeter.md" >}}) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f29/package/lightdm-settings.md" >}}) | 36 | 271 | 13.3 | Neapolitan <nap@li.org> | 
- | [midori]({{< ref "/f29/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [peek]({{< ref "/f29/package/peek.md" >}}) | 33 | 537 | 6.1 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
- | [gnome-do]({{< ref "/f29/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [deluge]({{< ref "/f29/package/deluge.md" >}}) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
- | [sugar]({{< ref "/f29/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f29/package/sugar-toolkit-gtk3.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [blueberry](/f29/package/blueberry) | 141 | 141 | 100.0 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f29/package/cinnamon-translations) | 3150 | 8793 | 35.8 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f29/package/slick-greeter) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f29/package/lightdm-settings) | 36 | 271 | 13.3 | Neapolitan <nap@li.org> | 
+ | [midori](/f29/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [peek](/f29/package/peek) | 33 | 537 | 6.1 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
+ | [gnome-do](/f29/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [deluge](/f29/package/deluge) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
+ | [sugar](/f29/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f29/package/sugar-toolkit-gtk3) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

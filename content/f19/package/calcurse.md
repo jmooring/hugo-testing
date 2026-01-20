@@ -18,13 +18,13 @@ The package calcurse (version 3.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 5343 | 5343 | 100.0 | /mnt/stockage/packages/f19/calcurse/po/de.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 5343 | 5343 | 100.0 | /mnt/stockage/packages/f19/calcurse/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 5343 | 5343 | 100.0 | /mnt/stockage/packages/f19/calcurse/po/ru.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 4834 | 5343 | 90.5 | /mnt/stockage/packages/f19/calcurse/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 1203 | 5343 | 22.5 | /mnt/stockage/packages/f19/calcurse/po/nl.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 425 | 5343 | 8.0 | /mnt/stockage/packages/f19/calcurse/po/es.po | 
- | [en]({{< ref "/f19/language/en.md" >}}) | 214 | 5343 | 4.0 | /mnt/stockage/packages/f19/calcurse/po/en.po | 
+ | [de](/f19/language/de) | 5343 | 5343 | 100.0 | /mnt/stockage/packages/f19/calcurse/po/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 5343 | 5343 | 100.0 | /mnt/stockage/packages/f19/calcurse/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 5343 | 5343 | 100.0 | /mnt/stockage/packages/f19/calcurse/po/ru.po | 
+ | [fr](/f19/language/fr) | 4834 | 5343 | 90.5 | /mnt/stockage/packages/f19/calcurse/po/fr.po | 
+ | [nl](/f19/language/nl) | 1203 | 5343 | 22.5 | /mnt/stockage/packages/f19/calcurse/po/nl.po | 
+ | [es](/f19/language/es) | 425 | 5343 | 8.0 | /mnt/stockage/packages/f19/calcurse/po/es.po | 
+ | [en](/f19/language/en) | 214 | 5343 | 4.0 | /mnt/stockage/packages/f19/calcurse/po/en.po | 
 {.sortable}
 
 

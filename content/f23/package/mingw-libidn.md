@@ -18,24 +18,24 @@ The package mingw-libidn (version 1.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/de.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/eo.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/en@quot.po/mnt/stockage/packages/f23/mingw-libidn/po/en@boldquot.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/fr.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/hr.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/it.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/pl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/sr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/vi.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/zh_CN.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 338 | 414 | 81.6 | /mnt/stockage/packages/f23/mingw-libidn/po/da.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 160 | 414 | 38.6 | /mnt/stockage/packages/f23/mingw-libidn/po/ja.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 16 | 414 | 3.9 | /mnt/stockage/packages/f23/mingw-libidn/po/ro.po | 
+ | [cs](/f23/language/cs) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/cs.po | 
+ | [de](/f23/language/de) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/de.po | 
+ | [eo](/f23/language/eo) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/eo.po | 
+ | [error](/f23/language/error) | 828 | 828 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/en@quot.po/mnt/stockage/packages/f23/mingw-libidn/po/en@boldquot.po | 
+ | [fi](/f23/language/fi) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/fi.po | 
+ | [fr](/f23/language/fr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/fr.po | 
+ | [hr](/f23/language/hr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/hr.po | 
+ | [id](/f23/language/id) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/id.po | 
+ | [it](/f23/language/it) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/it.po | 
+ | [nl](/f23/language/nl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/nl.po | 
+ | [pl](/f23/language/pl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/pl.po | 
+ | [sr](/f23/language/sr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/sr.po | 
+ | [uk](/f23/language/uk) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/uk.po | 
+ | [vi](/f23/language/vi) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/vi.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 414 | 414 | 100.0 | /mnt/stockage/packages/f23/mingw-libidn/po/zh_CN.po | 
+ | [da](/f23/language/da) | 338 | 414 | 81.6 | /mnt/stockage/packages/f23/mingw-libidn/po/da.po | 
+ | [ja](/f23/language/ja) | 160 | 414 | 38.6 | /mnt/stockage/packages/f23/mingw-libidn/po/ja.po | 
+ | [ro](/f23/language/ro) | 16 | 414 | 3.9 | /mnt/stockage/packages/f23/mingw-libidn/po/ro.po | 
 {.sortable}
 
 

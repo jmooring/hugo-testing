@@ -18,17 +18,17 @@ The package pinfo (version 0.6.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/cs.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/nl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/ru.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/vi.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 311 | 325 | 95.7 | /mnt/stockage/packages/f12/pinfo/po/eu.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 307 | 325 | 94.5 | /mnt/stockage/packages/f12/pinfo/po/pl.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 203 | 325 | 62.5 | /mnt/stockage/packages/f12/pinfo/po/de.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 169 | 325 | 52.0 | /mnt/stockage/packages/f12/pinfo/po/ja.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 83 | 325 | 25.5 | /mnt/stockage/packages/f12/pinfo/po/sv.po | 
+ | [cs](/f12/language/cs) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/cs.po | 
+ | [nl](/f12/language/nl) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/nl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/ro.po | 
+ | [ru](/f12/language/ru) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/ru.po | 
+ | [vi](/f12/language/vi) | 315 | 325 | 96.9 | /mnt/stockage/packages/f12/pinfo/po/vi.po | 
+ | [eu](/f12/language/eu) | 311 | 325 | 95.7 | /mnt/stockage/packages/f12/pinfo/po/eu.po | 
+ | [pl](/f12/language/pl) | 307 | 325 | 94.5 | /mnt/stockage/packages/f12/pinfo/po/pl.po | 
+ | [de](/f12/language/de) | 203 | 325 | 62.5 | /mnt/stockage/packages/f12/pinfo/po/de.po | 
+ | [ja](/f12/language/ja) | 169 | 325 | 52.0 | /mnt/stockage/packages/f12/pinfo/po/ja.po | 
+ | [sv](/f12/language/sv) | 83 | 325 | 25.5 | /mnt/stockage/packages/f12/pinfo/po/sv.po | 
 {.sortable}
 
 

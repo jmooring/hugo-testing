@@ -18,12 +18,12 @@ The package qt5-qtwebengine (version 5.12.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/sv.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
+ | [de](/f29/language/de) | 349 | 349 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f29/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f29/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f29/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f29/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 913 | 913 | 100.0 | /mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f29/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
 {.sortable}
 
 

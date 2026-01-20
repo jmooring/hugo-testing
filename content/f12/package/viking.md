@@ -18,28 +18,28 @@ The package viking (version 0.9.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1743 | 1743 | 100.0 | /mnt/stockage/packages/f12/viking/po/cs.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1743 | 1743 | 100.0 | /mnt/stockage/packages/f12/viking/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1741 | 1743 | 99.9 | /mnt/stockage/packages/f12/viking/po/it.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 1732 | 1743 | 99.4 | /mnt/stockage/packages/f12/viking/po/lt.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1694 | 1743 | 97.2 | /mnt/stockage/packages/f12/viking/po/fr.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1527 | 1743 | 87.6 | /mnt/stockage/packages/f12/viking/po/de.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 863 | 1743 | 49.5 | /mnt/stockage/packages/f12/viking/po/sl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 849 | 1743 | 48.7 | /mnt/stockage/packages/f12/viking/po/pl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 788 | 1743 | 45.2 | /mnt/stockage/packages/f12/viking/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 712 | 1743 | 40.8 | /mnt/stockage/packages/f12/viking/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 709 | 1743 | 40.7 | /mnt/stockage/packages/f12/viking/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 706 | 1743 | 40.5 | /mnt/stockage/packages/f12/viking/po/nb.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 613 | 1743 | 35.2 | /mnt/stockage/packages/f12/viking/po/id.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 541 | 1743 | 31.0 | /mnt/stockage/packages/f12/viking/po/da.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 277 | 1743 | 15.9 | /mnt/stockage/packages/f12/viking/po/ru.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 142 | 1743 | 8.1 | /mnt/stockage/packages/f12/viking/po/el.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 97 | 1743 | 5.6 | /mnt/stockage/packages/f12/viking/po/nl.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 65 | 1743 | 3.7 | /mnt/stockage/packages/f12/viking/po/en_GB.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 65 | 1743 | 3.7 | /mnt/stockage/packages/f12/viking/po/pt_BR.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 53 | 1743 | 3.0 | /mnt/stockage/packages/f12/viking/po/ja.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 21 | 1743 | 1.2 | /mnt/stockage/packages/f12/viking/po/lv.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 1 | 1743 | 0.1 | /mnt/stockage/packages/f12/viking/po/he.po | 
+ | [cs](/f12/language/cs) | 1743 | 1743 | 100.0 | /mnt/stockage/packages/f12/viking/po/cs.po | 
+ | [es](/f12/language/es) | 1743 | 1743 | 100.0 | /mnt/stockage/packages/f12/viking/po/es.po | 
+ | [it](/f12/language/it) | 1741 | 1743 | 99.9 | /mnt/stockage/packages/f12/viking/po/it.po | 
+ | [lt](/f12/language/lt) | 1732 | 1743 | 99.4 | /mnt/stockage/packages/f12/viking/po/lt.po | 
+ | [fr](/f12/language/fr) | 1694 | 1743 | 97.2 | /mnt/stockage/packages/f12/viking/po/fr.po | 
+ | [de](/f12/language/de) | 1527 | 1743 | 87.6 | /mnt/stockage/packages/f12/viking/po/de.po | 
+ | [sl](/f12/language/sl) | 863 | 1743 | 49.5 | /mnt/stockage/packages/f12/viking/po/sl.po | 
+ | [pl](/f12/language/pl) | 849 | 1743 | 48.7 | /mnt/stockage/packages/f12/viking/po/pl.po | 
+ | [sv](/f12/language/sv) | 788 | 1743 | 45.2 | /mnt/stockage/packages/f12/viking/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 712 | 1743 | 40.8 | /mnt/stockage/packages/f12/viking/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 709 | 1743 | 40.7 | /mnt/stockage/packages/f12/viking/po/zh_TW.po | 
+ | [nb_NO](/f12/language/nb_NO) | 706 | 1743 | 40.5 | /mnt/stockage/packages/f12/viking/po/nb.po | 
+ | [id](/f12/language/id) | 613 | 1743 | 35.2 | /mnt/stockage/packages/f12/viking/po/id.po | 
+ | [da](/f12/language/da) | 541 | 1743 | 31.0 | /mnt/stockage/packages/f12/viking/po/da.po | 
+ | [ru](/f12/language/ru) | 277 | 1743 | 15.9 | /mnt/stockage/packages/f12/viking/po/ru.po | 
+ | [el](/f12/language/el) | 142 | 1743 | 8.1 | /mnt/stockage/packages/f12/viking/po/el.po | 
+ | [nl](/f12/language/nl) | 97 | 1743 | 5.6 | /mnt/stockage/packages/f12/viking/po/nl.po | 
+ | [en_GB](/f12/language/en_GB) | 65 | 1743 | 3.7 | /mnt/stockage/packages/f12/viking/po/en_GB.po | 
+ | [pt_BR](/f12/language/pt_BR) | 65 | 1743 | 3.7 | /mnt/stockage/packages/f12/viking/po/pt_BR.po | 
+ | [ja](/f12/language/ja) | 53 | 1743 | 3.0 | /mnt/stockage/packages/f12/viking/po/ja.po | 
+ | [lv](/f12/language/lv) | 21 | 1743 | 1.2 | /mnt/stockage/packages/f12/viking/po/lv.po | 
+ | [he](/f12/language/he) | 1 | 1743 | 0.1 | /mnt/stockage/packages/f12/viking/po/he.po | 
 {.sortable}
 
 

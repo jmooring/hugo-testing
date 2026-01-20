@@ -18,12 +18,12 @@ The package csound (version 6.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 18782 | 18782 | 100.0 | /mnt/stockage/packages/f29/csound/po/french.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 12155 | 18782 | 64.7 | /mnt/stockage/packages/f29/csound/po/italian.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 2469 | 18782 | 13.1 | /mnt/stockage/packages/f29/csound/po/es_CO.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1571 | 18782 | 8.4 | /mnt/stockage/packages/f29/csound/po/german.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 2408 | 56346 | 4.3 | /mnt/stockage/packages/f29/csound/po/spanish.po/mnt/stockage/packages/f29/csound/po/csound.po/mnt/stockage/packages/f29/csound/po/american.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 58 | 37564 | 0.2 | /mnt/stockage/packages/f29/csound/po/russian.po/mnt/stockage/packages/f29/csound/po/romanian.po | 
+ | [fr](/f29/language/fr) | 18782 | 18782 | 100.0 | /mnt/stockage/packages/f29/csound/po/french.po | 
+ | [it](/f29/language/it) | 12155 | 18782 | 64.7 | /mnt/stockage/packages/f29/csound/po/italian.po | 
+ | [es_CO](/f29/language/es_CO) | 2469 | 18782 | 13.1 | /mnt/stockage/packages/f29/csound/po/es_CO.po | 
+ | [de](/f29/language/de) | 1571 | 18782 | 8.4 | /mnt/stockage/packages/f29/csound/po/german.po | 
+ | [en_GB](/f29/language/en_GB) | 2408 | 56346 | 4.3 | /mnt/stockage/packages/f29/csound/po/spanish.po/mnt/stockage/packages/f29/csound/po/csound.po/mnt/stockage/packages/f29/csound/po/american.po | 
+ | [error](/f29/language/error) | 58 | 37564 | 0.2 | /mnt/stockage/packages/f29/csound/po/russian.po/mnt/stockage/packages/f29/csound/po/romanian.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package fldigi (version 3.22.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 4750 | 5237 | 90.7 | /mnt/stockage/packages/f19/fldigi/po/es.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 3968 | 5237 | 75.8 | /mnt/stockage/packages/f19/fldigi/po/pl.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 3904 | 5237 | 74.5 | /mnt/stockage/packages/f19/fldigi/po/de.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 3313 | 5237 | 63.3 | /mnt/stockage/packages/f19/fldigi/po/it.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 758 | 5237 | 14.5 | /mnt/stockage/packages/f19/fldigi/po/fr.po | 
+ | [es](/f19/language/es) | 4750 | 5237 | 90.7 | /mnt/stockage/packages/f19/fldigi/po/es.po | 
+ | [pl](/f19/language/pl) | 3968 | 5237 | 75.8 | /mnt/stockage/packages/f19/fldigi/po/pl.po | 
+ | [de](/f19/language/de) | 3904 | 5237 | 74.5 | /mnt/stockage/packages/f19/fldigi/po/de.po | 
+ | [it](/f19/language/it) | 3313 | 5237 | 63.3 | /mnt/stockage/packages/f19/fldigi/po/it.po | 
+ | [fr](/f19/language/fr) | 758 | 5237 | 14.5 | /mnt/stockage/packages/f19/fldigi/po/fr.po | 
 {.sortable}
 
 

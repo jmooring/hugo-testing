@@ -18,17 +18,17 @@ The package xfce4-genmon-plugin (version 3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/cs.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/eu.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/fr.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/lv.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f12/language/pt_PT.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/pt_PT.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/sq.po | 
- | [ur]({{< ref "/f12/language/ur.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/ur.po | 
+ | [ca](/f12/language/ca) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/ca.po | 
+ | [cs](/f12/language/cs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/cs.po | 
+ | [en_GB](/f12/language/en_GB) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/en_GB.po | 
+ | [eu](/f12/language/eu) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/eu.po | 
+ | [fr](/f12/language/fr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/fr.po | 
+ | [lv](/f12/language/lv) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/lv.po | 
+ | [pl](/f12/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/pt_BR.po | 
+ | [pt_PT](/f12/language/pt_PT) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/pt_PT.po | 
+ | [sq](/f12/language/sq) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/sq.po | 
+ | [ur](/f12/language/ur) | 71 | 71 | 100.0 | /mnt/stockage/packages/f12/xfce4-genmon-plugin/po/ur.po | 
 {.sortable}
 
 

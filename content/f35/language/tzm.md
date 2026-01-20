@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cpu-x]({{< ref "/f35/package/cpu-x.md" >}}) | 51 | 1374 | 3.7 | Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/> | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 2 | 599 | 0.3 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 1 | 1713 | 0.1 | Central Atlas Tamazight <https://hosted.weblate.org/projects/iso-codes/iso-15924/tzm/> | 
- | [stellarium]({{< ref "/f35/package/stellarium.md" >}}) | 48 | 150019 | 0.0 | Central Atlas Tamazight (https://www.transifex.com/stellarium/teams/80998/tzm/) | 
- | [godot]({{< ref "/f35/package/godot.md" >}}) | 4 | 15126 | 0.0 | Central Atlas Tamazight <https://hosted.weblate.org/projects/godot-engine/godot/tzm/> | 
+ | [cpu-x](/f35/package/cpu-x) | 51 | 1374 | 3.7 | Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/> | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 2 | 599 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f35/package/iso-codes) | 1 | 1713 | 0.1 | Central Atlas Tamazight <https://hosted.weblate.org/projects/iso-codes/iso-15924/tzm/> | 
+ | [stellarium](/f35/package/stellarium) | 48 | 150019 | 0.0 | Central Atlas Tamazight (https://www.transifex.com/stellarium/teams/80998/tzm/) | 
+ | [godot](/f35/package/godot) | 4 | 15126 | 0.0 | Central Atlas Tamazight <https://hosted.weblate.org/projects/godot-engine/godot/tzm/> | 
 {.sortable}
 
 

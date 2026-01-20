@@ -18,10 +18,10 @@ The package dos2unix (version 5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1006 | 1006 | 100.0 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/de.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/de.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 623 | 1006 | 61.9 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/eo.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/eo.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 623 | 1006 | 61.9 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/eo-x.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/eo-x.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 623 | 1006 | 61.9 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/nl.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/nl.po | 
+ | [de](/f15/language/de) | 1006 | 1006 | 100.0 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/de.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/de.po | 
+ | [eo](/f15/language/eo) | 623 | 1006 | 61.9 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/eo.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/eo.po | 
+ | [error](/f15/language/error) | 623 | 1006 | 61.9 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/eo-x.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/eo-x.po | 
+ | [nl](/f15/language/nl) | 623 | 1006 | 61.9 | /mnt/stockage/packages/f15/dos2unix/po/dos2unix/nl.po/mnt/stockage/packages/f15/dos2unix/po/unix2dos/nl.po | 
 {.sortable}
 
 

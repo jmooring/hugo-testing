@@ -18,48 +18,48 @@ The package php-horde-Horde-Mime (version 2.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/da/LC_MESSAGES/Horde_Mime.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/de/LC_MESSAGES/Horde_Mime.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/es/LC_MESSAGES/Horde_Mime.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/et/LC_MESSAGES/Horde_Mime.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/eu/LC_MESSAGES/Horde_Mime.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/fi/LC_MESSAGES/Horde_Mime.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/fr/LC_MESSAGES/Horde_Mime.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/hr/LC_MESSAGES/Horde_Mime.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/hu/LC_MESSAGES/Horde_Mime.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/it/LC_MESSAGES/Horde_Mime.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ja/LC_MESSAGES/Horde_Mime.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/lt/LC_MESSAGES/Horde_Mime.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/lv/LC_MESSAGES/Horde_Mime.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/nl/LC_MESSAGES/Horde_Mime.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/pt_BR/LC_MESSAGES/Horde_Mime.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/sk/LC_MESSAGES/Horde_Mime.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/tr/LC_MESSAGES/Horde_Mime.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/uk/LC_MESSAGES/Horde_Mime.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/zh_TW/LC_MESSAGES/Horde_Mime.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 41 | 48 | 85.4 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/el/LC_MESSAGES/Horde_Mime.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 34 | 48 | 70.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/sl/LC_MESSAGES/Horde_Mime.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 34 | 48 | 70.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/zh_CN/LC_MESSAGES/Horde_Mime.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ca/LC_MESSAGES/Horde_Mime.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/cs/LC_MESSAGES/Horde_Mime.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/fa/LC_MESSAGES/Horde_Mime.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/pt/LC_MESSAGES/Horde_Mime.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/nb/LC_MESSAGES/Horde_Mime.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ar/LC_MESSAGES/Horde_Mime.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/bg/LC_MESSAGES/Horde_Mime.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/bs/LC_MESSAGES/Horde_Mime.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/gl/LC_MESSAGES/Horde_Mime.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/he/LC_MESSAGES/Horde_Mime.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/id/LC_MESSAGES/Horde_Mime.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/is/LC_MESSAGES/Horde_Mime.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/km/LC_MESSAGES/Horde_Mime.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ko/LC_MESSAGES/Horde_Mime.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/mk/LC_MESSAGES/Horde_Mime.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/nn/LC_MESSAGES/Horde_Mime.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/pl/LC_MESSAGES/Horde_Mime.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ro/LC_MESSAGES/Horde_Mime.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ru/LC_MESSAGES/Horde_Mime.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/sv/LC_MESSAGES/Horde_Mime.po | 
+ | [da](/f29/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/da/LC_MESSAGES/Horde_Mime.po | 
+ | [de](/f29/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/de/LC_MESSAGES/Horde_Mime.po | 
+ | [es](/f29/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/es/LC_MESSAGES/Horde_Mime.po | 
+ | [et](/f29/language/et) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/et/LC_MESSAGES/Horde_Mime.po | 
+ | [eu](/f29/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/eu/LC_MESSAGES/Horde_Mime.po | 
+ | [fi](/f29/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/fi/LC_MESSAGES/Horde_Mime.po | 
+ | [fr](/f29/language/fr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/fr/LC_MESSAGES/Horde_Mime.po | 
+ | [hr](/f29/language/hr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/hr/LC_MESSAGES/Horde_Mime.po | 
+ | [hu](/f29/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/hu/LC_MESSAGES/Horde_Mime.po | 
+ | [it](/f29/language/it) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/it/LC_MESSAGES/Horde_Mime.po | 
+ | [ja](/f29/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ja/LC_MESSAGES/Horde_Mime.po | 
+ | [lt](/f29/language/lt) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/lt/LC_MESSAGES/Horde_Mime.po | 
+ | [lv](/f29/language/lv) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/lv/LC_MESSAGES/Horde_Mime.po | 
+ | [nl](/f29/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/nl/LC_MESSAGES/Horde_Mime.po | 
+ | [pt_BR](/f29/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/pt_BR/LC_MESSAGES/Horde_Mime.po | 
+ | [sk](/f29/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/sk/LC_MESSAGES/Horde_Mime.po | 
+ | [tr](/f29/language/tr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/tr/LC_MESSAGES/Horde_Mime.po | 
+ | [uk](/f29/language/uk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/uk/LC_MESSAGES/Horde_Mime.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 48 | 48 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/zh_TW/LC_MESSAGES/Horde_Mime.po | 
+ | [el](/f29/language/el) | 41 | 48 | 85.4 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/el/LC_MESSAGES/Horde_Mime.po | 
+ | [sl](/f29/language/sl) | 34 | 48 | 70.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/sl/LC_MESSAGES/Horde_Mime.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 34 | 48 | 70.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/zh_CN/LC_MESSAGES/Horde_Mime.po | 
+ | [ca](/f29/language/ca) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ca/LC_MESSAGES/Horde_Mime.po | 
+ | [cs](/f29/language/cs) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/cs/LC_MESSAGES/Horde_Mime.po | 
+ | [fa](/f29/language/fa) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/fa/LC_MESSAGES/Horde_Mime.po | 
+ | [pt](/f29/language/pt) | 9 | 48 | 18.8 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/pt/LC_MESSAGES/Horde_Mime.po | 
+ | [nb_NO](/f29/language/nb_NO) | 2 | 48 | 4.2 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/nb/LC_MESSAGES/Horde_Mime.po | 
+ | [ar](/f29/language/ar) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ar/LC_MESSAGES/Horde_Mime.po | 
+ | [bg](/f29/language/bg) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/bg/LC_MESSAGES/Horde_Mime.po | 
+ | [bs](/f29/language/bs) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/bs/LC_MESSAGES/Horde_Mime.po | 
+ | [gl](/f29/language/gl) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/gl/LC_MESSAGES/Horde_Mime.po | 
+ | [he](/f29/language/he) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/he/LC_MESSAGES/Horde_Mime.po | 
+ | [id](/f29/language/id) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/id/LC_MESSAGES/Horde_Mime.po | 
+ | [is](/f29/language/is) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/is/LC_MESSAGES/Horde_Mime.po | 
+ | [km](/f29/language/km) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/km/LC_MESSAGES/Horde_Mime.po | 
+ | [ko](/f29/language/ko) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ko/LC_MESSAGES/Horde_Mime.po | 
+ | [mk](/f29/language/mk) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/mk/LC_MESSAGES/Horde_Mime.po | 
+ | [nn](/f29/language/nn) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/nn/LC_MESSAGES/Horde_Mime.po | 
+ | [pl](/f29/language/pl) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/pl/LC_MESSAGES/Horde_Mime.po | 
+ | [ro](/f29/language/ro) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ro/LC_MESSAGES/Horde_Mime.po | 
+ | [ru](/f29/language/ru) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/ru/LC_MESSAGES/Horde_Mime.po | 
+ | [sv](/f29/language/sv) | 0 | 48 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Mime/Horde_Mime-2.11.0/locale/sv/LC_MESSAGES/Horde_Mime.po | 
 {.sortable}
 
 

@@ -18,42 +18,42 @@ The package libxfce4windowing (version 4.19.3^git20240317.0a487d7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/bg.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/el.po | 
- | [en_CA]({{< ref "/f40/language/en_CA.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/en_CA.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/en_GB.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/es.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/et.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/fr.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/he.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/id.po | 
- | [ie]({{< ref "/f40/language/ie.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ie.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ko.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/lt.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/nl.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/oc.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ru.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sl.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sq.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/zh_TW.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 39 | 63 | 61.9 | /mnt/stockage/packages/f40/libxfce4windowing/po/ga.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 38 | 63 | 60.3 | /mnt/stockage/packages/f40/libxfce4windowing/po/hr.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 36 | 63 | 57.1 | /mnt/stockage/packages/f40/libxfce4windowing/po/fi.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 25 | 63 | 39.7 | /mnt/stockage/packages/f40/libxfce4windowing/po/ro.po | 
+ | [bg](/f40/language/bg) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/bg.po | 
+ | [ca](/f40/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ca.po | 
+ | [da](/f40/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/da.po | 
+ | [de](/f40/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/de.po | 
+ | [el](/f40/language/el) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/el.po | 
+ | [en_CA](/f40/language/en_CA) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/en_CA.po | 
+ | [en_GB](/f40/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/en_GB.po | 
+ | [es](/f40/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/es.po | 
+ | [et](/f40/language/et) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/et.po | 
+ | [fr](/f40/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/fr.po | 
+ | [he](/f40/language/he) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/he.po | 
+ | [id](/f40/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/id.po | 
+ | [ie](/f40/language/ie) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ie.po | 
+ | [it](/f40/language/it) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/it.po | 
+ | [ja](/f40/language/ja) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ja.po | 
+ | [ko](/f40/language/ko) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ko.po | 
+ | [lt](/f40/language/lt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/lt.po | 
+ | [nb_NO](/f40/language/nb_NO) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/nb.po | 
+ | [nl](/f40/language/nl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/nl.po | 
+ | [oc](/f40/language/oc) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/oc.po | 
+ | [pl](/f40/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/pl.po | 
+ | [pt](/f40/language/pt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/ru.po | 
+ | [sl](/f40/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sl.po | 
+ | [sq](/f40/language/sq) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sq.po | 
+ | [sr](/f40/language/sr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sr.po | 
+ | [sv](/f40/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/sv.po | 
+ | [tr](/f40/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/tr.po | 
+ | [uk](/f40/language/uk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f40/libxfce4windowing/po/zh_TW.po | 
+ | [ga](/f40/language/ga) | 39 | 63 | 61.9 | /mnt/stockage/packages/f40/libxfce4windowing/po/ga.po | 
+ | [hr](/f40/language/hr) | 38 | 63 | 60.3 | /mnt/stockage/packages/f40/libxfce4windowing/po/hr.po | 
+ | [fi](/f40/language/fi) | 36 | 63 | 57.1 | /mnt/stockage/packages/f40/libxfce4windowing/po/fi.po | 
+ | [ro](/f40/language/ro) | 25 | 63 | 39.7 | /mnt/stockage/packages/f40/libxfce4windowing/po/ro.po | 
 {.sortable}
 
 

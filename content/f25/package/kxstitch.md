@@ -18,23 +18,23 @@ The package kxstitch (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/en_GB/kxstitch.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/et/kxstitch.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/nl/kxstitch.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/pl/kxstitch.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/pt/kxstitch.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/pt_BR/kxstitch.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/sv/kxstitch.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/uk/kxstitch.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1807 | 1910 | 94.6 | /mnt/stockage/packages/f25/kxstitch/po/fr/kxstitch.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 1772 | 1910 | 92.8 | /mnt/stockage/packages/f25/kxstitch/po/cs/kxstitch.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 3475 | 3820 | 91.0 | /mnt/stockage/packages/f25/kxstitch/po/ca/kxstitch.po/mnt/stockage/packages/f25/kxstitch/po/es/kxstitch.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 1661 | 1910 | 87.0 | /mnt/stockage/packages/f25/kxstitch/po/it/kxstitch.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 503 | 1910 | 26.3 | /mnt/stockage/packages/f25/kxstitch/po/de/kxstitch.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 291 | 1910 | 15.2 | /mnt/stockage/packages/f25/kxstitch/po/sk/kxstitch.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 106 | 1910 | 5.5 | /mnt/stockage/packages/f25/kxstitch/po/hu/kxstitch.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 3 | 1910 | 0.2 | /mnt/stockage/packages/f25/kxstitch/po/da/kxstitch.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 1910 | 0.0 | /mnt/stockage/packages/f25/kxstitch/po/lt/kxstitch.po | 
+ | [en_GB](/f25/language/en_GB) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/en_GB/kxstitch.po | 
+ | [et](/f25/language/et) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/et/kxstitch.po | 
+ | [nl](/f25/language/nl) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/nl/kxstitch.po | 
+ | [pl](/f25/language/pl) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/pl/kxstitch.po | 
+ | [pt](/f25/language/pt) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/pt/kxstitch.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/pt_BR/kxstitch.po | 
+ | [sv](/f25/language/sv) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/sv/kxstitch.po | 
+ | [uk](/f25/language/uk) | 1910 | 1910 | 100.0 | /mnt/stockage/packages/f25/kxstitch/po/uk/kxstitch.po | 
+ | [fr](/f25/language/fr) | 1807 | 1910 | 94.6 | /mnt/stockage/packages/f25/kxstitch/po/fr/kxstitch.po | 
+ | [cs](/f25/language/cs) | 1772 | 1910 | 92.8 | /mnt/stockage/packages/f25/kxstitch/po/cs/kxstitch.po | 
+ | [ca](/f25/language/ca) | 3475 | 3820 | 91.0 | /mnt/stockage/packages/f25/kxstitch/po/ca/kxstitch.po/mnt/stockage/packages/f25/kxstitch/po/es/kxstitch.po | 
+ | [it](/f25/language/it) | 1661 | 1910 | 87.0 | /mnt/stockage/packages/f25/kxstitch/po/it/kxstitch.po | 
+ | [de](/f25/language/de) | 503 | 1910 | 26.3 | /mnt/stockage/packages/f25/kxstitch/po/de/kxstitch.po | 
+ | [sk](/f25/language/sk) | 291 | 1910 | 15.2 | /mnt/stockage/packages/f25/kxstitch/po/sk/kxstitch.po | 
+ | [hu](/f25/language/hu) | 106 | 1910 | 5.5 | /mnt/stockage/packages/f25/kxstitch/po/hu/kxstitch.po | 
+ | [da](/f25/language/da) | 3 | 1910 | 0.2 | /mnt/stockage/packages/f25/kxstitch/po/da/kxstitch.po | 
+ | [lt](/f25/language/lt) | 0 | 1910 | 0.0 | /mnt/stockage/packages/f25/kxstitch/po/lt/kxstitch.po | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package thunar-vcs-plugin (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f37/language/be.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/bg.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ca.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/da.po | 
- | [en_AU]({{< ref "/f37/language/en_AU.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/en_GB.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/gl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/he.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/it.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/lt.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ms.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/oc.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/sk.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/uk.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 765 | 774 | 98.8 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/zh_CN.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 588 | 595 | 98.8 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ar.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 571 | 595 | 96.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/sl.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 584 | 614 | 95.1 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/de.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 565 | 595 | 95.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/lv.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 535 | 595 | 89.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/th.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 527 | 595 | 88.6 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ug.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 634 | 774 | 81.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 613 | 774 | 79.2 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/fr.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 471 | 595 | 79.2 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/eu.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 466 | 595 | 78.3 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/el.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 595 | 774 | 76.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/hr.po | 
- | [ur]({{< ref "/f37/language/ur.md" >}}) | 367 | 595 | 61.7 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f37/language/ur_PK.md" >}}) | 367 | 595 | 61.7 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ur_PK.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 398 | 774 | 51.4 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/fi.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 283 | 595 | 47.6 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/is.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 255 | 571 | 44.7 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/nb.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 62 | 571 | 10.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/hu.po | 
+ | [be](/f37/language/be) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/be.po | 
+ | [bg](/f37/language/bg) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/bg.po | 
+ | [ca](/f37/language/ca) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ca.po | 
+ | [cs](/f37/language/cs) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/cs.po | 
+ | [da](/f37/language/da) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/da.po | 
+ | [en_AU](/f37/language/en_AU) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/en_AU.po | 
+ | [en_GB](/f37/language/en_GB) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/en_GB.po | 
+ | [gl](/f37/language/gl) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/gl.po | 
+ | [he](/f37/language/he) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/he.po | 
+ | [id](/f37/language/id) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/id.po | 
+ | [it](/f37/language/it) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/it.po | 
+ | [ko](/f37/language/ko) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ko.po | 
+ | [lt](/f37/language/lt) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/lt.po | 
+ | [ms](/f37/language/ms) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ms.po | 
+ | [nl](/f37/language/nl) | 614 | 614 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/nl.po | 
+ | [oc](/f37/language/oc) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/oc.po | 
+ | [pl](/f37/language/pl) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/pl.po | 
+ | [pt](/f37/language/pt) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ru.po | 
+ | [sk](/f37/language/sk) | 595 | 595 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/sk.po | 
+ | [sv](/f37/language/sv) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/sv.po | 
+ | [tr](/f37/language/tr) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/tr.po | 
+ | [uk](/f37/language/uk) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/uk.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 774 | 774 | 100.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/zh_TW.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 765 | 774 | 98.8 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/zh_CN.po | 
+ | [ar](/f37/language/ar) | 588 | 595 | 98.8 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ar.po | 
+ | [sl](/f37/language/sl) | 571 | 595 | 96.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/sl.po | 
+ | [de](/f37/language/de) | 584 | 614 | 95.1 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/de.po | 
+ | [lv](/f37/language/lv) | 565 | 595 | 95.0 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/lv.po | 
+ | [th](/f37/language/th) | 535 | 595 | 89.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/th.po | 
+ | [ug](/f37/language/ug) | 527 | 595 | 88.6 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ug.po | 
+ | [es](/f37/language/es) | 634 | 774 | 81.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/es.po | 
+ | [fr](/f37/language/fr) | 613 | 774 | 79.2 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/fr.po | 
+ | [eu](/f37/language/eu) | 471 | 595 | 79.2 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/eu.po | 
+ | [el](/f37/language/el) | 466 | 595 | 78.3 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/el.po | 
+ | [hr](/f37/language/hr) | 595 | 774 | 76.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/hr.po | 
+ | [ur](/f37/language/ur) | 367 | 595 | 61.7 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ur.po | 
+ | [ur_PK](/f37/language/ur_PK) | 367 | 595 | 61.7 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/ur_PK.po | 
+ | [fi](/f37/language/fi) | 398 | 774 | 51.4 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/fi.po | 
+ | [is](/f37/language/is) | 283 | 595 | 47.6 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/is.po | 
+ | [nb_NO](/f37/language/nb_NO) | 255 | 571 | 44.7 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/nb.po | 
+ | [hu](/f37/language/hu) | 62 | 571 | 10.9 | /mnt/stockage/packages/f37/thunar-vcs-plugin/po/hu.po | 
 {.sortable}
 
 

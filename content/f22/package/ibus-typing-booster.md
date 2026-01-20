@@ -18,8 +18,8 @@ The package ibus-typing-booster (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f22/ibus-typing-booster/po/de.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 157 | 423 | 37.1 | /mnt/stockage/packages/f22/ibus-typing-booster/po/ca.po | 
+ | [de](/f22/language/de) | 423 | 423 | 100.0 | /mnt/stockage/packages/f22/ibus-typing-booster/po/de.po | 
+ | [ca](/f22/language/ca) | 157 | 423 | 37.1 | /mnt/stockage/packages/f22/ibus-typing-booster/po/ca.po | 
 {.sortable}
 
 

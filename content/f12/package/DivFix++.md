@@ -18,10 +18,10 @@ The package DivFix++ (version 0.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f12/DivFix++/locale/cs_CZ/DivFix++.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 422 | 422 | 100.0 | /mnt/stockage/packages/f12/DivFix++/locale/hu/DivFix++.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f12/DivFix++/locale/tr/DivFix++.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 447 | 449 | 99.6 | /mnt/stockage/packages/f12/DivFix++/locale/ja/DivFix++.po | 
+ | [cs](/f12/language/cs) | 449 | 449 | 100.0 | /mnt/stockage/packages/f12/DivFix++/locale/cs_CZ/DivFix++.po | 
+ | [hu](/f12/language/hu) | 422 | 422 | 100.0 | /mnt/stockage/packages/f12/DivFix++/locale/hu/DivFix++.po | 
+ | [tr](/f12/language/tr) | 449 | 449 | 100.0 | /mnt/stockage/packages/f12/DivFix++/locale/tr/DivFix++.po | 
+ | [ja](/f12/language/ja) | 447 | 449 | 99.6 | /mnt/stockage/packages/f12/DivFix++/locale/ja/DivFix++.po | 
 {.sortable}
 
 

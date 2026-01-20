@@ -18,52 +18,52 @@ The package multimedia-menus (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ar.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/as.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ast.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/bn_IN.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/bs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/el.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/fa.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/fr.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/gu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/hi.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/id.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ja.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/kn.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ko.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ml.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/mr.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/nb.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/nds.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/nl.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/or.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pa.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sk.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sr.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sr@latin.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sv.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ta.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/te.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/zh_TW.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 105 | 112 | 93.8 | /mnt/stockage/packages/f33/multimedia-menus/po/hu_HU.po/mnt/stockage/packages/f33/multimedia-menus/po/hu.po | 
+ | [ar](/f33/language/ar) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ar.po | 
+ | [as](/f33/language/as) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/as.po | 
+ | [ast](/f33/language/ast) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ast.po | 
+ | [bn_IN](/f33/language/bn_IN) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/bn_IN.po | 
+ | [bs](/f33/language/bs) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/bs.po | 
+ | [ca](/f33/language/ca) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ca.po | 
+ | [cs](/f33/language/cs) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/cs.po | 
+ | [da](/f33/language/da) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/da.po | 
+ | [de](/f33/language/de) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/de.po | 
+ | [el](/f33/language/el) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/el.po | 
+ | [es](/f33/language/es) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/es.po | 
+ | [eu](/f33/language/eu) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/eu.po | 
+ | [fa](/f33/language/fa) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/fa.po | 
+ | [fi](/f33/language/fi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/fi.po | 
+ | [fr](/f33/language/fr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/fr.po | 
+ | [gu](/f33/language/gu) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/gu.po | 
+ | [he](/f33/language/he) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/he.po | 
+ | [hi](/f33/language/hi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/hi.po | 
+ | [id](/f33/language/id) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/id.po | 
+ | [is](/f33/language/is) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/is.po | 
+ | [it](/f33/language/it) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/it.po | 
+ | [ja](/f33/language/ja) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ja.po | 
+ | [kn](/f33/language/kn) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/kn.po | 
+ | [ko](/f33/language/ko) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ko.po | 
+ | [ml](/f33/language/ml) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ml.po | 
+ | [mr](/f33/language/mr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/mr.po | 
+ | [nb_NO](/f33/language/nb_NO) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/nb.po | 
+ | [nds](/f33/language/nds) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/nds.po | 
+ | [nl](/f33/language/nl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/nl.po | 
+ | [or](/f33/language/or) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/or.po | 
+ | [pa](/f33/language/pa) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pa.po | 
+ | [pl](/f33/language/pl) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pl.po | 
+ | [pt](/f33/language/pt) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ru.po | 
+ | [sk](/f33/language/sk) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sk.po | 
+ | [sr](/f33/language/sr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sr.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sr@latin.po | 
+ | [sv](/f33/language/sv) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/sv.po | 
+ | [ta](/f33/language/ta) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/ta.po | 
+ | [te](/f33/language/te) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/te.po | 
+ | [tr](/f33/language/tr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/tr.po | 
+ | [uk](/f33/language/uk) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 56 | 56 | 100.0 | /mnt/stockage/packages/f33/multimedia-menus/po/zh_TW.po | 
+ | [hu](/f33/language/hu) | 105 | 112 | 93.8 | /mnt/stockage/packages/f33/multimedia-menus/po/hu_HU.po/mnt/stockage/packages/f33/multimedia-menus/po/hu.po | 
 {.sortable}
 
 

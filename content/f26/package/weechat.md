@@ -18,18 +18,18 @@ The package weechat (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/fr.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/ja.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 24011 | 29297 | 82.0 | /mnt/stockage/packages/f26/weechat/po/pt.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 11107 | 29297 | 37.9 | /mnt/stockage/packages/f26/weechat/po/it.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 9793 | 29297 | 33.4 | /mnt/stockage/packages/f26/weechat/po/es.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 9432 | 29297 | 32.2 | /mnt/stockage/packages/f26/weechat/po/cs.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 6694 | 29297 | 22.8 | /mnt/stockage/packages/f26/weechat/po/pt_BR.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 740 | 29297 | 2.5 | /mnt/stockage/packages/f26/weechat/po/tr.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 733 | 29297 | 2.5 | /mnt/stockage/packages/f26/weechat/po/ru.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 565 | 29297 | 1.9 | /mnt/stockage/packages/f26/weechat/po/hu.po | 
+ | [de](/f26/language/de) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/de.po | 
+ | [fr](/f26/language/fr) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/fr.po | 
+ | [ja](/f26/language/ja) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/ja.po | 
+ | [pl](/f26/language/pl) | 29297 | 29297 | 100.0 | /mnt/stockage/packages/f26/weechat/po/pl.po | 
+ | [pt](/f26/language/pt) | 24011 | 29297 | 82.0 | /mnt/stockage/packages/f26/weechat/po/pt.po | 
+ | [it](/f26/language/it) | 11107 | 29297 | 37.9 | /mnt/stockage/packages/f26/weechat/po/it.po | 
+ | [es](/f26/language/es) | 9793 | 29297 | 33.4 | /mnt/stockage/packages/f26/weechat/po/es.po | 
+ | [cs](/f26/language/cs) | 9432 | 29297 | 32.2 | /mnt/stockage/packages/f26/weechat/po/cs.po | 
+ | [pt_BR](/f26/language/pt_BR) | 6694 | 29297 | 22.8 | /mnt/stockage/packages/f26/weechat/po/pt_BR.po | 
+ | [tr](/f26/language/tr) | 740 | 29297 | 2.5 | /mnt/stockage/packages/f26/weechat/po/tr.po | 
+ | [ru](/f26/language/ru) | 733 | 29297 | 2.5 | /mnt/stockage/packages/f26/weechat/po/ru.po | 
+ | [hu](/f26/language/hu) | 565 | 29297 | 1.9 | /mnt/stockage/packages/f26/weechat/po/hu.po | 
 {.sortable}
 
 

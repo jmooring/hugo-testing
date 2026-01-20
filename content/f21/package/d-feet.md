@@ -18,21 +18,21 @@ The package d-feet (version 0.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/es.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/gl.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/hu.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/lv.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/ru.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/sr@latin.po/mnt/stockage/packages/f21/d-feet/po/sr.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 84 | 86 | 97.7 | /mnt/stockage/packages/f21/d-feet/po/zh_CN.po | 
+ | [cs](/f21/language/cs) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/cs.po | 
+ | [de](/f21/language/de) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/de.po | 
+ | [el](/f21/language/el) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/el.po | 
+ | [es](/f21/language/es) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/es.po | 
+ | [fi](/f21/language/fi) | 82 | 82 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/fi.po | 
+ | [fr](/f21/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/fr.po | 
+ | [gl](/f21/language/gl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/gl.po | 
+ | [hu](/f21/language/hu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/hu.po | 
+ | [lv](/f21/language/lv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/lv.po | 
+ | [pl](/f21/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/ru.po | 
+ | [sl](/f21/language/sl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/sl.po | 
+ | [sr](/f21/language/sr) | 218 | 218 | 100.0 | /mnt/stockage/packages/f21/d-feet/po/sr@latin.po/mnt/stockage/packages/f21/d-feet/po/sr.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 84 | 86 | 97.7 | /mnt/stockage/packages/f21/d-feet/po/zh_CN.po | 
 {.sortable}
 
 

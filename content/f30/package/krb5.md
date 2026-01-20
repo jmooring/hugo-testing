@@ -18,8 +18,8 @@ The package krb5 (version 1.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 10072 | 10072 | 100.0 | /mnt/stockage/packages/f30/krb5/src/po/de.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/krb5/src/po/en_US.po | 
+ | [de](/f30/language/de) | 10072 | 10072 | 100.0 | /mnt/stockage/packages/f30/krb5/src/po/de.po | 
+ | [en_US](/f30/language/en_US) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/krb5/src/po/en_US.po | 
 {.sortable}
 
 

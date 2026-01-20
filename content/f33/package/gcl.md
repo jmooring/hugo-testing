@@ -18,20 +18,20 @@ The package gcl (version 2.6.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/fr.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/gl.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/ja.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/nl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/pt.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/sv.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/vi.po | 
+ | [cs](/f33/language/cs) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/cs.po | 
+ | [da](/f33/language/da) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/da.po | 
+ | [de](/f33/language/de) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/de.po | 
+ | [es](/f33/language/es) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/es.po | 
+ | [fi](/f33/language/fi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/fi.po | 
+ | [fr](/f33/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/fr.po | 
+ | [gl](/f33/language/gl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/gl.po | 
+ | [it](/f33/language/it) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/it.po | 
+ | [ja](/f33/language/ja) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/ja.po | 
+ | [nl](/f33/language/nl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/nl.po | 
+ | [pt](/f33/language/pt) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/pt.po | 
+ | [ru](/f33/language/ru) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/ru.po | 
+ | [sv](/f33/language/sv) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/sv.po | 
+ | [vi](/f33/language/vi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f33/gcl/debian/po/vi.po | 
 {.sortable}
 
 

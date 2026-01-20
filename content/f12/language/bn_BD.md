@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f12/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [squirrelmail](/f12/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
 {.sortable}
 
 

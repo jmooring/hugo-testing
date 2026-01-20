@@ -18,20 +18,20 @@ The package wallpapoz (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/cs/LC_MESSAGES/wallpapoz.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/de/LC_MESSAGES/wallpapoz.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/es/LC_MESSAGES/wallpapoz.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/fr/LC_MESSAGES/wallpapoz.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/hu/LC_MESSAGES/wallpapoz.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/id/LC_MESSAGES/wallpapoz.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/it/LC_MESSAGES/wallpapoz.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/ja/LC_MESSAGES/wallpapoz.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/pl/LC_MESSAGES/wallpapoz.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/sv/LC_MESSAGES/wallpapoz.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/tr/LC_MESSAGES/wallpapoz.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/zh_CN/LC_MESSAGES/wallpapoz.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 387 | 395 | 98.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/ru/LC_MESSAGES/wallpapoz.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/pt/LC_MESSAGES/wallpapoz.po | 
+ | [cs](/f38/language/cs) | 400 | 400 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/cs/LC_MESSAGES/wallpapoz.po | 
+ | [de](/f38/language/de) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/de/LC_MESSAGES/wallpapoz.po | 
+ | [es](/f38/language/es) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/es/LC_MESSAGES/wallpapoz.po | 
+ | [fr](/f38/language/fr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/fr/LC_MESSAGES/wallpapoz.po | 
+ | [hu](/f38/language/hu) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/hu/LC_MESSAGES/wallpapoz.po | 
+ | [id](/f38/language/id) | 400 | 400 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/id/LC_MESSAGES/wallpapoz.po | 
+ | [it](/f38/language/it) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/it/LC_MESSAGES/wallpapoz.po | 
+ | [ja](/f38/language/ja) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/ja/LC_MESSAGES/wallpapoz.po | 
+ | [pl](/f38/language/pl) | 400 | 400 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/pl/LC_MESSAGES/wallpapoz.po | 
+ | [sv](/f38/language/sv) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/sv/LC_MESSAGES/wallpapoz.po | 
+ | [tr](/f38/language/tr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/tr/LC_MESSAGES/wallpapoz.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 395 | 395 | 100.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/zh_CN/LC_MESSAGES/wallpapoz.po | 
+ | [ru](/f38/language/ru) | 387 | 395 | 98.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/ru/LC_MESSAGES/wallpapoz.po | 
+ | [pt](/f38/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/wallpapoz/share/locale/pt/LC_MESSAGES/wallpapoz.po | 
 {.sortable}
 
 

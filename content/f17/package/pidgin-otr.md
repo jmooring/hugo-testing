@@ -18,18 +18,18 @@ The package pidgin-otr (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/ar.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 625 | 625 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/fr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/hu.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/it.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/ru.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 625 | 625 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/sv.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 625 | 625 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/vi.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 755 | 758 | 99.6 | /mnt/stockage/packages/f17/pidgin-otr/po/sk.po | 
+ | [ar](/f17/language/ar) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/ar.po | 
+ | [de](/f17/language/de) | 627 | 627 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/de.po | 
+ | [es](/f17/language/es) | 538 | 538 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/es.po | 
+ | [fr](/f17/language/fr) | 625 | 625 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/fr.po | 
+ | [hu](/f17/language/hu) | 686 | 686 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/hu.po | 
+ | [it](/f17/language/it) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/it.po | 
+ | [nl](/f17/language/nl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/nl.po | 
+ | [pl](/f17/language/pl) | 686 | 686 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/pl.po | 
+ | [ru](/f17/language/ru) | 550 | 550 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/ru.po | 
+ | [sv](/f17/language/sv) | 625 | 625 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/sv.po | 
+ | [vi](/f17/language/vi) | 625 | 625 | 100.0 | /mnt/stockage/packages/f17/pidgin-otr/po/vi.po | 
+ | [sk](/f17/language/sk) | 755 | 758 | 99.6 | /mnt/stockage/packages/f17/pidgin-otr/po/sk.po | 
 {.sortable}
 
 

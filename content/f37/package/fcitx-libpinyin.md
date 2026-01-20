@@ -18,14 +18,14 @@ The package fcitx-libpinyin (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ca.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/de.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ko.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ru.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/zh_CN.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 229 | 261 | 87.7 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ja.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 118 | 261 | 45.2 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/zh_TW.po | 
+ | [ca](/f37/language/ca) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ca.po | 
+ | [da](/f37/language/da) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/da.po | 
+ | [de](/f37/language/de) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/de.po | 
+ | [ko](/f37/language/ko) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ko.po | 
+ | [ru](/f37/language/ru) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ru.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 261 | 261 | 100.0 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/zh_CN.po | 
+ | [ja](/f37/language/ja) | 229 | 261 | 87.7 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/ja.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 118 | 261 | 45.2 | /mnt/stockage/packages/f37/fcitx-libpinyin/po/zh_TW.po | 
 {.sortable}
 
 

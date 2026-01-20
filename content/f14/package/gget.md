@@ -18,14 +18,14 @@ The package gget (version 0.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f14/gget/po/fr.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f14/gget/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f14/gget/po/pt_BR.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 458 | 644 | 71.1 | /mnt/stockage/packages/f14/gget/po/fi.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 354 | 644 | 55.0 | /mnt/stockage/packages/f14/gget/po/es.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 313 | 637 | 49.1 | /mnt/stockage/packages/f14/gget/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 70 | 644 | 10.9 | /mnt/stockage/packages/f14/gget/po/nb.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 55 | 644 | 8.5 | /mnt/stockage/packages/f14/gget/po/zh_CN.po | 
+ | [fr](/f14/language/fr) | 644 | 644 | 100.0 | /mnt/stockage/packages/f14/gget/po/fr.po | 
+ | [pt](/f14/language/pt) | 644 | 644 | 100.0 | /mnt/stockage/packages/f14/gget/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 644 | 644 | 100.0 | /mnt/stockage/packages/f14/gget/po/pt_BR.po | 
+ | [fi](/f14/language/fi) | 458 | 644 | 71.1 | /mnt/stockage/packages/f14/gget/po/fi.po | 
+ | [es](/f14/language/es) | 354 | 644 | 55.0 | /mnt/stockage/packages/f14/gget/po/es.po | 
+ | [sv](/f14/language/sv) | 313 | 637 | 49.1 | /mnt/stockage/packages/f14/gget/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 70 | 644 | 10.9 | /mnt/stockage/packages/f14/gget/po/nb.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 55 | 644 | 8.5 | /mnt/stockage/packages/f14/gget/po/zh_CN.po | 
 {.sortable}
 
 

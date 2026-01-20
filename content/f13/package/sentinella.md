@@ -18,20 +18,20 @@ The package sentinella (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f13/sentinella/po/es.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f13/sentinella/po/uk.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 411 | 435 | 94.5 | /mnt/stockage/packages/f13/sentinella/po/sv.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 409 | 435 | 94.0 | /mnt/stockage/packages/f13/sentinella/po/ro.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 389 | 435 | 89.4 | /mnt/stockage/packages/f13/sentinella/po/da.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 389 | 435 | 89.4 | /mnt/stockage/packages/f13/sentinella/po/zh_CN.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 384 | 435 | 88.3 | /mnt/stockage/packages/f13/sentinella/po/hu.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 372 | 435 | 85.5 | /mnt/stockage/packages/f13/sentinella/po/ko.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 371 | 435 | 85.3 | /mnt/stockage/packages/f13/sentinella/po/fr.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 357 | 435 | 82.1 | /mnt/stockage/packages/f13/sentinella/po/de.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 354 | 435 | 81.4 | /mnt/stockage/packages/f13/sentinella/po/pt.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 352 | 435 | 80.9 | /mnt/stockage/packages/f13/sentinella/po/it.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 350 | 435 | 80.5 | /mnt/stockage/packages/f13/sentinella/po/nl.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 348 | 435 | 80.0 | /mnt/stockage/packages/f13/sentinella/po/ru.po | 
+ | [es](/f13/language/es) | 435 | 435 | 100.0 | /mnt/stockage/packages/f13/sentinella/po/es.po | 
+ | [uk](/f13/language/uk) | 435 | 435 | 100.0 | /mnt/stockage/packages/f13/sentinella/po/uk.po | 
+ | [sv](/f13/language/sv) | 411 | 435 | 94.5 | /mnt/stockage/packages/f13/sentinella/po/sv.po | 
+ | [ro](/f13/language/ro) | 409 | 435 | 94.0 | /mnt/stockage/packages/f13/sentinella/po/ro.po | 
+ | [da](/f13/language/da) | 389 | 435 | 89.4 | /mnt/stockage/packages/f13/sentinella/po/da.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 389 | 435 | 89.4 | /mnt/stockage/packages/f13/sentinella/po/zh_CN.po | 
+ | [hu](/f13/language/hu) | 384 | 435 | 88.3 | /mnt/stockage/packages/f13/sentinella/po/hu.po | 
+ | [ko](/f13/language/ko) | 372 | 435 | 85.5 | /mnt/stockage/packages/f13/sentinella/po/ko.po | 
+ | [fr](/f13/language/fr) | 371 | 435 | 85.3 | /mnt/stockage/packages/f13/sentinella/po/fr.po | 
+ | [de](/f13/language/de) | 357 | 435 | 82.1 | /mnt/stockage/packages/f13/sentinella/po/de.po | 
+ | [pt](/f13/language/pt) | 354 | 435 | 81.4 | /mnt/stockage/packages/f13/sentinella/po/pt.po | 
+ | [it](/f13/language/it) | 352 | 435 | 80.9 | /mnt/stockage/packages/f13/sentinella/po/it.po | 
+ | [nl](/f13/language/nl) | 350 | 435 | 80.5 | /mnt/stockage/packages/f13/sentinella/po/nl.po | 
+ | [ru](/f13/language/ru) | 348 | 435 | 80.0 | /mnt/stockage/packages/f13/sentinella/po/ru.po | 
 {.sortable}
 
 

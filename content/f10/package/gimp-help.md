@@ -18,14 +18,14 @@ The package gimp-help (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f10/language/it.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/it.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/ko.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/no.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/sv.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 527 | 529 | 99.6 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 518 | 529 | 97.9 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 476 | 529 | 90.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/ru.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 430 | 529 | 81.3 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/de.po | 
+ | [it](/f10/language/it) | 529 | 529 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/it.po | 
+ | [ko](/f10/language/ko) | 529 | 529 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/ko.po | 
+ | [nb_NO](/f10/language/nb_NO) | 518 | 518 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/no.po | 
+ | [sv](/f10/language/sv) | 529 | 529 | 100.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/sv.po | 
+ | [es](/f10/language/es) | 527 | 529 | 99.6 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/es.po | 
+ | [fr](/f10/language/fr) | 518 | 529 | 97.9 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/fr.po | 
+ | [ru](/f10/language/ru) | 476 | 529 | 90.0 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/ru.po | 
+ | [de](/f10/language/de) | 430 | 529 | 81.3 | /mnt/stockage/packages/f10/gimp-help/quickreference/po/de.po | 
 {.sortable}
 
 

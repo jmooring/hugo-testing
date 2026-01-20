@@ -18,49 +18,49 @@ The package gnome-builder (version 42.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 1857 | 1857 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/bs.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 5386 | 5386 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/de.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 5355 | 5355 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/en_GB.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/eu.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/fr.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/gl.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 5229 | 5229 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/it.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ko.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/lt.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 4375 | 4375 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/lv.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 5141 | 5141 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ms.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 5386 | 5386 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ro.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ru.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/sl.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 9550 | 9550 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/sr@latin.po/mnt/stockage/packages/f36/gnome-builder/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/zh_CN.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 4965 | 5416 | 91.7 | /mnt/stockage/packages/f36/gnome-builder/po/he.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 2702 | 3682 | 73.4 | /mnt/stockage/packages/f36/gnome-builder/po/sk.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 2854 | 4781 | 59.7 | /mnt/stockage/packages/f36/gnome-builder/po/eo.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 2987 | 5386 | 55.5 | /mnt/stockage/packages/f36/gnome-builder/po/oc.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 2531 | 5239 | 48.3 | /mnt/stockage/packages/f36/gnome-builder/po/el.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 2498 | 5416 | 46.1 | /mnt/stockage/packages/f36/gnome-builder/po/kk.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 2064 | 5176 | 39.9 | /mnt/stockage/packages/f36/gnome-builder/po/zh_TW.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 1226 | 3662 | 33.5 | /mnt/stockage/packages/f36/gnome-builder/po/ne.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 879 | 3099 | 28.4 | /mnt/stockage/packages/f36/gnome-builder/po/nb.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1424 | 5229 | 27.2 | /mnt/stockage/packages/f36/gnome-builder/po/fi.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 1069 | 4093 | 26.1 | /mnt/stockage/packages/f36/gnome-builder/po/fur.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 836 | 3662 | 22.8 | /mnt/stockage/packages/f36/gnome-builder/po/ja.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 410 | 3682 | 11.1 | /mnt/stockage/packages/f36/gnome-builder/po/ca@valencia.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 446 | 4497 | 9.9 | /mnt/stockage/packages/f36/gnome-builder/po/ml.po | 
+ | [bs](/f36/language/bs) | 1857 | 1857 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/bs.po | 
+ | [ca](/f36/language/ca) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ca.po | 
+ | [cs](/f36/language/cs) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/cs.po | 
+ | [da](/f36/language/da) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/da.po | 
+ | [de](/f36/language/de) | 5386 | 5386 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/de.po | 
+ | [en_GB](/f36/language/en_GB) | 5355 | 5355 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/en_GB.po | 
+ | [es](/f36/language/es) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/es.po | 
+ | [eu](/f36/language/eu) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/eu.po | 
+ | [fr](/f36/language/fr) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/fr.po | 
+ | [gl](/f36/language/gl) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/gl.po | 
+ | [hu](/f36/language/hu) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/hu.po | 
+ | [id](/f36/language/id) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/id.po | 
+ | [it](/f36/language/it) | 5229 | 5229 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/it.po | 
+ | [ko](/f36/language/ko) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ko.po | 
+ | [lt](/f36/language/lt) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/lt.po | 
+ | [lv](/f36/language/lv) | 4375 | 4375 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/lv.po | 
+ | [ms](/f36/language/ms) | 5141 | 5141 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ms.po | 
+ | [nl](/f36/language/nl) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/nl.po | 
+ | [pl](/f36/language/pl) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/pl.po | 
+ | [pt](/f36/language/pt) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 5386 | 5386 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ro.po | 
+ | [ru](/f36/language/ru) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/ru.po | 
+ | [sl](/f36/language/sl) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/sl.po | 
+ | [sr](/f36/language/sr) | 9550 | 9550 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/sr@latin.po/mnt/stockage/packages/f36/gnome-builder/po/sr.po | 
+ | [sv](/f36/language/sv) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/sv.po | 
+ | [tr](/f36/language/tr) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/tr.po | 
+ | [uk](/f36/language/uk) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 5416 | 5416 | 100.0 | /mnt/stockage/packages/f36/gnome-builder/po/zh_CN.po | 
+ | [he](/f36/language/he) | 4965 | 5416 | 91.7 | /mnt/stockage/packages/f36/gnome-builder/po/he.po | 
+ | [sk](/f36/language/sk) | 2702 | 3682 | 73.4 | /mnt/stockage/packages/f36/gnome-builder/po/sk.po | 
+ | [eo](/f36/language/eo) | 2854 | 4781 | 59.7 | /mnt/stockage/packages/f36/gnome-builder/po/eo.po | 
+ | [oc](/f36/language/oc) | 2987 | 5386 | 55.5 | /mnt/stockage/packages/f36/gnome-builder/po/oc.po | 
+ | [el](/f36/language/el) | 2531 | 5239 | 48.3 | /mnt/stockage/packages/f36/gnome-builder/po/el.po | 
+ | [kk](/f36/language/kk) | 2498 | 5416 | 46.1 | /mnt/stockage/packages/f36/gnome-builder/po/kk.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 2064 | 5176 | 39.9 | /mnt/stockage/packages/f36/gnome-builder/po/zh_TW.po | 
+ | [ne](/f36/language/ne) | 1226 | 3662 | 33.5 | /mnt/stockage/packages/f36/gnome-builder/po/ne.po | 
+ | [nb_NO](/f36/language/nb_NO) | 879 | 3099 | 28.4 | /mnt/stockage/packages/f36/gnome-builder/po/nb.po | 
+ | [fi](/f36/language/fi) | 1424 | 5229 | 27.2 | /mnt/stockage/packages/f36/gnome-builder/po/fi.po | 
+ | [fur](/f36/language/fur) | 1069 | 4093 | 26.1 | /mnt/stockage/packages/f36/gnome-builder/po/fur.po | 
+ | [ja](/f36/language/ja) | 836 | 3662 | 22.8 | /mnt/stockage/packages/f36/gnome-builder/po/ja.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 410 | 3682 | 11.1 | /mnt/stockage/packages/f36/gnome-builder/po/ca@valencia.po | 
+ | [ml](/f36/language/ml) | 446 | 4497 | 9.9 | /mnt/stockage/packages/f36/gnome-builder/po/ml.po | 
 {.sortable}
 
 

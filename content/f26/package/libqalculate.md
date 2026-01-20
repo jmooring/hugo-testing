@@ -18,10 +18,10 @@ The package libqalculate (version 0.9.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 6008 | 7278 | 82.6 | /mnt/stockage/packages/f26/libqalculate/po/sv.po/mnt/stockage/packages/f26/libqalculate/po-defs/sv.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 5708 | 7278 | 78.4 | /mnt/stockage/packages/f26/libqalculate/po/nl.po/mnt/stockage/packages/f26/libqalculate/po-defs/nl.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 5672 | 7278 | 77.9 | /mnt/stockage/packages/f26/libqalculate/po/zh_CN.po/mnt/stockage/packages/f26/libqalculate/po-defs/zh_CN.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 4940 | 7278 | 67.9 | /mnt/stockage/packages/f26/libqalculate/po/fr.po/mnt/stockage/packages/f26/libqalculate/po-defs/fr.po | 
+ | [sv](/f26/language/sv) | 6008 | 7278 | 82.6 | /mnt/stockage/packages/f26/libqalculate/po/sv.po/mnt/stockage/packages/f26/libqalculate/po-defs/sv.po | 
+ | [nl](/f26/language/nl) | 5708 | 7278 | 78.4 | /mnt/stockage/packages/f26/libqalculate/po/nl.po/mnt/stockage/packages/f26/libqalculate/po-defs/nl.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 5672 | 7278 | 77.9 | /mnt/stockage/packages/f26/libqalculate/po/zh_CN.po/mnt/stockage/packages/f26/libqalculate/po-defs/zh_CN.po | 
+ | [fr](/f26/language/fr) | 4940 | 7278 | 67.9 | /mnt/stockage/packages/f26/libqalculate/po/fr.po/mnt/stockage/packages/f26/libqalculate/po-defs/fr.po | 
 {.sortable}
 
 

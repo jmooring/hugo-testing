@@ -18,14 +18,14 @@ The package hotot (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 549 | 549 | 100.0 | /mnt/stockage/packages/f15/hotot/po/tr_TR.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 714 | 715 | 99.9 | /mnt/stockage/packages/f15/hotot/po/it_IT.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 701 | 714 | 98.2 | /mnt/stockage/packages/f15/hotot/po/fr_FR.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 460 | 715 | 64.3 | /mnt/stockage/packages/f15/hotot/po/de_DE.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 478 | 762 | 62.7 | /mnt/stockage/packages/f15/hotot/po/zh_CN.po/mnt/stockage/packages/f15/hotot/qt/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 392 | 715 | 54.8 | /mnt/stockage/packages/f15/hotot/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f15/language/pt_PT.md" >}}) | 391 | 715 | 54.7 | /mnt/stockage/packages/f15/hotot/po/pt_PT.po | 
- | [es_MX]({{< ref "/f15/language/es_MX.md" >}}) | 373 | 715 | 52.2 | /mnt/stockage/packages/f15/hotot/po/es_MX.po | 
+ | [tr](/f15/language/tr) | 549 | 549 | 100.0 | /mnt/stockage/packages/f15/hotot/po/tr_TR.po | 
+ | [it](/f15/language/it) | 714 | 715 | 99.9 | /mnt/stockage/packages/f15/hotot/po/it_IT.po | 
+ | [fr](/f15/language/fr) | 701 | 714 | 98.2 | /mnt/stockage/packages/f15/hotot/po/fr_FR.po | 
+ | [de](/f15/language/de) | 460 | 715 | 64.3 | /mnt/stockage/packages/f15/hotot/po/de_DE.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 478 | 762 | 62.7 | /mnt/stockage/packages/f15/hotot/po/zh_CN.po/mnt/stockage/packages/f15/hotot/qt/po/zh_CN.po | 
+ | [pt_BR](/f15/language/pt_BR) | 392 | 715 | 54.8 | /mnt/stockage/packages/f15/hotot/po/pt_BR.po | 
+ | [pt_PT](/f15/language/pt_PT) | 391 | 715 | 54.7 | /mnt/stockage/packages/f15/hotot/po/pt_PT.po | 
+ | [es_MX](/f15/language/es_MX) | 373 | 715 | 52.2 | /mnt/stockage/packages/f15/hotot/po/es_MX.po | 
 {.sortable}
 
 

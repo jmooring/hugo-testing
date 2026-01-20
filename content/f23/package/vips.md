@@ -18,8 +18,8 @@ The package vips (version 8.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f23/vips/po/de.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 65 | 4801 | 1.4 | /mnt/stockage/packages/f23/vips/po/en_GB.po | 
+ | [de](/f23/language/de) | 3217 | 3217 | 100.0 | /mnt/stockage/packages/f23/vips/po/de.po | 
+ | [en_GB](/f23/language/en_GB) | 65 | 4801 | 1.4 | /mnt/stockage/packages/f23/vips/po/en_GB.po | 
 {.sortable}
 
 

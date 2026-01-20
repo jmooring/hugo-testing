@@ -18,7 +18,7 @@ The package xapps (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/xapps/po/fr.po | 
+ | [fr](/f27/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/xapps/po/fr.po | 
 {.sortable}
 
 

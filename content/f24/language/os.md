@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f24/package/python-django.md" >}}) | 2285 | 3392 | 67.4 | Ossetic (http://www.transifex.com/django/django/language/os/) | 
- | [python-django-formtools]({{< ref "/f24/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/) | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 11 | 23532 | 0.0 | Ossetian <os@li.org> | 
- | [exaile]({{< ref "/f24/package/exaile.md" >}}) | 1 | 4006 | 0.0 | Ossetian <os@li.org> | 
+ | [python-django](/f24/package/python-django) | 2285 | 3392 | 67.4 | Ossetic (http://www.transifex.com/django/django/language/os/) | 
+ | [python-django-formtools](/f24/package/python-django-formtools) | 5 | 32 | 15.6 | Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/) | 
+ | [stellarium](/f24/package/stellarium) | 11 | 23532 | 0.0 | Ossetian <os@li.org> | 
+ | [exaile](/f24/package/exaile) | 1 | 4006 | 0.0 | Ossetian <os@li.org> | 
 {.sortable}
 
 

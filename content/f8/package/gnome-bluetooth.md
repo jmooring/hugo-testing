@@ -18,43 +18,43 @@ The package gnome-bluetooth (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f8/language/be.md" >}}) | 416 | 416 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/be.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/bg.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/cs.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 416 | 416 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/de.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/dz.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/el.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 430 | 430 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/en_CA.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/en_GB.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/es.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/gl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 237 | 237 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ja.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/lv.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/mk.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ne.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ru.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/sl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/vi.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 420 | 430 | 97.7 | /mnt/stockage/packages/f8/gnome-bluetooth/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f8/language/zh_Hant_HK.md" >}}) | 420 | 430 | 97.7 | /mnt/stockage/packages/f8/gnome-bluetooth/po/zh_HK.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 416 | 431 | 96.5 | /mnt/stockage/packages/f8/gnome-bluetooth/po/hu.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 244 | 375 | 65.1 | /mnt/stockage/packages/f8/gnome-bluetooth/po/zh_CN.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 209 | 375 | 55.7 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pa.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 176 | 375 | 46.9 | /mnt/stockage/packages/f8/gnome-bluetooth/po/nb.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 75 | 366 | 20.5 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ar.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 17 | 435 | 3.9 | /mnt/stockage/packages/f8/gnome-bluetooth/po/rw.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 12 | 375 | 3.2 | /mnt/stockage/packages/f8/gnome-bluetooth/po/sq.po | 
+ | [be](/f8/language/be) | 416 | 416 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/be.po | 
+ | [bg](/f8/language/bg) | 430 | 430 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/bg.po | 
+ | [ca](/f8/language/ca) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ca.po | 
+ | [cs](/f8/language/cs) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/cs.po | 
+ | [da](/f8/language/da) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/da.po | 
+ | [de](/f8/language/de) | 416 | 416 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/de.po | 
+ | [dz](/f8/language/dz) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/dz.po | 
+ | [el](/f8/language/el) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/el.po | 
+ | [en_CA](/f8/language/en_CA) | 430 | 430 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/en_CA.po | 
+ | [en_GB](/f8/language/en_GB) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/en_GB.po | 
+ | [es](/f8/language/es) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/es.po | 
+ | [fi](/f8/language/fi) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/fi.po | 
+ | [fr](/f8/language/fr) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/fr.po | 
+ | [gl](/f8/language/gl) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/gl.po | 
+ | [it](/f8/language/it) | 435 | 435 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/it.po | 
+ | [ja](/f8/language/ja) | 237 | 237 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ja.po | 
+ | [lv](/f8/language/lv) | 365 | 365 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/lv.po | 
+ | [mk](/f8/language/mk) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/mk.po | 
+ | [ne](/f8/language/ne) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ne.po | 
+ | [nl](/f8/language/nl) | 365 | 365 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/nl.po | 
+ | [pl](/f8/language/pl) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pl.po | 
+ | [pt](/f8/language/pt) | 375 | 375 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ru.po | 
+ | [sl](/f8/language/sl) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/sl.po | 
+ | [sv](/f8/language/sv) | 366 | 366 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/sv.po | 
+ | [uk](/f8/language/uk) | 380 | 380 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/uk.po | 
+ | [vi](/f8/language/vi) | 431 | 431 | 100.0 | /mnt/stockage/packages/f8/gnome-bluetooth/po/vi.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 420 | 430 | 97.7 | /mnt/stockage/packages/f8/gnome-bluetooth/po/zh_TW.po | 
+ | [zh_Hant_HK](/f8/language/zh_Hant_HK) | 420 | 430 | 97.7 | /mnt/stockage/packages/f8/gnome-bluetooth/po/zh_HK.po | 
+ | [hu](/f8/language/hu) | 416 | 431 | 96.5 | /mnt/stockage/packages/f8/gnome-bluetooth/po/hu.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 244 | 375 | 65.1 | /mnt/stockage/packages/f8/gnome-bluetooth/po/zh_CN.po | 
+ | [pa](/f8/language/pa) | 209 | 375 | 55.7 | /mnt/stockage/packages/f8/gnome-bluetooth/po/pa.po | 
+ | [nb_NO](/f8/language/nb_NO) | 176 | 375 | 46.9 | /mnt/stockage/packages/f8/gnome-bluetooth/po/nb.po | 
+ | [ar](/f8/language/ar) | 75 | 366 | 20.5 | /mnt/stockage/packages/f8/gnome-bluetooth/po/ar.po | 
+ | [rw](/f8/language/rw) | 17 | 435 | 3.9 | /mnt/stockage/packages/f8/gnome-bluetooth/po/rw.po | 
+ | [sq](/f8/language/sq) | 12 | 375 | 3.2 | /mnt/stockage/packages/f8/gnome-bluetooth/po/sq.po | 
 {.sortable}
 
 

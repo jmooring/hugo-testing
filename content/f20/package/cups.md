@@ -18,15 +18,15 @@ The package cups (version 1.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 7932 | 7932 | 100.0 | /mnt/stockage/packages/f20/cups/locale/cups_pt_BR.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 7917 | 7932 | 99.8 | /mnt/stockage/packages/f20/cups/locale/cups_it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 7905 | 7932 | 99.7 | /mnt/stockage/packages/f20/cups/locale/cups_ja.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 6922 | 7932 | 87.3 | /mnt/stockage/packages/f20/cups/locale/cups_es.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 6907 | 7932 | 87.1 | /mnt/stockage/packages/f20/cups/locale/cups_ca.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1608 | 7396 | 21.7 | /mnt/stockage/packages/f20/cups/locale/cups_de.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1325 | 7932 | 16.7 | /mnt/stockage/packages/f20/cups/locale/cups_ru.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1180 | 7942 | 14.9 | /mnt/stockage/packages/f20/cups/locale/cups_fr.po/mnt/stockage/packages/f20/cups/ppdc/foo-fr.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f20/cups/locale/cups_cs.po | 
+ | [pt_BR](/f20/language/pt_BR) | 7932 | 7932 | 100.0 | /mnt/stockage/packages/f20/cups/locale/cups_pt_BR.po | 
+ | [it](/f20/language/it) | 7917 | 7932 | 99.8 | /mnt/stockage/packages/f20/cups/locale/cups_it.po | 
+ | [ja](/f20/language/ja) | 7905 | 7932 | 99.7 | /mnt/stockage/packages/f20/cups/locale/cups_ja.po | 
+ | [es](/f20/language/es) | 6922 | 7932 | 87.3 | /mnt/stockage/packages/f20/cups/locale/cups_es.po | 
+ | [ca](/f20/language/ca) | 6907 | 7932 | 87.1 | /mnt/stockage/packages/f20/cups/locale/cups_ca.po | 
+ | [de](/f20/language/de) | 1608 | 7396 | 21.7 | /mnt/stockage/packages/f20/cups/locale/cups_de.po | 
+ | [ru](/f20/language/ru) | 1325 | 7932 | 16.7 | /mnt/stockage/packages/f20/cups/locale/cups_ru.po | 
+ | [fr](/f20/language/fr) | 1180 | 7942 | 14.9 | /mnt/stockage/packages/f20/cups/locale/cups_fr.po/mnt/stockage/packages/f20/cups/ppdc/foo-fr.po | 
+ | [cs](/f20/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f20/cups/locale/cups_cs.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package libgsasl (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/eo.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/en@boldquot.po/mnt/stockage/packages/f26/libgsasl/po/en@quot.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/fi.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/it.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/pl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/sr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 518 | 577 | 89.8 | /mnt/stockage/packages/f26/libgsasl/po/zh_CN.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 495 | 577 | 85.8 | /mnt/stockage/packages/f26/libgsasl/po/ga.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 495 | 577 | 85.8 | /mnt/stockage/packages/f26/libgsasl/po/sk.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 495 | 577 | 85.8 | /mnt/stockage/packages/f26/libgsasl/po/sv.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 479 | 577 | 83.0 | /mnt/stockage/packages/f26/libgsasl/po/fr.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 412 | 577 | 71.4 | /mnt/stockage/packages/f26/libgsasl/po/ro.po | 
+ | [eo](/f26/language/eo) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/eo.po | 
+ | [error](/f26/language/error) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/en@boldquot.po/mnt/stockage/packages/f26/libgsasl/po/en@quot.po | 
+ | [fi](/f26/language/fi) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/fi.po | 
+ | [id](/f26/language/id) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/id.po | 
+ | [it](/f26/language/it) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/it.po | 
+ | [nl](/f26/language/nl) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/nl.po | 
+ | [pl](/f26/language/pl) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/pl.po | 
+ | [sr](/f26/language/sr) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/sr.po | 
+ | [uk](/f26/language/uk) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/uk.po | 
+ | [vi](/f26/language/vi) | 577 | 577 | 100.0 | /mnt/stockage/packages/f26/libgsasl/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 518 | 577 | 89.8 | /mnt/stockage/packages/f26/libgsasl/po/zh_CN.po | 
+ | [ga](/f26/language/ga) | 495 | 577 | 85.8 | /mnt/stockage/packages/f26/libgsasl/po/ga.po | 
+ | [sk](/f26/language/sk) | 495 | 577 | 85.8 | /mnt/stockage/packages/f26/libgsasl/po/sk.po | 
+ | [sv](/f26/language/sv) | 495 | 577 | 85.8 | /mnt/stockage/packages/f26/libgsasl/po/sv.po | 
+ | [fr](/f26/language/fr) | 479 | 577 | 83.0 | /mnt/stockage/packages/f26/libgsasl/po/fr.po | 
+ | [ro](/f26/language/ro) | 412 | 577 | 71.4 | /mnt/stockage/packages/f26/libgsasl/po/ro.po | 
 {.sortable}
 
 

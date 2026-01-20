@@ -18,12 +18,12 @@ The package komikku (version 0.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 1489 | 1489 | 100.0 | /mnt/stockage/packages/f31/komikku/po/de.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1294 | 1489 | 86.9 | /mnt/stockage/packages/f31/komikku/po/fr.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 362 | 1489 | 24.3 | /mnt/stockage/packages/f31/komikku/po/pt_BR.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 359 | 1489 | 24.1 | /mnt/stockage/packages/f31/komikku/po/tr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 306 | 1489 | 20.6 | /mnt/stockage/packages/f31/komikku/po/nl.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 305 | 1489 | 20.5 | /mnt/stockage/packages/f31/komikku/po/ru.po | 
+ | [de](/f31/language/de) | 1489 | 1489 | 100.0 | /mnt/stockage/packages/f31/komikku/po/de.po | 
+ | [fr](/f31/language/fr) | 1294 | 1489 | 86.9 | /mnt/stockage/packages/f31/komikku/po/fr.po | 
+ | [pt_BR](/f31/language/pt_BR) | 362 | 1489 | 24.3 | /mnt/stockage/packages/f31/komikku/po/pt_BR.po | 
+ | [tr](/f31/language/tr) | 359 | 1489 | 24.1 | /mnt/stockage/packages/f31/komikku/po/tr.po | 
+ | [nl](/f31/language/nl) | 306 | 1489 | 20.6 | /mnt/stockage/packages/f31/komikku/po/nl.po | 
+ | [ru](/f31/language/ru) | 305 | 1489 | 20.5 | /mnt/stockage/packages/f31/komikku/po/ru.po | 
 {.sortable}
 
 

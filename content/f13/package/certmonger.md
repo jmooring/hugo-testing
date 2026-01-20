@@ -18,12 +18,12 @@ The package certmonger (version 0.35.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 914 | 914 | 100.0 | /mnt/stockage/packages/f13/certmonger/po/pl.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 914 | 914 | 100.0 | /mnt/stockage/packages/f13/certmonger/po/uk.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 872 | 914 | 95.4 | /mnt/stockage/packages/f13/certmonger/po/es.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 1638 | 1828 | 89.6 | /mnt/stockage/packages/f13/certmonger/po/in.po/mnt/stockage/packages/f13/certmonger/po/id.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 45 | 914 | 4.9 | /mnt/stockage/packages/f13/certmonger/po/de.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 0 | 914 | 0.0 | /mnt/stockage/packages/f13/certmonger/po/ru.po | 
+ | [pl](/f13/language/pl) | 914 | 914 | 100.0 | /mnt/stockage/packages/f13/certmonger/po/pl.po | 
+ | [uk](/f13/language/uk) | 914 | 914 | 100.0 | /mnt/stockage/packages/f13/certmonger/po/uk.po | 
+ | [es](/f13/language/es) | 872 | 914 | 95.4 | /mnt/stockage/packages/f13/certmonger/po/es.po | 
+ | [id](/f13/language/id) | 1638 | 1828 | 89.6 | /mnt/stockage/packages/f13/certmonger/po/in.po/mnt/stockage/packages/f13/certmonger/po/id.po | 
+ | [de](/f13/language/de) | 45 | 914 | 4.9 | /mnt/stockage/packages/f13/certmonger/po/de.po | 
+ | [ru](/f13/language/ru) | 0 | 914 | 0.0 | /mnt/stockage/packages/f13/certmonger/po/ru.po | 
 {.sortable}
 
 

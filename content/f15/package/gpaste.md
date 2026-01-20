@@ -18,7 +18,7 @@ The package gpaste (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f15/gpaste/po/fr.po | 
+ | [fr](/f15/language/fr) | 283 | 283 | 100.0 | /mnt/stockage/packages/f15/gpaste/po/fr.po | 
 {.sortable}
 
 

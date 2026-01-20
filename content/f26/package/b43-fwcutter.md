@@ -18,18 +18,18 @@ The package b43-fwcutter (version 019):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/fr.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/ja.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/pt.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/sv.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 0 | 67 | 0.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/es.po | 
+ | [cs](/f26/language/cs) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/cs.po | 
+ | [da](/f26/language/da) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/da.po | 
+ | [de](/f26/language/de) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/de.po | 
+ | [fr](/f26/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/fr.po | 
+ | [id](/f26/language/id) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/id.po | 
+ | [it](/f26/language/it) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/it.po | 
+ | [ja](/f26/language/ja) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/ja.po | 
+ | [pl](/f26/language/pl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/pl.po | 
+ | [pt](/f26/language/pt) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/pt.po | 
+ | [ru](/f26/language/ru) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/ru.po | 
+ | [sv](/f26/language/sv) | 67 | 67 | 100.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/sv.po | 
+ | [es](/f26/language/es) | 0 | 67 | 0.0 | /mnt/stockage/packages/f26/b43-fwcutter/debian/po/es.po | 
 {.sortable}
 
 

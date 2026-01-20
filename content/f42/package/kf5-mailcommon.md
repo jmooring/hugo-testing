@@ -18,56 +18,56 @@ The package kf5-mailcommon (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/bg/libmailcommon.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ca/libmailcommon.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ca@valencia/libmailcommon.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/de/libmailcommon.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/en_GB/libmailcommon.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/es/libmailcommon.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/eu/libmailcommon.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/fi/libmailcommon.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/fr/libmailcommon.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/gl/libmailcommon.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ia/libmailcommon.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/it/libmailcommon.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ka/libmailcommon.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ko/libmailcommon.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nl/libmailcommon.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pl/libmailcommon.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pt/libmailcommon.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pt_BR/libmailcommon.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ru/libmailcommon.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sl/libmailcommon.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sv/libmailcommon.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/tr/libmailcommon.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/uk/libmailcommon.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 2656 | 2755 | 96.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/da/libmailcommon.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 2656 | 2755 | 96.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/et/libmailcommon.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr/libmailcommon.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr@ijekavian/libmailcommon.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr@ijekavianlatin/libmailcommon.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr@latin/libmailcommon.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 2571 | 2755 | 93.3 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sk/libmailcommon.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 2323 | 2755 | 84.3 | /mnt/stockage/packages/f42/kf5-mailcommon/po/zh_TW/libmailcommon.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 2221 | 2755 | 80.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nb/libmailcommon.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 2216 | 2755 | 80.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/hu/libmailcommon.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 2216 | 2755 | 80.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nds/libmailcommon.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 2183 | 2755 | 79.2 | /mnt/stockage/packages/f42/kf5-mailcommon/po/kk/libmailcommon.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 2180 | 2755 | 79.1 | /mnt/stockage/packages/f42/kf5-mailcommon/po/bs/libmailcommon.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 2162 | 2755 | 78.5 | /mnt/stockage/packages/f42/kf5-mailcommon/po/el/libmailcommon.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1915 | 2755 | 69.5 | /mnt/stockage/packages/f42/kf5-mailcommon/po/cs/libmailcommon.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1531 | 2755 | 55.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ro/libmailcommon.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 1187 | 2755 | 43.1 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ar/libmailcommon.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1010 | 2755 | 36.7 | /mnt/stockage/packages/f42/kf5-mailcommon/po/zh_CN/libmailcommon.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 921 | 2755 | 33.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nn/libmailcommon.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 518 | 2755 | 18.8 | /mnt/stockage/packages/f42/kf5-mailcommon/po/se/libmailcommon.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 439 | 2755 | 15.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/lt/libmailcommon.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 388 | 2755 | 14.1 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ga/libmailcommon.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 377 | 2755 | 13.7 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ja/libmailcommon.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 245 | 2755 | 8.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ug/libmailcommon.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 107 | 2755 | 3.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/mr/libmailcommon.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 25 | 2755 | 0.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/hr/libmailcommon.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 6 | 2755 | 0.2 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pa/libmailcommon.po | 
+ | [bg](/f42/language/bg) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/bg/libmailcommon.po | 
+ | [ca](/f42/language/ca) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ca/libmailcommon.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ca@valencia/libmailcommon.po | 
+ | [de](/f42/language/de) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/de/libmailcommon.po | 
+ | [en_GB](/f42/language/en_GB) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/en_GB/libmailcommon.po | 
+ | [es](/f42/language/es) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/es/libmailcommon.po | 
+ | [eu](/f42/language/eu) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/eu/libmailcommon.po | 
+ | [fi](/f42/language/fi) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/fi/libmailcommon.po | 
+ | [fr](/f42/language/fr) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/fr/libmailcommon.po | 
+ | [gl](/f42/language/gl) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/gl/libmailcommon.po | 
+ | [ia](/f42/language/ia) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ia/libmailcommon.po | 
+ | [it](/f42/language/it) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/it/libmailcommon.po | 
+ | [ka](/f42/language/ka) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ka/libmailcommon.po | 
+ | [ko](/f42/language/ko) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ko/libmailcommon.po | 
+ | [nl](/f42/language/nl) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nl/libmailcommon.po | 
+ | [pl](/f42/language/pl) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pl/libmailcommon.po | 
+ | [pt](/f42/language/pt) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pt/libmailcommon.po | 
+ | [pt_BR](/f42/language/pt_BR) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pt_BR/libmailcommon.po | 
+ | [ru](/f42/language/ru) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ru/libmailcommon.po | 
+ | [sl](/f42/language/sl) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sl/libmailcommon.po | 
+ | [sv](/f42/language/sv) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sv/libmailcommon.po | 
+ | [tr](/f42/language/tr) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/tr/libmailcommon.po | 
+ | [uk](/f42/language/uk) | 2755 | 2755 | 100.0 | /mnt/stockage/packages/f42/kf5-mailcommon/po/uk/libmailcommon.po | 
+ | [da](/f42/language/da) | 2656 | 2755 | 96.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/da/libmailcommon.po | 
+ | [et](/f42/language/et) | 2656 | 2755 | 96.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/et/libmailcommon.po | 
+ | [sr](/f42/language/sr) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr/libmailcommon.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr@ijekavian/libmailcommon.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr@ijekavianlatin/libmailcommon.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 2766 | 2923 | 94.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sr@latin/libmailcommon.po | 
+ | [sk](/f42/language/sk) | 2571 | 2755 | 93.3 | /mnt/stockage/packages/f42/kf5-mailcommon/po/sk/libmailcommon.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 2323 | 2755 | 84.3 | /mnt/stockage/packages/f42/kf5-mailcommon/po/zh_TW/libmailcommon.po | 
+ | [nb_NO](/f42/language/nb_NO) | 2221 | 2755 | 80.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nb/libmailcommon.po | 
+ | [hu](/f42/language/hu) | 2216 | 2755 | 80.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/hu/libmailcommon.po | 
+ | [nds](/f42/language/nds) | 2216 | 2755 | 80.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nds/libmailcommon.po | 
+ | [kk](/f42/language/kk) | 2183 | 2755 | 79.2 | /mnt/stockage/packages/f42/kf5-mailcommon/po/kk/libmailcommon.po | 
+ | [bs](/f42/language/bs) | 2180 | 2755 | 79.1 | /mnt/stockage/packages/f42/kf5-mailcommon/po/bs/libmailcommon.po | 
+ | [el](/f42/language/el) | 2162 | 2755 | 78.5 | /mnt/stockage/packages/f42/kf5-mailcommon/po/el/libmailcommon.po | 
+ | [cs](/f42/language/cs) | 1915 | 2755 | 69.5 | /mnt/stockage/packages/f42/kf5-mailcommon/po/cs/libmailcommon.po | 
+ | [ro](/f42/language/ro) | 1531 | 2755 | 55.6 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ro/libmailcommon.po | 
+ | [ar](/f42/language/ar) | 1187 | 2755 | 43.1 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ar/libmailcommon.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1010 | 2755 | 36.7 | /mnt/stockage/packages/f42/kf5-mailcommon/po/zh_CN/libmailcommon.po | 
+ | [nn](/f42/language/nn) | 921 | 2755 | 33.4 | /mnt/stockage/packages/f42/kf5-mailcommon/po/nn/libmailcommon.po | 
+ | [se](/f42/language/se) | 518 | 2755 | 18.8 | /mnt/stockage/packages/f42/kf5-mailcommon/po/se/libmailcommon.po | 
+ | [lt](/f42/language/lt) | 439 | 2755 | 15.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/lt/libmailcommon.po | 
+ | [ga](/f42/language/ga) | 388 | 2755 | 14.1 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ga/libmailcommon.po | 
+ | [ja](/f42/language/ja) | 377 | 2755 | 13.7 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ja/libmailcommon.po | 
+ | [ug](/f42/language/ug) | 245 | 2755 | 8.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/ug/libmailcommon.po | 
+ | [mr](/f42/language/mr) | 107 | 2755 | 3.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/mr/libmailcommon.po | 
+ | [hr](/f42/language/hr) | 25 | 2755 | 0.9 | /mnt/stockage/packages/f42/kf5-mailcommon/po/hr/libmailcommon.po | 
+ | [pa](/f42/language/pa) | 6 | 2755 | 0.2 | /mnt/stockage/packages/f42/kf5-mailcommon/po/pa/libmailcommon.po | 
 {.sortable}
 
 

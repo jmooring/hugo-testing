@@ -18,9 +18,9 @@ The package pikloops (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f21/pikloops/po/fr.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 125 | 126 | 99.2 | /mnt/stockage/packages/f21/pikloops/po/es.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 93 | 126 | 73.8 | /mnt/stockage/packages/f21/pikloops/po/de.po | 
+ | [fr](/f21/language/fr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f21/pikloops/po/fr.po | 
+ | [es](/f21/language/es) | 125 | 126 | 99.2 | /mnt/stockage/packages/f21/pikloops/po/es.po | 
+ | [de](/f21/language/de) | 93 | 126 | 73.8 | /mnt/stockage/packages/f21/pikloops/po/de.po | 
 {.sortable}
 
 

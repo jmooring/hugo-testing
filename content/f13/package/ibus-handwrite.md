@@ -18,8 +18,8 @@ The package ibus-handwrite (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 30 | 39 | 76.9 | /mnt/stockage/packages/f13/ibus-handwrite/po/zh_CN.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 15 | 39 | 38.5 | /mnt/stockage/packages/f13/ibus-handwrite/po/ja.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 30 | 39 | 76.9 | /mnt/stockage/packages/f13/ibus-handwrite/po/zh_CN.po | 
+ | [ja](/f13/language/ja) | 15 | 39 | 38.5 | /mnt/stockage/packages/f13/ibus-handwrite/po/ja.po | 
 {.sortable}
 
 

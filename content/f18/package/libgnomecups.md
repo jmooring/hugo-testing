@@ -18,52 +18,52 @@ The package libgnomecups (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/ar.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/bg.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/de.po | 
- | [dz]({{< ref "/f18/language/dz.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/dz.po | 
- | [en_CA]({{< ref "/f18/language/en_CA.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/en_CA.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/en_GB.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/gl.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/gu.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/hi.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/hu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/ja.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/lt.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/mk.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/nb.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/ne.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/nl.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/pt_BR.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sl.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sq.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sv.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/th.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/tr.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/vi.po | 
- | [wa]({{< ref "/f18/language/wa.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/wa.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/zh_HK.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/ca.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/sr@Latn.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/es.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/hr.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/pt.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/sr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/uk.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 10 | 11 | 90.9 | /mnt/stockage/packages/f18/libgnomecups/po/oc.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 5 | 11 | 45.5 | /mnt/stockage/packages/f18/libgnomecups/po/rw.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 55 | 210 | 26.2 | /mnt/stockage/packages/f18/libgnomecups/po/is.po | 
+ | [ar](/f18/language/ar) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/ar.po | 
+ | [bg](/f18/language/bg) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/bg.po | 
+ | [cs](/f18/language/cs) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/cs.po | 
+ | [da](/f18/language/da) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/da.po | 
+ | [de](/f18/language/de) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/de.po | 
+ | [dz](/f18/language/dz) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/dz.po | 
+ | [en_CA](/f18/language/en_CA) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/en_CA.po | 
+ | [en_GB](/f18/language/en_GB) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/en_GB.po | 
+ | [eu](/f18/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/eu.po | 
+ | [fi](/f18/language/fi) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/fi.po | 
+ | [fr](/f18/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/fr.po | 
+ | [gl](/f18/language/gl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/gl.po | 
+ | [gu](/f18/language/gu) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/gu.po | 
+ | [hi](/f18/language/hi) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/hi.po | 
+ | [hu](/f18/language/hu) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/hu.po | 
+ | [it](/f18/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/it.po | 
+ | [ja](/f18/language/ja) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/ja.po | 
+ | [lt](/f18/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/lt.po | 
+ | [mk](/f18/language/mk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/mk.po | 
+ | [nb_NO](/f18/language/nb_NO) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/nb.po | 
+ | [ne](/f18/language/ne) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/ne.po | 
+ | [nl](/f18/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/nl.po | 
+ | [pa](/f18/language/pa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/pa.po | 
+ | [pl](/f18/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/pt_BR.po | 
+ | [sk](/f18/language/sk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sk.po | 
+ | [sl](/f18/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sl.po | 
+ | [sq](/f18/language/sq) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sq.po | 
+ | [sv](/f18/language/sv) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/sv.po | 
+ | [th](/f18/language/th) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/th.po | 
+ | [tr](/f18/language/tr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/tr.po | 
+ | [vi](/f18/language/vi) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/vi.po | 
+ | [wa](/f18/language/wa) | 210 | 210 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/wa.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/zh_TW.po | 
+ | [zh_Hant_HK](/f18/language/zh_Hant_HK) | 11 | 11 | 100.0 | /mnt/stockage/packages/f18/libgnomecups/po/zh_HK.po | 
+ | [ca](/f18/language/ca) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/ca.po | 
+ | [error](/f18/language/error) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/sr@Latn.po | 
+ | [es](/f18/language/es) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/es.po | 
+ | [hr](/f18/language/hr) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/hr.po | 
+ | [pt](/f18/language/pt) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/pt.po | 
+ | [sr](/f18/language/sr) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/sr.po | 
+ | [uk](/f18/language/uk) | 206 | 210 | 98.1 | /mnt/stockage/packages/f18/libgnomecups/po/uk.po | 
+ | [oc](/f18/language/oc) | 10 | 11 | 90.9 | /mnt/stockage/packages/f18/libgnomecups/po/oc.po | 
+ | [rw](/f18/language/rw) | 5 | 11 | 45.5 | /mnt/stockage/packages/f18/libgnomecups/po/rw.po | 
+ | [is](/f18/language/is) | 55 | 210 | 26.2 | /mnt/stockage/packages/f18/libgnomecups/po/is.po | 
 {.sortable}
 
 

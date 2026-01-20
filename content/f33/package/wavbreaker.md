@@ -18,9 +18,9 @@ The package wavbreaker (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f33/wavbreaker/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 613 | 644 | 95.2 | /mnt/stockage/packages/f33/wavbreaker/po/fr.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 613 | 644 | 95.2 | /mnt/stockage/packages/f33/wavbreaker/po/pt.po | 
+ | [de](/f33/language/de) | 644 | 644 | 100.0 | /mnt/stockage/packages/f33/wavbreaker/po/de.po | 
+ | [fr](/f33/language/fr) | 613 | 644 | 95.2 | /mnt/stockage/packages/f33/wavbreaker/po/fr.po | 
+ | [pt](/f33/language/pt) | 613 | 644 | 95.2 | /mnt/stockage/packages/f33/wavbreaker/po/pt.po | 
 {.sortable}
 
 

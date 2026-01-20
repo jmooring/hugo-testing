@@ -18,30 +18,30 @@ The package xsane (version 0.999):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f22/xsane/po/ca.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f22/xsane/po/da.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f22/xsane/po/pa.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 3219 | 3224 | 99.8 | /mnt/stockage/packages/f22/xsane/backend-po/umax.de.po/mnt/stockage/packages/f22/xsane/po/de.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 3906 | 3913 | 99.8 | /mnt/stockage/packages/f22/xsane/backend-po/umax1220u.sr.po/mnt/stockage/packages/f22/xsane/po/sr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3215 | 3224 | 99.7 | /mnt/stockage/packages/f22/xsane/po/it.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 3147 | 3224 | 97.6 | /mnt/stockage/packages/f22/xsane/po/sk.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/cs.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/hu.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/sl.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f22/xsane/po/nl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f22/xsane/po/tr.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 2323 | 3224 | 72.1 | /mnt/stockage/packages/f22/xsane/po/pl.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/po/es.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/backend-po/umax.ja.po/mnt/stockage/packages/f22/xsane/po/ja.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/po/ro.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/po/vi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 2009 | 3224 | 62.3 | /mnt/stockage/packages/f22/xsane/po/fr.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f22/xsane/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f22/xsane/po/pt_BR.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1938 | 3224 | 60.1 | /mnt/stockage/packages/f22/xsane/po/sv.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 1297 | 3224 | 40.2 | /mnt/stockage/packages/f22/xsane/po/fi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2340 | 6448 | 36.3 | /mnt/stockage/packages/f22/xsane/po/zh.po/mnt/stockage/packages/f22/xsane/po/zh_CN.po | 
+ | [ca](/f22/language/ca) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f22/xsane/po/ca.po | 
+ | [da](/f22/language/da) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f22/xsane/po/da.po | 
+ | [pa](/f22/language/pa) | 3224 | 3224 | 100.0 | /mnt/stockage/packages/f22/xsane/po/pa.po | 
+ | [de](/f22/language/de) | 3219 | 3224 | 99.8 | /mnt/stockage/packages/f22/xsane/backend-po/umax.de.po/mnt/stockage/packages/f22/xsane/po/de.po | 
+ | [sr](/f22/language/sr) | 3906 | 3913 | 99.8 | /mnt/stockage/packages/f22/xsane/backend-po/umax1220u.sr.po/mnt/stockage/packages/f22/xsane/po/sr.po | 
+ | [it](/f22/language/it) | 3215 | 3224 | 99.7 | /mnt/stockage/packages/f22/xsane/po/it.po | 
+ | [sk](/f22/language/sk) | 3147 | 3224 | 97.6 | /mnt/stockage/packages/f22/xsane/po/sk.po | 
+ | [cs](/f22/language/cs) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/cs.po | 
+ | [hu](/f22/language/hu) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/hu.po | 
+ | [ru](/f22/language/ru) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/ru.po | 
+ | [sl](/f22/language/sl) | 2358 | 3224 | 73.1 | /mnt/stockage/packages/f22/xsane/po/sl.po | 
+ | [nl](/f22/language/nl) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f22/xsane/po/nl.po | 
+ | [tr](/f22/language/tr) | 2325 | 3224 | 72.1 | /mnt/stockage/packages/f22/xsane/po/tr.po | 
+ | [pl](/f22/language/pl) | 2323 | 3224 | 72.1 | /mnt/stockage/packages/f22/xsane/po/pl.po | 
+ | [es](/f22/language/es) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/po/es.po | 
+ | [ja](/f22/language/ja) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/backend-po/umax.ja.po/mnt/stockage/packages/f22/xsane/po/ja.po | 
+ | [ro](/f22/language/ro) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/po/ro.po | 
+ | [vi](/f22/language/vi) | 2037 | 3224 | 63.2 | /mnt/stockage/packages/f22/xsane/po/vi.po | 
+ | [fr](/f22/language/fr) | 2009 | 3224 | 62.3 | /mnt/stockage/packages/f22/xsane/po/fr.po | 
+ | [pt](/f22/language/pt) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f22/xsane/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 2008 | 3224 | 62.3 | /mnt/stockage/packages/f22/xsane/po/pt_BR.po | 
+ | [sv](/f22/language/sv) | 1938 | 3224 | 60.1 | /mnt/stockage/packages/f22/xsane/po/sv.po | 
+ | [fi](/f22/language/fi) | 1297 | 3224 | 40.2 | /mnt/stockage/packages/f22/xsane/po/fi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2340 | 6448 | 36.3 | /mnt/stockage/packages/f22/xsane/po/zh.po/mnt/stockage/packages/f22/xsane/po/zh_CN.po | 
 {.sortable}
 
 

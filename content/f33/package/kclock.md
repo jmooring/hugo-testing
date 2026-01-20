@@ -18,31 +18,31 @@ The package kclock (version 21.06):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ca/kclock.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ca@valencia/kclock.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/cs/kclock.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/de/kclock.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/es/kclock.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/fi/kclock.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/fr/kclock.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/it/kclock.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ko/kclock.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/nl/kclock.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/nn/kclock.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/pl/kclock.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/pt/kclock.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/pt_BR/kclock.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ro/kclock.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/sl/kclock.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/sv/kclock.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/uk/kclock.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 31 | 34 | 91.2 | /mnt/stockage/packages/f33/kclock/po/en_GB/kclock.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 24 | 34 | 70.6 | /mnt/stockage/packages/f33/kclock/po/eu/kclock.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 24 | 34 | 70.6 | /mnt/stockage/packages/f33/kclock/po/sk/kclock.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 12 | 34 | 35.3 | /mnt/stockage/packages/f33/kclock/po/el/kclock.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 12 | 34 | 35.3 | /mnt/stockage/packages/f33/kclock/po/pa/kclock.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 11 | 34 | 32.4 | /mnt/stockage/packages/f33/kclock/po/ru/kclock.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 3 | 34 | 8.8 | /mnt/stockage/packages/f33/kclock/po/zh_CN/kclock.po | 
+ | [ca](/f33/language/ca) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ca/kclock.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ca@valencia/kclock.po | 
+ | [cs](/f33/language/cs) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/cs/kclock.po | 
+ | [de](/f33/language/de) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/de/kclock.po | 
+ | [es](/f33/language/es) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/es/kclock.po | 
+ | [fi](/f33/language/fi) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/fi/kclock.po | 
+ | [fr](/f33/language/fr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/fr/kclock.po | 
+ | [it](/f33/language/it) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/it/kclock.po | 
+ | [ko](/f33/language/ko) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ko/kclock.po | 
+ | [nl](/f33/language/nl) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/nl/kclock.po | 
+ | [nn](/f33/language/nn) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/nn/kclock.po | 
+ | [pl](/f33/language/pl) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/pl/kclock.po | 
+ | [pt](/f33/language/pt) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/pt/kclock.po | 
+ | [pt_BR](/f33/language/pt_BR) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/pt_BR/kclock.po | 
+ | [ro](/f33/language/ro) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/ro/kclock.po | 
+ | [sl](/f33/language/sl) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/sl/kclock.po | 
+ | [sv](/f33/language/sv) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/sv/kclock.po | 
+ | [uk](/f33/language/uk) | 34 | 34 | 100.0 | /mnt/stockage/packages/f33/kclock/po/uk/kclock.po | 
+ | [en_GB](/f33/language/en_GB) | 31 | 34 | 91.2 | /mnt/stockage/packages/f33/kclock/po/en_GB/kclock.po | 
+ | [eu](/f33/language/eu) | 24 | 34 | 70.6 | /mnt/stockage/packages/f33/kclock/po/eu/kclock.po | 
+ | [sk](/f33/language/sk) | 24 | 34 | 70.6 | /mnt/stockage/packages/f33/kclock/po/sk/kclock.po | 
+ | [el](/f33/language/el) | 12 | 34 | 35.3 | /mnt/stockage/packages/f33/kclock/po/el/kclock.po | 
+ | [pa](/f33/language/pa) | 12 | 34 | 35.3 | /mnt/stockage/packages/f33/kclock/po/pa/kclock.po | 
+ | [ru](/f33/language/ru) | 11 | 34 | 32.4 | /mnt/stockage/packages/f33/kclock/po/ru/kclock.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 3 | 34 | 8.8 | /mnt/stockage/packages/f33/kclock/po/zh_CN/kclock.po | 
 {.sortable}
 
 

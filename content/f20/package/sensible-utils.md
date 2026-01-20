@@ -18,12 +18,12 @@ The package sensible-utils (version 0.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/ja.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/pl.po | 
+ | [de](/f20/language/de) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/de.po | 
+ | [es](/f20/language/es) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/es.po | 
+ | [fr](/f20/language/fr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/fr.po | 
+ | [it](/f20/language/it) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/it.po | 
+ | [ja](/f20/language/ja) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/ja.po | 
+ | [pl](/f20/language/pl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f20/sensible-utils/po4a/po/pl.po | 
 {.sortable}
 
 

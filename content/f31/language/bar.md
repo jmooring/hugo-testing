@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f31/package/iso-codes.md" >}}) | 200 | 982 | 20.4 | Bavarian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bar/> | 
+ | [iso-codes](/f31/package/iso-codes) | 200 | 982 | 20.4 | Bavarian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bar/> | 
 {.sortable}
 
 

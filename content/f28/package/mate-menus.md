@@ -18,130 +18,130 @@ The package mate-menus (version 1.20.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f28/language/af.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/af.po | 
- | [am]({{< ref "/f28/language/am.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/am.po | 
- | [an]({{< ref "/f28/language/an.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/an.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ar.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/as.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ast.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/be.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/bg.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/bn.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/bn_IN.po | 
- | [br]({{< ref "/f28/language/br.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/br.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ca.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ca@valencia.po | 
- | [crh]({{< ref "/f28/language/crh.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/crh.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/cs.po | 
- | [cy]({{< ref "/f28/language/cy.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/cy.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/de.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/dz.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/el.po | 
- | [en_AU]({{< ref "/f28/language/en_AU.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/en_AU.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/en_GB.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/eo.po | 
- | [es_CO]({{< ref "/f28/language/es_CO.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/es_CO.po | 
- | [es_MX]({{< ref "/f28/language/es_MX.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/es_MX.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/et.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/eu.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fa.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fr.po | 
- | [frp]({{< ref "/f28/language/frp.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/frp.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fur.po | 
- | [fy]({{< ref "/f28/language/fy.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fy.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ga.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/gl.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/gu.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/he.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hi.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hu.po | 
- | [hy]({{< ref "/f28/language/hy.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hy.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/id.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/is.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ja.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/kk.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/kn.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ko.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ku.po | 
- | [ky]({{< ref "/f28/language/ky.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ky.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/lv.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mai.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mk.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ml.po | 
- | [mn]({{< ref "/f28/language/mn.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mn.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mr.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ms.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nb.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nds.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ne.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nl.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nn.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/or.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pl.po | 
- | [ps]({{< ref "/f28/language/ps.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ps.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ru.po | 
- | [si]({{< ref "/f28/language/si.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/si.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sk.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sl.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sq.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sr.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sv.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/te.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/th.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/tr.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ug.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/uk.po | 
- | [ur]({{< ref "/f28/language/ur.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ur.po | 
- | [uz]({{< ref "/f28/language/uz.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/uz.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/vi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/cmn.po/mnt/stockage/packages/f28/mate-menus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/zh_HK.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 87 | 97 | 89.7 | /mnt/stockage/packages/f28/mate-menus/po/bs.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 81 | 97 | 83.5 | /mnt/stockage/packages/f28/mate-menus/po/oc.po | 
- | [en_CA]({{< ref "/f28/language/en_CA.md" >}}) | 60 | 97 | 61.9 | /mnt/stockage/packages/f28/mate-menus/po/en_CA.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 60 | 97 | 61.9 | /mnt/stockage/packages/f28/mate-menus/po/ka.po | 
- | [mg]({{< ref "/f28/language/mg.md" >}}) | 60 | 97 | 61.9 | /mnt/stockage/packages/f28/mate-menus/po/mg.po | 
- | [ha]({{< ref "/f28/language/ha.md" >}}) | 59 | 97 | 60.8 | /mnt/stockage/packages/f28/mate-menus/po/ha.po | 
- | [ig]({{< ref "/f28/language/ig.md" >}}) | 59 | 97 | 60.8 | /mnt/stockage/packages/f28/mate-menus/po/ig.po | 
- | [yo]({{< ref "/f28/language/yo.md" >}}) | 59 | 97 | 60.8 | /mnt/stockage/packages/f28/mate-menus/po/yo.po | 
- | [xh]({{< ref "/f28/language/xh.md" >}}) | 52 | 97 | 53.6 | /mnt/stockage/packages/f28/mate-menus/po/xh.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 98 | 194 | 50.5 | /mnt/stockage/packages/f28/mate-menus/po/es.po/mnt/stockage/packages/f28/mate-menus/po/es_ES.po | 
- | [es_AR]({{< ref "/f28/language/es_AR.md" >}}) | 42 | 97 | 43.3 | /mnt/stockage/packages/f28/mate-menus/po/es_AR.po | 
- | [kmr]({{< ref "/f28/language/kmr.md" >}}) | 34 | 97 | 35.1 | /mnt/stockage/packages/f28/mate-menus/po/ku_IQ.po | 
- | [kab]({{< ref "/f28/language/kab.md" >}}) | 9 | 97 | 9.3 | /mnt/stockage/packages/f28/mate-menus/po/kab.po | 
- | [fr_CA]({{< ref "/f28/language/fr_CA.md" >}}) | 8 | 97 | 8.2 | /mnt/stockage/packages/f28/mate-menus/po/fr_CA.po | 
- | [rw]({{< ref "/f28/language/rw.md" >}}) | 8 | 97 | 8.2 | /mnt/stockage/packages/f28/mate-menus/po/rw.po | 
- | [wa]({{< ref "/f28/language/wa.md" >}}) | 4 | 97 | 4.1 | /mnt/stockage/packages/f28/mate-menus/po/wa.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/az.po | 
- | [es_PR]({{< ref "/f28/language/es_PR.md" >}}) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/es_PR.po | 
- | [la]({{< ref "/f28/language/la.md" >}}) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/la.po | 
- | [nso]({{< ref "/f28/language/nso.md" >}}) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/nso.po | 
- | [zu]({{< ref "/f28/language/zu.md" >}}) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/zu.po | 
- | [es_CL]({{< ref "/f28/language/es_CL.md" >}}) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/es_CL.po | 
- | [li]({{< ref "/f28/language/li.md" >}}) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/li.po | 
- | [mi]({{< ref "/f28/language/mi.md" >}}) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/mi.po | 
- | [sc]({{< ref "/f28/language/sc.md" >}}) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/sc.po | 
- | [tk]({{< ref "/f28/language/tk.md" >}}) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/tk.po | 
- | [fil]({{< ref "/f28/language/fil.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/fil.po | 
- | [jv]({{< ref "/f28/language/jv.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/jv.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/km.po | 
- | [ks]({{< ref "/f28/language/ks.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/ks.po | 
- | [my]({{< ref "/f28/language/my.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/my.po | 
- | [nah]({{< ref "/f28/language/nah.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/nah.po | 
- | [pms]({{< ref "/f28/language/pms.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/pms.po | 
- | [ts]({{< ref "/f28/language/ts.md" >}}) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/ts.po | 
+ | [af](/f28/language/af) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/af.po | 
+ | [am](/f28/language/am) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/am.po | 
+ | [an](/f28/language/an) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/an.po | 
+ | [ar](/f28/language/ar) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ar.po | 
+ | [as](/f28/language/as) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/as.po | 
+ | [ast](/f28/language/ast) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ast.po | 
+ | [be](/f28/language/be) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/be.po | 
+ | [bg](/f28/language/bg) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/bg.po | 
+ | [bn](/f28/language/bn) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/bn.po | 
+ | [bn_IN](/f28/language/bn_IN) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/bn_IN.po | 
+ | [br](/f28/language/br) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/br.po | 
+ | [ca](/f28/language/ca) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ca.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ca@valencia.po | 
+ | [crh](/f28/language/crh) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/crh.po | 
+ | [cs](/f28/language/cs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/cs.po | 
+ | [cy](/f28/language/cy) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/cy.po | 
+ | [da](/f28/language/da) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/da.po | 
+ | [de](/f28/language/de) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/de.po | 
+ | [dz](/f28/language/dz) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/dz.po | 
+ | [el](/f28/language/el) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/el.po | 
+ | [en_AU](/f28/language/en_AU) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/en_AU.po | 
+ | [en_GB](/f28/language/en_GB) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/en_GB.po | 
+ | [eo](/f28/language/eo) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/eo.po | 
+ | [es_CO](/f28/language/es_CO) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/es_CO.po | 
+ | [es_MX](/f28/language/es_MX) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/es_MX.po | 
+ | [et](/f28/language/et) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/et.po | 
+ | [eu](/f28/language/eu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/eu.po | 
+ | [fa](/f28/language/fa) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fa.po | 
+ | [fi](/f28/language/fi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fi.po | 
+ | [fr](/f28/language/fr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fr.po | 
+ | [frp](/f28/language/frp) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/frp.po | 
+ | [fur](/f28/language/fur) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fur.po | 
+ | [fy](/f28/language/fy) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/fy.po | 
+ | [ga](/f28/language/ga) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ga.po | 
+ | [gl](/f28/language/gl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/gl.po | 
+ | [gu](/f28/language/gu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/gu.po | 
+ | [he](/f28/language/he) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/he.po | 
+ | [hi](/f28/language/hi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hi.po | 
+ | [hr](/f28/language/hr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hr.po | 
+ | [hu](/f28/language/hu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hu.po | 
+ | [hy](/f28/language/hy) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/hy.po | 
+ | [id](/f28/language/id) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/id.po | 
+ | [is](/f28/language/is) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/is.po | 
+ | [it](/f28/language/it) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/it.po | 
+ | [ja](/f28/language/ja) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ja.po | 
+ | [kk](/f28/language/kk) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/kk.po | 
+ | [kn](/f28/language/kn) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/kn.po | 
+ | [ko](/f28/language/ko) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ko.po | 
+ | [ku](/f28/language/ku) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ku.po | 
+ | [ky](/f28/language/ky) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ky.po | 
+ | [lt](/f28/language/lt) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/lt.po | 
+ | [lv](/f28/language/lv) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/lv.po | 
+ | [mai](/f28/language/mai) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mai.po | 
+ | [mk](/f28/language/mk) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mk.po | 
+ | [ml](/f28/language/ml) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ml.po | 
+ | [mn](/f28/language/mn) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mn.po | 
+ | [mr](/f28/language/mr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/mr.po | 
+ | [ms](/f28/language/ms) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ms.po | 
+ | [nb_NO](/f28/language/nb_NO) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nb.po | 
+ | [nds](/f28/language/nds) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nds.po | 
+ | [ne](/f28/language/ne) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ne.po | 
+ | [nl](/f28/language/nl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nl.po | 
+ | [nn](/f28/language/nn) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/nn.po | 
+ | [or](/f28/language/or) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/or.po | 
+ | [pa](/f28/language/pa) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pa.po | 
+ | [pl](/f28/language/pl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pl.po | 
+ | [ps](/f28/language/ps) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ps.po | 
+ | [pt](/f28/language/pt) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ro.po | 
+ | [ru](/f28/language/ru) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ru.po | 
+ | [si](/f28/language/si) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/si.po | 
+ | [sk](/f28/language/sk) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sk.po | 
+ | [sl](/f28/language/sl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sl.po | 
+ | [sq](/f28/language/sq) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sq.po | 
+ | [sr](/f28/language/sr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sr.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/sv.po | 
+ | [ta](/f28/language/ta) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ta.po | 
+ | [te](/f28/language/te) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/te.po | 
+ | [th](/f28/language/th) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/th.po | 
+ | [tr](/f28/language/tr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/tr.po | 
+ | [ug](/f28/language/ug) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ug.po | 
+ | [uk](/f28/language/uk) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/uk.po | 
+ | [ur](/f28/language/ur) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/ur.po | 
+ | [uz](/f28/language/uz) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/uz.po | 
+ | [vi](/f28/language/vi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/vi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 194 | 194 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/cmn.po/mnt/stockage/packages/f28/mate-menus/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/zh_TW.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 97 | 97 | 100.0 | /mnt/stockage/packages/f28/mate-menus/po/zh_HK.po | 
+ | [bs](/f28/language/bs) | 87 | 97 | 89.7 | /mnt/stockage/packages/f28/mate-menus/po/bs.po | 
+ | [oc](/f28/language/oc) | 81 | 97 | 83.5 | /mnt/stockage/packages/f28/mate-menus/po/oc.po | 
+ | [en_CA](/f28/language/en_CA) | 60 | 97 | 61.9 | /mnt/stockage/packages/f28/mate-menus/po/en_CA.po | 
+ | [ka](/f28/language/ka) | 60 | 97 | 61.9 | /mnt/stockage/packages/f28/mate-menus/po/ka.po | 
+ | [mg](/f28/language/mg) | 60 | 97 | 61.9 | /mnt/stockage/packages/f28/mate-menus/po/mg.po | 
+ | [ha](/f28/language/ha) | 59 | 97 | 60.8 | /mnt/stockage/packages/f28/mate-menus/po/ha.po | 
+ | [ig](/f28/language/ig) | 59 | 97 | 60.8 | /mnt/stockage/packages/f28/mate-menus/po/ig.po | 
+ | [yo](/f28/language/yo) | 59 | 97 | 60.8 | /mnt/stockage/packages/f28/mate-menus/po/yo.po | 
+ | [xh](/f28/language/xh) | 52 | 97 | 53.6 | /mnt/stockage/packages/f28/mate-menus/po/xh.po | 
+ | [es](/f28/language/es) | 98 | 194 | 50.5 | /mnt/stockage/packages/f28/mate-menus/po/es.po/mnt/stockage/packages/f28/mate-menus/po/es_ES.po | 
+ | [es_AR](/f28/language/es_AR) | 42 | 97 | 43.3 | /mnt/stockage/packages/f28/mate-menus/po/es_AR.po | 
+ | [kmr](/f28/language/kmr) | 34 | 97 | 35.1 | /mnt/stockage/packages/f28/mate-menus/po/ku_IQ.po | 
+ | [kab](/f28/language/kab) | 9 | 97 | 9.3 | /mnt/stockage/packages/f28/mate-menus/po/kab.po | 
+ | [fr_CA](/f28/language/fr_CA) | 8 | 97 | 8.2 | /mnt/stockage/packages/f28/mate-menus/po/fr_CA.po | 
+ | [rw](/f28/language/rw) | 8 | 97 | 8.2 | /mnt/stockage/packages/f28/mate-menus/po/rw.po | 
+ | [wa](/f28/language/wa) | 4 | 97 | 4.1 | /mnt/stockage/packages/f28/mate-menus/po/wa.po | 
+ | [az](/f28/language/az) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/az.po | 
+ | [es_PR](/f28/language/es_PR) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/es_PR.po | 
+ | [la](/f28/language/la) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/la.po | 
+ | [nso](/f28/language/nso) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/nso.po | 
+ | [zu](/f28/language/zu) | 3 | 97 | 3.1 | /mnt/stockage/packages/f28/mate-menus/po/zu.po | 
+ | [es_CL](/f28/language/es_CL) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/es_CL.po | 
+ | [li](/f28/language/li) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/li.po | 
+ | [mi](/f28/language/mi) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/mi.po | 
+ | [sc](/f28/language/sc) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/sc.po | 
+ | [tk](/f28/language/tk) | 2 | 97 | 2.1 | /mnt/stockage/packages/f28/mate-menus/po/tk.po | 
+ | [fil](/f28/language/fil) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/fil.po | 
+ | [jv](/f28/language/jv) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/jv.po | 
+ | [km](/f28/language/km) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/km.po | 
+ | [ks](/f28/language/ks) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/ks.po | 
+ | [my](/f28/language/my) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/my.po | 
+ | [nah](/f28/language/nah) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/nah.po | 
+ | [pms](/f28/language/pms) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/pms.po | 
+ | [ts](/f28/language/ts) | 1 | 97 | 1.0 | /mnt/stockage/packages/f28/mate-menus/po/ts.po | 
 {.sortable}
 
 

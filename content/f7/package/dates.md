@@ -18,17 +18,17 @@ The package dates (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f7/dates/po/ca.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/dates/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f7/dates/po/fr.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f7/dates/po/nb.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f7/dates/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f7/dates/po/pl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f7/dates/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f7/dates/po/sv.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 90 | 97 | 92.8 | /mnt/stockage/packages/f7/dates/po/da.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 77 | 97 | 79.4 | /mnt/stockage/packages/f7/dates/po/it.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 45 | 88 | 51.1 | /mnt/stockage/packages/f7/dates/po/et.po | 
+ | [ca](/f7/language/ca) | 107 | 107 | 100.0 | /mnt/stockage/packages/f7/dates/po/ca.po | 
+ | [fi](/f7/language/fi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f7/dates/po/fi.po | 
+ | [fr](/f7/language/fr) | 112 | 112 | 100.0 | /mnt/stockage/packages/f7/dates/po/fr.po | 
+ | [nb_NO](/f7/language/nb_NO) | 78 | 78 | 100.0 | /mnt/stockage/packages/f7/dates/po/nb.po | 
+ | [nl](/f7/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f7/dates/po/nl.po | 
+ | [pl](/f7/language/pl) | 112 | 112 | 100.0 | /mnt/stockage/packages/f7/dates/po/pl.po | 
+ | [ru](/f7/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f7/dates/po/ru.po | 
+ | [sv](/f7/language/sv) | 107 | 107 | 100.0 | /mnt/stockage/packages/f7/dates/po/sv.po | 
+ | [da](/f7/language/da) | 90 | 97 | 92.8 | /mnt/stockage/packages/f7/dates/po/da.po | 
+ | [it](/f7/language/it) | 77 | 97 | 79.4 | /mnt/stockage/packages/f7/dates/po/it.po | 
+ | [et](/f7/language/et) | 45 | 88 | 51.1 | /mnt/stockage/packages/f7/dates/po/et.po | 
 {.sortable}
 
 

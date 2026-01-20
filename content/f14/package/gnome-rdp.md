@@ -18,10 +18,10 @@ The package gnome-rdp (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f14/language/it.md" >}}) | 241 | 301 | 80.1 | /mnt/stockage/packages/f14/gnome-rdp/po/it.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 181 | 301 | 60.1 | /mnt/stockage/packages/f14/gnome-rdp/po/es.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 181 | 301 | 60.1 | /mnt/stockage/packages/f14/gnome-rdp/po/hu.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 0 | 301 | 0.0 | /mnt/stockage/packages/f14/gnome-rdp/po/messages.po | 
+ | [it](/f14/language/it) | 241 | 301 | 80.1 | /mnt/stockage/packages/f14/gnome-rdp/po/it.po | 
+ | [es](/f14/language/es) | 181 | 301 | 60.1 | /mnt/stockage/packages/f14/gnome-rdp/po/es.po | 
+ | [hu](/f14/language/hu) | 181 | 301 | 60.1 | /mnt/stockage/packages/f14/gnome-rdp/po/hu.po | 
+ | [error](/f14/language/error) | 0 | 301 | 0.0 | /mnt/stockage/packages/f14/gnome-rdp/po/messages.po | 
 {.sortable}
 
 

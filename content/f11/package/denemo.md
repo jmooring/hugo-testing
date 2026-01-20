@@ -18,11 +18,11 @@ The package denemo (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 2515 | 3947 | 63.7 | /mnt/stockage/packages/f11/denemo/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 453 | 3947 | 11.5 | /mnt/stockage/packages/f11/denemo/po/fr.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 101 | 3947 | 2.6 | /mnt/stockage/packages/f11/denemo/po/sv.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 0 | 3947 | 0.0 | /mnt/stockage/packages/f11/denemo/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 0 | 3947 | 0.0 | /mnt/stockage/packages/f11/denemo/po/it.po | 
+ | [de](/f11/language/de) | 2515 | 3947 | 63.7 | /mnt/stockage/packages/f11/denemo/po/de.po | 
+ | [fr](/f11/language/fr) | 453 | 3947 | 11.5 | /mnt/stockage/packages/f11/denemo/po/fr.po | 
+ | [sv](/f11/language/sv) | 101 | 3947 | 2.6 | /mnt/stockage/packages/f11/denemo/po/sv.po | 
+ | [es](/f11/language/es) | 0 | 3947 | 0.0 | /mnt/stockage/packages/f11/denemo/po/es.po | 
+ | [it](/f11/language/it) | 0 | 3947 | 0.0 | /mnt/stockage/packages/f11/denemo/po/it.po | 
 {.sortable}
 
 

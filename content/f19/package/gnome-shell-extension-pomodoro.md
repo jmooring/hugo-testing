@@ -18,14 +18,14 @@ The package gnome-shell-extension-pomodoro (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/ca.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/fa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/zh_CN.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 178 | 216 | 82.4 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/cs.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 171 | 216 | 79.2 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 57 | 210 | 27.1 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/fr.po | 
+ | [ca](/f19/language/ca) | 262 | 262 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/ca.po | 
+ | [fa](/f19/language/fa) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/fa.po | 
+ | [pl](/f19/language/pl) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/pt_BR.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 216 | 216 | 100.0 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/zh_CN.po | 
+ | [cs](/f19/language/cs) | 178 | 216 | 82.4 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/cs.po | 
+ | [es](/f19/language/es) | 171 | 216 | 79.2 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/es.po | 
+ | [fr](/f19/language/fr) | 57 | 210 | 27.1 | /mnt/stockage/packages/f19/gnome-shell-extension-pomodoro/po/fr.po | 
 {.sortable}
 
 

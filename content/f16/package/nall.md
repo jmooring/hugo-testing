@@ -18,8 +18,8 @@ The package nall (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/nall/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/nall/po/fr.po | 
+ | [de](/f16/language/de) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/nall/po/de.po | 
+ | [fr](/f16/language/fr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f16/nall/po/fr.po | 
 {.sortable}
 
 

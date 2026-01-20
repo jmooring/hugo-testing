@@ -18,17 +18,17 @@ The package labyrinth (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/de.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/eu.po | 
- | [pt_PT]({{< ref "/f9/language/pt_PT.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/pt_PT.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/sv.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 139 | 146 | 95.2 | /mnt/stockage/packages/f9/labyrinth/po/fr.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 137 | 146 | 93.8 | /mnt/stockage/packages/f9/labyrinth/po/nl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 87 | 146 | 59.6 | /mnt/stockage/packages/f9/labyrinth/po/ru.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 83 | 146 | 56.8 | /mnt/stockage/packages/f9/labyrinth/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 67 | 146 | 45.9 | /mnt/stockage/packages/f9/labyrinth/po/pt_BR.po | 
+ | [ca](/f9/language/ca) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/ca.po | 
+ | [cs](/f9/language/cs) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/cs.po | 
+ | [de](/f9/language/de) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/de.po | 
+ | [eu](/f9/language/eu) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/eu.po | 
+ | [pt_PT](/f9/language/pt_PT) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/pt_PT.po | 
+ | [sv](/f9/language/sv) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/labyrinth/po/sv.po | 
+ | [fr](/f9/language/fr) | 139 | 146 | 95.2 | /mnt/stockage/packages/f9/labyrinth/po/fr.po | 
+ | [nl](/f9/language/nl) | 137 | 146 | 93.8 | /mnt/stockage/packages/f9/labyrinth/po/nl.po | 
+ | [ru](/f9/language/ru) | 87 | 146 | 59.6 | /mnt/stockage/packages/f9/labyrinth/po/ru.po | 
+ | [pl](/f9/language/pl) | 83 | 146 | 56.8 | /mnt/stockage/packages/f9/labyrinth/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 67 | 146 | 45.9 | /mnt/stockage/packages/f9/labyrinth/po/pt_BR.po | 
 {.sortable}
 
 

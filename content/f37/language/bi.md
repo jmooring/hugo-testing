@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar]({{< ref "/f37/package/sugar.md" >}}) | 1552 | 2305 | 67.3 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 76 | 213 | 35.7 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f37/package/sugar-physics.md" >}}) | 5 | 48 | 10.4 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f37/package/sugar-browse.md" >}}) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f37/package/sugar-paint.md" >}}) | 1 | 106 | 0.9 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f37/package/sugar-speak.md" >}}) | 2 | 227 | 0.9 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f37/package/sugar-write.md" >}}) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f37/package/sugar-calculator.md" >}}) | 3 | 866 | 0.3 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f37/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Bislama <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bi/> | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f37/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f37/package/sugar) | 1552 | 2305 | 67.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 76 | 213 | 35.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f37/package/sugar-physics) | 5 | 48 | 10.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f37/package/sugar-browse) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f37/package/sugar-paint) | 1 | 106 | 0.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f37/package/sugar-speak) | 2 | 227 | 0.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f37/package/sugar-write) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f37/package/sugar-calculator) | 3 | 866 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f37/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [iso-codes](/f37/package/iso-codes) | 0 | 986 | 0.0 | Bislama <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bi/> | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f37/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package gnucobol (version 3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f39/language/error.md" >}}) | 19284 | 19284 | 100.0 | /mnt/stockage/packages/f39/gnucobol/po/en@quot.po/mnt/stockage/packages/f39/gnucobol/po/en@boldquot.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 8885 | 9642 | 92.1 | /mnt/stockage/packages/f39/gnucobol/po/fr.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 7500 | 9642 | 77.8 | /mnt/stockage/packages/f39/gnucobol/po/sr.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 4115 | 9642 | 42.7 | /mnt/stockage/packages/f39/gnucobol/po/es.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 4115 | 9642 | 42.7 | /mnt/stockage/packages/f39/gnucobol/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 3072 | 9642 | 31.9 | /mnt/stockage/packages/f39/gnucobol/po/tr.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 2031 | 9642 | 21.1 | /mnt/stockage/packages/f39/gnucobol/po/de.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1815 | 9642 | 18.8 | /mnt/stockage/packages/f39/gnucobol/po/pt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 946 | 9642 | 9.8 | /mnt/stockage/packages/f39/gnucobol/po/nl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 209 | 9642 | 2.2 | /mnt/stockage/packages/f39/gnucobol/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 28 | 9642 | 0.3 | /mnt/stockage/packages/f39/gnucobol/po/ja.po | 
+ | [error](/f39/language/error) | 19284 | 19284 | 100.0 | /mnt/stockage/packages/f39/gnucobol/po/en@quot.po/mnt/stockage/packages/f39/gnucobol/po/en@boldquot.po | 
+ | [fr](/f39/language/fr) | 8885 | 9642 | 92.1 | /mnt/stockage/packages/f39/gnucobol/po/fr.po | 
+ | [sr](/f39/language/sr) | 7500 | 9642 | 77.8 | /mnt/stockage/packages/f39/gnucobol/po/sr.po | 
+ | [es](/f39/language/es) | 4115 | 9642 | 42.7 | /mnt/stockage/packages/f39/gnucobol/po/es.po | 
+ | [sv](/f39/language/sv) | 4115 | 9642 | 42.7 | /mnt/stockage/packages/f39/gnucobol/po/sv.po | 
+ | [tr](/f39/language/tr) | 3072 | 9642 | 31.9 | /mnt/stockage/packages/f39/gnucobol/po/tr.po | 
+ | [de](/f39/language/de) | 2031 | 9642 | 21.1 | /mnt/stockage/packages/f39/gnucobol/po/de.po | 
+ | [pt](/f39/language/pt) | 1815 | 9642 | 18.8 | /mnt/stockage/packages/f39/gnucobol/po/pt.po | 
+ | [nl](/f39/language/nl) | 946 | 9642 | 9.8 | /mnt/stockage/packages/f39/gnucobol/po/nl.po | 
+ | [it](/f39/language/it) | 209 | 9642 | 2.2 | /mnt/stockage/packages/f39/gnucobol/po/it.po | 
+ | [ja](/f39/language/ja) | 28 | 9642 | 0.3 | /mnt/stockage/packages/f39/gnucobol/po/ja.po | 
 {.sortable}
 
 

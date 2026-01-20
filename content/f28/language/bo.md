@@ -40,92 +40,92 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nautilus]({{< ref "/f28/package/nautilus.md" >}}) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 310590 | 560867 | 55.4 | LANGUAGE <LL@li.org> | 
- | [simple-scan]({{< ref "/f28/package/simple-scan.md" >}}) | 325 | 589 | 55.2 | Tibetan <bo@li.org> | 
- | [console-setup]({{< ref "/f28/package/console-setup.md" >}}) | 500 | 985 | 50.8 | bo <translation-team-bo@lists.sourceforge.net> | 
- | [sugar-toolkit-gtk3]({{< ref "/f28/package/sugar-toolkit-gtk3.md" >}}) | 25 | 159 | 15.7 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f28/package/anaconda.md" >}}) | 1 | 7551 | 0.0 | Tibetan (http://www.transifex.com/projects/p/anaconda/language/bo/) | 
- | [stellarium]({{< ref "/f28/package/stellarium.md" >}}) | 3 | 68196 | 0.0 | Tibetan (https://www.transifex.com/stellarium/teams/80998/bo/) | 
- | [abrt]({{< ref "/f28/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora-abrt/language/bo/) | 
- | [appcenter]({{< ref "/f28/package/appcenter.md" >}}) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f28/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [certmonger]({{< ref "/f28/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Tibetan (http://www.transifex.com/projects/p/certmonger/language/bo/) | 
- | [deja-dup]({{< ref "/f28/package/deja-dup.md" >}}) | 0 | 2122 | 0.0 | Tibetan <bo@li.org> | 
- | [dippi]({{< ref "/f28/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [dnf-plugins-extras]({{< ref "/f28/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Tibetan | 
- | [docker-anaconda-addon]({{< ref "/f28/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Tibetan | 
- | [elementary-calculator]({{< ref "/f28/package/elementary-calculator.md" >}}) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f28/package/elementary-calendar.md" >}}) | 0 | 449 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-camera]({{< ref "/f28/package/elementary-camera.md" >}}) | 0 | 62 | 0.0 |  | 
- | [elementary-capnet-assist]({{< ref "/f28/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-screenshot-tool]({{< ref "/f28/package/elementary-screenshot-tool.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f28/package/elementary-shortcut-overlay.md" >}}) | 0 | 82 | 0.0 | none | 
- | [entangle]({{< ref "/f28/package/entangle.md" >}}) | 0 | 953 | 0.0 | Tibetan | 
- | [gnomebaker]({{< ref "/f28/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [harvey]({{< ref "/f28/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [initial-setup]({{< ref "/f28/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Tibetan | 
- | [initscripts]({{< ref "/f28/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [libbytesize]({{< ref "/f28/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Tibetan | 
- | [libosinfo]({{< ref "/f28/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Tibetan | 
- | [libreport]({{< ref "/f28/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libreport/language/bo/) | 
- | [libvirt]({{< ref "/f28/package/libvirt.md" >}}) | 0 | 63891 | 0.0 | Tibetan | 
- | [libvirt-glib]({{< ref "/f28/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
- | [libvirt-sandbox]({{< ref "/f28/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [lightdm]({{< ref "/f28/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Tibetan <bo@li.org> | 
- | [lightdm-gtk]({{< ref "/f28/package/lightdm-gtk.md" >}}) | 0 | 87 | 0.0 | Tibetan <bo@li.org> | 
- | [maya-calendar]({{< ref "/f28/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mingw-libosinfo]({{< ref "/f28/package/mingw-libosinfo.md" >}}) | 0 | 2049 | 0.0 | Tibetan | 
- | [mingw-libvirt]({{< ref "/f28/package/mingw-libvirt.md" >}}) | 0 | 63891 | 0.0 | Tibetan | 
- | [mingw-libvirt-glib]({{< ref "/f28/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
- | [noise]({{< ref "/f28/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f28/package/optimizer.md" >}}) | 0 | 111 | 0.0 | none | 
- | [osinfo-db-tools]({{< ref "/f28/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Tibetan | 
- | [pam]({{< ref "/f28/package/pam.md" >}}) | 0 | 597 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [pantheon-agent-geoclue2]({{< ref "/f28/package/pantheon-agent-geoclue2.md" >}}) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f28/package/pantheon-agent-polkit.md" >}}) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f28/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f28/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f28/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f28/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f28/package/pykickstart.md" >}}) | 0 | 1521 | 0.0 | Tibetan | 
- | [python-fedora]({{< ref "/f28/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Tibetan | 
- | [python-meh]({{< ref "/f28/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Tibetan | 
- | [python-simpleline]({{< ref "/f28/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Tibetan | 
- | [scratch-text-editor]({{< ref "/f28/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f28/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sequeler]({{< ref "/f28/package/sequeler.md" >}}) | 0 | 252 | 0.0 |  | 
- | [setroubleshoot]({{< ref "/f28/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [setroubleshoot-plugins]({{< ref "/f28/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 0 | 211 | 0.0 | Tibetan <bo@li.org> | 
- | [sugar]({{< ref "/f28/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f28/package/switchboard.md" >}}) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f28/package/switchboard-plug-a11y.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f28/package/switchboard-plug-about.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f28/package/switchboard-plug-applications.md" >}}) | 0 | 86 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f28/package/switchboard-plug-bluetooth.md" >}}) | 0 | 74 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f28/package/switchboard-plug-display.md" >}}) | 0 | 126 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f28/package/switchboard-plug-keyboard.md" >}}) | 0 | 404 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f28/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 150 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f28/package/switchboard-plug-networking.md" >}}) | 0 | 444 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f28/package/switchboard-plug-notifications.md" >}}) | 0 | 139 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f28/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 153 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f28/package/switchboard-plug-printers.md" >}}) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f28/package/switchboard-plug-sharing.md" >}}) | 0 | 130 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f28/package/switchboard-plug-sound.md" >}}) | 0 | 131 | 0.0 |  | 
- | [transmission]({{< ref "/f28/package/transmission.md" >}}) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
- | [virt-viewer]({{< ref "/f28/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Tibetan | 
- | [vocal]({{< ref "/f28/package/vocal.md" >}}) | 0 | 377 | 0.0 | Tibetan <bo@li.org> | 
- | [wingpanel]({{< ref "/f28/package/wingpanel.md" >}}) | 0 | 6 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f28/package/wingpanel-applications-menu.md" >}}) | 0 | 225 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f28/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 15 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f28/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 10 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f28/package/wingpanel-indicator-network.md" >}}) | 0 | 76 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f28/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 16 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f28/package/wingpanel-indicator-notifications.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f28/package/wingpanel-indicator-power.md" >}}) | 0 | 93 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f28/package/wingpanel-indicator-session.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f28/package/wingpanel-indicator-sound.md" >}}) | 0 | 14 | 0.0 | none | 
+ | [nautilus](/f28/package/nautilus) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
+ | [libreoffice](/f28/package/libreoffice) | 310590 | 560867 | 55.4 | LANGUAGE <LL@li.org> | 
+ | [simple-scan](/f28/package/simple-scan) | 325 | 589 | 55.2 | Tibetan <bo@li.org> | 
+ | [console-setup](/f28/package/console-setup) | 500 | 985 | 50.8 | bo <translation-team-bo@lists.sourceforge.net> | 
+ | [sugar-toolkit-gtk3](/f28/package/sugar-toolkit-gtk3) | 25 | 159 | 15.7 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f28/package/anaconda) | 1 | 7551 | 0.0 | Tibetan (http://www.transifex.com/projects/p/anaconda/language/bo/) | 
+ | [stellarium](/f28/package/stellarium) | 3 | 68196 | 0.0 | Tibetan (https://www.transifex.com/stellarium/teams/80998/bo/) | 
+ | [abrt](/f28/package/abrt) | 0 | 3230 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora-abrt/language/bo/) | 
+ | [appcenter](/f28/package/appcenter) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f28/package/audience) | 0 | 106 | 0.0 |  | 
+ | [certmonger](/f28/package/certmonger) | 0 | 2831 | 0.0 | Tibetan (http://www.transifex.com/projects/p/certmonger/language/bo/) | 
+ | [deja-dup](/f28/package/deja-dup) | 0 | 2122 | 0.0 | Tibetan <bo@li.org> | 
+ | [dippi](/f28/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [dnf-plugins-extras](/f28/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Tibetan | 
+ | [docker-anaconda-addon](/f28/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Tibetan | 
+ | [elementary-calculator](/f28/package/elementary-calculator) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-calendar](/f28/package/elementary-calendar) | 0 | 449 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-camera](/f28/package/elementary-camera) | 0 | 62 | 0.0 |  | 
+ | [elementary-capnet-assist](/f28/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-screenshot-tool](/f28/package/elementary-screenshot-tool) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f28/package/elementary-shortcut-overlay) | 0 | 82 | 0.0 | none | 
+ | [entangle](/f28/package/entangle) | 0 | 953 | 0.0 | Tibetan | 
+ | [gnomebaker](/f28/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [harvey](/f28/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [initial-setup](/f28/package/initial-setup) | 0 | 33 | 0.0 | Tibetan | 
+ | [initscripts](/f28/package/initscripts) | 0 | 1003 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [libbytesize](/f28/package/libbytesize) | 0 | 17 | 0.0 | Tibetan | 
+ | [libosinfo](/f28/package/libosinfo) | 0 | 662 | 0.0 | Tibetan | 
+ | [libreport](/f28/package/libreport) | 0 | 3501 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libreport/language/bo/) | 
+ | [libvirt](/f28/package/libvirt) | 0 | 63891 | 0.0 | Tibetan | 
+ | [libvirt-glib](/f28/package/libvirt-glib) | 0 | 145 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
+ | [libvirt-sandbox](/f28/package/libvirt-sandbox) | 0 | 617 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [lightdm](/f28/package/lightdm) | 0 | 163 | 0.0 | Tibetan <bo@li.org> | 
+ | [lightdm-gtk](/f28/package/lightdm-gtk) | 0 | 87 | 0.0 | Tibetan <bo@li.org> | 
+ | [maya-calendar](/f28/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mingw-libosinfo](/f28/package/mingw-libosinfo) | 0 | 2049 | 0.0 | Tibetan | 
+ | [mingw-libvirt](/f28/package/mingw-libvirt) | 0 | 63891 | 0.0 | Tibetan | 
+ | [mingw-libvirt-glib](/f28/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
+ | [noise](/f28/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f28/package/optimizer) | 0 | 111 | 0.0 | none | 
+ | [osinfo-db-tools](/f28/package/osinfo-db-tools) | 0 | 56 | 0.0 | Tibetan | 
+ | [pam](/f28/package/pam) | 0 | 597 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [pantheon-agent-geoclue2](/f28/package/pantheon-agent-geoclue2) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f28/package/pantheon-agent-polkit) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f28/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f28/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f28/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f28/package/policycoreutils) | 0 | 7678 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [pykickstart](/f28/package/pykickstart) | 0 | 1521 | 0.0 | Tibetan | 
+ | [python-fedora](/f28/package/python-fedora) | 0 | 214 | 0.0 | Tibetan | 
+ | [python-meh](/f28/package/python-meh) | 0 | 109 | 0.0 | Tibetan | 
+ | [python-simpleline](/f28/package/python-simpleline) | 0 | 42 | 0.0 | Tibetan | 
+ | [scratch-text-editor](/f28/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f28/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sequeler](/f28/package/sequeler) | 0 | 252 | 0.0 |  | 
+ | [setroubleshoot](/f28/package/setroubleshoot) | 0 | 660 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [setroubleshoot-plugins](/f28/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [slick-greeter](/f28/package/slick-greeter) | 0 | 211 | 0.0 | Tibetan <bo@li.org> | 
+ | [sugar](/f28/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f28/package/switchboard) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f28/package/switchboard-plug-a11y) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f28/package/switchboard-plug-about) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f28/package/switchboard-plug-applications) | 0 | 86 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f28/package/switchboard-plug-bluetooth) | 0 | 74 | 0.0 | none | 
+ | [switchboard-plug-display](/f28/package/switchboard-plug-display) | 0 | 126 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f28/package/switchboard-plug-keyboard) | 0 | 404 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f28/package/switchboard-plug-mouse-touchpad) | 0 | 150 | 0.0 | none | 
+ | [switchboard-plug-networking](/f28/package/switchboard-plug-networking) | 0 | 444 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f28/package/switchboard-plug-notifications) | 0 | 139 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f28/package/switchboard-plug-pantheon-shell) | 0 | 153 | 0.0 |  | 
+ | [switchboard-plug-printers](/f28/package/switchboard-plug-printers) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f28/package/switchboard-plug-sharing) | 0 | 130 | 0.0 | none | 
+ | [switchboard-plug-sound](/f28/package/switchboard-plug-sound) | 0 | 131 | 0.0 |  | 
+ | [transmission](/f28/package/transmission) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
+ | [virt-viewer](/f28/package/virt-viewer) | 0 | 784 | 0.0 | Tibetan | 
+ | [vocal](/f28/package/vocal) | 0 | 377 | 0.0 | Tibetan <bo@li.org> | 
+ | [wingpanel](/f28/package/wingpanel) | 0 | 6 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f28/package/wingpanel-applications-menu) | 0 | 225 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f28/package/wingpanel-indicator-bluetooth) | 0 | 15 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f28/package/wingpanel-indicator-keyboard) | 0 | 10 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f28/package/wingpanel-indicator-network) | 0 | 76 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f28/package/wingpanel-indicator-nightlight) | 0 | 16 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f28/package/wingpanel-indicator-notifications) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f28/package/wingpanel-indicator-power) | 0 | 93 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f28/package/wingpanel-indicator-session) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f28/package/wingpanel-indicator-sound) | 0 | 14 | 0.0 | none | 
 {.sortable}
 
 

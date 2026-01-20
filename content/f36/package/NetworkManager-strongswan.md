@@ -18,7 +18,7 @@ The package NetworkManager-strongswan (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f36/NetworkManager-strongswan/po/de.po | 
+ | [de](/f36/language/de) | 436 | 436 | 100.0 | /mnt/stockage/packages/f36/NetworkManager-strongswan/po/de.po | 
 {.sortable}
 
 

@@ -18,74 +18,74 @@ The package gnome-weather (version 43.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f37/language/af.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/af.po | 
- | [an]({{< ref "/f37/language/an.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/an.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/as.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/bg.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/bn_IN.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/bs.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ca@valencia.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/en_GB.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/eo.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/es.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/et.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fa.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fur.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fy.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/gd.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/gl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/he.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/id.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/is.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ja.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ka.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/kk.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/lv.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ml.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ms.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/nb.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ne.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/oc.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pa.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pt_BR.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sr@latin.po/mnt/stockage/packages/f37/gnome-weather/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sv.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ta.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/te.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/tg.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/th.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/uk.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/zh_TW.po/mnt/stockage/packages/f37/gnome-weather/po/zh_HK.po | 
- | [ab]({{< ref "/f37/language/ab.md" >}}) | 203 | 226 | 89.8 | /mnt/stockage/packages/f37/gnome-weather/po/ab.po | 
- | [ckb]({{< ref "/f37/language/ckb.md" >}}) | 130 | 194 | 67.0 | /mnt/stockage/packages/f37/gnome-weather/po/ckb.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 129 | 203 | 63.5 | /mnt/stockage/packages/f37/gnome-weather/po/kn.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 113 | 183 | 61.7 | /mnt/stockage/packages/f37/gnome-weather/po/ga.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 98 | 191 | 51.3 | /mnt/stockage/packages/f37/gnome-weather/po/ar.po | 
- | [mjw]({{< ref "/f37/language/mjw.md" >}}) | 77 | 194 | 39.7 | /mnt/stockage/packages/f37/gnome-weather/po/mjw.po | 
+ | [af](/f37/language/af) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/af.po | 
+ | [an](/f37/language/an) | 184 | 184 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/an.po | 
+ | [as](/f37/language/as) | 183 | 183 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/as.po | 
+ | [be](/f37/language/be) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/be.po | 
+ | [bg](/f37/language/bg) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/bg.po | 
+ | [bn_IN](/f37/language/bn_IN) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/bn_IN.po | 
+ | [bs](/f37/language/bs) | 184 | 184 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/bs.po | 
+ | [ca](/f37/language/ca) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ca@valencia.po | 
+ | [cs](/f37/language/cs) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/cs.po | 
+ | [da](/f37/language/da) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/da.po | 
+ | [de](/f37/language/de) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/de.po | 
+ | [el](/f37/language/el) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/en_GB.po | 
+ | [eo](/f37/language/eo) | 245 | 245 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/eo.po | 
+ | [es](/f37/language/es) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/es.po | 
+ | [et](/f37/language/et) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/et.po | 
+ | [eu](/f37/language/eu) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/eu.po | 
+ | [fa](/f37/language/fa) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fa.po | 
+ | [fi](/f37/language/fi) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fi.po | 
+ | [fr](/f37/language/fr) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fr.po | 
+ | [fur](/f37/language/fur) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fur.po | 
+ | [fy](/f37/language/fy) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/fy.po | 
+ | [gd](/f37/language/gd) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/gd.po | 
+ | [gl](/f37/language/gl) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/gl.po | 
+ | [he](/f37/language/he) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/he.po | 
+ | [hr](/f37/language/hr) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/hr.po | 
+ | [hu](/f37/language/hu) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/hu.po | 
+ | [id](/f37/language/id) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/id.po | 
+ | [is](/f37/language/is) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/is.po | 
+ | [it](/f37/language/it) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/it.po | 
+ | [ja](/f37/language/ja) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ja.po | 
+ | [ka](/f37/language/ka) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ka.po | 
+ | [kk](/f37/language/kk) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/kk.po | 
+ | [ko](/f37/language/ko) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ko.po | 
+ | [lt](/f37/language/lt) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/lt.po | 
+ | [lv](/f37/language/lv) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/lv.po | 
+ | [ml](/f37/language/ml) | 192 | 192 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ml.po | 
+ | [ms](/f37/language/ms) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ms.po | 
+ | [nb_NO](/f37/language/nb_NO) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/nb.po | 
+ | [ne](/f37/language/ne) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ne.po | 
+ | [nl](/f37/language/nl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/nl.po | 
+ | [oc](/f37/language/oc) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/oc.po | 
+ | [pa](/f37/language/pa) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pa.po | 
+ | [pl](/f37/language/pl) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pl.po | 
+ | [pt](/f37/language/pt) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/pt_BR.po | 
+ | [ro](/f37/language/ro) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ro.po | 
+ | [ru](/f37/language/ru) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ru.po | 
+ | [sk](/f37/language/sk) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sk.po | 
+ | [sl](/f37/language/sl) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sl.po | 
+ | [sr](/f37/language/sr) | 408 | 408 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sr@latin.po/mnt/stockage/packages/f37/gnome-weather/po/sr.po | 
+ | [sv](/f37/language/sv) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/sv.po | 
+ | [ta](/f37/language/ta) | 203 | 203 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/ta.po | 
+ | [te](/f37/language/te) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/te.po | 
+ | [tg](/f37/language/tg) | 195 | 195 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/tg.po | 
+ | [th](/f37/language/th) | 192 | 192 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/th.po | 
+ | [tr](/f37/language/tr) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/tr.po | 
+ | [uk](/f37/language/uk) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/uk.po | 
+ | [vi](/f37/language/vi) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 219 | 219 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 380 | 380 | 100.0 | /mnt/stockage/packages/f37/gnome-weather/po/zh_TW.po/mnt/stockage/packages/f37/gnome-weather/po/zh_HK.po | 
+ | [ab](/f37/language/ab) | 203 | 226 | 89.8 | /mnt/stockage/packages/f37/gnome-weather/po/ab.po | 
+ | [ckb](/f37/language/ckb) | 130 | 194 | 67.0 | /mnt/stockage/packages/f37/gnome-weather/po/ckb.po | 
+ | [kn](/f37/language/kn) | 129 | 203 | 63.5 | /mnt/stockage/packages/f37/gnome-weather/po/kn.po | 
+ | [ga](/f37/language/ga) | 113 | 183 | 61.7 | /mnt/stockage/packages/f37/gnome-weather/po/ga.po | 
+ | [ar](/f37/language/ar) | 98 | 191 | 51.3 | /mnt/stockage/packages/f37/gnome-weather/po/ar.po | 
+ | [mjw](/f37/language/mjw) | 77 | 194 | 39.7 | /mnt/stockage/packages/f37/gnome-weather/po/mjw.po | 
 {.sortable}
 
 

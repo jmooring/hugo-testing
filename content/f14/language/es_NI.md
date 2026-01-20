@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f14/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f14/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnucash]({{< ref "/f14/package/gnucash.md" >}}) | 2856 | 26312 | 10.9 | Spanish es@li.org" | 
+ | [gnome-applets](/f14/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f14/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnucash](/f14/package/gnucash) | 2856 | 26312 | 10.9 | Spanish es@li.org" | 
 {.sortable}
 
 

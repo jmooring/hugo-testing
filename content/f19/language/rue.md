@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 341 | 3350 | 10.2 | Rusyn <rue@li.org> | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 341 | 3350 | 10.2 | Rusyn <rue@li.org> | 
 {.sortable}
 
 

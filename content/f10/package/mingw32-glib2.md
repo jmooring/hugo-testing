@@ -18,93 +18,93 @@ The package mingw32-glib2 (version 2.19.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 2325 | 2325 | 100.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/ca.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2325 | 2325 | 100.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/es.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 2305 | 2325 | 99.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/pt_BR.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2305 | 2325 | 99.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/sv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2305 | 2325 | 99.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/zh_CN.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2300 | 2325 | 98.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/it.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 2299 | 2325 | 98.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/he.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 2278 | 2325 | 98.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/nb.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 2277 | 2325 | 97.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/fi.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 2277 | 2325 | 97.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/uk.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 2206 | 2325 | 94.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/pa.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ar.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/bg.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/de.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/en_GB.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/eu.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/gl.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/hu.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/lt.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/mr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/nl.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/or.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/pt.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ru.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/sq.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/te.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/tr.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/vi.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 2140 | 2325 | 92.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/en_CA.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 2140 | 2325 | 92.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 2140 | 2325 | 92.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/zh_HK.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/be@latin.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/gu.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/kn.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/mk.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/nn.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 1932 | 2325 | 83.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/et.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 1909 | 2325 | 82.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/bn_IN.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1907 | 2325 | 82.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/pl.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 1656 | 2325 | 71.2 | /mnt/stockage/packages/f10/mingw32-glib2/po/ml.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 1388 | 2325 | 59.7 | /mnt/stockage/packages/f10/mingw32-glib2/po/sk.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 1383 | 2325 | 59.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/el.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/ka.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/sr@latin.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/ta.po | 
- | [mai]({{< ref "/f10/language/mai.md" >}}) | 1193 | 2325 | 51.3 | /mnt/stockage/packages/f10/mingw32-glib2/po/mai.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 1173 | 2325 | 50.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/hi.po | 
- | [mg]({{< ref "/f10/language/mg.md" >}}) | 1162 | 2325 | 50.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/mg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 1161 | 2325 | 49.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/bn.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 1161 | 2325 | 49.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/dz.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 1153 | 2325 | 49.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/cy.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 1153 | 2325 | 49.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/fa.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 1048 | 2325 | 45.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/hr.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 1048 | 2325 | 45.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/ne.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 1044 | 2325 | 44.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/be.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 1044 | 2325 | 44.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/id.po | 
- | [tl]({{< ref "/f10/language/tl.md" >}}) | 1044 | 2325 | 44.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/tl.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 929 | 2325 | 40.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/mn.po | 
- | [xh]({{< ref "/f10/language/xh.md" >}}) | 929 | 2325 | 40.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/xh.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 731 | 2325 | 31.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/bs.po | 
- | [sr@ijekavian]({{< ref "/f10/language/sr@ijekavian.md" >}}) | 731 | 2325 | 31.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/sr@ije.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 723 | 2325 | 31.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/az.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 723 | 2325 | 31.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/is.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 723 | 2325 | 31.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/ms.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 711 | 2325 | 30.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/eo.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 711 | 2325 | 30.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/lv.po | 
- | [yi]({{< ref "/f10/language/yi.md" >}}) | 711 | 2325 | 30.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/yi.po | 
- | [as]({{< ref "/f10/language/as.md" >}}) | 570 | 2325 | 24.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/as.po | 
- | [ps]({{< ref "/f10/language/ps.md" >}}) | 437 | 2325 | 18.8 | /mnt/stockage/packages/f10/mingw32-glib2/po/ps.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 378 | 2325 | 16.3 | /mnt/stockage/packages/f10/mingw32-glib2/po/ga.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 367 | 2325 | 15.8 | /mnt/stockage/packages/f10/mingw32-glib2/po/si.po | 
- | [tt]({{< ref "/f10/language/tt.md" >}}) | 310 | 2325 | 13.3 | /mnt/stockage/packages/f10/mingw32-glib2/po/tt.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 288 | 2325 | 12.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/wa.po | 
- | [hy]({{< ref "/f10/language/hy.md" >}}) | 130 | 2325 | 5.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/hy.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 36 | 2325 | 1.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ku.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 36 | 2325 | 1.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/oc.po | 
- | [am]({{< ref "/f10/language/am.md" >}}) | 12 | 2325 | 0.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/am.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 1 | 2325 | 0.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/rw.po | 
+ | [ca](/f10/language/ca) | 2325 | 2325 | 100.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/ca.po | 
+ | [es](/f10/language/es) | 2325 | 2325 | 100.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/es.po | 
+ | [pt_BR](/f10/language/pt_BR) | 2305 | 2325 | 99.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/pt_BR.po | 
+ | [sv](/f10/language/sv) | 2305 | 2325 | 99.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/sv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2305 | 2325 | 99.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/zh_CN.po | 
+ | [it](/f10/language/it) | 2300 | 2325 | 98.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/it.po | 
+ | [he](/f10/language/he) | 2299 | 2325 | 98.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/he.po | 
+ | [nb_NO](/f10/language/nb_NO) | 2278 | 2325 | 98.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/nb.po | 
+ | [fi](/f10/language/fi) | 2277 | 2325 | 97.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/fi.po | 
+ | [uk](/f10/language/uk) | 2277 | 2325 | 97.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/uk.po | 
+ | [pa](/f10/language/pa) | 2206 | 2325 | 94.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/pa.po | 
+ | [ar](/f10/language/ar) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ar.po | 
+ | [bg](/f10/language/bg) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/bg.po | 
+ | [cs](/f10/language/cs) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/cs.po | 
+ | [da](/f10/language/da) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/da.po | 
+ | [de](/f10/language/de) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/de.po | 
+ | [en_GB](/f10/language/en_GB) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/en_GB.po | 
+ | [eu](/f10/language/eu) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/eu.po | 
+ | [fr](/f10/language/fr) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/fr.po | 
+ | [gl](/f10/language/gl) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/gl.po | 
+ | [hu](/f10/language/hu) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/hu.po | 
+ | [ja](/f10/language/ja) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ja.po | 
+ | [ko](/f10/language/ko) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ko.po | 
+ | [lt](/f10/language/lt) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/lt.po | 
+ | [mr](/f10/language/mr) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/mr.po | 
+ | [nl](/f10/language/nl) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/nl.po | 
+ | [or](/f10/language/or) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/or.po | 
+ | [pt](/f10/language/pt) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/pt.po | 
+ | [ro](/f10/language/ro) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ro.po | 
+ | [ru](/f10/language/ru) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ru.po | 
+ | [sl](/f10/language/sl) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/sl.po | 
+ | [sq](/f10/language/sq) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/sq.po | 
+ | [te](/f10/language/te) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/te.po | 
+ | [th](/f10/language/th) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/th.po | 
+ | [tr](/f10/language/tr) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/tr.po | 
+ | [vi](/f10/language/vi) | 2197 | 2325 | 94.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/vi.po | 
+ | [en_CA](/f10/language/en_CA) | 2140 | 2325 | 92.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/en_CA.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 2140 | 2325 | 92.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 2140 | 2325 | 92.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/zh_HK.po | 
+ | [be_Latn](/f10/language/be_Latn) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/be@latin.po | 
+ | [gu](/f10/language/gu) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/gu.po | 
+ | [kn](/f10/language/kn) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/kn.po | 
+ | [mk](/f10/language/mk) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/mk.po | 
+ | [nn](/f10/language/nn) | 2102 | 2325 | 90.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/nn.po | 
+ | [et](/f10/language/et) | 1932 | 2325 | 83.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/et.po | 
+ | [bn_IN](/f10/language/bn_IN) | 1909 | 2325 | 82.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/bn_IN.po | 
+ | [pl](/f10/language/pl) | 1907 | 2325 | 82.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/pl.po | 
+ | [ml](/f10/language/ml) | 1656 | 2325 | 71.2 | /mnt/stockage/packages/f10/mingw32-glib2/po/ml.po | 
+ | [sk](/f10/language/sk) | 1388 | 2325 | 59.7 | /mnt/stockage/packages/f10/mingw32-glib2/po/sk.po | 
+ | [el](/f10/language/el) | 1383 | 2325 | 59.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/el.po | 
+ | [ka](/f10/language/ka) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/ka.po | 
+ | [sr](/f10/language/sr) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/sr@latin.po | 
+ | [ta](/f10/language/ta) | 1335 | 2325 | 57.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/ta.po | 
+ | [mai](/f10/language/mai) | 1193 | 2325 | 51.3 | /mnt/stockage/packages/f10/mingw32-glib2/po/mai.po | 
+ | [hi](/f10/language/hi) | 1173 | 2325 | 50.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/hi.po | 
+ | [mg](/f10/language/mg) | 1162 | 2325 | 50.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/mg.po | 
+ | [bn](/f10/language/bn) | 1161 | 2325 | 49.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/bn.po | 
+ | [dz](/f10/language/dz) | 1161 | 2325 | 49.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/dz.po | 
+ | [cy](/f10/language/cy) | 1153 | 2325 | 49.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/cy.po | 
+ | [fa](/f10/language/fa) | 1153 | 2325 | 49.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/fa.po | 
+ | [hr](/f10/language/hr) | 1048 | 2325 | 45.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/hr.po | 
+ | [ne](/f10/language/ne) | 1048 | 2325 | 45.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/ne.po | 
+ | [be](/f10/language/be) | 1044 | 2325 | 44.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/be.po | 
+ | [id](/f10/language/id) | 1044 | 2325 | 44.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/id.po | 
+ | [tl](/f10/language/tl) | 1044 | 2325 | 44.9 | /mnt/stockage/packages/f10/mingw32-glib2/po/tl.po | 
+ | [mn](/f10/language/mn) | 929 | 2325 | 40.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/mn.po | 
+ | [xh](/f10/language/xh) | 929 | 2325 | 40.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/xh.po | 
+ | [bs](/f10/language/bs) | 731 | 2325 | 31.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/bs.po | 
+ | [sr@ijekavian](/f10/language/sr@ijekavian) | 731 | 2325 | 31.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/sr@ije.po | 
+ | [az](/f10/language/az) | 723 | 2325 | 31.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/az.po | 
+ | [is](/f10/language/is) | 723 | 2325 | 31.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/is.po | 
+ | [ms](/f10/language/ms) | 723 | 2325 | 31.1 | /mnt/stockage/packages/f10/mingw32-glib2/po/ms.po | 
+ | [eo](/f10/language/eo) | 711 | 2325 | 30.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/eo.po | 
+ | [lv](/f10/language/lv) | 711 | 2325 | 30.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/lv.po | 
+ | [yi](/f10/language/yi) | 711 | 2325 | 30.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/yi.po | 
+ | [as](/f10/language/as) | 570 | 2325 | 24.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/as.po | 
+ | [ps](/f10/language/ps) | 437 | 2325 | 18.8 | /mnt/stockage/packages/f10/mingw32-glib2/po/ps.po | 
+ | [ga](/f10/language/ga) | 378 | 2325 | 16.3 | /mnt/stockage/packages/f10/mingw32-glib2/po/ga.po | 
+ | [si](/f10/language/si) | 367 | 2325 | 15.8 | /mnt/stockage/packages/f10/mingw32-glib2/po/si.po | 
+ | [tt](/f10/language/tt) | 310 | 2325 | 13.3 | /mnt/stockage/packages/f10/mingw32-glib2/po/tt.po | 
+ | [wa](/f10/language/wa) | 288 | 2325 | 12.4 | /mnt/stockage/packages/f10/mingw32-glib2/po/wa.po | 
+ | [hy](/f10/language/hy) | 130 | 2325 | 5.6 | /mnt/stockage/packages/f10/mingw32-glib2/po/hy.po | 
+ | [ku](/f10/language/ku) | 36 | 2325 | 1.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/ku.po | 
+ | [oc](/f10/language/oc) | 36 | 2325 | 1.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/oc.po | 
+ | [am](/f10/language/am) | 12 | 2325 | 0.5 | /mnt/stockage/packages/f10/mingw32-glib2/po/am.po | 
+ | [rw](/f10/language/rw) | 1 | 2325 | 0.0 | /mnt/stockage/packages/f10/mingw32-glib2/po/rw.po | 
 {.sortable}
 
 

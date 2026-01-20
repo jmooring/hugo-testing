@@ -18,23 +18,23 @@ The package gtkhash (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/gtkhash/po/en_GB.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 108 | 118 | 91.5 | /mnt/stockage/packages/f18/gtkhash/po/it.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 83 | 118 | 70.3 | /mnt/stockage/packages/f18/gtkhash/po/pl.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 62 | 118 | 52.5 | /mnt/stockage/packages/f18/gtkhash/po/gl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 60 | 118 | 50.8 | /mnt/stockage/packages/f18/gtkhash/po/sr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 28 | 118 | 23.7 | /mnt/stockage/packages/f18/gtkhash/po/ru.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 23 | 118 | 19.5 | /mnt/stockage/packages/f18/gtkhash/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 23 | 118 | 19.5 | /mnt/stockage/packages/f18/gtkhash/po/fr.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 23 | 118 | 19.5 | /mnt/stockage/packages/f18/gtkhash/po/pt_BR.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 22 | 118 | 18.6 | /mnt/stockage/packages/f18/gtkhash/po/nl.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 22 | 118 | 18.6 | /mnt/stockage/packages/f18/gtkhash/po/zh_CN.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 14 | 118 | 11.9 | /mnt/stockage/packages/f18/gtkhash/po/de.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 12 | 118 | 10.2 | /mnt/stockage/packages/f18/gtkhash/po/cs.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 11 | 118 | 9.3 | /mnt/stockage/packages/f18/gtkhash/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 10 | 118 | 8.5 | /mnt/stockage/packages/f18/gtkhash/po/tr.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 9 | 118 | 7.6 | /mnt/stockage/packages/f18/gtkhash/po/eo.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 1 | 118 | 0.8 | /mnt/stockage/packages/f18/gtkhash/po/ja.po | 
+ | [en_GB](/f18/language/en_GB) | 118 | 118 | 100.0 | /mnt/stockage/packages/f18/gtkhash/po/en_GB.po | 
+ | [it](/f18/language/it) | 108 | 118 | 91.5 | /mnt/stockage/packages/f18/gtkhash/po/it.po | 
+ | [pl](/f18/language/pl) | 83 | 118 | 70.3 | /mnt/stockage/packages/f18/gtkhash/po/pl.po | 
+ | [gl](/f18/language/gl) | 62 | 118 | 52.5 | /mnt/stockage/packages/f18/gtkhash/po/gl.po | 
+ | [sr](/f18/language/sr) | 60 | 118 | 50.8 | /mnt/stockage/packages/f18/gtkhash/po/sr.po | 
+ | [ru](/f18/language/ru) | 28 | 118 | 23.7 | /mnt/stockage/packages/f18/gtkhash/po/ru.po | 
+ | [es](/f18/language/es) | 23 | 118 | 19.5 | /mnt/stockage/packages/f18/gtkhash/po/es.po | 
+ | [fr](/f18/language/fr) | 23 | 118 | 19.5 | /mnt/stockage/packages/f18/gtkhash/po/fr.po | 
+ | [pt_BR](/f18/language/pt_BR) | 23 | 118 | 19.5 | /mnt/stockage/packages/f18/gtkhash/po/pt_BR.po | 
+ | [nl](/f18/language/nl) | 22 | 118 | 18.6 | /mnt/stockage/packages/f18/gtkhash/po/nl.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 22 | 118 | 18.6 | /mnt/stockage/packages/f18/gtkhash/po/zh_CN.po | 
+ | [de](/f18/language/de) | 14 | 118 | 11.9 | /mnt/stockage/packages/f18/gtkhash/po/de.po | 
+ | [cs](/f18/language/cs) | 12 | 118 | 10.2 | /mnt/stockage/packages/f18/gtkhash/po/cs.po | 
+ | [sv](/f18/language/sv) | 11 | 118 | 9.3 | /mnt/stockage/packages/f18/gtkhash/po/sv.po | 
+ | [tr](/f18/language/tr) | 10 | 118 | 8.5 | /mnt/stockage/packages/f18/gtkhash/po/tr.po | 
+ | [eo](/f18/language/eo) | 9 | 118 | 7.6 | /mnt/stockage/packages/f18/gtkhash/po/eo.po | 
+ | [ja](/f18/language/ja) | 1 | 118 | 0.8 | /mnt/stockage/packages/f18/gtkhash/po/ja.po | 
 {.sortable}
 
 

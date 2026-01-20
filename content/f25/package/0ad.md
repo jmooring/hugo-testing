@@ -18,30 +18,30 @@ The package 0ad (version 0.0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/bg.engine.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/ca.engine.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/cs.engine.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/de.engine.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/el.engine.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/en_GB.engine.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/es.engine.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/eu.engine.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/fr.engine.po | 
- | [gd]({{< ref "/f25/language/gd.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/gd.engine.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/gl.engine.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/hu.engine.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/id.engine.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/it.engine.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/nb.engine.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/nl.engine.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/pl.engine.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/pt_BR.engine.po | 
- | [pt_PT]({{< ref "/f25/language/pt_PT.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/pt_PT.engine.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/ru.engine.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/sk.engine.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/sv.engine.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/tr.engine.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/uk.engine.po | 
+ | [bg](/f25/language/bg) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/bg.engine.po | 
+ | [ca](/f25/language/ca) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/ca.engine.po | 
+ | [cs](/f25/language/cs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/cs.engine.po | 
+ | [de](/f25/language/de) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/de.engine.po | 
+ | [el](/f25/language/el) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/el.engine.po | 
+ | [en_GB](/f25/language/en_GB) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/en_GB.engine.po | 
+ | [es](/f25/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/es.engine.po | 
+ | [eu](/f25/language/eu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/eu.engine.po | 
+ | [fr](/f25/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/fr.engine.po | 
+ | [gd](/f25/language/gd) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/gd.engine.po | 
+ | [gl](/f25/language/gl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/gl.engine.po | 
+ | [hu](/f25/language/hu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/hu.engine.po | 
+ | [id](/f25/language/id) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/id.engine.po | 
+ | [it](/f25/language/it) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/it.engine.po | 
+ | [nb_NO](/f25/language/nb_NO) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/nb.engine.po | 
+ | [nl](/f25/language/nl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/nl.engine.po | 
+ | [pl](/f25/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/pl.engine.po | 
+ | [pt_BR](/f25/language/pt_BR) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/pt_BR.engine.po | 
+ | [pt_PT](/f25/language/pt_PT) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/pt_PT.engine.po | 
+ | [ru](/f25/language/ru) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/ru.engine.po | 
+ | [sk](/f25/language/sk) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/sk.engine.po | 
+ | [sv](/f25/language/sv) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/sv.engine.po | 
+ | [tr](/f25/language/tr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/tr.engine.po | 
+ | [uk](/f25/language/uk) | 136 | 136 | 100.0 | /mnt/stockage/packages/f25/0ad/binaries/data/l10n/uk.engine.po | 
 {.sortable}
 
 

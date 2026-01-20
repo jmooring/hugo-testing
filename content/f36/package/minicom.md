@@ -18,26 +18,26 @@ The package minicom (version 2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f36/language/da.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/de.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/fr.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/nb.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/pt_BR.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/sv.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/vi.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/fi.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/id.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/zh_TW.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 1398 | 1935 | 72.2 | /mnt/stockage/packages/f36/minicom/po/ru.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 1342 | 1935 | 69.4 | /mnt/stockage/packages/f36/minicom/po/ja.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1177 | 1935 | 60.8 | /mnt/stockage/packages/f36/minicom/po/ro.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1168 | 1935 | 60.4 | /mnt/stockage/packages/f36/minicom/po/cs.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 1117 | 1935 | 57.7 | /mnt/stockage/packages/f36/minicom/po/hu.po | 
- | [rw]({{< ref "/f36/language/rw.md" >}}) | 12 | 1935 | 0.6 | /mnt/stockage/packages/f36/minicom/po/rw.po | 
+ | [da](/f36/language/da) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/da.po | 
+ | [de](/f36/language/de) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/de.po | 
+ | [fr](/f36/language/fr) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/fr.po | 
+ | [nb_NO](/f36/language/nb_NO) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/nb.po | 
+ | [pl](/f36/language/pl) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/pt_BR.po | 
+ | [sr](/f36/language/sr) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/sr.po | 
+ | [sv](/f36/language/sv) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/sv.po | 
+ | [vi](/f36/language/vi) | 1556 | 1935 | 80.4 | /mnt/stockage/packages/f36/minicom/po/vi.po | 
+ | [es](/f36/language/es) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/es.po | 
+ | [fi](/f36/language/fi) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/fi.po | 
+ | [id](/f36/language/id) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/id.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 1541 | 1935 | 79.6 | /mnt/stockage/packages/f36/minicom/po/zh_TW.po | 
+ | [ru](/f36/language/ru) | 1398 | 1935 | 72.2 | /mnt/stockage/packages/f36/minicom/po/ru.po | 
+ | [ja](/f36/language/ja) | 1342 | 1935 | 69.4 | /mnt/stockage/packages/f36/minicom/po/ja.po | 
+ | [ro](/f36/language/ro) | 1177 | 1935 | 60.8 | /mnt/stockage/packages/f36/minicom/po/ro.po | 
+ | [cs](/f36/language/cs) | 1168 | 1935 | 60.4 | /mnt/stockage/packages/f36/minicom/po/cs.po | 
+ | [hu](/f36/language/hu) | 1117 | 1935 | 57.7 | /mnt/stockage/packages/f36/minicom/po/hu.po | 
+ | [rw](/f36/language/rw) | 12 | 1935 | 0.6 | /mnt/stockage/packages/f36/minicom/po/rw.po | 
 {.sortable}
 
 

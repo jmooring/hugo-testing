@@ -18,11 +18,11 @@ The package revelation (version 0.4.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f12/revelation/po/fr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f12/revelation/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 1825 | 1899 | 96.1 | /mnt/stockage/packages/f12/revelation/po/zh.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1472 | 1899 | 77.5 | /mnt/stockage/packages/f12/revelation/po/de.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1241 | 1899 | 65.4 | /mnt/stockage/packages/f12/revelation/po/cs.po | 
+ | [fr](/f12/language/fr) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f12/revelation/po/fr.po | 
+ | [sv](/f12/language/sv) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f12/revelation/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 1825 | 1899 | 96.1 | /mnt/stockage/packages/f12/revelation/po/zh.po | 
+ | [de](/f12/language/de) | 1472 | 1899 | 77.5 | /mnt/stockage/packages/f12/revelation/po/de.po | 
+ | [cs](/f12/language/cs) | 1241 | 1899 | 65.4 | /mnt/stockage/packages/f12/revelation/po/cs.po | 
 {.sortable}
 
 

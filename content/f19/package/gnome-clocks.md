@@ -18,59 +18,59 @@ The package gnome-clocks (version 3.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ar.po | 
- | [as]({{< ref "/f19/language/as.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/as.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/be.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ca.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ca@valencia.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/eu.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/fa.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/gu.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ja.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/lv.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ml.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/mr.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/nl.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sr.po/mnt/stockage/packages/f19/gnome-clocks/po/sr@latin.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/te.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/th.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/zh_HK.po/mnt/stockage/packages/f19/gnome-clocks/po/zh_TW.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f19/gnome-clocks/po/ug.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 88 | 106 | 83.0 | /mnt/stockage/packages/f19/gnome-clocks/po/eo.po | 
- | [tg]({{< ref "/f19/language/tg.md" >}}) | 62 | 135 | 45.9 | /mnt/stockage/packages/f19/gnome-clocks/po/tg.po | 
+ | [ar](/f19/language/ar) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ar.po | 
+ | [as](/f19/language/as) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/as.po | 
+ | [be](/f19/language/be) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/be.po | 
+ | [bg](/f19/language/bg) | 106 | 106 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/bg.po | 
+ | [ca](/f19/language/ca) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ca.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ca@valencia.po | 
+ | [cs](/f19/language/cs) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/cs.po | 
+ | [da](/f19/language/da) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/da.po | 
+ | [de](/f19/language/de) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/de.po | 
+ | [el](/f19/language/el) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/en_GB.po | 
+ | [es](/f19/language/es) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/es.po | 
+ | [et](/f19/language/et) | 98 | 98 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/et.po | 
+ | [eu](/f19/language/eu) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/eu.po | 
+ | [fa](/f19/language/fa) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/fa.po | 
+ | [fi](/f19/language/fi) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/fi.po | 
+ | [fr](/f19/language/fr) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/fr.po | 
+ | [gl](/f19/language/gl) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/gl.po | 
+ | [gu](/f19/language/gu) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/gu.po | 
+ | [he](/f19/language/he) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/he.po | 
+ | [hi](/f19/language/hi) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/hi.po | 
+ | [hu](/f19/language/hu) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/hu.po | 
+ | [id](/f19/language/id) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/id.po | 
+ | [it](/f19/language/it) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/it.po | 
+ | [ja](/f19/language/ja) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ja.po | 
+ | [ko](/f19/language/ko) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ko.po | 
+ | [lt](/f19/language/lt) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/lt.po | 
+ | [lv](/f19/language/lv) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/lv.po | 
+ | [ml](/f19/language/ml) | 121 | 121 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ml.po | 
+ | [mr](/f19/language/mr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/mr.po | 
+ | [nb_NO](/f19/language/nb_NO) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/nb.po | 
+ | [nl](/f19/language/nl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/nl.po | 
+ | [or](/f19/language/or) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/or.po | 
+ | [pa](/f19/language/pa) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pa.po | 
+ | [pl](/f19/language/pl) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pl.po | 
+ | [pt](/f19/language/pt) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ru.po | 
+ | [sk](/f19/language/sk) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sk.po | 
+ | [sl](/f19/language/sl) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sl.po | 
+ | [sr](/f19/language/sr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sr.po/mnt/stockage/packages/f19/gnome-clocks/po/sr@latin.po | 
+ | [sv](/f19/language/sv) | 92 | 92 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/sv.po | 
+ | [ta](/f19/language/ta) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/ta.po | 
+ | [te](/f19/language/te) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/te.po | 
+ | [th](/f19/language/th) | 94 | 94 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/th.po | 
+ | [tr](/f19/language/tr) | 121 | 121 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/tr.po | 
+ | [uk](/f19/language/uk) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/uk.po | 
+ | [vi](/f19/language/vi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 135 | 135 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-clocks/po/zh_HK.po/mnt/stockage/packages/f19/gnome-clocks/po/zh_TW.po | 
+ | [ug](/f19/language/ug) | 127 | 128 | 99.2 | /mnt/stockage/packages/f19/gnome-clocks/po/ug.po | 
+ | [eo](/f19/language/eo) | 88 | 106 | 83.0 | /mnt/stockage/packages/f19/gnome-clocks/po/eo.po | 
+ | [tg](/f19/language/tg) | 62 | 135 | 45.9 | /mnt/stockage/packages/f19/gnome-clocks/po/tg.po | 
 {.sortable}
 
 

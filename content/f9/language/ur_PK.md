@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [file-roller]({{< ref "/f9/package/file-roller.md" >}}) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [minbar]({{< ref "/f9/package/minbar.md" >}}) | 418 | 418 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-sensors-plugin]({{< ref "/f9/package/xfce4-sensors-plugin.md" >}}) | 36 | 99 | 36.4 | Urdu <makki.ma@gmail.com> | 
- | [pgadmin3]({{< ref "/f9/package/pgadmin3.md" >}}) | 1373 | 7331 | 18.7 | urdu <pgadmin-hackers@postgresql.org> | 
+ | [file-roller](/f9/package/file-roller) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [minbar](/f9/package/minbar) | 418 | 418 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-sensors-plugin](/f9/package/xfce4-sensors-plugin) | 36 | 99 | 36.4 | Urdu <makki.ma@gmail.com> | 
+ | [pgadmin3](/f9/package/pgadmin3) | 1373 | 7331 | 18.7 | urdu <pgadmin-hackers@postgresql.org> | 
 {.sortable}
 
 

@@ -18,60 +18,60 @@ The package gnome-characters (version 3.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f33/language/af.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/af.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ar.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/be.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ca.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/en_GB.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fa.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fur.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/gd.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/gl.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/gu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/he.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/id.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ja.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/kk.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ko.po | 
- | [ln]({{< ref "/f33/language/ln.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ln.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/lv.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ml.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ms.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/nb.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ne.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/nl.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/oc.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sr@latin.po/mnt/stockage/packages/f33/gnome-characters/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/zh_TW.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 149 | 186 | 80.1 | /mnt/stockage/packages/f33/gnome-characters/po/ta.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 80 | 146 | 54.8 | /mnt/stockage/packages/f33/gnome-characters/po/pa.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 49 | 161 | 30.4 | /mnt/stockage/packages/f33/gnome-characters/po/tg.po | 
+ | [af](/f33/language/af) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/af.po | 
+ | [ar](/f33/language/ar) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ar.po | 
+ | [be](/f33/language/be) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/be.po | 
+ | [ca](/f33/language/ca) | 185 | 185 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ca.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/cs.po | 
+ | [da](/f33/language/da) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/da.po | 
+ | [de](/f33/language/de) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/de.po | 
+ | [el](/f33/language/el) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/en_GB.po | 
+ | [eo](/f33/language/eo) | 185 | 185 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/eo.po | 
+ | [es](/f33/language/es) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/es.po | 
+ | [eu](/f33/language/eu) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/eu.po | 
+ | [fa](/f33/language/fa) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fa.po | 
+ | [fi](/f33/language/fi) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fi.po | 
+ | [fr](/f33/language/fr) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fr.po | 
+ | [fur](/f33/language/fur) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/fur.po | 
+ | [gd](/f33/language/gd) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/gd.po | 
+ | [gl](/f33/language/gl) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/gl.po | 
+ | [gu](/f33/language/gu) | 161 | 161 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/gu.po | 
+ | [he](/f33/language/he) | 161 | 161 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/he.po | 
+ | [hr](/f33/language/hr) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/hr.po | 
+ | [hu](/f33/language/hu) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/hu.po | 
+ | [id](/f33/language/id) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/id.po | 
+ | [is](/f33/language/is) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/is.po | 
+ | [it](/f33/language/it) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/it.po | 
+ | [ja](/f33/language/ja) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ja.po | 
+ | [kk](/f33/language/kk) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/kk.po | 
+ | [ko](/f33/language/ko) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ko.po | 
+ | [ln](/f33/language/ln) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ln.po | 
+ | [lt](/f33/language/lt) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/lt.po | 
+ | [lv](/f33/language/lv) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/lv.po | 
+ | [ml](/f33/language/ml) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ml.po | 
+ | [ms](/f33/language/ms) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ms.po | 
+ | [nb_NO](/f33/language/nb_NO) | 185 | 185 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/nb.po | 
+ | [ne](/f33/language/ne) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ne.po | 
+ | [nl](/f33/language/nl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/nl.po | 
+ | [oc](/f33/language/oc) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/oc.po | 
+ | [pl](/f33/language/pl) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/pl.po | 
+ | [pt](/f33/language/pt) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ro.po | 
+ | [ru](/f33/language/ru) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/ru.po | 
+ | [sk](/f33/language/sk) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sk.po | 
+ | [sl](/f33/language/sl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sl.po | 
+ | [sr](/f33/language/sr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sr@latin.po/mnt/stockage/packages/f33/gnome-characters/po/sr.po | 
+ | [sv](/f33/language/sv) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/sv.po | 
+ | [tr](/f33/language/tr) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/tr.po | 
+ | [uk](/f33/language/uk) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 186 | 186 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 188 | 188 | 100.0 | /mnt/stockage/packages/f33/gnome-characters/po/zh_TW.po | 
+ | [ta](/f33/language/ta) | 149 | 186 | 80.1 | /mnt/stockage/packages/f33/gnome-characters/po/ta.po | 
+ | [pa](/f33/language/pa) | 80 | 146 | 54.8 | /mnt/stockage/packages/f33/gnome-characters/po/pa.po | 
+ | [tg](/f33/language/tg) | 49 | 161 | 30.4 | /mnt/stockage/packages/f33/gnome-characters/po/tg.po | 
 {.sortable}
 
 

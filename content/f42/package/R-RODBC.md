@@ -18,11 +18,11 @@ The package R-RODBC (version 1.3.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f42/language/error.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f42/R-RODBC/po/R-pl.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 295 | 305 | 96.7 | /mnt/stockage/packages/f42/R-RODBC/po/R-de.po/mnt/stockage/packages/f42/R-RODBC/po/de.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 295 | 305 | 96.7 | /mnt/stockage/packages/f42/R-RODBC/po/it.po/mnt/stockage/packages/f42/R-RODBC/po/R-it.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 97 | 107 | 90.7 | /mnt/stockage/packages/f42/R-RODBC/po/pl.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 273 | 305 | 89.5 | /mnt/stockage/packages/f42/R-RODBC/po/da.po/mnt/stockage/packages/f42/R-RODBC/po/R-da.po | 
+ | [error](/f42/language/error) | 198 | 198 | 100.0 | /mnt/stockage/packages/f42/R-RODBC/po/R-pl.po | 
+ | [de](/f42/language/de) | 295 | 305 | 96.7 | /mnt/stockage/packages/f42/R-RODBC/po/R-de.po/mnt/stockage/packages/f42/R-RODBC/po/de.po | 
+ | [it](/f42/language/it) | 295 | 305 | 96.7 | /mnt/stockage/packages/f42/R-RODBC/po/it.po/mnt/stockage/packages/f42/R-RODBC/po/R-it.po | 
+ | [pl](/f42/language/pl) | 97 | 107 | 90.7 | /mnt/stockage/packages/f42/R-RODBC/po/pl.po | 
+ | [da](/f42/language/da) | 273 | 305 | 89.5 | /mnt/stockage/packages/f42/R-RODBC/po/da.po/mnt/stockage/packages/f42/R-RODBC/po/R-da.po | 
 {.sortable}
 
 

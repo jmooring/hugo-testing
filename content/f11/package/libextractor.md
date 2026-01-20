@@ -18,14 +18,14 @@ The package libextractor (version 0.5.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 777 | 805 | 96.5 | /mnt/stockage/packages/f11/libextractor/po/ga.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 777 | 805 | 96.5 | /mnt/stockage/packages/f11/libextractor/po/sv.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 777 | 805 | 96.5 | /mnt/stockage/packages/f11/libextractor/po/vi.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 753 | 805 | 93.5 | /mnt/stockage/packages/f11/libextractor/po/de.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 738 | 805 | 91.7 | /mnt/stockage/packages/f11/libextractor/po/nl.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 681 | 805 | 84.6 | /mnt/stockage/packages/f11/libextractor/po/fr.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 590 | 805 | 73.3 | /mnt/stockage/packages/f11/libextractor/po/ro.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 16 | 805 | 2.0 | /mnt/stockage/packages/f11/libextractor/po/rw.po | 
+ | [ga](/f11/language/ga) | 777 | 805 | 96.5 | /mnt/stockage/packages/f11/libextractor/po/ga.po | 
+ | [sv](/f11/language/sv) | 777 | 805 | 96.5 | /mnt/stockage/packages/f11/libextractor/po/sv.po | 
+ | [vi](/f11/language/vi) | 777 | 805 | 96.5 | /mnt/stockage/packages/f11/libextractor/po/vi.po | 
+ | [de](/f11/language/de) | 753 | 805 | 93.5 | /mnt/stockage/packages/f11/libextractor/po/de.po | 
+ | [nl](/f11/language/nl) | 738 | 805 | 91.7 | /mnt/stockage/packages/f11/libextractor/po/nl.po | 
+ | [fr](/f11/language/fr) | 681 | 805 | 84.6 | /mnt/stockage/packages/f11/libextractor/po/fr.po | 
+ | [ro](/f11/language/ro) | 590 | 805 | 73.3 | /mnt/stockage/packages/f11/libextractor/po/ro.po | 
+ | [rw](/f11/language/rw) | 16 | 805 | 2.0 | /mnt/stockage/packages/f11/libextractor/po/rw.po | 
 {.sortable}
 
 

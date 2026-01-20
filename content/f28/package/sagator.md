@@ -18,8 +18,8 @@ The package sagator (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f28/sagator/po/sk.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 296 | 309 | 95.8 | /mnt/stockage/packages/f28/sagator/po/it_IT.po | 
+ | [sk](/f28/language/sk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f28/sagator/po/sk.po | 
+ | [it](/f28/language/it) | 296 | 309 | 95.8 | /mnt/stockage/packages/f28/sagator/po/it_IT.po | 
 {.sortable}
 
 

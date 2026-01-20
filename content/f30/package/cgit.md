@@ -18,24 +18,24 @@ The package cgit (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 28215 | 28215 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/bg.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/bg.po/mnt/stockage/packages/f30/cgit/gitk-git/po/bg.po/mnt/stockage/packages/f30/cgit/po/bg.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 26241 | 26241 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/de.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f30/cgit/gitk-git/po/de.po/mnt/stockage/packages/f30/cgit/po/de.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f30/cgit/po/is.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f30/cgit/po/ko.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 25334 | 25334 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/pt_pt.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f30/cgit/gitk-git/po/pt_pt.po/mnt/stockage/packages/f30/cgit/po/pt_PT.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 25647 | 25647 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/ru.po/mnt/stockage/packages/f30/cgit/gitk-git/po/ru.po/mnt/stockage/packages/f30/cgit/po/ru.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 28025 | 28025 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/sv.po/mnt/stockage/packages/f30/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f30/cgit/po/sv.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 27998 | 27998 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/vi.po/mnt/stockage/packages/f30/cgit/gitk-git/po/vi.po/mnt/stockage/packages/f30/cgit/po/vi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 27909 | 27922 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/fr.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f30/cgit/gitk-git/po/fr.po/mnt/stockage/packages/f30/cgit/po/fr.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f30/cgit/git-gui/po/ja.po/mnt/stockage/packages/f30/cgit/gitk-git/po/ja.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 26171 | 26249 | 99.7 | /mnt/stockage/packages/f30/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f30/cgit/po/zh_CN.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 1887 | 1911 | 98.7 | /mnt/stockage/packages/f30/cgit/git-gui/po/el.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/el.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 23407 | 23807 | 98.3 | /mnt/stockage/packages/f30/cgit/gitk-git/po/ca.po/mnt/stockage/packages/f30/cgit/po/ca.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 24980 | 25481 | 98.0 | /mnt/stockage/packages/f30/cgit/gitk-git/po/es.po/mnt/stockage/packages/f30/cgit/po/es.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f30/cgit/git-gui/po/hu.po/mnt/stockage/packages/f30/cgit/gitk-git/po/hu.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f30/cgit/gitk-git/po/pt_br.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f30/cgit/git-gui/po/nb.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 7608 | 10510 | 72.4 | /mnt/stockage/packages/f30/cgit/git-gui/po/it.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f30/cgit/gitk-git/po/it.po/mnt/stockage/packages/f30/cgit/po/it.po | 
+ | [bg](/f30/language/bg) | 28215 | 28215 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/bg.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/bg.po/mnt/stockage/packages/f30/cgit/gitk-git/po/bg.po/mnt/stockage/packages/f30/cgit/po/bg.po | 
+ | [de](/f30/language/de) | 26241 | 26241 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/de.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f30/cgit/gitk-git/po/de.po/mnt/stockage/packages/f30/cgit/po/de.po | 
+ | [is](/f30/language/is) | 81 | 81 | 100.0 | /mnt/stockage/packages/f30/cgit/po/is.po | 
+ | [ko](/f30/language/ko) | 24346 | 24346 | 100.0 | /mnt/stockage/packages/f30/cgit/po/ko.po | 
+ | [pt](/f30/language/pt) | 25334 | 25334 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/pt_pt.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/pt_pt.po/mnt/stockage/packages/f30/cgit/gitk-git/po/pt_pt.po/mnt/stockage/packages/f30/cgit/po/pt_PT.po | 
+ | [ru](/f30/language/ru) | 25647 | 25647 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/ru.po/mnt/stockage/packages/f30/cgit/gitk-git/po/ru.po/mnt/stockage/packages/f30/cgit/po/ru.po | 
+ | [sv](/f30/language/sv) | 28025 | 28025 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/sv.po/mnt/stockage/packages/f30/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f30/cgit/po/sv.po | 
+ | [vi](/f30/language/vi) | 27998 | 27998 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/vi.po/mnt/stockage/packages/f30/cgit/gitk-git/po/vi.po/mnt/stockage/packages/f30/cgit/po/vi.po | 
+ | [fr](/f30/language/fr) | 27909 | 27922 | 100.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/fr.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f30/cgit/gitk-git/po/fr.po/mnt/stockage/packages/f30/cgit/po/fr.po | 
+ | [ja](/f30/language/ja) | 3675 | 3677 | 99.9 | /mnt/stockage/packages/f30/cgit/git-gui/po/ja.po/mnt/stockage/packages/f30/cgit/gitk-git/po/ja.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 26171 | 26249 | 99.7 | /mnt/stockage/packages/f30/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f30/cgit/po/zh_CN.po | 
+ | [el](/f30/language/el) | 1887 | 1911 | 98.7 | /mnt/stockage/packages/f30/cgit/git-gui/po/el.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/el.po | 
+ | [ca](/f30/language/ca) | 23407 | 23807 | 98.3 | /mnt/stockage/packages/f30/cgit/gitk-git/po/ca.po/mnt/stockage/packages/f30/cgit/po/ca.po | 
+ | [es](/f30/language/es) | 24980 | 25481 | 98.0 | /mnt/stockage/packages/f30/cgit/gitk-git/po/es.po/mnt/stockage/packages/f30/cgit/po/es.po | 
+ | [hu](/f30/language/hu) | 3304 | 3463 | 95.4 | /mnt/stockage/packages/f30/cgit/git-gui/po/hu.po/mnt/stockage/packages/f30/cgit/gitk-git/po/hu.po | 
+ | [pt_BR](/f30/language/pt_BR) | 3391 | 3569 | 95.0 | /mnt/stockage/packages/f30/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f30/cgit/gitk-git/po/pt_br.po | 
+ | [nb_NO](/f30/language/nb_NO) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f30/cgit/git-gui/po/nb.po | 
+ | [it](/f30/language/it) | 7608 | 10510 | 72.4 | /mnt/stockage/packages/f30/cgit/git-gui/po/it.po/mnt/stockage/packages/f30/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f30/cgit/gitk-git/po/it.po/mnt/stockage/packages/f30/cgit/po/it.po | 
 {.sortable}
 
 

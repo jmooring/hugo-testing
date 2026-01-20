@@ -18,8 +18,8 @@ The package vdr-vnsiserver (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 56 | 72 | 77.8 | /mnt/stockage/packages/f23/vdr-vnsiserver/po/de_DE.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 56 | 72 | 77.8 | /mnt/stockage/packages/f23/vdr-vnsiserver/po/lt_LT.po | 
+ | [de](/f23/language/de) | 56 | 72 | 77.8 | /mnt/stockage/packages/f23/vdr-vnsiserver/po/de_DE.po | 
+ | [lt](/f23/language/lt) | 56 | 72 | 77.8 | /mnt/stockage/packages/f23/vdr-vnsiserver/po/lt_LT.po | 
 {.sortable}
 
 

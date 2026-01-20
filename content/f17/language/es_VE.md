@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f17/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [turpial]({{< ref "/f17/package/turpial.md" >}}) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgweather]({{< ref "/f17/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f17/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [libmateweather]({{< ref "/f17/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f17/package/lxinput.md" >}}) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
- | [wicd]({{< ref "/f17/package/wicd.md" >}}) | 851 | 1058 | 80.4 | es_VE <LL@li.org> | 
- | [mate-applets]({{< ref "/f17/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
- | [lxdm]({{< ref "/f17/package/lxdm.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [libfm]({{< ref "/f17/package/libfm.md" >}}) | 0 | 859 | 0.0 |  | 
- | [lxpolkit]({{< ref "/f17/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | Spanish | 
+ | [gnome-applets](/f17/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [turpial](/f17/package/turpial) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgweather](/f17/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f17/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [libmateweather](/f17/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f17/package/lxinput) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [wicd](/f17/package/wicd) | 851 | 1058 | 80.4 | es_VE <LL@li.org> | 
+ | [mate-applets](/f17/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f17/package/openerp) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [lxdm](/f17/package/lxdm) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f17/package/libfm) | 0 | 859 | 0.0 |  | 
+ | [lxpolkit](/f17/package/lxpolkit) | 0 | 15 | 0.0 | Spanish | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package vodovod (version 1.10r22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 430 | 457 | 94.1 | /mnt/stockage/packages/f40/vodovod/po/sv.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 274 | 457 | 60.0 | /mnt/stockage/packages/f40/vodovod/po/zh.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 261 | 457 | 57.1 | /mnt/stockage/packages/f40/vodovod/po/cs.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 178 | 457 | 38.9 | /mnt/stockage/packages/f40/vodovod/po/sr.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 0 | 457 | 0.0 | /mnt/stockage/packages/f40/vodovod/po/en.po | 
+ | [sv](/f40/language/sv) | 430 | 457 | 94.1 | /mnt/stockage/packages/f40/vodovod/po/sv.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 274 | 457 | 60.0 | /mnt/stockage/packages/f40/vodovod/po/zh.po | 
+ | [cs](/f40/language/cs) | 261 | 457 | 57.1 | /mnt/stockage/packages/f40/vodovod/po/cs.po | 
+ | [sr](/f40/language/sr) | 178 | 457 | 38.9 | /mnt/stockage/packages/f40/vodovod/po/sr.po | 
+ | [en](/f40/language/en) | 0 | 457 | 0.0 | /mnt/stockage/packages/f40/vodovod/po/en.po | 
 {.sortable}
 
 

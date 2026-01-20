@@ -18,7 +18,7 @@ The package php (version 5.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f10/php/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
+ | [fi](/f10/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f10/php/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

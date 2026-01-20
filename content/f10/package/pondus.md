@@ -18,12 +18,12 @@ The package pondus (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f10/pondus/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f10/pondus/po/fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 254 | 268 | 94.8 | /mnt/stockage/packages/f10/pondus/po/es.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 254 | 268 | 94.8 | /mnt/stockage/packages/f10/pondus/po/pl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 211 | 268 | 78.7 | /mnt/stockage/packages/f10/pondus/po/it.po | 
- | [es_CO]({{< ref "/f10/language/es_CO.md" >}}) | 175 | 268 | 65.3 | /mnt/stockage/packages/f10/pondus/po/es_CO.po | 
+ | [de](/f10/language/de) | 268 | 268 | 100.0 | /mnt/stockage/packages/f10/pondus/po/de.po | 
+ | [fr](/f10/language/fr) | 268 | 268 | 100.0 | /mnt/stockage/packages/f10/pondus/po/fr.po | 
+ | [es](/f10/language/es) | 254 | 268 | 94.8 | /mnt/stockage/packages/f10/pondus/po/es.po | 
+ | [pl](/f10/language/pl) | 254 | 268 | 94.8 | /mnt/stockage/packages/f10/pondus/po/pl.po | 
+ | [it](/f10/language/it) | 211 | 268 | 78.7 | /mnt/stockage/packages/f10/pondus/po/it.po | 
+ | [es_CO](/f10/language/es_CO) | 175 | 268 | 65.3 | /mnt/stockage/packages/f10/pondus/po/es_CO.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package abook (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 724 | 798 | 90.7 | /mnt/stockage/packages/f40/abook/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 722 | 798 | 90.5 | /mnt/stockage/packages/f40/abook/po/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 710 | 798 | 89.0 | /mnt/stockage/packages/f40/abook/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 573 | 798 | 71.8 | /mnt/stockage/packages/f40/abook/po/ja.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 530 | 798 | 66.4 | /mnt/stockage/packages/f40/abook/po/sv.po | 
+ | [de](/f40/language/de) | 724 | 798 | 90.7 | /mnt/stockage/packages/f40/abook/po/de.po | 
+ | [fr](/f40/language/fr) | 722 | 798 | 90.5 | /mnt/stockage/packages/f40/abook/po/fr.po | 
+ | [it](/f40/language/it) | 710 | 798 | 89.0 | /mnt/stockage/packages/f40/abook/po/it.po | 
+ | [ja](/f40/language/ja) | 573 | 798 | 71.8 | /mnt/stockage/packages/f40/abook/po/ja.po | 
+ | [sv](/f40/language/sv) | 530 | 798 | 66.4 | /mnt/stockage/packages/f40/abook/po/sv.po | 
 {.sortable}
 
 

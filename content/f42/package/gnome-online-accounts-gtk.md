@@ -18,45 +18,45 @@ The package gnome-online-accounts-gtk (version 3.50.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f42/language/be.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/be.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/cs.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/cy.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/de.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/es.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/eu.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fa.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fr.po | 
- | [fr_CA]({{< ref "/f42/language/fr_CA.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fr_CA.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/he.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ia.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/is.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ja.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/nl.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/oc.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/sl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/uk.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/uz.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/vi.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/zh_TW.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 27 | 36 | 75.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/et.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 26 | 36 | 72.2 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/hu.po | 
- | [mnw]({{< ref "/f42/language/mnw.md" >}}) | 16 | 36 | 44.4 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/mnw.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 3 | 36 | 8.3 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/id.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ko.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/zh_CN.po | 
+ | [be](/f42/language/be) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/be.po | 
+ | [ca](/f42/language/ca) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ca.po | 
+ | [cs](/f42/language/cs) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/cs.po | 
+ | [cy](/f42/language/cy) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/cy.po | 
+ | [da](/f42/language/da) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/da.po | 
+ | [de](/f42/language/de) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/de.po | 
+ | [en_GB](/f42/language/en_GB) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/en_GB.po | 
+ | [es](/f42/language/es) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/es.po | 
+ | [eu](/f42/language/eu) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/eu.po | 
+ | [fa](/f42/language/fa) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fa.po | 
+ | [fi](/f42/language/fi) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fi.po | 
+ | [fr](/f42/language/fr) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fr.po | 
+ | [fr_CA](/f42/language/fr_CA) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/fr_CA.po | 
+ | [he](/f42/language/he) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/he.po | 
+ | [ia](/f42/language/ia) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ia.po | 
+ | [is](/f42/language/is) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/is.po | 
+ | [it](/f42/language/it) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/it.po | 
+ | [ja](/f42/language/ja) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ja.po | 
+ | [nb_NO](/f42/language/nb_NO) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/nb.po | 
+ | [nl](/f42/language/nl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/nl.po | 
+ | [oc](/f42/language/oc) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/oc.po | 
+ | [pl](/f42/language/pl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/pl.po | 
+ | [pt](/f42/language/pt) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ru.po | 
+ | [sk](/f42/language/sk) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/sk.po | 
+ | [sl](/f42/language/sl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/sl.po | 
+ | [sv](/f42/language/sv) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/sv.po | 
+ | [tr](/f42/language/tr) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/tr.po | 
+ | [uk](/f42/language/uk) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/uk.po | 
+ | [uz](/f42/language/uz) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/uz.po | 
+ | [vi](/f42/language/vi) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/vi.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 36 | 36 | 100.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/zh_TW.po | 
+ | [et](/f42/language/et) | 27 | 36 | 75.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/et.po | 
+ | [hu](/f42/language/hu) | 26 | 36 | 72.2 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/hu.po | 
+ | [mnw](/f42/language/mnw) | 16 | 36 | 44.4 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/mnw.po | 
+ | [id](/f42/language/id) | 3 | 36 | 8.3 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/id.po | 
+ | [ko](/f42/language/ko) | 0 | 36 | 0.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/ko.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 0 | 36 | 0.0 | /mnt/stockage/packages/f42/gnome-online-accounts-gtk/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package dates (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f12/dates/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f12/dates/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/de.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f12/dates/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f12/dates/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f12/dates/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 237 | 237 | 100.0 | /mnt/stockage/packages/f12/dates/po/it.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f12/dates/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/dates/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f12/dates/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f12/dates/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f12/dates/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/sv.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f12/dates/po/th.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 157 | 233 | 67.4 | /mnt/stockage/packages/f12/dates/po/pa.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 45 | 88 | 51.1 | /mnt/stockage/packages/f12/dates/po/et.po | 
+ | [ca](/f12/language/ca) | 107 | 107 | 100.0 | /mnt/stockage/packages/f12/dates/po/ca.po | 
+ | [da](/f12/language/da) | 114 | 114 | 100.0 | /mnt/stockage/packages/f12/dates/po/da.po | 
+ | [de](/f12/language/de) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/de.po | 
+ | [en_GB](/f12/language/en_GB) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/en_GB.po | 
+ | [es](/f12/language/es) | 225 | 225 | 100.0 | /mnt/stockage/packages/f12/dates/po/es.po | 
+ | [eu](/f12/language/eu) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/eu.po | 
+ | [fi](/f12/language/fi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f12/dates/po/fi.po | 
+ | [fr](/f12/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f12/dates/po/fr.po | 
+ | [it](/f12/language/it) | 237 | 237 | 100.0 | /mnt/stockage/packages/f12/dates/po/it.po | 
+ | [nb_NO](/f12/language/nb_NO) | 114 | 114 | 100.0 | /mnt/stockage/packages/f12/dates/po/nb.po | 
+ | [nl](/f12/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/dates/po/nl.po | 
+ | [pl](/f12/language/pl) | 225 | 225 | 100.0 | /mnt/stockage/packages/f12/dates/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 225 | 225 | 100.0 | /mnt/stockage/packages/f12/dates/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f12/dates/po/ru.po | 
+ | [sv](/f12/language/sv) | 235 | 235 | 100.0 | /mnt/stockage/packages/f12/dates/po/sv.po | 
+ | [th](/f12/language/th) | 233 | 233 | 100.0 | /mnt/stockage/packages/f12/dates/po/th.po | 
+ | [pa](/f12/language/pa) | 157 | 233 | 67.4 | /mnt/stockage/packages/f12/dates/po/pa.po | 
+ | [et](/f12/language/et) | 45 | 88 | 51.1 | /mnt/stockage/packages/f12/dates/po/et.po | 
 {.sortable}
 
 

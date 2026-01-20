@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | 14078 | 39578 | 35.6 |  | 
- | [inkscape]({{< ref "/f42/package/inkscape.md" >}}) | 15399 | 51528 | 29.9 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 45424 | 175879 | 25.8 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1112 | 5355 | 20.8 | Dogri | 
+ | [gnucash](/f42/package/gnucash) | 14078 | 39578 | 35.6 |  | 
+ | [inkscape](/f42/package/inkscape) | 15399 | 51528 | 29.9 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f42/package/libreoffice) | 45424 | 175879 | 25.8 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1112 | 5355 | 20.8 | Dogri | 
 {.sortable}
 
 
@@ -53,8 +53,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._doi.po | error-unicode |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._doi.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._doi.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._doi.po | error-unicode |  | 
 {.sortable}
 
 
@@ -65,8 +65,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._doi.po |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._doi.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._doi.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._doi.po |  | 
 {.sortable}
 
 

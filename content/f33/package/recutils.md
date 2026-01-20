@@ -18,14 +18,14 @@ The package recutils (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/fr.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/nl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/vi.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 1822 | 1867 | 97.6 | /mnt/stockage/packages/f33/recutils/po/fi.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1822 | 1867 | 97.6 | /mnt/stockage/packages/f33/recutils/po/sr.po | 
+ | [de](/f33/language/de) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/de.po | 
+ | [fr](/f33/language/fr) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/fr.po | 
+ | [nl](/f33/language/nl) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/nl.po | 
+ | [sv](/f33/language/sv) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/sv.po | 
+ | [uk](/f33/language/uk) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/uk.po | 
+ | [vi](/f33/language/vi) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f33/recutils/po/vi.po | 
+ | [fi](/f33/language/fi) | 1822 | 1867 | 97.6 | /mnt/stockage/packages/f33/recutils/po/fi.po | 
+ | [sr](/f33/language/sr) | 1822 | 1867 | 97.6 | /mnt/stockage/packages/f33/recutils/po/sr.po | 
 {.sortable}
 
 

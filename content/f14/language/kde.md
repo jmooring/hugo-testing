@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bluedevil]({{< ref "/f14/package/bluedevil.md" >}}) | 603 | 604 | 99.8 | Hungarian <kde-l10n-hu@kde.org> | 
- | [kde-l10n]({{< ref "/f14/package/kde-l10n.md" >}}) | 2448421 | 3410060 | 71.8 | Arabic <kde-i18n-doc@kde.org> | 
+ | [bluedevil](/f14/package/bluedevil) | 603 | 604 | 99.8 | Hungarian <kde-l10n-hu@kde.org> | 
+ | [kde-l10n](/f14/package/kde-l10n) | 2448421 | 3410060 | 71.8 | Arabic <kde-i18n-doc@kde.org> | 
 {.sortable}
 
 

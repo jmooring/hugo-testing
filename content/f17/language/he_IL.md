@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f17/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f17/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [squirrelmail]({{< ref "/f17/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f17/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f17/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [publican]({{< ref "/f17/package/publican.md" >}}) | 0 | 191 | 0.0 | None | 
- | [publican-fedora]({{< ref "/f17/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [boost](/f17/package/boost) | 1 | 1 | 100.0 |  | 
+ | [mingw-boost](/f17/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [squirrelmail](/f17/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f17/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f17/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [publican](/f17/package/publican) | 0 | 191 | 0.0 | None | 
+ | [publican-fedora](/f17/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

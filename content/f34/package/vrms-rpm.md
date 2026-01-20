@@ -18,20 +18,20 @@ The package vrms-rpm (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/el.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/pt.po/mnt/stockage/packages/f34/vrms-rpm/lang/en.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/fr.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/pl.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/tr.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/ru.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/uk.po | 
+ | [cs](/f34/language/cs) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/cs.po | 
+ | [da](/f34/language/da) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/da.po | 
+ | [de](/f34/language/de) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/de.po | 
+ | [el](/f34/language/el) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/el.po | 
+ | [en](/f34/language/en) | 55 | 55 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/pt.po/mnt/stockage/packages/f34/vrms-rpm/lang/en.po | 
+ | [es](/f34/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/es.po | 
+ | [fr](/f34/language/fr) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/fr.po | 
+ | [id](/f34/language/id) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/id.po | 
+ | [it](/f34/language/it) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/it.po | 
+ | [nl](/f34/language/nl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/nl.po | 
+ | [pl](/f34/language/pl) | 28 | 28 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/pl.po | 
+ | [tr](/f34/language/tr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/tr.po | 
+ | [ru](/f34/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/ru.po | 
+ | [uk](/f34/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f34/vrms-rpm/lang/uk.po | 
 {.sortable}
 
 

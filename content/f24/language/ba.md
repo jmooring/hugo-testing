@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 16 | 23532 | 0.1 | Bashkir <ba@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 16 | 23532 | 0.1 | Bashkir <ba@li.org> | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package certmonger (version 0.79.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/ko.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/pl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/uk.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 2458 | 2831 | 86.8 | /mnt/stockage/packages/f38/certmonger/po/ca.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2458 | 2831 | 86.8 | /mnt/stockage/packages/f38/certmonger/po/es.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1822 | 2831 | 64.4 | /mnt/stockage/packages/f38/certmonger/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1558 | 2831 | 55.0 | /mnt/stockage/packages/f38/certmonger/po/zh_CN.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 1405 | 2831 | 49.6 | /mnt/stockage/packages/f38/certmonger/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1376 | 2831 | 48.6 | /mnt/stockage/packages/f38/certmonger/po/fr.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1370 | 2831 | 48.4 | /mnt/stockage/packages/f38/certmonger/po/pt_BR.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 1219 | 2831 | 43.1 | /mnt/stockage/packages/f38/certmonger/po/ja.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 1151 | 2831 | 40.7 | /mnt/stockage/packages/f38/certmonger/po/bg.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 1138 | 2831 | 40.2 | /mnt/stockage/packages/f38/certmonger/po/hu.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 1115 | 2831 | 39.4 | /mnt/stockage/packages/f38/certmonger/po/lt.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 992 | 2831 | 35.0 | /mnt/stockage/packages/f38/certmonger/po/pt.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 989 | 2831 | 34.9 | /mnt/stockage/packages/f38/certmonger/po/it.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 862 | 2831 | 30.4 | /mnt/stockage/packages/f38/certmonger/po/da.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 534 | 2831 | 18.9 | /mnt/stockage/packages/f38/certmonger/po/zh_TW.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 287 | 2831 | 10.1 | /mnt/stockage/packages/f38/certmonger/po/ka.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 120 | 2831 | 4.2 | /mnt/stockage/packages/f38/certmonger/po/gu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 107 | 2831 | 3.8 | /mnt/stockage/packages/f38/certmonger/po/id.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 27 | 2831 | 1.0 | /mnt/stockage/packages/f38/certmonger/po/nb.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 18 | 2831 | 0.6 | /mnt/stockage/packages/f38/certmonger/po/cs_CZ.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 18 | 2831 | 0.6 | /mnt/stockage/packages/f38/certmonger/po/eu.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 3 | 2831 | 0.1 | /mnt/stockage/packages/f38/certmonger/po/si.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 2 | 2831 | 0.1 | /mnt/stockage/packages/f38/certmonger/po/ta.po | 
+ | [ko](/f38/language/ko) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/ko.po | 
+ | [nl](/f38/language/nl) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/nl.po | 
+ | [pl](/f38/language/pl) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/pl.po | 
+ | [sv](/f38/language/sv) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/sv.po | 
+ | [tr](/f38/language/tr) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/tr.po | 
+ | [uk](/f38/language/uk) | 2831 | 2831 | 100.0 | /mnt/stockage/packages/f38/certmonger/po/uk.po | 
+ | [ca](/f38/language/ca) | 2458 | 2831 | 86.8 | /mnt/stockage/packages/f38/certmonger/po/ca.po | 
+ | [es](/f38/language/es) | 2458 | 2831 | 86.8 | /mnt/stockage/packages/f38/certmonger/po/es.po | 
+ | [ru](/f38/language/ru) | 1822 | 2831 | 64.4 | /mnt/stockage/packages/f38/certmonger/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1558 | 2831 | 55.0 | /mnt/stockage/packages/f38/certmonger/po/zh_CN.po | 
+ | [de](/f38/language/de) | 1405 | 2831 | 49.6 | /mnt/stockage/packages/f38/certmonger/po/de.po | 
+ | [fr](/f38/language/fr) | 1376 | 2831 | 48.6 | /mnt/stockage/packages/f38/certmonger/po/fr.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1370 | 2831 | 48.4 | /mnt/stockage/packages/f38/certmonger/po/pt_BR.po | 
+ | [ja](/f38/language/ja) | 1219 | 2831 | 43.1 | /mnt/stockage/packages/f38/certmonger/po/ja.po | 
+ | [bg](/f38/language/bg) | 1151 | 2831 | 40.7 | /mnt/stockage/packages/f38/certmonger/po/bg.po | 
+ | [hu](/f38/language/hu) | 1138 | 2831 | 40.2 | /mnt/stockage/packages/f38/certmonger/po/hu.po | 
+ | [lt](/f38/language/lt) | 1115 | 2831 | 39.4 | /mnt/stockage/packages/f38/certmonger/po/lt.po | 
+ | [pt](/f38/language/pt) | 992 | 2831 | 35.0 | /mnt/stockage/packages/f38/certmonger/po/pt.po | 
+ | [it](/f38/language/it) | 989 | 2831 | 34.9 | /mnt/stockage/packages/f38/certmonger/po/it.po | 
+ | [da](/f38/language/da) | 862 | 2831 | 30.4 | /mnt/stockage/packages/f38/certmonger/po/da.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 534 | 2831 | 18.9 | /mnt/stockage/packages/f38/certmonger/po/zh_TW.po | 
+ | [ka](/f38/language/ka) | 287 | 2831 | 10.1 | /mnt/stockage/packages/f38/certmonger/po/ka.po | 
+ | [gu](/f38/language/gu) | 120 | 2831 | 4.2 | /mnt/stockage/packages/f38/certmonger/po/gu.po | 
+ | [id](/f38/language/id) | 107 | 2831 | 3.8 | /mnt/stockage/packages/f38/certmonger/po/id.po | 
+ | [nb_NO](/f38/language/nb_NO) | 27 | 2831 | 1.0 | /mnt/stockage/packages/f38/certmonger/po/nb.po | 
+ | [cs](/f38/language/cs) | 18 | 2831 | 0.6 | /mnt/stockage/packages/f38/certmonger/po/cs_CZ.po | 
+ | [eu](/f38/language/eu) | 18 | 2831 | 0.6 | /mnt/stockage/packages/f38/certmonger/po/eu.po | 
+ | [si](/f38/language/si) | 3 | 2831 | 0.1 | /mnt/stockage/packages/f38/certmonger/po/si.po | 
+ | [ta](/f38/language/ta) | 2 | 2831 | 0.1 | /mnt/stockage/packages/f38/certmonger/po/ta.po | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ksig]({{< ref "/f9/package/ksig.md" >}}) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [konq-plugins]({{< ref "/f9/package/konq-plugins.md" >}}) | 1377 | 1556 | 88.5 | Frysk <kde-i18n-fry@kde.org> | 
- | [Miro]({{< ref "/f9/package/Miro.md" >}}) | 2640 | 3616 | 73.0 | Frisian <fy@li.org> | 
- | [bluez-gnome]({{< ref "/f9/package/bluez-gnome.md" >}}) | 46 | 678 | 6.8 | Frisian <fy@li.org> | 
- | [picard]({{< ref "/f9/package/picard.md" >}}) | 21 | 633 | 3.3 | Frisian <fy@li.org> | 
+ | [ksig](/f9/package/ksig) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [konq-plugins](/f9/package/konq-plugins) | 1377 | 1556 | 88.5 | Frysk <kde-i18n-fry@kde.org> | 
+ | [Miro](/f9/package/Miro) | 2640 | 3616 | 73.0 | Frisian <fy@li.org> | 
+ | [bluez-gnome](/f9/package/bluez-gnome) | 46 | 678 | 6.8 | Frisian <fy@li.org> | 
+ | [picard](/f9/package/picard) | 21 | 633 | 3.3 | Frisian <fy@li.org> | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package fcitx (version 4.2.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f40/language/da.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/da.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/fr.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/ko.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/ru.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/zh_TW.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 3295 | 3308 | 99.6 | /mnt/stockage/packages/f40/fcitx/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 3228 | 3308 | 97.6 | /mnt/stockage/packages/f40/fcitx/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 210 | 3308 | 6.3 | /mnt/stockage/packages/f40/fcitx/po/es.po | 
+ | [da](/f40/language/da) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/da.po | 
+ | [fr](/f40/language/fr) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/fr.po | 
+ | [ja](/f40/language/ja) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/ja.po | 
+ | [ko](/f40/language/ko) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/ko.po | 
+ | [ru](/f40/language/ru) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/ru.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 3308 | 3308 | 100.0 | /mnt/stockage/packages/f40/fcitx/po/zh_TW.po | 
+ | [ca](/f40/language/ca) | 3295 | 3308 | 99.6 | /mnt/stockage/packages/f40/fcitx/po/ca.po | 
+ | [de](/f40/language/de) | 3228 | 3308 | 97.6 | /mnt/stockage/packages/f40/fcitx/po/de.po | 
+ | [es](/f40/language/es) | 210 | 3308 | 6.3 | /mnt/stockage/packages/f40/fcitx/po/es.po | 
 {.sortable}
 
 

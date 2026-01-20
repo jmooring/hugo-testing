@@ -18,9 +18,9 @@ The package frepple (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1497 | 1750 | 85.5 | /mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1323 | 1750 | 75.6 | /mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 746 | 1750 | 42.6 | /mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
+ | [nl](/f13/language/nl) | 1497 | 1750 | 85.5 | /mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
+ | [it](/f13/language/it) | 1323 | 1750 | 75.6 | /mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 746 | 1750 | 42.6 | /mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f13/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package lightdm-gtk-greeter-settings (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/de.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/fi.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ja.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/lt.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/pt.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 485 | 520 | 93.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ru.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 459 | 520 | 88.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 339 | 520 | 65.2 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/fr.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 313 | 520 | 60.2 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ar.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 168 | 520 | 32.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/pt_BR.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 152 | 520 | 29.2 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/sr.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 33 | 520 | 6.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/hr.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 18 | 520 | 3.5 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/pl.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 0 | 520 | 0.0 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ca.po | 
+ | [de](/f23/language/de) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/de.po | 
+ | [fi](/f23/language/fi) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/fi.po | 
+ | [ja](/f23/language/ja) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ja.po | 
+ | [lt](/f23/language/lt) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/lt.po | 
+ | [pt](/f23/language/pt) | 487 | 520 | 93.7 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/pt.po | 
+ | [ru](/f23/language/ru) | 485 | 520 | 93.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ru.po | 
+ | [es](/f23/language/es) | 459 | 520 | 88.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/es.po | 
+ | [fr](/f23/language/fr) | 339 | 520 | 65.2 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/fr.po | 
+ | [ar](/f23/language/ar) | 313 | 520 | 60.2 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ar.po | 
+ | [pt_BR](/f23/language/pt_BR) | 168 | 520 | 32.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/pt_BR.po | 
+ | [sr](/f23/language/sr) | 152 | 520 | 29.2 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/sr.po | 
+ | [hr](/f23/language/hr) | 33 | 520 | 6.3 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/hr.po | 
+ | [pl](/f23/language/pl) | 18 | 520 | 3.5 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/pl.po | 
+ | [ca](/f23/language/ca) | 0 | 520 | 0.0 | /mnt/stockage/packages/f23/lightdm-gtk-greeter-settings/po/ca.po | 
 {.sortable}
 
 

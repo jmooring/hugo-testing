@@ -18,13 +18,13 @@ The package acl (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/acl/po/de.po | 
- | [error]({{< ref "/f36/language/error.md" >}}) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f36/acl/po/en@quot.po/mnt/stockage/packages/f36/acl/po/en@boldquot.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/es.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/gl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/pl.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/sv.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 370 | 506 | 73.1 | /mnt/stockage/packages/f36/acl/po/fr.po | 
+ | [de](/f36/language/de) | 506 | 506 | 100.0 | /mnt/stockage/packages/f36/acl/po/de.po | 
+ | [error](/f36/language/error) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f36/acl/po/en@quot.po/mnt/stockage/packages/f36/acl/po/en@boldquot.po | 
+ | [es](/f36/language/es) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/es.po | 
+ | [gl](/f36/language/gl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/gl.po | 
+ | [pl](/f36/language/pl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/pl.po | 
+ | [sv](/f36/language/sv) | 395 | 506 | 78.1 | /mnt/stockage/packages/f36/acl/po/sv.po | 
+ | [fr](/f36/language/fr) | 370 | 506 | 73.1 | /mnt/stockage/packages/f36/acl/po/fr.po | 
 {.sortable}
 
 

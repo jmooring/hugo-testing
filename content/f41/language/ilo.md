@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f41/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f41/package/switchdesk.md" >}}) | 10 | 122 | 8.2 |  | 
- | [python-blivet]({{< ref "/f41/package/python-blivet.md" >}}) | 37 | 605 | 6.1 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
- | [android-tools]({{< ref "/f41/package/android-tools.md" >}}) | 11 | 6028 | 0.2 | Iloko | 
- | [policycoreutils]({{< ref "/f41/package/policycoreutils.md" >}}) | 11 | 6117 | 0.2 | Iloko | 
- | [budgie-control-center]({{< ref "/f41/package/budgie-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [gnome-control-center]({{< ref "/f41/package/gnome-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [initial-setup]({{< ref "/f41/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Iloko | 
- | [libvirt-sandbox]({{< ref "/f41/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [python-fedora]({{< ref "/f41/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Iloko | 
- | [python-meh]({{< ref "/f41/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Iloko | 
- | [sos]({{< ref "/f41/package/sos.md" >}}) | 0 | 123 | 0.0 | none | 
+ | [redhat-menus](/f41/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f41/package/switchdesk) | 10 | 122 | 8.2 |  | 
+ | [python-blivet](/f41/package/python-blivet) | 37 | 605 | 6.1 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
+ | [android-tools](/f41/package/android-tools) | 11 | 6028 | 0.2 | Iloko | 
+ | [policycoreutils](/f41/package/policycoreutils) | 11 | 6117 | 0.2 | Iloko | 
+ | [budgie-control-center](/f41/package/budgie-control-center) | 0 | 1313 | 0.0 |  | 
+ | [gnome-control-center](/f41/package/gnome-control-center) | 0 | 1313 | 0.0 |  | 
+ | [initial-setup](/f41/package/initial-setup) | 0 | 33 | 0.0 | Iloko | 
+ | [libvirt-sandbox](/f41/package/libvirt-sandbox) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [python-fedora](/f41/package/python-fedora) | 0 | 214 | 0.0 | Iloko | 
+ | [python-meh](/f41/package/python-meh) | 0 | 109 | 0.0 | Iloko | 
+ | [sos](/f41/package/sos) | 0 | 123 | 0.0 | none | 
 {.sortable}
 
 

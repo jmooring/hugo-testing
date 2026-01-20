@@ -18,11 +18,11 @@ The package ndisc6 (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f31/ndisc6/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f31/ndisc6/po/de.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f31/ndisc6/po/fr.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 448 | 1016 | 44.1 | /mnt/stockage/packages/f31/ndisc6/po/en.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 448 | 1016 | 44.1 | /mnt/stockage/packages/f31/ndisc6/po/en_GB.po | 
+ | [cs](/f31/language/cs) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f31/ndisc6/po/cs.po | 
+ | [de](/f31/language/de) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f31/ndisc6/po/de.po | 
+ | [fr](/f31/language/fr) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f31/ndisc6/po/fr.po | 
+ | [en](/f31/language/en) | 448 | 1016 | 44.1 | /mnt/stockage/packages/f31/ndisc6/po/en.po | 
+ | [en_GB](/f31/language/en_GB) | 448 | 1016 | 44.1 | /mnt/stockage/packages/f31/ndisc6/po/en_GB.po | 
 {.sortable}
 
 

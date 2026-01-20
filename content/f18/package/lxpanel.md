@@ -18,65 +18,65 @@ The package lxpanel (version 0.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f18/language/be.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/bg.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/cs.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/en_GB.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/et.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/he.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/lt.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/nl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/vi.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/zh_TW.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 984 | 987 | 99.7 | /mnt/stockage/packages/f18/lxpanel/po/sr.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 979 | 987 | 99.2 | /mnt/stockage/packages/f18/lxpanel/po/eu.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 973 | 987 | 98.6 | /mnt/stockage/packages/f18/lxpanel/po/de.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 949 | 987 | 96.1 | /mnt/stockage/packages/f18/lxpanel/po/ar.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 945 | 987 | 95.7 | /mnt/stockage/packages/f18/lxpanel/po/id.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 931 | 987 | 94.3 | /mnt/stockage/packages/f18/lxpanel/po/hr.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/el.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/it.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/kk.po | 
- | [lg]({{< ref "/f18/language/lg.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/lg.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/sl.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/te.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 915 | 987 | 92.7 | /mnt/stockage/packages/f18/lxpanel/po/hu.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 902 | 987 | 91.4 | /mnt/stockage/packages/f18/lxpanel/po/pl.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1793 | 1974 | 90.8 | /mnt/stockage/packages/f18/lxpanel/po/es_VE.po/mnt/stockage/packages/f18/lxpanel/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 892 | 987 | 90.4 | /mnt/stockage/packages/f18/lxpanel/po/fi.po | 
- | [tt]({{< ref "/f18/language/tt.md" >}}) | 882 | 987 | 89.4 | /mnt/stockage/packages/f18/lxpanel/po/tt_RU.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 866 | 987 | 87.7 | /mnt/stockage/packages/f18/lxpanel/po/da.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/ca.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/fa.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/nn.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/sk.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/sr@latin.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 861 | 987 | 87.2 | /mnt/stockage/packages/f18/lxpanel/po/bn.po | 
- | [fo]({{< ref "/f18/language/fo.md" >}}) | 854 | 987 | 86.5 | /mnt/stockage/packages/f18/lxpanel/po/fo.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 1686 | 1974 | 85.4 | /mnt/stockage/packages/f18/lxpanel/po/ur_PK.po/mnt/stockage/packages/f18/lxpanel/po/ur.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 813 | 987 | 82.4 | /mnt/stockage/packages/f18/lxpanel/po/bn_IN.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 787 | 987 | 79.7 | /mnt/stockage/packages/f18/lxpanel/po/af.po | 
- | [frp]({{< ref "/f18/language/frp.md" >}}) | 754 | 987 | 76.4 | /mnt/stockage/packages/f18/lxpanel/po/frp.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 742 | 987 | 75.2 | /mnt/stockage/packages/f18/lxpanel/po/ms.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 369 | 987 | 37.4 | /mnt/stockage/packages/f18/lxpanel/po/pa.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 344 | 987 | 34.9 | /mnt/stockage/packages/f18/lxpanel/po/nb.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 104 | 987 | 10.5 | /mnt/stockage/packages/f18/lxpanel/po/km.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 0 | 987 | 0.0 | /mnt/stockage/packages/f18/lxpanel/po/ml.po | 
- | [ps]({{< ref "/f18/language/ps.md" >}}) | 0 | 987 | 0.0 | /mnt/stockage/packages/f18/lxpanel/po/ps.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 0 | 987 | 0.0 | /mnt/stockage/packages/f18/lxpanel/po/th.po | 
+ | [be](/f18/language/be) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/be.po | 
+ | [bg](/f18/language/bg) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/bg.po | 
+ | [cs](/f18/language/cs) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/cs.po | 
+ | [en_GB](/f18/language/en_GB) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/en_GB.po | 
+ | [et](/f18/language/et) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/et.po | 
+ | [gl](/f18/language/gl) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/gl.po | 
+ | [he](/f18/language/he) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/he.po | 
+ | [ja](/f18/language/ja) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ja.po | 
+ | [ko](/f18/language/ko) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ko.po | 
+ | [lt](/f18/language/lt) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/lt.po | 
+ | [nl](/f18/language/nl) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/nl.po | 
+ | [pt](/f18/language/pt) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ro.po | 
+ | [ru](/f18/language/ru) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ru.po | 
+ | [sv](/f18/language/sv) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/sv.po | 
+ | [tr](/f18/language/tr) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/tr.po | 
+ | [ug](/f18/language/ug) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/ug.po | 
+ | [uk](/f18/language/uk) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/uk.po | 
+ | [vi](/f18/language/vi) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 987 | 987 | 100.0 | /mnt/stockage/packages/f18/lxpanel/po/zh_TW.po | 
+ | [sr](/f18/language/sr) | 984 | 987 | 99.7 | /mnt/stockage/packages/f18/lxpanel/po/sr.po | 
+ | [eu](/f18/language/eu) | 979 | 987 | 99.2 | /mnt/stockage/packages/f18/lxpanel/po/eu.po | 
+ | [de](/f18/language/de) | 973 | 987 | 98.6 | /mnt/stockage/packages/f18/lxpanel/po/de.po | 
+ | [ar](/f18/language/ar) | 949 | 987 | 96.1 | /mnt/stockage/packages/f18/lxpanel/po/ar.po | 
+ | [id](/f18/language/id) | 945 | 987 | 95.7 | /mnt/stockage/packages/f18/lxpanel/po/id.po | 
+ | [hr](/f18/language/hr) | 931 | 987 | 94.3 | /mnt/stockage/packages/f18/lxpanel/po/hr.po | 
+ | [el](/f18/language/el) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/el.po | 
+ | [fr](/f18/language/fr) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/fr.po | 
+ | [it](/f18/language/it) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/it.po | 
+ | [kk](/f18/language/kk) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/kk.po | 
+ | [lg](/f18/language/lg) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/lg.po | 
+ | [sl](/f18/language/sl) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/sl.po | 
+ | [te](/f18/language/te) | 929 | 987 | 94.1 | /mnt/stockage/packages/f18/lxpanel/po/te.po | 
+ | [hu](/f18/language/hu) | 915 | 987 | 92.7 | /mnt/stockage/packages/f18/lxpanel/po/hu.po | 
+ | [pl](/f18/language/pl) | 902 | 987 | 91.4 | /mnt/stockage/packages/f18/lxpanel/po/pl.po | 
+ | [es](/f18/language/es) | 1793 | 1974 | 90.8 | /mnt/stockage/packages/f18/lxpanel/po/es_VE.po/mnt/stockage/packages/f18/lxpanel/po/es.po | 
+ | [fi](/f18/language/fi) | 892 | 987 | 90.4 | /mnt/stockage/packages/f18/lxpanel/po/fi.po | 
+ | [tt](/f18/language/tt) | 882 | 987 | 89.4 | /mnt/stockage/packages/f18/lxpanel/po/tt_RU.po | 
+ | [da](/f18/language/da) | 866 | 987 | 87.7 | /mnt/stockage/packages/f18/lxpanel/po/da.po | 
+ | [ca](/f18/language/ca) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/ca.po | 
+ | [fa](/f18/language/fa) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/fa.po | 
+ | [nn](/f18/language/nn) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/nn.po | 
+ | [sk](/f18/language/sk) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/sk.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 864 | 987 | 87.5 | /mnt/stockage/packages/f18/lxpanel/po/sr@latin.po | 
+ | [bn](/f18/language/bn) | 861 | 987 | 87.2 | /mnt/stockage/packages/f18/lxpanel/po/bn.po | 
+ | [fo](/f18/language/fo) | 854 | 987 | 86.5 | /mnt/stockage/packages/f18/lxpanel/po/fo.po | 
+ | [ur](/f18/language/ur) | 1686 | 1974 | 85.4 | /mnt/stockage/packages/f18/lxpanel/po/ur_PK.po/mnt/stockage/packages/f18/lxpanel/po/ur.po | 
+ | [bn_IN](/f18/language/bn_IN) | 813 | 987 | 82.4 | /mnt/stockage/packages/f18/lxpanel/po/bn_IN.po | 
+ | [af](/f18/language/af) | 787 | 987 | 79.7 | /mnt/stockage/packages/f18/lxpanel/po/af.po | 
+ | [frp](/f18/language/frp) | 754 | 987 | 76.4 | /mnt/stockage/packages/f18/lxpanel/po/frp.po | 
+ | [ms](/f18/language/ms) | 742 | 987 | 75.2 | /mnt/stockage/packages/f18/lxpanel/po/ms.po | 
+ | [pa](/f18/language/pa) | 369 | 987 | 37.4 | /mnt/stockage/packages/f18/lxpanel/po/pa.po | 
+ | [nb_NO](/f18/language/nb_NO) | 344 | 987 | 34.9 | /mnt/stockage/packages/f18/lxpanel/po/nb.po | 
+ | [km](/f18/language/km) | 104 | 987 | 10.5 | /mnt/stockage/packages/f18/lxpanel/po/km.po | 
+ | [ml](/f18/language/ml) | 0 | 987 | 0.0 | /mnt/stockage/packages/f18/lxpanel/po/ml.po | 
+ | [ps](/f18/language/ps) | 0 | 987 | 0.0 | /mnt/stockage/packages/f18/lxpanel/po/ps.po | 
+ | [th](/f18/language/th) | 0 | 987 | 0.0 | /mnt/stockage/packages/f18/lxpanel/po/th.po | 
 {.sortable}
 
 

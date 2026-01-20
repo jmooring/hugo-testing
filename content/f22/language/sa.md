@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 1515 | 1515 | 100.0 |  | 
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 64533 | 98216 | 65.7 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f22/package/iok.md" >}}) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
+ | [tuxpaint](/f22/package/tuxpaint) | 1515 | 1515 | 100.0 |  | 
+ | [libreoffice](/f22/package/libreoffice) | 64533 | 98216 | 65.7 | LANGUAGE <LL@li.org> | 
+ | [iok](/f22/package/iok) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
 {.sortable}
 
 

@@ -18,68 +18,68 @@ The package xfce4-session (version 4.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/bg.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/en_GB.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/fr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/it.po/mnt/stockage/packages/f16/xfce4-session/po/it.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/kk.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ko.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ms.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/nl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/pt.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/ru.po/mnt/stockage/packages/f16/xfce4-session/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/sk.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/tr.po/mnt/stockage/packages/f16/xfce4-session/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/zh_CN.po/mnt/stockage/packages/f16/xfce4-session/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/zh_TW.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 1122 | 1132 | 99.1 | /mnt/stockage/packages/f16/xfce4-session/po/nn.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 1121 | 1132 | 99.0 | /mnt/stockage/packages/f16/xfce4-session/po/bn.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 1108 | 1132 | 97.9 | /mnt/stockage/packages/f16/xfce4-session/po/sq.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1080 | 1132 | 95.4 | /mnt/stockage/packages/f16/xfce4-session/po/pl.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 996 | 1132 | 88.0 | /mnt/stockage/packages/f16/xfce4-session/po/ast.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 996 | 1132 | 88.0 | /mnt/stockage/packages/f16/xfce4-session/po/lv.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 1774 | 2264 | 78.4 | /mnt/stockage/packages/f16/xfce4-session/po/ur_PK.po/mnt/stockage/packages/f16/xfce4-session/po/ur.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 845 | 1132 | 74.6 | /mnt/stockage/packages/f16/xfce4-session/po/be.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 1671 | 2603 | 64.2 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/hr.po/mnt/stockage/packages/f16/xfce4-session/po/hr.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 704 | 1132 | 62.2 | /mnt/stockage/packages/f16/xfce4-session/po/ar.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1403 | 2264 | 62.0 | /mnt/stockage/packages/f16/xfce4-session/po/es_MX.po/mnt/stockage/packages/f16/xfce4-session/po/es.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 1226 | 2603 | 47.1 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/gl.po/mnt/stockage/packages/f16/xfce4-session/po/gl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1199 | 2603 | 46.1 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/sv.po/mnt/stockage/packages/f16/xfce4-session/po/sv.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 1155 | 2603 | 44.4 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/pt_BR.po/mnt/stockage/packages/f16/xfce4-session/po/pt_BR.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 1144 | 2603 | 43.9 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/ja.po/mnt/stockage/packages/f16/xfce4-session/po/ja.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 1144 | 2603 | 43.9 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/ug.po/mnt/stockage/packages/f16/xfce4-session/po/ug.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 1133 | 2603 | 43.5 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/el.po/mnt/stockage/packages/f16/xfce4-session/po/el.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 1132 | 2603 | 43.5 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/da.po/mnt/stockage/packages/f16/xfce4-session/po/da.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 446 | 1132 | 39.4 | /mnt/stockage/packages/f16/xfce4-session/po/is.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 392 | 1132 | 34.6 | /mnt/stockage/packages/f16/xfce4-session/po/dz.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/am.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/eo.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/he.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/mk.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/si.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/vi.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 387 | 1132 | 34.2 | /mnt/stockage/packages/f16/xfce4-session/po/et.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 381 | 1132 | 33.7 | /mnt/stockage/packages/f16/xfce4-session/po/te.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 367 | 1132 | 32.4 | /mnt/stockage/packages/f16/xfce4-session/po/gu.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/az.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/bn_IN.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/fa.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/mr.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/pa.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 239 | 1132 | 21.1 | /mnt/stockage/packages/f16/xfce4-session/po/lt.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 5 | 1132 | 0.4 | /mnt/stockage/packages/f16/xfce4-session/po/hi.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 5 | 1132 | 0.4 | /mnt/stockage/packages/f16/xfce4-session/po/ta.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 4 | 1132 | 0.4 | /mnt/stockage/packages/f16/xfce4-session/po/ka.po | 
+ | [bg](/f16/language/bg) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/bg.po | 
+ | [ca](/f16/language/ca) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ca.po | 
+ | [cs](/f16/language/cs) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/cs.po | 
+ | [de](/f16/language/de) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/en_GB.po | 
+ | [eu](/f16/language/eu) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/eu.po | 
+ | [fi](/f16/language/fi) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/fi.po | 
+ | [fr](/f16/language/fr) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/fr.po | 
+ | [hu](/f16/language/hu) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/hu.po | 
+ | [id](/f16/language/id) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/id.po | 
+ | [it](/f16/language/it) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/it.po/mnt/stockage/packages/f16/xfce4-session/po/it.po | 
+ | [kk](/f16/language/kk) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/kk.po | 
+ | [ko](/f16/language/ko) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ko.po | 
+ | [ms](/f16/language/ms) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ms.po | 
+ | [nb_NO](/f16/language/nb_NO) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/nb.po | 
+ | [nl](/f16/language/nl) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/nl.po | 
+ | [pt](/f16/language/pt) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/pt.po | 
+ | [ro](/f16/language/ro) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/ro.po | 
+ | [ru](/f16/language/ru) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/ru.po/mnt/stockage/packages/f16/xfce4-session/po/ru.po | 
+ | [sk](/f16/language/sk) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/sk.po | 
+ | [tr](/f16/language/tr) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/tr.po/mnt/stockage/packages/f16/xfce4-session/po/tr.po | 
+ | [uk](/f16/language/uk) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/zh_CN.po/mnt/stockage/packages/f16/xfce4-session/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f16/xfce4-session/po/zh_TW.po | 
+ | [nn](/f16/language/nn) | 1122 | 1132 | 99.1 | /mnt/stockage/packages/f16/xfce4-session/po/nn.po | 
+ | [bn](/f16/language/bn) | 1121 | 1132 | 99.0 | /mnt/stockage/packages/f16/xfce4-session/po/bn.po | 
+ | [sq](/f16/language/sq) | 1108 | 1132 | 97.9 | /mnt/stockage/packages/f16/xfce4-session/po/sq.po | 
+ | [pl](/f16/language/pl) | 1080 | 1132 | 95.4 | /mnt/stockage/packages/f16/xfce4-session/po/pl.po | 
+ | [ast](/f16/language/ast) | 996 | 1132 | 88.0 | /mnt/stockage/packages/f16/xfce4-session/po/ast.po | 
+ | [lv](/f16/language/lv) | 996 | 1132 | 88.0 | /mnt/stockage/packages/f16/xfce4-session/po/lv.po | 
+ | [ur](/f16/language/ur) | 1774 | 2264 | 78.4 | /mnt/stockage/packages/f16/xfce4-session/po/ur_PK.po/mnt/stockage/packages/f16/xfce4-session/po/ur.po | 
+ | [be](/f16/language/be) | 845 | 1132 | 74.6 | /mnt/stockage/packages/f16/xfce4-session/po/be.po | 
+ | [hr](/f16/language/hr) | 1671 | 2603 | 64.2 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/hr.po/mnt/stockage/packages/f16/xfce4-session/po/hr.po | 
+ | [ar](/f16/language/ar) | 704 | 1132 | 62.2 | /mnt/stockage/packages/f16/xfce4-session/po/ar.po | 
+ | [es](/f16/language/es) | 1403 | 2264 | 62.0 | /mnt/stockage/packages/f16/xfce4-session/po/es_MX.po/mnt/stockage/packages/f16/xfce4-session/po/es.po | 
+ | [gl](/f16/language/gl) | 1226 | 2603 | 47.1 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/gl.po/mnt/stockage/packages/f16/xfce4-session/po/gl.po | 
+ | [sv](/f16/language/sv) | 1199 | 2603 | 46.1 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/sv.po/mnt/stockage/packages/f16/xfce4-session/po/sv.po | 
+ | [pt_BR](/f16/language/pt_BR) | 1155 | 2603 | 44.4 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/pt_BR.po/mnt/stockage/packages/f16/xfce4-session/po/pt_BR.po | 
+ | [ja](/f16/language/ja) | 1144 | 2603 | 43.9 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/ja.po/mnt/stockage/packages/f16/xfce4-session/po/ja.po | 
+ | [ug](/f16/language/ug) | 1144 | 2603 | 43.9 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/ug.po/mnt/stockage/packages/f16/xfce4-session/po/ug.po | 
+ | [el](/f16/language/el) | 1133 | 2603 | 43.5 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/el.po/mnt/stockage/packages/f16/xfce4-session/po/el.po | 
+ | [da](/f16/language/da) | 1132 | 2603 | 43.5 | /mnt/stockage/packages/f16/xfce4-session/doc/manual/po/da.po/mnt/stockage/packages/f16/xfce4-session/po/da.po | 
+ | [is](/f16/language/is) | 446 | 1132 | 39.4 | /mnt/stockage/packages/f16/xfce4-session/po/is.po | 
+ | [dz](/f16/language/dz) | 392 | 1132 | 34.6 | /mnt/stockage/packages/f16/xfce4-session/po/dz.po | 
+ | [am](/f16/language/am) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/am.po | 
+ | [eo](/f16/language/eo) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/eo.po | 
+ | [he](/f16/language/he) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/he.po | 
+ | [mk](/f16/language/mk) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/mk.po | 
+ | [si](/f16/language/si) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/si.po | 
+ | [vi](/f16/language/vi) | 390 | 1132 | 34.5 | /mnt/stockage/packages/f16/xfce4-session/po/vi.po | 
+ | [et](/f16/language/et) | 387 | 1132 | 34.2 | /mnt/stockage/packages/f16/xfce4-session/po/et.po | 
+ | [te](/f16/language/te) | 381 | 1132 | 33.7 | /mnt/stockage/packages/f16/xfce4-session/po/te.po | 
+ | [gu](/f16/language/gu) | 367 | 1132 | 32.4 | /mnt/stockage/packages/f16/xfce4-session/po/gu.po | 
+ | [az](/f16/language/az) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/az.po | 
+ | [bn_IN](/f16/language/bn_IN) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/bn_IN.po | 
+ | [fa](/f16/language/fa) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/fa.po | 
+ | [mr](/f16/language/mr) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/mr.po | 
+ | [pa](/f16/language/pa) | 271 | 1132 | 23.9 | /mnt/stockage/packages/f16/xfce4-session/po/pa.po | 
+ | [lt](/f16/language/lt) | 239 | 1132 | 21.1 | /mnt/stockage/packages/f16/xfce4-session/po/lt.po | 
+ | [hi](/f16/language/hi) | 5 | 1132 | 0.4 | /mnt/stockage/packages/f16/xfce4-session/po/hi.po | 
+ | [ta](/f16/language/ta) | 5 | 1132 | 0.4 | /mnt/stockage/packages/f16/xfce4-session/po/ta.po | 
+ | [ka](/f16/language/ka) | 4 | 1132 | 0.4 | /mnt/stockage/packages/f16/xfce4-session/po/ka.po | 
 {.sortable}
 
 

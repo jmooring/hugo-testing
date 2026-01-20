@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f17/package/iso-codes.md" >}}) | 761 | 770 | 98.8 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 508075 | 531817 | 95.5 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f17/package/tuxpaint.md" >}}) | 492 | 1247 | 39.5 | English (South African) <en_za@li.org> | 
- | [pootle]({{< ref "/f17/package/pootle.md" >}}) | 317 | 2424 | 13.1 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f17/package/virtaal.md" >}}) | 73 | 1171 | 6.2 | English <translate-devel@lists.sourceforge.net> | 
- | [olpc-switch-desktop]({{< ref "/f17/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f17/package/iso-codes) | 761 | 770 | 98.8 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [libreoffice](/f17/package/libreoffice) | 508075 | 531817 | 95.5 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f17/package/tuxpaint) | 492 | 1247 | 39.5 | English (South African) <en_za@li.org> | 
+ | [pootle](/f17/package/pootle) | 317 | 2424 | 13.1 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f17/package/virtaal) | 73 | 1171 | 6.2 | English <translate-devel@lists.sourceforge.net> | 
+ | [olpc-switch-desktop](/f17/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package attr (version 2.4.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f7/attr/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f7/attr/po/fr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f7/attr/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f7/attr/po/pl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f7/attr/po/sv.po | 
+ | [de](/f7/language/de) | 307 | 307 | 100.0 | /mnt/stockage/packages/f7/attr/po/de.po | 
+ | [fr](/f7/language/fr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f7/attr/po/fr.po | 
+ | [nl](/f7/language/nl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f7/attr/po/nl.po | 
+ | [pl](/f7/language/pl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f7/attr/po/pl.po | 
+ | [sv](/f7/language/sv) | 308 | 308 | 100.0 | /mnt/stockage/packages/f7/attr/po/sv.po | 
 {.sortable}
 
 

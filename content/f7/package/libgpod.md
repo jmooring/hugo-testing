@@ -18,14 +18,14 @@ The package libgpod (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/libgpod/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/libgpod/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/libgpod/po/it.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 819 | 842 | 97.3 | /mnt/stockage/packages/f7/libgpod/po/ro.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 738 | 842 | 87.6 | /mnt/stockage/packages/f7/libgpod/po/de.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 729 | 842 | 86.6 | /mnt/stockage/packages/f7/libgpod/po/sv.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 713 | 842 | 84.7 | /mnt/stockage/packages/f7/libgpod/po/ja.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 205 | 842 | 24.3 | /mnt/stockage/packages/f7/libgpod/po/he.po | 
+ | [es](/f7/language/es) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/libgpod/po/es.po | 
+ | [fr](/f7/language/fr) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/libgpod/po/fr.po | 
+ | [it](/f7/language/it) | 842 | 842 | 100.0 | /mnt/stockage/packages/f7/libgpod/po/it.po | 
+ | [ro](/f7/language/ro) | 819 | 842 | 97.3 | /mnt/stockage/packages/f7/libgpod/po/ro.po | 
+ | [de](/f7/language/de) | 738 | 842 | 87.6 | /mnt/stockage/packages/f7/libgpod/po/de.po | 
+ | [sv](/f7/language/sv) | 729 | 842 | 86.6 | /mnt/stockage/packages/f7/libgpod/po/sv.po | 
+ | [ja](/f7/language/ja) | 713 | 842 | 84.7 | /mnt/stockage/packages/f7/libgpod/po/ja.po | 
+ | [he](/f7/language/he) | 205 | 842 | 24.3 | /mnt/stockage/packages/f7/libgpod/po/he.po | 
 {.sortable}
 
 

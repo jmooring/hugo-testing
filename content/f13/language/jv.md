@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [terminator]({{< ref "/f13/package/terminator.md" >}}) | 97 | 218 | 44.5 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f13/package/backintime.md" >}}) | 15 | 441 | 3.4 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f13/package/gmpc.md" >}}) | 29 | 1403 | 2.1 | Javanese <jv@li.org> | 
- | [avant-window-navigator]({{< ref "/f13/package/avant-window-navigator.md" >}}) | 5 | 1655 | 0.3 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f13/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [terminator](/f13/package/terminator) | 97 | 218 | 44.5 | Javanese <jv@li.org> | 
+ | [backintime](/f13/package/backintime) | 15 | 441 | 3.4 | Javanese <jv@li.org> | 
+ | [gmpc](/f13/package/gmpc) | 29 | 1403 | 2.1 | Javanese <jv@li.org> | 
+ | [avant-window-navigator](/f13/package/avant-window-navigator) | 5 | 1655 | 0.3 | Javanese <jv@li.org> | 
+ | [ailurus](/f13/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [vidalia](/f13/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

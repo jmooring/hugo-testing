@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [intltool]({{< ref "/f35/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [mame]({{< ref "/f35/package/mame.md" >}}) | 824 | 3650 | 22.6 | MAME Language Team | 
+ | [intltool](/f35/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [mame](/f35/package/mame) | 824 | 3650 | 22.6 | MAME Language Team | 
 {.sortable}
 
 

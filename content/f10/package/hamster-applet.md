@@ -18,52 +18,52 @@ The package hamster-applet (version 2.24.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/el.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/gu.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/he.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ru.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ta.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/tr.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 244 | 245 | 99.6 | /mnt/stockage/packages/f10/hamster-applet/po/zh_CN.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 194 | 206 | 94.2 | /mnt/stockage/packages/f10/hamster-applet/po/pa.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 188 | 203 | 92.6 | /mnt/stockage/packages/f10/hamster-applet/po/kn.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 169 | 206 | 82.0 | /mnt/stockage/packages/f10/hamster-applet/po/ar.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 128 | 171 | 74.9 | /mnt/stockage/packages/f10/hamster-applet/po/bn_IN.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 26 | 171 | 15.2 | /mnt/stockage/packages/f10/hamster-applet/po/hi.po | 
+ | [bg](/f10/language/bg) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/bg.po | 
+ | [ca](/f10/language/ca) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ca.po | 
+ | [cs](/f10/language/cs) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/cs.po | 
+ | [da](/f10/language/da) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/da.po | 
+ | [de](/f10/language/de) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/de.po | 
+ | [el](/f10/language/el) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/el.po | 
+ | [en_GB](/f10/language/en_GB) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/en_GB.po | 
+ | [es](/f10/language/es) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/es.po | 
+ | [et](/f10/language/et) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/et.po | 
+ | [eu](/f10/language/eu) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/eu.po | 
+ | [fi](/f10/language/fi) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/fi.po | 
+ | [fr](/f10/language/fr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/fr.po | 
+ | [gl](/f10/language/gl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/gl.po | 
+ | [gu](/f10/language/gu) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/gu.po | 
+ | [he](/f10/language/he) | 171 | 171 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/he.po | 
+ | [hu](/f10/language/hu) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/hu.po | 
+ | [it](/f10/language/it) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/it.po | 
+ | [ja](/f10/language/ja) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ja.po | 
+ | [ko](/f10/language/ko) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ko.po | 
+ | [lt](/f10/language/lt) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/lt.po | 
+ | [lv](/f10/language/lv) | 171 | 171 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/lv.po | 
+ | [mk](/f10/language/mk) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/mk.po | 
+ | [ml](/f10/language/ml) | 189 | 189 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ml.po | 
+ | [mr](/f10/language/mr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/nb.po | 
+ | [nl](/f10/language/nl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/nl.po | 
+ | [pl](/f10/language/pl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/pl.po | 
+ | [pt](/f10/language/pt) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ru.po | 
+ | [sl](/f10/language/sl) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sl.po | 
+ | [sq](/f10/language/sq) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sq.po | 
+ | [sr](/f10/language/sr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/sv.po | 
+ | [ta](/f10/language/ta) | 203 | 203 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/ta.po | 
+ | [th](/f10/language/th) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/th.po | 
+ | [tr](/f10/language/tr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/tr.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 206 | 206 | 100.0 | /mnt/stockage/packages/f10/hamster-applet/po/zh_HK.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 244 | 245 | 99.6 | /mnt/stockage/packages/f10/hamster-applet/po/zh_CN.po | 
+ | [pa](/f10/language/pa) | 194 | 206 | 94.2 | /mnt/stockage/packages/f10/hamster-applet/po/pa.po | 
+ | [kn](/f10/language/kn) | 188 | 203 | 92.6 | /mnt/stockage/packages/f10/hamster-applet/po/kn.po | 
+ | [ar](/f10/language/ar) | 169 | 206 | 82.0 | /mnt/stockage/packages/f10/hamster-applet/po/ar.po | 
+ | [bn_IN](/f10/language/bn_IN) | 128 | 171 | 74.9 | /mnt/stockage/packages/f10/hamster-applet/po/bn_IN.po | 
+ | [hi](/f10/language/hi) | 26 | 171 | 15.2 | /mnt/stockage/packages/f10/hamster-applet/po/hi.po | 
 {.sortable}
 
 

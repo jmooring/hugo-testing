@@ -18,31 +18,31 @@ The package webkitgtk (version 1.3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/de.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/it.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 1074 | 1074 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/lt.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/lv.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/nl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/pt.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sr@latin.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 1431 | 1436 | 99.7 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/ko.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1093 | 1103 | 99.1 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 1082 | 1093 | 99.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/vi.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 1076 | 1093 | 98.4 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/gl.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 1072 | 1093 | 98.1 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/gu.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1059 | 1093 | 96.9 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/cs.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 991 | 1074 | 92.3 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/et.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 948 | 1093 | 86.7 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sl.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 921 | 1093 | 84.3 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/es.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/en_GB.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/he.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/pa.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/pt_BR.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 650 | 1093 | 59.5 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/zh_CN.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 618 | 1093 | 56.5 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/ru.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 99 | 1093 | 9.1 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/nb.po | 
+ | [de](/f14/language/de) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/de.po | 
+ | [it](/f14/language/it) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/it.po | 
+ | [lt](/f14/language/lt) | 1074 | 1074 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/lt.po | 
+ | [lv](/f14/language/lv) | 688 | 688 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/lv.po | 
+ | [nl](/f14/language/nl) | 1404 | 1404 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/nl.po | 
+ | [pt](/f14/language/pt) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/pt.po | 
+ | [sr](/f14/language/sr) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sr@latin.po | 
+ | [ko](/f14/language/ko) | 1431 | 1436 | 99.7 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/ko.po | 
+ | [uk](/f14/language/uk) | 1093 | 1103 | 99.1 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/uk.po | 
+ | [vi](/f14/language/vi) | 1082 | 1093 | 99.0 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/vi.po | 
+ | [gl](/f14/language/gl) | 1076 | 1093 | 98.4 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/gl.po | 
+ | [gu](/f14/language/gu) | 1072 | 1093 | 98.1 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/gu.po | 
+ | [cs](/f14/language/cs) | 1059 | 1093 | 96.9 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/cs.po | 
+ | [et](/f14/language/et) | 991 | 1074 | 92.3 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/et.po | 
+ | [sl](/f14/language/sl) | 948 | 1093 | 86.7 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sl.po | 
+ | [es](/f14/language/es) | 921 | 1093 | 84.3 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/es.po | 
+ | [en_GB](/f14/language/en_GB) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/en_GB.po | 
+ | [he](/f14/language/he) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/he.po | 
+ | [pa](/f14/language/pa) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/pa.po | 
+ | [pt_BR](/f14/language/pt_BR) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/pt_BR.po | 
+ | [sv](/f14/language/sv) | 684 | 1093 | 62.6 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 650 | 1093 | 59.5 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/zh_CN.po | 
+ | [ru](/f14/language/ru) | 618 | 1093 | 56.5 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/ru.po | 
+ | [nb_NO](/f14/language/nb_NO) | 99 | 1093 | 9.1 | /mnt/stockage/packages/f14/webkitgtk/WebKit/gtk/po/nb.po | 
 {.sortable}
 
 

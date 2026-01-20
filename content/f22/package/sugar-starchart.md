@@ -18,17 +18,17 @@ The package sugar-starchart (version 16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f22/language/ayc.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/ayc.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/da.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/en.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/en_GB.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/en_US.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/es.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/zh_CN.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 267 | 311 | 85.9 | /mnt/stockage/packages/f22/sugar-starchart/po/pl.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 258 | 311 | 83.0 | /mnt/stockage/packages/f22/sugar-starchart/po/hy.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 0 | 311 | 0.0 | /mnt/stockage/packages/f22/sugar-starchart/po/hu.po | 
- | [mi]({{< ref "/f22/language/mi.md" >}}) | 0 | 311 | 0.0 | /mnt/stockage/packages/f22/sugar-starchart/po/mi.po | 
+ | [ayc](/f22/language/ayc) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/ayc.po | 
+ | [da](/f22/language/da) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/da.po | 
+ | [en](/f22/language/en) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/en.po | 
+ | [en_GB](/f22/language/en_GB) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/en_GB.po | 
+ | [en_US](/f22/language/en_US) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/en_US.po | 
+ | [es](/f22/language/es) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/es.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 311 | 311 | 100.0 | /mnt/stockage/packages/f22/sugar-starchart/po/zh_CN.po | 
+ | [pl](/f22/language/pl) | 267 | 311 | 85.9 | /mnt/stockage/packages/f22/sugar-starchart/po/pl.po | 
+ | [hy](/f22/language/hy) | 258 | 311 | 83.0 | /mnt/stockage/packages/f22/sugar-starchart/po/hy.po | 
+ | [hu](/f22/language/hu) | 0 | 311 | 0.0 | /mnt/stockage/packages/f22/sugar-starchart/po/hu.po | 
+ | [mi](/f22/language/mi) | 0 | 311 | 0.0 | /mnt/stockage/packages/f22/sugar-starchart/po/mi.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package gnome-shell-extension-freon (version 58):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_ES.po | 
- | [es_AR]({{< ref "/f43/language/es_AR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_AR.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/fr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/hu.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/it.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ko.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pt_BR.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/tr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_TW.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 102 | 104 | 98.1 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ru.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 102 | 104 | 98.1 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/uk_UA.po | 
+ | [cs](/f43/language/cs) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/cs.po | 
+ | [de](/f43/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/de.po | 
+ | [es](/f43/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_ES.po | 
+ | [es_AR](/f43/language/es_AR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_AR.po | 
+ | [fr](/f43/language/fr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/fr.po | 
+ | [hu](/f43/language/hu) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/hu.po | 
+ | [it](/f43/language/it) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/it.po | 
+ | [ko](/f43/language/ko) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ko.po | 
+ | [nl](/f43/language/nl) | 104 | 104 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/nl.po | 
+ | [pl](/f43/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pt_BR.po | 
+ | [tr](/f43/language/tr) | 363 | 363 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/tr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 258 | 258 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_TW.po | 
+ | [ru](/f43/language/ru) | 102 | 104 | 98.1 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ru.po | 
+ | [uk](/f43/language/uk) | 102 | 104 | 98.1 | /mnt/stockage/packages/f43/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/uk_UA.po | 
 {.sortable}
 
 

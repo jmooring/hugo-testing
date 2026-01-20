@@ -189,191 +189,191 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [arduino]({{< ref "/f33/package/arduino.md" >}}) | 3204 | 3204 | 100.0 | English (http://www.transifex.com/mbanzi/arduino-ide-15/language/en/) | 
- | [bustle]({{< ref "/f33/package/bustle.md" >}}) | 119 | 119 | 100.0 | English | 
- | [cairo-dock]({{< ref "/f33/package/cairo-dock.md" >}}) | 7464 | 7464 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
- | [cairo-dock-plug-ins]({{< ref "/f33/package/cairo-dock-plug-ins.md" >}}) | 10203 | 10203 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
- | [celestia]({{< ref "/f33/package/celestia.md" >}}) | 102 | 102 | 100.0 | English | 
- | [clisp]({{< ref "/f33/package/clisp.md" >}}) | 13781 | 13781 | 100.0 | English <en@li.org> | 
- | [cook]({{< ref "/f33/package/cook.md" >}}) | 997 | 997 | 100.0 |  | 
- | [cups-pk-helper]({{< ref "/f33/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | English (http://www.transifex.com/freedesktop/cups-pk-helper/language/en/) | 
- | [cura-lulzbot]({{< ref "/f33/package/cura-lulzbot.md" >}}) | 3035 | 3035 | 100.0 | None | 
- | [dvdbackup]({{< ref "/f33/package/dvdbackup.md" >}}) | 2048 | 2048 | 100.0 | none | 
- | [extra-cmake-modules]({{< ref "/f33/package/extra-cmake-modules.md" >}}) | 16 | 16 | 100.0 |  | 
- | [gauche]({{< ref "/f33/package/gauche.md" >}}) | 82 | 82 | 100.0 |  | 
- | [gcompris-qt]({{< ref "/f33/package/gcompris-qt.md" >}}) | 48 | 48 | 100.0 |  | 
- | [gnome-desktop3]({{< ref "/f33/package/gnome-desktop3.md" >}}) | 34 | 34 | 100.0 | English <en@li.org> | 
- | [gnupg2]({{< ref "/f33/package/gnupg2.md" >}}) | 27136 | 27136 | 100.0 | none | 
- | [golang-github-ojii-gettext]({{< ref "/f33/package/golang-github-ojii-gettext.md" >}}) | 14 | 14 | 100.0 |  | 
- | [golang-github-snapcore-gettext]({{< ref "/f33/package/golang-github-snapcore-gettext.md" >}}) | 14 | 14 | 100.0 |  | 
- | [golang-k8s-kubernetes]({{< ref "/f33/package/golang-k8s-kubernetes.md" >}}) | 13634 | 13634 | 100.0 |  | 
- | [groonga]({{< ref "/f33/package/groonga.md" >}}) | 109551 | 109551 | 100.0 | none | 
- | [kid3]({{< ref "/f33/package/kid3.md" >}}) | 12 | 12 | 100.0 |  | 
- | [kubernetes]({{< ref "/f33/package/kubernetes.md" >}}) | 13634 | 13634 | 100.0 |  | 
- | [langpacks-install]({{< ref "/f33/package/langpacks-install.md" >}}) | 9 | 9 | 100.0 | English | 
- | [lazarus]({{< ref "/f33/package/lazarus.md" >}}) | 54 | 54 | 100.0 |  | 
- | [olpc-switch-desktop]({{< ref "/f33/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [openbox]({{< ref "/f33/package/openbox.md" >}}) | 1012 | 1012 | 100.0 | none | 
- | [origin]({{< ref "/f33/package/origin.md" >}}) | 13598 | 13598 | 100.0 |  | 
- | [perl-Locale-Maketext-Lexicon]({{< ref "/f33/package/perl-Locale-Maketext-Lexicon.md" >}}) | 3 | 3 | 100.0 | Italian <cosimo@cpan.org> | 
- | [php-laminas-i18n]({{< ref "/f33/package/php-laminas-i18n.md" >}}) | 25 | 25 | 100.0 |  | 
- | [poweradmin]({{< ref "/f33/package/poweradmin.md" >}}) | 1878 | 1878 | 100.0 | LANGUAGE <LL@li.org> | 
- | [prusa-slicer]({{< ref "/f33/package/prusa-slicer.md" >}}) | 899 | 899 | 100.0 |  | 
- | [pyhoca-gui]({{< ref "/f33/package/pyhoca-gui.md" >}}) | 1838 | 1838 | 100.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
- | [python-django-rest-framework]({{< ref "/f33/package/python-django-rest-framework.md" >}}) | 582 | 582 | 100.0 | English (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en/) | 
- | [python-nikola]({{< ref "/f33/package/python-nikola.md" >}}) | 94 | 94 | 100.0 | English (http://www.transifex.com/projects/p/nikola/language/en/) | 
- | [python-pyramid]({{< ref "/f33/package/python-pyramid.md" >}}) | 12 | 12 | 100.0 | de <LL@li.org> | 
- | [python-sphinx]({{< ref "/f33/package/python-sphinx.md" >}}) | 4 | 4 | 100.0 |  | 
- | [python-uranium-lulzbot]({{< ref "/f33/package/python-uranium-lulzbot.md" >}}) | 404 | 404 | 100.0 | none | 
- | [python-wtforms]({{< ref "/f33/package/python-wtforms.md" >}}) | 202 | 202 | 100.0 | en_US <james+i18n@simplecodes.com> | 
- | [qt3]({{< ref "/f33/package/qt3.md" >}}) | 482 | 482 | 100.0 |  | 
- | [qtwebkit]({{< ref "/f33/package/qtwebkit.md" >}}) | 1472 | 1472 | 100.0 | Canadian English | 
- | [quarry]({{< ref "/f33/package/quarry.md" >}}) | 1807 | 1807 | 100.0 |  | 
- | [ravada]({{< ref "/f33/package/ravada.md" >}}) | 1076 | 1076 | 100.0 | English <https://hosted.weblate.org/projects/ravada/translation/en/> | 
- | [rt]({{< ref "/f33/package/rt.md" >}}) | 3 | 3 | 100.0 | English <en@li.org> | 
- | [sakura]({{< ref "/f33/package/sakura.md" >}}) | 200 | 200 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
- | [schroot]({{< ref "/f33/package/schroot.md" >}}) | 1665 | 1665 | 100.0 | English <rleigh@debian.org> | 
- | [shared-mime-info]({{< ref "/f33/package/shared-mime-info.md" >}}) | 3 | 3 | 100.0 | English <en@li.org> | 
- | [sugar]({{< ref "/f33/package/sugar.md" >}}) | 2305 | 2305 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f33/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f33/package/sugar-browse.md" >}}) | 334 | 334 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f33/package/sugar-calculator.md" >}}) | 866 | 866 | 100.0 | English | 
- | [sugar-chat]({{< ref "/f33/package/sugar-chat.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f33/package/sugar-clock.md" >}}) | 66 | 66 | 100.0 | English | 
- | [sugar-colordeducto]({{< ref "/f33/package/sugar-colordeducto.md" >}}) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f33/package/sugar-deducto.md" >}}) | 107 | 107 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f33/package/sugar-distance.md" >}}) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f33/package/sugar-finance.md" >}}) | 258 | 258 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-flip]({{< ref "/f33/package/sugar-flip.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f33/package/sugar-fototoon.md" >}}) | 139 | 139 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f33/package/sugar-fractionbounce.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f33/package/sugar-imageviewer.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f33/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f33/package/sugar-infoslicer.md" >}}) | 25 | 25 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f33/package/sugar-jukebox.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f33/package/sugar-labyrinth.md" >}}) | 298 | 298 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-locosugar]({{< ref "/f33/package/sugar-locosugar.md" >}}) | 74 | 74 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f33/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f33/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f33/package/sugar-measure.md" >}}) | 155 | 155 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f33/package/sugar-memorize.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-nutrition]({{< ref "/f33/package/sugar-nutrition.md" >}}) | 183 | 183 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f33/package/sugar-paint.md" >}}) | 106 | 106 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f33/package/sugar-physics.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f33/package/sugar-pippy.md" >}}) | 274 | 274 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f33/package/sugar-playgo.md" >}}) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f33/package/sugar-portfolio.md" >}}) | 73 | 73 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pukllanapac]({{< ref "/f33/package/sugar-pukllanapac.md" >}}) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f33/package/sugar-read.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-recall]({{< ref "/f33/package/sugar-recall.md" >}}) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f33/package/sugar-record.md" >}}) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f33/package/sugar-ruler.md" >}}) | 29 | 29 | 100.0 | English | 
- | [sugar-speak]({{< ref "/f33/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-srilanka]({{< ref "/f33/package/sugar-srilanka.md" >}}) | 459 | 459 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-starchart]({{< ref "/f33/package/sugar-starchart.md" >}}) | 311 | 311 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f33/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f33/package/sugar-story.md" >}}) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f33/package/sugar-terminal.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f33/package/sugar-toolkit-gtk3.md" >}}) | 213 | 213 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f33/package/sugar-typing-turtle.md" >}}) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f33/package/sugar-visualmatch.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f33/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f33/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f33/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-yupana]({{< ref "/f33/package/sugar-yupana.md" >}}) | 30 | 30 | 100.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f33/package/supertuxkart.md" >}}) | 5556 | 5556 | 100.0 | English (http://www.transifex.com/supertuxkart/supertuxkart/language/en/) | 
- | [swappy]({{< ref "/f33/package/swappy.md" >}}) | 19 | 19 | 100.0 | none | 
- | [vrms-rpm]({{< ref "/f33/package/vrms-rpm.md" >}}) | 55 | 55 | 100.0 |  | 
- | [wapiti]({{< ref "/f33/package/wapiti.md" >}}) | 1580 | 1580 | 100.0 | LANGUAGE <LL@li.org> | 
- | [wine]({{< ref "/f33/package/wine.md" >}}) | 18402 | 18402 | 100.0 | English | 
- | [xfburn]({{< ref "/f33/package/xfburn.md" >}}) | 1329 | 1329 | 100.0 | LANGUAGE <LL@li.org> | 
- | [zvbi]({{< ref "/f33/package/zvbi.md" >}}) | 1328 | 1328 | 100.0 | none | 
- | [cups]({{< ref "/f33/package/cups.md" >}}) | 12877 | 12903 | 99.8 | English | 
- | [geomorph]({{< ref "/f33/package/geomorph.md" >}}) | 1500 | 1508 | 99.5 | ... | 
- | [sumwars]({{< ref "/f33/package/sumwars.md" >}}) | 16926 | 17082 | 99.1 | English | 
- | [mailman3]({{< ref "/f33/package/mailman3.md" >}}) | 4417 | 4477 | 98.7 | none | 
- | [ncmpc]({{< ref "/f33/package/ncmpc.md" >}}) | 702 | 713 | 98.5 | none | 
- | [visualboyadvance-m]({{< ref "/f33/package/visualboyadvance-m.md" >}}) | 2216 | 2253 | 98.4 | English (http://www.transifex.com/bgk/vba-m/language/en/) | 
- | [asterisk]({{< ref "/f33/package/asterisk.md" >}}) | 130 | 134 | 97.0 |  | 
- | [kmix]({{< ref "/f33/package/kmix.md" >}}) | 22 | 23 | 95.7 | German <kde-i18n-de@kde.org> | 
- | [tilix]({{< ref "/f33/package/tilix.md" >}}) | 2004 | 2108 | 95.1 | English <https://hosted.weblate.org/projects/tilix/translations/en/> | 
- | [python-django-contrib-comments]({{< ref "/f33/package/python-django-contrib-comments.md" >}}) | 234 | 250 | 93.6 | English <en@li.org> | 
- | [mate-menu]({{< ref "/f33/package/mate-menu.md" >}}) | 285 | 308 | 92.5 | Mike Gabriel <mike.gabriel@das-netzwerkteam.de> | 
- | [mate-applet-softupd]({{< ref "/f33/package/mate-applet-softupd.md" >}}) | 74 | 80 | 92.5 | English | 
- | [xmms]({{< ref "/f33/package/xmms.md" >}}) | 3177 | 3443 | 92.3 | English | 
- | [meteo]({{< ref "/f33/package/meteo.md" >}}) | 223 | 260 | 85.8 |  | 
- | [duff]({{< ref "/f33/package/duff.md" >}}) | 197 | 232 | 84.9 |  | 
- | [rawstudio]({{< ref "/f33/package/rawstudio.md" >}}) | 1315 | 1606 | 81.9 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [rhash]({{< ref "/f33/package/rhash.md" >}}) | 380 | 465 | 81.7 | English (Australia) <en_AU@li.org> | 
- | [bluefish]({{< ref "/f33/package/bluefish.md" >}}) | 4003 | 4945 | 81.0 | none | 
- | [libsmbios]({{< ref "/f33/package/libsmbios.md" >}}) | 4462 | 6561 | 68.0 | none | 
- | [sugar-getiabooks]({{< ref "/f33/package/sugar-getiabooks.md" >}}) | 150 | 278 | 54.0 | LANGUAGE <LL@li.org> | 
- | [kf5-kjobwidgets]({{< ref "/f33/package/kf5-kjobwidgets.md" >}}) | 68 | 133 | 51.1 |  | 
- | [stellarium]({{< ref "/f33/package/stellarium.md" >}}) | 26973 | 53796 | 50.1 | English | 
- | [iso-codes]({{< ref "/f33/package/iso-codes.md" >}}) | 3279 | 6798 | 48.2 | English <https://hosted.weblate.org/projects/iso-codes/iso-3166-2/en/> | 
- | [mono]({{< ref "/f33/package/mono.md" >}}) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
- | [wine-mono]({{< ref "/f33/package/wine-mono.md" >}}) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
- | [ndisc6]({{< ref "/f33/package/ndisc6.md" >}}) | 448 | 1016 | 44.1 | English <en@li.org> | 
- | [sos]({{< ref "/f33/package/sos.md" >}}) | 54 | 137 | 39.4 | none | 
- | [giac]({{< ref "/f33/package/giac.md" >}}) | 2860 | 8206 | 34.9 | English | 
- | [gambas3]({{< ref "/f33/package/gambas3.md" >}}) | 187 | 570 | 32.8 | LANGUAGE <LL@li.org> | 
- | [perl]({{< ref "/f33/package/perl.md" >}}) | 10 | 32 | 31.2 | English <en@li.org> | 
- | [gajim]({{< ref "/f33/package/gajim.md" >}}) | 2338 | 10433 | 22.4 | English <en_gb@li.org> | 
- | [fish]({{< ref "/f33/package/fish.md" >}}) | 16828 | 97821 | 17.2 | English <fish-users@lists.sourceforge.net> | 
- | [harmonyseq]({{< ref "/f33/package/harmonyseq.md" >}}) | 120 | 1867 | 6.4 | English | 
- | [kf5-kcoreaddons]({{< ref "/f33/package/kf5-kcoreaddons.md" >}}) | 20 | 333 | 6.0 |  | 
- | [rubygem-fast_gettext]({{< ref "/f33/package/rubygem-fast_gettext.md" >}}) | 1 | 29 | 3.4 | LANGUAGE <LL@li.org> | 
- | [nagios-plugins]({{< ref "/f33/package/nagios-plugins.md" >}}) | 347 | 10715 | 3.2 | English <en@li.org> | 
- | [kdb]({{< ref "/f33/package/kdb.md" >}}) | 42 | 1401 | 3.0 |  | 
- | [calcurse]({{< ref "/f33/package/calcurse.md" >}}) | 81 | 2873 | 2.8 | English/GB <en_GB@li.org> | 
- | [picard]({{< ref "/f33/package/picard.md" >}}) | 54 | 2370 | 2.3 | English <en@li.org> | 
- | [systemtap]({{< ref "/f33/package/systemtap.md" >}}) | 224 | 9941 | 2.3 | English | 
- | [falkon]({{< ref "/f33/package/falkon.md" >}}) | 54 | 3339 | 1.6 |  | 
- | [gtimelog]({{< ref "/f33/package/gtimelog.md" >}}) | 6 | 437 | 1.4 | <marius@gedmin.as> | 
- | [kf5-kwidgetsaddons]({{< ref "/f33/package/kf5-kwidgetsaddons.md" >}}) | 16 | 1282 | 1.2 |  | 
- | [gnome-control-center]({{< ref "/f33/package/gnome-control-center.md" >}}) | 17 | 2260 | 0.8 | LANGUAGE <LL@li.org> | 
- | [clementine]({{< ref "/f33/package/clementine.md" >}}) | 21 | 3803 | 0.6 | LANGUAGE <LL@li.org> | 
- | [python-django]({{< ref "/f33/package/python-django.md" >}}) | 18 | 3828 | 0.5 | English <en@li.org> | 
- | [chromium]({{< ref "/f33/package/chromium.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [gtk3]({{< ref "/f33/package/gtk3.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [gtk4]({{< ref "/f33/package/gtk4.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [mingw-gtk3]({{< ref "/f33/package/mingw-gtk3.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [snapper]({{< ref "/f33/package/snapper.md" >}}) | 3 | 861 | 0.3 | English <i18n@suse.de> | 
- | [R]({{< ref "/f33/package/R.md" >}}) | 25 | 9903 | 0.3 | R-core <R-core@R-project.org> | 
- | [prewikka]({{< ref "/f33/package/prewikka.md" >}}) | 4 | 2270 | 0.2 | English | 
- | [lyx]({{< ref "/f33/package/lyx.md" >}}) | 18 | 25702 | 0.1 | German <lyx-docs@lists.lyx.org> | 
- | [icewm]({{< ref "/f33/package/icewm.md" >}}) | 1 | 2224 | 0.0 | English | 
- | [mathgl]({{< ref "/f33/package/mathgl.md" >}}) | 1 | 6103 | 0.0 |  | 
- | [GMT]({{< ref "/f33/package/GMT.md" >}}) | 0 | 88 | 0.0 | en <LL@li.org> | 
- | [R-scatterplot3d]({{< ref "/f33/package/R-scatterplot3d.md" >}}) | 0 | 20 | 0.0 |  | 
- | [antimicroX]({{< ref "/f33/package/antimicroX.md" >}}) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
- | [antimicrox]({{< ref "/f33/package/antimicrox.md" >}}) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
- | [dino]({{< ref "/f33/package/dino.md" >}}) | 0 | 839 | 0.0 |  | 
- | [dolphin-emu]({{< ref "/f33/package/dolphin-emu.md" >}}) | 0 | 11608 | 0.0 |  | 
- | [eiskaltdcpp]({{< ref "/f33/package/eiskaltdcpp.md" >}}) | 0 | 3626 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gnome-shell-extension-windowoverlay-icons]({{< ref "/f33/package/gnome-shell-extension-windowoverlay-icons.md" >}}) | 0 | 11 | 0.0 |  | 
- | [lammps]({{< ref "/f33/package/lammps.md" >}}) | 0 | 84 | 0.0 | en <LL@li.org> | 
- | [nghttp2]({{< ref "/f33/package/nghttp2.md" >}}) | 0 | 84 | 0.0 | en <LL@li.org> | 
- | [pgRouting]({{< ref "/f33/package/pgRouting.md" >}}) | 0 | 57171 | 0.0 | LANGUAGE <LL@li.org> | 
- | [plasma-applet-redshift-control]({{< ref "/f33/package/plasma-applet-redshift-control.md" >}}) | 0 | 62 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
- | [plasma-applet-weather-widget]({{< ref "/f33/package/plasma-applet-weather-widget.md" >}}) | 0 | 166 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
- | [pmount]({{< ref "/f33/package/pmount.md" >}}) | 0 | 723 | 0.0 | English <en@li.org> | 
- | [puppet]({{< ref "/f33/package/puppet.md" >}}) | 0 | 0 | 0.0 | none | 
- | [python-apprise]({{< ref "/f33/package/python-apprise.md" >}}) | 0 | 170 | 0.0 | en <LL@li.org> | 
- | [python-django-debug-toolbar]({{< ref "/f33/package/python-django-debug-toolbar.md" >}}) | 0 | 370 | 0.0 |  | 
- | [python-django-formtools]({{< ref "/f33/package/python-django-formtools.md" >}}) | 0 | 32 | 0.0 | English <en@li.org> | 
- | [python-django-helpdesk]({{< ref "/f33/package/python-django-helpdesk.md" >}}) | 0 | 3241 | 0.0 | English (http://www.transifex.com/projects/p/django-helpdesk/language/en/) | 
- | [python-django-markdownx]({{< ref "/f33/package/python-django-markdownx.md" >}}) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-registration]({{< ref "/f33/package/python-django-registration.md" >}}) | 0 | 84 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-robots]({{< ref "/f33/package/python-django-robots.md" >}}) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-taggit]({{< ref "/f33/package/python-django-taggit.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-pygit2]({{< ref "/f33/package/python-pygit2.md" >}}) | 0 | 88 | 0.0 | en <LL@li.org> | 
- | [scummvm]({{< ref "/f33/package/scummvm.md" >}}) | 0 | 0 | 0.0 |  | 
- | [skychart]({{< ref "/f33/package/skychart.md" >}}) | 0 | 1702 | 0.0 |  | 
- | [sugar-view-slides]({{< ref "/f33/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [transifex-client]({{< ref "/f33/package/transifex-client.md" >}}) | 0 | 0 | 0.0 |  | 
- | [vodovod]({{< ref "/f33/package/vodovod.md" >}}) | 0 | 457 | 0.0 | English US <mbabuskov@yahoo.com> | 
- | [wxMaxima]({{< ref "/f33/package/wxMaxima.md" >}}) | 0 | 21044 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [arduino](/f33/package/arduino) | 3204 | 3204 | 100.0 | English (http://www.transifex.com/mbanzi/arduino-ide-15/language/en/) | 
+ | [bustle](/f33/package/bustle) | 119 | 119 | 100.0 | English | 
+ | [cairo-dock](/f33/package/cairo-dock) | 7464 | 7464 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
+ | [cairo-dock-plug-ins](/f33/package/cairo-dock-plug-ins) | 10203 | 10203 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
+ | [celestia](/f33/package/celestia) | 102 | 102 | 100.0 | English | 
+ | [clisp](/f33/package/clisp) | 13781 | 13781 | 100.0 | English <en@li.org> | 
+ | [cook](/f33/package/cook) | 997 | 997 | 100.0 |  | 
+ | [cups-pk-helper](/f33/package/cups-pk-helper) | 149 | 149 | 100.0 | English (http://www.transifex.com/freedesktop/cups-pk-helper/language/en/) | 
+ | [cura-lulzbot](/f33/package/cura-lulzbot) | 3035 | 3035 | 100.0 | None | 
+ | [dvdbackup](/f33/package/dvdbackup) | 2048 | 2048 | 100.0 | none | 
+ | [extra-cmake-modules](/f33/package/extra-cmake-modules) | 16 | 16 | 100.0 |  | 
+ | [gauche](/f33/package/gauche) | 82 | 82 | 100.0 |  | 
+ | [gcompris-qt](/f33/package/gcompris-qt) | 48 | 48 | 100.0 |  | 
+ | [gnome-desktop3](/f33/package/gnome-desktop3) | 34 | 34 | 100.0 | English <en@li.org> | 
+ | [gnupg2](/f33/package/gnupg2) | 27136 | 27136 | 100.0 | none | 
+ | [golang-github-ojii-gettext](/f33/package/golang-github-ojii-gettext) | 14 | 14 | 100.0 |  | 
+ | [golang-github-snapcore-gettext](/f33/package/golang-github-snapcore-gettext) | 14 | 14 | 100.0 |  | 
+ | [golang-k8s-kubernetes](/f33/package/golang-k8s-kubernetes) | 13634 | 13634 | 100.0 |  | 
+ | [groonga](/f33/package/groonga) | 109551 | 109551 | 100.0 | none | 
+ | [kid3](/f33/package/kid3) | 12 | 12 | 100.0 |  | 
+ | [kubernetes](/f33/package/kubernetes) | 13634 | 13634 | 100.0 |  | 
+ | [langpacks-install](/f33/package/langpacks-install) | 9 | 9 | 100.0 | English | 
+ | [lazarus](/f33/package/lazarus) | 54 | 54 | 100.0 |  | 
+ | [olpc-switch-desktop](/f33/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [openbox](/f33/package/openbox) | 1012 | 1012 | 100.0 | none | 
+ | [origin](/f33/package/origin) | 13598 | 13598 | 100.0 |  | 
+ | [perl-Locale-Maketext-Lexicon](/f33/package/perl-Locale-Maketext-Lexicon) | 3 | 3 | 100.0 | Italian <cosimo@cpan.org> | 
+ | [php-laminas-i18n](/f33/package/php-laminas-i18n) | 25 | 25 | 100.0 |  | 
+ | [poweradmin](/f33/package/poweradmin) | 1878 | 1878 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [prusa-slicer](/f33/package/prusa-slicer) | 899 | 899 | 100.0 |  | 
+ | [pyhoca-gui](/f33/package/pyhoca-gui) | 1838 | 1838 | 100.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
+ | [python-django-rest-framework](/f33/package/python-django-rest-framework) | 582 | 582 | 100.0 | English (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en/) | 
+ | [python-nikola](/f33/package/python-nikola) | 94 | 94 | 100.0 | English (http://www.transifex.com/projects/p/nikola/language/en/) | 
+ | [python-pyramid](/f33/package/python-pyramid) | 12 | 12 | 100.0 | de <LL@li.org> | 
+ | [python-sphinx](/f33/package/python-sphinx) | 4 | 4 | 100.0 |  | 
+ | [python-uranium-lulzbot](/f33/package/python-uranium-lulzbot) | 404 | 404 | 100.0 | none | 
+ | [python-wtforms](/f33/package/python-wtforms) | 202 | 202 | 100.0 | en_US <james+i18n@simplecodes.com> | 
+ | [qt3](/f33/package/qt3) | 482 | 482 | 100.0 |  | 
+ | [qtwebkit](/f33/package/qtwebkit) | 1472 | 1472 | 100.0 | Canadian English | 
+ | [quarry](/f33/package/quarry) | 1807 | 1807 | 100.0 |  | 
+ | [ravada](/f33/package/ravada) | 1076 | 1076 | 100.0 | English <https://hosted.weblate.org/projects/ravada/translation/en/> | 
+ | [rt](/f33/package/rt) | 3 | 3 | 100.0 | English <en@li.org> | 
+ | [sakura](/f33/package/sakura) | 200 | 200 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
+ | [schroot](/f33/package/schroot) | 1665 | 1665 | 100.0 | English <rleigh@debian.org> | 
+ | [shared-mime-info](/f33/package/shared-mime-info) | 3 | 3 | 100.0 | English <en@li.org> | 
+ | [sugar](/f33/package/sugar) | 2305 | 2305 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f33/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f33/package/sugar-browse) | 334 | 334 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f33/package/sugar-calculator) | 866 | 866 | 100.0 | English | 
+ | [sugar-chat](/f33/package/sugar-chat) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f33/package/sugar-clock) | 66 | 66 | 100.0 | English | 
+ | [sugar-colordeducto](/f33/package/sugar-colordeducto) | 109 | 109 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f33/package/sugar-deducto) | 107 | 107 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f33/package/sugar-distance) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f33/package/sugar-finance) | 258 | 258 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-flip](/f33/package/sugar-flip) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f33/package/sugar-fototoon) | 139 | 139 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f33/package/sugar-fractionbounce) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f33/package/sugar-imageviewer) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f33/package/sugar-implode) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f33/package/sugar-infoslicer) | 25 | 25 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f33/package/sugar-jukebox) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f33/package/sugar-labyrinth) | 298 | 298 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-locosugar](/f33/package/sugar-locosugar) | 74 | 74 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f33/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f33/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f33/package/sugar-measure) | 155 | 155 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f33/package/sugar-memorize) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-nutrition](/f33/package/sugar-nutrition) | 183 | 183 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f33/package/sugar-paint) | 106 | 106 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f33/package/sugar-physics) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f33/package/sugar-pippy) | 274 | 274 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f33/package/sugar-playgo) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f33/package/sugar-portfolio) | 73 | 73 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pukllanapac](/f33/package/sugar-pukllanapac) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f33/package/sugar-read) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-recall](/f33/package/sugar-recall) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f33/package/sugar-record) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f33/package/sugar-ruler) | 29 | 29 | 100.0 | English | 
+ | [sugar-speak](/f33/package/sugar-speak) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-srilanka](/f33/package/sugar-srilanka) | 459 | 459 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-starchart](/f33/package/sugar-starchart) | 311 | 311 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f33/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f33/package/sugar-story) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f33/package/sugar-terminal) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f33/package/sugar-toolkit-gtk3) | 213 | 213 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f33/package/sugar-typing-turtle) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f33/package/sugar-visualmatch) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f33/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f33/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f33/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-yupana](/f33/package/sugar-yupana) | 30 | 30 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f33/package/supertuxkart) | 5556 | 5556 | 100.0 | English (http://www.transifex.com/supertuxkart/supertuxkart/language/en/) | 
+ | [swappy](/f33/package/swappy) | 19 | 19 | 100.0 | none | 
+ | [vrms-rpm](/f33/package/vrms-rpm) | 55 | 55 | 100.0 |  | 
+ | [wapiti](/f33/package/wapiti) | 1580 | 1580 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [wine](/f33/package/wine) | 18402 | 18402 | 100.0 | English | 
+ | [xfburn](/f33/package/xfburn) | 1329 | 1329 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [zvbi](/f33/package/zvbi) | 1328 | 1328 | 100.0 | none | 
+ | [cups](/f33/package/cups) | 12877 | 12903 | 99.8 | English | 
+ | [geomorph](/f33/package/geomorph) | 1500 | 1508 | 99.5 | ... | 
+ | [sumwars](/f33/package/sumwars) | 16926 | 17082 | 99.1 | English | 
+ | [mailman3](/f33/package/mailman3) | 4417 | 4477 | 98.7 | none | 
+ | [ncmpc](/f33/package/ncmpc) | 702 | 713 | 98.5 | none | 
+ | [visualboyadvance-m](/f33/package/visualboyadvance-m) | 2216 | 2253 | 98.4 | English (http://www.transifex.com/bgk/vba-m/language/en/) | 
+ | [asterisk](/f33/package/asterisk) | 130 | 134 | 97.0 |  | 
+ | [kmix](/f33/package/kmix) | 22 | 23 | 95.7 | German <kde-i18n-de@kde.org> | 
+ | [tilix](/f33/package/tilix) | 2004 | 2108 | 95.1 | English <https://hosted.weblate.org/projects/tilix/translations/en/> | 
+ | [python-django-contrib-comments](/f33/package/python-django-contrib-comments) | 234 | 250 | 93.6 | English <en@li.org> | 
+ | [mate-menu](/f33/package/mate-menu) | 285 | 308 | 92.5 | Mike Gabriel <mike.gabriel@das-netzwerkteam.de> | 
+ | [mate-applet-softupd](/f33/package/mate-applet-softupd) | 74 | 80 | 92.5 | English | 
+ | [xmms](/f33/package/xmms) | 3177 | 3443 | 92.3 | English | 
+ | [meteo](/f33/package/meteo) | 223 | 260 | 85.8 |  | 
+ | [duff](/f33/package/duff) | 197 | 232 | 84.9 |  | 
+ | [rawstudio](/f33/package/rawstudio) | 1315 | 1606 | 81.9 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [rhash](/f33/package/rhash) | 380 | 465 | 81.7 | English (Australia) <en_AU@li.org> | 
+ | [bluefish](/f33/package/bluefish) | 4003 | 4945 | 81.0 | none | 
+ | [libsmbios](/f33/package/libsmbios) | 4462 | 6561 | 68.0 | none | 
+ | [sugar-getiabooks](/f33/package/sugar-getiabooks) | 150 | 278 | 54.0 | LANGUAGE <LL@li.org> | 
+ | [kf5-kjobwidgets](/f33/package/kf5-kjobwidgets) | 68 | 133 | 51.1 |  | 
+ | [stellarium](/f33/package/stellarium) | 26973 | 53796 | 50.1 | English | 
+ | [iso-codes](/f33/package/iso-codes) | 3279 | 6798 | 48.2 | English <https://hosted.weblate.org/projects/iso-codes/iso-3166-2/en/> | 
+ | [mono](/f33/package/mono) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
+ | [wine-mono](/f33/package/wine-mono) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
+ | [ndisc6](/f33/package/ndisc6) | 448 | 1016 | 44.1 | English <en@li.org> | 
+ | [sos](/f33/package/sos) | 54 | 137 | 39.4 | none | 
+ | [giac](/f33/package/giac) | 2860 | 8206 | 34.9 | English | 
+ | [gambas3](/f33/package/gambas3) | 187 | 570 | 32.8 | LANGUAGE <LL@li.org> | 
+ | [perl](/f33/package/perl) | 10 | 32 | 31.2 | English <en@li.org> | 
+ | [gajim](/f33/package/gajim) | 2338 | 10433 | 22.4 | English <en_gb@li.org> | 
+ | [fish](/f33/package/fish) | 16828 | 97821 | 17.2 | English <fish-users@lists.sourceforge.net> | 
+ | [harmonyseq](/f33/package/harmonyseq) | 120 | 1867 | 6.4 | English | 
+ | [kf5-kcoreaddons](/f33/package/kf5-kcoreaddons) | 20 | 333 | 6.0 |  | 
+ | [rubygem-fast_gettext](/f33/package/rubygem-fast_gettext) | 1 | 29 | 3.4 | LANGUAGE <LL@li.org> | 
+ | [nagios-plugins](/f33/package/nagios-plugins) | 347 | 10715 | 3.2 | English <en@li.org> | 
+ | [kdb](/f33/package/kdb) | 42 | 1401 | 3.0 |  | 
+ | [calcurse](/f33/package/calcurse) | 81 | 2873 | 2.8 | English/GB <en_GB@li.org> | 
+ | [picard](/f33/package/picard) | 54 | 2370 | 2.3 | English <en@li.org> | 
+ | [systemtap](/f33/package/systemtap) | 224 | 9941 | 2.3 | English | 
+ | [falkon](/f33/package/falkon) | 54 | 3339 | 1.6 |  | 
+ | [gtimelog](/f33/package/gtimelog) | 6 | 437 | 1.4 | <marius@gedmin.as> | 
+ | [kf5-kwidgetsaddons](/f33/package/kf5-kwidgetsaddons) | 16 | 1282 | 1.2 |  | 
+ | [gnome-control-center](/f33/package/gnome-control-center) | 17 | 2260 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [clementine](/f33/package/clementine) | 21 | 3803 | 0.6 | LANGUAGE <LL@li.org> | 
+ | [python-django](/f33/package/python-django) | 18 | 3828 | 0.5 | English <en@li.org> | 
+ | [chromium](/f33/package/chromium) | 49 | 12551 | 0.4 |  | 
+ | [gtk3](/f33/package/gtk3) | 49 | 12551 | 0.4 |  | 
+ | [gtk4](/f33/package/gtk4) | 49 | 12551 | 0.4 |  | 
+ | [mingw-gtk3](/f33/package/mingw-gtk3) | 49 | 12551 | 0.4 |  | 
+ | [snapper](/f33/package/snapper) | 3 | 861 | 0.3 | English <i18n@suse.de> | 
+ | [R](/f33/package/R) | 25 | 9903 | 0.3 | R-core <R-core@R-project.org> | 
+ | [prewikka](/f33/package/prewikka) | 4 | 2270 | 0.2 | English | 
+ | [lyx](/f33/package/lyx) | 18 | 25702 | 0.1 | German <lyx-docs@lists.lyx.org> | 
+ | [icewm](/f33/package/icewm) | 1 | 2224 | 0.0 | English | 
+ | [mathgl](/f33/package/mathgl) | 1 | 6103 | 0.0 |  | 
+ | [GMT](/f33/package/GMT) | 0 | 88 | 0.0 | en <LL@li.org> | 
+ | [R-scatterplot3d](/f33/package/R-scatterplot3d) | 0 | 20 | 0.0 |  | 
+ | [antimicroX](/f33/package/antimicroX) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [antimicrox](/f33/package/antimicrox) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dino](/f33/package/dino) | 0 | 839 | 0.0 |  | 
+ | [dolphin-emu](/f33/package/dolphin-emu) | 0 | 11608 | 0.0 |  | 
+ | [eiskaltdcpp](/f33/package/eiskaltdcpp) | 0 | 3626 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-shell-extension-windowoverlay-icons](/f33/package/gnome-shell-extension-windowoverlay-icons) | 0 | 11 | 0.0 |  | 
+ | [lammps](/f33/package/lammps) | 0 | 84 | 0.0 | en <LL@li.org> | 
+ | [nghttp2](/f33/package/nghttp2) | 0 | 84 | 0.0 | en <LL@li.org> | 
+ | [pgRouting](/f33/package/pgRouting) | 0 | 57171 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [plasma-applet-redshift-control](/f33/package/plasma-applet-redshift-control) | 0 | 62 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
+ | [plasma-applet-weather-widget](/f33/package/plasma-applet-weather-widget) | 0 | 166 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
+ | [pmount](/f33/package/pmount) | 0 | 723 | 0.0 | English <en@li.org> | 
+ | [puppet](/f33/package/puppet) | 0 | 0 | 0.0 | none | 
+ | [python-apprise](/f33/package/python-apprise) | 0 | 170 | 0.0 | en <LL@li.org> | 
+ | [python-django-debug-toolbar](/f33/package/python-django-debug-toolbar) | 0 | 370 | 0.0 |  | 
+ | [python-django-formtools](/f33/package/python-django-formtools) | 0 | 32 | 0.0 | English <en@li.org> | 
+ | [python-django-helpdesk](/f33/package/python-django-helpdesk) | 0 | 3241 | 0.0 | English (http://www.transifex.com/projects/p/django-helpdesk/language/en/) | 
+ | [python-django-markdownx](/f33/package/python-django-markdownx) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-registration](/f33/package/python-django-registration) | 0 | 84 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-robots](/f33/package/python-django-robots) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-taggit](/f33/package/python-django-taggit) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-pygit2](/f33/package/python-pygit2) | 0 | 88 | 0.0 | en <LL@li.org> | 
+ | [scummvm](/f33/package/scummvm) | 0 | 0 | 0.0 |  | 
+ | [skychart](/f33/package/skychart) | 0 | 1702 | 0.0 |  | 
+ | [sugar-view-slides](/f33/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [transifex-client](/f33/package/transifex-client) | 0 | 0 | 0.0 |  | 
+ | [vodovod](/f33/package/vodovod) | 0 | 457 | 0.0 | English US <mbabuskov@yahoo.com> | 
+ | [wxMaxima](/f33/package/wxMaxima) | 0 | 21044 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -385,9 +385,9 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [qt3]({{< ref "/f33/package/qt3.md" >}}) | /mnt/stockage/packages/f33/qt3/examples/demo/i18n/en.po | error-os |  | 
- | [scummvm]({{< ref "/f33/package/scummvm.md" >}}) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings1-en.po | error-unicode |  | 
- | [scummvm]({{< ref "/f33/package/scummvm.md" >}}) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings2-en.po | error-unicode |  | 
+ | [qt3](/f33/package/qt3) | /mnt/stockage/packages/f33/qt3/examples/demo/i18n/en.po | error-os |  | 
+ | [scummvm](/f33/package/scummvm) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings1-en.po | error-unicode |  | 
+ | [scummvm](/f33/package/scummvm) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings2-en.po | error-unicode |  | 
 {.sortable}
 
 
@@ -398,8 +398,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [scummvm]({{< ref "/f33/package/scummvm.md" >}}) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings1-en.po |  | 
- | [scummvm]({{< ref "/f33/package/scummvm.md" >}}) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings2-en.po |  | 
+ | [scummvm](/f33/package/scummvm) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings1-en.po |  | 
+ | [scummvm](/f33/package/scummvm) | /mnt/stockage/packages/f33/scummvm/devtools/create_supernova/strings2-en.po |  | 
 {.sortable}
 
 

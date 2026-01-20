@@ -18,16 +18,16 @@ The package skencil (version 0.6.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/skencil/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/skencil/po/fr.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1485 | 1487 | 99.9 | /mnt/stockage/packages/f9/skencil/po/es.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1471 | 1487 | 98.9 | /mnt/stockage/packages/f9/skencil/po/pt.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1471 | 1487 | 98.9 | /mnt/stockage/packages/f9/skencil/po/sv.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 1426 | 1487 | 95.9 | /mnt/stockage/packages/f9/skencil/po/da.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1314 | 1487 | 88.4 | /mnt/stockage/packages/f9/skencil/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1304 | 1487 | 87.7 | /mnt/stockage/packages/f9/skencil/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1304 | 1487 | 87.7 | /mnt/stockage/packages/f9/skencil/po/ru.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 145 | 1487 | 9.8 | /mnt/stockage/packages/f9/skencil/po/rw.po | 
+ | [de](/f9/language/de) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/skencil/po/de.po | 
+ | [fr](/f9/language/fr) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/skencil/po/fr.po | 
+ | [es](/f9/language/es) | 1485 | 1487 | 99.9 | /mnt/stockage/packages/f9/skencil/po/es.po | 
+ | [pt](/f9/language/pt) | 1471 | 1487 | 98.9 | /mnt/stockage/packages/f9/skencil/po/pt.po | 
+ | [sv](/f9/language/sv) | 1471 | 1487 | 98.9 | /mnt/stockage/packages/f9/skencil/po/sv.po | 
+ | [da](/f9/language/da) | 1426 | 1487 | 95.9 | /mnt/stockage/packages/f9/skencil/po/da.po | 
+ | [it](/f9/language/it) | 1314 | 1487 | 88.4 | /mnt/stockage/packages/f9/skencil/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1304 | 1487 | 87.7 | /mnt/stockage/packages/f9/skencil/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 1304 | 1487 | 87.7 | /mnt/stockage/packages/f9/skencil/po/ru.po | 
+ | [rw](/f9/language/rw) | 145 | 1487 | 9.8 | /mnt/stockage/packages/f9/skencil/po/rw.po | 
 {.sortable}
 
 

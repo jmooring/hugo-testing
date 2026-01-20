@@ -18,8 +18,8 @@ The package aircrack-ng (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f26/aircrack-ng/scripts/airoscript-ng/src/locale/es_ES.UTF-8/airoscript-ng.po | 
- | [ng]({{< ref "/f26/language/ng.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f26/aircrack-ng/scripts/airoscript-ng/src/locale/airoscript-ng.po | 
+ | [es](/f26/language/es) | 588 | 588 | 100.0 | /mnt/stockage/packages/f26/aircrack-ng/scripts/airoscript-ng/src/locale/es_ES.UTF-8/airoscript-ng.po | 
+ | [ng](/f26/language/ng) | 588 | 588 | 100.0 | /mnt/stockage/packages/f26/aircrack-ng/scripts/airoscript-ng/src/locale/airoscript-ng.po | 
 {.sortable}
 
 

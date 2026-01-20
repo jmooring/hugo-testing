@@ -18,25 +18,25 @@ The package sudo (version 1.8.6p7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f19/language/da.md" >}}) | 3092 | 3092 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/da.po/mnt/stockage/packages/f19/sudo/src/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 932 | 932 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/de.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 3092 | 3092 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/eo.po/mnt/stockage/packages/f19/sudo/src/po/eo.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 939 | 939 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/fi.po/mnt/stockage/packages/f19/sudo/src/po/fi.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 860 | 860 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/gl.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/hr.po/mnt/stockage/packages/f19/sudo/src/po/hr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/it.po/mnt/stockage/packages/f19/sudo/src/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/ja.po/mnt/stockage/packages/f19/sudo/src/po/ja.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/pl.po/mnt/stockage/packages/f19/sudo/src/po/pl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 932 | 932 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/ru.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/sl.po/mnt/stockage/packages/f19/sudo/src/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 944 | 944 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/sr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/uk.po/mnt/stockage/packages/f19/sudo/src/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/vi.po/mnt/stockage/packages/f19/sudo/src/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/zh_CN.po/mnt/stockage/packages/f19/sudo/src/po/zh_CN.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1776 | 3008 | 59.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/sv.po/mnt/stockage/packages/f19/sudo/src/po/sv.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 707 | 3005 | 23.5 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/eu.po/mnt/stockage/packages/f19/sudo/src/po/eu.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 98 | 2138 | 4.6 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/lt.po | 
+ | [da](/f19/language/da) | 3092 | 3092 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/da.po/mnt/stockage/packages/f19/sudo/src/po/da.po | 
+ | [de](/f19/language/de) | 932 | 932 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/de.po | 
+ | [eo](/f19/language/eo) | 3092 | 3092 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/eo.po/mnt/stockage/packages/f19/sudo/src/po/eo.po | 
+ | [es](/f19/language/es) | 939 | 939 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/es.po | 
+ | [fi](/f19/language/fi) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/fi.po/mnt/stockage/packages/f19/sudo/src/po/fi.po | 
+ | [gl](/f19/language/gl) | 860 | 860 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/gl.po | 
+ | [hr](/f19/language/hr) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/hr.po/mnt/stockage/packages/f19/sudo/src/po/hr.po | 
+ | [it](/f19/language/it) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/it.po/mnt/stockage/packages/f19/sudo/src/po/it.po | 
+ | [ja](/f19/language/ja) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/ja.po/mnt/stockage/packages/f19/sudo/src/po/ja.po | 
+ | [pl](/f19/language/pl) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/pl.po/mnt/stockage/packages/f19/sudo/src/po/pl.po | 
+ | [ru](/f19/language/ru) | 932 | 932 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/ru.po | 
+ | [sl](/f19/language/sl) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/sl.po/mnt/stockage/packages/f19/sudo/src/po/sl.po | 
+ | [sr](/f19/language/sr) | 944 | 944 | 100.0 | /mnt/stockage/packages/f19/sudo/src/po/sr.po | 
+ | [uk](/f19/language/uk) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/uk.po/mnt/stockage/packages/f19/sudo/src/po/uk.po | 
+ | [vi](/f19/language/vi) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/vi.po/mnt/stockage/packages/f19/sudo/src/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 3087 | 3087 | 100.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/zh_CN.po/mnt/stockage/packages/f19/sudo/src/po/zh_CN.po | 
+ | [sv](/f19/language/sv) | 1776 | 3008 | 59.0 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/sv.po/mnt/stockage/packages/f19/sudo/src/po/sv.po | 
+ | [eu](/f19/language/eu) | 707 | 3005 | 23.5 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/eu.po/mnt/stockage/packages/f19/sudo/src/po/eu.po | 
+ | [lt](/f19/language/lt) | 98 | 2138 | 4.6 | /mnt/stockage/packages/f19/sudo/plugins/sudoers/po/lt.po | 
 {.sortable}
 
 

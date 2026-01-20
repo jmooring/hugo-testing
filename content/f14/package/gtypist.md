@@ -18,16 +18,16 @@ The package gtypist (version 2.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/gtypist/po/eu.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/cs.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/fr.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/ru.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/zh_CN.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 291 | 510 | 57.1 | /mnt/stockage/packages/f14/gtypist/po/de.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 291 | 510 | 57.1 | /mnt/stockage/packages/f14/gtypist/po/zh_TW.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 285 | 510 | 55.9 | /mnt/stockage/packages/f14/gtypist/po/nl.po | 
+ | [eu](/f14/language/eu) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/gtypist/po/eu.po | 
+ | [cs](/f14/language/cs) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/cs.po | 
+ | [es](/f14/language/es) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/es.po | 
+ | [fi](/f14/language/fi) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/fi.po | 
+ | [fr](/f14/language/fr) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/fr.po | 
+ | [ru](/f14/language/ru) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/ru.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 486 | 510 | 95.3 | /mnt/stockage/packages/f14/gtypist/po/zh_CN.po | 
+ | [de](/f14/language/de) | 291 | 510 | 57.1 | /mnt/stockage/packages/f14/gtypist/po/de.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 291 | 510 | 57.1 | /mnt/stockage/packages/f14/gtypist/po/zh_TW.po | 
+ | [nl](/f14/language/nl) | 285 | 510 | 55.9 | /mnt/stockage/packages/f14/gtypist/po/nl.po | 
 {.sortable}
 
 

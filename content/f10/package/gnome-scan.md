@@ -18,22 +18,22 @@ The package gnome-scan (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/dz.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/pt.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/sv.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 154 | 163 | 94.5 | /mnt/stockage/packages/f10/gnome-scan/po/pt_BR.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 110 | 204 | 53.9 | /mnt/stockage/packages/f10/gnome-scan/po/ar.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 45 | 201 | 22.4 | /mnt/stockage/packages/f10/gnome-scan/po/nb.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 40 | 240 | 16.7 | /mnt/stockage/packages/f10/gnome-scan/po/oc.po | 
+ | [ca](/f10/language/ca) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/ca.po | 
+ | [de](/f10/language/de) | 210 | 210 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/de.po | 
+ | [dz](/f10/language/dz) | 163 | 163 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/dz.po | 
+ | [en_GB](/f10/language/en_GB) | 240 | 240 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/en_GB.po | 
+ | [es](/f10/language/es) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/es.po | 
+ | [fi](/f10/language/fi) | 240 | 240 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/fi.po | 
+ | [fr](/f10/language/fr) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/fr.po | 
+ | [it](/f10/language/it) | 210 | 210 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/it.po | 
+ | [pl](/f10/language/pl) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/pl.po | 
+ | [pt](/f10/language/pt) | 240 | 240 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/pt.po | 
+ | [ru](/f10/language/ru) | 201 | 201 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/ru.po | 
+ | [sv](/f10/language/sv) | 241 | 241 | 100.0 | /mnt/stockage/packages/f10/gnome-scan/po/sv.po | 
+ | [pt_BR](/f10/language/pt_BR) | 154 | 163 | 94.5 | /mnt/stockage/packages/f10/gnome-scan/po/pt_BR.po | 
+ | [ar](/f10/language/ar) | 110 | 204 | 53.9 | /mnt/stockage/packages/f10/gnome-scan/po/ar.po | 
+ | [nb_NO](/f10/language/nb_NO) | 45 | 201 | 22.4 | /mnt/stockage/packages/f10/gnome-scan/po/nb.po | 
+ | [oc](/f10/language/oc) | 40 | 240 | 16.7 | /mnt/stockage/packages/f10/gnome-scan/po/oc.po | 
 {.sortable}
 
 

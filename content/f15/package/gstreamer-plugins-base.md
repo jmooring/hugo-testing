@@ -18,42 +18,42 @@ The package gstreamer-plugins-base (version 0.10.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/bg.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/fr.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sl.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/uk.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/cs.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/el.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/fi.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/hu.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/pt_BR.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 869 | 902 | 96.3 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sk.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 699 | 902 | 77.5 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ja.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/it.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/lv.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/vi.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 658 | 902 | 72.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/eu.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 645 | 902 | 71.5 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ca.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 645 | 902 | 71.5 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ro.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 567 | 902 | 62.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/lt.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 558 | 902 | 61.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 191 | 902 | 21.2 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/nb.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 49 | 902 | 5.4 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/or.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 49 | 902 | 5.4 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sq.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 40 | 902 | 4.4 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/en_GB.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 37 | 902 | 4.1 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/af.po | 
- | [az]({{< ref "/f15/language/az.md" >}}) | 37 | 902 | 4.1 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/az.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 37 | 902 | 4.1 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sr.po | 
+ | [bg](/f15/language/bg) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/bg.po | 
+ | [da](/f15/language/da) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/da.po | 
+ | [de](/f15/language/de) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/de.po | 
+ | [fr](/f15/language/fr) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/fr.po | 
+ | [nl](/f15/language/nl) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/nl.po | 
+ | [pl](/f15/language/pl) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/pl.po | 
+ | [ru](/f15/language/ru) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ru.po | 
+ | [sl](/f15/language/sl) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sl.po | 
+ | [tr](/f15/language/tr) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/tr.po | 
+ | [uk](/f15/language/uk) | 902 | 902 | 100.0 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/uk.po | 
+ | [cs](/f15/language/cs) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/cs.po | 
+ | [el](/f15/language/el) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/el.po | 
+ | [es](/f15/language/es) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/es.po | 
+ | [fi](/f15/language/fi) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/fi.po | 
+ | [gl](/f15/language/gl) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/gl.po | 
+ | [hu](/f15/language/hu) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/hu.po | 
+ | [pt_BR](/f15/language/pt_BR) | 891 | 902 | 98.8 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/pt_BR.po | 
+ | [sk](/f15/language/sk) | 869 | 902 | 96.3 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sk.po | 
+ | [ja](/f15/language/ja) | 699 | 902 | 77.5 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ja.po | 
+ | [id](/f15/language/id) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/id.po | 
+ | [it](/f15/language/it) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/it.po | 
+ | [lv](/f15/language/lv) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/lv.po | 
+ | [sv](/f15/language/sv) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sv.po | 
+ | [vi](/f15/language/vi) | 667 | 902 | 73.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/vi.po | 
+ | [eu](/f15/language/eu) | 658 | 902 | 72.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/eu.po | 
+ | [ca](/f15/language/ca) | 645 | 902 | 71.5 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ca.po | 
+ | [ro](/f15/language/ro) | 645 | 902 | 71.5 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/ro.po | 
+ | [lt](/f15/language/lt) | 567 | 902 | 62.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/lt.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 558 | 902 | 61.9 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/zh_CN.po | 
+ | [nb_NO](/f15/language/nb_NO) | 191 | 902 | 21.2 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/nb.po | 
+ | [or](/f15/language/or) | 49 | 902 | 5.4 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/or.po | 
+ | [sq](/f15/language/sq) | 49 | 902 | 5.4 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sq.po | 
+ | [en_GB](/f15/language/en_GB) | 40 | 902 | 4.4 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/en_GB.po | 
+ | [af](/f15/language/af) | 37 | 902 | 4.1 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/af.po | 
+ | [az](/f15/language/az) | 37 | 902 | 4.1 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/az.po | 
+ | [sr](/f15/language/sr) | 37 | 902 | 4.1 | /mnt/stockage/packages/f15/gstreamer-plugins-base/po/sr.po | 
 {.sortable}
 
 

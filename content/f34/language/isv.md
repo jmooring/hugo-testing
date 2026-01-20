@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f34/package/lagrange.md" >}}) | 138 | 138 | 100.0 | Interslavic <http://weblate.skyjake.fi/projects/lagrange/ui/isv/> | 
+ | [lagrange](/f34/package/lagrange) | 138 | 138 | 100.0 | Interslavic <http://weblate.skyjake.fi/projects/lagrange/ui/isv/> | 
 {.sortable}
 
 

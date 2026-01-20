@@ -18,8 +18,8 @@ The package openslides (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f19/openslides/openslides/locale/de/LC_MESSAGES/django.po/mnt/stockage/packages/f19/openslides/openslides/locale/de/LC_MESSAGES/djangojs.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f19/openslides/openslides/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f19/openslides/openslides/locale/fr/LC_MESSAGES/djangojs.po | 
+ | [de](/f19/language/de) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f19/openslides/openslides/locale/de/LC_MESSAGES/django.po/mnt/stockage/packages/f19/openslides/openslides/locale/de/LC_MESSAGES/djangojs.po | 
+ | [fr](/f19/language/fr) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f19/openslides/openslides/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f19/openslides/openslides/locale/fr/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

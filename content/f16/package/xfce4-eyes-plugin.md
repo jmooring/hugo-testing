@@ -18,60 +18,60 @@ The package xfce4-eyes-plugin (version 4.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ast.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/be.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/en_GB.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/eo.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/he.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ja.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/kk.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ko.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/sk.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/sq.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/sv.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/tr.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/uk.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f16/language/ur_PK.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/zh_CN.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ar.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/az.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/bg.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/bn_IN.po | 
- | [es_MX]({{< ref "/f16/language/es_MX.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/es_MX.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/et.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/fa.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/hi.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/lt.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/mr.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ms.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pa.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ro.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ta.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/zh_TW.po | 
+ | [ast](/f16/language/ast) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ast.po | 
+ | [be](/f16/language/be) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/be.po | 
+ | [ca](/f16/language/ca) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ca.po | 
+ | [cs](/f16/language/cs) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/cs.po | 
+ | [da](/f16/language/da) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/da.po | 
+ | [de](/f16/language/de) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/de.po | 
+ | [el](/f16/language/el) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/en_GB.po | 
+ | [eo](/f16/language/eo) | 1 | 1 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/eo.po | 
+ | [es](/f16/language/es) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/es.po | 
+ | [eu](/f16/language/eu) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/eu.po | 
+ | [fi](/f16/language/fi) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/fi.po | 
+ | [fr](/f16/language/fr) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/fr.po | 
+ | [gl](/f16/language/gl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/gl.po | 
+ | [he](/f16/language/he) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/he.po | 
+ | [hu](/f16/language/hu) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/hu.po | 
+ | [id](/f16/language/id) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/id.po | 
+ | [it](/f16/language/it) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/it.po | 
+ | [ja](/f16/language/ja) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ja.po | 
+ | [kk](/f16/language/kk) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/kk.po | 
+ | [ko](/f16/language/ko) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ko.po | 
+ | [lv](/f16/language/lv) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/lv.po | 
+ | [nb_NO](/f16/language/nb_NO) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/nb.po | 
+ | [nl](/f16/language/nl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/nl.po | 
+ | [pl](/f16/language/pl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pl.po | 
+ | [pt](/f16/language/pt) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ru.po | 
+ | [sk](/f16/language/sk) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/sk.po | 
+ | [sq](/f16/language/sq) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/sq.po | 
+ | [sv](/f16/language/sv) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/sv.po | 
+ | [tr](/f16/language/tr) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/tr.po | 
+ | [ug](/f16/language/ug) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ug.po | 
+ | [uk](/f16/language/uk) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/uk.po | 
+ | [ur](/f16/language/ur) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ur.po | 
+ | [ur_PK](/f16/language/ur_PK) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ur_PK.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/zh_CN.po | 
+ | [ar](/f16/language/ar) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ar.po | 
+ | [az](/f16/language/az) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/az.po | 
+ | [bg](/f16/language/bg) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/bg.po | 
+ | [bn_IN](/f16/language/bn_IN) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/bn_IN.po | 
+ | [es_MX](/f16/language/es_MX) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/es_MX.po | 
+ | [et](/f16/language/et) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/et.po | 
+ | [fa](/f16/language/fa) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/fa.po | 
+ | [gu](/f16/language/gu) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/gu.po | 
+ | [hi](/f16/language/hi) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/hi.po | 
+ | [lt](/f16/language/lt) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/lt.po | 
+ | [mr](/f16/language/mr) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/mr.po | 
+ | [ms](/f16/language/ms) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ms.po | 
+ | [pa](/f16/language/pa) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/pa.po | 
+ | [ro](/f16/language/ro) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ro.po | 
+ | [ta](/f16/language/ta) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/ta.po | 
+ | [vi](/f16/language/vi) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/vi.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 1 | 9 | 11.1 | /mnt/stockage/packages/f16/xfce4-eyes-plugin/po/zh_TW.po | 
 {.sortable}
 
 

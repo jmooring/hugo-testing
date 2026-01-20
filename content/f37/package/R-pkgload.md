@@ -18,7 +18,7 @@ The package R-pkgload (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f37/R-pkgload/tests/testthat/testTranslations/po/R-fr.po | 
+ | [fr](/f37/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f37/R-pkgload/tests/testthat/testTranslations/po/R-fr.po | 
 {.sortable}
 
 

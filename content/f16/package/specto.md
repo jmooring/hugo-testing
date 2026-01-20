@@ -18,17 +18,17 @@ The package specto (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/cs/specto.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 945 | 945 | 100.0 | /mnt/stockage/packages/f16/specto/po/es/specto.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 939 | 939 | 100.0 | /mnt/stockage/packages/f16/specto/po/fr/specto.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/it/specto.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/pt_BR/specto.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 939 | 939 | 100.0 | /mnt/stockage/packages/f16/specto/po/ru/specto.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/sv/specto.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 617 | 675 | 91.4 | /mnt/stockage/packages/f16/specto/po/tr/specto.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 825 | 939 | 87.9 | /mnt/stockage/packages/f16/specto/po/zh_CN/specto.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 648 | 939 | 69.0 | /mnt/stockage/packages/f16/specto/po/de/specto.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 325 | 675 | 48.1 | /mnt/stockage/packages/f16/specto/po/ro/specto.po | 
+ | [cs](/f16/language/cs) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/cs/specto.po | 
+ | [es](/f16/language/es) | 945 | 945 | 100.0 | /mnt/stockage/packages/f16/specto/po/es/specto.po | 
+ | [fr](/f16/language/fr) | 939 | 939 | 100.0 | /mnt/stockage/packages/f16/specto/po/fr/specto.po | 
+ | [it](/f16/language/it) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/it/specto.po | 
+ | [pt_BR](/f16/language/pt_BR) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/pt_BR/specto.po | 
+ | [ru](/f16/language/ru) | 939 | 939 | 100.0 | /mnt/stockage/packages/f16/specto/po/ru/specto.po | 
+ | [sv](/f16/language/sv) | 675 | 675 | 100.0 | /mnt/stockage/packages/f16/specto/po/sv/specto.po | 
+ | [tr](/f16/language/tr) | 617 | 675 | 91.4 | /mnt/stockage/packages/f16/specto/po/tr/specto.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 825 | 939 | 87.9 | /mnt/stockage/packages/f16/specto/po/zh_CN/specto.po | 
+ | [de](/f16/language/de) | 648 | 939 | 69.0 | /mnt/stockage/packages/f16/specto/po/de/specto.po | 
+ | [ro](/f16/language/ro) | 325 | 675 | 48.1 | /mnt/stockage/packages/f16/specto/po/ro/specto.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gestikk (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 348 | 355 | 98.0 | /mnt/stockage/packages/f15/gestikk/locale/de/LC_MESSAGES/gestikk.po | 
+ | [de](/f15/language/de) | 348 | 355 | 98.0 | /mnt/stockage/packages/f15/gestikk/locale/de/LC_MESSAGES/gestikk.po | 
 {.sortable}
 
 

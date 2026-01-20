@@ -18,7 +18,7 @@ The package zaf (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f11/language/af.md" >}}) | 445 | 676 | 65.8 | /mnt/stockage/packages/f11/zaf/af/myspell/af.po | 
+ | [af](/f11/language/af) | 445 | 676 | 65.8 | /mnt/stockage/packages/f11/zaf/af/myspell/af.po | 
 {.sortable}
 
 

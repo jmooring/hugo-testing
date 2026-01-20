@@ -18,20 +18,20 @@ The package bzflag (version 2.4.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 2769 | 2769 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_cs_CZ.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 2822 | 2822 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 2170 | 2170 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 3492 | 3492 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_fr.po | 
- | [kg]({{< ref "/f42/language/kg.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_kg.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_nl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1973 | 1973 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_pt.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 3659 | 3659 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_sk.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1931 | 1931 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_sv.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 2657 | 2713 | 97.9 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_it.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 133 | 190 | 70.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_lt.po | 
- | [error]({{< ref "/f42/language/error.md" >}}) | 3878 | 7639 | 50.8 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_xx.po/mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_en_US_l33t.po/mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_en_US_redneck.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_ru.po | 
+ | [cs](/f42/language/cs) | 2769 | 2769 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_cs_CZ.po | 
+ | [da](/f42/language/da) | 2822 | 2822 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_da.po | 
+ | [de](/f42/language/de) | 2170 | 2170 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_de.po | 
+ | [es](/f42/language/es) | 3492 | 3492 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_es.po | 
+ | [fr](/f42/language/fr) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_fr.po | 
+ | [kg](/f42/language/kg) | 97 | 97 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_kg.po | 
+ | [nl](/f42/language/nl) | 1899 | 1899 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_nl.po | 
+ | [pt](/f42/language/pt) | 1973 | 1973 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_pt.po | 
+ | [sk](/f42/language/sk) | 3659 | 3659 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_sk.po | 
+ | [sv](/f42/language/sv) | 1931 | 1931 | 100.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_sv.po | 
+ | [it](/f42/language/it) | 2657 | 2713 | 97.9 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_it.po | 
+ | [lt](/f42/language/lt) | 133 | 190 | 70.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_lt.po | 
+ | [error](/f42/language/error) | 3878 | 7639 | 50.8 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_xx.po/mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_en_US_l33t.po/mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_en_US_redneck.po | 
+ | [ru](/f42/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/bzflag/data/l10n/bzflag_ru.po | 
 {.sortable}
 
 

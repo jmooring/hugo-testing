@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f32/package/tuxpaint.md" >}}) | 1137 | 1662 | 68.4 |  | 
- | [gnucash]({{< ref "/f32/package/gnucash.md" >}}) | 25220 | 37229 | 67.7 | NONE | 
- | [inkscape]({{< ref "/f32/package/inkscape.md" >}}) | 20045 | 40929 | 49.0 | Konkani | 
- | [iso-codes]({{< ref "/f32/package/iso-codes.md" >}}) | 247 | 14619 | 1.7 | Konkani | 
+ | [tuxpaint](/f32/package/tuxpaint) | 1137 | 1662 | 68.4 |  | 
+ | [gnucash](/f32/package/gnucash) | 25220 | 37229 | 67.7 | NONE | 
+ | [inkscape](/f32/package/inkscape) | 20045 | 40929 | 49.0 | Konkani | 
+ | [iso-codes](/f32/package/iso-codes) | 247 | 14619 | 1.7 | Konkani | 
 {.sortable}
 
 

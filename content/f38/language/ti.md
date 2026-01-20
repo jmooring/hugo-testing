@@ -40,32 +40,32 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-toolkit-gtk3]({{< ref "/f38/package/sugar-toolkit-gtk3.md" >}}) | 50 | 213 | 23.5 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 609 | 15908 | 3.8 | Tigrinya <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ti/> | 
- | [libreoffice]({{< ref "/f38/package/libreoffice.md" >}}) | 857 | 168935 | 0.5 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f38/package/calibre.md" >}}) | 145 | 170967 | 0.1 | Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/) | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f38/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f38/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f38/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f38/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 0 | 216 | 0.0 | Tigrinya <ti@li.org> | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
+ | [sugar-toolkit-gtk3](/f38/package/sugar-toolkit-gtk3) | 50 | 213 | 23.5 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f38/package/iso-codes) | 609 | 15908 | 3.8 | Tigrinya <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ti/> | 
+ | [libreoffice](/f38/package/libreoffice) | 857 | 168935 | 0.5 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f38/package/calibre) | 145 | 170967 | 0.1 | Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/) | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-code](/f38/package/elementary-code) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-music](/f38/package/elementary-music) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f38/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f38/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f38/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f38/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [slick-greeter](/f38/package/slick-greeter) | 0 | 216 | 0.0 | Tigrinya <ti@li.org> | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
 {.sortable}
 
 

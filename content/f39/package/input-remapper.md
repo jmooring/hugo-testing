@@ -18,13 +18,13 @@ The package input-remapper (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1162 | 1162 | 100.0 | /mnt/stockage/packages/f39/input-remapper/po/pt_BR.po/mnt/stockage/packages/f39/input-remapper/po/pt.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 638 | 1162 | 54.9 | /mnt/stockage/packages/f39/input-remapper/po/uk_UA.po/mnt/stockage/packages/f39/input-remapper/po/uk.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 542 | 1162 | 46.6 | /mnt/stockage/packages/f39/input-remapper/po/ru_RU.po/mnt/stockage/packages/f39/input-remapper/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f39/input-remapper/po/sk_SK.po/mnt/stockage/packages/f39/input-remapper/po/sk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f39/input-remapper/po/zh_CN.po/mnt/stockage/packages/f39/input-remapper/po/zh.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 396 | 1162 | 34.1 | /mnt/stockage/packages/f39/input-remapper/po/fr_FR.po/mnt/stockage/packages/f39/input-remapper/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 172 | 1162 | 14.8 | /mnt/stockage/packages/f39/input-remapper/po/it_IT.po/mnt/stockage/packages/f39/input-remapper/po/it.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1162 | 1162 | 100.0 | /mnt/stockage/packages/f39/input-remapper/po/pt_BR.po/mnt/stockage/packages/f39/input-remapper/po/pt.po | 
+ | [uk](/f39/language/uk) | 638 | 1162 | 54.9 | /mnt/stockage/packages/f39/input-remapper/po/uk_UA.po/mnt/stockage/packages/f39/input-remapper/po/uk.po | 
+ | [ru](/f39/language/ru) | 542 | 1162 | 46.6 | /mnt/stockage/packages/f39/input-remapper/po/ru_RU.po/mnt/stockage/packages/f39/input-remapper/po/ru.po | 
+ | [sk](/f39/language/sk) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f39/input-remapper/po/sk_SK.po/mnt/stockage/packages/f39/input-remapper/po/sk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 456 | 1162 | 39.2 | /mnt/stockage/packages/f39/input-remapper/po/zh_CN.po/mnt/stockage/packages/f39/input-remapper/po/zh.po | 
+ | [fr](/f39/language/fr) | 396 | 1162 | 34.1 | /mnt/stockage/packages/f39/input-remapper/po/fr_FR.po/mnt/stockage/packages/f39/input-remapper/po/fr.po | 
+ | [it](/f39/language/it) | 172 | 1162 | 14.8 | /mnt/stockage/packages/f39/input-remapper/po/it_IT.po/mnt/stockage/packages/f39/input-remapper/po/it.po | 
 {.sortable}
 
 

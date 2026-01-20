@@ -18,14 +18,14 @@ The package R-pkgdown (version 2.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f38/language/da.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-dk.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-fr.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 126 | 128 | 98.4 | /mnt/stockage/packages/f38/R-pkgdown/po/R-ko.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 124 | 128 | 96.9 | /mnt/stockage/packages/f38/R-pkgdown/po/R-de.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 119 | 128 | 93.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-pt.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 119 | 128 | 93.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-tr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 119 | 128 | 93.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-zh_CN.po | 
+ | [da](/f38/language/da) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-dk.po | 
+ | [es](/f38/language/es) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-es.po | 
+ | [fr](/f38/language/fr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-fr.po | 
+ | [ko](/f38/language/ko) | 126 | 128 | 98.4 | /mnt/stockage/packages/f38/R-pkgdown/po/R-ko.po | 
+ | [de](/f38/language/de) | 124 | 128 | 96.9 | /mnt/stockage/packages/f38/R-pkgdown/po/R-de.po | 
+ | [pt](/f38/language/pt) | 119 | 128 | 93.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-pt.po | 
+ | [tr](/f38/language/tr) | 119 | 128 | 93.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-tr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 119 | 128 | 93.0 | /mnt/stockage/packages/f38/R-pkgdown/po/R-zh_CN.po | 
 {.sortable}
 
 

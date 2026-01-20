@@ -18,67 +18,67 @@ The package poedit (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/bg.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ca.po | 
- | [co]({{< ref "/f35/language/co.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/co.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/de.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/es.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/et.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/gl.po | 
- | [he_IL]({{< ref "/f35/language/he_IL.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/hu.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/it.po | 
- | [kab]({{< ref "/f35/language/kab.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/kab.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ko.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ms.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/pt_BR.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/pt_PT.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/zh_TW.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 2918 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/ja.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/af.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/be.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/el.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/hy.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/id.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/nl.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 2898 | 2920 | 99.2 | /mnt/stockage/packages/f35/poedit/locales/lt.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 2801 | 2920 | 95.9 | /mnt/stockage/packages/f35/poedit/locales/vi.po | 
- | [ar_SA]({{< ref "/f35/language/ar_SA.md" >}}) | 2697 | 2920 | 92.4 | /mnt/stockage/packages/f35/poedit/locales/ar.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 2595 | 2920 | 88.9 | /mnt/stockage/packages/f35/poedit/locales/ga.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 2543 | 2920 | 87.1 | /mnt/stockage/packages/f35/poedit/locales/nb.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 2379 | 2920 | 81.5 | /mnt/stockage/packages/f35/poedit/locales/eu.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 2379 | 2920 | 81.5 | /mnt/stockage/packages/f35/poedit/locales/tg.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 2135 | 2920 | 73.1 | /mnt/stockage/packages/f35/poedit/locales/fa.po | 
- | [an]({{< ref "/f35/language/an.md" >}}) | 2093 | 2920 | 71.7 | /mnt/stockage/packages/f35/poedit/locales/an.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 2075 | 2920 | 71.1 | /mnt/stockage/packages/f35/poedit/locales/oc.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 1780 | 2920 | 61.0 | /mnt/stockage/packages/f35/poedit/locales/pa.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 1770 | 2920 | 60.6 | /mnt/stockage/packages/f35/poedit/locales/az.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 1749 | 2920 | 59.9 | /mnt/stockage/packages/f35/poedit/locales/uz.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 1611 | 2920 | 55.2 | /mnt/stockage/packages/f35/poedit/locales/lv.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 1582 | 2920 | 54.2 | /mnt/stockage/packages/f35/poedit/locales/bs.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 1455 | 2920 | 49.8 | /mnt/stockage/packages/f35/poedit/locales/ka.po | 
- | [ckb_IR]({{< ref "/f35/language/ckb_IR.md" >}}) | 1051 | 2920 | 36.0 | /mnt/stockage/packages/f35/poedit/locales/ckb.po | 
- | [be_Latn]({{< ref "/f35/language/be_Latn.md" >}}) | 224 | 2920 | 7.7 | /mnt/stockage/packages/f35/poedit/locales/be@latin.po | 
+ | [bg](/f35/language/bg) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/bg.po | 
+ | [ca](/f35/language/ca) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ca.po | 
+ | [co](/f35/language/co) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/co.po | 
+ | [cs](/f35/language/cs) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/cs.po | 
+ | [da](/f35/language/da) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/da.po | 
+ | [de](/f35/language/de) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/de.po | 
+ | [en_GB](/f35/language/en_GB) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/en_GB.po | 
+ | [es](/f35/language/es) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/es.po | 
+ | [et](/f35/language/et) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/et.po | 
+ | [fi](/f35/language/fi) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/fi.po | 
+ | [fr](/f35/language/fr) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/fr.po | 
+ | [gl](/f35/language/gl) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/gl.po | 
+ | [he_IL](/f35/language/he_IL) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/he.po | 
+ | [hr](/f35/language/hr) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/hr.po | 
+ | [hu](/f35/language/hu) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/hu.po | 
+ | [is](/f35/language/is) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/is.po | 
+ | [it](/f35/language/it) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/it.po | 
+ | [kab](/f35/language/kab) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/kab.po | 
+ | [kk](/f35/language/kk) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/kk.po | 
+ | [ko](/f35/language/ko) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ko.po | 
+ | [ms](/f35/language/ms) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ms.po | 
+ | [pl](/f35/language/pl) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/pt_BR.po | 
+ | [pt_PT](/f35/language/pt_PT) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/pt_PT.po | 
+ | [ro](/f35/language/ro) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ro.po | 
+ | [ru](/f35/language/ru) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/ru.po | 
+ | [sk](/f35/language/sk) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sk.po | 
+ | [sl](/f35/language/sl) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sl.po | 
+ | [sq](/f35/language/sq) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sq.po | 
+ | [sr](/f35/language/sr) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sr.po | 
+ | [sv](/f35/language/sv) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/sv.po | 
+ | [th](/f35/language/th) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/th.po | 
+ | [tr](/f35/language/tr) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/tr.po | 
+ | [uk](/f35/language/uk) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 2920 | 2920 | 100.0 | /mnt/stockage/packages/f35/poedit/locales/zh_TW.po | 
+ | [ja](/f35/language/ja) | 2918 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/ja.po | 
+ | [af](/f35/language/af) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/af.po | 
+ | [be](/f35/language/be) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/be.po | 
+ | [el](/f35/language/el) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/el.po | 
+ | [hy](/f35/language/hy) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/hy.po | 
+ | [id](/f35/language/id) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/id.po | 
+ | [nl](/f35/language/nl) | 2916 | 2920 | 99.9 | /mnt/stockage/packages/f35/poedit/locales/nl.po | 
+ | [lt](/f35/language/lt) | 2898 | 2920 | 99.2 | /mnt/stockage/packages/f35/poedit/locales/lt.po | 
+ | [vi](/f35/language/vi) | 2801 | 2920 | 95.9 | /mnt/stockage/packages/f35/poedit/locales/vi.po | 
+ | [ar_SA](/f35/language/ar_SA) | 2697 | 2920 | 92.4 | /mnt/stockage/packages/f35/poedit/locales/ar.po | 
+ | [ga](/f35/language/ga) | 2595 | 2920 | 88.9 | /mnt/stockage/packages/f35/poedit/locales/ga.po | 
+ | [nb_NO](/f35/language/nb_NO) | 2543 | 2920 | 87.1 | /mnt/stockage/packages/f35/poedit/locales/nb.po | 
+ | [eu](/f35/language/eu) | 2379 | 2920 | 81.5 | /mnt/stockage/packages/f35/poedit/locales/eu.po | 
+ | [tg](/f35/language/tg) | 2379 | 2920 | 81.5 | /mnt/stockage/packages/f35/poedit/locales/tg.po | 
+ | [fa](/f35/language/fa) | 2135 | 2920 | 73.1 | /mnt/stockage/packages/f35/poedit/locales/fa.po | 
+ | [an](/f35/language/an) | 2093 | 2920 | 71.7 | /mnt/stockage/packages/f35/poedit/locales/an.po | 
+ | [oc](/f35/language/oc) | 2075 | 2920 | 71.1 | /mnt/stockage/packages/f35/poedit/locales/oc.po | 
+ | [pa](/f35/language/pa) | 1780 | 2920 | 61.0 | /mnt/stockage/packages/f35/poedit/locales/pa.po | 
+ | [az](/f35/language/az) | 1770 | 2920 | 60.6 | /mnt/stockage/packages/f35/poedit/locales/az.po | 
+ | [uz](/f35/language/uz) | 1749 | 2920 | 59.9 | /mnt/stockage/packages/f35/poedit/locales/uz.po | 
+ | [lv](/f35/language/lv) | 1611 | 2920 | 55.2 | /mnt/stockage/packages/f35/poedit/locales/lv.po | 
+ | [bs](/f35/language/bs) | 1582 | 2920 | 54.2 | /mnt/stockage/packages/f35/poedit/locales/bs.po | 
+ | [ka](/f35/language/ka) | 1455 | 2920 | 49.8 | /mnt/stockage/packages/f35/poedit/locales/ka.po | 
+ | [ckb_IR](/f35/language/ckb_IR) | 1051 | 2920 | 36.0 | /mnt/stockage/packages/f35/poedit/locales/ckb.po | 
+ | [be_Latn](/f35/language/be_Latn) | 224 | 2920 | 7.7 | /mnt/stockage/packages/f35/poedit/locales/be@latin.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package net-tools (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 2931 | 2931 | 100.0 | /mnt/stockage/packages/f20/net-tools/po/cs.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 2228 | 2228 | 100.0 | /mnt/stockage/packages/f20/net-tools/po/pt_BR.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 2442 | 2452 | 99.6 | /mnt/stockage/packages/f20/net-tools/po/et_EE.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 2171 | 2228 | 97.4 | /mnt/stockage/packages/f20/net-tools/po/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1862 | 2228 | 83.6 | /mnt/stockage/packages/f20/net-tools/po/fr.po | 
+ | [cs](/f20/language/cs) | 2931 | 2931 | 100.0 | /mnt/stockage/packages/f20/net-tools/po/cs.po | 
+ | [pt_BR](/f20/language/pt_BR) | 2228 | 2228 | 100.0 | /mnt/stockage/packages/f20/net-tools/po/pt_BR.po | 
+ | [et](/f20/language/et) | 2442 | 2452 | 99.6 | /mnt/stockage/packages/f20/net-tools/po/et_EE.po | 
+ | [de](/f20/language/de) | 2171 | 2228 | 97.4 | /mnt/stockage/packages/f20/net-tools/po/de.po | 
+ | [fr](/f20/language/fr) | 1862 | 2228 | 83.6 | /mnt/stockage/packages/f20/net-tools/po/fr.po | 
 {.sortable}
 
 

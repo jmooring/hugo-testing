@@ -18,11 +18,11 @@ The package srain (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f35/srain/po/nl.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f35/srain/po/uk.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1066 | 1077 | 99.0 | /mnt/stockage/packages/f35/srain/po/fr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f35/srain/po/zh_CN.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f35/srain/po/ru.po | 
+ | [nl](/f35/language/nl) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f35/srain/po/nl.po | 
+ | [uk](/f35/language/uk) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f35/srain/po/uk.po | 
+ | [fr](/f35/language/fr) | 1066 | 1077 | 99.0 | /mnt/stockage/packages/f35/srain/po/fr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 938 | 1077 | 87.1 | /mnt/stockage/packages/f35/srain/po/zh_CN.po | 
+ | [ru](/f35/language/ru) | 656 | 1077 | 60.9 | /mnt/stockage/packages/f35/srain/po/ru.po | 
 {.sortable}
 
 

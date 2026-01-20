@@ -38,27 +38,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f27/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Kabyle <kab@li.org> | 
- | [gdm]({{< ref "/f27/package/gdm.md" >}}) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
- | [mate-icon-theme]({{< ref "/f27/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [nemo-extensions]({{< ref "/f27/package/nemo-extensions.md" >}}) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
- | [poedit]({{< ref "/f27/package/poedit.md" >}}) | 2639 | 2639 | 100.0 | Kabyle | 
- | [filezilla]({{< ref "/f27/package/filezilla.md" >}}) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
- | [sugar-read]({{< ref "/f27/package/sugar-read.md" >}}) | 49 | 137 | 35.8 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f27/package/cinnamon-translations.md" >}}) | 7392 | 21554 | 34.3 | Kabyle <kab@li.org> | 
- | [mintmenu]({{< ref "/f27/package/mintmenu.md" >}}) | 2231 | 7472 | 29.9 | Kabyle <kab@li.org> | 
- | [pix]({{< ref "/f27/package/pix.md" >}}) | 1024 | 3718 | 27.5 | Kabyle <kab@li.org> | 
- | [xed]({{< ref "/f27/package/xed.md" >}}) | 1086 | 4607 | 23.6 | Kabyle <kab@li.org> | 
- | [xreader]({{< ref "/f27/package/xreader.md" >}}) | 377 | 1642 | 23.0 | Kabyle <kab@li.org> | 
- | [xviewer]({{< ref "/f27/package/xviewer.md" >}}) | 269 | 1677 | 16.0 | Kabyle <kab@li.org> | 
- | [lightdm-settings]({{< ref "/f27/package/lightdm-settings.md" >}}) | 36 | 271 | 13.3 | Kabyle <kab@li.org> | 
- | [xplayer]({{< ref "/f27/package/xplayer.md" >}}) | 211 | 1957 | 10.8 | Kabyle <kab@li.org> | 
- | [slick-greeter]({{< ref "/f27/package/slick-greeter.md" >}}) | 19 | 211 | 9.0 | Kabyle <kab@li.org> | 
- | [elementary-calculator]({{< ref "/f27/package/elementary-calculator.md" >}}) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
- | [pantheon-calculator]({{< ref "/f27/package/pantheon-calculator.md" >}}) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
- | [openerp]({{< ref "/f27/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
- | [stellarium]({{< ref "/f27/package/stellarium.md" >}}) | 26 | 67040 | 0.0 | Kabyle (https://www.transifex.com/stellarium/teams/80998/kab/) | 
+ | [blueberry](/f27/package/blueberry) | 141 | 141 | 100.0 | Kabyle <kab@li.org> | 
+ | [gdm](/f27/package/gdm) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
+ | [mate-icon-theme](/f27/package/mate-icon-theme) | 4 | 4 | 100.0 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [nemo-extensions](/f27/package/nemo-extensions) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
+ | [poedit](/f27/package/poedit) | 2639 | 2639 | 100.0 | Kabyle | 
+ | [filezilla](/f27/package/filezilla) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
+ | [sugar-read](/f27/package/sugar-read) | 49 | 137 | 35.8 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f27/package/cinnamon-translations) | 7392 | 21554 | 34.3 | Kabyle <kab@li.org> | 
+ | [mintmenu](/f27/package/mintmenu) | 2231 | 7472 | 29.9 | Kabyle <kab@li.org> | 
+ | [pix](/f27/package/pix) | 1024 | 3718 | 27.5 | Kabyle <kab@li.org> | 
+ | [xed](/f27/package/xed) | 1086 | 4607 | 23.6 | Kabyle <kab@li.org> | 
+ | [xreader](/f27/package/xreader) | 377 | 1642 | 23.0 | Kabyle <kab@li.org> | 
+ | [xviewer](/f27/package/xviewer) | 269 | 1677 | 16.0 | Kabyle <kab@li.org> | 
+ | [lightdm-settings](/f27/package/lightdm-settings) | 36 | 271 | 13.3 | Kabyle <kab@li.org> | 
+ | [xplayer](/f27/package/xplayer) | 211 | 1957 | 10.8 | Kabyle <kab@li.org> | 
+ | [slick-greeter](/f27/package/slick-greeter) | 19 | 211 | 9.0 | Kabyle <kab@li.org> | 
+ | [elementary-calculator](/f27/package/elementary-calculator) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
+ | [pantheon-calculator](/f27/package/pantheon-calculator) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
+ | [openerp](/f27/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp7](/f27/package/openerp7) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
+ | [stellarium](/f27/package/stellarium) | 26 | 67040 | 0.0 | Kabyle (https://www.transifex.com/stellarium/teams/80998/kab/) | 
 {.sortable}
 
 

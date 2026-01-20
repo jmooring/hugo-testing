@@ -18,41 +18,41 @@ The package supertuxkart (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 3133 | 3133 | 100.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/nn.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 3062 | 3133 | 97.7 | /mnt/stockage/packages/f23/supertuxkart/data/po/fi.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 2507 | 3133 | 80.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ar.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 2345 | 3133 | 74.8 | /mnt/stockage/packages/f23/supertuxkart/data/po/lv.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 3136 | 12532 | 25.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/nb_NO.po/mnt/stockage/packages/f23/supertuxkart/data/po/no_NO.po/mnt/stockage/packages/f23/supertuxkart/data/po/no.po/mnt/stockage/packages/f23/supertuxkart/data/po/nb.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 1 | 2947 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/da_DK.po/mnt/stockage/packages/f23/supertuxkart/data/po/da.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1 | 3133 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/zh_CN.po/mnt/stockage/packages/f23/supertuxkart/data/po/zh.po | 
- | [br]({{< ref "/f23/language/br.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/br.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/el.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/es.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/eu.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/fr.po | 
- | [fr_CA]({{< ref "/f23/language/fr_CA.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/fr_CA.po | 
- | [gd]({{< ref "/f23/language/gd.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/gd.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/he.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ja.po | 
- | [kw]({{< ref "/f23/language/kw.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/kw.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/lt.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ru.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/uk.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/zh_TW.po | 
+ | [nn](/f23/language/nn) | 3133 | 3133 | 100.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/nn.po | 
+ | [fi](/f23/language/fi) | 3062 | 3133 | 97.7 | /mnt/stockage/packages/f23/supertuxkart/data/po/fi.po | 
+ | [ar](/f23/language/ar) | 2507 | 3133 | 80.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ar.po | 
+ | [lv](/f23/language/lv) | 2345 | 3133 | 74.8 | /mnt/stockage/packages/f23/supertuxkart/data/po/lv.po | 
+ | [nb_NO](/f23/language/nb_NO) | 3136 | 12532 | 25.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/nb_NO.po/mnt/stockage/packages/f23/supertuxkart/data/po/no_NO.po/mnt/stockage/packages/f23/supertuxkart/data/po/no.po/mnt/stockage/packages/f23/supertuxkart/data/po/nb.po | 
+ | [da](/f23/language/da) | 1 | 2947 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/da_DK.po/mnt/stockage/packages/f23/supertuxkart/data/po/da.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1 | 3133 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/zh_CN.po/mnt/stockage/packages/f23/supertuxkart/data/po/zh.po | 
+ | [br](/f23/language/br) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/br.po | 
+ | [ca](/f23/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ca.po | 
+ | [cs](/f23/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/cs.po | 
+ | [de](/f23/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/de.po | 
+ | [el](/f23/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/el.po | 
+ | [en_GB](/f23/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/en_GB.po | 
+ | [es](/f23/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/es.po | 
+ | [eu](/f23/language/eu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/eu.po | 
+ | [fr](/f23/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/fr.po | 
+ | [fr_CA](/f23/language/fr_CA) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/fr_CA.po | 
+ | [gd](/f23/language/gd) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/gd.po | 
+ | [he](/f23/language/he) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/he.po | 
+ | [it](/f23/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/it.po | 
+ | [ja](/f23/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ja.po | 
+ | [kw](/f23/language/kw) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/kw.po | 
+ | [lt](/f23/language/lt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/lt.po | 
+ | [nl](/f23/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/nl.po | 
+ | [pl](/f23/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/pl.po | 
+ | [pt](/f23/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/ru.po | 
+ | [sk](/f23/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sk.po | 
+ | [sl](/f23/language/sl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sl.po | 
+ | [sr](/f23/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sr.po | 
+ | [sv](/f23/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/sv.po | 
+ | [tr](/f23/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/tr.po | 
+ | [uk](/f23/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/uk.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/supertuxkart/data/po/zh_TW.po | 
 {.sortable}
 
 

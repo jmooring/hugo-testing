@@ -18,7 +18,7 @@ The package python-pygments (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 3442 | 3442 | 100.0 | /mnt/stockage/packages/f26/python-pygments/tests/examplefiles/de.MoinMoin.po | 
+ | [de](/f26/language/de) | 3442 | 3442 | 100.0 | /mnt/stockage/packages/f26/python-pygments/tests/examplefiles/de.MoinMoin.po | 
 {.sortable}
 
 

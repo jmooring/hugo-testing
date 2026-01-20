@@ -18,18 +18,18 @@ The package fetchmail (version 6.4.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/fr.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/ja.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/pl.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/ro.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/sv.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 4945 | 4956 | 99.8 | /mnt/stockage/packages/f36/fetchmail/po/eo.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 4940 | 4956 | 99.7 | /mnt/stockage/packages/f36/fetchmail/po/sq.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 4940 | 4956 | 99.7 | /mnt/stockage/packages/f36/fetchmail/po/vi.po | 
+ | [cs](/f36/language/cs) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/cs.po | 
+ | [de](/f36/language/de) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/de.po | 
+ | [es](/f36/language/es) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/es.po | 
+ | [fr](/f36/language/fr) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/fr.po | 
+ | [ja](/f36/language/ja) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/ja.po | 
+ | [pl](/f36/language/pl) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/pl.po | 
+ | [ro](/f36/language/ro) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/ro.po | 
+ | [sr](/f36/language/sr) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/sr.po | 
+ | [sv](/f36/language/sv) | 4956 | 4956 | 100.0 | /mnt/stockage/packages/f36/fetchmail/po/sv.po | 
+ | [eo](/f36/language/eo) | 4945 | 4956 | 99.8 | /mnt/stockage/packages/f36/fetchmail/po/eo.po | 
+ | [sq](/f36/language/sq) | 4940 | 4956 | 99.7 | /mnt/stockage/packages/f36/fetchmail/po/sq.po | 
+ | [vi](/f36/language/vi) | 4940 | 4956 | 99.7 | /mnt/stockage/packages/f36/fetchmail/po/vi.po | 
 {.sortable}
 
 

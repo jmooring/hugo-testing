@@ -18,7 +18,7 @@ The package gnuradio (version 3.10.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [grc]({{< ref "/f42/language/grc.md" >}}) | 88 | 110 | 80.0 | /mnt/stockage/packages/f42/gnuradio/grc/gui_qt/resources/language/en_US/LC_MESSAGES/grc.po | 
+ | [grc](/f42/language/grc) | 88 | 110 | 80.0 | /mnt/stockage/packages/f42/gnuradio/grc/gui_qt/resources/language/en_US/LC_MESSAGES/grc.po | 
 {.sortable}
 
 

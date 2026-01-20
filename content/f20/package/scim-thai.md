@@ -18,7 +18,7 @@ The package scim-thai (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [th]({{< ref "/f20/language/th.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f20/scim-thai/po/th.po | 
+ | [th](/f20/language/th) | 78 | 78 | 100.0 | /mnt/stockage/packages/f20/scim-thai/po/th.po | 
 {.sortable}
 
 

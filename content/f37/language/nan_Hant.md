@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [caja]({{< ref "/f37/package/caja.md" >}}) | 336 | 9675 | 3.5 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [gnome-do]({{< ref "/f37/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [onboard]({{< ref "/f37/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [caja](/f37/package/caja) | 336 | 9675 | 3.5 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [gnome-do](/f37/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [onboard](/f37/package/onboard) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

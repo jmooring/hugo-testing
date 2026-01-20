@@ -18,25 +18,25 @@ The package pspp (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f27/pspp/po/de.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f27/pspp/po/nl.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f27/pspp/po/uk.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f27/pspp/po/el.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f27/pspp/po/fr.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/ca.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/es.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/hu.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/ja.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 10096 | 10380 | 97.3 | /mnt/stockage/packages/f27/pspp/po/zh_CN.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 9708 | 10380 | 93.5 | /mnt/stockage/packages/f27/pspp/po/ru.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f27/pspp/po/gl.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f27/pspp/po/pl.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 8192 | 10380 | 78.9 | /mnt/stockage/packages/f27/pspp/po/lt.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 5413 | 10380 | 52.1 | /mnt/stockage/packages/f27/pspp/po/tr.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 2864 | 10380 | 27.6 | /mnt/stockage/packages/f27/pspp/po/sl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2564 | 10380 | 24.7 | /mnt/stockage/packages/f27/pspp/po/pt_BR.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 522 | 10328 | 5.1 | /mnt/stockage/packages/f27/pspp/po/en_GB.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 11 | 10328 | 0.1 | /mnt/stockage/packages/f27/pspp/po/cs.po | 
+ | [de](/f27/language/de) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f27/pspp/po/de.po | 
+ | [nl](/f27/language/nl) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f27/pspp/po/nl.po | 
+ | [uk](/f27/language/uk) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f27/pspp/po/uk.po | 
+ | [el](/f27/language/el) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f27/pspp/po/el.po | 
+ | [fr](/f27/language/fr) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f27/pspp/po/fr.po | 
+ | [ca](/f27/language/ca) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/ca.po | 
+ | [es](/f27/language/es) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/es.po | 
+ | [hu](/f27/language/hu) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/hu.po | 
+ | [ja](/f27/language/ja) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f27/pspp/po/ja.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 10096 | 10380 | 97.3 | /mnt/stockage/packages/f27/pspp/po/zh_CN.po | 
+ | [ru](/f27/language/ru) | 9708 | 10380 | 93.5 | /mnt/stockage/packages/f27/pspp/po/ru.po | 
+ | [gl](/f27/language/gl) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f27/pspp/po/gl.po | 
+ | [pl](/f27/language/pl) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f27/pspp/po/pl.po | 
+ | [lt](/f27/language/lt) | 8192 | 10380 | 78.9 | /mnt/stockage/packages/f27/pspp/po/lt.po | 
+ | [tr](/f27/language/tr) | 5413 | 10380 | 52.1 | /mnt/stockage/packages/f27/pspp/po/tr.po | 
+ | [sl](/f27/language/sl) | 2864 | 10380 | 27.6 | /mnt/stockage/packages/f27/pspp/po/sl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2564 | 10380 | 24.7 | /mnt/stockage/packages/f27/pspp/po/pt_BR.po | 
+ | [en_GB](/f27/language/en_GB) | 522 | 10328 | 5.1 | /mnt/stockage/packages/f27/pspp/po/en_GB.po | 
+ | [cs](/f27/language/cs) | 11 | 10328 | 0.1 | /mnt/stockage/packages/f27/pspp/po/cs.po | 
 {.sortable}
 
 

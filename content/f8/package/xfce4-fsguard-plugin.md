@@ -18,10 +18,10 @@ The package xfce4-fsguard-plugin (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/de.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/lt.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 71 | 79 | 89.9 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/ko.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 70 | 79 | 88.6 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/pl.po | 
+ | [de](/f8/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/de.po | 
+ | [lt](/f8/language/lt) | 79 | 79 | 100.0 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/lt.po | 
+ | [ko](/f8/language/ko) | 71 | 79 | 89.9 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/ko.po | 
+ | [pl](/f8/language/pl) | 70 | 79 | 88.6 | /mnt/stockage/packages/f8/xfce4-fsguard-plugin/po/pl.po | 
 {.sortable}
 
 

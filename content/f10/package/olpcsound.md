@@ -18,8 +18,8 @@ The package olpcsound (version 5.08.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_CO]({{< ref "/f10/language/es_CO.md" >}}) | 3313 | 12918 | 25.6 | /mnt/stockage/packages/f10/olpcsound/po/es_CO.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 13540 | 77466 | 17.5 | /mnt/stockage/packages/f10/olpcsound/po/french.po/mnt/stockage/packages/f10/olpcsound/po/american.po/mnt/stockage/packages/f10/olpcsound/po/romanian.po/mnt/stockage/packages/f10/olpcsound/po/german.po/mnt/stockage/packages/f10/olpcsound/po/italian.po/mnt/stockage/packages/f10/olpcsound/po/csound.po | 
+ | [es_CO](/f10/language/es_CO) | 3313 | 12918 | 25.6 | /mnt/stockage/packages/f10/olpcsound/po/es_CO.po | 
+ | [error](/f10/language/error) | 13540 | 77466 | 17.5 | /mnt/stockage/packages/f10/olpcsound/po/french.po/mnt/stockage/packages/f10/olpcsound/po/american.po/mnt/stockage/packages/f10/olpcsound/po/romanian.po/mnt/stockage/packages/f10/olpcsound/po/german.po/mnt/stockage/packages/f10/olpcsound/po/italian.po/mnt/stockage/packages/f10/olpcsound/po/csound.po | 
 {.sortable}
 
 

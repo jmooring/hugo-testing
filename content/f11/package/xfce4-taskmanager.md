@@ -18,30 +18,30 @@ The package xfce4-taskmanager (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/cs.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/el.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/id.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/pt_PT.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/uk.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/de.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/en_GB.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ja.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/nl.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/lv.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/nb_NO.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/pl.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ur.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 22 | 67 | 32.8 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/gl.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 22 | 67 | 32.8 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/zh_TW.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 21 | 67 | 31.3 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ru.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 21 | 67 | 31.3 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/vi.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 1 | 67 | 1.5 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ar.po | 
+ | [cs](/f11/language/cs) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/cs.po | 
+ | [el](/f11/language/el) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/el.po | 
+ | [eu](/f11/language/eu) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/eu.po | 
+ | [fi](/f11/language/fi) | 86 | 86 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/fi.po | 
+ | [fr](/f11/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/fr.po | 
+ | [hu](/f11/language/hu) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/hu.po | 
+ | [id](/f11/language/id) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/id.po | 
+ | [pt_BR](/f11/language/pt_BR) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/pt_BR.po | 
+ | [pt_PT](/f11/language/pt_PT) | 67 | 67 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/pt_PT.po | 
+ | [uk](/f11/language/uk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/uk.po | 
+ | [da](/f11/language/da) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/da.po | 
+ | [de](/f11/language/de) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/de.po | 
+ | [en_GB](/f11/language/en_GB) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/en_GB.po | 
+ | [ja](/f11/language/ja) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ja.po | 
+ | [nl](/f11/language/nl) | 52 | 67 | 77.6 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/nl.po | 
+ | [lv](/f11/language/lv) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/lv.po | 
+ | [nb_NO](/f11/language/nb_NO) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/nb_NO.po | 
+ | [pl](/f11/language/pl) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/pl.po | 
+ | [ur](/f11/language/ur) | 38 | 67 | 56.7 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ur.po | 
+ | [gl](/f11/language/gl) | 22 | 67 | 32.8 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/gl.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 22 | 67 | 32.8 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/zh_TW.po | 
+ | [ru](/f11/language/ru) | 21 | 67 | 31.3 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ru.po | 
+ | [vi](/f11/language/vi) | 21 | 67 | 31.3 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/vi.po | 
+ | [ar](/f11/language/ar) | 1 | 67 | 1.5 | /mnt/stockage/packages/f11/xfce4-taskmanager/po/ar.po | 
 {.sortable}
 
 

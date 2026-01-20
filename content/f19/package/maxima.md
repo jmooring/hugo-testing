@@ -18,7 +18,7 @@ The package maxima (version 5.30.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f19/maxima/locale/es.po | 
+ | [es](/f19/language/es) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f19/maxima/locale/es.po | 
 {.sortable}
 
 

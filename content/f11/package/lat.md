@@ -18,9 +18,9 @@ The package lat (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 581 | 749 | 77.6 | /mnt/stockage/packages/f11/lat/po/fr_FR.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 565 | 749 | 75.4 | /mnt/stockage/packages/f11/lat/po/it_IT.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 150 | 749 | 20.0 | /mnt/stockage/packages/f11/lat/po/pt_BR.po | 
+ | [fr](/f11/language/fr) | 581 | 749 | 77.6 | /mnt/stockage/packages/f11/lat/po/fr_FR.po | 
+ | [it](/f11/language/it) | 565 | 749 | 75.4 | /mnt/stockage/packages/f11/lat/po/it_IT.po | 
+ | [pt_BR](/f11/language/pt_BR) | 150 | 749 | 20.0 | /mnt/stockage/packages/f11/lat/po/pt_BR.po | 
 {.sortable}
 
 

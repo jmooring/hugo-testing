@@ -40,9 +40,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f8/package/amarok.md" >}}) | 5545 | 13192 | 42.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
- | [kaffeine]({{< ref "/f8/package/kaffeine.md" >}}) | 871 | 2354 | 37.0 | Northern Sami <se@li.org> | 
- | [k3b]({{< ref "/f8/package/k3b.md" >}}) | 342 | 20630 | 1.7 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [amarok](/f8/package/amarok) | 5545 | 13192 | 42.0 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [kaffeine](/f8/package/kaffeine) | 871 | 2354 | 37.0 | Northern Sami <se@li.org> | 
+ | [k3b](/f8/package/k3b) | 342 | 20630 | 1.7 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
 {.sortable}
 
 

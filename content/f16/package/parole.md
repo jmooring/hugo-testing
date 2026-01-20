@@ -18,26 +18,26 @@ The package parole (version 0.2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/da.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 439 | 439 | 100.0 | /mnt/stockage/packages/f16/parole/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 439 | 439 | 100.0 | /mnt/stockage/packages/f16/parole/po/eu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/id.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/ja.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/nl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/pt.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/ru.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 439 | 439 | 100.0 | /mnt/stockage/packages/f16/parole/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 448 | 450 | 99.6 | /mnt/stockage/packages/f16/parole/po/zh_CN.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 441 | 450 | 98.0 | /mnt/stockage/packages/f16/parole/po/gl.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 428 | 439 | 97.5 | /mnt/stockage/packages/f16/parole/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 419 | 450 | 93.1 | /mnt/stockage/packages/f16/parole/po/fr.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 360 | 439 | 82.0 | /mnt/stockage/packages/f16/parole/po/ast.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 357 | 439 | 81.3 | /mnt/stockage/packages/f16/parole/po/lv.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 327 | 439 | 74.5 | /mnt/stockage/packages/f16/parole/po/sk.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 296 | 439 | 67.4 | /mnt/stockage/packages/f16/parole/po/tr.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 214 | 439 | 48.7 | /mnt/stockage/packages/f16/parole/po/sv.po | 
+ | [ca](/f16/language/ca) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/ca.po | 
+ | [cs](/f16/language/cs) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/cs.po | 
+ | [da](/f16/language/da) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/da.po | 
+ | [es](/f16/language/es) | 439 | 439 | 100.0 | /mnt/stockage/packages/f16/parole/po/es.po | 
+ | [eu](/f16/language/eu) | 439 | 439 | 100.0 | /mnt/stockage/packages/f16/parole/po/eu.po | 
+ | [id](/f16/language/id) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/id.po | 
+ | [ja](/f16/language/ja) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/ja.po | 
+ | [nl](/f16/language/nl) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/nl.po | 
+ | [pt](/f16/language/pt) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/pt.po | 
+ | [ru](/f16/language/ru) | 450 | 450 | 100.0 | /mnt/stockage/packages/f16/parole/po/ru.po | 
+ | [uk](/f16/language/uk) | 439 | 439 | 100.0 | /mnt/stockage/packages/f16/parole/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 448 | 450 | 99.6 | /mnt/stockage/packages/f16/parole/po/zh_CN.po | 
+ | [gl](/f16/language/gl) | 441 | 450 | 98.0 | /mnt/stockage/packages/f16/parole/po/gl.po | 
+ | [de](/f16/language/de) | 428 | 439 | 97.5 | /mnt/stockage/packages/f16/parole/po/de.po | 
+ | [fr](/f16/language/fr) | 419 | 450 | 93.1 | /mnt/stockage/packages/f16/parole/po/fr.po | 
+ | [ast](/f16/language/ast) | 360 | 439 | 82.0 | /mnt/stockage/packages/f16/parole/po/ast.po | 
+ | [lv](/f16/language/lv) | 357 | 439 | 81.3 | /mnt/stockage/packages/f16/parole/po/lv.po | 
+ | [sk](/f16/language/sk) | 327 | 439 | 74.5 | /mnt/stockage/packages/f16/parole/po/sk.po | 
+ | [tr](/f16/language/tr) | 296 | 439 | 67.4 | /mnt/stockage/packages/f16/parole/po/tr.po | 
+ | [sv](/f16/language/sv) | 214 | 439 | 48.7 | /mnt/stockage/packages/f16/parole/po/sv.po | 
 {.sortable}
 
 

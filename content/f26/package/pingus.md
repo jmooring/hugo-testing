@@ -18,31 +18,31 @@ The package pingus (version 0.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f26/language/it.md" >}}) | 3823 | 5417 | 70.6 | /mnt/stockage/packages/f26/pingus/data/po/it.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/helloworld/it.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 3773 | 5395 | 69.9 | /mnt/stockage/packages/f26/pingus/data/po/cs.po | 
- | [de_AT]({{< ref "/f26/language/de_AT.md" >}}) | 17 | 25 | 68.0 | /mnt/stockage/packages/f26/pingus/external/tinygettext/test/po/de_AT.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 4304 | 6379 | 67.5 | /mnt/stockage/packages/f26/pingus/data/po/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/game/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/helloworld/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/level/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 3266 | 5396 | 60.5 | /mnt/stockage/packages/f26/pingus/data/po/fr.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/po/fr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 3062 | 5395 | 56.8 | /mnt/stockage/packages/f26/pingus/data/po/nl.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 2438 | 5395 | 45.2 | /mnt/stockage/packages/f26/pingus/data/po/hu.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2431 | 5395 | 45.1 | /mnt/stockage/packages/f26/pingus/data/po/pt_BR.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 2418 | 5395 | 44.8 | /mnt/stockage/packages/f26/pingus/data/po/es.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 4570 | 10790 | 42.4 | /mnt/stockage/packages/f26/pingus/data/po/zh_TW.po/mnt/stockage/packages/f26/pingus/data/po/zh_CN.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 2275 | 5395 | 42.2 | /mnt/stockage/packages/f26/pingus/data/po/pt.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 2265 | 5395 | 42.0 | /mnt/stockage/packages/f26/pingus/data/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 2220 | 5395 | 41.1 | /mnt/stockage/packages/f26/pingus/data/po/tr.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 1898 | 5395 | 35.2 | /mnt/stockage/packages/f26/pingus/data/po/fi.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 1820 | 5395 | 33.7 | /mnt/stockage/packages/f26/pingus/data/po/da.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 1688 | 5395 | 31.3 | /mnt/stockage/packages/f26/pingus/data/po/nn.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 1169 | 5395 | 21.7 | /mnt/stockage/packages/f26/pingus/data/po/nb.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1169 | 5395 | 21.7 | /mnt/stockage/packages/f26/pingus/data/po/sr.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 539 | 5395 | 10.0 | /mnt/stockage/packages/f26/pingus/data/po/pl.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 341 | 5417 | 6.3 | /mnt/stockage/packages/f26/pingus/data/po/uk.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/helloworld/uk.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 186 | 5395 | 3.4 | /mnt/stockage/packages/f26/pingus/data/po/ru.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 178 | 5395 | 3.3 | /mnt/stockage/packages/f26/pingus/data/po/bg.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 60 | 5395 | 1.1 | /mnt/stockage/packages/f26/pingus/data/po/th.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 54 | 5395 | 1.0 | /mnt/stockage/packages/f26/pingus/data/po/sq.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 0 | 5395 | 0.0 | /mnt/stockage/packages/f26/pingus/data/po/ast.po | 
+ | [it](/f26/language/it) | 3823 | 5417 | 70.6 | /mnt/stockage/packages/f26/pingus/data/po/it.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/helloworld/it.po | 
+ | [cs](/f26/language/cs) | 3773 | 5395 | 69.9 | /mnt/stockage/packages/f26/pingus/data/po/cs.po | 
+ | [de_AT](/f26/language/de_AT) | 17 | 25 | 68.0 | /mnt/stockage/packages/f26/pingus/external/tinygettext/test/po/de_AT.po | 
+ | [de](/f26/language/de) | 4304 | 6379 | 67.5 | /mnt/stockage/packages/f26/pingus/data/po/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/game/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/helloworld/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/level/de.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/po/de.po | 
+ | [fr](/f26/language/fr) | 3266 | 5396 | 60.5 | /mnt/stockage/packages/f26/pingus/data/po/fr.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/po/fr.po | 
+ | [nl](/f26/language/nl) | 3062 | 5395 | 56.8 | /mnt/stockage/packages/f26/pingus/data/po/nl.po | 
+ | [hu](/f26/language/hu) | 2438 | 5395 | 45.2 | /mnt/stockage/packages/f26/pingus/data/po/hu.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2431 | 5395 | 45.1 | /mnt/stockage/packages/f26/pingus/data/po/pt_BR.po | 
+ | [es](/f26/language/es) | 2418 | 5395 | 44.8 | /mnt/stockage/packages/f26/pingus/data/po/es.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 4570 | 10790 | 42.4 | /mnt/stockage/packages/f26/pingus/data/po/zh_TW.po/mnt/stockage/packages/f26/pingus/data/po/zh_CN.po | 
+ | [pt](/f26/language/pt) | 2275 | 5395 | 42.2 | /mnt/stockage/packages/f26/pingus/data/po/pt.po | 
+ | [sv](/f26/language/sv) | 2265 | 5395 | 42.0 | /mnt/stockage/packages/f26/pingus/data/po/sv.po | 
+ | [tr](/f26/language/tr) | 2220 | 5395 | 41.1 | /mnt/stockage/packages/f26/pingus/data/po/tr.po | 
+ | [fi](/f26/language/fi) | 1898 | 5395 | 35.2 | /mnt/stockage/packages/f26/pingus/data/po/fi.po | 
+ | [da](/f26/language/da) | 1820 | 5395 | 33.7 | /mnt/stockage/packages/f26/pingus/data/po/da.po | 
+ | [nn](/f26/language/nn) | 1688 | 5395 | 31.3 | /mnt/stockage/packages/f26/pingus/data/po/nn.po | 
+ | [nb_NO](/f26/language/nb_NO) | 1169 | 5395 | 21.7 | /mnt/stockage/packages/f26/pingus/data/po/nb.po | 
+ | [sr](/f26/language/sr) | 1169 | 5395 | 21.7 | /mnt/stockage/packages/f26/pingus/data/po/sr.po | 
+ | [pl](/f26/language/pl) | 539 | 5395 | 10.0 | /mnt/stockage/packages/f26/pingus/data/po/pl.po | 
+ | [uk](/f26/language/uk) | 341 | 5417 | 6.3 | /mnt/stockage/packages/f26/pingus/data/po/uk.po/mnt/stockage/packages/f26/pingus/external/tinygettext/test/helloworld/uk.po | 
+ | [ru](/f26/language/ru) | 186 | 5395 | 3.4 | /mnt/stockage/packages/f26/pingus/data/po/ru.po | 
+ | [bg](/f26/language/bg) | 178 | 5395 | 3.3 | /mnt/stockage/packages/f26/pingus/data/po/bg.po | 
+ | [th](/f26/language/th) | 60 | 5395 | 1.1 | /mnt/stockage/packages/f26/pingus/data/po/th.po | 
+ | [sq](/f26/language/sq) | 54 | 5395 | 1.0 | /mnt/stockage/packages/f26/pingus/data/po/sq.po | 
+ | [ast](/f26/language/ast) | 0 | 5395 | 0.0 | /mnt/stockage/packages/f26/pingus/data/po/ast.po | 
 {.sortable}
 
 

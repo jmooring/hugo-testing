@@ -18,7 +18,7 @@ The package libloc (version 0.9.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 0 | 246 | 0.0 | /mnt/stockage/packages/f35/libloc/po/de.po | 
+ | [de](/f35/language/de) | 0 | 246 | 0.0 | /mnt/stockage/packages/f35/libloc/po/de.po | 
 {.sortable}
 
 

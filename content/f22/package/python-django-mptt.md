@@ -18,15 +18,15 @@ The package python-django-mptt (version 0.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/dk/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/fr/LC_MESSAGES/django.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/mn/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/ru/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 236 | 241 | 97.9 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/nb/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 184 | 188 | 97.9 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 9 | 215 | 4.2 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/es/LC_MESSAGES/django.po | 
+ | [da](/f22/language/da) | 188 | 188 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/dk/LC_MESSAGES/django.po | 
+ | [fr](/f22/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/fr/LC_MESSAGES/django.po | 
+ | [mn](/f22/language/mn) | 188 | 188 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/mn/LC_MESSAGES/django.po | 
+ | [pl](/f22/language/pl) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f22/language/pt_BR) | 188 | 188 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f22/language/ru) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/ru/LC_MESSAGES/django.po | 
+ | [nb_NO](/f22/language/nb_NO) | 236 | 241 | 97.9 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/nb/LC_MESSAGES/django.po | 
+ | [de](/f22/language/de) | 184 | 188 | 97.9 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f22/language/es) | 9 | 215 | 4.2 | /mnt/stockage/packages/f22/python-django-mptt/mptt/locale/es/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package samba (version 4.14.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/fr.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ja.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 519 | 524 | 99.0 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/tr.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 252 | 524 | 48.1 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ru.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/da.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/fi.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/nb.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ar.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/cs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/es.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/hu.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/it.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ko.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/pt_BR.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/sv.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/zh_TW.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 940 | 12531 | 7.5 | /mnt/stockage/packages/f34/samba/source3/locale/net/de.po/mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/de.po | 
+ | [fr](/f34/language/fr) | 524 | 524 | 100.0 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/fr.po | 
+ | [ja](/f34/language/ja) | 524 | 524 | 100.0 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ja.po | 
+ | [tr](/f34/language/tr) | 519 | 524 | 99.0 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/tr.po | 
+ | [ru](/f34/language/ru) | 252 | 524 | 48.1 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ru.po | 
+ | [da](/f34/language/da) | 212 | 524 | 40.5 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/da.po | 
+ | [fi](/f34/language/fi) | 212 | 524 | 40.5 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/fi.po | 
+ | [nb_NO](/f34/language/nb_NO) | 212 | 524 | 40.5 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/nb.po | 
+ | [ar](/f34/language/ar) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ar.po | 
+ | [cs](/f34/language/cs) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/cs.po | 
+ | [es](/f34/language/es) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/es.po | 
+ | [hu](/f34/language/hu) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/hu.po | 
+ | [it](/f34/language/it) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/it.po | 
+ | [ko](/f34/language/ko) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/ko.po | 
+ | [nl](/f34/language/nl) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/nl.po | 
+ | [pl](/f34/language/pl) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/pt_BR.po | 
+ | [sv](/f34/language/sv) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/sv.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 187 | 524 | 35.7 | /mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/zh_TW.po | 
+ | [de](/f34/language/de) | 940 | 12531 | 7.5 | /mnt/stockage/packages/f34/samba/source3/locale/net/de.po/mnt/stockage/packages/f34/samba/source3/locale/pam_winbind/de.po | 
 {.sortable}
 
 

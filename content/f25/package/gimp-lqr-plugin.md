@@ -18,20 +18,20 @@ The package gimp-lqr-plugin (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f25/language/it.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/it.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 845 | 928 | 91.1 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/ru.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 760 | 928 | 81.9 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/fr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 494 | 928 | 53.2 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/pt_BR.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 280 | 928 | 30.2 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/es_ES.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 274 | 928 | 29.5 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/nb_NO.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 267 | 928 | 28.8 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/ro_RO.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 259 | 928 | 27.9 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/de.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 208 | 928 | 22.4 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/zh_TW.po | 
- | [es_AR]({{< ref "/f25/language/es_AR.md" >}}) | 56 | 928 | 6.0 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/es_AR.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 52 | 928 | 5.6 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/eu_ES.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 52 | 928 | 5.6 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/hu.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 50 | 928 | 5.4 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/sr.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 50 | 928 | 5.4 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/zh_CN.po | 
+ | [it](/f25/language/it) | 928 | 928 | 100.0 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/it.po | 
+ | [ru](/f25/language/ru) | 845 | 928 | 91.1 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/ru.po | 
+ | [fr](/f25/language/fr) | 760 | 928 | 81.9 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 494 | 928 | 53.2 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/pt_BR.po | 
+ | [es](/f25/language/es) | 280 | 928 | 30.2 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/es_ES.po | 
+ | [nb_NO](/f25/language/nb_NO) | 274 | 928 | 29.5 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/nb_NO.po | 
+ | [ro](/f25/language/ro) | 267 | 928 | 28.8 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/ro_RO.po | 
+ | [de](/f25/language/de) | 259 | 928 | 27.9 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/de.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 208 | 928 | 22.4 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/zh_TW.po | 
+ | [es_AR](/f25/language/es_AR) | 56 | 928 | 6.0 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/es_AR.po | 
+ | [eu](/f25/language/eu) | 52 | 928 | 5.6 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/eu_ES.po | 
+ | [hu](/f25/language/hu) | 52 | 928 | 5.6 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/hu.po | 
+ | [sr](/f25/language/sr) | 50 | 928 | 5.4 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/sr.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 50 | 928 | 5.4 | /mnt/stockage/packages/f25/gimp-lqr-plugin/po/zh_CN.po | 
 {.sortable}
 
 

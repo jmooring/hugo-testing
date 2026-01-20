@@ -18,16 +18,16 @@ The package rhash (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f39/language/en.md" >}}) | 462 | 478 | 96.7 | /mnt/stockage/packages/f39/rhash/po/en_AU.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 462 | 478 | 96.7 | /mnt/stockage/packages/f39/rhash/po/es.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 462 | 478 | 96.7 | /mnt/stockage/packages/f39/rhash/po/ru.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 455 | 478 | 95.2 | /mnt/stockage/packages/f39/rhash/po/uk.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 362 | 478 | 75.7 | /mnt/stockage/packages/f39/rhash/po/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 316 | 478 | 66.1 | /mnt/stockage/packages/f39/rhash/po/it.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 210 | 478 | 43.9 | /mnt/stockage/packages/f39/rhash/po/gl.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 199 | 478 | 41.6 | /mnt/stockage/packages/f39/rhash/po/ca.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 192 | 478 | 40.2 | /mnt/stockage/packages/f39/rhash/po/ro.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 129 | 478 | 27.0 | /mnt/stockage/packages/f39/rhash/po/fr.po | 
+ | [en](/f39/language/en) | 462 | 478 | 96.7 | /mnt/stockage/packages/f39/rhash/po/en_AU.po | 
+ | [es](/f39/language/es) | 462 | 478 | 96.7 | /mnt/stockage/packages/f39/rhash/po/es.po | 
+ | [ru](/f39/language/ru) | 462 | 478 | 96.7 | /mnt/stockage/packages/f39/rhash/po/ru.po | 
+ | [uk](/f39/language/uk) | 455 | 478 | 95.2 | /mnt/stockage/packages/f39/rhash/po/uk.po | 
+ | [de](/f39/language/de) | 362 | 478 | 75.7 | /mnt/stockage/packages/f39/rhash/po/de.po | 
+ | [it](/f39/language/it) | 316 | 478 | 66.1 | /mnt/stockage/packages/f39/rhash/po/it.po | 
+ | [gl](/f39/language/gl) | 210 | 478 | 43.9 | /mnt/stockage/packages/f39/rhash/po/gl.po | 
+ | [ca](/f39/language/ca) | 199 | 478 | 41.6 | /mnt/stockage/packages/f39/rhash/po/ca.po | 
+ | [ro](/f39/language/ro) | 192 | 478 | 40.2 | /mnt/stockage/packages/f39/rhash/po/ro.po | 
+ | [fr](/f39/language/fr) | 129 | 478 | 27.0 | /mnt/stockage/packages/f39/rhash/po/fr.po | 
 {.sortable}
 
 

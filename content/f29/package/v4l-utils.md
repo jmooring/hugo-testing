@@ -18,11 +18,11 @@ The package v4l-utils (version 1.16.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 2173 | 3004 | 72.3 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/de.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 2173 | 3004 | 72.3 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/pt_BR.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 566 | 3004 | 18.8 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/uk.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/uk.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 145 | 2257 | 6.4 | /mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/fr.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 174 | 3004 | 5.8 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/ca.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/ca.po | 
+ | [de](/f29/language/de) | 2173 | 3004 | 72.3 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/de.po | 
+ | [pt_BR](/f29/language/pt_BR) | 2173 | 3004 | 72.3 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/pt_BR.po | 
+ | [uk](/f29/language/uk) | 566 | 3004 | 18.8 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/uk.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/uk.po | 
+ | [fr](/f29/language/fr) | 145 | 2257 | 6.4 | /mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/fr.po | 
+ | [ca](/f29/language/ca) | 174 | 3004 | 5.8 | /mnt/stockage/packages/f29/v4l-utils/libdvbv5-po/ca.po/mnt/stockage/packages/f29/v4l-utils/v4l-utils-po/ca.po | 
 {.sortable}
 
 

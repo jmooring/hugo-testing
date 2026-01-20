@@ -18,17 +18,17 @@ The package axel (version 2.17.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 596 | 607 | 98.2 | /mnt/stockage/packages/f40/axel/po/ka.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 352 | 607 | 58.0 | /mnt/stockage/packages/f40/axel/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 352 | 607 | 58.0 | /mnt/stockage/packages/f40/axel/po/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 347 | 607 | 57.2 | /mnt/stockage/packages/f40/axel/po/it.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 347 | 607 | 57.2 | /mnt/stockage/packages/f40/axel/po/pt_BR.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 335 | 607 | 55.2 | /mnt/stockage/packages/f40/axel/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 323 | 607 | 53.2 | /mnt/stockage/packages/f40/axel/po/zh_CN.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 272 | 607 | 44.8 | /mnt/stockage/packages/f40/axel/po/id_ID.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 265 | 607 | 43.7 | /mnt/stockage/packages/f40/axel/po/ja.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 261 | 607 | 43.0 | /mnt/stockage/packages/f40/axel/po/ru.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 199 | 607 | 32.8 | /mnt/stockage/packages/f40/axel/po/nl.po | 
+ | [ka](/f40/language/ka) | 596 | 607 | 98.2 | /mnt/stockage/packages/f40/axel/po/ka.po | 
+ | [de](/f40/language/de) | 352 | 607 | 58.0 | /mnt/stockage/packages/f40/axel/po/de.po | 
+ | [es](/f40/language/es) | 352 | 607 | 58.0 | /mnt/stockage/packages/f40/axel/po/es.po | 
+ | [it](/f40/language/it) | 347 | 607 | 57.2 | /mnt/stockage/packages/f40/axel/po/it.po | 
+ | [pt_BR](/f40/language/pt_BR) | 347 | 607 | 57.2 | /mnt/stockage/packages/f40/axel/po/pt_BR.po | 
+ | [tr](/f40/language/tr) | 335 | 607 | 55.2 | /mnt/stockage/packages/f40/axel/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 323 | 607 | 53.2 | /mnt/stockage/packages/f40/axel/po/zh_CN.po | 
+ | [id](/f40/language/id) | 272 | 607 | 44.8 | /mnt/stockage/packages/f40/axel/po/id_ID.po | 
+ | [ja](/f40/language/ja) | 265 | 607 | 43.7 | /mnt/stockage/packages/f40/axel/po/ja.po | 
+ | [ru](/f40/language/ru) | 261 | 607 | 43.0 | /mnt/stockage/packages/f40/axel/po/ru.po | 
+ | [nl](/f40/language/nl) | 199 | 607 | 32.8 | /mnt/stockage/packages/f40/axel/po/nl.po | 
 {.sortable}
 
 

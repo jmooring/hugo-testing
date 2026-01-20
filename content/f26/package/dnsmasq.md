@@ -18,16 +18,16 @@ The package dnsmasq (version 2.76):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 2846 | 2846 | 100.0 | /mnt/stockage/packages/f26/dnsmasq/po/pl.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 2724 | 2846 | 95.7 | /mnt/stockage/packages/f26/dnsmasq/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2303 | 2846 | 80.9 | /mnt/stockage/packages/f26/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1440 | 2846 | 50.6 | /mnt/stockage/packages/f26/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f26/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f26/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 745 | 2846 | 26.2 | /mnt/stockage/packages/f26/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f26/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f26/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f26/dnsmasq/po/pt_BR.po | 
+ | [pl](/f26/language/pl) | 2846 | 2846 | 100.0 | /mnt/stockage/packages/f26/dnsmasq/po/pl.po | 
+ | [de](/f26/language/de) | 2724 | 2846 | 95.7 | /mnt/stockage/packages/f26/dnsmasq/po/de.po | 
+ | [fr](/f26/language/fr) | 2303 | 2846 | 80.9 | /mnt/stockage/packages/f26/dnsmasq/po/fr.po | 
+ | [es](/f26/language/es) | 1440 | 2846 | 50.6 | /mnt/stockage/packages/f26/dnsmasq/po/es.po | 
+ | [nb_NO](/f26/language/nb_NO) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f26/dnsmasq/po/no.po | 
+ | [ro](/f26/language/ro) | 757 | 2846 | 26.6 | /mnt/stockage/packages/f26/dnsmasq/po/ro.po | 
+ | [id](/f26/language/id) | 745 | 2846 | 26.2 | /mnt/stockage/packages/f26/dnsmasq/po/id.po | 
+ | [fi](/f26/language/fi) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f26/dnsmasq/po/fi.po | 
+ | [it](/f26/language/it) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f26/dnsmasq/po/it.po | 
+ | [pt](/f26/language/pt) | 0 | 2846 | 0.0 | /mnt/stockage/packages/f26/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

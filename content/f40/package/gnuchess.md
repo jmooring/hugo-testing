@@ -18,21 +18,21 @@ The package gnuchess (version 6.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f40/language/es.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/es.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/nb.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/sv.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/zh_CN.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/eo.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/pt_BR.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/sr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/uk.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f40/gnuchess/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f40/gnuchess/po/fr.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 963 | 1135 | 84.8 | /mnt/stockage/packages/f40/gnuchess/po/vi.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 961 | 1135 | 84.7 | /mnt/stockage/packages/f40/gnuchess/po/da.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 214 | 1135 | 18.9 | /mnt/stockage/packages/f40/gnuchess/po/it.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 129 | 1135 | 11.4 | /mnt/stockage/packages/f40/gnuchess/po/gl.po | 
+ | [es](/f40/language/es) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/es.po | 
+ | [nb_NO](/f40/language/nb_NO) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/nb.po | 
+ | [sv](/f40/language/sv) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/sv.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f40/gnuchess/po/zh_CN.po | 
+ | [eo](/f40/language/eo) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/eo.po | 
+ | [nl](/f40/language/nl) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/pt_BR.po | 
+ | [sr](/f40/language/sr) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/sr.po | 
+ | [uk](/f40/language/uk) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f40/gnuchess/po/uk.po | 
+ | [de](/f40/language/de) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f40/gnuchess/po/de.po | 
+ | [fr](/f40/language/fr) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f40/gnuchess/po/fr.po | 
+ | [vi](/f40/language/vi) | 963 | 1135 | 84.8 | /mnt/stockage/packages/f40/gnuchess/po/vi.po | 
+ | [da](/f40/language/da) | 961 | 1135 | 84.7 | /mnt/stockage/packages/f40/gnuchess/po/da.po | 
+ | [it](/f40/language/it) | 214 | 1135 | 18.9 | /mnt/stockage/packages/f40/gnuchess/po/it.po | 
+ | [gl](/f40/language/gl) | 129 | 1135 | 11.4 | /mnt/stockage/packages/f40/gnuchess/po/gl.po | 
 {.sortable}
 
 

@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 288 | 320 | 90.0 | amo@wazobiasoft.org | 
- | [sugar]({{< ref "/f9/package/sugar.md" >}}) | 9 | 242 | 3.7 | Yoruba | 
- | [sugar-journal]({{< ref "/f9/package/sugar-journal.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 288 | 320 | 90.0 | amo@wazobiasoft.org | 
+ | [sugar](/f9/package/sugar) | 9 | 242 | 3.7 | Yoruba | 
+ | [sugar-journal](/f9/package/sugar-journal) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

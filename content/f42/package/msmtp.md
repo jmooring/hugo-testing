@@ -18,16 +18,16 @@ The package msmtp (version 1.8.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/de.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/eo.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/ru.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/sv.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/uk.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1804 | 1823 | 99.0 | /mnt/stockage/packages/f42/msmtp/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1736 | 1823 | 95.2 | /mnt/stockage/packages/f42/msmtp/po/pt_BR.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 398 | 1823 | 21.8 | /mnt/stockage/packages/f42/msmtp/po/ta.po | 
+ | [de](/f42/language/de) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/de.po | 
+ | [eo](/f42/language/eo) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/eo.po | 
+ | [ro](/f42/language/ro) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/ro.po | 
+ | [ru](/f42/language/ru) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/ru.po | 
+ | [sr](/f42/language/sr) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/sr.po | 
+ | [sv](/f42/language/sv) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/sv.po | 
+ | [uk](/f42/language/uk) | 1809 | 1823 | 99.2 | /mnt/stockage/packages/f42/msmtp/po/uk.po | 
+ | [fr](/f42/language/fr) | 1804 | 1823 | 99.0 | /mnt/stockage/packages/f42/msmtp/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1736 | 1823 | 95.2 | /mnt/stockage/packages/f42/msmtp/po/pt_BR.po | 
+ | [ta](/f42/language/ta) | 398 | 1823 | 21.8 | /mnt/stockage/packages/f42/msmtp/po/ta.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package msmtp (version 1.8.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/de.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/eo.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/fr.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/pt_BR.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/sr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/uk.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 461 | 1854 | 24.9 | /mnt/stockage/packages/f31/msmtp/po/ta.po | 
+ | [de](/f31/language/de) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/de.po | 
+ | [eo](/f31/language/eo) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/eo.po | 
+ | [fr](/f31/language/fr) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/fr.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/pt_BR.po | 
+ | [sr](/f31/language/sr) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/sr.po | 
+ | [uk](/f31/language/uk) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f31/msmtp/po/uk.po | 
+ | [ta](/f31/language/ta) | 461 | 1854 | 24.9 | /mnt/stockage/packages/f31/msmtp/po/ta.po | 
 {.sortable}
 
 

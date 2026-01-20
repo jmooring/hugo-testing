@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f35/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 57381 | 165800 | 34.6 | LANGUAGE <LL@li.org> | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/) | 
- | [mate-themes]({{< ref "/f35/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/) | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f35/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f35/package/libreoffice) | 57381 | 165800 | 34.6 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f35/package/mate-menu) | 0 | 308 | 0.0 | Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/) | 
+ | [mate-themes](/f35/package/mate-themes) | 0 | 74 | 0.0 | Guarani (Paraguay) (http://www.transifex.com/mate/MATE/language/gug_PY/) | 
 {.sortable}
 
 

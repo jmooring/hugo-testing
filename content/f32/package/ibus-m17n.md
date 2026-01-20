@@ -18,19 +18,19 @@ The package ibus-m17n (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/bn.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/fr.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/id.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/ja.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/pt_BR.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 5 | 57 | 8.8 | /mnt/stockage/packages/f32/ibus-m17n/po/zh_TW.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 57 | 0.0 | /mnt/stockage/packages/f32/ibus-m17n/po/fa.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 0 | 57 | 0.0 | /mnt/stockage/packages/f32/ibus-m17n/po/si.po | 
+ | [bn](/f32/language/bn) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/bn.po | 
+ | [de](/f32/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/de.po | 
+ | [es](/f32/language/es) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/es.po | 
+ | [fr](/f32/language/fr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/fr.po | 
+ | [id](/f32/language/id) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/id.po | 
+ | [ja](/f32/language/ja) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/ja.po | 
+ | [pt_BR](/f32/language/pt_BR) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/pt_BR.po | 
+ | [tr](/f32/language/tr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/tr.po | 
+ | [uk](/f32/language/uk) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 57 | 57 | 100.0 | /mnt/stockage/packages/f32/ibus-m17n/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 5 | 57 | 8.8 | /mnt/stockage/packages/f32/ibus-m17n/po/zh_TW.po | 
+ | [fa](/f32/language/fa) | 0 | 57 | 0.0 | /mnt/stockage/packages/f32/ibus-m17n/po/fa.po | 
+ | [si](/f32/language/si) | 0 | 57 | 0.0 | /mnt/stockage/packages/f32/ibus-m17n/po/si.po | 
 {.sortable}
 
 

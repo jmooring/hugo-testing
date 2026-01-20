@@ -18,62 +18,62 @@ The package kimap (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ar/libkimap6.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ca/libkimap6.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ca@valencia/libkimap6.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/cs/libkimap6.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/da/libkimap6.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/de/libkimap6.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/en_GB/libkimap6.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/eo/libkimap6.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/es/libkimap6.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/eu/libkimap6.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/fi/libkimap6.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/fr/libkimap6.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/gl/libkimap6.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/he/libkimap6.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/hi/libkimap6.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/hu/libkimap6.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ia/libkimap6.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/it/libkimap6.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ka/libkimap6.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ko/libkimap6.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/lv/libkimap6.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/nl/libkimap6.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/nn/libkimap6.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/pl/libkimap6.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/pt/libkimap6.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/pt_BR/libkimap6.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ru/libkimap6.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sa/libkimap6.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sk/libkimap6.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sl/libkimap6.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sv/libkimap6.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/tr/libkimap6.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/uk/libkimap6.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/zh_CN/libkimap6.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/zh_TW/libkimap6.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 111 | 118 | 94.1 | /mnt/stockage/packages/f41/kimap/po/el/libkimap6.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 110 | 118 | 93.2 | /mnt/stockage/packages/f41/kimap/po/et/libkimap6.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr/libkimap6.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr@ijekavian/libkimap6.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr@ijekavianlatin/libkimap6.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr@latin/libkimap6.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 96 | 118 | 81.4 | /mnt/stockage/packages/f41/kimap/po/lt/libkimap6.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 96 | 118 | 81.4 | /mnt/stockage/packages/f41/kimap/po/nb/libkimap6.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 96 | 118 | 81.4 | /mnt/stockage/packages/f41/kimap/po/nds/libkimap6.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/bs/libkimap6.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/ga/libkimap6.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/kk/libkimap6.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/km/libkimap6.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 45 | 118 | 38.1 | /mnt/stockage/packages/f41/kimap/po/ro/libkimap6.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 36 | 118 | 30.5 | /mnt/stockage/packages/f41/kimap/po/sq/libkimap6.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 33 | 118 | 28.0 | /mnt/stockage/packages/f41/kimap/po/ja/libkimap6.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 25 | 118 | 21.2 | /mnt/stockage/packages/f41/kimap/po/pa/libkimap6.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 20 | 118 | 16.9 | /mnt/stockage/packages/f41/kimap/po/ug/libkimap6.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 16 | 118 | 13.6 | /mnt/stockage/packages/f41/kimap/po/mr/libkimap6.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 6 | 118 | 5.1 | /mnt/stockage/packages/f41/kimap/po/ta/libkimap6.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 0 | 118 | 0.0 | /mnt/stockage/packages/f41/kimap/po/ast/libkimap6.po | 
+ | [ar](/f41/language/ar) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ar/libkimap6.po | 
+ | [ca](/f41/language/ca) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ca/libkimap6.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ca@valencia/libkimap6.po | 
+ | [cs](/f41/language/cs) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/cs/libkimap6.po | 
+ | [da](/f41/language/da) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/da/libkimap6.po | 
+ | [de](/f41/language/de) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/de/libkimap6.po | 
+ | [en_GB](/f41/language/en_GB) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/en_GB/libkimap6.po | 
+ | [eo](/f41/language/eo) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/eo/libkimap6.po | 
+ | [es](/f41/language/es) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/es/libkimap6.po | 
+ | [eu](/f41/language/eu) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/eu/libkimap6.po | 
+ | [fi](/f41/language/fi) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/fi/libkimap6.po | 
+ | [fr](/f41/language/fr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/fr/libkimap6.po | 
+ | [gl](/f41/language/gl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/gl/libkimap6.po | 
+ | [he](/f41/language/he) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/he/libkimap6.po | 
+ | [hi](/f41/language/hi) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/hi/libkimap6.po | 
+ | [hu](/f41/language/hu) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/hu/libkimap6.po | 
+ | [ia](/f41/language/ia) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ia/libkimap6.po | 
+ | [it](/f41/language/it) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/it/libkimap6.po | 
+ | [ka](/f41/language/ka) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ka/libkimap6.po | 
+ | [ko](/f41/language/ko) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ko/libkimap6.po | 
+ | [lv](/f41/language/lv) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/lv/libkimap6.po | 
+ | [nl](/f41/language/nl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/nl/libkimap6.po | 
+ | [nn](/f41/language/nn) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/nn/libkimap6.po | 
+ | [pl](/f41/language/pl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/pl/libkimap6.po | 
+ | [pt](/f41/language/pt) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/pt/libkimap6.po | 
+ | [pt_BR](/f41/language/pt_BR) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/pt_BR/libkimap6.po | 
+ | [ru](/f41/language/ru) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/ru/libkimap6.po | 
+ | [sa](/f41/language/sa) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sa/libkimap6.po | 
+ | [sk](/f41/language/sk) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sk/libkimap6.po | 
+ | [sl](/f41/language/sl) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sl/libkimap6.po | 
+ | [sv](/f41/language/sv) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/sv/libkimap6.po | 
+ | [tr](/f41/language/tr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/tr/libkimap6.po | 
+ | [uk](/f41/language/uk) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/uk/libkimap6.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/zh_CN/libkimap6.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 118 | 118 | 100.0 | /mnt/stockage/packages/f41/kimap/po/zh_TW/libkimap6.po | 
+ | [el](/f41/language/el) | 111 | 118 | 94.1 | /mnt/stockage/packages/f41/kimap/po/el/libkimap6.po | 
+ | [et](/f41/language/et) | 110 | 118 | 93.2 | /mnt/stockage/packages/f41/kimap/po/et/libkimap6.po | 
+ | [sr](/f41/language/sr) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr/libkimap6.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr@ijekavian/libkimap6.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr@ijekavianlatin/libkimap6.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 99 | 118 | 83.9 | /mnt/stockage/packages/f41/kimap/po/sr@latin/libkimap6.po | 
+ | [lt](/f41/language/lt) | 96 | 118 | 81.4 | /mnt/stockage/packages/f41/kimap/po/lt/libkimap6.po | 
+ | [nb_NO](/f41/language/nb_NO) | 96 | 118 | 81.4 | /mnt/stockage/packages/f41/kimap/po/nb/libkimap6.po | 
+ | [nds](/f41/language/nds) | 96 | 118 | 81.4 | /mnt/stockage/packages/f41/kimap/po/nds/libkimap6.po | 
+ | [bs](/f41/language/bs) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/bs/libkimap6.po | 
+ | [ga](/f41/language/ga) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/ga/libkimap6.po | 
+ | [kk](/f41/language/kk) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/kk/libkimap6.po | 
+ | [km](/f41/language/km) | 93 | 118 | 78.8 | /mnt/stockage/packages/f41/kimap/po/km/libkimap6.po | 
+ | [ro](/f41/language/ro) | 45 | 118 | 38.1 | /mnt/stockage/packages/f41/kimap/po/ro/libkimap6.po | 
+ | [sq](/f41/language/sq) | 36 | 118 | 30.5 | /mnt/stockage/packages/f41/kimap/po/sq/libkimap6.po | 
+ | [ja](/f41/language/ja) | 33 | 118 | 28.0 | /mnt/stockage/packages/f41/kimap/po/ja/libkimap6.po | 
+ | [pa](/f41/language/pa) | 25 | 118 | 21.2 | /mnt/stockage/packages/f41/kimap/po/pa/libkimap6.po | 
+ | [ug](/f41/language/ug) | 20 | 118 | 16.9 | /mnt/stockage/packages/f41/kimap/po/ug/libkimap6.po | 
+ | [mr](/f41/language/mr) | 16 | 118 | 13.6 | /mnt/stockage/packages/f41/kimap/po/mr/libkimap6.po | 
+ | [ta](/f41/language/ta) | 6 | 118 | 5.1 | /mnt/stockage/packages/f41/kimap/po/ta/libkimap6.po | 
+ | [ast](/f41/language/ast) | 0 | 118 | 0.0 | /mnt/stockage/packages/f41/kimap/po/ast/libkimap6.po | 
 {.sortable}
 
 

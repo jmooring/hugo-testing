@@ -18,16 +18,16 @@ The package ibus-m17n (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/fr.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/id.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/ja.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/tr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/uk.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 4 | 57 | 7.0 | /mnt/stockage/packages/f30/ibus-m17n/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 3 | 57 | 5.3 | /mnt/stockage/packages/f30/ibus-m17n/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1 | 57 | 1.8 | /mnt/stockage/packages/f30/ibus-m17n/po/pt_BR.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 0 | 57 | 0.0 | /mnt/stockage/packages/f30/ibus-m17n/po/fa.po | 
+ | [de](/f30/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/de.po | 
+ | [fr](/f30/language/fr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/fr.po | 
+ | [id](/f30/language/id) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/id.po | 
+ | [ja](/f30/language/ja) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/ja.po | 
+ | [tr](/f30/language/tr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/tr.po | 
+ | [uk](/f30/language/uk) | 57 | 57 | 100.0 | /mnt/stockage/packages/f30/ibus-m17n/po/uk.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 4 | 57 | 7.0 | /mnt/stockage/packages/f30/ibus-m17n/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 3 | 57 | 5.3 | /mnt/stockage/packages/f30/ibus-m17n/po/zh_TW.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1 | 57 | 1.8 | /mnt/stockage/packages/f30/ibus-m17n/po/pt_BR.po | 
+ | [fa](/f30/language/fa) | 0 | 57 | 0.0 | /mnt/stockage/packages/f30/ibus-m17n/po/fa.po | 
 {.sortable}
 
 

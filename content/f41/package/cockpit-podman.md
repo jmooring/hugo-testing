@@ -18,23 +18,23 @@ The package cockpit-podman (version 112):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/ar.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/fr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/ko.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/uk.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/zh_Hant.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1130 | 1133 | 99.7 | /mnt/stockage/packages/f41/cockpit-podman/po/fi.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1121 | 1133 | 98.9 | /mnt/stockage/packages/f41/cockpit-podman/po/pt_BR.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 1117 | 1133 | 98.6 | /mnt/stockage/packages/f41/cockpit-podman/po/ja.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1117 | 1133 | 98.6 | /mnt/stockage/packages/f41/cockpit-podman/po/zh_CN.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 1060 | 1133 | 93.6 | /mnt/stockage/packages/f41/cockpit-podman/po/pl.po | 
+ | [ar](/f41/language/ar) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/ar.po | 
+ | [cs](/f41/language/cs) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/cs.po | 
+ | [de](/f41/language/de) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/de.po | 
+ | [es](/f41/language/es) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/es.po | 
+ | [fr](/f41/language/fr) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/fr.po | 
+ | [it](/f41/language/it) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/it.po | 
+ | [ka](/f41/language/ka) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/ka.po | 
+ | [ko](/f41/language/ko) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/ko.po | 
+ | [sv](/f41/language/sv) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/sv.po | 
+ | [tr](/f41/language/tr) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/tr.po | 
+ | [uk](/f41/language/uk) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/uk.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 1133 | 1133 | 100.0 | /mnt/stockage/packages/f41/cockpit-podman/po/zh_Hant.po | 
+ | [fi](/f41/language/fi) | 1130 | 1133 | 99.7 | /mnt/stockage/packages/f41/cockpit-podman/po/fi.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1121 | 1133 | 98.9 | /mnt/stockage/packages/f41/cockpit-podman/po/pt_BR.po | 
+ | [ja](/f41/language/ja) | 1117 | 1133 | 98.6 | /mnt/stockage/packages/f41/cockpit-podman/po/ja.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1117 | 1133 | 98.6 | /mnt/stockage/packages/f41/cockpit-podman/po/zh_CN.po | 
+ | [pl](/f41/language/pl) | 1060 | 1133 | 93.6 | /mnt/stockage/packages/f41/cockpit-podman/po/pl.po | 
 {.sortable}
 
 

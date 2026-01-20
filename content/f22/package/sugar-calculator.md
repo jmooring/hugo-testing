@@ -18,89 +18,89 @@ The package sugar-calculator (version 42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/de.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/en.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/en_GB.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/en_US.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fr.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/nl.po | 
- | [qu]({{< ref "/f22/language/qu.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/quz.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/zh_CN.po | 
- | [ay]({{< ref "/f22/language/ay.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/aym.po | 
- | [ayc]({{< ref "/f22/language/ayc.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/ayc.po | 
- | [hus]({{< ref "/f22/language/hus.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/hus.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/hy.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/id.po | 
- | [mi]({{< ref "/f22/language/mi.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/mi.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/ne.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/pt.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/si.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 843 | 871 | 96.8 | /mnt/stockage/packages/f22/sugar-calculator/po/hi.po | 
- | [sw]({{< ref "/f22/language/sw.md" >}}) | 701 | 871 | 80.5 | /mnt/stockage/packages/f22/sugar-calculator/po/sw.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 582 | 871 | 66.8 | /mnt/stockage/packages/f22/sugar-calculator/po/th.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 515 | 871 | 59.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ta.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 508 | 871 | 58.3 | /mnt/stockage/packages/f22/sugar-calculator/po/vi.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 479 | 871 | 55.0 | /mnt/stockage/packages/f22/sugar-calculator/po/mn.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 478 | 871 | 54.9 | /mnt/stockage/packages/f22/sugar-calculator/po/it.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 437 | 871 | 50.2 | /mnt/stockage/packages/f22/sugar-calculator/po/el.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 406 | 871 | 46.6 | /mnt/stockage/packages/f22/sugar-calculator/po/zh_TW.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 401 | 871 | 46.0 | /mnt/stockage/packages/f22/sugar-calculator/po/mr.po | 
- | [mg]({{< ref "/f22/language/mg.md" >}}) | 393 | 871 | 45.1 | /mnt/stockage/packages/f22/sugar-calculator/po/mg.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 391 | 871 | 44.9 | /mnt/stockage/packages/f22/sugar-calculator/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 390 | 871 | 44.8 | /mnt/stockage/packages/f22/sugar-calculator/po/tr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 389 | 871 | 44.7 | /mnt/stockage/packages/f22/sugar-calculator/po/ja.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 387 | 871 | 44.4 | /mnt/stockage/packages/f22/sugar-calculator/po/bg.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 384 | 871 | 44.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ru.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 381 | 871 | 43.7 | /mnt/stockage/packages/f22/sugar-calculator/po/ca.po | 
- | [ht]({{< ref "/f22/language/ht.md" >}}) | 380 | 871 | 43.6 | /mnt/stockage/packages/f22/sugar-calculator/po/ht.po | 
- | [pap]({{< ref "/f22/language/pap.md" >}}) | 380 | 871 | 43.6 | /mnt/stockage/packages/f22/sugar-calculator/po/pap.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 379 | 871 | 43.5 | /mnt/stockage/packages/f22/sugar-calculator/po/te.po | 
- | [prs]({{< ref "/f22/language/prs.md" >}}) | 374 | 871 | 42.9 | /mnt/stockage/packages/f22/sugar-calculator/po/fa_AF.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 372 | 871 | 42.7 | /mnt/stockage/packages/f22/sugar-calculator/po/bn.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 372 | 871 | 42.7 | /mnt/stockage/packages/f22/sugar-calculator/po/pt_BR.po | 
- | [ps]({{< ref "/f22/language/ps.md" >}}) | 367 | 871 | 42.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ps.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 271 | 871 | 31.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ar.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 230 | 871 | 26.4 | /mnt/stockage/packages/f22/sugar-calculator/po/sq.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 552 | 2613 | 21.1 | /mnt/stockage/packages/f22/sugar-calculator/po/mvo.po/mnt/stockage/packages/f22/sugar-calculator/po/pbs.po/mnt/stockage/packages/f22/sugar-calculator/po/tzo.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 182 | 871 | 20.9 | /mnt/stockage/packages/f22/sugar-calculator/po/cs.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 167 | 871 | 19.2 | /mnt/stockage/packages/f22/sugar-calculator/po/rw.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 163 | 871 | 18.7 | /mnt/stockage/packages/f22/sugar-calculator/po/sl.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 132 | 871 | 15.2 | /mnt/stockage/packages/f22/sugar-calculator/po/ur.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 125 | 871 | 14.4 | /mnt/stockage/packages/f22/sugar-calculator/po/km.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 92 | 871 | 10.6 | /mnt/stockage/packages/f22/sugar-calculator/po/ro.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 82 | 871 | 9.4 | /mnt/stockage/packages/f22/sugar-calculator/po/mk.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 58 | 871 | 6.7 | /mnt/stockage/packages/f22/sugar-calculator/po/he.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 45 | 871 | 5.2 | /mnt/stockage/packages/f22/sugar-calculator/po/is.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 45 | 871 | 5.2 | /mnt/stockage/packages/f22/sugar-calculator/po/nb.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 33 | 871 | 3.8 | /mnt/stockage/packages/f22/sugar-calculator/po/ko.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 30 | 871 | 3.4 | /mnt/stockage/packages/f22/sugar-calculator/po/hu.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 30 | 871 | 3.4 | /mnt/stockage/packages/f22/sugar-calculator/po/ms.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 26 | 871 | 3.0 | /mnt/stockage/packages/f22/sugar-calculator/po/bn_IN.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 25 | 871 | 2.9 | /mnt/stockage/packages/f22/sugar-calculator/po/af.po | 
- | [br]({{< ref "/f22/language/br.md" >}}) | 23 | 871 | 2.6 | /mnt/stockage/packages/f22/sugar-calculator/po/br.po | 
- | [ff]({{< ref "/f22/language/ff.md" >}}) | 11 | 871 | 1.3 | /mnt/stockage/packages/f22/sugar-calculator/po/ff.po | 
- | [bi]({{< ref "/f22/language/bi.md" >}}) | 3 | 871 | 0.3 | /mnt/stockage/packages/f22/sugar-calculator/po/bi.po | 
- | [am]({{< ref "/f22/language/am.md" >}}) | 2 | 871 | 0.2 | /mnt/stockage/packages/f22/sugar-calculator/po/am.po | 
- | [kos]({{< ref "/f22/language/kos.md" >}}) | 1 | 871 | 0.1 | /mnt/stockage/packages/f22/sugar-calculator/po/kos.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 1 | 871 | 0.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ml.po | 
- | [tvl]({{< ref "/f22/language/tvl.md" >}}) | 1 | 871 | 0.1 | /mnt/stockage/packages/f22/sugar-calculator/po/tvl.po | 
- | [cpp]({{< ref "/f22/language/cpp.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/cpp.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/dz.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fi.po | 
- | [fil]({{< ref "/f22/language/fil.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fil.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/gu.po | 
- | [ha]({{< ref "/f22/language/ha.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/ha.po | 
- | [ig]({{< ref "/f22/language/ig.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/ig.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/pa.po | 
- | [sd]({{< ref "/f22/language/sd.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/sd.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/sk.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/ug.po | 
- | [wa]({{< ref "/f22/language/wa.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/wa.po | 
- | [yo]({{< ref "/f22/language/yo.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/yo.po | 
+ | [da](/f22/language/da) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/da.po | 
+ | [de](/f22/language/de) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/de.po | 
+ | [en](/f22/language/en) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/en.po | 
+ | [en_GB](/f22/language/en_GB) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/en_GB.po | 
+ | [en_US](/f22/language/en_US) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/en_US.po | 
+ | [es](/f22/language/es) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/es.po | 
+ | [fr](/f22/language/fr) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fr.po | 
+ | [nl](/f22/language/nl) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/nl.po | 
+ | [qu](/f22/language/qu) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/quz.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 871 | 871 | 100.0 | /mnt/stockage/packages/f22/sugar-calculator/po/zh_CN.po | 
+ | [ay](/f22/language/ay) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/aym.po | 
+ | [ayc](/f22/language/ayc) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/ayc.po | 
+ | [hus](/f22/language/hus) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/hus.po | 
+ | [hy](/f22/language/hy) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/hy.po | 
+ | [id](/f22/language/id) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/id.po | 
+ | [mi](/f22/language/mi) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/mi.po | 
+ | [ne](/f22/language/ne) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/ne.po | 
+ | [pl](/f22/language/pl) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/pl.po | 
+ | [pt](/f22/language/pt) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/pt.po | 
+ | [si](/f22/language/si) | 844 | 871 | 96.9 | /mnt/stockage/packages/f22/sugar-calculator/po/si.po | 
+ | [hi](/f22/language/hi) | 843 | 871 | 96.8 | /mnt/stockage/packages/f22/sugar-calculator/po/hi.po | 
+ | [sw](/f22/language/sw) | 701 | 871 | 80.5 | /mnt/stockage/packages/f22/sugar-calculator/po/sw.po | 
+ | [th](/f22/language/th) | 582 | 871 | 66.8 | /mnt/stockage/packages/f22/sugar-calculator/po/th.po | 
+ | [ta](/f22/language/ta) | 515 | 871 | 59.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ta.po | 
+ | [vi](/f22/language/vi) | 508 | 871 | 58.3 | /mnt/stockage/packages/f22/sugar-calculator/po/vi.po | 
+ | [mn](/f22/language/mn) | 479 | 871 | 55.0 | /mnt/stockage/packages/f22/sugar-calculator/po/mn.po | 
+ | [it](/f22/language/it) | 478 | 871 | 54.9 | /mnt/stockage/packages/f22/sugar-calculator/po/it.po | 
+ | [el](/f22/language/el) | 437 | 871 | 50.2 | /mnt/stockage/packages/f22/sugar-calculator/po/el.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 406 | 871 | 46.6 | /mnt/stockage/packages/f22/sugar-calculator/po/zh_TW.po | 
+ | [mr](/f22/language/mr) | 401 | 871 | 46.0 | /mnt/stockage/packages/f22/sugar-calculator/po/mr.po | 
+ | [mg](/f22/language/mg) | 393 | 871 | 45.1 | /mnt/stockage/packages/f22/sugar-calculator/po/mg.po | 
+ | [sv](/f22/language/sv) | 391 | 871 | 44.9 | /mnt/stockage/packages/f22/sugar-calculator/po/sv.po | 
+ | [tr](/f22/language/tr) | 390 | 871 | 44.8 | /mnt/stockage/packages/f22/sugar-calculator/po/tr.po | 
+ | [ja](/f22/language/ja) | 389 | 871 | 44.7 | /mnt/stockage/packages/f22/sugar-calculator/po/ja.po | 
+ | [bg](/f22/language/bg) | 387 | 871 | 44.4 | /mnt/stockage/packages/f22/sugar-calculator/po/bg.po | 
+ | [ru](/f22/language/ru) | 384 | 871 | 44.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ru.po | 
+ | [ca](/f22/language/ca) | 381 | 871 | 43.7 | /mnt/stockage/packages/f22/sugar-calculator/po/ca.po | 
+ | [ht](/f22/language/ht) | 380 | 871 | 43.6 | /mnt/stockage/packages/f22/sugar-calculator/po/ht.po | 
+ | [pap](/f22/language/pap) | 380 | 871 | 43.6 | /mnt/stockage/packages/f22/sugar-calculator/po/pap.po | 
+ | [te](/f22/language/te) | 379 | 871 | 43.5 | /mnt/stockage/packages/f22/sugar-calculator/po/te.po | 
+ | [prs](/f22/language/prs) | 374 | 871 | 42.9 | /mnt/stockage/packages/f22/sugar-calculator/po/fa_AF.po | 
+ | [bn](/f22/language/bn) | 372 | 871 | 42.7 | /mnt/stockage/packages/f22/sugar-calculator/po/bn.po | 
+ | [pt_BR](/f22/language/pt_BR) | 372 | 871 | 42.7 | /mnt/stockage/packages/f22/sugar-calculator/po/pt_BR.po | 
+ | [ps](/f22/language/ps) | 367 | 871 | 42.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ps.po | 
+ | [ar](/f22/language/ar) | 271 | 871 | 31.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ar.po | 
+ | [sq](/f22/language/sq) | 230 | 871 | 26.4 | /mnt/stockage/packages/f22/sugar-calculator/po/sq.po | 
+ | [error](/f22/language/error) | 552 | 2613 | 21.1 | /mnt/stockage/packages/f22/sugar-calculator/po/mvo.po/mnt/stockage/packages/f22/sugar-calculator/po/pbs.po/mnt/stockage/packages/f22/sugar-calculator/po/tzo.po | 
+ | [cs](/f22/language/cs) | 182 | 871 | 20.9 | /mnt/stockage/packages/f22/sugar-calculator/po/cs.po | 
+ | [rw](/f22/language/rw) | 167 | 871 | 19.2 | /mnt/stockage/packages/f22/sugar-calculator/po/rw.po | 
+ | [sl](/f22/language/sl) | 163 | 871 | 18.7 | /mnt/stockage/packages/f22/sugar-calculator/po/sl.po | 
+ | [ur](/f22/language/ur) | 132 | 871 | 15.2 | /mnt/stockage/packages/f22/sugar-calculator/po/ur.po | 
+ | [km](/f22/language/km) | 125 | 871 | 14.4 | /mnt/stockage/packages/f22/sugar-calculator/po/km.po | 
+ | [ro](/f22/language/ro) | 92 | 871 | 10.6 | /mnt/stockage/packages/f22/sugar-calculator/po/ro.po | 
+ | [mk](/f22/language/mk) | 82 | 871 | 9.4 | /mnt/stockage/packages/f22/sugar-calculator/po/mk.po | 
+ | [he](/f22/language/he) | 58 | 871 | 6.7 | /mnt/stockage/packages/f22/sugar-calculator/po/he.po | 
+ | [is](/f22/language/is) | 45 | 871 | 5.2 | /mnt/stockage/packages/f22/sugar-calculator/po/is.po | 
+ | [nb_NO](/f22/language/nb_NO) | 45 | 871 | 5.2 | /mnt/stockage/packages/f22/sugar-calculator/po/nb.po | 
+ | [ko](/f22/language/ko) | 33 | 871 | 3.8 | /mnt/stockage/packages/f22/sugar-calculator/po/ko.po | 
+ | [hu](/f22/language/hu) | 30 | 871 | 3.4 | /mnt/stockage/packages/f22/sugar-calculator/po/hu.po | 
+ | [ms](/f22/language/ms) | 30 | 871 | 3.4 | /mnt/stockage/packages/f22/sugar-calculator/po/ms.po | 
+ | [bn_IN](/f22/language/bn_IN) | 26 | 871 | 3.0 | /mnt/stockage/packages/f22/sugar-calculator/po/bn_IN.po | 
+ | [af](/f22/language/af) | 25 | 871 | 2.9 | /mnt/stockage/packages/f22/sugar-calculator/po/af.po | 
+ | [br](/f22/language/br) | 23 | 871 | 2.6 | /mnt/stockage/packages/f22/sugar-calculator/po/br.po | 
+ | [ff](/f22/language/ff) | 11 | 871 | 1.3 | /mnt/stockage/packages/f22/sugar-calculator/po/ff.po | 
+ | [bi](/f22/language/bi) | 3 | 871 | 0.3 | /mnt/stockage/packages/f22/sugar-calculator/po/bi.po | 
+ | [am](/f22/language/am) | 2 | 871 | 0.2 | /mnt/stockage/packages/f22/sugar-calculator/po/am.po | 
+ | [kos](/f22/language/kos) | 1 | 871 | 0.1 | /mnt/stockage/packages/f22/sugar-calculator/po/kos.po | 
+ | [ml](/f22/language/ml) | 1 | 871 | 0.1 | /mnt/stockage/packages/f22/sugar-calculator/po/ml.po | 
+ | [tvl](/f22/language/tvl) | 1 | 871 | 0.1 | /mnt/stockage/packages/f22/sugar-calculator/po/tvl.po | 
+ | [cpp](/f22/language/cpp) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/cpp.po | 
+ | [dz](/f22/language/dz) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/dz.po | 
+ | [fa](/f22/language/fa) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fa.po | 
+ | [fi](/f22/language/fi) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fi.po | 
+ | [fil](/f22/language/fil) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/fil.po | 
+ | [gu](/f22/language/gu) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/gu.po | 
+ | [ha](/f22/language/ha) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/ha.po | 
+ | [ig](/f22/language/ig) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/ig.po | 
+ | [pa](/f22/language/pa) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/pa.po | 
+ | [sd](/f22/language/sd) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/sd.po | 
+ | [sk](/f22/language/sk) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/sk.po | 
+ | [ug](/f22/language/ug) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/ug.po | 
+ | [wa](/f22/language/wa) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/wa.po | 
+ | [yo](/f22/language/yo) | 0 | 871 | 0.0 | /mnt/stockage/packages/f22/sugar-calculator/po/yo.po | 
 {.sortable}
 
 

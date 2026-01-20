@@ -18,23 +18,23 @@ The package enlightenment (version 0.16.999.050):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f11/language/it.md" >}}) | 5975 | 5982 | 99.9 | /mnt/stockage/packages/f11/enlightenment/po/it.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 5965 | 5982 | 99.7 | /mnt/stockage/packages/f11/enlightenment/po/ru.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 5869 | 5982 | 98.1 | /mnt/stockage/packages/f11/enlightenment/po/hu.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 5751 | 5982 | 96.1 | /mnt/stockage/packages/f11/enlightenment/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 5648 | 5982 | 94.4 | /mnt/stockage/packages/f11/enlightenment/po/es.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 5593 | 5982 | 93.5 | /mnt/stockage/packages/f11/enlightenment/po/ja.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 5357 | 5982 | 89.6 | /mnt/stockage/packages/f11/enlightenment/po/fi.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 5260 | 5982 | 87.9 | /mnt/stockage/packages/f11/enlightenment/po/de.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 5246 | 5982 | 87.7 | /mnt/stockage/packages/f11/enlightenment/po/zh_TW.po | 
- | [fr_CH]({{< ref "/f11/language/fr_CH.md" >}}) | 4989 | 5982 | 83.4 | /mnt/stockage/packages/f11/enlightenment/po/fr_CH.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 4987 | 5982 | 83.4 | /mnt/stockage/packages/f11/enlightenment/po/pt_BR.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 4404 | 5982 | 73.6 | /mnt/stockage/packages/f11/enlightenment/po/bg.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 4369 | 5982 | 73.0 | /mnt/stockage/packages/f11/enlightenment/po/eo.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 3816 | 5982 | 63.8 | /mnt/stockage/packages/f11/enlightenment/po/ca.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 3515 | 5982 | 58.8 | /mnt/stockage/packages/f11/enlightenment/po/zh_CN.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 2126 | 5982 | 35.5 | /mnt/stockage/packages/f11/enlightenment/po/ko.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 1962 | 5982 | 32.8 | /mnt/stockage/packages/f11/enlightenment/po/sl.po | 
+ | [it](/f11/language/it) | 5975 | 5982 | 99.9 | /mnt/stockage/packages/f11/enlightenment/po/it.po | 
+ | [ru](/f11/language/ru) | 5965 | 5982 | 99.7 | /mnt/stockage/packages/f11/enlightenment/po/ru.po | 
+ | [hu](/f11/language/hu) | 5869 | 5982 | 98.1 | /mnt/stockage/packages/f11/enlightenment/po/hu.po | 
+ | [fr](/f11/language/fr) | 5751 | 5982 | 96.1 | /mnt/stockage/packages/f11/enlightenment/po/fr.po | 
+ | [es](/f11/language/es) | 5648 | 5982 | 94.4 | /mnt/stockage/packages/f11/enlightenment/po/es.po | 
+ | [ja](/f11/language/ja) | 5593 | 5982 | 93.5 | /mnt/stockage/packages/f11/enlightenment/po/ja.po | 
+ | [fi](/f11/language/fi) | 5357 | 5982 | 89.6 | /mnt/stockage/packages/f11/enlightenment/po/fi.po | 
+ | [de](/f11/language/de) | 5260 | 5982 | 87.9 | /mnt/stockage/packages/f11/enlightenment/po/de.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 5246 | 5982 | 87.7 | /mnt/stockage/packages/f11/enlightenment/po/zh_TW.po | 
+ | [fr_CH](/f11/language/fr_CH) | 4989 | 5982 | 83.4 | /mnt/stockage/packages/f11/enlightenment/po/fr_CH.po | 
+ | [pt_BR](/f11/language/pt_BR) | 4987 | 5982 | 83.4 | /mnt/stockage/packages/f11/enlightenment/po/pt_BR.po | 
+ | [bg](/f11/language/bg) | 4404 | 5982 | 73.6 | /mnt/stockage/packages/f11/enlightenment/po/bg.po | 
+ | [eo](/f11/language/eo) | 4369 | 5982 | 73.0 | /mnt/stockage/packages/f11/enlightenment/po/eo.po | 
+ | [ca](/f11/language/ca) | 3816 | 5982 | 63.8 | /mnt/stockage/packages/f11/enlightenment/po/ca.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 3515 | 5982 | 58.8 | /mnt/stockage/packages/f11/enlightenment/po/zh_CN.po | 
+ | [ko](/f11/language/ko) | 2126 | 5982 | 35.5 | /mnt/stockage/packages/f11/enlightenment/po/ko.po | 
+ | [sl](/f11/language/sl) | 1962 | 5982 | 32.8 | /mnt/stockage/packages/f11/enlightenment/po/sl.po | 
 {.sortable}
 
 

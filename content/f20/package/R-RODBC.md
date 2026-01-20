@@ -18,11 +18,11 @@ The package R-RODBC (version 1.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f20/language/en.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f20/R-RODBC/po/en@quot.po/mnt/stockage/packages/f20/R-RODBC/po/R-en@quot.po | 
- | [error]({{< ref "/f20/language/error.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f20/R-RODBC/po/R-pl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f20/R-RODBC/po/pl.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 283 | 305 | 92.8 | /mnt/stockage/packages/f20/R-RODBC/po/da.po/mnt/stockage/packages/f20/R-RODBC/po/R-da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 276 | 305 | 90.5 | /mnt/stockage/packages/f20/R-RODBC/po/de.po/mnt/stockage/packages/f20/R-RODBC/po/R-de.po | 
+ | [en](/f20/language/en) | 305 | 305 | 100.0 | /mnt/stockage/packages/f20/R-RODBC/po/en@quot.po/mnt/stockage/packages/f20/R-RODBC/po/R-en@quot.po | 
+ | [error](/f20/language/error) | 198 | 198 | 100.0 | /mnt/stockage/packages/f20/R-RODBC/po/R-pl.po | 
+ | [pl](/f20/language/pl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f20/R-RODBC/po/pl.po | 
+ | [da](/f20/language/da) | 283 | 305 | 92.8 | /mnt/stockage/packages/f20/R-RODBC/po/da.po/mnt/stockage/packages/f20/R-RODBC/po/R-da.po | 
+ | [de](/f20/language/de) | 276 | 305 | 90.5 | /mnt/stockage/packages/f20/R-RODBC/po/de.po/mnt/stockage/packages/f20/R-RODBC/po/R-de.po | 
 {.sortable}
 
 

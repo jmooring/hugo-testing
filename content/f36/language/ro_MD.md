@@ -38,65 +38,65 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [switchboard-plug-notifications]({{< ref "/f36/package/switchboard-plug-notifications.md" >}}) | 131 | 142 | 92.3 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/mo/> | 
- | [switchboard-plug-sharing]({{< ref "/f36/package/switchboard-plug-sharing.md" >}}) | 130 | 141 | 92.2 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/mo/> | 
- | [switchboard-plug-printers]({{< ref "/f36/package/switchboard-plug-printers.md" >}}) | 314 | 406 | 77.3 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/mo/> | 
- | [elementary-music]({{< ref "/f36/package/elementary-music.md" >}}) | 876 | 1205 | 72.7 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
- | [switchboard-plug-networking]({{< ref "/f36/package/switchboard-plug-networking.md" >}}) | 309 | 532 | 58.1 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/mo/> | 
- | [switchboard-plug-keyboard]({{< ref "/f36/package/switchboard-plug-keyboard.md" >}}) | 368 | 636 | 57.9 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/mo/> | 
- | [elementary-shortcut-overlay]({{< ref "/f36/package/elementary-shortcut-overlay.md" >}}) | 70 | 130 | 53.8 | Moldovan <https://weblate.elementary.io/projects/desktop/shortcut-overlay/mo/> | 
- | [switchboard-plug-a11y]({{< ref "/f36/package/switchboard-plug-a11y.md" >}}) | 90 | 180 | 50.0 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/mo/> | 
- | [elementary-screenshot-tool]({{< ref "/f36/package/elementary-screenshot-tool.md" >}}) | 122 | 248 | 49.2 | Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/> | 
- | [wingpanel-indicator-session]({{< ref "/f36/package/wingpanel-indicator-session.md" >}}) | 53 | 108 | 49.1 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/mo/> | 
- | [switchboard-plug-display]({{< ref "/f36/package/switchboard-plug-display.md" >}}) | 85 | 182 | 46.7 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/mo/> | 
- | [pantheon-agent-geoclue2]({{< ref "/f36/package/pantheon-agent-geoclue2.md" >}}) | 43 | 101 | 42.6 | Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/mo/> | 
- | [elementary-capnet-assist]({{< ref "/f36/package/elementary-capnet-assist.md" >}}) | 32 | 90 | 35.6 | Moldovan <https://weblate.elementary.io/projects/desktop/capnet-assist/mo/> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f36/package/switchboard-plug-pantheon-shell.md" >}}) | 121 | 349 | 34.7 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/mo/> | 
- | [elementary-calendar]({{< ref "/f36/package/elementary-calendar.md" >}}) | 307 | 888 | 34.6 | Moldovan <https://weblate.elementary.io/projects/calendar/calendar/mo/> | 
- | [switchboard-plug-bluetooth]({{< ref "/f36/package/switchboard-plug-bluetooth.md" >}}) | 70 | 206 | 34.0 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/mo/> | 
- | [elementary-files]({{< ref "/f36/package/elementary-files.md" >}}) | 1174 | 3669 | 32.0 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
- | [switchboard-plug-sound]({{< ref "/f36/package/switchboard-plug-sound.md" >}}) | 56 | 193 | 29.0 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/mo/> | 
- | [switchboard-plug-applications]({{< ref "/f36/package/switchboard-plug-applications.md" >}}) | 63 | 227 | 27.8 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/mo/> | 
- | [switchboard]({{< ref "/f36/package/switchboard.md" >}}) | 40 | 148 | 27.0 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard/mo/> | 
- | [wingpanel-indicator-network]({{< ref "/f36/package/wingpanel-indicator-network.md" >}}) | 40 | 150 | 26.7 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/mo/> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f36/package/wingpanel-indicator-nightlight.md" >}}) | 12 | 45 | 26.7 | Moldovan <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/mo/> | 
- | [pantheon-agent-polkit]({{< ref "/f36/package/pantheon-agent-polkit.md" >}}) | 14 | 56 | 25.0 | Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/mo/> | 
- | [elementary-videos]({{< ref "/f36/package/elementary-videos.md" >}}) | 93 | 391 | 23.8 | Moldovan <https://weblate.elementary.io/projects/videos/videos/mo/> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f36/package/switchboard-plug-mouse-touchpad.md" >}}) | 57 | 282 | 20.2 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/mo/> | 
- | [elementary-calculator]({{< ref "/f36/package/elementary-calculator.md" >}}) | 45 | 235 | 19.1 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
- | [switchboard-plug-about]({{< ref "/f36/package/switchboard-plug-about.md" >}}) | 70 | 383 | 18.3 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/mo/> | 
- | [elementary-code]({{< ref "/f36/package/elementary-code.md" >}}) | 292 | 1608 | 18.2 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
- | [elementary-terminal]({{< ref "/f36/package/elementary-terminal.md" >}}) | 121 | 696 | 17.4 | Moldovan <https://weblate.elementary.io/projects/terminal/terminal/ro_MD/> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f36/package/wingpanel-indicator-bluetooth.md" >}}) | 11 | 78 | 14.1 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/> | 
- | [elementary-camera]({{< ref "/f36/package/elementary-camera.md" >}}) | 25 | 205 | 12.2 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
- | [elementary-photos]({{< ref "/f36/package/elementary-photos.md" >}}) | 369 | 4011 | 9.2 | Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/> | 
- | [wingpanel-indicator-notifications]({{< ref "/f36/package/wingpanel-indicator-notifications.md" >}}) | 10 | 134 | 7.5 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/mo/> | 
- | [wingpanel-indicator-sound]({{< ref "/f36/package/wingpanel-indicator-sound.md" >}}) | 4 | 96 | 4.2 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/mo/> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f36/package/wingpanel-indicator-keyboard.md" >}}) | 2 | 53 | 3.8 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/> | 
- | [iso-codes]({{< ref "/f36/package/iso-codes.md" >}}) | 31 | 986 | 3.1 | Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/> | 
- | [cinnamon-translations]({{< ref "/f36/package/cinnamon-translations.md" >}}) | 197 | 6502 | 3.0 | Moldavian <mo@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f36/package/wingpanel-applications-menu.md" >}}) | 7 | 415 | 1.7 | Moldovan <https://l10n.elementary.io/projects/wingpanel/applications-menu/mo/> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f36/package/switchboard-plug-onlineaccounts.md" >}}) | 1 | 322 | 0.3 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/mo/> | 
- | [bookworm]({{< ref "/f36/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f36/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f36/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [elementary-greeter]({{< ref "/f36/package/elementary-greeter.md" >}}) | 0 | 219 | 0.0 |  | 
- | [elementary-icon-theme]({{< ref "/f36/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f36/package/elementary-mail.md" >}}) | 0 | 658 | 0.0 |  | 
- | [elementary-notifications]({{< ref "/f36/package/elementary-notifications.md" >}}) | 0 | 50 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f36/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f36/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f36/package/elementary-sideload.md" >}}) | 0 | 319 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f36/package/elementary-tasks.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f36/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [gala]({{< ref "/f36/package/gala.md" >}}) | 0 | 358 | 0.0 | none | 
- | [granite]({{< ref "/f36/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f36/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f36/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f36/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [wingpanel]({{< ref "/f36/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f36/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-power]({{< ref "/f36/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | none | 
+ | [switchboard-plug-notifications](/f36/package/switchboard-plug-notifications) | 131 | 142 | 92.3 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/mo/> | 
+ | [switchboard-plug-sharing](/f36/package/switchboard-plug-sharing) | 130 | 141 | 92.2 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/mo/> | 
+ | [switchboard-plug-printers](/f36/package/switchboard-plug-printers) | 314 | 406 | 77.3 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/mo/> | 
+ | [elementary-music](/f36/package/elementary-music) | 876 | 1205 | 72.7 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
+ | [switchboard-plug-networking](/f36/package/switchboard-plug-networking) | 309 | 532 | 58.1 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/mo/> | 
+ | [switchboard-plug-keyboard](/f36/package/switchboard-plug-keyboard) | 368 | 636 | 57.9 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/mo/> | 
+ | [elementary-shortcut-overlay](/f36/package/elementary-shortcut-overlay) | 70 | 130 | 53.8 | Moldovan <https://weblate.elementary.io/projects/desktop/shortcut-overlay/mo/> | 
+ | [switchboard-plug-a11y](/f36/package/switchboard-plug-a11y) | 90 | 180 | 50.0 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/mo/> | 
+ | [elementary-screenshot-tool](/f36/package/elementary-screenshot-tool) | 122 | 248 | 49.2 | Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/> | 
+ | [wingpanel-indicator-session](/f36/package/wingpanel-indicator-session) | 53 | 108 | 49.1 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/mo/> | 
+ | [switchboard-plug-display](/f36/package/switchboard-plug-display) | 85 | 182 | 46.7 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/mo/> | 
+ | [pantheon-agent-geoclue2](/f36/package/pantheon-agent-geoclue2) | 43 | 101 | 42.6 | Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/mo/> | 
+ | [elementary-capnet-assist](/f36/package/elementary-capnet-assist) | 32 | 90 | 35.6 | Moldovan <https://weblate.elementary.io/projects/desktop/capnet-assist/mo/> | 
+ | [switchboard-plug-pantheon-shell](/f36/package/switchboard-plug-pantheon-shell) | 121 | 349 | 34.7 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/mo/> | 
+ | [elementary-calendar](/f36/package/elementary-calendar) | 307 | 888 | 34.6 | Moldovan <https://weblate.elementary.io/projects/calendar/calendar/mo/> | 
+ | [switchboard-plug-bluetooth](/f36/package/switchboard-plug-bluetooth) | 70 | 206 | 34.0 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/mo/> | 
+ | [elementary-files](/f36/package/elementary-files) | 1174 | 3669 | 32.0 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
+ | [switchboard-plug-sound](/f36/package/switchboard-plug-sound) | 56 | 193 | 29.0 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/mo/> | 
+ | [switchboard-plug-applications](/f36/package/switchboard-plug-applications) | 63 | 227 | 27.8 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/mo/> | 
+ | [switchboard](/f36/package/switchboard) | 40 | 148 | 27.0 | Moldovan <https://weblate.elementary.io/projects/switchboard/switchboard/mo/> | 
+ | [wingpanel-indicator-network](/f36/package/wingpanel-indicator-network) | 40 | 150 | 26.7 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/mo/> | 
+ | [wingpanel-indicator-nightlight](/f36/package/wingpanel-indicator-nightlight) | 12 | 45 | 26.7 | Moldovan <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/mo/> | 
+ | [pantheon-agent-polkit](/f36/package/pantheon-agent-polkit) | 14 | 56 | 25.0 | Moldovan <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/mo/> | 
+ | [elementary-videos](/f36/package/elementary-videos) | 93 | 391 | 23.8 | Moldovan <https://weblate.elementary.io/projects/videos/videos/mo/> | 
+ | [switchboard-plug-mouse-touchpad](/f36/package/switchboard-plug-mouse-touchpad) | 57 | 282 | 20.2 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/mo/> | 
+ | [elementary-calculator](/f36/package/elementary-calculator) | 45 | 235 | 19.1 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
+ | [switchboard-plug-about](/f36/package/switchboard-plug-about) | 70 | 383 | 18.3 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/mo/> | 
+ | [elementary-code](/f36/package/elementary-code) | 292 | 1608 | 18.2 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
+ | [elementary-terminal](/f36/package/elementary-terminal) | 121 | 696 | 17.4 | Moldovan <https://weblate.elementary.io/projects/terminal/terminal/ro_MD/> | 
+ | [wingpanel-indicator-bluetooth](/f36/package/wingpanel-indicator-bluetooth) | 11 | 78 | 14.1 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/> | 
+ | [elementary-camera](/f36/package/elementary-camera) | 25 | 205 | 12.2 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
+ | [elementary-photos](/f36/package/elementary-photos) | 369 | 4011 | 9.2 | Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/> | 
+ | [wingpanel-indicator-notifications](/f36/package/wingpanel-indicator-notifications) | 10 | 134 | 7.5 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/mo/> | 
+ | [wingpanel-indicator-sound](/f36/package/wingpanel-indicator-sound) | 4 | 96 | 4.2 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-sound/mo/> | 
+ | [wingpanel-indicator-keyboard](/f36/package/wingpanel-indicator-keyboard) | 2 | 53 | 3.8 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/> | 
+ | [iso-codes](/f36/package/iso-codes) | 31 | 986 | 3.1 | Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/> | 
+ | [cinnamon-translations](/f36/package/cinnamon-translations) | 197 | 6502 | 3.0 | Moldavian <mo@li.org> | 
+ | [wingpanel-applications-menu](/f36/package/wingpanel-applications-menu) | 7 | 415 | 1.7 | Moldovan <https://l10n.elementary.io/projects/wingpanel/applications-menu/mo/> | 
+ | [switchboard-plug-onlineaccounts](/f36/package/switchboard-plug-onlineaccounts) | 1 | 322 | 0.3 | Moldovan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/mo/> | 
+ | [bookworm](/f36/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f36/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f36/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [elementary-greeter](/f36/package/elementary-greeter) | 0 | 219 | 0.0 |  | 
+ | [elementary-icon-theme](/f36/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-mail](/f36/package/elementary-mail) | 0 | 658 | 0.0 |  | 
+ | [elementary-notifications](/f36/package/elementary-notifications) | 0 | 50 | 0.0 | none | 
+ | [elementary-onboarding](/f36/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-settings-daemon](/f36/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-sideload](/f36/package/elementary-sideload) | 0 | 319 | 0.0 | none | 
+ | [elementary-tasks](/f36/package/elementary-tasks) | 0 | 394 | 0.0 | none | 
+ | [elementary-theme](/f36/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [gala](/f36/package/gala) | 0 | 358 | 0.0 | none | 
+ | [granite](/f36/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f36/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f36/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f36/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [wingpanel](/f36/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f36/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-power](/f36/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | none | 
 {.sortable}
 
 

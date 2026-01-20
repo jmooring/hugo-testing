@@ -18,11 +18,11 @@ The package mpop (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1898 | 1919 | 98.9 | /mnt/stockage/packages/f30/mpop/po/de.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1898 | 1919 | 98.9 | /mnt/stockage/packages/f30/mpop/po/pt_BR.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 1898 | 1919 | 98.9 | /mnt/stockage/packages/f30/mpop/po/uk.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1331 | 1919 | 69.4 | /mnt/stockage/packages/f30/mpop/po/es.po | 
- | [ta]({{< ref "/f30/language/ta.md" >}}) | 440 | 1919 | 22.9 | /mnt/stockage/packages/f30/mpop/po/ta.po | 
+ | [de](/f30/language/de) | 1898 | 1919 | 98.9 | /mnt/stockage/packages/f30/mpop/po/de.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1898 | 1919 | 98.9 | /mnt/stockage/packages/f30/mpop/po/pt_BR.po | 
+ | [uk](/f30/language/uk) | 1898 | 1919 | 98.9 | /mnt/stockage/packages/f30/mpop/po/uk.po | 
+ | [es](/f30/language/es) | 1331 | 1919 | 69.4 | /mnt/stockage/packages/f30/mpop/po/es.po | 
+ | [ta](/f30/language/ta) | 440 | 1919 | 22.9 | /mnt/stockage/packages/f30/mpop/po/ta.po | 
 {.sortable}
 
 

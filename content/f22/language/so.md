@@ -43,12 +43,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 2628 | 4951 | 53.1 | Somali <so@li.org> | 
- | [gcompris]({{< ref "/f22/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f22/package/iso-codes.md" >}}) | 125 | 1110 | 11.3 | Somali | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 352 | 4946 | 7.1 | Somali <so@li.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Somali (http://www.transifex.com/projects/p/MATE/language/so/) | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 2628 | 4951 | 53.1 | Somali <so@li.org> | 
+ | [gcompris](/f22/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f22/package/iso-codes) | 125 | 1110 | 11.3 | Somali | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 352 | 4946 | 7.1 | Somali <so@li.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Somali (http://www.transifex.com/projects/p/MATE/language/so/) | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

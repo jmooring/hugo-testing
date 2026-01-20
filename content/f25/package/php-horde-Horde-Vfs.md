@@ -18,48 +18,48 @@ The package php-horde-Horde-Vfs (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ca/LC_MESSAGES/Horde_Vfs.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/cs/LC_MESSAGES/Horde_Vfs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/da/LC_MESSAGES/Horde_Vfs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/de/LC_MESSAGES/Horde_Vfs.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/es/LC_MESSAGES/Horde_Vfs.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/et/LC_MESSAGES/Horde_Vfs.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/eu/LC_MESSAGES/Horde_Vfs.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/fi/LC_MESSAGES/Horde_Vfs.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/fr/LC_MESSAGES/Horde_Vfs.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/hr/LC_MESSAGES/Horde_Vfs.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/hu/LC_MESSAGES/Horde_Vfs.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/it/LC_MESSAGES/Horde_Vfs.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ja/LC_MESSAGES/Horde_Vfs.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/lt/LC_MESSAGES/Horde_Vfs.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/lv/LC_MESSAGES/Horde_Vfs.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/nl/LC_MESSAGES/Horde_Vfs.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/pt/LC_MESSAGES/Horde_Vfs.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/pt_BR/LC_MESSAGES/Horde_Vfs.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/sk/LC_MESSAGES/Horde_Vfs.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/sl/LC_MESSAGES/Horde_Vfs.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/tr/LC_MESSAGES/Horde_Vfs.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/uk/LC_MESSAGES/Horde_Vfs.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/zh_CN/LC_MESSAGES/Horde_Vfs.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/zh_TW/LC_MESSAGES/Horde_Vfs.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/el/LC_MESSAGES/Horde_Vfs.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 5 | 10 | 50.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/fa/LC_MESSAGES/Horde_Vfs.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 5 | 10 | 50.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/sv/LC_MESSAGES/Horde_Vfs.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ar/LC_MESSAGES/Horde_Vfs.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/bg/LC_MESSAGES/Horde_Vfs.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/bs/LC_MESSAGES/Horde_Vfs.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/gl/LC_MESSAGES/Horde_Vfs.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/he/LC_MESSAGES/Horde_Vfs.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/id/LC_MESSAGES/Horde_Vfs.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/is/LC_MESSAGES/Horde_Vfs.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/km/LC_MESSAGES/Horde_Vfs.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ko/LC_MESSAGES/Horde_Vfs.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/mk/LC_MESSAGES/Horde_Vfs.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/nb/LC_MESSAGES/Horde_Vfs.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/nn/LC_MESSAGES/Horde_Vfs.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/pl/LC_MESSAGES/Horde_Vfs.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ro/LC_MESSAGES/Horde_Vfs.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ru/LC_MESSAGES/Horde_Vfs.po | 
+ | [ca](/f25/language/ca) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ca/LC_MESSAGES/Horde_Vfs.po | 
+ | [cs](/f25/language/cs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/cs/LC_MESSAGES/Horde_Vfs.po | 
+ | [da](/f25/language/da) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/da/LC_MESSAGES/Horde_Vfs.po | 
+ | [de](/f25/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/de/LC_MESSAGES/Horde_Vfs.po | 
+ | [es](/f25/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/es/LC_MESSAGES/Horde_Vfs.po | 
+ | [et](/f25/language/et) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/et/LC_MESSAGES/Horde_Vfs.po | 
+ | [eu](/f25/language/eu) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/eu/LC_MESSAGES/Horde_Vfs.po | 
+ | [fi](/f25/language/fi) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/fi/LC_MESSAGES/Horde_Vfs.po | 
+ | [fr](/f25/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/fr/LC_MESSAGES/Horde_Vfs.po | 
+ | [hr](/f25/language/hr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/hr/LC_MESSAGES/Horde_Vfs.po | 
+ | [hu](/f25/language/hu) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/hu/LC_MESSAGES/Horde_Vfs.po | 
+ | [it](/f25/language/it) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/it/LC_MESSAGES/Horde_Vfs.po | 
+ | [ja](/f25/language/ja) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ja/LC_MESSAGES/Horde_Vfs.po | 
+ | [lt](/f25/language/lt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/lt/LC_MESSAGES/Horde_Vfs.po | 
+ | [lv](/f25/language/lv) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/lv/LC_MESSAGES/Horde_Vfs.po | 
+ | [nl](/f25/language/nl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/nl/LC_MESSAGES/Horde_Vfs.po | 
+ | [pt](/f25/language/pt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/pt/LC_MESSAGES/Horde_Vfs.po | 
+ | [pt_BR](/f25/language/pt_BR) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/pt_BR/LC_MESSAGES/Horde_Vfs.po | 
+ | [sk](/f25/language/sk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/sk/LC_MESSAGES/Horde_Vfs.po | 
+ | [sl](/f25/language/sl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/sl/LC_MESSAGES/Horde_Vfs.po | 
+ | [tr](/f25/language/tr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/tr/LC_MESSAGES/Horde_Vfs.po | 
+ | [uk](/f25/language/uk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/uk/LC_MESSAGES/Horde_Vfs.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/zh_CN/LC_MESSAGES/Horde_Vfs.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 10 | 10 | 100.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/zh_TW/LC_MESSAGES/Horde_Vfs.po | 
+ | [el](/f25/language/el) | 7 | 10 | 70.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/el/LC_MESSAGES/Horde_Vfs.po | 
+ | [fa](/f25/language/fa) | 5 | 10 | 50.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/fa/LC_MESSAGES/Horde_Vfs.po | 
+ | [sv](/f25/language/sv) | 5 | 10 | 50.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/sv/LC_MESSAGES/Horde_Vfs.po | 
+ | [ar](/f25/language/ar) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ar/LC_MESSAGES/Horde_Vfs.po | 
+ | [bg](/f25/language/bg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/bg/LC_MESSAGES/Horde_Vfs.po | 
+ | [bs](/f25/language/bs) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/bs/LC_MESSAGES/Horde_Vfs.po | 
+ | [gl](/f25/language/gl) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/gl/LC_MESSAGES/Horde_Vfs.po | 
+ | [he](/f25/language/he) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/he/LC_MESSAGES/Horde_Vfs.po | 
+ | [id](/f25/language/id) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/id/LC_MESSAGES/Horde_Vfs.po | 
+ | [is](/f25/language/is) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/is/LC_MESSAGES/Horde_Vfs.po | 
+ | [km](/f25/language/km) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/km/LC_MESSAGES/Horde_Vfs.po | 
+ | [ko](/f25/language/ko) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ko/LC_MESSAGES/Horde_Vfs.po | 
+ | [mk](/f25/language/mk) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/mk/LC_MESSAGES/Horde_Vfs.po | 
+ | [nb_NO](/f25/language/nb_NO) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/nb/LC_MESSAGES/Horde_Vfs.po | 
+ | [nn](/f25/language/nn) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/nn/LC_MESSAGES/Horde_Vfs.po | 
+ | [pl](/f25/language/pl) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/pl/LC_MESSAGES/Horde_Vfs.po | 
+ | [ro](/f25/language/ro) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ro/LC_MESSAGES/Horde_Vfs.po | 
+ | [ru](/f25/language/ru) | 0 | 10 | 0.0 | /mnt/stockage/packages/f25/php-horde-Horde-Vfs/Horde_Vfs-2.4.0/locale/ru/LC_MESSAGES/Horde_Vfs.po | 
 {.sortable}
 
 

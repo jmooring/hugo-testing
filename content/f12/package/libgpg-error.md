@@ -18,12 +18,12 @@ The package libgpg-error (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f12/libgpg-error/po/de.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 734 | 740 | 99.2 | /mnt/stockage/packages/f12/libgpg-error/po/pl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 734 | 740 | 99.2 | /mnt/stockage/packages/f12/libgpg-error/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 734 | 740 | 99.2 | /mnt/stockage/packages/f12/libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 614 | 740 | 83.0 | /mnt/stockage/packages/f12/libgpg-error/po/ro.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 612 | 740 | 82.7 | /mnt/stockage/packages/f12/libgpg-error/po/fr.po | 
+ | [de](/f12/language/de) | 740 | 740 | 100.0 | /mnt/stockage/packages/f12/libgpg-error/po/de.po | 
+ | [pl](/f12/language/pl) | 734 | 740 | 99.2 | /mnt/stockage/packages/f12/libgpg-error/po/pl.po | 
+ | [sv](/f12/language/sv) | 734 | 740 | 99.2 | /mnt/stockage/packages/f12/libgpg-error/po/sv.po | 
+ | [vi](/f12/language/vi) | 734 | 740 | 99.2 | /mnt/stockage/packages/f12/libgpg-error/po/vi.po | 
+ | [ro](/f12/language/ro) | 614 | 740 | 83.0 | /mnt/stockage/packages/f12/libgpg-error/po/ro.po | 
+ | [fr](/f12/language/fr) | 612 | 740 | 82.7 | /mnt/stockage/packages/f12/libgpg-error/po/fr.po | 
 {.sortable}
 
 

@@ -18,46 +18,46 @@ The package kphotoalbum (version 4.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/ca/kphotoalbum.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/da/kphotoalbum.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/en_GB/kphotoalbum.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/et/kphotoalbum.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/gl/kphotoalbum.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/it/kphotoalbum.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/nl/kphotoalbum.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/pl/kphotoalbum.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/pt/kphotoalbum.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/pt_BR/kphotoalbum.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/sv/kphotoalbum.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/uk/kphotoalbum.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 6175 | 6333 | 97.5 | /mnt/stockage/packages/f15/kphotoalbum/po/zh_TW/kphotoalbum.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 6002 | 6333 | 94.8 | /mnt/stockage/packages/f15/kphotoalbum/po/de/kphotoalbum.po | 
- | [nds]({{< ref "/f15/language/nds.md" >}}) | 5755 | 6333 | 90.9 | /mnt/stockage/packages/f15/kphotoalbum/po/nds/kphotoalbum.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 5692 | 6333 | 89.9 | /mnt/stockage/packages/f15/kphotoalbum/po/es/kphotoalbum.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 5342 | 6333 | 84.4 | /mnt/stockage/packages/f15/kphotoalbum/po/nb/kphotoalbum.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 5334 | 6333 | 84.2 | /mnt/stockage/packages/f15/kphotoalbum/po/el/kphotoalbum.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 4925 | 6333 | 77.8 | /mnt/stockage/packages/f15/kphotoalbum/po/tr/kphotoalbum.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 4418 | 6333 | 69.8 | /mnt/stockage/packages/f15/kphotoalbum/po/ja/kphotoalbum.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 4288 | 6333 | 67.7 | /mnt/stockage/packages/f15/kphotoalbum/po/fr/kphotoalbum.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 4141 | 6333 | 65.4 | /mnt/stockage/packages/f15/kphotoalbum/po/vi/kphotoalbum.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 2148 | 6333 | 33.9 | /mnt/stockage/packages/f15/kphotoalbum/po/zh_CN/kphotoalbum.po | 
- | [hne]({{< ref "/f15/language/hne.md" >}}) | 1798 | 6333 | 28.4 | /mnt/stockage/packages/f15/kphotoalbum/po/hne/kphotoalbum.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 1690 | 6333 | 26.7 | /mnt/stockage/packages/f15/kphotoalbum/po/hi/kphotoalbum.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 1496 | 6333 | 23.6 | /mnt/stockage/packages/f15/kphotoalbum/po/ar/kphotoalbum.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 1224 | 6333 | 19.3 | /mnt/stockage/packages/f15/kphotoalbum/po/ga/kphotoalbum.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 907 | 6333 | 14.3 | /mnt/stockage/packages/f15/kphotoalbum/po/cs/kphotoalbum.po | 
- | [km]({{< ref "/f15/language/km.md" >}}) | 603 | 6333 | 9.5 | /mnt/stockage/packages/f15/kphotoalbum/po/km/kphotoalbum.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 556 | 6333 | 8.8 | /mnt/stockage/packages/f15/kphotoalbum/po/pa/kphotoalbum.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 543 | 6333 | 8.6 | /mnt/stockage/packages/f15/kphotoalbum/po/bg/kphotoalbum.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 367 | 6333 | 5.8 | /mnt/stockage/packages/f15/kphotoalbum/po/ro/kphotoalbum.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 298 | 6333 | 4.7 | /mnt/stockage/packages/f15/kphotoalbum/po/lt/kphotoalbum.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 212 | 6333 | 3.3 | /mnt/stockage/packages/f15/kphotoalbum/po/be/kphotoalbum.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 181 | 6333 | 2.9 | /mnt/stockage/packages/f15/kphotoalbum/po/fi/kphotoalbum.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 171 | 6333 | 2.7 | /mnt/stockage/packages/f15/kphotoalbum/po/eo/kphotoalbum.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 56 | 6333 | 0.9 | /mnt/stockage/packages/f15/kphotoalbum/po/is/kphotoalbum.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 0 | 6333 | 0.0 | /mnt/stockage/packages/f15/kphotoalbum/po/nn/kphotoalbum.po | 
- | [se]({{< ref "/f15/language/se.md" >}}) | 0 | 6210 | 0.0 | /mnt/stockage/packages/f15/kphotoalbum/po/se/kphotoalbum.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 0 | 6333 | 0.0 | /mnt/stockage/packages/f15/kphotoalbum/po/sk/kphotoalbum.po | 
+ | [ca](/f15/language/ca) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/ca/kphotoalbum.po | 
+ | [da](/f15/language/da) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/da/kphotoalbum.po | 
+ | [en_GB](/f15/language/en_GB) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/en_GB/kphotoalbum.po | 
+ | [et](/f15/language/et) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/et/kphotoalbum.po | 
+ | [gl](/f15/language/gl) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/gl/kphotoalbum.po | 
+ | [it](/f15/language/it) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/it/kphotoalbum.po | 
+ | [nl](/f15/language/nl) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/nl/kphotoalbum.po | 
+ | [pl](/f15/language/pl) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/pl/kphotoalbum.po | 
+ | [pt](/f15/language/pt) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/pt/kphotoalbum.po | 
+ | [pt_BR](/f15/language/pt_BR) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/pt_BR/kphotoalbum.po | 
+ | [sv](/f15/language/sv) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/sv/kphotoalbum.po | 
+ | [uk](/f15/language/uk) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f15/kphotoalbum/po/uk/kphotoalbum.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 6175 | 6333 | 97.5 | /mnt/stockage/packages/f15/kphotoalbum/po/zh_TW/kphotoalbum.po | 
+ | [de](/f15/language/de) | 6002 | 6333 | 94.8 | /mnt/stockage/packages/f15/kphotoalbum/po/de/kphotoalbum.po | 
+ | [nds](/f15/language/nds) | 5755 | 6333 | 90.9 | /mnt/stockage/packages/f15/kphotoalbum/po/nds/kphotoalbum.po | 
+ | [es](/f15/language/es) | 5692 | 6333 | 89.9 | /mnt/stockage/packages/f15/kphotoalbum/po/es/kphotoalbum.po | 
+ | [nb_NO](/f15/language/nb_NO) | 5342 | 6333 | 84.4 | /mnt/stockage/packages/f15/kphotoalbum/po/nb/kphotoalbum.po | 
+ | [el](/f15/language/el) | 5334 | 6333 | 84.2 | /mnt/stockage/packages/f15/kphotoalbum/po/el/kphotoalbum.po | 
+ | [tr](/f15/language/tr) | 4925 | 6333 | 77.8 | /mnt/stockage/packages/f15/kphotoalbum/po/tr/kphotoalbum.po | 
+ | [ja](/f15/language/ja) | 4418 | 6333 | 69.8 | /mnt/stockage/packages/f15/kphotoalbum/po/ja/kphotoalbum.po | 
+ | [fr](/f15/language/fr) | 4288 | 6333 | 67.7 | /mnt/stockage/packages/f15/kphotoalbum/po/fr/kphotoalbum.po | 
+ | [vi](/f15/language/vi) | 4141 | 6333 | 65.4 | /mnt/stockage/packages/f15/kphotoalbum/po/vi/kphotoalbum.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 2148 | 6333 | 33.9 | /mnt/stockage/packages/f15/kphotoalbum/po/zh_CN/kphotoalbum.po | 
+ | [hne](/f15/language/hne) | 1798 | 6333 | 28.4 | /mnt/stockage/packages/f15/kphotoalbum/po/hne/kphotoalbum.po | 
+ | [hi](/f15/language/hi) | 1690 | 6333 | 26.7 | /mnt/stockage/packages/f15/kphotoalbum/po/hi/kphotoalbum.po | 
+ | [ar](/f15/language/ar) | 1496 | 6333 | 23.6 | /mnt/stockage/packages/f15/kphotoalbum/po/ar/kphotoalbum.po | 
+ | [ga](/f15/language/ga) | 1224 | 6333 | 19.3 | /mnt/stockage/packages/f15/kphotoalbum/po/ga/kphotoalbum.po | 
+ | [cs](/f15/language/cs) | 907 | 6333 | 14.3 | /mnt/stockage/packages/f15/kphotoalbum/po/cs/kphotoalbum.po | 
+ | [km](/f15/language/km) | 603 | 6333 | 9.5 | /mnt/stockage/packages/f15/kphotoalbum/po/km/kphotoalbum.po | 
+ | [pa](/f15/language/pa) | 556 | 6333 | 8.8 | /mnt/stockage/packages/f15/kphotoalbum/po/pa/kphotoalbum.po | 
+ | [bg](/f15/language/bg) | 543 | 6333 | 8.6 | /mnt/stockage/packages/f15/kphotoalbum/po/bg/kphotoalbum.po | 
+ | [ro](/f15/language/ro) | 367 | 6333 | 5.8 | /mnt/stockage/packages/f15/kphotoalbum/po/ro/kphotoalbum.po | 
+ | [lt](/f15/language/lt) | 298 | 6333 | 4.7 | /mnt/stockage/packages/f15/kphotoalbum/po/lt/kphotoalbum.po | 
+ | [be](/f15/language/be) | 212 | 6333 | 3.3 | /mnt/stockage/packages/f15/kphotoalbum/po/be/kphotoalbum.po | 
+ | [fi](/f15/language/fi) | 181 | 6333 | 2.9 | /mnt/stockage/packages/f15/kphotoalbum/po/fi/kphotoalbum.po | 
+ | [eo](/f15/language/eo) | 171 | 6333 | 2.7 | /mnt/stockage/packages/f15/kphotoalbum/po/eo/kphotoalbum.po | 
+ | [is](/f15/language/is) | 56 | 6333 | 0.9 | /mnt/stockage/packages/f15/kphotoalbum/po/is/kphotoalbum.po | 
+ | [nn](/f15/language/nn) | 0 | 6333 | 0.0 | /mnt/stockage/packages/f15/kphotoalbum/po/nn/kphotoalbum.po | 
+ | [se](/f15/language/se) | 0 | 6210 | 0.0 | /mnt/stockage/packages/f15/kphotoalbum/po/se/kphotoalbum.po | 
+ | [sk](/f15/language/sk) | 0 | 6333 | 0.0 | /mnt/stockage/packages/f15/kphotoalbum/po/sk/kphotoalbum.po | 
 {.sortable}
 
 

@@ -18,75 +18,75 @@ The package libkomparediff2 (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/bg/libkomparediff2.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ca/libkomparediff2.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ca@valencia/libkomparediff2.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/da/libkomparediff2.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/de/libkomparediff2.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/el/libkomparediff2.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/en_GB/libkomparediff2.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/eo/libkomparediff2.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/es/libkomparediff2.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/et/libkomparediff2.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/eu/libkomparediff2.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/fi/libkomparediff2.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/fr/libkomparediff2.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/gl/libkomparediff2.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/hi/libkomparediff2.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/is/libkomparediff2.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/it/libkomparediff2.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ka/libkomparediff2.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ko/libkomparediff2.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/nl/libkomparediff2.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/nn/libkomparediff2.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/pl/libkomparediff2.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/pt/libkomparediff2.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/pt_BR/libkomparediff2.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ru/libkomparediff2.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sk/libkomparediff2.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sl/libkomparediff2.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sv/libkomparediff2.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/tr/libkomparediff2.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/uk/libkomparediff2.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/zh_CN/libkomparediff2.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/zh_TW/libkomparediff2.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/bs/libkomparediff2.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/hu/libkomparediff2.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/kk/libkomparediff2.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/nb/libkomparediff2.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/nds/libkomparediff2.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr/libkomparediff2.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr@ijekavian/libkomparediff2.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr@ijekavianlatin/libkomparediff2.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr@latin/libkomparediff2.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 124 | 143 | 86.7 | /mnt/stockage/packages/f39/libkomparediff2/po/cs/libkomparediff2.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/fa/libkomparediff2.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/ja/libkomparediff2.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/lv/libkomparediff2.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/ne/libkomparediff2.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 80 | 143 | 55.9 | /mnt/stockage/packages/f39/libkomparediff2/po/mk/libkomparediff2.po | 
- | [hne]({{< ref "/f39/language/hne.md" >}}) | 68 | 143 | 47.6 | /mnt/stockage/packages/f39/libkomparediff2/po/hne/libkomparediff2.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 38 | 143 | 26.6 | /mnt/stockage/packages/f39/libkomparediff2/po/ar/libkomparediff2.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 32 | 143 | 22.4 | /mnt/stockage/packages/f39/libkomparediff2/po/ug/libkomparediff2.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 27 | 143 | 18.9 | /mnt/stockage/packages/f39/libkomparediff2/po/br/libkomparediff2.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/ga/libkomparediff2.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/lt/libkomparediff2.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/pa/libkomparediff2.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/ta/libkomparediff2.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/tg/libkomparediff2.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 9 | 143 | 6.3 | /mnt/stockage/packages/f39/libkomparediff2/po/af/libkomparediff2.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 9 | 143 | 6.3 | /mnt/stockage/packages/f39/libkomparediff2/po/ms/libkomparediff2.po | 
- | [xh]({{< ref "/f39/language/xh.md" >}}) | 9 | 143 | 6.3 | /mnt/stockage/packages/f39/libkomparediff2/po/xh/libkomparediff2.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/be/libkomparediff2.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/cy/libkomparediff2.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/hr/libkomparediff2.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/km/libkomparediff2.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/mai/libkomparediff2.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/mr/libkomparediff2.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/oc/libkomparediff2.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ro/libkomparediff2.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/se/libkomparediff2.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sq/libkomparediff2.po | 
+ | [bg](/f39/language/bg) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/bg/libkomparediff2.po | 
+ | [ca](/f39/language/ca) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ca/libkomparediff2.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ca@valencia/libkomparediff2.po | 
+ | [da](/f39/language/da) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/da/libkomparediff2.po | 
+ | [de](/f39/language/de) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/de/libkomparediff2.po | 
+ | [el](/f39/language/el) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/el/libkomparediff2.po | 
+ | [en_GB](/f39/language/en_GB) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/en_GB/libkomparediff2.po | 
+ | [eo](/f39/language/eo) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/eo/libkomparediff2.po | 
+ | [es](/f39/language/es) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/es/libkomparediff2.po | 
+ | [et](/f39/language/et) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/et/libkomparediff2.po | 
+ | [eu](/f39/language/eu) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/eu/libkomparediff2.po | 
+ | [fi](/f39/language/fi) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/fi/libkomparediff2.po | 
+ | [fr](/f39/language/fr) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/fr/libkomparediff2.po | 
+ | [gl](/f39/language/gl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/gl/libkomparediff2.po | 
+ | [hi](/f39/language/hi) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/hi/libkomparediff2.po | 
+ | [is](/f39/language/is) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/is/libkomparediff2.po | 
+ | [it](/f39/language/it) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/it/libkomparediff2.po | 
+ | [ka](/f39/language/ka) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ka/libkomparediff2.po | 
+ | [ko](/f39/language/ko) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ko/libkomparediff2.po | 
+ | [nl](/f39/language/nl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/nl/libkomparediff2.po | 
+ | [nn](/f39/language/nn) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/nn/libkomparediff2.po | 
+ | [pl](/f39/language/pl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/pl/libkomparediff2.po | 
+ | [pt](/f39/language/pt) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/pt/libkomparediff2.po | 
+ | [pt_BR](/f39/language/pt_BR) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/pt_BR/libkomparediff2.po | 
+ | [ru](/f39/language/ru) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ru/libkomparediff2.po | 
+ | [sk](/f39/language/sk) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sk/libkomparediff2.po | 
+ | [sl](/f39/language/sl) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sl/libkomparediff2.po | 
+ | [sv](/f39/language/sv) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sv/libkomparediff2.po | 
+ | [tr](/f39/language/tr) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/tr/libkomparediff2.po | 
+ | [uk](/f39/language/uk) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/uk/libkomparediff2.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/zh_CN/libkomparediff2.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 143 | 143 | 100.0 | /mnt/stockage/packages/f39/libkomparediff2/po/zh_TW/libkomparediff2.po | 
+ | [bs](/f39/language/bs) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/bs/libkomparediff2.po | 
+ | [hu](/f39/language/hu) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/hu/libkomparediff2.po | 
+ | [kk](/f39/language/kk) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/kk/libkomparediff2.po | 
+ | [nb_NO](/f39/language/nb_NO) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/nb/libkomparediff2.po | 
+ | [nds](/f39/language/nds) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/nds/libkomparediff2.po | 
+ | [sr](/f39/language/sr) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr/libkomparediff2.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr@ijekavian/libkomparediff2.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr@ijekavianlatin/libkomparediff2.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 127 | 143 | 88.8 | /mnt/stockage/packages/f39/libkomparediff2/po/sr@latin/libkomparediff2.po | 
+ | [cs](/f39/language/cs) | 124 | 143 | 86.7 | /mnt/stockage/packages/f39/libkomparediff2/po/cs/libkomparediff2.po | 
+ | [fa](/f39/language/fa) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/fa/libkomparediff2.po | 
+ | [ja](/f39/language/ja) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/ja/libkomparediff2.po | 
+ | [lv](/f39/language/lv) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/lv/libkomparediff2.po | 
+ | [ne](/f39/language/ne) | 108 | 143 | 75.5 | /mnt/stockage/packages/f39/libkomparediff2/po/ne/libkomparediff2.po | 
+ | [mk](/f39/language/mk) | 80 | 143 | 55.9 | /mnt/stockage/packages/f39/libkomparediff2/po/mk/libkomparediff2.po | 
+ | [hne](/f39/language/hne) | 68 | 143 | 47.6 | /mnt/stockage/packages/f39/libkomparediff2/po/hne/libkomparediff2.po | 
+ | [ar](/f39/language/ar) | 38 | 143 | 26.6 | /mnt/stockage/packages/f39/libkomparediff2/po/ar/libkomparediff2.po | 
+ | [ug](/f39/language/ug) | 32 | 143 | 22.4 | /mnt/stockage/packages/f39/libkomparediff2/po/ug/libkomparediff2.po | 
+ | [br](/f39/language/br) | 27 | 143 | 18.9 | /mnt/stockage/packages/f39/libkomparediff2/po/br/libkomparediff2.po | 
+ | [ga](/f39/language/ga) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/ga/libkomparediff2.po | 
+ | [lt](/f39/language/lt) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/lt/libkomparediff2.po | 
+ | [pa](/f39/language/pa) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/pa/libkomparediff2.po | 
+ | [ta](/f39/language/ta) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/ta/libkomparediff2.po | 
+ | [tg](/f39/language/tg) | 22 | 143 | 15.4 | /mnt/stockage/packages/f39/libkomparediff2/po/tg/libkomparediff2.po | 
+ | [af](/f39/language/af) | 9 | 143 | 6.3 | /mnt/stockage/packages/f39/libkomparediff2/po/af/libkomparediff2.po | 
+ | [ms](/f39/language/ms) | 9 | 143 | 6.3 | /mnt/stockage/packages/f39/libkomparediff2/po/ms/libkomparediff2.po | 
+ | [xh](/f39/language/xh) | 9 | 143 | 6.3 | /mnt/stockage/packages/f39/libkomparediff2/po/xh/libkomparediff2.po | 
+ | [be](/f39/language/be) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/be/libkomparediff2.po | 
+ | [cy](/f39/language/cy) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/cy/libkomparediff2.po | 
+ | [hr](/f39/language/hr) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/hr/libkomparediff2.po | 
+ | [km](/f39/language/km) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/km/libkomparediff2.po | 
+ | [mai](/f39/language/mai) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/mai/libkomparediff2.po | 
+ | [mr](/f39/language/mr) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/mr/libkomparediff2.po | 
+ | [oc](/f39/language/oc) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/oc/libkomparediff2.po | 
+ | [ro](/f39/language/ro) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/ro/libkomparediff2.po | 
+ | [se](/f39/language/se) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/se/libkomparediff2.po | 
+ | [sq](/f39/language/sq) | 0 | 143 | 0.0 | /mnt/stockage/packages/f39/libkomparediff2/po/sq/libkomparediff2.po | 
 {.sortable}
 
 

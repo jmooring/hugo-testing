@@ -18,71 +18,71 @@ The package deepin-daemon (version 6.0.43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1236 | 1236 | 100.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/zh_CN.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ca.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fi.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hu.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pl.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/uk.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/az.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/it.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pt.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 1213 | 1235 | 98.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sq.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 1205 | 1236 | 97.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 1205 | 1236 | 97.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/zh_HK.po | 
- | [en_US]({{< ref "/f43/language/en_US.md" >}}) | 1201 | 1236 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/en_US.po | 
- | [bo]({{< ref "/f43/language/bo.md" >}}) | 1200 | 1235 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/bo.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1200 | 1235 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/cs.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 1200 | 1235 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ug.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1191 | 1235 | 96.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pt_BR.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1189 | 1235 | 96.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fr.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1189 | 1235 | 96.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/tr.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 1165 | 1235 | 94.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sl.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1129 | 1235 | 91.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ru.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 1120 | 1235 | 90.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ms.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 1120 | 1235 | 90.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sr.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 1077 | 1235 | 87.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ro.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 1071 | 1235 | 86.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sk.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1034 | 1235 | 83.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ko.po | 
- | [en_AU]({{< ref "/f43/language/en_AU.md" >}}) | 1033 | 1235 | 83.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/en_AU.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 1033 | 1235 | 83.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/vi.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 1027 | 1235 | 83.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/si.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 986 | 1235 | 79.8 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/da.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 983 | 1235 | 79.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ar.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 983 | 1235 | 79.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/lt.po | 
- | [es_419]({{< ref "/f43/language/es_419.md" >}}) | 836 | 1072 | 78.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es_419.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 953 | 1235 | 77.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fa.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 894 | 1235 | 72.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/bg.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 892 | 1235 | 72.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/bn.po | 
- | [mn]({{< ref "/f43/language/mn.md" >}}) | 759 | 1235 | 61.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/mn.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 745 | 1235 | 60.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hi_IN.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1194 | 2470 | 48.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/de_DE.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/de.po | 
- | [sw]({{< ref "/f43/language/sw.md" >}}) | 591 | 1235 | 47.9 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sw.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 1120 | 2470 | 45.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/el_GR.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/el.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1062 | 2470 | 43.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/gl_ES.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/gl.po | 
- | [es_AR]({{< ref "/f43/language/es_AR.md" >}}) | 622 | 1449 | 42.9 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es_AR.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 528 | 1235 | 42.8 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ast.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 489 | 1235 | 39.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 844 | 2470 | 34.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sv_SE.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/sv.po | 
- | [es_CL]({{< ref "/f43/language/es_CL.md" >}}) | 484 | 1449 | 33.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es_CL.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 758 | 2470 | 30.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/id_ID.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/id.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 360 | 1235 | 29.1 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ja.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 260 | 1222 | 21.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/nb.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 208 | 1222 | 17.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/he.po | 
- | [am]({{< ref "/f43/language/am.md" >}}) | 348 | 2470 | 14.1 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/am_ET.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/am.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 102 | 1222 | 8.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ta.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 153 | 2457 | 6.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/af_ZA.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/af.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 55 | 1222 | 4.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ne.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 43 | 1222 | 3.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 33 | 1222 | 2.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/eo.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 27 | 1222 | 2.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pa.po | 
- | [kmr]({{< ref "/f43/language/kmr.md" >}}) | 10 | 1222 | 0.8 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ku_IQ.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 7 | 1222 | 0.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ml.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 5 | 1222 | 0.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hy.po | 
- | [pam]({{< ref "/f43/language/pam.md" >}}) | 3 | 1222 | 0.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pam.po | 
- | [fil]({{< ref "/f43/language/fil.md" >}}) | 0 | 1222 | 0.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fil.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1236 | 1236 | 100.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/zh_CN.po | 
+ | [ca](/f43/language/ca) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ca.po | 
+ | [fi](/f43/language/fi) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fi.po | 
+ | [hu](/f43/language/hu) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hu.po | 
+ | [nl](/f43/language/nl) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/nl.po | 
+ | [pl](/f43/language/pl) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pl.po | 
+ | [uk](/f43/language/uk) | 1231 | 1235 | 99.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/uk.po | 
+ | [az](/f43/language/az) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/az.po | 
+ | [es](/f43/language/es) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es.po | 
+ | [it](/f43/language/it) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/it.po | 
+ | [pt](/f43/language/pt) | 1223 | 1235 | 99.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pt.po | 
+ | [sq](/f43/language/sq) | 1213 | 1235 | 98.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sq.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 1205 | 1236 | 97.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 1205 | 1236 | 97.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/zh_HK.po | 
+ | [en_US](/f43/language/en_US) | 1201 | 1236 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/en_US.po | 
+ | [bo](/f43/language/bo) | 1200 | 1235 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/bo.po | 
+ | [cs](/f43/language/cs) | 1200 | 1235 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/cs.po | 
+ | [ug](/f43/language/ug) | 1200 | 1235 | 97.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ug.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1191 | 1235 | 96.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pt_BR.po | 
+ | [fr](/f43/language/fr) | 1189 | 1235 | 96.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fr.po | 
+ | [tr](/f43/language/tr) | 1189 | 1235 | 96.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/tr.po | 
+ | [sl](/f43/language/sl) | 1165 | 1235 | 94.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sl.po | 
+ | [ru](/f43/language/ru) | 1129 | 1235 | 91.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ru.po | 
+ | [ms](/f43/language/ms) | 1120 | 1235 | 90.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ms.po | 
+ | [sr](/f43/language/sr) | 1120 | 1235 | 90.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sr.po | 
+ | [ro](/f43/language/ro) | 1077 | 1235 | 87.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ro.po | 
+ | [sk](/f43/language/sk) | 1071 | 1235 | 86.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sk.po | 
+ | [ko](/f43/language/ko) | 1034 | 1235 | 83.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ko.po | 
+ | [en_AU](/f43/language/en_AU) | 1033 | 1235 | 83.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/en_AU.po | 
+ | [vi](/f43/language/vi) | 1033 | 1235 | 83.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/vi.po | 
+ | [si](/f43/language/si) | 1027 | 1235 | 83.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/si.po | 
+ | [da](/f43/language/da) | 986 | 1235 | 79.8 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/da.po | 
+ | [ar](/f43/language/ar) | 983 | 1235 | 79.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ar.po | 
+ | [lt](/f43/language/lt) | 983 | 1235 | 79.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/lt.po | 
+ | [es_419](/f43/language/es_419) | 836 | 1072 | 78.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es_419.po | 
+ | [fa](/f43/language/fa) | 953 | 1235 | 77.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fa.po | 
+ | [bg](/f43/language/bg) | 894 | 1235 | 72.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/bg.po | 
+ | [bn](/f43/language/bn) | 892 | 1235 | 72.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/bn.po | 
+ | [mn](/f43/language/mn) | 759 | 1235 | 61.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/mn.po | 
+ | [hi](/f43/language/hi) | 745 | 1235 | 60.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hi_IN.po | 
+ | [de](/f43/language/de) | 1194 | 2470 | 48.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/de_DE.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/de.po | 
+ | [sw](/f43/language/sw) | 591 | 1235 | 47.9 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sw.po | 
+ | [el](/f43/language/el) | 1120 | 2470 | 45.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/el_GR.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/el.po | 
+ | [gl](/f43/language/gl) | 1062 | 2470 | 43.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/gl_ES.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/gl.po | 
+ | [es_AR](/f43/language/es_AR) | 622 | 1449 | 42.9 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es_AR.po | 
+ | [ast](/f43/language/ast) | 528 | 1235 | 42.8 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ast.po | 
+ | [hr](/f43/language/hr) | 489 | 1235 | 39.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hr.po | 
+ | [sv](/f43/language/sv) | 844 | 2470 | 34.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/sv_SE.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/sv.po | 
+ | [es_CL](/f43/language/es_CL) | 484 | 1449 | 33.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/es_CL.po | 
+ | [id](/f43/language/id) | 758 | 2470 | 30.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/id_ID.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/id.po | 
+ | [ja](/f43/language/ja) | 360 | 1235 | 29.1 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ja.po | 
+ | [nb_NO](/f43/language/nb_NO) | 260 | 1222 | 21.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/nb.po | 
+ | [he](/f43/language/he) | 208 | 1222 | 17.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/he.po | 
+ | [am](/f43/language/am) | 348 | 2470 | 14.1 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/am_ET.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/am.po | 
+ | [ta](/f43/language/ta) | 102 | 1222 | 8.3 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ta.po | 
+ | [af](/f43/language/af) | 153 | 2457 | 6.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/af_ZA.po/mnt/stockage/packages/f43/deepin-daemon/misc/po/af.po | 
+ | [ne](/f43/language/ne) | 55 | 1222 | 4.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ne.po | 
+ | [en_GB](/f43/language/en_GB) | 43 | 1222 | 3.5 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 33 | 1222 | 2.7 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/eo.po | 
+ | [pa](/f43/language/pa) | 27 | 1222 | 2.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pa.po | 
+ | [kmr](/f43/language/kmr) | 10 | 1222 | 0.8 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ku_IQ.po | 
+ | [ml](/f43/language/ml) | 7 | 1222 | 0.6 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/ml.po | 
+ | [hy](/f43/language/hy) | 5 | 1222 | 0.4 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/hy.po | 
+ | [pam](/f43/language/pam) | 3 | 1222 | 0.2 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/pam.po | 
+ | [fil](/f43/language/fil) | 0 | 1222 | 0.0 | /mnt/stockage/packages/f43/deepin-daemon/misc/po/fil.po | 
 {.sortable}
 
 

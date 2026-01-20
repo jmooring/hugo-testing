@@ -18,12 +18,12 @@ The package openswan (version 2.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/fr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/pt_BR.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/vi.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1169 | 1243 | 94.0 | /mnt/stockage/packages/f7/openswan/debian/po/ja.po | 
+ | [cs](/f7/language/cs) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/cs.po | 
+ | [fr](/f7/language/fr) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/fr.po | 
+ | [nl](/f7/language/nl) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/nl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/pt_BR.po | 
+ | [vi](/f7/language/vi) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f7/openswan/debian/po/vi.po | 
+ | [ja](/f7/language/ja) | 1169 | 1243 | 94.0 | /mnt/stockage/packages/f7/openswan/debian/po/ja.po | 
 {.sortable}
 
 

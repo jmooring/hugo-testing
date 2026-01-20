@@ -18,10 +18,10 @@ The package qt3 (version 3.3.8b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f43/language/en.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/en.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/ko.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/no.po | 
+ | [en](/f43/language/en) | 482 | 482 | 100.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/en.po | 
+ | [ja](/f43/language/ja) | 482 | 482 | 100.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/ja.po | 
+ | [ko](/f43/language/ko) | 483 | 483 | 100.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/ko.po | 
+ | [nb_NO](/f43/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/qt3/examples/demo/i18n/no.po | 
 {.sortable}
 
 

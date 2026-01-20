@@ -18,14 +18,14 @@ The package dayplanner (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/nn.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/sv.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 721 | 1112 | 64.8 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/de.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 721 | 1112 | 64.8 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/it.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 721 | 1112 | 64.8 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/nb.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 212 | 1112 | 19.1 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/sk.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 62 | 1112 | 5.6 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/cs.po | 
+ | [nl](/f16/language/nl) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/nl.po | 
+ | [nn](/f16/language/nn) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/nn.po | 
+ | [sv](/f16/language/sv) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/sv.po | 
+ | [de](/f16/language/de) | 721 | 1112 | 64.8 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/de.po | 
+ | [it](/f16/language/it) | 721 | 1112 | 64.8 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/it.po | 
+ | [nb_NO](/f16/language/nb_NO) | 721 | 1112 | 64.8 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/nb.po | 
+ | [sk](/f16/language/sk) | 212 | 1112 | 19.1 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/sk.po | 
+ | [cs](/f16/language/cs) | 62 | 1112 | 5.6 | /mnt/stockage/packages/f16/dayplanner/dayplanner-0.10/po/cs.po | 
 {.sortable}
 
 

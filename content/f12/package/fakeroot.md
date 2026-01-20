@@ -18,10 +18,10 @@ The package fakeroot (version 1.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/fr.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1533 | 1535 | 99.9 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/nl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 473 | 1535 | 30.8 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/sv.po | 
+ | [es](/f12/language/es) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/es.po | 
+ | [fr](/f12/language/fr) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/fr.po | 
+ | [nl](/f12/language/nl) | 1533 | 1535 | 99.9 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/nl.po | 
+ | [sv](/f12/language/sv) | 473 | 1535 | 30.8 | /mnt/stockage/packages/f12/fakeroot/doc/po4a/po/sv.po | 
 {.sortable}
 
 

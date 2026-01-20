@@ -41,65 +41,65 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nemo-extensions]({{< ref "/f21/package/nemo-extensions.md" >}}) | 1 | 1 | 100.0 | Filipino <fil@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f21/package/olpc-switch-desktop.md" >}}) | 156 | 158 | 98.7 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f21/package/sugar-toolkit-gtk3.md" >}}) | 73 | 76 | 96.1 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f21/package/sugar-toolkit.md" >}}) | 70 | 73 | 95.9 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 3318 | 4746 | 69.9 | Filipino <fil@li.org> | 
- | [phatch]({{< ref "/f21/package/phatch.md" >}}) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
- | [sugar-chat]({{< ref "/f21/package/sugar-chat.md" >}}) | 27 | 55 | 49.1 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f21/package/sugar-write.md" >}}) | 36 | 121 | 29.8 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f21/package/sugar-read.md" >}}) | 24 | 114 | 21.1 | LANGUAGE <LL@li.org> | 
- | [dexter]({{< ref "/f21/package/dexter.md" >}}) | 43 | 228 | 18.9 | Filipino <fil@li.org> | 
- | [sugar-browse]({{< ref "/f21/package/sugar-browse.md" >}}) | 26 | 189 | 13.8 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f21/package/cinnamon-translations.md" >}}) | 1479 | 11450 | 12.9 | Filipino <fil@li.org> | 
- | [sugar-pippy]({{< ref "/f21/package/sugar-pippy.md" >}}) | 11 | 109 | 10.1 | LANGUAGE <LL@li.org> | 
- | [transmission]({{< ref "/f21/package/transmission.md" >}}) | 176 | 1809 | 9.7 | Filipino <fil@li.org> | 
- | [gwibber]({{< ref "/f21/package/gwibber.md" >}}) | 60 | 769 | 7.8 | Filipino <fil@li.org> | 
- | [sugar-terminal]({{< ref "/f21/package/sugar-terminal.md" >}}) | 1 | 15 | 6.7 | LANGUAGE <LL@li.org> | 
- | [pinta]({{< ref "/f21/package/pinta.md" >}}) | 100 | 1618 | 6.2 | Filipino <fil@li.org> | 
- | [docky]({{< ref "/f21/package/docky.md" >}}) | 101 | 1757 | 5.7 | Filipino <fil@li.org> | 
- | [stellarium]({{< ref "/f21/package/stellarium.md" >}}) | 458 | 15825 | 2.9 | Filipino <fil@li.org> | 
- | [calibre]({{< ref "/f21/package/calibre.md" >}}) | 4006 | 144413 | 2.8 | Filipino (http://www.transifex.com/projects/p/calibre/language/fil/) | 
- | [aria2]({{< ref "/f21/package/aria2.md" >}}) | 86 | 6467 | 1.3 | Filipino <fil@li.org> | 
- | [sugar-speak]({{< ref "/f21/package/sugar-speak.md" >}}) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f21/package/sugar.md" >}}) | 7 | 1733 | 0.4 | LANGUAGE <LL@li.org> | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Filipino (http://www.transifex.com/projects/p/MATE/language/fil/) | 
- | [openstack-ceilometer]({{< ref "/f21/package/openstack-ceilometer.md" >}}) | 0 | 2280 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-cinder]({{< ref "/f21/package/openstack-cinder.md" >}}) | 0 | 15470 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-glance]({{< ref "/f21/package/openstack-glance.md" >}}) | 0 | 6659 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-heat]({{< ref "/f21/package/openstack-heat.md" >}}) | 0 | 10215 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-ironic]({{< ref "/f21/package/openstack-ironic.md" >}}) | 0 | 2966 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-keystone]({{< ref "/f21/package/openstack-keystone.md" >}}) | 0 | 2659 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-neutron]({{< ref "/f21/package/openstack-neutron.md" >}}) | 0 | 21722 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-nova]({{< ref "/f21/package/openstack-nova.md" >}}) | 0 | 17432 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-sahara]({{< ref "/f21/package/openstack-sahara.md" >}}) | 0 | 373 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [openstack-trove]({{< ref "/f21/package/openstack-trove.md" >}}) | 0 | 3988 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
- | [sugar-abacus]({{< ref "/f21/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f21/package/sugar-calculator.md" >}}) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f21/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f21/package/sugar-clock.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f21/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f21/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f21/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f21/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f21/package/sugar-getiabooks.md" >}}) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f21/package/sugar-imageviewer.md" >}}) | 0 | 51 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f21/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f21/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f21/package/sugar-jukebox.md" >}}) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f21/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f21/package/sugar-log.md" >}}) | 0 | 98 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f21/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f21/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f21/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f21/package/sugar-paint.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f21/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f21/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f21/package/sugar-turtleart.md" >}}) | 0 | 3077 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f21/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f21/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [nemo-extensions](/f21/package/nemo-extensions) | 1 | 1 | 100.0 | Filipino <fil@li.org> | 
+ | [olpc-switch-desktop](/f21/package/olpc-switch-desktop) | 156 | 158 | 98.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f21/package/sugar-toolkit-gtk3) | 73 | 76 | 96.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f21/package/sugar-toolkit) | 70 | 73 | 95.9 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f21/package/mintmenu) | 3318 | 4746 | 69.9 | Filipino <fil@li.org> | 
+ | [phatch](/f21/package/phatch) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
+ | [sugar-chat](/f21/package/sugar-chat) | 27 | 55 | 49.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f21/package/sugar-write) | 36 | 121 | 29.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f21/package/sugar-read) | 24 | 114 | 21.1 | LANGUAGE <LL@li.org> | 
+ | [dexter](/f21/package/dexter) | 43 | 228 | 18.9 | Filipino <fil@li.org> | 
+ | [sugar-browse](/f21/package/sugar-browse) | 26 | 189 | 13.8 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f21/package/cinnamon-translations) | 1479 | 11450 | 12.9 | Filipino <fil@li.org> | 
+ | [sugar-pippy](/f21/package/sugar-pippy) | 11 | 109 | 10.1 | LANGUAGE <LL@li.org> | 
+ | [transmission](/f21/package/transmission) | 176 | 1809 | 9.7 | Filipino <fil@li.org> | 
+ | [gwibber](/f21/package/gwibber) | 60 | 769 | 7.8 | Filipino <fil@li.org> | 
+ | [sugar-terminal](/f21/package/sugar-terminal) | 1 | 15 | 6.7 | LANGUAGE <LL@li.org> | 
+ | [pinta](/f21/package/pinta) | 100 | 1618 | 6.2 | Filipino <fil@li.org> | 
+ | [docky](/f21/package/docky) | 101 | 1757 | 5.7 | Filipino <fil@li.org> | 
+ | [stellarium](/f21/package/stellarium) | 458 | 15825 | 2.9 | Filipino <fil@li.org> | 
+ | [calibre](/f21/package/calibre) | 4006 | 144413 | 2.8 | Filipino (http://www.transifex.com/projects/p/calibre/language/fil/) | 
+ | [aria2](/f21/package/aria2) | 86 | 6467 | 1.3 | Filipino <fil@li.org> | 
+ | [sugar-speak](/f21/package/sugar-speak) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f21/package/sugar) | 7 | 1733 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Filipino (http://www.transifex.com/projects/p/MATE/language/fil/) | 
+ | [openstack-ceilometer](/f21/package/openstack-ceilometer) | 0 | 2280 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-cinder](/f21/package/openstack-cinder) | 0 | 15470 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-glance](/f21/package/openstack-glance) | 0 | 6659 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-heat](/f21/package/openstack-heat) | 0 | 10215 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-ironic](/f21/package/openstack-ironic) | 0 | 2966 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-keystone](/f21/package/openstack-keystone) | 0 | 2659 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-neutron](/f21/package/openstack-neutron) | 0 | 21722 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-nova](/f21/package/openstack-nova) | 0 | 17432 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-sahara](/f21/package/openstack-sahara) | 0 | 373 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [openstack-trove](/f21/package/openstack-trove) | 0 | 3988 | 0.0 | Filipino (http://www.transifex.com/projects/p/openstack/language/fil/) | 
+ | [sugar-abacus](/f21/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f21/package/sugar-calculator) | 0 | 871 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f21/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f21/package/sugar-clock) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f21/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f21/package/sugar-finance) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f21/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f21/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f21/package/sugar-getiabooks) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f21/package/sugar-imageviewer) | 0 | 51 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f21/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f21/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f21/package/sugar-jukebox) | 0 | 65 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f21/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f21/package/sugar-log) | 0 | 98 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f21/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f21/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f21/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f21/package/sugar-paint) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f21/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f21/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f21/package/sugar-turtleart) | 0 | 3077 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f21/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f21/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f21/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

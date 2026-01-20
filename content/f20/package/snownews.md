@@ -18,22 +18,22 @@ The package snownews (version 1.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f20/language/be_Latn.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/._be@latin.po/mnt/stockage/packages/f20/snownews/po/be@latin.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f20/snownews/po/es.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/pl.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f20/snownews/po/sl.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 849 | 850 | 99.9 | /mnt/stockage/packages/f20/snownews/po/pt_BR.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 796 | 809 | 98.4 | /mnt/stockage/packages/f20/snownews/po/._de.po/mnt/stockage/packages/f20/snownews/po/de.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 704 | 730 | 96.4 | /mnt/stockage/packages/f20/snownews/po/ja.po | 
- | [se]({{< ref "/f20/language/se.md" >}}) | 759 | 791 | 96.0 | /mnt/stockage/packages/f20/snownews/po/._se.po/mnt/stockage/packages/f20/snownews/po/se.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 634 | 673 | 94.2 | /mnt/stockage/packages/f20/snownews/po/it.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 696 | 791 | 88.0 | /mnt/stockage/packages/f20/snownews/po/zh_TW.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 689 | 791 | 87.1 | /mnt/stockage/packages/f20/snownews/po/ru.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 581 | 676 | 85.9 | /mnt/stockage/packages/f20/snownews/po/fr.po | 
- | [error]({{< ref "/f20/language/error.md" >}}) | 0 | 791 | 0.0 | /mnt/stockage/packages/f20/snownews/po/messages.po | 
+ | [be_Latn](/f20/language/be_Latn) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/._be@latin.po/mnt/stockage/packages/f20/snownews/po/be@latin.po | 
+ | [es](/f20/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f20/snownews/po/es.po | 
+ | [nl](/f20/language/nl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/nl.po | 
+ | [pl](/f20/language/pl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/pl.po | 
+ | [sl](/f20/language/sl) | 560 | 560 | 100.0 | /mnt/stockage/packages/f20/snownews/po/sl.po | 
+ | [uk](/f20/language/uk) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/uk_UA.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 791 | 791 | 100.0 | /mnt/stockage/packages/f20/snownews/po/zh_CN.po | 
+ | [pt_BR](/f20/language/pt_BR) | 849 | 850 | 99.9 | /mnt/stockage/packages/f20/snownews/po/pt_BR.po | 
+ | [de](/f20/language/de) | 796 | 809 | 98.4 | /mnt/stockage/packages/f20/snownews/po/._de.po/mnt/stockage/packages/f20/snownews/po/de.po | 
+ | [ja](/f20/language/ja) | 704 | 730 | 96.4 | /mnt/stockage/packages/f20/snownews/po/ja.po | 
+ | [se](/f20/language/se) | 759 | 791 | 96.0 | /mnt/stockage/packages/f20/snownews/po/._se.po/mnt/stockage/packages/f20/snownews/po/se.po | 
+ | [it](/f20/language/it) | 634 | 673 | 94.2 | /mnt/stockage/packages/f20/snownews/po/it.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 696 | 791 | 88.0 | /mnt/stockage/packages/f20/snownews/po/zh_TW.po | 
+ | [ru](/f20/language/ru) | 689 | 791 | 87.1 | /mnt/stockage/packages/f20/snownews/po/ru.po | 
+ | [fr](/f20/language/fr) | 581 | 676 | 85.9 | /mnt/stockage/packages/f20/snownews/po/fr.po | 
+ | [error](/f20/language/error) | 0 | 791 | 0.0 | /mnt/stockage/packages/f20/snownews/po/messages.po | 
 {.sortable}
 
 

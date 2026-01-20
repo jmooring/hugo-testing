@@ -18,7 +18,7 @@ The package six (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f32/language/it.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f32/six/po/it.po | 
+ | [it](/f32/language/it) | 233 | 233 | 100.0 | /mnt/stockage/packages/f32/six/po/it.po | 
 {.sortable}
 
 

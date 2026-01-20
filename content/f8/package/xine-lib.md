@@ -18,15 +18,15 @@ The package xine-lib (version 1.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 11135 | 11259 | 98.9 | /mnt/stockage/packages/f8/xine-lib/po/de.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 10414 | 11259 | 92.5 | /mnt/stockage/packages/f8/xine-lib/po/cs.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 10182 | 11259 | 90.4 | /mnt/stockage/packages/f8/xine-lib/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 7092 | 11259 | 63.0 | /mnt/stockage/packages/f8/xine-lib/po/es.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 5295 | 11259 | 47.0 | /mnt/stockage/packages/f8/xine-lib/po/eu.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 3093 | 11259 | 27.5 | /mnt/stockage/packages/f8/xine-lib/po/sk.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 469 | 11259 | 4.2 | /mnt/stockage/packages/f8/xine-lib/po/pl.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 129 | 11259 | 1.1 | /mnt/stockage/packages/f8/xine-lib/po/fr.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 83 | 11259 | 0.7 | /mnt/stockage/packages/f8/xine-lib/po/pt_BR.po | 
+ | [de](/f8/language/de) | 11135 | 11259 | 98.9 | /mnt/stockage/packages/f8/xine-lib/po/de.po | 
+ | [cs](/f8/language/cs) | 10414 | 11259 | 92.5 | /mnt/stockage/packages/f8/xine-lib/po/cs.po | 
+ | [it](/f8/language/it) | 10182 | 11259 | 90.4 | /mnt/stockage/packages/f8/xine-lib/po/it.po | 
+ | [es](/f8/language/es) | 7092 | 11259 | 63.0 | /mnt/stockage/packages/f8/xine-lib/po/es.po | 
+ | [eu](/f8/language/eu) | 5295 | 11259 | 47.0 | /mnt/stockage/packages/f8/xine-lib/po/eu.po | 
+ | [sk](/f8/language/sk) | 3093 | 11259 | 27.5 | /mnt/stockage/packages/f8/xine-lib/po/sk.po | 
+ | [pl](/f8/language/pl) | 469 | 11259 | 4.2 | /mnt/stockage/packages/f8/xine-lib/po/pl.po | 
+ | [fr](/f8/language/fr) | 129 | 11259 | 1.1 | /mnt/stockage/packages/f8/xine-lib/po/fr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 83 | 11259 | 0.7 | /mnt/stockage/packages/f8/xine-lib/po/pt_BR.po | 
 {.sortable}
 
 

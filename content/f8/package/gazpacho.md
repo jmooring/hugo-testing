@@ -18,16 +18,16 @@ The package gazpacho (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 648 | 708 | 91.5 | /mnt/stockage/packages/f8/gazpacho/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 639 | 708 | 90.3 | /mnt/stockage/packages/f8/gazpacho/po/gl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 628 | 708 | 88.7 | /mnt/stockage/packages/f8/gazpacho/po/sv.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 541 | 708 | 76.4 | /mnt/stockage/packages/f8/gazpacho/po/es.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 334 | 708 | 47.2 | /mnt/stockage/packages/f8/gazpacho/po/fi.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 321 | 708 | 45.3 | /mnt/stockage/packages/f8/gazpacho/po/ru.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 282 | 708 | 39.8 | /mnt/stockage/packages/f8/gazpacho/po/zh_CN.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 175 | 708 | 24.7 | /mnt/stockage/packages/f8/gazpacho/po/it.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 153 | 708 | 21.6 | /mnt/stockage/packages/f8/gazpacho/po/ca.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 105 | 708 | 14.8 | /mnt/stockage/packages/f8/gazpacho/po/pt_BR.po | 
+ | [fr](/f8/language/fr) | 648 | 708 | 91.5 | /mnt/stockage/packages/f8/gazpacho/po/fr.po | 
+ | [gl](/f8/language/gl) | 639 | 708 | 90.3 | /mnt/stockage/packages/f8/gazpacho/po/gl.po | 
+ | [sv](/f8/language/sv) | 628 | 708 | 88.7 | /mnt/stockage/packages/f8/gazpacho/po/sv.po | 
+ | [es](/f8/language/es) | 541 | 708 | 76.4 | /mnt/stockage/packages/f8/gazpacho/po/es.po | 
+ | [fi](/f8/language/fi) | 334 | 708 | 47.2 | /mnt/stockage/packages/f8/gazpacho/po/fi.po | 
+ | [ru](/f8/language/ru) | 321 | 708 | 45.3 | /mnt/stockage/packages/f8/gazpacho/po/ru.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 282 | 708 | 39.8 | /mnt/stockage/packages/f8/gazpacho/po/zh_CN.po | 
+ | [it](/f8/language/it) | 175 | 708 | 24.7 | /mnt/stockage/packages/f8/gazpacho/po/it.po | 
+ | [ca](/f8/language/ca) | 153 | 708 | 21.6 | /mnt/stockage/packages/f8/gazpacho/po/ca.po | 
+ | [pt_BR](/f8/language/pt_BR) | 105 | 708 | 14.8 | /mnt/stockage/packages/f8/gazpacho/po/pt_BR.po | 
 {.sortable}
 
 

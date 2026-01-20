@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f9/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [kde-i18n](/f9/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
 {.sortable}
 
 

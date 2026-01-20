@@ -18,41 +18,41 @@ The package quassel (version 0.13.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f32/language/it.md" >}}) | 7778 | 7778 | 100.0 | /mnt/stockage/packages/f32/quassel/po/it.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 5292 | 7778 | 68.0 | /mnt/stockage/packages/f32/quassel/po/de.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 5145 | 7778 | 66.1 | /mnt/stockage/packages/f32/quassel/po/fi.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 4873 | 7778 | 62.7 | /mnt/stockage/packages/f32/quassel/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 4873 | 7778 | 62.7 | /mnt/stockage/packages/f32/quassel/po/uk.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4851 | 7778 | 62.4 | /mnt/stockage/packages/f32/quassel/po/fr.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 4610 | 7778 | 59.3 | /mnt/stockage/packages/f32/quassel/po/sl.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 4605 | 7778 | 59.2 | /mnt/stockage/packages/f32/quassel/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 4566 | 7778 | 58.7 | /mnt/stockage/packages/f32/quassel/po/da.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 4289 | 7778 | 55.1 | /mnt/stockage/packages/f32/quassel/po/nb.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4172 | 7778 | 53.6 | /mnt/stockage/packages/f32/quassel/po/es.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 4074 | 7778 | 52.4 | /mnt/stockage/packages/f32/quassel/po/pt.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3976 | 7778 | 51.1 | /mnt/stockage/packages/f32/quassel/po/nl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 3964 | 7778 | 51.0 | /mnt/stockage/packages/f32/quassel/po/pt_BR.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 3892 | 7778 | 50.0 | /mnt/stockage/packages/f32/quassel/po/en_GB.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 3876 | 7778 | 49.8 | /mnt/stockage/packages/f32/quassel/po/gl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 3741 | 7778 | 48.1 | /mnt/stockage/packages/f32/quassel/po/zh_CN.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 3454 | 7778 | 44.4 | /mnt/stockage/packages/f32/quassel/po/el.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3245 | 7778 | 41.7 | /mnt/stockage/packages/f32/quassel/po/ru.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 3155 | 7778 | 40.6 | /mnt/stockage/packages/f32/quassel/po/pl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 2407 | 7778 | 30.9 | /mnt/stockage/packages/f32/quassel/po/hu.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 2269 | 7778 | 29.2 | /mnt/stockage/packages/f32/quassel/po/ko.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 2139 | 7778 | 27.5 | /mnt/stockage/packages/f32/quassel/po/ro.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 1782 | 7778 | 22.9 | /mnt/stockage/packages/f32/quassel/po/lt.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1568 | 7778 | 20.2 | /mnt/stockage/packages/f32/quassel/po/sv.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 1467 | 7778 | 18.9 | /mnt/stockage/packages/f32/quassel/po/oc.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 1338 | 7778 | 17.2 | /mnt/stockage/packages/f32/quassel/po/pa.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1156 | 7778 | 14.9 | /mnt/stockage/packages/f32/quassel/po/ja.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 807 | 7778 | 10.4 | /mnt/stockage/packages/f32/quassel/po/eo.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 628 | 7778 | 8.1 | /mnt/stockage/packages/f32/quassel/po/sq.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 86 | 7778 | 1.1 | /mnt/stockage/packages/f32/quassel/po/et.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 74 | 7778 | 1.0 | /mnt/stockage/packages/f32/quassel/po/en_US.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 74 | 7778 | 1.0 | /mnt/stockage/packages/f32/quassel/po/hi.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 31 | 7778 | 0.4 | /mnt/stockage/packages/f32/quassel/po/sr.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 17 | 7778 | 0.2 | /mnt/stockage/packages/f32/quassel/po/mr.po | 
+ | [it](/f32/language/it) | 7778 | 7778 | 100.0 | /mnt/stockage/packages/f32/quassel/po/it.po | 
+ | [de](/f32/language/de) | 5292 | 7778 | 68.0 | /mnt/stockage/packages/f32/quassel/po/de.po | 
+ | [fi](/f32/language/fi) | 5145 | 7778 | 66.1 | /mnt/stockage/packages/f32/quassel/po/fi.po | 
+ | [tr](/f32/language/tr) | 4873 | 7778 | 62.7 | /mnt/stockage/packages/f32/quassel/po/tr.po | 
+ | [uk](/f32/language/uk) | 4873 | 7778 | 62.7 | /mnt/stockage/packages/f32/quassel/po/uk.po | 
+ | [fr](/f32/language/fr) | 4851 | 7778 | 62.4 | /mnt/stockage/packages/f32/quassel/po/fr.po | 
+ | [sl](/f32/language/sl) | 4610 | 7778 | 59.3 | /mnt/stockage/packages/f32/quassel/po/sl.po | 
+ | [cs](/f32/language/cs) | 4605 | 7778 | 59.2 | /mnt/stockage/packages/f32/quassel/po/cs.po | 
+ | [da](/f32/language/da) | 4566 | 7778 | 58.7 | /mnt/stockage/packages/f32/quassel/po/da.po | 
+ | [nb_NO](/f32/language/nb_NO) | 4289 | 7778 | 55.1 | /mnt/stockage/packages/f32/quassel/po/nb.po | 
+ | [es](/f32/language/es) | 4172 | 7778 | 53.6 | /mnt/stockage/packages/f32/quassel/po/es.po | 
+ | [pt](/f32/language/pt) | 4074 | 7778 | 52.4 | /mnt/stockage/packages/f32/quassel/po/pt.po | 
+ | [nl](/f32/language/nl) | 3976 | 7778 | 51.1 | /mnt/stockage/packages/f32/quassel/po/nl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 3964 | 7778 | 51.0 | /mnt/stockage/packages/f32/quassel/po/pt_BR.po | 
+ | [en_GB](/f32/language/en_GB) | 3892 | 7778 | 50.0 | /mnt/stockage/packages/f32/quassel/po/en_GB.po | 
+ | [gl](/f32/language/gl) | 3876 | 7778 | 49.8 | /mnt/stockage/packages/f32/quassel/po/gl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 3741 | 7778 | 48.1 | /mnt/stockage/packages/f32/quassel/po/zh_CN.po | 
+ | [el](/f32/language/el) | 3454 | 7778 | 44.4 | /mnt/stockage/packages/f32/quassel/po/el.po | 
+ | [ru](/f32/language/ru) | 3245 | 7778 | 41.7 | /mnt/stockage/packages/f32/quassel/po/ru.po | 
+ | [pl](/f32/language/pl) | 3155 | 7778 | 40.6 | /mnt/stockage/packages/f32/quassel/po/pl.po | 
+ | [hu](/f32/language/hu) | 2407 | 7778 | 30.9 | /mnt/stockage/packages/f32/quassel/po/hu.po | 
+ | [ko](/f32/language/ko) | 2269 | 7778 | 29.2 | /mnt/stockage/packages/f32/quassel/po/ko.po | 
+ | [ro](/f32/language/ro) | 2139 | 7778 | 27.5 | /mnt/stockage/packages/f32/quassel/po/ro.po | 
+ | [lt](/f32/language/lt) | 1782 | 7778 | 22.9 | /mnt/stockage/packages/f32/quassel/po/lt.po | 
+ | [sv](/f32/language/sv) | 1568 | 7778 | 20.2 | /mnt/stockage/packages/f32/quassel/po/sv.po | 
+ | [oc](/f32/language/oc) | 1467 | 7778 | 18.9 | /mnt/stockage/packages/f32/quassel/po/oc.po | 
+ | [pa](/f32/language/pa) | 1338 | 7778 | 17.2 | /mnt/stockage/packages/f32/quassel/po/pa.po | 
+ | [ja](/f32/language/ja) | 1156 | 7778 | 14.9 | /mnt/stockage/packages/f32/quassel/po/ja.po | 
+ | [eo](/f32/language/eo) | 807 | 7778 | 10.4 | /mnt/stockage/packages/f32/quassel/po/eo.po | 
+ | [sq](/f32/language/sq) | 628 | 7778 | 8.1 | /mnt/stockage/packages/f32/quassel/po/sq.po | 
+ | [et](/f32/language/et) | 86 | 7778 | 1.1 | /mnt/stockage/packages/f32/quassel/po/et.po | 
+ | [en_US](/f32/language/en_US) | 74 | 7778 | 1.0 | /mnt/stockage/packages/f32/quassel/po/en_US.po | 
+ | [hi](/f32/language/hi) | 74 | 7778 | 1.0 | /mnt/stockage/packages/f32/quassel/po/hi.po | 
+ | [sr](/f32/language/sr) | 31 | 7778 | 0.4 | /mnt/stockage/packages/f32/quassel/po/sr.po | 
+ | [mr](/f32/language/mr) | 17 | 7778 | 0.2 | /mnt/stockage/packages/f32/quassel/po/mr.po | 
 {.sortable}
 
 

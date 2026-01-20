@@ -39,20 +39,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtkspell3]({{< ref "/f37/package/gtkspell3.md" >}}) | 8 | 16 | 50.0 | Sotho <info@mosekolatranslation.co.za> | 
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 29287 | 168400 | 17.4 | LANGUAGE <LL@li.org> | 
- | [isomaster]({{< ref "/f37/package/isomaster.md" >}}) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar]({{< ref "/f37/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gtkspell3](/f37/package/gtkspell3) | 8 | 16 | 50.0 | Sotho <info@mosekolatranslation.co.za> | 
+ | [libreoffice](/f37/package/libreoffice) | 29287 | 168400 | 17.4 | LANGUAGE <LL@li.org> | 
+ | [isomaster](/f37/package/isomaster) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar](/f37/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f37/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

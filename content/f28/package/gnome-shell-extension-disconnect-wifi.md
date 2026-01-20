@@ -18,13 +18,13 @@ The package gnome-shell-extension-disconnect-wifi (version 17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/ru/LC_MESSAGES/disconnect-wifi.po/mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/de/LC_MESSAGES/disconnect-wifi.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/es/LC_MESSAGES/disconnect-wifi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/fr/LC_MESSAGES/disconnect-wifi.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/it/LC_MESSAGES/disconnect-wifi.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/pt/LC_MESSAGES/disconnect-wifi.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/ta/LC_MESSAGES/disconnect-wifi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/zh_CN/LC_MESSAGES/disconnect-wifi.po | 
+ | [de](/f28/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/ru/LC_MESSAGES/disconnect-wifi.po/mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/de/LC_MESSAGES/disconnect-wifi.po | 
+ | [es](/f28/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/es/LC_MESSAGES/disconnect-wifi.po | 
+ | [fr](/f28/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/fr/LC_MESSAGES/disconnect-wifi.po | 
+ | [it](/f28/language/it) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/it/LC_MESSAGES/disconnect-wifi.po | 
+ | [pt](/f28/language/pt) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/pt/LC_MESSAGES/disconnect-wifi.po | 
+ | [ta](/f28/language/ta) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/ta/LC_MESSAGES/disconnect-wifi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2 | 2 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-disconnect-wifi/disconnect-wifi@kgshank.net/locale/zh_CN/LC_MESSAGES/disconnect-wifi.po | 
 {.sortable}
 
 

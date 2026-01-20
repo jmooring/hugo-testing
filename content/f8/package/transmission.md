@@ -18,19 +18,19 @@ The package transmission (version 0.82):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 736 | 736 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/pt.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 728 | 728 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/sv.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 734 | 736 | 99.7 | /mnt/stockage/packages/f8/transmission/gtk/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 550 | 553 | 99.5 | /mnt/stockage/packages/f8/transmission/gtk/po/ru.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 546 | 553 | 98.7 | /mnt/stockage/packages/f8/transmission/gtk/po/fi.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 538 | 553 | 97.3 | /mnt/stockage/packages/f8/transmission/gtk/po/it.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 710 | 736 | 96.5 | /mnt/stockage/packages/f8/transmission/gtk/po/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 527 | 553 | 95.3 | /mnt/stockage/packages/f8/transmission/gtk/po/es.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 527 | 553 | 95.3 | /mnt/stockage/packages/f8/transmission/gtk/po/ro.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 526 | 553 | 95.1 | /mnt/stockage/packages/f8/transmission/gtk/po/bg.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 688 | 736 | 93.5 | /mnt/stockage/packages/f8/transmission/gtk/po/sk.po | 
+ | [nl](/f8/language/nl) | 736 | 736 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/nl.po | 
+ | [pl](/f8/language/pl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/pl.po | 
+ | [pt](/f8/language/pt) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/pt.po | 
+ | [sv](/f8/language/sv) | 728 | 728 | 100.0 | /mnt/stockage/packages/f8/transmission/gtk/po/sv.po | 
+ | [fr](/f8/language/fr) | 734 | 736 | 99.7 | /mnt/stockage/packages/f8/transmission/gtk/po/fr.po | 
+ | [ru](/f8/language/ru) | 550 | 553 | 99.5 | /mnt/stockage/packages/f8/transmission/gtk/po/ru.po | 
+ | [fi](/f8/language/fi) | 546 | 553 | 98.7 | /mnt/stockage/packages/f8/transmission/gtk/po/fi.po | 
+ | [it](/f8/language/it) | 538 | 553 | 97.3 | /mnt/stockage/packages/f8/transmission/gtk/po/it.po | 
+ | [pt_BR](/f8/language/pt_BR) | 710 | 736 | 96.5 | /mnt/stockage/packages/f8/transmission/gtk/po/pt_BR.po | 
+ | [es](/f8/language/es) | 527 | 553 | 95.3 | /mnt/stockage/packages/f8/transmission/gtk/po/es.po | 
+ | [ro](/f8/language/ro) | 527 | 553 | 95.3 | /mnt/stockage/packages/f8/transmission/gtk/po/ro.po | 
+ | [bg](/f8/language/bg) | 526 | 553 | 95.1 | /mnt/stockage/packages/f8/transmission/gtk/po/bg.po | 
+ | [sk](/f8/language/sk) | 688 | 736 | 93.5 | /mnt/stockage/packages/f8/transmission/gtk/po/sk.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package fakeroot (version 1.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1533 | 1535 | 99.9 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/nl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 473 | 1535 | 30.8 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/sv.po | 
+ | [es](/f8/language/es) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/es.po | 
+ | [fr](/f8/language/fr) | 1535 | 1535 | 100.0 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/fr.po | 
+ | [nl](/f8/language/nl) | 1533 | 1535 | 99.9 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/nl.po | 
+ | [sv](/f8/language/sv) | 473 | 1535 | 30.8 | /mnt/stockage/packages/f8/fakeroot/doc/po4a/po/sv.po | 
 {.sortable}
 
 

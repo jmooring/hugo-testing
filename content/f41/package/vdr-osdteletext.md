@@ -18,16 +18,16 @@ The package vdr-osdteletext (version 2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 165 | 183 | 90.2 | /mnt/stockage/packages/f41/vdr-osdteletext/po/de_DE.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 55 | 183 | 30.1 | /mnt/stockage/packages/f41/vdr-osdteletext/po/fi_FI.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 55 | 183 | 30.1 | /mnt/stockage/packages/f41/vdr-osdteletext/po/ru_RU.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 34 | 183 | 18.6 | /mnt/stockage/packages/f41/vdr-osdteletext/po/it_IT.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 34 | 183 | 18.6 | /mnt/stockage/packages/f41/vdr-osdteletext/po/sk_SK.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 31 | 183 | 16.9 | /mnt/stockage/packages/f41/vdr-osdteletext/po/fr_FR.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 31 | 183 | 16.9 | /mnt/stockage/packages/f41/vdr-osdteletext/po/pt_PT.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 31 | 183 | 16.9 | /mnt/stockage/packages/f41/vdr-osdteletext/po/uk_UA.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 29 | 183 | 15.8 | /mnt/stockage/packages/f41/vdr-osdteletext/po/ca_ES.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 27 | 183 | 14.8 | /mnt/stockage/packages/f41/vdr-osdteletext/po/es_ES.po | 
+ | [de](/f41/language/de) | 165 | 183 | 90.2 | /mnt/stockage/packages/f41/vdr-osdteletext/po/de_DE.po | 
+ | [fi](/f41/language/fi) | 55 | 183 | 30.1 | /mnt/stockage/packages/f41/vdr-osdteletext/po/fi_FI.po | 
+ | [ru](/f41/language/ru) | 55 | 183 | 30.1 | /mnt/stockage/packages/f41/vdr-osdteletext/po/ru_RU.po | 
+ | [it](/f41/language/it) | 34 | 183 | 18.6 | /mnt/stockage/packages/f41/vdr-osdteletext/po/it_IT.po | 
+ | [sk](/f41/language/sk) | 34 | 183 | 18.6 | /mnt/stockage/packages/f41/vdr-osdteletext/po/sk_SK.po | 
+ | [fr](/f41/language/fr) | 31 | 183 | 16.9 | /mnt/stockage/packages/f41/vdr-osdteletext/po/fr_FR.po | 
+ | [pt](/f41/language/pt) | 31 | 183 | 16.9 | /mnt/stockage/packages/f41/vdr-osdteletext/po/pt_PT.po | 
+ | [uk](/f41/language/uk) | 31 | 183 | 16.9 | /mnt/stockage/packages/f41/vdr-osdteletext/po/uk_UA.po | 
+ | [ca](/f41/language/ca) | 29 | 183 | 15.8 | /mnt/stockage/packages/f41/vdr-osdteletext/po/ca_ES.po | 
+ | [es](/f41/language/es) | 27 | 183 | 14.8 | /mnt/stockage/packages/f41/vdr-osdteletext/po/es_ES.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package nemiver (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/de.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 670 | 670 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/en_GB.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/fr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/ja.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 409 | 420 | 97.4 | /mnt/stockage/packages/f8/nemiver/po/nl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 463 | 1527 | 30.3 | /mnt/stockage/packages/f8/nemiver/help/sv/sv.po/mnt/stockage/packages/f8/nemiver/po/sv.po | 
+ | [de](/f8/language/de) | 408 | 408 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/de.po | 
+ | [en_GB](/f8/language/en_GB) | 670 | 670 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/en_GB.po | 
+ | [es](/f8/language/es) | 408 | 408 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/es.po | 
+ | [fr](/f8/language/fr) | 665 | 665 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/fr.po | 
+ | [ja](/f8/language/ja) | 543 | 543 | 100.0 | /mnt/stockage/packages/f8/nemiver/po/ja.po | 
+ | [nl](/f8/language/nl) | 409 | 420 | 97.4 | /mnt/stockage/packages/f8/nemiver/po/nl.po | 
+ | [sv](/f8/language/sv) | 463 | 1527 | 30.3 | /mnt/stockage/packages/f8/nemiver/help/sv/sv.po/mnt/stockage/packages/f8/nemiver/po/sv.po | 
 {.sortable}
 
 

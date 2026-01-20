@@ -18,17 +18,17 @@ The package datamash (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/fr.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/pt_BR.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/sv.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/uk.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/de.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/eo.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/nl.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 433 | 862 | 50.2 | /mnt/stockage/packages/f28/datamash/po/nb.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 433 | 862 | 50.2 | /mnt/stockage/packages/f28/datamash/po/vi.po | 
+ | [fr](/f28/language/fr) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/fr.po | 
+ | [pt_BR](/f28/language/pt_BR) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/pt_BR.po | 
+ | [sr](/f28/language/sr) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/sr.po | 
+ | [sv](/f28/language/sv) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/sv.po | 
+ | [uk](/f28/language/uk) | 739 | 862 | 85.7 | /mnt/stockage/packages/f28/datamash/po/uk.po | 
+ | [da](/f28/language/da) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/da.po | 
+ | [de](/f28/language/de) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/de.po | 
+ | [eo](/f28/language/eo) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/eo.po | 
+ | [nl](/f28/language/nl) | 659 | 862 | 76.5 | /mnt/stockage/packages/f28/datamash/po/nl.po | 
+ | [nb_NO](/f28/language/nb_NO) | 433 | 862 | 50.2 | /mnt/stockage/packages/f28/datamash/po/nb.po | 
+ | [vi](/f28/language/vi) | 433 | 862 | 50.2 | /mnt/stockage/packages/f28/datamash/po/vi.po | 
 {.sortable}
 
 

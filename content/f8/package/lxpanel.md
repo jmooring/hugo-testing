@@ -18,9 +18,9 @@ The package lxpanel (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 425 | 441 | 96.4 | /mnt/stockage/packages/f8/lxpanel/po/zh_TW.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 356 | 441 | 80.7 | /mnt/stockage/packages/f8/lxpanel/po/hu.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 262 | 441 | 59.4 | /mnt/stockage/packages/f8/lxpanel/po/ko.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 425 | 441 | 96.4 | /mnt/stockage/packages/f8/lxpanel/po/zh_TW.po | 
+ | [hu](/f8/language/hu) | 356 | 441 | 80.7 | /mnt/stockage/packages/f8/lxpanel/po/hu.po | 
+ | [ko](/f8/language/ko) | 262 | 441 | 59.4 | /mnt/stockage/packages/f8/lxpanel/po/ko.po | 
 {.sortable}
 
 

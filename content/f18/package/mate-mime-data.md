@@ -18,80 +18,80 @@ The package mate-mime-data (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f18/language/af.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/af.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ar.po | 
- | [az]({{< ref "/f18/language/az.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/az.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/bg.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/bn.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/bs.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/cs.po | 
- | [cy]({{< ref "/f18/language/cy.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/cy.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/el.po | 
- | [en_CA]({{< ref "/f18/language/en_CA.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/en_CA.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/gl.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/gu.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/he.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/hi.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/hr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/lt.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/mk.po | 
- | [mn]({{< ref "/f18/language/mn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/mn.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ms.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nb.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nl.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nn.po | 
- | [nso]({{< ref "/f18/language/nso.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nso.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sl.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sq.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f18/language/sr@ijekavian.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sr@ije.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sr@latin.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ta.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/tr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/uk.po | 
- | [xh]({{< ref "/f18/language/xh.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/xh.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/zh_TW.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 885 | 887 | 99.8 | /mnt/stockage/packages/f18/mate-mime-data/po/sv.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 878 | 887 | 99.0 | /mnt/stockage/packages/f18/mate-mime-data/po/is.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 860 | 887 | 97.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ne.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 860 | 887 | 97.0 | /mnt/stockage/packages/f18/mate-mime-data/po/th.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 851 | 887 | 95.9 | /mnt/stockage/packages/f18/mate-mime-data/po/eo.po | 
- | [li]({{< ref "/f18/language/li.md" >}}) | 850 | 887 | 95.8 | /mnt/stockage/packages/f18/mate-mime-data/po/li.po | 
- | [zu]({{< ref "/f18/language/zu.md" >}}) | 834 | 887 | 94.0 | /mnt/stockage/packages/f18/mate-mime-data/po/zu.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 826 | 887 | 93.1 | /mnt/stockage/packages/f18/mate-mime-data/po/vi.po | 
- | [wa]({{< ref "/f18/language/wa.md" >}}) | 790 | 887 | 89.1 | /mnt/stockage/packages/f18/mate-mime-data/po/wa.po | 
- | [tk]({{< ref "/f18/language/tk.md" >}}) | 625 | 887 | 70.5 | /mnt/stockage/packages/f18/mate-mime-data/po/tk.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 576 | 887 | 64.9 | /mnt/stockage/packages/f18/mate-mime-data/po/lv.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 559 | 887 | 63.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ga.po | 
- | [am]({{< ref "/f18/language/am.md" >}}) | 382 | 887 | 43.1 | /mnt/stockage/packages/f18/mate-mime-data/po/am.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 289 | 887 | 32.6 | /mnt/stockage/packages/f18/mate-mime-data/po/fa.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 18 | 887 | 2.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ast.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 18 | 887 | 2.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ml.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 12 | 887 | 1.4 | /mnt/stockage/packages/f18/mate-mime-data/po/rw.po | 
- | [yi]({{< ref "/f18/language/yi.md" >}}) | 1 | 887 | 0.1 | /mnt/stockage/packages/f18/mate-mime-data/po/yi.po | 
+ | [af](/f18/language/af) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/af.po | 
+ | [ar](/f18/language/ar) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ar.po | 
+ | [az](/f18/language/az) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/az.po | 
+ | [be](/f18/language/be) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/be.po | 
+ | [bg](/f18/language/bg) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/bg.po | 
+ | [bn](/f18/language/bn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/bn.po | 
+ | [bs](/f18/language/bs) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/bs.po | 
+ | [ca](/f18/language/ca) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ca.po | 
+ | [cs](/f18/language/cs) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/cs.po | 
+ | [cy](/f18/language/cy) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/cy.po | 
+ | [da](/f18/language/da) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/da.po | 
+ | [de](/f18/language/de) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/de.po | 
+ | [el](/f18/language/el) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/el.po | 
+ | [en_CA](/f18/language/en_CA) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/en_CA.po | 
+ | [en_GB](/f18/language/en_GB) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/en_GB.po | 
+ | [es](/f18/language/es) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/es.po | 
+ | [et](/f18/language/et) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/et.po | 
+ | [eu](/f18/language/eu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/eu.po | 
+ | [fi](/f18/language/fi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/fi.po | 
+ | [fr](/f18/language/fr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/fr.po | 
+ | [gl](/f18/language/gl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/gl.po | 
+ | [gu](/f18/language/gu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/gu.po | 
+ | [he](/f18/language/he) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/he.po | 
+ | [hi](/f18/language/hi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/hi.po | 
+ | [hr](/f18/language/hr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/hr.po | 
+ | [hu](/f18/language/hu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/hu.po | 
+ | [id](/f18/language/id) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/id.po | 
+ | [it](/f18/language/it) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/it.po | 
+ | [ja](/f18/language/ja) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ja.po | 
+ | [ko](/f18/language/ko) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ko.po | 
+ | [lt](/f18/language/lt) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/lt.po | 
+ | [mk](/f18/language/mk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/mk.po | 
+ | [mn](/f18/language/mn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/mn.po | 
+ | [ms](/f18/language/ms) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ms.po | 
+ | [nb_NO](/f18/language/nb_NO) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nb.po | 
+ | [nl](/f18/language/nl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nl.po | 
+ | [nn](/f18/language/nn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nn.po | 
+ | [nso](/f18/language/nso) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/nso.po | 
+ | [pa](/f18/language/pa) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pa.po | 
+ | [pl](/f18/language/pl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pl.po | 
+ | [pt](/f18/language/pt) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ro.po | 
+ | [ru](/f18/language/ru) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ru.po | 
+ | [sk](/f18/language/sk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sk.po | 
+ | [sl](/f18/language/sl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sl.po | 
+ | [sq](/f18/language/sq) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sq.po | 
+ | [sr](/f18/language/sr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sr.po | 
+ | [sr@ijekavian](/f18/language/sr@ijekavian) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sr@ije.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/sr@latin.po | 
+ | [ta](/f18/language/ta) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ta.po | 
+ | [tr](/f18/language/tr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/tr.po | 
+ | [uk](/f18/language/uk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/uk.po | 
+ | [xh](/f18/language/xh) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/xh.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 887 | 887 | 100.0 | /mnt/stockage/packages/f18/mate-mime-data/po/zh_TW.po | 
+ | [sv](/f18/language/sv) | 885 | 887 | 99.8 | /mnt/stockage/packages/f18/mate-mime-data/po/sv.po | 
+ | [is](/f18/language/is) | 878 | 887 | 99.0 | /mnt/stockage/packages/f18/mate-mime-data/po/is.po | 
+ | [ne](/f18/language/ne) | 860 | 887 | 97.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ne.po | 
+ | [th](/f18/language/th) | 860 | 887 | 97.0 | /mnt/stockage/packages/f18/mate-mime-data/po/th.po | 
+ | [eo](/f18/language/eo) | 851 | 887 | 95.9 | /mnt/stockage/packages/f18/mate-mime-data/po/eo.po | 
+ | [li](/f18/language/li) | 850 | 887 | 95.8 | /mnt/stockage/packages/f18/mate-mime-data/po/li.po | 
+ | [zu](/f18/language/zu) | 834 | 887 | 94.0 | /mnt/stockage/packages/f18/mate-mime-data/po/zu.po | 
+ | [vi](/f18/language/vi) | 826 | 887 | 93.1 | /mnt/stockage/packages/f18/mate-mime-data/po/vi.po | 
+ | [wa](/f18/language/wa) | 790 | 887 | 89.1 | /mnt/stockage/packages/f18/mate-mime-data/po/wa.po | 
+ | [tk](/f18/language/tk) | 625 | 887 | 70.5 | /mnt/stockage/packages/f18/mate-mime-data/po/tk.po | 
+ | [lv](/f18/language/lv) | 576 | 887 | 64.9 | /mnt/stockage/packages/f18/mate-mime-data/po/lv.po | 
+ | [ga](/f18/language/ga) | 559 | 887 | 63.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ga.po | 
+ | [am](/f18/language/am) | 382 | 887 | 43.1 | /mnt/stockage/packages/f18/mate-mime-data/po/am.po | 
+ | [fa](/f18/language/fa) | 289 | 887 | 32.6 | /mnt/stockage/packages/f18/mate-mime-data/po/fa.po | 
+ | [ast](/f18/language/ast) | 18 | 887 | 2.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ast.po | 
+ | [ml](/f18/language/ml) | 18 | 887 | 2.0 | /mnt/stockage/packages/f18/mate-mime-data/po/ml.po | 
+ | [rw](/f18/language/rw) | 12 | 887 | 1.4 | /mnt/stockage/packages/f18/mate-mime-data/po/rw.po | 
+ | [yi](/f18/language/yi) | 1 | 887 | 0.1 | /mnt/stockage/packages/f18/mate-mime-data/po/yi.po | 
 {.sortable}
 
 

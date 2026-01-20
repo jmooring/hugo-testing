@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-physics]({{< ref "/f11/package/sugar-physics.md" >}}) | 1 | 22 | 4.5 | LANGUAGE <LL@li.org> | 
- | [sugar-update-control]({{< ref "/f11/package/sugar-update-control.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f11/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f11/package/sugar-physics) | 1 | 22 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-update-control](/f11/package/sugar-update-control) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f11/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

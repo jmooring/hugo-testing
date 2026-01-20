@@ -18,22 +18,22 @@ The package xfce4-systemload-plugin (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/de.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/eu.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/fr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/hu.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/ko.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/pt_BR.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/sv.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/zh_TW.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 46 | 54 | 85.2 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/lt.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 46 | 54 | 85.2 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/vi.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 19 | 54 | 35.2 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/uk.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 4 | 54 | 7.4 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/gl.po | 
+ | [ca](/f12/language/ca) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/ca.po | 
+ | [cs](/f12/language/cs) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/cs.po | 
+ | [de](/f12/language/de) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/de.po | 
+ | [eu](/f12/language/eu) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/eu.po | 
+ | [fr](/f12/language/fr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/fr.po | 
+ | [hu](/f12/language/hu) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/hu.po | 
+ | [ko](/f12/language/ko) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/ko.po | 
+ | [nl](/f12/language/nl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/nl.po | 
+ | [pl](/f12/language/pl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/pt_BR.po | 
+ | [sv](/f12/language/sv) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/sv.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 54 | 54 | 100.0 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/zh_TW.po | 
+ | [lt](/f12/language/lt) | 46 | 54 | 85.2 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/lt.po | 
+ | [vi](/f12/language/vi) | 46 | 54 | 85.2 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/vi.po | 
+ | [uk](/f12/language/uk) | 19 | 54 | 35.2 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/uk.po | 
+ | [gl](/f12/language/gl) | 4 | 54 | 7.4 | /mnt/stockage/packages/f12/xfce4-systemload-plugin/po/gl.po | 
 {.sortable}
 
 

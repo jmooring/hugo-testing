@@ -18,17 +18,17 @@ The package hardinfo2 (version 2.2.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f42/language/da.md" >}}) | 4476 | 4476 | 100.0 | /mnt/stockage/packages/f42/hardinfo2/po/da.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 4459 | 4476 | 99.6 | /mnt/stockage/packages/f42/hardinfo2/po/ru.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 4367 | 4476 | 97.6 | /mnt/stockage/packages/f42/hardinfo2/po/tr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 4319 | 4476 | 96.5 | /mnt/stockage/packages/f42/hardinfo2/po/pt_BR.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 3187 | 4476 | 71.2 | /mnt/stockage/packages/f42/hardinfo2/po/ko.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 3107 | 4476 | 69.4 | /mnt/stockage/packages/f42/hardinfo2/po/pt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2392 | 4476 | 53.4 | /mnt/stockage/packages/f42/hardinfo2/po/es.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1223 | 4476 | 27.3 | /mnt/stockage/packages/f42/hardinfo2/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1149 | 4476 | 25.7 | /mnt/stockage/packages/f42/hardinfo2/po/fr.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 671 | 4476 | 15.0 | /mnt/stockage/packages/f42/hardinfo2/po/zh_CN.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 326 | 4476 | 7.3 | /mnt/stockage/packages/f42/hardinfo2/po/hu.po | 
+ | [da](/f42/language/da) | 4476 | 4476 | 100.0 | /mnt/stockage/packages/f42/hardinfo2/po/da.po | 
+ | [ru](/f42/language/ru) | 4459 | 4476 | 99.6 | /mnt/stockage/packages/f42/hardinfo2/po/ru.po | 
+ | [tr](/f42/language/tr) | 4367 | 4476 | 97.6 | /mnt/stockage/packages/f42/hardinfo2/po/tr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 4319 | 4476 | 96.5 | /mnt/stockage/packages/f42/hardinfo2/po/pt_BR.po | 
+ | [ko](/f42/language/ko) | 3187 | 4476 | 71.2 | /mnt/stockage/packages/f42/hardinfo2/po/ko.po | 
+ | [pt](/f42/language/pt) | 3107 | 4476 | 69.4 | /mnt/stockage/packages/f42/hardinfo2/po/pt.po | 
+ | [es](/f42/language/es) | 2392 | 4476 | 53.4 | /mnt/stockage/packages/f42/hardinfo2/po/es.po | 
+ | [de](/f42/language/de) | 1223 | 4476 | 27.3 | /mnt/stockage/packages/f42/hardinfo2/po/de.po | 
+ | [fr](/f42/language/fr) | 1149 | 4476 | 25.7 | /mnt/stockage/packages/f42/hardinfo2/po/fr.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 671 | 4476 | 15.0 | /mnt/stockage/packages/f42/hardinfo2/po/zh_CN.po | 
+ | [hu](/f42/language/hu) | 326 | 4476 | 7.3 | /mnt/stockage/packages/f42/hardinfo2/po/hu.po | 
 {.sortable}
 
 

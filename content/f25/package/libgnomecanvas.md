@@ -18,95 +18,95 @@ The package libgnomecanvas (version 2.30.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/as.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ast.po | 
- | [az]({{< ref "/f25/language/az.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/az.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bg.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bn.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bn_IN.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 756 | 756 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ca.po/mnt/stockage/packages/f25/libgnomecanvas/po/ca@valencia.po | 
- | [crh]({{< ref "/f25/language/crh.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/crh.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/cs.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/cy.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/de.po | 
- | [dz]({{< ref "/f25/language/dz.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/dz.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/el.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/en_CA.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/en_GB.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/eo.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/es.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/eu.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/gl.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/gu.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/he.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/hi.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ja.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ka.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/lv.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mai.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ml.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ms.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/nb.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ne.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/nl.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/nn.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/or.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pa.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sl.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f25/language/sr@ijekavian.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sr@ije.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/te.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/tr.po | 
- | [tt]({{< ref "/f25/language/tt.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/tt.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/vi.po | 
- | [xh]({{< ref "/f25/language/xh.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/xh.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/zh_HK.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 344 | 357 | 96.4 | /mnt/stockage/packages/f25/libgnomecanvas/po/fa.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 339 | 357 | 95.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/is.po | 
- | [li]({{< ref "/f25/language/li.md" >}}) | 339 | 357 | 95.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/li.po | 
- | [yi]({{< ref "/f25/language/yi.md" >}}) | 339 | 357 | 95.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/yi.po | 
- | [mg]({{< ref "/f25/language/mg.md" >}}) | 356 | 378 | 94.2 | /mnt/stockage/packages/f25/libgnomecanvas/po/mg.po | 
- | [wa]({{< ref "/f25/language/wa.md" >}}) | 328 | 357 | 91.9 | /mnt/stockage/packages/f25/libgnomecanvas/po/wa.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 318 | 378 | 84.1 | /mnt/stockage/packages/f25/libgnomecanvas/po/en@shaw.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 132 | 357 | 37.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ga.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 45 | 357 | 12.6 | /mnt/stockage/packages/f25/libgnomecanvas/po/am.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 30 | 378 | 7.9 | /mnt/stockage/packages/f25/libgnomecanvas/po/br.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 29 | 378 | 7.7 | /mnt/stockage/packages/f25/libgnomecanvas/po/oc.po | 
- | [rw]({{< ref "/f25/language/rw.md" >}}) | 23 | 357 | 6.4 | /mnt/stockage/packages/f25/libgnomecanvas/po/rw.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 16 | 357 | 4.5 | /mnt/stockage/packages/f25/libgnomecanvas/po/ku.po | 
- | [ang]({{< ref "/f25/language/ang.md" >}}) | 14 | 357 | 3.9 | /mnt/stockage/packages/f25/libgnomecanvas/po/ang.po | 
+ | [ar](/f25/language/ar) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ar.po | 
+ | [as](/f25/language/as) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/as.po | 
+ | [ast](/f25/language/ast) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ast.po | 
+ | [az](/f25/language/az) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/az.po | 
+ | [be](/f25/language/be) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/be.po | 
+ | [bg](/f25/language/bg) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bg.po | 
+ | [bn](/f25/language/bn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bn.po | 
+ | [bn_IN](/f25/language/bn_IN) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bn_IN.po | 
+ | [bs](/f25/language/bs) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/bs.po | 
+ | [ca](/f25/language/ca) | 756 | 756 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ca.po/mnt/stockage/packages/f25/libgnomecanvas/po/ca@valencia.po | 
+ | [crh](/f25/language/crh) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/crh.po | 
+ | [cs](/f25/language/cs) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/cs.po | 
+ | [cy](/f25/language/cy) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/cy.po | 
+ | [da](/f25/language/da) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/da.po | 
+ | [de](/f25/language/de) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/de.po | 
+ | [dz](/f25/language/dz) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/dz.po | 
+ | [el](/f25/language/el) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/el.po | 
+ | [en_CA](/f25/language/en_CA) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/en_CA.po | 
+ | [en_GB](/f25/language/en_GB) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/en_GB.po | 
+ | [eo](/f25/language/eo) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/eo.po | 
+ | [es](/f25/language/es) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/es.po | 
+ | [et](/f25/language/et) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/et.po | 
+ | [eu](/f25/language/eu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/eu.po | 
+ | [fi](/f25/language/fi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/fi.po | 
+ | [fr](/f25/language/fr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/fr.po | 
+ | [gl](/f25/language/gl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/gl.po | 
+ | [gu](/f25/language/gu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/gu.po | 
+ | [he](/f25/language/he) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/he.po | 
+ | [hi](/f25/language/hi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/hi.po | 
+ | [hr](/f25/language/hr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/hr.po | 
+ | [hu](/f25/language/hu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/hu.po | 
+ | [id](/f25/language/id) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/id.po | 
+ | [it](/f25/language/it) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/it.po | 
+ | [ja](/f25/language/ja) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ja.po | 
+ | [ka](/f25/language/ka) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ka.po | 
+ | [kn](/f25/language/kn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/kn.po | 
+ | [ko](/f25/language/ko) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ko.po | 
+ | [lt](/f25/language/lt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/lt.po | 
+ | [lv](/f25/language/lv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/lv.po | 
+ | [mai](/f25/language/mai) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mai.po | 
+ | [mk](/f25/language/mk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mk.po | 
+ | [ml](/f25/language/ml) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ml.po | 
+ | [mn](/f25/language/mn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mn.po | 
+ | [mr](/f25/language/mr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/mr.po | 
+ | [ms](/f25/language/ms) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ms.po | 
+ | [nb_NO](/f25/language/nb_NO) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/nb.po | 
+ | [ne](/f25/language/ne) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ne.po | 
+ | [nl](/f25/language/nl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/nl.po | 
+ | [nn](/f25/language/nn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/nn.po | 
+ | [or](/f25/language/or) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/or.po | 
+ | [pa](/f25/language/pa) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pa.po | 
+ | [pl](/f25/language/pl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pl.po | 
+ | [pt](/f25/language/pt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ro.po | 
+ | [ru](/f25/language/ru) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ru.po | 
+ | [sk](/f25/language/sk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sk.po | 
+ | [sl](/f25/language/sl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sl.po | 
+ | [sq](/f25/language/sq) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sq.po | 
+ | [sr](/f25/language/sr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sr.po | 
+ | [sr@ijekavian](/f25/language/sr@ijekavian) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sr@ije.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/sv.po | 
+ | [ta](/f25/language/ta) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ta.po | 
+ | [te](/f25/language/te) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/te.po | 
+ | [th](/f25/language/th) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/th.po | 
+ | [tr](/f25/language/tr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/tr.po | 
+ | [tt](/f25/language/tt) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/tt.po | 
+ | [ug](/f25/language/ug) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ug.po | 
+ | [uk](/f25/language/uk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/uk.po | 
+ | [vi](/f25/language/vi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/vi.po | 
+ | [xh](/f25/language/xh) | 357 | 357 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/xh.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 378 | 378 | 100.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/zh_HK.po | 
+ | [fa](/f25/language/fa) | 344 | 357 | 96.4 | /mnt/stockage/packages/f25/libgnomecanvas/po/fa.po | 
+ | [is](/f25/language/is) | 339 | 357 | 95.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/is.po | 
+ | [li](/f25/language/li) | 339 | 357 | 95.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/li.po | 
+ | [yi](/f25/language/yi) | 339 | 357 | 95.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/yi.po | 
+ | [mg](/f25/language/mg) | 356 | 378 | 94.2 | /mnt/stockage/packages/f25/libgnomecanvas/po/mg.po | 
+ | [wa](/f25/language/wa) | 328 | 357 | 91.9 | /mnt/stockage/packages/f25/libgnomecanvas/po/wa.po | 
+ | [error](/f25/language/error) | 318 | 378 | 84.1 | /mnt/stockage/packages/f25/libgnomecanvas/po/en@shaw.po | 
+ | [ga](/f25/language/ga) | 132 | 357 | 37.0 | /mnt/stockage/packages/f25/libgnomecanvas/po/ga.po | 
+ | [am](/f25/language/am) | 45 | 357 | 12.6 | /mnt/stockage/packages/f25/libgnomecanvas/po/am.po | 
+ | [br](/f25/language/br) | 30 | 378 | 7.9 | /mnt/stockage/packages/f25/libgnomecanvas/po/br.po | 
+ | [oc](/f25/language/oc) | 29 | 378 | 7.7 | /mnt/stockage/packages/f25/libgnomecanvas/po/oc.po | 
+ | [rw](/f25/language/rw) | 23 | 357 | 6.4 | /mnt/stockage/packages/f25/libgnomecanvas/po/rw.po | 
+ | [ku](/f25/language/ku) | 16 | 357 | 4.5 | /mnt/stockage/packages/f25/libgnomecanvas/po/ku.po | 
+ | [ang](/f25/language/ang) | 14 | 357 | 3.9 | /mnt/stockage/packages/f25/libgnomecanvas/po/ang.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [maliit-keyboard]({{< ref "/f37/package/maliit-keyboard.md" >}}) | 66 | 81 | 81.5 |  | 
- | [enlightenment]({{< ref "/f37/package/enlightenment.md" >}}) | 1549 | 9053 | 17.1 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
- | [calamares]({{< ref "/f37/package/calamares.md" >}}) | 0 | 29 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
+ | [maliit-keyboard](/f37/package/maliit-keyboard) | 66 | 81 | 81.5 |  | 
+ | [enlightenment](/f37/package/enlightenment) | 1549 | 9053 | 17.1 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [calamares](/f37/package/calamares) | 0 | 29 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
 {.sortable}
 
 

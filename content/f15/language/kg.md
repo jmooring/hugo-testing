@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bzflag]({{< ref "/f15/package/bzflag.md" >}}) | 97 | 97 | 100.0 |  | 
- | [gnome-desktop3]({{< ref "/f15/package/gnome-desktop3.md" >}}) | 384 | 384 | 100.0 | Kikongo, kg <lundombe01@zaya-dio.com> | 
- | [gnome-menus]({{< ref "/f15/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
- | [gtk3]({{< ref "/f15/package/gtk3.md" >}}) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
- | [mingw-gtk3]({{< ref "/f15/package/mingw-gtk3.md" >}}) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
- | [pootle]({{< ref "/f15/package/pootle.md" >}}) | 39 | 2424 | 1.6 | LANGUAGE <LL@li.org> | 
+ | [bzflag](/f15/package/bzflag) | 97 | 97 | 100.0 |  | 
+ | [gnome-desktop3](/f15/package/gnome-desktop3) | 384 | 384 | 100.0 | Kikongo, kg <lundombe01@zaya-dio.com> | 
+ | [gnome-menus](/f15/package/gnome-menus) | 125 | 125 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [gtk3](/f15/package/gtk3) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
+ | [mingw-gtk3](/f15/package/mingw-gtk3) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
+ | [pootle](/f15/package/pootle) | 39 | 2424 | 1.6 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -55,7 +55,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [bzflag]({{< ref "/f15/package/bzflag.md" >}}) | /mnt/stockage/packages/f15/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
+ | [bzflag](/f15/package/bzflag) | /mnt/stockage/packages/f15/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
 {.sortable}
 
 

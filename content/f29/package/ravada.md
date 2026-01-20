@@ -18,16 +18,16 @@ The package ravada (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/fr.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 508 | 508 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/hi.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/ja.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 986 | 987 | 99.9 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/vi.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 2436 | 3444 | 70.7 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/pt.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/ca.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 17 | 945 | 1.8 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 0 | 945 | 0.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/zh_TW.po | 
+ | [es](/f29/language/es) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/es.po | 
+ | [fr](/f29/language/fr) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/fr.po | 
+ | [hi](/f29/language/hi) | 508 | 508 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/hi.po | 
+ | [id](/f29/language/id) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/id.po | 
+ | [it](/f29/language/it) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/it.po | 
+ | [ja](/f29/language/ja) | 986 | 986 | 100.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/ja.po | 
+ | [vi](/f29/language/vi) | 986 | 987 | 99.9 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/vi.po | 
+ | [ca](/f29/language/ca) | 2436 | 3444 | 70.7 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/pt.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/ca.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 17 | 945 | 1.8 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 0 | 945 | 0.0 | /mnt/stockage/packages/f29/ravada/lib/Ravada/I18N/zh_TW.po | 
 {.sortable}
 
 

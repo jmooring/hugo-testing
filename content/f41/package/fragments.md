@@ -18,50 +18,50 @@ The package fragments (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f41/language/be.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f41/fragments/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f41/fragments/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f41/fragments/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fur.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 789 | 789 | 100.0 | /mnt/stockage/packages/f41/fragments/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f41/fragments/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ja.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ko.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 719 | 719 | 100.0 | /mnt/stockage/packages/f41/fragments/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 709 | 709 | 100.0 | /mnt/stockage/packages/f41/fragments/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ru.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f41/fragments/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f41/fragments/po/zh_TW.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 557 | 673 | 82.8 | /mnt/stockage/packages/f41/fragments/po/el.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 419 | 651 | 64.4 | /mnt/stockage/packages/f41/fragments/po/ie.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 62 | 119 | 52.1 | /mnt/stockage/packages/f41/fragments/po/nb.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 433 | 848 | 51.1 | /mnt/stockage/packages/f41/fragments/po/oc.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 319 | 673 | 47.4 | /mnt/stockage/packages/f41/fragments/po/sk.po | 
+ | [be](/f41/language/be) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/be.po | 
+ | [bg](/f41/language/bg) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/bg.po | 
+ | [ca](/f41/language/ca) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ca.po | 
+ | [cs](/f41/language/cs) | 799 | 799 | 100.0 | /mnt/stockage/packages/f41/fragments/po/cs.po | 
+ | [da](/f41/language/da) | 799 | 799 | 100.0 | /mnt/stockage/packages/f41/fragments/po/da.po | 
+ | [de](/f41/language/de) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 244 | 244 | 100.0 | /mnt/stockage/packages/f41/fragments/po/eo.po | 
+ | [es](/f41/language/es) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/es.po | 
+ | [eu](/f41/language/eu) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/eu.po | 
+ | [fa](/f41/language/fa) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fa.po | 
+ | [fi](/f41/language/fi) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fi.po | 
+ | [fr](/f41/language/fr) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fr.po | 
+ | [fur](/f41/language/fur) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/fur.po | 
+ | [gl](/f41/language/gl) | 789 | 789 | 100.0 | /mnt/stockage/packages/f41/fragments/po/gl.po | 
+ | [he](/f41/language/he) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/he.po | 
+ | [hi](/f41/language/hi) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/hi.po | 
+ | [hr](/f41/language/hr) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/hr.po | 
+ | [hu](/f41/language/hu) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/hu.po | 
+ | [id](/f41/language/id) | 799 | 799 | 100.0 | /mnt/stockage/packages/f41/fragments/po/id.po | 
+ | [is](/f41/language/is) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/is.po | 
+ | [it](/f41/language/it) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/it.po | 
+ | [ja](/f41/language/ja) | 258 | 258 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ja.po | 
+ | [ka](/f41/language/ka) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ka.po | 
+ | [ko](/f41/language/ko) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ko.po | 
+ | [nl](/f41/language/nl) | 719 | 719 | 100.0 | /mnt/stockage/packages/f41/fragments/po/nl.po | 
+ | [pl](/f41/language/pl) | 709 | 709 | 100.0 | /mnt/stockage/packages/f41/fragments/po/pl.po | 
+ | [pt](/f41/language/pt) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 786 | 786 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ro.po | 
+ | [ru](/f41/language/ru) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/ru.po | 
+ | [sl](/f41/language/sl) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/sl.po | 
+ | [sr](/f41/language/sr) | 717 | 717 | 100.0 | /mnt/stockage/packages/f41/fragments/po/sr.po | 
+ | [sv](/f41/language/sv) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/sv.po | 
+ | [tr](/f41/language/tr) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/tr.po | 
+ | [uk](/f41/language/uk) | 848 | 848 | 100.0 | /mnt/stockage/packages/f41/fragments/po/uk.po | 
+ | [vi](/f41/language/vi) | 673 | 673 | 100.0 | /mnt/stockage/packages/f41/fragments/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 850 | 850 | 100.0 | /mnt/stockage/packages/f41/fragments/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 258 | 258 | 100.0 | /mnt/stockage/packages/f41/fragments/po/zh_TW.po | 
+ | [el](/f41/language/el) | 557 | 673 | 82.8 | /mnt/stockage/packages/f41/fragments/po/el.po | 
+ | [ie](/f41/language/ie) | 419 | 651 | 64.4 | /mnt/stockage/packages/f41/fragments/po/ie.po | 
+ | [nb_NO](/f41/language/nb_NO) | 62 | 119 | 52.1 | /mnt/stockage/packages/f41/fragments/po/nb.po | 
+ | [oc](/f41/language/oc) | 433 | 848 | 51.1 | /mnt/stockage/packages/f41/fragments/po/oc.po | 
+ | [sk](/f41/language/sk) | 319 | 673 | 47.4 | /mnt/stockage/packages/f41/fragments/po/sk.po | 
 {.sortable}
 
 

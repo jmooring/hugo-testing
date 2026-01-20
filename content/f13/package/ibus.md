@@ -18,36 +18,36 @@ The package ibus (version 1.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/bn_IN.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/fr.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/gu.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/hi.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ja.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/kn.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ko.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ml.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/mr.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/or.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ru.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ta.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/te.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/zh_TW.po | 
- | [as]({{< ref "/f13/language/as.md" >}}) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/as.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/pl.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f13/language/zh_Hant_HK.md" >}}) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/zh_HK.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 327 | 584 | 56.0 | /mnt/stockage/packages/f13/ibus/po/ca.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 181 | 584 | 31.0 | /mnt/stockage/packages/f13/ibus/po/da.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 162 | 584 | 27.7 | /mnt/stockage/packages/f13/ibus/po/hu.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 150 | 584 | 25.7 | /mnt/stockage/packages/f13/ibus/po/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 150 | 584 | 25.7 | /mnt/stockage/packages/f13/ibus/po/sr@latin.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 134 | 584 | 22.9 | /mnt/stockage/packages/f13/ibus/po/ar.po | 
+ | [bn_IN](/f13/language/bn_IN) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/bn_IN.po | 
+ | [de](/f13/language/de) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/de.po | 
+ | [es](/f13/language/es) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/es.po | 
+ | [fr](/f13/language/fr) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/fr.po | 
+ | [gu](/f13/language/gu) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/gu.po | 
+ | [hi](/f13/language/hi) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/hi.po | 
+ | [it](/f13/language/it) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/it.po | 
+ | [ja](/f13/language/ja) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ja.po | 
+ | [kn](/f13/language/kn) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/kn.po | 
+ | [ko](/f13/language/ko) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ko.po | 
+ | [ml](/f13/language/ml) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ml.po | 
+ | [mr](/f13/language/mr) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/mr.po | 
+ | [or](/f13/language/or) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/or.po | 
+ | [pt_BR](/f13/language/pt_BR) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ru.po | 
+ | [ta](/f13/language/ta) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/ta.po | 
+ | [te](/f13/language/te) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/te.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 584 | 584 | 100.0 | /mnt/stockage/packages/f13/ibus/po/zh_TW.po | 
+ | [as](/f13/language/as) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/as.po | 
+ | [pa](/f13/language/pa) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/pa.po | 
+ | [pl](/f13/language/pl) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/pl.po | 
+ | [vi](/f13/language/vi) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/vi.po | 
+ | [zh_Hant_HK](/f13/language/zh_Hant_HK) | 534 | 584 | 91.4 | /mnt/stockage/packages/f13/ibus/po/zh_HK.po | 
+ | [ca](/f13/language/ca) | 327 | 584 | 56.0 | /mnt/stockage/packages/f13/ibus/po/ca.po | 
+ | [da](/f13/language/da) | 181 | 584 | 31.0 | /mnt/stockage/packages/f13/ibus/po/da.po | 
+ | [hu](/f13/language/hu) | 162 | 584 | 27.7 | /mnt/stockage/packages/f13/ibus/po/hu.po | 
+ | [sr](/f13/language/sr) | 150 | 584 | 25.7 | /mnt/stockage/packages/f13/ibus/po/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 150 | 584 | 25.7 | /mnt/stockage/packages/f13/ibus/po/sr@latin.po | 
+ | [ar](/f13/language/ar) | 134 | 584 | 22.9 | /mnt/stockage/packages/f13/ibus/po/ar.po | 
 {.sortable}
 
 

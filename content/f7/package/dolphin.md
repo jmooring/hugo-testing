@@ -18,15 +18,15 @@ The package dolphin (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/dolphin/po/de.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/dolphin/po/et.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/dolphin/po/pl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 377 | 445 | 84.7 | /mnt/stockage/packages/f7/dolphin/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 376 | 445 | 84.5 | /mnt/stockage/packages/f7/dolphin/po/ru.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 360 | 445 | 80.9 | /mnt/stockage/packages/f7/dolphin/po/it.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 338 | 445 | 76.0 | /mnt/stockage/packages/f7/dolphin/po/he.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 243 | 445 | 54.6 | /mnt/stockage/packages/f7/dolphin/po/es.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 5 | 445 | 1.1 | /mnt/stockage/packages/f7/dolphin/po/dolphin.po | 
+ | [de](/f7/language/de) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/dolphin/po/de.po | 
+ | [et](/f7/language/et) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/dolphin/po/et.po | 
+ | [pl](/f7/language/pl) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/dolphin/po/pl.po | 
+ | [fr](/f7/language/fr) | 377 | 445 | 84.7 | /mnt/stockage/packages/f7/dolphin/po/fr.po | 
+ | [ru](/f7/language/ru) | 376 | 445 | 84.5 | /mnt/stockage/packages/f7/dolphin/po/ru.po | 
+ | [it](/f7/language/it) | 360 | 445 | 80.9 | /mnt/stockage/packages/f7/dolphin/po/it.po | 
+ | [he](/f7/language/he) | 338 | 445 | 76.0 | /mnt/stockage/packages/f7/dolphin/po/he.po | 
+ | [es](/f7/language/es) | 243 | 445 | 54.6 | /mnt/stockage/packages/f7/dolphin/po/es.po | 
+ | [error](/f7/language/error) | 5 | 445 | 1.1 | /mnt/stockage/packages/f7/dolphin/po/dolphin.po | 
 {.sortable}
 
 

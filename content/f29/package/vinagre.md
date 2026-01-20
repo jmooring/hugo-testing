@@ -18,82 +18,82 @@ The package vinagre (version 3.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ast.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 1473 | 1473 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/be.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 938 | 938 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/be@latin.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 1599 | 1599 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bn_IN.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ca.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/cs/cs.po/mnt/stockage/packages/f29/vinagre/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/de/de.po/mnt/stockage/packages/f29/vinagre/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/el/el.po/mnt/stockage/packages/f29/vinagre/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/en_GB.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 1599 | 1599 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/en@shaw.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/es/es.po/mnt/stockage/packages/f29/vinagre/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 1445 | 1445 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 3201 | 3201 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/eu/eu.po/mnt/stockage/packages/f29/vinagre/po/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/fi.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/fur.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 2498 | 2498 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/gl/gl.po/mnt/stockage/packages/f29/vinagre/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/hi.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/hu/hu.po/mnt/stockage/packages/f29/vinagre/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/id/id.po/mnt/stockage/packages/f29/vinagre/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ja.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/lv/lv.po/mnt/stockage/packages/f29/vinagre/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 1430 | 1430 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/mr.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/nn.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/oc.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 2541 | 2541 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/vinagre/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 2520 | 2520 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/ru/ru.po/mnt/stockage/packages/f29/vinagre/po/ru.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 426 | 426 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/si.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 2515 | 2515 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/sl/sl.po/mnt/stockage/packages/f29/vinagre/po/sl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sq.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/sv/sv.po/mnt/stockage/packages/f29/vinagre/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 2498 | 2498 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/zh_CN/zh_CN.po/mnt/stockage/packages/f29/vinagre/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/zh_HK.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 1429 | 1430 | 99.9 | /mnt/stockage/packages/f29/vinagre/po/ug.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2537 | 2541 | 99.8 | /mnt/stockage/packages/f29/vinagre/help/fr/fr.po/mnt/stockage/packages/f29/vinagre/po/fr.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 1374 | 1507 | 91.2 | /mnt/stockage/packages/f29/vinagre/po/ar.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 1373 | 1507 | 91.1 | /mnt/stockage/packages/f29/vinagre/po/ro.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 1850 | 2520 | 73.4 | /mnt/stockage/packages/f29/vinagre/help/fa/fa.po/mnt/stockage/packages/f29/vinagre/po/fa.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 721 | 1507 | 47.8 | /mnt/stockage/packages/f29/vinagre/po/is.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 517 | 1510 | 34.2 | /mnt/stockage/packages/f29/vinagre/po/kk.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 340 | 1507 | 22.6 | /mnt/stockage/packages/f29/vinagre/po/ne.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 296 | 1419 | 20.9 | /mnt/stockage/packages/f29/vinagre/po/eo.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 210 | 1166 | 18.0 | /mnt/stockage/packages/f29/vinagre/po/ga.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 191 | 1624 | 11.8 | /mnt/stockage/packages/f29/vinagre/po/ms.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 111 | 1164 | 9.5 | /mnt/stockage/packages/f29/vinagre/po/mai.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 20 | 440 | 4.5 | /mnt/stockage/packages/f29/vinagre/po/ku.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 47 | 1430 | 3.3 | /mnt/stockage/packages/f29/vinagre/po/tg.po | 
+ | [as](/f29/language/as) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/as.po | 
+ | [ast](/f29/language/ast) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ast.po | 
+ | [be](/f29/language/be) | 1473 | 1473 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/be.po | 
+ | [be_Latn](/f29/language/be_Latn) | 938 | 938 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/be@latin.po | 
+ | [bg](/f29/language/bg) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bg.po | 
+ | [bn](/f29/language/bn) | 1599 | 1599 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bn_IN.po | 
+ | [bs](/f29/language/bs) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/bs.po | 
+ | [ca](/f29/language/ca) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ca.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/cs/cs.po/mnt/stockage/packages/f29/vinagre/po/cs.po | 
+ | [da](/f29/language/da) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/da.po | 
+ | [de](/f29/language/de) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/de/de.po/mnt/stockage/packages/f29/vinagre/po/de.po | 
+ | [el](/f29/language/el) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/el/el.po/mnt/stockage/packages/f29/vinagre/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/en_GB.po | 
+ | [error](/f29/language/error) | 1599 | 1599 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/en@shaw.po | 
+ | [es](/f29/language/es) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/es/es.po/mnt/stockage/packages/f29/vinagre/po/es.po | 
+ | [et](/f29/language/et) | 1445 | 1445 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/et.po | 
+ | [eu](/f29/language/eu) | 3201 | 3201 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/eu/eu.po/mnt/stockage/packages/f29/vinagre/po/eu.po | 
+ | [fi](/f29/language/fi) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/fi.po | 
+ | [fur](/f29/language/fur) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/fur.po | 
+ | [gl](/f29/language/gl) | 2498 | 2498 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/gl/gl.po/mnt/stockage/packages/f29/vinagre/po/gl.po | 
+ | [gu](/f29/language/gu) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/gu.po | 
+ | [he](/f29/language/he) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/he.po | 
+ | [hi](/f29/language/hi) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/hi.po | 
+ | [hu](/f29/language/hu) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/hu/hu.po/mnt/stockage/packages/f29/vinagre/po/hu.po | 
+ | [id](/f29/language/id) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/id/id.po/mnt/stockage/packages/f29/vinagre/po/id.po | 
+ | [it](/f29/language/it) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/it.po | 
+ | [ja](/f29/language/ja) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ja.po | 
+ | [kn](/f29/language/kn) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/kn.po | 
+ | [ko](/f29/language/ko) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ko.po | 
+ | [lt](/f29/language/lt) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/lt.po | 
+ | [lv](/f29/language/lv) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/lv/lv.po/mnt/stockage/packages/f29/vinagre/po/lv.po | 
+ | [mk](/f29/language/mk) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/mk.po | 
+ | [ml](/f29/language/ml) | 1430 | 1430 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ml.po | 
+ | [mr](/f29/language/mr) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/mr.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/nb.po | 
+ | [nl](/f29/language/nl) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/nl.po | 
+ | [nn](/f29/language/nn) | 452 | 452 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/nn.po | 
+ | [oc](/f29/language/oc) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/oc.po | 
+ | [or](/f29/language/or) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/or.po | 
+ | [pa](/f29/language/pa) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/pa.po | 
+ | [pl](/f29/language/pl) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/pl.po | 
+ | [pt](/f29/language/pt) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 2541 | 2541 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/vinagre/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 2520 | 2520 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/ru/ru.po/mnt/stockage/packages/f29/vinagre/po/ru.po | 
+ | [si](/f29/language/si) | 426 | 426 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/si.po | 
+ | [sk](/f29/language/sk) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sk.po | 
+ | [sl](/f29/language/sl) | 2515 | 2515 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/sl/sl.po/mnt/stockage/packages/f29/vinagre/po/sl.po | 
+ | [sq](/f29/language/sq) | 730 | 730 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sq.po | 
+ | [sr](/f29/language/sr) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 2540 | 2540 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/sv/sv.po/mnt/stockage/packages/f29/vinagre/po/sv.po | 
+ | [ta](/f29/language/ta) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/ta.po | 
+ | [te](/f29/language/te) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/te.po | 
+ | [th](/f29/language/th) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/th.po | 
+ | [tr](/f29/language/tr) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/tr.po | 
+ | [uk](/f29/language/uk) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/uk.po | 
+ | [vi](/f29/language/vi) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 2498 | 2498 | 100.0 | /mnt/stockage/packages/f29/vinagre/help/zh_CN/zh_CN.po/mnt/stockage/packages/f29/vinagre/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f29/vinagre/po/zh_HK.po | 
+ | [ug](/f29/language/ug) | 1429 | 1430 | 99.9 | /mnt/stockage/packages/f29/vinagre/po/ug.po | 
+ | [fr](/f29/language/fr) | 2537 | 2541 | 99.8 | /mnt/stockage/packages/f29/vinagre/help/fr/fr.po/mnt/stockage/packages/f29/vinagre/po/fr.po | 
+ | [ar](/f29/language/ar) | 1374 | 1507 | 91.2 | /mnt/stockage/packages/f29/vinagre/po/ar.po | 
+ | [ro](/f29/language/ro) | 1373 | 1507 | 91.1 | /mnt/stockage/packages/f29/vinagre/po/ro.po | 
+ | [fa](/f29/language/fa) | 1850 | 2520 | 73.4 | /mnt/stockage/packages/f29/vinagre/help/fa/fa.po/mnt/stockage/packages/f29/vinagre/po/fa.po | 
+ | [is](/f29/language/is) | 721 | 1507 | 47.8 | /mnt/stockage/packages/f29/vinagre/po/is.po | 
+ | [kk](/f29/language/kk) | 517 | 1510 | 34.2 | /mnt/stockage/packages/f29/vinagre/po/kk.po | 
+ | [ne](/f29/language/ne) | 340 | 1507 | 22.6 | /mnt/stockage/packages/f29/vinagre/po/ne.po | 
+ | [eo](/f29/language/eo) | 296 | 1419 | 20.9 | /mnt/stockage/packages/f29/vinagre/po/eo.po | 
+ | [ga](/f29/language/ga) | 210 | 1166 | 18.0 | /mnt/stockage/packages/f29/vinagre/po/ga.po | 
+ | [ms](/f29/language/ms) | 191 | 1624 | 11.8 | /mnt/stockage/packages/f29/vinagre/po/ms.po | 
+ | [mai](/f29/language/mai) | 111 | 1164 | 9.5 | /mnt/stockage/packages/f29/vinagre/po/mai.po | 
+ | [ku](/f29/language/ku) | 20 | 440 | 4.5 | /mnt/stockage/packages/f29/vinagre/po/ku.po | 
+ | [tg](/f29/language/tg) | 47 | 1430 | 3.3 | /mnt/stockage/packages/f29/vinagre/po/tg.po | 
 {.sortable}
 
 

@@ -18,91 +18,91 @@ The package imsettings (version 1.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f27/language/as.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/as.po | 
- | [bn_IN]({{< ref "/f27/language/bn_IN.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/bn_IN.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ca.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/fr.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/gu.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/hi.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ja.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/kn.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ko.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ml.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/mr.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/nl.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/or.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/pa.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/pl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ru.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ta.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/te.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/uk.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/zh_TW.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 363 | 456 | 79.6 | /mnt/stockage/packages/f27/imsettings/po/ast.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 363 | 456 | 79.6 | /mnt/stockage/packages/f27/imsettings/po/da.po | 
- | [ky]({{< ref "/f27/language/ky.md" >}}) | 336 | 456 | 73.7 | /mnt/stockage/packages/f27/imsettings/po/ky.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 202 | 456 | 44.3 | /mnt/stockage/packages/f27/imsettings/po/bg.po | 
- | [es_MX]({{< ref "/f27/language/es_MX.md" >}}) | 143 | 456 | 31.4 | /mnt/stockage/packages/f27/imsettings/po/es_MX.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 143 | 456 | 31.4 | /mnt/stockage/packages/f27/imsettings/po/nds.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 49 | 456 | 10.7 | /mnt/stockage/packages/f27/imsettings/po/fi.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 49 | 456 | 10.7 | /mnt/stockage/packages/f27/imsettings/po/sr.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 49 | 456 | 10.7 | /mnt/stockage/packages/f27/imsettings/po/sr@latin.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 20 | 456 | 4.4 | /mnt/stockage/packages/f27/imsettings/po/hu.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 20 | 456 | 4.4 | /mnt/stockage/packages/f27/imsettings/po/pt.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/af.po | 
- | [am]({{< ref "/f27/language/am.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/am.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ar.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/az.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/be.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/bn.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/bs.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/cs.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/cy.po | 
- | [de_CH]({{< ref "/f27/language/de_CH.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/de_CH.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/el.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/en_GB.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/eo.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/eu_ES.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/fa.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ga.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/gl.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/he.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/hr.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/hy.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/id.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/is.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ka.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ku.po | 
- | [la]({{< ref "/f27/language/la.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/la.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/lo.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/lt.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/lv.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/mk.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/mn.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ms.po | 
- | [my]({{< ref "/f27/language/my.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/my.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/nb.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/nn.po | 
- | [nso]({{< ref "/f27/language/nso.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/nso.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ro.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/si.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sl.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sq.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sv.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/th.po | 
- | [tl]({{< ref "/f27/language/tl.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/tl.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/tr.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ur.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/vi.po | 
- | [xh]({{< ref "/f27/language/xh.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/xh.po | 
- | [zu]({{< ref "/f27/language/zu.md" >}}) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/zu.po | 
+ | [as](/f27/language/as) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/as.po | 
+ | [bn_IN](/f27/language/bn_IN) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/bn_IN.po | 
+ | [ca](/f27/language/ca) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ca.po | 
+ | [de](/f27/language/de) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/de.po | 
+ | [es](/f27/language/es) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/es.po | 
+ | [fr](/f27/language/fr) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/fr.po | 
+ | [gu](/f27/language/gu) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/gu.po | 
+ | [hi](/f27/language/hi) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/hi.po | 
+ | [it](/f27/language/it) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/it.po | 
+ | [ja](/f27/language/ja) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ja.po | 
+ | [kn](/f27/language/kn) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/kn.po | 
+ | [ko](/f27/language/ko) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ko.po | 
+ | [ml](/f27/language/ml) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ml.po | 
+ | [mr](/f27/language/mr) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/mr.po | 
+ | [nl](/f27/language/nl) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/nl.po | 
+ | [or](/f27/language/or) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/or.po | 
+ | [pa](/f27/language/pa) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/pa.po | 
+ | [pl](/f27/language/pl) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/pl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ru.po | 
+ | [ta](/f27/language/ta) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/ta.po | 
+ | [te](/f27/language/te) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/te.po | 
+ | [uk](/f27/language/uk) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/uk.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 440 | 456 | 96.5 | /mnt/stockage/packages/f27/imsettings/po/zh_TW.po | 
+ | [ast](/f27/language/ast) | 363 | 456 | 79.6 | /mnt/stockage/packages/f27/imsettings/po/ast.po | 
+ | [da](/f27/language/da) | 363 | 456 | 79.6 | /mnt/stockage/packages/f27/imsettings/po/da.po | 
+ | [ky](/f27/language/ky) | 336 | 456 | 73.7 | /mnt/stockage/packages/f27/imsettings/po/ky.po | 
+ | [bg](/f27/language/bg) | 202 | 456 | 44.3 | /mnt/stockage/packages/f27/imsettings/po/bg.po | 
+ | [es_MX](/f27/language/es_MX) | 143 | 456 | 31.4 | /mnt/stockage/packages/f27/imsettings/po/es_MX.po | 
+ | [nds](/f27/language/nds) | 143 | 456 | 31.4 | /mnt/stockage/packages/f27/imsettings/po/nds.po | 
+ | [fi](/f27/language/fi) | 49 | 456 | 10.7 | /mnt/stockage/packages/f27/imsettings/po/fi.po | 
+ | [sr](/f27/language/sr) | 49 | 456 | 10.7 | /mnt/stockage/packages/f27/imsettings/po/sr.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 49 | 456 | 10.7 | /mnt/stockage/packages/f27/imsettings/po/sr@latin.po | 
+ | [hu](/f27/language/hu) | 20 | 456 | 4.4 | /mnt/stockage/packages/f27/imsettings/po/hu.po | 
+ | [pt](/f27/language/pt) | 20 | 456 | 4.4 | /mnt/stockage/packages/f27/imsettings/po/pt.po | 
+ | [af](/f27/language/af) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/af.po | 
+ | [am](/f27/language/am) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/am.po | 
+ | [ar](/f27/language/ar) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ar.po | 
+ | [az](/f27/language/az) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/az.po | 
+ | [be](/f27/language/be) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/be.po | 
+ | [bn](/f27/language/bn) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/bn.po | 
+ | [bs](/f27/language/bs) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/bs.po | 
+ | [cs](/f27/language/cs) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/cs.po | 
+ | [cy](/f27/language/cy) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/cy.po | 
+ | [de_CH](/f27/language/de_CH) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/de_CH.po | 
+ | [el](/f27/language/el) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/el.po | 
+ | [en_GB](/f27/language/en_GB) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/en_GB.po | 
+ | [eo](/f27/language/eo) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/eo.po | 
+ | [et](/f27/language/et) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/et.po | 
+ | [eu](/f27/language/eu) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/eu_ES.po | 
+ | [fa](/f27/language/fa) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/fa.po | 
+ | [ga](/f27/language/ga) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ga.po | 
+ | [gl](/f27/language/gl) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/gl.po | 
+ | [he](/f27/language/he) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/he.po | 
+ | [hr](/f27/language/hr) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/hr.po | 
+ | [hy](/f27/language/hy) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/hy.po | 
+ | [id](/f27/language/id) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/id.po | 
+ | [is](/f27/language/is) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/is.po | 
+ | [ka](/f27/language/ka) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ka.po | 
+ | [ku](/f27/language/ku) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ku.po | 
+ | [la](/f27/language/la) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/la.po | 
+ | [lo](/f27/language/lo) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/lo.po | 
+ | [lt](/f27/language/lt) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/lt.po | 
+ | [lv](/f27/language/lv) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/lv.po | 
+ | [mk](/f27/language/mk) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/mk.po | 
+ | [mn](/f27/language/mn) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/mn.po | 
+ | [ms](/f27/language/ms) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ms.po | 
+ | [my](/f27/language/my) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/my.po | 
+ | [nb_NO](/f27/language/nb_NO) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/nb.po | 
+ | [nn](/f27/language/nn) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/nn.po | 
+ | [nso](/f27/language/nso) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/nso.po | 
+ | [ro](/f27/language/ro) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ro.po | 
+ | [si](/f27/language/si) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/si.po | 
+ | [sk](/f27/language/sk) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sk.po | 
+ | [sl](/f27/language/sl) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sl.po | 
+ | [sq](/f27/language/sq) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sq.po | 
+ | [sv](/f27/language/sv) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/sv.po | 
+ | [th](/f27/language/th) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/th.po | 
+ | [tl](/f27/language/tl) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/tl.po | 
+ | [tr](/f27/language/tr) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/tr.po | 
+ | [ur](/f27/language/ur) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/ur.po | 
+ | [vi](/f27/language/vi) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/vi.po | 
+ | [xh](/f27/language/xh) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/xh.po | 
+ | [zu](/f27/language/zu) | 0 | 456 | 0.0 | /mnt/stockage/packages/f27/imsettings/po/zu.po | 
 {.sortable}
 
 

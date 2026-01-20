@@ -18,11 +18,11 @@ The package kernel-tools (version 4.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/fr.po | 
+ | [de](/f26/language/de) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/de.po | 
+ | [it](/f26/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/it.po | 
+ | [pt](/f26/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/pt.po | 
+ | [cs](/f26/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/cs.po | 
+ | [fr](/f26/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f26/kernel-tools/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

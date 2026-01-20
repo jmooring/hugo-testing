@@ -18,11 +18,11 @@ The package kmetronome (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f20/kmetronome/po/es.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/fr.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/tr.po | 
+ | [es](/f20/language/es) | 673 | 673 | 100.0 | /mnt/stockage/packages/f20/kmetronome/po/es.po | 
+ | [cs](/f20/language/cs) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/cs.po | 
+ | [de](/f20/language/de) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/de.po | 
+ | [fr](/f20/language/fr) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/fr.po | 
+ | [tr](/f20/language/tr) | 670 | 673 | 99.6 | /mnt/stockage/packages/f20/kmetronome/po/tr.po | 
 {.sortable}
 
 

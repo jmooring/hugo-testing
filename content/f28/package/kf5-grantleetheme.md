@@ -18,46 +18,46 @@ The package kf5-grantleetheme (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ca/libgrantleetheme.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ca@valencia/libgrantleetheme.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/de/libgrantleetheme.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/en_GB/libgrantleetheme.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/es/libgrantleetheme.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/fi/libgrantleetheme.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/fr/libgrantleetheme.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/gl/libgrantleetheme.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/it/libgrantleetheme.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ko/libgrantleetheme.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/nl/libgrantleetheme.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/pl/libgrantleetheme.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/pt/libgrantleetheme.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/pt_BR/libgrantleetheme.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ru/libgrantleetheme.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sk/libgrantleetheme.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sl/libgrantleetheme.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sr/libgrantleetheme.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sv/libgrantleetheme.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/tr/libgrantleetheme.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/uk/libgrantleetheme.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/zh_CN/libgrantleetheme.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ar/libgrantleetheme.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/da/libgrantleetheme.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/et/libgrantleetheme.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 8 | 14 | 57.1 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/cs/libgrantleetheme.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 4 | 14 | 28.6 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/nb/libgrantleetheme.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/bg/libgrantleetheme.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/bs/libgrantleetheme.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/el/libgrantleetheme.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/hu/libgrantleetheme.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ia/libgrantleetheme.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/kk/libgrantleetheme.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/nds/libgrantleetheme.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ro/libgrantleetheme.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/zh_TW/libgrantleetheme.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 2 | 14 | 14.3 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ast/libgrantleetheme.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ja/libgrantleetheme.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/lt/libgrantleetheme.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ug/libgrantleetheme.po | 
+ | [ca](/f28/language/ca) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ca/libgrantleetheme.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ca@valencia/libgrantleetheme.po | 
+ | [de](/f28/language/de) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/de/libgrantleetheme.po | 
+ | [en_GB](/f28/language/en_GB) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/en_GB/libgrantleetheme.po | 
+ | [es](/f28/language/es) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/es/libgrantleetheme.po | 
+ | [fi](/f28/language/fi) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/fi/libgrantleetheme.po | 
+ | [fr](/f28/language/fr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/fr/libgrantleetheme.po | 
+ | [gl](/f28/language/gl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/gl/libgrantleetheme.po | 
+ | [it](/f28/language/it) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/it/libgrantleetheme.po | 
+ | [ko](/f28/language/ko) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ko/libgrantleetheme.po | 
+ | [nl](/f28/language/nl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/nl/libgrantleetheme.po | 
+ | [pl](/f28/language/pl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/pl/libgrantleetheme.po | 
+ | [pt](/f28/language/pt) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/pt/libgrantleetheme.po | 
+ | [pt_BR](/f28/language/pt_BR) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/pt_BR/libgrantleetheme.po | 
+ | [ru](/f28/language/ru) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ru/libgrantleetheme.po | 
+ | [sk](/f28/language/sk) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sk/libgrantleetheme.po | 
+ | [sl](/f28/language/sl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sl/libgrantleetheme.po | 
+ | [sr](/f28/language/sr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sr/libgrantleetheme.po | 
+ | [sv](/f28/language/sv) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/sv/libgrantleetheme.po | 
+ | [tr](/f28/language/tr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/tr/libgrantleetheme.po | 
+ | [uk](/f28/language/uk) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/uk/libgrantleetheme.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 14 | 14 | 100.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/zh_CN/libgrantleetheme.po | 
+ | [ar](/f28/language/ar) | 12 | 14 | 85.7 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ar/libgrantleetheme.po | 
+ | [da](/f28/language/da) | 12 | 14 | 85.7 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/da/libgrantleetheme.po | 
+ | [et](/f28/language/et) | 12 | 14 | 85.7 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/et/libgrantleetheme.po | 
+ | [cs](/f28/language/cs) | 8 | 14 | 57.1 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/cs/libgrantleetheme.po | 
+ | [nb_NO](/f28/language/nb_NO) | 4 | 14 | 28.6 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/nb/libgrantleetheme.po | 
+ | [bg](/f28/language/bg) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/bg/libgrantleetheme.po | 
+ | [bs](/f28/language/bs) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/bs/libgrantleetheme.po | 
+ | [el](/f28/language/el) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/el/libgrantleetheme.po | 
+ | [hu](/f28/language/hu) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/hu/libgrantleetheme.po | 
+ | [ia](/f28/language/ia) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ia/libgrantleetheme.po | 
+ | [kk](/f28/language/kk) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/kk/libgrantleetheme.po | 
+ | [nds](/f28/language/nds) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/nds/libgrantleetheme.po | 
+ | [ro](/f28/language/ro) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ro/libgrantleetheme.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 3 | 14 | 21.4 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/zh_TW/libgrantleetheme.po | 
+ | [ast](/f28/language/ast) | 2 | 14 | 14.3 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ast/libgrantleetheme.po | 
+ | [ja](/f28/language/ja) | 0 | 14 | 0.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ja/libgrantleetheme.po | 
+ | [lt](/f28/language/lt) | 0 | 14 | 0.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/lt/libgrantleetheme.po | 
+ | [ug](/f28/language/ug) | 0 | 14 | 0.0 | /mnt/stockage/packages/f28/kf5-grantleetheme/po/ug/libgrantleetheme.po | 
 {.sortable}
 
 

@@ -18,60 +18,60 @@ The package libktorrent (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/bs/libktorrent.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/cs/libktorrent.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/da/libktorrent.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/de/libktorrent.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/el/libktorrent.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/es/libktorrent.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/et/libktorrent.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/fi/libktorrent.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/fr/libktorrent.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/gl/libktorrent.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/hu/libktorrent.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/it/libktorrent.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/km/libktorrent.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/lt/libktorrent.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/lv/libktorrent.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/nb/libktorrent.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/nds/libktorrent.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/nl/libktorrent.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/pl/libktorrent.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/pt/libktorrent.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/pt_BR/libktorrent.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sk/libktorrent.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr/libktorrent.po | 
- | [sr@ijekavian]({{< ref "/f30/language/sr@ijekavian.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr@ijekavian/libktorrent.po | 
- | [sr@ijekavian_Latn]({{< ref "/f30/language/sr@ijekavian_Latn.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr@ijekavianlatin/libktorrent.po | 
- | [sr_Latn]({{< ref "/f30/language/sr_Latn.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr@latin/libktorrent.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sv/libktorrent.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/uk/libktorrent.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/zh_CN/libktorrent.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/zh_TW/libktorrent.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 1033 | 1038 | 99.5 | /mnt/stockage/packages/f30/libktorrent/po/ca@valencia/libktorrent.po/mnt/stockage/packages/f30/libktorrent/po/ca/libktorrent.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 507 | 519 | 97.7 | /mnt/stockage/packages/f30/libktorrent/po/ru/libktorrent.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 490 | 519 | 94.4 | /mnt/stockage/packages/f30/libktorrent/po/tr/libktorrent.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 461 | 519 | 88.8 | /mnt/stockage/packages/f30/libktorrent/po/ga/libktorrent.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 274 | 519 | 52.8 | /mnt/stockage/packages/f30/libktorrent/po/en_GB/libktorrent.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 261 | 519 | 50.3 | /mnt/stockage/packages/f30/libktorrent/po/sl/libktorrent.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 241 | 519 | 46.4 | /mnt/stockage/packages/f30/libktorrent/po/nn/libktorrent.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 235 | 519 | 45.3 | /mnt/stockage/packages/f30/libktorrent/po/ro/libktorrent.po | 
- | [ast]({{< ref "/f30/language/ast.md" >}}) | 231 | 519 | 44.5 | /mnt/stockage/packages/f30/libktorrent/po/ast/libktorrent.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 228 | 519 | 43.9 | /mnt/stockage/packages/f30/libktorrent/po/ja/libktorrent.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 114 | 519 | 22.0 | /mnt/stockage/packages/f30/libktorrent/po/eo/libktorrent.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 108 | 519 | 20.8 | /mnt/stockage/packages/f30/libktorrent/po/bg/libktorrent.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 77 | 519 | 14.8 | /mnt/stockage/packages/f30/libktorrent/po/eu/libktorrent.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 56 | 519 | 10.8 | /mnt/stockage/packages/f30/libktorrent/po/ug/libktorrent.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 70 | 1038 | 6.7 | /mnt/stockage/packages/f30/libktorrent/po/hi/libktorrent.po/mnt/stockage/packages/f30/libktorrent/po/hne/libktorrent.po | 
- | [ku]({{< ref "/f30/language/ku.md" >}}) | 30 | 519 | 5.8 | /mnt/stockage/packages/f30/libktorrent/po/ku/libktorrent.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 24 | 519 | 4.6 | /mnt/stockage/packages/f30/libktorrent/po/is/libktorrent.po | 
- | [oc]({{< ref "/f30/language/oc.md" >}}) | 8 | 519 | 1.5 | /mnt/stockage/packages/f30/libktorrent/po/oc/libktorrent.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 6 | 519 | 1.2 | /mnt/stockage/packages/f30/libktorrent/po/ms/libktorrent.po | 
- | [be]({{< ref "/f30/language/be.md" >}}) | 5 | 519 | 1.0 | /mnt/stockage/packages/f30/libktorrent/po/be/libktorrent.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 0 | 519 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/ar/libktorrent.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 0 | 514 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/hr/libktorrent.po | 
- | [se]({{< ref "/f30/language/se.md" >}}) | 0 | 519 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/se/libktorrent.po | 
- | [si]({{< ref "/f30/language/si.md" >}}) | 0 | 519 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/si/libktorrent.po | 
+ | [bs](/f30/language/bs) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/bs/libktorrent.po | 
+ | [cs](/f30/language/cs) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/cs/libktorrent.po | 
+ | [da](/f30/language/da) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/da/libktorrent.po | 
+ | [de](/f30/language/de) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/de/libktorrent.po | 
+ | [el](/f30/language/el) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/el/libktorrent.po | 
+ | [es](/f30/language/es) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/es/libktorrent.po | 
+ | [et](/f30/language/et) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/et/libktorrent.po | 
+ | [fi](/f30/language/fi) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/fi/libktorrent.po | 
+ | [fr](/f30/language/fr) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/fr/libktorrent.po | 
+ | [gl](/f30/language/gl) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/gl/libktorrent.po | 
+ | [hu](/f30/language/hu) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/hu/libktorrent.po | 
+ | [it](/f30/language/it) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/it/libktorrent.po | 
+ | [km](/f30/language/km) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/km/libktorrent.po | 
+ | [lt](/f30/language/lt) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/lt/libktorrent.po | 
+ | [lv](/f30/language/lv) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/lv/libktorrent.po | 
+ | [nb_NO](/f30/language/nb_NO) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/nb/libktorrent.po | 
+ | [nds](/f30/language/nds) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/nds/libktorrent.po | 
+ | [nl](/f30/language/nl) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/nl/libktorrent.po | 
+ | [pl](/f30/language/pl) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/pl/libktorrent.po | 
+ | [pt](/f30/language/pt) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/pt/libktorrent.po | 
+ | [pt_BR](/f30/language/pt_BR) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/pt_BR/libktorrent.po | 
+ | [sk](/f30/language/sk) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sk/libktorrent.po | 
+ | [sr](/f30/language/sr) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr/libktorrent.po | 
+ | [sr@ijekavian](/f30/language/sr@ijekavian) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr@ijekavian/libktorrent.po | 
+ | [sr@ijekavian_Latn](/f30/language/sr@ijekavian_Latn) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr@ijekavianlatin/libktorrent.po | 
+ | [sr_Latn](/f30/language/sr_Latn) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sr@latin/libktorrent.po | 
+ | [sv](/f30/language/sv) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/sv/libktorrent.po | 
+ | [uk](/f30/language/uk) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/uk/libktorrent.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/zh_CN/libktorrent.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 519 | 519 | 100.0 | /mnt/stockage/packages/f30/libktorrent/po/zh_TW/libktorrent.po | 
+ | [ca](/f30/language/ca) | 1033 | 1038 | 99.5 | /mnt/stockage/packages/f30/libktorrent/po/ca@valencia/libktorrent.po/mnt/stockage/packages/f30/libktorrent/po/ca/libktorrent.po | 
+ | [ru](/f30/language/ru) | 507 | 519 | 97.7 | /mnt/stockage/packages/f30/libktorrent/po/ru/libktorrent.po | 
+ | [tr](/f30/language/tr) | 490 | 519 | 94.4 | /mnt/stockage/packages/f30/libktorrent/po/tr/libktorrent.po | 
+ | [ga](/f30/language/ga) | 461 | 519 | 88.8 | /mnt/stockage/packages/f30/libktorrent/po/ga/libktorrent.po | 
+ | [en_GB](/f30/language/en_GB) | 274 | 519 | 52.8 | /mnt/stockage/packages/f30/libktorrent/po/en_GB/libktorrent.po | 
+ | [sl](/f30/language/sl) | 261 | 519 | 50.3 | /mnt/stockage/packages/f30/libktorrent/po/sl/libktorrent.po | 
+ | [nn](/f30/language/nn) | 241 | 519 | 46.4 | /mnt/stockage/packages/f30/libktorrent/po/nn/libktorrent.po | 
+ | [ro](/f30/language/ro) | 235 | 519 | 45.3 | /mnt/stockage/packages/f30/libktorrent/po/ro/libktorrent.po | 
+ | [ast](/f30/language/ast) | 231 | 519 | 44.5 | /mnt/stockage/packages/f30/libktorrent/po/ast/libktorrent.po | 
+ | [ja](/f30/language/ja) | 228 | 519 | 43.9 | /mnt/stockage/packages/f30/libktorrent/po/ja/libktorrent.po | 
+ | [eo](/f30/language/eo) | 114 | 519 | 22.0 | /mnt/stockage/packages/f30/libktorrent/po/eo/libktorrent.po | 
+ | [bg](/f30/language/bg) | 108 | 519 | 20.8 | /mnt/stockage/packages/f30/libktorrent/po/bg/libktorrent.po | 
+ | [eu](/f30/language/eu) | 77 | 519 | 14.8 | /mnt/stockage/packages/f30/libktorrent/po/eu/libktorrent.po | 
+ | [ug](/f30/language/ug) | 56 | 519 | 10.8 | /mnt/stockage/packages/f30/libktorrent/po/ug/libktorrent.po | 
+ | [hi](/f30/language/hi) | 70 | 1038 | 6.7 | /mnt/stockage/packages/f30/libktorrent/po/hi/libktorrent.po/mnt/stockage/packages/f30/libktorrent/po/hne/libktorrent.po | 
+ | [ku](/f30/language/ku) | 30 | 519 | 5.8 | /mnt/stockage/packages/f30/libktorrent/po/ku/libktorrent.po | 
+ | [is](/f30/language/is) | 24 | 519 | 4.6 | /mnt/stockage/packages/f30/libktorrent/po/is/libktorrent.po | 
+ | [oc](/f30/language/oc) | 8 | 519 | 1.5 | /mnt/stockage/packages/f30/libktorrent/po/oc/libktorrent.po | 
+ | [ms](/f30/language/ms) | 6 | 519 | 1.2 | /mnt/stockage/packages/f30/libktorrent/po/ms/libktorrent.po | 
+ | [be](/f30/language/be) | 5 | 519 | 1.0 | /mnt/stockage/packages/f30/libktorrent/po/be/libktorrent.po | 
+ | [ar](/f30/language/ar) | 0 | 519 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/ar/libktorrent.po | 
+ | [hr](/f30/language/hr) | 0 | 514 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/hr/libktorrent.po | 
+ | [se](/f30/language/se) | 0 | 519 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/se/libktorrent.po | 
+ | [si](/f30/language/si) | 0 | 519 | 0.0 | /mnt/stockage/packages/f30/libktorrent/po/si/libktorrent.po | 
 {.sortable}
 
 

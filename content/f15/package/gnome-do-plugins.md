@@ -18,44 +18,44 @@ The package gnome-do-plugins (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ca.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/en_CA.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/gl.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/it.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ko.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ru.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/tr.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/zh_CN.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 2295 | 2323 | 98.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/sv.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2276 | 2323 | 98.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/de.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 2264 | 2323 | 97.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/oc.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 2178 | 2323 | 93.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/nl.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 2146 | 2323 | 92.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/zh_TW.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 2067 | 2323 | 89.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/is.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 1894 | 2323 | 81.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/nb.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 1683 | 2323 | 72.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/da.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1655 | 2323 | 71.2 | /mnt/stockage/packages/f15/gnome-do-plugins/po/pt.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1178 | 2323 | 50.7 | /mnt/stockage/packages/f15/gnome-do-plugins/po/pl.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 1078 | 2323 | 46.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/sk.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 984 | 2323 | 42.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/cs.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 921 | 2323 | 39.6 | /mnt/stockage/packages/f15/gnome-do-plugins/po/fa.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 880 | 2323 | 37.9 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ast.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 825 | 2323 | 35.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/hr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 678 | 2323 | 29.2 | /mnt/stockage/packages/f15/gnome-do-plugins/po/hu.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 539 | 2323 | 23.2 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ja.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 459 | 2323 | 19.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/bg.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 442 | 2323 | 19.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ar.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 398 | 2323 | 17.1 | /mnt/stockage/packages/f15/gnome-do-plugins/po/vi.po | 
- | [tl]({{< ref "/f15/language/tl.md" >}}) | 272 | 2323 | 11.7 | /mnt/stockage/packages/f15/gnome-do-plugins/po/tl.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 265 | 2323 | 11.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/fi.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 65 | 2323 | 2.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/sl.po | 
- | [en_AU]({{< ref "/f15/language/en_AU.md" >}}) | 34 | 2323 | 1.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/en_AU.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 0 | 2323 | 0.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/gu.po | 
- | [la]({{< ref "/f15/language/la.md" >}}) | 0 | 2323 | 0.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/la.po | 
+ | [ca](/f15/language/ca) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ca.po | 
+ | [en_CA](/f15/language/en_CA) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/en_CA.po | 
+ | [en_GB](/f15/language/en_GB) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/en_GB.po | 
+ | [es](/f15/language/es) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/es.po | 
+ | [fr](/f15/language/fr) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/fr.po | 
+ | [gl](/f15/language/gl) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/gl.po | 
+ | [it](/f15/language/it) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/it.po | 
+ | [ko](/f15/language/ko) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ko.po | 
+ | [pt_BR](/f15/language/pt_BR) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ru.po | 
+ | [tr](/f15/language/tr) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/tr.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 2323 | 2323 | 100.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/zh_CN.po | 
+ | [sv](/f15/language/sv) | 2295 | 2323 | 98.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/sv.po | 
+ | [de](/f15/language/de) | 2276 | 2323 | 98.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/de.po | 
+ | [oc](/f15/language/oc) | 2264 | 2323 | 97.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/oc.po | 
+ | [nl](/f15/language/nl) | 2178 | 2323 | 93.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/nl.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 2146 | 2323 | 92.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/zh_TW.po | 
+ | [is](/f15/language/is) | 2067 | 2323 | 89.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/is.po | 
+ | [nb_NO](/f15/language/nb_NO) | 1894 | 2323 | 81.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/nb.po | 
+ | [da](/f15/language/da) | 1683 | 2323 | 72.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/da.po | 
+ | [pt](/f15/language/pt) | 1655 | 2323 | 71.2 | /mnt/stockage/packages/f15/gnome-do-plugins/po/pt.po | 
+ | [pl](/f15/language/pl) | 1178 | 2323 | 50.7 | /mnt/stockage/packages/f15/gnome-do-plugins/po/pl.po | 
+ | [sk](/f15/language/sk) | 1078 | 2323 | 46.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/sk.po | 
+ | [cs](/f15/language/cs) | 984 | 2323 | 42.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/cs.po | 
+ | [fa](/f15/language/fa) | 921 | 2323 | 39.6 | /mnt/stockage/packages/f15/gnome-do-plugins/po/fa.po | 
+ | [ast](/f15/language/ast) | 880 | 2323 | 37.9 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ast.po | 
+ | [hr](/f15/language/hr) | 825 | 2323 | 35.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/hr.po | 
+ | [hu](/f15/language/hu) | 678 | 2323 | 29.2 | /mnt/stockage/packages/f15/gnome-do-plugins/po/hu.po | 
+ | [ja](/f15/language/ja) | 539 | 2323 | 23.2 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ja.po | 
+ | [bg](/f15/language/bg) | 459 | 2323 | 19.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/bg.po | 
+ | [ar](/f15/language/ar) | 442 | 2323 | 19.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/ar.po | 
+ | [vi](/f15/language/vi) | 398 | 2323 | 17.1 | /mnt/stockage/packages/f15/gnome-do-plugins/po/vi.po | 
+ | [tl](/f15/language/tl) | 272 | 2323 | 11.7 | /mnt/stockage/packages/f15/gnome-do-plugins/po/tl.po | 
+ | [fi](/f15/language/fi) | 265 | 2323 | 11.4 | /mnt/stockage/packages/f15/gnome-do-plugins/po/fi.po | 
+ | [sl](/f15/language/sl) | 65 | 2323 | 2.8 | /mnt/stockage/packages/f15/gnome-do-plugins/po/sl.po | 
+ | [en_AU](/f15/language/en_AU) | 34 | 2323 | 1.5 | /mnt/stockage/packages/f15/gnome-do-plugins/po/en_AU.po | 
+ | [gu](/f15/language/gu) | 0 | 2323 | 0.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/gu.po | 
+ | [la](/f15/language/la) | 0 | 2323 | 0.0 | /mnt/stockage/packages/f15/gnome-do-plugins/po/la.po | 
 {.sortable}
 
 

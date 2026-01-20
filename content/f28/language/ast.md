@@ -38,715 +38,715 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f28/package/0ad.md" >}}) | 212 | 212 | 100.0 | Asturian (http://www.transifex.com/wildfire-games/0ad/language/ast/) | 
- | [GConf2]({{< ref "/f28/package/GConf2.md" >}}) | 4088 | 4088 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [Thunar]({{< ref "/f28/package/Thunar.md" >}}) | 4201 | 4201 | 100.0 | Asturian (https://www.transifex.com/xfce/teams/16840/ast/) | 
- | [accerciser]({{< ref "/f28/package/accerciser.md" >}}) | 623 | 623 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [aisleriot]({{< ref "/f28/package/aisleriot.md" >}}) | 2292 | 2292 | 100.0 | Softastur alministradores@softastur.org | 
- | [alacarte]({{< ref "/f28/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Asturian <ast@li.org> | 
- | [anjuta]({{< ref "/f28/package/anjuta.md" >}}) | 7744 | 7744 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [aspell]({{< ref "/f28/package/aspell.md" >}}) | 1726 | 1726 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [at-spi2-core]({{< ref "/f28/package/at-spi2-core.md" >}}) | 96 | 96 | 100.0 | Softastur alministradores@softastur.org | 
- | [atk]({{< ref "/f28/package/atk.md" >}}) | 398 | 398 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [audit-viewer]({{< ref "/f28/package/audit-viewer.md" >}}) | 611 | 611 | 100.0 | LANGUAGE <LL@li.org> | 
- | [baloo-widgets]({{< ref "/f28/package/baloo-widgets.md" >}}) | 42 | 42 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [baobab]({{< ref "/f28/package/baobab.md" >}}) | 540 | 540 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [bison]({{< ref "/f28/package/bison.md" >}}) | 52 | 52 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [bleachbit]({{< ref "/f28/package/bleachbit.md" >}}) | 1260 | 1260 | 100.0 | Asturian <ast@li.org> | 
- | [brasero]({{< ref "/f28/package/brasero.md" >}}) | 5493 | 5493 | 100.0 | Asturian <gnome@softastur.org> | 
- | [caribou]({{< ref "/f28/package/caribou.md" >}}) | 200 | 200 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [cinnamon-control-center]({{< ref "/f28/package/cinnamon-control-center.md" >}}) | 1313 | 1313 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [clamtk]({{< ref "/f28/package/clamtk.md" >}}) | 456 | 456 | 100.0 | Asturian <ast@li.org> | 
- | [compat-gtkhtml314]({{< ref "/f28/package/compat-gtkhtml314.md" >}}) | 713 | 713 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [corebird]({{< ref "/f28/package/corebird.md" >}}) | 586 | 586 | 100.0 | Asturian (http://www.transifex.com/corebird/corebird/language/ast/) | 
- | [dasher]({{< ref "/f28/package/dasher.md" >}}) | 614 | 614 | 100.0 | asturian <alministradores@softastur.org> | 
- | [deepin-metacity]({{< ref "/f28/package/deepin-metacity.md" >}}) | 2017 | 2017 | 100.0 | Softastur alministradores@softastur.org | 
- | [devhelp]({{< ref "/f28/package/devhelp.md" >}}) | 456 | 456 | 100.0 | Softastur alministradores@softastur.org | 
- | [ekiga]({{< ref "/f28/package/ekiga.md" >}}) | 4204 | 4204 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [eog]({{< ref "/f28/package/eog.md" >}}) | 1589 | 1589 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [epiphany]({{< ref "/f28/package/epiphany.md" >}}) | 3073 | 3073 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [evince]({{< ref "/f28/package/evince.md" >}}) | 1437 | 1437 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [evolution]({{< ref "/f28/package/evolution.md" >}}) | 21611 | 21611 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [evolution-data-server]({{< ref "/f28/package/evolution-data-server.md" >}}) | 4619 | 4619 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [evolution-mapi]({{< ref "/f28/package/evolution-mapi.md" >}}) | 332 | 332 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [file-roller]({{< ref "/f28/package/file-roller.md" >}}) | 1519 | 1519 | 100.0 | Asturian <ast@li.org> | 
- | [fwupd]({{< ref "/f28/package/fwupd.md" >}}) | 16 | 16 | 100.0 | Asturian (http://www.transifex.com/freedesktop/fwupd/language/ast/) | 
- | [garcon]({{< ref "/f28/package/garcon.md" >}}) | 109 | 109 | 100.0 | Asturian (http://www.transifex.com/xfce/garcon/language/ast/) | 
- | [gbrainy]({{< ref "/f28/package/gbrainy.md" >}}) | 8036 | 8036 | 100.0 | Softastur alministradores@softastur.org | 
- | [gcompris]({{< ref "/f28/package/gcompris.md" >}}) | 11879 | 11879 | 100.0 | Softastur alministradores@softastur.org | 
- | [gedit]({{< ref "/f28/package/gedit.md" >}}) | 4323 | 4323 | 100.0 | Softastur alministradores@softastur.org | 
- | [glade]({{< ref "/f28/package/glade.md" >}}) | 4180 | 4180 | 100.0 | Softastur alministradores@softastur.org | 
- | [glade3]({{< ref "/f28/package/glade3.md" >}}) | 4319 | 4319 | 100.0 | Softastur alministradores@softastur.org | 
- | [gnome-backgrounds]({{< ref "/f28/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [gnome-bluetooth]({{< ref "/f28/package/gnome-bluetooth.md" >}}) | 664 | 664 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [gnome-calculator]({{< ref "/f28/package/gnome-calculator.md" >}}) | 1399 | 1399 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-contacts]({{< ref "/f28/package/gnome-contacts.md" >}}) | 205 | 205 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-control-center]({{< ref "/f28/package/gnome-control-center.md" >}}) | 4286 | 4286 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [gnome-desktop3]({{< ref "/f28/package/gnome-desktop3.md" >}}) | 207 | 207 | 100.0 | Asturian <gnome@softastur.org> | 
- | [gnome-dictionary]({{< ref "/f28/package/gnome-dictionary.md" >}}) | 833 | 833 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-disk-utility]({{< ref "/f28/package/gnome-disk-utility.md" >}}) | 4544 | 4544 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [gnome-doc-utils]({{< ref "/f28/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [gnome-font-viewer]({{< ref "/f28/package/gnome-font-viewer.md" >}}) | 32 | 32 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-icon-theme]({{< ref "/f28/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Asturian <gnome@softastur.org> | 
- | [gnome-keyring]({{< ref "/f28/package/gnome-keyring.md" >}}) | 928 | 928 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-mahjongg]({{< ref "/f28/package/gnome-mahjongg.md" >}}) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
- | [gnome-menus]({{< ref "/f28/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [gnome-nettool]({{< ref "/f28/package/gnome-nettool.md" >}}) | 644 | 644 | 100.0 | Softastur alministradores@softastur.org | 
- | [gnome-nibbles]({{< ref "/f28/package/gnome-nibbles.md" >}}) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
- | [gnome-packagekit]({{< ref "/f28/package/gnome-packagekit.md" >}}) | 4790 | 4790 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-power-manager]({{< ref "/f28/package/gnome-power-manager.md" >}}) | 432 | 432 | 100.0 | Softastur alministradores@softastur.org | 
- | [gnome-search-tool]({{< ref "/f28/package/gnome-search-tool.md" >}}) | 1359 | 1359 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-settings-daemon]({{< ref "/f28/package/gnome-settings-daemon.md" >}}) | 3892 | 3892 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-shell]({{< ref "/f28/package/gnome-shell.md" >}}) | 1305 | 1305 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-system-log]({{< ref "/f28/package/gnome-system-log.md" >}}) | 522 | 522 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [gnome-terminal]({{< ref "/f28/package/gnome-terminal.md" >}}) | 4145 | 4145 | 100.0 | Softastur alministradores@softastur.org | 
- | [gnome-tetravex]({{< ref "/f28/package/gnome-tetravex.md" >}}) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
- | [gnome-themes]({{< ref "/f28/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Asturian <gnome@softastur.org> | 
- | [gnome-user-share]({{< ref "/f28/package/gnome-user-share.md" >}}) | 326 | 326 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [gobby]({{< ref "/f28/package/gobby.md" >}}) | 900 | 900 | 100.0 | Softastur alministradores@softastur.org | 
- | [goffice08]({{< ref "/f28/package/goffice08.md" >}}) | 4600 | 4600 | 100.0 | Softastur alministradores@softastur.org | 
- | [gtk2-engines]({{< ref "/f28/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [gtkhtml3]({{< ref "/f28/package/gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [gtksourceview2]({{< ref "/f28/package/gtksourceview2.md" >}}) | 1393 | 1393 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [gtkspell3]({{< ref "/f28/package/gtkspell3.md" >}}) | 15 | 15 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [gucharmap]({{< ref "/f28/package/gucharmap.md" >}}) | 803 | 803 | 100.0 | Asturian <gnome@softastur.org> | 
- | [gvfs]({{< ref "/f28/package/gvfs.md" >}}) | 2412 | 2412 | 100.0 | Softastur alministradores@softastur.org | 
- | [kdenetwork-filesharing]({{< ref "/f28/package/kdenetwork-filesharing.md" >}}) | 42 | 42 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [kdnssd]({{< ref "/f28/package/kdnssd.md" >}}) | 30 | 30 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-akonadi-notes]({{< ref "/f28/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-kontactinterface]({{< ref "/f28/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [kflickr]({{< ref "/f28/package/kflickr.md" >}}) | 332 | 332 | 100.0 | Asturian <ast@li.org> | 
- | [kmousetool]({{< ref "/f28/package/kmousetool.md" >}}) | 147 | 147 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [ktp-auth-handler]({{< ref "/f28/package/ktp-auth-handler.md" >}}) | 83 | 83 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [ktp-desktop-applets]({{< ref "/f28/package/ktp-desktop-applets.md" >}}) | 75 | 75 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f28/package/ktp-filetransfer-handler.md" >}}) | 141 | 141 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libbonobo]({{< ref "/f28/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libbonoboui]({{< ref "/f28/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Asturian <gnome@softastur.org> | 
- | [libcryptui]({{< ref "/f28/package/libcryptui.md" >}}) | 3033 | 3033 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libgdl]({{< ref "/f28/package/libgdl.md" >}}) | 604 | 604 | 100.0 | Asturian <gnome@softastur.org> | 
- | [libgnome]({{< ref "/f28/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libgnome-keyring]({{< ref "/f28/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [libgnomecanvas]({{< ref "/f28/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libgnomekbd]({{< ref "/f28/package/libgnomekbd.md" >}}) | 286 | 286 | 100.0 | Asturian <gnome@softastur.org> | 
- | [libgnomeui]({{< ref "/f28/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [libgtop2]({{< ref "/f28/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libgweather]({{< ref "/f28/package/libgweather.md" >}}) | 6085 | 6085 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libmx]({{< ref "/f28/package/libmx.md" >}}) | 40 | 40 | 100.0 | asturian <alministradores@softastur.org> | 
- | [libpeas]({{< ref "/f28/package/libpeas.md" >}}) | 103 | 103 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [libwnck]({{< ref "/f28/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libwnck3]({{< ref "/f28/package/libwnck3.md" >}}) | 1124 | 1124 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [libxfce4ui]({{< ref "/f28/package/libxfce4ui.md" >}}) | 851 | 851 | 100.0 | Asturian (http://www.transifex.com/projects/p/libxfce4ui/language/ast/) | 
- | [libxfce4util]({{< ref "/f28/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Asturian (http://www.transifex.com/projects/p/libxfce4util/language/ast/) | 
- | [lxmenu-data]({{< ref "/f28/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [lxshortcut]({{< ref "/f28/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [mate-backgrounds]({{< ref "/f28/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
- | [mate-icon-theme]({{< ref "/f28/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [mate-menus]({{< ref "/f28/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [mate-screensaver]({{< ref "/f28/package/mate-screensaver.md" >}}) | 983 | 983 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [metacity]({{< ref "/f28/package/metacity.md" >}}) | 2017 | 2017 | 100.0 | Softastur alministradores@softastur.org | 
- | [mingw-GConf2]({{< ref "/f28/package/mingw-GConf2.md" >}}) | 4088 | 4088 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [mingw-atk]({{< ref "/f28/package/mingw-atk.md" >}}) | 398 | 398 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [mingw-gtkspell3]({{< ref "/f28/package/mingw-gtkspell3.md" >}}) | 15 | 15 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [mousetweaks]({{< ref "/f28/package/mousetweaks.md" >}}) | 730 | 730 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [mozo]({{< ref "/f28/package/mozo.md" >}}) | 42 | 42 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [muffin]({{< ref "/f28/package/muffin.md" >}}) | 2423 | 2423 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [multimedia-menus]({{< ref "/f28/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Fedora Asturian <alministradores@softastur.org> | 
- | [nautilus]({{< ref "/f28/package/nautilus.md" >}}) | 7079 | 7079 | 100.0 | Softastur alministradores@softastur.org | 
- | [nautilus-sendto]({{< ref "/f28/package/nautilus-sendto.md" >}}) | 310 | 310 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [newt]({{< ref "/f28/package/newt.md" >}}) | 4 | 4 | 100.0 | Asturian <ast@li.org> | 
- | [notification-daemon]({{< ref "/f28/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [obby]({{< ref "/f28/package/obby.md" >}}) | 159 | 159 | 100.0 | Asturian <ast@li.org> | 
- | [orca]({{< ref "/f28/package/orca.md" >}}) | 4314 | 4314 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [pastebinit]({{< ref "/f28/package/pastebinit.md" >}}) | 195 | 195 | 100.0 | Asturian <ast@li.org> | 
- | [pitivi]({{< ref "/f28/package/pitivi.md" >}}) | 1313 | 1313 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [planner]({{< ref "/f28/package/planner.md" >}}) | 1834 | 1834 | 100.0 | Softastur alministradores@softastur.org | 
- | [pogo]({{< ref "/f28/package/pogo.md" >}}) | 576 | 576 | 100.0 | Asturian <ast@li.org> | 
- | [python-caja]({{< ref "/f28/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [quadrapassel]({{< ref "/f28/package/quadrapassel.md" >}}) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
- | [seahorse]({{< ref "/f28/package/seahorse.md" >}}) | 3033 | 3033 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [setuptool]({{< ref "/f28/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Fedora Asturian <alministradores@softastur.org> | 
- | [sound-juicer]({{< ref "/f28/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [subdownloader]({{< ref "/f28/package/subdownloader.md" >}}) | 968 | 968 | 100.0 | Asturian <ast@li.org> | 
- | [sushi]({{< ref "/f28/package/sushi.md" >}}) | 15 | 15 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [syncevolution]({{< ref "/f28/package/syncevolution.md" >}}) | 1119 | 1119 | 100.0 | Softastur <alministradores@softastur.org> | 
- | [system-config-keyboard]({{< ref "/f28/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Fedora Asturian <alministradores@softastur.org> | 
- | [system-switch-java]({{< ref "/f28/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [tali]({{< ref "/f28/package/tali.md" >}}) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
- | [thunar-archive-plugin]({{< ref "/f28/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [thunar-media-tags-plugin]({{< ref "/f28/package/thunar-media-tags-plugin.md" >}}) | 144 | 144 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [thunar-volman]({{< ref "/f28/package/thunar-volman.md" >}}) | 487 | 487 | 100.0 | Asturian (http://www.transifex.com/projects/p/thunar-volman/language/ast/) | 
- | [tomboy]({{< ref "/f28/package/tomboy.md" >}}) | 2847 | 2847 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [totem-pl-parser]({{< ref "/f28/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [transmission]({{< ref "/f28/package/transmission.md" >}}) | 1809 | 1809 | 100.0 | Asturian <ast@li.org> | 
- | [vinagre]({{< ref "/f28/package/vinagre.md" >}}) | 1419 | 1419 | 100.0 | Softastur alministradores@softastur.org | 
- | [vino]({{< ref "/f28/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Asturian <gnome@softastur.org> | 
- | [virtaal]({{< ref "/f28/package/virtaal.md" >}}) | 1433 | 1433 | 100.0 | LANGUAGE <LL@li.org> | 
- | [vte]({{< ref "/f28/package/vte.md" >}}) | 84 | 84 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [vte291]({{< ref "/f28/package/vte291.md" >}}) | 84 | 84 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [vte3]({{< ref "/f28/package/vte3.md" >}}) | 84 | 84 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [xdg-user-dirs]({{< ref "/f28/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [xfbib]({{< ref "/f28/package/xfbib.md" >}}) | 342 | 342 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [xfce4-appfinder]({{< ref "/f28/package/xfce4-appfinder.md" >}}) | 322 | 322 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce4-appfinder/language/ast/) | 
- | [xfce4-battery-plugin]({{< ref "/f28/package/xfce4-battery-plugin.md" >}}) | 149 | 149 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f28/package/xfce4-cpufreq-plugin.md" >}}) | 140 | 140 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfce4-datetime-plugin]({{< ref "/f28/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f28/package/xfce4-diskperf-plugin.md" >}}) | 183 | 183 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [xfce4-eyes-plugin]({{< ref "/f28/package/xfce4-eyes-plugin.md" >}}) | 15 | 15 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f28/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [xfce4-mpc-plugin]({{< ref "/f28/package/xfce4-mpc-plugin.md" >}}) | 76 | 76 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfce4-netload-plugin]({{< ref "/f28/package/xfce4-netload-plugin.md" >}}) | 92 | 92 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfce4-notes-plugin]({{< ref "/f28/package/xfce4-notes-plugin.md" >}}) | 163 | 163 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [xfce4-notifyd]({{< ref "/f28/package/xfce4-notifyd.md" >}}) | 98 | 98 | 100.0 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [xfce4-places-plugin]({{< ref "/f28/package/xfce4-places-plugin.md" >}}) | 160 | 160 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [xfce4-session]({{< ref "/f28/package/xfce4-session.md" >}}) | 1025 | 1025 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce4-session/language/ast/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f28/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [xfce4-systemload-plugin]({{< ref "/f28/package/xfce4-systemload-plugin.md" >}}) | 75 | 75 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfce4-time-out-plugin]({{< ref "/f28/package/xfce4-time-out-plugin.md" >}}) | 89 | 89 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [xfconf]({{< ref "/f28/package/xfconf.md" >}}) | 452 | 452 | 100.0 | Asturian (http://www.transifex.com/xfce/xfconf/language/ast/) | 
- | [xplayer-plparser]({{< ref "/f28/package/xplayer-plparser.md" >}}) | 28 | 28 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [yelp]({{< ref "/f28/package/yelp.md" >}}) | 488 | 488 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [yelp-xsl]({{< ref "/f28/package/yelp-xsl.md" >}}) | 70 | 70 | 100.0 | Asturian <alministradores@softastur.org> | 
- | [zenity]({{< ref "/f28/package/zenity.md" >}}) | 612 | 612 | 100.0 | Asturian Team alministradores@softastur.org | 
- | [xfdesktop]({{< ref "/f28/package/xfdesktop.md" >}}) | 972 | 976 | 99.6 | Asturian (http://www.transifex.com/projects/p/xfdesktop/language/ast/) | 
- | [gtk3]({{< ref "/f28/package/gtk3.md" >}}) | 12565 | 12631 | 99.5 | Softastur alministradores@softastur.org | 
- | [gtk4]({{< ref "/f28/package/gtk4.md" >}}) | 12565 | 12631 | 99.5 | Softastur alministradores@softastur.org | 
- | [mingw-gtk3]({{< ref "/f28/package/mingw-gtk3.md" >}}) | 12565 | 12631 | 99.5 | Softastur alministradores@softastur.org | 
- | [gnome-system-monitor]({{< ref "/f28/package/gnome-system-monitor.md" >}}) | 913 | 918 | 99.5 | Asturian <gnome@softastur.org> | 
- | [console-setup]({{< ref "/f28/package/console-setup.md" >}}) | 978 | 985 | 99.3 | Softastur | 
- | [xfburn]({{< ref "/f28/package/xfburn.md" >}}) | 1332 | 1342 | 99.3 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [xfce4-sensors-plugin]({{< ref "/f28/package/xfce4-sensors-plugin.md" >}}) | 354 | 357 | 99.2 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [gpicview]({{< ref "/f28/package/gpicview.md" >}}) | 234 | 236 | 99.2 | asturian <alministradores@softastur.org> | 
- | [totem]({{< ref "/f28/package/totem.md" >}}) | 2420 | 2441 | 99.1 | Softastur alministradores@softastur.org | 
- | [deepin-terminal]({{< ref "/f28/package/deepin-terminal.md" >}}) | 457 | 462 | 98.9 | Asturian (https://www.transifex.com/linuxdeepin/teams/3976/ast/) | 
- | [gnome-session]({{< ref "/f28/package/gnome-session.md" >}}) | 711 | 722 | 98.5 | Asturian <gnome@softastur.org> | 
- | [libmateweather]({{< ref "/f28/package/libmateweather.md" >}}) | 6004 | 6119 | 98.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [empathy]({{< ref "/f28/package/empathy.md" >}}) | 4638 | 4727 | 98.1 | Softastur <alministradores@softastur.org> | 
- | [rednotebook]({{< ref "/f28/package/rednotebook.md" >}}) | 1125 | 1147 | 98.1 | Asturian <ast@li.org> | 
- | [xfce4-clipman-plugin]({{< ref "/f28/package/xfce4-clipman-plugin.md" >}}) | 440 | 449 | 98.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [gtk2]({{< ref "/f28/package/gtk2.md" >}}) | 13428 | 13704 | 98.0 | Asturian <alministradores@softastur.org> | 
- | [mingw-gtk2]({{< ref "/f28/package/mingw-gtk2.md" >}}) | 13428 | 13704 | 98.0 | Asturian <alministradores@softastur.org> | 
- | [gconf-editor]({{< ref "/f28/package/gconf-editor.md" >}}) | 329 | 336 | 97.9 | Asturian <gnome@softastur.org> | 
- | [gnome-screensaver]({{< ref "/f28/package/gnome-screensaver.md" >}}) | 954 | 975 | 97.8 | Asturian <gnome@softastur.org> | 
- | [cheese]({{< ref "/f28/package/cheese.md" >}}) | 538 | 550 | 97.8 | Softastur alministradores@softastur.org | 
- | [tuxpaint-stamps]({{< ref "/f28/package/tuxpaint-stamps.md" >}}) | 3199 | 3271 | 97.8 | Softastur alministradores@softastur.org | 
- | [gnome-vfs2]({{< ref "/f28/package/gnome-vfs2.md" >}}) | 1473 | 1508 | 97.7 | Asturian <gnome@softastur.org> | 
- | [seahorse-caja]({{< ref "/f28/package/seahorse-caja.md" >}}) | 411 | 421 | 97.6 | Asturian Team alministradores@softastur.org | 
- | [seahorse-nautilus]({{< ref "/f28/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | Asturian Team alministradores@softastur.org | 
- | [xfce4-panel]({{< ref "/f28/package/xfce4-panel.md" >}}) | 1665 | 1709 | 97.4 | Asturian (https://www.transifex.com/xfce/teams/16840/ast/) | 
- | [nemo-extensions]({{< ref "/f28/package/nemo-extensions.md" >}}) | 242 | 249 | 97.2 | Asturian <ast@li.org> | 
- | [gnome-desktop]({{< ref "/f28/package/gnome-desktop.md" >}}) | 339 | 349 | 97.1 | Asturian <gnome@softastur.org> | 
- | [deepin-mutter]({{< ref "/f28/package/deepin-mutter.md" >}}) | 2400 | 2492 | 96.3 | Asturian Team alministradores@softastur.org | 
- | [mutter]({{< ref "/f28/package/mutter.md" >}}) | 2400 | 2492 | 96.3 | Asturian Team alministradores@softastur.org | 
- | [xfce4-timer-plugin]({{< ref "/f28/package/xfce4-timer-plugin.md" >}}) | 129 | 134 | 96.3 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
- | [xfce4-dict]({{< ref "/f28/package/xfce4-dict.md" >}}) | 507 | 527 | 96.2 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [usermode]({{< ref "/f28/package/usermode.md" >}}) | 551 | 573 | 96.2 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [ksnakeduel]({{< ref "/f28/package/ksnakeduel.md" >}}) | 222 | 231 | 96.1 | asturian <alministradores@softastur.org> | 
- | [gnome-screenshot]({{< ref "/f28/package/gnome-screenshot.md" >}}) | 306 | 319 | 95.9 | Softastur <alministradores@softastur.org> | 
- | [exo]({{< ref "/f28/package/exo.md" >}}) | 1389 | 1451 | 95.7 | Asturian (http://www.transifex.com/xfce/exo/language/ast/) | 
- | [gdk-pixbuf2]({{< ref "/f28/package/gdk-pixbuf2.md" >}}) | 1288 | 1348 | 95.5 | Softastur alministradores@softastur.org | 
- | [mingw-gdk-pixbuf]({{< ref "/f28/package/mingw-gdk-pixbuf.md" >}}) | 1288 | 1348 | 95.5 | Softastur alministradores@softastur.org | 
- | [dolphin]({{< ref "/f28/package/dolphin.md" >}}) | 1523 | 1596 | 95.4 | Asturian <alministradores@softastur.org> | 
- | [ktp-approver]({{< ref "/f28/package/ktp-approver.md" >}}) | 67 | 71 | 94.4 | Asturian <alministradores@softastur.org> | 
- | [xfce4-settings]({{< ref "/f28/package/xfce4-settings.md" >}}) | 1569 | 1664 | 94.3 | Asturian (http://www.transifex.com/xfce/xfce4-settings/language/ast/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f28/package/xfce4-wavelan-plugin.md" >}}) | 62 | 66 | 93.9 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [lxtask]({{< ref "/f28/package/lxtask.md" >}}) | 122 | 130 | 93.8 | Asturian <alministradores@softastur.org> | 
- | [quitcount]({{< ref "/f28/package/quitcount.md" >}}) | 154 | 166 | 92.8 | None | 
- | [xfce4-screenshooter]({{< ref "/f28/package/xfce4-screenshooter.md" >}}) | 503 | 548 | 91.8 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [xfce4-mount-plugin]({{< ref "/f28/package/xfce4-mount-plugin.md" >}}) | 339 | 374 | 90.6 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [ktp-common-internals]({{< ref "/f28/package/ktp-common-internals.md" >}}) | 891 | 989 | 90.1 | Asturian <alministradores@softastur.org> | 
- | [steadyflow]({{< ref "/f28/package/steadyflow.md" >}}) | 423 | 470 | 90.0 | Asturian <ast@li.org> | 
- | [xviewer]({{< ref "/f28/package/xviewer.md" >}}) | 1494 | 1677 | 89.1 | Softastur <alministradores@softastur.org> | 
- | [cinnamon-desktop]({{< ref "/f28/package/cinnamon-desktop.md" >}}) | 208 | 234 | 88.9 | Asturian <gnome@softastur.org> | 
- | [deepin-qml-widgets]({{< ref "/f28/package/deepin-qml-widgets.md" >}}) | 16 | 18 | 88.9 | Asturian (http://www.transifex.com/projects/p/deepin-qml-widgets/language/ast/) | 
- | [gnome-online-accounts]({{< ref "/f28/package/gnome-online-accounts.md" >}}) | 680 | 769 | 88.4 | Softastur alministradores@softastur.org | 
- | [kaccounts-providers]({{< ref "/f28/package/kaccounts-providers.md" >}}) | 53 | 60 | 88.3 | Asturian <alministradores@softastur.org> | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 186 | 211 | 88.2 | Asturian <ast@li.org> | 
- | [xfwm4]({{< ref "/f28/package/xfwm4.md" >}}) | 593 | 673 | 88.1 | Asturian (http://www.transifex.com/projects/p/xfwm4/language/ast/) | 
- | [lxlauncher]({{< ref "/f28/package/lxlauncher.md" >}}) | 51 | 58 | 87.9 | Asturian <alministradores@softastur.org> | 
- | [kmag]({{< ref "/f28/package/kmag.md" >}}) | 377 | 432 | 87.3 | Asturian <alministradores@softastur.org> | 
- | [debconf]({{< ref "/f28/package/debconf.md" >}}) | 747 | 860 | 86.9 | Asturian <softast-xeneral@lists.sourceforge.net> | 
- | [ktimer]({{< ref "/f28/package/ktimer.md" >}}) | 223 | 258 | 86.4 | Asturian <alministradores@softastur.org> | 
- | [gnome-activity-journal]({{< ref "/f28/package/gnome-activity-journal.md" >}}) | 272 | 316 | 86.1 | Asturian <ast@li.org> | 
- | [orage]({{< ref "/f28/package/orage.md" >}}) | 2519 | 2931 | 85.9 | Asturian (http://www.transifex.com/projects/p/xfce-apps/language/ast/) | 
- | [libkgapi]({{< ref "/f28/package/libkgapi.md" >}}) | 281 | 332 | 84.6 | Asturian <alministradores@softastur.org> | 
- | [ktp-send-file]({{< ref "/f28/package/ktp-send-file.md" >}}) | 50 | 60 | 83.3 | Asturian <alministradores@softastur.org> | 
- | [mailman]({{< ref "/f28/package/mailman.md" >}}) | 20145 | 24274 | 83.0 | Asturian <alministradores@softastur.org> | 
- | [ktp-text-ui]({{< ref "/f28/package/ktp-text-ui.md" >}}) | 1189 | 1441 | 82.5 | Asturian <alministradores@softastur.org> | 
- | [dia]({{< ref "/f28/package/dia.md" >}}) | 5430 | 6601 | 82.3 | Softastur alministradores@softastur.org | 
- | [xplayer]({{< ref "/f28/package/xplayer.md" >}}) | 1605 | 1952 | 82.2 | Softastur alministradores@softastur.org | 
- | [kate]({{< ref "/f28/package/kate.md" >}}) | 4010 | 4922 | 81.5 | Asturian <alministradores@softastur.org> | 
- | [sflphone]({{< ref "/f28/package/sflphone.md" >}}) | 1703 | 2122 | 80.3 | Asturian <ast@li.org> | 
- | [gnome-do]({{< ref "/f28/package/gnome-do.md" >}}) | 490 | 612 | 80.1 | Asturian <ast@li.org> | 
- | [imsettings]({{< ref "/f28/package/imsettings.md" >}}) | 363 | 456 | 79.6 | LANGUAGE <LL@li.org> | 
- | [passwd]({{< ref "/f28/package/passwd.md" >}}) | 267 | 336 | 79.5 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [xfce4-mailwatch-plugin]({{< ref "/f28/package/xfce4-mailwatch-plugin.md" >}}) | 521 | 657 | 79.3 | Asturian <alministradores@softastur.org> | 
- | [onboard]({{< ref "/f28/package/onboard.md" >}}) | 1831 | 2318 | 79.0 | Asturian <ast@li.org> | 
- | [xfce4-taskmanager]({{< ref "/f28/package/xfce4-taskmanager.md" >}}) | 200 | 257 | 77.8 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [xfce4-verve-plugin]({{< ref "/f28/package/xfce4-verve-plugin.md" >}}) | 80 | 103 | 77.7 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
- | [iso-codes]({{< ref "/f28/package/iso-codes.md" >}}) | 12099 | 15709 | 77.0 | Asturian <softast-xeneral@lists.sourceforge.net> | 
- | [gettext]({{< ref "/f28/package/gettext.md" >}}) | 336 | 438 | 76.7 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [mingw-gettext]({{< ref "/f28/package/mingw-gettext.md" >}}) | 336 | 438 | 76.7 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [clutter]({{< ref "/f28/package/clutter.md" >}}) | 2319 | 3057 | 75.9 | Asturian <alministradores@softastur.org> | 
- | [parole]({{< ref "/f28/package/parole.md" >}}) | 827 | 1099 | 75.3 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [mousepad]({{< ref "/f28/package/mousepad.md" >}}) | 817 | 1088 | 75.1 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [gigolo]({{< ref "/f28/package/gigolo.md" >}}) | 390 | 521 | 74.9 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
- | [liferea]({{< ref "/f28/package/liferea.md" >}}) | 1656 | 2213 | 74.8 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [gstreamer1]({{< ref "/f28/package/gstreamer1.md" >}}) | 1554 | 2078 | 74.8 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [mingw-gstreamer1]({{< ref "/f28/package/mingw-gstreamer1.md" >}}) | 1554 | 2078 | 74.8 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [marco]({{< ref "/f28/package/marco.md" >}}) | 3100 | 4148 | 74.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [geany]({{< ref "/f28/package/geany.md" >}}) | 4468 | 6042 | 73.9 | Asturian <alministradores@softastur.org> | 
- | [ktp-accounts-kcm]({{< ref "/f28/package/ktp-accounts-kcm.md" >}}) | 812 | 1100 | 73.8 | Asturian <alministradores@softastur.org> | 
- | [deepin-daemon]({{< ref "/f28/package/deepin-daemon.md" >}}) | 972 | 1317 | 73.8 | Asturian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ast/) | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 410128 | 560861 | 73.1 | LANGUAGE <LL@li.org> | 
- | [xfce4-xkb-plugin]({{< ref "/f28/package/xfce4-xkb-plugin.md" >}}) | 35 | 48 | 72.9 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
- | [krdc]({{< ref "/f28/package/krdc.md" >}}) | 941 | 1294 | 72.7 | Asturian <alministradores@softastur.org> | 
- | [lxinput]({{< ref "/f28/package/lxinput.md" >}}) | 60 | 83 | 72.3 | asturian <alministradores@softastur.org> | 
- | [colord-kde]({{< ref "/f28/package/colord-kde.md" >}}) | 266 | 369 | 72.1 | Asturian <> | 
- | [xed]({{< ref "/f28/package/xed.md" >}}) | 3295 | 4613 | 71.4 | Asturian (http://www.transifex.com/projects/p/MATE/language/ast/) | 
- | [ristretto]({{< ref "/f28/package/ristretto.md" >}}) | 541 | 761 | 71.1 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [ufw]({{< ref "/f28/package/ufw.md" >}}) | 618 | 879 | 70.3 | Asturian <ast@li.org> | 
- | [xfmpc]({{< ref "/f28/package/xfmpc.md" >}}) | 117 | 167 | 70.1 | Asturian <alministradores@softastur.org> | 
- | [libmatekbd]({{< ref "/f28/package/libmatekbd.md" >}}) | 175 | 251 | 69.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [caja]({{< ref "/f28/package/caja.md" >}}) | 6522 | 9356 | 69.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [deja-dup]({{< ref "/f28/package/deja-dup.md" >}}) | 1479 | 2122 | 69.7 | Asturian <ast@li.org> | 
- | [blueman]({{< ref "/f28/package/blueman.md" >}}) | 964 | 1384 | 69.7 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f28/package/php-phpmyadmin-sql-parser.md" >}}) | 157 | 227 | 69.2 | Asturian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ast/> | 
- | [gedit-plugins]({{< ref "/f28/package/gedit-plugins.md" >}}) | 831 | 1205 | 69.0 | Softastur alministradores@softastur.org | 
- | [simple-scan]({{< ref "/f28/package/simple-scan.md" >}}) | 404 | 589 | 68.6 | Asturian <ast@li.org> | 
- | [goffice]({{< ref "/f28/package/goffice.md" >}}) | 4253 | 6201 | 68.6 | Softastur alministradores@softastur.org | 
- | [mlocate]({{< ref "/f28/package/mlocate.md" >}}) | 397 | 581 | 68.3 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [ktp-contact-runner]({{< ref "/f28/package/ktp-contact-runner.md" >}}) | 142 | 208 | 68.3 | Asturian <alministradores@softastur.org> | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f28/package/xfce4-whiskermenu-plugin.md" >}}) | 238 | 349 | 68.2 | Asturian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ast/) | 
- | [kio-extras]({{< ref "/f28/package/kio-extras.md" >}}) | 617 | 915 | 67.4 | Asturian <alministradores@softastur.org> | 
- | [xreader]({{< ref "/f28/package/xreader.md" >}}) | 1104 | 1641 | 67.3 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
- | [kde-dev-utils]({{< ref "/f28/package/kde-dev-utils.md" >}}) | 63 | 94 | 67.0 | Asturian <alministradores@softastur.org> | 
- | [mate-panel]({{< ref "/f28/package/mate-panel.md" >}}) | 4377 | 6532 | 67.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [kwalletmanager5]({{< ref "/f28/package/kwalletmanager5.md" >}}) | 534 | 802 | 66.6 | Asturian <alministradores@softastur.org> | 
- | [gnome-chess]({{< ref "/f28/package/gnome-chess.md" >}}) | 915 | 1390 | 65.8 | Asturian Team <alministradores@softastur.org> | 
- | [kwebkitpart]({{< ref "/f28/package/kwebkitpart.md" >}}) | 420 | 642 | 65.4 | Asturian <alministradores@softastur.org> | 
- | [mate-desktop]({{< ref "/f28/package/mate-desktop.md" >}}) | 1504 | 2305 | 65.2 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [xfce4-terminal]({{< ref "/f28/package/xfce4-terminal.md" >}}) | 942 | 1453 | 64.8 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
- | [gnome-robots]({{< ref "/f28/package/gnome-robots.md" >}}) | 382 | 597 | 64.0 | Asturian Team <alministradores@softastur.org> | 
- | [mingw-gtksourceview3]({{< ref "/f28/package/mingw-gtksourceview3.md" >}}) | 739 | 1156 | 63.9 | Softastur alministradores@softastur.org | 
- | [xfce4-cpugraph-plugin]({{< ref "/f28/package/xfce4-cpugraph-plugin.md" >}}) | 45 | 71 | 63.4 | Asturian <alministradores@softastur.org> | 
- | [gimp]({{< ref "/f28/package/gimp.md" >}}) | 8269 | 13174 | 62.8 | Softastur alministradores@softastur.org | 
- | [kamoso]({{< ref "/f28/package/kamoso.md" >}}) | 73 | 119 | 61.3 | Asturian <kde-i18n-doc@kde.org> | 
- | [tumbler]({{< ref "/f28/package/tumbler.md" >}}) | 142 | 241 | 58.9 | Asturian (http://www.transifex.com/xfce/tumbler/language/ast/) | 
- | [kcron]({{< ref "/f28/package/kcron.md" >}}) | 312 | 534 | 58.4 | Asturian <alministradores@softastur.org> | 
- | [pacman]({{< ref "/f28/package/pacman.md" >}}) | 3121 | 5398 | 57.8 | Asturian (http://www.transifex.com/toofishes/archlinux-pacman/language/ast/) | 
- | [calamares]({{< ref "/f28/package/calamares.md" >}}) | 256 | 443 | 57.8 | Asturian (https://www.transifex.com/calamares/teams/20061/ast/) | 
- | [xfce4-power-manager]({{< ref "/f28/package/xfce4-power-manager.md" >}}) | 586 | 1017 | 57.6 | Asturian (http://www.transifex.com/xfce/xfce4-power-manager/language/ast/) | 
- | [krfb]({{< ref "/f28/package/krfb.md" >}}) | 368 | 644 | 57.1 | Asturian <alministradores@softastur.org> | 
- | [mate-session-manager]({{< ref "/f28/package/mate-session-manager.md" >}}) | 388 | 681 | 57.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [kcharselect]({{< ref "/f28/package/kcharselect.md" >}}) | 49 | 88 | 55.7 | Asturian <alministradores@softastur.org> | 
- | [five-or-more]({{< ref "/f28/package/five-or-more.md" >}}) | 157 | 282 | 55.7 | Asturian Team <alministradores@softastur.org> | 
- | [mate-terminal]({{< ref "/f28/package/mate-terminal.md" >}}) | 4686 | 8453 | 55.4 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [mate-media]({{< ref "/f28/package/mate-media.md" >}}) | 125 | 226 | 55.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [gdm]({{< ref "/f28/package/gdm.md" >}}) | 352 | 650 | 54.2 | Softastur <alministradores@softastur.org> | 
- | [mate-settings-daemon]({{< ref "/f28/package/mate-settings-daemon.md" >}}) | 951 | 1764 | 53.9 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [sed]({{< ref "/f28/package/sed.md" >}}) | 421 | 788 | 53.4 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [kmix]({{< ref "/f28/package/kmix.md" >}}) | 479 | 907 | 52.8 | Asturian <ast@li.org> | 
- | [glib2]({{< ref "/f28/package/glib2.md" >}}) | 2489 | 4777 | 52.1 | Asturian <alministradores@softastur.org> | 
- | [mingw-glib2]({{< ref "/f28/package/mingw-glib2.md" >}}) | 2489 | 4777 | 52.1 | Asturian <alministradores@softastur.org> | 
- | [hexchat]({{< ref "/f28/package/hexchat.md" >}}) | 3101 | 5971 | 51.9 | Asturian (http://www.transifex.com/hexchat/hexchat/language/ast/) | 
- | [xfce4-mixer]({{< ref "/f28/package/xfce4-mixer.md" >}}) | 94 | 181 | 51.9 | Asturian <alministradores@softastur.org> | 
- | [kaccounts-integration]({{< ref "/f28/package/kaccounts-integration.md" >}}) | 42 | 82 | 51.2 | Asturian <alministradores@softastur.org> | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 9882 | 19879 | 49.7 | Asturian (http://www.transifex.com/projects/p/cinnamon-ast/language/ast/) | 
- | [lxrandr]({{< ref "/f28/package/lxrandr.md" >}}) | 83 | 167 | 49.7 | Asturian <alministradores@softastur.org> | 
- | [pidgin]({{< ref "/f28/package/pidgin.md" >}}) | 7793 | 15756 | 49.5 | Asturian (http://www.transifex.com/pidgin/pidgin/language/ast/) | 
- | [plasma-mediacenter]({{< ref "/f28/package/plasma-mediacenter.md" >}}) | 85 | 172 | 49.4 | Asturian <kde-i18n-doc@kde.org> | 
- | [caja-extensions]({{< ref "/f28/package/caja-extensions.md" >}}) | 281 | 570 | 49.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [ktp-contact-list]({{< ref "/f28/package/ktp-contact-list.md" >}}) | 333 | 680 | 49.0 | Asturian <alministradores@softastur.org> | 
- | [kproperty]({{< ref "/f28/package/kproperty.md" >}}) | 71 | 145 | 49.0 | Asturian <alministradores@softastur.org> | 
- | [atril]({{< ref "/f28/package/atril.md" >}}) | 1860 | 3831 | 48.6 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [shotwell]({{< ref "/f28/package/shotwell.md" >}}) | 2177 | 4553 | 47.8 | Asturian (http://www.transifex.com/projects/p/shotwell/language/ast/) | 
- | [elisa-player]({{< ref "/f28/package/elisa-player.md" >}}) | 114 | 242 | 47.1 | Asturian <alministradores@softastur.org> | 
- | [pantheon-photos]({{< ref "/f28/package/pantheon-photos.md" >}}) | 1856 | 3977 | 46.7 | Asturian (http://www.transifex.com/projects/p/shotwell/language/ast/) | 
- | [plasma-pa]({{< ref "/f28/package/plasma-pa.md" >}}) | 84 | 184 | 45.7 | Asturian <alministradores@softastur.org> | 
- | [deluge]({{< ref "/f28/package/deluge.md" >}}) | 1218 | 2728 | 44.6 | Asturian <ast@li.org> | 
- | [xfce4-genmon-plugin]({{< ref "/f28/package/xfce4-genmon-plugin.md" >}}) | 25 | 56 | 44.6 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
- | [audacious]({{< ref "/f28/package/audacious.md" >}}) | 339 | 760 | 44.6 | Asturian (http://www.transifex.com/audacious/audacious/language/ast/) | 
- | [libktorrent]({{< ref "/f28/package/libktorrent.md" >}}) | 231 | 519 | 44.5 | Asturian <alministradores@softastur.org> | 
- | [kactivitymanagerd]({{< ref "/f28/package/kactivitymanagerd.md" >}}) | 4 | 9 | 44.4 | Asturian <alministradores@softastur.org> | 
- | [sos]({{< ref "/f28/package/sos.md" >}}) | 54 | 122 | 44.3 | Asturian <alministradores@softastur.org> | 
- | [mate-calc]({{< ref "/f28/package/mate-calc.md" >}}) | 1321 | 2995 | 44.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [four-in-a-row]({{< ref "/f28/package/four-in-a-row.md" >}}) | 111 | 256 | 43.4 | Asturian Team <alministradores@softastur.org> | 
- | [xfce4-embed-plugin]({{< ref "/f28/package/xfce4-embed-plugin.md" >}}) | 93 | 219 | 42.5 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
- | [gnome-video-effects]({{< ref "/f28/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Asturian Team alministradores@softastur.org | 
- | [mate-notification-daemon]({{< ref "/f28/package/mate-notification-daemon.md" >}}) | 58 | 139 | 41.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [dpkg]({{< ref "/f28/package/dpkg.md" >}}) | 3645 | 8743 | 41.7 | Asturian <softast-xeneral@lists.sourceforge.net> | 
- | [gnusim8085]({{< ref "/f28/package/gnusim8085.md" >}}) | 235 | 568 | 41.4 | Asturian <ast@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f28/package/sugar-toolkit-gtk3.md" >}}) | 64 | 159 | 40.3 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f28/package/lightdm-gtk.md" >}}) | 35 | 87 | 40.2 | Asturian <ast@li.org> | 
- | [pluma]({{< ref "/f28/package/pluma.md" >}}) | 5092 | 12740 | 40.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [python-blivet]({{< ref "/f28/package/python-blivet.md" >}}) | 202 | 522 | 38.7 | Asturian (http://www.transifex.com/projects/p/blivet/language/ast/) | 
- | [mate-utils]({{< ref "/f28/package/mate-utils.md" >}}) | 3747 | 10102 | 37.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [python2-django1.11]({{< ref "/f28/package/python2-django1.11.md" >}}) | 1267 | 3424 | 37.0 | Asturian (http://www.transifex.com/django/django/language/ast/) | 
- | [gtksourceview3]({{< ref "/f28/package/gtksourceview3.md" >}}) | 119 | 322 | 37.0 | Softastur alministradores@softastur.org | 
- | [python-django]({{< ref "/f28/package/python-django.md" >}}) | 1245 | 3488 | 35.7 | Asturian (http://www.transifex.com/django/django/language/ast/) | 
- | [wicd]({{< ref "/f28/package/wicd.md" >}}) | 403 | 1138 | 35.4 | Asturian <ast@li.org> | 
- | [konqueror]({{< ref "/f28/package/konqueror.md" >}}) | 3174 | 9075 | 35.0 | Asturian <alministradores@softastur.org> | 
- | [gnumeric]({{< ref "/f28/package/gnumeric.md" >}}) | 11856 | 35046 | 33.8 | Softastur alministradores@softastur.org | 
- | [xfce4-weather-plugin]({{< ref "/f28/package/xfce4-weather-plugin.md" >}}) | 1229 | 3668 | 33.5 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
- | [gnome-klotski]({{< ref "/f28/package/gnome-klotski.md" >}}) | 65 | 194 | 33.5 | Asturian Team <alministradores@softastur.org> | 
- | [plasma-pk-updates]({{< ref "/f28/package/plasma-pk-updates.md" >}}) | 692 | 2081 | 33.3 | Asturian <alministradores@softastur.org> | 
- | [remmina]({{< ref "/f28/package/remmina.md" >}}) | 758 | 2324 | 32.6 | Asturian <alministradores@softastur.org> | 
- | [kreversi]({{< ref "/f28/package/kreversi.md" >}}) | 136 | 428 | 31.8 | asturian <alministradores@softastur.org> | 
- | [mate-system-monitor]({{< ref "/f28/package/mate-system-monitor.md" >}}) | 1359 | 4330 | 31.4 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [mate-control-center]({{< ref "/f28/package/mate-control-center.md" >}}) | 2461 | 7915 | 31.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [system-config-language]({{< ref "/f28/package/system-config-language.md" >}}) | 60 | 197 | 30.5 | Asturian <alministradores@softastur.org> | 
- | [mate-power-manager]({{< ref "/f28/package/mate-power-manager.md" >}}) | 1560 | 5246 | 29.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [swell-foop]({{< ref "/f28/package/swell-foop.md" >}}) | 79 | 266 | 29.7 | Asturian Team <alministradores@softastur.org> | 
- | [ktp-kded-integration-module]({{< ref "/f28/package/ktp-kded-integration-module.md" >}}) | 143 | 490 | 29.2 | Asturian <alministradores@softastur.org> | 
- | [midori]({{< ref "/f28/package/midori.md" >}}) | 1032 | 3541 | 29.1 | GALPon MiniNo <mbouzada@gmail.com> | 
- | [zypper]({{< ref "/f28/package/zypper.md" >}}) | 2602 | 9073 | 28.7 | Asturian <https://l10n.opensuse.org/projects/zypper/master/ast/> | 
- | [python-blivet1]({{< ref "/f28/package/python-blivet1.md" >}}) | 194 | 707 | 27.4 | Asturian | 
- | [gnome-mines]({{< ref "/f28/package/gnome-mines.md" >}}) | 94 | 344 | 27.3 | Asturian Team <alministradores@softastur.org> | 
- | [grub-customizer]({{< ref "/f28/package/grub-customizer.md" >}}) | 352 | 1295 | 27.2 | Asturian <ast@li.org> | 
- | [shared-mime-info]({{< ref "/f28/package/shared-mime-info.md" >}}) | 524 | 1959 | 26.7 | Asturian (http://www.transifex.com/freedesktop/shared-mime-info/language/ast/) | 
- | [kde-l10n]({{< ref "/f28/package/kde-l10n.md" >}}) | 25873 | 101921 | 25.4 | asturian <alministradores@softastur.org> | 
- | [network-manager-applet]({{< ref "/f28/package/network-manager-applet.md" >}}) | 1087 | 4403 | 24.7 | Softastur <alministradores@softastur.org> | 
- | [dnfdragora]({{< ref "/f28/package/dnfdragora.md" >}}) | 211 | 859 | 24.6 | Asturian (https://www.transifex.com/MageiaLinux/teams/9361/ast/) | 
- | [eom]({{< ref "/f28/package/eom.md" >}}) | 1233 | 5121 | 24.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [gcr]({{< ref "/f28/package/gcr.md" >}}) | 141 | 622 | 22.7 | Asturian Team alministradores@softastur.org | 
- | [net6]({{< ref "/f28/package/net6.md" >}}) | 68 | 304 | 22.4 | Asturian <ast@li.org> | 
- | [im-chooser]({{< ref "/f28/package/im-chooser.md" >}}) | 52 | 239 | 21.8 | LANGUAGE <LL@li.org> | 
- | [lightdm]({{< ref "/f28/package/lightdm.md" >}}) | 35 | 163 | 21.5 | Asturian <ast@li.org> | 
- | [engrampa]({{< ref "/f28/package/engrampa.md" >}}) | 1664 | 7819 | 21.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [system-config-kdump]({{< ref "/f28/package/system-config-kdump.md" >}}) | 185 | 877 | 21.1 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [viking]({{< ref "/f28/package/viking.md" >}}) | 861 | 4135 | 20.8 | Asturian <ast@li.org> | 
- | [mate-menu]({{< ref "/f28/package/mate-menu.md" >}}) | 65 | 316 | 20.6 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
- | [spectacle]({{< ref "/f28/package/spectacle.md" >}}) | 104 | 516 | 20.2 | Asturian <alministradores@softastur.org> | 
- | [homebank]({{< ref "/f28/package/homebank.md" >}}) | 468 | 2436 | 19.2 | Asturian <ast@li.org> | 
- | [lxdm]({{< ref "/f28/package/lxdm.md" >}}) | 9 | 47 | 19.1 | asturian <alministradores@softastur.org> | 
- | [kde-partitionmanager]({{< ref "/f28/package/kde-partitionmanager.md" >}}) | 439 | 2299 | 19.1 | Asturian <alministradores@softastur.org> | 
- | [terminator]({{< ref "/f28/package/terminator.md" >}}) | 266 | 1410 | 18.9 | Asturian <ast@li.org> | 
- | [svgpart]({{< ref "/f28/package/svgpart.md" >}}) | 4 | 22 | 18.2 | Asturian <alministradores@softastur.org> | 
- | [kdialog]({{< ref "/f28/package/kdialog.md" >}}) | 61 | 347 | 17.6 | Asturian <alministradores@softastur.org> | 
- | [shutter]({{< ref "/f28/package/shutter.md" >}}) | 400 | 2448 | 16.3 | Asturian <ast@li.org> | 
- | [khelpcenter]({{< ref "/f28/package/khelpcenter.md" >}}) | 38 | 256 | 14.8 | Asturian <alministradores@softastur.org> | 
- | [kf5-grantleetheme]({{< ref "/f28/package/kf5-grantleetheme.md" >}}) | 2 | 14 | 14.3 | Asturian <alministradores@softastur.org> | 
- | [libkmahjongg]({{< ref "/f28/package/libkmahjongg.md" >}}) | 1 | 7 | 14.3 | Asturian <alministradores@softastur.org> | 
- | [kcolorchooser]({{< ref "/f28/package/kcolorchooser.md" >}}) | 4 | 29 | 13.8 | Asturian <alministradores@softastur.org> | 
- | [pantheon-greeter]({{< ref "/f28/package/pantheon-greeter.md" >}}) | 4 | 29 | 13.8 | Asturian <ast@li.org> | 
- | [grub2]({{< ref "/f28/package/grub2.md" >}}) | 962 | 7119 | 13.5 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
- | [kdepim-runtime]({{< ref "/f28/package/kdepim-runtime.md" >}}) | 988 | 7534 | 13.1 | Asturian <alministradores@softastur.org> | 
- | [python-django-formtools]({{< ref "/f28/package/python-django-formtools.md" >}}) | 4 | 32 | 12.5 | Asturian (http://www.transifex.com/projects/p/django-formtools/language/ast/) | 
- | [plasma-nm]({{< ref "/f28/package/plasma-nm.md" >}}) | 546 | 4372 | 12.5 | Asturian <alministradores@softastur.org> | 
- | [okular]({{< ref "/f28/package/okular.md" >}}) | 565 | 4527 | 12.5 | Asturian <alministradores@softastur.org> | 
- | [soundconverter]({{< ref "/f28/package/soundconverter.md" >}}) | 47 | 377 | 12.5 | Asturian <ast@li.org> | 
- | [mate-applets]({{< ref "/f28/package/mate-applets.md" >}}) | 1990 | 16336 | 12.2 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [jmol]({{< ref "/f28/package/jmol.md" >}}) | 176 | 1448 | 12.2 | Asturian <ast@li.org> | 
- | [mate-themes]({{< ref "/f28/package/mate-themes.md" >}}) | 7 | 60 | 11.7 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
- | [pykickstart]({{< ref "/f28/package/pykickstart.md" >}}) | 171 | 1521 | 11.2 | Asturian (http://www.transifex.com/projects/p/pykickstart/language/ast/) | 
- | [gtg]({{< ref "/f28/package/gtg.md" >}}) | 386 | 3497 | 11.0 | Asturian <ast@li.org> | 
- | [iagno]({{< ref "/f28/package/iagno.md" >}}) | 34 | 322 | 10.6 | Asturian Team <alministradores@softastur.org> | 
- | [lightsoff]({{< ref "/f28/package/lightsoff.md" >}}) | 10 | 97 | 10.3 | Asturian Team <alministradores@softastur.org> | 
- | [ksystemlog]({{< ref "/f28/package/ksystemlog.md" >}}) | 306 | 3034 | 10.1 | Asturian <alministradores@softastur.org> | 
- | [mbox-importer]({{< ref "/f28/package/mbox-importer.md" >}}) | 4 | 40 | 10.0 | Asturian <alministradores@softastur.org> | 
- | [publican]({{< ref "/f28/package/publican.md" >}}) | 532 | 5377 | 9.9 | asturian <alministradores@softastur.org> | 
- | [zanshin]({{< ref "/f28/package/zanshin.md" >}}) | 84 | 893 | 9.4 | Asturian <alministradores@softastur.org> | 
- | [ksshaskpass]({{< ref "/f28/package/ksshaskpass.md" >}}) | 4 | 43 | 9.3 | Asturian <alministradores@softastur.org> | 
- | [exaile]({{< ref "/f28/package/exaile.md" >}}) | 312 | 4006 | 7.8 | Asturian <ast@li.org> | 
- | [plasma-milou]({{< ref "/f28/package/plasma-milou.md" >}}) | 3 | 42 | 7.1 | Asturian <alministradores@softastur.org> | 
- | [kpmcore]({{< ref "/f28/package/kpmcore.md" >}}) | 225 | 3171 | 7.1 | Asturian <alministradores@softastur.org> | 
- | [kf5-libkcompactdisc]({{< ref "/f28/package/kf5-libkcompactdisc.md" >}}) | 1 | 15 | 6.7 | Asturian <alministradores@softastur.org> | 
- | [kreport]({{< ref "/f28/package/kreport.md" >}}) | 34 | 514 | 6.6 | Asturian <alministradores@softastur.org> | 
- | [playonlinux]({{< ref "/f28/package/playonlinux.md" >}}) | 179 | 2728 | 6.6 | Asturian <ast@li.org> | 
- | [gnome-sudoku]({{< ref "/f28/package/gnome-sudoku.md" >}}) | 26 | 399 | 6.5 | Asturian Team <alministradores@softastur.org> | 
- | [kinfocenter]({{< ref "/f28/package/kinfocenter.md" >}}) | 190 | 2925 | 6.5 | Asturian <alministradores@softastur.org> | 
- | [kdb]({{< ref "/f28/package/kdb.md" >}}) | 96 | 1494 | 6.4 | Asturian <alministradores@softastur.org> | 
- | [kjots]({{< ref "/f28/package/kjots.md" >}}) | 25 | 399 | 6.3 | Asturian <alministradores@softastur.org> | 
- | [kf5-kitinerary]({{< ref "/f28/package/kf5-kitinerary.md" >}}) | 4 | 65 | 6.2 | Asturian <alministradores@softastur.org> | 
- | [appcenter]({{< ref "/f28/package/appcenter.md" >}}) | 47 | 765 | 6.1 | LANGUAGE <LL@li.org> | 
- | [pinta]({{< ref "/f28/package/pinta.md" >}}) | 99 | 1618 | 6.1 | Asturian <ast@li.org> | 
- | [kdesdk-kioslaves]({{< ref "/f28/package/kdesdk-kioslaves.md" >}}) | 5 | 82 | 6.1 | Asturian <alministradores@softastur.org> | 
- | [konsole5]({{< ref "/f28/package/konsole5.md" >}}) | 160 | 2803 | 5.7 | Asturian <alministradores@softastur.org> | 
- | [publican-fedora]({{< ref "/f28/package/publican-fedora.md" >}}) | 6 | 107 | 5.6 | asturian <alministradores@softastur.org> | 
- | [kcm_wacomtablet]({{< ref "/f28/package/kcm_wacomtablet.md" >}}) | 58 | 1056 | 5.5 | Asturian <alministradores@softastur.org> | 
- | [kwin]({{< ref "/f28/package/kwin.md" >}}) | 332 | 6239 | 5.3 | Asturian <alministradores@softastur.org> | 
- | [plasma-integration]({{< ref "/f28/package/plasma-integration.md" >}}) | 3 | 58 | 5.2 | Asturian <alministradores@softastur.org> | 
- | [plasma-sdk]({{< ref "/f28/package/plasma-sdk.md" >}}) | 44 | 852 | 5.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-kalarmcal]({{< ref "/f28/package/kf5-kalarmcal.md" >}}) | 10 | 198 | 5.1 | Asturian <alministradores@softastur.org> | 
- | [libmatemixer]({{< ref "/f28/package/libmatemixer.md" >}}) | 12 | 242 | 5.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [bovo]({{< ref "/f28/package/bovo.md" >}}) | 4 | 81 | 4.9 | Asturian <alministradores@softastur.org> | 
- | [plasma-discover]({{< ref "/f28/package/plasma-discover.md" >}}) | 60 | 1262 | 4.8 | Asturian <alministradores@softastur.org> | 
- | [kcm_systemd]({{< ref "/f28/package/kcm_systemd.md" >}}) | 62 | 1385 | 4.5 | Asturian <alminsitradores@softastur.org> | 
- | [kde-cli-tools]({{< ref "/f28/package/kde-cli-tools.md" >}}) | 95 | 2188 | 4.3 | Asturian <alministradores@softastur.org> | 
- | [picard]({{< ref "/f28/package/picard.md" >}}) | 66 | 1531 | 4.3 | Asturian (http://www.transifex.com/projects/p/musicbrainz/language/ast/) | 
- | [polkit-kde]({{< ref "/f28/package/polkit-kde.md" >}}) | 4 | 94 | 4.3 | Asturian <alministradores@softastur.org> | 
- | [cogl]({{< ref "/f28/package/cogl.md" >}}) | 15 | 361 | 4.2 | Softastur <alministradores@softastur.org> | 
- | [klines]({{< ref "/f28/package/klines.md" >}}) | 4 | 99 | 4.0 | Asturian <alministradores@softastur.org> | 
- | [arduino]({{< ref "/f28/package/arduino.md" >}}) | 124 | 3093 | 4.0 | Asturian (http://www.transifex.com/mbanzi/arduino-ide-15/language/ast/) | 
- | [kde-print-manager]({{< ref "/f28/package/kde-print-manager.md" >}}) | 38 | 960 | 4.0 | Asturian <alministradores@softastur.org> | 
- | [bomber]({{< ref "/f28/package/bomber.md" >}}) | 4 | 103 | 3.9 | Asturian <alministradores@softastur.org> | 
- | [sddm-kcm]({{< ref "/f28/package/sddm-kcm.md" >}}) | 4 | 104 | 3.8 | Asturian <alministradores@softastur.org> | 
- | [lxsession]({{< ref "/f28/package/lxsession.md" >}}) | 29 | 755 | 3.8 | Asturian <alministradores@softastur.org> | 
- | [kmouth]({{< ref "/f28/package/kmouth.md" >}}) | 57 | 1521 | 3.7 | Asturian <alministradores@softastur.org> | 
- | [powerdevil]({{< ref "/f28/package/powerdevil.md" >}}) | 25 | 673 | 3.7 | Asturian <alministradores@softastur.org> | 
- | [kmines]({{< ref "/f28/package/kmines.md" >}}) | 4 | 108 | 3.7 | Asturian <alministradores@softastur.org> | 
- | [kollision]({{< ref "/f28/package/kollision.md" >}}) | 4 | 109 | 3.7 | Asturian <alministradores@softastur.org> | 
- | [plasma-desktop]({{< ref "/f28/package/plasma-desktop.md" >}}) | 428 | 11985 | 3.6 | Asturian <alministradores@softastur.org> | 
- | [kapman]({{< ref "/f28/package/kapman.md" >}}) | 4 | 114 | 3.5 | Asturian <alministradores@softastur.org> | 
- | [kdepim-apps-libs]({{< ref "/f28/package/kdepim-apps-libs.md" >}}) | 2 | 59 | 3.4 | Asturian <alministradores@softastur.org> | 
- | [kf5-libgravatar]({{< ref "/f28/package/kf5-libgravatar.md" >}}) | 1 | 30 | 3.3 | Asturian <alministradores@softastur.org> | 
- | [kdiamond]({{< ref "/f28/package/kdiamond.md" >}}) | 4 | 122 | 3.3 | Asturian <alministradores@softastur.org> | 
- | [mate-polkit]({{< ref "/f28/package/mate-polkit.md" >}}) | 4 | 122 | 3.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [plymouth-kcm]({{< ref "/f28/package/plymouth-kcm.md" >}}) | 4 | 122 | 3.3 | Asturian <alministradores@softastur.org> | 
- | [stellarium]({{< ref "/f28/package/stellarium.md" >}}) | 2229 | 68196 | 3.3 | Asturian (https://www.transifex.com/stellarium/teams/80998/ast/) | 
- | [plasma-workspace]({{< ref "/f28/package/plasma-workspace.md" >}}) | 227 | 7064 | 3.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-akonadi-contacts]({{< ref "/f28/package/kf5-akonadi-contacts.md" >}}) | 44 | 1414 | 3.1 | Asturian <alministradores@softastur.org> | 
- | [unetbootin]({{< ref "/f28/package/unetbootin.md" >}}) | 98 | 3159 | 3.1 | Asturian <ast@li.org> | 
- | [kdiagram]({{< ref "/f28/package/kdiagram.md" >}}) | 2 | 65 | 3.1 | Asturian <> | 
- | [PackageKit]({{< ref "/f28/package/PackageKit.md" >}}) | 39 | 1278 | 3.1 | Asturian (http://www.transifex.com/freedesktop/packagekit/language/ast/) | 
- | [kspaceduel]({{< ref "/f28/package/kspaceduel.md" >}}) | 5 | 165 | 3.0 | Asturian <alministradores@softastur.org> | 
- | [kiriki]({{< ref "/f28/package/kiriki.md" >}}) | 4 | 144 | 2.8 | Asturian <alministradores@softastur.org> | 
- | [light-locker]({{< ref "/f28/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Asturian (http://www.transifex.com/the_cavalry/light-locker/language/ast/) | 
- | [anaconda]({{< ref "/f28/package/anaconda.md" >}}) | 199 | 7551 | 2.6 | Asturian (http://www.transifex.com/projects/p/anaconda/language/ast/) | 
- | [kbrickbuster]({{< ref "/f28/package/kbrickbuster.md" >}}) | 4 | 152 | 2.6 | Asturian <alministradores@softastur.org> | 
- | [kbounce]({{< ref "/f28/package/kbounce.md" >}}) | 4 | 154 | 2.6 | Asturian <alministradores@softastur.org> | 
- | [maya-calendar]({{< ref "/f28/package/maya-calendar.md" >}}) | 10 | 394 | 2.5 | Asturian <ast@li.org> | 
- | [ktuberling]({{< ref "/f28/package/ktuberling.md" >}}) | 4 | 158 | 2.5 | Asturian <alministradores@softastur.org> | 
- | [kblocks]({{< ref "/f28/package/kblocks.md" >}}) | 4 | 159 | 2.5 | Asturian <alministradores@softastur.org> | 
- | [kdevelop]({{< ref "/f28/package/kdevelop.md" >}}) | 325 | 13039 | 2.5 | Asturian <kde-i18n-doc@kde.org> | 
- | [grantlee-editor]({{< ref "/f28/package/grantlee-editor.md" >}}) | 13 | 530 | 2.5 | Asturian <alministradores@softastur.org> | 
- | [kget]({{< ref "/f28/package/kget.md" >}}) | 72 | 2953 | 2.4 | Asturian <> | 
- | [klickety]({{< ref "/f28/package/klickety.md" >}}) | 4 | 178 | 2.2 | Asturian <alministradores@softastur.org> | 
- | [ark]({{< ref "/f28/package/ark.md" >}}) | 41 | 1850 | 2.2 | Asturian <alministradores@softastur.org> | 
- | [kdf]({{< ref "/f28/package/kdf.md" >}}) | 4 | 181 | 2.2 | Asturian <alministradores@softastur.org> | 
- | [kruler]({{< ref "/f28/package/kruler.md" >}}) | 4 | 184 | 2.2 | Asturian <alministradores@softastur.org> | 
- | [katomic]({{< ref "/f28/package/katomic.md" >}}) | 4 | 185 | 2.2 | Asturian <alministradores@softastur.org> | 
- | [kscreen]({{< ref "/f28/package/kscreen.md" >}}) | 4 | 193 | 2.1 | Asturian <alministradores@softastur.org> | 
- | [konquest]({{< ref "/f28/package/konquest.md" >}}) | 5 | 246 | 2.0 | Asturian <alministradores@softastur.org> | 
- | [picmi]({{< ref "/f28/package/picmi.md" >}}) | 4 | 197 | 2.0 | Asturian <alministradores@softastur.org> | 
- | [elementary-calendar]({{< ref "/f28/package/elementary-calendar.md" >}}) | 9 | 449 | 2.0 | Asturian <ast@li.org> | 
- | [kteatime]({{< ref "/f28/package/kteatime.md" >}}) | 4 | 201 | 2.0 | Asturian <alministradores@softastur.org> | 
- | [lskat]({{< ref "/f28/package/lskat.md" >}}) | 5 | 254 | 2.0 | Asturian <alministradores@softastur.org> | 
- | [choqok]({{< ref "/f28/package/choqok.md" >}}) | 41 | 2257 | 1.8 | Asturian <> | 
- | [plasma-systemsettings]({{< ref "/f28/package/plasma-systemsettings.md" >}}) | 4 | 224 | 1.8 | Asturian <alministradores@softastur.org> | 
- | [sweeper]({{< ref "/f28/package/sweeper.md" >}}) | 4 | 229 | 1.7 | Asturian <kde-i18n-doc@kde.org> | 
- | [knetwalk]({{< ref "/f28/package/knetwalk.md" >}}) | 4 | 230 | 1.7 | Asturian <alministradores@softastur.org> | 
- | [kdeplasma-addons]({{< ref "/f28/package/kdeplasma-addons.md" >}}) | 27 | 1612 | 1.7 | Asturian <alministradores@softastur.org> | 
- | [xdg-desktop-portal-kde]({{< ref "/f28/package/xdg-desktop-portal-kde.md" >}}) | 1 | 60 | 1.7 | Asturian <alministradores@softastur.org> | 
- | [granatier]({{< ref "/f28/package/granatier.md" >}}) | 4 | 242 | 1.7 | Asturian <alministradores@softastur.org> | 
- | [kf5-kdav]({{< ref "/f28/package/kf5-kdav.md" >}}) | 3 | 185 | 1.6 | Asturian <> | 
- | [ksquares]({{< ref "/f28/package/ksquares.md" >}}) | 4 | 257 | 1.6 | Asturian <alministradores@softastur.org> | 
- | [kgamma]({{< ref "/f28/package/kgamma.md" >}}) | 2 | 130 | 1.5 | Asturian <alministradores@softastur.org> | 
- | [kapptemplate]({{< ref "/f28/package/kapptemplate.md" >}}) | 4 | 272 | 1.5 | Asturian <alministradores@softastur.org> | 
- | [kmenuedit]({{< ref "/f28/package/kmenuedit.md" >}}) | 4 | 277 | 1.4 | Asturian <alministradores@softastur.org> | 
- | [dragon]({{< ref "/f28/package/dragon.md" >}}) | 4 | 278 | 1.4 | Asturian <alministradores@softastur.org> | 
- | [kf5-akonadi-calendar]({{< ref "/f28/package/kf5-akonadi-calendar.md" >}}) | 27 | 1877 | 1.4 | Asturian <alministradores@softastur.org> | 
- | [libkomparediff2]({{< ref "/f28/package/libkomparediff2.md" >}}) | 2 | 143 | 1.4 | Asturian <alministradores@softastur.org> | 
- | [kf5-audiocd-kio]({{< ref "/f28/package/kf5-audiocd-kio.md" >}}) | 11 | 844 | 1.3 | Asturian <alministradores@softastur.org> | 
- | [kde-gtk-config]({{< ref "/f28/package/kde-gtk-config.md" >}}) | 4 | 309 | 1.3 | Asturian <alministradores@softastur.org> | 
- | [knotes]({{< ref "/f28/package/knotes.md" >}}) | 10 | 789 | 1.3 | Asturian <alministradores@softastur.org> | 
- | [kf5-kmime]({{< ref "/f28/package/kf5-kmime.md" >}}) | 2 | 159 | 1.3 | Asturian <alministradores@softastur.org> | 
- | [filelight]({{< ref "/f28/package/filelight.md" >}}) | 5 | 407 | 1.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-kidentitymanagement]({{< ref "/f28/package/kf5-kidentitymanagement.md" >}}) | 2 | 165 | 1.2 | Asturian <alministradores@softastur.org> | 
- | [kscreenlocker]({{< ref "/f28/package/kscreenlocker.md" >}}) | 3 | 252 | 1.2 | Asturian <alministradores@softastur.org> | 
- | [kmahjongg]({{< ref "/f28/package/kmahjongg.md" >}}) | 4 | 340 | 1.2 | Asturian <alministradores@softastur.org> | 
- | [widelands]({{< ref "/f28/package/widelands.md" >}}) | 471 | 40863 | 1.2 | Asturian (http://www.transifex.com/widelands/widelands/language/ast/) | 
- | [akonadi-import-wizard]({{< ref "/f28/package/akonadi-import-wizard.md" >}}) | 4 | 391 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [kfourinline]({{< ref "/f28/package/kfourinline.md" >}}) | 4 | 392 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [kolf]({{< ref "/f28/package/kolf.md" >}}) | 4 | 396 | 1.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [isoimagewriter]({{< ref "/f28/package/isoimagewriter.md" >}}) | 4 | 399 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [knavalbattle]({{< ref "/f28/package/knavalbattle.md" >}}) | 4 | 399 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [kigo]({{< ref "/f28/package/kigo.md" >}}) | 5 | 500 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-kldap]({{< ref "/f28/package/kf5-kldap.md" >}}) | 2 | 203 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [kjumpingcube]({{< ref "/f28/package/kjumpingcube.md" >}}) | 4 | 412 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [kdepim-addons]({{< ref "/f28/package/kdepim-addons.md" >}}) | 40 | 4159 | 1.0 | Asturian <alministradores@softastur.org> | 
- | [pim-sieve-editor]({{< ref "/f28/package/pim-sieve-editor.md" >}}) | 4 | 435 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [khotkeys]({{< ref "/f28/package/khotkeys.md" >}}) | 4 | 436 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [kpat]({{< ref "/f28/package/kpat.md" >}}) | 4 | 436 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [python-meh]({{< ref "/f28/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Asturian (http://www.transifex.com/projects/p/python-meh/language/ast/) | 
- | [kf5-kimap]({{< ref "/f28/package/kf5-kimap.md" >}}) | 1 | 110 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [mate-sensors-applet]({{< ref "/f28/package/mate-sensors-applet.md" >}}) | 20 | 2215 | 0.9 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [bluedevil]({{< ref "/f28/package/bluedevil.md" >}}) | 5 | 573 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [kf5-kpimtextedit]({{< ref "/f28/package/kf5-kpimtextedit.md" >}}) | 3 | 347 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [kf5-libkdepim]({{< ref "/f28/package/kf5-libkdepim.md" >}}) | 4 | 465 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [keditbookmarks]({{< ref "/f28/package/keditbookmarks.md" >}}) | 4 | 466 | 0.9 | Asturian <alministradores@softastur.org> | 
- | [kfind]({{< ref "/f28/package/kfind.md" >}}) | 4 | 501 | 0.8 | Asturian <alministradores@softastur.org> | 
- | [kdebugsettings]({{< ref "/f28/package/kdebugsettings.md" >}}) | 1 | 130 | 0.8 | Asturian <alministradores@softastur.org> | 
- | [rsibreak]({{< ref "/f28/package/rsibreak.md" >}}) | 9 | 1175 | 0.8 | Asturian <alministradores@softastur.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f28/package/switchboard-plug-keyboard.md" >}}) | 3 | 404 | 0.7 | Asturian <ast@li.org> | 
- | [kshisen]({{< ref "/f28/package/kshisen.md" >}}) | 4 | 568 | 0.7 | Asturian <alministradores@softastur.org> | 
- | [kontact]({{< ref "/f28/package/kontact.md" >}}) | 4 | 599 | 0.7 | Asturian <alministradores@softastur.org> | 
- | [kmail-account-wizard]({{< ref "/f28/package/kmail-account-wizard.md" >}}) | 5 | 799 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [kfloppy]({{< ref "/f28/package/kfloppy.md" >}}) | 4 | 641 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [killbots]({{< ref "/f28/package/killbots.md" >}}) | 4 | 641 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [kf5-kcontacts]({{< ref "/f28/package/kf5-kcontacts.md" >}}) | 1 | 177 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [okteta]({{< ref "/f28/package/okteta.md" >}}) | 14 | 2513 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [kgraphviewer]({{< ref "/f28/package/kgraphviewer.md" >}}) | 7 | 1260 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [pim-data-exporter]({{< ref "/f28/package/pim-data-exporter.md" >}}) | 4 | 723 | 0.6 | Asturian <alministradores@softastur.org> | 
- | [kf5-libkcddb]({{< ref "/f28/package/kf5-libkcddb.md" >}}) | 3 | 557 | 0.5 | Asturian <alministradores@softastur.org> | 
- | [kaddressbook]({{< ref "/f28/package/kaddressbook.md" >}}) | 4 | 750 | 0.5 | Asturian <alministradores@softastur.org> | 
- | [gnome-abrt]({{< ref "/f28/package/gnome-abrt.md" >}}) | 2 | 397 | 0.5 | Asturian (http://www.transifex.com/projects/p/gnome-abrt/language/ast/) | 
- | [cervisia]({{< ref "/f28/package/cervisia.md" >}}) | 8 | 1619 | 0.5 | Asturian <alministradores@softastur.org> | 
- | [ufw-kde]({{< ref "/f28/package/ufw-kde.md" >}}) | 4 | 815 | 0.5 | Asturian <kde-i18n-doc@kde.org> | 
- | [akonadi-calendar-tools]({{< ref "/f28/package/akonadi-calendar-tools.md" >}}) | 4 | 842 | 0.5 | Asturian <alministradores@softastur.org> | 
- | [blogilo]({{< ref "/f28/package/blogilo.md" >}}) | 6 | 1392 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [kubrick]({{< ref "/f28/package/kubrick.md" >}}) | 5 | 1203 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [kcalc]({{< ref "/f28/package/kcalc.md" >}}) | 4 | 976 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [plasma-breeze]({{< ref "/f28/package/plasma-breeze.md" >}}) | 1 | 267 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [ksysguard]({{< ref "/f28/package/ksysguard.md" >}}) | 4 | 1082 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [kf5-libksane]({{< ref "/f28/package/kf5-libksane.md" >}}) | 1 | 272 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [calligra]({{< ref "/f28/package/calligra.md" >}}) | 130 | 35862 | 0.4 | Asturian <alministradores@softastur.org> | 
- | [heaptrack]({{< ref "/f28/package/heaptrack.md" >}}) | 4 | 1206 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [mate-user-guide]({{< ref "/f28/package/mate-user-guide.md" >}}) | 148 | 44681 | 0.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
- | [knemo]({{< ref "/f28/package/knemo.md" >}}) | 4 | 1236 | 0.3 | Asturian <kde-i18n-doc@kde.org> | 
- | [kgpg]({{< ref "/f28/package/kgpg.md" >}}) | 17 | 5282 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [bzr]({{< ref "/f28/package/bzr.md" >}}) | 105 | 33249 | 0.3 | Asturian <ast@li.org> | 
- | [plasma-vault]({{< ref "/f28/package/plasma-vault.md" >}}) | 2 | 635 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [kf5-kmailtransport]({{< ref "/f28/package/kf5-kmailtransport.md" >}}) | 2 | 649 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [ksudoku]({{< ref "/f28/package/ksudoku.md" >}}) | 5 | 1659 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [kblackbox]({{< ref "/f28/package/kblackbox.md" >}}) | 4 | 1364 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [kamera]({{< ref "/f28/package/kamera.md" >}}) | 1 | 342 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [kf5-ktnef]({{< ref "/f28/package/kf5-ktnef.md" >}}) | 1 | 355 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [massif-visualizer]({{< ref "/f28/package/massif-visualizer.md" >}}) | 1 | 357 | 0.3 | Asturian <kde-i18n-doc@kde.org> | 
- | [kompare]({{< ref "/f28/package/kompare.md" >}}) | 4 | 1430 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [gwenview]({{< ref "/f28/package/gwenview.md" >}}) | 4 | 1462 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [libkdegames]({{< ref "/f28/package/libkdegames.md" >}}) | 1 | 370 | 0.3 | Asturian <alministradores@softastur.org> | 
- | [kxstitch]({{< ref "/f28/package/kxstitch.md" >}}) | 5 | 1966 | 0.3 | Asturian <kde-i18n-doc@kde.org> | 
- | [plasma-oxygen]({{< ref "/f28/package/plasma-oxygen.md" >}}) | 2 | 808 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [kmail]({{< ref "/f28/package/kmail.md" >}}) | 21 | 8674 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [akregator]({{< ref "/f28/package/akregator.md" >}}) | 4 | 1774 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-messagelib]({{< ref "/f28/package/kf5-messagelib.md" >}}) | 17 | 7603 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [umbrello]({{< ref "/f28/package/umbrello.md" >}}) | 12 | 5399 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-libktorrent]({{< ref "/f28/package/kf5-libktorrent.md" >}}) | 1 | 471 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [libksysguard]({{< ref "/f28/package/libksysguard.md" >}}) | 6 | 3166 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [dolphin-plugins]({{< ref "/f28/package/dolphin-plugins.md" >}}) | 2 | 1215 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-akonadi-server]({{< ref "/f28/package/kf5-akonadi-server.md" >}}) | 4 | 2486 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [kolourpaint]({{< ref "/f28/package/kolourpaint.md" >}}) | 4 | 2623 | 0.2 | Asturian <alministradores@softastur.org> | 
- | [kf5-eventviews]({{< ref "/f28/package/kf5-eventviews.md" >}}) | 4 | 2942 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [palapeli]({{< ref "/f28/package/palapeli.md" >}}) | 2 | 1512 | 0.1 | Asturian <kde-i18n-doc@kde.org> | 
- | [kf5-kcalendarutils]({{< ref "/f28/package/kf5-kcalendarutils.md" >}}) | 2 | 1630 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [korganizer]({{< ref "/f28/package/korganizer.md" >}}) | 8 | 6757 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [lokalize]({{< ref "/f28/package/lokalize.md" >}}) | 4 | 3557 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [smb4k]({{< ref "/f28/package/smb4k.md" >}}) | 7 | 6557 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [calligraplan]({{< ref "/f28/package/calligraplan.md" >}}) | 10 | 9630 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [calibre]({{< ref "/f28/package/calibre.md" >}}) | 163 | 158760 | 0.1 | Asturian (http://www.transifex.com/calibre/calibre/language/ast/) | 
- | [plasma-drkonqi]({{< ref "/f28/package/plasma-drkonqi.md" >}}) | 4 | 4015 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kf5-pimcommon]({{< ref "/f28/package/kf5-pimcommon.md" >}}) | 1 | 1013 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kexi]({{< ref "/f28/package/kexi.md" >}}) | 7 | 7351 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kcachegrind]({{< ref "/f28/package/kcachegrind.md" >}}) | 4 | 4370 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kleopatra]({{< ref "/f28/package/kleopatra.md" >}}) | 8 | 8813 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kf5-libkleo]({{< ref "/f28/package/kf5-libkleo.md" >}}) | 1 | 1203 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [tellico]({{< ref "/f28/package/tellico.md" >}}) | 4 | 5626 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [juk]({{< ref "/f28/package/juk.md" >}}) | 1 | 1453 | 0.1 | Asturian <kde-i18n-doc@kde.org> | 
- | [kf5-libksieve]({{< ref "/f28/package/kf5-libksieve.md" >}}) | 2 | 3298 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [k3b]({{< ref "/f28/package/k3b.md" >}}) | 12 | 20221 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kalarm]({{< ref "/f28/package/kalarm.md" >}}) | 4 | 7269 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [ktorrent]({{< ref "/f28/package/ktorrent.md" >}}) | 4 | 7538 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [krusader]({{< ref "/f28/package/krusader.md" >}}) | 4 | 7938 | 0.1 | Asturian <alministradores@softastur.org> | 
- | [kf5-incidenceeditor]({{< ref "/f28/package/kf5-incidenceeditor.md" >}}) | 1 | 2364 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kphotoalbum]({{< ref "/f28/package/kphotoalbum.md" >}}) | 4 | 9564 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kajongg]({{< ref "/f28/package/kajongg.md" >}}) | 1 | 2444 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [kf5-mailcommon]({{< ref "/f28/package/kf5-mailcommon.md" >}}) | 1 | 2826 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [ksirk]({{< ref "/f28/package/ksirk.md" >}}) | 2 | 5763 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [skrooge]({{< ref "/f28/package/skrooge.md" >}}) | 4 | 11672 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-calendarsupport]({{< ref "/f28/package/kf5-calendarsupport.md" >}}) | 1 | 2976 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [rkward]({{< ref "/f28/package/rkward.md" >}}) | 11 | 34404 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [abrt]({{< ref "/f28/package/abrt.md" >}}) | 1 | 3969 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora-abrt/language/ast/) | 
- | [kgoldrunner]({{< ref "/f28/package/kgoldrunner.md" >}}) | 5 | 23557 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kdesvn]({{< ref "/f28/package/kdesvn.md" >}}) | 1 | 4845 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [kmymoney]({{< ref "/f28/package/kmymoney.md" >}}) | 4 | 21378 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kstars]({{< ref "/f28/package/kstars.md" >}}) | 4 | 56712 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [wesnoth]({{< ref "/f28/package/wesnoth.md" >}}) | 5 | 276605 | 0.0 | LANGUAGE <LL@li.org> | 
- | [LabPlot]({{< ref "/f28/package/LabPlot.md" >}}) | 0 | 6988 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [audience]({{< ref "/f28/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [authconfig]({{< ref "/f28/package/authconfig.md" >}}) | 0 | 929 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [blivet-gui]({{< ref "/f28/package/blivet-gui.md" >}}) | 0 | 815 | 0.0 | Asturian | 
- | [certmonger]({{< ref "/f28/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Asturian (http://www.transifex.com/projects/p/certmonger/language/ast/) | 
- | [dippi]({{< ref "/f28/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [dnf-plugins-extras]({{< ref "/f28/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Asturian | 
- | [docker-anaconda-addon]({{< ref "/f28/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Asturian | 
- | [elementary-calculator]({{< ref "/f28/package/elementary-calculator.md" >}}) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-camera]({{< ref "/f28/package/elementary-camera.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-capnet-assist]({{< ref "/f28/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-screenshot-tool]({{< ref "/f28/package/elementary-screenshot-tool.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f28/package/elementary-shortcut-overlay.md" >}}) | 0 | 82 | 0.0 | none | 
- | [entangle]({{< ref "/f28/package/entangle.md" >}}) | 0 | 953 | 0.0 | Asturian | 
- | [feedreader]({{< ref "/f28/package/feedreader.md" >}}) | 0 | 799 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f28/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Asturian | 
- | [fprintd]({{< ref "/f28/package/fprintd.md" >}}) | 0 | 419 | 0.0 | Asturian (http://www.transifex.com/freedesktop/fprintd/language/ast/) | 
- | [gcompris-qt]({{< ref "/f28/package/gcompris-qt.md" >}}) | 0 | 23313 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [harvey]({{< ref "/f28/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [initial-setup]({{< ref "/f28/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Asturian | 
- | [initscripts]({{< ref "/f28/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [kdesdk-thumbnailers]({{< ref "/f28/package/kdesdk-thumbnailers.md" >}}) | 0 | 4 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kdevelop-php]({{< ref "/f28/package/kdevelop-php.md" >}}) | 0 | 511 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [kdevelop-python]({{< ref "/f28/package/kdevelop-python.md" >}}) | 0 | 582 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [kf5-akonadi-mime]({{< ref "/f28/package/kf5-akonadi-mime.md" >}}) | 0 | 572 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-akonadi-search]({{< ref "/f28/package/kf5-akonadi-search.md" >}}) | 0 | 48 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-kblog]({{< ref "/f28/package/kf5-kblog.md" >}}) | 0 | 243 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [kf5-ksmtp]({{< ref "/f28/package/kf5-ksmtp.md" >}}) | 0 | 81 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
- | [kf5-mailimporter]({{< ref "/f28/package/kf5-mailimporter.md" >}}) | 0 | 1408 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [ldm]({{< ref "/f28/package/ldm.md" >}}) | 0 | 55 | 0.0 | Asturian <ast@li.org> | 
- | [libbytesize]({{< ref "/f28/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Asturian | 
- | [libosinfo]({{< ref "/f28/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Asturian | 
- | [libreport]({{< ref "/f28/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Asturian (http://www.transifex.com/projects/p/libreport/language/ast/) | 
- | [libvirt]({{< ref "/f28/package/libvirt.md" >}}) | 0 | 63891 | 0.0 | Asturian | 
- | [libvirt-glib]({{< ref "/f28/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Asturian (http://www.transifex.com/projects/p/libvirt-glib/language/ast/) | 
- | [libvirt-sandbox]({{< ref "/f28/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [mingw-libosinfo]({{< ref "/f28/package/mingw-libosinfo.md" >}}) | 0 | 2049 | 0.0 | Asturian | 
- | [mingw-libvirt]({{< ref "/f28/package/mingw-libvirt.md" >}}) | 0 | 63891 | 0.0 | Asturian | 
- | [mingw-libvirt-glib]({{< ref "/f28/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Asturian (http://www.transifex.com/projects/p/libvirt-glib/language/ast/) | 
- | [noise]({{< ref "/f28/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f28/package/optimizer.md" >}}) | 0 | 111 | 0.0 | none | 
- | [osinfo-db-tools]({{< ref "/f28/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Asturian | 
- | [p11-kit]({{< ref "/f28/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Asturian (http://www.transifex.com/freedesktop/p11-kit/language/ast/) | 
- | [pam]({{< ref "/f28/package/pam.md" >}}) | 0 | 597 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [pantheon-agent-geoclue2]({{< ref "/f28/package/pantheon-agent-geoclue2.md" >}}) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f28/package/pantheon-agent-polkit.md" >}}) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f28/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f28/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pingus]({{< ref "/f28/package/pingus.md" >}}) | 0 | 5395 | 0.0 | Asturian <ast@li.org> | 
- | [plasma-browser-integration]({{< ref "/f28/package/plasma-browser-integration.md" >}}) | 0 | 11 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [plasma-user-manager]({{< ref "/f28/package/plasma-user-manager.md" >}}) | 0 | 295 | 0.0 | Asturian <alministradores@softastur.org> | 
- | [policycoreutils]({{< ref "/f28/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [python-fedora]({{< ref "/f28/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Asturian | 
- | [python-simpleline]({{< ref "/f28/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Asturian | 
- | [retrace-server]({{< ref "/f28/package/retrace-server.md" >}}) | 0 | 381 | 0.0 | Language ast | 
- | [rhn-client-tools]({{< ref "/f28/package/rhn-client-tools.md" >}}) | 0 | 4057 | 0.0 | Asturian (http://www.transifex.com/projects/p/spacewalk/language/ast/) | 
- | [rhnsd]({{< ref "/f28/package/rhnsd.md" >}}) | 0 | 33 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [scratch-text-editor]({{< ref "/f28/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f28/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sequeler]({{< ref "/f28/package/sequeler.md" >}}) | 0 | 252 | 0.0 |  | 
- | [setroubleshoot]({{< ref "/f28/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [setroubleshoot-plugins]({{< ref "/f28/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
- | [slingshot-launcher]({{< ref "/f28/package/slingshot-launcher.md" >}}) | 0 | 217 | 0.0 | LANGUAGE <LL@li.org> | 
- | [snap-photobooth]({{< ref "/f28/package/snap-photobooth.md" >}}) | 0 | 25 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f28/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f28/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f28/package/switchboard.md" >}}) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f28/package/switchboard-plug-a11y.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f28/package/switchboard-plug-about.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f28/package/switchboard-plug-applications.md" >}}) | 0 | 86 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f28/package/switchboard-plug-bluetooth.md" >}}) | 0 | 74 | 0.0 | Asturian <ast@li.org> | 
- | [switchboard-plug-display]({{< ref "/f28/package/switchboard-plug-display.md" >}}) | 0 | 126 | 0.0 | Asturian <ast@li.org> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f28/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 150 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f28/package/switchboard-plug-networking.md" >}}) | 0 | 444 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f28/package/switchboard-plug-notifications.md" >}}) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f28/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f28/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 153 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f28/package/switchboard-plug-printers.md" >}}) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f28/package/switchboard-plug-sharing.md" >}}) | 0 | 130 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f28/package/switchboard-plug-sound.md" >}}) | 0 | 131 | 0.0 |  | 
- | [unixcw]({{< ref "/f28/package/unixcw.md" >}}) | 0 | 85 | 0.0 | asturian <alministradores@softastur.org> | 
- | [virt-viewer]({{< ref "/f28/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Asturian | 
- | [vocal]({{< ref "/f28/package/vocal.md" >}}) | 0 | 377 | 0.0 | Asturian <ast@li.org> | 
- | [wingpanel]({{< ref "/f28/package/wingpanel.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f28/package/wingpanel-applications-menu.md" >}}) | 0 | 225 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f28/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f28/package/wingpanel-indicator-datetime.md" >}}) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f28/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f28/package/wingpanel-indicator-network.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f28/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 16 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f28/package/wingpanel-indicator-notifications.md" >}}) | 0 | 16 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f28/package/wingpanel-indicator-power.md" >}}) | 0 | 93 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f28/package/wingpanel-indicator-session.md" >}}) | 0 | 57 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f28/package/wingpanel-indicator-sound.md" >}}) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f28/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [0ad](/f28/package/0ad) | 212 | 212 | 100.0 | Asturian (http://www.transifex.com/wildfire-games/0ad/language/ast/) | 
+ | [GConf2](/f28/package/GConf2) | 4088 | 4088 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [Thunar](/f28/package/Thunar) | 4201 | 4201 | 100.0 | Asturian (https://www.transifex.com/xfce/teams/16840/ast/) | 
+ | [accerciser](/f28/package/accerciser) | 623 | 623 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [aisleriot](/f28/package/aisleriot) | 2292 | 2292 | 100.0 | Softastur alministradores@softastur.org | 
+ | [alacarte](/f28/package/alacarte) | 42 | 42 | 100.0 | Asturian <ast@li.org> | 
+ | [anjuta](/f28/package/anjuta) | 7744 | 7744 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [aspell](/f28/package/aspell) | 1726 | 1726 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [at-spi2-core](/f28/package/at-spi2-core) | 96 | 96 | 100.0 | Softastur alministradores@softastur.org | 
+ | [atk](/f28/package/atk) | 398 | 398 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [audit-viewer](/f28/package/audit-viewer) | 611 | 611 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [baloo-widgets](/f28/package/baloo-widgets) | 42 | 42 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [baobab](/f28/package/baobab) | 540 | 540 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [bison](/f28/package/bison) | 52 | 52 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [bleachbit](/f28/package/bleachbit) | 1260 | 1260 | 100.0 | Asturian <ast@li.org> | 
+ | [brasero](/f28/package/brasero) | 5493 | 5493 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [caribou](/f28/package/caribou) | 200 | 200 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [cinnamon-control-center](/f28/package/cinnamon-control-center) | 1313 | 1313 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [clamtk](/f28/package/clamtk) | 456 | 456 | 100.0 | Asturian <ast@li.org> | 
+ | [compat-gtkhtml314](/f28/package/compat-gtkhtml314) | 713 | 713 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [corebird](/f28/package/corebird) | 586 | 586 | 100.0 | Asturian (http://www.transifex.com/corebird/corebird/language/ast/) | 
+ | [dasher](/f28/package/dasher) | 614 | 614 | 100.0 | asturian <alministradores@softastur.org> | 
+ | [deepin-metacity](/f28/package/deepin-metacity) | 2017 | 2017 | 100.0 | Softastur alministradores@softastur.org | 
+ | [devhelp](/f28/package/devhelp) | 456 | 456 | 100.0 | Softastur alministradores@softastur.org | 
+ | [ekiga](/f28/package/ekiga) | 4204 | 4204 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [eog](/f28/package/eog) | 1589 | 1589 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [epiphany](/f28/package/epiphany) | 3073 | 3073 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [evince](/f28/package/evince) | 1437 | 1437 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [evolution](/f28/package/evolution) | 21611 | 21611 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [evolution-data-server](/f28/package/evolution-data-server) | 4619 | 4619 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [evolution-mapi](/f28/package/evolution-mapi) | 332 | 332 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [file-roller](/f28/package/file-roller) | 1519 | 1519 | 100.0 | Asturian <ast@li.org> | 
+ | [fwupd](/f28/package/fwupd) | 16 | 16 | 100.0 | Asturian (http://www.transifex.com/freedesktop/fwupd/language/ast/) | 
+ | [garcon](/f28/package/garcon) | 109 | 109 | 100.0 | Asturian (http://www.transifex.com/xfce/garcon/language/ast/) | 
+ | [gbrainy](/f28/package/gbrainy) | 8036 | 8036 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gcompris](/f28/package/gcompris) | 11879 | 11879 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gedit](/f28/package/gedit) | 4323 | 4323 | 100.0 | Softastur alministradores@softastur.org | 
+ | [glade](/f28/package/glade) | 4180 | 4180 | 100.0 | Softastur alministradores@softastur.org | 
+ | [glade3](/f28/package/glade3) | 4319 | 4319 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gnome-backgrounds](/f28/package/gnome-backgrounds) | 23 | 23 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [gnome-bluetooth](/f28/package/gnome-bluetooth) | 664 | 664 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [gnome-calculator](/f28/package/gnome-calculator) | 1399 | 1399 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-contacts](/f28/package/gnome-contacts) | 205 | 205 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-control-center](/f28/package/gnome-control-center) | 4286 | 4286 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [gnome-desktop3](/f28/package/gnome-desktop3) | 207 | 207 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [gnome-dictionary](/f28/package/gnome-dictionary) | 833 | 833 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-disk-utility](/f28/package/gnome-disk-utility) | 4544 | 4544 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [gnome-doc-utils](/f28/package/gnome-doc-utils) | 251 | 251 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [gnome-font-viewer](/f28/package/gnome-font-viewer) | 32 | 32 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-icon-theme](/f28/package/gnome-icon-theme) | 20 | 20 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [gnome-keyring](/f28/package/gnome-keyring) | 928 | 928 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-mahjongg](/f28/package/gnome-mahjongg) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
+ | [gnome-menus](/f28/package/gnome-menus) | 157 | 157 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [gnome-nettool](/f28/package/gnome-nettool) | 644 | 644 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gnome-nibbles](/f28/package/gnome-nibbles) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
+ | [gnome-packagekit](/f28/package/gnome-packagekit) | 4790 | 4790 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-power-manager](/f28/package/gnome-power-manager) | 432 | 432 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gnome-search-tool](/f28/package/gnome-search-tool) | 1359 | 1359 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-settings-daemon](/f28/package/gnome-settings-daemon) | 3892 | 3892 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-shell](/f28/package/gnome-shell) | 1305 | 1305 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-system-log](/f28/package/gnome-system-log) | 522 | 522 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [gnome-terminal](/f28/package/gnome-terminal) | 4145 | 4145 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gnome-tetravex](/f28/package/gnome-tetravex) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
+ | [gnome-themes](/f28/package/gnome-themes) | 109 | 109 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [gnome-user-share](/f28/package/gnome-user-share) | 326 | 326 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [gobby](/f28/package/gobby) | 900 | 900 | 100.0 | Softastur alministradores@softastur.org | 
+ | [goffice08](/f28/package/goffice08) | 4600 | 4600 | 100.0 | Softastur alministradores@softastur.org | 
+ | [gtk2-engines](/f28/package/gtk2-engines) | 119 | 119 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [gtkhtml3](/f28/package/gtkhtml3) | 713 | 713 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [gtksourceview2](/f28/package/gtksourceview2) | 1393 | 1393 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [gtkspell3](/f28/package/gtkspell3) | 15 | 15 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [gucharmap](/f28/package/gucharmap) | 803 | 803 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [gvfs](/f28/package/gvfs) | 2412 | 2412 | 100.0 | Softastur alministradores@softastur.org | 
+ | [kdenetwork-filesharing](/f28/package/kdenetwork-filesharing) | 42 | 42 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [kdnssd](/f28/package/kdnssd) | 30 | 30 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-akonadi-notes](/f28/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kontactinterface](/f28/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [kflickr](/f28/package/kflickr) | 332 | 332 | 100.0 | Asturian <ast@li.org> | 
+ | [kmousetool](/f28/package/kmousetool) | 147 | 147 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [ktp-auth-handler](/f28/package/ktp-auth-handler) | 83 | 83 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [ktp-desktop-applets](/f28/package/ktp-desktop-applets) | 75 | 75 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [ktp-filetransfer-handler](/f28/package/ktp-filetransfer-handler) | 141 | 141 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libbonobo](/f28/package/libbonobo) | 543 | 543 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libbonoboui](/f28/package/libbonoboui) | 368 | 368 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [libcryptui](/f28/package/libcryptui) | 3033 | 3033 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libgdl](/f28/package/libgdl) | 604 | 604 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [libgnome](/f28/package/libgnome) | 1773 | 1773 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libgnome-keyring](/f28/package/libgnome-keyring) | 44 | 44 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [libgnomecanvas](/f28/package/libgnomecanvas) | 378 | 378 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libgnomekbd](/f28/package/libgnomekbd) | 286 | 286 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [libgnomeui](/f28/package/libgnomeui) | 1226 | 1226 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [libgtop2](/f28/package/libgtop2) | 126 | 126 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libgweather](/f28/package/libgweather) | 6085 | 6085 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libmx](/f28/package/libmx) | 40 | 40 | 100.0 | asturian <alministradores@softastur.org> | 
+ | [libpeas](/f28/package/libpeas) | 103 | 103 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [libwnck](/f28/package/libwnck) | 1124 | 1124 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libwnck3](/f28/package/libwnck3) | 1124 | 1124 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [libxfce4ui](/f28/package/libxfce4ui) | 851 | 851 | 100.0 | Asturian (http://www.transifex.com/projects/p/libxfce4ui/language/ast/) | 
+ | [libxfce4util](/f28/package/libxfce4util) | 424 | 424 | 100.0 | Asturian (http://www.transifex.com/projects/p/libxfce4util/language/ast/) | 
+ | [lxmenu-data](/f28/package/lxmenu-data) | 97 | 97 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [lxshortcut](/f28/package/lxshortcut) | 43 | 43 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [mate-backgrounds](/f28/package/mate-backgrounds) | 30 | 30 | 100.0 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
+ | [mate-icon-theme](/f28/package/mate-icon-theme) | 4 | 4 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [mate-menus](/f28/package/mate-menus) | 97 | 97 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [mate-screensaver](/f28/package/mate-screensaver) | 983 | 983 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [metacity](/f28/package/metacity) | 2017 | 2017 | 100.0 | Softastur alministradores@softastur.org | 
+ | [mingw-GConf2](/f28/package/mingw-GConf2) | 4088 | 4088 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [mingw-atk](/f28/package/mingw-atk) | 398 | 398 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [mingw-gtkspell3](/f28/package/mingw-gtkspell3) | 15 | 15 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [mousetweaks](/f28/package/mousetweaks) | 730 | 730 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [mozo](/f28/package/mozo) | 42 | 42 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [muffin](/f28/package/muffin) | 2423 | 2423 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [multimedia-menus](/f28/package/multimedia-menus) | 56 | 56 | 100.0 | Fedora Asturian <alministradores@softastur.org> | 
+ | [nautilus](/f28/package/nautilus) | 7079 | 7079 | 100.0 | Softastur alministradores@softastur.org | 
+ | [nautilus-sendto](/f28/package/nautilus-sendto) | 310 | 310 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [newt](/f28/package/newt) | 4 | 4 | 100.0 | Asturian <ast@li.org> | 
+ | [notification-daemon](/f28/package/notification-daemon) | 17 | 17 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [obby](/f28/package/obby) | 159 | 159 | 100.0 | Asturian <ast@li.org> | 
+ | [orca](/f28/package/orca) | 4314 | 4314 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [pastebinit](/f28/package/pastebinit) | 195 | 195 | 100.0 | Asturian <ast@li.org> | 
+ | [pitivi](/f28/package/pitivi) | 1313 | 1313 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [planner](/f28/package/planner) | 1834 | 1834 | 100.0 | Softastur alministradores@softastur.org | 
+ | [pogo](/f28/package/pogo) | 576 | 576 | 100.0 | Asturian <ast@li.org> | 
+ | [python-caja](/f28/package/python-caja) | 6 | 6 | 100.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [quadrapassel](/f28/package/quadrapassel) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
+ | [seahorse](/f28/package/seahorse) | 3033 | 3033 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [setuptool](/f28/package/setuptool) | 55 | 55 | 100.0 | Fedora Asturian <alministradores@softastur.org> | 
+ | [sound-juicer](/f28/package/sound-juicer) | 1022 | 1022 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [subdownloader](/f28/package/subdownloader) | 968 | 968 | 100.0 | Asturian <ast@li.org> | 
+ | [sushi](/f28/package/sushi) | 15 | 15 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [syncevolution](/f28/package/syncevolution) | 1119 | 1119 | 100.0 | Softastur <alministradores@softastur.org> | 
+ | [system-config-keyboard](/f28/package/system-config-keyboard) | 187 | 187 | 100.0 | Fedora Asturian <alministradores@softastur.org> | 
+ | [system-switch-java](/f28/package/system-switch-java) | 81 | 81 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [tali](/f28/package/tali) | 4689 | 4689 | 100.0 | Asturian Team <alministradores@softastur.org> | 
+ | [thunar-archive-plugin](/f28/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [thunar-media-tags-plugin](/f28/package/thunar-media-tags-plugin) | 144 | 144 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [thunar-volman](/f28/package/thunar-volman) | 487 | 487 | 100.0 | Asturian (http://www.transifex.com/projects/p/thunar-volman/language/ast/) | 
+ | [tomboy](/f28/package/tomboy) | 2847 | 2847 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [totem-pl-parser](/f28/package/totem-pl-parser) | 28 | 28 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [transmission](/f28/package/transmission) | 1809 | 1809 | 100.0 | Asturian <ast@li.org> | 
+ | [vinagre](/f28/package/vinagre) | 1419 | 1419 | 100.0 | Softastur alministradores@softastur.org | 
+ | [vino](/f28/package/vino) | 1215 | 1215 | 100.0 | Asturian <gnome@softastur.org> | 
+ | [virtaal](/f28/package/virtaal) | 1433 | 1433 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [vte](/f28/package/vte) | 84 | 84 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [vte291](/f28/package/vte291) | 84 | 84 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [vte3](/f28/package/vte3) | 84 | 84 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [xdg-user-dirs](/f28/package/xdg-user-dirs) | 28 | 28 | 100.0 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [xfbib](/f28/package/xfbib) | 342 | 342 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [xfce4-appfinder](/f28/package/xfce4-appfinder) | 322 | 322 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce4-appfinder/language/ast/) | 
+ | [xfce4-battery-plugin](/f28/package/xfce4-battery-plugin) | 149 | 149 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-cpufreq-plugin](/f28/package/xfce4-cpufreq-plugin) | 140 | 140 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-datetime-plugin](/f28/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [xfce4-diskperf-plugin](/f28/package/xfce4-diskperf-plugin) | 183 | 183 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [xfce4-eyes-plugin](/f28/package/xfce4-eyes-plugin) | 15 | 15 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-fsguard-plugin](/f28/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [xfce4-mpc-plugin](/f28/package/xfce4-mpc-plugin) | 76 | 76 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-netload-plugin](/f28/package/xfce4-netload-plugin) | 92 | 92 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-notes-plugin](/f28/package/xfce4-notes-plugin) | 163 | 163 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [xfce4-notifyd](/f28/package/xfce4-notifyd) | 98 | 98 | 100.0 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [xfce4-places-plugin](/f28/package/xfce4-places-plugin) | 160 | 160 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [xfce4-session](/f28/package/xfce4-session) | 1025 | 1025 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce4-session/language/ast/) | 
+ | [xfce4-smartbookmark-plugin](/f28/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [xfce4-systemload-plugin](/f28/package/xfce4-systemload-plugin) | 75 | 75 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-time-out-plugin](/f28/package/xfce4-time-out-plugin) | 89 | 89 | 100.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [xfconf](/f28/package/xfconf) | 452 | 452 | 100.0 | Asturian (http://www.transifex.com/xfce/xfconf/language/ast/) | 
+ | [xplayer-plparser](/f28/package/xplayer-plparser) | 28 | 28 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [yelp](/f28/package/yelp) | 488 | 488 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [yelp-xsl](/f28/package/yelp-xsl) | 70 | 70 | 100.0 | Asturian <alministradores@softastur.org> | 
+ | [zenity](/f28/package/zenity) | 612 | 612 | 100.0 | Asturian Team alministradores@softastur.org | 
+ | [xfdesktop](/f28/package/xfdesktop) | 972 | 976 | 99.6 | Asturian (http://www.transifex.com/projects/p/xfdesktop/language/ast/) | 
+ | [gtk3](/f28/package/gtk3) | 12565 | 12631 | 99.5 | Softastur alministradores@softastur.org | 
+ | [gtk4](/f28/package/gtk4) | 12565 | 12631 | 99.5 | Softastur alministradores@softastur.org | 
+ | [mingw-gtk3](/f28/package/mingw-gtk3) | 12565 | 12631 | 99.5 | Softastur alministradores@softastur.org | 
+ | [gnome-system-monitor](/f28/package/gnome-system-monitor) | 913 | 918 | 99.5 | Asturian <gnome@softastur.org> | 
+ | [console-setup](/f28/package/console-setup) | 978 | 985 | 99.3 | Softastur | 
+ | [xfburn](/f28/package/xfburn) | 1332 | 1342 | 99.3 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [xfce4-sensors-plugin](/f28/package/xfce4-sensors-plugin) | 354 | 357 | 99.2 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [gpicview](/f28/package/gpicview) | 234 | 236 | 99.2 | asturian <alministradores@softastur.org> | 
+ | [totem](/f28/package/totem) | 2420 | 2441 | 99.1 | Softastur alministradores@softastur.org | 
+ | [deepin-terminal](/f28/package/deepin-terminal) | 457 | 462 | 98.9 | Asturian (https://www.transifex.com/linuxdeepin/teams/3976/ast/) | 
+ | [gnome-session](/f28/package/gnome-session) | 711 | 722 | 98.5 | Asturian <gnome@softastur.org> | 
+ | [libmateweather](/f28/package/libmateweather) | 6004 | 6119 | 98.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [empathy](/f28/package/empathy) | 4638 | 4727 | 98.1 | Softastur <alministradores@softastur.org> | 
+ | [rednotebook](/f28/package/rednotebook) | 1125 | 1147 | 98.1 | Asturian <ast@li.org> | 
+ | [xfce4-clipman-plugin](/f28/package/xfce4-clipman-plugin) | 440 | 449 | 98.0 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [gtk2](/f28/package/gtk2) | 13428 | 13704 | 98.0 | Asturian <alministradores@softastur.org> | 
+ | [mingw-gtk2](/f28/package/mingw-gtk2) | 13428 | 13704 | 98.0 | Asturian <alministradores@softastur.org> | 
+ | [gconf-editor](/f28/package/gconf-editor) | 329 | 336 | 97.9 | Asturian <gnome@softastur.org> | 
+ | [gnome-screensaver](/f28/package/gnome-screensaver) | 954 | 975 | 97.8 | Asturian <gnome@softastur.org> | 
+ | [cheese](/f28/package/cheese) | 538 | 550 | 97.8 | Softastur alministradores@softastur.org | 
+ | [tuxpaint-stamps](/f28/package/tuxpaint-stamps) | 3199 | 3271 | 97.8 | Softastur alministradores@softastur.org | 
+ | [gnome-vfs2](/f28/package/gnome-vfs2) | 1473 | 1508 | 97.7 | Asturian <gnome@softastur.org> | 
+ | [seahorse-caja](/f28/package/seahorse-caja) | 411 | 421 | 97.6 | Asturian Team alministradores@softastur.org | 
+ | [seahorse-nautilus](/f28/package/seahorse-nautilus) | 411 | 421 | 97.6 | Asturian Team alministradores@softastur.org | 
+ | [xfce4-panel](/f28/package/xfce4-panel) | 1665 | 1709 | 97.4 | Asturian (https://www.transifex.com/xfce/teams/16840/ast/) | 
+ | [nemo-extensions](/f28/package/nemo-extensions) | 242 | 249 | 97.2 | Asturian <ast@li.org> | 
+ | [gnome-desktop](/f28/package/gnome-desktop) | 339 | 349 | 97.1 | Asturian <gnome@softastur.org> | 
+ | [deepin-mutter](/f28/package/deepin-mutter) | 2400 | 2492 | 96.3 | Asturian Team alministradores@softastur.org | 
+ | [mutter](/f28/package/mutter) | 2400 | 2492 | 96.3 | Asturian Team alministradores@softastur.org | 
+ | [xfce4-timer-plugin](/f28/package/xfce4-timer-plugin) | 129 | 134 | 96.3 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
+ | [xfce4-dict](/f28/package/xfce4-dict) | 507 | 527 | 96.2 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [usermode](/f28/package/usermode) | 551 | 573 | 96.2 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [ksnakeduel](/f28/package/ksnakeduel) | 222 | 231 | 96.1 | asturian <alministradores@softastur.org> | 
+ | [gnome-screenshot](/f28/package/gnome-screenshot) | 306 | 319 | 95.9 | Softastur <alministradores@softastur.org> | 
+ | [exo](/f28/package/exo) | 1389 | 1451 | 95.7 | Asturian (http://www.transifex.com/xfce/exo/language/ast/) | 
+ | [gdk-pixbuf2](/f28/package/gdk-pixbuf2) | 1288 | 1348 | 95.5 | Softastur alministradores@softastur.org | 
+ | [mingw-gdk-pixbuf](/f28/package/mingw-gdk-pixbuf) | 1288 | 1348 | 95.5 | Softastur alministradores@softastur.org | 
+ | [dolphin](/f28/package/dolphin) | 1523 | 1596 | 95.4 | Asturian <alministradores@softastur.org> | 
+ | [ktp-approver](/f28/package/ktp-approver) | 67 | 71 | 94.4 | Asturian <alministradores@softastur.org> | 
+ | [xfce4-settings](/f28/package/xfce4-settings) | 1569 | 1664 | 94.3 | Asturian (http://www.transifex.com/xfce/xfce4-settings/language/ast/) | 
+ | [xfce4-wavelan-plugin](/f28/package/xfce4-wavelan-plugin) | 62 | 66 | 93.9 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [lxtask](/f28/package/lxtask) | 122 | 130 | 93.8 | Asturian <alministradores@softastur.org> | 
+ | [quitcount](/f28/package/quitcount) | 154 | 166 | 92.8 | None | 
+ | [xfce4-screenshooter](/f28/package/xfce4-screenshooter) | 503 | 548 | 91.8 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [xfce4-mount-plugin](/f28/package/xfce4-mount-plugin) | 339 | 374 | 90.6 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [ktp-common-internals](/f28/package/ktp-common-internals) | 891 | 989 | 90.1 | Asturian <alministradores@softastur.org> | 
+ | [steadyflow](/f28/package/steadyflow) | 423 | 470 | 90.0 | Asturian <ast@li.org> | 
+ | [xviewer](/f28/package/xviewer) | 1494 | 1677 | 89.1 | Softastur <alministradores@softastur.org> | 
+ | [cinnamon-desktop](/f28/package/cinnamon-desktop) | 208 | 234 | 88.9 | Asturian <gnome@softastur.org> | 
+ | [deepin-qml-widgets](/f28/package/deepin-qml-widgets) | 16 | 18 | 88.9 | Asturian (http://www.transifex.com/projects/p/deepin-qml-widgets/language/ast/) | 
+ | [gnome-online-accounts](/f28/package/gnome-online-accounts) | 680 | 769 | 88.4 | Softastur alministradores@softastur.org | 
+ | [kaccounts-providers](/f28/package/kaccounts-providers) | 53 | 60 | 88.3 | Asturian <alministradores@softastur.org> | 
+ | [slick-greeter](/f28/package/slick-greeter) | 186 | 211 | 88.2 | Asturian <ast@li.org> | 
+ | [xfwm4](/f28/package/xfwm4) | 593 | 673 | 88.1 | Asturian (http://www.transifex.com/projects/p/xfwm4/language/ast/) | 
+ | [lxlauncher](/f28/package/lxlauncher) | 51 | 58 | 87.9 | Asturian <alministradores@softastur.org> | 
+ | [kmag](/f28/package/kmag) | 377 | 432 | 87.3 | Asturian <alministradores@softastur.org> | 
+ | [debconf](/f28/package/debconf) | 747 | 860 | 86.9 | Asturian <softast-xeneral@lists.sourceforge.net> | 
+ | [ktimer](/f28/package/ktimer) | 223 | 258 | 86.4 | Asturian <alministradores@softastur.org> | 
+ | [gnome-activity-journal](/f28/package/gnome-activity-journal) | 272 | 316 | 86.1 | Asturian <ast@li.org> | 
+ | [orage](/f28/package/orage) | 2519 | 2931 | 85.9 | Asturian (http://www.transifex.com/projects/p/xfce-apps/language/ast/) | 
+ | [libkgapi](/f28/package/libkgapi) | 281 | 332 | 84.6 | Asturian <alministradores@softastur.org> | 
+ | [ktp-send-file](/f28/package/ktp-send-file) | 50 | 60 | 83.3 | Asturian <alministradores@softastur.org> | 
+ | [mailman](/f28/package/mailman) | 20145 | 24274 | 83.0 | Asturian <alministradores@softastur.org> | 
+ | [ktp-text-ui](/f28/package/ktp-text-ui) | 1189 | 1441 | 82.5 | Asturian <alministradores@softastur.org> | 
+ | [dia](/f28/package/dia) | 5430 | 6601 | 82.3 | Softastur alministradores@softastur.org | 
+ | [xplayer](/f28/package/xplayer) | 1605 | 1952 | 82.2 | Softastur alministradores@softastur.org | 
+ | [kate](/f28/package/kate) | 4010 | 4922 | 81.5 | Asturian <alministradores@softastur.org> | 
+ | [sflphone](/f28/package/sflphone) | 1703 | 2122 | 80.3 | Asturian <ast@li.org> | 
+ | [gnome-do](/f28/package/gnome-do) | 490 | 612 | 80.1 | Asturian <ast@li.org> | 
+ | [imsettings](/f28/package/imsettings) | 363 | 456 | 79.6 | LANGUAGE <LL@li.org> | 
+ | [passwd](/f28/package/passwd) | 267 | 336 | 79.5 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [xfce4-mailwatch-plugin](/f28/package/xfce4-mailwatch-plugin) | 521 | 657 | 79.3 | Asturian <alministradores@softastur.org> | 
+ | [onboard](/f28/package/onboard) | 1831 | 2318 | 79.0 | Asturian <ast@li.org> | 
+ | [xfce4-taskmanager](/f28/package/xfce4-taskmanager) | 200 | 257 | 77.8 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [xfce4-verve-plugin](/f28/package/xfce4-verve-plugin) | 80 | 103 | 77.7 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
+ | [iso-codes](/f28/package/iso-codes) | 12099 | 15709 | 77.0 | Asturian <softast-xeneral@lists.sourceforge.net> | 
+ | [gettext](/f28/package/gettext) | 336 | 438 | 76.7 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [mingw-gettext](/f28/package/mingw-gettext) | 336 | 438 | 76.7 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [clutter](/f28/package/clutter) | 2319 | 3057 | 75.9 | Asturian <alministradores@softastur.org> | 
+ | [parole](/f28/package/parole) | 827 | 1099 | 75.3 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [mousepad](/f28/package/mousepad) | 817 | 1088 | 75.1 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [gigolo](/f28/package/gigolo) | 390 | 521 | 74.9 | Asturian (http://www.transifex.com/projects/p/xfce/language/ast/) | 
+ | [liferea](/f28/package/liferea) | 1656 | 2213 | 74.8 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [gstreamer1](/f28/package/gstreamer1) | 1554 | 2078 | 74.8 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [mingw-gstreamer1](/f28/package/mingw-gstreamer1) | 1554 | 2078 | 74.8 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [marco](/f28/package/marco) | 3100 | 4148 | 74.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [geany](/f28/package/geany) | 4468 | 6042 | 73.9 | Asturian <alministradores@softastur.org> | 
+ | [ktp-accounts-kcm](/f28/package/ktp-accounts-kcm) | 812 | 1100 | 73.8 | Asturian <alministradores@softastur.org> | 
+ | [deepin-daemon](/f28/package/deepin-daemon) | 972 | 1317 | 73.8 | Asturian (http://www.transifex.com/linuxdeepin/deepin-desktop-environment/language/ast/) | 
+ | [libreoffice](/f28/package/libreoffice) | 410128 | 560861 | 73.1 | LANGUAGE <LL@li.org> | 
+ | [xfce4-xkb-plugin](/f28/package/xfce4-xkb-plugin) | 35 | 48 | 72.9 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
+ | [krdc](/f28/package/krdc) | 941 | 1294 | 72.7 | Asturian <alministradores@softastur.org> | 
+ | [lxinput](/f28/package/lxinput) | 60 | 83 | 72.3 | asturian <alministradores@softastur.org> | 
+ | [colord-kde](/f28/package/colord-kde) | 266 | 369 | 72.1 | Asturian <> | 
+ | [xed](/f28/package/xed) | 3295 | 4613 | 71.4 | Asturian (http://www.transifex.com/projects/p/MATE/language/ast/) | 
+ | [ristretto](/f28/package/ristretto) | 541 | 761 | 71.1 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [ufw](/f28/package/ufw) | 618 | 879 | 70.3 | Asturian <ast@li.org> | 
+ | [xfmpc](/f28/package/xfmpc) | 117 | 167 | 70.1 | Asturian <alministradores@softastur.org> | 
+ | [libmatekbd](/f28/package/libmatekbd) | 175 | 251 | 69.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [caja](/f28/package/caja) | 6522 | 9356 | 69.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [deja-dup](/f28/package/deja-dup) | 1479 | 2122 | 69.7 | Asturian <ast@li.org> | 
+ | [blueman](/f28/package/blueman) | 964 | 1384 | 69.7 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
+ | [php-phpmyadmin-sql-parser](/f28/package/php-phpmyadmin-sql-parser) | 157 | 227 | 69.2 | Asturian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/ast/> | 
+ | [gedit-plugins](/f28/package/gedit-plugins) | 831 | 1205 | 69.0 | Softastur alministradores@softastur.org | 
+ | [simple-scan](/f28/package/simple-scan) | 404 | 589 | 68.6 | Asturian <ast@li.org> | 
+ | [goffice](/f28/package/goffice) | 4253 | 6201 | 68.6 | Softastur alministradores@softastur.org | 
+ | [mlocate](/f28/package/mlocate) | 397 | 581 | 68.3 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [ktp-contact-runner](/f28/package/ktp-contact-runner) | 142 | 208 | 68.3 | Asturian <alministradores@softastur.org> | 
+ | [xfce4-whiskermenu-plugin](/f28/package/xfce4-whiskermenu-plugin) | 238 | 349 | 68.2 | Asturian (http://www.transifex.com/gottcode/xfce4-whiskermenu-plugin/language/ast/) | 
+ | [kio-extras](/f28/package/kio-extras) | 617 | 915 | 67.4 | Asturian <alministradores@softastur.org> | 
+ | [xreader](/f28/package/xreader) | 1104 | 1641 | 67.3 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
+ | [kde-dev-utils](/f28/package/kde-dev-utils) | 63 | 94 | 67.0 | Asturian <alministradores@softastur.org> | 
+ | [mate-panel](/f28/package/mate-panel) | 4377 | 6532 | 67.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [kwalletmanager5](/f28/package/kwalletmanager5) | 534 | 802 | 66.6 | Asturian <alministradores@softastur.org> | 
+ | [gnome-chess](/f28/package/gnome-chess) | 915 | 1390 | 65.8 | Asturian Team <alministradores@softastur.org> | 
+ | [kwebkitpart](/f28/package/kwebkitpart) | 420 | 642 | 65.4 | Asturian <alministradores@softastur.org> | 
+ | [mate-desktop](/f28/package/mate-desktop) | 1504 | 2305 | 65.2 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [xfce4-terminal](/f28/package/xfce4-terminal) | 942 | 1453 | 64.8 | Asturian (http://www.transifex.com/xfce/xfce-apps/language/ast/) | 
+ | [gnome-robots](/f28/package/gnome-robots) | 382 | 597 | 64.0 | Asturian Team <alministradores@softastur.org> | 
+ | [mingw-gtksourceview3](/f28/package/mingw-gtksourceview3) | 739 | 1156 | 63.9 | Softastur alministradores@softastur.org | 
+ | [xfce4-cpugraph-plugin](/f28/package/xfce4-cpugraph-plugin) | 45 | 71 | 63.4 | Asturian <alministradores@softastur.org> | 
+ | [gimp](/f28/package/gimp) | 8269 | 13174 | 62.8 | Softastur alministradores@softastur.org | 
+ | [kamoso](/f28/package/kamoso) | 73 | 119 | 61.3 | Asturian <kde-i18n-doc@kde.org> | 
+ | [tumbler](/f28/package/tumbler) | 142 | 241 | 58.9 | Asturian (http://www.transifex.com/xfce/tumbler/language/ast/) | 
+ | [kcron](/f28/package/kcron) | 312 | 534 | 58.4 | Asturian <alministradores@softastur.org> | 
+ | [pacman](/f28/package/pacman) | 3121 | 5398 | 57.8 | Asturian (http://www.transifex.com/toofishes/archlinux-pacman/language/ast/) | 
+ | [calamares](/f28/package/calamares) | 256 | 443 | 57.8 | Asturian (https://www.transifex.com/calamares/teams/20061/ast/) | 
+ | [xfce4-power-manager](/f28/package/xfce4-power-manager) | 586 | 1017 | 57.6 | Asturian (http://www.transifex.com/xfce/xfce4-power-manager/language/ast/) | 
+ | [krfb](/f28/package/krfb) | 368 | 644 | 57.1 | Asturian <alministradores@softastur.org> | 
+ | [mate-session-manager](/f28/package/mate-session-manager) | 388 | 681 | 57.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [kcharselect](/f28/package/kcharselect) | 49 | 88 | 55.7 | Asturian <alministradores@softastur.org> | 
+ | [five-or-more](/f28/package/five-or-more) | 157 | 282 | 55.7 | Asturian Team <alministradores@softastur.org> | 
+ | [mate-terminal](/f28/package/mate-terminal) | 4686 | 8453 | 55.4 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [mate-media](/f28/package/mate-media) | 125 | 226 | 55.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [gdm](/f28/package/gdm) | 352 | 650 | 54.2 | Softastur <alministradores@softastur.org> | 
+ | [mate-settings-daemon](/f28/package/mate-settings-daemon) | 951 | 1764 | 53.9 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [sed](/f28/package/sed) | 421 | 788 | 53.4 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [kmix](/f28/package/kmix) | 479 | 907 | 52.8 | Asturian <ast@li.org> | 
+ | [glib2](/f28/package/glib2) | 2489 | 4777 | 52.1 | Asturian <alministradores@softastur.org> | 
+ | [mingw-glib2](/f28/package/mingw-glib2) | 2489 | 4777 | 52.1 | Asturian <alministradores@softastur.org> | 
+ | [hexchat](/f28/package/hexchat) | 3101 | 5971 | 51.9 | Asturian (http://www.transifex.com/hexchat/hexchat/language/ast/) | 
+ | [xfce4-mixer](/f28/package/xfce4-mixer) | 94 | 181 | 51.9 | Asturian <alministradores@softastur.org> | 
+ | [kaccounts-integration](/f28/package/kaccounts-integration) | 42 | 82 | 51.2 | Asturian <alministradores@softastur.org> | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 9882 | 19879 | 49.7 | Asturian (http://www.transifex.com/projects/p/cinnamon-ast/language/ast/) | 
+ | [lxrandr](/f28/package/lxrandr) | 83 | 167 | 49.7 | Asturian <alministradores@softastur.org> | 
+ | [pidgin](/f28/package/pidgin) | 7793 | 15756 | 49.5 | Asturian (http://www.transifex.com/pidgin/pidgin/language/ast/) | 
+ | [plasma-mediacenter](/f28/package/plasma-mediacenter) | 85 | 172 | 49.4 | Asturian <kde-i18n-doc@kde.org> | 
+ | [caja-extensions](/f28/package/caja-extensions) | 281 | 570 | 49.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [ktp-contact-list](/f28/package/ktp-contact-list) | 333 | 680 | 49.0 | Asturian <alministradores@softastur.org> | 
+ | [kproperty](/f28/package/kproperty) | 71 | 145 | 49.0 | Asturian <alministradores@softastur.org> | 
+ | [atril](/f28/package/atril) | 1860 | 3831 | 48.6 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [shotwell](/f28/package/shotwell) | 2177 | 4553 | 47.8 | Asturian (http://www.transifex.com/projects/p/shotwell/language/ast/) | 
+ | [elisa-player](/f28/package/elisa-player) | 114 | 242 | 47.1 | Asturian <alministradores@softastur.org> | 
+ | [pantheon-photos](/f28/package/pantheon-photos) | 1856 | 3977 | 46.7 | Asturian (http://www.transifex.com/projects/p/shotwell/language/ast/) | 
+ | [plasma-pa](/f28/package/plasma-pa) | 84 | 184 | 45.7 | Asturian <alministradores@softastur.org> | 
+ | [deluge](/f28/package/deluge) | 1218 | 2728 | 44.6 | Asturian <ast@li.org> | 
+ | [xfce4-genmon-plugin](/f28/package/xfce4-genmon-plugin) | 25 | 56 | 44.6 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
+ | [audacious](/f28/package/audacious) | 339 | 760 | 44.6 | Asturian (http://www.transifex.com/audacious/audacious/language/ast/) | 
+ | [libktorrent](/f28/package/libktorrent) | 231 | 519 | 44.5 | Asturian <alministradores@softastur.org> | 
+ | [kactivitymanagerd](/f28/package/kactivitymanagerd) | 4 | 9 | 44.4 | Asturian <alministradores@softastur.org> | 
+ | [sos](/f28/package/sos) | 54 | 122 | 44.3 | Asturian <alministradores@softastur.org> | 
+ | [mate-calc](/f28/package/mate-calc) | 1321 | 2995 | 44.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [four-in-a-row](/f28/package/four-in-a-row) | 111 | 256 | 43.4 | Asturian Team <alministradores@softastur.org> | 
+ | [xfce4-embed-plugin](/f28/package/xfce4-embed-plugin) | 93 | 219 | 42.5 | Asturian (http://www.transifex.com/projects/p/xfce-panel-plugins/language/ast/) | 
+ | [gnome-video-effects](/f28/package/gnome-video-effects) | 11 | 26 | 42.3 | Asturian Team alministradores@softastur.org | 
+ | [mate-notification-daemon](/f28/package/mate-notification-daemon) | 58 | 139 | 41.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [dpkg](/f28/package/dpkg) | 3645 | 8743 | 41.7 | Asturian <softast-xeneral@lists.sourceforge.net> | 
+ | [gnusim8085](/f28/package/gnusim8085) | 235 | 568 | 41.4 | Asturian <ast@li.org> | 
+ | [sugar-toolkit-gtk3](/f28/package/sugar-toolkit-gtk3) | 64 | 159 | 40.3 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f28/package/lightdm-gtk) | 35 | 87 | 40.2 | Asturian <ast@li.org> | 
+ | [pluma](/f28/package/pluma) | 5092 | 12740 | 40.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [python-blivet](/f28/package/python-blivet) | 202 | 522 | 38.7 | Asturian (http://www.transifex.com/projects/p/blivet/language/ast/) | 
+ | [mate-utils](/f28/package/mate-utils) | 3747 | 10102 | 37.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [python2-django1.11](/f28/package/python2-django1.11) | 1267 | 3424 | 37.0 | Asturian (http://www.transifex.com/django/django/language/ast/) | 
+ | [gtksourceview3](/f28/package/gtksourceview3) | 119 | 322 | 37.0 | Softastur alministradores@softastur.org | 
+ | [python-django](/f28/package/python-django) | 1245 | 3488 | 35.7 | Asturian (http://www.transifex.com/django/django/language/ast/) | 
+ | [wicd](/f28/package/wicd) | 403 | 1138 | 35.4 | Asturian <ast@li.org> | 
+ | [konqueror](/f28/package/konqueror) | 3174 | 9075 | 35.0 | Asturian <alministradores@softastur.org> | 
+ | [gnumeric](/f28/package/gnumeric) | 11856 | 35046 | 33.8 | Softastur alministradores@softastur.org | 
+ | [xfce4-weather-plugin](/f28/package/xfce4-weather-plugin) | 1229 | 3668 | 33.5 | Asturian (http://www.transifex.com/xfce/xfce-panel-plugins/language/ast/) | 
+ | [gnome-klotski](/f28/package/gnome-klotski) | 65 | 194 | 33.5 | Asturian Team <alministradores@softastur.org> | 
+ | [plasma-pk-updates](/f28/package/plasma-pk-updates) | 692 | 2081 | 33.3 | Asturian <alministradores@softastur.org> | 
+ | [remmina](/f28/package/remmina) | 758 | 2324 | 32.6 | Asturian <alministradores@softastur.org> | 
+ | [kreversi](/f28/package/kreversi) | 136 | 428 | 31.8 | asturian <alministradores@softastur.org> | 
+ | [mate-system-monitor](/f28/package/mate-system-monitor) | 1359 | 4330 | 31.4 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [mate-control-center](/f28/package/mate-control-center) | 2461 | 7915 | 31.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [system-config-language](/f28/package/system-config-language) | 60 | 197 | 30.5 | Asturian <alministradores@softastur.org> | 
+ | [mate-power-manager](/f28/package/mate-power-manager) | 1560 | 5246 | 29.7 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [swell-foop](/f28/package/swell-foop) | 79 | 266 | 29.7 | Asturian Team <alministradores@softastur.org> | 
+ | [ktp-kded-integration-module](/f28/package/ktp-kded-integration-module) | 143 | 490 | 29.2 | Asturian <alministradores@softastur.org> | 
+ | [midori](/f28/package/midori) | 1032 | 3541 | 29.1 | GALPon MiniNo <mbouzada@gmail.com> | 
+ | [zypper](/f28/package/zypper) | 2602 | 9073 | 28.7 | Asturian <https://l10n.opensuse.org/projects/zypper/master/ast/> | 
+ | [python-blivet1](/f28/package/python-blivet1) | 194 | 707 | 27.4 | Asturian | 
+ | [gnome-mines](/f28/package/gnome-mines) | 94 | 344 | 27.3 | Asturian Team <alministradores@softastur.org> | 
+ | [grub-customizer](/f28/package/grub-customizer) | 352 | 1295 | 27.2 | Asturian <ast@li.org> | 
+ | [shared-mime-info](/f28/package/shared-mime-info) | 524 | 1959 | 26.7 | Asturian (http://www.transifex.com/freedesktop/shared-mime-info/language/ast/) | 
+ | [kde-l10n](/f28/package/kde-l10n) | 25873 | 101921 | 25.4 | asturian <alministradores@softastur.org> | 
+ | [network-manager-applet](/f28/package/network-manager-applet) | 1087 | 4403 | 24.7 | Softastur <alministradores@softastur.org> | 
+ | [dnfdragora](/f28/package/dnfdragora) | 211 | 859 | 24.6 | Asturian (https://www.transifex.com/MageiaLinux/teams/9361/ast/) | 
+ | [eom](/f28/package/eom) | 1233 | 5121 | 24.1 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [gcr](/f28/package/gcr) | 141 | 622 | 22.7 | Asturian Team alministradores@softastur.org | 
+ | [net6](/f28/package/net6) | 68 | 304 | 22.4 | Asturian <ast@li.org> | 
+ | [im-chooser](/f28/package/im-chooser) | 52 | 239 | 21.8 | LANGUAGE <LL@li.org> | 
+ | [lightdm](/f28/package/lightdm) | 35 | 163 | 21.5 | Asturian <ast@li.org> | 
+ | [engrampa](/f28/package/engrampa) | 1664 | 7819 | 21.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [system-config-kdump](/f28/package/system-config-kdump) | 185 | 877 | 21.1 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [viking](/f28/package/viking) | 861 | 4135 | 20.8 | Asturian <ast@li.org> | 
+ | [mate-menu](/f28/package/mate-menu) | 65 | 316 | 20.6 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
+ | [spectacle](/f28/package/spectacle) | 104 | 516 | 20.2 | Asturian <alministradores@softastur.org> | 
+ | [homebank](/f28/package/homebank) | 468 | 2436 | 19.2 | Asturian <ast@li.org> | 
+ | [lxdm](/f28/package/lxdm) | 9 | 47 | 19.1 | asturian <alministradores@softastur.org> | 
+ | [kde-partitionmanager](/f28/package/kde-partitionmanager) | 439 | 2299 | 19.1 | Asturian <alministradores@softastur.org> | 
+ | [terminator](/f28/package/terminator) | 266 | 1410 | 18.9 | Asturian <ast@li.org> | 
+ | [svgpart](/f28/package/svgpart) | 4 | 22 | 18.2 | Asturian <alministradores@softastur.org> | 
+ | [kdialog](/f28/package/kdialog) | 61 | 347 | 17.6 | Asturian <alministradores@softastur.org> | 
+ | [shutter](/f28/package/shutter) | 400 | 2448 | 16.3 | Asturian <ast@li.org> | 
+ | [khelpcenter](/f28/package/khelpcenter) | 38 | 256 | 14.8 | Asturian <alministradores@softastur.org> | 
+ | [kf5-grantleetheme](/f28/package/kf5-grantleetheme) | 2 | 14 | 14.3 | Asturian <alministradores@softastur.org> | 
+ | [libkmahjongg](/f28/package/libkmahjongg) | 1 | 7 | 14.3 | Asturian <alministradores@softastur.org> | 
+ | [kcolorchooser](/f28/package/kcolorchooser) | 4 | 29 | 13.8 | Asturian <alministradores@softastur.org> | 
+ | [pantheon-greeter](/f28/package/pantheon-greeter) | 4 | 29 | 13.8 | Asturian <ast@li.org> | 
+ | [grub2](/f28/package/grub2) | 962 | 7119 | 13.5 | Asturian <ubuntu-l10n-ast@lists.ubuntu.com> | 
+ | [kdepim-runtime](/f28/package/kdepim-runtime) | 988 | 7534 | 13.1 | Asturian <alministradores@softastur.org> | 
+ | [python-django-formtools](/f28/package/python-django-formtools) | 4 | 32 | 12.5 | Asturian (http://www.transifex.com/projects/p/django-formtools/language/ast/) | 
+ | [plasma-nm](/f28/package/plasma-nm) | 546 | 4372 | 12.5 | Asturian <alministradores@softastur.org> | 
+ | [okular](/f28/package/okular) | 565 | 4527 | 12.5 | Asturian <alministradores@softastur.org> | 
+ | [soundconverter](/f28/package/soundconverter) | 47 | 377 | 12.5 | Asturian <ast@li.org> | 
+ | [mate-applets](/f28/package/mate-applets) | 1990 | 16336 | 12.2 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [jmol](/f28/package/jmol) | 176 | 1448 | 12.2 | Asturian <ast@li.org> | 
+ | [mate-themes](/f28/package/mate-themes) | 7 | 60 | 11.7 | Asturian (http://www.transifex.com/mate/MATE/language/ast/) | 
+ | [pykickstart](/f28/package/pykickstart) | 171 | 1521 | 11.2 | Asturian (http://www.transifex.com/projects/p/pykickstart/language/ast/) | 
+ | [gtg](/f28/package/gtg) | 386 | 3497 | 11.0 | Asturian <ast@li.org> | 
+ | [iagno](/f28/package/iagno) | 34 | 322 | 10.6 | Asturian Team <alministradores@softastur.org> | 
+ | [lightsoff](/f28/package/lightsoff) | 10 | 97 | 10.3 | Asturian Team <alministradores@softastur.org> | 
+ | [ksystemlog](/f28/package/ksystemlog) | 306 | 3034 | 10.1 | Asturian <alministradores@softastur.org> | 
+ | [mbox-importer](/f28/package/mbox-importer) | 4 | 40 | 10.0 | Asturian <alministradores@softastur.org> | 
+ | [publican](/f28/package/publican) | 532 | 5377 | 9.9 | asturian <alministradores@softastur.org> | 
+ | [zanshin](/f28/package/zanshin) | 84 | 893 | 9.4 | Asturian <alministradores@softastur.org> | 
+ | [ksshaskpass](/f28/package/ksshaskpass) | 4 | 43 | 9.3 | Asturian <alministradores@softastur.org> | 
+ | [exaile](/f28/package/exaile) | 312 | 4006 | 7.8 | Asturian <ast@li.org> | 
+ | [plasma-milou](/f28/package/plasma-milou) | 3 | 42 | 7.1 | Asturian <alministradores@softastur.org> | 
+ | [kpmcore](/f28/package/kpmcore) | 225 | 3171 | 7.1 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libkcompactdisc](/f28/package/kf5-libkcompactdisc) | 1 | 15 | 6.7 | Asturian <alministradores@softastur.org> | 
+ | [kreport](/f28/package/kreport) | 34 | 514 | 6.6 | Asturian <alministradores@softastur.org> | 
+ | [playonlinux](/f28/package/playonlinux) | 179 | 2728 | 6.6 | Asturian <ast@li.org> | 
+ | [gnome-sudoku](/f28/package/gnome-sudoku) | 26 | 399 | 6.5 | Asturian Team <alministradores@softastur.org> | 
+ | [kinfocenter](/f28/package/kinfocenter) | 190 | 2925 | 6.5 | Asturian <alministradores@softastur.org> | 
+ | [kdb](/f28/package/kdb) | 96 | 1494 | 6.4 | Asturian <alministradores@softastur.org> | 
+ | [kjots](/f28/package/kjots) | 25 | 399 | 6.3 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kitinerary](/f28/package/kf5-kitinerary) | 4 | 65 | 6.2 | Asturian <alministradores@softastur.org> | 
+ | [appcenter](/f28/package/appcenter) | 47 | 765 | 6.1 | LANGUAGE <LL@li.org> | 
+ | [pinta](/f28/package/pinta) | 99 | 1618 | 6.1 | Asturian <ast@li.org> | 
+ | [kdesdk-kioslaves](/f28/package/kdesdk-kioslaves) | 5 | 82 | 6.1 | Asturian <alministradores@softastur.org> | 
+ | [konsole5](/f28/package/konsole5) | 160 | 2803 | 5.7 | Asturian <alministradores@softastur.org> | 
+ | [publican-fedora](/f28/package/publican-fedora) | 6 | 107 | 5.6 | asturian <alministradores@softastur.org> | 
+ | [kcm_wacomtablet](/f28/package/kcm_wacomtablet) | 58 | 1056 | 5.5 | Asturian <alministradores@softastur.org> | 
+ | [kwin](/f28/package/kwin) | 332 | 6239 | 5.3 | Asturian <alministradores@softastur.org> | 
+ | [plasma-integration](/f28/package/plasma-integration) | 3 | 58 | 5.2 | Asturian <alministradores@softastur.org> | 
+ | [plasma-sdk](/f28/package/plasma-sdk) | 44 | 852 | 5.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kalarmcal](/f28/package/kf5-kalarmcal) | 10 | 198 | 5.1 | Asturian <alministradores@softastur.org> | 
+ | [libmatemixer](/f28/package/libmatemixer) | 12 | 242 | 5.0 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [bovo](/f28/package/bovo) | 4 | 81 | 4.9 | Asturian <alministradores@softastur.org> | 
+ | [plasma-discover](/f28/package/plasma-discover) | 60 | 1262 | 4.8 | Asturian <alministradores@softastur.org> | 
+ | [kcm_systemd](/f28/package/kcm_systemd) | 62 | 1385 | 4.5 | Asturian <alminsitradores@softastur.org> | 
+ | [kde-cli-tools](/f28/package/kde-cli-tools) | 95 | 2188 | 4.3 | Asturian <alministradores@softastur.org> | 
+ | [picard](/f28/package/picard) | 66 | 1531 | 4.3 | Asturian (http://www.transifex.com/projects/p/musicbrainz/language/ast/) | 
+ | [polkit-kde](/f28/package/polkit-kde) | 4 | 94 | 4.3 | Asturian <alministradores@softastur.org> | 
+ | [cogl](/f28/package/cogl) | 15 | 361 | 4.2 | Softastur <alministradores@softastur.org> | 
+ | [klines](/f28/package/klines) | 4 | 99 | 4.0 | Asturian <alministradores@softastur.org> | 
+ | [arduino](/f28/package/arduino) | 124 | 3093 | 4.0 | Asturian (http://www.transifex.com/mbanzi/arduino-ide-15/language/ast/) | 
+ | [kde-print-manager](/f28/package/kde-print-manager) | 38 | 960 | 4.0 | Asturian <alministradores@softastur.org> | 
+ | [bomber](/f28/package/bomber) | 4 | 103 | 3.9 | Asturian <alministradores@softastur.org> | 
+ | [sddm-kcm](/f28/package/sddm-kcm) | 4 | 104 | 3.8 | Asturian <alministradores@softastur.org> | 
+ | [lxsession](/f28/package/lxsession) | 29 | 755 | 3.8 | Asturian <alministradores@softastur.org> | 
+ | [kmouth](/f28/package/kmouth) | 57 | 1521 | 3.7 | Asturian <alministradores@softastur.org> | 
+ | [powerdevil](/f28/package/powerdevil) | 25 | 673 | 3.7 | Asturian <alministradores@softastur.org> | 
+ | [kmines](/f28/package/kmines) | 4 | 108 | 3.7 | Asturian <alministradores@softastur.org> | 
+ | [kollision](/f28/package/kollision) | 4 | 109 | 3.7 | Asturian <alministradores@softastur.org> | 
+ | [plasma-desktop](/f28/package/plasma-desktop) | 428 | 11985 | 3.6 | Asturian <alministradores@softastur.org> | 
+ | [kapman](/f28/package/kapman) | 4 | 114 | 3.5 | Asturian <alministradores@softastur.org> | 
+ | [kdepim-apps-libs](/f28/package/kdepim-apps-libs) | 2 | 59 | 3.4 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libgravatar](/f28/package/kf5-libgravatar) | 1 | 30 | 3.3 | Asturian <alministradores@softastur.org> | 
+ | [kdiamond](/f28/package/kdiamond) | 4 | 122 | 3.3 | Asturian <alministradores@softastur.org> | 
+ | [mate-polkit](/f28/package/mate-polkit) | 4 | 122 | 3.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [plymouth-kcm](/f28/package/plymouth-kcm) | 4 | 122 | 3.3 | Asturian <alministradores@softastur.org> | 
+ | [stellarium](/f28/package/stellarium) | 2229 | 68196 | 3.3 | Asturian (https://www.transifex.com/stellarium/teams/80998/ast/) | 
+ | [plasma-workspace](/f28/package/plasma-workspace) | 227 | 7064 | 3.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-akonadi-contacts](/f28/package/kf5-akonadi-contacts) | 44 | 1414 | 3.1 | Asturian <alministradores@softastur.org> | 
+ | [unetbootin](/f28/package/unetbootin) | 98 | 3159 | 3.1 | Asturian <ast@li.org> | 
+ | [kdiagram](/f28/package/kdiagram) | 2 | 65 | 3.1 | Asturian <> | 
+ | [PackageKit](/f28/package/PackageKit) | 39 | 1278 | 3.1 | Asturian (http://www.transifex.com/freedesktop/packagekit/language/ast/) | 
+ | [kspaceduel](/f28/package/kspaceduel) | 5 | 165 | 3.0 | Asturian <alministradores@softastur.org> | 
+ | [kiriki](/f28/package/kiriki) | 4 | 144 | 2.8 | Asturian <alministradores@softastur.org> | 
+ | [light-locker](/f28/package/light-locker) | 7 | 260 | 2.7 | Asturian (http://www.transifex.com/the_cavalry/light-locker/language/ast/) | 
+ | [anaconda](/f28/package/anaconda) | 199 | 7551 | 2.6 | Asturian (http://www.transifex.com/projects/p/anaconda/language/ast/) | 
+ | [kbrickbuster](/f28/package/kbrickbuster) | 4 | 152 | 2.6 | Asturian <alministradores@softastur.org> | 
+ | [kbounce](/f28/package/kbounce) | 4 | 154 | 2.6 | Asturian <alministradores@softastur.org> | 
+ | [maya-calendar](/f28/package/maya-calendar) | 10 | 394 | 2.5 | Asturian <ast@li.org> | 
+ | [ktuberling](/f28/package/ktuberling) | 4 | 158 | 2.5 | Asturian <alministradores@softastur.org> | 
+ | [kblocks](/f28/package/kblocks) | 4 | 159 | 2.5 | Asturian <alministradores@softastur.org> | 
+ | [kdevelop](/f28/package/kdevelop) | 325 | 13039 | 2.5 | Asturian <kde-i18n-doc@kde.org> | 
+ | [grantlee-editor](/f28/package/grantlee-editor) | 13 | 530 | 2.5 | Asturian <alministradores@softastur.org> | 
+ | [kget](/f28/package/kget) | 72 | 2953 | 2.4 | Asturian <> | 
+ | [klickety](/f28/package/klickety) | 4 | 178 | 2.2 | Asturian <alministradores@softastur.org> | 
+ | [ark](/f28/package/ark) | 41 | 1850 | 2.2 | Asturian <alministradores@softastur.org> | 
+ | [kdf](/f28/package/kdf) | 4 | 181 | 2.2 | Asturian <alministradores@softastur.org> | 
+ | [kruler](/f28/package/kruler) | 4 | 184 | 2.2 | Asturian <alministradores@softastur.org> | 
+ | [katomic](/f28/package/katomic) | 4 | 185 | 2.2 | Asturian <alministradores@softastur.org> | 
+ | [kscreen](/f28/package/kscreen) | 4 | 193 | 2.1 | Asturian <alministradores@softastur.org> | 
+ | [konquest](/f28/package/konquest) | 5 | 246 | 2.0 | Asturian <alministradores@softastur.org> | 
+ | [picmi](/f28/package/picmi) | 4 | 197 | 2.0 | Asturian <alministradores@softastur.org> | 
+ | [elementary-calendar](/f28/package/elementary-calendar) | 9 | 449 | 2.0 | Asturian <ast@li.org> | 
+ | [kteatime](/f28/package/kteatime) | 4 | 201 | 2.0 | Asturian <alministradores@softastur.org> | 
+ | [lskat](/f28/package/lskat) | 5 | 254 | 2.0 | Asturian <alministradores@softastur.org> | 
+ | [choqok](/f28/package/choqok) | 41 | 2257 | 1.8 | Asturian <> | 
+ | [plasma-systemsettings](/f28/package/plasma-systemsettings) | 4 | 224 | 1.8 | Asturian <alministradores@softastur.org> | 
+ | [sweeper](/f28/package/sweeper) | 4 | 229 | 1.7 | Asturian <kde-i18n-doc@kde.org> | 
+ | [knetwalk](/f28/package/knetwalk) | 4 | 230 | 1.7 | Asturian <alministradores@softastur.org> | 
+ | [kdeplasma-addons](/f28/package/kdeplasma-addons) | 27 | 1612 | 1.7 | Asturian <alministradores@softastur.org> | 
+ | [xdg-desktop-portal-kde](/f28/package/xdg-desktop-portal-kde) | 1 | 60 | 1.7 | Asturian <alministradores@softastur.org> | 
+ | [granatier](/f28/package/granatier) | 4 | 242 | 1.7 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kdav](/f28/package/kf5-kdav) | 3 | 185 | 1.6 | Asturian <> | 
+ | [ksquares](/f28/package/ksquares) | 4 | 257 | 1.6 | Asturian <alministradores@softastur.org> | 
+ | [kgamma](/f28/package/kgamma) | 2 | 130 | 1.5 | Asturian <alministradores@softastur.org> | 
+ | [kapptemplate](/f28/package/kapptemplate) | 4 | 272 | 1.5 | Asturian <alministradores@softastur.org> | 
+ | [kmenuedit](/f28/package/kmenuedit) | 4 | 277 | 1.4 | Asturian <alministradores@softastur.org> | 
+ | [dragon](/f28/package/dragon) | 4 | 278 | 1.4 | Asturian <alministradores@softastur.org> | 
+ | [kf5-akonadi-calendar](/f28/package/kf5-akonadi-calendar) | 27 | 1877 | 1.4 | Asturian <alministradores@softastur.org> | 
+ | [libkomparediff2](/f28/package/libkomparediff2) | 2 | 143 | 1.4 | Asturian <alministradores@softastur.org> | 
+ | [kf5-audiocd-kio](/f28/package/kf5-audiocd-kio) | 11 | 844 | 1.3 | Asturian <alministradores@softastur.org> | 
+ | [kde-gtk-config](/f28/package/kde-gtk-config) | 4 | 309 | 1.3 | Asturian <alministradores@softastur.org> | 
+ | [knotes](/f28/package/knotes) | 10 | 789 | 1.3 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kmime](/f28/package/kf5-kmime) | 2 | 159 | 1.3 | Asturian <alministradores@softastur.org> | 
+ | [filelight](/f28/package/filelight) | 5 | 407 | 1.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kidentitymanagement](/f28/package/kf5-kidentitymanagement) | 2 | 165 | 1.2 | Asturian <alministradores@softastur.org> | 
+ | [kscreenlocker](/f28/package/kscreenlocker) | 3 | 252 | 1.2 | Asturian <alministradores@softastur.org> | 
+ | [kmahjongg](/f28/package/kmahjongg) | 4 | 340 | 1.2 | Asturian <alministradores@softastur.org> | 
+ | [widelands](/f28/package/widelands) | 471 | 40863 | 1.2 | Asturian (http://www.transifex.com/widelands/widelands/language/ast/) | 
+ | [akonadi-import-wizard](/f28/package/akonadi-import-wizard) | 4 | 391 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [kfourinline](/f28/package/kfourinline) | 4 | 392 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [kolf](/f28/package/kolf) | 4 | 396 | 1.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [isoimagewriter](/f28/package/isoimagewriter) | 4 | 399 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [knavalbattle](/f28/package/knavalbattle) | 4 | 399 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [kigo](/f28/package/kigo) | 5 | 500 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kldap](/f28/package/kf5-kldap) | 2 | 203 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [kjumpingcube](/f28/package/kjumpingcube) | 4 | 412 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [kdepim-addons](/f28/package/kdepim-addons) | 40 | 4159 | 1.0 | Asturian <alministradores@softastur.org> | 
+ | [pim-sieve-editor](/f28/package/pim-sieve-editor) | 4 | 435 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [khotkeys](/f28/package/khotkeys) | 4 | 436 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [kpat](/f28/package/kpat) | 4 | 436 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [python-meh](/f28/package/python-meh) | 1 | 109 | 0.9 | Asturian (http://www.transifex.com/projects/p/python-meh/language/ast/) | 
+ | [kf5-kimap](/f28/package/kf5-kimap) | 1 | 110 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [mate-sensors-applet](/f28/package/mate-sensors-applet) | 20 | 2215 | 0.9 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [bluedevil](/f28/package/bluedevil) | 5 | 573 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kpimtextedit](/f28/package/kf5-kpimtextedit) | 3 | 347 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libkdepim](/f28/package/kf5-libkdepim) | 4 | 465 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [keditbookmarks](/f28/package/keditbookmarks) | 4 | 466 | 0.9 | Asturian <alministradores@softastur.org> | 
+ | [kfind](/f28/package/kfind) | 4 | 501 | 0.8 | Asturian <alministradores@softastur.org> | 
+ | [kdebugsettings](/f28/package/kdebugsettings) | 1 | 130 | 0.8 | Asturian <alministradores@softastur.org> | 
+ | [rsibreak](/f28/package/rsibreak) | 9 | 1175 | 0.8 | Asturian <alministradores@softastur.org> | 
+ | [switchboard-plug-keyboard](/f28/package/switchboard-plug-keyboard) | 3 | 404 | 0.7 | Asturian <ast@li.org> | 
+ | [kshisen](/f28/package/kshisen) | 4 | 568 | 0.7 | Asturian <alministradores@softastur.org> | 
+ | [kontact](/f28/package/kontact) | 4 | 599 | 0.7 | Asturian <alministradores@softastur.org> | 
+ | [kmail-account-wizard](/f28/package/kmail-account-wizard) | 5 | 799 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [kfloppy](/f28/package/kfloppy) | 4 | 641 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [killbots](/f28/package/killbots) | 4 | 641 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kcontacts](/f28/package/kf5-kcontacts) | 1 | 177 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [okteta](/f28/package/okteta) | 14 | 2513 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [kgraphviewer](/f28/package/kgraphviewer) | 7 | 1260 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [pim-data-exporter](/f28/package/pim-data-exporter) | 4 | 723 | 0.6 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libkcddb](/f28/package/kf5-libkcddb) | 3 | 557 | 0.5 | Asturian <alministradores@softastur.org> | 
+ | [kaddressbook](/f28/package/kaddressbook) | 4 | 750 | 0.5 | Asturian <alministradores@softastur.org> | 
+ | [gnome-abrt](/f28/package/gnome-abrt) | 2 | 397 | 0.5 | Asturian (http://www.transifex.com/projects/p/gnome-abrt/language/ast/) | 
+ | [cervisia](/f28/package/cervisia) | 8 | 1619 | 0.5 | Asturian <alministradores@softastur.org> | 
+ | [ufw-kde](/f28/package/ufw-kde) | 4 | 815 | 0.5 | Asturian <kde-i18n-doc@kde.org> | 
+ | [akonadi-calendar-tools](/f28/package/akonadi-calendar-tools) | 4 | 842 | 0.5 | Asturian <alministradores@softastur.org> | 
+ | [blogilo](/f28/package/blogilo) | 6 | 1392 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [kubrick](/f28/package/kubrick) | 5 | 1203 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [kcalc](/f28/package/kcalc) | 4 | 976 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [plasma-breeze](/f28/package/plasma-breeze) | 1 | 267 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [ksysguard](/f28/package/ksysguard) | 4 | 1082 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libksane](/f28/package/kf5-libksane) | 1 | 272 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [calligra](/f28/package/calligra) | 130 | 35862 | 0.4 | Asturian <alministradores@softastur.org> | 
+ | [heaptrack](/f28/package/heaptrack) | 4 | 1206 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [mate-user-guide](/f28/package/mate-user-guide) | 148 | 44681 | 0.3 | Asturian (https://www.transifex.com/mate/teams/13566/ast/) | 
+ | [knemo](/f28/package/knemo) | 4 | 1236 | 0.3 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kgpg](/f28/package/kgpg) | 17 | 5282 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [bzr](/f28/package/bzr) | 105 | 33249 | 0.3 | Asturian <ast@li.org> | 
+ | [plasma-vault](/f28/package/plasma-vault) | 2 | 635 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kmailtransport](/f28/package/kf5-kmailtransport) | 2 | 649 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [ksudoku](/f28/package/ksudoku) | 5 | 1659 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [kblackbox](/f28/package/kblackbox) | 4 | 1364 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [kamera](/f28/package/kamera) | 1 | 342 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [kf5-ktnef](/f28/package/kf5-ktnef) | 1 | 355 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [massif-visualizer](/f28/package/massif-visualizer) | 1 | 357 | 0.3 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kompare](/f28/package/kompare) | 4 | 1430 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [gwenview](/f28/package/gwenview) | 4 | 1462 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [libkdegames](/f28/package/libkdegames) | 1 | 370 | 0.3 | Asturian <alministradores@softastur.org> | 
+ | [kxstitch](/f28/package/kxstitch) | 5 | 1966 | 0.3 | Asturian <kde-i18n-doc@kde.org> | 
+ | [plasma-oxygen](/f28/package/plasma-oxygen) | 2 | 808 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [kmail](/f28/package/kmail) | 21 | 8674 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [akregator](/f28/package/akregator) | 4 | 1774 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-messagelib](/f28/package/kf5-messagelib) | 17 | 7603 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [umbrello](/f28/package/umbrello) | 12 | 5399 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libktorrent](/f28/package/kf5-libktorrent) | 1 | 471 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [libksysguard](/f28/package/libksysguard) | 6 | 3166 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [dolphin-plugins](/f28/package/dolphin-plugins) | 2 | 1215 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-akonadi-server](/f28/package/kf5-akonadi-server) | 4 | 2486 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [kolourpaint](/f28/package/kolourpaint) | 4 | 2623 | 0.2 | Asturian <alministradores@softastur.org> | 
+ | [kf5-eventviews](/f28/package/kf5-eventviews) | 4 | 2942 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [palapeli](/f28/package/palapeli) | 2 | 1512 | 0.1 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kf5-kcalendarutils](/f28/package/kf5-kcalendarutils) | 2 | 1630 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [korganizer](/f28/package/korganizer) | 8 | 6757 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [lokalize](/f28/package/lokalize) | 4 | 3557 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [smb4k](/f28/package/smb4k) | 7 | 6557 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [calligraplan](/f28/package/calligraplan) | 10 | 9630 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [calibre](/f28/package/calibre) | 163 | 158760 | 0.1 | Asturian (http://www.transifex.com/calibre/calibre/language/ast/) | 
+ | [plasma-drkonqi](/f28/package/plasma-drkonqi) | 4 | 4015 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kf5-pimcommon](/f28/package/kf5-pimcommon) | 1 | 1013 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kexi](/f28/package/kexi) | 7 | 7351 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kcachegrind](/f28/package/kcachegrind) | 4 | 4370 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kleopatra](/f28/package/kleopatra) | 8 | 8813 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kf5-libkleo](/f28/package/kf5-libkleo) | 1 | 1203 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [tellico](/f28/package/tellico) | 4 | 5626 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [juk](/f28/package/juk) | 1 | 1453 | 0.1 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kf5-libksieve](/f28/package/kf5-libksieve) | 2 | 3298 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [k3b](/f28/package/k3b) | 12 | 20221 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kalarm](/f28/package/kalarm) | 4 | 7269 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [ktorrent](/f28/package/ktorrent) | 4 | 7538 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [krusader](/f28/package/krusader) | 4 | 7938 | 0.1 | Asturian <alministradores@softastur.org> | 
+ | [kf5-incidenceeditor](/f28/package/kf5-incidenceeditor) | 1 | 2364 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kphotoalbum](/f28/package/kphotoalbum) | 4 | 9564 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kajongg](/f28/package/kajongg) | 1 | 2444 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kf5-mailcommon](/f28/package/kf5-mailcommon) | 1 | 2826 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [ksirk](/f28/package/ksirk) | 2 | 5763 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [skrooge](/f28/package/skrooge) | 4 | 11672 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-calendarsupport](/f28/package/kf5-calendarsupport) | 1 | 2976 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [rkward](/f28/package/rkward) | 11 | 34404 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [abrt](/f28/package/abrt) | 1 | 3969 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora-abrt/language/ast/) | 
+ | [kgoldrunner](/f28/package/kgoldrunner) | 5 | 23557 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kdesvn](/f28/package/kdesvn) | 1 | 4845 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kmymoney](/f28/package/kmymoney) | 4 | 21378 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kstars](/f28/package/kstars) | 4 | 56712 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [wesnoth](/f28/package/wesnoth) | 5 | 276605 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [LabPlot](/f28/package/LabPlot) | 0 | 6988 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [audience](/f28/package/audience) | 0 | 106 | 0.0 |  | 
+ | [authconfig](/f28/package/authconfig) | 0 | 929 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [blivet-gui](/f28/package/blivet-gui) | 0 | 815 | 0.0 | Asturian | 
+ | [certmonger](/f28/package/certmonger) | 0 | 2831 | 0.0 | Asturian (http://www.transifex.com/projects/p/certmonger/language/ast/) | 
+ | [dippi](/f28/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [dnf-plugins-extras](/f28/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Asturian | 
+ | [docker-anaconda-addon](/f28/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Asturian | 
+ | [elementary-calculator](/f28/package/elementary-calculator) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-camera](/f28/package/elementary-camera) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-capnet-assist](/f28/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-screenshot-tool](/f28/package/elementary-screenshot-tool) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f28/package/elementary-shortcut-overlay) | 0 | 82 | 0.0 | none | 
+ | [entangle](/f28/package/entangle) | 0 | 953 | 0.0 | Asturian | 
+ | [feedreader](/f28/package/feedreader) | 0 | 799 | 0.0 |  | 
+ | [fonts-tweak-tool](/f28/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Asturian | 
+ | [fprintd](/f28/package/fprintd) | 0 | 419 | 0.0 | Asturian (http://www.transifex.com/freedesktop/fprintd/language/ast/) | 
+ | [gcompris-qt](/f28/package/gcompris-qt) | 0 | 23313 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [harvey](/f28/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [initial-setup](/f28/package/initial-setup) | 0 | 33 | 0.0 | Asturian | 
+ | [initscripts](/f28/package/initscripts) | 0 | 1003 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [kdesdk-thumbnailers](/f28/package/kdesdk-thumbnailers) | 0 | 4 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kdevelop-php](/f28/package/kdevelop-php) | 0 | 511 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kdevelop-python](/f28/package/kdevelop-python) | 0 | 582 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kf5-akonadi-mime](/f28/package/kf5-akonadi-mime) | 0 | 572 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-akonadi-search](/f28/package/kf5-akonadi-search) | 0 | 48 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-kblog](/f28/package/kf5-kblog) | 0 | 243 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [kf5-ksmtp](/f28/package/kf5-ksmtp) | 0 | 81 | 0.0 | Asturian <kde-i18n-doc@kde.org> | 
+ | [kf5-mailimporter](/f28/package/kf5-mailimporter) | 0 | 1408 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [ldm](/f28/package/ldm) | 0 | 55 | 0.0 | Asturian <ast@li.org> | 
+ | [libbytesize](/f28/package/libbytesize) | 0 | 17 | 0.0 | Asturian | 
+ | [libosinfo](/f28/package/libosinfo) | 0 | 662 | 0.0 | Asturian | 
+ | [libreport](/f28/package/libreport) | 0 | 3501 | 0.0 | Asturian (http://www.transifex.com/projects/p/libreport/language/ast/) | 
+ | [libvirt](/f28/package/libvirt) | 0 | 63891 | 0.0 | Asturian | 
+ | [libvirt-glib](/f28/package/libvirt-glib) | 0 | 145 | 0.0 | Asturian (http://www.transifex.com/projects/p/libvirt-glib/language/ast/) | 
+ | [libvirt-sandbox](/f28/package/libvirt-sandbox) | 0 | 617 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [mingw-libosinfo](/f28/package/mingw-libosinfo) | 0 | 2049 | 0.0 | Asturian | 
+ | [mingw-libvirt](/f28/package/mingw-libvirt) | 0 | 63891 | 0.0 | Asturian | 
+ | [mingw-libvirt-glib](/f28/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Asturian (http://www.transifex.com/projects/p/libvirt-glib/language/ast/) | 
+ | [noise](/f28/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f28/package/optimizer) | 0 | 111 | 0.0 | none | 
+ | [osinfo-db-tools](/f28/package/osinfo-db-tools) | 0 | 56 | 0.0 | Asturian | 
+ | [p11-kit](/f28/package/p11-kit) | 0 | 476 | 0.0 | Asturian (http://www.transifex.com/freedesktop/p11-kit/language/ast/) | 
+ | [pam](/f28/package/pam) | 0 | 597 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [pantheon-agent-geoclue2](/f28/package/pantheon-agent-geoclue2) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f28/package/pantheon-agent-polkit) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f28/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f28/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pingus](/f28/package/pingus) | 0 | 5395 | 0.0 | Asturian <ast@li.org> | 
+ | [plasma-browser-integration](/f28/package/plasma-browser-integration) | 0 | 11 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [plasma-user-manager](/f28/package/plasma-user-manager) | 0 | 295 | 0.0 | Asturian <alministradores@softastur.org> | 
+ | [policycoreutils](/f28/package/policycoreutils) | 0 | 7678 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [python-fedora](/f28/package/python-fedora) | 0 | 214 | 0.0 | Asturian | 
+ | [python-simpleline](/f28/package/python-simpleline) | 0 | 42 | 0.0 | Asturian | 
+ | [retrace-server](/f28/package/retrace-server) | 0 | 381 | 0.0 | Language ast | 
+ | [rhn-client-tools](/f28/package/rhn-client-tools) | 0 | 4057 | 0.0 | Asturian (http://www.transifex.com/projects/p/spacewalk/language/ast/) | 
+ | [rhnsd](/f28/package/rhnsd) | 0 | 33 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [scratch-text-editor](/f28/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f28/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sequeler](/f28/package/sequeler) | 0 | 252 | 0.0 |  | 
+ | [setroubleshoot](/f28/package/setroubleshoot) | 0 | 660 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [setroubleshoot-plugins](/f28/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
+ | [slingshot-launcher](/f28/package/slingshot-launcher) | 0 | 217 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [snap-photobooth](/f28/package/snap-photobooth) | 0 | 25 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f28/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f28/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f28/package/switchboard) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f28/package/switchboard-plug-a11y) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f28/package/switchboard-plug-about) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f28/package/switchboard-plug-applications) | 0 | 86 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f28/package/switchboard-plug-bluetooth) | 0 | 74 | 0.0 | Asturian <ast@li.org> | 
+ | [switchboard-plug-display](/f28/package/switchboard-plug-display) | 0 | 126 | 0.0 | Asturian <ast@li.org> | 
+ | [switchboard-plug-mouse-touchpad](/f28/package/switchboard-plug-mouse-touchpad) | 0 | 150 | 0.0 | none | 
+ | [switchboard-plug-networking](/f28/package/switchboard-plug-networking) | 0 | 444 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f28/package/switchboard-plug-notifications) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-onlineaccounts](/f28/package/switchboard-plug-onlineaccounts) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f28/package/switchboard-plug-pantheon-shell) | 0 | 153 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-printers](/f28/package/switchboard-plug-printers) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f28/package/switchboard-plug-sharing) | 0 | 130 | 0.0 | none | 
+ | [switchboard-plug-sound](/f28/package/switchboard-plug-sound) | 0 | 131 | 0.0 |  | 
+ | [unixcw](/f28/package/unixcw) | 0 | 85 | 0.0 | asturian <alministradores@softastur.org> | 
+ | [virt-viewer](/f28/package/virt-viewer) | 0 | 784 | 0.0 | Asturian | 
+ | [vocal](/f28/package/vocal) | 0 | 377 | 0.0 | Asturian <ast@li.org> | 
+ | [wingpanel](/f28/package/wingpanel) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-applications-menu](/f28/package/wingpanel-applications-menu) | 0 | 225 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f28/package/wingpanel-indicator-bluetooth) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f28/package/wingpanel-indicator-datetime) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f28/package/wingpanel-indicator-keyboard) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f28/package/wingpanel-indicator-network) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-nightlight](/f28/package/wingpanel-indicator-nightlight) | 0 | 16 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f28/package/wingpanel-indicator-notifications) | 0 | 16 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-power](/f28/package/wingpanel-indicator-power) | 0 | 93 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f28/package/wingpanel-indicator-session) | 0 | 57 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f28/package/wingpanel-indicator-sound) | 0 | 14 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [yum-rhn-plugin](/f28/package/yum-rhn-plugin) | 0 | 147 | 0.0 | Asturian (http://www.transifex.com/projects/p/fedora/language/ast/) | 
 {.sortable}
 
 

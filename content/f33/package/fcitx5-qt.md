@@ -18,17 +18,17 @@ The package fcitx5-qt (version 5.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/da.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/ko.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/zh_TW.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 131 | 145 | 90.3 | /mnt/stockage/packages/f33/fcitx5-qt/po/de.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 118 | 145 | 81.4 | /mnt/stockage/packages/f33/fcitx5-qt/po/ca.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 109 | 145 | 75.2 | /mnt/stockage/packages/f33/fcitx5-qt/po/ru.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 10 | 145 | 6.9 | /mnt/stockage/packages/f33/fcitx5-qt/po/he.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/fr.po | 
+ | [da](/f33/language/da) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/da.po | 
+ | [ja](/f33/language/ja) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/ja.po | 
+ | [ko](/f33/language/ko) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/ko.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 145 | 145 | 100.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/zh_TW.po | 
+ | [de](/f33/language/de) | 131 | 145 | 90.3 | /mnt/stockage/packages/f33/fcitx5-qt/po/de.po | 
+ | [ca](/f33/language/ca) | 118 | 145 | 81.4 | /mnt/stockage/packages/f33/fcitx5-qt/po/ca.po | 
+ | [ru](/f33/language/ru) | 109 | 145 | 75.2 | /mnt/stockage/packages/f33/fcitx5-qt/po/ru.po | 
+ | [he](/f33/language/he) | 10 | 145 | 6.9 | /mnt/stockage/packages/f33/fcitx5-qt/po/he.po | 
+ | [es](/f33/language/es) | 0 | 145 | 0.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/es.po | 
+ | [fr](/f33/language/fr) | 0 | 145 | 0.0 | /mnt/stockage/packages/f33/fcitx5-qt/po/fr.po | 
 {.sortable}
 
 

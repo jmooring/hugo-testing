@@ -18,10 +18,10 @@ The package vdr-skinnopacity (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 782 | 782 | 100.0 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/de_DE.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 664 | 782 | 84.9 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/ca_ES.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 660 | 782 | 84.4 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/sk_SK.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 402 | 782 | 51.4 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/it_IT.po | 
+ | [de](/f20/language/de) | 782 | 782 | 100.0 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/de_DE.po | 
+ | [ca](/f20/language/ca) | 664 | 782 | 84.9 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/ca_ES.po | 
+ | [sk](/f20/language/sk) | 660 | 782 | 84.4 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/sk_SK.po | 
+ | [it](/f20/language/it) | 402 | 782 | 51.4 | /mnt/stockage/packages/f20/vdr-skinnopacity/skinnopacity-1.1.3/po/it_IT.po | 
 {.sortable}
 
 

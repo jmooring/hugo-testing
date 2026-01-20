@@ -18,9 +18,9 @@ The package gnome-shell-extension-pidgin (version 47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-pidgin/locale/de/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-pidgin/locale/fr/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-pidgin/locale/uk/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
+ | [de](/f43/language/de) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-pidgin/locale/de/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
+ | [fr](/f43/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-pidgin/locale/fr/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
+ | [uk](/f43/language/uk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-pidgin/locale/uk/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
 {.sortable}
 
 

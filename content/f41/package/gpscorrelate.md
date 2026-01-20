@@ -18,9 +18,9 @@ The package gpscorrelate (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f41/gpscorrelate/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f41/gpscorrelate/po/fr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 540 | 1225 | 44.1 | /mnt/stockage/packages/f41/gpscorrelate/po/ru.po | 
+ | [de](/f41/language/de) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f41/gpscorrelate/po/de.po | 
+ | [fr](/f41/language/fr) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f41/gpscorrelate/po/fr.po | 
+ | [ru](/f41/language/ru) | 540 | 1225 | 44.1 | /mnt/stockage/packages/f41/gpscorrelate/po/ru.po | 
 {.sortable}
 
 

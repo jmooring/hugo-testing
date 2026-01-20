@@ -18,9 +18,9 @@ The package libqalculate (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 6428 | 6764 | 95.0 | /mnt/stockage/packages/f10/libqalculate/po/nl.po/mnt/stockage/packages/f10/libqalculate/po-defs/nl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 5409 | 6764 | 80.0 | /mnt/stockage/packages/f10/libqalculate/po/sv.po/mnt/stockage/packages/f10/libqalculate/po-defs/sv.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5049 | 6597 | 76.5 | /mnt/stockage/packages/f10/libqalculate/po/fr.po/mnt/stockage/packages/f10/libqalculate/po-defs/fr.po | 
+ | [nl](/f10/language/nl) | 6428 | 6764 | 95.0 | /mnt/stockage/packages/f10/libqalculate/po/nl.po/mnt/stockage/packages/f10/libqalculate/po-defs/nl.po | 
+ | [sv](/f10/language/sv) | 5409 | 6764 | 80.0 | /mnt/stockage/packages/f10/libqalculate/po/sv.po/mnt/stockage/packages/f10/libqalculate/po-defs/sv.po | 
+ | [fr](/f10/language/fr) | 5049 | 6597 | 76.5 | /mnt/stockage/packages/f10/libqalculate/po/fr.po/mnt/stockage/packages/f10/libqalculate/po-defs/fr.po | 
 {.sortable}
 
 

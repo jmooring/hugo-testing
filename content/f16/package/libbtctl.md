@@ -18,10 +18,10 @@ The package libbtctl (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f16/language/be.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f16/libbtctl/po/be.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/libbtctl/po/ja.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 12 | 40 | 30.0 | /mnt/stockage/packages/f16/libbtctl/po/en_GB.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 4 | 40 | 10.0 | /mnt/stockage/packages/f16/libbtctl/po/oc.po | 
+ | [be](/f16/language/be) | 40 | 40 | 100.0 | /mnt/stockage/packages/f16/libbtctl/po/be.po | 
+ | [ja](/f16/language/ja) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/libbtctl/po/ja.po | 
+ | [en_GB](/f16/language/en_GB) | 12 | 40 | 30.0 | /mnt/stockage/packages/f16/libbtctl/po/en_GB.po | 
+ | [oc](/f16/language/oc) | 4 | 40 | 10.0 | /mnt/stockage/packages/f16/libbtctl/po/oc.po | 
 {.sortable}
 
 

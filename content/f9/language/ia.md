@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mailman]({{< ref "/f9/package/mailman.md" >}}) | 15688 | 21334 | 73.5 | Interlingua <TradSoft@interlingua.com> | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 86 | 12092 | 0.7 | Interlingua | 
+ | [mailman](/f9/package/mailman) | 15688 | 21334 | 73.5 | Interlingua <TradSoft@interlingua.com> | 
+ | [gtk2](/f9/package/gtk2) | 86 | 12092 | 0.7 | Interlingua | 
 {.sortable}
 
 

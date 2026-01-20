@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [konq-plugins]({{< ref "/f12/package/konq-plugins.md" >}}) | 1300 | 1598 | 81.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kiconedit]({{< ref "/f12/package/kiconedit.md" >}}) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kcoloredit]({{< ref "/f12/package/kcoloredit.md" >}}) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kgrab]({{< ref "/f12/package/kgrab.md" >}}) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kipi-plugins]({{< ref "/f12/package/kipi-plugins.md" >}}) | 2452 | 6884 | 35.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [rsibreak]({{< ref "/f12/package/rsibreak.md" >}}) | 403 | 1223 | 33.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [yakuake]({{< ref "/f12/package/yakuake.md" >}}) | 422 | 1288 | 32.8 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kile]({{< ref "/f12/package/kile.md" >}}) | 3275 | 10952 | 29.9 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kphotoalbum]({{< ref "/f12/package/kphotoalbum.md" >}}) | 1798 | 6333 | 28.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [digikam]({{< ref "/f12/package/digikam.md" >}}) | 4690 | 23446 | 20.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [libktorrent]({{< ref "/f12/package/libktorrent.md" >}}) | 72 | 417 | 17.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kopete-cryptography]({{< ref "/f12/package/kopete-cryptography.md" >}}) | 55 | 408 | 13.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [ktorrent]({{< ref "/f12/package/ktorrent.md" >}}) | 719 | 7562 | 9.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [konq-plugins](/f12/package/konq-plugins) | 1300 | 1598 | 81.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kiconedit](/f12/package/kiconedit) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kcoloredit](/f12/package/kcoloredit) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kgrab](/f12/package/kgrab) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kipi-plugins](/f12/package/kipi-plugins) | 2452 | 6884 | 35.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [rsibreak](/f12/package/rsibreak) | 403 | 1223 | 33.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [yakuake](/f12/package/yakuake) | 422 | 1288 | 32.8 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kile](/f12/package/kile) | 3275 | 10952 | 29.9 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kphotoalbum](/f12/package/kphotoalbum) | 1798 | 6333 | 28.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [digikam](/f12/package/digikam) | 4690 | 23446 | 20.0 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [libktorrent](/f12/package/libktorrent) | 72 | 417 | 17.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kopete-cryptography](/f12/package/kopete-cryptography) | 55 | 408 | 13.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [ktorrent](/f12/package/ktorrent) | 719 | 7562 | 9.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
 {.sortable}
 
 

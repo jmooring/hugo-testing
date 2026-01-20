@@ -18,10 +18,10 @@ The package python-django-angular (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/fr/LC_MESSAGES/django.po | 
+ | [cs](/f37/language/cs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f37/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f37/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f37/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f37/python-django-angular/djng/locale/fr/LC_MESSAGES/django.po | 
 {.sortable}
 
 

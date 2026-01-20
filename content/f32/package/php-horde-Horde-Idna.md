@@ -18,8 +18,8 @@ The package php-horde-Horde-Idna (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Idna/Horde_Idna-1.1.2/locale/de/LC_MESSAGES/Horde_Idna.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Idna/Horde_Idna-1.1.2/locale/tr/LC_MESSAGES/Horde_Idna.po | 
+ | [de](/f32/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Idna/Horde_Idna-1.1.2/locale/de/LC_MESSAGES/Horde_Idna.po | 
+ | [tr](/f32/language/tr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f32/php-horde-Horde-Idna/Horde_Idna-1.1.2/locale/tr/LC_MESSAGES/Horde_Idna.po | 
 {.sortable}
 
 

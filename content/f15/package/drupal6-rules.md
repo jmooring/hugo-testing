@@ -18,9 +18,9 @@ The package drupal6-rules (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f15/language/el.md" >}}) | 2656 | 2656 | 100.0 | /mnt/stockage/packages/f15/drupal6-rules/rules_admin/translations/el.po/mnt/stockage/packages/f15/drupal6-rules/rules_scheduler/translations/el.po/mnt/stockage/packages/f15/drupal6-rules/rules_test/translations/el.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 3878 | 3895 | 99.6 | /mnt/stockage/packages/f15/drupal6-rules/rules/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_admin/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_forms/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_scheduler/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_test/translations/ja.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2768 | 2895 | 95.6 | /mnt/stockage/packages/f15/drupal6-rules/rules/translations/de.po/mnt/stockage/packages/f15/drupal6-rules/rules_admin/translations/de.po/mnt/stockage/packages/f15/drupal6-rules/rules_scheduler/translations/de.po | 
+ | [el](/f15/language/el) | 2656 | 2656 | 100.0 | /mnt/stockage/packages/f15/drupal6-rules/rules_admin/translations/el.po/mnt/stockage/packages/f15/drupal6-rules/rules_scheduler/translations/el.po/mnt/stockage/packages/f15/drupal6-rules/rules_test/translations/el.po | 
+ | [ja](/f15/language/ja) | 3878 | 3895 | 99.6 | /mnt/stockage/packages/f15/drupal6-rules/rules/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_admin/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_forms/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_scheduler/translations/ja.po/mnt/stockage/packages/f15/drupal6-rules/rules_test/translations/ja.po | 
+ | [de](/f15/language/de) | 2768 | 2895 | 95.6 | /mnt/stockage/packages/f15/drupal6-rules/rules/translations/de.po/mnt/stockage/packages/f15/drupal6-rules/rules_admin/translations/de.po/mnt/stockage/packages/f15/drupal6-rules/rules_scheduler/translations/de.po | 
 {.sortable}
 
 

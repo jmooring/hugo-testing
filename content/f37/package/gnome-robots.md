@@ -18,94 +18,94 @@ The package gnome-robots (version 40.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f37/language/be.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/bg.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/bs.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ca@valencia.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/cs/cs.po/mnt/stockage/packages/f37/gnome-robots/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/da/da.po/mnt/stockage/packages/f37/gnome-robots/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/de/de.po/mnt/stockage/packages/f37/gnome-robots/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 1688 | 1688 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/el/el.po/mnt/stockage/packages/f37/gnome-robots/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/en_GB.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/eo.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/es/es.po/mnt/stockage/packages/f37/gnome-robots/po/es.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/et.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/fa.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/fr/fr.po/mnt/stockage/packages/f37/gnome-robots/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/fur.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/gl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/he.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/hi.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/hu/hu.po/mnt/stockage/packages/f37/gnome-robots/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/id.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/is.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ja.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/kk.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/lv.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ms.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/nb.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 594 | 594 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/oc.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/pl/pl.po/mnt/stockage/packages/f37/gnome-robots/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1688 | 1688 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/pt_BR/pt_BR.po/mnt/stockage/packages/f37/gnome-robots/po/pt_BR.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 1193 | 1193 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/sr@latin.po/mnt/stockage/packages/f37/gnome-robots/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/sv/sv.po/mnt/stockage/packages/f37/gnome-robots/po/sv.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ta.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/uk/uk.po/mnt/stockage/packages/f37/gnome-robots/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 636 | 636 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/zh_HK.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 822 | 823 | 99.9 | /mnt/stockage/packages/f37/gnome-robots/po/ug.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 1629 | 1715 | 95.0 | /mnt/stockage/packages/f37/gnome-robots/help/ca/ca.po/mnt/stockage/packages/f37/gnome-robots/po/ca.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 742 | 823 | 90.2 | /mnt/stockage/packages/f37/gnome-robots/po/ml.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 458 | 597 | 76.7 | /mnt/stockage/packages/f37/gnome-robots/po/pa.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 458 | 597 | 76.7 | /mnt/stockage/packages/f37/gnome-robots/po/th.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 456 | 597 | 76.4 | /mnt/stockage/packages/f37/gnome-robots/po/km.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 446 | 597 | 74.7 | /mnt/stockage/packages/f37/gnome-robots/po/vi.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 440 | 597 | 73.7 | /mnt/stockage/packages/f37/gnome-robots/po/te.po | 
- | [en_CA]({{< ref "/f37/language/en_CA.md" >}}) | 435 | 597 | 72.9 | /mnt/stockage/packages/f37/gnome-robots/po/en_CA.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 434 | 597 | 72.7 | /mnt/stockage/packages/f37/gnome-robots/po/ar.po | 
- | [dz]({{< ref "/f37/language/dz.md" >}}) | 386 | 597 | 64.7 | /mnt/stockage/packages/f37/gnome-robots/po/dz.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/af.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/as.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/bn.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/bn_IN.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/gu.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/kn.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/mk.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/mr.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/ne.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/nn.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/or.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 382 | 597 | 64.0 | /mnt/stockage/packages/f37/gnome-robots/po/ast.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 350 | 597 | 58.6 | /mnt/stockage/packages/f37/gnome-robots/po/en@shaw.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 324 | 597 | 54.3 | /mnt/stockage/packages/f37/gnome-robots/po/mai.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 323 | 597 | 54.1 | /mnt/stockage/packages/f37/gnome-robots/po/cy.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 321 | 597 | 53.8 | /mnt/stockage/packages/f37/gnome-robots/po/sq.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 250 | 597 | 41.9 | /mnt/stockage/packages/f37/gnome-robots/po/xh.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 245 | 597 | 41.0 | /mnt/stockage/packages/f37/gnome-robots/po/az.po | 
- | [mn]({{< ref "/f37/language/mn.md" >}}) | 95 | 597 | 15.9 | /mnt/stockage/packages/f37/gnome-robots/po/mn.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 43 | 597 | 7.2 | /mnt/stockage/packages/f37/gnome-robots/po/si.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 28 | 597 | 4.7 | /mnt/stockage/packages/f37/gnome-robots/po/br.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 35 | 823 | 4.3 | /mnt/stockage/packages/f37/gnome-robots/po/tg.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 21 | 597 | 3.5 | /mnt/stockage/packages/f37/gnome-robots/po/ga.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 20 | 597 | 3.4 | /mnt/stockage/packages/f37/gnome-robots/po/ka.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 19 | 597 | 3.2 | /mnt/stockage/packages/f37/gnome-robots/po/wa.po | 
- | [rw]({{< ref "/f37/language/rw.md" >}}) | 5 | 597 | 0.8 | /mnt/stockage/packages/f37/gnome-robots/po/rw.po | 
- | [am]({{< ref "/f37/language/am.md" >}}) | 4 | 597 | 0.7 | /mnt/stockage/packages/f37/gnome-robots/po/am.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 0 | 597 | 0.0 | /mnt/stockage/packages/f37/gnome-robots/po/ku.po | 
+ | [be](/f37/language/be) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/be.po | 
+ | [bg](/f37/language/bg) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/bg.po | 
+ | [bs](/f37/language/bs) | 629 | 629 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/bs.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ca@valencia.po | 
+ | [cs](/f37/language/cs) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/cs/cs.po/mnt/stockage/packages/f37/gnome-robots/po/cs.po | 
+ | [da](/f37/language/da) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/da/da.po/mnt/stockage/packages/f37/gnome-robots/po/da.po | 
+ | [de](/f37/language/de) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/de/de.po/mnt/stockage/packages/f37/gnome-robots/po/de.po | 
+ | [el](/f37/language/el) | 1688 | 1688 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/el/el.po/mnt/stockage/packages/f37/gnome-robots/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/en_GB.po | 
+ | [eo](/f37/language/eo) | 600 | 600 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/eo.po | 
+ | [es](/f37/language/es) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/es/es.po/mnt/stockage/packages/f37/gnome-robots/po/es.po | 
+ | [et](/f37/language/et) | 823 | 823 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/et.po | 
+ | [eu](/f37/language/eu) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/eu.po | 
+ | [fa](/f37/language/fa) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/fa.po | 
+ | [fi](/f37/language/fi) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/fi.po | 
+ | [fr](/f37/language/fr) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/fr/fr.po/mnt/stockage/packages/f37/gnome-robots/po/fr.po | 
+ | [fur](/f37/language/fur) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/fur.po | 
+ | [gl](/f37/language/gl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/gl.po | 
+ | [he](/f37/language/he) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/he.po | 
+ | [hi](/f37/language/hi) | 823 | 823 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/hi.po | 
+ | [hr](/f37/language/hr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/hr.po | 
+ | [hu](/f37/language/hu) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/hu/hu.po/mnt/stockage/packages/f37/gnome-robots/po/hu.po | 
+ | [id](/f37/language/id) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/id.po | 
+ | [is](/f37/language/is) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/is.po | 
+ | [it](/f37/language/it) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/it.po | 
+ | [ja](/f37/language/ja) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ja.po | 
+ | [kk](/f37/language/kk) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/kk.po | 
+ | [ko](/f37/language/ko) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ko.po | 
+ | [lt](/f37/language/lt) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/lt.po | 
+ | [lv](/f37/language/lv) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/lv.po | 
+ | [ms](/f37/language/ms) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ms.po | 
+ | [nb_NO](/f37/language/nb_NO) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/nb.po | 
+ | [nl](/f37/language/nl) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/nl.po | 
+ | [oc](/f37/language/oc) | 594 | 594 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/oc.po | 
+ | [pl](/f37/language/pl) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/pl/pl.po/mnt/stockage/packages/f37/gnome-robots/po/pl.po | 
+ | [pt](/f37/language/pt) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1688 | 1688 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/pt_BR/pt_BR.po/mnt/stockage/packages/f37/gnome-robots/po/pt_BR.po | 
+ | [ro](/f37/language/ro) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ro.po | 
+ | [ru](/f37/language/ru) | 597 | 597 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ru.po | 
+ | [sk](/f37/language/sk) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/sk.po | 
+ | [sl](/f37/language/sl) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/sl.po | 
+ | [sr](/f37/language/sr) | 1193 | 1193 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/sr@latin.po/mnt/stockage/packages/f37/gnome-robots/po/sr.po | 
+ | [sv](/f37/language/sv) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/sv/sv.po/mnt/stockage/packages/f37/gnome-robots/po/sv.po | 
+ | [ta](/f37/language/ta) | 823 | 823 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/ta.po | 
+ | [tr](/f37/language/tr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/tr.po | 
+ | [uk](/f37/language/uk) | 1715 | 1715 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/help/uk/uk.po/mnt/stockage/packages/f37/gnome-robots/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 596 | 596 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/zh_TW.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 636 | 636 | 100.0 | /mnt/stockage/packages/f37/gnome-robots/po/zh_HK.po | 
+ | [ug](/f37/language/ug) | 822 | 823 | 99.9 | /mnt/stockage/packages/f37/gnome-robots/po/ug.po | 
+ | [ca](/f37/language/ca) | 1629 | 1715 | 95.0 | /mnt/stockage/packages/f37/gnome-robots/help/ca/ca.po/mnt/stockage/packages/f37/gnome-robots/po/ca.po | 
+ | [ml](/f37/language/ml) | 742 | 823 | 90.2 | /mnt/stockage/packages/f37/gnome-robots/po/ml.po | 
+ | [pa](/f37/language/pa) | 458 | 597 | 76.7 | /mnt/stockage/packages/f37/gnome-robots/po/pa.po | 
+ | [th](/f37/language/th) | 458 | 597 | 76.7 | /mnt/stockage/packages/f37/gnome-robots/po/th.po | 
+ | [km](/f37/language/km) | 456 | 597 | 76.4 | /mnt/stockage/packages/f37/gnome-robots/po/km.po | 
+ | [vi](/f37/language/vi) | 446 | 597 | 74.7 | /mnt/stockage/packages/f37/gnome-robots/po/vi.po | 
+ | [te](/f37/language/te) | 440 | 597 | 73.7 | /mnt/stockage/packages/f37/gnome-robots/po/te.po | 
+ | [en_CA](/f37/language/en_CA) | 435 | 597 | 72.9 | /mnt/stockage/packages/f37/gnome-robots/po/en_CA.po | 
+ | [ar](/f37/language/ar) | 434 | 597 | 72.7 | /mnt/stockage/packages/f37/gnome-robots/po/ar.po | 
+ | [dz](/f37/language/dz) | 386 | 597 | 64.7 | /mnt/stockage/packages/f37/gnome-robots/po/dz.po | 
+ | [af](/f37/language/af) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/af.po | 
+ | [as](/f37/language/as) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/as.po | 
+ | [bn](/f37/language/bn) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/bn.po | 
+ | [bn_IN](/f37/language/bn_IN) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/bn_IN.po | 
+ | [gu](/f37/language/gu) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/gu.po | 
+ | [kn](/f37/language/kn) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/kn.po | 
+ | [mk](/f37/language/mk) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/mk.po | 
+ | [mr](/f37/language/mr) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/mr.po | 
+ | [ne](/f37/language/ne) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/ne.po | 
+ | [nn](/f37/language/nn) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/nn.po | 
+ | [or](/f37/language/or) | 384 | 597 | 64.3 | /mnt/stockage/packages/f37/gnome-robots/po/or.po | 
+ | [ast](/f37/language/ast) | 382 | 597 | 64.0 | /mnt/stockage/packages/f37/gnome-robots/po/ast.po | 
+ | [error](/f37/language/error) | 350 | 597 | 58.6 | /mnt/stockage/packages/f37/gnome-robots/po/en@shaw.po | 
+ | [mai](/f37/language/mai) | 324 | 597 | 54.3 | /mnt/stockage/packages/f37/gnome-robots/po/mai.po | 
+ | [cy](/f37/language/cy) | 323 | 597 | 54.1 | /mnt/stockage/packages/f37/gnome-robots/po/cy.po | 
+ | [sq](/f37/language/sq) | 321 | 597 | 53.8 | /mnt/stockage/packages/f37/gnome-robots/po/sq.po | 
+ | [xh](/f37/language/xh) | 250 | 597 | 41.9 | /mnt/stockage/packages/f37/gnome-robots/po/xh.po | 
+ | [az](/f37/language/az) | 245 | 597 | 41.0 | /mnt/stockage/packages/f37/gnome-robots/po/az.po | 
+ | [mn](/f37/language/mn) | 95 | 597 | 15.9 | /mnt/stockage/packages/f37/gnome-robots/po/mn.po | 
+ | [si](/f37/language/si) | 43 | 597 | 7.2 | /mnt/stockage/packages/f37/gnome-robots/po/si.po | 
+ | [br](/f37/language/br) | 28 | 597 | 4.7 | /mnt/stockage/packages/f37/gnome-robots/po/br.po | 
+ | [tg](/f37/language/tg) | 35 | 823 | 4.3 | /mnt/stockage/packages/f37/gnome-robots/po/tg.po | 
+ | [ga](/f37/language/ga) | 21 | 597 | 3.5 | /mnt/stockage/packages/f37/gnome-robots/po/ga.po | 
+ | [ka](/f37/language/ka) | 20 | 597 | 3.4 | /mnt/stockage/packages/f37/gnome-robots/po/ka.po | 
+ | [wa](/f37/language/wa) | 19 | 597 | 3.2 | /mnt/stockage/packages/f37/gnome-robots/po/wa.po | 
+ | [rw](/f37/language/rw) | 5 | 597 | 0.8 | /mnt/stockage/packages/f37/gnome-robots/po/rw.po | 
+ | [am](/f37/language/am) | 4 | 597 | 0.7 | /mnt/stockage/packages/f37/gnome-robots/po/am.po | 
+ | [ku](/f37/language/ku) | 0 | 597 | 0.0 | /mnt/stockage/packages/f37/gnome-robots/po/ku.po | 
 {.sortable}
 
 

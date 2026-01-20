@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f11/package/eog.md" >}}) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [evince]({{< ref "/f11/package/evince.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [yelp]({{< ref "/f11/package/yelp.md" >}}) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [eog](/f11/package/eog) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [evince](/f11/package/evince) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [yelp](/f11/package/yelp) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
 {.sortable}
 
 

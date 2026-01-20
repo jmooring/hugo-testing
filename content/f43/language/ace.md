@@ -44,14 +44,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f43/package/granite.md" >}}) | 0 | 498 | 0.0 | none | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 0 | 596 | 0.0 | none | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 0 | 989 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
- | [po4a]({{< ref "/f43/package/po4a.md" >}}) | 0 | 3317 | 0.0 | none | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f43/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f43/package/granite) | 0 | 498 | 0.0 | none | 
+ | [granite-7](/f43/package/granite-7) | 0 | 596 | 0.0 | none | 
+ | [iso-codes](/f43/package/iso-codes) | 0 | 989 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
+ | [po4a](/f43/package/po4a) | 0 | 3317 | 0.0 | none | 
 {.sortable}
 
 

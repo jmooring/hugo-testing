@@ -18,20 +18,20 @@ The package pidgin-musictracker (version 0.4.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/de.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/en_GB.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/pt_BR.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 314 | 326 | 96.3 | /mnt/stockage/packages/f10/pidgin-musictracker/po/it.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 142 | 326 | 43.6 | /mnt/stockage/packages/f10/pidgin-musictracker/po/es.po | 
- | [nds]({{< ref "/f10/language/nds.md" >}}) | 130 | 326 | 39.9 | /mnt/stockage/packages/f10/pidgin-musictracker/po/nds.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 127 | 326 | 39.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 123 | 326 | 37.7 | /mnt/stockage/packages/f10/pidgin-musictracker/po/fr.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 113 | 326 | 34.7 | /mnt/stockage/packages/f10/pidgin-musictracker/po/cs.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 65 | 326 | 19.9 | /mnt/stockage/packages/f10/pidgin-musictracker/po/sl.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 44 | 326 | 13.5 | /mnt/stockage/packages/f10/pidgin-musictracker/po/he.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 44 | 328 | 13.4 | /mnt/stockage/packages/f10/pidgin-musictracker/po/eo.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 37 | 326 | 11.3 | /mnt/stockage/packages/f10/pidgin-musictracker/po/pt.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 19 | 326 | 5.8 | /mnt/stockage/packages/f10/pidgin-musictracker/po/pl.po | 
+ | [de](/f10/language/de) | 326 | 326 | 100.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/de.po | 
+ | [en_GB](/f10/language/en_GB) | 326 | 326 | 100.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/en_GB.po | 
+ | [pt_BR](/f10/language/pt_BR) | 326 | 326 | 100.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/pt_BR.po | 
+ | [it](/f10/language/it) | 314 | 326 | 96.3 | /mnt/stockage/packages/f10/pidgin-musictracker/po/it.po | 
+ | [es](/f10/language/es) | 142 | 326 | 43.6 | /mnt/stockage/packages/f10/pidgin-musictracker/po/es.po | 
+ | [nds](/f10/language/nds) | 130 | 326 | 39.9 | /mnt/stockage/packages/f10/pidgin-musictracker/po/nds.po | 
+ | [fi](/f10/language/fi) | 127 | 326 | 39.0 | /mnt/stockage/packages/f10/pidgin-musictracker/po/fi.po | 
+ | [fr](/f10/language/fr) | 123 | 326 | 37.7 | /mnt/stockage/packages/f10/pidgin-musictracker/po/fr.po | 
+ | [cs](/f10/language/cs) | 113 | 326 | 34.7 | /mnt/stockage/packages/f10/pidgin-musictracker/po/cs.po | 
+ | [sl](/f10/language/sl) | 65 | 326 | 19.9 | /mnt/stockage/packages/f10/pidgin-musictracker/po/sl.po | 
+ | [he](/f10/language/he) | 44 | 326 | 13.5 | /mnt/stockage/packages/f10/pidgin-musictracker/po/he.po | 
+ | [eo](/f10/language/eo) | 44 | 328 | 13.4 | /mnt/stockage/packages/f10/pidgin-musictracker/po/eo.po | 
+ | [pt](/f10/language/pt) | 37 | 326 | 11.3 | /mnt/stockage/packages/f10/pidgin-musictracker/po/pt.po | 
+ | [pl](/f10/language/pl) | 19 | 326 | 5.8 | /mnt/stockage/packages/f10/pidgin-musictracker/po/pl.po | 
 {.sortable}
 
 

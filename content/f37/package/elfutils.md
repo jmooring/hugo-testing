@@ -18,10 +18,10 @@ The package elfutils (version 0.190):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f37/language/error.md" >}}) | 9231 | 9231 | 100.0 | /mnt/stockage/packages/f37/elfutils/po/en@quot.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 9048 | 9231 | 98.0 | /mnt/stockage/packages/f37/elfutils/po/pl.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 5708 | 9231 | 61.8 | /mnt/stockage/packages/f37/elfutils/po/es.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 866 | 9231 | 9.4 | /mnt/stockage/packages/f37/elfutils/po/de.po | 
+ | [error](/f37/language/error) | 9231 | 9231 | 100.0 | /mnt/stockage/packages/f37/elfutils/po/en@quot.po | 
+ | [pl](/f37/language/pl) | 9048 | 9231 | 98.0 | /mnt/stockage/packages/f37/elfutils/po/pl.po | 
+ | [es](/f37/language/es) | 5708 | 9231 | 61.8 | /mnt/stockage/packages/f37/elfutils/po/es.po | 
+ | [de](/f37/language/de) | 866 | 9231 | 9.4 | /mnt/stockage/packages/f37/elfutils/po/de.po | 
 {.sortable}
 
 

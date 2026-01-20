@@ -18,16 +18,16 @@ The package powertop (version 2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 418 | 698 | 59.9 | /mnt/stockage/packages/f29/powertop/po/de_DE.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 406 | 698 | 58.2 | /mnt/stockage/packages/f29/powertop/po/id_ID.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 406 | 698 | 58.2 | /mnt/stockage/packages/f29/powertop/po/zh_TW.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 403 | 698 | 57.7 | /mnt/stockage/packages/f29/powertop/po/cs_CZ.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 390 | 698 | 55.9 | /mnt/stockage/packages/f29/powertop/po/hu_HU.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 253 | 698 | 36.2 | /mnt/stockage/packages/f29/powertop/po/ca.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 253 | 698 | 36.2 | /mnt/stockage/packages/f29/powertop/po/es_ES.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 240 | 698 | 34.4 | /mnt/stockage/packages/f29/powertop/po/en_US.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 83 | 698 | 11.9 | /mnt/stockage/packages/f29/powertop/po/en_GB.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 54 | 698 | 7.7 | /mnt/stockage/packages/f29/powertop/po/nl_NL.po | 
+ | [de](/f29/language/de) | 418 | 698 | 59.9 | /mnt/stockage/packages/f29/powertop/po/de_DE.po | 
+ | [id](/f29/language/id) | 406 | 698 | 58.2 | /mnt/stockage/packages/f29/powertop/po/id_ID.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 406 | 698 | 58.2 | /mnt/stockage/packages/f29/powertop/po/zh_TW.po | 
+ | [cs](/f29/language/cs) | 403 | 698 | 57.7 | /mnt/stockage/packages/f29/powertop/po/cs_CZ.po | 
+ | [hu](/f29/language/hu) | 390 | 698 | 55.9 | /mnt/stockage/packages/f29/powertop/po/hu_HU.po | 
+ | [ca](/f29/language/ca) | 253 | 698 | 36.2 | /mnt/stockage/packages/f29/powertop/po/ca.po | 
+ | [es](/f29/language/es) | 253 | 698 | 36.2 | /mnt/stockage/packages/f29/powertop/po/es_ES.po | 
+ | [en_US](/f29/language/en_US) | 240 | 698 | 34.4 | /mnt/stockage/packages/f29/powertop/po/en_US.po | 
+ | [en_GB](/f29/language/en_GB) | 83 | 698 | 11.9 | /mnt/stockage/packages/f29/powertop/po/en_GB.po | 
+ | [nl](/f29/language/nl) | 54 | 698 | 7.7 | /mnt/stockage/packages/f29/powertop/po/nl_NL.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package sleuthkit (version 4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f19/language/da.md" >}}) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/de.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/pl.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/vi.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 6276 | 6961 | 90.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/en_GB.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 5494 | 6961 | 78.9 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sk.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 5102 | 6961 | 73.3 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/it.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 3793 | 6961 | 54.5 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/bs.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 3710 | 6961 | 53.3 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sr.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 3319 | 6961 | 47.7 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/cs.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 2774 | 6961 | 39.9 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/ru.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2517 | 6961 | 36.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/es.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1894 | 6961 | 27.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/ja.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1497 | 6961 | 21.5 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sv.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 1476 | 6961 | 21.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/pt_BR.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1220 | 6961 | 17.5 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/fr.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 999 | 6961 | 14.4 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/zh_CN.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 936 | 6961 | 13.4 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/tr.po | 
- | [en_CA]({{< ref "/f19/language/en_CA.md" >}}) | 704 | 6961 | 10.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/en_CA.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 610 | 6961 | 8.8 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/be.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 458 | 6961 | 6.6 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sq.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 420 | 6961 | 6.0 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/pt.po | 
+ | [da](/f19/language/da) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/da.po | 
+ | [de](/f19/language/de) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/de.po | 
+ | [nl](/f19/language/nl) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/nl.po | 
+ | [pl](/f19/language/pl) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/pl.po | 
+ | [vi](/f19/language/vi) | 6687 | 6961 | 96.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/vi.po | 
+ | [en_GB](/f19/language/en_GB) | 6276 | 6961 | 90.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/en_GB.po | 
+ | [sk](/f19/language/sk) | 5494 | 6961 | 78.9 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sk.po | 
+ | [it](/f19/language/it) | 5102 | 6961 | 73.3 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/it.po | 
+ | [bs](/f19/language/bs) | 3793 | 6961 | 54.5 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/bs.po | 
+ | [sr](/f19/language/sr) | 3710 | 6961 | 53.3 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sr.po | 
+ | [cs](/f19/language/cs) | 3319 | 6961 | 47.7 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/cs.po | 
+ | [ru](/f19/language/ru) | 2774 | 6961 | 39.9 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/ru.po | 
+ | [es](/f19/language/es) | 2517 | 6961 | 36.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/es.po | 
+ | [ja](/f19/language/ja) | 1894 | 6961 | 27.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/ja.po | 
+ | [sv](/f19/language/sv) | 1497 | 6961 | 21.5 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sv.po | 
+ | [pt_BR](/f19/language/pt_BR) | 1476 | 6961 | 21.2 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/pt_BR.po | 
+ | [fr](/f19/language/fr) | 1220 | 6961 | 17.5 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/fr.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 999 | 6961 | 14.4 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/zh_CN.po | 
+ | [tr](/f19/language/tr) | 936 | 6961 | 13.4 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/tr.po | 
+ | [en_CA](/f19/language/en_CA) | 704 | 6961 | 10.1 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/en_CA.po | 
+ | [be](/f19/language/be) | 610 | 6961 | 8.8 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/be.po | 
+ | [sq](/f19/language/sq) | 458 | 6961 | 6.6 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/sq.po | 
+ | [pt](/f19/language/pt) | 420 | 6961 | 6.0 | /mnt/stockage/packages/f19/sleuthkit/framework/TskModules/c_LibExifModule/libexif-0.6.20/po/pt.po | 
 {.sortable}
 
 

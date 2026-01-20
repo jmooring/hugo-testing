@@ -18,23 +18,23 @@ The package libvirt-sandbox (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 629 | 635 | 99.1 | /mnt/stockage/packages/f19/libvirt-sandbox/po/fr.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 629 | 635 | 99.1 | /mnt/stockage/packages/f19/libvirt-sandbox/po/ja.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 629 | 635 | 99.1 | /mnt/stockage/packages/f19/libvirt-sandbox/po/uk.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 17 | 635 | 2.7 | /mnt/stockage/packages/f19/libvirt-sandbox/po/de.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 4 | 635 | 0.6 | /mnt/stockage/packages/f19/libvirt-sandbox/po/pl.po | 
- | [bo]({{< ref "/f19/language/bo.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/bo.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/cs.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/el.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/ka.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/kn.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/nl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/pt.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/te.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/tr.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/zh_TW.po | 
+ | [fr](/f19/language/fr) | 629 | 635 | 99.1 | /mnt/stockage/packages/f19/libvirt-sandbox/po/fr.po | 
+ | [ja](/f19/language/ja) | 629 | 635 | 99.1 | /mnt/stockage/packages/f19/libvirt-sandbox/po/ja.po | 
+ | [uk](/f19/language/uk) | 629 | 635 | 99.1 | /mnt/stockage/packages/f19/libvirt-sandbox/po/uk.po | 
+ | [de](/f19/language/de) | 17 | 635 | 2.7 | /mnt/stockage/packages/f19/libvirt-sandbox/po/de.po | 
+ | [pl](/f19/language/pl) | 4 | 635 | 0.6 | /mnt/stockage/packages/f19/libvirt-sandbox/po/pl.po | 
+ | [bo](/f19/language/bo) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/bo.po | 
+ | [cs](/f19/language/cs) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/cs.po | 
+ | [el](/f19/language/el) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/el.po | 
+ | [ka](/f19/language/ka) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/ka.po | 
+ | [kn](/f19/language/kn) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/kn.po | 
+ | [nl](/f19/language/nl) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/nl.po | 
+ | [pt](/f19/language/pt) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/pt.po | 
+ | [te](/f19/language/te) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/te.po | 
+ | [tr](/f19/language/tr) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/tr.po | 
+ | [vi](/f19/language/vi) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 0 | 635 | 0.0 | /mnt/stockage/packages/f19/libvirt-sandbox/po/zh_TW.po | 
 {.sortable}
 
 

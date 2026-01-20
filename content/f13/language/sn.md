@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [homebank]({{< ref "/f13/package/homebank.md" >}}) | 10 | 1509 | 0.7 | Shona <sn@li.org> | 
+ | [homebank](/f13/package/homebank) | 10 | 1509 | 0.7 | Shona <sn@li.org> | 
 {.sortable}
 
 

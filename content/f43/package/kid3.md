@@ -18,44 +18,44 @@ The package kid3 (version 3.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/ca/kid3_qt.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/ca@valencia/kid3_qt.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/en/kid3_qt.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/es/kid3_qt.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/fr/kid3_qt.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/is/kid3_qt.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/it/kid3_qt.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/ko/kid3_qt.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/nl/kid3_qt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/pt_BR/kid3_qt.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/sl/kid3_qt.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/sv/kid3_qt.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/tr/kid3_qt.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/uk/kid3_qt.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 3191 | 3194 | 99.9 | /mnt/stockage/packages/f43/kid3/poqm/zh_CN/kid3_qt.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/de/kid3_qt.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/en_GB/kid3_qt.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/nn/kid3_qt.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/pl/kid3_qt.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/pt/kid3_qt.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/ru/kid3_qt.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 3179 | 3194 | 99.5 | /mnt/stockage/packages/f43/kid3/poqm/el/kid3_qt.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 3147 | 3194 | 98.5 | /mnt/stockage/packages/f43/kid3/poqm/cs/kid3_qt.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 3132 | 3194 | 98.1 | /mnt/stockage/packages/f43/kid3/poqm/da/kid3_qt.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 3130 | 3194 | 98.0 | /mnt/stockage/packages/f43/kid3/poqm/et/kid3_qt.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 3117 | 3194 | 97.6 | /mnt/stockage/packages/f43/kid3/poqm/fi/kid3_qt.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 3106 | 3194 | 97.2 | /mnt/stockage/packages/f43/kid3/poqm/zh_TW/kid3_qt.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 2814 | 3194 | 88.1 | /mnt/stockage/packages/f43/kid3/poqm/ka/kid3_qt.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 2654 | 3181 | 83.4 | /mnt/stockage/packages/f43/kid3/poqm/sr/kid3_qt.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 2651 | 3181 | 83.3 | /mnt/stockage/packages/f43/kid3/poqm/sr@ijekavian/kid3_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 2608 | 3181 | 82.0 | /mnt/stockage/packages/f43/kid3/poqm/sr@ijekavianlatin/kid3_qt.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 2608 | 3181 | 82.0 | /mnt/stockage/packages/f43/kid3/poqm/sr@latin/kid3_qt.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 1767 | 3194 | 55.3 | /mnt/stockage/packages/f43/kid3/poqm/ar/kid3_qt.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 1265 | 3194 | 39.6 | /mnt/stockage/packages/f43/kid3/poqm/eu/kid3_qt.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 1018 | 3194 | 31.9 | /mnt/stockage/packages/f43/kid3/poqm/sk/kid3_qt.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 222 | 3194 | 7.0 | /mnt/stockage/packages/f43/kid3/poqm/ro/kid3_qt.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 3194 | 0.0 | /mnt/stockage/packages/f43/kid3/poqm/ja/kid3_qt.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 0 | 3194 | 0.0 | /mnt/stockage/packages/f43/kid3/poqm/lt/kid3_qt.po | 
+ | [ca](/f43/language/ca) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/ca/kid3_qt.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/ca@valencia/kid3_qt.po | 
+ | [en](/f43/language/en) | 12 | 12 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/en/kid3_qt.po | 
+ | [es](/f43/language/es) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/es/kid3_qt.po | 
+ | [fr](/f43/language/fr) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/fr/kid3_qt.po | 
+ | [is](/f43/language/is) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/is/kid3_qt.po | 
+ | [it](/f43/language/it) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/it/kid3_qt.po | 
+ | [ko](/f43/language/ko) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/ko/kid3_qt.po | 
+ | [nl](/f43/language/nl) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/nl/kid3_qt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/pt_BR/kid3_qt.po | 
+ | [sl](/f43/language/sl) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/sl/kid3_qt.po | 
+ | [sv](/f43/language/sv) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/sv/kid3_qt.po | 
+ | [tr](/f43/language/tr) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/tr/kid3_qt.po | 
+ | [uk](/f43/language/uk) | 3194 | 3194 | 100.0 | /mnt/stockage/packages/f43/kid3/poqm/uk/kid3_qt.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 3191 | 3194 | 99.9 | /mnt/stockage/packages/f43/kid3/poqm/zh_CN/kid3_qt.po | 
+ | [de](/f43/language/de) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/de/kid3_qt.po | 
+ | [en_GB](/f43/language/en_GB) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/en_GB/kid3_qt.po | 
+ | [nn](/f43/language/nn) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/nn/kid3_qt.po | 
+ | [pl](/f43/language/pl) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/pl/kid3_qt.po | 
+ | [pt](/f43/language/pt) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/pt/kid3_qt.po | 
+ | [ru](/f43/language/ru) | 3189 | 3194 | 99.8 | /mnt/stockage/packages/f43/kid3/poqm/ru/kid3_qt.po | 
+ | [el](/f43/language/el) | 3179 | 3194 | 99.5 | /mnt/stockage/packages/f43/kid3/poqm/el/kid3_qt.po | 
+ | [cs](/f43/language/cs) | 3147 | 3194 | 98.5 | /mnt/stockage/packages/f43/kid3/poqm/cs/kid3_qt.po | 
+ | [da](/f43/language/da) | 3132 | 3194 | 98.1 | /mnt/stockage/packages/f43/kid3/poqm/da/kid3_qt.po | 
+ | [et](/f43/language/et) | 3130 | 3194 | 98.0 | /mnt/stockage/packages/f43/kid3/poqm/et/kid3_qt.po | 
+ | [fi](/f43/language/fi) | 3117 | 3194 | 97.6 | /mnt/stockage/packages/f43/kid3/poqm/fi/kid3_qt.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 3106 | 3194 | 97.2 | /mnt/stockage/packages/f43/kid3/poqm/zh_TW/kid3_qt.po | 
+ | [ka](/f43/language/ka) | 2814 | 3194 | 88.1 | /mnt/stockage/packages/f43/kid3/poqm/ka/kid3_qt.po | 
+ | [sr](/f43/language/sr) | 2654 | 3181 | 83.4 | /mnt/stockage/packages/f43/kid3/poqm/sr/kid3_qt.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 2651 | 3181 | 83.3 | /mnt/stockage/packages/f43/kid3/poqm/sr@ijekavian/kid3_qt.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 2608 | 3181 | 82.0 | /mnt/stockage/packages/f43/kid3/poqm/sr@ijekavianlatin/kid3_qt.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 2608 | 3181 | 82.0 | /mnt/stockage/packages/f43/kid3/poqm/sr@latin/kid3_qt.po | 
+ | [ar](/f43/language/ar) | 1767 | 3194 | 55.3 | /mnt/stockage/packages/f43/kid3/poqm/ar/kid3_qt.po | 
+ | [eu](/f43/language/eu) | 1265 | 3194 | 39.6 | /mnt/stockage/packages/f43/kid3/poqm/eu/kid3_qt.po | 
+ | [sk](/f43/language/sk) | 1018 | 3194 | 31.9 | /mnt/stockage/packages/f43/kid3/poqm/sk/kid3_qt.po | 
+ | [ro](/f43/language/ro) | 222 | 3194 | 7.0 | /mnt/stockage/packages/f43/kid3/poqm/ro/kid3_qt.po | 
+ | [ja](/f43/language/ja) | 0 | 3194 | 0.0 | /mnt/stockage/packages/f43/kid3/poqm/ja/kid3_qt.po | 
+ | [lt](/f43/language/lt) | 0 | 3194 | 0.0 | /mnt/stockage/packages/f43/kid3/poqm/lt/kid3_qt.po | 
 {.sortable}
 
 

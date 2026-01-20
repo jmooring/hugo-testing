@@ -18,41 +18,41 @@ The package bash (version 4.3.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 11178 | 11178 | 100.0 | /mnt/stockage/packages/f21/bash/po/._bg.po/mnt/stockage/packages/f21/bash/po/bg.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 22356 | 22356 | 100.0 | /mnt/stockage/packages/f21/bash/po/en@quot.po/mnt/stockage/packages/f21/bash/po/en@boldquot.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/cs.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/eo.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/pl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/sr.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/vi.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/ja.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/sl.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 6968 | 11178 | 62.3 | /mnt/stockage/packages/f21/bash/po/zh_CN.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f21/bash/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f21/bash/po/id.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 6634 | 11178 | 59.3 | /mnt/stockage/packages/f21/bash/po/fi.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 6504 | 11178 | 58.2 | /mnt/stockage/packages/f21/bash/po/da.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 5448 | 11178 | 48.7 | /mnt/stockage/packages/f21/bash/po/tr.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 5397 | 11178 | 48.3 | /mnt/stockage/packages/f21/bash/po/de.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 3652 | 11178 | 32.7 | /mnt/stockage/packages/f21/bash/po/gl.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 3268 | 11178 | 29.2 | /mnt/stockage/packages/f21/bash/po/ga.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 1832 | 11178 | 16.4 | /mnt/stockage/packages/f21/bash/po/hr.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1652 | 11178 | 14.8 | /mnt/stockage/packages/f21/bash/po/el.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 1515 | 11178 | 13.6 | /mnt/stockage/packages/f21/bash/po/lt.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 660 | 11178 | 5.9 | /mnt/stockage/packages/f21/bash/po/et.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 461 | 11178 | 4.1 | /mnt/stockage/packages/f21/bash/po/ru.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 432 | 11178 | 3.9 | /mnt/stockage/packages/f21/bash/po/ro.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f21/bash/po/ca.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f21/bash/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 315 | 11178 | 2.8 | /mnt/stockage/packages/f21/bash/po/zh_TW.po | 
- | [af]({{< ref "/f21/language/af.md" >}}) | 45 | 11178 | 0.4 | /mnt/stockage/packages/f21/bash/po/af.po | 
+ | [bg](/f21/language/bg) | 11178 | 11178 | 100.0 | /mnt/stockage/packages/f21/bash/po/._bg.po/mnt/stockage/packages/f21/bash/po/bg.po | 
+ | [en](/f21/language/en) | 22356 | 22356 | 100.0 | /mnt/stockage/packages/f21/bash/po/en@quot.po/mnt/stockage/packages/f21/bash/po/en@boldquot.po | 
+ | [cs](/f21/language/cs) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/cs.po | 
+ | [eo](/f21/language/eo) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/eo.po | 
+ | [nl](/f21/language/nl) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/nl.po | 
+ | [pl](/f21/language/pl) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/pl.po | 
+ | [sr](/f21/language/sr) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/sr.po | 
+ | [sv](/f21/language/sv) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/sv.po | 
+ | [uk](/f21/language/uk) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/uk.po | 
+ | [vi](/f21/language/vi) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f21/bash/po/vi.po | 
+ | [es](/f21/language/es) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/es.po | 
+ | [fr](/f21/language/fr) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/fr.po | 
+ | [it](/f21/language/it) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/it.po | 
+ | [ja](/f21/language/ja) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/ja.po | 
+ | [sk](/f21/language/sk) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/sk.po | 
+ | [sl](/f21/language/sl) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f21/bash/po/sl.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 6968 | 11178 | 62.3 | /mnt/stockage/packages/f21/bash/po/zh_CN.po | 
+ | [hu](/f21/language/hu) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f21/bash/po/hu.po | 
+ | [id](/f21/language/id) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f21/bash/po/id.po | 
+ | [fi](/f21/language/fi) | 6634 | 11178 | 59.3 | /mnt/stockage/packages/f21/bash/po/fi.po | 
+ | [da](/f21/language/da) | 6504 | 11178 | 58.2 | /mnt/stockage/packages/f21/bash/po/da.po | 
+ | [tr](/f21/language/tr) | 5448 | 11178 | 48.7 | /mnt/stockage/packages/f21/bash/po/tr.po | 
+ | [de](/f21/language/de) | 5397 | 11178 | 48.3 | /mnt/stockage/packages/f21/bash/po/de.po | 
+ | [gl](/f21/language/gl) | 3652 | 11178 | 32.7 | /mnt/stockage/packages/f21/bash/po/gl.po | 
+ | [ga](/f21/language/ga) | 3268 | 11178 | 29.2 | /mnt/stockage/packages/f21/bash/po/ga.po | 
+ | [hr](/f21/language/hr) | 1832 | 11178 | 16.4 | /mnt/stockage/packages/f21/bash/po/hr.po | 
+ | [el](/f21/language/el) | 1652 | 11178 | 14.8 | /mnt/stockage/packages/f21/bash/po/el.po | 
+ | [lt](/f21/language/lt) | 1515 | 11178 | 13.6 | /mnt/stockage/packages/f21/bash/po/lt.po | 
+ | [et](/f21/language/et) | 660 | 11178 | 5.9 | /mnt/stockage/packages/f21/bash/po/et.po | 
+ | [ru](/f21/language/ru) | 461 | 11178 | 4.1 | /mnt/stockage/packages/f21/bash/po/ru.po | 
+ | [ro](/f21/language/ro) | 432 | 11178 | 3.9 | /mnt/stockage/packages/f21/bash/po/ro.po | 
+ | [ca](/f21/language/ca) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f21/bash/po/ca.po | 
+ | [pt_BR](/f21/language/pt_BR) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f21/bash/po/pt_BR.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 315 | 11178 | 2.8 | /mnt/stockage/packages/f21/bash/po/zh_TW.po | 
+ | [af](/f21/language/af) | 45 | 11178 | 0.4 | /mnt/stockage/packages/f21/bash/po/af.po | 
 {.sortable}
 
 

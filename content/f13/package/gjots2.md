@@ -18,13 +18,13 @@ The package gjots2 (version 2.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 969 | 969 | 100.0 | /mnt/stockage/packages/f13/gjots2/po/cs.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 969 | 969 | 100.0 | /mnt/stockage/packages/f13/gjots2/po/fr.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 909 | 969 | 93.8 | /mnt/stockage/packages/f13/gjots2/po/es.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 802 | 969 | 82.8 | /mnt/stockage/packages/f13/gjots2/po/it.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 1604 | 1938 | 82.8 | /mnt/stockage/packages/f13/gjots2/po/no.po/mnt/stockage/packages/f13/gjots2/po/nb.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 802 | 969 | 82.8 | /mnt/stockage/packages/f13/gjots2/po/ru.po | 
- | [en_US]({{< ref "/f13/language/en_US.md" >}}) | 785 | 969 | 81.0 | /mnt/stockage/packages/f13/gjots2/po/en_US.po | 
+ | [cs](/f13/language/cs) | 969 | 969 | 100.0 | /mnt/stockage/packages/f13/gjots2/po/cs.po | 
+ | [fr](/f13/language/fr) | 969 | 969 | 100.0 | /mnt/stockage/packages/f13/gjots2/po/fr.po | 
+ | [es](/f13/language/es) | 909 | 969 | 93.8 | /mnt/stockage/packages/f13/gjots2/po/es.po | 
+ | [it](/f13/language/it) | 802 | 969 | 82.8 | /mnt/stockage/packages/f13/gjots2/po/it.po | 
+ | [nb_NO](/f13/language/nb_NO) | 1604 | 1938 | 82.8 | /mnt/stockage/packages/f13/gjots2/po/no.po/mnt/stockage/packages/f13/gjots2/po/nb.po | 
+ | [ru](/f13/language/ru) | 802 | 969 | 82.8 | /mnt/stockage/packages/f13/gjots2/po/ru.po | 
+ | [en_US](/f13/language/en_US) | 785 | 969 | 81.0 | /mnt/stockage/packages/f13/gjots2/po/en_US.po | 
 {.sortable}
 
 

@@ -18,31 +18,31 @@ The package bluez-gnome (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/cs.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/es.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 454 | 454 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/hu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/it.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 454 | 454 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/pl.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ro.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/sr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/sv.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/tr.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/zh_CN.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 203 | 205 | 99.0 | /mnt/stockage/packages/f8/bluez-gnome/po/id.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 196 | 205 | 95.6 | /mnt/stockage/packages/f8/bluez-gnome/po/pt.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 128 | 205 | 62.4 | /mnt/stockage/packages/f8/bluez-gnome/po/en_GB.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 126 | 205 | 61.5 | /mnt/stockage/packages/f8/bluez-gnome/po/pt_BR.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 117 | 205 | 57.1 | /mnt/stockage/packages/f8/bluez-gnome/po/sk.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/bg.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/de.po | 
- | [ku]({{< ref "/f8/language/ku.md" >}}) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ku.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/nb.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ru.po | 
+ | [ca](/f8/language/ca) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ca.po | 
+ | [cs](/f8/language/cs) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/cs.po | 
+ | [es](/f8/language/es) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/es.po | 
+ | [fi](/f8/language/fi) | 454 | 454 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/fi.po | 
+ | [fr](/f8/language/fr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/fr.po | 
+ | [hu](/f8/language/hu) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/hu.po | 
+ | [it](/f8/language/it) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/it.po | 
+ | [nl](/f8/language/nl) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/nl.po | 
+ | [pl](/f8/language/pl) | 454 | 454 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/pl.po | 
+ | [ro](/f8/language/ro) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ro.po | 
+ | [sr](/f8/language/sr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/sr.po | 
+ | [sv](/f8/language/sv) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/sv.po | 
+ | [tr](/f8/language/tr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/tr.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 205 | 205 | 100.0 | /mnt/stockage/packages/f8/bluez-gnome/po/zh_CN.po | 
+ | [id](/f8/language/id) | 203 | 205 | 99.0 | /mnt/stockage/packages/f8/bluez-gnome/po/id.po | 
+ | [pt](/f8/language/pt) | 196 | 205 | 95.6 | /mnt/stockage/packages/f8/bluez-gnome/po/pt.po | 
+ | [en_GB](/f8/language/en_GB) | 128 | 205 | 62.4 | /mnt/stockage/packages/f8/bluez-gnome/po/en_GB.po | 
+ | [pt_BR](/f8/language/pt_BR) | 126 | 205 | 61.5 | /mnt/stockage/packages/f8/bluez-gnome/po/pt_BR.po | 
+ | [sk](/f8/language/sk) | 117 | 205 | 57.1 | /mnt/stockage/packages/f8/bluez-gnome/po/sk.po | 
+ | [bg](/f8/language/bg) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/bg.po | 
+ | [da](/f8/language/da) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/da.po | 
+ | [de](/f8/language/de) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/de.po | 
+ | [ku](/f8/language/ku) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ku.po | 
+ | [nb_NO](/f8/language/nb_NO) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/nb.po | 
+ | [ru](/f8/language/ru) | 0 | 205 | 0.0 | /mnt/stockage/packages/f8/bluez-gnome/po/ru.po | 
 {.sortable}
 
 

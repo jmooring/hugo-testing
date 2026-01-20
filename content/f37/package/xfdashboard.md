@@ -18,37 +18,37 @@ The package xfdashboard (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/bg.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/fr.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/he.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/ja.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/lt.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/nb.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/pt.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/sl.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/sq.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/sr.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/tr.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/zh_CN.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 1069 | 1083 | 98.7 | /mnt/stockage/packages/f37/xfdashboard/po/eu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 1069 | 1084 | 98.6 | /mnt/stockage/packages/f37/xfdashboard/po/id.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 1043 | 1083 | 96.3 | /mnt/stockage/packages/f37/xfdashboard/po/be.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 1043 | 1083 | 96.3 | /mnt/stockage/packages/f37/xfdashboard/po/gl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1043 | 1083 | 96.3 | /mnt/stockage/packages/f37/xfdashboard/po/pt_BR.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 928 | 1084 | 85.6 | /mnt/stockage/packages/f37/xfdashboard/po/ko.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 504 | 1083 | 46.5 | /mnt/stockage/packages/f37/xfdashboard/po/el.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 404 | 1083 | 37.3 | /mnt/stockage/packages/f37/xfdashboard/po/et.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 383 | 1083 | 35.4 | /mnt/stockage/packages/f37/xfdashboard/po/ca.po | 
- | [ie]({{< ref "/f37/language/ie.md" >}}) | 183 | 921 | 19.9 | /mnt/stockage/packages/f37/xfdashboard/po/ie.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1107 | 7984 | 13.9 | /mnt/stockage/packages/f37/xfdashboard/po/it_IT.po/mnt/stockage/packages/f37/xfdashboard/po/it.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1106 | 7984 | 13.9 | /mnt/stockage/packages/f37/xfdashboard/po/ru_RU.po/mnt/stockage/packages/f37/xfdashboard/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1084 | 7984 | 13.6 | /mnt/stockage/packages/f37/xfdashboard/po/sv_SE.po/mnt/stockage/packages/f37/xfdashboard/po/sv.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 0 | 6878 | 0.0 | /mnt/stockage/packages/f37/xfdashboard/po/kk.po | 
+ | [bg](/f37/language/bg) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/bg.po | 
+ | [da](/f37/language/da) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/da.po | 
+ | [de](/f37/language/de) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/de.po | 
+ | [es](/f37/language/es) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/es.po | 
+ | [fr](/f37/language/fr) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/fr.po | 
+ | [he](/f37/language/he) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/he.po | 
+ | [ja](/f37/language/ja) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/ja.po | 
+ | [lt](/f37/language/lt) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/lt.po | 
+ | [nb_NO](/f37/language/nb_NO) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/nb.po | 
+ | [nl](/f37/language/nl) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/nl.po | 
+ | [pl](/f37/language/pl) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/pl.po | 
+ | [pt](/f37/language/pt) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/pt.po | 
+ | [sl](/f37/language/sl) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/sl.po | 
+ | [sq](/f37/language/sq) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/sq.po | 
+ | [sr](/f37/language/sr) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/sr.po | 
+ | [tr](/f37/language/tr) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/tr.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f37/xfdashboard/po/zh_CN.po | 
+ | [eu](/f37/language/eu) | 1069 | 1083 | 98.7 | /mnt/stockage/packages/f37/xfdashboard/po/eu.po | 
+ | [id](/f37/language/id) | 1069 | 1084 | 98.6 | /mnt/stockage/packages/f37/xfdashboard/po/id.po | 
+ | [be](/f37/language/be) | 1043 | 1083 | 96.3 | /mnt/stockage/packages/f37/xfdashboard/po/be.po | 
+ | [gl](/f37/language/gl) | 1043 | 1083 | 96.3 | /mnt/stockage/packages/f37/xfdashboard/po/gl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1043 | 1083 | 96.3 | /mnt/stockage/packages/f37/xfdashboard/po/pt_BR.po | 
+ | [ko](/f37/language/ko) | 928 | 1084 | 85.6 | /mnt/stockage/packages/f37/xfdashboard/po/ko.po | 
+ | [el](/f37/language/el) | 504 | 1083 | 46.5 | /mnt/stockage/packages/f37/xfdashboard/po/el.po | 
+ | [et](/f37/language/et) | 404 | 1083 | 37.3 | /mnt/stockage/packages/f37/xfdashboard/po/et.po | 
+ | [ca](/f37/language/ca) | 383 | 1083 | 35.4 | /mnt/stockage/packages/f37/xfdashboard/po/ca.po | 
+ | [ie](/f37/language/ie) | 183 | 921 | 19.9 | /mnt/stockage/packages/f37/xfdashboard/po/ie.po | 
+ | [it](/f37/language/it) | 1107 | 7984 | 13.9 | /mnt/stockage/packages/f37/xfdashboard/po/it_IT.po/mnt/stockage/packages/f37/xfdashboard/po/it.po | 
+ | [ru](/f37/language/ru) | 1106 | 7984 | 13.9 | /mnt/stockage/packages/f37/xfdashboard/po/ru_RU.po/mnt/stockage/packages/f37/xfdashboard/po/ru.po | 
+ | [sv](/f37/language/sv) | 1084 | 7984 | 13.6 | /mnt/stockage/packages/f37/xfdashboard/po/sv_SE.po/mnt/stockage/packages/f37/xfdashboard/po/sv.po | 
+ | [kk](/f37/language/kk) | 0 | 6878 | 0.0 | /mnt/stockage/packages/f37/xfdashboard/po/kk.po | 
 {.sortable}
 
 

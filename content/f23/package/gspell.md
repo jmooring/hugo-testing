@@ -18,36 +18,36 @@ The package gspell (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/es.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/fi.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/it.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/lt.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/pt_BR.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/sk.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/sv.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/vi.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ar.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/da.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/el.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/fa.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/gl.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/he.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/hu.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ko.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/lv.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/nl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ru.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/sr.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/sr@latin.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/tr.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/zh_TW.po | 
+ | [cs](/f23/language/cs) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/cs.po | 
+ | [de](/f23/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/de.po | 
+ | [es](/f23/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/es.po | 
+ | [fi](/f23/language/fi) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/fi.po | 
+ | [it](/f23/language/it) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/it.po | 
+ | [lt](/f23/language/lt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/lt.po | 
+ | [pl](/f23/language/pl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/pl.po | 
+ | [pt](/f23/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/pt_BR.po | 
+ | [sk](/f23/language/sk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/sk.po | 
+ | [sv](/f23/language/sv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/sv.po | 
+ | [vi](/f23/language/vi) | 80 | 80 | 100.0 | /mnt/stockage/packages/f23/gspell/po/vi.po | 
+ | [ar](/f23/language/ar) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ar.po | 
+ | [da](/f23/language/da) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/da.po | 
+ | [el](/f23/language/el) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/el.po | 
+ | [fa](/f23/language/fa) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/fa.po | 
+ | [fr](/f23/language/fr) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/fr.po | 
+ | [gl](/f23/language/gl) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/gl.po | 
+ | [he](/f23/language/he) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/he.po | 
+ | [hu](/f23/language/hu) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/hu.po | 
+ | [ja](/f23/language/ja) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ja.po | 
+ | [ko](/f23/language/ko) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ko.po | 
+ | [lv](/f23/language/lv) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/lv.po | 
+ | [nb_NO](/f23/language/nb_NO) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/nb.po | 
+ | [nl](/f23/language/nl) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/nl.po | 
+ | [ru](/f23/language/ru) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/ru.po | 
+ | [sr](/f23/language/sr) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/sr.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/sr@latin.po | 
+ | [tr](/f23/language/tr) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/tr.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 64 | 80 | 80.0 | /mnt/stockage/packages/f23/gspell/po/zh_TW.po | 
 {.sortable}
 
 

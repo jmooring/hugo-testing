@@ -18,10 +18,10 @@ The package gtkterm (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f28/gtkterm/po/de.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f28/gtkterm/po/hu.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f28/gtkterm/po/ru.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 632 | 667 | 94.8 | /mnt/stockage/packages/f28/gtkterm/po/fr.po | 
+ | [de](/f28/language/de) | 592 | 592 | 100.0 | /mnt/stockage/packages/f28/gtkterm/po/de.po | 
+ | [hu](/f28/language/hu) | 592 | 592 | 100.0 | /mnt/stockage/packages/f28/gtkterm/po/hu.po | 
+ | [ru](/f28/language/ru) | 616 | 616 | 100.0 | /mnt/stockage/packages/f28/gtkterm/po/ru.po | 
+ | [fr](/f28/language/fr) | 632 | 667 | 94.8 | /mnt/stockage/packages/f28/gtkterm/po/fr.po | 
 {.sortable}
 
 

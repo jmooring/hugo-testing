@@ -18,12 +18,12 @@ The package libgpg-error (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f9/libgpg-error/po/de.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 734 | 740 | 99.2 | /mnt/stockage/packages/f9/libgpg-error/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 734 | 740 | 99.2 | /mnt/stockage/packages/f9/libgpg-error/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 734 | 740 | 99.2 | /mnt/stockage/packages/f9/libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 614 | 740 | 83.0 | /mnt/stockage/packages/f9/libgpg-error/po/ro.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 612 | 740 | 82.7 | /mnt/stockage/packages/f9/libgpg-error/po/fr.po | 
+ | [de](/f9/language/de) | 740 | 740 | 100.0 | /mnt/stockage/packages/f9/libgpg-error/po/de.po | 
+ | [pl](/f9/language/pl) | 734 | 740 | 99.2 | /mnt/stockage/packages/f9/libgpg-error/po/pl.po | 
+ | [sv](/f9/language/sv) | 734 | 740 | 99.2 | /mnt/stockage/packages/f9/libgpg-error/po/sv.po | 
+ | [vi](/f9/language/vi) | 734 | 740 | 99.2 | /mnt/stockage/packages/f9/libgpg-error/po/vi.po | 
+ | [ro](/f9/language/ro) | 614 | 740 | 83.0 | /mnt/stockage/packages/f9/libgpg-error/po/ro.po | 
+ | [fr](/f9/language/fr) | 612 | 740 | 82.7 | /mnt/stockage/packages/f9/libgpg-error/po/fr.po | 
 {.sortable}
 
 

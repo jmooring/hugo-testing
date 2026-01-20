@@ -18,20 +18,20 @@ The package phpesp (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 2083 | 2230 | 93.4 | /mnt/stockage/packages/f11/phpesp/locale/nl_NL/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 2772 | 4193 | 66.1 | /mnt/stockage/packages/f11/phpesp/locale/fi/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/phpesp/locale/fi_FI/LC_MESSAGES/messages.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1209 | 2230 | 54.2 | /mnt/stockage/packages/f11/phpesp/locale/hu_HU/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1181 | 2230 | 53.0 | /mnt/stockage/packages/f11/phpesp/locale/de_DE/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 951 | 2230 | 42.6 | /mnt/stockage/packages/f11/phpesp/locale/it_IT/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 881 | 2230 | 39.5 | /mnt/stockage/packages/f11/phpesp/locale/fr_FR/LC_MESSAGES/messages.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 848 | 2230 | 38.0 | /mnt/stockage/packages/f11/phpesp/locale/el_GR/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 848 | 2230 | 38.0 | /mnt/stockage/packages/f11/phpesp/locale/pt_BR/LC_MESSAGES/messages.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 848 | 2230 | 38.0 | /mnt/stockage/packages/f11/phpesp/locale/pt_PT/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 764 | 2230 | 34.3 | /mnt/stockage/packages/f11/phpesp/locale/es_ES/LC_MESSAGES/messages.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 760 | 2230 | 34.1 | /mnt/stockage/packages/f11/phpesp/locale/sv_SE/LC_MESSAGES/messages.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 680 | 2230 | 30.5 | /mnt/stockage/packages/f11/phpesp/locale/da_DK/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 627 | 2230 | 28.1 | /mnt/stockage/packages/f11/phpesp/locale/ja_JP/LC_MESSAGES/messages.po | 
- | [en_US]({{< ref "/f11/language/en_US.md" >}}) | 3 | 2230 | 0.1 | /mnt/stockage/packages/f11/phpesp/locale/en_US/LC_MESSAGES/messages.po | 
+ | [nl](/f11/language/nl) | 2083 | 2230 | 93.4 | /mnt/stockage/packages/f11/phpesp/locale/nl_NL/LC_MESSAGES/messages.po | 
+ | [fi](/f11/language/fi) | 2772 | 4193 | 66.1 | /mnt/stockage/packages/f11/phpesp/locale/fi/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/phpesp/locale/fi_FI/LC_MESSAGES/messages.po | 
+ | [hu](/f11/language/hu) | 1209 | 2230 | 54.2 | /mnt/stockage/packages/f11/phpesp/locale/hu_HU/LC_MESSAGES/messages.po | 
+ | [de](/f11/language/de) | 1181 | 2230 | 53.0 | /mnt/stockage/packages/f11/phpesp/locale/de_DE/LC_MESSAGES/messages.po | 
+ | [it](/f11/language/it) | 951 | 2230 | 42.6 | /mnt/stockage/packages/f11/phpesp/locale/it_IT/LC_MESSAGES/messages.po | 
+ | [fr](/f11/language/fr) | 881 | 2230 | 39.5 | /mnt/stockage/packages/f11/phpesp/locale/fr_FR/LC_MESSAGES/messages.po | 
+ | [el](/f11/language/el) | 848 | 2230 | 38.0 | /mnt/stockage/packages/f11/phpesp/locale/el_GR/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f11/language/pt_BR) | 848 | 2230 | 38.0 | /mnt/stockage/packages/f11/phpesp/locale/pt_BR/LC_MESSAGES/messages.po | 
+ | [pt_PT](/f11/language/pt_PT) | 848 | 2230 | 38.0 | /mnt/stockage/packages/f11/phpesp/locale/pt_PT/LC_MESSAGES/messages.po | 
+ | [es](/f11/language/es) | 764 | 2230 | 34.3 | /mnt/stockage/packages/f11/phpesp/locale/es_ES/LC_MESSAGES/messages.po | 
+ | [sv](/f11/language/sv) | 760 | 2230 | 34.1 | /mnt/stockage/packages/f11/phpesp/locale/sv_SE/LC_MESSAGES/messages.po | 
+ | [da](/f11/language/da) | 680 | 2230 | 30.5 | /mnt/stockage/packages/f11/phpesp/locale/da_DK/LC_MESSAGES/messages.po | 
+ | [ja](/f11/language/ja) | 627 | 2230 | 28.1 | /mnt/stockage/packages/f11/phpesp/locale/ja_JP/LC_MESSAGES/messages.po | 
+ | [en_US](/f11/language/en_US) | 3 | 2230 | 0.1 | /mnt/stockage/packages/f11/phpesp/locale/en_US/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

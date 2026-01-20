@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bluedevil]({{< ref "/f16/package/bluedevil.md" >}}) | 617 | 617 | 100.0 | Hungarian <kde-l10n-hu@kde.org> | 
- | [kde-l10n]({{< ref "/f16/package/kde-l10n.md" >}}) | 1330 | 1330 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [bluedevil](/f16/package/bluedevil) | 617 | 617 | 100.0 | Hungarian <kde-l10n-hu@kde.org> | 
+ | [kde-l10n](/f16/package/kde-l10n) | 1330 | 1330 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
 {.sortable}
 
 

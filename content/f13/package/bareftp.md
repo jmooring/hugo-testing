@@ -18,16 +18,16 @@ The package bareftp (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f13/bareftp/po/nb.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 880 | 896 | 98.2 | /mnt/stockage/packages/f13/bareftp/po/es.po/mnt/stockage/packages/f13/bareftp/po/ca.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 440 | 448 | 98.2 | /mnt/stockage/packages/f13/bareftp/po/fr.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 422 | 448 | 94.2 | /mnt/stockage/packages/f13/bareftp/po/pl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 421 | 448 | 94.0 | /mnt/stockage/packages/f13/bareftp/po/sv.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 400 | 448 | 89.3 | /mnt/stockage/packages/f13/bareftp/po/it.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 400 | 448 | 89.3 | /mnt/stockage/packages/f13/bareftp/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 400 | 448 | 89.3 | /mnt/stockage/packages/f13/bareftp/po/ru.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 385 | 448 | 85.9 | /mnt/stockage/packages/f13/bareftp/po/sk.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 292 | 448 | 65.2 | /mnt/stockage/packages/f13/bareftp/po/de.po | 
+ | [nb_NO](/f13/language/nb_NO) | 448 | 448 | 100.0 | /mnt/stockage/packages/f13/bareftp/po/nb.po | 
+ | [es](/f13/language/es) | 880 | 896 | 98.2 | /mnt/stockage/packages/f13/bareftp/po/es.po/mnt/stockage/packages/f13/bareftp/po/ca.po | 
+ | [fr](/f13/language/fr) | 440 | 448 | 98.2 | /mnt/stockage/packages/f13/bareftp/po/fr.po | 
+ | [pl](/f13/language/pl) | 422 | 448 | 94.2 | /mnt/stockage/packages/f13/bareftp/po/pl.po | 
+ | [sv](/f13/language/sv) | 421 | 448 | 94.0 | /mnt/stockage/packages/f13/bareftp/po/sv.po | 
+ | [it](/f13/language/it) | 400 | 448 | 89.3 | /mnt/stockage/packages/f13/bareftp/po/it.po | 
+ | [pt_BR](/f13/language/pt_BR) | 400 | 448 | 89.3 | /mnt/stockage/packages/f13/bareftp/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 400 | 448 | 89.3 | /mnt/stockage/packages/f13/bareftp/po/ru.po | 
+ | [sk](/f13/language/sk) | 385 | 448 | 85.9 | /mnt/stockage/packages/f13/bareftp/po/sk.po | 
+ | [de](/f13/language/de) | 292 | 448 | 65.2 | /mnt/stockage/packages/f13/bareftp/po/de.po | 
 {.sortable}
 
 

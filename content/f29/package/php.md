@@ -18,11 +18,11 @@ The package php (version 7.2.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/66265/de_DE/LC_MESSAGES/domain.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switch.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switched.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dngettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest_switch.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/dngettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/messages.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/66265/en_US/LC_MESSAGES/domain.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/66265/fr_FR/LC_MESSAGES/domain.po | 
+ | [de](/f29/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/66265/de_DE/LC_MESSAGES/domain.po | 
+ | [en](/f29/language/en) | 14 | 14 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switch.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dgettextTest_switched.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_CTYPE/dngettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/dgettextTest_switch.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/dngettextTest.po/mnt/stockage/packages/f29/php/ext/gettext/tests/locale/en/LC_MESSAGES/messages.po | 
+ | [en_US](/f29/language/en_US) | 1 | 1 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/66265/en_US/LC_MESSAGES/domain.po | 
+ | [fi](/f29/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
+ | [fr](/f29/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f29/php/ext/gettext/tests/66265/fr_FR/LC_MESSAGES/domain.po | 
 {.sortable}
 
 

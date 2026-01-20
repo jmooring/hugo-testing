@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 4 | 12020 | 0.0 | Afar | 
+ | [iso-codes](/f7/package/iso-codes) | 4 | 12020 | 0.0 | Afar | 
 {.sortable}
 
 

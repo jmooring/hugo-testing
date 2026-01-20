@@ -18,16 +18,16 @@ The package lxhotkey (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f43/lxhotkey/po/pt.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 435 | 451 | 96.5 | /mnt/stockage/packages/f43/lxhotkey/po/fr.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 435 | 451 | 96.5 | /mnt/stockage/packages/f43/lxhotkey/po/ru.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 435 | 451 | 96.5 | /mnt/stockage/packages/f43/lxhotkey/po/uk.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 433 | 451 | 96.0 | /mnt/stockage/packages/f43/lxhotkey/po/cs.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 433 | 451 | 96.0 | /mnt/stockage/packages/f43/lxhotkey/po/gl.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 433 | 451 | 96.0 | /mnt/stockage/packages/f43/lxhotkey/po/nl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 393 | 451 | 87.1 | /mnt/stockage/packages/f43/lxhotkey/po/sr.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 393 | 451 | 87.1 | /mnt/stockage/packages/f43/lxhotkey/po/sr@latin.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 256 | 451 | 56.8 | /mnt/stockage/packages/f43/lxhotkey/po/de.po | 
+ | [pt](/f43/language/pt) | 451 | 451 | 100.0 | /mnt/stockage/packages/f43/lxhotkey/po/pt.po | 
+ | [fr](/f43/language/fr) | 435 | 451 | 96.5 | /mnt/stockage/packages/f43/lxhotkey/po/fr.po | 
+ | [ru](/f43/language/ru) | 435 | 451 | 96.5 | /mnt/stockage/packages/f43/lxhotkey/po/ru.po | 
+ | [uk](/f43/language/uk) | 435 | 451 | 96.5 | /mnt/stockage/packages/f43/lxhotkey/po/uk.po | 
+ | [cs](/f43/language/cs) | 433 | 451 | 96.0 | /mnt/stockage/packages/f43/lxhotkey/po/cs.po | 
+ | [gl](/f43/language/gl) | 433 | 451 | 96.0 | /mnt/stockage/packages/f43/lxhotkey/po/gl.po | 
+ | [nl](/f43/language/nl) | 433 | 451 | 96.0 | /mnt/stockage/packages/f43/lxhotkey/po/nl.po | 
+ | [sr](/f43/language/sr) | 393 | 451 | 87.1 | /mnt/stockage/packages/f43/lxhotkey/po/sr.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 393 | 451 | 87.1 | /mnt/stockage/packages/f43/lxhotkey/po/sr@latin.po | 
+ | [de](/f43/language/de) | 256 | 451 | 56.8 | /mnt/stockage/packages/f43/lxhotkey/po/de.po | 
 {.sortable}
 
 

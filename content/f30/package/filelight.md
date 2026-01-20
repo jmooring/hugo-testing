@@ -18,50 +18,50 @@ The package filelight (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/ca/filelight.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/ca@valencia/filelight.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/cs/filelight.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/de/filelight.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/el/filelight.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/en_GB/filelight.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/es/filelight.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/fi/filelight.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/fr/filelight.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/gl/filelight.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/it/filelight.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/nl/filelight.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/nn/filelight.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/pl/filelight.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/pt/filelight.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/pt_BR/filelight.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/ru/filelight.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/sv/filelight.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/uk/filelight.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/zh_CN/filelight.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/zh_TW/filelight.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/da/filelight.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/eu/filelight.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/ia/filelight.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/ko/filelight.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/sk/filelight.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/sl/filelight.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/sr/filelight.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/tr/filelight.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 394 | 419 | 94.0 | /mnt/stockage/packages/f30/filelight/po/et/filelight.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 394 | 419 | 94.0 | /mnt/stockage/packages/f30/filelight/po/hu/filelight.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/bs/filelight.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/kk/filelight.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/lt/filelight.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/nb/filelight.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/nds/filelight.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 347 | 419 | 82.8 | /mnt/stockage/packages/f30/filelight/po/bg/filelight.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 339 | 419 | 80.9 | /mnt/stockage/packages/f30/filelight/po/ja/filelight.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 231 | 419 | 55.1 | /mnt/stockage/packages/f30/filelight/po/ro/filelight.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 171 | 419 | 40.8 | /mnt/stockage/packages/f30/filelight/po/pa/filelight.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 70 | 419 | 16.7 | /mnt/stockage/packages/f30/filelight/po/ga/filelight.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 59 | 419 | 14.1 | /mnt/stockage/packages/f30/filelight/po/ug/filelight.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 58 | 419 | 13.8 | /mnt/stockage/packages/f30/filelight/po/mr/filelight.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 39 | 419 | 9.3 | /mnt/stockage/packages/f30/filelight/po/eo/filelight.po | 
+ | [ca](/f30/language/ca) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/ca/filelight.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/ca@valencia/filelight.po | 
+ | [cs](/f30/language/cs) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/cs/filelight.po | 
+ | [de](/f30/language/de) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/de/filelight.po | 
+ | [el](/f30/language/el) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/el/filelight.po | 
+ | [en_GB](/f30/language/en_GB) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/en_GB/filelight.po | 
+ | [es](/f30/language/es) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/es/filelight.po | 
+ | [fi](/f30/language/fi) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/fi/filelight.po | 
+ | [fr](/f30/language/fr) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/fr/filelight.po | 
+ | [gl](/f30/language/gl) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/gl/filelight.po | 
+ | [it](/f30/language/it) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/it/filelight.po | 
+ | [nl](/f30/language/nl) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/nl/filelight.po | 
+ | [nn](/f30/language/nn) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/nn/filelight.po | 
+ | [pl](/f30/language/pl) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/pl/filelight.po | 
+ | [pt](/f30/language/pt) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/pt/filelight.po | 
+ | [pt_BR](/f30/language/pt_BR) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/pt_BR/filelight.po | 
+ | [ru](/f30/language/ru) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/ru/filelight.po | 
+ | [sv](/f30/language/sv) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/sv/filelight.po | 
+ | [uk](/f30/language/uk) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/uk/filelight.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/zh_CN/filelight.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 419 | 419 | 100.0 | /mnt/stockage/packages/f30/filelight/po/zh_TW/filelight.po | 
+ | [da](/f30/language/da) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/da/filelight.po | 
+ | [eu](/f30/language/eu) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/eu/filelight.po | 
+ | [ia](/f30/language/ia) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/ia/filelight.po | 
+ | [ko](/f30/language/ko) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/ko/filelight.po | 
+ | [sk](/f30/language/sk) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/sk/filelight.po | 
+ | [sl](/f30/language/sl) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/sl/filelight.po | 
+ | [sr](/f30/language/sr) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/sr/filelight.po | 
+ | [tr](/f30/language/tr) | 401 | 419 | 95.7 | /mnt/stockage/packages/f30/filelight/po/tr/filelight.po | 
+ | [et](/f30/language/et) | 394 | 419 | 94.0 | /mnt/stockage/packages/f30/filelight/po/et/filelight.po | 
+ | [hu](/f30/language/hu) | 394 | 419 | 94.0 | /mnt/stockage/packages/f30/filelight/po/hu/filelight.po | 
+ | [bs](/f30/language/bs) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/bs/filelight.po | 
+ | [kk](/f30/language/kk) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/kk/filelight.po | 
+ | [lt](/f30/language/lt) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/lt/filelight.po | 
+ | [nb_NO](/f30/language/nb_NO) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/nb/filelight.po | 
+ | [nds](/f30/language/nds) | 359 | 419 | 85.7 | /mnt/stockage/packages/f30/filelight/po/nds/filelight.po | 
+ | [bg](/f30/language/bg) | 347 | 419 | 82.8 | /mnt/stockage/packages/f30/filelight/po/bg/filelight.po | 
+ | [ja](/f30/language/ja) | 339 | 419 | 80.9 | /mnt/stockage/packages/f30/filelight/po/ja/filelight.po | 
+ | [ro](/f30/language/ro) | 231 | 419 | 55.1 | /mnt/stockage/packages/f30/filelight/po/ro/filelight.po | 
+ | [pa](/f30/language/pa) | 171 | 419 | 40.8 | /mnt/stockage/packages/f30/filelight/po/pa/filelight.po | 
+ | [ga](/f30/language/ga) | 70 | 419 | 16.7 | /mnt/stockage/packages/f30/filelight/po/ga/filelight.po | 
+ | [ug](/f30/language/ug) | 59 | 419 | 14.1 | /mnt/stockage/packages/f30/filelight/po/ug/filelight.po | 
+ | [mr](/f30/language/mr) | 58 | 419 | 13.8 | /mnt/stockage/packages/f30/filelight/po/mr/filelight.po | 
+ | [eo](/f30/language/eo) | 39 | 419 | 9.3 | /mnt/stockage/packages/f30/filelight/po/eo/filelight.po | 
 {.sortable}
 
 

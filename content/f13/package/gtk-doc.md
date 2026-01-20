@@ -18,16 +18,16 @@ The package gtk-doc (version 1.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f13/language/el.md" >}}) | 7277 | 7277 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/el/el.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 6632 | 6632 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/en_GB/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 7277 | 7277 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/es/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 7277 | 7277 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/fr/fr.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 5361 | 7277 | 73.7 | /mnt/stockage/packages/f13/gtk-doc/help/manual/de/de.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 3873 | 7233 | 53.5 | /mnt/stockage/packages/f13/gtk-doc/help/manual/ta/ta.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 3079 | 6632 | 46.4 | /mnt/stockage/packages/f13/gtk-doc/help/manual/sv/sv.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 3028 | 7277 | 41.6 | /mnt/stockage/packages/f13/gtk-doc/help/manual/te/te.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 2707 | 7277 | 37.2 | /mnt/stockage/packages/f13/gtk-doc/help/manual/gu/gu.po | 
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 948 | 7277 | 13.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/bn_IN/bn_IN.po | 
+ | [el](/f13/language/el) | 7277 | 7277 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/el/el.po | 
+ | [en_GB](/f13/language/en_GB) | 6632 | 6632 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/en_GB/en_GB.po | 
+ | [es](/f13/language/es) | 7277 | 7277 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/es/es.po | 
+ | [fr](/f13/language/fr) | 7277 | 7277 | 100.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/fr/fr.po | 
+ | [de](/f13/language/de) | 5361 | 7277 | 73.7 | /mnt/stockage/packages/f13/gtk-doc/help/manual/de/de.po | 
+ | [ta](/f13/language/ta) | 3873 | 7233 | 53.5 | /mnt/stockage/packages/f13/gtk-doc/help/manual/ta/ta.po | 
+ | [sv](/f13/language/sv) | 3079 | 6632 | 46.4 | /mnt/stockage/packages/f13/gtk-doc/help/manual/sv/sv.po | 
+ | [te](/f13/language/te) | 3028 | 7277 | 41.6 | /mnt/stockage/packages/f13/gtk-doc/help/manual/te/te.po | 
+ | [gu](/f13/language/gu) | 2707 | 7277 | 37.2 | /mnt/stockage/packages/f13/gtk-doc/help/manual/gu/gu.po | 
+ | [bn_IN](/f13/language/bn_IN) | 948 | 7277 | 13.0 | /mnt/stockage/packages/f13/gtk-doc/help/manual/bn_IN/bn_IN.po | 
 {.sortable}
 
 

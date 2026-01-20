@@ -18,9 +18,9 @@ The package openstack-glance (version 2015.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 383 | 440 | 87.0 | /mnt/stockage/packages/f23/openstack-glance/glance/locale/pt_BR/LC_MESSAGES/glance-log-info.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 318 | 440 | 72.3 | /mnt/stockage/packages/f23/openstack-glance/glance/locale/en_GB/LC_MESSAGES/glance-log-info.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 280 | 440 | 63.6 | /mnt/stockage/packages/f23/openstack-glance/glance/locale/fr/LC_MESSAGES/glance-log-info.po | 
+ | [pt_BR](/f23/language/pt_BR) | 383 | 440 | 87.0 | /mnt/stockage/packages/f23/openstack-glance/glance/locale/pt_BR/LC_MESSAGES/glance-log-info.po | 
+ | [en_GB](/f23/language/en_GB) | 318 | 440 | 72.3 | /mnt/stockage/packages/f23/openstack-glance/glance/locale/en_GB/LC_MESSAGES/glance-log-info.po | 
+ | [fr](/f23/language/fr) | 280 | 440 | 63.6 | /mnt/stockage/packages/f23/openstack-glance/glance/locale/fr/LC_MESSAGES/glance-log-info.po | 
 {.sortable}
 
 

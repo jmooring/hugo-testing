@@ -18,52 +18,52 @@ The package libadwaita (version 1.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f39/language/be.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/be.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/bg.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/el.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/en_GB.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/eo.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/eu.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fa.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fr.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fur.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/gl.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/he.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/hi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ja.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ka.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/kk.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ko.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/lt.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/nb.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ne.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/nl.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/oc.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sk.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/uk.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/vi.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/zh_TW.po | 
- | [ab]({{< ref "/f39/language/ab.md" >}}) | 113 | 263 | 43.0 | /mnt/stockage/packages/f39/libadwaita/po/ab.po | 
+ | [be](/f39/language/be) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/be.po | 
+ | [bg](/f39/language/bg) | 284 | 284 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/bg.po | 
+ | [ca](/f39/language/ca) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ca.po | 
+ | [cs](/f39/language/cs) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/cs.po | 
+ | [da](/f39/language/da) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/da.po | 
+ | [de](/f39/language/de) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/de.po | 
+ | [el](/f39/language/el) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/el.po | 
+ | [en_GB](/f39/language/en_GB) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/en_GB.po | 
+ | [eo](/f39/language/eo) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/eo.po | 
+ | [es](/f39/language/es) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/es.po | 
+ | [eu](/f39/language/eu) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/eu.po | 
+ | [fa](/f39/language/fa) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fa.po | 
+ | [fi](/f39/language/fi) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fi.po | 
+ | [fr](/f39/language/fr) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fr.po | 
+ | [fur](/f39/language/fur) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/fur.po | 
+ | [gl](/f39/language/gl) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/gl.po | 
+ | [he](/f39/language/he) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/he.po | 
+ | [hi](/f39/language/hi) | 280 | 280 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/hi.po | 
+ | [hr](/f39/language/hr) | 280 | 280 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/hr.po | 
+ | [hu](/f39/language/hu) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/hu.po | 
+ | [id](/f39/language/id) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/id.po | 
+ | [it](/f39/language/it) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/it.po | 
+ | [ja](/f39/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ja.po | 
+ | [ka](/f39/language/ka) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ka.po | 
+ | [kk](/f39/language/kk) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/kk.po | 
+ | [ko](/f39/language/ko) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ko.po | 
+ | [lt](/f39/language/lt) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/lt.po | 
+ | [nb_NO](/f39/language/nb_NO) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/nb.po | 
+ | [ne](/f39/language/ne) | 42 | 42 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ne.po | 
+ | [nl](/f39/language/nl) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/nl.po | 
+ | [oc](/f39/language/oc) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/oc.po | 
+ | [pl](/f39/language/pl) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/pl.po | 
+ | [pt](/f39/language/pt) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ro.po | 
+ | [ru](/f39/language/ru) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/ru.po | 
+ | [sk](/f39/language/sk) | 284 | 284 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sk.po | 
+ | [sl](/f39/language/sl) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sl.po | 
+ | [sr](/f39/language/sr) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sr.po | 
+ | [sv](/f39/language/sv) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/sv.po | 
+ | [tr](/f39/language/tr) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/tr.po | 
+ | [uk](/f39/language/uk) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/uk.po | 
+ | [vi](/f39/language/vi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/vi.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 287 | 287 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 265 | 265 | 100.0 | /mnt/stockage/packages/f39/libadwaita/po/zh_TW.po | 
+ | [ab](/f39/language/ab) | 113 | 263 | 43.0 | /mnt/stockage/packages/f39/libadwaita/po/ab.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package eekboard (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f15/eekboard/po/ja.po | 
+ | [ja](/f15/language/ja) | 78 | 78 | 100.0 | /mnt/stockage/packages/f15/eekboard/po/ja.po | 
 {.sortable}
 
 

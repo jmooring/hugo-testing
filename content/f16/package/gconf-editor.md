@@ -18,92 +18,92 @@ The package gconf-editor (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/as.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/az.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/be.po | 
- | [be_Latn]({{< ref "/f16/language/be_Latn.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/be@latin.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bn_IN.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bs.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 3170 | 3170 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/ca/ca.po/mnt/stockage/packages/f16/gconf-editor/po/ca@valencia.po/mnt/stockage/packages/f16/gconf-editor/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/cs/cs.po/mnt/stockage/packages/f16/gconf-editor/po/cs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/cy.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/de/de.po/mnt/stockage/packages/f16/gconf-editor/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/dz.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/el/el.po/mnt/stockage/packages/f16/gconf-editor/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/en_GB/en_GB.po/mnt/stockage/packages/f16/gconf-editor/po/en_GB.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/eo.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/en@shaw.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/es/es.po/mnt/stockage/packages/f16/gconf-editor/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/fr/fr.po/mnt/stockage/packages/f16/gconf-editor/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/it/it.po/mnt/stockage/packages/f16/gconf-editor/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ka.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ko.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ku.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/lv.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/mk.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ml.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/mn.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/mr.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ms.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/nb.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/nn.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/pt_BR/pt_BR.po/mnt/stockage/packages/f16/gconf-editor/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2838 | 2838 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/ru/ru.po/mnt/stockage/packages/f16/gconf-editor/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sk.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sq.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/sv/sv.po/mnt/stockage/packages/f16/gconf-editor/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/te.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/tr.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 2836 | 2836 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/uk/uk.po/mnt/stockage/packages/f16/gconf-editor/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/vi.po | 
- | [xh]({{< ref "/f16/language/xh.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/xh.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/zh_CN/zh_CN.po/mnt/stockage/packages/f16/gconf-editor/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/zh_HK.po | 
- | [mg]({{< ref "/f16/language/mg.md" >}}) | 328 | 329 | 99.7 | /mnt/stockage/packages/f16/gconf-editor/po/mg.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 2810 | 2834 | 99.2 | /mnt/stockage/packages/f16/gconf-editor/docs/th/th.po/mnt/stockage/packages/f16/gconf-editor/po/th.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 329 | 336 | 97.9 | /mnt/stockage/packages/f16/gconf-editor/po/ast.po | 
- | [ps]({{< ref "/f16/language/ps.md" >}}) | 328 | 336 | 97.6 | /mnt/stockage/packages/f16/gconf-editor/po/ps.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 323 | 336 | 96.1 | /mnt/stockage/packages/f16/gconf-editor/po/mai.po | 
- | [br]({{< ref "/f16/language/br.md" >}}) | 244 | 336 | 72.6 | /mnt/stockage/packages/f16/gconf-editor/po/br.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 143 | 335 | 42.7 | /mnt/stockage/packages/f16/gconf-editor/po/ga.po | 
- | [li]({{< ref "/f16/language/li.md" >}}) | 101 | 320 | 31.6 | /mnt/stockage/packages/f16/gconf-editor/po/li.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 89 | 329 | 27.1 | /mnt/stockage/packages/f16/gconf-editor/po/hr.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 45 | 320 | 14.1 | /mnt/stockage/packages/f16/gconf-editor/po/am.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 369 | 2834 | 13.0 | /mnt/stockage/packages/f16/gconf-editor/docs/sl/sl.po/mnt/stockage/packages/f16/gconf-editor/po/sl.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 42 | 336 | 12.5 | /mnt/stockage/packages/f16/gconf-editor/po/kk.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 34 | 329 | 10.3 | /mnt/stockage/packages/f16/gconf-editor/po/si.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 214 | 2837 | 7.5 | /mnt/stockage/packages/f16/gconf-editor/docs/oc/oc.po/mnt/stockage/packages/f16/gconf-editor/po/oc.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 12 | 334 | 3.6 | /mnt/stockage/packages/f16/gconf-editor/po/rw.po | 
+ | [ar](/f16/language/ar) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ar.po | 
+ | [as](/f16/language/as) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/as.po | 
+ | [az](/f16/language/az) | 320 | 320 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/az.po | 
+ | [be](/f16/language/be) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/be.po | 
+ | [be_Latn](/f16/language/be_Latn) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/be@latin.po | 
+ | [bg](/f16/language/bg) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bg.po | 
+ | [bn](/f16/language/bn) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bn_IN.po | 
+ | [bs](/f16/language/bs) | 320 | 320 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/bs.po | 
+ | [ca](/f16/language/ca) | 3170 | 3170 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/ca/ca.po/mnt/stockage/packages/f16/gconf-editor/po/ca@valencia.po/mnt/stockage/packages/f16/gconf-editor/po/ca.po | 
+ | [cs](/f16/language/cs) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/cs/cs.po/mnt/stockage/packages/f16/gconf-editor/po/cs.po | 
+ | [cy](/f16/language/cy) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/cy.po | 
+ | [da](/f16/language/da) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/da.po | 
+ | [de](/f16/language/de) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/de/de.po/mnt/stockage/packages/f16/gconf-editor/po/de.po | 
+ | [dz](/f16/language/dz) | 329 | 329 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/dz.po | 
+ | [el](/f16/language/el) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/el/el.po/mnt/stockage/packages/f16/gconf-editor/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 329 | 329 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/en_GB/en_GB.po/mnt/stockage/packages/f16/gconf-editor/po/en_GB.po | 
+ | [eo](/f16/language/eo) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/eo.po | 
+ | [error](/f16/language/error) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/en@shaw.po | 
+ | [es](/f16/language/es) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/es/es.po/mnt/stockage/packages/f16/gconf-editor/po/es.po | 
+ | [et](/f16/language/et) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/et.po | 
+ | [eu](/f16/language/eu) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/eu.po | 
+ | [fa](/f16/language/fa) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/fa.po | 
+ | [fi](/f16/language/fi) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/fi.po | 
+ | [fr](/f16/language/fr) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/fr/fr.po/mnt/stockage/packages/f16/gconf-editor/po/fr.po | 
+ | [gl](/f16/language/gl) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/gl.po | 
+ | [gu](/f16/language/gu) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/gu.po | 
+ | [he](/f16/language/he) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/he.po | 
+ | [hi](/f16/language/hi) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/hi.po | 
+ | [hu](/f16/language/hu) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/hu.po | 
+ | [id](/f16/language/id) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/id.po | 
+ | [it](/f16/language/it) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/it/it.po/mnt/stockage/packages/f16/gconf-editor/po/it.po | 
+ | [ja](/f16/language/ja) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ja.po | 
+ | [ka](/f16/language/ka) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ka.po | 
+ | [kn](/f16/language/kn) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/kn.po | 
+ | [ko](/f16/language/ko) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ko.po | 
+ | [ku](/f16/language/ku) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ku.po | 
+ | [lt](/f16/language/lt) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/lt.po | 
+ | [lv](/f16/language/lv) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/lv.po | 
+ | [mk](/f16/language/mk) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/mk.po | 
+ | [ml](/f16/language/ml) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ml.po | 
+ | [mn](/f16/language/mn) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/mn.po | 
+ | [mr](/f16/language/mr) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/mr.po | 
+ | [ms](/f16/language/ms) | 320 | 320 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ms.po | 
+ | [nb_NO](/f16/language/nb_NO) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/nb.po | 
+ | [ne](/f16/language/ne) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ne.po | 
+ | [nl](/f16/language/nl) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/nl.po | 
+ | [nn](/f16/language/nn) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/nn.po | 
+ | [or](/f16/language/or) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/or.po | 
+ | [pa](/f16/language/pa) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/pa.po | 
+ | [pl](/f16/language/pl) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/pl.po | 
+ | [pt](/f16/language/pt) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/pt_BR/pt_BR.po/mnt/stockage/packages/f16/gconf-editor/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ro.po | 
+ | [ru](/f16/language/ru) | 2838 | 2838 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/ru/ru.po/mnt/stockage/packages/f16/gconf-editor/po/ru.po | 
+ | [sk](/f16/language/sk) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sk.po | 
+ | [sq](/f16/language/sq) | 335 | 335 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sq.po | 
+ | [sr](/f16/language/sr) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/sv/sv.po/mnt/stockage/packages/f16/gconf-editor/po/sv.po | 
+ | [ta](/f16/language/ta) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ta.po | 
+ | [te](/f16/language/te) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/te.po | 
+ | [tr](/f16/language/tr) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/tr.po | 
+ | [ug](/f16/language/ug) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/ug.po | 
+ | [uk](/f16/language/uk) | 2836 | 2836 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/uk/uk.po/mnt/stockage/packages/f16/gconf-editor/po/uk.po | 
+ | [vi](/f16/language/vi) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/vi.po | 
+ | [xh](/f16/language/xh) | 334 | 334 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/xh.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2834 | 2834 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/docs/zh_CN/zh_CN.po/mnt/stockage/packages/f16/gconf-editor/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 336 | 336 | 100.0 | /mnt/stockage/packages/f16/gconf-editor/po/zh_HK.po | 
+ | [mg](/f16/language/mg) | 328 | 329 | 99.7 | /mnt/stockage/packages/f16/gconf-editor/po/mg.po | 
+ | [th](/f16/language/th) | 2810 | 2834 | 99.2 | /mnt/stockage/packages/f16/gconf-editor/docs/th/th.po/mnt/stockage/packages/f16/gconf-editor/po/th.po | 
+ | [ast](/f16/language/ast) | 329 | 336 | 97.9 | /mnt/stockage/packages/f16/gconf-editor/po/ast.po | 
+ | [ps](/f16/language/ps) | 328 | 336 | 97.6 | /mnt/stockage/packages/f16/gconf-editor/po/ps.po | 
+ | [mai](/f16/language/mai) | 323 | 336 | 96.1 | /mnt/stockage/packages/f16/gconf-editor/po/mai.po | 
+ | [br](/f16/language/br) | 244 | 336 | 72.6 | /mnt/stockage/packages/f16/gconf-editor/po/br.po | 
+ | [ga](/f16/language/ga) | 143 | 335 | 42.7 | /mnt/stockage/packages/f16/gconf-editor/po/ga.po | 
+ | [li](/f16/language/li) | 101 | 320 | 31.6 | /mnt/stockage/packages/f16/gconf-editor/po/li.po | 
+ | [hr](/f16/language/hr) | 89 | 329 | 27.1 | /mnt/stockage/packages/f16/gconf-editor/po/hr.po | 
+ | [am](/f16/language/am) | 45 | 320 | 14.1 | /mnt/stockage/packages/f16/gconf-editor/po/am.po | 
+ | [sl](/f16/language/sl) | 369 | 2834 | 13.0 | /mnt/stockage/packages/f16/gconf-editor/docs/sl/sl.po/mnt/stockage/packages/f16/gconf-editor/po/sl.po | 
+ | [kk](/f16/language/kk) | 42 | 336 | 12.5 | /mnt/stockage/packages/f16/gconf-editor/po/kk.po | 
+ | [si](/f16/language/si) | 34 | 329 | 10.3 | /mnt/stockage/packages/f16/gconf-editor/po/si.po | 
+ | [oc](/f16/language/oc) | 214 | 2837 | 7.5 | /mnt/stockage/packages/f16/gconf-editor/docs/oc/oc.po/mnt/stockage/packages/f16/gconf-editor/po/oc.po | 
+ | [rw](/f16/language/rw) | 12 | 334 | 3.6 | /mnt/stockage/packages/f16/gconf-editor/po/rw.po | 
 {.sortable}
 
 

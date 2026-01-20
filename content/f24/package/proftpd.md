@@ -18,16 +18,16 @@ The package proftpd (version 1.3.5e):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/bg_BG.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/en_US.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 948 | 948 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/es_ES.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/fr_FR.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/it_IT.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/ko_KR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/zh_TW.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 814 | 833 | 97.7 | /mnt/stockage/packages/f24/proftpd/locale/ja_JP.po | 
+ | [bg](/f24/language/bg) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/bg_BG.po | 
+ | [en_US](/f24/language/en_US) | 833 | 833 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/en_US.po | 
+ | [es](/f24/language/es) | 948 | 948 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/es_ES.po | 
+ | [fr](/f24/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/fr_FR.po | 
+ | [it](/f24/language/it) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/it_IT.po | 
+ | [ko](/f24/language/ko) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/ko_KR.po | 
+ | [ru](/f24/language/ru) | 615 | 615 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/ru_RU.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 823 | 823 | 100.0 | /mnt/stockage/packages/f24/proftpd/locale/zh_TW.po | 
+ | [ja](/f24/language/ja) | 814 | 833 | 97.7 | /mnt/stockage/packages/f24/proftpd/locale/ja_JP.po | 
 {.sortable}
 
 

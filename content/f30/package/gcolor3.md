@@ -18,19 +18,19 @@ The package gcolor3 (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f30/gcolor3/po/gl.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 612 | 619 | 98.9 | /mnt/stockage/packages/f30/gcolor3/po/nl.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 608 | 619 | 98.2 | /mnt/stockage/packages/f30/gcolor3/po/en_GB.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 583 | 619 | 94.2 | /mnt/stockage/packages/f30/gcolor3/po/ru.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 567 | 619 | 91.6 | /mnt/stockage/packages/f30/gcolor3/po/sr.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 549 | 619 | 88.7 | /mnt/stockage/packages/f30/gcolor3/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/fr.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/nb.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/uk.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 40 | 60 | 66.7 | /mnt/stockage/packages/f30/gcolor3/po/el.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 0 | 278 | 0.0 | /mnt/stockage/packages/f30/gcolor3/po/id.po | 
+ | [gl](/f30/language/gl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f30/gcolor3/po/gl.po | 
+ | [nl](/f30/language/nl) | 612 | 619 | 98.9 | /mnt/stockage/packages/f30/gcolor3/po/nl.po | 
+ | [en_GB](/f30/language/en_GB) | 608 | 619 | 98.2 | /mnt/stockage/packages/f30/gcolor3/po/en_GB.po | 
+ | [ru](/f30/language/ru) | 583 | 619 | 94.2 | /mnt/stockage/packages/f30/gcolor3/po/ru.po | 
+ | [sr](/f30/language/sr) | 567 | 619 | 91.6 | /mnt/stockage/packages/f30/gcolor3/po/sr.po | 
+ | [de](/f30/language/de) | 549 | 619 | 88.7 | /mnt/stockage/packages/f30/gcolor3/po/de.po | 
+ | [es](/f30/language/es) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/es.po | 
+ | [fr](/f30/language/fr) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/fr.po | 
+ | [nb_NO](/f30/language/nb_NO) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/nb.po | 
+ | [sv](/f30/language/sv) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/sv.po | 
+ | [uk](/f30/language/uk) | 223 | 278 | 80.2 | /mnt/stockage/packages/f30/gcolor3/po/uk.po | 
+ | [el](/f30/language/el) | 40 | 60 | 66.7 | /mnt/stockage/packages/f30/gcolor3/po/el.po | 
+ | [id](/f30/language/id) | 0 | 278 | 0.0 | /mnt/stockage/packages/f30/gcolor3/po/id.po | 
 {.sortable}
 
 

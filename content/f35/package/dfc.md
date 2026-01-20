@@ -18,9 +18,9 @@ The package dfc (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f35/dfc/po/sv.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 384 | 399 | 96.2 | /mnt/stockage/packages/f35/dfc/po/fr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 384 | 399 | 96.2 | /mnt/stockage/packages/f35/dfc/po/nl.po | 
+ | [sv](/f35/language/sv) | 370 | 370 | 100.0 | /mnt/stockage/packages/f35/dfc/po/sv.po | 
+ | [fr](/f35/language/fr) | 384 | 399 | 96.2 | /mnt/stockage/packages/f35/dfc/po/fr.po | 
+ | [nl](/f35/language/nl) | 384 | 399 | 96.2 | /mnt/stockage/packages/f35/dfc/po/nl.po | 
 {.sortable}
 
 

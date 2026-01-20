@@ -18,48 +18,48 @@ The package php-horde-Horde-Image (version 2.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f24/language/da.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/da/LC_MESSAGES/Horde_Image.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/de/LC_MESSAGES/Horde_Image.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/es/LC_MESSAGES/Horde_Image.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/fi/LC_MESSAGES/Horde_Image.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/hr/LC_MESSAGES/Horde_Image.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/hu/LC_MESSAGES/Horde_Image.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/lt/LC_MESSAGES/Horde_Image.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/sk/LC_MESSAGES/Horde_Image.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/tr/LC_MESSAGES/Horde_Image.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 559 | 582 | 96.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ja/LC_MESSAGES/Horde_Image.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 382 | 584 | 65.4 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/pt_BR/LC_MESSAGES/Horde_Image.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 231 | 408 | 56.6 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/lv/LC_MESSAGES/Horde_Image.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 199 | 584 | 34.1 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/uk/LC_MESSAGES/Horde_Image.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ca/LC_MESSAGES/Horde_Image.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/cs/LC_MESSAGES/Horde_Image.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/fa/LC_MESSAGES/Horde_Image.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/pt/LC_MESSAGES/Horde_Image.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 25 | 582 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/eu/LC_MESSAGES/Horde_Image.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 23 | 581 | 4.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/sl/LC_MESSAGES/Horde_Image.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 23 | 581 | 4.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/zh_CN/LC_MESSAGES/Horde_Image.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/et/LC_MESSAGES/Horde_Image.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/fr/LC_MESSAGES/Horde_Image.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/id/LC_MESSAGES/Horde_Image.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/it/LC_MESSAGES/Horde_Image.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/sv/LC_MESSAGES/Horde_Image.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/zh_TW/LC_MESSAGES/Horde_Image.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 21 | 581 | 3.6 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/el/LC_MESSAGES/Horde_Image.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 19 | 581 | 3.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/nb/LC_MESSAGES/Horde_Image.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 18 | 581 | 3.1 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/km/LC_MESSAGES/Horde_Image.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 13 | 581 | 2.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ko/LC_MESSAGES/Horde_Image.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 9 | 581 | 1.5 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/pl/LC_MESSAGES/Horde_Image.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 8 | 581 | 1.4 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ru/LC_MESSAGES/Horde_Image.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 6 | 581 | 1.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/bs/LC_MESSAGES/Horde_Image.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 5 | 581 | 0.9 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/bg/LC_MESSAGES/Horde_Image.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 5 | 581 | 0.9 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/is/LC_MESSAGES/Horde_Image.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 3 | 581 | 0.5 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ar/LC_MESSAGES/Horde_Image.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 2 | 581 | 0.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/he/LC_MESSAGES/Horde_Image.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/gl/LC_MESSAGES/Horde_Image.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/mk/LC_MESSAGES/Horde_Image.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/nn/LC_MESSAGES/Horde_Image.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ro/LC_MESSAGES/Horde_Image.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/nl/LC_MESSAGES/Horde_Image.po | 
+ | [da](/f24/language/da) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/da/LC_MESSAGES/Horde_Image.po | 
+ | [de](/f24/language/de) | 584 | 584 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/de/LC_MESSAGES/Horde_Image.po | 
+ | [es](/f24/language/es) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/es/LC_MESSAGES/Horde_Image.po | 
+ | [fi](/f24/language/fi) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/fi/LC_MESSAGES/Horde_Image.po | 
+ | [hr](/f24/language/hr) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/hr/LC_MESSAGES/Horde_Image.po | 
+ | [hu](/f24/language/hu) | 584 | 584 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/hu/LC_MESSAGES/Horde_Image.po | 
+ | [lt](/f24/language/lt) | 581 | 581 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/lt/LC_MESSAGES/Horde_Image.po | 
+ | [sk](/f24/language/sk) | 582 | 582 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/sk/LC_MESSAGES/Horde_Image.po | 
+ | [tr](/f24/language/tr) | 581 | 581 | 100.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/tr/LC_MESSAGES/Horde_Image.po | 
+ | [ja](/f24/language/ja) | 559 | 582 | 96.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ja/LC_MESSAGES/Horde_Image.po | 
+ | [pt_BR](/f24/language/pt_BR) | 382 | 584 | 65.4 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/pt_BR/LC_MESSAGES/Horde_Image.po | 
+ | [lv](/f24/language/lv) | 231 | 408 | 56.6 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/lv/LC_MESSAGES/Horde_Image.po | 
+ | [uk](/f24/language/uk) | 199 | 584 | 34.1 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/uk/LC_MESSAGES/Horde_Image.po | 
+ | [ca](/f24/language/ca) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ca/LC_MESSAGES/Horde_Image.po | 
+ | [cs](/f24/language/cs) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/cs/LC_MESSAGES/Horde_Image.po | 
+ | [fa](/f24/language/fa) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/fa/LC_MESSAGES/Horde_Image.po | 
+ | [pt](/f24/language/pt) | 25 | 581 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/pt/LC_MESSAGES/Horde_Image.po | 
+ | [eu](/f24/language/eu) | 25 | 582 | 4.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/eu/LC_MESSAGES/Horde_Image.po | 
+ | [sl](/f24/language/sl) | 23 | 581 | 4.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/sl/LC_MESSAGES/Horde_Image.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 23 | 581 | 4.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/zh_CN/LC_MESSAGES/Horde_Image.po | 
+ | [et](/f24/language/et) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/et/LC_MESSAGES/Horde_Image.po | 
+ | [fr](/f24/language/fr) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/fr/LC_MESSAGES/Horde_Image.po | 
+ | [id](/f24/language/id) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/id/LC_MESSAGES/Horde_Image.po | 
+ | [it](/f24/language/it) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/it/LC_MESSAGES/Horde_Image.po | 
+ | [sv](/f24/language/sv) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/sv/LC_MESSAGES/Horde_Image.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 22 | 581 | 3.8 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/zh_TW/LC_MESSAGES/Horde_Image.po | 
+ | [el](/f24/language/el) | 21 | 581 | 3.6 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/el/LC_MESSAGES/Horde_Image.po | 
+ | [nb_NO](/f24/language/nb_NO) | 19 | 581 | 3.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/nb/LC_MESSAGES/Horde_Image.po | 
+ | [km](/f24/language/km) | 18 | 581 | 3.1 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/km/LC_MESSAGES/Horde_Image.po | 
+ | [ko](/f24/language/ko) | 13 | 581 | 2.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ko/LC_MESSAGES/Horde_Image.po | 
+ | [pl](/f24/language/pl) | 9 | 581 | 1.5 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/pl/LC_MESSAGES/Horde_Image.po | 
+ | [ru](/f24/language/ru) | 8 | 581 | 1.4 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ru/LC_MESSAGES/Horde_Image.po | 
+ | [bs](/f24/language/bs) | 6 | 581 | 1.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/bs/LC_MESSAGES/Horde_Image.po | 
+ | [bg](/f24/language/bg) | 5 | 581 | 0.9 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/bg/LC_MESSAGES/Horde_Image.po | 
+ | [is](/f24/language/is) | 5 | 581 | 0.9 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/is/LC_MESSAGES/Horde_Image.po | 
+ | [ar](/f24/language/ar) | 3 | 581 | 0.5 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ar/LC_MESSAGES/Horde_Image.po | 
+ | [he](/f24/language/he) | 2 | 581 | 0.3 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/he/LC_MESSAGES/Horde_Image.po | 
+ | [gl](/f24/language/gl) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/gl/LC_MESSAGES/Horde_Image.po | 
+ | [mk](/f24/language/mk) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/mk/LC_MESSAGES/Horde_Image.po | 
+ | [nn](/f24/language/nn) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/nn/LC_MESSAGES/Horde_Image.po | 
+ | [ro](/f24/language/ro) | 1 | 581 | 0.2 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/ro/LC_MESSAGES/Horde_Image.po | 
+ | [nl](/f24/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/php-horde-Horde-Image/Horde_Image-2.5.1/locale/nl/LC_MESSAGES/Horde_Image.po | 
 {.sortable}
 
 

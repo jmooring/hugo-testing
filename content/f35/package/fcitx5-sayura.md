@@ -18,17 +18,17 @@ The package fcitx5-sayura (version 5.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f35/language/da.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/da.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/he.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ko.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/zh_TW.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 8 | 12 | 66.7 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ca.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 8 | 12 | 66.7 | /mnt/stockage/packages/f35/fcitx5-sayura/po/de.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 8 | 12 | 66.7 | /mnt/stockage/packages/f35/fcitx5-sayura/po/vi.po | 
+ | [da](/f35/language/da) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/da.po | 
+ | [he](/f35/language/he) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/he.po | 
+ | [ja](/f35/language/ja) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ja.po | 
+ | [ko](/f35/language/ko) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ko.po | 
+ | [ru](/f35/language/ru) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ru.po | 
+ | [tr](/f35/language/tr) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 12 | 12 | 100.0 | /mnt/stockage/packages/f35/fcitx5-sayura/po/zh_TW.po | 
+ | [ca](/f35/language/ca) | 8 | 12 | 66.7 | /mnt/stockage/packages/f35/fcitx5-sayura/po/ca.po | 
+ | [de](/f35/language/de) | 8 | 12 | 66.7 | /mnt/stockage/packages/f35/fcitx5-sayura/po/de.po | 
+ | [vi](/f35/language/vi) | 8 | 12 | 66.7 | /mnt/stockage/packages/f35/fcitx5-sayura/po/vi.po | 
 {.sortable}
 
 

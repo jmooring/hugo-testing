@@ -18,20 +18,20 @@ The package okteta (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f9/okteta/po/ga/okteta.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f9/okteta/po/pt_BR/okteta.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 32 | 39 | 82.1 | /mnt/stockage/packages/f9/okteta/po/fr/okteta.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 32 | 39 | 82.1 | /mnt/stockage/packages/f9/okteta/po/pt/okteta.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 32 | 39 | 82.1 | /mnt/stockage/packages/f9/okteta/po/ro/okteta.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 28 | 39 | 71.8 | /mnt/stockage/packages/f9/okteta/po/el/okteta.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 24 | 39 | 61.5 | /mnt/stockage/packages/f9/okteta/po/es/okteta.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 24 | 39 | 61.5 | /mnt/stockage/packages/f9/okteta/po/ja/okteta.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 24 | 39 | 61.5 | /mnt/stockage/packages/f9/okteta/po/sv/okteta.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 19 | 39 | 48.7 | /mnt/stockage/packages/f9/okteta/po/gl/okteta.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 19 | 39 | 48.7 | /mnt/stockage/packages/f9/okteta/po/pl/okteta.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 11 | 39 | 28.2 | /mnt/stockage/packages/f9/okteta/po/be/okteta.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 10 | 39 | 25.6 | /mnt/stockage/packages/f9/okteta/po/oc/okteta.po | 
- | [km]({{< ref "/f9/language/km.md" >}}) | 0 | 39 | 0.0 | /mnt/stockage/packages/f9/okteta/po/km/okteta.po | 
+ | [ga](/f9/language/ga) | 39 | 39 | 100.0 | /mnt/stockage/packages/f9/okteta/po/ga/okteta.po | 
+ | [pt_BR](/f9/language/pt_BR) | 38 | 38 | 100.0 | /mnt/stockage/packages/f9/okteta/po/pt_BR/okteta.po | 
+ | [fr](/f9/language/fr) | 32 | 39 | 82.1 | /mnt/stockage/packages/f9/okteta/po/fr/okteta.po | 
+ | [pt](/f9/language/pt) | 32 | 39 | 82.1 | /mnt/stockage/packages/f9/okteta/po/pt/okteta.po | 
+ | [ro](/f9/language/ro) | 32 | 39 | 82.1 | /mnt/stockage/packages/f9/okteta/po/ro/okteta.po | 
+ | [el](/f9/language/el) | 28 | 39 | 71.8 | /mnt/stockage/packages/f9/okteta/po/el/okteta.po | 
+ | [es](/f9/language/es) | 24 | 39 | 61.5 | /mnt/stockage/packages/f9/okteta/po/es/okteta.po | 
+ | [ja](/f9/language/ja) | 24 | 39 | 61.5 | /mnt/stockage/packages/f9/okteta/po/ja/okteta.po | 
+ | [sv](/f9/language/sv) | 24 | 39 | 61.5 | /mnt/stockage/packages/f9/okteta/po/sv/okteta.po | 
+ | [gl](/f9/language/gl) | 19 | 39 | 48.7 | /mnt/stockage/packages/f9/okteta/po/gl/okteta.po | 
+ | [pl](/f9/language/pl) | 19 | 39 | 48.7 | /mnt/stockage/packages/f9/okteta/po/pl/okteta.po | 
+ | [be](/f9/language/be) | 11 | 39 | 28.2 | /mnt/stockage/packages/f9/okteta/po/be/okteta.po | 
+ | [oc](/f9/language/oc) | 10 | 39 | 25.6 | /mnt/stockage/packages/f9/okteta/po/oc/okteta.po | 
+ | [km](/f9/language/km) | 0 | 39 | 0.0 | /mnt/stockage/packages/f9/okteta/po/km/okteta.po | 
 {.sortable}
 
 

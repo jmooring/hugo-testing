@@ -18,7 +18,7 @@ The package python-apprise (version 1.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f41/language/en.md" >}}) | 155 | 684 | 22.7 | /mnt/stockage/packages/f41/python-apprise/apprise/i18n/en/LC_MESSAGES/apprise.po | 
+ | [en](/f41/language/en) | 155 | 684 | 22.7 | /mnt/stockage/packages/f41/python-apprise/apprise/i18n/en/LC_MESSAGES/apprise.po | 
 {.sortable}
 
 

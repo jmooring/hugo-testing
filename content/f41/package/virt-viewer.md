@@ -18,44 +18,44 @@ The package virt-viewer (version 11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 746 | 746 | 100.0 | /mnt/stockage/packages/f41/virt-viewer/po/uk.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/cs.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/fi.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/it.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/ko.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/pl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/tr.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/zh_CN.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 689 | 746 | 92.4 | /mnt/stockage/packages/f41/virt-viewer/po/fr.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 689 | 746 | 92.4 | /mnt/stockage/packages/f41/virt-viewer/po/nl.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 689 | 746 | 92.4 | /mnt/stockage/packages/f41/virt-viewer/po/ru.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 615 | 746 | 82.4 | /mnt/stockage/packages/f41/virt-viewer/po/hu.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 574 | 746 | 76.9 | /mnt/stockage/packages/f41/virt-viewer/po/es.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 564 | 746 | 75.6 | /mnt/stockage/packages/f41/virt-viewer/po/ca.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 564 | 746 | 75.6 | /mnt/stockage/packages/f41/virt-viewer/po/ja.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 554 | 746 | 74.3 | /mnt/stockage/packages/f41/virt-viewer/po/pt_BR.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 520 | 746 | 69.7 | /mnt/stockage/packages/f41/virt-viewer/po/de.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 427 | 746 | 57.2 | /mnt/stockage/packages/f41/virt-viewer/po/id.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 399 | 746 | 53.5 | /mnt/stockage/packages/f41/virt-viewer/po/zh_TW.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/as.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/bn_IN.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/gu.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/kn.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/mr.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/ta.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 239 | 746 | 32.0 | /mnt/stockage/packages/f41/virt-viewer/po/or.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 239 | 746 | 32.0 | /mnt/stockage/packages/f41/virt-viewer/po/te.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 227 | 746 | 30.4 | /mnt/stockage/packages/f41/virt-viewer/po/bg.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 227 | 746 | 30.4 | /mnt/stockage/packages/f41/virt-viewer/po/pa.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 206 | 746 | 27.6 | /mnt/stockage/packages/f41/virt-viewer/po/hi.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 161 | 746 | 21.6 | /mnt/stockage/packages/f41/virt-viewer/po/bn.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 66 | 746 | 8.8 | /mnt/stockage/packages/f41/virt-viewer/po/nb.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 42 | 746 | 5.6 | /mnt/stockage/packages/f41/virt-viewer/po/sk.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 9 | 746 | 1.2 | /mnt/stockage/packages/f41/virt-viewer/po/eu.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 9 | 746 | 1.2 | /mnt/stockage/packages/f41/virt-viewer/po/si.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 2 | 746 | 0.3 | /mnt/stockage/packages/f41/virt-viewer/po/pt.po | 
+ | [uk](/f41/language/uk) | 746 | 746 | 100.0 | /mnt/stockage/packages/f41/virt-viewer/po/uk.po | 
+ | [cs](/f41/language/cs) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/cs.po | 
+ | [fi](/f41/language/fi) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/fi.po | 
+ | [it](/f41/language/it) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/it.po | 
+ | [ko](/f41/language/ko) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/ko.po | 
+ | [pl](/f41/language/pl) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/pl.po | 
+ | [sv](/f41/language/sv) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/sv.po | 
+ | [tr](/f41/language/tr) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/tr.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 744 | 746 | 99.7 | /mnt/stockage/packages/f41/virt-viewer/po/zh_CN.po | 
+ | [fr](/f41/language/fr) | 689 | 746 | 92.4 | /mnt/stockage/packages/f41/virt-viewer/po/fr.po | 
+ | [nl](/f41/language/nl) | 689 | 746 | 92.4 | /mnt/stockage/packages/f41/virt-viewer/po/nl.po | 
+ | [ru](/f41/language/ru) | 689 | 746 | 92.4 | /mnt/stockage/packages/f41/virt-viewer/po/ru.po | 
+ | [hu](/f41/language/hu) | 615 | 746 | 82.4 | /mnt/stockage/packages/f41/virt-viewer/po/hu.po | 
+ | [es](/f41/language/es) | 574 | 746 | 76.9 | /mnt/stockage/packages/f41/virt-viewer/po/es.po | 
+ | [ca](/f41/language/ca) | 564 | 746 | 75.6 | /mnt/stockage/packages/f41/virt-viewer/po/ca.po | 
+ | [ja](/f41/language/ja) | 564 | 746 | 75.6 | /mnt/stockage/packages/f41/virt-viewer/po/ja.po | 
+ | [pt_BR](/f41/language/pt_BR) | 554 | 746 | 74.3 | /mnt/stockage/packages/f41/virt-viewer/po/pt_BR.po | 
+ | [de](/f41/language/de) | 520 | 746 | 69.7 | /mnt/stockage/packages/f41/virt-viewer/po/de.po | 
+ | [id](/f41/language/id) | 427 | 746 | 57.2 | /mnt/stockage/packages/f41/virt-viewer/po/id.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 399 | 746 | 53.5 | /mnt/stockage/packages/f41/virt-viewer/po/zh_TW.po | 
+ | [as](/f41/language/as) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/as.po | 
+ | [bn_IN](/f41/language/bn_IN) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/bn_IN.po | 
+ | [gu](/f41/language/gu) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/gu.po | 
+ | [kn](/f41/language/kn) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/kn.po | 
+ | [ml](/f41/language/ml) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/ml.po | 
+ | [mr](/f41/language/mr) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/mr.po | 
+ | [ta](/f41/language/ta) | 251 | 746 | 33.6 | /mnt/stockage/packages/f41/virt-viewer/po/ta.po | 
+ | [or](/f41/language/or) | 239 | 746 | 32.0 | /mnt/stockage/packages/f41/virt-viewer/po/or.po | 
+ | [te](/f41/language/te) | 239 | 746 | 32.0 | /mnt/stockage/packages/f41/virt-viewer/po/te.po | 
+ | [bg](/f41/language/bg) | 227 | 746 | 30.4 | /mnt/stockage/packages/f41/virt-viewer/po/bg.po | 
+ | [pa](/f41/language/pa) | 227 | 746 | 30.4 | /mnt/stockage/packages/f41/virt-viewer/po/pa.po | 
+ | [hi](/f41/language/hi) | 206 | 746 | 27.6 | /mnt/stockage/packages/f41/virt-viewer/po/hi.po | 
+ | [bn](/f41/language/bn) | 161 | 746 | 21.6 | /mnt/stockage/packages/f41/virt-viewer/po/bn.po | 
+ | [nb_NO](/f41/language/nb_NO) | 66 | 746 | 8.8 | /mnt/stockage/packages/f41/virt-viewer/po/nb.po | 
+ | [sk](/f41/language/sk) | 42 | 746 | 5.6 | /mnt/stockage/packages/f41/virt-viewer/po/sk.po | 
+ | [eu](/f41/language/eu) | 9 | 746 | 1.2 | /mnt/stockage/packages/f41/virt-viewer/po/eu.po | 
+ | [si](/f41/language/si) | 9 | 746 | 1.2 | /mnt/stockage/packages/f41/virt-viewer/po/si.po | 
+ | [pt](/f41/language/pt) | 2 | 746 | 0.3 | /mnt/stockage/packages/f41/virt-viewer/po/pt.po | 
 {.sortable}
 
 

@@ -18,37 +18,37 @@ The package po4a (version 0.45):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f22/language/en.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f22/po4a/t/data-23/fonts.en.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 27726 | 27726 | 100.0 | /mnt/stockage/packages/f22/po4a/po/bin/ja.po/mnt/stockage/packages/f22/po4a/po/pod/ja.po/mnt/stockage/packages/f22/po4a/t/data-23/spaces.ja.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1941 | 1941 | 100.0 | /mnt/stockage/packages/f22/po4a/po/bin/pt_BR.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 27720 | 27722 | 100.0 | /mnt/stockage/packages/f22/po4a/po/bin/es.po/mnt/stockage/packages/f22/po4a/po/pod/es.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 27999 | 28254 | 99.1 | /mnt/stockage/packages/f22/po4a/po/bin/fr.po/mnt/stockage/packages/f22/po4a/po/pod/fr.po/mnt/stockage/packages/f22/po4a/t/data-05/test0.fr.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/counter.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/counter_wrap.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/full.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/full_wrap.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/noline.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/noline_wrap.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/none.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/dot1.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/hyphens.translate.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/hyphens.verbatim.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/mdoc.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/mixed.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/null.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/quotes.fr.po/mnt/stockage/packages/f22/po4a/t/data-24/simple.fr.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 27715 | 27974 | 99.1 | /mnt/stockage/packages/f22/po4a/po/bin/de.po/mnt/stockage/packages/f22/po4a/po/pod/de.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.de.po/mnt/stockage/packages/f22/po4a/t/data-12/counter.de.po/mnt/stockage/packages/f22/po4a/t/data-12/counter_wrap.de.po/mnt/stockage/packages/f22/po4a/t/data-12/full.de.po/mnt/stockage/packages/f22/po4a/t/data-12/full_wrap.de.po/mnt/stockage/packages/f22/po4a/t/data-12/noline.de.po/mnt/stockage/packages/f22/po4a/t/data-12/noline_wrap.de.po/mnt/stockage/packages/f22/po4a/t/data-12/none.de.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/da.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/eo.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/eu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/id.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/sl.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/vi.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 27125 | 27714 | 97.9 | /mnt/stockage/packages/f22/po4a/po/bin/pt.po/mnt/stockage/packages/f22/po4a/po/pod/pt.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 27085 | 27714 | 97.7 | /mnt/stockage/packages/f22/po4a/po/bin/pl.po/mnt/stockage/packages/f22/po4a/po/pod/pl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1798 | 1941 | 92.6 | /mnt/stockage/packages/f22/po4a/po/bin/sv.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 16412 | 27714 | 59.2 | /mnt/stockage/packages/f22/po4a/po/bin/ca.po/mnt/stockage/packages/f22/po4a/po/pod/ca.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 7550 | 27714 | 27.2 | /mnt/stockage/packages/f22/po4a/po/bin/ru.po/mnt/stockage/packages/f22/po4a/po/pod/ru.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 486 | 1941 | 25.0 | /mnt/stockage/packages/f22/po4a/po/bin/ko.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 5302 | 27764 | 19.1 | /mnt/stockage/packages/f22/po4a/po/bin/it.po/mnt/stockage/packages/f22/po4a/po/pod/it.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.it.po/mnt/stockage/packages/f22/po4a/t/data-23/dot5.it.po/mnt/stockage/packages/f22/po4a/t/data-23/escapes1.it.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 23 | 124 | 18.5 | /mnt/stockage/packages/f22/po4a/t/data-02/pod.po/mnt/stockage/packages/f22/po4a/t/data-23/spaces.fr_utf8.po/mnt/stockage/packages/f22/po4a/t/data-23/spaces.fr_latin1.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 342 | 1941 | 17.6 | /mnt/stockage/packages/f22/po4a/po/bin/nb.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 308 | 1941 | 15.9 | /mnt/stockage/packages/f22/po4a/po/bin/hr.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 180 | 1941 | 9.3 | /mnt/stockage/packages/f22/po4a/po/bin/af.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 145 | 1941 | 7.5 | /mnt/stockage/packages/f22/po4a/po/bin/nl.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 139 | 1941 | 7.2 | /mnt/stockage/packages/f22/po4a/po/bin/kn.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 62 | 1941 | 3.2 | /mnt/stockage/packages/f22/po4a/po/bin/zh_HK.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 49 | 1941 | 2.5 | /mnt/stockage/packages/f22/po4a/po/bin/zh_CN.po | 
- | [man]({{< ref "/f22/language/man.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f22/po4a/t/data-02/man.po | 
+ | [en](/f22/language/en) | 91 | 91 | 100.0 | /mnt/stockage/packages/f22/po4a/t/data-23/fonts.en.po | 
+ | [ja](/f22/language/ja) | 27726 | 27726 | 100.0 | /mnt/stockage/packages/f22/po4a/po/bin/ja.po/mnt/stockage/packages/f22/po4a/po/pod/ja.po/mnt/stockage/packages/f22/po4a/t/data-23/spaces.ja.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1941 | 1941 | 100.0 | /mnt/stockage/packages/f22/po4a/po/bin/pt_BR.po | 
+ | [es](/f22/language/es) | 27720 | 27722 | 100.0 | /mnt/stockage/packages/f22/po4a/po/bin/es.po/mnt/stockage/packages/f22/po4a/po/pod/es.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.es.po | 
+ | [fr](/f22/language/fr) | 27999 | 28254 | 99.1 | /mnt/stockage/packages/f22/po4a/po/bin/fr.po/mnt/stockage/packages/f22/po4a/po/pod/fr.po/mnt/stockage/packages/f22/po4a/t/data-05/test0.fr.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/counter.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/counter_wrap.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/full.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/full_wrap.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/noline.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/noline_wrap.fr.po/mnt/stockage/packages/f22/po4a/t/data-12/none.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/dot1.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/hyphens.translate.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/hyphens.verbatim.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/mdoc.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/mixed.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/null.fr.po/mnt/stockage/packages/f22/po4a/t/data-23/quotes.fr.po/mnt/stockage/packages/f22/po4a/t/data-24/simple.fr.po | 
+ | [de](/f22/language/de) | 27715 | 27974 | 99.1 | /mnt/stockage/packages/f22/po4a/po/bin/de.po/mnt/stockage/packages/f22/po4a/po/pod/de.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.de.po/mnt/stockage/packages/f22/po4a/t/data-12/counter.de.po/mnt/stockage/packages/f22/po4a/t/data-12/counter_wrap.de.po/mnt/stockage/packages/f22/po4a/t/data-12/full.de.po/mnt/stockage/packages/f22/po4a/t/data-12/full_wrap.de.po/mnt/stockage/packages/f22/po4a/t/data-12/noline.de.po/mnt/stockage/packages/f22/po4a/t/data-12/noline_wrap.de.po/mnt/stockage/packages/f22/po4a/t/data-12/none.de.po | 
+ | [cs](/f22/language/cs) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/cs.po | 
+ | [da](/f22/language/da) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/da.po | 
+ | [eo](/f22/language/eo) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/eo.po | 
+ | [et](/f22/language/et) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/et.po | 
+ | [eu](/f22/language/eu) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/eu.po | 
+ | [id](/f22/language/id) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/id.po | 
+ | [sl](/f22/language/sl) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/sl.po | 
+ | [uk](/f22/language/uk) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/uk.po | 
+ | [vi](/f22/language/vi) | 1914 | 1941 | 98.6 | /mnt/stockage/packages/f22/po4a/po/bin/vi.po | 
+ | [pt](/f22/language/pt) | 27125 | 27714 | 97.9 | /mnt/stockage/packages/f22/po4a/po/bin/pt.po/mnt/stockage/packages/f22/po4a/po/pod/pt.po | 
+ | [pl](/f22/language/pl) | 27085 | 27714 | 97.7 | /mnt/stockage/packages/f22/po4a/po/bin/pl.po/mnt/stockage/packages/f22/po4a/po/pod/pl.po | 
+ | [sv](/f22/language/sv) | 1798 | 1941 | 92.6 | /mnt/stockage/packages/f22/po4a/po/bin/sv.po | 
+ | [ca](/f22/language/ca) | 16412 | 27714 | 59.2 | /mnt/stockage/packages/f22/po4a/po/bin/ca.po/mnt/stockage/packages/f22/po4a/po/pod/ca.po | 
+ | [ru](/f22/language/ru) | 7550 | 27714 | 27.2 | /mnt/stockage/packages/f22/po4a/po/bin/ru.po/mnt/stockage/packages/f22/po4a/po/pod/ru.po | 
+ | [ko](/f22/language/ko) | 486 | 1941 | 25.0 | /mnt/stockage/packages/f22/po4a/po/bin/ko.po | 
+ | [it](/f22/language/it) | 5302 | 27764 | 19.1 | /mnt/stockage/packages/f22/po4a/po/bin/it.po/mnt/stockage/packages/f22/po4a/po/pod/it.po/mnt/stockage/packages/f22/po4a/t/data-05/test2.it.po/mnt/stockage/packages/f22/po4a/t/data-23/dot5.it.po/mnt/stockage/packages/f22/po4a/t/data-23/escapes1.it.po | 
+ | [error](/f22/language/error) | 23 | 124 | 18.5 | /mnt/stockage/packages/f22/po4a/t/data-02/pod.po/mnt/stockage/packages/f22/po4a/t/data-23/spaces.fr_utf8.po/mnt/stockage/packages/f22/po4a/t/data-23/spaces.fr_latin1.po | 
+ | [nb_NO](/f22/language/nb_NO) | 342 | 1941 | 17.6 | /mnt/stockage/packages/f22/po4a/po/bin/nb.po | 
+ | [hr](/f22/language/hr) | 308 | 1941 | 15.9 | /mnt/stockage/packages/f22/po4a/po/bin/hr.po | 
+ | [af](/f22/language/af) | 180 | 1941 | 9.3 | /mnt/stockage/packages/f22/po4a/po/bin/af.po | 
+ | [nl](/f22/language/nl) | 145 | 1941 | 7.5 | /mnt/stockage/packages/f22/po4a/po/bin/nl.po | 
+ | [kn](/f22/language/kn) | 139 | 1941 | 7.2 | /mnt/stockage/packages/f22/po4a/po/bin/kn.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 62 | 1941 | 3.2 | /mnt/stockage/packages/f22/po4a/po/bin/zh_HK.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 49 | 1941 | 2.5 | /mnt/stockage/packages/f22/po4a/po/bin/zh_CN.po | 
+ | [man](/f22/language/man) | 0 | 36 | 0.0 | /mnt/stockage/packages/f22/po4a/t/data-02/man.po | 
 {.sortable}
 
 

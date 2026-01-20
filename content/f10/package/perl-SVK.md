@@ -18,8 +18,8 @@ The package perl-SVK (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 3437 | 6792 | 50.6 | /mnt/stockage/packages/f10/perl-SVK/lib/SVK/I18N/zh_tw.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 3437 | 13584 | 25.3 | /mnt/stockage/packages/f10/perl-SVK/lib/SVK/I18N/i_default.po/mnt/stockage/packages/f10/perl-SVK/lib/SVK/I18N/zh_cn.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 3437 | 6792 | 50.6 | /mnt/stockage/packages/f10/perl-SVK/lib/SVK/I18N/zh_tw.po | 
+ | [sk](/f10/language/sk) | 3437 | 13584 | 25.3 | /mnt/stockage/packages/f10/perl-SVK/lib/SVK/I18N/i_default.po/mnt/stockage/packages/f10/perl-SVK/lib/SVK/I18N/zh_cn.po | 
 {.sortable}
 
 

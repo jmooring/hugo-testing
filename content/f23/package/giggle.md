@@ -18,29 +18,29 @@ The package giggle (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/cs/cs.po/mnt/stockage/packages/f23/giggle/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/de/de.po/mnt/stockage/packages/f23/giggle/po/de.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/es/es.po/mnt/stockage/packages/f23/giggle/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/fr/fr.po/mnt/stockage/packages/f23/giggle/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/gl.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/id.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/pl/pl.po/mnt/stockage/packages/f23/giggle/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f23/giggle/po/pt_BR.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 1197 | 1197 | 100.0 | /mnt/stockage/packages/f23/giggle/help/ro/ro.po/mnt/stockage/packages/f23/giggle/po/ro.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f23/giggle/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/sv.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f23/giggle/po/vi.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 1201 | 1205 | 99.7 | /mnt/stockage/packages/f23/giggle/help/sl/sl.po/mnt/stockage/packages/f23/giggle/po/sl.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 536 | 563 | 95.2 | /mnt/stockage/packages/f23/giggle/po/ja.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 528 | 556 | 95.0 | /mnt/stockage/packages/f23/giggle/po/zh_CN.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 617 | 688 | 89.7 | /mnt/stockage/packages/f23/giggle/po/da.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 497 | 556 | 89.4 | /mnt/stockage/packages/f23/giggle/po/uk.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 497 | 688 | 72.2 | /mnt/stockage/packages/f23/giggle/po/ca.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 497 | 688 | 72.2 | /mnt/stockage/packages/f23/giggle/po/ca@valencia.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 296 | 556 | 53.2 | /mnt/stockage/packages/f23/giggle/po/pa.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 106 | 515 | 20.6 | /mnt/stockage/packages/f23/giggle/po/hu.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 110 | 556 | 19.8 | /mnt/stockage/packages/f23/giggle/po/nb.po | 
+ | [cs](/f23/language/cs) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/cs/cs.po/mnt/stockage/packages/f23/giggle/po/cs.po | 
+ | [de](/f23/language/de) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/de/de.po/mnt/stockage/packages/f23/giggle/po/de.po | 
+ | [en_GB](/f23/language/en_GB) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/en_GB.po | 
+ | [es](/f23/language/es) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/es/es.po/mnt/stockage/packages/f23/giggle/po/es.po | 
+ | [fr](/f23/language/fr) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/fr/fr.po/mnt/stockage/packages/f23/giggle/po/fr.po | 
+ | [gl](/f23/language/gl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/gl.po | 
+ | [id](/f23/language/id) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/id.po | 
+ | [pl](/f23/language/pl) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f23/giggle/help/pl/pl.po/mnt/stockage/packages/f23/giggle/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 688 | 688 | 100.0 | /mnt/stockage/packages/f23/giggle/po/pt_BR.po | 
+ | [ro](/f23/language/ro) | 1197 | 1197 | 100.0 | /mnt/stockage/packages/f23/giggle/help/ro/ro.po/mnt/stockage/packages/f23/giggle/po/ro.po | 
+ | [ru](/f23/language/ru) | 515 | 515 | 100.0 | /mnt/stockage/packages/f23/giggle/po/ru.po | 
+ | [sv](/f23/language/sv) | 563 | 563 | 100.0 | /mnt/stockage/packages/f23/giggle/po/sv.po | 
+ | [vi](/f23/language/vi) | 312 | 312 | 100.0 | /mnt/stockage/packages/f23/giggle/po/vi.po | 
+ | [sl](/f23/language/sl) | 1201 | 1205 | 99.7 | /mnt/stockage/packages/f23/giggle/help/sl/sl.po/mnt/stockage/packages/f23/giggle/po/sl.po | 
+ | [ja](/f23/language/ja) | 536 | 563 | 95.2 | /mnt/stockage/packages/f23/giggle/po/ja.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 528 | 556 | 95.0 | /mnt/stockage/packages/f23/giggle/po/zh_CN.po | 
+ | [da](/f23/language/da) | 617 | 688 | 89.7 | /mnt/stockage/packages/f23/giggle/po/da.po | 
+ | [uk](/f23/language/uk) | 497 | 556 | 89.4 | /mnt/stockage/packages/f23/giggle/po/uk.po | 
+ | [ca](/f23/language/ca) | 497 | 688 | 72.2 | /mnt/stockage/packages/f23/giggle/po/ca.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 497 | 688 | 72.2 | /mnt/stockage/packages/f23/giggle/po/ca@valencia.po | 
+ | [pa](/f23/language/pa) | 296 | 556 | 53.2 | /mnt/stockage/packages/f23/giggle/po/pa.po | 
+ | [hu](/f23/language/hu) | 106 | 515 | 20.6 | /mnt/stockage/packages/f23/giggle/po/hu.po | 
+ | [nb_NO](/f23/language/nb_NO) | 110 | 556 | 19.8 | /mnt/stockage/packages/f23/giggle/po/nb.po | 
 {.sortable}
 
 

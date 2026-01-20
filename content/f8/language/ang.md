@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mag]({{< ref "/f8/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
- | [vte]({{< ref "/f8/package/vte.md" >}}) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
- | [eel2]({{< ref "/f8/package/eel2.md" >}}) | 57 | 235 | 24.3 | Old English <modean52@comcast.net> | 
- | [gnome-volume-manager]({{< ref "/f8/package/gnome-volume-manager.md" >}}) | 21 | 314 | 6.7 | Old English <modean52@comcast.net> | 
- | [libgnomecanvas]({{< ref "/f8/package/libgnomecanvas.md" >}}) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 427 | 12092 | 3.5 | Old English <modean52@comcast.net> | 
- | [gok]({{< ref "/f8/package/gok.md" >}}) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
+ | [gnome-mag](/f8/package/gnome-mag) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
+ | [vte](/f8/package/vte) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
+ | [eel2](/f8/package/eel2) | 57 | 235 | 24.3 | Old English <modean52@comcast.net> | 
+ | [gnome-volume-manager](/f8/package/gnome-volume-manager) | 21 | 314 | 6.7 | Old English <modean52@comcast.net> | 
+ | [libgnomecanvas](/f8/package/libgnomecanvas) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
+ | [gtk2](/f8/package/gtk2) | 427 | 12092 | 3.5 | Old English <modean52@comcast.net> | 
+ | [gok](/f8/package/gok) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
 {.sortable}
 
 

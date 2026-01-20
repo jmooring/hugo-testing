@@ -18,19 +18,19 @@ The package watchdog (version 5.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/gl.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/nl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/pt.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/ru.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/sv.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/vi.po | 
+ | [cs](/f24/language/cs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/cs.po | 
+ | [da](/f24/language/da) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/da.po | 
+ | [de](/f24/language/de) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/de.po | 
+ | [es](/f24/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/es.po | 
+ | [fi](/f24/language/fi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/fi.po | 
+ | [fr](/f24/language/fr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/fr.po | 
+ | [gl](/f24/language/gl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/gl.po | 
+ | [ja](/f24/language/ja) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/ja.po | 
+ | [nl](/f24/language/nl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/nl.po | 
+ | [pt](/f24/language/pt) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/pt.po | 
+ | [ru](/f24/language/ru) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/ru.po | 
+ | [sv](/f24/language/sv) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/sv.po | 
+ | [vi](/f24/language/vi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f24/watchdog/debian/po/vi.po | 
 {.sortable}
 
 

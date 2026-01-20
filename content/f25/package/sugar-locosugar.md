@@ -18,16 +18,16 @@ The package sugar-locosugar (version 11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f25/language/ayc.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/ayc.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/da.po | 
- | [en]({{< ref "/f25/language/en.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/en.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/en_GB.po | 
- | [en_US]({{< ref "/f25/language/en_US.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/en_US.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/es.po | 
- | [hy]({{< ref "/f25/language/hy.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/hy.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/nl.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/zh_CN.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/pl.po | 
+ | [ayc](/f25/language/ayc) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/ayc.po | 
+ | [da](/f25/language/da) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/da.po | 
+ | [en](/f25/language/en) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/en.po | 
+ | [en_GB](/f25/language/en_GB) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/en_GB.po | 
+ | [en_US](/f25/language/en_US) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/en_US.po | 
+ | [es](/f25/language/es) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/es.po | 
+ | [hy](/f25/language/hy) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/hy.po | 
+ | [nl](/f25/language/nl) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/nl.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 74 | 74 | 100.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/zh_CN.po | 
+ | [pl](/f25/language/pl) | 0 | 74 | 0.0 | /mnt/stockage/packages/f25/sugar-locosugar/po/pl.po | 
 {.sortable}
 
 

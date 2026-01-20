@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [childsplay]({{< ref "/f14/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [perl-libintl]({{< ref "/f14/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [publican]({{< ref "/f14/package/publican.md" >}}) | 353 | 1094 | 32.3 | ar <core@ojuba.org> | 
- | [publican-fedora]({{< ref "/f14/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [childsplay](/f14/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [perl-libintl](/f14/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [publican](/f14/package/publican) | 353 | 1094 | 32.3 | ar <core@ojuba.org> | 
+ | [publican-fedora](/f14/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

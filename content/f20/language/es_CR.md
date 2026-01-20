@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp-client]({{< ref "/f20/package/openerp-client.md" >}}) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openerp]({{< ref "/f20/package/openerp.md" >}}) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [libgweather]({{< ref "/f20/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f20/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
- | [libmateweather]({{< ref "/f20/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 21021 | 50054 | 42.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [gnomebaker]({{< ref "/f20/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openerp-client](/f20/package/openerp-client) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openerp](/f20/package/openerp) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [libgweather](/f20/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f20/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
+ | [libmateweather](/f20/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [openerp7](/f20/package/openerp7) | 21021 | 50054 | 42.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [gnomebaker](/f20/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
 {.sortable}
 
 

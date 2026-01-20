@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 43 | 1910 | 2.3 | Chuvash <cv@li.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 108 | 15825 | 0.7 | Chuvash <cv@li.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Chuvash (http://www.transifex.com/projects/p/MATE/language/cv/) | 
+ | [mintmenu](/f22/package/mintmenu) | 43 | 1910 | 2.3 | Chuvash <cv@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 108 | 15825 | 0.7 | Chuvash <cv@li.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Chuvash (http://www.transifex.com/projects/p/MATE/language/cv/) | 
 {.sortable}
 
 

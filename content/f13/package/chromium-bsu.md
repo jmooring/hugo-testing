@@ -18,11 +18,11 @@ The package chromium-bsu (version 0.9.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f13/chromium-bsu/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f13/chromium-bsu/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f13/chromium-bsu/po/fr.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 652 | 1030 | 63.3 | /mnt/stockage/packages/f13/chromium-bsu/po/bg.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 467 | 1030 | 45.3 | /mnt/stockage/packages/f13/chromium-bsu/po/sv.po | 
+ | [de](/f13/language/de) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f13/chromium-bsu/po/de.po | 
+ | [es](/f13/language/es) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f13/chromium-bsu/po/es.po | 
+ | [fr](/f13/language/fr) | 1030 | 1030 | 100.0 | /mnt/stockage/packages/f13/chromium-bsu/po/fr.po | 
+ | [bg](/f13/language/bg) | 652 | 1030 | 63.3 | /mnt/stockage/packages/f13/chromium-bsu/po/bg.po | 
+ | [sv](/f13/language/sv) | 467 | 1030 | 45.3 | /mnt/stockage/packages/f13/chromium-bsu/po/sv.po | 
 {.sortable}
 
 

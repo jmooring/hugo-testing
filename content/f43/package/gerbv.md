@@ -18,8 +18,8 @@ The package gerbv (version 2.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 6374 | 6374 | 100.0 | /mnt/stockage/packages/f43/gerbv/man/gerbv.ru.1.in.po/mnt/stockage/packages/f43/gerbv/po/ru.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1366 | 4723 | 28.9 | /mnt/stockage/packages/f43/gerbv/po/ja.po | 
+ | [ru](/f43/language/ru) | 6374 | 6374 | 100.0 | /mnt/stockage/packages/f43/gerbv/man/gerbv.ru.1.in.po/mnt/stockage/packages/f43/gerbv/po/ru.po | 
+ | [ja](/f43/language/ja) | 1366 | 4723 | 28.9 | /mnt/stockage/packages/f43/gerbv/po/ja.po | 
 {.sortable}
 
 

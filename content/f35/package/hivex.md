@@ -18,28 +18,28 @@ The package hivex (version 1.3.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/cs.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/fr.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/hi.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/hu.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/ja.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/kn.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/mr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/pt.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/sr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 255 | 270 | 94.4 | /mnt/stockage/packages/f35/hivex/po/pt_BR.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 205 | 270 | 75.9 | /mnt/stockage/packages/f35/hivex/po/gu.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 45 | 270 | 16.7 | /mnt/stockage/packages/f35/hivex/po/de.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 6 | 270 | 2.2 | /mnt/stockage/packages/f35/hivex/po/eu.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 6 | 270 | 2.2 | /mnt/stockage/packages/f35/hivex/po/ml.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 6 | 270 | 2.2 | /mnt/stockage/packages/f35/hivex/po/or.po | 
+ | [ca](/f35/language/ca) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/ca.po | 
+ | [cs](/f35/language/cs) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/cs.po | 
+ | [es](/f35/language/es) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/es.po | 
+ | [fr](/f35/language/fr) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/fr.po | 
+ | [hi](/f35/language/hi) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/hi.po | 
+ | [hu](/f35/language/hu) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/hu.po | 
+ | [ja](/f35/language/ja) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/ja.po | 
+ | [kn](/f35/language/kn) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/kn.po | 
+ | [mr](/f35/language/mr) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/mr.po | 
+ | [nl](/f35/language/nl) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/nl.po | 
+ | [pl](/f35/language/pl) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/pl.po | 
+ | [pt](/f35/language/pt) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/pt.po | 
+ | [ru](/f35/language/ru) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/ru.po | 
+ | [sr](/f35/language/sr) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/sr.po | 
+ | [uk](/f35/language/uk) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 262 | 270 | 97.0 | /mnt/stockage/packages/f35/hivex/po/zh_CN.po | 
+ | [pt_BR](/f35/language/pt_BR) | 255 | 270 | 94.4 | /mnt/stockage/packages/f35/hivex/po/pt_BR.po | 
+ | [gu](/f35/language/gu) | 205 | 270 | 75.9 | /mnt/stockage/packages/f35/hivex/po/gu.po | 
+ | [de](/f35/language/de) | 45 | 270 | 16.7 | /mnt/stockage/packages/f35/hivex/po/de.po | 
+ | [eu](/f35/language/eu) | 6 | 270 | 2.2 | /mnt/stockage/packages/f35/hivex/po/eu.po | 
+ | [ml](/f35/language/ml) | 6 | 270 | 2.2 | /mnt/stockage/packages/f35/hivex/po/ml.po | 
+ | [or](/f35/language/or) | 6 | 270 | 2.2 | /mnt/stockage/packages/f35/hivex/po/or.po | 
 {.sortable}
 
 

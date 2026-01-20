@@ -18,9 +18,9 @@ The package gx_head (version 0.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f16/language/es.md" >}}) | 1491 | 1491 | 100.0 | /mnt/stockage/packages/f16/gx_head/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1469 | 1469 | 100.0 | /mnt/stockage/packages/f16/gx_head/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1503 | 1503 | 100.0 | /mnt/stockage/packages/f16/gx_head/po/it.po | 
+ | [es](/f16/language/es) | 1491 | 1491 | 100.0 | /mnt/stockage/packages/f16/gx_head/po/es.po | 
+ | [fr](/f16/language/fr) | 1469 | 1469 | 100.0 | /mnt/stockage/packages/f16/gx_head/po/fr.po | 
+ | [it](/f16/language/it) | 1503 | 1503 | 100.0 | /mnt/stockage/packages/f16/gx_head/po/it.po | 
 {.sortable}
 
 

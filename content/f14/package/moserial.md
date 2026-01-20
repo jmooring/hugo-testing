@@ -18,19 +18,19 @@ The package moserial (version 2.30.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f14/moserial/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f14/moserial/doc/cs/cs.po/mnt/stockage/packages/f14/moserial/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f14/moserial/doc/de/de.po/mnt/stockage/packages/f14/moserial/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f14/moserial/po/fr.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f14/moserial/po/ko.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f14/moserial/po/sl.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 523 | 525 | 99.6 | /mnt/stockage/packages/f14/moserial/po/gl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 757 | 767 | 98.7 | /mnt/stockage/packages/f14/moserial/po/pt_BR.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 492 | 525 | 93.7 | /mnt/stockage/packages/f14/moserial/po/da.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 322 | 525 | 61.3 | /mnt/stockage/packages/f14/moserial/po/zh_CN.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1047 | 2409 | 43.5 | /mnt/stockage/packages/f14/moserial/doc/es/es.po/mnt/stockage/packages/f14/moserial/po/es.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f14/moserial/doc/sv/sv.po/mnt/stockage/packages/f14/moserial/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 99 | 525 | 18.9 | /mnt/stockage/packages/f14/moserial/po/nb.po | 
+ | [ca](/f14/language/ca) | 757 | 757 | 100.0 | /mnt/stockage/packages/f14/moserial/po/ca.po | 
+ | [cs](/f14/language/cs) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f14/moserial/doc/cs/cs.po/mnt/stockage/packages/f14/moserial/po/cs.po | 
+ | [de](/f14/language/de) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f14/moserial/doc/de/de.po/mnt/stockage/packages/f14/moserial/po/de.po | 
+ | [fr](/f14/language/fr) | 525 | 525 | 100.0 | /mnt/stockage/packages/f14/moserial/po/fr.po | 
+ | [ko](/f14/language/ko) | 757 | 757 | 100.0 | /mnt/stockage/packages/f14/moserial/po/ko.po | 
+ | [sl](/f14/language/sl) | 525 | 525 | 100.0 | /mnt/stockage/packages/f14/moserial/po/sl.po | 
+ | [gl](/f14/language/gl) | 523 | 525 | 99.6 | /mnt/stockage/packages/f14/moserial/po/gl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 757 | 767 | 98.7 | /mnt/stockage/packages/f14/moserial/po/pt_BR.po | 
+ | [da](/f14/language/da) | 492 | 525 | 93.7 | /mnt/stockage/packages/f14/moserial/po/da.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 322 | 525 | 61.3 | /mnt/stockage/packages/f14/moserial/po/zh_CN.po | 
+ | [es](/f14/language/es) | 1047 | 2409 | 43.5 | /mnt/stockage/packages/f14/moserial/doc/es/es.po/mnt/stockage/packages/f14/moserial/po/es.po | 
+ | [sv](/f14/language/sv) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f14/moserial/doc/sv/sv.po/mnt/stockage/packages/f14/moserial/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 99 | 525 | 18.9 | /mnt/stockage/packages/f14/moserial/po/nb.po | 
 {.sortable}
 
 

@@ -38,31 +38,31 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Django]({{< ref "/f16/package/Django.md" >}}) | 3975 | 3975 | 100.0 | Spanish (Mexican) <None> | 
- | [bisho]({{< ref "/f16/package/bisho.md" >}}) | 164 | 164 | 100.0 |  | 
- | [entertrack]({{< ref "/f16/package/entertrack.md" >}}) | 2545 | 2545 | 100.0 |  | 
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libmx]({{< ref "/f16/package/libmx.md" >}}) | 40 | 40 | 100.0 |  | 
- | [pulsecaster]({{< ref "/f16/package/pulsecaster.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [gnome-paint]({{< ref "/f16/package/gnome-paint.md" >}}) | 141 | 167 | 84.4 | Spanish | 
- | [gallery2]({{< ref "/f16/package/gallery2.md" >}}) | 7731 | 10481 | 73.8 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
- | [anerley]({{< ref "/f16/package/anerley.md" >}}) | 8 | 11 | 72.7 |  | 
- | [gentoo]({{< ref "/f16/package/gentoo.md" >}}) | 1467 | 2251 | 65.2 | Language es-MX | 
- | [radiotray]({{< ref "/f16/package/radiotray.md" >}}) | 66 | 117 | 56.4 | Spanish (Mexican) (http://www.transifex.net/projects/p/radiotray/team/es_MX/) | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 29678 | 53000 | 56.0 |  | 
- | [hotot]({{< ref "/f16/package/hotot.md" >}}) | 373 | 715 | 52.2 | ktrionix-labs <ktrionixlabs@gmail.com> | 
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 594 | 1247 | 47.6 | Español <ggabriel@internet.com.uy> | 
- | [imsettings]({{< ref "/f16/package/imsettings.md" >}}) | 178 | 404 | 44.1 | LANGUAGE <LL@li.org> | 
- | [lilyterm]({{< ref "/f16/package/lilyterm.md" >}}) | 473 | 1336 | 35.4 | lilyterm | 
- | [galculator]({{< ref "/f16/package/galculator.md" >}}) | 101 | 798 | 12.7 | Spanish <es@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f16/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
- | [gnue-common]({{< ref "/f16/package/gnue-common.md" >}}) | 153 | 2132 | 7.2 | Espa~ol/Mexico | 
- | [inkscape]({{< ref "/f16/package/inkscape.md" >}}) | 716 | 26528 | 2.7 | none <none> | 
- | [im-chooser]({{< ref "/f16/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Spanish (Mexican) (http://www.transifex.net/projects/p/meego/team/es_MX/) | 
+ | [Django](/f16/package/Django) | 3975 | 3975 | 100.0 | Spanish (Mexican) <None> | 
+ | [bisho](/f16/package/bisho) | 164 | 164 | 100.0 |  | 
+ | [entertrack](/f16/package/entertrack) | 2545 | 2545 | 100.0 |  | 
+ | [gnome-applets](/f16/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libmx](/f16/package/libmx) | 40 | 40 | 100.0 |  | 
+ | [pulsecaster](/f16/package/pulsecaster) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgweather](/f16/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
+ | [libmateweather](/f16/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [gnome-paint](/f16/package/gnome-paint) | 141 | 167 | 84.4 | Spanish | 
+ | [gallery2](/f16/package/gallery2) | 7731 | 10481 | 73.8 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [anerley](/f16/package/anerley) | 8 | 11 | 72.7 |  | 
+ | [gentoo](/f16/package/gentoo) | 1467 | 2251 | 65.2 | Language es-MX | 
+ | [radiotray](/f16/package/radiotray) | 66 | 117 | 56.4 | Spanish (Mexican) (http://www.transifex.net/projects/p/radiotray/team/es_MX/) | 
+ | [openerp](/f16/package/openerp) | 29678 | 53000 | 56.0 |  | 
+ | [hotot](/f16/package/hotot) | 373 | 715 | 52.2 | ktrionix-labs <ktrionixlabs@gmail.com> | 
+ | [tuxpaint](/f16/package/tuxpaint) | 594 | 1247 | 47.6 | Español <ggabriel@internet.com.uy> | 
+ | [imsettings](/f16/package/imsettings) | 178 | 404 | 44.1 | LANGUAGE <LL@li.org> | 
+ | [lilyterm](/f16/package/lilyterm) | 473 | 1336 | 35.4 | lilyterm | 
+ | [galculator](/f16/package/galculator) | 101 | 798 | 12.7 | Spanish <es@li.org> | 
+ | [xfce4-eyes-plugin](/f16/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
+ | [gnue-common](/f16/package/gnue-common) | 153 | 2132 | 7.2 | Espa~ol/Mexico | 
+ | [inkscape](/f16/package/inkscape) | 716 | 26528 | 2.7 | none <none> | 
+ | [im-chooser](/f16/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [openconnect](/f16/package/openconnect) | 0 | 2573 | 0.0 | Spanish (Mexican) (http://www.transifex.net/projects/p/meego/team/es_MX/) | 
 {.sortable}
 
 
@@ -74,7 +74,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [entertrack]({{< ref "/f16/package/entertrack.md" >}}) | /mnt/stockage/packages/f16/entertrack/locale/es_MX/LC_MESSAGES/messages.po | error-os |  | 
+ | [entertrack](/f16/package/entertrack) | /mnt/stockage/packages/f16/entertrack/locale/es_MX/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

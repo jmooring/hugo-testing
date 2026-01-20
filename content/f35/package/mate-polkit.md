@@ -18,115 +18,115 @@ The package mate-polkit (version 1.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f35/language/am.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/am.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ar.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/bg.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ca.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ca@valencia.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/el.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/en_AU.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/es.po | 
- | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/es_AR.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/hu.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/hy.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/id.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ie.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/lt.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/vi.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/zh_TW.po | 
- | [es_CO]({{< ref "/f35/language/es_CO.md" >}}) | 122 | 123 | 99.2 | /mnt/stockage/packages/f35/mate-polkit/po/es_CO.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 219 | 246 | 89.0 | /mnt/stockage/packages/f35/mate-polkit/po/zh_CN.po/mnt/stockage/packages/f35/mate-polkit/po/cmn.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f35/mate-polkit/po/et.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f35/mate-polkit/po/hi.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f35/mate-polkit/po/mr.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/bn_IN.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/gu.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/kn.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/lv.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/ml.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/or.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/pa.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/te.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/ur.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/zh_HK.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 19 | 123 | 15.4 | /mnt/stockage/packages/f35/mate-polkit/po/bs.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 15 | 123 | 12.2 | /mnt/stockage/packages/f35/mate-polkit/po/ne.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 13 | 123 | 10.6 | /mnt/stockage/packages/f35/mate-polkit/po/ky.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 8 | 123 | 6.5 | /mnt/stockage/packages/f35/mate-polkit/po/uz.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/ast.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/bn.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/br.po | 
- | [crh]({{< ref "/f35/language/crh.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/crh.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/ga.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/ka.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/mai.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/mk.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/nds.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/nn.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/sr@latin.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/af.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/cy.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/eo.po | 
- | [kab]({{< ref "/f35/language/kab.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/kab.po | 
- | [kmr]({{< ref "/f35/language/kmr.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/ku_IQ.po | 
- | [ps]({{< ref "/f35/language/ps.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/ps.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/si.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/ug.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/dz.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/en_CA.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/fur.po | 
- | [fy]({{< ref "/f35/language/fy.md" >}}) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/fy.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/ku.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/mn.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 2 | 123 | 1.6 | /mnt/stockage/packages/f35/mate-polkit/po/fa.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 2 | 123 | 1.6 | /mnt/stockage/packages/f35/mate-polkit/po/mg.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/az.po | 
- | [frp]({{< ref "/f35/language/frp.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/frp.po | 
- | [ks]({{< ref "/f35/language/ks.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/ks.po | 
- | [li]({{< ref "/f35/language/li.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/li.po | 
- | [mi]({{< ref "/f35/language/mi.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/mi.po | 
- | [nso]({{< ref "/f35/language/nso.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/nso.po | 
- | [tt]({{< ref "/f35/language/tt.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/tt.po | 
- | [ur_PK]({{< ref "/f35/language/ur_PK.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/ur_PK.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/wa.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/xh.po | 
- | [zu]({{< ref "/f35/language/zu.md" >}}) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/zu.po | 
- | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f35/mate-polkit/po/fr_CA.po | 
+ | [am](/f35/language/am) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/am.po | 
+ | [ar](/f35/language/ar) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ar.po | 
+ | [be](/f35/language/be) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/be.po | 
+ | [bg](/f35/language/bg) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/bg.po | 
+ | [ca](/f35/language/ca) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ca.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ca@valencia.po | 
+ | [cs](/f35/language/cs) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/cs.po | 
+ | [da](/f35/language/da) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/da.po | 
+ | [de](/f35/language/de) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/de.po | 
+ | [el](/f35/language/el) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/el.po | 
+ | [en_AU](/f35/language/en_AU) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/en_AU.po | 
+ | [en_GB](/f35/language/en_GB) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/en_GB.po | 
+ | [es](/f35/language/es) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/es.po | 
+ | [es_AR](/f35/language/es_AR) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/es_AR.po | 
+ | [eu](/f35/language/eu) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/eu.po | 
+ | [fi](/f35/language/fi) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/fi.po | 
+ | [fr](/f35/language/fr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/fr.po | 
+ | [gl](/f35/language/gl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/gl.po | 
+ | [he](/f35/language/he) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/he.po | 
+ | [hr](/f35/language/hr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/hr.po | 
+ | [hu](/f35/language/hu) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/hu.po | 
+ | [hy](/f35/language/hy) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/hy.po | 
+ | [id](/f35/language/id) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/id.po | 
+ | [ie](/f35/language/ie) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ie.po | 
+ | [is](/f35/language/is) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/is.po | 
+ | [it](/f35/language/it) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/it.po | 
+ | [ja](/f35/language/ja) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ja.po | 
+ | [kk](/f35/language/kk) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/kk.po | 
+ | [ko](/f35/language/ko) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ko.po | 
+ | [lt](/f35/language/lt) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/lt.po | 
+ | [ms](/f35/language/ms) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/nb.po | 
+ | [nl](/f35/language/nl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/nl.po | 
+ | [oc](/f35/language/oc) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/oc.po | 
+ | [pl](/f35/language/pl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/pl.po | 
+ | [pt](/f35/language/pt) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ro.po | 
+ | [ru](/f35/language/ru) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/ru.po | 
+ | [sk](/f35/language/sk) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sk.po | 
+ | [sl](/f35/language/sl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sl.po | 
+ | [sq](/f35/language/sq) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sq.po | 
+ | [sr](/f35/language/sr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sr.po | 
+ | [sv](/f35/language/sv) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/sv.po | 
+ | [th](/f35/language/th) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/th.po | 
+ | [tr](/f35/language/tr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/tr.po | 
+ | [uk](/f35/language/uk) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/uk.po | 
+ | [vi](/f35/language/vi) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/vi.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/mate-polkit/po/zh_TW.po | 
+ | [es_CO](/f35/language/es_CO) | 122 | 123 | 99.2 | /mnt/stockage/packages/f35/mate-polkit/po/es_CO.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 219 | 246 | 89.0 | /mnt/stockage/packages/f35/mate-polkit/po/zh_CN.po/mnt/stockage/packages/f35/mate-polkit/po/cmn.po | 
+ | [et](/f35/language/et) | 104 | 123 | 84.6 | /mnt/stockage/packages/f35/mate-polkit/po/et.po | 
+ | [hi](/f35/language/hi) | 104 | 123 | 84.6 | /mnt/stockage/packages/f35/mate-polkit/po/hi.po | 
+ | [mr](/f35/language/mr) | 104 | 123 | 84.6 | /mnt/stockage/packages/f35/mate-polkit/po/mr.po | 
+ | [bn_IN](/f35/language/bn_IN) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/bn_IN.po | 
+ | [gu](/f35/language/gu) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/gu.po | 
+ | [kn](/f35/language/kn) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/kn.po | 
+ | [lv](/f35/language/lv) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/lv.po | 
+ | [ml](/f35/language/ml) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/ml.po | 
+ | [or](/f35/language/or) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/or.po | 
+ | [pa](/f35/language/pa) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/pa.po | 
+ | [ta](/f35/language/ta) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/ta.po | 
+ | [te](/f35/language/te) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/te.po | 
+ | [ur](/f35/language/ur) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/ur.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 97 | 123 | 78.9 | /mnt/stockage/packages/f35/mate-polkit/po/zh_HK.po | 
+ | [bs](/f35/language/bs) | 19 | 123 | 15.4 | /mnt/stockage/packages/f35/mate-polkit/po/bs.po | 
+ | [ne](/f35/language/ne) | 15 | 123 | 12.2 | /mnt/stockage/packages/f35/mate-polkit/po/ne.po | 
+ | [ky](/f35/language/ky) | 13 | 123 | 10.6 | /mnt/stockage/packages/f35/mate-polkit/po/ky.po | 
+ | [uz](/f35/language/uz) | 8 | 123 | 6.5 | /mnt/stockage/packages/f35/mate-polkit/po/uz.po | 
+ | [as](/f35/language/as) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/as.po | 
+ | [ast](/f35/language/ast) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/ast.po | 
+ | [bn](/f35/language/bn) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/bn.po | 
+ | [br](/f35/language/br) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/br.po | 
+ | [crh](/f35/language/crh) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/crh.po | 
+ | [ga](/f35/language/ga) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/ga.po | 
+ | [ka](/f35/language/ka) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/ka.po | 
+ | [mai](/f35/language/mai) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/mai.po | 
+ | [mk](/f35/language/mk) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/mk.po | 
+ | [nds](/f35/language/nds) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/nds.po | 
+ | [nn](/f35/language/nn) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/nn.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 5 | 123 | 4.1 | /mnt/stockage/packages/f35/mate-polkit/po/sr@latin.po | 
+ | [af](/f35/language/af) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/af.po | 
+ | [cy](/f35/language/cy) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/cy.po | 
+ | [eo](/f35/language/eo) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/eo.po | 
+ | [kab](/f35/language/kab) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/kab.po | 
+ | [kmr](/f35/language/kmr) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/ku_IQ.po | 
+ | [ps](/f35/language/ps) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/ps.po | 
+ | [si](/f35/language/si) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/si.po | 
+ | [ug](/f35/language/ug) | 4 | 123 | 3.3 | /mnt/stockage/packages/f35/mate-polkit/po/ug.po | 
+ | [dz](/f35/language/dz) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/dz.po | 
+ | [en_CA](/f35/language/en_CA) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/en_CA.po | 
+ | [fur](/f35/language/fur) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/fur.po | 
+ | [fy](/f35/language/fy) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/fy.po | 
+ | [ku](/f35/language/ku) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/ku.po | 
+ | [mn](/f35/language/mn) | 3 | 123 | 2.4 | /mnt/stockage/packages/f35/mate-polkit/po/mn.po | 
+ | [fa](/f35/language/fa) | 2 | 123 | 1.6 | /mnt/stockage/packages/f35/mate-polkit/po/fa.po | 
+ | [mg](/f35/language/mg) | 2 | 123 | 1.6 | /mnt/stockage/packages/f35/mate-polkit/po/mg.po | 
+ | [az](/f35/language/az) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/az.po | 
+ | [frp](/f35/language/frp) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/frp.po | 
+ | [ks](/f35/language/ks) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/ks.po | 
+ | [li](/f35/language/li) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/li.po | 
+ | [mi](/f35/language/mi) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/mi.po | 
+ | [nso](/f35/language/nso) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/nso.po | 
+ | [tt](/f35/language/tt) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/tt.po | 
+ | [ur_PK](/f35/language/ur_PK) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/ur_PK.po | 
+ | [wa](/f35/language/wa) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/wa.po | 
+ | [xh](/f35/language/xh) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/xh.po | 
+ | [zu](/f35/language/zu) | 1 | 123 | 0.8 | /mnt/stockage/packages/f35/mate-polkit/po/zu.po | 
+ | [fr_CA](/f35/language/fr_CA) | 0 | 123 | 0.0 | /mnt/stockage/packages/f35/mate-polkit/po/fr_CA.po | 
 {.sortable}
 
 

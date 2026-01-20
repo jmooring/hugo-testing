@@ -18,7 +18,7 @@ The package python-myst-parser (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f41/python-myst-parser/tests/test_sphinx/sourcedirs/gettext/fr/LC_MESSAGES/index.po | 
+ | [fr](/f41/language/fr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f41/python-myst-parser/tests/test_sphinx/sourcedirs/gettext/fr/LC_MESSAGES/index.po | 
 {.sortable}
 
 

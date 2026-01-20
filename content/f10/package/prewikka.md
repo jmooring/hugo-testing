@@ -18,12 +18,12 @@ The package prewikka (version 0.9.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 646 | 673 | 96.0 | /mnt/stockage/packages/f10/prewikka/po/fr.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 640 | 673 | 95.1 | /mnt/stockage/packages/f10/prewikka/po/de.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 512 | 673 | 76.1 | /mnt/stockage/packages/f10/prewikka/po/pt_BR.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 411 | 673 | 61.1 | /mnt/stockage/packages/f10/prewikka/po/pl.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 356 | 673 | 52.9 | /mnt/stockage/packages/f10/prewikka/po/es.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 303 | 673 | 45.0 | /mnt/stockage/packages/f10/prewikka/po/ru.po | 
+ | [fr](/f10/language/fr) | 646 | 673 | 96.0 | /mnt/stockage/packages/f10/prewikka/po/fr.po | 
+ | [de](/f10/language/de) | 640 | 673 | 95.1 | /mnt/stockage/packages/f10/prewikka/po/de.po | 
+ | [pt_BR](/f10/language/pt_BR) | 512 | 673 | 76.1 | /mnt/stockage/packages/f10/prewikka/po/pt_BR.po | 
+ | [pl](/f10/language/pl) | 411 | 673 | 61.1 | /mnt/stockage/packages/f10/prewikka/po/pl.po | 
+ | [es](/f10/language/es) | 356 | 673 | 52.9 | /mnt/stockage/packages/f10/prewikka/po/es.po | 
+ | [ru](/f10/language/ru) | 303 | 673 | 45.0 | /mnt/stockage/packages/f10/prewikka/po/ru.po | 
 {.sortable}
 
 

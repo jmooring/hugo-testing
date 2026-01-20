@@ -18,62 +18,62 @@ The package thunar-archive-plugin (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f29/language/am.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/am.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ar.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ast.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/bg.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/el.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/en_GB.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/eo.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/es.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/gl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/he.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/id.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ja.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/kk.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/lv.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/nn.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/oc.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sq.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sv.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/tr.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ug.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/uk.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f29/language/ur_PK.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ur_PK.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/uz.po | 
- | [uz_Latn]({{< ref "/f29/language/uz_Latn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/uz@Latn.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/zh_TW.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 38 | 86 | 44.2 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/be.po | 
+ | [am](/f29/language/am) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/am.po | 
+ | [ar](/f29/language/ar) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ar.po | 
+ | [ast](/f29/language/ast) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ast.po | 
+ | [bg](/f29/language/bg) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/bg.po | 
+ | [ca](/f29/language/ca) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ca.po | 
+ | [cs](/f29/language/cs) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/cs.po | 
+ | [da](/f29/language/da) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/da.po | 
+ | [de](/f29/language/de) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/de.po | 
+ | [el](/f29/language/el) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/el.po | 
+ | [en_AU](/f29/language/en_AU) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/en_AU.po | 
+ | [en_GB](/f29/language/en_GB) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/en_GB.po | 
+ | [eo](/f29/language/eo) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/eo.po | 
+ | [es](/f29/language/es) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/es.po | 
+ | [eu](/f29/language/eu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/eu.po | 
+ | [fi](/f29/language/fi) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/fi.po | 
+ | [fr](/f29/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/fr.po | 
+ | [gl](/f29/language/gl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/gl.po | 
+ | [he](/f29/language/he) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/he.po | 
+ | [hr](/f29/language/hr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/hr.po | 
+ | [hu](/f29/language/hu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/hu.po | 
+ | [id](/f29/language/id) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/id.po | 
+ | [is](/f29/language/is) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/is.po | 
+ | [it](/f29/language/it) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/it.po | 
+ | [ja](/f29/language/ja) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ja.po | 
+ | [kk](/f29/language/kk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/kk.po | 
+ | [ko](/f29/language/ko) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ko.po | 
+ | [lt](/f29/language/lt) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/lt.po | 
+ | [lv](/f29/language/lv) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/lv.po | 
+ | [ms](/f29/language/ms) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ms.po | 
+ | [nb_NO](/f29/language/nb_NO) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/nb.po | 
+ | [nl](/f29/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/nl.po | 
+ | [nn](/f29/language/nn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/nn.po | 
+ | [oc](/f29/language/oc) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/oc.po | 
+ | [pa](/f29/language/pa) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pa.po | 
+ | [pl](/f29/language/pl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pl.po | 
+ | [pt](/f29/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ro.po | 
+ | [ru](/f29/language/ru) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ru.po | 
+ | [sk](/f29/language/sk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sk.po | 
+ | [sl](/f29/language/sl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sl.po | 
+ | [sq](/f29/language/sq) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sq.po | 
+ | [sr](/f29/language/sr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sr.po | 
+ | [sv](/f29/language/sv) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/sv.po | 
+ | [th](/f29/language/th) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/th.po | 
+ | [tr](/f29/language/tr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/tr.po | 
+ | [ug](/f29/language/ug) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ug.po | 
+ | [uk](/f29/language/uk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/uk.po | 
+ | [ur](/f29/language/ur) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ur.po | 
+ | [ur_PK](/f29/language/ur_PK) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/ur_PK.po | 
+ | [uz](/f29/language/uz) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/uz.po | 
+ | [uz_Latn](/f29/language/uz_Latn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/uz@Latn.po | 
+ | [vi](/f29/language/vi) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/zh_TW.po | 
+ | [be](/f29/language/be) | 38 | 86 | 44.2 | /mnt/stockage/packages/f29/thunar-archive-plugin/po/be.po | 
 {.sortable}
 
 

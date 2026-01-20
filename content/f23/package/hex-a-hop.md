@@ -18,16 +18,16 @@ The package hex-a-hop (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f23/hex-a-hop/po/de.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f23/hex-a-hop/po/it.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1174 | 1176 | 99.8 | /mnt/stockage/packages/f23/hex-a-hop/po/pl.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/bg.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/es.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/nl.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/ru.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/ta.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/vi.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 1072 | 1176 | 91.2 | /mnt/stockage/packages/f23/hex-a-hop/po/ja.po | 
+ | [de](/f23/language/de) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f23/hex-a-hop/po/de.po | 
+ | [it](/f23/language/it) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f23/hex-a-hop/po/it.po | 
+ | [pl](/f23/language/pl) | 1174 | 1176 | 99.8 | /mnt/stockage/packages/f23/hex-a-hop/po/pl.po | 
+ | [bg](/f23/language/bg) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/bg.po | 
+ | [es](/f23/language/es) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/es.po | 
+ | [nl](/f23/language/nl) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/nl.po | 
+ | [ru](/f23/language/ru) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/ru.po | 
+ | [ta](/f23/language/ta) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/ta.po | 
+ | [vi](/f23/language/vi) | 1173 | 1176 | 99.7 | /mnt/stockage/packages/f23/hex-a-hop/po/vi.po | 
+ | [ja](/f23/language/ja) | 1072 | 1176 | 91.2 | /mnt/stockage/packages/f23/hex-a-hop/po/ja.po | 
 {.sortable}
 
 

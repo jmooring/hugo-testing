@@ -18,7 +18,7 @@ The package lrzsz (version 0.12.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 709 | 1123 | 63.1 | /mnt/stockage/packages/f34/lrzsz/po/de.po | 
+ | [de](/f34/language/de) | 709 | 1123 | 63.1 | /mnt/stockage/packages/f34/lrzsz/po/de.po | 
 {.sortable}
 
 

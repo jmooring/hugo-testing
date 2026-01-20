@@ -45,9 +45,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f11/package/amarok.md" >}}) | 11697 | 11697 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kmid2]({{< ref "/f11/package/kmid2.md" >}}) | 947 | 947 | 100.0 | sr <kde-i18n-sr@kde.org> | 
- | [knemo]({{< ref "/f11/package/knemo.md" >}}) | 1091 | 1097 | 99.5 | Serbian <kde-i18n-sr@kde.org> | 
+ | [amarok](/f11/package/amarok) | 11697 | 11697 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kmid2](/f11/package/kmid2) | 947 | 947 | 100.0 | sr <kde-i18n-sr@kde.org> | 
+ | [knemo](/f11/package/knemo) | 1091 | 1097 | 99.5 | Serbian <kde-i18n-sr@kde.org> | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package zvbi (version 0.2.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 664 | 664 | 100.0 | /mnt/stockage/packages/f14/zvbi/po/de.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 1328 | 1328 | 100.0 | /mnt/stockage/packages/f14/zvbi/po/en@quot.po/mnt/stockage/packages/f14/zvbi/po/en@boldquot.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 624 | 664 | 94.0 | /mnt/stockage/packages/f14/zvbi/po/nl.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 621 | 664 | 93.5 | /mnt/stockage/packages/f14/zvbi/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 603 | 664 | 90.8 | /mnt/stockage/packages/f14/zvbi/po/it.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 558 | 664 | 84.0 | /mnt/stockage/packages/f14/zvbi/po/es.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 515 | 664 | 77.6 | /mnt/stockage/packages/f14/zvbi/po/pl.po | 
+ | [de](/f14/language/de) | 664 | 664 | 100.0 | /mnt/stockage/packages/f14/zvbi/po/de.po | 
+ | [error](/f14/language/error) | 1328 | 1328 | 100.0 | /mnt/stockage/packages/f14/zvbi/po/en@quot.po/mnt/stockage/packages/f14/zvbi/po/en@boldquot.po | 
+ | [nl](/f14/language/nl) | 624 | 664 | 94.0 | /mnt/stockage/packages/f14/zvbi/po/nl.po | 
+ | [fr](/f14/language/fr) | 621 | 664 | 93.5 | /mnt/stockage/packages/f14/zvbi/po/fr.po | 
+ | [it](/f14/language/it) | 603 | 664 | 90.8 | /mnt/stockage/packages/f14/zvbi/po/it.po | 
+ | [es](/f14/language/es) | 558 | 664 | 84.0 | /mnt/stockage/packages/f14/zvbi/po/es.po | 
+ | [pl](/f14/language/pl) | 515 | 664 | 77.6 | /mnt/stockage/packages/f14/zvbi/po/pl.po | 
 {.sortable}
 
 

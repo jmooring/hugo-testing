@@ -18,10 +18,10 @@ The package scmxx (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1646 | 1646 | 100.0 | /mnt/stockage/packages/f30/scmxx/po/de.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1209 | 1646 | 73.5 | /mnt/stockage/packages/f30/scmxx/po/it.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 924 | 1646 | 56.1 | /mnt/stockage/packages/f30/scmxx/po/ru.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 911 | 1646 | 55.3 | /mnt/stockage/packages/f30/scmxx/po/fr.po | 
+ | [de](/f30/language/de) | 1646 | 1646 | 100.0 | /mnt/stockage/packages/f30/scmxx/po/de.po | 
+ | [it](/f30/language/it) | 1209 | 1646 | 73.5 | /mnt/stockage/packages/f30/scmxx/po/it.po | 
+ | [ru](/f30/language/ru) | 924 | 1646 | 56.1 | /mnt/stockage/packages/f30/scmxx/po/ru.po | 
+ | [fr](/f30/language/fr) | 911 | 1646 | 55.3 | /mnt/stockage/packages/f30/scmxx/po/fr.po | 
 {.sortable}
 
 

@@ -18,59 +18,59 @@ The package mate-file-manager-open-terminal (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/be@latin.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ca.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/es.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/gl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/hu.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/it.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ka.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ko.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ta.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ar.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/be.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/bg.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/bn_IN.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/da.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/dz.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/el.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/en_CA.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/en_GB.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/eu.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/gu.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/he.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ja.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/lt.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/mk.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ml.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/nb.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ne.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/nl.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/oc.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/or.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pl.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sk.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/zh_CN.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pa.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ro.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sr.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/zh_TW.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 0 | 16 | 0.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/rw.po | 
+ | [be_Latn](/f17/language/be_Latn) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/be@latin.po | 
+ | [ca](/f17/language/ca) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ca.po | 
+ | [de](/f17/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/de.po | 
+ | [es](/f17/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/es.po | 
+ | [fi](/f17/language/fi) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/fi.po | 
+ | [fr](/f17/language/fr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/fr.po | 
+ | [gl](/f17/language/gl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/gl.po | 
+ | [hu](/f17/language/hu) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/hu.po | 
+ | [it](/f17/language/it) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/it.po | 
+ | [ka](/f17/language/ka) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ka.po | 
+ | [ko](/f17/language/ko) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ko.po | 
+ | [pt](/f17/language/pt) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ru.po | 
+ | [sl](/f17/language/sl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sl.po | 
+ | [sv](/f17/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sv.po | 
+ | [ta](/f17/language/ta) | 82 | 82 | 100.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ta.po | 
+ | [ar](/f17/language/ar) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ar.po | 
+ | [be](/f17/language/be) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/be.po | 
+ | [bg](/f17/language/bg) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/bg.po | 
+ | [bn_IN](/f17/language/bn_IN) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/bn_IN.po | 
+ | [cs](/f17/language/cs) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/cs.po | 
+ | [da](/f17/language/da) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/da.po | 
+ | [dz](/f17/language/dz) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/dz.po | 
+ | [el](/f17/language/el) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/el.po | 
+ | [en_CA](/f17/language/en_CA) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/en_CA.po | 
+ | [en_GB](/f17/language/en_GB) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/en_GB.po | 
+ | [et](/f17/language/et) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/et.po | 
+ | [eu](/f17/language/eu) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/eu.po | 
+ | [gu](/f17/language/gu) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/gu.po | 
+ | [he](/f17/language/he) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/he.po | 
+ | [ja](/f17/language/ja) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ja.po | 
+ | [lt](/f17/language/lt) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/lt.po | 
+ | [mk](/f17/language/mk) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/mk.po | 
+ | [ml](/f17/language/ml) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ml.po | 
+ | [nb_NO](/f17/language/nb_NO) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/nb.po | 
+ | [ne](/f17/language/ne) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ne.po | 
+ | [nl](/f17/language/nl) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/nl.po | 
+ | [oc](/f17/language/oc) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/oc.po | 
+ | [or](/f17/language/or) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/or.po | 
+ | [pl](/f17/language/pl) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pl.po | 
+ | [sk](/f17/language/sk) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sk.po | 
+ | [th](/f17/language/th) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/th.po | 
+ | [tr](/f17/language/tr) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/tr.po | 
+ | [uk](/f17/language/uk) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/uk.po | 
+ | [vi](/f17/language/vi) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 24 | 82 | 29.3 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/zh_CN.po | 
+ | [pa](/f17/language/pa) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/pa.po | 
+ | [ro](/f17/language/ro) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/ro.po | 
+ | [sr](/f17/language/sr) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sr.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/sr@latin.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 16 | 82 | 19.5 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/zh_TW.po | 
+ | [rw](/f17/language/rw) | 0 | 16 | 0.0 | /mnt/stockage/packages/f17/mate-file-manager-open-terminal/po/rw.po | 
 {.sortable}
 
 

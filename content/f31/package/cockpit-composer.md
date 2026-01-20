@@ -18,17 +18,17 @@ The package cockpit-composer (version 25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1474 | 1474 | 100.0 | /mnt/stockage/packages/f31/cockpit-composer/po/cs.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 1474 | 1474 | 100.0 | /mnt/stockage/packages/f31/cockpit-composer/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1474 | 1474 | 100.0 | /mnt/stockage/packages/f31/cockpit-composer/po/uk.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 1472 | 1474 | 99.9 | /mnt/stockage/packages/f31/cockpit-composer/po/ja.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1472 | 1474 | 99.9 | /mnt/stockage/packages/f31/cockpit-composer/po/zh_CN.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1236 | 1474 | 83.9 | /mnt/stockage/packages/f31/cockpit-composer/po/fr.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 1047 | 1474 | 71.0 | /mnt/stockage/packages/f31/cockpit-composer/po/ko.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 935 | 1474 | 63.4 | /mnt/stockage/packages/f31/cockpit-composer/po/es.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 810 | 1474 | 55.0 | /mnt/stockage/packages/f31/cockpit-composer/po/ru.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 799 | 1474 | 54.2 | /mnt/stockage/packages/f31/cockpit-composer/po/pt_BR.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 652 | 1474 | 44.2 | /mnt/stockage/packages/f31/cockpit-composer/po/hu.po | 
+ | [cs](/f31/language/cs) | 1474 | 1474 | 100.0 | /mnt/stockage/packages/f31/cockpit-composer/po/cs.po | 
+ | [tr](/f31/language/tr) | 1474 | 1474 | 100.0 | /mnt/stockage/packages/f31/cockpit-composer/po/tr.po | 
+ | [uk](/f31/language/uk) | 1474 | 1474 | 100.0 | /mnt/stockage/packages/f31/cockpit-composer/po/uk.po | 
+ | [ja](/f31/language/ja) | 1472 | 1474 | 99.9 | /mnt/stockage/packages/f31/cockpit-composer/po/ja.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1472 | 1474 | 99.9 | /mnt/stockage/packages/f31/cockpit-composer/po/zh_CN.po | 
+ | [fr](/f31/language/fr) | 1236 | 1474 | 83.9 | /mnt/stockage/packages/f31/cockpit-composer/po/fr.po | 
+ | [ko](/f31/language/ko) | 1047 | 1474 | 71.0 | /mnt/stockage/packages/f31/cockpit-composer/po/ko.po | 
+ | [es](/f31/language/es) | 935 | 1474 | 63.4 | /mnt/stockage/packages/f31/cockpit-composer/po/es.po | 
+ | [ru](/f31/language/ru) | 810 | 1474 | 55.0 | /mnt/stockage/packages/f31/cockpit-composer/po/ru.po | 
+ | [pt_BR](/f31/language/pt_BR) | 799 | 1474 | 54.2 | /mnt/stockage/packages/f31/cockpit-composer/po/pt_BR.po | 
+ | [hu](/f31/language/hu) | 652 | 1474 | 44.2 | /mnt/stockage/packages/f31/cockpit-composer/po/hu.po | 
 {.sortable}
 
 

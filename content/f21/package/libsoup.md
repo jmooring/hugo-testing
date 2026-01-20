@@ -18,63 +18,63 @@ The package libsoup (version 2.48.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f21/language/an.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/an.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/as.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/be.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/bg.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/bn_IN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ca.po | 
- | [ca@valencia]({{< ref "/f21/language/ca@valencia.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ca@valencia.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/el.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/en_GB.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/eo.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/es.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/et.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/eu.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/fa.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/fr.po | 
- | [fur]({{< ref "/f21/language/fur.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/fur.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/gl.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/gu.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/he.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/hi.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ja.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/kn.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ko.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/lt.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/lv.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ml.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/mr.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/nb.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/nl.po | 
- | [or]({{< ref "/f21/language/or.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/or.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pa.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pt_BR.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ro.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sr@latin.po/mnt/stockage/packages/f21/libsoup/po/sr.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sv.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ta.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/te.po | 
- | [tg]({{< ref "/f21/language/tg.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/tg.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/th.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/tr.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ug.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/uk.po | 
- | [uz]({{< ref "/f21/language/uz.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/vi.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/zh_HK.po/mnt/stockage/packages/f21/libsoup/po/zh_TW.po | 
+ | [an](/f21/language/an) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/an.po | 
+ | [as](/f21/language/as) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/as.po | 
+ | [be](/f21/language/be) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/be.po | 
+ | [bg](/f21/language/bg) | 73 | 73 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/bg.po | 
+ | [bn_IN](/f21/language/bn_IN) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/bn_IN.po | 
+ | [ca](/f21/language/ca) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ca.po | 
+ | [ca@valencia](/f21/language/ca@valencia) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ca@valencia.po | 
+ | [cs](/f21/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/cs.po | 
+ | [da](/f21/language/da) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/da.po | 
+ | [de](/f21/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/de.po | 
+ | [el](/f21/language/el) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/el.po | 
+ | [en_GB](/f21/language/en_GB) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/en_GB.po | 
+ | [eo](/f21/language/eo) | 45 | 45 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/eo.po | 
+ | [es](/f21/language/es) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/es.po | 
+ | [et](/f21/language/et) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/et.po | 
+ | [eu](/f21/language/eu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/eu.po | 
+ | [fa](/f21/language/fa) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/fa.po | 
+ | [fr](/f21/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/fr.po | 
+ | [fur](/f21/language/fur) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/fur.po | 
+ | [gl](/f21/language/gl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/gl.po | 
+ | [gu](/f21/language/gu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/gu.po | 
+ | [he](/f21/language/he) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/he.po | 
+ | [hi](/f21/language/hi) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/hi.po | 
+ | [hu](/f21/language/hu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/hu.po | 
+ | [id](/f21/language/id) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/id.po | 
+ | [it](/f21/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/it.po | 
+ | [ja](/f21/language/ja) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ja.po | 
+ | [kn](/f21/language/kn) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/kn.po | 
+ | [ko](/f21/language/ko) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ko.po | 
+ | [lt](/f21/language/lt) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/lt.po | 
+ | [lv](/f21/language/lv) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/lv.po | 
+ | [ml](/f21/language/ml) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ml.po | 
+ | [mr](/f21/language/mr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/mr.po | 
+ | [nb_NO](/f21/language/nb_NO) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/nb.po | 
+ | [nl](/f21/language/nl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/nl.po | 
+ | [or](/f21/language/or) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/or.po | 
+ | [pa](/f21/language/pa) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pa.po | 
+ | [pl](/f21/language/pl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pl.po | 
+ | [pt](/f21/language/pt) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/pt_BR.po | 
+ | [ro](/f21/language/ro) | 27 | 27 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ro.po | 
+ | [ru](/f21/language/ru) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ru.po | 
+ | [sk](/f21/language/sk) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sk.po | 
+ | [sl](/f21/language/sl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sl.po | 
+ | [sr](/f21/language/sr) | 220 | 220 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sr@latin.po/mnt/stockage/packages/f21/libsoup/po/sr.po | 
+ | [sv](/f21/language/sv) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/sv.po | 
+ | [ta](/f21/language/ta) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ta.po | 
+ | [te](/f21/language/te) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/te.po | 
+ | [tg](/f21/language/tg) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/tg.po | 
+ | [th](/f21/language/th) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/th.po | 
+ | [tr](/f21/language/tr) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/tr.po | 
+ | [ug](/f21/language/ug) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/ug.po | 
+ | [uk](/f21/language/uk) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/uk.po | 
+ | [uz](/f21/language/uz) | 51 | 51 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/uz@cyrillic.po | 
+ | [vi](/f21/language/vi) | 79 | 79 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/vi.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 110 | 110 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 220 | 220 | 100.0 | /mnt/stockage/packages/f21/libsoup/po/zh_HK.po/mnt/stockage/packages/f21/libsoup/po/zh_TW.po | 
 {.sortable}
 
 

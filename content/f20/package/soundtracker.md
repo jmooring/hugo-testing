@@ -18,24 +18,24 @@ The package soundtracker (version 0.6.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f20/language/error.md" >}}) | 3296 | 3296 | 100.0 | /mnt/stockage/packages/f20/soundtracker/po/en@quot.po/mnt/stockage/packages/f20/soundtracker/po/en@boldquot.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1647 | 1648 | 99.9 | /mnt/stockage/packages/f20/soundtracker/po/ru.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 1617 | 1648 | 98.1 | /mnt/stockage/packages/f20/soundtracker/po/vi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1593 | 1648 | 96.7 | /mnt/stockage/packages/f20/soundtracker/po/fr.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1593 | 1648 | 96.7 | /mnt/stockage/packages/f20/soundtracker/po/sv.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1593 | 1648 | 96.7 | /mnt/stockage/packages/f20/soundtracker/po/tr.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1588 | 1648 | 96.4 | /mnt/stockage/packages/f20/soundtracker/po/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1569 | 1648 | 95.2 | /mnt/stockage/packages/f20/soundtracker/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1569 | 1648 | 95.2 | /mnt/stockage/packages/f20/soundtracker/po/ja.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 1560 | 1648 | 94.7 | /mnt/stockage/packages/f20/soundtracker/po/sk.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 1493 | 1648 | 90.6 | /mnt/stockage/packages/f20/soundtracker/po/no.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1345 | 1648 | 81.6 | /mnt/stockage/packages/f20/soundtracker/po/pl.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 1262 | 1648 | 76.6 | /mnt/stockage/packages/f20/soundtracker/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1176 | 1648 | 71.4 | /mnt/stockage/packages/f20/soundtracker/po/de.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 1140 | 1648 | 69.2 | /mnt/stockage/packages/f20/soundtracker/po/sl.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 820 | 1648 | 49.8 | /mnt/stockage/packages/f20/soundtracker/po/gl.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 768 | 1648 | 46.6 | /mnt/stockage/packages/f20/soundtracker/po/hr.po | 
- | [rw]({{< ref "/f20/language/rw.md" >}}) | 54 | 1648 | 3.3 | /mnt/stockage/packages/f20/soundtracker/po/rw.po | 
+ | [error](/f20/language/error) | 3296 | 3296 | 100.0 | /mnt/stockage/packages/f20/soundtracker/po/en@quot.po/mnt/stockage/packages/f20/soundtracker/po/en@boldquot.po | 
+ | [ru](/f20/language/ru) | 1647 | 1648 | 99.9 | /mnt/stockage/packages/f20/soundtracker/po/ru.po | 
+ | [vi](/f20/language/vi) | 1617 | 1648 | 98.1 | /mnt/stockage/packages/f20/soundtracker/po/vi.po | 
+ | [fr](/f20/language/fr) | 1593 | 1648 | 96.7 | /mnt/stockage/packages/f20/soundtracker/po/fr.po | 
+ | [sv](/f20/language/sv) | 1593 | 1648 | 96.7 | /mnt/stockage/packages/f20/soundtracker/po/sv.po | 
+ | [tr](/f20/language/tr) | 1593 | 1648 | 96.7 | /mnt/stockage/packages/f20/soundtracker/po/tr.po | 
+ | [es](/f20/language/es) | 1588 | 1648 | 96.4 | /mnt/stockage/packages/f20/soundtracker/po/es.po | 
+ | [it](/f20/language/it) | 1569 | 1648 | 95.2 | /mnt/stockage/packages/f20/soundtracker/po/it.po | 
+ | [ja](/f20/language/ja) | 1569 | 1648 | 95.2 | /mnt/stockage/packages/f20/soundtracker/po/ja.po | 
+ | [sk](/f20/language/sk) | 1560 | 1648 | 94.7 | /mnt/stockage/packages/f20/soundtracker/po/sk.po | 
+ | [nb_NO](/f20/language/nb_NO) | 1493 | 1648 | 90.6 | /mnt/stockage/packages/f20/soundtracker/po/no.po | 
+ | [pl](/f20/language/pl) | 1345 | 1648 | 81.6 | /mnt/stockage/packages/f20/soundtracker/po/pl.po | 
+ | [da](/f20/language/da) | 1262 | 1648 | 76.6 | /mnt/stockage/packages/f20/soundtracker/po/da.po | 
+ | [de](/f20/language/de) | 1176 | 1648 | 71.4 | /mnt/stockage/packages/f20/soundtracker/po/de.po | 
+ | [sl](/f20/language/sl) | 1140 | 1648 | 69.2 | /mnt/stockage/packages/f20/soundtracker/po/sl.po | 
+ | [gl](/f20/language/gl) | 820 | 1648 | 49.8 | /mnt/stockage/packages/f20/soundtracker/po/gl.po | 
+ | [hr](/f20/language/hr) | 768 | 1648 | 46.6 | /mnt/stockage/packages/f20/soundtracker/po/hr.po | 
+ | [rw](/f20/language/rw) | 54 | 1648 | 3.3 | /mnt/stockage/packages/f20/soundtracker/po/rw.po | 
 {.sortable}
 
 

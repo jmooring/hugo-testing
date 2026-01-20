@@ -18,15 +18,15 @@ The package x-tile (version 3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/de.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/it.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/ru.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/zh_TW.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 728 | 732 | 99.5 | /mnt/stockage/packages/f40/x-tile/locale/fr.po | 
- | [es_AR]({{< ref "/f40/language/es_AR.md" >}}) | 652 | 732 | 89.1 | /mnt/stockage/packages/f40/x-tile/locale/es_AR.po | 
+ | [cs](/f40/language/cs) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/cs.po | 
+ | [de](/f40/language/de) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/de.po | 
+ | [it](/f40/language/it) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/it.po | 
+ | [pl](/f40/language/pl) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/pl.po | 
+ | [ru](/f40/language/ru) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/ru.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 732 | 732 | 100.0 | /mnt/stockage/packages/f40/x-tile/locale/zh_TW.po | 
+ | [fr](/f40/language/fr) | 728 | 732 | 99.5 | /mnt/stockage/packages/f40/x-tile/locale/fr.po | 
+ | [es_AR](/f40/language/es_AR) | 652 | 732 | 89.1 | /mnt/stockage/packages/f40/x-tile/locale/es_AR.po | 
 {.sortable}
 
 

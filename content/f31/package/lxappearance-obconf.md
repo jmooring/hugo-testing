@@ -18,57 +18,57 @@ The package lxappearance-obconf (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ar.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/bg.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/es.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/et.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/he.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ja.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/kk.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ko.po | 
- | [lg]({{< ref "/f31/language/lg.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/lg.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/lt.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sr.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sr@latin.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sv.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/te.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/tr.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ug.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/uk.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/vi.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/zh_TW.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/da.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fa.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/nb.po | 
- | [tt]({{< ref "/f31/language/tt.md" >}}) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/tt_RU.po | 
- | [fo]({{< ref "/f31/language/fo.md" >}}) | 168 | 196 | 85.7 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fo.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 42 | 196 | 21.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/bn_IN.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ca.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/is.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pa.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ur.po | 
- | [ur_PK]({{< ref "/f31/language/ur_PK.md" >}}) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ur_PK.po | 
+ | [ar](/f31/language/ar) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ar.po | 
+ | [be](/f31/language/be) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/be.po | 
+ | [bg](/f31/language/bg) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/bg.po | 
+ | [cs](/f31/language/cs) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/cs.po | 
+ | [de](/f31/language/de) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/de.po | 
+ | [el](/f31/language/el) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/en_GB.po | 
+ | [es](/f31/language/es) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/es.po | 
+ | [et](/f31/language/et) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/et.po | 
+ | [eu](/f31/language/eu) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/eu.po | 
+ | [fi](/f31/language/fi) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fi.po | 
+ | [fr](/f31/language/fr) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fr.po | 
+ | [gl](/f31/language/gl) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/gl.po | 
+ | [he](/f31/language/he) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/he.po | 
+ | [hr](/f31/language/hr) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/hr.po | 
+ | [hu](/f31/language/hu) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/hu.po | 
+ | [id](/f31/language/id) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/id.po | 
+ | [it](/f31/language/it) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/it.po | 
+ | [ja](/f31/language/ja) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ja.po | 
+ | [kk](/f31/language/kk) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/kk.po | 
+ | [ko](/f31/language/ko) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ko.po | 
+ | [lg](/f31/language/lg) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/lg.po | 
+ | [lt](/f31/language/lt) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/lt.po | 
+ | [nl](/f31/language/nl) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/nl.po | 
+ | [pl](/f31/language/pl) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pl.po | 
+ | [pt](/f31/language/pt) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ro.po | 
+ | [ru](/f31/language/ru) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ru.po | 
+ | [sl](/f31/language/sl) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sl.po | 
+ | [sr](/f31/language/sr) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sr.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sr@latin.po | 
+ | [sv](/f31/language/sv) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/sv.po | 
+ | [te](/f31/language/te) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/te.po | 
+ | [tr](/f31/language/tr) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/tr.po | 
+ | [ug](/f31/language/ug) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ug.po | 
+ | [uk](/f31/language/uk) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/uk.po | 
+ | [vi](/f31/language/vi) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/vi.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 196 | 196 | 100.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/zh_TW.po | 
+ | [da](/f31/language/da) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/da.po | 
+ | [fa](/f31/language/fa) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fa.po | 
+ | [nb_NO](/f31/language/nb_NO) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/nb.po | 
+ | [tt](/f31/language/tt) | 191 | 196 | 97.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/tt_RU.po | 
+ | [fo](/f31/language/fo) | 168 | 196 | 85.7 | /mnt/stockage/packages/f31/lxappearance-obconf/po/fo.po | 
+ | [bn_IN](/f31/language/bn_IN) | 42 | 196 | 21.4 | /mnt/stockage/packages/f31/lxappearance-obconf/po/bn_IN.po | 
+ | [ca](/f31/language/ca) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ca.po | 
+ | [is](/f31/language/is) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/is.po | 
+ | [pa](/f31/language/pa) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/pa.po | 
+ | [ur](/f31/language/ur) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ur.po | 
+ | [ur_PK](/f31/language/ur_PK) | 0 | 196 | 0.0 | /mnt/stockage/packages/f31/lxappearance-obconf/po/ur_PK.po | 
 {.sortable}
 
 

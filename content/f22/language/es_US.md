@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/) | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/) | 
 {.sortable}
 
 

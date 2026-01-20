@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gramps]({{< ref "/f41/package/gramps.md" >}}) | 40701 | 40701 | 100.0 | German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/> | 
- | [perl-libintl-perl]({{< ref "/f41/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f41/package/texinfo.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [duplicity]({{< ref "/f41/package/duplicity.md" >}}) | 2232 | 2377 | 93.9 | German, Austria | 
- | [ganyremote]({{< ref "/f41/package/ganyremote.md" >}}) | 477 | 510 | 93.5 | Austrian | 
- | [kanyremote]({{< ref "/f41/package/kanyremote.md" >}}) | 462 | 500 | 92.4 | Austrian | 
- | [fuse-encfs]({{< ref "/f41/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f41/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f41/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [texi2html]({{< ref "/f41/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [gramps](/f41/package/gramps) | 40701 | 40701 | 100.0 | German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/> | 
+ | [perl-libintl-perl](/f41/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [texinfo](/f41/package/texinfo) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [duplicity](/f41/package/duplicity) | 2232 | 2377 | 93.9 | German, Austria | 
+ | [ganyremote](/f41/package/ganyremote) | 477 | 510 | 93.5 | Austrian | 
+ | [kanyremote](/f41/package/kanyremote) | 462 | 500 | 92.4 | Austrian | 
+ | [fuse-encfs](/f41/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f41/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f41/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [texi2html](/f41/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
 {.sortable}
 
 

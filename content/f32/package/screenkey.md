@@ -18,9 +18,9 @@ The package screenkey (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f32/screenkey/po/uk.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 223 | 232 | 96.1 | /mnt/stockage/packages/f32/screenkey/po/fr.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 26 | 32 | 81.2 | /mnt/stockage/packages/f32/screenkey/po/es.po | 
+ | [uk](/f32/language/uk) | 34 | 34 | 100.0 | /mnt/stockage/packages/f32/screenkey/po/uk.po | 
+ | [fr](/f32/language/fr) | 223 | 232 | 96.1 | /mnt/stockage/packages/f32/screenkey/po/fr.po | 
+ | [es](/f32/language/es) | 26 | 32 | 81.2 | /mnt/stockage/packages/f32/screenkey/po/es.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-l10n]({{< ref "/f9/package/kde-l10n.md" >}}) | 17 | 17 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [kde-l10n](/f9/package/kde-l10n) | 17 | 17 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package axel (version 2.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f27/axel/po/es.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 304 | 543 | 56.0 | /mnt/stockage/packages/f27/axel/po/id_ID.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 284 | 543 | 52.3 | /mnt/stockage/packages/f27/axel/po/it.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 283 | 543 | 52.1 | /mnt/stockage/packages/f27/axel/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 273 | 543 | 50.3 | /mnt/stockage/packages/f27/axel/po/zh_CN.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 212 | 543 | 39.0 | /mnt/stockage/packages/f27/axel/po/ja.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 189 | 543 | 34.8 | /mnt/stockage/packages/f27/axel/po/de.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 187 | 543 | 34.4 | /mnt/stockage/packages/f27/axel/po/ru.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 173 | 543 | 31.9 | /mnt/stockage/packages/f27/axel/po/nl.po | 
+ | [es](/f27/language/es) | 543 | 543 | 100.0 | /mnt/stockage/packages/f27/axel/po/es.po | 
+ | [id](/f27/language/id) | 304 | 543 | 56.0 | /mnt/stockage/packages/f27/axel/po/id_ID.po | 
+ | [it](/f27/language/it) | 284 | 543 | 52.3 | /mnt/stockage/packages/f27/axel/po/it.po | 
+ | [pt_BR](/f27/language/pt_BR) | 283 | 543 | 52.1 | /mnt/stockage/packages/f27/axel/po/pt_BR.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 273 | 543 | 50.3 | /mnt/stockage/packages/f27/axel/po/zh_CN.po | 
+ | [ja](/f27/language/ja) | 212 | 543 | 39.0 | /mnt/stockage/packages/f27/axel/po/ja.po | 
+ | [de](/f27/language/de) | 189 | 543 | 34.8 | /mnt/stockage/packages/f27/axel/po/de.po | 
+ | [ru](/f27/language/ru) | 187 | 543 | 34.4 | /mnt/stockage/packages/f27/axel/po/ru.po | 
+ | [nl](/f27/language/nl) | 173 | 543 | 31.9 | /mnt/stockage/packages/f27/axel/po/nl.po | 
 {.sortable}
 
 

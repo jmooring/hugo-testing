@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 24 | 12020 | 0.2 | Hawaiian | 
+ | [iso-codes](/f7/package/iso-codes) | 24 | 12020 | 0.2 | Hawaiian | 
 {.sortable}
 
 

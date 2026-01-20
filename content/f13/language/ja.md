@@ -40,835 +40,835 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [DivFix++]({{< ref "/f13/package/DivFix++.md" >}}) | 549 | 549 | 100.0 | Neroma_King <Neroma_King at Asp_01.net> | 
- | [GConf2]({{< ref "/f13/package/GConf2.md" >}}) | 4035 | 4035 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [NetworkManager]({{< ref "/f13/package/NetworkManager.md" >}}) | 2441 | 2441 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [NetworkManager-openvpn]({{< ref "/f13/package/NetworkManager-openvpn.md" >}}) | 399 | 399 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [NetworkManager-pptp]({{< ref "/f13/package/NetworkManager-pptp.md" >}}) | 591 | 591 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [NetworkManager-vpnc]({{< ref "/f13/package/NetworkManager-vpnc.md" >}}) | 347 | 347 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [PackageKit]({{< ref "/f13/package/PackageKit.md" >}}) | 1584 | 1584 | 100.0 | Japanese <jp@li.org> | 
- | [Terminal]({{< ref "/f13/package/Terminal.md" >}}) | 6196 | 6196 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [Thunar]({{< ref "/f13/package/Thunar.md" >}}) | 3865 | 3865 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [agave]({{< ref "/f13/package/agave.md" >}}) | 283 | 283 | 100.0 | Toshimitsu Kimura <lovesyao@gmail.com> | 
- | [alacarte]({{< ref "/f13/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [alleyoop]({{< ref "/f13/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [anaconda]({{< ref "/f13/package/anaconda.md" >}}) | 9752 | 9752 | 100.0 | Japanese <jp@li.org> | 
- | [anerley]({{< ref "/f13/package/anerley.md" >}}) | 5 | 5 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [anjal]({{< ref "/f13/package/anjal.md" >}}) | 742 | 742 | 100.0 |  | 
- | [anjuta]({{< ref "/f13/package/anjuta.md" >}}) | 7984 | 7984 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [arm-gp2x-linux-glibc]({{< ref "/f13/package/arm-gp2x-linux-glibc.md" >}}) | 6326 | 6326 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [at-spi]({{< ref "/f13/package/at-spi.md" >}}) | 24 | 24 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [atk]({{< ref "/f13/package/atk.md" >}}) | 375 | 375 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [atomix]({{< ref "/f13/package/atomix.md" >}}) | 146 | 146 | 100.0 | Japanese <translation@gnome.gr.jp> | 
- | [audacity]({{< ref "/f13/package/audacity.md" >}}) | 9628 | 9628 | 100.0 | Atsushi YOSHIDA <ayoshida.pub@gmail.com> | 
- | [audit-viewer]({{< ref "/f13/package/audit-viewer.md" >}}) | 611 | 611 | 100.0 | Japanese <jp@li.org> | 
- | [authconfig]({{< ref "/f13/package/authconfig.md" >}}) | 1325 | 1325 | 100.0 | Japanese <jp@li.org> | 
- | [authd]({{< ref "/f13/package/authd.md" >}}) | 196 | 196 | 100.0 | ja <http://bugzilla.redhat.com/> | 
- | [bakery]({{< ref "/f13/package/bakery.md" >}}) | 72 | 72 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [basket]({{< ref "/f13/package/basket.md" >}}) | 4581 | 4581 | 100.0 | Japanese <ja@li.org> | 
- | [beagle]({{< ref "/f13/package/beagle.md" >}}) | 1238 | 1238 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [bisho]({{< ref "/f13/package/bisho.md" >}}) | 131 | 131 | 100.0 |  | 
- | [blam]({{< ref "/f13/package/blam.md" >}}) | 330 | 330 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [bluefish]({{< ref "/f13/package/bluefish.md" >}}) | 3819 | 3819 | 100.0 |  | 
- | [bognor-regis]({{< ref "/f13/package/bognor-regis.md" >}}) | 27 | 27 | 100.0 |  | 
- | [brasero]({{< ref "/f13/package/brasero.md" >}}) | 5408 | 5408 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [byzanz]({{< ref "/f13/package/byzanz.md" >}}) | 249 | 249 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [camorama]({{< ref "/f13/package/camorama.md" >}}) | 586 | 586 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [ccsm]({{< ref "/f13/package/ccsm.md" >}}) | 549 | 549 | 100.0 | Japanese <masaaki.kanemoto@gmail.com> | 
- | [cgit]({{< ref "/f13/package/cgit.md" >}}) | 3369 | 3369 | 100.0 | Japanese | 
- | [cheese]({{< ref "/f13/package/cheese.md" >}}) | 651 | 651 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [chkconfig]({{< ref "/f13/package/chkconfig.md" >}}) | 448 | 448 | 100.0 | Japanese <jp@li.org> | 
- | [comix]({{< ref "/f13/package/comix.md" >}}) | 1326 | 1326 | 100.0 |  | 
- | [compiz]({{< ref "/f13/package/compiz.md" >}}) | 3250 | 3250 | 100.0 | Novell Language <language@novell.com> | 
- | [compiz-fusion]({{< ref "/f13/package/compiz-fusion.md" >}}) | 8946 | 8946 | 100.0 | Japanese | 
- | [compiz-fusion-extras]({{< ref "/f13/package/compiz-fusion-extras.md" >}}) | 8946 | 8946 | 100.0 | Japanese | 
- | [compiz-fusion-unsupported]({{< ref "/f13/package/compiz-fusion-unsupported.md" >}}) | 8946 | 8946 | 100.0 | Japanese | 
- | [contact-lookup-applet]({{< ref "/f13/package/contact-lookup-applet.md" >}}) | 260 | 260 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [cracklib]({{< ref "/f13/package/cracklib.md" >}}) | 93 | 93 | 100.0 | Novell Language <language@novell.com> | 
- | [dalston]({{< ref "/f13/package/dalston.md" >}}) | 266 | 266 | 100.0 |  | 
- | [dasher]({{< ref "/f13/package/dasher.md" >}}) | 528 | 528 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [dates]({{< ref "/f13/package/dates.md" >}}) | 239 | 239 | 100.0 |  | 
- | [dbmail]({{< ref "/f13/package/dbmail.md" >}}) | 457 | 457 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [deja-dup]({{< ref "/f13/package/deja-dup.md" >}}) | 1109 | 1109 | 100.0 |  | 
- | [desktop-effects]({{< ref "/f13/package/desktop-effects.md" >}}) | 148 | 148 | 100.0 | Japanese <jp@li.org> | 
- | [devhelp]({{< ref "/f13/package/devhelp.md" >}}) | 403 | 403 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [dia]({{< ref "/f13/package/dia.md" >}}) | 6606 | 6606 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [dialog]({{< ref "/f13/package/dialog.md" >}}) | 25 | 25 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [diffuse]({{< ref "/f13/package/diffuse.md" >}}) | 951 | 951 | 100.0 | Japanese | 
- | [diffutils]({{< ref "/f13/package/diffutils.md" >}}) | 1342 | 1342 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [drupal-cck]({{< ref "/f13/package/drupal-cck.md" >}}) | 2468 | 2468 | 100.0 | DRUPAL*DRUPAL <hixarg+0829@gmail.com> | 
- | [drupal6-filefield]({{< ref "/f13/package/drupal6-filefield.md" >}}) | 542 | 542 | 100.0 | Japanese <EMAIL@ADDRESS> | 
- | [drupal6-image]({{< ref "/f13/package/drupal6-image.md" >}}) | 2229 | 2229 | 100.0 | Japanese <EMAIL@ADDRESS> | 
- | [eb]({{< ref "/f13/package/eb.md" >}}) | 1073 | 1073 | 100.0 |  | 
- | [ebview]({{< ref "/f13/package/ebview.md" >}}) | 1025 | 1025 | 100.0 | Japanese <ja@li.org> | 
- | [eekboard]({{< ref "/f13/package/eekboard.md" >}}) | 56 | 56 | 100.0 | Japanese | 
- | [ejabberd]({{< ref "/f13/package/ejabberd.md" >}}) | 1753 | 1753 | 100.0 |  | 
- | [eject]({{< ref "/f13/package/eject.md" >}}) | 6 | 6 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [ekiga]({{< ref "/f13/package/ekiga.md" >}}) | 4043 | 4043 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [emerillon]({{< ref "/f13/package/emerillon.md" >}}) | 359 | 359 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [empathy]({{< ref "/f13/package/empathy.md" >}}) | 2687 | 2687 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [eog-plugins]({{< ref "/f13/package/eog-plugins.md" >}}) | 80 | 80 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [epiphany-extensions]({{< ref "/f13/package/epiphany-extensions.md" >}}) | 1047 | 1047 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [etckeeper]({{< ref "/f13/package/etckeeper.md" >}}) | 64 | 64 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [evolution-data-server]({{< ref "/f13/package/evolution-data-server.md" >}}) | 5099 | 5099 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [evolution-exchange]({{< ref "/f13/package/evolution-exchange.md" >}}) | 1339 | 1339 | 100.0 | Japanese <translation@gnome.gr.jp> | 
- | [evolution-mapi]({{< ref "/f13/package/evolution-mapi.md" >}}) | 284 | 284 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [exo]({{< ref "/f13/package/exo.md" >}}) | 1598 | 1598 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [expendable]({{< ref "/f13/package/expendable.md" >}}) | 226 | 226 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [f-spot]({{< ref "/f13/package/f-spot.md" >}}) | 3553 | 3553 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [fantasdic]({{< ref "/f13/package/fantasdic.md" >}}) | 304 | 304 | 100.0 | Japanese <ja@li.org> | 
- | [fetchmail]({{< ref "/f13/package/fetchmail.md" >}}) | 4326 | 4326 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [firstboot]({{< ref "/f13/package/firstboot.md" >}}) | 654 | 654 | 100.0 | Japanese <jp@li.org> | 
- | [fontforge]({{< ref "/f13/package/fontforge.md" >}}) | 21574 | 21574 | 100.0 |  | 
- | [freeciv]({{< ref "/f13/package/freeciv.md" >}}) | 53692 | 53692 | 100.0 | SAWADA Katsuya <ama@petmail.net> | 
- | [freedink]({{< ref "/f13/package/freedink.md" >}}) | 79 | 79 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gajim]({{< ref "/f13/package/gajim.md" >}}) | 10834 | 10834 | 100.0 | Japanese | 
- | [galeon]({{< ref "/f13/package/galeon.md" >}}) | 5996 | 5996 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gauche]({{< ref "/f13/package/gauche.md" >}}) | 82 | 82 | 100.0 |  | 
- | [gconf-cleaner]({{< ref "/f13/package/gconf-cleaner.md" >}}) | 208 | 208 | 100.0 | Japanese <ja@li.org> | 
- | [gconf-editor]({{< ref "/f13/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gdeskcal]({{< ref "/f13/package/gdeskcal.md" >}}) | 109 | 109 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gdm]({{< ref "/f13/package/gdm.md" >}}) | 1314 | 1314 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [geany]({{< ref "/f13/package/geany.md" >}}) | 5469 | 5469 | 100.0 | Japanese <ja@li.org> | 
- | [gedit-plugins]({{< ref "/f13/package/gedit-plugins.md" >}}) | 230 | 230 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [genius]({{< ref "/f13/package/genius.md" >}}) | 3067 | 3067 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gettext]({{< ref "/f13/package/gettext.md" >}}) | 6857 | 6857 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [ggz-base-libs]({{< ref "/f13/package/ggz-base-libs.md" >}}) | 74 | 74 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [ggz-gtk-client]({{< ref "/f13/package/ggz-gtk-client.md" >}}) | 773 | 773 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gigolo]({{< ref "/f13/package/gigolo.md" >}}) | 500 | 500 | 100.0 | Japanese | 
- | [git]({{< ref "/f13/package/git.md" >}}) | 3369 | 3369 | 100.0 | Japanese | 
- | [git-cola]({{< ref "/f13/package/git-cola.md" >}}) | 1842 | 1842 | 100.0 | Japanese | 
- | [gitweb-caching]({{< ref "/f13/package/gitweb-caching.md" >}}) | 3368 | 3368 | 100.0 | Japanese | 
- | [glabels]({{< ref "/f13/package/glabels.md" >}}) | 1851 | 1851 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [glade2]({{< ref "/f13/package/glade2.md" >}}) | 5840 | 5840 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [glade3]({{< ref "/f13/package/glade3.md" >}}) | 4613 | 4613 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [glibc]({{< ref "/f13/package/glibc.md" >}}) | 6327 | 6327 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gmpc]({{< ref "/f13/package/gmpc.md" >}}) | 25 | 25 | 100.0 | Japanese <ja@li.org> | 
- | [gnome-applet-netspeed]({{< ref "/f13/package/gnome-applet-netspeed.md" >}}) | 144 | 144 | 100.0 | Japanese <translation@gnome.gr.jp> | 
- | [gnome-backgrounds]({{< ref "/f13/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-bluetooth]({{< ref "/f13/package/gnome-bluetooth.md" >}}) | 593 | 593 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-color-manager]({{< ref "/f13/package/gnome-color-manager.md" >}}) | 2424 | 2424 | 100.0 | Japanese <rfujita@redhat.com> | 
- | [gnome-desktop]({{< ref "/f13/package/gnome-desktop.md" >}}) | 349 | 349 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-doc-utils]({{< ref "/f13/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-games]({{< ref "/f13/package/gnome-games.md" >}}) | 8376 | 8376 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-icon-theme]({{< ref "/f13/package/gnome-icon-theme.md" >}}) | 51 | 51 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-mag]({{< ref "/f13/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-media]({{< ref "/f13/package/gnome-media.md" >}}) | 1190 | 1190 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-menus]({{< ref "/f13/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-mime-data]({{< ref "/f13/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-netstatus]({{< ref "/f13/package/gnome-netstatus.md" >}}) | 418 | 418 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-nettool]({{< ref "/f13/package/gnome-nettool.md" >}}) | 523 | 523 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-screensaver]({{< ref "/f13/package/gnome-screensaver.md" >}}) | 989 | 989 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-session]({{< ref "/f13/package/gnome-session.md" >}}) | 638 | 638 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-settings-daemon]({{< ref "/f13/package/gnome-settings-daemon.md" >}}) | 1624 | 1624 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-specimen]({{< ref "/f13/package/gnome-specimen.md" >}}) | 56 | 56 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-system-monitor]({{< ref "/f13/package/gnome-system-monitor.md" >}}) | 933 | 933 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-terminal]({{< ref "/f13/package/gnome-terminal.md" >}}) | 3926 | 3926 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-themes]({{< ref "/f13/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-user-share]({{< ref "/f13/package/gnome-user-share.md" >}}) | 289 | 289 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-utils]({{< ref "/f13/package/gnome-utils.md" >}}) | 3905 | 3905 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-vfs2]({{< ref "/f13/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-web-photo]({{< ref "/f13/package/gnome-web-photo.md" >}}) | 168 | 168 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnomeradio]({{< ref "/f13/package/gnomeradio.md" >}}) | 443 | 443 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnote]({{< ref "/f13/package/gnote.md" >}}) | 2283 | 2283 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gok]({{< ref "/f13/package/gok.md" >}}) | 1937 | 1937 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gphotoframe]({{< ref "/f13/package/gphotoframe.md" >}}) | 3147 | 3147 | 100.0 | Japanese <LL@li.org> | 
- | [gpicview]({{< ref "/f13/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Japanese <hironao@users.sourceforge.net> | 
- | [greylistd]({{< ref "/f13/package/greylistd.md" >}}) | 350 | 350 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [gsynaptics]({{< ref "/f13/package/gsynaptics.md" >}}) | 65 | 65 | 100.0 | Japanese <ikuya@good-day.co.jp> | 
- | [gthumb]({{< ref "/f13/package/gthumb.md" >}}) | 3236 | 3236 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [gtk+]({{< ref "/f13/package/gtk+.md" >}}) | 404 | 404 | 100.0 | Japanese <translation@gnome.gr.jp> | 
- | [gtk2-engines]({{< ref "/f13/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gtkhtml3]({{< ref "/f13/package/gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gtksourceview]({{< ref "/f13/package/gtksourceview.md" >}}) | 891 | 891 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gtksourceview2]({{< ref "/f13/package/gtksourceview2.md" >}}) | 1099 | 1099 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gtkspell]({{< ref "/f13/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Japanese <ja@li.org> | 
- | [gucharmap]({{< ref "/f13/package/gucharmap.md" >}}) | 863 | 863 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [horde]({{< ref "/f13/package/horde.md" >}}) | 8384 | 8384 | 100.0 | i18n@lists.horde.org | 
- | [hornsey]({{< ref "/f13/package/hornsey.md" >}}) | 106 | 106 | 100.0 |  | 
- | [hotssh]({{< ref "/f13/package/hotssh.md" >}}) | 145 | 145 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [ibus]({{< ref "/f13/package/ibus.md" >}}) | 584 | 584 | 100.0 | Japanese <jp@li.org> | 
- | [ibus-anthy]({{< ref "/f13/package/ibus-anthy.md" >}}) | 598 | 598 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [ibus-input-pad]({{< ref "/f13/package/ibus-input-pad.md" >}}) | 90 | 90 | 100.0 | Japanese | 
- | [ibus-skk]({{< ref "/f13/package/ibus-skk.md" >}}) | 71 | 71 | 100.0 | Japanese | 
- | [imp]({{< ref "/f13/package/imp.md" >}}) | 6483 | 6483 | 100.0 | i18n@lists.horde.org | 
- | [imsettings]({{< ref "/f13/package/imsettings.md" >}}) | 979 | 979 | 100.0 | Japanese <fedora-trasn-ja@redhat.com> | 
- | [ingo]({{< ref "/f13/package/ingo.md" >}}) | 908 | 908 | 100.0 | i18n@lists.horde.org | 
- | [initscripts]({{< ref "/f13/package/initscripts.md" >}}) | 4407 | 4407 | 100.0 | Japanese <jp@li.org> | 
- | [input-pad]({{< ref "/f13/package/input-pad.md" >}}) | 906 | 906 | 100.0 | Japanese | 
- | [iok]({{< ref "/f13/package/iok.md" >}}) | 142 | 142 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [isight-firmware-tools]({{< ref "/f13/package/isight-firmware-tools.md" >}}) | 319 | 319 | 100.0 | LANGUAGE <LL@li.org> | 
- | [istanbul]({{< ref "/f13/package/istanbul.md" >}}) | 196 | 196 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [kasumi]({{< ref "/f13/package/kasumi.md" >}}) | 193 | 193 | 100.0 | Takashi Nakamoto <bluedwarf@bpost.plala.or.jp> | 
- | [kdirstat]({{< ref "/f13/package/kdirstat.md" >}}) | 927 | 927 | 100.0 | <Kdeveloper@kde.gr.jp> | 
- | [kerry]({{< ref "/f13/package/kerry.md" >}}) | 702 | 702 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [keurocalc]({{< ref "/f13/package/keurocalc.md" >}}) | 291 | 291 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kexec-tools]({{< ref "/f13/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | Japanese <jp@li.org> | 
- | [knetstats]({{< ref "/f13/package/knetstats.md" >}}) | 119 | 119 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kronolith]({{< ref "/f13/package/kronolith.md" >}}) | 2317 | 2317 | 100.0 | i18n@lists.horde.org | 
- | [ksig]({{< ref "/f13/package/ksig.md" >}}) | 85 | 85 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [ldm]({{< ref "/f13/package/ldm.md" >}}) | 184 | 184 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [leafpad]({{< ref "/f13/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Japanese <ja@li.org> | 
- | [libbonobo]({{< ref "/f13/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libbonoboui]({{< ref "/f13/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libbtctl]({{< ref "/f13/package/libbtctl.md" >}}) | 48 | 48 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libepc]({{< ref "/f13/package/libepc.md" >}}) | 146 | 146 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [libfm]({{< ref "/f13/package/libfm.md" >}}) | 480 | 480 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [libgdata]({{< ref "/f13/package/libgdata.md" >}}) | 438 | 438 | 100.0 | Japanese <gnome-translation@gnome.gr.jp>\ | 
- | [libgdl]({{< ref "/f13/package/libgdl.md" >}}) | 602 | 602 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnome]({{< ref "/f13/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnome-keyring]({{< ref "/f13/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnomecanvas]({{< ref "/f13/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnomecups]({{< ref "/f13/package/libgnomecups.md" >}}) | 210 | 210 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnomekbd]({{< ref "/f13/package/libgnomekbd.md" >}}) | 246 | 246 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnomeprint22]({{< ref "/f13/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnomeprintui22]({{< ref "/f13/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgnomeui]({{< ref "/f13/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgtop2]({{< ref "/f13/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 6051 | 6051 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libkexif]({{< ref "/f13/package/libkexif.md" >}}) | 25 | 25 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [libmx]({{< ref "/f13/package/libmx.md" >}}) | 40 | 40 | 100.0 |  | 
- | [libpaper]({{< ref "/f13/package/libpaper.md" >}}) | 73 | 73 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [libsocialweb]({{< ref "/f13/package/libsocialweb.md" >}}) | 148 | 148 | 100.0 |  | 
- | [libuser]({{< ref "/f13/package/libuser.md" >}}) | 1114 | 1114 | 100.0 | Japanese <jp@li.org> | 
- | [libwnck]({{< ref "/f13/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [libxfce4menu]({{< ref "/f13/package/libxfce4menu.md" >}}) | 31 | 31 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [libxfce4ui]({{< ref "/f13/package/libxfce4ui.md" >}}) | 136 | 136 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [libxfce4util]({{< ref "/f13/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [libxfcegui4]({{< ref "/f13/package/libxfcegui4.md" >}}) | 234 | 234 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [liferea]({{< ref "/f13/package/liferea.md" >}}) | 2411 | 2411 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [liveusb-creator]({{< ref "/f13/package/liveusb-creator.md" >}}) | 480 | 480 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [lxappearance]({{< ref "/f13/package/lxappearance.md" >}}) | 83 | 83 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lxinput]({{< ref "/f13/package/lxinput.md" >}}) | 70 | 70 | 100.0 | ja_JP <LL@li.org> | 
- | [lxlauncher]({{< ref "/f13/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | ja_JP <LL@li.org> | 
- | [lxmenu-data]({{< ref "/f13/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [lxmusic]({{< ref "/f13/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lxpanel]({{< ref "/f13/package/lxpanel.md" >}}) | 892 | 892 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lxrandr]({{< ref "/f13/package/lxrandr.md" >}}) | 102 | 102 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lxsession]({{< ref "/f13/package/lxsession.md" >}}) | 37 | 37 | 100.0 | ja_JP <LL@li.org> | 
- | [lxsession-edit]({{< ref "/f13/package/lxsession-edit.md" >}}) | 58 | 58 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lxshortcut]({{< ref "/f13/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lxtask]({{< ref "/f13/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Japanese <hironao@users.sourceforge.net> | 
- | [lxterminal]({{< ref "/f13/package/lxterminal.md" >}}) | 129 | 129 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lyx]({{< ref "/f13/package/lyx.md" >}}) | 14858 | 14858 | 100.0 | Japanese <lyx-doc@lists.lyx.org> | 
- | [mail-notification]({{< ref "/f13/package/mail-notification.md" >}}) | 1816 | 1816 | 100.0 |  | 
- | [mailman]({{< ref "/f13/package/mailman.md" >}}) | 21904 | 21904 | 100.0 | Japanese <mmjp-users@mm.tkikuchi.net> | 
- | [meld]({{< ref "/f13/package/meld.md" >}}) | 918 | 918 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [midori]({{< ref "/f13/package/midori.md" >}}) | 2458 | 2458 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [mingw32-atk]({{< ref "/f13/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [mingw32-gtkhtml3]({{< ref "/f13/package/mingw32-gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [mlocate]({{< ref "/f13/package/mlocate.md" >}}) | 563 | 563 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [moblin-panel-applications]({{< ref "/f13/package/moblin-panel-applications.md" >}}) | 5 | 5 | 100.0 |  | 
- | [moblin-panel-media]({{< ref "/f13/package/moblin-panel-media.md" >}}) | 55 | 55 | 100.0 |  | 
- | [moblin-panel-myzone]({{< ref "/f13/package/moblin-panel-myzone.md" >}}) | 74 | 74 | 100.0 |  | 
- | [moblin-panel-pasteboard]({{< ref "/f13/package/moblin-panel-pasteboard.md" >}}) | 22 | 22 | 100.0 |  | 
- | [moblin-panel-people]({{< ref "/f13/package/moblin-panel-people.md" >}}) | 68 | 68 | 100.0 |  | 
- | [moblin-panel-status]({{< ref "/f13/package/moblin-panel-status.md" >}}) | 76 | 76 | 100.0 |  | 
- | [mojito]({{< ref "/f13/package/mojito.md" >}}) | 148 | 148 | 100.0 |  | 
- | [monkey-bubble]({{< ref "/f13/package/monkey-bubble.md" >}}) | 309 | 309 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [monodevelop]({{< ref "/f13/package/monodevelop.md" >}}) | 15715 | 15715 | 100.0 | Atsushi Enomoto <atsushi@ximian.com> | 
- | [mousepad]({{< ref "/f13/package/mousepad.md" >}}) | 135 | 135 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [mousetweaks]({{< ref "/f13/package/mousetweaks.md" >}}) | 638 | 638 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [multimedia-menus]({{< ref "/f13/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [mutter]({{< ref "/f13/package/mutter.md" >}}) | 3864 | 3864 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [mutter-mbl]({{< ref "/f13/package/mutter-mbl.md" >}}) | 3864 | 3864 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [mutter-moblin]({{< ref "/f13/package/mutter-moblin.md" >}}) | 52 | 52 | 100.0 |  | 
- | [namazu]({{< ref "/f13/package/namazu.md" >}}) | 1052 | 1052 | 100.0 | Japanese <ja@li.org> | 
- | [nautilus]({{< ref "/f13/package/nautilus.md" >}}) | 8620 | 8620 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [nautilus-image-converter]({{< ref "/f13/package/nautilus-image-converter.md" >}}) | 79 | 79 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [nautilus-open-terminal]({{< ref "/f13/package/nautilus-open-terminal.md" >}}) | 166 | 166 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [nautilus-sendto]({{< ref "/f13/package/nautilus-sendto.md" >}}) | 319 | 319 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [nemiver]({{< ref "/f13/package/nemiver.md" >}}) | 1102 | 1102 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [newt]({{< ref "/f13/package/newt.md" >}}) | 4 | 4 | 100.0 | Japanese <debian-doc@debian.or.jp> | 
- | [notification-daemon]({{< ref "/f13/package/notification-daemon.md" >}}) | 108 | 108 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [nss-ldapd]({{< ref "/f13/package/nss-ldapd.md" >}}) | 438 | 438 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [nss-pam-ldapd]({{< ref "/f13/package/nss-pam-ldapd.md" >}}) | 438 | 438 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [nx]({{< ref "/f13/package/nx.md" >}}) | 149 | 149 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [olpc-switch-desktop]({{< ref "/f13/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [openbox]({{< ref "/f13/package/openbox.md" >}}) | 504 | 504 | 100.0 | Japanese <ja@li.org> | 
- | [orage]({{< ref "/f13/package/orage.md" >}}) | 2110 | 2110 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [orca]({{< ref "/f13/package/orca.md" >}}) | 4011 | 4011 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [osmo]({{< ref "/f13/package/osmo.md" >}}) | 1705 | 1705 | 100.0 | Japanese Puppy Linux Team | 
- | [pam]({{< ref "/f13/package/pam.md" >}}) | 599 | 599 | 100.0 | Japanese <jp@li.org> | 
- | [parcellite]({{< ref "/f13/package/parcellite.md" >}}) | 156 | 156 | 100.0 | JAPANESE | 
- | [parole]({{< ref "/f13/package/parole.md" >}}) | 450 | 450 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [passwd]({{< ref "/f13/package/passwd.md" >}}) | 299 | 299 | 100.0 | <ja@li.org> | 
- | [pavucontrol]({{< ref "/f13/package/pavucontrol.md" >}}) | 219 | 219 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [pcmanfm]({{< ref "/f13/package/pcmanfm.md" >}}) | 522 | 522 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [perl-Padre]({{< ref "/f13/package/perl-Padre.md" >}}) | 1478 | 1478 | 100.0 | Japanese | 
- | [pessulus]({{< ref "/f13/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [pino]({{< ref "/f13/package/pino.md" >}}) | 352 | 352 | 100.0 | Japanese <tomo832@gmail.com> | 
- | [planner]({{< ref "/f13/package/planner.md" >}}) | 1795 | 1795 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [po4a]({{< ref "/f13/package/po4a.md" >}}) | 27461 | 27461 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [polkit-gnome]({{< ref "/f13/package/polkit-gnome.md" >}}) | 178 | 178 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [popt]({{< ref "/f13/package/popt.md" >}}) | 75 | 75 | 100.0 | Japanese <ja@li.org> | 
- | [postgresql]({{< ref "/f13/package/postgresql.md" >}}) | 39857 | 39857 | 100.0 | Shigehiro Honda <fwif0083@mb.infoweb.ne.jp> | 
- | [powertop]({{< ref "/f13/package/powertop.md" >}}) | 983 | 983 | 100.0 | Japanese <ja@li.org> | 
- | [preupgrade]({{< ref "/f13/package/preupgrade.md" >}}) | 801 | 801 | 100.0 | Japanese <jp@li.org> | 
- | [publican-fedora]({{< ref "/f13/package/publican-fedora.md" >}}) | 107 | 107 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [publican-redhat]({{< ref "/f13/package/publican-redhat.md" >}}) | 220 | 220 | 100.0 | Japanese | 
- | [pykickstart]({{< ref "/f13/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Japanese <ja@li.org> | 
- | [python-fedora]({{< ref "/f13/package/python-fedora.md" >}}) | 982 | 982 | 100.0 | japanese <trans-ja@lists.fedoraproject.org> | 
- | [python-meh]({{< ref "/f13/package/python-meh.md" >}}) | 269 | 269 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [python-pylons]({{< ref "/f13/package/python-pylons.md" >}}) | 13 | 13 | 100.0 | LANGUAGE <LL@li.org> | 
- | [qbzr]({{< ref "/f13/package/qbzr.md" >}}) | 1281 | 1281 | 100.0 | Japanese <ja@li.org> | 
- | [qt3]({{< ref "/f13/package/qt3.md" >}}) | 482 | 482 | 100.0 |  | 
- | [readahead]({{< ref "/f13/package/readahead.md" >}}) | 129 | 129 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [redhat-menus]({{< ref "/f13/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [resapplet]({{< ref "/f13/package/resapplet.md" >}}) | 106 | 106 | 100.0 | Novell Language <language@novell.com> | 
- | [rhnsd]({{< ref "/f13/package/rhnsd.md" >}}) | 42 | 42 | 100.0 | Japanese <ja@li.org> | 
- | [rhythmbox]({{< ref "/f13/package/rhythmbox.md" >}}) | 4797 | 4797 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [ristretto]({{< ref "/f13/package/ristretto.md" >}}) | 187 | 187 | 100.0 | Japanese | 
- | [ruby-gnome2]({{< ref "/f13/package/ruby-gnome2.md" >}}) | 7 | 7 | 100.0 | ja_JP.UTF-8 | 
- | [samba]({{< ref "/f13/package/samba.md" >}}) | 198 | 198 | 100.0 | Novell Language <language@novell.com> | 
- | [scim]({{< ref "/f13/package/scim.md" >}}) | 1164 | 1164 | 100.0 |  | 
- | [scim-pinyin]({{< ref "/f13/package/scim-pinyin.md" >}}) | 832 | 832 | 100.0 | Japanese <ja@li.org> | 
- | [scim-tomoe]({{< ref "/f13/package/scim-tomoe.md" >}}) | 53 | 53 | 100.0 | Japanese <ja@li.org> | 
- | [seahorse]({{< ref "/f13/package/seahorse.md" >}}) | 3033 | 3033 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [seahorse-plugins]({{< ref "/f13/package/seahorse-plugins.md" >}}) | 1163 | 1163 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [sepostgresql]({{< ref "/f13/package/sepostgresql.md" >}}) | 38833 | 38833 | 100.0 | jpug-doc <jpug-doc@ml.postgresql.jp> | 
- | [setroubleshoot-plugins]({{< ref "/f13/package/setroubleshoot-plugins.md" >}}) | 7818 | 7818 | 100.0 | Japanese <jp@li.org> | 
- | [setuptool]({{< ref "/f13/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [skf]({{< ref "/f13/package/skf.md" >}}) | 624 | 624 | 100.0 |  | 
- | [smb4k]({{< ref "/f13/package/smb4k.md" >}}) | 6580 | 6580 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [smolt]({{< ref "/f13/package/smolt.md" >}}) | 1174 | 1174 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [sonata]({{< ref "/f13/package/sonata.md" >}}) | 1136 | 1136 | 100.0 | Japanese <ja@li.org> | 
- | [sound-juicer]({{< ref "/f13/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [spe]({{< ref "/f13/package/spe.md" >}}) | 2012 | 2012 | 100.0 | ja <brian_nt@nifty.com> | 
- | [sugar]({{< ref "/f13/package/sugar.md" >}}) | 976 | 976 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f13/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f13/package/sugar-browse.md" >}}) | 53 | 53 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f13/package/sugar-calculator.md" >}}) | 565 | 565 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f13/package/sugar-chat.md" >}}) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f13/package/sugar-imageviewer.md" >}}) | 25 | 25 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f13/package/sugar-jukebox.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f13/package/sugar-log.md" >}}) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f13/package/sugar-playgo.md" >}}) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-tamtam]({{< ref "/f13/package/sugar-tamtam.md" >}}) | 2077 | 2077 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f13/package/sugar-toolkit.md" >}}) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f13/package/sugar-write.md" >}}) | 75 | 75 | 100.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f13/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [sylpheed]({{< ref "/f13/package/sylpheed.md" >}}) | 6615 | 6615 | 100.0 | Japanese <ja@li.org> | 
- | [syncevolution]({{< ref "/f13/package/syncevolution.md" >}}) | 1115 | 1115 | 100.0 |  | 
- | [sysstat]({{< ref "/f13/package/sysstat.md" >}}) | 447 | 447 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [system-config-audit]({{< ref "/f13/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-bind]({{< ref "/f13/package/system-config-bind.md" >}}) | 9434 | 9434 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-date]({{< ref "/f13/package/system-config-date.md" >}}) | 1750 | 1750 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-date-docs]({{< ref "/f13/package/system-config-date-docs.md" >}}) | 728 | 728 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-display]({{< ref "/f13/package/system-config-display.md" >}}) | 415 | 415 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-firewall]({{< ref "/f13/package/system-config-firewall.md" >}}) | 2807 | 2807 | 100.0 | Japanese | 
- | [system-config-httpd]({{< ref "/f13/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | ja <fedora-trans-ja@redhat.com> | 
- | [system-config-keyboard]({{< ref "/f13/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | <ja@li.org> | 
- | [system-config-kickstart]({{< ref "/f13/package/system-config-kickstart.md" >}}) | 1103 | 1103 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-lvm]({{< ref "/f13/package/system-config-lvm.md" >}}) | 2246 | 2246 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-netboot]({{< ref "/f13/package/system-config-netboot.md" >}}) | 1135 | 1135 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-network]({{< ref "/f13/package/system-config-network.md" >}}) | 3022 | 3022 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-nfs]({{< ref "/f13/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-nfs-docs]({{< ref "/f13/package/system-config-nfs-docs.md" >}}) | 1185 | 1185 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-rootpassword]({{< ref "/f13/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [system-config-samba]({{< ref "/f13/package/system-config-samba.md" >}}) | 535 | 535 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-samba-docs]({{< ref "/f13/package/system-config-samba-docs.md" >}}) | 1188 | 1188 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-services]({{< ref "/f13/package/system-config-services.md" >}}) | 404 | 404 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-services-docs]({{< ref "/f13/package/system-config-services-docs.md" >}}) | 638 | 638 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-users]({{< ref "/f13/package/system-config-users.md" >}}) | 1456 | 1456 | 100.0 | Japanese <jp@li.org> | 
- | [system-config-users-docs]({{< ref "/f13/package/system-config-users-docs.md" >}}) | 1054 | 1054 | 100.0 | Japanese <jp@li.org> | 
- | [system-switch-java]({{< ref "/f13/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Japanese <jp@li.org> | 
- | [system-switch-mail]({{< ref "/f13/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [tasks]({{< ref "/f13/package/tasks.md" >}}) | 301 | 301 | 100.0 |  | 
- | [tasque]({{< ref "/f13/package/tasque.md" >}}) | 196 | 196 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [thunar-media-tags-plugin]({{< ref "/f13/package/thunar-media-tags-plugin.md" >}}) | 144 | 144 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [thunar-shares-plugin]({{< ref "/f13/package/thunar-shares-plugin.md" >}}) | 209 | 209 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [tomboy]({{< ref "/f13/package/tomboy.md" >}}) | 2651 | 2651 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [totem]({{< ref "/f13/package/totem.md" >}}) | 5332 | 5332 | 100.0 | Japanese <LL@li.org> | 
- | [totem-pl-parser]({{< ref "/f13/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [tpb]({{< ref "/f13/package/tpb.md" >}}) | 96 | 96 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [tracker]({{< ref "/f13/package/tracker.md" >}}) | 2016 | 2016 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [tsclient]({{< ref "/f13/package/tsclient.md" >}}) | 342 | 342 | 100.0 | Novell Language <language@novell.com> | 
- | [turba]({{< ref "/f13/package/turba.md" >}}) | 1689 | 1689 | 100.0 | i18n@lists.horde.org | 
- | [tuxpaint-stamps]({{< ref "/f13/package/tuxpaint-stamps.md" >}}) | 2617 | 2617 | 100.0 | Japanese <shin1@wmail.plala.or.jp> | 
- | [usermode]({{< ref "/f13/package/usermode.md" >}}) | 562 | 562 | 100.0 | Japanese <jp@li.org> | 
- | [viewnior]({{< ref "/f13/package/viewnior.md" >}}) | 387 | 387 | 100.0 | Team Puppy linux Japan | 
- | [vim]({{< ref "/f13/package/vim.md" >}}) | 8280 | 8280 | 100.0 | MURAOKA Taro <koron.kaoriya@gmail.com> | 
- | [vinagre]({{< ref "/f13/package/vinagre.md" >}}) | 957 | 957 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [vino]({{< ref "/f13/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Japanese <translation@gnome.gr.jp> | 
- | [virt-top]({{< ref "/f13/package/virt-top.md" >}}) | 351 | 351 | 100.0 | Japanese <jp@li.org> | 
- | [virtaal]({{< ref "/f13/package/virtaal.md" >}}) | 1171 | 1171 | 100.0 | LANGUAGE <LL@li.org> | 
- | [volume_key]({{< ref "/f13/package/volume_key.md" >}}) | 726 | 726 | 100.0 | Japanese <jp@li.org> | 
- | [vte]({{< ref "/f13/package/vte.md" >}}) | 116 | 116 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [w3m]({{< ref "/f13/package/w3m.md" >}}) | 786 | 786 | 100.0 | Japanese | 
- | [wallpapoz]({{< ref "/f13/package/wallpapoz.md" >}}) | 395 | 395 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [watchdog]({{< ref "/f13/package/watchdog.md" >}}) | 97 | 97 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [wget]({{< ref "/f13/package/wget.md" >}}) | 2260 | 2260 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [wine]({{< ref "/f13/package/wine.md" >}}) | 11773 | 11773 | 100.0 | none | 
- | [wormux]({{< ref "/f13/package/wormux.md" >}}) | 1916 | 1916 | 100.0 | Japanese (Japan) <akicks@gmail.com> | 
- | [wxGTK]({{< ref "/f13/package/wxGTK.md" >}}) | 6497 | 6497 | 100.0 | Japanese <wx-translators@wxwindows.org> | 
- | [wxGlade]({{< ref "/f13/package/wxGlade.md" >}}) | 2012 | 2012 | 100.0 | ja <brian_nt@nifty.com> | 
- | [xarchiver]({{< ref "/f13/package/xarchiver.md" >}}) | 1131 | 1131 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xcdroast]({{< ref "/f13/package/xcdroast.md" >}}) | 8044 | 8044 | 100.0 | Japanese | 
- | [xdg-user-dirs-gtk]({{< ref "/f13/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Japanese Takeshi AIHANA <takeshi.aihana@gmail.com> | 
- | [xfburn]({{< ref "/f13/package/xfburn.md" >}}) | 1300 | 1300 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce-utils]({{< ref "/f13/package/xfce-utils.md" >}}) | 131 | 131 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-appfinder]({{< ref "/f13/package/xfce4-appfinder.md" >}}) | 84 | 84 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-clipman-plugin]({{< ref "/f13/package/xfce4-clipman-plugin.md" >}}) | 234 | 234 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-datetime-plugin]({{< ref "/f13/package/xfce4-datetime-plugin.md" >}}) | 53 | 53 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfce4-fsguard-plugin]({{< ref "/f13/package/xfce4-fsguard-plugin.md" >}}) | 64 | 64 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-icon-theme]({{< ref "/f13/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-mixer]({{< ref "/f13/package/xfce4-mixer.md" >}}) | 181 | 181 | 100.0 | xfce-i18n@xfce.org <LL@li.org> | 
- | [xfce4-mpc-plugin]({{< ref "/f13/package/xfce4-mpc-plugin.md" >}}) | 80 | 80 | 100.0 | Japanese <xfce-i18n@xfce.org@xfce.org> | 
- | [xfce4-netload-plugin]({{< ref "/f13/package/xfce4-netload-plugin.md" >}}) | 68 | 68 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfce4-notes-plugin]({{< ref "/f13/package/xfce4-notes-plugin.md" >}}) | 114 | 114 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfce4-panel]({{< ref "/f13/package/xfce4-panel.md" >}}) | 540 | 540 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-places-plugin]({{< ref "/f13/package/xfce4-places-plugin.md" >}}) | 75 | 75 | 100.0 |  | 
- | [xfce4-power-manager]({{< ref "/f13/package/xfce4-power-manager.md" >}}) | 694 | 694 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-radio-plugin]({{< ref "/f13/package/xfce4-radio-plugin.md" >}}) | 52 | 52 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfce4-screenshooter]({{< ref "/f13/package/xfce4-screenshooter.md" >}}) | 448 | 448 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-session]({{< ref "/f13/package/xfce4-session.md" >}}) | 988 | 988 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-settings]({{< ref "/f13/package/xfce4-settings.md" >}}) | 1138 | 1138 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-systemload-plugin]({{< ref "/f13/package/xfce4-systemload-plugin.md" >}}) | 63 | 63 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-taskmanager]({{< ref "/f13/package/xfce4-taskmanager.md" >}}) | 156 | 156 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-timer-plugin]({{< ref "/f13/package/xfce4-timer-plugin.md" >}}) | 94 | 94 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-verve-plugin]({{< ref "/f13/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfce4-wavelan-plugin]({{< ref "/f13/package/xfce4-wavelan-plugin.md" >}}) | 49 | 49 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-weather-plugin]({{< ref "/f13/package/xfce4-weather-plugin.md" >}}) | 555 | 555 | 100.0 | Dansk <dansk@dansk-gruppen.dk> | 
- | [xfce4-websearch-plugin]({{< ref "/f13/package/xfce4-websearch-plugin.md" >}}) | 13 | 13 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [xfce4-xfapplet-plugin]({{< ref "/f13/package/xfce4-xfapplet-plugin.md" >}}) | 84 | 84 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfce4-xfswitch-plugin]({{< ref "/f13/package/xfce4-xfswitch-plugin.md" >}}) | 20 | 20 | 100.0 | Japanese | 
- | [xfce4-xkb-plugin]({{< ref "/f13/package/xfce4-xkb-plugin.md" >}}) | 64 | 64 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfconf]({{< ref "/f13/package/xfconf.md" >}}) | 431 | 431 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
- | [xfdesktop]({{< ref "/f13/package/xfdesktop.md" >}}) | 1002 | 1002 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfprint]({{< ref "/f13/package/xfprint.md" >}}) | 337 | 337 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [xfwm4]({{< ref "/f13/package/xfwm4.md" >}}) | 797 | 797 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [yelp]({{< ref "/f13/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [zenity]({{< ref "/f13/package/zenity.md" >}}) | 579 | 579 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-user-docs]({{< ref "/f13/package/gnome-user-docs.md" >}}) | 57771 | 57779 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
- | [gimp]({{< ref "/f13/package/gimp.md" >}}) | 26050 | 26056 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [control-center]({{< ref "/f13/package/control-center.md" >}}) | 3474 | 3475 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gallery2]({{< ref "/f13/package/gallery2.md" >}}) | 17786 | 17793 | 100.0 | Japanese <gallery-devel@lists.sourceforge.net> | 
- | [boinc-client]({{< ref "/f13/package/boinc-client.md" >}}) | 4128 | 4130 | 100.0 |  | 
- | [scim-anthy]({{< ref "/f13/package/scim-anthy.md" >}}) | 1915 | 1916 | 99.9 | Japanese <ja@li.org> | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 3342 | 3344 | 99.9 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [kazehakase]({{< ref "/f13/package/kazehakase.md" >}}) | 1886 | 1889 | 99.8 | Takuro Ashie <ashie@homa.ne.jp> | 
- | [g2ipmsg]({{< ref "/f13/package/g2ipmsg.md" >}}) | 2165 | 2169 | 99.8 | LANGUAGE <LL@li.org> | 
- | [R]({{< ref "/f13/package/R.md" >}}) | 18804 | 18842 | 99.8 | R-core <R-core@R-project.org> | 
- | [regexxer]({{< ref "/f13/package/regexxer.md" >}}) | 466 | 467 | 99.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gqview]({{< ref "/f13/package/gqview.md" >}}) | 1717 | 1721 | 99.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-disk-utility]({{< ref "/f13/package/gnome-disk-utility.md" >}}) | 4531 | 4542 | 99.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gambas]({{< ref "/f13/package/gambas.md" >}}) | 2446 | 2452 | 99.8 | LANGUAGE <LL@li.org> | 
- | [e16]({{< ref "/f13/package/e16.md" >}}) | 2780 | 2787 | 99.7 | Japanese <ja@li.org> | 
- | [system-config-printer]({{< ref "/f13/package/system-config-printer.md" >}}) | 3102 | 3110 | 99.7 | LANGUAGE <LL@li.org> | 
- | [kiconedit]({{< ref "/f13/package/kiconedit.md" >}}) | 724 | 726 | 99.7 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [file-roller]({{< ref "/f13/package/file-roller.md" >}}) | 1366 | 1370 | 99.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [inkscape]({{< ref "/f13/package/inkscape.md" >}}) | 23953 | 24029 | 99.7 | Japanese <inkscape-translator@lists.sourceforge.net> | 
- | [moin]({{< ref "/f13/package/moin.md" >}}) | 4955 | 4971 | 99.7 |  | 
- | [blender]({{< ref "/f13/package/blender.md" >}}) | 19243 | 19311 | 99.6 |  | 
- | [celestia]({{< ref "/f13/package/celestia.md" >}}) | 1887 | 1894 | 99.6 | Japanese | 
- | [krecipes]({{< ref "/f13/package/krecipes.md" >}}) | 3075 | 3087 | 99.6 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [pgadmin3]({{< ref "/f13/package/pgadmin3.md" >}}) | 9636 | 9676 | 99.6 | pgadmin3 <z-saito@guitar.ocn.ne.jp> | 
- | [ghex]({{< ref "/f13/package/ghex.md" >}}) | 2753 | 2765 | 99.6 | LANGUAGE <LL@li.org> | 
- | [emerald]({{< ref "/f13/package/emerald.md" >}}) | 770 | 774 | 99.5 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [ncpfs]({{< ref "/f13/package/ncpfs.md" >}}) | 5632 | 5666 | 99.4 | Novell Language <language@novell.com> | 
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 3530 | 3552 | 99.4 | LANGUAGE <LL@li.org> | 
- | [sweep]({{< ref "/f13/package/sweep.md" >}}) | 2384 | 2399 | 99.4 | Puppy Linux Japanese | 
- | [rabbitvcs]({{< ref "/f13/package/rabbitvcs.md" >}}) | 925 | 931 | 99.4 | Japanese <ja@li.org> | 
- | [logjam]({{< ref "/f13/package/logjam.md" >}}) | 2154 | 2169 | 99.3 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [claws-mail]({{< ref "/f13/package/claws-mail.md" >}}) | 14565 | 14690 | 99.1 | kentaro kazuhama <kazken3@gmail.com> | 
- | [rawstudio]({{< ref "/f13/package/rawstudio.md" >}}) | 1514 | 1527 | 99.1 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [mtpaint]({{< ref "/f13/package/mtpaint.md" >}}) | 3038 | 3065 | 99.1 | Puppy Linux Japanese | 
- | [grip]({{< ref "/f13/package/grip.md" >}}) | 1037 | 1047 | 99.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gq]({{< ref "/f13/package/gq.md" >}}) | 2634 | 2660 | 99.0 | Japanese - common <LL@li.org> | 
- | [bzr-explorer]({{< ref "/f13/package/bzr-explorer.md" >}}) | 1560 | 1576 | 99.0 | Japanese <ja@li.org> | 
- | [mkvtoolnix]({{< ref "/f13/package/mkvtoolnix.md" >}}) | 16672 | 16843 | 99.0 | Japanese <zuntakapokoten@gmail.com> | 
- | [epdfview]({{< ref "/f13/package/epdfview.md" >}}) | 478 | 483 | 99.0 | nyu <nyu_8804@yahoo.co.jp> | 
- | [ochusha]({{< ref "/f13/package/ochusha.md" >}}) | 2871 | 2903 | 98.9 | ochusha-developers <ochusha-developers@lists.sourceforge.jp> | 
- | [wxPython]({{< ref "/f13/package/wxPython.md" >}}) | 8663 | 8772 | 98.8 | Japanese <wx-translators@wxwindows.org> | 
- | [straw]({{< ref "/f13/package/straw.md" >}}) | 514 | 521 | 98.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [tomoe]({{< ref "/f13/package/tomoe.md" >}}) | 73 | 74 | 98.6 | Tomoe project | 
- | [gvfs]({{< ref "/f13/package/gvfs.md" >}}) | 1909 | 1936 | 98.6 | Japanese <takeshi.aihana@gmail.com> | 
- | [perl-Locale-Msgfmt]({{< ref "/f13/package/perl-Locale-Msgfmt.md" >}}) | 1243 | 1262 | 98.5 | Japanese | 
- | [tumbler]({{< ref "/f13/package/tumbler.md" >}}) | 241 | 245 | 98.4 | Japanese | 
- | [poedit]({{< ref "/f13/package/poedit.md" >}}) | 1143 | 1162 | 98.4 | ja <masapon@dream.com> | 
- | [banshee]({{< ref "/f13/package/banshee.md" >}}) | 5157 | 5245 | 98.3 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [kde-l10n]({{< ref "/f13/package/kde-l10n.md" >}}) | 4667 | 4748 | 98.3 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [eog]({{< ref "/f13/package/eog.md" >}}) | 3062 | 3116 | 98.3 | LANGUAGE <LL@li.org> | 
- | [tar]({{< ref "/f13/package/tar.md" >}}) | 3185 | 3247 | 98.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [rapidsvn]({{< ref "/f13/package/rapidsvn.md" >}}) | 1391 | 1419 | 98.0 | Hisateru Tanaka <tanakahisateru@gmail.com> | 
- | [uim]({{< ref "/f13/package/uim.md" >}}) | 5023 | 5127 | 98.0 | Japanese <anthy-dev@lists.sourceforge.jp> | 
- | [mingw32-gettext]({{< ref "/f13/package/mingw32-gettext.md" >}}) | 6700 | 6844 | 97.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gphoto2]({{< ref "/f13/package/gphoto2.md" >}}) | 1486 | 1519 | 97.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [proftpd]({{< ref "/f13/package/proftpd.md" >}}) | 814 | 833 | 97.7 | Taizo ITO <taizoster@gmail.com> | 
- | [kBuild]({{< ref "/f13/package/kBuild.md" >}}) | 493 | 505 | 97.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [seedit]({{< ref "/f13/package/seedit.md" >}}) | 426 | 437 | 97.5 |  | 
- | [kftpgrabber]({{< ref "/f13/package/kftpgrabber.md" >}}) | 2175 | 2237 | 97.2 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gtk2]({{< ref "/f13/package/gtk2.md" >}}) | 13315 | 13704 | 97.2 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [mingw32-gtk2]({{< ref "/f13/package/mingw32-gtk2.md" >}}) | 13315 | 13704 | 97.2 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [epiphany]({{< ref "/f13/package/epiphany.md" >}}) | 8673 | 8936 | 97.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [tuna]({{< ref "/f13/package/tuna.md" >}}) | 1302 | 1342 | 97.0 | Japanese <LL@li.org> | 
- | [xfmpc]({{< ref "/f13/package/xfmpc.md" >}}) | 126 | 130 | 96.9 | JAPANESE <xfce-i18n@xfce.org> | 
- | [gstreamer-plugins-base]({{< ref "/f13/package/gstreamer-plugins-base.md" >}}) | 646 | 667 | 96.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [easytag]({{< ref "/f13/package/easytag.md" >}}) | 5144 | 5315 | 96.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [kgrab]({{< ref "/f13/package/kgrab.md" >}}) | 358 | 370 | 96.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kdesvn]({{< ref "/f13/package/kdesvn.md" >}}) | 4079 | 4219 | 96.7 | 日本語 <kde-i18n-doc@kde.org> | 
- | [kreetingkard]({{< ref "/f13/package/kreetingkard.md" >}}) | 333 | 345 | 96.5 | LANGUAGE <LL@li.org> | 
- | [snownews]({{< ref "/f13/package/snownews.md" >}}) | 704 | 730 | 96.4 | Japanese <iwata@quasiquote.org> | 
- | [gambas2]({{< ref "/f13/package/gambas2.md" >}}) | 3192 | 3318 | 96.2 | LANGUAGE <LL@li.org> | 
- | [jpilot]({{< ref "/f13/package/jpilot.md" >}}) | 2237 | 2327 | 96.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [glib2]({{< ref "/f13/package/glib2.md" >}}) | 2424 | 2523 | 96.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [mingw32-glib2]({{< ref "/f13/package/mingw32-glib2.md" >}}) | 2424 | 2523 | 96.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [parted]({{< ref "/f13/package/parted.md" >}}) | 4860 | 5066 | 95.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [Django]({{< ref "/f13/package/Django.md" >}}) | 3548 | 3715 | 95.5 | Japanese <django-ja@googlegroups.com> | 
- | [soundtracker]({{< ref "/f13/package/soundtracker.md" >}}) | 1569 | 1648 | 95.2 | Debian Japanese project <debian-japanese@lists.debian.org> | 
- | [abrt]({{< ref "/f13/package/abrt.md" >}}) | 1552 | 1631 | 95.2 | Japanese <jp@li.org> | 
- | [gcalctool]({{< ref "/f13/package/gcalctool.md" >}}) | 6139 | 6462 | 95.0 | LANGUAGE <LL@li.org> | 
- | [evolution]({{< ref "/f13/package/evolution.md" >}}) | 21184 | 22319 | 94.9 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [xine-ui]({{< ref "/f13/package/xine-ui.md" >}}) | 2813 | 2975 | 94.6 | Japanese <ja@li.org> | 
- | [scim-tables]({{< ref "/f13/package/scim-tables.md" >}}) | 1090 | 1153 | 94.5 | Japanese <ja@li.org> | 
- | [gedit]({{< ref "/f13/package/gedit.md" >}}) | 12118 | 12830 | 94.5 | Japanese <LL@li.org> | 
- | [clamtk]({{< ref "/f13/package/clamtk.md" >}}) | 760 | 805 | 94.4 | Japanese <ja@li.org> | 
- | [publican-jboss]({{< ref "/f13/package/publican-jboss.md" >}}) | 100 | 106 | 94.3 | Japanese <fedora-trans-ja@redhat.com> | 
- | [filezilla]({{< ref "/f13/package/filezilla.md" >}}) | 8618 | 9145 | 94.2 | Tadashi Jokagi <elf@elf.no-ip.org> | 
- | [giggle]({{< ref "/f13/package/giggle.md" >}}) | 294 | 312 | 94.2 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f13/package/tuxpaint.md" >}}) | 1175 | 1247 | 94.2 | japanese <shin1@wmail.plala.or.jp> | 
- | [gnochm]({{< ref "/f13/package/gnochm.md" >}}) | 547 | 581 | 94.1 | LANGUAGE <LL@li.org> | 
- | [kopete-cryptography]({{< ref "/f13/package/kopete-cryptography.md" >}}) | 384 | 408 | 94.1 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [metacity]({{< ref "/f13/package/metacity.md" >}}) | 3596 | 3821 | 94.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [deskbar-applet]({{< ref "/f13/package/deskbar-applet.md" >}}) | 1570 | 1670 | 94.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [lincity-ng]({{< ref "/f13/package/lincity-ng.md" >}}) | 1807 | 1923 | 94.0 | MH35 <mh35jp@gmail.com> | 
- | [oggconvert]({{< ref "/f13/package/oggconvert.md" >}}) | 124 | 132 | 93.9 | Japanese <ja@li.org> | 
- | [claws-mail-plugins]({{< ref "/f13/package/claws-mail-plugins.md" >}}) | 3323 | 3538 | 93.9 | Japanese <ja@li.org> | 
- | [konq-plugins]({{< ref "/f13/package/konq-plugins.md" >}}) | 1589 | 1692 | 93.9 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gnome-keyring]({{< ref "/f13/package/gnome-keyring.md" >}}) | 1169 | 1246 | 93.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [pioneers]({{< ref "/f13/package/pioneers.md" >}}) | 2394 | 2554 | 93.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [virt-manager]({{< ref "/f13/package/virt-manager.md" >}}) | 4078 | 4353 | 93.7 | Japanese <jp@li.org> | 
- | [mutt]({{< ref "/f13/package/mutt.md" >}}) | 5031 | 5377 | 93.6 | mutt-j <mutt-j-users@lists.sourceforge.jp> | 
- | [enlightenment]({{< ref "/f13/package/enlightenment.md" >}}) | 5593 | 5982 | 93.5 | E17-jp <LL@li.org> | 
- | [WindowMaker]({{< ref "/f13/package/WindowMaker.md" >}}) | 3981 | 4273 | 93.2 | Japanese | 
- | [xfce4-sensors-plugin]({{< ref "/f13/package/xfce4-sensors-plugin.md" >}}) | 322 | 346 | 93.1 | xfce-users-jp <xfce-users-jp@ml.fdiary.net> | 
- | [opensp]({{< ref "/f13/package/opensp.md" >}}) | 5364 | 5771 | 92.9 | Japanese <translation@gnome.gr.jp> | 
- | [sugar-physics]({{< ref "/f13/package/sugar-physics.md" >}}) | 26 | 28 | 92.9 | LANGUAGE <LL@li.org> | 
- | [xdg-user-dirs]({{< ref "/f13/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [easystroke]({{< ref "/f13/package/easystroke.md" >}}) | 473 | 511 | 92.6 | Japanese <ja@li.org> | 
- | [shared-mime-info]({{< ref "/f13/package/shared-mime-info.md" >}}) | 1283 | 1387 | 92.5 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lynx]({{< ref "/f13/package/lynx.md" >}}) | 7433 | 8049 | 92.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [xmms]({{< ref "/f13/package/xmms.md" >}}) | 3177 | 3443 | 92.3 | Japanese <ja@li.org> | 
- | [aumix]({{< ref "/f13/package/aumix.md" >}}) | 221 | 240 | 92.1 | Japanese <translation@gnome.gr.jp> | 
- | [sabayon]({{< ref "/f13/package/sabayon.md" >}}) | 677 | 736 | 92.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [xfce4-dict]({{< ref "/f13/package/xfce4-dict.md" >}}) | 461 | 502 | 91.8 | Japanese <xfce-i18n@xfce.org> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f13/package/gstreamer-plugins-bad-free.md" >}}) | 66 | 72 | 91.7 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [pinot]({{< ref "/f13/package/pinot.md" >}}) | 528 | 577 | 91.5 | Japanese <ja@li.org> | 
- | [gnome-libs]({{< ref "/f13/package/gnome-libs.md" >}}) | 2013 | 2207 | 91.2 | Japanese <translation@gnome.gr.jp> | 
- | [evince]({{< ref "/f13/package/evince.md" >}}) | 2880 | 3159 | 91.2 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gobby]({{< ref "/f13/package/gobby.md" >}}) | 797 | 876 | 91.0 | Chikahiro Masami <cmasa.z321@gmail.com> | 
- | [clementine]({{< ref "/f13/package/clementine.md" >}}) | 2341 | 2574 | 90.9 | LANGUAGE <LL@li.org> | 
- | [a2ps]({{< ref "/f13/package/a2ps.md" >}}) | 1374 | 1512 | 90.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [alexandria]({{< ref "/f13/package/alexandria.md" >}}) | 1073 | 1181 | 90.9 | Japanese Translators | 
- | [system-config-language]({{< ref "/f13/package/system-config-language.md" >}}) | 293 | 323 | 90.7 | Japanese <jp@li.org> | 
- | [policycoreutils]({{< ref "/f13/package/policycoreutils.md" >}}) | 1332 | 1470 | 90.6 | Japanese <fedora-trans-ja@redhat.com> | 
- | [kdetv]({{< ref "/f13/package/kdetv.md" >}}) | 1998 | 2206 | 90.6 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kdiff3]({{< ref "/f13/package/kdiff3.md" >}}) | 3088 | 3410 | 90.6 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gnome-panel]({{< ref "/f13/package/gnome-panel.md" >}}) | 4956 | 5488 | 90.3 | Japanese | 
- | [sos]({{< ref "/f13/package/sos.md" >}}) | 241 | 267 | 90.3 | Japanese <jp@li.org> | 
- | [kde-partitionmanager]({{< ref "/f13/package/kde-partitionmanager.md" >}}) | 2459 | 2732 | 90.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [koffice-kivio]({{< ref "/f13/package/koffice-kivio.md" >}}) | 7508 | 8417 | 89.2 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gkrellm]({{< ref "/f13/package/gkrellm.md" >}}) | 3371 | 3783 | 89.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [wdiff]({{< ref "/f13/package/wdiff.md" >}}) | 106 | 119 | 89.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [libktorrent]({{< ref "/f13/package/libktorrent.md" >}}) | 371 | 417 | 89.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [wesnoth]({{< ref "/f13/package/wesnoth.md" >}}) | 201170 | 226922 | 88.7 | Japanese Translation Team | 
- | [ktorrent]({{< ref "/f13/package/ktorrent.md" >}}) | 6678 | 7562 | 88.3 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kile]({{< ref "/f13/package/kile.md" >}}) | 9784 | 11114 | 88.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gtklp]({{< ref "/f13/package/gtklp.md" >}}) | 520 | 591 | 88.0 | Japanese <translation@gnome.gr.jp> | 
- | [pidgin-guifications]({{< ref "/f13/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 |  | 
- | [gftp]({{< ref "/f13/package/gftp.md" >}}) | 2953 | 3375 | 87.5 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gtk-gnutella]({{< ref "/f13/package/gtk-gnutella.md" >}}) | 11304 | 12925 | 87.5 | Japanese <gtk-gnutella-devel@lists.sourceforge.net> | 
- | [gawk]({{< ref "/f13/package/gawk.md" >}}) | 2277 | 2604 | 87.4 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gnome-applet-alarm-clock]({{< ref "/f13/package/gnome-applet-alarm-clock.md" >}}) | 364 | 417 | 87.3 | Japanese <ja@li.org> | 
- | [kita]({{< ref "/f13/package/kita.md" >}}) | 602 | 690 | 87.2 | <ja@li.org> | 
- | [make]({{< ref "/f13/package/make.md" >}}) | 1741 | 1997 | 87.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [setroubleshoot]({{< ref "/f13/package/setroubleshoot.md" >}}) | 488 | 563 | 86.7 | Japanese <jp@li.org> | 
- | [tortoisehg]({{< ref "/f13/package/tortoisehg.md" >}}) | 5451 | 6301 | 86.5 | Japanese <ja@li.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f13/package/kde-plasma-networkmanagement.md" >}}) | 2091 | 2422 | 86.3 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kmplayer]({{< ref "/f13/package/kmplayer.md" >}}) | 1076 | 1248 | 86.2 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gcompris]({{< ref "/f13/package/gcompris.md" >}}) | 8265 | 9596 | 86.1 |  | 
- | [rhn-client-tools]({{< ref "/f13/package/rhn-client-tools.md" >}}) | 4135 | 4820 | 85.8 | Japanese <fedora-trans-ja@redhat.com> | 
- | [audacious]({{< ref "/f13/package/audacious.md" >}}) | 1110 | 1297 | 85.6 | Japanese <ja@li.org> | 
- | [arm-gp2x-linux-binutils]({{< ref "/f13/package/arm-gp2x-linux-binutils.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [avr-binutils]({{< ref "/f13/package/avr-binutils.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [binutils]({{< ref "/f13/package/binutils.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [gcl]({{< ref "/f13/package/gcl.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [mingw32-binutils]({{< ref "/f13/package/mingw32-binutils.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [msp430-binutils]({{< ref "/f13/package/msp430-binutils.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [spu-binutils]({{< ref "/f13/package/spu-binutils.md" >}}) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
- | [gpointing-device-settings]({{< ref "/f13/package/gpointing-device-settings.md" >}}) | 144 | 169 | 85.2 | LANGUAGE <LL@li.org> | 
- | [gnome-power-manager]({{< ref "/f13/package/gnome-power-manager.md" >}}) | 2371 | 2786 | 85.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [workrave]({{< ref "/f13/package/workrave.md" >}}) | 998 | 1176 | 84.9 | Masanobu Yokota <masanobu.yokota@nifty.com> | 
- | [gnome-pilot-conduits]({{< ref "/f13/package/gnome-pilot-conduits.md" >}}) | 177 | 209 | 84.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [util-linux-ng]({{< ref "/f13/package/util-linux-ng.md" >}}) | 11952 | 14159 | 84.4 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [yum]({{< ref "/f13/package/yum.md" >}}) | 2143 | 2553 | 83.9 | Japanese <elf@elf.no-ip.org> | 
- | [rsibreak]({{< ref "/f13/package/rsibreak.md" >}}) | 1093 | 1304 | 83.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [apt]({{< ref "/f13/package/apt.md" >}}) | 3436 | 4113 | 83.5 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [kcoloredit]({{< ref "/f13/package/kcoloredit.md" >}}) | 232 | 278 | 83.5 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gnupg]({{< ref "/f13/package/gnupg.md" >}}) | 7189 | 8629 | 83.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [galculator]({{< ref "/f13/package/galculator.md" >}}) | 664 | 798 | 83.2 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gwget]({{< ref "/f13/package/gwget.md" >}}) | 128 | 154 | 83.1 | Japanese <ja@li.org> | 
- | [python-sphinx10]({{< ref "/f13/package/python-sphinx10.md" >}}) | 393 | 474 | 82.9 | ja <LL@li.org> | 
- | [shadow-utils]({{< ref "/f13/package/shadow-utils.md" >}}) | 2658 | 3221 | 82.5 | Japanese | 
- | [gparted]({{< ref "/f13/package/gparted.md" >}}) | 1424 | 1733 | 82.2 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [lxdm]({{< ref "/f13/package/lxdm.md" >}}) | 9 | 11 | 81.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [rpm]({{< ref "/f13/package/rpm.md" >}}) | 3149 | 3851 | 81.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [alsa-utils]({{< ref "/f13/package/alsa-utils.md" >}}) | 1739 | 2135 | 81.5 | Japanese <LL@li.org> | 
- | [kicad]({{< ref "/f13/package/kicad.md" >}}) | 10101 | 12443 | 81.2 | KiCad Developers <midpika@hotmail.com> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f13/package/xfce4-mailwatch-plugin.md" >}}) | 534 | 659 | 81.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [soundconverter]({{< ref "/f13/package/soundconverter.md" >}}) | 362 | 450 | 80.4 | Japanese <ja@li.org> | 
- | [subversion]({{< ref "/f13/package/subversion.md" >}}) | 14300 | 17903 | 79.9 | Japanese <dev@subversion.tigris.org> | 
- | [aria2]({{< ref "/f13/package/aria2.md" >}}) | 3685 | 4630 | 79.6 | Japanese <ja@li.org> | 
- | [abook]({{< ref "/f13/package/abook.md" >}}) | 578 | 727 | 79.5 | japanese | 
- | [kmess]({{< ref "/f13/package/kmess.md" >}}) | 5851 | 7402 | 79.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [guake]({{< ref "/f13/package/guake.md" >}}) | 413 | 523 | 79.0 | guake@lists.guake.org | 
- | [geany-plugins]({{< ref "/f13/package/geany-plugins.md" >}}) | 2625 | 3332 | 78.8 | Japanese | 
- | [gnucash]({{< ref "/f13/package/gnucash.md" >}}) | 20608 | 26312 | 78.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [ufraw]({{< ref "/f13/package/ufraw.md" >}}) | 1663 | 2139 | 77.7 | Japanese <tyaoknok@gmail.com> | 
- | [emelfm2]({{< ref "/f13/package/emelfm2.md" >}}) | 4598 | 5932 | 77.5 | Japanese <ja@li.org> | 
- | [indent]({{< ref "/f13/package/indent.md" >}}) | 210 | 272 | 77.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [homebank]({{< ref "/f13/package/homebank.md" >}}) | 1163 | 1509 | 77.1 | Team Puppy Linux Japanese | 
- | [drgeo]({{< ref "/f13/package/drgeo.md" >}}) | 1525 | 1985 | 76.8 | Japanese <translation@gnome.gr.jp> | 
- | [sed]({{< ref "/f13/package/sed.md" >}}) | 445 | 581 | 76.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [quodlibet]({{< ref "/f13/package/quodlibet.md" >}}) | 1525 | 2001 | 76.2 | Japanese | 
- | [sugar-memorize]({{< ref "/f13/package/sugar-memorize.md" >}}) | 38 | 50 | 76.0 | LANGUAGE <LL@li.org> | 
- | [wxMaxima]({{< ref "/f13/package/wxMaxima.md" >}}) | 2171 | 2857 | 76.0 |  | 
- | [gnome-applet-window-picker]({{< ref "/f13/package/gnome-applet-window-picker.md" >}}) | 22 | 29 | 75.9 | Japanese | 
- | [kpackagekit]({{< ref "/f13/package/kpackagekit.md" >}}) | 2721 | 3590 | 75.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [psad]({{< ref "/f13/package/psad.md" >}}) | 327 | 432 | 75.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [yumex]({{< ref "/f13/package/yumex.md" >}}) | 570 | 754 | 75.6 | Japanese <jp@li.org> | 
- | [sugar-turtleart]({{< ref "/f13/package/sugar-turtleart.md" >}}) | 588 | 779 | 75.5 | LANGUAGE <walter@sugarlabs.org> | 
- | [quilt]({{< ref "/f13/package/quilt.md" >}}) | 2400 | 3181 | 75.4 | Quilt | 
- | [knemo]({{< ref "/f13/package/knemo.md" >}}) | 892 | 1186 | 75.2 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [asunder]({{< ref "/f13/package/asunder.md" >}}) | 338 | 450 | 75.1 | Japanese <ja@li.org> | 
- | [python-sphinx]({{< ref "/f13/package/python-sphinx.md" >}}) | 297 | 397 | 74.8 | ja <LL@li.org> | 
- | [goocanvas]({{< ref "/f13/package/goocanvas.md" >}}) | 1242 | 1697 | 73.2 |  | 
- | [stellarium]({{< ref "/f13/package/stellarium.md" >}}) | 1761 | 2407 | 73.2 | Japanese <ja@li.org> | 
- | [sakura]({{< ref "/f13/package/sakura.md" >}}) | 109 | 149 | 73.2 | Japanese <ja@li.org> | 
- | [psmisc]({{< ref "/f13/package/psmisc.md" >}}) | 510 | 699 | 73.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [nautilus-actions]({{< ref "/f13/package/nautilus-actions.md" >}}) | 1132 | 1554 | 72.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [audacious-plugins]({{< ref "/f13/package/audacious-plugins.md" >}}) | 6445 | 8861 | 72.7 | Japanese <ja@li.org> | 
- | [libgpod]({{< ref "/f13/package/libgpod.md" >}}) | 672 | 934 | 71.9 | n/a | 
- | [hugin]({{< ref "/f13/package/hugin.md" >}}) | 3780 | 5261 | 71.8 | N/A | 
- | [minicom]({{< ref "/f13/package/minicom.md" >}}) | 1227 | 1716 | 71.5 | Japanese | 
- | [mercurial]({{< ref "/f13/package/mercurial.md" >}}) | 24157 | 34081 | 70.9 | Japanese | 
- | [twitux]({{< ref "/f13/package/twitux.md" >}}) | 407 | 575 | 70.8 |  | 
- | [python-formencode]({{< ref "/f13/package/python-formencode.md" >}}) | 540 | 765 | 70.6 | ja <LL@li.org> | 
- | [synaptic]({{< ref "/f13/package/synaptic.md" >}}) | 2277 | 3231 | 70.5 | Project Vine <Vine@vinelinux.org> | 
- | [shutter]({{< ref "/f13/package/shutter.md" >}}) | 1931 | 2763 | 69.9 | Japanese | 
- | [kphotoalbum]({{< ref "/f13/package/kphotoalbum.md" >}}) | 4418 | 6333 | 69.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [amarok]({{< ref "/f13/package/amarok.md" >}}) | 8371 | 12039 | 69.5 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [xchat]({{< ref "/f13/package/xchat.md" >}}) | 3450 | 5027 | 68.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [skanlite]({{< ref "/f13/package/skanlite.md" >}}) | 97 | 142 | 68.3 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gtk-recordmydesktop]({{< ref "/f13/package/gtk-recordmydesktop.md" >}}) | 553 | 816 | 67.8 |  | 
- | [qt-recordmydesktop]({{< ref "/f13/package/qt-recordmydesktop.md" >}}) | 553 | 816 | 67.8 |  | 
- | [liblicense]({{< ref "/f13/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [konversation]({{< ref "/f13/package/konversation.md" >}}) | 6753 | 10183 | 66.3 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [googsystray]({{< ref "/f13/package/googsystray.md" >}}) | 503 | 759 | 66.3 | Japanese Team <lagfer@youck.org> | 
- | [network-manager-netbook]({{< ref "/f13/package/network-manager-netbook.md" >}}) | 243 | 369 | 65.9 | Novell Language <language@novell.com> | 
- | [k3b]({{< ref "/f13/package/k3b.md" >}}) | 13404 | 20429 | 65.6 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gtg]({{< ref "/f13/package/gtg.md" >}}) | 1173 | 1788 | 65.6 |  | 
- | [xfce4-quicklauncher-plugin]({{< ref "/f13/package/xfce4-quicklauncher-plugin.md" >}}) | 28 | 43 | 65.1 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [avr-gdb]({{< ref "/f13/package/avr-gdb.md" >}}) | 2156 | 3375 | 63.9 | Japanese <ja@li.org> | 
- | [gdb]({{< ref "/f13/package/gdb.md" >}}) | 2156 | 3375 | 63.9 | Japanese <ja@li.org> | 
- | [insight]({{< ref "/f13/package/insight.md" >}}) | 2156 | 3375 | 63.9 | Japanese <ja@li.org> | 
- | [gpa]({{< ref "/f13/package/gpa.md" >}}) | 1296 | 2042 | 63.5 | Japanese <gnupg-i18n@gnupg.org> | 
- | [texlive]({{< ref "/f13/package/texlive.md" >}}) | 2776 | 4382 | 63.4 | Japanese <ja@li.org> | 
- | [xsane]({{< ref "/f13/package/xsane.md" >}}) | 2037 | 3224 | 63.2 |  | 
- | [digikam]({{< ref "/f13/package/digikam.md" >}}) | 14900 | 23653 | 63.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [etoys]({{< ref "/f13/package/etoys.md" >}}) | 17162 | 27474 | 62.5 |  | 
- | [frozen-bubble]({{< ref "/f13/package/frozen-bubble.md" >}}) | 436 | 698 | 62.5 | Japanese | 
- | [eboard]({{< ref "/f13/package/eboard.md" >}}) | 1380 | 2211 | 62.4 |  | 
- | [gnome-do]({{< ref "/f13/package/gnome-do.md" >}}) | 293 | 470 | 62.3 | Japanese <ja@li.org> | 
- | [sharutils]({{< ref "/f13/package/sharutils.md" >}}) | 652 | 1048 | 62.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [pidgin]({{< ref "/f13/package/pidgin.md" >}}) | 11622 | 18730 | 62.1 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [im-chooser]({{< ref "/f13/package/im-chooser.md" >}}) | 132 | 213 | 62.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [gstreamer-plugins-good]({{< ref "/f13/package/gstreamer-plugins-good.md" >}}) | 459 | 750 | 61.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [mailody]({{< ref "/f13/package/mailody.md" >}}) | 476 | 783 | 60.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [balsa]({{< ref "/f13/package/balsa.md" >}}) | 3249 | 5348 | 60.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [thunar-archive-plugin]({{< ref "/f13/package/thunar-archive-plugin.md" >}}) | 52 | 86 | 60.5 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [libgphoto2]({{< ref "/f13/package/libgphoto2.md" >}}) | 6301 | 10541 | 59.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [sane-backends]({{< ref "/f13/package/sane-backends.md" >}}) | 2567 | 4356 | 58.9 | Japanese <japanese@li.org> | 
- | [granule]({{< ref "/f13/package/granule.md" >}}) | 206 | 355 | 58.0 | Japanese | 
- | [yum-rhn-plugin]({{< ref "/f13/package/yum-rhn-plugin.md" >}}) | 62 | 107 | 57.9 | Japanese <fedora-trans-ja@redhat.com> | 
- | [pybliographer]({{< ref "/f13/package/pybliographer.md" >}}) | 562 | 971 | 57.9 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [pybackpack]({{< ref "/f13/package/pybackpack.md" >}}) | 642 | 1115 | 57.6 | Tomoe Sugihara <first dot last at gmail > | 
- | [gdesklets]({{< ref "/f13/package/gdesklets.md" >}}) | 870 | 1528 | 56.9 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [bittorrent]({{< ref "/f13/package/bittorrent.md" >}}) | 2177 | 3904 | 55.8 | LANGUAGE <LL@li.org> | 
- | [gnupg2]({{< ref "/f13/package/gnupg2.md" >}}) | 5827 | 10451 | 55.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [blueman]({{< ref "/f13/package/blueman.md" >}}) | 764 | 1376 | 55.5 | Japanese <ja@li.org> | 
- | [choqok]({{< ref "/f13/package/choqok.md" >}}) | 1023 | 1854 | 55.2 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [geeqie]({{< ref "/f13/package/geeqie.md" >}}) | 1593 | 2909 | 54.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [compat-gcc-32]({{< ref "/f13/package/compat-gcc-32.md" >}}) | 16180 | 29557 | 54.7 | Japanese <ja@li.org> | 
- | [msp430-gcc]({{< ref "/f13/package/msp430-gcc.md" >}}) | 16180 | 29557 | 54.7 | Japanese <ja@li.org> | 
- | [hello]({{< ref "/f13/package/hello.md" >}}) | 95 | 174 | 54.6 | Japanese <ja@li.org> | 
- | [xchat-gnome]({{< ref "/f13/package/xchat-gnome.md" >}}) | 2104 | 3901 | 53.9 | Japanese <translation@gnome.gr.jp> | 
- | [elfutils]({{< ref "/f13/package/elfutils.md" >}}) | 4170 | 7743 | 53.9 | Japanese <jp@li.org> | 
- | [Zim]({{< ref "/f13/package/Zim.md" >}}) | 671 | 1247 | 53.8 | Japanese <ja@li.org> | 
- | [nbtk]({{< ref "/f13/package/nbtk.md" >}}) | 47 | 88 | 53.4 |  | 
- | [ipa]({{< ref "/f13/package/ipa.md" >}}) | 308 | 580 | 53.1 | LANGUAGE <LL@li.org> | 
- | [phpldapadmin]({{< ref "/f13/package/phpldapadmin.md" >}}) | 1813 | 3441 | 52.7 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
- | [transmission]({{< ref "/f13/package/transmission.md" >}}) | 865 | 1642 | 52.7 | Japanese <ja@li.org> | 
- | [pinfo]({{< ref "/f13/package/pinfo.md" >}}) | 169 | 321 | 52.6 | Japanese <ja@li.org> | 
- | [gnome-pilot]({{< ref "/f13/package/gnome-pilot.md" >}}) | 862 | 1644 | 52.4 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [squirrelmail]({{< ref "/f13/package/squirrelmail.md" >}}) | 4668 | 9186 | 50.8 | Japanese <squirrelmail-i18n@lists.sourceforge.net> | 
- | [yakuake]({{< ref "/f13/package/yakuake.md" >}}) | 654 | 1288 | 50.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gcombust]({{< ref "/f13/package/gcombust.md" >}}) | 2018 | 4009 | 50.3 | Japanese | 
- | [gxine]({{< ref "/f13/package/gxine.md" >}}) | 1347 | 2741 | 49.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gwibber]({{< ref "/f13/package/gwibber.md" >}}) | 22 | 45 | 48.9 | Japanese <ja@li.org> | 
- | [kpilot]({{< ref "/f13/package/kpilot.md" >}}) | 3460 | 7156 | 48.4 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kipi-plugins]({{< ref "/f13/package/kipi-plugins.md" >}}) | 7682 | 16077 | 47.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [gwaei]({{< ref "/f13/package/gwaei.md" >}}) | 558 | 1169 | 47.7 | Not Applicable | 
- | [fuse-encfs]({{< ref "/f13/package/fuse-encfs.md" >}}) | 623 | 1315 | 47.4 | Japanese <ja@li.org> | 
- | [mingw32-libidn]({{< ref "/f13/package/mingw32-libidn.md" >}}) | 189 | 413 | 45.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [dpkg]({{< ref "/f13/package/dpkg.md" >}}) | 17147 | 37520 | 45.7 | Debian Japanease List <debian-japanese@lists.debian.org> | 
- | [goffice]({{< ref "/f13/package/goffice.md" >}}) | 2070 | 4599 | 45.0 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [hamster-applet]({{< ref "/f13/package/hamster-applet.md" >}}) | 246 | 553 | 44.5 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [CableSwig]({{< ref "/f13/package/CableSwig.md" >}}) | 505 | 1140 | 44.3 | Japanese <ja@li.org> | 
- | [gccxml]({{< ref "/f13/package/gccxml.md" >}}) | 505 | 1140 | 44.3 | Japanese <ja@li.org> | 
- | [transifex]({{< ref "/f13/package/transifex.md" >}}) | 2021 | 4658 | 43.4 | Japanese <fedora-trans-ja@redhat.com> | 
- | [nesc]({{< ref "/f13/package/nesc.md" >}}) | 499 | 1178 | 42.4 | Japanese <ja@li.org> | 
- | [gnome-video-effects]({{< ref "/f13/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gnome-commander]({{< ref "/f13/package/gnome-commander.md" >}}) | 3521 | 8348 | 42.2 | Japanese Translation Team <translation@gnome.gr.jp> | 
- | [system-config-boot]({{< ref "/f13/package/system-config-boot.md" >}}) | 50 | 119 | 42.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [listen]({{< ref "/f13/package/listen.md" >}}) | 747 | 1783 | 41.9 | Japanese <ja@li.org> | 
- | [gtkpod]({{< ref "/f13/package/gtkpod.md" >}}) | 2843 | 6813 | 41.7 | n/a | 
- | [txt2regex]({{< ref "/f13/package/txt2regex.md" >}}) | 115 | 277 | 41.5 | Japanese <LL@li.org> | 
- | [Miro]({{< ref "/f13/package/Miro.md" >}}) | 1358 | 3336 | 40.7 | Japanese <ja@li.org> | 
- | [libvirt]({{< ref "/f13/package/libvirt.md" >}}) | 7843 | 20183 | 38.9 | Japanese <jp@li.org> | 
- | [libidn]({{< ref "/f13/package/libidn.md" >}}) | 160 | 414 | 38.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [ibus-handwrite]({{< ref "/f13/package/ibus-handwrite.md" >}}) | 15 | 39 | 38.5 | ja <microcai@fedoraproject.org> | 
- | [geda-gaf]({{< ref "/f13/package/geda-gaf.md" >}}) | 700 | 1841 | 38.0 | japanese <ja@li.org> | 
- | [compat-libgda]({{< ref "/f13/package/compat-libgda.md" >}}) | 1922 | 5076 | 37.9 | Japanese <translation@gnome.gr.jp> | 
- | [publican-ovirt]({{< ref "/f13/package/publican-ovirt.md" >}}) | 107 | 288 | 37.2 | none | 
- | [byobu]({{< ref "/f13/package/byobu.md" >}}) | 65 | 177 | 36.7 | Japanese <ja@li.org> | 
- | [sitecopy]({{< ref "/f13/package/sitecopy.md" >}}) | 844 | 2300 | 36.7 | ja | 
- | [scim-hangul]({{< ref "/f13/package/scim-hangul.md" >}}) | 77 | 214 | 36.0 | Japanese <ja@li.org> | 
- | [avogadro]({{< ref "/f13/package/avogadro.md" >}}) | 1526 | 4262 | 35.8 | Japanese <ja@li.org> | 
- | [gnubg]({{< ref "/f13/package/gnubg.md" >}}) | 5891 | 16575 | 35.5 | Japanese <gnubg-ja@kinchan.com> | 
- | [gstreamer]({{< ref "/f13/package/gstreamer.md" >}}) | 646 | 1829 | 35.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [krename]({{< ref "/f13/package/krename.md" >}}) | 669 | 1926 | 34.7 | <ja@li.org> | 
- | [ocaml-gettext]({{< ref "/f13/package/ocaml-gettext.md" >}}) | 193 | 563 | 34.3 | Japanese | 
- | [compat-gcc-34]({{< ref "/f13/package/compat-gcc-34.md" >}}) | 10402 | 30879 | 33.7 | Japanese <ja@li.org> | 
- | [simple-scan]({{< ref "/f13/package/simple-scan.md" >}}) | 194 | 597 | 32.5 | Japanese <ja@li.org> | 
- | [monotone]({{< ref "/f13/package/monotone.md" >}}) | 3539 | 10925 | 32.4 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [rt3]({{< ref "/f13/package/rt3.md" >}}) | 2419 | 7473 | 32.4 | rt-devel <rt-devel@lists.bestpractical.com> | 
- | [krusader]({{< ref "/f13/package/krusader.md" >}}) | 2458 | 7736 | 31.8 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [glunarclock]({{< ref "/f13/package/glunarclock.md" >}}) | 71 | 226 | 31.4 | Japanese <ja@li.org> | 
- | [xfce4-mount-plugin]({{< ref "/f13/package/xfce4-mount-plugin.md" >}}) | 93 | 298 | 31.2 | Japanese <xfce-i18n@xfce.org> | 
- | [terminator]({{< ref "/f13/package/terminator.md" >}}) | 65 | 218 | 29.8 | Japanese <ja@li.org> | 
- | [python-virtinst]({{< ref "/f13/package/python-virtinst.md" >}}) | 1076 | 3627 | 29.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [referencer]({{< ref "/f13/package/referencer.md" >}}) | 259 | 879 | 29.5 | Japanese <ja@li.org> | 
- | [system-config-kdump]({{< ref "/f13/package/system-config-kdump.md" >}}) | 235 | 807 | 29.1 | Japanese <fedora-trans-ja@redhat.com> | 
- | [gurlchecker]({{< ref "/f13/package/gurlchecker.md" >}}) | 603 | 2083 | 28.9 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [yash]({{< ref "/f13/package/yash.md" >}}) | 2123 | 7488 | 28.4 | Japanese | 
- | [ipplan]({{< ref "/f13/package/ipplan.md" >}}) | 1354 | 4936 | 27.4 | Japanese <ja@li.org> | 
- | [tuxmath]({{< ref "/f13/package/tuxmath.md" >}}) | 288 | 1051 | 27.4 | Japanese <ja@li.org> | 
- | [notecase]({{< ref "/f13/package/notecase.md" >}}) | 314 | 1156 | 27.2 | NoteCase team | 
- | [gpsdrive]({{< ref "/f13/package/gpsdrive.md" >}}) | 676 | 2505 | 27.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [publican]({{< ref "/f13/package/publican.md" >}}) | 934 | 3463 | 27.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [cowbell]({{< ref "/f13/package/cowbell.md" >}}) | 173 | 646 | 26.8 | Japanese <bailey@tgpsolutions.com> | 
- | [cinepaint]({{< ref "/f13/package/cinepaint.md" >}}) | 1943 | 7453 | 26.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [exaile]({{< ref "/f13/package/exaile.md" >}}) | 704 | 2766 | 25.5 | Japanese <ja@li.org> | 
- | [coreutils]({{< ref "/f13/package/coreutils.md" >}}) | 4644 | 18529 | 25.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [kvirc]({{< ref "/f13/package/kvirc.md" >}}) | 5294 | 21503 | 24.6 | Japanese <elf@elf.no-ip.org> | 
- | [xfce4-volstatus-icon]({{< ref "/f13/package/xfce4-volstatus-icon.md" >}}) | 46 | 197 | 23.4 | Japanese <xfce-i18n@xfce.org> | 
- | [bison]({{< ref "/f13/package/bison.md" >}}) | 232 | 1012 | 22.9 | Japanese <ja@li.org> | 
- | [gnome-do-plugins]({{< ref "/f13/package/gnome-do-plugins.md" >}}) | 521 | 2323 | 22.4 | Japanese <ja@li.org> | 
- | [roundup]({{< ref "/f13/package/roundup.md" >}}) | 1079 | 4937 | 21.9 | Yasushi Iwata <iwata@know-net.co.jp> | 
- | [jmol]({{< ref "/f13/package/jmol.md" >}}) | 245 | 1136 | 21.6 | Japanese <ja@li.org> | 
- | [tomoe-gtk]({{< ref "/f13/package/tomoe-gtk.md" >}}) | 48 | 223 | 21.5 | Japanese <ja@li.org> | 
- | [calibre]({{< ref "/f13/package/calibre.md" >}}) | 4189 | 19998 | 20.9 | Japanese <ja@li.org> | 
- | [gnumeric]({{< ref "/f13/package/gnumeric.md" >}}) | 7199 | 35046 | 20.5 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [gutenprint]({{< ref "/f13/package/gutenprint.md" >}}) | 1968 | 9583 | 20.5 | Japanese <translation@gnome.gr.jp> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 1866 | 9310 | 20.0 | LANGUAGE <LL@li.org> | 
- | [icewm]({{< ref "/f13/package/icewm.md" >}}) | 268 | 1376 | 19.5 | Japanese | 
- | [mono]({{< ref "/f13/package/mono.md" >}}) | 1285 | 6716 | 19.1 |  | 
- | [quassel]({{< ref "/f13/package/quassel.md" >}}) | 802 | 4435 | 18.1 | 日本語 <Kdeveloper@kde.gr.jp> | 
- | [iso-codes]({{< ref "/f13/package/iso-codes.md" >}}) | 3373 | 19375 | 17.4 | Japanese | 
- | [avant-window-navigator]({{< ref "/f13/package/avant-window-navigator.md" >}}) | 288 | 1655 | 17.4 | Japanese <ja@li.org> | 
- | [xfce4-modemlights-plugin]({{< ref "/f13/package/xfce4-modemlights-plugin.md" >}}) | 22 | 136 | 16.2 | Japanese <xfce-users-jp@ml.fdiary.net> | 
- | [libexif]({{< ref "/f13/package/libexif.md" >}}) | 1098 | 6968 | 15.8 | Japanese <ja@li.org> | 
- | [kdbg]({{< ref "/f13/package/kdbg.md" >}}) | 136 | 866 | 15.7 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [kaffeine]({{< ref "/f13/package/kaffeine.md" >}}) | 86 | 548 | 15.7 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [csmash]({{< ref "/f13/package/csmash.md" >}}) | 42 | 291 | 14.4 | Cannon Smash development project <csmash@utmc.or.jp> | 
- | [arm-gp2x-linux-gcc]({{< ref "/f13/package/arm-gp2x-linux-gcc.md" >}}) | 5862 | 41043 | 14.3 | Japanese <ja@li.org> | 
- | [pan]({{< ref "/f13/package/pan.md" >}}) | 318 | 2288 | 13.9 | Japanese <translation@gnome.gr.jp> | 
- | [mypaint]({{< ref "/f13/package/mypaint.md" >}}) | 263 | 1916 | 13.7 |  | 
- | [xiphos]({{< ref "/f13/package/xiphos.md" >}}) | 462 | 3815 | 12.1 | Japanese <ja@li.org> | 
- | [xscreensaver]({{< ref "/f13/package/xscreensaver.md" >}}) | 1204 | 10165 | 11.8 |  | 
- | [conglomerate]({{< ref "/f13/package/conglomerate.md" >}}) | 740 | 6317 | 11.7 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [linphone]({{< ref "/f13/package/linphone.md" >}}) | 166 | 1440 | 11.5 | <ja@li.org> | 
- | [specspo]({{< ref "/f13/package/specspo.md" >}}) | 34935 | 305294 | 11.4 | Japanese <jp@li.org> | 
- | [findutils]({{< ref "/f13/package/findutils.md" >}}) | 236 | 2105 | 11.2 | Japanese <ja@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f13/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Japanese <xfce-i18n@xfce.org> | 
- | [ghdl]({{< ref "/f13/package/ghdl.md" >}}) | 5408 | 49908 | 10.8 | Japanese <ja@li.org> | 
- | [m17n-db]({{< ref "/f13/package/m17n-db.md" >}}) | 107 | 995 | 10.8 | ja <ja@li.org> | 
- | [subdownloader]({{< ref "/f13/package/subdownloader.md" >}}) | 100 | 968 | 10.3 | LANGUAGE <LL@li.org> | 
- | [gcc]({{< ref "/f13/package/gcc.md" >}}) | 5365 | 53910 | 10.0 | Japanese <ja@li.org> | 
- | [mingw32-gcc]({{< ref "/f13/package/mingw32-gcc.md" >}}) | 5365 | 53910 | 10.0 | Japanese <ja@li.org> | 
- | [cairo-clock]({{< ref "/f13/package/cairo-clock.md" >}}) | 270 | 2761 | 9.8 | Japanese <gnome-translation@gnome.gr.jp> | 
- | [avr-gcc]({{< ref "/f13/package/avr-gcc.md" >}}) | 5230 | 59095 | 8.9 | Japanese <ja@li.org> | 
- | [pidgin-sipe]({{< ref "/f13/package/pidgin-sipe.md" >}}) | 59 | 678 | 8.7 | Novell Language <language@novell.com> | 
- | [gourmet]({{< ref "/f13/package/gourmet.md" >}}) | 280 | 3647 | 7.7 | Japanese <ja@li.org> | 
- | [grep]({{< ref "/f13/package/grep.md" >}}) | 63 | 827 | 7.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gnotime]({{< ref "/f13/package/gnotime.md" >}}) | 127 | 2008 | 6.3 | Japanese <translation@gnome.gr.jp> | 
- | [open-cobol]({{< ref "/f13/package/open-cobol.md" >}}) | 92 | 1629 | 5.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [awn-extras-applets]({{< ref "/f13/package/awn-extras-applets.md" >}}) | 390 | 7205 | 5.4 | Japanese <ja@li.org> | 
- | [pyroom]({{< ref "/f13/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Japanese <ja@li.org> | 
- | [neon]({{< ref "/f13/package/neon.md" >}}) | 32 | 674 | 4.7 | ja | 
- | [libgda]({{< ref "/f13/package/libgda.md" >}}) | 336 | 7730 | 4.3 | Japanese <translation@gnome.gr.jp> | 
- | [decibel-audio-player]({{< ref "/f13/package/decibel-audio-player.md" >}}) | 64 | 1494 | 4.3 | Japanese <ja@li.org> | 
- | [gnash]({{< ref "/f13/package/gnash.md" >}}) | 369 | 8748 | 4.2 | Japanese <ja@li.org> | 
- | [jpoker]({{< ref "/f13/package/jpoker.md" >}}) | 15 | 357 | 4.2 | french <fr@li.org> | 
- | [dc3dd]({{< ref "/f13/package/dc3dd.md" >}}) | 38 | 932 | 4.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [lilypond]({{< ref "/f13/package/lilypond.md" >}}) | 129 | 3241 | 4.0 | Japanese <ja@li.org> | 
- | [widelands]({{< ref "/f13/package/widelands.md" >}}) | 409 | 10437 | 3.9 | Japanese <ja@li.org> | 
- | [bash]({{< ref "/f13/package/bash.md" >}}) | 393 | 10715 | 3.7 | Japanese <ja@li.org> | 
- | [ntfs-config]({{< ref "/f13/package/ntfs-config.md" >}}) | 13 | 357 | 3.6 | Japanese <ja@li.org> | 
- | [pastebinit]({{< ref "/f13/package/pastebinit.md" >}}) | 5 | 165 | 3.0 | Japanese <ja@li.org> | 
- | [viking]({{< ref "/f13/package/viking.md" >}}) | 53 | 1926 | 2.8 | Japanese <ja@li.org> | 
- | [rapid-photo-downloader]({{< ref "/f13/package/rapid-photo-downloader.md" >}}) | 52 | 1912 | 2.7 | Japanese <ja@li.org> | 
- | [manaworld]({{< ref "/f13/package/manaworld.md" >}}) | 67 | 2484 | 2.7 | Japanese <ja@li.org> | 
- | [griffith]({{< ref "/f13/package/griffith.md" >}}) | 46 | 1876 | 2.5 | Japanese <ja@li.org> | 
- | [gscan2pdf]({{< ref "/f13/package/gscan2pdf.md" >}}) | 30 | 1368 | 2.2 | Japanese <ja@li.org> | 
- | [gnomebaker]({{< ref "/f13/package/gnomebaker.md" >}}) | 26 | 1186 | 2.2 | Japanese <ja@li.org> | 
- | [xpad]({{< ref "/f13/package/xpad.md" >}}) | 6 | 363 | 1.7 | Japanese <ja@li.org> | 
- | [whaawmp]({{< ref "/f13/package/whaawmp.md" >}}) | 12 | 757 | 1.6 | Japanese <ja@li.org> | 
- | [ailurus]({{< ref "/f13/package/ailurus.md" >}}) | 100 | 6702 | 1.5 | none | 
- | [gnome-gmail]({{< ref "/f13/package/gnome-gmail.md" >}}) | 3 | 268 | 1.1 | Japanese <ja@li.org> | 
- | [pychess]({{< ref "/f13/package/pychess.md" >}}) | 18 | 1671 | 1.1 | Japanese <ja@li.org> | 
- | [jokosher]({{< ref "/f13/package/jokosher.md" >}}) | 18 | 2059 | 0.9 | Japanese <ja@li.org> | 
- | [gnome-packagekit]({{< ref "/f13/package/gnome-packagekit.md" >}}) | 43 | 5250 | 0.8 | English <en@li.org> | 
- | [lazarus]({{< ref "/f13/package/lazarus.md" >}}) | 4 | 713 | 0.6 |  | 
- | [pulseaudio]({{< ref "/f13/package/pulseaudio.md" >}}) | 11 | 2849 | 0.4 | Japanese <fedora-trans-ja@redhat.com> | 
- | [sectool]({{< ref "/f13/package/sectool.md" >}}) | 5 | 2411 | 0.2 | Japanese <fedora-trans-ja@redhat.com> | 
- | [ocaml-libvirt]({{< ref "/f13/package/ocaml-libvirt.md" >}}) | 2 | 1113 | 0.2 | Japanese | 
- | [gretl]({{< ref "/f13/package/gretl.md" >}}) | 9 | 12610 | 0.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [libguestfs]({{< ref "/f13/package/libguestfs.md" >}}) | 1 | 46937 | 0.0 | LANGUAGE <LL@li.org> | 
- | [LabPlot]({{< ref "/f13/package/LabPlot.md" >}}) | 0 | 3250 | 0.0 | LANGUAGE <LL@li.org> | 
- | [cups]({{< ref "/f13/package/cups.md" >}}) | 0 | 0 | 0.0 |  | 
- | [garcon]({{< ref "/f13/package/garcon.md" >}}) | 0 | 17 | 0.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
- | [gnome-activity-journal]({{< ref "/f13/package/gnome-activity-journal.md" >}}) | 0 | 316 | 0.0 | Japanese <ja@li.org> | 
- | [grass]({{< ref "/f13/package/grass.md" >}}) | 0 | 44639 | 0.0 | Japanese <grass-translations@lists.osgeo.org> | 
- | [knights]({{< ref "/f13/package/knights.md" >}}) | 0 | 555 | 0.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [libgxim]({{< ref "/f13/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [libsmbios]({{< ref "/f13/package/libsmbios.md" >}}) | 0 | 1443 | 0.0 | Japanese | 
- | [openswan]({{< ref "/f13/package/openswan.md" >}}) | 0 | 974 | 0.0 | Japanese <debian-japanese@lists.debian.org> | 
- | [phatch]({{< ref "/f13/package/phatch.md" >}}) | 0 | 2553 | 0.0 | Japanese <ja@li.org> | 
- | [revisor]({{< ref "/f13/package/revisor.md" >}}) | 0 | 4171 | 0.0 |  | 
- | [skrooge]({{< ref "/f13/package/skrooge.md" >}}) | 0 | 5759 | 0.0 | Japanese <Kdeveloper@kde.gr.jp> | 
- | [sssd]({{< ref "/f13/package/sssd.md" >}}) | 0 | 1276 | 0.0 | Japanese <fedora-trans-ja@redhat.com> | 
- | [sugar-connect]({{< ref "/f13/package/sugar-connect.md" >}}) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f13/package/sugar-distance.md" >}}) | 0 | 79 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f13/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f13/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f13/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f13/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [tgif]({{< ref "/f13/package/tgif.md" >}}) | 0 | 0 | 0.0 |  | 
- | [tuxtype2]({{< ref "/f13/package/tuxtype2.md" >}}) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-mem]({{< ref "/f13/package/virt-mem.md" >}}) | 0 | 348 | 0.0 | Japanese | 
+ | [DivFix++](/f13/package/DivFix++) | 549 | 549 | 100.0 | Neroma_King <Neroma_King at Asp_01.net> | 
+ | [GConf2](/f13/package/GConf2) | 4035 | 4035 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [NetworkManager](/f13/package/NetworkManager) | 2441 | 2441 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [NetworkManager-openvpn](/f13/package/NetworkManager-openvpn) | 399 | 399 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [NetworkManager-pptp](/f13/package/NetworkManager-pptp) | 591 | 591 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [NetworkManager-vpnc](/f13/package/NetworkManager-vpnc) | 347 | 347 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [PackageKit](/f13/package/PackageKit) | 1584 | 1584 | 100.0 | Japanese <jp@li.org> | 
+ | [Terminal](/f13/package/Terminal) | 6196 | 6196 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [Thunar](/f13/package/Thunar) | 3865 | 3865 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [agave](/f13/package/agave) | 283 | 283 | 100.0 | Toshimitsu Kimura <lovesyao@gmail.com> | 
+ | [alacarte](/f13/package/alacarte) | 42 | 42 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [alleyoop](/f13/package/alleyoop) | 351 | 351 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [anaconda](/f13/package/anaconda) | 9752 | 9752 | 100.0 | Japanese <jp@li.org> | 
+ | [anerley](/f13/package/anerley) | 5 | 5 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [anjal](/f13/package/anjal) | 742 | 742 | 100.0 |  | 
+ | [anjuta](/f13/package/anjuta) | 7984 | 7984 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [arm-gp2x-linux-glibc](/f13/package/arm-gp2x-linux-glibc) | 6326 | 6326 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [at-spi](/f13/package/at-spi) | 24 | 24 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [atk](/f13/package/atk) | 375 | 375 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [atomix](/f13/package/atomix) | 146 | 146 | 100.0 | Japanese <translation@gnome.gr.jp> | 
+ | [audacity](/f13/package/audacity) | 9628 | 9628 | 100.0 | Atsushi YOSHIDA <ayoshida.pub@gmail.com> | 
+ | [audit-viewer](/f13/package/audit-viewer) | 611 | 611 | 100.0 | Japanese <jp@li.org> | 
+ | [authconfig](/f13/package/authconfig) | 1325 | 1325 | 100.0 | Japanese <jp@li.org> | 
+ | [authd](/f13/package/authd) | 196 | 196 | 100.0 | ja <http://bugzilla.redhat.com/> | 
+ | [bakery](/f13/package/bakery) | 72 | 72 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [basket](/f13/package/basket) | 4581 | 4581 | 100.0 | Japanese <ja@li.org> | 
+ | [beagle](/f13/package/beagle) | 1238 | 1238 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [bisho](/f13/package/bisho) | 131 | 131 | 100.0 |  | 
+ | [blam](/f13/package/blam) | 330 | 330 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [bluefish](/f13/package/bluefish) | 3819 | 3819 | 100.0 |  | 
+ | [bognor-regis](/f13/package/bognor-regis) | 27 | 27 | 100.0 |  | 
+ | [brasero](/f13/package/brasero) | 5408 | 5408 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [byzanz](/f13/package/byzanz) | 249 | 249 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [camorama](/f13/package/camorama) | 586 | 586 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [ccsm](/f13/package/ccsm) | 549 | 549 | 100.0 | Japanese <masaaki.kanemoto@gmail.com> | 
+ | [cgit](/f13/package/cgit) | 3369 | 3369 | 100.0 | Japanese | 
+ | [cheese](/f13/package/cheese) | 651 | 651 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [chkconfig](/f13/package/chkconfig) | 448 | 448 | 100.0 | Japanese <jp@li.org> | 
+ | [comix](/f13/package/comix) | 1326 | 1326 | 100.0 |  | 
+ | [compiz](/f13/package/compiz) | 3250 | 3250 | 100.0 | Novell Language <language@novell.com> | 
+ | [compiz-fusion](/f13/package/compiz-fusion) | 8946 | 8946 | 100.0 | Japanese | 
+ | [compiz-fusion-extras](/f13/package/compiz-fusion-extras) | 8946 | 8946 | 100.0 | Japanese | 
+ | [compiz-fusion-unsupported](/f13/package/compiz-fusion-unsupported) | 8946 | 8946 | 100.0 | Japanese | 
+ | [contact-lookup-applet](/f13/package/contact-lookup-applet) | 260 | 260 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [cracklib](/f13/package/cracklib) | 93 | 93 | 100.0 | Novell Language <language@novell.com> | 
+ | [dalston](/f13/package/dalston) | 266 | 266 | 100.0 |  | 
+ | [dasher](/f13/package/dasher) | 528 | 528 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [dates](/f13/package/dates) | 239 | 239 | 100.0 |  | 
+ | [dbmail](/f13/package/dbmail) | 457 | 457 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [deja-dup](/f13/package/deja-dup) | 1109 | 1109 | 100.0 |  | 
+ | [desktop-effects](/f13/package/desktop-effects) | 148 | 148 | 100.0 | Japanese <jp@li.org> | 
+ | [devhelp](/f13/package/devhelp) | 403 | 403 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [dia](/f13/package/dia) | 6606 | 6606 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [dialog](/f13/package/dialog) | 25 | 25 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [diffuse](/f13/package/diffuse) | 951 | 951 | 100.0 | Japanese | 
+ | [diffutils](/f13/package/diffutils) | 1342 | 1342 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [drupal-cck](/f13/package/drupal-cck) | 2468 | 2468 | 100.0 | DRUPAL*DRUPAL <hixarg+0829@gmail.com> | 
+ | [drupal6-filefield](/f13/package/drupal6-filefield) | 542 | 542 | 100.0 | Japanese <EMAIL@ADDRESS> | 
+ | [drupal6-image](/f13/package/drupal6-image) | 2229 | 2229 | 100.0 | Japanese <EMAIL@ADDRESS> | 
+ | [eb](/f13/package/eb) | 1073 | 1073 | 100.0 |  | 
+ | [ebview](/f13/package/ebview) | 1025 | 1025 | 100.0 | Japanese <ja@li.org> | 
+ | [eekboard](/f13/package/eekboard) | 56 | 56 | 100.0 | Japanese | 
+ | [ejabberd](/f13/package/ejabberd) | 1753 | 1753 | 100.0 |  | 
+ | [eject](/f13/package/eject) | 6 | 6 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [ekiga](/f13/package/ekiga) | 4043 | 4043 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [emerillon](/f13/package/emerillon) | 359 | 359 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [empathy](/f13/package/empathy) | 2687 | 2687 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [eog-plugins](/f13/package/eog-plugins) | 80 | 80 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [epiphany-extensions](/f13/package/epiphany-extensions) | 1047 | 1047 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [etckeeper](/f13/package/etckeeper) | 64 | 64 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [evolution-data-server](/f13/package/evolution-data-server) | 5099 | 5099 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [evolution-exchange](/f13/package/evolution-exchange) | 1339 | 1339 | 100.0 | Japanese <translation@gnome.gr.jp> | 
+ | [evolution-mapi](/f13/package/evolution-mapi) | 284 | 284 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [exo](/f13/package/exo) | 1598 | 1598 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [expendable](/f13/package/expendable) | 226 | 226 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [f-spot](/f13/package/f-spot) | 3553 | 3553 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [fantasdic](/f13/package/fantasdic) | 304 | 304 | 100.0 | Japanese <ja@li.org> | 
+ | [fetchmail](/f13/package/fetchmail) | 4326 | 4326 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [firstboot](/f13/package/firstboot) | 654 | 654 | 100.0 | Japanese <jp@li.org> | 
+ | [fontforge](/f13/package/fontforge) | 21574 | 21574 | 100.0 |  | 
+ | [freeciv](/f13/package/freeciv) | 53692 | 53692 | 100.0 | SAWADA Katsuya <ama@petmail.net> | 
+ | [freedink](/f13/package/freedink) | 79 | 79 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gajim](/f13/package/gajim) | 10834 | 10834 | 100.0 | Japanese | 
+ | [galeon](/f13/package/galeon) | 5996 | 5996 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gauche](/f13/package/gauche) | 82 | 82 | 100.0 |  | 
+ | [gconf-cleaner](/f13/package/gconf-cleaner) | 208 | 208 | 100.0 | Japanese <ja@li.org> | 
+ | [gconf-editor](/f13/package/gconf-editor) | 336 | 336 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gdeskcal](/f13/package/gdeskcal) | 109 | 109 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gdm](/f13/package/gdm) | 1314 | 1314 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [geany](/f13/package/geany) | 5469 | 5469 | 100.0 | Japanese <ja@li.org> | 
+ | [gedit-plugins](/f13/package/gedit-plugins) | 230 | 230 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [genius](/f13/package/genius) | 3067 | 3067 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gettext](/f13/package/gettext) | 6857 | 6857 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [ggz-base-libs](/f13/package/ggz-base-libs) | 74 | 74 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [ggz-gtk-client](/f13/package/ggz-gtk-client) | 773 | 773 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gigolo](/f13/package/gigolo) | 500 | 500 | 100.0 | Japanese | 
+ | [git](/f13/package/git) | 3369 | 3369 | 100.0 | Japanese | 
+ | [git-cola](/f13/package/git-cola) | 1842 | 1842 | 100.0 | Japanese | 
+ | [gitweb-caching](/f13/package/gitweb-caching) | 3368 | 3368 | 100.0 | Japanese | 
+ | [glabels](/f13/package/glabels) | 1851 | 1851 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [glade2](/f13/package/glade2) | 5840 | 5840 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [glade3](/f13/package/glade3) | 4613 | 4613 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [glibc](/f13/package/glibc) | 6327 | 6327 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gmpc](/f13/package/gmpc) | 25 | 25 | 100.0 | Japanese <ja@li.org> | 
+ | [gnome-applet-netspeed](/f13/package/gnome-applet-netspeed) | 144 | 144 | 100.0 | Japanese <translation@gnome.gr.jp> | 
+ | [gnome-backgrounds](/f13/package/gnome-backgrounds) | 23 | 23 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-bluetooth](/f13/package/gnome-bluetooth) | 593 | 593 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-color-manager](/f13/package/gnome-color-manager) | 2424 | 2424 | 100.0 | Japanese <rfujita@redhat.com> | 
+ | [gnome-desktop](/f13/package/gnome-desktop) | 349 | 349 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-doc-utils](/f13/package/gnome-doc-utils) | 251 | 251 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-games](/f13/package/gnome-games) | 8376 | 8376 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-icon-theme](/f13/package/gnome-icon-theme) | 51 | 51 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-mag](/f13/package/gnome-mag) | 298 | 298 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-media](/f13/package/gnome-media) | 1190 | 1190 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-menus](/f13/package/gnome-menus) | 161 | 161 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-mime-data](/f13/package/gnome-mime-data) | 887 | 887 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-netstatus](/f13/package/gnome-netstatus) | 418 | 418 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-nettool](/f13/package/gnome-nettool) | 523 | 523 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-screensaver](/f13/package/gnome-screensaver) | 989 | 989 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-session](/f13/package/gnome-session) | 638 | 638 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-settings-daemon](/f13/package/gnome-settings-daemon) | 1624 | 1624 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-specimen](/f13/package/gnome-specimen) | 56 | 56 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-system-monitor](/f13/package/gnome-system-monitor) | 933 | 933 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-terminal](/f13/package/gnome-terminal) | 3926 | 3926 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-themes](/f13/package/gnome-themes) | 109 | 109 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-user-share](/f13/package/gnome-user-share) | 289 | 289 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-utils](/f13/package/gnome-utils) | 3905 | 3905 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-vfs2](/f13/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-web-photo](/f13/package/gnome-web-photo) | 168 | 168 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnomeradio](/f13/package/gnomeradio) | 443 | 443 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnote](/f13/package/gnote) | 2283 | 2283 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gok](/f13/package/gok) | 1937 | 1937 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gphotoframe](/f13/package/gphotoframe) | 3147 | 3147 | 100.0 | Japanese <LL@li.org> | 
+ | [gpicview](/f13/package/gpicview) | 219 | 219 | 100.0 | Japanese <hironao@users.sourceforge.net> | 
+ | [greylistd](/f13/package/greylistd) | 350 | 350 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [gsynaptics](/f13/package/gsynaptics) | 65 | 65 | 100.0 | Japanese <ikuya@good-day.co.jp> | 
+ | [gthumb](/f13/package/gthumb) | 3236 | 3236 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [gtk+](/f13/package/gtk+) | 404 | 404 | 100.0 | Japanese <translation@gnome.gr.jp> | 
+ | [gtk2-engines](/f13/package/gtk2-engines) | 119 | 119 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gtkhtml3](/f13/package/gtkhtml3) | 695 | 695 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gtksourceview](/f13/package/gtksourceview) | 891 | 891 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gtksourceview2](/f13/package/gtksourceview2) | 1099 | 1099 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gtkspell](/f13/package/gtkspell) | 11 | 11 | 100.0 | Japanese <ja@li.org> | 
+ | [gucharmap](/f13/package/gucharmap) | 863 | 863 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [horde](/f13/package/horde) | 8384 | 8384 | 100.0 | i18n@lists.horde.org | 
+ | [hornsey](/f13/package/hornsey) | 106 | 106 | 100.0 |  | 
+ | [hotssh](/f13/package/hotssh) | 145 | 145 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [ibus](/f13/package/ibus) | 584 | 584 | 100.0 | Japanese <jp@li.org> | 
+ | [ibus-anthy](/f13/package/ibus-anthy) | 598 | 598 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [ibus-input-pad](/f13/package/ibus-input-pad) | 90 | 90 | 100.0 | Japanese | 
+ | [ibus-skk](/f13/package/ibus-skk) | 71 | 71 | 100.0 | Japanese | 
+ | [imp](/f13/package/imp) | 6483 | 6483 | 100.0 | i18n@lists.horde.org | 
+ | [imsettings](/f13/package/imsettings) | 979 | 979 | 100.0 | Japanese <fedora-trasn-ja@redhat.com> | 
+ | [ingo](/f13/package/ingo) | 908 | 908 | 100.0 | i18n@lists.horde.org | 
+ | [initscripts](/f13/package/initscripts) | 4407 | 4407 | 100.0 | Japanese <jp@li.org> | 
+ | [input-pad](/f13/package/input-pad) | 906 | 906 | 100.0 | Japanese | 
+ | [iok](/f13/package/iok) | 142 | 142 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [isight-firmware-tools](/f13/package/isight-firmware-tools) | 319 | 319 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [istanbul](/f13/package/istanbul) | 196 | 196 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [kasumi](/f13/package/kasumi) | 193 | 193 | 100.0 | Takashi Nakamoto <bluedwarf@bpost.plala.or.jp> | 
+ | [kdirstat](/f13/package/kdirstat) | 927 | 927 | 100.0 | <Kdeveloper@kde.gr.jp> | 
+ | [kerry](/f13/package/kerry) | 702 | 702 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [keurocalc](/f13/package/keurocalc) | 291 | 291 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kexec-tools](/f13/package/kexec-tools) | 206 | 206 | 100.0 | Japanese <jp@li.org> | 
+ | [knetstats](/f13/package/knetstats) | 119 | 119 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kronolith](/f13/package/kronolith) | 2317 | 2317 | 100.0 | i18n@lists.horde.org | 
+ | [ksig](/f13/package/ksig) | 85 | 85 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [ldm](/f13/package/ldm) | 184 | 184 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [leafpad](/f13/package/leafpad) | 125 | 125 | 100.0 | Japanese <ja@li.org> | 
+ | [libbonobo](/f13/package/libbonobo) | 547 | 547 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libbonoboui](/f13/package/libbonoboui) | 368 | 368 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libbtctl](/f13/package/libbtctl) | 48 | 48 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libepc](/f13/package/libepc) | 146 | 146 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [libfm](/f13/package/libfm) | 480 | 480 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [libgdata](/f13/package/libgdata) | 438 | 438 | 100.0 | Japanese <gnome-translation@gnome.gr.jp>\ | 
+ | [libgdl](/f13/package/libgdl) | 602 | 602 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnome](/f13/package/libgnome) | 1772 | 1772 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnome-keyring](/f13/package/libgnome-keyring) | 44 | 44 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnomecanvas](/f13/package/libgnomecanvas) | 378 | 378 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnomecups](/f13/package/libgnomecups) | 210 | 210 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnomekbd](/f13/package/libgnomekbd) | 246 | 246 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnomeprint22](/f13/package/libgnomeprint22) | 168 | 168 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnomeprintui22](/f13/package/libgnomeprintui22) | 481 | 481 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgnomeui](/f13/package/libgnomeui) | 1309 | 1309 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgtop2](/f13/package/libgtop2) | 126 | 126 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libgweather](/f13/package/libgweather) | 6051 | 6051 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libkexif](/f13/package/libkexif) | 25 | 25 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [libmx](/f13/package/libmx) | 40 | 40 | 100.0 |  | 
+ | [libpaper](/f13/package/libpaper) | 73 | 73 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [libsocialweb](/f13/package/libsocialweb) | 148 | 148 | 100.0 |  | 
+ | [libuser](/f13/package/libuser) | 1114 | 1114 | 100.0 | Japanese <jp@li.org> | 
+ | [libwnck](/f13/package/libwnck) | 1124 | 1124 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [libxfce4menu](/f13/package/libxfce4menu) | 31 | 31 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [libxfce4ui](/f13/package/libxfce4ui) | 136 | 136 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [libxfce4util](/f13/package/libxfce4util) | 424 | 424 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [libxfcegui4](/f13/package/libxfcegui4) | 234 | 234 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [liferea](/f13/package/liferea) | 2411 | 2411 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [liveusb-creator](/f13/package/liveusb-creator) | 480 | 480 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [lxappearance](/f13/package/lxappearance) | 83 | 83 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lxinput](/f13/package/lxinput) | 70 | 70 | 100.0 | ja_JP <LL@li.org> | 
+ | [lxlauncher](/f13/package/lxlauncher) | 51 | 51 | 100.0 | ja_JP <LL@li.org> | 
+ | [lxmenu-data](/f13/package/lxmenu-data) | 97 | 97 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [lxmusic](/f13/package/lxmusic) | 203 | 203 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lxpanel](/f13/package/lxpanel) | 892 | 892 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lxrandr](/f13/package/lxrandr) | 102 | 102 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lxsession](/f13/package/lxsession) | 37 | 37 | 100.0 | ja_JP <LL@li.org> | 
+ | [lxsession-edit](/f13/package/lxsession-edit) | 58 | 58 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lxshortcut](/f13/package/lxshortcut) | 43 | 43 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lxtask](/f13/package/lxtask) | 122 | 122 | 100.0 | Japanese <hironao@users.sourceforge.net> | 
+ | [lxterminal](/f13/package/lxterminal) | 129 | 129 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lyx](/f13/package/lyx) | 14858 | 14858 | 100.0 | Japanese <lyx-doc@lists.lyx.org> | 
+ | [mail-notification](/f13/package/mail-notification) | 1816 | 1816 | 100.0 |  | 
+ | [mailman](/f13/package/mailman) | 21904 | 21904 | 100.0 | Japanese <mmjp-users@mm.tkikuchi.net> | 
+ | [meld](/f13/package/meld) | 918 | 918 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [midori](/f13/package/midori) | 2458 | 2458 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [mingw32-atk](/f13/package/mingw32-atk) | 375 | 375 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [mingw32-gtkhtml3](/f13/package/mingw32-gtkhtml3) | 695 | 695 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [mlocate](/f13/package/mlocate) | 563 | 563 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [moblin-panel-applications](/f13/package/moblin-panel-applications) | 5 | 5 | 100.0 |  | 
+ | [moblin-panel-media](/f13/package/moblin-panel-media) | 55 | 55 | 100.0 |  | 
+ | [moblin-panel-myzone](/f13/package/moblin-panel-myzone) | 74 | 74 | 100.0 |  | 
+ | [moblin-panel-pasteboard](/f13/package/moblin-panel-pasteboard) | 22 | 22 | 100.0 |  | 
+ | [moblin-panel-people](/f13/package/moblin-panel-people) | 68 | 68 | 100.0 |  | 
+ | [moblin-panel-status](/f13/package/moblin-panel-status) | 76 | 76 | 100.0 |  | 
+ | [mojito](/f13/package/mojito) | 148 | 148 | 100.0 |  | 
+ | [monkey-bubble](/f13/package/monkey-bubble) | 309 | 309 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [monodevelop](/f13/package/monodevelop) | 15715 | 15715 | 100.0 | Atsushi Enomoto <atsushi@ximian.com> | 
+ | [mousepad](/f13/package/mousepad) | 135 | 135 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [mousetweaks](/f13/package/mousetweaks) | 638 | 638 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [multimedia-menus](/f13/package/multimedia-menus) | 56 | 56 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [mutter](/f13/package/mutter) | 3864 | 3864 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [mutter-mbl](/f13/package/mutter-mbl) | 3864 | 3864 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [mutter-moblin](/f13/package/mutter-moblin) | 52 | 52 | 100.0 |  | 
+ | [namazu](/f13/package/namazu) | 1052 | 1052 | 100.0 | Japanese <ja@li.org> | 
+ | [nautilus](/f13/package/nautilus) | 8620 | 8620 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [nautilus-image-converter](/f13/package/nautilus-image-converter) | 79 | 79 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [nautilus-open-terminal](/f13/package/nautilus-open-terminal) | 166 | 166 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [nautilus-sendto](/f13/package/nautilus-sendto) | 319 | 319 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [nemiver](/f13/package/nemiver) | 1102 | 1102 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [newt](/f13/package/newt) | 4 | 4 | 100.0 | Japanese <debian-doc@debian.or.jp> | 
+ | [notification-daemon](/f13/package/notification-daemon) | 108 | 108 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [nss-ldapd](/f13/package/nss-ldapd) | 438 | 438 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [nss-pam-ldapd](/f13/package/nss-pam-ldapd) | 438 | 438 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [nx](/f13/package/nx) | 149 | 149 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [olpc-switch-desktop](/f13/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [openbox](/f13/package/openbox) | 504 | 504 | 100.0 | Japanese <ja@li.org> | 
+ | [orage](/f13/package/orage) | 2110 | 2110 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [orca](/f13/package/orca) | 4011 | 4011 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [osmo](/f13/package/osmo) | 1705 | 1705 | 100.0 | Japanese Puppy Linux Team | 
+ | [pam](/f13/package/pam) | 599 | 599 | 100.0 | Japanese <jp@li.org> | 
+ | [parcellite](/f13/package/parcellite) | 156 | 156 | 100.0 | JAPANESE | 
+ | [parole](/f13/package/parole) | 450 | 450 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [passwd](/f13/package/passwd) | 299 | 299 | 100.0 | <ja@li.org> | 
+ | [pavucontrol](/f13/package/pavucontrol) | 219 | 219 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [pcmanfm](/f13/package/pcmanfm) | 522 | 522 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [perl-Padre](/f13/package/perl-Padre) | 1478 | 1478 | 100.0 | Japanese | 
+ | [pessulus](/f13/package/pessulus) | 130 | 130 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [pino](/f13/package/pino) | 352 | 352 | 100.0 | Japanese <tomo832@gmail.com> | 
+ | [planner](/f13/package/planner) | 1795 | 1795 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [po4a](/f13/package/po4a) | 27461 | 27461 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [polkit-gnome](/f13/package/polkit-gnome) | 178 | 178 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [popt](/f13/package/popt) | 75 | 75 | 100.0 | Japanese <ja@li.org> | 
+ | [postgresql](/f13/package/postgresql) | 39857 | 39857 | 100.0 | Shigehiro Honda <fwif0083@mb.infoweb.ne.jp> | 
+ | [powertop](/f13/package/powertop) | 983 | 983 | 100.0 | Japanese <ja@li.org> | 
+ | [preupgrade](/f13/package/preupgrade) | 801 | 801 | 100.0 | Japanese <jp@li.org> | 
+ | [publican-fedora](/f13/package/publican-fedora) | 107 | 107 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [publican-redhat](/f13/package/publican-redhat) | 220 | 220 | 100.0 | Japanese | 
+ | [pykickstart](/f13/package/pykickstart) | 284 | 284 | 100.0 | Japanese <ja@li.org> | 
+ | [python-fedora](/f13/package/python-fedora) | 982 | 982 | 100.0 | japanese <trans-ja@lists.fedoraproject.org> | 
+ | [python-meh](/f13/package/python-meh) | 269 | 269 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [python-pylons](/f13/package/python-pylons) | 13 | 13 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [qbzr](/f13/package/qbzr) | 1281 | 1281 | 100.0 | Japanese <ja@li.org> | 
+ | [qt3](/f13/package/qt3) | 482 | 482 | 100.0 |  | 
+ | [readahead](/f13/package/readahead) | 129 | 129 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [redhat-menus](/f13/package/redhat-menus) | 261 | 261 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [resapplet](/f13/package/resapplet) | 106 | 106 | 100.0 | Novell Language <language@novell.com> | 
+ | [rhnsd](/f13/package/rhnsd) | 42 | 42 | 100.0 | Japanese <ja@li.org> | 
+ | [rhythmbox](/f13/package/rhythmbox) | 4797 | 4797 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [ristretto](/f13/package/ristretto) | 187 | 187 | 100.0 | Japanese | 
+ | [ruby-gnome2](/f13/package/ruby-gnome2) | 7 | 7 | 100.0 | ja_JP.UTF-8 | 
+ | [samba](/f13/package/samba) | 198 | 198 | 100.0 | Novell Language <language@novell.com> | 
+ | [scim](/f13/package/scim) | 1164 | 1164 | 100.0 |  | 
+ | [scim-pinyin](/f13/package/scim-pinyin) | 832 | 832 | 100.0 | Japanese <ja@li.org> | 
+ | [scim-tomoe](/f13/package/scim-tomoe) | 53 | 53 | 100.0 | Japanese <ja@li.org> | 
+ | [seahorse](/f13/package/seahorse) | 3033 | 3033 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [seahorse-plugins](/f13/package/seahorse-plugins) | 1163 | 1163 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [sepostgresql](/f13/package/sepostgresql) | 38833 | 38833 | 100.0 | jpug-doc <jpug-doc@ml.postgresql.jp> | 
+ | [setroubleshoot-plugins](/f13/package/setroubleshoot-plugins) | 7818 | 7818 | 100.0 | Japanese <jp@li.org> | 
+ | [setuptool](/f13/package/setuptool) | 55 | 55 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [skf](/f13/package/skf) | 624 | 624 | 100.0 |  | 
+ | [smb4k](/f13/package/smb4k) | 6580 | 6580 | 100.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [smolt](/f13/package/smolt) | 1174 | 1174 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [sonata](/f13/package/sonata) | 1136 | 1136 | 100.0 | Japanese <ja@li.org> | 
+ | [sound-juicer](/f13/package/sound-juicer) | 1022 | 1022 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [spe](/f13/package/spe) | 2012 | 2012 | 100.0 | ja <brian_nt@nifty.com> | 
+ | [sugar](/f13/package/sugar) | 976 | 976 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f13/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f13/package/sugar-browse) | 53 | 53 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f13/package/sugar-calculator) | 565 | 565 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f13/package/sugar-chat) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f13/package/sugar-imageviewer) | 25 | 25 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f13/package/sugar-jukebox) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f13/package/sugar-log) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f13/package/sugar-playgo) | 85 | 85 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-tamtam](/f13/package/sugar-tamtam) | 2077 | 2077 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f13/package/sugar-toolkit) | 78 | 78 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f13/package/sugar-write) | 75 | 75 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f13/package/switchdesk) | 139 | 139 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [sylpheed](/f13/package/sylpheed) | 6615 | 6615 | 100.0 | Japanese <ja@li.org> | 
+ | [syncevolution](/f13/package/syncevolution) | 1115 | 1115 | 100.0 |  | 
+ | [sysstat](/f13/package/sysstat) | 447 | 447 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [system-config-audit](/f13/package/system-config-audit) | 1241 | 1241 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-bind](/f13/package/system-config-bind) | 9434 | 9434 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-date](/f13/package/system-config-date) | 1750 | 1750 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-date-docs](/f13/package/system-config-date-docs) | 728 | 728 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-display](/f13/package/system-config-display) | 415 | 415 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-firewall](/f13/package/system-config-firewall) | 2807 | 2807 | 100.0 | Japanese | 
+ | [system-config-httpd](/f13/package/system-config-httpd) | 877 | 877 | 100.0 | ja <fedora-trans-ja@redhat.com> | 
+ | [system-config-keyboard](/f13/package/system-config-keyboard) | 187 | 187 | 100.0 | <ja@li.org> | 
+ | [system-config-kickstart](/f13/package/system-config-kickstart) | 1103 | 1103 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-lvm](/f13/package/system-config-lvm) | 2246 | 2246 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-netboot](/f13/package/system-config-netboot) | 1135 | 1135 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-network](/f13/package/system-config-network) | 3022 | 3022 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-nfs](/f13/package/system-config-nfs) | 332 | 332 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-nfs-docs](/f13/package/system-config-nfs-docs) | 1185 | 1185 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-rootpassword](/f13/package/system-config-rootpassword) | 116 | 116 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [system-config-samba](/f13/package/system-config-samba) | 535 | 535 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-samba-docs](/f13/package/system-config-samba-docs) | 1188 | 1188 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-services](/f13/package/system-config-services) | 404 | 404 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-services-docs](/f13/package/system-config-services-docs) | 638 | 638 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-users](/f13/package/system-config-users) | 1456 | 1456 | 100.0 | Japanese <jp@li.org> | 
+ | [system-config-users-docs](/f13/package/system-config-users-docs) | 1054 | 1054 | 100.0 | Japanese <jp@li.org> | 
+ | [system-switch-java](/f13/package/system-switch-java) | 81 | 81 | 100.0 | Japanese <jp@li.org> | 
+ | [system-switch-mail](/f13/package/system-switch-mail) | 158 | 158 | 100.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [tasks](/f13/package/tasks) | 301 | 301 | 100.0 |  | 
+ | [tasque](/f13/package/tasque) | 196 | 196 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [thunar-media-tags-plugin](/f13/package/thunar-media-tags-plugin) | 144 | 144 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [thunar-shares-plugin](/f13/package/thunar-shares-plugin) | 209 | 209 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [tomboy](/f13/package/tomboy) | 2651 | 2651 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [totem](/f13/package/totem) | 5332 | 5332 | 100.0 | Japanese <LL@li.org> | 
+ | [totem-pl-parser](/f13/package/totem-pl-parser) | 28 | 28 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [tpb](/f13/package/tpb) | 96 | 96 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [tracker](/f13/package/tracker) | 2016 | 2016 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [tsclient](/f13/package/tsclient) | 342 | 342 | 100.0 | Novell Language <language@novell.com> | 
+ | [turba](/f13/package/turba) | 1689 | 1689 | 100.0 | i18n@lists.horde.org | 
+ | [tuxpaint-stamps](/f13/package/tuxpaint-stamps) | 2617 | 2617 | 100.0 | Japanese <shin1@wmail.plala.or.jp> | 
+ | [usermode](/f13/package/usermode) | 562 | 562 | 100.0 | Japanese <jp@li.org> | 
+ | [viewnior](/f13/package/viewnior) | 387 | 387 | 100.0 | Team Puppy linux Japan | 
+ | [vim](/f13/package/vim) | 8280 | 8280 | 100.0 | MURAOKA Taro <koron.kaoriya@gmail.com> | 
+ | [vinagre](/f13/package/vinagre) | 957 | 957 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [vino](/f13/package/vino) | 1215 | 1215 | 100.0 | Japanese <translation@gnome.gr.jp> | 
+ | [virt-top](/f13/package/virt-top) | 351 | 351 | 100.0 | Japanese <jp@li.org> | 
+ | [virtaal](/f13/package/virtaal) | 1171 | 1171 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [volume_key](/f13/package/volume_key) | 726 | 726 | 100.0 | Japanese <jp@li.org> | 
+ | [vte](/f13/package/vte) | 116 | 116 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [w3m](/f13/package/w3m) | 786 | 786 | 100.0 | Japanese | 
+ | [wallpapoz](/f13/package/wallpapoz) | 395 | 395 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [watchdog](/f13/package/watchdog) | 97 | 97 | 100.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [wget](/f13/package/wget) | 2260 | 2260 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [wine](/f13/package/wine) | 11773 | 11773 | 100.0 | none | 
+ | [wormux](/f13/package/wormux) | 1916 | 1916 | 100.0 | Japanese (Japan) <akicks@gmail.com> | 
+ | [wxGTK](/f13/package/wxGTK) | 6497 | 6497 | 100.0 | Japanese <wx-translators@wxwindows.org> | 
+ | [wxGlade](/f13/package/wxGlade) | 2012 | 2012 | 100.0 | ja <brian_nt@nifty.com> | 
+ | [xarchiver](/f13/package/xarchiver) | 1131 | 1131 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xcdroast](/f13/package/xcdroast) | 8044 | 8044 | 100.0 | Japanese | 
+ | [xdg-user-dirs-gtk](/f13/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Japanese Takeshi AIHANA <takeshi.aihana@gmail.com> | 
+ | [xfburn](/f13/package/xfburn) | 1300 | 1300 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce-utils](/f13/package/xfce-utils) | 131 | 131 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-appfinder](/f13/package/xfce4-appfinder) | 84 | 84 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-clipman-plugin](/f13/package/xfce4-clipman-plugin) | 234 | 234 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-datetime-plugin](/f13/package/xfce4-datetime-plugin) | 53 | 53 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfce4-fsguard-plugin](/f13/package/xfce4-fsguard-plugin) | 64 | 64 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-icon-theme](/f13/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-mixer](/f13/package/xfce4-mixer) | 181 | 181 | 100.0 | xfce-i18n@xfce.org <LL@li.org> | 
+ | [xfce4-mpc-plugin](/f13/package/xfce4-mpc-plugin) | 80 | 80 | 100.0 | Japanese <xfce-i18n@xfce.org@xfce.org> | 
+ | [xfce4-netload-plugin](/f13/package/xfce4-netload-plugin) | 68 | 68 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfce4-notes-plugin](/f13/package/xfce4-notes-plugin) | 114 | 114 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfce4-panel](/f13/package/xfce4-panel) | 540 | 540 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-places-plugin](/f13/package/xfce4-places-plugin) | 75 | 75 | 100.0 |  | 
+ | [xfce4-power-manager](/f13/package/xfce4-power-manager) | 694 | 694 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-radio-plugin](/f13/package/xfce4-radio-plugin) | 52 | 52 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfce4-screenshooter](/f13/package/xfce4-screenshooter) | 448 | 448 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-session](/f13/package/xfce4-session) | 988 | 988 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-settings](/f13/package/xfce4-settings) | 1138 | 1138 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-systemload-plugin](/f13/package/xfce4-systemload-plugin) | 63 | 63 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-taskmanager](/f13/package/xfce4-taskmanager) | 156 | 156 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-timer-plugin](/f13/package/xfce4-timer-plugin) | 94 | 94 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-verve-plugin](/f13/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfce4-wavelan-plugin](/f13/package/xfce4-wavelan-plugin) | 49 | 49 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-weather-plugin](/f13/package/xfce4-weather-plugin) | 555 | 555 | 100.0 | Dansk <dansk@dansk-gruppen.dk> | 
+ | [xfce4-websearch-plugin](/f13/package/xfce4-websearch-plugin) | 13 | 13 | 100.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [xfce4-xfapplet-plugin](/f13/package/xfce4-xfapplet-plugin) | 84 | 84 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfce4-xfswitch-plugin](/f13/package/xfce4-xfswitch-plugin) | 20 | 20 | 100.0 | Japanese | 
+ | [xfce4-xkb-plugin](/f13/package/xfce4-xkb-plugin) | 64 | 64 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfconf](/f13/package/xfconf) | 431 | 431 | 100.0 | Japanese <xfce-i18n@xfce.org> | 
+ | [xfdesktop](/f13/package/xfdesktop) | 1002 | 1002 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfprint](/f13/package/xfprint) | 337 | 337 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [xfwm4](/f13/package/xfwm4) | 797 | 797 | 100.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [yelp](/f13/package/yelp) | 1094 | 1094 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [zenity](/f13/package/zenity) | 579 | 579 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-user-docs](/f13/package/gnome-user-docs) | 57771 | 57779 | 100.0 | Japanese <takeshi.aihana@gmail.com> | 
+ | [gimp](/f13/package/gimp) | 26050 | 26056 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [control-center](/f13/package/control-center) | 3474 | 3475 | 100.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gallery2](/f13/package/gallery2) | 17786 | 17793 | 100.0 | Japanese <gallery-devel@lists.sourceforge.net> | 
+ | [boinc-client](/f13/package/boinc-client) | 4128 | 4130 | 100.0 |  | 
+ | [scim-anthy](/f13/package/scim-anthy) | 1915 | 1916 | 99.9 | Japanese <ja@li.org> | 
+ | [gnome-applets](/f13/package/gnome-applets) | 3342 | 3344 | 99.9 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [kazehakase](/f13/package/kazehakase) | 1886 | 1889 | 99.8 | Takuro Ashie <ashie@homa.ne.jp> | 
+ | [g2ipmsg](/f13/package/g2ipmsg) | 2165 | 2169 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [R](/f13/package/R) | 18804 | 18842 | 99.8 | R-core <R-core@R-project.org> | 
+ | [regexxer](/f13/package/regexxer) | 466 | 467 | 99.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gqview](/f13/package/gqview) | 1717 | 1721 | 99.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-disk-utility](/f13/package/gnome-disk-utility) | 4531 | 4542 | 99.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gambas](/f13/package/gambas) | 2446 | 2452 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [e16](/f13/package/e16) | 2780 | 2787 | 99.7 | Japanese <ja@li.org> | 
+ | [system-config-printer](/f13/package/system-config-printer) | 3102 | 3110 | 99.7 | LANGUAGE <LL@li.org> | 
+ | [kiconedit](/f13/package/kiconedit) | 724 | 726 | 99.7 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [file-roller](/f13/package/file-roller) | 1366 | 1370 | 99.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [inkscape](/f13/package/inkscape) | 23953 | 24029 | 99.7 | Japanese <inkscape-translator@lists.sourceforge.net> | 
+ | [moin](/f13/package/moin) | 4955 | 4971 | 99.7 |  | 
+ | [blender](/f13/package/blender) | 19243 | 19311 | 99.6 |  | 
+ | [celestia](/f13/package/celestia) | 1887 | 1894 | 99.6 | Japanese | 
+ | [krecipes](/f13/package/krecipes) | 3075 | 3087 | 99.6 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [pgadmin3](/f13/package/pgadmin3) | 9636 | 9676 | 99.6 | pgadmin3 <z-saito@guitar.ocn.ne.jp> | 
+ | [ghex](/f13/package/ghex) | 2753 | 2765 | 99.6 | LANGUAGE <LL@li.org> | 
+ | [emerald](/f13/package/emerald) | 770 | 774 | 99.5 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [ncpfs](/f13/package/ncpfs) | 5632 | 5666 | 99.4 | Novell Language <language@novell.com> | 
+ | [pootle](/f13/package/pootle) | 3530 | 3552 | 99.4 | LANGUAGE <LL@li.org> | 
+ | [sweep](/f13/package/sweep) | 2384 | 2399 | 99.4 | Puppy Linux Japanese | 
+ | [rabbitvcs](/f13/package/rabbitvcs) | 925 | 931 | 99.4 | Japanese <ja@li.org> | 
+ | [logjam](/f13/package/logjam) | 2154 | 2169 | 99.3 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [claws-mail](/f13/package/claws-mail) | 14565 | 14690 | 99.1 | kentaro kazuhama <kazken3@gmail.com> | 
+ | [rawstudio](/f13/package/rawstudio) | 1514 | 1527 | 99.1 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [mtpaint](/f13/package/mtpaint) | 3038 | 3065 | 99.1 | Puppy Linux Japanese | 
+ | [grip](/f13/package/grip) | 1037 | 1047 | 99.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gq](/f13/package/gq) | 2634 | 2660 | 99.0 | Japanese - common <LL@li.org> | 
+ | [bzr-explorer](/f13/package/bzr-explorer) | 1560 | 1576 | 99.0 | Japanese <ja@li.org> | 
+ | [mkvtoolnix](/f13/package/mkvtoolnix) | 16672 | 16843 | 99.0 | Japanese <zuntakapokoten@gmail.com> | 
+ | [epdfview](/f13/package/epdfview) | 478 | 483 | 99.0 | nyu <nyu_8804@yahoo.co.jp> | 
+ | [ochusha](/f13/package/ochusha) | 2871 | 2903 | 98.9 | ochusha-developers <ochusha-developers@lists.sourceforge.jp> | 
+ | [wxPython](/f13/package/wxPython) | 8663 | 8772 | 98.8 | Japanese <wx-translators@wxwindows.org> | 
+ | [straw](/f13/package/straw) | 514 | 521 | 98.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [tomoe](/f13/package/tomoe) | 73 | 74 | 98.6 | Tomoe project | 
+ | [gvfs](/f13/package/gvfs) | 1909 | 1936 | 98.6 | Japanese <takeshi.aihana@gmail.com> | 
+ | [perl-Locale-Msgfmt](/f13/package/perl-Locale-Msgfmt) | 1243 | 1262 | 98.5 | Japanese | 
+ | [tumbler](/f13/package/tumbler) | 241 | 245 | 98.4 | Japanese | 
+ | [poedit](/f13/package/poedit) | 1143 | 1162 | 98.4 | ja <masapon@dream.com> | 
+ | [banshee](/f13/package/banshee) | 5157 | 5245 | 98.3 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [kde-l10n](/f13/package/kde-l10n) | 4667 | 4748 | 98.3 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [eog](/f13/package/eog) | 3062 | 3116 | 98.3 | LANGUAGE <LL@li.org> | 
+ | [tar](/f13/package/tar) | 3185 | 3247 | 98.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [rapidsvn](/f13/package/rapidsvn) | 1391 | 1419 | 98.0 | Hisateru Tanaka <tanakahisateru@gmail.com> | 
+ | [uim](/f13/package/uim) | 5023 | 5127 | 98.0 | Japanese <anthy-dev@lists.sourceforge.jp> | 
+ | [mingw32-gettext](/f13/package/mingw32-gettext) | 6700 | 6844 | 97.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gphoto2](/f13/package/gphoto2) | 1486 | 1519 | 97.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [proftpd](/f13/package/proftpd) | 814 | 833 | 97.7 | Taizo ITO <taizoster@gmail.com> | 
+ | [kBuild](/f13/package/kBuild) | 493 | 505 | 97.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [seedit](/f13/package/seedit) | 426 | 437 | 97.5 |  | 
+ | [kftpgrabber](/f13/package/kftpgrabber) | 2175 | 2237 | 97.2 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gtk2](/f13/package/gtk2) | 13315 | 13704 | 97.2 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [mingw32-gtk2](/f13/package/mingw32-gtk2) | 13315 | 13704 | 97.2 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [epiphany](/f13/package/epiphany) | 8673 | 8936 | 97.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [tuna](/f13/package/tuna) | 1302 | 1342 | 97.0 | Japanese <LL@li.org> | 
+ | [xfmpc](/f13/package/xfmpc) | 126 | 130 | 96.9 | JAPANESE <xfce-i18n@xfce.org> | 
+ | [gstreamer-plugins-base](/f13/package/gstreamer-plugins-base) | 646 | 667 | 96.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [easytag](/f13/package/easytag) | 5144 | 5315 | 96.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [kgrab](/f13/package/kgrab) | 358 | 370 | 96.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kdesvn](/f13/package/kdesvn) | 4079 | 4219 | 96.7 | 日本語 <kde-i18n-doc@kde.org> | 
+ | [kreetingkard](/f13/package/kreetingkard) | 333 | 345 | 96.5 | LANGUAGE <LL@li.org> | 
+ | [snownews](/f13/package/snownews) | 704 | 730 | 96.4 | Japanese <iwata@quasiquote.org> | 
+ | [gambas2](/f13/package/gambas2) | 3192 | 3318 | 96.2 | LANGUAGE <LL@li.org> | 
+ | [jpilot](/f13/package/jpilot) | 2237 | 2327 | 96.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [glib2](/f13/package/glib2) | 2424 | 2523 | 96.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [mingw32-glib2](/f13/package/mingw32-glib2) | 2424 | 2523 | 96.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [parted](/f13/package/parted) | 4860 | 5066 | 95.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [Django](/f13/package/Django) | 3548 | 3715 | 95.5 | Japanese <django-ja@googlegroups.com> | 
+ | [soundtracker](/f13/package/soundtracker) | 1569 | 1648 | 95.2 | Debian Japanese project <debian-japanese@lists.debian.org> | 
+ | [abrt](/f13/package/abrt) | 1552 | 1631 | 95.2 | Japanese <jp@li.org> | 
+ | [gcalctool](/f13/package/gcalctool) | 6139 | 6462 | 95.0 | LANGUAGE <LL@li.org> | 
+ | [evolution](/f13/package/evolution) | 21184 | 22319 | 94.9 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [xine-ui](/f13/package/xine-ui) | 2813 | 2975 | 94.6 | Japanese <ja@li.org> | 
+ | [scim-tables](/f13/package/scim-tables) | 1090 | 1153 | 94.5 | Japanese <ja@li.org> | 
+ | [gedit](/f13/package/gedit) | 12118 | 12830 | 94.5 | Japanese <LL@li.org> | 
+ | [clamtk](/f13/package/clamtk) | 760 | 805 | 94.4 | Japanese <ja@li.org> | 
+ | [publican-jboss](/f13/package/publican-jboss) | 100 | 106 | 94.3 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [filezilla](/f13/package/filezilla) | 8618 | 9145 | 94.2 | Tadashi Jokagi <elf@elf.no-ip.org> | 
+ | [giggle](/f13/package/giggle) | 294 | 312 | 94.2 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f13/package/tuxpaint) | 1175 | 1247 | 94.2 | japanese <shin1@wmail.plala.or.jp> | 
+ | [gnochm](/f13/package/gnochm) | 547 | 581 | 94.1 | LANGUAGE <LL@li.org> | 
+ | [kopete-cryptography](/f13/package/kopete-cryptography) | 384 | 408 | 94.1 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [metacity](/f13/package/metacity) | 3596 | 3821 | 94.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [deskbar-applet](/f13/package/deskbar-applet) | 1570 | 1670 | 94.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [lincity-ng](/f13/package/lincity-ng) | 1807 | 1923 | 94.0 | MH35 <mh35jp@gmail.com> | 
+ | [oggconvert](/f13/package/oggconvert) | 124 | 132 | 93.9 | Japanese <ja@li.org> | 
+ | [claws-mail-plugins](/f13/package/claws-mail-plugins) | 3323 | 3538 | 93.9 | Japanese <ja@li.org> | 
+ | [konq-plugins](/f13/package/konq-plugins) | 1589 | 1692 | 93.9 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gnome-keyring](/f13/package/gnome-keyring) | 1169 | 1246 | 93.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [pioneers](/f13/package/pioneers) | 2394 | 2554 | 93.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [virt-manager](/f13/package/virt-manager) | 4078 | 4353 | 93.7 | Japanese <jp@li.org> | 
+ | [mutt](/f13/package/mutt) | 5031 | 5377 | 93.6 | mutt-j <mutt-j-users@lists.sourceforge.jp> | 
+ | [enlightenment](/f13/package/enlightenment) | 5593 | 5982 | 93.5 | E17-jp <LL@li.org> | 
+ | [WindowMaker](/f13/package/WindowMaker) | 3981 | 4273 | 93.2 | Japanese | 
+ | [xfce4-sensors-plugin](/f13/package/xfce4-sensors-plugin) | 322 | 346 | 93.1 | xfce-users-jp <xfce-users-jp@ml.fdiary.net> | 
+ | [opensp](/f13/package/opensp) | 5364 | 5771 | 92.9 | Japanese <translation@gnome.gr.jp> | 
+ | [sugar-physics](/f13/package/sugar-physics) | 26 | 28 | 92.9 | LANGUAGE <LL@li.org> | 
+ | [xdg-user-dirs](/f13/package/xdg-user-dirs) | 26 | 28 | 92.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [easystroke](/f13/package/easystroke) | 473 | 511 | 92.6 | Japanese <ja@li.org> | 
+ | [shared-mime-info](/f13/package/shared-mime-info) | 1283 | 1387 | 92.5 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lynx](/f13/package/lynx) | 7433 | 8049 | 92.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [xmms](/f13/package/xmms) | 3177 | 3443 | 92.3 | Japanese <ja@li.org> | 
+ | [aumix](/f13/package/aumix) | 221 | 240 | 92.1 | Japanese <translation@gnome.gr.jp> | 
+ | [sabayon](/f13/package/sabayon) | 677 | 736 | 92.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [xfce4-dict](/f13/package/xfce4-dict) | 461 | 502 | 91.8 | Japanese <xfce-i18n@xfce.org> | 
+ | [gstreamer-plugins-bad-free](/f13/package/gstreamer-plugins-bad-free) | 66 | 72 | 91.7 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [pinot](/f13/package/pinot) | 528 | 577 | 91.5 | Japanese <ja@li.org> | 
+ | [gnome-libs](/f13/package/gnome-libs) | 2013 | 2207 | 91.2 | Japanese <translation@gnome.gr.jp> | 
+ | [evince](/f13/package/evince) | 2880 | 3159 | 91.2 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gobby](/f13/package/gobby) | 797 | 876 | 91.0 | Chikahiro Masami <cmasa.z321@gmail.com> | 
+ | [clementine](/f13/package/clementine) | 2341 | 2574 | 90.9 | LANGUAGE <LL@li.org> | 
+ | [a2ps](/f13/package/a2ps) | 1374 | 1512 | 90.9 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [alexandria](/f13/package/alexandria) | 1073 | 1181 | 90.9 | Japanese Translators | 
+ | [system-config-language](/f13/package/system-config-language) | 293 | 323 | 90.7 | Japanese <jp@li.org> | 
+ | [policycoreutils](/f13/package/policycoreutils) | 1332 | 1470 | 90.6 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [kdetv](/f13/package/kdetv) | 1998 | 2206 | 90.6 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kdiff3](/f13/package/kdiff3) | 3088 | 3410 | 90.6 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gnome-panel](/f13/package/gnome-panel) | 4956 | 5488 | 90.3 | Japanese | 
+ | [sos](/f13/package/sos) | 241 | 267 | 90.3 | Japanese <jp@li.org> | 
+ | [kde-partitionmanager](/f13/package/kde-partitionmanager) | 2459 | 2732 | 90.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [koffice-kivio](/f13/package/koffice-kivio) | 7508 | 8417 | 89.2 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gkrellm](/f13/package/gkrellm) | 3371 | 3783 | 89.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [wdiff](/f13/package/wdiff) | 106 | 119 | 89.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [libktorrent](/f13/package/libktorrent) | 371 | 417 | 89.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [wesnoth](/f13/package/wesnoth) | 201170 | 226922 | 88.7 | Japanese Translation Team | 
+ | [ktorrent](/f13/package/ktorrent) | 6678 | 7562 | 88.3 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kile](/f13/package/kile) | 9784 | 11114 | 88.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gtklp](/f13/package/gtklp) | 520 | 591 | 88.0 | Japanese <translation@gnome.gr.jp> | 
+ | [pidgin-guifications](/f13/package/pidgin-guifications) | 442 | 505 | 87.5 |  | 
+ | [gftp](/f13/package/gftp) | 2953 | 3375 | 87.5 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gtk-gnutella](/f13/package/gtk-gnutella) | 11304 | 12925 | 87.5 | Japanese <gtk-gnutella-devel@lists.sourceforge.net> | 
+ | [gawk](/f13/package/gawk) | 2277 | 2604 | 87.4 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gnome-applet-alarm-clock](/f13/package/gnome-applet-alarm-clock) | 364 | 417 | 87.3 | Japanese <ja@li.org> | 
+ | [kita](/f13/package/kita) | 602 | 690 | 87.2 | <ja@li.org> | 
+ | [make](/f13/package/make) | 1741 | 1997 | 87.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [setroubleshoot](/f13/package/setroubleshoot) | 488 | 563 | 86.7 | Japanese <jp@li.org> | 
+ | [tortoisehg](/f13/package/tortoisehg) | 5451 | 6301 | 86.5 | Japanese <ja@li.org> | 
+ | [kde-plasma-networkmanagement](/f13/package/kde-plasma-networkmanagement) | 2091 | 2422 | 86.3 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kmplayer](/f13/package/kmplayer) | 1076 | 1248 | 86.2 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gcompris](/f13/package/gcompris) | 8265 | 9596 | 86.1 |  | 
+ | [rhn-client-tools](/f13/package/rhn-client-tools) | 4135 | 4820 | 85.8 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [audacious](/f13/package/audacious) | 1110 | 1297 | 85.6 | Japanese <ja@li.org> | 
+ | [arm-gp2x-linux-binutils](/f13/package/arm-gp2x-linux-binutils) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [avr-binutils](/f13/package/avr-binutils) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [binutils](/f13/package/binutils) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [gcl](/f13/package/gcl) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [mingw32-binutils](/f13/package/mingw32-binutils) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [msp430-binutils](/f13/package/msp430-binutils) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [spu-binutils](/f13/package/spu-binutils) | 7063 | 8282 | 85.3 | Japanese <ja@li.org> | 
+ | [gpointing-device-settings](/f13/package/gpointing-device-settings) | 144 | 169 | 85.2 | LANGUAGE <LL@li.org> | 
+ | [gnome-power-manager](/f13/package/gnome-power-manager) | 2371 | 2786 | 85.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [workrave](/f13/package/workrave) | 998 | 1176 | 84.9 | Masanobu Yokota <masanobu.yokota@nifty.com> | 
+ | [gnome-pilot-conduits](/f13/package/gnome-pilot-conduits) | 177 | 209 | 84.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [util-linux-ng](/f13/package/util-linux-ng) | 11952 | 14159 | 84.4 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [yum](/f13/package/yum) | 2143 | 2553 | 83.9 | Japanese <elf@elf.no-ip.org> | 
+ | [rsibreak](/f13/package/rsibreak) | 1093 | 1304 | 83.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [apt](/f13/package/apt) | 3436 | 4113 | 83.5 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [kcoloredit](/f13/package/kcoloredit) | 232 | 278 | 83.5 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gnupg](/f13/package/gnupg) | 7189 | 8629 | 83.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [galculator](/f13/package/galculator) | 664 | 798 | 83.2 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gwget](/f13/package/gwget) | 128 | 154 | 83.1 | Japanese <ja@li.org> | 
+ | [python-sphinx10](/f13/package/python-sphinx10) | 393 | 474 | 82.9 | ja <LL@li.org> | 
+ | [shadow-utils](/f13/package/shadow-utils) | 2658 | 3221 | 82.5 | Japanese | 
+ | [gparted](/f13/package/gparted) | 1424 | 1733 | 82.2 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [lxdm](/f13/package/lxdm) | 9 | 11 | 81.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [rpm](/f13/package/rpm) | 3149 | 3851 | 81.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [alsa-utils](/f13/package/alsa-utils) | 1739 | 2135 | 81.5 | Japanese <LL@li.org> | 
+ | [kicad](/f13/package/kicad) | 10101 | 12443 | 81.2 | KiCad Developers <midpika@hotmail.com> | 
+ | [xfce4-mailwatch-plugin](/f13/package/xfce4-mailwatch-plugin) | 534 | 659 | 81.0 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [soundconverter](/f13/package/soundconverter) | 362 | 450 | 80.4 | Japanese <ja@li.org> | 
+ | [subversion](/f13/package/subversion) | 14300 | 17903 | 79.9 | Japanese <dev@subversion.tigris.org> | 
+ | [aria2](/f13/package/aria2) | 3685 | 4630 | 79.6 | Japanese <ja@li.org> | 
+ | [abook](/f13/package/abook) | 578 | 727 | 79.5 | japanese | 
+ | [kmess](/f13/package/kmess) | 5851 | 7402 | 79.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [guake](/f13/package/guake) | 413 | 523 | 79.0 | guake@lists.guake.org | 
+ | [geany-plugins](/f13/package/geany-plugins) | 2625 | 3332 | 78.8 | Japanese | 
+ | [gnucash](/f13/package/gnucash) | 20608 | 26312 | 78.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [ufraw](/f13/package/ufraw) | 1663 | 2139 | 77.7 | Japanese <tyaoknok@gmail.com> | 
+ | [emelfm2](/f13/package/emelfm2) | 4598 | 5932 | 77.5 | Japanese <ja@li.org> | 
+ | [indent](/f13/package/indent) | 210 | 272 | 77.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [homebank](/f13/package/homebank) | 1163 | 1509 | 77.1 | Team Puppy Linux Japanese | 
+ | [drgeo](/f13/package/drgeo) | 1525 | 1985 | 76.8 | Japanese <translation@gnome.gr.jp> | 
+ | [sed](/f13/package/sed) | 445 | 581 | 76.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [quodlibet](/f13/package/quodlibet) | 1525 | 2001 | 76.2 | Japanese | 
+ | [sugar-memorize](/f13/package/sugar-memorize) | 38 | 50 | 76.0 | LANGUAGE <LL@li.org> | 
+ | [wxMaxima](/f13/package/wxMaxima) | 2171 | 2857 | 76.0 |  | 
+ | [gnome-applet-window-picker](/f13/package/gnome-applet-window-picker) | 22 | 29 | 75.9 | Japanese | 
+ | [kpackagekit](/f13/package/kpackagekit) | 2721 | 3590 | 75.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [psad](/f13/package/psad) | 327 | 432 | 75.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [yumex](/f13/package/yumex) | 570 | 754 | 75.6 | Japanese <jp@li.org> | 
+ | [sugar-turtleart](/f13/package/sugar-turtleart) | 588 | 779 | 75.5 | LANGUAGE <walter@sugarlabs.org> | 
+ | [quilt](/f13/package/quilt) | 2400 | 3181 | 75.4 | Quilt | 
+ | [knemo](/f13/package/knemo) | 892 | 1186 | 75.2 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [asunder](/f13/package/asunder) | 338 | 450 | 75.1 | Japanese <ja@li.org> | 
+ | [python-sphinx](/f13/package/python-sphinx) | 297 | 397 | 74.8 | ja <LL@li.org> | 
+ | [goocanvas](/f13/package/goocanvas) | 1242 | 1697 | 73.2 |  | 
+ | [stellarium](/f13/package/stellarium) | 1761 | 2407 | 73.2 | Japanese <ja@li.org> | 
+ | [sakura](/f13/package/sakura) | 109 | 149 | 73.2 | Japanese <ja@li.org> | 
+ | [psmisc](/f13/package/psmisc) | 510 | 699 | 73.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [nautilus-actions](/f13/package/nautilus-actions) | 1132 | 1554 | 72.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [audacious-plugins](/f13/package/audacious-plugins) | 6445 | 8861 | 72.7 | Japanese <ja@li.org> | 
+ | [libgpod](/f13/package/libgpod) | 672 | 934 | 71.9 | n/a | 
+ | [hugin](/f13/package/hugin) | 3780 | 5261 | 71.8 | N/A | 
+ | [minicom](/f13/package/minicom) | 1227 | 1716 | 71.5 | Japanese | 
+ | [mercurial](/f13/package/mercurial) | 24157 | 34081 | 70.9 | Japanese | 
+ | [twitux](/f13/package/twitux) | 407 | 575 | 70.8 |  | 
+ | [python-formencode](/f13/package/python-formencode) | 540 | 765 | 70.6 | ja <LL@li.org> | 
+ | [synaptic](/f13/package/synaptic) | 2277 | 3231 | 70.5 | Project Vine <Vine@vinelinux.org> | 
+ | [shutter](/f13/package/shutter) | 1931 | 2763 | 69.9 | Japanese | 
+ | [kphotoalbum](/f13/package/kphotoalbum) | 4418 | 6333 | 69.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [amarok](/f13/package/amarok) | 8371 | 12039 | 69.5 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [xchat](/f13/package/xchat) | 3450 | 5027 | 68.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [skanlite](/f13/package/skanlite) | 97 | 142 | 68.3 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gtk-recordmydesktop](/f13/package/gtk-recordmydesktop) | 553 | 816 | 67.8 |  | 
+ | [qt-recordmydesktop](/f13/package/qt-recordmydesktop) | 553 | 816 | 67.8 |  | 
+ | [liblicense](/f13/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [konversation](/f13/package/konversation) | 6753 | 10183 | 66.3 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [googsystray](/f13/package/googsystray) | 503 | 759 | 66.3 | Japanese Team <lagfer@youck.org> | 
+ | [network-manager-netbook](/f13/package/network-manager-netbook) | 243 | 369 | 65.9 | Novell Language <language@novell.com> | 
+ | [k3b](/f13/package/k3b) | 13404 | 20429 | 65.6 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gtg](/f13/package/gtg) | 1173 | 1788 | 65.6 |  | 
+ | [xfce4-quicklauncher-plugin](/f13/package/xfce4-quicklauncher-plugin) | 28 | 43 | 65.1 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [avr-gdb](/f13/package/avr-gdb) | 2156 | 3375 | 63.9 | Japanese <ja@li.org> | 
+ | [gdb](/f13/package/gdb) | 2156 | 3375 | 63.9 | Japanese <ja@li.org> | 
+ | [insight](/f13/package/insight) | 2156 | 3375 | 63.9 | Japanese <ja@li.org> | 
+ | [gpa](/f13/package/gpa) | 1296 | 2042 | 63.5 | Japanese <gnupg-i18n@gnupg.org> | 
+ | [texlive](/f13/package/texlive) | 2776 | 4382 | 63.4 | Japanese <ja@li.org> | 
+ | [xsane](/f13/package/xsane) | 2037 | 3224 | 63.2 |  | 
+ | [digikam](/f13/package/digikam) | 14900 | 23653 | 63.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [etoys](/f13/package/etoys) | 17162 | 27474 | 62.5 |  | 
+ | [frozen-bubble](/f13/package/frozen-bubble) | 436 | 698 | 62.5 | Japanese | 
+ | [eboard](/f13/package/eboard) | 1380 | 2211 | 62.4 |  | 
+ | [gnome-do](/f13/package/gnome-do) | 293 | 470 | 62.3 | Japanese <ja@li.org> | 
+ | [sharutils](/f13/package/sharutils) | 652 | 1048 | 62.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [pidgin](/f13/package/pidgin) | 11622 | 18730 | 62.1 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [im-chooser](/f13/package/im-chooser) | 132 | 213 | 62.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [gstreamer-plugins-good](/f13/package/gstreamer-plugins-good) | 459 | 750 | 61.2 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [mailody](/f13/package/mailody) | 476 | 783 | 60.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [balsa](/f13/package/balsa) | 3249 | 5348 | 60.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [thunar-archive-plugin](/f13/package/thunar-archive-plugin) | 52 | 86 | 60.5 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [libgphoto2](/f13/package/libgphoto2) | 6301 | 10541 | 59.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [sane-backends](/f13/package/sane-backends) | 2567 | 4356 | 58.9 | Japanese <japanese@li.org> | 
+ | [granule](/f13/package/granule) | 206 | 355 | 58.0 | Japanese | 
+ | [yum-rhn-plugin](/f13/package/yum-rhn-plugin) | 62 | 107 | 57.9 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [pybliographer](/f13/package/pybliographer) | 562 | 971 | 57.9 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [pybackpack](/f13/package/pybackpack) | 642 | 1115 | 57.6 | Tomoe Sugihara <first dot last at gmail > | 
+ | [gdesklets](/f13/package/gdesklets) | 870 | 1528 | 56.9 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [bittorrent](/f13/package/bittorrent) | 2177 | 3904 | 55.8 | LANGUAGE <LL@li.org> | 
+ | [gnupg2](/f13/package/gnupg2) | 5827 | 10451 | 55.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [blueman](/f13/package/blueman) | 764 | 1376 | 55.5 | Japanese <ja@li.org> | 
+ | [choqok](/f13/package/choqok) | 1023 | 1854 | 55.2 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [geeqie](/f13/package/geeqie) | 1593 | 2909 | 54.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [compat-gcc-32](/f13/package/compat-gcc-32) | 16180 | 29557 | 54.7 | Japanese <ja@li.org> | 
+ | [msp430-gcc](/f13/package/msp430-gcc) | 16180 | 29557 | 54.7 | Japanese <ja@li.org> | 
+ | [hello](/f13/package/hello) | 95 | 174 | 54.6 | Japanese <ja@li.org> | 
+ | [xchat-gnome](/f13/package/xchat-gnome) | 2104 | 3901 | 53.9 | Japanese <translation@gnome.gr.jp> | 
+ | [elfutils](/f13/package/elfutils) | 4170 | 7743 | 53.9 | Japanese <jp@li.org> | 
+ | [Zim](/f13/package/Zim) | 671 | 1247 | 53.8 | Japanese <ja@li.org> | 
+ | [nbtk](/f13/package/nbtk) | 47 | 88 | 53.4 |  | 
+ | [ipa](/f13/package/ipa) | 308 | 580 | 53.1 | LANGUAGE <LL@li.org> | 
+ | [phpldapadmin](/f13/package/phpldapadmin) | 1813 | 3441 | 52.7 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
+ | [transmission](/f13/package/transmission) | 865 | 1642 | 52.7 | Japanese <ja@li.org> | 
+ | [pinfo](/f13/package/pinfo) | 169 | 321 | 52.6 | Japanese <ja@li.org> | 
+ | [gnome-pilot](/f13/package/gnome-pilot) | 862 | 1644 | 52.4 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [squirrelmail](/f13/package/squirrelmail) | 4668 | 9186 | 50.8 | Japanese <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [yakuake](/f13/package/yakuake) | 654 | 1288 | 50.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gcombust](/f13/package/gcombust) | 2018 | 4009 | 50.3 | Japanese | 
+ | [gxine](/f13/package/gxine) | 1347 | 2741 | 49.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gwibber](/f13/package/gwibber) | 22 | 45 | 48.9 | Japanese <ja@li.org> | 
+ | [kpilot](/f13/package/kpilot) | 3460 | 7156 | 48.4 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kipi-plugins](/f13/package/kipi-plugins) | 7682 | 16077 | 47.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [gwaei](/f13/package/gwaei) | 558 | 1169 | 47.7 | Not Applicable | 
+ | [fuse-encfs](/f13/package/fuse-encfs) | 623 | 1315 | 47.4 | Japanese <ja@li.org> | 
+ | [mingw32-libidn](/f13/package/mingw32-libidn) | 189 | 413 | 45.8 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [dpkg](/f13/package/dpkg) | 17147 | 37520 | 45.7 | Debian Japanease List <debian-japanese@lists.debian.org> | 
+ | [goffice](/f13/package/goffice) | 2070 | 4599 | 45.0 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [hamster-applet](/f13/package/hamster-applet) | 246 | 553 | 44.5 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [CableSwig](/f13/package/CableSwig) | 505 | 1140 | 44.3 | Japanese <ja@li.org> | 
+ | [gccxml](/f13/package/gccxml) | 505 | 1140 | 44.3 | Japanese <ja@li.org> | 
+ | [transifex](/f13/package/transifex) | 2021 | 4658 | 43.4 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [nesc](/f13/package/nesc) | 499 | 1178 | 42.4 | Japanese <ja@li.org> | 
+ | [gnome-video-effects](/f13/package/gnome-video-effects) | 11 | 26 | 42.3 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gnome-commander](/f13/package/gnome-commander) | 3521 | 8348 | 42.2 | Japanese Translation Team <translation@gnome.gr.jp> | 
+ | [system-config-boot](/f13/package/system-config-boot) | 50 | 119 | 42.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [listen](/f13/package/listen) | 747 | 1783 | 41.9 | Japanese <ja@li.org> | 
+ | [gtkpod](/f13/package/gtkpod) | 2843 | 6813 | 41.7 | n/a | 
+ | [txt2regex](/f13/package/txt2regex) | 115 | 277 | 41.5 | Japanese <LL@li.org> | 
+ | [Miro](/f13/package/Miro) | 1358 | 3336 | 40.7 | Japanese <ja@li.org> | 
+ | [libvirt](/f13/package/libvirt) | 7843 | 20183 | 38.9 | Japanese <jp@li.org> | 
+ | [libidn](/f13/package/libidn) | 160 | 414 | 38.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [ibus-handwrite](/f13/package/ibus-handwrite) | 15 | 39 | 38.5 | ja <microcai@fedoraproject.org> | 
+ | [geda-gaf](/f13/package/geda-gaf) | 700 | 1841 | 38.0 | japanese <ja@li.org> | 
+ | [compat-libgda](/f13/package/compat-libgda) | 1922 | 5076 | 37.9 | Japanese <translation@gnome.gr.jp> | 
+ | [publican-ovirt](/f13/package/publican-ovirt) | 107 | 288 | 37.2 | none | 
+ | [byobu](/f13/package/byobu) | 65 | 177 | 36.7 | Japanese <ja@li.org> | 
+ | [sitecopy](/f13/package/sitecopy) | 844 | 2300 | 36.7 | ja | 
+ | [scim-hangul](/f13/package/scim-hangul) | 77 | 214 | 36.0 | Japanese <ja@li.org> | 
+ | [avogadro](/f13/package/avogadro) | 1526 | 4262 | 35.8 | Japanese <ja@li.org> | 
+ | [gnubg](/f13/package/gnubg) | 5891 | 16575 | 35.5 | Japanese <gnubg-ja@kinchan.com> | 
+ | [gstreamer](/f13/package/gstreamer) | 646 | 1829 | 35.3 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [krename](/f13/package/krename) | 669 | 1926 | 34.7 | <ja@li.org> | 
+ | [ocaml-gettext](/f13/package/ocaml-gettext) | 193 | 563 | 34.3 | Japanese | 
+ | [compat-gcc-34](/f13/package/compat-gcc-34) | 10402 | 30879 | 33.7 | Japanese <ja@li.org> | 
+ | [simple-scan](/f13/package/simple-scan) | 194 | 597 | 32.5 | Japanese <ja@li.org> | 
+ | [monotone](/f13/package/monotone) | 3539 | 10925 | 32.4 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [rt3](/f13/package/rt3) | 2419 | 7473 | 32.4 | rt-devel <rt-devel@lists.bestpractical.com> | 
+ | [krusader](/f13/package/krusader) | 2458 | 7736 | 31.8 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [glunarclock](/f13/package/glunarclock) | 71 | 226 | 31.4 | Japanese <ja@li.org> | 
+ | [xfce4-mount-plugin](/f13/package/xfce4-mount-plugin) | 93 | 298 | 31.2 | Japanese <xfce-i18n@xfce.org> | 
+ | [terminator](/f13/package/terminator) | 65 | 218 | 29.8 | Japanese <ja@li.org> | 
+ | [python-virtinst](/f13/package/python-virtinst) | 1076 | 3627 | 29.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [referencer](/f13/package/referencer) | 259 | 879 | 29.5 | Japanese <ja@li.org> | 
+ | [system-config-kdump](/f13/package/system-config-kdump) | 235 | 807 | 29.1 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [gurlchecker](/f13/package/gurlchecker) | 603 | 2083 | 28.9 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [yash](/f13/package/yash) | 2123 | 7488 | 28.4 | Japanese | 
+ | [ipplan](/f13/package/ipplan) | 1354 | 4936 | 27.4 | Japanese <ja@li.org> | 
+ | [tuxmath](/f13/package/tuxmath) | 288 | 1051 | 27.4 | Japanese <ja@li.org> | 
+ | [notecase](/f13/package/notecase) | 314 | 1156 | 27.2 | NoteCase team | 
+ | [gpsdrive](/f13/package/gpsdrive) | 676 | 2505 | 27.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [publican](/f13/package/publican) | 934 | 3463 | 27.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [cowbell](/f13/package/cowbell) | 173 | 646 | 26.8 | Japanese <bailey@tgpsolutions.com> | 
+ | [cinepaint](/f13/package/cinepaint) | 1943 | 7453 | 26.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [exaile](/f13/package/exaile) | 704 | 2766 | 25.5 | Japanese <ja@li.org> | 
+ | [coreutils](/f13/package/coreutils) | 4644 | 18529 | 25.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [kvirc](/f13/package/kvirc) | 5294 | 21503 | 24.6 | Japanese <elf@elf.no-ip.org> | 
+ | [xfce4-volstatus-icon](/f13/package/xfce4-volstatus-icon) | 46 | 197 | 23.4 | Japanese <xfce-i18n@xfce.org> | 
+ | [bison](/f13/package/bison) | 232 | 1012 | 22.9 | Japanese <ja@li.org> | 
+ | [gnome-do-plugins](/f13/package/gnome-do-plugins) | 521 | 2323 | 22.4 | Japanese <ja@li.org> | 
+ | [roundup](/f13/package/roundup) | 1079 | 4937 | 21.9 | Yasushi Iwata <iwata@know-net.co.jp> | 
+ | [jmol](/f13/package/jmol) | 245 | 1136 | 21.6 | Japanese <ja@li.org> | 
+ | [tomoe-gtk](/f13/package/tomoe-gtk) | 48 | 223 | 21.5 | Japanese <ja@li.org> | 
+ | [calibre](/f13/package/calibre) | 4189 | 19998 | 20.9 | Japanese <ja@li.org> | 
+ | [gnumeric](/f13/package/gnumeric) | 7199 | 35046 | 20.5 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [gutenprint](/f13/package/gutenprint) | 1968 | 9583 | 20.5 | Japanese <translation@gnome.gr.jp> | 
+ | [vidalia](/f13/package/vidalia) | 1866 | 9310 | 20.0 | LANGUAGE <LL@li.org> | 
+ | [icewm](/f13/package/icewm) | 268 | 1376 | 19.5 | Japanese | 
+ | [mono](/f13/package/mono) | 1285 | 6716 | 19.1 |  | 
+ | [quassel](/f13/package/quassel) | 802 | 4435 | 18.1 | 日本語 <Kdeveloper@kde.gr.jp> | 
+ | [iso-codes](/f13/package/iso-codes) | 3373 | 19375 | 17.4 | Japanese | 
+ | [avant-window-navigator](/f13/package/avant-window-navigator) | 288 | 1655 | 17.4 | Japanese <ja@li.org> | 
+ | [xfce4-modemlights-plugin](/f13/package/xfce4-modemlights-plugin) | 22 | 136 | 16.2 | Japanese <xfce-users-jp@ml.fdiary.net> | 
+ | [libexif](/f13/package/libexif) | 1098 | 6968 | 15.8 | Japanese <ja@li.org> | 
+ | [kdbg](/f13/package/kdbg) | 136 | 866 | 15.7 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [kaffeine](/f13/package/kaffeine) | 86 | 548 | 15.7 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [csmash](/f13/package/csmash) | 42 | 291 | 14.4 | Cannon Smash development project <csmash@utmc.or.jp> | 
+ | [arm-gp2x-linux-gcc](/f13/package/arm-gp2x-linux-gcc) | 5862 | 41043 | 14.3 | Japanese <ja@li.org> | 
+ | [pan](/f13/package/pan) | 318 | 2288 | 13.9 | Japanese <translation@gnome.gr.jp> | 
+ | [mypaint](/f13/package/mypaint) | 263 | 1916 | 13.7 |  | 
+ | [xiphos](/f13/package/xiphos) | 462 | 3815 | 12.1 | Japanese <ja@li.org> | 
+ | [xscreensaver](/f13/package/xscreensaver) | 1204 | 10165 | 11.8 |  | 
+ | [conglomerate](/f13/package/conglomerate) | 740 | 6317 | 11.7 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [linphone](/f13/package/linphone) | 166 | 1440 | 11.5 | <ja@li.org> | 
+ | [specspo](/f13/package/specspo) | 34935 | 305294 | 11.4 | Japanese <jp@li.org> | 
+ | [findutils](/f13/package/findutils) | 236 | 2105 | 11.2 | Japanese <ja@li.org> | 
+ | [xfce4-eyes-plugin](/f13/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Japanese <xfce-i18n@xfce.org> | 
+ | [ghdl](/f13/package/ghdl) | 5408 | 49908 | 10.8 | Japanese <ja@li.org> | 
+ | [m17n-db](/f13/package/m17n-db) | 107 | 995 | 10.8 | ja <ja@li.org> | 
+ | [subdownloader](/f13/package/subdownloader) | 100 | 968 | 10.3 | LANGUAGE <LL@li.org> | 
+ | [gcc](/f13/package/gcc) | 5365 | 53910 | 10.0 | Japanese <ja@li.org> | 
+ | [mingw32-gcc](/f13/package/mingw32-gcc) | 5365 | 53910 | 10.0 | Japanese <ja@li.org> | 
+ | [cairo-clock](/f13/package/cairo-clock) | 270 | 2761 | 9.8 | Japanese <gnome-translation@gnome.gr.jp> | 
+ | [avr-gcc](/f13/package/avr-gcc) | 5230 | 59095 | 8.9 | Japanese <ja@li.org> | 
+ | [pidgin-sipe](/f13/package/pidgin-sipe) | 59 | 678 | 8.7 | Novell Language <language@novell.com> | 
+ | [gourmet](/f13/package/gourmet) | 280 | 3647 | 7.7 | Japanese <ja@li.org> | 
+ | [grep](/f13/package/grep) | 63 | 827 | 7.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gnotime](/f13/package/gnotime) | 127 | 2008 | 6.3 | Japanese <translation@gnome.gr.jp> | 
+ | [open-cobol](/f13/package/open-cobol) | 92 | 1629 | 5.6 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [awn-extras-applets](/f13/package/awn-extras-applets) | 390 | 7205 | 5.4 | Japanese <ja@li.org> | 
+ | [pyroom](/f13/package/pyroom) | 21 | 411 | 5.1 | Japanese <ja@li.org> | 
+ | [neon](/f13/package/neon) | 32 | 674 | 4.7 | ja | 
+ | [libgda](/f13/package/libgda) | 336 | 7730 | 4.3 | Japanese <translation@gnome.gr.jp> | 
+ | [decibel-audio-player](/f13/package/decibel-audio-player) | 64 | 1494 | 4.3 | Japanese <ja@li.org> | 
+ | [gnash](/f13/package/gnash) | 369 | 8748 | 4.2 | Japanese <ja@li.org> | 
+ | [jpoker](/f13/package/jpoker) | 15 | 357 | 4.2 | french <fr@li.org> | 
+ | [dc3dd](/f13/package/dc3dd) | 38 | 932 | 4.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [lilypond](/f13/package/lilypond) | 129 | 3241 | 4.0 | Japanese <ja@li.org> | 
+ | [widelands](/f13/package/widelands) | 409 | 10437 | 3.9 | Japanese <ja@li.org> | 
+ | [bash](/f13/package/bash) | 393 | 10715 | 3.7 | Japanese <ja@li.org> | 
+ | [ntfs-config](/f13/package/ntfs-config) | 13 | 357 | 3.6 | Japanese <ja@li.org> | 
+ | [pastebinit](/f13/package/pastebinit) | 5 | 165 | 3.0 | Japanese <ja@li.org> | 
+ | [viking](/f13/package/viking) | 53 | 1926 | 2.8 | Japanese <ja@li.org> | 
+ | [rapid-photo-downloader](/f13/package/rapid-photo-downloader) | 52 | 1912 | 2.7 | Japanese <ja@li.org> | 
+ | [manaworld](/f13/package/manaworld) | 67 | 2484 | 2.7 | Japanese <ja@li.org> | 
+ | [griffith](/f13/package/griffith) | 46 | 1876 | 2.5 | Japanese <ja@li.org> | 
+ | [gscan2pdf](/f13/package/gscan2pdf) | 30 | 1368 | 2.2 | Japanese <ja@li.org> | 
+ | [gnomebaker](/f13/package/gnomebaker) | 26 | 1186 | 2.2 | Japanese <ja@li.org> | 
+ | [xpad](/f13/package/xpad) | 6 | 363 | 1.7 | Japanese <ja@li.org> | 
+ | [whaawmp](/f13/package/whaawmp) | 12 | 757 | 1.6 | Japanese <ja@li.org> | 
+ | [ailurus](/f13/package/ailurus) | 100 | 6702 | 1.5 | none | 
+ | [gnome-gmail](/f13/package/gnome-gmail) | 3 | 268 | 1.1 | Japanese <ja@li.org> | 
+ | [pychess](/f13/package/pychess) | 18 | 1671 | 1.1 | Japanese <ja@li.org> | 
+ | [jokosher](/f13/package/jokosher) | 18 | 2059 | 0.9 | Japanese <ja@li.org> | 
+ | [gnome-packagekit](/f13/package/gnome-packagekit) | 43 | 5250 | 0.8 | English <en@li.org> | 
+ | [lazarus](/f13/package/lazarus) | 4 | 713 | 0.6 |  | 
+ | [pulseaudio](/f13/package/pulseaudio) | 11 | 2849 | 0.4 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [sectool](/f13/package/sectool) | 5 | 2411 | 0.2 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [ocaml-libvirt](/f13/package/ocaml-libvirt) | 2 | 1113 | 0.2 | Japanese | 
+ | [gretl](/f13/package/gretl) | 9 | 12610 | 0.1 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [libguestfs](/f13/package/libguestfs) | 1 | 46937 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [LabPlot](/f13/package/LabPlot) | 0 | 3250 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [cups](/f13/package/cups) | 0 | 0 | 0.0 |  | 
+ | [garcon](/f13/package/garcon) | 0 | 17 | 0.0 | Japanese <translation-team-ja@lists.sourceforge.net> | 
+ | [gnome-activity-journal](/f13/package/gnome-activity-journal) | 0 | 316 | 0.0 | Japanese <ja@li.org> | 
+ | [grass](/f13/package/grass) | 0 | 44639 | 0.0 | Japanese <grass-translations@lists.osgeo.org> | 
+ | [knights](/f13/package/knights) | 0 | 555 | 0.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [libgxim](/f13/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [libsmbios](/f13/package/libsmbios) | 0 | 1443 | 0.0 | Japanese | 
+ | [openswan](/f13/package/openswan) | 0 | 974 | 0.0 | Japanese <debian-japanese@lists.debian.org> | 
+ | [phatch](/f13/package/phatch) | 0 | 2553 | 0.0 | Japanese <ja@li.org> | 
+ | [revisor](/f13/package/revisor) | 0 | 4171 | 0.0 |  | 
+ | [skrooge](/f13/package/skrooge) | 0 | 5759 | 0.0 | Japanese <Kdeveloper@kde.gr.jp> | 
+ | [sssd](/f13/package/sssd) | 0 | 1276 | 0.0 | Japanese <fedora-trans-ja@redhat.com> | 
+ | [sugar-connect](/f13/package/sugar-connect) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f13/package/sugar-distance) | 0 | 79 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f13/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f13/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f13/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f13/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tgif](/f13/package/tgif) | 0 | 0 | 0.0 |  | 
+ | [tuxtype2](/f13/package/tuxtype2) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-mem](/f13/package/virt-mem) | 0 | 348 | 0.0 | Japanese | 
 {.sortable}
 
 
@@ -880,18 +880,18 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [cups]({{< ref "/f13/package/cups.md" >}}) | /mnt/stockage/packages/f13/cups/locale/cups_ja.po | error-os |  | 
- | [eboard]({{< ref "/f13/package/eboard.md" >}}) | /mnt/stockage/packages/f13/eboard/multilang/eboard.ja.po | error-os |  | 
- | [fontforge]({{< ref "/f13/package/fontforge.md" >}}) | /mnt/stockage/packages/f13/fontforge/po/ja.po | error-os |  | 
- | [gcompris]({{< ref "/f13/package/gcompris.md" >}}) | /mnt/stockage/packages/f13/gcompris/po/ja.po | error-os |  | 
- | [gtg]({{< ref "/f13/package/gtg.md" >}}) | /mnt/stockage/packages/f13/gtg/locales/gtg-ja.po | error-os |  | 
- | [lazarus]({{< ref "/f13/package/lazarus.md" >}}) | /mnt/stockage/packages/f13/lazarus/languages/lazaruside.ja.po | error-unicode |  | 
- | [moin]({{< ref "/f13/package/moin.md" >}}) | /mnt/stockage/packages/f13/moin/MoinMoin/i18n/ja.MoinMoin.po | error-os |  | 
- | [scim]({{< ref "/f13/package/scim.md" >}}) | /mnt/stockage/packages/f13/scim/po/ja.po | error-os |  | 
- | [seedit]({{< ref "/f13/package/seedit.md" >}}) | /mnt/stockage/packages/f13/seedit/gui/po/ja.po | error-os |  | 
- | [tgif]({{< ref "/f13/package/tgif.md" >}}) | /mnt/stockage/packages/f13/tgif/po/ja/ja.po | error-unicode |  | 
- | [xsane]({{< ref "/f13/package/xsane.md" >}}) | /mnt/stockage/packages/f13/xsane/backend-po/umax.ja.po | error-unicode |  | 
- | [xscreensaver]({{< ref "/f13/package/xscreensaver.md" >}}) | /mnt/stockage/packages/f13/xscreensaver/po/._ja.po | error-unicode |  | 
+ | [cups](/f13/package/cups) | /mnt/stockage/packages/f13/cups/locale/cups_ja.po | error-os |  | 
+ | [eboard](/f13/package/eboard) | /mnt/stockage/packages/f13/eboard/multilang/eboard.ja.po | error-os |  | 
+ | [fontforge](/f13/package/fontforge) | /mnt/stockage/packages/f13/fontforge/po/ja.po | error-os |  | 
+ | [gcompris](/f13/package/gcompris) | /mnt/stockage/packages/f13/gcompris/po/ja.po | error-os |  | 
+ | [gtg](/f13/package/gtg) | /mnt/stockage/packages/f13/gtg/locales/gtg-ja.po | error-os |  | 
+ | [lazarus](/f13/package/lazarus) | /mnt/stockage/packages/f13/lazarus/languages/lazaruside.ja.po | error-unicode |  | 
+ | [moin](/f13/package/moin) | /mnt/stockage/packages/f13/moin/MoinMoin/i18n/ja.MoinMoin.po | error-os |  | 
+ | [scim](/f13/package/scim) | /mnt/stockage/packages/f13/scim/po/ja.po | error-os |  | 
+ | [seedit](/f13/package/seedit) | /mnt/stockage/packages/f13/seedit/gui/po/ja.po | error-os |  | 
+ | [tgif](/f13/package/tgif) | /mnt/stockage/packages/f13/tgif/po/ja/ja.po | error-unicode |  | 
+ | [xsane](/f13/package/xsane) | /mnt/stockage/packages/f13/xsane/backend-po/umax.ja.po | error-unicode |  | 
+ | [xscreensaver](/f13/package/xscreensaver) | /mnt/stockage/packages/f13/xscreensaver/po/._ja.po | error-unicode |  | 
 {.sortable}
 
 
@@ -902,11 +902,11 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [cups]({{< ref "/f13/package/cups.md" >}}) | /mnt/stockage/packages/f13/cups/locale/cups_ja.po |  | 
- | [lazarus]({{< ref "/f13/package/lazarus.md" >}}) | /mnt/stockage/packages/f13/lazarus/languages/lazaruside.ja.po |  | 
- | [tgif]({{< ref "/f13/package/tgif.md" >}}) | /mnt/stockage/packages/f13/tgif/po/ja/ja.po |  | 
- | [xsane]({{< ref "/f13/package/xsane.md" >}}) | /mnt/stockage/packages/f13/xsane/backend-po/umax.ja.po |  | 
- | [xscreensaver]({{< ref "/f13/package/xscreensaver.md" >}}) | /mnt/stockage/packages/f13/xscreensaver/po/._ja.po |  | 
+ | [cups](/f13/package/cups) | /mnt/stockage/packages/f13/cups/locale/cups_ja.po |  | 
+ | [lazarus](/f13/package/lazarus) | /mnt/stockage/packages/f13/lazarus/languages/lazaruside.ja.po |  | 
+ | [tgif](/f13/package/tgif) | /mnt/stockage/packages/f13/tgif/po/ja/ja.po |  | 
+ | [xsane](/f13/package/xsane) | /mnt/stockage/packages/f13/xsane/backend-po/umax.ja.po |  | 
+ | [xscreensaver](/f13/package/xscreensaver) | /mnt/stockage/packages/f13/xscreensaver/po/._ja.po |  | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package duff (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f26/language/error.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f26/duff/po/en@quot.po/mnt/stockage/packages/f26/duff/po/en@boldquot.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 197 | 232 | 84.9 | /mnt/stockage/packages/f26/duff/po/en.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 197 | 232 | 84.9 | /mnt/stockage/packages/f26/duff/po/sv.po | 
+ | [error](/f26/language/error) | 464 | 464 | 100.0 | /mnt/stockage/packages/f26/duff/po/en@quot.po/mnt/stockage/packages/f26/duff/po/en@boldquot.po | 
+ | [en](/f26/language/en) | 197 | 232 | 84.9 | /mnt/stockage/packages/f26/duff/po/en.po | 
+ | [sv](/f26/language/sv) | 197 | 232 | 84.9 | /mnt/stockage/packages/f26/duff/po/sv.po | 
 {.sortable}
 
 

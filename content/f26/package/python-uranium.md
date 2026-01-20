@@ -18,20 +18,20 @@ The package python-uranium (version 3.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/de_DE/uranium.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/es_ES/uranium.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/fi_FI/uranium.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/fr_FR/uranium.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/it_IT/uranium.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/nl_NL/uranium.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/pl_PL/uranium.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/pt_BR/uranium.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/ru_RU/uranium.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/tr_TR/uranium.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/zh_CN/uranium.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 0 | 528 | 0.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/hu_HU/uranium.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 0 | 528 | 0.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/ja_JP/uranium.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 0 | 528 | 0.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/ko_KR/uranium.po | 
+ | [de](/f26/language/de) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/de_DE/uranium.po | 
+ | [es](/f26/language/es) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/es_ES/uranium.po | 
+ | [fi](/f26/language/fi) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/fi_FI/uranium.po | 
+ | [fr](/f26/language/fr) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/fr_FR/uranium.po | 
+ | [it](/f26/language/it) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/it_IT/uranium.po | 
+ | [nl](/f26/language/nl) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/nl_NL/uranium.po | 
+ | [pl](/f26/language/pl) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/pl_PL/uranium.po | 
+ | [pt_BR](/f26/language/pt_BR) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/pt_BR/uranium.po | 
+ | [ru](/f26/language/ru) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/ru_RU/uranium.po | 
+ | [tr](/f26/language/tr) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/tr_TR/uranium.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 528 | 528 | 100.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/zh_CN/uranium.po | 
+ | [hu](/f26/language/hu) | 0 | 528 | 0.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/hu_HU/uranium.po | 
+ | [ja](/f26/language/ja) | 0 | 528 | 0.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/ja_JP/uranium.po | 
+ | [ko](/f26/language/ko) | 0 | 528 | 0.0 | /mnt/stockage/packages/f26/python-uranium/resources/i18n/ko_KR/uranium.po | 
 {.sortable}
 
 

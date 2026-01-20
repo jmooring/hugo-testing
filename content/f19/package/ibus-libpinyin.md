@@ -18,11 +18,11 @@ The package ibus-libpinyin (version 1.6.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/zh_CN.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 117 | 308 | 38.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/fr.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 117 | 308 | 38.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 117 | 308 | 38.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/zh_HK.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 42 | 308 | 13.6 | /mnt/stockage/packages/f19/ibus-libpinyin/po/ru.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 308 | 308 | 100.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/zh_CN.po | 
+ | [fr](/f19/language/fr) | 117 | 308 | 38.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/fr.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 117 | 308 | 38.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 117 | 308 | 38.0 | /mnt/stockage/packages/f19/ibus-libpinyin/po/zh_HK.po | 
+ | [ru](/f19/language/ru) | 42 | 308 | 13.6 | /mnt/stockage/packages/f19/ibus-libpinyin/po/ru.po | 
 {.sortable}
 
 

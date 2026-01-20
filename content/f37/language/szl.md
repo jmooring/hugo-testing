@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f37/package/gnome-menus.md" >}}) | 103 | 103 | 100.0 | Silesian <szl@li.org> | 
- | [polkit-gnome]({{< ref "/f37/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Silesian <ubuntu-l10n-szl@lists.launchpad.net> | 
- | [deja-dup]({{< ref "/f37/package/deja-dup.md" >}}) | 1351 | 1623 | 83.2 | Silesian <szl@li.org> | 
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 141 | 172 | 82.0 | Silesian <szl@li.org> | 
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 94587 | 168395 | 56.2 | Silesian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/szl/> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 55 | 211 | 26.1 | Silesian <szl@li.org> | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 109 | 498 | 21.9 | Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 0 | 13502 | 0.0 | Silesian <szl@li.org> | 
- | [mc]({{< ref "/f37/package/mc.md" >}}) | 0 | 4408 | 0.0 | Silesian (http://www.transifex.com/mc/mc/language/szl/) | 
- | [midori]({{< ref "/f37/package/midori.md" >}}) | 0 | 3541 | 0.0 | Silesian <szl@li.org> | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f37/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [gnome-menus](/f37/package/gnome-menus) | 103 | 103 | 100.0 | Silesian <szl@li.org> | 
+ | [polkit-gnome](/f37/package/polkit-gnome) | 94 | 94 | 100.0 | Silesian <ubuntu-l10n-szl@lists.launchpad.net> | 
+ | [deja-dup](/f37/package/deja-dup) | 1351 | 1623 | 83.2 | Silesian <szl@li.org> | 
+ | [blueberry](/f37/package/blueberry) | 141 | 172 | 82.0 | Silesian <szl@li.org> | 
+ | [libreoffice](/f37/package/libreoffice) | 94587 | 168395 | 56.2 | Silesian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/szl/> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 55 | 211 | 26.1 | Silesian <szl@li.org> | 
+ | [granite](/f37/package/granite) | 109 | 498 | 21.9 | Silesian <https://l10n.elementary.io/projects/desktop/granite/szl/> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 0 | 13502 | 0.0 | Silesian <szl@li.org> | 
+ | [mc](/f37/package/mc) | 0 | 4408 | 0.0 | Silesian (http://www.transifex.com/mc/mc/language/szl/) | 
+ | [midori](/f37/package/midori) | 0 | 3541 | 0.0 | Silesian <szl@li.org> | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f37/package/supertuxkart) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

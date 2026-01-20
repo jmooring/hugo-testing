@@ -39,22 +39,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f16/package/virtaal.md" >}}) | 1302 | 1334 | 97.6 | translate-discuss-st@lists.sourceforge.net | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 49679 | 95497 | 52.0 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f16/package/pootle.md" >}}) | 138 | 2424 | 5.7 | English South Africa <en@li.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f16/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f16/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f16/package/sugar-infoslicer.md" >}}) | 0 | 184 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f16/package/sugar-labyrinth.md" >}}) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f16/package/sugar-memorize.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f16/package/sugar-moon.md" >}}) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f16/package/sugar-physics.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f16/package/virtaal) | 1302 | 1334 | 97.6 | translate-discuss-st@lists.sourceforge.net | 
+ | [libreoffice](/f16/package/libreoffice) | 49679 | 95497 | 52.0 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f16/package/pootle) | 138 | 2424 | 5.7 | English South Africa <en@li.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
+ | [olpc-switch-desktop](/f16/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f16/package/sugar-abacus) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f16/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f16/package/sugar-finance) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f16/package/sugar-infoslicer) | 0 | 184 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f16/package/sugar-labyrinth) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f16/package/sugar-memorize) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f16/package/sugar-moon) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f16/package/sugar-physics) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f16/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f16/package/sugar-visualmatch) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

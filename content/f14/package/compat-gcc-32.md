@@ -18,15 +18,15 @@ The package compat-gcc-32 (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/libstdc++-v3/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 28643 | 28643 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/fr.po/mnt/stockage/packages/f14/compat-gcc-32/libstdc++-v3/po/fr.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/tr.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 16180 | 29557 | 54.7 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/ja.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 6983 | 22342 | 31.3 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/sv.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 5360 | 18568 | 28.9 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/da.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 4827 | 34490 | 14.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/nl.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 147 | 34490 | 0.4 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/el.po | 
+ | [de](/f14/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/libstdc++-v3/po/de.po | 
+ | [es](/f14/language/es) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/es.po | 
+ | [fr](/f14/language/fr) | 28643 | 28643 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/fr.po/mnt/stockage/packages/f14/compat-gcc-32/libstdc++-v3/po/fr.po | 
+ | [tr](/f14/language/tr) | 28638 | 28638 | 100.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/tr.po | 
+ | [ja](/f14/language/ja) | 16180 | 29557 | 54.7 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/ja.po | 
+ | [sv](/f14/language/sv) | 6983 | 22342 | 31.3 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/sv.po | 
+ | [da](/f14/language/da) | 5360 | 18568 | 28.9 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/da.po | 
+ | [nl](/f14/language/nl) | 4827 | 34490 | 14.0 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/nl.po | 
+ | [el](/f14/language/el) | 147 | 34490 | 0.4 | /mnt/stockage/packages/f14/compat-gcc-32/gcc/po/el.po | 
 {.sortable}
 
 

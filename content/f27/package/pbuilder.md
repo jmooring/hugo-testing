@@ -18,27 +18,27 @@ The package pbuilder (version 0.229.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 6633 | 6633 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/de.po/mnt/stockage/packages/f27/pbuilder/Documentation/pbuilder-doc.de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/es.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/eu.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/fi.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/gl.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/it.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/nl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sk.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sr.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sr@latin.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/tr.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2662 | 6633 | 40.1 | /mnt/stockage/packages/f27/pbuilder/debian/po/fr.po/mnt/stockage/packages/f27/pbuilder/Documentation/pbuilder-doc.fr.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1177 | 6633 | 17.7 | /mnt/stockage/packages/f27/pbuilder/debian/po/ja.po/mnt/stockage/packages/f27/pbuilder/Documentation/pbuilder-doc.ja.po | 
+ | [ca](/f27/language/ca) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/ca.po | 
+ | [cs](/f27/language/cs) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/cs.po | 
+ | [da](/f27/language/da) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/da.po | 
+ | [de](/f27/language/de) | 6633 | 6633 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/de.po/mnt/stockage/packages/f27/pbuilder/Documentation/pbuilder-doc.de.po | 
+ | [es](/f27/language/es) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/es.po | 
+ | [eu](/f27/language/eu) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/eu.po | 
+ | [fi](/f27/language/fi) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/fi.po | 
+ | [gl](/f27/language/gl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/gl.po | 
+ | [it](/f27/language/it) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/it.po | 
+ | [nl](/f27/language/nl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/nl.po | 
+ | [pt](/f27/language/pt) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/ro.po | 
+ | [ru](/f27/language/ru) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/ru.po | 
+ | [sk](/f27/language/sk) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sk.po | 
+ | [sr](/f27/language/sr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sr.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sr@latin.po | 
+ | [sv](/f27/language/sv) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/sv.po | 
+ | [tr](/f27/language/tr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f27/pbuilder/debian/po/tr.po | 
+ | [fr](/f27/language/fr) | 2662 | 6633 | 40.1 | /mnt/stockage/packages/f27/pbuilder/debian/po/fr.po/mnt/stockage/packages/f27/pbuilder/Documentation/pbuilder-doc.fr.po | 
+ | [ja](/f27/language/ja) | 1177 | 6633 | 17.7 | /mnt/stockage/packages/f27/pbuilder/debian/po/ja.po/mnt/stockage/packages/f27/pbuilder/Documentation/pbuilder-doc.ja.po | 
 {.sortable}
 
 

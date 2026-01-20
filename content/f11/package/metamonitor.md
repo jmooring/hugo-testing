@@ -18,10 +18,10 @@ The package metamonitor (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/pl.po | 
+ | [de](/f11/language/de) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/de.po | 
+ | [es](/f11/language/es) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/es.po | 
+ | [it](/f11/language/it) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/it.po | 
+ | [pl](/f11/language/pl) | 305 | 305 | 100.0 | /mnt/stockage/packages/f11/metamonitor/po/pl.po | 
 {.sortable}
 
 

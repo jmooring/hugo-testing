@@ -18,47 +18,47 @@ The package ktp-filetransfer-handler (version 20.04.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/bs/ktp-filetransfer-handler.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ca/ktp-filetransfer-handler.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ca@valencia/ktp-filetransfer-handler.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/cs/ktp-filetransfer-handler.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/da/ktp-filetransfer-handler.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/de/ktp-filetransfer-handler.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/el/ktp-filetransfer-handler.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/en_GB/ktp-filetransfer-handler.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/es/ktp-filetransfer-handler.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/et/ktp-filetransfer-handler.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/eu/ktp-filetransfer-handler.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/fi/ktp-filetransfer-handler.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/fr/ktp-filetransfer-handler.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/gl/ktp-filetransfer-handler.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/hu/ktp-filetransfer-handler.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ia/ktp-filetransfer-handler.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/it/ktp-filetransfer-handler.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ko/ktp-filetransfer-handler.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nb/ktp-filetransfer-handler.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nds/ktp-filetransfer-handler.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nl/ktp-filetransfer-handler.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nn/ktp-filetransfer-handler.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/pl/ktp-filetransfer-handler.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/pt/ktp-filetransfer-handler.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/pt_BR/ktp-filetransfer-handler.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ro/ktp-filetransfer-handler.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ru/ktp-filetransfer-handler.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sk/ktp-filetransfer-handler.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sl/ktp-filetransfer-handler.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sr/ktp-filetransfer-handler.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sv/ktp-filetransfer-handler.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/tr/ktp-filetransfer-handler.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/uk/ktp-filetransfer-handler.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/zh_CN/ktp-filetransfer-handler.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/zh_TW/ktp-filetransfer-handler.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 139 | 141 | 98.6 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/kk/ktp-filetransfer-handler.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 137 | 141 | 97.2 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/lt/ktp-filetransfer-handler.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 35 | 141 | 24.8 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/mr/ktp-filetransfer-handler.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 27 | 141 | 19.1 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ga/ktp-filetransfer-handler.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 26 | 141 | 18.4 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ug/ktp-filetransfer-handler.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ja/ktp-filetransfer-handler.po | 
+ | [bs](/f32/language/bs) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/bs/ktp-filetransfer-handler.po | 
+ | [ca](/f32/language/ca) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ca/ktp-filetransfer-handler.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ca@valencia/ktp-filetransfer-handler.po | 
+ | [cs](/f32/language/cs) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/cs/ktp-filetransfer-handler.po | 
+ | [da](/f32/language/da) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/da/ktp-filetransfer-handler.po | 
+ | [de](/f32/language/de) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/de/ktp-filetransfer-handler.po | 
+ | [el](/f32/language/el) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/el/ktp-filetransfer-handler.po | 
+ | [en_GB](/f32/language/en_GB) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/en_GB/ktp-filetransfer-handler.po | 
+ | [es](/f32/language/es) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/es/ktp-filetransfer-handler.po | 
+ | [et](/f32/language/et) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/et/ktp-filetransfer-handler.po | 
+ | [eu](/f32/language/eu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/eu/ktp-filetransfer-handler.po | 
+ | [fi](/f32/language/fi) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/fi/ktp-filetransfer-handler.po | 
+ | [fr](/f32/language/fr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/fr/ktp-filetransfer-handler.po | 
+ | [gl](/f32/language/gl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/gl/ktp-filetransfer-handler.po | 
+ | [hu](/f32/language/hu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/hu/ktp-filetransfer-handler.po | 
+ | [ia](/f32/language/ia) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ia/ktp-filetransfer-handler.po | 
+ | [it](/f32/language/it) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/it/ktp-filetransfer-handler.po | 
+ | [ko](/f32/language/ko) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ko/ktp-filetransfer-handler.po | 
+ | [nb_NO](/f32/language/nb_NO) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nb/ktp-filetransfer-handler.po | 
+ | [nds](/f32/language/nds) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nds/ktp-filetransfer-handler.po | 
+ | [nl](/f32/language/nl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nl/ktp-filetransfer-handler.po | 
+ | [nn](/f32/language/nn) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/nn/ktp-filetransfer-handler.po | 
+ | [pl](/f32/language/pl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/pl/ktp-filetransfer-handler.po | 
+ | [pt](/f32/language/pt) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/pt/ktp-filetransfer-handler.po | 
+ | [pt_BR](/f32/language/pt_BR) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/pt_BR/ktp-filetransfer-handler.po | 
+ | [ro](/f32/language/ro) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ro/ktp-filetransfer-handler.po | 
+ | [ru](/f32/language/ru) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ru/ktp-filetransfer-handler.po | 
+ | [sk](/f32/language/sk) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sk/ktp-filetransfer-handler.po | 
+ | [sl](/f32/language/sl) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sl/ktp-filetransfer-handler.po | 
+ | [sr](/f32/language/sr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sr/ktp-filetransfer-handler.po | 
+ | [sv](/f32/language/sv) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/sv/ktp-filetransfer-handler.po | 
+ | [tr](/f32/language/tr) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/tr/ktp-filetransfer-handler.po | 
+ | [uk](/f32/language/uk) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/uk/ktp-filetransfer-handler.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/zh_CN/ktp-filetransfer-handler.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 141 | 141 | 100.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/zh_TW/ktp-filetransfer-handler.po | 
+ | [kk](/f32/language/kk) | 139 | 141 | 98.6 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/kk/ktp-filetransfer-handler.po | 
+ | [lt](/f32/language/lt) | 137 | 141 | 97.2 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/lt/ktp-filetransfer-handler.po | 
+ | [mr](/f32/language/mr) | 35 | 141 | 24.8 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/mr/ktp-filetransfer-handler.po | 
+ | [ga](/f32/language/ga) | 27 | 141 | 19.1 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ga/ktp-filetransfer-handler.po | 
+ | [ug](/f32/language/ug) | 26 | 141 | 18.4 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ug/ktp-filetransfer-handler.po | 
+ | [ja](/f32/language/ja) | 0 | 141 | 0.0 | /mnt/stockage/packages/f32/ktp-filetransfer-handler/po/ja/ktp-filetransfer-handler.po | 
 {.sortable}
 
 

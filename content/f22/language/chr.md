@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 3 | 864 | 0.3 | Cherokee <chr@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 3 | 864 | 0.3 | Cherokee <chr@li.org> | 
 {.sortable}
 
 

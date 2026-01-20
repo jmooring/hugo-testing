@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f30/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [libmateweather]({{< ref "/f30/package/libmateweather.md" >}}) | 362 | 499 | 72.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-applets]({{< ref "/f30/package/mate-applets.md" >}}) | 1648 | 11932 | 13.8 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-sensors-applet]({{< ref "/f30/package/mate-sensors-applet.md" >}}) | 10 | 321 | 3.1 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-settings-daemon]({{< ref "/f30/package/mate-settings-daemon.md" >}}) | 43 | 1840 | 2.3 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-media]({{< ref "/f30/package/mate-media.md" >}}) | 4 | 238 | 1.7 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-system-monitor]({{< ref "/f30/package/mate-system-monitor.md" >}}) | 16 | 1468 | 1.1 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [wicd]({{< ref "/f30/package/wicd.md" >}}) | 11 | 1138 | 1.0 | es_NI <LL@li.org> | 
- | [eom]({{< ref "/f30/package/eom.md" >}}) | 14 | 1780 | 0.8 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-session-manager]({{< ref "/f30/package/mate-session-manager.md" >}}) | 5 | 705 | 0.7 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-control-center]({{< ref "/f30/package/mate-control-center.md" >}}) | 19 | 2704 | 0.7 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-panel]({{< ref "/f30/package/mate-panel.md" >}}) | 37 | 6668 | 0.6 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-calc]({{< ref "/f30/package/mate-calc.md" >}}) | 7 | 1380 | 0.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [engrampa]({{< ref "/f30/package/engrampa.md" >}}) | 9 | 2015 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [atril]({{< ref "/f30/package/atril.md" >}}) | 8 | 1792 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [libmatekbd]({{< ref "/f30/package/libmatekbd.md" >}}) | 1 | 251 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-power-manager]({{< ref "/f30/package/mate-power-manager.md" >}}) | 10 | 2731 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-utils]({{< ref "/f30/package/mate-utils.md" >}}) | 6 | 2528 | 0.2 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
- | [mate-themes]({{< ref "/f30/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Spanish (Nicaragua) (http://www.transifex.com/mate/MATE/language/es_NI/) | 
+ | [libgweather](/f30/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [libmateweather](/f30/package/libmateweather) | 362 | 499 | 72.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-applets](/f30/package/mate-applets) | 1648 | 11932 | 13.8 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-sensors-applet](/f30/package/mate-sensors-applet) | 10 | 321 | 3.1 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-settings-daemon](/f30/package/mate-settings-daemon) | 43 | 1840 | 2.3 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-media](/f30/package/mate-media) | 4 | 238 | 1.7 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-system-monitor](/f30/package/mate-system-monitor) | 16 | 1468 | 1.1 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [wicd](/f30/package/wicd) | 11 | 1138 | 1.0 | es_NI <LL@li.org> | 
+ | [eom](/f30/package/eom) | 14 | 1780 | 0.8 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-session-manager](/f30/package/mate-session-manager) | 5 | 705 | 0.7 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-control-center](/f30/package/mate-control-center) | 19 | 2704 | 0.7 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-panel](/f30/package/mate-panel) | 37 | 6668 | 0.6 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-calc](/f30/package/mate-calc) | 7 | 1380 | 0.5 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [engrampa](/f30/package/engrampa) | 9 | 2015 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [atril](/f30/package/atril) | 8 | 1792 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [libmatekbd](/f30/package/libmatekbd) | 1 | 251 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-power-manager](/f30/package/mate-power-manager) | 10 | 2731 | 0.4 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-utils](/f30/package/mate-utils) | 6 | 2528 | 0.2 | Spanish (Nicaragua) (https://www.transifex.com/mate/teams/13566/es_NI/) | 
+ | [mate-themes](/f30/package/mate-themes) | 0 | 70 | 0.0 | Spanish (Nicaragua) (http://www.transifex.com/mate/MATE/language/es_NI/) | 
 {.sortable}
 
 

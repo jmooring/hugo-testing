@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtkspell]({{< ref "/f13/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [dialog]({{< ref "/f13/package/dialog.md" >}}) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [hello]({{< ref "/f13/package/hello.md" >}}) | 77 | 174 | 44.3 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [mod_cluster]({{< ref "/f13/package/mod_cluster.md" >}}) | 39 | 327 | 11.9 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [mingw32-iconv]({{< ref "/f13/package/mingw32-iconv.md" >}}) | 15 | 336 | 4.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [wine]({{< ref "/f13/package/wine.md" >}}) | 63 | 11773 | 0.5 | none | 
+ | [gtkspell](/f13/package/gtkspell) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [dialog](/f13/package/dialog) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [hello](/f13/package/hello) | 77 | 174 | 44.3 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [mod_cluster](/f13/package/mod_cluster) | 39 | 327 | 11.9 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [mingw32-iconv](/f13/package/mingw32-iconv) | 15 | 336 | 4.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [wine](/f13/package/wine) | 63 | 11773 | 0.5 | none | 
 {.sortable}
 
 

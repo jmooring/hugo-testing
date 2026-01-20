@@ -18,9 +18,9 @@ The package gcin (version 1.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f9/language/en_US.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/gcin/po/en_US/gcin.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/gcin/po/zh_CN/gcin.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/gcin/po/zh_TW/gcin.po | 
+ | [en_US](/f9/language/en_US) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/gcin/po/en_US/gcin.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/gcin/po/zh_CN/gcin.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 146 | 146 | 100.0 | /mnt/stockage/packages/f9/gcin/po/zh_TW/gcin.po | 
 {.sortable}
 
 

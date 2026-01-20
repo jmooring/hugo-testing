@@ -18,7 +18,7 @@ The package ibus-sayura (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 0 | 6 | 0.0 | /mnt/stockage/packages/f43/ibus-sayura/po/zh_CN.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 0 | 6 | 0.0 | /mnt/stockage/packages/f43/ibus-sayura/po/zh_CN.po | 
 {.sortable}
 
 

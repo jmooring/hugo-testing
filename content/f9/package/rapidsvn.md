@@ -18,15 +18,15 @@ The package rapidsvn (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 1355 | 1355 | 100.0 | /mnt/stockage/packages/f9/rapidsvn/src/locale/de/rapidsvn.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1355 | 1355 | 100.0 | /mnt/stockage/packages/f9/rapidsvn/src/locale/ja/rapidsvn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1212 | 1355 | 89.4 | /mnt/stockage/packages/f9/rapidsvn/src/locale/es/rapidsvn.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1212 | 1355 | 89.4 | /mnt/stockage/packages/f9/rapidsvn/src/locale/fr/rapidsvn.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1212 | 1355 | 89.4 | /mnt/stockage/packages/f9/rapidsvn/src/locale/zh_CN/rapidsvn.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1168 | 1355 | 86.2 | /mnt/stockage/packages/f9/rapidsvn/src/locale/it_IT/rapidsvn.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1159 | 1355 | 85.5 | /mnt/stockage/packages/f9/rapidsvn/src/locale/pt_BR/rapidsvn.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1159 | 1355 | 85.5 | /mnt/stockage/packages/f9/rapidsvn/src/locale/ru/rapidsvn.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 1159 | 1355 | 85.5 | /mnt/stockage/packages/f9/rapidsvn/src/locale/uk/rapidsvn.po | 
+ | [de](/f9/language/de) | 1355 | 1355 | 100.0 | /mnt/stockage/packages/f9/rapidsvn/src/locale/de/rapidsvn.po | 
+ | [ja](/f9/language/ja) | 1355 | 1355 | 100.0 | /mnt/stockage/packages/f9/rapidsvn/src/locale/ja/rapidsvn.po | 
+ | [es](/f9/language/es) | 1212 | 1355 | 89.4 | /mnt/stockage/packages/f9/rapidsvn/src/locale/es/rapidsvn.po | 
+ | [fr](/f9/language/fr) | 1212 | 1355 | 89.4 | /mnt/stockage/packages/f9/rapidsvn/src/locale/fr/rapidsvn.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1212 | 1355 | 89.4 | /mnt/stockage/packages/f9/rapidsvn/src/locale/zh_CN/rapidsvn.po | 
+ | [it](/f9/language/it) | 1168 | 1355 | 86.2 | /mnt/stockage/packages/f9/rapidsvn/src/locale/it_IT/rapidsvn.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1159 | 1355 | 85.5 | /mnt/stockage/packages/f9/rapidsvn/src/locale/pt_BR/rapidsvn.po | 
+ | [ru](/f9/language/ru) | 1159 | 1355 | 85.5 | /mnt/stockage/packages/f9/rapidsvn/src/locale/ru/rapidsvn.po | 
+ | [uk](/f9/language/uk) | 1159 | 1355 | 85.5 | /mnt/stockage/packages/f9/rapidsvn/src/locale/uk/rapidsvn.po | 
 {.sortable}
 
 

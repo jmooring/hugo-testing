@@ -18,11 +18,11 @@ The package xneur (version 0.17.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1907 | 1907 | 100.0 | /mnt/stockage/packages/f21/xneur/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 357 | 1907 | 18.7 | /mnt/stockage/packages/f21/xneur/po/uk.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 197 | 1907 | 10.3 | /mnt/stockage/packages/f21/xneur/po/be.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 16 | 1907 | 0.8 | /mnt/stockage/packages/f21/xneur/po/ro.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 3 | 1907 | 0.2 | /mnt/stockage/packages/f21/xneur/po/de.po | 
+ | [ru](/f21/language/ru) | 1907 | 1907 | 100.0 | /mnt/stockage/packages/f21/xneur/po/ru.po | 
+ | [uk](/f21/language/uk) | 357 | 1907 | 18.7 | /mnt/stockage/packages/f21/xneur/po/uk.po | 
+ | [be](/f21/language/be) | 197 | 1907 | 10.3 | /mnt/stockage/packages/f21/xneur/po/be.po | 
+ | [ro](/f21/language/ro) | 16 | 1907 | 0.8 | /mnt/stockage/packages/f21/xneur/po/ro.po | 
+ | [de](/f21/language/de) | 3 | 1907 | 0.2 | /mnt/stockage/packages/f21/xneur/po/de.po | 
 {.sortable}
 
 

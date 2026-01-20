@@ -18,39 +18,39 @@ The package gnome-tour (version 3.38.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fa.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fur.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/gl.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/lv.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ro.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/zh_CN.po | 
+ | [ca](/f33/language/ca) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ca.po | 
+ | [cs](/f33/language/cs) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/cs.po | 
+ | [da](/f33/language/da) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/da.po | 
+ | [de](/f33/language/de) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/de.po | 
+ | [el](/f33/language/el) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/en_GB.po | 
+ | [es](/f33/language/es) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/es.po | 
+ | [eu](/f33/language/eu) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/eu.po | 
+ | [fa](/f33/language/fa) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fa.po | 
+ | [fi](/f33/language/fi) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fi.po | 
+ | [fr](/f33/language/fr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fr.po | 
+ | [fur](/f33/language/fur) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/fur.po | 
+ | [gl](/f33/language/gl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/gl.po | 
+ | [hr](/f33/language/hr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/hr.po | 
+ | [hu](/f33/language/hu) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/hu.po | 
+ | [id](/f33/language/id) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/id.po | 
+ | [it](/f33/language/it) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/it.po | 
+ | [ja](/f33/language/ja) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ja.po | 
+ | [ko](/f33/language/ko) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ko.po | 
+ | [lt](/f33/language/lt) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/lt.po | 
+ | [lv](/f33/language/lv) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/lv.po | 
+ | [nl](/f33/language/nl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/nl.po | 
+ | [pl](/f33/language/pl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/pl.po | 
+ | [pt](/f33/language/pt) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 148 | 148 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/ro.po | 
+ | [sk](/f33/language/sk) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sk.po | 
+ | [sl](/f33/language/sl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sl.po | 
+ | [sr](/f33/language/sr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sr.po | 
+ | [sv](/f33/language/sv) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/sv.po | 
+ | [tr](/f33/language/tr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/tr.po | 
+ | [uk](/f33/language/uk) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 142 | 142 | 100.0 | /mnt/stockage/packages/f33/gnome-tour/po/zh_CN.po | 
 {.sortable}
 
 

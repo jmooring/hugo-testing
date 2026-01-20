@@ -18,39 +18,39 @@ The package libbytesize (version 2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ast.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/be.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/bn_IN.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ca.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/es.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/fur.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/he.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/it.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ka.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/kk.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ko.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/nl.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/nn.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/sk.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/sq.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/zh_TW.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f37/libbytesize/po/si.po | 
+ | [ast](/f37/language/ast) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ast.po | 
+ | [be](/f37/language/be) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/be.po | 
+ | [bn_IN](/f37/language/bn_IN) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/bn_IN.po | 
+ | [ca](/f37/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ca.po | 
+ | [cs](/f37/language/cs) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/cs.po | 
+ | [da](/f37/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/da.po | 
+ | [de](/f37/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/de.po | 
+ | [es](/f37/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/es.po | 
+ | [fi](/f37/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/fi.po | 
+ | [fr](/f37/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/fr.po | 
+ | [fur](/f37/language/fur) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/fur.po | 
+ | [he](/f37/language/he) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/he.po | 
+ | [hr](/f37/language/hr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/hr.po | 
+ | [hu](/f37/language/hu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/hu.po | 
+ | [id](/f37/language/id) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/id.po | 
+ | [it](/f37/language/it) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/it.po | 
+ | [ka](/f37/language/ka) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ka.po | 
+ | [kk](/f37/language/kk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/kk.po | 
+ | [ko](/f37/language/ko) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ko.po | 
+ | [nl](/f37/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/nl.po | 
+ | [nn](/f37/language/nn) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/nn.po | 
+ | [pl](/f37/language/pl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/pl.po | 
+ | [pt](/f37/language/pt) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/ru.po | 
+ | [sk](/f37/language/sk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/sk.po | 
+ | [sq](/f37/language/sq) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/sq.po | 
+ | [sv](/f37/language/sv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/sv.po | 
+ | [tr](/f37/language/tr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/tr.po | 
+ | [uk](/f37/language/uk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/libbytesize/po/zh_TW.po | 
+ | [si](/f37/language/si) | 0 | 17 | 0.0 | /mnt/stockage/packages/f37/libbytesize/po/si.po | 
 {.sortable}
 
 

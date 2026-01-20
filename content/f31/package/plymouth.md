@@ -18,21 +18,21 @@ The package plymouth (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f31/plymouth/po/tr.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/be.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/fur.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/hu.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/pl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/sr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/zh_HK.po | 
+ | [tr](/f31/language/tr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f31/plymouth/po/tr.po | 
+ | [be](/f31/language/be) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/be.po | 
+ | [cs](/f31/language/cs) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/cs.po | 
+ | [de](/f31/language/de) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/de.po | 
+ | [es](/f31/language/es) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/es.po | 
+ | [fr](/f31/language/fr) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/fr.po | 
+ | [fur](/f31/language/fur) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/fur.po | 
+ | [hu](/f31/language/hu) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/hu.po | 
+ | [nl](/f31/language/nl) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/nl.po | 
+ | [pl](/f31/language/pl) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/pl.po | 
+ | [sr](/f31/language/sr) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/sr.po | 
+ | [uk](/f31/language/uk) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 12 | 14 | 85.7 | /mnt/stockage/packages/f31/plymouth/po/zh_HK.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package pidgin-otr (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/ar.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/hu.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/nl.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 755 | 758 | 99.6 | /mnt/stockage/packages/f10/pidgin-otr/po/sk.po | 
+ | [ar](/f10/language/ar) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/ar.po | 
+ | [de](/f10/language/de) | 686 | 686 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/de.po | 
+ | [es](/f10/language/es) | 538 | 538 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/es.po | 
+ | [fr](/f10/language/fr) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/fr.po | 
+ | [hu](/f10/language/hu) | 686 | 686 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/hu.po | 
+ | [nl](/f10/language/nl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/nl.po | 
+ | [ru](/f10/language/ru) | 550 | 550 | 100.0 | /mnt/stockage/packages/f10/pidgin-otr/po/ru.po | 
+ | [sk](/f10/language/sk) | 755 | 758 | 99.6 | /mnt/stockage/packages/f10/pidgin-otr/po/sk.po | 
 {.sortable}
 
 

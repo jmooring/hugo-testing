@@ -18,107 +18,107 @@ The package mate-control-center (version 1.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f23/language/be.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/be.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/bg.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/ca/ca.po/mnt/stockage/packages/f23/mate-control-center/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/cs/cs.po/mnt/stockage/packages/f23/mate-control-center/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/de/de.po/mnt/stockage/packages/f23/mate-control-center/po/de.po | 
- | [en_AU]({{< ref "/f23/language/en_AU.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/en_AU.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/en_GB/en_GB.po/mnt/stockage/packages/f23/mate-control-center/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/es/es.po/mnt/stockage/packages/f23/mate-control-center/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/fr/fr.po/mnt/stockage/packages/f23/mate-control-center/po/fr.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/hr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/id/id.po/mnt/stockage/packages/f23/mate-control-center/po/id.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/ja/ja.po/mnt/stockage/packages/f23/mate-control-center/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/ko.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/lt.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/ms.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/pl/pl.po/mnt/stockage/packages/f23/mate-control-center/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/pt_BR/pt_BR.po/mnt/stockage/packages/f23/mate-control-center/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 2992 | 2992 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/ru/ru.po/mnt/stockage/packages/f23/mate-control-center/po/ru.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/sk.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/sr.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/uk/uk.po/mnt/stockage/packages/f23/mate-control-center/po/uk.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/zh_TW.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 2991 | 2997 | 99.8 | /mnt/stockage/packages/f23/mate-control-center/help/it/it.po/mnt/stockage/packages/f23/mate-control-center/po/it.po | 
- | [hy]({{< ref "/f23/language/hy.md" >}}) | 2750 | 2762 | 99.6 | /mnt/stockage/packages/f23/mate-control-center/po/hy.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 2750 | 2762 | 99.6 | /mnt/stockage/packages/f23/mate-control-center/po/ro.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 2974 | 2997 | 99.2 | /mnt/stockage/packages/f23/mate-control-center/help/pt/pt.po/mnt/stockage/packages/f23/mate-control-center/po/pt.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 2734 | 2762 | 99.0 | /mnt/stockage/packages/f23/mate-control-center/po/et.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 2936 | 2997 | 98.0 | /mnt/stockage/packages/f23/mate-control-center/help/sv/sv.po/mnt/stockage/packages/f23/mate-control-center/po/sv.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 2885 | 2997 | 96.3 | /mnt/stockage/packages/f23/mate-control-center/help/el/el.po/mnt/stockage/packages/f23/mate-control-center/po/el.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 5532 | 5759 | 96.1 | /mnt/stockage/packages/f23/mate-control-center/help/zh_CN/zh_CN.po/mnt/stockage/packages/f23/mate-control-center/po/cmn.po/mnt/stockage/packages/f23/mate-control-center/po/zh_CN.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 2642 | 2762 | 95.7 | /mnt/stockage/packages/f23/mate-control-center/po/gl.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 2642 | 2762 | 95.7 | /mnt/stockage/packages/f23/mate-control-center/po/sl.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 2640 | 2762 | 95.6 | /mnt/stockage/packages/f23/mate-control-center/po/ar.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 2567 | 2762 | 92.9 | /mnt/stockage/packages/f23/mate-control-center/po/mr.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 2547 | 2762 | 92.2 | /mnt/stockage/packages/f23/mate-control-center/po/eu.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 2542 | 2762 | 92.0 | /mnt/stockage/packages/f23/mate-control-center/po/he.po | 
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 2535 | 2762 | 91.8 | /mnt/stockage/packages/f23/mate-control-center/po/ast.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 2535 | 2762 | 91.8 | /mnt/stockage/packages/f23/mate-control-center/po/lv.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 2487 | 2762 | 90.0 | /mnt/stockage/packages/f23/mate-control-center/po/zh_HK.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 2472 | 2762 | 89.5 | /mnt/stockage/packages/f23/mate-control-center/po/sr@latin.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 2422 | 2762 | 87.7 | /mnt/stockage/packages/f23/mate-control-center/po/ug.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 2621 | 2997 | 87.5 | /mnt/stockage/packages/f23/mate-control-center/help/pa/pa.po/mnt/stockage/packages/f23/mate-control-center/po/pa.po | 
- | [ur]({{< ref "/f23/language/ur.md" >}}) | 2372 | 2762 | 85.9 | /mnt/stockage/packages/f23/mate-control-center/po/ur.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 2369 | 2762 | 85.8 | /mnt/stockage/packages/f23/mate-control-center/po/mk.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 2441 | 2997 | 81.4 | /mnt/stockage/packages/f23/mate-control-center/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f23/mate-control-center/po/ca@valencia.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 2217 | 2762 | 80.3 | /mnt/stockage/packages/f23/mate-control-center/po/fi.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 2207 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/or.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/bn.po | 
- | [crh]({{< ref "/f23/language/crh.md" >}}) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/crh.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/ml.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/ta.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 2201 | 2762 | 79.7 | /mnt/stockage/packages/f23/mate-control-center/po/nn.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 2169 | 2762 | 78.5 | /mnt/stockage/packages/f23/mate-control-center/po/bn_IN.po | 
- | [as]({{< ref "/f23/language/as.md" >}}) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/as.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/gu.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/hi.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/te.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 2145 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/kn.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 2088 | 2762 | 75.6 | /mnt/stockage/packages/f23/mate-control-center/po/is.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 2128 | 2997 | 71.0 | /mnt/stockage/packages/f23/mate-control-center/help/th/th.po/mnt/stockage/packages/f23/mate-control-center/po/th.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 2121 | 2997 | 70.8 | /mnt/stockage/packages/f23/mate-control-center/help/vi/vi.po/mnt/stockage/packages/f23/mate-control-center/po/vi.po | 
- | [br]({{< ref "/f23/language/br.md" >}}) | 1818 | 2762 | 65.8 | /mnt/stockage/packages/f23/mate-control-center/po/br.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 1739 | 2762 | 63.0 | /mnt/stockage/packages/f23/mate-control-center/po/sq.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 1569 | 2762 | 56.8 | /mnt/stockage/packages/f23/mate-control-center/po/af.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 1537 | 2997 | 51.3 | /mnt/stockage/packages/f23/mate-control-center/help/oc/oc.po/mnt/stockage/packages/f23/mate-control-center/po/oc.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 1393 | 2762 | 50.4 | /mnt/stockage/packages/f23/mate-control-center/po/dz.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 1163 | 2762 | 42.1 | /mnt/stockage/packages/f23/mate-control-center/po/ne.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 1124 | 2762 | 40.7 | /mnt/stockage/packages/f23/mate-control-center/po/am.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 1102 | 2762 | 39.9 | /mnt/stockage/packages/f23/mate-control-center/po/ga.po | 
- | [ka]({{< ref "/f23/language/ka.md" >}}) | 1068 | 2762 | 38.7 | /mnt/stockage/packages/f23/mate-control-center/po/ka.po | 
- | [uz]({{< ref "/f23/language/uz.md" >}}) | 969 | 2762 | 35.1 | /mnt/stockage/packages/f23/mate-control-center/po/uz.po | 
- | [cy]({{< ref "/f23/language/cy.md" >}}) | 931 | 2762 | 33.7 | /mnt/stockage/packages/f23/mate-control-center/po/cy.po | 
- | [mai]({{< ref "/f23/language/mai.md" >}}) | 907 | 2762 | 32.8 | /mnt/stockage/packages/f23/mate-control-center/po/mai.po | 
- | [mn]({{< ref "/f23/language/mn.md" >}}) | 825 | 2762 | 29.9 | /mnt/stockage/packages/f23/mate-control-center/po/mn.po | 
- | [ku]({{< ref "/f23/language/ku.md" >}}) | 735 | 2762 | 26.6 | /mnt/stockage/packages/f23/mate-control-center/po/ku.po | 
- | [ky]({{< ref "/f23/language/ky.md" >}}) | 653 | 2762 | 23.6 | /mnt/stockage/packages/f23/mate-control-center/po/ky.po | 
- | [mg]({{< ref "/f23/language/mg.md" >}}) | 648 | 2762 | 23.5 | /mnt/stockage/packages/f23/mate-control-center/po/mg.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 645 | 2762 | 23.4 | /mnt/stockage/packages/f23/mate-control-center/po/en_CA.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 614 | 2762 | 22.2 | /mnt/stockage/packages/f23/mate-control-center/po/fa.po | 
- | [kk]({{< ref "/f23/language/kk.md" >}}) | 528 | 2762 | 19.1 | /mnt/stockage/packages/f23/mate-control-center/po/kk.po | 
- | [nds]({{< ref "/f23/language/nds.md" >}}) | 483 | 2762 | 17.5 | /mnt/stockage/packages/f23/mate-control-center/po/nds.po | 
- | [xh]({{< ref "/f23/language/xh.md" >}}) | 432 | 2762 | 15.6 | /mnt/stockage/packages/f23/mate-control-center/po/xh.po | 
- | [nso]({{< ref "/f23/language/nso.md" >}}) | 398 | 2762 | 14.4 | /mnt/stockage/packages/f23/mate-control-center/po/nso.po | 
- | [zu]({{< ref "/f23/language/zu.md" >}}) | 398 | 2762 | 14.4 | /mnt/stockage/packages/f23/mate-control-center/po/zu.po | 
- | [az]({{< ref "/f23/language/az.md" >}}) | 386 | 2762 | 14.0 | /mnt/stockage/packages/f23/mate-control-center/po/az.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 386 | 2762 | 14.0 | /mnt/stockage/packages/f23/mate-control-center/po/bs.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 186 | 2762 | 6.7 | /mnt/stockage/packages/f23/mate-control-center/po/si.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 182 | 2762 | 6.6 | /mnt/stockage/packages/f23/mate-control-center/po/eo.po | 
- | [es_MX]({{< ref "/f23/language/es_MX.md" >}}) | 105 | 2762 | 3.8 | /mnt/stockage/packages/f23/mate-control-center/po/es_MX.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 103 | 2762 | 3.7 | /mnt/stockage/packages/f23/mate-control-center/po/wa.po | 
- | [es_CO]({{< ref "/f23/language/es_CO.md" >}}) | 32 | 2762 | 1.2 | /mnt/stockage/packages/f23/mate-control-center/po/es_CO.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 31 | 2762 | 1.1 | /mnt/stockage/packages/f23/mate-control-center/po/rw.po | 
- | [frp]({{< ref "/f23/language/frp.md" >}}) | 17 | 2762 | 0.6 | /mnt/stockage/packages/f23/mate-control-center/po/frp.po | 
- | [fr_CA]({{< ref "/f23/language/fr_CA.md" >}}) | 14 | 2762 | 0.5 | /mnt/stockage/packages/f23/mate-control-center/po/fr_CA.po | 
- | [pms]({{< ref "/f23/language/pms.md" >}}) | 8 | 2762 | 0.3 | /mnt/stockage/packages/f23/mate-control-center/po/pms.po | 
- | [jv]({{< ref "/f23/language/jv.md" >}}) | 7 | 2762 | 0.3 | /mnt/stockage/packages/f23/mate-control-center/po/jv.po | 
+ | [be](/f23/language/be) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/be.po | 
+ | [bg](/f23/language/bg) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/bg.po | 
+ | [ca](/f23/language/ca) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/ca/ca.po/mnt/stockage/packages/f23/mate-control-center/po/ca.po | 
+ | [cs](/f23/language/cs) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/cs/cs.po/mnt/stockage/packages/f23/mate-control-center/po/cs.po | 
+ | [da](/f23/language/da) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/da.po | 
+ | [de](/f23/language/de) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/de/de.po/mnt/stockage/packages/f23/mate-control-center/po/de.po | 
+ | [en_AU](/f23/language/en_AU) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/en_AU.po | 
+ | [en_GB](/f23/language/en_GB) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/en_GB/en_GB.po/mnt/stockage/packages/f23/mate-control-center/po/en_GB.po | 
+ | [es](/f23/language/es) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/es/es.po/mnt/stockage/packages/f23/mate-control-center/po/es.po | 
+ | [fr](/f23/language/fr) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/fr/fr.po/mnt/stockage/packages/f23/mate-control-center/po/fr.po | 
+ | [hr](/f23/language/hr) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/hr.po | 
+ | [hu](/f23/language/hu) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/hu.po | 
+ | [id](/f23/language/id) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/id/id.po/mnt/stockage/packages/f23/mate-control-center/po/id.po | 
+ | [ja](/f23/language/ja) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/ja/ja.po/mnt/stockage/packages/f23/mate-control-center/po/ja.po | 
+ | [ko](/f23/language/ko) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/ko.po | 
+ | [lt](/f23/language/lt) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/lt.po | 
+ | [ms](/f23/language/ms) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/ms.po | 
+ | [nb_NO](/f23/language/nb_NO) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/nb.po | 
+ | [nl](/f23/language/nl) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/nl.po | 
+ | [pl](/f23/language/pl) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/pl/pl.po/mnt/stockage/packages/f23/mate-control-center/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/pt_BR/pt_BR.po/mnt/stockage/packages/f23/mate-control-center/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 2992 | 2992 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/ru/ru.po/mnt/stockage/packages/f23/mate-control-center/po/ru.po | 
+ | [sk](/f23/language/sk) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/sk.po | 
+ | [sr](/f23/language/sr) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/sr.po | 
+ | [tr](/f23/language/tr) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/tr.po | 
+ | [uk](/f23/language/uk) | 2997 | 2997 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/help/uk/uk.po/mnt/stockage/packages/f23/mate-control-center/po/uk.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 2762 | 2762 | 100.0 | /mnt/stockage/packages/f23/mate-control-center/po/zh_TW.po | 
+ | [it](/f23/language/it) | 2991 | 2997 | 99.8 | /mnt/stockage/packages/f23/mate-control-center/help/it/it.po/mnt/stockage/packages/f23/mate-control-center/po/it.po | 
+ | [hy](/f23/language/hy) | 2750 | 2762 | 99.6 | /mnt/stockage/packages/f23/mate-control-center/po/hy.po | 
+ | [ro](/f23/language/ro) | 2750 | 2762 | 99.6 | /mnt/stockage/packages/f23/mate-control-center/po/ro.po | 
+ | [pt](/f23/language/pt) | 2974 | 2997 | 99.2 | /mnt/stockage/packages/f23/mate-control-center/help/pt/pt.po/mnt/stockage/packages/f23/mate-control-center/po/pt.po | 
+ | [et](/f23/language/et) | 2734 | 2762 | 99.0 | /mnt/stockage/packages/f23/mate-control-center/po/et.po | 
+ | [sv](/f23/language/sv) | 2936 | 2997 | 98.0 | /mnt/stockage/packages/f23/mate-control-center/help/sv/sv.po/mnt/stockage/packages/f23/mate-control-center/po/sv.po | 
+ | [el](/f23/language/el) | 2885 | 2997 | 96.3 | /mnt/stockage/packages/f23/mate-control-center/help/el/el.po/mnt/stockage/packages/f23/mate-control-center/po/el.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 5532 | 5759 | 96.1 | /mnt/stockage/packages/f23/mate-control-center/help/zh_CN/zh_CN.po/mnt/stockage/packages/f23/mate-control-center/po/cmn.po/mnt/stockage/packages/f23/mate-control-center/po/zh_CN.po | 
+ | [gl](/f23/language/gl) | 2642 | 2762 | 95.7 | /mnt/stockage/packages/f23/mate-control-center/po/gl.po | 
+ | [sl](/f23/language/sl) | 2642 | 2762 | 95.7 | /mnt/stockage/packages/f23/mate-control-center/po/sl.po | 
+ | [ar](/f23/language/ar) | 2640 | 2762 | 95.6 | /mnt/stockage/packages/f23/mate-control-center/po/ar.po | 
+ | [mr](/f23/language/mr) | 2567 | 2762 | 92.9 | /mnt/stockage/packages/f23/mate-control-center/po/mr.po | 
+ | [eu](/f23/language/eu) | 2547 | 2762 | 92.2 | /mnt/stockage/packages/f23/mate-control-center/po/eu.po | 
+ | [he](/f23/language/he) | 2542 | 2762 | 92.0 | /mnt/stockage/packages/f23/mate-control-center/po/he.po | 
+ | [ast](/f23/language/ast) | 2535 | 2762 | 91.8 | /mnt/stockage/packages/f23/mate-control-center/po/ast.po | 
+ | [lv](/f23/language/lv) | 2535 | 2762 | 91.8 | /mnt/stockage/packages/f23/mate-control-center/po/lv.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 2487 | 2762 | 90.0 | /mnt/stockage/packages/f23/mate-control-center/po/zh_HK.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 2472 | 2762 | 89.5 | /mnt/stockage/packages/f23/mate-control-center/po/sr@latin.po | 
+ | [ug](/f23/language/ug) | 2422 | 2762 | 87.7 | /mnt/stockage/packages/f23/mate-control-center/po/ug.po | 
+ | [pa](/f23/language/pa) | 2621 | 2997 | 87.5 | /mnt/stockage/packages/f23/mate-control-center/help/pa/pa.po/mnt/stockage/packages/f23/mate-control-center/po/pa.po | 
+ | [ur](/f23/language/ur) | 2372 | 2762 | 85.9 | /mnt/stockage/packages/f23/mate-control-center/po/ur.po | 
+ | [mk](/f23/language/mk) | 2369 | 2762 | 85.8 | /mnt/stockage/packages/f23/mate-control-center/po/mk.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 2441 | 2997 | 81.4 | /mnt/stockage/packages/f23/mate-control-center/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f23/mate-control-center/po/ca@valencia.po | 
+ | [fi](/f23/language/fi) | 2217 | 2762 | 80.3 | /mnt/stockage/packages/f23/mate-control-center/po/fi.po | 
+ | [or](/f23/language/or) | 2207 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/or.po | 
+ | [bn](/f23/language/bn) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/bn.po | 
+ | [crh](/f23/language/crh) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/crh.po | 
+ | [ml](/f23/language/ml) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/ml.po | 
+ | [ta](/f23/language/ta) | 2206 | 2762 | 79.9 | /mnt/stockage/packages/f23/mate-control-center/po/ta.po | 
+ | [nn](/f23/language/nn) | 2201 | 2762 | 79.7 | /mnt/stockage/packages/f23/mate-control-center/po/nn.po | 
+ | [bn_IN](/f23/language/bn_IN) | 2169 | 2762 | 78.5 | /mnt/stockage/packages/f23/mate-control-center/po/bn_IN.po | 
+ | [as](/f23/language/as) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/as.po | 
+ | [gu](/f23/language/gu) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/gu.po | 
+ | [hi](/f23/language/hi) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/hi.po | 
+ | [te](/f23/language/te) | 2147 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/te.po | 
+ | [kn](/f23/language/kn) | 2145 | 2762 | 77.7 | /mnt/stockage/packages/f23/mate-control-center/po/kn.po | 
+ | [is](/f23/language/is) | 2088 | 2762 | 75.6 | /mnt/stockage/packages/f23/mate-control-center/po/is.po | 
+ | [th](/f23/language/th) | 2128 | 2997 | 71.0 | /mnt/stockage/packages/f23/mate-control-center/help/th/th.po/mnt/stockage/packages/f23/mate-control-center/po/th.po | 
+ | [vi](/f23/language/vi) | 2121 | 2997 | 70.8 | /mnt/stockage/packages/f23/mate-control-center/help/vi/vi.po/mnt/stockage/packages/f23/mate-control-center/po/vi.po | 
+ | [br](/f23/language/br) | 1818 | 2762 | 65.8 | /mnt/stockage/packages/f23/mate-control-center/po/br.po | 
+ | [sq](/f23/language/sq) | 1739 | 2762 | 63.0 | /mnt/stockage/packages/f23/mate-control-center/po/sq.po | 
+ | [af](/f23/language/af) | 1569 | 2762 | 56.8 | /mnt/stockage/packages/f23/mate-control-center/po/af.po | 
+ | [oc](/f23/language/oc) | 1537 | 2997 | 51.3 | /mnt/stockage/packages/f23/mate-control-center/help/oc/oc.po/mnt/stockage/packages/f23/mate-control-center/po/oc.po | 
+ | [dz](/f23/language/dz) | 1393 | 2762 | 50.4 | /mnt/stockage/packages/f23/mate-control-center/po/dz.po | 
+ | [ne](/f23/language/ne) | 1163 | 2762 | 42.1 | /mnt/stockage/packages/f23/mate-control-center/po/ne.po | 
+ | [am](/f23/language/am) | 1124 | 2762 | 40.7 | /mnt/stockage/packages/f23/mate-control-center/po/am.po | 
+ | [ga](/f23/language/ga) | 1102 | 2762 | 39.9 | /mnt/stockage/packages/f23/mate-control-center/po/ga.po | 
+ | [ka](/f23/language/ka) | 1068 | 2762 | 38.7 | /mnt/stockage/packages/f23/mate-control-center/po/ka.po | 
+ | [uz](/f23/language/uz) | 969 | 2762 | 35.1 | /mnt/stockage/packages/f23/mate-control-center/po/uz.po | 
+ | [cy](/f23/language/cy) | 931 | 2762 | 33.7 | /mnt/stockage/packages/f23/mate-control-center/po/cy.po | 
+ | [mai](/f23/language/mai) | 907 | 2762 | 32.8 | /mnt/stockage/packages/f23/mate-control-center/po/mai.po | 
+ | [mn](/f23/language/mn) | 825 | 2762 | 29.9 | /mnt/stockage/packages/f23/mate-control-center/po/mn.po | 
+ | [ku](/f23/language/ku) | 735 | 2762 | 26.6 | /mnt/stockage/packages/f23/mate-control-center/po/ku.po | 
+ | [ky](/f23/language/ky) | 653 | 2762 | 23.6 | /mnt/stockage/packages/f23/mate-control-center/po/ky.po | 
+ | [mg](/f23/language/mg) | 648 | 2762 | 23.5 | /mnt/stockage/packages/f23/mate-control-center/po/mg.po | 
+ | [en_CA](/f23/language/en_CA) | 645 | 2762 | 23.4 | /mnt/stockage/packages/f23/mate-control-center/po/en_CA.po | 
+ | [fa](/f23/language/fa) | 614 | 2762 | 22.2 | /mnt/stockage/packages/f23/mate-control-center/po/fa.po | 
+ | [kk](/f23/language/kk) | 528 | 2762 | 19.1 | /mnt/stockage/packages/f23/mate-control-center/po/kk.po | 
+ | [nds](/f23/language/nds) | 483 | 2762 | 17.5 | /mnt/stockage/packages/f23/mate-control-center/po/nds.po | 
+ | [xh](/f23/language/xh) | 432 | 2762 | 15.6 | /mnt/stockage/packages/f23/mate-control-center/po/xh.po | 
+ | [nso](/f23/language/nso) | 398 | 2762 | 14.4 | /mnt/stockage/packages/f23/mate-control-center/po/nso.po | 
+ | [zu](/f23/language/zu) | 398 | 2762 | 14.4 | /mnt/stockage/packages/f23/mate-control-center/po/zu.po | 
+ | [az](/f23/language/az) | 386 | 2762 | 14.0 | /mnt/stockage/packages/f23/mate-control-center/po/az.po | 
+ | [bs](/f23/language/bs) | 386 | 2762 | 14.0 | /mnt/stockage/packages/f23/mate-control-center/po/bs.po | 
+ | [si](/f23/language/si) | 186 | 2762 | 6.7 | /mnt/stockage/packages/f23/mate-control-center/po/si.po | 
+ | [eo](/f23/language/eo) | 182 | 2762 | 6.6 | /mnt/stockage/packages/f23/mate-control-center/po/eo.po | 
+ | [es_MX](/f23/language/es_MX) | 105 | 2762 | 3.8 | /mnt/stockage/packages/f23/mate-control-center/po/es_MX.po | 
+ | [wa](/f23/language/wa) | 103 | 2762 | 3.7 | /mnt/stockage/packages/f23/mate-control-center/po/wa.po | 
+ | [es_CO](/f23/language/es_CO) | 32 | 2762 | 1.2 | /mnt/stockage/packages/f23/mate-control-center/po/es_CO.po | 
+ | [rw](/f23/language/rw) | 31 | 2762 | 1.1 | /mnt/stockage/packages/f23/mate-control-center/po/rw.po | 
+ | [frp](/f23/language/frp) | 17 | 2762 | 0.6 | /mnt/stockage/packages/f23/mate-control-center/po/frp.po | 
+ | [fr_CA](/f23/language/fr_CA) | 14 | 2762 | 0.5 | /mnt/stockage/packages/f23/mate-control-center/po/fr_CA.po | 
+ | [pms](/f23/language/pms) | 8 | 2762 | 0.3 | /mnt/stockage/packages/f23/mate-control-center/po/pms.po | 
+ | [jv](/f23/language/jv) | 7 | 2762 | 0.3 | /mnt/stockage/packages/f23/mate-control-center/po/jv.po | 
 {.sortable}
 
 

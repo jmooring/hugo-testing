@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [phpldapadmin]({{< ref "/f10/package/phpldapadmin.md" >}}) | 1098 | 1098 | 100.0 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
- | [gourmet]({{< ref "/f10/package/gourmet.md" >}}) | 1817 | 3526 | 51.5 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [bazaar]({{< ref "/f10/package/bazaar.md" >}}) | 125 | 6524 | 1.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [phpldapadmin](/f10/package/phpldapadmin) | 1098 | 1098 | 100.0 | phpLDAPadmin <phpldapadmin-devel@lists.sourceforge.net> | 
+ | [gourmet](/f10/package/gourmet) | 1817 | 3526 | 51.5 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [bazaar](/f10/package/bazaar) | 125 | 6524 | 1.9 | Dutch (Belgium) <nl_BE@li.org> | 
 {.sortable}
 
 

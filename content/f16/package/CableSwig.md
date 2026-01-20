@@ -18,21 +18,21 @@ The package CableSwig (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/es.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/nl.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/tr.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/zh_CN.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/sv.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/zh_TW.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1076 | 1140 | 94.4 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/fr.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 1072 | 1140 | 94.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/ca.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 859 | 1140 | 75.4 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/da.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 505 | 1140 | 44.3 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/ja.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 25 | 1140 | 2.2 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/be.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 15 | 1140 | 1.3 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/el.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 0 | 1140 | 0.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/rw.po | 
+ | [de](/f16/language/de) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/de.po | 
+ | [es](/f16/language/es) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/es.po | 
+ | [nl](/f16/language/nl) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/nl.po | 
+ | [tr](/f16/language/tr) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/tr.po | 
+ | [vi](/f16/language/vi) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/zh_CN.po | 
+ | [sv](/f16/language/sv) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/sv.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 1101 | 1140 | 96.6 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/zh_TW.po | 
+ | [fr](/f16/language/fr) | 1076 | 1140 | 94.4 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/fr.po | 
+ | [ca](/f16/language/ca) | 1072 | 1140 | 94.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/ca.po | 
+ | [da](/f16/language/da) | 859 | 1140 | 75.4 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/da.po | 
+ | [ja](/f16/language/ja) | 505 | 1140 | 44.3 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/ja.po | 
+ | [be](/f16/language/be) | 25 | 1140 | 2.2 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/be.po | 
+ | [el](/f16/language/el) | 15 | 1140 | 1.3 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/el.po | 
+ | [rw](/f16/language/rw) | 0 | 1140 | 0.0 | /mnt/stockage/packages/f16/CableSwig/GCC/libcpp/po/rw.po | 
 {.sortable}
 
 

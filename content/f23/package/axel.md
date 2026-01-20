@@ -18,11 +18,11 @@ The package axel (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f23/axel/de.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f23/axel/ja.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 358 | 371 | 96.5 | /mnt/stockage/packages/f23/axel/ru.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 356 | 371 | 96.0 | /mnt/stockage/packages/f23/axel/zh_CN.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 258 | 371 | 69.5 | /mnt/stockage/packages/f23/axel/nl.po | 
+ | [de](/f23/language/de) | 371 | 371 | 100.0 | /mnt/stockage/packages/f23/axel/de.po | 
+ | [ja](/f23/language/ja) | 359 | 359 | 100.0 | /mnt/stockage/packages/f23/axel/ja.po | 
+ | [ru](/f23/language/ru) | 358 | 371 | 96.5 | /mnt/stockage/packages/f23/axel/ru.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 356 | 371 | 96.0 | /mnt/stockage/packages/f23/axel/zh_CN.po | 
+ | [nl](/f23/language/nl) | 258 | 371 | 69.5 | /mnt/stockage/packages/f23/axel/nl.po | 
 {.sortable}
 
 

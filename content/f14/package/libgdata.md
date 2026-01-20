@@ -18,30 +18,30 @@ The package libgdata (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/eu.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/sv.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/uk.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 455 | 464 | 98.1 | /mnt/stockage/packages/f14/libgdata/po/zh_CN.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 172 | 357 | 48.2 | /mnt/stockage/packages/f14/libgdata/po/pa.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 147 | 432 | 34.0 | /mnt/stockage/packages/f14/libgdata/po/nb.po | 
+ | [ca](/f14/language/ca) | 357 | 357 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/ca.po | 
+ | [cs](/f14/language/cs) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/cs.po | 
+ | [de](/f14/language/de) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/de.po | 
+ | [el](/f14/language/el) | 357 | 357 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/en_GB.po | 
+ | [es](/f14/language/es) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/es.po | 
+ | [eu](/f14/language/eu) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/eu.po | 
+ | [fr](/f14/language/fr) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/fr.po | 
+ | [gl](/f14/language/gl) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/gl.po | 
+ | [hu](/f14/language/hu) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/hu.po | 
+ | [it](/f14/language/it) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/it.po | 
+ | [ja](/f14/language/ja) | 438 | 438 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/ja.po | 
+ | [pl](/f14/language/pl) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/pl.po | 
+ | [pt](/f14/language/pt) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 450 | 450 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/ru.po | 
+ | [sl](/f14/language/sl) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/sl.po | 
+ | [sv](/f14/language/sv) | 464 | 464 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/sv.po | 
+ | [uk](/f14/language/uk) | 371 | 371 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/uk.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 432 | 432 | 100.0 | /mnt/stockage/packages/f14/libgdata/po/zh_HK.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 455 | 464 | 98.1 | /mnt/stockage/packages/f14/libgdata/po/zh_CN.po | 
+ | [pa](/f14/language/pa) | 172 | 357 | 48.2 | /mnt/stockage/packages/f14/libgdata/po/pa.po | 
+ | [nb_NO](/f14/language/nb_NO) | 147 | 432 | 34.0 | /mnt/stockage/packages/f14/libgdata/po/nb.po | 
 {.sortable}
 
 

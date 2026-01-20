@@ -18,11 +18,11 @@ The package kernel (version 5.14.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/fr.po | 
+ | [de](/f33/language/de) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f33/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f33/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f33/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f33/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f33/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

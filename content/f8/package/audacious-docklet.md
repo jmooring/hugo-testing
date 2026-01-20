@@ -18,12 +18,12 @@ The package audacious-docklet (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/audacious-docklet/po/hu.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/ja.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/pl.po | 
+ | [hu](/f8/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/audacious-docklet/po/hu.po | 
+ | [de](/f8/language/de) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/de.po | 
+ | [fr](/f8/language/fr) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/fr.po | 
+ | [it](/f8/language/it) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/it.po | 
+ | [ja](/f8/language/ja) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/ja.po | 
+ | [pl](/f8/language/pl) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/audacious-docklet/po/pl.po | 
 {.sortable}
 
 

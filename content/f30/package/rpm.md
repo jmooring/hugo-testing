@@ -18,40 +18,40 @@ The package rpm (version 4.14.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/eo.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/pl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/uk.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/vi.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 3545 | 4450 | 79.7 | /mnt/stockage/packages/f30/rpm/po/it.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 3531 | 4450 | 79.3 | /mnt/stockage/packages/f30/rpm/po/ca.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 3484 | 4450 | 78.3 | /mnt/stockage/packages/f30/rpm/po/de.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 6855 | 8900 | 77.0 | /mnt/stockage/packages/f30/rpm/po/cmn.po/mnt/stockage/packages/f30/rpm/po/zh_CN.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 3378 | 4450 | 75.9 | /mnt/stockage/packages/f30/rpm/po/fr.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 3297 | 4450 | 74.1 | /mnt/stockage/packages/f30/rpm/po/es.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 3297 | 4450 | 74.1 | /mnt/stockage/packages/f30/rpm/po/ja.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 3195 | 4450 | 71.8 | /mnt/stockage/packages/f30/rpm/po/sk.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 2776 | 4450 | 62.4 | /mnt/stockage/packages/f30/rpm/po/pt_BR.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 2618 | 4450 | 58.8 | /mnt/stockage/packages/f30/rpm/po/sr.po | 
- | [sr_Latn]({{< ref "/f30/language/sr_Latn.md" >}}) | 2618 | 4450 | 58.8 | /mnt/stockage/packages/f30/rpm/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 2513 | 4450 | 56.5 | /mnt/stockage/packages/f30/rpm/po/zh_TW.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 2430 | 4450 | 54.6 | /mnt/stockage/packages/f30/rpm/po/ru.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 2429 | 4450 | 54.6 | /mnt/stockage/packages/f30/rpm/po/cs.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 2196 | 4450 | 49.3 | /mnt/stockage/packages/f30/rpm/po/fi.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 1947 | 4450 | 43.8 | /mnt/stockage/packages/f30/rpm/po/tr.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 1815 | 4450 | 40.8 | /mnt/stockage/packages/f30/rpm/po/pt.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 1812 | 4450 | 40.7 | /mnt/stockage/packages/f30/rpm/po/ko.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 1563 | 4450 | 35.1 | /mnt/stockage/packages/f30/rpm/po/da.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 1130 | 4450 | 25.4 | /mnt/stockage/packages/f30/rpm/po/nb.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 690 | 4450 | 15.5 | /mnt/stockage/packages/f30/rpm/po/sl.po | 
- | [br]({{< ref "/f30/language/br.md" >}}) | 451 | 4450 | 10.1 | /mnt/stockage/packages/f30/rpm/po/br.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 451 | 4450 | 10.1 | /mnt/stockage/packages/f30/rpm/po/id.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 338 | 4450 | 7.6 | /mnt/stockage/packages/f30/rpm/po/is.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 268 | 4450 | 6.0 | /mnt/stockage/packages/f30/rpm/po/ar.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 162 | 4450 | 3.6 | /mnt/stockage/packages/f30/rpm/po/nl.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 131 | 4450 | 2.9 | /mnt/stockage/packages/f30/rpm/po/ms.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 74 | 4450 | 1.7 | /mnt/stockage/packages/f30/rpm/po/el.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 72 | 4450 | 1.6 | /mnt/stockage/packages/f30/rpm/po/te.po | 
+ | [eo](/f30/language/eo) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/eo.po | 
+ | [pl](/f30/language/pl) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/pl.po | 
+ | [sv](/f30/language/sv) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/sv.po | 
+ | [uk](/f30/language/uk) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/uk.po | 
+ | [vi](/f30/language/vi) | 3798 | 4450 | 85.3 | /mnt/stockage/packages/f30/rpm/po/vi.po | 
+ | [it](/f30/language/it) | 3545 | 4450 | 79.7 | /mnt/stockage/packages/f30/rpm/po/it.po | 
+ | [ca](/f30/language/ca) | 3531 | 4450 | 79.3 | /mnt/stockage/packages/f30/rpm/po/ca.po | 
+ | [de](/f30/language/de) | 3484 | 4450 | 78.3 | /mnt/stockage/packages/f30/rpm/po/de.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 6855 | 8900 | 77.0 | /mnt/stockage/packages/f30/rpm/po/cmn.po/mnt/stockage/packages/f30/rpm/po/zh_CN.po | 
+ | [fr](/f30/language/fr) | 3378 | 4450 | 75.9 | /mnt/stockage/packages/f30/rpm/po/fr.po | 
+ | [es](/f30/language/es) | 3297 | 4450 | 74.1 | /mnt/stockage/packages/f30/rpm/po/es.po | 
+ | [ja](/f30/language/ja) | 3297 | 4450 | 74.1 | /mnt/stockage/packages/f30/rpm/po/ja.po | 
+ | [sk](/f30/language/sk) | 3195 | 4450 | 71.8 | /mnt/stockage/packages/f30/rpm/po/sk.po | 
+ | [pt_BR](/f30/language/pt_BR) | 2776 | 4450 | 62.4 | /mnt/stockage/packages/f30/rpm/po/pt_BR.po | 
+ | [sr](/f30/language/sr) | 2618 | 4450 | 58.8 | /mnt/stockage/packages/f30/rpm/po/sr.po | 
+ | [sr_Latn](/f30/language/sr_Latn) | 2618 | 4450 | 58.8 | /mnt/stockage/packages/f30/rpm/po/sr@latin.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 2513 | 4450 | 56.5 | /mnt/stockage/packages/f30/rpm/po/zh_TW.po | 
+ | [ru](/f30/language/ru) | 2430 | 4450 | 54.6 | /mnt/stockage/packages/f30/rpm/po/ru.po | 
+ | [cs](/f30/language/cs) | 2429 | 4450 | 54.6 | /mnt/stockage/packages/f30/rpm/po/cs.po | 
+ | [fi](/f30/language/fi) | 2196 | 4450 | 49.3 | /mnt/stockage/packages/f30/rpm/po/fi.po | 
+ | [tr](/f30/language/tr) | 1947 | 4450 | 43.8 | /mnt/stockage/packages/f30/rpm/po/tr.po | 
+ | [pt](/f30/language/pt) | 1815 | 4450 | 40.8 | /mnt/stockage/packages/f30/rpm/po/pt.po | 
+ | [ko](/f30/language/ko) | 1812 | 4450 | 40.7 | /mnt/stockage/packages/f30/rpm/po/ko.po | 
+ | [da](/f30/language/da) | 1563 | 4450 | 35.1 | /mnt/stockage/packages/f30/rpm/po/da.po | 
+ | [nb_NO](/f30/language/nb_NO) | 1130 | 4450 | 25.4 | /mnt/stockage/packages/f30/rpm/po/nb.po | 
+ | [sl](/f30/language/sl) | 690 | 4450 | 15.5 | /mnt/stockage/packages/f30/rpm/po/sl.po | 
+ | [br](/f30/language/br) | 451 | 4450 | 10.1 | /mnt/stockage/packages/f30/rpm/po/br.po | 
+ | [id](/f30/language/id) | 451 | 4450 | 10.1 | /mnt/stockage/packages/f30/rpm/po/id.po | 
+ | [is](/f30/language/is) | 338 | 4450 | 7.6 | /mnt/stockage/packages/f30/rpm/po/is.po | 
+ | [ar](/f30/language/ar) | 268 | 4450 | 6.0 | /mnt/stockage/packages/f30/rpm/po/ar.po | 
+ | [nl](/f30/language/nl) | 162 | 4450 | 3.6 | /mnt/stockage/packages/f30/rpm/po/nl.po | 
+ | [ms](/f30/language/ms) | 131 | 4450 | 2.9 | /mnt/stockage/packages/f30/rpm/po/ms.po | 
+ | [el](/f30/language/el) | 74 | 4450 | 1.7 | /mnt/stockage/packages/f30/rpm/po/el.po | 
+ | [te](/f30/language/te) | 72 | 4450 | 1.6 | /mnt/stockage/packages/f30/rpm/po/te.po | 
 {.sortable}
 
 

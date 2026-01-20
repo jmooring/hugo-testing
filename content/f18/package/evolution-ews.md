@@ -18,24 +18,24 @@ The package evolution-ews (version 3.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/de.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 496 | 496 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/gl.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/id.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 496 | 496 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/lv.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/mr.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/pt_BR.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 2078 | 2078 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/sr@latin.po/mnt/stockage/packages/f18/evolution-ews/po/sr.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 314 | 327 | 96.0 | /mnt/stockage/packages/f18/evolution-ews/po/zh_CN.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 317 | 441 | 71.9 | /mnt/stockage/packages/f18/evolution-ews/po/da.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 63 | 327 | 19.3 | /mnt/stockage/packages/f18/evolution-ews/po/nb.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 41 | 441 | 9.3 | /mnt/stockage/packages/f18/evolution-ews/po/sv.po | 
+ | [cs](/f18/language/cs) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/cs.po | 
+ | [de](/f18/language/de) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/de.po | 
+ | [en_GB](/f18/language/en_GB) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/en_GB.po | 
+ | [es](/f18/language/es) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/es.po | 
+ | [fr](/f18/language/fr) | 496 | 496 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/fr.po | 
+ | [gl](/f18/language/gl) | 470 | 470 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/gl.po | 
+ | [hu](/f18/language/hu) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/hu.po | 
+ | [id](/f18/language/id) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/id.po | 
+ | [lv](/f18/language/lv) | 496 | 496 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/lv.po | 
+ | [mr](/f18/language/mr) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/mr.po | 
+ | [pl](/f18/language/pl) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/pt_BR.po | 
+ | [sl](/f18/language/sl) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/sl.po | 
+ | [sr](/f18/language/sr) | 2078 | 2078 | 100.0 | /mnt/stockage/packages/f18/evolution-ews/po/sr@latin.po/mnt/stockage/packages/f18/evolution-ews/po/sr.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 314 | 327 | 96.0 | /mnt/stockage/packages/f18/evolution-ews/po/zh_CN.po | 
+ | [da](/f18/language/da) | 317 | 441 | 71.9 | /mnt/stockage/packages/f18/evolution-ews/po/da.po | 
+ | [nb_NO](/f18/language/nb_NO) | 63 | 327 | 19.3 | /mnt/stockage/packages/f18/evolution-ews/po/nb.po | 
+ | [sv](/f18/language/sv) | 41 | 441 | 9.3 | /mnt/stockage/packages/f18/evolution-ews/po/sv.po | 
 {.sortable}
 
 

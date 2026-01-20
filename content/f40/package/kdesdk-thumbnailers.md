@@ -18,55 +18,55 @@ The package kdesdk-thumbnailers (version 25.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ar/pothumbnail.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/bg/pothumbnail.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/bs/pothumbnail.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ca/pothumbnail.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ca@valencia/pothumbnail.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/cs/pothumbnail.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/da/pothumbnail.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/de/pothumbnail.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/el/pothumbnail.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/en_GB/pothumbnail.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/eo/pothumbnail.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/es/pothumbnail.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/et/pothumbnail.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/eu/pothumbnail.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/fi/pothumbnail.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/fr/pothumbnail.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ga/pothumbnail.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/gl/pothumbnail.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/he/pothumbnail.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/hi/pothumbnail.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/hu/pothumbnail.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/id/pothumbnail.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/is/pothumbnail.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/it/pothumbnail.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ka/pothumbnail.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/kk/pothumbnail.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ko/pothumbnail.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/lt/pothumbnail.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/mr/pothumbnail.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nb/pothumbnail.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nds/pothumbnail.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nl/pothumbnail.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nn/pothumbnail.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pa/pothumbnail.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pl/pothumbnail.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pt/pothumbnail.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pt_BR/pothumbnail.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ro/pothumbnail.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ru/pothumbnail.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/sk/pothumbnail.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/sl/pothumbnail.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/sv/pothumbnail.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/tr/pothumbnail.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/uk/pothumbnail.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/vi/pothumbnail.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/zh_CN/pothumbnail.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/zh_TW/pothumbnail.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ja/pothumbnail.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ug/pothumbnail.po | 
+ | [ar](/f40/language/ar) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ar/pothumbnail.po | 
+ | [bg](/f40/language/bg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/bg/pothumbnail.po | 
+ | [bs](/f40/language/bs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/bs/pothumbnail.po | 
+ | [ca](/f40/language/ca) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ca/pothumbnail.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ca@valencia/pothumbnail.po | 
+ | [cs](/f40/language/cs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/cs/pothumbnail.po | 
+ | [da](/f40/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/da/pothumbnail.po | 
+ | [de](/f40/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/de/pothumbnail.po | 
+ | [el](/f40/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/el/pothumbnail.po | 
+ | [en_GB](/f40/language/en_GB) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/en_GB/pothumbnail.po | 
+ | [eo](/f40/language/eo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/eo/pothumbnail.po | 
+ | [es](/f40/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/es/pothumbnail.po | 
+ | [et](/f40/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/et/pothumbnail.po | 
+ | [eu](/f40/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/eu/pothumbnail.po | 
+ | [fi](/f40/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/fi/pothumbnail.po | 
+ | [fr](/f40/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/fr/pothumbnail.po | 
+ | [ga](/f40/language/ga) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ga/pothumbnail.po | 
+ | [gl](/f40/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/gl/pothumbnail.po | 
+ | [he](/f40/language/he) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/he/pothumbnail.po | 
+ | [hi](/f40/language/hi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/hi/pothumbnail.po | 
+ | [hu](/f40/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/hu/pothumbnail.po | 
+ | [id](/f40/language/id) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/id/pothumbnail.po | 
+ | [is](/f40/language/is) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/is/pothumbnail.po | 
+ | [it](/f40/language/it) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/it/pothumbnail.po | 
+ | [ka](/f40/language/ka) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ka/pothumbnail.po | 
+ | [kk](/f40/language/kk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/kk/pothumbnail.po | 
+ | [ko](/f40/language/ko) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ko/pothumbnail.po | 
+ | [lt](/f40/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/lt/pothumbnail.po | 
+ | [mr](/f40/language/mr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/mr/pothumbnail.po | 
+ | [nb_NO](/f40/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nb/pothumbnail.po | 
+ | [nds](/f40/language/nds) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nds/pothumbnail.po | 
+ | [nl](/f40/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nl/pothumbnail.po | 
+ | [nn](/f40/language/nn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/nn/pothumbnail.po | 
+ | [pa](/f40/language/pa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pa/pothumbnail.po | 
+ | [pl](/f40/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pl/pothumbnail.po | 
+ | [pt](/f40/language/pt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pt/pothumbnail.po | 
+ | [pt_BR](/f40/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/pt_BR/pothumbnail.po | 
+ | [ro](/f40/language/ro) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ro/pothumbnail.po | 
+ | [ru](/f40/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ru/pothumbnail.po | 
+ | [sk](/f40/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/sk/pothumbnail.po | 
+ | [sl](/f40/language/sl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/sl/pothumbnail.po | 
+ | [sv](/f40/language/sv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/sv/pothumbnail.po | 
+ | [tr](/f40/language/tr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/tr/pothumbnail.po | 
+ | [uk](/f40/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/uk/pothumbnail.po | 
+ | [vi](/f40/language/vi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/vi/pothumbnail.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/zh_CN/pothumbnail.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 4 | 4 | 100.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/zh_TW/pothumbnail.po | 
+ | [ja](/f40/language/ja) | 0 | 4 | 0.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ja/pothumbnail.po | 
+ | [ug](/f40/language/ug) | 0 | 4 | 0.0 | /mnt/stockage/packages/f40/kdesdk-thumbnailers/po/ug/pothumbnail.po | 
 {.sortable}
 
 

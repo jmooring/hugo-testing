@@ -18,34 +18,34 @@ The package template-glib (version 3.36.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/el.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/eu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/fur.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/it.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ka.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/lt.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ru.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/zh_CN.po | 
+ | [ca](/f38/language/ca) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ca.po | 
+ | [cs](/f38/language/cs) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/cs.po | 
+ | [da](/f38/language/da) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/da.po | 
+ | [de](/f38/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/de.po | 
+ | [el](/f38/language/el) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/el.po | 
+ | [en_GB](/f38/language/en_GB) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/en_GB.po | 
+ | [es](/f38/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/es.po | 
+ | [eu](/f38/language/eu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/eu.po | 
+ | [fr](/f38/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/fr.po | 
+ | [fur](/f38/language/fur) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/fur.po | 
+ | [hr](/f38/language/hr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/hr.po | 
+ | [hu](/f38/language/hu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/hu.po | 
+ | [id](/f38/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/id.po | 
+ | [it](/f38/language/it) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/it.po | 
+ | [ka](/f38/language/ka) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ka.po | 
+ | [lt](/f38/language/lt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/lt.po | 
+ | [nl](/f38/language/nl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/nl.po | 
+ | [pl](/f38/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/pl.po | 
+ | [pt](/f38/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ro.po | 
+ | [ru](/f38/language/ru) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/ru.po | 
+ | [sl](/f38/language/sl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/sl.po | 
+ | [sr](/f38/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/sr.po | 
+ | [sv](/f38/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/sv.po | 
+ | [tr](/f38/language/tr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/tr.po | 
+ | [uk](/f38/language/uk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/template-glib/po/zh_CN.po | 
 {.sortable}
 
 

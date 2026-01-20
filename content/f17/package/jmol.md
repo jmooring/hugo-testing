@@ -18,39 +18,39 @@ The package jmol (version 12.0.41):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/cs.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/cs.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/es.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/fr.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/fr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/uk.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/uk.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 2722 | 2731 | 99.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/fi.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/fi.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 2660 | 2731 | 97.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/da.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/da.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 2660 | 2731 | 97.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/it.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/it.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 2658 | 2731 | 97.3 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/id.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/id.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 2658 | 2731 | 97.3 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/zh_TW.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/zh_TW.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2513 | 2731 | 92.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/zh_CN.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/zh_CN.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 2504 | 2731 | 91.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/pt_BR.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/pt_BR.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 2494 | 2731 | 91.3 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/en_GB.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/en_GB.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 2370 | 2731 | 86.8 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/nl.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/nl.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 951 | 1136 | 83.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ca@valencia.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2255 | 2731 | 82.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ca.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ca.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 2022 | 2731 | 74.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/tr.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/tr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 1962 | 2731 | 71.8 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/hu.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/hu.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 1520 | 2731 | 55.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ko.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ko.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1348 | 2731 | 49.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ru.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ru.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 4699 | 9751 | 48.2 | /mnt/stockage/packages/f17/jmol/doc/source/po/JmolAppletGuide.de.po/mnt/stockage/packages/f17/jmol/doc/source/po/JmolDevelopersGuide.de.po/mnt/stockage/packages/f17/jmol/doc/source/po/JmolGuide.de.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/de.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/de.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 1288 | 2731 | 47.2 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/pt.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/pt.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 872 | 2731 | 31.9 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/et.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/et.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 866 | 2731 | 31.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/pl.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/pl.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 765 | 2731 | 28.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/el.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/el.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 245 | 1136 | 21.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ja.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 327 | 1595 | 20.5 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/nb.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 454 | 2731 | 16.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/sv.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/sv.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 425 | 2731 | 15.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ar.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ar.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 341 | 2731 | 12.5 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/oc.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/oc.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 287 | 2731 | 10.5 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ta.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ta.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 76 | 1136 | 6.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/hr.po | 
- | [fo]({{< ref "/f17/language/fo.md" >}}) | 70 | 1136 | 6.2 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/fo.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 22 | 1595 | 1.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/sl.po | 
+ | [cs](/f17/language/cs) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/cs.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/cs.po | 
+ | [es](/f17/language/es) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/es.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/es.po | 
+ | [fr](/f17/language/fr) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/fr.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/fr.po | 
+ | [uk](/f17/language/uk) | 2731 | 2731 | 100.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/uk.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/uk.po | 
+ | [fi](/f17/language/fi) | 2722 | 2731 | 99.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/fi.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/fi.po | 
+ | [da](/f17/language/da) | 2660 | 2731 | 97.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/da.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/da.po | 
+ | [it](/f17/language/it) | 2660 | 2731 | 97.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/it.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/it.po | 
+ | [id](/f17/language/id) | 2658 | 2731 | 97.3 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/id.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/id.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 2658 | 2731 | 97.3 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/zh_TW.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/zh_TW.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2513 | 2731 | 92.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/zh_CN.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/zh_CN.po | 
+ | [pt_BR](/f17/language/pt_BR) | 2504 | 2731 | 91.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/pt_BR.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/pt_BR.po | 
+ | [en_GB](/f17/language/en_GB) | 2494 | 2731 | 91.3 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/en_GB.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/en_GB.po | 
+ | [nl](/f17/language/nl) | 2370 | 2731 | 86.8 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/nl.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/nl.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 951 | 1136 | 83.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ca@valencia.po | 
+ | [ca](/f17/language/ca) | 2255 | 2731 | 82.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ca.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ca.po | 
+ | [tr](/f17/language/tr) | 2022 | 2731 | 74.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/tr.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/tr.po | 
+ | [hu](/f17/language/hu) | 1962 | 2731 | 71.8 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/hu.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/hu.po | 
+ | [ko](/f17/language/ko) | 1520 | 2731 | 55.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ko.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ko.po | 
+ | [ru](/f17/language/ru) | 1348 | 2731 | 49.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ru.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ru.po | 
+ | [de](/f17/language/de) | 4699 | 9751 | 48.2 | /mnt/stockage/packages/f17/jmol/doc/source/po/JmolAppletGuide.de.po/mnt/stockage/packages/f17/jmol/doc/source/po/JmolDevelopersGuide.de.po/mnt/stockage/packages/f17/jmol/doc/source/po/JmolGuide.de.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/de.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/de.po | 
+ | [pt](/f17/language/pt) | 1288 | 2731 | 47.2 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/pt.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/pt.po | 
+ | [et](/f17/language/et) | 872 | 2731 | 31.9 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/et.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/et.po | 
+ | [pl](/f17/language/pl) | 866 | 2731 | 31.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/pl.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/pl.po | 
+ | [el](/f17/language/el) | 765 | 2731 | 28.0 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/el.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/el.po | 
+ | [ja](/f17/language/ja) | 245 | 1136 | 21.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ja.po | 
+ | [nb_NO](/f17/language/nb_NO) | 327 | 1595 | 20.5 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/nb.po | 
+ | [sv](/f17/language/sv) | 454 | 2731 | 16.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/sv.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/sv.po | 
+ | [ar](/f17/language/ar) | 425 | 2731 | 15.6 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ar.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ar.po | 
+ | [oc](/f17/language/oc) | 341 | 2731 | 12.5 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/oc.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/oc.po | 
+ | [ta](/f17/language/ta) | 287 | 2731 | 10.5 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/ta.po/mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/ta.po | 
+ | [hr](/f17/language/hr) | 76 | 1136 | 6.7 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/hr.po | 
+ | [fo](/f17/language/fo) | 70 | 1136 | 6.2 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/Jmol/fo.po | 
+ | [sl](/f17/language/sl) | 22 | 1595 | 1.4 | /mnt/stockage/packages/f17/jmol/src/org/jmol/translation/JmolApplet/sl.po | 
 {.sortable}
 
 

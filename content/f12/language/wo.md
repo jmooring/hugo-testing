@@ -39,14 +39,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f12/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 1071 | 1092 | 98.1 | Wolof | 
- | [tuxtype2]({{< ref "/f12/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 |  | 
- | [ccsm]({{< ref "/f12/package/ccsm.md" >}}) | 399 | 549 | 72.7 | Wolof | 
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 469 | 761 | 61.6 |  | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 126 | 2424 | 5.2 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f12/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [iso-codes](/f12/package/iso-codes) | 1071 | 1092 | 98.1 | Wolof | 
+ | [tuxtype2](/f12/package/tuxtype2) | 71 | 80 | 88.8 |  | 
+ | [ccsm](/f12/package/ccsm) | 399 | 549 | 72.7 | Wolof | 
+ | [tuxpaint](/f12/package/tuxpaint) | 469 | 761 | 61.6 |  | 
+ | [pootle](/f12/package/pootle) | 126 | 2424 | 5.2 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

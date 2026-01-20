@@ -18,23 +18,23 @@ The package boswars (version 2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f26/boswars/languages/hu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 214 | 216 | 99.1 | /mnt/stockage/packages/f26/boswars/languages/fr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 230 | 236 | 97.5 | /mnt/stockage/packages/f26/boswars/languages/nl.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 910 | 963 | 94.5 | /mnt/stockage/packages/f26/boswars/languages/lt.po/mnt/stockage/packages/f26/boswars/languages/bos-lt.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 200 | 216 | 92.6 | /mnt/stockage/packages/f26/boswars/languages/sv.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 198 | 216 | 91.7 | /mnt/stockage/packages/f26/boswars/languages/es.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 196 | 216 | 90.7 | /mnt/stockage/packages/f26/boswars/languages/it.po | 
- | [pt_PT]({{< ref "/f26/language/pt_PT.md" >}}) | 196 | 216 | 90.7 | /mnt/stockage/packages/f26/boswars/languages/pt-pt.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 189 | 216 | 87.5 | /mnt/stockage/packages/f26/boswars/languages/da.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 189 | 216 | 87.5 | /mnt/stockage/packages/f26/boswars/languages/pt-br.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 189 | 216 | 87.5 | /mnt/stockage/packages/f26/boswars/languages/tr.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 176 | 216 | 81.5 | /mnt/stockage/packages/f26/boswars/languages/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 171 | 216 | 79.2 | /mnt/stockage/packages/f26/boswars/languages/de.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 6163 | 8377 | 73.6 | /mnt/stockage/packages/f26/boswars/languages/bos-pt-br.po/mnt/stockage/packages/f26/boswars/languages/bos-it.po/mnt/stockage/packages/f26/boswars/languages/bos-sv.po/mnt/stockage/packages/f26/boswars/languages/bos-pt-pt.po/mnt/stockage/packages/f26/boswars/languages/bos-nl.po/mnt/stockage/packages/f26/boswars/languages/bos-hu.po/mnt/stockage/packages/f26/boswars/languages/bos-es.po/mnt/stockage/packages/f26/boswars/languages/bos-fr.po/mnt/stockage/packages/f26/boswars/languages/bos-de.po/mnt/stockage/packages/f26/boswars/languages/bos-tr.po/mnt/stockage/packages/f26/boswars/languages/bos-da.po/mnt/stockage/packages/f26/boswars/languages/bos-cs.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 158 | 216 | 73.1 | /mnt/stockage/packages/f26/boswars/languages/bg.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 158 | 216 | 73.1 | /mnt/stockage/packages/f26/boswars/languages/pl.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 669 | 983 | 68.1 | /mnt/stockage/packages/f26/boswars/languages/bos-fi.po/mnt/stockage/packages/f26/boswars/languages/fi.po | 
+ | [hu](/f26/language/hu) | 216 | 216 | 100.0 | /mnt/stockage/packages/f26/boswars/languages/hu.po | 
+ | [fr](/f26/language/fr) | 214 | 216 | 99.1 | /mnt/stockage/packages/f26/boswars/languages/fr.po | 
+ | [nl](/f26/language/nl) | 230 | 236 | 97.5 | /mnt/stockage/packages/f26/boswars/languages/nl.po | 
+ | [lt](/f26/language/lt) | 910 | 963 | 94.5 | /mnt/stockage/packages/f26/boswars/languages/lt.po/mnt/stockage/packages/f26/boswars/languages/bos-lt.po | 
+ | [sv](/f26/language/sv) | 200 | 216 | 92.6 | /mnt/stockage/packages/f26/boswars/languages/sv.po | 
+ | [es](/f26/language/es) | 198 | 216 | 91.7 | /mnt/stockage/packages/f26/boswars/languages/es.po | 
+ | [it](/f26/language/it) | 196 | 216 | 90.7 | /mnt/stockage/packages/f26/boswars/languages/it.po | 
+ | [pt_PT](/f26/language/pt_PT) | 196 | 216 | 90.7 | /mnt/stockage/packages/f26/boswars/languages/pt-pt.po | 
+ | [da](/f26/language/da) | 189 | 216 | 87.5 | /mnt/stockage/packages/f26/boswars/languages/da.po | 
+ | [pt_BR](/f26/language/pt_BR) | 189 | 216 | 87.5 | /mnt/stockage/packages/f26/boswars/languages/pt-br.po | 
+ | [tr](/f26/language/tr) | 189 | 216 | 87.5 | /mnt/stockage/packages/f26/boswars/languages/tr.po | 
+ | [cs](/f26/language/cs) | 176 | 216 | 81.5 | /mnt/stockage/packages/f26/boswars/languages/cs.po | 
+ | [de](/f26/language/de) | 171 | 216 | 79.2 | /mnt/stockage/packages/f26/boswars/languages/de.po | 
+ | [error](/f26/language/error) | 6163 | 8377 | 73.6 | /mnt/stockage/packages/f26/boswars/languages/bos-pt-br.po/mnt/stockage/packages/f26/boswars/languages/bos-it.po/mnt/stockage/packages/f26/boswars/languages/bos-sv.po/mnt/stockage/packages/f26/boswars/languages/bos-pt-pt.po/mnt/stockage/packages/f26/boswars/languages/bos-nl.po/mnt/stockage/packages/f26/boswars/languages/bos-hu.po/mnt/stockage/packages/f26/boswars/languages/bos-es.po/mnt/stockage/packages/f26/boswars/languages/bos-fr.po/mnt/stockage/packages/f26/boswars/languages/bos-de.po/mnt/stockage/packages/f26/boswars/languages/bos-tr.po/mnt/stockage/packages/f26/boswars/languages/bos-da.po/mnt/stockage/packages/f26/boswars/languages/bos-cs.po | 
+ | [bg](/f26/language/bg) | 158 | 216 | 73.1 | /mnt/stockage/packages/f26/boswars/languages/bg.po | 
+ | [pl](/f26/language/pl) | 158 | 216 | 73.1 | /mnt/stockage/packages/f26/boswars/languages/pl.po | 
+ | [fi](/f26/language/fi) | 669 | 983 | 68.1 | /mnt/stockage/packages/f26/boswars/languages/bos-fi.po/mnt/stockage/packages/f26/boswars/languages/fi.po | 
 {.sortable}
 
 

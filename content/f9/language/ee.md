@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tellico]({{< ref "/f9/package/tellico.md" >}}) | 1442 | 5576 | 25.9 | Estonian <et@li.org> | 
+ | [tellico](/f9/package/tellico) | 1442 | 5576 | 25.9 | Estonian <et@li.org> | 
 {.sortable}
 
 

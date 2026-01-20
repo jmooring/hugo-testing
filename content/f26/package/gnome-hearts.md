@@ -18,27 +18,27 @@ The package gnome-hearts (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 407 | 409 | 99.5 | /mnt/stockage/packages/f26/gnome-hearts/po/nl.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 394 | 409 | 96.3 | /mnt/stockage/packages/f26/gnome-hearts/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 394 | 409 | 96.3 | /mnt/stockage/packages/f26/gnome-hearts/po/zh_CN.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 376 | 409 | 91.9 | /mnt/stockage/packages/f26/gnome-hearts/po/eu.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 374 | 409 | 91.4 | /mnt/stockage/packages/f26/gnome-hearts/po/sv.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 364 | 409 | 89.0 | /mnt/stockage/packages/f26/gnome-hearts/po/it.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 359 | 409 | 87.8 | /mnt/stockage/packages/f26/gnome-hearts/po/id.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 356 | 409 | 87.0 | /mnt/stockage/packages/f26/gnome-hearts/po/fi.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 355 | 409 | 86.8 | /mnt/stockage/packages/f26/gnome-hearts/po/pt.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 353 | 409 | 86.3 | /mnt/stockage/packages/f26/gnome-hearts/po/es.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 347 | 409 | 84.8 | /mnt/stockage/packages/f26/gnome-hearts/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 346 | 409 | 84.6 | /mnt/stockage/packages/f26/gnome-hearts/po/el.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/hu.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/ml.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/pl.po | 
- | [tl]({{< ref "/f26/language/tl.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/tl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 334 | 409 | 81.7 | /mnt/stockage/packages/f26/gnome-hearts/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 332 | 409 | 81.2 | /mnt/stockage/packages/f26/gnome-hearts/po/ru.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 328 | 409 | 80.2 | /mnt/stockage/packages/f26/gnome-hearts/po/fr.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 323 | 409 | 79.0 | /mnt/stockage/packages/f26/gnome-hearts/po/da.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 264 | 409 | 64.5 | /mnt/stockage/packages/f26/gnome-hearts/po/sk.po | 
+ | [nl](/f26/language/nl) | 407 | 409 | 99.5 | /mnt/stockage/packages/f26/gnome-hearts/po/nl.po | 
+ | [en_GB](/f26/language/en_GB) | 394 | 409 | 96.3 | /mnt/stockage/packages/f26/gnome-hearts/po/en_GB.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 394 | 409 | 96.3 | /mnt/stockage/packages/f26/gnome-hearts/po/zh_CN.po | 
+ | [eu](/f26/language/eu) | 376 | 409 | 91.9 | /mnt/stockage/packages/f26/gnome-hearts/po/eu.po | 
+ | [sv](/f26/language/sv) | 374 | 409 | 91.4 | /mnt/stockage/packages/f26/gnome-hearts/po/sv.po | 
+ | [it](/f26/language/it) | 364 | 409 | 89.0 | /mnt/stockage/packages/f26/gnome-hearts/po/it.po | 
+ | [id](/f26/language/id) | 359 | 409 | 87.8 | /mnt/stockage/packages/f26/gnome-hearts/po/id.po | 
+ | [fi](/f26/language/fi) | 356 | 409 | 87.0 | /mnt/stockage/packages/f26/gnome-hearts/po/fi.po | 
+ | [pt](/f26/language/pt) | 355 | 409 | 86.8 | /mnt/stockage/packages/f26/gnome-hearts/po/pt.po | 
+ | [es](/f26/language/es) | 353 | 409 | 86.3 | /mnt/stockage/packages/f26/gnome-hearts/po/es.po | 
+ | [de](/f26/language/de) | 347 | 409 | 84.8 | /mnt/stockage/packages/f26/gnome-hearts/po/de.po | 
+ | [el](/f26/language/el) | 346 | 409 | 84.6 | /mnt/stockage/packages/f26/gnome-hearts/po/el.po | 
+ | [hu](/f26/language/hu) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/hu.po | 
+ | [ml](/f26/language/ml) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/ml.po | 
+ | [pl](/f26/language/pl) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/pl.po | 
+ | [tl](/f26/language/tl) | 340 | 409 | 83.1 | /mnt/stockage/packages/f26/gnome-hearts/po/tl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 334 | 409 | 81.7 | /mnt/stockage/packages/f26/gnome-hearts/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 332 | 409 | 81.2 | /mnt/stockage/packages/f26/gnome-hearts/po/ru.po | 
+ | [fr](/f26/language/fr) | 328 | 409 | 80.2 | /mnt/stockage/packages/f26/gnome-hearts/po/fr.po | 
+ | [da](/f26/language/da) | 323 | 409 | 79.0 | /mnt/stockage/packages/f26/gnome-hearts/po/da.po | 
+ | [sk](/f26/language/sk) | 264 | 409 | 64.5 | /mnt/stockage/packages/f26/gnome-hearts/po/sk.po | 
 {.sortable}
 
 

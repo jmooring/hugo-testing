@@ -18,166 +18,166 @@ The package mate-menu (version 20.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/ca.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/da.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/en_GB.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/gl.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/it.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/lt.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/ms.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/nb.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/nds.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/nl.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/sl.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/uk.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/zh_TW.po | 
- | [am]({{< ref "/f34/language/am.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/am.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ast.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/bg.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ca@valencia.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/el.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/eu.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/fi.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/he.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/id.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ko.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/pt_BR.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ro.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/sk.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/tr.po | 
- | [ie]({{< ref "/f34/language/ie.md" >}}) | 297 | 308 | 96.4 | /mnt/stockage/packages/f34/mate-menu/po/ie.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 294 | 308 | 95.5 | /mnt/stockage/packages/f34/mate-menu/po/hy.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 286 | 308 | 92.9 | /mnt/stockage/packages/f34/mate-menu/po/kk.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 285 | 308 | 92.5 | /mnt/stockage/packages/f34/mate-menu/po/en.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/ar.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/be.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/en_AU.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/th.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 282 | 308 | 91.6 | /mnt/stockage/packages/f34/mate-menu/po/is.po | 
- | [br]({{< ref "/f34/language/br.md" >}}) | 279 | 308 | 90.6 | /mnt/stockage/packages/f34/mate-menu/po/br.po | 
- | [uz]({{< ref "/f34/language/uz.md" >}}) | 252 | 308 | 81.8 | /mnt/stockage/packages/f34/mate-menu/po/uz.po | 
- | [gv]({{< ref "/f34/language/gv.md" >}}) | 229 | 308 | 74.4 | /mnt/stockage/packages/f34/mate-menu/po/gv.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 226 | 308 | 73.4 | /mnt/stockage/packages/f34/mate-menu/po/et.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 203 | 308 | 65.9 | /mnt/stockage/packages/f34/mate-menu/po/bs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 314 | 616 | 51.0 | /mnt/stockage/packages/f34/mate-menu/po/es_ES.po/mnt/stockage/packages/f34/mate-menu/po/es.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 157 | 308 | 51.0 | /mnt/stockage/packages/f34/mate-menu/po/oc.po | 
- | [cy]({{< ref "/f34/language/cy.md" >}}) | 144 | 308 | 46.8 | /mnt/stockage/packages/f34/mate-menu/po/cy.po | 
- | [kn]({{< ref "/f34/language/kn.md" >}}) | 127 | 308 | 41.2 | /mnt/stockage/packages/f34/mate-menu/po/kn.po | 
- | [kmr]({{< ref "/f34/language/kmr.md" >}}) | 125 | 308 | 40.6 | /mnt/stockage/packages/f34/mate-menu/po/ku_IQ.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 363 | 924 | 39.3 | /mnt/stockage/packages/f34/mate-menu/po/zh_CN.po/mnt/stockage/packages/f34/mate-menu/po/zh-Hans.po/mnt/stockage/packages/f34/mate-menu/po/cmn.po | 
- | [frp]({{< ref "/f34/language/frp.md" >}}) | 109 | 308 | 35.4 | /mnt/stockage/packages/f34/mate-menu/po/frp.po | 
- | [zh_Hant_HK]({{< ref "/f34/language/zh_Hant_HK.md" >}}) | 102 | 308 | 33.1 | /mnt/stockage/packages/f34/mate-menu/po/zh_HK.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 94 | 308 | 30.5 | /mnt/stockage/packages/f34/mate-menu/po/sq.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 89 | 308 | 28.9 | /mnt/stockage/packages/f34/mate-menu/po/eo.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 86 | 308 | 27.9 | /mnt/stockage/packages/f34/mate-menu/po/fa.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 81 | 308 | 26.3 | /mnt/stockage/packages/f34/mate-menu/po/gu.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 71 | 308 | 23.1 | /mnt/stockage/packages/f34/mate-menu/po/vi.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/bn.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/lv.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/mr.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/pa.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/sr@latin.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/ta.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/ga.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/hi.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/ml.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/nn.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/te.po | 
- | [as]({{< ref "/f34/language/as.md" >}}) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/as.po | 
- | [bn_IN]({{< ref "/f34/language/bn_IN.md" >}}) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/bn_IN.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/mk.po | 
- | [or]({{< ref "/f34/language/or.md" >}}) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/or.po | 
- | [ne]({{< ref "/f34/language/ne.md" >}}) | 60 | 308 | 19.5 | /mnt/stockage/packages/f34/mate-menu/po/ne.po | 
- | [mai]({{< ref "/f34/language/mai.md" >}}) | 59 | 308 | 19.2 | /mnt/stockage/packages/f34/mate-menu/po/mai.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 59 | 308 | 19.2 | /mnt/stockage/packages/f34/mate-menu/po/ug.po | 
- | [ur]({{< ref "/f34/language/ur.md" >}}) | 59 | 308 | 19.2 | /mnt/stockage/packages/f34/mate-menu/po/ur.po | 
- | [dz]({{< ref "/f34/language/dz.md" >}}) | 57 | 308 | 18.5 | /mnt/stockage/packages/f34/mate-menu/po/dz.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 54 | 308 | 17.5 | /mnt/stockage/packages/f34/mate-menu/po/ka.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 52 | 308 | 16.9 | /mnt/stockage/packages/f34/mate-menu/po/en_CA.po | 
- | [crh]({{< ref "/f34/language/crh.md" >}}) | 50 | 308 | 16.2 | /mnt/stockage/packages/f34/mate-menu/po/crh.po | 
- | [es_CO]({{< ref "/f34/language/es_CO.md" >}}) | 50 | 308 | 16.2 | /mnt/stockage/packages/f34/mate-menu/po/es_CO.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 48 | 308 | 15.6 | /mnt/stockage/packages/f34/mate-menu/po/af.po | 
- | [fur]({{< ref "/f34/language/fur.md" >}}) | 47 | 308 | 15.3 | /mnt/stockage/packages/f34/mate-menu/po/fur.po | 
- | [ky]({{< ref "/f34/language/ky.md" >}}) | 42 | 308 | 13.6 | /mnt/stockage/packages/f34/mate-menu/po/ky.po | 
- | [ku]({{< ref "/f34/language/ku.md" >}}) | 39 | 308 | 12.7 | /mnt/stockage/packages/f34/mate-menu/po/ku.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 39 | 308 | 12.7 | /mnt/stockage/packages/f34/mate-menu/po/si.po | 
- | [ps]({{< ref "/f34/language/ps.md" >}}) | 37 | 308 | 12.0 | /mnt/stockage/packages/f34/mate-menu/po/ps.po | 
- | [tpi]({{< ref "/f34/language/tpi.md" >}}) | 34 | 308 | 11.0 | /mnt/stockage/packages/f34/mate-menu/po/tpi.po | 
- | [mn]({{< ref "/f34/language/mn.md" >}}) | 33 | 308 | 10.7 | /mnt/stockage/packages/f34/mate-menu/po/mn.po | 
- | [mg]({{< ref "/f34/language/mg.md" >}}) | 32 | 308 | 10.4 | /mnt/stockage/packages/f34/mate-menu/po/mg.po | 
- | [es_CL]({{< ref "/f34/language/es_CL.md" >}}) | 30 | 308 | 9.7 | /mnt/stockage/packages/f34/mate-menu/po/es_CL.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 26 | 308 | 8.4 | /mnt/stockage/packages/f34/mate-menu/po/wa.po | 
- | [gd]({{< ref "/f34/language/gd.md" >}}) | 25 | 308 | 8.1 | /mnt/stockage/packages/f34/mate-menu/po/gd.po | 
- | [xh]({{< ref "/f34/language/xh.md" >}}) | 25 | 308 | 8.1 | /mnt/stockage/packages/f34/mate-menu/po/xh.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 23 | 308 | 7.5 | /mnt/stockage/packages/f34/mate-menu/po/az.po | 
- | [fy]({{< ref "/f34/language/fy.md" >}}) | 23 | 308 | 7.5 | /mnt/stockage/packages/f34/mate-menu/po/fy.po | 
- | [es_MX]({{< ref "/f34/language/es_MX.md" >}}) | 21 | 308 | 6.8 | /mnt/stockage/packages/f34/mate-menu/po/es_MX.po | 
- | [es_AR]({{< ref "/f34/language/es_AR.md" >}}) | 19 | 308 | 6.2 | /mnt/stockage/packages/f34/mate-menu/po/es_AR.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 17 | 308 | 5.5 | /mnt/stockage/packages/f34/mate-menu/po/rw.po | 
- | [es_PR]({{< ref "/f34/language/es_PR.md" >}}) | 16 | 308 | 5.2 | /mnt/stockage/packages/f34/mate-menu/po/es_PR.po | 
- | [nso]({{< ref "/f34/language/nso.md" >}}) | 16 | 308 | 5.2 | /mnt/stockage/packages/f34/mate-menu/po/nso.po | 
- | [zu]({{< ref "/f34/language/zu.md" >}}) | 16 | 308 | 5.2 | /mnt/stockage/packages/f34/mate-menu/po/zu.po | 
- | [ha]({{< ref "/f34/language/ha.md" >}}) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/ha.po | 
- | [ig]({{< ref "/f34/language/ig.md" >}}) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/ig.po | 
- | [tk]({{< ref "/f34/language/tk.md" >}}) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/tk.po | 
- | [yo]({{< ref "/f34/language/yo.md" >}}) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/yo.po | 
- | [jv]({{< ref "/f34/language/jv.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/jv.po | 
- | [kab]({{< ref "/f34/language/kab.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/kab.po | 
- | [la]({{< ref "/f34/language/la.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/la.po | 
- | [li]({{< ref "/f34/language/li.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/li.po | 
- | [ts]({{< ref "/f34/language/ts.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/ts.po | 
- | [fil]({{< ref "/f34/language/fil.md" >}}) | 12 | 308 | 3.9 | /mnt/stockage/packages/f34/mate-menu/po/fil.po | 
- | [pms]({{< ref "/f34/language/pms.md" >}}) | 12 | 308 | 3.9 | /mnt/stockage/packages/f34/mate-menu/po/pms.po | 
- | [mi]({{< ref "/f34/language/mi.md" >}}) | 11 | 308 | 3.6 | /mnt/stockage/packages/f34/mate-menu/po/mi.po | 
- | [fr_CA]({{< ref "/f34/language/fr_CA.md" >}}) | 10 | 308 | 3.2 | /mnt/stockage/packages/f34/mate-menu/po/fr_CA.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 7 | 308 | 2.3 | /mnt/stockage/packages/f34/mate-menu/po/ia.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 7 | 308 | 2.3 | /mnt/stockage/packages/f34/mate-menu/po/km.po | 
- | [csb]({{< ref "/f34/language/csb.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/csb.po | 
- | [fo]({{< ref "/f34/language/fo.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/fo.po | 
- | [lb]({{< ref "/f34/language/lb.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/lb.po | 
- | [lo]({{< ref "/f34/language/lo.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/lo.po | 
- | [om]({{< ref "/f34/language/om.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/om.po | 
- | [so]({{< ref "/f34/language/so.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/so.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/tg.po | 
- | [tl]({{< ref "/f34/language/tl.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/tl.po | 
- | [ckb]({{< ref "/f34/language/ckb.md" >}}) | 5 | 308 | 1.6 | /mnt/stockage/packages/f34/mate-menu/po/ckb.po | 
- | [es_VE]({{< ref "/f34/language/es_VE.md" >}}) | 5 | 308 | 1.6 | /mnt/stockage/packages/f34/mate-menu/po/es_VE.po | 
- | [yi]({{< ref "/f34/language/yi.md" >}}) | 5 | 308 | 1.6 | /mnt/stockage/packages/f34/mate-menu/po/yi.po | 
- | [an]({{< ref "/f34/language/an.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/an.po | 
- | [es_CR]({{< ref "/f34/language/es_CR.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_CR.po | 
- | [es_DO]({{< ref "/f34/language/es_DO.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_DO.po | 
- | [es_EC]({{< ref "/f34/language/es_EC.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_EC.po | 
- | [es_NI]({{< ref "/f34/language/es_NI.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_NI.po | 
- | [es_PA]({{< ref "/f34/language/es_PA.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_PA.po | 
- | [es_PE]({{< ref "/f34/language/es_PE.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_PE.po | 
- | [es_SV]({{< ref "/f34/language/es_SV.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_SV.po | 
- | [es_UY]({{< ref "/f34/language/es_UY.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_UY.po | 
- | [sc]({{< ref "/f34/language/sc.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f34/mate-menu/po/sc.po | 
- | [tt]({{< ref "/f34/language/tt.md" >}}) | 2 | 308 | 0.6 | /mnt/stockage/packages/f34/mate-menu/po/tt.po | 
- | [cv]({{< ref "/f34/language/cv.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/cv.po | 
- | [ks]({{< ref "/f34/language/ks.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/ks.po | 
- | [my]({{< ref "/f34/language/my.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/my.po | 
- | [nqo]({{< ref "/f34/language/nqo.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/nqo.po | 
- | [sw]({{< ref "/f34/language/sw.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/sw.po | 
- | [de_CH]({{< ref "/f34/language/de_CH.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/de_CH.po | 
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/en_US.po | 
- | [es_419]({{< ref "/f34/language/es_419.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/es_419.po | 
- | [es_US]({{< ref "/f34/language/es_US.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/es_US.po | 
- | [gug]({{< ref "/f34/language/gug.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/gug_PY.po | 
- | [nah]({{< ref "/f34/language/nah.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/nah.po | 
- | [sco]({{< ref "/f34/language/sco.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/sco.po | 
- | [ur_PK]({{< ref "/f34/language/ur_PK.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/ur_PK.po | 
+ | [ca](/f34/language/ca) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/ca.po | 
+ | [da](/f34/language/da) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/da.po | 
+ | [en_GB](/f34/language/en_GB) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/en_GB.po | 
+ | [fr](/f34/language/fr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/fr.po | 
+ | [gl](/f34/language/gl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/gl.po | 
+ | [it](/f34/language/it) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/it.po | 
+ | [lt](/f34/language/lt) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/lt.po | 
+ | [ms](/f34/language/ms) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/ms.po | 
+ | [nb_NO](/f34/language/nb_NO) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/nb.po | 
+ | [nds](/f34/language/nds) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/nds.po | 
+ | [nl](/f34/language/nl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/nl.po | 
+ | [sl](/f34/language/sl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/sl.po | 
+ | [uk](/f34/language/uk) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/uk.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 308 | 308 | 100.0 | /mnt/stockage/packages/f34/mate-menu/po/zh_TW.po | 
+ | [am](/f34/language/am) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/am.po | 
+ | [ast](/f34/language/ast) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ast.po | 
+ | [bg](/f34/language/bg) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/bg.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ca@valencia.po | 
+ | [cs](/f34/language/cs) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/cs.po | 
+ | [de](/f34/language/de) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/de.po | 
+ | [el](/f34/language/el) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/el.po | 
+ | [eu](/f34/language/eu) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/eu.po | 
+ | [fi](/f34/language/fi) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/fi.po | 
+ | [he](/f34/language/he) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/he.po | 
+ | [hr](/f34/language/hr) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/hr.po | 
+ | [hu](/f34/language/hu) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/hu.po | 
+ | [id](/f34/language/id) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/id.po | 
+ | [ja](/f34/language/ja) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ja.po | 
+ | [ko](/f34/language/ko) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ko.po | 
+ | [pl](/f34/language/pl) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/pl.po | 
+ | [pt](/f34/language/pt) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/pt_BR.po | 
+ | [ro](/f34/language/ro) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ro.po | 
+ | [ru](/f34/language/ru) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/ru.po | 
+ | [sk](/f34/language/sk) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/sk.po | 
+ | [sr](/f34/language/sr) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/sr.po | 
+ | [sv](/f34/language/sv) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/sv.po | 
+ | [tr](/f34/language/tr) | 301 | 308 | 97.7 | /mnt/stockage/packages/f34/mate-menu/po/tr.po | 
+ | [ie](/f34/language/ie) | 297 | 308 | 96.4 | /mnt/stockage/packages/f34/mate-menu/po/ie.po | 
+ | [hy](/f34/language/hy) | 294 | 308 | 95.5 | /mnt/stockage/packages/f34/mate-menu/po/hy.po | 
+ | [kk](/f34/language/kk) | 286 | 308 | 92.9 | /mnt/stockage/packages/f34/mate-menu/po/kk.po | 
+ | [en](/f34/language/en) | 285 | 308 | 92.5 | /mnt/stockage/packages/f34/mate-menu/po/en.po | 
+ | [ar](/f34/language/ar) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/ar.po | 
+ | [be](/f34/language/be) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/be.po | 
+ | [en_AU](/f34/language/en_AU) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/en_AU.po | 
+ | [th](/f34/language/th) | 283 | 308 | 91.9 | /mnt/stockage/packages/f34/mate-menu/po/th.po | 
+ | [is](/f34/language/is) | 282 | 308 | 91.6 | /mnt/stockage/packages/f34/mate-menu/po/is.po | 
+ | [br](/f34/language/br) | 279 | 308 | 90.6 | /mnt/stockage/packages/f34/mate-menu/po/br.po | 
+ | [uz](/f34/language/uz) | 252 | 308 | 81.8 | /mnt/stockage/packages/f34/mate-menu/po/uz.po | 
+ | [gv](/f34/language/gv) | 229 | 308 | 74.4 | /mnt/stockage/packages/f34/mate-menu/po/gv.po | 
+ | [et](/f34/language/et) | 226 | 308 | 73.4 | /mnt/stockage/packages/f34/mate-menu/po/et.po | 
+ | [bs](/f34/language/bs) | 203 | 308 | 65.9 | /mnt/stockage/packages/f34/mate-menu/po/bs.po | 
+ | [es](/f34/language/es) | 314 | 616 | 51.0 | /mnt/stockage/packages/f34/mate-menu/po/es_ES.po/mnt/stockage/packages/f34/mate-menu/po/es.po | 
+ | [oc](/f34/language/oc) | 157 | 308 | 51.0 | /mnt/stockage/packages/f34/mate-menu/po/oc.po | 
+ | [cy](/f34/language/cy) | 144 | 308 | 46.8 | /mnt/stockage/packages/f34/mate-menu/po/cy.po | 
+ | [kn](/f34/language/kn) | 127 | 308 | 41.2 | /mnt/stockage/packages/f34/mate-menu/po/kn.po | 
+ | [kmr](/f34/language/kmr) | 125 | 308 | 40.6 | /mnt/stockage/packages/f34/mate-menu/po/ku_IQ.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 363 | 924 | 39.3 | /mnt/stockage/packages/f34/mate-menu/po/zh_CN.po/mnt/stockage/packages/f34/mate-menu/po/zh-Hans.po/mnt/stockage/packages/f34/mate-menu/po/cmn.po | 
+ | [frp](/f34/language/frp) | 109 | 308 | 35.4 | /mnt/stockage/packages/f34/mate-menu/po/frp.po | 
+ | [zh_Hant_HK](/f34/language/zh_Hant_HK) | 102 | 308 | 33.1 | /mnt/stockage/packages/f34/mate-menu/po/zh_HK.po | 
+ | [sq](/f34/language/sq) | 94 | 308 | 30.5 | /mnt/stockage/packages/f34/mate-menu/po/sq.po | 
+ | [eo](/f34/language/eo) | 89 | 308 | 28.9 | /mnt/stockage/packages/f34/mate-menu/po/eo.po | 
+ | [fa](/f34/language/fa) | 86 | 308 | 27.9 | /mnt/stockage/packages/f34/mate-menu/po/fa.po | 
+ | [gu](/f34/language/gu) | 81 | 308 | 26.3 | /mnt/stockage/packages/f34/mate-menu/po/gu.po | 
+ | [vi](/f34/language/vi) | 71 | 308 | 23.1 | /mnt/stockage/packages/f34/mate-menu/po/vi.po | 
+ | [bn](/f34/language/bn) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/bn.po | 
+ | [lv](/f34/language/lv) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/lv.po | 
+ | [mr](/f34/language/mr) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/mr.po | 
+ | [pa](/f34/language/pa) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/pa.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/sr@latin.po | 
+ | [ta](/f34/language/ta) | 64 | 308 | 20.8 | /mnt/stockage/packages/f34/mate-menu/po/ta.po | 
+ | [ga](/f34/language/ga) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/ga.po | 
+ | [hi](/f34/language/hi) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/hi.po | 
+ | [ml](/f34/language/ml) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/ml.po | 
+ | [nn](/f34/language/nn) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/nn.po | 
+ | [te](/f34/language/te) | 63 | 308 | 20.5 | /mnt/stockage/packages/f34/mate-menu/po/te.po | 
+ | [as](/f34/language/as) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/as.po | 
+ | [bn_IN](/f34/language/bn_IN) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/bn_IN.po | 
+ | [mk](/f34/language/mk) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/mk.po | 
+ | [or](/f34/language/or) | 61 | 308 | 19.8 | /mnt/stockage/packages/f34/mate-menu/po/or.po | 
+ | [ne](/f34/language/ne) | 60 | 308 | 19.5 | /mnt/stockage/packages/f34/mate-menu/po/ne.po | 
+ | [mai](/f34/language/mai) | 59 | 308 | 19.2 | /mnt/stockage/packages/f34/mate-menu/po/mai.po | 
+ | [ug](/f34/language/ug) | 59 | 308 | 19.2 | /mnt/stockage/packages/f34/mate-menu/po/ug.po | 
+ | [ur](/f34/language/ur) | 59 | 308 | 19.2 | /mnt/stockage/packages/f34/mate-menu/po/ur.po | 
+ | [dz](/f34/language/dz) | 57 | 308 | 18.5 | /mnt/stockage/packages/f34/mate-menu/po/dz.po | 
+ | [ka](/f34/language/ka) | 54 | 308 | 17.5 | /mnt/stockage/packages/f34/mate-menu/po/ka.po | 
+ | [en_CA](/f34/language/en_CA) | 52 | 308 | 16.9 | /mnt/stockage/packages/f34/mate-menu/po/en_CA.po | 
+ | [crh](/f34/language/crh) | 50 | 308 | 16.2 | /mnt/stockage/packages/f34/mate-menu/po/crh.po | 
+ | [es_CO](/f34/language/es_CO) | 50 | 308 | 16.2 | /mnt/stockage/packages/f34/mate-menu/po/es_CO.po | 
+ | [af](/f34/language/af) | 48 | 308 | 15.6 | /mnt/stockage/packages/f34/mate-menu/po/af.po | 
+ | [fur](/f34/language/fur) | 47 | 308 | 15.3 | /mnt/stockage/packages/f34/mate-menu/po/fur.po | 
+ | [ky](/f34/language/ky) | 42 | 308 | 13.6 | /mnt/stockage/packages/f34/mate-menu/po/ky.po | 
+ | [ku](/f34/language/ku) | 39 | 308 | 12.7 | /mnt/stockage/packages/f34/mate-menu/po/ku.po | 
+ | [si](/f34/language/si) | 39 | 308 | 12.7 | /mnt/stockage/packages/f34/mate-menu/po/si.po | 
+ | [ps](/f34/language/ps) | 37 | 308 | 12.0 | /mnt/stockage/packages/f34/mate-menu/po/ps.po | 
+ | [tpi](/f34/language/tpi) | 34 | 308 | 11.0 | /mnt/stockage/packages/f34/mate-menu/po/tpi.po | 
+ | [mn](/f34/language/mn) | 33 | 308 | 10.7 | /mnt/stockage/packages/f34/mate-menu/po/mn.po | 
+ | [mg](/f34/language/mg) | 32 | 308 | 10.4 | /mnt/stockage/packages/f34/mate-menu/po/mg.po | 
+ | [es_CL](/f34/language/es_CL) | 30 | 308 | 9.7 | /mnt/stockage/packages/f34/mate-menu/po/es_CL.po | 
+ | [wa](/f34/language/wa) | 26 | 308 | 8.4 | /mnt/stockage/packages/f34/mate-menu/po/wa.po | 
+ | [gd](/f34/language/gd) | 25 | 308 | 8.1 | /mnt/stockage/packages/f34/mate-menu/po/gd.po | 
+ | [xh](/f34/language/xh) | 25 | 308 | 8.1 | /mnt/stockage/packages/f34/mate-menu/po/xh.po | 
+ | [az](/f34/language/az) | 23 | 308 | 7.5 | /mnt/stockage/packages/f34/mate-menu/po/az.po | 
+ | [fy](/f34/language/fy) | 23 | 308 | 7.5 | /mnt/stockage/packages/f34/mate-menu/po/fy.po | 
+ | [es_MX](/f34/language/es_MX) | 21 | 308 | 6.8 | /mnt/stockage/packages/f34/mate-menu/po/es_MX.po | 
+ | [es_AR](/f34/language/es_AR) | 19 | 308 | 6.2 | /mnt/stockage/packages/f34/mate-menu/po/es_AR.po | 
+ | [rw](/f34/language/rw) | 17 | 308 | 5.5 | /mnt/stockage/packages/f34/mate-menu/po/rw.po | 
+ | [es_PR](/f34/language/es_PR) | 16 | 308 | 5.2 | /mnt/stockage/packages/f34/mate-menu/po/es_PR.po | 
+ | [nso](/f34/language/nso) | 16 | 308 | 5.2 | /mnt/stockage/packages/f34/mate-menu/po/nso.po | 
+ | [zu](/f34/language/zu) | 16 | 308 | 5.2 | /mnt/stockage/packages/f34/mate-menu/po/zu.po | 
+ | [ha](/f34/language/ha) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/ha.po | 
+ | [ig](/f34/language/ig) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/ig.po | 
+ | [tk](/f34/language/tk) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/tk.po | 
+ | [yo](/f34/language/yo) | 15 | 308 | 4.9 | /mnt/stockage/packages/f34/mate-menu/po/yo.po | 
+ | [jv](/f34/language/jv) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/jv.po | 
+ | [kab](/f34/language/kab) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/kab.po | 
+ | [la](/f34/language/la) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/la.po | 
+ | [li](/f34/language/li) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/li.po | 
+ | [ts](/f34/language/ts) | 13 | 308 | 4.2 | /mnt/stockage/packages/f34/mate-menu/po/ts.po | 
+ | [fil](/f34/language/fil) | 12 | 308 | 3.9 | /mnt/stockage/packages/f34/mate-menu/po/fil.po | 
+ | [pms](/f34/language/pms) | 12 | 308 | 3.9 | /mnt/stockage/packages/f34/mate-menu/po/pms.po | 
+ | [mi](/f34/language/mi) | 11 | 308 | 3.6 | /mnt/stockage/packages/f34/mate-menu/po/mi.po | 
+ | [fr_CA](/f34/language/fr_CA) | 10 | 308 | 3.2 | /mnt/stockage/packages/f34/mate-menu/po/fr_CA.po | 
+ | [ia](/f34/language/ia) | 7 | 308 | 2.3 | /mnt/stockage/packages/f34/mate-menu/po/ia.po | 
+ | [km](/f34/language/km) | 7 | 308 | 2.3 | /mnt/stockage/packages/f34/mate-menu/po/km.po | 
+ | [csb](/f34/language/csb) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/csb.po | 
+ | [fo](/f34/language/fo) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/fo.po | 
+ | [lb](/f34/language/lb) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/lb.po | 
+ | [lo](/f34/language/lo) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/lo.po | 
+ | [om](/f34/language/om) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/om.po | 
+ | [so](/f34/language/so) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/so.po | 
+ | [tg](/f34/language/tg) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/tg.po | 
+ | [tl](/f34/language/tl) | 6 | 308 | 1.9 | /mnt/stockage/packages/f34/mate-menu/po/tl.po | 
+ | [ckb](/f34/language/ckb) | 5 | 308 | 1.6 | /mnt/stockage/packages/f34/mate-menu/po/ckb.po | 
+ | [es_VE](/f34/language/es_VE) | 5 | 308 | 1.6 | /mnt/stockage/packages/f34/mate-menu/po/es_VE.po | 
+ | [yi](/f34/language/yi) | 5 | 308 | 1.6 | /mnt/stockage/packages/f34/mate-menu/po/yi.po | 
+ | [an](/f34/language/an) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/an.po | 
+ | [es_CR](/f34/language/es_CR) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_CR.po | 
+ | [es_DO](/f34/language/es_DO) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_DO.po | 
+ | [es_EC](/f34/language/es_EC) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_EC.po | 
+ | [es_NI](/f34/language/es_NI) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_NI.po | 
+ | [es_PA](/f34/language/es_PA) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_PA.po | 
+ | [es_PE](/f34/language/es_PE) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_PE.po | 
+ | [es_SV](/f34/language/es_SV) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_SV.po | 
+ | [es_UY](/f34/language/es_UY) | 4 | 308 | 1.3 | /mnt/stockage/packages/f34/mate-menu/po/es_UY.po | 
+ | [sc](/f34/language/sc) | 3 | 308 | 1.0 | /mnt/stockage/packages/f34/mate-menu/po/sc.po | 
+ | [tt](/f34/language/tt) | 2 | 308 | 0.6 | /mnt/stockage/packages/f34/mate-menu/po/tt.po | 
+ | [cv](/f34/language/cv) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/cv.po | 
+ | [ks](/f34/language/ks) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/ks.po | 
+ | [my](/f34/language/my) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/my.po | 
+ | [nqo](/f34/language/nqo) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/nqo.po | 
+ | [sw](/f34/language/sw) | 1 | 308 | 0.3 | /mnt/stockage/packages/f34/mate-menu/po/sw.po | 
+ | [de_CH](/f34/language/de_CH) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/de_CH.po | 
+ | [en_US](/f34/language/en_US) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/en_US.po | 
+ | [es_419](/f34/language/es_419) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/es_419.po | 
+ | [es_US](/f34/language/es_US) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/es_US.po | 
+ | [gug](/f34/language/gug) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/gug_PY.po | 
+ | [nah](/f34/language/nah) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/nah.po | 
+ | [sco](/f34/language/sco) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/sco.po | 
+ | [ur_PK](/f34/language/ur_PK) | 0 | 308 | 0.0 | /mnt/stockage/packages/f34/mate-menu/po/ur_PK.po | 
 {.sortable}
 
 

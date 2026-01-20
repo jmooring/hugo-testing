@@ -43,7 +43,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 602 | 12020 | 5.0 | Kazakh | 
+ | [iso-codes](/f7/package/iso-codes) | 602 | 12020 | 5.0 | Kazakh | 
 {.sortable}
 
 

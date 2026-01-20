@@ -18,42 +18,42 @@ The package libkipi (version 0.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/cs/libkipi.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/da/libkipi.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/de/libkipi.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/el/libkipi.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/en_GB/libkipi.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/sr@Latn/libkipi.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/es/libkipi.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/et/libkipi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/fr/libkipi.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/gl/libkipi.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/it/libkipi.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/ja/libkipi.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/nb/libkipi.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/nl/libkipi.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/pa/libkipi.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/pl/libkipi.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/pt/libkipi.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/sr/libkipi.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/tr/libkipi.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/zh_CN/libkipi.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 76 | 83 | 91.6 | /mnt/stockage/packages/f9/libkipi/po/pt_BR/libkipi.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 75 | 83 | 90.4 | /mnt/stockage/packages/f9/libkipi/po/uk/libkipi.po | 
- | [mt]({{< ref "/f9/language/mt.md" >}}) | 69 | 83 | 83.1 | /mnt/stockage/packages/f9/libkipi/po/mt/libkipi.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 69 | 83 | 83.1 | /mnt/stockage/packages/f9/libkipi/po/ta/libkipi.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 68 | 83 | 81.9 | /mnt/stockage/packages/f9/libkipi/po/fi/libkipi.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 61 | 83 | 73.5 | /mnt/stockage/packages/f9/libkipi/po/sl/libkipi.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 57 | 83 | 68.7 | /mnt/stockage/packages/f9/libkipi/po/ru/libkipi.po | 
- | [br]({{< ref "/f9/language/br.md" >}}) | 49 | 83 | 59.0 | /mnt/stockage/packages/f9/libkipi/po/br/libkipi.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 35 | 83 | 42.2 | /mnt/stockage/packages/f9/libkipi/po/ga/libkipi.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 20 | 83 | 24.1 | /mnt/stockage/packages/f9/libkipi/po/cy/libkipi.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 14 | 83 | 16.9 | /mnt/stockage/packages/f9/libkipi/po/ca/libkipi.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 13 | 83 | 15.7 | /mnt/stockage/packages/f9/libkipi/po/ar/libkipi.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 12 | 83 | 14.5 | /mnt/stockage/packages/f9/libkipi/po/rw/libkipi.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 10 | 83 | 12.0 | /mnt/stockage/packages/f9/libkipi/po/lt/libkipi.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f9/libkipi/po/is/libkipi.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f9/libkipi/po/sk/libkipi.po | 
+ | [cs](/f9/language/cs) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/cs/libkipi.po | 
+ | [da](/f9/language/da) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/da/libkipi.po | 
+ | [de](/f9/language/de) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/de/libkipi.po | 
+ | [el](/f9/language/el) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/el/libkipi.po | 
+ | [en_GB](/f9/language/en_GB) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/en_GB/libkipi.po | 
+ | [error](/f9/language/error) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/sr@Latn/libkipi.po | 
+ | [es](/f9/language/es) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/es/libkipi.po | 
+ | [et](/f9/language/et) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/et/libkipi.po | 
+ | [fr](/f9/language/fr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/fr/libkipi.po | 
+ | [gl](/f9/language/gl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/gl/libkipi.po | 
+ | [it](/f9/language/it) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/it/libkipi.po | 
+ | [ja](/f9/language/ja) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/ja/libkipi.po | 
+ | [nb_NO](/f9/language/nb_NO) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/nb/libkipi.po | 
+ | [nl](/f9/language/nl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/nl/libkipi.po | 
+ | [pa](/f9/language/pa) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/pa/libkipi.po | 
+ | [pl](/f9/language/pl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/pl/libkipi.po | 
+ | [pt](/f9/language/pt) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/pt/libkipi.po | 
+ | [sr](/f9/language/sr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/sr/libkipi.po | 
+ | [tr](/f9/language/tr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/tr/libkipi.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 83 | 83 | 100.0 | /mnt/stockage/packages/f9/libkipi/po/zh_CN/libkipi.po | 
+ | [pt_BR](/f9/language/pt_BR) | 76 | 83 | 91.6 | /mnt/stockage/packages/f9/libkipi/po/pt_BR/libkipi.po | 
+ | [uk](/f9/language/uk) | 75 | 83 | 90.4 | /mnt/stockage/packages/f9/libkipi/po/uk/libkipi.po | 
+ | [mt](/f9/language/mt) | 69 | 83 | 83.1 | /mnt/stockage/packages/f9/libkipi/po/mt/libkipi.po | 
+ | [ta](/f9/language/ta) | 69 | 83 | 83.1 | /mnt/stockage/packages/f9/libkipi/po/ta/libkipi.po | 
+ | [fi](/f9/language/fi) | 68 | 83 | 81.9 | /mnt/stockage/packages/f9/libkipi/po/fi/libkipi.po | 
+ | [sl](/f9/language/sl) | 61 | 83 | 73.5 | /mnt/stockage/packages/f9/libkipi/po/sl/libkipi.po | 
+ | [ru](/f9/language/ru) | 57 | 83 | 68.7 | /mnt/stockage/packages/f9/libkipi/po/ru/libkipi.po | 
+ | [br](/f9/language/br) | 49 | 83 | 59.0 | /mnt/stockage/packages/f9/libkipi/po/br/libkipi.po | 
+ | [ga](/f9/language/ga) | 35 | 83 | 42.2 | /mnt/stockage/packages/f9/libkipi/po/ga/libkipi.po | 
+ | [cy](/f9/language/cy) | 20 | 83 | 24.1 | /mnt/stockage/packages/f9/libkipi/po/cy/libkipi.po | 
+ | [ca](/f9/language/ca) | 14 | 83 | 16.9 | /mnt/stockage/packages/f9/libkipi/po/ca/libkipi.po | 
+ | [ar](/f9/language/ar) | 13 | 83 | 15.7 | /mnt/stockage/packages/f9/libkipi/po/ar/libkipi.po | 
+ | [rw](/f9/language/rw) | 12 | 83 | 14.5 | /mnt/stockage/packages/f9/libkipi/po/rw/libkipi.po | 
+ | [lt](/f9/language/lt) | 10 | 83 | 12.0 | /mnt/stockage/packages/f9/libkipi/po/lt/libkipi.po | 
+ | [is](/f9/language/is) | 0 | 83 | 0.0 | /mnt/stockage/packages/f9/libkipi/po/is/libkipi.po | 
+ | [sk](/f9/language/sk) | 0 | 83 | 0.0 | /mnt/stockage/packages/f9/libkipi/po/sk/libkipi.po | 
 {.sortable}
 
 

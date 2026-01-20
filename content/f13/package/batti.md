@@ -18,7 +18,7 @@ The package batti (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 44 | 46 | 95.7 | /mnt/stockage/packages/f13/batti/po/de.po | 
+ | [de](/f13/language/de) | 44 | 46 | 95.7 | /mnt/stockage/packages/f13/batti/po/de.po | 
 {.sortable}
 
 

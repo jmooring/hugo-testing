@@ -18,108 +18,108 @@ The package asunder (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/ca.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/es.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/ie.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/ka.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/pt_BR.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/sq.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/tr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/zh_CN.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 490 | 493 | 99.4 | /mnt/stockage/packages/f43/asunder/po/sv.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 488 | 493 | 99.0 | /mnt/stockage/packages/f43/asunder/po/de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 470 | 493 | 95.3 | /mnt/stockage/packages/f43/asunder/po/fr.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 463 | 493 | 93.9 | /mnt/stockage/packages/f43/asunder/po/el.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/fi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/hr.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/nb.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/pl.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/bn_IN.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/da.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/hu.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/ja.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/nn.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/ru.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/bg.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/bs_BA.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/he.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/sk.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/ar.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/eu.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/sr.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/sr@latin.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 405 | 493 | 82.2 | /mnt/stockage/packages/f43/asunder/po/sl.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 405 | 493 | 82.2 | /mnt/stockage/packages/f43/asunder/po/zh_TW.po | 
- | [be_Latn]({{< ref "/f43/language/be_Latn.md" >}}) | 338 | 493 | 68.6 | /mnt/stockage/packages/f43/asunder/po/be@latin.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 332 | 493 | 67.3 | /mnt/stockage/packages/f43/asunder/po/lv.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 434 | 986 | 44.0 | /mnt/stockage/packages/f43/asunder/po/ur.po/mnt/stockage/packages/f43/asunder/po/ur_PK.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 22 | 493 | 4.5 | /mnt/stockage/packages/f43/asunder/po/ro.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 20 | 493 | 4.1 | /mnt/stockage/packages/f43/asunder/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 19 | 493 | 3.9 | /mnt/stockage/packages/f43/asunder/po/lt.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 19 | 493 | 3.9 | /mnt/stockage/packages/f43/asunder/po/uk.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 18 | 493 | 3.7 | /mnt/stockage/packages/f43/asunder/po/id.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 18 | 493 | 3.7 | /mnt/stockage/packages/f43/asunder/po/vi.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/be.po | 
- | [dz]({{< ref "/f43/language/dz.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/dz.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/fa.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/gu.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/hi.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/kk.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/ne.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/pa.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/ta.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/th.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/as.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/ga.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/te.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/ug.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 15 | 493 | 3.0 | /mnt/stockage/packages/f43/asunder/po/af.po | 
- | [an]({{< ref "/f43/language/an.md" >}}) | 15 | 493 | 3.0 | /mnt/stockage/packages/f43/asunder/po/an.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/bn.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/br.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/hy.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/mk.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/mr.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/ms.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/oc.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/or.po | 
- | [ps]({{< ref "/f43/language/ps.md" >}}) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/ps.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/is.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/km.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/ml.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/si.po | 
- | [zu]({{< ref "/f43/language/zu.md" >}}) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/zu.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/cy.po | 
- | [ku]({{< ref "/f43/language/ku.md" >}}) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/ku.po | 
- | [mn]({{< ref "/f43/language/mn.md" >}}) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/mn.po | 
- | [xh]({{< ref "/f43/language/xh.md" >}}) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/xh.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 11 | 493 | 2.2 | /mnt/stockage/packages/f43/asunder/po/az.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 11 | 493 | 2.2 | /mnt/stockage/packages/f43/asunder/po/wa.po | 
- | [am]({{< ref "/f43/language/am.md" >}}) | 10 | 493 | 2.0 | /mnt/stockage/packages/f43/asunder/po/am.po | 
- | [mg]({{< ref "/f43/language/mg.md" >}}) | 10 | 493 | 2.0 | /mnt/stockage/packages/f43/asunder/po/mg.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 10 | 493 | 2.0 | /mnt/stockage/packages/f43/asunder/po/rw.po | 
- | [my]({{< ref "/f43/language/my.md" >}}) | 9 | 493 | 1.8 | /mnt/stockage/packages/f43/asunder/po/my.po | 
- | [ff]({{< ref "/f43/language/ff.md" >}}) | 8 | 493 | 1.6 | /mnt/stockage/packages/f43/asunder/po/ff.po | 
- | [fo]({{< ref "/f43/language/fo.md" >}}) | 8 | 493 | 1.6 | /mnt/stockage/packages/f43/asunder/po/fo.po | 
- | [lg]({{< ref "/f43/language/lg.md" >}}) | 8 | 493 | 1.6 | /mnt/stockage/packages/f43/asunder/po/lg.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 15 | 986 | 1.5 | /mnt/stockage/packages/f43/asunder/po/uz@cyrillic.po/mnt/stockage/packages/f43/asunder/po/uz.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 7 | 493 | 1.4 | /mnt/stockage/packages/f43/asunder/po/fy.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 7 | 493 | 1.4 | /mnt/stockage/packages/f43/asunder/po/ia.po | 
- | [ky]({{< ref "/f43/language/ky.md" >}}) | 7 | 493 | 1.4 | /mnt/stockage/packages/f43/asunder/po/ky.po | 
- | [ht]({{< ref "/f43/language/ht.md" >}}) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/ht.po | 
- | [la]({{< ref "/f43/language/la.md" >}}) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/la.po | 
- | [tk]({{< ref "/f43/language/tk.md" >}}) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/tk.po | 
- | [tt]({{< ref "/f43/language/tt.md" >}}) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/tt.po | 
- | [lb]({{< ref "/f43/language/lb.md" >}}) | 5 | 493 | 1.0 | /mnt/stockage/packages/f43/asunder/po/lb.po | 
- | [tl]({{< ref "/f43/language/tl.md" >}}) | 4 | 493 | 0.8 | /mnt/stockage/packages/f43/asunder/po/tl.po | 
- | [wo]({{< ref "/f43/language/wo.md" >}}) | 4 | 493 | 0.8 | /mnt/stockage/packages/f43/asunder/po/wo.po | 
- | [yi]({{< ref "/f43/language/yi.md" >}}) | 4 | 493 | 0.8 | /mnt/stockage/packages/f43/asunder/po/yi.po | 
+ | [ca](/f43/language/ca) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/ca.po | 
+ | [eo](/f43/language/eo) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/eo.po | 
+ | [es](/f43/language/es) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/es.po | 
+ | [ie](/f43/language/ie) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/ie.po | 
+ | [it](/f43/language/it) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/it.po | 
+ | [ka](/f43/language/ka) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/ka.po | 
+ | [nl](/f43/language/nl) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/nl.po | 
+ | [pt](/f43/language/pt) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/pt_BR.po | 
+ | [sq](/f43/language/sq) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/sq.po | 
+ | [tr](/f43/language/tr) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/tr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 492 | 493 | 99.8 | /mnt/stockage/packages/f43/asunder/po/zh_CN.po | 
+ | [sv](/f43/language/sv) | 490 | 493 | 99.4 | /mnt/stockage/packages/f43/asunder/po/sv.po | 
+ | [de](/f43/language/de) | 488 | 493 | 99.0 | /mnt/stockage/packages/f43/asunder/po/de.po | 
+ | [fr](/f43/language/fr) | 470 | 493 | 95.3 | /mnt/stockage/packages/f43/asunder/po/fr.po | 
+ | [el](/f43/language/el) | 463 | 493 | 93.9 | /mnt/stockage/packages/f43/asunder/po/el.po | 
+ | [fi](/f43/language/fi) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/fi.po | 
+ | [hr](/f43/language/hr) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/hr.po | 
+ | [nb_NO](/f43/language/nb_NO) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/nb.po | 
+ | [pl](/f43/language/pl) | 440 | 493 | 89.2 | /mnt/stockage/packages/f43/asunder/po/pl.po | 
+ | [bn_IN](/f43/language/bn_IN) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/bn_IN.po | 
+ | [cs](/f43/language/cs) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/cs.po | 
+ | [da](/f43/language/da) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/da.po | 
+ | [hu](/f43/language/hu) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/hu.po | 
+ | [ja](/f43/language/ja) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/ja.po | 
+ | [nn](/f43/language/nn) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/nn.po | 
+ | [ru](/f43/language/ru) | 431 | 493 | 87.4 | /mnt/stockage/packages/f43/asunder/po/ru.po | 
+ | [bg](/f43/language/bg) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/bg.po | 
+ | [bs](/f43/language/bs) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/bs_BA.po | 
+ | [gl](/f43/language/gl) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/gl.po | 
+ | [he](/f43/language/he) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/he.po | 
+ | [sk](/f43/language/sk) | 429 | 493 | 87.0 | /mnt/stockage/packages/f43/asunder/po/sk.po | 
+ | [ar](/f43/language/ar) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/ar.po | 
+ | [eu](/f43/language/eu) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/eu.po | 
+ | [sr](/f43/language/sr) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/sr.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 427 | 493 | 86.6 | /mnt/stockage/packages/f43/asunder/po/sr@latin.po | 
+ | [sl](/f43/language/sl) | 405 | 493 | 82.2 | /mnt/stockage/packages/f43/asunder/po/sl.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 405 | 493 | 82.2 | /mnt/stockage/packages/f43/asunder/po/zh_TW.po | 
+ | [be_Latn](/f43/language/be_Latn) | 338 | 493 | 68.6 | /mnt/stockage/packages/f43/asunder/po/be@latin.po | 
+ | [lv](/f43/language/lv) | 332 | 493 | 67.3 | /mnt/stockage/packages/f43/asunder/po/lv.po | 
+ | [ur](/f43/language/ur) | 434 | 986 | 44.0 | /mnt/stockage/packages/f43/asunder/po/ur.po/mnt/stockage/packages/f43/asunder/po/ur_PK.po | 
+ | [ro](/f43/language/ro) | 22 | 493 | 4.5 | /mnt/stockage/packages/f43/asunder/po/ro.po | 
+ | [ko](/f43/language/ko) | 20 | 493 | 4.1 | /mnt/stockage/packages/f43/asunder/po/ko.po | 
+ | [lt](/f43/language/lt) | 19 | 493 | 3.9 | /mnt/stockage/packages/f43/asunder/po/lt.po | 
+ | [uk](/f43/language/uk) | 19 | 493 | 3.9 | /mnt/stockage/packages/f43/asunder/po/uk.po | 
+ | [id](/f43/language/id) | 18 | 493 | 3.7 | /mnt/stockage/packages/f43/asunder/po/id.po | 
+ | [vi](/f43/language/vi) | 18 | 493 | 3.7 | /mnt/stockage/packages/f43/asunder/po/vi.po | 
+ | [be](/f43/language/be) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/be.po | 
+ | [dz](/f43/language/dz) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/dz.po | 
+ | [fa](/f43/language/fa) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/fa.po | 
+ | [gu](/f43/language/gu) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/gu.po | 
+ | [hi](/f43/language/hi) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/hi.po | 
+ | [kk](/f43/language/kk) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/kk.po | 
+ | [ne](/f43/language/ne) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/ne.po | 
+ | [pa](/f43/language/pa) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/pa.po | 
+ | [ta](/f43/language/ta) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/ta.po | 
+ | [th](/f43/language/th) | 17 | 493 | 3.4 | /mnt/stockage/packages/f43/asunder/po/th.po | 
+ | [as](/f43/language/as) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/as.po | 
+ | [ga](/f43/language/ga) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/ga.po | 
+ | [te](/f43/language/te) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/te.po | 
+ | [ug](/f43/language/ug) | 16 | 493 | 3.2 | /mnt/stockage/packages/f43/asunder/po/ug.po | 
+ | [af](/f43/language/af) | 15 | 493 | 3.0 | /mnt/stockage/packages/f43/asunder/po/af.po | 
+ | [an](/f43/language/an) | 15 | 493 | 3.0 | /mnt/stockage/packages/f43/asunder/po/an.po | 
+ | [bn](/f43/language/bn) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/bn.po | 
+ | [br](/f43/language/br) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/br.po | 
+ | [hy](/f43/language/hy) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/hy.po | 
+ | [mk](/f43/language/mk) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/mk.po | 
+ | [mr](/f43/language/mr) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/mr.po | 
+ | [ms](/f43/language/ms) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/ms.po | 
+ | [oc](/f43/language/oc) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/oc.po | 
+ | [or](/f43/language/or) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/or.po | 
+ | [ps](/f43/language/ps) | 14 | 493 | 2.8 | /mnt/stockage/packages/f43/asunder/po/ps.po | 
+ | [is](/f43/language/is) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/is.po | 
+ | [km](/f43/language/km) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/km.po | 
+ | [ml](/f43/language/ml) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/ml.po | 
+ | [si](/f43/language/si) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/si.po | 
+ | [zu](/f43/language/zu) | 13 | 493 | 2.6 | /mnt/stockage/packages/f43/asunder/po/zu.po | 
+ | [cy](/f43/language/cy) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/cy.po | 
+ | [ku](/f43/language/ku) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/ku.po | 
+ | [mn](/f43/language/mn) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/mn.po | 
+ | [xh](/f43/language/xh) | 12 | 493 | 2.4 | /mnt/stockage/packages/f43/asunder/po/xh.po | 
+ | [az](/f43/language/az) | 11 | 493 | 2.2 | /mnt/stockage/packages/f43/asunder/po/az.po | 
+ | [wa](/f43/language/wa) | 11 | 493 | 2.2 | /mnt/stockage/packages/f43/asunder/po/wa.po | 
+ | [am](/f43/language/am) | 10 | 493 | 2.0 | /mnt/stockage/packages/f43/asunder/po/am.po | 
+ | [mg](/f43/language/mg) | 10 | 493 | 2.0 | /mnt/stockage/packages/f43/asunder/po/mg.po | 
+ | [rw](/f43/language/rw) | 10 | 493 | 2.0 | /mnt/stockage/packages/f43/asunder/po/rw.po | 
+ | [my](/f43/language/my) | 9 | 493 | 1.8 | /mnt/stockage/packages/f43/asunder/po/my.po | 
+ | [ff](/f43/language/ff) | 8 | 493 | 1.6 | /mnt/stockage/packages/f43/asunder/po/ff.po | 
+ | [fo](/f43/language/fo) | 8 | 493 | 1.6 | /mnt/stockage/packages/f43/asunder/po/fo.po | 
+ | [lg](/f43/language/lg) | 8 | 493 | 1.6 | /mnt/stockage/packages/f43/asunder/po/lg.po | 
+ | [uz](/f43/language/uz) | 15 | 986 | 1.5 | /mnt/stockage/packages/f43/asunder/po/uz@cyrillic.po/mnt/stockage/packages/f43/asunder/po/uz.po | 
+ | [fy](/f43/language/fy) | 7 | 493 | 1.4 | /mnt/stockage/packages/f43/asunder/po/fy.po | 
+ | [ia](/f43/language/ia) | 7 | 493 | 1.4 | /mnt/stockage/packages/f43/asunder/po/ia.po | 
+ | [ky](/f43/language/ky) | 7 | 493 | 1.4 | /mnt/stockage/packages/f43/asunder/po/ky.po | 
+ | [ht](/f43/language/ht) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/ht.po | 
+ | [la](/f43/language/la) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/la.po | 
+ | [tk](/f43/language/tk) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/tk.po | 
+ | [tt](/f43/language/tt) | 6 | 493 | 1.2 | /mnt/stockage/packages/f43/asunder/po/tt.po | 
+ | [lb](/f43/language/lb) | 5 | 493 | 1.0 | /mnt/stockage/packages/f43/asunder/po/lb.po | 
+ | [tl](/f43/language/tl) | 4 | 493 | 0.8 | /mnt/stockage/packages/f43/asunder/po/tl.po | 
+ | [wo](/f43/language/wo) | 4 | 493 | 0.8 | /mnt/stockage/packages/f43/asunder/po/wo.po | 
+ | [yi](/f43/language/yi) | 4 | 493 | 0.8 | /mnt/stockage/packages/f43/asunder/po/yi.po | 
 {.sortable}
 
 

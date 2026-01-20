@@ -18,77 +18,77 @@ The package sugar-stopwatch (version 21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f32/language/ach.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ach.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/af.po | 
- | [an]({{< ref "/f32/language/an.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/an.po | 
- | [ayc]({{< ref "/f32/language/ayc.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ayc.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/bn.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/el.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/en.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/en_GB.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/en_US.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pbs.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/es.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fa.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fr.po | 
- | [fy]({{< ref "/f32/language/fy.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fy.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/gl.po | 
- | [gug]({{< ref "/f32/language/gug.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/gug.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hi.po | 
- | [hus]({{< ref "/f32/language/hus.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hus.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ja.po | 
- | [kab]({{< ref "/f32/language/kab.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/kab.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/lt.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mg.po | 
- | [mi]({{< ref "/f32/language/mi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mi.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mn.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mr.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ms.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ru.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/rw.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/si.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sl.po | 
- | [son]({{< ref "/f32/language/son.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/son.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sv.po | 
- | [sw]({{< ref "/f32/language/sw.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sw.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ta.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/th.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/zh_TW.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 4 | 5 | 80.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/am.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 4 | 5 | 80.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hu.po | 
- | [nah]({{< ref "/f32/language/nah.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/nah.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ar.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/bg.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fi.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/km.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ko.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/lv.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ml.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/nb.po | 
- | [qu]({{< ref "/f32/language/qu.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/quz.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/tr.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/vi.po | 
- | [tzm]({{< ref "/f32/language/tzm.md" >}}) | 1 | 5 | 20.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/tzm.po | 
+ | [ach](/f32/language/ach) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ach.po | 
+ | [af](/f32/language/af) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/af.po | 
+ | [an](/f32/language/an) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/an.po | 
+ | [ayc](/f32/language/ayc) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ayc.po | 
+ | [bn](/f32/language/bn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/bn.po | 
+ | [ca](/f32/language/ca) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ca.po | 
+ | [cs](/f32/language/cs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/cs.po | 
+ | [da](/f32/language/da) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/da.po | 
+ | [de](/f32/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/de.po | 
+ | [el](/f32/language/el) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/el.po | 
+ | [en](/f32/language/en) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/en.po | 
+ | [en_GB](/f32/language/en_GB) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/en_GB.po | 
+ | [en_US](/f32/language/en_US) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/en_US.po | 
+ | [error](/f32/language/error) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pbs.po | 
+ | [es](/f32/language/es) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/es.po | 
+ | [fa](/f32/language/fa) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fa.po | 
+ | [fr](/f32/language/fr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fr.po | 
+ | [fy](/f32/language/fy) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fy.po | 
+ | [gl](/f32/language/gl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/gl.po | 
+ | [gug](/f32/language/gug) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/gug.po | 
+ | [hi](/f32/language/hi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hi.po | 
+ | [hus](/f32/language/hus) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hus.po | 
+ | [hy](/f32/language/hy) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hy.po | 
+ | [id](/f32/language/id) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/id.po | 
+ | [it](/f32/language/it) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/it.po | 
+ | [ja](/f32/language/ja) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ja.po | 
+ | [kab](/f32/language/kab) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/kab.po | 
+ | [lt](/f32/language/lt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/lt.po | 
+ | [mg](/f32/language/mg) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mg.po | 
+ | [mi](/f32/language/mi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mi.po | 
+ | [mn](/f32/language/mn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mn.po | 
+ | [mr](/f32/language/mr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/mr.po | 
+ | [ms](/f32/language/ms) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ms.po | 
+ | [ne](/f32/language/ne) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ne.po | 
+ | [nl](/f32/language/nl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/nl.po | 
+ | [pl](/f32/language/pl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pl.po | 
+ | [pt](/f32/language/pt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ru.po | 
+ | [rw](/f32/language/rw) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/rw.po | 
+ | [si](/f32/language/si) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/si.po | 
+ | [sk](/f32/language/sk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sk.po | 
+ | [sl](/f32/language/sl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sl.po | 
+ | [son](/f32/language/son) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/son.po | 
+ | [sq](/f32/language/sq) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sq.po | 
+ | [sr](/f32/language/sr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sr.po | 
+ | [sv](/f32/language/sv) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sv.po | 
+ | [sw](/f32/language/sw) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/sw.po | 
+ | [ta](/f32/language/ta) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ta.po | 
+ | [th](/f32/language/th) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/th.po | 
+ | [uk](/f32/language/uk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 5 | 5 | 100.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/zh_TW.po | 
+ | [am](/f32/language/am) | 4 | 5 | 80.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/am.po | 
+ | [hu](/f32/language/hu) | 4 | 5 | 80.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/hu.po | 
+ | [nah](/f32/language/nah) | 3 | 5 | 60.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/nah.po | 
+ | [ar](/f32/language/ar) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ar.po | 
+ | [be](/f32/language/be) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/be.po | 
+ | [bg](/f32/language/bg) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/bg.po | 
+ | [et](/f32/language/et) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/et.po | 
+ | [eu](/f32/language/eu) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/eu.po | 
+ | [fi](/f32/language/fi) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/fi.po | 
+ | [km](/f32/language/km) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/km.po | 
+ | [ko](/f32/language/ko) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ko.po | 
+ | [lv](/f32/language/lv) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/lv.po | 
+ | [ml](/f32/language/ml) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/ml.po | 
+ | [nb_NO](/f32/language/nb_NO) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/nb.po | 
+ | [qu](/f32/language/qu) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/quz.po | 
+ | [tr](/f32/language/tr) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/tr.po | 
+ | [vi](/f32/language/vi) | 2 | 5 | 40.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/vi.po | 
+ | [tzm](/f32/language/tzm) | 1 | 5 | 20.0 | /mnt/stockage/packages/f32/sugar-stopwatch/po/tzm.po | 
 {.sortable}
 
 

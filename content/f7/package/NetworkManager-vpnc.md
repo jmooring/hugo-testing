@@ -18,20 +18,20 @@ The package NetworkManager-vpnc (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/cs.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/fi.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/pl.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 286 | 295 | 96.9 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/da.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 212 | 295 | 71.9 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/sv.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/zh_TW.po | 
+ | [cs](/f7/language/cs) | 295 | 295 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/cs.po | 
+ | [fi](/f7/language/fi) | 295 | 295 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/fi.po | 
+ | [pl](/f7/language/pl) | 295 | 295 | 100.0 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/pl.po | 
+ | [da](/f7/language/da) | 286 | 295 | 96.9 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/da.po | 
+ | [sv](/f7/language/sv) | 212 | 295 | 71.9 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/sv.po | 
+ | [de](/f7/language/de) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/de.po | 
+ | [es](/f7/language/es) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/es.po | 
+ | [fr](/f7/language/fr) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/fr.po | 
+ | [hu](/f7/language/hu) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/hu.po | 
+ | [it](/f7/language/it) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/it.po | 
+ | [ja](/f7/language/ja) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/pt_BR.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 2 | 295 | 0.7 | /mnt/stockage/packages/f7/NetworkManager-vpnc/po/zh_TW.po | 
 {.sortable}
 
 

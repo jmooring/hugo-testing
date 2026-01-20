@@ -18,31 +18,31 @@ The package ejabberd (version 2.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/fr.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/id.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/ru.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/zh.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1689 | 1762 | 95.9 | /mnt/stockage/packages/f14/ejabberd/src/msgs/pt-br.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/ca.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/eo.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/it.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/no.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/nl.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/sk.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 1467 | 1762 | 83.3 | /mnt/stockage/packages/f14/ejabberd/src/msgs/gl.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 1467 | 1762 | 83.3 | /mnt/stockage/packages/f14/ejabberd/src/msgs/tr.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1394 | 1762 | 79.1 | /mnt/stockage/packages/f14/ejabberd/src/msgs/sv.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 1131 | 1762 | 64.2 | /mnt/stockage/packages/f14/ejabberd/src/msgs/wa.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 1012 | 1762 | 57.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/th.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 1012 | 1762 | 57.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/vi.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 435 | 1762 | 24.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/pt.po | 
+ | [cs](/f14/language/cs) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/cs.po | 
+ | [de](/f14/language/de) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/de.po | 
+ | [el](/f14/language/el) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/el.po | 
+ | [es](/f14/language/es) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/es.po | 
+ | [fr](/f14/language/fr) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/fr.po | 
+ | [id](/f14/language/id) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/id.po | 
+ | [ja](/f14/language/ja) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/ja.po | 
+ | [pl](/f14/language/pl) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/pl.po | 
+ | [ru](/f14/language/ru) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/ru.po | 
+ | [uk](/f14/language/uk) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1752 | 1762 | 99.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/zh.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1689 | 1762 | 95.9 | /mnt/stockage/packages/f14/ejabberd/src/msgs/pt-br.po | 
+ | [ca](/f14/language/ca) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/ca.po | 
+ | [eo](/f14/language/eo) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/eo.po | 
+ | [it](/f14/language/it) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/it.po | 
+ | [nb_NO](/f14/language/nb_NO) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/no.po | 
+ | [nl](/f14/language/nl) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/nl.po | 
+ | [sk](/f14/language/sk) | 1493 | 1762 | 84.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/sk.po | 
+ | [gl](/f14/language/gl) | 1467 | 1762 | 83.3 | /mnt/stockage/packages/f14/ejabberd/src/msgs/gl.po | 
+ | [tr](/f14/language/tr) | 1467 | 1762 | 83.3 | /mnt/stockage/packages/f14/ejabberd/src/msgs/tr.po | 
+ | [sv](/f14/language/sv) | 1394 | 1762 | 79.1 | /mnt/stockage/packages/f14/ejabberd/src/msgs/sv.po | 
+ | [wa](/f14/language/wa) | 1131 | 1762 | 64.2 | /mnt/stockage/packages/f14/ejabberd/src/msgs/wa.po | 
+ | [th](/f14/language/th) | 1012 | 1762 | 57.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/th.po | 
+ | [vi](/f14/language/vi) | 1012 | 1762 | 57.4 | /mnt/stockage/packages/f14/ejabberd/src/msgs/vi.po | 
+ | [pt](/f14/language/pt) | 435 | 1762 | 24.7 | /mnt/stockage/packages/f14/ejabberd/src/msgs/pt.po | 
 {.sortable}
 
 

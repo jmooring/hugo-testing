@@ -38,44 +38,44 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sysstat]({{< ref "/f39/package/sysstat.md" >}}) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gettext]({{< ref "/f39/package/gettext.md" >}}) | 370 | 456 | 81.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gettext]({{< ref "/f39/package/mingw-gettext.md" >}}) | 370 | 456 | 81.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f39/package/gstreamer1-plugins-ugly-free.md" >}}) | 56 | 80 | 70.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer1-plugins-good]({{< ref "/f39/package/gstreamer1-plugins-good.md" >}}) | 288 | 830 | 34.7 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f39/package/mingw-gstreamer1-plugins-good.md" >}}) | 288 | 830 | 34.7 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [sugar-toolkit-gtk3]({{< ref "/f39/package/sugar-toolkit-gtk3.md" >}}) | 54 | 213 | 25.4 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f39/package/koffice-kivio.md" >}}) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f39/package/gstreamer1-plugins-bad-free.md" >}}) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f39/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gnome-do]({{< ref "/f39/package/gnome-do.md" >}}) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
- | [dnfdragora]({{< ref "/f39/package/dnfdragora.md" >}}) | 144 | 1732 | 8.3 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 835 | 15908 | 5.2 | Maltese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mt/> | 
- | [manafirewall]({{< ref "/f39/package/manafirewall.md" >}}) | 14 | 1097 | 1.3 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
- | [transmission]({{< ref "/f39/package/transmission.md" >}}) | 16 | 2441 | 0.7 | Maltese (https://app.transifex.com/transmissionbt/teams/33778/mt/) | 
- | [calibre]({{< ref "/f39/package/calibre.md" >}}) | 281 | 170967 | 0.2 | Maltese (http://www.transifex.com/calibre/calibre/language/mt/) | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [konversation]({{< ref "/f39/package/konversation.md" >}}) | 0 | 10362 | 0.0 | Maltese <mt@li.org> | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [sysstat](/f39/package/sysstat) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gettext](/f39/package/gettext) | 370 | 456 | 81.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gettext](/f39/package/mingw-gettext) | 370 | 456 | 81.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-ugly-free](/f39/package/gstreamer1-plugins-ugly-free) | 56 | 80 | 70.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-good](/f39/package/gstreamer1-plugins-good) | 288 | 830 | 34.7 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-good](/f39/package/mingw-gstreamer1-plugins-good) | 288 | 830 | 34.7 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [sugar-toolkit-gtk3](/f39/package/sugar-toolkit-gtk3) | 54 | 213 | 25.4 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f39/package/koffice-kivio) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
+ | [gstreamer1-plugins-bad-free](/f39/package/gstreamer1-plugins-bad-free) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f39/package/mingw-gstreamer1-plugins-bad-free) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gnome-do](/f39/package/gnome-do) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
+ | [dnfdragora](/f39/package/dnfdragora) | 144 | 1732 | 8.3 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
+ | [iso-codes](/f39/package/iso-codes) | 835 | 15908 | 5.2 | Maltese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mt/> | 
+ | [manafirewall](/f39/package/manafirewall) | 14 | 1097 | 1.3 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
+ | [transmission](/f39/package/transmission) | 16 | 2441 | 0.7 | Maltese (https://app.transifex.com/transmissionbt/teams/33778/mt/) | 
+ | [calibre](/f39/package/calibre) | 281 | 170967 | 0.2 | Maltese (http://www.transifex.com/calibre/calibre/language/mt/) | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [konversation](/f39/package/konversation) | 0 | 10362 | 0.0 | Maltese <mt@li.org> | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

@@ -18,46 +18,46 @@ The package qmlkonsole (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ar/qmlkonsole.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ca/qmlkonsole.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ca@valencia/qmlkonsole.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/es/qmlkonsole.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/eu/qmlkonsole.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/fi/qmlkonsole.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/fr/qmlkonsole.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/gl/qmlkonsole.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/he/qmlkonsole.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/hu/qmlkonsole.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ia/qmlkonsole.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/it/qmlkonsole.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ka/qmlkonsole.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ko/qmlkonsole.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/nl/qmlkonsole.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/pl/qmlkonsole.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/pt_BR/qmlkonsole.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ru/qmlkonsole.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sl/qmlkonsole.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sv/qmlkonsole.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/tr/qmlkonsole.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/uk/qmlkonsole.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/zh_CN/qmlkonsole.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/zh_TW/qmlkonsole.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 165 | 166 | 99.4 | /mnt/stockage/packages/f43/qmlkonsole/po/ta/qmlkonsole.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/en_GB/qmlkonsole.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/eo/qmlkonsole.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/nn/qmlkonsole.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sa/qmlkonsole.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 142 | 166 | 85.5 | /mnt/stockage/packages/f43/qmlkonsole/po/cs/qmlkonsole.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 122 | 166 | 73.5 | /mnt/stockage/packages/f43/qmlkonsole/po/pt/qmlkonsole.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 114 | 166 | 68.7 | /mnt/stockage/packages/f43/qmlkonsole/po/de/qmlkonsole.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 90 | 166 | 54.2 | /mnt/stockage/packages/f43/qmlkonsole/po/pa/qmlkonsole.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 56 | 166 | 33.7 | /mnt/stockage/packages/f43/qmlkonsole/po/ro/qmlkonsole.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 20 | 166 | 12.0 | /mnt/stockage/packages/f43/qmlkonsole/po/hi/qmlkonsole.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 15 | 166 | 9.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sk/qmlkonsole.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 13 | 166 | 7.8 | /mnt/stockage/packages/f43/qmlkonsole/po/ast/qmlkonsole.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 0 | 166 | 0.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ga/qmlkonsole.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 166 | 0.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ja/qmlkonsole.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 0 | 166 | 0.0 | /mnt/stockage/packages/f43/qmlkonsole/po/lt/qmlkonsole.po | 
+ | [ar](/f43/language/ar) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ar/qmlkonsole.po | 
+ | [ca](/f43/language/ca) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ca/qmlkonsole.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ca@valencia/qmlkonsole.po | 
+ | [es](/f43/language/es) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/es/qmlkonsole.po | 
+ | [eu](/f43/language/eu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/eu/qmlkonsole.po | 
+ | [fi](/f43/language/fi) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/fi/qmlkonsole.po | 
+ | [fr](/f43/language/fr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/fr/qmlkonsole.po | 
+ | [gl](/f43/language/gl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/gl/qmlkonsole.po | 
+ | [he](/f43/language/he) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/he/qmlkonsole.po | 
+ | [hu](/f43/language/hu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/hu/qmlkonsole.po | 
+ | [ia](/f43/language/ia) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ia/qmlkonsole.po | 
+ | [it](/f43/language/it) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/it/qmlkonsole.po | 
+ | [ka](/f43/language/ka) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ka/qmlkonsole.po | 
+ | [ko](/f43/language/ko) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ko/qmlkonsole.po | 
+ | [nl](/f43/language/nl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/nl/qmlkonsole.po | 
+ | [pl](/f43/language/pl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/pl/qmlkonsole.po | 
+ | [pt_BR](/f43/language/pt_BR) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/pt_BR/qmlkonsole.po | 
+ | [ru](/f43/language/ru) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ru/qmlkonsole.po | 
+ | [sl](/f43/language/sl) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sl/qmlkonsole.po | 
+ | [sv](/f43/language/sv) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sv/qmlkonsole.po | 
+ | [tr](/f43/language/tr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/tr/qmlkonsole.po | 
+ | [uk](/f43/language/uk) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/uk/qmlkonsole.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/zh_CN/qmlkonsole.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 166 | 166 | 100.0 | /mnt/stockage/packages/f43/qmlkonsole/po/zh_TW/qmlkonsole.po | 
+ | [ta](/f43/language/ta) | 165 | 166 | 99.4 | /mnt/stockage/packages/f43/qmlkonsole/po/ta/qmlkonsole.po | 
+ | [en_GB](/f43/language/en_GB) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/en_GB/qmlkonsole.po | 
+ | [eo](/f43/language/eo) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/eo/qmlkonsole.po | 
+ | [nn](/f43/language/nn) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/nn/qmlkonsole.po | 
+ | [sa](/f43/language/sa) | 161 | 166 | 97.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sa/qmlkonsole.po | 
+ | [cs](/f43/language/cs) | 142 | 166 | 85.5 | /mnt/stockage/packages/f43/qmlkonsole/po/cs/qmlkonsole.po | 
+ | [pt](/f43/language/pt) | 122 | 166 | 73.5 | /mnt/stockage/packages/f43/qmlkonsole/po/pt/qmlkonsole.po | 
+ | [de](/f43/language/de) | 114 | 166 | 68.7 | /mnt/stockage/packages/f43/qmlkonsole/po/de/qmlkonsole.po | 
+ | [pa](/f43/language/pa) | 90 | 166 | 54.2 | /mnt/stockage/packages/f43/qmlkonsole/po/pa/qmlkonsole.po | 
+ | [ro](/f43/language/ro) | 56 | 166 | 33.7 | /mnt/stockage/packages/f43/qmlkonsole/po/ro/qmlkonsole.po | 
+ | [hi](/f43/language/hi) | 20 | 166 | 12.0 | /mnt/stockage/packages/f43/qmlkonsole/po/hi/qmlkonsole.po | 
+ | [sk](/f43/language/sk) | 15 | 166 | 9.0 | /mnt/stockage/packages/f43/qmlkonsole/po/sk/qmlkonsole.po | 
+ | [ast](/f43/language/ast) | 13 | 166 | 7.8 | /mnt/stockage/packages/f43/qmlkonsole/po/ast/qmlkonsole.po | 
+ | [ga](/f43/language/ga) | 0 | 166 | 0.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ga/qmlkonsole.po | 
+ | [ja](/f43/language/ja) | 0 | 166 | 0.0 | /mnt/stockage/packages/f43/qmlkonsole/po/ja/qmlkonsole.po | 
+ | [lt](/f43/language/lt) | 0 | 166 | 0.0 | /mnt/stockage/packages/f43/qmlkonsole/po/lt/qmlkonsole.po | 
 {.sortable}
 
 

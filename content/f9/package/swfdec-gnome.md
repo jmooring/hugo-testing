@@ -18,46 +18,46 @@ The package swfdec-gnome (version 2.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ar.po | 
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/be@latin.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/bn_IN.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/cs.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/de.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/el.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/es.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/gl.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/he.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ja.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/lt.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/mk.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/mr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/nb.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ru.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/sl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/sv.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ta.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/th.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/uk.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 74 | 101 | 73.3 | /mnt/stockage/packages/f9/swfdec-gnome/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 74 | 101 | 73.3 | /mnt/stockage/packages/f9/swfdec-gnome/po/zh_HK.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 54 | 101 | 53.5 | /mnt/stockage/packages/f9/swfdec-gnome/po/hi.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 27 | 101 | 26.7 | /mnt/stockage/packages/f9/swfdec-gnome/po/pa.po | 
+ | [ar](/f9/language/ar) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ar.po | 
+ | [be_Latn](/f9/language/be_Latn) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/be@latin.po | 
+ | [bn_IN](/f9/language/bn_IN) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/bn_IN.po | 
+ | [ca](/f9/language/ca) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ca.po | 
+ | [cs](/f9/language/cs) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/cs.po | 
+ | [da](/f9/language/da) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/da.po | 
+ | [de](/f9/language/de) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/de.po | 
+ | [el](/f9/language/el) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/el.po | 
+ | [en_GB](/f9/language/en_GB) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/en_GB.po | 
+ | [es](/f9/language/es) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/es.po | 
+ | [et](/f9/language/et) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/et.po | 
+ | [eu](/f9/language/eu) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/eu.po | 
+ | [fi](/f9/language/fi) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/fi.po | 
+ | [fr](/f9/language/fr) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/fr.po | 
+ | [gl](/f9/language/gl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/gl.po | 
+ | [he](/f9/language/he) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/he.po | 
+ | [hu](/f9/language/hu) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/hu.po | 
+ | [it](/f9/language/it) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/it.po | 
+ | [ja](/f9/language/ja) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ja.po | 
+ | [ko](/f9/language/ko) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ko.po | 
+ | [lt](/f9/language/lt) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/lt.po | 
+ | [mk](/f9/language/mk) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/mk.po | 
+ | [mr](/f9/language/mr) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/mr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/nb.po | 
+ | [nl](/f9/language/nl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/nl.po | 
+ | [pl](/f9/language/pl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/pl.po | 
+ | [pt](/f9/language/pt) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ru.po | 
+ | [sl](/f9/language/sl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/sl.po | 
+ | [sv](/f9/language/sv) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/sv.po | 
+ | [ta](/f9/language/ta) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/ta.po | 
+ | [th](/f9/language/th) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/th.po | 
+ | [tr](/f9/language/tr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/tr.po | 
+ | [uk](/f9/language/uk) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/uk.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 101 | 101 | 100.0 | /mnt/stockage/packages/f9/swfdec-gnome/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 74 | 101 | 73.3 | /mnt/stockage/packages/f9/swfdec-gnome/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 74 | 101 | 73.3 | /mnt/stockage/packages/f9/swfdec-gnome/po/zh_HK.po | 
+ | [hi](/f9/language/hi) | 54 | 101 | 53.5 | /mnt/stockage/packages/f9/swfdec-gnome/po/hi.po | 
+ | [pa](/f9/language/pa) | 27 | 101 | 26.7 | /mnt/stockage/packages/f9/swfdec-gnome/po/pa.po | 
 {.sortable}
 
 

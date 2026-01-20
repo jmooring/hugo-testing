@@ -18,7 +18,7 @@ The package lpairs (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f14/lpairs/po/de.po | 
+ | [de](/f14/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f14/lpairs/po/de.po | 
 {.sortable}
 
 

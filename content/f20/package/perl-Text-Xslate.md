@@ -18,7 +18,7 @@ The package perl-Text-Xslate (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f20/perl-Text-Xslate/example/locale/ja.po | 
+ | [ja](/f20/language/ja) | 5 | 5 | 100.0 | /mnt/stockage/packages/f20/perl-Text-Xslate/example/locale/ja.po | 
 {.sortable}
 
 

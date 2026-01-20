@@ -18,7 +18,7 @@ The package libinfinity (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 27 | 2045 | 1.3 | /mnt/stockage/packages/f11/libinfinity/po/de.po | 
+ | [de](/f11/language/de) | 27 | 2045 | 1.3 | /mnt/stockage/packages/f11/libinfinity/po/de.po | 
 {.sortable}
 
 

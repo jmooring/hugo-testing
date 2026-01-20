@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f16/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [mate-menus]({{< ref "/f16/package/mate-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 17 | 7138 | 0.2 | Divehi <dv@li.org> | 
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 0 | 1829 | 0.0 | Divehi <dv@li.org> | 
+ | [gnome-menus](/f16/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [mate-menus](/f16/package/mate-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [gnome-do](/f16/package/gnome-do) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
+ | [stellarium](/f16/package/stellarium) | 17 | 7138 | 0.2 | Divehi <dv@li.org> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 0 | 1829 | 0.0 | Divehi <dv@li.org> | 
 {.sortable}
 
 

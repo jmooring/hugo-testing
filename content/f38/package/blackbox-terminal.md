@@ -18,17 +18,17 @@ The package blackbox-terminal (version 0.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 870 | 870 | 100.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 870 | 870 | 100.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/it.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/tr.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 714 | 870 | 82.1 | /mnt/stockage/packages/f38/blackbox-terminal/po/ru.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 713 | 870 | 82.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/sv.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 672 | 870 | 77.2 | /mnt/stockage/packages/f38/blackbox-terminal/po/cs.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 669 | 870 | 76.9 | /mnt/stockage/packages/f38/blackbox-terminal/po/pt_BR.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 601 | 870 | 69.1 | /mnt/stockage/packages/f38/blackbox-terminal/po/es.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 600 | 870 | 69.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/de.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 414 | 870 | 47.6 | /mnt/stockage/packages/f38/blackbox-terminal/po/zh_CN.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 381 | 870 | 43.8 | /mnt/stockage/packages/f38/blackbox-terminal/po/nl.po | 
+ | [fr](/f38/language/fr) | 870 | 870 | 100.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/fr.po | 
+ | [it](/f38/language/it) | 870 | 870 | 100.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/it.po | 
+ | [tr](/f38/language/tr) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/tr.po | 
+ | [ru](/f38/language/ru) | 714 | 870 | 82.1 | /mnt/stockage/packages/f38/blackbox-terminal/po/ru.po | 
+ | [sv](/f38/language/sv) | 713 | 870 | 82.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/sv.po | 
+ | [cs](/f38/language/cs) | 672 | 870 | 77.2 | /mnt/stockage/packages/f38/blackbox-terminal/po/cs.po | 
+ | [pt_BR](/f38/language/pt_BR) | 669 | 870 | 76.9 | /mnt/stockage/packages/f38/blackbox-terminal/po/pt_BR.po | 
+ | [es](/f38/language/es) | 601 | 870 | 69.1 | /mnt/stockage/packages/f38/blackbox-terminal/po/es.po | 
+ | [de](/f38/language/de) | 600 | 870 | 69.0 | /mnt/stockage/packages/f38/blackbox-terminal/po/de.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 414 | 870 | 47.6 | /mnt/stockage/packages/f38/blackbox-terminal/po/zh_CN.po | 
+ | [nl](/f38/language/nl) | 381 | 870 | 43.8 | /mnt/stockage/packages/f38/blackbox-terminal/po/nl.po | 
 {.sortable}
 
 

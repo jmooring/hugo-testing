@@ -18,54 +18,54 @@ The package caja-actions (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/bn_IN.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 8452 | 8452 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/cs.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 20265 | 20265 | 100.0 | /mnt/stockage/packages/f22/caja-actions/docs/cact/el/el.po/mnt/stockage/packages/f22/caja-actions/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 20265 | 20265 | 100.0 | /mnt/stockage/packages/f22/caja-actions/docs/cact/es/es.po/mnt/stockage/packages/f22/caja-actions/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 7720 | 7720 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/eu.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/gu.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/kn.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 4776 | 4776 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/lt.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/mr.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 2241 | 2241 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/or.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 3499 | 3499 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 8452 | 8452 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/pt_BR.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 16904 | 16904 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/sr@latin.po/mnt/stockage/packages/f22/caja-actions/po/sr.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 3402 | 3402 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 3257 | 3257 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/te.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 20214 | 20266 | 99.7 | /mnt/stockage/packages/f22/caja-actions/docs/cact/fr/fr.po/mnt/stockage/packages/f22/caja-actions/po/fr.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 19732 | 20265 | 97.4 | /mnt/stockage/packages/f22/caja-actions/docs/cact/de/de.po/mnt/stockage/packages/f22/caja-actions/po/de.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 1465 | 1554 | 94.3 | /mnt/stockage/packages/f22/caja-actions/po/en_GB.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 1465 | 1554 | 94.3 | /mnt/stockage/packages/f22/caja-actions/po/fi.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1465 | 1554 | 94.3 | /mnt/stockage/packages/f22/caja-actions/po/pl.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 7753 | 8293 | 93.5 | /mnt/stockage/packages/f22/caja-actions/po/it.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1430 | 1554 | 92.0 | /mnt/stockage/packages/f22/caja-actions/po/ko.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 1303 | 1554 | 83.8 | /mnt/stockage/packages/f22/caja-actions/po/en_CA.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 1257 | 1528 | 82.3 | /mnt/stockage/packages/f22/caja-actions/po/dz.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/bg.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/lv.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/mk.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/nl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/ru.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/th.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/vi.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 846 | 1554 | 54.4 | /mnt/stockage/packages/f22/caja-actions/po/bn.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 846 | 1554 | 54.4 | /mnt/stockage/packages/f22/caja-actions/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 846 | 1554 | 54.4 | /mnt/stockage/packages/f22/caja-actions/po/zh_HK.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 2552 | 4886 | 52.2 | /mnt/stockage/packages/f22/caja-actions/po/he.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 683 | 1554 | 44.0 | /mnt/stockage/packages/f22/caja-actions/po/ar.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 8582 | 20027 | 42.9 | /mnt/stockage/packages/f22/caja-actions/docs/cact/sl/sl.po/mnt/stockage/packages/f22/caja-actions/po/sl.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 3517 | 8293 | 42.4 | /mnt/stockage/packages/f22/caja-actions/po/zh_CN.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 863 | 2295 | 37.6 | /mnt/stockage/packages/f22/caja-actions/po/pa.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 410 | 1554 | 26.4 | /mnt/stockage/packages/f22/caja-actions/po/oc.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 498 | 2195 | 22.7 | /mnt/stockage/packages/f22/caja-actions/po/hi.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 612 | 4033 | 15.2 | /mnt/stockage/packages/f22/caja-actions/po/gl.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 853 | 8452 | 10.1 | /mnt/stockage/packages/f22/caja-actions/po/da.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 743 | 7702 | 9.6 | /mnt/stockage/packages/f22/caja-actions/po/sv.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 338 | 8456 | 4.0 | /mnt/stockage/packages/f22/caja-actions/po/nb.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 172 | 8452 | 2.0 | /mnt/stockage/packages/f22/caja-actions/po/ca.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 23 | 4886 | 0.5 | /mnt/stockage/packages/f22/caja-actions/po/ca@valencia.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 13 | 8166 | 0.2 | /mnt/stockage/packages/f22/caja-actions/po/ja.po | 
+ | [bn_IN](/f22/language/bn_IN) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/bn_IN.po | 
+ | [cs](/f22/language/cs) | 8452 | 8452 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/cs.po | 
+ | [el](/f22/language/el) | 20265 | 20265 | 100.0 | /mnt/stockage/packages/f22/caja-actions/docs/cact/el/el.po/mnt/stockage/packages/f22/caja-actions/po/el.po | 
+ | [es](/f22/language/es) | 20265 | 20265 | 100.0 | /mnt/stockage/packages/f22/caja-actions/docs/cact/es/es.po/mnt/stockage/packages/f22/caja-actions/po/es.po | 
+ | [eu](/f22/language/eu) | 7720 | 7720 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/eu.po | 
+ | [gu](/f22/language/gu) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/gu.po | 
+ | [kn](/f22/language/kn) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/kn.po | 
+ | [lt](/f22/language/lt) | 4776 | 4776 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/lt.po | 
+ | [mr](/f22/language/mr) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/mr.po | 
+ | [or](/f22/language/or) | 2241 | 2241 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/or.po | 
+ | [pt](/f22/language/pt) | 3499 | 3499 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 8452 | 8452 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/pt_BR.po | 
+ | [sr](/f22/language/sr) | 16904 | 16904 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/sr@latin.po/mnt/stockage/packages/f22/caja-actions/po/sr.po | 
+ | [ta](/f22/language/ta) | 3402 | 3402 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/ta.po | 
+ | [te](/f22/language/te) | 3257 | 3257 | 100.0 | /mnt/stockage/packages/f22/caja-actions/po/te.po | 
+ | [fr](/f22/language/fr) | 20214 | 20266 | 99.7 | /mnt/stockage/packages/f22/caja-actions/docs/cact/fr/fr.po/mnt/stockage/packages/f22/caja-actions/po/fr.po | 
+ | [de](/f22/language/de) | 19732 | 20265 | 97.4 | /mnt/stockage/packages/f22/caja-actions/docs/cact/de/de.po/mnt/stockage/packages/f22/caja-actions/po/de.po | 
+ | [en_GB](/f22/language/en_GB) | 1465 | 1554 | 94.3 | /mnt/stockage/packages/f22/caja-actions/po/en_GB.po | 
+ | [fi](/f22/language/fi) | 1465 | 1554 | 94.3 | /mnt/stockage/packages/f22/caja-actions/po/fi.po | 
+ | [pl](/f22/language/pl) | 1465 | 1554 | 94.3 | /mnt/stockage/packages/f22/caja-actions/po/pl.po | 
+ | [it](/f22/language/it) | 7753 | 8293 | 93.5 | /mnt/stockage/packages/f22/caja-actions/po/it.po | 
+ | [ko](/f22/language/ko) | 1430 | 1554 | 92.0 | /mnt/stockage/packages/f22/caja-actions/po/ko.po | 
+ | [en_CA](/f22/language/en_CA) | 1303 | 1554 | 83.8 | /mnt/stockage/packages/f22/caja-actions/po/en_CA.po | 
+ | [dz](/f22/language/dz) | 1257 | 1528 | 82.3 | /mnt/stockage/packages/f22/caja-actions/po/dz.po | 
+ | [bg](/f22/language/bg) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/bg.po | 
+ | [lv](/f22/language/lv) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/lv.po | 
+ | [mk](/f22/language/mk) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/mk.po | 
+ | [nl](/f22/language/nl) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/nl.po | 
+ | [ru](/f22/language/ru) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/ru.po | 
+ | [th](/f22/language/th) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/th.po | 
+ | [vi](/f22/language/vi) | 1132 | 1554 | 72.8 | /mnt/stockage/packages/f22/caja-actions/po/vi.po | 
+ | [bn](/f22/language/bn) | 846 | 1554 | 54.4 | /mnt/stockage/packages/f22/caja-actions/po/bn.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 846 | 1554 | 54.4 | /mnt/stockage/packages/f22/caja-actions/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 846 | 1554 | 54.4 | /mnt/stockage/packages/f22/caja-actions/po/zh_HK.po | 
+ | [he](/f22/language/he) | 2552 | 4886 | 52.2 | /mnt/stockage/packages/f22/caja-actions/po/he.po | 
+ | [ar](/f22/language/ar) | 683 | 1554 | 44.0 | /mnt/stockage/packages/f22/caja-actions/po/ar.po | 
+ | [sl](/f22/language/sl) | 8582 | 20027 | 42.9 | /mnt/stockage/packages/f22/caja-actions/docs/cact/sl/sl.po/mnt/stockage/packages/f22/caja-actions/po/sl.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 3517 | 8293 | 42.4 | /mnt/stockage/packages/f22/caja-actions/po/zh_CN.po | 
+ | [pa](/f22/language/pa) | 863 | 2295 | 37.6 | /mnt/stockage/packages/f22/caja-actions/po/pa.po | 
+ | [oc](/f22/language/oc) | 410 | 1554 | 26.4 | /mnt/stockage/packages/f22/caja-actions/po/oc.po | 
+ | [hi](/f22/language/hi) | 498 | 2195 | 22.7 | /mnt/stockage/packages/f22/caja-actions/po/hi.po | 
+ | [gl](/f22/language/gl) | 612 | 4033 | 15.2 | /mnt/stockage/packages/f22/caja-actions/po/gl.po | 
+ | [da](/f22/language/da) | 853 | 8452 | 10.1 | /mnt/stockage/packages/f22/caja-actions/po/da.po | 
+ | [sv](/f22/language/sv) | 743 | 7702 | 9.6 | /mnt/stockage/packages/f22/caja-actions/po/sv.po | 
+ | [nb_NO](/f22/language/nb_NO) | 338 | 8456 | 4.0 | /mnt/stockage/packages/f22/caja-actions/po/nb.po | 
+ | [ca](/f22/language/ca) | 172 | 8452 | 2.0 | /mnt/stockage/packages/f22/caja-actions/po/ca.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 23 | 4886 | 0.5 | /mnt/stockage/packages/f22/caja-actions/po/ca@valencia.po | 
+ | [ja](/f22/language/ja) | 13 | 8166 | 0.2 | /mnt/stockage/packages/f22/caja-actions/po/ja.po | 
 {.sortable}
 
 

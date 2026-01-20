@@ -42,14 +42,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-desktop]({{< ref "/f7/package/gnome-desktop.md" >}}) | 301 | 330 | 91.2 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [xmms]({{< ref "/f7/package/xmms.md" >}}) | 1796 | 3245 | 55.3 | Uzbek <uz-li@yahoogroups.com> | 
- | [kaffeine]({{< ref "/f7/package/kaffeine.md" >}}) | 1081 | 2354 | 45.9 | Uzbek <kmashrab@uni-bremen.de> | 
- | [amarok]({{< ref "/f7/package/amarok.md" >}}) | 3640 | 13255 | 27.5 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [k3b]({{< ref "/f7/package/k3b.md" >}}) | 2831 | 20630 | 13.7 | Uzbek <floss-uz-l10n@googlegroups.com> | 
- | [po4a]({{< ref "/f7/package/po4a.md" >}}) | 23 | 1613 | 1.4 | Uzbek <uz@li.org> | 
- | [gtk2]({{< ref "/f7/package/gtk2.md" >}}) | 81 | 11602 | 0.7 | Uzbek <kmashrab@uni-bremen.de> | 
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 3 | 12020 | 0.0 | Uzbek | 
+ | [gnome-desktop](/f7/package/gnome-desktop) | 301 | 330 | 91.2 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [xmms](/f7/package/xmms) | 1796 | 3245 | 55.3 | Uzbek <uz-li@yahoogroups.com> | 
+ | [kaffeine](/f7/package/kaffeine) | 1081 | 2354 | 45.9 | Uzbek <kmashrab@uni-bremen.de> | 
+ | [amarok](/f7/package/amarok) | 3640 | 13255 | 27.5 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [k3b](/f7/package/k3b) | 2831 | 20630 | 13.7 | Uzbek <floss-uz-l10n@googlegroups.com> | 
+ | [po4a](/f7/package/po4a) | 23 | 1613 | 1.4 | Uzbek <uz@li.org> | 
+ | [gtk2](/f7/package/gtk2) | 81 | 11602 | 0.7 | Uzbek <kmashrab@uni-bremen.de> | 
+ | [iso-codes](/f7/package/iso-codes) | 3 | 12020 | 0.0 | Uzbek | 
 {.sortable}
 
 

@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-characters]({{< ref "/f36/package/gnome-characters.md" >}}) | 153 | 153 | 100.0 | Santali | 
- | [gnome-desktop3]({{< ref "/f36/package/gnome-desktop3.md" >}}) | 160 | 160 | 100.0 | Santali | 
- | [inkscape]({{< ref "/f36/package/inkscape.md" >}}) | 18793 | 40929 | 45.9 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f36/package/libreoffice.md" >}}) | 55437 | 167397 | 33.1 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f36/package/tuxpaint.md" >}}) | 1174 | 3763 | 31.2 | none | 
- | [gimagereader]({{< ref "/f36/package/gimagereader.md" >}}) | 183 | 1817 | 10.1 | Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/> | 
+ | [gnome-characters](/f36/package/gnome-characters) | 153 | 153 | 100.0 | Santali | 
+ | [gnome-desktop3](/f36/package/gnome-desktop3) | 160 | 160 | 100.0 | Santali | 
+ | [inkscape](/f36/package/inkscape) | 18793 | 40929 | 45.9 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f36/package/libreoffice) | 55437 | 167397 | 33.1 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f36/package/tuxpaint) | 1174 | 3763 | 31.2 | none | 
+ | [gimagereader](/f36/package/gimagereader) | 183 | 1817 | 10.1 | Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/> | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package phpwapmail (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/phpwapmail/locale/ru_RU/LC_MESSAGES/messages.po | 
+ | [ru](/f7/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/phpwapmail/locale/ru_RU/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

@@ -18,55 +18,55 @@ The package mate-file-manager-share (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ar.po | 
- | [as]({{< ref "/f18/language/as.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/as.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ast.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/bn_IN.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ca@valencia.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/de.po | 
- | [dz]({{< ref "/f18/language/dz.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/dz.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/gl.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/gu.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/he.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/it.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/kn.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/lt.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/lv.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ml.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/mr.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/or.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/sl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/sv.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/te.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/vi.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/zh_HK.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 160 | 226 | 70.8 | /mnt/stockage/packages/f18/mate-file-manager-share/po/eo.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 68 | 222 | 30.6 | /mnt/stockage/packages/f18/mate-file-manager-share/po/oc.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 14 | 222 | 6.3 | /mnt/stockage/packages/f18/mate-file-manager-share/po/nb.po | 
+ | [ar](/f18/language/ar) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ar.po | 
+ | [as](/f18/language/as) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/as.po | 
+ | [ast](/f18/language/ast) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ast.po | 
+ | [bn_IN](/f18/language/bn_IN) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/bn_IN.po | 
+ | [ca](/f18/language/ca) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ca@valencia.po | 
+ | [cs](/f18/language/cs) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/cs.po | 
+ | [da](/f18/language/da) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/da.po | 
+ | [de](/f18/language/de) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/de.po | 
+ | [dz](/f18/language/dz) | 214 | 214 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/dz.po | 
+ | [el](/f18/language/el) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/en_GB.po | 
+ | [es](/f18/language/es) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/es.po | 
+ | [et](/f18/language/et) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/et.po | 
+ | [eu](/f18/language/eu) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/eu.po | 
+ | [fi](/f18/language/fi) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/fi.po | 
+ | [fr](/f18/language/fr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/fr.po | 
+ | [gl](/f18/language/gl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/gl.po | 
+ | [gu](/f18/language/gu) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/gu.po | 
+ | [he](/f18/language/he) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/he.po | 
+ | [hu](/f18/language/hu) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/hu.po | 
+ | [id](/f18/language/id) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/id.po | 
+ | [it](/f18/language/it) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/it.po | 
+ | [kn](/f18/language/kn) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/kn.po | 
+ | [ko](/f18/language/ko) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ko.po | 
+ | [lt](/f18/language/lt) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/lt.po | 
+ | [lv](/f18/language/lv) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/lv.po | 
+ | [ml](/f18/language/ml) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ml.po | 
+ | [mr](/f18/language/mr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/mr.po | 
+ | [or](/f18/language/or) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/or.po | 
+ | [pa](/f18/language/pa) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pa.po | 
+ | [pl](/f18/language/pl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pl.po | 
+ | [pt](/f18/language/pt) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ro.po | 
+ | [ru](/f18/language/ru) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ru.po | 
+ | [sk](/f18/language/sk) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/sk.po | 
+ | [sl](/f18/language/sl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/sl.po | 
+ | [sv](/f18/language/sv) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/sv.po | 
+ | [ta](/f18/language/ta) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/ta.po | 
+ | [te](/f18/language/te) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/te.po | 
+ | [uk](/f18/language/uk) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/uk.po | 
+ | [vi](/f18/language/vi) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 226 | 226 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/zh_TW.po | 
+ | [zh_Hant_HK](/f18/language/zh_Hant_HK) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/mate-file-manager-share/po/zh_HK.po | 
+ | [eo](/f18/language/eo) | 160 | 226 | 70.8 | /mnt/stockage/packages/f18/mate-file-manager-share/po/eo.po | 
+ | [oc](/f18/language/oc) | 68 | 222 | 30.6 | /mnt/stockage/packages/f18/mate-file-manager-share/po/oc.po | 
+ | [nb_NO](/f18/language/nb_NO) | 14 | 222 | 6.3 | /mnt/stockage/packages/f18/mate-file-manager-share/po/nb.po | 
 {.sortable}
 
 

@@ -18,34 +18,34 @@ The package kpipewire (version 5.27.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ar/kpipewire5.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ca/kpipewire5.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ca@valencia/kpipewire5.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/cs/kpipewire5.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/en_GB/kpipewire5.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/es/kpipewire5.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/eu/kpipewire5.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/fi/kpipewire5.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/fr/kpipewire5.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/it/kpipewire5.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ka/kpipewire5.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ko/kpipewire5.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/nl/kpipewire5.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/nn/kpipewire5.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pa/kpipewire5.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pl/kpipewire5.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pt/kpipewire5.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pt_BR/kpipewire5.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ro/kpipewire5.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ru/kpipewire5.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/sk/kpipewire5.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/sl/kpipewire5.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/sv/kpipewire5.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/tr/kpipewire5.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/uk/kpipewire5.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/zh_CN/kpipewire5.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 5 | 16 | 31.2 | /mnt/stockage/packages/f36/kpipewire/po/de/kpipewire5.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 5 | 16 | 31.2 | /mnt/stockage/packages/f36/kpipewire/po/ta/kpipewire5.po | 
+ | [ar](/f36/language/ar) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ar/kpipewire5.po | 
+ | [ca](/f36/language/ca) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ca/kpipewire5.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ca@valencia/kpipewire5.po | 
+ | [cs](/f36/language/cs) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/cs/kpipewire5.po | 
+ | [en_GB](/f36/language/en_GB) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/en_GB/kpipewire5.po | 
+ | [es](/f36/language/es) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/es/kpipewire5.po | 
+ | [eu](/f36/language/eu) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/eu/kpipewire5.po | 
+ | [fi](/f36/language/fi) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/fi/kpipewire5.po | 
+ | [fr](/f36/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/fr/kpipewire5.po | 
+ | [it](/f36/language/it) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/it/kpipewire5.po | 
+ | [ka](/f36/language/ka) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ka/kpipewire5.po | 
+ | [ko](/f36/language/ko) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ko/kpipewire5.po | 
+ | [nl](/f36/language/nl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/nl/kpipewire5.po | 
+ | [nn](/f36/language/nn) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/nn/kpipewire5.po | 
+ | [pa](/f36/language/pa) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pa/kpipewire5.po | 
+ | [pl](/f36/language/pl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pl/kpipewire5.po | 
+ | [pt](/f36/language/pt) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pt/kpipewire5.po | 
+ | [pt_BR](/f36/language/pt_BR) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/pt_BR/kpipewire5.po | 
+ | [ro](/f36/language/ro) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ro/kpipewire5.po | 
+ | [ru](/f36/language/ru) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/ru/kpipewire5.po | 
+ | [sk](/f36/language/sk) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/sk/kpipewire5.po | 
+ | [sl](/f36/language/sl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/sl/kpipewire5.po | 
+ | [sv](/f36/language/sv) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/sv/kpipewire5.po | 
+ | [tr](/f36/language/tr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/tr/kpipewire5.po | 
+ | [uk](/f36/language/uk) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/uk/kpipewire5.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 16 | 16 | 100.0 | /mnt/stockage/packages/f36/kpipewire/po/zh_CN/kpipewire5.po | 
+ | [de](/f36/language/de) | 5 | 16 | 31.2 | /mnt/stockage/packages/f36/kpipewire/po/de/kpipewire5.po | 
+ | [ta](/f36/language/ta) | 5 | 16 | 31.2 | /mnt/stockage/packages/f36/kpipewire/po/ta/kpipewire5.po | 
 {.sortable}
 
 

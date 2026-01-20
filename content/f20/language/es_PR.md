@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f20/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f20/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Puerto Rico) (http://www.transifex.com/projects/p/MATE/language/es_PR/) | 
- | [libmateweather]({{< ref "/f20/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [poedit]({{< ref "/f20/package/poedit.md" >}}) | 915 | 1525 | 60.0 | Español <eratos2000@gmail.com> | 
+ | [libgweather](/f20/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f20/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Puerto Rico) (http://www.transifex.com/projects/p/MATE/language/es_PR/) | 
+ | [libmateweather](/f20/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [poedit](/f20/package/poedit) | 915 | 1525 | 60.0 | Español <eratos2000@gmail.com> | 
 {.sortable}
 
 

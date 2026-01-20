@@ -18,23 +18,23 @@ The package parcellite (version 1.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/fr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/hu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ja.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/sv.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 550 | 575 | 95.7 | /mnt/stockage/packages/f18/parcellite/po/pt_BR.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 278 | 312 | 89.1 | /mnt/stockage/packages/f18/parcellite/po/pl_PL.po/mnt/stockage/packages/f18/parcellite/po/pl.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 129 | 156 | 82.7 | /mnt/stockage/packages/f18/parcellite/po/nb.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 129 | 156 | 82.7 | /mnt/stockage/packages/f18/parcellite/po/zh_CN.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 62 | 156 | 39.7 | /mnt/stockage/packages/f18/parcellite/po/tr.po | 
+ | [ca](/f18/language/ca) | 265 | 265 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ca.po | 
+ | [cs](/f18/language/cs) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/cs.po | 
+ | [da](/f18/language/da) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/da.po | 
+ | [de](/f18/language/de) | 149 | 149 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/de.po | 
+ | [es](/f18/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/es.po | 
+ | [fr](/f18/language/fr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/fr.po | 
+ | [hu](/f18/language/hu) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/hu.po | 
+ | [it](/f18/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/it.po | 
+ | [ja](/f18/language/ja) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ja.po | 
+ | [ro](/f18/language/ro) | 149 | 149 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ro.po | 
+ | [ru](/f18/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/ru.po | 
+ | [sv](/f18/language/sv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f18/parcellite/po/sv.po | 
+ | [pt_BR](/f18/language/pt_BR) | 550 | 575 | 95.7 | /mnt/stockage/packages/f18/parcellite/po/pt_BR.po | 
+ | [pl](/f18/language/pl) | 278 | 312 | 89.1 | /mnt/stockage/packages/f18/parcellite/po/pl_PL.po/mnt/stockage/packages/f18/parcellite/po/pl.po | 
+ | [nb_NO](/f18/language/nb_NO) | 129 | 156 | 82.7 | /mnt/stockage/packages/f18/parcellite/po/nb.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 129 | 156 | 82.7 | /mnt/stockage/packages/f18/parcellite/po/zh_CN.po | 
+ | [tr](/f18/language/tr) | 62 | 156 | 39.7 | /mnt/stockage/packages/f18/parcellite/po/tr.po | 
 {.sortable}
 
 

@@ -18,54 +18,54 @@ The package xfce4-netload-plugin (version 1.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/bg.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/fr.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/hr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ja.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ms.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/nl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ru.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sr.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/th.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/uk.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/zh_TW.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ar.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ast.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/da.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/el.po | 
- | [en_AU]({{< ref "/f24/language/en_AU.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/en_AU.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/id.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/is.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ko.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/nb.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/oc.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pt.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/tr.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ug.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/zh_CN.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ca.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/eu.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/gl.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/lt.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sk.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 40 | 92 | 43.5 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/fi.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/kk.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/lv.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pa.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sq.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 54 | 184 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ur_PK.po/mnt/stockage/packages/f24/xfce4-netload-plugin/po/ur.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 26 | 92 | 28.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/eo.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 19 | 92 | 20.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/vi.po | 
+ | [bg](/f24/language/bg) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/bg.po | 
+ | [cs](/f24/language/cs) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/cs.po | 
+ | [de](/f24/language/de) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/de.po | 
+ | [es](/f24/language/es) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/es.po | 
+ | [fr](/f24/language/fr) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/fr.po | 
+ | [hr](/f24/language/hr) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/hr.po | 
+ | [it](/f24/language/it) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/it.po | 
+ | [ja](/f24/language/ja) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ja.po | 
+ | [ms](/f24/language/ms) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ms.po | 
+ | [nl](/f24/language/nl) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/nl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ru.po | 
+ | [sr](/f24/language/sr) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sr.po | 
+ | [th](/f24/language/th) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/th.po | 
+ | [uk](/f24/language/uk) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/uk.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 92 | 92 | 100.0 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/zh_TW.po | 
+ | [ar](/f24/language/ar) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ar.po | 
+ | [ast](/f24/language/ast) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ast.po | 
+ | [da](/f24/language/da) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/da.po | 
+ | [el](/f24/language/el) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/el.po | 
+ | [en_AU](/f24/language/en_AU) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/en_AU.po | 
+ | [he](/f24/language/he) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/he.po | 
+ | [hu](/f24/language/hu) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/hu.po | 
+ | [id](/f24/language/id) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/id.po | 
+ | [is](/f24/language/is) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/is.po | 
+ | [ko](/f24/language/ko) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ko.po | 
+ | [nb_NO](/f24/language/nb_NO) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/nb.po | 
+ | [oc](/f24/language/oc) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/oc.po | 
+ | [pl](/f24/language/pl) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pl.po | 
+ | [pt](/f24/language/pt) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pt.po | 
+ | [sv](/f24/language/sv) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sv.po | 
+ | [tr](/f24/language/tr) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/tr.po | 
+ | [ug](/f24/language/ug) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ug.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 84 | 92 | 91.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/zh_CN.po | 
+ | [ca](/f24/language/ca) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ca.po | 
+ | [en_GB](/f24/language/en_GB) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/en_GB.po | 
+ | [eu](/f24/language/eu) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/eu.po | 
+ | [gl](/f24/language/gl) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/gl.po | 
+ | [lt](/f24/language/lt) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/lt.po | 
+ | [sk](/f24/language/sk) | 66 | 92 | 71.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sk.po | 
+ | [fi](/f24/language/fi) | 40 | 92 | 43.5 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/fi.po | 
+ | [kk](/f24/language/kk) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/kk.po | 
+ | [lv](/f24/language/lv) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/lv.po | 
+ | [pa](/f24/language/pa) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/pa.po | 
+ | [sq](/f24/language/sq) | 27 | 92 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/sq.po | 
+ | [ur](/f24/language/ur) | 54 | 184 | 29.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/ur_PK.po/mnt/stockage/packages/f24/xfce4-netload-plugin/po/ur.po | 
+ | [eo](/f24/language/eo) | 26 | 92 | 28.3 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/eo.po | 
+ | [vi](/f24/language/vi) | 19 | 92 | 20.7 | /mnt/stockage/packages/f24/xfce4-netload-plugin/po/vi.po | 
 {.sortable}
 
 

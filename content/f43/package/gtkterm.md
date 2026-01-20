@@ -18,13 +18,13 @@ The package gtkterm (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gtkterm/po/de.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f43/gtkterm/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f43/gtkterm/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 672 | 712 | 94.4 | /mnt/stockage/packages/f43/gtkterm/po/zh_CN.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 605 | 712 | 85.0 | /mnt/stockage/packages/f43/gtkterm/po/fr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 332 | 712 | 46.6 | /mnt/stockage/packages/f43/gtkterm/po/hu.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 332 | 712 | 46.6 | /mnt/stockage/packages/f43/gtkterm/po/ru.po | 
+ | [de](/f43/language/de) | 710 | 710 | 100.0 | /mnt/stockage/packages/f43/gtkterm/po/de.po | 
+ | [nl](/f43/language/nl) | 712 | 712 | 100.0 | /mnt/stockage/packages/f43/gtkterm/po/nl_NL.po | 
+ | [pt_BR](/f43/language/pt_BR) | 730 | 730 | 100.0 | /mnt/stockage/packages/f43/gtkterm/po/pt_BR.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 672 | 712 | 94.4 | /mnt/stockage/packages/f43/gtkterm/po/zh_CN.po | 
+ | [fr](/f43/language/fr) | 605 | 712 | 85.0 | /mnt/stockage/packages/f43/gtkterm/po/fr.po | 
+ | [hu](/f43/language/hu) | 332 | 712 | 46.6 | /mnt/stockage/packages/f43/gtkterm/po/hu.po | 
+ | [ru](/f43/language/ru) | 332 | 712 | 46.6 | /mnt/stockage/packages/f43/gtkterm/po/ru.po | 
 {.sortable}
 
 

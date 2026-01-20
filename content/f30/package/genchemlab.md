@@ -18,8 +18,8 @@ The package genchemlab (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f30/language/da.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f30/genchemlab/po/genchemlab-da.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/genchemlab/po/genchemlab-pl.po | 
+ | [da](/f30/language/da) | 272 | 272 | 100.0 | /mnt/stockage/packages/f30/genchemlab/po/genchemlab-da.po | 
+ | [pl](/f30/language/pl) | 305 | 305 | 100.0 | /mnt/stockage/packages/f30/genchemlab/po/genchemlab-pl.po | 
 {.sortable}
 
 

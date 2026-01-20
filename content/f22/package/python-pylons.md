@@ -18,9 +18,9 @@ The package python-pylons (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f22/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/python-pylons/test_files/sample_controllers/i18n/es/LC_MESSAGES/sample_controllers.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/python-pylons/test_files/sample_controllers/i18n/fr/LC_MESSAGES/sample_controllers.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f22/python-pylons/test_files/sample_controllers/i18n/ja/LC_MESSAGES/sample_controllers.po/mnt/stockage/packages/f22/python-pylons/tests/test_webapps/filestotest/messages.ja.po | 
+ | [es](/f22/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/python-pylons/test_files/sample_controllers/i18n/es/LC_MESSAGES/sample_controllers.po | 
+ | [fr](/f22/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/python-pylons/test_files/sample_controllers/i18n/fr/LC_MESSAGES/sample_controllers.po | 
+ | [ja](/f22/language/ja) | 26 | 26 | 100.0 | /mnt/stockage/packages/f22/python-pylons/test_files/sample_controllers/i18n/ja/LC_MESSAGES/sample_controllers.po/mnt/stockage/packages/f22/python-pylons/tests/test_webapps/filestotest/messages.ja.po | 
 {.sortable}
 
 

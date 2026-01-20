@@ -18,56 +18,56 @@ The package filezilla (version 3.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/ar.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/bg_BG.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 9247 | 9247 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/cs_CZ.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/da_DK.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/el.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/fi_FI.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/fr.po | 
- | [he_IL]({{< ref "/f15/language/he_IL.md" >}}) | 9194 | 9194 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/he_IL.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/id_ID.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/it.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/nb_NO.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/pl_PL.po | 
- | [pt_PT]({{< ref "/f15/language/pt_PT.md" >}}) | 9236 | 9236 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/pt_PT.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 9135 | 9135 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/tr.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/vi_VN.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/zh_TW.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 9187 | 9190 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/sk_SK.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 9248 | 9254 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/nn_NO.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 9139 | 9145 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/nl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 9236 | 9247 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 9236 | 9247 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/ro_RO.po | 
- | [hy]({{< ref "/f15/language/hy.md" >}}) | 9236 | 9248 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/hy.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 9128 | 9145 | 99.8 | /mnt/stockage/packages/f15/filezilla/locales/sr.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 9052 | 9190 | 98.5 | /mnt/stockage/packages/f15/filezilla/locales/sl_SI.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 9102 | 9254 | 98.4 | /mnt/stockage/packages/f15/filezilla/locales/lt_LT.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 8909 | 9236 | 96.5 | /mnt/stockage/packages/f15/filezilla/locales/ko_KR.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 8618 | 9145 | 94.2 | /mnt/stockage/packages/f15/filezilla/locales/ja_JP.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 8270 | 9102 | 90.9 | /mnt/stockage/packages/f15/filezilla/locales/hr.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f15/filezilla/locales/ca.po | 
- | [ca@valencia]({{< ref "/f15/language/ca@valencia.md" >}}) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f15/filezilla/locales/ca_ES@valencia.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 7788 | 9102 | 85.6 | /mnt/stockage/packages/f15/filezilla/locales/fa_IR.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 7842 | 9236 | 84.9 | /mnt/stockage/packages/f15/filezilla/locales/et_EE.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 7642 | 9102 | 84.0 | /mnt/stockage/packages/f15/filezilla/locales/hu_HU.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 6814 | 9102 | 74.9 | /mnt/stockage/packages/f15/filezilla/locales/uk_UA.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 5976 | 9102 | 65.7 | /mnt/stockage/packages/f15/filezilla/locales/oc.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 5124 | 9145 | 56.0 | /mnt/stockage/packages/f15/filezilla/locales/lv_LV.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 4629 | 9102 | 50.9 | /mnt/stockage/packages/f15/filezilla/locales/gl_ES.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 4595 | 9102 | 50.5 | /mnt/stockage/packages/f15/filezilla/locales/mk_MK.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 3324 | 9102 | 36.5 | /mnt/stockage/packages/f15/filezilla/locales/ne.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 2101 | 9190 | 22.9 | /mnt/stockage/packages/f15/filezilla/locales/is.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 1609 | 9102 | 17.7 | /mnt/stockage/packages/f15/filezilla/locales/eu_ES.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 1237 | 9102 | 13.6 | /mnt/stockage/packages/f15/filezilla/locales/ka.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 895 | 9102 | 9.8 | /mnt/stockage/packages/f15/filezilla/locales/ku.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 852 | 9102 | 9.4 | /mnt/stockage/packages/f15/filezilla/locales/th_TH.po | 
- | [km]({{< ref "/f15/language/km.md" >}}) | 85 | 9102 | 0.9 | /mnt/stockage/packages/f15/filezilla/locales/km_KH.po | 
+ | [ar](/f15/language/ar) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/ar.po | 
+ | [bg](/f15/language/bg) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/bg_BG.po | 
+ | [cs](/f15/language/cs) | 9247 | 9247 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/cs_CZ.po | 
+ | [da](/f15/language/da) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/da_DK.po | 
+ | [de](/f15/language/de) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/de.po | 
+ | [el](/f15/language/el) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/el.po | 
+ | [es](/f15/language/es) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/es.po | 
+ | [fi](/f15/language/fi) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/fi_FI.po | 
+ | [fr](/f15/language/fr) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/fr.po | 
+ | [he_IL](/f15/language/he_IL) | 9194 | 9194 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/he_IL.po | 
+ | [id](/f15/language/id) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/id_ID.po | 
+ | [it](/f15/language/it) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/it.po | 
+ | [nb_NO](/f15/language/nb_NO) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/nb_NO.po | 
+ | [pl](/f15/language/pl) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/pl_PL.po | 
+ | [pt_PT](/f15/language/pt_PT) | 9236 | 9236 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/pt_PT.po | 
+ | [ru](/f15/language/ru) | 9135 | 9135 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/ru.po | 
+ | [sv](/f15/language/sv) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/sv.po | 
+ | [tr](/f15/language/tr) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/tr.po | 
+ | [vi](/f15/language/vi) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/vi_VN.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/zh_TW.po | 
+ | [sk](/f15/language/sk) | 9187 | 9190 | 100.0 | /mnt/stockage/packages/f15/filezilla/locales/sk_SK.po | 
+ | [nn](/f15/language/nn) | 9248 | 9254 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/nn_NO.po | 
+ | [nl](/f15/language/nl) | 9139 | 9145 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/nl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 9236 | 9247 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/pt_BR.po | 
+ | [ro](/f15/language/ro) | 9236 | 9247 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/ro_RO.po | 
+ | [hy](/f15/language/hy) | 9236 | 9248 | 99.9 | /mnt/stockage/packages/f15/filezilla/locales/hy.po | 
+ | [sr](/f15/language/sr) | 9128 | 9145 | 99.8 | /mnt/stockage/packages/f15/filezilla/locales/sr.po | 
+ | [sl](/f15/language/sl) | 9052 | 9190 | 98.5 | /mnt/stockage/packages/f15/filezilla/locales/sl_SI.po | 
+ | [lt](/f15/language/lt) | 9102 | 9254 | 98.4 | /mnt/stockage/packages/f15/filezilla/locales/lt_LT.po | 
+ | [ko](/f15/language/ko) | 8909 | 9236 | 96.5 | /mnt/stockage/packages/f15/filezilla/locales/ko_KR.po | 
+ | [ja](/f15/language/ja) | 8618 | 9145 | 94.2 | /mnt/stockage/packages/f15/filezilla/locales/ja_JP.po | 
+ | [hr](/f15/language/hr) | 8270 | 9102 | 90.9 | /mnt/stockage/packages/f15/filezilla/locales/hr.po | 
+ | [ca](/f15/language/ca) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f15/filezilla/locales/ca.po | 
+ | [ca@valencia](/f15/language/ca@valencia) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f15/filezilla/locales/ca_ES@valencia.po | 
+ | [fa](/f15/language/fa) | 7788 | 9102 | 85.6 | /mnt/stockage/packages/f15/filezilla/locales/fa_IR.po | 
+ | [et](/f15/language/et) | 7842 | 9236 | 84.9 | /mnt/stockage/packages/f15/filezilla/locales/et_EE.po | 
+ | [hu](/f15/language/hu) | 7642 | 9102 | 84.0 | /mnt/stockage/packages/f15/filezilla/locales/hu_HU.po | 
+ | [uk](/f15/language/uk) | 6814 | 9102 | 74.9 | /mnt/stockage/packages/f15/filezilla/locales/uk_UA.po | 
+ | [oc](/f15/language/oc) | 5976 | 9102 | 65.7 | /mnt/stockage/packages/f15/filezilla/locales/oc.po | 
+ | [lv](/f15/language/lv) | 5124 | 9145 | 56.0 | /mnt/stockage/packages/f15/filezilla/locales/lv_LV.po | 
+ | [gl](/f15/language/gl) | 4629 | 9102 | 50.9 | /mnt/stockage/packages/f15/filezilla/locales/gl_ES.po | 
+ | [mk](/f15/language/mk) | 4595 | 9102 | 50.5 | /mnt/stockage/packages/f15/filezilla/locales/mk_MK.po | 
+ | [ne](/f15/language/ne) | 3324 | 9102 | 36.5 | /mnt/stockage/packages/f15/filezilla/locales/ne.po | 
+ | [is](/f15/language/is) | 2101 | 9190 | 22.9 | /mnt/stockage/packages/f15/filezilla/locales/is.po | 
+ | [eu](/f15/language/eu) | 1609 | 9102 | 17.7 | /mnt/stockage/packages/f15/filezilla/locales/eu_ES.po | 
+ | [ka](/f15/language/ka) | 1237 | 9102 | 13.6 | /mnt/stockage/packages/f15/filezilla/locales/ka.po | 
+ | [ku](/f15/language/ku) | 895 | 9102 | 9.8 | /mnt/stockage/packages/f15/filezilla/locales/ku.po | 
+ | [th](/f15/language/th) | 852 | 9102 | 9.4 | /mnt/stockage/packages/f15/filezilla/locales/th_TH.po | 
+ | [km](/f15/language/km) | 85 | 9102 | 0.9 | /mnt/stockage/packages/f15/filezilla/locales/km_KH.po | 
 {.sortable}
 
 

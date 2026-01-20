@@ -18,63 +18,63 @@ The package sugar-connect (version 22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ar.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/bg.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ca.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/el.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/es.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/fa.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/fr.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/is.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/it.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/mk.po | 
- | [mn]({{< ref "/f20/language/mn.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/mn.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/mr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/nl.po | 
- | [pap]({{< ref "/f20/language/pap.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/pap.po | 
- | [prs]({{< ref "/f20/language/prs.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/fa_AF.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ps.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/pt_BR.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ro.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ru.po | 
- | [rw]({{< ref "/f20/language/rw.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/rw.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/sl.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/te.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/th.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/zh_TW.po | 
- | [ne]({{< ref "/f20/language/ne.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f20/sugar-connect/po/ne.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f20/sugar-connect/po/ur.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 25 | 31 | 80.6 | /mnt/stockage/packages/f20/sugar-connect/po/bn_IN.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 19 | 31 | 61.3 | /mnt/stockage/packages/f20/sugar-connect/po/hi.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 12 | 31 | 38.7 | /mnt/stockage/packages/f20/sugar-connect/po/bn.po | 
- | [error]({{< ref "/f20/language/error.md" >}}) | 31 | 103 | 30.1 | /mnt/stockage/packages/f20/sugar-connect/po/pis.po/mnt/stockage/packages/f20/sugar-connect/po/pseudo.po/mnt/stockage/packages/f20/sugar-connect/po/mvo.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1 | 31 | 3.2 | /mnt/stockage/packages/f20/sugar-connect/po/tr.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/af.po | 
- | [am]({{< ref "/f20/language/am.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/am.po | 
- | [ay]({{< ref "/f20/language/ay.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ay.po | 
- | [dz]({{< ref "/f20/language/dz.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/dz.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/en.po | 
- | [ff]({{< ref "/f20/language/ff.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ff.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/gu.po | 
- | [ha]({{< ref "/f20/language/ha.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ha.po | 
- | [ht]({{< ref "/f20/language/ht.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ht.po | 
- | [ig]({{< ref "/f20/language/ig.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ig.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ja.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/km.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ko.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ml.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/nb.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/pa.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/pl.po | 
- | [qu]({{< ref "/f20/language/qu.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/qu.po | 
- | [sd]({{< ref "/f20/language/sd.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/sd.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/si.po | 
- | [tpi]({{< ref "/f20/language/tpi.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/tpi.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/vi.po | 
- | [yo]({{< ref "/f20/language/yo.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/yo.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/zh_CN.po | 
+ | [ar](/f20/language/ar) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ar.po | 
+ | [bg](/f20/language/bg) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/bg.po | 
+ | [ca](/f20/language/ca) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ca.po | 
+ | [de](/f20/language/de) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/de.po | 
+ | [el](/f20/language/el) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/el.po | 
+ | [es](/f20/language/es) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/es.po | 
+ | [fa](/f20/language/fa) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/fa.po | 
+ | [fr](/f20/language/fr) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/fr.po | 
+ | [is](/f20/language/is) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/is.po | 
+ | [it](/f20/language/it) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/it.po | 
+ | [mk](/f20/language/mk) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/mk.po | 
+ | [mn](/f20/language/mn) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/mn.po | 
+ | [mr](/f20/language/mr) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/mr.po | 
+ | [nl](/f20/language/nl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/nl.po | 
+ | [pap](/f20/language/pap) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/pap.po | 
+ | [prs](/f20/language/prs) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/fa_AF.po | 
+ | [ps](/f20/language/ps) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ps.po | 
+ | [pt](/f20/language/pt) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/pt_BR.po | 
+ | [ro](/f20/language/ro) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ro.po | 
+ | [ru](/f20/language/ru) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/ru.po | 
+ | [rw](/f20/language/rw) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/rw.po | 
+ | [sl](/f20/language/sl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/sl.po | 
+ | [te](/f20/language/te) | 36 | 36 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/te.po | 
+ | [th](/f20/language/th) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/th.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 31 | 31 | 100.0 | /mnt/stockage/packages/f20/sugar-connect/po/zh_TW.po | 
+ | [ne](/f20/language/ne) | 31 | 36 | 86.1 | /mnt/stockage/packages/f20/sugar-connect/po/ne.po | 
+ | [ur](/f20/language/ur) | 31 | 36 | 86.1 | /mnt/stockage/packages/f20/sugar-connect/po/ur.po | 
+ | [bn_IN](/f20/language/bn_IN) | 25 | 31 | 80.6 | /mnt/stockage/packages/f20/sugar-connect/po/bn_IN.po | 
+ | [hi](/f20/language/hi) | 19 | 31 | 61.3 | /mnt/stockage/packages/f20/sugar-connect/po/hi.po | 
+ | [bn](/f20/language/bn) | 12 | 31 | 38.7 | /mnt/stockage/packages/f20/sugar-connect/po/bn.po | 
+ | [error](/f20/language/error) | 31 | 103 | 30.1 | /mnt/stockage/packages/f20/sugar-connect/po/pis.po/mnt/stockage/packages/f20/sugar-connect/po/pseudo.po/mnt/stockage/packages/f20/sugar-connect/po/mvo.po | 
+ | [tr](/f20/language/tr) | 1 | 31 | 3.2 | /mnt/stockage/packages/f20/sugar-connect/po/tr.po | 
+ | [af](/f20/language/af) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/af.po | 
+ | [am](/f20/language/am) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/am.po | 
+ | [ay](/f20/language/ay) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ay.po | 
+ | [dz](/f20/language/dz) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/dz.po | 
+ | [en](/f20/language/en) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/en.po | 
+ | [ff](/f20/language/ff) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ff.po | 
+ | [gu](/f20/language/gu) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/gu.po | 
+ | [ha](/f20/language/ha) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ha.po | 
+ | [ht](/f20/language/ht) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ht.po | 
+ | [ig](/f20/language/ig) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ig.po | 
+ | [ja](/f20/language/ja) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ja.po | 
+ | [km](/f20/language/km) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/km.po | 
+ | [ko](/f20/language/ko) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ko.po | 
+ | [ml](/f20/language/ml) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/ml.po | 
+ | [nb_NO](/f20/language/nb_NO) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/nb.po | 
+ | [pa](/f20/language/pa) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/pa.po | 
+ | [pl](/f20/language/pl) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/pl.po | 
+ | [qu](/f20/language/qu) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/qu.po | 
+ | [sd](/f20/language/sd) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/sd.po | 
+ | [si](/f20/language/si) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/si.po | 
+ | [tpi](/f20/language/tpi) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/tpi.po | 
+ | [vi](/f20/language/vi) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/vi.po | 
+ | [yo](/f20/language/yo) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/yo.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 0 | 31 | 0.0 | /mnt/stockage/packages/f20/sugar-connect/po/zh_CN.po | 
 {.sortable}
 
 

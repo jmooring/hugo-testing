@@ -18,37 +18,37 @@ The package marlin (version 0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 1446 | 1446 | 100.0 | /mnt/stockage/packages/f11/marlin/po/dz.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 1446 | 1446 | 100.0 | /mnt/stockage/packages/f11/marlin/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1509 | 1509 | 100.0 | /mnt/stockage/packages/f11/marlin/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/marlin/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1509 | 1509 | 100.0 | /mnt/stockage/packages/f11/marlin/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/marlin/po/it.po | 
- | [ne]({{< ref "/f11/language/ne.md" >}}) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/marlin/po/ne.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 1509 | 1509 | 100.0 | /mnt/stockage/packages/f11/marlin/po/pt_BR.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 1409 | 1452 | 97.0 | /mnt/stockage/packages/f11/marlin/po/vi.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 1369 | 1452 | 94.3 | /mnt/stockage/packages/f11/marlin/po/en_CA.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 1291 | 1452 | 88.9 | /mnt/stockage/packages/f11/marlin/po/uk.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 1291 | 1452 | 88.9 | /mnt/stockage/packages/f11/marlin/po/zh_TW.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1332 | 1508 | 88.3 | /mnt/stockage/packages/f11/marlin/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1099 | 1452 | 75.7 | /mnt/stockage/packages/f11/marlin/po/de.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1099 | 1452 | 75.7 | /mnt/stockage/packages/f11/marlin/po/nl.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 946 | 1452 | 65.2 | /mnt/stockage/packages/f11/marlin/po/ca.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 830 | 1508 | 55.0 | /mnt/stockage/packages/f11/marlin/po/sv.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 740 | 1508 | 49.1 | /mnt/stockage/packages/f11/marlin/po/nb.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 679 | 1452 | 46.8 | /mnt/stockage/packages/f11/marlin/po/zh_CN.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 672 | 1452 | 46.3 | /mnt/stockage/packages/f11/marlin/po/sr@Latn.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 672 | 1452 | 46.3 | /mnt/stockage/packages/f11/marlin/po/sr.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 659 | 1452 | 45.4 | /mnt/stockage/packages/f11/marlin/po/el.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 656 | 1452 | 45.2 | /mnt/stockage/packages/f11/marlin/po/pt.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 572 | 1452 | 39.4 | /mnt/stockage/packages/f11/marlin/po/ko.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 295 | 1508 | 19.6 | /mnt/stockage/packages/f11/marlin/po/oc.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 241 | 1452 | 16.6 | /mnt/stockage/packages/f11/marlin/po/hr.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 189 | 1452 | 13.0 | /mnt/stockage/packages/f11/marlin/po/pa.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 109 | 1508 | 7.2 | /mnt/stockage/packages/f11/marlin/po/ar.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 63 | 1452 | 4.3 | /mnt/stockage/packages/f11/marlin/po/ga.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 55 | 1452 | 3.8 | /mnt/stockage/packages/f11/marlin/po/rw.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 0 | 1452 | 0.0 | /mnt/stockage/packages/f11/marlin/po/tr.po | 
+ | [dz](/f11/language/dz) | 1446 | 1446 | 100.0 | /mnt/stockage/packages/f11/marlin/po/dz.po | 
+ | [en_GB](/f11/language/en_GB) | 1446 | 1446 | 100.0 | /mnt/stockage/packages/f11/marlin/po/en_GB.po | 
+ | [es](/f11/language/es) | 1509 | 1509 | 100.0 | /mnt/stockage/packages/f11/marlin/po/es.po | 
+ | [fi](/f11/language/fi) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/marlin/po/fi.po | 
+ | [fr](/f11/language/fr) | 1509 | 1509 | 100.0 | /mnt/stockage/packages/f11/marlin/po/fr.po | 
+ | [it](/f11/language/it) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/marlin/po/it.po | 
+ | [ne](/f11/language/ne) | 1508 | 1508 | 100.0 | /mnt/stockage/packages/f11/marlin/po/ne.po | 
+ | [pt_BR](/f11/language/pt_BR) | 1509 | 1509 | 100.0 | /mnt/stockage/packages/f11/marlin/po/pt_BR.po | 
+ | [vi](/f11/language/vi) | 1409 | 1452 | 97.0 | /mnt/stockage/packages/f11/marlin/po/vi.po | 
+ | [en_CA](/f11/language/en_CA) | 1369 | 1452 | 94.3 | /mnt/stockage/packages/f11/marlin/po/en_CA.po | 
+ | [uk](/f11/language/uk) | 1291 | 1452 | 88.9 | /mnt/stockage/packages/f11/marlin/po/uk.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 1291 | 1452 | 88.9 | /mnt/stockage/packages/f11/marlin/po/zh_TW.po | 
+ | [cs](/f11/language/cs) | 1332 | 1508 | 88.3 | /mnt/stockage/packages/f11/marlin/po/cs.po | 
+ | [de](/f11/language/de) | 1099 | 1452 | 75.7 | /mnt/stockage/packages/f11/marlin/po/de.po | 
+ | [nl](/f11/language/nl) | 1099 | 1452 | 75.7 | /mnt/stockage/packages/f11/marlin/po/nl.po | 
+ | [ca](/f11/language/ca) | 946 | 1452 | 65.2 | /mnt/stockage/packages/f11/marlin/po/ca.po | 
+ | [sv](/f11/language/sv) | 830 | 1508 | 55.0 | /mnt/stockage/packages/f11/marlin/po/sv.po | 
+ | [nb_NO](/f11/language/nb_NO) | 740 | 1508 | 49.1 | /mnt/stockage/packages/f11/marlin/po/nb.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 679 | 1452 | 46.8 | /mnt/stockage/packages/f11/marlin/po/zh_CN.po | 
+ | [error](/f11/language/error) | 672 | 1452 | 46.3 | /mnt/stockage/packages/f11/marlin/po/sr@Latn.po | 
+ | [sr](/f11/language/sr) | 672 | 1452 | 46.3 | /mnt/stockage/packages/f11/marlin/po/sr.po | 
+ | [el](/f11/language/el) | 659 | 1452 | 45.4 | /mnt/stockage/packages/f11/marlin/po/el.po | 
+ | [pt](/f11/language/pt) | 656 | 1452 | 45.2 | /mnt/stockage/packages/f11/marlin/po/pt.po | 
+ | [ko](/f11/language/ko) | 572 | 1452 | 39.4 | /mnt/stockage/packages/f11/marlin/po/ko.po | 
+ | [oc](/f11/language/oc) | 295 | 1508 | 19.6 | /mnt/stockage/packages/f11/marlin/po/oc.po | 
+ | [hr](/f11/language/hr) | 241 | 1452 | 16.6 | /mnt/stockage/packages/f11/marlin/po/hr.po | 
+ | [pa](/f11/language/pa) | 189 | 1452 | 13.0 | /mnt/stockage/packages/f11/marlin/po/pa.po | 
+ | [ar](/f11/language/ar) | 109 | 1508 | 7.2 | /mnt/stockage/packages/f11/marlin/po/ar.po | 
+ | [ga](/f11/language/ga) | 63 | 1452 | 4.3 | /mnt/stockage/packages/f11/marlin/po/ga.po | 
+ | [rw](/f11/language/rw) | 55 | 1452 | 3.8 | /mnt/stockage/packages/f11/marlin/po/rw.po | 
+ | [tr](/f11/language/tr) | 0 | 1452 | 0.0 | /mnt/stockage/packages/f11/marlin/po/tr.po | 
 {.sortable}
 
 

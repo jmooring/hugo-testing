@@ -18,36 +18,36 @@ The package gcab (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f35/gcab/po/eu.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/fur.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/gl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/id.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/lv.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f35/gcab/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 254 | 254 | 100.0 | /mnt/stockage/packages/f35/gcab/po/sr@latin.po/mnt/stockage/packages/f35/gcab/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/sv.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f35/gcab/po/tg.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/tr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/zh_CN.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 101 | 127 | 79.5 | /mnt/stockage/packages/f35/gcab/po/fi.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 76 | 154 | 49.4 | /mnt/stockage/packages/f35/gcab/po/nb.po | 
+ | [bs](/f35/language/bs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/bs.po | 
+ | [cs](/f35/language/cs) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/cs.po | 
+ | [da](/f35/language/da) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/da.po | 
+ | [de](/f35/language/de) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/de.po | 
+ | [el](/f35/language/el) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/en_GB.po | 
+ | [es](/f35/language/es) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/es.po | 
+ | [eu](/f35/language/eu) | 159 | 159 | 100.0 | /mnt/stockage/packages/f35/gcab/po/eu.po | 
+ | [fr](/f35/language/fr) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/fr.po | 
+ | [fur](/f35/language/fur) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/fur.po | 
+ | [gl](/f35/language/gl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/gl.po | 
+ | [hu](/f35/language/hu) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/hu.po | 
+ | [id](/f35/language/id) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/id.po | 
+ | [lt](/f35/language/lt) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/lt.po | 
+ | [lv](/f35/language/lv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/lv.po | 
+ | [nl](/f35/language/nl) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/nl.po | 
+ | [oc](/f35/language/oc) | 159 | 159 | 100.0 | /mnt/stockage/packages/f35/gcab/po/oc.po | 
+ | [pl](/f35/language/pl) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/pl.po | 
+ | [pt](/f35/language/pt) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/ro.po | 
+ | [ru](/f35/language/ru) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/ru.po | 
+ | [sl](/f35/language/sl) | 162 | 162 | 100.0 | /mnt/stockage/packages/f35/gcab/po/sl.po | 
+ | [sr](/f35/language/sr) | 254 | 254 | 100.0 | /mnt/stockage/packages/f35/gcab/po/sr@latin.po/mnt/stockage/packages/f35/gcab/po/sr.po | 
+ | [sv](/f35/language/sv) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/sv.po | 
+ | [tg](/f35/language/tg) | 152 | 152 | 100.0 | /mnt/stockage/packages/f35/gcab/po/tg.po | 
+ | [tr](/f35/language/tr) | 127 | 127 | 100.0 | /mnt/stockage/packages/f35/gcab/po/tr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/gcab/po/zh_CN.po | 
+ | [fi](/f35/language/fi) | 101 | 127 | 79.5 | /mnt/stockage/packages/f35/gcab/po/fi.po | 
+ | [nb_NO](/f35/language/nb_NO) | 76 | 154 | 49.4 | /mnt/stockage/packages/f35/gcab/po/nb.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 168400 | 168400 | 100.0 | Lower Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/dsb/> | 
- | [python-django]({{< ref "/f37/package/python-django.md" >}}) | 3804 | 3804 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
- | [python-django3]({{< ref "/f37/package/python-django3.md" >}}) | 3804 | 3804 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [libreoffice](/f37/package/libreoffice) | 168400 | 168400 | 100.0 | Lower Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/dsb/> | 
+ | [python-django](/f37/package/python-django) | 3804 | 3804 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [python-django3](/f37/package/python-django3) | 3804 | 3804 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
 {.sortable}
 
 

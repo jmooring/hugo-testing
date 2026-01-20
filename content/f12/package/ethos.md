@@ -18,8 +18,8 @@ The package ethos (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/ethos/po/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/ethos/po/fr.po | 
+ | [de](/f12/language/de) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/ethos/po/de.po | 
+ | [fr](/f12/language/fr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/ethos/po/fr.po | 
 {.sortable}
 
 

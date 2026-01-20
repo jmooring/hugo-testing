@@ -18,17 +18,17 @@ The package nmap (version 7.40):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/fr.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/hi.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/it.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 3523 | 3523 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/zh.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 3521 | 3522 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/pl.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 3393 | 3518 | 96.4 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/ja.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1860 | 3518 | 52.9 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/ru.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 1053 | 3518 | 29.9 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/hr.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 165 | 3518 | 4.7 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
+ | [de](/f24/language/de) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/de.po | 
+ | [es](/f24/language/es) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/es.po | 
+ | [fr](/f24/language/fr) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/fr.po | 
+ | [hi](/f24/language/hi) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/hi.po | 
+ | [it](/f24/language/it) | 3518 | 3518 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/it.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 3523 | 3523 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/zh.po | 
+ | [pl](/f24/language/pl) | 3521 | 3522 | 100.0 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/pl.po | 
+ | [ja](/f24/language/ja) | 3393 | 3518 | 96.4 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/ja.po | 
+ | [ru](/f24/language/ru) | 1860 | 3518 | 52.9 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/ru.po | 
+ | [hr](/f24/language/hr) | 1053 | 3518 | 29.9 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/hr.po | 
+ | [pt_BR](/f24/language/pt_BR) | 165 | 3518 | 4.7 | /mnt/stockage/packages/f24/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
 {.sortable}
 
 

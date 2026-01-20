@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 738 | 772 | 95.6 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [libreoffice]({{< ref "/f39/package/libreoffice.md" >}}) | 322774 | 747834 | 43.2 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f39/package/tuxpaint.md" >}}) | 570 | 3763 | 15.1 | English (South African) <en_za@li.org> | 
- | [cinnamon-translations]({{< ref "/f39/package/cinnamon-translations.md" >}}) | 4 | 7238 | 0.1 | English (South Africa) <en_ZA@li.org> | 
- | [elementary-calendar]({{< ref "/f39/package/elementary-calendar.md" >}}) | 0 | 652 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
+ | [iso-codes](/f39/package/iso-codes) | 738 | 772 | 95.6 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [libreoffice](/f39/package/libreoffice) | 322774 | 747834 | 43.2 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f39/package/tuxpaint) | 570 | 3763 | 15.1 | English (South African) <en_za@li.org> | 
+ | [cinnamon-translations](/f39/package/cinnamon-translations) | 4 | 7238 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [elementary-calendar](/f39/package/elementary-calendar) | 0 | 652 | 0.0 | none | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
 {.sortable}
 
 

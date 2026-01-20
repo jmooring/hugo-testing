@@ -18,76 +18,76 @@ The package kcolorchooser (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ar/kcolorchooser.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/az/kcolorchooser.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/be/kcolorchooser.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/bg/kcolorchooser.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ca/kcolorchooser.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ca@valencia/kcolorchooser.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/cs/kcolorchooser.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/da/kcolorchooser.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/de/kcolorchooser.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/el/kcolorchooser.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/en_GB/kcolorchooser.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/eo/kcolorchooser.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/es/kcolorchooser.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/et/kcolorchooser.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/eu/kcolorchooser.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/fi/kcolorchooser.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/fr/kcolorchooser.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/gl/kcolorchooser.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/he/kcolorchooser.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/hi/kcolorchooser.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/hu/kcolorchooser.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ia/kcolorchooser.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/is/kcolorchooser.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/it/kcolorchooser.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ka/kcolorchooser.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ko/kcolorchooser.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/lt/kcolorchooser.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/lv/kcolorchooser.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/nl/kcolorchooser.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/nn/kcolorchooser.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/pl/kcolorchooser.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/pt/kcolorchooser.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/pt_BR/kcolorchooser.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ro/kcolorchooser.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ru/kcolorchooser.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sa/kcolorchooser.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sk/kcolorchooser.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sl/kcolorchooser.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr/kcolorchooser.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr@ijekavian/kcolorchooser.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr@ijekavianlatin/kcolorchooser.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr@latin/kcolorchooser.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sv/kcolorchooser.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/tr/kcolorchooser.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/uk/kcolorchooser.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/vi/kcolorchooser.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/zh_CN/kcolorchooser.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/zh_TW/kcolorchooser.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 27 | 29 | 93.1 | /mnt/stockage/packages/f42/kcolorchooser/po/ta/kcolorchooser.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 26 | 29 | 89.7 | /mnt/stockage/packages/f42/kcolorchooser/po/pa/kcolorchooser.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f42/kcolorchooser/po/nb/kcolorchooser.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/bs/kcolorchooser.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ga/kcolorchooser.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/hne/kcolorchooser.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/hr/kcolorchooser.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ja/kcolorchooser.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/kk/kcolorchooser.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/km/kcolorchooser.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ku/kcolorchooser.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/mk/kcolorchooser.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/mr/kcolorchooser.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/nds/kcolorchooser.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/si/kcolorchooser.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/sq/kcolorchooser.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/th/kcolorchooser.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ug/kcolorchooser.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/wa/kcolorchooser.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 7 | 29 | 24.1 | /mnt/stockage/packages/f42/kcolorchooser/po/ast/kcolorchooser.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 6 | 29 | 20.7 | /mnt/stockage/packages/f42/kcolorchooser/po/oc/kcolorchooser.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 2 | 29 | 6.9 | /mnt/stockage/packages/f42/kcolorchooser/po/ml/kcolorchooser.po | 
+ | [ar](/f42/language/ar) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ar/kcolorchooser.po | 
+ | [az](/f42/language/az) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/az/kcolorchooser.po | 
+ | [be](/f42/language/be) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/be/kcolorchooser.po | 
+ | [bg](/f42/language/bg) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/bg/kcolorchooser.po | 
+ | [ca](/f42/language/ca) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ca/kcolorchooser.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ca@valencia/kcolorchooser.po | 
+ | [cs](/f42/language/cs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/cs/kcolorchooser.po | 
+ | [da](/f42/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/da/kcolorchooser.po | 
+ | [de](/f42/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/de/kcolorchooser.po | 
+ | [el](/f42/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/el/kcolorchooser.po | 
+ | [en_GB](/f42/language/en_GB) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/en_GB/kcolorchooser.po | 
+ | [eo](/f42/language/eo) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/eo/kcolorchooser.po | 
+ | [es](/f42/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/es/kcolorchooser.po | 
+ | [et](/f42/language/et) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/et/kcolorchooser.po | 
+ | [eu](/f42/language/eu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/eu/kcolorchooser.po | 
+ | [fi](/f42/language/fi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/fi/kcolorchooser.po | 
+ | [fr](/f42/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/fr/kcolorchooser.po | 
+ | [gl](/f42/language/gl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/gl/kcolorchooser.po | 
+ | [he](/f42/language/he) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/he/kcolorchooser.po | 
+ | [hi](/f42/language/hi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/hi/kcolorchooser.po | 
+ | [hu](/f42/language/hu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/hu/kcolorchooser.po | 
+ | [ia](/f42/language/ia) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ia/kcolorchooser.po | 
+ | [is](/f42/language/is) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/is/kcolorchooser.po | 
+ | [it](/f42/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/it/kcolorchooser.po | 
+ | [ka](/f42/language/ka) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ka/kcolorchooser.po | 
+ | [ko](/f42/language/ko) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ko/kcolorchooser.po | 
+ | [lt](/f42/language/lt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/lt/kcolorchooser.po | 
+ | [lv](/f42/language/lv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/lv/kcolorchooser.po | 
+ | [nl](/f42/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/nl/kcolorchooser.po | 
+ | [nn](/f42/language/nn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/nn/kcolorchooser.po | 
+ | [pl](/f42/language/pl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/pl/kcolorchooser.po | 
+ | [pt](/f42/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/pt/kcolorchooser.po | 
+ | [pt_BR](/f42/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/pt_BR/kcolorchooser.po | 
+ | [ro](/f42/language/ro) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ro/kcolorchooser.po | 
+ | [ru](/f42/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/ru/kcolorchooser.po | 
+ | [sa](/f42/language/sa) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sa/kcolorchooser.po | 
+ | [sk](/f42/language/sk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sk/kcolorchooser.po | 
+ | [sl](/f42/language/sl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sl/kcolorchooser.po | 
+ | [sr](/f42/language/sr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr/kcolorchooser.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr@ijekavian/kcolorchooser.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr@ijekavianlatin/kcolorchooser.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sr@latin/kcolorchooser.po | 
+ | [sv](/f42/language/sv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/sv/kcolorchooser.po | 
+ | [tr](/f42/language/tr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/tr/kcolorchooser.po | 
+ | [uk](/f42/language/uk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/uk/kcolorchooser.po | 
+ | [vi](/f42/language/vi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/vi/kcolorchooser.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/zh_CN/kcolorchooser.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 29 | 29 | 100.0 | /mnt/stockage/packages/f42/kcolorchooser/po/zh_TW/kcolorchooser.po | 
+ | [ta](/f42/language/ta) | 27 | 29 | 93.1 | /mnt/stockage/packages/f42/kcolorchooser/po/ta/kcolorchooser.po | 
+ | [pa](/f42/language/pa) | 26 | 29 | 89.7 | /mnt/stockage/packages/f42/kcolorchooser/po/pa/kcolorchooser.po | 
+ | [nb_NO](/f42/language/nb_NO) | 17 | 29 | 58.6 | /mnt/stockage/packages/f42/kcolorchooser/po/nb/kcolorchooser.po | 
+ | [bs](/f42/language/bs) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/bs/kcolorchooser.po | 
+ | [ga](/f42/language/ga) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ga/kcolorchooser.po | 
+ | [hne](/f42/language/hne) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/hne/kcolorchooser.po | 
+ | [hr](/f42/language/hr) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/hr/kcolorchooser.po | 
+ | [ja](/f42/language/ja) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ja/kcolorchooser.po | 
+ | [kk](/f42/language/kk) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/kk/kcolorchooser.po | 
+ | [km](/f42/language/km) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/km/kcolorchooser.po | 
+ | [ku](/f42/language/ku) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ku/kcolorchooser.po | 
+ | [mk](/f42/language/mk) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/mk/kcolorchooser.po | 
+ | [mr](/f42/language/mr) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/mr/kcolorchooser.po | 
+ | [nds](/f42/language/nds) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/nds/kcolorchooser.po | 
+ | [si](/f42/language/si) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/si/kcolorchooser.po | 
+ | [sq](/f42/language/sq) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/sq/kcolorchooser.po | 
+ | [th](/f42/language/th) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/th/kcolorchooser.po | 
+ | [ug](/f42/language/ug) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/ug/kcolorchooser.po | 
+ | [wa](/f42/language/wa) | 14 | 29 | 48.3 | /mnt/stockage/packages/f42/kcolorchooser/po/wa/kcolorchooser.po | 
+ | [ast](/f42/language/ast) | 7 | 29 | 24.1 | /mnt/stockage/packages/f42/kcolorchooser/po/ast/kcolorchooser.po | 
+ | [oc](/f42/language/oc) | 6 | 29 | 20.7 | /mnt/stockage/packages/f42/kcolorchooser/po/oc/kcolorchooser.po | 
+ | [ml](/f42/language/ml) | 2 | 29 | 6.9 | /mnt/stockage/packages/f42/kcolorchooser/po/ml/kcolorchooser.po | 
 {.sortable}
 
 

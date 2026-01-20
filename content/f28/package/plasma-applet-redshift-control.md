@@ -18,16 +18,16 @@ The package plasma-applet-redshift-control (version 1.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_fr.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr.po | 
- | [sr@ijekavian]({{< ref "/f28/language/sr@ijekavian.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr@ijekavian.po | 
- | [sr@ijekavian_Latn]({{< ref "/f28/language/sr@ijekavian_Latn.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr@ijekavianlatin.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr@latin.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_zh_TW.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 60 | 62 | 96.8 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_zh_CN.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 58 | 62 | 93.5 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_de.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 57 | 62 | 91.9 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_cs.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 0 | 62 | 0.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_en.po | 
+ | [fr](/f28/language/fr) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_fr.po | 
+ | [sr](/f28/language/sr) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr.po | 
+ | [sr@ijekavian](/f28/language/sr@ijekavian) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr@ijekavian.po | 
+ | [sr@ijekavian_Latn](/f28/language/sr@ijekavian_Latn) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr@ijekavianlatin.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_sr@latin.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 62 | 62 | 100.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_zh_TW.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 60 | 62 | 96.8 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_zh_CN.po | 
+ | [de](/f28/language/de) | 58 | 62 | 93.5 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_de.po | 
+ | [cs](/f28/language/cs) | 57 | 62 | 91.9 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_cs.po | 
+ | [en](/f28/language/en) | 0 | 62 | 0.0 | /mnt/stockage/packages/f28/plasma-applet-redshift-control/translations/po/plasma_applet_org.kde.redshiftControl_en.po | 
 {.sortable}
 
 

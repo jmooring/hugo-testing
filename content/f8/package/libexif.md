@@ -18,14 +18,14 @@ The package libexif (version 0.6.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 4983 | 5395 | 92.4 | /mnt/stockage/packages/f8/libexif/po/de.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 4746 | 5395 | 88.0 | /mnt/stockage/packages/f8/libexif/po/pl.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 4744 | 5395 | 87.9 | /mnt/stockage/packages/f8/libexif/po/vi.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 3411 | 5395 | 63.2 | /mnt/stockage/packages/f8/libexif/po/es.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 2547 | 5395 | 47.2 | /mnt/stockage/packages/f8/libexif/po/ru.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 2325 | 5395 | 43.1 | /mnt/stockage/packages/f8/libexif/po/cs.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 1564 | 5395 | 29.0 | /mnt/stockage/packages/f8/libexif/po/sk.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1373 | 5395 | 25.4 | /mnt/stockage/packages/f8/libexif/po/fr.po | 
+ | [de](/f8/language/de) | 4983 | 5395 | 92.4 | /mnt/stockage/packages/f8/libexif/po/de.po | 
+ | [pl](/f8/language/pl) | 4746 | 5395 | 88.0 | /mnt/stockage/packages/f8/libexif/po/pl.po | 
+ | [vi](/f8/language/vi) | 4744 | 5395 | 87.9 | /mnt/stockage/packages/f8/libexif/po/vi.po | 
+ | [es](/f8/language/es) | 3411 | 5395 | 63.2 | /mnt/stockage/packages/f8/libexif/po/es.po | 
+ | [ru](/f8/language/ru) | 2547 | 5395 | 47.2 | /mnt/stockage/packages/f8/libexif/po/ru.po | 
+ | [cs](/f8/language/cs) | 2325 | 5395 | 43.1 | /mnt/stockage/packages/f8/libexif/po/cs.po | 
+ | [sk](/f8/language/sk) | 1564 | 5395 | 29.0 | /mnt/stockage/packages/f8/libexif/po/sk.po | 
+ | [fr](/f8/language/fr) | 1373 | 5395 | 25.4 | /mnt/stockage/packages/f8/libexif/po/fr.po | 
 {.sortable}
 
 

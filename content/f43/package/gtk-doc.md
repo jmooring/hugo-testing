@@ -18,23 +18,23 @@ The package gtk-doc (version 1.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/de/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 11831 | 11831 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/el/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 6632 | 6632 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/en_GB/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/es/es.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/pt_BR/pt_BR.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/sv/sv.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 9787 | 11887 | 82.3 | /mnt/stockage/packages/f43/gtk-doc/help/manual/fr/fr.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 7331 | 12672 | 57.9 | /mnt/stockage/packages/f43/gtk-doc/help/manual/cs/cs.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 3873 | 7233 | 53.5 | /mnt/stockage/packages/f43/gtk-doc/help/manual/ta/ta.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 3028 | 7277 | 41.6 | /mnt/stockage/packages/f43/gtk-doc/help/manual/te/te.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 2707 | 7277 | 37.2 | /mnt/stockage/packages/f43/gtk-doc/help/manual/gu/gu.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 3412 | 10158 | 33.6 | /mnt/stockage/packages/f43/gtk-doc/help/manual/hu/hu.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 2325 | 10158 | 22.9 | /mnt/stockage/packages/f43/gtk-doc/help/manual/eu/eu.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1834 | 12672 | 14.5 | /mnt/stockage/packages/f43/gtk-doc/help/manual/zh_CN/zh_CN.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 948 | 7277 | 13.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/bn_IN/bn_IN.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 224 | 11166 | 2.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/gl/gl.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 25 | 7651 | 0.3 | /mnt/stockage/packages/f43/gtk-doc/help/manual/sl/sl.po | 
+ | [de](/f43/language/de) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/de/de.po | 
+ | [el](/f43/language/el) | 11831 | 11831 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/el/el.po | 
+ | [en_GB](/f43/language/en_GB) | 6632 | 6632 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/en_GB/en_GB.po | 
+ | [es](/f43/language/es) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/es/es.po | 
+ | [pt_BR](/f43/language/pt_BR) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/pt_BR/pt_BR.po | 
+ | [sv](/f43/language/sv) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/sv/sv.po | 
+ | [fr](/f43/language/fr) | 9787 | 11887 | 82.3 | /mnt/stockage/packages/f43/gtk-doc/help/manual/fr/fr.po | 
+ | [cs](/f43/language/cs) | 7331 | 12672 | 57.9 | /mnt/stockage/packages/f43/gtk-doc/help/manual/cs/cs.po | 
+ | [ta](/f43/language/ta) | 3873 | 7233 | 53.5 | /mnt/stockage/packages/f43/gtk-doc/help/manual/ta/ta.po | 
+ | [te](/f43/language/te) | 3028 | 7277 | 41.6 | /mnt/stockage/packages/f43/gtk-doc/help/manual/te/te.po | 
+ | [gu](/f43/language/gu) | 2707 | 7277 | 37.2 | /mnt/stockage/packages/f43/gtk-doc/help/manual/gu/gu.po | 
+ | [hu](/f43/language/hu) | 3412 | 10158 | 33.6 | /mnt/stockage/packages/f43/gtk-doc/help/manual/hu/hu.po | 
+ | [eu](/f43/language/eu) | 2325 | 10158 | 22.9 | /mnt/stockage/packages/f43/gtk-doc/help/manual/eu/eu.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1834 | 12672 | 14.5 | /mnt/stockage/packages/f43/gtk-doc/help/manual/zh_CN/zh_CN.po | 
+ | [bn_IN](/f43/language/bn_IN) | 948 | 7277 | 13.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/bn_IN/bn_IN.po | 
+ | [gl](/f43/language/gl) | 224 | 11166 | 2.0 | /mnt/stockage/packages/f43/gtk-doc/help/manual/gl/gl.po | 
+ | [sl](/f43/language/sl) | 25 | 7651 | 0.3 | /mnt/stockage/packages/f43/gtk-doc/help/manual/sl/sl.po | 
 {.sortable}
 
 

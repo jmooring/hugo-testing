@@ -18,16 +18,16 @@ The package gdbm (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/eo.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/fi.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/pt_BR.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/sr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/vi.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 301 | 699 | 43.1 | /mnt/stockage/packages/f22/gdbm/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 301 | 699 | 43.1 | /mnt/stockage/packages/f22/gdbm/po/fr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 301 | 699 | 43.1 | /mnt/stockage/packages/f22/gdbm/po/ja.po | 
+ | [eo](/f22/language/eo) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/eo.po | 
+ | [fi](/f22/language/fi) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/fi.po | 
+ | [pl](/f22/language/pl) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/pt_BR.po | 
+ | [sr](/f22/language/sr) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/sr.po | 
+ | [uk](/f22/language/uk) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/uk.po | 
+ | [vi](/f22/language/vi) | 663 | 699 | 94.8 | /mnt/stockage/packages/f22/gdbm/po/vi.po | 
+ | [de](/f22/language/de) | 301 | 699 | 43.1 | /mnt/stockage/packages/f22/gdbm/po/de.po | 
+ | [fr](/f22/language/fr) | 301 | 699 | 43.1 | /mnt/stockage/packages/f22/gdbm/po/fr.po | 
+ | [ja](/f22/language/ja) | 301 | 699 | 43.1 | /mnt/stockage/packages/f22/gdbm/po/ja.po | 
 {.sortable}
 
 

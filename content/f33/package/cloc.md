@@ -18,7 +18,7 @@ The package cloc (version 1.82):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_AU]({{< ref "/f33/language/en_AU.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f33/cloc/tests/inputs/en_AU.po | 
+ | [en_AU](/f33/language/en_AU) | 45 | 45 | 100.0 | /mnt/stockage/packages/f33/cloc/tests/inputs/en_AU.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package python-pydata-sphinx-theme (version 0.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/fr/LC_MESSAGES/sphinx.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 64 | 67 | 95.5 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ca/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 64 | 67 | 95.5 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 63 | 67 | 94.0 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ru/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f39/language/en.md" >}}) | 0 | 67 | 0.0 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [fr](/f39/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [ca](/f39/language/ca) | 64 | 67 | 95.5 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ca/LC_MESSAGES/sphinx.po | 
+ | [es](/f39/language/es) | 64 | 67 | 95.5 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [ru](/f39/language/ru) | 63 | 67 | 94.0 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [en](/f39/language/en) | 0 | 67 | 0.0 | /mnt/stockage/packages/f39/python-pydata-sphinx-theme/src/pydata_sphinx_theme/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

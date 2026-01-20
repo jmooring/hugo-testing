@@ -18,27 +18,27 @@ The package startdde (version 5.9.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f38/language/az.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/az.po | 
- | [bo]({{< ref "/f38/language/bo.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/bo.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/cs.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/es.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/fi.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/hu.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/pt_BR.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/sl.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/sq.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/sr.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/tr.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/ug.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/zh_HK.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 16 | 24 | 66.7 | /mnt/stockage/packages/f38/startdde/misc/po/hr.po | 
+ | [az](/f38/language/az) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/az.po | 
+ | [bo](/f38/language/bo) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/bo.po | 
+ | [ca](/f38/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/ca.po | 
+ | [cs](/f38/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/cs.po | 
+ | [es](/f38/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/es.po | 
+ | [fi](/f38/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/fi.po | 
+ | [hu](/f38/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/hu.po | 
+ | [nl](/f38/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/nl.po | 
+ | [pl](/f38/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/pl.po | 
+ | [pt](/f38/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/pt_BR.po | 
+ | [sl](/f38/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/sl.po | 
+ | [sq](/f38/language/sq) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/sq.po | 
+ | [sr](/f38/language/sr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/sr.po | 
+ | [tr](/f38/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/tr.po | 
+ | [ug](/f38/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/ug.po | 
+ | [uk](/f38/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/startdde/misc/po/zh_HK.po | 
+ | [hr](/f38/language/hr) | 16 | 24 | 66.7 | /mnt/stockage/packages/f38/startdde/misc/po/hr.po | 
 {.sortable}
 
 

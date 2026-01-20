@@ -18,13 +18,13 @@ The package exiv2 (version 0.17.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 13588 | 15751 | 86.3 | /mnt/stockage/packages/f10/exiv2/po/de.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 9671 | 15751 | 61.4 | /mnt/stockage/packages/f10/exiv2/po/sk.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5250 | 15751 | 33.3 | /mnt/stockage/packages/f10/exiv2/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 4205 | 15751 | 26.7 | /mnt/stockage/packages/f10/exiv2/po/pl.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 3957 | 15751 | 25.1 | /mnt/stockage/packages/f10/exiv2/po/ru.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2214 | 15751 | 14.1 | /mnt/stockage/packages/f10/exiv2/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 40 | 15751 | 0.3 | /mnt/stockage/packages/f10/exiv2/po/fi.po | 
+ | [de](/f10/language/de) | 13588 | 15751 | 86.3 | /mnt/stockage/packages/f10/exiv2/po/de.po | 
+ | [sk](/f10/language/sk) | 9671 | 15751 | 61.4 | /mnt/stockage/packages/f10/exiv2/po/sk.po | 
+ | [fr](/f10/language/fr) | 5250 | 15751 | 33.3 | /mnt/stockage/packages/f10/exiv2/po/fr.po | 
+ | [pl](/f10/language/pl) | 4205 | 15751 | 26.7 | /mnt/stockage/packages/f10/exiv2/po/pl.po | 
+ | [ru](/f10/language/ru) | 3957 | 15751 | 25.1 | /mnt/stockage/packages/f10/exiv2/po/ru.po | 
+ | [es](/f10/language/es) | 2214 | 15751 | 14.1 | /mnt/stockage/packages/f10/exiv2/po/es.po | 
+ | [fi](/f10/language/fi) | 40 | 15751 | 0.3 | /mnt/stockage/packages/f10/exiv2/po/fi.po | 
 {.sortable}
 
 

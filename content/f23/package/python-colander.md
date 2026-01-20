@@ -18,19 +18,19 @@ The package python-colander (version 1.0b1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f23/language/it.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f23/python-colander/colander/locale/it/LC_MESSAGES/colander.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 138 | 161 | 85.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/ja/LC_MESSAGES/colander.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 138 | 161 | 85.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/pt/LC_MESSAGES/colander.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 138 | 161 | 85.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/pt_BR/LC_MESSAGES/colander.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/cs/LC_MESSAGES/colander.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/es/LC_MESSAGES/colander.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/fr/LC_MESSAGES/colander.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/nl/LC_MESSAGES/colander.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/sv/LC_MESSAGES/colander.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/zh/LC_MESSAGES/colander.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 123 | 161 | 76.4 | /mnt/stockage/packages/f23/python-colander/colander/locale/de_DE/LC_MESSAGES/colander.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 117 | 161 | 72.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/pl/LC_MESSAGES/colander.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 115 | 161 | 71.4 | /mnt/stockage/packages/f23/python-colander/colander/locale/ru/LC_MESSAGES/colander.po | 
+ | [it](/f23/language/it) | 161 | 161 | 100.0 | /mnt/stockage/packages/f23/python-colander/colander/locale/it/LC_MESSAGES/colander.po | 
+ | [ja](/f23/language/ja) | 138 | 161 | 85.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/ja/LC_MESSAGES/colander.po | 
+ | [pt](/f23/language/pt) | 138 | 161 | 85.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/pt/LC_MESSAGES/colander.po | 
+ | [pt_BR](/f23/language/pt_BR) | 138 | 161 | 85.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/pt_BR/LC_MESSAGES/colander.po | 
+ | [cs](/f23/language/cs) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/cs/LC_MESSAGES/colander.po | 
+ | [es](/f23/language/es) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/es/LC_MESSAGES/colander.po | 
+ | [fr](/f23/language/fr) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/fr/LC_MESSAGES/colander.po | 
+ | [nl](/f23/language/nl) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/nl/LC_MESSAGES/colander.po | 
+ | [sv](/f23/language/sv) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/sv/LC_MESSAGES/colander.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 130 | 161 | 80.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/zh/LC_MESSAGES/colander.po | 
+ | [de](/f23/language/de) | 123 | 161 | 76.4 | /mnt/stockage/packages/f23/python-colander/colander/locale/de_DE/LC_MESSAGES/colander.po | 
+ | [pl](/f23/language/pl) | 117 | 161 | 72.7 | /mnt/stockage/packages/f23/python-colander/colander/locale/pl/LC_MESSAGES/colander.po | 
+ | [ru](/f23/language/ru) | 115 | 161 | 71.4 | /mnt/stockage/packages/f23/python-colander/colander/locale/ru/LC_MESSAGES/colander.po | 
 {.sortable}
 
 

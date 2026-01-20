@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sequeler]({{< ref "/f37/package/sequeler.md" >}}) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xed]({{< ref "/f37/package/xed.md" >}}) | 3750 | 3759 | 99.8 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 166 | 172 | 96.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f37/package/lightdm-settings.md" >}}) | 308 | 324 | 95.1 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f37/package/xreader.md" >}}) | 1541 | 1623 | 94.9 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [timeshift]({{< ref "/f37/package/timeshift.md" >}}) | 2630 | 2870 | 91.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 21453 | 23487 | 91.3 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
- | [folder-color-switcher]({{< ref "/f37/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [sequeler](/f37/package/sequeler) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xed](/f37/package/xed) | 3750 | 3759 | 99.8 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [blueberry](/f37/package/blueberry) | 166 | 172 | 96.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f37/package/lightdm-settings) | 308 | 324 | 95.1 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [xreader](/f37/package/xreader) | 1541 | 1623 | 94.9 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [timeshift](/f37/package/timeshift) | 2630 | 2870 | 91.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 21453 | 23487 | 91.3 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [folder-color-switcher](/f37/package/folder-color-switcher) | 51 | 65 | 78.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
 {.sortable}
 
 

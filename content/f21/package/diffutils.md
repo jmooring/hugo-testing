@@ -18,37 +18,37 @@ The package diffutils (version 3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f21/language/da.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/da.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/fr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/pl.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/sv.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/vi.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1792 | 1800 | 99.6 | /mnt/stockage/packages/f21/diffutils/po/de.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1614 | 1800 | 89.7 | /mnt/stockage/packages/f21/diffutils/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 1614 | 1800 | 89.7 | /mnt/stockage/packages/f21/diffutils/po/ja.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 841 | 1800 | 46.7 | /mnt/stockage/packages/f21/diffutils/po/hr.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 656 | 1800 | 36.4 | /mnt/stockage/packages/f21/diffutils/po/cs.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 656 | 1800 | 36.4 | /mnt/stockage/packages/f21/diffutils/po/gl.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 656 | 1800 | 36.4 | /mnt/stockage/packages/f21/diffutils/po/lv.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 643 | 1800 | 35.7 | /mnt/stockage/packages/f21/diffutils/po/id.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 428 | 1800 | 23.8 | /mnt/stockage/packages/f21/diffutils/po/fi.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 428 | 1800 | 23.8 | /mnt/stockage/packages/f21/diffutils/po/sr.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 427 | 1800 | 23.7 | /mnt/stockage/packages/f21/diffutils/po/zh_TW.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ca.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/el.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/eo.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ga.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/hu.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ms.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ru.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 417 | 1800 | 23.2 | /mnt/stockage/packages/f21/diffutils/po/zh_CN.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 324 | 1800 | 18.0 | /mnt/stockage/packages/f21/diffutils/po/he.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 321 | 1800 | 17.8 | /mnt/stockage/packages/f21/diffutils/po/pt_BR.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 321 | 1800 | 17.8 | /mnt/stockage/packages/f21/diffutils/po/ro.po | 
+ | [da](/f21/language/da) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/da.po | 
+ | [es](/f21/language/es) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/es.po | 
+ | [fr](/f21/language/fr) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/fr.po | 
+ | [nl](/f21/language/nl) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/nl.po | 
+ | [pl](/f21/language/pl) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/pl.po | 
+ | [sv](/f21/language/sv) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/sv.po | 
+ | [tr](/f21/language/tr) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/tr.po | 
+ | [uk](/f21/language/uk) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/uk.po | 
+ | [vi](/f21/language/vi) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f21/diffutils/po/vi.po | 
+ | [de](/f21/language/de) | 1792 | 1800 | 99.6 | /mnt/stockage/packages/f21/diffutils/po/de.po | 
+ | [it](/f21/language/it) | 1614 | 1800 | 89.7 | /mnt/stockage/packages/f21/diffutils/po/it.po | 
+ | [ja](/f21/language/ja) | 1614 | 1800 | 89.7 | /mnt/stockage/packages/f21/diffutils/po/ja.po | 
+ | [hr](/f21/language/hr) | 841 | 1800 | 46.7 | /mnt/stockage/packages/f21/diffutils/po/hr.po | 
+ | [cs](/f21/language/cs) | 656 | 1800 | 36.4 | /mnt/stockage/packages/f21/diffutils/po/cs.po | 
+ | [gl](/f21/language/gl) | 656 | 1800 | 36.4 | /mnt/stockage/packages/f21/diffutils/po/gl.po | 
+ | [lv](/f21/language/lv) | 656 | 1800 | 36.4 | /mnt/stockage/packages/f21/diffutils/po/lv.po | 
+ | [id](/f21/language/id) | 643 | 1800 | 35.7 | /mnt/stockage/packages/f21/diffutils/po/id.po | 
+ | [fi](/f21/language/fi) | 428 | 1800 | 23.8 | /mnt/stockage/packages/f21/diffutils/po/fi.po | 
+ | [sr](/f21/language/sr) | 428 | 1800 | 23.8 | /mnt/stockage/packages/f21/diffutils/po/sr.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 427 | 1800 | 23.7 | /mnt/stockage/packages/f21/diffutils/po/zh_TW.po | 
+ | [ca](/f21/language/ca) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ca.po | 
+ | [el](/f21/language/el) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/el.po | 
+ | [eo](/f21/language/eo) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/eo.po | 
+ | [ga](/f21/language/ga) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ga.po | 
+ | [hu](/f21/language/hu) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/hu.po | 
+ | [ms](/f21/language/ms) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ms.po | 
+ | [ru](/f21/language/ru) | 421 | 1800 | 23.4 | /mnt/stockage/packages/f21/diffutils/po/ru.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 417 | 1800 | 23.2 | /mnt/stockage/packages/f21/diffutils/po/zh_CN.po | 
+ | [he](/f21/language/he) | 324 | 1800 | 18.0 | /mnt/stockage/packages/f21/diffutils/po/he.po | 
+ | [pt_BR](/f21/language/pt_BR) | 321 | 1800 | 17.8 | /mnt/stockage/packages/f21/diffutils/po/pt_BR.po | 
+ | [ro](/f21/language/ro) | 321 | 1800 | 17.8 | /mnt/stockage/packages/f21/diffutils/po/ro.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package gjots2 (version 3.1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tw]({{< ref "/f35/language/tw.md" >}}) | 938 | 953 | 98.4 | /mnt/stockage/packages/f35/gjots2/po/zh_TW.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 793 | 953 | 83.2 | /mnt/stockage/packages/f35/gjots2/po/fr.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 736 | 953 | 77.2 | /mnt/stockage/packages/f35/gjots2/po/es.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 731 | 953 | 76.7 | /mnt/stockage/packages/f35/gjots2/po/sl.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 729 | 953 | 76.5 | /mnt/stockage/packages/f35/gjots2/po/de_DE.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 722 | 953 | 75.8 | /mnt/stockage/packages/f35/gjots2/po/sv.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 715 | 953 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/cs.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 715 | 953 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/it.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 1430 | 1906 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/no.po/mnt/stockage/packages/f35/gjots2/po/nb.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 715 | 953 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/ru.po | 
- | [en_US]({{< ref "/f35/language/en_US.md" >}}) | 698 | 953 | 73.2 | /mnt/stockage/packages/f35/gjots2/po/en_US.po | 
+ | [tw](/f35/language/tw) | 938 | 953 | 98.4 | /mnt/stockage/packages/f35/gjots2/po/zh_TW.po | 
+ | [fr](/f35/language/fr) | 793 | 953 | 83.2 | /mnt/stockage/packages/f35/gjots2/po/fr.po | 
+ | [es](/f35/language/es) | 736 | 953 | 77.2 | /mnt/stockage/packages/f35/gjots2/po/es.po | 
+ | [sl](/f35/language/sl) | 731 | 953 | 76.7 | /mnt/stockage/packages/f35/gjots2/po/sl.po | 
+ | [de](/f35/language/de) | 729 | 953 | 76.5 | /mnt/stockage/packages/f35/gjots2/po/de_DE.po | 
+ | [sv](/f35/language/sv) | 722 | 953 | 75.8 | /mnt/stockage/packages/f35/gjots2/po/sv.po | 
+ | [cs](/f35/language/cs) | 715 | 953 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/cs.po | 
+ | [it](/f35/language/it) | 715 | 953 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/it.po | 
+ | [nb_NO](/f35/language/nb_NO) | 1430 | 1906 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/no.po/mnt/stockage/packages/f35/gjots2/po/nb.po | 
+ | [ru](/f35/language/ru) | 715 | 953 | 75.0 | /mnt/stockage/packages/f35/gjots2/po/ru.po | 
+ | [en_US](/f35/language/en_US) | 698 | 953 | 73.2 | /mnt/stockage/packages/f35/gjots2/po/en_US.po | 
 {.sortable}
 
 

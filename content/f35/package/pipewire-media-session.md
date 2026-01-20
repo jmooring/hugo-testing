@@ -18,56 +18,56 @@ The package pipewire-media-session (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/da.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/fi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/hr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/it.po | 
- | [my]({{< ref "/f35/language/my.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/my.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/nn.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/zh_CN.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/af.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/as.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/be.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/bn_IN.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ca.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 6 | 10 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/de_CH.po/mnt/stockage/packages/f35/pipewire-media-session/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/gl.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/gu.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/hi.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/hu.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/kk.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/kn.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/lt.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ml.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/mr.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/oc.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/or.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pa.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sk.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sr@latin.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/te.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/zh_TW.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 2 | 5 | 40.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/eo.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/bg.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/si.po | 
+ | [cs](/f35/language/cs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/cs.po | 
+ | [da](/f35/language/da) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/da.po | 
+ | [fi](/f35/language/fi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/fi.po | 
+ | [hr](/f35/language/hr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/hr.po | 
+ | [id](/f35/language/id) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/id.po | 
+ | [it](/f35/language/it) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/it.po | 
+ | [my](/f35/language/my) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/my.po | 
+ | [nl](/f35/language/nl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/nl.po | 
+ | [nn](/f35/language/nn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/nn.po | 
+ | [pl](/f35/language/pl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pl.po | 
+ | [pt](/f35/language/pt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ru.po | 
+ | [sv](/f35/language/sv) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sv.po | 
+ | [tr](/f35/language/tr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/tr.po | 
+ | [uk](/f35/language/uk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 5 | 5 | 100.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/zh_CN.po | 
+ | [af](/f35/language/af) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/af.po | 
+ | [as](/f35/language/as) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/as.po | 
+ | [be](/f35/language/be) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/be.po | 
+ | [bn_IN](/f35/language/bn_IN) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/bn_IN.po | 
+ | [ca](/f35/language/ca) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ca.po | 
+ | [de](/f35/language/de) | 6 | 10 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/de_CH.po/mnt/stockage/packages/f35/pipewire-media-session/po/de.po | 
+ | [el](/f35/language/el) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/el.po | 
+ | [es](/f35/language/es) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/es.po | 
+ | [fr](/f35/language/fr) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/fr.po | 
+ | [gl](/f35/language/gl) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/gl.po | 
+ | [gu](/f35/language/gu) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/gu.po | 
+ | [he](/f35/language/he) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/he.po | 
+ | [hi](/f35/language/hi) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/hi.po | 
+ | [hu](/f35/language/hu) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/hu.po | 
+ | [ja](/f35/language/ja) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ja.po | 
+ | [kk](/f35/language/kk) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/kk.po | 
+ | [kn](/f35/language/kn) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/kn.po | 
+ | [ko](/f35/language/ko) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ko.po | 
+ | [lt](/f35/language/lt) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/lt.po | 
+ | [ml](/f35/language/ml) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ml.po | 
+ | [mr](/f35/language/mr) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/mr.po | 
+ | [oc](/f35/language/oc) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/oc.po | 
+ | [or](/f35/language/or) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/or.po | 
+ | [pa](/f35/language/pa) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/pa.po | 
+ | [sk](/f35/language/sk) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sk.po | 
+ | [sr](/f35/language/sr) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/sr@latin.po | 
+ | [ta](/f35/language/ta) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/ta.po | 
+ | [te](/f35/language/te) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/te.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3 | 5 | 60.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/zh_TW.po | 
+ | [eo](/f35/language/eo) | 2 | 5 | 40.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/eo.po | 
+ | [bg](/f35/language/bg) | 0 | 5 | 0.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/bg.po | 
+ | [si](/f35/language/si) | 0 | 5 | 0.0 | /mnt/stockage/packages/f35/pipewire-media-session/po/si.po | 
 {.sortable}
 
 

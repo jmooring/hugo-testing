@@ -18,28 +18,28 @@ The package gnome-shell-extension-desktop-icons (version 19.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/de.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/fur.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/ja.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/ru.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/tr.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/zh_TW.po | 
+ | [ca](/f31/language/ca) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/ca.po | 
+ | [cs](/f31/language/cs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/cs.po | 
+ | [da](/f31/language/da) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/da.po | 
+ | [de](/f31/language/de) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/de.po | 
+ | [en_GB](/f31/language/en_GB) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/en_GB.po | 
+ | [es](/f31/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/es.po | 
+ | [eu](/f31/language/eu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/eu.po | 
+ | [fi](/f31/language/fi) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/fi.po | 
+ | [fr](/f31/language/fr) | 91 | 91 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/fr.po | 
+ | [fur](/f31/language/fur) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/fur.po | 
+ | [hr](/f31/language/hr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/hr.po | 
+ | [hu](/f31/language/hu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/hu.po | 
+ | [id](/f31/language/id) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/id.po | 
+ | [it](/f31/language/it) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/it.po | 
+ | [ja](/f31/language/ja) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/ja.po | 
+ | [nl](/f31/language/nl) | 133 | 133 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/nl.po | 
+ | [pl](/f31/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 86 | 86 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/ru.po | 
+ | [sv](/f31/language/sv) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/sv.po | 
+ | [tr](/f31/language/tr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/tr.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 80 | 80 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-desktop-icons/po/zh_TW.po | 
 {.sortable}
 
 

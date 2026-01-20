@@ -18,7 +18,7 @@ The package griv (version 0.1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 120 | 156 | 76.9 | /mnt/stockage/packages/f13/griv/po/pl.po | 
+ | [pl](/f13/language/pl) | 120 | 156 | 76.9 | /mnt/stockage/packages/f13/griv/po/pl.po | 
 {.sortable}
 
 

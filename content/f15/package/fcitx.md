@@ -18,9 +18,9 @@ The package fcitx (version 4.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f15/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 760 | 1402 | 54.2 | /mnt/stockage/packages/f15/fcitx/po/zh_TW.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 40 | 1402 | 2.9 | /mnt/stockage/packages/f15/fcitx/po/ja.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f15/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 760 | 1402 | 54.2 | /mnt/stockage/packages/f15/fcitx/po/zh_TW.po | 
+ | [ja](/f15/language/ja) | 40 | 1402 | 2.9 | /mnt/stockage/packages/f15/fcitx/po/ja.po | 
 {.sortable}
 
 

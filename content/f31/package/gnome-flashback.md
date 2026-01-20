@@ -18,32 +18,32 @@ The package gnome-flashback (version 3.34.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/bs.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1096 | 1096 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/el.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/eu.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/he.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 1096 | 1096 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/it.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/ru.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 2166 | 2166 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/sr.po/mnt/stockage/packages/f31/gnome-flashback/po/sr@latin.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 1096 | 1096 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 1134 | 1134 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/zh_TW.po/mnt/stockage/packages/f31/gnome-flashback/po/zh_HK.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 1015 | 1073 | 94.6 | /mnt/stockage/packages/f31/gnome-flashback/po/sk.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 980 | 1073 | 91.3 | /mnt/stockage/packages/f31/gnome-flashback/po/fur.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 398 | 1088 | 36.6 | /mnt/stockage/packages/f31/gnome-flashback/po/ca.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 289 | 1140 | 25.4 | /mnt/stockage/packages/f31/gnome-flashback/po/sl.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 100 | 906 | 11.0 | /mnt/stockage/packages/f31/gnome-flashback/po/nb.po | 
+ | [bs](/f31/language/bs) | 567 | 567 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/bs.po | 
+ | [cs](/f31/language/cs) | 1096 | 1096 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/cs.po | 
+ | [da](/f31/language/da) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/da.po | 
+ | [de](/f31/language/de) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/de.po | 
+ | [el](/f31/language/el) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/el.po | 
+ | [es](/f31/language/es) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/es.po | 
+ | [eu](/f31/language/eu) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/eu.po | 
+ | [he](/f31/language/he) | 814 | 814 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/he.po | 
+ | [hu](/f31/language/hu) | 1096 | 1096 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/hu.po | 
+ | [id](/f31/language/id) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/id.po | 
+ | [it](/f31/language/it) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/it.po | 
+ | [nl](/f31/language/nl) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/nl.po | 
+ | [pl](/f31/language/pl) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/pl.po | 
+ | [pt](/f31/language/pt) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/ru.po | 
+ | [sr](/f31/language/sr) | 2166 | 2166 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/sr.po/mnt/stockage/packages/f31/gnome-flashback/po/sr@latin.po | 
+ | [sv](/f31/language/sv) | 1097 | 1097 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/sv.po | 
+ | [tr](/f31/language/tr) | 1096 | 1096 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 1134 | 1134 | 100.0 | /mnt/stockage/packages/f31/gnome-flashback/po/zh_TW.po/mnt/stockage/packages/f31/gnome-flashback/po/zh_HK.po | 
+ | [sk](/f31/language/sk) | 1015 | 1073 | 94.6 | /mnt/stockage/packages/f31/gnome-flashback/po/sk.po | 
+ | [fur](/f31/language/fur) | 980 | 1073 | 91.3 | /mnt/stockage/packages/f31/gnome-flashback/po/fur.po | 
+ | [ca](/f31/language/ca) | 398 | 1088 | 36.6 | /mnt/stockage/packages/f31/gnome-flashback/po/ca.po | 
+ | [sl](/f31/language/sl) | 289 | 1140 | 25.4 | /mnt/stockage/packages/f31/gnome-flashback/po/sl.po | 
+ | [nb_NO](/f31/language/nb_NO) | 100 | 906 | 11.0 | /mnt/stockage/packages/f31/gnome-flashback/po/nb.po | 
 {.sortable}
 
 

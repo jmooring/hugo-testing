@@ -18,10 +18,10 @@ The package paperwork (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f30/paperwork/locale/fr.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 434 | 448 | 96.9 | /mnt/stockage/packages/f30/paperwork/locale/es.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 422 | 448 | 94.2 | /mnt/stockage/packages/f30/paperwork/locale/de.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 408 | 448 | 91.1 | /mnt/stockage/packages/f30/paperwork/locale/uk.po | 
+ | [fr](/f30/language/fr) | 475 | 475 | 100.0 | /mnt/stockage/packages/f30/paperwork/locale/fr.po | 
+ | [es](/f30/language/es) | 434 | 448 | 96.9 | /mnt/stockage/packages/f30/paperwork/locale/es.po | 
+ | [de](/f30/language/de) | 422 | 448 | 94.2 | /mnt/stockage/packages/f30/paperwork/locale/de.po | 
+ | [uk](/f30/language/uk) | 408 | 448 | 91.1 | /mnt/stockage/packages/f30/paperwork/locale/uk.po | 
 {.sortable}
 
 

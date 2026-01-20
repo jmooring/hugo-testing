@@ -18,11 +18,11 @@ The package mingw-hunspell (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f29/mingw-hunspell/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f29/mingw-hunspell/po/es.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f29/mingw-hunspell/po/tg.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 598 | 613 | 97.6 | /mnt/stockage/packages/f29/mingw-hunspell/po/hu.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 496 | 613 | 80.9 | /mnt/stockage/packages/f29/mingw-hunspell/po/it.po | 
+ | [de](/f29/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f29/mingw-hunspell/po/de.po | 
+ | [es](/f29/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f29/mingw-hunspell/po/es.po | 
+ | [tg](/f29/language/tg) | 613 | 613 | 100.0 | /mnt/stockage/packages/f29/mingw-hunspell/po/tg.po | 
+ | [hu](/f29/language/hu) | 598 | 613 | 97.6 | /mnt/stockage/packages/f29/mingw-hunspell/po/hu.po | 
+ | [it](/f29/language/it) | 496 | 613 | 80.9 | /mnt/stockage/packages/f29/mingw-hunspell/po/it.po | 
 {.sortable}
 
 

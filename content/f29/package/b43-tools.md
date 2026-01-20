@@ -18,18 +18,18 @@ The package b43-tools (version 019):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/fr.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/ja.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/pt.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/ru.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/sv.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 0 | 67 | 0.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/es.po | 
+ | [cs](/f29/language/cs) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/cs.po | 
+ | [da](/f29/language/da) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/da.po | 
+ | [de](/f29/language/de) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/de.po | 
+ | [fr](/f29/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/fr.po | 
+ | [id](/f29/language/id) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/id.po | 
+ | [it](/f29/language/it) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/it.po | 
+ | [ja](/f29/language/ja) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/ja.po | 
+ | [pl](/f29/language/pl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/pl.po | 
+ | [pt](/f29/language/pt) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/pt.po | 
+ | [ru](/f29/language/ru) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/ru.po | 
+ | [sv](/f29/language/sv) | 67 | 67 | 100.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/sv.po | 
+ | [es](/f29/language/es) | 0 | 67 | 0.0 | /mnt/stockage/packages/f29/b43-tools/fwcutter/debian/po/es.po | 
 {.sortable}
 
 

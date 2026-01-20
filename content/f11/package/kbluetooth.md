@@ -18,31 +18,31 @@ The package kbluetooth (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/da/kbluetooth.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/en_GB/kbluetooth.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/fr/kbluetooth.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/gl/kbluetooth.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/pt/kbluetooth.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/pt_BR/kbluetooth.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/sv/kbluetooth.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/uk/kbluetooth.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/zh_CN/kbluetooth.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 326 | 341 | 95.6 | /mnt/stockage/packages/f11/kbluetooth/po/ru/kbluetooth.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 326 | 341 | 95.6 | /mnt/stockage/packages/f11/kbluetooth/po/tr/kbluetooth.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 303 | 341 | 88.9 | /mnt/stockage/packages/f11/kbluetooth/po/ro/kbluetooth.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 301 | 341 | 88.3 | /mnt/stockage/packages/f11/kbluetooth/po/pa/kbluetooth.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 238 | 341 | 69.8 | /mnt/stockage/packages/f11/kbluetooth/po/es/kbluetooth.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 230 | 341 | 67.4 | /mnt/stockage/packages/f11/kbluetooth/po/de/kbluetooth.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 230 | 341 | 67.4 | /mnt/stockage/packages/f11/kbluetooth/po/et/kbluetooth.po | 
- | [km]({{< ref "/f11/language/km.md" >}}) | 230 | 341 | 67.4 | /mnt/stockage/packages/f11/kbluetooth/po/km/kbluetooth.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 216 | 341 | 63.3 | /mnt/stockage/packages/f11/kbluetooth/po/it/kbluetooth.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 56 | 341 | 16.4 | /mnt/stockage/packages/f11/kbluetooth/po/nl/kbluetooth.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 50 | 341 | 14.7 | /mnt/stockage/packages/f11/kbluetooth/po/ga/kbluetooth.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 43 | 341 | 12.6 | /mnt/stockage/packages/f11/kbluetooth/po/eo/kbluetooth.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 38 | 341 | 11.1 | /mnt/stockage/packages/f11/kbluetooth/po/cs/kbluetooth.po | 
- | [nds]({{< ref "/f11/language/nds.md" >}}) | 37 | 341 | 10.9 | /mnt/stockage/packages/f11/kbluetooth/po/nds/kbluetooth.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 24 | 341 | 7.0 | /mnt/stockage/packages/f11/kbluetooth/po/lt/kbluetooth.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 0 | 341 | 0.0 | /mnt/stockage/packages/f11/kbluetooth/po/zh_TW/kbluetooth.po | 
+ | [da](/f11/language/da) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/da/kbluetooth.po | 
+ | [en_GB](/f11/language/en_GB) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/en_GB/kbluetooth.po | 
+ | [fr](/f11/language/fr) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/fr/kbluetooth.po | 
+ | [gl](/f11/language/gl) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/gl/kbluetooth.po | 
+ | [pt](/f11/language/pt) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/pt/kbluetooth.po | 
+ | [pt_BR](/f11/language/pt_BR) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/pt_BR/kbluetooth.po | 
+ | [sv](/f11/language/sv) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/sv/kbluetooth.po | 
+ | [uk](/f11/language/uk) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/uk/kbluetooth.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 341 | 341 | 100.0 | /mnt/stockage/packages/f11/kbluetooth/po/zh_CN/kbluetooth.po | 
+ | [ru](/f11/language/ru) | 326 | 341 | 95.6 | /mnt/stockage/packages/f11/kbluetooth/po/ru/kbluetooth.po | 
+ | [tr](/f11/language/tr) | 326 | 341 | 95.6 | /mnt/stockage/packages/f11/kbluetooth/po/tr/kbluetooth.po | 
+ | [ro](/f11/language/ro) | 303 | 341 | 88.9 | /mnt/stockage/packages/f11/kbluetooth/po/ro/kbluetooth.po | 
+ | [pa](/f11/language/pa) | 301 | 341 | 88.3 | /mnt/stockage/packages/f11/kbluetooth/po/pa/kbluetooth.po | 
+ | [es](/f11/language/es) | 238 | 341 | 69.8 | /mnt/stockage/packages/f11/kbluetooth/po/es/kbluetooth.po | 
+ | [de](/f11/language/de) | 230 | 341 | 67.4 | /mnt/stockage/packages/f11/kbluetooth/po/de/kbluetooth.po | 
+ | [et](/f11/language/et) | 230 | 341 | 67.4 | /mnt/stockage/packages/f11/kbluetooth/po/et/kbluetooth.po | 
+ | [km](/f11/language/km) | 230 | 341 | 67.4 | /mnt/stockage/packages/f11/kbluetooth/po/km/kbluetooth.po | 
+ | [it](/f11/language/it) | 216 | 341 | 63.3 | /mnt/stockage/packages/f11/kbluetooth/po/it/kbluetooth.po | 
+ | [nl](/f11/language/nl) | 56 | 341 | 16.4 | /mnt/stockage/packages/f11/kbluetooth/po/nl/kbluetooth.po | 
+ | [ga](/f11/language/ga) | 50 | 341 | 14.7 | /mnt/stockage/packages/f11/kbluetooth/po/ga/kbluetooth.po | 
+ | [eo](/f11/language/eo) | 43 | 341 | 12.6 | /mnt/stockage/packages/f11/kbluetooth/po/eo/kbluetooth.po | 
+ | [cs](/f11/language/cs) | 38 | 341 | 11.1 | /mnt/stockage/packages/f11/kbluetooth/po/cs/kbluetooth.po | 
+ | [nds](/f11/language/nds) | 37 | 341 | 10.9 | /mnt/stockage/packages/f11/kbluetooth/po/nds/kbluetooth.po | 
+ | [lt](/f11/language/lt) | 24 | 341 | 7.0 | /mnt/stockage/packages/f11/kbluetooth/po/lt/kbluetooth.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 0 | 341 | 0.0 | /mnt/stockage/packages/f11/kbluetooth/po/zh_TW/kbluetooth.po | 
 {.sortable}
 
 

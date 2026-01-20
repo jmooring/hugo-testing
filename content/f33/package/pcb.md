@@ -18,11 +18,11 @@ The package pcb (version 4.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 6246 | 6544 | 95.4 | /mnt/stockage/packages/f33/pcb/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 4381 | 6544 | 66.9 | /mnt/stockage/packages/f33/pcb/po/ru.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2894 | 6544 | 44.2 | /mnt/stockage/packages/f33/pcb/po/nl.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 928 | 6544 | 14.2 | /mnt/stockage/packages/f33/pcb/po/fr.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 0 | 6544 | 0.0 | /mnt/stockage/packages/f33/pcb/po/de.po | 
+ | [pt_BR](/f33/language/pt_BR) | 6246 | 6544 | 95.4 | /mnt/stockage/packages/f33/pcb/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 4381 | 6544 | 66.9 | /mnt/stockage/packages/f33/pcb/po/ru.po | 
+ | [nl](/f33/language/nl) | 2894 | 6544 | 44.2 | /mnt/stockage/packages/f33/pcb/po/nl.po | 
+ | [fr](/f33/language/fr) | 928 | 6544 | 14.2 | /mnt/stockage/packages/f33/pcb/po/fr.po | 
+ | [de](/f33/language/de) | 0 | 6544 | 0.0 | /mnt/stockage/packages/f33/pcb/po/de.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package xfsprogs (version 5.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 20292 | 20292 | 100.0 | /mnt/stockage/packages/f35/xfsprogs/po/de.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 25837 | 25837 | 100.0 | /mnt/stockage/packages/f35/xfsprogs/po/pl.po | 
+ | [de](/f35/language/de) | 20292 | 20292 | 100.0 | /mnt/stockage/packages/f35/xfsprogs/po/de.po | 
+ | [pl](/f35/language/pl) | 25837 | 25837 | 100.0 | /mnt/stockage/packages/f35/xfsprogs/po/pl.po | 
 {.sortable}
 
 

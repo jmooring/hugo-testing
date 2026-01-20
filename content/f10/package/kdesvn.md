@@ -18,15 +18,15 @@ The package kdesvn (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 4093 | 4093 | 100.0 | /mnt/stockage/packages/f10/kdesvn/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 3870 | 4093 | 94.6 | /mnt/stockage/packages/f10/kdesvn/po/es.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 3854 | 4093 | 94.2 | /mnt/stockage/packages/f10/kdesvn/po/ro.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 3325 | 4093 | 81.2 | /mnt/stockage/packages/f10/kdesvn/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 3212 | 4093 | 78.5 | /mnt/stockage/packages/f10/kdesvn/po/ja.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 3129 | 4093 | 76.4 | /mnt/stockage/packages/f10/kdesvn/po/nl.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 927 | 4093 | 22.6 | /mnt/stockage/packages/f10/kdesvn/po/ru.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 881 | 4093 | 21.5 | /mnt/stockage/packages/f10/kdesvn/po/lt.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 673 | 3817 | 17.6 | /mnt/stockage/packages/f10/kdesvn/po/cs.po | 
+ | [de](/f10/language/de) | 4093 | 4093 | 100.0 | /mnt/stockage/packages/f10/kdesvn/po/de.po | 
+ | [es](/f10/language/es) | 3870 | 4093 | 94.6 | /mnt/stockage/packages/f10/kdesvn/po/es.po | 
+ | [ro](/f10/language/ro) | 3854 | 4093 | 94.2 | /mnt/stockage/packages/f10/kdesvn/po/ro.po | 
+ | [fr](/f10/language/fr) | 3325 | 4093 | 81.2 | /mnt/stockage/packages/f10/kdesvn/po/fr.po | 
+ | [ja](/f10/language/ja) | 3212 | 4093 | 78.5 | /mnt/stockage/packages/f10/kdesvn/po/ja.po | 
+ | [nl](/f10/language/nl) | 3129 | 4093 | 76.4 | /mnt/stockage/packages/f10/kdesvn/po/nl.po | 
+ | [ru](/f10/language/ru) | 927 | 4093 | 22.6 | /mnt/stockage/packages/f10/kdesvn/po/ru.po | 
+ | [lt](/f10/language/lt) | 881 | 4093 | 21.5 | /mnt/stockage/packages/f10/kdesvn/po/lt.po | 
+ | [cs](/f10/language/cs) | 673 | 3817 | 17.6 | /mnt/stockage/packages/f10/kdesvn/po/cs.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package volumeicon (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f30/volumeicon/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f30/volumeicon/po/fr.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f30/volumeicon/po/pl.po | 
+ | [de](/f30/language/de) | 54 | 54 | 100.0 | /mnt/stockage/packages/f30/volumeicon/po/de.po | 
+ | [fr](/f30/language/fr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f30/volumeicon/po/fr.po | 
+ | [pl](/f30/language/pl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f30/volumeicon/po/pl.po | 
 {.sortable}
 
 

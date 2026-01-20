@@ -18,52 +18,52 @@ The package mbox-importer (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ar/mboximporter.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/bg/mboximporter.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ca/mboximporter.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ca@valencia/mboximporter.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/cs/mboximporter.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/da/mboximporter.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/de/mboximporter.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/el/mboximporter.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/en_GB/mboximporter.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/es/mboximporter.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/eu/mboximporter.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/fi/mboximporter.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/fr/mboximporter.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/gl/mboximporter.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/hi/mboximporter.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/hu/mboximporter.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ia/mboximporter.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/it/mboximporter.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ka/mboximporter.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ko/mboximporter.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/nl/mboximporter.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/nn/mboximporter.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/pl/mboximporter.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/pt/mboximporter.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/pt_BR/mboximporter.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ro/mboximporter.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ru/mboximporter.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/sk/mboximporter.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/sl/mboximporter.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/sv/mboximporter.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/tr/mboximporter.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/uk/mboximporter.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 36 | 40 | 90.0 | /mnt/stockage/packages/f38/mbox-importer/po/et/mboximporter.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 36 | 40 | 90.0 | /mnt/stockage/packages/f38/mbox-importer/po/zh_CN/mboximporter.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr/mboximporter.po | 
- | [sr@ijekavian]({{< ref "/f38/language/sr@ijekavian.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr@ijekavian/mboximporter.po | 
- | [sr@ijekavian_Latn]({{< ref "/f38/language/sr@ijekavian_Latn.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr@ijekavianlatin/mboximporter.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr@latin/mboximporter.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/zh_TW/mboximporter.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/bs/mboximporter.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/kk/mboximporter.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/lt/mboximporter.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/nb/mboximporter.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/nds/mboximporter.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 12 | 40 | 30.0 | /mnt/stockage/packages/f38/mbox-importer/po/ug/mboximporter.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 40 | 0.0 | /mnt/stockage/packages/f38/mbox-importer/po/ja/mboximporter.po | 
+ | [ar](/f38/language/ar) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ar/mboximporter.po | 
+ | [bg](/f38/language/bg) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/bg/mboximporter.po | 
+ | [ca](/f38/language/ca) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ca/mboximporter.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ca@valencia/mboximporter.po | 
+ | [cs](/f38/language/cs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/cs/mboximporter.po | 
+ | [da](/f38/language/da) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/da/mboximporter.po | 
+ | [de](/f38/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/de/mboximporter.po | 
+ | [el](/f38/language/el) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/el/mboximporter.po | 
+ | [en_GB](/f38/language/en_GB) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/en_GB/mboximporter.po | 
+ | [es](/f38/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/es/mboximporter.po | 
+ | [eu](/f38/language/eu) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/eu/mboximporter.po | 
+ | [fi](/f38/language/fi) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/fi/mboximporter.po | 
+ | [fr](/f38/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/fr/mboximporter.po | 
+ | [gl](/f38/language/gl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/gl/mboximporter.po | 
+ | [hi](/f38/language/hi) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/hi/mboximporter.po | 
+ | [hu](/f38/language/hu) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/hu/mboximporter.po | 
+ | [ia](/f38/language/ia) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ia/mboximporter.po | 
+ | [it](/f38/language/it) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/it/mboximporter.po | 
+ | [ka](/f38/language/ka) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ka/mboximporter.po | 
+ | [ko](/f38/language/ko) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ko/mboximporter.po | 
+ | [nl](/f38/language/nl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/nl/mboximporter.po | 
+ | [nn](/f38/language/nn) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/nn/mboximporter.po | 
+ | [pl](/f38/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/pl/mboximporter.po | 
+ | [pt](/f38/language/pt) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/pt/mboximporter.po | 
+ | [pt_BR](/f38/language/pt_BR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/pt_BR/mboximporter.po | 
+ | [ro](/f38/language/ro) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ro/mboximporter.po | 
+ | [ru](/f38/language/ru) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/ru/mboximporter.po | 
+ | [sk](/f38/language/sk) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/sk/mboximporter.po | 
+ | [sl](/f38/language/sl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/sl/mboximporter.po | 
+ | [sv](/f38/language/sv) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/sv/mboximporter.po | 
+ | [tr](/f38/language/tr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/tr/mboximporter.po | 
+ | [uk](/f38/language/uk) | 40 | 40 | 100.0 | /mnt/stockage/packages/f38/mbox-importer/po/uk/mboximporter.po | 
+ | [et](/f38/language/et) | 36 | 40 | 90.0 | /mnt/stockage/packages/f38/mbox-importer/po/et/mboximporter.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 36 | 40 | 90.0 | /mnt/stockage/packages/f38/mbox-importer/po/zh_CN/mboximporter.po | 
+ | [sr](/f38/language/sr) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr/mboximporter.po | 
+ | [sr@ijekavian](/f38/language/sr@ijekavian) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr@ijekavian/mboximporter.po | 
+ | [sr@ijekavian_Latn](/f38/language/sr@ijekavian_Latn) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr@ijekavianlatin/mboximporter.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/sr@latin/mboximporter.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 33 | 40 | 82.5 | /mnt/stockage/packages/f38/mbox-importer/po/zh_TW/mboximporter.po | 
+ | [bs](/f38/language/bs) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/bs/mboximporter.po | 
+ | [kk](/f38/language/kk) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/kk/mboximporter.po | 
+ | [lt](/f38/language/lt) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/lt/mboximporter.po | 
+ | [nb_NO](/f38/language/nb_NO) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/nb/mboximporter.po | 
+ | [nds](/f38/language/nds) | 30 | 40 | 75.0 | /mnt/stockage/packages/f38/mbox-importer/po/nds/mboximporter.po | 
+ | [ug](/f38/language/ug) | 12 | 40 | 30.0 | /mnt/stockage/packages/f38/mbox-importer/po/ug/mboximporter.po | 
+ | [ja](/f38/language/ja) | 0 | 40 | 0.0 | /mnt/stockage/packages/f38/mbox-importer/po/ja/mboximporter.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package debhelper (version 11.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 16845 | 19818 | 85.0 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/de.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 16845 | 19818 | 85.0 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/pt.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 16751 | 19818 | 84.5 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/fr.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 12442 | 19818 | 62.8 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/ja.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 10948 | 19818 | 55.2 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/es.po | 
+ | [de](/f28/language/de) | 16845 | 19818 | 85.0 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/de.po | 
+ | [pt](/f28/language/pt) | 16845 | 19818 | 85.0 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/pt.po | 
+ | [fr](/f28/language/fr) | 16751 | 19818 | 84.5 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/fr.po | 
+ | [ja](/f28/language/ja) | 12442 | 19818 | 62.8 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/ja.po | 
+ | [es](/f28/language/es) | 10948 | 19818 | 55.2 | /mnt/stockage/packages/f28/debhelper/man/po4a/po/es.po | 
 {.sortable}
 
 

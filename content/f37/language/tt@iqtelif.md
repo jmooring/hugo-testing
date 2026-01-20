@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 1016 | 15905 | 6.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [iso-codes](/f37/package/iso-codes) | 1016 | 15905 | 6.4 | Tatarish <tatarish.l10n@gmail.com> | 
 {.sortable}
 
 

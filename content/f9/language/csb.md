@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [extragear-plasma]({{< ref "/f9/package/extragear-plasma.md" >}}) | 279 | 305 | 91.5 | Kashubian | 
- | [kmplayer]({{< ref "/f9/package/kmplayer.md" >}}) | 973 | 1251 | 77.8 | Kashubian | 
- | [Miro]({{< ref "/f9/package/Miro.md" >}}) | 69 | 3616 | 1.9 | Kashubian <csb@li.org> | 
+ | [extragear-plasma](/f9/package/extragear-plasma) | 279 | 305 | 91.5 | Kashubian | 
+ | [kmplayer](/f9/package/kmplayer) | 973 | 1251 | 77.8 | Kashubian | 
+ | [Miro](/f9/package/Miro) | 69 | 3616 | 1.9 | Kashubian <csb@li.org> | 
 {.sortable}
 
 

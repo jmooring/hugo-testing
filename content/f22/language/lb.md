@@ -38,60 +38,60 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [flaw]({{< ref "/f22/package/flaw.md" >}}) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 1404 | 1591 | 88.2 | LANGUAGE <LL@li.org> | 
- | [gnome-do]({{< ref "/f22/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
- | [kf5-kinit]({{< ref "/f22/package/kf5-kinit.md" >}}) | 99 | 134 | 73.9 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [geany]({{< ref "/f22/package/geany.md" >}}) | 4158 | 5973 | 69.6 | Letzebuergesch | 
- | [kf5-ktextwidgets]({{< ref "/f22/package/kf5-ktextwidgets.md" >}}) | 317 | 462 | 68.6 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [gwibber]({{< ref "/f22/package/gwibber.md" >}}) | 460 | 769 | 59.8 | Luxembourgish <lb@li.org> | 
- | [kf5-khtml]({{< ref "/f22/package/kf5-khtml.md" >}}) | 999 | 1723 | 58.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [lightdm]({{< ref "/f22/package/lightdm.md" >}}) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
- | [kf5-kparts]({{< ref "/f22/package/kf5-kparts.md" >}}) | 44 | 104 | 42.3 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [lightdm-gtk]({{< ref "/f22/package/lightdm-gtk.md" >}}) | 35 | 84 | 41.7 | Luxembourgish <lb@li.org> | 
- | [kde-cli-tools]({{< ref "/f22/package/kde-cli-tools.md" >}}) | 41 | 100 | 41.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f22/package/kf5-kconfigwidgets.md" >}}) | 111 | 317 | 35.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 753 | 2944 | 25.6 | Luxembourgish <lb@li.org> | 
- | [plasma-workspace]({{< ref "/f22/package/plasma-workspace.md" >}}) | 2 | 8 | 25.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f22/package/kf5-kxmlgui.md" >}}) | 345 | 1538 | 22.4 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f22/package/kf5-kdelibs4support.md" >}}) | 840 | 4813 | 17.5 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f22/package/kf5-knewstuff.md" >}}) | 95 | 673 | 14.1 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kservice]({{< ref "/f22/package/kf5-kservice.md" >}}) | 17 | 170 | 10.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f22/package/kf5-kdeclarative.md" >}}) | 10 | 109 | 9.2 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kross]({{< ref "/f22/package/kf5-kross.md" >}}) | 9 | 100 | 9.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f22/package/kf5-ktexteditor.md" >}}) | 730 | 8742 | 8.4 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [python-django]({{< ref "/f22/package/python-django.md" >}}) | 276 | 3327 | 8.3 | Luxembourgish (http://www.transifex.com/projects/p/django/language/lb/) | 
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 7848 | 98213 | 8.0 | LANGUAGE <LL@li.org> | 
- | [kf5-kcmutils]({{< ref "/f22/package/kf5-kcmutils.md" >}}) | 31 | 563 | 5.5 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [librfm]({{< ref "/f22/package/librfm.md" >}}) | 95 | 2397 | 4.0 | Luxembourgish | 
- | [isomaster]({{< ref "/f22/package/isomaster.md" >}}) | 17 | 674 | 2.5 | http://littlesvr.ca/ostd/ | 
- | [midori]({{< ref "/f22/package/midori.md" >}}) | 81 | 3541 | 2.3 | Luxembourgish <lb@li.org> | 
- | [asunder]({{< ref "/f22/package/asunder.md" >}}) | 6 | 480 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [deluge]({{< ref "/f22/package/deluge.md" >}}) | 26 | 2728 | 1.0 | Luxembourgish <lb@li.org> | 
- | [rodent]({{< ref "/f22/package/rodent.md" >}}) | 91 | 9634 | 0.9 | Luxembourgish | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 6 | 15962 | 0.0 | Luxembourgish <lb@li.org> | 
- | [feedreader]({{< ref "/f22/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
- | [kf5-kauth]({{< ref "/f22/package/kf5-kauth.md" >}}) | 0 | 58 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kcodecs]({{< ref "/f22/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kcompletion]({{< ref "/f22/package/kf5-kcompletion.md" >}}) | 0 | 20 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kconfig]({{< ref "/f22/package/kf5-kconfig.md" >}}) | 0 | 254 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f22/package/kf5-kcoreaddons.md" >}}) | 0 | 265 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f22/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f22/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f22/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-ki18n]({{< ref "/f22/package/kf5-ki18n.md" >}}) | 0 | 124 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kitemviews]({{< ref "/f22/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f22/package/kf5-kjobwidgets.md" >}}) | 0 | 141 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kjsembed]({{< ref "/f22/package/kf5-kjsembed.md" >}}) | 0 | 248 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-knotifications]({{< ref "/f22/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f22/package/kf5-knotifyconfig.md" >}}) | 0 | 129 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kpty]({{< ref "/f22/package/kf5-kpty.md" >}}) | 0 | 15 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f22/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1261 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f22/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [kf5-sonnet]({{< ref "/f22/package/kf5-sonnet.md" >}}) | 0 | 665 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Luxembourgish (http://www.transifex.com/projects/p/MATE/language/lb/) | 
- | [plasma-oxygen]({{< ref "/f22/package/plasma-oxygen.md" >}}) | 0 | 613 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [flaw](/f22/package/flaw) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f22/package/tuxpaint) | 1404 | 1591 | 88.2 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f22/package/gnome-do) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
+ | [kf5-kinit](/f22/package/kf5-kinit) | 99 | 134 | 73.9 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [geany](/f22/package/geany) | 4158 | 5973 | 69.6 | Letzebuergesch | 
+ | [kf5-ktextwidgets](/f22/package/kf5-ktextwidgets) | 317 | 462 | 68.6 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [gwibber](/f22/package/gwibber) | 460 | 769 | 59.8 | Luxembourgish <lb@li.org> | 
+ | [kf5-khtml](/f22/package/kf5-khtml) | 999 | 1723 | 58.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [lightdm](/f22/package/lightdm) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
+ | [kf5-kparts](/f22/package/kf5-kparts) | 44 | 104 | 42.3 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [lightdm-gtk](/f22/package/lightdm-gtk) | 35 | 84 | 41.7 | Luxembourgish <lb@li.org> | 
+ | [kde-cli-tools](/f22/package/kde-cli-tools) | 41 | 100 | 41.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kconfigwidgets](/f22/package/kf5-kconfigwidgets) | 111 | 317 | 35.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 753 | 2944 | 25.6 | Luxembourgish <lb@li.org> | 
+ | [plasma-workspace](/f22/package/plasma-workspace) | 2 | 8 | 25.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kxmlgui](/f22/package/kf5-kxmlgui) | 345 | 1538 | 22.4 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kdelibs4support](/f22/package/kf5-kdelibs4support) | 840 | 4813 | 17.5 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-knewstuff](/f22/package/kf5-knewstuff) | 95 | 673 | 14.1 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kservice](/f22/package/kf5-kservice) | 17 | 170 | 10.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kdeclarative](/f22/package/kf5-kdeclarative) | 10 | 109 | 9.2 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kross](/f22/package/kf5-kross) | 9 | 100 | 9.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-ktexteditor](/f22/package/kf5-ktexteditor) | 730 | 8742 | 8.4 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [python-django](/f22/package/python-django) | 276 | 3327 | 8.3 | Luxembourgish (http://www.transifex.com/projects/p/django/language/lb/) | 
+ | [libreoffice](/f22/package/libreoffice) | 7848 | 98213 | 8.0 | LANGUAGE <LL@li.org> | 
+ | [kf5-kcmutils](/f22/package/kf5-kcmutils) | 31 | 563 | 5.5 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [librfm](/f22/package/librfm) | 95 | 2397 | 4.0 | Luxembourgish | 
+ | [isomaster](/f22/package/isomaster) | 17 | 674 | 2.5 | http://littlesvr.ca/ostd/ | 
+ | [midori](/f22/package/midori) | 81 | 3541 | 2.3 | Luxembourgish <lb@li.org> | 
+ | [asunder](/f22/package/asunder) | 6 | 480 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [deluge](/f22/package/deluge) | 26 | 2728 | 1.0 | Luxembourgish <lb@li.org> | 
+ | [rodent](/f22/package/rodent) | 91 | 9634 | 0.9 | Luxembourgish | 
+ | [stellarium](/f22/package/stellarium) | 6 | 15962 | 0.0 | Luxembourgish <lb@li.org> | 
+ | [feedreader](/f22/package/feedreader) | 0 | 0 | 0.0 |  | 
+ | [kf5-kauth](/f22/package/kf5-kauth) | 0 | 58 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kcodecs](/f22/package/kf5-kcodecs) | 0 | 348 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kcompletion](/f22/package/kf5-kcompletion) | 0 | 20 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kconfig](/f22/package/kf5-kconfig) | 0 | 254 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kcoreaddons](/f22/package/kf5-kcoreaddons) | 0 | 265 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kdesignerplugin](/f22/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kdnssd](/f22/package/kf5-kdnssd) | 0 | 3 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kglobalaccel](/f22/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-ki18n](/f22/package/kf5-ki18n) | 0 | 124 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kitemviews](/f22/package/kf5-kitemviews) | 0 | 7 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kjobwidgets](/f22/package/kf5-kjobwidgets) | 0 | 141 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kjsembed](/f22/package/kf5-kjsembed) | 0 | 248 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-knotifications](/f22/package/kf5-knotifications) | 0 | 18 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-knotifyconfig](/f22/package/kf5-knotifyconfig) | 0 | 129 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kpty](/f22/package/kf5-kpty) | 0 | 15 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kwidgetsaddons](/f22/package/kf5-kwidgetsaddons) | 0 | 1261 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-kwindowsystem](/f22/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [kf5-sonnet](/f22/package/kf5-sonnet) | 0 | 665 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Luxembourgish (http://www.transifex.com/projects/p/MATE/language/lb/) | 
+ | [plasma-oxygen](/f22/package/plasma-oxygen) | 0 | 613 | 0.0 | Luxembourgish <kde-i18n-lb@kde.org> | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

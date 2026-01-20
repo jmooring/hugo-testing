@@ -41,22 +41,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gedit]({{< ref "/f37/package/gedit.md" >}}) | 4280 | 4280 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [gnome-characters]({{< ref "/f37/package/gnome-characters.md" >}}) | 155 | 155 | 100.0 | lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [gnome-themes-extra]({{< ref "/f37/package/gnome-themes-extra.md" >}}) | 10 | 10 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [gnome-user-share]({{< ref "/f37/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [nautilus]({{< ref "/f37/package/nautilus.md" >}}) | 5489 | 5489 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [maliit-keyboard]({{< ref "/f37/package/maliit-keyboard.md" >}}) | 37 | 81 | 45.7 | Lingala <ln@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 35 | 213 | 16.4 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [lightdm]({{< ref "/f37/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Lingala <ln@li.org> | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [gedit](/f37/package/gedit) | 4280 | 4280 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-characters](/f37/package/gnome-characters) | 155 | 155 | 100.0 | lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-themes-extra](/f37/package/gnome-themes-extra) | 10 | 10 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-user-share](/f37/package/gnome-user-share) | 52 | 52 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [nautilus](/f37/package/nautilus) | 5489 | 5489 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [maliit-keyboard](/f37/package/maliit-keyboard) | 37 | 81 | 45.7 | Lingala <ln@li.org> | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 35 | 213 | 16.4 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [lightdm](/f37/package/lightdm) | 0 | 84 | 0.0 | Lingala <ln@li.org> | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

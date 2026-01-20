@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f20/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-do]({{< ref "/f20/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
- | [mate-notification-daemon]({{< ref "/f20/package/mate-notification-daemon.md" >}}) | 88 | 152 | 57.9 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
- | [mate-desktop]({{< ref "/f20/package/mate-desktop.md" >}}) | 61 | 1678 | 3.6 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
- | [calibre]({{< ref "/f20/package/calibre.md" >}}) | 6 | 118729 | 0.0 | Sardinian <sc@li.org> | 
- | [lightdm]({{< ref "/f20/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Sardinian <sc@li.org> | 
+ | [pootle](/f20/package/pootle) | 2424 | 2424 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f20/package/gnome-do) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
+ | [mate-notification-daemon](/f20/package/mate-notification-daemon) | 88 | 152 | 57.9 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
+ | [mate-desktop](/f20/package/mate-desktop) | 61 | 1678 | 3.6 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
+ | [calibre](/f20/package/calibre) | 6 | 118729 | 0.0 | Sardinian <sc@li.org> | 
+ | [lightdm](/f20/package/lightdm) | 0 | 79 | 0.0 | Sardinian <sc@li.org> | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package lutris (version 0.5.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 6206 | 6206 | 100.0 | /mnt/stockage/packages/f34/lutris/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 6668 | 6668 | 100.0 | /mnt/stockage/packages/f34/lutris/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/fr.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 6202 | 6202 | 100.0 | /mnt/stockage/packages/f34/lutris/po/hr.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/ko.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 6666 | 6666 | 100.0 | /mnt/stockage/packages/f34/lutris/po/nl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 5545 | 5545 | 100.0 | /mnt/stockage/packages/f34/lutris/po/ru.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 6241 | 6241 | 100.0 | /mnt/stockage/packages/f34/lutris/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 5971 | 6632 | 90.0 | /mnt/stockage/packages/f34/lutris/po/pt_BR.po | 
+ | [de](/f34/language/de) | 6206 | 6206 | 100.0 | /mnt/stockage/packages/f34/lutris/po/de.po | 
+ | [es](/f34/language/es) | 6668 | 6668 | 100.0 | /mnt/stockage/packages/f34/lutris/po/es.po | 
+ | [fi](/f34/language/fi) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/fi.po | 
+ | [fr](/f34/language/fr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/fr.po | 
+ | [hr](/f34/language/hr) | 6202 | 6202 | 100.0 | /mnt/stockage/packages/f34/lutris/po/hr.po | 
+ | [ko](/f34/language/ko) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/ko.po | 
+ | [nl](/f34/language/nl) | 6666 | 6666 | 100.0 | /mnt/stockage/packages/f34/lutris/po/nl.po | 
+ | [ru](/f34/language/ru) | 5545 | 5545 | 100.0 | /mnt/stockage/packages/f34/lutris/po/ru.po | 
+ | [tr](/f34/language/tr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f34/lutris/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 6241 | 6241 | 100.0 | /mnt/stockage/packages/f34/lutris/po/zh_CN.po | 
+ | [pt_BR](/f34/language/pt_BR) | 5971 | 6632 | 90.0 | /mnt/stockage/packages/f34/lutris/po/pt_BR.po | 
 {.sortable}
 
 

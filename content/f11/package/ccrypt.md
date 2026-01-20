@@ -18,8 +18,8 @@ The package ccrypt (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 679 | 679 | 100.0 | /mnt/stockage/packages/f11/ccrypt/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 679 | 679 | 100.0 | /mnt/stockage/packages/f11/ccrypt/po/fr.po | 
+ | [de](/f11/language/de) | 679 | 679 | 100.0 | /mnt/stockage/packages/f11/ccrypt/po/de.po | 
+ | [fr](/f11/language/fr) | 679 | 679 | 100.0 | /mnt/stockage/packages/f11/ccrypt/po/fr.po | 
 {.sortable}
 
 

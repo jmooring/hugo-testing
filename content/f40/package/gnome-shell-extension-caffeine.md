@@ -18,26 +18,26 @@ The package gnome-shell-extension-caffeine (version 56):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 352 | 352 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/de.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 352 | 352 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pl.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 351 | 352 | 99.7 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/zh_CN.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/fr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/hu.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ru.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/tr.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 345 | 352 | 98.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ca.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 339 | 352 | 96.3 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/it_IT.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 334 | 352 | 94.9 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/nl.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 332 | 352 | 94.3 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sk.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 319 | 352 | 90.6 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ar.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 319 | 352 | 90.6 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/el.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 305 | 352 | 86.6 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/cs.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 234 | 352 | 66.5 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pr_BR.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 186 | 352 | 52.8 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ko.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 103 | 352 | 29.3 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sv.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 95 | 352 | 27.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ja.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 59 | 352 | 16.8 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_PT.po | 
+ | [de](/f40/language/de) | 352 | 352 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/de.po | 
+ | [pl](/f40/language/pl) | 352 | 352 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pl.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 351 | 352 | 99.7 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/zh_CN.po | 
+ | [es](/f40/language/es) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/es.po | 
+ | [fr](/f40/language/fr) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/fr.po | 
+ | [hu](/f40/language/hu) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/hu.po | 
+ | [ru](/f40/language/ru) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ru.po | 
+ | [tr](/f40/language/tr) | 349 | 352 | 99.1 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/tr.po | 
+ | [ca](/f40/language/ca) | 345 | 352 | 98.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ca.po | 
+ | [it](/f40/language/it) | 339 | 352 | 96.3 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/it_IT.po | 
+ | [nl](/f40/language/nl) | 334 | 352 | 94.9 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/nl.po | 
+ | [sk](/f40/language/sk) | 332 | 352 | 94.3 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sk.po | 
+ | [ar](/f40/language/ar) | 319 | 352 | 90.6 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ar.po | 
+ | [el](/f40/language/el) | 319 | 352 | 90.6 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/el.po | 
+ | [cs](/f40/language/cs) | 305 | 352 | 86.6 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/cs.po | 
+ | [pt_BR](/f40/language/pt_BR) | 234 | 352 | 66.5 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pr_BR.po | 
+ | [ko](/f40/language/ko) | 186 | 352 | 52.8 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ko.po | 
+ | [sv](/f40/language/sv) | 103 | 352 | 29.3 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sv.po | 
+ | [ja](/f40/language/ja) | 95 | 352 | 27.0 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ja.po | 
+ | [pt_PT](/f40/language/pt_PT) | 59 | 352 | 16.8 | /mnt/stockage/packages/f40/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_PT.po | 
 {.sortable}
 
 

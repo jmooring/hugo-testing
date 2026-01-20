@@ -18,10 +18,10 @@ The package meiga (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f30/meiga/po/fr.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 375 | 381 | 98.4 | /mnt/stockage/packages/f30/meiga/po/es.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 375 | 381 | 98.4 | /mnt/stockage/packages/f30/meiga/po/gl_ES.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 86 | 363 | 23.7 | /mnt/stockage/packages/f30/meiga/po/zh_TW.po | 
+ | [fr](/f30/language/fr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f30/meiga/po/fr.po | 
+ | [es](/f30/language/es) | 375 | 381 | 98.4 | /mnt/stockage/packages/f30/meiga/po/es.po | 
+ | [gl](/f30/language/gl) | 375 | 381 | 98.4 | /mnt/stockage/packages/f30/meiga/po/gl_ES.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 86 | 363 | 23.7 | /mnt/stockage/packages/f30/meiga/po/zh_TW.po | 
 {.sortable}
 
 

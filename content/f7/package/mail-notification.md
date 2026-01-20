@@ -18,20 +18,20 @@ The package mail-notification (version 4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1853 | 1853 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2171 | 2171 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/de.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/sr@Latn.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1816 | 1816 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/ja.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/pt_BR.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/sv.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1866 | 1908 | 97.8 | /mnt/stockage/packages/f7/mail-notification/po/nl.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 915 | 1449 | 63.1 | /mnt/stockage/packages/f7/mail-notification/po/bg.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 12 | 716 | 1.7 | /mnt/stockage/packages/f7/mail-notification/po/ru.po | 
+ | [ca](/f7/language/ca) | 1853 | 1853 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/ca.po | 
+ | [cs](/f7/language/cs) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/cs.po | 
+ | [de](/f7/language/de) | 2171 | 2171 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/de.po | 
+ | [error](/f7/language/error) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/sr@Latn.po | 
+ | [fr](/f7/language/fr) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/fr.po | 
+ | [ja](/f7/language/ja) | 1816 | 1816 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/ja.po | 
+ | [pl](/f7/language/pl) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/pl.po | 
+ | [pt](/f7/language/pt) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1854 | 1854 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/pt_BR.po | 
+ | [sr](/f7/language/sr) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/sr.po | 
+ | [sv](/f7/language/sv) | 1908 | 1908 | 100.0 | /mnt/stockage/packages/f7/mail-notification/po/sv.po | 
+ | [nl](/f7/language/nl) | 1866 | 1908 | 97.8 | /mnt/stockage/packages/f7/mail-notification/po/nl.po | 
+ | [bg](/f7/language/bg) | 915 | 1449 | 63.1 | /mnt/stockage/packages/f7/mail-notification/po/bg.po | 
+ | [ru](/f7/language/ru) | 12 | 716 | 1.7 | /mnt/stockage/packages/f7/mail-notification/po/ru.po | 
 {.sortable}
 
 

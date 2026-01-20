@@ -18,14 +18,14 @@ The package wivrn (version 25.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f41/language/es.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/es/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/es/wivrn.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/fr/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/fr/wivrn.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 558 | 558 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/it/wivrn.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/ja/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/ja/wivrn.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/pt_BR/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/pt_BR/wivrn.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 1469 | 1469 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/sk/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/sk/wivrn.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/tr/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/tr/wivrn.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/zh_TW/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/zh_TW/wivrn.po | 
+ | [es](/f41/language/es) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/es/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/es/wivrn.po | 
+ | [fr](/f41/language/fr) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/fr/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/fr/wivrn.po | 
+ | [it](/f41/language/it) | 558 | 558 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/it/wivrn.po | 
+ | [ja](/f41/language/ja) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/ja/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/ja/wivrn.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/pt_BR/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/pt_BR/wivrn.po | 
+ | [sk](/f41/language/sk) | 1469 | 1469 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/sk/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/sk/wivrn.po | 
+ | [tr](/f41/language/tr) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/tr/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/tr/wivrn.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f41/wivrn/locale/zh_TW/wivrn-dashboard.po/mnt/stockage/packages/f41/wivrn/locale/zh_TW/wivrn.po | 
 {.sortable}
 
 

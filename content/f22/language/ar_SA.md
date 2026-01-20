@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f22/package/poedit.md" >}}) | 2432 | 2461 | 98.8 | Arabic | 
- | [childsplay]({{< ref "/f22/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [perl-libintl]({{< ref "/f22/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texi2html]({{< ref "/f22/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f22/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f22/package/glpi.md" >}}) | 3793 | 10636 | 35.7 | Arabic (Saudi Arabia) (http://www.transifex.com/glpi/GLPI/language/ar_SA/) | 
- | [publican-fedora]({{< ref "/f22/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [poedit](/f22/package/poedit) | 2432 | 2461 | 98.8 | Arabic | 
+ | [childsplay](/f22/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [perl-libintl](/f22/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texi2html](/f22/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f22/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f22/package/glpi) | 3793 | 10636 | 35.7 | Arabic (Saudi Arabia) (http://www.transifex.com/glpi/GLPI/language/ar_SA/) | 
+ | [publican-fedora](/f22/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

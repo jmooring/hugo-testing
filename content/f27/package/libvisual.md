@@ -18,8 +18,8 @@ The package libvisual (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 303 | 1055 | 28.7 | /mnt/stockage/packages/f27/libvisual/po/es_ES.po | 
- | [es_AR]({{< ref "/f27/language/es_AR.md" >}}) | 303 | 1055 | 28.7 | /mnt/stockage/packages/f27/libvisual/po/es_AR.po | 
+ | [es](/f27/language/es) | 303 | 1055 | 28.7 | /mnt/stockage/packages/f27/libvisual/po/es_ES.po | 
+ | [es_AR](/f27/language/es_AR) | 303 | 1055 | 28.7 | /mnt/stockage/packages/f27/libvisual/po/es_AR.po | 
 {.sortable}
 
 

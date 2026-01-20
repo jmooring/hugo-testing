@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 55855 | 95191 | 58.7 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f19/package/iso-codes.md" >}}) | 250 | 15299 | 1.6 | Konkani | 
- | [calibre]({{< ref "/f19/package/calibre.md" >}}) | 126 | 10496 | 1.2 | Konkani | 
+ | [libreoffice](/f19/package/libreoffice) | 55855 | 95191 | 58.7 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f19/package/iso-codes) | 250 | 15299 | 1.6 | Konkani | 
+ | [calibre](/f19/package/calibre) | 126 | 10496 | 1.2 | Konkani | 
 {.sortable}
 
 

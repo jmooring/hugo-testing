@@ -39,17 +39,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kmid]({{< ref "/f9/package/kmid.md" >}}) | 522 | 535 | 97.6 | <tajik> | 
- | [kiconedit]({{< ref "/f9/package/kiconedit.md" >}}) | 678 | 724 | 93.6 | Tajik | 
- | [kcoloredit]({{< ref "/f9/package/kcoloredit.md" >}}) | 99 | 118 | 83.9 | Tajik | 
- | [xmms]({{< ref "/f9/package/xmms.md" >}}) | 2636 | 3245 | 81.2 | Tajik | 
- | [ksig]({{< ref "/f9/package/ksig.md" >}}) | 68 | 85 | 80.0 | Tajik | 
- | [konq-plugins]({{< ref "/f9/package/konq-plugins.md" >}}) | 1032 | 1533 | 67.3 | Tajik | 
- | [kdiff3]({{< ref "/f9/package/kdiff3.md" >}}) | 1103 | 3029 | 36.4 | Tajik | 
- | [aspell]({{< ref "/f9/package/aspell.md" >}}) | 600 | 1726 | 34.8 | Tajik | 
- | [kaffeine]({{< ref "/f9/package/kaffeine.md" >}}) | 468 | 2354 | 19.9 | Tajik Language | 
- | [yelp]({{< ref "/f9/package/yelp.md" >}}) | 92 | 606 | 15.2 | Tajik | 
- | [amarok]({{< ref "/f9/package/amarok.md" >}}) | 865 | 13254 | 6.5 | Tajik Language | 
+ | [kmid](/f9/package/kmid) | 522 | 535 | 97.6 | <tajik> | 
+ | [kiconedit](/f9/package/kiconedit) | 678 | 724 | 93.6 | Tajik | 
+ | [kcoloredit](/f9/package/kcoloredit) | 99 | 118 | 83.9 | Tajik | 
+ | [xmms](/f9/package/xmms) | 2636 | 3245 | 81.2 | Tajik | 
+ | [ksig](/f9/package/ksig) | 68 | 85 | 80.0 | Tajik | 
+ | [konq-plugins](/f9/package/konq-plugins) | 1032 | 1533 | 67.3 | Tajik | 
+ | [kdiff3](/f9/package/kdiff3) | 1103 | 3029 | 36.4 | Tajik | 
+ | [aspell](/f9/package/aspell) | 600 | 1726 | 34.8 | Tajik | 
+ | [kaffeine](/f9/package/kaffeine) | 468 | 2354 | 19.9 | Tajik Language | 
+ | [yelp](/f9/package/yelp) | 92 | 606 | 15.2 | Tajik | 
+ | [amarok](/f9/package/amarok) | 865 | 13254 | 6.5 | Tajik Language | 
 {.sortable}
 
 

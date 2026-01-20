@@ -42,75 +42,75 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f17/package/alacarte.md" >}}) | 42 | 42 | 100.0 | translate.org.za | 
- | [empathy]({{< ref "/f17/package/empathy.md" >}}) | 4155 | 4155 | 100.0 | translate-discuss-af@lists.sourceforge.net | 
- | [gnome-bluetooth]({{< ref "/f17/package/gnome-bluetooth.md" >}}) | 663 | 663 | 100.0 | translate.org.za | 
- | [gnome-menus]({{< ref "/f17/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | translate.org.za | 
- | [notification-daemon]({{< ref "/f17/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | translate.org.za | 
- | [virtaal]({{< ref "/f17/package/virtaal.md" >}}) | 1672 | 1672 | 100.0 | translate-discuss-af@lists.sourceforge.net | 
- | [gdm]({{< ref "/f17/package/gdm.md" >}}) | 5299 | 5301 | 100.0 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f17/package/gnome-session.md" >}}) | 513 | 516 | 99.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [mate-session-manager]({{< ref "/f17/package/mate-session-manager.md" >}}) | 513 | 516 | 99.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-desktop]({{< ref "/f17/package/gnome-desktop.md" >}}) | 316 | 320 | 98.8 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-desktop3]({{< ref "/f17/package/gnome-desktop3.md" >}}) | 316 | 320 | 98.8 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f17/package/gnome-vfs2.md" >}}) | 1263 | 1282 | 98.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f17/package/nautilus.md" >}}) | 6674 | 6976 | 95.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [nemo]({{< ref "/f17/package/nemo.md" >}}) | 6674 | 6976 | 95.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-mime-data]({{< ref "/f17/package/gnome-mime-data.md" >}}) | 834 | 887 | 94.0 |  | 
- | [mate-mime-data]({{< ref "/f17/package/mate-mime-data.md" >}}) | 834 | 887 | 94.0 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f17/package/pootle.md" >}}) | 2424 | 2605 | 93.1 | LANGUAGE <LL@li.org> | 
- | [libmateui]({{< ref "/f17/package/libmateui.md" >}}) | 1135 | 1223 | 92.8 | LANGUAGE <LL@li.org> | 
- | [evince]({{< ref "/f17/package/evince.md" >}}) | 1287 | 1406 | 91.5 | translate-discuss-af@lists.sourceforge.net | 
- | [gcompris]({{< ref "/f17/package/gcompris.md" >}}) | 10868 | 11880 | 91.5 | translate-discuss-af@lists.sourceforge.net | 
- | [gnome-panel]({{< ref "/f17/package/gnome-panel.md" >}}) | 3578 | 3937 | 90.9 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f17/package/libgnomeui.md" >}}) | 1270 | 1419 | 89.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f17/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [libmatecomponentui]({{< ref "/f17/package/libmatecomponentui.md" >}}) | 314 | 368 | 85.3 | LANGUAGE <LL@li.org> | 
- | [file-roller]({{< ref "/f17/package/file-roller.md" >}}) | 1254 | 1519 | 82.6 | translate-discuss-af@lists.sourceforge.net | 
- | [totem]({{< ref "/f17/package/totem.md" >}}) | 2066 | 2529 | 81.7 | translate.org.za | 
- | [redhat-menus]({{< ref "/f17/package/redhat-menus.md" >}}) | 213 | 261 | 81.6 | Zulu <zulu@translate.org.za> | 
- | [mate-vfs]({{< ref "/f17/package/mate-vfs.md" >}}) | 1188 | 1519 | 78.2 | LANGUAGE <LL@li.org> | 
- | [control-center]({{< ref "/f17/package/control-center.md" >}}) | 2619 | 3382 | 77.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [system-config-keyboard]({{< ref "/f17/package/system-config-keyboard.md" >}}) | 141 | 187 | 75.4 | Zulu <zulu@translate.org.za> | 
- | [eog]({{< ref "/f17/package/eog.md" >}}) | 1144 | 1600 | 71.5 | translate-discuss-af@lists.sourceforge.net | 
- | [pam]({{< ref "/f17/package/pam.md" >}}) | 402 | 602 | 66.8 | Novell Language <language@novell.com> | 
- | [cheese]({{< ref "/f17/package/cheese.md" >}}) | 185 | 294 | 62.9 | translate-discuss-af@lists.sourceforge.net | 
- | [atk]({{< ref "/f17/package/atk.md" >}}) | 224 | 375 | 59.7 | translate-discuss-af@lists.sourceforge.net | 
- | [mingw-atk]({{< ref "/f17/package/mingw-atk.md" >}}) | 224 | 375 | 59.7 | translate-discuss-af@lists.sourceforge.net | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 55318 | 93282 | 59.3 | LANGUAGE <LL@li.org> | 
- | [mate-panel]({{< ref "/f17/package/mate-panel.md" >}}) | 2458 | 4237 | 58.0 | LANGUAGE <LL@li.org> | 
- | [mate-file-manager]({{< ref "/f17/package/mate-file-manager.md" >}}) | 2979 | 9086 | 32.8 | LANGUAGE <LL@li.org> | 
- | [gnome-settings-daemon]({{< ref "/f17/package/gnome-settings-daemon.md" >}}) | 313 | 1034 | 30.3 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [drwright]({{< ref "/f17/package/drwright.md" >}}) | 108 | 382 | 28.3 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [anaconda]({{< ref "/f17/package/anaconda.md" >}}) | 1534 | 8297 | 18.5 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f17/package/koffice-kivio.md" >}}) | 1490 | 8417 | 17.7 | <en@li.org> | 
- | [mate-control-center]({{< ref "/f17/package/mate-control-center.md" >}}) | 401 | 2610 | 15.4 | LANGUAGE <LL@li.org> | 
- | [yelp]({{< ref "/f17/package/yelp.md" >}}) | 92 | 606 | 15.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [system-config-rootpassword]({{< ref "/f17/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Zulu <zulu@translate.org.za> | 
- | [mate-desktop]({{< ref "/f17/package/mate-desktop.md" >}}) | 52 | 407 | 12.8 | LANGUAGE <LL@li.org> | 
- | [mate-image-viewer]({{< ref "/f17/package/mate-image-viewer.md" >}}) | 205 | 1623 | 12.6 | LANGUAGE <LL@li.org> | 
- | [system-config-language]({{< ref "/f17/package/system-config-language.md" >}}) | 36 | 323 | 11.1 | Zulu <zulu@translate.org.za> | 
- | [mate-settings-daemon]({{< ref "/f17/package/mate-settings-daemon.md" >}}) | 180 | 1735 | 10.4 | LANGUAGE <LL@li.org> | 
- | [libpwquality]({{< ref "/f17/package/libpwquality.md" >}}) | 18 | 324 | 5.6 | LANGUAGE <LL@li.org> | 
- | [firstboot]({{< ref "/f17/package/firstboot.md" >}}) | 23 | 571 | 4.0 | LANGUAGE <LL@li.org> | 
- | [mingw-libvirt]({{< ref "/f17/package/mingw-libvirt.md" >}}) | 954 | 33629 | 2.8 | none | 
- | [libvirt]({{< ref "/f17/package/libvirt.md" >}}) | 954 | 33917 | 2.8 | none | 
- | [iso-codes]({{< ref "/f17/package/iso-codes.md" >}}) | 162 | 12484 | 1.3 | Zulu <zulu@translate.org.za> | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 48 | 10496 | 0.5 | Zulu <zulu@translate.org.za> | 
- | [pychess]({{< ref "/f17/package/pychess.md" >}}) | 5 | 3091 | 0.2 | Zulu <zu@li.org> | 
- | [compiz]({{< ref "/f17/package/compiz.md" >}}) | 0 | 3250 | 0.0 | Novell Language <language@novell.com> | 
- | [im-chooser]({{< ref "/f17/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f17/package/imsettings.md" >}}) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f17/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [sos]({{< ref "/f17/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 0 | 9286 | 0.0 | Zulu <zu@li.org> | 
- | [system-config-date-docs]({{< ref "/f17/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f17/package/system-config-kdump.md" >}}) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f17/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f17/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f17/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f17/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [alacarte](/f17/package/alacarte) | 42 | 42 | 100.0 | translate.org.za | 
+ | [empathy](/f17/package/empathy) | 4155 | 4155 | 100.0 | translate-discuss-af@lists.sourceforge.net | 
+ | [gnome-bluetooth](/f17/package/gnome-bluetooth) | 663 | 663 | 100.0 | translate.org.za | 
+ | [gnome-menus](/f17/package/gnome-menus) | 95 | 95 | 100.0 | translate.org.za | 
+ | [notification-daemon](/f17/package/notification-daemon) | 17 | 17 | 100.0 | translate.org.za | 
+ | [virtaal](/f17/package/virtaal) | 1672 | 1672 | 100.0 | translate-discuss-af@lists.sourceforge.net | 
+ | [gdm](/f17/package/gdm) | 5299 | 5301 | 100.0 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-session](/f17/package/gnome-session) | 513 | 516 | 99.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [mate-session-manager](/f17/package/mate-session-manager) | 513 | 516 | 99.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-desktop](/f17/package/gnome-desktop) | 316 | 320 | 98.8 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-desktop3](/f17/package/gnome-desktop3) | 316 | 320 | 98.8 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f17/package/gnome-vfs2) | 1263 | 1282 | 98.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [nautilus](/f17/package/nautilus) | 6674 | 6976 | 95.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [nemo](/f17/package/nemo) | 6674 | 6976 | 95.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-mime-data](/f17/package/gnome-mime-data) | 834 | 887 | 94.0 |  | 
+ | [mate-mime-data](/f17/package/mate-mime-data) | 834 | 887 | 94.0 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f17/package/pootle) | 2424 | 2605 | 93.1 | LANGUAGE <LL@li.org> | 
+ | [libmateui](/f17/package/libmateui) | 1135 | 1223 | 92.8 | LANGUAGE <LL@li.org> | 
+ | [evince](/f17/package/evince) | 1287 | 1406 | 91.5 | translate-discuss-af@lists.sourceforge.net | 
+ | [gcompris](/f17/package/gcompris) | 10868 | 11880 | 91.5 | translate-discuss-af@lists.sourceforge.net | 
+ | [gnome-panel](/f17/package/gnome-panel) | 3578 | 3937 | 90.9 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [libgnomeui](/f17/package/libgnomeui) | 1270 | 1419 | 89.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [libbonoboui](/f17/package/libbonoboui) | 314 | 360 | 87.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [libmatecomponentui](/f17/package/libmatecomponentui) | 314 | 368 | 85.3 | LANGUAGE <LL@li.org> | 
+ | [file-roller](/f17/package/file-roller) | 1254 | 1519 | 82.6 | translate-discuss-af@lists.sourceforge.net | 
+ | [totem](/f17/package/totem) | 2066 | 2529 | 81.7 | translate.org.za | 
+ | [redhat-menus](/f17/package/redhat-menus) | 213 | 261 | 81.6 | Zulu <zulu@translate.org.za> | 
+ | [mate-vfs](/f17/package/mate-vfs) | 1188 | 1519 | 78.2 | LANGUAGE <LL@li.org> | 
+ | [control-center](/f17/package/control-center) | 2619 | 3382 | 77.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [system-config-keyboard](/f17/package/system-config-keyboard) | 141 | 187 | 75.4 | Zulu <zulu@translate.org.za> | 
+ | [eog](/f17/package/eog) | 1144 | 1600 | 71.5 | translate-discuss-af@lists.sourceforge.net | 
+ | [pam](/f17/package/pam) | 402 | 602 | 66.8 | Novell Language <language@novell.com> | 
+ | [cheese](/f17/package/cheese) | 185 | 294 | 62.9 | translate-discuss-af@lists.sourceforge.net | 
+ | [atk](/f17/package/atk) | 224 | 375 | 59.7 | translate-discuss-af@lists.sourceforge.net | 
+ | [mingw-atk](/f17/package/mingw-atk) | 224 | 375 | 59.7 | translate-discuss-af@lists.sourceforge.net | 
+ | [libreoffice](/f17/package/libreoffice) | 55318 | 93282 | 59.3 | LANGUAGE <LL@li.org> | 
+ | [mate-panel](/f17/package/mate-panel) | 2458 | 4237 | 58.0 | LANGUAGE <LL@li.org> | 
+ | [mate-file-manager](/f17/package/mate-file-manager) | 2979 | 9086 | 32.8 | LANGUAGE <LL@li.org> | 
+ | [gnome-settings-daemon](/f17/package/gnome-settings-daemon) | 313 | 1034 | 30.3 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [drwright](/f17/package/drwright) | 108 | 382 | 28.3 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [anaconda](/f17/package/anaconda) | 1534 | 8297 | 18.5 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f17/package/koffice-kivio) | 1490 | 8417 | 17.7 | <en@li.org> | 
+ | [mate-control-center](/f17/package/mate-control-center) | 401 | 2610 | 15.4 | LANGUAGE <LL@li.org> | 
+ | [yelp](/f17/package/yelp) | 92 | 606 | 15.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [system-config-rootpassword](/f17/package/system-config-rootpassword) | 15 | 116 | 12.9 | Zulu <zulu@translate.org.za> | 
+ | [mate-desktop](/f17/package/mate-desktop) | 52 | 407 | 12.8 | LANGUAGE <LL@li.org> | 
+ | [mate-image-viewer](/f17/package/mate-image-viewer) | 205 | 1623 | 12.6 | LANGUAGE <LL@li.org> | 
+ | [system-config-language](/f17/package/system-config-language) | 36 | 323 | 11.1 | Zulu <zulu@translate.org.za> | 
+ | [mate-settings-daemon](/f17/package/mate-settings-daemon) | 180 | 1735 | 10.4 | LANGUAGE <LL@li.org> | 
+ | [libpwquality](/f17/package/libpwquality) | 18 | 324 | 5.6 | LANGUAGE <LL@li.org> | 
+ | [firstboot](/f17/package/firstboot) | 23 | 571 | 4.0 | LANGUAGE <LL@li.org> | 
+ | [mingw-libvirt](/f17/package/mingw-libvirt) | 954 | 33629 | 2.8 | none | 
+ | [libvirt](/f17/package/libvirt) | 954 | 33917 | 2.8 | none | 
+ | [iso-codes](/f17/package/iso-codes) | 162 | 12484 | 1.3 | Zulu <zulu@translate.org.za> | 
+ | [calibre](/f17/package/calibre) | 48 | 10496 | 0.5 | Zulu <zulu@translate.org.za> | 
+ | [pychess](/f17/package/pychess) | 5 | 3091 | 0.2 | Zulu <zu@li.org> | 
+ | [compiz](/f17/package/compiz) | 0 | 3250 | 0.0 | Novell Language <language@novell.com> | 
+ | [im-chooser](/f17/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f17/package/imsettings) | 0 | 404 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f17/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [sos](/f17/package/sos) | 0 | 267 | 0.0 | none | 
+ | [stellarium](/f17/package/stellarium) | 0 | 9286 | 0.0 | Zulu <zu@li.org> | 
+ | [system-config-date-docs](/f17/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f17/package/system-config-kdump) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f17/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f17/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f17/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f17/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 
@@ -122,7 +122,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnome-mime-data]({{< ref "/f17/package/gnome-mime-data.md" >}}) | /mnt/stockage/packages/f17/gnome-mime-data/po/zu.po | error-os |  | 
+ | [gnome-mime-data](/f17/package/gnome-mime-data) | /mnt/stockage/packages/f17/gnome-mime-data/po/zu.po | error-os |  | 
 {.sortable}
 
 

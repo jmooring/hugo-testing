@@ -18,36 +18,36 @@ The package viewnior (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/ar.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/da.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/el.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/fr.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/he.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/lt.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/ru.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/uk.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 419 | 425 | 98.6 | /mnt/stockage/packages/f27/viewnior/po/de.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 404 | 425 | 95.1 | /mnt/stockage/packages/f27/viewnior/po/ja.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/bg.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/ca.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/ca@valencia.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/gl.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/hu.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/it.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/nl.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/pt_BR.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/tr.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/zh_CN.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 279 | 425 | 65.6 | /mnt/stockage/packages/f27/viewnior/po/sk.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 221 | 425 | 52.0 | /mnt/stockage/packages/f27/viewnior/po/oc.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 97 | 425 | 22.8 | /mnt/stockage/packages/f27/viewnior/po/fi.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 48 | 425 | 11.3 | /mnt/stockage/packages/f27/viewnior/po/bs.po | 
+ | [ar](/f27/language/ar) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/ar.po | 
+ | [cs](/f27/language/cs) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/cs.po | 
+ | [da](/f27/language/da) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/da.po | 
+ | [el](/f27/language/el) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/el.po | 
+ | [es](/f27/language/es) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/es.po | 
+ | [fr](/f27/language/fr) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/fr.po | 
+ | [he](/f27/language/he) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/he.po | 
+ | [lt](/f27/language/lt) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/lt.po | 
+ | [ru](/f27/language/ru) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/ru.po | 
+ | [uk](/f27/language/uk) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/viewnior/po/uk.po | 
+ | [de](/f27/language/de) | 419 | 425 | 98.6 | /mnt/stockage/packages/f27/viewnior/po/de.po | 
+ | [ja](/f27/language/ja) | 404 | 425 | 95.1 | /mnt/stockage/packages/f27/viewnior/po/ja.po | 
+ | [bg](/f27/language/bg) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/bg.po | 
+ | [ca](/f27/language/ca) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/ca.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/ca@valencia.po | 
+ | [gl](/f27/language/gl) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/gl.po | 
+ | [hu](/f27/language/hu) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/hu.po | 
+ | [it](/f27/language/it) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/it.po | 
+ | [nl](/f27/language/nl) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/nl.po | 
+ | [pl](/f27/language/pl) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/pl.po | 
+ | [pt](/f27/language/pt) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/pt_BR.po | 
+ | [sr](/f27/language/sr) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/sr.po | 
+ | [sv](/f27/language/sv) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/sv.po | 
+ | [tr](/f27/language/tr) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/tr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 375 | 425 | 88.2 | /mnt/stockage/packages/f27/viewnior/po/zh_CN.po | 
+ | [sk](/f27/language/sk) | 279 | 425 | 65.6 | /mnt/stockage/packages/f27/viewnior/po/sk.po | 
+ | [oc](/f27/language/oc) | 221 | 425 | 52.0 | /mnt/stockage/packages/f27/viewnior/po/oc.po | 
+ | [fi](/f27/language/fi) | 97 | 425 | 22.8 | /mnt/stockage/packages/f27/viewnior/po/fi.po | 
+ | [bs](/f27/language/bs) | 48 | 425 | 11.3 | /mnt/stockage/packages/f27/viewnior/po/bs.po | 
 {.sortable}
 
 

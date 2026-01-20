@@ -18,11 +18,11 @@ The package vdr-tvguide (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 1083 | 1091 | 99.3 | /mnt/stockage/packages/f39/vdr-tvguide/po/de_DE.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 941 | 1091 | 86.3 | /mnt/stockage/packages/f39/vdr-tvguide/po/it_IT.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 608 | 1091 | 55.7 | /mnt/stockage/packages/f39/vdr-tvguide/po/ca_ES.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 608 | 1091 | 55.7 | /mnt/stockage/packages/f39/vdr-tvguide/po/sk_SK.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 606 | 1091 | 55.5 | /mnt/stockage/packages/f39/vdr-tvguide/po/ru_RU.po | 
+ | [de](/f39/language/de) | 1083 | 1091 | 99.3 | /mnt/stockage/packages/f39/vdr-tvguide/po/de_DE.po | 
+ | [it](/f39/language/it) | 941 | 1091 | 86.3 | /mnt/stockage/packages/f39/vdr-tvguide/po/it_IT.po | 
+ | [ca](/f39/language/ca) | 608 | 1091 | 55.7 | /mnt/stockage/packages/f39/vdr-tvguide/po/ca_ES.po | 
+ | [sk](/f39/language/sk) | 608 | 1091 | 55.7 | /mnt/stockage/packages/f39/vdr-tvguide/po/sk_SK.po | 
+ | [ru](/f39/language/ru) | 606 | 1091 | 55.5 | /mnt/stockage/packages/f39/vdr-tvguide/po/ru_RU.po | 
 {.sortable}
 
 

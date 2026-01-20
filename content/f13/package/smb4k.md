@@ -18,28 +18,28 @@ The package smb4k (version 0.10.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 6580 | 6580 | 100.0 | /mnt/stockage/packages/f13/smb4k/po/de/smb4k.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 6580 | 6580 | 100.0 | /mnt/stockage/packages/f13/smb4k/po/ja/smb4k.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 6580 | 6580 | 100.0 | /mnt/stockage/packages/f13/smb4k/po/pt/pt.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 4466 | 6580 | 67.9 | /mnt/stockage/packages/f13/smb4k/po/pl/smb4k.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 3478 | 6580 | 52.9 | /mnt/stockage/packages/f13/smb4k/po/sv/smb4k.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 1018 | 6580 | 15.5 | /mnt/stockage/packages/f13/smb4k/po/bg/smb4k.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 946 | 6580 | 14.4 | /mnt/stockage/packages/f13/smb4k/po/it/smb4k.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 813 | 6580 | 12.4 | /mnt/stockage/packages/f13/smb4k/po/es/smb4k.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 719 | 6580 | 10.9 | /mnt/stockage/packages/f13/smb4k/po/uk/smb4k.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 482 | 6580 | 7.3 | /mnt/stockage/packages/f13/smb4k/po/tr/smb4k.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 472 | 6580 | 7.2 | /mnt/stockage/packages/f13/smb4k/po/nl/smb4k.po | 
- | [is]({{< ref "/f13/language/is.md" >}}) | 414 | 6580 | 6.3 | /mnt/stockage/packages/f13/smb4k/po/is/smb4k.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 413 | 6580 | 6.3 | /mnt/stockage/packages/f13/smb4k/po/cs/smb4k.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 413 | 6580 | 6.3 | /mnt/stockage/packages/f13/smb4k/po/zh_TW/smb4k.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 406 | 6580 | 6.2 | /mnt/stockage/packages/f13/smb4k/po/fr/smb4k.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 271 | 6580 | 4.1 | /mnt/stockage/packages/f13/smb4k/po/nb/smb4k.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 235 | 6580 | 3.6 | /mnt/stockage/packages/f13/smb4k/po/hu/smb4k.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 233 | 6580 | 3.5 | /mnt/stockage/packages/f13/smb4k/po/da/smb4k.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 233 | 6580 | 3.5 | /mnt/stockage/packages/f13/smb4k/po/pt_BR/smb4k.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 233 | 6580 | 3.5 | /mnt/stockage/packages/f13/smb4k/po/sk/smb4k.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 160 | 6580 | 2.4 | /mnt/stockage/packages/f13/smb4k/po/zh_CN/smb4k.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 107 | 6580 | 1.6 | /mnt/stockage/packages/f13/smb4k/po/ru/smb4k.po | 
+ | [de](/f13/language/de) | 6580 | 6580 | 100.0 | /mnt/stockage/packages/f13/smb4k/po/de/smb4k.po | 
+ | [ja](/f13/language/ja) | 6580 | 6580 | 100.0 | /mnt/stockage/packages/f13/smb4k/po/ja/smb4k.po | 
+ | [pt](/f13/language/pt) | 6580 | 6580 | 100.0 | /mnt/stockage/packages/f13/smb4k/po/pt/pt.po | 
+ | [pl](/f13/language/pl) | 4466 | 6580 | 67.9 | /mnt/stockage/packages/f13/smb4k/po/pl/smb4k.po | 
+ | [sv](/f13/language/sv) | 3478 | 6580 | 52.9 | /mnt/stockage/packages/f13/smb4k/po/sv/smb4k.po | 
+ | [bg](/f13/language/bg) | 1018 | 6580 | 15.5 | /mnt/stockage/packages/f13/smb4k/po/bg/smb4k.po | 
+ | [it](/f13/language/it) | 946 | 6580 | 14.4 | /mnt/stockage/packages/f13/smb4k/po/it/smb4k.po | 
+ | [es](/f13/language/es) | 813 | 6580 | 12.4 | /mnt/stockage/packages/f13/smb4k/po/es/smb4k.po | 
+ | [uk](/f13/language/uk) | 719 | 6580 | 10.9 | /mnt/stockage/packages/f13/smb4k/po/uk/smb4k.po | 
+ | [tr](/f13/language/tr) | 482 | 6580 | 7.3 | /mnt/stockage/packages/f13/smb4k/po/tr/smb4k.po | 
+ | [nl](/f13/language/nl) | 472 | 6580 | 7.2 | /mnt/stockage/packages/f13/smb4k/po/nl/smb4k.po | 
+ | [is](/f13/language/is) | 414 | 6580 | 6.3 | /mnt/stockage/packages/f13/smb4k/po/is/smb4k.po | 
+ | [cs](/f13/language/cs) | 413 | 6580 | 6.3 | /mnt/stockage/packages/f13/smb4k/po/cs/smb4k.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 413 | 6580 | 6.3 | /mnt/stockage/packages/f13/smb4k/po/zh_TW/smb4k.po | 
+ | [fr](/f13/language/fr) | 406 | 6580 | 6.2 | /mnt/stockage/packages/f13/smb4k/po/fr/smb4k.po | 
+ | [nb_NO](/f13/language/nb_NO) | 271 | 6580 | 4.1 | /mnt/stockage/packages/f13/smb4k/po/nb/smb4k.po | 
+ | [hu](/f13/language/hu) | 235 | 6580 | 3.6 | /mnt/stockage/packages/f13/smb4k/po/hu/smb4k.po | 
+ | [da](/f13/language/da) | 233 | 6580 | 3.5 | /mnt/stockage/packages/f13/smb4k/po/da/smb4k.po | 
+ | [pt_BR](/f13/language/pt_BR) | 233 | 6580 | 3.5 | /mnt/stockage/packages/f13/smb4k/po/pt_BR/smb4k.po | 
+ | [sk](/f13/language/sk) | 233 | 6580 | 3.5 | /mnt/stockage/packages/f13/smb4k/po/sk/smb4k.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 160 | 6580 | 2.4 | /mnt/stockage/packages/f13/smb4k/po/zh_CN/smb4k.po | 
+ | [ru](/f13/language/ru) | 107 | 6580 | 1.6 | /mnt/stockage/packages/f13/smb4k/po/ru/smb4k.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package python-django-tables2 (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/el/LC_MESSAGES/django.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/en/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/fr/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/hu/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/it/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/nb/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/nl/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/pt_BR/LC_MESSAGES/django.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/pt_PT/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/ru/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/sv/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/zh_Hans/LC_MESSAGES/django.po | 
+ | [cs](/f33/language/cs) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f33/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f33/language/el) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/el/LC_MESSAGES/django.po | 
+ | [en_US](/f33/language/en_US) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f33/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f33/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/fr/LC_MESSAGES/django.po | 
+ | [hu](/f33/language/hu) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/hu/LC_MESSAGES/django.po | 
+ | [it](/f33/language/it) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/it/LC_MESSAGES/django.po | 
+ | [nb_NO](/f33/language/nb_NO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/nb/LC_MESSAGES/django.po | 
+ | [nl](/f33/language/nl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/nl/LC_MESSAGES/django.po | 
+ | [pl](/f33/language/pl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f33/language/pt_BR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [pt_PT](/f33/language/pt_PT) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/pt_PT/LC_MESSAGES/django.po | 
+ | [ru](/f33/language/ru) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/ru/LC_MESSAGES/django.po | 
+ | [sv](/f33/language/sv) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/sv/LC_MESSAGES/django.po | 
+ | [uk](/f33/language/uk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 2 | 2 | 100.0 | /mnt/stockage/packages/f33/python-django-tables2/django_tables2/locale/zh_Hans/LC_MESSAGES/django.po | 
 {.sortable}
 
 

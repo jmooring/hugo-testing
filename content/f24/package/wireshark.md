@@ -18,25 +18,25 @@ The package wireshark (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/eu.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/ko.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/nl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/sk.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/sv.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/vi.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 24 | 79 | 30.4 | /mnt/stockage/packages/f24/wireshark/debian/po/fi.po | 
+ | [cs](/f24/language/cs) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/cs.po | 
+ | [da](/f24/language/da) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/da.po | 
+ | [de](/f24/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/de.po | 
+ | [es](/f24/language/es) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/es.po | 
+ | [eu](/f24/language/eu) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/eu.po | 
+ | [fr](/f24/language/fr) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/fr.po | 
+ | [hu](/f24/language/hu) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/hu.po | 
+ | [id](/f24/language/id) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/id.po | 
+ | [it](/f24/language/it) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/it.po | 
+ | [ja](/f24/language/ja) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/ja.po | 
+ | [ko](/f24/language/ko) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/ko.po | 
+ | [nl](/f24/language/nl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/nl.po | 
+ | [pt](/f24/language/pt) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/ru.po | 
+ | [sk](/f24/language/sk) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/sk.po | 
+ | [sv](/f24/language/sv) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/sv.po | 
+ | [vi](/f24/language/vi) | 79 | 79 | 100.0 | /mnt/stockage/packages/f24/wireshark/debian/po/vi.po | 
+ | [fi](/f24/language/fi) | 24 | 79 | 30.4 | /mnt/stockage/packages/f24/wireshark/debian/po/fi.po | 
 {.sortable}
 
 

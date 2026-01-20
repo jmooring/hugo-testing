@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 3 | 12174 | 0.0 | Sanskrit | 
+ | [iso-codes](/f8/package/iso-codes) | 3 | 12174 | 0.0 | Sanskrit | 
 {.sortable}
 
 

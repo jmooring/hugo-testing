@@ -18,12 +18,12 @@ The package ndisc6 (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/de.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/fr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/sv.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 527 | 1016 | 51.9 | /mnt/stockage/packages/f36/ndisc6/po/en_GB.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 525 | 1016 | 51.7 | /mnt/stockage/packages/f36/ndisc6/po/en.po | 
+ | [cs](/f36/language/cs) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/cs.po | 
+ | [de](/f36/language/de) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/de.po | 
+ | [fr](/f36/language/fr) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/fr.po | 
+ | [sv](/f36/language/sv) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f36/ndisc6/po/sv.po | 
+ | [en_GB](/f36/language/en_GB) | 527 | 1016 | 51.9 | /mnt/stockage/packages/f36/ndisc6/po/en_GB.po | 
+ | [en](/f36/language/en) | 525 | 1016 | 51.7 | /mnt/stockage/packages/f36/ndisc6/po/en.po | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtkspell]({{< ref "/f20/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [gtkspell3]({{< ref "/f20/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [mingw-gtkspell3]({{< ref "/f20/package/mingw-gtkspell3.md" >}}) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [dialog]({{< ref "/f20/package/dialog.md" >}}) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [wine]({{< ref "/f20/package/wine.md" >}}) | 38 | 14311 | 0.3 | Romanish | 
+ | [gtkspell](/f20/package/gtkspell) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [gtkspell3](/f20/package/gtkspell3) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [mingw-gtkspell3](/f20/package/mingw-gtkspell3) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [dialog](/f20/package/dialog) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [wine](/f20/package/wine) | 38 | 14311 | 0.3 | Romanish | 
 {.sortable}
 
 

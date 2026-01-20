@@ -18,8 +18,8 @@ The package zoneminder (version 1.28.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f24/zoneminder/web/api/lib/Cake/Test/test_app/Locale/eng/LC_MESSAGES/validation_messages.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f24/zoneminder/distros/debian8/po/fr.po | 
+ | [en](/f24/language/en) | 4 | 4 | 100.0 | /mnt/stockage/packages/f24/zoneminder/web/api/lib/Cake/Test/test_app/Locale/eng/LC_MESSAGES/validation_messages.po | 
+ | [fr](/f24/language/fr) | 330 | 330 | 100.0 | /mnt/stockage/packages/f24/zoneminder/distros/debian8/po/fr.po | 
 {.sortable}
 
 

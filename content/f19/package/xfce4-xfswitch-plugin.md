@@ -18,24 +18,24 @@ The package xfce4-xfswitch-plugin (version 0.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/eu.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/fr.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/ja.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/nl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f19/language/pt_PT.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/pt_PT.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/sv.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/tr.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/zh_CN.po | 
+ | [cs](/f19/language/cs) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/cs.po | 
+ | [de](/f19/language/de) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/de.po | 
+ | [el](/f19/language/el) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/el.po | 
+ | [es](/f19/language/es) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/es.po | 
+ | [et](/f19/language/et) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/et.po | 
+ | [eu](/f19/language/eu) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/eu.po | 
+ | [fi](/f19/language/fi) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/fi.po | 
+ | [fr](/f19/language/fr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/fr.po | 
+ | [id](/f19/language/id) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/id.po | 
+ | [it](/f19/language/it) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/it.po | 
+ | [ja](/f19/language/ja) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/ja.po | 
+ | [nl](/f19/language/nl) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/nl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/pt_BR.po | 
+ | [pt_PT](/f19/language/pt_PT) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/pt_PT.po | 
+ | [ru](/f19/language/ru) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/ru.po | 
+ | [sv](/f19/language/sv) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/sv.po | 
+ | [tr](/f19/language/tr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/tr.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 20 | 20 | 100.0 | /mnt/stockage/packages/f19/xfce4-xfswitch-plugin/po/zh_CN.po | 
 {.sortable}
 
 

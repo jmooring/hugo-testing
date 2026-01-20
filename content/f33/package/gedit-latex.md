@@ -18,34 +18,34 @@ The package gedit-latex (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/bs.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/el.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 934 | 934 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/fr.po/mnt/stockage/packages/f33/gedit-latex/po/oc.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/gl.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/hu.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/it.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/ko.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/lv.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/pt_BR.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 936 | 936 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f33/gedit-latex/po/sr.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/th.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/zh_CN.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 449 | 468 | 95.9 | /mnt/stockage/packages/f33/gedit-latex/po/id.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 412 | 468 | 88.0 | /mnt/stockage/packages/f33/gedit-latex/po/zh_TW.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 411 | 468 | 87.8 | /mnt/stockage/packages/f33/gedit-latex/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 251 | 298 | 84.2 | /mnt/stockage/packages/f33/gedit-latex/po/ru.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 282 | 468 | 60.3 | /mnt/stockage/packages/f33/gedit-latex/po/eu.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 221 | 468 | 47.2 | /mnt/stockage/packages/f33/gedit-latex/po/sv.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 85 | 298 | 28.5 | /mnt/stockage/packages/f33/gedit-latex/po/nb.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 111 | 466 | 23.8 | /mnt/stockage/packages/f33/gedit-latex/po/ca.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 95 | 416 | 22.8 | /mnt/stockage/packages/f33/gedit-latex/po/eo.po | 
+ | [bs](/f33/language/bs) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/bs.po | 
+ | [cs](/f33/language/cs) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/cs.po | 
+ | [da](/f33/language/da) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/da.po | 
+ | [de](/f33/language/de) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/de.po | 
+ | [el](/f33/language/el) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/el.po | 
+ | [es](/f33/language/es) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/es.po | 
+ | [fr](/f33/language/fr) | 934 | 934 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/fr.po/mnt/stockage/packages/f33/gedit-latex/po/oc.po | 
+ | [gl](/f33/language/gl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/gl.po | 
+ | [hu](/f33/language/hu) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/hu.po | 
+ | [it](/f33/language/it) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/it.po | 
+ | [ko](/f33/language/ko) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/ko.po | 
+ | [lv](/f33/language/lv) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/lv.po | 
+ | [pl](/f33/language/pl) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/pl.po | 
+ | [pt](/f33/language/pt) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 478 | 478 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/pt_BR.po | 
+ | [sl](/f33/language/sl) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/sl.po | 
+ | [sr](/f33/language/sr) | 936 | 936 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/sr@latin.po/mnt/stockage/packages/f33/gedit-latex/po/sr.po | 
+ | [th](/f33/language/th) | 468 | 468 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/th.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 466 | 466 | 100.0 | /mnt/stockage/packages/f33/gedit-latex/po/zh_CN.po | 
+ | [id](/f33/language/id) | 449 | 468 | 95.9 | /mnt/stockage/packages/f33/gedit-latex/po/id.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 412 | 468 | 88.0 | /mnt/stockage/packages/f33/gedit-latex/po/zh_TW.po | 
+ | [ro](/f33/language/ro) | 411 | 468 | 87.8 | /mnt/stockage/packages/f33/gedit-latex/po/ro.po | 
+ | [ru](/f33/language/ru) | 251 | 298 | 84.2 | /mnt/stockage/packages/f33/gedit-latex/po/ru.po | 
+ | [eu](/f33/language/eu) | 282 | 468 | 60.3 | /mnt/stockage/packages/f33/gedit-latex/po/eu.po | 
+ | [sv](/f33/language/sv) | 221 | 468 | 47.2 | /mnt/stockage/packages/f33/gedit-latex/po/sv.po | 
+ | [nb_NO](/f33/language/nb_NO) | 85 | 298 | 28.5 | /mnt/stockage/packages/f33/gedit-latex/po/nb.po | 
+ | [ca](/f33/language/ca) | 111 | 466 | 23.8 | /mnt/stockage/packages/f33/gedit-latex/po/ca.po | 
+ | [eo](/f33/language/eo) | 95 | 416 | 22.8 | /mnt/stockage/packages/f33/gedit-latex/po/eo.po | 
 {.sortable}
 
 

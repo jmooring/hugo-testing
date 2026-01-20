@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 10 | 41 | 24.4 | Hiligaynon <hil@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 10 | 41 | 24.4 | Hiligaynon <hil@li.org> | 
 {.sortable}
 
 

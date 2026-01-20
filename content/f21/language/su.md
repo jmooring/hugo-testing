@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f21/package/mintmenu.md" >}}) | 31 | 247 | 12.6 | Sundanese <su@li.org> | 
- | [stellarium]({{< ref "/f21/package/stellarium.md" >}}) | 35 | 15825 | 0.2 | Sundanese <su@li.org> | 
- | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [mintmenu](/f21/package/mintmenu) | 31 | 247 | 12.6 | Sundanese <su@li.org> | 
+ | [stellarium](/f21/package/stellarium) | 35 | 15825 | 0.2 | Sundanese <su@li.org> | 
+ | [vidalia](/f21/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

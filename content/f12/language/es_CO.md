@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f12/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [liblicense]({{< ref "/f12/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f12/package/gnomebaker.md" >}}) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
- | [csound]({{< ref "/f12/package/csound.md" >}}) | 3314 | 13139 | 25.2 |  | 
+ | [gnome-applets](/f12/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f12/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [liblicense](/f12/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f12/package/gnomebaker) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
+ | [csound](/f12/package/csound) | 3314 | 13139 | 25.2 |  | 
 {.sortable}
 
 

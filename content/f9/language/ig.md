@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar]({{< ref "/f9/package/sugar.md" >}}) | 9 | 242 | 3.7 | Igbo | 
- | [sugar-journal]({{< ref "/f9/package/sugar-journal.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f9/package/sugar) | 9 | 242 | 3.7 | Igbo | 
+ | [sugar-journal](/f9/package/sugar-journal) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

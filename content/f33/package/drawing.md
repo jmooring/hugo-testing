@@ -18,30 +18,30 @@ The package drawing (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1788 | 1788 | 100.0 | /mnt/stockage/packages/f33/drawing/po/fr.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1726 | 1788 | 96.5 | /mnt/stockage/packages/f33/drawing/po/ru.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1657 | 1788 | 92.7 | /mnt/stockage/packages/f33/drawing/po/it.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1655 | 1788 | 92.6 | /mnt/stockage/packages/f33/drawing/po/es.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1587 | 1788 | 88.8 | /mnt/stockage/packages/f33/drawing/po/nl.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1571 | 1788 | 87.9 | /mnt/stockage/packages/f33/drawing/po/de.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1571 | 1788 | 87.9 | /mnt/stockage/packages/f33/drawing/po/sv.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1570 | 1788 | 87.8 | /mnt/stockage/packages/f33/drawing/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 1481 | 1788 | 82.8 | /mnt/stockage/packages/f33/drawing/po/ko.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1481 | 1788 | 82.8 | /mnt/stockage/packages/f33/drawing/po/tr.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1317 | 1788 | 73.7 | /mnt/stockage/packages/f33/drawing/po/eu.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1263 | 1788 | 70.6 | /mnt/stockage/packages/f33/drawing/po/cs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 1205 | 1788 | 67.4 | /mnt/stockage/packages/f33/drawing/po/ca.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 1081 | 1788 | 60.5 | /mnt/stockage/packages/f33/drawing/po/da.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 911 | 1788 | 51.0 | /mnt/stockage/packages/f33/drawing/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 907 | 1788 | 50.7 | /mnt/stockage/packages/f33/drawing/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 897 | 1788 | 50.2 | /mnt/stockage/packages/f33/drawing/po/zh_CN.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 882 | 1788 | 49.3 | /mnt/stockage/packages/f33/drawing/po/hr.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 850 | 1788 | 47.5 | /mnt/stockage/packages/f33/drawing/po/fi.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 822 | 1788 | 46.0 | /mnt/stockage/packages/f33/drawing/po/pl.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 750 | 1788 | 41.9 | /mnt/stockage/packages/f33/drawing/po/id.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 696 | 1788 | 38.9 | /mnt/stockage/packages/f33/drawing/po/hu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 372 | 1788 | 20.8 | /mnt/stockage/packages/f33/drawing/po/he.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 227 | 1788 | 12.7 | /mnt/stockage/packages/f33/drawing/po/oc.po | 
+ | [fr](/f33/language/fr) | 1788 | 1788 | 100.0 | /mnt/stockage/packages/f33/drawing/po/fr.po | 
+ | [ru](/f33/language/ru) | 1726 | 1788 | 96.5 | /mnt/stockage/packages/f33/drawing/po/ru.po | 
+ | [it](/f33/language/it) | 1657 | 1788 | 92.7 | /mnt/stockage/packages/f33/drawing/po/it.po | 
+ | [es](/f33/language/es) | 1655 | 1788 | 92.6 | /mnt/stockage/packages/f33/drawing/po/es.po | 
+ | [nl](/f33/language/nl) | 1587 | 1788 | 88.8 | /mnt/stockage/packages/f33/drawing/po/nl.po | 
+ | [de](/f33/language/de) | 1571 | 1788 | 87.9 | /mnt/stockage/packages/f33/drawing/po/de.po | 
+ | [sv](/f33/language/sv) | 1571 | 1788 | 87.9 | /mnt/stockage/packages/f33/drawing/po/sv.po | 
+ | [ja](/f33/language/ja) | 1570 | 1788 | 87.8 | /mnt/stockage/packages/f33/drawing/po/ja.po | 
+ | [ko](/f33/language/ko) | 1481 | 1788 | 82.8 | /mnt/stockage/packages/f33/drawing/po/ko.po | 
+ | [tr](/f33/language/tr) | 1481 | 1788 | 82.8 | /mnt/stockage/packages/f33/drawing/po/tr.po | 
+ | [eu](/f33/language/eu) | 1317 | 1788 | 73.7 | /mnt/stockage/packages/f33/drawing/po/eu.po | 
+ | [cs](/f33/language/cs) | 1263 | 1788 | 70.6 | /mnt/stockage/packages/f33/drawing/po/cs.po | 
+ | [ca](/f33/language/ca) | 1205 | 1788 | 67.4 | /mnt/stockage/packages/f33/drawing/po/ca.po | 
+ | [da](/f33/language/da) | 1081 | 1788 | 60.5 | /mnt/stockage/packages/f33/drawing/po/da.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 911 | 1788 | 51.0 | /mnt/stockage/packages/f33/drawing/po/zh_TW.po | 
+ | [pt_BR](/f33/language/pt_BR) | 907 | 1788 | 50.7 | /mnt/stockage/packages/f33/drawing/po/pt_BR.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 897 | 1788 | 50.2 | /mnt/stockage/packages/f33/drawing/po/zh_CN.po | 
+ | [hr](/f33/language/hr) | 882 | 1788 | 49.3 | /mnt/stockage/packages/f33/drawing/po/hr.po | 
+ | [fi](/f33/language/fi) | 850 | 1788 | 47.5 | /mnt/stockage/packages/f33/drawing/po/fi.po | 
+ | [pl](/f33/language/pl) | 822 | 1788 | 46.0 | /mnt/stockage/packages/f33/drawing/po/pl.po | 
+ | [id](/f33/language/id) | 750 | 1788 | 41.9 | /mnt/stockage/packages/f33/drawing/po/id.po | 
+ | [hu](/f33/language/hu) | 696 | 1788 | 38.9 | /mnt/stockage/packages/f33/drawing/po/hu.po | 
+ | [he](/f33/language/he) | 372 | 1788 | 20.8 | /mnt/stockage/packages/f33/drawing/po/he.po | 
+ | [oc](/f33/language/oc) | 227 | 1788 | 12.7 | /mnt/stockage/packages/f33/drawing/po/oc.po | 
 {.sortable}
 
 

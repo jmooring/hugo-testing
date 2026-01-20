@@ -18,13 +18,13 @@ The package python-kiwi (version 1.9.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f13/python-kiwi/po/pt_BR.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 209 | 228 | 91.7 | /mnt/stockage/packages/f13/python-kiwi/po/es_ES.po | 
- | [es_CL]({{< ref "/f13/language/es_CL.md" >}}) | 209 | 228 | 91.7 | /mnt/stockage/packages/f13/python-kiwi/po/es_CL.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 209 | 228 | 91.7 | /mnt/stockage/packages/f13/python-kiwi/po/it.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 200 | 228 | 87.7 | /mnt/stockage/packages/f13/python-kiwi/po/pl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 193 | 228 | 84.6 | /mnt/stockage/packages/f13/python-kiwi/po/sv.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 156 | 228 | 68.4 | /mnt/stockage/packages/f13/python-kiwi/po/fr.po | 
+ | [pt_BR](/f13/language/pt_BR) | 228 | 228 | 100.0 | /mnt/stockage/packages/f13/python-kiwi/po/pt_BR.po | 
+ | [es](/f13/language/es) | 209 | 228 | 91.7 | /mnt/stockage/packages/f13/python-kiwi/po/es_ES.po | 
+ | [es_CL](/f13/language/es_CL) | 209 | 228 | 91.7 | /mnt/stockage/packages/f13/python-kiwi/po/es_CL.po | 
+ | [it](/f13/language/it) | 209 | 228 | 91.7 | /mnt/stockage/packages/f13/python-kiwi/po/it.po | 
+ | [pl](/f13/language/pl) | 200 | 228 | 87.7 | /mnt/stockage/packages/f13/python-kiwi/po/pl.po | 
+ | [sv](/f13/language/sv) | 193 | 228 | 84.6 | /mnt/stockage/packages/f13/python-kiwi/po/sv.po | 
+ | [fr](/f13/language/fr) | 156 | 228 | 68.4 | /mnt/stockage/packages/f13/python-kiwi/po/fr.po | 
 {.sortable}
 
 

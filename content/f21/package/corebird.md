@@ -18,15 +18,15 @@ The package corebird (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 295 | 315 | 93.7 | /mnt/stockage/packages/f21/corebird/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 295 | 315 | 93.7 | /mnt/stockage/packages/f21/corebird/po/pl.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 290 | 315 | 92.1 | /mnt/stockage/packages/f21/corebird/po/es.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 256 | 315 | 81.3 | /mnt/stockage/packages/f21/corebird/po/de.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 218 | 315 | 69.2 | /mnt/stockage/packages/f21/corebird/po/ar.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 209 | 315 | 66.3 | /mnt/stockage/packages/f21/corebird/po/ja_JP.po | 
- | [en_AU]({{< ref "/f21/language/en_AU.md" >}}) | 149 | 315 | 47.3 | /mnt/stockage/packages/f21/corebird/po/en_AU.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 137 | 315 | 43.5 | /mnt/stockage/packages/f21/corebird/po/fa.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 105 | 315 | 33.3 | /mnt/stockage/packages/f21/corebird/po/zh_CN.po | 
+ | [nl](/f21/language/nl) | 295 | 315 | 93.7 | /mnt/stockage/packages/f21/corebird/po/nl.po | 
+ | [pl](/f21/language/pl) | 295 | 315 | 93.7 | /mnt/stockage/packages/f21/corebird/po/pl.po | 
+ | [es](/f21/language/es) | 290 | 315 | 92.1 | /mnt/stockage/packages/f21/corebird/po/es.po | 
+ | [de](/f21/language/de) | 256 | 315 | 81.3 | /mnt/stockage/packages/f21/corebird/po/de.po | 
+ | [ar](/f21/language/ar) | 218 | 315 | 69.2 | /mnt/stockage/packages/f21/corebird/po/ar.po | 
+ | [ja](/f21/language/ja) | 209 | 315 | 66.3 | /mnt/stockage/packages/f21/corebird/po/ja_JP.po | 
+ | [en_AU](/f21/language/en_AU) | 149 | 315 | 47.3 | /mnt/stockage/packages/f21/corebird/po/en_AU.po | 
+ | [fa](/f21/language/fa) | 137 | 315 | 43.5 | /mnt/stockage/packages/f21/corebird/po/fa.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 105 | 315 | 33.3 | /mnt/stockage/packages/f21/corebird/po/zh_CN.po | 
 {.sortable}
 
 

@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f19/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f19/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [lxinput]({{< ref "/f19/package/lxinput.md" >}}) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
- | [mate-applets]({{< ref "/f19/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [libmateweather]({{< ref "/f19/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f19/package/openerp.md" >}}) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
- | [lxdm]({{< ref "/f19/package/lxdm.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [openerp7]({{< ref "/f19/package/openerp7.md" >}}) | 16650 | 49560 | 33.6 | Spanish (Venezuela) <es_VE@li.org> | 
- | [python-django]({{< ref "/f19/package/python-django.md" >}}) | 287 | 937 | 30.6 | Spanish (Venezuela) (http://www.transifex.com/projects/p/django/language/es_VE/) | 
- | [lxpolkit]({{< ref "/f19/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | Spanish | 
+ | [libgweather](/f19/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f19/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [lxinput](/f19/package/lxinput) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [mate-applets](/f19/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [libmateweather](/f19/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f19/package/openerp) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [lxdm](/f19/package/lxdm) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [openerp7](/f19/package/openerp7) | 16650 | 49560 | 33.6 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [python-django](/f19/package/python-django) | 287 | 937 | 30.6 | Spanish (Venezuela) (http://www.transifex.com/projects/p/django/language/es_VE/) | 
+ | [lxpolkit](/f19/package/lxpolkit) | 0 | 15 | 0.0 | Spanish | 
 {.sortable}
 
 

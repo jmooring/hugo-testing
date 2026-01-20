@@ -18,52 +18,52 @@ The package gnome-spell (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/de.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/gl.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ko.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/no.po/mnt/stockage/packages/f7/gnome-spell/po/nb.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ne.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/pt_BR.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/sk.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/sq.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/vi.po | 
- | [wa]({{< ref "/f7/language/wa.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/wa.po | 
- | [xh]({{< ref "/f7/language/xh.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/xh.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/sr@Latn.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/hr.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/pa.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/sr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/uk.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/zh_CN.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 78 | 87 | 89.7 | /mnt/stockage/packages/f7/gnome-spell/po/tr.po | 
- | [az]({{< ref "/f7/language/az.md" >}}) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/az.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/be.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/da.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/pt.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/sv.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 58 | 87 | 66.7 | /mnt/stockage/packages/f7/gnome-spell/po/he.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 58 | 87 | 66.7 | /mnt/stockage/packages/f7/gnome-spell/po/lv.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 55 | 87 | 63.2 | /mnt/stockage/packages/f7/gnome-spell/po/bg.po | 
- | [kn]({{< ref "/f7/language/kn.md" >}}) | 55 | 87 | 63.2 | /mnt/stockage/packages/f7/gnome-spell/po/kn.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 53 | 87 | 60.9 | /mnt/stockage/packages/f7/gnome-spell/po/ta.po | 
- | [am]({{< ref "/f7/language/am.md" >}}) | 47 | 87 | 54.0 | /mnt/stockage/packages/f7/gnome-spell/po/am.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 42 | 87 | 48.3 | /mnt/stockage/packages/f7/gnome-spell/po/el.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 41 | 87 | 47.1 | /mnt/stockage/packages/f7/gnome-spell/po/rw.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 37 | 87 | 42.5 | /mnt/stockage/packages/f7/gnome-spell/po/ga.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 24 | 87 | 27.6 | /mnt/stockage/packages/f7/gnome-spell/po/lt.po | 
+ | [ca](/f7/language/ca) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ca.po | 
+ | [cs](/f7/language/cs) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/cs.po | 
+ | [de](/f7/language/de) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/de.po | 
+ | [en_CA](/f7/language/en_CA) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/en_GB.po | 
+ | [es](/f7/language/es) | 261 | 261 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/es.po | 
+ | [fi](/f7/language/fi) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/fi.po | 
+ | [fr](/f7/language/fr) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/fr.po | 
+ | [gl](/f7/language/gl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/gl.po | 
+ | [hu](/f7/language/hu) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/hu.po | 
+ | [it](/f7/language/it) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/it.po | 
+ | [ja](/f7/language/ja) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ja.po | 
+ | [ko](/f7/language/ko) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ko.po | 
+ | [nb_NO](/f7/language/nb_NO) | 174 | 174 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/no.po/mnt/stockage/packages/f7/gnome-spell/po/nb.po | 
+ | [ne](/f7/language/ne) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/ne.po | 
+ | [nl](/f7/language/nl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/nl.po | 
+ | [pl](/f7/language/pl) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/pt_BR.po | 
+ | [sk](/f7/language/sk) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/sk.po | 
+ | [sq](/f7/language/sq) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/sq.po | 
+ | [vi](/f7/language/vi) | 261 | 261 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/vi.po | 
+ | [wa](/f7/language/wa) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/wa.po | 
+ | [xh](/f7/language/xh) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/gnome-spell/po/xh.po | 
+ | [error](/f7/language/error) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/sr@Latn.po | 
+ | [hr](/f7/language/hr) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/hr.po | 
+ | [pa](/f7/language/pa) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/pa.po | 
+ | [sr](/f7/language/sr) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/sr.po | 
+ | [uk](/f7/language/uk) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/uk.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 84 | 87 | 96.6 | /mnt/stockage/packages/f7/gnome-spell/po/zh_CN.po | 
+ | [tr](/f7/language/tr) | 78 | 87 | 89.7 | /mnt/stockage/packages/f7/gnome-spell/po/tr.po | 
+ | [az](/f7/language/az) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/az.po | 
+ | [be](/f7/language/be) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/be.po | 
+ | [da](/f7/language/da) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/da.po | 
+ | [pt](/f7/language/pt) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/pt.po | 
+ | [ru](/f7/language/ru) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/ru.po | 
+ | [sv](/f7/language/sv) | 64 | 87 | 73.6 | /mnt/stockage/packages/f7/gnome-spell/po/sv.po | 
+ | [he](/f7/language/he) | 58 | 87 | 66.7 | /mnt/stockage/packages/f7/gnome-spell/po/he.po | 
+ | [lv](/f7/language/lv) | 58 | 87 | 66.7 | /mnt/stockage/packages/f7/gnome-spell/po/lv.po | 
+ | [bg](/f7/language/bg) | 55 | 87 | 63.2 | /mnt/stockage/packages/f7/gnome-spell/po/bg.po | 
+ | [kn](/f7/language/kn) | 55 | 87 | 63.2 | /mnt/stockage/packages/f7/gnome-spell/po/kn.po | 
+ | [ta](/f7/language/ta) | 53 | 87 | 60.9 | /mnt/stockage/packages/f7/gnome-spell/po/ta.po | 
+ | [am](/f7/language/am) | 47 | 87 | 54.0 | /mnt/stockage/packages/f7/gnome-spell/po/am.po | 
+ | [el](/f7/language/el) | 42 | 87 | 48.3 | /mnt/stockage/packages/f7/gnome-spell/po/el.po | 
+ | [rw](/f7/language/rw) | 41 | 87 | 47.1 | /mnt/stockage/packages/f7/gnome-spell/po/rw.po | 
+ | [ga](/f7/language/ga) | 37 | 87 | 42.5 | /mnt/stockage/packages/f7/gnome-spell/po/ga.po | 
+ | [lt](/f7/language/lt) | 24 | 87 | 27.6 | /mnt/stockage/packages/f7/gnome-spell/po/lt.po | 
 {.sortable}
 
 

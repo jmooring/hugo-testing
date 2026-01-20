@@ -18,23 +18,23 @@ The package cgit (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 3348 | 3348 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/hu.po/mnt/stockage/packages/f19/cgit/gitk-git/po/hu.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f19/cgit/po/is.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 3369 | 3369 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/ja.po/mnt/stockage/packages/f19/cgit/gitk-git/po/ja.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 16345 | 16345 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/sv.po/mnt/stockage/packages/f19/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f19/cgit/po/sv.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 12881 | 12881 | 100.0 | /mnt/stockage/packages/f19/cgit/po/vi.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 16332 | 16339 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/de.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f19/cgit/gitk-git/po/de.po/mnt/stockage/packages/f19/cgit/po/de.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 3448 | 3461 | 99.6 | /mnt/stockage/packages/f19/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f19/cgit/gitk-git/po/pt_br.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 3238 | 3252 | 99.6 | /mnt/stockage/packages/f19/cgit/git-gui/po/ru.po/mnt/stockage/packages/f19/cgit/gitk-git/po/ru.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 14706 | 14784 | 99.5 | /mnt/stockage/packages/f19/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f19/cgit/po/zh_CN.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 3407 | 3443 | 99.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/fr.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f19/cgit/gitk-git/po/fr.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 1887 | 1911 | 98.7 | /mnt/stockage/packages/f19/cgit/git-gui/po/el.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 717 | 733 | 97.8 | /mnt/stockage/packages/f19/cgit/gitk-git/po/es.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f19/cgit/git-gui/po/nb.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 7663 | 10399 | 73.7 | /mnt/stockage/packages/f19/cgit/git-gui/po/it.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f19/cgit/gitk-git/po/it.po/mnt/stockage/packages/f19/cgit/po/it.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 1198 | 6351 | 18.9 | /mnt/stockage/packages/f19/cgit/po/pt_PT.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 0 | 4578 | 0.0 | /mnt/stockage/packages/f19/cgit/po/da.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 4552 | 0.0 | /mnt/stockage/packages/f19/cgit/po/nl.po | 
+ | [hu](/f19/language/hu) | 3348 | 3348 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/hu.po/mnt/stockage/packages/f19/cgit/gitk-git/po/hu.po | 
+ | [is](/f19/language/is) | 65 | 65 | 100.0 | /mnt/stockage/packages/f19/cgit/po/is.po | 
+ | [ja](/f19/language/ja) | 3369 | 3369 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/ja.po/mnt/stockage/packages/f19/cgit/gitk-git/po/ja.po | 
+ | [sv](/f19/language/sv) | 16345 | 16345 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/sv.po/mnt/stockage/packages/f19/cgit/gitk-git/po/sv.po/mnt/stockage/packages/f19/cgit/po/sv.po | 
+ | [vi](/f19/language/vi) | 12881 | 12881 | 100.0 | /mnt/stockage/packages/f19/cgit/po/vi.po | 
+ | [de](/f19/language/de) | 16332 | 16339 | 100.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/de.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/de.po/mnt/stockage/packages/f19/cgit/gitk-git/po/de.po/mnt/stockage/packages/f19/cgit/po/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 3448 | 3461 | 99.6 | /mnt/stockage/packages/f19/cgit/git-gui/po/pt_br.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/pt_br.po/mnt/stockage/packages/f19/cgit/gitk-git/po/pt_br.po | 
+ | [ru](/f19/language/ru) | 3238 | 3252 | 99.6 | /mnt/stockage/packages/f19/cgit/git-gui/po/ru.po/mnt/stockage/packages/f19/cgit/gitk-git/po/ru.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 14706 | 14784 | 99.5 | /mnt/stockage/packages/f19/cgit/git-gui/po/zh_cn.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/zh_cn.po/mnt/stockage/packages/f19/cgit/po/zh_CN.po | 
+ | [fr](/f19/language/fr) | 3407 | 3443 | 99.0 | /mnt/stockage/packages/f19/cgit/git-gui/po/fr.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/fr.po/mnt/stockage/packages/f19/cgit/gitk-git/po/fr.po | 
+ | [el](/f19/language/el) | 1887 | 1911 | 98.7 | /mnt/stockage/packages/f19/cgit/git-gui/po/el.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/el.po | 
+ | [es](/f19/language/es) | 717 | 733 | 97.8 | /mnt/stockage/packages/f19/cgit/gitk-git/po/es.po | 
+ | [nb_NO](/f19/language/nb_NO) | 1882 | 2325 | 80.9 | /mnt/stockage/packages/f19/cgit/git-gui/po/nb.po | 
+ | [it](/f19/language/it) | 7663 | 10399 | 73.7 | /mnt/stockage/packages/f19/cgit/git-gui/po/it.po/mnt/stockage/packages/f19/cgit/git-gui/po/glossary/it.po/mnt/stockage/packages/f19/cgit/gitk-git/po/it.po/mnt/stockage/packages/f19/cgit/po/it.po | 
+ | [pt](/f19/language/pt) | 1198 | 6351 | 18.9 | /mnt/stockage/packages/f19/cgit/po/pt_PT.po | 
+ | [da](/f19/language/da) | 0 | 4578 | 0.0 | /mnt/stockage/packages/f19/cgit/po/da.po | 
+ | [nl](/f19/language/nl) | 0 | 4552 | 0.0 | /mnt/stockage/packages/f19/cgit/po/nl.po | 
 {.sortable}
 
 

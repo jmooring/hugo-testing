@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openteacher]({{< ref "/f28/package/openteacher.md" >}}) | 2 | 2 | 100.0 | Creek <mus@li.org> | 
- | [appcenter]({{< ref "/f28/package/appcenter.md" >}}) | 4 | 779 | 0.5 | Creek <mus@li.org> | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 3 | 616 | 0.5 | Creek <mus@li.org> | 
+ | [openteacher](/f28/package/openteacher) | 2 | 2 | 100.0 | Creek <mus@li.org> | 
+ | [appcenter](/f28/package/appcenter) | 4 | 779 | 0.5 | Creek <mus@li.org> | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 3 | 616 | 0.5 | Creek <mus@li.org> | 
 {.sortable}
 
 

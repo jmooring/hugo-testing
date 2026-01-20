@@ -18,9 +18,9 @@ The package amide (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 5917 | 5917 | 100.0 | /mnt/stockage/packages/f19/amide/po/zh_TW.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 8511 | 9542 | 89.2 | /mnt/stockage/packages/f19/amide/help/es/es.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 575 | 5576 | 10.3 | /mnt/stockage/packages/f19/amide/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 5917 | 5917 | 100.0 | /mnt/stockage/packages/f19/amide/po/zh_TW.po | 
+ | [es](/f19/language/es) | 8511 | 9542 | 89.2 | /mnt/stockage/packages/f19/amide/help/es/es.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 575 | 5576 | 10.3 | /mnt/stockage/packages/f19/amide/po/zh_CN.po | 
 {.sortable}
 
 

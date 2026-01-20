@@ -18,13 +18,13 @@ The package fmit (version 1.2.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/de.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/el.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/fr.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/pt_BR.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 143 | 222 | 64.4 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/nb_NO.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 0 | 222 | 0.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/ru.po | 
+ | [de](/f30/language/de) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/de.po | 
+ | [el](/f30/language/el) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/el.po | 
+ | [fr](/f30/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/fr.po | 
+ | [pt](/f30/language/pt) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 222 | 222 | 100.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/pt_BR.po | 
+ | [nb_NO](/f30/language/nb_NO) | 143 | 222 | 64.4 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/nb_NO.po | 
+ | [ru](/f30/language/ru) | 0 | 222 | 0.0 | /mnt/stockage/packages/f30/fmit/distrib/appdata_tr/ru.po | 
 {.sortable}
 
 

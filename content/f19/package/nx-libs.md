@@ -18,10 +18,10 @@ The package nx-libs (version 3.5.0.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [de](/f19/language/de) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f19/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f19/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f19/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f19/nx-libs/nx-X11/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
 {.sortable}
 
 

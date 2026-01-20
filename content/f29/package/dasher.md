@@ -18,91 +18,91 @@ The package dasher (version 5.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ast.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f29/dasher/po/be@latin.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bn_IN.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bs.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 7203 | 7203 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/cs/cs.po/mnt/stockage/packages/f29/dasher/po/cs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f29/dasher/po/cy.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 7203 | 7203 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/de/de.po/mnt/stockage/packages/f29/dasher/po/de.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f29/dasher/po/dz.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 7220 | 7220 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/el/el.po/mnt/stockage/packages/f29/dasher/po/el.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f29/dasher/po/en_CA.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 7181 | 7181 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/en_GB/en_GB.po/mnt/stockage/packages/f29/dasher/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 7220 | 7220 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/es/es.po/mnt/stockage/packages/f29/dasher/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 6560 | 6560 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/eu/eu.po/mnt/stockage/packages/f29/dasher/po/eu.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 7144 | 7144 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/fr/fr.po/mnt/stockage/packages/f29/dasher/po/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 649 | 649 | 100.0 | /mnt/stockage/packages/f29/dasher/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/hi.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1275 | 1275 | 100.0 | /mnt/stockage/packages/f29/dasher/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/it.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ko.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ky.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 526 | 526 | 100.0 | /mnt/stockage/packages/f29/dasher/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ml.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f29/dasher/po/mn.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/mr.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ne.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f29/dasher/po/nn.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1275 | 1275 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1275 | 1275 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pt_BR.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f29/dasher/po/sk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f29/dasher/po/sr@latin.po/mnt/stockage/packages/f29/dasher/po/sr.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 638 | 638 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f29/dasher/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/tr.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ug.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 649 | 649 | 100.0 | /mnt/stockage/packages/f29/dasher/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f29/dasher/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 6579 | 6579 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/zh_CN/zh_CN.po/mnt/stockage/packages/f29/dasher/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/zh_HK.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 1211 | 1216 | 99.6 | /mnt/stockage/packages/f29/dasher/po/be.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 6868 | 6898 | 99.6 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/ru/ru.po/mnt/stockage/packages/f29/dasher/po/ru.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 640 | 649 | 98.6 | /mnt/stockage/packages/f29/dasher/po/ku.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 300 | 310 | 96.8 | /mnt/stockage/packages/f29/dasher/po/mg.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 622 | 649 | 95.8 | /mnt/stockage/packages/f29/dasher/po/fa.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 6517 | 7233 | 90.1 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/ca/ca.po/mnt/stockage/packages/f29/dasher/po/ca.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 539 | 614 | 87.8 | /mnt/stockage/packages/f29/dasher/po/en@shaw.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 519 | 615 | 84.4 | /mnt/stockage/packages/f29/dasher/po/ar.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 327 | 423 | 77.3 | /mnt/stockage/packages/f29/dasher/po/az.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 493 | 638 | 77.3 | /mnt/stockage/packages/f29/dasher/po/af.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 340 | 445 | 76.4 | /mnt/stockage/packages/f29/dasher/po/uz@cyrillic.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 269 | 423 | 63.6 | /mnt/stockage/packages/f29/dasher/po/hr.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 260 | 423 | 61.5 | /mnt/stockage/packages/f29/dasher/po/ms.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 273 | 528 | 51.7 | /mnt/stockage/packages/f29/dasher/po/ps.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 617 | 1214 | 50.8 | /mnt/stockage/packages/f29/dasher/po/nb.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 539 | 1214 | 44.4 | /mnt/stockage/packages/f29/dasher/po/ja.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 264 | 615 | 42.9 | /mnt/stockage/packages/f29/dasher/po/mai.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 522 | 1292 | 40.4 | /mnt/stockage/packages/f29/dasher/po/fi.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 511 | 1292 | 39.6 | /mnt/stockage/packages/f29/dasher/po/or.po | 
- | [tk]({{< ref "/f29/language/tk.md" >}}) | 141 | 423 | 33.3 | /mnt/stockage/packages/f29/dasher/po/tk.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 410 | 1292 | 31.7 | /mnt/stockage/packages/f29/dasher/po/sq.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 95 | 443 | 21.4 | /mnt/stockage/packages/f29/dasher/po/si.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 1407 | 7218 | 19.5 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/oc/oc.po/mnt/stockage/packages/f29/dasher/po/oc.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 1335 | 7233 | 18.5 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/sl/sl.po/mnt/stockage/packages/f29/dasher/po/sl.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 1164 | 6562 | 17.7 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/ro/ro.po/mnt/stockage/packages/f29/dasher/po/ro.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 71 | 423 | 16.8 | /mnt/stockage/packages/f29/dasher/po/ga.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 98 | 634 | 15.5 | /mnt/stockage/packages/f29/dasher/po/kk.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 70 | 516 | 13.6 | /mnt/stockage/packages/f29/dasher/po/ka.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 952 | 7233 | 13.2 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/sv/sv.po/mnt/stockage/packages/f29/dasher/po/sv.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 42 | 423 | 9.9 | /mnt/stockage/packages/f29/dasher/po/rw.po | 
+ | [as](/f29/language/as) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/as.po | 
+ | [ast](/f29/language/ast) | 614 | 614 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ast.po | 
+ | [be_Latn](/f29/language/be_Latn) | 526 | 526 | 100.0 | /mnt/stockage/packages/f29/dasher/po/be@latin.po | 
+ | [bg](/f29/language/bg) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bg.po | 
+ | [bn](/f29/language/bn) | 614 | 614 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bn_IN.po | 
+ | [bs](/f29/language/bs) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/bs.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 7203 | 7203 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/cs/cs.po/mnt/stockage/packages/f29/dasher/po/cs.po | 
+ | [cy](/f29/language/cy) | 559 | 559 | 100.0 | /mnt/stockage/packages/f29/dasher/po/cy.po | 
+ | [da](/f29/language/da) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/da.po | 
+ | [de](/f29/language/de) | 7203 | 7203 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/de/de.po/mnt/stockage/packages/f29/dasher/po/de.po | 
+ | [dz](/f29/language/dz) | 460 | 460 | 100.0 | /mnt/stockage/packages/f29/dasher/po/dz.po | 
+ | [el](/f29/language/el) | 7220 | 7220 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/el/el.po/mnt/stockage/packages/f29/dasher/po/el.po | 
+ | [en_CA](/f29/language/en_CA) | 443 | 443 | 100.0 | /mnt/stockage/packages/f29/dasher/po/en_CA.po | 
+ | [en_GB](/f29/language/en_GB) | 7181 | 7181 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/en_GB/en_GB.po/mnt/stockage/packages/f29/dasher/po/en_GB.po | 
+ | [es](/f29/language/es) | 7220 | 7220 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/es/es.po/mnt/stockage/packages/f29/dasher/po/es.po | 
+ | [et](/f29/language/et) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/et.po | 
+ | [eu](/f29/language/eu) | 6560 | 6560 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/eu/eu.po/mnt/stockage/packages/f29/dasher/po/eu.po | 
+ | [fr](/f29/language/fr) | 7144 | 7144 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/fr/fr.po/mnt/stockage/packages/f29/dasher/po/fr.po | 
+ | [gl](/f29/language/gl) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/gl.po | 
+ | [gu](/f29/language/gu) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/gu.po | 
+ | [he](/f29/language/he) | 649 | 649 | 100.0 | /mnt/stockage/packages/f29/dasher/po/he.po | 
+ | [hi](/f29/language/hi) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/hi.po | 
+ | [hu](/f29/language/hu) | 1275 | 1275 | 100.0 | /mnt/stockage/packages/f29/dasher/po/hu.po | 
+ | [id](/f29/language/id) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/id.po | 
+ | [it](/f29/language/it) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/it.po | 
+ | [kn](/f29/language/kn) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/kn.po | 
+ | [ko](/f29/language/ko) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ko.po | 
+ | [ky](/f29/language/ky) | 471 | 471 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ky.po | 
+ | [lt](/f29/language/lt) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/lt.po | 
+ | [lv](/f29/language/lv) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/lv.po | 
+ | [mk](/f29/language/mk) | 526 | 526 | 100.0 | /mnt/stockage/packages/f29/dasher/po/mk.po | 
+ | [ml](/f29/language/ml) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ml.po | 
+ | [mn](/f29/language/mn) | 311 | 311 | 100.0 | /mnt/stockage/packages/f29/dasher/po/mn.po | 
+ | [mr](/f29/language/mr) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/mr.po | 
+ | [ne](/f29/language/ne) | 443 | 443 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ne.po | 
+ | [nl](/f29/language/nl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/nl.po | 
+ | [nn](/f29/language/nn) | 638 | 638 | 100.0 | /mnt/stockage/packages/f29/dasher/po/nn.po | 
+ | [pa](/f29/language/pa) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pa.po | 
+ | [pl](/f29/language/pl) | 1275 | 1275 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pl.po | 
+ | [pt](/f29/language/pt) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1275 | 1275 | 100.0 | /mnt/stockage/packages/f29/dasher/po/pt_BR.po | 
+ | [sk](/f29/language/sk) | 311 | 311 | 100.0 | /mnt/stockage/packages/f29/dasher/po/sk.po | 
+ | [sr](/f29/language/sr) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f29/dasher/po/sr@latin.po/mnt/stockage/packages/f29/dasher/po/sr.po | 
+ | [ta](/f29/language/ta) | 638 | 638 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ta.po | 
+ | [te](/f29/language/te) | 615 | 615 | 100.0 | /mnt/stockage/packages/f29/dasher/po/te.po | 
+ | [th](/f29/language/th) | 528 | 528 | 100.0 | /mnt/stockage/packages/f29/dasher/po/th.po | 
+ | [tr](/f29/language/tr) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f29/dasher/po/tr.po | 
+ | [ug](/f29/language/ug) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/ug.po | 
+ | [uk](/f29/language/uk) | 649 | 649 | 100.0 | /mnt/stockage/packages/f29/dasher/po/uk.po | 
+ | [vi](/f29/language/vi) | 614 | 614 | 100.0 | /mnt/stockage/packages/f29/dasher/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 6579 | 6579 | 100.0 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/zh_CN/zh_CN.po/mnt/stockage/packages/f29/dasher/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/dasher/po/zh_HK.po | 
+ | [be](/f29/language/be) | 1211 | 1216 | 99.6 | /mnt/stockage/packages/f29/dasher/po/be.po | 
+ | [ru](/f29/language/ru) | 6868 | 6898 | 99.6 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/ru/ru.po/mnt/stockage/packages/f29/dasher/po/ru.po | 
+ | [ku](/f29/language/ku) | 640 | 649 | 98.6 | /mnt/stockage/packages/f29/dasher/po/ku.po | 
+ | [mg](/f29/language/mg) | 300 | 310 | 96.8 | /mnt/stockage/packages/f29/dasher/po/mg.po | 
+ | [fa](/f29/language/fa) | 622 | 649 | 95.8 | /mnt/stockage/packages/f29/dasher/po/fa.po | 
+ | [ca](/f29/language/ca) | 6517 | 7233 | 90.1 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/ca/ca.po/mnt/stockage/packages/f29/dasher/po/ca.po | 
+ | [error](/f29/language/error) | 539 | 614 | 87.8 | /mnt/stockage/packages/f29/dasher/po/en@shaw.po | 
+ | [ar](/f29/language/ar) | 519 | 615 | 84.4 | /mnt/stockage/packages/f29/dasher/po/ar.po | 
+ | [az](/f29/language/az) | 327 | 423 | 77.3 | /mnt/stockage/packages/f29/dasher/po/az.po | 
+ | [af](/f29/language/af) | 493 | 638 | 77.3 | /mnt/stockage/packages/f29/dasher/po/af.po | 
+ | [uz](/f29/language/uz) | 340 | 445 | 76.4 | /mnt/stockage/packages/f29/dasher/po/uz@cyrillic.po | 
+ | [hr](/f29/language/hr) | 269 | 423 | 63.6 | /mnt/stockage/packages/f29/dasher/po/hr.po | 
+ | [ms](/f29/language/ms) | 260 | 423 | 61.5 | /mnt/stockage/packages/f29/dasher/po/ms.po | 
+ | [ps](/f29/language/ps) | 273 | 528 | 51.7 | /mnt/stockage/packages/f29/dasher/po/ps.po | 
+ | [nb_NO](/f29/language/nb_NO) | 617 | 1214 | 50.8 | /mnt/stockage/packages/f29/dasher/po/nb.po | 
+ | [ja](/f29/language/ja) | 539 | 1214 | 44.4 | /mnt/stockage/packages/f29/dasher/po/ja.po | 
+ | [mai](/f29/language/mai) | 264 | 615 | 42.9 | /mnt/stockage/packages/f29/dasher/po/mai.po | 
+ | [fi](/f29/language/fi) | 522 | 1292 | 40.4 | /mnt/stockage/packages/f29/dasher/po/fi.po | 
+ | [or](/f29/language/or) | 511 | 1292 | 39.6 | /mnt/stockage/packages/f29/dasher/po/or.po | 
+ | [tk](/f29/language/tk) | 141 | 423 | 33.3 | /mnt/stockage/packages/f29/dasher/po/tk.po | 
+ | [sq](/f29/language/sq) | 410 | 1292 | 31.7 | /mnt/stockage/packages/f29/dasher/po/sq.po | 
+ | [si](/f29/language/si) | 95 | 443 | 21.4 | /mnt/stockage/packages/f29/dasher/po/si.po | 
+ | [oc](/f29/language/oc) | 1407 | 7218 | 19.5 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/oc/oc.po/mnt/stockage/packages/f29/dasher/po/oc.po | 
+ | [sl](/f29/language/sl) | 1335 | 7233 | 18.5 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/sl/sl.po/mnt/stockage/packages/f29/dasher/po/sl.po | 
+ | [ro](/f29/language/ro) | 1164 | 6562 | 17.7 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/ro/ro.po/mnt/stockage/packages/f29/dasher/po/ro.po | 
+ | [ga](/f29/language/ga) | 71 | 423 | 16.8 | /mnt/stockage/packages/f29/dasher/po/ga.po | 
+ | [kk](/f29/language/kk) | 98 | 634 | 15.5 | /mnt/stockage/packages/f29/dasher/po/kk.po | 
+ | [ka](/f29/language/ka) | 70 | 516 | 13.6 | /mnt/stockage/packages/f29/dasher/po/ka.po | 
+ | [sv](/f29/language/sv) | 952 | 7233 | 13.2 | /mnt/stockage/packages/f29/dasher/Data/Help/Gnome/sv/sv.po/mnt/stockage/packages/f29/dasher/po/sv.po | 
+ | [rw](/f29/language/rw) | 42 | 423 | 9.9 | /mnt/stockage/packages/f29/dasher/po/rw.po | 
 {.sortable}
 
 

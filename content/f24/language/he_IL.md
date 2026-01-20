@@ -38,34 +38,34 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bluedevil]({{< ref "/f24/package/bluedevil.md" >}}) | 556 | 556 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [boost]({{< ref "/f24/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [darktable]({{< ref "/f24/package/darktable.md" >}}) | 9469 | 9469 | 100.0 |  | 
- | [gnome-clocks]({{< ref "/f24/package/gnome-clocks.md" >}}) | 269 | 269 | 100.0 | עברית <> | 
- | [gnome-color-manager]({{< ref "/f24/package/gnome-color-manager.md" >}}) | 1793 | 1793 | 100.0 | עברית <> | 
- | [gnome-contacts]({{< ref "/f24/package/gnome-contacts.md" >}}) | 411 | 411 | 100.0 | עברית <> | 
- | [kdeplasma-addons]({{< ref "/f24/package/kdeplasma-addons.md" >}}) | 20 | 20 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [kscreen]({{< ref "/f24/package/kscreen.md" >}}) | 32 | 32 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [mingw-boost]({{< ref "/f24/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [plasma-nm]({{< ref "/f24/package/plasma-nm.md" >}}) | 25 | 25 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [plasma-sdk]({{< ref "/f24/package/plasma-sdk.md" >}}) | 43 | 43 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [plasma-systemsettings]({{< ref "/f24/package/plasma-systemsettings.md" >}}) | 186 | 186 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [sddm-kcm]({{< ref "/f24/package/sddm-kcm.md" >}}) | 60 | 60 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [poedit]({{< ref "/f24/package/poedit.md" >}}) | 2528 | 2529 | 100.0 | Hebrew | 
- | [kf5-kpeople]({{< ref "/f24/package/kf5-kpeople.md" >}}) | 19 | 21 | 90.5 | Hebrew <kde-i18n-doc@kde.org> | 
- | [python-flask-admin]({{< ref "/f24/package/python-flask-admin.md" >}}) | 321 | 361 | 88.9 | Hebrew | 
- | [kde-gtk-config]({{< ref "/f24/package/kde-gtk-config.md" >}}) | 260 | 300 | 86.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [rygel]({{< ref "/f24/package/rygel.md" >}}) | 971 | 1140 | 85.2 | עברית <> | 
- | [plasma-desktop]({{< ref "/f24/package/plasma-desktop.md" >}}) | 363 | 526 | 69.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [konversation]({{< ref "/f24/package/konversation.md" >}}) | 5627 | 10294 | 54.7 | Hebrew <kde-i18n-doc@kde.org> | 
- | [glpi]({{< ref "/f24/package/glpi.md" >}}) | 4295 | 10636 | 40.4 | Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/) | 
- | [plasma-workspace]({{< ref "/f24/package/plasma-workspace.md" >}}) | 317 | 835 | 38.0 | Hebrew <kde-i18n-doc@kde.org> | 
- | [squirrelmail]({{< ref "/f24/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [kde-l10n]({{< ref "/f24/package/kde-l10n.md" >}}) | 153 | 506 | 30.2 | Hebrew <kde-i18n-doc@kde.org> | 
- | [wxPython]({{< ref "/f24/package/wxPython.md" >}}) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
- | [clementine]({{< ref "/f24/package/clementine.md" >}}) | 0 | 5091 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [publican-fedora]({{< ref "/f24/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
- | [python-django-rest-framework]({{< ref "/f24/package/python-django-rest-framework.md" >}}) | 0 | 562 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [bluedevil](/f24/package/bluedevil) | 556 | 556 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [boost](/f24/package/boost) | 1 | 1 | 100.0 |  | 
+ | [darktable](/f24/package/darktable) | 9469 | 9469 | 100.0 |  | 
+ | [gnome-clocks](/f24/package/gnome-clocks) | 269 | 269 | 100.0 | עברית <> | 
+ | [gnome-color-manager](/f24/package/gnome-color-manager) | 1793 | 1793 | 100.0 | עברית <> | 
+ | [gnome-contacts](/f24/package/gnome-contacts) | 411 | 411 | 100.0 | עברית <> | 
+ | [kdeplasma-addons](/f24/package/kdeplasma-addons) | 20 | 20 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [kscreen](/f24/package/kscreen) | 32 | 32 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [mingw-boost](/f24/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [plasma-nm](/f24/package/plasma-nm) | 25 | 25 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [plasma-sdk](/f24/package/plasma-sdk) | 43 | 43 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [plasma-systemsettings](/f24/package/plasma-systemsettings) | 186 | 186 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [sddm-kcm](/f24/package/sddm-kcm) | 60 | 60 | 100.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [poedit](/f24/package/poedit) | 2528 | 2529 | 100.0 | Hebrew | 
+ | [kf5-kpeople](/f24/package/kf5-kpeople) | 19 | 21 | 90.5 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [python-flask-admin](/f24/package/python-flask-admin) | 321 | 361 | 88.9 | Hebrew | 
+ | [kde-gtk-config](/f24/package/kde-gtk-config) | 260 | 300 | 86.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [rygel](/f24/package/rygel) | 971 | 1140 | 85.2 | עברית <> | 
+ | [plasma-desktop](/f24/package/plasma-desktop) | 363 | 526 | 69.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [konversation](/f24/package/konversation) | 5627 | 10294 | 54.7 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [glpi](/f24/package/glpi) | 4295 | 10636 | 40.4 | Hebrew (Israel) (http://www.transifex.com/glpi/GLPI/language/he_IL/) | 
+ | [plasma-workspace](/f24/package/plasma-workspace) | 317 | 835 | 38.0 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [squirrelmail](/f24/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [kde-l10n](/f24/package/kde-l10n) | 153 | 506 | 30.2 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [wxPython](/f24/package/wxPython) | 360 | 2457 | 14.7 | Hebrew <he@li.org> | 
+ | [clementine](/f24/package/clementine) | 0 | 5091 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [publican-fedora](/f24/package/publican-fedora) | 0 | 1 | 0.0 | None | 
+ | [python-django-rest-framework](/f24/package/python-django-rest-framework) | 0 | 562 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
 {.sortable}
 
 

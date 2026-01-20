@@ -18,16 +18,16 @@ The package tangogps (version 0.99.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 445 | 561 | 79.3 | /mnt/stockage/packages/f11/tangogps/po/nl.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 435 | 561 | 77.5 | /mnt/stockage/packages/f11/tangogps/po/hu.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 417 | 561 | 74.3 | /mnt/stockage/packages/f11/tangogps/po/sk.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 351 | 561 | 62.6 | /mnt/stockage/packages/f11/tangogps/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 216 | 561 | 38.5 | /mnt/stockage/packages/f11/tangogps/po/fr.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 210 | 561 | 37.4 | /mnt/stockage/packages/f11/tangogps/po/bg.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 201 | 561 | 35.8 | /mnt/stockage/packages/f11/tangogps/po/cs.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 201 | 561 | 35.8 | /mnt/stockage/packages/f11/tangogps/po/fi.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 187 | 561 | 33.3 | /mnt/stockage/packages/f11/tangogps/po/ru.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 3 | 561 | 0.5 | /mnt/stockage/packages/f11/tangogps/po/de.po | 
+ | [nl](/f11/language/nl) | 445 | 561 | 79.3 | /mnt/stockage/packages/f11/tangogps/po/nl.po | 
+ | [hu](/f11/language/hu) | 435 | 561 | 77.5 | /mnt/stockage/packages/f11/tangogps/po/hu.po | 
+ | [sk](/f11/language/sk) | 417 | 561 | 74.3 | /mnt/stockage/packages/f11/tangogps/po/sk.po | 
+ | [es](/f11/language/es) | 351 | 561 | 62.6 | /mnt/stockage/packages/f11/tangogps/po/es.po | 
+ | [fr](/f11/language/fr) | 216 | 561 | 38.5 | /mnt/stockage/packages/f11/tangogps/po/fr.po | 
+ | [bg](/f11/language/bg) | 210 | 561 | 37.4 | /mnt/stockage/packages/f11/tangogps/po/bg.po | 
+ | [cs](/f11/language/cs) | 201 | 561 | 35.8 | /mnt/stockage/packages/f11/tangogps/po/cs.po | 
+ | [fi](/f11/language/fi) | 201 | 561 | 35.8 | /mnt/stockage/packages/f11/tangogps/po/fi.po | 
+ | [ru](/f11/language/ru) | 187 | 561 | 33.3 | /mnt/stockage/packages/f11/tangogps/po/ru.po | 
+ | [de](/f11/language/de) | 3 | 561 | 0.5 | /mnt/stockage/packages/f11/tangogps/po/de.po | 
 {.sortable}
 
 

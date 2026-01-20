@@ -18,18 +18,18 @@ The package libgsasl (version 0.2.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f10/language/error.md" >}}) | 1036 | 1036 | 100.0 | /mnt/stockage/packages/f10/libgsasl/po/en@quot.po/mnt/stockage/packages/f10/libgsasl/po/en@boldquot.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/fr.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/ga.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/id.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/pl.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/sk.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/sv.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 497 | 518 | 95.9 | /mnt/stockage/packages/f10/libgsasl/po/zh_CN.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 479 | 518 | 92.5 | /mnt/stockage/packages/f10/libgsasl/po/sr.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 435 | 518 | 84.0 | /mnt/stockage/packages/f10/libgsasl/po/ro.po | 
+ | [error](/f10/language/error) | 1036 | 1036 | 100.0 | /mnt/stockage/packages/f10/libgsasl/po/en@quot.po/mnt/stockage/packages/f10/libgsasl/po/en@boldquot.po | 
+ | [fr](/f10/language/fr) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/fr.po | 
+ | [ga](/f10/language/ga) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/ga.po | 
+ | [id](/f10/language/id) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/id.po | 
+ | [nl](/f10/language/nl) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/nl.po | 
+ | [pl](/f10/language/pl) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/pl.po | 
+ | [sk](/f10/language/sk) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/sk.po | 
+ | [sv](/f10/language/sv) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/sv.po | 
+ | [vi](/f10/language/vi) | 502 | 518 | 96.9 | /mnt/stockage/packages/f10/libgsasl/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 497 | 518 | 95.9 | /mnt/stockage/packages/f10/libgsasl/po/zh_CN.po | 
+ | [sr](/f10/language/sr) | 479 | 518 | 92.5 | /mnt/stockage/packages/f10/libgsasl/po/sr.po | 
+ | [ro](/f10/language/ro) | 435 | 518 | 84.0 | /mnt/stockage/packages/f10/libgsasl/po/ro.po | 
 {.sortable}
 
 

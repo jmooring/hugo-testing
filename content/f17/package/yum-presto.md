@@ -18,7 +18,7 @@ The package yum-presto (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 158 | 181 | 87.3 | /mnt/stockage/packages/f17/yum-presto/locale/fr/LC_MESSAGES/yum-presto.po | 
+ | [fr](/f17/language/fr) | 158 | 181 | 87.3 | /mnt/stockage/packages/f17/yum-presto/locale/fr/LC_MESSAGES/yum-presto.po | 
 {.sortable}
 
 

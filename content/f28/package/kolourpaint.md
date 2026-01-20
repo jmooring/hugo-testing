@@ -18,58 +18,58 @@ The package kolourpaint (version 18.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ca/kolourpaint.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ca@valencia/kolourpaint.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/da/kolourpaint.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/de/kolourpaint.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/el/kolourpaint.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/en_GB/kolourpaint.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/es/kolourpaint.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/fi/kolourpaint.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/fr/kolourpaint.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/gl/kolourpaint.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ia/kolourpaint.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/is/kolourpaint.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/it/kolourpaint.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ko/kolourpaint.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/nl/kolourpaint.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/nn/kolourpaint.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/pl/kolourpaint.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/pt/kolourpaint.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/pt_BR/kolourpaint.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/sk/kolourpaint.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/sl/kolourpaint.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/sv/kolourpaint.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/tr/kolourpaint.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/uk/kolourpaint.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/zh_CN/kolourpaint.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/zh_TW/kolourpaint.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 2489 | 2623 | 94.9 | /mnt/stockage/packages/f28/kolourpaint/po/et/kolourpaint.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 2489 | 2623 | 94.9 | /mnt/stockage/packages/f28/kolourpaint/po/ru/kolourpaint.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 2468 | 2623 | 94.1 | /mnt/stockage/packages/f28/kolourpaint/po/nb/kolourpaint.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/bs/kolourpaint.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/hu/kolourpaint.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/kk/kolourpaint.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/km/kolourpaint.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/lt/kolourpaint.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/nds/kolourpaint.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 2444 | 2623 | 93.2 | /mnt/stockage/packages/f28/kolourpaint/po/mr/kolourpaint.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2076 | 2623 | 79.1 | /mnt/stockage/packages/f28/kolourpaint/po/cs/kolourpaint.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1990 | 2623 | 75.9 | /mnt/stockage/packages/f28/kolourpaint/po/ja/kolourpaint.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 1814 | 2623 | 69.2 | /mnt/stockage/packages/f28/kolourpaint/po/eu/kolourpaint.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 1800 | 2623 | 68.6 | /mnt/stockage/packages/f28/kolourpaint/po/lv/kolourpaint.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 1721 | 2623 | 65.6 | /mnt/stockage/packages/f28/kolourpaint/po/bg/kolourpaint.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 1693 | 2623 | 64.5 | /mnt/stockage/packages/f28/kolourpaint/po/ar/kolourpaint.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 1388 | 2623 | 52.9 | /mnt/stockage/packages/f28/kolourpaint/po/fa/kolourpaint.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 1240 | 2623 | 47.3 | /mnt/stockage/packages/f28/kolourpaint/po/hi/kolourpaint.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 1227 | 2623 | 46.8 | /mnt/stockage/packages/f28/kolourpaint/po/eo/kolourpaint.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 1014 | 2623 | 38.7 | /mnt/stockage/packages/f28/kolourpaint/po/pa/kolourpaint.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 726 | 2623 | 27.7 | /mnt/stockage/packages/f28/kolourpaint/po/he/kolourpaint.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 704 | 2623 | 26.8 | /mnt/stockage/packages/f28/kolourpaint/po/ga/kolourpaint.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 521 | 2623 | 19.9 | /mnt/stockage/packages/f28/kolourpaint/po/ro/kolourpaint.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 216 | 2623 | 8.2 | /mnt/stockage/packages/f28/kolourpaint/po/ug/kolourpaint.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 40 | 2623 | 1.5 | /mnt/stockage/packages/f28/kolourpaint/po/hr/kolourpaint.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 4 | 2623 | 0.2 | /mnt/stockage/packages/f28/kolourpaint/po/ast/kolourpaint.po | 
+ | [ca](/f28/language/ca) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ca/kolourpaint.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ca@valencia/kolourpaint.po | 
+ | [da](/f28/language/da) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/da/kolourpaint.po | 
+ | [de](/f28/language/de) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/de/kolourpaint.po | 
+ | [el](/f28/language/el) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/el/kolourpaint.po | 
+ | [en_GB](/f28/language/en_GB) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/en_GB/kolourpaint.po | 
+ | [es](/f28/language/es) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/es/kolourpaint.po | 
+ | [fi](/f28/language/fi) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/fi/kolourpaint.po | 
+ | [fr](/f28/language/fr) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/fr/kolourpaint.po | 
+ | [gl](/f28/language/gl) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/gl/kolourpaint.po | 
+ | [ia](/f28/language/ia) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ia/kolourpaint.po | 
+ | [is](/f28/language/is) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/is/kolourpaint.po | 
+ | [it](/f28/language/it) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/it/kolourpaint.po | 
+ | [ko](/f28/language/ko) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/ko/kolourpaint.po | 
+ | [nl](/f28/language/nl) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/nl/kolourpaint.po | 
+ | [nn](/f28/language/nn) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/nn/kolourpaint.po | 
+ | [pl](/f28/language/pl) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/pl/kolourpaint.po | 
+ | [pt](/f28/language/pt) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/pt/kolourpaint.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/pt_BR/kolourpaint.po | 
+ | [sk](/f28/language/sk) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/sk/kolourpaint.po | 
+ | [sl](/f28/language/sl) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/sl/kolourpaint.po | 
+ | [sv](/f28/language/sv) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/sv/kolourpaint.po | 
+ | [tr](/f28/language/tr) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/tr/kolourpaint.po | 
+ | [uk](/f28/language/uk) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/uk/kolourpaint.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/zh_CN/kolourpaint.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 2623 | 2623 | 100.0 | /mnt/stockage/packages/f28/kolourpaint/po/zh_TW/kolourpaint.po | 
+ | [et](/f28/language/et) | 2489 | 2623 | 94.9 | /mnt/stockage/packages/f28/kolourpaint/po/et/kolourpaint.po | 
+ | [ru](/f28/language/ru) | 2489 | 2623 | 94.9 | /mnt/stockage/packages/f28/kolourpaint/po/ru/kolourpaint.po | 
+ | [nb_NO](/f28/language/nb_NO) | 2468 | 2623 | 94.1 | /mnt/stockage/packages/f28/kolourpaint/po/nb/kolourpaint.po | 
+ | [bs](/f28/language/bs) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/bs/kolourpaint.po | 
+ | [hu](/f28/language/hu) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/hu/kolourpaint.po | 
+ | [kk](/f28/language/kk) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/kk/kolourpaint.po | 
+ | [km](/f28/language/km) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/km/kolourpaint.po | 
+ | [lt](/f28/language/lt) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/lt/kolourpaint.po | 
+ | [nds](/f28/language/nds) | 2459 | 2623 | 93.7 | /mnt/stockage/packages/f28/kolourpaint/po/nds/kolourpaint.po | 
+ | [mr](/f28/language/mr) | 2444 | 2623 | 93.2 | /mnt/stockage/packages/f28/kolourpaint/po/mr/kolourpaint.po | 
+ | [cs](/f28/language/cs) | 2076 | 2623 | 79.1 | /mnt/stockage/packages/f28/kolourpaint/po/cs/kolourpaint.po | 
+ | [ja](/f28/language/ja) | 1990 | 2623 | 75.9 | /mnt/stockage/packages/f28/kolourpaint/po/ja/kolourpaint.po | 
+ | [eu](/f28/language/eu) | 1814 | 2623 | 69.2 | /mnt/stockage/packages/f28/kolourpaint/po/eu/kolourpaint.po | 
+ | [lv](/f28/language/lv) | 1800 | 2623 | 68.6 | /mnt/stockage/packages/f28/kolourpaint/po/lv/kolourpaint.po | 
+ | [bg](/f28/language/bg) | 1721 | 2623 | 65.6 | /mnt/stockage/packages/f28/kolourpaint/po/bg/kolourpaint.po | 
+ | [ar](/f28/language/ar) | 1693 | 2623 | 64.5 | /mnt/stockage/packages/f28/kolourpaint/po/ar/kolourpaint.po | 
+ | [fa](/f28/language/fa) | 1388 | 2623 | 52.9 | /mnt/stockage/packages/f28/kolourpaint/po/fa/kolourpaint.po | 
+ | [hi](/f28/language/hi) | 1240 | 2623 | 47.3 | /mnt/stockage/packages/f28/kolourpaint/po/hi/kolourpaint.po | 
+ | [eo](/f28/language/eo) | 1227 | 2623 | 46.8 | /mnt/stockage/packages/f28/kolourpaint/po/eo/kolourpaint.po | 
+ | [pa](/f28/language/pa) | 1014 | 2623 | 38.7 | /mnt/stockage/packages/f28/kolourpaint/po/pa/kolourpaint.po | 
+ | [he](/f28/language/he) | 726 | 2623 | 27.7 | /mnt/stockage/packages/f28/kolourpaint/po/he/kolourpaint.po | 
+ | [ga](/f28/language/ga) | 704 | 2623 | 26.8 | /mnt/stockage/packages/f28/kolourpaint/po/ga/kolourpaint.po | 
+ | [ro](/f28/language/ro) | 521 | 2623 | 19.9 | /mnt/stockage/packages/f28/kolourpaint/po/ro/kolourpaint.po | 
+ | [ug](/f28/language/ug) | 216 | 2623 | 8.2 | /mnt/stockage/packages/f28/kolourpaint/po/ug/kolourpaint.po | 
+ | [hr](/f28/language/hr) | 40 | 2623 | 1.5 | /mnt/stockage/packages/f28/kolourpaint/po/hr/kolourpaint.po | 
+ | [ast](/f28/language/ast) | 4 | 2623 | 0.2 | /mnt/stockage/packages/f28/kolourpaint/po/ast/kolourpaint.po | 
 {.sortable}
 
 

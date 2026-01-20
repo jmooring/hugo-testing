@@ -18,45 +18,45 @@ The package shadow-utils (version 4.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 4455 | 4462 | 99.8 | /mnt/stockage/packages/f32/shadow-utils/po/nl.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 4089 | 4462 | 91.6 | /mnt/stockage/packages/f32/shadow-utils/po/zh_TW.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 18995 | 21391 | 88.8 | /mnt/stockage/packages/f32/shadow-utils/man/po/ru.po/mnt/stockage/packages/f32/shadow-utils/po/ru.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 18902 | 21391 | 88.4 | /mnt/stockage/packages/f32/shadow-utils/man/po/de.po/mnt/stockage/packages/f32/shadow-utils/po/de.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 3918 | 4462 | 87.8 | /mnt/stockage/packages/f32/shadow-utils/po/cs.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 3864 | 4462 | 86.6 | /mnt/stockage/packages/f32/shadow-utils/po/kk.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 3864 | 4462 | 86.6 | /mnt/stockage/packages/f32/shadow-utils/po/nb.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 3857 | 4462 | 86.4 | /mnt/stockage/packages/f32/shadow-utils/po/vi.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 3626 | 4462 | 81.3 | /mnt/stockage/packages/f32/shadow-utils/po/ja.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 3613 | 4462 | 81.0 | /mnt/stockage/packages/f32/shadow-utils/po/ca.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 3613 | 4462 | 81.0 | /mnt/stockage/packages/f32/shadow-utils/po/pt.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 3606 | 4462 | 80.8 | /mnt/stockage/packages/f32/shadow-utils/po/da.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 3584 | 4462 | 80.3 | /mnt/stockage/packages/f32/shadow-utils/po/el.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 16375 | 21391 | 76.6 | /mnt/stockage/packages/f32/shadow-utils/man/po/fr.po/mnt/stockage/packages/f32/shadow-utils/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 16240 | 21391 | 75.9 | /mnt/stockage/packages/f32/shadow-utils/man/po/it.po/mnt/stockage/packages/f32/shadow-utils/po/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 3232 | 4462 | 72.4 | /mnt/stockage/packages/f32/shadow-utils/po/pt_BR.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 3215 | 4462 | 72.1 | /mnt/stockage/packages/f32/shadow-utils/po/es.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 14457 | 21391 | 67.6 | /mnt/stockage/packages/f32/shadow-utils/man/po/zh_CN.po/mnt/stockage/packages/f32/shadow-utils/po/zh_CN.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 2658 | 4462 | 59.6 | /mnt/stockage/packages/f32/shadow-utils/po/eu.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2372 | 4462 | 53.2 | /mnt/stockage/packages/f32/shadow-utils/po/sk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 1688 | 4462 | 37.8 | /mnt/stockage/packages/f32/shadow-utils/po/ko.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1152 | 4462 | 25.8 | /mnt/stockage/packages/f32/shadow-utils/po/tr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 5369 | 21391 | 25.1 | /mnt/stockage/packages/f32/shadow-utils/man/po/sv.po/mnt/stockage/packages/f32/shadow-utils/po/sv.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/fi.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/hu.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/ne.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/ro.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/uk.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 1022 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/dz.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 1006 | 4462 | 22.5 | /mnt/stockage/packages/f32/shadow-utils/po/tl.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 909 | 4462 | 20.4 | /mnt/stockage/packages/f32/shadow-utils/po/km.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 878 | 4462 | 19.7 | /mnt/stockage/packages/f32/shadow-utils/po/id.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 718 | 4462 | 16.1 | /mnt/stockage/packages/f32/shadow-utils/po/nn.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2980 | 21391 | 13.9 | /mnt/stockage/packages/f32/shadow-utils/man/po/pl.po/mnt/stockage/packages/f32/shadow-utils/po/pl.po | 
- | [man]({{< ref "/f32/language/man.md" >}}) | 2133 | 16929 | 12.6 | /mnt/stockage/packages/f32/shadow-utils/man/po/da.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 197 | 4462 | 4.4 | /mnt/stockage/packages/f32/shadow-utils/po/he.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 127 | 4462 | 2.8 | /mnt/stockage/packages/f32/shadow-utils/po/bs.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 28 | 4462 | 0.6 | /mnt/stockage/packages/f32/shadow-utils/po/sq.po | 
+ | [nl](/f32/language/nl) | 4455 | 4462 | 99.8 | /mnt/stockage/packages/f32/shadow-utils/po/nl.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 4089 | 4462 | 91.6 | /mnt/stockage/packages/f32/shadow-utils/po/zh_TW.po | 
+ | [ru](/f32/language/ru) | 18995 | 21391 | 88.8 | /mnt/stockage/packages/f32/shadow-utils/man/po/ru.po/mnt/stockage/packages/f32/shadow-utils/po/ru.po | 
+ | [de](/f32/language/de) | 18902 | 21391 | 88.4 | /mnt/stockage/packages/f32/shadow-utils/man/po/de.po/mnt/stockage/packages/f32/shadow-utils/po/de.po | 
+ | [cs](/f32/language/cs) | 3918 | 4462 | 87.8 | /mnt/stockage/packages/f32/shadow-utils/po/cs.po | 
+ | [kk](/f32/language/kk) | 3864 | 4462 | 86.6 | /mnt/stockage/packages/f32/shadow-utils/po/kk.po | 
+ | [nb_NO](/f32/language/nb_NO) | 3864 | 4462 | 86.6 | /mnt/stockage/packages/f32/shadow-utils/po/nb.po | 
+ | [vi](/f32/language/vi) | 3857 | 4462 | 86.4 | /mnt/stockage/packages/f32/shadow-utils/po/vi.po | 
+ | [ja](/f32/language/ja) | 3626 | 4462 | 81.3 | /mnt/stockage/packages/f32/shadow-utils/po/ja.po | 
+ | [ca](/f32/language/ca) | 3613 | 4462 | 81.0 | /mnt/stockage/packages/f32/shadow-utils/po/ca.po | 
+ | [pt](/f32/language/pt) | 3613 | 4462 | 81.0 | /mnt/stockage/packages/f32/shadow-utils/po/pt.po | 
+ | [da](/f32/language/da) | 3606 | 4462 | 80.8 | /mnt/stockage/packages/f32/shadow-utils/po/da.po | 
+ | [el](/f32/language/el) | 3584 | 4462 | 80.3 | /mnt/stockage/packages/f32/shadow-utils/po/el.po | 
+ | [fr](/f32/language/fr) | 16375 | 21391 | 76.6 | /mnt/stockage/packages/f32/shadow-utils/man/po/fr.po/mnt/stockage/packages/f32/shadow-utils/po/fr.po | 
+ | [it](/f32/language/it) | 16240 | 21391 | 75.9 | /mnt/stockage/packages/f32/shadow-utils/man/po/it.po/mnt/stockage/packages/f32/shadow-utils/po/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 3232 | 4462 | 72.4 | /mnt/stockage/packages/f32/shadow-utils/po/pt_BR.po | 
+ | [es](/f32/language/es) | 3215 | 4462 | 72.1 | /mnt/stockage/packages/f32/shadow-utils/po/es.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 14457 | 21391 | 67.6 | /mnt/stockage/packages/f32/shadow-utils/man/po/zh_CN.po/mnt/stockage/packages/f32/shadow-utils/po/zh_CN.po | 
+ | [eu](/f32/language/eu) | 2658 | 4462 | 59.6 | /mnt/stockage/packages/f32/shadow-utils/po/eu.po | 
+ | [sk](/f32/language/sk) | 2372 | 4462 | 53.2 | /mnt/stockage/packages/f32/shadow-utils/po/sk.po | 
+ | [ko](/f32/language/ko) | 1688 | 4462 | 37.8 | /mnt/stockage/packages/f32/shadow-utils/po/ko.po | 
+ | [tr](/f32/language/tr) | 1152 | 4462 | 25.8 | /mnt/stockage/packages/f32/shadow-utils/po/tr.po | 
+ | [sv](/f32/language/sv) | 5369 | 21391 | 25.1 | /mnt/stockage/packages/f32/shadow-utils/man/po/sv.po/mnt/stockage/packages/f32/shadow-utils/po/sv.po | 
+ | [fi](/f32/language/fi) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/fi.po | 
+ | [gl](/f32/language/gl) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/gl.po | 
+ | [hu](/f32/language/hu) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/hu.po | 
+ | [ne](/f32/language/ne) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/ne.po | 
+ | [ro](/f32/language/ro) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/ro.po | 
+ | [uk](/f32/language/uk) | 1024 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/uk.po | 
+ | [dz](/f32/language/dz) | 1022 | 4462 | 22.9 | /mnt/stockage/packages/f32/shadow-utils/po/dz.po | 
+ | [tl](/f32/language/tl) | 1006 | 4462 | 22.5 | /mnt/stockage/packages/f32/shadow-utils/po/tl.po | 
+ | [km](/f32/language/km) | 909 | 4462 | 20.4 | /mnt/stockage/packages/f32/shadow-utils/po/km.po | 
+ | [id](/f32/language/id) | 878 | 4462 | 19.7 | /mnt/stockage/packages/f32/shadow-utils/po/id.po | 
+ | [nn](/f32/language/nn) | 718 | 4462 | 16.1 | /mnt/stockage/packages/f32/shadow-utils/po/nn.po | 
+ | [pl](/f32/language/pl) | 2980 | 21391 | 13.9 | /mnt/stockage/packages/f32/shadow-utils/man/po/pl.po/mnt/stockage/packages/f32/shadow-utils/po/pl.po | 
+ | [man](/f32/language/man) | 2133 | 16929 | 12.6 | /mnt/stockage/packages/f32/shadow-utils/man/po/da.po | 
+ | [he](/f32/language/he) | 197 | 4462 | 4.4 | /mnt/stockage/packages/f32/shadow-utils/po/he.po | 
+ | [bs](/f32/language/bs) | 127 | 4462 | 2.8 | /mnt/stockage/packages/f32/shadow-utils/po/bs.po | 
+ | [sq](/f32/language/sq) | 28 | 4462 | 0.6 | /mnt/stockage/packages/f32/shadow-utils/po/sq.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f38/package/libreoffice.md" >}}) | 31371 | 168935 | 18.6 | Kurmanji <https://weblate.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kmr_LATN/> | 
+ | [libreoffice](/f38/package/libreoffice) | 31371 | 168935 | 18.6 | Kurmanji <https://weblate.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kmr_LATN/> | 
 {.sortable}
 
 

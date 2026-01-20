@@ -18,16 +18,16 @@ The package trytond-stock-inventory-location (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/bg_BG.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/ca_ES.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/de_DE.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/es_ES.po | 
- | [es_AR]({{< ref "/f19/language/es_AR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/es_AR.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/fr_FR.po | 
- | [es_CO]({{< ref "/f19/language/es_CO.md" >}}) | 4 | 17 | 23.5 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/es_CO.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/cs_CZ.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/nl_NL.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/ru_RU.po | 
+ | [bg](/f19/language/bg) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/bg_BG.po | 
+ | [ca](/f19/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/ca_ES.po | 
+ | [de](/f19/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/de_DE.po | 
+ | [es](/f19/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/es_ES.po | 
+ | [es_AR](/f19/language/es_AR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/es_AR.po | 
+ | [fr](/f19/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/fr_FR.po | 
+ | [es_CO](/f19/language/es_CO) | 4 | 17 | 23.5 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/es_CO.po | 
+ | [cs](/f19/language/cs) | 0 | 17 | 0.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/cs_CZ.po | 
+ | [nl](/f19/language/nl) | 0 | 17 | 0.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/nl_NL.po | 
+ | [ru](/f19/language/ru) | 0 | 17 | 0.0 | /mnt/stockage/packages/f19/trytond-stock-inventory-location/locale/ru_RU.po | 
 {.sortable}
 
 

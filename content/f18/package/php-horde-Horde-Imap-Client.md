@@ -18,13 +18,13 @@ The package php-horde-Horde-Imap-Client (version 2.11.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/de/LC_MESSAGES/Horde_Imap_Client.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/es/LC_MESSAGES/Horde_Imap_Client.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/fi/LC_MESSAGES/Horde_Imap_Client.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/fr/LC_MESSAGES/Horde_Imap_Client.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/ja/LC_MESSAGES/Horde_Imap_Client.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/nl/LC_MESSAGES/Horde_Imap_Client.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 95 | 375 | 25.3 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/eu/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [de](/f18/language/de) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/de/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [es](/f18/language/es) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/es/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [fi](/f18/language/fi) | 375 | 375 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/fi/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [fr](/f18/language/fr) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/fr/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [ja](/f18/language/ja) | 389 | 389 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/ja/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [nl](/f18/language/nl) | 375 | 375 | 100.0 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/nl/LC_MESSAGES/Horde_Imap_Client.po | 
+ | [eu](/f18/language/eu) | 95 | 375 | 25.3 | /mnt/stockage/packages/f18/php-horde-Horde-Imap-Client/Horde_Imap_Client-2.11.6/locale/eu/LC_MESSAGES/Horde_Imap_Client.po | 
 {.sortable}
 
 

@@ -18,72 +18,72 @@ The package system-config-services (version 0.99.47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/as.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/bn_IN.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/fr.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/gu.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/he.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ja.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ko.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ml.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/mr.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/nb.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/nl.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/or.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sk.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sv.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/te.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/zh_TW.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 392 | 404 | 97.0 | /mnt/stockage/packages/f14/system-config-services/po/ast.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 392 | 404 | 97.0 | /mnt/stockage/packages/f14/system-config-services/po/ca.po | 
- | [mai]({{< ref "/f14/language/mai.md" >}}) | 392 | 404 | 97.0 | /mnt/stockage/packages/f14/system-config-services/po/mai.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 291 | 404 | 72.0 | /mnt/stockage/packages/f14/system-config-services/po/ta.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 290 | 404 | 71.8 | /mnt/stockage/packages/f14/system-config-services/po/id.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ar.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/bg.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/bs.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/et.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/hr.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/is.po | 
- | [ka]({{< ref "/f14/language/ka.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ka.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/lv.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/mk.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ms.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ro.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/si.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/tr.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/bn.po | 
- | [cy]({{< ref "/f14/language/cy.md" >}}) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/cy.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/fa.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/lt.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/sl.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/vi.po | 
- | [hy]({{< ref "/f14/language/hy.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/hy.po | 
- | [ku]({{< ref "/f14/language/ku.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/ku.po | 
- | [lo]({{< ref "/f14/language/lo.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/lo.po | 
- | [my]({{< ref "/f14/language/my.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/my.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/sq.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/ur.po | 
+ | [as](/f14/language/as) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/as.po | 
+ | [bn_IN](/f14/language/bn_IN) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/bn_IN.po | 
+ | [cs](/f14/language/cs) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/cs.po | 
+ | [da](/f14/language/da) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/da.po | 
+ | [de](/f14/language/de) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/de.po | 
+ | [el](/f14/language/el) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/en_GB.po | 
+ | [es](/f14/language/es) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/es.po | 
+ | [fi](/f14/language/fi) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/fi.po | 
+ | [fr](/f14/language/fr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/fr.po | 
+ | [gu](/f14/language/gu) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/gu.po | 
+ | [he](/f14/language/he) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/he.po | 
+ | [hi](/f14/language/hi) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/hi.po | 
+ | [hu](/f14/language/hu) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/hu.po | 
+ | [it](/f14/language/it) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/it.po | 
+ | [ja](/f14/language/ja) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ja.po | 
+ | [kn](/f14/language/kn) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/kn.po | 
+ | [ko](/f14/language/ko) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ko.po | 
+ | [ml](/f14/language/ml) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ml.po | 
+ | [mr](/f14/language/mr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/mr.po | 
+ | [nb_NO](/f14/language/nb_NO) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/nb.po | 
+ | [nl](/f14/language/nl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/nl.po | 
+ | [or](/f14/language/or) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/or.po | 
+ | [pa](/f14/language/pa) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pa.po | 
+ | [pl](/f14/language/pl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pl.po | 
+ | [pt](/f14/language/pt) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/ru.po | 
+ | [sk](/f14/language/sk) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sk.po | 
+ | [sr](/f14/language/sr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/sv.po | 
+ | [te](/f14/language/te) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/te.po | 
+ | [uk](/f14/language/uk) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/system-config-services/po/zh_TW.po | 
+ | [ast](/f14/language/ast) | 392 | 404 | 97.0 | /mnt/stockage/packages/f14/system-config-services/po/ast.po | 
+ | [ca](/f14/language/ca) | 392 | 404 | 97.0 | /mnt/stockage/packages/f14/system-config-services/po/ca.po | 
+ | [mai](/f14/language/mai) | 392 | 404 | 97.0 | /mnt/stockage/packages/f14/system-config-services/po/mai.po | 
+ | [ta](/f14/language/ta) | 291 | 404 | 72.0 | /mnt/stockage/packages/f14/system-config-services/po/ta.po | 
+ | [id](/f14/language/id) | 290 | 404 | 71.8 | /mnt/stockage/packages/f14/system-config-services/po/id.po | 
+ | [ar](/f14/language/ar) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ar.po | 
+ | [bg](/f14/language/bg) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/bg.po | 
+ | [bs](/f14/language/bs) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/bs.po | 
+ | [et](/f14/language/et) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/et.po | 
+ | [hr](/f14/language/hr) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/hr.po | 
+ | [is](/f14/language/is) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/is.po | 
+ | [ka](/f14/language/ka) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ka.po | 
+ | [lv](/f14/language/lv) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/lv.po | 
+ | [mk](/f14/language/mk) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/mk.po | 
+ | [ms](/f14/language/ms) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ms.po | 
+ | [ro](/f14/language/ro) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/ro.po | 
+ | [si](/f14/language/si) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/si.po | 
+ | [tr](/f14/language/tr) | 24 | 404 | 5.9 | /mnt/stockage/packages/f14/system-config-services/po/tr.po | 
+ | [bn](/f14/language/bn) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/bn.po | 
+ | [cy](/f14/language/cy) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/cy.po | 
+ | [fa](/f14/language/fa) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/fa.po | 
+ | [lt](/f14/language/lt) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/lt.po | 
+ | [sl](/f14/language/sl) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/sl.po | 
+ | [vi](/f14/language/vi) | 12 | 404 | 3.0 | /mnt/stockage/packages/f14/system-config-services/po/vi.po | 
+ | [hy](/f14/language/hy) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/hy.po | 
+ | [ku](/f14/language/ku) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/ku.po | 
+ | [lo](/f14/language/lo) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/lo.po | 
+ | [my](/f14/language/my) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/my.po | 
+ | [sq](/f14/language/sq) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/sq.po | 
+ | [ur](/f14/language/ur) | 0 | 404 | 0.0 | /mnt/stockage/packages/f14/system-config-services/po/ur.po | 
 {.sortable}
 
 

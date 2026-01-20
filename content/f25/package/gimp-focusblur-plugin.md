@@ -18,9 +18,9 @@ The package gimp-focusblur-plugin (version 3.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f25/gimp-focusblur-plugin/po/ja.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 117 | 119 | 98.3 | /mnt/stockage/packages/f25/gimp-focusblur-plugin/po/ru.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 71 | 119 | 59.7 | /mnt/stockage/packages/f25/gimp-focusblur-plugin/po/it.po | 
+ | [ja](/f25/language/ja) | 119 | 119 | 100.0 | /mnt/stockage/packages/f25/gimp-focusblur-plugin/po/ja.po | 
+ | [ru](/f25/language/ru) | 117 | 119 | 98.3 | /mnt/stockage/packages/f25/gimp-focusblur-plugin/po/ru.po | 
+ | [it](/f25/language/it) | 71 | 119 | 59.7 | /mnt/stockage/packages/f25/gimp-focusblur-plugin/po/it.po | 
 {.sortable}
 
 

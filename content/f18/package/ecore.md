@@ -18,14 +18,14 @@ The package ecore (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/it.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/nl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/pt.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/sl.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 106 | 110 | 96.4 | /mnt/stockage/packages/f18/ecore/po/el.po | 
+ | [cs](/f18/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/cs.po | 
+ | [de](/f18/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/de.po | 
+ | [fr](/f18/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/fr.po | 
+ | [it](/f18/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/it.po | 
+ | [nl](/f18/language/nl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/nl.po | 
+ | [pt](/f18/language/pt) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/pt.po | 
+ | [sl](/f18/language/sl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f18/ecore/po/sl.po | 
+ | [el](/f18/language/el) | 106 | 110 | 96.4 | /mnt/stockage/packages/f18/ecore/po/el.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package flatpak (version 0.6.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1662 | 1728 | 96.2 | /mnt/stockage/packages/f23/flatpak/po/pl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1649 | 1728 | 95.4 | /mnt/stockage/packages/f23/flatpak/po/sv.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1602 | 1728 | 92.7 | /mnt/stockage/packages/f23/flatpak/po/uk.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1510 | 1728 | 87.4 | /mnt/stockage/packages/f23/flatpak/po/hu.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1473 | 1728 | 85.2 | /mnt/stockage/packages/f23/flatpak/po/de.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 317 | 1728 | 18.3 | /mnt/stockage/packages/f23/flatpak/po/sk.po | 
+ | [pl](/f23/language/pl) | 1662 | 1728 | 96.2 | /mnt/stockage/packages/f23/flatpak/po/pl.po | 
+ | [sv](/f23/language/sv) | 1649 | 1728 | 95.4 | /mnt/stockage/packages/f23/flatpak/po/sv.po | 
+ | [uk](/f23/language/uk) | 1602 | 1728 | 92.7 | /mnt/stockage/packages/f23/flatpak/po/uk.po | 
+ | [hu](/f23/language/hu) | 1510 | 1728 | 87.4 | /mnt/stockage/packages/f23/flatpak/po/hu.po | 
+ | [de](/f23/language/de) | 1473 | 1728 | 85.2 | /mnt/stockage/packages/f23/flatpak/po/de.po | 
+ | [sk](/f23/language/sk) | 317 | 1728 | 18.3 | /mnt/stockage/packages/f23/flatpak/po/sk.po | 
 {.sortable}
 
 

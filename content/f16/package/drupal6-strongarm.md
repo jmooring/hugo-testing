@@ -18,7 +18,7 @@ The package drupal6-strongarm (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 172 | 172 | 100.0 | /mnt/stockage/packages/f16/drupal6-strongarm/translations/de.po | 
+ | [de](/f16/language/de) | 172 | 172 | 100.0 | /mnt/stockage/packages/f16/drupal6-strongarm/translations/de.po | 
 {.sortable}
 
 

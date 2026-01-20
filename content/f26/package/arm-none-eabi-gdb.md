@@ -18,25 +18,25 @@ The package arm-none-eabi-gdb (version 7.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/es.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/es.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/fi.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 9740 | 9740 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/fr.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/fr.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/ga.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/id.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/it.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/ro.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/sv.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/tr.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/uk.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/vi.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/vi.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/da.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/da.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f26/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/rw.po | 
+ | [de](/f26/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/de.po | 
+ | [es](/f26/language/es) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/es.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/es.po | 
+ | [fi](/f26/language/fi) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/fi.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/fi.po | 
+ | [fr](/f26/language/fr) | 9740 | 9740 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/fr.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/fr.po | 
+ | [ga](/f26/language/ga) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/ga.po | 
+ | [id](/f26/language/id) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/id.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/id.po | 
+ | [it](/f26/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/it.po | 
+ | [nl](/f26/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/nl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/ro.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/ro.po | 
+ | [ru](/f26/language/ru) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/ru.po | 
+ | [sv](/f26/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/sv.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/sv.po | 
+ | [tr](/f26/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/tr.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/tr.po | 
+ | [uk](/f26/language/uk) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/uk.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/uk.po | 
+ | [vi](/f26/language/vi) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/vi.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/vi.po | 
+ | [da](/f26/language/da) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/da.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/da.po | 
+ | [ja](/f26/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/ja.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f26/arm-none-eabi-gdb/opcodes/po/zh_CN.po | 
+ | [rw](/f26/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f26/arm-none-eabi-gdb/bfd/po/rw.po | 
 {.sortable}
 
 

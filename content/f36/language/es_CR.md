@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f36/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [libgweather4]({{< ref "/f36/package/libgweather4.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [libmateweather]({{< ref "/f36/package/libmateweather.md" >}}) | 362 | 500 | 72.4 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-applets]({{< ref "/f36/package/mate-applets.md" >}}) | 1602 | 12062 | 13.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mozo]({{< ref "/f36/package/mozo.md" >}}) | 2 | 46 | 4.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-sensors-applet]({{< ref "/f36/package/mate-sensors-applet.md" >}}) | 10 | 313 | 3.2 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-settings-daemon]({{< ref "/f36/package/mate-settings-daemon.md" >}}) | 43 | 2206 | 1.9 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-media]({{< ref "/f36/package/mate-media.md" >}}) | 4 | 239 | 1.7 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-menu]({{< ref "/f36/package/mate-menu.md" >}}) | 4 | 308 | 1.3 | Spanish (Costa Rica) (http://www.transifex.com/mate/MATE/language/es_CR/) | 
- | [mate-system-monitor]({{< ref "/f36/package/mate-system-monitor.md" >}}) | 14 | 1512 | 0.9 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [eom]({{< ref "/f36/package/eom.md" >}}) | 14 | 1779 | 0.8 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-session-manager]({{< ref "/f36/package/mate-session-manager.md" >}}) | 5 | 715 | 0.7 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-panel]({{< ref "/f36/package/mate-panel.md" >}}) | 37 | 6846 | 0.5 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-control-center]({{< ref "/f36/package/mate-control-center.md" >}}) | 18 | 3331 | 0.5 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-calc]({{< ref "/f36/package/mate-calc.md" >}}) | 7 | 1578 | 0.4 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [engrampa]({{< ref "/f36/package/engrampa.md" >}}) | 9 | 2049 | 0.4 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
- | [atril]({{< ref "/f36/package/atril.md" >}}) | 8 | 2352 | 0.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-power-manager]({{< ref "/f36/package/mate-power-manager.md" >}}) | 9 | 2656 | 0.3 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
- | [libmatekbd]({{< ref "/f36/package/libmatekbd.md" >}}) | 1 | 308 | 0.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-utils]({{< ref "/f36/package/mate-utils.md" >}}) | 6 | 2467 | 0.2 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [pluma-plugins]({{< ref "/f36/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
- | [mate-themes]({{< ref "/f36/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Costa Rica) (http://www.transifex.com/mate/MATE/language/es_CR/) | 
+ | [libgweather](/f36/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [libgweather4](/f36/package/libgweather4) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [libmateweather](/f36/package/libmateweather) | 362 | 500 | 72.4 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-applets](/f36/package/mate-applets) | 1602 | 12062 | 13.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mozo](/f36/package/mozo) | 2 | 46 | 4.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-sensors-applet](/f36/package/mate-sensors-applet) | 10 | 313 | 3.2 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-settings-daemon](/f36/package/mate-settings-daemon) | 43 | 2206 | 1.9 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-media](/f36/package/mate-media) | 4 | 239 | 1.7 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-menu](/f36/package/mate-menu) | 4 | 308 | 1.3 | Spanish (Costa Rica) (http://www.transifex.com/mate/MATE/language/es_CR/) | 
+ | [mate-system-monitor](/f36/package/mate-system-monitor) | 14 | 1512 | 0.9 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [eom](/f36/package/eom) | 14 | 1779 | 0.8 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-session-manager](/f36/package/mate-session-manager) | 5 | 715 | 0.7 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-panel](/f36/package/mate-panel) | 37 | 6846 | 0.5 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-control-center](/f36/package/mate-control-center) | 18 | 3331 | 0.5 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-calc](/f36/package/mate-calc) | 7 | 1578 | 0.4 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [engrampa](/f36/package/engrampa) | 9 | 2049 | 0.4 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
+ | [atril](/f36/package/atril) | 8 | 2352 | 0.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-power-manager](/f36/package/mate-power-manager) | 9 | 2656 | 0.3 | Spanish (Costa Rica) (https://app.transifex.com/mate/teams/13566/es_CR/) | 
+ | [libmatekbd](/f36/package/libmatekbd) | 1 | 308 | 0.3 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-utils](/f36/package/mate-utils) | 6 | 2467 | 0.2 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [pluma-plugins](/f36/package/pluma-plugins) | 1 | 510 | 0.2 | Spanish (Costa Rica) (https://www.transifex.com/mate/teams/13566/es_CR/) | 
+ | [mate-themes](/f36/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Costa Rica) (http://www.transifex.com/mate/MATE/language/es_CR/) | 
 {.sortable}
 
 

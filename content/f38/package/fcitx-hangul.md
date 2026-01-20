@@ -18,15 +18,15 @@ The package fcitx-hangul (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ca.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/de.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ko.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ru.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/tr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/zh_TW.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 0 | 37 | 0.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/da.po | 
+ | [ca](/f38/language/ca) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ca.po | 
+ | [de](/f38/language/de) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/de.po | 
+ | [ja](/f38/language/ja) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ja.po | 
+ | [ko](/f38/language/ko) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ko.po | 
+ | [ru](/f38/language/ru) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/ru.po | 
+ | [tr](/f38/language/tr) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/tr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 37 | 37 | 100.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/zh_TW.po | 
+ | [da](/f38/language/da) | 0 | 37 | 0.0 | /mnt/stockage/packages/f38/fcitx-hangul/po/da.po | 
 {.sortable}
 
 

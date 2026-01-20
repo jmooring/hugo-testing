@@ -18,31 +18,31 @@ The package flatpak (version 1.15.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 6330 | 6348 | 99.7 | /mnt/stockage/packages/f40/flatpak/po/zh_CN.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 6224 | 6348 | 98.0 | /mnt/stockage/packages/f40/flatpak/po/pl.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 6215 | 6348 | 97.9 | /mnt/stockage/packages/f40/flatpak/po/hi.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 6215 | 6348 | 97.9 | /mnt/stockage/packages/f40/flatpak/po/pt_BR.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/id.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/ka.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 6204 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/tr.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 6190 | 6348 | 97.5 | /mnt/stockage/packages/f40/flatpak/po/es.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 6110 | 6348 | 96.3 | /mnt/stockage/packages/f40/flatpak/po/uk.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 5741 | 6348 | 90.4 | /mnt/stockage/packages/f40/flatpak/po/pt.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 5608 | 6348 | 88.3 | /mnt/stockage/packages/f40/flatpak/po/da.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 5602 | 6348 | 88.2 | /mnt/stockage/packages/f40/flatpak/po/hr.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 5537 | 6348 | 87.2 | /mnt/stockage/packages/f40/flatpak/po/cs.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 5237 | 6348 | 82.5 | /mnt/stockage/packages/f40/flatpak/po/ro.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 5052 | 6348 | 79.6 | /mnt/stockage/packages/f40/flatpak/po/zh_TW.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 4621 | 6348 | 72.8 | /mnt/stockage/packages/f40/flatpak/po/en_GB.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 4453 | 6348 | 70.1 | /mnt/stockage/packages/f40/flatpak/po/nl.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 3590 | 6348 | 56.6 | /mnt/stockage/packages/f40/flatpak/po/de.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 2352 | 6348 | 37.1 | /mnt/stockage/packages/f40/flatpak/po/hu.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 2204 | 6348 | 34.7 | /mnt/stockage/packages/f40/flatpak/po/gl.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 588 | 6348 | 9.3 | /mnt/stockage/packages/f40/flatpak/po/oc.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 500 | 6348 | 7.9 | /mnt/stockage/packages/f40/flatpak/po/sk.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 132 | 6348 | 2.1 | /mnt/stockage/packages/f40/flatpak/po/fr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 6330 | 6348 | 99.7 | /mnt/stockage/packages/f40/flatpak/po/zh_CN.po | 
+ | [pl](/f40/language/pl) | 6224 | 6348 | 98.0 | /mnt/stockage/packages/f40/flatpak/po/pl.po | 
+ | [hi](/f40/language/hi) | 6215 | 6348 | 97.9 | /mnt/stockage/packages/f40/flatpak/po/hi.po | 
+ | [pt_BR](/f40/language/pt_BR) | 6215 | 6348 | 97.9 | /mnt/stockage/packages/f40/flatpak/po/pt_BR.po | 
+ | [id](/f40/language/id) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/id.po | 
+ | [ka](/f40/language/ka) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/ka.po | 
+ | [ru](/f40/language/ru) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/ru.po | 
+ | [sv](/f40/language/sv) | 6205 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/sv.po | 
+ | [tr](/f40/language/tr) | 6204 | 6348 | 97.7 | /mnt/stockage/packages/f40/flatpak/po/tr.po | 
+ | [es](/f40/language/es) | 6190 | 6348 | 97.5 | /mnt/stockage/packages/f40/flatpak/po/es.po | 
+ | [uk](/f40/language/uk) | 6110 | 6348 | 96.3 | /mnt/stockage/packages/f40/flatpak/po/uk.po | 
+ | [pt](/f40/language/pt) | 5741 | 6348 | 90.4 | /mnt/stockage/packages/f40/flatpak/po/pt.po | 
+ | [da](/f40/language/da) | 5608 | 6348 | 88.3 | /mnt/stockage/packages/f40/flatpak/po/da.po | 
+ | [hr](/f40/language/hr) | 5602 | 6348 | 88.2 | /mnt/stockage/packages/f40/flatpak/po/hr.po | 
+ | [cs](/f40/language/cs) | 5537 | 6348 | 87.2 | /mnt/stockage/packages/f40/flatpak/po/cs.po | 
+ | [ro](/f40/language/ro) | 5237 | 6348 | 82.5 | /mnt/stockage/packages/f40/flatpak/po/ro.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 5052 | 6348 | 79.6 | /mnt/stockage/packages/f40/flatpak/po/zh_TW.po | 
+ | [en_GB](/f40/language/en_GB) | 4621 | 6348 | 72.8 | /mnt/stockage/packages/f40/flatpak/po/en_GB.po | 
+ | [nl](/f40/language/nl) | 4453 | 6348 | 70.1 | /mnt/stockage/packages/f40/flatpak/po/nl.po | 
+ | [de](/f40/language/de) | 3590 | 6348 | 56.6 | /mnt/stockage/packages/f40/flatpak/po/de.po | 
+ | [hu](/f40/language/hu) | 2352 | 6348 | 37.1 | /mnt/stockage/packages/f40/flatpak/po/hu.po | 
+ | [gl](/f40/language/gl) | 2204 | 6348 | 34.7 | /mnt/stockage/packages/f40/flatpak/po/gl.po | 
+ | [oc](/f40/language/oc) | 588 | 6348 | 9.3 | /mnt/stockage/packages/f40/flatpak/po/oc.po | 
+ | [sk](/f40/language/sk) | 500 | 6348 | 7.9 | /mnt/stockage/packages/f40/flatpak/po/sk.po | 
+ | [fr](/f40/language/fr) | 132 | 6348 | 2.1 | /mnt/stockage/packages/f40/flatpak/po/fr.po | 
 {.sortable}
 
 

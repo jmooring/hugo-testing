@@ -18,19 +18,19 @@ The package hotot (version 0.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/hotot/po/gl.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/hotot/po/ja.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/hotot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 91 | 95 | 95.8 | /mnt/stockage/packages/f18/hotot/po/zh_TW.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 82 | 95 | 86.3 | /mnt/stockage/packages/f18/hotot/po/it_IT.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 71 | 95 | 74.7 | /mnt/stockage/packages/f18/hotot/po/ca.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 65 | 95 | 68.4 | /mnt/stockage/packages/f18/hotot/po/fr_FR.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 58 | 95 | 61.1 | /mnt/stockage/packages/f18/hotot/po/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 29 | 95 | 30.5 | /mnt/stockage/packages/f18/hotot/po/es_ES.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 29 | 95 | 30.5 | /mnt/stockage/packages/f18/hotot/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f18/language/pt_PT.md" >}}) | 29 | 95 | 30.5 | /mnt/stockage/packages/f18/hotot/po/pt_PT.po | 
- | [es_MX]({{< ref "/f18/language/es_MX.md" >}}) | 23 | 95 | 24.2 | /mnt/stockage/packages/f18/hotot/po/es_MX.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 23 | 95 | 24.2 | /mnt/stockage/packages/f18/hotot/po/tr_TR.po | 
+ | [gl](/f18/language/gl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/hotot/po/gl.po | 
+ | [ja](/f18/language/ja) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/hotot/po/ja.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 95 | 95 | 100.0 | /mnt/stockage/packages/f18/hotot/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 91 | 95 | 95.8 | /mnt/stockage/packages/f18/hotot/po/zh_TW.po | 
+ | [it](/f18/language/it) | 82 | 95 | 86.3 | /mnt/stockage/packages/f18/hotot/po/it_IT.po | 
+ | [ca](/f18/language/ca) | 71 | 95 | 74.7 | /mnt/stockage/packages/f18/hotot/po/ca.po | 
+ | [fr](/f18/language/fr) | 65 | 95 | 68.4 | /mnt/stockage/packages/f18/hotot/po/fr_FR.po | 
+ | [de](/f18/language/de) | 58 | 95 | 61.1 | /mnt/stockage/packages/f18/hotot/po/de_DE.po | 
+ | [es](/f18/language/es) | 29 | 95 | 30.5 | /mnt/stockage/packages/f18/hotot/po/es_ES.po | 
+ | [pt_BR](/f18/language/pt_BR) | 29 | 95 | 30.5 | /mnt/stockage/packages/f18/hotot/po/pt_BR.po | 
+ | [pt_PT](/f18/language/pt_PT) | 29 | 95 | 30.5 | /mnt/stockage/packages/f18/hotot/po/pt_PT.po | 
+ | [es_MX](/f18/language/es_MX) | 23 | 95 | 24.2 | /mnt/stockage/packages/f18/hotot/po/es_MX.po | 
+ | [tr](/f18/language/tr) | 23 | 95 | 24.2 | /mnt/stockage/packages/f18/hotot/po/tr_TR.po | 
 {.sortable}
 
 

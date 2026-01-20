@@ -39,87 +39,87 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxmenu-data]({{< ref "/f25/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f25/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [squirrelmail]({{< ref "/f25/package/squirrelmail.md" >}}) | 8037 | 8039 | 100.0 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
- | [lxmusic]({{< ref "/f25/package/lxmusic.md" >}}) | 202 | 203 | 99.5 | LANGUAGE <LL@li.org> | 
- | [gpicview]({{< ref "/f25/package/gpicview.md" >}}) | 234 | 236 | 99.2 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f25/package/virtaal.md" >}}) | 1582 | 1653 | 95.7 | LANGUAGE <LL@li.org> | 
- | [lxtask]({{< ref "/f25/package/lxtask.md" >}}) | 122 | 130 | 93.8 | LANGUAGE <LL@li.org> | 
- | [lxlauncher]({{< ref "/f25/package/lxlauncher.md" >}}) | 51 | 58 | 87.9 | LANGUAGE <LL@li.org> | 
- | [clamtk]({{< ref "/f25/package/clamtk.md" >}}) | 699 | 796 | 87.8 | Føroyabólkurin | 
- | [lxappearance-obconf]({{< ref "/f25/package/lxappearance-obconf.md" >}}) | 168 | 196 | 85.7 | Føroyabólkurin | 
- | [steadyflow]({{< ref "/f25/package/steadyflow.md" >}}) | 401 | 470 | 85.3 | Faroese <fo@li.org> | 
- | [lxinput]({{< ref "/f25/package/lxinput.md" >}}) | 70 | 83 | 84.3 | LANGUAGE <LL@li.org> | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 241 | 300 | 80.3 | Faroese <fo@li.org> | 
- | [shared-mime-info]({{< ref "/f25/package/shared-mime-info.md" >}}) | 1494 | 1869 | 79.9 | Faroese (http://www.transifex.com/freedesktop/shared-mime-info/language/fo/) | 
- | [transmission]({{< ref "/f25/package/transmission.md" >}}) | 1382 | 1809 | 76.4 | Føroyabólkurin | 
- | [isomaster]({{< ref "/f25/package/isomaster.md" >}}) | 495 | 674 | 73.4 | <LL@li.org> | 
- | [lxappearance]({{< ref "/f25/package/lxappearance.md" >}}) | 171 | 234 | 73.1 | Føroyabólkurin | 
- | [gtkspell3]({{< ref "/f25/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Faroese <LL@li.org> | 
- | [mingw-gtkspell3]({{< ref "/f25/package/mingw-gtkspell3.md" >}}) | 10 | 16 | 62.5 | Faroese <LL@li.org> | 
- | [gnome-do]({{< ref "/f25/package/gnome-do.md" >}}) | 365 | 612 | 59.6 | Faroese <fo@li.org> | 
- | [pogo]({{< ref "/f25/package/pogo.md" >}}) | 338 | 576 | 58.7 | Føroyabólkurin | 
- | [lxpanel]({{< ref "/f25/package/lxpanel.md" >}}) | 794 | 1367 | 58.1 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f25/package/lxterminal.md" >}}) | 132 | 247 | 53.4 | LANGUAGE <LL@li.org> | 
- | [rednotebook]({{< ref "/f25/package/rednotebook.md" >}}) | 589 | 1147 | 51.4 | Faroese <fo@li.org> | 
- | [lxrandr]({{< ref "/f25/package/lxrandr.md" >}}) | 83 | 167 | 49.7 | LANGUAGE <LL@li.org> | 
- | [avahi]({{< ref "/f25/package/avahi.md" >}}) | 413 | 868 | 47.6 | Faroese (http://www.transifex.com/lennart/avahi/language/fo/) | 
- | [pinta]({{< ref "/f25/package/pinta.md" >}}) | 676 | 1618 | 41.8 | Føroyabólkurin | 
- | [deja-dup]({{< ref "/f25/package/deja-dup.md" >}}) | 837 | 2011 | 41.6 | Faroese <fo@li.org> | 
- | [tuxpaint]({{< ref "/f25/package/tuxpaint.md" >}}) | 647 | 1591 | 40.7 | Faroese <morshus@morshus.com> | 
- | [fprintd]({{< ref "/f25/package/fprintd.md" >}}) | 151 | 419 | 36.0 | Faroese (http://www.transifex.com/freedesktop/fprintd/language/fo/) | 
- | [libfm]({{< ref "/f25/package/libfm.md" >}}) | 418 | 1565 | 26.7 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f25/package/lxdm.md" >}}) | 12 | 47 | 25.5 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 1538 | 6466 | 23.8 | Faroese <fo@li.org> | 
- | [gdesklets]({{< ref "/f25/package/gdesklets.md" >}}) | 335 | 1528 | 21.9 | Faroese <fo@li.org> | 
- | [e16]({{< ref "/f25/package/e16.md" >}}) | 577 | 2821 | 20.5 | Faroese <fo@li.org> | 
- | [bleachbit]({{< ref "/f25/package/bleachbit.md" >}}) | 155 | 784 | 19.8 | Faroese <fo@li.org> | 
- | [unetbootin]({{< ref "/f25/package/unetbootin.md" >}}) | 559 | 3159 | 17.7 | Faroese <fo@li.org> | 
- | [backintime]({{< ref "/f25/package/backintime.md" >}}) | 306 | 1983 | 15.4 | Faroese <fo@li.org> | 
- | [iso-codes]({{< ref "/f25/package/iso-codes.md" >}}) | 147 | 1088 | 13.5 | Faroese | 
- | [pcmanfm]({{< ref "/f25/package/pcmanfm.md" >}}) | 163 | 1210 | 13.5 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 289 | 2487 | 11.6 | Faroese <fo@li.org> | 
- | [deluge]({{< ref "/f25/package/deluge.md" >}}) | 303 | 2728 | 11.1 | Faroese <fo@li.org> | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 1118 | 12320 | 9.1 | Faroese <fo@li.org> | 
- | [cairo-dock]({{< ref "/f25/package/cairo-dock.md" >}}) | 637 | 7464 | 8.5 | Faroese <fo@li.org> | 
- | [terminator]({{< ref "/f25/package/terminator.md" >}}) | 77 | 1410 | 5.5 | Faroese <fo@li.org> | 
- | [jmol]({{< ref "/f25/package/jmol.md" >}}) | 64 | 1448 | 4.4 | Faroese <fo@li.org> | 
- | [enlightenment]({{< ref "/f25/package/enlightenment.md" >}}) | 391 | 8847 | 4.4 | Faroese <fo@li.org> | 
- | [lxsession]({{< ref "/f25/package/lxsession.md" >}}) | 29 | 755 | 3.8 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f25/package/koffice-kivio.md" >}}) | 286 | 8417 | 3.4 | føroyskt <cvsuser@flug.fo> | 
- | [exaile]({{< ref "/f25/package/exaile.md" >}}) | 118 | 4006 | 2.9 | Faroese <fo@li.org> | 
- | [picard]({{< ref "/f25/package/picard.md" >}}) | 43 | 1625 | 2.6 | Faroese (http://www.transifex.com/projects/p/musicbrainz/language/fo/) | 
- | [asunder]({{< ref "/f25/package/asunder.md" >}}) | 8 | 480 | 1.7 | http://littlesvr.ca/ostd/ | 
- | [shutter]({{< ref "/f25/package/shutter.md" >}}) | 19 | 2448 | 0.8 | Faroese <fo@li.org> | 
- | [ailurus]({{< ref "/f25/package/ailurus.md" >}}) | 54 | 8278 | 0.7 | none | 
- | [slick-greeter]({{< ref "/f25/package/slick-greeter.md" >}}) | 1 | 211 | 0.5 | Faroese <fo@li.org> | 
- | [onboard]({{< ref "/f25/package/onboard.md" >}}) | 1 | 2318 | 0.0 | Faroese <fo@li.org> | 
- | [calibre]({{< ref "/f25/package/calibre.md" >}}) | 4 | 152264 | 0.0 | Faroese (http://www.transifex.com/calibre/calibre/language/fo/) | 
- | [PackageKit]({{< ref "/f25/package/PackageKit.md" >}}) | 0 | 1328 | 0.0 | Faroese (http://www.transifex.com/projects/p/freedesktop/language/fo/) | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [bzr]({{< ref "/f25/package/bzr.md" >}}) | 0 | 33249 | 0.0 | Faroese <fo@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Faroese (http://www.transifex.com/mate/MATE/language/fo/) | 
- | [lightdm]({{< ref "/f25/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Faroese <fo@li.org> | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mingw-p11-kit]({{< ref "/f25/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Faroese (http://www.transifex.com/freedesktop/p11-kit/language/fo/) | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [p11-kit]({{< ref "/f25/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Faroese (http://www.transifex.com/freedesktop/p11-kit/language/fo/) | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [realmd]({{< ref "/f25/package/realmd.md" >}}) | 0 | 778 | 0.0 | Faroese (http://www.transifex.com/projects/p/freedesktop/language/fo/) | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [storaged]({{< ref "/f25/package/storaged.md" >}}) | 0 | 1929 | 0.0 |  | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Faroese <fo@li.org> | 
+ | [lxmenu-data](/f25/package/lxmenu-data) | 97 | 97 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f25/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f25/package/squirrelmail) | 8037 | 8039 | 100.0 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [lxmusic](/f25/package/lxmusic) | 202 | 203 | 99.5 | LANGUAGE <LL@li.org> | 
+ | [gpicview](/f25/package/gpicview) | 234 | 236 | 99.2 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f25/package/virtaal) | 1582 | 1653 | 95.7 | LANGUAGE <LL@li.org> | 
+ | [lxtask](/f25/package/lxtask) | 122 | 130 | 93.8 | LANGUAGE <LL@li.org> | 
+ | [lxlauncher](/f25/package/lxlauncher) | 51 | 58 | 87.9 | LANGUAGE <LL@li.org> | 
+ | [clamtk](/f25/package/clamtk) | 699 | 796 | 87.8 | Føroyabólkurin | 
+ | [lxappearance-obconf](/f25/package/lxappearance-obconf) | 168 | 196 | 85.7 | Føroyabólkurin | 
+ | [steadyflow](/f25/package/steadyflow) | 401 | 470 | 85.3 | Faroese <fo@li.org> | 
+ | [lxinput](/f25/package/lxinput) | 70 | 83 | 84.3 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f25/package/mate-menu) | 241 | 300 | 80.3 | Faroese <fo@li.org> | 
+ | [shared-mime-info](/f25/package/shared-mime-info) | 1494 | 1869 | 79.9 | Faroese (http://www.transifex.com/freedesktop/shared-mime-info/language/fo/) | 
+ | [transmission](/f25/package/transmission) | 1382 | 1809 | 76.4 | Føroyabólkurin | 
+ | [isomaster](/f25/package/isomaster) | 495 | 674 | 73.4 | <LL@li.org> | 
+ | [lxappearance](/f25/package/lxappearance) | 171 | 234 | 73.1 | Føroyabólkurin | 
+ | [gtkspell3](/f25/package/gtkspell3) | 10 | 16 | 62.5 | Faroese <LL@li.org> | 
+ | [mingw-gtkspell3](/f25/package/mingw-gtkspell3) | 10 | 16 | 62.5 | Faroese <LL@li.org> | 
+ | [gnome-do](/f25/package/gnome-do) | 365 | 612 | 59.6 | Faroese <fo@li.org> | 
+ | [pogo](/f25/package/pogo) | 338 | 576 | 58.7 | Føroyabólkurin | 
+ | [lxpanel](/f25/package/lxpanel) | 794 | 1367 | 58.1 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f25/package/lxterminal) | 132 | 247 | 53.4 | LANGUAGE <LL@li.org> | 
+ | [rednotebook](/f25/package/rednotebook) | 589 | 1147 | 51.4 | Faroese <fo@li.org> | 
+ | [lxrandr](/f25/package/lxrandr) | 83 | 167 | 49.7 | LANGUAGE <LL@li.org> | 
+ | [avahi](/f25/package/avahi) | 413 | 868 | 47.6 | Faroese (http://www.transifex.com/lennart/avahi/language/fo/) | 
+ | [pinta](/f25/package/pinta) | 676 | 1618 | 41.8 | Føroyabólkurin | 
+ | [deja-dup](/f25/package/deja-dup) | 837 | 2011 | 41.6 | Faroese <fo@li.org> | 
+ | [tuxpaint](/f25/package/tuxpaint) | 647 | 1591 | 40.7 | Faroese <morshus@morshus.com> | 
+ | [fprintd](/f25/package/fprintd) | 151 | 419 | 36.0 | Faroese (http://www.transifex.com/freedesktop/fprintd/language/fo/) | 
+ | [libfm](/f25/package/libfm) | 418 | 1565 | 26.7 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f25/package/lxdm) | 12 | 47 | 25.5 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f25/package/mintmenu) | 1538 | 6466 | 23.8 | Faroese <fo@li.org> | 
+ | [gdesklets](/f25/package/gdesklets) | 335 | 1528 | 21.9 | Faroese <fo@li.org> | 
+ | [e16](/f25/package/e16) | 577 | 2821 | 20.5 | Faroese <fo@li.org> | 
+ | [bleachbit](/f25/package/bleachbit) | 155 | 784 | 19.8 | Faroese <fo@li.org> | 
+ | [unetbootin](/f25/package/unetbootin) | 559 | 3159 | 17.7 | Faroese <fo@li.org> | 
+ | [backintime](/f25/package/backintime) | 306 | 1983 | 15.4 | Faroese <fo@li.org> | 
+ | [iso-codes](/f25/package/iso-codes) | 147 | 1088 | 13.5 | Faroese | 
+ | [pcmanfm](/f25/package/pcmanfm) | 163 | 1210 | 13.5 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 289 | 2487 | 11.6 | Faroese <fo@li.org> | 
+ | [deluge](/f25/package/deluge) | 303 | 2728 | 11.1 | Faroese <fo@li.org> | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 1118 | 12320 | 9.1 | Faroese <fo@li.org> | 
+ | [cairo-dock](/f25/package/cairo-dock) | 637 | 7464 | 8.5 | Faroese <fo@li.org> | 
+ | [terminator](/f25/package/terminator) | 77 | 1410 | 5.5 | Faroese <fo@li.org> | 
+ | [jmol](/f25/package/jmol) | 64 | 1448 | 4.4 | Faroese <fo@li.org> | 
+ | [enlightenment](/f25/package/enlightenment) | 391 | 8847 | 4.4 | Faroese <fo@li.org> | 
+ | [lxsession](/f25/package/lxsession) | 29 | 755 | 3.8 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f25/package/koffice-kivio) | 286 | 8417 | 3.4 | føroyskt <cvsuser@flug.fo> | 
+ | [exaile](/f25/package/exaile) | 118 | 4006 | 2.9 | Faroese <fo@li.org> | 
+ | [picard](/f25/package/picard) | 43 | 1625 | 2.6 | Faroese (http://www.transifex.com/projects/p/musicbrainz/language/fo/) | 
+ | [asunder](/f25/package/asunder) | 8 | 480 | 1.7 | http://littlesvr.ca/ostd/ | 
+ | [shutter](/f25/package/shutter) | 19 | 2448 | 0.8 | Faroese <fo@li.org> | 
+ | [ailurus](/f25/package/ailurus) | 54 | 8278 | 0.7 | none | 
+ | [slick-greeter](/f25/package/slick-greeter) | 1 | 211 | 0.5 | Faroese <fo@li.org> | 
+ | [onboard](/f25/package/onboard) | 1 | 2318 | 0.0 | Faroese <fo@li.org> | 
+ | [calibre](/f25/package/calibre) | 4 | 152264 | 0.0 | Faroese (http://www.transifex.com/calibre/calibre/language/fo/) | 
+ | [PackageKit](/f25/package/PackageKit) | 0 | 1328 | 0.0 | Faroese (http://www.transifex.com/projects/p/freedesktop/language/fo/) | 
+ | [appcenter](/f25/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f25/package/audience) | 0 | 106 | 0.0 |  | 
+ | [bzr](/f25/package/bzr) | 0 | 33249 | 0.0 | Faroese <fo@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Faroese (http://www.transifex.com/mate/MATE/language/fo/) | 
+ | [lightdm](/f25/package/lightdm) | 0 | 163 | 0.0 | Faroese <fo@li.org> | 
+ | [maya-calendar](/f25/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mingw-p11-kit](/f25/package/mingw-p11-kit) | 0 | 476 | 0.0 | Faroese (http://www.transifex.com/freedesktop/p11-kit/language/fo/) | 
+ | [noise](/f25/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [p11-kit](/f25/package/p11-kit) | 0 | 476 | 0.0 | Faroese (http://www.transifex.com/freedesktop/p11-kit/language/fo/) | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [realmd](/f25/package/realmd) | 0 | 778 | 0.0 | Faroese (http://www.transifex.com/projects/p/freedesktop/language/fo/) | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [storaged](/f25/package/storaged) | 0 | 1929 | 0.0 |  | 
+ | [switchboard](/f25/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Faroese <fo@li.org> | 
 {.sortable}
 
 

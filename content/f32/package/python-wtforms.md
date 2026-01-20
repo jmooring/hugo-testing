@@ -18,36 +18,36 @@ The package python-wtforms (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f32/language/en.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/en/LC_MESSAGES/wtforms.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/bg/LC_MESSAGES/wtforms.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ca/LC_MESSAGES/wtforms.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/cs_CZ/LC_MESSAGES/wtforms.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/cy/LC_MESSAGES/wtforms.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/de/LC_MESSAGES/wtforms.po | 
- | [de_CH]({{< ref "/f32/language/de_CH.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/de_CH/LC_MESSAGES/wtforms.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/el/LC_MESSAGES/wtforms.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/et/LC_MESSAGES/wtforms.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/fi/LC_MESSAGES/wtforms.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/fr/LC_MESSAGES/wtforms.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/hu/LC_MESSAGES/wtforms.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/it/LC_MESSAGES/wtforms.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ja/LC_MESSAGES/wtforms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/nb/LC_MESSAGES/wtforms.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/nl/LC_MESSAGES/wtforms.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/pt/LC_MESSAGES/wtforms.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/sv/LC_MESSAGES/wtforms.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/tr/LC_MESSAGES/wtforms.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/uk/LC_MESSAGES/wtforms.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ar/LC_MESSAGES/wtforms.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/fa/LC_MESSAGES/wtforms.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/he/LC_MESSAGES/wtforms.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ko/LC_MESSAGES/wtforms.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/pl/LC_MESSAGES/wtforms.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/sk/LC_MESSAGES/wtforms.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/zh/LC_MESSAGES/wtforms.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/zh_TW/LC_MESSAGES/wtforms.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 168 | 188 | 89.4 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/es/LC_MESSAGES/wtforms.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 168 | 188 | 89.4 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ru/LC_MESSAGES/wtforms.po | 
+ | [en](/f32/language/en) | 188 | 188 | 100.0 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/en/LC_MESSAGES/wtforms.po | 
+ | [bg](/f32/language/bg) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/bg/LC_MESSAGES/wtforms.po | 
+ | [ca](/f32/language/ca) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ca/LC_MESSAGES/wtforms.po | 
+ | [cs](/f32/language/cs) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/cs_CZ/LC_MESSAGES/wtforms.po | 
+ | [cy](/f32/language/cy) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/cy/LC_MESSAGES/wtforms.po | 
+ | [de](/f32/language/de) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/de/LC_MESSAGES/wtforms.po | 
+ | [de_CH](/f32/language/de_CH) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/de_CH/LC_MESSAGES/wtforms.po | 
+ | [el](/f32/language/el) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/el/LC_MESSAGES/wtforms.po | 
+ | [et](/f32/language/et) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/et/LC_MESSAGES/wtforms.po | 
+ | [fi](/f32/language/fi) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/fi/LC_MESSAGES/wtforms.po | 
+ | [fr](/f32/language/fr) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/fr/LC_MESSAGES/wtforms.po | 
+ | [hu](/f32/language/hu) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/hu/LC_MESSAGES/wtforms.po | 
+ | [it](/f32/language/it) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/it/LC_MESSAGES/wtforms.po | 
+ | [ja](/f32/language/ja) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ja/LC_MESSAGES/wtforms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/nb/LC_MESSAGES/wtforms.po | 
+ | [nl](/f32/language/nl) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/nl/LC_MESSAGES/wtforms.po | 
+ | [pt](/f32/language/pt) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/pt/LC_MESSAGES/wtforms.po | 
+ | [sv](/f32/language/sv) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/sv/LC_MESSAGES/wtforms.po | 
+ | [tr](/f32/language/tr) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/tr/LC_MESSAGES/wtforms.po | 
+ | [uk](/f32/language/uk) | 183 | 188 | 97.3 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/uk/LC_MESSAGES/wtforms.po | 
+ | [ar](/f32/language/ar) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ar/LC_MESSAGES/wtforms.po | 
+ | [fa](/f32/language/fa) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/fa/LC_MESSAGES/wtforms.po | 
+ | [he](/f32/language/he) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/he/LC_MESSAGES/wtforms.po | 
+ | [ko](/f32/language/ko) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ko/LC_MESSAGES/wtforms.po | 
+ | [pl](/f32/language/pl) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/pl/LC_MESSAGES/wtforms.po | 
+ | [sk](/f32/language/sk) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/sk/LC_MESSAGES/wtforms.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/zh/LC_MESSAGES/wtforms.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 178 | 188 | 94.7 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/zh_TW/LC_MESSAGES/wtforms.po | 
+ | [es](/f32/language/es) | 168 | 188 | 89.4 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/es/LC_MESSAGES/wtforms.po | 
+ | [ru](/f32/language/ru) | 168 | 188 | 89.4 | /mnt/stockage/packages/f32/python-wtforms/wtforms/locale/ru/LC_MESSAGES/wtforms.po | 
 {.sortable}
 
 

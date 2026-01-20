@@ -43,9 +43,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcompris]({{< ref "/f13/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f13/package/iso-codes.md" >}}) | 128 | 1097 | 11.7 | Somali | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gcompris](/f13/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f13/package/iso-codes) | 128 | 1097 | 11.7 | Somali | 
+ | [vidalia](/f13/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

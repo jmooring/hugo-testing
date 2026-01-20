@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f14/package/iso-codes.md" >}}) | 144 | 1097 | 13.1 | Walamo | 
+ | [iso-codes](/f14/package/iso-codes) | 144 | 1097 | 13.1 | Walamo | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package solaar (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f30/solaar/po/de.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f30/solaar/packaging/debian/po/en.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f30/solaar/po/fr.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f30/solaar/packaging/debian/po/hr.po/mnt/stockage/packages/f30/solaar/po/hr.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f30/solaar/po/nl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 486 | 486 | 100.0 | /mnt/stockage/packages/f30/solaar/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 411 | 411 | 100.0 | /mnt/stockage/packages/f30/solaar/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f30/solaar/po/zh_TW.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 470 | 499 | 94.2 | /mnt/stockage/packages/f30/solaar/po/ru.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 370 | 499 | 74.1 | /mnt/stockage/packages/f30/solaar/po/es.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 370 | 499 | 74.1 | /mnt/stockage/packages/f30/solaar/po/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 370 | 499 | 74.1 | /mnt/stockage/packages/f30/solaar/po/tr.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 334 | 499 | 66.9 | /mnt/stockage/packages/f30/solaar/po/ro.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/el.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/fi.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/it.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/pl.po | 
+ | [de](/f30/language/de) | 499 | 499 | 100.0 | /mnt/stockage/packages/f30/solaar/po/de.po | 
+ | [en](/f30/language/en) | 140 | 140 | 100.0 | /mnt/stockage/packages/f30/solaar/packaging/debian/po/en.po | 
+ | [fr](/f30/language/fr) | 499 | 499 | 100.0 | /mnt/stockage/packages/f30/solaar/po/fr.po | 
+ | [hr](/f30/language/hr) | 669 | 669 | 100.0 | /mnt/stockage/packages/f30/solaar/packaging/debian/po/hr.po/mnt/stockage/packages/f30/solaar/po/hr.po | 
+ | [nl](/f30/language/nl) | 499 | 499 | 100.0 | /mnt/stockage/packages/f30/solaar/po/nl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 486 | 486 | 100.0 | /mnt/stockage/packages/f30/solaar/po/pt_BR.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 411 | 411 | 100.0 | /mnt/stockage/packages/f30/solaar/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 473 | 473 | 100.0 | /mnt/stockage/packages/f30/solaar/po/zh_TW.po | 
+ | [ru](/f30/language/ru) | 470 | 499 | 94.2 | /mnt/stockage/packages/f30/solaar/po/ru.po | 
+ | [es](/f30/language/es) | 370 | 499 | 74.1 | /mnt/stockage/packages/f30/solaar/po/es.po | 
+ | [sv](/f30/language/sv) | 370 | 499 | 74.1 | /mnt/stockage/packages/f30/solaar/po/sv.po | 
+ | [tr](/f30/language/tr) | 370 | 499 | 74.1 | /mnt/stockage/packages/f30/solaar/po/tr.po | 
+ | [ro](/f30/language/ro) | 334 | 499 | 66.9 | /mnt/stockage/packages/f30/solaar/po/ro.po | 
+ | [el](/f30/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/el.po | 
+ | [fi](/f30/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/fi.po | 
+ | [it](/f30/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/it.po | 
+ | [pl](/f30/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/solaar/po/pl.po | 
 {.sortable}
 
 

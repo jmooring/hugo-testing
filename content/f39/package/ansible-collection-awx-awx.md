@@ -18,15 +18,15 @@ The package ansible-collection-awx-awx (version 24.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f39/language/es.md" >}}) | 10100 | 10100 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/fr/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/ja/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/ko/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/nl/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/zh/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f39/language/en.md" >}}) | 72924 | 74109 | 98.4 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/zh/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/nl/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/ko/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/ja/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/fr/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/es/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/en/messages.po | 
- | [en_US]({{< ref "/f39/language/en_US.md" >}}) | 0 | 10100 | 0.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/en-us/LC_MESSAGES/django.po | 
- | [zu]({{< ref "/f39/language/zu.md" >}}) | 0 | 10587 | 0.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/zu/messages.po | 
+ | [es](/f39/language/es) | 10100 | 10100 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f39/language/fr) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/fr/LC_MESSAGES/django.po | 
+ | [ja](/f39/language/ja) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/ja/LC_MESSAGES/django.po | 
+ | [ko](/f39/language/ko) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/ko/LC_MESSAGES/django.po | 
+ | [nl](/f39/language/nl) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/nl/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 10098 | 10098 | 100.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/zh/LC_MESSAGES/django.po | 
+ | [en](/f39/language/en) | 72924 | 74109 | 98.4 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/zh/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/nl/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/ko/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/ja/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/fr/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/es/messages.po/mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/en/messages.po | 
+ | [en_US](/f39/language/en_US) | 0 | 10100 | 0.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/locale/en-us/LC_MESSAGES/django.po | 
+ | [zu](/f39/language/zu) | 0 | 10587 | 0.0 | /mnt/stockage/packages/f39/ansible-collection-awx-awx/awx/ui/src/locales/zu/messages.po | 
 {.sortable}
 
 

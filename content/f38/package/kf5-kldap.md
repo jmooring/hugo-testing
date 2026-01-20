@@ -18,79 +18,79 @@ The package kf5-kldap (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f38/language/be.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/be/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/be/libkldap5.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ca/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ca/libkldap5.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ca@valencia/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ca@valencia/libkldap5.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/cs/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/cs/libkldap5.po | 
- | [csb]({{< ref "/f38/language/csb.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/csb/kio_ldap.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/da/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/da/libkldap5.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/de/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/de/libkldap5.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/el/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/el/libkldap5.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/en_GB/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/en_GB/libkldap5.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/es/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/es/libkldap5.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/eu/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/eu/libkldap5.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/fa/kio_ldap.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/fi/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/fi/libkldap5.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/fr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/fr/libkldap5.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/gl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/gl/libkldap5.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/he/kio_ldap.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ia/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ia/libkldap5.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/is/kio_ldap.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/it/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/it/libkldap5.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ka/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ka/libkldap5.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/kn/kio_ldap.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ko/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ko/libkldap5.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ms/kio_ldap.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ne/kio_ldap.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/nl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nl/libkldap5.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/nn/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nn/libkldap5.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pl/libkldap5.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pt/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pt/libkldap5.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pt_BR/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pt_BR/libkldap5.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ru/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ru/libkldap5.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sk/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sk/libkldap5.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sl/libkldap5.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sv/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sv/libkldap5.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/tr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/tr/libkldap5.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/uk/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/uk/libkldap5.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/vi/kio_ldap.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/zh_CN/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/zh_CN/libkldap5.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 219 | 227 | 96.5 | /mnt/stockage/packages/f38/kf5-kldap/po/et/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/et/libkldap5.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 206 | 227 | 90.7 | /mnt/stockage/packages/f38/kf5-kldap/po/eo/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/eo/libkldap5.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 174 | 227 | 76.7 | /mnt/stockage/packages/f38/kf5-kldap/po/zh_TW/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/zh_TW/libkldap5.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr/libkldap5.po | 
- | [sr@ijekavian]({{< ref "/f38/language/sr@ijekavian.md" >}}) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavian/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavian/libkldap5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f38/language/sr@ijekavian_Latn.md" >}}) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavianlatin/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavianlatin/libkldap5.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr@latin/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr@latin/libkldap5.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f38/kf5-kldap/po/hu/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/hu/libkldap5.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f38/kf5-kldap/po/nb/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nb/libkldap5.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f38/kf5-kldap/po/nds/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nds/libkldap5.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/bs/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/bs/libkldap5.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/ga/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ga/libkldap5.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/ja/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ja/libkldap5.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/kk/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/kk/libkldap5.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/km/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/km/libkldap5.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/lv/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/lv/libkldap5.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 20 | 33 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/af/kio_ldap.po | 
- | [fy]({{< ref "/f38/language/fy.md" >}}) | 20 | 33 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/fy/kio_ldap.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 20 | 33 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/mk/kio_ldap.po | 
- | [uz]({{< ref "/f38/language/uz.md" >}}) | 40 | 66 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/uz@cyrillic/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/uz/kio_ldap.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 125 | 227 | 55.1 | /mnt/stockage/packages/f38/kf5-kldap/po/th/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/th/libkldap5.po | 
- | [hne]({{< ref "/f38/language/hne.md" >}}) | 104 | 227 | 45.8 | /mnt/stockage/packages/f38/kf5-kldap/po/hne/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/hne/libkldap5.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 95 | 227 | 41.9 | /mnt/stockage/packages/f38/kf5-kldap/po/hi/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/hi/libkldap5.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 93 | 227 | 41.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ro/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ro/libkldap5.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 76 | 227 | 33.5 | /mnt/stockage/packages/f38/kf5-kldap/po/lt/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/lt/libkldap5.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 68 | 227 | 30.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pa/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pa/libkldap5.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 6 | 33 | 18.2 | /mnt/stockage/packages/f38/kf5-kldap/po/cy/kio_ldap.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 6 | 33 | 18.2 | /mnt/stockage/packages/f38/kf5-kldap/po/ta/kio_ldap.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 35 | 194 | 18.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sq/libkldap5.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 38 | 227 | 16.7 | /mnt/stockage/packages/f38/kf5-kldap/po/mr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/mr/libkldap5.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 33 | 227 | 14.5 | /mnt/stockage/packages/f38/kf5-kldap/po/ar/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ar/libkldap5.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 33 | 227 | 14.5 | /mnt/stockage/packages/f38/kf5-kldap/po/bg/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/bg/libkldap5.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 21 | 227 | 9.3 | /mnt/stockage/packages/f38/kf5-kldap/po/ug/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ug/libkldap5.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 3 | 33 | 9.1 | /mnt/stockage/packages/f38/kf5-kldap/po/bn/kio_ldap.po | 
- | [br]({{< ref "/f38/language/br.md" >}}) | 3 | 33 | 9.1 | /mnt/stockage/packages/f38/kf5-kldap/po/br/kio_ldap.po | 
- | [se]({{< ref "/f38/language/se.md" >}}) | 20 | 227 | 8.8 | /mnt/stockage/packages/f38/kf5-kldap/po/se/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/se/libkldap5.po | 
+ | [be](/f38/language/be) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/be/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/be/libkldap5.po | 
+ | [ca](/f38/language/ca) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ca/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ca/libkldap5.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ca@valencia/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ca@valencia/libkldap5.po | 
+ | [cs](/f38/language/cs) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/cs/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/cs/libkldap5.po | 
+ | [csb](/f38/language/csb) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/csb/kio_ldap.po | 
+ | [da](/f38/language/da) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/da/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/da/libkldap5.po | 
+ | [de](/f38/language/de) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/de/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/de/libkldap5.po | 
+ | [el](/f38/language/el) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/el/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/el/libkldap5.po | 
+ | [en_GB](/f38/language/en_GB) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/en_GB/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/en_GB/libkldap5.po | 
+ | [es](/f38/language/es) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/es/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/es/libkldap5.po | 
+ | [eu](/f38/language/eu) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/eu/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/eu/libkldap5.po | 
+ | [fa](/f38/language/fa) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/fa/kio_ldap.po | 
+ | [fi](/f38/language/fi) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/fi/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/fi/libkldap5.po | 
+ | [fr](/f38/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/fr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/fr/libkldap5.po | 
+ | [gl](/f38/language/gl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/gl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/gl/libkldap5.po | 
+ | [he](/f38/language/he) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/he/kio_ldap.po | 
+ | [ia](/f38/language/ia) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ia/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ia/libkldap5.po | 
+ | [is](/f38/language/is) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/is/kio_ldap.po | 
+ | [it](/f38/language/it) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/it/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/it/libkldap5.po | 
+ | [ka](/f38/language/ka) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ka/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ka/libkldap5.po | 
+ | [kn](/f38/language/kn) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/kn/kio_ldap.po | 
+ | [ko](/f38/language/ko) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ko/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ko/libkldap5.po | 
+ | [ms](/f38/language/ms) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ms/kio_ldap.po | 
+ | [ne](/f38/language/ne) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ne/kio_ldap.po | 
+ | [nl](/f38/language/nl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/nl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nl/libkldap5.po | 
+ | [nn](/f38/language/nn) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/nn/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nn/libkldap5.po | 
+ | [pl](/f38/language/pl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pl/libkldap5.po | 
+ | [pt](/f38/language/pt) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pt/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pt/libkldap5.po | 
+ | [pt_BR](/f38/language/pt_BR) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pt_BR/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pt_BR/libkldap5.po | 
+ | [ru](/f38/language/ru) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ru/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ru/libkldap5.po | 
+ | [sk](/f38/language/sk) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sk/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sk/libkldap5.po | 
+ | [sl](/f38/language/sl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sl/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sl/libkldap5.po | 
+ | [sv](/f38/language/sv) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sv/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sv/libkldap5.po | 
+ | [tr](/f38/language/tr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/tr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/tr/libkldap5.po | 
+ | [uk](/f38/language/uk) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/uk/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/uk/libkldap5.po | 
+ | [vi](/f38/language/vi) | 33 | 33 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/vi/kio_ldap.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 227 | 227 | 100.0 | /mnt/stockage/packages/f38/kf5-kldap/po/zh_CN/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/zh_CN/libkldap5.po | 
+ | [et](/f38/language/et) | 219 | 227 | 96.5 | /mnt/stockage/packages/f38/kf5-kldap/po/et/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/et/libkldap5.po | 
+ | [eo](/f38/language/eo) | 206 | 227 | 90.7 | /mnt/stockage/packages/f38/kf5-kldap/po/eo/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/eo/libkldap5.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 174 | 227 | 76.7 | /mnt/stockage/packages/f38/kf5-kldap/po/zh_TW/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/zh_TW/libkldap5.po | 
+ | [sr](/f38/language/sr) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr/libkldap5.po | 
+ | [sr@ijekavian](/f38/language/sr@ijekavian) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavian/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavian/libkldap5.po | 
+ | [sr@ijekavian_Latn](/f38/language/sr@ijekavian_Latn) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavianlatin/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr@ijekavianlatin/libkldap5.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 152 | 229 | 66.4 | /mnt/stockage/packages/f38/kf5-kldap/po/sr@latin/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/sr@latin/libkldap5.po | 
+ | [hu](/f38/language/hu) | 148 | 227 | 65.2 | /mnt/stockage/packages/f38/kf5-kldap/po/hu/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/hu/libkldap5.po | 
+ | [nb_NO](/f38/language/nb_NO) | 148 | 227 | 65.2 | /mnt/stockage/packages/f38/kf5-kldap/po/nb/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nb/libkldap5.po | 
+ | [nds](/f38/language/nds) | 148 | 227 | 65.2 | /mnt/stockage/packages/f38/kf5-kldap/po/nds/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/nds/libkldap5.po | 
+ | [bs](/f38/language/bs) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/bs/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/bs/libkldap5.po | 
+ | [ga](/f38/language/ga) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/ga/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ga/libkldap5.po | 
+ | [ja](/f38/language/ja) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/ja/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ja/libkldap5.po | 
+ | [kk](/f38/language/kk) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/kk/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/kk/libkldap5.po | 
+ | [km](/f38/language/km) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/km/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/km/libkldap5.po | 
+ | [lv](/f38/language/lv) | 144 | 227 | 63.4 | /mnt/stockage/packages/f38/kf5-kldap/po/lv/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/lv/libkldap5.po | 
+ | [af](/f38/language/af) | 20 | 33 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/af/kio_ldap.po | 
+ | [fy](/f38/language/fy) | 20 | 33 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/fy/kio_ldap.po | 
+ | [mk](/f38/language/mk) | 20 | 33 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/mk/kio_ldap.po | 
+ | [uz](/f38/language/uz) | 40 | 66 | 60.6 | /mnt/stockage/packages/f38/kf5-kldap/po/uz@cyrillic/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/uz/kio_ldap.po | 
+ | [th](/f38/language/th) | 125 | 227 | 55.1 | /mnt/stockage/packages/f38/kf5-kldap/po/th/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/th/libkldap5.po | 
+ | [hne](/f38/language/hne) | 104 | 227 | 45.8 | /mnt/stockage/packages/f38/kf5-kldap/po/hne/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/hne/libkldap5.po | 
+ | [hi](/f38/language/hi) | 95 | 227 | 41.9 | /mnt/stockage/packages/f38/kf5-kldap/po/hi/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/hi/libkldap5.po | 
+ | [ro](/f38/language/ro) | 93 | 227 | 41.0 | /mnt/stockage/packages/f38/kf5-kldap/po/ro/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ro/libkldap5.po | 
+ | [lt](/f38/language/lt) | 76 | 227 | 33.5 | /mnt/stockage/packages/f38/kf5-kldap/po/lt/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/lt/libkldap5.po | 
+ | [pa](/f38/language/pa) | 68 | 227 | 30.0 | /mnt/stockage/packages/f38/kf5-kldap/po/pa/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/pa/libkldap5.po | 
+ | [cy](/f38/language/cy) | 6 | 33 | 18.2 | /mnt/stockage/packages/f38/kf5-kldap/po/cy/kio_ldap.po | 
+ | [ta](/f38/language/ta) | 6 | 33 | 18.2 | /mnt/stockage/packages/f38/kf5-kldap/po/ta/kio_ldap.po | 
+ | [sq](/f38/language/sq) | 35 | 194 | 18.0 | /mnt/stockage/packages/f38/kf5-kldap/po/sq/libkldap5.po | 
+ | [mr](/f38/language/mr) | 38 | 227 | 16.7 | /mnt/stockage/packages/f38/kf5-kldap/po/mr/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/mr/libkldap5.po | 
+ | [ar](/f38/language/ar) | 33 | 227 | 14.5 | /mnt/stockage/packages/f38/kf5-kldap/po/ar/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ar/libkldap5.po | 
+ | [bg](/f38/language/bg) | 33 | 227 | 14.5 | /mnt/stockage/packages/f38/kf5-kldap/po/bg/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/bg/libkldap5.po | 
+ | [ug](/f38/language/ug) | 21 | 227 | 9.3 | /mnt/stockage/packages/f38/kf5-kldap/po/ug/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/ug/libkldap5.po | 
+ | [bn](/f38/language/bn) | 3 | 33 | 9.1 | /mnt/stockage/packages/f38/kf5-kldap/po/bn/kio_ldap.po | 
+ | [br](/f38/language/br) | 3 | 33 | 9.1 | /mnt/stockage/packages/f38/kf5-kldap/po/br/kio_ldap.po | 
+ | [se](/f38/language/se) | 20 | 227 | 8.8 | /mnt/stockage/packages/f38/kf5-kldap/po/se/kio_ldap.po/mnt/stockage/packages/f38/kf5-kldap/po/se/libkldap5.po | 
 {.sortable}
 
 

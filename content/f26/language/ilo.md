@@ -38,42 +38,42 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f26/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f26/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [python-blivet1]({{< ref "/f26/package/python-blivet1.md" >}}) | 45 | 696 | 6.5 | Iloko | 
- | [python-blivet]({{< ref "/f26/package/python-blivet.md" >}}) | 44 | 692 | 6.4 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
- | [anaconda]({{< ref "/f26/package/anaconda.md" >}}) | 74 | 7190 | 1.0 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
- | [abrt]({{< ref "/f26/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora-abrt/language/ilo/) | 
- | [blivet-gui]({{< ref "/f26/package/blivet-gui.md" >}}) | 0 | 699 | 0.0 | Iloko | 
- | [certmonger]({{< ref "/f26/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/) | 
- | [cinnamon-control-center]({{< ref "/f26/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [control-center]({{< ref "/f26/package/control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [dnf-plugins-extras]({{< ref "/f26/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Iloko | 
- | [docker-anaconda-addon]({{< ref "/f26/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Iloko | 
- | [entangle]({{< ref "/f26/package/entangle.md" >}}) | 0 | 935 | 0.0 | Iloko | 
- | [initial-setup]({{< ref "/f26/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Iloko | 
- | [libbytesize]({{< ref "/f26/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Iloko | 
- | [libosinfo]({{< ref "/f26/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Iloko | 
- | [libreport]({{< ref "/f26/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Iloko (http://www.transifex.com/projects/p/libreport/language/ilo/) | 
- | [libvirt]({{< ref "/f26/package/libvirt.md" >}}) | 0 | 60645 | 0.0 | Iloko | 
- | [libvirt-glib]({{< ref "/f26/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [libvirt-sandbox]({{< ref "/f26/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [mingw-libosinfo]({{< ref "/f26/package/mingw-libosinfo.md" >}}) | 0 | 2049 | 0.0 | Iloko | 
- | [mingw-libvirt]({{< ref "/f26/package/mingw-libvirt.md" >}}) | 0 | 60660 | 0.0 | Iloko | 
- | [mingw-libvirt-glib]({{< ref "/f26/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [oscap-anaconda-addon]({{< ref "/f26/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Iloko (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ilo/) | 
- | [osinfo-db-tools]({{< ref "/f26/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Iloko | 
- | [pam]({{< ref "/f26/package/pam.md" >}}) | 0 | 597 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [policycoreutils]({{< ref "/f26/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [pykickstart]({{< ref "/f26/package/pykickstart.md" >}}) | 0 | 1386 | 0.0 | Iloko | 
- | [python-fedora]({{< ref "/f26/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Iloko | 
- | [python-meh]({{< ref "/f26/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Iloko | 
- | [setroubleshoot]({{< ref "/f26/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [setroubleshoot-plugins]({{< ref "/f26/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [sos]({{< ref "/f26/package/sos.md" >}}) | 0 | 122 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f26/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/) | 
- | [system-config-users-docs]({{< ref "/f26/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f26/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Iloko | 
+ | [redhat-menus](/f26/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f26/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [python-blivet1](/f26/package/python-blivet1) | 45 | 696 | 6.5 | Iloko | 
+ | [python-blivet](/f26/package/python-blivet) | 44 | 692 | 6.4 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
+ | [anaconda](/f26/package/anaconda) | 74 | 7190 | 1.0 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
+ | [abrt](/f26/package/abrt) | 0 | 3230 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora-abrt/language/ilo/) | 
+ | [blivet-gui](/f26/package/blivet-gui) | 0 | 699 | 0.0 | Iloko | 
+ | [certmonger](/f26/package/certmonger) | 0 | 2831 | 0.0 | Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/) | 
+ | [cinnamon-control-center](/f26/package/cinnamon-control-center) | 0 | 1313 | 0.0 |  | 
+ | [control-center](/f26/package/control-center) | 0 | 1313 | 0.0 |  | 
+ | [dnf-plugins-extras](/f26/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Iloko | 
+ | [docker-anaconda-addon](/f26/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Iloko | 
+ | [entangle](/f26/package/entangle) | 0 | 935 | 0.0 | Iloko | 
+ | [initial-setup](/f26/package/initial-setup) | 0 | 33 | 0.0 | Iloko | 
+ | [libbytesize](/f26/package/libbytesize) | 0 | 17 | 0.0 | Iloko | 
+ | [libosinfo](/f26/package/libosinfo) | 0 | 662 | 0.0 | Iloko | 
+ | [libreport](/f26/package/libreport) | 0 | 3501 | 0.0 | Iloko (http://www.transifex.com/projects/p/libreport/language/ilo/) | 
+ | [libvirt](/f26/package/libvirt) | 0 | 60645 | 0.0 | Iloko | 
+ | [libvirt-glib](/f26/package/libvirt-glib) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [libvirt-sandbox](/f26/package/libvirt-sandbox) | 0 | 617 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [mingw-libosinfo](/f26/package/mingw-libosinfo) | 0 | 2049 | 0.0 | Iloko | 
+ | [mingw-libvirt](/f26/package/mingw-libvirt) | 0 | 60660 | 0.0 | Iloko | 
+ | [mingw-libvirt-glib](/f26/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [oscap-anaconda-addon](/f26/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Iloko (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ilo/) | 
+ | [osinfo-db-tools](/f26/package/osinfo-db-tools) | 0 | 56 | 0.0 | Iloko | 
+ | [pam](/f26/package/pam) | 0 | 597 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [policycoreutils](/f26/package/policycoreutils) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [pykickstart](/f26/package/pykickstart) | 0 | 1386 | 0.0 | Iloko | 
+ | [python-fedora](/f26/package/python-fedora) | 0 | 214 | 0.0 | Iloko | 
+ | [python-meh](/f26/package/python-meh) | 0 | 109 | 0.0 | Iloko | 
+ | [setroubleshoot](/f26/package/setroubleshoot) | 0 | 660 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [setroubleshoot-plugins](/f26/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [sos](/f26/package/sos) | 0 | 122 | 0.0 | none | 
+ | [system-config-kickstart](/f26/package/system-config-kickstart) | 0 | 1144 | 0.0 | Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/) | 
+ | [system-config-users-docs](/f26/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f26/package/virt-viewer) | 0 | 784 | 0.0 | Iloko | 
 {.sortable}
 
 

@@ -18,45 +18,45 @@ The package kaccounts-integration (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ar/kaccounts-integration.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/az/kaccounts-integration.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ca/kaccounts-integration.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ca@valencia/kaccounts-integration.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/da/kaccounts-integration.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/de/kaccounts-integration.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/el/kaccounts-integration.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/en_GB/kaccounts-integration.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/es/kaccounts-integration.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/eu/kaccounts-integration.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/fi/kaccounts-integration.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/fr/kaccounts-integration.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/hu/kaccounts-integration.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ia/kaccounts-integration.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/it/kaccounts-integration.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ko/kaccounts-integration.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/lt/kaccounts-integration.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/nl/kaccounts-integration.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/nn/kaccounts-integration.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/pl/kaccounts-integration.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/pt/kaccounts-integration.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/pt_BR/kaccounts-integration.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ro/kaccounts-integration.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ru/kaccounts-integration.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/sk/kaccounts-integration.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/sl/kaccounts-integration.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/sv/kaccounts-integration.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/uk/kaccounts-integration.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/zh_CN/kaccounts-integration.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 161 | 174 | 92.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/et/kaccounts-integration.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 159 | 174 | 91.4 | /mnt/stockage/packages/f35/kaccounts-integration/po/ast/kaccounts-integration.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 123 | 174 | 70.7 | /mnt/stockage/packages/f35/kaccounts-integration/po/cs/kaccounts-integration.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 89 | 174 | 51.1 | /mnt/stockage/packages/f35/kaccounts-integration/po/pa/kaccounts-integration.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 67 | 174 | 38.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/zh_TW/kaccounts-integration.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 21 | 67 | 31.3 | /mnt/stockage/packages/f35/kaccounts-integration/po/sr/kaccounts-integration.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 27 | 174 | 15.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/gl/kaccounts-integration.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 20 | 174 | 11.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/tr/kaccounts-integration.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/bs/kaccounts-integration.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ja/kaccounts-integration.po | 
+ | [ar](/f35/language/ar) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ar/kaccounts-integration.po | 
+ | [az](/f35/language/az) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/az/kaccounts-integration.po | 
+ | [ca](/f35/language/ca) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ca/kaccounts-integration.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ca@valencia/kaccounts-integration.po | 
+ | [da](/f35/language/da) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/da/kaccounts-integration.po | 
+ | [de](/f35/language/de) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/de/kaccounts-integration.po | 
+ | [el](/f35/language/el) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/el/kaccounts-integration.po | 
+ | [en_GB](/f35/language/en_GB) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/en_GB/kaccounts-integration.po | 
+ | [es](/f35/language/es) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/es/kaccounts-integration.po | 
+ | [eu](/f35/language/eu) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/eu/kaccounts-integration.po | 
+ | [fi](/f35/language/fi) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/fi/kaccounts-integration.po | 
+ | [fr](/f35/language/fr) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/fr/kaccounts-integration.po | 
+ | [hu](/f35/language/hu) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/hu/kaccounts-integration.po | 
+ | [ia](/f35/language/ia) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ia/kaccounts-integration.po | 
+ | [it](/f35/language/it) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/it/kaccounts-integration.po | 
+ | [ko](/f35/language/ko) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ko/kaccounts-integration.po | 
+ | [lt](/f35/language/lt) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/lt/kaccounts-integration.po | 
+ | [nl](/f35/language/nl) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/nl/kaccounts-integration.po | 
+ | [nn](/f35/language/nn) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/nn/kaccounts-integration.po | 
+ | [pl](/f35/language/pl) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/pl/kaccounts-integration.po | 
+ | [pt](/f35/language/pt) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/pt/kaccounts-integration.po | 
+ | [pt_BR](/f35/language/pt_BR) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/pt_BR/kaccounts-integration.po | 
+ | [ro](/f35/language/ro) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ro/kaccounts-integration.po | 
+ | [ru](/f35/language/ru) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ru/kaccounts-integration.po | 
+ | [sk](/f35/language/sk) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/sk/kaccounts-integration.po | 
+ | [sl](/f35/language/sl) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/sl/kaccounts-integration.po | 
+ | [sv](/f35/language/sv) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/sv/kaccounts-integration.po | 
+ | [uk](/f35/language/uk) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/uk/kaccounts-integration.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/zh_CN/kaccounts-integration.po | 
+ | [et](/f35/language/et) | 161 | 174 | 92.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/et/kaccounts-integration.po | 
+ | [ast](/f35/language/ast) | 159 | 174 | 91.4 | /mnt/stockage/packages/f35/kaccounts-integration/po/ast/kaccounts-integration.po | 
+ | [cs](/f35/language/cs) | 123 | 174 | 70.7 | /mnt/stockage/packages/f35/kaccounts-integration/po/cs/kaccounts-integration.po | 
+ | [pa](/f35/language/pa) | 89 | 174 | 51.1 | /mnt/stockage/packages/f35/kaccounts-integration/po/pa/kaccounts-integration.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 67 | 174 | 38.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/zh_TW/kaccounts-integration.po | 
+ | [sr](/f35/language/sr) | 21 | 67 | 31.3 | /mnt/stockage/packages/f35/kaccounts-integration/po/sr/kaccounts-integration.po | 
+ | [gl](/f35/language/gl) | 27 | 174 | 15.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/gl/kaccounts-integration.po | 
+ | [tr](/f35/language/tr) | 20 | 174 | 11.5 | /mnt/stockage/packages/f35/kaccounts-integration/po/tr/kaccounts-integration.po | 
+ | [bs](/f35/language/bs) | 0 | 174 | 0.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/bs/kaccounts-integration.po | 
+ | [ja](/f35/language/ja) | 0 | 174 | 0.0 | /mnt/stockage/packages/f35/kaccounts-integration/po/ja/kaccounts-integration.po | 
 {.sortable}
 
 

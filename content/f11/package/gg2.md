@@ -18,8 +18,8 @@ The package gg2 (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1480 | 1518 | 97.5 | /mnt/stockage/packages/f11/gg2/po/pl.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 768 | 1518 | 50.6 | /mnt/stockage/packages/f11/gg2/po/nl.po | 
+ | [pl](/f11/language/pl) | 1480 | 1518 | 97.5 | /mnt/stockage/packages/f11/gg2/po/pl.po | 
+ | [nl](/f11/language/nl) | 768 | 1518 | 50.6 | /mnt/stockage/packages/f11/gg2/po/nl.po | 
 {.sortable}
 
 

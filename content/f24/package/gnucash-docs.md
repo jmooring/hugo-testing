@@ -18,7 +18,7 @@ The package gnucash-docs (version 2.6.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 82199 | 100831 | 81.5 | /mnt/stockage/packages/f24/gnucash-docs/guide/it/it.po/mnt/stockage/packages/f24/gnucash-docs/help/it/it.po | 
+ | [it](/f24/language/it) | 82199 | 100831 | 81.5 | /mnt/stockage/packages/f24/gnucash-docs/guide/it/it.po/mnt/stockage/packages/f24/gnucash-docs/help/it/it.po | 
 {.sortable}
 
 

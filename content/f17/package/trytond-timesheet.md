@@ -18,14 +18,14 @@ The package trytond-timesheet (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/de_DE.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/fr_FR.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 204 | 210 | 97.1 | /mnt/stockage/packages/f17/trytond-timesheet/locale/bg_BG.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 204 | 210 | 97.1 | /mnt/stockage/packages/f17/trytond-timesheet/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 204 | 210 | 97.1 | /mnt/stockage/packages/f17/trytond-timesheet/locale/es_CO.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 204 | 212 | 96.2 | /mnt/stockage/packages/f17/trytond-timesheet/locale/nl_NL.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 212 | 0.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/cs_CZ.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 212 | 0.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/ru_RU.po | 
+ | [de](/f17/language/de) | 265 | 265 | 100.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/de_DE.po | 
+ | [fr](/f17/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/fr_FR.po | 
+ | [bg](/f17/language/bg) | 204 | 210 | 97.1 | /mnt/stockage/packages/f17/trytond-timesheet/locale/bg_BG.po | 
+ | [es](/f17/language/es) | 204 | 210 | 97.1 | /mnt/stockage/packages/f17/trytond-timesheet/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 204 | 210 | 97.1 | /mnt/stockage/packages/f17/trytond-timesheet/locale/es_CO.po | 
+ | [nl](/f17/language/nl) | 204 | 212 | 96.2 | /mnt/stockage/packages/f17/trytond-timesheet/locale/nl_NL.po | 
+ | [cs](/f17/language/cs) | 0 | 212 | 0.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/cs_CZ.po | 
+ | [ru](/f17/language/ru) | 0 | 212 | 0.0 | /mnt/stockage/packages/f17/trytond-timesheet/locale/ru_RU.po | 
 {.sortable}
 
 

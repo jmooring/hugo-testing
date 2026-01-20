@@ -18,10 +18,10 @@ The package hddtemp (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f38/hddtemp/po/pt.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f38/hddtemp/po/sv.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 207 | 403 | 51.4 | /mnt/stockage/packages/f38/hddtemp/po/fr.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 170 | 403 | 42.2 | /mnt/stockage/packages/f38/hddtemp/po/ru.po | 
+ | [pt](/f38/language/pt) | 403 | 403 | 100.0 | /mnt/stockage/packages/f38/hddtemp/po/pt.po | 
+ | [sv](/f38/language/sv) | 403 | 403 | 100.0 | /mnt/stockage/packages/f38/hddtemp/po/sv.po | 
+ | [fr](/f38/language/fr) | 207 | 403 | 51.4 | /mnt/stockage/packages/f38/hddtemp/po/fr.po | 
+ | [ru](/f38/language/ru) | 170 | 403 | 42.2 | /mnt/stockage/packages/f38/hddtemp/po/ru.po | 
 {.sortable}
 
 

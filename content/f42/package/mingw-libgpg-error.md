@@ -18,26 +18,26 @@ The package mingw-libgpg-error (version 1.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 1424 | 1424 | 100.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/de.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/ja.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/pl.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/ru.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/uk.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1187 | 1424 | 83.4 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/es.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 978 | 1424 | 68.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/cs.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 978 | 1424 | 68.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/fr.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 978 | 1424 | 68.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/zh_TW.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 971 | 1424 | 68.2 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/da.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 922 | 1424 | 64.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/it.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 922 | 1424 | 64.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/pt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 917 | 1424 | 64.4 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/nl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 789 | 1424 | 55.4 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/sv.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 740 | 1424 | 52.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/eo.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 740 | 1424 | 52.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/vi.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 738 | 1424 | 51.8 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/hu.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 738 | 1424 | 51.8 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/sr.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 613 | 1424 | 43.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/ro.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 546 | 1424 | 38.3 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/zh_CN.po | 
+ | [de](/f42/language/de) | 1424 | 1424 | 100.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/de.po | 
+ | [ja](/f42/language/ja) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/ja.po | 
+ | [pl](/f42/language/pl) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/pl.po | 
+ | [ru](/f42/language/ru) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/ru.po | 
+ | [uk](/f42/language/uk) | 1420 | 1424 | 99.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/uk.po | 
+ | [es](/f42/language/es) | 1187 | 1424 | 83.4 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/es.po | 
+ | [cs](/f42/language/cs) | 978 | 1424 | 68.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/cs.po | 
+ | [fr](/f42/language/fr) | 978 | 1424 | 68.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/fr.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 978 | 1424 | 68.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/zh_TW.po | 
+ | [da](/f42/language/da) | 971 | 1424 | 68.2 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/da.po | 
+ | [it](/f42/language/it) | 922 | 1424 | 64.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/it.po | 
+ | [pt](/f42/language/pt) | 922 | 1424 | 64.7 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/pt.po | 
+ | [nl](/f42/language/nl) | 917 | 1424 | 64.4 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/nl.po | 
+ | [sv](/f42/language/sv) | 789 | 1424 | 55.4 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/sv.po | 
+ | [eo](/f42/language/eo) | 740 | 1424 | 52.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/eo.po | 
+ | [vi](/f42/language/vi) | 740 | 1424 | 52.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/vi.po | 
+ | [hu](/f42/language/hu) | 738 | 1424 | 51.8 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/hu.po | 
+ | [sr](/f42/language/sr) | 738 | 1424 | 51.8 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/sr.po | 
+ | [ro](/f42/language/ro) | 613 | 1424 | 43.0 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/ro.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 546 | 1424 | 38.3 | /mnt/stockage/packages/f42/mingw-libgpg-error/po/zh_CN.po | 
 {.sortable}
 
 

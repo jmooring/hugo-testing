@@ -18,8 +18,8 @@ The package httping (version 3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1330 | 1330 | 100.0 | /mnt/stockage/packages/f42/httping/ru.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1329 | 1330 | 99.9 | /mnt/stockage/packages/f42/httping/nl.po | 
+ | [ru](/f42/language/ru) | 1330 | 1330 | 100.0 | /mnt/stockage/packages/f42/httping/ru.po | 
+ | [nl](/f42/language/nl) | 1329 | 1330 | 99.9 | /mnt/stockage/packages/f42/httping/nl.po | 
 {.sortable}
 
 

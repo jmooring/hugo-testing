@@ -18,28 +18,28 @@ The package meego-panel-devices (version 0.1.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ast.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/fr.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ko.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/sv.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/wa.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/zh_TW.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 146 | 271 | 53.9 | /mnt/stockage/packages/f14/meego-panel-devices/po/sk.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 137 | 271 | 50.6 | /mnt/stockage/packages/f14/meego-panel-devices/po/da.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 131 | 267 | 49.1 | /mnt/stockage/packages/f14/meego-panel-devices/po/tr.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 125 | 270 | 46.3 | /mnt/stockage/packages/f14/meego-panel-devices/po/pa.po | 
+ | [ast](/f14/language/ast) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ast.po | 
+ | [de](/f14/language/de) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/en_GB.po | 
+ | [es](/f14/language/es) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/es.po | 
+ | [fi](/f14/language/fi) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/fi.po | 
+ | [fr](/f14/language/fr) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/fr.po | 
+ | [id](/f14/language/id) | 258 | 258 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/id.po | 
+ | [it](/f14/language/it) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/it.po | 
+ | [ja](/f14/language/ja) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ja.po | 
+ | [ko](/f14/language/ko) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ko.po | 
+ | [nl](/f14/language/nl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/nl.po | 
+ | [pl](/f14/language/pl) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/ru.po | 
+ | [sv](/f14/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/sv.po | 
+ | [wa](/f14/language/wa) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/wa.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 270 | 270 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 267 | 267 | 100.0 | /mnt/stockage/packages/f14/meego-panel-devices/po/zh_TW.po | 
+ | [sk](/f14/language/sk) | 146 | 271 | 53.9 | /mnt/stockage/packages/f14/meego-panel-devices/po/sk.po | 
+ | [da](/f14/language/da) | 137 | 271 | 50.6 | /mnt/stockage/packages/f14/meego-panel-devices/po/da.po | 
+ | [tr](/f14/language/tr) | 131 | 267 | 49.1 | /mnt/stockage/packages/f14/meego-panel-devices/po/tr.po | 
+ | [pa](/f14/language/pa) | 125 | 270 | 46.3 | /mnt/stockage/packages/f14/meego-panel-devices/po/pa.po | 
 {.sortable}
 
 

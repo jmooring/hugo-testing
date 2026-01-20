@@ -18,10 +18,10 @@ The package R-RODBC (version 1.3.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f32/language/error.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f32/R-RODBC/po/R-pl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f32/R-RODBC/po/pl.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 283 | 305 | 92.8 | /mnt/stockage/packages/f32/R-RODBC/po/da.po/mnt/stockage/packages/f32/R-RODBC/po/R-da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 276 | 305 | 90.5 | /mnt/stockage/packages/f32/R-RODBC/po/de.po/mnt/stockage/packages/f32/R-RODBC/po/R-de.po | 
+ | [error](/f32/language/error) | 198 | 198 | 100.0 | /mnt/stockage/packages/f32/R-RODBC/po/R-pl.po | 
+ | [pl](/f32/language/pl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f32/R-RODBC/po/pl.po | 
+ | [da](/f32/language/da) | 283 | 305 | 92.8 | /mnt/stockage/packages/f32/R-RODBC/po/da.po/mnt/stockage/packages/f32/R-RODBC/po/R-da.po | 
+ | [de](/f32/language/de) | 276 | 305 | 90.5 | /mnt/stockage/packages/f32/R-RODBC/po/de.po/mnt/stockage/packages/f32/R-RODBC/po/R-de.po | 
 {.sortable}
 
 

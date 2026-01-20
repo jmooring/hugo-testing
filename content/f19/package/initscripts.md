@@ -18,86 +18,86 @@ The package initscripts (version 9.47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f19/language/as.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/as.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/bg.po | 
- | [bn]({{< ref "/f19/language/bn.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/bn.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/bn_IN.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/de.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/fr.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/gu.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/ja.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/kn.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/mr.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/nl.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/te.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/zh_TW.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/ca.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/hr.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/ko.po | 
- | [mai]({{< ref "/f19/language/mai.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/mai.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/ml.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sr.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sr@latin.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 908 | 1003 | 90.5 | /mnt/stockage/packages/f19/initscripts/po/el.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 891 | 1003 | 88.8 | /mnt/stockage/packages/f19/initscripts/po/mk.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 885 | 1003 | 88.2 | /mnt/stockage/packages/f19/initscripts/po/is.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 875 | 1003 | 87.2 | /mnt/stockage/packages/f19/initscripts/po/bs.po | 
- | [cy]({{< ref "/f19/language/cy.md" >}}) | 785 | 1003 | 78.3 | /mnt/stockage/packages/f19/initscripts/po/cy.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 774 | 1003 | 77.2 | /mnt/stockage/packages/f19/initscripts/po/tr.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 768 | 1003 | 76.6 | /mnt/stockage/packages/f19/initscripts/po/ms.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 767 | 1003 | 76.5 | /mnt/stockage/packages/f19/initscripts/po/et.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 767 | 1003 | 76.5 | /mnt/stockage/packages/f19/initscripts/po/id.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 750 | 1003 | 74.8 | /mnt/stockage/packages/f19/initscripts/po/ar.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 424 | 1003 | 42.3 | /mnt/stockage/packages/f19/initscripts/po/ro.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 422 | 1003 | 42.1 | /mnt/stockage/packages/f19/initscripts/po/lv.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 410 | 1003 | 40.9 | /mnt/stockage/packages/f19/initscripts/po/vi.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 351 | 1003 | 35.0 | /mnt/stockage/packages/f19/initscripts/po/lt.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 237 | 1003 | 23.6 | /mnt/stockage/packages/f19/initscripts/po/gl.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 29 | 1003 | 2.9 | /mnt/stockage/packages/f19/initscripts/po/ka.po | 
- | [nn]({{< ref "/f19/language/nn.md" >}}) | 4 | 1003 | 0.4 | /mnt/stockage/packages/f19/initscripts/po/nn.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 4 | 2006 | 0.2 | /mnt/stockage/packages/f19/initscripts/po/eu_ES.po/mnt/stockage/packages/f19/initscripts/po/eu.po | 
- | [nds]({{< ref "/f19/language/nds.md" >}}) | 2 | 1003 | 0.2 | /mnt/stockage/packages/f19/initscripts/po/nds.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ast.po | 
- | [bal]({{< ref "/f19/language/bal.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/bal.po | 
- | [bo]({{< ref "/f19/language/bo.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/bo.po | 
- | [br]({{< ref "/f19/language/br.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/br.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/fa.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ga.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/he.po | 
- | [hy]({{< ref "/f19/language/hy.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/hy.po | 
- | [ia]({{< ref "/f19/language/ia.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ia.po | 
- | [kk]({{< ref "/f19/language/kk.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/kk.po | 
- | [ks]({{< ref "/f19/language/ks.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ks.po | 
- | [ku]({{< ref "/f19/language/ku.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ku.po | 
- | [lo]({{< ref "/f19/language/lo.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/lo.po | 
- | [my]({{< ref "/f19/language/my.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/my.po | 
- | [si]({{< ref "/f19/language/si.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/si.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/sq.po | 
- | [tg]({{< ref "/f19/language/tg.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/tg.po | 
- | [ur]({{< ref "/f19/language/ur.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ur.po | 
- | [wa]({{< ref "/f19/language/wa.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/zh_HK.po | 
+ | [as](/f19/language/as) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/as.po | 
+ | [bg](/f19/language/bg) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/bg.po | 
+ | [bn](/f19/language/bn) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/bn.po | 
+ | [bn_IN](/f19/language/bn_IN) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/bn_IN.po | 
+ | [cs](/f19/language/cs) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/cs.po | 
+ | [da](/f19/language/da) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/da.po | 
+ | [de](/f19/language/de) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/de.po | 
+ | [en_GB](/f19/language/en_GB) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/en_GB.po | 
+ | [es](/f19/language/es) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/es.po | 
+ | [fi](/f19/language/fi) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/fi.po | 
+ | [fr](/f19/language/fr) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/fr.po | 
+ | [gu](/f19/language/gu) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/gu.po | 
+ | [hi](/f19/language/hi) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/hi.po | 
+ | [hu](/f19/language/hu) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/hu.po | 
+ | [it](/f19/language/it) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/it.po | 
+ | [ja](/f19/language/ja) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/ja.po | 
+ | [kn](/f19/language/kn) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/kn.po | 
+ | [mr](/f19/language/mr) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/mr.po | 
+ | [nb_NO](/f19/language/nb_NO) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/nb.po | 
+ | [nl](/f19/language/nl) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/nl.po | 
+ | [or](/f19/language/or) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/or.po | 
+ | [pa](/f19/language/pa) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pa.po | 
+ | [pl](/f19/language/pl) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pl.po | 
+ | [pt](/f19/language/pt) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/ru.po | 
+ | [sv](/f19/language/sv) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/sv.po | 
+ | [ta](/f19/language/ta) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/ta.po | 
+ | [te](/f19/language/te) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/te.po | 
+ | [uk](/f19/language/uk) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 922 | 1003 | 91.9 | /mnt/stockage/packages/f19/initscripts/po/zh_TW.po | 
+ | [ca](/f19/language/ca) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/ca.po | 
+ | [hr](/f19/language/hr) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/hr.po | 
+ | [ko](/f19/language/ko) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/ko.po | 
+ | [mai](/f19/language/mai) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/mai.po | 
+ | [ml](/f19/language/ml) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/ml.po | 
+ | [sk](/f19/language/sk) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sk.po | 
+ | [sl](/f19/language/sl) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sl.po | 
+ | [sr](/f19/language/sr) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sr.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 915 | 1003 | 91.2 | /mnt/stockage/packages/f19/initscripts/po/sr@latin.po | 
+ | [el](/f19/language/el) | 908 | 1003 | 90.5 | /mnt/stockage/packages/f19/initscripts/po/el.po | 
+ | [mk](/f19/language/mk) | 891 | 1003 | 88.8 | /mnt/stockage/packages/f19/initscripts/po/mk.po | 
+ | [is](/f19/language/is) | 885 | 1003 | 88.2 | /mnt/stockage/packages/f19/initscripts/po/is.po | 
+ | [bs](/f19/language/bs) | 875 | 1003 | 87.2 | /mnt/stockage/packages/f19/initscripts/po/bs.po | 
+ | [cy](/f19/language/cy) | 785 | 1003 | 78.3 | /mnt/stockage/packages/f19/initscripts/po/cy.po | 
+ | [tr](/f19/language/tr) | 774 | 1003 | 77.2 | /mnt/stockage/packages/f19/initscripts/po/tr.po | 
+ | [ms](/f19/language/ms) | 768 | 1003 | 76.6 | /mnt/stockage/packages/f19/initscripts/po/ms.po | 
+ | [et](/f19/language/et) | 767 | 1003 | 76.5 | /mnt/stockage/packages/f19/initscripts/po/et.po | 
+ | [id](/f19/language/id) | 767 | 1003 | 76.5 | /mnt/stockage/packages/f19/initscripts/po/id.po | 
+ | [ar](/f19/language/ar) | 750 | 1003 | 74.8 | /mnt/stockage/packages/f19/initscripts/po/ar.po | 
+ | [ro](/f19/language/ro) | 424 | 1003 | 42.3 | /mnt/stockage/packages/f19/initscripts/po/ro.po | 
+ | [lv](/f19/language/lv) | 422 | 1003 | 42.1 | /mnt/stockage/packages/f19/initscripts/po/lv.po | 
+ | [vi](/f19/language/vi) | 410 | 1003 | 40.9 | /mnt/stockage/packages/f19/initscripts/po/vi.po | 
+ | [lt](/f19/language/lt) | 351 | 1003 | 35.0 | /mnt/stockage/packages/f19/initscripts/po/lt.po | 
+ | [gl](/f19/language/gl) | 237 | 1003 | 23.6 | /mnt/stockage/packages/f19/initscripts/po/gl.po | 
+ | [ka](/f19/language/ka) | 29 | 1003 | 2.9 | /mnt/stockage/packages/f19/initscripts/po/ka.po | 
+ | [nn](/f19/language/nn) | 4 | 1003 | 0.4 | /mnt/stockage/packages/f19/initscripts/po/nn.po | 
+ | [eu](/f19/language/eu) | 4 | 2006 | 0.2 | /mnt/stockage/packages/f19/initscripts/po/eu_ES.po/mnt/stockage/packages/f19/initscripts/po/eu.po | 
+ | [nds](/f19/language/nds) | 2 | 1003 | 0.2 | /mnt/stockage/packages/f19/initscripts/po/nds.po | 
+ | [ast](/f19/language/ast) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ast.po | 
+ | [bal](/f19/language/bal) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/bal.po | 
+ | [bo](/f19/language/bo) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/bo.po | 
+ | [br](/f19/language/br) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/br.po | 
+ | [fa](/f19/language/fa) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/fa.po | 
+ | [ga](/f19/language/ga) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ga.po | 
+ | [he](/f19/language/he) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/he.po | 
+ | [hy](/f19/language/hy) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/hy.po | 
+ | [ia](/f19/language/ia) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ia.po | 
+ | [kk](/f19/language/kk) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/kk.po | 
+ | [ks](/f19/language/ks) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ks.po | 
+ | [ku](/f19/language/ku) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ku.po | 
+ | [lo](/f19/language/lo) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/lo.po | 
+ | [my](/f19/language/my) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/my.po | 
+ | [si](/f19/language/si) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/si.po | 
+ | [sq](/f19/language/sq) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/sq.po | 
+ | [tg](/f19/language/tg) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/tg.po | 
+ | [ur](/f19/language/ur) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/ur.po | 
+ | [wa](/f19/language/wa) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/wa.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 0 | 1003 | 0.0 | /mnt/stockage/packages/f19/initscripts/po/zh_HK.po | 
 {.sortable}
 
 

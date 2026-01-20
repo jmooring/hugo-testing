@@ -18,12 +18,12 @@ The package python-ase (version 3.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1436 | 1450 | 99.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1418 | 1476 | 96.1 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 901 | 1476 | 61.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/de/LC_MESSAGES/ag.po | 
+ | [da](/f29/language/da) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
+ | [en_GB](/f29/language/en_GB) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
+ | [es](/f29/language/es) | 1476 | 1476 | 100.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1436 | 1450 | 99.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
+ | [gl](/f29/language/gl) | 1418 | 1476 | 96.1 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
+ | [de](/f29/language/de) | 901 | 1476 | 61.0 | /mnt/stockage/packages/f29/python-ase/ase/gui/po/de/LC_MESSAGES/ag.po | 
 {.sortable}
 
 

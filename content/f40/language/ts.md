@@ -40,39 +40,39 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f40/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f40/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f40/package/libreoffice.md" >}}) | 28403 | 171085 | 16.6 | LANGUAGE <LL@li.org> | 
- | [mate-menu]({{< ref "/f40/package/mate-menu.md" >}}) | 13 | 308 | 4.2 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 316 | 7636 | 4.1 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
- | [mate-menus]({{< ref "/f40/package/mate-menus.md" >}}) | 1 | 103 | 1.0 | Tsonga (https://app.transifex.com/mate/teams/13566/ts/) | 
- | [isomaster]({{< ref "/f40/package/isomaster.md" >}}) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
- | [mate-applets]({{< ref "/f40/package/mate-applets.md" >}}) | 1 | 812 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
- | [mate-panel]({{< ref "/f40/package/mate-panel.md" >}}) | 1 | 942 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
- | [exaile]({{< ref "/f40/package/exaile.md" >}}) | 1 | 4602 | 0.0 | Tsonga <ts@li.org> | 
- | [bookworm]({{< ref "/f40/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f40/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f40/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-code]({{< ref "/f40/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f40/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f40/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f40/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 0 | 281 | 0.0 | none | 
- | [granite]({{< ref "/f40/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f40/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f40/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [libmatekbd]({{< ref "/f40/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
- | [mate-themes]({{< ref "/f40/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Tsonga (http://app.transifex.com/mate/MATE/language/ts/) | 
- | [nutty]({{< ref "/f40/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f40/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f40/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f40/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [eog](/f40/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f40/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f40/package/libreoffice) | 28403 | 171085 | 16.6 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f40/package/mate-menu) | 13 | 308 | 4.2 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 316 | 7636 | 4.1 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
+ | [mate-menus](/f40/package/mate-menus) | 1 | 103 | 1.0 | Tsonga (https://app.transifex.com/mate/teams/13566/ts/) | 
+ | [isomaster](/f40/package/isomaster) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
+ | [mate-applets](/f40/package/mate-applets) | 1 | 812 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
+ | [mate-panel](/f40/package/mate-panel) | 1 | 942 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
+ | [exaile](/f40/package/exaile) | 1 | 4602 | 0.0 | Tsonga <ts@li.org> | 
+ | [bookworm](/f40/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f40/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f40/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-code](/f40/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f40/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f40/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f40/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f40/package/gala) | 0 | 281 | 0.0 | none | 
+ | [granite](/f40/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f40/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f40/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [libmatekbd](/f40/package/libmatekbd) | 0 | 308 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
+ | [mate-themes](/f40/package/mate-themes) | 0 | 74 | 0.0 | Tsonga (http://app.transifex.com/mate/MATE/language/ts/) | 
+ | [nutty](/f40/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f40/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f40/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f40/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f40/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

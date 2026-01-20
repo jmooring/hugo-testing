@@ -18,12 +18,12 @@ The package mesa (version 10.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/ca.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 323 | 371 | 87.1 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 244 | 371 | 65.8 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 244 | 371 | 65.8 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 244 | 371 | 65.8 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [ca](/f20/language/ca) | 371 | 371 | 100.0 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/ca.po | 
+ | [es](/f20/language/es) | 371 | 371 | 100.0 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [de](/f20/language/de) | 323 | 371 | 87.1 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [fr](/f20/language/fr) | 244 | 371 | 65.8 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f20/language/nl) | 244 | 371 | 65.8 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f20/language/sv) | 244 | 371 | 65.8 | /mnt/stockage/packages/f20/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package poker-engine (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 181 | 187 | 96.8 | /mnt/stockage/packages/f7/poker-engine/po/fr.po | 
+ | [fr](/f7/language/fr) | 181 | 187 | 96.8 | /mnt/stockage/packages/f7/poker-engine/po/fr.po | 
 {.sortable}
 
 

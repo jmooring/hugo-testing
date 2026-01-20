@@ -42,44 +42,44 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [system-config-keyboard]({{< ref "/f9/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Zulu <zulu@translate.org.za> | 
- | [system-config-language]({{< ref "/f9/package/system-config-language.md" >}}) | 45 | 45 | 100.0 | Zulu <zulu@translate.org.za> | 
- | [gdm]({{< ref "/f9/package/gdm.md" >}}) | 5299 | 5301 | 100.0 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f9/package/gnome-session.md" >}}) | 513 | 516 | 99.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 316 | 320 | 98.8 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f9/package/gnome-vfs2.md" >}}) | 1263 | 1282 | 98.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f9/package/nautilus.md" >}}) | 6674 | 6976 | 95.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [gnome-mime-data]({{< ref "/f9/package/gnome-mime-data.md" >}}) | 834 | 887 | 94.0 |  | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 3578 | 3937 | 90.9 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [eog]({{< ref "/f9/package/eog.md" >}}) | 557 | 614 | 90.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 1270 | 1419 | 89.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f9/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [redhat-menus]({{< ref "/f9/package/redhat-menus.md" >}}) | 213 | 261 | 81.6 | Zulu <zulu@translate.org.za> | 
- | [pam]({{< ref "/f9/package/pam.md" >}}) | 406 | 517 | 78.5 | Novell Language <language@novell.com> | 
- | [rhpxl]({{< ref "/f9/package/rhpxl.md" >}}) | 102 | 130 | 78.5 | Zulu <zulu@translate.org.za> | 
- | [control-center]({{< ref "/f9/package/control-center.md" >}}) | 2619 | 3382 | 77.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [rhpl]({{< ref "/f9/package/rhpl.md" >}}) | 136 | 185 | 73.5 | Zulu <zulu@translate.org.za> | 
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 35 | 59 | 59.3 | Zulu <zulu@translate.org.za> | 
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 4479 | 10040 | 44.6 | Zulu <zulu@translate.org.za> | 
- | [gnome-settings-daemon]({{< ref "/f9/package/gnome-settings-daemon.md" >}}) | 313 | 1034 | 30.3 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [libvirt]({{< ref "/f9/package/libvirt.md" >}}) | 1268 | 6298 | 20.1 | none | 
- | [yelp]({{< ref "/f9/package/yelp.md" >}}) | 92 | 606 | 15.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
- | [system-config-rootpassword]({{< ref "/f9/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Zulu <zulu@translate.org.za> | 
- | [firstboot]({{< ref "/f9/package/firstboot.md" >}}) | 31 | 604 | 5.1 | Zulu <zulu@translate.org.za> | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 162 | 12339 | 1.3 | Zulu <zulu@translate.org.za> | 
- | [compiz]({{< ref "/f9/package/compiz.md" >}}) | 0 | 39 | 0.0 | Novell Language <language@novell.com> | 
- | [im-chooser]({{< ref "/f9/package/im-chooser.md" >}}) | 0 | 457 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f9/package/policycoreutils.md" >}}) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f9/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f9/package/setroubleshoot.md" >}}) | 0 | 544 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f9/package/setroubleshoot-plugins.md" >}}) | 0 | 7900 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f9/package/sos.md" >}}) | 0 | 283 | 0.0 | none | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f9/package/system-config-kdump.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f9/package/system-config-keyboard) | 78 | 78 | 100.0 | Zulu <zulu@translate.org.za> | 
+ | [system-config-language](/f9/package/system-config-language) | 45 | 45 | 100.0 | Zulu <zulu@translate.org.za> | 
+ | [gdm](/f9/package/gdm) | 5299 | 5301 | 100.0 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-session](/f9/package/gnome-session) | 513 | 516 | 99.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 316 | 320 | 98.8 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f9/package/gnome-vfs2) | 1263 | 1282 | 98.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [nautilus](/f9/package/nautilus) | 6674 | 6976 | 95.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [gnome-mime-data](/f9/package/gnome-mime-data) | 834 | 887 | 94.0 |  | 
+ | [gnome-panel](/f9/package/gnome-panel) | 3578 | 3937 | 90.9 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [eog](/f9/package/eog) | 557 | 614 | 90.7 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [libgnomeui](/f9/package/libgnomeui) | 1270 | 1419 | 89.5 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [libbonoboui](/f9/package/libbonoboui) | 314 | 360 | 87.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [redhat-menus](/f9/package/redhat-menus) | 213 | 261 | 81.6 | Zulu <zulu@translate.org.za> | 
+ | [pam](/f9/package/pam) | 406 | 517 | 78.5 | Novell Language <language@novell.com> | 
+ | [rhpxl](/f9/package/rhpxl) | 102 | 130 | 78.5 | Zulu <zulu@translate.org.za> | 
+ | [control-center](/f9/package/control-center) | 2619 | 3382 | 77.4 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [rhpl](/f9/package/rhpl) | 136 | 185 | 73.5 | Zulu <zulu@translate.org.za> | 
+ | [rhgb](/f9/package/rhgb) | 35 | 59 | 59.3 | Zulu <zulu@translate.org.za> | 
+ | [anaconda](/f9/package/anaconda) | 4479 | 10040 | 44.6 | Zulu <zulu@translate.org.za> | 
+ | [gnome-settings-daemon](/f9/package/gnome-settings-daemon) | 313 | 1034 | 30.3 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [libvirt](/f9/package/libvirt) | 1268 | 6298 | 20.1 | none | 
+ | [yelp](/f9/package/yelp) | 92 | 606 | 15.2 | Zulu <translate-discuss-zu@lists.sourceforge.net> | 
+ | [system-config-rootpassword](/f9/package/system-config-rootpassword) | 15 | 116 | 12.9 | Zulu <zulu@translate.org.za> | 
+ | [firstboot](/f9/package/firstboot) | 31 | 604 | 5.1 | Zulu <zulu@translate.org.za> | 
+ | [iso-codes](/f9/package/iso-codes) | 162 | 12339 | 1.3 | Zulu <zulu@translate.org.za> | 
+ | [compiz](/f9/package/compiz) | 0 | 39 | 0.0 | Novell Language <language@novell.com> | 
+ | [im-chooser](/f9/package/im-chooser) | 0 | 457 | 0.0 | none | 
+ | [policycoreutils](/f9/package/policycoreutils) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f9/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f9/package/setroubleshoot) | 0 | 544 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f9/package/setroubleshoot-plugins) | 0 | 7900 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sos](/f9/package/sos) | 0 | 283 | 0.0 | none | 
+ | [system-config-date](/f9/package/system-config-date) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f9/package/system-config-kdump) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f9/package/system-config-services) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f9/package/system-config-users) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -91,7 +91,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnome-mime-data]({{< ref "/f9/package/gnome-mime-data.md" >}}) | /mnt/stockage/packages/f9/gnome-mime-data/po/zu.po | error-os |  | 
+ | [gnome-mime-data](/f9/package/gnome-mime-data) | /mnt/stockage/packages/f9/gnome-mime-data/po/zu.po | error-os |  | 
 {.sortable}
 
 

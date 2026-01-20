@@ -18,8 +18,8 @@ The package crossfire (version 1.71.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/crossfire/debian/po/fr.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 0 | 55 | 0.0 | /mnt/stockage/packages/f36/crossfire/debian/po/ru.po | 
+ | [fr](/f36/language/fr) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/crossfire/debian/po/fr.po | 
+ | [ru](/f36/language/ru) | 0 | 55 | 0.0 | /mnt/stockage/packages/f36/crossfire/debian/po/ru.po | 
 {.sortable}
 
 

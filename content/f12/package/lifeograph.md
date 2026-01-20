@@ -18,14 +18,14 @@ The package lifeograph (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f12/lifeograph/po/es.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f12/lifeograph/po/he.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f12/lifeograph/po/tr.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 459 | 479 | 95.8 | /mnt/stockage/packages/f12/lifeograph/po/cs.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 410 | 479 | 85.6 | /mnt/stockage/packages/f12/lifeograph/po/fr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 393 | 479 | 82.0 | /mnt/stockage/packages/f12/lifeograph/po/sv.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 384 | 479 | 80.2 | /mnt/stockage/packages/f12/lifeograph/po/ru.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 384 | 479 | 80.2 | /mnt/stockage/packages/f12/lifeograph/po/zh_CN.po | 
+ | [es](/f12/language/es) | 479 | 479 | 100.0 | /mnt/stockage/packages/f12/lifeograph/po/es.po | 
+ | [he](/f12/language/he) | 479 | 479 | 100.0 | /mnt/stockage/packages/f12/lifeograph/po/he.po | 
+ | [tr](/f12/language/tr) | 479 | 479 | 100.0 | /mnt/stockage/packages/f12/lifeograph/po/tr.po | 
+ | [cs](/f12/language/cs) | 459 | 479 | 95.8 | /mnt/stockage/packages/f12/lifeograph/po/cs.po | 
+ | [fr](/f12/language/fr) | 410 | 479 | 85.6 | /mnt/stockage/packages/f12/lifeograph/po/fr.po | 
+ | [sv](/f12/language/sv) | 393 | 479 | 82.0 | /mnt/stockage/packages/f12/lifeograph/po/sv.po | 
+ | [ru](/f12/language/ru) | 384 | 479 | 80.2 | /mnt/stockage/packages/f12/lifeograph/po/ru.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 384 | 479 | 80.2 | /mnt/stockage/packages/f12/lifeograph/po/zh_CN.po | 
 {.sortable}
 
 

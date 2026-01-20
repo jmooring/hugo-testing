@@ -18,8 +18,8 @@ The package fcitx-configtool (version 0.4.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f17/fcitx-configtool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f17/fcitx-configtool/po/zh_TW.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 98 | 98 | 100.0 | /mnt/stockage/packages/f17/fcitx-configtool/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 98 | 98 | 100.0 | /mnt/stockage/packages/f17/fcitx-configtool/po/zh_TW.po | 
 {.sortable}
 
 

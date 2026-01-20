@@ -18,23 +18,23 @@ The package reuse (version 6.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f43/reuse/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f43/reuse/po/uk.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1994 | 2034 | 98.0 | /mnt/stockage/packages/f43/reuse/po/es.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1773 | 2034 | 87.2 | /mnt/stockage/packages/f43/reuse/po/cs.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1752 | 2034 | 86.1 | /mnt/stockage/packages/f43/reuse/po/ru.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1504 | 2034 | 73.9 | /mnt/stockage/packages/f43/reuse/po/fr.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1099 | 2034 | 54.0 | /mnt/stockage/packages/f43/reuse/po/ja.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 619 | 2034 | 30.4 | /mnt/stockage/packages/f43/reuse/po/de.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 489 | 2034 | 24.0 | /mnt/stockage/packages/f43/reuse/po/sv.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 399 | 2034 | 19.6 | /mnt/stockage/packages/f43/reuse/po/it.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 351 | 2034 | 17.3 | /mnt/stockage/packages/f43/reuse/po/eo.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 322 | 2034 | 15.8 | /mnt/stockage/packages/f43/reuse/po/nl.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 315 | 2034 | 15.5 | /mnt/stockage/packages/f43/reuse/po/gl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 315 | 2034 | 15.5 | /mnt/stockage/packages/f43/reuse/po/pt.po | 
- | [aln]({{< ref "/f43/language/aln.md" >}}) | 0 | 2034 | 0.0 | /mnt/stockage/packages/f43/reuse/po/aln.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 0 | 2034 | 0.0 | /mnt/stockage/packages/f43/reuse/po/sq.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 0 | 2034 | 0.0 | /mnt/stockage/packages/f43/reuse/po/zh_Hant.po | 
+ | [tr](/f43/language/tr) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f43/reuse/po/tr.po | 
+ | [uk](/f43/language/uk) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f43/reuse/po/uk.po | 
+ | [es](/f43/language/es) | 1994 | 2034 | 98.0 | /mnt/stockage/packages/f43/reuse/po/es.po | 
+ | [cs](/f43/language/cs) | 1773 | 2034 | 87.2 | /mnt/stockage/packages/f43/reuse/po/cs.po | 
+ | [ru](/f43/language/ru) | 1752 | 2034 | 86.1 | /mnt/stockage/packages/f43/reuse/po/ru.po | 
+ | [fr](/f43/language/fr) | 1504 | 2034 | 73.9 | /mnt/stockage/packages/f43/reuse/po/fr.po | 
+ | [ja](/f43/language/ja) | 1099 | 2034 | 54.0 | /mnt/stockage/packages/f43/reuse/po/ja.po | 
+ | [de](/f43/language/de) | 619 | 2034 | 30.4 | /mnt/stockage/packages/f43/reuse/po/de.po | 
+ | [sv](/f43/language/sv) | 489 | 2034 | 24.0 | /mnt/stockage/packages/f43/reuse/po/sv.po | 
+ | [it](/f43/language/it) | 399 | 2034 | 19.6 | /mnt/stockage/packages/f43/reuse/po/it.po | 
+ | [eo](/f43/language/eo) | 351 | 2034 | 17.3 | /mnt/stockage/packages/f43/reuse/po/eo.po | 
+ | [nl](/f43/language/nl) | 322 | 2034 | 15.8 | /mnt/stockage/packages/f43/reuse/po/nl.po | 
+ | [gl](/f43/language/gl) | 315 | 2034 | 15.5 | /mnt/stockage/packages/f43/reuse/po/gl.po | 
+ | [pt](/f43/language/pt) | 315 | 2034 | 15.5 | /mnt/stockage/packages/f43/reuse/po/pt.po | 
+ | [aln](/f43/language/aln) | 0 | 2034 | 0.0 | /mnt/stockage/packages/f43/reuse/po/aln.po | 
+ | [sq](/f43/language/sq) | 0 | 2034 | 0.0 | /mnt/stockage/packages/f43/reuse/po/sq.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 0 | 2034 | 0.0 | /mnt/stockage/packages/f43/reuse/po/zh_Hant.po | 
 {.sortable}
 
 

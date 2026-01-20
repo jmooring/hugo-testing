@@ -189,83 +189,83 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [celestia]({{< ref "/f10/package/celestia.md" >}}) | 102 | 102 | 100.0 | English | 
- | [clisp]({{< ref "/f10/package/clisp.md" >}}) | 14227 | 14227 | 100.0 | English <en@li.org> | 
- | [cook]({{< ref "/f10/package/cook.md" >}}) | 997 | 997 | 100.0 |  | 
- | [gambas]({{< ref "/f10/package/gambas.md" >}}) | 415 | 415 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gambas2]({{< ref "/f10/package/gambas2.md" >}}) | 428 | 428 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gauche]({{< ref "/f10/package/gauche.md" >}}) | 82 | 82 | 100.0 |  | 
- | [gtklp]({{< ref "/f10/package/gtklp.md" >}}) | 591 | 591 | 100.0 | Nils Philippsen <nils@redhat.de> | 
- | [perl-Locale-Maketext-Lexicon]({{< ref "/f10/package/perl-Locale-Maketext-Lexicon.md" >}}) | 3 | 3 | 100.0 | Italian <cosimo@cpan.org> | 
- | [php-ZendFramework]({{< ref "/f10/package/php-ZendFramework.md" >}}) | 17 | 17 | 100.0 |  | 
- | [po4a]({{< ref "/f10/package/po4a.md" >}}) | 91 | 91 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pyrenamer]({{< ref "/f10/package/pyrenamer.md" >}}) | 596 | 596 | 100.0 | English | 
- | [qt3]({{< ref "/f10/package/qt3.md" >}}) | 482 | 482 | 100.0 |  | 
- | [quarry]({{< ref "/f10/package/quarry.md" >}}) | 1807 | 1807 | 100.0 |  | 
- | [rt3]({{< ref "/f10/package/rt3.md" >}}) | 4 | 4 | 100.0 | rt-devel <rt-devel@lists.bestpractical.com> | 
- | [schroot]({{< ref "/f10/package/schroot.md" >}}) | 1310 | 1310 | 100.0 | English <rleigh@debian.org> | 
- | [smokeping]({{< ref "/f10/package/smokeping.md" >}}) | 34 | 34 | 100.0 | none | 
- | [sugar-clock]({{< ref "/f10/package/sugar-clock.md" >}}) | 38 | 38 | 100.0 | English | 
- | [xen]({{< ref "/f10/package/xen.md" >}}) | 22 | 22 | 100.0 | xen-devel <xen-devel@lists.xensource.com> | 
- | [rawstudio]({{< ref "/f10/package/rawstudio.md" >}}) | 563 | 604 | 93.2 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [xmms]({{< ref "/f10/package/xmms.md" >}}) | 3177 | 3443 | 92.3 | English | 
- | [poker-engine]({{< ref "/f10/package/poker-engine.md" >}}) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
- | [vidalia]({{< ref "/f10/package/vidalia.md" >}}) | 368 | 468 | 78.6 | translations@vidalia-project.net | 
- | [roxterm]({{< ref "/f10/package/roxterm.md" >}}) | 1724 | 2206 | 78.2 | English | 
- | [cherokee]({{< ref "/f10/package/cherokee.md" >}}) | 2555 | 3704 | 69.0 | none | 
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 3967 | 6228 | 63.7 | English | 
- | [fish]({{< ref "/f10/package/fish.md" >}}) | 5291 | 8912 | 59.4 | English <fish-users@lists.sf.net> | 
- | [poker-network]({{< ref "/f10/package/poker-network.md" >}}) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
- | [poker2d]({{< ref "/f10/package/poker2d.md" >}}) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
- | [python-nevow]({{< ref "/f10/package/python-nevow.md" >}}) | 4 | 14 | 28.6 | LANGUAGE <LL@li.org> | 
- | [miredo]({{< ref "/f10/package/miredo.md" >}}) | 138 | 583 | 23.7 | N/A | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 518 | 2407 | 21.5 | English | 
- | [sugar-calculator]({{< ref "/f10/package/sugar-calculator.md" >}}) | 106 | 616 | 17.2 | English | 
- | [subdownloader]({{< ref "/f10/package/subdownloader.md" >}}) | 176 | 1141 | 15.4 |  | 
- | [gnome-applet-cpufire]({{< ref "/f10/package/gnome-applet-cpufire.md" >}}) | 107 | 935 | 11.4 | LANGUAGE <LL@li.org> | 
- | [calcurse]({{< ref "/f10/package/calcurse.md" >}}) | 352 | 4042 | 8.7 | English/GB <en_GB@li.org> | 
- | [wdm]({{< ref "/f10/package/wdm.md" >}}) | 3 | 38 | 7.9 |  | 
- | [sugar]({{< ref "/f10/package/sugar.md" >}}) | 15 | 493 | 3.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f10/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <walter@sugarlabs.org> | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 20 | 1186 | 1.7 | English <en@li.org> | 
- | [Django]({{< ref "/f10/package/Django.md" >}}) | 10 | 2891 | 0.3 | LANGUAGE <LL@li.org> | 
- | [R]({{< ref "/f10/package/R.md" >}}) | 25 | 10060 | 0.2 | R-core <R-core@R-project.org> | 
- | [picard]({{< ref "/f10/package/picard.md" >}}) | 1 | 593 | 0.2 | English <en@li.org> | 
- | [etoys]({{< ref "/f10/package/etoys.md" >}}) | 32 | 27689 | 0.1 |  | 
- | [moin]({{< ref "/f10/package/moin.md" >}}) | 4 | 3700 | 0.1 | German <moin-devel@lists.sourceforge.net> | 
- | [icewm]({{< ref "/f10/package/icewm.md" >}}) | 1 | 1376 | 0.1 | English | 
- | [lyx]({{< ref "/f10/package/lyx.md" >}}) | 5 | 13665 | 0.0 | LyX team <lyx-docs@lists.lyx.org> | 
- | [TurboGears]({{< ref "/f10/package/TurboGears.md" >}}) | 0 | 9 | 0.0 | LANGUAGE <LL@li.org> | 
- | [boinc-client]({{< ref "/f10/package/boinc-client.md" >}}) | 0 | 0 | 0.0 |  | 
- | [fedora-ksplice]({{< ref "/f10/package/fedora-ksplice.md" >}}) | 0 | 166 | 0.0 | German | 
- | [gnomecatalog]({{< ref "/f10/package/gnomecatalog.md" >}}) | 0 | 127 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f10/package/gourmet.md" >}}) | 0 | 3526 | 0.0 | English <en@li.org> | 
- | [gridengine]({{< ref "/f10/package/gridengine.md" >}}) | 0 | 16517 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pmount]({{< ref "/f10/package/pmount.md" >}}) | 0 | 723 | 0.0 | English <en@li.org> | 
- | [poweradmin]({{< ref "/f10/package/poweradmin.md" >}}) | 0 | 858 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rosegarden4]({{< ref "/f10/package/rosegarden4.md" >}}) | 0 | 11070 | 0.0 | none> | 
- | [roundup]({{< ref "/f10/package/roundup.md" >}}) | 0 | 0 | 0.0 | English | 
- | [spe]({{< ref "/f10/package/spe.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f10/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f10/package/sugar-browse.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f10/package/sugar-chat.md" >}}) | 0 | 21 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f10/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f10/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f10/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-journal]({{< ref "/f10/package/sugar-journal.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f10/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f10/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f10/package/sugar-memorize.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f10/package/sugar-pippy.md" >}}) | 0 | 40 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f10/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f10/package/sugar-record.md" >}}) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f10/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f10/package/sugar-toolkit.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-update-control]({{< ref "/f10/package/sugar-update-control.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f10/package/sugar-write.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
- | [tucan]({{< ref "/f10/package/tucan.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wxGlade]({{< ref "/f10/package/wxGlade.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [celestia](/f10/package/celestia) | 102 | 102 | 100.0 | English | 
+ | [clisp](/f10/package/clisp) | 14227 | 14227 | 100.0 | English <en@li.org> | 
+ | [cook](/f10/package/cook) | 997 | 997 | 100.0 |  | 
+ | [gambas](/f10/package/gambas) | 415 | 415 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gambas2](/f10/package/gambas2) | 428 | 428 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gauche](/f10/package/gauche) | 82 | 82 | 100.0 |  | 
+ | [gtklp](/f10/package/gtklp) | 591 | 591 | 100.0 | Nils Philippsen <nils@redhat.de> | 
+ | [perl-Locale-Maketext-Lexicon](/f10/package/perl-Locale-Maketext-Lexicon) | 3 | 3 | 100.0 | Italian <cosimo@cpan.org> | 
+ | [php-ZendFramework](/f10/package/php-ZendFramework) | 17 | 17 | 100.0 |  | 
+ | [po4a](/f10/package/po4a) | 91 | 91 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pyrenamer](/f10/package/pyrenamer) | 596 | 596 | 100.0 | English | 
+ | [qt3](/f10/package/qt3) | 482 | 482 | 100.0 |  | 
+ | [quarry](/f10/package/quarry) | 1807 | 1807 | 100.0 |  | 
+ | [rt3](/f10/package/rt3) | 4 | 4 | 100.0 | rt-devel <rt-devel@lists.bestpractical.com> | 
+ | [schroot](/f10/package/schroot) | 1310 | 1310 | 100.0 | English <rleigh@debian.org> | 
+ | [smokeping](/f10/package/smokeping) | 34 | 34 | 100.0 | none | 
+ | [sugar-clock](/f10/package/sugar-clock) | 38 | 38 | 100.0 | English | 
+ | [xen](/f10/package/xen) | 22 | 22 | 100.0 | xen-devel <xen-devel@lists.xensource.com> | 
+ | [rawstudio](/f10/package/rawstudio) | 563 | 604 | 93.2 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [xmms](/f10/package/xmms) | 3177 | 3443 | 92.3 | English | 
+ | [poker-engine](/f10/package/poker-engine) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
+ | [vidalia](/f10/package/vidalia) | 368 | 468 | 78.6 | translations@vidalia-project.net | 
+ | [roxterm](/f10/package/roxterm) | 1724 | 2206 | 78.2 | English | 
+ | [cherokee](/f10/package/cherokee) | 2555 | 3704 | 69.0 | none | 
+ | [liblicense](/f10/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f10/package/iso-codes) | 3967 | 6228 | 63.7 | English | 
+ | [fish](/f10/package/fish) | 5291 | 8912 | 59.4 | English <fish-users@lists.sf.net> | 
+ | [poker-network](/f10/package/poker-network) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
+ | [poker2d](/f10/package/poker2d) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
+ | [python-nevow](/f10/package/python-nevow) | 4 | 14 | 28.6 | LANGUAGE <LL@li.org> | 
+ | [miredo](/f10/package/miredo) | 138 | 583 | 23.7 | N/A | 
+ | [stellarium](/f10/package/stellarium) | 518 | 2407 | 21.5 | English | 
+ | [sugar-calculator](/f10/package/sugar-calculator) | 106 | 616 | 17.2 | English | 
+ | [subdownloader](/f10/package/subdownloader) | 176 | 1141 | 15.4 |  | 
+ | [gnome-applet-cpufire](/f10/package/gnome-applet-cpufire) | 107 | 935 | 11.4 | LANGUAGE <LL@li.org> | 
+ | [calcurse](/f10/package/calcurse) | 352 | 4042 | 8.7 | English/GB <en_GB@li.org> | 
+ | [wdm](/f10/package/wdm) | 3 | 38 | 7.9 |  | 
+ | [sugar](/f10/package/sugar) | 15 | 493 | 3.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f10/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <walter@sugarlabs.org> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 20 | 1186 | 1.7 | English <en@li.org> | 
+ | [Django](/f10/package/Django) | 10 | 2891 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [R](/f10/package/R) | 25 | 10060 | 0.2 | R-core <R-core@R-project.org> | 
+ | [picard](/f10/package/picard) | 1 | 593 | 0.2 | English <en@li.org> | 
+ | [etoys](/f10/package/etoys) | 32 | 27689 | 0.1 |  | 
+ | [moin](/f10/package/moin) | 4 | 3700 | 0.1 | German <moin-devel@lists.sourceforge.net> | 
+ | [icewm](/f10/package/icewm) | 1 | 1376 | 0.1 | English | 
+ | [lyx](/f10/package/lyx) | 5 | 13665 | 0.0 | LyX team <lyx-docs@lists.lyx.org> | 
+ | [TurboGears](/f10/package/TurboGears) | 0 | 9 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [boinc-client](/f10/package/boinc-client) | 0 | 0 | 0.0 |  | 
+ | [fedora-ksplice](/f10/package/fedora-ksplice) | 0 | 166 | 0.0 | German | 
+ | [gnomecatalog](/f10/package/gnomecatalog) | 0 | 127 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f10/package/gourmet) | 0 | 3526 | 0.0 | English <en@li.org> | 
+ | [gridengine](/f10/package/gridengine) | 0 | 16517 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pmount](/f10/package/pmount) | 0 | 723 | 0.0 | English <en@li.org> | 
+ | [poweradmin](/f10/package/poweradmin) | 0 | 858 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rosegarden4](/f10/package/rosegarden4) | 0 | 11070 | 0.0 | none> | 
+ | [roundup](/f10/package/roundup) | 0 | 0 | 0.0 | English | 
+ | [spe](/f10/package/spe) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f10/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f10/package/sugar-browse) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f10/package/sugar-chat) | 0 | 21 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f10/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f10/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f10/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-journal](/f10/package/sugar-journal) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f10/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f10/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f10/package/sugar-memorize) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f10/package/sugar-pippy) | 0 | 40 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f10/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f10/package/sugar-record) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f10/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f10/package/sugar-toolkit) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-update-control](/f10/package/sugar-update-control) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f10/package/sugar-write) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tucan](/f10/package/tucan) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wxGlade](/f10/package/wxGlade) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -277,7 +277,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [qt3]({{< ref "/f10/package/qt3.md" >}}) | /mnt/stockage/packages/f10/qt3/examples/demo/i18n/en.po | error-os |  | 
+ | [qt3](/f10/package/qt3) | /mnt/stockage/packages/f10/qt3/examples/demo/i18n/en.po | error-os |  | 
 {.sortable}
 
 
@@ -288,7 +288,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [boinc-client]({{< ref "/f10/package/boinc-client.md" >}}) | /mnt/stockage/packages/f10/boinc-client/languages/translations/en.po |  | 
+ | [boinc-client](/f10/package/boinc-client) | /mnt/stockage/packages/f10/boinc-client/languages/translations/en.po |  | 
 {.sortable}
 
 

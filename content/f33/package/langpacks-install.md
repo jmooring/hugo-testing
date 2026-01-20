@@ -18,7 +18,7 @@ The package langpacks-install (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f33/language/en.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f33/langpacks-install/po/en.po | 
+ | [en](/f33/language/en) | 9 | 9 | 100.0 | /mnt/stockage/packages/f33/langpacks-install/po/en.po | 
 {.sortable}
 
 

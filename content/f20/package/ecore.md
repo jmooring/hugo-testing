@@ -18,16 +18,16 @@ The package ecore (version 1.7.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/de.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/eo.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/nl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/pt.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/sl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/zh_CN.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 106 | 110 | 96.4 | /mnt/stockage/packages/f20/ecore/po/el.po | 
+ | [cs](/f20/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/cs.po | 
+ | [de](/f20/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/de.po | 
+ | [eo](/f20/language/eo) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/eo.po | 
+ | [fr](/f20/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/fr.po | 
+ | [it](/f20/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/it.po | 
+ | [nl](/f20/language/nl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/nl.po | 
+ | [pt](/f20/language/pt) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/pt.po | 
+ | [sl](/f20/language/sl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/sl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 110 | 110 | 100.0 | /mnt/stockage/packages/f20/ecore/po/zh_CN.po | 
+ | [el](/f20/language/el) | 106 | 110 | 96.4 | /mnt/stockage/packages/f20/ecore/po/el.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package cherokee (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 6680 | 6726 | 99.3 | /mnt/stockage/packages/f13/cherokee/po/admin/nl.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 6473 | 6726 | 96.2 | /mnt/stockage/packages/f13/cherokee/po/admin/es.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 4570 | 6726 | 67.9 | /mnt/stockage/packages/f13/cherokee/po/admin/ca.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 4334 | 6726 | 64.4 | /mnt/stockage/packages/f13/cherokee/po/admin/sv_SE.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 4058 | 6726 | 60.3 | /mnt/stockage/packages/f13/cherokee/po/admin/pl.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 3210 | 6726 | 47.7 | /mnt/stockage/packages/f13/cherokee/po/admin/zh_CN.po | 
- | [en]({{< ref "/f13/language/en.md" >}}) | 1983 | 6726 | 29.5 | /mnt/stockage/packages/f13/cherokee/po/admin/en.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1462 | 6726 | 21.7 | /mnt/stockage/packages/f13/cherokee/po/admin/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 920 | 6726 | 13.7 | /mnt/stockage/packages/f13/cherokee/po/admin/fr.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 815 | 6726 | 12.1 | /mnt/stockage/packages/f13/cherokee/po/admin/pt_BR.po | 
+ | [nl](/f13/language/nl) | 6680 | 6726 | 99.3 | /mnt/stockage/packages/f13/cherokee/po/admin/nl.po | 
+ | [es](/f13/language/es) | 6473 | 6726 | 96.2 | /mnt/stockage/packages/f13/cherokee/po/admin/es.po | 
+ | [ca](/f13/language/ca) | 4570 | 6726 | 67.9 | /mnt/stockage/packages/f13/cherokee/po/admin/ca.po | 
+ | [sv](/f13/language/sv) | 4334 | 6726 | 64.4 | /mnt/stockage/packages/f13/cherokee/po/admin/sv_SE.po | 
+ | [pl](/f13/language/pl) | 4058 | 6726 | 60.3 | /mnt/stockage/packages/f13/cherokee/po/admin/pl.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 3210 | 6726 | 47.7 | /mnt/stockage/packages/f13/cherokee/po/admin/zh_CN.po | 
+ | [en](/f13/language/en) | 1983 | 6726 | 29.5 | /mnt/stockage/packages/f13/cherokee/po/admin/en.po | 
+ | [de](/f13/language/de) | 1462 | 6726 | 21.7 | /mnt/stockage/packages/f13/cherokee/po/admin/de.po | 
+ | [fr](/f13/language/fr) | 920 | 6726 | 13.7 | /mnt/stockage/packages/f13/cherokee/po/admin/fr.po | 
+ | [pt_BR](/f13/language/pt_BR) | 815 | 6726 | 12.1 | /mnt/stockage/packages/f13/cherokee/po/admin/pt_BR.po | 
 {.sortable}
 
 

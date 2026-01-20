@@ -18,33 +18,33 @@ The package maui-mauikit-calendar (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ca/mauikitcalendar.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ca@valencia/mauikitcalendar.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/en_GB/mauikitcalendar.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/eo/mauikitcalendar.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/es/mauikitcalendar.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/eu/mauikitcalendar.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/fi/mauikitcalendar.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/fr/mauikitcalendar.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/gl/mauikitcalendar.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/it/mauikitcalendar.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ka/mauikitcalendar.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ko/mauikitcalendar.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/nl/mauikitcalendar.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/pl/mauikitcalendar.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/pt/mauikitcalendar.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/sl/mauikitcalendar.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/sv/mauikitcalendar.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/tr/mauikitcalendar.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/uk/mauikitcalendar.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/zh_TW/mauikitcalendar.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 61 | 63 | 96.8 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/de/mauikitcalendar.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 55 | 63 | 87.3 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/cs/mauikitcalendar.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 41 | 63 | 65.1 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/sk/mauikitcalendar.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 3 | 63 | 4.8 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/pt_BR/mauikitcalendar.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 63 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ja/mauikitcalendar.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 63 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/lt/mauikitcalendar.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 0 | 63 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/zh_CN/mauikitcalendar.po | 
+ | [ca](/f41/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ca/mauikitcalendar.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ca@valencia/mauikitcalendar.po | 
+ | [en_GB](/f41/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/en_GB/mauikitcalendar.po | 
+ | [eo](/f41/language/eo) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/eo/mauikitcalendar.po | 
+ | [es](/f41/language/es) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/es/mauikitcalendar.po | 
+ | [eu](/f41/language/eu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/eu/mauikitcalendar.po | 
+ | [fi](/f41/language/fi) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/fi/mauikitcalendar.po | 
+ | [fr](/f41/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/fr/mauikitcalendar.po | 
+ | [gl](/f41/language/gl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/gl/mauikitcalendar.po | 
+ | [it](/f41/language/it) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/it/mauikitcalendar.po | 
+ | [ka](/f41/language/ka) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ka/mauikitcalendar.po | 
+ | [ko](/f41/language/ko) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ko/mauikitcalendar.po | 
+ | [nl](/f41/language/nl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/nl/mauikitcalendar.po | 
+ | [pl](/f41/language/pl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/pl/mauikitcalendar.po | 
+ | [pt](/f41/language/pt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/pt/mauikitcalendar.po | 
+ | [sl](/f41/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/sl/mauikitcalendar.po | 
+ | [sv](/f41/language/sv) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/sv/mauikitcalendar.po | 
+ | [tr](/f41/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/tr/mauikitcalendar.po | 
+ | [uk](/f41/language/uk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/uk/mauikitcalendar.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/zh_TW/mauikitcalendar.po | 
+ | [de](/f41/language/de) | 61 | 63 | 96.8 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/de/mauikitcalendar.po | 
+ | [cs](/f41/language/cs) | 55 | 63 | 87.3 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/cs/mauikitcalendar.po | 
+ | [sk](/f41/language/sk) | 41 | 63 | 65.1 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/sk/mauikitcalendar.po | 
+ | [pt_BR](/f41/language/pt_BR) | 3 | 63 | 4.8 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/pt_BR/mauikitcalendar.po | 
+ | [ja](/f41/language/ja) | 0 | 63 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/ja/mauikitcalendar.po | 
+ | [lt](/f41/language/lt) | 0 | 63 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/lt/mauikitcalendar.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 0 | 63 | 0.0 | /mnt/stockage/packages/f41/maui-mauikit-calendar/po/zh_CN/mauikitcalendar.po | 
 {.sortable}
 
 

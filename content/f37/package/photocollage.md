@@ -18,11 +18,11 @@ The package photocollage (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/bg.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/cs.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/de.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/it.po | 
+ | [bg](/f37/language/bg) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/bg.po | 
+ | [cs](/f37/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/cs.po | 
+ | [de](/f37/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/de.po | 
+ | [fr](/f37/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/fr.po | 
+ | [it](/f37/language/it) | 46 | 46 | 100.0 | /mnt/stockage/packages/f37/photocollage/po/it.po | 
 {.sortable}
 
 

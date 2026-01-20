@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [onboard]({{< ref "/f27/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
- | [pantheon-greeter]({{< ref "/f27/package/pantheon-greeter.md" >}}) | 0 | 29 | 0.0 | Acehnese <ace@li.org> | 
+ | [onboard](/f27/package/onboard) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
+ | [pantheon-greeter](/f27/package/pantheon-greeter) | 0 | 29 | 0.0 | Acehnese <ace@li.org> | 
 {.sortable}
 
 

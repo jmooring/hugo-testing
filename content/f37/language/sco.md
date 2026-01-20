@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 138 | 172 | 80.2 | Scots <sco@li.org> | 
- | [folder-color-switcher]({{< ref "/f37/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 971 | 9212 | 10.5 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f37/package/picard.md" >}}) | 5 | 10039 | 0.0 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [breezy]({{< ref "/f37/package/breezy.md" >}}) | 0 | 33704 | 0.0 |  | 
- | [libmatekbd]({{< ref "/f37/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-menu]({{< ref "/f37/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-themes]({{< ref "/f37/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Scots (http://app.transifex.com/mate/MATE/language/sco/) | 
+ | [blueberry](/f37/package/blueberry) | 138 | 172 | 80.2 | Scots <sco@li.org> | 
+ | [folder-color-switcher](/f37/package/folder-color-switcher) | 51 | 65 | 78.5 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 971 | 9212 | 10.5 | Scots <sco@li.org> | 
+ | [picard](/f37/package/picard) | 5 | 10039 | 0.0 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [breezy](/f37/package/breezy) | 0 | 33704 | 0.0 |  | 
+ | [libmatekbd](/f37/package/libmatekbd) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-menu](/f37/package/mate-menu) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-themes](/f37/package/mate-themes) | 0 | 74 | 0.0 | Scots (http://app.transifex.com/mate/MATE/language/sco/) | 
 {.sortable}
 
 

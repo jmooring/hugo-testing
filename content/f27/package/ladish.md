@@ -18,9 +18,9 @@ The package ladish (version 2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f27/ladish/po/fr.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 619 | 623 | 99.4 | /mnt/stockage/packages/f27/ladish/po/ru.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 570 | 623 | 91.5 | /mnt/stockage/packages/f27/ladish/po/de.po | 
+ | [fr](/f27/language/fr) | 623 | 623 | 100.0 | /mnt/stockage/packages/f27/ladish/po/fr.po | 
+ | [ru](/f27/language/ru) | 619 | 623 | 99.4 | /mnt/stockage/packages/f27/ladish/po/ru.po | 
+ | [de](/f27/language/de) | 570 | 623 | 91.5 | /mnt/stockage/packages/f27/ladish/po/de.po | 
 {.sortable}
 
 

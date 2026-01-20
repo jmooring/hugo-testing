@@ -18,52 +18,52 @@ The package kf5-kpeople (version 5.79.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ar/kpeople5.po | 
- | [az]({{< ref "/f33/language/az.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/az/kpeople5.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ca/kpeople5.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ca@valencia/kpeople5.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/cs/kpeople5.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/da/kpeople5.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/de/kpeople5.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/el/kpeople5.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/en_GB/kpeople5.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/es/kpeople5.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/et/kpeople5.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/eu/kpeople5.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/fi/kpeople5.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/fr/kpeople5.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/gd/kpeople5.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/gl/kpeople5.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/hu/kpeople5.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ia/kpeople5.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/id/kpeople5.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/it/kpeople5.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ko/kpeople5.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/lt/kpeople5.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/nb/kpeople5.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/nl/kpeople5.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/nn/kpeople5.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/pl/kpeople5.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/pt/kpeople5.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/pt_BR/kpeople5.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ro/kpeople5.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ru/kpeople5.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sk/kpeople5.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sl/kpeople5.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr/kpeople5.po | 
- | [sr@ijekavian]({{< ref "/f33/language/sr@ijekavian.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr@ijekavian/kpeople5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f33/language/sr@ijekavian_Latn.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr@ijekavianlatin/kpeople5.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr@latin/kpeople5.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sv/kpeople5.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/tg/kpeople5.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/uk/kpeople5.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/zh_CN/kpeople5.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/zh_TW/kpeople5.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 19 | 21 | 90.5 | /mnt/stockage/packages/f33/kf5-kpeople/po/he/kpeople5.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 19 | 21 | 90.5 | /mnt/stockage/packages/f33/kf5-kpeople/po/tr/kpeople5.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 15 | 21 | 71.4 | /mnt/stockage/packages/f33/kf5-kpeople/po/bs/kpeople5.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 21 | 0.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ja/kpeople5.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 0 | 21 | 0.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ml/kpeople5.po | 
+ | [ar](/f33/language/ar) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ar/kpeople5.po | 
+ | [az](/f33/language/az) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/az/kpeople5.po | 
+ | [ca](/f33/language/ca) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ca/kpeople5.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ca@valencia/kpeople5.po | 
+ | [cs](/f33/language/cs) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/cs/kpeople5.po | 
+ | [da](/f33/language/da) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/da/kpeople5.po | 
+ | [de](/f33/language/de) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/de/kpeople5.po | 
+ | [el](/f33/language/el) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/el/kpeople5.po | 
+ | [en_GB](/f33/language/en_GB) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/en_GB/kpeople5.po | 
+ | [es](/f33/language/es) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/es/kpeople5.po | 
+ | [et](/f33/language/et) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/et/kpeople5.po | 
+ | [eu](/f33/language/eu) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/eu/kpeople5.po | 
+ | [fi](/f33/language/fi) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/fi/kpeople5.po | 
+ | [fr](/f33/language/fr) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/fr/kpeople5.po | 
+ | [gd](/f33/language/gd) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/gd/kpeople5.po | 
+ | [gl](/f33/language/gl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/gl/kpeople5.po | 
+ | [hu](/f33/language/hu) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/hu/kpeople5.po | 
+ | [ia](/f33/language/ia) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ia/kpeople5.po | 
+ | [id](/f33/language/id) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/id/kpeople5.po | 
+ | [it](/f33/language/it) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/it/kpeople5.po | 
+ | [ko](/f33/language/ko) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ko/kpeople5.po | 
+ | [lt](/f33/language/lt) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/lt/kpeople5.po | 
+ | [nb_NO](/f33/language/nb_NO) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/nb/kpeople5.po | 
+ | [nl](/f33/language/nl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/nl/kpeople5.po | 
+ | [nn](/f33/language/nn) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/nn/kpeople5.po | 
+ | [pl](/f33/language/pl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/pl/kpeople5.po | 
+ | [pt](/f33/language/pt) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/pt/kpeople5.po | 
+ | [pt_BR](/f33/language/pt_BR) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/pt_BR/kpeople5.po | 
+ | [ro](/f33/language/ro) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ro/kpeople5.po | 
+ | [ru](/f33/language/ru) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ru/kpeople5.po | 
+ | [sk](/f33/language/sk) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sk/kpeople5.po | 
+ | [sl](/f33/language/sl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sl/kpeople5.po | 
+ | [sr](/f33/language/sr) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr/kpeople5.po | 
+ | [sr@ijekavian](/f33/language/sr@ijekavian) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr@ijekavian/kpeople5.po | 
+ | [sr@ijekavian_Latn](/f33/language/sr@ijekavian_Latn) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr@ijekavianlatin/kpeople5.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sr@latin/kpeople5.po | 
+ | [sv](/f33/language/sv) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/sv/kpeople5.po | 
+ | [tg](/f33/language/tg) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/tg/kpeople5.po | 
+ | [uk](/f33/language/uk) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/uk/kpeople5.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/zh_CN/kpeople5.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 21 | 21 | 100.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/zh_TW/kpeople5.po | 
+ | [he](/f33/language/he) | 19 | 21 | 90.5 | /mnt/stockage/packages/f33/kf5-kpeople/po/he/kpeople5.po | 
+ | [tr](/f33/language/tr) | 19 | 21 | 90.5 | /mnt/stockage/packages/f33/kf5-kpeople/po/tr/kpeople5.po | 
+ | [bs](/f33/language/bs) | 15 | 21 | 71.4 | /mnt/stockage/packages/f33/kf5-kpeople/po/bs/kpeople5.po | 
+ | [ja](/f33/language/ja) | 0 | 21 | 0.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ja/kpeople5.po | 
+ | [ml](/f33/language/ml) | 0 | 21 | 0.0 | /mnt/stockage/packages/f33/kf5-kpeople/po/ml/kpeople5.po | 
 {.sortable}
 
 

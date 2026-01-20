@@ -18,16 +18,16 @@ The package cantata (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 7372 | 7372 | 100.0 | /mnt/stockage/packages/f24/cantata/po/cs.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 7372 | 7372 | 100.0 | /mnt/stockage/packages/f24/cantata/po/ko.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 7372 | 7372 | 100.0 | /mnt/stockage/packages/f24/cantata/po/pl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 6165 | 7372 | 83.6 | /mnt/stockage/packages/f24/cantata/po/hu.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 6165 | 7372 | 83.6 | /mnt/stockage/packages/f24/cantata/po/ru.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 4346 | 7372 | 59.0 | /mnt/stockage/packages/f24/cantata/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 3721 | 7372 | 50.5 | /mnt/stockage/packages/f24/cantata/po/fr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 3542 | 7372 | 48.0 | /mnt/stockage/packages/f24/cantata/po/de.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1477 | 7372 | 20.0 | /mnt/stockage/packages/f24/cantata/po/zh_CN.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 118 | 7372 | 1.6 | /mnt/stockage/packages/f24/cantata/po/en_GB.po | 
+ | [cs](/f24/language/cs) | 7372 | 7372 | 100.0 | /mnt/stockage/packages/f24/cantata/po/cs.po | 
+ | [ko](/f24/language/ko) | 7372 | 7372 | 100.0 | /mnt/stockage/packages/f24/cantata/po/ko.po | 
+ | [pl](/f24/language/pl) | 7372 | 7372 | 100.0 | /mnt/stockage/packages/f24/cantata/po/pl.po | 
+ | [hu](/f24/language/hu) | 6165 | 7372 | 83.6 | /mnt/stockage/packages/f24/cantata/po/hu.po | 
+ | [ru](/f24/language/ru) | 6165 | 7372 | 83.6 | /mnt/stockage/packages/f24/cantata/po/ru.po | 
+ | [es](/f24/language/es) | 4346 | 7372 | 59.0 | /mnt/stockage/packages/f24/cantata/po/es.po | 
+ | [fr](/f24/language/fr) | 3721 | 7372 | 50.5 | /mnt/stockage/packages/f24/cantata/po/fr.po | 
+ | [de](/f24/language/de) | 3542 | 7372 | 48.0 | /mnt/stockage/packages/f24/cantata/po/de.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1477 | 7372 | 20.0 | /mnt/stockage/packages/f24/cantata/po/zh_CN.po | 
+ | [en_GB](/f24/language/en_GB) | 118 | 7372 | 1.6 | /mnt/stockage/packages/f24/cantata/po/en_GB.po | 
 {.sortable}
 
 

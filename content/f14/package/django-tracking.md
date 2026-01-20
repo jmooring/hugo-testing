@@ -18,7 +18,7 @@ The package django-tracking (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f14/django-tracking/tracking/locale/de/LC_MESSAGES/django.po | 
+ | [de](/f14/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f14/django-tracking/tracking/locale/de/LC_MESSAGES/django.po | 
 {.sortable}
 
 

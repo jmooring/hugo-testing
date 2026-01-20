@@ -18,16 +18,16 @@ The package smart (version 0.52):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 4222 | 4236 | 99.7 | /mnt/stockage/packages/f9/smart/locale/zh_TW/LC_MESSAGES/smart.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 4206 | 4236 | 99.3 | /mnt/stockage/packages/f9/smart/locale/es_ES/LC_MESSAGES/smart.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 4206 | 4236 | 99.3 | /mnt/stockage/packages/f9/smart/locale/fr/LC_MESSAGES/smart.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 4206 | 4236 | 99.3 | /mnt/stockage/packages/f9/smart/locale/pt_BR/LC_MESSAGES/smart.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 4163 | 4236 | 98.3 | /mnt/stockage/packages/f9/smart/locale/hu/LC_MESSAGES/smart.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 4163 | 4236 | 98.3 | /mnt/stockage/packages/f9/smart/locale/sv/LC_MESSAGES/smart.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 3986 | 4236 | 94.1 | /mnt/stockage/packages/f9/smart/locale/de/LC_MESSAGES/smart.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 3187 | 4236 | 75.2 | /mnt/stockage/packages/f9/smart/locale/zh_CN/LC_MESSAGES/smart.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 966 | 4236 | 22.8 | /mnt/stockage/packages/f9/smart/locale/it/LC_MESSAGES/smart.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 953 | 4236 | 22.5 | /mnt/stockage/packages/f9/smart/locale/ru/LC_MESSAGES/smart.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 4222 | 4236 | 99.7 | /mnt/stockage/packages/f9/smart/locale/zh_TW/LC_MESSAGES/smart.po | 
+ | [es](/f9/language/es) | 4206 | 4236 | 99.3 | /mnt/stockage/packages/f9/smart/locale/es_ES/LC_MESSAGES/smart.po | 
+ | [fr](/f9/language/fr) | 4206 | 4236 | 99.3 | /mnt/stockage/packages/f9/smart/locale/fr/LC_MESSAGES/smart.po | 
+ | [pt_BR](/f9/language/pt_BR) | 4206 | 4236 | 99.3 | /mnt/stockage/packages/f9/smart/locale/pt_BR/LC_MESSAGES/smart.po | 
+ | [hu](/f9/language/hu) | 4163 | 4236 | 98.3 | /mnt/stockage/packages/f9/smart/locale/hu/LC_MESSAGES/smart.po | 
+ | [sv](/f9/language/sv) | 4163 | 4236 | 98.3 | /mnt/stockage/packages/f9/smart/locale/sv/LC_MESSAGES/smart.po | 
+ | [de](/f9/language/de) | 3986 | 4236 | 94.1 | /mnt/stockage/packages/f9/smart/locale/de/LC_MESSAGES/smart.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 3187 | 4236 | 75.2 | /mnt/stockage/packages/f9/smart/locale/zh_CN/LC_MESSAGES/smart.po | 
+ | [it](/f9/language/it) | 966 | 4236 | 22.8 | /mnt/stockage/packages/f9/smart/locale/it/LC_MESSAGES/smart.po | 
+ | [ru](/f9/language/ru) | 953 | 4236 | 22.5 | /mnt/stockage/packages/f9/smart/locale/ru/LC_MESSAGES/smart.po | 
 {.sortable}
 
 

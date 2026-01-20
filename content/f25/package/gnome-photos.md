@@ -18,65 +18,65 @@ The package gnome-photos (version 3.22.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f25/language/an.md" >}}) | 377 | 377 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/an.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/as.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/bg.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/ca/ca.po/mnt/stockage/packages/f25/gnome-photos/po/ca.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/ca@valencia.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/cs/cs.po/mnt/stockage/packages/f25/gnome-photos/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/da/da.po/mnt/stockage/packages/f25/gnome-photos/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/de/de.po/mnt/stockage/packages/f25/gnome-photos/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/el/el.po/mnt/stockage/packages/f25/gnome-photos/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/en_GB.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 377 | 377 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/eo.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/es/es.po/mnt/stockage/packages/f25/gnome-photos/po/es.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/fa.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/fr/fr.po/mnt/stockage/packages/f25/gnome-photos/po/fr.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/fur.po | 
- | [gd]({{< ref "/f25/language/gd.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/gd.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/hu/hu.po/mnt/stockage/packages/f25/gnome-photos/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/id.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/is.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/it.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/kk.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/ko/ko.po/mnt/stockage/packages/f25/gnome-photos/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/lv.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/nb.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/nl.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/oc.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/pa.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/gnome-photos/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/ro/ro.po/mnt/stockage/packages/f25/gnome-photos/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/sr@latin.po/mnt/stockage/packages/f25/gnome-photos/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/sv/sv.po/mnt/stockage/packages/f25/gnome-photos/po/sv.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/te.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 377 | 377 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/tg.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/zh_HK.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 419 | 424 | 98.8 | /mnt/stockage/packages/f25/gnome-photos/po/ja.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 413 | 424 | 97.4 | /mnt/stockage/packages/f25/gnome-photos/po/tr.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 217 | 226 | 96.0 | /mnt/stockage/packages/f25/gnome-photos/po/ga.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 749 | 803 | 93.3 | /mnt/stockage/packages/f25/gnome-photos/help/gl/gl.po/mnt/stockage/packages/f25/gnome-photos/po/gl.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 204 | 304 | 67.1 | /mnt/stockage/packages/f25/gnome-photos/po/ml.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 158 | 301 | 52.5 | /mnt/stockage/packages/f25/gnome-photos/po/kn.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 153 | 354 | 43.2 | /mnt/stockage/packages/f25/gnome-photos/po/ne.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 131 | 428 | 30.6 | /mnt/stockage/packages/f25/gnome-photos/po/gu.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f25/gnome-photos/po/km.po | 
+ | [an](/f25/language/an) | 377 | 377 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/an.po | 
+ | [ar](/f25/language/ar) | 428 | 428 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/ar.po | 
+ | [as](/f25/language/as) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/as.po | 
+ | [bg](/f25/language/bg) | 304 | 304 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/bg.po | 
+ | [bs](/f25/language/bs) | 379 | 379 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/bs.po | 
+ | [ca](/f25/language/ca) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/ca/ca.po/mnt/stockage/packages/f25/gnome-photos/po/ca.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/ca@valencia.po | 
+ | [cs](/f25/language/cs) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/cs/cs.po/mnt/stockage/packages/f25/gnome-photos/po/cs.po | 
+ | [da](/f25/language/da) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/da/da.po/mnt/stockage/packages/f25/gnome-photos/po/da.po | 
+ | [de](/f25/language/de) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/de/de.po/mnt/stockage/packages/f25/gnome-photos/po/de.po | 
+ | [el](/f25/language/el) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/el/el.po/mnt/stockage/packages/f25/gnome-photos/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/en_GB.po | 
+ | [eo](/f25/language/eo) | 377 | 377 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/eo.po | 
+ | [es](/f25/language/es) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/es/es.po/mnt/stockage/packages/f25/gnome-photos/po/es.po | 
+ | [et](/f25/language/et) | 301 | 301 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/et.po | 
+ | [eu](/f25/language/eu) | 424 | 424 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/eu.po | 
+ | [fa](/f25/language/fa) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/fa.po | 
+ | [fi](/f25/language/fi) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/fi.po | 
+ | [fr](/f25/language/fr) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/fr/fr.po/mnt/stockage/packages/f25/gnome-photos/po/fr.po | 
+ | [fur](/f25/language/fur) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/fur.po | 
+ | [gd](/f25/language/gd) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/gd.po | 
+ | [he](/f25/language/he) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/he.po | 
+ | [hu](/f25/language/hu) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/hu/hu.po/mnt/stockage/packages/f25/gnome-photos/po/hu.po | 
+ | [id](/f25/language/id) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/id.po | 
+ | [is](/f25/language/is) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/is.po | 
+ | [it](/f25/language/it) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/it.po | 
+ | [kk](/f25/language/kk) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/kk.po | 
+ | [ko](/f25/language/ko) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/ko/ko.po/mnt/stockage/packages/f25/gnome-photos/po/ko.po | 
+ | [lt](/f25/language/lt) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/lt.po | 
+ | [lv](/f25/language/lv) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/lv.po | 
+ | [nb_NO](/f25/language/nb_NO) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/nb.po | 
+ | [nl](/f25/language/nl) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/nl.po | 
+ | [oc](/f25/language/oc) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/oc.po | 
+ | [pa](/f25/language/pa) | 428 | 428 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/pa.po | 
+ | [pl](/f25/language/pl) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/pl.po | 
+ | [pt](/f25/language/pt) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/gnome-photos/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 732 | 732 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/ro/ro.po/mnt/stockage/packages/f25/gnome-photos/po/ro.po | 
+ | [ru](/f25/language/ru) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/ru.po | 
+ | [sk](/f25/language/sk) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/sk.po | 
+ | [sl](/f25/language/sl) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/sl.po | 
+ | [sr](/f25/language/sr) | 896 | 896 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/sr@latin.po/mnt/stockage/packages/f25/gnome-photos/po/sr.po | 
+ | [sv](/f25/language/sv) | 905 | 905 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/help/sv/sv.po/mnt/stockage/packages/f25/gnome-photos/po/sv.po | 
+ | [te](/f25/language/te) | 344 | 344 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/te.po | 
+ | [tg](/f25/language/tg) | 377 | 377 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/tg.po | 
+ | [uk](/f25/language/uk) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/uk.po | 
+ | [vi](/f25/language/vi) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 448 | 448 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 354 | 354 | 100.0 | /mnt/stockage/packages/f25/gnome-photos/po/zh_HK.po | 
+ | [ja](/f25/language/ja) | 419 | 424 | 98.8 | /mnt/stockage/packages/f25/gnome-photos/po/ja.po | 
+ | [tr](/f25/language/tr) | 413 | 424 | 97.4 | /mnt/stockage/packages/f25/gnome-photos/po/tr.po | 
+ | [ga](/f25/language/ga) | 217 | 226 | 96.0 | /mnt/stockage/packages/f25/gnome-photos/po/ga.po | 
+ | [gl](/f25/language/gl) | 749 | 803 | 93.3 | /mnt/stockage/packages/f25/gnome-photos/help/gl/gl.po/mnt/stockage/packages/f25/gnome-photos/po/gl.po | 
+ | [ml](/f25/language/ml) | 204 | 304 | 67.1 | /mnt/stockage/packages/f25/gnome-photos/po/ml.po | 
+ | [kn](/f25/language/kn) | 158 | 301 | 52.5 | /mnt/stockage/packages/f25/gnome-photos/po/kn.po | 
+ | [ne](/f25/language/ne) | 153 | 354 | 43.2 | /mnt/stockage/packages/f25/gnome-photos/po/ne.po | 
+ | [gu](/f25/language/gu) | 131 | 428 | 30.6 | /mnt/stockage/packages/f25/gnome-photos/po/gu.po | 
+ | [km](/f25/language/km) | 0 | 332 | 0.0 | /mnt/stockage/packages/f25/gnome-photos/po/km.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package snapd-glib (version 1.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f24/language/am.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/am.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/en_GB.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/fr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/it.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/lt.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/tr.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f24/snapd-glib/po/ru.po | 
+ | [am](/f24/language/am) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/am.po | 
+ | [en_GB](/f24/language/en_GB) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/en_GB.po | 
+ | [fi](/f24/language/fi) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/fi.po | 
+ | [fr](/f24/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/fr.po | 
+ | [it](/f24/language/it) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/it.po | 
+ | [lt](/f24/language/lt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/lt.po | 
+ | [sr](/f24/language/sr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/sr.po | 
+ | [tr](/f24/language/tr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/snapd-glib/po/tr.po | 
+ | [ru](/f24/language/ru) | 0 | 10 | 0.0 | /mnt/stockage/packages/f24/snapd-glib/po/ru.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package dvdisaster (version 0.72.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 8476 | 8476 | 100.0 | /mnt/stockage/packages/f21/dvdisaster/locale/de.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 8421 | 8476 | 99.4 | /mnt/stockage/packages/f21/dvdisaster/locale/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 8250 | 8476 | 97.3 | /mnt/stockage/packages/f21/dvdisaster/locale/ru.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 3313 | 8476 | 39.1 | /mnt/stockage/packages/f21/dvdisaster/locale/sv.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 2987 | 8476 | 35.2 | /mnt/stockage/packages/f21/dvdisaster/locale/cs.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 2799 | 8476 | 33.0 | /mnt/stockage/packages/f21/dvdisaster/locale/it.po | 
+ | [de](/f21/language/de) | 8476 | 8476 | 100.0 | /mnt/stockage/packages/f21/dvdisaster/locale/de.po | 
+ | [pt_BR](/f21/language/pt_BR) | 8421 | 8476 | 99.4 | /mnt/stockage/packages/f21/dvdisaster/locale/pt_BR.po | 
+ | [ru](/f21/language/ru) | 8250 | 8476 | 97.3 | /mnt/stockage/packages/f21/dvdisaster/locale/ru.po | 
+ | [sv](/f21/language/sv) | 3313 | 8476 | 39.1 | /mnt/stockage/packages/f21/dvdisaster/locale/sv.po | 
+ | [cs](/f21/language/cs) | 2987 | 8476 | 35.2 | /mnt/stockage/packages/f21/dvdisaster/locale/cs.po | 
+ | [it](/f21/language/it) | 2799 | 8476 | 33.0 | /mnt/stockage/packages/f21/dvdisaster/locale/it.po | 
 {.sortable}
 
 

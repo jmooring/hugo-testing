@@ -18,11 +18,11 @@ The package mono-tools (version 4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 254 | 517 | 49.1 | /mnt/stockage/packages/f25/mono-tools/po/pt_BR.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 200 | 517 | 38.7 | /mnt/stockage/packages/f25/mono-tools/po/ca.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 175 | 517 | 33.8 | /mnt/stockage/packages/f25/mono-tools/po/da.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 167 | 517 | 32.3 | /mnt/stockage/packages/f25/mono-tools/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 116 | 517 | 22.4 | /mnt/stockage/packages/f25/mono-tools/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 254 | 517 | 49.1 | /mnt/stockage/packages/f25/mono-tools/po/pt_BR.po | 
+ | [ca](/f25/language/ca) | 200 | 517 | 38.7 | /mnt/stockage/packages/f25/mono-tools/po/ca.po | 
+ | [da](/f25/language/da) | 175 | 517 | 33.8 | /mnt/stockage/packages/f25/mono-tools/po/da.po | 
+ | [es](/f25/language/es) | 167 | 517 | 32.3 | /mnt/stockage/packages/f25/mono-tools/po/es.po | 
+ | [fr](/f25/language/fr) | 116 | 517 | 22.4 | /mnt/stockage/packages/f25/mono-tools/po/fr.po | 
 {.sortable}
 
 

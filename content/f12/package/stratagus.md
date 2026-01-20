@@ -18,11 +18,11 @@ The package stratagus (version 2.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 237 | 245 | 96.7 | /mnt/stockage/packages/f12/stratagus/contrib/intl/fr.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f12/stratagus/contrib/intl/bg.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f12/stratagus/contrib/intl/fi.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 211 | 245 | 86.1 | /mnt/stockage/packages/f12/stratagus/contrib/intl/pl.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 164 | 245 | 66.9 | /mnt/stockage/packages/f12/stratagus/contrib/intl/de.po | 
+ | [fr](/f12/language/fr) | 237 | 245 | 96.7 | /mnt/stockage/packages/f12/stratagus/contrib/intl/fr.po | 
+ | [bg](/f12/language/bg) | 211 | 245 | 86.1 | /mnt/stockage/packages/f12/stratagus/contrib/intl/bg.po | 
+ | [fi](/f12/language/fi) | 211 | 245 | 86.1 | /mnt/stockage/packages/f12/stratagus/contrib/intl/fi.po | 
+ | [pl](/f12/language/pl) | 211 | 245 | 86.1 | /mnt/stockage/packages/f12/stratagus/contrib/intl/pl.po | 
+ | [de](/f12/language/de) | 164 | 245 | 66.9 | /mnt/stockage/packages/f12/stratagus/contrib/intl/de.po | 
 {.sortable}
 
 

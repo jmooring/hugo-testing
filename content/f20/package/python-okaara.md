@@ -18,7 +18,7 @@ The package python-okaara (version 1.0.35):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 2 | 257 | 0.8 | /mnt/stockage/packages/f20/python-okaara/po/fr.po | 
+ | [fr](/f20/language/fr) | 2 | 257 | 0.8 | /mnt/stockage/packages/f20/python-okaara/po/fr.po | 
 {.sortable}
 
 

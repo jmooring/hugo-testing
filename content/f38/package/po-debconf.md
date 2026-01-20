@@ -18,13 +18,13 @@ The package po-debconf (version 1.0.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 6255 | 6255 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/fr.po/mnt/stockage/packages/f38/po-debconf/tests/03/po/fr.po/mnt/stockage/packages/f38/po-debconf/tests/04/po/fr.po/mnt/stockage/packages/f38/po-debconf/tests/results/01/po/fr.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f38/po-debconf/tests/results/01/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/ru.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/vi.po | 
+ | [de](/f38/language/de) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/de.po | 
+ | [es](/f38/language/es) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/es.po | 
+ | [fr](/f38/language/fr) | 6255 | 6255 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/fr.po/mnt/stockage/packages/f38/po-debconf/tests/03/po/fr.po/mnt/stockage/packages/f38/po-debconf/tests/04/po/fr.po/mnt/stockage/packages/f38/po-debconf/tests/results/01/po/fr.po | 
+ | [pt](/f38/language/pt) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 299 | 299 | 100.0 | /mnt/stockage/packages/f38/po-debconf/tests/results/01/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/ru.po | 
+ | [vi](/f38/language/vi) | 5633 | 5633 | 100.0 | /mnt/stockage/packages/f38/po-debconf/doc/po4a/po/vi.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package rhash (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f42/rhash/po/es.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 497 | 497 | 100.0 | /mnt/stockage/packages/f42/rhash/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f42/rhash/po/ru.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 470 | 478 | 98.3 | /mnt/stockage/packages/f42/rhash/po/en_AU.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 455 | 478 | 95.2 | /mnt/stockage/packages/f42/rhash/po/uk.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 362 | 478 | 75.7 | /mnt/stockage/packages/f42/rhash/po/de.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 316 | 478 | 66.1 | /mnt/stockage/packages/f42/rhash/po/it.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 210 | 478 | 43.9 | /mnt/stockage/packages/f42/rhash/po/gl.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 199 | 478 | 41.6 | /mnt/stockage/packages/f42/rhash/po/ca.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 192 | 478 | 40.2 | /mnt/stockage/packages/f42/rhash/po/ro.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 129 | 478 | 27.0 | /mnt/stockage/packages/f42/rhash/po/fr.po | 
+ | [es](/f42/language/es) | 478 | 478 | 100.0 | /mnt/stockage/packages/f42/rhash/po/es.po | 
+ | [pt_BR](/f42/language/pt_BR) | 497 | 497 | 100.0 | /mnt/stockage/packages/f42/rhash/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 478 | 478 | 100.0 | /mnt/stockage/packages/f42/rhash/po/ru.po | 
+ | [en](/f42/language/en) | 470 | 478 | 98.3 | /mnt/stockage/packages/f42/rhash/po/en_AU.po | 
+ | [uk](/f42/language/uk) | 455 | 478 | 95.2 | /mnt/stockage/packages/f42/rhash/po/uk.po | 
+ | [de](/f42/language/de) | 362 | 478 | 75.7 | /mnt/stockage/packages/f42/rhash/po/de.po | 
+ | [it](/f42/language/it) | 316 | 478 | 66.1 | /mnt/stockage/packages/f42/rhash/po/it.po | 
+ | [gl](/f42/language/gl) | 210 | 478 | 43.9 | /mnt/stockage/packages/f42/rhash/po/gl.po | 
+ | [ca](/f42/language/ca) | 199 | 478 | 41.6 | /mnt/stockage/packages/f42/rhash/po/ca.po | 
+ | [ro](/f42/language/ro) | 192 | 478 | 40.2 | /mnt/stockage/packages/f42/rhash/po/ro.po | 
+ | [fr](/f42/language/fr) | 129 | 478 | 27.0 | /mnt/stockage/packages/f42/rhash/po/fr.po | 
 {.sortable}
 
 

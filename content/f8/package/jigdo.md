@@ -18,7 +18,7 @@ The package jigdo (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 2631 | 2631 | 100.0 | /mnt/stockage/packages/f8/jigdo/po/de.po | 
+ | [de](/f8/language/de) | 2631 | 2631 | 100.0 | /mnt/stockage/packages/f8/jigdo/po/de.po | 
 {.sortable}
 
 

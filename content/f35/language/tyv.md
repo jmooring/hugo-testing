@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f35/package/gnome-do.md" >}}) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
- | [terminator]({{< ref "/f35/package/terminator.md" >}}) | 9 | 1416 | 0.6 | Tuvinian <tyv@li.org> | 
+ | [gnome-do](/f35/package/gnome-do) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
+ | [terminator](/f35/package/terminator) | 9 | 1416 | 0.6 | Tuvinian <tyv@li.org> | 
 {.sortable}
 
 

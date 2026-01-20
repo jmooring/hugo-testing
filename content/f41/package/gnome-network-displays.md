@@ -18,38 +18,38 @@ The package gnome-network-displays (version 0.97.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/en_GB.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/eu.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/fur.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/id.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ja.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ka.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/lt.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/oc.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/zh_CN.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 115 | 195 | 59.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/it.po | 
+ | [ca](/f41/language/ca) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ca.po | 
+ | [cs](/f41/language/cs) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/cs.po | 
+ | [da](/f41/language/da) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/da.po | 
+ | [de](/f41/language/de) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/en_GB.po | 
+ | [es](/f41/language/es) | 223 | 223 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/es.po | 
+ | [eu](/f41/language/eu) | 223 | 223 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/eu.po | 
+ | [fi](/f41/language/fi) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/fi.po | 
+ | [fr](/f41/language/fr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/fr.po | 
+ | [fur](/f41/language/fur) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/fur.po | 
+ | [he](/f41/language/he) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/he.po | 
+ | [hi](/f41/language/hi) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/hi.po | 
+ | [hr](/f41/language/hr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/hr.po | 
+ | [hu](/f41/language/hu) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/hu.po | 
+ | [id](/f41/language/id) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/id.po | 
+ | [ja](/f41/language/ja) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ja.po | 
+ | [ka](/f41/language/ka) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ka.po | 
+ | [lt](/f41/language/lt) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/lt.po | 
+ | [nl](/f41/language/nl) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/nl.po | 
+ | [oc](/f41/language/oc) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/oc.po | 
+ | [pl](/f41/language/pl) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ro.po | 
+ | [ru](/f41/language/ru) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/ru.po | 
+ | [sk](/f41/language/sk) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sk.po | 
+ | [sl](/f41/language/sl) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sl.po | 
+ | [sr](/f41/language/sr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sr.po | 
+ | [sv](/f41/language/sv) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/sv.po | 
+ | [tr](/f41/language/tr) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/tr.po | 
+ | [uk](/f41/language/uk) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 229 | 229 | 100.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/zh_CN.po | 
+ | [it](/f41/language/it) | 115 | 195 | 59.0 | /mnt/stockage/packages/f41/gnome-network-displays/po/it.po | 
 {.sortable}
 
 

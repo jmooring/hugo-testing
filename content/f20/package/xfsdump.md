@@ -18,8 +18,8 @@ The package xfsdump (version 3.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 4811 | 4811 | 100.0 | /mnt/stockage/packages/f20/xfsdump/po/de.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 4844 | 4844 | 100.0 | /mnt/stockage/packages/f20/xfsdump/po/pl.po | 
+ | [de](/f20/language/de) | 4811 | 4811 | 100.0 | /mnt/stockage/packages/f20/xfsdump/po/de.po | 
+ | [pl](/f20/language/pl) | 4844 | 4844 | 100.0 | /mnt/stockage/packages/f20/xfsdump/po/pl.po | 
 {.sortable}
 
 

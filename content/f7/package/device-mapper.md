@@ -18,8 +18,8 @@ The package device-mapper (version 1.02.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/device-mapper/po/de.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 0 | 923 | 0.0 | /mnt/stockage/packages/f7/device-mapper/po/device-mapper.po | 
+ | [de](/f7/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/device-mapper/po/de.po | 
+ | [error](/f7/language/error) | 0 | 923 | 0.0 | /mnt/stockage/packages/f7/device-mapper/po/device-mapper.po | 
 {.sortable}
 
 

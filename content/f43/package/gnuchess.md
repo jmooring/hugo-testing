@@ -18,22 +18,22 @@ The package gnuchess (version 6.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/es.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/gl.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/nl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/ro.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/zh_CN.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 921 | 1158 | 79.5 | /mnt/stockage/packages/f43/gnuchess/po/eo.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 921 | 1158 | 79.5 | /mnt/stockage/packages/f43/gnuchess/po/fr.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 921 | 1158 | 79.5 | /mnt/stockage/packages/f43/gnuchess/po/nb.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 798 | 1158 | 68.9 | /mnt/stockage/packages/f43/gnuchess/po/vi.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 796 | 1158 | 68.7 | /mnt/stockage/packages/f43/gnuchess/po/da.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 135 | 1158 | 11.7 | /mnt/stockage/packages/f43/gnuchess/po/it.po | 
+ | [de](/f43/language/de) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/de.po | 
+ | [es](/f43/language/es) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/es.po | 
+ | [gl](/f43/language/gl) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/gl.po | 
+ | [nl](/f43/language/nl) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/nl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/ro.po | 
+ | [sr](/f43/language/sr) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/sr.po | 
+ | [sv](/f43/language/sv) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/sv.po | 
+ | [uk](/f43/language/uk) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1158 | 1158 | 100.0 | /mnt/stockage/packages/f43/gnuchess/po/zh_CN.po | 
+ | [eo](/f43/language/eo) | 921 | 1158 | 79.5 | /mnt/stockage/packages/f43/gnuchess/po/eo.po | 
+ | [fr](/f43/language/fr) | 921 | 1158 | 79.5 | /mnt/stockage/packages/f43/gnuchess/po/fr.po | 
+ | [nb_NO](/f43/language/nb_NO) | 921 | 1158 | 79.5 | /mnt/stockage/packages/f43/gnuchess/po/nb.po | 
+ | [vi](/f43/language/vi) | 798 | 1158 | 68.9 | /mnt/stockage/packages/f43/gnuchess/po/vi.po | 
+ | [da](/f43/language/da) | 796 | 1158 | 68.7 | /mnt/stockage/packages/f43/gnuchess/po/da.po | 
+ | [it](/f43/language/it) | 135 | 1158 | 11.7 | /mnt/stockage/packages/f43/gnuchess/po/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package appdata-tools (version 0.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f19/appdata-tools/po/en_GB.po | 
+ | [en_GB](/f19/language/en_GB) | 3 | 3 | 100.0 | /mnt/stockage/packages/f19/appdata-tools/po/en_GB.po | 
 {.sortable}
 
 

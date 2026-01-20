@@ -18,43 +18,43 @@ The package banshee (version 0.98.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f9/banshee/po/ca.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 4007 | 4007 | 100.0 | /mnt/stockage/packages/f9/banshee/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 4462 | 4462 | 100.0 | /mnt/stockage/packages/f9/banshee/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f9/banshee/po/dz.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 2133 | 2133 | 100.0 | /mnt/stockage/packages/f9/banshee/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 2149 | 2149 | 100.0 | /mnt/stockage/packages/f9/banshee/po/en_GB.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 2156 | 2156 | 100.0 | /mnt/stockage/packages/f9/banshee/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 4195 | 4195 | 100.0 | /mnt/stockage/packages/f9/banshee/po/fr.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f9/banshee/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f9/banshee/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f9/banshee/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 4462 | 4462 | 100.0 | /mnt/stockage/packages/f9/banshee/po/pt_BR.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f9/banshee/po/th.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 2441 | 2441 | 100.0 | /mnt/stockage/packages/f9/banshee/po/vi.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 2347 | 2347 | 100.0 | /mnt/stockage/packages/f9/banshee/po/zh_CN.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 4202 | 4203 | 100.0 | /mnt/stockage/packages/f9/banshee/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 3969 | 4018 | 98.8 | /mnt/stockage/packages/f9/banshee/po/it.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2009 | 2036 | 98.7 | /mnt/stockage/packages/f9/banshee/po/sv.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 4365 | 4439 | 98.3 | /mnt/stockage/packages/f9/banshee/po/lv.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 4046 | 4132 | 97.9 | /mnt/stockage/packages/f9/banshee/po/ru.po | 
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 2035 | 2100 | 96.9 | /mnt/stockage/packages/f9/banshee/po/be@latin.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 4256 | 4393 | 96.9 | /mnt/stockage/packages/f9/banshee/po/pa.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 2299 | 2441 | 94.2 | /mnt/stockage/packages/f9/banshee/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 2299 | 2441 | 94.2 | /mnt/stockage/packages/f9/banshee/po/zh_HK.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 4145 | 4439 | 93.4 | /mnt/stockage/packages/f9/banshee/po/cs.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 2838 | 3291 | 86.2 | /mnt/stockage/packages/f9/banshee/po/sr@Latn.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 2838 | 3291 | 86.2 | /mnt/stockage/packages/f9/banshee/po/sr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 3600 | 4240 | 84.9 | /mnt/stockage/packages/f9/banshee/po/ja.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 3353 | 4183 | 80.2 | /mnt/stockage/packages/f9/banshee/po/sl.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 3493 | 4367 | 80.0 | /mnt/stockage/packages/f9/banshee/po/mk.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 1697 | 2156 | 78.7 | /mnt/stockage/packages/f9/banshee/po/lt.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1549 | 2200 | 70.4 | /mnt/stockage/packages/f9/banshee/po/es.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 3067 | 4462 | 68.7 | /mnt/stockage/packages/f9/banshee/po/ar.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 2494 | 4003 | 62.3 | /mnt/stockage/packages/f9/banshee/po/nb.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 2183 | 4240 | 51.5 | /mnt/stockage/packages/f9/banshee/po/bg.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 306 | 2100 | 14.6 | /mnt/stockage/packages/f9/banshee/po/he.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 254 | 4153 | 6.1 | /mnt/stockage/packages/f9/banshee/po/oc.po | 
+ | [ca](/f9/language/ca) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f9/banshee/po/ca.po | 
+ | [da](/f9/language/da) | 4007 | 4007 | 100.0 | /mnt/stockage/packages/f9/banshee/po/da.po | 
+ | [de](/f9/language/de) | 4462 | 4462 | 100.0 | /mnt/stockage/packages/f9/banshee/po/de.po | 
+ | [dz](/f9/language/dz) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f9/banshee/po/dz.po | 
+ | [en_CA](/f9/language/en_CA) | 2133 | 2133 | 100.0 | /mnt/stockage/packages/f9/banshee/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 2149 | 2149 | 100.0 | /mnt/stockage/packages/f9/banshee/po/en_GB.po | 
+ | [fi](/f9/language/fi) | 2156 | 2156 | 100.0 | /mnt/stockage/packages/f9/banshee/po/fi.po | 
+ | [fr](/f9/language/fr) | 4195 | 4195 | 100.0 | /mnt/stockage/packages/f9/banshee/po/fr.po | 
+ | [nl](/f9/language/nl) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f9/banshee/po/nl.po | 
+ | [pl](/f9/language/pl) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f9/banshee/po/pl.po | 
+ | [pt](/f9/language/pt) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f9/banshee/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 4462 | 4462 | 100.0 | /mnt/stockage/packages/f9/banshee/po/pt_BR.po | 
+ | [th](/f9/language/th) | 2409 | 2409 | 100.0 | /mnt/stockage/packages/f9/banshee/po/th.po | 
+ | [vi](/f9/language/vi) | 2441 | 2441 | 100.0 | /mnt/stockage/packages/f9/banshee/po/vi.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 2347 | 2347 | 100.0 | /mnt/stockage/packages/f9/banshee/po/zh_CN.po | 
+ | [hu](/f9/language/hu) | 4202 | 4203 | 100.0 | /mnt/stockage/packages/f9/banshee/po/hu.po | 
+ | [it](/f9/language/it) | 3969 | 4018 | 98.8 | /mnt/stockage/packages/f9/banshee/po/it.po | 
+ | [sv](/f9/language/sv) | 2009 | 2036 | 98.7 | /mnt/stockage/packages/f9/banshee/po/sv.po | 
+ | [lv](/f9/language/lv) | 4365 | 4439 | 98.3 | /mnt/stockage/packages/f9/banshee/po/lv.po | 
+ | [ru](/f9/language/ru) | 4046 | 4132 | 97.9 | /mnt/stockage/packages/f9/banshee/po/ru.po | 
+ | [be_Latn](/f9/language/be_Latn) | 2035 | 2100 | 96.9 | /mnt/stockage/packages/f9/banshee/po/be@latin.po | 
+ | [pa](/f9/language/pa) | 4256 | 4393 | 96.9 | /mnt/stockage/packages/f9/banshee/po/pa.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 2299 | 2441 | 94.2 | /mnt/stockage/packages/f9/banshee/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 2299 | 2441 | 94.2 | /mnt/stockage/packages/f9/banshee/po/zh_HK.po | 
+ | [cs](/f9/language/cs) | 4145 | 4439 | 93.4 | /mnt/stockage/packages/f9/banshee/po/cs.po | 
+ | [error](/f9/language/error) | 2838 | 3291 | 86.2 | /mnt/stockage/packages/f9/banshee/po/sr@Latn.po | 
+ | [sr](/f9/language/sr) | 2838 | 3291 | 86.2 | /mnt/stockage/packages/f9/banshee/po/sr.po | 
+ | [ja](/f9/language/ja) | 3600 | 4240 | 84.9 | /mnt/stockage/packages/f9/banshee/po/ja.po | 
+ | [sl](/f9/language/sl) | 3353 | 4183 | 80.2 | /mnt/stockage/packages/f9/banshee/po/sl.po | 
+ | [mk](/f9/language/mk) | 3493 | 4367 | 80.0 | /mnt/stockage/packages/f9/banshee/po/mk.po | 
+ | [lt](/f9/language/lt) | 1697 | 2156 | 78.7 | /mnt/stockage/packages/f9/banshee/po/lt.po | 
+ | [es](/f9/language/es) | 1549 | 2200 | 70.4 | /mnt/stockage/packages/f9/banshee/po/es.po | 
+ | [ar](/f9/language/ar) | 3067 | 4462 | 68.7 | /mnt/stockage/packages/f9/banshee/po/ar.po | 
+ | [nb_NO](/f9/language/nb_NO) | 2494 | 4003 | 62.3 | /mnt/stockage/packages/f9/banshee/po/nb.po | 
+ | [bg](/f9/language/bg) | 2183 | 4240 | 51.5 | /mnt/stockage/packages/f9/banshee/po/bg.po | 
+ | [he](/f9/language/he) | 306 | 2100 | 14.6 | /mnt/stockage/packages/f9/banshee/po/he.po | 
+ | [oc](/f9/language/oc) | 254 | 4153 | 6.1 | /mnt/stockage/packages/f9/banshee/po/oc.po | 
 {.sortable}
 
 

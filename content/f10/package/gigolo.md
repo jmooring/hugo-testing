@@ -18,15 +18,15 @@ The package gigolo (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f10/gigolo/po/de.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/da.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/it.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/tr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 354 | 388 | 91.2 | /mnt/stockage/packages/f10/gigolo/po/sv.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 337 | 388 | 86.9 | /mnt/stockage/packages/f10/gigolo/po/el.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 144 | 388 | 37.1 | /mnt/stockage/packages/f10/gigolo/po/fr.po | 
+ | [de](/f10/language/de) | 388 | 388 | 100.0 | /mnt/stockage/packages/f10/gigolo/po/de.po | 
+ | [bg](/f10/language/bg) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/bg.po | 
+ | [ca](/f10/language/ca) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/ca.po | 
+ | [da](/f10/language/da) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/da.po | 
+ | [it](/f10/language/it) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/it.po | 
+ | [tr](/f10/language/tr) | 384 | 388 | 99.0 | /mnt/stockage/packages/f10/gigolo/po/tr.po | 
+ | [sv](/f10/language/sv) | 354 | 388 | 91.2 | /mnt/stockage/packages/f10/gigolo/po/sv.po | 
+ | [el](/f10/language/el) | 337 | 388 | 86.9 | /mnt/stockage/packages/f10/gigolo/po/el.po | 
+ | [fr](/f10/language/fr) | 144 | 388 | 37.1 | /mnt/stockage/packages/f10/gigolo/po/fr.po | 
 {.sortable}
 
 

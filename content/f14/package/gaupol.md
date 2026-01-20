@@ -18,14 +18,14 @@ The package gaupol (version 0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 2310 | 2310 | 100.0 | /mnt/stockage/packages/f14/gaupol/po/fi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 2212 | 2310 | 95.8 | /mnt/stockage/packages/f14/gaupol/po/hu.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 2212 | 2310 | 95.8 | /mnt/stockage/packages/f14/gaupol/po/ru.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 2032 | 2310 | 88.0 | /mnt/stockage/packages/f14/gaupol/po/de.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 760 | 2310 | 32.9 | /mnt/stockage/packages/f14/gaupol/po/sv.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 757 | 2310 | 32.8 | /mnt/stockage/packages/f14/gaupol/po/pl.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 586 | 2310 | 25.4 | /mnt/stockage/packages/f14/gaupol/po/es.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 550 | 2310 | 23.8 | /mnt/stockage/packages/f14/gaupol/po/ca.po | 
+ | [fi](/f14/language/fi) | 2310 | 2310 | 100.0 | /mnt/stockage/packages/f14/gaupol/po/fi.po | 
+ | [hu](/f14/language/hu) | 2212 | 2310 | 95.8 | /mnt/stockage/packages/f14/gaupol/po/hu.po | 
+ | [ru](/f14/language/ru) | 2212 | 2310 | 95.8 | /mnt/stockage/packages/f14/gaupol/po/ru.po | 
+ | [de](/f14/language/de) | 2032 | 2310 | 88.0 | /mnt/stockage/packages/f14/gaupol/po/de.po | 
+ | [sv](/f14/language/sv) | 760 | 2310 | 32.9 | /mnt/stockage/packages/f14/gaupol/po/sv.po | 
+ | [pl](/f14/language/pl) | 757 | 2310 | 32.8 | /mnt/stockage/packages/f14/gaupol/po/pl.po | 
+ | [es](/f14/language/es) | 586 | 2310 | 25.4 | /mnt/stockage/packages/f14/gaupol/po/es.po | 
+ | [ca](/f14/language/ca) | 550 | 2310 | 23.8 | /mnt/stockage/packages/f14/gaupol/po/ca.po | 
 {.sortable}
 
 

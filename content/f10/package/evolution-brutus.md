@@ -18,9 +18,9 @@ The package evolution-brutus (version 1.2.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f10/language/da.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/evolution-brutus/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 917 | 917 | 100.0 | /mnt/stockage/packages/f10/evolution-brutus/po/de.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 917 | 917 | 100.0 | /mnt/stockage/packages/f10/evolution-brutus/po/sv.po | 
+ | [da](/f10/language/da) | 823 | 823 | 100.0 | /mnt/stockage/packages/f10/evolution-brutus/po/da.po | 
+ | [de](/f10/language/de) | 917 | 917 | 100.0 | /mnt/stockage/packages/f10/evolution-brutus/po/de.po | 
+ | [sv](/f10/language/sv) | 917 | 917 | 100.0 | /mnt/stockage/packages/f10/evolution-brutus/po/sv.po | 
 {.sortable}
 
 

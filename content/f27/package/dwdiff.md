@@ -18,10 +18,10 @@ The package dwdiff (version 2.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/dwdiff/po/nl.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 497 | 518 | 95.9 | /mnt/stockage/packages/f27/dwdiff/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 412 | 518 | 79.5 | /mnt/stockage/packages/f27/dwdiff/po/fr.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 381 | 518 | 73.6 | /mnt/stockage/packages/f27/dwdiff/po/de.po | 
+ | [nl](/f27/language/nl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/dwdiff/po/nl.po | 
+ | [es](/f27/language/es) | 497 | 518 | 95.9 | /mnt/stockage/packages/f27/dwdiff/po/es.po | 
+ | [fr](/f27/language/fr) | 412 | 518 | 79.5 | /mnt/stockage/packages/f27/dwdiff/po/fr.po | 
+ | [de](/f27/language/de) | 381 | 518 | 73.6 | /mnt/stockage/packages/f27/dwdiff/po/de.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package watchdog (version 5.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f38/language/da.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/ja.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/nl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/ru.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/cs.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/es.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/fi.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/gl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/sv.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/vi.po | 
+ | [da](/f38/language/da) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/da.po | 
+ | [de](/f38/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/de.po | 
+ | [fr](/f38/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/fr.po | 
+ | [it](/f38/language/it) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/it.po | 
+ | [ja](/f38/language/ja) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/ja.po | 
+ | [nl](/f38/language/nl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/nl.po | 
+ | [pt](/f38/language/pt) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f38/watchdog/debian/po/ru.po | 
+ | [cs](/f38/language/cs) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/cs.po | 
+ | [es](/f38/language/es) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/es.po | 
+ | [fi](/f38/language/fi) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/fi.po | 
+ | [gl](/f38/language/gl) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/gl.po | 
+ | [sv](/f38/language/sv) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/sv.po | 
+ | [vi](/f38/language/vi) | 97 | 125 | 77.6 | /mnt/stockage/packages/f38/watchdog/debian/po/vi.po | 
 {.sortable}
 
 

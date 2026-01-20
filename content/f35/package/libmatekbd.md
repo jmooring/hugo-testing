@@ -18,160 +18,160 @@ The package libmatekbd (version 1.26.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/da.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/fr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/ja.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/lt.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/nl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/pt.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/sr.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/zh_TW.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 305 | 308 | 99.0 | /mnt/stockage/packages/f35/libmatekbd/po/gl.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 302 | 308 | 98.1 | /mnt/stockage/packages/f35/libmatekbd/po/ca.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 301 | 308 | 97.7 | /mnt/stockage/packages/f35/libmatekbd/po/sv.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f35/libmatekbd/po/uk.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 289 | 308 | 93.8 | /mnt/stockage/packages/f35/libmatekbd/po/oc.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 288 | 308 | 93.5 | /mnt/stockage/packages/f35/libmatekbd/po/de.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 268 | 308 | 87.0 | /mnt/stockage/packages/f35/libmatekbd/po/pt_BR.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 268 | 308 | 87.0 | /mnt/stockage/packages/f35/libmatekbd/po/tr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/hu.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/ko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/pl.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/sl.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/bg.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/ca@valencia.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/en_GB.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/et.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/he.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 262 | 308 | 85.1 | /mnt/stockage/packages/f35/libmatekbd/po/eo.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 260 | 308 | 84.4 | /mnt/stockage/packages/f35/libmatekbd/po/am.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 257 | 308 | 83.4 | /mnt/stockage/packages/f35/libmatekbd/po/eu.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/el.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/en_AU.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/hr.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/hy.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/ro.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 254 | 308 | 82.5 | /mnt/stockage/packages/f35/libmatekbd/po/sq.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 254 | 308 | 82.5 | /mnt/stockage/packages/f35/libmatekbd/po/vi.po | 
- | [es_CO]({{< ref "/f35/language/es_CO.md" >}}) | 251 | 308 | 81.5 | /mnt/stockage/packages/f35/libmatekbd/po/es_CO.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 494 | 616 | 80.2 | /mnt/stockage/packages/f35/libmatekbd/po/zh_CN.po/mnt/stockage/packages/f35/libmatekbd/po/cmn.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 194 | 308 | 63.0 | /mnt/stockage/packages/f35/libmatekbd/po/ar.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 189 | 308 | 61.4 | /mnt/stockage/packages/f35/libmatekbd/po/ie.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 188 | 308 | 61.0 | /mnt/stockage/packages/f35/libmatekbd/po/fi.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 188 | 308 | 61.0 | /mnt/stockage/packages/f35/libmatekbd/po/lv.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 187 | 308 | 60.7 | /mnt/stockage/packages/f35/libmatekbd/po/ast.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 187 | 308 | 60.7 | /mnt/stockage/packages/f35/libmatekbd/po/mr.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 187 | 308 | 60.7 | /mnt/stockage/packages/f35/libmatekbd/po/zh_HK.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 186 | 308 | 60.4 | /mnt/stockage/packages/f35/libmatekbd/po/pa.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 186 | 308 | 60.4 | /mnt/stockage/packages/f35/libmatekbd/po/sr@latin.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 186 | 308 | 60.4 | /mnt/stockage/packages/f35/libmatekbd/po/ta.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 185 | 308 | 60.1 | /mnt/stockage/packages/f35/libmatekbd/po/hi.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 182 | 308 | 59.1 | /mnt/stockage/packages/f35/libmatekbd/po/th.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 180 | 308 | 58.4 | /mnt/stockage/packages/f35/libmatekbd/po/bn.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 176 | 308 | 57.1 | /mnt/stockage/packages/f35/libmatekbd/po/gu.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 176 | 308 | 57.1 | /mnt/stockage/packages/f35/libmatekbd/po/kn.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/as.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/bn_IN.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/ga.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/ml.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/or.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/te.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 164 | 308 | 53.2 | /mnt/stockage/packages/f35/libmatekbd/po/nn.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 163 | 308 | 52.9 | /mnt/stockage/packages/f35/libmatekbd/po/dz.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 163 | 308 | 52.9 | /mnt/stockage/packages/f35/libmatekbd/po/mk.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 155 | 308 | 50.3 | /mnt/stockage/packages/f35/libmatekbd/po/be.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 307 | 616 | 49.8 | /mnt/stockage/packages/f35/libmatekbd/po/es.po/mnt/stockage/packages/f35/libmatekbd/po/es_ES.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 147 | 308 | 47.7 | /mnt/stockage/packages/f35/libmatekbd/po/ka.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 146 | 308 | 47.4 | /mnt/stockage/packages/f35/libmatekbd/po/si.po | 
- | [es_AR]({{< ref "/f35/language/es_AR.md" >}}) | 78 | 308 | 25.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_AR.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 61 | 308 | 19.8 | /mnt/stockage/packages/f35/libmatekbd/po/bs.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 50 | 308 | 16.2 | /mnt/stockage/packages/f35/libmatekbd/po/cy.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 48 | 308 | 15.6 | /mnt/stockage/packages/f35/libmatekbd/po/ky.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 48 | 308 | 15.6 | /mnt/stockage/packages/f35/libmatekbd/po/uz.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 44 | 308 | 14.3 | /mnt/stockage/packages/f35/libmatekbd/po/kk.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 42 | 308 | 13.6 | /mnt/stockage/packages/f35/libmatekbd/po/mai.po | 
- | [kmr]({{< ref "/f35/language/kmr.md" >}}) | 28 | 308 | 9.1 | /mnt/stockage/packages/f35/libmatekbd/po/ku_IQ.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 27 | 308 | 8.8 | /mnt/stockage/packages/f35/libmatekbd/po/br.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f35/libmatekbd/po/nds.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 13 | 308 | 4.2 | /mnt/stockage/packages/f35/libmatekbd/po/ne.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 12 | 308 | 3.9 | /mnt/stockage/packages/f35/libmatekbd/po/is.po | 
- | [crh]({{< ref "/f35/language/crh.md" >}}) | 11 | 308 | 3.6 | /mnt/stockage/packages/f35/libmatekbd/po/crh.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 11 | 308 | 3.6 | /mnt/stockage/packages/f35/libmatekbd/po/fa.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/en_CA.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/ku.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/mg.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/mn.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/rw.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 9 | 308 | 2.9 | /mnt/stockage/packages/f35/libmatekbd/po/az.po | 
- | [sc]({{< ref "/f35/language/sc.md" >}}) | 9 | 308 | 2.9 | /mnt/stockage/packages/f35/libmatekbd/po/sc.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 9 | 308 | 2.9 | /mnt/stockage/packages/f35/libmatekbd/po/wa.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 8 | 308 | 2.6 | /mnt/stockage/packages/f35/libmatekbd/po/xh.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/af.po | 
- | [frp]({{< ref "/f35/language/frp.md" >}}) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/frp.po | 
- | [tk]({{< ref "/f35/language/tk.md" >}}) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/tk.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/ur.po | 
- | [kab]({{< ref "/f35/language/kab.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f35/libmatekbd/po/kab.po | 
- | [ps]({{< ref "/f35/language/ps.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f35/libmatekbd/po/ps.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 6 | 308 | 1.9 | /mnt/stockage/packages/f35/libmatekbd/po/ug.po | 
- | [ha]({{< ref "/f35/language/ha.md" >}}) | 5 | 308 | 1.6 | /mnt/stockage/packages/f35/libmatekbd/po/ha.po | 
- | [ig]({{< ref "/f35/language/ig.md" >}}) | 5 | 308 | 1.6 | /mnt/stockage/packages/f35/libmatekbd/po/ig.po | 
- | [yo]({{< ref "/f35/language/yo.md" >}}) | 5 | 308 | 1.6 | /mnt/stockage/packages/f35/libmatekbd/po/yo.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f35/libmatekbd/po/fur.po | 
- | [fy]({{< ref "/f35/language/fy.md" >}}) | 4 | 308 | 1.3 | /mnt/stockage/packages/f35/libmatekbd/po/fy.po | 
- | [es_CL]({{< ref "/f35/language/es_CL.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/es_CL.po | 
- | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/fr_CA.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/ia.po | 
- | [ks]({{< ref "/f35/language/ks.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/ks.po | 
- | [nso]({{< ref "/f35/language/nso.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/nso.po | 
- | [pms]({{< ref "/f35/language/pms.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/pms.po | 
- | [zu]({{< ref "/f35/language/zu.md" >}}) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/zu.po | 
- | [jv]({{< ref "/f35/language/jv.md" >}}) | 2 | 308 | 0.6 | /mnt/stockage/packages/f35/libmatekbd/po/jv.po | 
- | [la]({{< ref "/f35/language/la.md" >}}) | 2 | 308 | 0.6 | /mnt/stockage/packages/f35/libmatekbd/po/la.po | 
- | [es_CR]({{< ref "/f35/language/es_CR.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_CR.po | 
- | [es_DO]({{< ref "/f35/language/es_DO.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_DO.po | 
- | [es_EC]({{< ref "/f35/language/es_EC.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_EC.po | 
- | [es_MX]({{< ref "/f35/language/es_MX.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_MX.po | 
- | [es_NI]({{< ref "/f35/language/es_NI.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_NI.po | 
- | [es_PA]({{< ref "/f35/language/es_PA.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_PA.po | 
- | [es_PE]({{< ref "/f35/language/es_PE.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_PE.po | 
- | [es_PR]({{< ref "/f35/language/es_PR.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_PR.po | 
- | [es_SV]({{< ref "/f35/language/es_SV.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_SV.po | 
- | [es_UY]({{< ref "/f35/language/es_UY.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_UY.po | 
- | [es_VE]({{< ref "/f35/language/es_VE.md" >}}) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_VE.po | 
- | [an]({{< ref "/f35/language/an.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/an.po | 
- | [csb]({{< ref "/f35/language/csb.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/csb.po | 
- | [cv]({{< ref "/f35/language/cv.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/cv.po | 
- | [de_CH]({{< ref "/f35/language/de_CH.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/de_CH.po | 
- | [es_419]({{< ref "/f35/language/es_419.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/es_419.po | 
- | [es_US]({{< ref "/f35/language/es_US.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/es_US.po | 
- | [fil]({{< ref "/f35/language/fil.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/fil.po | 
- | [fo]({{< ref "/f35/language/fo.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/fo.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/gd.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/km.po | 
- | [lb]({{< ref "/f35/language/lb.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/lb.po | 
- | [li]({{< ref "/f35/language/li.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/li.po | 
- | [lo]({{< ref "/f35/language/lo.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/lo.po | 
- | [mi]({{< ref "/f35/language/mi.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/mi.po | 
- | [my]({{< ref "/f35/language/my.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/my.po | 
- | [nah]({{< ref "/f35/language/nah.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/nah.po | 
- | [nqo]({{< ref "/f35/language/nqo.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/nqo.po | 
- | [om]({{< ref "/f35/language/om.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/om.po | 
- | [sco]({{< ref "/f35/language/sco.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/sco.po | 
- | [so]({{< ref "/f35/language/so.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/so.po | 
- | [sw]({{< ref "/f35/language/sw.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/sw.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/tg.po | 
- | [tl]({{< ref "/f35/language/tl.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/tl.po | 
- | [ts]({{< ref "/f35/language/ts.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/ts.po | 
- | [tt]({{< ref "/f35/language/tt.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/tt.po | 
- | [ur_PK]({{< ref "/f35/language/ur_PK.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/ur_PK.po | 
- | [yi]({{< ref "/f35/language/yi.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/yi.po | 
+ | [cs](/f35/language/cs) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/cs.po | 
+ | [da](/f35/language/da) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/da.po | 
+ | [fr](/f35/language/fr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/fr.po | 
+ | [id](/f35/language/id) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/id.po | 
+ | [it](/f35/language/it) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/it.po | 
+ | [ja](/f35/language/ja) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/ja.po | 
+ | [lt](/f35/language/lt) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/lt.po | 
+ | [ms](/f35/language/ms) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/nb.po | 
+ | [nl](/f35/language/nl) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/nl.po | 
+ | [pt](/f35/language/pt) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/pt.po | 
+ | [ru](/f35/language/ru) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/ru.po | 
+ | [sr](/f35/language/sr) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/sr.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 308 | 308 | 100.0 | /mnt/stockage/packages/f35/libmatekbd/po/zh_TW.po | 
+ | [gl](/f35/language/gl) | 305 | 308 | 99.0 | /mnt/stockage/packages/f35/libmatekbd/po/gl.po | 
+ | [ca](/f35/language/ca) | 302 | 308 | 98.1 | /mnt/stockage/packages/f35/libmatekbd/po/ca.po | 
+ | [sv](/f35/language/sv) | 301 | 308 | 97.7 | /mnt/stockage/packages/f35/libmatekbd/po/sv.po | 
+ | [uk](/f35/language/uk) | 299 | 308 | 97.1 | /mnt/stockage/packages/f35/libmatekbd/po/uk.po | 
+ | [oc](/f35/language/oc) | 289 | 308 | 93.8 | /mnt/stockage/packages/f35/libmatekbd/po/oc.po | 
+ | [de](/f35/language/de) | 288 | 308 | 93.5 | /mnt/stockage/packages/f35/libmatekbd/po/de.po | 
+ | [pt_BR](/f35/language/pt_BR) | 268 | 308 | 87.0 | /mnt/stockage/packages/f35/libmatekbd/po/pt_BR.po | 
+ | [tr](/f35/language/tr) | 268 | 308 | 87.0 | /mnt/stockage/packages/f35/libmatekbd/po/tr.po | 
+ | [hu](/f35/language/hu) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/hu.po | 
+ | [ko](/f35/language/ko) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/ko.po | 
+ | [pl](/f35/language/pl) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/pl.po | 
+ | [sk](/f35/language/sk) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/sk.po | 
+ | [sl](/f35/language/sl) | 265 | 308 | 86.0 | /mnt/stockage/packages/f35/libmatekbd/po/sl.po | 
+ | [bg](/f35/language/bg) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/bg.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/ca@valencia.po | 
+ | [en_GB](/f35/language/en_GB) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/en_GB.po | 
+ | [et](/f35/language/et) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/et.po | 
+ | [he](/f35/language/he) | 264 | 308 | 85.7 | /mnt/stockage/packages/f35/libmatekbd/po/he.po | 
+ | [eo](/f35/language/eo) | 262 | 308 | 85.1 | /mnt/stockage/packages/f35/libmatekbd/po/eo.po | 
+ | [am](/f35/language/am) | 260 | 308 | 84.4 | /mnt/stockage/packages/f35/libmatekbd/po/am.po | 
+ | [eu](/f35/language/eu) | 257 | 308 | 83.4 | /mnt/stockage/packages/f35/libmatekbd/po/eu.po | 
+ | [el](/f35/language/el) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/el.po | 
+ | [en_AU](/f35/language/en_AU) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/en_AU.po | 
+ | [hr](/f35/language/hr) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/hr.po | 
+ | [hy](/f35/language/hy) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/hy.po | 
+ | [ro](/f35/language/ro) | 256 | 308 | 83.1 | /mnt/stockage/packages/f35/libmatekbd/po/ro.po | 
+ | [sq](/f35/language/sq) | 254 | 308 | 82.5 | /mnt/stockage/packages/f35/libmatekbd/po/sq.po | 
+ | [vi](/f35/language/vi) | 254 | 308 | 82.5 | /mnt/stockage/packages/f35/libmatekbd/po/vi.po | 
+ | [es_CO](/f35/language/es_CO) | 251 | 308 | 81.5 | /mnt/stockage/packages/f35/libmatekbd/po/es_CO.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 494 | 616 | 80.2 | /mnt/stockage/packages/f35/libmatekbd/po/zh_CN.po/mnt/stockage/packages/f35/libmatekbd/po/cmn.po | 
+ | [ar](/f35/language/ar) | 194 | 308 | 63.0 | /mnt/stockage/packages/f35/libmatekbd/po/ar.po | 
+ | [ie](/f35/language/ie) | 189 | 308 | 61.4 | /mnt/stockage/packages/f35/libmatekbd/po/ie.po | 
+ | [fi](/f35/language/fi) | 188 | 308 | 61.0 | /mnt/stockage/packages/f35/libmatekbd/po/fi.po | 
+ | [lv](/f35/language/lv) | 188 | 308 | 61.0 | /mnt/stockage/packages/f35/libmatekbd/po/lv.po | 
+ | [ast](/f35/language/ast) | 187 | 308 | 60.7 | /mnt/stockage/packages/f35/libmatekbd/po/ast.po | 
+ | [mr](/f35/language/mr) | 187 | 308 | 60.7 | /mnt/stockage/packages/f35/libmatekbd/po/mr.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 187 | 308 | 60.7 | /mnt/stockage/packages/f35/libmatekbd/po/zh_HK.po | 
+ | [pa](/f35/language/pa) | 186 | 308 | 60.4 | /mnt/stockage/packages/f35/libmatekbd/po/pa.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 186 | 308 | 60.4 | /mnt/stockage/packages/f35/libmatekbd/po/sr@latin.po | 
+ | [ta](/f35/language/ta) | 186 | 308 | 60.4 | /mnt/stockage/packages/f35/libmatekbd/po/ta.po | 
+ | [hi](/f35/language/hi) | 185 | 308 | 60.1 | /mnt/stockage/packages/f35/libmatekbd/po/hi.po | 
+ | [th](/f35/language/th) | 182 | 308 | 59.1 | /mnt/stockage/packages/f35/libmatekbd/po/th.po | 
+ | [bn](/f35/language/bn) | 180 | 308 | 58.4 | /mnt/stockage/packages/f35/libmatekbd/po/bn.po | 
+ | [gu](/f35/language/gu) | 176 | 308 | 57.1 | /mnt/stockage/packages/f35/libmatekbd/po/gu.po | 
+ | [kn](/f35/language/kn) | 176 | 308 | 57.1 | /mnt/stockage/packages/f35/libmatekbd/po/kn.po | 
+ | [as](/f35/language/as) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/as.po | 
+ | [bn_IN](/f35/language/bn_IN) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/bn_IN.po | 
+ | [ga](/f35/language/ga) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/ga.po | 
+ | [ml](/f35/language/ml) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/ml.po | 
+ | [or](/f35/language/or) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/or.po | 
+ | [te](/f35/language/te) | 174 | 308 | 56.5 | /mnt/stockage/packages/f35/libmatekbd/po/te.po | 
+ | [nn](/f35/language/nn) | 164 | 308 | 53.2 | /mnt/stockage/packages/f35/libmatekbd/po/nn.po | 
+ | [dz](/f35/language/dz) | 163 | 308 | 52.9 | /mnt/stockage/packages/f35/libmatekbd/po/dz.po | 
+ | [mk](/f35/language/mk) | 163 | 308 | 52.9 | /mnt/stockage/packages/f35/libmatekbd/po/mk.po | 
+ | [be](/f35/language/be) | 155 | 308 | 50.3 | /mnt/stockage/packages/f35/libmatekbd/po/be.po | 
+ | [es](/f35/language/es) | 307 | 616 | 49.8 | /mnt/stockage/packages/f35/libmatekbd/po/es.po/mnt/stockage/packages/f35/libmatekbd/po/es_ES.po | 
+ | [ka](/f35/language/ka) | 147 | 308 | 47.7 | /mnt/stockage/packages/f35/libmatekbd/po/ka.po | 
+ | [si](/f35/language/si) | 146 | 308 | 47.4 | /mnt/stockage/packages/f35/libmatekbd/po/si.po | 
+ | [es_AR](/f35/language/es_AR) | 78 | 308 | 25.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_AR.po | 
+ | [bs](/f35/language/bs) | 61 | 308 | 19.8 | /mnt/stockage/packages/f35/libmatekbd/po/bs.po | 
+ | [cy](/f35/language/cy) | 50 | 308 | 16.2 | /mnt/stockage/packages/f35/libmatekbd/po/cy.po | 
+ | [ky](/f35/language/ky) | 48 | 308 | 15.6 | /mnt/stockage/packages/f35/libmatekbd/po/ky.po | 
+ | [uz](/f35/language/uz) | 48 | 308 | 15.6 | /mnt/stockage/packages/f35/libmatekbd/po/uz.po | 
+ | [kk](/f35/language/kk) | 44 | 308 | 14.3 | /mnt/stockage/packages/f35/libmatekbd/po/kk.po | 
+ | [mai](/f35/language/mai) | 42 | 308 | 13.6 | /mnt/stockage/packages/f35/libmatekbd/po/mai.po | 
+ | [kmr](/f35/language/kmr) | 28 | 308 | 9.1 | /mnt/stockage/packages/f35/libmatekbd/po/ku_IQ.po | 
+ | [br](/f35/language/br) | 27 | 308 | 8.8 | /mnt/stockage/packages/f35/libmatekbd/po/br.po | 
+ | [nds](/f35/language/nds) | 13 | 308 | 4.2 | /mnt/stockage/packages/f35/libmatekbd/po/nds.po | 
+ | [ne](/f35/language/ne) | 13 | 308 | 4.2 | /mnt/stockage/packages/f35/libmatekbd/po/ne.po | 
+ | [is](/f35/language/is) | 12 | 308 | 3.9 | /mnt/stockage/packages/f35/libmatekbd/po/is.po | 
+ | [crh](/f35/language/crh) | 11 | 308 | 3.6 | /mnt/stockage/packages/f35/libmatekbd/po/crh.po | 
+ | [fa](/f35/language/fa) | 11 | 308 | 3.6 | /mnt/stockage/packages/f35/libmatekbd/po/fa.po | 
+ | [en_CA](/f35/language/en_CA) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/en_CA.po | 
+ | [ku](/f35/language/ku) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/ku.po | 
+ | [mg](/f35/language/mg) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/mg.po | 
+ | [mn](/f35/language/mn) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/mn.po | 
+ | [rw](/f35/language/rw) | 10 | 308 | 3.2 | /mnt/stockage/packages/f35/libmatekbd/po/rw.po | 
+ | [az](/f35/language/az) | 9 | 308 | 2.9 | /mnt/stockage/packages/f35/libmatekbd/po/az.po | 
+ | [sc](/f35/language/sc) | 9 | 308 | 2.9 | /mnt/stockage/packages/f35/libmatekbd/po/sc.po | 
+ | [wa](/f35/language/wa) | 9 | 308 | 2.9 | /mnt/stockage/packages/f35/libmatekbd/po/wa.po | 
+ | [xh](/f35/language/xh) | 8 | 308 | 2.6 | /mnt/stockage/packages/f35/libmatekbd/po/xh.po | 
+ | [af](/f35/language/af) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/af.po | 
+ | [frp](/f35/language/frp) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/frp.po | 
+ | [tk](/f35/language/tk) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/tk.po | 
+ | [ur](/f35/language/ur) | 7 | 308 | 2.3 | /mnt/stockage/packages/f35/libmatekbd/po/ur.po | 
+ | [kab](/f35/language/kab) | 6 | 308 | 1.9 | /mnt/stockage/packages/f35/libmatekbd/po/kab.po | 
+ | [ps](/f35/language/ps) | 6 | 308 | 1.9 | /mnt/stockage/packages/f35/libmatekbd/po/ps.po | 
+ | [ug](/f35/language/ug) | 6 | 308 | 1.9 | /mnt/stockage/packages/f35/libmatekbd/po/ug.po | 
+ | [ha](/f35/language/ha) | 5 | 308 | 1.6 | /mnt/stockage/packages/f35/libmatekbd/po/ha.po | 
+ | [ig](/f35/language/ig) | 5 | 308 | 1.6 | /mnt/stockage/packages/f35/libmatekbd/po/ig.po | 
+ | [yo](/f35/language/yo) | 5 | 308 | 1.6 | /mnt/stockage/packages/f35/libmatekbd/po/yo.po | 
+ | [fur](/f35/language/fur) | 4 | 308 | 1.3 | /mnt/stockage/packages/f35/libmatekbd/po/fur.po | 
+ | [fy](/f35/language/fy) | 4 | 308 | 1.3 | /mnt/stockage/packages/f35/libmatekbd/po/fy.po | 
+ | [es_CL](/f35/language/es_CL) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/es_CL.po | 
+ | [fr_CA](/f35/language/fr_CA) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/fr_CA.po | 
+ | [ia](/f35/language/ia) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/ia.po | 
+ | [ks](/f35/language/ks) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/ks.po | 
+ | [nso](/f35/language/nso) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/nso.po | 
+ | [pms](/f35/language/pms) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/pms.po | 
+ | [zu](/f35/language/zu) | 3 | 308 | 1.0 | /mnt/stockage/packages/f35/libmatekbd/po/zu.po | 
+ | [jv](/f35/language/jv) | 2 | 308 | 0.6 | /mnt/stockage/packages/f35/libmatekbd/po/jv.po | 
+ | [la](/f35/language/la) | 2 | 308 | 0.6 | /mnt/stockage/packages/f35/libmatekbd/po/la.po | 
+ | [es_CR](/f35/language/es_CR) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_CR.po | 
+ | [es_DO](/f35/language/es_DO) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_DO.po | 
+ | [es_EC](/f35/language/es_EC) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_EC.po | 
+ | [es_MX](/f35/language/es_MX) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_MX.po | 
+ | [es_NI](/f35/language/es_NI) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_NI.po | 
+ | [es_PA](/f35/language/es_PA) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_PA.po | 
+ | [es_PE](/f35/language/es_PE) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_PE.po | 
+ | [es_PR](/f35/language/es_PR) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_PR.po | 
+ | [es_SV](/f35/language/es_SV) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_SV.po | 
+ | [es_UY](/f35/language/es_UY) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_UY.po | 
+ | [es_VE](/f35/language/es_VE) | 1 | 308 | 0.3 | /mnt/stockage/packages/f35/libmatekbd/po/es_VE.po | 
+ | [an](/f35/language/an) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/an.po | 
+ | [csb](/f35/language/csb) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/csb.po | 
+ | [cv](/f35/language/cv) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/cv.po | 
+ | [de_CH](/f35/language/de_CH) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/de_CH.po | 
+ | [es_419](/f35/language/es_419) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/es_419.po | 
+ | [es_US](/f35/language/es_US) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/es_US.po | 
+ | [fil](/f35/language/fil) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/fil.po | 
+ | [fo](/f35/language/fo) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/fo.po | 
+ | [gd](/f35/language/gd) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/gd.po | 
+ | [km](/f35/language/km) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/km.po | 
+ | [lb](/f35/language/lb) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/lb.po | 
+ | [li](/f35/language/li) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/li.po | 
+ | [lo](/f35/language/lo) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/lo.po | 
+ | [mi](/f35/language/mi) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/mi.po | 
+ | [my](/f35/language/my) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/my.po | 
+ | [nah](/f35/language/nah) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/nah.po | 
+ | [nqo](/f35/language/nqo) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/nqo.po | 
+ | [om](/f35/language/om) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/om.po | 
+ | [sco](/f35/language/sco) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/sco.po | 
+ | [so](/f35/language/so) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/so.po | 
+ | [sw](/f35/language/sw) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/sw.po | 
+ | [tg](/f35/language/tg) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/tg.po | 
+ | [tl](/f35/language/tl) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/tl.po | 
+ | [ts](/f35/language/ts) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/ts.po | 
+ | [tt](/f35/language/tt) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/tt.po | 
+ | [ur_PK](/f35/language/ur_PK) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/ur_PK.po | 
+ | [yi](/f35/language/yi) | 0 | 308 | 0.0 | /mnt/stockage/packages/f35/libmatekbd/po/yi.po | 
 {.sortable}
 
 

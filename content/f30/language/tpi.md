@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 91 | 9048 | 1.0 | Tok Pisin <tpi@li.org> | 
- | [sugar-connect]({{< ref "/f30/package/sugar-connect.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f30/package/sugar-memorize.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f30/package/sugar-paint.md" >}}) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f30/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f30/package/sugar-record.md" >}}) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f30/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f30/package/sugar-visualmatch.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 91 | 9048 | 1.0 | Tok Pisin <tpi@li.org> | 
+ | [sugar-connect](/f30/package/sugar-connect) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f30/package/sugar-memorize) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f30/package/sugar-paint) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f30/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f30/package/sugar-record) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f30/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f30/package/sugar-visualmatch) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

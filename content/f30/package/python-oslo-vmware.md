@@ -18,8 +18,8 @@ The package python-oslo-vmware (version 2.26.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f30/python-oslo-vmware/oslo_vmware/locale/en_GB/LC_MESSAGES/oslo_vmware.po/mnt/stockage/packages/f30/python-oslo-vmware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f30/python-oslo-vmware/oslo_vmware/locale/fr/LC_MESSAGES/oslo_vmware.po/mnt/stockage/packages/f30/python-oslo-vmware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f30/language/en_GB) | 311 | 311 | 100.0 | /mnt/stockage/packages/f30/python-oslo-vmware/oslo_vmware/locale/en_GB/LC_MESSAGES/oslo_vmware.po/mnt/stockage/packages/f30/python-oslo-vmware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f30/language/fr) | 285 | 285 | 100.0 | /mnt/stockage/packages/f30/python-oslo-vmware/oslo_vmware/locale/fr/LC_MESSAGES/oslo_vmware.po/mnt/stockage/packages/f30/python-oslo-vmware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

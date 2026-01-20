@@ -18,44 +18,44 @@ The package akonadi-googledata (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/da/akonadi_gcal_resource.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/nds/akonadi_gcal_resource.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/pt/akonadi_gcal_resource.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/pt_BR/akonadi_gcal_resource.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/sv/akonadi_gcal_resource.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/uk/akonadi_gcal_resource.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/bg/akonadi_gcal_resource.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/en_GB/akonadi_gcal_resource.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/es/akonadi_gcal_resource.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/fr/akonadi_gcal_resource.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/is/akonadi_gcal_resource.po | 
- | [km]({{< ref "/f16/language/km.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/km/akonadi_gcal_resource.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/nb/akonadi_gcal_resource.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/nl/akonadi_gcal_resource.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/tr/akonadi_gcal_resource.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/zh_TW/akonadi_gcal_resource.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 73 | 86 | 84.9 | /mnt/stockage/packages/f16/akonadi-googledata/po/cs/akonadi_gcal_resource.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 62 | 86 | 72.1 | /mnt/stockage/packages/f16/akonadi-googledata/po/et/akonadi_gcal_resource.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/ca/akonadi_gcal_resource.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/ca@valencia/akonadi_gcal_resource.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/fi/akonadi_gcal_resource.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/gl/akonadi_gcal_resource.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/hu/akonadi_gcal_resource.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/lv/akonadi_gcal_resource.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr/akonadi_gcal_resource.po | 
- | [sr@ijekavian]({{< ref "/f16/language/sr@ijekavian.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr@ijekavian/akonadi_gcal_resource.po | 
- | [sr@ijekavian_Latn]({{< ref "/f16/language/sr@ijekavian_Latn.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr@ijekavianlatin/akonadi_gcal_resource.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr@latin/akonadi_gcal_resource.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/th/akonadi_gcal_resource.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/zh_CN/akonadi_gcal_resource.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 12 | 86 | 14.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/de/akonadi_gcal_resource.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 12 | 86 | 14.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/ga/akonadi_gcal_resource.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 12 | 86 | 14.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/ro/akonadi_gcal_resource.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 1 | 86 | 1.2 | /mnt/stockage/packages/f16/akonadi-googledata/po/eo/akonadi_gcal_resource.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 1 | 86 | 1.2 | /mnt/stockage/packages/f16/akonadi-googledata/po/hr/akonadi_gcal_resource.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 0 | 86 | 0.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/ja/akonadi_gcal_resource.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 0 | 86 | 0.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/lt/akonadi_gcal_resource.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 0 | 86 | 0.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/sk/akonadi_gcal_resource.po | 
+ | [da](/f16/language/da) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/da/akonadi_gcal_resource.po | 
+ | [nds](/f16/language/nds) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/nds/akonadi_gcal_resource.po | 
+ | [pt](/f16/language/pt) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/pt/akonadi_gcal_resource.po | 
+ | [pt_BR](/f16/language/pt_BR) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/pt_BR/akonadi_gcal_resource.po | 
+ | [sv](/f16/language/sv) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/sv/akonadi_gcal_resource.po | 
+ | [uk](/f16/language/uk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/uk/akonadi_gcal_resource.po | 
+ | [bg](/f16/language/bg) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/bg/akonadi_gcal_resource.po | 
+ | [en_GB](/f16/language/en_GB) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/en_GB/akonadi_gcal_resource.po | 
+ | [es](/f16/language/es) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/es/akonadi_gcal_resource.po | 
+ | [fr](/f16/language/fr) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/fr/akonadi_gcal_resource.po | 
+ | [is](/f16/language/is) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/is/akonadi_gcal_resource.po | 
+ | [km](/f16/language/km) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/km/akonadi_gcal_resource.po | 
+ | [nb_NO](/f16/language/nb_NO) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/nb/akonadi_gcal_resource.po | 
+ | [nl](/f16/language/nl) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/nl/akonadi_gcal_resource.po | 
+ | [tr](/f16/language/tr) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/tr/akonadi_gcal_resource.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 78 | 86 | 90.7 | /mnt/stockage/packages/f16/akonadi-googledata/po/zh_TW/akonadi_gcal_resource.po | 
+ | [cs](/f16/language/cs) | 73 | 86 | 84.9 | /mnt/stockage/packages/f16/akonadi-googledata/po/cs/akonadi_gcal_resource.po | 
+ | [et](/f16/language/et) | 62 | 86 | 72.1 | /mnt/stockage/packages/f16/akonadi-googledata/po/et/akonadi_gcal_resource.po | 
+ | [ca](/f16/language/ca) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/ca/akonadi_gcal_resource.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/ca@valencia/akonadi_gcal_resource.po | 
+ | [fi](/f16/language/fi) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/fi/akonadi_gcal_resource.po | 
+ | [gl](/f16/language/gl) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/gl/akonadi_gcal_resource.po | 
+ | [hu](/f16/language/hu) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/hu/akonadi_gcal_resource.po | 
+ | [lv](/f16/language/lv) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/lv/akonadi_gcal_resource.po | 
+ | [sr](/f16/language/sr) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr/akonadi_gcal_resource.po | 
+ | [sr@ijekavian](/f16/language/sr@ijekavian) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr@ijekavian/akonadi_gcal_resource.po | 
+ | [sr@ijekavian_Latn](/f16/language/sr@ijekavian_Latn) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr@ijekavianlatin/akonadi_gcal_resource.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/sr@latin/akonadi_gcal_resource.po | 
+ | [th](/f16/language/th) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/th/akonadi_gcal_resource.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 57 | 86 | 66.3 | /mnt/stockage/packages/f16/akonadi-googledata/po/zh_CN/akonadi_gcal_resource.po | 
+ | [de](/f16/language/de) | 12 | 86 | 14.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/de/akonadi_gcal_resource.po | 
+ | [ga](/f16/language/ga) | 12 | 86 | 14.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/ga/akonadi_gcal_resource.po | 
+ | [ro](/f16/language/ro) | 12 | 86 | 14.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/ro/akonadi_gcal_resource.po | 
+ | [eo](/f16/language/eo) | 1 | 86 | 1.2 | /mnt/stockage/packages/f16/akonadi-googledata/po/eo/akonadi_gcal_resource.po | 
+ | [hr](/f16/language/hr) | 1 | 86 | 1.2 | /mnt/stockage/packages/f16/akonadi-googledata/po/hr/akonadi_gcal_resource.po | 
+ | [ja](/f16/language/ja) | 0 | 86 | 0.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/ja/akonadi_gcal_resource.po | 
+ | [lt](/f16/language/lt) | 0 | 86 | 0.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/lt/akonadi_gcal_resource.po | 
+ | [sk](/f16/language/sk) | 0 | 86 | 0.0 | /mnt/stockage/packages/f16/akonadi-googledata/po/sk/akonadi_gcal_resource.po | 
 {.sortable}
 
 

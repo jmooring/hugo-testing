@@ -38,27 +38,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sysstat]({{< ref "/f24/package/sysstat.md" >}}) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [oggconvert]({{< ref "/f24/package/oggconvert.md" >}}) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
- | [gettext]({{< ref "/f24/package/gettext.md" >}}) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gettext]({{< ref "/f24/package/mingw-gettext.md" >}}) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [libkexif]({{< ref "/f24/package/libkexif.md" >}}) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f24/package/gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-bad-free]({{< ref "/f24/package/mingw-gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer-plugins-good]({{< ref "/f24/package/gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-good]({{< ref "/f24/package/mingw-gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer1-plugins-good]({{< ref "/f24/package/gstreamer1-plugins-good.md" >}}) | 362 | 769 | 47.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f24/package/mingw-gstreamer1-plugins-good.md" >}}) | 362 | 769 | 47.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [dnfdragora]({{< ref "/f24/package/dnfdragora.md" >}}) | 146 | 549 | 26.6 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f24/package/gstreamer1-plugins-bad-free.md" >}}) | 60 | 234 | 25.6 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f24/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 60 | 234 | 25.6 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [koffice-kivio]({{< ref "/f24/package/koffice-kivio.md" >}}) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
- | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
- | [iso-codes]({{< ref "/f24/package/iso-codes.md" >}}) | 752 | 15707 | 4.8 | Maltese <mt@li.org> | 
- | [transmission]({{< ref "/f24/package/transmission.md" >}}) | 19 | 1809 | 1.1 | Maltese <mt@li.org> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 68 | 23532 | 0.3 | Maltese <mt@li.org> | 
- | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 316 | 152264 | 0.2 | Maltese (http://www.transifex.com/calibre/calibre/language/mt/) | 
- | [olpc-switch-desktop]({{< ref "/f24/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sysstat](/f24/package/sysstat) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [oggconvert](/f24/package/oggconvert) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
+ | [gettext](/f24/package/gettext) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gettext](/f24/package/mingw-gettext) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [libkexif](/f24/package/libkexif) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
+ | [gstreamer-plugins-bad-free](/f24/package/gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-bad-free](/f24/package/mingw-gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer-plugins-good](/f24/package/gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-good](/f24/package/mingw-gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-good](/f24/package/gstreamer1-plugins-good) | 362 | 769 | 47.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-good](/f24/package/mingw-gstreamer1-plugins-good) | 362 | 769 | 47.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [dnfdragora](/f24/package/dnfdragora) | 146 | 549 | 26.6 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
+ | [gstreamer1-plugins-bad-free](/f24/package/gstreamer1-plugins-bad-free) | 60 | 234 | 25.6 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f24/package/mingw-gstreamer1-plugins-bad-free) | 60 | 234 | 25.6 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [koffice-kivio](/f24/package/koffice-kivio) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
+ | [gnome-do](/f24/package/gnome-do) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
+ | [iso-codes](/f24/package/iso-codes) | 752 | 15707 | 4.8 | Maltese <mt@li.org> | 
+ | [transmission](/f24/package/transmission) | 19 | 1809 | 1.1 | Maltese <mt@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 68 | 23532 | 0.3 | Maltese <mt@li.org> | 
+ | [calibre](/f24/package/calibre) | 316 | 152264 | 0.2 | Maltese (http://www.transifex.com/calibre/calibre/language/mt/) | 
+ | [olpc-switch-desktop](/f24/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

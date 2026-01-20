@@ -18,11 +18,11 @@ The package opensp (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f30/opensp/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f30/opensp/po/fr.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f30/opensp/po/tr.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 5364 | 5771 | 92.9 | /mnt/stockage/packages/f30/opensp/po/ja.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 4379 | 5771 | 75.9 | /mnt/stockage/packages/f30/opensp/po/sv.po | 
+ | [de](/f30/language/de) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f30/opensp/po/de.po | 
+ | [fr](/f30/language/fr) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f30/opensp/po/fr.po | 
+ | [tr](/f30/language/tr) | 5771 | 5771 | 100.0 | /mnt/stockage/packages/f30/opensp/po/tr.po | 
+ | [ja](/f30/language/ja) | 5364 | 5771 | 92.9 | /mnt/stockage/packages/f30/opensp/po/ja.po | 
+ | [sv](/f30/language/sv) | 4379 | 5771 | 75.9 | /mnt/stockage/packages/f30/opensp/po/sv.po | 
 {.sortable}
 
 

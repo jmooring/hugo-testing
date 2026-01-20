@@ -18,15 +18,15 @@ The package lingot (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 127 | 129 | 98.4 | /mnt/stockage/packages/f14/lingot/po/cs.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 118 | 129 | 91.5 | /mnt/stockage/packages/f14/lingot/po/it.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 118 | 129 | 91.5 | /mnt/stockage/packages/f14/lingot/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 118 | 129 | 91.5 | /mnt/stockage/packages/f14/lingot/po/zh_CN.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 115 | 129 | 89.1 | /mnt/stockage/packages/f14/lingot/po/gl.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 109 | 129 | 84.5 | /mnt/stockage/packages/f14/lingot/po/es.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 70 | 129 | 54.3 | /mnt/stockage/packages/f14/lingot/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 70 | 129 | 54.3 | /mnt/stockage/packages/f14/lingot/po/de.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 70 | 129 | 54.3 | /mnt/stockage/packages/f14/lingot/po/pt_BR.po | 
+ | [cs](/f14/language/cs) | 127 | 129 | 98.4 | /mnt/stockage/packages/f14/lingot/po/cs.po | 
+ | [it](/f14/language/it) | 118 | 129 | 91.5 | /mnt/stockage/packages/f14/lingot/po/it.po | 
+ | [sv](/f14/language/sv) | 118 | 129 | 91.5 | /mnt/stockage/packages/f14/lingot/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 118 | 129 | 91.5 | /mnt/stockage/packages/f14/lingot/po/zh_CN.po | 
+ | [gl](/f14/language/gl) | 115 | 129 | 89.1 | /mnt/stockage/packages/f14/lingot/po/gl.po | 
+ | [es](/f14/language/es) | 109 | 129 | 84.5 | /mnt/stockage/packages/f14/lingot/po/es.po | 
+ | [ca](/f14/language/ca) | 70 | 129 | 54.3 | /mnt/stockage/packages/f14/lingot/po/ca.po | 
+ | [de](/f14/language/de) | 70 | 129 | 54.3 | /mnt/stockage/packages/f14/lingot/po/de.po | 
+ | [pt_BR](/f14/language/pt_BR) | 70 | 129 | 54.3 | /mnt/stockage/packages/f14/lingot/po/pt_BR.po | 
 {.sortable}
 
 

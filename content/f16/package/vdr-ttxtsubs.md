@@ -18,14 +18,14 @@ The package vdr-ttxtsubs (version 0.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/fi_FI.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/fr_FR.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/it_IT.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/ru_RU.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 107 | 110 | 97.3 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/ca_ES.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 107 | 110 | 97.3 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/de_DE.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 107 | 110 | 97.3 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/es_ES.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 67 | 110 | 60.9 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/sv_SE.po | 
+ | [fi](/f16/language/fi) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/fi_FI.po | 
+ | [fr](/f16/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/fr_FR.po | 
+ | [it](/f16/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/it_IT.po | 
+ | [ru](/f16/language/ru) | 110 | 110 | 100.0 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/ru_RU.po | 
+ | [ca](/f16/language/ca) | 107 | 110 | 97.3 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/ca_ES.po | 
+ | [de](/f16/language/de) | 107 | 110 | 97.3 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/de_DE.po | 
+ | [es](/f16/language/es) | 107 | 110 | 97.3 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/es_ES.po | 
+ | [sv](/f16/language/sv) | 67 | 110 | 60.9 | /mnt/stockage/packages/f16/vdr-ttxtsubs/po/sv_SE.po | 
 {.sortable}
 
 

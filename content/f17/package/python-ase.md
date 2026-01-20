@@ -18,14 +18,14 @@ The package python-ase (version 3.7.1.3184):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2980 | 3143 | 94.8 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/it_IT/LC_MESSAGES/ag.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 0 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/fr/LC_MESSAGES/ag.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 0 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/is/LC_MESSAGES/ag.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 0 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/pl/LC_MESSAGES/ag.po | 
+ | [da](/f17/language/da) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
+ | [en_GB](/f17/language/en_GB) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
+ | [es](/f17/language/es) | 3370 | 3370 | 100.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2980 | 3143 | 94.8 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
+ | [it](/f17/language/it) | 1 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/it_IT/LC_MESSAGES/ag.po | 
+ | [fr](/f17/language/fr) | 0 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/fr/LC_MESSAGES/ag.po | 
+ | [is](/f17/language/is) | 0 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/is/LC_MESSAGES/ag.po | 
+ | [pl](/f17/language/pl) | 0 | 3143 | 0.0 | /mnt/stockage/packages/f17/python-ase/ase/gui/po/pl/LC_MESSAGES/ag.po | 
 {.sortable}
 
 

@@ -18,78 +18,78 @@ The package krita (version 4.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/es/krita.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/ko/krita.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/nl/krita.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/pl/krita.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/uk/krita.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/zh_TW/krita.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/ca/krita.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/ca@valencia/krita.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/en_GB/krita.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/fr/krita.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/it/krita.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/nn/krita.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/sv/krita.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/zh_CN/krita.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 27831 | 27889 | 99.8 | /mnt/stockage/packages/f35/krita/po/pt_BR/krita.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 27659 | 27889 | 99.2 | /mnt/stockage/packages/f35/krita/po/pt/krita.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 27226 | 27889 | 97.6 | /mnt/stockage/packages/f35/krita/po/sk/krita.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 25941 | 27889 | 93.0 | /mnt/stockage/packages/f35/krita/po/ja/krita.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 25727 | 27889 | 92.2 | /mnt/stockage/packages/f35/krita/po/gl/krita.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 24879 | 27889 | 89.2 | /mnt/stockage/packages/f35/krita/po/et/krita.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 23155 | 27889 | 83.0 | /mnt/stockage/packages/f35/krita/po/tr/krita.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 15906 | 27889 | 57.0 | /mnt/stockage/packages/f35/krita/po/ru/krita.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 15185 | 27889 | 54.4 | /mnt/stockage/packages/f35/krita/po/de/krita.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 14483 | 27889 | 51.9 | /mnt/stockage/packages/f35/krita/po/eu/krita.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 12447 | 27889 | 44.6 | /mnt/stockage/packages/f35/krita/po/fi/krita.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 11684 | 27889 | 41.9 | /mnt/stockage/packages/f35/krita/po/hi/krita.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 10603 | 27889 | 38.0 | /mnt/stockage/packages/f35/krita/po/cs/krita.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 8421 | 27889 | 30.2 | /mnt/stockage/packages/f35/krita/po/ia/krita.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 8217 | 27860 | 29.5 | /mnt/stockage/packages/f35/krita/po/nb/krita.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 7488 | 27889 | 26.8 | /mnt/stockage/packages/f35/krita/po/bs/krita.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 7364 | 27889 | 26.4 | /mnt/stockage/packages/f35/krita/po/da/krita.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 5443 | 27889 | 19.5 | /mnt/stockage/packages/f35/krita/po/kk/krita.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 5327 | 27889 | 19.1 | /mnt/stockage/packages/f35/krita/po/hu/krita.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 4728 | 27889 | 17.0 | /mnt/stockage/packages/f35/krita/po/el/krita.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 3884 | 27889 | 13.9 | /mnt/stockage/packages/f35/krita/po/nds/krita.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 3522 | 27889 | 12.6 | /mnt/stockage/packages/f35/krita/po/mr/krita.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 2963 | 27889 | 10.6 | /mnt/stockage/packages/f35/krita/po/sl/krita.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 2731 | 27889 | 9.8 | /mnt/stockage/packages/f35/krita/po/wa/krita.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 2444 | 27889 | 8.8 | /mnt/stockage/packages/f35/krita/po/km/krita.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 2268 | 27889 | 8.1 | /mnt/stockage/packages/f35/krita/po/lt/krita.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 2225 | 27889 | 8.0 | /mnt/stockage/packages/f35/krita/po/bg/krita.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 2106 | 27889 | 7.6 | /mnt/stockage/packages/f35/krita/po/ar/krita.po | 
- | [fy]({{< ref "/f35/language/fy.md" >}}) | 1918 | 27889 | 6.9 | /mnt/stockage/packages/f35/krita/po/fy/krita.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 1768 | 27860 | 6.3 | /mnt/stockage/packages/f35/krita/po/se/krita.po | 
- | [hne]({{< ref "/f35/language/hne.md" >}}) | 1675 | 27889 | 6.0 | /mnt/stockage/packages/f35/krita/po/hne/krita.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 1599 | 27889 | 5.7 | /mnt/stockage/packages/f35/krita/po/ne/krita.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 1496 | 27889 | 5.4 | /mnt/stockage/packages/f35/krita/po/ro/krita.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 1493 | 27889 | 5.4 | /mnt/stockage/packages/f35/krita/po/ga/krita.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 1322 | 27889 | 4.7 | /mnt/stockage/packages/f35/krita/po/fa/krita.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 1147 | 27889 | 4.1 | /mnt/stockage/packages/f35/krita/po/ug/krita.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1005 | 27889 | 3.6 | /mnt/stockage/packages/f35/krita/po/eo/krita.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 890 | 27889 | 3.2 | /mnt/stockage/packages/f35/krita/po/vi/krita.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 747 | 27889 | 2.7 | /mnt/stockage/packages/f35/krita/po/ms/krita.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 456 | 27889 | 1.6 | /mnt/stockage/packages/f35/krita/po/br/krita.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 444 | 27889 | 1.6 | /mnt/stockage/packages/f35/krita/po/mai/krita.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 429 | 27889 | 1.5 | /mnt/stockage/packages/f35/krita/po/th/krita.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 400 | 27889 | 1.4 | /mnt/stockage/packages/f35/krita/po/lv/krita.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 389 | 27889 | 1.4 | /mnt/stockage/packages/f35/krita/po/cy/krita.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 338 | 27889 | 1.2 | /mnt/stockage/packages/f35/krita/po/ta/krita.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 661 | 55778 | 1.2 | /mnt/stockage/packages/f35/krita/po/uz@cyrillic/krita.po/mnt/stockage/packages/f35/krita/po/uz/krita.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 327 | 27889 | 1.2 | /mnt/stockage/packages/f35/krita/po/ast/krita.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 278 | 27889 | 1.0 | /mnt/stockage/packages/f35/krita/po/tg/krita.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 243 | 27889 | 0.9 | /mnt/stockage/packages/f35/krita/po/he/krita.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 237 | 27889 | 0.8 | /mnt/stockage/packages/f35/krita/po/oc/krita.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 151 | 27889 | 0.5 | /mnt/stockage/packages/f35/krita/po/xh/krita.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 148 | 27889 | 0.5 | /mnt/stockage/packages/f35/krita/po/af/krita.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 141 | 27889 | 0.5 | /mnt/stockage/packages/f35/krita/po/hr/krita.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 89 | 27889 | 0.3 | /mnt/stockage/packages/f35/krita/po/sq/krita.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 75 | 27889 | 0.3 | /mnt/stockage/packages/f35/krita/po/be/krita.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 35 | 27889 | 0.1 | /mnt/stockage/packages/f35/krita/po/mk/krita.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 28 | 27889 | 0.1 | /mnt/stockage/packages/f35/krita/po/pa/krita.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 24 | 27889 | 0.1 | /mnt/stockage/packages/f35/krita/po/is/krita.po | 
+ | [es](/f35/language/es) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/es/krita.po | 
+ | [ko](/f35/language/ko) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/ko/krita.po | 
+ | [nl](/f35/language/nl) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/nl/krita.po | 
+ | [pl](/f35/language/pl) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/pl/krita.po | 
+ | [uk](/f35/language/uk) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/uk/krita.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 27889 | 27889 | 100.0 | /mnt/stockage/packages/f35/krita/po/zh_TW/krita.po | 
+ | [ca](/f35/language/ca) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/ca/krita.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/ca@valencia/krita.po | 
+ | [en_GB](/f35/language/en_GB) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/en_GB/krita.po | 
+ | [fr](/f35/language/fr) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/fr/krita.po | 
+ | [it](/f35/language/it) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/it/krita.po | 
+ | [nn](/f35/language/nn) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/nn/krita.po | 
+ | [sv](/f35/language/sv) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/sv/krita.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 27852 | 27889 | 99.9 | /mnt/stockage/packages/f35/krita/po/zh_CN/krita.po | 
+ | [pt_BR](/f35/language/pt_BR) | 27831 | 27889 | 99.8 | /mnt/stockage/packages/f35/krita/po/pt_BR/krita.po | 
+ | [pt](/f35/language/pt) | 27659 | 27889 | 99.2 | /mnt/stockage/packages/f35/krita/po/pt/krita.po | 
+ | [sk](/f35/language/sk) | 27226 | 27889 | 97.6 | /mnt/stockage/packages/f35/krita/po/sk/krita.po | 
+ | [ja](/f35/language/ja) | 25941 | 27889 | 93.0 | /mnt/stockage/packages/f35/krita/po/ja/krita.po | 
+ | [gl](/f35/language/gl) | 25727 | 27889 | 92.2 | /mnt/stockage/packages/f35/krita/po/gl/krita.po | 
+ | [et](/f35/language/et) | 24879 | 27889 | 89.2 | /mnt/stockage/packages/f35/krita/po/et/krita.po | 
+ | [tr](/f35/language/tr) | 23155 | 27889 | 83.0 | /mnt/stockage/packages/f35/krita/po/tr/krita.po | 
+ | [ru](/f35/language/ru) | 15906 | 27889 | 57.0 | /mnt/stockage/packages/f35/krita/po/ru/krita.po | 
+ | [de](/f35/language/de) | 15185 | 27889 | 54.4 | /mnt/stockage/packages/f35/krita/po/de/krita.po | 
+ | [eu](/f35/language/eu) | 14483 | 27889 | 51.9 | /mnt/stockage/packages/f35/krita/po/eu/krita.po | 
+ | [fi](/f35/language/fi) | 12447 | 27889 | 44.6 | /mnt/stockage/packages/f35/krita/po/fi/krita.po | 
+ | [hi](/f35/language/hi) | 11684 | 27889 | 41.9 | /mnt/stockage/packages/f35/krita/po/hi/krita.po | 
+ | [cs](/f35/language/cs) | 10603 | 27889 | 38.0 | /mnt/stockage/packages/f35/krita/po/cs/krita.po | 
+ | [ia](/f35/language/ia) | 8421 | 27889 | 30.2 | /mnt/stockage/packages/f35/krita/po/ia/krita.po | 
+ | [nb_NO](/f35/language/nb_NO) | 8217 | 27860 | 29.5 | /mnt/stockage/packages/f35/krita/po/nb/krita.po | 
+ | [bs](/f35/language/bs) | 7488 | 27889 | 26.8 | /mnt/stockage/packages/f35/krita/po/bs/krita.po | 
+ | [da](/f35/language/da) | 7364 | 27889 | 26.4 | /mnt/stockage/packages/f35/krita/po/da/krita.po | 
+ | [kk](/f35/language/kk) | 5443 | 27889 | 19.5 | /mnt/stockage/packages/f35/krita/po/kk/krita.po | 
+ | [hu](/f35/language/hu) | 5327 | 27889 | 19.1 | /mnt/stockage/packages/f35/krita/po/hu/krita.po | 
+ | [el](/f35/language/el) | 4728 | 27889 | 17.0 | /mnt/stockage/packages/f35/krita/po/el/krita.po | 
+ | [nds](/f35/language/nds) | 3884 | 27889 | 13.9 | /mnt/stockage/packages/f35/krita/po/nds/krita.po | 
+ | [mr](/f35/language/mr) | 3522 | 27889 | 12.6 | /mnt/stockage/packages/f35/krita/po/mr/krita.po | 
+ | [sl](/f35/language/sl) | 2963 | 27889 | 10.6 | /mnt/stockage/packages/f35/krita/po/sl/krita.po | 
+ | [wa](/f35/language/wa) | 2731 | 27889 | 9.8 | /mnt/stockage/packages/f35/krita/po/wa/krita.po | 
+ | [km](/f35/language/km) | 2444 | 27889 | 8.8 | /mnt/stockage/packages/f35/krita/po/km/krita.po | 
+ | [lt](/f35/language/lt) | 2268 | 27889 | 8.1 | /mnt/stockage/packages/f35/krita/po/lt/krita.po | 
+ | [bg](/f35/language/bg) | 2225 | 27889 | 8.0 | /mnt/stockage/packages/f35/krita/po/bg/krita.po | 
+ | [ar](/f35/language/ar) | 2106 | 27889 | 7.6 | /mnt/stockage/packages/f35/krita/po/ar/krita.po | 
+ | [fy](/f35/language/fy) | 1918 | 27889 | 6.9 | /mnt/stockage/packages/f35/krita/po/fy/krita.po | 
+ | [se](/f35/language/se) | 1768 | 27860 | 6.3 | /mnt/stockage/packages/f35/krita/po/se/krita.po | 
+ | [hne](/f35/language/hne) | 1675 | 27889 | 6.0 | /mnt/stockage/packages/f35/krita/po/hne/krita.po | 
+ | [ne](/f35/language/ne) | 1599 | 27889 | 5.7 | /mnt/stockage/packages/f35/krita/po/ne/krita.po | 
+ | [ro](/f35/language/ro) | 1496 | 27889 | 5.4 | /mnt/stockage/packages/f35/krita/po/ro/krita.po | 
+ | [ga](/f35/language/ga) | 1493 | 27889 | 5.4 | /mnt/stockage/packages/f35/krita/po/ga/krita.po | 
+ | [fa](/f35/language/fa) | 1322 | 27889 | 4.7 | /mnt/stockage/packages/f35/krita/po/fa/krita.po | 
+ | [ug](/f35/language/ug) | 1147 | 27889 | 4.1 | /mnt/stockage/packages/f35/krita/po/ug/krita.po | 
+ | [eo](/f35/language/eo) | 1005 | 27889 | 3.6 | /mnt/stockage/packages/f35/krita/po/eo/krita.po | 
+ | [vi](/f35/language/vi) | 890 | 27889 | 3.2 | /mnt/stockage/packages/f35/krita/po/vi/krita.po | 
+ | [ms](/f35/language/ms) | 747 | 27889 | 2.7 | /mnt/stockage/packages/f35/krita/po/ms/krita.po | 
+ | [br](/f35/language/br) | 456 | 27889 | 1.6 | /mnt/stockage/packages/f35/krita/po/br/krita.po | 
+ | [mai](/f35/language/mai) | 444 | 27889 | 1.6 | /mnt/stockage/packages/f35/krita/po/mai/krita.po | 
+ | [th](/f35/language/th) | 429 | 27889 | 1.5 | /mnt/stockage/packages/f35/krita/po/th/krita.po | 
+ | [lv](/f35/language/lv) | 400 | 27889 | 1.4 | /mnt/stockage/packages/f35/krita/po/lv/krita.po | 
+ | [cy](/f35/language/cy) | 389 | 27889 | 1.4 | /mnt/stockage/packages/f35/krita/po/cy/krita.po | 
+ | [ta](/f35/language/ta) | 338 | 27889 | 1.2 | /mnt/stockage/packages/f35/krita/po/ta/krita.po | 
+ | [uz](/f35/language/uz) | 661 | 55778 | 1.2 | /mnt/stockage/packages/f35/krita/po/uz@cyrillic/krita.po/mnt/stockage/packages/f35/krita/po/uz/krita.po | 
+ | [ast](/f35/language/ast) | 327 | 27889 | 1.2 | /mnt/stockage/packages/f35/krita/po/ast/krita.po | 
+ | [tg](/f35/language/tg) | 278 | 27889 | 1.0 | /mnt/stockage/packages/f35/krita/po/tg/krita.po | 
+ | [he](/f35/language/he) | 243 | 27889 | 0.9 | /mnt/stockage/packages/f35/krita/po/he/krita.po | 
+ | [oc](/f35/language/oc) | 237 | 27889 | 0.8 | /mnt/stockage/packages/f35/krita/po/oc/krita.po | 
+ | [xh](/f35/language/xh) | 151 | 27889 | 0.5 | /mnt/stockage/packages/f35/krita/po/xh/krita.po | 
+ | [af](/f35/language/af) | 148 | 27889 | 0.5 | /mnt/stockage/packages/f35/krita/po/af/krita.po | 
+ | [hr](/f35/language/hr) | 141 | 27889 | 0.5 | /mnt/stockage/packages/f35/krita/po/hr/krita.po | 
+ | [sq](/f35/language/sq) | 89 | 27889 | 0.3 | /mnt/stockage/packages/f35/krita/po/sq/krita.po | 
+ | [be](/f35/language/be) | 75 | 27889 | 0.3 | /mnt/stockage/packages/f35/krita/po/be/krita.po | 
+ | [mk](/f35/language/mk) | 35 | 27889 | 0.1 | /mnt/stockage/packages/f35/krita/po/mk/krita.po | 
+ | [pa](/f35/language/pa) | 28 | 27889 | 0.1 | /mnt/stockage/packages/f35/krita/po/pa/krita.po | 
+ | [is](/f35/language/is) | 24 | 27889 | 0.1 | /mnt/stockage/packages/f35/krita/po/is/krita.po | 
 {.sortable}
 
 

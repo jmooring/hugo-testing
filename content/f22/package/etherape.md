@@ -18,13 +18,13 @@ The package etherape (version 0.9.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f22/language/it.md" >}}) | 1031 | 1170 | 88.1 | /mnt/stockage/packages/f22/etherape/po/it.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 953 | 1170 | 81.5 | /mnt/stockage/packages/f22/etherape/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 952 | 1170 | 81.4 | /mnt/stockage/packages/f22/etherape/po/es.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 374 | 1170 | 32.0 | /mnt/stockage/packages/f22/etherape/po/sv.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 360 | 1170 | 30.8 | /mnt/stockage/packages/f22/etherape/po/nl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 149 | 1170 | 12.7 | /mnt/stockage/packages/f22/etherape/po/tr.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 104 | 1170 | 8.9 | /mnt/stockage/packages/f22/etherape/po/fr.po | 
+ | [it](/f22/language/it) | 1031 | 1170 | 88.1 | /mnt/stockage/packages/f22/etherape/po/it.po | 
+ | [de](/f22/language/de) | 953 | 1170 | 81.5 | /mnt/stockage/packages/f22/etherape/po/de.po | 
+ | [es](/f22/language/es) | 952 | 1170 | 81.4 | /mnt/stockage/packages/f22/etherape/po/es.po | 
+ | [sv](/f22/language/sv) | 374 | 1170 | 32.0 | /mnt/stockage/packages/f22/etherape/po/sv.po | 
+ | [nl](/f22/language/nl) | 360 | 1170 | 30.8 | /mnt/stockage/packages/f22/etherape/po/nl.po | 
+ | [tr](/f22/language/tr) | 149 | 1170 | 12.7 | /mnt/stockage/packages/f22/etherape/po/tr.po | 
+ | [fr](/f22/language/fr) | 104 | 1170 | 8.9 | /mnt/stockage/packages/f22/etherape/po/fr.po | 
 {.sortable}
 
 

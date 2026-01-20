@@ -18,8 +18,8 @@ The package kdemultimedia (version 4.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f11/kdemultimedia/kmix/l10n/kmix-controls-de.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f11/kdemultimedia/kmix/l10n/kmix-controls-en.po | 
+ | [de](/f11/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f11/kdemultimedia/kmix/l10n/kmix-controls-de.po | 
+ | [en](/f11/language/en) | 4 | 4 | 100.0 | /mnt/stockage/packages/f11/kdemultimedia/kmix/l10n/kmix-controls-en.po | 
 {.sortable}
 
 

@@ -18,27 +18,27 @@ The package libgsasl (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f32/language/da.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/de.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/eo.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/en@boldquot.po/mnt/stockage/packages/f32/libgsasl/po/en@quot.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/pt_BR.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 553 | 577 | 95.8 | /mnt/stockage/packages/f32/libgsasl/po/zh_CN.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 495 | 577 | 85.8 | /mnt/stockage/packages/f32/libgsasl/po/ga.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 495 | 577 | 85.8 | /mnt/stockage/packages/f32/libgsasl/po/sk.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 412 | 577 | 71.4 | /mnt/stockage/packages/f32/libgsasl/po/ro.po | 
+ | [da](/f32/language/da) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/da.po | 
+ | [de](/f32/language/de) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/de.po | 
+ | [eo](/f32/language/eo) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/eo.po | 
+ | [error](/f32/language/error) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/en@boldquot.po/mnt/stockage/packages/f32/libgsasl/po/en@quot.po | 
+ | [es](/f32/language/es) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/es.po | 
+ | [fi](/f32/language/fi) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/fi.po | 
+ | [fr](/f32/language/fr) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/fr.po | 
+ | [hu](/f32/language/hu) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/hu.po | 
+ | [id](/f32/language/id) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/id.po | 
+ | [it](/f32/language/it) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/it.po | 
+ | [nl](/f32/language/nl) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/nl.po | 
+ | [pl](/f32/language/pl) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/pt_BR.po | 
+ | [sr](/f32/language/sr) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/sr.po | 
+ | [sv](/f32/language/sv) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/sv.po | 
+ | [uk](/f32/language/uk) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/uk.po | 
+ | [vi](/f32/language/vi) | 577 | 577 | 100.0 | /mnt/stockage/packages/f32/libgsasl/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 553 | 577 | 95.8 | /mnt/stockage/packages/f32/libgsasl/po/zh_CN.po | 
+ | [ga](/f32/language/ga) | 495 | 577 | 85.8 | /mnt/stockage/packages/f32/libgsasl/po/ga.po | 
+ | [sk](/f32/language/sk) | 495 | 577 | 85.8 | /mnt/stockage/packages/f32/libgsasl/po/sk.po | 
+ | [ro](/f32/language/ro) | 412 | 577 | 71.4 | /mnt/stockage/packages/f32/libgsasl/po/ro.po | 
 {.sortable}
 
 

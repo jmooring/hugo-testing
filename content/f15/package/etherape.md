@@ -18,10 +18,10 @@ The package etherape (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 776 | 1109 | 70.0 | /mnt/stockage/packages/f15/etherape/po/es.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 732 | 1109 | 66.0 | /mnt/stockage/packages/f15/etherape/po/nl.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 323 | 1109 | 29.1 | /mnt/stockage/packages/f15/etherape/po/tr.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 191 | 1109 | 17.2 | /mnt/stockage/packages/f15/etherape/po/fr.po | 
+ | [es](/f15/language/es) | 776 | 1109 | 70.0 | /mnt/stockage/packages/f15/etherape/po/es.po | 
+ | [nl](/f15/language/nl) | 732 | 1109 | 66.0 | /mnt/stockage/packages/f15/etherape/po/nl.po | 
+ | [tr](/f15/language/tr) | 323 | 1109 | 29.1 | /mnt/stockage/packages/f15/etherape/po/tr.po | 
+ | [fr](/f15/language/fr) | 191 | 1109 | 17.2 | /mnt/stockage/packages/f15/etherape/po/fr.po | 
 {.sortable}
 
 

@@ -18,31 +18,31 @@ The package atlantik (version 0.7.80~20230806.git01397fd):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/ca/atlantik.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/ca@valencia/atlantik.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/de/atlantik.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/en_GB/atlantik.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/es/atlantik.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/fr/atlantik.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/gl/atlantik.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/it/atlantik.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/ka/atlantik.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/nl/atlantik.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/pl/atlantik.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/pt/atlantik.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/sl/atlantik.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/sv/atlantik.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/tr/atlantik.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/uk/atlantik.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 547 | 568 | 96.3 | /mnt/stockage/packages/f39/atlantik/po/et/atlantik.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 407 | 568 | 71.7 | /mnt/stockage/packages/f39/atlantik/po/ko/atlantik.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 123 | 568 | 21.7 | /mnt/stockage/packages/f39/atlantik/po/cs/atlantik.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 84 | 568 | 14.8 | /mnt/stockage/packages/f39/atlantik/po/zh_CN/atlantik.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 82 | 568 | 14.4 | /mnt/stockage/packages/f39/atlantik/po/sk/atlantik.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 4 | 568 | 0.7 | /mnt/stockage/packages/f39/atlantik/po/ru/atlantik.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 568 | 0.0 | /mnt/stockage/packages/f39/atlantik/po/ja/atlantik.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 568 | 0.0 | /mnt/stockage/packages/f39/atlantik/po/lt/atlantik.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 0 | 568 | 0.0 | /mnt/stockage/packages/f39/atlantik/po/zh_TW/atlantik.po | 
+ | [ca](/f39/language/ca) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/ca/atlantik.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/ca@valencia/atlantik.po | 
+ | [de](/f39/language/de) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/de/atlantik.po | 
+ | [en_GB](/f39/language/en_GB) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/en_GB/atlantik.po | 
+ | [es](/f39/language/es) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/es/atlantik.po | 
+ | [fr](/f39/language/fr) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/fr/atlantik.po | 
+ | [gl](/f39/language/gl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/gl/atlantik.po | 
+ | [it](/f39/language/it) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/it/atlantik.po | 
+ | [ka](/f39/language/ka) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/ka/atlantik.po | 
+ | [nl](/f39/language/nl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/nl/atlantik.po | 
+ | [pl](/f39/language/pl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/pl/atlantik.po | 
+ | [pt](/f39/language/pt) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/pt/atlantik.po | 
+ | [sl](/f39/language/sl) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/sl/atlantik.po | 
+ | [sv](/f39/language/sv) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/sv/atlantik.po | 
+ | [tr](/f39/language/tr) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/tr/atlantik.po | 
+ | [uk](/f39/language/uk) | 568 | 568 | 100.0 | /mnt/stockage/packages/f39/atlantik/po/uk/atlantik.po | 
+ | [et](/f39/language/et) | 547 | 568 | 96.3 | /mnt/stockage/packages/f39/atlantik/po/et/atlantik.po | 
+ | [ko](/f39/language/ko) | 407 | 568 | 71.7 | /mnt/stockage/packages/f39/atlantik/po/ko/atlantik.po | 
+ | [cs](/f39/language/cs) | 123 | 568 | 21.7 | /mnt/stockage/packages/f39/atlantik/po/cs/atlantik.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 84 | 568 | 14.8 | /mnt/stockage/packages/f39/atlantik/po/zh_CN/atlantik.po | 
+ | [sk](/f39/language/sk) | 82 | 568 | 14.4 | /mnt/stockage/packages/f39/atlantik/po/sk/atlantik.po | 
+ | [ru](/f39/language/ru) | 4 | 568 | 0.7 | /mnt/stockage/packages/f39/atlantik/po/ru/atlantik.po | 
+ | [ja](/f39/language/ja) | 0 | 568 | 0.0 | /mnt/stockage/packages/f39/atlantik/po/ja/atlantik.po | 
+ | [lt](/f39/language/lt) | 0 | 568 | 0.0 | /mnt/stockage/packages/f39/atlantik/po/lt/atlantik.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 0 | 568 | 0.0 | /mnt/stockage/packages/f39/atlantik/po/zh_TW/atlantik.po | 
 {.sortable}
 
 

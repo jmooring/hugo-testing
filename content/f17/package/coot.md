@@ -18,7 +18,7 @@ The package coot (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 912 | 6312 | 14.4 | /mnt/stockage/packages/f17/coot/po/es_ES.po/mnt/stockage/packages/f17/coot/po/es.po | 
+ | [es](/f17/language/es) | 912 | 6312 | 14.4 | /mnt/stockage/packages/f17/coot/po/es_ES.po/mnt/stockage/packages/f17/coot/po/es.po | 
 {.sortable}
 
 

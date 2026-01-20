@@ -18,16 +18,16 @@ The package decibel-audio-player (version 1.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/fr.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/el.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/nn.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1190 | 1423 | 83.6 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/de.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1179 | 1423 | 82.9 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/zh_CN.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1095 | 1423 | 77.0 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/es.po | 
+ | [fr](/f10/language/fr) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/fr.po | 
+ | [el](/f10/language/el) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/el.po | 
+ | [nl](/f10/language/nl) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/nl.po | 
+ | [nn](/f10/language/nn) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/nn.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/ru.po | 
+ | [sv](/f10/language/sv) | 1193 | 1423 | 83.8 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/sv.po | 
+ | [de](/f10/language/de) | 1190 | 1423 | 83.6 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/de.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1179 | 1423 | 82.9 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/zh_CN.po | 
+ | [es](/f10/language/es) | 1095 | 1423 | 77.0 | /mnt/stockage/packages/f10/decibel-audio-player/decibel-audio-player-1.00/po/es.po | 
 {.sortable}
 
 

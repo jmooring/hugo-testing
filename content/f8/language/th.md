@@ -38,143 +38,143 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f8/package/GConf2.md" >}}) | 4032 | 4032 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [NetworkManager]({{< ref "/f8/package/NetworkManager.md" >}}) | 952 | 952 | 100.0 | Thai <l10n@opentle.org> | 
- | [NetworkManager-openvpn]({{< ref "/f8/package/NetworkManager-openvpn.md" >}}) | 392 | 392 | 100.0 | Thai <l10n.opentle.org> | 
- | [NetworkManager-vpnc]({{< ref "/f8/package/NetworkManager-vpnc.md" >}}) | 328 | 328 | 100.0 | Thai <l10n@opentle.org> | 
- | [alacarte]({{< ref "/f8/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Thai <l10n@opentle.org> | 
- | [amarok]({{< ref "/f8/package/amarok.md" >}}) | 13192 | 13192 | 100.0 | Thai <l10n@opentle.org> | 
- | [at-spi]({{< ref "/f8/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Thai <l10n@opentle.org> | 
- | [banshee]({{< ref "/f8/package/banshee.md" >}}) | 2409 | 2409 | 100.0 | Thai <l10n@opentle.org> | 
- | [bug-buddy]({{< ref "/f8/package/bug-buddy.md" >}}) | 972 | 972 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [control-center]({{< ref "/f8/package/control-center.md" >}}) | 3728 | 3728 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [deskbar-applet]({{< ref "/f8/package/deskbar-applet.md" >}}) | 884 | 884 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [devhelp]({{< ref "/f8/package/devhelp.md" >}}) | 309 | 309 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [eel2]({{< ref "/f8/package/eel2.md" >}}) | 226 | 226 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [ekiga]({{< ref "/f8/package/ekiga.md" >}}) | 5167 | 5167 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [eog]({{< ref "/f8/package/eog.md" >}}) | 1025 | 1025 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [epiphany]({{< ref "/f8/package/epiphany.md" >}}) | 4071 | 4071 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [epiphany-extensions]({{< ref "/f8/package/epiphany-extensions.md" >}}) | 1035 | 1035 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evince]({{< ref "/f8/package/evince.md" >}}) | 1012 | 1012 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution-exchange]({{< ref "/f8/package/evolution-exchange.md" >}}) | 1307 | 1307 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution-webcal]({{< ref "/f8/package/evolution-webcal.md" >}}) | 184 | 184 | 100.0 | Thai <L10n@opentle.org> | 
- | [fast-user-switch-applet]({{< ref "/f8/package/fast-user-switch-applet.md" >}}) | 842 | 842 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [file-roller]({{< ref "/f8/package/file-roller.md" >}}) | 1084 | 1084 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gail]({{< ref "/f8/package/gail.md" >}}) | 170 | 170 | 100.0 | Thai <l10n.opentle.org> | 
- | [gcalctool]({{< ref "/f8/package/gcalctool.md" >}}) | 1049 | 1049 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gcompris]({{< ref "/f8/package/gcompris.md" >}}) | 10201 | 10201 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gconf-editor]({{< ref "/f8/package/gconf-editor.md" >}}) | 335 | 335 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gdm]({{< ref "/f8/package/gdm.md" >}}) | 7179 | 7179 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [glib2]({{< ref "/f8/package/glib2.md" >}}) | 1356 | 1356 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f8/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Thai | 
- | [gnome-desktop]({{< ref "/f8/package/gnome-desktop.md" >}}) | 330 | 330 | 100.0 | Thai <L10n@opentle.org> | 
- | [gnome-doc-utils]({{< ref "/f8/package/gnome-doc-utils.md" >}}) | 238 | 238 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f8/package/gnome-icon-theme.md" >}}) | 45 | 45 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-keyring]({{< ref "/f8/package/gnome-keyring.md" >}}) | 661 | 661 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-keyring-manager]({{< ref "/f8/package/gnome-keyring-manager.md" >}}) | 284 | 284 | 100.0 | <l10n@opentle.org> | 
- | [gnome-mag]({{< ref "/f8/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-media]({{< ref "/f8/package/gnome-media.md" >}}) | 1923 | 1923 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f8/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | Thai <l10n@opentle.org> | 
- | [gnome-netstatus]({{< ref "/f8/package/gnome-netstatus.md" >}}) | 425 | 425 | 100.0 | Thai <L10n@opentle.org> | 
- | [gnome-nettool]({{< ref "/f8/package/gnome-nettool.md" >}}) | 545 | 545 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-panel]({{< ref "/f8/package/gnome-panel.md" >}}) | 4606 | 4606 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-power-manager]({{< ref "/f8/package/gnome-power-manager.md" >}}) | 3438 | 3438 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-screensaver]({{< ref "/f8/package/gnome-screensaver.md" >}}) | 991 | 991 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-session]({{< ref "/f8/package/gnome-session.md" >}}) | 888 | 888 | 100.0 | Thai <L10n@opentle.org> | 
- | [gnome-system-monitor]({{< ref "/f8/package/gnome-system-monitor.md" >}}) | 839 | 839 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-terminal]({{< ref "/f8/package/gnome-terminal.md" >}}) | 4599 | 4599 | 100.0 | Thai <L10n@opentle.org> | 
- | [gnome-themes]({{< ref "/f8/package/gnome-themes.md" >}}) | 85 | 85 | 100.0 | Thai <L10n@opentle.org> | 
- | [gnome-utils]({{< ref "/f8/package/gnome-utils.md" >}}) | 4143 | 4143 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-vfs2]({{< ref "/f8/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Thai <L10n@opentle.org> | 
- | [gnome-volume-manager]({{< ref "/f8/package/gnome-volume-manager.md" >}}) | 1169 | 1169 | 100.0 | Thai <l10n@opentle.org> | 
- | [gthumb]({{< ref "/f8/package/gthumb.md" >}}) | 2568 | 2568 | 100.0 | THAI <l10n@opentle.org> | 
- | [gtk2-engines]({{< ref "/f8/package/gtk2-engines.md" >}}) | 83 | 83 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gtkhtml3]({{< ref "/f8/package/gtkhtml3.md" >}}) | 920 | 920 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [gtkhtml38]({{< ref "/f8/package/gtkhtml38.md" >}}) | 915 | 915 | 100.0 | Thai <l10n@opentle.org> | 
- | [gtranslator]({{< ref "/f8/package/gtranslator.md" >}}) | 1370 | 1370 | 100.0 | Thai <l10n@opentle.org> | 
- | [libbonobo]({{< ref "/f8/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libbonoboui]({{< ref "/f8/package/libbonoboui.md" >}}) | 361 | 361 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnome]({{< ref "/f8/package/libgnome.md" >}}) | 1656 | 1656 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnomecanvas]({{< ref "/f8/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnomecups]({{< ref "/f8/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Thai <l10n@opentle.org> | 
- | [libgnomekbd]({{< ref "/f8/package/libgnomekbd.md" >}}) | 262 | 262 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [libgnomeprint22]({{< ref "/f8/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Thai <L10n@opentle.org> | 
- | [libgnomeprintui22]({{< ref "/f8/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Thai <L10n@opentle.org> | 
- | [libgnomeui]({{< ref "/f8/package/libgnomeui.md" >}}) | 1335 | 1335 | 100.0 | Thai <L10n@opentle.org> | 
- | [libgtop2]({{< ref "/f8/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Thai <l10n@opentle.org> | 
- | [libwnck]({{< ref "/f8/package/libwnck.md" >}}) | 1122 | 1122 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [metacity]({{< ref "/f8/package/metacity.md" >}}) | 8059 | 8059 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [muine]({{< ref "/f8/package/muine.md" >}}) | 488 | 488 | 100.0 | Thai <l10n@opentle.org> | 
- | [nautilus]({{< ref "/f8/package/nautilus.md" >}}) | 6969 | 6969 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [nautilus-actions]({{< ref "/f8/package/nautilus-actions.md" >}}) | 1555 | 1555 | 100.0 | Thai <l10n.opentle.org> | 
- | [nautilus-cd-burner]({{< ref "/f8/package/nautilus-cd-burner.md" >}}) | 1306 | 1306 | 100.0 | Thai <L10n@opentle.org> | 
- | [nautilus-open-terminal]({{< ref "/f8/package/nautilus-open-terminal.md" >}}) | 24 | 24 | 100.0 | Thai <L10N@opentle.org> | 
- | [nautilus-sendto]({{< ref "/f8/package/nautilus-sendto.md" >}}) | 85 | 85 | 100.0 | Thai <l10n@opentle.org> | 
- | [newt]({{< ref "/f8/package/newt.md" >}}) | 4 | 4 | 100.0 | Thai <l10n@opentle.org> | 
- | [pessulus]({{< ref "/f8/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Thai <l10n@opentle.org> | 
- | [rhythmbox]({{< ref "/f8/package/rhythmbox.md" >}}) | 2664 | 2664 | 100.0 | Thai <l10n@opentle.org> | 
- | [sabayon]({{< ref "/f8/package/sabayon.md" >}}) | 1178 | 1178 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [seahorse]({{< ref "/f8/package/seahorse.md" >}}) | 3630 | 3630 | 100.0 | Thai <l10n@opentle.org> | 
- | [sound-juicer]({{< ref "/f8/package/sound-juicer.md" >}}) | 861 | 861 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [system-config-keyboard]({{< ref "/f8/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Thai <l10n@opentle.org> | 
- | [system-config-language]({{< ref "/f8/package/system-config-language.md" >}}) | 45 | 45 | 100.0 | Thai <l10n@opentle.org> | 
- | [tomboy]({{< ref "/f8/package/tomboy.md" >}}) | 2319 | 2319 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [totem]({{< ref "/f8/package/totem.md" >}}) | 1970 | 1970 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [vino]({{< ref "/f8/package/vino.md" >}}) | 838 | 838 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [vte]({{< ref "/f8/package/vte.md" >}}) | 116 | 116 | 100.0 | Thai <l10n@opentle.org> | 
- | [xdg-user-dirs]({{< ref "/f8/package/xdg-user-dirs.md" >}}) | 26 | 26 | 100.0 | Thai | 
- | [yelp]({{< ref "/f8/package/yelp.md" >}}) | 837 | 837 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [zenity]({{< ref "/f8/package/zenity.md" >}}) | 559 | 559 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
- | [dasher]({{< ref "/f8/package/dasher.md" >}}) | 441 | 443 | 99.5 | Thai <thai-l10n@googlegroups.com> | 
- | [gedit]({{< ref "/f8/package/gedit.md" >}}) | 5070 | 5095 | 99.5 | Thai <thai-l10n@googlegroups.com> | 
- | [tuxpaint]({{< ref "/f8/package/tuxpaint.md" >}}) | 587 | 591 | 99.3 |  | 
- | [gtksourceview2]({{< ref "/f8/package/gtksourceview2.md" >}}) | 820 | 826 | 99.3 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3807 | 3838 | 99.2 | Thai <thai-10n@googlegroups.com> | 
- | [kerry]({{< ref "/f8/package/kerry.md" >}}) | 482 | 486 | 99.2 | Thai <l10n@opentle.org> | 
- | [system-config-soundcard]({{< ref "/f8/package/system-config-soundcard.md" >}}) | 221 | 224 | 98.7 | Thai <l10n@opentle.org> | 
- | [poedit]({{< ref "/f8/package/poedit.md" >}}) | 1116 | 1134 | 98.4 | LANGUAGE <LL@li.org> | 
- | [gnome-games]({{< ref "/f8/package/gnome-games.md" >}}) | 7208 | 7325 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
- | [evolution]({{< ref "/f8/package/evolution.md" >}}) | 19763 | 20088 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
- | [gwenview]({{< ref "/f8/package/gwenview.md" >}}) | 1289 | 1321 | 97.6 | Thai <l10n@opentle.org> | 
- | [atk]({{< ref "/f8/package/atk.md" >}}) | 360 | 370 | 97.3 | Thai <thai-l10n@googlegroups.com> | 
- | [gnome-mime-data]({{< ref "/f8/package/gnome-mime-data.md" >}}) | 860 | 887 | 97.0 | Thai <L10n@opentle.org> | 
- | [evolution-data-server]({{< ref "/f8/package/evolution-data-server.md" >}}) | 4874 | 5044 | 96.6 | Thai <thai-l10n@googlegroups.com> | 
- | [gucharmap]({{< ref "/f8/package/gucharmap.md" >}}) | 736 | 776 | 94.8 | Thai <l10n> | 
- | [gtksourceview]({{< ref "/f8/package/gtksourceview.md" >}}) | 820 | 891 | 92.0 | Thai <l10n@opentle.org> | 
- | [redhat-menus]({{< ref "/f8/package/redhat-menus.md" >}}) | 240 | 261 | 92.0 | Thai <l10n@opentle.org> | 
- | [orca]({{< ref "/f8/package/orca.md" >}}) | 2251 | 2487 | 90.5 | Thai <thai-l10n@googlegroups.com> | 
- | [firstboot]({{< ref "/f8/package/firstboot.md" >}}) | 499 | 598 | 83.4 | Thai <l10n@opentle.org> | 
- | [xmms]({{< ref "/f8/package/xmms.md" >}}) | 2684 | 3245 | 82.7 | Thai <l10n@opentle.org> | 
- | [kipi-plugins]({{< ref "/f8/package/kipi-plugins.md" >}}) | 10535 | 13316 | 79.1 | Thai <l10n@opentle.org> | 
- | [rhgb]({{< ref "/f8/package/rhgb.md" >}}) | 95 | 121 | 78.5 | Thai <l10n@opentle.org> | 
- | [setuptool]({{< ref "/f8/package/setuptool.md" >}}) | 44 | 60 | 73.3 | Thai <l10n@opentle.org> | 
- | [tuxpaint-stamps]({{< ref "/f8/package/tuxpaint-stamps.md" >}}) | 1321 | 1908 | 69.2 | <l10n@opentle.org> | 
- | [gftp]({{< ref "/f8/package/gftp.md" >}}) | 2139 | 3372 | 63.4 | Thai <L10n@opentle.org> | 
- | [libvirt]({{< ref "/f8/package/libvirt.md" >}}) | 1290 | 2297 | 56.2 | none | 
- | [anaconda]({{< ref "/f8/package/anaconda.md" >}}) | 5475 | 10203 | 53.7 | Thai <L10N@OpenTLE.org> | 
- | [beagle]({{< ref "/f8/package/beagle.md" >}}) | 440 | 881 | 49.9 | Thai <l10n.opentle.org> | 
- | [digikam]({{< ref "/f8/package/digikam.md" >}}) | 7642 | 15937 | 48.0 | Thai <l10n@opentle.org> | 
- | [libkdcraw]({{< ref "/f8/package/libkdcraw.md" >}}) | 386 | 875 | 44.1 | Thai <l10n@opentle.org> | 
- | [gok]({{< ref "/f8/package/gok.md" >}}) | 720 | 1942 | 37.1 | Thai <thai-l10n@googlegroups.com> | 
- | [inkscape]({{< ref "/f8/package/inkscape.md" >}}) | 4233 | 11648 | 36.3 | Thai <l10n.opentle.org> | 
- | [f-spot]({{< ref "/f8/package/f-spot.md" >}}) | 525 | 1617 | 32.5 | Thai <l10n@opentle.org> | 
- | [Miro]({{< ref "/f8/package/Miro.md" >}}) | 915 | 3060 | 29.9 | Thai <th@li.org> | 
- | [gqview]({{< ref "/f8/package/gqview.md" >}}) | 513 | 1721 | 29.8 | thai <th@li.org> | 
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 3524 | 12092 | 29.1 | Thai <thai-l10n@googlegroups.com> | 
- | [dia]({{< ref "/f8/package/dia.md" >}}) | 1489 | 5711 | 26.1 | Thai <l10n@opentle.org> | 
- | [system-config-date]({{< ref "/f8/package/system-config-date.md" >}}) | 78 | 446 | 17.5 | Thai <L10N@OpenTLE.org> | 
- | [imp]({{< ref "/f8/package/imp.md" >}}) | 900 | 5590 | 16.1 | i18n@lists.horde.org | 
- | [pidgin]({{< ref "/f8/package/pidgin.md" >}}) | 2262 | 15654 | 14.4 | Thai <l10n@opentle.org> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 2652 | 19041 | 13.9 | Thai | 
- | [ksynaptics]({{< ref "/f8/package/ksynaptics.md" >}}) | 87 | 655 | 13.3 | Thai <l10n@opentle.org> | 
- | [bittorrent]({{< ref "/f8/package/bittorrent.md" >}}) | 487 | 3906 | 12.5 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f8/package/gourmet.md" >}}) | 321 | 3526 | 9.1 | Thai <th@li.org> | 
- | [gedit-plugins]({{< ref "/f8/package/gedit-plugins.md" >}}) | 0 | 3628 | 0.0 | Thai <gnome-th-devel@lists.sourceforge.net> | 
- | [im-chooser]({{< ref "/f8/package/im-chooser.md" >}}) | 0 | 172 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f8/package/policycoreutils.md" >}}) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f8/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f8/package/setroubleshoot.md" >}}) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f8/package/setroubleshoot-plugins.md" >}}) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [GConf2](/f8/package/GConf2) | 4032 | 4032 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [NetworkManager](/f8/package/NetworkManager) | 952 | 952 | 100.0 | Thai <l10n@opentle.org> | 
+ | [NetworkManager-openvpn](/f8/package/NetworkManager-openvpn) | 392 | 392 | 100.0 | Thai <l10n.opentle.org> | 
+ | [NetworkManager-vpnc](/f8/package/NetworkManager-vpnc) | 328 | 328 | 100.0 | Thai <l10n@opentle.org> | 
+ | [alacarte](/f8/package/alacarte) | 42 | 42 | 100.0 | Thai <l10n@opentle.org> | 
+ | [amarok](/f8/package/amarok) | 13192 | 13192 | 100.0 | Thai <l10n@opentle.org> | 
+ | [at-spi](/f8/package/at-spi) | 4 | 4 | 100.0 | Thai <l10n@opentle.org> | 
+ | [banshee](/f8/package/banshee) | 2409 | 2409 | 100.0 | Thai <l10n@opentle.org> | 
+ | [bug-buddy](/f8/package/bug-buddy) | 972 | 972 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [control-center](/f8/package/control-center) | 3728 | 3728 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [deskbar-applet](/f8/package/deskbar-applet) | 884 | 884 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [devhelp](/f8/package/devhelp) | 309 | 309 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [eel2](/f8/package/eel2) | 226 | 226 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [ekiga](/f8/package/ekiga) | 5167 | 5167 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [eog](/f8/package/eog) | 1025 | 1025 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [epiphany](/f8/package/epiphany) | 4071 | 4071 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [epiphany-extensions](/f8/package/epiphany-extensions) | 1035 | 1035 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evince](/f8/package/evince) | 1012 | 1012 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution-exchange](/f8/package/evolution-exchange) | 1307 | 1307 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution-webcal](/f8/package/evolution-webcal) | 184 | 184 | 100.0 | Thai <L10n@opentle.org> | 
+ | [fast-user-switch-applet](/f8/package/fast-user-switch-applet) | 842 | 842 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [file-roller](/f8/package/file-roller) | 1084 | 1084 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gail](/f8/package/gail) | 170 | 170 | 100.0 | Thai <l10n.opentle.org> | 
+ | [gcalctool](/f8/package/gcalctool) | 1049 | 1049 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gcompris](/f8/package/gcompris) | 10201 | 10201 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gconf-editor](/f8/package/gconf-editor) | 335 | 335 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gdm](/f8/package/gdm) | 7179 | 7179 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [glib2](/f8/package/glib2) | 1356 | 1356 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-backgrounds](/f8/package/gnome-backgrounds) | 18 | 18 | 100.0 | Thai | 
+ | [gnome-desktop](/f8/package/gnome-desktop) | 330 | 330 | 100.0 | Thai <L10n@opentle.org> | 
+ | [gnome-doc-utils](/f8/package/gnome-doc-utils) | 238 | 238 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-icon-theme](/f8/package/gnome-icon-theme) | 45 | 45 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-keyring](/f8/package/gnome-keyring) | 661 | 661 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-keyring-manager](/f8/package/gnome-keyring-manager) | 284 | 284 | 100.0 | <l10n@opentle.org> | 
+ | [gnome-mag](/f8/package/gnome-mag) | 298 | 298 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-media](/f8/package/gnome-media) | 1923 | 1923 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-menus](/f8/package/gnome-menus) | 165 | 165 | 100.0 | Thai <l10n@opentle.org> | 
+ | [gnome-netstatus](/f8/package/gnome-netstatus) | 425 | 425 | 100.0 | Thai <L10n@opentle.org> | 
+ | [gnome-nettool](/f8/package/gnome-nettool) | 545 | 545 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-panel](/f8/package/gnome-panel) | 4606 | 4606 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-power-manager](/f8/package/gnome-power-manager) | 3438 | 3438 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-screensaver](/f8/package/gnome-screensaver) | 991 | 991 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-session](/f8/package/gnome-session) | 888 | 888 | 100.0 | Thai <L10n@opentle.org> | 
+ | [gnome-system-monitor](/f8/package/gnome-system-monitor) | 839 | 839 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-terminal](/f8/package/gnome-terminal) | 4599 | 4599 | 100.0 | Thai <L10n@opentle.org> | 
+ | [gnome-themes](/f8/package/gnome-themes) | 85 | 85 | 100.0 | Thai <L10n@opentle.org> | 
+ | [gnome-utils](/f8/package/gnome-utils) | 4143 | 4143 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-vfs2](/f8/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Thai <L10n@opentle.org> | 
+ | [gnome-volume-manager](/f8/package/gnome-volume-manager) | 1169 | 1169 | 100.0 | Thai <l10n@opentle.org> | 
+ | [gthumb](/f8/package/gthumb) | 2568 | 2568 | 100.0 | THAI <l10n@opentle.org> | 
+ | [gtk2-engines](/f8/package/gtk2-engines) | 83 | 83 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtkhtml3](/f8/package/gtkhtml3) | 920 | 920 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [gtkhtml38](/f8/package/gtkhtml38) | 915 | 915 | 100.0 | Thai <l10n@opentle.org> | 
+ | [gtranslator](/f8/package/gtranslator) | 1370 | 1370 | 100.0 | Thai <l10n@opentle.org> | 
+ | [libbonobo](/f8/package/libbonobo) | 543 | 543 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libbonoboui](/f8/package/libbonoboui) | 361 | 361 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnome](/f8/package/libgnome) | 1656 | 1656 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnomecanvas](/f8/package/libgnomecanvas) | 378 | 378 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnomecups](/f8/package/libgnomecups) | 11 | 11 | 100.0 | Thai <l10n@opentle.org> | 
+ | [libgnomekbd](/f8/package/libgnomekbd) | 262 | 262 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [libgnomeprint22](/f8/package/libgnomeprint22) | 168 | 168 | 100.0 | Thai <L10n@opentle.org> | 
+ | [libgnomeprintui22](/f8/package/libgnomeprintui22) | 481 | 481 | 100.0 | Thai <L10n@opentle.org> | 
+ | [libgnomeui](/f8/package/libgnomeui) | 1335 | 1335 | 100.0 | Thai <L10n@opentle.org> | 
+ | [libgtop2](/f8/package/libgtop2) | 126 | 126 | 100.0 | Thai <l10n@opentle.org> | 
+ | [libwnck](/f8/package/libwnck) | 1122 | 1122 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [metacity](/f8/package/metacity) | 8059 | 8059 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [muine](/f8/package/muine) | 488 | 488 | 100.0 | Thai <l10n@opentle.org> | 
+ | [nautilus](/f8/package/nautilus) | 6969 | 6969 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [nautilus-actions](/f8/package/nautilus-actions) | 1555 | 1555 | 100.0 | Thai <l10n.opentle.org> | 
+ | [nautilus-cd-burner](/f8/package/nautilus-cd-burner) | 1306 | 1306 | 100.0 | Thai <L10n@opentle.org> | 
+ | [nautilus-open-terminal](/f8/package/nautilus-open-terminal) | 24 | 24 | 100.0 | Thai <L10N@opentle.org> | 
+ | [nautilus-sendto](/f8/package/nautilus-sendto) | 85 | 85 | 100.0 | Thai <l10n@opentle.org> | 
+ | [newt](/f8/package/newt) | 4 | 4 | 100.0 | Thai <l10n@opentle.org> | 
+ | [pessulus](/f8/package/pessulus) | 88 | 88 | 100.0 | Thai <l10n@opentle.org> | 
+ | [rhythmbox](/f8/package/rhythmbox) | 2664 | 2664 | 100.0 | Thai <l10n@opentle.org> | 
+ | [sabayon](/f8/package/sabayon) | 1178 | 1178 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [seahorse](/f8/package/seahorse) | 3630 | 3630 | 100.0 | Thai <l10n@opentle.org> | 
+ | [sound-juicer](/f8/package/sound-juicer) | 861 | 861 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [system-config-keyboard](/f8/package/system-config-keyboard) | 78 | 78 | 100.0 | Thai <l10n@opentle.org> | 
+ | [system-config-language](/f8/package/system-config-language) | 45 | 45 | 100.0 | Thai <l10n@opentle.org> | 
+ | [tomboy](/f8/package/tomboy) | 2319 | 2319 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [totem](/f8/package/totem) | 1970 | 1970 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [vino](/f8/package/vino) | 838 | 838 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [vte](/f8/package/vte) | 116 | 116 | 100.0 | Thai <l10n@opentle.org> | 
+ | [xdg-user-dirs](/f8/package/xdg-user-dirs) | 26 | 26 | 100.0 | Thai | 
+ | [yelp](/f8/package/yelp) | 837 | 837 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [zenity](/f8/package/zenity) | 559 | 559 | 100.0 | Thai <thai-l10n@googlegroups.com> | 
+ | [dasher](/f8/package/dasher) | 441 | 443 | 99.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [gedit](/f8/package/gedit) | 5070 | 5095 | 99.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [tuxpaint](/f8/package/tuxpaint) | 587 | 591 | 99.3 |  | 
+ | [gtksourceview2](/f8/package/gtksourceview2) | 820 | 826 | 99.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3807 | 3838 | 99.2 | Thai <thai-10n@googlegroups.com> | 
+ | [kerry](/f8/package/kerry) | 482 | 486 | 99.2 | Thai <l10n@opentle.org> | 
+ | [system-config-soundcard](/f8/package/system-config-soundcard) | 221 | 224 | 98.7 | Thai <l10n@opentle.org> | 
+ | [poedit](/f8/package/poedit) | 1116 | 1134 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [gnome-games](/f8/package/gnome-games) | 7208 | 7325 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [evolution](/f8/package/evolution) | 19763 | 20088 | 98.4 | Thai <thai-l10n@googlegroups.com> | 
+ | [gwenview](/f8/package/gwenview) | 1289 | 1321 | 97.6 | Thai <l10n@opentle.org> | 
+ | [atk](/f8/package/atk) | 360 | 370 | 97.3 | Thai <thai-l10n@googlegroups.com> | 
+ | [gnome-mime-data](/f8/package/gnome-mime-data) | 860 | 887 | 97.0 | Thai <L10n@opentle.org> | 
+ | [evolution-data-server](/f8/package/evolution-data-server) | 4874 | 5044 | 96.6 | Thai <thai-l10n@googlegroups.com> | 
+ | [gucharmap](/f8/package/gucharmap) | 736 | 776 | 94.8 | Thai <l10n> | 
+ | [gtksourceview](/f8/package/gtksourceview) | 820 | 891 | 92.0 | Thai <l10n@opentle.org> | 
+ | [redhat-menus](/f8/package/redhat-menus) | 240 | 261 | 92.0 | Thai <l10n@opentle.org> | 
+ | [orca](/f8/package/orca) | 2251 | 2487 | 90.5 | Thai <thai-l10n@googlegroups.com> | 
+ | [firstboot](/f8/package/firstboot) | 499 | 598 | 83.4 | Thai <l10n@opentle.org> | 
+ | [xmms](/f8/package/xmms) | 2684 | 3245 | 82.7 | Thai <l10n@opentle.org> | 
+ | [kipi-plugins](/f8/package/kipi-plugins) | 10535 | 13316 | 79.1 | Thai <l10n@opentle.org> | 
+ | [rhgb](/f8/package/rhgb) | 95 | 121 | 78.5 | Thai <l10n@opentle.org> | 
+ | [setuptool](/f8/package/setuptool) | 44 | 60 | 73.3 | Thai <l10n@opentle.org> | 
+ | [tuxpaint-stamps](/f8/package/tuxpaint-stamps) | 1321 | 1908 | 69.2 | <l10n@opentle.org> | 
+ | [gftp](/f8/package/gftp) | 2139 | 3372 | 63.4 | Thai <L10n@opentle.org> | 
+ | [libvirt](/f8/package/libvirt) | 1290 | 2297 | 56.2 | none | 
+ | [anaconda](/f8/package/anaconda) | 5475 | 10203 | 53.7 | Thai <L10N@OpenTLE.org> | 
+ | [beagle](/f8/package/beagle) | 440 | 881 | 49.9 | Thai <l10n.opentle.org> | 
+ | [digikam](/f8/package/digikam) | 7642 | 15937 | 48.0 | Thai <l10n@opentle.org> | 
+ | [libkdcraw](/f8/package/libkdcraw) | 386 | 875 | 44.1 | Thai <l10n@opentle.org> | 
+ | [gok](/f8/package/gok) | 720 | 1942 | 37.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [inkscape](/f8/package/inkscape) | 4233 | 11648 | 36.3 | Thai <l10n.opentle.org> | 
+ | [f-spot](/f8/package/f-spot) | 525 | 1617 | 32.5 | Thai <l10n@opentle.org> | 
+ | [Miro](/f8/package/Miro) | 915 | 3060 | 29.9 | Thai <th@li.org> | 
+ | [gqview](/f8/package/gqview) | 513 | 1721 | 29.8 | thai <th@li.org> | 
+ | [gtk2](/f8/package/gtk2) | 3524 | 12092 | 29.1 | Thai <thai-l10n@googlegroups.com> | 
+ | [dia](/f8/package/dia) | 1489 | 5711 | 26.1 | Thai <l10n@opentle.org> | 
+ | [system-config-date](/f8/package/system-config-date) | 78 | 446 | 17.5 | Thai <L10N@OpenTLE.org> | 
+ | [imp](/f8/package/imp) | 900 | 5590 | 16.1 | i18n@lists.horde.org | 
+ | [pidgin](/f8/package/pidgin) | 2262 | 15654 | 14.4 | Thai <l10n@opentle.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 2652 | 19041 | 13.9 | Thai | 
+ | [ksynaptics](/f8/package/ksynaptics) | 87 | 655 | 13.3 | Thai <l10n@opentle.org> | 
+ | [bittorrent](/f8/package/bittorrent) | 487 | 3906 | 12.5 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f8/package/gourmet) | 321 | 3526 | 9.1 | Thai <th@li.org> | 
+ | [gedit-plugins](/f8/package/gedit-plugins) | 0 | 3628 | 0.0 | Thai <gnome-th-devel@lists.sourceforge.net> | 
+ | [im-chooser](/f8/package/im-chooser) | 0 | 172 | 0.0 | none | 
+ | [policycoreutils](/f8/package/policycoreutils) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f8/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f8/package/setroubleshoot) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f8/package/setroubleshoot-plugins) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

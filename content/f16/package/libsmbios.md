@@ -18,17 +18,17 @@ The package libsmbios (version 2.2.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f16/language/error.md" >}}) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f16/libsmbios/po/en@boldquot.po/mnt/stockage/packages/f16/libsmbios/po/en@quot.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1428 | 1630 | 87.6 | /mnt/stockage/packages/f16/libsmbios/po/es.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 141 | 1630 | 8.7 | /mnt/stockage/packages/f16/libsmbios/po/en.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/ko.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/nl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/zh_TW.po | 
+ | [error](/f16/language/error) | 3260 | 3260 | 100.0 | /mnt/stockage/packages/f16/libsmbios/po/en@boldquot.po/mnt/stockage/packages/f16/libsmbios/po/en@quot.po | 
+ | [es](/f16/language/es) | 1428 | 1630 | 87.6 | /mnt/stockage/packages/f16/libsmbios/po/es.po | 
+ | [en](/f16/language/en) | 141 | 1630 | 8.7 | /mnt/stockage/packages/f16/libsmbios/po/en.po | 
+ | [de](/f16/language/de) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/de.po | 
+ | [fr](/f16/language/fr) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/fr.po | 
+ | [it](/f16/language/it) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/it.po | 
+ | [ja](/f16/language/ja) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/ja.po | 
+ | [ko](/f16/language/ko) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/ko.po | 
+ | [nl](/f16/language/nl) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/nl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 0 | 1630 | 0.0 | /mnt/stockage/packages/f16/libsmbios/po/zh_TW.po | 
 {.sortable}
 
 

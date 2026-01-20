@@ -18,14 +18,14 @@ The package python-virtinst (version 0.400.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2462 | 2930 | 84.0 | /mnt/stockage/packages/f10/python-virtinst/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1989 | 2930 | 67.9 | /mnt/stockage/packages/f10/python-virtinst/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1989 | 2930 | 67.9 | /mnt/stockage/packages/f10/python-virtinst/po/zh_CN.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 957 | 2930 | 32.7 | /mnt/stockage/packages/f10/python-virtinst/po/it.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 957 | 2930 | 32.7 | /mnt/stockage/packages/f10/python-virtinst/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 957 | 2930 | 32.7 | /mnt/stockage/packages/f10/python-virtinst/po/sr@latin.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 919 | 2930 | 31.4 | /mnt/stockage/packages/f10/python-virtinst/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 664 | 2930 | 22.7 | /mnt/stockage/packages/f10/python-virtinst/po/ja.po | 
+ | [pl](/f10/language/pl) | 2462 | 2930 | 84.0 | /mnt/stockage/packages/f10/python-virtinst/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1989 | 2930 | 67.9 | /mnt/stockage/packages/f10/python-virtinst/po/pt_BR.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1989 | 2930 | 67.9 | /mnt/stockage/packages/f10/python-virtinst/po/zh_CN.po | 
+ | [it](/f10/language/it) | 957 | 2930 | 32.7 | /mnt/stockage/packages/f10/python-virtinst/po/it.po | 
+ | [sr](/f10/language/sr) | 957 | 2930 | 32.7 | /mnt/stockage/packages/f10/python-virtinst/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 957 | 2930 | 32.7 | /mnt/stockage/packages/f10/python-virtinst/po/sr@latin.po | 
+ | [fr](/f10/language/fr) | 919 | 2930 | 31.4 | /mnt/stockage/packages/f10/python-virtinst/po/fr.po | 
+ | [ja](/f10/language/ja) | 664 | 2930 | 22.7 | /mnt/stockage/packages/f10/python-virtinst/po/ja.po | 
 {.sortable}
 
 

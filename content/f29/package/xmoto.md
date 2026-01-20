@@ -18,30 +18,30 @@ The package xmoto (version 0.5.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 3839 | 3839 | 100.0 | /mnt/stockage/packages/f29/xmoto/po/fr_FR.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 3829 | 3839 | 99.7 | /mnt/stockage/packages/f29/xmoto/po/pt_PT.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/da_DK.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/de_DE.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/gl_ES.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/hu_HU.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/pt_BR.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/sk_SK.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 3790 | 3839 | 98.7 | /mnt/stockage/packages/f29/xmoto/po/it_IT.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 3763 | 3839 | 98.0 | /mnt/stockage/packages/f29/xmoto/po/tr_TR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 3760 | 3839 | 97.9 | /mnt/stockage/packages/f29/xmoto/po/ru_RU.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 3481 | 3839 | 90.7 | /mnt/stockage/packages/f29/xmoto/po/fi_FI.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 3446 | 3839 | 89.8 | /mnt/stockage/packages/f29/xmoto/po/lt_LT.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 3355 | 3839 | 87.4 | /mnt/stockage/packages/f29/xmoto/po/sv_SE.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 3320 | 3839 | 86.5 | /mnt/stockage/packages/f29/xmoto/po/nl_NL.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 3310 | 3839 | 86.2 | /mnt/stockage/packages/f29/xmoto/po/zh_TW.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 3300 | 3839 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/ca_ES.po | 
- | [ca_AD]({{< ref "/f29/language/ca_AD.md" >}}) | 3300 | 3839 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/ca_AD.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 6600 | 7678 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/ca_IT.po/mnt/stockage/packages/f29/xmoto/po/ca_FR.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 3300 | 3839 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/es_ES.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 2961 | 3839 | 77.1 | /mnt/stockage/packages/f29/xmoto/po/cs_CZ.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 2697 | 3839 | 70.3 | /mnt/stockage/packages/f29/xmoto/po/lv_LV.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 2666 | 3839 | 69.4 | /mnt/stockage/packages/f29/xmoto/po/pl_PL.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 3530 | 7678 | 46.0 | /mnt/stockage/packages/f29/xmoto/po/nn_NO.po/mnt/stockage/packages/f29/xmoto/po/nb_NO.po | 
+ | [fr](/f29/language/fr) | 3839 | 3839 | 100.0 | /mnt/stockage/packages/f29/xmoto/po/fr_FR.po | 
+ | [pt](/f29/language/pt) | 3829 | 3839 | 99.7 | /mnt/stockage/packages/f29/xmoto/po/pt_PT.po | 
+ | [da](/f29/language/da) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/da_DK.po | 
+ | [de](/f29/language/de) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/de_DE.po | 
+ | [gl](/f29/language/gl) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/gl_ES.po | 
+ | [hu](/f29/language/hu) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/hu_HU.po | 
+ | [pt_BR](/f29/language/pt_BR) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/pt_BR.po | 
+ | [sk](/f29/language/sk) | 3794 | 3839 | 98.8 | /mnt/stockage/packages/f29/xmoto/po/sk_SK.po | 
+ | [it](/f29/language/it) | 3790 | 3839 | 98.7 | /mnt/stockage/packages/f29/xmoto/po/it_IT.po | 
+ | [tr](/f29/language/tr) | 3763 | 3839 | 98.0 | /mnt/stockage/packages/f29/xmoto/po/tr_TR.po | 
+ | [ru](/f29/language/ru) | 3760 | 3839 | 97.9 | /mnt/stockage/packages/f29/xmoto/po/ru_RU.po | 
+ | [fi](/f29/language/fi) | 3481 | 3839 | 90.7 | /mnt/stockage/packages/f29/xmoto/po/fi_FI.po | 
+ | [lt](/f29/language/lt) | 3446 | 3839 | 89.8 | /mnt/stockage/packages/f29/xmoto/po/lt_LT.po | 
+ | [sv](/f29/language/sv) | 3355 | 3839 | 87.4 | /mnt/stockage/packages/f29/xmoto/po/sv_SE.po | 
+ | [nl](/f29/language/nl) | 3320 | 3839 | 86.5 | /mnt/stockage/packages/f29/xmoto/po/nl_NL.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 3310 | 3839 | 86.2 | /mnt/stockage/packages/f29/xmoto/po/zh_TW.po | 
+ | [ca](/f29/language/ca) | 3300 | 3839 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/ca_ES.po | 
+ | [ca_AD](/f29/language/ca_AD) | 3300 | 3839 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/ca_AD.po | 
+ | [error](/f29/language/error) | 6600 | 7678 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/ca_IT.po/mnt/stockage/packages/f29/xmoto/po/ca_FR.po | 
+ | [es](/f29/language/es) | 3300 | 3839 | 86.0 | /mnt/stockage/packages/f29/xmoto/po/es_ES.po | 
+ | [cs](/f29/language/cs) | 2961 | 3839 | 77.1 | /mnt/stockage/packages/f29/xmoto/po/cs_CZ.po | 
+ | [lv](/f29/language/lv) | 2697 | 3839 | 70.3 | /mnt/stockage/packages/f29/xmoto/po/lv_LV.po | 
+ | [pl](/f29/language/pl) | 2666 | 3839 | 69.4 | /mnt/stockage/packages/f29/xmoto/po/pl_PL.po | 
+ | [en](/f29/language/en) | 3530 | 7678 | 46.0 | /mnt/stockage/packages/f29/xmoto/po/nn_NO.po/mnt/stockage/packages/f29/xmoto/po/nb_NO.po | 
 {.sortable}
 
 

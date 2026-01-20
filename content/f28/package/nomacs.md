@@ -18,21 +18,21 @@ The package nomacs (version 3.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 35453 | 35683 | 99.4 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/sv.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 28533 | 35683 | 80.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/ms.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 27133 | 35683 | 76.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/es.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 23853 | 35683 | 66.8 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/bs.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 18362 | 35683 | 51.5 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/gl.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 13575 | 35683 | 38.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/de.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 12478 | 35683 | 35.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 11917 | 35683 | 33.4 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/pt.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 9139 | 35683 | 25.6 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/sk.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 7475 | 35683 | 20.9 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/uk.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 5010 | 35683 | 14.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/fr.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 4699 | 35683 | 13.2 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/ug.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 3358 | 35683 | 9.4 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/vi.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3317 | 35683 | 9.3 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/ru.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 423 | 35683 | 1.2 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/fi.po | 
+ | [sv](/f28/language/sv) | 35453 | 35683 | 99.4 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/sv.po | 
+ | [ms](/f28/language/ms) | 28533 | 35683 | 80.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/ms.po | 
+ | [es](/f28/language/es) | 27133 | 35683 | 76.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/es.po | 
+ | [bs](/f28/language/bs) | 23853 | 35683 | 66.8 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/bs.po | 
+ | [gl](/f28/language/gl) | 18362 | 35683 | 51.5 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/gl.po | 
+ | [de](/f28/language/de) | 13575 | 35683 | 38.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/de.po | 
+ | [pl](/f28/language/pl) | 12478 | 35683 | 35.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 11917 | 35683 | 33.4 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/pt.po | 
+ | [sk](/f28/language/sk) | 9139 | 35683 | 25.6 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/sk.po | 
+ | [uk](/f28/language/uk) | 7475 | 35683 | 20.9 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/uk.po | 
+ | [fr](/f28/language/fr) | 5010 | 35683 | 14.0 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/fr.po | 
+ | [ug](/f28/language/ug) | 4699 | 35683 | 13.2 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/ug.po | 
+ | [vi](/f28/language/vi) | 3358 | 35683 | 9.4 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/vi.po | 
+ | [ru](/f28/language/ru) | 3317 | 35683 | 9.3 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/ru.po | 
+ | [fi](/f28/language/fi) | 423 | 35683 | 1.2 | /mnt/stockage/packages/f28/nomacs/exiv2-0.25/po/fi.po | 
 {.sortable}
 
 

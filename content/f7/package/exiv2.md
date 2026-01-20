@@ -18,12 +18,12 @@ The package exiv2 (version 0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 6934 | 10221 | 67.8 | /mnt/stockage/packages/f7/exiv2/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 4624 | 10221 | 45.2 | /mnt/stockage/packages/f7/exiv2/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 3069 | 10221 | 30.0 | /mnt/stockage/packages/f7/exiv2/po/ru.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2337 | 10221 | 22.9 | /mnt/stockage/packages/f7/exiv2/po/pl.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2214 | 10221 | 21.7 | /mnt/stockage/packages/f7/exiv2/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 42 | 10221 | 0.4 | /mnt/stockage/packages/f7/exiv2/po/fi.po | 
+ | [de](/f7/language/de) | 6934 | 10221 | 67.8 | /mnt/stockage/packages/f7/exiv2/po/de.po | 
+ | [fr](/f7/language/fr) | 4624 | 10221 | 45.2 | /mnt/stockage/packages/f7/exiv2/po/fr.po | 
+ | [ru](/f7/language/ru) | 3069 | 10221 | 30.0 | /mnt/stockage/packages/f7/exiv2/po/ru.po | 
+ | [pl](/f7/language/pl) | 2337 | 10221 | 22.9 | /mnt/stockage/packages/f7/exiv2/po/pl.po | 
+ | [es](/f7/language/es) | 2214 | 10221 | 21.7 | /mnt/stockage/packages/f7/exiv2/po/es.po | 
+ | [fi](/f7/language/fi) | 42 | 10221 | 0.4 | /mnt/stockage/packages/f7/exiv2/po/fi.po | 
 {.sortable}
 
 

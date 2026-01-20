@@ -18,10 +18,10 @@ The package meson (version 0.54.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f30/meson/test cases/frameworks/6 gettext/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/13 yelp/help/es/es.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/6 gettext/po/fi.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/6 gettext/po/ru.po | 
+ | [de](/f30/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f30/meson/test cases/frameworks/6 gettext/po/de.po | 
+ | [es](/f30/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/13 yelp/help/es/es.po | 
+ | [fi](/f30/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/6 gettext/po/fi.po | 
+ | [ru](/f30/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f30/meson/test cases/frameworks/6 gettext/po/ru.po | 
 {.sortable}
 
 

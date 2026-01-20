@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f24/package/poedit.md" >}}) | 2528 | 2529 | 100.0 | Corsican | 
- | [filezilla]({{< ref "/f24/package/filezilla.md" >}}) | 9916 | 9947 | 99.7 | Patriccollu di Santa Maria è Sichè <Patrick.Santa-Maria@laposte.net> | 
+ | [poedit](/f24/package/poedit) | 2528 | 2529 | 100.0 | Corsican | 
+ | [filezilla](/f24/package/filezilla) | 9916 | 9947 | 99.7 | Patriccollu di Santa Maria è Sichè <Patrick.Santa-Maria@laposte.net> | 
 {.sortable}
 
 

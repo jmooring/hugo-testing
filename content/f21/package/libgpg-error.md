@@ -18,20 +18,20 @@ The package libgpg-error (version 1.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 818 | 925 | 88.4 | /mnt/stockage/packages/f21/libgpg-error/po/de.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 816 | 925 | 88.2 | /mnt/stockage/packages/f21/libgpg-error/po/da.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 816 | 925 | 88.2 | /mnt/stockage/packages/f21/libgpg-error/po/ja.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 803 | 925 | 86.8 | /mnt/stockage/packages/f21/libgpg-error/po/pl.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 777 | 925 | 84.0 | /mnt/stockage/packages/f21/libgpg-error/po/cs.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 777 | 925 | 84.0 | /mnt/stockage/packages/f21/libgpg-error/po/fr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 777 | 925 | 84.0 | /mnt/stockage/packages/f21/libgpg-error/po/nl.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/eo.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/vi.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 742 | 925 | 80.2 | /mnt/stockage/packages/f21/libgpg-error/po/it.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 616 | 925 | 66.6 | /mnt/stockage/packages/f21/libgpg-error/po/ro.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 547 | 925 | 59.1 | /mnt/stockage/packages/f21/libgpg-error/po/zh_CN.po | 
+ | [de](/f21/language/de) | 818 | 925 | 88.4 | /mnt/stockage/packages/f21/libgpg-error/po/de.po | 
+ | [da](/f21/language/da) | 816 | 925 | 88.2 | /mnt/stockage/packages/f21/libgpg-error/po/da.po | 
+ | [ja](/f21/language/ja) | 816 | 925 | 88.2 | /mnt/stockage/packages/f21/libgpg-error/po/ja.po | 
+ | [pl](/f21/language/pl) | 803 | 925 | 86.8 | /mnt/stockage/packages/f21/libgpg-error/po/pl.po | 
+ | [cs](/f21/language/cs) | 777 | 925 | 84.0 | /mnt/stockage/packages/f21/libgpg-error/po/cs.po | 
+ | [fr](/f21/language/fr) | 777 | 925 | 84.0 | /mnt/stockage/packages/f21/libgpg-error/po/fr.po | 
+ | [nl](/f21/language/nl) | 777 | 925 | 84.0 | /mnt/stockage/packages/f21/libgpg-error/po/nl.po | 
+ | [eo](/f21/language/eo) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/eo.po | 
+ | [sv](/f21/language/sv) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/sv.po | 
+ | [uk](/f21/language/uk) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/uk.po | 
+ | [vi](/f21/language/vi) | 743 | 925 | 80.3 | /mnt/stockage/packages/f21/libgpg-error/po/vi.po | 
+ | [it](/f21/language/it) | 742 | 925 | 80.2 | /mnt/stockage/packages/f21/libgpg-error/po/it.po | 
+ | [ro](/f21/language/ro) | 616 | 925 | 66.6 | /mnt/stockage/packages/f21/libgpg-error/po/ro.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 547 | 925 | 59.1 | /mnt/stockage/packages/f21/libgpg-error/po/zh_CN.po | 
 {.sortable}
 
 

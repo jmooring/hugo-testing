@@ -18,12 +18,12 @@ The package gpaste (version 3.28.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1067 | 1067 | 100.0 | /mnt/stockage/packages/f28/gpaste/po/fr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1022 | 1067 | 95.8 | /mnt/stockage/packages/f28/gpaste/po/sv.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1019 | 1067 | 95.5 | /mnt/stockage/packages/f28/gpaste/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 776 | 1067 | 72.7 | /mnt/stockage/packages/f28/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 505 | 1067 | 47.3 | /mnt/stockage/packages/f28/gpaste/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 386 | 1067 | 36.2 | /mnt/stockage/packages/f28/gpaste/po/es.po | 
+ | [fr](/f28/language/fr) | 1067 | 1067 | 100.0 | /mnt/stockage/packages/f28/gpaste/po/fr.po | 
+ | [sv](/f28/language/sv) | 1022 | 1067 | 95.8 | /mnt/stockage/packages/f28/gpaste/po/sv.po | 
+ | [nl](/f28/language/nl) | 1019 | 1067 | 95.5 | /mnt/stockage/packages/f28/gpaste/po/nl_NL.po | 
+ | [pt_BR](/f28/language/pt_BR) | 776 | 1067 | 72.7 | /mnt/stockage/packages/f28/gpaste/po/pt_BR.po | 
+ | [de](/f28/language/de) | 505 | 1067 | 47.3 | /mnt/stockage/packages/f28/gpaste/po/de.po | 
+ | [es](/f28/language/es) | 386 | 1067 | 36.2 | /mnt/stockage/packages/f28/gpaste/po/es.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package kazehakase (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1888 | 1889 | 99.9 | /mnt/stockage/packages/f9/kazehakase/po/cs.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1886 | 1889 | 99.8 | /mnt/stockage/packages/f9/kazehakase/po/ja.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1851 | 1889 | 98.0 | /mnt/stockage/packages/f9/kazehakase/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1801 | 1889 | 95.3 | /mnt/stockage/packages/f9/kazehakase/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1737 | 1889 | 92.0 | /mnt/stockage/packages/f9/kazehakase/po/ru.po | 
+ | [cs](/f9/language/cs) | 1888 | 1889 | 99.9 | /mnt/stockage/packages/f9/kazehakase/po/cs.po | 
+ | [ja](/f9/language/ja) | 1886 | 1889 | 99.8 | /mnt/stockage/packages/f9/kazehakase/po/ja.po | 
+ | [de](/f9/language/de) | 1851 | 1889 | 98.0 | /mnt/stockage/packages/f9/kazehakase/po/de.po | 
+ | [fr](/f9/language/fr) | 1801 | 1889 | 95.3 | /mnt/stockage/packages/f9/kazehakase/po/fr.po | 
+ | [ru](/f9/language/ru) | 1737 | 1889 | 92.0 | /mnt/stockage/packages/f9/kazehakase/po/ru.po | 
 {.sortable}
 
 

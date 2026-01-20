@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [avahi]({{< ref "/f19/package/avahi.md" >}}) | 758 | 865 | 87.6 | British English <en@li.org> | 
- | [gxmessage]({{< ref "/f19/package/gxmessage.md" >}}) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
- | [php-laconica]({{< ref "/f19/package/php-laconica.md" >}}) | 54 | 1692 | 3.2 |  | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | English (New Zealand) (http://www.transifex.com/projects/p/owncloud/language/en_NZ/) | 
+ | [avahi](/f19/package/avahi) | 758 | 865 | 87.6 | British English <en@li.org> | 
+ | [gxmessage](/f19/package/gxmessage) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
+ | [php-laconica](/f19/package/php-laconica) | 54 | 1692 | 3.2 |  | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | English (New Zealand) (http://www.transifex.com/projects/p/owncloud/language/en_NZ/) | 
 {.sortable}
 
 

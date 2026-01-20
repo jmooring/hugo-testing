@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gip]({{< ref "/f37/package/gip.md" >}}) | 108 | 108 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [gtkspell]({{< ref "/f37/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [gtkspell3]({{< ref "/f37/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [dialog]({{< ref "/f37/package/dialog.md" >}}) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 56 | 213 | 26.3 | LANGUAGE <LL@li.org> | 
- | [mingw-libcharset]({{< ref "/f37/package/mingw-libcharset.md" >}}) | 15 | 342 | 4.4 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [wine]({{< ref "/f37/package/wine.md" >}}) | 38 | 19281 | 0.2 | Romanish | 
- | [sympa]({{< ref "/f37/package/sympa.md" >}}) | 6 | 36428 | 0.0 | Rumantsch | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [gip](/f37/package/gip) | 108 | 108 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [gtkspell](/f37/package/gtkspell) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [gtkspell3](/f37/package/gtkspell3) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [dialog](/f37/package/dialog) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 56 | 213 | 26.3 | LANGUAGE <LL@li.org> | 
+ | [mingw-libcharset](/f37/package/mingw-libcharset) | 15 | 342 | 4.4 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [wine](/f37/package/wine) | 38 | 19281 | 0.2 | Romanish | 
+ | [sympa](/f37/package/sympa) | 6 | 36428 | 0.0 | Rumantsch | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

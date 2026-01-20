@@ -18,15 +18,15 @@ The package teg (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f28/language/es.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/fr.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/gl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/pt.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2363 | 2378 | 99.4 | /mnt/stockage/packages/f28/teg/po/it.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2312 | 2378 | 97.2 | /mnt/stockage/packages/f28/teg/po/hu_HU.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2304 | 2378 | 96.9 | /mnt/stockage/packages/f28/teg/po/de.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2278 | 2378 | 95.8 | /mnt/stockage/packages/f28/teg/po/pt_BR.po | 
+ | [es](/f28/language/es) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/es.po | 
+ | [fr](/f28/language/fr) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/fr.po | 
+ | [gl](/f28/language/gl) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/gl.po | 
+ | [pl](/f28/language/pl) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/pl.po | 
+ | [pt](/f28/language/pt) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f28/teg/po/pt.po | 
+ | [it](/f28/language/it) | 2363 | 2378 | 99.4 | /mnt/stockage/packages/f28/teg/po/it.po | 
+ | [hu](/f28/language/hu) | 2312 | 2378 | 97.2 | /mnt/stockage/packages/f28/teg/po/hu_HU.po | 
+ | [de](/f28/language/de) | 2304 | 2378 | 96.9 | /mnt/stockage/packages/f28/teg/po/de.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2278 | 2378 | 95.8 | /mnt/stockage/packages/f28/teg/po/pt_BR.po | 
 {.sortable}
 
 

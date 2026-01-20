@@ -18,12 +18,12 @@ The package rust (version 1.43.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 1130 | 1130 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 1378 | 1378 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/de.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/it.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/pl.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/vi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1273 | 1374 | 92.6 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/fr.po | 
+ | [cs](/f30/language/cs) | 1130 | 1130 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/cs.po | 
+ | [de](/f30/language/de) | 1378 | 1378 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/de.po | 
+ | [it](/f30/language/it) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/it.po | 
+ | [pl](/f30/language/pl) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/pl.po | 
+ | [vi](/f30/language/vi) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/vi.po | 
+ | [fr](/f30/language/fr) | 1273 | 1374 | 92.6 | /mnt/stockage/packages/f30/rust/vendor/lzma-sys/xz-5.2/po/fr.po | 
 {.sortable}
 
 

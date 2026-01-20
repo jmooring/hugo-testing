@@ -18,15 +18,15 @@ The package libgpod (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/fr.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/he.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/it.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/zh_CN.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 783 | 934 | 83.8 | /mnt/stockage/packages/f12/libgpod/po/ro.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 672 | 934 | 71.9 | /mnt/stockage/packages/f12/libgpod/po/ja.po | 
+ | [de](/f12/language/de) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/de.po | 
+ | [es](/f12/language/es) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/es.po | 
+ | [fr](/f12/language/fr) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/fr.po | 
+ | [he](/f12/language/he) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/he.po | 
+ | [it](/f12/language/it) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/it.po | 
+ | [sv](/f12/language/sv) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 931 | 934 | 99.7 | /mnt/stockage/packages/f12/libgpod/po/zh_CN.po | 
+ | [ro](/f12/language/ro) | 783 | 934 | 83.8 | /mnt/stockage/packages/f12/libgpod/po/ro.po | 
+ | [ja](/f12/language/ja) | 672 | 934 | 71.9 | /mnt/stockage/packages/f12/libgpod/po/ja.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package ufraw (version 0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/cs.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/ko.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/nb.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/nl.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1931 | 1932 | 99.9 | /mnt/stockage/packages/f11/ufraw/po/fr.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 1930 | 1932 | 99.9 | /mnt/stockage/packages/f11/ufraw/po/da.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/ca.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/es.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/ru.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/sr@latin.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1922 | 1932 | 99.5 | /mnt/stockage/packages/f11/ufraw/po/pl.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1851 | 1932 | 95.8 | /mnt/stockage/packages/f11/ufraw/po/it.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 1337 | 1932 | 69.2 | /mnt/stockage/packages/f11/ufraw/po/pt.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 1176 | 1932 | 60.9 | /mnt/stockage/packages/f11/ufraw/po/ja.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 518 | 1932 | 26.8 | /mnt/stockage/packages/f11/ufraw/po/sv.po | 
+ | [cs](/f11/language/cs) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/cs.po | 
+ | [ko](/f11/language/ko) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/ko.po | 
+ | [nb_NO](/f11/language/nb_NO) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/nb.po | 
+ | [nl](/f11/language/nl) | 1932 | 1932 | 100.0 | /mnt/stockage/packages/f11/ufraw/po/nl.po | 
+ | [fr](/f11/language/fr) | 1931 | 1932 | 99.9 | /mnt/stockage/packages/f11/ufraw/po/fr.po | 
+ | [da](/f11/language/da) | 1930 | 1932 | 99.9 | /mnt/stockage/packages/f11/ufraw/po/da.po | 
+ | [ca](/f11/language/ca) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/ca.po | 
+ | [es](/f11/language/es) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/es.po | 
+ | [ru](/f11/language/ru) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/ru.po | 
+ | [sr](/f11/language/sr) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 1926 | 1932 | 99.7 | /mnt/stockage/packages/f11/ufraw/po/sr@latin.po | 
+ | [pl](/f11/language/pl) | 1922 | 1932 | 99.5 | /mnt/stockage/packages/f11/ufraw/po/pl.po | 
+ | [it](/f11/language/it) | 1851 | 1932 | 95.8 | /mnt/stockage/packages/f11/ufraw/po/it.po | 
+ | [pt](/f11/language/pt) | 1337 | 1932 | 69.2 | /mnt/stockage/packages/f11/ufraw/po/pt.po | 
+ | [ja](/f11/language/ja) | 1176 | 1932 | 60.9 | /mnt/stockage/packages/f11/ufraw/po/ja.po | 
+ | [sv](/f11/language/sv) | 518 | 1932 | 26.8 | /mnt/stockage/packages/f11/ufraw/po/sv.po | 
 {.sortable}
 
 

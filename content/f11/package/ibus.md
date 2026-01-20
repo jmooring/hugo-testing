@@ -18,33 +18,33 @@ The package ibus (version 1.2.0.20090927):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/bn_IN.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ca.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/es.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/gu.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/hi.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ja.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ko.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/mr.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/pl.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/te.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/zh_CN.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 448 | 449 | 99.8 | /mnt/stockage/packages/f11/ibus/po/fr.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 448 | 449 | 99.8 | /mnt/stockage/packages/f11/ibus/po/vi.po | 
- | [as]({{< ref "/f11/language/as.md" >}}) | 267 | 449 | 59.5 | /mnt/stockage/packages/f11/ibus/po/as.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 267 | 449 | 59.5 | /mnt/stockage/packages/f11/ibus/po/da.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 250 | 449 | 55.7 | /mnt/stockage/packages/f11/ibus/po/zh_TW.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 248 | 449 | 55.2 | /mnt/stockage/packages/f11/ibus/po/hu.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 248 | 449 | 55.2 | /mnt/stockage/packages/f11/ibus/po/zh_HK.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 236 | 449 | 52.6 | /mnt/stockage/packages/f11/ibus/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 236 | 449 | 52.6 | /mnt/stockage/packages/f11/ibus/po/sr@latin.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 169 | 449 | 37.6 | /mnt/stockage/packages/f11/ibus/po/ar.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 99 | 449 | 22.0 | /mnt/stockage/packages/f11/ibus/po/de.po | 
+ | [bn_IN](/f11/language/bn_IN) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/bn_IN.po | 
+ | [ca](/f11/language/ca) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ca.po | 
+ | [es](/f11/language/es) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/es.po | 
+ | [gu](/f11/language/gu) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/gu.po | 
+ | [hi](/f11/language/hi) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/hi.po | 
+ | [ja](/f11/language/ja) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ja.po | 
+ | [kn](/f11/language/kn) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/kn.po | 
+ | [ko](/f11/language/ko) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ko.po | 
+ | [ml](/f11/language/ml) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ml.po | 
+ | [mr](/f11/language/mr) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/mr.po | 
+ | [or](/f11/language/or) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/or.po | 
+ | [pa](/f11/language/pa) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/pa.po | 
+ | [pl](/f11/language/pl) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/pl.po | 
+ | [ta](/f11/language/ta) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/ta.po | 
+ | [te](/f11/language/te) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/te.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 449 | 449 | 100.0 | /mnt/stockage/packages/f11/ibus/po/zh_CN.po | 
+ | [fr](/f11/language/fr) | 448 | 449 | 99.8 | /mnt/stockage/packages/f11/ibus/po/fr.po | 
+ | [vi](/f11/language/vi) | 448 | 449 | 99.8 | /mnt/stockage/packages/f11/ibus/po/vi.po | 
+ | [as](/f11/language/as) | 267 | 449 | 59.5 | /mnt/stockage/packages/f11/ibus/po/as.po | 
+ | [da](/f11/language/da) | 267 | 449 | 59.5 | /mnt/stockage/packages/f11/ibus/po/da.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 250 | 449 | 55.7 | /mnt/stockage/packages/f11/ibus/po/zh_TW.po | 
+ | [hu](/f11/language/hu) | 248 | 449 | 55.2 | /mnt/stockage/packages/f11/ibus/po/hu.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 248 | 449 | 55.2 | /mnt/stockage/packages/f11/ibus/po/zh_HK.po | 
+ | [sr](/f11/language/sr) | 236 | 449 | 52.6 | /mnt/stockage/packages/f11/ibus/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 236 | 449 | 52.6 | /mnt/stockage/packages/f11/ibus/po/sr@latin.po | 
+ | [ar](/f11/language/ar) | 169 | 449 | 37.6 | /mnt/stockage/packages/f11/ibus/po/ar.po | 
+ | [de](/f11/language/de) | 99 | 449 | 22.0 | /mnt/stockage/packages/f11/ibus/po/de.po | 
 {.sortable}
 
 

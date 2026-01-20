@@ -18,28 +18,28 @@ The package sbackup (version 0.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 707 | 713 | 99.2 | /mnt/stockage/packages/f11/sbackup/po/pt_BR.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 695 | 713 | 97.5 | /mnt/stockage/packages/f11/sbackup/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 694 | 713 | 97.3 | /mnt/stockage/packages/f11/sbackup/po/fr.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/en_GB.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/nl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/sv.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/uk.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 683 | 713 | 95.8 | /mnt/stockage/packages/f11/sbackup/po/pl.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 652 | 713 | 91.4 | /mnt/stockage/packages/f11/sbackup/po/lv.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 601 | 713 | 84.3 | /mnt/stockage/packages/f11/sbackup/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 500 | 713 | 70.1 | /mnt/stockage/packages/f11/sbackup/po/nb.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 385 | 713 | 54.0 | /mnt/stockage/packages/f11/sbackup/po/ca.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 297 | 713 | 41.7 | /mnt/stockage/packages/f11/sbackup/po/de.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 247 | 713 | 34.6 | /mnt/stockage/packages/f11/sbackup/po/gl.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 247 | 713 | 34.6 | /mnt/stockage/packages/f11/sbackup/po/hu.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 180 | 713 | 25.2 | /mnt/stockage/packages/f11/sbackup/po/tr.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 130 | 713 | 18.2 | /mnt/stockage/packages/f11/sbackup/po/cs.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 128 | 713 | 18.0 | /mnt/stockage/packages/f11/sbackup/po/id.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 71 | 713 | 10.0 | /mnt/stockage/packages/f11/sbackup/po/pt.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 34 | 713 | 4.8 | /mnt/stockage/packages/f11/sbackup/po/zh_TW.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 11 | 713 | 1.5 | /mnt/stockage/packages/f11/sbackup/po/ms.po | 
+ | [pt_BR](/f11/language/pt_BR) | 707 | 713 | 99.2 | /mnt/stockage/packages/f11/sbackup/po/pt_BR.po | 
+ | [es](/f11/language/es) | 695 | 713 | 97.5 | /mnt/stockage/packages/f11/sbackup/po/es.po | 
+ | [fr](/f11/language/fr) | 694 | 713 | 97.3 | /mnt/stockage/packages/f11/sbackup/po/fr.po | 
+ | [en_GB](/f11/language/en_GB) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/en_GB.po | 
+ | [it](/f11/language/it) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/it.po | 
+ | [nl](/f11/language/nl) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/nl.po | 
+ | [sv](/f11/language/sv) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/sv.po | 
+ | [uk](/f11/language/uk) | 688 | 713 | 96.5 | /mnt/stockage/packages/f11/sbackup/po/uk.po | 
+ | [pl](/f11/language/pl) | 683 | 713 | 95.8 | /mnt/stockage/packages/f11/sbackup/po/pl.po | 
+ | [lv](/f11/language/lv) | 652 | 713 | 91.4 | /mnt/stockage/packages/f11/sbackup/po/lv.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 601 | 713 | 84.3 | /mnt/stockage/packages/f11/sbackup/po/zh_CN.po | 
+ | [nb_NO](/f11/language/nb_NO) | 500 | 713 | 70.1 | /mnt/stockage/packages/f11/sbackup/po/nb.po | 
+ | [ca](/f11/language/ca) | 385 | 713 | 54.0 | /mnt/stockage/packages/f11/sbackup/po/ca.po | 
+ | [de](/f11/language/de) | 297 | 713 | 41.7 | /mnt/stockage/packages/f11/sbackup/po/de.po | 
+ | [gl](/f11/language/gl) | 247 | 713 | 34.6 | /mnt/stockage/packages/f11/sbackup/po/gl.po | 
+ | [hu](/f11/language/hu) | 247 | 713 | 34.6 | /mnt/stockage/packages/f11/sbackup/po/hu.po | 
+ | [tr](/f11/language/tr) | 180 | 713 | 25.2 | /mnt/stockage/packages/f11/sbackup/po/tr.po | 
+ | [cs](/f11/language/cs) | 130 | 713 | 18.2 | /mnt/stockage/packages/f11/sbackup/po/cs.po | 
+ | [id](/f11/language/id) | 128 | 713 | 18.0 | /mnt/stockage/packages/f11/sbackup/po/id.po | 
+ | [pt](/f11/language/pt) | 71 | 713 | 10.0 | /mnt/stockage/packages/f11/sbackup/po/pt.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 34 | 713 | 4.8 | /mnt/stockage/packages/f11/sbackup/po/zh_TW.po | 
+ | [ms](/f11/language/ms) | 11 | 713 | 1.5 | /mnt/stockage/packages/f11/sbackup/po/ms.po | 
 {.sortable}
 
 

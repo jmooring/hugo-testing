@@ -18,41 +18,41 @@ The package gcompris-qt (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f37/language/br.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_br.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ca@valencia.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_el.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_en.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_es.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_hu.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_nl.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_nn.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_pl.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_sl.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_uk.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_en_GB.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_eu.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_fr.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_it.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ml.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_pt_BR.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 32507 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_lt.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 32507 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ru.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_et.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_fi.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_he.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_mk.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_pt.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_zh_TW.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 32393 | 32568 | 99.5 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_sq.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 32354 | 32568 | 99.3 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_az.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 30892 | 32568 | 94.9 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_de.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 28488 | 32568 | 87.5 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_be.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 27252 | 32568 | 83.7 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_tr.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 27204 | 32568 | 83.5 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ro.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 22663 | 32568 | 69.6 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_cs.po | 
+ | [br](/f37/language/br) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_br.po | 
+ | [ca](/f37/language/ca) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ca@valencia.po | 
+ | [el](/f37/language/el) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_el.po | 
+ | [en](/f37/language/en) | 48 | 48 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_en.po | 
+ | [es](/f37/language/es) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_es.po | 
+ | [hu](/f37/language/hu) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_hu.po | 
+ | [nl](/f37/language/nl) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_nl.po | 
+ | [nn](/f37/language/nn) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_nn.po | 
+ | [pl](/f37/language/pl) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_pl.po | 
+ | [sl](/f37/language/sl) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_sl.po | 
+ | [sv](/f37/language/sv) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_sv.po | 
+ | [uk](/f37/language/uk) | 32568 | 32568 | 100.0 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_uk.po | 
+ | [en_GB](/f37/language/en_GB) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_en_GB.po | 
+ | [eu](/f37/language/eu) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_eu.po | 
+ | [fr](/f37/language/fr) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_fr.po | 
+ | [id](/f37/language/id) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_id.po | 
+ | [it](/f37/language/it) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_it.po | 
+ | [ml](/f37/language/ml) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ml.po | 
+ | [pt_BR](/f37/language/pt_BR) | 32519 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_pt_BR.po | 
+ | [lt](/f37/language/lt) | 32507 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_lt.po | 
+ | [ru](/f37/language/ru) | 32507 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ru.po | 
+ | [et](/f37/language/et) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_et.po | 
+ | [fi](/f37/language/fi) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_fi.po | 
+ | [he](/f37/language/he) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_he.po | 
+ | [mk](/f37/language/mk) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_mk.po | 
+ | [pt](/f37/language/pt) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_pt.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 32488 | 32568 | 99.8 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_zh_TW.po | 
+ | [sq](/f37/language/sq) | 32393 | 32568 | 99.5 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_sq.po | 
+ | [az](/f37/language/az) | 32354 | 32568 | 99.3 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_az.po | 
+ | [de](/f37/language/de) | 30892 | 32568 | 94.9 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_de.po | 
+ | [be](/f37/language/be) | 28488 | 32568 | 87.5 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_be.po | 
+ | [tr](/f37/language/tr) | 27252 | 32568 | 83.7 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_tr.po | 
+ | [ro](/f37/language/ro) | 27204 | 32568 | 83.5 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_ro.po | 
+ | [cs](/f37/language/cs) | 22663 | 32568 | 69.6 | /mnt/stockage/packages/f37/gcompris-qt/po/gcompris_cs.po | 
 {.sortable}
 
 

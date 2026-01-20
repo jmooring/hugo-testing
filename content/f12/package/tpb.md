@@ -18,12 +18,12 @@ The package tpb (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/de.po/mnt/stockage/packages/f12/tpb/po/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/fr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/ja.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 658 | 666 | 98.8 | /mnt/stockage/packages/f12/tpb/po/ru.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 588 | 666 | 88.3 | /mnt/stockage/packages/f12/tpb/po/da.po | 
+ | [cs](/f12/language/cs) | 96 | 96 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/cs.po | 
+ | [de](/f12/language/de) | 799 | 799 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/de.po/mnt/stockage/packages/f12/tpb/po/de.po | 
+ | [fr](/f12/language/fr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/fr.po | 
+ | [ja](/f12/language/ja) | 96 | 96 | 100.0 | /mnt/stockage/packages/f12/tpb/debian/po/ja.po | 
+ | [ru](/f12/language/ru) | 658 | 666 | 98.8 | /mnt/stockage/packages/f12/tpb/po/ru.po | 
+ | [da](/f12/language/da) | 588 | 666 | 88.3 | /mnt/stockage/packages/f12/tpb/po/da.po | 
 {.sortable}
 
 

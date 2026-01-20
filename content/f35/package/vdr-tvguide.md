@@ -18,11 +18,11 @@ The package vdr-tvguide (version 1.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1068 | 1076 | 99.3 | /mnt/stockage/packages/f35/vdr-tvguide/po/de_DE.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 945 | 1076 | 87.8 | /mnt/stockage/packages/f35/vdr-tvguide/po/it_IT.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 610 | 1076 | 56.7 | /mnt/stockage/packages/f35/vdr-tvguide/po/ca_ES.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 610 | 1076 | 56.7 | /mnt/stockage/packages/f35/vdr-tvguide/po/sk_SK.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 608 | 1076 | 56.5 | /mnt/stockage/packages/f35/vdr-tvguide/po/ru_RU.po | 
+ | [de](/f35/language/de) | 1068 | 1076 | 99.3 | /mnt/stockage/packages/f35/vdr-tvguide/po/de_DE.po | 
+ | [it](/f35/language/it) | 945 | 1076 | 87.8 | /mnt/stockage/packages/f35/vdr-tvguide/po/it_IT.po | 
+ | [ca](/f35/language/ca) | 610 | 1076 | 56.7 | /mnt/stockage/packages/f35/vdr-tvguide/po/ca_ES.po | 
+ | [sk](/f35/language/sk) | 610 | 1076 | 56.7 | /mnt/stockage/packages/f35/vdr-tvguide/po/sk_SK.po | 
+ | [ru](/f35/language/ru) | 608 | 1076 | 56.5 | /mnt/stockage/packages/f35/vdr-tvguide/po/ru_RU.po | 
 {.sortable}
 
 

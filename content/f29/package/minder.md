@@ -18,11 +18,11 @@ The package minder (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1342 | 1601 | 83.8 | /mnt/stockage/packages/f29/minder/po/fr.po/mnt/stockage/packages/f29/minder/po/extra/fr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 212 | 1601 | 13.2 | /mnt/stockage/packages/f29/minder/po/es.po/mnt/stockage/packages/f29/minder/po/extra/es.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 176 | 1601 | 11.0 | /mnt/stockage/packages/f29/minder/po/pl.po/mnt/stockage/packages/f29/minder/po/extra/pl.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 149 | 1601 | 9.3 | /mnt/stockage/packages/f29/minder/po/cs.po/mnt/stockage/packages/f29/minder/po/extra/cs.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 121 | 1601 | 7.6 | /mnt/stockage/packages/f29/minder/po/pt_BR.po/mnt/stockage/packages/f29/minder/po/extra/pt_BR.po | 
+ | [fr](/f29/language/fr) | 1342 | 1601 | 83.8 | /mnt/stockage/packages/f29/minder/po/fr.po/mnt/stockage/packages/f29/minder/po/extra/fr.po | 
+ | [es](/f29/language/es) | 212 | 1601 | 13.2 | /mnt/stockage/packages/f29/minder/po/es.po/mnt/stockage/packages/f29/minder/po/extra/es.po | 
+ | [pl](/f29/language/pl) | 176 | 1601 | 11.0 | /mnt/stockage/packages/f29/minder/po/pl.po/mnt/stockage/packages/f29/minder/po/extra/pl.po | 
+ | [cs](/f29/language/cs) | 149 | 1601 | 9.3 | /mnt/stockage/packages/f29/minder/po/cs.po/mnt/stockage/packages/f29/minder/po/extra/cs.po | 
+ | [pt_BR](/f29/language/pt_BR) | 121 | 1601 | 7.6 | /mnt/stockage/packages/f29/minder/po/pt_BR.po/mnt/stockage/packages/f29/minder/po/extra/pt_BR.po | 
 {.sortable}
 
 

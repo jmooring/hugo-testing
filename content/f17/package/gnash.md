@@ -18,20 +18,20 @@ The package gnash (version 0.8.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 14971 | 15143 | 98.9 | /mnt/stockage/packages/f17/gnash/po/en_GB.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 7804 | 15143 | 51.5 | /mnt/stockage/packages/f17/gnash/po/da.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 7564 | 15143 | 50.0 | /mnt/stockage/packages/f17/gnash/po/es.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 6648 | 15143 | 43.9 | /mnt/stockage/packages/f17/gnash/po/cs.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 6052 | 15143 | 40.0 | /mnt/stockage/packages/f17/gnash/po/ne.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 3932 | 15143 | 26.0 | /mnt/stockage/packages/f17/gnash/po/el.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 2139 | 15143 | 14.1 | /mnt/stockage/packages/f17/gnash/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1396 | 15143 | 9.2 | /mnt/stockage/packages/f17/gnash/po/fr.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1331 | 15143 | 8.8 | /mnt/stockage/packages/f17/gnash/po/zh_TW.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1172 | 15143 | 7.7 | /mnt/stockage/packages/f17/gnash/po/ru.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 575 | 15143 | 3.8 | /mnt/stockage/packages/f17/gnash/po/fi.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 278 | 15143 | 1.8 | /mnt/stockage/packages/f17/gnash/po/ja.po | 
- | [km]({{< ref "/f17/language/km.md" >}}) | 210 | 15143 | 1.4 | /mnt/stockage/packages/f17/gnash/po/km.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 186 | 15143 | 1.2 | /mnt/stockage/packages/f17/gnash/po/it.po | 
+ | [en_GB](/f17/language/en_GB) | 14971 | 15143 | 98.9 | /mnt/stockage/packages/f17/gnash/po/en_GB.po | 
+ | [da](/f17/language/da) | 7804 | 15143 | 51.5 | /mnt/stockage/packages/f17/gnash/po/da.po | 
+ | [es](/f17/language/es) | 7564 | 15143 | 50.0 | /mnt/stockage/packages/f17/gnash/po/es.po | 
+ | [cs](/f17/language/cs) | 6648 | 15143 | 43.9 | /mnt/stockage/packages/f17/gnash/po/cs.po | 
+ | [ne](/f17/language/ne) | 6052 | 15143 | 40.0 | /mnt/stockage/packages/f17/gnash/po/ne.po | 
+ | [el](/f17/language/el) | 3932 | 15143 | 26.0 | /mnt/stockage/packages/f17/gnash/po/el.po | 
+ | [de](/f17/language/de) | 2139 | 15143 | 14.1 | /mnt/stockage/packages/f17/gnash/po/de.po | 
+ | [fr](/f17/language/fr) | 1396 | 15143 | 9.2 | /mnt/stockage/packages/f17/gnash/po/fr.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1331 | 15143 | 8.8 | /mnt/stockage/packages/f17/gnash/po/zh_TW.po | 
+ | [ru](/f17/language/ru) | 1172 | 15143 | 7.7 | /mnt/stockage/packages/f17/gnash/po/ru.po | 
+ | [fi](/f17/language/fi) | 575 | 15143 | 3.8 | /mnt/stockage/packages/f17/gnash/po/fi.po | 
+ | [ja](/f17/language/ja) | 278 | 15143 | 1.8 | /mnt/stockage/packages/f17/gnash/po/ja.po | 
+ | [km](/f17/language/km) | 210 | 15143 | 1.4 | /mnt/stockage/packages/f17/gnash/po/km.po | 
+ | [it](/f17/language/it) | 186 | 15143 | 1.2 | /mnt/stockage/packages/f17/gnash/po/it.po | 
 {.sortable}
 
 

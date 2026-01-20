@@ -18,12 +18,12 @@ The package wxGlade (version 0.6.3tip20100625):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f17/wxGlade/po/ja.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 761 | 761 | 100.0 | /mnt/stockage/packages/f17/wxGlade/po/ko.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 197 | 284 | 69.4 | /mnt/stockage/packages/f17/wxGlade/po/it.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 337 | 1403 | 24.0 | /mnt/stockage/packages/f17/wxGlade/po/fr.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f17/wxGlade/po/de.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f17/wxGlade/po/en.po | 
+ | [ja](/f17/language/ja) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f17/wxGlade/po/ja.po | 
+ | [ko](/f17/language/ko) | 761 | 761 | 100.0 | /mnt/stockage/packages/f17/wxGlade/po/ko.po | 
+ | [it](/f17/language/it) | 197 | 284 | 69.4 | /mnt/stockage/packages/f17/wxGlade/po/it.po | 
+ | [fr](/f17/language/fr) | 337 | 1403 | 24.0 | /mnt/stockage/packages/f17/wxGlade/po/fr.po | 
+ | [de](/f17/language/de) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f17/wxGlade/po/de.po | 
+ | [en](/f17/language/en) | 0 | 284 | 0.0 | /mnt/stockage/packages/f17/wxGlade/po/en.po | 
 {.sortable}
 
 

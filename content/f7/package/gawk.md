@@ -18,23 +18,23 @@ The package gawk (version 3.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f7/language/it.md" >}}) | 2443 | 2443 | 100.0 | /mnt/stockage/packages/f7/gawk/po/it.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/ja.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/pl.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/vi.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 2392 | 2443 | 97.9 | /mnt/stockage/packages/f7/gawk/po/tr.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2258 | 2443 | 92.4 | /mnt/stockage/packages/f7/gawk/po/pt_BR.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2217 | 2443 | 90.7 | /mnt/stockage/packages/f7/gawk/po/sv.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 2026 | 2443 | 82.9 | /mnt/stockage/packages/f7/gawk/po/he.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f7/gawk/po/ca.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f7/gawk/po/da.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f7/gawk/po/ga.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f7/gawk/po/ro.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1850 | 2443 | 75.7 | /mnt/stockage/packages/f7/gawk/po/de.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 1 | 2443 | 0.0 | /mnt/stockage/packages/f7/gawk/po/rw.po | 
+ | [it](/f7/language/it) | 2443 | 2443 | 100.0 | /mnt/stockage/packages/f7/gawk/po/it.po | 
+ | [es](/f7/language/es) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/es.po | 
+ | [fr](/f7/language/fr) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/fr.po | 
+ | [ja](/f7/language/ja) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/ja.po | 
+ | [nl](/f7/language/nl) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/nl.po | 
+ | [pl](/f7/language/pl) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/pl.po | 
+ | [vi](/f7/language/vi) | 2438 | 2443 | 99.8 | /mnt/stockage/packages/f7/gawk/po/vi.po | 
+ | [tr](/f7/language/tr) | 2392 | 2443 | 97.9 | /mnt/stockage/packages/f7/gawk/po/tr.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2258 | 2443 | 92.4 | /mnt/stockage/packages/f7/gawk/po/pt_BR.po | 
+ | [sv](/f7/language/sv) | 2217 | 2443 | 90.7 | /mnt/stockage/packages/f7/gawk/po/sv.po | 
+ | [he](/f7/language/he) | 2026 | 2443 | 82.9 | /mnt/stockage/packages/f7/gawk/po/he.po | 
+ | [ca](/f7/language/ca) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f7/gawk/po/ca.po | 
+ | [da](/f7/language/da) | 1924 | 2443 | 78.8 | /mnt/stockage/packages/f7/gawk/po/da.po | 
+ | [ga](/f7/language/ga) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f7/gawk/po/ga.po | 
+ | [ro](/f7/language/ro) | 1916 | 2443 | 78.4 | /mnt/stockage/packages/f7/gawk/po/ro.po | 
+ | [de](/f7/language/de) | 1850 | 2443 | 75.7 | /mnt/stockage/packages/f7/gawk/po/de.po | 
+ | [rw](/f7/language/rw) | 1 | 2443 | 0.0 | /mnt/stockage/packages/f7/gawk/po/rw.po | 
 {.sortable}
 
 

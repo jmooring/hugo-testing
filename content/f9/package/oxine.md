@@ -18,12 +18,12 @@ The package oxine (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 2881 | 2928 | 98.4 | /mnt/stockage/packages/f9/oxine/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1804 | 2928 | 61.6 | /mnt/stockage/packages/f9/oxine/po/fr.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1496 | 2928 | 51.1 | /mnt/stockage/packages/f9/oxine/po/es.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1448 | 2928 | 49.5 | /mnt/stockage/packages/f9/oxine/po/ru.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 569 | 2928 | 19.4 | /mnt/stockage/packages/f9/oxine/po/uk.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 499 | 2928 | 17.0 | /mnt/stockage/packages/f9/oxine/po/it.po | 
+ | [de](/f9/language/de) | 2881 | 2928 | 98.4 | /mnt/stockage/packages/f9/oxine/po/de.po | 
+ | [fr](/f9/language/fr) | 1804 | 2928 | 61.6 | /mnt/stockage/packages/f9/oxine/po/fr.po | 
+ | [es](/f9/language/es) | 1496 | 2928 | 51.1 | /mnt/stockage/packages/f9/oxine/po/es.po | 
+ | [ru](/f9/language/ru) | 1448 | 2928 | 49.5 | /mnt/stockage/packages/f9/oxine/po/ru.po | 
+ | [uk](/f9/language/uk) | 569 | 2928 | 19.4 | /mnt/stockage/packages/f9/oxine/po/uk.po | 
+ | [it](/f9/language/it) | 499 | 2928 | 17.0 | /mnt/stockage/packages/f9/oxine/po/it.po | 
 {.sortable}
 
 

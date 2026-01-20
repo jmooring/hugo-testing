@@ -18,32 +18,32 @@ The package mingw-libgovirt (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/bs.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/el.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/es.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/eu.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/fur.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/it.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/lt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/nl.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/oc.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/pt.po/mnt/stockage/packages/f42/mingw-libgovirt/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/sr@latin.po/mnt/stockage/packages/f42/mingw-libgovirt/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/zh_CN.po | 
+ | [bs](/f42/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/bs.po | 
+ | [cs](/f42/language/cs) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/cs.po | 
+ | [da](/f42/language/da) | 91 | 91 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/da.po | 
+ | [de](/f42/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/de.po | 
+ | [el](/f42/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/el.po | 
+ | [es](/f42/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/es.po | 
+ | [eu](/f42/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/eu.po | 
+ | [fr](/f42/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/fr.po | 
+ | [fur](/f42/language/fur) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/fur.po | 
+ | [hr](/f42/language/hr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/hr.po | 
+ | [hu](/f42/language/hu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/hu.po | 
+ | [id](/f42/language/id) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/id.po | 
+ | [it](/f42/language/it) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/it.po | 
+ | [lt](/f42/language/lt) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/lt.po | 
+ | [nl](/f42/language/nl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/nl.po | 
+ | [oc](/f42/language/oc) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/oc.po | 
+ | [pl](/f42/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 205 | 205 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/pt.po/mnt/stockage/packages/f42/mingw-libgovirt/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/ro.po | 
+ | [ru](/f42/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/ru.po | 
+ | [sl](/f42/language/sl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/sl.po | 
+ | [sr](/f42/language/sr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/sr@latin.po/mnt/stockage/packages/f42/mingw-libgovirt/po/sr.po | 
+ | [sv](/f42/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/sv.po | 
+ | [tr](/f42/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/tr.po | 
+ | [uk](/f42/language/uk) | 98 | 98 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 102 | 102 | 100.0 | /mnt/stockage/packages/f42/mingw-libgovirt/po/zh_CN.po | 
 {.sortable}
 
 

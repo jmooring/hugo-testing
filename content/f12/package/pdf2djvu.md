@@ -18,7 +18,7 @@ The package pdf2djvu (version 0.5.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1556 | 1557 | 99.9 | /mnt/stockage/packages/f12/pdf2djvu/doc/po/pdf2djvu.pl.po/mnt/stockage/packages/f12/pdf2djvu/po/pl.po | 
+ | [pl](/f12/language/pl) | 1556 | 1557 | 99.9 | /mnt/stockage/packages/f12/pdf2djvu/doc/po/pdf2djvu.pl.po/mnt/stockage/packages/f12/pdf2djvu/po/pl.po | 
 {.sortable}
 
 

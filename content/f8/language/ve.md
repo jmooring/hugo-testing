@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f8/package/tuxpaint.md" >}}) | 587 | 591 | 99.3 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 325 | 18216 | 1.8 | Venda <venda@translate.org.za> | 
- | [gwenview]({{< ref "/f8/package/gwenview.md" >}}) | 12 | 1321 | 0.9 | <en@li.org> | 
+ | [tuxpaint](/f8/package/tuxpaint) | 587 | 591 | 99.3 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 325 | 18216 | 1.8 | Venda <venda@translate.org.za> | 
+ | [gwenview](/f8/package/gwenview) | 12 | 1321 | 0.9 | <en@li.org> | 
 {.sortable}
 
 

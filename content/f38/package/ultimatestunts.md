@@ -18,11 +18,11 @@ The package ultimatestunts (version 0.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/fr_FR.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/pt_BR.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 450 | 590 | 76.3 | /mnt/stockage/packages/f38/ultimatestunts/po/hu.po | 
+ | [de](/f38/language/de) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/de.po | 
+ | [fr](/f38/language/fr) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/fr_FR.po | 
+ | [nl](/f38/language/nl) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 590 | 590 | 100.0 | /mnt/stockage/packages/f38/ultimatestunts/po/pt_BR.po | 
+ | [hu](/f38/language/hu) | 450 | 590 | 76.3 | /mnt/stockage/packages/f38/ultimatestunts/po/hu.po | 
 {.sortable}
 
 

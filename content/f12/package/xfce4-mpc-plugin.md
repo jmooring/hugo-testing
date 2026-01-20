@@ -18,34 +18,34 @@ The package xfce4-mpc-plugin (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/de.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/eu.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/gl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ja.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/lv.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/sv.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/zh_CN.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 71 | 80 | 88.8 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/sk.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ast.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/pt_BR.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/sq.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/tr.po | 
- | [ur]({{< ref "/f12/language/ur.md" >}}) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f12/language/ur_PK.md" >}}) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ur_PK.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 22 | 80 | 27.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/fr.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 22 | 80 | 27.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/id.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 22 | 80 | 27.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/pl.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 0 | 80 | 0.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ar.po | 
+ | [ca](/f12/language/ca) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ca.po | 
+ | [cs](/f12/language/cs) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/cs.po | 
+ | [da](/f12/language/da) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/da.po | 
+ | [de](/f12/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/de.po | 
+ | [en_GB](/f12/language/en_GB) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/en_GB.po | 
+ | [es](/f12/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/es.po | 
+ | [eu](/f12/language/eu) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/eu.po | 
+ | [gl](/f12/language/gl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/gl.po | 
+ | [hu](/f12/language/hu) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/hu.po | 
+ | [it](/f12/language/it) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/it.po | 
+ | [ja](/f12/language/ja) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ja.po | 
+ | [lv](/f12/language/lv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/lv.po | 
+ | [pt](/f12/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/pt.po | 
+ | [ru](/f12/language/ru) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ru.po | 
+ | [sv](/f12/language/sv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/sv.po | 
+ | [uk](/f12/language/uk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/uk.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/zh_CN.po | 
+ | [sk](/f12/language/sk) | 71 | 80 | 88.8 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/sk.po | 
+ | [ast](/f12/language/ast) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ast.po | 
+ | [pt_BR](/f12/language/pt_BR) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/pt_BR.po | 
+ | [sq](/f12/language/sq) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/sq.po | 
+ | [tr](/f12/language/tr) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/tr.po | 
+ | [ur](/f12/language/ur) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ur.po | 
+ | [ur_PK](/f12/language/ur_PK) | 46 | 80 | 57.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ur_PK.po | 
+ | [fr](/f12/language/fr) | 22 | 80 | 27.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/fr.po | 
+ | [id](/f12/language/id) | 22 | 80 | 27.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/id.po | 
+ | [pl](/f12/language/pl) | 22 | 80 | 27.5 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/pl.po | 
+ | [ar](/f12/language/ar) | 0 | 80 | 0.0 | /mnt/stockage/packages/f12/xfce4-mpc-plugin/po/ar.po | 
 {.sortable}
 
 

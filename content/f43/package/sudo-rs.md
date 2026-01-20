@@ -18,13 +18,13 @@ The package sudo-rs (version 0.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/fr.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/fy.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/it.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/nl.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/ro.po | 
+ | [de](/f43/language/de) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/de.po | 
+ | [es](/f43/language/es) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/es.po | 
+ | [fr](/f43/language/fr) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/fr.po | 
+ | [fy](/f43/language/fy) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/fy.po | 
+ | [it](/f43/language/it) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/it.po | 
+ | [nl](/f43/language/nl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/nl.po | 
+ | [ro](/f43/language/ro) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/sudo-rs/po/ro.po | 
 {.sortable}
 
 

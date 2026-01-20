@@ -18,13 +18,13 @@ The package fish (version 3.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 56463 | 98034 | 57.6 | /mnt/stockage/packages/f35/fish/po/fr.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 16832 | 97825 | 17.2 | /mnt/stockage/packages/f35/fish/po/en.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 8507 | 97817 | 8.7 | /mnt/stockage/packages/f35/fish/po/de.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 7455 | 126616 | 5.9 | /mnt/stockage/packages/f35/fish/po/pt_BR.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 5109 | 93573 | 5.5 | /mnt/stockage/packages/f35/fish/po/sv.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1003 | 97821 | 1.0 | /mnt/stockage/packages/f35/fish/po/pl.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 488 | 97821 | 0.5 | /mnt/stockage/packages/f35/fish/po/zh_CN.po | 
+ | [fr](/f35/language/fr) | 56463 | 98034 | 57.6 | /mnt/stockage/packages/f35/fish/po/fr.po | 
+ | [en](/f35/language/en) | 16832 | 97825 | 17.2 | /mnt/stockage/packages/f35/fish/po/en.po | 
+ | [de](/f35/language/de) | 8507 | 97817 | 8.7 | /mnt/stockage/packages/f35/fish/po/de.po | 
+ | [pt_BR](/f35/language/pt_BR) | 7455 | 126616 | 5.9 | /mnt/stockage/packages/f35/fish/po/pt_BR.po | 
+ | [sv](/f35/language/sv) | 5109 | 93573 | 5.5 | /mnt/stockage/packages/f35/fish/po/sv.po | 
+ | [pl](/f35/language/pl) | 1003 | 97821 | 1.0 | /mnt/stockage/packages/f35/fish/po/pl.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 488 | 97821 | 0.5 | /mnt/stockage/packages/f35/fish/po/zh_CN.po | 
 {.sortable}
 
 

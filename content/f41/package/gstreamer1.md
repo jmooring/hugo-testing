@@ -18,50 +18,50 @@ The package gstreamer1 (version 1.24.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/bg.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/es.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/hr.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/id.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/ro.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/uk.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/fr.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/lv.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/ru.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/tr.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/zh_CN.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 2187 | 2223 | 98.4 | /mnt/stockage/packages/f41/gstreamer1/po/eo.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 2187 | 2223 | 98.4 | /mnt/stockage/packages/f41/gstreamer1/po/hu.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 2158 | 2223 | 97.1 | /mnt/stockage/packages/f41/gstreamer1/po/fur.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 2089 | 2223 | 94.0 | /mnt/stockage/packages/f41/gstreamer1/po/zh_TW.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 2069 | 2223 | 93.1 | /mnt/stockage/packages/f41/gstreamer1/po/da.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 2069 | 2223 | 93.1 | /mnt/stockage/packages/f41/gstreamer1/po/it.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 2050 | 2223 | 92.2 | /mnt/stockage/packages/f41/gstreamer1/po/cs.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 2050 | 2223 | 92.2 | /mnt/stockage/packages/f41/gstreamer1/po/vi.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 1984 | 2223 | 89.2 | /mnt/stockage/packages/f41/gstreamer1/po/sk.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 1837 | 2223 | 82.6 | /mnt/stockage/packages/f41/gstreamer1/po/gl.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1728 | 2223 | 77.7 | /mnt/stockage/packages/f41/gstreamer1/po/fi.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 1721 | 2223 | 77.4 | /mnt/stockage/packages/f41/gstreamer1/po/ca.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 1721 | 2223 | 77.4 | /mnt/stockage/packages/f41/gstreamer1/po/el.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 1652 | 2223 | 74.3 | /mnt/stockage/packages/f41/gstreamer1/po/lt.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 1535 | 2223 | 69.1 | /mnt/stockage/packages/f41/gstreamer1/po/ast.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 1529 | 2223 | 68.8 | /mnt/stockage/packages/f41/gstreamer1/po/eu.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 977 | 2223 | 43.9 | /mnt/stockage/packages/f41/gstreamer1/po/ka.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 728 | 2223 | 32.7 | /mnt/stockage/packages/f41/gstreamer1/po/af.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 688 | 2223 | 30.9 | /mnt/stockage/packages/f41/gstreamer1/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 672 | 2223 | 30.2 | /mnt/stockage/packages/f41/gstreamer1/po/ko.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 633 | 2223 | 28.5 | /mnt/stockage/packages/f41/gstreamer1/po/sq.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 578 | 2223 | 26.0 | /mnt/stockage/packages/f41/gstreamer1/po/en_GB.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 170 | 2223 | 7.6 | /mnt/stockage/packages/f41/gstreamer1/po/be.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 41 | 2223 | 1.8 | /mnt/stockage/packages/f41/gstreamer1/po/az.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 4 | 2223 | 0.2 | /mnt/stockage/packages/f41/gstreamer1/po/rw.po | 
+ | [bg](/f41/language/bg) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/bg.po | 
+ | [de](/f41/language/de) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/de.po | 
+ | [es](/f41/language/es) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/es.po | 
+ | [hr](/f41/language/hr) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/hr.po | 
+ | [id](/f41/language/id) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/id.po | 
+ | [nb_NO](/f41/language/nb_NO) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/nb.po | 
+ | [nl](/f41/language/nl) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/nl.po | 
+ | [pl](/f41/language/pl) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/ro.po | 
+ | [sl](/f41/language/sl) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/sl.po | 
+ | [sr](/f41/language/sr) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/sr.po | 
+ | [sv](/f41/language/sv) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/sv.po | 
+ | [uk](/f41/language/uk) | 2221 | 2223 | 99.9 | /mnt/stockage/packages/f41/gstreamer1/po/uk.po | 
+ | [fr](/f41/language/fr) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/fr.po | 
+ | [lv](/f41/language/lv) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/lv.po | 
+ | [ru](/f41/language/ru) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/ru.po | 
+ | [tr](/f41/language/tr) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/tr.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 2202 | 2223 | 99.1 | /mnt/stockage/packages/f41/gstreamer1/po/zh_CN.po | 
+ | [eo](/f41/language/eo) | 2187 | 2223 | 98.4 | /mnt/stockage/packages/f41/gstreamer1/po/eo.po | 
+ | [hu](/f41/language/hu) | 2187 | 2223 | 98.4 | /mnt/stockage/packages/f41/gstreamer1/po/hu.po | 
+ | [fur](/f41/language/fur) | 2158 | 2223 | 97.1 | /mnt/stockage/packages/f41/gstreamer1/po/fur.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 2089 | 2223 | 94.0 | /mnt/stockage/packages/f41/gstreamer1/po/zh_TW.po | 
+ | [da](/f41/language/da) | 2069 | 2223 | 93.1 | /mnt/stockage/packages/f41/gstreamer1/po/da.po | 
+ | [it](/f41/language/it) | 2069 | 2223 | 93.1 | /mnt/stockage/packages/f41/gstreamer1/po/it.po | 
+ | [cs](/f41/language/cs) | 2050 | 2223 | 92.2 | /mnt/stockage/packages/f41/gstreamer1/po/cs.po | 
+ | [vi](/f41/language/vi) | 2050 | 2223 | 92.2 | /mnt/stockage/packages/f41/gstreamer1/po/vi.po | 
+ | [sk](/f41/language/sk) | 1984 | 2223 | 89.2 | /mnt/stockage/packages/f41/gstreamer1/po/sk.po | 
+ | [gl](/f41/language/gl) | 1837 | 2223 | 82.6 | /mnt/stockage/packages/f41/gstreamer1/po/gl.po | 
+ | [fi](/f41/language/fi) | 1728 | 2223 | 77.7 | /mnt/stockage/packages/f41/gstreamer1/po/fi.po | 
+ | [ca](/f41/language/ca) | 1721 | 2223 | 77.4 | /mnt/stockage/packages/f41/gstreamer1/po/ca.po | 
+ | [el](/f41/language/el) | 1721 | 2223 | 77.4 | /mnt/stockage/packages/f41/gstreamer1/po/el.po | 
+ | [lt](/f41/language/lt) | 1652 | 2223 | 74.3 | /mnt/stockage/packages/f41/gstreamer1/po/lt.po | 
+ | [ast](/f41/language/ast) | 1535 | 2223 | 69.1 | /mnt/stockage/packages/f41/gstreamer1/po/ast.po | 
+ | [eu](/f41/language/eu) | 1529 | 2223 | 68.8 | /mnt/stockage/packages/f41/gstreamer1/po/eu.po | 
+ | [ka](/f41/language/ka) | 977 | 2223 | 43.9 | /mnt/stockage/packages/f41/gstreamer1/po/ka.po | 
+ | [af](/f41/language/af) | 728 | 2223 | 32.7 | /mnt/stockage/packages/f41/gstreamer1/po/af.po | 
+ | [ja](/f41/language/ja) | 688 | 2223 | 30.9 | /mnt/stockage/packages/f41/gstreamer1/po/ja.po | 
+ | [ko](/f41/language/ko) | 672 | 2223 | 30.2 | /mnt/stockage/packages/f41/gstreamer1/po/ko.po | 
+ | [sq](/f41/language/sq) | 633 | 2223 | 28.5 | /mnt/stockage/packages/f41/gstreamer1/po/sq.po | 
+ | [en_GB](/f41/language/en_GB) | 578 | 2223 | 26.0 | /mnt/stockage/packages/f41/gstreamer1/po/en_GB.po | 
+ | [be](/f41/language/be) | 170 | 2223 | 7.6 | /mnt/stockage/packages/f41/gstreamer1/po/be.po | 
+ | [az](/f41/language/az) | 41 | 2223 | 1.8 | /mnt/stockage/packages/f41/gstreamer1/po/az.po | 
+ | [rw](/f41/language/rw) | 4 | 2223 | 0.2 | /mnt/stockage/packages/f41/gstreamer1/po/rw.po | 
 {.sortable}
 
 

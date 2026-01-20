@@ -18,13 +18,13 @@ The package bareftp (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/it.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 290 | 293 | 99.0 | /mnt/stockage/packages/f10/bareftp/po/nb.po | 
+ | [ca](/f10/language/ca) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/ca.po | 
+ | [de](/f10/language/de) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/de.po | 
+ | [es](/f10/language/es) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/es.po | 
+ | [fr](/f10/language/fr) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/fr.po | 
+ | [it](/f10/language/it) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/it.po | 
+ | [pt_BR](/f10/language/pt_BR) | 293 | 293 | 100.0 | /mnt/stockage/packages/f10/bareftp/po/pt_BR.po | 
+ | [nb_NO](/f10/language/nb_NO) | 290 | 293 | 99.0 | /mnt/stockage/packages/f10/bareftp/po/nb.po | 
 {.sortable}
 
 

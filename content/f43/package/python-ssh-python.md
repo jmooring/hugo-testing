@@ -18,9 +18,9 @@ The package python-ssh-python (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 10070 | 10070 | 100.0 | /mnt/stockage/packages/f43/python-ssh-python/krb5-1.21.3/src/po/de.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 10472 | 10472 | 100.0 | /mnt/stockage/packages/f43/python-ssh-python/krb5-1.21.3/src/po/ka.po | 
- | [en_US]({{< ref "/f43/language/en_US.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/python-ssh-python/krb5-1.21.3/src/po/en_US.po | 
+ | [de](/f43/language/de) | 10070 | 10070 | 100.0 | /mnt/stockage/packages/f43/python-ssh-python/krb5-1.21.3/src/po/de.po | 
+ | [ka](/f43/language/ka) | 10472 | 10472 | 100.0 | /mnt/stockage/packages/f43/python-ssh-python/krb5-1.21.3/src/po/ka.po | 
+ | [en_US](/f43/language/en_US) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/python-ssh-python/krb5-1.21.3/src/po/en_US.po | 
 {.sortable}
 
 

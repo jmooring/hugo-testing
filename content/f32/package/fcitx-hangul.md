@@ -18,15 +18,15 @@ The package fcitx-hangul (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ca.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/de.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ja.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ko.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ru.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/zh_TW.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 0 | 37 | 0.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/da.po | 
+ | [ca](/f32/language/ca) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ca.po | 
+ | [de](/f32/language/de) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/de.po | 
+ | [ja](/f32/language/ja) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ja.po | 
+ | [ko](/f32/language/ko) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ko.po | 
+ | [ru](/f32/language/ru) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/ru.po | 
+ | [tr](/f32/language/tr) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 37 | 37 | 100.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/zh_TW.po | 
+ | [da](/f32/language/da) | 0 | 37 | 0.0 | /mnt/stockage/packages/f32/fcitx-hangul/po/da.po | 
 {.sortable}
 
 

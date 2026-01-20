@@ -18,17 +18,17 @@ The package schroot (version 1.4.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/it.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/zh_CN.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 1597 | 1607 | 99.4 | /mnt/stockage/packages/f16/schroot/po/en.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 1597 | 1607 | 99.4 | /mnt/stockage/packages/f16/schroot/po/pt.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1597 | 1607 | 99.4 | /mnt/stockage/packages/f16/schroot/po/vi.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1480 | 1607 | 92.1 | /mnt/stockage/packages/f16/schroot/po/cs.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 1258 | 1607 | 78.3 | /mnt/stockage/packages/f16/schroot/po/eu.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1021 | 1607 | 63.5 | /mnt/stockage/packages/f16/schroot/po/sv.po | 
+ | [da](/f16/language/da) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/da.po | 
+ | [de](/f16/language/de) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/de.po | 
+ | [fr](/f16/language/fr) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/fr.po | 
+ | [it](/f16/language/it) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/it.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1604 | 1607 | 99.8 | /mnt/stockage/packages/f16/schroot/po/zh_CN.po | 
+ | [en](/f16/language/en) | 1597 | 1607 | 99.4 | /mnt/stockage/packages/f16/schroot/po/en.po | 
+ | [pt](/f16/language/pt) | 1597 | 1607 | 99.4 | /mnt/stockage/packages/f16/schroot/po/pt.po | 
+ | [vi](/f16/language/vi) | 1597 | 1607 | 99.4 | /mnt/stockage/packages/f16/schroot/po/vi.po | 
+ | [cs](/f16/language/cs) | 1480 | 1607 | 92.1 | /mnt/stockage/packages/f16/schroot/po/cs.po | 
+ | [eu](/f16/language/eu) | 1258 | 1607 | 78.3 | /mnt/stockage/packages/f16/schroot/po/eu.po | 
+ | [sv](/f16/language/sv) | 1021 | 1607 | 63.5 | /mnt/stockage/packages/f16/schroot/po/sv.po | 
 {.sortable}
 
 

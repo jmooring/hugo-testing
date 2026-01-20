@@ -18,16 +18,16 @@ The package attr (version 2.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f41/language/error.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f41/attr/po/en@boldquot.po/mnt/stockage/packages/f41/attr/po/en@quot.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/fr.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/ka.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/pl.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 265 | 355 | 74.6 | /mnt/stockage/packages/f41/attr/po/de.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 212 | 355 | 59.7 | /mnt/stockage/packages/f41/attr/po/cs.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 212 | 355 | 59.7 | /mnt/stockage/packages/f41/attr/po/es.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 212 | 355 | 59.7 | /mnt/stockage/packages/f41/attr/po/gl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 127 | 355 | 35.8 | /mnt/stockage/packages/f41/attr/po/sv.po | 
+ | [error](/f41/language/error) | 710 | 710 | 100.0 | /mnt/stockage/packages/f41/attr/po/en@boldquot.po/mnt/stockage/packages/f41/attr/po/en@quot.po | 
+ | [fr](/f41/language/fr) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/fr.po | 
+ | [ka](/f41/language/ka) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/ka.po | 
+ | [nl](/f41/language/nl) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/nl.po | 
+ | [pl](/f41/language/pl) | 267 | 355 | 75.2 | /mnt/stockage/packages/f41/attr/po/pl.po | 
+ | [de](/f41/language/de) | 265 | 355 | 74.6 | /mnt/stockage/packages/f41/attr/po/de.po | 
+ | [cs](/f41/language/cs) | 212 | 355 | 59.7 | /mnt/stockage/packages/f41/attr/po/cs.po | 
+ | [es](/f41/language/es) | 212 | 355 | 59.7 | /mnt/stockage/packages/f41/attr/po/es.po | 
+ | [gl](/f41/language/gl) | 212 | 355 | 59.7 | /mnt/stockage/packages/f41/attr/po/gl.po | 
+ | [sv](/f41/language/sv) | 127 | 355 | 35.8 | /mnt/stockage/packages/f41/attr/po/sv.po | 
 {.sortable}
 
 

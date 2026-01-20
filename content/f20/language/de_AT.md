@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ganyremote]({{< ref "/f20/package/ganyremote.md" >}}) | 500 | 500 | 100.0 | Austrian | 
- | [kanyremote]({{< ref "/f20/package/kanyremote.md" >}}) | 479 | 484 | 99.0 | Austrian | 
- | [gnomebaker]({{< ref "/f20/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f20/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f20/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f20/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [perl-libintl]({{< ref "/f20/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [gpsdrive]({{< ref "/f20/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [gourmet]({{< ref "/f20/package/gourmet.md" >}}) | 561 | 3776 | 14.9 | German (Austria) <de_AT@li.org> | 
- | [texinfo]({{< ref "/f20/package/texinfo.md" >}}) | 5 | 5575 | 0.1 | German <de@li.org> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ganyremote](/f20/package/ganyremote) | 500 | 500 | 100.0 | Austrian | 
+ | [kanyremote](/f20/package/kanyremote) | 479 | 484 | 99.0 | Austrian | 
+ | [gnomebaker](/f20/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f20/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f20/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f20/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [perl-libintl](/f20/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [gpsdrive](/f20/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [gourmet](/f20/package/gourmet) | 561 | 3776 | 14.9 | German (Austria) <de_AT@li.org> | 
+ | [texinfo](/f20/package/texinfo) | 5 | 5575 | 0.1 | German <de@li.org> | 
+ | [vidalia](/f20/package/vidalia) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

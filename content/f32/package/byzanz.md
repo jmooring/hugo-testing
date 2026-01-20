@@ -18,37 +18,37 @@ The package byzanz (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/de.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/dz.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ja.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/lv.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/zh_CN.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 231 | 236 | 97.9 | /mnt/stockage/packages/f32/byzanz/po/vi.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 198 | 249 | 79.5 | /mnt/stockage/packages/f32/byzanz/po/tr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 126 | 234 | 53.8 | /mnt/stockage/packages/f32/byzanz/po/nb.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 3 | 249 | 1.2 | /mnt/stockage/packages/f32/byzanz/po/oc.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 0 | 249 | 0.0 | /mnt/stockage/packages/f32/byzanz/po/ar.po | 
+ | [ca](/f32/language/ca) | 238 | 238 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ca.po | 
+ | [cs](/f32/language/cs) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/cs.po | 
+ | [da](/f32/language/da) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/da.po | 
+ | [de](/f32/language/de) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/de.po | 
+ | [dz](/f32/language/dz) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/dz.po | 
+ | [el](/f32/language/el) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/en_GB.po | 
+ | [es](/f32/language/es) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/es.po | 
+ | [fi](/f32/language/fi) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/fi.po | 
+ | [fr](/f32/language/fr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/fr.po | 
+ | [gl](/f32/language/gl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/gl.po | 
+ | [hu](/f32/language/hu) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/hu.po | 
+ | [id](/f32/language/id) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/id.po | 
+ | [it](/f32/language/it) | 238 | 238 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/it.po | 
+ | [ja](/f32/language/ja) | 249 | 249 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ja.po | 
+ | [lv](/f32/language/lv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/lv.po | 
+ | [pl](/f32/language/pl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 234 | 234 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ro.po | 
+ | [ru](/f32/language/ru) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/ru.po | 
+ | [sl](/f32/language/sl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sl.po | 
+ | [sr](/f32/language/sr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/sv.po | 
+ | [uk](/f32/language/uk) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 236 | 236 | 100.0 | /mnt/stockage/packages/f32/byzanz/po/zh_CN.po | 
+ | [vi](/f32/language/vi) | 231 | 236 | 97.9 | /mnt/stockage/packages/f32/byzanz/po/vi.po | 
+ | [tr](/f32/language/tr) | 198 | 249 | 79.5 | /mnt/stockage/packages/f32/byzanz/po/tr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 126 | 234 | 53.8 | /mnt/stockage/packages/f32/byzanz/po/nb.po | 
+ | [oc](/f32/language/oc) | 3 | 249 | 1.2 | /mnt/stockage/packages/f32/byzanz/po/oc.po | 
+ | [ar](/f32/language/ar) | 0 | 249 | 0.0 | /mnt/stockage/packages/f32/byzanz/po/ar.po | 
 {.sortable}
 
 

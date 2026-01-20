@@ -18,7 +18,7 @@ The package python-flask-babelex (version 0.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/python-flask-babelex/tests/translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f32/python-flask-babelex/tests/translations/de/LC_MESSAGES/test.po | 
+ | [de](/f32/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/python-flask-babelex/tests/translations/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f32/python-flask-babelex/tests/translations/de/LC_MESSAGES/test.po | 
 {.sortable}
 
 

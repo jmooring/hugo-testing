@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f21/package/squirrelmail.md" >}}) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
- | [gnome-gmail]({{< ref "/f21/package/gnome-gmail.md" >}}) | 51 | 99 | 51.5 | LANGUAGE <LL@li.org> | 
- | [transmission]({{< ref "/f21/package/transmission.md" >}}) | 329 | 1809 | 18.2 | Tamil (Sri-Lanka) <ta_LK@li.org> | 
+ | [squirrelmail](/f21/package/squirrelmail) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [gnome-gmail](/f21/package/gnome-gmail) | 51 | 99 | 51.5 | LANGUAGE <LL@li.org> | 
+ | [transmission](/f21/package/transmission) | 329 | 1809 | 18.2 | Tamil (Sri-Lanka) <ta_LK@li.org> | 
 {.sortable}
 
 

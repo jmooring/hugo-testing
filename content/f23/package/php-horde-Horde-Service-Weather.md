@@ -18,15 +18,15 @@ The package php-horde-Horde-Service-Weather (version 2.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f23/language/es.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/es/LC_MESSAGES/Horde_Service_Weather.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/fi/LC_MESSAGES/Horde_Service_Weather.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/fr/LC_MESSAGES/Horde_Service_Weather.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 531 | 531 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/hu/LC_MESSAGES/Horde_Service_Weather.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/lv/LC_MESSAGES/Horde_Service_Weather.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/nl/LC_MESSAGES/Horde_Service_Weather.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 587 | 589 | 99.7 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/de/LC_MESSAGES/Horde_Service_Weather.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 442 | 527 | 83.9 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/ja/LC_MESSAGES/Horde_Service_Weather.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 11 | 527 | 2.1 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/eu/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [es](/f23/language/es) | 531 | 531 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/es/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [fi](/f23/language/fi) | 527 | 527 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/fi/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [fr](/f23/language/fr) | 527 | 527 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/fr/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [hu](/f23/language/hu) | 531 | 531 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/hu/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [lv](/f23/language/lv) | 3 | 3 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/lv/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [nl](/f23/language/nl) | 539 | 539 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/nl/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [de](/f23/language/de) | 587 | 589 | 99.7 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/de/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [ja](/f23/language/ja) | 442 | 527 | 83.9 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/ja/LC_MESSAGES/Horde_Service_Weather.po | 
+ | [eu](/f23/language/eu) | 11 | 527 | 2.1 | /mnt/stockage/packages/f23/php-horde-Horde-Service-Weather/Horde_Service_Weather-2.5.2/locale/eu/LC_MESSAGES/Horde_Service_Weather.po | 
 {.sortable}
 
 

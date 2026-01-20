@@ -18,7 +18,7 @@ The package gnome-translate (version 0.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f8/gnome-translate/po/fr.po | 
+ | [fr](/f8/language/fr) | 795 | 795 | 100.0 | /mnt/stockage/packages/f8/gnome-translate/po/fr.po | 
 {.sortable}
 
 

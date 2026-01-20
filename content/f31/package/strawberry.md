@@ -18,17 +18,17 @@ The package strawberry (version 0.6.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 3926 | 3934 | 99.8 | /mnt/stockage/packages/f31/strawberry/src/translations/pl.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 3924 | 3934 | 99.7 | /mnt/stockage/packages/f31/strawberry/src/translations/de.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 3920 | 3934 | 99.6 | /mnt/stockage/packages/f31/strawberry/src/translations/fr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 3790 | 3934 | 96.3 | /mnt/stockage/packages/f31/strawberry/src/translations/hu.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 3709 | 3934 | 94.3 | /mnt/stockage/packages/f31/strawberry/src/translations/cs.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 3670 | 3934 | 93.3 | /mnt/stockage/packages/f31/strawberry/src/translations/ko.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 3617 | 3934 | 91.9 | /mnt/stockage/packages/f31/strawberry/src/translations/es.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 3587 | 3934 | 91.2 | /mnt/stockage/packages/f31/strawberry/src/translations/it.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 3552 | 3934 | 90.3 | /mnt/stockage/packages/f31/strawberry/src/translations/nb.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 3454 | 3934 | 87.8 | /mnt/stockage/packages/f31/strawberry/src/translations/id.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 3430 | 3934 | 87.2 | /mnt/stockage/packages/f31/strawberry/src/translations/ru.po | 
+ | [pl](/f31/language/pl) | 3926 | 3934 | 99.8 | /mnt/stockage/packages/f31/strawberry/src/translations/pl.po | 
+ | [de](/f31/language/de) | 3924 | 3934 | 99.7 | /mnt/stockage/packages/f31/strawberry/src/translations/de.po | 
+ | [fr](/f31/language/fr) | 3920 | 3934 | 99.6 | /mnt/stockage/packages/f31/strawberry/src/translations/fr.po | 
+ | [hu](/f31/language/hu) | 3790 | 3934 | 96.3 | /mnt/stockage/packages/f31/strawberry/src/translations/hu.po | 
+ | [cs](/f31/language/cs) | 3709 | 3934 | 94.3 | /mnt/stockage/packages/f31/strawberry/src/translations/cs.po | 
+ | [ko](/f31/language/ko) | 3670 | 3934 | 93.3 | /mnt/stockage/packages/f31/strawberry/src/translations/ko.po | 
+ | [es](/f31/language/es) | 3617 | 3934 | 91.9 | /mnt/stockage/packages/f31/strawberry/src/translations/es.po | 
+ | [it](/f31/language/it) | 3587 | 3934 | 91.2 | /mnt/stockage/packages/f31/strawberry/src/translations/it.po | 
+ | [nb_NO](/f31/language/nb_NO) | 3552 | 3934 | 90.3 | /mnt/stockage/packages/f31/strawberry/src/translations/nb.po | 
+ | [id](/f31/language/id) | 3454 | 3934 | 87.8 | /mnt/stockage/packages/f31/strawberry/src/translations/id.po | 
+ | [ru](/f31/language/ru) | 3430 | 3934 | 87.2 | /mnt/stockage/packages/f31/strawberry/src/translations/ru.po | 
 {.sortable}
 
 

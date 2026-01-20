@@ -18,93 +18,93 @@ The package gnome-screensaver (version 3.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f19/language/an.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/an.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ar.po | 
- | [as]({{< ref "/f19/language/as.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/as.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/be.po | 
- | [be_Latn]({{< ref "/f19/language/be_Latn.md" >}}) | 966 | 966 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/be@latin.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/bg.po | 
- | [bn]({{< ref "/f19/language/bn.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/bn.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/bn_IN.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 582 | 582 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ca.po/mnt/stockage/packages/f19/gnome-screensaver/po/ca@valencia.po | 
- | [crh]({{< ref "/f19/language/crh.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/crh.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/cs.po | 
- | [cy]({{< ref "/f19/language/cy.md" >}}) | 1167 | 1167 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/cy.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/de.po | 
- | [dz]({{< ref "/f19/language/dz.md" >}}) | 955 | 955 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/dz.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/el.po | 
- | [en_CA]({{< ref "/f19/language/en_CA.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/en_CA.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/en_GB.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/eo.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/eu.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/fa.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/gu.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/id.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 955 | 955 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/is.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ja.po | 
- | [km]({{< ref "/f19/language/km.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/km.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/lv.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 966 | 966 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/mk.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ml.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/mr.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ms.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/nb.po | 
- | [ne]({{< ref "/f19/language/ne.md" >}}) | 991 | 991 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ne.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/nl.po | 
- | [nn]({{< ref "/f19/language/nn.md" >}}) | 955 | 955 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/nn.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 468 | 468 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ro.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 989 | 989 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sl.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 1167 | 1167 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sq.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sr.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sr@latin.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/te.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/th.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/tr.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ug.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/zh_HK.po | 
- | [mg]({{< ref "/f19/language/mg.md" >}}) | 1259 | 1263 | 99.7 | /mnt/stockage/packages/f19/gnome-screensaver/po/mg.po | 
- | [nds]({{< ref "/f19/language/nds.md" >}}) | 977 | 989 | 98.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/nds.po | 
- | [af]({{< ref "/f19/language/af.md" >}}) | 277 | 283 | 97.9 | /mnt/stockage/packages/f19/gnome-screensaver/po/af.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 954 | 975 | 97.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/ast.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 932 | 966 | 96.5 | /mnt/stockage/packages/f19/gnome-screensaver/po/hr.po | 
- | [xh]({{< ref "/f19/language/xh.md" >}}) | 272 | 286 | 95.1 | /mnt/stockage/packages/f19/gnome-screensaver/po/xh.po | 
- | [mn]({{< ref "/f19/language/mn.md" >}}) | 1256 | 1339 | 93.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/mn.po | 
- | [mai]({{< ref "/f19/language/mai.md" >}}) | 856 | 989 | 86.6 | /mnt/stockage/packages/f19/gnome-screensaver/po/mai.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 225 | 270 | 83.3 | /mnt/stockage/packages/f19/gnome-screensaver/po/kn.po | 
- | [error]({{< ref "/f19/language/error.md" >}}) | 807 | 989 | 81.6 | /mnt/stockage/packages/f19/gnome-screensaver/po/en@shaw.po | 
- | [ku]({{< ref "/f19/language/ku.md" >}}) | 1092 | 1339 | 81.6 | /mnt/stockage/packages/f19/gnome-screensaver/po/ku.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 632 | 991 | 63.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/ka.po | 
- | [si]({{< ref "/f19/language/si.md" >}}) | 605 | 972 | 62.2 | /mnt/stockage/packages/f19/gnome-screensaver/po/si.po | 
- | [ps]({{< ref "/f19/language/ps.md" >}}) | 376 | 955 | 39.4 | /mnt/stockage/packages/f19/gnome-screensaver/po/ps.po | 
- | [br]({{< ref "/f19/language/br.md" >}}) | 386 | 982 | 39.3 | /mnt/stockage/packages/f19/gnome-screensaver/po/br.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 104 | 286 | 36.4 | /mnt/stockage/packages/f19/gnome-screensaver/po/ga.po | 
- | [my]({{< ref "/f19/language/my.md" >}}) | 113 | 989 | 11.4 | /mnt/stockage/packages/f19/gnome-screensaver/po/my.po | 
- | [oc]({{< ref "/f19/language/oc.md" >}}) | 87 | 966 | 9.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/oc.po | 
+ | [an](/f19/language/an) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/an.po | 
+ | [ar](/f19/language/ar) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ar.po | 
+ | [as](/f19/language/as) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/as.po | 
+ | [be](/f19/language/be) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/be.po | 
+ | [be_Latn](/f19/language/be_Latn) | 966 | 966 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/be@latin.po | 
+ | [bg](/f19/language/bg) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/bg.po | 
+ | [bn](/f19/language/bn) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/bn.po | 
+ | [bn_IN](/f19/language/bn_IN) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/bn_IN.po | 
+ | [ca](/f19/language/ca) | 582 | 582 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ca.po/mnt/stockage/packages/f19/gnome-screensaver/po/ca@valencia.po | 
+ | [crh](/f19/language/crh) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/crh.po | 
+ | [cs](/f19/language/cs) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/cs.po | 
+ | [cy](/f19/language/cy) | 1167 | 1167 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/cy.po | 
+ | [da](/f19/language/da) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/da.po | 
+ | [de](/f19/language/de) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/de.po | 
+ | [dz](/f19/language/dz) | 955 | 955 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/dz.po | 
+ | [el](/f19/language/el) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/el.po | 
+ | [en_CA](/f19/language/en_CA) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/en_CA.po | 
+ | [en_GB](/f19/language/en_GB) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/en_GB.po | 
+ | [eo](/f19/language/eo) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/eo.po | 
+ | [es](/f19/language/es) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/es.po | 
+ | [et](/f19/language/et) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/et.po | 
+ | [eu](/f19/language/eu) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/eu.po | 
+ | [fa](/f19/language/fa) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/fa.po | 
+ | [fi](/f19/language/fi) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/fi.po | 
+ | [fr](/f19/language/fr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/fr.po | 
+ | [gl](/f19/language/gl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/gl.po | 
+ | [gu](/f19/language/gu) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/gu.po | 
+ | [he](/f19/language/he) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/he.po | 
+ | [hi](/f19/language/hi) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/hi.po | 
+ | [hu](/f19/language/hu) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/hu.po | 
+ | [id](/f19/language/id) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/id.po | 
+ | [is](/f19/language/is) | 955 | 955 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/is.po | 
+ | [it](/f19/language/it) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/it.po | 
+ | [ja](/f19/language/ja) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ja.po | 
+ | [km](/f19/language/km) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/km.po | 
+ | [ko](/f19/language/ko) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ko.po | 
+ | [lt](/f19/language/lt) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/lt.po | 
+ | [lv](/f19/language/lv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/lv.po | 
+ | [mk](/f19/language/mk) | 966 | 966 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/mk.po | 
+ | [ml](/f19/language/ml) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ml.po | 
+ | [mr](/f19/language/mr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/mr.po | 
+ | [ms](/f19/language/ms) | 985 | 985 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ms.po | 
+ | [nb_NO](/f19/language/nb_NO) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/nb.po | 
+ | [ne](/f19/language/ne) | 991 | 991 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ne.po | 
+ | [nl](/f19/language/nl) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/nl.po | 
+ | [nn](/f19/language/nn) | 955 | 955 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/nn.po | 
+ | [or](/f19/language/or) | 468 | 468 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/or.po | 
+ | [pa](/f19/language/pa) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pa.po | 
+ | [pl](/f19/language/pl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pl.po | 
+ | [pt](/f19/language/pt) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ro.po | 
+ | [ru](/f19/language/ru) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ru.po | 
+ | [sk](/f19/language/sk) | 989 | 989 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sk.po | 
+ | [sl](/f19/language/sl) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sl.po | 
+ | [sq](/f19/language/sq) | 1167 | 1167 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sq.po | 
+ | [sr](/f19/language/sr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sr.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sr@latin.po | 
+ | [sv](/f19/language/sv) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/sv.po | 
+ | [ta](/f19/language/ta) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ta.po | 
+ | [te](/f19/language/te) | 286 | 286 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/te.po | 
+ | [th](/f19/language/th) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/th.po | 
+ | [tr](/f19/language/tr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/tr.po | 
+ | [ug](/f19/language/ug) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/ug.po | 
+ | [uk](/f19/language/uk) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/uk.po | 
+ | [vi](/f19/language/vi) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 291 | 291 | 100.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/zh_HK.po | 
+ | [mg](/f19/language/mg) | 1259 | 1263 | 99.7 | /mnt/stockage/packages/f19/gnome-screensaver/po/mg.po | 
+ | [nds](/f19/language/nds) | 977 | 989 | 98.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/nds.po | 
+ | [af](/f19/language/af) | 277 | 283 | 97.9 | /mnt/stockage/packages/f19/gnome-screensaver/po/af.po | 
+ | [ast](/f19/language/ast) | 954 | 975 | 97.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/ast.po | 
+ | [hr](/f19/language/hr) | 932 | 966 | 96.5 | /mnt/stockage/packages/f19/gnome-screensaver/po/hr.po | 
+ | [xh](/f19/language/xh) | 272 | 286 | 95.1 | /mnt/stockage/packages/f19/gnome-screensaver/po/xh.po | 
+ | [mn](/f19/language/mn) | 1256 | 1339 | 93.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/mn.po | 
+ | [mai](/f19/language/mai) | 856 | 989 | 86.6 | /mnt/stockage/packages/f19/gnome-screensaver/po/mai.po | 
+ | [kn](/f19/language/kn) | 225 | 270 | 83.3 | /mnt/stockage/packages/f19/gnome-screensaver/po/kn.po | 
+ | [error](/f19/language/error) | 807 | 989 | 81.6 | /mnt/stockage/packages/f19/gnome-screensaver/po/en@shaw.po | 
+ | [ku](/f19/language/ku) | 1092 | 1339 | 81.6 | /mnt/stockage/packages/f19/gnome-screensaver/po/ku.po | 
+ | [ka](/f19/language/ka) | 632 | 991 | 63.8 | /mnt/stockage/packages/f19/gnome-screensaver/po/ka.po | 
+ | [si](/f19/language/si) | 605 | 972 | 62.2 | /mnt/stockage/packages/f19/gnome-screensaver/po/si.po | 
+ | [ps](/f19/language/ps) | 376 | 955 | 39.4 | /mnt/stockage/packages/f19/gnome-screensaver/po/ps.po | 
+ | [br](/f19/language/br) | 386 | 982 | 39.3 | /mnt/stockage/packages/f19/gnome-screensaver/po/br.po | 
+ | [ga](/f19/language/ga) | 104 | 286 | 36.4 | /mnt/stockage/packages/f19/gnome-screensaver/po/ga.po | 
+ | [my](/f19/language/my) | 113 | 989 | 11.4 | /mnt/stockage/packages/f19/gnome-screensaver/po/my.po | 
+ | [oc](/f19/language/oc) | 87 | 966 | 9.0 | /mnt/stockage/packages/f19/gnome-screensaver/po/oc.po | 
 {.sortable}
 
 

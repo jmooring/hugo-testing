@@ -18,15 +18,15 @@ The package denemo (version 1.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f22/language/it.md" >}}) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f22/denemo/po/it.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 21977 | 22597 | 97.3 | /mnt/stockage/packages/f22/denemo/po/fr.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 31582 | 32685 | 96.6 | /mnt/stockage/packages/f22/denemo/po/cs.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 4742 | 21539 | 22.0 | /mnt/stockage/packages/f22/denemo/po/ja.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f22/denemo/po/pl.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f22/denemo/po/de.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 834 | 14852 | 5.6 | /mnt/stockage/packages/f22/denemo/po/en_GB.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f22/denemo/po/sv.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 0 | 22597 | 0.0 | /mnt/stockage/packages/f22/denemo/po/es.po | 
+ | [it](/f22/language/it) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f22/denemo/po/it.po | 
+ | [fr](/f22/language/fr) | 21977 | 22597 | 97.3 | /mnt/stockage/packages/f22/denemo/po/fr.po | 
+ | [cs](/f22/language/cs) | 31582 | 32685 | 96.6 | /mnt/stockage/packages/f22/denemo/po/cs.po | 
+ | [ja](/f22/language/ja) | 4742 | 21539 | 22.0 | /mnt/stockage/packages/f22/denemo/po/ja.po | 
+ | [pl](/f22/language/pl) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f22/denemo/po/pl.po | 
+ | [de](/f22/language/de) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f22/denemo/po/de.po | 
+ | [en_GB](/f22/language/en_GB) | 834 | 14852 | 5.6 | /mnt/stockage/packages/f22/denemo/po/en_GB.po | 
+ | [sv](/f22/language/sv) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f22/denemo/po/sv.po | 
+ | [es](/f22/language/es) | 0 | 22597 | 0.0 | /mnt/stockage/packages/f22/denemo/po/es.po | 
 {.sortable}
 
 

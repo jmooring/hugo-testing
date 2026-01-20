@@ -18,20 +18,20 @@ The package mingw-libgpg-error (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 781 | 783 | 99.7 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/de.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/da.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 760 | 783 | 97.1 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/pl.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/eo.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/sv.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/vi.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 742 | 783 | 94.8 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 674 | 783 | 86.1 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/ja.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 616 | 783 | 78.7 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/ro.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 547 | 783 | 69.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/zh_CN.po | 
+ | [de](/f19/language/de) | 781 | 783 | 99.7 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/de.po | 
+ | [cs](/f19/language/cs) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/cs.po | 
+ | [da](/f19/language/da) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/da.po | 
+ | [fr](/f19/language/fr) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/fr.po | 
+ | [nl](/f19/language/nl) | 777 | 783 | 99.2 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/nl.po | 
+ | [pl](/f19/language/pl) | 760 | 783 | 97.1 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/pl.po | 
+ | [eo](/f19/language/eo) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/eo.po | 
+ | [sv](/f19/language/sv) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/sv.po | 
+ | [uk](/f19/language/uk) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/uk.po | 
+ | [vi](/f19/language/vi) | 743 | 783 | 94.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/vi.po | 
+ | [it](/f19/language/it) | 742 | 783 | 94.8 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/it.po | 
+ | [ja](/f19/language/ja) | 674 | 783 | 86.1 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/ja.po | 
+ | [ro](/f19/language/ro) | 616 | 783 | 78.7 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/ro.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 547 | 783 | 69.9 | /mnt/stockage/packages/f19/mingw-libgpg-error/po/zh_CN.po | 
 {.sortable}
 
 

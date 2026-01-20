@@ -18,89 +18,89 @@ The package sugar-turtleart (version 210):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f24/language/ayc.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/ayc.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1565 | 1565 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/de.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/en_GB.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/en_US.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1459 | 1459 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/fr.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/hy.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/nl.po | 
- | [pap]({{< ref "/f24/language/pap.md" >}}) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/pap.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1565 | 1565 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/pt.po | 
- | [qu]({{< ref "/f24/language/qu.md" >}}) | 1445 | 1445 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/quz.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1565 | 1565 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/zh_CN.po | 
- | [ay]({{< ref "/f24/language/ay.md" >}}) | 2584 | 2596 | 99.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/aym.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 1547 | 1565 | 98.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/ne.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1509 | 1565 | 96.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/it.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1379 | 1459 | 94.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/pl.po | 
- | [mi]({{< ref "/f24/language/mi.md" >}}) | 1368 | 1459 | 93.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/mi.po | 
- | [hus]({{< ref "/f24/language/hus.md" >}}) | 1348 | 1459 | 92.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/hus.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1311 | 1459 | 89.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/el.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1254 | 1459 | 85.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/zh_TW.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1248 | 1459 | 85.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/he.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 1206 | 1459 | 82.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/ta.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 1176 | 1459 | 80.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/vi.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 1217 | 1565 | 77.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/hi.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1112 | 1459 | 76.2 | /mnt/stockage/packages/f24/sugar-turtleart/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 900 | 1459 | 61.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/ru.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 631 | 1459 | 43.2 | /mnt/stockage/packages/f24/sugar-turtleart/po/id.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 589 | 1459 | 40.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/th.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 527 | 1574 | 33.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/si.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 448 | 1459 | 30.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/te.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 427 | 1459 | 29.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/sv.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 388 | 1574 | 24.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/af.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 332 | 1459 | 22.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/mr.po | 
- | [mg]({{< ref "/f24/language/mg.md" >}}) | 271 | 1459 | 18.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/mg.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 254 | 1459 | 17.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/ja.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 252 | 1459 | 17.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/mn.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 962 | 5963 | 16.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/tzo.po/mnt/stockage/packages/f24/sugar-turtleart/po/pseudo.po/mnt/stockage/packages/f24/sugar-turtleart/po/pbs.po/mnt/stockage/packages/f24/sugar-turtleart/po/mvo.po/mnt/stockage/packages/f24/sugar-turtleart/po/agr.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 145 | 1459 | 9.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/km.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 125 | 1459 | 8.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/sq.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 110 | 1459 | 7.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/cs.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 94 | 1459 | 6.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/rw.po | 
- | [prs]({{< ref "/f24/language/prs.md" >}}) | 83 | 1459 | 5.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/fa_AF.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 81 | 1459 | 5.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/bn.po | 
- | [ps]({{< ref "/f24/language/ps.md" >}}) | 81 | 1459 | 5.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/ps.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 74 | 1445 | 5.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ko.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 70 | 1459 | 4.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/nb.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 63 | 1459 | 4.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/fi.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 57 | 1459 | 3.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/tr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 60 | 1574 | 3.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/ar.po | 
- | [sw]({{< ref "/f24/language/sw.md" >}}) | 45 | 1459 | 3.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/sw.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 42 | 1459 | 2.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/ca.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 36 | 1574 | 2.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/bn_IN.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 26 | 1459 | 1.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/am.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 6 | 1459 | 0.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/sl.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 4 | 1459 | 0.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/dz.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 4 | 1459 | 0.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/sk.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 3 | 1459 | 0.2 | /mnt/stockage/packages/f24/sugar-turtleart/po/is.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/bg.po | 
- | [bi]({{< ref "/f24/language/bi.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/bi.po | 
- | [cpp]({{< ref "/f24/language/cpp.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/cpp.po | 
- | [ff]({{< ref "/f24/language/ff.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ff.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/gu.po | 
- | [ha]({{< ref "/f24/language/ha.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ha.po | 
- | [ht]({{< ref "/f24/language/ht.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ht.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/hu.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/mk.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ml.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ms.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/pa.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ro.po | 
- | [sd]({{< ref "/f24/language/sd.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/sd.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ur.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/wa.po | 
- | [yo]({{< ref "/f24/language/yo.md" >}}) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/yo.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 1 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/fa.po | 
- | [ig]({{< ref "/f24/language/ig.md" >}}) | 2 | 2918 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ig.po/mnt/stockage/packages/f24/sugar-turtleart/po/ibo.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/br.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/en.po | 
- | [fil]({{< ref "/f24/language/fil.md" >}}) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/fil.po | 
- | [kos]({{< ref "/f24/language/kos.md" >}}) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/kos.po | 
- | [tvl]({{< ref "/f24/language/tvl.md" >}}) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/tvl.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/ug.po | 
+ | [ayc](/f24/language/ayc) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/ayc.po | 
+ | [da](/f24/language/da) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/da.po | 
+ | [de](/f24/language/de) | 1565 | 1565 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/de.po | 
+ | [en_GB](/f24/language/en_GB) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/en_GB.po | 
+ | [en_US](/f24/language/en_US) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/en_US.po | 
+ | [es](/f24/language/es) | 1459 | 1459 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/es.po | 
+ | [fr](/f24/language/fr) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/fr.po | 
+ | [hy](/f24/language/hy) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/hy.po | 
+ | [nl](/f24/language/nl) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/nl.po | 
+ | [pap](/f24/language/pap) | 1574 | 1574 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/pap.po | 
+ | [pt](/f24/language/pt) | 1565 | 1565 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/pt.po | 
+ | [qu](/f24/language/qu) | 1445 | 1445 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/quz.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1565 | 1565 | 100.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/zh_CN.po | 
+ | [ay](/f24/language/ay) | 2584 | 2596 | 99.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/aym.po | 
+ | [ne](/f24/language/ne) | 1547 | 1565 | 98.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/ne.po | 
+ | [it](/f24/language/it) | 1509 | 1565 | 96.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/it.po | 
+ | [pl](/f24/language/pl) | 1379 | 1459 | 94.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/pl.po | 
+ | [mi](/f24/language/mi) | 1368 | 1459 | 93.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/mi.po | 
+ | [hus](/f24/language/hus) | 1348 | 1459 | 92.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/hus.po | 
+ | [el](/f24/language/el) | 1311 | 1459 | 89.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/el.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1254 | 1459 | 85.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/zh_TW.po | 
+ | [he](/f24/language/he) | 1248 | 1459 | 85.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/he.po | 
+ | [ta](/f24/language/ta) | 1206 | 1459 | 82.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/ta.po | 
+ | [vi](/f24/language/vi) | 1176 | 1459 | 80.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/vi.po | 
+ | [hi](/f24/language/hi) | 1217 | 1565 | 77.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/hi.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1112 | 1459 | 76.2 | /mnt/stockage/packages/f24/sugar-turtleart/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 900 | 1459 | 61.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/ru.po | 
+ | [id](/f24/language/id) | 631 | 1459 | 43.2 | /mnt/stockage/packages/f24/sugar-turtleart/po/id.po | 
+ | [th](/f24/language/th) | 589 | 1459 | 40.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/th.po | 
+ | [si](/f24/language/si) | 527 | 1574 | 33.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/si.po | 
+ | [te](/f24/language/te) | 448 | 1459 | 30.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/te.po | 
+ | [sv](/f24/language/sv) | 427 | 1459 | 29.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/sv.po | 
+ | [af](/f24/language/af) | 388 | 1574 | 24.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/af.po | 
+ | [mr](/f24/language/mr) | 332 | 1459 | 22.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/mr.po | 
+ | [mg](/f24/language/mg) | 271 | 1459 | 18.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/mg.po | 
+ | [ja](/f24/language/ja) | 254 | 1459 | 17.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/ja.po | 
+ | [mn](/f24/language/mn) | 252 | 1459 | 17.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/mn.po | 
+ | [error](/f24/language/error) | 962 | 5963 | 16.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/tzo.po/mnt/stockage/packages/f24/sugar-turtleart/po/pseudo.po/mnt/stockage/packages/f24/sugar-turtleart/po/pbs.po/mnt/stockage/packages/f24/sugar-turtleart/po/mvo.po/mnt/stockage/packages/f24/sugar-turtleart/po/agr.po | 
+ | [km](/f24/language/km) | 145 | 1459 | 9.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/km.po | 
+ | [sq](/f24/language/sq) | 125 | 1459 | 8.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/sq.po | 
+ | [cs](/f24/language/cs) | 110 | 1459 | 7.5 | /mnt/stockage/packages/f24/sugar-turtleart/po/cs.po | 
+ | [rw](/f24/language/rw) | 94 | 1459 | 6.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/rw.po | 
+ | [prs](/f24/language/prs) | 83 | 1459 | 5.7 | /mnt/stockage/packages/f24/sugar-turtleart/po/fa_AF.po | 
+ | [bn](/f24/language/bn) | 81 | 1459 | 5.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/bn.po | 
+ | [ps](/f24/language/ps) | 81 | 1459 | 5.6 | /mnt/stockage/packages/f24/sugar-turtleart/po/ps.po | 
+ | [ko](/f24/language/ko) | 74 | 1445 | 5.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ko.po | 
+ | [nb_NO](/f24/language/nb_NO) | 70 | 1459 | 4.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/nb.po | 
+ | [fi](/f24/language/fi) | 63 | 1459 | 4.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/fi.po | 
+ | [tr](/f24/language/tr) | 57 | 1459 | 3.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/tr.po | 
+ | [ar](/f24/language/ar) | 60 | 1574 | 3.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/ar.po | 
+ | [sw](/f24/language/sw) | 45 | 1459 | 3.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/sw.po | 
+ | [ca](/f24/language/ca) | 42 | 1459 | 2.9 | /mnt/stockage/packages/f24/sugar-turtleart/po/ca.po | 
+ | [bn_IN](/f24/language/bn_IN) | 36 | 1574 | 2.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/bn_IN.po | 
+ | [am](/f24/language/am) | 26 | 1459 | 1.8 | /mnt/stockage/packages/f24/sugar-turtleart/po/am.po | 
+ | [sl](/f24/language/sl) | 6 | 1459 | 0.4 | /mnt/stockage/packages/f24/sugar-turtleart/po/sl.po | 
+ | [dz](/f24/language/dz) | 4 | 1459 | 0.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/dz.po | 
+ | [sk](/f24/language/sk) | 4 | 1459 | 0.3 | /mnt/stockage/packages/f24/sugar-turtleart/po/sk.po | 
+ | [is](/f24/language/is) | 3 | 1459 | 0.2 | /mnt/stockage/packages/f24/sugar-turtleart/po/is.po | 
+ | [bg](/f24/language/bg) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/bg.po | 
+ | [bi](/f24/language/bi) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/bi.po | 
+ | [cpp](/f24/language/cpp) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/cpp.po | 
+ | [ff](/f24/language/ff) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ff.po | 
+ | [gu](/f24/language/gu) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/gu.po | 
+ | [ha](/f24/language/ha) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ha.po | 
+ | [ht](/f24/language/ht) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ht.po | 
+ | [hu](/f24/language/hu) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/hu.po | 
+ | [mk](/f24/language/mk) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/mk.po | 
+ | [ml](/f24/language/ml) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ml.po | 
+ | [ms](/f24/language/ms) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ms.po | 
+ | [pa](/f24/language/pa) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/pa.po | 
+ | [ro](/f24/language/ro) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ro.po | 
+ | [sd](/f24/language/sd) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/sd.po | 
+ | [ur](/f24/language/ur) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ur.po | 
+ | [wa](/f24/language/wa) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/wa.po | 
+ | [yo](/f24/language/yo) | 2 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/yo.po | 
+ | [fa](/f24/language/fa) | 1 | 1459 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/fa.po | 
+ | [ig](/f24/language/ig) | 2 | 2918 | 0.1 | /mnt/stockage/packages/f24/sugar-turtleart/po/ig.po/mnt/stockage/packages/f24/sugar-turtleart/po/ibo.po | 
+ | [br](/f24/language/br) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/br.po | 
+ | [en](/f24/language/en) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/en.po | 
+ | [fil](/f24/language/fil) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/fil.po | 
+ | [kos](/f24/language/kos) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/kos.po | 
+ | [tvl](/f24/language/tvl) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/tvl.po | 
+ | [ug](/f24/language/ug) | 0 | 1459 | 0.0 | /mnt/stockage/packages/f24/sugar-turtleart/po/ug.po | 
 {.sortable}
 
 

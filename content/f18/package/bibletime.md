@@ -18,20 +18,20 @@ The package bibletime (version 2.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 9694 | 9733 | 99.6 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-de.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-de.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 9694 | 9733 | 99.6 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-it.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-it.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 9654 | 9733 | 99.2 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-hu.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-hu.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 9631 | 9733 | 99.0 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-ar.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-ar.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 9591 | 9733 | 98.5 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-es.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-es.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 8529 | 9733 | 87.6 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-pt_BR.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-pt_BR.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 5073 | 9733 | 52.1 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-cs.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-cs.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 5012 | 9733 | 51.5 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-fi.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-fi.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 1939 | 4818 | 40.2 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-da.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2706 | 9733 | 27.8 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-fr.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-fr.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 1168 | 4818 | 24.2 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-ko.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1168 | 4818 | 24.2 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-ru.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 1140 | 4818 | 23.7 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-bg.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 2046 | 9733 | 21.0 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-nl.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-nl.po | 
+ | [de](/f18/language/de) | 9694 | 9733 | 99.6 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-de.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-de.po | 
+ | [it](/f18/language/it) | 9694 | 9733 | 99.6 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-it.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-it.po | 
+ | [hu](/f18/language/hu) | 9654 | 9733 | 99.2 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-hu.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-hu.po | 
+ | [ar](/f18/language/ar) | 9631 | 9733 | 99.0 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-ar.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-ar.po | 
+ | [es](/f18/language/es) | 9591 | 9733 | 98.5 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-es.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-es.po | 
+ | [pt_BR](/f18/language/pt_BR) | 8529 | 9733 | 87.6 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-pt_BR.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-pt_BR.po | 
+ | [cs](/f18/language/cs) | 5073 | 9733 | 52.1 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-cs.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-cs.po | 
+ | [fi](/f18/language/fi) | 5012 | 9733 | 51.5 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-fi.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-fi.po | 
+ | [da](/f18/language/da) | 1939 | 4818 | 40.2 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-da.po | 
+ | [fr](/f18/language/fr) | 2706 | 9733 | 27.8 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-fr.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-fr.po | 
+ | [ko](/f18/language/ko) | 1168 | 4818 | 24.2 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-ko.po | 
+ | [ru](/f18/language/ru) | 1168 | 4818 | 24.2 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-ru.po | 
+ | [bg](/f18/language/bg) | 1140 | 4818 | 23.7 | /mnt/stockage/packages/f18/bibletime/i18n/howto/howto-bg.po | 
+ | [nl](/f18/language/nl) | 2046 | 9733 | 21.0 | /mnt/stockage/packages/f18/bibletime/i18n/handbook/handbook-nl.po/mnt/stockage/packages/f18/bibletime/i18n/howto/howto-nl.po | 
 {.sortable}
 
 

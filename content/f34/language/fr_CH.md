@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [enlightenment]({{< ref "/f34/package/enlightenment.md" >}}) | 1549 | 9053 | 17.1 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
- | [calamares]({{< ref "/f34/package/calamares.md" >}}) | 0 | 490 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
+ | [enlightenment](/f34/package/enlightenment) | 1549 | 9053 | 17.1 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [calamares](/f34/package/calamares) | 0 | 490 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
 {.sortable}
 
 

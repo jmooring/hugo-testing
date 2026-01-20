@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wicd]({{< ref "/f22/package/wicd.md" >}}) | 807 | 1138 | 70.9 | ar_EG <LL@li.org> | 
+ | [wicd](/f22/package/wicd) | 807 | 1138 | 70.9 | ar_EG <LL@li.org> | 
 {.sortable}
 
 

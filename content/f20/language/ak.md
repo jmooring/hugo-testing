@@ -38,33 +38,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f20/package/pootle.md" >}}) | 5453 | 5453 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f20/package/virtaal.md" >}}) | 1428 | 1651 | 86.5 | LANGUAGE <LL@li.org> | 
- | [gtkspell3]({{< ref "/f20/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
- | [mingw-gtkspell3]({{< ref "/f20/package/mingw-gtkspell3.md" >}}) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
- | [sugar-speak]({{< ref "/f20/package/sugar-speak.md" >}}) | 16 | 217 | 7.4 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f20/package/sugar-clock.md" >}}) | 3 | 59 | 5.1 | LANGUAGE <LL@li.org> | 
- | [sawfish]({{< ref "/f20/package/sawfish.md" >}}) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
- | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 0 | 11181 | 0.0 | Akan <ak@li.org> | 
- | [sugar-abacus]({{< ref "/f20/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f20/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f20/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f20/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f20/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f20/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f20/package/sugar-getiabooks.md" >}}) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f20/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f20/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f20/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f20/package/sugar-measure.md" >}}) | 0 | 155 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f20/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f20/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f20/package/sugar-paint.md" >}}) | 0 | 88 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f20/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f20/package/sugar-ruler.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f20/package/sugar-typing-turtle.md" >}}) | 0 | 575 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f20/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [pootle](/f20/package/pootle) | 5453 | 5453 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f20/package/virtaal) | 1428 | 1651 | 86.5 | LANGUAGE <LL@li.org> | 
+ | [gtkspell3](/f20/package/gtkspell3) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
+ | [mingw-gtkspell3](/f20/package/mingw-gtkspell3) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
+ | [sugar-speak](/f20/package/sugar-speak) | 16 | 217 | 7.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f20/package/sugar-clock) | 3 | 59 | 5.1 | LANGUAGE <LL@li.org> | 
+ | [sawfish](/f20/package/sawfish) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
+ | [stellarium](/f20/package/stellarium) | 0 | 11181 | 0.0 | Akan <ak@li.org> | 
+ | [sugar-abacus](/f20/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f20/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f20/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f20/package/sugar-finance) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f20/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f20/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f20/package/sugar-getiabooks) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f20/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f20/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f20/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f20/package/sugar-measure) | 0 | 155 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f20/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f20/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f20/package/sugar-paint) | 0 | 88 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f20/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f20/package/sugar-ruler) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f20/package/sugar-typing-turtle) | 0 | 575 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f20/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f20/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

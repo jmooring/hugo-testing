@@ -18,97 +18,97 @@ The package libbonoboui (version 2.24.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ar.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ast.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/bg.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/bn.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/bn_IN.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 736 | 736 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ca.po/mnt/stockage/packages/f35/libbonoboui/po/ca@valencia.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/cs.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/cy.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/de.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/dz.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/el.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/en_CA.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/es.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/et.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/gl.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/gu.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/he.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ja.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ka.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/kn.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/lv.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mg.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mk.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ml.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mn.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mr.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/nb.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ne.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/nn.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/or.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sv.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/te.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/tr.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ug.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/zh_HK.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 366 | 368 | 99.5 | /mnt/stockage/packages/f35/libbonoboui/po/af.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 358 | 360 | 99.4 | /mnt/stockage/packages/f35/libbonoboui/po/xh.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 361 | 368 | 98.1 | /mnt/stockage/packages/f35/libbonoboui/po/mai.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 326 | 360 | 90.6 | /mnt/stockage/packages/f35/libbonoboui/po/fa.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/az.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/bs.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/is.po | 
- | [li]({{< ref "/f35/language/li.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/li.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/ms.po | 
- | [nso]({{< ref "/f35/language/nso.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/nso.po | 
- | [sr@ijekavian]({{< ref "/f35/language/sr@ijekavian.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/sr@ije.po | 
- | [zu]({{< ref "/f35/language/zu.md" >}}) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/zu.po | 
- | [yi]({{< ref "/f35/language/yi.md" >}}) | 282 | 360 | 78.3 | /mnt/stockage/packages/f35/libbonoboui/po/yi.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 261 | 368 | 70.9 | /mnt/stockage/packages/f35/libbonoboui/po/en@shaw.po | 
- | [ps]({{< ref "/f35/language/ps.md" >}}) | 254 | 368 | 69.0 | /mnt/stockage/packages/f35/libbonoboui/po/ps.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 157 | 360 | 43.6 | /mnt/stockage/packages/f35/libbonoboui/po/wa.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 120 | 368 | 32.6 | /mnt/stockage/packages/f35/libbonoboui/po/eo.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 94 | 368 | 25.5 | /mnt/stockage/packages/f35/libbonoboui/po/oc.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 86 | 368 | 23.4 | /mnt/stockage/packages/f35/libbonoboui/po/br.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 74 | 360 | 20.6 | /mnt/stockage/packages/f35/libbonoboui/po/am.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 63 | 361 | 17.5 | /mnt/stockage/packages/f35/libbonoboui/po/si.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 60 | 360 | 16.7 | /mnt/stockage/packages/f35/libbonoboui/po/ga.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 42 | 360 | 11.7 | /mnt/stockage/packages/f35/libbonoboui/po/ku.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 14 | 360 | 3.9 | /mnt/stockage/packages/f35/libbonoboui/po/rw.po | 
+ | [ar](/f35/language/ar) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ar.po | 
+ | [as](/f35/language/as) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/as.po | 
+ | [ast](/f35/language/ast) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ast.po | 
+ | [be](/f35/language/be) | 360 | 360 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/be.po | 
+ | [bg](/f35/language/bg) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/bg.po | 
+ | [bn](/f35/language/bn) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/bn.po | 
+ | [bn_IN](/f35/language/bn_IN) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/bn_IN.po | 
+ | [ca](/f35/language/ca) | 736 | 736 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ca.po/mnt/stockage/packages/f35/libbonoboui/po/ca@valencia.po | 
+ | [cs](/f35/language/cs) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/cs.po | 
+ | [cy](/f35/language/cy) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/cy.po | 
+ | [da](/f35/language/da) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/da.po | 
+ | [de](/f35/language/de) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/de.po | 
+ | [dz](/f35/language/dz) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/dz.po | 
+ | [el](/f35/language/el) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/el.po | 
+ | [en_CA](/f35/language/en_CA) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/en_CA.po | 
+ | [en_GB](/f35/language/en_GB) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/en_GB.po | 
+ | [es](/f35/language/es) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/es.po | 
+ | [et](/f35/language/et) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/et.po | 
+ | [eu](/f35/language/eu) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/eu.po | 
+ | [fi](/f35/language/fi) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/fi.po | 
+ | [fr](/f35/language/fr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/fr.po | 
+ | [gl](/f35/language/gl) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/gl.po | 
+ | [gu](/f35/language/gu) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/gu.po | 
+ | [he](/f35/language/he) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/he.po | 
+ | [hi](/f35/language/hi) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/hi.po | 
+ | [hr](/f35/language/hr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/hr.po | 
+ | [hu](/f35/language/hu) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/hu.po | 
+ | [id](/f35/language/id) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/id.po | 
+ | [it](/f35/language/it) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/it.po | 
+ | [ja](/f35/language/ja) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ja.po | 
+ | [ka](/f35/language/ka) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ka.po | 
+ | [kn](/f35/language/kn) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/kn.po | 
+ | [ko](/f35/language/ko) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ko.po | 
+ | [lt](/f35/language/lt) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/lt.po | 
+ | [lv](/f35/language/lv) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/lv.po | 
+ | [mg](/f35/language/mg) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mg.po | 
+ | [mk](/f35/language/mk) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mk.po | 
+ | [ml](/f35/language/ml) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ml.po | 
+ | [mn](/f35/language/mn) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mn.po | 
+ | [mr](/f35/language/mr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/mr.po | 
+ | [nb_NO](/f35/language/nb_NO) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/nb.po | 
+ | [ne](/f35/language/ne) | 361 | 361 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ne.po | 
+ | [nl](/f35/language/nl) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/nl.po | 
+ | [nn](/f35/language/nn) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/nn.po | 
+ | [or](/f35/language/or) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/or.po | 
+ | [pa](/f35/language/pa) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pa.po | 
+ | [pl](/f35/language/pl) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pl.po | 
+ | [pt](/f35/language/pt) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ro.po | 
+ | [ru](/f35/language/ru) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ru.po | 
+ | [sk](/f35/language/sk) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sk.po | 
+ | [sl](/f35/language/sl) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sl.po | 
+ | [sq](/f35/language/sq) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sq.po | 
+ | [sr](/f35/language/sr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/sv.po | 
+ | [ta](/f35/language/ta) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ta.po | 
+ | [te](/f35/language/te) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/te.po | 
+ | [th](/f35/language/th) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/th.po | 
+ | [tr](/f35/language/tr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/tr.po | 
+ | [ug](/f35/language/ug) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/ug.po | 
+ | [uk](/f35/language/uk) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/uk.po | 
+ | [vi](/f35/language/vi) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/libbonoboui/po/zh_HK.po | 
+ | [af](/f35/language/af) | 366 | 368 | 99.5 | /mnt/stockage/packages/f35/libbonoboui/po/af.po | 
+ | [xh](/f35/language/xh) | 358 | 360 | 99.4 | /mnt/stockage/packages/f35/libbonoboui/po/xh.po | 
+ | [mai](/f35/language/mai) | 361 | 368 | 98.1 | /mnt/stockage/packages/f35/libbonoboui/po/mai.po | 
+ | [fa](/f35/language/fa) | 326 | 360 | 90.6 | /mnt/stockage/packages/f35/libbonoboui/po/fa.po | 
+ | [az](/f35/language/az) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/az.po | 
+ | [bs](/f35/language/bs) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/bs.po | 
+ | [is](/f35/language/is) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/is.po | 
+ | [li](/f35/language/li) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/li.po | 
+ | [ms](/f35/language/ms) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/ms.po | 
+ | [nso](/f35/language/nso) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/nso.po | 
+ | [sr@ijekavian](/f35/language/sr@ijekavian) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/sr@ije.po | 
+ | [zu](/f35/language/zu) | 314 | 360 | 87.2 | /mnt/stockage/packages/f35/libbonoboui/po/zu.po | 
+ | [yi](/f35/language/yi) | 282 | 360 | 78.3 | /mnt/stockage/packages/f35/libbonoboui/po/yi.po | 
+ | [error](/f35/language/error) | 261 | 368 | 70.9 | /mnt/stockage/packages/f35/libbonoboui/po/en@shaw.po | 
+ | [ps](/f35/language/ps) | 254 | 368 | 69.0 | /mnt/stockage/packages/f35/libbonoboui/po/ps.po | 
+ | [wa](/f35/language/wa) | 157 | 360 | 43.6 | /mnt/stockage/packages/f35/libbonoboui/po/wa.po | 
+ | [eo](/f35/language/eo) | 120 | 368 | 32.6 | /mnt/stockage/packages/f35/libbonoboui/po/eo.po | 
+ | [oc](/f35/language/oc) | 94 | 368 | 25.5 | /mnt/stockage/packages/f35/libbonoboui/po/oc.po | 
+ | [br](/f35/language/br) | 86 | 368 | 23.4 | /mnt/stockage/packages/f35/libbonoboui/po/br.po | 
+ | [am](/f35/language/am) | 74 | 360 | 20.6 | /mnt/stockage/packages/f35/libbonoboui/po/am.po | 
+ | [si](/f35/language/si) | 63 | 361 | 17.5 | /mnt/stockage/packages/f35/libbonoboui/po/si.po | 
+ | [ga](/f35/language/ga) | 60 | 360 | 16.7 | /mnt/stockage/packages/f35/libbonoboui/po/ga.po | 
+ | [ku](/f35/language/ku) | 42 | 360 | 11.7 | /mnt/stockage/packages/f35/libbonoboui/po/ku.po | 
+ | [rw](/f35/language/rw) | 14 | 360 | 3.9 | /mnt/stockage/packages/f35/libbonoboui/po/rw.po | 
 {.sortable}
 
 

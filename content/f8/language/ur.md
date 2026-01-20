@@ -42,52 +42,52 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [system-config-keyboard]({{< ref "/f8/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [poedit]({{< ref "/f8/package/poedit.md" >}}) | 1116 | 1134 | 98.4 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [chkconfig]({{< ref "/f8/package/chkconfig.md" >}}) | 417 | 430 | 97.0 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com> | 
- | [system-config-httpd]({{< ref "/f8/package/system-config-httpd.md" >}}) | 816 | 858 | 95.1 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [system-config-kickstart]({{< ref "/f8/package/system-config-kickstart.md" >}}) | 975 | 1054 | 92.5 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [system-config-boot]({{< ref "/f8/package/system-config-boot.md" >}}) | 41 | 46 | 89.1 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [authconfig]({{< ref "/f8/package/authconfig.md" >}}) | 988 | 1133 | 87.2 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [system-config-network]({{< ref "/f8/package/system-config-network.md" >}}) | 2617 | 3011 | 86.9 | SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com> | 
- | [firstboot]({{< ref "/f8/package/firstboot.md" >}}) | 499 | 598 | 83.4 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [redhat-menus]({{< ref "/f8/package/redhat-menus.md" >}}) | 216 | 261 | 82.8 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [rhgb]({{< ref "/f8/package/rhgb.md" >}}) | 95 | 121 | 78.5 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [anaconda]({{< ref "/f8/package/anaconda.md" >}}) | 6255 | 10203 | 61.3 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com> | 
- | [libvirt]({{< ref "/f8/package/libvirt.md" >}}) | 1290 | 2297 | 56.2 | none | 
- | [system-config-date]({{< ref "/f8/package/system-config-date.md" >}}) | 81 | 997 | 8.1 | SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com> | 
- | [gnome-desktop]({{< ref "/f8/package/gnome-desktop.md" >}}) | 15 | 323 | 4.6 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 53 | 1186 | 4.5 | Urdu <urd@li.org> | 
- | [system-config-netboot]({{< ref "/f8/package/system-config-netboot.md" >}}) | 10 | 1088 | 0.9 | none | 
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 18 | 12092 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 3 | 12174 | 0.0 | Urdu | 
- | [compiz]({{< ref "/f8/package/compiz.md" >}}) | 0 | 66 | 0.0 | none | 
- | [hwbrowser]({{< ref "/f8/package/hwbrowser.md" >}}) | 0 | 117 | 0.0 | none | 
- | [im-chooser]({{< ref "/f8/package/im-chooser.md" >}}) | 0 | 172 | 0.0 | none | 
- | [initscripts]({{< ref "/f8/package/initscripts.md" >}}) | 0 | 3733 | 0.0 | none | 
- | [kexec-tools]({{< ref "/f8/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kudzu]({{< ref "/f8/package/kudzu.md" >}}) | 0 | 73 | 0.0 | none | 
- | [passwd]({{< ref "/f8/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f8/package/policycoreutils.md" >}}) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f8/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhpl]({{< ref "/f8/package/rhpl.md" >}}) | 0 | 185 | 0.0 | none | 
- | [rhpxl]({{< ref "/f8/package/rhpxl.md" >}}) | 0 | 136 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f8/package/setroubleshoot.md" >}}) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f8/package/setroubleshoot-plugins.md" >}}) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setuptool]({{< ref "/f8/package/setuptool.md" >}}) | 0 | 60 | 0.0 | none | 
- | [specspo]({{< ref "/f8/package/specspo.md" >}}) | 0 | 305286 | 0.0 | none | 
- | [switchdesk]({{< ref "/f8/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f8/package/system-config-bind.md" >}}) | 0 | 9416 | 0.0 | none | 
- | [system-config-display]({{< ref "/f8/package/system-config-display.md" >}}) | 0 | 398 | 0.0 | none | 
- | [system-config-firewall]({{< ref "/f8/package/system-config-firewall.md" >}}) | 0 | 2956 | 0.0 | none | 
- | [system-config-language]({{< ref "/f8/package/system-config-language.md" >}}) | 0 | 45 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f8/package/system-config-nfs.md" >}}) | 0 | 318 | 0.0 | none | 
- | [system-config-rootpassword]({{< ref "/f8/package/system-config-rootpassword.md" >}}) | 0 | 50 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f8/package/system-config-samba.md" >}}) | 0 | 423 | 0.0 | none | 
- | [system-config-services]({{< ref "/f8/package/system-config-services.md" >}}) | 0 | 232 | 0.0 | none | 
- | [system-config-soundcard]({{< ref "/f8/package/system-config-soundcard.md" >}}) | 0 | 224 | 0.0 | none | 
- | [system-config-users]({{< ref "/f8/package/system-config-users.md" >}}) | 0 | 1186 | 0.0 | none | 
- | [system-switch-mail]({{< ref "/f8/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
+ | [system-config-keyboard](/f8/package/system-config-keyboard) | 78 | 78 | 100.0 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [poedit](/f8/package/poedit) | 1116 | 1134 | 98.4 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [chkconfig](/f8/package/chkconfig) | 417 | 430 | 97.0 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com> | 
+ | [system-config-httpd](/f8/package/system-config-httpd) | 816 | 858 | 95.1 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [system-config-kickstart](/f8/package/system-config-kickstart) | 975 | 1054 | 92.5 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [system-config-boot](/f8/package/system-config-boot) | 41 | 46 | 89.1 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [authconfig](/f8/package/authconfig) | 988 | 1133 | 87.2 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [system-config-network](/f8/package/system-config-network) | 2617 | 3011 | 86.9 | SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com> | 
+ | [firstboot](/f8/package/firstboot) | 499 | 598 | 83.4 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [redhat-menus](/f8/package/redhat-menus) | 216 | 261 | 82.8 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [rhgb](/f8/package/rhgb) | 95 | 121 | 78.5 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [anaconda](/f8/package/anaconda) | 6255 | 10203 | 61.3 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.desktop@gmail.com> | 
+ | [libvirt](/f8/package/libvirt) | 1290 | 2297 | 56.2 | none | 
+ | [system-config-date](/f8/package/system-config-date) | 81 | 997 | 8.1 | SCS GIFT UNIVERSITY <urdu.scs.gift@gmail.com> | 
+ | [gnome-desktop](/f8/package/gnome-desktop) | 15 | 323 | 4.6 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 53 | 1186 | 4.5 | Urdu <urd@li.org> | 
+ | [system-config-netboot](/f8/package/system-config-netboot) | 10 | 1088 | 0.9 | none | 
+ | [gtk2](/f8/package/gtk2) | 18 | 12092 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 3 | 12174 | 0.0 | Urdu | 
+ | [compiz](/f8/package/compiz) | 0 | 66 | 0.0 | none | 
+ | [hwbrowser](/f8/package/hwbrowser) | 0 | 117 | 0.0 | none | 
+ | [im-chooser](/f8/package/im-chooser) | 0 | 172 | 0.0 | none | 
+ | [initscripts](/f8/package/initscripts) | 0 | 3733 | 0.0 | none | 
+ | [kexec-tools](/f8/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kudzu](/f8/package/kudzu) | 0 | 73 | 0.0 | none | 
+ | [passwd](/f8/package/passwd) | 0 | 291 | 0.0 | none | 
+ | [policycoreutils](/f8/package/policycoreutils) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f8/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhpl](/f8/package/rhpl) | 0 | 185 | 0.0 | none | 
+ | [rhpxl](/f8/package/rhpxl) | 0 | 136 | 0.0 | none | 
+ | [setroubleshoot](/f8/package/setroubleshoot) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f8/package/setroubleshoot-plugins) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setuptool](/f8/package/setuptool) | 0 | 60 | 0.0 | none | 
+ | [specspo](/f8/package/specspo) | 0 | 305286 | 0.0 | none | 
+ | [switchdesk](/f8/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f8/package/system-config-bind) | 0 | 9416 | 0.0 | none | 
+ | [system-config-display](/f8/package/system-config-display) | 0 | 398 | 0.0 | none | 
+ | [system-config-firewall](/f8/package/system-config-firewall) | 0 | 2956 | 0.0 | none | 
+ | [system-config-language](/f8/package/system-config-language) | 0 | 45 | 0.0 | none | 
+ | [system-config-nfs](/f8/package/system-config-nfs) | 0 | 318 | 0.0 | none | 
+ | [system-config-rootpassword](/f8/package/system-config-rootpassword) | 0 | 50 | 0.0 | none | 
+ | [system-config-samba](/f8/package/system-config-samba) | 0 | 423 | 0.0 | none | 
+ | [system-config-services](/f8/package/system-config-services) | 0 | 232 | 0.0 | none | 
+ | [system-config-soundcard](/f8/package/system-config-soundcard) | 0 | 224 | 0.0 | none | 
+ | [system-config-users](/f8/package/system-config-users) | 0 | 1186 | 0.0 | none | 
+ | [system-switch-mail](/f8/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,57 +18,57 @@ The package xfce4-xkb-plugin (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/bg.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/fr.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/he.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/hr.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/id.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/lt.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/nb.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/tr.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/zh_TW.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 45 | 48 | 93.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/th.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 36 | 48 | 75.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/fi.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 36 | 48 | 75.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/it.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ar.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ast.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/el.po | 
- | [en_AU]({{< ref "/f33/language/en_AU.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/en_AU.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/hu.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/is.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ja.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/kk.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/oc.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/uk.po | 
- | [uz]({{< ref "/f33/language/uz.md" >}}) | 34 | 48 | 70.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/uz.po | 
- | [uz_Latn]({{< ref "/f33/language/uz_Latn.md" >}}) | 34 | 48 | 70.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/uz@Latn.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/be.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/eu.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/gl.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/lv.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ro.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sq.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ug.po | 
- | [ur]({{< ref "/f33/language/ur.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f33/language/ur_PK.md" >}}) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ur_PK.po | 
+ | [bg](/f33/language/bg) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/bg.po | 
+ | [ca](/f33/language/ca) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ca.po | 
+ | [cs](/f33/language/cs) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/cs.po | 
+ | [da](/f33/language/da) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/da.po | 
+ | [de](/f33/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/de.po | 
+ | [es](/f33/language/es) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/es.po | 
+ | [fr](/f33/language/fr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/fr.po | 
+ | [he](/f33/language/he) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/he.po | 
+ | [hr](/f33/language/hr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/hr.po | 
+ | [id](/f33/language/id) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/id.po | 
+ | [ko](/f33/language/ko) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ko.po | 
+ | [lt](/f33/language/lt) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/lt.po | 
+ | [ms](/f33/language/ms) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ms.po | 
+ | [nb_NO](/f33/language/nb_NO) | 48 | 48 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/nb.po | 
+ | [nl](/f33/language/nl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/nl.po | 
+ | [pl](/f33/language/pl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/pl.po | 
+ | [pt](/f33/language/pt) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ru.po | 
+ | [sk](/f33/language/sk) | 48 | 48 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sk.po | 
+ | [sl](/f33/language/sl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sl.po | 
+ | [sv](/f33/language/sv) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sv.po | 
+ | [tr](/f33/language/tr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/tr.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 57 | 57 | 100.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/zh_TW.po | 
+ | [th](/f33/language/th) | 45 | 48 | 93.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/th.po | 
+ | [fi](/f33/language/fi) | 36 | 48 | 75.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/fi.po | 
+ | [it](/f33/language/it) | 36 | 48 | 75.0 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/it.po | 
+ | [ar](/f33/language/ar) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ar.po | 
+ | [ast](/f33/language/ast) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ast.po | 
+ | [el](/f33/language/el) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/el.po | 
+ | [en_AU](/f33/language/en_AU) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/en_AU.po | 
+ | [hu](/f33/language/hu) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/hu.po | 
+ | [is](/f33/language/is) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/is.po | 
+ | [ja](/f33/language/ja) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ja.po | 
+ | [kk](/f33/language/kk) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/kk.po | 
+ | [oc](/f33/language/oc) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/oc.po | 
+ | [sr](/f33/language/sr) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sr.po | 
+ | [uk](/f33/language/uk) | 35 | 48 | 72.9 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/uk.po | 
+ | [uz](/f33/language/uz) | 34 | 48 | 70.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/uz.po | 
+ | [uz_Latn](/f33/language/uz_Latn) | 34 | 48 | 70.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/uz@Latn.po | 
+ | [be](/f33/language/be) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/be.po | 
+ | [en_GB](/f33/language/en_GB) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/en_GB.po | 
+ | [eu](/f33/language/eu) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/eu.po | 
+ | [gl](/f33/language/gl) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/gl.po | 
+ | [lv](/f33/language/lv) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/lv.po | 
+ | [ro](/f33/language/ro) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ro.po | 
+ | [sq](/f33/language/sq) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/sq.po | 
+ | [ug](/f33/language/ug) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ug.po | 
+ | [ur](/f33/language/ur) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ur.po | 
+ | [ur_PK](/f33/language/ur_PK) | 33 | 48 | 68.8 | /mnt/stockage/packages/f33/xfce4-xkb-plugin/po/ur_PK.po | 
 {.sortable}
 
 

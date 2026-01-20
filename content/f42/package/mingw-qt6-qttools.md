@@ -18,8 +18,8 @@ The package mingw-qt6-qttools (version 6.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f42/mingw-qt6-qttools/tests/auto/linguist/lconvert/data/test1-de.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f42/mingw-qt6-qttools/tests/auto/linguist/lconvert/data/test1-cn.po | 
+ | [de](/f42/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f42/mingw-qt6-qttools/tests/auto/linguist/lconvert/data/test1-de.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f42/mingw-qt6-qttools/tests/auto/linguist/lconvert/data/test1-cn.po | 
 {.sortable}
 
 

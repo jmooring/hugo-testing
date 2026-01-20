@@ -18,30 +18,30 @@ The package kaider (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/de/kaider.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/el/kaider.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/es/kaider.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/fr/kaider.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/ga/kaider.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/gl/kaider.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/pl/kaider.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/pt/kaider.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/pt_BR/kaider.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/sv/kaider.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/zh_CN/kaider.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 643 | 652 | 98.6 | /mnt/stockage/packages/f9/kaider/po/zh_TW/kaider.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 626 | 652 | 96.0 | /mnt/stockage/packages/f9/kaider/po/nl/kaider.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 435 | 652 | 66.7 | /mnt/stockage/packages/f9/kaider/po/ja/kaider.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 370 | 652 | 56.7 | /mnt/stockage/packages/f9/kaider/po/pa/kaider.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 349 | 652 | 53.5 | /mnt/stockage/packages/f9/kaider/po/ru/kaider.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 333 | 652 | 51.1 | /mnt/stockage/packages/f9/kaider/po/it/kaider.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 218 | 652 | 33.4 | /mnt/stockage/packages/f9/kaider/po/uk/kaider.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 203 | 652 | 31.1 | /mnt/stockage/packages/f9/kaider/po/ko/kaider.po | 
- | [nds]({{< ref "/f9/language/nds.md" >}}) | 77 | 652 | 11.8 | /mnt/stockage/packages/f9/kaider/po/nds/kaider.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 60 | 652 | 9.2 | /mnt/stockage/packages/f9/kaider/po/ku/kaider.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 55 | 652 | 8.4 | /mnt/stockage/packages/f9/kaider/po/be/kaider.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 46 | 652 | 7.1 | /mnt/stockage/packages/f9/kaider/po/oc/kaider.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 0 | 652 | 0.0 | /mnt/stockage/packages/f9/kaider/po/sk/kaider.po | 
+ | [de](/f9/language/de) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/de/kaider.po | 
+ | [el](/f9/language/el) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/el/kaider.po | 
+ | [es](/f9/language/es) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/es/kaider.po | 
+ | [fr](/f9/language/fr) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/fr/kaider.po | 
+ | [ga](/f9/language/ga) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/ga/kaider.po | 
+ | [gl](/f9/language/gl) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/gl/kaider.po | 
+ | [pl](/f9/language/pl) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/pl/kaider.po | 
+ | [pt](/f9/language/pt) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/pt/kaider.po | 
+ | [pt_BR](/f9/language/pt_BR) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/pt_BR/kaider.po | 
+ | [sv](/f9/language/sv) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/sv/kaider.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 652 | 652 | 100.0 | /mnt/stockage/packages/f9/kaider/po/zh_CN/kaider.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 643 | 652 | 98.6 | /mnt/stockage/packages/f9/kaider/po/zh_TW/kaider.po | 
+ | [nl](/f9/language/nl) | 626 | 652 | 96.0 | /mnt/stockage/packages/f9/kaider/po/nl/kaider.po | 
+ | [ja](/f9/language/ja) | 435 | 652 | 66.7 | /mnt/stockage/packages/f9/kaider/po/ja/kaider.po | 
+ | [pa](/f9/language/pa) | 370 | 652 | 56.7 | /mnt/stockage/packages/f9/kaider/po/pa/kaider.po | 
+ | [ru](/f9/language/ru) | 349 | 652 | 53.5 | /mnt/stockage/packages/f9/kaider/po/ru/kaider.po | 
+ | [it](/f9/language/it) | 333 | 652 | 51.1 | /mnt/stockage/packages/f9/kaider/po/it/kaider.po | 
+ | [uk](/f9/language/uk) | 218 | 652 | 33.4 | /mnt/stockage/packages/f9/kaider/po/uk/kaider.po | 
+ | [ko](/f9/language/ko) | 203 | 652 | 31.1 | /mnt/stockage/packages/f9/kaider/po/ko/kaider.po | 
+ | [nds](/f9/language/nds) | 77 | 652 | 11.8 | /mnt/stockage/packages/f9/kaider/po/nds/kaider.po | 
+ | [ku](/f9/language/ku) | 60 | 652 | 9.2 | /mnt/stockage/packages/f9/kaider/po/ku/kaider.po | 
+ | [be](/f9/language/be) | 55 | 652 | 8.4 | /mnt/stockage/packages/f9/kaider/po/be/kaider.po | 
+ | [oc](/f9/language/oc) | 46 | 652 | 7.1 | /mnt/stockage/packages/f9/kaider/po/oc/kaider.po | 
+ | [sk](/f9/language/sk) | 0 | 652 | 0.0 | /mnt/stockage/packages/f9/kaider/po/sk/kaider.po | 
 {.sortable}
 
 

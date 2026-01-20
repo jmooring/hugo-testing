@@ -18,15 +18,15 @@ The package phodav (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/el.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/es.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/hu.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/pl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/pt_BR.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/sl.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f20/phodav/po/sr@latin.po/mnt/stockage/packages/f20/phodav/po/sr.po | 
+ | [cs](/f20/language/cs) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/cs.po | 
+ | [de](/f20/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/de.po | 
+ | [el](/f20/language/el) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/el.po | 
+ | [es](/f20/language/es) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/es.po | 
+ | [hu](/f20/language/hu) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/hu.po | 
+ | [pl](/f20/language/pl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/pl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/pt_BR.po | 
+ | [sl](/f20/language/sl) | 35 | 35 | 100.0 | /mnt/stockage/packages/f20/phodav/po/sl.po | 
+ | [sr](/f20/language/sr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f20/phodav/po/sr@latin.po/mnt/stockage/packages/f20/phodav/po/sr.po | 
 {.sortable}
 
 

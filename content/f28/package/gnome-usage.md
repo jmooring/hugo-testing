@@ -18,27 +18,27 @@ The package gnome-usage (version 3.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/fr.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/fur.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/gl.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/it.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/pt_BR.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/sk.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/sr@latin.po/mnt/stockage/packages/f28/gnome-usage/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/tr.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 184 | 238 | 77.3 | /mnt/stockage/packages/f28/gnome-usage/po/fi.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 91 | 200 | 45.5 | /mnt/stockage/packages/f28/gnome-usage/po/sl.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 66 | 205 | 32.2 | /mnt/stockage/packages/f28/gnome-usage/po/nb.po | 
+ | [ca](/f28/language/ca) | 235 | 235 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/ca.po | 
+ | [cs](/f28/language/cs) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/cs.po | 
+ | [de](/f28/language/de) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/de.po | 
+ | [es](/f28/language/es) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/es.po | 
+ | [fr](/f28/language/fr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/fr.po | 
+ | [fur](/f28/language/fur) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/fur.po | 
+ | [gl](/f28/language/gl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/gl.po | 
+ | [hr](/f28/language/hr) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/hr.po | 
+ | [hu](/f28/language/hu) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/hu.po | 
+ | [id](/f28/language/id) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/id.po | 
+ | [it](/f28/language/it) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/it.po | 
+ | [nl](/f28/language/nl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/nl.po | 
+ | [pl](/f28/language/pl) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/pt_BR.po | 
+ | [sk](/f28/language/sk) | 202 | 202 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/sk.po | 
+ | [sr](/f28/language/sr) | 476 | 476 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/sr@latin.po/mnt/stockage/packages/f28/gnome-usage/po/sr.po | 
+ | [sv](/f28/language/sv) | 238 | 238 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/sv.po | 
+ | [tr](/f28/language/tr) | 235 | 235 | 100.0 | /mnt/stockage/packages/f28/gnome-usage/po/tr.po | 
+ | [fi](/f28/language/fi) | 184 | 238 | 77.3 | /mnt/stockage/packages/f28/gnome-usage/po/fi.po | 
+ | [sl](/f28/language/sl) | 91 | 200 | 45.5 | /mnt/stockage/packages/f28/gnome-usage/po/sl.po | 
+ | [nb_NO](/f28/language/nb_NO) | 66 | 205 | 32.2 | /mnt/stockage/packages/f28/gnome-usage/po/nb.po | 
 {.sortable}
 
 

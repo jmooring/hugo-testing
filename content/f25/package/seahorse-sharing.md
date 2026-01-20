@@ -18,17 +18,17 @@ The package seahorse-sharing (version 3.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/es.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/gl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/hu.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/lv.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/sr.po/mnt/stockage/packages/f25/seahorse-sharing/po/sr@latin.po | 
+ | [cs](/f25/language/cs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/cs.po | 
+ | [de](/f25/language/de) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/de.po | 
+ | [es](/f25/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/es.po | 
+ | [gl](/f25/language/gl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/gl.po | 
+ | [hu](/f25/language/hu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/hu.po | 
+ | [lv](/f25/language/lv) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/lv.po | 
+ | [pl](/f25/language/pl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/ru.po | 
+ | [sl](/f25/language/sl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/sl.po | 
+ | [sr](/f25/language/sr) | 194 | 194 | 100.0 | /mnt/stockage/packages/f25/seahorse-sharing/po/sr.po/mnt/stockage/packages/f25/seahorse-sharing/po/sr@latin.po | 
 {.sortable}
 
 

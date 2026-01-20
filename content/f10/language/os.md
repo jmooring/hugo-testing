@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openttd]({{< ref "/f10/package/openttd.md" >}}) | 33 | 33 | 100.0 | Catalan <debian-l10n-catalan@lists.debian.org> | 
+ | [openttd](/f10/package/openttd) | 33 | 33 | 100.0 | Catalan <debian-l10n-catalan@lists.debian.org> | 
 {.sortable}
 
 

@@ -18,57 +18,57 @@ The package xfce4-dict (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/bg.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/et.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 1058 | 1058 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/hye.po/mnt/stockage/packages/f32/xfce4-dict/po/hy_AM.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/zh_TW.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/el.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/en_AU.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/eu.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/is.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/sk.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/uk.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 512 | 527 | 97.2 | /mnt/stockage/packages/f32/xfce4-dict/po/ast.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 512 | 529 | 96.8 | /mnt/stockage/packages/f32/xfce4-dict/po/ar.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 511 | 529 | 96.6 | /mnt/stockage/packages/f32/xfce4-dict/po/en_GB.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 511 | 529 | 96.6 | /mnt/stockage/packages/f32/xfce4-dict/po/oc.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 509 | 529 | 96.2 | /mnt/stockage/packages/f32/xfce4-dict/po/ug.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 486 | 529 | 91.9 | /mnt/stockage/packages/f32/xfce4-dict/po/lv.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 432 | 529 | 81.7 | /mnt/stockage/packages/f32/xfce4-dict/po/vi.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 323 | 529 | 61.1 | /mnt/stockage/packages/f32/xfce4-dict/po/ur.po | 
- | [ur_PK]({{< ref "/f32/language/ur_PK.md" >}}) | 323 | 529 | 61.1 | /mnt/stockage/packages/f32/xfce4-dict/po/ur_PK.po | 
+ | [be](/f32/language/be) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/be.po | 
+ | [bg](/f32/language/bg) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/bg.po | 
+ | [ca](/f32/language/ca) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ca.po | 
+ | [cs](/f32/language/cs) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/cs.po | 
+ | [da](/f32/language/da) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/da.po | 
+ | [de](/f32/language/de) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/de.po | 
+ | [es](/f32/language/es) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/es.po | 
+ | [et](/f32/language/et) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/et.po | 
+ | [fi](/f32/language/fi) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/fi.po | 
+ | [fr](/f32/language/fr) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/fr.po | 
+ | [gl](/f32/language/gl) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/gl.po | 
+ | [he](/f32/language/he) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/he.po | 
+ | [hr](/f32/language/hr) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/hr.po | 
+ | [hu](/f32/language/hu) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/hu.po | 
+ | [hy](/f32/language/hy) | 1058 | 1058 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/hye.po/mnt/stockage/packages/f32/xfce4-dict/po/hy_AM.po | 
+ | [id](/f32/language/id) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/id.po | 
+ | [it](/f32/language/it) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/it.po | 
+ | [ja](/f32/language/ja) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ja.po | 
+ | [kk](/f32/language/kk) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/kk.po | 
+ | [ko](/f32/language/ko) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ko.po | 
+ | [lt](/f32/language/lt) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/lt.po | 
+ | [ms](/f32/language/ms) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/nb.po | 
+ | [nl](/f32/language/nl) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/nl.po | 
+ | [pl](/f32/language/pl) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/pl.po | 
+ | [pt](/f32/language/pt) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/ru.po | 
+ | [sl](/f32/language/sl) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sl.po | 
+ | [sq](/f32/language/sq) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sq.po | 
+ | [sr](/f32/language/sr) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sr.po | 
+ | [sv](/f32/language/sv) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/sv.po | 
+ | [th](/f32/language/th) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/th.po | 
+ | [tr](/f32/language/tr) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 529 | 529 | 100.0 | /mnt/stockage/packages/f32/xfce4-dict/po/zh_TW.po | 
+ | [el](/f32/language/el) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/el.po | 
+ | [en_AU](/f32/language/en_AU) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/en_AU.po | 
+ | [eu](/f32/language/eu) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/eu.po | 
+ | [is](/f32/language/is) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/is.po | 
+ | [sk](/f32/language/sk) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/sk.po | 
+ | [uk](/f32/language/uk) | 526 | 529 | 99.4 | /mnt/stockage/packages/f32/xfce4-dict/po/uk.po | 
+ | [ast](/f32/language/ast) | 512 | 527 | 97.2 | /mnt/stockage/packages/f32/xfce4-dict/po/ast.po | 
+ | [ar](/f32/language/ar) | 512 | 529 | 96.8 | /mnt/stockage/packages/f32/xfce4-dict/po/ar.po | 
+ | [en_GB](/f32/language/en_GB) | 511 | 529 | 96.6 | /mnt/stockage/packages/f32/xfce4-dict/po/en_GB.po | 
+ | [oc](/f32/language/oc) | 511 | 529 | 96.6 | /mnt/stockage/packages/f32/xfce4-dict/po/oc.po | 
+ | [ug](/f32/language/ug) | 509 | 529 | 96.2 | /mnt/stockage/packages/f32/xfce4-dict/po/ug.po | 
+ | [lv](/f32/language/lv) | 486 | 529 | 91.9 | /mnt/stockage/packages/f32/xfce4-dict/po/lv.po | 
+ | [vi](/f32/language/vi) | 432 | 529 | 81.7 | /mnt/stockage/packages/f32/xfce4-dict/po/vi.po | 
+ | [ur](/f32/language/ur) | 323 | 529 | 61.1 | /mnt/stockage/packages/f32/xfce4-dict/po/ur.po | 
+ | [ur_PK](/f32/language/ur_PK) | 323 | 529 | 61.1 | /mnt/stockage/packages/f32/xfce4-dict/po/ur_PK.po | 
 {.sortable}
 
 

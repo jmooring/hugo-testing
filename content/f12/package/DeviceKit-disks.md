@@ -18,7 +18,7 @@ The package DeviceKit-disks (version 009):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f12/language/da.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f12/DeviceKit-disks/po/da.po | 
+ | [da](/f12/language/da) | 330 | 330 | 100.0 | /mnt/stockage/packages/f12/DeviceKit-disks/po/da.po | 
 {.sortable}
 
 

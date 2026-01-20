@@ -18,7 +18,7 @@ The package drupal6-video (version 6.x.4.2.beta2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 845 | 870 | 97.1 | /mnt/stockage/packages/f13/drupal6-video/translations/de.po | 
+ | [de](/f13/language/de) | 845 | 870 | 97.1 | /mnt/stockage/packages/f13/drupal6-video/translations/de.po | 
 {.sortable}
 
 

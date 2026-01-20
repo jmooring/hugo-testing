@@ -18,17 +18,17 @@ The package novprog (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/el.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/lt.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/pl.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/ro.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/es.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/he.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/ru.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/tr.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 0 | 71 | 0.0 | /mnt/stockage/packages/f28/novprog/icons/po/fr.po | 
+ | [de](/f28/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/de.po | 
+ | [el](/f28/language/el) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/el.po | 
+ | [lt](/f28/language/lt) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/lt.po | 
+ | [nl](/f28/language/nl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/nl.po | 
+ | [pl](/f28/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/pl.po | 
+ | [ro](/f28/language/ro) | 71 | 71 | 100.0 | /mnt/stockage/packages/f28/novprog/icons/po/ro.po | 
+ | [es](/f28/language/es) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/es.po | 
+ | [he](/f28/language/he) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/he.po | 
+ | [ru](/f28/language/ru) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/ru.po | 
+ | [tr](/f28/language/tr) | 4 | 71 | 5.6 | /mnt/stockage/packages/f28/novprog/icons/po/tr.po | 
+ | [fr](/f28/language/fr) | 0 | 71 | 0.0 | /mnt/stockage/packages/f28/novprog/icons/po/fr.po | 
 {.sortable}
 
 

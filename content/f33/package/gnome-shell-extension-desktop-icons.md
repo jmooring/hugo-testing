@@ -18,30 +18,30 @@ The package gnome-shell-extension-desktop-icons (version 20.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/eu.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/fur.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/ja.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/uk.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/zh_TW.po | 
+ | [ca](/f33/language/ca) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/ca.po | 
+ | [cs](/f33/language/cs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/cs.po | 
+ | [da](/f33/language/da) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/da.po | 
+ | [de](/f33/language/de) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/de.po | 
+ | [el](/f33/language/el) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/en_GB.po | 
+ | [es](/f33/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/es.po | 
+ | [eu](/f33/language/eu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/eu.po | 
+ | [fi](/f33/language/fi) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/fi.po | 
+ | [fr](/f33/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/fr.po | 
+ | [fur](/f33/language/fur) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/fur.po | 
+ | [hr](/f33/language/hr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/hr.po | 
+ | [hu](/f33/language/hu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/hu.po | 
+ | [id](/f33/language/id) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/id.po | 
+ | [it](/f33/language/it) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/it.po | 
+ | [ja](/f33/language/ja) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/ja.po | 
+ | [nl](/f33/language/nl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/nl.po | 
+ | [pl](/f33/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 86 | 86 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/ru.po | 
+ | [sv](/f33/language/sv) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/sv.po | 
+ | [tr](/f33/language/tr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/tr.po | 
+ | [uk](/f33/language/uk) | 133 | 133 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/uk.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 80 | 80 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-desktop-icons/po/zh_TW.po | 
 {.sortable}
 
 

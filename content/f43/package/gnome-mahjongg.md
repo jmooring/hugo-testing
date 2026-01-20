@@ -18,97 +18,97 @@ The package gnome-mahjongg (version 49.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ab]({{< ref "/f43/language/ab.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ab.po | 
- | [an]({{< ref "/f43/language/an.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/an.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 273 | 273 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bg.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bs.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 1623 | 1623 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ca/ca.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ca.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ca@valencia.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1699 | 1699 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/cs/cs.po/mnt/stockage/packages/f43/gnome-mahjongg/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 1615 | 1615 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/da/da.po/mnt/stockage/packages/f43/gnome-mahjongg/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1583 | 1583 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/de/de.po/mnt/stockage/packages/f43/gnome-mahjongg/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/el/el.po/mnt/stockage/packages/f43/gnome-mahjongg/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1586 | 1586 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/es/es.po/mnt/stockage/packages/f43/gnome-mahjongg/po/es.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/et.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1615 | 1615 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/fr/fr.po/mnt/stockage/packages/f43/gnome-mahjongg/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/fur.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/hi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/hu/hu.po/mnt/stockage/packages/f43/gnome-mahjongg/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 1620 | 1620 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/id/id.po/mnt/stockage/packages/f43/gnome-mahjongg/po/id.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/is.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/it.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/kk.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1615 | 1615 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ko/ko.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/lv.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ml.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ms.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/oc.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1628 | 1628 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/pl/pl.po/mnt/stockage/packages/f43/gnome-mahjongg/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/pt_BR/pt_BR.po/mnt/stockage/packages/f43/gnome-mahjongg/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ro/ro.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ru/ru.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 273 | 273 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 574 | 574 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sr@latin.po/mnt/stockage/packages/f43/gnome-mahjongg/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/sv/sv.po/mnt/stockage/packages/f43/gnome-mahjongg/po/sv.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ta.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/uk/uk.po/mnt/stockage/packages/f43/gnome-mahjongg/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 304 | 308 | 98.7 | /mnt/stockage/packages/f43/gnome-mahjongg/po/zh_HK.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 159 | 170 | 93.5 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ug.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 1181 | 1688 | 70.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/eu/eu.po/mnt/stockage/packages/f43/gnome-mahjongg/po/eu.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 197 | 312 | 63.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ja.po | 
- | [ckb]({{< ref "/f43/language/ckb.md" >}}) | 190 | 329 | 57.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ckb.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 124 | 304 | 40.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/br.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 112 | 304 | 36.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/pa.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 112 | 304 | 36.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/th.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 109 | 304 | 35.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/km.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 106 | 304 | 34.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/vi.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 91 | 304 | 29.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ar.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 88 | 304 | 28.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/te.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 112 | 389 | 28.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ka.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/af.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ast.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bn.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/gu.po | 
- | [kn]({{< ref "/f43/language/kn.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/kn.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mr.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/nn.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/or.po | 
- | [error]({{< ref "/f43/language/error.md" >}}) | 86 | 304 | 28.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/en@shaw.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 85 | 304 | 28.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mk.po | 
- | [en_CA]({{< ref "/f43/language/en_CA.md" >}}) | 83 | 304 | 27.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/en_CA.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 76 | 304 | 25.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/as.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 58 | 304 | 19.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bn_IN.po | 
- | [dz]({{< ref "/f43/language/dz.md" >}}) | 49 | 304 | 16.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/dz.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 43 | 304 | 14.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ne.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 24 | 170 | 14.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/tg.po | 
- | [mai]({{< ref "/f43/language/mai.md" >}}) | 42 | 304 | 13.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mai.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 41 | 304 | 13.5 | /mnt/stockage/packages/f43/gnome-mahjongg/po/cy.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 39 | 304 | 12.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sq.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 36 | 304 | 11.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ga.po | 
- | [xh]({{< ref "/f43/language/xh.md" >}}) | 33 | 304 | 10.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/xh.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 27 | 304 | 8.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/az.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 24 | 304 | 7.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/si.po | 
- | [mn]({{< ref "/f43/language/mn.md" >}}) | 17 | 304 | 5.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mn.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 16 | 304 | 5.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/wa.po | 
- | [am]({{< ref "/f43/language/am.md" >}}) | 5 | 304 | 1.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/am.po | 
- | [ku]({{< ref "/f43/language/ku.md" >}}) | 4 | 304 | 1.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ku.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 3 | 304 | 1.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/rw.po | 
+ | [ab](/f43/language/ab) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ab.po | 
+ | [an](/f43/language/an) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/an.po | 
+ | [be](/f43/language/be) | 273 | 273 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/be.po | 
+ | [bg](/f43/language/bg) | 276 | 276 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bg.po | 
+ | [bs](/f43/language/bs) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bs.po | 
+ | [ca](/f43/language/ca) | 1623 | 1623 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ca/ca.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ca.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ca@valencia.po | 
+ | [cs](/f43/language/cs) | 1699 | 1699 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/cs/cs.po/mnt/stockage/packages/f43/gnome-mahjongg/po/cs.po | 
+ | [da](/f43/language/da) | 1615 | 1615 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/da/da.po/mnt/stockage/packages/f43/gnome-mahjongg/po/da.po | 
+ | [de](/f43/language/de) | 1583 | 1583 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/de/de.po/mnt/stockage/packages/f43/gnome-mahjongg/po/de.po | 
+ | [el](/f43/language/el) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/el/el.po/mnt/stockage/packages/f43/gnome-mahjongg/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 332 | 332 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/eo.po | 
+ | [es](/f43/language/es) | 1586 | 1586 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/es/es.po/mnt/stockage/packages/f43/gnome-mahjongg/po/es.po | 
+ | [et](/f43/language/et) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/et.po | 
+ | [fa](/f43/language/fa) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/fa.po | 
+ | [fi](/f43/language/fi) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/fi.po | 
+ | [fr](/f43/language/fr) | 1615 | 1615 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/fr/fr.po/mnt/stockage/packages/f43/gnome-mahjongg/po/fr.po | 
+ | [fur](/f43/language/fur) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/fur.po | 
+ | [gl](/f43/language/gl) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/gl.po | 
+ | [he](/f43/language/he) | 276 | 276 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/he.po | 
+ | [hi](/f43/language/hi) | 283 | 283 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/hi.po | 
+ | [hr](/f43/language/hr) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/hr.po | 
+ | [hu](/f43/language/hu) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/hu/hu.po/mnt/stockage/packages/f43/gnome-mahjongg/po/hu.po | 
+ | [id](/f43/language/id) | 1620 | 1620 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/id/id.po/mnt/stockage/packages/f43/gnome-mahjongg/po/id.po | 
+ | [is](/f43/language/is) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/is.po | 
+ | [it](/f43/language/it) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/it.po | 
+ | [kk](/f43/language/kk) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/kk.po | 
+ | [ko](/f43/language/ko) | 1615 | 1615 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ko/ko.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ko.po | 
+ | [lt](/f43/language/lt) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/lt.po | 
+ | [lv](/f43/language/lv) | 310 | 310 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/lv.po | 
+ | [ml](/f43/language/ml) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ml.po | 
+ | [ms](/f43/language/ms) | 329 | 329 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ms.po | 
+ | [nb_NO](/f43/language/nb_NO) | 329 | 329 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/nb.po | 
+ | [nl](/f43/language/nl) | 314 | 314 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/nl.po | 
+ | [oc](/f43/language/oc) | 333 | 333 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/oc.po | 
+ | [pl](/f43/language/pl) | 1628 | 1628 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/pl/pl.po/mnt/stockage/packages/f43/gnome-mahjongg/po/pl.po | 
+ | [pt](/f43/language/pt) | 311 | 311 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/pt_BR/pt_BR.po/mnt/stockage/packages/f43/gnome-mahjongg/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ro/ro.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ro.po | 
+ | [ru](/f43/language/ru) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/ru/ru.po/mnt/stockage/packages/f43/gnome-mahjongg/po/ru.po | 
+ | [sk](/f43/language/sk) | 273 | 273 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sk.po | 
+ | [sl](/f43/language/sl) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sl.po | 
+ | [sr](/f43/language/sr) | 574 | 574 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sr@latin.po/mnt/stockage/packages/f43/gnome-mahjongg/po/sr.po | 
+ | [sv](/f43/language/sv) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/sv/sv.po/mnt/stockage/packages/f43/gnome-mahjongg/po/sv.po | 
+ | [ta](/f43/language/ta) | 170 | 170 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ta.po | 
+ | [tr](/f43/language/tr) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/tr.po | 
+ | [uk](/f43/language/uk) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/uk/uk.po/mnt/stockage/packages/f43/gnome-mahjongg/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 389 | 389 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 329 | 329 | 100.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/zh_TW.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 304 | 308 | 98.7 | /mnt/stockage/packages/f43/gnome-mahjongg/po/zh_HK.po | 
+ | [ug](/f43/language/ug) | 159 | 170 | 93.5 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ug.po | 
+ | [eu](/f43/language/eu) | 1181 | 1688 | 70.0 | /mnt/stockage/packages/f43/gnome-mahjongg/help/eu/eu.po/mnt/stockage/packages/f43/gnome-mahjongg/po/eu.po | 
+ | [ja](/f43/language/ja) | 197 | 312 | 63.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ja.po | 
+ | [ckb](/f43/language/ckb) | 190 | 329 | 57.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ckb.po | 
+ | [br](/f43/language/br) | 124 | 304 | 40.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/br.po | 
+ | [pa](/f43/language/pa) | 112 | 304 | 36.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/pa.po | 
+ | [th](/f43/language/th) | 112 | 304 | 36.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/th.po | 
+ | [km](/f43/language/km) | 109 | 304 | 35.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/km.po | 
+ | [vi](/f43/language/vi) | 106 | 304 | 34.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/vi.po | 
+ | [ar](/f43/language/ar) | 91 | 304 | 29.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ar.po | 
+ | [te](/f43/language/te) | 88 | 304 | 28.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/te.po | 
+ | [ka](/f43/language/ka) | 112 | 389 | 28.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ka.po | 
+ | [af](/f43/language/af) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/af.po | 
+ | [ast](/f43/language/ast) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ast.po | 
+ | [bn](/f43/language/bn) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bn.po | 
+ | [gu](/f43/language/gu) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/gu.po | 
+ | [kn](/f43/language/kn) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/kn.po | 
+ | [mr](/f43/language/mr) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mr.po | 
+ | [nn](/f43/language/nn) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/nn.po | 
+ | [or](/f43/language/or) | 87 | 304 | 28.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/or.po | 
+ | [error](/f43/language/error) | 86 | 304 | 28.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/en@shaw.po | 
+ | [mk](/f43/language/mk) | 85 | 304 | 28.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mk.po | 
+ | [en_CA](/f43/language/en_CA) | 83 | 304 | 27.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/en_CA.po | 
+ | [as](/f43/language/as) | 76 | 304 | 25.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/as.po | 
+ | [bn_IN](/f43/language/bn_IN) | 58 | 304 | 19.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/bn_IN.po | 
+ | [dz](/f43/language/dz) | 49 | 304 | 16.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/dz.po | 
+ | [ne](/f43/language/ne) | 43 | 304 | 14.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ne.po | 
+ | [tg](/f43/language/tg) | 24 | 170 | 14.1 | /mnt/stockage/packages/f43/gnome-mahjongg/po/tg.po | 
+ | [mai](/f43/language/mai) | 42 | 304 | 13.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mai.po | 
+ | [cy](/f43/language/cy) | 41 | 304 | 13.5 | /mnt/stockage/packages/f43/gnome-mahjongg/po/cy.po | 
+ | [sq](/f43/language/sq) | 39 | 304 | 12.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/sq.po | 
+ | [ga](/f43/language/ga) | 36 | 304 | 11.8 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ga.po | 
+ | [xh](/f43/language/xh) | 33 | 304 | 10.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/xh.po | 
+ | [az](/f43/language/az) | 27 | 304 | 8.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/az.po | 
+ | [si](/f43/language/si) | 24 | 304 | 7.9 | /mnt/stockage/packages/f43/gnome-mahjongg/po/si.po | 
+ | [mn](/f43/language/mn) | 17 | 304 | 5.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/mn.po | 
+ | [wa](/f43/language/wa) | 16 | 304 | 5.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/wa.po | 
+ | [am](/f43/language/am) | 5 | 304 | 1.6 | /mnt/stockage/packages/f43/gnome-mahjongg/po/am.po | 
+ | [ku](/f43/language/ku) | 4 | 304 | 1.3 | /mnt/stockage/packages/f43/gnome-mahjongg/po/ku.po | 
+ | [rw](/f43/language/rw) | 3 | 304 | 1.0 | /mnt/stockage/packages/f43/gnome-mahjongg/po/rw.po | 
 {.sortable}
 
 

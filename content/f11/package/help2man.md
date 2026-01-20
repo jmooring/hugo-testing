@@ -18,10 +18,10 @@ The package help2man (version 1.36.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f11/help2man/po/fr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f11/help2man/po/pl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f11/help2man/po/sv.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f11/help2man/po/fi.po | 
+ | [fr](/f11/language/fr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f11/help2man/po/fr.po | 
+ | [pl](/f11/language/pl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f11/help2man/po/pl.po | 
+ | [sv](/f11/language/sv) | 284 | 284 | 100.0 | /mnt/stockage/packages/f11/help2man/po/sv.po | 
+ | [fi](/f11/language/fi) | 236 | 284 | 83.1 | /mnt/stockage/packages/f11/help2man/po/fi.po | 
 {.sortable}
 
 

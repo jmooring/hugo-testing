@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 3 | 9286 | 0.0 | Sundanese <su@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [stellarium](/f17/package/stellarium) | 3 | 9286 | 0.0 | Sundanese <su@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

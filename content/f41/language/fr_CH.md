@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [maliit-keyboard]({{< ref "/f41/package/maliit-keyboard.md" >}}) | 66 | 81 | 81.5 |  | 
- | [enlightenment]({{< ref "/f41/package/enlightenment.md" >}}) | 1537 | 8715 | 17.6 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [maliit-keyboard](/f41/package/maliit-keyboard) | 66 | 81 | 81.5 |  | 
+ | [enlightenment](/f41/package/enlightenment) | 1537 | 8715 | 17.6 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
 {.sortable}
 
 

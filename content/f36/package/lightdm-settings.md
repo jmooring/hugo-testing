@@ -18,77 +18,77 @@ The package lightdm-settings (version 1.5.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f36/language/be.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-be.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-bn.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-cs.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-cy.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-de.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-el.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-en_GB.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-eo.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-es.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-et.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-eu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-fr.po | 
- | [fr_CA]({{< ref "/f36/language/fr_CA.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-fr_CA.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-he.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-hi.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-hu.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ia.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-id.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-is.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ja.po | 
- | [kab]({{< ref "/f36/language/kab.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-kab.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ko.po | 
- | [la]({{< ref "/f36/language/la.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-la.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-lt.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-nl.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-oc.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ro.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ru.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sk.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sl.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sq.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sr.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sr@latin.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-uk.po | 
- | [uz]({{< ref "/f36/language/uz.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-uz.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zh_TW.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 319 | 321 | 99.4 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-vi.po | 
- | [ar_EG]({{< ref "/f36/language/ar_EG.md" >}}) | 310 | 321 | 96.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ar.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 310 | 321 | 96.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zh_HK.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 305 | 321 | 95.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-bg.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 305 | 321 | 95.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zh_CN.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 299 | 321 | 93.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ga.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 294 | 321 | 91.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-am.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 274 | 321 | 85.4 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ie.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 270 | 321 | 84.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-nb.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 270 | 321 | 84.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-th.po | 
- | [ku]({{< ref "/f36/language/ku.md" >}}) | 251 | 321 | 78.2 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ku.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 80 | 321 | 24.9 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-gl.po | 
- | [sc]({{< ref "/f36/language/sc.md" >}}) | 72 | 321 | 22.4 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sc.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 45 | 321 | 14.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ne.po | 
- | [zgh]({{< ref "/f36/language/zgh.md" >}}) | 40 | 321 | 12.5 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zgh.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 39 | 321 | 12.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-mr.po | 
- | [nap]({{< ref "/f36/language/nap.md" >}}) | 36 | 321 | 11.2 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-nap.po | 
- | [mai]({{< ref "/f36/language/mai.md" >}}) | 34 | 321 | 10.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-mai.po | 
- | [ber]({{< ref "/f36/language/ber.md" >}}) | 16 | 321 | 5.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ber.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 8 | 321 | 2.5 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ta.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 7 | 321 | 2.2 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-kk.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 6 | 321 | 1.9 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ca@valencia.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 0 | 321 | 0.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-af.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 0 | 321 | 0.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ml.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 0 | 321 | 0.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-tg.po | 
+ | [be](/f36/language/be) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-be.po | 
+ | [bn](/f36/language/bn) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-bn.po | 
+ | [ca](/f36/language/ca) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ca.po | 
+ | [cs](/f36/language/cs) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-cs.po | 
+ | [cy](/f36/language/cy) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-cy.po | 
+ | [da](/f36/language/da) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-da.po | 
+ | [de](/f36/language/de) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-de.po | 
+ | [el](/f36/language/el) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-el.po | 
+ | [en_GB](/f36/language/en_GB) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-en_GB.po | 
+ | [eo](/f36/language/eo) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-eo.po | 
+ | [es](/f36/language/es) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-es.po | 
+ | [et](/f36/language/et) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-et.po | 
+ | [eu](/f36/language/eu) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-eu.po | 
+ | [fi](/f36/language/fi) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-fi.po | 
+ | [fr](/f36/language/fr) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-fr.po | 
+ | [fr_CA](/f36/language/fr_CA) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-fr_CA.po | 
+ | [he](/f36/language/he) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-he.po | 
+ | [hi](/f36/language/hi) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-hi.po | 
+ | [hr](/f36/language/hr) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-hr.po | 
+ | [hu](/f36/language/hu) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-hu.po | 
+ | [ia](/f36/language/ia) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ia.po | 
+ | [id](/f36/language/id) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-id.po | 
+ | [is](/f36/language/is) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-is.po | 
+ | [it](/f36/language/it) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-it.po | 
+ | [ja](/f36/language/ja) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ja.po | 
+ | [kab](/f36/language/kab) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-kab.po | 
+ | [ko](/f36/language/ko) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ko.po | 
+ | [la](/f36/language/la) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-la.po | 
+ | [lt](/f36/language/lt) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-lt.po | 
+ | [nl](/f36/language/nl) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-nl.po | 
+ | [oc](/f36/language/oc) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-oc.po | 
+ | [pl](/f36/language/pl) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-pl.po | 
+ | [pt](/f36/language/pt) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-pt_BR.po | 
+ | [ro](/f36/language/ro) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ro.po | 
+ | [ru](/f36/language/ru) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ru.po | 
+ | [sk](/f36/language/sk) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sk.po | 
+ | [sl](/f36/language/sl) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sl.po | 
+ | [sq](/f36/language/sq) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sq.po | 
+ | [sr](/f36/language/sr) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sr.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sr@latin.po | 
+ | [sv](/f36/language/sv) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sv.po | 
+ | [tr](/f36/language/tr) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-tr.po | 
+ | [uk](/f36/language/uk) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-uk.po | 
+ | [uz](/f36/language/uz) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-uz.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zh_TW.po | 
+ | [vi](/f36/language/vi) | 319 | 321 | 99.4 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-vi.po | 
+ | [ar_EG](/f36/language/ar_EG) | 310 | 321 | 96.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ar.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 310 | 321 | 96.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zh_HK.po | 
+ | [bg](/f36/language/bg) | 305 | 321 | 95.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-bg.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 305 | 321 | 95.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zh_CN.po | 
+ | [ga](/f36/language/ga) | 299 | 321 | 93.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ga.po | 
+ | [am](/f36/language/am) | 294 | 321 | 91.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-am.po | 
+ | [ie](/f36/language/ie) | 274 | 321 | 85.4 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ie.po | 
+ | [nb_NO](/f36/language/nb_NO) | 270 | 321 | 84.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-nb.po | 
+ | [th](/f36/language/th) | 270 | 321 | 84.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-th.po | 
+ | [ku](/f36/language/ku) | 251 | 321 | 78.2 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ku.po | 
+ | [gl](/f36/language/gl) | 80 | 321 | 24.9 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-gl.po | 
+ | [sc](/f36/language/sc) | 72 | 321 | 22.4 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-sc.po | 
+ | [ne](/f36/language/ne) | 45 | 321 | 14.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ne.po | 
+ | [zgh](/f36/language/zgh) | 40 | 321 | 12.5 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-zgh.po | 
+ | [mr](/f36/language/mr) | 39 | 321 | 12.1 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-mr.po | 
+ | [nap](/f36/language/nap) | 36 | 321 | 11.2 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-nap.po | 
+ | [mai](/f36/language/mai) | 34 | 321 | 10.6 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-mai.po | 
+ | [ber](/f36/language/ber) | 16 | 321 | 5.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ber.po | 
+ | [ta](/f36/language/ta) | 8 | 321 | 2.5 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ta.po | 
+ | [kk](/f36/language/kk) | 7 | 321 | 2.2 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-kk.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 6 | 321 | 1.9 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ca@valencia.po | 
+ | [af](/f36/language/af) | 0 | 321 | 0.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-af.po | 
+ | [ml](/f36/language/ml) | 0 | 321 | 0.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-ml.po | 
+ | [tg](/f36/language/tg) | 0 | 321 | 0.0 | /mnt/stockage/packages/f36/lightdm-settings/po/lightdm-settings-tg.po | 
 {.sortable}
 
 

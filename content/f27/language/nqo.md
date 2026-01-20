@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-sensors-applet]({{< ref "/f27/package/mate-sensors-applet.md" >}}) | 2 | 306 | 0.7 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [atril]({{< ref "/f27/package/atril.md" >}}) | 7 | 1792 | 0.4 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [eom]({{< ref "/f27/package/eom.md" >}}) | 6 | 1717 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-terminal]({{< ref "/f27/package/mate-terminal.md" >}}) | 9 | 4649 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [libmatekbd]({{< ref "/f27/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [mate-menu]({{< ref "/f27/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/) | 
+ | [mate-sensors-applet](/f27/package/mate-sensors-applet) | 2 | 306 | 0.7 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [atril](/f27/package/atril) | 7 | 1792 | 0.4 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [eom](/f27/package/eom) | 6 | 1717 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-terminal](/f27/package/mate-terminal) | 9 | 4649 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [libmatekbd](/f27/package/libmatekbd) | 0 | 251 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [mate-menu](/f27/package/mate-menu) | 0 | 316 | 0.0 | N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/) | 
 {.sortable}
 
 

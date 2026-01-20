@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [garcon]({{< ref "/f24/package/garcon.md" >}}) | 109 | 109 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
- | [xfce4-battery-plugin]({{< ref "/f24/package/xfce4-battery-plugin.md" >}}) | 149 | 149 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
- | [xfce4-xkb-plugin]({{< ref "/f24/package/xfce4-xkb-plugin.md" >}}) | 43 | 43 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
- | [uget]({{< ref "/f24/package/uget.md" >}}) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
- | [modem-manager-gui]({{< ref "/f24/package/modem-manager-gui.md" >}}) | 1250 | 3111 | 40.2 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
- | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 0 | 152264 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f24/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 222 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
- | [quassel]({{< ref "/f24/package/quassel.md" >}}) | 0 | 5382 | 0.0 | Uzbek (Latin) (http://www.transifex.com/ald/quassel/language/uz@Latn/) | 
+ | [garcon](/f24/package/garcon) | 109 | 109 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
+ | [xfce4-battery-plugin](/f24/package/xfce4-battery-plugin) | 149 | 149 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
+ | [xfce4-xkb-plugin](/f24/package/xfce4-xkb-plugin) | 43 | 43 | 100.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/xfce/language/uz@Latn/) | 
+ | [uget](/f24/package/uget) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
+ | [modem-manager-gui](/f24/package/modem-manager-gui) | 1250 | 3111 | 40.2 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
+ | [calibre](/f24/package/calibre) | 0 | 152264 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
+ | [php-phpmyadmin-sql-parser](/f24/package/php-phpmyadmin-sql-parser) | 0 | 222 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
+ | [quassel](/f24/package/quassel) | 0 | 5382 | 0.0 | Uzbek (Latin) (http://www.transifex.com/ald/quassel/language/uz@Latn/) | 
 {.sortable}
 
 

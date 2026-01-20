@@ -18,16 +18,16 @@ The package sweep (version 0.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f13/language/it.md" >}}) | 2399 | 2399 | 100.0 | /mnt/stockage/packages/f13/sweep/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 2384 | 2399 | 99.4 | /mnt/stockage/packages/f13/sweep/po/ja.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 2359 | 2399 | 98.3 | /mnt/stockage/packages/f13/sweep/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 2359 | 2399 | 98.3 | /mnt/stockage/packages/f13/sweep/po/es_ES.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 2296 | 2399 | 95.7 | /mnt/stockage/packages/f13/sweep/po/pl.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 2224 | 2399 | 92.7 | /mnt/stockage/packages/f13/sweep/po/el.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1825 | 2399 | 76.1 | /mnt/stockage/packages/f13/sweep/po/ru.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 163 | 2399 | 6.8 | /mnt/stockage/packages/f13/sweep/po/hu.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 125 | 2399 | 5.2 | /mnt/stockage/packages/f13/sweep/po/fr.po | 
- | [en_AU]({{< ref "/f13/language/en_AU.md" >}}) | 2 | 2399 | 0.1 | /mnt/stockage/packages/f13/sweep/po/en_AU.po | 
+ | [it](/f13/language/it) | 2399 | 2399 | 100.0 | /mnt/stockage/packages/f13/sweep/po/it.po | 
+ | [ja](/f13/language/ja) | 2384 | 2399 | 99.4 | /mnt/stockage/packages/f13/sweep/po/ja.po | 
+ | [de](/f13/language/de) | 2359 | 2399 | 98.3 | /mnt/stockage/packages/f13/sweep/po/de.po | 
+ | [es](/f13/language/es) | 2359 | 2399 | 98.3 | /mnt/stockage/packages/f13/sweep/po/es_ES.po | 
+ | [pl](/f13/language/pl) | 2296 | 2399 | 95.7 | /mnt/stockage/packages/f13/sweep/po/pl.po | 
+ | [el](/f13/language/el) | 2224 | 2399 | 92.7 | /mnt/stockage/packages/f13/sweep/po/el.po | 
+ | [ru](/f13/language/ru) | 1825 | 2399 | 76.1 | /mnt/stockage/packages/f13/sweep/po/ru.po | 
+ | [hu](/f13/language/hu) | 163 | 2399 | 6.8 | /mnt/stockage/packages/f13/sweep/po/hu.po | 
+ | [fr](/f13/language/fr) | 125 | 2399 | 5.2 | /mnt/stockage/packages/f13/sweep/po/fr.po | 
+ | [en_AU](/f13/language/en_AU) | 2 | 2399 | 0.1 | /mnt/stockage/packages/f13/sweep/po/en_AU.po | 
 {.sortable}
 
 

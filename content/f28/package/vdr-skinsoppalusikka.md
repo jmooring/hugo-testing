@@ -18,16 +18,16 @@ The package vdr-skinsoppalusikka (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/fi_FI.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 137 | 140 | 97.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/et_EE.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 137 | 140 | 97.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/it_IT.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 116 | 140 | 82.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/fr_FR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 116 | 140 | 82.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/ru_RU.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 43 | 140 | 30.7 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/de_DE.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 42 | 140 | 30.0 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/hu_HU.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 42 | 140 | 30.0 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/sv_SE.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 38 | 140 | 27.1 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/es_ES.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 37 | 140 | 26.4 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/pl_PL.po | 
+ | [fi](/f28/language/fi) | 140 | 140 | 100.0 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/fi_FI.po | 
+ | [et](/f28/language/et) | 137 | 140 | 97.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/et_EE.po | 
+ | [it](/f28/language/it) | 137 | 140 | 97.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/it_IT.po | 
+ | [fr](/f28/language/fr) | 116 | 140 | 82.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/fr_FR.po | 
+ | [ru](/f28/language/ru) | 116 | 140 | 82.9 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/ru_RU.po | 
+ | [de](/f28/language/de) | 43 | 140 | 30.7 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/de_DE.po | 
+ | [hu](/f28/language/hu) | 42 | 140 | 30.0 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/hu_HU.po | 
+ | [sv](/f28/language/sv) | 42 | 140 | 30.0 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/sv_SE.po | 
+ | [es](/f28/language/es) | 38 | 140 | 27.1 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/es_ES.po | 
+ | [pl](/f28/language/pl) | 37 | 140 | 26.4 | /mnt/stockage/packages/f28/vdr-skinsoppalusikka/po/pl_PL.po | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package django-registration (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/ar/LC_MESSAGES/django.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/bg/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/el/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/es/LC_MESSAGES/django.po | 
- | [es_AR]({{< ref "/f14/language/es_AR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/es_AR/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/fr/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/he/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/it/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/ja/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/nl/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/pl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/ru/LC_MESSAGES/django.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/sr/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/sv/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/zh_CN/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/zh_TW/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 80 | 81 | 98.8 | /mnt/stockage/packages/f14/django-registration/registration/locale/pt_BR/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/en/LC_MESSAGES/django.po | 
+ | [ar](/f14/language/ar) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/ar/LC_MESSAGES/django.po | 
+ | [bg](/f14/language/bg) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/bg/LC_MESSAGES/django.po | 
+ | [de](/f14/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f14/language/el) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/el/LC_MESSAGES/django.po | 
+ | [es](/f14/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/es/LC_MESSAGES/django.po | 
+ | [es_AR](/f14/language/es_AR) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/es_AR/LC_MESSAGES/django.po | 
+ | [fr](/f14/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/fr/LC_MESSAGES/django.po | 
+ | [he](/f14/language/he) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/he/LC_MESSAGES/django.po | 
+ | [it](/f14/language/it) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/it/LC_MESSAGES/django.po | 
+ | [ja](/f14/language/ja) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/ja/LC_MESSAGES/django.po | 
+ | [nl](/f14/language/nl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/nl/LC_MESSAGES/django.po | 
+ | [pl](/f14/language/pl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/pl/LC_MESSAGES/django.po | 
+ | [ru](/f14/language/ru) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/ru/LC_MESSAGES/django.po | 
+ | [sr](/f14/language/sr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/sr/LC_MESSAGES/django.po | 
+ | [sv](/f14/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/sv/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 81 | 81 | 100.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [pt_BR](/f14/language/pt_BR) | 80 | 81 | 98.8 | /mnt/stockage/packages/f14/django-registration/registration/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [en](/f14/language/en) | 0 | 81 | 0.0 | /mnt/stockage/packages/f14/django-registration/registration/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

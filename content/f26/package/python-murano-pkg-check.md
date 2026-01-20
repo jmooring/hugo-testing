@@ -18,7 +18,7 @@ The package python-murano-pkg-check (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/python-murano-pkg-check/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f26/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f26/python-murano-pkg-check/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

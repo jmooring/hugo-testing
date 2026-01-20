@@ -18,8 +18,8 @@ The package fcitx-m17n (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f19/fcitx-m17n/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 41 | 43 | 95.3 | /mnt/stockage/packages/f19/fcitx-m17n/po/zh_TW.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f19/fcitx-m17n/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 41 | 43 | 95.3 | /mnt/stockage/packages/f19/fcitx-m17n/po/zh_TW.po | 
 {.sortable}
 
 

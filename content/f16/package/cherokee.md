@@ -18,19 +18,19 @@ The package cherokee (version 1.2.101):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 9344 | 9494 | 98.4 | /mnt/stockage/packages/f16/cherokee/po/admin/nl.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 7060 | 9494 | 74.4 | /mnt/stockage/packages/f16/cherokee/po/admin/es.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 6173 | 9494 | 65.0 | /mnt/stockage/packages/f16/cherokee/po/admin/gl.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 5489 | 9494 | 57.8 | /mnt/stockage/packages/f16/cherokee/po/admin/it.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 4905 | 9494 | 51.7 | /mnt/stockage/packages/f16/cherokee/po/admin/pl.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 3997 | 9494 | 42.1 | /mnt/stockage/packages/f16/cherokee/po/admin/ca.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 3719 | 9494 | 39.2 | /mnt/stockage/packages/f16/cherokee/po/admin/sv_SE.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2974 | 9494 | 31.3 | /mnt/stockage/packages/f16/cherokee/po/admin/zh_CN.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 2233 | 9494 | 23.5 | /mnt/stockage/packages/f16/cherokee/po/admin/jp.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 1950 | 9494 | 20.5 | /mnt/stockage/packages/f16/cherokee/po/admin/en.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1368 | 9494 | 14.4 | /mnt/stockage/packages/f16/cherokee/po/admin/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1026 | 9494 | 10.8 | /mnt/stockage/packages/f16/cherokee/po/admin/fr.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 755 | 9494 | 8.0 | /mnt/stockage/packages/f16/cherokee/po/admin/pt_BR.po | 
+ | [nl](/f16/language/nl) | 9344 | 9494 | 98.4 | /mnt/stockage/packages/f16/cherokee/po/admin/nl.po | 
+ | [es](/f16/language/es) | 7060 | 9494 | 74.4 | /mnt/stockage/packages/f16/cherokee/po/admin/es.po | 
+ | [gl](/f16/language/gl) | 6173 | 9494 | 65.0 | /mnt/stockage/packages/f16/cherokee/po/admin/gl.po | 
+ | [it](/f16/language/it) | 5489 | 9494 | 57.8 | /mnt/stockage/packages/f16/cherokee/po/admin/it.po | 
+ | [pl](/f16/language/pl) | 4905 | 9494 | 51.7 | /mnt/stockage/packages/f16/cherokee/po/admin/pl.po | 
+ | [ca](/f16/language/ca) | 3997 | 9494 | 42.1 | /mnt/stockage/packages/f16/cherokee/po/admin/ca.po | 
+ | [sv](/f16/language/sv) | 3719 | 9494 | 39.2 | /mnt/stockage/packages/f16/cherokee/po/admin/sv_SE.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2974 | 9494 | 31.3 | /mnt/stockage/packages/f16/cherokee/po/admin/zh_CN.po | 
+ | [ja](/f16/language/ja) | 2233 | 9494 | 23.5 | /mnt/stockage/packages/f16/cherokee/po/admin/jp.po | 
+ | [en](/f16/language/en) | 1950 | 9494 | 20.5 | /mnt/stockage/packages/f16/cherokee/po/admin/en.po | 
+ | [de](/f16/language/de) | 1368 | 9494 | 14.4 | /mnt/stockage/packages/f16/cherokee/po/admin/de.po | 
+ | [fr](/f16/language/fr) | 1026 | 9494 | 10.8 | /mnt/stockage/packages/f16/cherokee/po/admin/fr.po | 
+ | [pt_BR](/f16/language/pt_BR) | 755 | 9494 | 8.0 | /mnt/stockage/packages/f16/cherokee/po/admin/pt_BR.po | 
 {.sortable}
 
 

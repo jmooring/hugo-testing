@@ -18,7 +18,7 @@ The package java-latest-openjdk (version 14.0.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f30/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/java-latest-openjdk/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f30/java-latest-openjdk/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f30/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/java-latest-openjdk/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f30/java-latest-openjdk/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

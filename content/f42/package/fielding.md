@@ -18,28 +18,28 @@ The package fielding (version 0.1~20231028.022709.1912c80):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ca/fielding.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ca@valencia/fielding.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/eo/fielding.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/es/fielding.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/eu/fielding.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/fr/fielding.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/gl/fielding.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ia/fielding.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/it/fielding.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ka/fielding.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/nl/fielding.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/pl/fielding.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/sl/fielding.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/tr/fielding.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/uk/fielding.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 39 | 41 | 95.1 | /mnt/stockage/packages/f42/fielding/po/ko/fielding.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 31 | 41 | 75.6 | /mnt/stockage/packages/f42/fielding/po/nn/fielding.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 31 | 41 | 75.6 | /mnt/stockage/packages/f42/fielding/po/sv/fielding.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 28 | 41 | 68.3 | /mnt/stockage/packages/f42/fielding/po/cs/fielding.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f42/fielding/po/de/fielding.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f42/fielding/po/ja/fielding.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f42/fielding/po/zh_CN/fielding.po | 
+ | [ca](/f42/language/ca) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ca/fielding.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ca@valencia/fielding.po | 
+ | [eo](/f42/language/eo) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/eo/fielding.po | 
+ | [es](/f42/language/es) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/es/fielding.po | 
+ | [eu](/f42/language/eu) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/eu/fielding.po | 
+ | [fr](/f42/language/fr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/fr/fielding.po | 
+ | [gl](/f42/language/gl) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/gl/fielding.po | 
+ | [ia](/f42/language/ia) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ia/fielding.po | 
+ | [it](/f42/language/it) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/it/fielding.po | 
+ | [ka](/f42/language/ka) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/ka/fielding.po | 
+ | [nl](/f42/language/nl) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/nl/fielding.po | 
+ | [pl](/f42/language/pl) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/pl/fielding.po | 
+ | [sl](/f42/language/sl) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/sl/fielding.po | 
+ | [tr](/f42/language/tr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/tr/fielding.po | 
+ | [uk](/f42/language/uk) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/fielding/po/uk/fielding.po | 
+ | [ko](/f42/language/ko) | 39 | 41 | 95.1 | /mnt/stockage/packages/f42/fielding/po/ko/fielding.po | 
+ | [nn](/f42/language/nn) | 31 | 41 | 75.6 | /mnt/stockage/packages/f42/fielding/po/nn/fielding.po | 
+ | [sv](/f42/language/sv) | 31 | 41 | 75.6 | /mnt/stockage/packages/f42/fielding/po/sv/fielding.po | 
+ | [cs](/f42/language/cs) | 28 | 41 | 68.3 | /mnt/stockage/packages/f42/fielding/po/cs/fielding.po | 
+ | [de](/f42/language/de) | 0 | 41 | 0.0 | /mnt/stockage/packages/f42/fielding/po/de/fielding.po | 
+ | [ja](/f42/language/ja) | 0 | 41 | 0.0 | /mnt/stockage/packages/f42/fielding/po/ja/fielding.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 0 | 41 | 0.0 | /mnt/stockage/packages/f42/fielding/po/zh_CN/fielding.po | 
 {.sortable}
 
 

@@ -18,50 +18,50 @@ The package hello (version 2.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/de.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/et.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/fa.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/fi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/hr.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/pl.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/zh_CN.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ast.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ca.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/da.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/eo.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/fr.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ga.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/gl.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/hu.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ka.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/nb.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/pt_BR.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/sr.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ta.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/th.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/vi.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/zh_TW.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/es.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/id.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/lv.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/sl.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 40 | 244 | 16.4 | /mnt/stockage/packages/f39/hello/po/el.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 40 | 244 | 16.4 | /mnt/stockage/packages/f39/hello/po/tr.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 17 | 244 | 7.0 | /mnt/stockage/packages/f39/hello/po/bg.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 17 | 244 | 7.0 | /mnt/stockage/packages/f39/hello/po/ko.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 17 | 244 | 7.0 | /mnt/stockage/packages/f39/hello/po/ms.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/eu.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/he.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/ja.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/nn.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/pt.po | 
+ | [de](/f39/language/de) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/de.po | 
+ | [et](/f39/language/et) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/et.po | 
+ | [fa](/f39/language/fa) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/fa.po | 
+ | [fi](/f39/language/fi) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/fi.po | 
+ | [hr](/f39/language/hr) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/hr.po | 
+ | [nl](/f39/language/nl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/nl.po | 
+ | [pl](/f39/language/pl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/pl.po | 
+ | [ro](/f39/language/ro) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/ro.po | 
+ | [ru](/f39/language/ru) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/ru.po | 
+ | [sk](/f39/language/sk) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/sk.po | 
+ | [sv](/f39/language/sv) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/sv.po | 
+ | [uk](/f39/language/uk) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 244 | 244 | 100.0 | /mnt/stockage/packages/f39/hello/po/zh_CN.po | 
+ | [ast](/f39/language/ast) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ast.po | 
+ | [ca](/f39/language/ca) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ca.po | 
+ | [da](/f39/language/da) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/da.po | 
+ | [eo](/f39/language/eo) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/eo.po | 
+ | [fr](/f39/language/fr) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/fr.po | 
+ | [ga](/f39/language/ga) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ga.po | 
+ | [gl](/f39/language/gl) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/gl.po | 
+ | [hu](/f39/language/hu) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/hu.po | 
+ | [ka](/f39/language/ka) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ka.po | 
+ | [nb_NO](/f39/language/nb_NO) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/nb.po | 
+ | [pt_BR](/f39/language/pt_BR) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/pt_BR.po | 
+ | [sr](/f39/language/sr) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/sr.po | 
+ | [ta](/f39/language/ta) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/ta.po | 
+ | [th](/f39/language/th) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/th.po | 
+ | [vi](/f39/language/vi) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/vi.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 50 | 244 | 20.5 | /mnt/stockage/packages/f39/hello/po/zh_TW.po | 
+ | [es](/f39/language/es) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/es.po | 
+ | [id](/f39/language/id) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/id.po | 
+ | [lv](/f39/language/lv) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/lv.po | 
+ | [sl](/f39/language/sl) | 42 | 244 | 17.2 | /mnt/stockage/packages/f39/hello/po/sl.po | 
+ | [el](/f39/language/el) | 40 | 244 | 16.4 | /mnt/stockage/packages/f39/hello/po/el.po | 
+ | [tr](/f39/language/tr) | 40 | 244 | 16.4 | /mnt/stockage/packages/f39/hello/po/tr.po | 
+ | [bg](/f39/language/bg) | 17 | 244 | 7.0 | /mnt/stockage/packages/f39/hello/po/bg.po | 
+ | [ko](/f39/language/ko) | 17 | 244 | 7.0 | /mnt/stockage/packages/f39/hello/po/ko.po | 
+ | [ms](/f39/language/ms) | 17 | 244 | 7.0 | /mnt/stockage/packages/f39/hello/po/ms.po | 
+ | [eu](/f39/language/eu) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/eu.po | 
+ | [he](/f39/language/he) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/he.po | 
+ | [it](/f39/language/it) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/it.po | 
+ | [ja](/f39/language/ja) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/ja.po | 
+ | [nn](/f39/language/nn) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/nn.po | 
+ | [pt](/f39/language/pt) | 2 | 244 | 0.8 | /mnt/stockage/packages/f39/hello/po/pt.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package gmusicbrowser (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2865 | 2865 | 100.0 | /mnt/stockage/packages/f11/gmusicbrowser/po/zh_CN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2858 | 2867 | 99.7 | /mnt/stockage/packages/f11/gmusicbrowser/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2860 | 2901 | 98.6 | /mnt/stockage/packages/f11/gmusicbrowser/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 2745 | 2867 | 95.7 | /mnt/stockage/packages/f11/gmusicbrowser/po/es.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 2608 | 2867 | 91.0 | /mnt/stockage/packages/f11/gmusicbrowser/po/pl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 1528 | 2867 | 53.3 | /mnt/stockage/packages/f11/gmusicbrowser/po/sv.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1190 | 2867 | 41.5 | /mnt/stockage/packages/f11/gmusicbrowser/po/hu.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2865 | 2865 | 100.0 | /mnt/stockage/packages/f11/gmusicbrowser/po/zh_CN.po | 
+ | [de](/f11/language/de) | 2858 | 2867 | 99.7 | /mnt/stockage/packages/f11/gmusicbrowser/po/de.po | 
+ | [fr](/f11/language/fr) | 2860 | 2901 | 98.6 | /mnt/stockage/packages/f11/gmusicbrowser/po/fr.po | 
+ | [es](/f11/language/es) | 2745 | 2867 | 95.7 | /mnt/stockage/packages/f11/gmusicbrowser/po/es.po | 
+ | [pl](/f11/language/pl) | 2608 | 2867 | 91.0 | /mnt/stockage/packages/f11/gmusicbrowser/po/pl.po | 
+ | [sv](/f11/language/sv) | 1528 | 2867 | 53.3 | /mnt/stockage/packages/f11/gmusicbrowser/po/sv.po | 
+ | [hu](/f11/language/hu) | 1190 | 2867 | 41.5 | /mnt/stockage/packages/f11/gmusicbrowser/po/hu.po | 
 {.sortable}
 
 

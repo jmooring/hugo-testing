@@ -39,13 +39,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f22/package/transmission.md" >}}) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
- | [midori]({{< ref "/f22/package/midori.md" >}}) | 289 | 3541 | 8.2 | Kurdish (Sorani) <ckb@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 20 | 1194 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 83 | 15825 | 0.5 | Kurdish (Sorani) <ckb@li.org> | 
- | [terminator]({{< ref "/f22/package/terminator.md" >}}) | 3 | 1311 | 0.2 | Kurdish (Sorani) <ckb@li.org> | 
- | [feedreader]({{< ref "/f22/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
- | [lightdm]({{< ref "/f22/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [transmission](/f22/package/transmission) | 251 | 1809 | 13.9 | Kurdish (Sorani) <ckb@li.org> | 
+ | [midori](/f22/package/midori) | 289 | 3541 | 8.2 | Kurdish (Sorani) <ckb@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 20 | 1194 | 1.7 | Kurdish (Sorani) <ckb@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 83 | 15825 | 0.5 | Kurdish (Sorani) <ckb@li.org> | 
+ | [terminator](/f22/package/terminator) | 3 | 1311 | 0.2 | Kurdish (Sorani) <ckb@li.org> | 
+ | [feedreader](/f22/package/feedreader) | 0 | 0 | 0.0 |  | 
+ | [lightdm](/f22/package/lightdm) | 0 | 79 | 0.0 | Kurdish (Sorani) <ckb@li.org> | 
 {.sortable}
 
 

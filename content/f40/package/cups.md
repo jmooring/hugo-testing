@@ -18,18 +18,18 @@ The package cups (version 2.4.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f40/language/en.md" >}}) | 12871 | 13042 | 98.7 | /mnt/stockage/packages/f40/cups/locale/cups_en.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 10824 | 13042 | 83.0 | /mnt/stockage/packages/f40/cups/locale/cups_it.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 10038 | 13013 | 77.1 | /mnt/stockage/packages/f40/cups/locale/cups_de.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 7100 | 13042 | 54.4 | /mnt/stockage/packages/f40/cups/locale/cups_zh_CN.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 6398 | 13042 | 49.1 | /mnt/stockage/packages/f40/cups/locale/cups_es.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 6301 | 13042 | 48.3 | /mnt/stockage/packages/f40/cups/locale/cups_pt_BR.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 6244 | 13042 | 47.9 | /mnt/stockage/packages/f40/cups/locale/cups_ja.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 5821 | 13042 | 44.6 | /mnt/stockage/packages/f40/cups/locale/cups_ru.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 5790 | 13042 | 44.4 | /mnt/stockage/packages/f40/cups/locale/cups_ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 2308 | 12827 | 18.0 | /mnt/stockage/packages/f40/cups/locale/cups_da.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 2170 | 13052 | 16.6 | /mnt/stockage/packages/f40/cups/locale/cups_fr.po/mnt/stockage/packages/f40/cups/ppdc/foo-fr.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1141 | 13042 | 8.7 | /mnt/stockage/packages/f40/cups/locale/cups_cs.po | 
+ | [en](/f40/language/en) | 12871 | 13042 | 98.7 | /mnt/stockage/packages/f40/cups/locale/cups_en.po | 
+ | [it](/f40/language/it) | 10824 | 13042 | 83.0 | /mnt/stockage/packages/f40/cups/locale/cups_it.po | 
+ | [de](/f40/language/de) | 10038 | 13013 | 77.1 | /mnt/stockage/packages/f40/cups/locale/cups_de.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 7100 | 13042 | 54.4 | /mnt/stockage/packages/f40/cups/locale/cups_zh_CN.po | 
+ | [es](/f40/language/es) | 6398 | 13042 | 49.1 | /mnt/stockage/packages/f40/cups/locale/cups_es.po | 
+ | [pt_BR](/f40/language/pt_BR) | 6301 | 13042 | 48.3 | /mnt/stockage/packages/f40/cups/locale/cups_pt_BR.po | 
+ | [ja](/f40/language/ja) | 6244 | 13042 | 47.9 | /mnt/stockage/packages/f40/cups/locale/cups_ja.po | 
+ | [ru](/f40/language/ru) | 5821 | 13042 | 44.6 | /mnt/stockage/packages/f40/cups/locale/cups_ru.po | 
+ | [ca](/f40/language/ca) | 5790 | 13042 | 44.4 | /mnt/stockage/packages/f40/cups/locale/cups_ca.po | 
+ | [da](/f40/language/da) | 2308 | 12827 | 18.0 | /mnt/stockage/packages/f40/cups/locale/cups_da.po | 
+ | [fr](/f40/language/fr) | 2170 | 13052 | 16.6 | /mnt/stockage/packages/f40/cups/locale/cups_fr.po/mnt/stockage/packages/f40/cups/ppdc/foo-fr.po | 
+ | [cs](/f40/language/cs) | 1141 | 13042 | 8.7 | /mnt/stockage/packages/f40/cups/locale/cups_cs.po | 
 {.sortable}
 
 

@@ -18,45 +18,45 @@ The package wget (version 1.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/de.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/eo.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/es.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/et.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/fr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/ja.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/nb.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/sr.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/tr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/vi.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1944 | 3131 | 62.1 | /mnt/stockage/packages/f20/wget/po/pt_BR.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1663 | 3131 | 53.1 | /mnt/stockage/packages/f20/wget/po/ca.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 1663 | 3131 | 53.1 | /mnt/stockage/packages/f20/wget/po/hr.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/da.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/sl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/sv.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/zh_CN.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 1215 | 3131 | 38.8 | /mnt/stockage/packages/f20/wget/po/gl.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 992 | 3131 | 31.7 | /mnt/stockage/packages/f20/wget/po/be.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 913 | 3131 | 29.2 | /mnt/stockage/packages/f20/wget/po/ga.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 913 | 3131 | 29.2 | /mnt/stockage/packages/f20/wget/po/lt.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 913 | 3131 | 29.2 | /mnt/stockage/packages/f20/wget/po/pt.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 716 | 3131 | 22.9 | /mnt/stockage/packages/f20/wget/po/zh_TW.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 457 | 3131 | 14.6 | /mnt/stockage/packages/f20/wget/po/eu.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 424 | 3131 | 13.5 | /mnt/stockage/packages/f20/wget/po/en_GB.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 424 | 3131 | 13.5 | /mnt/stockage/packages/f20/wget/po/ro.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 379 | 3131 | 12.1 | /mnt/stockage/packages/f20/wget/po/bg.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 379 | 3131 | 12.1 | /mnt/stockage/packages/f20/wget/po/el.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 350 | 3131 | 11.2 | /mnt/stockage/packages/f20/wget/po/he.po | 
+ | [cs](/f20/language/cs) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/cs.po | 
+ | [de](/f20/language/de) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/de.po | 
+ | [eo](/f20/language/eo) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/eo.po | 
+ | [es](/f20/language/es) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/es.po | 
+ | [et](/f20/language/et) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/et.po | 
+ | [fi](/f20/language/fi) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/fi.po | 
+ | [fr](/f20/language/fr) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/fr.po | 
+ | [hu](/f20/language/hu) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/hu.po | 
+ | [id](/f20/language/id) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/id.po | 
+ | [it](/f20/language/it) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/it.po | 
+ | [ja](/f20/language/ja) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/ja.po | 
+ | [nb_NO](/f20/language/nb_NO) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/nb.po | 
+ | [nl](/f20/language/nl) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/nl.po | 
+ | [pl](/f20/language/pl) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/pl.po | 
+ | [ru](/f20/language/ru) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/ru.po | 
+ | [sk](/f20/language/sk) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/sk.po | 
+ | [sr](/f20/language/sr) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/sr.po | 
+ | [tr](/f20/language/tr) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/tr.po | 
+ | [uk](/f20/language/uk) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/uk.po | 
+ | [vi](/f20/language/vi) | 2001 | 3131 | 63.9 | /mnt/stockage/packages/f20/wget/po/vi.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1944 | 3131 | 62.1 | /mnt/stockage/packages/f20/wget/po/pt_BR.po | 
+ | [ca](/f20/language/ca) | 1663 | 3131 | 53.1 | /mnt/stockage/packages/f20/wget/po/ca.po | 
+ | [hr](/f20/language/hr) | 1663 | 3131 | 53.1 | /mnt/stockage/packages/f20/wget/po/hr.po | 
+ | [da](/f20/language/da) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/da.po | 
+ | [sl](/f20/language/sl) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/sl.po | 
+ | [sv](/f20/language/sv) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/sv.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1481 | 3131 | 47.3 | /mnt/stockage/packages/f20/wget/po/zh_CN.po | 
+ | [gl](/f20/language/gl) | 1215 | 3131 | 38.8 | /mnt/stockage/packages/f20/wget/po/gl.po | 
+ | [be](/f20/language/be) | 992 | 3131 | 31.7 | /mnt/stockage/packages/f20/wget/po/be.po | 
+ | [ga](/f20/language/ga) | 913 | 3131 | 29.2 | /mnt/stockage/packages/f20/wget/po/ga.po | 
+ | [lt](/f20/language/lt) | 913 | 3131 | 29.2 | /mnt/stockage/packages/f20/wget/po/lt.po | 
+ | [pt](/f20/language/pt) | 913 | 3131 | 29.2 | /mnt/stockage/packages/f20/wget/po/pt.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 716 | 3131 | 22.9 | /mnt/stockage/packages/f20/wget/po/zh_TW.po | 
+ | [eu](/f20/language/eu) | 457 | 3131 | 14.6 | /mnt/stockage/packages/f20/wget/po/eu.po | 
+ | [en_GB](/f20/language/en_GB) | 424 | 3131 | 13.5 | /mnt/stockage/packages/f20/wget/po/en_GB.po | 
+ | [ro](/f20/language/ro) | 424 | 3131 | 13.5 | /mnt/stockage/packages/f20/wget/po/ro.po | 
+ | [bg](/f20/language/bg) | 379 | 3131 | 12.1 | /mnt/stockage/packages/f20/wget/po/bg.po | 
+ | [el](/f20/language/el) | 379 | 3131 | 12.1 | /mnt/stockage/packages/f20/wget/po/el.po | 
+ | [he](/f20/language/he) | 350 | 3131 | 11.2 | /mnt/stockage/packages/f20/wget/po/he.po | 
 {.sortable}
 
 

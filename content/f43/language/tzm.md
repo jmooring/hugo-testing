@@ -44,27 +44,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-stopwatch]({{< ref "/f43/package/sugar-stopwatch.md" >}}) | 1 | 5 | 20.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f43/package/sugar-abacus.md" >}}) | 3 | 28 | 10.7 | LANGUAGE <LL@li.org> | 
- | [python-nikola]({{< ref "/f43/package/python-nikola.md" >}}) | 8 | 94 | 8.5 | Central Atlas Tamazight (http://www.transifex.com/ralsina/nikola/language/tzm/) | 
- | [sugar-view-slides]({{< ref "/f43/package/sugar-view-slides.md" >}}) | 5 | 60 | 8.3 | LANGUAGE <LL@li.org> | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 15 | 308 | 4.9 | Central Atlas Tamazight (http://www.transifex.com/mate/MATE/language/tzm/) | 
- | [mate-user-admin]({{< ref "/f43/package/mate-user-admin.md" >}}) | 28 | 605 | 4.6 | Central Atlas Tamazight (https://www.transifex.com/mate/teams/13566/tzm/) | 
- | [sugar-browse]({{< ref "/f43/package/sugar-browse.md" >}}) | 14 | 334 | 4.2 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f43/package/sugar-physics.md" >}}) | 2 | 48 | 4.2 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f43/package/sugar-record.md" >}}) | 2 | 62 | 3.2 | LANGUAGE <LL@li.org> | 
- | [cpu-x]({{< ref "/f43/package/cpu-x.md" >}}) | 43 | 1711 | 2.5 | Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/> | 
- | [sugar-toolkit-gtk3]({{< ref "/f43/package/sugar-toolkit-gtk3.md" >}}) | 5 | 213 | 2.3 | LANGUAGE <LL@li.org> | 
- | [sugar-flipsticks]({{< ref "/f43/package/sugar-flipsticks.md" >}}) | 3 | 151 | 2.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f43/package/sugar-pippy.md" >}}) | 5 | 274 | 1.8 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f43/package/sugar-memorize.md" >}}) | 2 | 142 | 1.4 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f43/package/sugar-speak.md" >}}) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f43/package/sugar-implode.md" >}}) | 1 | 77 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f43/package/sugar-dimensions.md" >}}) | 1 | 161 | 0.6 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f43/package/sugar.md" >}}) | 11 | 2305 | 0.5 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 9 | 2523 | 0.4 | Tamazight (Central Atlas) <https://hosted.weblate.org/projects/iso-codes/iso-15924/tzm/> | 
- | [sugar-clock]({{< ref "/f43/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f43/package/sugar-finance.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f43/package/sugar-stopwatch) | 1 | 5 | 20.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f43/package/sugar-abacus) | 3 | 28 | 10.7 | LANGUAGE <LL@li.org> | 
+ | [python-nikola](/f43/package/python-nikola) | 8 | 94 | 8.5 | Central Atlas Tamazight (http://www.transifex.com/ralsina/nikola/language/tzm/) | 
+ | [sugar-view-slides](/f43/package/sugar-view-slides) | 5 | 60 | 8.3 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f43/package/mate-menu) | 15 | 308 | 4.9 | Central Atlas Tamazight (http://www.transifex.com/mate/MATE/language/tzm/) | 
+ | [mate-user-admin](/f43/package/mate-user-admin) | 28 | 605 | 4.6 | Central Atlas Tamazight (https://www.transifex.com/mate/teams/13566/tzm/) | 
+ | [sugar-browse](/f43/package/sugar-browse) | 14 | 334 | 4.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f43/package/sugar-physics) | 2 | 48 | 4.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f43/package/sugar-record) | 2 | 62 | 3.2 | LANGUAGE <LL@li.org> | 
+ | [cpu-x](/f43/package/cpu-x) | 43 | 1711 | 2.5 | Central Atlas Tamazight <https://hosted.weblate.org/projects/cpu-x/translations/tzm/> | 
+ | [sugar-toolkit-gtk3](/f43/package/sugar-toolkit-gtk3) | 5 | 213 | 2.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-flipsticks](/f43/package/sugar-flipsticks) | 3 | 151 | 2.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f43/package/sugar-pippy) | 5 | 274 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f43/package/sugar-memorize) | 2 | 142 | 1.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f43/package/sugar-speak) | 3 | 227 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f43/package/sugar-implode) | 1 | 77 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f43/package/sugar-dimensions) | 1 | 161 | 0.6 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f43/package/sugar) | 11 | 2305 | 0.5 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f43/package/iso-codes) | 9 | 2523 | 0.4 | Tamazight (Central Atlas) <https://hosted.weblate.org/projects/iso-codes/iso-15924/tzm/> | 
+ | [sugar-clock](/f43/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f43/package/sugar-finance) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

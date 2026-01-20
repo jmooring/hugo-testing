@@ -18,15 +18,15 @@ The package rhash (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 447 | 447 | 100.0 | /mnt/stockage/packages/f31/rhash/po/ru.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 419 | 447 | 93.7 | /mnt/stockage/packages/f31/rhash/po/en_AU.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 402 | 447 | 89.9 | /mnt/stockage/packages/f31/rhash/po/it.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 383 | 447 | 85.7 | /mnt/stockage/packages/f31/rhash/po/es.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 243 | 447 | 54.4 | /mnt/stockage/packages/f31/rhash/po/de.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 240 | 447 | 53.7 | /mnt/stockage/packages/f31/rhash/po/gl.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 224 | 447 | 50.1 | /mnt/stockage/packages/f31/rhash/po/ca.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 217 | 447 | 48.5 | /mnt/stockage/packages/f31/rhash/po/ro.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 144 | 447 | 32.2 | /mnt/stockage/packages/f31/rhash/po/fr.po | 
+ | [ru](/f31/language/ru) | 447 | 447 | 100.0 | /mnt/stockage/packages/f31/rhash/po/ru.po | 
+ | [en](/f31/language/en) | 419 | 447 | 93.7 | /mnt/stockage/packages/f31/rhash/po/en_AU.po | 
+ | [it](/f31/language/it) | 402 | 447 | 89.9 | /mnt/stockage/packages/f31/rhash/po/it.po | 
+ | [es](/f31/language/es) | 383 | 447 | 85.7 | /mnt/stockage/packages/f31/rhash/po/es.po | 
+ | [de](/f31/language/de) | 243 | 447 | 54.4 | /mnt/stockage/packages/f31/rhash/po/de.po | 
+ | [gl](/f31/language/gl) | 240 | 447 | 53.7 | /mnt/stockage/packages/f31/rhash/po/gl.po | 
+ | [ca](/f31/language/ca) | 224 | 447 | 50.1 | /mnt/stockage/packages/f31/rhash/po/ca.po | 
+ | [ro](/f31/language/ro) | 217 | 447 | 48.5 | /mnt/stockage/packages/f31/rhash/po/ro.po | 
+ | [fr](/f31/language/fr) | 144 | 447 | 32.2 | /mnt/stockage/packages/f31/rhash/po/fr.po | 
 {.sortable}
 
 

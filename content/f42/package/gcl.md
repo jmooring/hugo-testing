@@ -18,21 +18,21 @@ The package gcl (version 2.6.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/gl.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/ja.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/nl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/sv.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/vi.po | 
+ | [cs](/f42/language/cs) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/cs.po | 
+ | [da](/f42/language/da) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/da.po | 
+ | [de](/f42/language/de) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/de.po | 
+ | [es](/f42/language/es) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/es.po | 
+ | [fi](/f42/language/fi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/fi.po | 
+ | [fr](/f42/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/fr.po | 
+ | [gl](/f42/language/gl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/gl.po | 
+ | [it](/f42/language/it) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/it.po | 
+ | [ja](/f42/language/ja) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/ja.po | 
+ | [nl](/f42/language/nl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/nl.po | 
+ | [pt](/f42/language/pt) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/ru.po | 
+ | [sv](/f42/language/sv) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/sv.po | 
+ | [vi](/f42/language/vi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f42/gcl/debian/po/vi.po | 
 {.sortable}
 
 

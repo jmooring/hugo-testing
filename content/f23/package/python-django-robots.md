@@ -18,12 +18,12 @@ The package python-django-robots (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/de/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/da/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/fr/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/ru/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 0 | 212 | 0.0 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/en/LC_MESSAGES/django.po | 
+ | [de](/f23/language/de) | 212 | 212 | 100.0 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/de/LC_MESSAGES/django.po | 
+ | [da](/f23/language/da) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/da/LC_MESSAGES/django.po | 
+ | [fr](/f23/language/fr) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/fr/LC_MESSAGES/django.po | 
+ | [pt_BR](/f23/language/pt_BR) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f23/language/ru) | 211 | 212 | 99.5 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/ru/LC_MESSAGES/django.po | 
+ | [en](/f23/language/en) | 0 | 212 | 0.0 | /mnt/stockage/packages/f23/python-django-robots/robots/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

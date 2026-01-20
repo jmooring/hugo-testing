@@ -18,60 +18,60 @@ The package xfce4-cpugraph-plugin (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ast.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/bg.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/fr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ja.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pt.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sk.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sr.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/tr.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/zh_TW.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 172 | 181 | 95.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sq.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/da.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/eu.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/he.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/id.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ko.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pt_BR.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/th.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/zh_CN.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 153 | 181 | 84.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/uk.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 150 | 181 | 82.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/be.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 120 | 181 | 66.3 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ms.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/lv.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pa.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ro.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f35/language/ur_PK.md" >}}) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ur_PK.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 44 | 79 | 55.7 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/vi.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 94 | 181 | 51.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ca.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 82 | 181 | 45.3 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ru.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 80 | 181 | 44.2 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/et.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 78 | 181 | 43.1 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/el.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 78 | 181 | 43.1 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hr.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/fi.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hu.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 150 | 362 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hye.po/mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hy_AM.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ie.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/kk.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ar.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/en_GB.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/is.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/oc.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 73 | 181 | 40.3 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ug.po | 
+ | [ast](/f35/language/ast) | 76 | 76 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ast.po | 
+ | [bg](/f35/language/bg) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/bg.po | 
+ | [de](/f35/language/de) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/de.po | 
+ | [es](/f35/language/es) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/es.po | 
+ | [fr](/f35/language/fr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/fr.po | 
+ | [it](/f35/language/it) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/it.po | 
+ | [ja](/f35/language/ja) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ja.po | 
+ | [lt](/f35/language/lt) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/lt.po | 
+ | [nb_NO](/f35/language/nb_NO) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/nb.po | 
+ | [nl](/f35/language/nl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/nl.po | 
+ | [pl](/f35/language/pl) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pl.po | 
+ | [pt](/f35/language/pt) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pt.po | 
+ | [sk](/f35/language/sk) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sk.po | 
+ | [sr](/f35/language/sr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sr.po | 
+ | [tr](/f35/language/tr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/tr.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 181 | 181 | 100.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/zh_TW.po | 
+ | [sq](/f35/language/sq) | 172 | 181 | 95.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sq.po | 
+ | [cs](/f35/language/cs) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/cs.po | 
+ | [da](/f35/language/da) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/da.po | 
+ | [eu](/f35/language/eu) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/eu.po | 
+ | [gl](/f35/language/gl) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/gl.po | 
+ | [he](/f35/language/he) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/he.po | 
+ | [id](/f35/language/id) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/id.po | 
+ | [ko](/f35/language/ko) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ko.po | 
+ | [pt_BR](/f35/language/pt_BR) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pt_BR.po | 
+ | [sl](/f35/language/sl) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sl.po | 
+ | [sv](/f35/language/sv) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/sv.po | 
+ | [th](/f35/language/th) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/th.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 162 | 181 | 89.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/zh_CN.po | 
+ | [uk](/f35/language/uk) | 153 | 181 | 84.5 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/uk.po | 
+ | [be](/f35/language/be) | 150 | 181 | 82.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/be.po | 
+ | [ms](/f35/language/ms) | 120 | 181 | 66.3 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ms.po | 
+ | [lv](/f35/language/lv) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/lv.po | 
+ | [pa](/f35/language/pa) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/pa.po | 
+ | [ro](/f35/language/ro) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ro.po | 
+ | [ur](/f35/language/ur) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ur.po | 
+ | [ur_PK](/f35/language/ur_PK) | 45 | 79 | 57.0 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ur_PK.po | 
+ | [vi](/f35/language/vi) | 44 | 79 | 55.7 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/vi.po | 
+ | [ca](/f35/language/ca) | 94 | 181 | 51.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ca.po | 
+ | [ru](/f35/language/ru) | 82 | 181 | 45.3 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ru.po | 
+ | [et](/f35/language/et) | 80 | 181 | 44.2 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/et.po | 
+ | [el](/f35/language/el) | 78 | 181 | 43.1 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/el.po | 
+ | [hr](/f35/language/hr) | 78 | 181 | 43.1 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hr.po | 
+ | [fi](/f35/language/fi) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/fi.po | 
+ | [hu](/f35/language/hu) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hu.po | 
+ | [hy](/f35/language/hy) | 150 | 362 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hye.po/mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/hy_AM.po | 
+ | [ie](/f35/language/ie) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ie.po | 
+ | [kk](/f35/language/kk) | 75 | 181 | 41.4 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/kk.po | 
+ | [ar](/f35/language/ar) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ar.po | 
+ | [en_AU](/f35/language/en_AU) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/en_AU.po | 
+ | [en_GB](/f35/language/en_GB) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/en_GB.po | 
+ | [is](/f35/language/is) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/is.po | 
+ | [oc](/f35/language/oc) | 74 | 181 | 40.9 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/oc.po | 
+ | [ug](/f35/language/ug) | 73 | 181 | 40.3 | /mnt/stockage/packages/f35/xfce4-cpugraph-plugin/po/ug.po | 
 {.sortable}
 
 

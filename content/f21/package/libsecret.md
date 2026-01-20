@@ -18,43 +18,43 @@ The package libsecret (version 0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f21/language/an.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/an.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/as.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/be.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ca.po | 
- | [ca@valencia]({{< ref "/f21/language/ca@valencia.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ca@valencia.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/el.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/eo.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/gl.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/he.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ja.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ko.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/lt.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/lv.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ml.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/nb.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/nl.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pa.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/sr.po/mnt/stockage/packages/f21/libsecret/po/sr@latin.po | 
- | [tg]({{< ref "/f21/language/tg.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/tg.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/zh_HK.po/mnt/stockage/packages/f21/libsecret/po/zh_TW.po | 
- | [fur]({{< ref "/f21/language/fur.md" >}}) | 44 | 59 | 74.6 | /mnt/stockage/packages/f21/libsecret/po/fur.po | 
+ | [an](/f21/language/an) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/an.po | 
+ | [as](/f21/language/as) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/as.po | 
+ | [be](/f21/language/be) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/be.po | 
+ | [ca](/f21/language/ca) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ca.po | 
+ | [ca@valencia](/f21/language/ca@valencia) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ca@valencia.po | 
+ | [cs](/f21/language/cs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/cs.po | 
+ | [da](/f21/language/da) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/da.po | 
+ | [de](/f21/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/de.po | 
+ | [el](/f21/language/el) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/el.po | 
+ | [eo](/f21/language/eo) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/eo.po | 
+ | [es](/f21/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/es.po | 
+ | [fr](/f21/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/fr.po | 
+ | [gl](/f21/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/gl.po | 
+ | [he](/f21/language/he) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/he.po | 
+ | [hu](/f21/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/hu.po | 
+ | [id](/f21/language/id) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/id.po | 
+ | [it](/f21/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/it.po | 
+ | [ja](/f21/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ja.po | 
+ | [ko](/f21/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ko.po | 
+ | [lt](/f21/language/lt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/lt.po | 
+ | [lv](/f21/language/lv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/lv.po | 
+ | [ml](/f21/language/ml) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ml.po | 
+ | [nb_NO](/f21/language/nb_NO) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/nb.po | 
+ | [nl](/f21/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/nl.po | 
+ | [pa](/f21/language/pa) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pa.po | 
+ | [pl](/f21/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pl.po | 
+ | [pt](/f21/language/pt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/ru.po | 
+ | [sk](/f21/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/sk.po | 
+ | [sl](/f21/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/sl.po | 
+ | [sr](/f21/language/sr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/sr.po/mnt/stockage/packages/f21/libsecret/po/sr@latin.po | 
+ | [tg](/f21/language/tg) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/tg.po | 
+ | [uk](/f21/language/uk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 59 | 59 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 118 | 118 | 100.0 | /mnt/stockage/packages/f21/libsecret/po/zh_HK.po/mnt/stockage/packages/f21/libsecret/po/zh_TW.po | 
+ | [fur](/f21/language/fur) | 44 | 59 | 74.6 | /mnt/stockage/packages/f21/libsecret/po/fur.po | 
 {.sortable}
 
 

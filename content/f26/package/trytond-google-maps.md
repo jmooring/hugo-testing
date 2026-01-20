@@ -18,26 +18,26 @@ The package trytond-google-maps (version 4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/bg_BG.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/ca_ES.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/de_DE.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_ES.po | 
- | [es_AR]({{< ref "/f26/language/es_AR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_AR.po | 
- | [es_CO]({{< ref "/f26/language/es_CO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_CO.po | 
- | [es_EC]({{< ref "/f26/language/es_EC.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_EC.po | 
- | [es_MX]({{< ref "/f26/language/es_MX.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_MX.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/fr_FR.po | 
- | [lo]({{< ref "/f26/language/lo.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/lo_LA.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/ru_RU.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/sl_SI.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/zh_CN.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/cs_CZ.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/hu_HU.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/it_IT.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/ja_JP.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/lt_LT.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/nl_NL.po | 
+ | [bg](/f26/language/bg) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/bg_BG.po | 
+ | [ca](/f26/language/ca) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/ca_ES.po | 
+ | [de](/f26/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/de_DE.po | 
+ | [es](/f26/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_ES.po | 
+ | [es_AR](/f26/language/es_AR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_AR.po | 
+ | [es_CO](/f26/language/es_CO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_CO.po | 
+ | [es_EC](/f26/language/es_EC) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_EC.po | 
+ | [es_MX](/f26/language/es_MX) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/es_MX.po | 
+ | [fr](/f26/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/fr_FR.po | 
+ | [lo](/f26/language/lo) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/lo_LA.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/pt_BR.po | 
+ | [ru](/f26/language/ru) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/ru_RU.po | 
+ | [sl](/f26/language/sl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/sl_SI.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 2 | 2 | 100.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/zh_CN.po | 
+ | [cs](/f26/language/cs) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/cs_CZ.po | 
+ | [hu](/f26/language/hu) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/hu_HU.po | 
+ | [it](/f26/language/it) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/it_IT.po | 
+ | [ja](/f26/language/ja) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/ja_JP.po | 
+ | [lt](/f26/language/lt) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/lt_LT.po | 
+ | [nl](/f26/language/nl) | 0 | 2 | 0.0 | /mnt/stockage/packages/f26/trytond-google-maps/locale/nl_NL.po | 
 {.sortable}
 
 

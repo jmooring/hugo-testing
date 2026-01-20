@@ -18,7 +18,7 @@ The package theme-switcher (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f32/theme-switcher/po/ru.po | 
+ | [ru](/f32/language/ru) | 175 | 175 | 100.0 | /mnt/stockage/packages/f32/theme-switcher/po/ru.po | 
 {.sortable}
 
 

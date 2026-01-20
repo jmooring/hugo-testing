@@ -18,13 +18,13 @@ The package rapidsvn (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f7/rapidsvn/src/locale/de/rapidsvn.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f7/rapidsvn/src/locale/fr/rapidsvn.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f7/rapidsvn/src/locale/it_IT/rapidsvn.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/pt_BR/rapidsvn.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/ru/rapidsvn.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/uk/rapidsvn.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/zh_CN/rapidsvn.po | 
+ | [de](/f7/language/de) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f7/rapidsvn/src/locale/de/rapidsvn.po | 
+ | [fr](/f7/language/fr) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f7/rapidsvn/src/locale/fr/rapidsvn.po | 
+ | [it](/f7/language/it) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f7/rapidsvn/src/locale/it_IT/rapidsvn.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/pt_BR/rapidsvn.po | 
+ | [ru](/f7/language/ru) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/ru/rapidsvn.po | 
+ | [uk](/f7/language/uk) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/uk/rapidsvn.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1196 | 1249 | 95.8 | /mnt/stockage/packages/f7/rapidsvn/src/locale/zh_CN/rapidsvn.po | 
 {.sortable}
 
 

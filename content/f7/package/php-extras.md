@@ -18,7 +18,7 @@ The package php-extras (version 5.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f7/php-extras/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
+ | [fi](/f7/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f7/php-extras/ext/gettext/tests/locale/fi/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

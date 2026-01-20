@@ -18,33 +18,33 @@ The package python-django-openstack-auth (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ar/LC_MESSAGES/django.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ca/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/en_AU/LC_MESSAGES/django.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/en_GB/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/es_MX/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/fi_FI/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/fr/LC_MESSAGES/django.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/hi/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/it/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ko_KR/LC_MESSAGES/django.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ne/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/nl_NL/LC_MESSAGES/django.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pa_IN/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pl_PL/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pt/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ru/LC_MESSAGES/django.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/sl_SI/LC_MESSAGES/django.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/sr/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/tr_TR/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [ar](/f25/language/ar) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ar/LC_MESSAGES/django.po | 
+ | [ca](/f25/language/ca) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ca/LC_MESSAGES/django.po | 
+ | [cs](/f25/language/cs) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f25/language/de) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
+ | [en_AU](/f25/language/en_AU) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/en_AU/LC_MESSAGES/django.po | 
+ | [en_GB](/f25/language/en_GB) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/en_GB/LC_MESSAGES/django.po | 
+ | [es](/f25/language/es) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
+ | [es_MX](/f25/language/es_MX) | 75 | 75 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/es_MX/LC_MESSAGES/django.po | 
+ | [fi](/f25/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/fi_FI/LC_MESSAGES/django.po | 
+ | [fr](/f25/language/fr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/fr/LC_MESSAGES/django.po | 
+ | [hi](/f25/language/hi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/hi/LC_MESSAGES/django.po | 
+ | [it](/f25/language/it) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/it/LC_MESSAGES/django.po | 
+ | [ja](/f25/language/ja) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
+ | [ko](/f25/language/ko) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ko_KR/LC_MESSAGES/django.po | 
+ | [ne](/f25/language/ne) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ne/LC_MESSAGES/django.po | 
+ | [nl](/f25/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/nl_NL/LC_MESSAGES/django.po | 
+ | [pa](/f25/language/pa) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pa_IN/LC_MESSAGES/django.po | 
+ | [pl](/f25/language/pl) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pl_PL/LC_MESSAGES/django.po | 
+ | [pt](/f25/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pt/LC_MESSAGES/django.po | 
+ | [pt_BR](/f25/language/pt_BR) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f25/language/ru) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/ru/LC_MESSAGES/django.po | 
+ | [sl](/f25/language/sl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/sl_SI/LC_MESSAGES/django.po | 
+ | [sr](/f25/language/sr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/sr/LC_MESSAGES/django.po | 
+ | [tr](/f25/language/tr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/tr_TR/LC_MESSAGES/django.po | 
+ | [uk](/f25/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
 {.sortable}
 
 

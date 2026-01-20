@@ -18,41 +18,41 @@ The package gajim (version 0.15.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/da.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/en_GB.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/fr.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/kk.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/pt_BR.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/uk.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 11622 | 11642 | 99.8 | /mnt/stockage/packages/f17/gajim/po/ja.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 11550 | 11642 | 99.2 | /mnt/stockage/packages/f17/gajim/po/es.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 11215 | 11642 | 96.3 | /mnt/stockage/packages/f17/gajim/po/ru.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 11000 | 11642 | 94.5 | /mnt/stockage/packages/f17/gajim/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 10637 | 11642 | 91.4 | /mnt/stockage/packages/f17/gajim/po/zh_CN.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 10627 | 11695 | 90.9 | /mnt/stockage/packages/f17/gajim/po/he.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 10340 | 11642 | 88.8 | /mnt/stockage/packages/f17/gajim/po/de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 9971 | 11642 | 85.6 | /mnt/stockage/packages/f17/gajim/po/pl.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 9611 | 11642 | 82.6 | /mnt/stockage/packages/f17/gajim/po/cs.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 9608 | 11642 | 82.5 | /mnt/stockage/packages/f17/gajim/po/sr@Latn.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 9608 | 11642 | 82.5 | /mnt/stockage/packages/f17/gajim/po/hr.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 19216 | 23284 | 82.5 | /mnt/stockage/packages/f17/gajim/po/nb.po/mnt/stockage/packages/f17/gajim/po/no.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 9608 | 11642 | 82.5 | /mnt/stockage/packages/f17/gajim/po/sr.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 8690 | 11642 | 74.6 | /mnt/stockage/packages/f17/gajim/po/bg.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 8191 | 11642 | 70.4 | /mnt/stockage/packages/f17/gajim/po/sk.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 7483 | 11642 | 64.3 | /mnt/stockage/packages/f17/gajim/po/sv.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 7433 | 11642 | 63.8 | /mnt/stockage/packages/f17/gajim/po/it.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 6336 | 10823 | 58.5 | /mnt/stockage/packages/f17/gajim/po/hu.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 5437 | 11642 | 46.7 | /mnt/stockage/packages/f17/gajim/po/lt.po | 
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 5409 | 11642 | 46.5 | /mnt/stockage/packages/f17/gajim/po/be@latin.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 5408 | 11642 | 46.5 | /mnt/stockage/packages/f17/gajim/po/be.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 5317 | 11642 | 45.7 | /mnt/stockage/packages/f17/gajim/po/eo.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 4774 | 11642 | 41.0 | /mnt/stockage/packages/f17/gajim/po/eu.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 4769 | 11642 | 41.0 | /mnt/stockage/packages/f17/gajim/po/gl.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 3544 | 11642 | 30.4 | /mnt/stockage/packages/f17/gajim/po/el.po | 
- | [br]({{< ref "/f17/language/br.md" >}}) | 2767 | 11642 | 23.8 | /mnt/stockage/packages/f17/gajim/po/br.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 2361 | 10660 | 22.1 | /mnt/stockage/packages/f17/gajim/po/tr.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 2549 | 11642 | 21.9 | /mnt/stockage/packages/f17/gajim/po/pt.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 2544 | 11642 | 21.9 | /mnt/stockage/packages/f17/gajim/po/nl.po | 
+ | [da](/f17/language/da) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/da.po | 
+ | [en](/f17/language/en) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/en_GB.po | 
+ | [fr](/f17/language/fr) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/fr.po | 
+ | [kk](/f17/language/kk) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/kk.po | 
+ | [pt_BR](/f17/language/pt_BR) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/pt_BR.po | 
+ | [uk](/f17/language/uk) | 11642 | 11642 | 100.0 | /mnt/stockage/packages/f17/gajim/po/uk.po | 
+ | [ja](/f17/language/ja) | 11622 | 11642 | 99.8 | /mnt/stockage/packages/f17/gajim/po/ja.po | 
+ | [es](/f17/language/es) | 11550 | 11642 | 99.2 | /mnt/stockage/packages/f17/gajim/po/es.po | 
+ | [ru](/f17/language/ru) | 11215 | 11642 | 96.3 | /mnt/stockage/packages/f17/gajim/po/ru.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 11000 | 11642 | 94.5 | /mnt/stockage/packages/f17/gajim/po/zh_TW.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 10637 | 11642 | 91.4 | /mnt/stockage/packages/f17/gajim/po/zh_CN.po | 
+ | [he](/f17/language/he) | 10627 | 11695 | 90.9 | /mnt/stockage/packages/f17/gajim/po/he.po | 
+ | [de](/f17/language/de) | 10340 | 11642 | 88.8 | /mnt/stockage/packages/f17/gajim/po/de.po | 
+ | [pl](/f17/language/pl) | 9971 | 11642 | 85.6 | /mnt/stockage/packages/f17/gajim/po/pl.po | 
+ | [cs](/f17/language/cs) | 9611 | 11642 | 82.6 | /mnt/stockage/packages/f17/gajim/po/cs.po | 
+ | [error](/f17/language/error) | 9608 | 11642 | 82.5 | /mnt/stockage/packages/f17/gajim/po/sr@Latn.po | 
+ | [hr](/f17/language/hr) | 9608 | 11642 | 82.5 | /mnt/stockage/packages/f17/gajim/po/hr.po | 
+ | [nb_NO](/f17/language/nb_NO) | 19216 | 23284 | 82.5 | /mnt/stockage/packages/f17/gajim/po/nb.po/mnt/stockage/packages/f17/gajim/po/no.po | 
+ | [sr](/f17/language/sr) | 9608 | 11642 | 82.5 | /mnt/stockage/packages/f17/gajim/po/sr.po | 
+ | [bg](/f17/language/bg) | 8690 | 11642 | 74.6 | /mnt/stockage/packages/f17/gajim/po/bg.po | 
+ | [sk](/f17/language/sk) | 8191 | 11642 | 70.4 | /mnt/stockage/packages/f17/gajim/po/sk.po | 
+ | [sv](/f17/language/sv) | 7483 | 11642 | 64.3 | /mnt/stockage/packages/f17/gajim/po/sv.po | 
+ | [it](/f17/language/it) | 7433 | 11642 | 63.8 | /mnt/stockage/packages/f17/gajim/po/it.po | 
+ | [hu](/f17/language/hu) | 6336 | 10823 | 58.5 | /mnt/stockage/packages/f17/gajim/po/hu.po | 
+ | [lt](/f17/language/lt) | 5437 | 11642 | 46.7 | /mnt/stockage/packages/f17/gajim/po/lt.po | 
+ | [be_Latn](/f17/language/be_Latn) | 5409 | 11642 | 46.5 | /mnt/stockage/packages/f17/gajim/po/be@latin.po | 
+ | [be](/f17/language/be) | 5408 | 11642 | 46.5 | /mnt/stockage/packages/f17/gajim/po/be.po | 
+ | [eo](/f17/language/eo) | 5317 | 11642 | 45.7 | /mnt/stockage/packages/f17/gajim/po/eo.po | 
+ | [eu](/f17/language/eu) | 4774 | 11642 | 41.0 | /mnt/stockage/packages/f17/gajim/po/eu.po | 
+ | [gl](/f17/language/gl) | 4769 | 11642 | 41.0 | /mnt/stockage/packages/f17/gajim/po/gl.po | 
+ | [el](/f17/language/el) | 3544 | 11642 | 30.4 | /mnt/stockage/packages/f17/gajim/po/el.po | 
+ | [br](/f17/language/br) | 2767 | 11642 | 23.8 | /mnt/stockage/packages/f17/gajim/po/br.po | 
+ | [tr](/f17/language/tr) | 2361 | 10660 | 22.1 | /mnt/stockage/packages/f17/gajim/po/tr.po | 
+ | [pt](/f17/language/pt) | 2549 | 11642 | 21.9 | /mnt/stockage/packages/f17/gajim/po/pt.po | 
+ | [nl](/f17/language/nl) | 2544 | 11642 | 21.9 | /mnt/stockage/packages/f17/gajim/po/nl.po | 
 {.sortable}
 
 

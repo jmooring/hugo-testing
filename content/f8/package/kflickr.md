@@ -18,10 +18,10 @@ The package kflickr (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/it.po | 
+ | [de](/f8/language/de) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/de.po | 
+ | [es](/f8/language/es) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/es.po | 
+ | [fr](/f8/language/fr) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/fr.po | 
+ | [it](/f8/language/it) | 300 | 300 | 100.0 | /mnt/stockage/packages/f8/kflickr/po/it.po | 
 {.sortable}
 
 

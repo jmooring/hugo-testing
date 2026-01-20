@@ -18,10 +18,10 @@ The package gsequencer (version 3.8.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 581 | 631 | 92.1 | /mnt/stockage/packages/f32/gsequencer/po/pl.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 570 | 631 | 90.3 | /mnt/stockage/packages/f32/gsequencer/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 564 | 631 | 89.4 | /mnt/stockage/packages/f32/gsequencer/po/de.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 0 | 631 | 0.0 | /mnt/stockage/packages/f32/gsequencer/po/it.po | 
+ | [pl](/f32/language/pl) | 581 | 631 | 92.1 | /mnt/stockage/packages/f32/gsequencer/po/pl.po | 
+ | [fr](/f32/language/fr) | 570 | 631 | 90.3 | /mnt/stockage/packages/f32/gsequencer/po/fr.po | 
+ | [de](/f32/language/de) | 564 | 631 | 89.4 | /mnt/stockage/packages/f32/gsequencer/po/de.po | 
+ | [it](/f32/language/it) | 0 | 631 | 0.0 | /mnt/stockage/packages/f32/gsequencer/po/it.po | 
 {.sortable}
 
 

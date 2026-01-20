@@ -18,30 +18,30 @@ The package sugar-xoeditor (version 13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f32/language/ayc.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/ayc.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/da.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/en.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/en_GB.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/en_US.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pbs.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/fr.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/it.po | 
- | [nah]({{< ref "/f32/language/nah.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/nah.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/nl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pt.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/zh_CN.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 23 | 29 | 79.3 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pl.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 13 | 29 | 44.8 | /mnt/stockage/packages/f32/sugar-xoeditor/po/de.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 13 | 29 | 44.8 | /mnt/stockage/packages/f32/sugar-xoeditor/po/th.po | 
- | [pap]({{< ref "/f32/language/pap.md" >}}) | 1 | 29 | 3.4 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pap.po | 
- | [qu]({{< ref "/f32/language/qu.md" >}}) | 1 | 29 | 3.4 | /mnt/stockage/packages/f32/sugar-xoeditor/po/quz.po | 
- | [prs]({{< ref "/f32/language/prs.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/fa_AF.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/rw.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/sl.po | 
+ | [ayc](/f32/language/ayc) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/ayc.po | 
+ | [da](/f32/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/da.po | 
+ | [en](/f32/language/en) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/en.po | 
+ | [en_GB](/f32/language/en_GB) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/en_GB.po | 
+ | [en_US](/f32/language/en_US) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/en_US.po | 
+ | [error](/f32/language/error) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pbs.po | 
+ | [es](/f32/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/es.po | 
+ | [fr](/f32/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/fr.po | 
+ | [hy](/f32/language/hy) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/hy.po | 
+ | [id](/f32/language/id) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/id.po | 
+ | [it](/f32/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/it.po | 
+ | [nah](/f32/language/nah) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/nah.po | 
+ | [ne](/f32/language/ne) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/ne.po | 
+ | [nl](/f32/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/nl.po | 
+ | [pt](/f32/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pt.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/zh_CN.po | 
+ | [pl](/f32/language/pl) | 23 | 29 | 79.3 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pl.po | 
+ | [de](/f32/language/de) | 13 | 29 | 44.8 | /mnt/stockage/packages/f32/sugar-xoeditor/po/de.po | 
+ | [th](/f32/language/th) | 13 | 29 | 44.8 | /mnt/stockage/packages/f32/sugar-xoeditor/po/th.po | 
+ | [pap](/f32/language/pap) | 1 | 29 | 3.4 | /mnt/stockage/packages/f32/sugar-xoeditor/po/pap.po | 
+ | [qu](/f32/language/qu) | 1 | 29 | 3.4 | /mnt/stockage/packages/f32/sugar-xoeditor/po/quz.po | 
+ | [prs](/f32/language/prs) | 0 | 29 | 0.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/fa_AF.po | 
+ | [rw](/f32/language/rw) | 0 | 29 | 0.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/rw.po | 
+ | [sl](/f32/language/sl) | 0 | 29 | 0.0 | /mnt/stockage/packages/f32/sugar-xoeditor/po/sl.po | 
 {.sortable}
 
 

@@ -18,64 +18,64 @@ The package plank (version 0.11.89):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/bg.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ca.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/de.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/es.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/et.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/eu.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/fr.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ga.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/he.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/hu.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/it.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/lt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/pl.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ru.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/sr.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/sr@latin.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/zh_CN.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 188 | 189 | 99.5 | /mnt/stockage/packages/f43/plank/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 188 | 189 | 99.5 | /mnt/stockage/packages/f43/plank/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 181 | 189 | 95.8 | /mnt/stockage/packages/f43/plank/po/zh_TW.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 179 | 189 | 94.7 | /mnt/stockage/packages/f43/plank/po/el.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 179 | 189 | 94.7 | /mnt/stockage/packages/f43/plank/po/lv.po | 
- | [gd]({{< ref "/f43/language/gd.md" >}}) | 173 | 189 | 91.5 | /mnt/stockage/packages/f43/plank/po/gd.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 171 | 189 | 90.5 | /mnt/stockage/packages/f43/plank/po/th.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 170 | 189 | 89.9 | /mnt/stockage/packages/f43/plank/po/sk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 163 | 189 | 86.2 | /mnt/stockage/packages/f43/plank/po/uz.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 160 | 189 | 84.7 | /mnt/stockage/packages/f43/plank/po/te.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 137 | 189 | 72.5 | /mnt/stockage/packages/f43/plank/po/ja.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 135 | 189 | 71.4 | /mnt/stockage/packages/f43/plank/po/id.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 116 | 189 | 61.4 | /mnt/stockage/packages/f43/plank/po/vi.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 108 | 189 | 57.1 | /mnt/stockage/packages/f43/plank/po/cs.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 105 | 189 | 55.6 | /mnt/stockage/packages/f43/plank/po/ar.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 100 | 189 | 52.9 | /mnt/stockage/packages/f43/plank/po/ml.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 85 | 189 | 45.0 | /mnt/stockage/packages/f43/plank/po/ms.po | 
- | [am]({{< ref "/f43/language/am.md" >}}) | 76 | 189 | 40.2 | /mnt/stockage/packages/f43/plank/po/am.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 65 | 189 | 34.4 | /mnt/stockage/packages/f43/plank/po/ka.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 56 | 189 | 29.6 | /mnt/stockage/packages/f43/plank/po/sl.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 55 | 189 | 29.1 | /mnt/stockage/packages/f43/plank/po/sq.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 52 | 189 | 27.5 | /mnt/stockage/packages/f43/plank/po/nn.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 48 | 189 | 25.4 | /mnt/stockage/packages/f43/plank/po/hr.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 46 | 189 | 24.3 | /mnt/stockage/packages/f43/plank/po/ne.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 39 | 189 | 20.6 | /mnt/stockage/packages/f43/plank/po/eo.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 34 | 189 | 18.0 | /mnt/stockage/packages/f43/plank/po/ro.po | 
- | [en_AU]({{< ref "/f43/language/en_AU.md" >}}) | 33 | 189 | 17.5 | /mnt/stockage/packages/f43/plank/po/en_AU.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 32 | 189 | 16.9 | /mnt/stockage/packages/f43/plank/po/ta.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 24 | 189 | 12.7 | /mnt/stockage/packages/f43/plank/po/bs.po | 
- | [en_CA]({{< ref "/f43/language/en_CA.md" >}}) | 23 | 189 | 12.2 | /mnt/stockage/packages/f43/plank/po/en_CA.po | 
- | [sma]({{< ref "/f43/language/sma.md" >}}) | 22 | 189 | 11.6 | /mnt/stockage/packages/f43/plank/po/sma.po | 
+ | [bg](/f43/language/bg) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/bg.po | 
+ | [ca](/f43/language/ca) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ca.po | 
+ | [da](/f43/language/da) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/da.po | 
+ | [de](/f43/language/de) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/de.po | 
+ | [en_GB](/f43/language/en_GB) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/en_GB.po | 
+ | [es](/f43/language/es) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/es.po | 
+ | [et](/f43/language/et) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/et.po | 
+ | [eu](/f43/language/eu) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/eu.po | 
+ | [fi](/f43/language/fi) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/fi.po | 
+ | [fr](/f43/language/fr) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/fr.po | 
+ | [ga](/f43/language/ga) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ga.po | 
+ | [gl](/f43/language/gl) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/gl.po | 
+ | [he](/f43/language/he) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/he.po | 
+ | [hu](/f43/language/hu) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/hu.po | 
+ | [it](/f43/language/it) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/it.po | 
+ | [ko](/f43/language/ko) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ko.po | 
+ | [lt](/f43/language/lt) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/lt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/nb.po | 
+ | [nl](/f43/language/nl) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/nl.po | 
+ | [pl](/f43/language/pl) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/pl.po | 
+ | [ru](/f43/language/ru) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/ru.po | 
+ | [sr](/f43/language/sr) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/sr.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/sr@latin.po | 
+ | [sv](/f43/language/sv) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/sv.po | 
+ | [tr](/f43/language/tr) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/tr.po | 
+ | [uk](/f43/language/uk) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 189 | 189 | 100.0 | /mnt/stockage/packages/f43/plank/po/zh_CN.po | 
+ | [pt](/f43/language/pt) | 188 | 189 | 99.5 | /mnt/stockage/packages/f43/plank/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 188 | 189 | 99.5 | /mnt/stockage/packages/f43/plank/po/pt_BR.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 181 | 189 | 95.8 | /mnt/stockage/packages/f43/plank/po/zh_TW.po | 
+ | [el](/f43/language/el) | 179 | 189 | 94.7 | /mnt/stockage/packages/f43/plank/po/el.po | 
+ | [lv](/f43/language/lv) | 179 | 189 | 94.7 | /mnt/stockage/packages/f43/plank/po/lv.po | 
+ | [gd](/f43/language/gd) | 173 | 189 | 91.5 | /mnt/stockage/packages/f43/plank/po/gd.po | 
+ | [th](/f43/language/th) | 171 | 189 | 90.5 | /mnt/stockage/packages/f43/plank/po/th.po | 
+ | [sk](/f43/language/sk) | 170 | 189 | 89.9 | /mnt/stockage/packages/f43/plank/po/sk.po | 
+ | [uz](/f43/language/uz) | 163 | 189 | 86.2 | /mnt/stockage/packages/f43/plank/po/uz.po | 
+ | [te](/f43/language/te) | 160 | 189 | 84.7 | /mnt/stockage/packages/f43/plank/po/te.po | 
+ | [ja](/f43/language/ja) | 137 | 189 | 72.5 | /mnt/stockage/packages/f43/plank/po/ja.po | 
+ | [id](/f43/language/id) | 135 | 189 | 71.4 | /mnt/stockage/packages/f43/plank/po/id.po | 
+ | [vi](/f43/language/vi) | 116 | 189 | 61.4 | /mnt/stockage/packages/f43/plank/po/vi.po | 
+ | [cs](/f43/language/cs) | 108 | 189 | 57.1 | /mnt/stockage/packages/f43/plank/po/cs.po | 
+ | [ar](/f43/language/ar) | 105 | 189 | 55.6 | /mnt/stockage/packages/f43/plank/po/ar.po | 
+ | [ml](/f43/language/ml) | 100 | 189 | 52.9 | /mnt/stockage/packages/f43/plank/po/ml.po | 
+ | [ms](/f43/language/ms) | 85 | 189 | 45.0 | /mnt/stockage/packages/f43/plank/po/ms.po | 
+ | [am](/f43/language/am) | 76 | 189 | 40.2 | /mnt/stockage/packages/f43/plank/po/am.po | 
+ | [ka](/f43/language/ka) | 65 | 189 | 34.4 | /mnt/stockage/packages/f43/plank/po/ka.po | 
+ | [sl](/f43/language/sl) | 56 | 189 | 29.6 | /mnt/stockage/packages/f43/plank/po/sl.po | 
+ | [sq](/f43/language/sq) | 55 | 189 | 29.1 | /mnt/stockage/packages/f43/plank/po/sq.po | 
+ | [nn](/f43/language/nn) | 52 | 189 | 27.5 | /mnt/stockage/packages/f43/plank/po/nn.po | 
+ | [hr](/f43/language/hr) | 48 | 189 | 25.4 | /mnt/stockage/packages/f43/plank/po/hr.po | 
+ | [ne](/f43/language/ne) | 46 | 189 | 24.3 | /mnt/stockage/packages/f43/plank/po/ne.po | 
+ | [eo](/f43/language/eo) | 39 | 189 | 20.6 | /mnt/stockage/packages/f43/plank/po/eo.po | 
+ | [ro](/f43/language/ro) | 34 | 189 | 18.0 | /mnt/stockage/packages/f43/plank/po/ro.po | 
+ | [en_AU](/f43/language/en_AU) | 33 | 189 | 17.5 | /mnt/stockage/packages/f43/plank/po/en_AU.po | 
+ | [ta](/f43/language/ta) | 32 | 189 | 16.9 | /mnt/stockage/packages/f43/plank/po/ta.po | 
+ | [bs](/f43/language/bs) | 24 | 189 | 12.7 | /mnt/stockage/packages/f43/plank/po/bs.po | 
+ | [en_CA](/f43/language/en_CA) | 23 | 189 | 12.2 | /mnt/stockage/packages/f43/plank/po/en_CA.po | 
+ | [sma](/f43/language/sma) | 22 | 189 | 11.6 | /mnt/stockage/packages/f43/plank/po/sma.po | 
 {.sortable}
 
 

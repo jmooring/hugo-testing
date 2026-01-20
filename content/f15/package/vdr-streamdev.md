@@ -18,13 +18,13 @@ The package vdr-streamdev (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/de_DE.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/de_DE.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/fi_FI.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/fi_FI.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/it_IT.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/it_IT.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/lt_LT.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/lt_LT.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/sk_SK.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/sk_SK.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 69 | 84 | 82.1 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/fr_FR.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/fr_FR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 69 | 84 | 82.1 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/ru_RU.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/ru_RU.po | 
+ | [de](/f15/language/de) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/de_DE.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/de_DE.po | 
+ | [fi](/f15/language/fi) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/fi_FI.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/fi_FI.po | 
+ | [it](/f15/language/it) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/it_IT.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/it_IT.po | 
+ | [lt](/f15/language/lt) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/lt_LT.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/lt_LT.po | 
+ | [sk](/f15/language/sk) | 84 | 84 | 100.0 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/sk_SK.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/sk_SK.po | 
+ | [fr](/f15/language/fr) | 69 | 84 | 82.1 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/fr_FR.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/fr_FR.po | 
+ | [ru](/f15/language/ru) | 69 | 84 | 82.1 | /mnt/stockage/packages/f15/vdr-streamdev/client/po/ru_RU.po/mnt/stockage/packages/f15/vdr-streamdev/server/po/ru_RU.po | 
 {.sortable}
 
 

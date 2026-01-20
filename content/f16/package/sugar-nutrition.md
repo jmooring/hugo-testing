@@ -18,15 +18,15 @@ The package sugar-nutrition (version 6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/da.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/en.po | 
- | [en_US]({{< ref "/f16/language/en_US.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/en_US.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/es.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/pl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/zh_CN.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 183 | 185 | 98.9 | /mnt/stockage/packages/f16/sugar-nutrition/po/en_GB.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 133 | 185 | 71.9 | /mnt/stockage/packages/f16/sugar-nutrition/po/hy.po | 
+ | [da](/f16/language/da) | 183 | 183 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/da.po | 
+ | [en](/f16/language/en) | 185 | 185 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/en.po | 
+ | [en_US](/f16/language/en_US) | 185 | 185 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/en_US.po | 
+ | [es](/f16/language/es) | 183 | 183 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/es.po | 
+ | [nl](/f16/language/nl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/nl.po | 
+ | [pl](/f16/language/pl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/pl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 130 | 130 | 100.0 | /mnt/stockage/packages/f16/sugar-nutrition/po/zh_CN.po | 
+ | [en_GB](/f16/language/en_GB) | 183 | 185 | 98.9 | /mnt/stockage/packages/f16/sugar-nutrition/po/en_GB.po | 
+ | [hy](/f16/language/hy) | 133 | 185 | 71.9 | /mnt/stockage/packages/f16/sugar-nutrition/po/hy.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package libmatekbd (version 1.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f43/language/el.md" >}}) | 257 | 308 | 83.4 | /mnt/stockage/packages/f43/libmatekbd/po/el.po | 
- | [jv]({{< ref "/f43/language/jv.md" >}}) | 2 | 308 | 0.6 | /mnt/stockage/packages/f43/libmatekbd/po/jv.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/bn_IN.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/ca.po | 
- | [csb]({{< ref "/f43/language/csb.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/csb.po | 
- | [es_CL]({{< ref "/f43/language/es_CL.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/es_CL.po | 
- | [es_EC]({{< ref "/f43/language/es_EC.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/es_EC.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/hr.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/hy.po | 
- | [ky]({{< ref "/f43/language/ky.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/ky.po | 
- | [pms]({{< ref "/f43/language/pms.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/pms.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/rw.po | 
+ | [el](/f43/language/el) | 257 | 308 | 83.4 | /mnt/stockage/packages/f43/libmatekbd/po/el.po | 
+ | [jv](/f43/language/jv) | 2 | 308 | 0.6 | /mnt/stockage/packages/f43/libmatekbd/po/jv.po | 
+ | [bn_IN](/f43/language/bn_IN) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/bn_IN.po | 
+ | [ca](/f43/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/ca.po | 
+ | [csb](/f43/language/csb) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/csb.po | 
+ | [es_CL](/f43/language/es_CL) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/es_CL.po | 
+ | [es_EC](/f43/language/es_EC) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/es_EC.po | 
+ | [hr](/f43/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/hr.po | 
+ | [hy](/f43/language/hy) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/hy.po | 
+ | [ky](/f43/language/ky) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/ky.po | 
+ | [pms](/f43/language/pms) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/pms.po | 
+ | [rw](/f43/language/rw) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/libmatekbd/po/rw.po | 
 {.sortable}
 
 

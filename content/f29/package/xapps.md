@@ -18,39 +18,39 @@ The package xapps (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/bg.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/de.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/es.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/fr.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/hu.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ia.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/it.po | 
- | [kab]({{< ref "/f29/language/kab.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/kab.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/nl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ru.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/zh_CN.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 38 | 42 | 90.5 | /mnt/stockage/packages/f29/xapps/po/sk.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f29/xapps/po/pl.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 29 | 42 | 69.0 | /mnt/stockage/packages/f29/xapps/po/am.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/xapps/po/eo.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f29/xapps/po/cy.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f29/xapps/po/id.po | 
+ | [bg](/f29/language/bg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/bg.po | 
+ | [ca](/f29/language/ca) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ca.po | 
+ | [cs](/f29/language/cs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/cs.po | 
+ | [da](/f29/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/da.po | 
+ | [de](/f29/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/de.po | 
+ | [en_GB](/f29/language/en_GB) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/en_GB.po | 
+ | [es](/f29/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/es.po | 
+ | [eu](/f29/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/eu.po | 
+ | [fi](/f29/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/fi.po | 
+ | [fr](/f29/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/fr.po | 
+ | [hr](/f29/language/hr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/hr.po | 
+ | [hu](/f29/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/hu.po | 
+ | [ia](/f29/language/ia) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ia.po | 
+ | [is](/f29/language/is) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/is.po | 
+ | [it](/f29/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/it.po | 
+ | [kab](/f29/language/kab) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/kab.po | 
+ | [ko](/f29/language/ko) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ko.po | 
+ | [lt](/f29/language/lt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/lt.po | 
+ | [nl](/f29/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/nl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ro.po | 
+ | [ru](/f29/language/ru) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/ru.po | 
+ | [sr](/f29/language/sr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/sr.po | 
+ | [sv](/f29/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/sv.po | 
+ | [tr](/f29/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/tr.po | 
+ | [uk](/f29/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 42 | 42 | 100.0 | /mnt/stockage/packages/f29/xapps/po/zh_CN.po | 
+ | [sk](/f29/language/sk) | 38 | 42 | 90.5 | /mnt/stockage/packages/f29/xapps/po/sk.po | 
+ | [pl](/f29/language/pl) | 33 | 42 | 78.6 | /mnt/stockage/packages/f29/xapps/po/pl.po | 
+ | [am](/f29/language/am) | 29 | 42 | 69.0 | /mnt/stockage/packages/f29/xapps/po/am.po | 
+ | [eo](/f29/language/eo) | 2 | 42 | 4.8 | /mnt/stockage/packages/f29/xapps/po/eo.po | 
+ | [cy](/f29/language/cy) | 0 | 42 | 0.0 | /mnt/stockage/packages/f29/xapps/po/cy.po | 
+ | [id](/f29/language/id) | 0 | 42 | 0.0 | /mnt/stockage/packages/f29/xapps/po/id.po | 
 {.sortable}
 
 

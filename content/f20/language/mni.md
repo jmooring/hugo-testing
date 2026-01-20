@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f20/package/gnucash.md" >}}) | 29653 | 29653 | 100.0 | Maniuri (MM) <gistlrc@gmail.com> | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 50520 | 97444 | 51.8 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f20/package/iok.md" >}}) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
+ | [gnucash](/f20/package/gnucash) | 29653 | 29653 | 100.0 | Maniuri (MM) <gistlrc@gmail.com> | 
+ | [libreoffice](/f20/package/libreoffice) | 50520 | 97444 | 51.8 | LANGUAGE <LL@li.org> | 
+ | [iok](/f20/package/iok) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
 {.sortable}
 
 

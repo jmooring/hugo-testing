@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 548 | 761 | 72.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 548 | 761 | 72.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

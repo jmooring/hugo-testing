@@ -18,17 +18,17 @@ The package kst (version 2.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_ca.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_en_GB.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_pt_BR.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_uk.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 6928 | 7288 | 95.1 | /mnt/stockage/packages/f43/kst/po/kst_common_de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 6544 | 7288 | 89.8 | /mnt/stockage/packages/f43/kst/po/kst_common_fr.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 6048 | 7288 | 83.0 | /mnt/stockage/packages/f43/kst/po/kst_common_ca@valencia.po | 
+ | [ca](/f43/language/ca) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_ca.po | 
+ | [en_GB](/f43/language/en_GB) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_en_GB.po | 
+ | [nl](/f43/language/nl) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_nl.po | 
+ | [pl](/f43/language/pl) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_pl.po | 
+ | [pt](/f43/language/pt) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_pt_BR.po | 
+ | [sv](/f43/language/sv) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_sv.po | 
+ | [uk](/f43/language/uk) | 7288 | 7288 | 100.0 | /mnt/stockage/packages/f43/kst/po/kst_common_uk.po | 
+ | [de](/f43/language/de) | 6928 | 7288 | 95.1 | /mnt/stockage/packages/f43/kst/po/kst_common_de.po | 
+ | [fr](/f43/language/fr) | 6544 | 7288 | 89.8 | /mnt/stockage/packages/f43/kst/po/kst_common_fr.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 6048 | 7288 | 83.0 | /mnt/stockage/packages/f43/kst/po/kst_common_ca@valencia.po | 
 {.sortable}
 
 

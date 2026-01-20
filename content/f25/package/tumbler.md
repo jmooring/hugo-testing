@@ -18,56 +18,56 @@ The package tumbler (version 0.1.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ar.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/bg.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/de.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/en_AU.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/fr.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/he.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ja.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/kk.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ko.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ms.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/nb.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/nl.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/oc.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/sk.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/sv.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/zh_HK.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 271 | 278 | 97.5 | /mnt/stockage/packages/f25/tumbler/po/eu.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 259 | 278 | 93.2 | /mnt/stockage/packages/f25/tumbler/po/ca.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 248 | 278 | 89.2 | /mnt/stockage/packages/f25/tumbler/po/gl.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 242 | 278 | 87.1 | /mnt/stockage/packages/f25/tumbler/po/el.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 230 | 278 | 82.7 | /mnt/stockage/packages/f25/tumbler/po/fi.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 230 | 278 | 82.7 | /mnt/stockage/packages/f25/tumbler/po/lt.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 230 | 278 | 82.7 | /mnt/stockage/packages/f25/tumbler/po/nn.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 206 | 278 | 74.1 | /mnt/stockage/packages/f25/tumbler/po/bn.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 192 | 278 | 69.1 | /mnt/stockage/packages/f25/tumbler/po/ast.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 203 | 312 | 65.1 | /mnt/stockage/packages/f25/tumbler/po/te.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 126 | 278 | 45.3 | /mnt/stockage/packages/f25/tumbler/po/lv.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 55 | 293 | 18.8 | /mnt/stockage/packages/f25/tumbler/po/pa.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 64 | 343 | 18.7 | /mnt/stockage/packages/f25/tumbler/po/is.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 1 | 293 | 0.3 | /mnt/stockage/packages/f25/tumbler/po/si.po | 
+ | [ar](/f25/language/ar) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ar.po | 
+ | [bg](/f25/language/bg) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/bg.po | 
+ | [cs](/f25/language/cs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/cs.po | 
+ | [da](/f25/language/da) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/da.po | 
+ | [de](/f25/language/de) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/de.po | 
+ | [en_AU](/f25/language/en_AU) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/en_AU.po | 
+ | [en_GB](/f25/language/en_GB) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/en_GB.po | 
+ | [es](/f25/language/es) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/es.po | 
+ | [fr](/f25/language/fr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/fr.po | 
+ | [he](/f25/language/he) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/he.po | 
+ | [hr](/f25/language/hr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/hr.po | 
+ | [hu](/f25/language/hu) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/hu.po | 
+ | [id](/f25/language/id) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/id.po | 
+ | [it](/f25/language/it) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/it.po | 
+ | [ja](/f25/language/ja) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ja.po | 
+ | [kk](/f25/language/kk) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/kk.po | 
+ | [ko](/f25/language/ko) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ko.po | 
+ | [ms](/f25/language/ms) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ms.po | 
+ | [nb_NO](/f25/language/nb_NO) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/nb.po | 
+ | [nl](/f25/language/nl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/nl.po | 
+ | [oc](/f25/language/oc) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/oc.po | 
+ | [pl](/f25/language/pl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/pl.po | 
+ | [pt](/f25/language/pt) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ro.po | 
+ | [ru](/f25/language/ru) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ru.po | 
+ | [sk](/f25/language/sk) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/sk.po | 
+ | [sr](/f25/language/sr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/sr.po | 
+ | [sv](/f25/language/sv) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/sv.po | 
+ | [th](/f25/language/th) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/th.po | 
+ | [tr](/f25/language/tr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/tr.po | 
+ | [ug](/f25/language/ug) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/ug.po | 
+ | [uk](/f25/language/uk) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 278 | 278 | 100.0 | /mnt/stockage/packages/f25/tumbler/po/zh_HK.po | 
+ | [eu](/f25/language/eu) | 271 | 278 | 97.5 | /mnt/stockage/packages/f25/tumbler/po/eu.po | 
+ | [ca](/f25/language/ca) | 259 | 278 | 93.2 | /mnt/stockage/packages/f25/tumbler/po/ca.po | 
+ | [gl](/f25/language/gl) | 248 | 278 | 89.2 | /mnt/stockage/packages/f25/tumbler/po/gl.po | 
+ | [el](/f25/language/el) | 242 | 278 | 87.1 | /mnt/stockage/packages/f25/tumbler/po/el.po | 
+ | [fi](/f25/language/fi) | 230 | 278 | 82.7 | /mnt/stockage/packages/f25/tumbler/po/fi.po | 
+ | [lt](/f25/language/lt) | 230 | 278 | 82.7 | /mnt/stockage/packages/f25/tumbler/po/lt.po | 
+ | [nn](/f25/language/nn) | 230 | 278 | 82.7 | /mnt/stockage/packages/f25/tumbler/po/nn.po | 
+ | [bn](/f25/language/bn) | 206 | 278 | 74.1 | /mnt/stockage/packages/f25/tumbler/po/bn.po | 
+ | [ast](/f25/language/ast) | 192 | 278 | 69.1 | /mnt/stockage/packages/f25/tumbler/po/ast.po | 
+ | [te](/f25/language/te) | 203 | 312 | 65.1 | /mnt/stockage/packages/f25/tumbler/po/te.po | 
+ | [lv](/f25/language/lv) | 126 | 278 | 45.3 | /mnt/stockage/packages/f25/tumbler/po/lv.po | 
+ | [pa](/f25/language/pa) | 55 | 293 | 18.8 | /mnt/stockage/packages/f25/tumbler/po/pa.po | 
+ | [is](/f25/language/is) | 64 | 343 | 18.7 | /mnt/stockage/packages/f25/tumbler/po/is.po | 
+ | [si](/f25/language/si) | 1 | 293 | 0.3 | /mnt/stockage/packages/f25/tumbler/po/si.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package synapse (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ca.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ca@valencia.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/it.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ko.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ru.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 580 | 581 | 99.8 | /mnt/stockage/packages/f16/synapse/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 571 | 581 | 98.3 | /mnt/stockage/packages/f16/synapse/po/es.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 554 | 581 | 95.4 | /mnt/stockage/packages/f16/synapse/po/bg.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 539 | 581 | 92.8 | /mnt/stockage/packages/f16/synapse/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 494 | 581 | 85.0 | /mnt/stockage/packages/f16/synapse/po/fr.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 461 | 581 | 79.3 | /mnt/stockage/packages/f16/synapse/po/pl.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 437 | 581 | 75.2 | /mnt/stockage/packages/f16/synapse/po/eu.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 437 | 581 | 75.2 | /mnt/stockage/packages/f16/synapse/po/uk.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 426 | 581 | 73.3 | /mnt/stockage/packages/f16/synapse/po/ar.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 405 | 581 | 69.7 | /mnt/stockage/packages/f16/synapse/po/gl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 405 | 581 | 69.7 | /mnt/stockage/packages/f16/synapse/po/pt.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 396 | 581 | 68.2 | /mnt/stockage/packages/f16/synapse/po/ro.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 370 | 581 | 63.7 | /mnt/stockage/packages/f16/synapse/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 360 | 581 | 62.0 | /mnt/stockage/packages/f16/synapse/po/nb.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 360 | 581 | 62.0 | /mnt/stockage/packages/f16/synapse/po/nn.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 343 | 581 | 59.0 | /mnt/stockage/packages/f16/synapse/po/zh_CN.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 329 | 581 | 56.6 | /mnt/stockage/packages/f16/synapse/po/hu.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 313 | 581 | 53.9 | /mnt/stockage/packages/f16/synapse/po/nds.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 270 | 581 | 46.5 | /mnt/stockage/packages/f16/synapse/po/da.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 264 | 581 | 45.4 | /mnt/stockage/packages/f16/synapse/po/ml.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 140 | 581 | 24.1 | /mnt/stockage/packages/f16/synapse/po/tr.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 113 | 581 | 19.4 | /mnt/stockage/packages/f16/synapse/po/sk.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 109 | 581 | 18.8 | /mnt/stockage/packages/f16/synapse/po/ka.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 98 | 581 | 16.9 | /mnt/stockage/packages/f16/synapse/po/nl.po | 
- | [sw]({{< ref "/f16/language/sw.md" >}}) | 82 | 581 | 14.1 | /mnt/stockage/packages/f16/synapse/po/sw.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 65 | 581 | 11.2 | /mnt/stockage/packages/f16/synapse/po/el.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 7 | 581 | 1.2 | /mnt/stockage/packages/f16/synapse/po/lt.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 2 | 581 | 0.3 | /mnt/stockage/packages/f16/synapse/po/eo.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 0 | 581 | 0.0 | /mnt/stockage/packages/f16/synapse/po/ja.po | 
+ | [ca](/f16/language/ca) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ca.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ca@valencia.po | 
+ | [it](/f16/language/it) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/it.po | 
+ | [ko](/f16/language/ko) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ko.po | 
+ | [ru](/f16/language/ru) | 581 | 581 | 100.0 | /mnt/stockage/packages/f16/synapse/po/ru.po | 
+ | [de](/f16/language/de) | 580 | 581 | 99.8 | /mnt/stockage/packages/f16/synapse/po/de.po | 
+ | [es](/f16/language/es) | 571 | 581 | 98.3 | /mnt/stockage/packages/f16/synapse/po/es.po | 
+ | [bg](/f16/language/bg) | 554 | 581 | 95.4 | /mnt/stockage/packages/f16/synapse/po/bg.po | 
+ | [fi](/f16/language/fi) | 539 | 581 | 92.8 | /mnt/stockage/packages/f16/synapse/po/fi.po | 
+ | [fr](/f16/language/fr) | 494 | 581 | 85.0 | /mnt/stockage/packages/f16/synapse/po/fr.po | 
+ | [pl](/f16/language/pl) | 461 | 581 | 79.3 | /mnt/stockage/packages/f16/synapse/po/pl.po | 
+ | [eu](/f16/language/eu) | 437 | 581 | 75.2 | /mnt/stockage/packages/f16/synapse/po/eu.po | 
+ | [uk](/f16/language/uk) | 437 | 581 | 75.2 | /mnt/stockage/packages/f16/synapse/po/uk.po | 
+ | [ar](/f16/language/ar) | 426 | 581 | 73.3 | /mnt/stockage/packages/f16/synapse/po/ar.po | 
+ | [gl](/f16/language/gl) | 405 | 581 | 69.7 | /mnt/stockage/packages/f16/synapse/po/gl.po | 
+ | [pt](/f16/language/pt) | 405 | 581 | 69.7 | /mnt/stockage/packages/f16/synapse/po/pt.po | 
+ | [ro](/f16/language/ro) | 396 | 581 | 68.2 | /mnt/stockage/packages/f16/synapse/po/ro.po | 
+ | [pt_BR](/f16/language/pt_BR) | 370 | 581 | 63.7 | /mnt/stockage/packages/f16/synapse/po/pt_BR.po | 
+ | [nb_NO](/f16/language/nb_NO) | 360 | 581 | 62.0 | /mnt/stockage/packages/f16/synapse/po/nb.po | 
+ | [nn](/f16/language/nn) | 360 | 581 | 62.0 | /mnt/stockage/packages/f16/synapse/po/nn.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 343 | 581 | 59.0 | /mnt/stockage/packages/f16/synapse/po/zh_CN.po | 
+ | [hu](/f16/language/hu) | 329 | 581 | 56.6 | /mnt/stockage/packages/f16/synapse/po/hu.po | 
+ | [nds](/f16/language/nds) | 313 | 581 | 53.9 | /mnt/stockage/packages/f16/synapse/po/nds.po | 
+ | [da](/f16/language/da) | 270 | 581 | 46.5 | /mnt/stockage/packages/f16/synapse/po/da.po | 
+ | [ml](/f16/language/ml) | 264 | 581 | 45.4 | /mnt/stockage/packages/f16/synapse/po/ml.po | 
+ | [tr](/f16/language/tr) | 140 | 581 | 24.1 | /mnt/stockage/packages/f16/synapse/po/tr.po | 
+ | [sk](/f16/language/sk) | 113 | 581 | 19.4 | /mnt/stockage/packages/f16/synapse/po/sk.po | 
+ | [ka](/f16/language/ka) | 109 | 581 | 18.8 | /mnt/stockage/packages/f16/synapse/po/ka.po | 
+ | [nl](/f16/language/nl) | 98 | 581 | 16.9 | /mnt/stockage/packages/f16/synapse/po/nl.po | 
+ | [sw](/f16/language/sw) | 82 | 581 | 14.1 | /mnt/stockage/packages/f16/synapse/po/sw.po | 
+ | [el](/f16/language/el) | 65 | 581 | 11.2 | /mnt/stockage/packages/f16/synapse/po/el.po | 
+ | [lt](/f16/language/lt) | 7 | 581 | 1.2 | /mnt/stockage/packages/f16/synapse/po/lt.po | 
+ | [eo](/f16/language/eo) | 2 | 581 | 0.3 | /mnt/stockage/packages/f16/synapse/po/eo.po | 
+ | [ja](/f16/language/ja) | 0 | 581 | 0.0 | /mnt/stockage/packages/f16/synapse/po/ja.po | 
 {.sortable}
 
 

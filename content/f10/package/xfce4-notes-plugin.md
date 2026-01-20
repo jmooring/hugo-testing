@@ -18,31 +18,31 @@ The package xfce4-notes-plugin (version 1.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/el.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/id.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ja.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/nl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/pt_PT.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/zh_CN.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 58 | 85 | 68.2 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 58 | 85 | 68.2 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/nb_NO.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 19 | 85 | 22.4 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/pl.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 19 | 85 | 22.4 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ur.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 19 | 85 | 22.4 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/zh_TW.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 9 | 85 | 10.6 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/gl.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ar.po | 
+ | [ca](/f10/language/ca) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ca.po | 
+ | [cs](/f10/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/cs.po | 
+ | [da](/f10/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/da.po | 
+ | [de](/f10/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/de.po | 
+ | [el](/f10/language/el) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/el.po | 
+ | [en_GB](/f10/language/en_GB) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/en_GB.po | 
+ | [es](/f10/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/es.po | 
+ | [eu](/f10/language/eu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/eu.po | 
+ | [fi](/f10/language/fi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/fi.po | 
+ | [fr](/f10/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/fr.po | 
+ | [hu](/f10/language/hu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/hu.po | 
+ | [id](/f10/language/id) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/id.po | 
+ | [ja](/f10/language/ja) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ja.po | 
+ | [nl](/f10/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/nl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/pt_BR.po | 
+ | [pt_PT](/f10/language/pt_PT) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/pt_PT.po | 
+ | [uk](/f10/language/uk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/uk.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/zh_CN.po | 
+ | [lv](/f10/language/lv) | 58 | 85 | 68.2 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/lv.po | 
+ | [nb_NO](/f10/language/nb_NO) | 58 | 85 | 68.2 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/nb_NO.po | 
+ | [pl](/f10/language/pl) | 19 | 85 | 22.4 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/pl.po | 
+ | [ur](/f10/language/ur) | 19 | 85 | 22.4 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ur.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 19 | 85 | 22.4 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/zh_TW.po | 
+ | [gl](/f10/language/gl) | 9 | 85 | 10.6 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/gl.po | 
+ | [ar](/f10/language/ar) | 0 | 85 | 0.0 | /mnt/stockage/packages/f10/xfce4-notes-plugin/po/ar.po | 
 {.sortable}
 
 

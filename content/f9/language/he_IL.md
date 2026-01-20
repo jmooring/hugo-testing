@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f9/package/exaile.md" >}}) | 1165 | 1333 | 87.4 | Hebrew <LL@li.org> | 
- | [filezilla]({{< ref "/f9/package/filezilla.md" >}}) | 3417 | 4911 | 69.6 | ABZPMGDNHM7 (please do not remove) | 
- | [abiword]({{< ref "/f9/package/abiword.md" >}}) | 2333 | 4704 | 49.6 | unknown <email@address> | 
- | [squirrelmail]({{< ref "/f9/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f9/package/horde.md" >}}) | 207 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f9/package/imp.md" >}}) | 72 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [exaile](/f9/package/exaile) | 1165 | 1333 | 87.4 | Hebrew <LL@li.org> | 
+ | [filezilla](/f9/package/filezilla) | 3417 | 4911 | 69.6 | ABZPMGDNHM7 (please do not remove) | 
+ | [abiword](/f9/package/abiword) | 2333 | 4704 | 49.6 | unknown <email@address> | 
+ | [squirrelmail](/f9/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f9/package/horde) | 207 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f9/package/imp) | 72 | 5647 | 1.3 | i18n@lists.horde.org | 
 {.sortable}
 
 

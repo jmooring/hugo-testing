@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgtop2]({{< ref "/f11/package/libgtop2.md" >}}) | 24 | 126 | 19.0 | Latin <la@li.org> | 
- | [wesnoth]({{< ref "/f11/package/wesnoth.md" >}}) | 23074 | 212636 | 10.9 | Latin | 
- | [byobu]({{< ref "/f11/package/byobu.md" >}}) | 14 | 177 | 7.9 | Latin <la@li.org> | 
- | [gedit]({{< ref "/f11/package/gedit.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [metacity]({{< ref "/f11/package/metacity.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [yelp]({{< ref "/f11/package/yelp.md" >}}) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
- | [libgnomeprintui22]({{< ref "/f11/package/libgnomeprintui22.md" >}}) | 6 | 481 | 1.2 | Latin <la@li.org> | 
- | [deluge]({{< ref "/f11/package/deluge.md" >}}) | 17 | 1998 | 0.9 | Latin <la@li.org> | 
- | [warzone2100]({{< ref "/f11/package/warzone2100.md" >}}) | 9 | 9618 | 0.1 | Latin | 
- | [libgnomeui]({{< ref "/f11/package/libgnomeui.md" >}}) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
- | [gnome-panel]({{< ref "/f11/package/gnome-panel.md" >}}) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
+ | [libgtop2](/f11/package/libgtop2) | 24 | 126 | 19.0 | Latin <la@li.org> | 
+ | [wesnoth](/f11/package/wesnoth) | 23074 | 212636 | 10.9 | Latin | 
+ | [byobu](/f11/package/byobu) | 14 | 177 | 7.9 | Latin <la@li.org> | 
+ | [gedit](/f11/package/gedit) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [metacity](/f11/package/metacity) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [yelp](/f11/package/yelp) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
+ | [libgnomeprintui22](/f11/package/libgnomeprintui22) | 6 | 481 | 1.2 | Latin <la@li.org> | 
+ | [deluge](/f11/package/deluge) | 17 | 1998 | 0.9 | Latin <la@li.org> | 
+ | [warzone2100](/f11/package/warzone2100) | 9 | 9618 | 0.1 | Latin | 
+ | [libgnomeui](/f11/package/libgnomeui) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
+ | [gnome-panel](/f11/package/gnome-panel) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package fldigi (version 4.1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 7444 | 7542 | 98.7 | /mnt/stockage/packages/f30/fldigi/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 7399 | 7542 | 98.1 | /mnt/stockage/packages/f30/fldigi/po/pl.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 5979 | 7542 | 79.3 | /mnt/stockage/packages/f30/fldigi/po/it.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 5188 | 7542 | 68.8 | /mnt/stockage/packages/f30/fldigi/po/ru.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 4524 | 7542 | 60.0 | /mnt/stockage/packages/f30/fldigi/po/es.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 3372 | 7542 | 44.7 | /mnt/stockage/packages/f30/fldigi/po/de.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 3341 | 7542 | 44.3 | /mnt/stockage/packages/f30/fldigi/po/el.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1168 | 7542 | 15.5 | /mnt/stockage/packages/f30/fldigi/po/fr.po | 
+ | [nl](/f30/language/nl) | 7444 | 7542 | 98.7 | /mnt/stockage/packages/f30/fldigi/po/nl.po | 
+ | [pl](/f30/language/pl) | 7399 | 7542 | 98.1 | /mnt/stockage/packages/f30/fldigi/po/pl.po | 
+ | [it](/f30/language/it) | 5979 | 7542 | 79.3 | /mnt/stockage/packages/f30/fldigi/po/it.po | 
+ | [ru](/f30/language/ru) | 5188 | 7542 | 68.8 | /mnt/stockage/packages/f30/fldigi/po/ru.po | 
+ | [es](/f30/language/es) | 4524 | 7542 | 60.0 | /mnt/stockage/packages/f30/fldigi/po/es.po | 
+ | [de](/f30/language/de) | 3372 | 7542 | 44.7 | /mnt/stockage/packages/f30/fldigi/po/de.po | 
+ | [el](/f30/language/el) | 3341 | 7542 | 44.3 | /mnt/stockage/packages/f30/fldigi/po/el.po | 
+ | [fr](/f30/language/fr) | 1168 | 7542 | 15.5 | /mnt/stockage/packages/f30/fldigi/po/fr.po | 
 {.sortable}
 
 

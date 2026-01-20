@@ -18,20 +18,20 @@ The package gnome-shell-extension-caffeine (version 37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/de/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/hu/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/it_IT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_BR/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ru/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sv/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/tr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/zh_CN/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 65 | 120 | 54.2 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/es/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 51 | 120 | 42.5 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ja/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/fr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pl/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_PT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sk/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [de](/f32/language/de) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/de/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [hu](/f32/language/hu) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/hu/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [it](/f32/language/it) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/it_IT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [pt_BR](/f32/language/pt_BR) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_BR/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [ru](/f32/language/ru) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ru/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [sv](/f32/language/sv) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sv/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [tr](/f32/language/tr) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/tr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 76 | 120 | 63.3 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/zh_CN/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [es](/f32/language/es) | 65 | 120 | 54.2 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/es/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [ja](/f32/language/ja) | 51 | 120 | 42.5 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ja/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [fr](/f32/language/fr) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/fr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [pl](/f32/language/pl) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pl/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [pt_PT](/f32/language/pt_PT) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_PT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [sk](/f32/language/sk) | 36 | 120 | 30.0 | /mnt/stockage/packages/f32/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sk/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
 {.sortable}
 
 

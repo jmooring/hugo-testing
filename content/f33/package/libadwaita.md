@@ -18,26 +18,26 @@ The package libadwaita (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/de.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/eu.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/fr.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/ro.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/zh_CN.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 933 | 964 | 96.8 | /mnt/stockage/packages/f33/libadwaita/po/ca.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 807 | 964 | 83.7 | /mnt/stockage/packages/f33/libadwaita/po/fur.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 375 | 964 | 38.9 | /mnt/stockage/packages/f33/libadwaita/po/sl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 312 | 984 | 31.7 | /mnt/stockage/packages/f33/libadwaita/po/pt.po | 
+ | [de](/f33/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/de.po | 
+ | [en_GB](/f33/language/en_GB) | 964 | 964 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/en_GB.po | 
+ | [es](/f33/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/es.po | 
+ | [eu](/f33/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/eu.po | 
+ | [fi](/f33/language/fi) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/fi.po | 
+ | [fr](/f33/language/fr) | 964 | 964 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/fr.po | 
+ | [id](/f33/language/id) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/id.po | 
+ | [it](/f33/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/it.po | 
+ | [nl](/f33/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/nl.po | 
+ | [pl](/f33/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 886 | 886 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/ro.po | 
+ | [sv](/f33/language/sv) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/sv.po | 
+ | [tr](/f33/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/tr.po | 
+ | [uk](/f33/language/uk) | 886 | 886 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f33/libadwaita/po/zh_CN.po | 
+ | [ca](/f33/language/ca) | 933 | 964 | 96.8 | /mnt/stockage/packages/f33/libadwaita/po/ca.po | 
+ | [fur](/f33/language/fur) | 807 | 964 | 83.7 | /mnt/stockage/packages/f33/libadwaita/po/fur.po | 
+ | [sl](/f33/language/sl) | 375 | 964 | 38.9 | /mnt/stockage/packages/f33/libadwaita/po/sl.po | 
+ | [pt](/f33/language/pt) | 312 | 984 | 31.7 | /mnt/stockage/packages/f33/libadwaita/po/pt.po | 
 {.sortable}
 
 

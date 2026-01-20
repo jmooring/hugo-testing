@@ -18,22 +18,22 @@ The package frescobaldi (version 2.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 15217 | 15553 | 97.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/nl.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 15134 | 15553 | 97.3 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/es.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 15024 | 15553 | 96.6 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/it.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 14820 | 15553 | 95.3 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/cs.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 14452 | 15553 | 92.9 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/fr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 6970 | 15553 | 44.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/de.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 3912 | 15553 | 25.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/pt_BR.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 3302 | 15553 | 21.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/sv.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2931 | 15553 | 18.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/pl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 2928 | 15553 | 18.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2878 | 15553 | 18.5 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 2449 | 15553 | 15.7 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/zh_CN.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1247 | 15553 | 8.0 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/gl.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1243 | 15553 | 8.0 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/tr.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 502 | 15553 | 3.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 502 | 15553 | 3.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/zh_HK.po | 
+ | [nl](/f24/language/nl) | 15217 | 15553 | 97.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/nl.po | 
+ | [es](/f24/language/es) | 15134 | 15553 | 97.3 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/es.po | 
+ | [it](/f24/language/it) | 15024 | 15553 | 96.6 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/it.po | 
+ | [cs](/f24/language/cs) | 14820 | 15553 | 95.3 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/cs.po | 
+ | [fr](/f24/language/fr) | 14452 | 15553 | 92.9 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/fr.po | 
+ | [de](/f24/language/de) | 6970 | 15553 | 44.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/de.po | 
+ | [pt_BR](/f24/language/pt_BR) | 3912 | 15553 | 25.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/pt_BR.po | 
+ | [sv](/f24/language/sv) | 3302 | 15553 | 21.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/sv.po | 
+ | [pl](/f24/language/pl) | 2931 | 15553 | 18.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/pl.po | 
+ | [ru](/f24/language/ru) | 2928 | 15553 | 18.8 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/ru.po | 
+ | [uk](/f24/language/uk) | 2878 | 15553 | 18.5 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 2449 | 15553 | 15.7 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/zh_CN.po | 
+ | [gl](/f24/language/gl) | 1247 | 15553 | 8.0 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/gl.po | 
+ | [tr](/f24/language/tr) | 1243 | 15553 | 8.0 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/tr.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 502 | 15553 | 3.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 502 | 15553 | 3.2 | /mnt/stockage/packages/f24/frescobaldi/frescobaldi_app/po/zh_HK.po | 
 {.sortable}
 
 

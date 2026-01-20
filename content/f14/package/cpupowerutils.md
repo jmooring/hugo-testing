@@ -18,11 +18,11 @@ The package cpupowerutils (version 009):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f14/cpupowerutils/po/de.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f14/cpupowerutils/po/it.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f14/cpupowerutils/po/pt.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f14/cpupowerutils/po/cs.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f14/cpupowerutils/po/fr.po | 
+ | [de](/f14/language/de) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f14/cpupowerutils/po/de.po | 
+ | [it](/f14/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f14/cpupowerutils/po/it.po | 
+ | [pt](/f14/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f14/cpupowerutils/po/pt.po | 
+ | [cs](/f14/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f14/cpupowerutils/po/cs.po | 
+ | [fr](/f14/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f14/cpupowerutils/po/fr.po | 
 {.sortable}
 
 

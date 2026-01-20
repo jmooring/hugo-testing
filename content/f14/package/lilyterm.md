@@ -18,10 +18,10 @@ The package lilyterm (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f14/lilyterm/po/de.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f14/lilyterm/po/tr.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f14/lilyterm/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 612 | 614 | 99.7 | /mnt/stockage/packages/f14/lilyterm/po/zh_CN.po | 
+ | [de](/f14/language/de) | 614 | 614 | 100.0 | /mnt/stockage/packages/f14/lilyterm/po/de.po | 
+ | [tr](/f14/language/tr) | 614 | 614 | 100.0 | /mnt/stockage/packages/f14/lilyterm/po/tr.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 614 | 614 | 100.0 | /mnt/stockage/packages/f14/lilyterm/po/zh_TW.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 612 | 614 | 99.7 | /mnt/stockage/packages/f14/lilyterm/po/zh_CN.po | 
 {.sortable}
 
 

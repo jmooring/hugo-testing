@@ -18,37 +18,37 @@ The package nicotine+ (version 3.3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/es_ES.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/et.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/fr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/hu.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/lv.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/pt_PT.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/ru.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/ta.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/tr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 5025 | 5038 | 99.7 | /mnt/stockage/packages/f42/nicotine+/po/it.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 5025 | 5038 | 99.7 | /mnt/stockage/packages/f42/nicotine+/po/zh_CN.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 3470 | 5038 | 68.9 | /mnt/stockage/packages/f42/nicotine+/po/uk.po | 
- | [es_CL]({{< ref "/f42/language/es_CL.md" >}}) | 3136 | 5038 | 62.2 | /mnt/stockage/packages/f42/nicotine+/po/es_CL.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 928 | 5038 | 18.4 | /mnt/stockage/packages/f42/nicotine+/po/nb_NO.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 618 | 5038 | 12.3 | /mnt/stockage/packages/f42/nicotine+/po/ro.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 590 | 5038 | 11.7 | /mnt/stockage/packages/f42/nicotine+/po/sq.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 398 | 5038 | 7.9 | /mnt/stockage/packages/f42/nicotine+/po/lt.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 323 | 5038 | 6.4 | /mnt/stockage/packages/f42/nicotine+/po/sk.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 234 | 5038 | 4.6 | /mnt/stockage/packages/f42/nicotine+/po/da.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 234 | 5038 | 4.6 | /mnt/stockage/packages/f42/nicotine+/po/eu.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 227 | 5038 | 4.5 | /mnt/stockage/packages/f42/nicotine+/po/fi.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 195 | 5038 | 3.9 | /mnt/stockage/packages/f42/nicotine+/po/sv.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 40 | 5038 | 0.8 | /mnt/stockage/packages/f42/nicotine+/po/ar.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 35 | 5038 | 0.7 | /mnt/stockage/packages/f42/nicotine+/po/eo.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 0 | 5038 | 0.0 | /mnt/stockage/packages/f42/nicotine+/po/ms.po | 
+ | [ca](/f42/language/ca) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/ca.po | 
+ | [cs](/f42/language/cs) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/cs.po | 
+ | [de](/f42/language/de) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/de.po | 
+ | [es](/f42/language/es) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/es_ES.po | 
+ | [et](/f42/language/et) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/et.po | 
+ | [fr](/f42/language/fr) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/fr.po | 
+ | [hu](/f42/language/hu) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/hu.po | 
+ | [lv](/f42/language/lv) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/lv.po | 
+ | [nl](/f42/language/nl) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/nl.po | 
+ | [pl](/f42/language/pl) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/pt_BR.po | 
+ | [pt_PT](/f42/language/pt_PT) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/pt_PT.po | 
+ | [ru](/f42/language/ru) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/ru.po | 
+ | [ta](/f42/language/ta) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/ta.po | 
+ | [tr](/f42/language/tr) | 5038 | 5038 | 100.0 | /mnt/stockage/packages/f42/nicotine+/po/tr.po | 
+ | [it](/f42/language/it) | 5025 | 5038 | 99.7 | /mnt/stockage/packages/f42/nicotine+/po/it.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 5025 | 5038 | 99.7 | /mnt/stockage/packages/f42/nicotine+/po/zh_CN.po | 
+ | [uk](/f42/language/uk) | 3470 | 5038 | 68.9 | /mnt/stockage/packages/f42/nicotine+/po/uk.po | 
+ | [es_CL](/f42/language/es_CL) | 3136 | 5038 | 62.2 | /mnt/stockage/packages/f42/nicotine+/po/es_CL.po | 
+ | [nb_NO](/f42/language/nb_NO) | 928 | 5038 | 18.4 | /mnt/stockage/packages/f42/nicotine+/po/nb_NO.po | 
+ | [ro](/f42/language/ro) | 618 | 5038 | 12.3 | /mnt/stockage/packages/f42/nicotine+/po/ro.po | 
+ | [sq](/f42/language/sq) | 590 | 5038 | 11.7 | /mnt/stockage/packages/f42/nicotine+/po/sq.po | 
+ | [lt](/f42/language/lt) | 398 | 5038 | 7.9 | /mnt/stockage/packages/f42/nicotine+/po/lt.po | 
+ | [sk](/f42/language/sk) | 323 | 5038 | 6.4 | /mnt/stockage/packages/f42/nicotine+/po/sk.po | 
+ | [da](/f42/language/da) | 234 | 5038 | 4.6 | /mnt/stockage/packages/f42/nicotine+/po/da.po | 
+ | [eu](/f42/language/eu) | 234 | 5038 | 4.6 | /mnt/stockage/packages/f42/nicotine+/po/eu.po | 
+ | [fi](/f42/language/fi) | 227 | 5038 | 4.5 | /mnt/stockage/packages/f42/nicotine+/po/fi.po | 
+ | [sv](/f42/language/sv) | 195 | 5038 | 3.9 | /mnt/stockage/packages/f42/nicotine+/po/sv.po | 
+ | [ar](/f42/language/ar) | 40 | 5038 | 0.8 | /mnt/stockage/packages/f42/nicotine+/po/ar.po | 
+ | [eo](/f42/language/eo) | 35 | 5038 | 0.7 | /mnt/stockage/packages/f42/nicotine+/po/eo.po | 
+ | [ms](/f42/language/ms) | 0 | 5038 | 0.0 | /mnt/stockage/packages/f42/nicotine+/po/ms.po | 
 {.sortable}
 
 

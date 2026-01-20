@@ -18,11 +18,11 @@ The package iwhd (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f16/iwhd/po/de.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f16/iwhd/po/uk.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 822 | 957 | 85.9 | /mnt/stockage/packages/f16/iwhd/po/es.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 822 | 957 | 85.9 | /mnt/stockage/packages/f16/iwhd/po/ja.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 7 | 957 | 0.7 | /mnt/stockage/packages/f16/iwhd/po/fr.po | 
+ | [de](/f16/language/de) | 957 | 957 | 100.0 | /mnt/stockage/packages/f16/iwhd/po/de.po | 
+ | [uk](/f16/language/uk) | 957 | 957 | 100.0 | /mnt/stockage/packages/f16/iwhd/po/uk.po | 
+ | [es](/f16/language/es) | 822 | 957 | 85.9 | /mnt/stockage/packages/f16/iwhd/po/es.po | 
+ | [ja](/f16/language/ja) | 822 | 957 | 85.9 | /mnt/stockage/packages/f16/iwhd/po/ja.po | 
+ | [fr](/f16/language/fr) | 7 | 957 | 0.7 | /mnt/stockage/packages/f16/iwhd/po/fr.po | 
 {.sortable}
 
 

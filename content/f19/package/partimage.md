@@ -18,19 +18,19 @@ The package partimage (version 0.6.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 3369 | 3387 | 99.5 | /mnt/stockage/packages/f19/partimage/po/fr.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1754 | 3387 | 51.8 | /mnt/stockage/packages/f19/partimage/po/ru.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f19/partimage/po/da.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f19/partimage/po/es.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1559 | 3387 | 46.0 | /mnt/stockage/packages/f19/partimage/po/de.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 1448 | 3387 | 42.8 | /mnt/stockage/packages/f19/partimage/po/pt.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 1388 | 3387 | 41.0 | /mnt/stockage/packages/f19/partimage/po/fi.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 1312 | 3387 | 38.7 | /mnt/stockage/packages/f19/partimage/po/nl.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 1285 | 3387 | 37.9 | /mnt/stockage/packages/f19/partimage/po/gl.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 1283 | 3387 | 37.9 | /mnt/stockage/packages/f19/partimage/po/sk.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 745 | 3387 | 22.0 | /mnt/stockage/packages/f19/partimage/po/pl.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 544 | 3387 | 16.1 | /mnt/stockage/packages/f19/partimage/po/it.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 496 | 3387 | 14.6 | /mnt/stockage/packages/f19/partimage/po/eu.po | 
+ | [fr](/f19/language/fr) | 3369 | 3387 | 99.5 | /mnt/stockage/packages/f19/partimage/po/fr.po | 
+ | [ru](/f19/language/ru) | 1754 | 3387 | 51.8 | /mnt/stockage/packages/f19/partimage/po/ru.po | 
+ | [da](/f19/language/da) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f19/partimage/po/da.po | 
+ | [es](/f19/language/es) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f19/partimage/po/es.po | 
+ | [de](/f19/language/de) | 1559 | 3387 | 46.0 | /mnt/stockage/packages/f19/partimage/po/de.po | 
+ | [pt](/f19/language/pt) | 1448 | 3387 | 42.8 | /mnt/stockage/packages/f19/partimage/po/pt.po | 
+ | [fi](/f19/language/fi) | 1388 | 3387 | 41.0 | /mnt/stockage/packages/f19/partimage/po/fi.po | 
+ | [nl](/f19/language/nl) | 1312 | 3387 | 38.7 | /mnt/stockage/packages/f19/partimage/po/nl.po | 
+ | [gl](/f19/language/gl) | 1285 | 3387 | 37.9 | /mnt/stockage/packages/f19/partimage/po/gl.po | 
+ | [sk](/f19/language/sk) | 1283 | 3387 | 37.9 | /mnt/stockage/packages/f19/partimage/po/sk.po | 
+ | [pl](/f19/language/pl) | 745 | 3387 | 22.0 | /mnt/stockage/packages/f19/partimage/po/pl.po | 
+ | [it](/f19/language/it) | 544 | 3387 | 16.1 | /mnt/stockage/packages/f19/partimage/po/it.po | 
+ | [eu](/f19/language/eu) | 496 | 3387 | 14.6 | /mnt/stockage/packages/f19/partimage/po/eu.po | 
 {.sortable}
 
 

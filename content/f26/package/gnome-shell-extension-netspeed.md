@@ -18,16 +18,16 @@ The package gnome-shell-extension-netspeed (version 3.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/es_ES.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/it.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/zh_TW.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 27 | 29 | 93.1 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/fa.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 24 | 29 | 82.8 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/de.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 24 | 29 | 82.8 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/en_CA.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 24 | 29 | 82.8 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/fr.po | 
+ | [es](/f26/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/es_ES.po | 
+ | [it](/f26/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/it.po | 
+ | [nl](/f26/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/nl_NL.po | 
+ | [pt_BR](/f26/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/pt_BR.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/zh_TW.po | 
+ | [fa](/f26/language/fa) | 27 | 29 | 93.1 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/fa.po | 
+ | [de](/f26/language/de) | 24 | 29 | 82.8 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/de.po | 
+ | [en_CA](/f26/language/en_CA) | 24 | 29 | 82.8 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/en_CA.po | 
+ | [fr](/f26/language/fr) | 24 | 29 | 82.8 | /mnt/stockage/packages/f26/gnome-shell-extension-netspeed/po/fr.po | 
 {.sortable}
 
 

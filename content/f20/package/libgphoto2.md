@@ -18,27 +18,27 @@ The package libgphoto2 (version 2.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/fr.po/mnt/stockage/packages/f20/libgphoto2/po/fr.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/pl.po/mnt/stockage/packages/f20/libgphoto2/po/pl.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/uk.po/mnt/stockage/packages/f20/libgphoto2/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/vi.po/mnt/stockage/packages/f20/libgphoto2/po/vi.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 11088 | 11303 | 98.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/da.po/mnt/stockage/packages/f20/libgphoto2/po/da.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 11064 | 11303 | 97.9 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/cs.po/mnt/stockage/packages/f20/libgphoto2/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 10971 | 11303 | 97.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/de.po/mnt/stockage/packages/f20/libgphoto2/po/de.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 719 | 756 | 95.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/sr.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 719 | 756 | 95.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/zh_TW.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 717 | 756 | 94.8 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/fi.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 700 | 756 | 92.6 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/sk.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 9217 | 11303 | 81.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/nl.po/mnt/stockage/packages/f20/libgphoto2/po/nl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 479 | 756 | 63.4 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/pt_BR.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 5891 | 11303 | 52.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/ja.po/mnt/stockage/packages/f20/libgphoto2/po/ja.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 5529 | 11303 | 48.9 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/it.po/mnt/stockage/packages/f20/libgphoto2/po/it.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 4761 | 11303 | 42.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/eu.po/mnt/stockage/packages/f20/libgphoto2/po/eu.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 4273 | 11303 | 37.8 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/es.po/mnt/stockage/packages/f20/libgphoto2/po/es.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 3810 | 11303 | 33.7 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/ru.po/mnt/stockage/packages/f20/libgphoto2/po/ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 3174 | 11303 | 28.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/sv.po/mnt/stockage/packages/f20/libgphoto2/po/sv.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 2966 | 11303 | 26.2 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/zh_CN.po/mnt/stockage/packages/f20/libgphoto2/po/zh_CN.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 2707 | 10547 | 25.7 | /mnt/stockage/packages/f20/libgphoto2/po/hu.po | 
+ | [fr](/f20/language/fr) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/fr.po/mnt/stockage/packages/f20/libgphoto2/po/fr.po | 
+ | [pl](/f20/language/pl) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/pl.po/mnt/stockage/packages/f20/libgphoto2/po/pl.po | 
+ | [uk](/f20/language/uk) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/uk.po/mnt/stockage/packages/f20/libgphoto2/po/uk.po | 
+ | [vi](/f20/language/vi) | 11131 | 11303 | 98.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/vi.po/mnt/stockage/packages/f20/libgphoto2/po/vi.po | 
+ | [da](/f20/language/da) | 11088 | 11303 | 98.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/da.po/mnt/stockage/packages/f20/libgphoto2/po/da.po | 
+ | [cs](/f20/language/cs) | 11064 | 11303 | 97.9 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/cs.po/mnt/stockage/packages/f20/libgphoto2/po/cs.po | 
+ | [de](/f20/language/de) | 10971 | 11303 | 97.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/de.po/mnt/stockage/packages/f20/libgphoto2/po/de.po | 
+ | [sr](/f20/language/sr) | 719 | 756 | 95.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/sr.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 719 | 756 | 95.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/zh_TW.po | 
+ | [fi](/f20/language/fi) | 717 | 756 | 94.8 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/fi.po | 
+ | [sk](/f20/language/sk) | 700 | 756 | 92.6 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/sk.po | 
+ | [nl](/f20/language/nl) | 9217 | 11303 | 81.5 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/nl.po/mnt/stockage/packages/f20/libgphoto2/po/nl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 479 | 756 | 63.4 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/pt_BR.po | 
+ | [ja](/f20/language/ja) | 5891 | 11303 | 52.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/ja.po/mnt/stockage/packages/f20/libgphoto2/po/ja.po | 
+ | [it](/f20/language/it) | 5529 | 11303 | 48.9 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/it.po/mnt/stockage/packages/f20/libgphoto2/po/it.po | 
+ | [eu](/f20/language/eu) | 4761 | 11303 | 42.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/eu.po/mnt/stockage/packages/f20/libgphoto2/po/eu.po | 
+ | [es](/f20/language/es) | 4273 | 11303 | 37.8 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/es.po/mnt/stockage/packages/f20/libgphoto2/po/es.po | 
+ | [ru](/f20/language/ru) | 3810 | 11303 | 33.7 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/ru.po/mnt/stockage/packages/f20/libgphoto2/po/ru.po | 
+ | [sv](/f20/language/sv) | 3174 | 11303 | 28.1 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/sv.po/mnt/stockage/packages/f20/libgphoto2/po/sv.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 2966 | 11303 | 26.2 | /mnt/stockage/packages/f20/libgphoto2/libgphoto2_port/po/zh_CN.po/mnt/stockage/packages/f20/libgphoto2/po/zh_CN.po | 
+ | [hu](/f20/language/hu) | 2707 | 10547 | 25.7 | /mnt/stockage/packages/f20/libgphoto2/po/hu.po | 
 {.sortable}
 
 

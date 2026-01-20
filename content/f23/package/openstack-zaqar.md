@@ -18,9 +18,9 @@ The package openstack-zaqar (version 2015.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/en_GB/LC_MESSAGES/zaqar-log-error.po/mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/en_GB/LC_MESSAGES/zaqar-log-info.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/pt_BR/LC_MESSAGES/zaqar-log-error.po/mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/pt_BR/LC_MESSAGES/zaqar-log-info.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 22 | 27 | 81.5 | /mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/fr/LC_MESSAGES/zaqar-log-error.po/mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/fr/LC_MESSAGES/zaqar-log-info.po | 
+ | [en_GB](/f23/language/en_GB) | 27 | 27 | 100.0 | /mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/en_GB/LC_MESSAGES/zaqar-log-error.po/mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/en_GB/LC_MESSAGES/zaqar-log-info.po | 
+ | [pt_BR](/f23/language/pt_BR) | 27 | 27 | 100.0 | /mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/pt_BR/LC_MESSAGES/zaqar-log-error.po/mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/pt_BR/LC_MESSAGES/zaqar-log-info.po | 
+ | [fr](/f23/language/fr) | 22 | 27 | 81.5 | /mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/fr/LC_MESSAGES/zaqar-log-error.po/mnt/stockage/packages/f23/openstack-zaqar/zaqar/locale/fr/LC_MESSAGES/zaqar-log-info.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package vdr-tvscraper (version 1.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f39/vdr-tvscraper/po/de_DE.po | 
+ | [de](/f39/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f39/vdr-tvscraper/po/de_DE.po | 
 {.sortable}
 
 

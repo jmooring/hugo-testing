@@ -18,36 +18,36 @@ The package obconf (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 732 | 738 | 99.2 | /mnt/stockage/packages/f42/obconf/po/pt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 731 | 738 | 99.1 | /mnt/stockage/packages/f42/obconf/po/es.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 723 | 738 | 98.0 | /mnt/stockage/packages/f42/obconf/po/de.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 723 | 738 | 98.0 | /mnt/stockage/packages/f42/obconf/po/lt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 723 | 738 | 98.0 | /mnt/stockage/packages/f42/obconf/po/pt_BR.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 692 | 738 | 93.8 | /mnt/stockage/packages/f42/obconf/po/be.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/da.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/el.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/et.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/fr.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/hu.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/it.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/pl.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/ro.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/sr.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/sr@latin.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 670 | 738 | 90.8 | /mnt/stockage/packages/f42/obconf/po/tr.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 669 | 738 | 90.7 | /mnt/stockage/packages/f42/obconf/po/lv.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 650 | 738 | 88.1 | /mnt/stockage/packages/f42/obconf/po/he.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 639 | 738 | 86.6 | /mnt/stockage/packages/f42/obconf/po/zh_CN.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 622 | 738 | 84.3 | /mnt/stockage/packages/f42/obconf/po/sv.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 621 | 738 | 84.1 | /mnt/stockage/packages/f42/obconf/po/ru.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 578 | 738 | 78.3 | /mnt/stockage/packages/f42/obconf/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 491 | 738 | 66.5 | /mnt/stockage/packages/f42/obconf/po/no.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 311 | 738 | 42.1 | /mnt/stockage/packages/f42/obconf/po/ar.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 175 | 738 | 23.7 | /mnt/stockage/packages/f42/obconf/po/ja.po | 
+ | [pt](/f42/language/pt) | 732 | 738 | 99.2 | /mnt/stockage/packages/f42/obconf/po/pt.po | 
+ | [es](/f42/language/es) | 731 | 738 | 99.1 | /mnt/stockage/packages/f42/obconf/po/es.po | 
+ | [de](/f42/language/de) | 723 | 738 | 98.0 | /mnt/stockage/packages/f42/obconf/po/de.po | 
+ | [lt](/f42/language/lt) | 723 | 738 | 98.0 | /mnt/stockage/packages/f42/obconf/po/lt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 723 | 738 | 98.0 | /mnt/stockage/packages/f42/obconf/po/pt_BR.po | 
+ | [be](/f42/language/be) | 692 | 738 | 93.8 | /mnt/stockage/packages/f42/obconf/po/be.po | 
+ | [cs](/f42/language/cs) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/cs.po | 
+ | [da](/f42/language/da) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/da.po | 
+ | [el](/f42/language/el) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/el.po | 
+ | [et](/f42/language/et) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/et.po | 
+ | [fi](/f42/language/fi) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/fi.po | 
+ | [fr](/f42/language/fr) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/fr.po | 
+ | [hr](/f42/language/hr) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/hr.po | 
+ | [hu](/f42/language/hu) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/hu.po | 
+ | [it](/f42/language/it) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/it.po | 
+ | [nl](/f42/language/nl) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/nl.po | 
+ | [pl](/f42/language/pl) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/pl.po | 
+ | [ro](/f42/language/ro) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/ro.po | 
+ | [sr](/f42/language/sr) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/sr.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 686 | 738 | 93.0 | /mnt/stockage/packages/f42/obconf/po/sr@latin.po | 
+ | [tr](/f42/language/tr) | 670 | 738 | 90.8 | /mnt/stockage/packages/f42/obconf/po/tr.po | 
+ | [lv](/f42/language/lv) | 669 | 738 | 90.7 | /mnt/stockage/packages/f42/obconf/po/lv.po | 
+ | [he](/f42/language/he) | 650 | 738 | 88.1 | /mnt/stockage/packages/f42/obconf/po/he.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 639 | 738 | 86.6 | /mnt/stockage/packages/f42/obconf/po/zh_CN.po | 
+ | [sv](/f42/language/sv) | 622 | 738 | 84.3 | /mnt/stockage/packages/f42/obconf/po/sv.po | 
+ | [ru](/f42/language/ru) | 621 | 738 | 84.1 | /mnt/stockage/packages/f42/obconf/po/ru.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 578 | 738 | 78.3 | /mnt/stockage/packages/f42/obconf/po/zh_TW.po | 
+ | [nb_NO](/f42/language/nb_NO) | 491 | 738 | 66.5 | /mnt/stockage/packages/f42/obconf/po/no.po | 
+ | [ar](/f42/language/ar) | 311 | 738 | 42.1 | /mnt/stockage/packages/f42/obconf/po/ar.po | 
+ | [ja](/f42/language/ja) | 175 | 738 | 23.7 | /mnt/stockage/packages/f42/obconf/po/ja.po | 
 {.sortable}
 
 

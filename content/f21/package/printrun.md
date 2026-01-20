@@ -18,10 +18,10 @@ The package printrun (version 2014.08.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2231 | 2659 | 83.9 | /mnt/stockage/packages/f21/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f21/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f21/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f21/printrun/locale/de/LC_MESSAGES/pronterface.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f21/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f21/printrun/locale/it/LC_MESSAGES/pronterface.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 293 | 2594 | 11.3 | /mnt/stockage/packages/f21/printrun/locale/nl/LC_MESSAGES/pronterface.po | 
+ | [fr](/f21/language/fr) | 2231 | 2659 | 83.9 | /mnt/stockage/packages/f21/printrun/locale/fr/LC_MESSAGES/plater.po/mnt/stockage/packages/f21/printrun/locale/fr/LC_MESSAGES/pronterface.po | 
+ | [de](/f21/language/de) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f21/printrun/locale/de/LC_MESSAGES/plater.po/mnt/stockage/packages/f21/printrun/locale/de/LC_MESSAGES/pronterface.po | 
+ | [it](/f21/language/it) | 408 | 2656 | 15.4 | /mnt/stockage/packages/f21/printrun/locale/it/LC_MESSAGES/plater.po/mnt/stockage/packages/f21/printrun/locale/it/LC_MESSAGES/pronterface.po | 
+ | [nl](/f21/language/nl) | 293 | 2594 | 11.3 | /mnt/stockage/packages/f21/printrun/locale/nl/LC_MESSAGES/pronterface.po | 
 {.sortable}
 
 

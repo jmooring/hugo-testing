@@ -18,37 +18,37 @@ The package frogr (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f27/frogr/help/cs/cs.po/mnt/stockage/packages/f27/frogr/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 664 | 664 | 100.0 | /mnt/stockage/packages/f27/frogr/po/da.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f27/frogr/help/es/es.po/mnt/stockage/packages/f27/frogr/po/es.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 1461 | 1461 | 100.0 | /mnt/stockage/packages/f27/frogr/help/gl/gl.po/mnt/stockage/packages/f27/frogr/po/gl.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f27/frogr/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f27/frogr/po/id.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f27/frogr/po/pl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1514 | 1514 | 100.0 | /mnt/stockage/packages/f27/frogr/help/pt_BR/pt_BR.po/mnt/stockage/packages/f27/frogr/po/pt_BR.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f27/frogr/help/sl/sl.po/mnt/stockage/packages/f27/frogr/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 1328 | 1328 | 100.0 | /mnt/stockage/packages/f27/frogr/po/sr.po/mnt/stockage/packages/f27/frogr/po/sr@latin.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f27/frogr/help/sv/sv.po/mnt/stockage/packages/f27/frogr/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f27/frogr/po/tr.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 661 | 664 | 99.5 | /mnt/stockage/packages/f27/frogr/po/fi.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 661 | 664 | 99.5 | /mnt/stockage/packages/f27/frogr/po/pt.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 649 | 664 | 97.7 | /mnt/stockage/packages/f27/frogr/po/oc.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1472 | 1514 | 97.2 | /mnt/stockage/packages/f27/frogr/help/de/de.po/mnt/stockage/packages/f27/frogr/po/de.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 951 | 982 | 96.8 | /mnt/stockage/packages/f27/frogr/help/en_GB/en_GB.po/mnt/stockage/packages/f27/frogr/po/en_GB.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1462 | 1510 | 96.8 | /mnt/stockage/packages/f27/frogr/help/fr/fr.po/mnt/stockage/packages/f27/frogr/po/fr.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 1438 | 1497 | 96.1 | /mnt/stockage/packages/f27/frogr/help/el/el.po/mnt/stockage/packages/f27/frogr/po/el.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 619 | 664 | 93.2 | /mnt/stockage/packages/f27/frogr/po/bs.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 606 | 665 | 91.1 | /mnt/stockage/packages/f27/frogr/po/zh_CN.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 953 | 1064 | 89.6 | /mnt/stockage/packages/f27/frogr/help/ru/ru.po/mnt/stockage/packages/f27/frogr/po/ru.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 581 | 664 | 87.5 | /mnt/stockage/packages/f27/frogr/po/lv.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 579 | 664 | 87.2 | /mnt/stockage/packages/f27/frogr/po/ja.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 248 | 665 | 37.3 | /mnt/stockage/packages/f27/frogr/po/uk.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 176 | 664 | 26.5 | /mnt/stockage/packages/f27/frogr/po/ro.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 168 | 664 | 25.3 | /mnt/stockage/packages/f27/frogr/po/it.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 150 | 664 | 22.6 | /mnt/stockage/packages/f27/frogr/po/nb.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 139 | 665 | 20.9 | /mnt/stockage/packages/f27/frogr/po/te.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 93 | 664 | 14.0 | /mnt/stockage/packages/f27/frogr/po/ca.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 83 | 664 | 12.5 | /mnt/stockage/packages/f27/frogr/po/nn.po | 
+ | [cs](/f27/language/cs) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f27/frogr/help/cs/cs.po/mnt/stockage/packages/f27/frogr/po/cs.po | 
+ | [da](/f27/language/da) | 664 | 664 | 100.0 | /mnt/stockage/packages/f27/frogr/po/da.po | 
+ | [es](/f27/language/es) | 1507 | 1507 | 100.0 | /mnt/stockage/packages/f27/frogr/help/es/es.po/mnt/stockage/packages/f27/frogr/po/es.po | 
+ | [gl](/f27/language/gl) | 1461 | 1461 | 100.0 | /mnt/stockage/packages/f27/frogr/help/gl/gl.po/mnt/stockage/packages/f27/frogr/po/gl.po | 
+ | [hu](/f27/language/hu) | 668 | 668 | 100.0 | /mnt/stockage/packages/f27/frogr/po/hu.po | 
+ | [id](/f27/language/id) | 668 | 668 | 100.0 | /mnt/stockage/packages/f27/frogr/po/id.po | 
+ | [pl](/f27/language/pl) | 668 | 668 | 100.0 | /mnt/stockage/packages/f27/frogr/po/pl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1514 | 1514 | 100.0 | /mnt/stockage/packages/f27/frogr/help/pt_BR/pt_BR.po/mnt/stockage/packages/f27/frogr/po/pt_BR.po | 
+ | [sl](/f27/language/sl) | 1068 | 1068 | 100.0 | /mnt/stockage/packages/f27/frogr/help/sl/sl.po/mnt/stockage/packages/f27/frogr/po/sl.po | 
+ | [sr](/f27/language/sr) | 1328 | 1328 | 100.0 | /mnt/stockage/packages/f27/frogr/po/sr.po/mnt/stockage/packages/f27/frogr/po/sr@latin.po | 
+ | [sv](/f27/language/sv) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f27/frogr/help/sv/sv.po/mnt/stockage/packages/f27/frogr/po/sv.po | 
+ | [tr](/f27/language/tr) | 661 | 661 | 100.0 | /mnt/stockage/packages/f27/frogr/po/tr.po | 
+ | [fi](/f27/language/fi) | 661 | 664 | 99.5 | /mnt/stockage/packages/f27/frogr/po/fi.po | 
+ | [pt](/f27/language/pt) | 661 | 664 | 99.5 | /mnt/stockage/packages/f27/frogr/po/pt.po | 
+ | [oc](/f27/language/oc) | 649 | 664 | 97.7 | /mnt/stockage/packages/f27/frogr/po/oc.po | 
+ | [de](/f27/language/de) | 1472 | 1514 | 97.2 | /mnt/stockage/packages/f27/frogr/help/de/de.po/mnt/stockage/packages/f27/frogr/po/de.po | 
+ | [en_GB](/f27/language/en_GB) | 951 | 982 | 96.8 | /mnt/stockage/packages/f27/frogr/help/en_GB/en_GB.po/mnt/stockage/packages/f27/frogr/po/en_GB.po | 
+ | [fr](/f27/language/fr) | 1462 | 1510 | 96.8 | /mnt/stockage/packages/f27/frogr/help/fr/fr.po/mnt/stockage/packages/f27/frogr/po/fr.po | 
+ | [el](/f27/language/el) | 1438 | 1497 | 96.1 | /mnt/stockage/packages/f27/frogr/help/el/el.po/mnt/stockage/packages/f27/frogr/po/el.po | 
+ | [bs](/f27/language/bs) | 619 | 664 | 93.2 | /mnt/stockage/packages/f27/frogr/po/bs.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 606 | 665 | 91.1 | /mnt/stockage/packages/f27/frogr/po/zh_CN.po | 
+ | [ru](/f27/language/ru) | 953 | 1064 | 89.6 | /mnt/stockage/packages/f27/frogr/help/ru/ru.po/mnt/stockage/packages/f27/frogr/po/ru.po | 
+ | [lv](/f27/language/lv) | 581 | 664 | 87.5 | /mnt/stockage/packages/f27/frogr/po/lv.po | 
+ | [ja](/f27/language/ja) | 579 | 664 | 87.2 | /mnt/stockage/packages/f27/frogr/po/ja.po | 
+ | [uk](/f27/language/uk) | 248 | 665 | 37.3 | /mnt/stockage/packages/f27/frogr/po/uk.po | 
+ | [ro](/f27/language/ro) | 176 | 664 | 26.5 | /mnt/stockage/packages/f27/frogr/po/ro.po | 
+ | [it](/f27/language/it) | 168 | 664 | 25.3 | /mnt/stockage/packages/f27/frogr/po/it.po | 
+ | [nb_NO](/f27/language/nb_NO) | 150 | 664 | 22.6 | /mnt/stockage/packages/f27/frogr/po/nb.po | 
+ | [te](/f27/language/te) | 139 | 665 | 20.9 | /mnt/stockage/packages/f27/frogr/po/te.po | 
+ | [ca](/f27/language/ca) | 93 | 664 | 14.0 | /mnt/stockage/packages/f27/frogr/po/ca.po | 
+ | [nn](/f27/language/nn) | 83 | 664 | 12.5 | /mnt/stockage/packages/f27/frogr/po/nn.po | 
 {.sortable}
 
 

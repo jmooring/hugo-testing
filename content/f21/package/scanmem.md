@@ -18,8 +18,8 @@ The package scanmem (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 361 | 448 | 80.6 | /mnt/stockage/packages/f21/scanmem/po/ru.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 339 | 448 | 75.7 | /mnt/stockage/packages/f21/scanmem/po/ja.po | 
+ | [ru](/f21/language/ru) | 361 | 448 | 80.6 | /mnt/stockage/packages/f21/scanmem/po/ru.po | 
+ | [ja](/f21/language/ja) | 339 | 448 | 75.7 | /mnt/stockage/packages/f21/scanmem/po/ja.po | 
 {.sortable}
 
 

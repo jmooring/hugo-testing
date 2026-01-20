@@ -18,7 +18,7 @@ The package barry (version 0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 100 | 133 | 75.2 | /mnt/stockage/packages/f12/barry/gui/po/fr.po/mnt/stockage/packages/f12/barry/po/fr.po | 
+ | [fr](/f12/language/fr) | 100 | 133 | 75.2 | /mnt/stockage/packages/f12/barry/gui/po/fr.po/mnt/stockage/packages/f12/barry/po/fr.po | 
 {.sortable}
 
 

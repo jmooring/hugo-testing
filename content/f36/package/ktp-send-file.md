@@ -18,56 +18,56 @@ The package ktp-send-file (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ar/ktp-send-file.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/bs/ktp-send-file.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ca/ktp-send-file.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ca@valencia/ktp-send-file.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/cs/ktp-send-file.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/da/ktp-send-file.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/de/ktp-send-file.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/el/ktp-send-file.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/en_GB/ktp-send-file.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/es/ktp-send-file.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/et/ktp-send-file.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/eu/ktp-send-file.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/fi/ktp-send-file.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/fr/ktp-send-file.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/gl/ktp-send-file.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/hi/ktp-send-file.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/hu/ktp-send-file.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ia/ktp-send-file.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/it/ktp-send-file.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ka/ktp-send-file.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ko/ktp-send-file.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/nl/ktp-send-file.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/nn/ktp-send-file.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pl/ktp-send-file.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pt/ktp-send-file.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pt_BR/ktp-send-file.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ro/ktp-send-file.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ru/ktp-send-file.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sk/ktp-send-file.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sl/ktp-send-file.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr/ktp-send-file.po | 
- | [sr@ijekavian]({{< ref "/f36/language/sr@ijekavian.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr@ijekavian/ktp-send-file.po | 
- | [sr@ijekavian_Latn]({{< ref "/f36/language/sr@ijekavian_Latn.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr@ijekavianlatin/ktp-send-file.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr@latin/ktp-send-file.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sv/ktp-send-file.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/tr/ktp-send-file.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/uk/ktp-send-file.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/vi/ktp-send-file.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/zh_CN/ktp-send-file.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/zh_TW/ktp-send-file.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/kk/ktp-send-file.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/lt/ktp-send-file.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/nb/ktp-send-file.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/nds/ktp-send-file.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 33 | 60 | 55.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ga/ktp-send-file.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 33 | 60 | 55.0 | /mnt/stockage/packages/f36/ktp-send-file/po/km/ktp-send-file.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 21 | 60 | 35.0 | /mnt/stockage/packages/f36/ktp-send-file/po/mr/ktp-send-file.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 16 | 60 | 26.7 | /mnt/stockage/packages/f36/ktp-send-file/po/ug/ktp-send-file.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 9 | 60 | 15.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pa/ktp-send-file.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ja/ktp-send-file.po | 
+ | [ar](/f36/language/ar) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ar/ktp-send-file.po | 
+ | [bs](/f36/language/bs) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/bs/ktp-send-file.po | 
+ | [ca](/f36/language/ca) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ca/ktp-send-file.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ca@valencia/ktp-send-file.po | 
+ | [cs](/f36/language/cs) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/cs/ktp-send-file.po | 
+ | [da](/f36/language/da) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/da/ktp-send-file.po | 
+ | [de](/f36/language/de) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/de/ktp-send-file.po | 
+ | [el](/f36/language/el) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/el/ktp-send-file.po | 
+ | [en_GB](/f36/language/en_GB) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/en_GB/ktp-send-file.po | 
+ | [es](/f36/language/es) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/es/ktp-send-file.po | 
+ | [et](/f36/language/et) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/et/ktp-send-file.po | 
+ | [eu](/f36/language/eu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/eu/ktp-send-file.po | 
+ | [fi](/f36/language/fi) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/fi/ktp-send-file.po | 
+ | [fr](/f36/language/fr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/fr/ktp-send-file.po | 
+ | [gl](/f36/language/gl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/gl/ktp-send-file.po | 
+ | [hi](/f36/language/hi) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/hi/ktp-send-file.po | 
+ | [hu](/f36/language/hu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/hu/ktp-send-file.po | 
+ | [ia](/f36/language/ia) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ia/ktp-send-file.po | 
+ | [it](/f36/language/it) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/it/ktp-send-file.po | 
+ | [ka](/f36/language/ka) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ka/ktp-send-file.po | 
+ | [ko](/f36/language/ko) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ko/ktp-send-file.po | 
+ | [nl](/f36/language/nl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/nl/ktp-send-file.po | 
+ | [nn](/f36/language/nn) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/nn/ktp-send-file.po | 
+ | [pl](/f36/language/pl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pl/ktp-send-file.po | 
+ | [pt](/f36/language/pt) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pt/ktp-send-file.po | 
+ | [pt_BR](/f36/language/pt_BR) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pt_BR/ktp-send-file.po | 
+ | [ro](/f36/language/ro) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ro/ktp-send-file.po | 
+ | [ru](/f36/language/ru) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ru/ktp-send-file.po | 
+ | [sk](/f36/language/sk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sk/ktp-send-file.po | 
+ | [sl](/f36/language/sl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sl/ktp-send-file.po | 
+ | [sr](/f36/language/sr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr/ktp-send-file.po | 
+ | [sr@ijekavian](/f36/language/sr@ijekavian) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr@ijekavian/ktp-send-file.po | 
+ | [sr@ijekavian_Latn](/f36/language/sr@ijekavian_Latn) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr@ijekavianlatin/ktp-send-file.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sr@latin/ktp-send-file.po | 
+ | [sv](/f36/language/sv) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/sv/ktp-send-file.po | 
+ | [tr](/f36/language/tr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/tr/ktp-send-file.po | 
+ | [uk](/f36/language/uk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/uk/ktp-send-file.po | 
+ | [vi](/f36/language/vi) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/vi/ktp-send-file.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/zh_CN/ktp-send-file.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 60 | 60 | 100.0 | /mnt/stockage/packages/f36/ktp-send-file/po/zh_TW/ktp-send-file.po | 
+ | [kk](/f36/language/kk) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/kk/ktp-send-file.po | 
+ | [lt](/f36/language/lt) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/lt/ktp-send-file.po | 
+ | [nb_NO](/f36/language/nb_NO) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/nb/ktp-send-file.po | 
+ | [nds](/f36/language/nds) | 55 | 60 | 91.7 | /mnt/stockage/packages/f36/ktp-send-file/po/nds/ktp-send-file.po | 
+ | [ga](/f36/language/ga) | 33 | 60 | 55.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ga/ktp-send-file.po | 
+ | [km](/f36/language/km) | 33 | 60 | 55.0 | /mnt/stockage/packages/f36/ktp-send-file/po/km/ktp-send-file.po | 
+ | [mr](/f36/language/mr) | 21 | 60 | 35.0 | /mnt/stockage/packages/f36/ktp-send-file/po/mr/ktp-send-file.po | 
+ | [ug](/f36/language/ug) | 16 | 60 | 26.7 | /mnt/stockage/packages/f36/ktp-send-file/po/ug/ktp-send-file.po | 
+ | [pa](/f36/language/pa) | 9 | 60 | 15.0 | /mnt/stockage/packages/f36/ktp-send-file/po/pa/ktp-send-file.po | 
+ | [ja](/f36/language/ja) | 0 | 60 | 0.0 | /mnt/stockage/packages/f36/ktp-send-file/po/ja/ktp-send-file.po | 
 {.sortable}
 
 

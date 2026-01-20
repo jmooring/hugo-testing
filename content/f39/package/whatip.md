@@ -18,16 +18,16 @@ The package whatip (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f39/whatip/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f39/whatip/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/whatip/po/es.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f39/whatip/po/ka.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f39/whatip/po/nl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f39/whatip/po/pt_BR.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/whatip/po/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f39/whatip/po/sv.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 307 | 309 | 99.4 | /mnt/stockage/packages/f39/whatip/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 278 | 311 | 89.4 | /mnt/stockage/packages/f39/whatip/po/it.po | 
+ | [cs](/f39/language/cs) | 316 | 316 | 100.0 | /mnt/stockage/packages/f39/whatip/po/cs.po | 
+ | [de](/f39/language/de) | 316 | 316 | 100.0 | /mnt/stockage/packages/f39/whatip/po/de.po | 
+ | [es](/f39/language/es) | 303 | 303 | 100.0 | /mnt/stockage/packages/f39/whatip/po/es.po | 
+ | [ka](/f39/language/ka) | 275 | 275 | 100.0 | /mnt/stockage/packages/f39/whatip/po/ka.po | 
+ | [nl](/f39/language/nl) | 311 | 311 | 100.0 | /mnt/stockage/packages/f39/whatip/po/nl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 316 | 316 | 100.0 | /mnt/stockage/packages/f39/whatip/po/pt_BR.po | 
+ | [sk](/f39/language/sk) | 253 | 253 | 100.0 | /mnt/stockage/packages/f39/whatip/po/sk.po | 
+ | [sv](/f39/language/sv) | 222 | 222 | 100.0 | /mnt/stockage/packages/f39/whatip/po/sv.po | 
+ | [fr](/f39/language/fr) | 307 | 309 | 99.4 | /mnt/stockage/packages/f39/whatip/po/fr.po | 
+ | [it](/f39/language/it) | 278 | 311 | 89.4 | /mnt/stockage/packages/f39/whatip/po/it.po | 
 {.sortable}
 
 

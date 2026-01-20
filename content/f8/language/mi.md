@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mag]({{< ref "/f8/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Maori <maori@nzlinux.org.nz> | 
- | [gail]({{< ref "/f8/package/gail.md" >}}) | 51 | 170 | 30.0 | Māori <maori@nzlinux.org.nz> | 
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 1094 | 12092 | 9.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-desktop]({{< ref "/f8/package/gnome-desktop.md" >}}) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
- | [libgnomeui]({{< ref "/f8/package/libgnomeui.md" >}}) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
- | [epiphany]({{< ref "/f8/package/epiphany.md" >}}) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [nautilus]({{< ref "/f8/package/nautilus.md" >}}) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gedit]({{< ref "/f8/package/gedit.md" >}}) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-session]({{< ref "/f8/package/gnome-session.md" >}}) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 81 | 18216 | 0.4 | Maori <james.gasson@clear.net.nz> | 
- | [gnome-panel]({{< ref "/f8/package/gnome-panel.md" >}}) | 9 | 3937 | 0.2 | Māori <maori@nzlinux.org.nz> | 
- | [gdm]({{< ref "/f8/package/gdm.md" >}}) | 10 | 5290 | 0.2 | Maori <maori@nzlinux.org.nz> | 
- | [gucharmap]({{< ref "/f8/package/gucharmap.md" >}}) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libgtop2]({{< ref "/f8/package/libgtop2.md" >}}) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libwnck]({{< ref "/f8/package/libwnck.md" >}}) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [vte]({{< ref "/f8/package/vte.md" >}}) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [zenity]({{< ref "/f8/package/zenity.md" >}}) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [gnome-mag](/f8/package/gnome-mag) | 5 | 5 | 100.0 | Maori <maori@nzlinux.org.nz> | 
+ | [gail](/f8/package/gail) | 51 | 170 | 30.0 | Māori <maori@nzlinux.org.nz> | 
+ | [gtk2](/f8/package/gtk2) | 1094 | 12092 | 9.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-desktop](/f8/package/gnome-desktop) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
+ | [libgnomeui](/f8/package/libgnomeui) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
+ | [epiphany](/f8/package/epiphany) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [nautilus](/f8/package/nautilus) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gedit](/f8/package/gedit) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-session](/f8/package/gnome-session) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
+ | [iso-codes](/f8/package/iso-codes) | 81 | 18216 | 0.4 | Maori <james.gasson@clear.net.nz> | 
+ | [gnome-panel](/f8/package/gnome-panel) | 9 | 3937 | 0.2 | Māori <maori@nzlinux.org.nz> | 
+ | [gdm](/f8/package/gdm) | 10 | 5290 | 0.2 | Maori <maori@nzlinux.org.nz> | 
+ | [gucharmap](/f8/package/gucharmap) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libgtop2](/f8/package/libgtop2) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libwnck](/f8/package/libwnck) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [vte](/f8/package/vte) | 0 | 96 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [zenity](/f8/package/zenity) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
 {.sortable}
 
 

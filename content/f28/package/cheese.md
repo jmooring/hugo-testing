@@ -18,92 +18,92 @@ The package cheese (version 3.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f28/language/af.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/af.po | 
- | [an]({{< ref "/f28/language/an.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/an.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/as.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/be.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bg.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bn.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bn_IN.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bs.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2266 | 2266 | 100.0 | /mnt/stockage/packages/f28/cheese/help/ca/ca.po/mnt/stockage/packages/f28/cheese/po/ca.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ca@valencia.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/cs/cs.po/mnt/stockage/packages/f28/cheese/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/de/de.po/mnt/stockage/packages/f28/cheese/po/de.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f28/cheese/po/dz.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/el/el.po/mnt/stockage/packages/f28/cheese/po/el.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/en_GB.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/eo.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/es/es.po/mnt/stockage/packages/f28/cheese/po/es.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/eu.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/fa.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/fr/fr.po/mnt/stockage/packages/f28/cheese/po/fr.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/fur.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/gl/gl.po/mnt/stockage/packages/f28/cheese/po/gl.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/gu.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/he.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/hi.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/hu/hu.po/mnt/stockage/packages/f28/cheese/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/id/id.po/mnt/stockage/packages/f28/cheese/po/id.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/is.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ja.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ka.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/kk.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f28/cheese/po/km.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/kn.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/ko/ko.po/mnt/stockage/packages/f28/cheese/po/ko.po | 
- | [ky]({{< ref "/f28/language/ky.md" >}}) | 576 | 576 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ky.po | 
- | [lo]({{< ref "/f28/language/lo.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/lo.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/lv.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f28/cheese/po/mk.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ml.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/mr.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/nb.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ne.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/nl/nl.po/mnt/stockage/packages/f28/cheese/po/nl.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 530 | 530 | 100.0 | /mnt/stockage/packages/f28/cheese/po/nn.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/oc.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/or.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/pl/pl.po/mnt/stockage/packages/f28/cheese/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/pt_BR/pt_BR.po/mnt/stockage/packages/f28/cheese/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ro.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 2319 | 2319 | 100.0 | /mnt/stockage/packages/f28/cheese/help/ru/ru.po/mnt/stockage/packages/f28/cheese/po/ru.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/sk.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2321 | 2321 | 100.0 | /mnt/stockage/packages/f28/cheese/help/sl/sl.po/mnt/stockage/packages/f28/cheese/po/sl.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f28/cheese/po/sq.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f28/cheese/po/sr.po/mnt/stockage/packages/f28/cheese/po/sr@latin.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/sv/sv.po/mnt/stockage/packages/f28/cheese/po/sv.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/te.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/tg.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/th.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/tr.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 574 | 574 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ug.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/vi.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 630 | 630 | 100.0 | /mnt/stockage/packages/f28/cheese/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2279 | 2294 | 99.3 | /mnt/stockage/packages/f28/cheese/help/zh_CN/zh_CN.po/mnt/stockage/packages/f28/cheese/po/zh_CN.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 538 | 550 | 97.8 | /mnt/stockage/packages/f28/cheese/po/ast.po | 
- | [error]({{< ref "/f28/language/error.md" >}}) | 592 | 651 | 90.9 | /mnt/stockage/packages/f28/cheese/po/en@shaw.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 532 | 614 | 86.6 | /mnt/stockage/packages/f28/cheese/po/et.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 530 | 614 | 86.3 | /mnt/stockage/packages/f28/cheese/po/ar.po | 
- | [ps]({{< ref "/f28/language/ps.md" >}}) | 333 | 389 | 85.6 | /mnt/stockage/packages/f28/cheese/po/ps.po | 
- | [be_Latn]({{< ref "/f28/language/be_Latn.md" >}}) | 412 | 527 | 78.2 | /mnt/stockage/packages/f28/cheese/po/be@latin.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 398 | 526 | 75.7 | /mnt/stockage/packages/f28/cheese/po/ku.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1491 | 2083 | 71.6 | /mnt/stockage/packages/f28/cheese/help/fi/fi.po/mnt/stockage/packages/f28/cheese/po/fi.po | 
- | [zu]({{< ref "/f28/language/zu.md" >}}) | 185 | 294 | 62.9 | /mnt/stockage/packages/f28/cheese/po/zu.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 372 | 651 | 57.1 | /mnt/stockage/packages/f28/cheese/po/ms.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 238 | 555 | 42.9 | /mnt/stockage/packages/f28/cheese/po/ga.po | 
- | [xh]({{< ref "/f28/language/xh.md" >}}) | 193 | 504 | 38.3 | /mnt/stockage/packages/f28/cheese/po/xh.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 146 | 659 | 22.2 | /mnt/stockage/packages/f28/cheese/po/mai.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 104 | 660 | 15.8 | /mnt/stockage/packages/f28/cheese/po/nds.po | 
+ | [af](/f28/language/af) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/af.po | 
+ | [an](/f28/language/an) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/an.po | 
+ | [as](/f28/language/as) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/as.po | 
+ | [be](/f28/language/be) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/be.po | 
+ | [bg](/f28/language/bg) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bg.po | 
+ | [bn](/f28/language/bn) | 651 | 651 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bn.po | 
+ | [bn_IN](/f28/language/bn_IN) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bn_IN.po | 
+ | [bs](/f28/language/bs) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/bs.po | 
+ | [ca](/f28/language/ca) | 2266 | 2266 | 100.0 | /mnt/stockage/packages/f28/cheese/help/ca/ca.po/mnt/stockage/packages/f28/cheese/po/ca.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ca@valencia.po | 
+ | [cs](/f28/language/cs) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/cs/cs.po/mnt/stockage/packages/f28/cheese/po/cs.po | 
+ | [da](/f28/language/da) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/da.po | 
+ | [de](/f28/language/de) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/de/de.po/mnt/stockage/packages/f28/cheese/po/de.po | 
+ | [dz](/f28/language/dz) | 304 | 304 | 100.0 | /mnt/stockage/packages/f28/cheese/po/dz.po | 
+ | [el](/f28/language/el) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/el/el.po/mnt/stockage/packages/f28/cheese/po/el.po | 
+ | [en_GB](/f28/language/en_GB) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/en_GB.po | 
+ | [eo](/f28/language/eo) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/eo.po | 
+ | [es](/f28/language/es) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/es/es.po/mnt/stockage/packages/f28/cheese/po/es.po | 
+ | [eu](/f28/language/eu) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/eu.po | 
+ | [fa](/f28/language/fa) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/fa.po | 
+ | [fr](/f28/language/fr) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/fr/fr.po/mnt/stockage/packages/f28/cheese/po/fr.po | 
+ | [fur](/f28/language/fur) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/fur.po | 
+ | [gl](/f28/language/gl) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/gl/gl.po/mnt/stockage/packages/f28/cheese/po/gl.po | 
+ | [gu](/f28/language/gu) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/gu.po | 
+ | [he](/f28/language/he) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/he.po | 
+ | [hi](/f28/language/hi) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/hi.po | 
+ | [hr](/f28/language/hr) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/hr.po | 
+ | [hu](/f28/language/hu) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/hu/hu.po/mnt/stockage/packages/f28/cheese/po/hu.po | 
+ | [id](/f28/language/id) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/id/id.po/mnt/stockage/packages/f28/cheese/po/id.po | 
+ | [is](/f28/language/is) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/is.po | 
+ | [it](/f28/language/it) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/it.po | 
+ | [ja](/f28/language/ja) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ja.po | 
+ | [ka](/f28/language/ka) | 651 | 651 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ka.po | 
+ | [kk](/f28/language/kk) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/kk.po | 
+ | [km](/f28/language/km) | 550 | 550 | 100.0 | /mnt/stockage/packages/f28/cheese/po/km.po | 
+ | [kn](/f28/language/kn) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/kn.po | 
+ | [ko](/f28/language/ko) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/ko/ko.po/mnt/stockage/packages/f28/cheese/po/ko.po | 
+ | [ky](/f28/language/ky) | 576 | 576 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ky.po | 
+ | [lo](/f28/language/lo) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/lo.po | 
+ | [lt](/f28/language/lt) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/lt.po | 
+ | [lv](/f28/language/lv) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/lv.po | 
+ | [mk](/f28/language/mk) | 550 | 550 | 100.0 | /mnt/stockage/packages/f28/cheese/po/mk.po | 
+ | [ml](/f28/language/ml) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ml.po | 
+ | [mr](/f28/language/mr) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/mr.po | 
+ | [nb_NO](/f28/language/nb_NO) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/nb.po | 
+ | [ne](/f28/language/ne) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ne.po | 
+ | [nl](/f28/language/nl) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/nl/nl.po/mnt/stockage/packages/f28/cheese/po/nl.po | 
+ | [nn](/f28/language/nn) | 530 | 530 | 100.0 | /mnt/stockage/packages/f28/cheese/po/nn.po | 
+ | [oc](/f28/language/oc) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/oc.po | 
+ | [or](/f28/language/or) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/or.po | 
+ | [pa](/f28/language/pa) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/pa.po | 
+ | [pl](/f28/language/pl) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/pl/pl.po/mnt/stockage/packages/f28/cheese/po/pl.po | 
+ | [pt](/f28/language/pt) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/pt_BR/pt_BR.po/mnt/stockage/packages/f28/cheese/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ro.po | 
+ | [ru](/f28/language/ru) | 2319 | 2319 | 100.0 | /mnt/stockage/packages/f28/cheese/help/ru/ru.po/mnt/stockage/packages/f28/cheese/po/ru.po | 
+ | [sk](/f28/language/sk) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/sk.po | 
+ | [sl](/f28/language/sl) | 2321 | 2321 | 100.0 | /mnt/stockage/packages/f28/cheese/help/sl/sl.po/mnt/stockage/packages/f28/cheese/po/sl.po | 
+ | [sq](/f28/language/sq) | 527 | 527 | 100.0 | /mnt/stockage/packages/f28/cheese/po/sq.po | 
+ | [sr](/f28/language/sr) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f28/cheese/po/sr.po/mnt/stockage/packages/f28/cheese/po/sr@latin.po | 
+ | [sv](/f28/language/sv) | 2086 | 2086 | 100.0 | /mnt/stockage/packages/f28/cheese/help/sv/sv.po/mnt/stockage/packages/f28/cheese/po/sv.po | 
+ | [ta](/f28/language/ta) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ta.po | 
+ | [te](/f28/language/te) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/te.po | 
+ | [tg](/f28/language/tg) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/cheese/po/tg.po | 
+ | [th](/f28/language/th) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/th.po | 
+ | [tr](/f28/language/tr) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/tr.po | 
+ | [ug](/f28/language/ug) | 574 | 574 | 100.0 | /mnt/stockage/packages/f28/cheese/po/ug.po | 
+ | [uk](/f28/language/uk) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/uk.po | 
+ | [vi](/f28/language/vi) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/vi.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 614 | 614 | 100.0 | /mnt/stockage/packages/f28/cheese/po/zh_TW.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 630 | 630 | 100.0 | /mnt/stockage/packages/f28/cheese/po/zh_HK.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2279 | 2294 | 99.3 | /mnt/stockage/packages/f28/cheese/help/zh_CN/zh_CN.po/mnt/stockage/packages/f28/cheese/po/zh_CN.po | 
+ | [ast](/f28/language/ast) | 538 | 550 | 97.8 | /mnt/stockage/packages/f28/cheese/po/ast.po | 
+ | [error](/f28/language/error) | 592 | 651 | 90.9 | /mnt/stockage/packages/f28/cheese/po/en@shaw.po | 
+ | [et](/f28/language/et) | 532 | 614 | 86.6 | /mnt/stockage/packages/f28/cheese/po/et.po | 
+ | [ar](/f28/language/ar) | 530 | 614 | 86.3 | /mnt/stockage/packages/f28/cheese/po/ar.po | 
+ | [ps](/f28/language/ps) | 333 | 389 | 85.6 | /mnt/stockage/packages/f28/cheese/po/ps.po | 
+ | [be_Latn](/f28/language/be_Latn) | 412 | 527 | 78.2 | /mnt/stockage/packages/f28/cheese/po/be@latin.po | 
+ | [ku](/f28/language/ku) | 398 | 526 | 75.7 | /mnt/stockage/packages/f28/cheese/po/ku.po | 
+ | [fi](/f28/language/fi) | 1491 | 2083 | 71.6 | /mnt/stockage/packages/f28/cheese/help/fi/fi.po/mnt/stockage/packages/f28/cheese/po/fi.po | 
+ | [zu](/f28/language/zu) | 185 | 294 | 62.9 | /mnt/stockage/packages/f28/cheese/po/zu.po | 
+ | [ms](/f28/language/ms) | 372 | 651 | 57.1 | /mnt/stockage/packages/f28/cheese/po/ms.po | 
+ | [ga](/f28/language/ga) | 238 | 555 | 42.9 | /mnt/stockage/packages/f28/cheese/po/ga.po | 
+ | [xh](/f28/language/xh) | 193 | 504 | 38.3 | /mnt/stockage/packages/f28/cheese/po/xh.po | 
+ | [mai](/f28/language/mai) | 146 | 659 | 22.2 | /mnt/stockage/packages/f28/cheese/po/mai.po | 
+ | [nds](/f28/language/nds) | 104 | 660 | 15.8 | /mnt/stockage/packages/f28/cheese/po/nds.po | 
 {.sortable}
 
 

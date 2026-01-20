@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-physics]({{< ref "/f13/package/sugar-physics.md" >}}) | 1 | 22 | 4.5 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f13/package/sugar-browse.md" >}}) | 1 | 53 | 1.9 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f13/package/sugar-toolkit.md" >}}) | 1 | 78 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f13/package/sugar.md" >}}) | 1 | 925 | 0.1 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f13/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f13/package/sugar-chat.md" >}}) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f13/package/sugar-imageviewer.md" >}}) | 0 | 25 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f13/package/sugar-jukebox.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f13/package/sugar-log.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f13/package/sugar-turtleart.md" >}}) | 0 | 127 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f13/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f13/package/sugar-write.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f13/package/sugar-physics) | 1 | 22 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f13/package/sugar-browse) | 1 | 53 | 1.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f13/package/sugar-toolkit) | 1 | 78 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f13/package/sugar) | 1 | 925 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f13/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f13/package/sugar-chat) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f13/package/sugar-imageviewer) | 0 | 25 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f13/package/sugar-jukebox) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f13/package/sugar-log) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f13/package/sugar-turtleart) | 0 | 127 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f13/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f13/package/sugar-write) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

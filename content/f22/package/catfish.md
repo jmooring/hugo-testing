@@ -18,34 +18,34 @@ The package catfish (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/cs.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/it.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/nl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/pt_BR.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 487 | 512 | 95.1 | /mnt/stockage/packages/f22/catfish/po/ja.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 368 | 512 | 71.9 | /mnt/stockage/packages/f22/catfish/po/de.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 368 | 512 | 71.9 | /mnt/stockage/packages/f22/catfish/po/fi.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 330 | 512 | 64.5 | /mnt/stockage/packages/f22/catfish/po/es.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 274 | 512 | 53.5 | /mnt/stockage/packages/f22/catfish/po/pl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 188 | 512 | 36.7 | /mnt/stockage/packages/f22/catfish/po/ru.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 188 | 512 | 36.7 | /mnt/stockage/packages/f22/catfish/po/si.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 188 | 512 | 36.7 | /mnt/stockage/packages/f22/catfish/po/sr.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 175 | 512 | 34.2 | /mnt/stockage/packages/f22/catfish/po/en_AU.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 175 | 512 | 34.2 | /mnt/stockage/packages/f22/catfish/po/zh_TW.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 171 | 512 | 33.4 | /mnt/stockage/packages/f22/catfish/po/lv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 171 | 512 | 33.4 | /mnt/stockage/packages/f22/catfish/po/tr.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 165 | 512 | 32.2 | /mnt/stockage/packages/f22/catfish/po/ca.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 149 | 512 | 29.1 | /mnt/stockage/packages/f22/catfish/po/sk.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 100 | 512 | 19.5 | /mnt/stockage/packages/f22/catfish/po/bg.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 91 | 512 | 17.8 | /mnt/stockage/packages/f22/catfish/po/ko.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 174 | 1024 | 17.0 | /mnt/stockage/packages/f22/catfish/po/uk.po/mnt/stockage/packages/f22/catfish/po/hu.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 73 | 512 | 14.3 | /mnt/stockage/packages/f22/catfish/po/el.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 46 | 512 | 9.0 | /mnt/stockage/packages/f22/catfish/po/id.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 25 | 512 | 4.9 | /mnt/stockage/packages/f22/catfish/po/be.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 12 | 512 | 2.3 | /mnt/stockage/packages/f22/catfish/po/eu.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 2 | 512 | 0.4 | /mnt/stockage/packages/f22/catfish/po/ml.po | 
+ | [cs](/f22/language/cs) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/cs.po | 
+ | [fr](/f22/language/fr) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/fr.po | 
+ | [it](/f22/language/it) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/it.po | 
+ | [nl](/f22/language/nl) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/nl.po | 
+ | [pt](/f22/language/pt) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 512 | 512 | 100.0 | /mnt/stockage/packages/f22/catfish/po/pt_BR.po | 
+ | [ja](/f22/language/ja) | 487 | 512 | 95.1 | /mnt/stockage/packages/f22/catfish/po/ja.po | 
+ | [de](/f22/language/de) | 368 | 512 | 71.9 | /mnt/stockage/packages/f22/catfish/po/de.po | 
+ | [fi](/f22/language/fi) | 368 | 512 | 71.9 | /mnt/stockage/packages/f22/catfish/po/fi.po | 
+ | [es](/f22/language/es) | 330 | 512 | 64.5 | /mnt/stockage/packages/f22/catfish/po/es.po | 
+ | [pl](/f22/language/pl) | 274 | 512 | 53.5 | /mnt/stockage/packages/f22/catfish/po/pl.po | 
+ | [ru](/f22/language/ru) | 188 | 512 | 36.7 | /mnt/stockage/packages/f22/catfish/po/ru.po | 
+ | [si](/f22/language/si) | 188 | 512 | 36.7 | /mnt/stockage/packages/f22/catfish/po/si.po | 
+ | [sr](/f22/language/sr) | 188 | 512 | 36.7 | /mnt/stockage/packages/f22/catfish/po/sr.po | 
+ | [en_AU](/f22/language/en_AU) | 175 | 512 | 34.2 | /mnt/stockage/packages/f22/catfish/po/en_AU.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 175 | 512 | 34.2 | /mnt/stockage/packages/f22/catfish/po/zh_TW.po | 
+ | [lv](/f22/language/lv) | 171 | 512 | 33.4 | /mnt/stockage/packages/f22/catfish/po/lv.po | 
+ | [tr](/f22/language/tr) | 171 | 512 | 33.4 | /mnt/stockage/packages/f22/catfish/po/tr.po | 
+ | [ca](/f22/language/ca) | 165 | 512 | 32.2 | /mnt/stockage/packages/f22/catfish/po/ca.po | 
+ | [sk](/f22/language/sk) | 149 | 512 | 29.1 | /mnt/stockage/packages/f22/catfish/po/sk.po | 
+ | [bg](/f22/language/bg) | 100 | 512 | 19.5 | /mnt/stockage/packages/f22/catfish/po/bg.po | 
+ | [ko](/f22/language/ko) | 91 | 512 | 17.8 | /mnt/stockage/packages/f22/catfish/po/ko.po | 
+ | [uk](/f22/language/uk) | 174 | 1024 | 17.0 | /mnt/stockage/packages/f22/catfish/po/uk.po/mnt/stockage/packages/f22/catfish/po/hu.po | 
+ | [el](/f22/language/el) | 73 | 512 | 14.3 | /mnt/stockage/packages/f22/catfish/po/el.po | 
+ | [id](/f22/language/id) | 46 | 512 | 9.0 | /mnt/stockage/packages/f22/catfish/po/id.po | 
+ | [be](/f22/language/be) | 25 | 512 | 4.9 | /mnt/stockage/packages/f22/catfish/po/be.po | 
+ | [eu](/f22/language/eu) | 12 | 512 | 2.3 | /mnt/stockage/packages/f22/catfish/po/eu.po | 
+ | [ml](/f22/language/ml) | 2 | 512 | 0.4 | /mnt/stockage/packages/f22/catfish/po/ml.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package trustedqsl (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/de/tqslapp.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/es/tqslapp.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/fr/tqslapp.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/it/tqslapp.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/ja/tqslapp.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/ru/tqslapp.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/zh/tqslapp.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 3999 | 4004 | 99.9 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/pt/tqslapp.po | 
+ | [de](/f23/language/de) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/de/tqslapp.po | 
+ | [es](/f23/language/es) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/es/tqslapp.po | 
+ | [fr](/f23/language/fr) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/fr/tqslapp.po | 
+ | [it](/f23/language/it) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/it/tqslapp.po | 
+ | [ja](/f23/language/ja) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/ja/tqslapp.po | 
+ | [ru](/f23/language/ru) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/ru/tqslapp.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/zh/tqslapp.po | 
+ | [pt](/f23/language/pt) | 3999 | 4004 | 99.9 | /mnt/stockage/packages/f23/trustedqsl/apps/lang/pt/tqslapp.po | 
 {.sortable}
 
 

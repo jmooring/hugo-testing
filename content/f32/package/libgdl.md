@@ -18,80 +18,80 @@ The package libgdl (version 3.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ast.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/bn.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/bs.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ca@valencia.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/de.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/dz.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/el.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/en_CA.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/he.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/it.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/lv.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/mk.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/mr.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/nl.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 600 | 600 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/oc.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1318 | 1318 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sr@latin.po/mnt/stockage/packages/f32/libgdl/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sv.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/tr.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ug.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 611 | 611 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/zh_HK.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 591 | 592 | 99.8 | /mnt/stockage/packages/f32/libgdl/po/km.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 664 | 677 | 98.1 | /mnt/stockage/packages/f32/libgdl/po/az.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 588 | 604 | 97.4 | /mnt/stockage/packages/f32/libgdl/po/ja.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 639 | 659 | 97.0 | /mnt/stockage/packages/f32/libgdl/po/ca.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 637 | 659 | 96.7 | /mnt/stockage/packages/f32/libgdl/po/nb.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 529 | 602 | 87.9 | /mnt/stockage/packages/f32/libgdl/po/hr.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 497 | 659 | 75.4 | /mnt/stockage/packages/f32/libgdl/po/eo.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 409 | 604 | 67.7 | /mnt/stockage/packages/f32/libgdl/po/en@shaw.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 239 | 602 | 39.7 | /mnt/stockage/packages/f32/libgdl/po/gu.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 211 | 602 | 35.0 | /mnt/stockage/packages/f32/libgdl/po/or.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 223 | 685 | 32.6 | /mnt/stockage/packages/f32/libgdl/po/sk.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 187 | 604 | 31.0 | /mnt/stockage/packages/f32/libgdl/po/et.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 160 | 612 | 26.1 | /mnt/stockage/packages/f32/libgdl/po/si.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 161 | 685 | 23.5 | /mnt/stockage/packages/f32/libgdl/po/pa.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 141 | 613 | 23.0 | /mnt/stockage/packages/f32/libgdl/po/hi.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 48 | 611 | 7.9 | /mnt/stockage/packages/f32/libgdl/po/ps.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 45 | 685 | 6.6 | /mnt/stockage/packages/f32/libgdl/po/am.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 44 | 677 | 6.5 | /mnt/stockage/packages/f32/libgdl/po/ga.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 43 | 685 | 6.3 | /mnt/stockage/packages/f32/libgdl/po/ml.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 28 | 600 | 4.7 | /mnt/stockage/packages/f32/libgdl/po/mai.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 26 | 639 | 4.1 | /mnt/stockage/packages/f32/libgdl/po/tg.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 21 | 686 | 3.1 | /mnt/stockage/packages/f32/libgdl/po/rw.po | 
+ | [ar](/f32/language/ar) | 602 | 602 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ar.po | 
+ | [as](/f32/language/as) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/as.po | 
+ | [ast](/f32/language/ast) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ast.po | 
+ | [be](/f32/language/be) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/be.po | 
+ | [bg](/f32/language/bg) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/bg.po | 
+ | [bn](/f32/language/bn) | 600 | 600 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/bn.po | 
+ | [bs](/f32/language/bs) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/bs.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 639 | 639 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ca@valencia.po | 
+ | [cs](/f32/language/cs) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/cs.po | 
+ | [da](/f32/language/da) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/da.po | 
+ | [de](/f32/language/de) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/de.po | 
+ | [dz](/f32/language/dz) | 612 | 612 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/dz.po | 
+ | [el](/f32/language/el) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/el.po | 
+ | [en_CA](/f32/language/en_CA) | 686 | 686 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/en_CA.po | 
+ | [en_GB](/f32/language/en_GB) | 639 | 639 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/en_GB.po | 
+ | [es](/f32/language/es) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/es.po | 
+ | [eu](/f32/language/eu) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/eu.po | 
+ | [fi](/f32/language/fi) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/fi.po | 
+ | [fr](/f32/language/fr) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/fr.po | 
+ | [fur](/f32/language/fur) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/fur.po | 
+ | [gl](/f32/language/gl) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/gl.po | 
+ | [he](/f32/language/he) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/he.po | 
+ | [hu](/f32/language/hu) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/hu.po | 
+ | [hy](/f32/language/hy) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/hy.po | 
+ | [id](/f32/language/id) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/id.po | 
+ | [it](/f32/language/it) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/it.po | 
+ | [ko](/f32/language/ko) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ko.po | 
+ | [lt](/f32/language/lt) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/lt.po | 
+ | [lv](/f32/language/lv) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/lv.po | 
+ | [mk](/f32/language/mk) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/mk.po | 
+ | [mr](/f32/language/mr) | 611 | 611 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/mr.po | 
+ | [ne](/f32/language/ne) | 612 | 612 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ne.po | 
+ | [nl](/f32/language/nl) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/nl.po | 
+ | [oc](/f32/language/oc) | 600 | 600 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/oc.po | 
+ | [pl](/f32/language/pl) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/pl.po | 
+ | [pt](/f32/language/pt) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ro.po | 
+ | [ru](/f32/language/ru) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ru.po | 
+ | [sl](/f32/language/sl) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sl.po | 
+ | [sq](/f32/language/sq) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sq.po | 
+ | [sr](/f32/language/sr) | 1318 | 1318 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sr@latin.po/mnt/stockage/packages/f32/libgdl/po/sr.po | 
+ | [sv](/f32/language/sv) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/sv.po | 
+ | [te](/f32/language/te) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/te.po | 
+ | [th](/f32/language/th) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/th.po | 
+ | [tr](/f32/language/tr) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/tr.po | 
+ | [ug](/f32/language/ug) | 604 | 604 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/ug.po | 
+ | [uk](/f32/language/uk) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/uk.po | 
+ | [vi](/f32/language/vi) | 611 | 611 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 659 | 659 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 592 | 592 | 100.0 | /mnt/stockage/packages/f32/libgdl/po/zh_HK.po | 
+ | [km](/f32/language/km) | 591 | 592 | 99.8 | /mnt/stockage/packages/f32/libgdl/po/km.po | 
+ | [az](/f32/language/az) | 664 | 677 | 98.1 | /mnt/stockage/packages/f32/libgdl/po/az.po | 
+ | [ja](/f32/language/ja) | 588 | 604 | 97.4 | /mnt/stockage/packages/f32/libgdl/po/ja.po | 
+ | [ca](/f32/language/ca) | 639 | 659 | 97.0 | /mnt/stockage/packages/f32/libgdl/po/ca.po | 
+ | [nb_NO](/f32/language/nb_NO) | 637 | 659 | 96.7 | /mnt/stockage/packages/f32/libgdl/po/nb.po | 
+ | [hr](/f32/language/hr) | 529 | 602 | 87.9 | /mnt/stockage/packages/f32/libgdl/po/hr.po | 
+ | [eo](/f32/language/eo) | 497 | 659 | 75.4 | /mnt/stockage/packages/f32/libgdl/po/eo.po | 
+ | [error](/f32/language/error) | 409 | 604 | 67.7 | /mnt/stockage/packages/f32/libgdl/po/en@shaw.po | 
+ | [gu](/f32/language/gu) | 239 | 602 | 39.7 | /mnt/stockage/packages/f32/libgdl/po/gu.po | 
+ | [or](/f32/language/or) | 211 | 602 | 35.0 | /mnt/stockage/packages/f32/libgdl/po/or.po | 
+ | [sk](/f32/language/sk) | 223 | 685 | 32.6 | /mnt/stockage/packages/f32/libgdl/po/sk.po | 
+ | [et](/f32/language/et) | 187 | 604 | 31.0 | /mnt/stockage/packages/f32/libgdl/po/et.po | 
+ | [si](/f32/language/si) | 160 | 612 | 26.1 | /mnt/stockage/packages/f32/libgdl/po/si.po | 
+ | [pa](/f32/language/pa) | 161 | 685 | 23.5 | /mnt/stockage/packages/f32/libgdl/po/pa.po | 
+ | [hi](/f32/language/hi) | 141 | 613 | 23.0 | /mnt/stockage/packages/f32/libgdl/po/hi.po | 
+ | [ps](/f32/language/ps) | 48 | 611 | 7.9 | /mnt/stockage/packages/f32/libgdl/po/ps.po | 
+ | [am](/f32/language/am) | 45 | 685 | 6.6 | /mnt/stockage/packages/f32/libgdl/po/am.po | 
+ | [ga](/f32/language/ga) | 44 | 677 | 6.5 | /mnt/stockage/packages/f32/libgdl/po/ga.po | 
+ | [ml](/f32/language/ml) | 43 | 685 | 6.3 | /mnt/stockage/packages/f32/libgdl/po/ml.po | 
+ | [mai](/f32/language/mai) | 28 | 600 | 4.7 | /mnt/stockage/packages/f32/libgdl/po/mai.po | 
+ | [tg](/f32/language/tg) | 26 | 639 | 4.1 | /mnt/stockage/packages/f32/libgdl/po/tg.po | 
+ | [rw](/f32/language/rw) | 21 | 686 | 3.1 | /mnt/stockage/packages/f32/libgdl/po/rw.po | 
 {.sortable}
 
 

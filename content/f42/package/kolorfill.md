@@ -18,36 +18,36 @@ The package kolorfill (version 0^20231224fe74b68f):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ar/kolorfill_qt.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ca/kolorfill_qt.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ca@valencia/kolorfill_qt.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/de/kolorfill_qt.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/el/kolorfill_qt.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/en_GB/kolorfill_qt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/es/kolorfill_qt.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/eu/kolorfill_qt.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/fi/kolorfill_qt.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/fr/kolorfill_qt.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/gl/kolorfill_qt.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/hi/kolorfill_qt.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/it/kolorfill_qt.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ka/kolorfill_qt.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ko/kolorfill_qt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/nl/kolorfill_qt.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/nn/kolorfill_qt.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/pl/kolorfill_qt.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/pt/kolorfill_qt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/pt_BR/kolorfill_qt.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/sl/kolorfill_qt.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/sv/kolorfill_qt.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/tr/kolorfill_qt.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/uk/kolorfill_qt.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/zh_CN/kolorfill_qt.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/zh_TW/kolorfill_qt.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 9 | 60 | 15.0 | /mnt/stockage/packages/f42/kolorfill/poqm/cs/kolorfill_qt.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 7 | 60 | 11.7 | /mnt/stockage/packages/f42/kolorfill/poqm/sk/kolorfill_qt.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ja/kolorfill_qt.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f42/kolorfill/poqm/lt/kolorfill_qt.po | 
+ | [ar](/f42/language/ar) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ar/kolorfill_qt.po | 
+ | [ca](/f42/language/ca) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ca/kolorfill_qt.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ca@valencia/kolorfill_qt.po | 
+ | [de](/f42/language/de) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/de/kolorfill_qt.po | 
+ | [el](/f42/language/el) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/el/kolorfill_qt.po | 
+ | [en_GB](/f42/language/en_GB) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/en_GB/kolorfill_qt.po | 
+ | [es](/f42/language/es) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/es/kolorfill_qt.po | 
+ | [eu](/f42/language/eu) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/eu/kolorfill_qt.po | 
+ | [fi](/f42/language/fi) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/fi/kolorfill_qt.po | 
+ | [fr](/f42/language/fr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/fr/kolorfill_qt.po | 
+ | [gl](/f42/language/gl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/gl/kolorfill_qt.po | 
+ | [hi](/f42/language/hi) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/hi/kolorfill_qt.po | 
+ | [it](/f42/language/it) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/it/kolorfill_qt.po | 
+ | [ka](/f42/language/ka) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ka/kolorfill_qt.po | 
+ | [ko](/f42/language/ko) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ko/kolorfill_qt.po | 
+ | [nl](/f42/language/nl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/nl/kolorfill_qt.po | 
+ | [nn](/f42/language/nn) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/nn/kolorfill_qt.po | 
+ | [pl](/f42/language/pl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/pl/kolorfill_qt.po | 
+ | [pt](/f42/language/pt) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/pt/kolorfill_qt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/pt_BR/kolorfill_qt.po | 
+ | [sl](/f42/language/sl) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/sl/kolorfill_qt.po | 
+ | [sv](/f42/language/sv) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/sv/kolorfill_qt.po | 
+ | [tr](/f42/language/tr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/tr/kolorfill_qt.po | 
+ | [uk](/f42/language/uk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/uk/kolorfill_qt.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/zh_CN/kolorfill_qt.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 60 | 60 | 100.0 | /mnt/stockage/packages/f42/kolorfill/poqm/zh_TW/kolorfill_qt.po | 
+ | [cs](/f42/language/cs) | 9 | 60 | 15.0 | /mnt/stockage/packages/f42/kolorfill/poqm/cs/kolorfill_qt.po | 
+ | [sk](/f42/language/sk) | 7 | 60 | 11.7 | /mnt/stockage/packages/f42/kolorfill/poqm/sk/kolorfill_qt.po | 
+ | [ja](/f42/language/ja) | 0 | 60 | 0.0 | /mnt/stockage/packages/f42/kolorfill/poqm/ja/kolorfill_qt.po | 
+ | [lt](/f42/language/lt) | 0 | 60 | 0.0 | /mnt/stockage/packages/f42/kolorfill/poqm/lt/kolorfill_qt.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package gnome-chemistry-utils (version 0.10.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 4007 | 4007 | 100.0 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 4007 | 4007 | 100.0 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/pl.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 3691 | 3912 | 94.4 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/de.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 3106 | 4021 | 77.2 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 1588 | 4007 | 39.6 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/zh_TW.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1435 | 4021 | 35.7 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/it.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 804 | 4021 | 20.0 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/ru.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 578 | 4021 | 14.4 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/zh_CN.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 114 | 4021 | 2.8 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/es.po | 
+ | [fr](/f10/language/fr) | 4007 | 4007 | 100.0 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/fr.po | 
+ | [pl](/f10/language/pl) | 4007 | 4007 | 100.0 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/pl.po | 
+ | [de](/f10/language/de) | 3691 | 3912 | 94.4 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/de.po | 
+ | [pt_BR](/f10/language/pt_BR) | 3106 | 4021 | 77.2 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/pt_BR.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 1588 | 4007 | 39.6 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/zh_TW.po | 
+ | [it](/f10/language/it) | 1435 | 4021 | 35.7 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/it.po | 
+ | [ru](/f10/language/ru) | 804 | 4021 | 20.0 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/ru.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 578 | 4021 | 14.4 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/zh_CN.po | 
+ | [es](/f10/language/es) | 114 | 4021 | 2.8 | /mnt/stockage/packages/f10/gnome-chemistry-utils/po/es.po | 
 {.sortable}
 
 

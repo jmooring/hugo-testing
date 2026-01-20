@@ -18,11 +18,11 @@ The package upower (version 1.91.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f42/upower/po/ka.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 36 | 48 | 75.0 | /mnt/stockage/packages/f42/upower/po/fr.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 36 | 48 | 75.0 | /mnt/stockage/packages/f42/upower/po/pl.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 29 | 48 | 60.4 | /mnt/stockage/packages/f42/upower/po/it.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 29 | 48 | 60.4 | /mnt/stockage/packages/f42/upower/po/sv.po | 
+ | [ka](/f42/language/ka) | 48 | 48 | 100.0 | /mnt/stockage/packages/f42/upower/po/ka.po | 
+ | [fr](/f42/language/fr) | 36 | 48 | 75.0 | /mnt/stockage/packages/f42/upower/po/fr.po | 
+ | [pl](/f42/language/pl) | 36 | 48 | 75.0 | /mnt/stockage/packages/f42/upower/po/pl.po | 
+ | [it](/f42/language/it) | 29 | 48 | 60.4 | /mnt/stockage/packages/f42/upower/po/it.po | 
+ | [sv](/f42/language/sv) | 29 | 48 | 60.4 | /mnt/stockage/packages/f42/upower/po/sv.po | 
 {.sortable}
 
 

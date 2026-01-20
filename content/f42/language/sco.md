@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-camera]({{< ref "/f42/package/elementary-camera.md" >}}) | 133 | 141 | 94.3 | Scots <https://l10n.elementaryos.org/projects/camera/camera/sco/> | 
- | [gala]({{< ref "/f42/package/gala.md" >}}) | 300 | 319 | 94.0 | Scots <https://l10n.elementaryos.org/projects/desktop/gala/sco/> | 
- | [folder-color-switcher]({{< ref "/f42/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f42/package/cinnamon-translations.md" >}}) | 958 | 9643 | 9.9 | Scots <sco@li.org> | 
- | [elementary-notifications]({{< ref "/f42/package/elementary-notifications.md" >}}) | 4 | 42 | 9.5 | Scots <https://l10n.elementaryos.org/projects/desktop/notifications-extra/sco/> | 
- | [elementary-settings-daemon]({{< ref "/f42/package/elementary-settings-daemon.md" >}}) | 5 | 303 | 1.7 | Scots <https://l10n.elementaryos.org/projects/desktop/settings-daemon/sco/> | 
- | [granite-7]({{< ref "/f42/package/granite-7.md" >}}) | 5 | 596 | 0.8 | none | 
- | [picard]({{< ref "/f42/package/picard.md" >}}) | 16 | 7982 | 0.2 | Scots <https://translations.metabrainz.org/projects/picard/2/app/sco/> | 
- | [breezy]({{< ref "/f42/package/breezy.md" >}}) | 0 | 36640 | 0.0 | Scots <sco@li.org> | 
- | [mate-menu]({{< ref "/f42/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-themes]({{< ref "/f42/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Scots (http://app.transifex.com/mate/MATE/language/sco/) | 
+ | [elementary-camera](/f42/package/elementary-camera) | 133 | 141 | 94.3 | Scots <https://l10n.elementaryos.org/projects/camera/camera/sco/> | 
+ | [gala](/f42/package/gala) | 300 | 319 | 94.0 | Scots <https://l10n.elementaryos.org/projects/desktop/gala/sco/> | 
+ | [folder-color-switcher](/f42/package/folder-color-switcher) | 51 | 65 | 78.5 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f42/package/cinnamon-translations) | 958 | 9643 | 9.9 | Scots <sco@li.org> | 
+ | [elementary-notifications](/f42/package/elementary-notifications) | 4 | 42 | 9.5 | Scots <https://l10n.elementaryos.org/projects/desktop/notifications-extra/sco/> | 
+ | [elementary-settings-daemon](/f42/package/elementary-settings-daemon) | 5 | 303 | 1.7 | Scots <https://l10n.elementaryos.org/projects/desktop/settings-daemon/sco/> | 
+ | [granite-7](/f42/package/granite-7) | 5 | 596 | 0.8 | none | 
+ | [picard](/f42/package/picard) | 16 | 7982 | 0.2 | Scots <https://translations.metabrainz.org/projects/picard/2/app/sco/> | 
+ | [breezy](/f42/package/breezy) | 0 | 36640 | 0.0 | Scots <sco@li.org> | 
+ | [mate-menu](/f42/package/mate-menu) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-themes](/f42/package/mate-themes) | 0 | 74 | 0.0 | Scots (http://app.transifex.com/mate/MATE/language/sco/) | 
 {.sortable}
 
 

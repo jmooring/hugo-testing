@@ -18,18 +18,18 @@ The package fcitx5-unikey (version 5.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ru.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f36/fcitx5-unikey/po/vi.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f36/fcitx5-unikey/po/zh_CN.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 260 | 264 | 98.5 | /mnt/stockage/packages/f36/fcitx5-unikey/po/fr.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 83 | 264 | 31.4 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ko.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/de.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ja.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/zh_TW.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 19 | 264 | 7.2 | /mnt/stockage/packages/f36/fcitx5-unikey/po/tr.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 17 | 264 | 6.4 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ca.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 9 | 264 | 3.4 | /mnt/stockage/packages/f36/fcitx5-unikey/po/he.po | 
+ | [ru](/f36/language/ru) | 264 | 264 | 100.0 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ru.po | 
+ | [vi](/f36/language/vi) | 264 | 264 | 100.0 | /mnt/stockage/packages/f36/fcitx5-unikey/po/vi.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 264 | 264 | 100.0 | /mnt/stockage/packages/f36/fcitx5-unikey/po/zh_CN.po | 
+ | [fr](/f36/language/fr) | 260 | 264 | 98.5 | /mnt/stockage/packages/f36/fcitx5-unikey/po/fr.po | 
+ | [ko](/f36/language/ko) | 83 | 264 | 31.4 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ko.po | 
+ | [da](/f36/language/da) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/da.po | 
+ | [de](/f36/language/de) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/de.po | 
+ | [ja](/f36/language/ja) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ja.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 20 | 264 | 7.6 | /mnt/stockage/packages/f36/fcitx5-unikey/po/zh_TW.po | 
+ | [tr](/f36/language/tr) | 19 | 264 | 7.2 | /mnt/stockage/packages/f36/fcitx5-unikey/po/tr.po | 
+ | [ca](/f36/language/ca) | 17 | 264 | 6.4 | /mnt/stockage/packages/f36/fcitx5-unikey/po/ca.po | 
+ | [he](/f36/language/he) | 9 | 264 | 3.4 | /mnt/stockage/packages/f36/fcitx5-unikey/po/he.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package sunpinyin (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f18/sunpinyin/wrapper/ibus/po/zh_CN.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f18/sunpinyin/wrapper/ibus/po/ibus-sunpinyin.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 116 | 116 | 100.0 | /mnt/stockage/packages/f18/sunpinyin/wrapper/ibus/po/zh_CN.po | 
+ | [error](/f18/language/error) | 0 | 107 | 0.0 | /mnt/stockage/packages/f18/sunpinyin/wrapper/ibus/po/ibus-sunpinyin.po | 
 {.sortable}
 
 

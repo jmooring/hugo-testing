@@ -18,49 +18,49 @@ The package kf6-kcolorscheme (version 6.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ar/kcolorscheme6.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/be/kcolorscheme6.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/bg/kcolorscheme6.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ca/kcolorscheme6.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ca@valencia/kcolorscheme6.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/cs/kcolorscheme6.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/de/kcolorscheme6.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/en_GB/kcolorscheme6.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/eo/kcolorscheme6.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/es/kcolorscheme6.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/eu/kcolorscheme6.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/fa/kcolorscheme6.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/fi/kcolorscheme6.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/fr/kcolorscheme6.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/gl/kcolorscheme6.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/he/kcolorscheme6.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/hi/kcolorscheme6.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/hu/kcolorscheme6.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ia/kcolorscheme6.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/is/kcolorscheme6.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/it/kcolorscheme6.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ka/kcolorscheme6.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ko/kcolorscheme6.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/lt/kcolorscheme6.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/lv/kcolorscheme6.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/nl/kcolorscheme6.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/nn/kcolorscheme6.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/pa/kcolorscheme6.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/pl/kcolorscheme6.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/pt_BR/kcolorscheme6.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ro/kcolorscheme6.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ru/kcolorscheme6.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sa/kcolorscheme6.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sk/kcolorscheme6.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sl/kcolorscheme6.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sv/kcolorscheme6.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ta/kcolorscheme6.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/tr/kcolorscheme6.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/uk/kcolorscheme6.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/zh_CN/kcolorscheme6.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/zh_TW/kcolorscheme6.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ast/kcolorscheme6.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ja/kcolorscheme6.po | 
+ | [ar](/f40/language/ar) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ar/kcolorscheme6.po | 
+ | [be](/f40/language/be) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/be/kcolorscheme6.po | 
+ | [bg](/f40/language/bg) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/bg/kcolorscheme6.po | 
+ | [ca](/f40/language/ca) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ca/kcolorscheme6.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ca@valencia/kcolorscheme6.po | 
+ | [cs](/f40/language/cs) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/cs/kcolorscheme6.po | 
+ | [de](/f40/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/de/kcolorscheme6.po | 
+ | [en_GB](/f40/language/en_GB) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/en_GB/kcolorscheme6.po | 
+ | [eo](/f40/language/eo) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/eo/kcolorscheme6.po | 
+ | [es](/f40/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/es/kcolorscheme6.po | 
+ | [eu](/f40/language/eu) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/eu/kcolorscheme6.po | 
+ | [fa](/f40/language/fa) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/fa/kcolorscheme6.po | 
+ | [fi](/f40/language/fi) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/fi/kcolorscheme6.po | 
+ | [fr](/f40/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/fr/kcolorscheme6.po | 
+ | [gl](/f40/language/gl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/gl/kcolorscheme6.po | 
+ | [he](/f40/language/he) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/he/kcolorscheme6.po | 
+ | [hi](/f40/language/hi) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/hi/kcolorscheme6.po | 
+ | [hu](/f40/language/hu) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/hu/kcolorscheme6.po | 
+ | [ia](/f40/language/ia) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ia/kcolorscheme6.po | 
+ | [is](/f40/language/is) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/is/kcolorscheme6.po | 
+ | [it](/f40/language/it) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/it/kcolorscheme6.po | 
+ | [ka](/f40/language/ka) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ka/kcolorscheme6.po | 
+ | [ko](/f40/language/ko) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ko/kcolorscheme6.po | 
+ | [lt](/f40/language/lt) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/lt/kcolorscheme6.po | 
+ | [lv](/f40/language/lv) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/lv/kcolorscheme6.po | 
+ | [nl](/f40/language/nl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/nl/kcolorscheme6.po | 
+ | [nn](/f40/language/nn) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/nn/kcolorscheme6.po | 
+ | [pa](/f40/language/pa) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/pa/kcolorscheme6.po | 
+ | [pl](/f40/language/pl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/pl/kcolorscheme6.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/pt_BR/kcolorscheme6.po | 
+ | [ro](/f40/language/ro) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ro/kcolorscheme6.po | 
+ | [ru](/f40/language/ru) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ru/kcolorscheme6.po | 
+ | [sa](/f40/language/sa) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sa/kcolorscheme6.po | 
+ | [sk](/f40/language/sk) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sk/kcolorscheme6.po | 
+ | [sl](/f40/language/sl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sl/kcolorscheme6.po | 
+ | [sv](/f40/language/sv) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/sv/kcolorscheme6.po | 
+ | [ta](/f40/language/ta) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ta/kcolorscheme6.po | 
+ | [tr](/f40/language/tr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/tr/kcolorscheme6.po | 
+ | [uk](/f40/language/uk) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/uk/kcolorscheme6.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/zh_CN/kcolorscheme6.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1 | 1 | 100.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/zh_TW/kcolorscheme6.po | 
+ | [ast](/f40/language/ast) | 0 | 1 | 0.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ast/kcolorscheme6.po | 
+ | [ja](/f40/language/ja) | 0 | 1 | 0.0 | /mnt/stockage/packages/f40/kf6-kcolorscheme/po/ja/kcolorscheme6.po | 
 {.sortable}
 
 

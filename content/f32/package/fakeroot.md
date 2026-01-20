@@ -18,12 +18,12 @@ The package fakeroot (version 1.25.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/pt.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/sv.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/fr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1467 | 1543 | 95.1 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/nl.po | 
+ | [pt](/f32/language/pt) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/pt.po | 
+ | [sv](/f32/language/sv) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/sv.po | 
+ | [de](/f32/language/de) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/de.po | 
+ | [es](/f32/language/es) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/es.po | 
+ | [fr](/f32/language/fr) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/fr.po | 
+ | [nl](/f32/language/nl) | 1467 | 1543 | 95.1 | /mnt/stockage/packages/f32/fakeroot/doc/po4a/po/nl.po | 
 {.sortable}
 
 

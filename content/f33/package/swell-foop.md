@@ -18,96 +18,96 @@ The package swell-foop (version 3.34.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f33/language/an.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/an.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/be.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/bg.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/bs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/ca/ca.po/mnt/stockage/packages/f33/swell-foop/po/ca.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/cs/cs.po/mnt/stockage/packages/f33/swell-foop/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/de/de.po/mnt/stockage/packages/f33/swell-foop/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/el/el.po/mnt/stockage/packages/f33/swell-foop/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 1611 | 1611 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/en_GB/en_GB.po/mnt/stockage/packages/f33/swell-foop/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/es/es.po/mnt/stockage/packages/f33/swell-foop/po/es.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/et.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1572 | 1572 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/eu/eu.po/mnt/stockage/packages/f33/swell-foop/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/fa.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/fr/fr.po/mnt/stockage/packages/f33/swell-foop/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/fur.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/gl.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/he.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/hu/hu.po/mnt/stockage/packages/f33/swell-foop/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/it/it.po/mnt/stockage/packages/f33/swell-foop/po/it.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/lv.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ml.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/nb.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/pl/pl.po/mnt/stockage/packages/f33/swell-foop/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/pt_BR/pt_BR.po/mnt/stockage/packages/f33/swell-foop/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ro.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/sk.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/sr/sr.po/mnt/stockage/packages/f33/swell-foop/po/sr@latin.po/mnt/stockage/packages/f33/swell-foop/po/sr.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 1347 | 1347 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/sr@latin/sr@latin.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/sv/sv.po/mnt/stockage/packages/f33/swell-foop/po/sv.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ta.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/tr.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ug.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/zh_CN/zh_CN.po/mnt/stockage/packages/f33/swell-foop/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f33/language/zh_Hant_HK.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/zh_HK.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1083 | 1091 | 99.3 | /mnt/stockage/packages/f33/swell-foop/help/ru/ru.po/mnt/stockage/packages/f33/swell-foop/po/ru.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 165 | 267 | 61.8 | /mnt/stockage/packages/f33/swell-foop/po/ja.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 151 | 270 | 55.9 | /mnt/stockage/packages/f33/swell-foop/po/eo.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 101 | 266 | 38.0 | /mnt/stockage/packages/f33/swell-foop/po/pa.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 101 | 266 | 38.0 | /mnt/stockage/packages/f33/swell-foop/po/th.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 97 | 266 | 36.5 | /mnt/stockage/packages/f33/swell-foop/po/ar.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 95 | 266 | 35.7 | /mnt/stockage/packages/f33/swell-foop/po/km.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 87 | 266 | 32.7 | /mnt/stockage/packages/f33/swell-foop/po/te.po | 
- | [mk]({{< ref "/f33/language/mk.md" >}}) | 82 | 266 | 30.8 | /mnt/stockage/packages/f33/swell-foop/po/mk.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 79 | 266 | 29.7 | /mnt/stockage/packages/f33/swell-foop/po/ast.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 79 | 266 | 29.7 | /mnt/stockage/packages/f33/swell-foop/po/bn.po | 
- | [en_CA]({{< ref "/f33/language/en_CA.md" >}}) | 79 | 266 | 29.7 | /mnt/stockage/packages/f33/swell-foop/po/en_CA.po | 
- | [af]({{< ref "/f33/language/af.md" >}}) | 77 | 266 | 28.9 | /mnt/stockage/packages/f33/swell-foop/po/af.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 77 | 266 | 28.9 | /mnt/stockage/packages/f33/swell-foop/po/en@shaw.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 77 | 266 | 28.9 | /mnt/stockage/packages/f33/swell-foop/po/nn.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 66 | 266 | 24.8 | /mnt/stockage/packages/f33/swell-foop/po/hi.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 66 | 266 | 24.8 | /mnt/stockage/packages/f33/swell-foop/po/kn.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/as.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/gu.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/mr.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/or.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 312 | 1566 | 19.9 | /mnt/stockage/packages/f33/swell-foop/help/oc/oc.po/mnt/stockage/packages/f33/swell-foop/po/oc.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 316 | 1617 | 19.5 | /mnt/stockage/packages/f33/swell-foop/help/sl/sl.po/mnt/stockage/packages/f33/swell-foop/po/sl.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 26 | 138 | 18.8 | /mnt/stockage/packages/f33/swell-foop/po/tg.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 47 | 266 | 17.7 | /mnt/stockage/packages/f33/swell-foop/po/kk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 43 | 266 | 16.2 | /mnt/stockage/packages/f33/swell-foop/po/vi.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 37 | 266 | 13.9 | /mnt/stockage/packages/f33/swell-foop/po/bn_IN.po | 
- | [dz]({{< ref "/f33/language/dz.md" >}}) | 35 | 266 | 13.2 | /mnt/stockage/packages/f33/swell-foop/po/dz.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 35 | 266 | 13.2 | /mnt/stockage/packages/f33/swell-foop/po/ne.po | 
- | [cy]({{< ref "/f33/language/cy.md" >}}) | 30 | 266 | 11.3 | /mnt/stockage/packages/f33/swell-foop/po/cy.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 28 | 266 | 10.5 | /mnt/stockage/packages/f33/swell-foop/po/mai.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 25 | 266 | 9.4 | /mnt/stockage/packages/f33/swell-foop/po/si.po | 
- | [br]({{< ref "/f33/language/br.md" >}}) | 23 | 266 | 8.6 | /mnt/stockage/packages/f33/swell-foop/po/br.po | 
- | [sq]({{< ref "/f33/language/sq.md" >}}) | 22 | 266 | 8.3 | /mnt/stockage/packages/f33/swell-foop/po/sq.po | 
- | [xh]({{< ref "/f33/language/xh.md" >}}) | 22 | 266 | 8.3 | /mnt/stockage/packages/f33/swell-foop/po/xh.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 20 | 266 | 7.5 | /mnt/stockage/packages/f33/swell-foop/po/ga.po | 
- | [az]({{< ref "/f33/language/az.md" >}}) | 14 | 266 | 5.3 | /mnt/stockage/packages/f33/swell-foop/po/az.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 14 | 266 | 5.3 | /mnt/stockage/packages/f33/swell-foop/po/is.po | 
- | [mn]({{< ref "/f33/language/mn.md" >}}) | 13 | 266 | 4.9 | /mnt/stockage/packages/f33/swell-foop/po/mn.po | 
- | [wa]({{< ref "/f33/language/wa.md" >}}) | 13 | 266 | 4.9 | /mnt/stockage/packages/f33/swell-foop/po/wa.po | 
- | [ka]({{< ref "/f33/language/ka.md" >}}) | 11 | 266 | 4.1 | /mnt/stockage/packages/f33/swell-foop/po/ka.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 10 | 266 | 3.8 | /mnt/stockage/packages/f33/swell-foop/po/ms.po | 
- | [am]({{< ref "/f33/language/am.md" >}}) | 7 | 266 | 2.6 | /mnt/stockage/packages/f33/swell-foop/po/am.po | 
- | [rw]({{< ref "/f33/language/rw.md" >}}) | 7 | 266 | 2.6 | /mnt/stockage/packages/f33/swell-foop/po/rw.po | 
- | [ku]({{< ref "/f33/language/ku.md" >}}) | 4 | 266 | 1.5 | /mnt/stockage/packages/f33/swell-foop/po/ku.po | 
+ | [an](/f33/language/an) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/an.po | 
+ | [be](/f33/language/be) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/be.po | 
+ | [bg](/f33/language/bg) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/bg.po | 
+ | [bs](/f33/language/bs) | 261 | 261 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/bs.po | 
+ | [ca](/f33/language/ca) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/ca/ca.po/mnt/stockage/packages/f33/swell-foop/po/ca.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/cs/cs.po/mnt/stockage/packages/f33/swell-foop/po/cs.po | 
+ | [da](/f33/language/da) | 267 | 267 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/da.po | 
+ | [de](/f33/language/de) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/de/de.po/mnt/stockage/packages/f33/swell-foop/po/de.po | 
+ | [el](/f33/language/el) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/el/el.po/mnt/stockage/packages/f33/swell-foop/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 1611 | 1611 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/en_GB/en_GB.po/mnt/stockage/packages/f33/swell-foop/po/en_GB.po | 
+ | [es](/f33/language/es) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/es/es.po/mnt/stockage/packages/f33/swell-foop/po/es.po | 
+ | [et](/f33/language/et) | 139 | 139 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/et.po | 
+ | [eu](/f33/language/eu) | 1572 | 1572 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/eu/eu.po/mnt/stockage/packages/f33/swell-foop/po/eu.po | 
+ | [fa](/f33/language/fa) | 267 | 267 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/fa.po | 
+ | [fi](/f33/language/fi) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/fi.po | 
+ | [fr](/f33/language/fr) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/fr/fr.po/mnt/stockage/packages/f33/swell-foop/po/fr.po | 
+ | [fur](/f33/language/fur) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/fur.po | 
+ | [gl](/f33/language/gl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/gl.po | 
+ | [he](/f33/language/he) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/he.po | 
+ | [hr](/f33/language/hr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/hr.po | 
+ | [hu](/f33/language/hu) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/hu/hu.po/mnt/stockage/packages/f33/swell-foop/po/hu.po | 
+ | [id](/f33/language/id) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/id.po | 
+ | [it](/f33/language/it) | 1617 | 1617 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/it/it.po/mnt/stockage/packages/f33/swell-foop/po/it.po | 
+ | [ko](/f33/language/ko) | 267 | 267 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ko.po | 
+ | [lt](/f33/language/lt) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/lt.po | 
+ | [lv](/f33/language/lv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/lv.po | 
+ | [ml](/f33/language/ml) | 138 | 138 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ml.po | 
+ | [nb_NO](/f33/language/nb_NO) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/nb.po | 
+ | [nl](/f33/language/nl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/nl.po | 
+ | [pl](/f33/language/pl) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/pl/pl.po/mnt/stockage/packages/f33/swell-foop/po/pl.po | 
+ | [pt](/f33/language/pt) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/pt_BR/pt_BR.po/mnt/stockage/packages/f33/swell-foop/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ro.po | 
+ | [sk](/f33/language/sk) | 266 | 266 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/sk.po | 
+ | [sr](/f33/language/sr) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/sr/sr.po/mnt/stockage/packages/f33/swell-foop/po/sr@latin.po/mnt/stockage/packages/f33/swell-foop/po/sr.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 1347 | 1347 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/sr@latin/sr@latin.po | 
+ | [sv](/f33/language/sv) | 1630 | 1630 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/sv/sv.po/mnt/stockage/packages/f33/swell-foop/po/sv.po | 
+ | [ta](/f33/language/ta) | 138 | 138 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ta.po | 
+ | [tr](/f33/language/tr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/tr.po | 
+ | [ug](/f33/language/ug) | 138 | 138 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/ug.po | 
+ | [uk](/f33/language/uk) | 264 | 264 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1613 | 1613 | 100.0 | /mnt/stockage/packages/f33/swell-foop/help/zh_CN/zh_CN.po/mnt/stockage/packages/f33/swell-foop/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/zh_TW.po | 
+ | [zh_Hant_HK](/f33/language/zh_Hant_HK) | 236 | 236 | 100.0 | /mnt/stockage/packages/f33/swell-foop/po/zh_HK.po | 
+ | [ru](/f33/language/ru) | 1083 | 1091 | 99.3 | /mnt/stockage/packages/f33/swell-foop/help/ru/ru.po/mnt/stockage/packages/f33/swell-foop/po/ru.po | 
+ | [ja](/f33/language/ja) | 165 | 267 | 61.8 | /mnt/stockage/packages/f33/swell-foop/po/ja.po | 
+ | [eo](/f33/language/eo) | 151 | 270 | 55.9 | /mnt/stockage/packages/f33/swell-foop/po/eo.po | 
+ | [pa](/f33/language/pa) | 101 | 266 | 38.0 | /mnt/stockage/packages/f33/swell-foop/po/pa.po | 
+ | [th](/f33/language/th) | 101 | 266 | 38.0 | /mnt/stockage/packages/f33/swell-foop/po/th.po | 
+ | [ar](/f33/language/ar) | 97 | 266 | 36.5 | /mnt/stockage/packages/f33/swell-foop/po/ar.po | 
+ | [km](/f33/language/km) | 95 | 266 | 35.7 | /mnt/stockage/packages/f33/swell-foop/po/km.po | 
+ | [te](/f33/language/te) | 87 | 266 | 32.7 | /mnt/stockage/packages/f33/swell-foop/po/te.po | 
+ | [mk](/f33/language/mk) | 82 | 266 | 30.8 | /mnt/stockage/packages/f33/swell-foop/po/mk.po | 
+ | [ast](/f33/language/ast) | 79 | 266 | 29.7 | /mnt/stockage/packages/f33/swell-foop/po/ast.po | 
+ | [bn](/f33/language/bn) | 79 | 266 | 29.7 | /mnt/stockage/packages/f33/swell-foop/po/bn.po | 
+ | [en_CA](/f33/language/en_CA) | 79 | 266 | 29.7 | /mnt/stockage/packages/f33/swell-foop/po/en_CA.po | 
+ | [af](/f33/language/af) | 77 | 266 | 28.9 | /mnt/stockage/packages/f33/swell-foop/po/af.po | 
+ | [error](/f33/language/error) | 77 | 266 | 28.9 | /mnt/stockage/packages/f33/swell-foop/po/en@shaw.po | 
+ | [nn](/f33/language/nn) | 77 | 266 | 28.9 | /mnt/stockage/packages/f33/swell-foop/po/nn.po | 
+ | [hi](/f33/language/hi) | 66 | 266 | 24.8 | /mnt/stockage/packages/f33/swell-foop/po/hi.po | 
+ | [kn](/f33/language/kn) | 66 | 266 | 24.8 | /mnt/stockage/packages/f33/swell-foop/po/kn.po | 
+ | [as](/f33/language/as) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/as.po | 
+ | [gu](/f33/language/gu) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/gu.po | 
+ | [mr](/f33/language/mr) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/mr.po | 
+ | [or](/f33/language/or) | 64 | 266 | 24.1 | /mnt/stockage/packages/f33/swell-foop/po/or.po | 
+ | [oc](/f33/language/oc) | 312 | 1566 | 19.9 | /mnt/stockage/packages/f33/swell-foop/help/oc/oc.po/mnt/stockage/packages/f33/swell-foop/po/oc.po | 
+ | [sl](/f33/language/sl) | 316 | 1617 | 19.5 | /mnt/stockage/packages/f33/swell-foop/help/sl/sl.po/mnt/stockage/packages/f33/swell-foop/po/sl.po | 
+ | [tg](/f33/language/tg) | 26 | 138 | 18.8 | /mnt/stockage/packages/f33/swell-foop/po/tg.po | 
+ | [kk](/f33/language/kk) | 47 | 266 | 17.7 | /mnt/stockage/packages/f33/swell-foop/po/kk.po | 
+ | [vi](/f33/language/vi) | 43 | 266 | 16.2 | /mnt/stockage/packages/f33/swell-foop/po/vi.po | 
+ | [bn_IN](/f33/language/bn_IN) | 37 | 266 | 13.9 | /mnt/stockage/packages/f33/swell-foop/po/bn_IN.po | 
+ | [dz](/f33/language/dz) | 35 | 266 | 13.2 | /mnt/stockage/packages/f33/swell-foop/po/dz.po | 
+ | [ne](/f33/language/ne) | 35 | 266 | 13.2 | /mnt/stockage/packages/f33/swell-foop/po/ne.po | 
+ | [cy](/f33/language/cy) | 30 | 266 | 11.3 | /mnt/stockage/packages/f33/swell-foop/po/cy.po | 
+ | [mai](/f33/language/mai) | 28 | 266 | 10.5 | /mnt/stockage/packages/f33/swell-foop/po/mai.po | 
+ | [si](/f33/language/si) | 25 | 266 | 9.4 | /mnt/stockage/packages/f33/swell-foop/po/si.po | 
+ | [br](/f33/language/br) | 23 | 266 | 8.6 | /mnt/stockage/packages/f33/swell-foop/po/br.po | 
+ | [sq](/f33/language/sq) | 22 | 266 | 8.3 | /mnt/stockage/packages/f33/swell-foop/po/sq.po | 
+ | [xh](/f33/language/xh) | 22 | 266 | 8.3 | /mnt/stockage/packages/f33/swell-foop/po/xh.po | 
+ | [ga](/f33/language/ga) | 20 | 266 | 7.5 | /mnt/stockage/packages/f33/swell-foop/po/ga.po | 
+ | [az](/f33/language/az) | 14 | 266 | 5.3 | /mnt/stockage/packages/f33/swell-foop/po/az.po | 
+ | [is](/f33/language/is) | 14 | 266 | 5.3 | /mnt/stockage/packages/f33/swell-foop/po/is.po | 
+ | [mn](/f33/language/mn) | 13 | 266 | 4.9 | /mnt/stockage/packages/f33/swell-foop/po/mn.po | 
+ | [wa](/f33/language/wa) | 13 | 266 | 4.9 | /mnt/stockage/packages/f33/swell-foop/po/wa.po | 
+ | [ka](/f33/language/ka) | 11 | 266 | 4.1 | /mnt/stockage/packages/f33/swell-foop/po/ka.po | 
+ | [ms](/f33/language/ms) | 10 | 266 | 3.8 | /mnt/stockage/packages/f33/swell-foop/po/ms.po | 
+ | [am](/f33/language/am) | 7 | 266 | 2.6 | /mnt/stockage/packages/f33/swell-foop/po/am.po | 
+ | [rw](/f33/language/rw) | 7 | 266 | 2.6 | /mnt/stockage/packages/f33/swell-foop/po/rw.po | 
+ | [ku](/f33/language/ku) | 4 | 266 | 1.5 | /mnt/stockage/packages/f33/swell-foop/po/ku.po | 
 {.sortable}
 
 

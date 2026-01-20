@@ -18,15 +18,15 @@ The package git (version 1.6.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 2699 | 2699 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/de.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/de.po/mnt/stockage/packages/f10/git/gitk-git/po/de.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/hu.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1891 | 1891 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/ja.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2624 | 2624 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/sv.po/mnt/stockage/packages/f10/git/gitk-git/po/sv.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 720 | 721 | 99.9 | /mnt/stockage/packages/f10/git/gitk-git/po/es.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2680 | 2686 | 99.8 | /mnt/stockage/packages/f10/git/git-gui/po/it.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/it.po/mnt/stockage/packages/f10/git/gitk-git/po/it.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1837 | 1842 | 99.7 | /mnt/stockage/packages/f10/git/git-gui/po/ru.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1952 | 1965 | 99.3 | /mnt/stockage/packages/f10/git/git-gui/po/fr.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/fr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1834 | 1912 | 95.9 | /mnt/stockage/packages/f10/git/git-gui/po/zh_cn.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/zh_cn.po | 
+ | [de](/f10/language/de) | 2699 | 2699 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/de.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/de.po/mnt/stockage/packages/f10/git/gitk-git/po/de.po | 
+ | [hu](/f10/language/hu) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/hu.po | 
+ | [ja](/f10/language/ja) | 1891 | 1891 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/ja.po | 
+ | [sv](/f10/language/sv) | 2624 | 2624 | 100.0 | /mnt/stockage/packages/f10/git/git-gui/po/sv.po/mnt/stockage/packages/f10/git/gitk-git/po/sv.po | 
+ | [es](/f10/language/es) | 720 | 721 | 99.9 | /mnt/stockage/packages/f10/git/gitk-git/po/es.po | 
+ | [it](/f10/language/it) | 2680 | 2686 | 99.8 | /mnt/stockage/packages/f10/git/git-gui/po/it.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/it.po/mnt/stockage/packages/f10/git/gitk-git/po/it.po | 
+ | [ru](/f10/language/ru) | 1837 | 1842 | 99.7 | /mnt/stockage/packages/f10/git/git-gui/po/ru.po | 
+ | [fr](/f10/language/fr) | 1952 | 1965 | 99.3 | /mnt/stockage/packages/f10/git/git-gui/po/fr.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/fr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1834 | 1912 | 95.9 | /mnt/stockage/packages/f10/git/git-gui/po/zh_cn.po/mnt/stockage/packages/f10/git/git-gui/po/glossary/zh_cn.po | 
 {.sortable}
 
 

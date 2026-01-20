@@ -18,35 +18,35 @@ The package tigervnc (version 1.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/bg.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/de.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/fur.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/he.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/id.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/ko.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/nl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/ro.po | 
- | [ru_UA]({{< ref "/f42/language/ru_UA.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/sk.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/uk.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/vi.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/zh_TW.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 548 | 697 | 78.6 | /mnt/stockage/packages/f42/tigervnc/po/el.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 855 | 1215 | 70.4 | /mnt/stockage/packages/f42/tigervnc/po/ka.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 210 | 800 | 26.2 | /mnt/stockage/packages/f42/tigervnc/po/it.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 82 | 800 | 10.2 | /mnt/stockage/packages/f42/tigervnc/po/pl.po | 
+ | [bg](/f42/language/bg) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/bg.po | 
+ | [cs](/f42/language/cs) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/cs.po | 
+ | [da](/f42/language/da) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/da.po | 
+ | [de](/f42/language/de) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/de.po | 
+ | [eo](/f42/language/eo) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/eo.po | 
+ | [es](/f42/language/es) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/es.po | 
+ | [fi](/f42/language/fi) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/fi.po | 
+ | [fr](/f42/language/fr) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/fr.po | 
+ | [fur](/f42/language/fur) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/fur.po | 
+ | [he](/f42/language/he) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/he.po | 
+ | [hu](/f42/language/hu) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/hu.po | 
+ | [id](/f42/language/id) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/id.po | 
+ | [ko](/f42/language/ko) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/ko.po | 
+ | [nl](/f42/language/nl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/nl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/ro.po | 
+ | [ru_UA](/f42/language/ru_UA) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/ru.po | 
+ | [sk](/f42/language/sk) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/sk.po | 
+ | [sr](/f42/language/sr) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/sr.po | 
+ | [sv](/f42/language/sv) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/sv.po | 
+ | [tr](/f42/language/tr) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/tr.po | 
+ | [uk](/f42/language/uk) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/uk.po | 
+ | [vi](/f42/language/vi) | 697 | 697 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/vi.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f42/tigervnc/po/zh_TW.po | 
+ | [el](/f42/language/el) | 548 | 697 | 78.6 | /mnt/stockage/packages/f42/tigervnc/po/el.po | 
+ | [ka](/f42/language/ka) | 855 | 1215 | 70.4 | /mnt/stockage/packages/f42/tigervnc/po/ka.po | 
+ | [it](/f42/language/it) | 210 | 800 | 26.2 | /mnt/stockage/packages/f42/tigervnc/po/it.po | 
+ | [pl](/f42/language/pl) | 82 | 800 | 10.2 | /mnt/stockage/packages/f42/tigervnc/po/pl.po | 
 {.sortable}
 
 

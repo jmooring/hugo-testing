@@ -18,8 +18,8 @@ The package python-django-q (version 1.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f36/python-django-q/django_q/locale/fr/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 162 | 297 | 54.5 | /mnt/stockage/packages/f36/python-django-q/django_q/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f36/language/fr) | 193 | 193 | 100.0 | /mnt/stockage/packages/f36/python-django-q/django_q/locale/fr/LC_MESSAGES/django.po | 
+ | [de](/f36/language/de) | 162 | 297 | 54.5 | /mnt/stockage/packages/f36/python-django-q/django_q/locale/de/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,59 +18,59 @@ The package xfce4-taskmanager (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ar.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ast.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/bg.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/el.po | 
- | [en_AU]({{< ref "/f20/language/en_AU.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/en_AU.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/en_GB.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/es.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/eu.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/gl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/he.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/hr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/id.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/is.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ja.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/kk.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ko.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/lt.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ms.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/nb.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/nl.po | 
- | [oc]({{< ref "/f20/language/oc.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/oc.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sr.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sv.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/th.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/tr.po | 
- | [ug]({{< ref "/f20/language/ug.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ug.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/zh_HK.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 155 | 156 | 99.4 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sq.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 193 | 214 | 90.2 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/be.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 151 | 214 | 70.6 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sl.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 118 | 214 | 55.1 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/te.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 103 | 214 | 48.1 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/vi.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/lv.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pa.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ur.po | 
- | [ur_PK]({{< ref "/f20/language/ur_PK.md" >}}) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ur_PK.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 7 | 123 | 5.7 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/si.po | 
+ | [ar](/f20/language/ar) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ar.po | 
+ | [ast](/f20/language/ast) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ast.po | 
+ | [bg](/f20/language/bg) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/bg.po | 
+ | [ca](/f20/language/ca) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ca.po | 
+ | [cs](/f20/language/cs) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/cs.po | 
+ | [da](/f20/language/da) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/da.po | 
+ | [de](/f20/language/de) | 213 | 213 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/de.po | 
+ | [el](/f20/language/el) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/el.po | 
+ | [en_AU](/f20/language/en_AU) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/en_AU.po | 
+ | [en_GB](/f20/language/en_GB) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/en_GB.po | 
+ | [es](/f20/language/es) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/es.po | 
+ | [eu](/f20/language/eu) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/eu.po | 
+ | [fi](/f20/language/fi) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/fi.po | 
+ | [fr](/f20/language/fr) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/fr.po | 
+ | [gl](/f20/language/gl) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/gl.po | 
+ | [he](/f20/language/he) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/he.po | 
+ | [hr](/f20/language/hr) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/hr.po | 
+ | [hu](/f20/language/hu) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/hu.po | 
+ | [id](/f20/language/id) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/id.po | 
+ | [is](/f20/language/is) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/is.po | 
+ | [it](/f20/language/it) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/it.po | 
+ | [ja](/f20/language/ja) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ja.po | 
+ | [kk](/f20/language/kk) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/kk.po | 
+ | [ko](/f20/language/ko) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ko.po | 
+ | [lt](/f20/language/lt) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/lt.po | 
+ | [ms](/f20/language/ms) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ms.po | 
+ | [nb_NO](/f20/language/nb_NO) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/nb.po | 
+ | [nl](/f20/language/nl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/nl.po | 
+ | [oc](/f20/language/oc) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/oc.po | 
+ | [pl](/f20/language/pl) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pl.po | 
+ | [pt](/f20/language/pt) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ru.po | 
+ | [sk](/f20/language/sk) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sk.po | 
+ | [sr](/f20/language/sr) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sr.po | 
+ | [sv](/f20/language/sv) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sv.po | 
+ | [th](/f20/language/th) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/th.po | 
+ | [tr](/f20/language/tr) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/tr.po | 
+ | [ug](/f20/language/ug) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ug.po | 
+ | [uk](/f20/language/uk) | 223 | 223 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 217 | 217 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/zh_TW.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 214 | 214 | 100.0 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/zh_HK.po | 
+ | [sq](/f20/language/sq) | 155 | 156 | 99.4 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sq.po | 
+ | [be](/f20/language/be) | 193 | 214 | 90.2 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/be.po | 
+ | [sl](/f20/language/sl) | 151 | 214 | 70.6 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/sl.po | 
+ | [te](/f20/language/te) | 118 | 214 | 55.1 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/te.po | 
+ | [vi](/f20/language/vi) | 103 | 214 | 48.1 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/vi.po | 
+ | [lv](/f20/language/lv) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/lv.po | 
+ | [pa](/f20/language/pa) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/pa.po | 
+ | [ur](/f20/language/ur) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ur.po | 
+ | [ur_PK](/f20/language/ur_PK) | 9 | 123 | 7.3 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/ur_PK.po | 
+ | [si](/f20/language/si) | 7 | 123 | 5.7 | /mnt/stockage/packages/f20/xfce4-taskmanager/po/si.po | 
 {.sortable}
 
 

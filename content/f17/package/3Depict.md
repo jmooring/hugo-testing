@@ -18,7 +18,7 @@ The package 3Depict (version 0.0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 2508 | 4757 | 52.7 | /mnt/stockage/packages/f17/3Depict/translations/3Depict_de_DE.po | 
+ | [de](/f17/language/de) | 2508 | 4757 | 52.7 | /mnt/stockage/packages/f17/3Depict/translations/3Depict_de_DE.po | 
 {.sortable}
 
 

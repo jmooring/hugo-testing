@@ -18,10 +18,10 @@ The package pv (version 1.8.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 481 | 542 | 88.7 | /mnt/stockage/packages/f41/pv/po/fr.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 377 | 542 | 69.6 | /mnt/stockage/packages/f41/pv/po/pt.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 371 | 542 | 68.5 | /mnt/stockage/packages/f41/pv/po/de.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 185 | 542 | 34.1 | /mnt/stockage/packages/f41/pv/po/pl.po | 
+ | [fr](/f41/language/fr) | 481 | 542 | 88.7 | /mnt/stockage/packages/f41/pv/po/fr.po | 
+ | [pt](/f41/language/pt) | 377 | 542 | 69.6 | /mnt/stockage/packages/f41/pv/po/pt.po | 
+ | [de](/f41/language/de) | 371 | 542 | 68.5 | /mnt/stockage/packages/f41/pv/po/de.po | 
+ | [pl](/f41/language/pl) | 185 | 542 | 34.1 | /mnt/stockage/packages/f41/pv/po/pl.po | 
 {.sortable}
 
 

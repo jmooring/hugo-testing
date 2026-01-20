@@ -18,10 +18,10 @@ The package batti (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/batti/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/batti/po/es.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/batti/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 45 | 46 | 97.8 | /mnt/stockage/packages/f19/batti/po/sv.po | 
+ | [de](/f19/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/batti/po/de.po | 
+ | [es](/f19/language/es) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/batti/po/es.po | 
+ | [ru](/f19/language/ru) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/batti/po/ru.po | 
+ | [sv](/f19/language/sv) | 45 | 46 | 97.8 | /mnt/stockage/packages/f19/batti/po/sv.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [godot3]({{< ref "/f40/package/godot3.md" >}}) | 216 | 22592 | 1.0 | English (Shavian) <https://hosted.weblate.org/projects/godot-engine/godot/en-Shaw/> | 
+ | [godot3](/f40/package/godot3) | 216 | 22592 | 1.0 | English (Shavian) <https://hosted.weblate.org/projects/godot-engine/godot/en-Shaw/> | 
 {.sortable}
 
 

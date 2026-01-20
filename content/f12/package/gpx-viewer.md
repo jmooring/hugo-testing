@@ -18,12 +18,12 @@ The package gpx-viewer (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gpx-viewer/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gpx-viewer/po/de.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gpx-viewer/po/ru.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 10 | 70 | 14.3 | /mnt/stockage/packages/f12/gpx-viewer/po/ar.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 0 | 70 | 0.0 | /mnt/stockage/packages/f12/gpx-viewer/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 0 | 70 | 0.0 | /mnt/stockage/packages/f12/gpx-viewer/po/it.po | 
+ | [cs](/f12/language/cs) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gpx-viewer/po/cs.po | 
+ | [de](/f12/language/de) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gpx-viewer/po/de.po | 
+ | [ru](/f12/language/ru) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gpx-viewer/po/ru.po | 
+ | [ar](/f12/language/ar) | 10 | 70 | 14.3 | /mnt/stockage/packages/f12/gpx-viewer/po/ar.po | 
+ | [es](/f12/language/es) | 0 | 70 | 0.0 | /mnt/stockage/packages/f12/gpx-viewer/po/es.po | 
+ | [it](/f12/language/it) | 0 | 70 | 0.0 | /mnt/stockage/packages/f12/gpx-viewer/po/it.po | 
 {.sortable}
 
 

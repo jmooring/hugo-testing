@@ -18,40 +18,40 @@ The package calindori (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ca/calindac.po/mnt/stockage/packages/f39/calindori/po/ca/calindori.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ca@valencia/calindac.po/mnt/stockage/packages/f39/calindori/po/ca@valencia/calindori.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/de/calindac.po/mnt/stockage/packages/f39/calindori/po/de/calindori.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/el/calindac.po/mnt/stockage/packages/f39/calindori/po/el/calindori.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/en_GB/calindac.po/mnt/stockage/packages/f39/calindori/po/en_GB/calindori.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/calindori/po/eo/calindac.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/es/calindac.po/mnt/stockage/packages/f39/calindori/po/es/calindori.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/eu/calindac.po/mnt/stockage/packages/f39/calindori/po/eu/calindori.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/fi/calindac.po/mnt/stockage/packages/f39/calindori/po/fi/calindori.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/fr/calindac.po/mnt/stockage/packages/f39/calindori/po/fr/calindori.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/gl/calindac.po/mnt/stockage/packages/f39/calindori/po/gl/calindori.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ia/calindac.po/mnt/stockage/packages/f39/calindori/po/ia/calindori.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/it/calindac.po/mnt/stockage/packages/f39/calindori/po/it/calindori.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ka/calindac.po/mnt/stockage/packages/f39/calindori/po/ka/calindori.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ko/calindac.po/mnt/stockage/packages/f39/calindori/po/ko/calindori.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/nl/calindac.po/mnt/stockage/packages/f39/calindori/po/nl/calindori.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/pl/calindac.po/mnt/stockage/packages/f39/calindori/po/pl/calindori.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/pt/calindac.po/mnt/stockage/packages/f39/calindori/po/pt/calindori.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/pt_BR/calindac.po/mnt/stockage/packages/f39/calindori/po/pt_BR/calindori.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ru/calindac.po/mnt/stockage/packages/f39/calindori/po/ru/calindori.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/sl/calindac.po/mnt/stockage/packages/f39/calindori/po/sl/calindori.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/sv/calindac.po/mnt/stockage/packages/f39/calindori/po/sv/calindori.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/tr/calindac.po/mnt/stockage/packages/f39/calindori/po/tr/calindori.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/uk/calindac.po/mnt/stockage/packages/f39/calindori/po/uk/calindori.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/zh_CN/calindac.po/mnt/stockage/packages/f39/calindori/po/zh_CN/calindori.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/zh_TW/calindac.po/mnt/stockage/packages/f39/calindori/po/zh_TW/calindori.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 509 | 550 | 92.5 | /mnt/stockage/packages/f39/calindori/po/nn/calindac.po/mnt/stockage/packages/f39/calindori/po/nn/calindori.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 468 | 550 | 85.1 | /mnt/stockage/packages/f39/calindori/po/pa/calindac.po/mnt/stockage/packages/f39/calindori/po/pa/calindori.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 340 | 550 | 61.8 | /mnt/stockage/packages/f39/calindori/po/cs/calindac.po/mnt/stockage/packages/f39/calindori/po/cs/calindori.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 277 | 550 | 50.4 | /mnt/stockage/packages/f39/calindori/po/da/calindac.po/mnt/stockage/packages/f39/calindori/po/da/calindori.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 198 | 550 | 36.0 | /mnt/stockage/packages/f39/calindori/po/et/calindac.po/mnt/stockage/packages/f39/calindori/po/et/calindori.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 92 | 550 | 16.7 | /mnt/stockage/packages/f39/calindori/po/sk/calindac.po/mnt/stockage/packages/f39/calindori/po/sk/calindori.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 550 | 0.0 | /mnt/stockage/packages/f39/calindori/po/ja/calindac.po/mnt/stockage/packages/f39/calindori/po/ja/calindori.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 550 | 0.0 | /mnt/stockage/packages/f39/calindori/po/lt/calindac.po/mnt/stockage/packages/f39/calindori/po/lt/calindori.po | 
+ | [ca](/f39/language/ca) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ca/calindac.po/mnt/stockage/packages/f39/calindori/po/ca/calindori.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ca@valencia/calindac.po/mnt/stockage/packages/f39/calindori/po/ca@valencia/calindori.po | 
+ | [de](/f39/language/de) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/de/calindac.po/mnt/stockage/packages/f39/calindori/po/de/calindori.po | 
+ | [el](/f39/language/el) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/el/calindac.po/mnt/stockage/packages/f39/calindori/po/el/calindori.po | 
+ | [en_GB](/f39/language/en_GB) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/en_GB/calindac.po/mnt/stockage/packages/f39/calindori/po/en_GB/calindori.po | 
+ | [eo](/f39/language/eo) | 17 | 17 | 100.0 | /mnt/stockage/packages/f39/calindori/po/eo/calindac.po | 
+ | [es](/f39/language/es) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/es/calindac.po/mnt/stockage/packages/f39/calindori/po/es/calindori.po | 
+ | [eu](/f39/language/eu) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/eu/calindac.po/mnt/stockage/packages/f39/calindori/po/eu/calindori.po | 
+ | [fi](/f39/language/fi) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/fi/calindac.po/mnt/stockage/packages/f39/calindori/po/fi/calindori.po | 
+ | [fr](/f39/language/fr) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/fr/calindac.po/mnt/stockage/packages/f39/calindori/po/fr/calindori.po | 
+ | [gl](/f39/language/gl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/gl/calindac.po/mnt/stockage/packages/f39/calindori/po/gl/calindori.po | 
+ | [ia](/f39/language/ia) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ia/calindac.po/mnt/stockage/packages/f39/calindori/po/ia/calindori.po | 
+ | [it](/f39/language/it) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/it/calindac.po/mnt/stockage/packages/f39/calindori/po/it/calindori.po | 
+ | [ka](/f39/language/ka) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ka/calindac.po/mnt/stockage/packages/f39/calindori/po/ka/calindori.po | 
+ | [ko](/f39/language/ko) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ko/calindac.po/mnt/stockage/packages/f39/calindori/po/ko/calindori.po | 
+ | [nl](/f39/language/nl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/nl/calindac.po/mnt/stockage/packages/f39/calindori/po/nl/calindori.po | 
+ | [pl](/f39/language/pl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/pl/calindac.po/mnt/stockage/packages/f39/calindori/po/pl/calindori.po | 
+ | [pt](/f39/language/pt) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/pt/calindac.po/mnt/stockage/packages/f39/calindori/po/pt/calindori.po | 
+ | [pt_BR](/f39/language/pt_BR) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/pt_BR/calindac.po/mnt/stockage/packages/f39/calindori/po/pt_BR/calindori.po | 
+ | [ru](/f39/language/ru) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/ru/calindac.po/mnt/stockage/packages/f39/calindori/po/ru/calindori.po | 
+ | [sl](/f39/language/sl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/sl/calindac.po/mnt/stockage/packages/f39/calindori/po/sl/calindori.po | 
+ | [sv](/f39/language/sv) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/sv/calindac.po/mnt/stockage/packages/f39/calindori/po/sv/calindori.po | 
+ | [tr](/f39/language/tr) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/tr/calindac.po/mnt/stockage/packages/f39/calindori/po/tr/calindori.po | 
+ | [uk](/f39/language/uk) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/uk/calindac.po/mnt/stockage/packages/f39/calindori/po/uk/calindori.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/zh_CN/calindac.po/mnt/stockage/packages/f39/calindori/po/zh_CN/calindori.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 550 | 550 | 100.0 | /mnt/stockage/packages/f39/calindori/po/zh_TW/calindac.po/mnt/stockage/packages/f39/calindori/po/zh_TW/calindori.po | 
+ | [nn](/f39/language/nn) | 509 | 550 | 92.5 | /mnt/stockage/packages/f39/calindori/po/nn/calindac.po/mnt/stockage/packages/f39/calindori/po/nn/calindori.po | 
+ | [pa](/f39/language/pa) | 468 | 550 | 85.1 | /mnt/stockage/packages/f39/calindori/po/pa/calindac.po/mnt/stockage/packages/f39/calindori/po/pa/calindori.po | 
+ | [cs](/f39/language/cs) | 340 | 550 | 61.8 | /mnt/stockage/packages/f39/calindori/po/cs/calindac.po/mnt/stockage/packages/f39/calindori/po/cs/calindori.po | 
+ | [da](/f39/language/da) | 277 | 550 | 50.4 | /mnt/stockage/packages/f39/calindori/po/da/calindac.po/mnt/stockage/packages/f39/calindori/po/da/calindori.po | 
+ | [et](/f39/language/et) | 198 | 550 | 36.0 | /mnt/stockage/packages/f39/calindori/po/et/calindac.po/mnt/stockage/packages/f39/calindori/po/et/calindori.po | 
+ | [sk](/f39/language/sk) | 92 | 550 | 16.7 | /mnt/stockage/packages/f39/calindori/po/sk/calindac.po/mnt/stockage/packages/f39/calindori/po/sk/calindori.po | 
+ | [ja](/f39/language/ja) | 0 | 550 | 0.0 | /mnt/stockage/packages/f39/calindori/po/ja/calindac.po/mnt/stockage/packages/f39/calindori/po/ja/calindori.po | 
+ | [lt](/f39/language/lt) | 0 | 550 | 0.0 | /mnt/stockage/packages/f39/calindori/po/lt/calindac.po/mnt/stockage/packages/f39/calindori/po/lt/calindori.po | 
 {.sortable}
 
 

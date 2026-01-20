@@ -18,11 +18,11 @@ The package freetype1 (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/fr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/freetype1/po/nl.po | 
+ | [cs](/f7/language/cs) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/cs.po | 
+ | [de](/f7/language/de) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/de.po | 
+ | [es](/f7/language/es) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/es.po | 
+ | [fr](/f7/language/fr) | 748 | 748 | 100.0 | /mnt/stockage/packages/f7/freetype1/po/fr.po | 
+ | [nl](/f7/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/freetype1/po/nl.po | 
 {.sortable}
 
 

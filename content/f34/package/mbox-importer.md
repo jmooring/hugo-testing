@@ -18,46 +18,46 @@ The package mbox-importer (version 20.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ca/mboximporter.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ca@valencia/mboximporter.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/cs/mboximporter.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/da/mboximporter.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/de/mboximporter.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/el/mboximporter.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/en_GB/mboximporter.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/es/mboximporter.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/et/mboximporter.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/fi/mboximporter.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/fr/mboximporter.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ia/mboximporter.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/it/mboximporter.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ko/mboximporter.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/nl/mboximporter.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/nn/mboximporter.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/pl/mboximporter.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/pt/mboximporter.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/pt_BR/mboximporter.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ro/mboximporter.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ru/mboximporter.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/sk/mboximporter.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/sl/mboximporter.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/sv/mboximporter.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/uk/mboximporter.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 36 | 40 | 90.0 | /mnt/stockage/packages/f34/mbox-importer/po/zh_CN/mboximporter.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/ar/mboximporter.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/gl/mboximporter.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/sr/mboximporter.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/tr/mboximporter.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/zh_TW/mboximporter.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/bs/mboximporter.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/hu/mboximporter.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/kk/mboximporter.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/lt/mboximporter.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/nb/mboximporter.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/nds/mboximporter.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 21 | 40 | 52.5 | /mnt/stockage/packages/f34/mbox-importer/po/bg/mboximporter.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 12 | 40 | 30.0 | /mnt/stockage/packages/f34/mbox-importer/po/ug/mboximporter.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 40 | 0.0 | /mnt/stockage/packages/f34/mbox-importer/po/ja/mboximporter.po | 
+ | [ca](/f34/language/ca) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ca/mboximporter.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ca@valencia/mboximporter.po | 
+ | [cs](/f34/language/cs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/cs/mboximporter.po | 
+ | [da](/f34/language/da) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/da/mboximporter.po | 
+ | [de](/f34/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/de/mboximporter.po | 
+ | [el](/f34/language/el) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/el/mboximporter.po | 
+ | [en_GB](/f34/language/en_GB) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/en_GB/mboximporter.po | 
+ | [es](/f34/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/es/mboximporter.po | 
+ | [et](/f34/language/et) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/et/mboximporter.po | 
+ | [fi](/f34/language/fi) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/fi/mboximporter.po | 
+ | [fr](/f34/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/fr/mboximporter.po | 
+ | [ia](/f34/language/ia) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ia/mboximporter.po | 
+ | [it](/f34/language/it) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/it/mboximporter.po | 
+ | [ko](/f34/language/ko) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ko/mboximporter.po | 
+ | [nl](/f34/language/nl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/nl/mboximporter.po | 
+ | [nn](/f34/language/nn) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/nn/mboximporter.po | 
+ | [pl](/f34/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/pl/mboximporter.po | 
+ | [pt](/f34/language/pt) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/pt/mboximporter.po | 
+ | [pt_BR](/f34/language/pt_BR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/pt_BR/mboximporter.po | 
+ | [ro](/f34/language/ro) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ro/mboximporter.po | 
+ | [ru](/f34/language/ru) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/ru/mboximporter.po | 
+ | [sk](/f34/language/sk) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/sk/mboximporter.po | 
+ | [sl](/f34/language/sl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/sl/mboximporter.po | 
+ | [sv](/f34/language/sv) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/sv/mboximporter.po | 
+ | [uk](/f34/language/uk) | 40 | 40 | 100.0 | /mnt/stockage/packages/f34/mbox-importer/po/uk/mboximporter.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 36 | 40 | 90.0 | /mnt/stockage/packages/f34/mbox-importer/po/zh_CN/mboximporter.po | 
+ | [ar](/f34/language/ar) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/ar/mboximporter.po | 
+ | [gl](/f34/language/gl) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/gl/mboximporter.po | 
+ | [sr](/f34/language/sr) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/sr/mboximporter.po | 
+ | [tr](/f34/language/tr) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/tr/mboximporter.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 33 | 40 | 82.5 | /mnt/stockage/packages/f34/mbox-importer/po/zh_TW/mboximporter.po | 
+ | [bs](/f34/language/bs) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/bs/mboximporter.po | 
+ | [hu](/f34/language/hu) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/hu/mboximporter.po | 
+ | [kk](/f34/language/kk) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/kk/mboximporter.po | 
+ | [lt](/f34/language/lt) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/lt/mboximporter.po | 
+ | [nb_NO](/f34/language/nb_NO) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/nb/mboximporter.po | 
+ | [nds](/f34/language/nds) | 30 | 40 | 75.0 | /mnt/stockage/packages/f34/mbox-importer/po/nds/mboximporter.po | 
+ | [bg](/f34/language/bg) | 21 | 40 | 52.5 | /mnt/stockage/packages/f34/mbox-importer/po/bg/mboximporter.po | 
+ | [ug](/f34/language/ug) | 12 | 40 | 30.0 | /mnt/stockage/packages/f34/mbox-importer/po/ug/mboximporter.po | 
+ | [ja](/f34/language/ja) | 0 | 40 | 0.0 | /mnt/stockage/packages/f34/mbox-importer/po/ja/mboximporter.po | 
 {.sortable}
 
 

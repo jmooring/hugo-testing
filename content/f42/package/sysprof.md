@@ -18,47 +18,47 @@ The package sysprof (version 48.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/bg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/ca/ca.po/mnt/stockage/packages/f42/sysprof/po/ca.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/da/da.po/mnt/stockage/packages/f42/sysprof/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1875 | 1875 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/de/de.po/mnt/stockage/packages/f42/sysprof/po/de.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/es/es.po/mnt/stockage/packages/f42/sysprof/po/es.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/fa.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/fr/fr.po/mnt/stockage/packages/f42/sysprof/po/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/gl.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/he.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 966 | 966 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/hi.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/hu/hu.po/mnt/stockage/packages/f42/sysprof/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/id/id.po/mnt/stockage/packages/f42/sysprof/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/ka.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 967 | 967 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/kab.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/ko/ko.po/mnt/stockage/packages/f42/sysprof/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/lt.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/ne.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/pl/pl.po/mnt/stockage/packages/f42/sysprof/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f42/sysprof/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/ru/ru.po/mnt/stockage/packages/f42/sysprof/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/sv/sv.po/mnt/stockage/packages/f42/sysprof/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/uk/uk.po/mnt/stockage/packages/f42/sysprof/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/zh_CN.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 1038 | 1045 | 99.3 | /mnt/stockage/packages/f42/sysprof/po/uz.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 1831 | 1954 | 93.7 | /mnt/stockage/packages/f42/sysprof/help/eu/eu.po/mnt/stockage/packages/f42/sysprof/po/eu.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 676 | 966 | 70.0 | /mnt/stockage/packages/f42/sysprof/po/nl.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1407 | 2058 | 68.4 | /mnt/stockage/packages/f42/sysprof/help/cs/cs.po/mnt/stockage/packages/f42/sysprof/po/cs.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 424 | 834 | 50.8 | /mnt/stockage/packages/f42/sysprof/po/fur.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 401 | 910 | 44.1 | /mnt/stockage/packages/f42/sysprof/po/pa.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 393 | 910 | 43.2 | /mnt/stockage/packages/f42/sysprof/po/fi.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 279 | 939 | 29.7 | /mnt/stockage/packages/f42/sysprof/po/eo.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 214 | 1909 | 11.2 | /mnt/stockage/packages/f42/sysprof/help/el/el.po/mnt/stockage/packages/f42/sysprof/po/el.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 104 | 939 | 11.1 | /mnt/stockage/packages/f42/sysprof/po/oc.po | 
+ | [bg](/f42/language/bg) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/bg.po | 
+ | [ca](/f42/language/ca) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/ca/ca.po/mnt/stockage/packages/f42/sysprof/po/ca.po | 
+ | [da](/f42/language/da) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/da/da.po/mnt/stockage/packages/f42/sysprof/po/da.po | 
+ | [de](/f42/language/de) | 1875 | 1875 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/de/de.po/mnt/stockage/packages/f42/sysprof/po/de.po | 
+ | [en_GB](/f42/language/en_GB) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/en_GB.po | 
+ | [es](/f42/language/es) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/es/es.po/mnt/stockage/packages/f42/sysprof/po/es.po | 
+ | [fa](/f42/language/fa) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/fa.po | 
+ | [fr](/f42/language/fr) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/fr/fr.po/mnt/stockage/packages/f42/sysprof/po/fr.po | 
+ | [gl](/f42/language/gl) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/gl.po | 
+ | [he](/f42/language/he) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/he.po | 
+ | [hi](/f42/language/hi) | 966 | 966 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/hi.po | 
+ | [hu](/f42/language/hu) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/hu/hu.po/mnt/stockage/packages/f42/sysprof/po/hu.po | 
+ | [id](/f42/language/id) | 2015 | 2015 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/id/id.po/mnt/stockage/packages/f42/sysprof/po/id.po | 
+ | [it](/f42/language/it) | 449 | 449 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/it.po | 
+ | [ka](/f42/language/ka) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/ka.po | 
+ | [kab](/f42/language/kab) | 967 | 967 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/kab.po | 
+ | [ko](/f42/language/ko) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/ko/ko.po/mnt/stockage/packages/f42/sysprof/po/ko.po | 
+ | [lt](/f42/language/lt) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/lt.po | 
+ | [ne](/f42/language/ne) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/ne.po | 
+ | [pl](/f42/language/pl) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/pl/pl.po/mnt/stockage/packages/f42/sysprof/po/pl.po | 
+ | [pt](/f42/language/pt) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f42/sysprof/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/ro.po | 
+ | [ru](/f42/language/ru) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/ru/ru.po/mnt/stockage/packages/f42/sysprof/po/ru.po | 
+ | [sk](/f42/language/sk) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/sk.po | 
+ | [sl](/f42/language/sl) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/sl.po | 
+ | [sr](/f42/language/sr) | 834 | 834 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/sr.po | 
+ | [sv](/f42/language/sv) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/sv/sv.po/mnt/stockage/packages/f42/sysprof/po/sv.po | 
+ | [tr](/f42/language/tr) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/tr.po | 
+ | [uk](/f42/language/uk) | 1954 | 1954 | 100.0 | /mnt/stockage/packages/f42/sysprof/help/uk/uk.po/mnt/stockage/packages/f42/sysprof/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f42/sysprof/po/zh_CN.po | 
+ | [uz](/f42/language/uz) | 1038 | 1045 | 99.3 | /mnt/stockage/packages/f42/sysprof/po/uz.po | 
+ | [eu](/f42/language/eu) | 1831 | 1954 | 93.7 | /mnt/stockage/packages/f42/sysprof/help/eu/eu.po/mnt/stockage/packages/f42/sysprof/po/eu.po | 
+ | [nl](/f42/language/nl) | 676 | 966 | 70.0 | /mnt/stockage/packages/f42/sysprof/po/nl.po | 
+ | [cs](/f42/language/cs) | 1407 | 2058 | 68.4 | /mnt/stockage/packages/f42/sysprof/help/cs/cs.po/mnt/stockage/packages/f42/sysprof/po/cs.po | 
+ | [fur](/f42/language/fur) | 424 | 834 | 50.8 | /mnt/stockage/packages/f42/sysprof/po/fur.po | 
+ | [pa](/f42/language/pa) | 401 | 910 | 44.1 | /mnt/stockage/packages/f42/sysprof/po/pa.po | 
+ | [fi](/f42/language/fi) | 393 | 910 | 43.2 | /mnt/stockage/packages/f42/sysprof/po/fi.po | 
+ | [eo](/f42/language/eo) | 279 | 939 | 29.7 | /mnt/stockage/packages/f42/sysprof/po/eo.po | 
+ | [el](/f42/language/el) | 214 | 1909 | 11.2 | /mnt/stockage/packages/f42/sysprof/help/el/el.po/mnt/stockage/packages/f42/sysprof/po/el.po | 
+ | [oc](/f42/language/oc) | 104 | 939 | 11.1 | /mnt/stockage/packages/f42/sysprof/po/oc.po | 
 {.sortable}
 
 

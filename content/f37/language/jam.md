@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 251 | 986 | 25.5 | Jamaican Patois <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/jam/> | 
+ | [iso-codes](/f37/package/iso-codes) | 251 | 986 | 25.5 | Jamaican Patois <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/jam/> | 
 {.sortable}
 
 

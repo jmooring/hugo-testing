@@ -18,10 +18,10 @@ The package pulseaudio (version 0.9.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1995 | 2221 | 89.8 | /mnt/stockage/packages/f10/pulseaudio/po/fr.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 381 | 2221 | 17.2 | /mnt/stockage/packages/f10/pulseaudio/po/de.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 364 | 2221 | 16.4 | /mnt/stockage/packages/f10/pulseaudio/po/sv.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 31 | 2221 | 1.4 | /mnt/stockage/packages/f10/pulseaudio/po/el.po | 
+ | [fr](/f10/language/fr) | 1995 | 2221 | 89.8 | /mnt/stockage/packages/f10/pulseaudio/po/fr.po | 
+ | [de](/f10/language/de) | 381 | 2221 | 17.2 | /mnt/stockage/packages/f10/pulseaudio/po/de.po | 
+ | [sv](/f10/language/sv) | 364 | 2221 | 16.4 | /mnt/stockage/packages/f10/pulseaudio/po/sv.po | 
+ | [el](/f10/language/el) | 31 | 2221 | 1.4 | /mnt/stockage/packages/f10/pulseaudio/po/el.po | 
 {.sortable}
 
 

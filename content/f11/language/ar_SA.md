@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-fedora]({{< ref "/f11/package/publican-fedora.md" >}}) | 107 | 107 | 100.0 | Arabic <core@ojuba.org> | 
- | [childsplay]({{< ref "/f11/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [perl-libintl]({{< ref "/f11/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [publican]({{< ref "/f11/package/publican.md" >}}) | 390 | 851 | 45.8 | ar <core@ojuba.org> | 
- | [pgadmin3]({{< ref "/f11/package/pgadmin3.md" >}}) | 3471 | 9006 | 38.5 | Arabic <support@arabeyes.org> | 
+ | [publican-fedora](/f11/package/publican-fedora) | 107 | 107 | 100.0 | Arabic <core@ojuba.org> | 
+ | [childsplay](/f11/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [perl-libintl](/f11/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [publican](/f11/package/publican) | 390 | 851 | 45.8 | ar <core@ojuba.org> | 
+ | [pgadmin3](/f11/package/pgadmin3) | 3471 | 9006 | 38.5 | Arabic <support@arabeyes.org> | 
 {.sortable}
 
 

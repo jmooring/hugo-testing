@@ -18,64 +18,64 @@ The package glade3 (version 3.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/da.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/el/el.po/mnt/stockage/packages/f12/glade3/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 3197 | 3197 | 100.0 | /mnt/stockage/packages/f12/glade3/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/en_GB/en_GB.po/mnt/stockage/packages/f12/glade3/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/es/es.po/mnt/stockage/packages/f12/glade3/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/fr/fr.po/mnt/stockage/packages/f12/glade3/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/gl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/it/it.po/mnt/stockage/packages/f12/glade3/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 4605 | 4605 | 100.0 | /mnt/stockage/packages/f12/glade3/po/ko.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/lt.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/mk.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 3361 | 3361 | 100.0 | /mnt/stockage/packages/f12/glade3/po/mr.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 6281 | 6281 | 100.0 | /mnt/stockage/packages/f12/glade3/help/pt_BR/pt_BR.po/mnt/stockage/packages/f12/glade3/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/ru/ru.po/mnt/stockage/packages/f12/glade3/po/ru.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/sq.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 4605 | 4605 | 100.0 | /mnt/stockage/packages/f12/glade3/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 4605 | 4605 | 100.0 | /mnt/stockage/packages/f12/glade3/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/zh_CN.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 4983 | 5241 | 95.1 | /mnt/stockage/packages/f12/glade3/help/bg/bg.po/mnt/stockage/packages/f12/glade3/po/bg.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 5938 | 6282 | 94.5 | /mnt/stockage/packages/f12/glade3/help/de/de.po/mnt/stockage/packages/f12/glade3/po/de.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 3009 | 3326 | 90.5 | /mnt/stockage/packages/f12/glade3/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 3009 | 3326 | 90.5 | /mnt/stockage/packages/f12/glade3/po/zh_HK.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 5460 | 6282 | 86.9 | /mnt/stockage/packages/f12/glade3/help/sv/sv.po/mnt/stockage/packages/f12/glade3/po/sv.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 3630 | 4605 | 78.8 | /mnt/stockage/packages/f12/glade3/po/fi.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 2880 | 3701 | 77.8 | /mnt/stockage/packages/f12/glade3/po/pl.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 4521 | 6274 | 72.1 | /mnt/stockage/packages/f12/glade3/help/eu/eu.po/mnt/stockage/packages/f12/glade3/po/eu.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 3007 | 4613 | 65.2 | /mnt/stockage/packages/f12/glade3/po/ar.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 2957 | 4613 | 64.1 | /mnt/stockage/packages/f12/glade3/po/ml.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 2603 | 5029 | 51.8 | /mnt/stockage/packages/f12/glade3/help/hi/hi.po/mnt/stockage/packages/f12/glade3/po/hi.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 1560 | 3367 | 46.3 | /mnt/stockage/packages/f12/glade3/po/gu.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 1833 | 4613 | 39.7 | /mnt/stockage/packages/f12/glade3/po/te.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 1757 | 4458 | 39.4 | /mnt/stockage/packages/f12/glade3/po/he.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 1738 | 4458 | 39.0 | /mnt/stockage/packages/f12/glade3/po/nb.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 1535 | 4613 | 33.3 | /mnt/stockage/packages/f12/glade3/po/et.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 891 | 2884 | 30.9 | /mnt/stockage/packages/f12/glade3/po/pa.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 669 | 3326 | 20.1 | /mnt/stockage/packages/f12/glade3/po/nl.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 570 | 4605 | 12.4 | /mnt/stockage/packages/f12/glade3/po/lv.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 525 | 4613 | 11.4 | /mnt/stockage/packages/f12/glade3/po/mai.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 428 | 4613 | 9.3 | /mnt/stockage/packages/f12/glade3/po/or.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 444 | 4995 | 8.9 | /mnt/stockage/packages/f12/glade3/help/oc/oc.po/mnt/stockage/packages/f12/glade3/po/oc.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 404 | 4613 | 8.8 | /mnt/stockage/packages/f12/glade3/po/cs.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 222 | 3197 | 6.9 | /mnt/stockage/packages/f12/glade3/po/si.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 166 | 3120 | 5.3 | /mnt/stockage/packages/f12/glade3/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 166 | 3120 | 5.3 | /mnt/stockage/packages/f12/glade3/po/bn_IN.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 42 | 1451 | 2.9 | /mnt/stockage/packages/f12/glade3/po/nn.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 112 | 4613 | 2.4 | /mnt/stockage/packages/f12/glade3/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 112 | 4613 | 2.4 | /mnt/stockage/packages/f12/glade3/po/sr@latin.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 30 | 1451 | 2.1 | /mnt/stockage/packages/f12/glade3/po/az.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 30 | 1451 | 2.1 | /mnt/stockage/packages/f12/glade3/po/ms.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 30 | 1451 | 2.1 | /mnt/stockage/packages/f12/glade3/po/sk.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 17 | 2949 | 0.6 | /mnt/stockage/packages/f12/glade3/po/ta.po | 
+ | [ca](/f12/language/ca) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/ca.po | 
+ | [da](/f12/language/da) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/da.po | 
+ | [el](/f12/language/el) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/el/el.po/mnt/stockage/packages/f12/glade3/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 3197 | 3197 | 100.0 | /mnt/stockage/packages/f12/glade3/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/en_GB/en_GB.po/mnt/stockage/packages/f12/glade3/po/en_GB.po | 
+ | [es](/f12/language/es) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/es/es.po/mnt/stockage/packages/f12/glade3/po/es.po | 
+ | [fr](/f12/language/fr) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/fr/fr.po/mnt/stockage/packages/f12/glade3/po/fr.po | 
+ | [gl](/f12/language/gl) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/gl.po | 
+ | [hu](/f12/language/hu) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/hu.po | 
+ | [it](/f12/language/it) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/it/it.po/mnt/stockage/packages/f12/glade3/po/it.po | 
+ | [ja](/f12/language/ja) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/ja.po | 
+ | [ko](/f12/language/ko) | 4605 | 4605 | 100.0 | /mnt/stockage/packages/f12/glade3/po/ko.po | 
+ | [lt](/f12/language/lt) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/lt.po | 
+ | [mk](/f12/language/mk) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/mk.po | 
+ | [mr](/f12/language/mr) | 3361 | 3361 | 100.0 | /mnt/stockage/packages/f12/glade3/po/mr.po | 
+ | [pt](/f12/language/pt) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 6281 | 6281 | 100.0 | /mnt/stockage/packages/f12/glade3/help/pt_BR/pt_BR.po/mnt/stockage/packages/f12/glade3/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 6282 | 6282 | 100.0 | /mnt/stockage/packages/f12/glade3/help/ru/ru.po/mnt/stockage/packages/f12/glade3/po/ru.po | 
+ | [sl](/f12/language/sl) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/sl.po | 
+ | [sq](/f12/language/sq) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/sq.po | 
+ | [th](/f12/language/th) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/th.po | 
+ | [tr](/f12/language/tr) | 4605 | 4605 | 100.0 | /mnt/stockage/packages/f12/glade3/po/tr.po | 
+ | [uk](/f12/language/uk) | 4613 | 4613 | 100.0 | /mnt/stockage/packages/f12/glade3/po/uk.po | 
+ | [vi](/f12/language/vi) | 4605 | 4605 | 100.0 | /mnt/stockage/packages/f12/glade3/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 3207 | 3207 | 100.0 | /mnt/stockage/packages/f12/glade3/po/zh_CN.po | 
+ | [bg](/f12/language/bg) | 4983 | 5241 | 95.1 | /mnt/stockage/packages/f12/glade3/help/bg/bg.po/mnt/stockage/packages/f12/glade3/po/bg.po | 
+ | [de](/f12/language/de) | 5938 | 6282 | 94.5 | /mnt/stockage/packages/f12/glade3/help/de/de.po/mnt/stockage/packages/f12/glade3/po/de.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 3009 | 3326 | 90.5 | /mnt/stockage/packages/f12/glade3/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 3009 | 3326 | 90.5 | /mnt/stockage/packages/f12/glade3/po/zh_HK.po | 
+ | [sv](/f12/language/sv) | 5460 | 6282 | 86.9 | /mnt/stockage/packages/f12/glade3/help/sv/sv.po/mnt/stockage/packages/f12/glade3/po/sv.po | 
+ | [fi](/f12/language/fi) | 3630 | 4605 | 78.8 | /mnt/stockage/packages/f12/glade3/po/fi.po | 
+ | [pl](/f12/language/pl) | 2880 | 3701 | 77.8 | /mnt/stockage/packages/f12/glade3/po/pl.po | 
+ | [eu](/f12/language/eu) | 4521 | 6274 | 72.1 | /mnt/stockage/packages/f12/glade3/help/eu/eu.po/mnt/stockage/packages/f12/glade3/po/eu.po | 
+ | [ar](/f12/language/ar) | 3007 | 4613 | 65.2 | /mnt/stockage/packages/f12/glade3/po/ar.po | 
+ | [ml](/f12/language/ml) | 2957 | 4613 | 64.1 | /mnt/stockage/packages/f12/glade3/po/ml.po | 
+ | [hi](/f12/language/hi) | 2603 | 5029 | 51.8 | /mnt/stockage/packages/f12/glade3/help/hi/hi.po/mnt/stockage/packages/f12/glade3/po/hi.po | 
+ | [gu](/f12/language/gu) | 1560 | 3367 | 46.3 | /mnt/stockage/packages/f12/glade3/po/gu.po | 
+ | [te](/f12/language/te) | 1833 | 4613 | 39.7 | /mnt/stockage/packages/f12/glade3/po/te.po | 
+ | [he](/f12/language/he) | 1757 | 4458 | 39.4 | /mnt/stockage/packages/f12/glade3/po/he.po | 
+ | [nb_NO](/f12/language/nb_NO) | 1738 | 4458 | 39.0 | /mnt/stockage/packages/f12/glade3/po/nb.po | 
+ | [et](/f12/language/et) | 1535 | 4613 | 33.3 | /mnt/stockage/packages/f12/glade3/po/et.po | 
+ | [pa](/f12/language/pa) | 891 | 2884 | 30.9 | /mnt/stockage/packages/f12/glade3/po/pa.po | 
+ | [nl](/f12/language/nl) | 669 | 3326 | 20.1 | /mnt/stockage/packages/f12/glade3/po/nl.po | 
+ | [lv](/f12/language/lv) | 570 | 4605 | 12.4 | /mnt/stockage/packages/f12/glade3/po/lv.po | 
+ | [mai](/f12/language/mai) | 525 | 4613 | 11.4 | /mnt/stockage/packages/f12/glade3/po/mai.po | 
+ | [or](/f12/language/or) | 428 | 4613 | 9.3 | /mnt/stockage/packages/f12/glade3/po/or.po | 
+ | [oc](/f12/language/oc) | 444 | 4995 | 8.9 | /mnt/stockage/packages/f12/glade3/help/oc/oc.po/mnt/stockage/packages/f12/glade3/po/oc.po | 
+ | [cs](/f12/language/cs) | 404 | 4613 | 8.8 | /mnt/stockage/packages/f12/glade3/po/cs.po | 
+ | [si](/f12/language/si) | 222 | 3197 | 6.9 | /mnt/stockage/packages/f12/glade3/po/si.po | 
+ | [bn](/f12/language/bn) | 166 | 3120 | 5.3 | /mnt/stockage/packages/f12/glade3/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 166 | 3120 | 5.3 | /mnt/stockage/packages/f12/glade3/po/bn_IN.po | 
+ | [nn](/f12/language/nn) | 42 | 1451 | 2.9 | /mnt/stockage/packages/f12/glade3/po/nn.po | 
+ | [sr](/f12/language/sr) | 112 | 4613 | 2.4 | /mnt/stockage/packages/f12/glade3/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 112 | 4613 | 2.4 | /mnt/stockage/packages/f12/glade3/po/sr@latin.po | 
+ | [az](/f12/language/az) | 30 | 1451 | 2.1 | /mnt/stockage/packages/f12/glade3/po/az.po | 
+ | [ms](/f12/language/ms) | 30 | 1451 | 2.1 | /mnt/stockage/packages/f12/glade3/po/ms.po | 
+ | [sk](/f12/language/sk) | 30 | 1451 | 2.1 | /mnt/stockage/packages/f12/glade3/po/sk.po | 
+ | [ta](/f12/language/ta) | 17 | 2949 | 0.6 | /mnt/stockage/packages/f12/glade3/po/ta.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package xfce4-time-out-plugin (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ar.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/el.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/en_GB.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/es.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/eu.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/fr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/gl.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/he.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ja.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/kk.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ko.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/nl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/sk.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/zh_TW.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ast.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/lv.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/pl.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/sv.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 76 | 176 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ur_PK.po/mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ur.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 32 | 88 | 36.4 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ug.po | 
+ | [ar](/f21/language/ar) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ar.po | 
+ | [ca](/f21/language/ca) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ca.po | 
+ | [cs](/f21/language/cs) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/cs.po | 
+ | [da](/f21/language/da) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/da.po | 
+ | [de](/f21/language/de) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/de.po | 
+ | [el](/f21/language/el) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/el.po | 
+ | [en_GB](/f21/language/en_GB) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/en_GB.po | 
+ | [es](/f21/language/es) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/es.po | 
+ | [eu](/f21/language/eu) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/eu.po | 
+ | [fi](/f21/language/fi) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/fi.po | 
+ | [fr](/f21/language/fr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/fr.po | 
+ | [gl](/f21/language/gl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/gl.po | 
+ | [he](/f21/language/he) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/he.po | 
+ | [hu](/f21/language/hu) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/hu.po | 
+ | [id](/f21/language/id) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/id.po | 
+ | [it](/f21/language/it) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/it.po | 
+ | [ja](/f21/language/ja) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ja.po | 
+ | [kk](/f21/language/kk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/kk.po | 
+ | [ko](/f21/language/ko) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ko.po | 
+ | [nl](/f21/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/nl.po | 
+ | [pt](/f21/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ru.po | 
+ | [sk](/f21/language/sk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/sk.po | 
+ | [tr](/f21/language/tr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/tr.po | 
+ | [uk](/f21/language/uk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 88 | 88 | 100.0 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/zh_TW.po | 
+ | [ast](/f21/language/ast) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ast.po | 
+ | [lv](/f21/language/lv) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/lv.po | 
+ | [pl](/f21/language/pl) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/pl.po | 
+ | [sv](/f21/language/sv) | 38 | 88 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/sv.po | 
+ | [ur](/f21/language/ur) | 76 | 176 | 43.2 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ur_PK.po/mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ur.po | 
+ | [ug](/f21/language/ug) | 32 | 88 | 36.4 | /mnt/stockage/packages/f21/xfce4-time-out-plugin/po/ug.po | 
 {.sortable}
 
 

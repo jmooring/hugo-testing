@@ -18,29 +18,29 @@ The package kf5-kitinerary (version 19.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ca/kitinerary.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ca@valencia/kitinerary.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/en_GB/kitinerary.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/es/kitinerary.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/fi/kitinerary.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/fr/kitinerary.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/gl/kitinerary.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/it/kitinerary.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ko/kitinerary.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/nl/kitinerary.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/pl/kitinerary.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/pt/kitinerary.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/pt_BR/kitinerary.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/sv/kitinerary.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/uk/kitinerary.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/zh_CN/kitinerary.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ar/kitinerary.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 61 | 106 | 57.5 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ru/kitinerary.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 57 | 106 | 53.8 | /mnt/stockage/packages/f31/kf5-kitinerary/po/de/kitinerary.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 50 | 106 | 47.2 | /mnt/stockage/packages/f31/kf5-kitinerary/po/cs/kitinerary.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 14 | 106 | 13.2 | /mnt/stockage/packages/f31/kf5-kitinerary/po/sk/kitinerary.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 0 | 106 | 0.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ja/kitinerary.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 0 | 106 | 0.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/zh_TW/kitinerary.po | 
+ | [ca](/f31/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ca/kitinerary.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ca@valencia/kitinerary.po | 
+ | [en_GB](/f31/language/en_GB) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/en_GB/kitinerary.po | 
+ | [es](/f31/language/es) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/es/kitinerary.po | 
+ | [fi](/f31/language/fi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/fi/kitinerary.po | 
+ | [fr](/f31/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/fr/kitinerary.po | 
+ | [gl](/f31/language/gl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/gl/kitinerary.po | 
+ | [it](/f31/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/it/kitinerary.po | 
+ | [ko](/f31/language/ko) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ko/kitinerary.po | 
+ | [nl](/f31/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/nl/kitinerary.po | 
+ | [pl](/f31/language/pl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/pl/kitinerary.po | 
+ | [pt](/f31/language/pt) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/pt/kitinerary.po | 
+ | [pt_BR](/f31/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/pt_BR/kitinerary.po | 
+ | [sv](/f31/language/sv) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/sv/kitinerary.po | 
+ | [uk](/f31/language/uk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/uk/kitinerary.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/zh_CN/kitinerary.po | 
+ | [ar](/f31/language/ar) | 61 | 106 | 57.5 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ar/kitinerary.po | 
+ | [ru](/f31/language/ru) | 61 | 106 | 57.5 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ru/kitinerary.po | 
+ | [de](/f31/language/de) | 57 | 106 | 53.8 | /mnt/stockage/packages/f31/kf5-kitinerary/po/de/kitinerary.po | 
+ | [cs](/f31/language/cs) | 50 | 106 | 47.2 | /mnt/stockage/packages/f31/kf5-kitinerary/po/cs/kitinerary.po | 
+ | [sk](/f31/language/sk) | 14 | 106 | 13.2 | /mnt/stockage/packages/f31/kf5-kitinerary/po/sk/kitinerary.po | 
+ | [ja](/f31/language/ja) | 0 | 106 | 0.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/ja/kitinerary.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 0 | 106 | 0.0 | /mnt/stockage/packages/f31/kf5-kitinerary/po/zh_TW/kitinerary.po | 
 {.sortable}
 
 

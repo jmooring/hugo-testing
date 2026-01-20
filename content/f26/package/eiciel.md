@@ -18,25 +18,25 @@ The package eiciel (version 0.9.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/eiciel/po/ca.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/eiciel/po/es.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ar.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/fr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/hu.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ja.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ko.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/sv.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/zh_TW.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 4 | 168 | 2.4 | /mnt/stockage/packages/f26/eiciel/po/en_GB.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 3 | 168 | 1.8 | /mnt/stockage/packages/f26/eiciel/po/en_US.po | 
+ | [ca](/f26/language/ca) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/eiciel/po/ca.po | 
+ | [es](/f26/language/es) | 168 | 168 | 100.0 | /mnt/stockage/packages/f26/eiciel/po/es.po | 
+ | [ar](/f26/language/ar) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ar.po | 
+ | [cs](/f26/language/cs) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/cs.po | 
+ | [de](/f26/language/de) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/de.po | 
+ | [fr](/f26/language/fr) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/fr.po | 
+ | [hu](/f26/language/hu) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/hu.po | 
+ | [it](/f26/language/it) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/it.po | 
+ | [ja](/f26/language/ja) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ja.po | 
+ | [ko](/f26/language/ko) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ko.po | 
+ | [nl](/f26/language/nl) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/nl.po | 
+ | [pl](/f26/language/pl) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/ru.po | 
+ | [sv](/f26/language/sv) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/sv.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 146 | 168 | 86.9 | /mnt/stockage/packages/f26/eiciel/po/zh_TW.po | 
+ | [en_GB](/f26/language/en_GB) | 4 | 168 | 2.4 | /mnt/stockage/packages/f26/eiciel/po/en_GB.po | 
+ | [en_US](/f26/language/en_US) | 3 | 168 | 1.8 | /mnt/stockage/packages/f26/eiciel/po/en_US.po | 
 {.sortable}
 
 

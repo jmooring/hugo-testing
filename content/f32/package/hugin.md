@@ -18,28 +18,28 @@ The package hugin (version 2019.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/ca_ES.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/ca_ES@valencia.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/pt_BR.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/sk.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 9107 | 9324 | 97.7 | /mnt/stockage/packages/f32/hugin/src/translations/nl.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 7809 | 9324 | 83.8 | /mnt/stockage/packages/f32/hugin/src/translations/da.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 7575 | 9324 | 81.2 | /mnt/stockage/packages/f32/hugin/src/translations/cs_CZ.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 7211 | 9324 | 77.3 | /mnt/stockage/packages/f32/hugin/src/translations/ru.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 6932 | 9324 | 74.3 | /mnt/stockage/packages/f32/hugin/src/translations/es.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 6091 | 9324 | 65.3 | /mnt/stockage/packages/f32/hugin/src/translations/zh_CN.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 5919 | 9324 | 63.5 | /mnt/stockage/packages/f32/hugin/src/translations/pl.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 5899 | 9324 | 63.3 | /mnt/stockage/packages/f32/hugin/src/translations/zh_TW.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 5012 | 9324 | 53.8 | /mnt/stockage/packages/f32/hugin/src/translations/ja.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4853 | 9324 | 52.0 | /mnt/stockage/packages/f32/hugin/src/translations/sv.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 4277 | 9324 | 45.9 | /mnt/stockage/packages/f32/hugin/src/translations/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 3265 | 9324 | 35.0 | /mnt/stockage/packages/f32/hugin/src/translations/fi.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 2563 | 9324 | 27.5 | /mnt/stockage/packages/f32/hugin/src/translations/ro.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 711 | 9324 | 7.6 | /mnt/stockage/packages/f32/hugin/src/translations/en_GB.po | 
+ | [ca](/f32/language/ca) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/ca_ES.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/ca_ES@valencia.po | 
+ | [de](/f32/language/de) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/de.po | 
+ | [fr](/f32/language/fr) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/fr.po | 
+ | [hu](/f32/language/hu) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/hu.po | 
+ | [it](/f32/language/it) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/pt_BR.po | 
+ | [sk](/f32/language/sk) | 9324 | 9324 | 100.0 | /mnt/stockage/packages/f32/hugin/src/translations/sk.po | 
+ | [nl](/f32/language/nl) | 9107 | 9324 | 97.7 | /mnt/stockage/packages/f32/hugin/src/translations/nl.po | 
+ | [da](/f32/language/da) | 7809 | 9324 | 83.8 | /mnt/stockage/packages/f32/hugin/src/translations/da.po | 
+ | [cs](/f32/language/cs) | 7575 | 9324 | 81.2 | /mnt/stockage/packages/f32/hugin/src/translations/cs_CZ.po | 
+ | [ru](/f32/language/ru) | 7211 | 9324 | 77.3 | /mnt/stockage/packages/f32/hugin/src/translations/ru.po | 
+ | [es](/f32/language/es) | 6932 | 9324 | 74.3 | /mnt/stockage/packages/f32/hugin/src/translations/es.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 6091 | 9324 | 65.3 | /mnt/stockage/packages/f32/hugin/src/translations/zh_CN.po | 
+ | [pl](/f32/language/pl) | 5919 | 9324 | 63.5 | /mnt/stockage/packages/f32/hugin/src/translations/pl.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 5899 | 9324 | 63.3 | /mnt/stockage/packages/f32/hugin/src/translations/zh_TW.po | 
+ | [ja](/f32/language/ja) | 5012 | 9324 | 53.8 | /mnt/stockage/packages/f32/hugin/src/translations/ja.po | 
+ | [sv](/f32/language/sv) | 4853 | 9324 | 52.0 | /mnt/stockage/packages/f32/hugin/src/translations/sv.po | 
+ | [eu](/f32/language/eu) | 4277 | 9324 | 45.9 | /mnt/stockage/packages/f32/hugin/src/translations/eu.po | 
+ | [fi](/f32/language/fi) | 3265 | 9324 | 35.0 | /mnt/stockage/packages/f32/hugin/src/translations/fi.po | 
+ | [ro](/f32/language/ro) | 2563 | 9324 | 27.5 | /mnt/stockage/packages/f32/hugin/src/translations/ro.po | 
+ | [en_GB](/f32/language/en_GB) | 711 | 9324 | 7.6 | /mnt/stockage/packages/f32/hugin/src/translations/en_GB.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package fotoxx (version 20.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f30/language/it.md" >}}) | 5743 | 5743 | 100.0 | /mnt/stockage/packages/f30/fotoxx/locales/translate-it.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 5731 | 5743 | 99.8 | /mnt/stockage/packages/f30/fotoxx/locales/translate-de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 5731 | 5743 | 99.8 | /mnt/stockage/packages/f30/fotoxx/locales/translate-es.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 5710 | 5743 | 99.4 | /mnt/stockage/packages/f30/fotoxx/locales/translate-fr.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 5700 | 5743 | 99.3 | /mnt/stockage/packages/f30/fotoxx/locales/translate-ca.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 5700 | 5763 | 98.9 | /mnt/stockage/packages/f30/fotoxx/locales/translate-pt.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 0 | 5734 | 0.0 | /mnt/stockage/packages/f30/fotoxx/locales/translate-xx.po | 
+ | [it](/f30/language/it) | 5743 | 5743 | 100.0 | /mnt/stockage/packages/f30/fotoxx/locales/translate-it.po | 
+ | [de](/f30/language/de) | 5731 | 5743 | 99.8 | /mnt/stockage/packages/f30/fotoxx/locales/translate-de.po | 
+ | [es](/f30/language/es) | 5731 | 5743 | 99.8 | /mnt/stockage/packages/f30/fotoxx/locales/translate-es.po | 
+ | [en](/f30/language/en) | 5710 | 5743 | 99.4 | /mnt/stockage/packages/f30/fotoxx/locales/translate-fr.po | 
+ | [ca](/f30/language/ca) | 5700 | 5743 | 99.3 | /mnt/stockage/packages/f30/fotoxx/locales/translate-ca.po | 
+ | [pt](/f30/language/pt) | 5700 | 5763 | 98.9 | /mnt/stockage/packages/f30/fotoxx/locales/translate-pt.po | 
+ | [error](/f30/language/error) | 0 | 5734 | 0.0 | /mnt/stockage/packages/f30/fotoxx/locales/translate-xx.po | 
 {.sortable}
 
 

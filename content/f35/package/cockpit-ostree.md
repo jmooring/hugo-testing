@@ -18,24 +18,24 @@ The package cockpit-ostree (version 190.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/cs.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/fr.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/ka.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/ko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/pl.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/zh_CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 168 | 171 | 98.2 | /mnt/stockage/packages/f35/cockpit-ostree/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 156 | 171 | 91.2 | /mnt/stockage/packages/f35/cockpit-ostree/po/es.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 142 | 171 | 83.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/ja.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 142 | 171 | 83.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/pt_BR.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 137 | 171 | 80.1 | /mnt/stockage/packages/f35/cockpit-ostree/po/hr.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 136 | 171 | 79.5 | /mnt/stockage/packages/f35/cockpit-ostree/po/he.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 136 | 171 | 79.5 | /mnt/stockage/packages/f35/cockpit-ostree/po/id.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 136 | 171 | 79.5 | /mnt/stockage/packages/f35/cockpit-ostree/po/nl.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 132 | 171 | 77.2 | /mnt/stockage/packages/f35/cockpit-ostree/po/ca.po | 
+ | [cs](/f35/language/cs) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/cs.po | 
+ | [fi](/f35/language/fi) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/fi.po | 
+ | [fr](/f35/language/fr) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/fr.po | 
+ | [ka](/f35/language/ka) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/ka.po | 
+ | [ko](/f35/language/ko) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/ko.po | 
+ | [pl](/f35/language/pl) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/pl.po | 
+ | [tr](/f35/language/tr) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/tr.po | 
+ | [uk](/f35/language/uk) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 171 | 171 | 100.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/zh_CN.po | 
+ | [de](/f35/language/de) | 168 | 171 | 98.2 | /mnt/stockage/packages/f35/cockpit-ostree/po/de.po | 
+ | [es](/f35/language/es) | 156 | 171 | 91.2 | /mnt/stockage/packages/f35/cockpit-ostree/po/es.po | 
+ | [ja](/f35/language/ja) | 142 | 171 | 83.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/ja.po | 
+ | [pt_BR](/f35/language/pt_BR) | 142 | 171 | 83.0 | /mnt/stockage/packages/f35/cockpit-ostree/po/pt_BR.po | 
+ | [hr](/f35/language/hr) | 137 | 171 | 80.1 | /mnt/stockage/packages/f35/cockpit-ostree/po/hr.po | 
+ | [he](/f35/language/he) | 136 | 171 | 79.5 | /mnt/stockage/packages/f35/cockpit-ostree/po/he.po | 
+ | [id](/f35/language/id) | 136 | 171 | 79.5 | /mnt/stockage/packages/f35/cockpit-ostree/po/id.po | 
+ | [nl](/f35/language/nl) | 136 | 171 | 79.5 | /mnt/stockage/packages/f35/cockpit-ostree/po/nl.po | 
+ | [ca](/f35/language/ca) | 132 | 171 | 77.2 | /mnt/stockage/packages/f35/cockpit-ostree/po/ca.po | 
 {.sortable}
 
 

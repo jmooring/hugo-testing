@@ -18,8 +18,8 @@ The package python-pyramid (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/python-pyramid/pyramid/tests/localeapp/locale/de/LC_MESSAGES/deformsite.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/python-pyramid/pyramid/tests/localeapp/locale/en/LC_MESSAGES/deformsite.po | 
+ | [de](/f16/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/python-pyramid/pyramid/tests/localeapp/locale/de/LC_MESSAGES/deformsite.po | 
+ | [en](/f16/language/en) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/python-pyramid/pyramid/tests/localeapp/locale/en/LC_MESSAGES/deformsite.po | 
 {.sortable}
 
 

@@ -38,33 +38,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [budgie-desktop]({{< ref "/f36/package/budgie-desktop.md" >}}) | 1641 | 1641 | 100.0 | German (Switzerland) (https://www.transifex.com/buddiesofbudgie/teams/129844/de_CH/) | 
- | [php-php-gettext]({{< ref "/f36/package/php-php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [usermode]({{< ref "/f36/package/usermode.md" >}}) | 551 | 573 | 96.2 | LANGUAGE <LL@li.org> | 
- | [python-wtforms]({{< ref "/f36/package/python-wtforms.md" >}}) | 166 | 189 | 87.8 | de_CH <LL@li.org> | 
- | [fuse-encfs]({{< ref "/f36/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Switzerland) <de_CH@li.org> | 
- | [libuser]({{< ref "/f36/package/libuser.md" >}}) | 938 | 1437 | 65.3 | German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/) | 
- | [nfoview]({{< ref "/f36/package/nfoview.md" >}}) | 59 | 115 | 51.3 | German (Switzerland) (http://www.transifex.com/otsaloma/nfoview/language/de_CH/) | 
- | [grub2]({{< ref "/f36/package/grub2.md" >}}) | 2104 | 7412 | 28.4 | German <translation-team-de@lists.sourceforge.net> | 
- | [python-blivet]({{< ref "/f36/package/python-blivet.md" >}}) | 52 | 584 | 8.9 | German (Switzerland) (http://www.transifex.com/projects/p/blivet/language/de_CH/) | 
- | [pykickstart]({{< ref "/f36/package/pykickstart.md" >}}) | 128 | 1701 | 7.5 | German (Switzerland) (http://www.transifex.com/projects/p/pykickstart/language/de_CH/) | 
- | [publican]({{< ref "/f36/package/publican.md" >}}) | 593 | 9066 | 6.5 | <fedora-trans-de@redhat.com> | 
- | [atril]({{< ref "/f36/package/atril.md" >}}) | 131 | 2352 | 5.6 | German (Switzerland) (https://app.transifex.com/mate/teams/13566/de_CH/) | 
- | [mate-desktop]({{< ref "/f36/package/mate-desktop.md" >}}) | 104 | 2376 | 4.4 | German (Switzerland) (https://www.transifex.com/mate/teams/13566/de_CH/) | 
- | [policycoreutils]({{< ref "/f36/package/policycoreutils.md" >}}) | 7 | 4493 | 0.2 | German (Switzerland) | 
- | [cmake-fedora]({{< ref "/f36/package/cmake-fedora.md" >}}) | 0 | 0 | 0.0 |  | 
- | [entangle]({{< ref "/f36/package/entangle.md" >}}) | 0 | 953 | 0.0 | German (Switzerland) | 
- | [fonts-tweak-tool]({{< ref "/f36/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | German (Switzerland) | 
- | [imsettings]({{< ref "/f36/package/imsettings.md" >}}) | 0 | 490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f36/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | German (Switzerland) | 
- | [libmatekbd]({{< ref "/f36/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/) | 
- | [libvirt-sandbox]({{< ref "/f36/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/) | 
- | [mate-menu]({{< ref "/f36/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/) | 
- | [mate-themes]({{< ref "/f36/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/) | 
- | [mc]({{< ref "/f36/package/mc.md" >}}) | 0 | 4350 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/) | 
- | [pam]({{< ref "/f36/package/pam.md" >}}) | 0 | 535 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/) | 
- | [python-fedora]({{< ref "/f36/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | German (Switzerland) | 
- | [python-meh]({{< ref "/f36/package/python-meh.md" >}}) | 0 | 109 | 0.0 | German (Switzerland) | 
+ | [budgie-desktop](/f36/package/budgie-desktop) | 1641 | 1641 | 100.0 | German (Switzerland) (https://www.transifex.com/buddiesofbudgie/teams/129844/de_CH/) | 
+ | [php-php-gettext](/f36/package/php-php-gettext) | 18 | 18 | 100.0 |  | 
+ | [usermode](/f36/package/usermode) | 551 | 573 | 96.2 | LANGUAGE <LL@li.org> | 
+ | [python-wtforms](/f36/package/python-wtforms) | 166 | 189 | 87.8 | de_CH <LL@li.org> | 
+ | [fuse-encfs](/f36/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Switzerland) <de_CH@li.org> | 
+ | [libuser](/f36/package/libuser) | 938 | 1437 | 65.3 | German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/) | 
+ | [nfoview](/f36/package/nfoview) | 59 | 115 | 51.3 | German (Switzerland) (http://www.transifex.com/otsaloma/nfoview/language/de_CH/) | 
+ | [grub2](/f36/package/grub2) | 2104 | 7412 | 28.4 | German <translation-team-de@lists.sourceforge.net> | 
+ | [python-blivet](/f36/package/python-blivet) | 52 | 584 | 8.9 | German (Switzerland) (http://www.transifex.com/projects/p/blivet/language/de_CH/) | 
+ | [pykickstart](/f36/package/pykickstart) | 128 | 1701 | 7.5 | German (Switzerland) (http://www.transifex.com/projects/p/pykickstart/language/de_CH/) | 
+ | [publican](/f36/package/publican) | 593 | 9066 | 6.5 | <fedora-trans-de@redhat.com> | 
+ | [atril](/f36/package/atril) | 131 | 2352 | 5.6 | German (Switzerland) (https://app.transifex.com/mate/teams/13566/de_CH/) | 
+ | [mate-desktop](/f36/package/mate-desktop) | 104 | 2376 | 4.4 | German (Switzerland) (https://www.transifex.com/mate/teams/13566/de_CH/) | 
+ | [policycoreutils](/f36/package/policycoreutils) | 7 | 4493 | 0.2 | German (Switzerland) | 
+ | [cmake-fedora](/f36/package/cmake-fedora) | 0 | 0 | 0.0 |  | 
+ | [entangle](/f36/package/entangle) | 0 | 953 | 0.0 | German (Switzerland) | 
+ | [fonts-tweak-tool](/f36/package/fonts-tweak-tool) | 0 | 196 | 0.0 | German (Switzerland) | 
+ | [imsettings](/f36/package/imsettings) | 0 | 490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f36/package/initial-setup) | 0 | 33 | 0.0 | German (Switzerland) | 
+ | [libmatekbd](/f36/package/libmatekbd) | 0 | 308 | 0.0 | German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/) | 
+ | [libvirt-sandbox](/f36/package/libvirt-sandbox) | 0 | 617 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/) | 
+ | [mate-menu](/f36/package/mate-menu) | 0 | 308 | 0.0 | German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/) | 
+ | [mate-themes](/f36/package/mate-themes) | 0 | 74 | 0.0 | German (Switzerland) (http://www.transifex.com/mate/MATE/language/de_CH/) | 
+ | [mc](/f36/package/mc) | 0 | 4350 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/mc/language/de_CH/) | 
+ | [pam](/f36/package/pam) | 0 | 535 | 0.0 | German (Switzerland) (http://www.transifex.com/projects/p/fedora/language/de_CH/) | 
+ | [python-fedora](/f36/package/python-fedora) | 0 | 214 | 0.0 | German (Switzerland) | 
+ | [python-meh](/f36/package/python-meh) | 0 | 109 | 0.0 | German (Switzerland) | 
 {.sortable}
 
 
@@ -76,7 +76,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [php-php-gettext]({{< ref "/f36/package/php-php-gettext.md" >}}) | /mnt/stockage/packages/f36/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-php-gettext](/f36/package/php-php-gettext) | /mnt/stockage/packages/f36/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

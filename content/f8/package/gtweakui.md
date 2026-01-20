@@ -18,14 +18,14 @@ The package gtweakui (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 153 | 252 | 60.7 | /mnt/stockage/packages/f8/gtweakui/po/tr.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/ca.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/es.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/pl.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 139 | 252 | 55.2 | /mnt/stockage/packages/f8/gtweakui/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 138 | 252 | 54.8 | /mnt/stockage/packages/f8/gtweakui/po/nl.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 122 | 252 | 48.4 | /mnt/stockage/packages/f8/gtweakui/po/zh_CN.po | 
+ | [tr](/f8/language/tr) | 153 | 252 | 60.7 | /mnt/stockage/packages/f8/gtweakui/po/tr.po | 
+ | [ca](/f8/language/ca) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/ca.po | 
+ | [de](/f8/language/de) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/de.po | 
+ | [es](/f8/language/es) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/es.po | 
+ | [pl](/f8/language/pl) | 146 | 252 | 57.9 | /mnt/stockage/packages/f8/gtweakui/po/pl.po | 
+ | [fr](/f8/language/fr) | 139 | 252 | 55.2 | /mnt/stockage/packages/f8/gtweakui/po/fr.po | 
+ | [nl](/f8/language/nl) | 138 | 252 | 54.8 | /mnt/stockage/packages/f8/gtweakui/po/nl.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 122 | 252 | 48.4 | /mnt/stockage/packages/f8/gtweakui/po/zh_CN.po | 
 {.sortable}
 
 

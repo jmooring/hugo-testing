@@ -18,47 +18,47 @@ The package wdiff (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/cs.po/mnt/stockage/packages/f22/wdiff/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/de.po/mnt/stockage/packages/f22/wdiff/po/de.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/eo.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 1746 | 1746 | 100.0 | /mnt/stockage/packages/f22/wdiff/po/en@boldquot.po/mnt/stockage/packages/f22/wdiff/po/en@quot.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/es.po/mnt/stockage/packages/f22/wdiff/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/fi.po/mnt/stockage/packages/f22/wdiff/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/fr.po/mnt/stockage/packages/f22/wdiff/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/it.po/mnt/stockage/packages/f22/wdiff/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/ja.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/nl.po/mnt/stockage/packages/f22/wdiff/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/pl.po/mnt/stockage/packages/f22/wdiff/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/pt_BR.po/mnt/stockage/packages/f22/wdiff/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/ru.po/mnt/stockage/packages/f22/wdiff/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/sl.po/mnt/stockage/packages/f22/wdiff/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/sv.po/mnt/stockage/packages/f22/wdiff/po/sv.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/uk.po/mnt/stockage/packages/f22/wdiff/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/vi.po/mnt/stockage/packages/f22/wdiff/po/vi.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 959 | 993 | 96.6 | /mnt/stockage/packages/f22/wdiff/lib/po/et.po/mnt/stockage/packages/f22/wdiff/po/et.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 950 | 993 | 95.7 | /mnt/stockage/packages/f22/wdiff/lib/po/da.po/mnt/stockage/packages/f22/wdiff/po/da.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 931 | 993 | 93.8 | /mnt/stockage/packages/f22/wdiff/lib/po/gl.po/mnt/stockage/packages/f22/wdiff/po/gl.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 878 | 993 | 88.4 | /mnt/stockage/packages/f22/wdiff/lib/po/zh_TW.po/mnt/stockage/packages/f22/wdiff/po/zh_TW.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 771 | 993 | 77.6 | /mnt/stockage/packages/f22/wdiff/lib/po/ca.po/mnt/stockage/packages/f22/wdiff/po/ca.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 199 | 993 | 20.0 | /mnt/stockage/packages/f22/wdiff/lib/po/hu.po/mnt/stockage/packages/f22/wdiff/po/hu.po | 
- | [ga]({{< ref "/f22/language/ga.md" >}}) | 182 | 993 | 18.3 | /mnt/stockage/packages/f22/wdiff/lib/po/ga.po/mnt/stockage/packages/f22/wdiff/po/ga.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 168 | 993 | 16.9 | /mnt/stockage/packages/f22/wdiff/lib/po/zh_CN.po/mnt/stockage/packages/f22/wdiff/po/zh_CN.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 127 | 873 | 14.5 | /mnt/stockage/packages/f22/wdiff/po/id.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 132 | 993 | 13.3 | /mnt/stockage/packages/f22/wdiff/lib/po/ms.po/mnt/stockage/packages/f22/wdiff/po/ms.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 98 | 873 | 11.2 | /mnt/stockage/packages/f22/wdiff/po/en_GB.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 103 | 993 | 10.4 | /mnt/stockage/packages/f22/wdiff/lib/po/sk.po/mnt/stockage/packages/f22/wdiff/po/sk.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 103 | 993 | 10.4 | /mnt/stockage/packages/f22/wdiff/lib/po/tr.po/mnt/stockage/packages/f22/wdiff/po/tr.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 101 | 993 | 10.2 | /mnt/stockage/packages/f22/wdiff/lib/po/ro.po/mnt/stockage/packages/f22/wdiff/po/ro.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 95 | 993 | 9.6 | /mnt/stockage/packages/f22/wdiff/lib/po/nb.po/mnt/stockage/packages/f22/wdiff/po/nb.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/af.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/be.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/bg.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/el.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/eu.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/ko.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 1 | 120 | 0.8 | /mnt/stockage/packages/f22/wdiff/lib/po/rw.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 0 | 120 | 0.0 | /mnt/stockage/packages/f22/wdiff/lib/po/pt.po | 
+ | [cs](/f22/language/cs) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/cs.po/mnt/stockage/packages/f22/wdiff/po/cs.po | 
+ | [de](/f22/language/de) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/de.po/mnt/stockage/packages/f22/wdiff/po/de.po | 
+ | [eo](/f22/language/eo) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/eo.po | 
+ | [error](/f22/language/error) | 1746 | 1746 | 100.0 | /mnt/stockage/packages/f22/wdiff/po/en@boldquot.po/mnt/stockage/packages/f22/wdiff/po/en@quot.po | 
+ | [es](/f22/language/es) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/es.po/mnt/stockage/packages/f22/wdiff/po/es.po | 
+ | [fi](/f22/language/fi) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/fi.po/mnt/stockage/packages/f22/wdiff/po/fi.po | 
+ | [fr](/f22/language/fr) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/fr.po/mnt/stockage/packages/f22/wdiff/po/fr.po | 
+ | [it](/f22/language/it) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/it.po/mnt/stockage/packages/f22/wdiff/po/it.po | 
+ | [ja](/f22/language/ja) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/ja.po | 
+ | [nl](/f22/language/nl) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/nl.po/mnt/stockage/packages/f22/wdiff/po/nl.po | 
+ | [pl](/f22/language/pl) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/pl.po/mnt/stockage/packages/f22/wdiff/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/pt_BR.po/mnt/stockage/packages/f22/wdiff/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/ru.po/mnt/stockage/packages/f22/wdiff/po/ru.po | 
+ | [sl](/f22/language/sl) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/sl.po/mnt/stockage/packages/f22/wdiff/po/sl.po | 
+ | [sr](/f22/language/sr) | 120 | 120 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/sr.po | 
+ | [sv](/f22/language/sv) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/sv.po/mnt/stockage/packages/f22/wdiff/po/sv.po | 
+ | [uk](/f22/language/uk) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/uk.po/mnt/stockage/packages/f22/wdiff/po/uk.po | 
+ | [vi](/f22/language/vi) | 993 | 993 | 100.0 | /mnt/stockage/packages/f22/wdiff/lib/po/vi.po/mnt/stockage/packages/f22/wdiff/po/vi.po | 
+ | [et](/f22/language/et) | 959 | 993 | 96.6 | /mnt/stockage/packages/f22/wdiff/lib/po/et.po/mnt/stockage/packages/f22/wdiff/po/et.po | 
+ | [da](/f22/language/da) | 950 | 993 | 95.7 | /mnt/stockage/packages/f22/wdiff/lib/po/da.po/mnt/stockage/packages/f22/wdiff/po/da.po | 
+ | [gl](/f22/language/gl) | 931 | 993 | 93.8 | /mnt/stockage/packages/f22/wdiff/lib/po/gl.po/mnt/stockage/packages/f22/wdiff/po/gl.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 878 | 993 | 88.4 | /mnt/stockage/packages/f22/wdiff/lib/po/zh_TW.po/mnt/stockage/packages/f22/wdiff/po/zh_TW.po | 
+ | [ca](/f22/language/ca) | 771 | 993 | 77.6 | /mnt/stockage/packages/f22/wdiff/lib/po/ca.po/mnt/stockage/packages/f22/wdiff/po/ca.po | 
+ | [hu](/f22/language/hu) | 199 | 993 | 20.0 | /mnt/stockage/packages/f22/wdiff/lib/po/hu.po/mnt/stockage/packages/f22/wdiff/po/hu.po | 
+ | [ga](/f22/language/ga) | 182 | 993 | 18.3 | /mnt/stockage/packages/f22/wdiff/lib/po/ga.po/mnt/stockage/packages/f22/wdiff/po/ga.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 168 | 993 | 16.9 | /mnt/stockage/packages/f22/wdiff/lib/po/zh_CN.po/mnt/stockage/packages/f22/wdiff/po/zh_CN.po | 
+ | [id](/f22/language/id) | 127 | 873 | 14.5 | /mnt/stockage/packages/f22/wdiff/po/id.po | 
+ | [ms](/f22/language/ms) | 132 | 993 | 13.3 | /mnt/stockage/packages/f22/wdiff/lib/po/ms.po/mnt/stockage/packages/f22/wdiff/po/ms.po | 
+ | [en_GB](/f22/language/en_GB) | 98 | 873 | 11.2 | /mnt/stockage/packages/f22/wdiff/po/en_GB.po | 
+ | [sk](/f22/language/sk) | 103 | 993 | 10.4 | /mnt/stockage/packages/f22/wdiff/lib/po/sk.po/mnt/stockage/packages/f22/wdiff/po/sk.po | 
+ | [tr](/f22/language/tr) | 103 | 993 | 10.4 | /mnt/stockage/packages/f22/wdiff/lib/po/tr.po/mnt/stockage/packages/f22/wdiff/po/tr.po | 
+ | [ro](/f22/language/ro) | 101 | 993 | 10.2 | /mnt/stockage/packages/f22/wdiff/lib/po/ro.po/mnt/stockage/packages/f22/wdiff/po/ro.po | 
+ | [nb_NO](/f22/language/nb_NO) | 95 | 993 | 9.6 | /mnt/stockage/packages/f22/wdiff/lib/po/nb.po/mnt/stockage/packages/f22/wdiff/po/nb.po | 
+ | [af](/f22/language/af) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/af.po | 
+ | [be](/f22/language/be) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/be.po | 
+ | [bg](/f22/language/bg) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/bg.po | 
+ | [el](/f22/language/el) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/el.po | 
+ | [eu](/f22/language/eu) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/eu.po | 
+ | [ko](/f22/language/ko) | 5 | 120 | 4.2 | /mnt/stockage/packages/f22/wdiff/lib/po/ko.po | 
+ | [rw](/f22/language/rw) | 1 | 120 | 0.8 | /mnt/stockage/packages/f22/wdiff/lib/po/rw.po | 
+ | [pt](/f22/language/pt) | 0 | 120 | 0.0 | /mnt/stockage/packages/f22/wdiff/lib/po/pt.po | 
 {.sortable}
 
 

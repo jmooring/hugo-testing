@@ -18,66 +18,66 @@ The package gnome-user-share (version 2.28.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/as.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/bg.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/ca/ca.po/mnt/stockage/packages/f12/gnome-user-share/po/ca.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ca@valencia.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/cs/cs.po/mnt/stockage/packages/f12/gnome-user-share/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/de/de.po/mnt/stockage/packages/f12/gnome-user-share/po/de.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/dz.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/el/el.po/mnt/stockage/packages/f12/gnome-user-share/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/en_GB/en_GB.po/mnt/stockage/packages/f12/gnome-user-share/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/es/es.po/mnt/stockage/packages/f12/gnome-user-share/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/fr/fr.po/mnt/stockage/packages/f12/gnome-user-share/po/fr.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ga.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/gu.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/he.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/hi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/it/it.po/mnt/stockage/packages/f12/gnome-user-share/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ko.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/lt.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/mk.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/nb.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ne.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/nl.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/sv/sv.po/mnt/stockage/packages/f12/gnome-user-share/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/zh_CN/zh_CN.po/mnt/stockage/packages/f12/gnome-user-share/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 576 | 576 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/zh_HK.po/mnt/stockage/packages/f12/gnome-user-share/po/zh_TW.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 12 | 257 | 4.7 | /mnt/stockage/packages/f12/gnome-user-share/po/oc.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 2 | 61 | 3.3 | /mnt/stockage/packages/f12/gnome-user-share/po/rw.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 8 | 288 | 2.8 | /mnt/stockage/packages/f12/gnome-user-share/po/mai.po | 
+ | [ar](/f12/language/ar) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ar.po | 
+ | [as](/f12/language/as) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/as.po | 
+ | [bg](/f12/language/bg) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/bg.po | 
+ | [bn](/f12/language/bn) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/ca/ca.po/mnt/stockage/packages/f12/gnome-user-share/po/ca.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 289 | 289 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ca@valencia.po | 
+ | [cs](/f12/language/cs) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/cs/cs.po/mnt/stockage/packages/f12/gnome-user-share/po/cs.po | 
+ | [da](/f12/language/da) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/da.po | 
+ | [de](/f12/language/de) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/de/de.po/mnt/stockage/packages/f12/gnome-user-share/po/de.po | 
+ | [dz](/f12/language/dz) | 75 | 75 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/dz.po | 
+ | [el](/f12/language/el) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/el/el.po/mnt/stockage/packages/f12/gnome-user-share/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/en_GB/en_GB.po/mnt/stockage/packages/f12/gnome-user-share/po/en_GB.po | 
+ | [es](/f12/language/es) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/es/es.po/mnt/stockage/packages/f12/gnome-user-share/po/es.po | 
+ | [et](/f12/language/et) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/et.po | 
+ | [eu](/f12/language/eu) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/eu.po | 
+ | [fi](/f12/language/fi) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/fi.po | 
+ | [fr](/f12/language/fr) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/fr/fr.po/mnt/stockage/packages/f12/gnome-user-share/po/fr.po | 
+ | [ga](/f12/language/ga) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ga.po | 
+ | [gl](/f12/language/gl) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/gl.po | 
+ | [gu](/f12/language/gu) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/gu.po | 
+ | [he](/f12/language/he) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/he.po | 
+ | [hi](/f12/language/hi) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/hi.po | 
+ | [hu](/f12/language/hu) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/hu.po | 
+ | [it](/f12/language/it) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/it/it.po/mnt/stockage/packages/f12/gnome-user-share/po/it.po | 
+ | [ja](/f12/language/ja) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ja.po | 
+ | [kn](/f12/language/kn) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/kn.po | 
+ | [ko](/f12/language/ko) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ko.po | 
+ | [lt](/f12/language/lt) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/lt.po | 
+ | [mk](/f12/language/mk) | 61 | 61 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/mk.po | 
+ | [ml](/f12/language/ml) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ml.po | 
+ | [mr](/f12/language/mr) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/nb.po | 
+ | [ne](/f12/language/ne) | 75 | 75 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ne.po | 
+ | [nl](/f12/language/nl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/nl.po | 
+ | [or](/f12/language/or) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/or.po | 
+ | [pa](/f12/language/pa) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pa.po | 
+ | [pl](/f12/language/pl) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pl.po | 
+ | [pt](/f12/language/pt) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ro.po | 
+ | [ru](/f12/language/ru) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ru.po | 
+ | [sk](/f12/language/sk) | 70 | 70 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sk.po | 
+ | [sl](/f12/language/sl) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sl.po | 
+ | [sq](/f12/language/sq) | 61 | 61 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sq.po | 
+ | [sr](/f12/language/sr) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/sv/sv.po/mnt/stockage/packages/f12/gnome-user-share/po/sv.po | 
+ | [ta](/f12/language/ta) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/ta.po | 
+ | [te](/f12/language/te) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/te.po | 
+ | [th](/f12/language/th) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/th.po | 
+ | [tr](/f12/language/tr) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/tr.po | 
+ | [uk](/f12/language/uk) | 288 | 288 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/uk.po | 
+ | [vi](/f12/language/vi) | 290 | 290 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 1419 | 1419 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/help/zh_CN/zh_CN.po/mnt/stockage/packages/f12/gnome-user-share/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 576 | 576 | 100.0 | /mnt/stockage/packages/f12/gnome-user-share/po/zh_HK.po/mnt/stockage/packages/f12/gnome-user-share/po/zh_TW.po | 
+ | [oc](/f12/language/oc) | 12 | 257 | 4.7 | /mnt/stockage/packages/f12/gnome-user-share/po/oc.po | 
+ | [rw](/f12/language/rw) | 2 | 61 | 3.3 | /mnt/stockage/packages/f12/gnome-user-share/po/rw.po | 
+ | [mai](/f12/language/mai) | 8 | 288 | 2.8 | /mnt/stockage/packages/f12/gnome-user-share/po/mai.po | 
 {.sortable}
 
 

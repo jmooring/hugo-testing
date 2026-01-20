@@ -18,8 +18,8 @@ The package pcb (version 0.20100929):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f13/pcb/po/ru.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f13/pcb/po/fr.po | 
+ | [ru](/f13/language/ru) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f13/pcb/po/ru.po | 
+ | [fr](/f13/language/fr) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f13/pcb/po/fr.po | 
 {.sortable}
 
 

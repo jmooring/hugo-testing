@@ -18,11 +18,11 @@ The package tidy (version 5.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 2734 | 6393 | 42.8 | /mnt/stockage/packages/f25/tidy/localize/translations/language_fr.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 283 | 6490 | 4.4 | /mnt/stockage/packages/f25/tidy/localize/translations/language_es.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 274 | 6490 | 4.2 | /mnt/stockage/packages/f25/tidy/localize/translations/language_en_gb.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 28 | 6490 | 0.4 | /mnt/stockage/packages/f25/tidy/localize/translations/language_es_mx.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 22 | 6490 | 0.3 | /mnt/stockage/packages/f25/tidy/localize/translations/language_zh_cn.po | 
+ | [fr](/f25/language/fr) | 2734 | 6393 | 42.8 | /mnt/stockage/packages/f25/tidy/localize/translations/language_fr.po | 
+ | [es](/f25/language/es) | 283 | 6490 | 4.4 | /mnt/stockage/packages/f25/tidy/localize/translations/language_es.po | 
+ | [en_GB](/f25/language/en_GB) | 274 | 6490 | 4.2 | /mnt/stockage/packages/f25/tidy/localize/translations/language_en_gb.po | 
+ | [es_MX](/f25/language/es_MX) | 28 | 6490 | 0.4 | /mnt/stockage/packages/f25/tidy/localize/translations/language_es_mx.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 22 | 6490 | 0.3 | /mnt/stockage/packages/f25/tidy/localize/translations/language_zh_cn.po | 
 {.sortable}
 
 

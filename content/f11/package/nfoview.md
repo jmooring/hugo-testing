@@ -18,14 +18,14 @@ The package nfoview (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f11/nfoview/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f11/nfoview/po/fr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f11/nfoview/po/pl.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 101 | 109 | 92.7 | /mnt/stockage/packages/f11/nfoview/po/bg.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 101 | 109 | 92.7 | /mnt/stockage/packages/f11/nfoview/po/it.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 101 | 109 | 92.7 | /mnt/stockage/packages/f11/nfoview/po/zh_CN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 97 | 109 | 89.0 | /mnt/stockage/packages/f11/nfoview/po/de.po | 
- | [de_CH]({{< ref "/f11/language/de_CH.md" >}}) | 97 | 109 | 89.0 | /mnt/stockage/packages/f11/nfoview/po/de_CH.po | 
+ | [fi](/f11/language/fi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f11/nfoview/po/fi.po | 
+ | [fr](/f11/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f11/nfoview/po/fr.po | 
+ | [pl](/f11/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f11/nfoview/po/pl.po | 
+ | [bg](/f11/language/bg) | 101 | 109 | 92.7 | /mnt/stockage/packages/f11/nfoview/po/bg.po | 
+ | [it](/f11/language/it) | 101 | 109 | 92.7 | /mnt/stockage/packages/f11/nfoview/po/it.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 101 | 109 | 92.7 | /mnt/stockage/packages/f11/nfoview/po/zh_CN.po | 
+ | [de](/f11/language/de) | 97 | 109 | 89.0 | /mnt/stockage/packages/f11/nfoview/po/de.po | 
+ | [de_CH](/f11/language/de_CH) | 97 | 109 | 89.0 | /mnt/stockage/packages/f11/nfoview/po/de_CH.po | 
 {.sortable}
 
 

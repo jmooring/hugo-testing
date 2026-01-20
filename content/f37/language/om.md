@@ -40,21 +40,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 332375 | 730229 | 45.5 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 1581 | 18949 | 8.3 | Oromo <om@li.org> | 
- | [mate-menu]({{< ref "/f37/package/mate-menu.md" >}}) | 6 | 308 | 1.9 | Oromo (http://www.transifex.com/mate/MATE/language/om/) | 
- | [mate-control-center]({{< ref "/f37/package/mate-control-center.md" >}}) | 22 | 3331 | 0.7 | Oromo (https://www.transifex.com/mate/teams/13566/om/) | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [libmatekbd]({{< ref "/f37/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Oromo (http://www.transifex.com/mate/MATE/language/om/) | 
- | [mate-themes]({{< ref "/f37/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Oromo (http://app.transifex.com/mate/MATE/language/om/) | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [onboard]({{< ref "/f37/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Oromo <om@li.org> | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [libreoffice](/f37/package/libreoffice) | 332375 | 730229 | 45.5 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 1581 | 18949 | 8.3 | Oromo <om@li.org> | 
+ | [mate-menu](/f37/package/mate-menu) | 6 | 308 | 1.9 | Oromo (http://www.transifex.com/mate/MATE/language/om/) | 
+ | [mate-control-center](/f37/package/mate-control-center) | 22 | 3331 | 0.7 | Oromo (https://www.transifex.com/mate/teams/13566/om/) | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [libmatekbd](/f37/package/libmatekbd) | 0 | 308 | 0.0 | Oromo (http://www.transifex.com/mate/MATE/language/om/) | 
+ | [mate-themes](/f37/package/mate-themes) | 0 | 74 | 0.0 | Oromo (http://app.transifex.com/mate/MATE/language/om/) | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [onboard](/f37/package/onboard) | 0 | 2318 | 0.0 | Oromo <om@li.org> | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

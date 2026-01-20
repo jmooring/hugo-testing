@@ -44,12 +44,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [spacefm]({{< ref "/f43/package/spacefm.md" >}}) | 6819 | 8823 | 77.3 | Latgalian (http://www.transifex.com/p/spacefm/language/ltg/) | 
- | [xarchiver]({{< ref "/f43/package/xarchiver.md" >}}) | 790 | 1317 | 60.0 | Latgalian | 
- | [dnfdragora]({{< ref "/f43/package/dnfdragora.md" >}}) | 4 | 39 | 10.3 | Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/) | 
- | [gnome-do]({{< ref "/f43/package/gnome-do.md" >}}) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
- | [manafirewall]({{< ref "/f43/package/manafirewall.md" >}}) | 12 | 1097 | 1.1 | Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/) | 
- | [calibre]({{< ref "/f43/package/calibre.md" >}}) | 6 | 170967 | 0.0 | Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/) | 
+ | [spacefm](/f43/package/spacefm) | 6819 | 8823 | 77.3 | Latgalian (http://www.transifex.com/p/spacefm/language/ltg/) | 
+ | [xarchiver](/f43/package/xarchiver) | 790 | 1317 | 60.0 | Latgalian | 
+ | [dnfdragora](/f43/package/dnfdragora) | 4 | 39 | 10.3 | Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/) | 
+ | [gnome-do](/f43/package/gnome-do) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
+ | [manafirewall](/f43/package/manafirewall) | 12 | 1097 | 1.1 | Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/) | 
+ | [calibre](/f43/package/calibre) | 6 | 170967 | 0.0 | Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/) | 
 {.sortable}
 
 

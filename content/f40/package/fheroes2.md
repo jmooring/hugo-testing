@@ -18,27 +18,27 @@ The package fheroes2 (version 1.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 21317 | 21317 | 100.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/ru.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 21251 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/hu.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 21251 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/pt.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 21251 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/sv.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 21250 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/cs.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 20623 | 21317 | 96.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/uk.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 19957 | 21317 | 93.6 | /mnt/stockage/packages/f40/fheroes2/files/lang/dk.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 19859 | 21317 | 93.2 | /mnt/stockage/packages/f40/fheroes2/files/lang/fr.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 16984 | 21317 | 79.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/vi.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 16849 | 21317 | 79.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/bg.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 16794 | 21317 | 78.8 | /mnt/stockage/packages/f40/fheroes2/files/lang/de.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 16699 | 21317 | 78.3 | /mnt/stockage/packages/f40/fheroes2/files/lang/sk.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 15687 | 21317 | 73.6 | /mnt/stockage/packages/f40/fheroes2/files/lang/nb.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 15556 | 21317 | 73.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/pl.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 12674 | 21317 | 59.5 | /mnt/stockage/packages/f40/fheroes2/files/lang/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 3843 | 21317 | 18.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/it.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 2898 | 21317 | 13.6 | /mnt/stockage/packages/f40/fheroes2/files/lang/tr.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 2303 | 21317 | 10.8 | /mnt/stockage/packages/f40/fheroes2/files/lang/nl.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 1817 | 21317 | 8.5 | /mnt/stockage/packages/f40/fheroes2/files/lang/be.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 1682 | 21317 | 7.9 | /mnt/stockage/packages/f40/fheroes2/files/lang/ro.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 715 | 21317 | 3.4 | /mnt/stockage/packages/f40/fheroes2/files/lang/lt.po | 
+ | [ru](/f40/language/ru) | 21317 | 21317 | 100.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/ru.po | 
+ | [hu](/f40/language/hu) | 21251 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/hu.po | 
+ | [pt_BR](/f40/language/pt_BR) | 21251 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/pt.po | 
+ | [sv](/f40/language/sv) | 21251 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/sv.po | 
+ | [cs](/f40/language/cs) | 21250 | 21317 | 99.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/cs.po | 
+ | [uk](/f40/language/uk) | 20623 | 21317 | 96.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/uk.po | 
+ | [da](/f40/language/da) | 19957 | 21317 | 93.6 | /mnt/stockage/packages/f40/fheroes2/files/lang/dk.po | 
+ | [fr](/f40/language/fr) | 19859 | 21317 | 93.2 | /mnt/stockage/packages/f40/fheroes2/files/lang/fr.po | 
+ | [vi](/f40/language/vi) | 16984 | 21317 | 79.7 | /mnt/stockage/packages/f40/fheroes2/files/lang/vi.po | 
+ | [bg](/f40/language/bg) | 16849 | 21317 | 79.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/bg.po | 
+ | [de](/f40/language/de) | 16794 | 21317 | 78.8 | /mnt/stockage/packages/f40/fheroes2/files/lang/de.po | 
+ | [sk](/f40/language/sk) | 16699 | 21317 | 78.3 | /mnt/stockage/packages/f40/fheroes2/files/lang/sk.po | 
+ | [nb_NO](/f40/language/nb_NO) | 15687 | 21317 | 73.6 | /mnt/stockage/packages/f40/fheroes2/files/lang/nb.po | 
+ | [pl](/f40/language/pl) | 15556 | 21317 | 73.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/pl.po | 
+ | [es](/f40/language/es) | 12674 | 21317 | 59.5 | /mnt/stockage/packages/f40/fheroes2/files/lang/es.po | 
+ | [it](/f40/language/it) | 3843 | 21317 | 18.0 | /mnt/stockage/packages/f40/fheroes2/files/lang/it.po | 
+ | [tr](/f40/language/tr) | 2898 | 21317 | 13.6 | /mnt/stockage/packages/f40/fheroes2/files/lang/tr.po | 
+ | [nl](/f40/language/nl) | 2303 | 21317 | 10.8 | /mnt/stockage/packages/f40/fheroes2/files/lang/nl.po | 
+ | [be](/f40/language/be) | 1817 | 21317 | 8.5 | /mnt/stockage/packages/f40/fheroes2/files/lang/be.po | 
+ | [ro](/f40/language/ro) | 1682 | 21317 | 7.9 | /mnt/stockage/packages/f40/fheroes2/files/lang/ro.po | 
+ | [lt](/f40/language/lt) | 715 | 21317 | 3.4 | /mnt/stockage/packages/f40/fheroes2/files/lang/lt.po | 
 {.sortable}
 
 

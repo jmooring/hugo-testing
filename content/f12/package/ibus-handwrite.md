@@ -18,7 +18,7 @@ The package ibus-handwrite (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f12/ibus-handwrite/po/zh_CN.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 30 | 30 | 100.0 | /mnt/stockage/packages/f12/ibus-handwrite/po/zh_CN.po | 
 {.sortable}
 
 

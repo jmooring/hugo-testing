@@ -18,10 +18,10 @@ The package snapd (version 2.26.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f24/snapd/po/gl.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 409 | 1035 | 39.5 | /mnt/stockage/packages/f24/snapd/po/es.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 16 | 1035 | 1.5 | /mnt/stockage/packages/f24/snapd/po/ug.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 4 | 2672 | 0.1 | /mnt/stockage/packages/f24/snapd/po/de.po | 
+ | [gl](/f24/language/gl) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f24/snapd/po/gl.po | 
+ | [es](/f24/language/es) | 409 | 1035 | 39.5 | /mnt/stockage/packages/f24/snapd/po/es.po | 
+ | [ug](/f24/language/ug) | 16 | 1035 | 1.5 | /mnt/stockage/packages/f24/snapd/po/ug.po | 
+ | [de](/f24/language/de) | 4 | 2672 | 0.1 | /mnt/stockage/packages/f24/snapd/po/de.po | 
 {.sortable}
 
 

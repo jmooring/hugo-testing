@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f19/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f19/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [libmateweather]({{< ref "/f19/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f19/package/openerp.md" >}}) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
- | [openerp7]({{< ref "/f19/package/openerp7.md" >}}) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/projects/p/owncloud/language/es_UY/) | 
+ | [libgweather](/f19/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f19/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [libmateweather](/f19/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f19/package/openerp) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [openerp7](/f19/package/openerp7) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/projects/p/owncloud/language/es_UY/) | 
 {.sortable}
 
 

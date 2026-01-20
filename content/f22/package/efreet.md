@@ -18,20 +18,20 @@ The package efreet (version 1.7.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/el.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/eo.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/ko.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/nl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/pt.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/sl.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/zh_CN.po | 
+ | [cs](/f22/language/cs) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/cs.po | 
+ | [de](/f22/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/de.po | 
+ | [el](/f22/language/el) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/el.po | 
+ | [eo](/f22/language/eo) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/eo.po | 
+ | [es](/f22/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/es.po | 
+ | [fr](/f22/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/fr.po | 
+ | [it](/f22/language/it) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/it.po | 
+ | [ja](/f22/language/ja) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/ja.po | 
+ | [ko](/f22/language/ko) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/ko.po | 
+ | [nl](/f22/language/nl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/nl.po | 
+ | [pt](/f22/language/pt) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/pt.po | 
+ | [ru](/f22/language/ru) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/ru.po | 
+ | [sl](/f22/language/sl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/sl.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1 | 1 | 100.0 | /mnt/stockage/packages/f22/efreet/po/zh_CN.po | 
 {.sortable}
 
 

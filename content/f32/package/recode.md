@@ -18,38 +18,38 @@ The package recode (version 3.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/de.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/eo.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/fr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/pt.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/uk.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/be.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/da.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/es.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ga.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/sr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/tr.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/zh_CN.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 342 | 761 | 44.9 | /mnt/stockage/packages/f32/recode/po/el.po | 
+ | [cs](/f32/language/cs) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/cs.po | 
+ | [de](/f32/language/de) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/de.po | 
+ | [eo](/f32/language/eo) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/eo.po | 
+ | [fi](/f32/language/fi) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/fi.po | 
+ | [fr](/f32/language/fr) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/fr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/nb.po | 
+ | [nl](/f32/language/nl) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/nl.po | 
+ | [pl](/f32/language/pl) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/pl.po | 
+ | [pt](/f32/language/pt) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/pt.po | 
+ | [sv](/f32/language/sv) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/sv.po | 
+ | [uk](/f32/language/uk) | 605 | 761 | 79.5 | /mnt/stockage/packages/f32/recode/po/uk.po | 
+ | [be](/f32/language/be) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/be.po | 
+ | [ca](/f32/language/ca) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ca.po | 
+ | [da](/f32/language/da) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/da.po | 
+ | [es](/f32/language/es) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/es.po | 
+ | [ga](/f32/language/ga) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ga.po | 
+ | [gl](/f32/language/gl) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/gl.po | 
+ | [he](/f32/language/he) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/he.po | 
+ | [hr](/f32/language/hr) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/hr.po | 
+ | [hu](/f32/language/hu) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/hu.po | 
+ | [id](/f32/language/id) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/id.po | 
+ | [it](/f32/language/it) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ro.po | 
+ | [ru](/f32/language/ru) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/ru.po | 
+ | [sk](/f32/language/sk) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/sk.po | 
+ | [sl](/f32/language/sl) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/sl.po | 
+ | [sr](/f32/language/sr) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/sr.po | 
+ | [tr](/f32/language/tr) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/tr.po | 
+ | [vi](/f32/language/vi) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 423 | 761 | 55.6 | /mnt/stockage/packages/f32/recode/po/zh_CN.po | 
+ | [el](/f32/language/el) | 342 | 761 | 44.9 | /mnt/stockage/packages/f32/recode/po/el.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gpar2 (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f14/gpar2/po/fr.po | 
+ | [fr](/f14/language/fr) | 220 | 220 | 100.0 | /mnt/stockage/packages/f14/gpar2/po/fr.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package claws-mail (version 4.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/cs.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/fr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/sk.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/sv.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 21060 | 21088 | 99.9 | /mnt/stockage/packages/f35/claws-mail/po/zh_TW.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 20991 | 21088 | 99.5 | /mnt/stockage/packages/f35/claws-mail/po/tr.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 20080 | 21088 | 95.2 | /mnt/stockage/packages/f35/claws-mail/po/da.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 20008 | 21088 | 94.9 | /mnt/stockage/packages/f35/claws-mail/po/id_ID.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 19923 | 21088 | 94.5 | /mnt/stockage/packages/f35/claws-mail/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 19746 | 21088 | 93.6 | /mnt/stockage/packages/f35/claws-mail/po/el_GR.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 19112 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/it.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 19107 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/fi.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 19107 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/ja.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 19107 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/nb.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 18676 | 21088 | 88.6 | /mnt/stockage/packages/f35/claws-mail/po/hu.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 14932 | 21088 | 70.8 | /mnt/stockage/packages/f35/claws-mail/po/ro.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 680 | 21088 | 3.2 | /mnt/stockage/packages/f35/claws-mail/po/en_GB.po | 
+ | [ca](/f35/language/ca) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/ca.po | 
+ | [cs](/f35/language/cs) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/cs.po | 
+ | [es](/f35/language/es) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/es.po | 
+ | [fr](/f35/language/fr) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/fr.po | 
+ | [nl](/f35/language/nl) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/nl.po | 
+ | [pl](/f35/language/pl) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/ru.po | 
+ | [sk](/f35/language/sk) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/sk.po | 
+ | [sv](/f35/language/sv) | 21080 | 21088 | 100.0 | /mnt/stockage/packages/f35/claws-mail/po/sv.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 21060 | 21088 | 99.9 | /mnt/stockage/packages/f35/claws-mail/po/zh_TW.po | 
+ | [tr](/f35/language/tr) | 20991 | 21088 | 99.5 | /mnt/stockage/packages/f35/claws-mail/po/tr.po | 
+ | [da](/f35/language/da) | 20080 | 21088 | 95.2 | /mnt/stockage/packages/f35/claws-mail/po/da.po | 
+ | [id](/f35/language/id) | 20008 | 21088 | 94.9 | /mnt/stockage/packages/f35/claws-mail/po/id_ID.po | 
+ | [de](/f35/language/de) | 19923 | 21088 | 94.5 | /mnt/stockage/packages/f35/claws-mail/po/de.po | 
+ | [el](/f35/language/el) | 19746 | 21088 | 93.6 | /mnt/stockage/packages/f35/claws-mail/po/el_GR.po | 
+ | [it](/f35/language/it) | 19112 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/it.po | 
+ | [fi](/f35/language/fi) | 19107 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/fi.po | 
+ | [ja](/f35/language/ja) | 19107 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/ja.po | 
+ | [nb_NO](/f35/language/nb_NO) | 19107 | 21088 | 90.6 | /mnt/stockage/packages/f35/claws-mail/po/nb.po | 
+ | [hu](/f35/language/hu) | 18676 | 21088 | 88.6 | /mnt/stockage/packages/f35/claws-mail/po/hu.po | 
+ | [ro](/f35/language/ro) | 14932 | 21088 | 70.8 | /mnt/stockage/packages/f35/claws-mail/po/ro.po | 
+ | [en_GB](/f35/language/en_GB) | 680 | 21088 | 3.2 | /mnt/stockage/packages/f35/claws-mail/po/en_GB.po | 
 {.sortable}
 
 

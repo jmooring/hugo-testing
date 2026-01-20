@@ -18,12 +18,12 @@ The package mesa (version 18.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/ca.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/es.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 323 | 389 | 83.0 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/fr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/nl.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/sv.po | 
+ | [ca](/f28/language/ca) | 415 | 415 | 100.0 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/ca.po | 
+ | [es](/f28/language/es) | 415 | 415 | 100.0 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/es.po | 
+ | [de](/f28/language/de) | 323 | 389 | 83.0 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/de.po | 
+ | [fr](/f28/language/fr) | 244 | 389 | 62.7 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/fr.po | 
+ | [nl](/f28/language/nl) | 244 | 389 | 62.7 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/nl.po | 
+ | [sv](/f28/language/sv) | 244 | 389 | 62.7 | /mnt/stockage/packages/f28/mesa/src/util/xmlpool/sv.po | 
 {.sortable}
 
 

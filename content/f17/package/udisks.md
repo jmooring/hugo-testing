@@ -18,7 +18,7 @@ The package udisks (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 327 | 381 | 85.8 | /mnt/stockage/packages/f17/udisks/po/da.po | 
+ | [da](/f17/language/da) | 327 | 381 | 85.8 | /mnt/stockage/packages/f17/udisks/po/da.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package whois (version 5.5.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/de.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/fi.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/it.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/ka.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/tr.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/da.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/fr.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/pl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/ru.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 438 | 514 | 85.2 | /mnt/stockage/packages/f37/whois/po/zh_CN.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 123 | 514 | 23.9 | /mnt/stockage/packages/f37/whois/po/el.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 123 | 514 | 23.9 | /mnt/stockage/packages/f37/whois/po/ja.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 101 | 514 | 19.6 | /mnt/stockage/packages/f37/whois/po/eu.po | 
+ | [de](/f37/language/de) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/de.po | 
+ | [fi](/f37/language/fi) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/fi.po | 
+ | [it](/f37/language/it) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/it.po | 
+ | [ka](/f37/language/ka) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/ka.po | 
+ | [tr](/f37/language/tr) | 514 | 514 | 100.0 | /mnt/stockage/packages/f37/whois/po/tr.po | 
+ | [cs](/f37/language/cs) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/cs.po | 
+ | [da](/f37/language/da) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/da.po | 
+ | [es](/f37/language/es) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/es.po | 
+ | [fr](/f37/language/fr) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/fr.po | 
+ | [pl](/f37/language/pl) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/pl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 488 | 514 | 94.9 | /mnt/stockage/packages/f37/whois/po/ru.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 438 | 514 | 85.2 | /mnt/stockage/packages/f37/whois/po/zh_CN.po | 
+ | [el](/f37/language/el) | 123 | 514 | 23.9 | /mnt/stockage/packages/f37/whois/po/el.po | 
+ | [ja](/f37/language/ja) | 123 | 514 | 23.9 | /mnt/stockage/packages/f37/whois/po/ja.po | 
+ | [eu](/f37/language/eu) | 101 | 514 | 19.6 | /mnt/stockage/packages/f37/whois/po/eu.po | 
 {.sortable}
 
 

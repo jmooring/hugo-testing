@@ -18,35 +18,35 @@ The package keysmith (version 23.01.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ca/keysmith.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ca@valencia/keysmith.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/de/keysmith.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/en_GB/keysmith.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/es/keysmith.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/fi/keysmith.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/fr/keysmith.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/it/keysmith.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ka/keysmith.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ko/keysmith.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/nl/keysmith.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/nn/keysmith.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/pl/keysmith.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/pt/keysmith.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/pt_BR/keysmith.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ro/keysmith.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/sl/keysmith.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/sv/keysmith.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/tr/keysmith.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/uk/keysmith.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/zh_CN/keysmith.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 198 | 225 | 88.0 | /mnt/stockage/packages/f36/keysmith/po/hu/keysmith.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 137 | 225 | 60.9 | /mnt/stockage/packages/f36/keysmith/po/et/keysmith.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 136 | 225 | 60.4 | /mnt/stockage/packages/f36/keysmith/po/pa/keysmith.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 66 | 225 | 29.3 | /mnt/stockage/packages/f36/keysmith/po/cs/keysmith.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 64 | 225 | 28.4 | /mnt/stockage/packages/f36/keysmith/po/ia/keysmith.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 44 | 225 | 19.6 | /mnt/stockage/packages/f36/keysmith/po/sk/keysmith.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 20 | 225 | 8.9 | /mnt/stockage/packages/f36/keysmith/po/zh_TW/keysmith.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 4 | 225 | 1.8 | /mnt/stockage/packages/f36/keysmith/po/ru/keysmith.po | 
+ | [ca](/f36/language/ca) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ca/keysmith.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ca@valencia/keysmith.po | 
+ | [de](/f36/language/de) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/de/keysmith.po | 
+ | [en_GB](/f36/language/en_GB) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/en_GB/keysmith.po | 
+ | [es](/f36/language/es) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/es/keysmith.po | 
+ | [fi](/f36/language/fi) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/fi/keysmith.po | 
+ | [fr](/f36/language/fr) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/fr/keysmith.po | 
+ | [it](/f36/language/it) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/it/keysmith.po | 
+ | [ka](/f36/language/ka) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ka/keysmith.po | 
+ | [ko](/f36/language/ko) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ko/keysmith.po | 
+ | [nl](/f36/language/nl) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/nl/keysmith.po | 
+ | [nn](/f36/language/nn) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/nn/keysmith.po | 
+ | [pl](/f36/language/pl) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/pl/keysmith.po | 
+ | [pt](/f36/language/pt) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/pt/keysmith.po | 
+ | [pt_BR](/f36/language/pt_BR) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/pt_BR/keysmith.po | 
+ | [ro](/f36/language/ro) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/ro/keysmith.po | 
+ | [sl](/f36/language/sl) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/sl/keysmith.po | 
+ | [sv](/f36/language/sv) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/sv/keysmith.po | 
+ | [tr](/f36/language/tr) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/tr/keysmith.po | 
+ | [uk](/f36/language/uk) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/uk/keysmith.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 225 | 225 | 100.0 | /mnt/stockage/packages/f36/keysmith/po/zh_CN/keysmith.po | 
+ | [hu](/f36/language/hu) | 198 | 225 | 88.0 | /mnt/stockage/packages/f36/keysmith/po/hu/keysmith.po | 
+ | [et](/f36/language/et) | 137 | 225 | 60.9 | /mnt/stockage/packages/f36/keysmith/po/et/keysmith.po | 
+ | [pa](/f36/language/pa) | 136 | 225 | 60.4 | /mnt/stockage/packages/f36/keysmith/po/pa/keysmith.po | 
+ | [cs](/f36/language/cs) | 66 | 225 | 29.3 | /mnt/stockage/packages/f36/keysmith/po/cs/keysmith.po | 
+ | [ia](/f36/language/ia) | 64 | 225 | 28.4 | /mnt/stockage/packages/f36/keysmith/po/ia/keysmith.po | 
+ | [sk](/f36/language/sk) | 44 | 225 | 19.6 | /mnt/stockage/packages/f36/keysmith/po/sk/keysmith.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 20 | 225 | 8.9 | /mnt/stockage/packages/f36/keysmith/po/zh_TW/keysmith.po | 
+ | [ru](/f36/language/ru) | 4 | 225 | 1.8 | /mnt/stockage/packages/f36/keysmith/po/ru/keysmith.po | 
 {.sortable}
 
 

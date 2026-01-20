@@ -18,7 +18,7 @@ The package tilp2 (version 1.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f25/tilp2/po/fr.po | 
+ | [fr](/f25/language/fr) | 1606 | 1606 | 100.0 | /mnt/stockage/packages/f25/tilp2/po/fr.po | 
 {.sortable}
 
 

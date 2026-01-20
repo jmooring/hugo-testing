@@ -18,71 +18,71 @@ The package gnomebaker (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f30/language/ka.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f30/gnomebaker/po/ka.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f30/gnomebaker/po/pt_BR.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f30/gnomebaker/po/sv.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 1154 | 1186 | 97.3 | /mnt/stockage/packages/f30/gnomebaker/po/sk.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 1152 | 1186 | 97.1 | /mnt/stockage/packages/f30/gnomebaker/po/el.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 1147 | 1186 | 96.7 | /mnt/stockage/packages/f30/gnomebaker/po/lt.po | 
- | [pt_PT]({{< ref "/f30/language/pt_PT.md" >}}) | 1113 | 1186 | 93.8 | /mnt/stockage/packages/f30/gnomebaker/po/pt_PT.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 2160 | 2372 | 91.1 | /mnt/stockage/packages/f30/gnomebaker/po/fr_FR.po/mnt/stockage/packages/f30/gnomebaker/po/fr.po | 
- | [es_AR]({{< ref "/f30/language/es_AR.md" >}}) | 1069 | 1186 | 90.1 | /mnt/stockage/packages/f30/gnomebaker/po/es_AR.po | 
- | [es_MX]({{< ref "/f30/language/es_MX.md" >}}) | 1059 | 1186 | 89.3 | /mnt/stockage/packages/f30/gnomebaker/po/es_MX.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 2041 | 2372 | 86.0 | /mnt/stockage/packages/f30/gnomebaker/po/de.po/mnt/stockage/packages/f30/gnomebaker/po/de_DE.po | 
- | [de_AT]({{< ref "/f30/language/de_AT.md" >}}) | 1008 | 1186 | 85.0 | /mnt/stockage/packages/f30/gnomebaker/po/de_AT.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1881 | 2372 | 79.3 | /mnt/stockage/packages/f30/gnomebaker/po/es_ES.po/mnt/stockage/packages/f30/gnomebaker/po/es.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/da.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/fi.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/pl.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/ru.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 894 | 1174 | 76.1 | /mnt/stockage/packages/f30/gnomebaker/po/pt.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1556 | 2372 | 65.6 | /mnt/stockage/packages/f30/gnomebaker/po/it.po/mnt/stockage/packages/f30/gnomebaker/po/it_IT.po | 
- | [en_CA]({{< ref "/f30/language/en_CA.md" >}}) | 772 | 1186 | 65.1 | /mnt/stockage/packages/f30/gnomebaker/po/en_CA.po | 
- | [es_CO]({{< ref "/f30/language/es_CO.md" >}}) | 757 | 1186 | 63.8 | /mnt/stockage/packages/f30/gnomebaker/po/es_CO.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 729 | 1186 | 61.5 | /mnt/stockage/packages/f30/gnomebaker/po/fa.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 1398 | 2353 | 59.4 | /mnt/stockage/packages/f30/gnomebaker/po/nb.po/mnt/stockage/packages/f30/gnomebaker/po/no.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 630 | 1186 | 53.1 | /mnt/stockage/packages/f30/gnomebaker/po/hu.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 1174 | 2372 | 49.5 | /mnt/stockage/packages/f30/gnomebaker/po/zh_CN.po/mnt/stockage/packages/f30/gnomebaker/po/zh.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 546 | 1186 | 46.0 | /mnt/stockage/packages/f30/gnomebaker/po/zh_TW.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 355 | 1186 | 29.9 | /mnt/stockage/packages/f30/gnomebaker/po/pa.po | 
- | [zh_Hant_HK]({{< ref "/f30/language/zh_Hant_HK.md" >}}) | 336 | 1186 | 28.3 | /mnt/stockage/packages/f30/gnomebaker/po/zh_HK.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 326 | 1186 | 27.5 | /mnt/stockage/packages/f30/gnomebaker/po/sr.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 310 | 1186 | 26.1 | /mnt/stockage/packages/f30/gnomebaker/po/ca.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 301 | 1186 | 25.4 | /mnt/stockage/packages/f30/gnomebaker/po/tr.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 287 | 1186 | 24.2 | /mnt/stockage/packages/f30/gnomebaker/po/cs.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 279 | 1167 | 23.9 | /mnt/stockage/packages/f30/gnomebaker/po/bg.po | 
- | [en_US]({{< ref "/f30/language/en_US.md" >}}) | 271 | 1167 | 23.2 | /mnt/stockage/packages/f30/gnomebaker/po/en_US.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 271 | 1167 | 23.2 | /mnt/stockage/packages/f30/gnomebaker/po/ro.po | 
- | [de_CH]({{< ref "/f30/language/de_CH.md" >}}) | 271 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/de_CH.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 271 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/gl.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 271 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/te.po | 
- | [af]({{< ref "/f30/language/af.md" >}}) | 270 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/af.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 246 | 1185 | 20.8 | /mnt/stockage/packages/f30/gnomebaker/po/ms.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 222 | 1186 | 18.7 | /mnt/stockage/packages/f30/gnomebaker/po/uk.po | 
- | [mk]({{< ref "/f30/language/mk.md" >}}) | 220 | 1186 | 18.5 | /mnt/stockage/packages/f30/gnomebaker/po/mk.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 433 | 2353 | 18.4 | /mnt/stockage/packages/f30/gnomebaker/po/nl.po/mnt/stockage/packages/f30/gnomebaker/po/nl_NL.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 182 | 1167 | 15.6 | /mnt/stockage/packages/f30/gnomebaker/po/ko.po | 
- | [es_CR]({{< ref "/f30/language/es_CR.md" >}}) | 159 | 1186 | 13.4 | /mnt/stockage/packages/f30/gnomebaker/po/es_CR.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 145 | 1179 | 12.3 | /mnt/stockage/packages/f30/gnomebaker/po/he.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 271 | 2353 | 11.5 | /mnt/stockage/packages/f30/gnomebaker/po/eu.po/mnt/stockage/packages/f30/gnomebaker/po/eu_ES.po | 
- | [nl_BE]({{< ref "/f30/language/nl_BE.md" >}}) | 117 | 1186 | 9.9 | /mnt/stockage/packages/f30/gnomebaker/po/nl_BE.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 55 | 1186 | 4.6 | /mnt/stockage/packages/f30/gnomebaker/po/sl.po | 
- | [ur]({{< ref "/f30/language/ur.md" >}}) | 53 | 1186 | 4.5 | /mnt/stockage/packages/f30/gnomebaker/po/ur.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 43 | 1176 | 3.7 | /mnt/stockage/packages/f30/gnomebaker/po/hr.po | 
- | [fr_CH]({{< ref "/f30/language/fr_CH.md" >}}) | 41 | 1186 | 3.5 | /mnt/stockage/packages/f30/gnomebaker/po/fr_CH.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 26 | 1186 | 2.2 | /mnt/stockage/packages/f30/gnomebaker/po/et.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 26 | 1186 | 2.2 | /mnt/stockage/packages/f30/gnomebaker/po/ja.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 23 | 1179 | 2.0 | /mnt/stockage/packages/f30/gnomebaker/po/lv.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 23 | 1186 | 1.9 | /mnt/stockage/packages/f30/gnomebaker/po/is.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 23 | 1186 | 1.9 | /mnt/stockage/packages/f30/gnomebaker/po/ml.po | 
- | [en_AU]({{< ref "/f30/language/en_AU.md" >}}) | 21 | 1186 | 1.8 | /mnt/stockage/packages/f30/gnomebaker/po/en_AU.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 20 | 1186 | 1.7 | /mnt/stockage/packages/f30/gnomebaker/po/en.po | 
- | [az]({{< ref "/f30/language/az.md" >}}) | 8 | 1186 | 0.7 | /mnt/stockage/packages/f30/gnomebaker/po/az.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 1 | 1186 | 0.1 | /mnt/stockage/packages/f30/gnomebaker/po/eo.po | 
- | [tl]({{< ref "/f30/language/tl.md" >}}) | 1 | 1186 | 0.1 | /mnt/stockage/packages/f30/gnomebaker/po/tl.po | 
- | [bo]({{< ref "/f30/language/bo.md" >}}) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f30/gnomebaker/po/bo.po | 
- | [st]({{< ref "/f30/language/st.md" >}}) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f30/gnomebaker/po/st.po | 
- | [yi]({{< ref "/f30/language/yi.md" >}}) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f30/gnomebaker/po/yi.po | 
+ | [ka](/f30/language/ka) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f30/gnomebaker/po/ka.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f30/gnomebaker/po/pt_BR.po | 
+ | [sv](/f30/language/sv) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f30/gnomebaker/po/sv.po | 
+ | [sk](/f30/language/sk) | 1154 | 1186 | 97.3 | /mnt/stockage/packages/f30/gnomebaker/po/sk.po | 
+ | [el](/f30/language/el) | 1152 | 1186 | 97.1 | /mnt/stockage/packages/f30/gnomebaker/po/el.po | 
+ | [lt](/f30/language/lt) | 1147 | 1186 | 96.7 | /mnt/stockage/packages/f30/gnomebaker/po/lt.po | 
+ | [pt_PT](/f30/language/pt_PT) | 1113 | 1186 | 93.8 | /mnt/stockage/packages/f30/gnomebaker/po/pt_PT.po | 
+ | [fr](/f30/language/fr) | 2160 | 2372 | 91.1 | /mnt/stockage/packages/f30/gnomebaker/po/fr_FR.po/mnt/stockage/packages/f30/gnomebaker/po/fr.po | 
+ | [es_AR](/f30/language/es_AR) | 1069 | 1186 | 90.1 | /mnt/stockage/packages/f30/gnomebaker/po/es_AR.po | 
+ | [es_MX](/f30/language/es_MX) | 1059 | 1186 | 89.3 | /mnt/stockage/packages/f30/gnomebaker/po/es_MX.po | 
+ | [de](/f30/language/de) | 2041 | 2372 | 86.0 | /mnt/stockage/packages/f30/gnomebaker/po/de.po/mnt/stockage/packages/f30/gnomebaker/po/de_DE.po | 
+ | [de_AT](/f30/language/de_AT) | 1008 | 1186 | 85.0 | /mnt/stockage/packages/f30/gnomebaker/po/de_AT.po | 
+ | [es](/f30/language/es) | 1881 | 2372 | 79.3 | /mnt/stockage/packages/f30/gnomebaker/po/es_ES.po/mnt/stockage/packages/f30/gnomebaker/po/es.po | 
+ | [da](/f30/language/da) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/da.po | 
+ | [fi](/f30/language/fi) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/fi.po | 
+ | [pl](/f30/language/pl) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/pl.po | 
+ | [ru](/f30/language/ru) | 906 | 1186 | 76.4 | /mnt/stockage/packages/f30/gnomebaker/po/ru.po | 
+ | [pt](/f30/language/pt) | 894 | 1174 | 76.1 | /mnt/stockage/packages/f30/gnomebaker/po/pt.po | 
+ | [it](/f30/language/it) | 1556 | 2372 | 65.6 | /mnt/stockage/packages/f30/gnomebaker/po/it.po/mnt/stockage/packages/f30/gnomebaker/po/it_IT.po | 
+ | [en_CA](/f30/language/en_CA) | 772 | 1186 | 65.1 | /mnt/stockage/packages/f30/gnomebaker/po/en_CA.po | 
+ | [es_CO](/f30/language/es_CO) | 757 | 1186 | 63.8 | /mnt/stockage/packages/f30/gnomebaker/po/es_CO.po | 
+ | [fa](/f30/language/fa) | 729 | 1186 | 61.5 | /mnt/stockage/packages/f30/gnomebaker/po/fa.po | 
+ | [nb_NO](/f30/language/nb_NO) | 1398 | 2353 | 59.4 | /mnt/stockage/packages/f30/gnomebaker/po/nb.po/mnt/stockage/packages/f30/gnomebaker/po/no.po | 
+ | [hu](/f30/language/hu) | 630 | 1186 | 53.1 | /mnt/stockage/packages/f30/gnomebaker/po/hu.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 1174 | 2372 | 49.5 | /mnt/stockage/packages/f30/gnomebaker/po/zh_CN.po/mnt/stockage/packages/f30/gnomebaker/po/zh.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 546 | 1186 | 46.0 | /mnt/stockage/packages/f30/gnomebaker/po/zh_TW.po | 
+ | [pa](/f30/language/pa) | 355 | 1186 | 29.9 | /mnt/stockage/packages/f30/gnomebaker/po/pa.po | 
+ | [zh_Hant_HK](/f30/language/zh_Hant_HK) | 336 | 1186 | 28.3 | /mnt/stockage/packages/f30/gnomebaker/po/zh_HK.po | 
+ | [sr](/f30/language/sr) | 326 | 1186 | 27.5 | /mnt/stockage/packages/f30/gnomebaker/po/sr.po | 
+ | [ca](/f30/language/ca) | 310 | 1186 | 26.1 | /mnt/stockage/packages/f30/gnomebaker/po/ca.po | 
+ | [tr](/f30/language/tr) | 301 | 1186 | 25.4 | /mnt/stockage/packages/f30/gnomebaker/po/tr.po | 
+ | [cs](/f30/language/cs) | 287 | 1186 | 24.2 | /mnt/stockage/packages/f30/gnomebaker/po/cs.po | 
+ | [bg](/f30/language/bg) | 279 | 1167 | 23.9 | /mnt/stockage/packages/f30/gnomebaker/po/bg.po | 
+ | [en_US](/f30/language/en_US) | 271 | 1167 | 23.2 | /mnt/stockage/packages/f30/gnomebaker/po/en_US.po | 
+ | [ro](/f30/language/ro) | 271 | 1167 | 23.2 | /mnt/stockage/packages/f30/gnomebaker/po/ro.po | 
+ | [de_CH](/f30/language/de_CH) | 271 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/de_CH.po | 
+ | [gl](/f30/language/gl) | 271 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/gl.po | 
+ | [te](/f30/language/te) | 271 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/te.po | 
+ | [af](/f30/language/af) | 270 | 1186 | 22.8 | /mnt/stockage/packages/f30/gnomebaker/po/af.po | 
+ | [ms](/f30/language/ms) | 246 | 1185 | 20.8 | /mnt/stockage/packages/f30/gnomebaker/po/ms.po | 
+ | [uk](/f30/language/uk) | 222 | 1186 | 18.7 | /mnt/stockage/packages/f30/gnomebaker/po/uk.po | 
+ | [mk](/f30/language/mk) | 220 | 1186 | 18.5 | /mnt/stockage/packages/f30/gnomebaker/po/mk.po | 
+ | [nl](/f30/language/nl) | 433 | 2353 | 18.4 | /mnt/stockage/packages/f30/gnomebaker/po/nl.po/mnt/stockage/packages/f30/gnomebaker/po/nl_NL.po | 
+ | [ko](/f30/language/ko) | 182 | 1167 | 15.6 | /mnt/stockage/packages/f30/gnomebaker/po/ko.po | 
+ | [es_CR](/f30/language/es_CR) | 159 | 1186 | 13.4 | /mnt/stockage/packages/f30/gnomebaker/po/es_CR.po | 
+ | [he](/f30/language/he) | 145 | 1179 | 12.3 | /mnt/stockage/packages/f30/gnomebaker/po/he.po | 
+ | [eu](/f30/language/eu) | 271 | 2353 | 11.5 | /mnt/stockage/packages/f30/gnomebaker/po/eu.po/mnt/stockage/packages/f30/gnomebaker/po/eu_ES.po | 
+ | [nl_BE](/f30/language/nl_BE) | 117 | 1186 | 9.9 | /mnt/stockage/packages/f30/gnomebaker/po/nl_BE.po | 
+ | [sl](/f30/language/sl) | 55 | 1186 | 4.6 | /mnt/stockage/packages/f30/gnomebaker/po/sl.po | 
+ | [ur](/f30/language/ur) | 53 | 1186 | 4.5 | /mnt/stockage/packages/f30/gnomebaker/po/ur.po | 
+ | [hr](/f30/language/hr) | 43 | 1176 | 3.7 | /mnt/stockage/packages/f30/gnomebaker/po/hr.po | 
+ | [fr_CH](/f30/language/fr_CH) | 41 | 1186 | 3.5 | /mnt/stockage/packages/f30/gnomebaker/po/fr_CH.po | 
+ | [et](/f30/language/et) | 26 | 1186 | 2.2 | /mnt/stockage/packages/f30/gnomebaker/po/et.po | 
+ | [ja](/f30/language/ja) | 26 | 1186 | 2.2 | /mnt/stockage/packages/f30/gnomebaker/po/ja.po | 
+ | [lv](/f30/language/lv) | 23 | 1179 | 2.0 | /mnt/stockage/packages/f30/gnomebaker/po/lv.po | 
+ | [is](/f30/language/is) | 23 | 1186 | 1.9 | /mnt/stockage/packages/f30/gnomebaker/po/is.po | 
+ | [ml](/f30/language/ml) | 23 | 1186 | 1.9 | /mnt/stockage/packages/f30/gnomebaker/po/ml.po | 
+ | [en_AU](/f30/language/en_AU) | 21 | 1186 | 1.8 | /mnt/stockage/packages/f30/gnomebaker/po/en_AU.po | 
+ | [en](/f30/language/en) | 20 | 1186 | 1.7 | /mnt/stockage/packages/f30/gnomebaker/po/en.po | 
+ | [az](/f30/language/az) | 8 | 1186 | 0.7 | /mnt/stockage/packages/f30/gnomebaker/po/az.po | 
+ | [eo](/f30/language/eo) | 1 | 1186 | 0.1 | /mnt/stockage/packages/f30/gnomebaker/po/eo.po | 
+ | [tl](/f30/language/tl) | 1 | 1186 | 0.1 | /mnt/stockage/packages/f30/gnomebaker/po/tl.po | 
+ | [bo](/f30/language/bo) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f30/gnomebaker/po/bo.po | 
+ | [st](/f30/language/st) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f30/gnomebaker/po/st.po | 
+ | [yi](/f30/language/yi) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f30/gnomebaker/po/yi.po | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package sane-backends (version 1.0.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/sane-backends/po/nl.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/sane-backends/po/uk.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 4798 | 4907 | 97.8 | /mnt/stockage/packages/f22/sane-backends/po/sv.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 4363 | 4907 | 88.9 | /mnt/stockage/packages/f22/sane-backends/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 4340 | 4907 | 88.4 | /mnt/stockage/packages/f22/sane-backends/po/fr.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 4325 | 4907 | 88.1 | /mnt/stockage/packages/f22/sane-backends/po/pl.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 4257 | 4907 | 86.8 | /mnt/stockage/packages/f22/sane-backends/po/es.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 4257 | 4907 | 86.8 | /mnt/stockage/packages/f22/sane-backends/po/gl.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 4118 | 4907 | 83.9 | /mnt/stockage/packages/f22/sane-backends/po/en_GB.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 3969 | 4907 | 80.9 | /mnt/stockage/packages/f22/sane-backends/po/eo.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3924 | 4907 | 80.0 | /mnt/stockage/packages/f22/sane-backends/po/it.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 3501 | 4907 | 71.3 | /mnt/stockage/packages/f22/sane-backends/po/da.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 3244 | 4907 | 66.1 | /mnt/stockage/packages/f22/sane-backends/po/fi.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 3240 | 4907 | 66.0 | /mnt/stockage/packages/f22/sane-backends/po/bg.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 3113 | 4907 | 63.4 | /mnt/stockage/packages/f22/sane-backends/po/cs.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 2772 | 4907 | 56.5 | /mnt/stockage/packages/f22/sane-backends/po/ru.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2560 | 4907 | 52.2 | /mnt/stockage/packages/f22/sane-backends/po/ja.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 872 | 4907 | 17.8 | /mnt/stockage/packages/f22/sane-backends/po/pt.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 611 | 4907 | 12.5 | /mnt/stockage/packages/f22/sane-backends/po/nb.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 344 | 4907 | 7.0 | /mnt/stockage/packages/f22/sane-backends/po/hu.po | 
+ | [nl](/f22/language/nl) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/sane-backends/po/nl.po | 
+ | [uk](/f22/language/uk) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/sane-backends/po/uk.po | 
+ | [sv](/f22/language/sv) | 4798 | 4907 | 97.8 | /mnt/stockage/packages/f22/sane-backends/po/sv.po | 
+ | [de](/f22/language/de) | 4363 | 4907 | 88.9 | /mnt/stockage/packages/f22/sane-backends/po/de.po | 
+ | [fr](/f22/language/fr) | 4340 | 4907 | 88.4 | /mnt/stockage/packages/f22/sane-backends/po/fr.po | 
+ | [pl](/f22/language/pl) | 4325 | 4907 | 88.1 | /mnt/stockage/packages/f22/sane-backends/po/pl.po | 
+ | [es](/f22/language/es) | 4257 | 4907 | 86.8 | /mnt/stockage/packages/f22/sane-backends/po/es.po | 
+ | [gl](/f22/language/gl) | 4257 | 4907 | 86.8 | /mnt/stockage/packages/f22/sane-backends/po/gl.po | 
+ | [en_GB](/f22/language/en_GB) | 4118 | 4907 | 83.9 | /mnt/stockage/packages/f22/sane-backends/po/en_GB.po | 
+ | [eo](/f22/language/eo) | 3969 | 4907 | 80.9 | /mnt/stockage/packages/f22/sane-backends/po/eo.po | 
+ | [it](/f22/language/it) | 3924 | 4907 | 80.0 | /mnt/stockage/packages/f22/sane-backends/po/it.po | 
+ | [da](/f22/language/da) | 3501 | 4907 | 71.3 | /mnt/stockage/packages/f22/sane-backends/po/da.po | 
+ | [fi](/f22/language/fi) | 3244 | 4907 | 66.1 | /mnt/stockage/packages/f22/sane-backends/po/fi.po | 
+ | [bg](/f22/language/bg) | 3240 | 4907 | 66.0 | /mnt/stockage/packages/f22/sane-backends/po/bg.po | 
+ | [cs](/f22/language/cs) | 3113 | 4907 | 63.4 | /mnt/stockage/packages/f22/sane-backends/po/cs.po | 
+ | [ru](/f22/language/ru) | 2772 | 4907 | 56.5 | /mnt/stockage/packages/f22/sane-backends/po/ru.po | 
+ | [ja](/f22/language/ja) | 2560 | 4907 | 52.2 | /mnt/stockage/packages/f22/sane-backends/po/ja.po | 
+ | [pt](/f22/language/pt) | 872 | 4907 | 17.8 | /mnt/stockage/packages/f22/sane-backends/po/pt.po | 
+ | [nb_NO](/f22/language/nb_NO) | 611 | 4907 | 12.5 | /mnt/stockage/packages/f22/sane-backends/po/nb.po | 
+ | [hu](/f22/language/hu) | 344 | 4907 | 7.0 | /mnt/stockage/packages/f22/sane-backends/po/hu.po | 
 {.sortable}
 
 

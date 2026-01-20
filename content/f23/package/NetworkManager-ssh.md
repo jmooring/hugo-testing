@@ -18,56 +18,56 @@ The package NetworkManager-ssh (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/es.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/id.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/lt.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pt_BR.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/sl.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/gl.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/hu.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/lv.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/sv.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 64 | 286 | 22.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/he.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 61 | 286 | 21.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/nb.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/bg.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/el.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/eu.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/fa.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/it.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pa.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pt.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ro.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/zh_CN.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 76 | 572 | 13.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ca@valencia.po/mnt/stockage/packages/f23/NetworkManager-ssh/po/ca.po | 
- | [as]({{< ref "/f23/language/as.md" >}}) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/as.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/kn.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/mr.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/te.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 70 | 572 | 12.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/zh_TW.po/mnt/stockage/packages/f23/NetworkManager-ssh/po/zh_HK.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 34 | 286 | 11.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/da.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 34 | 286 | 11.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/fi.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 32 | 286 | 11.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/nl.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 27 | 286 | 9.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/en_GB.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 27 | 286 | 9.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ko.po | 
- | [ps]({{< ref "/f23/language/ps.md" >}}) | 26 | 286 | 9.1 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ps.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 24 | 286 | 8.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/gu.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 24 | 286 | 8.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ug.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 19 | 286 | 6.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ar.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 19 | 286 | 6.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/dz.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 19 | 286 | 6.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ja.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 18 | 286 | 6.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/mk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 18 | 286 | 6.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/vi.po | 
- | [ka]({{< ref "/f23/language/ka.md" >}}) | 16 | 286 | 5.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ka.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 16 | 286 | 5.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/th.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 2 | 286 | 0.7 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/sk.po | 
+ | [cs](/f23/language/cs) | 297 | 297 | 100.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/cs.po | 
+ | [de](/f23/language/de) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/de.po | 
+ | [es](/f23/language/es) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/es.po | 
+ | [id](/f23/language/id) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/id.po | 
+ | [lt](/f23/language/lt) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/lt.po | 
+ | [pl](/f23/language/pl) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pt_BR.po | 
+ | [sl](/f23/language/sl) | 120 | 286 | 42.0 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/sl.po | 
+ | [fr](/f23/language/fr) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/fr.po | 
+ | [gl](/f23/language/gl) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/gl.po | 
+ | [hu](/f23/language/hu) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/hu.po | 
+ | [lv](/f23/language/lv) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/lv.po | 
+ | [ru](/f23/language/ru) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ru.po | 
+ | [sv](/f23/language/sv) | 115 | 286 | 40.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/sv.po | 
+ | [he](/f23/language/he) | 64 | 286 | 22.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/he.po | 
+ | [nb_NO](/f23/language/nb_NO) | 61 | 286 | 21.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/nb.po | 
+ | [bg](/f23/language/bg) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/bg.po | 
+ | [el](/f23/language/el) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/el.po | 
+ | [et](/f23/language/et) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/et.po | 
+ | [eu](/f23/language/eu) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/eu.po | 
+ | [fa](/f23/language/fa) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/fa.po | 
+ | [it](/f23/language/it) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/it.po | 
+ | [pa](/f23/language/pa) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pa.po | 
+ | [pt](/f23/language/pt) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/pt.po | 
+ | [ro](/f23/language/ro) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ro.po | 
+ | [uk](/f23/language/uk) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 39 | 286 | 13.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/zh_CN.po | 
+ | [ca](/f23/language/ca) | 76 | 572 | 13.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ca@valencia.po/mnt/stockage/packages/f23/NetworkManager-ssh/po/ca.po | 
+ | [as](/f23/language/as) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/as.po | 
+ | [kn](/f23/language/kn) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/kn.po | 
+ | [mr](/f23/language/mr) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/mr.po | 
+ | [ta](/f23/language/ta) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ta.po | 
+ | [te](/f23/language/te) | 37 | 286 | 12.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/te.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 70 | 572 | 12.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/zh_TW.po/mnt/stockage/packages/f23/NetworkManager-ssh/po/zh_HK.po | 
+ | [da](/f23/language/da) | 34 | 286 | 11.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/da.po | 
+ | [fi](/f23/language/fi) | 34 | 286 | 11.9 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/fi.po | 
+ | [nl](/f23/language/nl) | 32 | 286 | 11.2 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/nl.po | 
+ | [en_GB](/f23/language/en_GB) | 27 | 286 | 9.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/en_GB.po | 
+ | [ko](/f23/language/ko) | 27 | 286 | 9.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ko.po | 
+ | [ps](/f23/language/ps) | 26 | 286 | 9.1 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ps.po | 
+ | [gu](/f23/language/gu) | 24 | 286 | 8.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/gu.po | 
+ | [ug](/f23/language/ug) | 24 | 286 | 8.4 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ug.po | 
+ | [ar](/f23/language/ar) | 19 | 286 | 6.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ar.po | 
+ | [dz](/f23/language/dz) | 19 | 286 | 6.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/dz.po | 
+ | [ja](/f23/language/ja) | 19 | 286 | 6.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ja.po | 
+ | [mk](/f23/language/mk) | 18 | 286 | 6.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/mk.po | 
+ | [vi](/f23/language/vi) | 18 | 286 | 6.3 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/vi.po | 
+ | [ka](/f23/language/ka) | 16 | 286 | 5.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/ka.po | 
+ | [th](/f23/language/th) | 16 | 286 | 5.6 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/th.po | 
+ | [sk](/f23/language/sk) | 2 | 286 | 0.7 | /mnt/stockage/packages/f23/NetworkManager-ssh/po/sk.po | 
 {.sortable}
 
 

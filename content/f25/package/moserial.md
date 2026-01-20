@@ -18,27 +18,27 @@ The package moserial (version 3.0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f25/moserial/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f25/moserial/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/cs/cs.po/mnt/stockage/packages/f25/moserial/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/de/de.po/mnt/stockage/packages/f25/moserial/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/el/el.po/mnt/stockage/packages/f25/moserial/po/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/es/es.po/mnt/stockage/packages/f25/moserial/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/fr/fr.po/mnt/stockage/packages/f25/moserial/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f25/moserial/po/gl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f25/moserial/po/hu.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f25/moserial/po/ja.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f25/moserial/po/ko.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f25/language/pt_PT.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/pt.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f25/moserial/po/sr.po/mnt/stockage/packages/f25/moserial/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/sv/sv.po/mnt/stockage/packages/f25/moserial/po/sv.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f25/moserial/po/zh_CN.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 395 | 480 | 82.3 | /mnt/stockage/packages/f25/moserial/po/ro.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 208 | 525 | 39.6 | /mnt/stockage/packages/f25/moserial/po/nb.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 490 | 2424 | 20.2 | /mnt/stockage/packages/f25/moserial/doc/sl/sl.po/mnt/stockage/packages/f25/moserial/po/sl.po | 
+ | [bs](/f25/language/bs) | 545 | 545 | 100.0 | /mnt/stockage/packages/f25/moserial/po/bs.po | 
+ | [ca](/f25/language/ca) | 757 | 757 | 100.0 | /mnt/stockage/packages/f25/moserial/po/ca.po | 
+ | [cs](/f25/language/cs) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/cs/cs.po/mnt/stockage/packages/f25/moserial/po/cs.po | 
+ | [da](/f25/language/da) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/da.po | 
+ | [de](/f25/language/de) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/de/de.po/mnt/stockage/packages/f25/moserial/po/de.po | 
+ | [el](/f25/language/el) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/el/el.po/mnt/stockage/packages/f25/moserial/po/el.po | 
+ | [es](/f25/language/es) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/es/es.po/mnt/stockage/packages/f25/moserial/po/es.po | 
+ | [fr](/f25/language/fr) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/fr/fr.po/mnt/stockage/packages/f25/moserial/po/fr.po | 
+ | [gl](/f25/language/gl) | 480 | 480 | 100.0 | /mnt/stockage/packages/f25/moserial/po/gl.po | 
+ | [hu](/f25/language/hu) | 545 | 545 | 100.0 | /mnt/stockage/packages/f25/moserial/po/hu.po | 
+ | [ja](/f25/language/ja) | 480 | 480 | 100.0 | /mnt/stockage/packages/f25/moserial/po/ja.po | 
+ | [ko](/f25/language/ko) | 757 | 757 | 100.0 | /mnt/stockage/packages/f25/moserial/po/ko.po | 
+ | [pl](/f25/language/pl) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/pt_BR.po | 
+ | [pt_PT](/f25/language/pt_PT) | 540 | 540 | 100.0 | /mnt/stockage/packages/f25/moserial/po/pt.po | 
+ | [sr](/f25/language/sr) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f25/moserial/po/sr.po/mnt/stockage/packages/f25/moserial/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 2398 | 2398 | 100.0 | /mnt/stockage/packages/f25/moserial/doc/sv/sv.po/mnt/stockage/packages/f25/moserial/po/sv.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 480 | 480 | 100.0 | /mnt/stockage/packages/f25/moserial/po/zh_CN.po | 
+ | [ro](/f25/language/ro) | 395 | 480 | 82.3 | /mnt/stockage/packages/f25/moserial/po/ro.po | 
+ | [nb_NO](/f25/language/nb_NO) | 208 | 525 | 39.6 | /mnt/stockage/packages/f25/moserial/po/nb.po | 
+ | [sl](/f25/language/sl) | 490 | 2424 | 20.2 | /mnt/stockage/packages/f25/moserial/doc/sl/sl.po/mnt/stockage/packages/f25/moserial/po/sl.po | 
 {.sortable}
 
 

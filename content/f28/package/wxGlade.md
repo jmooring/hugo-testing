@@ -18,12 +18,12 @@ The package wxGlade (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f28/wxGlade/po/ja.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 761 | 761 | 100.0 | /mnt/stockage/packages/f28/wxGlade/po/ko.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 197 | 284 | 69.4 | /mnt/stockage/packages/f28/wxGlade/po/it.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 337 | 1403 | 24.0 | /mnt/stockage/packages/f28/wxGlade/po/fr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f28/wxGlade/po/de.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f28/wxGlade/po/en.po | 
+ | [ja](/f28/language/ja) | 2012 | 2012 | 100.0 | /mnt/stockage/packages/f28/wxGlade/po/ja.po | 
+ | [ko](/f28/language/ko) | 761 | 761 | 100.0 | /mnt/stockage/packages/f28/wxGlade/po/ko.po | 
+ | [it](/f28/language/it) | 197 | 284 | 69.4 | /mnt/stockage/packages/f28/wxGlade/po/it.po | 
+ | [fr](/f28/language/fr) | 337 | 1403 | 24.0 | /mnt/stockage/packages/f28/wxGlade/po/fr.po | 
+ | [de](/f28/language/de) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f28/wxGlade/po/de.po | 
+ | [en](/f28/language/en) | 0 | 284 | 0.0 | /mnt/stockage/packages/f28/wxGlade/po/en.po | 
 {.sortable}
 
 

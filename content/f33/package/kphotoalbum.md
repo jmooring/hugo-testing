@@ -18,55 +18,55 @@ The package kphotoalbum (version 5.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/ca/kphotoalbum.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/ca@valencia/kphotoalbum.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/en_GB/kphotoalbum.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/es/kphotoalbum.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/fi/kphotoalbum.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/fr/kphotoalbum.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/nl/kphotoalbum.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/pt/kphotoalbum.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/sv/kphotoalbum.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/uk/kphotoalbum.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 9397 | 9473 | 99.2 | /mnt/stockage/packages/f33/kphotoalbum/po/it/kphotoalbum.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 9201 | 9473 | 97.1 | /mnt/stockage/packages/f33/kphotoalbum/po/et/kphotoalbum.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 9152 | 9473 | 96.6 | /mnt/stockage/packages/f33/kphotoalbum/po/eu/kphotoalbum.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 8669 | 9473 | 91.5 | /mnt/stockage/packages/f33/kphotoalbum/po/gl/kphotoalbum.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 8669 | 9473 | 91.5 | /mnt/stockage/packages/f33/kphotoalbum/po/pl/kphotoalbum.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 8385 | 9473 | 88.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ru/kphotoalbum.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 8175 | 9473 | 86.3 | /mnt/stockage/packages/f33/kphotoalbum/po/pt_BR/kphotoalbum.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 7728 | 9473 | 81.6 | /mnt/stockage/packages/f33/kphotoalbum/po/sk/kphotoalbum.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 7639 | 9473 | 80.6 | /mnt/stockage/packages/f33/kphotoalbum/po/tr/kphotoalbum.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 6880 | 9473 | 72.6 | /mnt/stockage/packages/f33/kphotoalbum/po/de/kphotoalbum.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 6321 | 9473 | 66.7 | /mnt/stockage/packages/f33/kphotoalbum/po/bs/kphotoalbum.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 5312 | 9473 | 56.1 | /mnt/stockage/packages/f33/kphotoalbum/po/zh_TW/kphotoalbum.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 5248 | 9473 | 55.4 | /mnt/stockage/packages/f33/kphotoalbum/po/nb/kphotoalbum.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 5001 | 9473 | 52.8 | /mnt/stockage/packages/f33/kphotoalbum/po/el/kphotoalbum.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 4642 | 9473 | 49.0 | /mnt/stockage/packages/f33/kphotoalbum/po/cs/kphotoalbum.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 4276 | 9473 | 45.1 | /mnt/stockage/packages/f33/kphotoalbum/po/km/kphotoalbum.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 4055 | 9473 | 42.8 | /mnt/stockage/packages/f33/kphotoalbum/po/da/kphotoalbum.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 3063 | 9473 | 32.3 | /mnt/stockage/packages/f33/kphotoalbum/po/nds/kphotoalbum.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 2353 | 9473 | 24.8 | /mnt/stockage/packages/f33/kphotoalbum/po/is/kphotoalbum.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 2224 | 9473 | 23.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ja/kphotoalbum.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 2193 | 9473 | 23.2 | /mnt/stockage/packages/f33/kphotoalbum/po/hu/kphotoalbum.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 2164 | 9473 | 22.8 | /mnt/stockage/packages/f33/kphotoalbum/po/vi/kphotoalbum.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1702 | 9473 | 18.0 | /mnt/stockage/packages/f33/kphotoalbum/po/zh_CN/kphotoalbum.po | 
- | [hne]({{< ref "/f33/language/hne.md" >}}) | 1031 | 9473 | 10.9 | /mnt/stockage/packages/f33/kphotoalbum/po/hne/kphotoalbum.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 995 | 9473 | 10.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ar/kphotoalbum.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 967 | 9473 | 10.2 | /mnt/stockage/packages/f33/kphotoalbum/po/hi/kphotoalbum.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 879 | 9473 | 9.3 | /mnt/stockage/packages/f33/kphotoalbum/po/ga/kphotoalbum.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 449 | 9473 | 4.7 | /mnt/stockage/packages/f33/kphotoalbum/po/bg/kphotoalbum.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 328 | 9473 | 3.5 | /mnt/stockage/packages/f33/kphotoalbum/po/pa/kphotoalbum.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 271 | 9473 | 2.9 | /mnt/stockage/packages/f33/kphotoalbum/po/mr/kphotoalbum.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 240 | 9473 | 2.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ug/kphotoalbum.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 238 | 9473 | 2.5 | /mnt/stockage/packages/f33/kphotoalbum/po/lt/kphotoalbum.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 238 | 9473 | 2.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ro/kphotoalbum.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 225 | 9473 | 2.4 | /mnt/stockage/packages/f33/kphotoalbum/po/eo/kphotoalbum.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 153 | 9473 | 1.6 | /mnt/stockage/packages/f33/kphotoalbum/po/mai/kphotoalbum.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 135 | 9473 | 1.4 | /mnt/stockage/packages/f33/kphotoalbum/po/be/kphotoalbum.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 129 | 9473 | 1.4 | /mnt/stockage/packages/f33/kphotoalbum/po/nn/kphotoalbum.po | 
- | [se]({{< ref "/f33/language/se.md" >}}) | 17 | 9473 | 0.2 | /mnt/stockage/packages/f33/kphotoalbum/po/se/kphotoalbum.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 2 | 9473 | 0.0 | /mnt/stockage/packages/f33/kphotoalbum/po/hr/kphotoalbum.po | 
+ | [ca](/f33/language/ca) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/ca/kphotoalbum.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/ca@valencia/kphotoalbum.po | 
+ | [en_GB](/f33/language/en_GB) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/en_GB/kphotoalbum.po | 
+ | [es](/f33/language/es) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/es/kphotoalbum.po | 
+ | [fi](/f33/language/fi) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/fi/kphotoalbum.po | 
+ | [fr](/f33/language/fr) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/fr/kphotoalbum.po | 
+ | [nl](/f33/language/nl) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/nl/kphotoalbum.po | 
+ | [pt](/f33/language/pt) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/pt/kphotoalbum.po | 
+ | [sv](/f33/language/sv) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/sv/kphotoalbum.po | 
+ | [uk](/f33/language/uk) | 9473 | 9473 | 100.0 | /mnt/stockage/packages/f33/kphotoalbum/po/uk/kphotoalbum.po | 
+ | [it](/f33/language/it) | 9397 | 9473 | 99.2 | /mnt/stockage/packages/f33/kphotoalbum/po/it/kphotoalbum.po | 
+ | [et](/f33/language/et) | 9201 | 9473 | 97.1 | /mnt/stockage/packages/f33/kphotoalbum/po/et/kphotoalbum.po | 
+ | [eu](/f33/language/eu) | 9152 | 9473 | 96.6 | /mnt/stockage/packages/f33/kphotoalbum/po/eu/kphotoalbum.po | 
+ | [gl](/f33/language/gl) | 8669 | 9473 | 91.5 | /mnt/stockage/packages/f33/kphotoalbum/po/gl/kphotoalbum.po | 
+ | [pl](/f33/language/pl) | 8669 | 9473 | 91.5 | /mnt/stockage/packages/f33/kphotoalbum/po/pl/kphotoalbum.po | 
+ | [ru](/f33/language/ru) | 8385 | 9473 | 88.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ru/kphotoalbum.po | 
+ | [pt_BR](/f33/language/pt_BR) | 8175 | 9473 | 86.3 | /mnt/stockage/packages/f33/kphotoalbum/po/pt_BR/kphotoalbum.po | 
+ | [sk](/f33/language/sk) | 7728 | 9473 | 81.6 | /mnt/stockage/packages/f33/kphotoalbum/po/sk/kphotoalbum.po | 
+ | [tr](/f33/language/tr) | 7639 | 9473 | 80.6 | /mnt/stockage/packages/f33/kphotoalbum/po/tr/kphotoalbum.po | 
+ | [de](/f33/language/de) | 6880 | 9473 | 72.6 | /mnt/stockage/packages/f33/kphotoalbum/po/de/kphotoalbum.po | 
+ | [bs](/f33/language/bs) | 6321 | 9473 | 66.7 | /mnt/stockage/packages/f33/kphotoalbum/po/bs/kphotoalbum.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 5312 | 9473 | 56.1 | /mnt/stockage/packages/f33/kphotoalbum/po/zh_TW/kphotoalbum.po | 
+ | [nb_NO](/f33/language/nb_NO) | 5248 | 9473 | 55.4 | /mnt/stockage/packages/f33/kphotoalbum/po/nb/kphotoalbum.po | 
+ | [el](/f33/language/el) | 5001 | 9473 | 52.8 | /mnt/stockage/packages/f33/kphotoalbum/po/el/kphotoalbum.po | 
+ | [cs](/f33/language/cs) | 4642 | 9473 | 49.0 | /mnt/stockage/packages/f33/kphotoalbum/po/cs/kphotoalbum.po | 
+ | [km](/f33/language/km) | 4276 | 9473 | 45.1 | /mnt/stockage/packages/f33/kphotoalbum/po/km/kphotoalbum.po | 
+ | [da](/f33/language/da) | 4055 | 9473 | 42.8 | /mnt/stockage/packages/f33/kphotoalbum/po/da/kphotoalbum.po | 
+ | [nds](/f33/language/nds) | 3063 | 9473 | 32.3 | /mnt/stockage/packages/f33/kphotoalbum/po/nds/kphotoalbum.po | 
+ | [is](/f33/language/is) | 2353 | 9473 | 24.8 | /mnt/stockage/packages/f33/kphotoalbum/po/is/kphotoalbum.po | 
+ | [ja](/f33/language/ja) | 2224 | 9473 | 23.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ja/kphotoalbum.po | 
+ | [hu](/f33/language/hu) | 2193 | 9473 | 23.2 | /mnt/stockage/packages/f33/kphotoalbum/po/hu/kphotoalbum.po | 
+ | [vi](/f33/language/vi) | 2164 | 9473 | 22.8 | /mnt/stockage/packages/f33/kphotoalbum/po/vi/kphotoalbum.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1702 | 9473 | 18.0 | /mnt/stockage/packages/f33/kphotoalbum/po/zh_CN/kphotoalbum.po | 
+ | [hne](/f33/language/hne) | 1031 | 9473 | 10.9 | /mnt/stockage/packages/f33/kphotoalbum/po/hne/kphotoalbum.po | 
+ | [ar](/f33/language/ar) | 995 | 9473 | 10.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ar/kphotoalbum.po | 
+ | [hi](/f33/language/hi) | 967 | 9473 | 10.2 | /mnt/stockage/packages/f33/kphotoalbum/po/hi/kphotoalbum.po | 
+ | [ga](/f33/language/ga) | 879 | 9473 | 9.3 | /mnt/stockage/packages/f33/kphotoalbum/po/ga/kphotoalbum.po | 
+ | [bg](/f33/language/bg) | 449 | 9473 | 4.7 | /mnt/stockage/packages/f33/kphotoalbum/po/bg/kphotoalbum.po | 
+ | [pa](/f33/language/pa) | 328 | 9473 | 3.5 | /mnt/stockage/packages/f33/kphotoalbum/po/pa/kphotoalbum.po | 
+ | [mr](/f33/language/mr) | 271 | 9473 | 2.9 | /mnt/stockage/packages/f33/kphotoalbum/po/mr/kphotoalbum.po | 
+ | [ug](/f33/language/ug) | 240 | 9473 | 2.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ug/kphotoalbum.po | 
+ | [lt](/f33/language/lt) | 238 | 9473 | 2.5 | /mnt/stockage/packages/f33/kphotoalbum/po/lt/kphotoalbum.po | 
+ | [ro](/f33/language/ro) | 238 | 9473 | 2.5 | /mnt/stockage/packages/f33/kphotoalbum/po/ro/kphotoalbum.po | 
+ | [eo](/f33/language/eo) | 225 | 9473 | 2.4 | /mnt/stockage/packages/f33/kphotoalbum/po/eo/kphotoalbum.po | 
+ | [mai](/f33/language/mai) | 153 | 9473 | 1.6 | /mnt/stockage/packages/f33/kphotoalbum/po/mai/kphotoalbum.po | 
+ | [be](/f33/language/be) | 135 | 9473 | 1.4 | /mnt/stockage/packages/f33/kphotoalbum/po/be/kphotoalbum.po | 
+ | [nn](/f33/language/nn) | 129 | 9473 | 1.4 | /mnt/stockage/packages/f33/kphotoalbum/po/nn/kphotoalbum.po | 
+ | [se](/f33/language/se) | 17 | 9473 | 0.2 | /mnt/stockage/packages/f33/kphotoalbum/po/se/kphotoalbum.po | 
+ | [hr](/f33/language/hr) | 2 | 9473 | 0.0 | /mnt/stockage/packages/f33/kphotoalbum/po/hr/kphotoalbum.po | 
 {.sortable}
 
 

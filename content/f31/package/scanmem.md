@@ -18,12 +18,12 @@ The package scanmem (version 0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cnr]({{< ref "/f31/language/cnr.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/sr_ME.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/es.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/it.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 337 | 548 | 61.5 | /mnt/stockage/packages/f31/scanmem/po/ru.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 322 | 548 | 58.8 | /mnt/stockage/packages/f31/scanmem/po/ja.po | 
+ | [cnr](/f31/language/cnr) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/sr_ME.po | 
+ | [de](/f31/language/de) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/de.po | 
+ | [es](/f31/language/es) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/es.po | 
+ | [it](/f31/language/it) | 548 | 548 | 100.0 | /mnt/stockage/packages/f31/scanmem/po/it.po | 
+ | [ru](/f31/language/ru) | 337 | 548 | 61.5 | /mnt/stockage/packages/f31/scanmem/po/ru.po | 
+ | [ja](/f31/language/ja) | 322 | 548 | 58.8 | /mnt/stockage/packages/f31/scanmem/po/ja.po | 
 {.sortable}
 
 

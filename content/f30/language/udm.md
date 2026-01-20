@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python2-django1.11]({{< ref "/f30/package/python2-django1.11.md" >}}) | 475 | 3350 | 14.2 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
- | [python-django]({{< ref "/f30/package/python-django.md" >}}) | 475 | 3426 | 13.9 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
+ | [python2-django1.11](/f30/package/python2-django1.11) | 475 | 3350 | 14.2 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
+ | [python-django](/f30/package/python-django) | 475 | 3426 | 13.9 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package sdcv (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f24/sdcv/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/sk.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/zh_TW.po | 
+ | [ru](/f24/language/ru) | 131 | 131 | 100.0 | /mnt/stockage/packages/f24/sdcv/po/ru.po | 
+ | [sk](/f24/language/sk) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/sk.po | 
+ | [uk](/f24/language/uk) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 107 | 131 | 81.7 | /mnt/stockage/packages/f24/sdcv/po/zh_TW.po | 
 {.sortable}
 
 

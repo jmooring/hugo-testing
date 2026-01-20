@@ -18,204 +18,204 @@ The package granite-7 (version 7.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/ca.po/mnt/stockage/packages/f40/granite-7/po/extra/ca.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/en_GB.po/mnt/stockage/packages/f40/granite-7/po/extra/en_GB.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/ja.po/mnt/stockage/packages/f40/granite-7/po/extra/ja.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/pl.po/mnt/stockage/packages/f40/granite-7/po/extra/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/ru.po/mnt/stockage/packages/f40/granite-7/po/extra/ru.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 313 | 369 | 84.8 | /mnt/stockage/packages/f40/granite-7/po/he.po/mnt/stockage/packages/f40/granite-7/po/extra/he.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 300 | 369 | 81.3 | /mnt/stockage/packages/f40/granite-7/po/fr.po/mnt/stockage/packages/f40/granite-7/po/extra/fr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 300 | 369 | 81.3 | /mnt/stockage/packages/f40/granite-7/po/uk.po/mnt/stockage/packages/f40/granite-7/po/extra/uk.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 209 | 369 | 56.6 | /mnt/stockage/packages/f40/granite-7/po/nl.po/mnt/stockage/packages/f40/granite-7/po/extra/nl.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 127 | 369 | 34.4 | /mnt/stockage/packages/f40/granite-7/po/cs.po/mnt/stockage/packages/f40/granite-7/po/extra/cs.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 113 | 369 | 30.6 | /mnt/stockage/packages/f40/granite-7/po/tr.po/mnt/stockage/packages/f40/granite-7/po/extra/tr.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 108 | 369 | 29.3 | /mnt/stockage/packages/f40/granite-7/po/pt.po/mnt/stockage/packages/f40/granite-7/po/extra/pt.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 106 | 369 | 28.7 | /mnt/stockage/packages/f40/granite-7/po/de.po/mnt/stockage/packages/f40/granite-7/po/extra/de.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 106 | 369 | 28.7 | /mnt/stockage/packages/f40/granite-7/po/hu.po/mnt/stockage/packages/f40/granite-7/po/extra/hu.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 105 | 369 | 28.5 | /mnt/stockage/packages/f40/granite-7/po/nn.po/mnt/stockage/packages/f40/granite-7/po/extra/nn.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 105 | 369 | 28.5 | /mnt/stockage/packages/f40/granite-7/po/pt_BR.po/mnt/stockage/packages/f40/granite-7/po/extra/pt_BR.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/ar.po/mnt/stockage/packages/f40/granite-7/po/extra/ar.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/es.po/mnt/stockage/packages/f40/granite-7/po/extra/es.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/mr.po/mnt/stockage/packages/f40/granite-7/po/extra/mr.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/sr.po/mnt/stockage/packages/f40/granite-7/po/extra/sr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 102 | 369 | 27.6 | /mnt/stockage/packages/f40/granite-7/po/it.po/mnt/stockage/packages/f40/granite-7/po/extra/it.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 98 | 369 | 26.6 | /mnt/stockage/packages/f40/granite-7/po/da.po/mnt/stockage/packages/f40/granite-7/po/extra/da.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 97 | 369 | 26.3 | /mnt/stockage/packages/f40/granite-7/po/eo.po/mnt/stockage/packages/f40/granite-7/po/extra/eo.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 95 | 369 | 25.7 | /mnt/stockage/packages/f40/granite-7/po/sl.po/mnt/stockage/packages/f40/granite-7/po/extra/sl.po | 
- | [ckb]({{< ref "/f40/language/ckb.md" >}}) | 80 | 369 | 21.7 | /mnt/stockage/packages/f40/granite-7/po/ckb.po/mnt/stockage/packages/f40/granite-7/po/extra/ckb.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 78 | 369 | 21.1 | /mnt/stockage/packages/f40/granite-7/po/ka.po/mnt/stockage/packages/f40/granite-7/po/extra/ka.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 71 | 369 | 19.2 | /mnt/stockage/packages/f40/granite-7/po/fi.po/mnt/stockage/packages/f40/granite-7/po/extra/fi.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 69 | 369 | 18.7 | /mnt/stockage/packages/f40/granite-7/po/ko.po/mnt/stockage/packages/f40/granite-7/po/extra/ko.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/gl.po/mnt/stockage/packages/f40/granite-7/po/extra/gl.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/lt.po/mnt/stockage/packages/f40/granite-7/po/extra/lt.po | 
- | [szl]({{< ref "/f40/language/szl.md" >}}) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/szl.po/mnt/stockage/packages/f40/granite-7/po/extra/szl.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/zh_TW.po/mnt/stockage/packages/f40/granite-7/po/extra/zh_TW.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 47 | 369 | 12.7 | /mnt/stockage/packages/f40/granite-7/po/bs.po/mnt/stockage/packages/f40/granite-7/po/extra/bs.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 43 | 369 | 11.7 | /mnt/stockage/packages/f40/granite-7/po/oc.po/mnt/stockage/packages/f40/granite-7/po/extra/oc.po | 
- | [ie]({{< ref "/f40/language/ie.md" >}}) | 42 | 369 | 11.4 | /mnt/stockage/packages/f40/granite-7/po/ie.po/mnt/stockage/packages/f40/granite-7/po/extra/ie.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 42 | 369 | 11.4 | /mnt/stockage/packages/f40/granite-7/po/sv.po/mnt/stockage/packages/f40/granite-7/po/extra/sv.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 79 | 738 | 10.7 | /mnt/stockage/packages/f40/granite-7/po/zh_CN.po/mnt/stockage/packages/f40/granite-7/po/zh.po/mnt/stockage/packages/f40/granite-7/po/extra/zh_CN.po/mnt/stockage/packages/f40/granite-7/po/extra/zh.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 71 | 738 | 9.6 | /mnt/stockage/packages/f40/granite-7/po/id_ID.po/mnt/stockage/packages/f40/granite-7/po/id.po/mnt/stockage/packages/f40/granite-7/po/extra/id_ID.po/mnt/stockage/packages/f40/granite-7/po/extra/id.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 63 | 738 | 8.5 | /mnt/stockage/packages/f40/granite-7/po/no.po/mnt/stockage/packages/f40/granite-7/po/nb.po/mnt/stockage/packages/f40/granite-7/po/extra/no.po/mnt/stockage/packages/f40/granite-7/po/extra/nb.po | 
- | [en_AU]({{< ref "/f40/language/en_AU.md" >}}) | 26 | 369 | 7.0 | /mnt/stockage/packages/f40/granite-7/po/en_AU.po/mnt/stockage/packages/f40/granite-7/po/extra/en_AU.po | 
- | [en_CA]({{< ref "/f40/language/en_CA.md" >}}) | 26 | 369 | 7.0 | /mnt/stockage/packages/f40/granite-7/po/en_CA.po/mnt/stockage/packages/f40/granite-7/po/extra/en_CA.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 19 | 369 | 5.1 | /mnt/stockage/packages/f40/granite-7/po/sk.po/mnt/stockage/packages/f40/granite-7/po/extra/sk.po | 
- | [ak]({{< ref "/f40/language/ak.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ak.po/mnt/stockage/packages/f40/granite-7/po/extra/ak.po | 
- | [am]({{< ref "/f40/language/am.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/am.po/mnt/stockage/packages/f40/granite-7/po/extra/am.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/az.po/mnt/stockage/packages/f40/granite-7/po/extra/az.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/bg.po/mnt/stockage/packages/f40/granite-7/po/extra/bg.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/et.po/mnt/stockage/packages/f40/granite-7/po/extra/et.po | 
- | [fr_CA]({{< ref "/f40/language/fr_CA.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/fr_CA.po/mnt/stockage/packages/f40/granite-7/po/extra/fr_CA.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/hr.po/mnt/stockage/packages/f40/granite-7/po/extra/hr.po | 
- | [ku]({{< ref "/f40/language/ku.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ku.po/mnt/stockage/packages/f40/granite-7/po/extra/ku.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ro.po/mnt/stockage/packages/f40/granite-7/po/extra/ro.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/sq.po/mnt/stockage/packages/f40/granite-7/po/extra/sq.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ug.po/mnt/stockage/packages/f40/granite-7/po/extra/ug.po | 
- | [ur]({{< ref "/f40/language/ur.md" >}}) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ur.po/mnt/stockage/packages/f40/granite-7/po/extra/ur.po | 
- | [af]({{< ref "/f40/language/af.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/af.po/mnt/stockage/packages/f40/granite-7/po/extra/af.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/be.po/mnt/stockage/packages/f40/granite-7/po/extra/be.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/el.po/mnt/stockage/packages/f40/granite-7/po/extra/el.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/eu.po/mnt/stockage/packages/f40/granite-7/po/extra/eu.po | 
- | [fy]({{< ref "/f40/language/fy.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/fy.po/mnt/stockage/packages/f40/granite-7/po/extra/fy.po | 
- | [hy]({{< ref "/f40/language/hy.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/hy.po/mnt/stockage/packages/f40/granite-7/po/extra/hy.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/ms.po/mnt/stockage/packages/f40/granite-7/po/extra/ms.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 12 | 369 | 3.3 | /mnt/stockage/packages/f40/granite-7/po/ta.po/mnt/stockage/packages/f40/granite-7/po/extra/ta.po | 
- | [tl]({{< ref "/f40/language/tl.md" >}}) | 12 | 369 | 3.3 | /mnt/stockage/packages/f40/granite-7/po/tl.po/mnt/stockage/packages/f40/granite-7/po/extra/tl.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 10 | 369 | 2.7 | /mnt/stockage/packages/f40/granite-7/po/fa.po/mnt/stockage/packages/f40/granite-7/po/extra/fa.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 4 | 369 | 1.1 | /mnt/stockage/packages/f40/granite-7/po/hi.po/mnt/stockage/packages/f40/granite-7/po/extra/hi.po | 
- | [sma]({{< ref "/f40/language/sma.md" >}}) | 4 | 369 | 1.1 | /mnt/stockage/packages/f40/granite-7/po/sma.po/mnt/stockage/packages/f40/granite-7/po/extra/sma.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 2 | 369 | 0.5 | /mnt/stockage/packages/f40/granite-7/po/ml.po/mnt/stockage/packages/f40/granite-7/po/extra/ml.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 1 | 369 | 0.3 | /mnt/stockage/packages/f40/granite-7/po/gu.po/mnt/stockage/packages/f40/granite-7/po/extra/gu.po | 
- | [uz]({{< ref "/f40/language/uz.md" >}}) | 1 | 369 | 0.3 | /mnt/stockage/packages/f40/granite-7/po/uz.po/mnt/stockage/packages/f40/granite-7/po/extra/uz.po | 
- | [aa]({{< ref "/f40/language/aa.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/aa.po/mnt/stockage/packages/f40/granite-7/po/extra/aa.po | 
- | [ab]({{< ref "/f40/language/ab.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ab.po/mnt/stockage/packages/f40/granite-7/po/extra/ab.po | 
- | [ace]({{< ref "/f40/language/ace.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ace.po/mnt/stockage/packages/f40/granite-7/po/extra/ace.po | 
- | [ae]({{< ref "/f40/language/ae.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ae.po/mnt/stockage/packages/f40/granite-7/po/extra/ae.po | 
- | [an]({{< ref "/f40/language/an.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/an.po/mnt/stockage/packages/f40/granite-7/po/extra/an.po | 
- | [as]({{< ref "/f40/language/as.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/as.po/mnt/stockage/packages/f40/granite-7/po/extra/as.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ast.po/mnt/stockage/packages/f40/granite-7/po/extra/ast.po | 
- | [av]({{< ref "/f40/language/av.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/av.po/mnt/stockage/packages/f40/granite-7/po/extra/av.po | 
- | [ay]({{< ref "/f40/language/ay.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ay.po/mnt/stockage/packages/f40/granite-7/po/extra/ay.po | 
- | [ba]({{< ref "/f40/language/ba.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ba.po/mnt/stockage/packages/f40/granite-7/po/extra/ba.po | 
- | [bh]({{< ref "/f40/language/bh.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bh.po/mnt/stockage/packages/f40/granite-7/po/extra/bh.po | 
- | [bi]({{< ref "/f40/language/bi.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bi.po/mnt/stockage/packages/f40/granite-7/po/extra/bi.po | 
- | [bm]({{< ref "/f40/language/bm.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bm.po/mnt/stockage/packages/f40/granite-7/po/extra/bm.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bn.po/mnt/stockage/packages/f40/granite-7/po/extra/bn.po | 
- | [bo]({{< ref "/f40/language/bo.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bo.po/mnt/stockage/packages/f40/granite-7/po/extra/bo.po | 
- | [br]({{< ref "/f40/language/br.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/br.po/mnt/stockage/packages/f40/granite-7/po/extra/br.po | 
- | [ce]({{< ref "/f40/language/ce.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ce.po/mnt/stockage/packages/f40/granite-7/po/extra/ce.po | 
- | [ch]({{< ref "/f40/language/ch.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ch.po/mnt/stockage/packages/f40/granite-7/po/extra/ch.po | 
- | [co]({{< ref "/f40/language/co.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/co.po/mnt/stockage/packages/f40/granite-7/po/extra/co.po | 
- | [cr]({{< ref "/f40/language/cr.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cr.po/mnt/stockage/packages/f40/granite-7/po/extra/cr.po | 
- | [cu]({{< ref "/f40/language/cu.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cu.po/mnt/stockage/packages/f40/granite-7/po/extra/cu.po | 
- | [cv]({{< ref "/f40/language/cv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cv.po/mnt/stockage/packages/f40/granite-7/po/extra/cv.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cy.po/mnt/stockage/packages/f40/granite-7/po/extra/cy.po | 
- | [dv]({{< ref "/f40/language/dv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/dv.po/mnt/stockage/packages/f40/granite-7/po/extra/dv.po | 
- | [dz]({{< ref "/f40/language/dz.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/dz.po/mnt/stockage/packages/f40/granite-7/po/extra/dz.po | 
- | [ee]({{< ref "/f40/language/ee.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ee.po/mnt/stockage/packages/f40/granite-7/po/extra/ee.po | 
- | [ff]({{< ref "/f40/language/ff.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ff.po/mnt/stockage/packages/f40/granite-7/po/extra/ff.po | 
- | [fil]({{< ref "/f40/language/fil.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/fil.po/mnt/stockage/packages/f40/granite-7/po/extra/fil.po | 
- | [fj]({{< ref "/f40/language/fj.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/fj.po/mnt/stockage/packages/f40/granite-7/po/extra/fj.po | 
- | [fo]({{< ref "/f40/language/fo.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/fo.po/mnt/stockage/packages/f40/granite-7/po/extra/fo.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ga.po/mnt/stockage/packages/f40/granite-7/po/extra/ga.po | 
- | [gd]({{< ref "/f40/language/gd.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/gd.po/mnt/stockage/packages/f40/granite-7/po/extra/gd.po | 
- | [gn]({{< ref "/f40/language/gn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/gn.po/mnt/stockage/packages/f40/granite-7/po/extra/gn.po | 
- | [gv]({{< ref "/f40/language/gv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/gv.po/mnt/stockage/packages/f40/granite-7/po/extra/gv.po | 
- | [ha]({{< ref "/f40/language/ha.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ha.po/mnt/stockage/packages/f40/granite-7/po/extra/ha.po | 
- | [ho]({{< ref "/f40/language/ho.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ho.po/mnt/stockage/packages/f40/granite-7/po/extra/ho.po | 
- | [ht]({{< ref "/f40/language/ht.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ht.po/mnt/stockage/packages/f40/granite-7/po/extra/ht.po | 
- | [hz]({{< ref "/f40/language/hz.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/hz.po/mnt/stockage/packages/f40/granite-7/po/extra/hz.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ia.po/mnt/stockage/packages/f40/granite-7/po/extra/ia.po | 
- | [ig]({{< ref "/f40/language/ig.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ig.po/mnt/stockage/packages/f40/granite-7/po/extra/ig.po | 
- | [ii]({{< ref "/f40/language/ii.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ii.po/mnt/stockage/packages/f40/granite-7/po/extra/ii.po | 
- | [ik]({{< ref "/f40/language/ik.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ik.po/mnt/stockage/packages/f40/granite-7/po/extra/ik.po | 
- | [io]({{< ref "/f40/language/io.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/io.po/mnt/stockage/packages/f40/granite-7/po/extra/io.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/is.po/mnt/stockage/packages/f40/granite-7/po/extra/is.po | 
- | [iu]({{< ref "/f40/language/iu.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/iu.po/mnt/stockage/packages/f40/granite-7/po/extra/iu.po | 
- | [jv]({{< ref "/f40/language/jv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/jv.po/mnt/stockage/packages/f40/granite-7/po/extra/jv.po | 
- | [kg]({{< ref "/f40/language/kg.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kg.po/mnt/stockage/packages/f40/granite-7/po/extra/kg.po | 
- | [ki]({{< ref "/f40/language/ki.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ki.po/mnt/stockage/packages/f40/granite-7/po/extra/ki.po | 
- | [kj]({{< ref "/f40/language/kj.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kj.po/mnt/stockage/packages/f40/granite-7/po/extra/kj.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kk.po/mnt/stockage/packages/f40/granite-7/po/extra/kk.po | 
- | [kl]({{< ref "/f40/language/kl.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kl.po/mnt/stockage/packages/f40/granite-7/po/extra/kl.po | 
- | [km]({{< ref "/f40/language/km.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/km.po/mnt/stockage/packages/f40/granite-7/po/extra/km.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kn.po/mnt/stockage/packages/f40/granite-7/po/extra/kn.po | 
- | [kr]({{< ref "/f40/language/kr.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kr.po/mnt/stockage/packages/f40/granite-7/po/extra/kr.po | 
- | [ks]({{< ref "/f40/language/ks.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ks.po/mnt/stockage/packages/f40/granite-7/po/extra/ks.po | 
- | [kv]({{< ref "/f40/language/kv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kv.po/mnt/stockage/packages/f40/granite-7/po/extra/kv.po | 
- | [kw]({{< ref "/f40/language/kw.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kw.po/mnt/stockage/packages/f40/granite-7/po/extra/kw.po | 
- | [ky]({{< ref "/f40/language/ky.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ky.po/mnt/stockage/packages/f40/granite-7/po/extra/ky.po | 
- | [la]({{< ref "/f40/language/la.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/la.po/mnt/stockage/packages/f40/granite-7/po/extra/la.po | 
- | [lb]({{< ref "/f40/language/lb.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lb.po/mnt/stockage/packages/f40/granite-7/po/extra/lb.po | 
- | [lg]({{< ref "/f40/language/lg.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lg.po/mnt/stockage/packages/f40/granite-7/po/extra/lg.po | 
- | [li]({{< ref "/f40/language/li.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/li.po/mnt/stockage/packages/f40/granite-7/po/extra/li.po | 
- | [ln]({{< ref "/f40/language/ln.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ln.po/mnt/stockage/packages/f40/granite-7/po/extra/ln.po | 
- | [lo]({{< ref "/f40/language/lo.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lo.po/mnt/stockage/packages/f40/granite-7/po/extra/lo.po | 
- | [lu]({{< ref "/f40/language/lu.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lu.po/mnt/stockage/packages/f40/granite-7/po/extra/lu.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lv.po/mnt/stockage/packages/f40/granite-7/po/extra/lv.po | 
- | [mg]({{< ref "/f40/language/mg.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mg.po/mnt/stockage/packages/f40/granite-7/po/extra/mg.po | 
- | [mh]({{< ref "/f40/language/mh.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mh.po/mnt/stockage/packages/f40/granite-7/po/extra/mh.po | 
- | [mi]({{< ref "/f40/language/mi.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mi.po/mnt/stockage/packages/f40/granite-7/po/extra/mi.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mk.po/mnt/stockage/packages/f40/granite-7/po/extra/mk.po | 
- | [mn]({{< ref "/f40/language/mn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mn.po/mnt/stockage/packages/f40/granite-7/po/extra/mn.po | 
- | [mt]({{< ref "/f40/language/mt.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mt.po/mnt/stockage/packages/f40/granite-7/po/extra/mt.po | 
- | [my]({{< ref "/f40/language/my.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/my.po/mnt/stockage/packages/f40/granite-7/po/extra/my.po | 
- | [na]({{< ref "/f40/language/na.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/na.po/mnt/stockage/packages/f40/granite-7/po/extra/na.po | 
- | [nd]({{< ref "/f40/language/nd.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/nd.po/mnt/stockage/packages/f40/granite-7/po/extra/nd.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ne.po/mnt/stockage/packages/f40/granite-7/po/extra/ne.po | 
- | [ng]({{< ref "/f40/language/ng.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ng.po/mnt/stockage/packages/f40/granite-7/po/extra/ng.po | 
- | [nr]({{< ref "/f40/language/nr.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/nr.po/mnt/stockage/packages/f40/granite-7/po/extra/nr.po | 
- | [nv]({{< ref "/f40/language/nv.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/nv.po/mnt/stockage/packages/f40/granite-7/po/extra/nv.po | 
- | [ny]({{< ref "/f40/language/ny.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ny.po/mnt/stockage/packages/f40/granite-7/po/extra/ny.po | 
- | [oj]({{< ref "/f40/language/oj.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/oj.po/mnt/stockage/packages/f40/granite-7/po/extra/oj.po | 
- | [om]({{< ref "/f40/language/om.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/om.po/mnt/stockage/packages/f40/granite-7/po/extra/om.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/or.po/mnt/stockage/packages/f40/granite-7/po/extra/or.po | 
- | [os]({{< ref "/f40/language/os.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/os.po/mnt/stockage/packages/f40/granite-7/po/extra/os.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/pa.po/mnt/stockage/packages/f40/granite-7/po/extra/pa.po | 
- | [pi]({{< ref "/f40/language/pi.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/pi.po/mnt/stockage/packages/f40/granite-7/po/extra/pi.po | 
- | [ps]({{< ref "/f40/language/ps.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ps.po/mnt/stockage/packages/f40/granite-7/po/extra/ps.po | 
- | [qu]({{< ref "/f40/language/qu.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/qu.po/mnt/stockage/packages/f40/granite-7/po/extra/qu.po | 
- | [rm]({{< ref "/f40/language/rm.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rm.po/mnt/stockage/packages/f40/granite-7/po/extra/rm.po | 
- | [rn]({{< ref "/f40/language/rn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rn.po/mnt/stockage/packages/f40/granite-7/po/extra/rn.po | 
- | [ro_MD]({{< ref "/f40/language/ro_MD.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mo.po/mnt/stockage/packages/f40/granite-7/po/extra/mo.po | 
- | [rue]({{< ref "/f40/language/rue.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rue.po/mnt/stockage/packages/f40/granite-7/po/extra/rue.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rw.po/mnt/stockage/packages/f40/granite-7/po/extra/rw.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sa.po/mnt/stockage/packages/f40/granite-7/po/extra/sa.po | 
- | [sc]({{< ref "/f40/language/sc.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sc.po/mnt/stockage/packages/f40/granite-7/po/extra/sc.po | 
- | [sd]({{< ref "/f40/language/sd.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sd.po/mnt/stockage/packages/f40/granite-7/po/extra/sd.po | 
- | [se]({{< ref "/f40/language/se.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/se.po/mnt/stockage/packages/f40/granite-7/po/extra/se.po | 
- | [sg]({{< ref "/f40/language/sg.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sg.po/mnt/stockage/packages/f40/granite-7/po/extra/sg.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/si.po/mnt/stockage/packages/f40/granite-7/po/extra/si.po | 
- | [sm]({{< ref "/f40/language/sm.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sm.po/mnt/stockage/packages/f40/granite-7/po/extra/sm.po | 
- | [sn]({{< ref "/f40/language/sn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sn.po/mnt/stockage/packages/f40/granite-7/po/extra/sn.po | 
- | [so]({{< ref "/f40/language/so.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/so.po/mnt/stockage/packages/f40/granite-7/po/extra/so.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sr@latin.po/mnt/stockage/packages/f40/granite-7/po/extra/sr@latin.po | 
- | [ss]({{< ref "/f40/language/ss.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ss.po/mnt/stockage/packages/f40/granite-7/po/extra/ss.po | 
- | [st]({{< ref "/f40/language/st.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/st.po/mnt/stockage/packages/f40/granite-7/po/extra/st.po | 
- | [su]({{< ref "/f40/language/su.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/su.po/mnt/stockage/packages/f40/granite-7/po/extra/su.po | 
- | [sw]({{< ref "/f40/language/sw.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sw.po/mnt/stockage/packages/f40/granite-7/po/extra/sw.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/te.po/mnt/stockage/packages/f40/granite-7/po/extra/te.po | 
- | [tg]({{< ref "/f40/language/tg.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tg.po/mnt/stockage/packages/f40/granite-7/po/extra/tg.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/th.po/mnt/stockage/packages/f40/granite-7/po/extra/th.po | 
- | [ti]({{< ref "/f40/language/ti.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ti.po/mnt/stockage/packages/f40/granite-7/po/extra/ti.po | 
- | [tk]({{< ref "/f40/language/tk.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tk.po/mnt/stockage/packages/f40/granite-7/po/extra/tk.po | 
- | [tn]({{< ref "/f40/language/tn.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tn.po/mnt/stockage/packages/f40/granite-7/po/extra/tn.po | 
- | [to]({{< ref "/f40/language/to.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/to.po/mnt/stockage/packages/f40/granite-7/po/extra/to.po | 
- | [ts]({{< ref "/f40/language/ts.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ts.po/mnt/stockage/packages/f40/granite-7/po/extra/ts.po | 
- | [tt]({{< ref "/f40/language/tt.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tt.po/mnt/stockage/packages/f40/granite-7/po/extra/tt.po | 
- | [tw]({{< ref "/f40/language/tw.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tw.po/mnt/stockage/packages/f40/granite-7/po/extra/tw.po | 
- | [ty]({{< ref "/f40/language/ty.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ty.po/mnt/stockage/packages/f40/granite-7/po/extra/ty.po | 
- | [ve]({{< ref "/f40/language/ve.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ve.po/mnt/stockage/packages/f40/granite-7/po/extra/ve.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/vi.po/mnt/stockage/packages/f40/granite-7/po/extra/vi.po | 
- | [vo]({{< ref "/f40/language/vo.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/vo.po/mnt/stockage/packages/f40/granite-7/po/extra/vo.po | 
- | [wa]({{< ref "/f40/language/wa.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/wa.po/mnt/stockage/packages/f40/granite-7/po/extra/wa.po | 
- | [wo]({{< ref "/f40/language/wo.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/wo.po/mnt/stockage/packages/f40/granite-7/po/extra/wo.po | 
- | [xh]({{< ref "/f40/language/xh.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/xh.po/mnt/stockage/packages/f40/granite-7/po/extra/xh.po | 
- | [yi]({{< ref "/f40/language/yi.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/yi.po/mnt/stockage/packages/f40/granite-7/po/extra/yi.po | 
- | [yo]({{< ref "/f40/language/yo.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/yo.po/mnt/stockage/packages/f40/granite-7/po/extra/yo.po | 
- | [za]({{< ref "/f40/language/za.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/za.po/mnt/stockage/packages/f40/granite-7/po/extra/za.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/zh_HK.po/mnt/stockage/packages/f40/granite-7/po/extra/zh_HK.po | 
- | [zu]({{< ref "/f40/language/zu.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/zu.po/mnt/stockage/packages/f40/granite-7/po/extra/zu.po | 
+ | [ca](/f40/language/ca) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/ca.po/mnt/stockage/packages/f40/granite-7/po/extra/ca.po | 
+ | [en_GB](/f40/language/en_GB) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/en_GB.po/mnt/stockage/packages/f40/granite-7/po/extra/en_GB.po | 
+ | [ja](/f40/language/ja) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/ja.po/mnt/stockage/packages/f40/granite-7/po/extra/ja.po | 
+ | [pl](/f40/language/pl) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/pl.po/mnt/stockage/packages/f40/granite-7/po/extra/pl.po | 
+ | [ru](/f40/language/ru) | 369 | 369 | 100.0 | /mnt/stockage/packages/f40/granite-7/po/ru.po/mnt/stockage/packages/f40/granite-7/po/extra/ru.po | 
+ | [he](/f40/language/he) | 313 | 369 | 84.8 | /mnt/stockage/packages/f40/granite-7/po/he.po/mnt/stockage/packages/f40/granite-7/po/extra/he.po | 
+ | [fr](/f40/language/fr) | 300 | 369 | 81.3 | /mnt/stockage/packages/f40/granite-7/po/fr.po/mnt/stockage/packages/f40/granite-7/po/extra/fr.po | 
+ | [uk](/f40/language/uk) | 300 | 369 | 81.3 | /mnt/stockage/packages/f40/granite-7/po/uk.po/mnt/stockage/packages/f40/granite-7/po/extra/uk.po | 
+ | [nl](/f40/language/nl) | 209 | 369 | 56.6 | /mnt/stockage/packages/f40/granite-7/po/nl.po/mnt/stockage/packages/f40/granite-7/po/extra/nl.po | 
+ | [cs](/f40/language/cs) | 127 | 369 | 34.4 | /mnt/stockage/packages/f40/granite-7/po/cs.po/mnt/stockage/packages/f40/granite-7/po/extra/cs.po | 
+ | [tr](/f40/language/tr) | 113 | 369 | 30.6 | /mnt/stockage/packages/f40/granite-7/po/tr.po/mnt/stockage/packages/f40/granite-7/po/extra/tr.po | 
+ | [pt](/f40/language/pt) | 108 | 369 | 29.3 | /mnt/stockage/packages/f40/granite-7/po/pt.po/mnt/stockage/packages/f40/granite-7/po/extra/pt.po | 
+ | [de](/f40/language/de) | 106 | 369 | 28.7 | /mnt/stockage/packages/f40/granite-7/po/de.po/mnt/stockage/packages/f40/granite-7/po/extra/de.po | 
+ | [hu](/f40/language/hu) | 106 | 369 | 28.7 | /mnt/stockage/packages/f40/granite-7/po/hu.po/mnt/stockage/packages/f40/granite-7/po/extra/hu.po | 
+ | [nn](/f40/language/nn) | 105 | 369 | 28.5 | /mnt/stockage/packages/f40/granite-7/po/nn.po/mnt/stockage/packages/f40/granite-7/po/extra/nn.po | 
+ | [pt_BR](/f40/language/pt_BR) | 105 | 369 | 28.5 | /mnt/stockage/packages/f40/granite-7/po/pt_BR.po/mnt/stockage/packages/f40/granite-7/po/extra/pt_BR.po | 
+ | [ar](/f40/language/ar) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/ar.po/mnt/stockage/packages/f40/granite-7/po/extra/ar.po | 
+ | [es](/f40/language/es) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/es.po/mnt/stockage/packages/f40/granite-7/po/extra/es.po | 
+ | [mr](/f40/language/mr) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/mr.po/mnt/stockage/packages/f40/granite-7/po/extra/mr.po | 
+ | [sr](/f40/language/sr) | 103 | 369 | 27.9 | /mnt/stockage/packages/f40/granite-7/po/sr.po/mnt/stockage/packages/f40/granite-7/po/extra/sr.po | 
+ | [it](/f40/language/it) | 102 | 369 | 27.6 | /mnt/stockage/packages/f40/granite-7/po/it.po/mnt/stockage/packages/f40/granite-7/po/extra/it.po | 
+ | [da](/f40/language/da) | 98 | 369 | 26.6 | /mnt/stockage/packages/f40/granite-7/po/da.po/mnt/stockage/packages/f40/granite-7/po/extra/da.po | 
+ | [eo](/f40/language/eo) | 97 | 369 | 26.3 | /mnt/stockage/packages/f40/granite-7/po/eo.po/mnt/stockage/packages/f40/granite-7/po/extra/eo.po | 
+ | [sl](/f40/language/sl) | 95 | 369 | 25.7 | /mnt/stockage/packages/f40/granite-7/po/sl.po/mnt/stockage/packages/f40/granite-7/po/extra/sl.po | 
+ | [ckb](/f40/language/ckb) | 80 | 369 | 21.7 | /mnt/stockage/packages/f40/granite-7/po/ckb.po/mnt/stockage/packages/f40/granite-7/po/extra/ckb.po | 
+ | [ka](/f40/language/ka) | 78 | 369 | 21.1 | /mnt/stockage/packages/f40/granite-7/po/ka.po/mnt/stockage/packages/f40/granite-7/po/extra/ka.po | 
+ | [fi](/f40/language/fi) | 71 | 369 | 19.2 | /mnt/stockage/packages/f40/granite-7/po/fi.po/mnt/stockage/packages/f40/granite-7/po/extra/fi.po | 
+ | [ko](/f40/language/ko) | 69 | 369 | 18.7 | /mnt/stockage/packages/f40/granite-7/po/ko.po/mnt/stockage/packages/f40/granite-7/po/extra/ko.po | 
+ | [gl](/f40/language/gl) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/gl.po/mnt/stockage/packages/f40/granite-7/po/extra/gl.po | 
+ | [lt](/f40/language/lt) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/lt.po/mnt/stockage/packages/f40/granite-7/po/extra/lt.po | 
+ | [szl](/f40/language/szl) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/szl.po/mnt/stockage/packages/f40/granite-7/po/extra/szl.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 62 | 369 | 16.8 | /mnt/stockage/packages/f40/granite-7/po/zh_TW.po/mnt/stockage/packages/f40/granite-7/po/extra/zh_TW.po | 
+ | [bs](/f40/language/bs) | 47 | 369 | 12.7 | /mnt/stockage/packages/f40/granite-7/po/bs.po/mnt/stockage/packages/f40/granite-7/po/extra/bs.po | 
+ | [oc](/f40/language/oc) | 43 | 369 | 11.7 | /mnt/stockage/packages/f40/granite-7/po/oc.po/mnt/stockage/packages/f40/granite-7/po/extra/oc.po | 
+ | [ie](/f40/language/ie) | 42 | 369 | 11.4 | /mnt/stockage/packages/f40/granite-7/po/ie.po/mnt/stockage/packages/f40/granite-7/po/extra/ie.po | 
+ | [sv](/f40/language/sv) | 42 | 369 | 11.4 | /mnt/stockage/packages/f40/granite-7/po/sv.po/mnt/stockage/packages/f40/granite-7/po/extra/sv.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 79 | 738 | 10.7 | /mnt/stockage/packages/f40/granite-7/po/zh_CN.po/mnt/stockage/packages/f40/granite-7/po/zh.po/mnt/stockage/packages/f40/granite-7/po/extra/zh_CN.po/mnt/stockage/packages/f40/granite-7/po/extra/zh.po | 
+ | [id](/f40/language/id) | 71 | 738 | 9.6 | /mnt/stockage/packages/f40/granite-7/po/id_ID.po/mnt/stockage/packages/f40/granite-7/po/id.po/mnt/stockage/packages/f40/granite-7/po/extra/id_ID.po/mnt/stockage/packages/f40/granite-7/po/extra/id.po | 
+ | [nb_NO](/f40/language/nb_NO) | 63 | 738 | 8.5 | /mnt/stockage/packages/f40/granite-7/po/no.po/mnt/stockage/packages/f40/granite-7/po/nb.po/mnt/stockage/packages/f40/granite-7/po/extra/no.po/mnt/stockage/packages/f40/granite-7/po/extra/nb.po | 
+ | [en_AU](/f40/language/en_AU) | 26 | 369 | 7.0 | /mnt/stockage/packages/f40/granite-7/po/en_AU.po/mnt/stockage/packages/f40/granite-7/po/extra/en_AU.po | 
+ | [en_CA](/f40/language/en_CA) | 26 | 369 | 7.0 | /mnt/stockage/packages/f40/granite-7/po/en_CA.po/mnt/stockage/packages/f40/granite-7/po/extra/en_CA.po | 
+ | [sk](/f40/language/sk) | 19 | 369 | 5.1 | /mnt/stockage/packages/f40/granite-7/po/sk.po/mnt/stockage/packages/f40/granite-7/po/extra/sk.po | 
+ | [ak](/f40/language/ak) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ak.po/mnt/stockage/packages/f40/granite-7/po/extra/ak.po | 
+ | [am](/f40/language/am) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/am.po/mnt/stockage/packages/f40/granite-7/po/extra/am.po | 
+ | [az](/f40/language/az) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/az.po/mnt/stockage/packages/f40/granite-7/po/extra/az.po | 
+ | [bg](/f40/language/bg) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/bg.po/mnt/stockage/packages/f40/granite-7/po/extra/bg.po | 
+ | [et](/f40/language/et) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/et.po/mnt/stockage/packages/f40/granite-7/po/extra/et.po | 
+ | [fr_CA](/f40/language/fr_CA) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/fr_CA.po/mnt/stockage/packages/f40/granite-7/po/extra/fr_CA.po | 
+ | [hr](/f40/language/hr) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/hr.po/mnt/stockage/packages/f40/granite-7/po/extra/hr.po | 
+ | [ku](/f40/language/ku) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ku.po/mnt/stockage/packages/f40/granite-7/po/extra/ku.po | 
+ | [ro](/f40/language/ro) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ro.po/mnt/stockage/packages/f40/granite-7/po/extra/ro.po | 
+ | [sq](/f40/language/sq) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/sq.po/mnt/stockage/packages/f40/granite-7/po/extra/sq.po | 
+ | [ug](/f40/language/ug) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ug.po/mnt/stockage/packages/f40/granite-7/po/extra/ug.po | 
+ | [ur](/f40/language/ur) | 14 | 369 | 3.8 | /mnt/stockage/packages/f40/granite-7/po/ur.po/mnt/stockage/packages/f40/granite-7/po/extra/ur.po | 
+ | [af](/f40/language/af) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/af.po/mnt/stockage/packages/f40/granite-7/po/extra/af.po | 
+ | [be](/f40/language/be) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/be.po/mnt/stockage/packages/f40/granite-7/po/extra/be.po | 
+ | [el](/f40/language/el) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/el.po/mnt/stockage/packages/f40/granite-7/po/extra/el.po | 
+ | [eu](/f40/language/eu) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/eu.po/mnt/stockage/packages/f40/granite-7/po/extra/eu.po | 
+ | [fy](/f40/language/fy) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/fy.po/mnt/stockage/packages/f40/granite-7/po/extra/fy.po | 
+ | [hy](/f40/language/hy) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/hy.po/mnt/stockage/packages/f40/granite-7/po/extra/hy.po | 
+ | [ms](/f40/language/ms) | 13 | 369 | 3.5 | /mnt/stockage/packages/f40/granite-7/po/ms.po/mnt/stockage/packages/f40/granite-7/po/extra/ms.po | 
+ | [ta](/f40/language/ta) | 12 | 369 | 3.3 | /mnt/stockage/packages/f40/granite-7/po/ta.po/mnt/stockage/packages/f40/granite-7/po/extra/ta.po | 
+ | [tl](/f40/language/tl) | 12 | 369 | 3.3 | /mnt/stockage/packages/f40/granite-7/po/tl.po/mnt/stockage/packages/f40/granite-7/po/extra/tl.po | 
+ | [fa](/f40/language/fa) | 10 | 369 | 2.7 | /mnt/stockage/packages/f40/granite-7/po/fa.po/mnt/stockage/packages/f40/granite-7/po/extra/fa.po | 
+ | [hi](/f40/language/hi) | 4 | 369 | 1.1 | /mnt/stockage/packages/f40/granite-7/po/hi.po/mnt/stockage/packages/f40/granite-7/po/extra/hi.po | 
+ | [sma](/f40/language/sma) | 4 | 369 | 1.1 | /mnt/stockage/packages/f40/granite-7/po/sma.po/mnt/stockage/packages/f40/granite-7/po/extra/sma.po | 
+ | [ml](/f40/language/ml) | 2 | 369 | 0.5 | /mnt/stockage/packages/f40/granite-7/po/ml.po/mnt/stockage/packages/f40/granite-7/po/extra/ml.po | 
+ | [gu](/f40/language/gu) | 1 | 369 | 0.3 | /mnt/stockage/packages/f40/granite-7/po/gu.po/mnt/stockage/packages/f40/granite-7/po/extra/gu.po | 
+ | [uz](/f40/language/uz) | 1 | 369 | 0.3 | /mnt/stockage/packages/f40/granite-7/po/uz.po/mnt/stockage/packages/f40/granite-7/po/extra/uz.po | 
+ | [aa](/f40/language/aa) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/aa.po/mnt/stockage/packages/f40/granite-7/po/extra/aa.po | 
+ | [ab](/f40/language/ab) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ab.po/mnt/stockage/packages/f40/granite-7/po/extra/ab.po | 
+ | [ace](/f40/language/ace) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ace.po/mnt/stockage/packages/f40/granite-7/po/extra/ace.po | 
+ | [ae](/f40/language/ae) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ae.po/mnt/stockage/packages/f40/granite-7/po/extra/ae.po | 
+ | [an](/f40/language/an) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/an.po/mnt/stockage/packages/f40/granite-7/po/extra/an.po | 
+ | [as](/f40/language/as) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/as.po/mnt/stockage/packages/f40/granite-7/po/extra/as.po | 
+ | [ast](/f40/language/ast) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ast.po/mnt/stockage/packages/f40/granite-7/po/extra/ast.po | 
+ | [av](/f40/language/av) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/av.po/mnt/stockage/packages/f40/granite-7/po/extra/av.po | 
+ | [ay](/f40/language/ay) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ay.po/mnt/stockage/packages/f40/granite-7/po/extra/ay.po | 
+ | [ba](/f40/language/ba) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ba.po/mnt/stockage/packages/f40/granite-7/po/extra/ba.po | 
+ | [bh](/f40/language/bh) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bh.po/mnt/stockage/packages/f40/granite-7/po/extra/bh.po | 
+ | [bi](/f40/language/bi) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bi.po/mnt/stockage/packages/f40/granite-7/po/extra/bi.po | 
+ | [bm](/f40/language/bm) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bm.po/mnt/stockage/packages/f40/granite-7/po/extra/bm.po | 
+ | [bn](/f40/language/bn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bn.po/mnt/stockage/packages/f40/granite-7/po/extra/bn.po | 
+ | [bo](/f40/language/bo) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/bo.po/mnt/stockage/packages/f40/granite-7/po/extra/bo.po | 
+ | [br](/f40/language/br) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/br.po/mnt/stockage/packages/f40/granite-7/po/extra/br.po | 
+ | [ce](/f40/language/ce) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ce.po/mnt/stockage/packages/f40/granite-7/po/extra/ce.po | 
+ | [ch](/f40/language/ch) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ch.po/mnt/stockage/packages/f40/granite-7/po/extra/ch.po | 
+ | [co](/f40/language/co) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/co.po/mnt/stockage/packages/f40/granite-7/po/extra/co.po | 
+ | [cr](/f40/language/cr) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cr.po/mnt/stockage/packages/f40/granite-7/po/extra/cr.po | 
+ | [cu](/f40/language/cu) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cu.po/mnt/stockage/packages/f40/granite-7/po/extra/cu.po | 
+ | [cv](/f40/language/cv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cv.po/mnt/stockage/packages/f40/granite-7/po/extra/cv.po | 
+ | [cy](/f40/language/cy) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/cy.po/mnt/stockage/packages/f40/granite-7/po/extra/cy.po | 
+ | [dv](/f40/language/dv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/dv.po/mnt/stockage/packages/f40/granite-7/po/extra/dv.po | 
+ | [dz](/f40/language/dz) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/dz.po/mnt/stockage/packages/f40/granite-7/po/extra/dz.po | 
+ | [ee](/f40/language/ee) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ee.po/mnt/stockage/packages/f40/granite-7/po/extra/ee.po | 
+ | [ff](/f40/language/ff) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ff.po/mnt/stockage/packages/f40/granite-7/po/extra/ff.po | 
+ | [fil](/f40/language/fil) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/fil.po/mnt/stockage/packages/f40/granite-7/po/extra/fil.po | 
+ | [fj](/f40/language/fj) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/fj.po/mnt/stockage/packages/f40/granite-7/po/extra/fj.po | 
+ | [fo](/f40/language/fo) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/fo.po/mnt/stockage/packages/f40/granite-7/po/extra/fo.po | 
+ | [ga](/f40/language/ga) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ga.po/mnt/stockage/packages/f40/granite-7/po/extra/ga.po | 
+ | [gd](/f40/language/gd) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/gd.po/mnt/stockage/packages/f40/granite-7/po/extra/gd.po | 
+ | [gn](/f40/language/gn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/gn.po/mnt/stockage/packages/f40/granite-7/po/extra/gn.po | 
+ | [gv](/f40/language/gv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/gv.po/mnt/stockage/packages/f40/granite-7/po/extra/gv.po | 
+ | [ha](/f40/language/ha) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ha.po/mnt/stockage/packages/f40/granite-7/po/extra/ha.po | 
+ | [ho](/f40/language/ho) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ho.po/mnt/stockage/packages/f40/granite-7/po/extra/ho.po | 
+ | [ht](/f40/language/ht) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ht.po/mnt/stockage/packages/f40/granite-7/po/extra/ht.po | 
+ | [hz](/f40/language/hz) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/hz.po/mnt/stockage/packages/f40/granite-7/po/extra/hz.po | 
+ | [ia](/f40/language/ia) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ia.po/mnt/stockage/packages/f40/granite-7/po/extra/ia.po | 
+ | [ig](/f40/language/ig) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ig.po/mnt/stockage/packages/f40/granite-7/po/extra/ig.po | 
+ | [ii](/f40/language/ii) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ii.po/mnt/stockage/packages/f40/granite-7/po/extra/ii.po | 
+ | [ik](/f40/language/ik) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ik.po/mnt/stockage/packages/f40/granite-7/po/extra/ik.po | 
+ | [io](/f40/language/io) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/io.po/mnt/stockage/packages/f40/granite-7/po/extra/io.po | 
+ | [is](/f40/language/is) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/is.po/mnt/stockage/packages/f40/granite-7/po/extra/is.po | 
+ | [iu](/f40/language/iu) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/iu.po/mnt/stockage/packages/f40/granite-7/po/extra/iu.po | 
+ | [jv](/f40/language/jv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/jv.po/mnt/stockage/packages/f40/granite-7/po/extra/jv.po | 
+ | [kg](/f40/language/kg) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kg.po/mnt/stockage/packages/f40/granite-7/po/extra/kg.po | 
+ | [ki](/f40/language/ki) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ki.po/mnt/stockage/packages/f40/granite-7/po/extra/ki.po | 
+ | [kj](/f40/language/kj) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kj.po/mnt/stockage/packages/f40/granite-7/po/extra/kj.po | 
+ | [kk](/f40/language/kk) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kk.po/mnt/stockage/packages/f40/granite-7/po/extra/kk.po | 
+ | [kl](/f40/language/kl) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kl.po/mnt/stockage/packages/f40/granite-7/po/extra/kl.po | 
+ | [km](/f40/language/km) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/km.po/mnt/stockage/packages/f40/granite-7/po/extra/km.po | 
+ | [kn](/f40/language/kn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kn.po/mnt/stockage/packages/f40/granite-7/po/extra/kn.po | 
+ | [kr](/f40/language/kr) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kr.po/mnt/stockage/packages/f40/granite-7/po/extra/kr.po | 
+ | [ks](/f40/language/ks) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ks.po/mnt/stockage/packages/f40/granite-7/po/extra/ks.po | 
+ | [kv](/f40/language/kv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kv.po/mnt/stockage/packages/f40/granite-7/po/extra/kv.po | 
+ | [kw](/f40/language/kw) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/kw.po/mnt/stockage/packages/f40/granite-7/po/extra/kw.po | 
+ | [ky](/f40/language/ky) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ky.po/mnt/stockage/packages/f40/granite-7/po/extra/ky.po | 
+ | [la](/f40/language/la) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/la.po/mnt/stockage/packages/f40/granite-7/po/extra/la.po | 
+ | [lb](/f40/language/lb) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lb.po/mnt/stockage/packages/f40/granite-7/po/extra/lb.po | 
+ | [lg](/f40/language/lg) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lg.po/mnt/stockage/packages/f40/granite-7/po/extra/lg.po | 
+ | [li](/f40/language/li) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/li.po/mnt/stockage/packages/f40/granite-7/po/extra/li.po | 
+ | [ln](/f40/language/ln) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ln.po/mnt/stockage/packages/f40/granite-7/po/extra/ln.po | 
+ | [lo](/f40/language/lo) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lo.po/mnt/stockage/packages/f40/granite-7/po/extra/lo.po | 
+ | [lu](/f40/language/lu) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lu.po/mnt/stockage/packages/f40/granite-7/po/extra/lu.po | 
+ | [lv](/f40/language/lv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/lv.po/mnt/stockage/packages/f40/granite-7/po/extra/lv.po | 
+ | [mg](/f40/language/mg) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mg.po/mnt/stockage/packages/f40/granite-7/po/extra/mg.po | 
+ | [mh](/f40/language/mh) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mh.po/mnt/stockage/packages/f40/granite-7/po/extra/mh.po | 
+ | [mi](/f40/language/mi) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mi.po/mnt/stockage/packages/f40/granite-7/po/extra/mi.po | 
+ | [mk](/f40/language/mk) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mk.po/mnt/stockage/packages/f40/granite-7/po/extra/mk.po | 
+ | [mn](/f40/language/mn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mn.po/mnt/stockage/packages/f40/granite-7/po/extra/mn.po | 
+ | [mt](/f40/language/mt) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mt.po/mnt/stockage/packages/f40/granite-7/po/extra/mt.po | 
+ | [my](/f40/language/my) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/my.po/mnt/stockage/packages/f40/granite-7/po/extra/my.po | 
+ | [na](/f40/language/na) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/na.po/mnt/stockage/packages/f40/granite-7/po/extra/na.po | 
+ | [nd](/f40/language/nd) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/nd.po/mnt/stockage/packages/f40/granite-7/po/extra/nd.po | 
+ | [ne](/f40/language/ne) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ne.po/mnt/stockage/packages/f40/granite-7/po/extra/ne.po | 
+ | [ng](/f40/language/ng) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ng.po/mnt/stockage/packages/f40/granite-7/po/extra/ng.po | 
+ | [nr](/f40/language/nr) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/nr.po/mnt/stockage/packages/f40/granite-7/po/extra/nr.po | 
+ | [nv](/f40/language/nv) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/nv.po/mnt/stockage/packages/f40/granite-7/po/extra/nv.po | 
+ | [ny](/f40/language/ny) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ny.po/mnt/stockage/packages/f40/granite-7/po/extra/ny.po | 
+ | [oj](/f40/language/oj) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/oj.po/mnt/stockage/packages/f40/granite-7/po/extra/oj.po | 
+ | [om](/f40/language/om) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/om.po/mnt/stockage/packages/f40/granite-7/po/extra/om.po | 
+ | [or](/f40/language/or) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/or.po/mnt/stockage/packages/f40/granite-7/po/extra/or.po | 
+ | [os](/f40/language/os) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/os.po/mnt/stockage/packages/f40/granite-7/po/extra/os.po | 
+ | [pa](/f40/language/pa) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/pa.po/mnt/stockage/packages/f40/granite-7/po/extra/pa.po | 
+ | [pi](/f40/language/pi) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/pi.po/mnt/stockage/packages/f40/granite-7/po/extra/pi.po | 
+ | [ps](/f40/language/ps) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ps.po/mnt/stockage/packages/f40/granite-7/po/extra/ps.po | 
+ | [qu](/f40/language/qu) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/qu.po/mnt/stockage/packages/f40/granite-7/po/extra/qu.po | 
+ | [rm](/f40/language/rm) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rm.po/mnt/stockage/packages/f40/granite-7/po/extra/rm.po | 
+ | [rn](/f40/language/rn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rn.po/mnt/stockage/packages/f40/granite-7/po/extra/rn.po | 
+ | [ro_MD](/f40/language/ro_MD) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/mo.po/mnt/stockage/packages/f40/granite-7/po/extra/mo.po | 
+ | [rue](/f40/language/rue) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rue.po/mnt/stockage/packages/f40/granite-7/po/extra/rue.po | 
+ | [rw](/f40/language/rw) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/rw.po/mnt/stockage/packages/f40/granite-7/po/extra/rw.po | 
+ | [sa](/f40/language/sa) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sa.po/mnt/stockage/packages/f40/granite-7/po/extra/sa.po | 
+ | [sc](/f40/language/sc) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sc.po/mnt/stockage/packages/f40/granite-7/po/extra/sc.po | 
+ | [sd](/f40/language/sd) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sd.po/mnt/stockage/packages/f40/granite-7/po/extra/sd.po | 
+ | [se](/f40/language/se) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/se.po/mnt/stockage/packages/f40/granite-7/po/extra/se.po | 
+ | [sg](/f40/language/sg) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sg.po/mnt/stockage/packages/f40/granite-7/po/extra/sg.po | 
+ | [si](/f40/language/si) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/si.po/mnt/stockage/packages/f40/granite-7/po/extra/si.po | 
+ | [sm](/f40/language/sm) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sm.po/mnt/stockage/packages/f40/granite-7/po/extra/sm.po | 
+ | [sn](/f40/language/sn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sn.po/mnt/stockage/packages/f40/granite-7/po/extra/sn.po | 
+ | [so](/f40/language/so) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/so.po/mnt/stockage/packages/f40/granite-7/po/extra/so.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sr@latin.po/mnt/stockage/packages/f40/granite-7/po/extra/sr@latin.po | 
+ | [ss](/f40/language/ss) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ss.po/mnt/stockage/packages/f40/granite-7/po/extra/ss.po | 
+ | [st](/f40/language/st) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/st.po/mnt/stockage/packages/f40/granite-7/po/extra/st.po | 
+ | [su](/f40/language/su) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/su.po/mnt/stockage/packages/f40/granite-7/po/extra/su.po | 
+ | [sw](/f40/language/sw) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/sw.po/mnt/stockage/packages/f40/granite-7/po/extra/sw.po | 
+ | [te](/f40/language/te) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/te.po/mnt/stockage/packages/f40/granite-7/po/extra/te.po | 
+ | [tg](/f40/language/tg) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tg.po/mnt/stockage/packages/f40/granite-7/po/extra/tg.po | 
+ | [th](/f40/language/th) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/th.po/mnt/stockage/packages/f40/granite-7/po/extra/th.po | 
+ | [ti](/f40/language/ti) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ti.po/mnt/stockage/packages/f40/granite-7/po/extra/ti.po | 
+ | [tk](/f40/language/tk) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tk.po/mnt/stockage/packages/f40/granite-7/po/extra/tk.po | 
+ | [tn](/f40/language/tn) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tn.po/mnt/stockage/packages/f40/granite-7/po/extra/tn.po | 
+ | [to](/f40/language/to) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/to.po/mnt/stockage/packages/f40/granite-7/po/extra/to.po | 
+ | [ts](/f40/language/ts) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ts.po/mnt/stockage/packages/f40/granite-7/po/extra/ts.po | 
+ | [tt](/f40/language/tt) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tt.po/mnt/stockage/packages/f40/granite-7/po/extra/tt.po | 
+ | [tw](/f40/language/tw) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/tw.po/mnt/stockage/packages/f40/granite-7/po/extra/tw.po | 
+ | [ty](/f40/language/ty) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ty.po/mnt/stockage/packages/f40/granite-7/po/extra/ty.po | 
+ | [ve](/f40/language/ve) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/ve.po/mnt/stockage/packages/f40/granite-7/po/extra/ve.po | 
+ | [vi](/f40/language/vi) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/vi.po/mnt/stockage/packages/f40/granite-7/po/extra/vi.po | 
+ | [vo](/f40/language/vo) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/vo.po/mnt/stockage/packages/f40/granite-7/po/extra/vo.po | 
+ | [wa](/f40/language/wa) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/wa.po/mnt/stockage/packages/f40/granite-7/po/extra/wa.po | 
+ | [wo](/f40/language/wo) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/wo.po/mnt/stockage/packages/f40/granite-7/po/extra/wo.po | 
+ | [xh](/f40/language/xh) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/xh.po/mnt/stockage/packages/f40/granite-7/po/extra/xh.po | 
+ | [yi](/f40/language/yi) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/yi.po/mnt/stockage/packages/f40/granite-7/po/extra/yi.po | 
+ | [yo](/f40/language/yo) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/yo.po/mnt/stockage/packages/f40/granite-7/po/extra/yo.po | 
+ | [za](/f40/language/za) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/za.po/mnt/stockage/packages/f40/granite-7/po/extra/za.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/zh_HK.po/mnt/stockage/packages/f40/granite-7/po/extra/zh_HK.po | 
+ | [zu](/f40/language/zu) | 0 | 369 | 0.0 | /mnt/stockage/packages/f40/granite-7/po/zu.po/mnt/stockage/packages/f40/granite-7/po/extra/zu.po | 
 {.sortable}
 
 

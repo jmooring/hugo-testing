@@ -18,12 +18,12 @@ The package mingw-xz (version 5.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f35/mingw-xz/po/de.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f35/mingw-xz/po/it.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f35/mingw-xz/po/pl.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f35/mingw-xz/po/vi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f35/mingw-xz/po/fr.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f35/mingw-xz/po/cs.po | 
+ | [de](/f35/language/de) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f35/mingw-xz/po/de.po | 
+ | [it](/f35/language/it) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f35/mingw-xz/po/it.po | 
+ | [pl](/f35/language/pl) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f35/mingw-xz/po/pl.po | 
+ | [vi](/f35/language/vi) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f35/mingw-xz/po/vi.po | 
+ | [fr](/f35/language/fr) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f35/mingw-xz/po/fr.po | 
+ | [cs](/f35/language/cs) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f35/mingw-xz/po/cs.po | 
 {.sortable}
 
 

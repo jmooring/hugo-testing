@@ -18,11 +18,11 @@ The package xdx (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f12/xdx/po/nl.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/pt.po | 
+ | [nl](/f12/language/nl) | 292 | 292 | 100.0 | /mnt/stockage/packages/f12/xdx/po/nl.po | 
+ | [es](/f12/language/es) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/es.po | 
+ | [fr](/f12/language/fr) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/fr.po | 
+ | [pl](/f12/language/pl) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/pl.po | 
+ | [pt](/f12/language/pt) | 291 | 292 | 99.7 | /mnt/stockage/packages/f12/xdx/po/pt.po | 
 {.sortable}
 
 

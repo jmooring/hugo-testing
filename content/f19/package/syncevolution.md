@@ -18,33 +18,33 @@ The package syncevolution (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ar.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ast.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ca.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/de.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/en_GB.po | 
- | [en_US]({{< ref "/f19/language/en_US.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/en_US.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/gl.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ja.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ko.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ro.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/sv.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/zh_TW.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 340 | 508 | 66.9 | /mnt/stockage/packages/f19/syncevolution/po/hu.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 327 | 1119 | 29.2 | /mnt/stockage/packages/f19/syncevolution/po/sk.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 89 | 1119 | 8.0 | /mnt/stockage/packages/f19/syncevolution/po/tr.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 0 | 508 | 0.0 | /mnt/stockage/packages/f19/syncevolution/po/th.po | 
+ | [ar](/f19/language/ar) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ar.po | 
+ | [ast](/f19/language/ast) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ast.po | 
+ | [ca](/f19/language/ca) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ca.po | 
+ | [da](/f19/language/da) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/da.po | 
+ | [de](/f19/language/de) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/de.po | 
+ | [en_GB](/f19/language/en_GB) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/en_GB.po | 
+ | [en_US](/f19/language/en_US) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/en_US.po | 
+ | [es](/f19/language/es) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/es.po | 
+ | [fi](/f19/language/fi) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/fi.po | 
+ | [fr](/f19/language/fr) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/fr.po | 
+ | [gl](/f19/language/gl) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/gl.po | 
+ | [id](/f19/language/id) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/id.po | 
+ | [it](/f19/language/it) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/it.po | 
+ | [ja](/f19/language/ja) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ja.po | 
+ | [ko](/f19/language/ko) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ko.po | 
+ | [nl](/f19/language/nl) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/nl.po | 
+ | [pl](/f19/language/pl) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 566 | 566 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ro.po | 
+ | [ru](/f19/language/ru) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/ru.po | 
+ | [sv](/f19/language/sv) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/sv.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f19/syncevolution/po/zh_TW.po | 
+ | [hu](/f19/language/hu) | 340 | 508 | 66.9 | /mnt/stockage/packages/f19/syncevolution/po/hu.po | 
+ | [sk](/f19/language/sk) | 327 | 1119 | 29.2 | /mnt/stockage/packages/f19/syncevolution/po/sk.po | 
+ | [tr](/f19/language/tr) | 89 | 1119 | 8.0 | /mnt/stockage/packages/f19/syncevolution/po/tr.po | 
+ | [th](/f19/language/th) | 0 | 508 | 0.0 | /mnt/stockage/packages/f19/syncevolution/po/th.po | 
 {.sortable}
 
 

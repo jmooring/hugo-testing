@@ -18,35 +18,35 @@ The package kwave (version 20.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/ca/kwave.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/ca@valencia/kwave.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/de/kwave.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/el/kwave.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/en_GB/kwave.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/es/kwave.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/et/kwave.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/eu/kwave.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/fi/kwave.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/fr/kwave.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/it/kwave.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/nl/kwave.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/pl/kwave.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/pt/kwave.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/pt_BR/kwave.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/ru/kwave.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/sk/kwave.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/sv/kwave.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/uk/kwave.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 5797 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/gl/kwave.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 5681 | 5798 | 98.0 | /mnt/stockage/packages/f33/kwave/po/tr/kwave.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 5613 | 5798 | 96.8 | /mnt/stockage/packages/f33/kwave/po/cs/kwave.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 3518 | 5798 | 60.7 | /mnt/stockage/packages/f33/kwave/po/zh_CN/kwave.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 1914 | 5798 | 33.0 | /mnt/stockage/packages/f33/kwave/po/da/kwave.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 854 | 5798 | 14.7 | /mnt/stockage/packages/f33/kwave/po/ia/kwave.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 827 | 5798 | 14.3 | /mnt/stockage/packages/f33/kwave/po/bs/kwave.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 723 | 5798 | 12.5 | /mnt/stockage/packages/f33/kwave/po/zh_TW/kwave.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 5798 | 0.0 | /mnt/stockage/packages/f33/kwave/po/ja/kwave.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 5798 | 0.0 | /mnt/stockage/packages/f33/kwave/po/lt/kwave.po | 
+ | [ca](/f33/language/ca) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/ca/kwave.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/ca@valencia/kwave.po | 
+ | [de](/f33/language/de) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/de/kwave.po | 
+ | [el](/f33/language/el) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/el/kwave.po | 
+ | [en_GB](/f33/language/en_GB) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/en_GB/kwave.po | 
+ | [es](/f33/language/es) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/es/kwave.po | 
+ | [et](/f33/language/et) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/et/kwave.po | 
+ | [eu](/f33/language/eu) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/eu/kwave.po | 
+ | [fi](/f33/language/fi) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/fi/kwave.po | 
+ | [fr](/f33/language/fr) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/fr/kwave.po | 
+ | [it](/f33/language/it) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/it/kwave.po | 
+ | [nl](/f33/language/nl) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/nl/kwave.po | 
+ | [pl](/f33/language/pl) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/pl/kwave.po | 
+ | [pt](/f33/language/pt) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/pt/kwave.po | 
+ | [pt_BR](/f33/language/pt_BR) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/pt_BR/kwave.po | 
+ | [ru](/f33/language/ru) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/ru/kwave.po | 
+ | [sk](/f33/language/sk) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/sk/kwave.po | 
+ | [sv](/f33/language/sv) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/sv/kwave.po | 
+ | [uk](/f33/language/uk) | 5798 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/uk/kwave.po | 
+ | [gl](/f33/language/gl) | 5797 | 5798 | 100.0 | /mnt/stockage/packages/f33/kwave/po/gl/kwave.po | 
+ | [tr](/f33/language/tr) | 5681 | 5798 | 98.0 | /mnt/stockage/packages/f33/kwave/po/tr/kwave.po | 
+ | [cs](/f33/language/cs) | 5613 | 5798 | 96.8 | /mnt/stockage/packages/f33/kwave/po/cs/kwave.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 3518 | 5798 | 60.7 | /mnt/stockage/packages/f33/kwave/po/zh_CN/kwave.po | 
+ | [da](/f33/language/da) | 1914 | 5798 | 33.0 | /mnt/stockage/packages/f33/kwave/po/da/kwave.po | 
+ | [ia](/f33/language/ia) | 854 | 5798 | 14.7 | /mnt/stockage/packages/f33/kwave/po/ia/kwave.po | 
+ | [bs](/f33/language/bs) | 827 | 5798 | 14.3 | /mnt/stockage/packages/f33/kwave/po/bs/kwave.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 723 | 5798 | 12.5 | /mnt/stockage/packages/f33/kwave/po/zh_TW/kwave.po | 
+ | [ja](/f33/language/ja) | 0 | 5798 | 0.0 | /mnt/stockage/packages/f33/kwave/po/ja/kwave.po | 
+ | [lt](/f33/language/lt) | 0 | 5798 | 0.0 | /mnt/stockage/packages/f33/kwave/po/lt/kwave.po | 
 {.sortable}
 
 

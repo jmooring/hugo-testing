@@ -18,36 +18,36 @@ The package libgovirt (version 0.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/bs.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/el.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/eu.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/fur.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ka.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/lt.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/oc.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ru.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/sr@latin.po/mnt/stockage/packages/f43/libgovirt/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/zh_CN.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 70 | 98 | 71.4 | /mnt/stockage/packages/f43/libgovirt/po/fi.po | 
+ | [bs](/f43/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/bs.po | 
+ | [ca](/f43/language/ca) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ca.po | 
+ | [cs](/f43/language/cs) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/cs.po | 
+ | [da](/f43/language/da) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/da.po | 
+ | [de](/f43/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/de.po | 
+ | [el](/f43/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/el.po | 
+ | [es](/f43/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/es.po | 
+ | [eu](/f43/language/eu) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/eu.po | 
+ | [fr](/f43/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/fr.po | 
+ | [fur](/f43/language/fur) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/fur.po | 
+ | [hr](/f43/language/hr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/hr.po | 
+ | [hu](/f43/language/hu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/hu.po | 
+ | [id](/f43/language/id) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/id.po | 
+ | [it](/f43/language/it) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/it.po | 
+ | [ka](/f43/language/ka) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ka.po | 
+ | [lt](/f43/language/lt) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/lt.po | 
+ | [nl](/f43/language/nl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/nl.po | 
+ | [oc](/f43/language/oc) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/oc.po | 
+ | [pl](/f43/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/pl.po | 
+ | [pt](/f43/language/pt) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ro.po | 
+ | [ru](/f43/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/ru.po | 
+ | [sl](/f43/language/sl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/sl.po | 
+ | [sr](/f43/language/sr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/sr@latin.po/mnt/stockage/packages/f43/libgovirt/po/sr.po | 
+ | [sv](/f43/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/sv.po | 
+ | [tr](/f43/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/tr.po | 
+ | [uk](/f43/language/uk) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 98 | 98 | 100.0 | /mnt/stockage/packages/f43/libgovirt/po/zh_CN.po | 
+ | [fi](/f43/language/fi) | 70 | 98 | 71.4 | /mnt/stockage/packages/f43/libgovirt/po/fi.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package cmake-fedora (version 2.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/de_DE.po/mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/de-DE/stat.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/es_ES.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/fr_FR.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/it_IT.po | 
- | [de_CH]({{< ref "/f27/language/de_CH.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/de_CH/stat.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man1/ko/ls.po/mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/ko/stat.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man1/sr@latin/ls.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/zh-Hans/stat.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man1/zh_TW/ls.po | 
+ | [de](/f27/language/de) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/de_DE.po/mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/de-DE/stat.po | 
+ | [es](/f27/language/es) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/es_ES.po | 
+ | [fr](/f27/language/fr) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/fr_FR.po | 
+ | [it](/f27/language/it) | 263 | 277 | 94.9 | /mnt/stockage/packages/f27/cmake-fedora/test/data/po/it_IT.po | 
+ | [de_CH](/f27/language/de_CH) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/de_CH/stat.po | 
+ | [ko](/f27/language/ko) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man1/ko/ls.po/mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/ko/stat.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man1/sr@latin/ls.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man2/zh-Hans/stat.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cmake-fedora/test/data/podir/po/man1/zh_TW/ls.po | 
 {.sortable}
 
 

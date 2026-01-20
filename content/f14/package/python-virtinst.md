@@ -18,18 +18,18 @@ The package python-virtinst (version 0.500.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 3585 | 3679 | 97.4 | /mnt/stockage/packages/f14/python-virtinst/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 3585 | 3679 | 97.4 | /mnt/stockage/packages/f14/python-virtinst/po/pl.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 3281 | 3679 | 89.2 | /mnt/stockage/packages/f14/python-virtinst/po/es.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 2864 | 3679 | 77.8 | /mnt/stockage/packages/f14/python-virtinst/po/zh_CN.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 2721 | 3679 | 74.0 | /mnt/stockage/packages/f14/python-virtinst/po/it.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1318 | 3679 | 35.8 | /mnt/stockage/packages/f14/python-virtinst/po/pt_BR.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1040 | 3679 | 28.3 | /mnt/stockage/packages/f14/python-virtinst/po/fr.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 988 | 3679 | 26.9 | /mnt/stockage/packages/f14/python-virtinst/po/ja.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 641 | 3679 | 17.4 | /mnt/stockage/packages/f14/python-virtinst/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 641 | 3679 | 17.4 | /mnt/stockage/packages/f14/python-virtinst/po/sr@latin.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 62 | 3679 | 1.7 | /mnt/stockage/packages/f14/python-virtinst/po/uk.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 0 | 3679 | 0.0 | /mnt/stockage/packages/f14/python-virtinst/po/ru.po | 
+ | [nl](/f14/language/nl) | 3585 | 3679 | 97.4 | /mnt/stockage/packages/f14/python-virtinst/po/nl.po | 
+ | [pl](/f14/language/pl) | 3585 | 3679 | 97.4 | /mnt/stockage/packages/f14/python-virtinst/po/pl.po | 
+ | [es](/f14/language/es) | 3281 | 3679 | 89.2 | /mnt/stockage/packages/f14/python-virtinst/po/es.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 2864 | 3679 | 77.8 | /mnt/stockage/packages/f14/python-virtinst/po/zh_CN.po | 
+ | [it](/f14/language/it) | 2721 | 3679 | 74.0 | /mnt/stockage/packages/f14/python-virtinst/po/it.po | 
+ | [pt](/f14/language/pt) | 1318 | 3679 | 35.8 | /mnt/stockage/packages/f14/python-virtinst/po/pt_BR.po | 
+ | [fr](/f14/language/fr) | 1040 | 3679 | 28.3 | /mnt/stockage/packages/f14/python-virtinst/po/fr.po | 
+ | [ja](/f14/language/ja) | 988 | 3679 | 26.9 | /mnt/stockage/packages/f14/python-virtinst/po/ja.po | 
+ | [sr](/f14/language/sr) | 641 | 3679 | 17.4 | /mnt/stockage/packages/f14/python-virtinst/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 641 | 3679 | 17.4 | /mnt/stockage/packages/f14/python-virtinst/po/sr@latin.po | 
+ | [uk](/f14/language/uk) | 62 | 3679 | 1.7 | /mnt/stockage/packages/f14/python-virtinst/po/uk.po | 
+ | [ru](/f14/language/ru) | 0 | 3679 | 0.0 | /mnt/stockage/packages/f14/python-virtinst/po/ru.po | 
 {.sortable}
 
 

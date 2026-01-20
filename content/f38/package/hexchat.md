@@ -18,58 +18,58 @@ The package hexchat (version 2.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f38/language/da.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/es.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/it.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/ko.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/pt_BR.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/tr.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 5963 | 5971 | 99.9 | /mnt/stockage/packages/f38/hexchat/po/sq.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 5921 | 5971 | 99.2 | /mnt/stockage/packages/f38/hexchat/po/sv.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 5920 | 5971 | 99.1 | /mnt/stockage/packages/f38/hexchat/po/fr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 5896 | 5971 | 98.7 | /mnt/stockage/packages/f38/hexchat/po/zh_CN.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 5301 | 5971 | 88.8 | /mnt/stockage/packages/f38/hexchat/po/pl.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 4754 | 5971 | 79.6 | /mnt/stockage/packages/f38/hexchat/po/id.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 4658 | 5971 | 78.0 | /mnt/stockage/packages/f38/hexchat/po/ru.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 4517 | 5971 | 75.6 | /mnt/stockage/packages/f38/hexchat/po/ca.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 4417 | 5971 | 74.0 | /mnt/stockage/packages/f38/hexchat/po/hu.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 4127 | 5971 | 69.1 | /mnt/stockage/packages/f38/hexchat/po/cs.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 3926 | 5971 | 65.8 | /mnt/stockage/packages/f38/hexchat/po/lt.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 3895 | 5971 | 65.2 | /mnt/stockage/packages/f38/hexchat/po/sr.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 3637 | 5971 | 60.9 | /mnt/stockage/packages/f38/hexchat/po/el.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 3562 | 5971 | 59.7 | /mnt/stockage/packages/f38/hexchat/po/ja_JP.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 3500 | 5971 | 58.6 | /mnt/stockage/packages/f38/hexchat/po/fi.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 3462 | 5971 | 58.0 | /mnt/stockage/packages/f38/hexchat/po/th.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 3219 | 5971 | 53.9 | /mnt/stockage/packages/f38/hexchat/po/sr@latin.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 3123 | 5971 | 52.3 | /mnt/stockage/packages/f38/hexchat/po/vi.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 3101 | 5971 | 51.9 | /mnt/stockage/packages/f38/hexchat/po/ast.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 3091 | 5971 | 51.8 | /mnt/stockage/packages/f38/hexchat/po/gl.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 3087 | 5971 | 51.7 | /mnt/stockage/packages/f38/hexchat/po/kn.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 3087 | 5971 | 51.7 | /mnt/stockage/packages/f38/hexchat/po/uk.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 6166 | 11942 | 51.6 | /mnt/stockage/packages/f38/hexchat/po/no.po/mnt/stockage/packages/f38/hexchat/po/nb.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 3012 | 5971 | 50.4 | /mnt/stockage/packages/f38/hexchat/po/mk.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 2996 | 5971 | 50.2 | /mnt/stockage/packages/f38/hexchat/po/et.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 2947 | 5971 | 49.4 | /mnt/stockage/packages/f38/hexchat/po/be.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2906 | 5971 | 48.7 | /mnt/stockage/packages/f38/hexchat/po/nl.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 2744 | 5971 | 46.0 | /mnt/stockage/packages/f38/hexchat/po/zh_TW.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 2436 | 5971 | 40.8 | /mnt/stockage/packages/f38/hexchat/po/sl.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 2426 | 5971 | 40.6 | /mnt/stockage/packages/f38/hexchat/po/gu.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 2332 | 5971 | 39.1 | /mnt/stockage/packages/f38/hexchat/po/hi.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2332 | 5971 | 39.1 | /mnt/stockage/packages/f38/hexchat/po/sk.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 2190 | 5971 | 36.7 | /mnt/stockage/packages/f38/hexchat/po/pa.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 2066 | 5971 | 34.6 | /mnt/stockage/packages/f38/hexchat/po/lv.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 1887 | 5971 | 31.6 | /mnt/stockage/packages/f38/hexchat/po/bg.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 1802 | 5971 | 30.2 | /mnt/stockage/packages/f38/hexchat/po/eu.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 1132 | 5971 | 19.0 | /mnt/stockage/packages/f38/hexchat/po/az.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 993 | 5971 | 16.6 | /mnt/stockage/packages/f38/hexchat/po/ms.po | 
- | [wa]({{< ref "/f38/language/wa.md" >}}) | 555 | 5971 | 9.3 | /mnt/stockage/packages/f38/hexchat/po/wa.po | 
- | [am]({{< ref "/f38/language/am.md" >}}) | 476 | 5971 | 8.0 | /mnt/stockage/packages/f38/hexchat/po/am.po | 
- | [rw]({{< ref "/f38/language/rw.md" >}}) | 382 | 5971 | 6.4 | /mnt/stockage/packages/f38/hexchat/po/rw.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 178 | 5971 | 3.0 | /mnt/stockage/packages/f38/hexchat/po/af.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 41 | 5971 | 0.7 | /mnt/stockage/packages/f38/hexchat/po/ml.po | 
+ | [da](/f38/language/da) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/da.po | 
+ | [de](/f38/language/de) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/en_GB.po | 
+ | [es](/f38/language/es) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/es.po | 
+ | [it](/f38/language/it) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/it.po | 
+ | [ko](/f38/language/ko) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/ko.po | 
+ | [pt](/f38/language/pt) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/pt_BR.po | 
+ | [tr](/f38/language/tr) | 5971 | 5971 | 100.0 | /mnt/stockage/packages/f38/hexchat/po/tr.po | 
+ | [sq](/f38/language/sq) | 5963 | 5971 | 99.9 | /mnt/stockage/packages/f38/hexchat/po/sq.po | 
+ | [sv](/f38/language/sv) | 5921 | 5971 | 99.2 | /mnt/stockage/packages/f38/hexchat/po/sv.po | 
+ | [fr](/f38/language/fr) | 5920 | 5971 | 99.1 | /mnt/stockage/packages/f38/hexchat/po/fr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 5896 | 5971 | 98.7 | /mnt/stockage/packages/f38/hexchat/po/zh_CN.po | 
+ | [pl](/f38/language/pl) | 5301 | 5971 | 88.8 | /mnt/stockage/packages/f38/hexchat/po/pl.po | 
+ | [id](/f38/language/id) | 4754 | 5971 | 79.6 | /mnt/stockage/packages/f38/hexchat/po/id.po | 
+ | [ru](/f38/language/ru) | 4658 | 5971 | 78.0 | /mnt/stockage/packages/f38/hexchat/po/ru.po | 
+ | [ca](/f38/language/ca) | 4517 | 5971 | 75.6 | /mnt/stockage/packages/f38/hexchat/po/ca.po | 
+ | [hu](/f38/language/hu) | 4417 | 5971 | 74.0 | /mnt/stockage/packages/f38/hexchat/po/hu.po | 
+ | [cs](/f38/language/cs) | 4127 | 5971 | 69.1 | /mnt/stockage/packages/f38/hexchat/po/cs.po | 
+ | [lt](/f38/language/lt) | 3926 | 5971 | 65.8 | /mnt/stockage/packages/f38/hexchat/po/lt.po | 
+ | [sr](/f38/language/sr) | 3895 | 5971 | 65.2 | /mnt/stockage/packages/f38/hexchat/po/sr.po | 
+ | [el](/f38/language/el) | 3637 | 5971 | 60.9 | /mnt/stockage/packages/f38/hexchat/po/el.po | 
+ | [ja](/f38/language/ja) | 3562 | 5971 | 59.7 | /mnt/stockage/packages/f38/hexchat/po/ja_JP.po | 
+ | [fi](/f38/language/fi) | 3500 | 5971 | 58.6 | /mnt/stockage/packages/f38/hexchat/po/fi.po | 
+ | [th](/f38/language/th) | 3462 | 5971 | 58.0 | /mnt/stockage/packages/f38/hexchat/po/th.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 3219 | 5971 | 53.9 | /mnt/stockage/packages/f38/hexchat/po/sr@latin.po | 
+ | [vi](/f38/language/vi) | 3123 | 5971 | 52.3 | /mnt/stockage/packages/f38/hexchat/po/vi.po | 
+ | [ast](/f38/language/ast) | 3101 | 5971 | 51.9 | /mnt/stockage/packages/f38/hexchat/po/ast.po | 
+ | [gl](/f38/language/gl) | 3091 | 5971 | 51.8 | /mnt/stockage/packages/f38/hexchat/po/gl.po | 
+ | [kn](/f38/language/kn) | 3087 | 5971 | 51.7 | /mnt/stockage/packages/f38/hexchat/po/kn.po | 
+ | [uk](/f38/language/uk) | 3087 | 5971 | 51.7 | /mnt/stockage/packages/f38/hexchat/po/uk.po | 
+ | [nb_NO](/f38/language/nb_NO) | 6166 | 11942 | 51.6 | /mnt/stockage/packages/f38/hexchat/po/no.po/mnt/stockage/packages/f38/hexchat/po/nb.po | 
+ | [mk](/f38/language/mk) | 3012 | 5971 | 50.4 | /mnt/stockage/packages/f38/hexchat/po/mk.po | 
+ | [et](/f38/language/et) | 2996 | 5971 | 50.2 | /mnt/stockage/packages/f38/hexchat/po/et.po | 
+ | [be](/f38/language/be) | 2947 | 5971 | 49.4 | /mnt/stockage/packages/f38/hexchat/po/be.po | 
+ | [nl](/f38/language/nl) | 2906 | 5971 | 48.7 | /mnt/stockage/packages/f38/hexchat/po/nl.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 2744 | 5971 | 46.0 | /mnt/stockage/packages/f38/hexchat/po/zh_TW.po | 
+ | [sl](/f38/language/sl) | 2436 | 5971 | 40.8 | /mnt/stockage/packages/f38/hexchat/po/sl.po | 
+ | [gu](/f38/language/gu) | 2426 | 5971 | 40.6 | /mnt/stockage/packages/f38/hexchat/po/gu.po | 
+ | [hi](/f38/language/hi) | 2332 | 5971 | 39.1 | /mnt/stockage/packages/f38/hexchat/po/hi.po | 
+ | [sk](/f38/language/sk) | 2332 | 5971 | 39.1 | /mnt/stockage/packages/f38/hexchat/po/sk.po | 
+ | [pa](/f38/language/pa) | 2190 | 5971 | 36.7 | /mnt/stockage/packages/f38/hexchat/po/pa.po | 
+ | [lv](/f38/language/lv) | 2066 | 5971 | 34.6 | /mnt/stockage/packages/f38/hexchat/po/lv.po | 
+ | [bg](/f38/language/bg) | 1887 | 5971 | 31.6 | /mnt/stockage/packages/f38/hexchat/po/bg.po | 
+ | [eu](/f38/language/eu) | 1802 | 5971 | 30.2 | /mnt/stockage/packages/f38/hexchat/po/eu.po | 
+ | [az](/f38/language/az) | 1132 | 5971 | 19.0 | /mnt/stockage/packages/f38/hexchat/po/az.po | 
+ | [ms](/f38/language/ms) | 993 | 5971 | 16.6 | /mnt/stockage/packages/f38/hexchat/po/ms.po | 
+ | [wa](/f38/language/wa) | 555 | 5971 | 9.3 | /mnt/stockage/packages/f38/hexchat/po/wa.po | 
+ | [am](/f38/language/am) | 476 | 5971 | 8.0 | /mnt/stockage/packages/f38/hexchat/po/am.po | 
+ | [rw](/f38/language/rw) | 382 | 5971 | 6.4 | /mnt/stockage/packages/f38/hexchat/po/rw.po | 
+ | [af](/f38/language/af) | 178 | 5971 | 3.0 | /mnt/stockage/packages/f38/hexchat/po/af.po | 
+ | [ml](/f38/language/ml) | 41 | 5971 | 0.7 | /mnt/stockage/packages/f38/hexchat/po/ml.po | 
 {.sortable}
 
 

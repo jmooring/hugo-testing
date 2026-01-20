@@ -18,10 +18,10 @@ The package kooldock (version 0.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f7/kooldock/kooldock/po/es.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/kooldock/kooldock/po/pl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f7/kooldock/kooldock/po/sv.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 588 | 592 | 99.3 | /mnt/stockage/packages/f7/kooldock/kooldock/po/fr.po | 
+ | [es](/f7/language/es) | 592 | 592 | 100.0 | /mnt/stockage/packages/f7/kooldock/kooldock/po/es.po | 
+ | [pl](/f7/language/pl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f7/kooldock/kooldock/po/pl.po | 
+ | [sv](/f7/language/sv) | 592 | 592 | 100.0 | /mnt/stockage/packages/f7/kooldock/kooldock/po/sv.po | 
+ | [fr](/f7/language/fr) | 588 | 592 | 99.3 | /mnt/stockage/packages/f7/kooldock/kooldock/po/fr.po | 
 {.sortable}
 
 

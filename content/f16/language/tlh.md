@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f16/package/tuxpaint.md" >}}) | 34 | 1247 | 2.7 | Bill Kendrick <nbs@sonic.net> | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 2 | 45622 | 0.0 |  | 
+ | [tuxpaint](/f16/package/tuxpaint) | 34 | 1247 | 2.7 | Bill Kendrick <nbs@sonic.net> | 
+ | [openerp](/f16/package/openerp) | 2 | 45622 | 0.0 |  | 
 {.sortable}
 
 

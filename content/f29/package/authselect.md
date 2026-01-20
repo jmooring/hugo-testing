@@ -18,23 +18,23 @@ The package authselect (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/es.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.es.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.es.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/fr.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.fr.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.fr.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.fr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/nl.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.nl.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.nl.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f29/authselect/po/pl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/sv.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.sv.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.sv.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.sv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/uk.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.uk.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.uk.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.uk.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 4835 | 4859 | 99.5 | /mnt/stockage/packages/f29/authselect/po/ja.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.ja.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.ja.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.ja.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/it.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/ko.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/ru.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/zh_TW.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1619 | 2994 | 54.1 | /mnt/stockage/packages/f29/authselect/po/hu.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.hu.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 956 | 1807 | 52.9 | /mnt/stockage/packages/f29/authselect/po/cs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 930 | 1807 | 51.5 | /mnt/stockage/packages/f29/authselect/po/ca.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 2004 | 4859 | 41.2 | /mnt/stockage/packages/f29/authselect/po/de.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.de.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.de.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.de.po | 
+ | [es](/f29/language/es) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/es.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.es.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.es.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.es.po | 
+ | [fr](/f29/language/fr) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/fr.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.fr.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.fr.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.fr.po | 
+ | [nl](/f29/language/nl) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/nl.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.nl.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.nl.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.nl.po | 
+ | [pl](/f29/language/pl) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f29/authselect/po/pl.po | 
+ | [sv](/f29/language/sv) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/sv.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.sv.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.sv.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.sv.po | 
+ | [uk](/f29/language/uk) | 4859 | 4859 | 100.0 | /mnt/stockage/packages/f29/authselect/po/uk.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.uk.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.uk.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.uk.po | 
+ | [ja](/f29/language/ja) | 4835 | 4859 | 99.5 | /mnt/stockage/packages/f29/authselect/po/ja.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.ja.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.ja.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.ja.po | 
+ | [it](/f29/language/it) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/it.po | 
+ | [ko](/f29/language/ko) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/ko.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/ru.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1783 | 1807 | 98.7 | /mnt/stockage/packages/f29/authselect/po/zh_TW.po | 
+ | [hu](/f29/language/hu) | 1619 | 2994 | 54.1 | /mnt/stockage/packages/f29/authselect/po/hu.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.hu.po | 
+ | [cs](/f29/language/cs) | 956 | 1807 | 52.9 | /mnt/stockage/packages/f29/authselect/po/cs.po | 
+ | [ca](/f29/language/ca) | 930 | 1807 | 51.5 | /mnt/stockage/packages/f29/authselect/po/ca.po | 
+ | [de](/f29/language/de) | 2004 | 4859 | 41.2 | /mnt/stockage/packages/f29/authselect/po/de.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-migration.7.adoc.de.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect-profiles.5.adoc.de.po/mnt/stockage/packages/f29/authselect/src/man/po/authselect.8.adoc.de.po | 
 {.sortable}
 
 

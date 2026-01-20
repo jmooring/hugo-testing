@@ -18,48 +18,48 @@ The package kmplayer (version 0.12.0b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/cs/kmplayer.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/nb/kmplayer.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/pt/kmplayer.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/sv/kmplayer.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/uk/kmplayer.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/bs/kmplayer.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 2496 | 2498 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/ca@valencia/kmplayer.po/mnt/stockage/packages/f39/kmplayer/po/ca/kmplayer.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/da/kmplayer.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/de/kmplayer.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/el/kmplayer.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/en_GB/kmplayer.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/es/kmplayer.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/et/kmplayer.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/fr/kmplayer.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/it/kmplayer.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/km/kmplayer.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/nds/kmplayer.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/nl/kmplayer.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/pl/kmplayer.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/pt_BR/kmplayer.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/tr/kmplayer.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/ug/kmplayer.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/zh_TW/kmplayer.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f39/kmplayer/po/sr/kmplayer.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f39/kmplayer/po/sr@latin/kmplayer.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1238 | 1249 | 99.1 | /mnt/stockage/packages/f39/kmplayer/po/zh_CN/kmplayer.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 1210 | 1248 | 97.0 | /mnt/stockage/packages/f39/kmplayer/po/lt/kmplayer.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 1163 | 1249 | 93.1 | /mnt/stockage/packages/f39/kmplayer/po/gl/kmplayer.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1155 | 1249 | 92.5 | /mnt/stockage/packages/f39/kmplayer/po/ru/kmplayer.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1076 | 1249 | 86.1 | /mnt/stockage/packages/f39/kmplayer/po/ja/kmplayer.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 1010 | 1249 | 80.9 | /mnt/stockage/packages/f39/kmplayer/po/ku/kmplayer.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 922 | 1249 | 73.8 | /mnt/stockage/packages/f39/kmplayer/po/ro/kmplayer.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 515 | 1249 | 41.2 | /mnt/stockage/packages/f39/kmplayer/po/bg/kmplayer.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 470 | 1249 | 37.6 | /mnt/stockage/packages/f39/kmplayer/po/lv/kmplayer.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 220 | 1249 | 17.6 | /mnt/stockage/packages/f39/kmplayer/po/ga/kmplayer.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 218 | 1249 | 17.5 | /mnt/stockage/packages/f39/kmplayer/po/th/kmplayer.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 130 | 1249 | 10.4 | /mnt/stockage/packages/f39/kmplayer/po/eo/kmplayer.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 111 | 1249 | 8.9 | /mnt/stockage/packages/f39/kmplayer/po/mai/kmplayer.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 27 | 1249 | 2.2 | /mnt/stockage/packages/f39/kmplayer/po/hu/kmplayer.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 10 | 1248 | 0.8 | /mnt/stockage/packages/f39/kmplayer/po/nn/kmplayer.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 2 | 1248 | 0.2 | /mnt/stockage/packages/f39/kmplayer/po/hr/kmplayer.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 0 | 1249 | 0.0 | /mnt/stockage/packages/f39/kmplayer/po/sk/kmplayer.po | 
+ | [cs](/f39/language/cs) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/cs/kmplayer.po | 
+ | [nb_NO](/f39/language/nb_NO) | 1248 | 1248 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/nb/kmplayer.po | 
+ | [pt](/f39/language/pt) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/pt/kmplayer.po | 
+ | [sv](/f39/language/sv) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/sv/kmplayer.po | 
+ | [uk](/f39/language/uk) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f39/kmplayer/po/uk/kmplayer.po | 
+ | [bs](/f39/language/bs) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/bs/kmplayer.po | 
+ | [ca](/f39/language/ca) | 2496 | 2498 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/ca@valencia/kmplayer.po/mnt/stockage/packages/f39/kmplayer/po/ca/kmplayer.po | 
+ | [da](/f39/language/da) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/da/kmplayer.po | 
+ | [de](/f39/language/de) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/de/kmplayer.po | 
+ | [el](/f39/language/el) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/el/kmplayer.po | 
+ | [en_GB](/f39/language/en_GB) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/en_GB/kmplayer.po | 
+ | [es](/f39/language/es) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/es/kmplayer.po | 
+ | [et](/f39/language/et) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/et/kmplayer.po | 
+ | [fr](/f39/language/fr) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/fr/kmplayer.po | 
+ | [it](/f39/language/it) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/it/kmplayer.po | 
+ | [km](/f39/language/km) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/km/kmplayer.po | 
+ | [nds](/f39/language/nds) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/nds/kmplayer.po | 
+ | [nl](/f39/language/nl) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/nl/kmplayer.po | 
+ | [pl](/f39/language/pl) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/pl/kmplayer.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/pt_BR/kmplayer.po | 
+ | [tr](/f39/language/tr) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/tr/kmplayer.po | 
+ | [ug](/f39/language/ug) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/ug/kmplayer.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1248 | 1249 | 99.9 | /mnt/stockage/packages/f39/kmplayer/po/zh_TW/kmplayer.po | 
+ | [sr](/f39/language/sr) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f39/kmplayer/po/sr/kmplayer.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 1246 | 1248 | 99.8 | /mnt/stockage/packages/f39/kmplayer/po/sr@latin/kmplayer.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1238 | 1249 | 99.1 | /mnt/stockage/packages/f39/kmplayer/po/zh_CN/kmplayer.po | 
+ | [lt](/f39/language/lt) | 1210 | 1248 | 97.0 | /mnt/stockage/packages/f39/kmplayer/po/lt/kmplayer.po | 
+ | [gl](/f39/language/gl) | 1163 | 1249 | 93.1 | /mnt/stockage/packages/f39/kmplayer/po/gl/kmplayer.po | 
+ | [ru](/f39/language/ru) | 1155 | 1249 | 92.5 | /mnt/stockage/packages/f39/kmplayer/po/ru/kmplayer.po | 
+ | [ja](/f39/language/ja) | 1076 | 1249 | 86.1 | /mnt/stockage/packages/f39/kmplayer/po/ja/kmplayer.po | 
+ | [ku](/f39/language/ku) | 1010 | 1249 | 80.9 | /mnt/stockage/packages/f39/kmplayer/po/ku/kmplayer.po | 
+ | [ro](/f39/language/ro) | 922 | 1249 | 73.8 | /mnt/stockage/packages/f39/kmplayer/po/ro/kmplayer.po | 
+ | [bg](/f39/language/bg) | 515 | 1249 | 41.2 | /mnt/stockage/packages/f39/kmplayer/po/bg/kmplayer.po | 
+ | [lv](/f39/language/lv) | 470 | 1249 | 37.6 | /mnt/stockage/packages/f39/kmplayer/po/lv/kmplayer.po | 
+ | [ga](/f39/language/ga) | 220 | 1249 | 17.6 | /mnt/stockage/packages/f39/kmplayer/po/ga/kmplayer.po | 
+ | [th](/f39/language/th) | 218 | 1249 | 17.5 | /mnt/stockage/packages/f39/kmplayer/po/th/kmplayer.po | 
+ | [eo](/f39/language/eo) | 130 | 1249 | 10.4 | /mnt/stockage/packages/f39/kmplayer/po/eo/kmplayer.po | 
+ | [mai](/f39/language/mai) | 111 | 1249 | 8.9 | /mnt/stockage/packages/f39/kmplayer/po/mai/kmplayer.po | 
+ | [hu](/f39/language/hu) | 27 | 1249 | 2.2 | /mnt/stockage/packages/f39/kmplayer/po/hu/kmplayer.po | 
+ | [nn](/f39/language/nn) | 10 | 1248 | 0.8 | /mnt/stockage/packages/f39/kmplayer/po/nn/kmplayer.po | 
+ | [hr](/f39/language/hr) | 2 | 1248 | 0.2 | /mnt/stockage/packages/f39/kmplayer/po/hr/kmplayer.po | 
+ | [sk](/f39/language/sk) | 0 | 1249 | 0.0 | /mnt/stockage/packages/f39/kmplayer/po/sk/kmplayer.po | 
 {.sortable}
 
 

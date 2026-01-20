@@ -18,27 +18,27 @@ The package gnome-hearts (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 407 | 409 | 99.5 | /mnt/stockage/packages/f10/gnome-hearts/po/nl.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 394 | 409 | 96.3 | /mnt/stockage/packages/f10/gnome-hearts/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 394 | 409 | 96.3 | /mnt/stockage/packages/f10/gnome-hearts/po/zh_CN.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 376 | 409 | 91.9 | /mnt/stockage/packages/f10/gnome-hearts/po/eu.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 374 | 409 | 91.4 | /mnt/stockage/packages/f10/gnome-hearts/po/sv.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 364 | 409 | 89.0 | /mnt/stockage/packages/f10/gnome-hearts/po/it.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 359 | 409 | 87.8 | /mnt/stockage/packages/f10/gnome-hearts/po/id.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 356 | 409 | 87.0 | /mnt/stockage/packages/f10/gnome-hearts/po/fi.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 355 | 409 | 86.8 | /mnt/stockage/packages/f10/gnome-hearts/po/pt.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 353 | 409 | 86.3 | /mnt/stockage/packages/f10/gnome-hearts/po/es.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 347 | 409 | 84.8 | /mnt/stockage/packages/f10/gnome-hearts/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 346 | 409 | 84.6 | /mnt/stockage/packages/f10/gnome-hearts/po/el.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/hu.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/ml.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/pl.po | 
- | [tl]({{< ref "/f10/language/tl.md" >}}) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/tl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 334 | 409 | 81.7 | /mnt/stockage/packages/f10/gnome-hearts/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 332 | 409 | 81.2 | /mnt/stockage/packages/f10/gnome-hearts/po/ru.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 328 | 409 | 80.2 | /mnt/stockage/packages/f10/gnome-hearts/po/fr.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 323 | 409 | 79.0 | /mnt/stockage/packages/f10/gnome-hearts/po/da.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 264 | 409 | 64.5 | /mnt/stockage/packages/f10/gnome-hearts/po/sk.po | 
+ | [nl](/f10/language/nl) | 407 | 409 | 99.5 | /mnt/stockage/packages/f10/gnome-hearts/po/nl.po | 
+ | [en_GB](/f10/language/en_GB) | 394 | 409 | 96.3 | /mnt/stockage/packages/f10/gnome-hearts/po/en_GB.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 394 | 409 | 96.3 | /mnt/stockage/packages/f10/gnome-hearts/po/zh_CN.po | 
+ | [eu](/f10/language/eu) | 376 | 409 | 91.9 | /mnt/stockage/packages/f10/gnome-hearts/po/eu.po | 
+ | [sv](/f10/language/sv) | 374 | 409 | 91.4 | /mnt/stockage/packages/f10/gnome-hearts/po/sv.po | 
+ | [it](/f10/language/it) | 364 | 409 | 89.0 | /mnt/stockage/packages/f10/gnome-hearts/po/it.po | 
+ | [id](/f10/language/id) | 359 | 409 | 87.8 | /mnt/stockage/packages/f10/gnome-hearts/po/id.po | 
+ | [fi](/f10/language/fi) | 356 | 409 | 87.0 | /mnt/stockage/packages/f10/gnome-hearts/po/fi.po | 
+ | [pt](/f10/language/pt) | 355 | 409 | 86.8 | /mnt/stockage/packages/f10/gnome-hearts/po/pt.po | 
+ | [es](/f10/language/es) | 353 | 409 | 86.3 | /mnt/stockage/packages/f10/gnome-hearts/po/es.po | 
+ | [de](/f10/language/de) | 347 | 409 | 84.8 | /mnt/stockage/packages/f10/gnome-hearts/po/de.po | 
+ | [el](/f10/language/el) | 346 | 409 | 84.6 | /mnt/stockage/packages/f10/gnome-hearts/po/el.po | 
+ | [hu](/f10/language/hu) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/hu.po | 
+ | [ml](/f10/language/ml) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/ml.po | 
+ | [pl](/f10/language/pl) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/pl.po | 
+ | [tl](/f10/language/tl) | 340 | 409 | 83.1 | /mnt/stockage/packages/f10/gnome-hearts/po/tl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 334 | 409 | 81.7 | /mnt/stockage/packages/f10/gnome-hearts/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 332 | 409 | 81.2 | /mnt/stockage/packages/f10/gnome-hearts/po/ru.po | 
+ | [fr](/f10/language/fr) | 328 | 409 | 80.2 | /mnt/stockage/packages/f10/gnome-hearts/po/fr.po | 
+ | [da](/f10/language/da) | 323 | 409 | 79.0 | /mnt/stockage/packages/f10/gnome-hearts/po/da.po | 
+ | [sk](/f10/language/sk) | 264 | 409 | 64.5 | /mnt/stockage/packages/f10/gnome-hearts/po/sk.po | 
 {.sortable}
 
 

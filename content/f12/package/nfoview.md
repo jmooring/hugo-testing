@@ -18,15 +18,15 @@ The package nfoview (version 1.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/fi.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/he.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/hu.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/pl.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 106 | 108 | 98.1 | /mnt/stockage/packages/f12/nfoview/po/fr.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 200 | 216 | 92.6 | /mnt/stockage/packages/f12/nfoview/po/de.po/mnt/stockage/packages/f12/nfoview/po/de_CH.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f12/nfoview/po/bg.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f12/nfoview/po/it.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f12/nfoview/po/zh_CN.po | 
+ | [fi](/f12/language/fi) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/fi.po | 
+ | [he](/f12/language/he) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/he.po | 
+ | [hu](/f12/language/hu) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/hu.po | 
+ | [pl](/f12/language/pl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f12/nfoview/po/pl.po | 
+ | [fr](/f12/language/fr) | 106 | 108 | 98.1 | /mnt/stockage/packages/f12/nfoview/po/fr.po | 
+ | [de](/f12/language/de) | 200 | 216 | 92.6 | /mnt/stockage/packages/f12/nfoview/po/de.po/mnt/stockage/packages/f12/nfoview/po/de_CH.po | 
+ | [bg](/f12/language/bg) | 98 | 108 | 90.7 | /mnt/stockage/packages/f12/nfoview/po/bg.po | 
+ | [it](/f12/language/it) | 98 | 108 | 90.7 | /mnt/stockage/packages/f12/nfoview/po/it.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 98 | 108 | 90.7 | /mnt/stockage/packages/f12/nfoview/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gnome-do (version 0.4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 72 | 83 | 86.7 | /mnt/stockage/packages/f9/gnome-do/po/ca.po | 
+ | [ca](/f9/language/ca) | 72 | 83 | 86.7 | /mnt/stockage/packages/f9/gnome-do/po/ca.po | 
 {.sortable}
 
 

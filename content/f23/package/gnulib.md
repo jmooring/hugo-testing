@@ -18,7 +18,7 @@ The package gnulib (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/gnulib/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
+ | [fr](/f23/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/gnulib/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
 {.sortable}
 
 

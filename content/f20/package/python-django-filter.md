@@ -18,7 +18,7 @@ The package python-django-filter (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f20/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
+ | [de](/f20/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f20/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package fcitx (version 4.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2590 | 2590 | 100.0 | /mnt/stockage/packages/f17/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 2009 | 2590 | 77.6 | /mnt/stockage/packages/f17/fcitx/po/zh_TW.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 554 | 2590 | 21.4 | /mnt/stockage/packages/f17/fcitx/po/de.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 374 | 2590 | 14.4 | /mnt/stockage/packages/f17/fcitx/po/ja.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 193 | 2590 | 7.5 | /mnt/stockage/packages/f17/fcitx/po/es.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2590 | 2590 | 100.0 | /mnt/stockage/packages/f17/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 2009 | 2590 | 77.6 | /mnt/stockage/packages/f17/fcitx/po/zh_TW.po | 
+ | [de](/f17/language/de) | 554 | 2590 | 21.4 | /mnt/stockage/packages/f17/fcitx/po/de.po | 
+ | [ja](/f17/language/ja) | 374 | 2590 | 14.4 | /mnt/stockage/packages/f17/fcitx/po/ja.po | 
+ | [es](/f17/language/es) | 193 | 2590 | 7.5 | /mnt/stockage/packages/f17/fcitx/po/es.po | 
 {.sortable}
 
 

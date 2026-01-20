@@ -18,26 +18,26 @@ The package python-sphinx_rtd_theme (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f40/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/da/LC_MESSAGES/sphinx.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/de/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/et/LC_MESSAGES/sphinx.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/fa_IR/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/fr/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/it/LC_MESSAGES/sphinx.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/lt/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/pl/LC_MESSAGES/sphinx.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/pt/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/ru/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/sv/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/tr/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/en/LC_MESSAGES/sphinx.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/hr/LC_MESSAGES/sphinx.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/hu/LC_MESSAGES/sphinx.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/zh_TW/LC_MESSAGES/sphinx.po | 
+ | [da](/f40/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/da/LC_MESSAGES/sphinx.po | 
+ | [de](/f40/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/de/LC_MESSAGES/sphinx.po | 
+ | [es](/f40/language/es) | 89 | 89 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [et](/f40/language/et) | 89 | 89 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/et/LC_MESSAGES/sphinx.po | 
+ | [fa](/f40/language/fa) | 88 | 88 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/fa_IR/LC_MESSAGES/sphinx.po | 
+ | [fr](/f40/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [it](/f40/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/it/LC_MESSAGES/sphinx.po | 
+ | [lt](/f40/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/lt/LC_MESSAGES/sphinx.po | 
+ | [nl](/f40/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pl](/f40/language/pl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [pt](/f40/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/pt/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f40/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [ru](/f40/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [sv](/f40/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [tr](/f40/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [en](/f40/language/en) | 0 | 99 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [hr](/f40/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/hr/LC_MESSAGES/sphinx.po | 
+ | [hu](/f40/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/hu/LC_MESSAGES/sphinx.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/python-sphinx_rtd_theme/sphinx_rtd_theme/locale/zh_TW/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

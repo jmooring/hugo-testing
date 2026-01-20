@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f38/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 55 | 216 | 25.5 | Bemba <bem@li.org> | 
- | [pyhoca-gui]({{< ref "/f38/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f38/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f38/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f38/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [alacarte](/f38/package/alacarte) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [slick-greeter](/f38/package/slick-greeter) | 55 | 216 | 25.5 | Bemba <bem@li.org> | 
+ | [pyhoca-gui](/f38/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f38/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f38/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f38/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f18/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [libreoffice]({{< ref "/f18/package/libreoffice.md" >}}) | 58105 | 91859 | 63.3 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f18/package/iok.md" >}}) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
- | [fonts-tweak-tool]({{< ref "/f18/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Bodo | 
+ | [alacarte](/f18/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [libreoffice](/f18/package/libreoffice) | 58105 | 91859 | 63.3 | LANGUAGE <LL@li.org> | 
+ | [iok](/f18/package/iok) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
+ | [fonts-tweak-tool](/f18/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Bodo | 
 {.sortable}
 
 

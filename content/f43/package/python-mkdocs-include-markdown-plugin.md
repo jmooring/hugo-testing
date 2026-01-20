@@ -18,8 +18,8 @@ The package python-mkdocs-include-markdown-plugin (version 7.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f43/language/es.md" >}}) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f43/python-mkdocs-include-markdown-plugin/locale/es/README.md.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f43/python-mkdocs-include-markdown-plugin/locale/fr/README.md.po | 
+ | [es](/f43/language/es) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f43/python-mkdocs-include-markdown-plugin/locale/es/README.md.po | 
+ | [fr](/f43/language/fr) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f43/python-mkdocs-include-markdown-plugin/locale/fr/README.md.po | 
 {.sortable}
 
 

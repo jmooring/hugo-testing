@@ -18,18 +18,18 @@ The package datamash (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/eo.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/fr.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/nl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/pt_BR.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/uk.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 852 | 1422 | 59.9 | /mnt/stockage/packages/f41/datamash/po/de.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 711 | 1422 | 50.0 | /mnt/stockage/packages/f41/datamash/po/da.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 711 | 1422 | 50.0 | /mnt/stockage/packages/f41/datamash/po/es.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 406 | 1422 | 28.6 | /mnt/stockage/packages/f41/datamash/po/vi.po | 
+ | [eo](/f41/language/eo) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/eo.po | 
+ | [fr](/f41/language/fr) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/fr.po | 
+ | [nb_NO](/f41/language/nb_NO) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/nb.po | 
+ | [nl](/f41/language/nl) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/nl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/pt_BR.po | 
+ | [sr](/f41/language/sr) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/sr.po | 
+ | [sv](/f41/language/sv) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/sv.po | 
+ | [uk](/f41/language/uk) | 853 | 1422 | 60.0 | /mnt/stockage/packages/f41/datamash/po/uk.po | 
+ | [de](/f41/language/de) | 852 | 1422 | 59.9 | /mnt/stockage/packages/f41/datamash/po/de.po | 
+ | [da](/f41/language/da) | 711 | 1422 | 50.0 | /mnt/stockage/packages/f41/datamash/po/da.po | 
+ | [es](/f41/language/es) | 711 | 1422 | 50.0 | /mnt/stockage/packages/f41/datamash/po/es.po | 
+ | [vi](/f41/language/vi) | 406 | 1422 | 28.6 | /mnt/stockage/packages/f41/datamash/po/vi.po | 
 {.sortable}
 
 

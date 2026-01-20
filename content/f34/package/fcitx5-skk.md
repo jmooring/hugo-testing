@@ -18,17 +18,17 @@ The package fcitx5-skk (version 5.0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f34/fcitx5-skk/po/ja.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f34/fcitx5-skk/po/zh_CN.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 94 | 101 | 93.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/da.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 94 | 101 | 93.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/ru.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 94 | 101 | 93.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/zh_TW.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 90 | 101 | 89.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/ko.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 78 | 101 | 77.2 | /mnt/stockage/packages/f34/fcitx5-skk/po/tr.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 77 | 101 | 76.2 | /mnt/stockage/packages/f34/fcitx5-skk/po/de.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 67 | 101 | 66.3 | /mnt/stockage/packages/f34/fcitx5-skk/po/ca.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 6 | 101 | 5.9 | /mnt/stockage/packages/f34/fcitx5-skk/po/vi.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 2 | 101 | 2.0 | /mnt/stockage/packages/f34/fcitx5-skk/po/he.po | 
+ | [ja](/f34/language/ja) | 101 | 101 | 100.0 | /mnt/stockage/packages/f34/fcitx5-skk/po/ja.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 101 | 101 | 100.0 | /mnt/stockage/packages/f34/fcitx5-skk/po/zh_CN.po | 
+ | [da](/f34/language/da) | 94 | 101 | 93.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/da.po | 
+ | [ru](/f34/language/ru) | 94 | 101 | 93.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/ru.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 94 | 101 | 93.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/zh_TW.po | 
+ | [ko](/f34/language/ko) | 90 | 101 | 89.1 | /mnt/stockage/packages/f34/fcitx5-skk/po/ko.po | 
+ | [tr](/f34/language/tr) | 78 | 101 | 77.2 | /mnt/stockage/packages/f34/fcitx5-skk/po/tr.po | 
+ | [de](/f34/language/de) | 77 | 101 | 76.2 | /mnt/stockage/packages/f34/fcitx5-skk/po/de.po | 
+ | [ca](/f34/language/ca) | 67 | 101 | 66.3 | /mnt/stockage/packages/f34/fcitx5-skk/po/ca.po | 
+ | [vi](/f34/language/vi) | 6 | 101 | 5.9 | /mnt/stockage/packages/f34/fcitx5-skk/po/vi.po | 
+ | [he](/f34/language/he) | 2 | 101 | 2.0 | /mnt/stockage/packages/f34/fcitx5-skk/po/he.po | 
 {.sortable}
 
 

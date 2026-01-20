@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f10/package/anaconda.md" >}}) | 5721 | 10416 | 54.9 | Joseph Maza <joemaza@comcast.net> | 
- | [redhat-menus]({{< ref "/f10/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f10/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [firstboot]({{< ref "/f10/package/firstboot.md" >}}) | 132 | 604 | 21.9 |  | 
- | [specspo]({{< ref "/f10/package/specspo.md" >}}) | 7 | 305294 | 0.0 |  | 
- | [system-config-date]({{< ref "/f10/package/system-config-date.md" >}}) | 0 | 560 | 0.0 |  | 
- | [system-config-date-docs]({{< ref "/f10/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f10/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f10/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f10/package/anaconda) | 5721 | 10416 | 54.9 | Joseph Maza <joemaza@comcast.net> | 
+ | [redhat-menus](/f10/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f10/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [firstboot](/f10/package/firstboot) | 132 | 604 | 21.9 |  | 
+ | [specspo](/f10/package/specspo) | 7 | 305294 | 0.0 |  | 
+ | [system-config-date](/f10/package/system-config-date) | 0 | 560 | 0.0 |  | 
+ | [system-config-date-docs](/f10/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f10/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f10/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

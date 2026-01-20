@@ -18,16 +18,16 @@ The package kbackup (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 626 | 627 | 99.8 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/de.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 600 | 627 | 95.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/cs.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 509 | 627 | 81.2 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/fr.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/sk.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/sv.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 359 | 627 | 57.3 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/it.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 309 | 627 | 49.3 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/es.po | 
+ | [de](/f14/language/de) | 626 | 627 | 99.8 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/de.po | 
+ | [cs](/f14/language/cs) | 600 | 627 | 95.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/cs.po | 
+ | [fr](/f14/language/fr) | 509 | 627 | 81.2 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/fr.po | 
+ | [pt](/f14/language/pt) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/ru.po | 
+ | [sk](/f14/language/sk) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/sk.po | 
+ | [sv](/f14/language/sv) | 443 | 627 | 70.7 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/sv.po | 
+ | [it](/f14/language/it) | 359 | 627 | 57.3 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/it.po | 
+ | [es](/f14/language/es) | 309 | 627 | 49.3 | /mnt/stockage/packages/f14/kbackup/kbackup-0.7.1/po/es.po | 
 {.sortable}
 
 

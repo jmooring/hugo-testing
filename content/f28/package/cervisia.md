@@ -18,56 +18,56 @@ The package cervisia (version 18.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/ca/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ca/cvsservice.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/ca@valencia/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ca@valencia/cvsservice.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/cs/cervisia.po/mnt/stockage/packages/f28/cervisia/po/cs/cvsservice.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/de/cervisia.po/mnt/stockage/packages/f28/cervisia/po/de/cvsservice.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/el/cervisia.po/mnt/stockage/packages/f28/cervisia/po/el/cvsservice.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/en_GB/cervisia.po/mnt/stockage/packages/f28/cervisia/po/en_GB/cvsservice.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/es/cervisia.po/mnt/stockage/packages/f28/cervisia/po/es/cvsservice.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/et/cervisia.po/mnt/stockage/packages/f28/cervisia/po/et/cvsservice.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/fr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/fr/cvsservice.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/gl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/gl/cvsservice.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/it/cervisia.po/mnt/stockage/packages/f28/cervisia/po/it/cvsservice.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/nl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nl/cvsservice.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/nn/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nn/cvsservice.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/pl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pl/cvsservice.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/pt/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pt/cvsservice.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/pt_BR/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pt_BR/cvsservice.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/sk/cervisia.po/mnt/stockage/packages/f28/cervisia/po/sk/cvsservice.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/sl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/sl/cvsservice.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/sv/cervisia.po/mnt/stockage/packages/f28/cervisia/po/sv/cvsservice.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/tr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/tr/cvsservice.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/uk/cervisia.po/mnt/stockage/packages/f28/cervisia/po/uk/cvsservice.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/zh_TW/cervisia.po/mnt/stockage/packages/f28/cervisia/po/zh_TW/cvsservice.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1598 | 1619 | 98.7 | /mnt/stockage/packages/f28/cervisia/po/zh_CN/cervisia.po/mnt/stockage/packages/f28/cervisia/po/zh_CN/cvsservice.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 1584 | 1619 | 97.8 | /mnt/stockage/packages/f28/cervisia/po/nb/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nb/cvsservice.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/bs/cervisia.po/mnt/stockage/packages/f28/cervisia/po/bs/cvsservice.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/da/cervisia.po/mnt/stockage/packages/f28/cervisia/po/da/cvsservice.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/hu/cervisia.po/mnt/stockage/packages/f28/cervisia/po/hu/cvsservice.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/ja/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ja/cvsservice.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/kk/cervisia.po/mnt/stockage/packages/f28/cervisia/po/kk/cvsservice.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/nds/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nds/cvsservice.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/ru/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ru/cvsservice.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 1533 | 1619 | 94.7 | /mnt/stockage/packages/f28/cervisia/po/fa/cervisia.po/mnt/stockage/packages/f28/cervisia/po/fa/cvsservice.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 1524 | 1619 | 94.1 | /mnt/stockage/packages/f28/cervisia/po/hi/cervisia.po/mnt/stockage/packages/f28/cervisia/po/hi/cvsservice.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 1461 | 1619 | 90.2 | /mnt/stockage/packages/f28/cervisia/po/eu/cervisia.po/mnt/stockage/packages/f28/cervisia/po/eu/cvsservice.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 1460 | 1619 | 90.2 | /mnt/stockage/packages/f28/cervisia/po/ar/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ar/cvsservice.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 1307 | 1619 | 80.7 | /mnt/stockage/packages/f28/cervisia/po/pa/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pa/cvsservice.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 1063 | 1554 | 68.4 | /mnt/stockage/packages/f28/cervisia/po/he/cervisia.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1076 | 1619 | 66.5 | /mnt/stockage/packages/f28/cervisia/po/fi/cervisia.po/mnt/stockage/packages/f28/cervisia/po/fi/cvsservice.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 40 | 65 | 61.5 | /mnt/stockage/packages/f28/cervisia/po/is/cvsservice.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 822 | 1619 | 50.8 | /mnt/stockage/packages/f28/cervisia/po/eo/cervisia.po/mnt/stockage/packages/f28/cervisia/po/eo/cvsservice.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 755 | 1619 | 46.6 | /mnt/stockage/packages/f28/cervisia/po/km/cervisia.po/mnt/stockage/packages/f28/cervisia/po/km/cvsservice.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 694 | 1619 | 42.9 | /mnt/stockage/packages/f28/cervisia/po/ga/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ga/cvsservice.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 589 | 1619 | 36.4 | /mnt/stockage/packages/f28/cervisia/po/ko/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ko/cvsservice.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 544 | 1619 | 33.6 | /mnt/stockage/packages/f28/cervisia/po/ro/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ro/cvsservice.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 314 | 1619 | 19.4 | /mnt/stockage/packages/f28/cervisia/po/lt/cervisia.po/mnt/stockage/packages/f28/cervisia/po/lt/cvsservice.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 204 | 1619 | 12.6 | /mnt/stockage/packages/f28/cervisia/po/hr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/hr/cvsservice.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 201 | 1619 | 12.4 | /mnt/stockage/packages/f28/cervisia/po/ug/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ug/cvsservice.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 109 | 1619 | 6.7 | /mnt/stockage/packages/f28/cervisia/po/lv/cervisia.po/mnt/stockage/packages/f28/cervisia/po/lv/cvsservice.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 102 | 1619 | 6.3 | /mnt/stockage/packages/f28/cervisia/po/mr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/mr/cvsservice.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 8 | 1619 | 0.5 | /mnt/stockage/packages/f28/cervisia/po/ast/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ast/cvsservice.po | 
+ | [ca](/f28/language/ca) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/ca/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ca/cvsservice.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/ca@valencia/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ca@valencia/cvsservice.po | 
+ | [cs](/f28/language/cs) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/cs/cervisia.po/mnt/stockage/packages/f28/cervisia/po/cs/cvsservice.po | 
+ | [de](/f28/language/de) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/de/cervisia.po/mnt/stockage/packages/f28/cervisia/po/de/cvsservice.po | 
+ | [el](/f28/language/el) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/el/cervisia.po/mnt/stockage/packages/f28/cervisia/po/el/cvsservice.po | 
+ | [en_GB](/f28/language/en_GB) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/en_GB/cervisia.po/mnt/stockage/packages/f28/cervisia/po/en_GB/cvsservice.po | 
+ | [es](/f28/language/es) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/es/cervisia.po/mnt/stockage/packages/f28/cervisia/po/es/cvsservice.po | 
+ | [et](/f28/language/et) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/et/cervisia.po/mnt/stockage/packages/f28/cervisia/po/et/cvsservice.po | 
+ | [fr](/f28/language/fr) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/fr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/fr/cvsservice.po | 
+ | [gl](/f28/language/gl) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/gl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/gl/cvsservice.po | 
+ | [it](/f28/language/it) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/it/cervisia.po/mnt/stockage/packages/f28/cervisia/po/it/cvsservice.po | 
+ | [nl](/f28/language/nl) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/nl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nl/cvsservice.po | 
+ | [nn](/f28/language/nn) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/nn/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nn/cvsservice.po | 
+ | [pl](/f28/language/pl) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/pl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pl/cvsservice.po | 
+ | [pt](/f28/language/pt) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/pt/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pt/cvsservice.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/pt_BR/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pt_BR/cvsservice.po | 
+ | [sk](/f28/language/sk) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/sk/cervisia.po/mnt/stockage/packages/f28/cervisia/po/sk/cvsservice.po | 
+ | [sl](/f28/language/sl) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/sl/cervisia.po/mnt/stockage/packages/f28/cervisia/po/sl/cvsservice.po | 
+ | [sv](/f28/language/sv) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/sv/cervisia.po/mnt/stockage/packages/f28/cervisia/po/sv/cvsservice.po | 
+ | [tr](/f28/language/tr) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/tr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/tr/cvsservice.po | 
+ | [uk](/f28/language/uk) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/uk/cervisia.po/mnt/stockage/packages/f28/cervisia/po/uk/cvsservice.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1619 | 1619 | 100.0 | /mnt/stockage/packages/f28/cervisia/po/zh_TW/cervisia.po/mnt/stockage/packages/f28/cervisia/po/zh_TW/cvsservice.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1598 | 1619 | 98.7 | /mnt/stockage/packages/f28/cervisia/po/zh_CN/cervisia.po/mnt/stockage/packages/f28/cervisia/po/zh_CN/cvsservice.po | 
+ | [nb_NO](/f28/language/nb_NO) | 1584 | 1619 | 97.8 | /mnt/stockage/packages/f28/cervisia/po/nb/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nb/cvsservice.po | 
+ | [bs](/f28/language/bs) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/bs/cervisia.po/mnt/stockage/packages/f28/cervisia/po/bs/cvsservice.po | 
+ | [da](/f28/language/da) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/da/cervisia.po/mnt/stockage/packages/f28/cervisia/po/da/cvsservice.po | 
+ | [hu](/f28/language/hu) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/hu/cervisia.po/mnt/stockage/packages/f28/cervisia/po/hu/cvsservice.po | 
+ | [ja](/f28/language/ja) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/ja/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ja/cvsservice.po | 
+ | [kk](/f28/language/kk) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/kk/cervisia.po/mnt/stockage/packages/f28/cervisia/po/kk/cvsservice.po | 
+ | [nds](/f28/language/nds) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/nds/cervisia.po/mnt/stockage/packages/f28/cervisia/po/nds/cvsservice.po | 
+ | [ru](/f28/language/ru) | 1579 | 1619 | 97.5 | /mnt/stockage/packages/f28/cervisia/po/ru/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ru/cvsservice.po | 
+ | [fa](/f28/language/fa) | 1533 | 1619 | 94.7 | /mnt/stockage/packages/f28/cervisia/po/fa/cervisia.po/mnt/stockage/packages/f28/cervisia/po/fa/cvsservice.po | 
+ | [hi](/f28/language/hi) | 1524 | 1619 | 94.1 | /mnt/stockage/packages/f28/cervisia/po/hi/cervisia.po/mnt/stockage/packages/f28/cervisia/po/hi/cvsservice.po | 
+ | [eu](/f28/language/eu) | 1461 | 1619 | 90.2 | /mnt/stockage/packages/f28/cervisia/po/eu/cervisia.po/mnt/stockage/packages/f28/cervisia/po/eu/cvsservice.po | 
+ | [ar](/f28/language/ar) | 1460 | 1619 | 90.2 | /mnt/stockage/packages/f28/cervisia/po/ar/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ar/cvsservice.po | 
+ | [pa](/f28/language/pa) | 1307 | 1619 | 80.7 | /mnt/stockage/packages/f28/cervisia/po/pa/cervisia.po/mnt/stockage/packages/f28/cervisia/po/pa/cvsservice.po | 
+ | [he](/f28/language/he) | 1063 | 1554 | 68.4 | /mnt/stockage/packages/f28/cervisia/po/he/cervisia.po | 
+ | [fi](/f28/language/fi) | 1076 | 1619 | 66.5 | /mnt/stockage/packages/f28/cervisia/po/fi/cervisia.po/mnt/stockage/packages/f28/cervisia/po/fi/cvsservice.po | 
+ | [is](/f28/language/is) | 40 | 65 | 61.5 | /mnt/stockage/packages/f28/cervisia/po/is/cvsservice.po | 
+ | [eo](/f28/language/eo) | 822 | 1619 | 50.8 | /mnt/stockage/packages/f28/cervisia/po/eo/cervisia.po/mnt/stockage/packages/f28/cervisia/po/eo/cvsservice.po | 
+ | [km](/f28/language/km) | 755 | 1619 | 46.6 | /mnt/stockage/packages/f28/cervisia/po/km/cervisia.po/mnt/stockage/packages/f28/cervisia/po/km/cvsservice.po | 
+ | [ga](/f28/language/ga) | 694 | 1619 | 42.9 | /mnt/stockage/packages/f28/cervisia/po/ga/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ga/cvsservice.po | 
+ | [ko](/f28/language/ko) | 589 | 1619 | 36.4 | /mnt/stockage/packages/f28/cervisia/po/ko/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ko/cvsservice.po | 
+ | [ro](/f28/language/ro) | 544 | 1619 | 33.6 | /mnt/stockage/packages/f28/cervisia/po/ro/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ro/cvsservice.po | 
+ | [lt](/f28/language/lt) | 314 | 1619 | 19.4 | /mnt/stockage/packages/f28/cervisia/po/lt/cervisia.po/mnt/stockage/packages/f28/cervisia/po/lt/cvsservice.po | 
+ | [hr](/f28/language/hr) | 204 | 1619 | 12.6 | /mnt/stockage/packages/f28/cervisia/po/hr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/hr/cvsservice.po | 
+ | [ug](/f28/language/ug) | 201 | 1619 | 12.4 | /mnt/stockage/packages/f28/cervisia/po/ug/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ug/cvsservice.po | 
+ | [lv](/f28/language/lv) | 109 | 1619 | 6.7 | /mnt/stockage/packages/f28/cervisia/po/lv/cervisia.po/mnt/stockage/packages/f28/cervisia/po/lv/cvsservice.po | 
+ | [mr](/f28/language/mr) | 102 | 1619 | 6.3 | /mnt/stockage/packages/f28/cervisia/po/mr/cervisia.po/mnt/stockage/packages/f28/cervisia/po/mr/cvsservice.po | 
+ | [ast](/f28/language/ast) | 8 | 1619 | 0.5 | /mnt/stockage/packages/f28/cervisia/po/ast/cervisia.po/mnt/stockage/packages/f28/cervisia/po/ast/cvsservice.po | 
 {.sortable}
 
 

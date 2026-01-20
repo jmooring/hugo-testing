@@ -18,14 +18,14 @@ The package mhwaveedit (version 1.4.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 4398 | 4547 | 96.7 | /mnt/stockage/packages/f25/mhwaveedit/po/pl.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 4396 | 4547 | 96.7 | /mnt/stockage/packages/f25/mhwaveedit/po/sv.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 4372 | 4547 | 96.2 | /mnt/stockage/packages/f25/mhwaveedit/po/it.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 2772 | 4547 | 61.0 | /mnt/stockage/packages/f25/mhwaveedit/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 2551 | 4547 | 56.1 | /mnt/stockage/packages/f25/mhwaveedit/po/fr.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 2451 | 4547 | 53.9 | /mnt/stockage/packages/f25/mhwaveedit/po/ru.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 2133 | 4547 | 46.9 | /mnt/stockage/packages/f25/mhwaveedit/po/de.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 1615 | 4547 | 35.5 | /mnt/stockage/packages/f25/mhwaveedit/po/zh_CN.po | 
+ | [pl](/f25/language/pl) | 4398 | 4547 | 96.7 | /mnt/stockage/packages/f25/mhwaveedit/po/pl.po | 
+ | [sv](/f25/language/sv) | 4396 | 4547 | 96.7 | /mnt/stockage/packages/f25/mhwaveedit/po/sv.po | 
+ | [it](/f25/language/it) | 4372 | 4547 | 96.2 | /mnt/stockage/packages/f25/mhwaveedit/po/it.po | 
+ | [es](/f25/language/es) | 2772 | 4547 | 61.0 | /mnt/stockage/packages/f25/mhwaveedit/po/es.po | 
+ | [fr](/f25/language/fr) | 2551 | 4547 | 56.1 | /mnt/stockage/packages/f25/mhwaveedit/po/fr.po | 
+ | [ru](/f25/language/ru) | 2451 | 4547 | 53.9 | /mnt/stockage/packages/f25/mhwaveedit/po/ru.po | 
+ | [de](/f25/language/de) | 2133 | 4547 | 46.9 | /mnt/stockage/packages/f25/mhwaveedit/po/de.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 1615 | 4547 | 35.5 | /mnt/stockage/packages/f25/mhwaveedit/po/zh_CN.po | 
 {.sortable}
 
 

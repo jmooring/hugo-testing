@@ -18,7 +18,7 @@ The package esteid-browser-plugin (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f14/language/et.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f14/esteid-browser-plugin/po/et.po | 
+ | [et](/f14/language/et) | 107 | 107 | 100.0 | /mnt/stockage/packages/f14/esteid-browser-plugin/po/et.po | 
 {.sortable}
 
 

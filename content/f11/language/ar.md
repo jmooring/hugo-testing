@@ -75,452 +75,452 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f11/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [asunder]({{< ref "/f11/package/asunder.md" >}}) | 420 | 420 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [avant-window-navigator]({{< ref "/f11/package/avant-window-navigator.md" >}}) | 593 | 593 | 100.0 | Arabic | 
- | [backintime]({{< ref "/f11/package/backintime.md" >}}) | 441 | 441 | 100.0 | Arabic <ar@li.org> | 
- | [bakery]({{< ref "/f11/package/bakery.md" >}}) | 58 | 58 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [clamtk]({{< ref "/f11/package/clamtk.md" >}}) | 779 | 779 | 100.0 | Arabic <ar@li.org> | 
- | [control-center]({{< ref "/f11/package/control-center.md" >}}) | 2737 | 2737 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [dasher]({{< ref "/f11/package/dasher.md" >}}) | 526 | 526 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [deskbar-applet]({{< ref "/f11/package/deskbar-applet.md" >}}) | 1520 | 1520 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [eel2]({{< ref "/f11/package/eel2.md" >}}) | 153 | 153 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [ekiga]({{< ref "/f11/package/ekiga.md" >}}) | 4043 | 4043 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [emerald]({{< ref "/f11/package/emerald.md" >}}) | 774 | 774 | 100.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [epiphany]({{< ref "/f11/package/epiphany.md" >}}) | 4239 | 4239 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [epiphany-extensions]({{< ref "/f11/package/epiphany-extensions.md" >}}) | 1006 | 1006 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [evince]({{< ref "/f11/package/evince.md" >}}) | 1155 | 1155 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [evolution-exchange]({{< ref "/f11/package/evolution-exchange.md" >}}) | 1339 | 1339 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gcompris]({{< ref "/f11/package/gcompris.md" >}}) | 10877 | 10877 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gconf-editor]({{< ref "/f11/package/gconf-editor.md" >}}) | 329 | 329 | 100.0 | Arabic <support@arabeyes.org> | 
- | [ggz-base-libs]({{< ref "/f11/package/ggz-base-libs.md" >}}) | 74 | 74 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [ggz-gtk-client]({{< ref "/f11/package/ggz-gtk-client.md" >}}) | 859 | 859 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-backgrounds]({{< ref "/f11/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-doc-utils]({{< ref "/f11/package/gnome-doc-utils.md" >}}) | 238 | 238 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-icon-theme]({{< ref "/f11/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Arabic <support@arabeyes.org> | 
- | [gnome-mag]({{< ref "/f11/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-media]({{< ref "/f11/package/gnome-media.md" >}}) | 1190 | 1190 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-menus]({{< ref "/f11/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-mime-data]({{< ref "/f11/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-netstatus]({{< ref "/f11/package/gnome-netstatus.md" >}}) | 418 | 418 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-nettool]({{< ref "/f11/package/gnome-nettool.md" >}}) | 573 | 573 | 100.0 | Arabic <support@arabeyes.org> | 
- | [gnome-session]({{< ref "/f11/package/gnome-session.md" >}}) | 679 | 679 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnome-utils]({{< ref "/f11/package/gnome-utils.md" >}}) | 4174 | 4174 | 100.0 | ar <doc@arabeyes.org> | 
- | [gnome-vfs2]({{< ref "/f11/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gnote]({{< ref "/f11/package/gnote.md" >}}) | 2074 | 2074 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gok]({{< ref "/f11/package/gok.md" >}}) | 1950 | 1950 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gparted]({{< ref "/f11/package/gparted.md" >}}) | 1563 | 1563 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gpicview]({{< ref "/f11/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gst-mixer]({{< ref "/f11/package/gst-mixer.md" >}}) | 1938 | 1938 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gsynaptics]({{< ref "/f11/package/gsynaptics.md" >}}) | 72 | 72 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gtksourceview]({{< ref "/f11/package/gtksourceview.md" >}}) | 891 | 891 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [gucharmap]({{< ref "/f11/package/gucharmap.md" >}}) | 803 | 803 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [isomaster]({{< ref "/f11/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Abdellah Chelli <sneetsher@gmail.com> | 
- | [kshutdown]({{< ref "/f11/package/kshutdown.md" >}}) | 778 | 778 | 100.0 | <doc@arabeyes.org> | 
- | [libbonobo]({{< ref "/f11/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libbonoboui]({{< ref "/f11/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libgdl]({{< ref "/f11/package/libgdl.md" >}}) | 602 | 602 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libgnome]({{< ref "/f11/package/libgnome.md" >}}) | 1757 | 1757 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libgnomecanvas]({{< ref "/f11/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libgnomecups]({{< ref "/f11/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libgnomekbd]({{< ref "/f11/package/libgnomekbd.md" >}}) | 235 | 235 | 100.0 | Arabic <doc@eglug.org> | 
- | [libgnomeprint22]({{< ref "/f11/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Arabic <doc@eglug.org> | 
- | [libgnomeprintui22]({{< ref "/f11/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Arabic <doc@eglug.org> | 
- | [libgnomeui]({{< ref "/f11/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [libgtop2]({{< ref "/f11/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [liveusb-creator]({{< ref "/f11/package/liveusb-creator.md" >}}) | 480 | 480 | 100.0 | Arabic <fedora-trans-ar@redhat.com> | 
- | [lxappearance]({{< ref "/f11/package/lxappearance.md" >}}) | 96 | 96 | 100.0 | Arabic | 
- | [lxdm]({{< ref "/f11/package/lxdm.md" >}}) | 11 | 11 | 100.0 | Arabic <trans-ar@lists.fedoraproject.org> | 
- | [lxlauncher]({{< ref "/f11/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | Arabic | 
- | [lxmenu-data]({{< ref "/f11/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [lxrandr]({{< ref "/f11/package/lxrandr.md" >}}) | 102 | 102 | 100.0 | Arabic | 
- | [lxsession]({{< ref "/f11/package/lxsession.md" >}}) | 37 | 37 | 100.0 | Arabic | 
- | [lxsession-edit]({{< ref "/f11/package/lxsession-edit.md" >}}) | 58 | 58 | 100.0 | Arabic | 
- | [lxshortcut]({{< ref "/f11/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Arabic | 
- | [lxtask]({{< ref "/f11/package/lxtask.md" >}}) | 112 | 112 | 100.0 | Arabic | 
- | [lxterminal]({{< ref "/f11/package/lxterminal.md" >}}) | 100 | 100 | 100.0 | Arabic | 
- | [minbar]({{< ref "/f11/package/minbar.md" >}}) | 418 | 418 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [mousepad]({{< ref "/f11/package/mousepad.md" >}}) | 135 | 135 | 100.0 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [nautilus]({{< ref "/f11/package/nautilus.md" >}}) | 8208 | 8208 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [nautilus-cd-burner]({{< ref "/f11/package/nautilus-cd-burner.md" >}}) | 1315 | 1315 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [newt]({{< ref "/f11/package/newt.md" >}}) | 4 | 4 | 100.0 | Arabic <support@arabeyes.org> | 
- | [notification-daemon]({{< ref "/f11/package/notification-daemon.md" >}}) | 31 | 31 | 100.0 | Arabeyes <doc@arabeyes.org> | 
- | [paperbox]({{< ref "/f11/package/paperbox.md" >}}) | 21 | 21 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [pcmanfm]({{< ref "/f11/package/pcmanfm.md" >}}) | 1520 | 1520 | 100.0 | doc@arabeyes.org | 
- | [perl-Padre]({{< ref "/f11/package/perl-Padre.md" >}}) | 989 | 989 | 100.0 | Arabic | 
- | [perl-libintl]({{< ref "/f11/package/perl-libintl.md" >}}) | 19 | 19 | 100.0 | Arabic <guido@imperia.net> | 
- | [pidgin-otr]({{< ref "/f11/package/pidgin-otr.md" >}}) | 550 | 550 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [planner]({{< ref "/f11/package/planner.md" >}}) | 1796 | 1796 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [redhat-menus]({{< ref "/f11/package/redhat-menus.md" >}}) | 253 | 253 | 100.0 | Arabic <support@arabeyes.org> | 
- | [sabayon]({{< ref "/f11/package/sabayon.md" >}}) | 1178 | 1178 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [samba]({{< ref "/f11/package/samba.md" >}}) | 198 | 198 | 100.0 | Novell Language <language@novell.com> | 
- | [seahorse-plugins]({{< ref "/f11/package/seahorse-plugins.md" >}}) | 1159 | 1159 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sonata]({{< ref "/f11/package/sonata.md" >}}) | 1136 | 1136 | 100.0 | Arabic <ar@arabic.org> | 
- | [sugar]({{< ref "/f11/package/sugar.md" >}}) | 772 | 772 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-base]({{< ref "/f11/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-browse]({{< ref "/f11/package/sugar-browse.md" >}}) | 52 | 52 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-chat]({{< ref "/f11/package/sugar-chat.md" >}}) | 26 | 26 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-connect]({{< ref "/f11/package/sugar-connect.md" >}}) | 36 | 36 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-implode]({{< ref "/f11/package/sugar-implode.md" >}}) | 9 | 9 | 100.0 | Arabic | 
- | [sugar-journal]({{< ref "/f11/package/sugar-journal.md" >}}) | 61 | 61 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-log]({{< ref "/f11/package/sugar-log.md" >}}) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f11/package/sugar-memorize.md" >}}) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f11/package/sugar-pippy.md" >}}) | 52 | 52 | 100.0 | arabeyes <ar@li.org> | 
- | [sugar-read]({{< ref "/f11/package/sugar-read.md" >}}) | 26 | 26 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-record]({{< ref "/f11/package/sugar-record.md" >}}) | 137 | 137 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-terminal]({{< ref "/f11/package/sugar-terminal.md" >}}) | 6 | 6 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f11/package/sugar-toolkit.md" >}}) | 71 | 71 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-update-control]({{< ref "/f11/package/sugar-update-control.md" >}}) | 159 | 159 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [sugar-write]({{< ref "/f11/package/sugar-write.md" >}}) | 69 | 69 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [swfdec-gnome]({{< ref "/f11/package/swfdec-gnome.md" >}}) | 101 | 101 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [switchdesk]({{< ref "/f11/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Arabic <support@arabeyes.org> | 
- | [system-config-keyboard]({{< ref "/f11/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Arabic <support@arabeyes.org> | 
- | [system-config-language]({{< ref "/f11/package/system-config-language.md" >}}) | 45 | 45 | 100.0 | Arabic <support@arabeyes.org> | 
- | [system-switch-mail]({{< ref "/f11/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Arabic <support@arabeyes.org> | 
- | [vidalia]({{< ref "/f11/package/vidalia.md" >}}) | 3588 | 3588 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f11/package/virtaal.md" >}}) | 1116 | 1116 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [vte]({{< ref "/f11/package/vte.md" >}}) | 84 | 84 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [wxGTK]({{< ref "/f11/package/wxGTK.md" >}}) | 110 | 110 | 100.0 |  | 
- | [wxPython]({{< ref "/f11/package/wxPython.md" >}}) | 110 | 110 | 100.0 |  | 
- | [xdg-user-dirs]({{< ref "/f11/package/xdg-user-dirs.md" >}}) | 26 | 26 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [xdg-user-dirs-gtk]({{< ref "/f11/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [xfce4-icon-theme]({{< ref "/f11/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [xfce4-verve-plugin]({{< ref "/f11/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Arabeyes <doc@arabeyes.org> | 
- | [yelp]({{< ref "/f11/package/yelp.md" >}}) | 1035 | 1035 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [zenity]({{< ref "/f11/package/zenity.md" >}}) | 582 | 582 | 100.0 | Arabic <doc@arabeyes.org> | 
- | [klavaro]({{< ref "/f11/package/klavaro.md" >}}) | 1898 | 1903 | 99.7 | Arabic <doc@arabeyes.org> | 
- | [libwnck]({{< ref "/f11/package/libwnck.md" >}}) | 1121 | 1124 | 99.7 | Arabic <doc@arabeyes.org> | 
- | [xfprint]({{< ref "/f11/package/xfprint.md" >}}) | 321 | 322 | 99.7 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [kflickr]({{< ref "/f11/package/kflickr.md" >}}) | 298 | 299 | 99.7 | Arabic <ar@li.org> | 
- | [system-config-printer]({{< ref "/f11/package/system-config-printer.md" >}}) | 2992 | 3006 | 99.5 | Arabic <doc@arabeyes.org> | 
- | [brasero]({{< ref "/f11/package/brasero.md" >}}) | 5240 | 5280 | 99.2 | Arabic <doc@arabeyes.org> | 
- | [devhelp]({{< ref "/f11/package/devhelp.md" >}}) | 360 | 364 | 98.9 | Arabic <doc@arabeyes.org> | 
- | [tracker]({{< ref "/f11/package/tracker.md" >}}) | 1375 | 1392 | 98.8 | Arabic <doc@arabeyes.org> | 
- | [sugar-distance]({{< ref "/f11/package/sugar-distance.md" >}}) | 78 | 79 | 98.7 | Arabic XO l18n team | 
- | [atk]({{< ref "/f11/package/atk.md" >}}) | 370 | 375 | 98.7 | Arabic <doc@arabeyes.org> | 
- | [mingw32-atk]({{< ref "/f11/package/mingw32-atk.md" >}}) | 370 | 375 | 98.7 | Arabic <doc@arabeyes.org> | 
- | [evolution-data-server]({{< ref "/f11/package/evolution-data-server.md" >}}) | 5018 | 5091 | 98.6 | Arabic <doc@arabeyes.org> | 
- | [poedit]({{< ref "/f11/package/poedit.md" >}}) | 1143 | 1162 | 98.4 | أشخاص عديدون | 
- | [gnome-screensaver]({{< ref "/f11/package/gnome-screensaver.md" >}}) | 954 | 975 | 97.8 | Arabic <doc@arabeyes.org> | 
- | [lxpanel]({{< ref "/f11/package/lxpanel.md" >}}) | 874 | 895 | 97.7 | Arabic | 
- | [GConf2]({{< ref "/f11/package/GConf2.md" >}}) | 3949 | 4044 | 97.7 | Arabic <doc@arabeyes.org> | 
- | [gtk2]({{< ref "/f11/package/gtk2.md" >}}) | 12585 | 12928 | 97.3 | Arabic <doc@arabeyes.org> | 
- | [mingw32-gtk2]({{< ref "/f11/package/mingw32-gtk2.md" >}}) | 12585 | 12928 | 97.3 | Arabic <doc@arabeyes.org> | 
- | [gbrainy]({{< ref "/f11/package/gbrainy.md" >}}) | 2481 | 2554 | 97.1 | Arabic <support@arabeyes.org> | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [gtkhtml3]({{< ref "/f11/package/gtkhtml3.md" >}}) | 1219 | 1261 | 96.7 | Arabic <doc@arabeyes.org> | 
- | [mingw32-gtkhtml3]({{< ref "/f11/package/mingw32-gtkhtml3.md" >}}) | 1219 | 1261 | 96.7 | Arabic <doc@arabeyes.org> | 
- | [vinagre]({{< ref "/f11/package/vinagre.md" >}}) | 902 | 938 | 96.2 | Arabic <doc@arabeyes.org> | 
- | [gnome-panel]({{< ref "/f11/package/gnome-panel.md" >}}) | 5435 | 5671 | 95.8 | Arabic <en@li.org> | 
- | [gwget]({{< ref "/f11/package/gwget.md" >}}) | 526 | 550 | 95.6 | Arabic <doc@arabeyes.org> | 
- | [evolution]({{< ref "/f11/package/evolution.md" >}}) | 21063 | 22130 | 95.2 | Arabic <doc@arabeyes.org> | 
- | [file-roller]({{< ref "/f11/package/file-roller.md" >}}) | 1205 | 1267 | 95.1 | Arabic <doc@arabeyes.org> | 
- | [system-config-httpd]({{< ref "/f11/package/system-config-httpd.md" >}}) | 816 | 858 | 95.1 | Arabic <support@arabeyes.org> | 
- | [gdm]({{< ref "/f11/package/gdm.md" >}}) | 1249 | 1314 | 95.1 | Arabic <doc@arabeyes.org> | 
- | [hwbrowser]({{< ref "/f11/package/hwbrowser.md" >}}) | 110 | 116 | 94.8 | Arabic <en@li.org> | 
- | [GConf2-dbus]({{< ref "/f11/package/GConf2-dbus.md" >}}) | 3749 | 3954 | 94.8 | Arabic <support@arabeyes.org> | 
- | [metacity]({{< ref "/f11/package/metacity.md" >}}) | 7656 | 8082 | 94.7 | Arabic <doc@arabeyes.org> | 
- | [liferea]({{< ref "/f11/package/liferea.md" >}}) | 2265 | 2399 | 94.4 | Arabic <doc@arabeyes.org> | 
- | [usermode]({{< ref "/f11/package/usermode.md" >}}) | 530 | 562 | 94.3 | Arabic <fedora-trans-ar@redhat.com> | 
- | [fantasdic]({{< ref "/f11/package/fantasdic.md" >}}) | 375 | 398 | 94.2 | Arabeyes <doc@arabeyes.org> | 
- | [kio_gopher]({{< ref "/f11/package/kio_gopher.md" >}}) | 16 | 17 | 94.1 | Arabic <doc@arabeyes.org> | 
- | [rhythmbox]({{< ref "/f11/package/rhythmbox.md" >}}) | 3858 | 4114 | 93.8 | <en@li.org> | 
- | [glib2]({{< ref "/f11/package/glib2.md" >}}) | 2197 | 2350 | 93.5 | Arabic <doc@arabeyes.org> | 
- | [mingw32-glib2]({{< ref "/f11/package/mingw32-glib2.md" >}}) | 2197 | 2350 | 93.5 | Arabic <doc@arabeyes.org> | 
- | [kmess]({{< ref "/f11/package/kmess.md" >}}) | 6805 | 7283 | 93.4 | Arabic <doc@arabeyes.org> | 
- | [kiconedit]({{< ref "/f11/package/kiconedit.md" >}}) | 678 | 726 | 93.4 | <en@li.org> | 
- | [gtksourceview2]({{< ref "/f11/package/gtksourceview2.md" >}}) | 1018 | 1099 | 92.6 | Arabic <doc@arabeyes.org> | 
- | [konq-plugins]({{< ref "/f11/package/konq-plugins.md" >}}) | 1566 | 1692 | 92.6 | Arabic <linuxac-kde-arabic-team@googlegroups.com> | 
- | [rhpxl]({{< ref "/f11/package/rhpxl.md" >}}) | 111 | 120 | 92.5 | Arabic <fedora-trans-ar@redhat.com> | 
- | [gnome-power-manager]({{< ref "/f11/package/gnome-power-manager.md" >}}) | 3029 | 3284 | 92.2 | Arabic <doc@arabeyes.org> | 
- | [chkconfig]({{< ref "/f11/package/chkconfig.md" >}}) | 410 | 448 | 91.5 | Arabic <fedora-trans-ar@redhat.com> | 
- | [libuser]({{< ref "/f11/package/libuser.md" >}}) | 972 | 1064 | 91.4 | Arabic <en@li.org> | 
- | [keurocalc]({{< ref "/f11/package/keurocalc.md" >}}) | 265 | 291 | 91.1 | Arabic <ar@li.org> | 
- | [gvfs]({{< ref "/f11/package/gvfs.md" >}}) | 1220 | 1341 | 91.0 | Arabic <doc@arabeyes.org> | 
- | [tomboy]({{< ref "/f11/package/tomboy.md" >}}) | 2411 | 2651 | 90.9 | Arabic <doc@arabeyes.org> | 
- | [empathy]({{< ref "/f11/package/empathy.md" >}}) | 1695 | 1866 | 90.8 | Arabic <doc@arabeyes.org> | 
- | [gimp]({{< ref "/f11/package/gimp.md" >}}) | 23435 | 25982 | 90.2 | Arabic <doc@arabeyes.org> | 
- | [gnome-system-monitor]({{< ref "/f11/package/gnome-system-monitor.md" >}}) | 3385 | 3759 | 90.1 | Arabic | 
- | [setuptool]({{< ref "/f11/package/setuptool.md" >}}) | 54 | 60 | 90.0 | Arabic <support@arabeyes.org> | 
- | [system-config-kickstart]({{< ref "/f11/package/system-config-kickstart.md" >}}) | 932 | 1039 | 89.7 | Arabic <support@arabeyes.org> | 
- | [eog]({{< ref "/f11/package/eog.md" >}}) | 4053 | 4522 | 89.6 | Arabic <general@arabeyes.org> | 
- | [orca]({{< ref "/f11/package/orca.md" >}}) | 3314 | 3704 | 89.5 | Arabic <doc@arabeyes.org> | 
- | [kaffeine]({{< ref "/f11/package/kaffeine.md" >}}) | 2106 | 2354 | 89.5 | Arabic <doc@arabeyes.org> | 
- | [system-config-boot]({{< ref "/f11/package/system-config-boot.md" >}}) | 41 | 46 | 89.1 | Arabic <support@arabeyes.org> | 
- | [gnome-applets]({{< ref "/f11/package/gnome-applets.md" >}}) | 2987 | 3374 | 88.5 | Arabic <doc@arabeyes.org> | 
- | [gnome-commander]({{< ref "/f11/package/gnome-commander.md" >}}) | 7242 | 8202 | 88.3 | Arabic <doc@arabeyes.org> | 
- | [bug-buddy]({{< ref "/f11/package/bug-buddy.md" >}}) | 872 | 989 | 88.2 | Arabic <doc@arabeyes.org> | 
- | [gnome-themes]({{< ref "/f11/package/gnome-themes.md" >}}) | 96 | 109 | 88.1 | Arabic <doc@arabeyes.org> | 
- | [rhpl]({{< ref "/f11/package/rhpl.md" >}}) | 161 | 185 | 87.0 | Arabic <fedora-trans-ar@redhat.com> | 
- | [Django]({{< ref "/f11/package/Django.md" >}}) | 2793 | 3236 | 86.3 | Arabic <support@arabeyes.org> | 
- | [anjuta]({{< ref "/f11/package/anjuta.md" >}}) | 6784 | 7883 | 86.1 | Arabic <doc@arabeyes.org> | 
- | [conduit]({{< ref "/f11/package/conduit.md" >}}) | 488 | 571 | 85.5 | Arabic <doc@arabeyes.org> | 
- | [system-config-lvm]({{< ref "/f11/package/system-config-lvm.md" >}}) | 1821 | 2142 | 85.0 | Arabic | 
- | [gnome-games]({{< ref "/f11/package/gnome-games.md" >}}) | 7100 | 8376 | 84.8 | Arabic <doc@arabeyes.org> | 
- | [celestia]({{< ref "/f11/package/celestia.md" >}}) | 1601 | 1894 | 84.5 | Arabic <ar@li.org> | 
- | [system-config-samba]({{< ref "/f11/package/system-config-samba.md" >}}) | 353 | 422 | 83.6 | <en@li.org> | 
- | [gtk2-engines]({{< ref "/f11/package/gtk2-engines.md" >}}) | 99 | 119 | 83.2 | Arabic <doc@arabeyes.org> | 
- | [sound-juicer]({{< ref "/f11/package/sound-juicer.md" >}}) | 2711 | 3264 | 83.1 | Arabic <doc@arabeyes.org> | 
- | [gnome-terminal]({{< ref "/f11/package/gnome-terminal.md" >}}) | 3215 | 3885 | 82.8 | Arabic <doc@arabeyes.org> | 
- | [gedit-plugins]({{< ref "/f11/package/gedit-plugins.md" >}}) | 162 | 198 | 81.8 | Arabic <doc@arabeyes.org> | 
- | [f-spot]({{< ref "/f11/package/f-spot.md" >}}) | 2481 | 3033 | 81.8 | Arabic <en@li.org> | 
- | [seahorse]({{< ref "/f11/package/seahorse.md" >}}) | 2481 | 3049 | 81.4 | Arabic <doc@arabeyes.org> | 
- | [gnome-do]({{< ref "/f11/package/gnome-do.md" >}}) | 382 | 470 | 81.3 | American English <doc@arabeyes.org> | 
- | [vino]({{< ref "/f11/package/vino.md" >}}) | 854 | 1054 | 81.0 | Arabic <doc@arabeyes.org> | 
- | [system-config-date]({{< ref "/f11/package/system-config-date.md" >}}) | 837 | 1038 | 80.6 | Arabic <en@li.org> | 
- | [gnome-keyring]({{< ref "/f11/package/gnome-keyring.md" >}}) | 1451 | 1823 | 79.6 | Arabic <doc@arabeyes.org> | 
- | [system-config-network]({{< ref "/f11/package/system-config-network.md" >}}) | 2327 | 2934 | 79.3 | Arabic <support@arabeyes.org> | 
- | [ksig]({{< ref "/f11/package/ksig.md" >}}) | 67 | 85 | 78.8 | <en@li.org> | 
- | [pidgin]({{< ref "/f11/package/pidgin.md" >}}) | 14124 | 18144 | 77.8 | Arabic <doc@arabeyes.org> | 
- | [gedit]({{< ref "/f11/package/gedit.md" >}}) | 9434 | 12133 | 77.8 | Arabic <doc@arabeyes.org> | 
- | [system-config-nfs]({{< ref "/f11/package/system-config-nfs.md" >}}) | 258 | 332 | 77.7 | Arabic | 
- | [gdesklets]({{< ref "/f11/package/gdesklets.md" >}}) | 1087 | 1404 | 77.4 | Arabic <support@eglug.org> | 
- | [ccsm]({{< ref "/f11/package/ccsm.md" >}}) | 425 | 549 | 77.4 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [beagle]({{< ref "/f11/package/beagle.md" >}}) | 949 | 1238 | 76.7 | Arabic <doc@arabeyes.org> | 
- | [totem]({{< ref "/f11/package/totem.md" >}}) | 2143 | 2815 | 76.1 | Arabic <doc@arabeyes.org> | 
- | [gnome-applet-window-picker]({{< ref "/f11/package/gnome-applet-window-picker.md" >}}) | 22 | 29 | 75.9 | Arabic | 
- | [anaconda]({{< ref "/f11/package/anaconda.md" >}}) | 6814 | 8997 | 75.7 | Arabic <fedora-trans-ar@redhat.com> | 
- | [gthumb]({{< ref "/f11/package/gthumb.md" >}}) | 2356 | 3130 | 75.3 | en_US <kde-i18n-doc@lists.kde.org> | 
- | [fvwm]({{< ref "/f11/package/fvwm.md" >}}) | 194 | 262 | 74.0 | Arabic | 
- | [tuxpaint]({{< ref "/f11/package/tuxpaint.md" >}}) | 552 | 761 | 72.5 | Arabic <doc@arabeyes.org> | 
- | [gnome-settings-daemon]({{< ref "/f11/package/gnome-settings-daemon.md" >}}) | 950 | 1313 | 72.4 | Arabic <doc@arabeyes.org> | 
- | [authconfig]({{< ref "/f11/package/authconfig.md" >}}) | 979 | 1357 | 72.1 | Arabic <support@arabeyes.org> | 
- | [tuxtype2]({{< ref "/f11/package/tuxtype2.md" >}}) | 57 | 80 | 71.2 | LANGUAGE <LL@li.org> | 
- | [pessulus]({{< ref "/f11/package/pessulus.md" >}}) | 88 | 124 | 71.0 | Arabic <doc@arabeyes.org> | 
- | [gqview]({{< ref "/f11/package/gqview.md" >}}) | 1214 | 1721 | 70.5 | <youssef@devcabal.org> | 
- | [audacity]({{< ref "/f11/package/audacity.md" >}}) | 7251 | 10633 | 68.2 | <ar@li.org> | 
- | [exaile]({{< ref "/f11/package/exaile.md" >}}) | 1653 | 2425 | 68.2 | Arabic <ar@li.org> | 
- | [gtk-recordmydesktop]({{< ref "/f11/package/gtk-recordmydesktop.md" >}}) | 553 | 816 | 67.8 | Arabic <anas_h_34 [at] hotmail [dot] com> | 
- | [qt-recordmydesktop]({{< ref "/f11/package/qt-recordmydesktop.md" >}}) | 553 | 816 | 67.8 | Arabic <anas_h_34 [at] hotmail [dot] com> | 
- | [system-config-netboot]({{< ref "/f11/package/system-config-netboot.md" >}}) | 741 | 1103 | 67.2 | Arabic <support@arabeyes.org> | 
- | [NetworkManager-vpnc]({{< ref "/f11/package/NetworkManager-vpnc.md" >}}) | 89 | 133 | 66.9 | Arabic <doc@arabeyes.org> | 
- | [pam]({{< ref "/f11/package/pam.md" >}}) | 398 | 599 | 66.4 | Novell Language <language@novell.com> | 
- | [openbox]({{< ref "/f11/package/openbox.md" >}}) | 332 | 503 | 66.0 | Arabic <doc@arabeyes.org> | 
- | [blender]({{< ref "/f11/package/blender.md" >}}) | 164 | 251 | 65.3 |  | 
- | [glade3]({{< ref "/f11/package/glade3.md" >}}) | 3007 | 4613 | 65.2 | Arabic <doc@arabeyes.org> | 
- | [wlassistant]({{< ref "/f11/package/wlassistant.md" >}}) | 702 | 1091 | 64.3 | Arabic | 
- | [hamster-applet]({{< ref "/f11/package/hamster-applet.md" >}}) | 160 | 250 | 64.0 | Arabic <doc@arabeyes.org> | 
- | [stellarium]({{< ref "/f11/package/stellarium.md" >}}) | 1558 | 2439 | 63.9 | Arabic <ar@li.org> | 
- | [xfce4-panel]({{< ref "/f11/package/xfce4-panel.md" >}}) | 335 | 540 | 62.0 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [notecase]({{< ref "/f11/package/notecase.md" >}}) | 709 | 1156 | 61.3 | NoteCase team | 
- | [xfdesktop]({{< ref "/f11/package/xfdesktop.md" >}}) | 615 | 1004 | 61.3 | Arabic <doc@arabeyes.org> | 
- | [filezilla]({{< ref "/f11/package/filezilla.md" >}}) | 4176 | 6860 | 60.9 | Mohamed Magdy <alnokta@yahoo.com> | 
- | [totem-pl-parser]({{< ref "/f11/package/totem-pl-parser.md" >}}) | 17 | 28 | 60.7 | Arabic <doc@arabeyes.org> | 
- | [homebank]({{< ref "/f11/package/homebank.md" >}}) | 876 | 1458 | 60.1 | Arabic <ar@li.org> | 
- | [libkexif]({{< ref "/f11/package/libkexif.md" >}}) | 15 | 25 | 60.0 | <ar@li.org> | 
- | [mailman]({{< ref "/f11/package/mailman.md" >}}) | 13041 | 21904 | 59.5 | Arabic | 
- | [fuse-encfs]({{< ref "/f11/package/fuse-encfs.md" >}}) | 775 | 1311 | 59.1 | Arabic <ar@li.org> | 
- | [readahead]({{< ref "/f11/package/readahead.md" >}}) | 75 | 129 | 58.1 | Arabic | 
- | [gftp]({{< ref "/f11/package/gftp.md" >}}) | 1959 | 3375 | 58.0 | Arabic <doc@arabeyes.org> | 
- | [libgweather]({{< ref "/f11/package/libgweather.md" >}}) | 3497 | 6048 | 57.8 | Arabic <doc@arabeyes.org> | 
- | [gcalctool]({{< ref "/f11/package/gcalctool.md" >}}) | 784 | 1365 | 57.4 | Arabic <doc@arabeyes.org> | 
- | [kmid]({{< ref "/f11/package/kmid.md" >}}) | 305 | 535 | 57.0 | <en@li.org> | 
- | [gnome-applet-music]({{< ref "/f11/package/gnome-applet-music.md" >}}) | 346 | 634 | 54.6 | Arabeyes <doc@arabeyes.org> | 
- | [jokosher]({{< ref "/f11/package/jokosher.md" >}}) | 1168 | 2159 | 54.1 | Arabic <ar@li.org> | 
- | [gnome-scan]({{< ref "/f11/package/gnome-scan.md" >}}) | 110 | 204 | 53.9 | Arabic <doc@arabeyes.org> | 
- | [deluge]({{< ref "/f11/package/deluge.md" >}}) | 1070 | 1998 | 53.6 | Arabic <ar@li.org> | 
- | [gwibber]({{< ref "/f11/package/gwibber.md" >}}) | 258 | 482 | 53.5 | Arabic <ar@li.org> | 
- | [purple-msn-pecan]({{< ref "/f11/package/purple-msn-pecan.md" >}}) | 508 | 960 | 52.9 |  | 
- | [nautilus-sendto]({{< ref "/f11/package/nautilus-sendto.md" >}}) | 153 | 291 | 52.6 | Arabic <doc@arabeyes.org> | 
- | [system-config-users]({{< ref "/f11/package/system-config-users.md" >}}) | 702 | 1337 | 52.5 | Arabic <fedora-trans-ar@redhat.com> | 
- | [gambas]({{< ref "/f11/package/gambas.md" >}}) | 987 | 1887 | 52.3 | LANGUAGE <LL@li.org> | 
- | [yumex]({{< ref "/f11/package/yumex.md" >}}) | 314 | 608 | 51.6 | Arabic <ar@li.org> | 
- | [Miro]({{< ref "/f11/package/Miro.md" >}}) | 1423 | 2774 | 51.3 | Arabic <ar@li.org> | 
- | [system-config-display]({{< ref "/f11/package/system-config-display.md" >}}) | 200 | 398 | 50.3 | Arabic <support@arabeyes.org> | 
- | [PolicyKit-gnome]({{< ref "/f11/package/PolicyKit-gnome.md" >}}) | 477 | 954 | 50.0 | Arabic <doc@arabeyes.org> | 
- | [Terminal]({{< ref "/f11/package/Terminal.md" >}}) | 743 | 1553 | 47.8 | Arabic <doc@arabeyes.org> | 
- | [sos]({{< ref "/f11/package/sos.md" >}}) | 126 | 267 | 47.2 | AR <navid@redhat.com> | 
- | [xfce-utils]({{< ref "/f11/package/xfce-utils.md" >}}) | 61 | 131 | 46.6 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [squirrelmail]({{< ref "/f11/package/squirrelmail.md" >}}) | 3137 | 6878 | 45.6 | BizNas / Arabic | 
- | [nautilus-actions]({{< ref "/f11/package/nautilus-actions.md" >}}) | 683 | 1554 | 44.0 | Arabic <doc@arabeyes.org> | 
- | [initscripts]({{< ref "/f11/package/initscripts.md" >}}) | 1803 | 4169 | 43.2 | Arabic | 
- | [inkscape]({{< ref "/f11/package/inkscape.md" >}}) | 9995 | 23244 | 43.0 | Arabic | 
- | [listen]({{< ref "/f11/package/listen.md" >}}) | 748 | 1742 | 42.9 | Arabic <ar@li.org> | 
- | [mousetweaks]({{< ref "/f11/package/mousetweaks.md" >}}) | 272 | 638 | 42.6 | Arabic <doc@arabeyes.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f11/package/kde-plasma-networkmanagement.md" >}}) | 866 | 2039 | 42.5 | Arabic <kde-i18n-doc@kde.org> | 
- | [tuxpaint-stamps]({{< ref "/f11/package/tuxpaint-stamps.md" >}}) | 1079 | 2617 | 41.2 |  | 
- | [xfce4-session]({{< ref "/f11/package/xfce4-session.md" >}}) | 393 | 990 | 39.7 | Arabic <en@li.org> | 
- | [nautilus-open-terminal]({{< ref "/f11/package/nautilus-open-terminal.md" >}}) | 62 | 158 | 39.2 | Arabic <doc@arabeyes.org> | 
- | [kerry]({{< ref "/f11/package/kerry.md" >}}) | 272 | 702 | 38.7 | Arabic <doc@arabeyes.org> | 
- | [terminator]({{< ref "/f11/package/terminator.md" >}}) | 104 | 269 | 38.7 | Arabic <ar@li.org> | 
- | [geeqie]({{< ref "/f11/package/geeqie.md" >}}) | 1121 | 2909 | 38.5 | <youssef@devcabal.org> | 
- | [gambas2]({{< ref "/f11/package/gambas2.md" >}}) | 1335 | 3481 | 38.4 | LANGUAGE <LL@li.org> | 
- | [transmission]({{< ref "/f11/package/transmission.md" >}}) | 620 | 1642 | 37.8 | Arabic <ar@li.org> | 
- | [tuxmath]({{< ref "/f11/package/tuxmath.md" >}}) | 396 | 1051 | 37.7 |  | 
- | [ibus]({{< ref "/f11/package/ibus.md" >}}) | 169 | 449 | 37.6 | Arabic <AR@li.org> | 
- | [gnome-subtitles]({{< ref "/f11/package/gnome-subtitles.md" >}}) | 238 | 634 | 37.5 | Arabic <doc@arabeyes.org> | 
- | [boinc-client]({{< ref "/f11/package/boinc-client.md" >}}) | 2780 | 7593 | 36.6 | BOINC Development Team <boinc_loc@ssl.berkeley.edu> | 
- | [dia]({{< ref "/f11/package/dia.md" >}}) | 2245 | 6258 | 35.9 | Arabeyes <doc@arabeyes.org> | 
- | [hotssh]({{< ref "/f11/package/hotssh.md" >}}) | 51 | 145 | 35.2 | Arabeyes <doc@arabeyes.org> | 
- | [libxfcegui4]({{< ref "/f11/package/libxfcegui4.md" >}}) | 81 | 234 | 34.6 | Arabic <doc@arabeyes.org> | 
- | [gtranslator]({{< ref "/f11/package/gtranslator.md" >}}) | 649 | 1881 | 34.5 | Arabic <doc@arabeyes.org> | 
- | [firstboot]({{< ref "/f11/package/firstboot.md" >}}) | 223 | 654 | 34.1 | Arabic <ar@li.org> | 
- | [gnome-desktop]({{< ref "/f11/package/gnome-desktop.md" >}}) | 2813 | 8340 | 33.7 | Arabic <doc@arabeyes.org> | 
- | [synaptic]({{< ref "/f11/package/synaptic.md" >}}) | 1085 | 3231 | 33.6 | Arabic <support@arabeyes.org> | 
- | [lyx]({{< ref "/f11/package/lyx.md" >}}) | 4658 | 14458 | 32.2 | LyX team <Dr.Hatim@hotmail.com> | 
- | [gnome-mount]({{< ref "/f11/package/gnome-mount.md" >}}) | 253 | 790 | 32.0 | Arabic <doc@arabeyes.org> | 
- | [Thunar]({{< ref "/f11/package/Thunar.md" >}}) | 1220 | 3865 | 31.6 | Arabic <doc@arabeyes.org> | 
- | [banshee]({{< ref "/f11/package/banshee.md" >}}) | 1056 | 3389 | 31.2 | Arabic <support@eglug.org> | 
- | [stardict]({{< ref "/f11/package/stardict.md" >}}) | 740 | 2440 | 30.3 | arabeyes.org <bashir.storm@gmail.com> | 
- | [gnome-applet-netspeed]({{< ref "/f11/package/gnome-applet-netspeed.md" >}}) | 43 | 149 | 28.9 | Arabeyes <doc@arabeyes.org> | 
- | [gnusim8085]({{< ref "/f11/package/gnusim8085.md" >}}) | 163 | 588 | 27.7 | Arabic <ar@li.org> | 
- | [soundconverter]({{< ref "/f11/package/soundconverter.md" >}}) | 112 | 433 | 25.9 | Arabic <ar@li.org> | 
- | [k3b]({{< ref "/f11/package/k3b.md" >}}) | 5310 | 20621 | 25.8 | Arabic <doc@arabeyes.org> | 
- | [xfburn]({{< ref "/f11/package/xfburn.md" >}}) | 313 | 1296 | 24.2 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [kphotoalbum]({{< ref "/f11/package/kphotoalbum.md" >}}) | 1496 | 6333 | 23.6 | <en@li.org> | 
- | [NetworkManager]({{< ref "/f11/package/NetworkManager.md" >}}) | 298 | 1270 | 23.5 | <doc@arabeyes.org> | 
- | [gdeskcal]({{< ref "/f11/package/gdeskcal.md" >}}) | 20 | 86 | 23.3 | LANGUAGE <LL@li.org> | 
- | [NetworkManager-openvpn]({{< ref "/f11/package/NetworkManager-openvpn.md" >}}) | 40 | 175 | 22.9 | Arabic <doc@arabeyes.org> | 
- | [gallery2]({{< ref "/f11/package/gallery2.md" >}}) | 3938 | 17747 | 22.2 | Arabic <gallery-translations@lists.sourceforge.net> | 
- | [freeciv]({{< ref "/f11/package/freeciv.md" >}}) | 11039 | 52514 | 21.0 | Arabic <freeciv-i18n@freeciv.org> | 
- | [xfce4-wavelan-plugin]({{< ref "/f11/package/xfce4-wavelan-plugin.md" >}}) | 10 | 49 | 20.4 | Arabeyes <doc@arabeyes.org> | 
- | [picard]({{< ref "/f11/package/picard.md" >}}) | 264 | 1310 | 20.2 | Arabic <ar@li.org> | 
- | [at-spi]({{< ref "/f11/package/at-spi.md" >}}) | 4 | 20 | 20.0 | Arabic <doc@arabeyes.org> | 
- | [blueman]({{< ref "/f11/package/blueman.md" >}}) | 272 | 1376 | 19.8 | Arabic <ar@li.org> | 
- | [xfwm4]({{< ref "/f11/package/xfwm4.md" >}}) | 152 | 797 | 19.1 | Arabic <doc@arabeyes.org> | 
- | [gnome-bluetooth]({{< ref "/f11/package/gnome-bluetooth.md" >}}) | 95 | 513 | 18.5 | Arabic <ar@li.org> | 
- | [gnome-user-share]({{< ref "/f11/package/gnome-user-share.md" >}}) | 49 | 270 | 18.1 | Arabic <doc@arabeyes.org> | 
- | [e16]({{< ref "/f11/package/e16.md" >}}) | 501 | 2785 | 18.0 | Arabic <ar@li.org> | 
- | [jmol]({{< ref "/f11/package/jmol.md" >}}) | 357 | 2161 | 16.5 | Arabic <ar@li.org> | 
- | [dialog]({{< ref "/f11/package/dialog.md" >}}) | 4 | 25 | 16.0 | Arabic <support@arabeyes.org> | 
- | [libepc]({{< ref "/f11/package/libepc.md" >}}) | 23 | 146 | 15.8 | Arabeyes <doc@arabeyes.org> | 
- | [moin]({{< ref "/f11/package/moin.md" >}}) | 711 | 4526 | 15.7 |  | 
- | [bittorrent]({{< ref "/f11/package/bittorrent.md" >}}) | 606 | 3906 | 15.5 | LANGUAGE <LL@li.org> | 
- | [rhn-client-tools]({{< ref "/f11/package/rhn-client-tools.md" >}}) | 741 | 4820 | 15.4 | Arabic <fedora-trans-ar@redhat.com> | 
- | [knemo]({{< ref "/f11/package/knemo.md" >}}) | 167 | 1097 | 15.2 | Arabic <doc@arabeyes.org> | 
- | [galeon]({{< ref "/f11/package/galeon.md" >}}) | 906 | 5996 | 15.1 | Arabeyes <doc@arabeyes.org> | 
- | [gpx-viewer]({{< ref "/f11/package/gpx-viewer.md" >}}) | 10 | 70 | 14.3 | Arabic <ar@li.org> | 
- | [phatch]({{< ref "/f11/package/phatch.md" >}}) | 361 | 2553 | 14.1 | Arabic <ar@li.org> | 
- | [system-config-rootpassword]({{< ref "/f11/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Arabic <support@arabeyes.org> | 
- | [nemiver]({{< ref "/f11/package/nemiver.md" >}}) | 112 | 902 | 12.4 | Arabic <doc@arabeyes.org> | 
- | [libvirt]({{< ref "/f11/package/libvirt.md" >}}) | 1165 | 9413 | 12.4 | none | 
- | [blam]({{< ref "/f11/package/blam.md" >}}) | 41 | 340 | 12.1 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f11/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | arabic | 
- | [ghex]({{< ref "/f11/package/ghex.md" >}}) | 107 | 969 | 11.0 | Arabeyes <doc@arabeyes.org> | 
- | [almanah]({{< ref "/f11/package/almanah.md" >}}) | 43 | 403 | 10.7 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-mixer]({{< ref "/f11/package/xfce4-mixer.md" >}}) | 19 | 181 | 10.5 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [muine]({{< ref "/f11/package/muine.md" >}}) | 51 | 489 | 10.4 | Arabeyes <doc@arabeyes.org> | 
- | [grass]({{< ref "/f11/package/grass.md" >}}) | 4624 | 44639 | 10.4 | Arabic <grass-translations@lists.osgeo.org> | 
- | [iso-codes]({{< ref "/f11/package/iso-codes.md" >}}) | 1291 | 12538 | 10.3 | Arabic | 
- | [kpilot]({{< ref "/f11/package/kpilot.md" >}}) | 733 | 7156 | 10.2 | <en@li.org> | 
- | [compiz-fusion]({{< ref "/f11/package/compiz-fusion.md" >}}) | 753 | 7530 | 10.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [compiz-fusion-extras]({{< ref "/f11/package/compiz-fusion-extras.md" >}}) | 753 | 7530 | 10.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
- | [smolt]({{< ref "/f11/package/smolt.md" >}}) | 96 | 966 | 9.9 | LANGUAGE <ar@li.org> | 
- | [manaworld]({{< ref "/f11/package/manaworld.md" >}}) | 244 | 2484 | 9.8 | Arabic <ar@li.org> | 
- | [NetworkManager-pptp]({{< ref "/f11/package/NetworkManager-pptp.md" >}}) | 11 | 112 | 9.8 | Arabic <doc@arabeyes.org> | 
- | [glade2]({{< ref "/f11/package/glade2.md" >}}) | 568 | 5910 | 9.6 | Arabeyes <doc@arabeyes.org> | 
- | [orage]({{< ref "/f11/package/orage.md" >}}) | 196 | 2110 | 9.3 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [xchat-gnome]({{< ref "/f11/package/xchat-gnome.md" >}}) | 338 | 4064 | 8.3 | Arabeyes <doc@arabeyes.org> | 
- | [bilbo]({{< ref "/f11/package/bilbo.md" >}}) | 106 | 1297 | 8.2 | Arabic <ar@li.org> | 
- | [kdiff3]({{< ref "/f11/package/kdiff3.md" >}}) | 277 | 3410 | 8.1 | Arabic <doc@arabeyes.org> | 
- | [kipi-plugins]({{< ref "/f11/package/kipi-plugins.md" >}}) | 81 | 1012 | 8.0 | <en@li.org> | 
- | [marlin]({{< ref "/f11/package/marlin.md" >}}) | 109 | 1508 | 7.2 | Arabeyes <doc@arabeyes.org> | 
- | [gossip]({{< ref "/f11/package/gossip.md" >}}) | 176 | 2573 | 6.8 | Arabic <support@eglug.org> | 
- | [goffice]({{< ref "/f11/package/goffice.md" >}}) | 276 | 4071 | 6.8 | Arabic <doc@arabeyes.org> | 
- | [im-chooser]({{< ref "/f11/package/im-chooser.md" >}}) | 10 | 152 | 6.6 | Arabic <en@li.org> | 
- | [system-config-services]({{< ref "/f11/package/system-config-services.md" >}}) | 24 | 384 | 6.2 | Arabic <fedora-trans-ar@redhat.com> | 
- | [specspo]({{< ref "/f11/package/specspo.md" >}}) | 16470 | 305294 | 5.4 | Arabic <fedora-trans-ar@redhat.com> | 
- | [gnomeradio]({{< ref "/f11/package/gnomeradio.md" >}}) | 22 | 413 | 5.3 | Arabic <support@arabeyes.org> | 
- | [gnome-lirc-properties]({{< ref "/f11/package/gnome-lirc-properties.md" >}}) | 34 | 654 | 5.2 | Arabeyes <doc@arabeyes.org> | 
- | [pyroom]({{< ref "/f11/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Arabic <ar@li.org> | 
- | [alleyoop]({{< ref "/f11/package/alleyoop.md" >}}) | 17 | 351 | 4.8 | Arabeyes <doc@arabeyes.org> | 
- | [pybliographer]({{< ref "/f11/package/pybliographer.md" >}}) | 47 | 971 | 4.8 | Arabeyes <doc@arabeyes.org> | 
- | [gnome-user-docs]({{< ref "/f11/package/gnome-user-docs.md" >}}) | 1859 | 39196 | 4.7 | Arabic <doc@arabeyes.org> | 
- | [meld]({{< ref "/f11/package/meld.md" >}}) | 41 | 916 | 4.5 | Arabeyes <doc@arabeyes.org> | 
- | [straw]({{< ref "/f11/package/straw.md" >}}) | 26 | 610 | 4.3 | Arabeyes <doc@arabeyes.org> | 
- | [genius]({{< ref "/f11/package/genius.md" >}}) | 267 | 6647 | 4.0 | Arabeyes <doc@arabeyes.org> | 
- | [springlobby]({{< ref "/f11/package/springlobby.md" >}}) | 179 | 4695 | 3.8 | Arabic <ar@li.org> | 
- | [bauble]({{< ref "/f11/package/bauble.md" >}}) | 71 | 2039 | 3.5 | Arabic <ar@li.org> | 
- | [pan]({{< ref "/f11/package/pan.md" >}}) | 82 | 2429 | 3.4 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-xkb-plugin]({{< ref "/f11/package/xfce4-xkb-plugin.md" >}}) | 2 | 61 | 3.3 | Arabeyes <doc@arabeyes.org> | 
- | [gnome-packagekit]({{< ref "/f11/package/gnome-packagekit.md" >}}) | 143 | 4374 | 3.3 | Arabic <doc@arabeyes.org> | 
- | [balsa]({{< ref "/f11/package/balsa.md" >}}) | 175 | 5966 | 2.9 | Arabeyes <doc@arabeyes.org> | 
- | [kcoloredit]({{< ref "/f11/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | <en@li.org> | 
- | [sugar-turtleart]({{< ref "/f11/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
- | [chronojump]({{< ref "/f11/package/chronojump.md" >}}) | 44 | 1796 | 2.4 | Arabeyes <doc@arabeyes.org> | 
- | [pitivi]({{< ref "/f11/package/pitivi.md" >}}) | 24 | 987 | 2.4 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-appfinder]({{< ref "/f11/package/xfce4-appfinder.md" >}}) | 2 | 84 | 2.4 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [kftpgrabber]({{< ref "/f11/package/kftpgrabber.md" >}}) | 53 | 2237 | 2.4 | Arabic <doc@arabeyes.org> | 
- | [system-config-firewall]({{< ref "/f11/package/system-config-firewall.md" >}}) | 59 | 2497 | 2.4 | Arabic <fedora-trans-ar@redhat.com> | 
- | [libgnomedb]({{< ref "/f11/package/libgnomedb.md" >}}) | 44 | 1885 | 2.3 | Arabeyes <doc@arabeyes.org> | 
- | [glom]({{< ref "/f11/package/glom.md" >}}) | 69 | 3311 | 2.1 | Arabeyes <doc@arabeyes.org> | 
- | [contact-lookup-applet]({{< ref "/f11/package/contact-lookup-applet.md" >}}) | 5 | 259 | 1.9 | Arabeyes <doc@arabeyes.org> | 
- | [lazarus]({{< ref "/f11/package/lazarus.md" >}}) | 249 | 13086 | 1.9 | Arabic <ar@li.org> | 
- | [gnome-schedule]({{< ref "/f11/package/gnome-schedule.md" >}}) | 19 | 1156 | 1.6 | Arabeyes <doc@arabeyes.org> | 
- | [gnome-phone-manager]({{< ref "/f11/package/gnome-phone-manager.md" >}}) | 8 | 521 | 1.5 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-taskmanager]({{< ref "/f11/package/xfce4-taskmanager.md" >}}) | 1 | 67 | 1.5 | Arabeyes <doc@arabeyes.org> | 
- | [libxfce4util]({{< ref "/f11/package/libxfce4util.md" >}}) | 5 | 413 | 1.2 | Arabic <doc@arabeyes.org> | 
- | [gnome-pilot]({{< ref "/f11/package/gnome-pilot.md" >}}) | 19 | 1743 | 1.1 | Arabeyes <doc@arabeyes.org> | 
- | [camorama]({{< ref "/f11/package/camorama.md" >}}) | 5 | 586 | 0.9 | Arabeyes <doc@arabeyes.org> | 
- | [nssbackup]({{< ref "/f11/package/nssbackup.md" >}}) | 17 | 2001 | 0.8 | Arabic <ar@li.org> | 
- | [compat-libgda]({{< ref "/f11/package/compat-libgda.md" >}}) | 46 | 5447 | 0.8 | Arabeyes <doc@arabeyes.org> | 
- | [digikam]({{< ref "/f11/package/digikam.md" >}}) | 173 | 23446 | 0.7 | <en@li.org> | 
- | [gnumeric]({{< ref "/f11/package/gnumeric.md" >}}) | 323 | 46374 | 0.7 | Arabeyes <doc@arabeyes.org> | 
- | [gnome-pilot-conduits]({{< ref "/f11/package/gnome-pilot-conduits.md" >}}) | 1 | 209 | 0.5 | Arabeyes <doc@arabeyes.org> | 
- | [libgda]({{< ref "/f11/package/libgda.md" >}}) | 24 | 5237 | 0.5 | Arabeyes <doc@arabeyes.org> | 
- | [exo]({{< ref "/f11/package/exo.md" >}}) | 7 | 1598 | 0.4 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
- | [wesnoth]({{< ref "/f11/package/wesnoth.md" >}}) | 872 | 212636 | 0.4 | none | 
- | [rsibreak]({{< ref "/f11/package/rsibreak.md" >}}) | 5 | 1223 | 0.4 | <en@li.org> | 
- | [kile]({{< ref "/f11/package/kile.md" >}}) | 38 | 10439 | 0.4 | Arabic <doc@arabeyes.org> | 
- | [gourmet]({{< ref "/f11/package/gourmet.md" >}}) | 12 | 3526 | 0.3 | Arabic <ar@li.org> | 
- | [po4a]({{< ref "/f11/package/po4a.md" >}}) | 4 | 1726 | 0.2 | Arabic <ar@li.org> | 
- | [system-config-bind]({{< ref "/f11/package/system-config-bind.md" >}}) | 18 | 9419 | 0.2 | Arabic <support@arabeyes.org> | 
- | [kst]({{< ref "/f11/package/kst.md" >}}) | 14 | 7397 | 0.2 | Arabic <doc@arabeyes.org> | 
- | [sugar-calculator]({{< ref "/f11/package/sugar-calculator.md" >}}) | 1 | 627 | 0.2 |  | 
- | [bluez-gnome]({{< ref "/f11/package/bluez-gnome.md" >}}) | 1 | 631 | 0.2 | Arabic <ar@li.org> | 
- | [etoys]({{< ref "/f11/package/etoys.md" >}}) | 36 | 27689 | 0.1 | LANGUAGE <LL@li.org> | 
- | [ktorrent]({{< ref "/f11/package/ktorrent.md" >}}) | 1 | 7565 | 0.0 | <en@li.org> | 
- | [cinepaint]({{< ref "/f11/package/cinepaint.md" >}}) | 0 | 95 | 0.0 | Arabic <support@arabeyes.org> | 
- | [compiz]({{< ref "/f11/package/compiz.md" >}}) | 0 | 39 | 0.0 | Arabic <i18n@suse.de> | 
- | [icc_examin]({{< ref "/f11/package/icc_examin.md" >}}) | 0 | 47 | 0.0 | Arabic <support@arabeyes.org> | 
- | [imsettings]({{< ref "/f11/package/imsettings.md" >}}) | 0 | 979 | 0.0 | Arabic <en@li.org> | 
- | [istanbul]({{< ref "/f11/package/istanbul.md" >}}) | 0 | 350 | 0.0 | Arabic <doc@arabeyes.org> | 
- | [kexec-tools]({{< ref "/f11/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kgrab]({{< ref "/f11/package/kgrab.md" >}}) | 0 | 370 | 0.0 | <en@li.org> | 
- | [kopete-cryptography]({{< ref "/f11/package/kopete-cryptography.md" >}}) | 0 | 408 | 0.0 | Arabic <doc@arabeyes.org> | 
- | [libgxim]({{< ref "/f11/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [oyranos]({{< ref "/f11/package/oyranos.md" >}}) | 0 | 47 | 0.0 | Arabic <support@arabeyes.org> | 
- | [passwd]({{< ref "/f11/package/passwd.md" >}}) | 0 | 299 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f11/package/policycoreutils.md" >}}) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f11/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regexxer]({{< ref "/f11/package/regexxer.md" >}}) | 0 | 467 | 0.0 | Arabic <doc@arabeyes.org> | 
- | [rhnsd]({{< ref "/f11/package/rhnsd.md" >}}) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
- | [ristretto]({{< ref "/f11/package/ristretto.md" >}}) | 0 | 187 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [setroubleshoot]({{< ref "/f11/package/setroubleshoot.md" >}}) | 0 | 593 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f11/package/setroubleshoot-plugins.md" >}}) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f11/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f11/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f11/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f11/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f11/package/sugar-moon.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f11/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f11/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f11/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | Arabic | 
- | [sugar-visualmatch]({{< ref "/f11/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f11/package/system-config-date-docs.md" >}}) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f11/package/system-config-kdump.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f11/package/system-config-nfs-docs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f11/package/system-config-samba-docs.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f11/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f11/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [thunar-vcs-plugin]({{< ref "/f11/package/thunar-vcs-plugin.md" >}}) | 0 | 498 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [thunar-volman]({{< ref "/f11/package/thunar-volman.md" >}}) | 0 | 370 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-battery-plugin]({{< ref "/f11/package/xfce4-battery-plugin.md" >}}) | 0 | 123 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-clipman-plugin]({{< ref "/f11/package/xfce4-clipman-plugin.md" >}}) | 0 | 234 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-datetime-plugin]({{< ref "/f11/package/xfce4-datetime-plugin.md" >}}) | 0 | 53 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-dict]({{< ref "/f11/package/xfce4-dict.md" >}}) | 0 | 386 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-fsguard-plugin]({{< ref "/f11/package/xfce4-fsguard-plugin.md" >}}) | 0 | 64 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f11/package/xfce4-mailwatch-plugin.md" >}}) | 0 | 659 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-mpc-plugin]({{< ref "/f11/package/xfce4-mpc-plugin.md" >}}) | 0 | 80 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-notes-plugin]({{< ref "/f11/package/xfce4-notes-plugin.md" >}}) | 0 | 103 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-places-plugin]({{< ref "/f11/package/xfce4-places-plugin.md" >}}) | 0 | 75 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-radio-plugin]({{< ref "/f11/package/xfce4-radio-plugin.md" >}}) | 0 | 56 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-screenshooter]({{< ref "/f11/package/xfce4-screenshooter.md" >}}) | 0 | 223 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-sensors-plugin]({{< ref "/f11/package/xfce4-sensors-plugin.md" >}}) | 0 | 327 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-timer-plugin]({{< ref "/f11/package/xfce4-timer-plugin.md" >}}) | 0 | 94 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfce4-weather-plugin]({{< ref "/f11/package/xfce4-weather-plugin.md" >}}) | 0 | 555 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [xfmpc]({{< ref "/f11/package/xfmpc.md" >}}) | 0 | 124 | 0.0 | Arabeyes <doc@arabeyes.org> | 
- | [yum-rhn-plugin]({{< ref "/f11/package/yum-rhn-plugin.md" >}}) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [alacarte](/f11/package/alacarte) | 42 | 42 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [asunder](/f11/package/asunder) | 420 | 420 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [avant-window-navigator](/f11/package/avant-window-navigator) | 593 | 593 | 100.0 | Arabic | 
+ | [backintime](/f11/package/backintime) | 441 | 441 | 100.0 | Arabic <ar@li.org> | 
+ | [bakery](/f11/package/bakery) | 58 | 58 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [clamtk](/f11/package/clamtk) | 779 | 779 | 100.0 | Arabic <ar@li.org> | 
+ | [control-center](/f11/package/control-center) | 2737 | 2737 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [dasher](/f11/package/dasher) | 526 | 526 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [deskbar-applet](/f11/package/deskbar-applet) | 1520 | 1520 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [eel2](/f11/package/eel2) | 153 | 153 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [ekiga](/f11/package/ekiga) | 4043 | 4043 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [emerald](/f11/package/emerald) | 774 | 774 | 100.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [epiphany](/f11/package/epiphany) | 4239 | 4239 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [epiphany-extensions](/f11/package/epiphany-extensions) | 1006 | 1006 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [evince](/f11/package/evince) | 1155 | 1155 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [evolution-exchange](/f11/package/evolution-exchange) | 1339 | 1339 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gcompris](/f11/package/gcompris) | 10877 | 10877 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gconf-editor](/f11/package/gconf-editor) | 329 | 329 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [ggz-base-libs](/f11/package/ggz-base-libs) | 74 | 74 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [ggz-gtk-client](/f11/package/ggz-gtk-client) | 859 | 859 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-backgrounds](/f11/package/gnome-backgrounds) | 23 | 23 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-doc-utils](/f11/package/gnome-doc-utils) | 238 | 238 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-icon-theme](/f11/package/gnome-icon-theme) | 20 | 20 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [gnome-mag](/f11/package/gnome-mag) | 298 | 298 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-media](/f11/package/gnome-media) | 1190 | 1190 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-menus](/f11/package/gnome-menus) | 157 | 157 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-mime-data](/f11/package/gnome-mime-data) | 887 | 887 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-netstatus](/f11/package/gnome-netstatus) | 418 | 418 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-nettool](/f11/package/gnome-nettool) | 573 | 573 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [gnome-session](/f11/package/gnome-session) | 679 | 679 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnome-utils](/f11/package/gnome-utils) | 4174 | 4174 | 100.0 | ar <doc@arabeyes.org> | 
+ | [gnome-vfs2](/f11/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gnote](/f11/package/gnote) | 2074 | 2074 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gok](/f11/package/gok) | 1950 | 1950 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gparted](/f11/package/gparted) | 1563 | 1563 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gpicview](/f11/package/gpicview) | 219 | 219 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gst-mixer](/f11/package/gst-mixer) | 1938 | 1938 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gsynaptics](/f11/package/gsynaptics) | 72 | 72 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gtksourceview](/f11/package/gtksourceview) | 891 | 891 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [gucharmap](/f11/package/gucharmap) | 803 | 803 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [isomaster](/f11/package/isomaster) | 674 | 674 | 100.0 | Abdellah Chelli <sneetsher@gmail.com> | 
+ | [kshutdown](/f11/package/kshutdown) | 778 | 778 | 100.0 | <doc@arabeyes.org> | 
+ | [libbonobo](/f11/package/libbonobo) | 543 | 543 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libbonoboui](/f11/package/libbonoboui) | 368 | 368 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libgdl](/f11/package/libgdl) | 602 | 602 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libgnome](/f11/package/libgnome) | 1757 | 1757 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libgnomecanvas](/f11/package/libgnomecanvas) | 378 | 378 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libgnomecups](/f11/package/libgnomecups) | 11 | 11 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libgnomekbd](/f11/package/libgnomekbd) | 235 | 235 | 100.0 | Arabic <doc@eglug.org> | 
+ | [libgnomeprint22](/f11/package/libgnomeprint22) | 168 | 168 | 100.0 | Arabic <doc@eglug.org> | 
+ | [libgnomeprintui22](/f11/package/libgnomeprintui22) | 481 | 481 | 100.0 | Arabic <doc@eglug.org> | 
+ | [libgnomeui](/f11/package/libgnomeui) | 1226 | 1226 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [libgtop2](/f11/package/libgtop2) | 126 | 126 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [liveusb-creator](/f11/package/liveusb-creator) | 480 | 480 | 100.0 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [lxappearance](/f11/package/lxappearance) | 96 | 96 | 100.0 | Arabic | 
+ | [lxdm](/f11/package/lxdm) | 11 | 11 | 100.0 | Arabic <trans-ar@lists.fedoraproject.org> | 
+ | [lxlauncher](/f11/package/lxlauncher) | 51 | 51 | 100.0 | Arabic | 
+ | [lxmenu-data](/f11/package/lxmenu-data) | 97 | 97 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [lxrandr](/f11/package/lxrandr) | 102 | 102 | 100.0 | Arabic | 
+ | [lxsession](/f11/package/lxsession) | 37 | 37 | 100.0 | Arabic | 
+ | [lxsession-edit](/f11/package/lxsession-edit) | 58 | 58 | 100.0 | Arabic | 
+ | [lxshortcut](/f11/package/lxshortcut) | 43 | 43 | 100.0 | Arabic | 
+ | [lxtask](/f11/package/lxtask) | 112 | 112 | 100.0 | Arabic | 
+ | [lxterminal](/f11/package/lxterminal) | 100 | 100 | 100.0 | Arabic | 
+ | [minbar](/f11/package/minbar) | 418 | 418 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [mousepad](/f11/package/mousepad) | 135 | 135 | 100.0 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [nautilus](/f11/package/nautilus) | 8208 | 8208 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [nautilus-cd-burner](/f11/package/nautilus-cd-burner) | 1315 | 1315 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [newt](/f11/package/newt) | 4 | 4 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [notification-daemon](/f11/package/notification-daemon) | 31 | 31 | 100.0 | Arabeyes <doc@arabeyes.org> | 
+ | [paperbox](/f11/package/paperbox) | 21 | 21 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [pcmanfm](/f11/package/pcmanfm) | 1520 | 1520 | 100.0 | doc@arabeyes.org | 
+ | [perl-Padre](/f11/package/perl-Padre) | 989 | 989 | 100.0 | Arabic | 
+ | [perl-libintl](/f11/package/perl-libintl) | 19 | 19 | 100.0 | Arabic <guido@imperia.net> | 
+ | [pidgin-otr](/f11/package/pidgin-otr) | 550 | 550 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [planner](/f11/package/planner) | 1796 | 1796 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [redhat-menus](/f11/package/redhat-menus) | 253 | 253 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [sabayon](/f11/package/sabayon) | 1178 | 1178 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [samba](/f11/package/samba) | 198 | 198 | 100.0 | Novell Language <language@novell.com> | 
+ | [seahorse-plugins](/f11/package/seahorse-plugins) | 1159 | 1159 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sonata](/f11/package/sonata) | 1136 | 1136 | 100.0 | Arabic <ar@arabic.org> | 
+ | [sugar](/f11/package/sugar) | 772 | 772 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-base](/f11/package/sugar-base) | 5 | 5 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-browse](/f11/package/sugar-browse) | 52 | 52 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-chat](/f11/package/sugar-chat) | 26 | 26 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-connect](/f11/package/sugar-connect) | 36 | 36 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-implode](/f11/package/sugar-implode) | 9 | 9 | 100.0 | Arabic | 
+ | [sugar-journal](/f11/package/sugar-journal) | 61 | 61 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-log](/f11/package/sugar-log) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f11/package/sugar-memorize) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f11/package/sugar-pippy) | 52 | 52 | 100.0 | arabeyes <ar@li.org> | 
+ | [sugar-read](/f11/package/sugar-read) | 26 | 26 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-record](/f11/package/sugar-record) | 137 | 137 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-terminal](/f11/package/sugar-terminal) | 6 | 6 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f11/package/sugar-toolkit) | 71 | 71 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-update-control](/f11/package/sugar-update-control) | 159 | 159 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [sugar-write](/f11/package/sugar-write) | 69 | 69 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [swfdec-gnome](/f11/package/swfdec-gnome) | 101 | 101 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [switchdesk](/f11/package/switchdesk) | 137 | 137 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [system-config-keyboard](/f11/package/system-config-keyboard) | 78 | 78 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [system-config-language](/f11/package/system-config-language) | 45 | 45 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [system-switch-mail](/f11/package/system-switch-mail) | 134 | 134 | 100.0 | Arabic <support@arabeyes.org> | 
+ | [vidalia](/f11/package/vidalia) | 3588 | 3588 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f11/package/virtaal) | 1116 | 1116 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [vte](/f11/package/vte) | 84 | 84 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [wxGTK](/f11/package/wxGTK) | 110 | 110 | 100.0 |  | 
+ | [wxPython](/f11/package/wxPython) | 110 | 110 | 100.0 |  | 
+ | [xdg-user-dirs](/f11/package/xdg-user-dirs) | 26 | 26 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [xdg-user-dirs-gtk](/f11/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [xfce4-icon-theme](/f11/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [xfce4-verve-plugin](/f11/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Arabeyes <doc@arabeyes.org> | 
+ | [yelp](/f11/package/yelp) | 1035 | 1035 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [zenity](/f11/package/zenity) | 582 | 582 | 100.0 | Arabic <doc@arabeyes.org> | 
+ | [klavaro](/f11/package/klavaro) | 1898 | 1903 | 99.7 | Arabic <doc@arabeyes.org> | 
+ | [libwnck](/f11/package/libwnck) | 1121 | 1124 | 99.7 | Arabic <doc@arabeyes.org> | 
+ | [xfprint](/f11/package/xfprint) | 321 | 322 | 99.7 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [kflickr](/f11/package/kflickr) | 298 | 299 | 99.7 | Arabic <ar@li.org> | 
+ | [system-config-printer](/f11/package/system-config-printer) | 2992 | 3006 | 99.5 | Arabic <doc@arabeyes.org> | 
+ | [brasero](/f11/package/brasero) | 5240 | 5280 | 99.2 | Arabic <doc@arabeyes.org> | 
+ | [devhelp](/f11/package/devhelp) | 360 | 364 | 98.9 | Arabic <doc@arabeyes.org> | 
+ | [tracker](/f11/package/tracker) | 1375 | 1392 | 98.8 | Arabic <doc@arabeyes.org> | 
+ | [sugar-distance](/f11/package/sugar-distance) | 78 | 79 | 98.7 | Arabic XO l18n team | 
+ | [atk](/f11/package/atk) | 370 | 375 | 98.7 | Arabic <doc@arabeyes.org> | 
+ | [mingw32-atk](/f11/package/mingw32-atk) | 370 | 375 | 98.7 | Arabic <doc@arabeyes.org> | 
+ | [evolution-data-server](/f11/package/evolution-data-server) | 5018 | 5091 | 98.6 | Arabic <doc@arabeyes.org> | 
+ | [poedit](/f11/package/poedit) | 1143 | 1162 | 98.4 | أشخاص عديدون | 
+ | [gnome-screensaver](/f11/package/gnome-screensaver) | 954 | 975 | 97.8 | Arabic <doc@arabeyes.org> | 
+ | [lxpanel](/f11/package/lxpanel) | 874 | 895 | 97.7 | Arabic | 
+ | [GConf2](/f11/package/GConf2) | 3949 | 4044 | 97.7 | Arabic <doc@arabeyes.org> | 
+ | [gtk2](/f11/package/gtk2) | 12585 | 12928 | 97.3 | Arabic <doc@arabeyes.org> | 
+ | [mingw32-gtk2](/f11/package/mingw32-gtk2) | 12585 | 12928 | 97.3 | Arabic <doc@arabeyes.org> | 
+ | [gbrainy](/f11/package/gbrainy) | 2481 | 2554 | 97.1 | Arabic <support@arabeyes.org> | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [gtkhtml3](/f11/package/gtkhtml3) | 1219 | 1261 | 96.7 | Arabic <doc@arabeyes.org> | 
+ | [mingw32-gtkhtml3](/f11/package/mingw32-gtkhtml3) | 1219 | 1261 | 96.7 | Arabic <doc@arabeyes.org> | 
+ | [vinagre](/f11/package/vinagre) | 902 | 938 | 96.2 | Arabic <doc@arabeyes.org> | 
+ | [gnome-panel](/f11/package/gnome-panel) | 5435 | 5671 | 95.8 | Arabic <en@li.org> | 
+ | [gwget](/f11/package/gwget) | 526 | 550 | 95.6 | Arabic <doc@arabeyes.org> | 
+ | [evolution](/f11/package/evolution) | 21063 | 22130 | 95.2 | Arabic <doc@arabeyes.org> | 
+ | [file-roller](/f11/package/file-roller) | 1205 | 1267 | 95.1 | Arabic <doc@arabeyes.org> | 
+ | [system-config-httpd](/f11/package/system-config-httpd) | 816 | 858 | 95.1 | Arabic <support@arabeyes.org> | 
+ | [gdm](/f11/package/gdm) | 1249 | 1314 | 95.1 | Arabic <doc@arabeyes.org> | 
+ | [hwbrowser](/f11/package/hwbrowser) | 110 | 116 | 94.8 | Arabic <en@li.org> | 
+ | [GConf2-dbus](/f11/package/GConf2-dbus) | 3749 | 3954 | 94.8 | Arabic <support@arabeyes.org> | 
+ | [metacity](/f11/package/metacity) | 7656 | 8082 | 94.7 | Arabic <doc@arabeyes.org> | 
+ | [liferea](/f11/package/liferea) | 2265 | 2399 | 94.4 | Arabic <doc@arabeyes.org> | 
+ | [usermode](/f11/package/usermode) | 530 | 562 | 94.3 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [fantasdic](/f11/package/fantasdic) | 375 | 398 | 94.2 | Arabeyes <doc@arabeyes.org> | 
+ | [kio_gopher](/f11/package/kio_gopher) | 16 | 17 | 94.1 | Arabic <doc@arabeyes.org> | 
+ | [rhythmbox](/f11/package/rhythmbox) | 3858 | 4114 | 93.8 | <en@li.org> | 
+ | [glib2](/f11/package/glib2) | 2197 | 2350 | 93.5 | Arabic <doc@arabeyes.org> | 
+ | [mingw32-glib2](/f11/package/mingw32-glib2) | 2197 | 2350 | 93.5 | Arabic <doc@arabeyes.org> | 
+ | [kmess](/f11/package/kmess) | 6805 | 7283 | 93.4 | Arabic <doc@arabeyes.org> | 
+ | [kiconedit](/f11/package/kiconedit) | 678 | 726 | 93.4 | <en@li.org> | 
+ | [gtksourceview2](/f11/package/gtksourceview2) | 1018 | 1099 | 92.6 | Arabic <doc@arabeyes.org> | 
+ | [konq-plugins](/f11/package/konq-plugins) | 1566 | 1692 | 92.6 | Arabic <linuxac-kde-arabic-team@googlegroups.com> | 
+ | [rhpxl](/f11/package/rhpxl) | 111 | 120 | 92.5 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [gnome-power-manager](/f11/package/gnome-power-manager) | 3029 | 3284 | 92.2 | Arabic <doc@arabeyes.org> | 
+ | [chkconfig](/f11/package/chkconfig) | 410 | 448 | 91.5 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [libuser](/f11/package/libuser) | 972 | 1064 | 91.4 | Arabic <en@li.org> | 
+ | [keurocalc](/f11/package/keurocalc) | 265 | 291 | 91.1 | Arabic <ar@li.org> | 
+ | [gvfs](/f11/package/gvfs) | 1220 | 1341 | 91.0 | Arabic <doc@arabeyes.org> | 
+ | [tomboy](/f11/package/tomboy) | 2411 | 2651 | 90.9 | Arabic <doc@arabeyes.org> | 
+ | [empathy](/f11/package/empathy) | 1695 | 1866 | 90.8 | Arabic <doc@arabeyes.org> | 
+ | [gimp](/f11/package/gimp) | 23435 | 25982 | 90.2 | Arabic <doc@arabeyes.org> | 
+ | [gnome-system-monitor](/f11/package/gnome-system-monitor) | 3385 | 3759 | 90.1 | Arabic | 
+ | [setuptool](/f11/package/setuptool) | 54 | 60 | 90.0 | Arabic <support@arabeyes.org> | 
+ | [system-config-kickstart](/f11/package/system-config-kickstart) | 932 | 1039 | 89.7 | Arabic <support@arabeyes.org> | 
+ | [eog](/f11/package/eog) | 4053 | 4522 | 89.6 | Arabic <general@arabeyes.org> | 
+ | [orca](/f11/package/orca) | 3314 | 3704 | 89.5 | Arabic <doc@arabeyes.org> | 
+ | [kaffeine](/f11/package/kaffeine) | 2106 | 2354 | 89.5 | Arabic <doc@arabeyes.org> | 
+ | [system-config-boot](/f11/package/system-config-boot) | 41 | 46 | 89.1 | Arabic <support@arabeyes.org> | 
+ | [gnome-applets](/f11/package/gnome-applets) | 2987 | 3374 | 88.5 | Arabic <doc@arabeyes.org> | 
+ | [gnome-commander](/f11/package/gnome-commander) | 7242 | 8202 | 88.3 | Arabic <doc@arabeyes.org> | 
+ | [bug-buddy](/f11/package/bug-buddy) | 872 | 989 | 88.2 | Arabic <doc@arabeyes.org> | 
+ | [gnome-themes](/f11/package/gnome-themes) | 96 | 109 | 88.1 | Arabic <doc@arabeyes.org> | 
+ | [rhpl](/f11/package/rhpl) | 161 | 185 | 87.0 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [Django](/f11/package/Django) | 2793 | 3236 | 86.3 | Arabic <support@arabeyes.org> | 
+ | [anjuta](/f11/package/anjuta) | 6784 | 7883 | 86.1 | Arabic <doc@arabeyes.org> | 
+ | [conduit](/f11/package/conduit) | 488 | 571 | 85.5 | Arabic <doc@arabeyes.org> | 
+ | [system-config-lvm](/f11/package/system-config-lvm) | 1821 | 2142 | 85.0 | Arabic | 
+ | [gnome-games](/f11/package/gnome-games) | 7100 | 8376 | 84.8 | Arabic <doc@arabeyes.org> | 
+ | [celestia](/f11/package/celestia) | 1601 | 1894 | 84.5 | Arabic <ar@li.org> | 
+ | [system-config-samba](/f11/package/system-config-samba) | 353 | 422 | 83.6 | <en@li.org> | 
+ | [gtk2-engines](/f11/package/gtk2-engines) | 99 | 119 | 83.2 | Arabic <doc@arabeyes.org> | 
+ | [sound-juicer](/f11/package/sound-juicer) | 2711 | 3264 | 83.1 | Arabic <doc@arabeyes.org> | 
+ | [gnome-terminal](/f11/package/gnome-terminal) | 3215 | 3885 | 82.8 | Arabic <doc@arabeyes.org> | 
+ | [gedit-plugins](/f11/package/gedit-plugins) | 162 | 198 | 81.8 | Arabic <doc@arabeyes.org> | 
+ | [f-spot](/f11/package/f-spot) | 2481 | 3033 | 81.8 | Arabic <en@li.org> | 
+ | [seahorse](/f11/package/seahorse) | 2481 | 3049 | 81.4 | Arabic <doc@arabeyes.org> | 
+ | [gnome-do](/f11/package/gnome-do) | 382 | 470 | 81.3 | American English <doc@arabeyes.org> | 
+ | [vino](/f11/package/vino) | 854 | 1054 | 81.0 | Arabic <doc@arabeyes.org> | 
+ | [system-config-date](/f11/package/system-config-date) | 837 | 1038 | 80.6 | Arabic <en@li.org> | 
+ | [gnome-keyring](/f11/package/gnome-keyring) | 1451 | 1823 | 79.6 | Arabic <doc@arabeyes.org> | 
+ | [system-config-network](/f11/package/system-config-network) | 2327 | 2934 | 79.3 | Arabic <support@arabeyes.org> | 
+ | [ksig](/f11/package/ksig) | 67 | 85 | 78.8 | <en@li.org> | 
+ | [pidgin](/f11/package/pidgin) | 14124 | 18144 | 77.8 | Arabic <doc@arabeyes.org> | 
+ | [gedit](/f11/package/gedit) | 9434 | 12133 | 77.8 | Arabic <doc@arabeyes.org> | 
+ | [system-config-nfs](/f11/package/system-config-nfs) | 258 | 332 | 77.7 | Arabic | 
+ | [gdesklets](/f11/package/gdesklets) | 1087 | 1404 | 77.4 | Arabic <support@eglug.org> | 
+ | [ccsm](/f11/package/ccsm) | 425 | 549 | 77.4 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [beagle](/f11/package/beagle) | 949 | 1238 | 76.7 | Arabic <doc@arabeyes.org> | 
+ | [totem](/f11/package/totem) | 2143 | 2815 | 76.1 | Arabic <doc@arabeyes.org> | 
+ | [gnome-applet-window-picker](/f11/package/gnome-applet-window-picker) | 22 | 29 | 75.9 | Arabic | 
+ | [anaconda](/f11/package/anaconda) | 6814 | 8997 | 75.7 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [gthumb](/f11/package/gthumb) | 2356 | 3130 | 75.3 | en_US <kde-i18n-doc@lists.kde.org> | 
+ | [fvwm](/f11/package/fvwm) | 194 | 262 | 74.0 | Arabic | 
+ | [tuxpaint](/f11/package/tuxpaint) | 552 | 761 | 72.5 | Arabic <doc@arabeyes.org> | 
+ | [gnome-settings-daemon](/f11/package/gnome-settings-daemon) | 950 | 1313 | 72.4 | Arabic <doc@arabeyes.org> | 
+ | [authconfig](/f11/package/authconfig) | 979 | 1357 | 72.1 | Arabic <support@arabeyes.org> | 
+ | [tuxtype2](/f11/package/tuxtype2) | 57 | 80 | 71.2 | LANGUAGE <LL@li.org> | 
+ | [pessulus](/f11/package/pessulus) | 88 | 124 | 71.0 | Arabic <doc@arabeyes.org> | 
+ | [gqview](/f11/package/gqview) | 1214 | 1721 | 70.5 | <youssef@devcabal.org> | 
+ | [audacity](/f11/package/audacity) | 7251 | 10633 | 68.2 | <ar@li.org> | 
+ | [exaile](/f11/package/exaile) | 1653 | 2425 | 68.2 | Arabic <ar@li.org> | 
+ | [gtk-recordmydesktop](/f11/package/gtk-recordmydesktop) | 553 | 816 | 67.8 | Arabic <anas_h_34 [at] hotmail [dot] com> | 
+ | [qt-recordmydesktop](/f11/package/qt-recordmydesktop) | 553 | 816 | 67.8 | Arabic <anas_h_34 [at] hotmail [dot] com> | 
+ | [system-config-netboot](/f11/package/system-config-netboot) | 741 | 1103 | 67.2 | Arabic <support@arabeyes.org> | 
+ | [NetworkManager-vpnc](/f11/package/NetworkManager-vpnc) | 89 | 133 | 66.9 | Arabic <doc@arabeyes.org> | 
+ | [pam](/f11/package/pam) | 398 | 599 | 66.4 | Novell Language <language@novell.com> | 
+ | [openbox](/f11/package/openbox) | 332 | 503 | 66.0 | Arabic <doc@arabeyes.org> | 
+ | [blender](/f11/package/blender) | 164 | 251 | 65.3 |  | 
+ | [glade3](/f11/package/glade3) | 3007 | 4613 | 65.2 | Arabic <doc@arabeyes.org> | 
+ | [wlassistant](/f11/package/wlassistant) | 702 | 1091 | 64.3 | Arabic | 
+ | [hamster-applet](/f11/package/hamster-applet) | 160 | 250 | 64.0 | Arabic <doc@arabeyes.org> | 
+ | [stellarium](/f11/package/stellarium) | 1558 | 2439 | 63.9 | Arabic <ar@li.org> | 
+ | [xfce4-panel](/f11/package/xfce4-panel) | 335 | 540 | 62.0 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [notecase](/f11/package/notecase) | 709 | 1156 | 61.3 | NoteCase team | 
+ | [xfdesktop](/f11/package/xfdesktop) | 615 | 1004 | 61.3 | Arabic <doc@arabeyes.org> | 
+ | [filezilla](/f11/package/filezilla) | 4176 | 6860 | 60.9 | Mohamed Magdy <alnokta@yahoo.com> | 
+ | [totem-pl-parser](/f11/package/totem-pl-parser) | 17 | 28 | 60.7 | Arabic <doc@arabeyes.org> | 
+ | [homebank](/f11/package/homebank) | 876 | 1458 | 60.1 | Arabic <ar@li.org> | 
+ | [libkexif](/f11/package/libkexif) | 15 | 25 | 60.0 | <ar@li.org> | 
+ | [mailman](/f11/package/mailman) | 13041 | 21904 | 59.5 | Arabic | 
+ | [fuse-encfs](/f11/package/fuse-encfs) | 775 | 1311 | 59.1 | Arabic <ar@li.org> | 
+ | [readahead](/f11/package/readahead) | 75 | 129 | 58.1 | Arabic | 
+ | [gftp](/f11/package/gftp) | 1959 | 3375 | 58.0 | Arabic <doc@arabeyes.org> | 
+ | [libgweather](/f11/package/libgweather) | 3497 | 6048 | 57.8 | Arabic <doc@arabeyes.org> | 
+ | [gcalctool](/f11/package/gcalctool) | 784 | 1365 | 57.4 | Arabic <doc@arabeyes.org> | 
+ | [kmid](/f11/package/kmid) | 305 | 535 | 57.0 | <en@li.org> | 
+ | [gnome-applet-music](/f11/package/gnome-applet-music) | 346 | 634 | 54.6 | Arabeyes <doc@arabeyes.org> | 
+ | [jokosher](/f11/package/jokosher) | 1168 | 2159 | 54.1 | Arabic <ar@li.org> | 
+ | [gnome-scan](/f11/package/gnome-scan) | 110 | 204 | 53.9 | Arabic <doc@arabeyes.org> | 
+ | [deluge](/f11/package/deluge) | 1070 | 1998 | 53.6 | Arabic <ar@li.org> | 
+ | [gwibber](/f11/package/gwibber) | 258 | 482 | 53.5 | Arabic <ar@li.org> | 
+ | [purple-msn-pecan](/f11/package/purple-msn-pecan) | 508 | 960 | 52.9 |  | 
+ | [nautilus-sendto](/f11/package/nautilus-sendto) | 153 | 291 | 52.6 | Arabic <doc@arabeyes.org> | 
+ | [system-config-users](/f11/package/system-config-users) | 702 | 1337 | 52.5 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [gambas](/f11/package/gambas) | 987 | 1887 | 52.3 | LANGUAGE <LL@li.org> | 
+ | [yumex](/f11/package/yumex) | 314 | 608 | 51.6 | Arabic <ar@li.org> | 
+ | [Miro](/f11/package/Miro) | 1423 | 2774 | 51.3 | Arabic <ar@li.org> | 
+ | [system-config-display](/f11/package/system-config-display) | 200 | 398 | 50.3 | Arabic <support@arabeyes.org> | 
+ | [PolicyKit-gnome](/f11/package/PolicyKit-gnome) | 477 | 954 | 50.0 | Arabic <doc@arabeyes.org> | 
+ | [Terminal](/f11/package/Terminal) | 743 | 1553 | 47.8 | Arabic <doc@arabeyes.org> | 
+ | [sos](/f11/package/sos) | 126 | 267 | 47.2 | AR <navid@redhat.com> | 
+ | [xfce-utils](/f11/package/xfce-utils) | 61 | 131 | 46.6 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [squirrelmail](/f11/package/squirrelmail) | 3137 | 6878 | 45.6 | BizNas / Arabic | 
+ | [nautilus-actions](/f11/package/nautilus-actions) | 683 | 1554 | 44.0 | Arabic <doc@arabeyes.org> | 
+ | [initscripts](/f11/package/initscripts) | 1803 | 4169 | 43.2 | Arabic | 
+ | [inkscape](/f11/package/inkscape) | 9995 | 23244 | 43.0 | Arabic | 
+ | [listen](/f11/package/listen) | 748 | 1742 | 42.9 | Arabic <ar@li.org> | 
+ | [mousetweaks](/f11/package/mousetweaks) | 272 | 638 | 42.6 | Arabic <doc@arabeyes.org> | 
+ | [kde-plasma-networkmanagement](/f11/package/kde-plasma-networkmanagement) | 866 | 2039 | 42.5 | Arabic <kde-i18n-doc@kde.org> | 
+ | [tuxpaint-stamps](/f11/package/tuxpaint-stamps) | 1079 | 2617 | 41.2 |  | 
+ | [xfce4-session](/f11/package/xfce4-session) | 393 | 990 | 39.7 | Arabic <en@li.org> | 
+ | [nautilus-open-terminal](/f11/package/nautilus-open-terminal) | 62 | 158 | 39.2 | Arabic <doc@arabeyes.org> | 
+ | [kerry](/f11/package/kerry) | 272 | 702 | 38.7 | Arabic <doc@arabeyes.org> | 
+ | [terminator](/f11/package/terminator) | 104 | 269 | 38.7 | Arabic <ar@li.org> | 
+ | [geeqie](/f11/package/geeqie) | 1121 | 2909 | 38.5 | <youssef@devcabal.org> | 
+ | [gambas2](/f11/package/gambas2) | 1335 | 3481 | 38.4 | LANGUAGE <LL@li.org> | 
+ | [transmission](/f11/package/transmission) | 620 | 1642 | 37.8 | Arabic <ar@li.org> | 
+ | [tuxmath](/f11/package/tuxmath) | 396 | 1051 | 37.7 |  | 
+ | [ibus](/f11/package/ibus) | 169 | 449 | 37.6 | Arabic <AR@li.org> | 
+ | [gnome-subtitles](/f11/package/gnome-subtitles) | 238 | 634 | 37.5 | Arabic <doc@arabeyes.org> | 
+ | [boinc-client](/f11/package/boinc-client) | 2780 | 7593 | 36.6 | BOINC Development Team <boinc_loc@ssl.berkeley.edu> | 
+ | [dia](/f11/package/dia) | 2245 | 6258 | 35.9 | Arabeyes <doc@arabeyes.org> | 
+ | [hotssh](/f11/package/hotssh) | 51 | 145 | 35.2 | Arabeyes <doc@arabeyes.org> | 
+ | [libxfcegui4](/f11/package/libxfcegui4) | 81 | 234 | 34.6 | Arabic <doc@arabeyes.org> | 
+ | [gtranslator](/f11/package/gtranslator) | 649 | 1881 | 34.5 | Arabic <doc@arabeyes.org> | 
+ | [firstboot](/f11/package/firstboot) | 223 | 654 | 34.1 | Arabic <ar@li.org> | 
+ | [gnome-desktop](/f11/package/gnome-desktop) | 2813 | 8340 | 33.7 | Arabic <doc@arabeyes.org> | 
+ | [synaptic](/f11/package/synaptic) | 1085 | 3231 | 33.6 | Arabic <support@arabeyes.org> | 
+ | [lyx](/f11/package/lyx) | 4658 | 14458 | 32.2 | LyX team <Dr.Hatim@hotmail.com> | 
+ | [gnome-mount](/f11/package/gnome-mount) | 253 | 790 | 32.0 | Arabic <doc@arabeyes.org> | 
+ | [Thunar](/f11/package/Thunar) | 1220 | 3865 | 31.6 | Arabic <doc@arabeyes.org> | 
+ | [banshee](/f11/package/banshee) | 1056 | 3389 | 31.2 | Arabic <support@eglug.org> | 
+ | [stardict](/f11/package/stardict) | 740 | 2440 | 30.3 | arabeyes.org <bashir.storm@gmail.com> | 
+ | [gnome-applet-netspeed](/f11/package/gnome-applet-netspeed) | 43 | 149 | 28.9 | Arabeyes <doc@arabeyes.org> | 
+ | [gnusim8085](/f11/package/gnusim8085) | 163 | 588 | 27.7 | Arabic <ar@li.org> | 
+ | [soundconverter](/f11/package/soundconverter) | 112 | 433 | 25.9 | Arabic <ar@li.org> | 
+ | [k3b](/f11/package/k3b) | 5310 | 20621 | 25.8 | Arabic <doc@arabeyes.org> | 
+ | [xfburn](/f11/package/xfburn) | 313 | 1296 | 24.2 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [kphotoalbum](/f11/package/kphotoalbum) | 1496 | 6333 | 23.6 | <en@li.org> | 
+ | [NetworkManager](/f11/package/NetworkManager) | 298 | 1270 | 23.5 | <doc@arabeyes.org> | 
+ | [gdeskcal](/f11/package/gdeskcal) | 20 | 86 | 23.3 | LANGUAGE <LL@li.org> | 
+ | [NetworkManager-openvpn](/f11/package/NetworkManager-openvpn) | 40 | 175 | 22.9 | Arabic <doc@arabeyes.org> | 
+ | [gallery2](/f11/package/gallery2) | 3938 | 17747 | 22.2 | Arabic <gallery-translations@lists.sourceforge.net> | 
+ | [freeciv](/f11/package/freeciv) | 11039 | 52514 | 21.0 | Arabic <freeciv-i18n@freeciv.org> | 
+ | [xfce4-wavelan-plugin](/f11/package/xfce4-wavelan-plugin) | 10 | 49 | 20.4 | Arabeyes <doc@arabeyes.org> | 
+ | [picard](/f11/package/picard) | 264 | 1310 | 20.2 | Arabic <ar@li.org> | 
+ | [at-spi](/f11/package/at-spi) | 4 | 20 | 20.0 | Arabic <doc@arabeyes.org> | 
+ | [blueman](/f11/package/blueman) | 272 | 1376 | 19.8 | Arabic <ar@li.org> | 
+ | [xfwm4](/f11/package/xfwm4) | 152 | 797 | 19.1 | Arabic <doc@arabeyes.org> | 
+ | [gnome-bluetooth](/f11/package/gnome-bluetooth) | 95 | 513 | 18.5 | Arabic <ar@li.org> | 
+ | [gnome-user-share](/f11/package/gnome-user-share) | 49 | 270 | 18.1 | Arabic <doc@arabeyes.org> | 
+ | [e16](/f11/package/e16) | 501 | 2785 | 18.0 | Arabic <ar@li.org> | 
+ | [jmol](/f11/package/jmol) | 357 | 2161 | 16.5 | Arabic <ar@li.org> | 
+ | [dialog](/f11/package/dialog) | 4 | 25 | 16.0 | Arabic <support@arabeyes.org> | 
+ | [libepc](/f11/package/libepc) | 23 | 146 | 15.8 | Arabeyes <doc@arabeyes.org> | 
+ | [moin](/f11/package/moin) | 711 | 4526 | 15.7 |  | 
+ | [bittorrent](/f11/package/bittorrent) | 606 | 3906 | 15.5 | LANGUAGE <LL@li.org> | 
+ | [rhn-client-tools](/f11/package/rhn-client-tools) | 741 | 4820 | 15.4 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [knemo](/f11/package/knemo) | 167 | 1097 | 15.2 | Arabic <doc@arabeyes.org> | 
+ | [galeon](/f11/package/galeon) | 906 | 5996 | 15.1 | Arabeyes <doc@arabeyes.org> | 
+ | [gpx-viewer](/f11/package/gpx-viewer) | 10 | 70 | 14.3 | Arabic <ar@li.org> | 
+ | [phatch](/f11/package/phatch) | 361 | 2553 | 14.1 | Arabic <ar@li.org> | 
+ | [system-config-rootpassword](/f11/package/system-config-rootpassword) | 15 | 116 | 12.9 | Arabic <support@arabeyes.org> | 
+ | [nemiver](/f11/package/nemiver) | 112 | 902 | 12.4 | Arabic <doc@arabeyes.org> | 
+ | [libvirt](/f11/package/libvirt) | 1165 | 9413 | 12.4 | none | 
+ | [blam](/f11/package/blam) | 41 | 340 | 12.1 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-eyes-plugin](/f11/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | arabic | 
+ | [ghex](/f11/package/ghex) | 107 | 969 | 11.0 | Arabeyes <doc@arabeyes.org> | 
+ | [almanah](/f11/package/almanah) | 43 | 403 | 10.7 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-mixer](/f11/package/xfce4-mixer) | 19 | 181 | 10.5 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [muine](/f11/package/muine) | 51 | 489 | 10.4 | Arabeyes <doc@arabeyes.org> | 
+ | [grass](/f11/package/grass) | 4624 | 44639 | 10.4 | Arabic <grass-translations@lists.osgeo.org> | 
+ | [iso-codes](/f11/package/iso-codes) | 1291 | 12538 | 10.3 | Arabic | 
+ | [kpilot](/f11/package/kpilot) | 733 | 7156 | 10.2 | <en@li.org> | 
+ | [compiz-fusion](/f11/package/compiz-fusion) | 753 | 7530 | 10.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [compiz-fusion-extras](/f11/package/compiz-fusion-extras) | 753 | 7530 | 10.0 | Compiz Fusion Translators <i18n@lists.compiz-fusion.org> | 
+ | [smolt](/f11/package/smolt) | 96 | 966 | 9.9 | LANGUAGE <ar@li.org> | 
+ | [manaworld](/f11/package/manaworld) | 244 | 2484 | 9.8 | Arabic <ar@li.org> | 
+ | [NetworkManager-pptp](/f11/package/NetworkManager-pptp) | 11 | 112 | 9.8 | Arabic <doc@arabeyes.org> | 
+ | [glade2](/f11/package/glade2) | 568 | 5910 | 9.6 | Arabeyes <doc@arabeyes.org> | 
+ | [orage](/f11/package/orage) | 196 | 2110 | 9.3 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [xchat-gnome](/f11/package/xchat-gnome) | 338 | 4064 | 8.3 | Arabeyes <doc@arabeyes.org> | 
+ | [bilbo](/f11/package/bilbo) | 106 | 1297 | 8.2 | Arabic <ar@li.org> | 
+ | [kdiff3](/f11/package/kdiff3) | 277 | 3410 | 8.1 | Arabic <doc@arabeyes.org> | 
+ | [kipi-plugins](/f11/package/kipi-plugins) | 81 | 1012 | 8.0 | <en@li.org> | 
+ | [marlin](/f11/package/marlin) | 109 | 1508 | 7.2 | Arabeyes <doc@arabeyes.org> | 
+ | [gossip](/f11/package/gossip) | 176 | 2573 | 6.8 | Arabic <support@eglug.org> | 
+ | [goffice](/f11/package/goffice) | 276 | 4071 | 6.8 | Arabic <doc@arabeyes.org> | 
+ | [im-chooser](/f11/package/im-chooser) | 10 | 152 | 6.6 | Arabic <en@li.org> | 
+ | [system-config-services](/f11/package/system-config-services) | 24 | 384 | 6.2 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [specspo](/f11/package/specspo) | 16470 | 305294 | 5.4 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [gnomeradio](/f11/package/gnomeradio) | 22 | 413 | 5.3 | Arabic <support@arabeyes.org> | 
+ | [gnome-lirc-properties](/f11/package/gnome-lirc-properties) | 34 | 654 | 5.2 | Arabeyes <doc@arabeyes.org> | 
+ | [pyroom](/f11/package/pyroom) | 21 | 411 | 5.1 | Arabic <ar@li.org> | 
+ | [alleyoop](/f11/package/alleyoop) | 17 | 351 | 4.8 | Arabeyes <doc@arabeyes.org> | 
+ | [pybliographer](/f11/package/pybliographer) | 47 | 971 | 4.8 | Arabeyes <doc@arabeyes.org> | 
+ | [gnome-user-docs](/f11/package/gnome-user-docs) | 1859 | 39196 | 4.7 | Arabic <doc@arabeyes.org> | 
+ | [meld](/f11/package/meld) | 41 | 916 | 4.5 | Arabeyes <doc@arabeyes.org> | 
+ | [straw](/f11/package/straw) | 26 | 610 | 4.3 | Arabeyes <doc@arabeyes.org> | 
+ | [genius](/f11/package/genius) | 267 | 6647 | 4.0 | Arabeyes <doc@arabeyes.org> | 
+ | [springlobby](/f11/package/springlobby) | 179 | 4695 | 3.8 | Arabic <ar@li.org> | 
+ | [bauble](/f11/package/bauble) | 71 | 2039 | 3.5 | Arabic <ar@li.org> | 
+ | [pan](/f11/package/pan) | 82 | 2429 | 3.4 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-xkb-plugin](/f11/package/xfce4-xkb-plugin) | 2 | 61 | 3.3 | Arabeyes <doc@arabeyes.org> | 
+ | [gnome-packagekit](/f11/package/gnome-packagekit) | 143 | 4374 | 3.3 | Arabic <doc@arabeyes.org> | 
+ | [balsa](/f11/package/balsa) | 175 | 5966 | 2.9 | Arabeyes <doc@arabeyes.org> | 
+ | [kcoloredit](/f11/package/kcoloredit) | 8 | 278 | 2.9 | <en@li.org> | 
+ | [sugar-turtleart](/f11/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [chronojump](/f11/package/chronojump) | 44 | 1796 | 2.4 | Arabeyes <doc@arabeyes.org> | 
+ | [pitivi](/f11/package/pitivi) | 24 | 987 | 2.4 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-appfinder](/f11/package/xfce4-appfinder) | 2 | 84 | 2.4 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [kftpgrabber](/f11/package/kftpgrabber) | 53 | 2237 | 2.4 | Arabic <doc@arabeyes.org> | 
+ | [system-config-firewall](/f11/package/system-config-firewall) | 59 | 2497 | 2.4 | Arabic <fedora-trans-ar@redhat.com> | 
+ | [libgnomedb](/f11/package/libgnomedb) | 44 | 1885 | 2.3 | Arabeyes <doc@arabeyes.org> | 
+ | [glom](/f11/package/glom) | 69 | 3311 | 2.1 | Arabeyes <doc@arabeyes.org> | 
+ | [contact-lookup-applet](/f11/package/contact-lookup-applet) | 5 | 259 | 1.9 | Arabeyes <doc@arabeyes.org> | 
+ | [lazarus](/f11/package/lazarus) | 249 | 13086 | 1.9 | Arabic <ar@li.org> | 
+ | [gnome-schedule](/f11/package/gnome-schedule) | 19 | 1156 | 1.6 | Arabeyes <doc@arabeyes.org> | 
+ | [gnome-phone-manager](/f11/package/gnome-phone-manager) | 8 | 521 | 1.5 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-taskmanager](/f11/package/xfce4-taskmanager) | 1 | 67 | 1.5 | Arabeyes <doc@arabeyes.org> | 
+ | [libxfce4util](/f11/package/libxfce4util) | 5 | 413 | 1.2 | Arabic <doc@arabeyes.org> | 
+ | [gnome-pilot](/f11/package/gnome-pilot) | 19 | 1743 | 1.1 | Arabeyes <doc@arabeyes.org> | 
+ | [camorama](/f11/package/camorama) | 5 | 586 | 0.9 | Arabeyes <doc@arabeyes.org> | 
+ | [nssbackup](/f11/package/nssbackup) | 17 | 2001 | 0.8 | Arabic <ar@li.org> | 
+ | [compat-libgda](/f11/package/compat-libgda) | 46 | 5447 | 0.8 | Arabeyes <doc@arabeyes.org> | 
+ | [digikam](/f11/package/digikam) | 173 | 23446 | 0.7 | <en@li.org> | 
+ | [gnumeric](/f11/package/gnumeric) | 323 | 46374 | 0.7 | Arabeyes <doc@arabeyes.org> | 
+ | [gnome-pilot-conduits](/f11/package/gnome-pilot-conduits) | 1 | 209 | 0.5 | Arabeyes <doc@arabeyes.org> | 
+ | [libgda](/f11/package/libgda) | 24 | 5237 | 0.5 | Arabeyes <doc@arabeyes.org> | 
+ | [exo](/f11/package/exo) | 7 | 1598 | 0.4 | Arabeyes Translation & Documentation <admin@arabeyes.org> | 
+ | [wesnoth](/f11/package/wesnoth) | 872 | 212636 | 0.4 | none | 
+ | [rsibreak](/f11/package/rsibreak) | 5 | 1223 | 0.4 | <en@li.org> | 
+ | [kile](/f11/package/kile) | 38 | 10439 | 0.4 | Arabic <doc@arabeyes.org> | 
+ | [gourmet](/f11/package/gourmet) | 12 | 3526 | 0.3 | Arabic <ar@li.org> | 
+ | [po4a](/f11/package/po4a) | 4 | 1726 | 0.2 | Arabic <ar@li.org> | 
+ | [system-config-bind](/f11/package/system-config-bind) | 18 | 9419 | 0.2 | Arabic <support@arabeyes.org> | 
+ | [kst](/f11/package/kst) | 14 | 7397 | 0.2 | Arabic <doc@arabeyes.org> | 
+ | [sugar-calculator](/f11/package/sugar-calculator) | 1 | 627 | 0.2 |  | 
+ | [bluez-gnome](/f11/package/bluez-gnome) | 1 | 631 | 0.2 | Arabic <ar@li.org> | 
+ | [etoys](/f11/package/etoys) | 36 | 27689 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [ktorrent](/f11/package/ktorrent) | 1 | 7565 | 0.0 | <en@li.org> | 
+ | [cinepaint](/f11/package/cinepaint) | 0 | 95 | 0.0 | Arabic <support@arabeyes.org> | 
+ | [compiz](/f11/package/compiz) | 0 | 39 | 0.0 | Arabic <i18n@suse.de> | 
+ | [icc_examin](/f11/package/icc_examin) | 0 | 47 | 0.0 | Arabic <support@arabeyes.org> | 
+ | [imsettings](/f11/package/imsettings) | 0 | 979 | 0.0 | Arabic <en@li.org> | 
+ | [istanbul](/f11/package/istanbul) | 0 | 350 | 0.0 | Arabic <doc@arabeyes.org> | 
+ | [kexec-tools](/f11/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kgrab](/f11/package/kgrab) | 0 | 370 | 0.0 | <en@li.org> | 
+ | [kopete-cryptography](/f11/package/kopete-cryptography) | 0 | 408 | 0.0 | Arabic <doc@arabeyes.org> | 
+ | [libgxim](/f11/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [oyranos](/f11/package/oyranos) | 0 | 47 | 0.0 | Arabic <support@arabeyes.org> | 
+ | [passwd](/f11/package/passwd) | 0 | 299 | 0.0 | none | 
+ | [policycoreutils](/f11/package/policycoreutils) | 0 | 4363 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f11/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regexxer](/f11/package/regexxer) | 0 | 467 | 0.0 | Arabic <doc@arabeyes.org> | 
+ | [rhnsd](/f11/package/rhnsd) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ristretto](/f11/package/ristretto) | 0 | 187 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [setroubleshoot](/f11/package/setroubleshoot) | 0 | 593 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f11/package/setroubleshoot-plugins) | 0 | 8276 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f11/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f11/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f11/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f11/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f11/package/sugar-moon) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f11/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f11/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f11/package/sugar-view-slides) | 0 | 7 | 0.0 | Arabic | 
+ | [sugar-visualmatch](/f11/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f11/package/system-config-date-docs) | 0 | 660 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f11/package/system-config-kdump) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f11/package/system-config-nfs-docs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f11/package/system-config-samba-docs) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f11/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f11/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [thunar-vcs-plugin](/f11/package/thunar-vcs-plugin) | 0 | 498 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [thunar-volman](/f11/package/thunar-volman) | 0 | 370 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-battery-plugin](/f11/package/xfce4-battery-plugin) | 0 | 123 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-clipman-plugin](/f11/package/xfce4-clipman-plugin) | 0 | 234 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-datetime-plugin](/f11/package/xfce4-datetime-plugin) | 0 | 53 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-dict](/f11/package/xfce4-dict) | 0 | 386 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-fsguard-plugin](/f11/package/xfce4-fsguard-plugin) | 0 | 64 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-mailwatch-plugin](/f11/package/xfce4-mailwatch-plugin) | 0 | 659 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-mpc-plugin](/f11/package/xfce4-mpc-plugin) | 0 | 80 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-notes-plugin](/f11/package/xfce4-notes-plugin) | 0 | 103 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-places-plugin](/f11/package/xfce4-places-plugin) | 0 | 75 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-radio-plugin](/f11/package/xfce4-radio-plugin) | 0 | 56 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-screenshooter](/f11/package/xfce4-screenshooter) | 0 | 223 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-sensors-plugin](/f11/package/xfce4-sensors-plugin) | 0 | 327 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-timer-plugin](/f11/package/xfce4-timer-plugin) | 0 | 94 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfce4-weather-plugin](/f11/package/xfce4-weather-plugin) | 0 | 555 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [xfmpc](/f11/package/xfmpc) | 0 | 124 | 0.0 | Arabeyes <doc@arabeyes.org> | 
+ | [yum-rhn-plugin](/f11/package/yum-rhn-plugin) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -532,10 +532,10 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [blender]({{< ref "/f11/package/blender.md" >}}) | /mnt/stockage/packages/f11/blender/po/ar.po | error-os |  | 
- | [gnome-desktop]({{< ref "/f11/package/gnome-desktop.md" >}}) | /mnt/stockage/packages/f11/gnome-desktop/desktop-docs/gpl/ar/ar.po | error-os |  | 
- | [moin]({{< ref "/f11/package/moin.md" >}}) | /mnt/stockage/packages/f11/moin/MoinMoin/i18n/ar.MoinMoin.po | error-os |  | 
- | [sugar-calculator]({{< ref "/f11/package/sugar-calculator.md" >}}) | /mnt/stockage/packages/f11/sugar-calculator/po/ar.po | error-os |  | 
+ | [blender](/f11/package/blender) | /mnt/stockage/packages/f11/blender/po/ar.po | error-os |  | 
+ | [gnome-desktop](/f11/package/gnome-desktop) | /mnt/stockage/packages/f11/gnome-desktop/desktop-docs/gpl/ar/ar.po | error-os |  | 
+ | [moin](/f11/package/moin) | /mnt/stockage/packages/f11/moin/MoinMoin/i18n/ar.MoinMoin.po | error-os |  | 
+ | [sugar-calculator](/f11/package/sugar-calculator) | /mnt/stockage/packages/f11/sugar-calculator/po/ar.po | error-os |  | 
 {.sortable}
 
 

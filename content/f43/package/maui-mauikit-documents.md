@@ -18,34 +18,34 @@ The package maui-mauikit-documents (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ca/mauikitdocuments.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ca@valencia/mauikitdocuments.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/es/mauikitdocuments.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/eu/mauikitdocuments.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/fr/mauikitdocuments.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/gl/mauikitdocuments.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/it/mauikitdocuments.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/nl/mauikitdocuments.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/pl/mauikitdocuments.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/sl/mauikitdocuments.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/sv/mauikitdocuments.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/tr/mauikitdocuments.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/uk/mauikitdocuments.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/en_GB/mauikitdocuments.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/eo/mauikitdocuments.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/fi/mauikitdocuments.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ka/mauikitdocuments.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ko/mauikitdocuments.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/nn/mauikitdocuments.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/pt/mauikitdocuments.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/pt_BR/mauikitdocuments.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/zh_TW/mauikitdocuments.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 20 | 69 | 29.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/de/mauikitdocuments.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 8 | 69 | 11.6 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/cs/mauikitdocuments.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 3 | 69 | 4.3 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/sk/mauikitdocuments.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ja/mauikitdocuments.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/lt/mauikitdocuments.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/zh_CN/mauikitdocuments.po | 
+ | [ca](/f43/language/ca) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ca/mauikitdocuments.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ca@valencia/mauikitdocuments.po | 
+ | [es](/f43/language/es) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/es/mauikitdocuments.po | 
+ | [eu](/f43/language/eu) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/eu/mauikitdocuments.po | 
+ | [fr](/f43/language/fr) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/fr/mauikitdocuments.po | 
+ | [gl](/f43/language/gl) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/gl/mauikitdocuments.po | 
+ | [it](/f43/language/it) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/it/mauikitdocuments.po | 
+ | [nl](/f43/language/nl) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/nl/mauikitdocuments.po | 
+ | [pl](/f43/language/pl) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/pl/mauikitdocuments.po | 
+ | [sl](/f43/language/sl) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/sl/mauikitdocuments.po | 
+ | [sv](/f43/language/sv) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/sv/mauikitdocuments.po | 
+ | [tr](/f43/language/tr) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/tr/mauikitdocuments.po | 
+ | [uk](/f43/language/uk) | 69 | 69 | 100.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/uk/mauikitdocuments.po | 
+ | [en_GB](/f43/language/en_GB) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/en_GB/mauikitdocuments.po | 
+ | [eo](/f43/language/eo) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/eo/mauikitdocuments.po | 
+ | [fi](/f43/language/fi) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/fi/mauikitdocuments.po | 
+ | [ka](/f43/language/ka) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ka/mauikitdocuments.po | 
+ | [ko](/f43/language/ko) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ko/mauikitdocuments.po | 
+ | [nn](/f43/language/nn) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/nn/mauikitdocuments.po | 
+ | [pt](/f43/language/pt) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/pt/mauikitdocuments.po | 
+ | [pt_BR](/f43/language/pt_BR) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/pt_BR/mauikitdocuments.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 67 | 69 | 97.1 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/zh_TW/mauikitdocuments.po | 
+ | [de](/f43/language/de) | 20 | 69 | 29.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/de/mauikitdocuments.po | 
+ | [cs](/f43/language/cs) | 8 | 69 | 11.6 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/cs/mauikitdocuments.po | 
+ | [sk](/f43/language/sk) | 3 | 69 | 4.3 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/sk/mauikitdocuments.po | 
+ | [ja](/f43/language/ja) | 0 | 69 | 0.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/ja/mauikitdocuments.po | 
+ | [lt](/f43/language/lt) | 0 | 69 | 0.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/lt/mauikitdocuments.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 0 | 69 | 0.0 | /mnt/stockage/packages/f43/maui-mauikit-documents/po/zh_CN/mauikitdocuments.po | 
 {.sortable}
 
 

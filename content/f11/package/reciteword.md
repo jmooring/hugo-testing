@@ -18,7 +18,7 @@ The package reciteword (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f11/reciteword/po/zh_CN.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 243 | 243 | 100.0 | /mnt/stockage/packages/f11/reciteword/po/zh_CN.po | 
 {.sortable}
 
 

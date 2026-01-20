@@ -18,44 +18,44 @@ The package xfce4-statusnotifier-plugin (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f35/language/be.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/bg.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/de.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/en_AU.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/id.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ie.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/lt.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/zh_TW.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 119 | 129 | 92.2 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/fi.po | 
+ | [be](/f35/language/be) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/be.po | 
+ | [bg](/f35/language/bg) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/bg.po | 
+ | [ca](/f35/language/ca) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ca.po | 
+ | [cs](/f35/language/cs) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/cs.po | 
+ | [da](/f35/language/da) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/da.po | 
+ | [de](/f35/language/de) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/de.po | 
+ | [en_AU](/f35/language/en_AU) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/en_AU.po | 
+ | [es](/f35/language/es) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/es.po | 
+ | [fr](/f35/language/fr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/fr.po | 
+ | [gl](/f35/language/gl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/gl.po | 
+ | [he](/f35/language/he) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/he.po | 
+ | [hr](/f35/language/hr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/hr.po | 
+ | [hu](/f35/language/hu) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/hu.po | 
+ | [id](/f35/language/id) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/id.po | 
+ | [ie](/f35/language/ie) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ie.po | 
+ | [is](/f35/language/is) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/is.po | 
+ | [it](/f35/language/it) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/it.po | 
+ | [ja](/f35/language/ja) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ja.po | 
+ | [ko](/f35/language/ko) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ko.po | 
+ | [lt](/f35/language/lt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/lt.po | 
+ | [ms](/f35/language/ms) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/nb.po | 
+ | [nl](/f35/language/nl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/nl.po | 
+ | [pl](/f35/language/pl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/pl.po | 
+ | [pt](/f35/language/pt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/ru.po | 
+ | [sk](/f35/language/sk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sk.po | 
+ | [sl](/f35/language/sl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sl.po | 
+ | [sq](/f35/language/sq) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sq.po | 
+ | [sr](/f35/language/sr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sr.po | 
+ | [sv](/f35/language/sv) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/sv.po | 
+ | [th](/f35/language/th) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/th.po | 
+ | [tr](/f35/language/tr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/tr.po | 
+ | [uk](/f35/language/uk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 129 | 129 | 100.0 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/zh_TW.po | 
+ | [fi](/f35/language/fi) | 119 | 129 | 92.2 | /mnt/stockage/packages/f35/xfce4-statusnotifier-plugin/po/fi.po | 
 {.sortable}
 
 

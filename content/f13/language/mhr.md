@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f13/package/pidgin.md" >}}) | 17003 | 18730 | 90.8 | Mari <muter@lists.linux-ink.ru> | 
+ | [pidgin](/f13/package/pidgin) | 17003 | 18730 | 90.8 | Mari <muter@lists.linux-ink.ru> | 
 {.sortable}
 
 

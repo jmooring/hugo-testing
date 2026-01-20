@@ -18,12 +18,12 @@ The package vdr-screenshot (version 0.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/de_DE.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/fi_FI.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/it_IT.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/tr_TR.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f24/vdr-screenshot/po/ca_ES.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f24/vdr-screenshot/po/es_ES.po | 
+ | [de](/f24/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/de_DE.po | 
+ | [fi](/f24/language/fi) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/fi_FI.po | 
+ | [it](/f24/language/it) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/it_IT.po | 
+ | [tr](/f24/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f24/vdr-screenshot/po/tr_TR.po | 
+ | [ca](/f24/language/ca) | 27 | 35 | 77.1 | /mnt/stockage/packages/f24/vdr-screenshot/po/ca_ES.po | 
+ | [es](/f24/language/es) | 27 | 35 | 77.1 | /mnt/stockage/packages/f24/vdr-screenshot/po/es_ES.po | 
 {.sortable}
 
 

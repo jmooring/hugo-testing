@@ -18,7 +18,7 @@ The package gerbv (version 2.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 3481 | 3493 | 99.7 | /mnt/stockage/packages/f27/gerbv/po/ru.po | 
+ | [ru](/f27/language/ru) | 3481 | 3493 | 99.7 | /mnt/stockage/packages/f27/gerbv/po/ru.po | 
 {.sortable}
 
 

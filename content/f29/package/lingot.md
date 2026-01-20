@@ -18,16 +18,16 @@ The package lingot (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 1357 | 1357 | 100.0 | /mnt/stockage/packages/f29/lingot/po/es.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1357 | 1357 | 100.0 | /mnt/stockage/packages/f29/lingot/po/gl.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 993 | 1357 | 73.2 | /mnt/stockage/packages/f29/lingot/po/cs.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 858 | 1357 | 63.2 | /mnt/stockage/packages/f29/lingot/po/it.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 121 | 1357 | 8.9 | /mnt/stockage/packages/f29/lingot/po/fr.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 119 | 1357 | 8.8 | /mnt/stockage/packages/f29/lingot/po/pt_BR.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 115 | 1357 | 8.5 | /mnt/stockage/packages/f29/lingot/po/sv.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 88 | 1357 | 6.5 | /mnt/stockage/packages/f29/lingot/po/zh_CN.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 47 | 1357 | 3.5 | /mnt/stockage/packages/f29/lingot/po/ca.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 46 | 1357 | 3.4 | /mnt/stockage/packages/f29/lingot/po/de.po | 
+ | [es](/f29/language/es) | 1357 | 1357 | 100.0 | /mnt/stockage/packages/f29/lingot/po/es.po | 
+ | [gl](/f29/language/gl) | 1357 | 1357 | 100.0 | /mnt/stockage/packages/f29/lingot/po/gl.po | 
+ | [cs](/f29/language/cs) | 993 | 1357 | 73.2 | /mnt/stockage/packages/f29/lingot/po/cs.po | 
+ | [it](/f29/language/it) | 858 | 1357 | 63.2 | /mnt/stockage/packages/f29/lingot/po/it.po | 
+ | [fr](/f29/language/fr) | 121 | 1357 | 8.9 | /mnt/stockage/packages/f29/lingot/po/fr.po | 
+ | [pt_BR](/f29/language/pt_BR) | 119 | 1357 | 8.8 | /mnt/stockage/packages/f29/lingot/po/pt_BR.po | 
+ | [sv](/f29/language/sv) | 115 | 1357 | 8.5 | /mnt/stockage/packages/f29/lingot/po/sv.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 88 | 1357 | 6.5 | /mnt/stockage/packages/f29/lingot/po/zh_CN.po | 
+ | [ca](/f29/language/ca) | 47 | 1357 | 3.5 | /mnt/stockage/packages/f29/lingot/po/ca.po | 
+ | [de](/f29/language/de) | 46 | 1357 | 3.4 | /mnt/stockage/packages/f29/lingot/po/de.po | 
 {.sortable}
 
 

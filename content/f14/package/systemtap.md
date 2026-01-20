@@ -18,9 +18,9 @@ The package systemtap (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 2834 | 6483 | 43.7 | /mnt/stockage/packages/f14/systemtap/po/fr.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 646 | 6483 | 10.0 | /mnt/stockage/packages/f14/systemtap/po/en.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1 | 6483 | 0.0 | /mnt/stockage/packages/f14/systemtap/po/pl.po | 
+ | [fr](/f14/language/fr) | 2834 | 6483 | 43.7 | /mnt/stockage/packages/f14/systemtap/po/fr.po | 
+ | [en](/f14/language/en) | 646 | 6483 | 10.0 | /mnt/stockage/packages/f14/systemtap/po/en.po | 
+ | [pl](/f14/language/pl) | 1 | 6483 | 0.0 | /mnt/stockage/packages/f14/systemtap/po/pl.po | 
 {.sortable}
 
 

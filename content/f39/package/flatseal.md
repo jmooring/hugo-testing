@@ -18,27 +18,27 @@ The package flatseal (version 2.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/bg_BG.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/de.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/sv.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/ta.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/tr.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 476 | 477 | 99.8 | /mnt/stockage/packages/f39/flatseal/po/zh_CN.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 474 | 477 | 99.4 | /mnt/stockage/packages/f39/flatseal/po/he.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/cs.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/hu.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/nb.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/pl.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 472 | 477 | 99.0 | /mnt/stockage/packages/f39/flatseal/po/es.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 472 | 477 | 99.0 | /mnt/stockage/packages/f39/flatseal/po/pt_BR.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 472 | 477 | 99.0 | /mnt/stockage/packages/f39/flatseal/po/uk.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 464 | 477 | 97.3 | /mnt/stockage/packages/f39/flatseal/po/ca.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 464 | 477 | 97.3 | /mnt/stockage/packages/f39/flatseal/po/da.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 464 | 477 | 97.3 | /mnt/stockage/packages/f39/flatseal/po/id.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 460 | 477 | 96.4 | /mnt/stockage/packages/f39/flatseal/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 460 | 477 | 96.4 | /mnt/stockage/packages/f39/flatseal/po/it.po | 
+ | [bg](/f39/language/bg) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/bg_BG.po | 
+ | [de](/f39/language/de) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/de.po | 
+ | [ru](/f39/language/ru) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/ru.po | 
+ | [sv](/f39/language/sv) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/sv.po | 
+ | [ta](/f39/language/ta) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/ta.po | 
+ | [tr](/f39/language/tr) | 477 | 477 | 100.0 | /mnt/stockage/packages/f39/flatseal/po/tr.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 476 | 477 | 99.8 | /mnt/stockage/packages/f39/flatseal/po/zh_CN.po | 
+ | [he](/f39/language/he) | 474 | 477 | 99.4 | /mnt/stockage/packages/f39/flatseal/po/he.po | 
+ | [cs](/f39/language/cs) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/cs.po | 
+ | [hu](/f39/language/hu) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/hu.po | 
+ | [nb_NO](/f39/language/nb_NO) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/nb.po | 
+ | [nl](/f39/language/nl) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/nl.po | 
+ | [pl](/f39/language/pl) | 473 | 477 | 99.2 | /mnt/stockage/packages/f39/flatseal/po/pl.po | 
+ | [es](/f39/language/es) | 472 | 477 | 99.0 | /mnt/stockage/packages/f39/flatseal/po/es.po | 
+ | [pt_BR](/f39/language/pt_BR) | 472 | 477 | 99.0 | /mnt/stockage/packages/f39/flatseal/po/pt_BR.po | 
+ | [uk](/f39/language/uk) | 472 | 477 | 99.0 | /mnt/stockage/packages/f39/flatseal/po/uk.po | 
+ | [ca](/f39/language/ca) | 464 | 477 | 97.3 | /mnt/stockage/packages/f39/flatseal/po/ca.po | 
+ | [da](/f39/language/da) | 464 | 477 | 97.3 | /mnt/stockage/packages/f39/flatseal/po/da.po | 
+ | [id](/f39/language/id) | 464 | 477 | 97.3 | /mnt/stockage/packages/f39/flatseal/po/id.po | 
+ | [fr](/f39/language/fr) | 460 | 477 | 96.4 | /mnt/stockage/packages/f39/flatseal/po/fr.po | 
+ | [it](/f39/language/it) | 460 | 477 | 96.4 | /mnt/stockage/packages/f39/flatseal/po/it.po | 
 {.sortable}
 
 

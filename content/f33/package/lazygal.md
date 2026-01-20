@@ -18,10 +18,10 @@ The package lazygal (version 0.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 780 | 780 | 100.0 | /mnt/stockage/packages/f33/lazygal/locale/fr_FR.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 621 | 780 | 79.6 | /mnt/stockage/packages/f33/lazygal/locale/it_IT.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 614 | 780 | 78.7 | /mnt/stockage/packages/f33/lazygal/locale/cs_CZ.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 79 | 780 | 10.1 | /mnt/stockage/packages/f33/lazygal/locale/da.po | 
+ | [fr](/f33/language/fr) | 780 | 780 | 100.0 | /mnt/stockage/packages/f33/lazygal/locale/fr_FR.po | 
+ | [it](/f33/language/it) | 621 | 780 | 79.6 | /mnt/stockage/packages/f33/lazygal/locale/it_IT.po | 
+ | [cs](/f33/language/cs) | 614 | 780 | 78.7 | /mnt/stockage/packages/f33/lazygal/locale/cs_CZ.po | 
+ | [da](/f33/language/da) | 79 | 780 | 10.1 | /mnt/stockage/packages/f33/lazygal/locale/da.po | 
 {.sortable}
 
 

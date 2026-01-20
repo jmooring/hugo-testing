@@ -46,42 +46,42 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar]({{< ref "/f43/package/sugar.md" >}}) | 794 | 2305 | 34.4 | sm | 
- | [sugar-toolkit-gtk3]({{< ref "/f43/package/sugar-toolkit-gtk3.md" >}}) | 47 | 213 | 22.1 | sm | 
- | [sugar-memorize]({{< ref "/f43/package/sugar-memorize.md" >}}) | 22 | 142 | 15.5 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f43/package/sugar-physics.md" >}}) | 6 | 48 | 12.5 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f43/package/sugar-view-slides.md" >}}) | 6 | 60 | 10.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f43/package/sugar-abacus.md" >}}) | 3 | 34 | 8.8 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f43/package/sugar-implode.md" >}}) | 3 | 77 | 3.9 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f43/package/sugar-record.md" >}}) | 2 | 62 | 3.2 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f43/package/sugar-speak.md" >}}) | 6 | 227 | 2.6 | LANGUAGE <LL@li.org> | 
- | [sugar-dimensions]({{< ref "/f43/package/sugar-dimensions.md" >}}) | 4 | 161 | 2.5 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f43/package/sugar-finance.md" >}}) | 5 | 258 | 1.9 | LANGUAGE <LL@li.org> | 
- | [vlc]({{< ref "/f43/package/vlc.md" >}}) | 616 | 34814 | 1.8 | Samoan (https://app.transifex.com/yaron/teams/16553/sm/) | 
- | [sugar-flipsticks]({{< ref "/f43/package/sugar-flipsticks.md" >}}) | 2 | 151 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f43/package/sugar-browse.md" >}}) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f43/package/sugar-distance.md" >}}) | 1 | 99 | 1.0 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f43/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [dippi]({{< ref "/f43/package/dippi.md" >}}) | 0 | 1653 | 0.0 | none | 
- | [elementary-code]({{< ref "/f43/package/elementary-code.md" >}}) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f43/package/elementary-files.md" >}}) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f43/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f43/package/elementary-music.md" >}}) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f43/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot]({{< ref "/f43/package/elementary-screenshot.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f43/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 0 | 596 | 0.0 |  | 
- | [regextester]({{< ref "/f43/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-clock]({{< ref "/f43/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f43/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f43/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f43/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f43/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f43/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [sugar](/f43/package/sugar) | 794 | 2305 | 34.4 | sm | 
+ | [sugar-toolkit-gtk3](/f43/package/sugar-toolkit-gtk3) | 47 | 213 | 22.1 | sm | 
+ | [sugar-memorize](/f43/package/sugar-memorize) | 22 | 142 | 15.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f43/package/sugar-physics) | 6 | 48 | 12.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f43/package/sugar-view-slides) | 6 | 60 | 10.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f43/package/sugar-abacus) | 3 | 34 | 8.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f43/package/sugar-implode) | 3 | 77 | 3.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f43/package/sugar-record) | 2 | 62 | 3.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f43/package/sugar-speak) | 6 | 227 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-dimensions](/f43/package/sugar-dimensions) | 4 | 161 | 2.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f43/package/sugar-finance) | 5 | 258 | 1.9 | LANGUAGE <LL@li.org> | 
+ | [vlc](/f43/package/vlc) | 616 | 34814 | 1.8 | Samoan (https://app.transifex.com/yaron/teams/16553/sm/) | 
+ | [sugar-flipsticks](/f43/package/sugar-flipsticks) | 2 | 151 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f43/package/sugar-browse) | 4 | 334 | 1.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f43/package/sugar-distance) | 1 | 99 | 1.0 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f43/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [dippi](/f43/package/dippi) | 0 | 1653 | 0.0 | none | 
+ | [elementary-code](/f43/package/elementary-code) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f43/package/elementary-files) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f43/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f43/package/elementary-music) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-photos](/f43/package/elementary-photos) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot](/f43/package/elementary-screenshot) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f43/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f43/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f43/package/granite-7) | 0 | 596 | 0.0 |  | 
+ | [regextester](/f43/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-clock](/f43/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f43/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f43/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f43/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f43/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f43/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

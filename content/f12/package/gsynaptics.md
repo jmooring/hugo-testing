@@ -18,17 +18,17 @@ The package gsynaptics (version 0.9.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/ar.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/es.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/hu.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/ja.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/pl.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 64 | 65 | 98.5 | /mnt/stockage/packages/f12/gsynaptics/po/zh_CN.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 44 | 65 | 67.7 | /mnt/stockage/packages/f12/gsynaptics/po/ru.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 43 | 65 | 66.2 | /mnt/stockage/packages/f12/gsynaptics/po/fr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 31 | 65 | 47.7 | /mnt/stockage/packages/f12/gsynaptics/po/nb.po | 
+ | [ar](/f12/language/ar) | 72 | 72 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/ar.po | 
+ | [el](/f12/language/el) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/el.po | 
+ | [es](/f12/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/es.po | 
+ | [hu](/f12/language/hu) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/hu.po | 
+ | [ja](/f12/language/ja) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/ja.po | 
+ | [pl](/f12/language/pl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/pl.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 65 | 65 | 100.0 | /mnt/stockage/packages/f12/gsynaptics/po/zh_TW.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 64 | 65 | 98.5 | /mnt/stockage/packages/f12/gsynaptics/po/zh_CN.po | 
+ | [ru](/f12/language/ru) | 44 | 65 | 67.7 | /mnt/stockage/packages/f12/gsynaptics/po/ru.po | 
+ | [fr](/f12/language/fr) | 43 | 65 | 66.2 | /mnt/stockage/packages/f12/gsynaptics/po/fr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 31 | 65 | 47.7 | /mnt/stockage/packages/f12/gsynaptics/po/nb.po | 
 {.sortable}
 
 

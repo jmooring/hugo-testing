@@ -18,11 +18,11 @@ The package partclone (version 0.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 202 | 220 | 91.8 | /mnt/stockage/packages/f25/partclone/po/pt_BR.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 167 | 220 | 75.9 | /mnt/stockage/packages/f25/partclone/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 129 | 220 | 58.6 | /mnt/stockage/packages/f25/partclone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 129 | 220 | 58.6 | /mnt/stockage/packages/f25/partclone/po/zh_TW.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 91 | 220 | 41.4 | /mnt/stockage/packages/f25/partclone/po/fr_FR.po | 
+ | [pt_BR](/f25/language/pt_BR) | 202 | 220 | 91.8 | /mnt/stockage/packages/f25/partclone/po/pt_BR.po | 
+ | [vi](/f25/language/vi) | 167 | 220 | 75.9 | /mnt/stockage/packages/f25/partclone/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 129 | 220 | 58.6 | /mnt/stockage/packages/f25/partclone/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 129 | 220 | 58.6 | /mnt/stockage/packages/f25/partclone/po/zh_TW.po | 
+ | [fr](/f25/language/fr) | 91 | 220 | 41.4 | /mnt/stockage/packages/f25/partclone/po/fr_FR.po | 
 {.sortable}
 
 

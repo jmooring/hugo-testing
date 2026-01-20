@@ -18,78 +18,78 @@ The package anjuta (version 3.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 7744 | 7744 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/ast.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 8086 | 8086 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/bg.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 8397 | 8397 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/bs.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 25695 | 25695 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-build-tutorial/cs/cs.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/cs/cs.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/cs/cs.po/mnt/stockage/packages/f42/anjuta/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 8444 | 8444 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/da/da.po/mnt/stockage/packages/f42/anjuta/po/da.po | 
- | [dz]({{< ref "/f42/language/dz.md" >}}) | 7109 | 7109 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/dz.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 18892 | 18892 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/el/el.po/mnt/stockage/packages/f42/anjuta/po/el.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 7910 | 7910 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/en_CA.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/en_GB.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 20886 | 20886 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/eu/eu.po/mnt/stockage/packages/f42/anjuta/po/eu.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 18898 | 18898 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/fr/fr.po/mnt/stockage/packages/f42/anjuta/po/fr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 18892 | 18892 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/hu/hu.po/mnt/stockage/packages/f42/anjuta/po/hu.po | 
- | [hy]({{< ref "/f42/language/hy.md" >}}) | 7981 | 7981 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/hy.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/it.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/km.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/lt.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/lv.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 7325 | 7325 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/mr.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/pt.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 8401 | 8401 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/sk.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 16805 | 16805 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/sr@latin.po/mnt/stockage/packages/f42/anjuta/po/sr.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 7974 | 7974 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/te.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 22012 | 22012 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/th/th.po/mnt/stockage/packages/f42/anjuta/po/th.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/tr.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 7905 | 7905 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/vi.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 8394 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/zh_HK.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 8136 | 8143 | 99.9 | /mnt/stockage/packages/f42/anjuta/po/ug.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 8398 | 8407 | 99.9 | /mnt/stockage/packages/f42/anjuta/po/ca@valencia.po | 
- | [be_Latn]({{< ref "/f42/language/be_Latn.md" >}}) | 6323 | 6943 | 91.1 | /mnt/stockage/packages/f42/anjuta/po/be@latin.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 21062 | 25695 | 82.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-build-tutorial/de/de.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/de/de.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/de/de.po/mnt/stockage/packages/f42/anjuta/po/de.po | 
- | [error]({{< ref "/f42/language/error.md" >}}) | 6462 | 7982 | 81.0 | /mnt/stockage/packages/f42/anjuta/po/en@shaw.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 20003 | 25695 | 77.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-build-tutorial/es/es.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/es/es.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/es/es.po/mnt/stockage/packages/f42/anjuta/po/es.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 4909 | 6438 | 76.3 | /mnt/stockage/packages/f42/anjuta/po/kn.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 5886 | 7802 | 75.4 | /mnt/stockage/packages/f42/anjuta/po/ar.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 4666 | 6713 | 69.5 | /mnt/stockage/packages/f42/anjuta/po/mk.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 5659 | 8397 | 67.4 | /mnt/stockage/packages/f42/anjuta/po/nb.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 10320 | 19181 | 53.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/ca/ca.po/mnt/stockage/packages/f42/anjuta/po/ca.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 4482 | 8398 | 53.4 | /mnt/stockage/packages/f42/anjuta/po/fi.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 9965 | 18898 | 52.7 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/sv/sv.po/mnt/stockage/packages/f42/anjuta/po/sv.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 8460 | 16732 | 50.6 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/ja/ja.po/mnt/stockage/packages/f42/anjuta/po/ja.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 9579 | 18993 | 50.4 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/gl/gl.po/mnt/stockage/packages/f42/anjuta/po/gl.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 3514 | 7069 | 49.7 | /mnt/stockage/packages/f42/anjuta/po/az.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 9635 | 19388 | 49.7 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/pt_BR/pt_BR.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/pt_BR/pt_BR.po/mnt/stockage/packages/f42/anjuta/po/pt_BR.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 3993 | 8398 | 47.5 | /mnt/stockage/packages/f42/anjuta/po/ml.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 3302 | 7069 | 46.7 | /mnt/stockage/packages/f42/anjuta/po/ms.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 3643 | 7905 | 46.1 | /mnt/stockage/packages/f42/anjuta/po/nl.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 9766 | 22013 | 44.4 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/zh_CN/zh_CN.po/mnt/stockage/packages/f42/anjuta/po/zh_CN.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 3238 | 7797 | 41.5 | /mnt/stockage/packages/f42/anjuta/po/he.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 8518 | 20886 | 40.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/oc/oc.po/mnt/stockage/packages/f42/anjuta/po/oc.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 8423 | 22015 | 38.3 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/sl/sl.po/mnt/stockage/packages/f42/anjuta/po/sl.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 7229 | 19125 | 37.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/ro/ro.po/mnt/stockage/packages/f42/anjuta/po/ro.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 7522 | 21649 | 34.7 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/uk/uk.po/mnt/stockage/packages/f42/anjuta/po/uk.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 2766 | 8398 | 32.9 | /mnt/stockage/packages/f42/anjuta/po/ne.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 2171 | 8034 | 27.0 | /mnt/stockage/packages/f42/anjuta/po/hi.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 2049 | 7883 | 26.0 | /mnt/stockage/packages/f42/anjuta/po/gu.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 1559 | 7163 | 21.8 | /mnt/stockage/packages/f42/anjuta/po/sq.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 1741 | 8407 | 20.7 | /mnt/stockage/packages/f42/anjuta/po/eo.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 1573 | 8407 | 18.7 | /mnt/stockage/packages/f42/anjuta/po/fur.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 1293 | 7238 | 17.9 | /mnt/stockage/packages/f42/anjuta/po/si.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 1089 | 7069 | 15.4 | /mnt/stockage/packages/f42/anjuta/po/pa.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 684 | 8398 | 8.1 | /mnt/stockage/packages/f42/anjuta/po/kk.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 552 | 7818 | 7.1 | /mnt/stockage/packages/f42/anjuta/po/mai.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 443 | 6493 | 6.8 | /mnt/stockage/packages/f42/anjuta/po/ga.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 507 | 7883 | 6.4 | /mnt/stockage/packages/f42/anjuta/po/or.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 399 | 7069 | 5.6 | /mnt/stockage/packages/f42/anjuta/po/hr.po | 
- | [rw]({{< ref "/f42/language/rw.md" >}}) | 238 | 7069 | 3.4 | /mnt/stockage/packages/f42/anjuta/po/rw.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 27 | 8143 | 0.3 | /mnt/stockage/packages/f42/anjuta/po/tg.po | 
+ | [ast](/f42/language/ast) | 7744 | 7744 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/ast.po | 
+ | [bg](/f42/language/bg) | 8086 | 8086 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/bg.po | 
+ | [bs](/f42/language/bs) | 8397 | 8397 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/bs.po | 
+ | [cs](/f42/language/cs) | 25695 | 25695 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-build-tutorial/cs/cs.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/cs/cs.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/cs/cs.po/mnt/stockage/packages/f42/anjuta/po/cs.po | 
+ | [da](/f42/language/da) | 8444 | 8444 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/da/da.po/mnt/stockage/packages/f42/anjuta/po/da.po | 
+ | [dz](/f42/language/dz) | 7109 | 7109 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/dz.po | 
+ | [el](/f42/language/el) | 18892 | 18892 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/el/el.po/mnt/stockage/packages/f42/anjuta/po/el.po | 
+ | [en_CA](/f42/language/en_CA) | 7910 | 7910 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/en_CA.po | 
+ | [en_GB](/f42/language/en_GB) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/en_GB.po | 
+ | [eu](/f42/language/eu) | 20886 | 20886 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/eu/eu.po/mnt/stockage/packages/f42/anjuta/po/eu.po | 
+ | [fr](/f42/language/fr) | 18898 | 18898 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/fr/fr.po/mnt/stockage/packages/f42/anjuta/po/fr.po | 
+ | [hu](/f42/language/hu) | 18892 | 18892 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/hu/hu.po/mnt/stockage/packages/f42/anjuta/po/hu.po | 
+ | [hy](/f42/language/hy) | 7981 | 7981 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/hy.po | 
+ | [id](/f42/language/id) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/id.po | 
+ | [it](/f42/language/it) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/it.po | 
+ | [km](/f42/language/km) | 7908 | 7908 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/km.po | 
+ | [ko](/f42/language/ko) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/ko.po | 
+ | [lt](/f42/language/lt) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/lt.po | 
+ | [lv](/f42/language/lv) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/lv.po | 
+ | [mr](/f42/language/mr) | 7325 | 7325 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/mr.po | 
+ | [pl](/f42/language/pl) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/pl.po | 
+ | [pt](/f42/language/pt) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/pt.po | 
+ | [ru](/f42/language/ru) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/ru.po | 
+ | [sk](/f42/language/sk) | 8401 | 8401 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/sk.po | 
+ | [sr](/f42/language/sr) | 16805 | 16805 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/sr@latin.po/mnt/stockage/packages/f42/anjuta/po/sr.po | 
+ | [te](/f42/language/te) | 7974 | 7974 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/te.po | 
+ | [th](/f42/language/th) | 22012 | 22012 | 100.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/th/th.po/mnt/stockage/packages/f42/anjuta/po/th.po | 
+ | [tr](/f42/language/tr) | 8407 | 8407 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/tr.po | 
+ | [vi](/f42/language/vi) | 7905 | 7905 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/vi.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 8398 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/zh_TW.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 8394 | 8398 | 100.0 | /mnt/stockage/packages/f42/anjuta/po/zh_HK.po | 
+ | [ug](/f42/language/ug) | 8136 | 8143 | 99.9 | /mnt/stockage/packages/f42/anjuta/po/ug.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 8398 | 8407 | 99.9 | /mnt/stockage/packages/f42/anjuta/po/ca@valencia.po | 
+ | [be_Latn](/f42/language/be_Latn) | 6323 | 6943 | 91.1 | /mnt/stockage/packages/f42/anjuta/po/be@latin.po | 
+ | [de](/f42/language/de) | 21062 | 25695 | 82.0 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-build-tutorial/de/de.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/de/de.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/de/de.po/mnt/stockage/packages/f42/anjuta/po/de.po | 
+ | [error](/f42/language/error) | 6462 | 7982 | 81.0 | /mnt/stockage/packages/f42/anjuta/po/en@shaw.po | 
+ | [es](/f42/language/es) | 20003 | 25695 | 77.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-build-tutorial/es/es.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/es/es.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/es/es.po/mnt/stockage/packages/f42/anjuta/po/es.po | 
+ | [kn](/f42/language/kn) | 4909 | 6438 | 76.3 | /mnt/stockage/packages/f42/anjuta/po/kn.po | 
+ | [ar](/f42/language/ar) | 5886 | 7802 | 75.4 | /mnt/stockage/packages/f42/anjuta/po/ar.po | 
+ | [mk](/f42/language/mk) | 4666 | 6713 | 69.5 | /mnt/stockage/packages/f42/anjuta/po/mk.po | 
+ | [nb_NO](/f42/language/nb_NO) | 5659 | 8397 | 67.4 | /mnt/stockage/packages/f42/anjuta/po/nb.po | 
+ | [ca](/f42/language/ca) | 10320 | 19181 | 53.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/ca/ca.po/mnt/stockage/packages/f42/anjuta/po/ca.po | 
+ | [fi](/f42/language/fi) | 4482 | 8398 | 53.4 | /mnt/stockage/packages/f42/anjuta/po/fi.po | 
+ | [sv](/f42/language/sv) | 9965 | 18898 | 52.7 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/sv/sv.po/mnt/stockage/packages/f42/anjuta/po/sv.po | 
+ | [ja](/f42/language/ja) | 8460 | 16732 | 50.6 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/ja/ja.po/mnt/stockage/packages/f42/anjuta/po/ja.po | 
+ | [gl](/f42/language/gl) | 9579 | 18993 | 50.4 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/gl/gl.po/mnt/stockage/packages/f42/anjuta/po/gl.po | 
+ | [az](/f42/language/az) | 3514 | 7069 | 49.7 | /mnt/stockage/packages/f42/anjuta/po/az.po | 
+ | [pt_BR](/f42/language/pt_BR) | 9635 | 19388 | 49.7 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-faqs/pt_BR/pt_BR.po/mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/pt_BR/pt_BR.po/mnt/stockage/packages/f42/anjuta/po/pt_BR.po | 
+ | [ml](/f42/language/ml) | 3993 | 8398 | 47.5 | /mnt/stockage/packages/f42/anjuta/po/ml.po | 
+ | [ms](/f42/language/ms) | 3302 | 7069 | 46.7 | /mnt/stockage/packages/f42/anjuta/po/ms.po | 
+ | [nl](/f42/language/nl) | 3643 | 7905 | 46.1 | /mnt/stockage/packages/f42/anjuta/po/nl.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 9766 | 22013 | 44.4 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/zh_CN/zh_CN.po/mnt/stockage/packages/f42/anjuta/po/zh_CN.po | 
+ | [he](/f42/language/he) | 3238 | 7797 | 41.5 | /mnt/stockage/packages/f42/anjuta/po/he.po | 
+ | [oc](/f42/language/oc) | 8518 | 20886 | 40.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/oc/oc.po/mnt/stockage/packages/f42/anjuta/po/oc.po | 
+ | [sl](/f42/language/sl) | 8423 | 22015 | 38.3 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/sl/sl.po/mnt/stockage/packages/f42/anjuta/po/sl.po | 
+ | [ro](/f42/language/ro) | 7229 | 19125 | 37.8 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/ro/ro.po/mnt/stockage/packages/f42/anjuta/po/ro.po | 
+ | [uk](/f42/language/uk) | 7522 | 21649 | 34.7 | /mnt/stockage/packages/f42/anjuta/manuals/anjuta-manual/uk/uk.po/mnt/stockage/packages/f42/anjuta/po/uk.po | 
+ | [ne](/f42/language/ne) | 2766 | 8398 | 32.9 | /mnt/stockage/packages/f42/anjuta/po/ne.po | 
+ | [hi](/f42/language/hi) | 2171 | 8034 | 27.0 | /mnt/stockage/packages/f42/anjuta/po/hi.po | 
+ | [gu](/f42/language/gu) | 2049 | 7883 | 26.0 | /mnt/stockage/packages/f42/anjuta/po/gu.po | 
+ | [sq](/f42/language/sq) | 1559 | 7163 | 21.8 | /mnt/stockage/packages/f42/anjuta/po/sq.po | 
+ | [eo](/f42/language/eo) | 1741 | 8407 | 20.7 | /mnt/stockage/packages/f42/anjuta/po/eo.po | 
+ | [fur](/f42/language/fur) | 1573 | 8407 | 18.7 | /mnt/stockage/packages/f42/anjuta/po/fur.po | 
+ | [si](/f42/language/si) | 1293 | 7238 | 17.9 | /mnt/stockage/packages/f42/anjuta/po/si.po | 
+ | [pa](/f42/language/pa) | 1089 | 7069 | 15.4 | /mnt/stockage/packages/f42/anjuta/po/pa.po | 
+ | [kk](/f42/language/kk) | 684 | 8398 | 8.1 | /mnt/stockage/packages/f42/anjuta/po/kk.po | 
+ | [mai](/f42/language/mai) | 552 | 7818 | 7.1 | /mnt/stockage/packages/f42/anjuta/po/mai.po | 
+ | [ga](/f42/language/ga) | 443 | 6493 | 6.8 | /mnt/stockage/packages/f42/anjuta/po/ga.po | 
+ | [or](/f42/language/or) | 507 | 7883 | 6.4 | /mnt/stockage/packages/f42/anjuta/po/or.po | 
+ | [hr](/f42/language/hr) | 399 | 7069 | 5.6 | /mnt/stockage/packages/f42/anjuta/po/hr.po | 
+ | [rw](/f42/language/rw) | 238 | 7069 | 3.4 | /mnt/stockage/packages/f42/anjuta/po/rw.po | 
+ | [tg](/f42/language/tg) | 27 | 8143 | 0.3 | /mnt/stockage/packages/f42/anjuta/po/tg.po | 
 {.sortable}
 
 

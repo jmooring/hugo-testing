@@ -18,7 +18,7 @@ The package drupal-calendar (version 6.x.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f13/drupal-calendar/calendar_ical/translations/calendar_ical.sv.po/mnt/stockage/packages/f13/drupal-calendar/jcalendar/translations/jcalendar.sv.po/mnt/stockage/packages/f13/drupal-calendar/translations/calendar.sv.po | 
+ | [sv](/f13/language/sv) | 480 | 480 | 100.0 | /mnt/stockage/packages/f13/drupal-calendar/calendar_ical/translations/calendar_ical.sv.po/mnt/stockage/packages/f13/drupal-calendar/jcalendar/translations/jcalendar.sv.po/mnt/stockage/packages/f13/drupal-calendar/translations/calendar.sv.po | 
 {.sortable}
 
 

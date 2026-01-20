@@ -18,30 +18,30 @@ The package guake (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f23/guake/po/fr.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f23/guake/po/pl.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 1029 | 1066 | 96.5 | /mnt/stockage/packages/f23/guake/po/ko.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1002 | 1066 | 94.0 | /mnt/stockage/packages/f23/guake/po/ru.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 971 | 1066 | 91.1 | /mnt/stockage/packages/f23/guake/po/cs.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 971 | 1066 | 91.1 | /mnt/stockage/packages/f23/guake/po/it.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 969 | 1066 | 90.9 | /mnt/stockage/packages/f23/guake/po/de.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 923 | 1066 | 86.6 | /mnt/stockage/packages/f23/guake/po/pt_BR.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 896 | 1066 | 84.1 | /mnt/stockage/packages/f23/guake/po/es.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 762 | 1066 | 71.5 | /mnt/stockage/packages/f23/guake/po/zh_CN.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/ca.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/gl.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/hr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/hu.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/nl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/uk.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 381 | 1066 | 35.7 | /mnt/stockage/packages/f23/guake/po/fa.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 343 | 1066 | 32.2 | /mnt/stockage/packages/f23/guake/po/el.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 287 | 1066 | 26.9 | /mnt/stockage/packages/f23/guake/po/ja.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 193 | 1066 | 18.1 | /mnt/stockage/packages/f23/guake/po/pa.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 129 | 1066 | 12.1 | /mnt/stockage/packages/f23/guake/po/id.po | 
+ | [fr](/f23/language/fr) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f23/guake/po/fr.po | 
+ | [pl](/f23/language/pl) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f23/guake/po/pl.po | 
+ | [ko](/f23/language/ko) | 1029 | 1066 | 96.5 | /mnt/stockage/packages/f23/guake/po/ko.po | 
+ | [ru](/f23/language/ru) | 1002 | 1066 | 94.0 | /mnt/stockage/packages/f23/guake/po/ru.po | 
+ | [cs](/f23/language/cs) | 971 | 1066 | 91.1 | /mnt/stockage/packages/f23/guake/po/cs.po | 
+ | [it](/f23/language/it) | 971 | 1066 | 91.1 | /mnt/stockage/packages/f23/guake/po/it.po | 
+ | [de](/f23/language/de) | 969 | 1066 | 90.9 | /mnt/stockage/packages/f23/guake/po/de.po | 
+ | [pt_BR](/f23/language/pt_BR) | 923 | 1066 | 86.6 | /mnt/stockage/packages/f23/guake/po/pt_BR.po | 
+ | [es](/f23/language/es) | 896 | 1066 | 84.1 | /mnt/stockage/packages/f23/guake/po/es.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 762 | 1066 | 71.5 | /mnt/stockage/packages/f23/guake/po/zh_CN.po | 
+ | [ca](/f23/language/ca) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/ca.po | 
+ | [gl](/f23/language/gl) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/gl.po | 
+ | [hr](/f23/language/hr) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/hr.po | 
+ | [hu](/f23/language/hu) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/hu.po | 
+ | [nb_NO](/f23/language/nb_NO) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/nb.po | 
+ | [nl](/f23/language/nl) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/nl.po | 
+ | [sv](/f23/language/sv) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/sv.po | 
+ | [tr](/f23/language/tr) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/tr.po | 
+ | [uk](/f23/language/uk) | 395 | 1066 | 37.1 | /mnt/stockage/packages/f23/guake/po/uk.po | 
+ | [fa](/f23/language/fa) | 381 | 1066 | 35.7 | /mnt/stockage/packages/f23/guake/po/fa.po | 
+ | [el](/f23/language/el) | 343 | 1066 | 32.2 | /mnt/stockage/packages/f23/guake/po/el.po | 
+ | [ja](/f23/language/ja) | 287 | 1066 | 26.9 | /mnt/stockage/packages/f23/guake/po/ja.po | 
+ | [pa](/f23/language/pa) | 193 | 1066 | 18.1 | /mnt/stockage/packages/f23/guake/po/pa.po | 
+ | [id](/f23/language/id) | 129 | 1066 | 12.1 | /mnt/stockage/packages/f23/guake/po/id.po | 
 {.sortable}
 
 

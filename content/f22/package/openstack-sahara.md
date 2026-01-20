@@ -18,8 +18,8 @@ The package openstack-sahara (version 2014.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 54 | 242 | 22.3 | /mnt/stockage/packages/f22/openstack-sahara/sahara/locale/fr/LC_MESSAGES/sahara-log-error.po/mnt/stockage/packages/f22/openstack-sahara/sahara/locale/fr/LC_MESSAGES/sahara-log-critical.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 45 | 227 | 19.8 | /mnt/stockage/packages/f22/openstack-sahara/sahara/locale/en_GB/LC_MESSAGES/sahara-log-error.po | 
+ | [fr](/f22/language/fr) | 54 | 242 | 22.3 | /mnt/stockage/packages/f22/openstack-sahara/sahara/locale/fr/LC_MESSAGES/sahara-log-error.po/mnt/stockage/packages/f22/openstack-sahara/sahara/locale/fr/LC_MESSAGES/sahara-log-critical.po | 
+ | [en_GB](/f22/language/en_GB) | 45 | 227 | 19.8 | /mnt/stockage/packages/f22/openstack-sahara/sahara/locale/en_GB/LC_MESSAGES/sahara-log-error.po | 
 {.sortable}
 
 

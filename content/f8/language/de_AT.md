@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gdeskcal]({{< ref "/f8/package/gdeskcal.md" >}}) | 85 | 85 | 100.0 |  | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [gourmet]({{< ref "/f8/package/gourmet.md" >}}) | 1448 | 3526 | 41.1 | German (Austria) <de_AT@li.org> | 
- | [gpsdrive]({{< ref "/f8/package/gpsdrive.md" >}}) | 673 | 2377 | 28.3 | german <de@li.org> | 
- | [perl-libintl]({{< ref "/f8/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [tetex]({{< ref "/f8/package/tetex.md" >}}) | 1 | 4382 | 0.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f8/package/texinfo.md" >}}) | 1 | 4581 | 0.0 | German <de@li.org> | 
+ | [gdeskcal](/f8/package/gdeskcal) | 85 | 85 | 100.0 |  | 
+ | [gnomebaker](/f8/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [gourmet](/f8/package/gourmet) | 1448 | 3526 | 41.1 | German (Austria) <de_AT@li.org> | 
+ | [gpsdrive](/f8/package/gpsdrive) | 673 | 2377 | 28.3 | german <de@li.org> | 
+ | [perl-libintl](/f8/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [tetex](/f8/package/tetex) | 1 | 4382 | 0.0 | German <de@li.org> | 
+ | [texinfo](/f8/package/texinfo) | 1 | 4581 | 0.0 | German <de@li.org> | 
 {.sortable}
 
 

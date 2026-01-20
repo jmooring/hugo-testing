@@ -18,59 +18,59 @@ The package kf5-libkcddb (version 17.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/bg/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/bg/libkcddb.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/bs/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/bs/libkcddb.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ca/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ca/libkcddb.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ca@valencia/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ca@valencia/libkcddb.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/da/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/da/libkcddb.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/de/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/de/libkcddb.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/el/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/el/libkcddb.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/en_GB/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/en_GB/libkcddb.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/es/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/es/libkcddb.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/et/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/et/libkcddb.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/fi/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/fi/libkcddb.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/fr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/fr/libkcddb.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ga/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ga/libkcddb.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/gl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/gl/libkcddb.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/hu/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/hu/libkcddb.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ia/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ia/libkcddb.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/is/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/is/libkcddb.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/it/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/it/libkcddb.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/kk/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/kk/libkcddb.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/km/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/km/libkcddb.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ko/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ko/libkcddb.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/mr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/mr/libkcddb.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nb/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nb/libkcddb.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nds/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nds/libkcddb.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nl/libkcddb.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nn/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nn/libkcddb.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pl/libkcddb.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pt/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pt/libkcddb.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pt_BR/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pt_BR/libkcddb.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ru/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ru/libkcddb.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sk/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sk/libkcddb.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sl/libkcddb.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sr/libkcddb.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sv/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sv/libkcddb.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/tr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/tr/libkcddb.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/uk/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/uk/libkcddb.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/zh_CN/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/zh_CN/libkcddb.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/zh_TW/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/zh_TW/libkcddb.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 555 | 557 | 99.6 | /mnt/stockage/packages/f27/kf5-libkcddb/po/cs/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/cs/libkcddb.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 506 | 557 | 90.8 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ug/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ug/libkcddb.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 426 | 557 | 76.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ar/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ar/libkcddb.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 426 | 557 | 76.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/lt/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/lt/libkcddb.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 426 | 557 | 76.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/lv/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/lv/libkcddb.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 424 | 557 | 76.1 | /mnt/stockage/packages/f27/kf5-libkcddb/po/eu/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/eu/libkcddb.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 414 | 557 | 74.3 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ja/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ja/libkcddb.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 412 | 557 | 74.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/he/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/he/libkcddb.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 402 | 557 | 72.2 | /mnt/stockage/packages/f27/kf5-libkcddb/po/fa/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/fa/libkcddb.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 382 | 557 | 68.6 | /mnt/stockage/packages/f27/kf5-libkcddb/po/hi/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/hi/libkcddb.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 326 | 557 | 58.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ro/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ro/libkcddb.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 307 | 557 | 55.1 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pa/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pa/libkcddb.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 110 | 557 | 19.7 | /mnt/stockage/packages/f27/kf5-libkcddb/po/eo/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/eo/libkcddb.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 5 | 557 | 0.9 | /mnt/stockage/packages/f27/kf5-libkcddb/po/hr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/hr/libkcddb.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 3 | 557 | 0.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ast/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ast/libkcddb.po | 
+ | [bg](/f27/language/bg) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/bg/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/bg/libkcddb.po | 
+ | [bs](/f27/language/bs) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/bs/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/bs/libkcddb.po | 
+ | [ca](/f27/language/ca) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ca/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ca/libkcddb.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ca@valencia/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ca@valencia/libkcddb.po | 
+ | [da](/f27/language/da) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/da/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/da/libkcddb.po | 
+ | [de](/f27/language/de) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/de/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/de/libkcddb.po | 
+ | [el](/f27/language/el) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/el/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/el/libkcddb.po | 
+ | [en_GB](/f27/language/en_GB) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/en_GB/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/en_GB/libkcddb.po | 
+ | [es](/f27/language/es) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/es/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/es/libkcddb.po | 
+ | [et](/f27/language/et) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/et/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/et/libkcddb.po | 
+ | [fi](/f27/language/fi) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/fi/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/fi/libkcddb.po | 
+ | [fr](/f27/language/fr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/fr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/fr/libkcddb.po | 
+ | [ga](/f27/language/ga) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ga/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ga/libkcddb.po | 
+ | [gl](/f27/language/gl) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/gl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/gl/libkcddb.po | 
+ | [hu](/f27/language/hu) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/hu/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/hu/libkcddb.po | 
+ | [ia](/f27/language/ia) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ia/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ia/libkcddb.po | 
+ | [is](/f27/language/is) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/is/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/is/libkcddb.po | 
+ | [it](/f27/language/it) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/it/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/it/libkcddb.po | 
+ | [kk](/f27/language/kk) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/kk/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/kk/libkcddb.po | 
+ | [km](/f27/language/km) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/km/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/km/libkcddb.po | 
+ | [ko](/f27/language/ko) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ko/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ko/libkcddb.po | 
+ | [mr](/f27/language/mr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/mr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/mr/libkcddb.po | 
+ | [nb_NO](/f27/language/nb_NO) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nb/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nb/libkcddb.po | 
+ | [nds](/f27/language/nds) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nds/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nds/libkcddb.po | 
+ | [nl](/f27/language/nl) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nl/libkcddb.po | 
+ | [nn](/f27/language/nn) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/nn/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/nn/libkcddb.po | 
+ | [pl](/f27/language/pl) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pl/libkcddb.po | 
+ | [pt](/f27/language/pt) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pt/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pt/libkcddb.po | 
+ | [pt_BR](/f27/language/pt_BR) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pt_BR/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pt_BR/libkcddb.po | 
+ | [ru](/f27/language/ru) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ru/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ru/libkcddb.po | 
+ | [sk](/f27/language/sk) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sk/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sk/libkcddb.po | 
+ | [sl](/f27/language/sl) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sl/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sl/libkcddb.po | 
+ | [sr](/f27/language/sr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sr/libkcddb.po | 
+ | [sv](/f27/language/sv) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/sv/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/sv/libkcddb.po | 
+ | [tr](/f27/language/tr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/tr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/tr/libkcddb.po | 
+ | [uk](/f27/language/uk) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/uk/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/uk/libkcddb.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/zh_CN/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/zh_CN/libkcddb.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 557 | 557 | 100.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/zh_TW/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/zh_TW/libkcddb.po | 
+ | [cs](/f27/language/cs) | 555 | 557 | 99.6 | /mnt/stockage/packages/f27/kf5-libkcddb/po/cs/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/cs/libkcddb.po | 
+ | [ug](/f27/language/ug) | 506 | 557 | 90.8 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ug/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ug/libkcddb.po | 
+ | [ar](/f27/language/ar) | 426 | 557 | 76.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ar/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ar/libkcddb.po | 
+ | [lt](/f27/language/lt) | 426 | 557 | 76.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/lt/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/lt/libkcddb.po | 
+ | [lv](/f27/language/lv) | 426 | 557 | 76.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/lv/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/lv/libkcddb.po | 
+ | [eu](/f27/language/eu) | 424 | 557 | 76.1 | /mnt/stockage/packages/f27/kf5-libkcddb/po/eu/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/eu/libkcddb.po | 
+ | [ja](/f27/language/ja) | 414 | 557 | 74.3 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ja/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ja/libkcddb.po | 
+ | [he](/f27/language/he) | 412 | 557 | 74.0 | /mnt/stockage/packages/f27/kf5-libkcddb/po/he/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/he/libkcddb.po | 
+ | [fa](/f27/language/fa) | 402 | 557 | 72.2 | /mnt/stockage/packages/f27/kf5-libkcddb/po/fa/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/fa/libkcddb.po | 
+ | [hi](/f27/language/hi) | 382 | 557 | 68.6 | /mnt/stockage/packages/f27/kf5-libkcddb/po/hi/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/hi/libkcddb.po | 
+ | [ro](/f27/language/ro) | 326 | 557 | 58.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ro/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ro/libkcddb.po | 
+ | [pa](/f27/language/pa) | 307 | 557 | 55.1 | /mnt/stockage/packages/f27/kf5-libkcddb/po/pa/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/pa/libkcddb.po | 
+ | [eo](/f27/language/eo) | 110 | 557 | 19.7 | /mnt/stockage/packages/f27/kf5-libkcddb/po/eo/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/eo/libkcddb.po | 
+ | [hr](/f27/language/hr) | 5 | 557 | 0.9 | /mnt/stockage/packages/f27/kf5-libkcddb/po/hr/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/hr/libkcddb.po | 
+ | [ast](/f27/language/ast) | 3 | 557 | 0.5 | /mnt/stockage/packages/f27/kf5-libkcddb/po/ast/kcmcddb.po/mnt/stockage/packages/f27/kf5-libkcddb/po/ast/libkcddb.po | 
 {.sortable}
 
 

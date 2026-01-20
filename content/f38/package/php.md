@@ -18,10 +18,10 @@ The package php (version 8.2.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/66265/de_DE/LC_MESSAGES/domain.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/66265/en_US/LC_MESSAGES/domain.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dgettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dgettextTest_switch.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dgettextTest_switched.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dngettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/dgettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/dgettextTest_switch.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/dngettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/locale/fi_FI/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/66265/fr_FR/LC_MESSAGES/domain.po | 
+ | [de](/f38/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/66265/de_DE/LC_MESSAGES/domain.po | 
+ | [en_US](/f38/language/en_US) | 15 | 15 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/66265/en_US/LC_MESSAGES/domain.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dgettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dgettextTest_switch.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dgettextTest_switched.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_CTYPE/dngettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/dgettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/dgettextTest_switch.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/dngettextTest.po/mnt/stockage/packages/f38/php/ext/gettext/tests/locale/en_US.UTF-8/LC_MESSAGES/messages.po | 
+ | [fi](/f38/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/locale/fi_FI/LC_MESSAGES/messages.po | 
+ | [fr](/f38/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f38/php/ext/gettext/tests/66265/fr_FR/LC_MESSAGES/domain.po | 
 {.sortable}
 
 

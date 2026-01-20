@@ -18,18 +18,18 @@ The package xfce4-xmms-plugin (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/de.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/hu.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/pl.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/tr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/ja.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/ko.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/vi.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/lt.po | 
+ | [ca](/f8/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/ca.po | 
+ | [cs](/f8/language/cs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/cs.po | 
+ | [de](/f8/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/de.po | 
+ | [eu](/f8/language/eu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/eu.po | 
+ | [fr](/f8/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/fr.po | 
+ | [hu](/f8/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/hu.po | 
+ | [pl](/f8/language/pl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/pl.po | 
+ | [tr](/f8/language/tr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/tr.po | 
+ | [ja](/f8/language/ja) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/ja.po | 
+ | [ko](/f8/language/ko) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/ko.po | 
+ | [vi](/f8/language/vi) | 14 | 52 | 26.9 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/vi.po | 
+ | [lt](/f8/language/lt) | 0 | 52 | 0.0 | /mnt/stockage/packages/f8/xfce4-xmms-plugin/po/lt.po | 
 {.sortable}
 
 

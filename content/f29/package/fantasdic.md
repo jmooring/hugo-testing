@@ -18,25 +18,25 @@ The package fantasdic (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f29/language/br.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/br.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/de.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/en_GB.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/sr@Latn.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/es.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/ja.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/pt_BR.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/sv.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 398 | 398 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/vi.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 375 | 398 | 94.2 | /mnt/stockage/packages/f29/fantasdic/po/ar.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 267 | 328 | 81.4 | /mnt/stockage/packages/f29/fantasdic/po/ca.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 113 | 398 | 28.4 | /mnt/stockage/packages/f29/fantasdic/po/oc.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 57 | 390 | 14.6 | /mnt/stockage/packages/f29/fantasdic/po/nb.po | 
+ | [br](/f29/language/br) | 69 | 69 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/br.po | 
+ | [cs](/f29/language/cs) | 406 | 406 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/cs.po | 
+ | [de](/f29/language/de) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/de.po | 
+ | [en_GB](/f29/language/en_GB) | 398 | 398 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/en_GB.po | 
+ | [error](/f29/language/error) | 75 | 75 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/sr@Latn.po | 
+ | [es](/f29/language/es) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/es.po | 
+ | [fi](/f29/language/fi) | 398 | 398 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/fi.po | 
+ | [fr](/f29/language/fr) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/fr.po | 
+ | [it](/f29/language/it) | 198 | 198 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/it.po | 
+ | [ja](/f29/language/ja) | 304 | 304 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/ja.po | 
+ | [pt](/f29/language/pt) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 390 | 390 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/pt_BR.po | 
+ | [sr](/f29/language/sr) | 75 | 75 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/sr.po | 
+ | [sv](/f29/language/sv) | 492 | 492 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/sv.po | 
+ | [vi](/f29/language/vi) | 398 | 398 | 100.0 | /mnt/stockage/packages/f29/fantasdic/po/vi.po | 
+ | [ar](/f29/language/ar) | 375 | 398 | 94.2 | /mnt/stockage/packages/f29/fantasdic/po/ar.po | 
+ | [ca](/f29/language/ca) | 267 | 328 | 81.4 | /mnt/stockage/packages/f29/fantasdic/po/ca.po | 
+ | [oc](/f29/language/oc) | 113 | 398 | 28.4 | /mnt/stockage/packages/f29/fantasdic/po/oc.po | 
+ | [nb_NO](/f29/language/nb_NO) | 57 | 390 | 14.6 | /mnt/stockage/packages/f29/fantasdic/po/nb.po | 
 {.sortable}
 
 

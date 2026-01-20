@@ -18,39 +18,39 @@ The package xfce4-systemload-plugin (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ca.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/en_GB.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/fr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ja.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ru.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/sq.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ug.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/zh_TW.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ar.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ast.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/cs.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/eu.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/gl.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/id.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ko.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/nb.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/pt_BR.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/tr.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 102 | 126 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ur_PK.po/mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ur.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 43 | 63 | 68.3 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/lt.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 43 | 63 | 68.3 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/vi.po | 
+ | [ca](/f15/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ca.po | 
+ | [da](/f15/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/da.po | 
+ | [de](/f15/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/en_GB.po | 
+ | [fr](/f15/language/fr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/fr.po | 
+ | [hu](/f15/language/hu) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/hu.po | 
+ | [it](/f15/language/it) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/it.po | 
+ | [ja](/f15/language/ja) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ja.po | 
+ | [pt](/f15/language/pt) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/pt.po | 
+ | [ru](/f15/language/ru) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ru.po | 
+ | [sq](/f15/language/sq) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/sq.po | 
+ | [ug](/f15/language/ug) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ug.po | 
+ | [uk](/f15/language/uk) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/zh_TW.po | 
+ | [ar](/f15/language/ar) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ar.po | 
+ | [ast](/f15/language/ast) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ast.po | 
+ | [cs](/f15/language/cs) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/cs.po | 
+ | [es](/f15/language/es) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/es.po | 
+ | [eu](/f15/language/eu) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/eu.po | 
+ | [gl](/f15/language/gl) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/gl.po | 
+ | [id](/f15/language/id) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/id.po | 
+ | [ko](/f15/language/ko) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ko.po | 
+ | [lv](/f15/language/lv) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/lv.po | 
+ | [nb_NO](/f15/language/nb_NO) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/nb.po | 
+ | [nl](/f15/language/nl) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/nl.po | 
+ | [pl](/f15/language/pl) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/pt_BR.po | 
+ | [sv](/f15/language/sv) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/sv.po | 
+ | [tr](/f15/language/tr) | 51 | 63 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/tr.po | 
+ | [ur](/f15/language/ur) | 102 | 126 | 81.0 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ur_PK.po/mnt/stockage/packages/f15/xfce4-systemload-plugin/po/ur.po | 
+ | [lt](/f15/language/lt) | 43 | 63 | 68.3 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/lt.po | 
+ | [vi](/f15/language/vi) | 43 | 63 | 68.3 | /mnt/stockage/packages/f15/xfce4-systemload-plugin/po/vi.po | 
 {.sortable}
 
 

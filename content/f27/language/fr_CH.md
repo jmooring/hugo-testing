@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f27/package/openerp.md" >}}) | 5 | 5 | 100.0 |  | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 5 | 5 | 100.0 |  | 
- | [enlightenment]({{< ref "/f27/package/enlightenment.md" >}}) | 1591 | 8686 | 18.3 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
- | [gnomebaker]({{< ref "/f27/package/gnomebaker.md" >}}) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
- | [calamares]({{< ref "/f27/package/calamares.md" >}}) | 0 | 55 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
+ | [openerp](/f27/package/openerp) | 5 | 5 | 100.0 |  | 
+ | [openerp7](/f27/package/openerp7) | 5 | 5 | 100.0 |  | 
+ | [enlightenment](/f27/package/enlightenment) | 1591 | 8686 | 18.3 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [gnomebaker](/f27/package/gnomebaker) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
+ | [calamares](/f27/package/calamares) | 0 | 55 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
 {.sortable}
 
 

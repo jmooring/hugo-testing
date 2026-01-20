@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [owncloud]({{< ref "/f18/package/owncloud.md" >}}) | 55 | 1154 | 4.8 | Kurdish (Iraq) (http://www.transifex.com/projects/p/owncloud/language/ku_IQ/) | 
+ | [owncloud](/f18/package/owncloud) | 55 | 1154 | 4.8 | Kurdish (Iraq) (http://www.transifex.com/projects/p/owncloud/language/ku_IQ/) | 
 {.sortable}
 
 

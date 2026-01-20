@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [folder-color-switcher]({{< ref "/f38/package/folder-color-switcher.md" >}}) | 22 | 65 | 33.8 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xapps]({{< ref "/f38/package/xapps.md" >}}) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 37 | 216 | 17.1 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [lightdm-settings]({{< ref "/f38/package/lightdm-settings.md" >}}) | 40 | 355 | 11.3 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xreader]({{< ref "/f38/package/xreader.md" >}}) | 104 | 1625 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [xed]({{< ref "/f38/package/xed.md" >}}) | 213 | 3759 | 5.7 | Standard Moroccan Tamazight <zgh@li.org> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 401 | 18625 | 2.2 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [folder-color-switcher](/f38/package/folder-color-switcher) | 22 | 65 | 33.8 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xapps](/f38/package/xapps) | 18 | 73 | 24.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [slick-greeter](/f38/package/slick-greeter) | 37 | 216 | 17.1 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [lightdm-settings](/f38/package/lightdm-settings) | 40 | 355 | 11.3 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xreader](/f38/package/xreader) | 104 | 1625 | 6.4 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [xed](/f38/package/xed) | 213 | 3759 | 5.7 | Standard Moroccan Tamazight <zgh@li.org> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 401 | 18625 | 2.2 | Standard Moroccan Tamazight <zgh@li.org> | 
 {.sortable}
 
 

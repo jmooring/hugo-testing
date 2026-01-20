@@ -18,11 +18,11 @@ The package libgsf (version 1.14.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f9/libgsf/po/es.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f9/libgsf/po/sv.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f9/libgsf/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f9/libgsf/po/zh_HK.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f9/libgsf/po/oc.po | 
+ | [es](/f9/language/es) | 77 | 77 | 100.0 | /mnt/stockage/packages/f9/libgsf/po/es.po | 
+ | [sv](/f9/language/sv) | 744 | 744 | 100.0 | /mnt/stockage/packages/f9/libgsf/po/sv.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 647 | 715 | 90.5 | /mnt/stockage/packages/f9/libgsf/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 647 | 715 | 90.5 | /mnt/stockage/packages/f9/libgsf/po/zh_HK.po | 
+ | [oc](/f9/language/oc) | 0 | 77 | 0.0 | /mnt/stockage/packages/f9/libgsf/po/oc.po | 
 {.sortable}
 
 

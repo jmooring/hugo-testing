@@ -18,38 +18,38 @@ The package tokodon (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ca/tokodon.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ca@valencia/tokodon.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/es/tokodon.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/eu/tokodon.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/fr/tokodon.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/gl/tokodon.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/it/tokodon.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ka/tokodon.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/nl/tokodon.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/pl/tokodon.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ru/tokodon.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/sl/tokodon.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/sv/tokodon.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/uk/tokodon.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 1155 | 1157 | 99.8 | /mnt/stockage/packages/f38/tokodon/po/ko/tokodon.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 1149 | 1157 | 99.3 | /mnt/stockage/packages/f38/tokodon/po/fi/tokodon.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 1014 | 1157 | 87.6 | /mnt/stockage/packages/f38/tokodon/po/tr/tokodon.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 975 | 1157 | 84.3 | /mnt/stockage/packages/f38/tokodon/po/pt/tokodon.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 952 | 1157 | 82.3 | /mnt/stockage/packages/f38/tokodon/po/de/tokodon.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 735 | 1157 | 63.5 | /mnt/stockage/packages/f38/tokodon/po/zh_CN/tokodon.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 693 | 1157 | 59.9 | /mnt/stockage/packages/f38/tokodon/po/en_GB/tokodon.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 532 | 1157 | 46.0 | /mnt/stockage/packages/f38/tokodon/po/cs/tokodon.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 491 | 1157 | 42.4 | /mnt/stockage/packages/f38/tokodon/po/ia/tokodon.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 286 | 1157 | 24.7 | /mnt/stockage/packages/f38/tokodon/po/pa/tokodon.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 237 | 1157 | 20.5 | /mnt/stockage/packages/f38/tokodon/po/sk/tokodon.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 210 | 1157 | 18.2 | /mnt/stockage/packages/f38/tokodon/po/hu/tokodon.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 209 | 1157 | 18.1 | /mnt/stockage/packages/f38/tokodon/po/is/tokodon.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 158 | 1157 | 13.7 | /mnt/stockage/packages/f38/tokodon/po/id/tokodon.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 53 | 1157 | 4.6 | /mnt/stockage/packages/f38/tokodon/po/pt_BR/tokodon.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 1157 | 0.0 | /mnt/stockage/packages/f38/tokodon/po/ja/tokodon.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 1157 | 0.0 | /mnt/stockage/packages/f38/tokodon/po/lt/tokodon.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 0 | 1157 | 0.0 | /mnt/stockage/packages/f38/tokodon/po/zh_TW/tokodon.po | 
+ | [ca](/f38/language/ca) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ca/tokodon.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ca@valencia/tokodon.po | 
+ | [es](/f38/language/es) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/es/tokodon.po | 
+ | [eu](/f38/language/eu) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/eu/tokodon.po | 
+ | [fr](/f38/language/fr) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/fr/tokodon.po | 
+ | [gl](/f38/language/gl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/gl/tokodon.po | 
+ | [it](/f38/language/it) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/it/tokodon.po | 
+ | [ka](/f38/language/ka) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ka/tokodon.po | 
+ | [nl](/f38/language/nl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/nl/tokodon.po | 
+ | [pl](/f38/language/pl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/pl/tokodon.po | 
+ | [ru](/f38/language/ru) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/ru/tokodon.po | 
+ | [sl](/f38/language/sl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/sl/tokodon.po | 
+ | [sv](/f38/language/sv) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/sv/tokodon.po | 
+ | [uk](/f38/language/uk) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f38/tokodon/po/uk/tokodon.po | 
+ | [ko](/f38/language/ko) | 1155 | 1157 | 99.8 | /mnt/stockage/packages/f38/tokodon/po/ko/tokodon.po | 
+ | [fi](/f38/language/fi) | 1149 | 1157 | 99.3 | /mnt/stockage/packages/f38/tokodon/po/fi/tokodon.po | 
+ | [tr](/f38/language/tr) | 1014 | 1157 | 87.6 | /mnt/stockage/packages/f38/tokodon/po/tr/tokodon.po | 
+ | [pt](/f38/language/pt) | 975 | 1157 | 84.3 | /mnt/stockage/packages/f38/tokodon/po/pt/tokodon.po | 
+ | [de](/f38/language/de) | 952 | 1157 | 82.3 | /mnt/stockage/packages/f38/tokodon/po/de/tokodon.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 735 | 1157 | 63.5 | /mnt/stockage/packages/f38/tokodon/po/zh_CN/tokodon.po | 
+ | [en_GB](/f38/language/en_GB) | 693 | 1157 | 59.9 | /mnt/stockage/packages/f38/tokodon/po/en_GB/tokodon.po | 
+ | [cs](/f38/language/cs) | 532 | 1157 | 46.0 | /mnt/stockage/packages/f38/tokodon/po/cs/tokodon.po | 
+ | [ia](/f38/language/ia) | 491 | 1157 | 42.4 | /mnt/stockage/packages/f38/tokodon/po/ia/tokodon.po | 
+ | [pa](/f38/language/pa) | 286 | 1157 | 24.7 | /mnt/stockage/packages/f38/tokodon/po/pa/tokodon.po | 
+ | [sk](/f38/language/sk) | 237 | 1157 | 20.5 | /mnt/stockage/packages/f38/tokodon/po/sk/tokodon.po | 
+ | [hu](/f38/language/hu) | 210 | 1157 | 18.2 | /mnt/stockage/packages/f38/tokodon/po/hu/tokodon.po | 
+ | [is](/f38/language/is) | 209 | 1157 | 18.1 | /mnt/stockage/packages/f38/tokodon/po/is/tokodon.po | 
+ | [id](/f38/language/id) | 158 | 1157 | 13.7 | /mnt/stockage/packages/f38/tokodon/po/id/tokodon.po | 
+ | [pt_BR](/f38/language/pt_BR) | 53 | 1157 | 4.6 | /mnt/stockage/packages/f38/tokodon/po/pt_BR/tokodon.po | 
+ | [ja](/f38/language/ja) | 0 | 1157 | 0.0 | /mnt/stockage/packages/f38/tokodon/po/ja/tokodon.po | 
+ | [lt](/f38/language/lt) | 0 | 1157 | 0.0 | /mnt/stockage/packages/f38/tokodon/po/lt/tokodon.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 0 | 1157 | 0.0 | /mnt/stockage/packages/f38/tokodon/po/zh_TW/tokodon.po | 
 {.sortable}
 
 

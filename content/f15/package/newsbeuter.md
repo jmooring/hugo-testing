@@ -18,20 +18,20 @@ The package newsbeuter (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/es_ES.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/it.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/zh_TW.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1225 | 1237 | 99.0 | /mnt/stockage/packages/f15/newsbeuter/po/uk.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1175 | 1237 | 95.0 | /mnt/stockage/packages/f15/newsbeuter/po/nl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 1175 | 1237 | 95.0 | /mnt/stockage/packages/f15/newsbeuter/po/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 1015 | 1237 | 82.1 | /mnt/stockage/packages/f15/newsbeuter/po/tr.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 880 | 1237 | 71.1 | /mnt/stockage/packages/f15/newsbeuter/po/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 880 | 1237 | 71.1 | /mnt/stockage/packages/f15/newsbeuter/po/zh.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 744 | 1237 | 60.1 | /mnt/stockage/packages/f15/newsbeuter/po/fr.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 705 | 1237 | 57.0 | /mnt/stockage/packages/f15/newsbeuter/po/pl.po | 
+ | [de](/f15/language/de) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/de.po | 
+ | [es](/f15/language/es) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/es_ES.po | 
+ | [hu](/f15/language/hu) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/hu.po | 
+ | [it](/f15/language/it) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/it.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/pt_BR.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 1237 | 1237 | 100.0 | /mnt/stockage/packages/f15/newsbeuter/po/zh_TW.po | 
+ | [uk](/f15/language/uk) | 1225 | 1237 | 99.0 | /mnt/stockage/packages/f15/newsbeuter/po/uk.po | 
+ | [nl](/f15/language/nl) | 1175 | 1237 | 95.0 | /mnt/stockage/packages/f15/newsbeuter/po/nl.po | 
+ | [sv](/f15/language/sv) | 1175 | 1237 | 95.0 | /mnt/stockage/packages/f15/newsbeuter/po/sv.po | 
+ | [tr](/f15/language/tr) | 1015 | 1237 | 82.1 | /mnt/stockage/packages/f15/newsbeuter/po/tr.po | 
+ | [ru](/f15/language/ru) | 880 | 1237 | 71.1 | /mnt/stockage/packages/f15/newsbeuter/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 880 | 1237 | 71.1 | /mnt/stockage/packages/f15/newsbeuter/po/zh.po | 
+ | [fr](/f15/language/fr) | 744 | 1237 | 60.1 | /mnt/stockage/packages/f15/newsbeuter/po/fr.po | 
+ | [pl](/f15/language/pl) | 705 | 1237 | 57.0 | /mnt/stockage/packages/f15/newsbeuter/po/pl.po | 
 {.sortable}
 
 

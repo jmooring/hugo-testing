@@ -18,24 +18,24 @@ The package newsboat (version 2.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/de.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/pl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/ru.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/uk.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1627 | 1938 | 84.0 | /mnt/stockage/packages/f34/newsboat/po/fr.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1333 | 1938 | 68.8 | /mnt/stockage/packages/f34/newsboat/po/es.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1253 | 1938 | 64.7 | /mnt/stockage/packages/f34/newsboat/po/sv.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1198 | 1938 | 61.8 | /mnt/stockage/packages/f34/newsboat/po/pt_BR.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 1181 | 1938 | 60.9 | /mnt/stockage/packages/f34/newsboat/po/sk.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 1004 | 1938 | 51.8 | /mnt/stockage/packages/f34/newsboat/po/ca.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 997 | 1938 | 51.4 | /mnt/stockage/packages/f34/newsboat/po/nb.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 971 | 1938 | 50.1 | /mnt/stockage/packages/f34/newsboat/po/hu.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 971 | 1938 | 50.1 | /mnt/stockage/packages/f34/newsboat/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 702 | 1938 | 36.2 | /mnt/stockage/packages/f34/newsboat/po/zh.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 197 | 1938 | 10.2 | /mnt/stockage/packages/f34/newsboat/po/ja.po | 
+ | [de](/f34/language/de) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/de.po | 
+ | [it](/f34/language/it) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/it.po | 
+ | [nl](/f34/language/nl) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/nl.po | 
+ | [pl](/f34/language/pl) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/pl.po | 
+ | [ru](/f34/language/ru) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/ru.po | 
+ | [tr](/f34/language/tr) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/tr.po | 
+ | [uk](/f34/language/uk) | 1938 | 1938 | 100.0 | /mnt/stockage/packages/f34/newsboat/po/uk.po | 
+ | [fr](/f34/language/fr) | 1627 | 1938 | 84.0 | /mnt/stockage/packages/f34/newsboat/po/fr.po | 
+ | [es](/f34/language/es) | 1333 | 1938 | 68.8 | /mnt/stockage/packages/f34/newsboat/po/es.po | 
+ | [sv](/f34/language/sv) | 1253 | 1938 | 64.7 | /mnt/stockage/packages/f34/newsboat/po/sv.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1198 | 1938 | 61.8 | /mnt/stockage/packages/f34/newsboat/po/pt_BR.po | 
+ | [sk](/f34/language/sk) | 1181 | 1938 | 60.9 | /mnt/stockage/packages/f34/newsboat/po/sk.po | 
+ | [ca](/f34/language/ca) | 1004 | 1938 | 51.8 | /mnt/stockage/packages/f34/newsboat/po/ca.po | 
+ | [nb_NO](/f34/language/nb_NO) | 997 | 1938 | 51.4 | /mnt/stockage/packages/f34/newsboat/po/nb.po | 
+ | [hu](/f34/language/hu) | 971 | 1938 | 50.1 | /mnt/stockage/packages/f34/newsboat/po/hu.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 971 | 1938 | 50.1 | /mnt/stockage/packages/f34/newsboat/po/zh_TW.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 702 | 1938 | 36.2 | /mnt/stockage/packages/f34/newsboat/po/zh.po | 
+ | [ja](/f34/language/ja) | 197 | 1938 | 10.2 | /mnt/stockage/packages/f34/newsboat/po/ja.po | 
 {.sortable}
 
 

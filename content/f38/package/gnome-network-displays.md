@@ -18,37 +18,37 @@ The package gnome-network-displays (version 0.91.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/eu.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/fur.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/id.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ja.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ka.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/lt.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/oc.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/pl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/zh_CN.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 115 | 195 | 59.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/it.po | 
+ | [ca](/f38/language/ca) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ca.po | 
+ | [cs](/f38/language/cs) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/cs.po | 
+ | [da](/f38/language/da) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/da.po | 
+ | [de](/f38/language/de) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/en_GB.po | 
+ | [es](/f38/language/es) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/es.po | 
+ | [eu](/f38/language/eu) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/eu.po | 
+ | [fi](/f38/language/fi) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/fi.po | 
+ | [fr](/f38/language/fr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/fr.po | 
+ | [fur](/f38/language/fur) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/fur.po | 
+ | [he](/f38/language/he) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/he.po | 
+ | [hr](/f38/language/hr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/hr.po | 
+ | [hu](/f38/language/hu) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/hu.po | 
+ | [id](/f38/language/id) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/id.po | 
+ | [ja](/f38/language/ja) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ja.po | 
+ | [ka](/f38/language/ka) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ka.po | 
+ | [lt](/f38/language/lt) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/lt.po | 
+ | [nl](/f38/language/nl) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/nl.po | 
+ | [oc](/f38/language/oc) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/oc.po | 
+ | [pl](/f38/language/pl) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/pl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ro.po | 
+ | [ru](/f38/language/ru) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/ru.po | 
+ | [sk](/f38/language/sk) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sk.po | 
+ | [sl](/f38/language/sl) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sl.po | 
+ | [sr](/f38/language/sr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sr.po | 
+ | [sv](/f38/language/sv) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/sv.po | 
+ | [tr](/f38/language/tr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/tr.po | 
+ | [uk](/f38/language/uk) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 195 | 195 | 100.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/zh_CN.po | 
+ | [it](/f38/language/it) | 115 | 195 | 59.0 | /mnt/stockage/packages/f38/gnome-network-displays/po/it.po | 
 {.sortable}
 
 

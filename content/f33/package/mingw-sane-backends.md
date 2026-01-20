@@ -18,30 +18,30 @@ The package mingw-sane-backends (version 1.0.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ca.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ca@valencia.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/de.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/en_GB.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 11616 | 11616 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/en@quot.po/mnt/stockage/packages/f33/mingw-sane-backends/po/en@boldquot.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/uk.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 5526 | 5808 | 95.1 | /mnt/stockage/packages/f33/mingw-sane-backends/po/he.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 5502 | 5808 | 94.7 | /mnt/stockage/packages/f33/mingw-sane-backends/po/nl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 4629 | 5808 | 79.7 | /mnt/stockage/packages/f33/mingw-sane-backends/po/sv.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 4239 | 5808 | 73.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/fr.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 4239 | 5808 | 73.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/pl.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 4176 | 5808 | 71.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/es.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 4176 | 5808 | 71.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/gl.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 3896 | 5808 | 67.1 | /mnt/stockage/packages/f33/mingw-sane-backends/po/eo.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 3851 | 5808 | 66.3 | /mnt/stockage/packages/f33/mingw-sane-backends/po/it.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 3431 | 5808 | 59.1 | /mnt/stockage/packages/f33/mingw-sane-backends/po/da.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 3188 | 5808 | 54.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/fi.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 3184 | 5808 | 54.8 | /mnt/stockage/packages/f33/mingw-sane-backends/po/bg.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 3062 | 5808 | 52.7 | /mnt/stockage/packages/f33/mingw-sane-backends/po/cs.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 2702 | 5808 | 46.5 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ru.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 2487 | 5808 | 42.8 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ja.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 868 | 5808 | 14.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/pt.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 607 | 5808 | 10.5 | /mnt/stockage/packages/f33/mingw-sane-backends/po/nb.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 341 | 5808 | 5.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/hu.po | 
+ | [ca](/f33/language/ca) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ca.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ca@valencia.po | 
+ | [de](/f33/language/de) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/de.po | 
+ | [en_GB](/f33/language/en_GB) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/en_GB.po | 
+ | [error](/f33/language/error) | 11616 | 11616 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/en@quot.po/mnt/stockage/packages/f33/mingw-sane-backends/po/en@boldquot.po | 
+ | [uk](/f33/language/uk) | 5808 | 5808 | 100.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/uk.po | 
+ | [he](/f33/language/he) | 5526 | 5808 | 95.1 | /mnt/stockage/packages/f33/mingw-sane-backends/po/he.po | 
+ | [nl](/f33/language/nl) | 5502 | 5808 | 94.7 | /mnt/stockage/packages/f33/mingw-sane-backends/po/nl.po | 
+ | [sv](/f33/language/sv) | 4629 | 5808 | 79.7 | /mnt/stockage/packages/f33/mingw-sane-backends/po/sv.po | 
+ | [fr](/f33/language/fr) | 4239 | 5808 | 73.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/fr.po | 
+ | [pl](/f33/language/pl) | 4239 | 5808 | 73.0 | /mnt/stockage/packages/f33/mingw-sane-backends/po/pl.po | 
+ | [es](/f33/language/es) | 4176 | 5808 | 71.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/es.po | 
+ | [gl](/f33/language/gl) | 4176 | 5808 | 71.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/gl.po | 
+ | [eo](/f33/language/eo) | 3896 | 5808 | 67.1 | /mnt/stockage/packages/f33/mingw-sane-backends/po/eo.po | 
+ | [it](/f33/language/it) | 3851 | 5808 | 66.3 | /mnt/stockage/packages/f33/mingw-sane-backends/po/it.po | 
+ | [da](/f33/language/da) | 3431 | 5808 | 59.1 | /mnt/stockage/packages/f33/mingw-sane-backends/po/da.po | 
+ | [fi](/f33/language/fi) | 3188 | 5808 | 54.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/fi.po | 
+ | [bg](/f33/language/bg) | 3184 | 5808 | 54.8 | /mnt/stockage/packages/f33/mingw-sane-backends/po/bg.po | 
+ | [cs](/f33/language/cs) | 3062 | 5808 | 52.7 | /mnt/stockage/packages/f33/mingw-sane-backends/po/cs.po | 
+ | [ru](/f33/language/ru) | 2702 | 5808 | 46.5 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ru.po | 
+ | [ja](/f33/language/ja) | 2487 | 5808 | 42.8 | /mnt/stockage/packages/f33/mingw-sane-backends/po/ja.po | 
+ | [pt](/f33/language/pt) | 868 | 5808 | 14.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/pt.po | 
+ | [nb_NO](/f33/language/nb_NO) | 607 | 5808 | 10.5 | /mnt/stockage/packages/f33/mingw-sane-backends/po/nb.po | 
+ | [hu](/f33/language/hu) | 341 | 5808 | 5.9 | /mnt/stockage/packages/f33/mingw-sane-backends/po/hu.po | 
 {.sortable}
 
 

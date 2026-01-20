@@ -18,24 +18,24 @@ The package gnome-applet-netspeed (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ja.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/nl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ru.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/docs/sv/sv.po/mnt/stockage/packages/f9/gnome-applet-netspeed/po/sv.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/zh_CN.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 651 | 654 | 99.5 | /mnt/stockage/packages/f9/gnome-applet-netspeed/docs/de/de.po/mnt/stockage/packages/f9/gnome-applet-netspeed/po/de.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 141 | 144 | 97.9 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/pl.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 111 | 132 | 84.1 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ro.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 100 | 132 | 75.8 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/et.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 100 | 132 | 75.8 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/tr.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 87 | 132 | 65.9 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/cs.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 60 | 132 | 45.5 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ms.po | 
+ | [es](/f9/language/es) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/es.po | 
+ | [fi](/f9/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/fi.po | 
+ | [fr](/f9/language/fr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/fr.po | 
+ | [hu](/f9/language/hu) | 132 | 132 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/hu.po | 
+ | [it](/f9/language/it) | 132 | 132 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/it.po | 
+ | [ja](/f9/language/ja) | 143 | 143 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ja.po | 
+ | [nl](/f9/language/nl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/nl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 132 | 132 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ru.po | 
+ | [sv](/f9/language/sv) | 654 | 654 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/docs/sv/sv.po/mnt/stockage/packages/f9/gnome-applet-netspeed/po/sv.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 143 | 143 | 100.0 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/zh_CN.po | 
+ | [de](/f9/language/de) | 651 | 654 | 99.5 | /mnt/stockage/packages/f9/gnome-applet-netspeed/docs/de/de.po/mnt/stockage/packages/f9/gnome-applet-netspeed/po/de.po | 
+ | [pl](/f9/language/pl) | 141 | 144 | 97.9 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/pl.po | 
+ | [ro](/f9/language/ro) | 111 | 132 | 84.1 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ro.po | 
+ | [et](/f9/language/et) | 100 | 132 | 75.8 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/et.po | 
+ | [tr](/f9/language/tr) | 100 | 132 | 75.8 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/tr.po | 
+ | [cs](/f9/language/cs) | 87 | 132 | 65.9 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/cs.po | 
+ | [ms](/f9/language/ms) | 60 | 132 | 45.5 | /mnt/stockage/packages/f9/gnome-applet-netspeed/po/ms.po | 
 {.sortable}
 
 

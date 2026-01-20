@@ -18,10 +18,10 @@ The package kazehakase (version 0.4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1984 | 1984 | 100.0 | /mnt/stockage/packages/f8/kazehakase/po/cs.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1981 | 1984 | 99.8 | /mnt/stockage/packages/f8/kazehakase/po/ja.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1831 | 1984 | 92.3 | /mnt/stockage/packages/f8/kazehakase/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1737 | 1984 | 87.6 | /mnt/stockage/packages/f8/kazehakase/po/ru.po | 
+ | [cs](/f8/language/cs) | 1984 | 1984 | 100.0 | /mnt/stockage/packages/f8/kazehakase/po/cs.po | 
+ | [ja](/f8/language/ja) | 1981 | 1984 | 99.8 | /mnt/stockage/packages/f8/kazehakase/po/ja.po | 
+ | [fr](/f8/language/fr) | 1831 | 1984 | 92.3 | /mnt/stockage/packages/f8/kazehakase/po/fr.po | 
+ | [ru](/f8/language/ru) | 1737 | 1984 | 87.6 | /mnt/stockage/packages/f8/kazehakase/po/ru.po | 
 {.sortable}
 
 

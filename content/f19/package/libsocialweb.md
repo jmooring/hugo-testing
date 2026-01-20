@@ -18,42 +18,42 @@ The package libsocialweb (version 0.25.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ar.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ast.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ca.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ca@valencia.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/de.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/es.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/eu.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/fa.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ja.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ko.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/lv.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/nl.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ro.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/sl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/sv.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/th.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/uk.po | 
- | [wa]({{< ref "/f19/language/wa.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/wa.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/zh_TW.po | 
- | [en]({{< ref "/f19/language/en.md" >}}) | 5 | 136 | 3.7 | /mnt/stockage/packages/f19/libsocialweb/po/bn_IN.po | 
+ | [ar](/f19/language/ar) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ar.po | 
+ | [ast](/f19/language/ast) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ast.po | 
+ | [ca](/f19/language/ca) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ca.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ca@valencia.po | 
+ | [cs](/f19/language/cs) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/cs.po | 
+ | [da](/f19/language/da) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/da.po | 
+ | [de](/f19/language/de) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/de.po | 
+ | [en_GB](/f19/language/en_GB) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/en_GB.po | 
+ | [es](/f19/language/es) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/es.po | 
+ | [eu](/f19/language/eu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/eu.po | 
+ | [fa](/f19/language/fa) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/fa.po | 
+ | [fi](/f19/language/fi) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/fi.po | 
+ | [fr](/f19/language/fr) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/fr.po | 
+ | [gl](/f19/language/gl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/gl.po | 
+ | [hu](/f19/language/hu) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/hu.po | 
+ | [id](/f19/language/id) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/id.po | 
+ | [it](/f19/language/it) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/it.po | 
+ | [ja](/f19/language/ja) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ja.po | 
+ | [ko](/f19/language/ko) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ko.po | 
+ | [lv](/f19/language/lv) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/lv.po | 
+ | [nl](/f19/language/nl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/nl.po | 
+ | [pa](/f19/language/pa) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/pa.po | 
+ | [pl](/f19/language/pl) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ro.po | 
+ | [ru](/f19/language/ru) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/ru.po | 
+ | [sk](/f19/language/sk) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/sk.po | 
+ | [sl](/f19/language/sl) | 281 | 281 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/sl.po | 
+ | [sv](/f19/language/sv) | 240 | 240 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/sv.po | 
+ | [th](/f19/language/th) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/th.po | 
+ | [tr](/f19/language/tr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/tr.po | 
+ | [uk](/f19/language/uk) | 136 | 136 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/uk.po | 
+ | [wa](/f19/language/wa) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/wa.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 148 | 148 | 100.0 | /mnt/stockage/packages/f19/libsocialweb/po/zh_TW.po | 
+ | [en](/f19/language/en) | 5 | 136 | 3.7 | /mnt/stockage/packages/f19/libsocialweb/po/bn_IN.po | 
 {.sortable}
 
 

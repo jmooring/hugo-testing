@@ -18,43 +18,43 @@ The package angelfish (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ca/angelfish.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ca@valencia/angelfish.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/en_GB/angelfish.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/es/angelfish.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/eu/angelfish.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/fi/angelfish.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/fr/angelfish.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/gl/angelfish.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ia/angelfish.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/it/angelfish.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ka/angelfish.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ko/angelfish.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/nl/angelfish.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/pl/angelfish.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/pt/angelfish.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/pt_BR/angelfish.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ru/angelfish.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/sl/angelfish.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/sv/angelfish.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/tr/angelfish.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/uk/angelfish.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 619 | 689 | 89.8 | /mnt/stockage/packages/f38/angelfish/po/zh_CN/angelfish.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 591 | 689 | 85.8 | /mnt/stockage/packages/f38/angelfish/po/de/angelfish.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 511 | 689 | 74.2 | /mnt/stockage/packages/f38/angelfish/po/zh_TW/angelfish.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 509 | 689 | 73.9 | /mnt/stockage/packages/f38/angelfish/po/el/angelfish.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 465 | 689 | 67.5 | /mnt/stockage/packages/f38/angelfish/po/az/angelfish.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 458 | 689 | 66.5 | /mnt/stockage/packages/f38/angelfish/po/hu/angelfish.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 458 | 689 | 66.5 | /mnt/stockage/packages/f38/angelfish/po/id/angelfish.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 424 | 689 | 61.5 | /mnt/stockage/packages/f38/angelfish/po/cs/angelfish.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 364 | 689 | 52.8 | /mnt/stockage/packages/f38/angelfish/po/pa/angelfish.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 352 | 689 | 51.1 | /mnt/stockage/packages/f38/angelfish/po/nn/angelfish.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 234 | 689 | 34.0 | /mnt/stockage/packages/f38/angelfish/po/da/angelfish.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 234 | 689 | 34.0 | /mnt/stockage/packages/f38/angelfish/po/et/angelfish.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 212 | 689 | 30.8 | /mnt/stockage/packages/f38/angelfish/po/lt/angelfish.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 201 | 689 | 29.2 | /mnt/stockage/packages/f38/angelfish/po/ta/angelfish.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 109 | 689 | 15.8 | /mnt/stockage/packages/f38/angelfish/po/sk/angelfish.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 689 | 0.0 | /mnt/stockage/packages/f38/angelfish/po/ja/angelfish.po | 
+ | [ca](/f38/language/ca) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ca/angelfish.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ca@valencia/angelfish.po | 
+ | [en_GB](/f38/language/en_GB) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/en_GB/angelfish.po | 
+ | [es](/f38/language/es) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/es/angelfish.po | 
+ | [eu](/f38/language/eu) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/eu/angelfish.po | 
+ | [fi](/f38/language/fi) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/fi/angelfish.po | 
+ | [fr](/f38/language/fr) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/fr/angelfish.po | 
+ | [gl](/f38/language/gl) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/gl/angelfish.po | 
+ | [ia](/f38/language/ia) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ia/angelfish.po | 
+ | [it](/f38/language/it) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/it/angelfish.po | 
+ | [ka](/f38/language/ka) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ka/angelfish.po | 
+ | [ko](/f38/language/ko) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ko/angelfish.po | 
+ | [nl](/f38/language/nl) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/nl/angelfish.po | 
+ | [pl](/f38/language/pl) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/pl/angelfish.po | 
+ | [pt](/f38/language/pt) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/pt/angelfish.po | 
+ | [pt_BR](/f38/language/pt_BR) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/pt_BR/angelfish.po | 
+ | [ru](/f38/language/ru) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/ru/angelfish.po | 
+ | [sl](/f38/language/sl) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/sl/angelfish.po | 
+ | [sv](/f38/language/sv) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/sv/angelfish.po | 
+ | [tr](/f38/language/tr) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/tr/angelfish.po | 
+ | [uk](/f38/language/uk) | 689 | 689 | 100.0 | /mnt/stockage/packages/f38/angelfish/po/uk/angelfish.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 619 | 689 | 89.8 | /mnt/stockage/packages/f38/angelfish/po/zh_CN/angelfish.po | 
+ | [de](/f38/language/de) | 591 | 689 | 85.8 | /mnt/stockage/packages/f38/angelfish/po/de/angelfish.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 511 | 689 | 74.2 | /mnt/stockage/packages/f38/angelfish/po/zh_TW/angelfish.po | 
+ | [el](/f38/language/el) | 509 | 689 | 73.9 | /mnt/stockage/packages/f38/angelfish/po/el/angelfish.po | 
+ | [az](/f38/language/az) | 465 | 689 | 67.5 | /mnt/stockage/packages/f38/angelfish/po/az/angelfish.po | 
+ | [hu](/f38/language/hu) | 458 | 689 | 66.5 | /mnt/stockage/packages/f38/angelfish/po/hu/angelfish.po | 
+ | [id](/f38/language/id) | 458 | 689 | 66.5 | /mnt/stockage/packages/f38/angelfish/po/id/angelfish.po | 
+ | [cs](/f38/language/cs) | 424 | 689 | 61.5 | /mnt/stockage/packages/f38/angelfish/po/cs/angelfish.po | 
+ | [pa](/f38/language/pa) | 364 | 689 | 52.8 | /mnt/stockage/packages/f38/angelfish/po/pa/angelfish.po | 
+ | [nn](/f38/language/nn) | 352 | 689 | 51.1 | /mnt/stockage/packages/f38/angelfish/po/nn/angelfish.po | 
+ | [da](/f38/language/da) | 234 | 689 | 34.0 | /mnt/stockage/packages/f38/angelfish/po/da/angelfish.po | 
+ | [et](/f38/language/et) | 234 | 689 | 34.0 | /mnt/stockage/packages/f38/angelfish/po/et/angelfish.po | 
+ | [lt](/f38/language/lt) | 212 | 689 | 30.8 | /mnt/stockage/packages/f38/angelfish/po/lt/angelfish.po | 
+ | [ta](/f38/language/ta) | 201 | 689 | 29.2 | /mnt/stockage/packages/f38/angelfish/po/ta/angelfish.po | 
+ | [sk](/f38/language/sk) | 109 | 689 | 15.8 | /mnt/stockage/packages/f38/angelfish/po/sk/angelfish.po | 
+ | [ja](/f38/language/ja) | 0 | 689 | 0.0 | /mnt/stockage/packages/f38/angelfish/po/ja/angelfish.po | 
 {.sortable}
 
 

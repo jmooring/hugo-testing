@@ -18,23 +18,23 @@ The package cflow (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/de.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/eo.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/fr.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/ga.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/nl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/pt_BR.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/sv.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/uk.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/zh_CN.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 519 | 594 | 87.4 | /mnt/stockage/packages/f28/cflow/po/hr.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 519 | 594 | 87.4 | /mnt/stockage/packages/f28/cflow/po/id.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 519 | 594 | 87.4 | /mnt/stockage/packages/f28/cflow/po/vi.po | 
+ | [da](/f28/language/da) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/da.po | 
+ | [de](/f28/language/de) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/de.po | 
+ | [eo](/f28/language/eo) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/eo.po | 
+ | [es](/f28/language/es) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/es.po | 
+ | [fi](/f28/language/fi) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/fi.po | 
+ | [fr](/f28/language/fr) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/fr.po | 
+ | [ga](/f28/language/ga) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/ga.po | 
+ | [nl](/f28/language/nl) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/nl.po | 
+ | [pl](/f28/language/pl) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/pt_BR.po | 
+ | [sr](/f28/language/sr) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/sr.po | 
+ | [sv](/f28/language/sv) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/sv.po | 
+ | [uk](/f28/language/uk) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/uk.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 545 | 594 | 91.8 | /mnt/stockage/packages/f28/cflow/po/zh_CN.po | 
+ | [hr](/f28/language/hr) | 519 | 594 | 87.4 | /mnt/stockage/packages/f28/cflow/po/hr.po | 
+ | [id](/f28/language/id) | 519 | 594 | 87.4 | /mnt/stockage/packages/f28/cflow/po/id.po | 
+ | [vi](/f28/language/vi) | 519 | 594 | 87.4 | /mnt/stockage/packages/f28/cflow/po/vi.po | 
 {.sortable}
 
 

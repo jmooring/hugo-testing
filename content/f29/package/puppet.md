@@ -18,8 +18,8 @@ The package puppet (version 5.5.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 20102 | 20102 | 100.0 | /mnt/stockage/packages/f29/puppet/locales/ja/puppet.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/puppet/locales/en/puppet.po | 
+ | [ja](/f29/language/ja) | 20102 | 20102 | 100.0 | /mnt/stockage/packages/f29/puppet/locales/ja/puppet.po | 
+ | [en](/f29/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/puppet/locales/en/puppet.po | 
 {.sortable}
 
 

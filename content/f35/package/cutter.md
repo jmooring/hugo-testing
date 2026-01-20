@@ -18,7 +18,7 @@ The package cutter (version 1.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 7350 | 15344 | 47.9 | /mnt/stockage/packages/f35/cutter/doc/reference/ja.po/mnt/stockage/packages/f35/cutter/po/ja.po | 
+ | [ja](/f35/language/ja) | 7350 | 15344 | 47.9 | /mnt/stockage/packages/f35/cutter/doc/reference/ja.po/mnt/stockage/packages/f35/cutter/po/ja.po | 
 {.sortable}
 
 

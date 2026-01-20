@@ -18,11 +18,11 @@ The package drupal-service_links (version 6.x.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f10/drupal-service_links/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f10/drupal-service_links/po/fr.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f10/drupal-service_links/po/pt.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 109 | 270 | 40.4 | /mnt/stockage/packages/f10/drupal-service_links/po/he.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 16 | 241 | 6.6 | /mnt/stockage/packages/f10/drupal-service_links/po/es.po | 
+ | [de](/f10/language/de) | 248 | 248 | 100.0 | /mnt/stockage/packages/f10/drupal-service_links/po/de.po | 
+ | [fr](/f10/language/fr) | 235 | 235 | 100.0 | /mnt/stockage/packages/f10/drupal-service_links/po/fr.po | 
+ | [pt](/f10/language/pt) | 249 | 249 | 100.0 | /mnt/stockage/packages/f10/drupal-service_links/po/pt.po | 
+ | [he](/f10/language/he) | 109 | 270 | 40.4 | /mnt/stockage/packages/f10/drupal-service_links/po/he.po | 
+ | [es](/f10/language/es) | 16 | 241 | 6.6 | /mnt/stockage/packages/f10/drupal-service_links/po/es.po | 
 {.sortable}
 
 

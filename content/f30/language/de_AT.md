@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [perl-libintl-perl]({{< ref "/f30/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [kanyremote]({{< ref "/f30/package/kanyremote.md" >}}) | 479 | 506 | 94.7 | Austrian | 
- | [gnomebaker]({{< ref "/f30/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f30/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f30/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f30/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [gpsdrive]({{< ref "/f30/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [gourmet]({{< ref "/f30/package/gourmet.md" >}}) | 554 | 3939 | 14.1 | German (Austria) <de_AT@li.org> | 
- | [texi2html]({{< ref "/f30/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
- | [texinfo]({{< ref "/f30/package/texinfo.md" >}}) | 5 | 5392 | 0.1 | German <de@li.org> | 
+ | [perl-libintl-perl](/f30/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [kanyremote](/f30/package/kanyremote) | 479 | 506 | 94.7 | Austrian | 
+ | [gnomebaker](/f30/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f30/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f30/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f30/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [gpsdrive](/f30/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [gourmet](/f30/package/gourmet) | 554 | 3939 | 14.1 | German (Austria) <de_AT@li.org> | 
+ | [texi2html](/f30/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [texinfo](/f30/package/texinfo) | 5 | 5392 | 0.1 | German <de@li.org> | 
 {.sortable}
 
 

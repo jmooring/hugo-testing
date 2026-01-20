@@ -18,39 +18,39 @@ The package xfce4-cpufreq-plugin (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ar.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ast.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/eu.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ja.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/kk.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/nb.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pt_BR.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/sq.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/sv.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/tr.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/uk.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f16/language/ur_PK.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ur_PK.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 91 | 97 | 93.8 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ru.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 80 | 97 | 82.5 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 52 | 97 | 53.6 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/gl.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 11 | 23 | 47.8 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/nl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 38 | 97 | 39.2 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/zh_CN.po | 
+ | [ar](/f16/language/ar) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ar.po | 
+ | [ast](/f16/language/ast) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ast.po | 
+ | [ca](/f16/language/ca) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ca.po | 
+ | [cs](/f16/language/cs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/cs.po | 
+ | [da](/f16/language/da) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/da.po | 
+ | [de](/f16/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/de.po | 
+ | [el](/f16/language/el) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/en_GB.po | 
+ | [es](/f16/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/es.po | 
+ | [eu](/f16/language/eu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/eu.po | 
+ | [hu](/f16/language/hu) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/hu.po | 
+ | [id](/f16/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/id.po | 
+ | [it](/f16/language/it) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/it.po | 
+ | [ja](/f16/language/ja) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ja.po | 
+ | [kk](/f16/language/kk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/kk.po | 
+ | [lv](/f16/language/lv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/lv.po | 
+ | [nb_NO](/f16/language/nb_NO) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/nb.po | 
+ | [pa](/f16/language/pa) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pa.po | 
+ | [pl](/f16/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pl.po | 
+ | [pt](/f16/language/pt) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/pt_BR.po | 
+ | [sq](/f16/language/sq) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/sq.po | 
+ | [sv](/f16/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/sv.po | 
+ | [tr](/f16/language/tr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/tr.po | 
+ | [ug](/f16/language/ug) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ug.po | 
+ | [uk](/f16/language/uk) | 97 | 97 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/uk.po | 
+ | [ur](/f16/language/ur) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ur.po | 
+ | [ur_PK](/f16/language/ur_PK) | 23 | 23 | 100.0 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ur_PK.po | 
+ | [ru](/f16/language/ru) | 91 | 97 | 93.8 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/ru.po | 
+ | [fr](/f16/language/fr) | 80 | 97 | 82.5 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/fr.po | 
+ | [gl](/f16/language/gl) | 52 | 97 | 53.6 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/gl.po | 
+ | [nl](/f16/language/nl) | 11 | 23 | 47.8 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/nl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 38 | 97 | 39.2 | /mnt/stockage/packages/f16/xfce4-cpufreq-plugin/po/zh_CN.po | 
 {.sortable}
 
 

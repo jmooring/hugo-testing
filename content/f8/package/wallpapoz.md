@@ -18,12 +18,12 @@ The package wallpapoz (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/de/LC_MESSAGES/wallpapoz.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/es/LC_MESSAGES/wallpapoz.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/fr/LC_MESSAGES/wallpapoz.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/id/LC_MESSAGES/wallpapoz.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/ja/LC_MESSAGES/wallpapoz.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/sv/LC_MESSAGES/wallpapoz.po | 
+ | [de](/f8/language/de) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/de/LC_MESSAGES/wallpapoz.po | 
+ | [es](/f8/language/es) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/es/LC_MESSAGES/wallpapoz.po | 
+ | [fr](/f8/language/fr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/fr/LC_MESSAGES/wallpapoz.po | 
+ | [id](/f8/language/id) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/id/LC_MESSAGES/wallpapoz.po | 
+ | [ja](/f8/language/ja) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/ja/LC_MESSAGES/wallpapoz.po | 
+ | [sv](/f8/language/sv) | 395 | 395 | 100.0 | /mnt/stockage/packages/f8/wallpapoz/share/locale/sv/LC_MESSAGES/wallpapoz.po | 
 {.sortable}
 
 

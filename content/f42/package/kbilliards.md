@@ -18,10 +18,10 @@ The package kbilliards (version 0.8.7b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 203 | 208 | 97.6 | /mnt/stockage/packages/f42/kbilliards/po/fr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 197 | 208 | 94.7 | /mnt/stockage/packages/f42/kbilliards/po/it.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 193 | 208 | 92.8 | /mnt/stockage/packages/f42/kbilliards/po/ru.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 133 | 208 | 63.9 | /mnt/stockage/packages/f42/kbilliards/po/cs.po | 
+ | [fr](/f42/language/fr) | 203 | 208 | 97.6 | /mnt/stockage/packages/f42/kbilliards/po/fr.po | 
+ | [it](/f42/language/it) | 197 | 208 | 94.7 | /mnt/stockage/packages/f42/kbilliards/po/it.po | 
+ | [ru](/f42/language/ru) | 193 | 208 | 92.8 | /mnt/stockage/packages/f42/kbilliards/po/ru.po | 
+ | [cs](/f42/language/cs) | 133 | 208 | 63.9 | /mnt/stockage/packages/f42/kbilliards/po/cs.po | 
 {.sortable}
 
 

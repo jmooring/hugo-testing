@@ -18,13 +18,13 @@ The package guake (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 430 | 432 | 99.5 | /mnt/stockage/packages/f10/guake/po/pt_BR.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 421 | 432 | 97.5 | /mnt/stockage/packages/f10/guake/po/pl.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 416 | 434 | 95.9 | /mnt/stockage/packages/f10/guake/po/no_NB.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 333 | 432 | 77.1 | /mnt/stockage/packages/f10/guake/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 315 | 432 | 72.9 | /mnt/stockage/packages/f10/guake/po/es.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 269 | 432 | 62.3 | /mnt/stockage/packages/f10/guake/po/ru_RU.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 201 | 432 | 46.5 | /mnt/stockage/packages/f10/guake/po/ja.po | 
+ | [pt_BR](/f10/language/pt_BR) | 430 | 432 | 99.5 | /mnt/stockage/packages/f10/guake/po/pt_BR.po | 
+ | [pl](/f10/language/pl) | 421 | 432 | 97.5 | /mnt/stockage/packages/f10/guake/po/pl.po | 
+ | [nb_NO](/f10/language/nb_NO) | 416 | 434 | 95.9 | /mnt/stockage/packages/f10/guake/po/no_NB.po | 
+ | [de](/f10/language/de) | 333 | 432 | 77.1 | /mnt/stockage/packages/f10/guake/po/de.po | 
+ | [es](/f10/language/es) | 315 | 432 | 72.9 | /mnt/stockage/packages/f10/guake/po/es.po | 
+ | [ru](/f10/language/ru) | 269 | 432 | 62.3 | /mnt/stockage/packages/f10/guake/po/ru_RU.po | 
+ | [ja](/f10/language/ja) | 201 | 432 | 46.5 | /mnt/stockage/packages/f10/guake/po/ja.po | 
 {.sortable}
 
 

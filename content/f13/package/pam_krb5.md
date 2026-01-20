@@ -18,23 +18,23 @@ The package pam_krb5 (version 2.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/el.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/es.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/fa.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/fr.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/hu.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/it.po | 
- | [ms]({{< ref "/f13/language/ms.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/ms.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/nl.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/pl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/pt_BR.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/ro.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/sr@latin.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/sv.po | 
+ | [ca](/f13/language/ca) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/ca.po | 
+ | [cs](/f13/language/cs) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/cs.po | 
+ | [de](/f13/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/de.po | 
+ | [el](/f13/language/el) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/el.po | 
+ | [es](/f13/language/es) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/es.po | 
+ | [fa](/f13/language/fa) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/fa.po | 
+ | [fr](/f13/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/fr.po | 
+ | [hu](/f13/language/hu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/hu.po | 
+ | [it](/f13/language/it) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/it.po | 
+ | [ms](/f13/language/ms) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/ms.po | 
+ | [nl](/f13/language/nl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/nl.po | 
+ | [pl](/f13/language/pl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/pl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/pt_BR.po | 
+ | [ro](/f13/language/ro) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/ro.po | 
+ | [sr](/f13/language/sr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/sr@latin.po | 
+ | [sv](/f13/language/sv) | 7 | 7 | 100.0 | /mnt/stockage/packages/f13/pam_krb5/po/sv.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package dos2unix (version 7.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/fr.po/mnt/stockage/packages/f39/dos2unix/po-man/fr.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/ko.po/mnt/stockage/packages/f39/dos2unix/po-man/ko.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 1079 | 1079 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/nb.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/pl.po/mnt/stockage/packages/f39/dos2unix/po-man/pl.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/ro.po/mnt/stockage/packages/f39/dos2unix/po-man/ro.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/sv.po/mnt/stockage/packages/f39/dos2unix/po-man/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/uk.po/mnt/stockage/packages/f39/dos2unix/po-man/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/zh_CN.po/mnt/stockage/packages/f39/dos2unix/po-man/zh_CN.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 5208 | 5372 | 96.9 | /mnt/stockage/packages/f39/dos2unix/po/de.po/mnt/stockage/packages/f39/dos2unix/po-man/de.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 5153 | 5372 | 95.9 | /mnt/stockage/packages/f39/dos2unix/po/pt_BR.po/mnt/stockage/packages/f39/dos2unix/po-man/pt_BR.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 5153 | 5372 | 95.9 | /mnt/stockage/packages/f39/dos2unix/po/sr.po/mnt/stockage/packages/f39/dos2unix/po-man/sr.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/da.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/eo.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/fur.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/hu.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/ja.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/ru.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 1017 | 1079 | 94.3 | /mnt/stockage/packages/f39/dos2unix/po/ca.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 969 | 1079 | 89.8 | /mnt/stockage/packages/f39/dos2unix/po/vi.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 4276 | 5372 | 79.6 | /mnt/stockage/packages/f39/dos2unix/po/nl.po/mnt/stockage/packages/f39/dos2unix/po-man/nl.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 853 | 1079 | 79.1 | /mnt/stockage/packages/f39/dos2unix/po/zh_TW.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 3818 | 5372 | 71.1 | /mnt/stockage/packages/f39/dos2unix/po/es.po/mnt/stockage/packages/f39/dos2unix/po-man/es.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 676 | 1079 | 62.7 | /mnt/stockage/packages/f39/dos2unix/po/ka.po | 
+ | [fr](/f39/language/fr) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/fr.po/mnt/stockage/packages/f39/dos2unix/po-man/fr.po | 
+ | [ko](/f39/language/ko) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/ko.po/mnt/stockage/packages/f39/dos2unix/po-man/ko.po | 
+ | [nb_NO](/f39/language/nb_NO) | 1079 | 1079 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/nb.po | 
+ | [pl](/f39/language/pl) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/pl.po/mnt/stockage/packages/f39/dos2unix/po-man/pl.po | 
+ | [ro](/f39/language/ro) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/ro.po/mnt/stockage/packages/f39/dos2unix/po-man/ro.po | 
+ | [sv](/f39/language/sv) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/sv.po/mnt/stockage/packages/f39/dos2unix/po-man/sv.po | 
+ | [uk](/f39/language/uk) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/uk.po/mnt/stockage/packages/f39/dos2unix/po-man/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 5372 | 5372 | 100.0 | /mnt/stockage/packages/f39/dos2unix/po/zh_CN.po/mnt/stockage/packages/f39/dos2unix/po-man/zh_CN.po | 
+ | [de](/f39/language/de) | 5208 | 5372 | 96.9 | /mnt/stockage/packages/f39/dos2unix/po/de.po/mnt/stockage/packages/f39/dos2unix/po-man/de.po | 
+ | [pt_BR](/f39/language/pt_BR) | 5153 | 5372 | 95.9 | /mnt/stockage/packages/f39/dos2unix/po/pt_BR.po/mnt/stockage/packages/f39/dos2unix/po-man/pt_BR.po | 
+ | [sr](/f39/language/sr) | 5153 | 5372 | 95.9 | /mnt/stockage/packages/f39/dos2unix/po/sr.po/mnt/stockage/packages/f39/dos2unix/po-man/sr.po | 
+ | [da](/f39/language/da) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/da.po | 
+ | [eo](/f39/language/eo) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/eo.po | 
+ | [fur](/f39/language/fur) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/fur.po | 
+ | [hu](/f39/language/hu) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/hu.po | 
+ | [ja](/f39/language/ja) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/ja.po | 
+ | [ru](/f39/language/ru) | 1024 | 1079 | 94.9 | /mnt/stockage/packages/f39/dos2unix/po/ru.po | 
+ | [ca](/f39/language/ca) | 1017 | 1079 | 94.3 | /mnt/stockage/packages/f39/dos2unix/po/ca.po | 
+ | [vi](/f39/language/vi) | 969 | 1079 | 89.8 | /mnt/stockage/packages/f39/dos2unix/po/vi.po | 
+ | [nl](/f39/language/nl) | 4276 | 5372 | 79.6 | /mnt/stockage/packages/f39/dos2unix/po/nl.po/mnt/stockage/packages/f39/dos2unix/po-man/nl.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 853 | 1079 | 79.1 | /mnt/stockage/packages/f39/dos2unix/po/zh_TW.po | 
+ | [es](/f39/language/es) | 3818 | 5372 | 71.1 | /mnt/stockage/packages/f39/dos2unix/po/es.po/mnt/stockage/packages/f39/dos2unix/po-man/es.po | 
+ | [ka](/f39/language/ka) | 676 | 1079 | 62.7 | /mnt/stockage/packages/f39/dos2unix/po/ka.po | 
 {.sortable}
 
 

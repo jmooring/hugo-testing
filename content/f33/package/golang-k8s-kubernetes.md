@@ -18,13 +18,13 @@ The package golang-k8s-kubernetes (version 1.18.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f33/language/en.md" >}}) | 13634 | 13634 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/test/default/LC_MESSAGES/k8s.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 6796 | 6796 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/it_IT/LC_MESSAGES/k8s.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 6832 | 6832 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/ko_KR/LC_MESSAGES/k8s.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 6843 | 6843 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 5965 | 6796 | 87.8 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/de_DE/LC_MESSAGES/k8s.po | 
+ | [en](/f33/language/en) | 13634 | 13634 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/test/default/LC_MESSAGES/k8s.po | 
+ | [fr](/f33/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
+ | [it](/f33/language/it) | 6796 | 6796 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/it_IT/LC_MESSAGES/k8s.po | 
+ | [ja](/f33/language/ja) | 6832 | 6832 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
+ | [ko](/f33/language/ko) | 125 | 125 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/ko_KR/LC_MESSAGES/k8s.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 6843 | 6843 | 100.0 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
+ | [de](/f33/language/de) | 5965 | 6796 | 87.8 | /mnt/stockage/packages/f33/golang-k8s-kubernetes/translations/kubectl/de_DE/LC_MESSAGES/k8s.po | 
 {.sortable}
 
 

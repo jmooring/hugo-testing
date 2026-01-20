@@ -18,9 +18,9 @@ The package rubygem-fast_gettext (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f24/language/error.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f24/rubygem-fast_gettext/locale/gsw_CH/test.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f24/rubygem-fast_gettext/fuzzy_locale/de/test.po/mnt/stockage/packages/f24/rubygem-fast_gettext/locale/de/test.po/mnt/stockage/packages/f24/rubygem-fast_gettext/locale/de/test2.po/mnt/stockage/packages/f24/rubygem-fast_gettext/obsolete_locale/de/test.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 1 | 29 | 3.4 | /mnt/stockage/packages/f24/rubygem-fast_gettext/locale/en/test.po/mnt/stockage/packages/f24/rubygem-fast_gettext/locale/en/plural_test.po | 
+ | [error](/f24/language/error) | 28 | 28 | 100.0 | /mnt/stockage/packages/f24/rubygem-fast_gettext/locale/gsw_CH/test.po | 
+ | [de](/f24/language/de) | 78 | 85 | 91.8 | /mnt/stockage/packages/f24/rubygem-fast_gettext/fuzzy_locale/de/test.po/mnt/stockage/packages/f24/rubygem-fast_gettext/locale/de/test.po/mnt/stockage/packages/f24/rubygem-fast_gettext/locale/de/test2.po/mnt/stockage/packages/f24/rubygem-fast_gettext/obsolete_locale/de/test.po | 
+ | [en](/f24/language/en) | 1 | 29 | 3.4 | /mnt/stockage/packages/f24/rubygem-fast_gettext/locale/en/test.po/mnt/stockage/packages/f24/rubygem-fast_gettext/locale/en/plural_test.po | 
 {.sortable}
 
 

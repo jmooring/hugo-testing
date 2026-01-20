@@ -18,74 +18,74 @@ The package gcompris (version 9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f11/language/af.md" >}}) | 10645 | 10645 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/af.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ar.po | 
- | [ast]({{< ref "/f11/language/ast.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ast.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 10620 | 10620 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/bg.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 10235 | 10235 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 10596 | 10596 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 10875 | 10875 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/de.po | 
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 9991 | 9991 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/dz.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/el.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 10250 | 10250 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/en_CA.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 10249 | 10249 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/en_GB.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 10250 | 10250 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/sr@Latn.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 10871 | 10871 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/eu.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 10020 | 10020 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/fa.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/gl.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 4667 | 4667 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/gu.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 10756 | 10756 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 10218 | 10218 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 10220 | 10220 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/it.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 10429 | 10429 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ka.po | 
- | [ne]({{< ref "/f11/language/ne.md" >}}) | 10248 | 10248 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ne.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 10319 | 10319 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/nl.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 10871 | 10871 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/nn.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 8256 | 8256 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 10645 | 10645 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 10645 | 10645 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 10637 | 10637 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ru.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 10250 | 10250 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/sr.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 10871 | 10871 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 10596 | 10596 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ta.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 10201 | 10201 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/th.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 10596 | 10596 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/uk.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 10235 | 10235 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/vi.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/zh_HK.po | 
- | [br]({{< ref "/f11/language/br.md" >}}) | 10243 | 10244 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/br.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 9980 | 9983 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/hi.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 9224 | 9596 | 96.1 | /mnt/stockage/packages/f11/gcompris/po/ko.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 9379 | 10236 | 91.6 | /mnt/stockage/packages/f11/gcompris/po/lt.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 9515 | 10401 | 91.5 | /mnt/stockage/packages/f11/gcompris/po/eo.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 8790 | 9970 | 88.2 | /mnt/stockage/packages/f11/gcompris/po/nb.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 8382 | 9553 | 87.7 | /mnt/stockage/packages/f11/gcompris/po/tr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 8265 | 9596 | 86.1 | /mnt/stockage/packages/f11/gcompris/po/ja.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 8802 | 10250 | 85.9 | /mnt/stockage/packages/f11/gcompris/po/fi.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 7131 | 9716 | 73.4 | /mnt/stockage/packages/f11/gcompris/po/sk.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 6428 | 10633 | 60.5 | /mnt/stockage/packages/f11/gcompris/po/he.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 5752 | 10756 | 53.5 | /mnt/stockage/packages/f11/gcompris/po/sl.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 3884 | 10248 | 37.9 | /mnt/stockage/packages/f11/gcompris/po/ro.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 1045 | 3517 | 29.7 | /mnt/stockage/packages/f11/gcompris/po/ms.po | 
- | [so]({{< ref "/f11/language/so.md" >}}) | 2167 | 9603 | 22.6 | /mnt/stockage/packages/f11/gcompris/po/so.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 755 | 3517 | 21.5 | /mnt/stockage/packages/f11/gcompris/po/mk.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 853 | 10249 | 8.3 | /mnt/stockage/packages/f11/gcompris/po/oc.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 475 | 10514 | 4.5 | /mnt/stockage/packages/f11/gcompris/po/pa.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 180 | 3995 | 4.5 | /mnt/stockage/packages/f11/gcompris/po/sq.po | 
- | [az]({{< ref "/f11/language/az.md" >}}) | 152 | 3517 | 4.3 | /mnt/stockage/packages/f11/gcompris/po/az.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 123 | 3517 | 3.5 | /mnt/stockage/packages/f11/gcompris/po/ga.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 107 | 3517 | 3.0 | /mnt/stockage/packages/f11/gcompris/po/am.po | 
- | [wa]({{< ref "/f11/language/wa.md" >}}) | 118 | 3921 | 3.0 | /mnt/stockage/packages/f11/gcompris/po/wa.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 111 | 4916 | 2.3 | /mnt/stockage/packages/f11/gcompris/po/rw.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 38 | 3517 | 1.1 | /mnt/stockage/packages/f11/gcompris/po/ml.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/et.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/hr.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/mr.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/ur.po | 
+ | [af](/f11/language/af) | 10645 | 10645 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/af.po | 
+ | [ar](/f11/language/ar) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ar.po | 
+ | [ast](/f11/language/ast) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ast.po | 
+ | [bg](/f11/language/bg) | 10620 | 10620 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/bg.po | 
+ | [ca](/f11/language/ca) | 10235 | 10235 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ca.po | 
+ | [cs](/f11/language/cs) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/cs.po | 
+ | [da](/f11/language/da) | 10596 | 10596 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/da.po | 
+ | [de](/f11/language/de) | 10875 | 10875 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/de.po | 
+ | [dz](/f11/language/dz) | 9991 | 9991 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/dz.po | 
+ | [el](/f11/language/el) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/el.po | 
+ | [en_CA](/f11/language/en_CA) | 10250 | 10250 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/en_CA.po | 
+ | [en_GB](/f11/language/en_GB) | 10249 | 10249 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/en_GB.po | 
+ | [error](/f11/language/error) | 10250 | 10250 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/sr@Latn.po | 
+ | [es](/f11/language/es) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/es.po | 
+ | [eu](/f11/language/eu) | 10871 | 10871 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/eu.po | 
+ | [fa](/f11/language/fa) | 10020 | 10020 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/fa.po | 
+ | [fr](/f11/language/fr) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/fr.po | 
+ | [gl](/f11/language/gl) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/gl.po | 
+ | [gu](/f11/language/gu) | 4667 | 4667 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/gu.po | 
+ | [hu](/f11/language/hu) | 10756 | 10756 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/hu.po | 
+ | [id](/f11/language/id) | 10218 | 10218 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/id.po | 
+ | [it](/f11/language/it) | 10220 | 10220 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/it.po | 
+ | [ka](/f11/language/ka) | 10429 | 10429 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ka.po | 
+ | [ne](/f11/language/ne) | 10248 | 10248 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ne.po | 
+ | [nl](/f11/language/nl) | 10319 | 10319 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/nl.po | 
+ | [nn](/f11/language/nn) | 10871 | 10871 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/nn.po | 
+ | [pl](/f11/language/pl) | 8256 | 8256 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/pl.po | 
+ | [pt](/f11/language/pt) | 10645 | 10645 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 10645 | 10645 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 10637 | 10637 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ru.po | 
+ | [sr](/f11/language/sr) | 10250 | 10250 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/sr.po | 
+ | [sv](/f11/language/sv) | 10871 | 10871 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/sv.po | 
+ | [ta](/f11/language/ta) | 10596 | 10596 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/ta.po | 
+ | [th](/f11/language/th) | 10201 | 10201 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/th.po | 
+ | [uk](/f11/language/uk) | 10596 | 10596 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/uk.po | 
+ | [vi](/f11/language/vi) | 10235 | 10235 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/vi.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 10877 | 10877 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/zh_HK.po | 
+ | [br](/f11/language/br) | 10243 | 10244 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/br.po | 
+ | [hi](/f11/language/hi) | 9980 | 9983 | 100.0 | /mnt/stockage/packages/f11/gcompris/po/hi.po | 
+ | [ko](/f11/language/ko) | 9224 | 9596 | 96.1 | /mnt/stockage/packages/f11/gcompris/po/ko.po | 
+ | [lt](/f11/language/lt) | 9379 | 10236 | 91.6 | /mnt/stockage/packages/f11/gcompris/po/lt.po | 
+ | [eo](/f11/language/eo) | 9515 | 10401 | 91.5 | /mnt/stockage/packages/f11/gcompris/po/eo.po | 
+ | [nb_NO](/f11/language/nb_NO) | 8790 | 9970 | 88.2 | /mnt/stockage/packages/f11/gcompris/po/nb.po | 
+ | [tr](/f11/language/tr) | 8382 | 9553 | 87.7 | /mnt/stockage/packages/f11/gcompris/po/tr.po | 
+ | [ja](/f11/language/ja) | 8265 | 9596 | 86.1 | /mnt/stockage/packages/f11/gcompris/po/ja.po | 
+ | [fi](/f11/language/fi) | 8802 | 10250 | 85.9 | /mnt/stockage/packages/f11/gcompris/po/fi.po | 
+ | [sk](/f11/language/sk) | 7131 | 9716 | 73.4 | /mnt/stockage/packages/f11/gcompris/po/sk.po | 
+ | [he](/f11/language/he) | 6428 | 10633 | 60.5 | /mnt/stockage/packages/f11/gcompris/po/he.po | 
+ | [sl](/f11/language/sl) | 5752 | 10756 | 53.5 | /mnt/stockage/packages/f11/gcompris/po/sl.po | 
+ | [ro](/f11/language/ro) | 3884 | 10248 | 37.9 | /mnt/stockage/packages/f11/gcompris/po/ro.po | 
+ | [ms](/f11/language/ms) | 1045 | 3517 | 29.7 | /mnt/stockage/packages/f11/gcompris/po/ms.po | 
+ | [so](/f11/language/so) | 2167 | 9603 | 22.6 | /mnt/stockage/packages/f11/gcompris/po/so.po | 
+ | [mk](/f11/language/mk) | 755 | 3517 | 21.5 | /mnt/stockage/packages/f11/gcompris/po/mk.po | 
+ | [oc](/f11/language/oc) | 853 | 10249 | 8.3 | /mnt/stockage/packages/f11/gcompris/po/oc.po | 
+ | [pa](/f11/language/pa) | 475 | 10514 | 4.5 | /mnt/stockage/packages/f11/gcompris/po/pa.po | 
+ | [sq](/f11/language/sq) | 180 | 3995 | 4.5 | /mnt/stockage/packages/f11/gcompris/po/sq.po | 
+ | [az](/f11/language/az) | 152 | 3517 | 4.3 | /mnt/stockage/packages/f11/gcompris/po/az.po | 
+ | [ga](/f11/language/ga) | 123 | 3517 | 3.5 | /mnt/stockage/packages/f11/gcompris/po/ga.po | 
+ | [am](/f11/language/am) | 107 | 3517 | 3.0 | /mnt/stockage/packages/f11/gcompris/po/am.po | 
+ | [wa](/f11/language/wa) | 118 | 3921 | 3.0 | /mnt/stockage/packages/f11/gcompris/po/wa.po | 
+ | [rw](/f11/language/rw) | 111 | 4916 | 2.3 | /mnt/stockage/packages/f11/gcompris/po/rw.po | 
+ | [ml](/f11/language/ml) | 38 | 3517 | 1.1 | /mnt/stockage/packages/f11/gcompris/po/ml.po | 
+ | [et](/f11/language/et) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/et.po | 
+ | [hr](/f11/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/hr.po | 
+ | [mr](/f11/language/mr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/mr.po | 
+ | [ur](/f11/language/ur) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/gcompris/po/ur.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package bash (version 3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f8/language/error.md" >}}) | 16468 | 16468 | 100.0 | /mnt/stockage/packages/f8/bash/po/en@boldquot.po/mnt/stockage/packages/f8/bash/po/en@quot.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/bash/po/ru.po | 
+ | [error](/f8/language/error) | 16468 | 16468 | 100.0 | /mnt/stockage/packages/f8/bash/po/en@boldquot.po/mnt/stockage/packages/f8/bash/po/en@quot.po | 
+ | [ru](/f8/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/bash/po/ru.po | 
 {.sortable}
 
 

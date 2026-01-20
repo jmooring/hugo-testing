@@ -18,13 +18,13 @@ The package fish (version 3.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 46283 | 143107 | 32.3 | /mnt/stockage/packages/f41/fish/po/fr.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 12489 | 143107 | 8.7 | /mnt/stockage/packages/f41/fish/po/en.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 8080 | 143107 | 5.6 | /mnt/stockage/packages/f41/fish/po/sv.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 7252 | 143107 | 5.1 | /mnt/stockage/packages/f41/fish/po/de.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 6099 | 143107 | 4.3 | /mnt/stockage/packages/f41/fish/po/pt_BR.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 392 | 143107 | 0.3 | /mnt/stockage/packages/f41/fish/po/pl.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 161 | 143107 | 0.1 | /mnt/stockage/packages/f41/fish/po/zh_CN.po | 
+ | [fr](/f41/language/fr) | 46283 | 143107 | 32.3 | /mnt/stockage/packages/f41/fish/po/fr.po | 
+ | [en](/f41/language/en) | 12489 | 143107 | 8.7 | /mnt/stockage/packages/f41/fish/po/en.po | 
+ | [sv](/f41/language/sv) | 8080 | 143107 | 5.6 | /mnt/stockage/packages/f41/fish/po/sv.po | 
+ | [de](/f41/language/de) | 7252 | 143107 | 5.1 | /mnt/stockage/packages/f41/fish/po/de.po | 
+ | [pt_BR](/f41/language/pt_BR) | 6099 | 143107 | 4.3 | /mnt/stockage/packages/f41/fish/po/pt_BR.po | 
+ | [pl](/f41/language/pl) | 392 | 143107 | 0.3 | /mnt/stockage/packages/f41/fish/po/pl.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 161 | 143107 | 0.1 | /mnt/stockage/packages/f41/fish/po/zh_CN.po | 
 {.sortable}
 
 

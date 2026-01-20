@@ -18,7 +18,7 @@ The package python-oslo-db (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-critical.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-error.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-info.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-warning.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db.po | 
+ | [en_GB](/f22/language/en_GB) | 216 | 216 | 100.0 | /mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-critical.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-error.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-info.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-warning.po/mnt/stockage/packages/f22/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db.po | 
 {.sortable}
 
 

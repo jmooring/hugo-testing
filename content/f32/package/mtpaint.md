@@ -18,25 +18,25 @@ The package mtpaint (version 3.50):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3418 | 3459 | 98.8 | /mnt/stockage/packages/f32/mtpaint/po/ru.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 3417 | 3459 | 98.8 | /mnt/stockage/packages/f32/mtpaint/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3209 | 3459 | 92.8 | /mnt/stockage/packages/f32/mtpaint/po/de.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3062 | 3459 | 88.5 | /mnt/stockage/packages/f32/mtpaint/po/nl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 2973 | 3459 | 85.9 | /mnt/stockage/packages/f32/mtpaint/po/it.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 2872 | 3459 | 83.0 | /mnt/stockage/packages/f32/mtpaint/po/es.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 2870 | 3459 | 83.0 | /mnt/stockage/packages/f32/mtpaint/po/gl.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 2849 | 3459 | 82.4 | /mnt/stockage/packages/f32/mtpaint/po/ja.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 2811 | 3459 | 81.3 | /mnt/stockage/packages/f32/mtpaint/po/zh_CN.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 2730 | 3459 | 78.9 | /mnt/stockage/packages/f32/mtpaint/po/cs.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 2689 | 3459 | 77.7 | /mnt/stockage/packages/f32/mtpaint/po/sv.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2365 | 3459 | 68.4 | /mnt/stockage/packages/f32/mtpaint/po/sk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 2349 | 3459 | 67.9 | /mnt/stockage/packages/f32/mtpaint/po/zh_TW.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1990 | 3459 | 57.5 | /mnt/stockage/packages/f32/mtpaint/po/hu.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1831 | 3459 | 52.9 | /mnt/stockage/packages/f32/mtpaint/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1339 | 3459 | 38.7 | /mnt/stockage/packages/f32/mtpaint/po/pt_BR.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 943 | 3459 | 27.3 | /mnt/stockage/packages/f32/mtpaint/po/tl.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 752 | 3459 | 21.7 | /mnt/stockage/packages/f32/mtpaint/po/tr.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 491 | 3459 | 14.2 | /mnt/stockage/packages/f32/mtpaint/po/pt.po | 
+ | [ru](/f32/language/ru) | 3418 | 3459 | 98.8 | /mnt/stockage/packages/f32/mtpaint/po/ru.po | 
+ | [fr](/f32/language/fr) | 3417 | 3459 | 98.8 | /mnt/stockage/packages/f32/mtpaint/po/fr.po | 
+ | [de](/f32/language/de) | 3209 | 3459 | 92.8 | /mnt/stockage/packages/f32/mtpaint/po/de.po | 
+ | [nl](/f32/language/nl) | 3062 | 3459 | 88.5 | /mnt/stockage/packages/f32/mtpaint/po/nl.po | 
+ | [it](/f32/language/it) | 2973 | 3459 | 85.9 | /mnt/stockage/packages/f32/mtpaint/po/it.po | 
+ | [es](/f32/language/es) | 2872 | 3459 | 83.0 | /mnt/stockage/packages/f32/mtpaint/po/es.po | 
+ | [gl](/f32/language/gl) | 2870 | 3459 | 83.0 | /mnt/stockage/packages/f32/mtpaint/po/gl.po | 
+ | [ja](/f32/language/ja) | 2849 | 3459 | 82.4 | /mnt/stockage/packages/f32/mtpaint/po/ja.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 2811 | 3459 | 81.3 | /mnt/stockage/packages/f32/mtpaint/po/zh_CN.po | 
+ | [cs](/f32/language/cs) | 2730 | 3459 | 78.9 | /mnt/stockage/packages/f32/mtpaint/po/cs.po | 
+ | [sv](/f32/language/sv) | 2689 | 3459 | 77.7 | /mnt/stockage/packages/f32/mtpaint/po/sv.po | 
+ | [sk](/f32/language/sk) | 2365 | 3459 | 68.4 | /mnt/stockage/packages/f32/mtpaint/po/sk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 2349 | 3459 | 67.9 | /mnt/stockage/packages/f32/mtpaint/po/zh_TW.po | 
+ | [hu](/f32/language/hu) | 1990 | 3459 | 57.5 | /mnt/stockage/packages/f32/mtpaint/po/hu.po | 
+ | [pl](/f32/language/pl) | 1831 | 3459 | 52.9 | /mnt/stockage/packages/f32/mtpaint/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1339 | 3459 | 38.7 | /mnt/stockage/packages/f32/mtpaint/po/pt_BR.po | 
+ | [tl](/f32/language/tl) | 943 | 3459 | 27.3 | /mnt/stockage/packages/f32/mtpaint/po/tl.po | 
+ | [tr](/f32/language/tr) | 752 | 3459 | 21.7 | /mnt/stockage/packages/f32/mtpaint/po/tr.po | 
+ | [pt](/f32/language/pt) | 491 | 3459 | 14.2 | /mnt/stockage/packages/f32/mtpaint/po/pt.po | 
 {.sortable}
 
 

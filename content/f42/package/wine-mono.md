@@ -18,12 +18,12 @@ The package wine-mono (version 10.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 7193 | 7273 | 98.9 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/ka.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 4760 | 7273 | 65.4 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/pt_BR.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 17 | 36 | 47.2 | /mnt/stockage/packages/f42/wine-mono/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1120 | 7273 | 15.4 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 943 | 7273 | 13.0 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/es.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 276 | 7273 | 3.8 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/de.po | 
+ | [ka](/f42/language/ka) | 7193 | 7273 | 98.9 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/ka.po | 
+ | [pt_BR](/f42/language/pt_BR) | 4760 | 7273 | 65.4 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/pt_BR.po | 
+ | [en](/f42/language/en) | 17 | 36 | 47.2 | /mnt/stockage/packages/f42/wine-mono/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
+ | [ja](/f42/language/ja) | 1120 | 7273 | 15.4 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/ja.po | 
+ | [es](/f42/language/es) | 943 | 7273 | 13.0 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/es.po | 
+ | [de](/f42/language/de) | 276 | 7273 | 3.8 | /mnt/stockage/packages/f42/wine-mono/mono/po/mcs/de.po | 
 {.sortable}
 
 

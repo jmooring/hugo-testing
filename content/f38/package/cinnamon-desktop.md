@@ -18,115 +18,115 @@ The package cinnamon-desktop (version 6.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f38/language/as.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/as.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/be.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bg.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ca.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ca@valencia.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/en_GB.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ta.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/es.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/et.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ko.po | 
- | [ky]({{< ref "/f38/language/ky.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ky.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/lv.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mr.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nb.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pa.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sl.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/th.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ug.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zh_HK.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 465 | 468 | 99.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sr@latin.po/mnt/stockage/packages/f38/cinnamon-desktop/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 232 | 234 | 99.1 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sv.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 232 | 234 | 99.1 | /mnt/stockage/packages/f38/cinnamon-desktop/po/vi.po | 
- | [an]({{< ref "/f38/language/an.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/an.po | 
- | [bn_IN]({{< ref "/f38/language/bn_IN.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bn_IN.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fa.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/gu.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/kn.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ml.po | 
- | [or]({{< ref "/f38/language/or.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/or.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/te.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bn.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/eo.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/eu.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/km.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nl.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ro.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/tr.po | 
- | [csb]({{< ref "/f38/language/csb.md" >}}) | 223 | 231 | 96.5 | /mnt/stockage/packages/f38/cinnamon-desktop/po/csb.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 223 | 234 | 95.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/af.po | 
- | [crh]({{< ref "/f38/language/crh.md" >}}) | 223 | 234 | 95.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/crh.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 223 | 234 | 95.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mk.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 220 | 234 | 94.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/el.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 207 | 231 | 89.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fur.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 208 | 234 | 88.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ast.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 208 | 234 | 88.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/kk.po | 
- | [kg]({{< ref "/f38/language/kg.md" >}}) | 205 | 231 | 88.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/kg.po | 
- | [lo]({{< ref "/f38/language/lo.md" >}}) | 207 | 234 | 88.5 | /mnt/stockage/packages/f38/cinnamon-desktop/po/lo.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 194 | 234 | 82.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nn.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 341 | 468 | 72.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mai.po/mnt/stockage/packages/f38/cinnamon-desktop/po/hi.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 137 | 234 | 58.5 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ar.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 129 | 234 | 55.1 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ms.po | 
- | [xh]({{< ref "/f38/language/xh.md" >}}) | 127 | 234 | 54.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/xh.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 125 | 234 | 53.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ga.po | 
- | [uz]({{< ref "/f38/language/uz.md" >}}) | 226 | 465 | 48.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/uz@cyrillic.po/mnt/stockage/packages/f38/cinnamon-desktop/po/uz.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 110 | 234 | 47.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nds.po | 
- | [hy]({{< ref "/f38/language/hy.md" >}}) | 108 | 231 | 46.8 | /mnt/stockage/packages/f38/cinnamon-desktop/po/hy.po | 
- | [mn]({{< ref "/f38/language/mn.md" >}}) | 108 | 234 | 46.2 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mn.po | 
- | [be_Latn]({{< ref "/f38/language/be_Latn.md" >}}) | 107 | 234 | 45.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/be@latin.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 107 | 234 | 45.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/en@shaw.po | 
- | [br]({{< ref "/f38/language/br.md" >}}) | 98 | 234 | 41.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/br.po | 
- | [ku]({{< ref "/f38/language/ku.md" >}}) | 57 | 234 | 24.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ku.po | 
- | [fy]({{< ref "/f38/language/fy.md" >}}) | 29 | 234 | 12.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fy.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 16 | 234 | 6.8 | /mnt/stockage/packages/f38/cinnamon-desktop/po/is.po | 
- | [mg]({{< ref "/f38/language/mg.md" >}}) | 4 | 234 | 1.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mg.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 4 | 234 | 1.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sq.po | 
- | [am]({{< ref "/f38/language/am.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/am.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/az.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bs.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/cy.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ne.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/oc.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/si.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ur.po | 
- | [dz]({{< ref "/f38/language/dz.md" >}}) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/dz.po | 
- | [en_CA]({{< ref "/f38/language/en_CA.md" >}}) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/en_CA.po | 
- | [ha]({{< ref "/f38/language/ha.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ha.po | 
- | [ig]({{< ref "/f38/language/ig.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ig.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ka.po | 
- | [li]({{< ref "/f38/language/li.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/li.po | 
- | [mi]({{< ref "/f38/language/mi.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mi.po | 
- | [nso]({{< ref "/f38/language/nso.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nso.po | 
- | [ps]({{< ref "/f38/language/ps.md" >}}) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ps.po | 
- | [rw]({{< ref "/f38/language/rw.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/rw.po | 
- | [tk]({{< ref "/f38/language/tk.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/tk.po | 
- | [wa]({{< ref "/f38/language/wa.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/wa.po | 
- | [yi]({{< ref "/f38/language/yi.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/yi.po | 
- | [yo]({{< ref "/f38/language/yo.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/yo.po | 
- | [zu]({{< ref "/f38/language/zu.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zu.po | 
+ | [as](/f38/language/as) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/as.po | 
+ | [be](/f38/language/be) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/be.po | 
+ | [bg](/f38/language/bg) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bg.po | 
+ | [ca](/f38/language/ca) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ca.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ca@valencia.po | 
+ | [cs](/f38/language/cs) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/cs.po | 
+ | [da](/f38/language/da) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/da.po | 
+ | [de](/f38/language/de) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/en_GB.po | 
+ | [en_US](/f38/language/en_US) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ta.po | 
+ | [es](/f38/language/es) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/es.po | 
+ | [et](/f38/language/et) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/et.po | 
+ | [fi](/f38/language/fi) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fi.po | 
+ | [fr](/f38/language/fr) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fr.po | 
+ | [gl](/f38/language/gl) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/gl.po | 
+ | [he](/f38/language/he) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/he.po | 
+ | [hr](/f38/language/hr) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/hr.po | 
+ | [hu](/f38/language/hu) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/hu.po | 
+ | [id](/f38/language/id) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/id.po | 
+ | [it](/f38/language/it) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/it.po | 
+ | [ja](/f38/language/ja) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ja.po | 
+ | [ko](/f38/language/ko) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ko.po | 
+ | [ky](/f38/language/ky) | 231 | 231 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ky.po | 
+ | [lt](/f38/language/lt) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/lt.po | 
+ | [lv](/f38/language/lv) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/lv.po | 
+ | [mr](/f38/language/mr) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mr.po | 
+ | [nb_NO](/f38/language/nb_NO) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nb.po | 
+ | [pa](/f38/language/pa) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pa.po | 
+ | [pl](/f38/language/pl) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pl.po | 
+ | [pt](/f38/language/pt) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ru.po | 
+ | [sk](/f38/language/sk) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sk.po | 
+ | [sl](/f38/language/sl) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sl.po | 
+ | [th](/f38/language/th) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/th.po | 
+ | [ug](/f38/language/ug) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ug.po | 
+ | [uk](/f38/language/uk) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zh_TW.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 234 | 234 | 100.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zh_HK.po | 
+ | [sr](/f38/language/sr) | 465 | 468 | 99.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sr@latin.po/mnt/stockage/packages/f38/cinnamon-desktop/po/sr.po | 
+ | [sv](/f38/language/sv) | 232 | 234 | 99.1 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sv.po | 
+ | [vi](/f38/language/vi) | 232 | 234 | 99.1 | /mnt/stockage/packages/f38/cinnamon-desktop/po/vi.po | 
+ | [an](/f38/language/an) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/an.po | 
+ | [bn_IN](/f38/language/bn_IN) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bn_IN.po | 
+ | [fa](/f38/language/fa) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fa.po | 
+ | [gu](/f38/language/gu) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/gu.po | 
+ | [kn](/f38/language/kn) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/kn.po | 
+ | [ml](/f38/language/ml) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ml.po | 
+ | [or](/f38/language/or) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/or.po | 
+ | [te](/f38/language/te) | 231 | 234 | 98.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/te.po | 
+ | [bn](/f38/language/bn) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bn.po | 
+ | [eo](/f38/language/eo) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/eo.po | 
+ | [eu](/f38/language/eu) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/eu.po | 
+ | [km](/f38/language/km) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/km.po | 
+ | [nl](/f38/language/nl) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nl.po | 
+ | [ro](/f38/language/ro) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ro.po | 
+ | [tr](/f38/language/tr) | 226 | 234 | 96.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/tr.po | 
+ | [csb](/f38/language/csb) | 223 | 231 | 96.5 | /mnt/stockage/packages/f38/cinnamon-desktop/po/csb.po | 
+ | [af](/f38/language/af) | 223 | 234 | 95.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/af.po | 
+ | [crh](/f38/language/crh) | 223 | 234 | 95.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/crh.po | 
+ | [mk](/f38/language/mk) | 223 | 234 | 95.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mk.po | 
+ | [el](/f38/language/el) | 220 | 234 | 94.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/el.po | 
+ | [fur](/f38/language/fur) | 207 | 231 | 89.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fur.po | 
+ | [ast](/f38/language/ast) | 208 | 234 | 88.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ast.po | 
+ | [kk](/f38/language/kk) | 208 | 234 | 88.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/kk.po | 
+ | [kg](/f38/language/kg) | 205 | 231 | 88.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/kg.po | 
+ | [lo](/f38/language/lo) | 207 | 234 | 88.5 | /mnt/stockage/packages/f38/cinnamon-desktop/po/lo.po | 
+ | [nn](/f38/language/nn) | 194 | 234 | 82.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nn.po | 
+ | [hi](/f38/language/hi) | 341 | 468 | 72.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mai.po/mnt/stockage/packages/f38/cinnamon-desktop/po/hi.po | 
+ | [ar](/f38/language/ar) | 137 | 234 | 58.5 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ar.po | 
+ | [ms](/f38/language/ms) | 129 | 234 | 55.1 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ms.po | 
+ | [xh](/f38/language/xh) | 127 | 234 | 54.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/xh.po | 
+ | [ga](/f38/language/ga) | 125 | 234 | 53.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ga.po | 
+ | [uz](/f38/language/uz) | 226 | 465 | 48.6 | /mnt/stockage/packages/f38/cinnamon-desktop/po/uz@cyrillic.po/mnt/stockage/packages/f38/cinnamon-desktop/po/uz.po | 
+ | [nds](/f38/language/nds) | 110 | 234 | 47.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nds.po | 
+ | [hy](/f38/language/hy) | 108 | 231 | 46.8 | /mnt/stockage/packages/f38/cinnamon-desktop/po/hy.po | 
+ | [mn](/f38/language/mn) | 108 | 234 | 46.2 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mn.po | 
+ | [be_Latn](/f38/language/be_Latn) | 107 | 234 | 45.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/be@latin.po | 
+ | [error](/f38/language/error) | 107 | 234 | 45.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/en@shaw.po | 
+ | [br](/f38/language/br) | 98 | 234 | 41.9 | /mnt/stockage/packages/f38/cinnamon-desktop/po/br.po | 
+ | [ku](/f38/language/ku) | 57 | 234 | 24.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ku.po | 
+ | [fy](/f38/language/fy) | 29 | 234 | 12.4 | /mnt/stockage/packages/f38/cinnamon-desktop/po/fy.po | 
+ | [is](/f38/language/is) | 16 | 234 | 6.8 | /mnt/stockage/packages/f38/cinnamon-desktop/po/is.po | 
+ | [mg](/f38/language/mg) | 4 | 234 | 1.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mg.po | 
+ | [sq](/f38/language/sq) | 4 | 234 | 1.7 | /mnt/stockage/packages/f38/cinnamon-desktop/po/sq.po | 
+ | [am](/f38/language/am) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/am.po | 
+ | [az](/f38/language/az) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/az.po | 
+ | [bs](/f38/language/bs) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/bs.po | 
+ | [cy](/f38/language/cy) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/cy.po | 
+ | [ne](/f38/language/ne) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ne.po | 
+ | [oc](/f38/language/oc) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/oc.po | 
+ | [si](/f38/language/si) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/si.po | 
+ | [ur](/f38/language/ur) | 3 | 234 | 1.3 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ur.po | 
+ | [dz](/f38/language/dz) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/dz.po | 
+ | [en_CA](/f38/language/en_CA) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/en_CA.po | 
+ | [ha](/f38/language/ha) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ha.po | 
+ | [ig](/f38/language/ig) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ig.po | 
+ | [ka](/f38/language/ka) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ka.po | 
+ | [li](/f38/language/li) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/li.po | 
+ | [mi](/f38/language/mi) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/mi.po | 
+ | [nso](/f38/language/nso) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/nso.po | 
+ | [ps](/f38/language/ps) | 0 | 234 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/ps.po | 
+ | [rw](/f38/language/rw) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/rw.po | 
+ | [tk](/f38/language/tk) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/tk.po | 
+ | [wa](/f38/language/wa) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/wa.po | 
+ | [yi](/f38/language/yi) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/yi.po | 
+ | [yo](/f38/language/yo) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/yo.po | 
+ | [zu](/f38/language/zu) | 0 | 231 | 0.0 | /mnt/stockage/packages/f38/cinnamon-desktop/po/zu.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package gxmessage (version 2.12.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 245 | 245 | 100.0 | /mnt/stockage/packages/f16/gxmessage/po/de.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f16/gxmessage/po/sv.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 177 | 243 | 72.8 | /mnt/stockage/packages/f16/gxmessage/po/sk.po | 
- | [en_AU]({{< ref "/f16/language/en_AU.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_AU.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_GB.po | 
- | [en_NZ]({{< ref "/f16/language/en_NZ.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_NZ.po | 
+ | [de](/f16/language/de) | 245 | 245 | 100.0 | /mnt/stockage/packages/f16/gxmessage/po/de.po | 
+ | [sv](/f16/language/sv) | 243 | 243 | 100.0 | /mnt/stockage/packages/f16/gxmessage/po/sv.po | 
+ | [sk](/f16/language/sk) | 177 | 243 | 72.8 | /mnt/stockage/packages/f16/gxmessage/po/sk.po | 
+ | [en_AU](/f16/language/en_AU) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_AU.po | 
+ | [en_CA](/f16/language/en_CA) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_GB.po | 
+ | [en_NZ](/f16/language/en_NZ) | 12 | 245 | 4.9 | /mnt/stockage/packages/f16/gxmessage/po/en_NZ.po | 
 {.sortable}
 
 

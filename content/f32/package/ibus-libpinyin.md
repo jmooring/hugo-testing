@@ -18,12 +18,12 @@ The package ibus-libpinyin (version 1.11.92):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 399 | 408 | 97.8 | /mnt/stockage/packages/f32/ibus-libpinyin/po/zh_CN.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 371 | 408 | 90.9 | /mnt/stockage/packages/f32/ibus-libpinyin/po/ca.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 337 | 408 | 82.6 | /mnt/stockage/packages/f32/ibus-libpinyin/po/fr.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 42 | 408 | 10.3 | /mnt/stockage/packages/f32/ibus-libpinyin/po/ru.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/ibus-libpinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/ibus-libpinyin/po/zh_HK.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 399 | 408 | 97.8 | /mnt/stockage/packages/f32/ibus-libpinyin/po/zh_CN.po | 
+ | [ca](/f32/language/ca) | 371 | 408 | 90.9 | /mnt/stockage/packages/f32/ibus-libpinyin/po/ca.po | 
+ | [fr](/f32/language/fr) | 337 | 408 | 82.6 | /mnt/stockage/packages/f32/ibus-libpinyin/po/fr.po | 
+ | [ru](/f32/language/ru) | 42 | 408 | 10.3 | /mnt/stockage/packages/f32/ibus-libpinyin/po/ru.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/ibus-libpinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/ibus-libpinyin/po/zh_HK.po | 
 {.sortable}
 
 

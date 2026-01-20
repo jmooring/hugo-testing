@@ -18,11 +18,11 @@ The package swappy (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f40/language/en.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f40/swappy/src/po/en.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f40/swappy/src/po/fr.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f40/swappy/src/po/de.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f40/swappy/src/po/pt_BR.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f40/swappy/src/po/tr.po | 
+ | [en](/f40/language/en) | 24 | 24 | 100.0 | /mnt/stockage/packages/f40/swappy/src/po/en.po | 
+ | [fr](/f40/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f40/swappy/src/po/fr.po | 
+ | [de](/f40/language/de) | 19 | 24 | 79.2 | /mnt/stockage/packages/f40/swappy/src/po/de.po | 
+ | [pt_BR](/f40/language/pt_BR) | 19 | 24 | 79.2 | /mnt/stockage/packages/f40/swappy/src/po/pt_BR.po | 
+ | [tr](/f40/language/tr) | 19 | 24 | 79.2 | /mnt/stockage/packages/f40/swappy/src/po/tr.po | 
 {.sortable}
 
 

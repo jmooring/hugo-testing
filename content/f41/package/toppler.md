@@ -18,14 +18,14 @@ The package toppler (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f41/toppler/src/po/cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 541 | 543 | 99.6 | /mnt/stockage/packages/f41/toppler/src/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 541 | 543 | 99.6 | /mnt/stockage/packages/f41/toppler/src/po/fr.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 536 | 543 | 98.7 | /mnt/stockage/packages/f41/toppler/src/po/fi.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 524 | 543 | 96.5 | /mnt/stockage/packages/f41/toppler/src/po/ro.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 522 | 543 | 96.1 | /mnt/stockage/packages/f41/toppler/src/po/eu.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 506 | 543 | 93.2 | /mnt/stockage/packages/f41/toppler/src/po/sv.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 448 | 543 | 82.5 | /mnt/stockage/packages/f41/toppler/src/po/pt.po | 
+ | [cs](/f41/language/cs) | 543 | 543 | 100.0 | /mnt/stockage/packages/f41/toppler/src/po/cs.po | 
+ | [de](/f41/language/de) | 541 | 543 | 99.6 | /mnt/stockage/packages/f41/toppler/src/po/de.po | 
+ | [fr](/f41/language/fr) | 541 | 543 | 99.6 | /mnt/stockage/packages/f41/toppler/src/po/fr.po | 
+ | [fi](/f41/language/fi) | 536 | 543 | 98.7 | /mnt/stockage/packages/f41/toppler/src/po/fi.po | 
+ | [ro](/f41/language/ro) | 524 | 543 | 96.5 | /mnt/stockage/packages/f41/toppler/src/po/ro.po | 
+ | [eu](/f41/language/eu) | 522 | 543 | 96.1 | /mnt/stockage/packages/f41/toppler/src/po/eu.po | 
+ | [sv](/f41/language/sv) | 506 | 543 | 93.2 | /mnt/stockage/packages/f41/toppler/src/po/sv.po | 
+ | [pt](/f41/language/pt) | 448 | 543 | 82.5 | /mnt/stockage/packages/f41/toppler/src/po/pt.po | 
 {.sortable}
 
 

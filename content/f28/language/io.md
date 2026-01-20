@@ -38,70 +38,70 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f28/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [lxmenu-data]({{< ref "/f28/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f28/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [python2-django1.11]({{< ref "/f28/package/python2-django1.11.md" >}}) | 1433 | 3381 | 42.4 | Ido (http://www.transifex.com/django/django/language/io/) | 
- | [python-django]({{< ref "/f28/package/python-django.md" >}}) | 1412 | 3458 | 40.8 | Ido (http://www.transifex.com/django/django/language/io/) | 
- | [iso-codes]({{< ref "/f28/package/iso-codes.md" >}}) | 289 | 986 | 29.3 | Ido <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/io/> | 
- | [gdk-pixbuf2]({{< ref "/f28/package/gdk-pixbuf2.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gdk-pixbuf]({{< ref "/f28/package/mingw-gdk-pixbuf.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f28/package/nautilus.md" >}}) | 1283 | 7454 | 17.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [python-django-formtools]({{< ref "/f28/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
- | [pantheon-photos]({{< ref "/f28/package/pantheon-photos.md" >}}) | 441 | 4114 | 10.7 | LANGUAGE <LL@li.org> | 
- | [gtk2]({{< ref "/f28/package/gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk2]({{< ref "/f28/package/mingw-gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk3]({{< ref "/f28/package/gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk4]({{< ref "/f28/package/gtk4.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk3]({{< ref "/f28/package/mingw-gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [pantheon-files]({{< ref "/f28/package/pantheon-files.md" >}}) | 137 | 2676 | 5.1 | LANGUAGE <LL@li.org> | 
- | [duplicity]({{< ref "/f28/package/duplicity.md" >}}) | 68 | 4378 | 1.6 | Ido | 
- | [deja-dup]({{< ref "/f28/package/deja-dup.md" >}}) | 29 | 2122 | 1.4 | Ido <io@li.org> | 
- | [isomaster]({{< ref "/f28/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [appcenter]({{< ref "/f28/package/appcenter.md" >}}) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f28/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [dippi]({{< ref "/f28/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-calculator]({{< ref "/f28/package/elementary-calculator.md" >}}) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f28/package/elementary-calendar.md" >}}) | 0 | 449 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-camera]({{< ref "/f28/package/elementary-camera.md" >}}) | 0 | 62 | 0.0 |  | 
- | [elementary-capnet-assist]({{< ref "/f28/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-screenshot-tool]({{< ref "/f28/package/elementary-screenshot-tool.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f28/package/elementary-shortcut-overlay.md" >}}) | 0 | 82 | 0.0 | none | 
- | [harvey]({{< ref "/f28/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [maya-calendar]({{< ref "/f28/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f28/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f28/package/optimizer.md" >}}) | 0 | 111 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f28/package/pantheon-agent-geoclue2.md" >}}) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f28/package/pantheon-agent-polkit.md" >}}) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f28/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f28/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f28/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sequeler]({{< ref "/f28/package/sequeler.md" >}}) | 0 | 252 | 0.0 |  | 
- | [switchboard]({{< ref "/f28/package/switchboard.md" >}}) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f28/package/switchboard-plug-a11y.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f28/package/switchboard-plug-about.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f28/package/switchboard-plug-applications.md" >}}) | 0 | 86 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f28/package/switchboard-plug-bluetooth.md" >}}) | 0 | 74 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f28/package/switchboard-plug-display.md" >}}) | 0 | 126 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f28/package/switchboard-plug-keyboard.md" >}}) | 0 | 404 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f28/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 150 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f28/package/switchboard-plug-networking.md" >}}) | 0 | 444 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f28/package/switchboard-plug-notifications.md" >}}) | 0 | 139 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f28/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 153 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f28/package/switchboard-plug-printers.md" >}}) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f28/package/switchboard-plug-sharing.md" >}}) | 0 | 130 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f28/package/switchboard-plug-sound.md" >}}) | 0 | 131 | 0.0 |  | 
- | [vocal]({{< ref "/f28/package/vocal.md" >}}) | 0 | 377 | 0.0 | Ido <io@li.org> | 
- | [wingpanel]({{< ref "/f28/package/wingpanel.md" >}}) | 0 | 6 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f28/package/wingpanel-applications-menu.md" >}}) | 0 | 225 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f28/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 15 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f28/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 10 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f28/package/wingpanel-indicator-network.md" >}}) | 0 | 76 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f28/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 16 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f28/package/wingpanel-indicator-notifications.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f28/package/wingpanel-indicator-power.md" >}}) | 0 | 93 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f28/package/wingpanel-indicator-session.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f28/package/wingpanel-indicator-sound.md" >}}) | 0 | 14 | 0.0 | none | 
+ | [alacarte](/f28/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [lxmenu-data](/f28/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f28/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python2-django1.11](/f28/package/python2-django1.11) | 1433 | 3381 | 42.4 | Ido (http://www.transifex.com/django/django/language/io/) | 
+ | [python-django](/f28/package/python-django) | 1412 | 3458 | 40.8 | Ido (http://www.transifex.com/django/django/language/io/) | 
+ | [iso-codes](/f28/package/iso-codes) | 289 | 986 | 29.3 | Ido <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/io/> | 
+ | [gdk-pixbuf2](/f28/package/gdk-pixbuf2) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gdk-pixbuf](/f28/package/mingw-gdk-pixbuf) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [nautilus](/f28/package/nautilus) | 1283 | 7454 | 17.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python-django-formtools](/f28/package/python-django-formtools) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
+ | [pantheon-photos](/f28/package/pantheon-photos) | 441 | 4114 | 10.7 | LANGUAGE <LL@li.org> | 
+ | [gtk2](/f28/package/gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk2](/f28/package/mingw-gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk3](/f28/package/gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk4](/f28/package/gtk4) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk3](/f28/package/mingw-gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [pantheon-files](/f28/package/pantheon-files) | 137 | 2676 | 5.1 | LANGUAGE <LL@li.org> | 
+ | [duplicity](/f28/package/duplicity) | 68 | 4378 | 1.6 | Ido | 
+ | [deja-dup](/f28/package/deja-dup) | 29 | 2122 | 1.4 | Ido <io@li.org> | 
+ | [isomaster](/f28/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [appcenter](/f28/package/appcenter) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f28/package/audience) | 0 | 106 | 0.0 |  | 
+ | [dippi](/f28/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-calculator](/f28/package/elementary-calculator) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-calendar](/f28/package/elementary-calendar) | 0 | 449 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-camera](/f28/package/elementary-camera) | 0 | 62 | 0.0 |  | 
+ | [elementary-capnet-assist](/f28/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-screenshot-tool](/f28/package/elementary-screenshot-tool) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f28/package/elementary-shortcut-overlay) | 0 | 82 | 0.0 | none | 
+ | [harvey](/f28/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [maya-calendar](/f28/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f28/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f28/package/optimizer) | 0 | 111 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f28/package/pantheon-agent-geoclue2) | 0 | 46 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f28/package/pantheon-agent-polkit) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f28/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f28/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f28/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sequeler](/f28/package/sequeler) | 0 | 252 | 0.0 |  | 
+ | [switchboard](/f28/package/switchboard) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f28/package/switchboard-plug-a11y) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f28/package/switchboard-plug-about) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f28/package/switchboard-plug-applications) | 0 | 86 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f28/package/switchboard-plug-bluetooth) | 0 | 74 | 0.0 | none | 
+ | [switchboard-plug-display](/f28/package/switchboard-plug-display) | 0 | 126 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f28/package/switchboard-plug-keyboard) | 0 | 404 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f28/package/switchboard-plug-mouse-touchpad) | 0 | 150 | 0.0 | none | 
+ | [switchboard-plug-networking](/f28/package/switchboard-plug-networking) | 0 | 444 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f28/package/switchboard-plug-notifications) | 0 | 139 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f28/package/switchboard-plug-pantheon-shell) | 0 | 153 | 0.0 |  | 
+ | [switchboard-plug-printers](/f28/package/switchboard-plug-printers) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f28/package/switchboard-plug-sharing) | 0 | 130 | 0.0 | none | 
+ | [switchboard-plug-sound](/f28/package/switchboard-plug-sound) | 0 | 131 | 0.0 |  | 
+ | [vocal](/f28/package/vocal) | 0 | 377 | 0.0 | Ido <io@li.org> | 
+ | [wingpanel](/f28/package/wingpanel) | 0 | 6 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f28/package/wingpanel-applications-menu) | 0 | 225 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f28/package/wingpanel-indicator-bluetooth) | 0 | 15 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f28/package/wingpanel-indicator-keyboard) | 0 | 10 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f28/package/wingpanel-indicator-network) | 0 | 76 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f28/package/wingpanel-indicator-nightlight) | 0 | 16 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f28/package/wingpanel-indicator-notifications) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f28/package/wingpanel-indicator-power) | 0 | 93 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f28/package/wingpanel-indicator-session) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f28/package/wingpanel-indicator-sound) | 0 | 14 | 0.0 | none | 
 {.sortable}
 
 

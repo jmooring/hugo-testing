@@ -18,21 +18,21 @@ The package cpio (version 2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1089 | 1089 | 100.0 | /mnt/stockage/packages/f7/cpio/po/fr.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1089 | 1089 | 100.0 | /mnt/stockage/packages/f7/cpio/po/tr.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/es.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/gl.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/sv.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 246 | 1089 | 22.6 | /mnt/stockage/packages/f7/cpio/po/hu.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 239 | 1089 | 21.9 | /mnt/stockage/packages/f7/cpio/po/ko.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 206 | 1089 | 18.9 | /mnt/stockage/packages/f7/cpio/po/zh_CN.po | 
+ | [fr](/f7/language/fr) | 1089 | 1089 | 100.0 | /mnt/stockage/packages/f7/cpio/po/fr.po | 
+ | [tr](/f7/language/tr) | 1089 | 1089 | 100.0 | /mnt/stockage/packages/f7/cpio/po/tr.po | 
+ | [da](/f7/language/da) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/da.po | 
+ | [de](/f7/language/de) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/de.po | 
+ | [es](/f7/language/es) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/es.po | 
+ | [gl](/f7/language/gl) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/gl.po | 
+ | [nl](/f7/language/nl) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/nl.po | 
+ | [pl](/f7/language/pl) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/ro.po | 
+ | [ru](/f7/language/ru) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/ru.po | 
+ | [sv](/f7/language/sv) | 257 | 1089 | 23.6 | /mnt/stockage/packages/f7/cpio/po/sv.po | 
+ | [hu](/f7/language/hu) | 246 | 1089 | 22.6 | /mnt/stockage/packages/f7/cpio/po/hu.po | 
+ | [ko](/f7/language/ko) | 239 | 1089 | 21.9 | /mnt/stockage/packages/f7/cpio/po/ko.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 206 | 1089 | 18.9 | /mnt/stockage/packages/f7/cpio/po/zh_CN.po | 
 {.sortable}
 
 

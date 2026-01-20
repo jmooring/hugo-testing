@@ -18,13 +18,13 @@ The package fvwm (version 2.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 872 | 872 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.de.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.de.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 872 | 872 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.es.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.es.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 873 | 873 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.fr.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.fr.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.ru.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.ru.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.sv_SE.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.sv_SE.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 242 | 262 | 92.4 | /mnt/stockage/packages/f23/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.zh_CN.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.zh_CN.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 194 | 872 | 22.2 | /mnt/stockage/packages/f23/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.ar.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.ar.po | 
+ | [de](/f23/language/de) | 872 | 872 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.de.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.de.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.de.po | 
+ | [es](/f23/language/es) | 872 | 872 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.es.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.es.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.es.po | 
+ | [fr](/f23/language/fr) | 873 | 873 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.fr.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.fr.po | 
+ | [ru](/f23/language/ru) | 262 | 262 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.ru.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.ru.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.ru.po | 
+ | [sv](/f23/language/sv) | 262 | 262 | 100.0 | /mnt/stockage/packages/f23/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.sv_SE.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.sv_SE.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 242 | 262 | 92.4 | /mnt/stockage/packages/f23/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.zh_CN.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.zh_CN.po | 
+ | [ar](/f23/language/ar) | 194 | 872 | 22.2 | /mnt/stockage/packages/f23/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f23/fvwm/po/FvwmScript.ar.po/mnt/stockage/packages/f23/fvwm/po/FvwmTaskBar.ar.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f25/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 433 | 499 | 86.8 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 1606 | 2618 | 61.3 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 7207 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
+ | [libgweather](/f25/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f25/package/libmateweather) | 433 | 499 | 86.8 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [mate-applets](/f25/package/mate-applets) | 1606 | 2618 | 61.3 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [openerp7](/f25/package/openerp7) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [openerp](/f25/package/openerp) | 7207 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [mate-menu](/f25/package/mate-menu) | 0 | 300 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
 {.sortable}
 
 

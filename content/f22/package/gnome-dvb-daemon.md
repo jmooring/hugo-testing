@@ -18,29 +18,29 @@ The package gnome-dvb-daemon (version 0.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 809 | 809 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/ar.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/gl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 808 | 808 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/it.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 808 | 808 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/ru.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/sl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 809 | 809 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/sv.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 801 | 816 | 98.2 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/zh_CN.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 735 | 808 | 91.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/da.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 239 | 808 | 29.6 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/tr.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 136 | 808 | 16.8 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/lt.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 68 | 808 | 8.4 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/te.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 64 | 816 | 7.8 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/nb.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 31 | 808 | 3.8 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/sr.po | 
+ | [ar](/f22/language/ar) | 809 | 809 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/ar.po | 
+ | [cs](/f22/language/cs) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/cs.po | 
+ | [de](/f22/language/de) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/de.po | 
+ | [el](/f22/language/el) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/en_GB.po | 
+ | [es](/f22/language/es) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/es.po | 
+ | [fi](/f22/language/fi) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/fi.po | 
+ | [fr](/f22/language/fr) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/fr.po | 
+ | [gl](/f22/language/gl) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/gl.po | 
+ | [hu](/f22/language/hu) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/hu.po | 
+ | [it](/f22/language/it) | 808 | 808 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/it.po | 
+ | [pl](/f22/language/pl) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 808 | 808 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/ru.po | 
+ | [sl](/f22/language/sl) | 820 | 820 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/sl.po | 
+ | [sv](/f22/language/sv) | 809 | 809 | 100.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/sv.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 801 | 816 | 98.2 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/zh_CN.po | 
+ | [da](/f22/language/da) | 735 | 808 | 91.0 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/da.po | 
+ | [tr](/f22/language/tr) | 239 | 808 | 29.6 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/tr.po | 
+ | [lt](/f22/language/lt) | 136 | 808 | 16.8 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/lt.po | 
+ | [te](/f22/language/te) | 68 | 808 | 8.4 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/te.po | 
+ | [nb_NO](/f22/language/nb_NO) | 64 | 816 | 7.8 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/nb.po | 
+ | [sr](/f22/language/sr) | 31 | 808 | 3.8 | /mnt/stockage/packages/f22/gnome-dvb-daemon/po/sr.po | 
 {.sortable}
 
 

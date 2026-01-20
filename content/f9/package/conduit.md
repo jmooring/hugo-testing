@@ -18,14 +18,14 @@ The package conduit (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f9/conduit/po/ca.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f9/conduit/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 520 | 529 | 98.3 | /mnt/stockage/packages/f9/conduit/po/it.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 287 | 327 | 87.8 | /mnt/stockage/packages/f9/conduit/po/ru.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 258 | 327 | 78.9 | /mnt/stockage/packages/f9/conduit/po/pt_BR.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 628 | 944 | 66.5 | /mnt/stockage/packages/f9/conduit/help/sv/sv.po/mnt/stockage/packages/f9/conduit/po/sv.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 268 | 582 | 46.0 | /mnt/stockage/packages/f9/conduit/po/ar.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 158 | 944 | 16.7 | /mnt/stockage/packages/f9/conduit/help/es/es.po/mnt/stockage/packages/f9/conduit/po/es.po | 
+ | [ca](/f9/language/ca) | 563 | 563 | 100.0 | /mnt/stockage/packages/f9/conduit/po/ca.po | 
+ | [fr](/f9/language/fr) | 587 | 587 | 100.0 | /mnt/stockage/packages/f9/conduit/po/fr.po | 
+ | [it](/f9/language/it) | 520 | 529 | 98.3 | /mnt/stockage/packages/f9/conduit/po/it.po | 
+ | [ru](/f9/language/ru) | 287 | 327 | 87.8 | /mnt/stockage/packages/f9/conduit/po/ru.po | 
+ | [pt_BR](/f9/language/pt_BR) | 258 | 327 | 78.9 | /mnt/stockage/packages/f9/conduit/po/pt_BR.po | 
+ | [sv](/f9/language/sv) | 628 | 944 | 66.5 | /mnt/stockage/packages/f9/conduit/help/sv/sv.po/mnt/stockage/packages/f9/conduit/po/sv.po | 
+ | [ar](/f9/language/ar) | 268 | 582 | 46.0 | /mnt/stockage/packages/f9/conduit/po/ar.po | 
+ | [es](/f9/language/es) | 158 | 944 | 16.7 | /mnt/stockage/packages/f9/conduit/help/es/es.po/mnt/stockage/packages/f9/conduit/po/es.po | 
 {.sortable}
 
 

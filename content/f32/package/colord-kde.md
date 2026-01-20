@@ -18,40 +18,40 @@ The package colord-kde (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/ca/colord-kde.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/ca@valencia/colord-kde.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/de/colord-kde.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/nl/colord-kde.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/pl/colord-kde.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/pt/colord-kde.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/sk/colord-kde.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/sv/colord-kde.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/uk/colord-kde.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/bs/colord-kde.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/da/colord-kde.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/es/colord-kde.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/fi/colord-kde.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/gl/colord-kde.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/pt_BR/colord-kde.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/sl/colord-kde.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/cs/colord-kde.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/el/colord-kde.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/fr/colord-kde.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/hu/colord-kde.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/it/colord-kde.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/ko/colord-kde.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/ro/colord-kde.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/tr/colord-kde.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 346 | 369 | 93.8 | /mnt/stockage/packages/f32/colord-kde/po/ru/colord-kde.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 273 | 369 | 74.0 | /mnt/stockage/packages/f32/colord-kde/po/et/colord-kde.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 273 | 369 | 74.0 | /mnt/stockage/packages/f32/colord-kde/po/lt/colord-kde.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 266 | 369 | 72.1 | /mnt/stockage/packages/f32/colord-kde/po/ast/colord-kde.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 217 | 369 | 58.8 | /mnt/stockage/packages/f32/colord-kde/po/km/colord-kde.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 167 | 369 | 45.3 | /mnt/stockage/packages/f32/colord-kde/po/ug/colord-kde.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 152 | 369 | 41.2 | /mnt/stockage/packages/f32/colord-kde/po/mr/colord-kde.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 64 | 369 | 17.3 | /mnt/stockage/packages/f32/colord-kde/po/ga/colord-kde.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f32/colord-kde/po/ja/colord-kde.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f32/colord-kde/po/zh_CN/colord-kde.po | 
+ | [ca](/f32/language/ca) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/ca/colord-kde.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/ca@valencia/colord-kde.po | 
+ | [de](/f32/language/de) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/de/colord-kde.po | 
+ | [nl](/f32/language/nl) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/nl/colord-kde.po | 
+ | [pl](/f32/language/pl) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/pl/colord-kde.po | 
+ | [pt](/f32/language/pt) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/pt/colord-kde.po | 
+ | [sk](/f32/language/sk) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/sk/colord-kde.po | 
+ | [sv](/f32/language/sv) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/sv/colord-kde.po | 
+ | [uk](/f32/language/uk) | 369 | 369 | 100.0 | /mnt/stockage/packages/f32/colord-kde/po/uk/colord-kde.po | 
+ | [bs](/f32/language/bs) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/bs/colord-kde.po | 
+ | [da](/f32/language/da) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/da/colord-kde.po | 
+ | [es](/f32/language/es) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/es/colord-kde.po | 
+ | [fi](/f32/language/fi) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/fi/colord-kde.po | 
+ | [gl](/f32/language/gl) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/gl/colord-kde.po | 
+ | [pt_BR](/f32/language/pt_BR) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/pt_BR/colord-kde.po | 
+ | [sl](/f32/language/sl) | 361 | 369 | 97.8 | /mnt/stockage/packages/f32/colord-kde/po/sl/colord-kde.po | 
+ | [cs](/f32/language/cs) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/cs/colord-kde.po | 
+ | [el](/f32/language/el) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/el/colord-kde.po | 
+ | [fr](/f32/language/fr) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/fr/colord-kde.po | 
+ | [hu](/f32/language/hu) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/hu/colord-kde.po | 
+ | [it](/f32/language/it) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/it/colord-kde.po | 
+ | [ko](/f32/language/ko) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/ko/colord-kde.po | 
+ | [ro](/f32/language/ro) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/ro/colord-kde.po | 
+ | [tr](/f32/language/tr) | 358 | 369 | 97.0 | /mnt/stockage/packages/f32/colord-kde/po/tr/colord-kde.po | 
+ | [ru](/f32/language/ru) | 346 | 369 | 93.8 | /mnt/stockage/packages/f32/colord-kde/po/ru/colord-kde.po | 
+ | [et](/f32/language/et) | 273 | 369 | 74.0 | /mnt/stockage/packages/f32/colord-kde/po/et/colord-kde.po | 
+ | [lt](/f32/language/lt) | 273 | 369 | 74.0 | /mnt/stockage/packages/f32/colord-kde/po/lt/colord-kde.po | 
+ | [ast](/f32/language/ast) | 266 | 369 | 72.1 | /mnt/stockage/packages/f32/colord-kde/po/ast/colord-kde.po | 
+ | [km](/f32/language/km) | 217 | 369 | 58.8 | /mnt/stockage/packages/f32/colord-kde/po/km/colord-kde.po | 
+ | [ug](/f32/language/ug) | 167 | 369 | 45.3 | /mnt/stockage/packages/f32/colord-kde/po/ug/colord-kde.po | 
+ | [mr](/f32/language/mr) | 152 | 369 | 41.2 | /mnt/stockage/packages/f32/colord-kde/po/mr/colord-kde.po | 
+ | [ga](/f32/language/ga) | 64 | 369 | 17.3 | /mnt/stockage/packages/f32/colord-kde/po/ga/colord-kde.po | 
+ | [ja](/f32/language/ja) | 0 | 369 | 0.0 | /mnt/stockage/packages/f32/colord-kde/po/ja/colord-kde.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 0 | 369 | 0.0 | /mnt/stockage/packages/f32/colord-kde/po/zh_CN/colord-kde.po | 
 {.sortable}
 
 

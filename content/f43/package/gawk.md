@@ -18,30 +18,30 @@ The package gawk (version 5.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/bg.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/fr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/id.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/ko.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/pt.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/ro.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/sv.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 5096 | 5111 | 99.7 | /mnt/stockage/packages/f43/gawk/po/sr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 5096 | 5111 | 99.7 | /mnt/stockage/packages/f43/gawk/po/zh_CN.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 5086 | 5111 | 99.5 | /mnt/stockage/packages/f43/gawk/po/it.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 5019 | 5111 | 98.2 | /mnt/stockage/packages/f43/gawk/po/uk.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 4938 | 5111 | 96.6 | /mnt/stockage/packages/f43/gawk/po/tr.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 4695 | 5111 | 91.9 | /mnt/stockage/packages/f43/gawk/po/pt_BR.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 3731 | 5111 | 73.0 | /mnt/stockage/packages/f43/gawk/po/nl.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 3026 | 5111 | 59.2 | /mnt/stockage/packages/f43/gawk/po/vi.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 2943 | 5111 | 57.6 | /mnt/stockage/packages/f43/gawk/po/fi.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 2694 | 5111 | 52.7 | /mnt/stockage/packages/f43/gawk/po/ca.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 2004 | 5111 | 39.2 | /mnt/stockage/packages/f43/gawk/po/da.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1788 | 5111 | 35.0 | /mnt/stockage/packages/f43/gawk/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 242 | 5111 | 4.7 | /mnt/stockage/packages/f43/gawk/po/ka.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 36 | 5111 | 0.7 | /mnt/stockage/packages/f43/gawk/po/ms.po | 
+ | [bg](/f43/language/bg) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/bg.po | 
+ | [de](/f43/language/de) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/de.po | 
+ | [es](/f43/language/es) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/es.po | 
+ | [fr](/f43/language/fr) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/fr.po | 
+ | [id](/f43/language/id) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/id.po | 
+ | [ko](/f43/language/ko) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/ko.po | 
+ | [pl](/f43/language/pl) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/pl.po | 
+ | [pt](/f43/language/pt) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/pt.po | 
+ | [ro](/f43/language/ro) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/ro.po | 
+ | [sv](/f43/language/sv) | 5111 | 5111 | 100.0 | /mnt/stockage/packages/f43/gawk/po/sv.po | 
+ | [sr](/f43/language/sr) | 5096 | 5111 | 99.7 | /mnt/stockage/packages/f43/gawk/po/sr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 5096 | 5111 | 99.7 | /mnt/stockage/packages/f43/gawk/po/zh_CN.po | 
+ | [it](/f43/language/it) | 5086 | 5111 | 99.5 | /mnt/stockage/packages/f43/gawk/po/it.po | 
+ | [uk](/f43/language/uk) | 5019 | 5111 | 98.2 | /mnt/stockage/packages/f43/gawk/po/uk.po | 
+ | [tr](/f43/language/tr) | 4938 | 5111 | 96.6 | /mnt/stockage/packages/f43/gawk/po/tr.po | 
+ | [pt_BR](/f43/language/pt_BR) | 4695 | 5111 | 91.9 | /mnt/stockage/packages/f43/gawk/po/pt_BR.po | 
+ | [nl](/f43/language/nl) | 3731 | 5111 | 73.0 | /mnt/stockage/packages/f43/gawk/po/nl.po | 
+ | [vi](/f43/language/vi) | 3026 | 5111 | 59.2 | /mnt/stockage/packages/f43/gawk/po/vi.po | 
+ | [fi](/f43/language/fi) | 2943 | 5111 | 57.6 | /mnt/stockage/packages/f43/gawk/po/fi.po | 
+ | [ca](/f43/language/ca) | 2694 | 5111 | 52.7 | /mnt/stockage/packages/f43/gawk/po/ca.po | 
+ | [da](/f43/language/da) | 2004 | 5111 | 39.2 | /mnt/stockage/packages/f43/gawk/po/da.po | 
+ | [ja](/f43/language/ja) | 1788 | 5111 | 35.0 | /mnt/stockage/packages/f43/gawk/po/ja.po | 
+ | [ka](/f43/language/ka) | 242 | 5111 | 4.7 | /mnt/stockage/packages/f43/gawk/po/ka.po | 
+ | [ms](/f43/language/ms) | 36 | 5111 | 0.7 | /mnt/stockage/packages/f43/gawk/po/ms.po | 
 {.sortable}
 
 

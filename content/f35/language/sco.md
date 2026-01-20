@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f35/package/blueberry.md" >}}) | 138 | 166 | 83.1 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 991 | 9096 | 10.9 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f35/package/picard.md" >}}) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [supertuxkart]({{< ref "/f35/package/supertuxkart.md" >}}) | 14 | 5918 | 0.2 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
- | [breezy]({{< ref "/f35/package/breezy.md" >}}) | 0 | 33704 | 0.0 |  | 
- | [libmatekbd]({{< ref "/f35/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-themes]({{< ref "/f35/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [blueberry](/f35/package/blueberry) | 138 | 166 | 83.1 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 991 | 9096 | 10.9 | Scots <sco@li.org> | 
+ | [picard](/f35/package/picard) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [supertuxkart](/f35/package/supertuxkart) | 14 | 5918 | 0.2 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
+ | [breezy](/f35/package/breezy) | 0 | 33704 | 0.0 |  | 
+ | [libmatekbd](/f35/package/libmatekbd) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-menu](/f35/package/mate-menu) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-themes](/f35/package/mate-themes) | 0 | 74 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
 {.sortable}
 
 

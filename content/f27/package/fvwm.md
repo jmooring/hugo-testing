@@ -18,14 +18,14 @@ The package fvwm (version 2.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.de.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.es.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.fr.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.ru.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.ru.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.sv_SE.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.zh_TW.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.zh_TW.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 228 | 248 | 91.9 | /mnt/stockage/packages/f27/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.zh_CN.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 180 | 248 | 72.6 | /mnt/stockage/packages/f27/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.ar.po | 
+ | [de](/f27/language/de) | 858 | 858 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.de.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.de.po | 
+ | [es](/f27/language/es) | 858 | 858 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.es.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.es.po | 
+ | [fr](/f27/language/fr) | 859 | 859 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.fr.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.fr.po | 
+ | [ru](/f27/language/ru) | 248 | 248 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.ru.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.ru.po | 
+ | [sv](/f27/language/sv) | 248 | 248 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.sv_SE.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.sv_SE.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 248 | 248 | 100.0 | /mnt/stockage/packages/f27/fvwm/po/fvwm.zh_TW.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.zh_TW.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 228 | 248 | 91.9 | /mnt/stockage/packages/f27/fvwm/po/fvwm.zh_CN.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.zh_CN.po | 
+ | [ar](/f27/language/ar) | 180 | 248 | 72.6 | /mnt/stockage/packages/f27/fvwm/po/fvwm.ar.po/mnt/stockage/packages/f27/fvwm/po/FvwmScript.ar.po | 
 {.sortable}
 
 

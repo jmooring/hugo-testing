@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f20/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [gnome-clocks]({{< ref "/f20/package/gnome-clocks.md" >}}) | 168 | 168 | 100.0 | עברית <> | 
- | [gnome-color-manager]({{< ref "/f20/package/gnome-color-manager.md" >}}) | 1748 | 1748 | 100.0 | Gezer <sh.yaron@gmail.com> | 
- | [gnome-contacts]({{< ref "/f20/package/gnome-contacts.md" >}}) | 331 | 331 | 100.0 | עברית <> | 
- | [mingw-boost]({{< ref "/f20/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [rygel]({{< ref "/f20/package/rygel.md" >}}) | 698 | 946 | 73.8 | Gezer <sh.yaron@gmail.com> | 
- | [konversation]({{< ref "/f20/package/konversation.md" >}}) | 6202 | 10922 | 56.8 | Hebrew <kde-i18n-doc@kde.org> | 
- | [glpi]({{< ref "/f20/package/glpi.md" >}}) | 4441 | 9435 | 47.1 | Hebrew (Israel) (http://www.transifex.com/projects/p/GLPI/language/he_IL/) | 
- | [squirrelmail]({{< ref "/f20/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f20/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f20/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [clementine]({{< ref "/f20/package/clementine.md" >}}) | 0 | 4861 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/) | 
- | [openstack-sahara]({{< ref "/f20/package/openstack-sahara.md" >}}) | 0 | 373 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [publican-fedora]({{< ref "/f20/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [boost](/f20/package/boost) | 1 | 1 | 100.0 |  | 
+ | [gnome-clocks](/f20/package/gnome-clocks) | 168 | 168 | 100.0 | עברית <> | 
+ | [gnome-color-manager](/f20/package/gnome-color-manager) | 1748 | 1748 | 100.0 | Gezer <sh.yaron@gmail.com> | 
+ | [gnome-contacts](/f20/package/gnome-contacts) | 331 | 331 | 100.0 | עברית <> | 
+ | [mingw-boost](/f20/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [rygel](/f20/package/rygel) | 698 | 946 | 73.8 | Gezer <sh.yaron@gmail.com> | 
+ | [konversation](/f20/package/konversation) | 6202 | 10922 | 56.8 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [glpi](/f20/package/glpi) | 4441 | 9435 | 47.1 | Hebrew (Israel) (http://www.transifex.com/projects/p/GLPI/language/he_IL/) | 
+ | [squirrelmail](/f20/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f20/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f20/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [clementine](/f20/package/clementine) | 0 | 4861 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/) | 
+ | [openstack-sahara](/f20/package/openstack-sahara) | 0 | 373 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [publican-fedora](/f20/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

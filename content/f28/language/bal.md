@@ -41,40 +41,40 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f28/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [setuptool]({{< ref "/f28/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-switch-mail]({{< ref "/f28/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f28/package/chkconfig.md" >}}) | 413 | 555 | 74.4 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [authconfig]({{< ref "/f28/package/authconfig.md" >}}) | 503 | 929 | 54.1 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [abrt]({{< ref "/f28/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora-abrt/language/bal/) | 
- | [anaconda]({{< ref "/f28/package/anaconda.md" >}}) | 0 | 7193 | 0.0 | Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/) | 
- | [certmonger]({{< ref "/f28/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
- | [dnf-plugins-extras]({{< ref "/f28/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Baluchi | 
- | [docker-anaconda-addon]({{< ref "/f28/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Baluchi | 
- | [entangle]({{< ref "/f28/package/entangle.md" >}}) | 0 | 953 | 0.0 | Baluchi | 
- | [initial-setup]({{< ref "/f28/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [initscripts]({{< ref "/f28/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [libbytesize]({{< ref "/f28/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Baluchi | 
- | [libosinfo]({{< ref "/f28/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Baluchi | 
- | [libreport]({{< ref "/f28/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Balochi (http://www.transifex.com/projects/p/libreport/language/bal/) | 
- | [libvirt]({{< ref "/f28/package/libvirt.md" >}}) | 0 | 63891 | 0.0 | Baluchi | 
- | [libvirt-glib]({{< ref "/f28/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [libvirt-sandbox]({{< ref "/f28/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [mingw-libosinfo]({{< ref "/f28/package/mingw-libosinfo.md" >}}) | 0 | 2049 | 0.0 | Baluchi | 
- | [mingw-libvirt]({{< ref "/f28/package/mingw-libvirt.md" >}}) | 0 | 63891 | 0.0 | Baluchi | 
- | [mingw-libvirt-glib]({{< ref "/f28/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [osinfo-db-tools]({{< ref "/f28/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Baluchi | 
- | [pam]({{< ref "/f28/package/pam.md" >}}) | 0 | 597 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [policycoreutils]({{< ref "/f28/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f28/package/pykickstart.md" >}}) | 0 | 1521 | 0.0 | Baluchi | 
- | [python-fedora]({{< ref "/f28/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Baluchi | 
- | [python-meh]({{< ref "/f28/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
- | [python-simpleline]({{< ref "/f28/package/python-simpleline.md" >}}) | 0 | 42 | 0.0 | Baluchi | 
- | [rhnsd]({{< ref "/f28/package/rhnsd.md" >}}) | 0 | 33 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [setroubleshoot]({{< ref "/f28/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [setroubleshoot-plugins]({{< ref "/f28/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [system-config-users-docs]({{< ref "/f28/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f28/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Baluchi | 
+ | [newt](/f28/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [setuptool](/f28/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-switch-mail](/f28/package/system-switch-mail) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f28/package/chkconfig) | 413 | 555 | 74.4 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [authconfig](/f28/package/authconfig) | 503 | 929 | 54.1 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [abrt](/f28/package/abrt) | 0 | 3230 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora-abrt/language/bal/) | 
+ | [anaconda](/f28/package/anaconda) | 0 | 7193 | 0.0 | Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/) | 
+ | [certmonger](/f28/package/certmonger) | 0 | 2831 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
+ | [dnf-plugins-extras](/f28/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Baluchi | 
+ | [docker-anaconda-addon](/f28/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Baluchi | 
+ | [entangle](/f28/package/entangle) | 0 | 953 | 0.0 | Baluchi | 
+ | [initial-setup](/f28/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [initscripts](/f28/package/initscripts) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [libbytesize](/f28/package/libbytesize) | 0 | 17 | 0.0 | Baluchi | 
+ | [libosinfo](/f28/package/libosinfo) | 0 | 662 | 0.0 | Baluchi | 
+ | [libreport](/f28/package/libreport) | 0 | 3501 | 0.0 | Balochi (http://www.transifex.com/projects/p/libreport/language/bal/) | 
+ | [libvirt](/f28/package/libvirt) | 0 | 63891 | 0.0 | Baluchi | 
+ | [libvirt-glib](/f28/package/libvirt-glib) | 0 | 145 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [libvirt-sandbox](/f28/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [mingw-libosinfo](/f28/package/mingw-libosinfo) | 0 | 2049 | 0.0 | Baluchi | 
+ | [mingw-libvirt](/f28/package/mingw-libvirt) | 0 | 63891 | 0.0 | Baluchi | 
+ | [mingw-libvirt-glib](/f28/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [osinfo-db-tools](/f28/package/osinfo-db-tools) | 0 | 56 | 0.0 | Baluchi | 
+ | [pam](/f28/package/pam) | 0 | 597 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [policycoreutils](/f28/package/policycoreutils) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [pykickstart](/f28/package/pykickstart) | 0 | 1521 | 0.0 | Baluchi | 
+ | [python-fedora](/f28/package/python-fedora) | 0 | 214 | 0.0 | Baluchi | 
+ | [python-meh](/f28/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
+ | [python-simpleline](/f28/package/python-simpleline) | 0 | 42 | 0.0 | Baluchi | 
+ | [rhnsd](/f28/package/rhnsd) | 0 | 33 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [setroubleshoot](/f28/package/setroubleshoot) | 0 | 660 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [setroubleshoot-plugins](/f28/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [system-config-users-docs](/f28/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f28/package/virt-viewer) | 0 | 784 | 0.0 | Baluchi | 
 {.sortable}
 
 

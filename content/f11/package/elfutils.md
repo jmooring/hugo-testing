@@ -18,12 +18,12 @@ The package elfutils (version 0.147):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f11/language/error.md" >}}) | 15078 | 15078 | 100.0 | /mnt/stockage/packages/f11/elfutils/po/en@boldquot.po/mnt/stockage/packages/f11/elfutils/po/en@quot.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f11/elfutils/po/es.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f11/elfutils/po/uk.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 5133 | 7539 | 68.1 | /mnt/stockage/packages/f11/elfutils/po/pl.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 4199 | 7539 | 55.7 | /mnt/stockage/packages/f11/elfutils/po/ja.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1050 | 7539 | 13.9 | /mnt/stockage/packages/f11/elfutils/po/de.po | 
+ | [error](/f11/language/error) | 15078 | 15078 | 100.0 | /mnt/stockage/packages/f11/elfutils/po/en@boldquot.po/mnt/stockage/packages/f11/elfutils/po/en@quot.po | 
+ | [es](/f11/language/es) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f11/elfutils/po/es.po | 
+ | [uk](/f11/language/uk) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f11/elfutils/po/uk.po | 
+ | [pl](/f11/language/pl) | 5133 | 7539 | 68.1 | /mnt/stockage/packages/f11/elfutils/po/pl.po | 
+ | [ja](/f11/language/ja) | 4199 | 7539 | 55.7 | /mnt/stockage/packages/f11/elfutils/po/ja.po | 
+ | [de](/f11/language/de) | 1050 | 7539 | 13.9 | /mnt/stockage/packages/f11/elfutils/po/de.po | 
 {.sortable}
 
 

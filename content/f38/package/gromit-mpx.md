@@ -18,11 +18,11 @@ The package gromit-mpx (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/es.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/fa.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/he.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/it.po | 
+ | [de](/f38/language/de) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/de.po | 
+ | [es](/f38/language/es) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/es.po | 
+ | [fa](/f38/language/fa) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/fa.po | 
+ | [he](/f38/language/he) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/he.po | 
+ | [it](/f38/language/it) | 306 | 306 | 100.0 | /mnt/stockage/packages/f38/gromit-mpx/po/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package lxmusic (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 183 | 184 | 99.5 | /mnt/stockage/packages/f10/lxmusic/po/zh_TW.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 183 | 184 | 99.5 | /mnt/stockage/packages/f10/lxmusic/po/zh_TW.po | 
 {.sortable}
 
 

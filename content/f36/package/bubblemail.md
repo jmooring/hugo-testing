@@ -18,32 +18,32 @@ The package bubblemail (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/ar.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/de.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/el.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/fr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/it.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 930 | 956 | 97.3 | /mnt/stockage/packages/f36/bubblemail/po/pt_BR.po/mnt/stockage/packages/f36/bubblemail/po/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 465 | 478 | 97.3 | /mnt/stockage/packages/f36/bubblemail/po/ru.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 464 | 478 | 97.1 | /mnt/stockage/packages/f36/bubblemail/po/ja.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 928 | 956 | 97.1 | /mnt/stockage/packages/f36/bubblemail/po/zh_TW.po/mnt/stockage/packages/f36/bubblemail/po/zh_CN.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 454 | 478 | 95.0 | /mnt/stockage/packages/f36/bubblemail/po/es.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/be.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/da.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/et.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/gl.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/hu.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/lt.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/nl_NL.po | 
- | [nl_BE]({{< ref "/f36/language/nl_BE.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/nl_BE.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/pl.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/sk.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/sr.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/sr@latin.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/uk.po | 
+ | [ar](/f36/language/ar) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/ar.po | 
+ | [de](/f36/language/de) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/de.po | 
+ | [el](/f36/language/el) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/el.po | 
+ | [fr](/f36/language/fr) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/fr.po | 
+ | [it](/f36/language/it) | 466 | 478 | 97.5 | /mnt/stockage/packages/f36/bubblemail/po/it.po | 
+ | [pt](/f36/language/pt) | 930 | 956 | 97.3 | /mnt/stockage/packages/f36/bubblemail/po/pt_BR.po/mnt/stockage/packages/f36/bubblemail/po/pt.po | 
+ | [ru](/f36/language/ru) | 465 | 478 | 97.3 | /mnt/stockage/packages/f36/bubblemail/po/ru.po | 
+ | [ja](/f36/language/ja) | 464 | 478 | 97.1 | /mnt/stockage/packages/f36/bubblemail/po/ja.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 928 | 956 | 97.1 | /mnt/stockage/packages/f36/bubblemail/po/zh_TW.po/mnt/stockage/packages/f36/bubblemail/po/zh_CN.po | 
+ | [es](/f36/language/es) | 454 | 478 | 95.0 | /mnt/stockage/packages/f36/bubblemail/po/es.po | 
+ | [be](/f36/language/be) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/be.po | 
+ | [ca](/f36/language/ca) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/ca.po | 
+ | [cs](/f36/language/cs) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/cs.po | 
+ | [da](/f36/language/da) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/da.po | 
+ | [et](/f36/language/et) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/et.po | 
+ | [gl](/f36/language/gl) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/gl.po | 
+ | [hu](/f36/language/hu) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/hu.po | 
+ | [lt](/f36/language/lt) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/lt.po | 
+ | [nl](/f36/language/nl) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/nl_NL.po | 
+ | [nl_BE](/f36/language/nl_BE) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/nl_BE.po | 
+ | [pl](/f36/language/pl) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/pl.po | 
+ | [sk](/f36/language/sk) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/sk.po | 
+ | [sr](/f36/language/sr) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/sr.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/sr@latin.po | 
+ | [tr](/f36/language/tr) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/tr.po | 
+ | [uk](/f36/language/uk) | 0 | 478 | 0.0 | /mnt/stockage/packages/f36/bubblemail/po/uk.po | 
 {.sortable}
 
 

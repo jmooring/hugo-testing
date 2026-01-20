@@ -18,13 +18,13 @@ The package giggle (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f9/giggle/po/ca.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f9/giggle/po/pl.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f9/giggle/po/vi.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 297 | 316 | 94.0 | /mnt/stockage/packages/f9/giggle/po/sv.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 302 | 339 | 89.1 | /mnt/stockage/packages/f9/giggle/po/fr.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 293 | 339 | 86.4 | /mnt/stockage/packages/f9/giggle/po/es.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 179 | 337 | 53.1 | /mnt/stockage/packages/f9/giggle/po/de.po | 
+ | [ca](/f9/language/ca) | 339 | 339 | 100.0 | /mnt/stockage/packages/f9/giggle/po/ca.po | 
+ | [pl](/f9/language/pl) | 312 | 312 | 100.0 | /mnt/stockage/packages/f9/giggle/po/pl.po | 
+ | [vi](/f9/language/vi) | 312 | 312 | 100.0 | /mnt/stockage/packages/f9/giggle/po/vi.po | 
+ | [sv](/f9/language/sv) | 297 | 316 | 94.0 | /mnt/stockage/packages/f9/giggle/po/sv.po | 
+ | [fr](/f9/language/fr) | 302 | 339 | 89.1 | /mnt/stockage/packages/f9/giggle/po/fr.po | 
+ | [es](/f9/language/es) | 293 | 339 | 86.4 | /mnt/stockage/packages/f9/giggle/po/es.po | 
+ | [de](/f9/language/de) | 179 | 337 | 53.1 | /mnt/stockage/packages/f9/giggle/po/de.po | 
 {.sortable}
 
 

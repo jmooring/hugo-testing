@@ -18,7 +18,7 @@ The package ballz (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f36/ballz/po/fr.po | 
+ | [fr](/f36/language/fr) | 79 | 79 | 100.0 | /mnt/stockage/packages/f36/ballz/po/fr.po | 
 {.sortable}
 
 

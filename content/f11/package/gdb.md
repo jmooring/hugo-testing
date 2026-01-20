@@ -18,22 +18,22 @@ The package gdb (version 6.8.50.20090302):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/da.po/mnt/stockage/packages/f11/gdb/opcodes/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/es.po/mnt/stockage/packages/f11/gdb/opcodes/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/fi.po/mnt/stockage/packages/f11/gdb/opcodes/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 5395 | 5395 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/fr.po/mnt/stockage/packages/f11/gdb/opcodes/po/fr.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/ga.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/id.po/mnt/stockage/packages/f11/gdb/opcodes/po/id.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/ro.po/mnt/stockage/packages/f11/gdb/opcodes/po/ro.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/sv.po/mnt/stockage/packages/f11/gdb/opcodes/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/tr.po/mnt/stockage/packages/f11/gdb/opcodes/po/tr.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 7196 | 7196 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/vi.po/mnt/stockage/packages/f11/gdb/opcodes/po/vi.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f11/gdb/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f11/gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f11/gdb/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f11/gdb/bfd/po/rw.po | 
+ | [da](/f11/language/da) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/da.po/mnt/stockage/packages/f11/gdb/opcodes/po/da.po | 
+ | [de](/f11/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/de.po | 
+ | [es](/f11/language/es) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/es.po/mnt/stockage/packages/f11/gdb/opcodes/po/es.po | 
+ | [fi](/f11/language/fi) | 6848 | 6848 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/fi.po/mnt/stockage/packages/f11/gdb/opcodes/po/fi.po | 
+ | [fr](/f11/language/fr) | 5395 | 5395 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/fr.po/mnt/stockage/packages/f11/gdb/opcodes/po/fr.po | 
+ | [ga](/f11/language/ga) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/ga.po | 
+ | [id](/f11/language/id) | 6333 | 6333 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/id.po/mnt/stockage/packages/f11/gdb/opcodes/po/id.po | 
+ | [nl](/f11/language/nl) | 1209 | 1209 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/nl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f11/gdb/opcodes/po/pt_BR.po | 
+ | [ro](/f11/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/ro.po/mnt/stockage/packages/f11/gdb/opcodes/po/ro.po | 
+ | [sv](/f11/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/sv.po/mnt/stockage/packages/f11/gdb/opcodes/po/sv.po | 
+ | [tr](/f11/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/tr.po/mnt/stockage/packages/f11/gdb/opcodes/po/tr.po | 
+ | [vi](/f11/language/vi) | 7196 | 7196 | 100.0 | /mnt/stockage/packages/f11/gdb/bfd/po/vi.po/mnt/stockage/packages/f11/gdb/opcodes/po/vi.po | 
+ | [ja](/f11/language/ja) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f11/gdb/bfd/po/ja.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f11/gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f11/gdb/opcodes/po/zh_CN.po | 
+ | [rw](/f11/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f11/gdb/bfd/po/rw.po | 
 {.sortable}
 
 

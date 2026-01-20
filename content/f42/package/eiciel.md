@@ -18,38 +18,38 @@ The package eiciel (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/cs.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/es.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/et.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/fa.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/fi.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/id.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ie.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ja.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/nl.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/pt_PT.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/sv.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 326 | 331 | 98.5 | /mnt/stockage/packages/f42/eiciel/po/de.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 297 | 331 | 89.7 | /mnt/stockage/packages/f42/eiciel/po/it.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 124 | 331 | 37.5 | /mnt/stockage/packages/f42/eiciel/po/pl.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 114 | 331 | 34.4 | /mnt/stockage/packages/f42/eiciel/po/ka.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 111 | 331 | 33.5 | /mnt/stockage/packages/f42/eiciel/po/zh_CN.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/ar.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/da.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/pt_BR.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/uk.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 94 | 331 | 28.4 | /mnt/stockage/packages/f42/eiciel/po/hi.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f42/eiciel/po/hu.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f42/eiciel/po/ko.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f42/eiciel/po/zh_TW.po | 
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 3 | 331 | 0.9 | /mnt/stockage/packages/f42/eiciel/po/en_US.po | 
- | [enm]({{< ref "/f42/language/enm.md" >}}) | 0 | 331 | 0.0 | /mnt/stockage/packages/f42/eiciel/po/enm.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 0 | 331 | 0.0 | /mnt/stockage/packages/f42/eiciel/po/nn.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 0 | 192 | 0.0 | /mnt/stockage/packages/f42/eiciel/po/si.po | 
+ | [ca](/f42/language/ca) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ca.po | 
+ | [cs](/f42/language/cs) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/cs.po | 
+ | [en_GB](/f42/language/en_GB) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/en_GB.po | 
+ | [es](/f42/language/es) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/es.po | 
+ | [et](/f42/language/et) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/et.po | 
+ | [fa](/f42/language/fa) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/fa.po | 
+ | [fi](/f42/language/fi) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/fi.po | 
+ | [id](/f42/language/id) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/id.po | 
+ | [ie](/f42/language/ie) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ie.po | 
+ | [ja](/f42/language/ja) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ja.po | 
+ | [nl](/f42/language/nl) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/nl.po | 
+ | [pt_PT](/f42/language/pt_PT) | 192 | 192 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/pt_PT.po | 
+ | [ru](/f42/language/ru) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/ru.po | 
+ | [sv](/f42/language/sv) | 331 | 331 | 100.0 | /mnt/stockage/packages/f42/eiciel/po/sv.po | 
+ | [de](/f42/language/de) | 326 | 331 | 98.5 | /mnt/stockage/packages/f42/eiciel/po/de.po | 
+ | [it](/f42/language/it) | 297 | 331 | 89.7 | /mnt/stockage/packages/f42/eiciel/po/it.po | 
+ | [pl](/f42/language/pl) | 124 | 331 | 37.5 | /mnt/stockage/packages/f42/eiciel/po/pl.po | 
+ | [ka](/f42/language/ka) | 114 | 331 | 34.4 | /mnt/stockage/packages/f42/eiciel/po/ka.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 111 | 331 | 33.5 | /mnt/stockage/packages/f42/eiciel/po/zh_CN.po | 
+ | [ar](/f42/language/ar) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/ar.po | 
+ | [da](/f42/language/da) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/da.po | 
+ | [fr](/f42/language/fr) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/pt_BR.po | 
+ | [uk](/f42/language/uk) | 95 | 331 | 28.7 | /mnt/stockage/packages/f42/eiciel/po/uk.po | 
+ | [hi](/f42/language/hi) | 94 | 331 | 28.4 | /mnt/stockage/packages/f42/eiciel/po/hi.po | 
+ | [hu](/f42/language/hu) | 85 | 331 | 25.7 | /mnt/stockage/packages/f42/eiciel/po/hu.po | 
+ | [ko](/f42/language/ko) | 85 | 331 | 25.7 | /mnt/stockage/packages/f42/eiciel/po/ko.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 85 | 331 | 25.7 | /mnt/stockage/packages/f42/eiciel/po/zh_TW.po | 
+ | [en_US](/f42/language/en_US) | 3 | 331 | 0.9 | /mnt/stockage/packages/f42/eiciel/po/en_US.po | 
+ | [enm](/f42/language/enm) | 0 | 331 | 0.0 | /mnt/stockage/packages/f42/eiciel/po/enm.po | 
+ | [nn](/f42/language/nn) | 0 | 331 | 0.0 | /mnt/stockage/packages/f42/eiciel/po/nn.po | 
+ | [si](/f42/language/si) | 0 | 192 | 0.0 | /mnt/stockage/packages/f42/eiciel/po/si.po | 
 {.sortable}
 
 

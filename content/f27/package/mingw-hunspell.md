@@ -18,9 +18,9 @@ The package mingw-hunspell (version 1.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f27/mingw-hunspell/po/es.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 598 | 613 | 97.6 | /mnt/stockage/packages/f27/mingw-hunspell/po/hu.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 496 | 613 | 80.9 | /mnt/stockage/packages/f27/mingw-hunspell/po/it.po | 
+ | [es](/f27/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f27/mingw-hunspell/po/es.po | 
+ | [hu](/f27/language/hu) | 598 | 613 | 97.6 | /mnt/stockage/packages/f27/mingw-hunspell/po/hu.po | 
+ | [it](/f27/language/it) | 496 | 613 | 80.9 | /mnt/stockage/packages/f27/mingw-hunspell/po/it.po | 
 {.sortable}
 
 

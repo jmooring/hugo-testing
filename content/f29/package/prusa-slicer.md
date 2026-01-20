@@ -18,16 +18,16 @@ The package prusa-slicer (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 27158 | 27158 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/cs_CZ/PrusaSlicer_cs.po/mnt/stockage/packages/f29/prusa-slicer/resources/localization/cs_CZ/Slic3rPE_cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 14074 | 14074 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/de_DE/PrusaSlicer_de.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 11445 | 11445 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/en_US/PrusaSlicer_en.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 14074 | 14074 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/es/PrusaSlicer_es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 14073 | 14073 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/fr_FR/PrusaSlicer_fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 14074 | 14074 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/it/PrusaSlicer_it.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 14068 | 14070 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/pl/PrusaSlicer_pl.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 11407 | 11445 | 99.7 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/ko_KR/PrusaSlicer_kr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 6044 | 11445 | 52.8 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/uk/PrusaSlicer_uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 2981 | 11445 | 26.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/zh_CN/PrusaSlicer_zh.po | 
+ | [cs](/f29/language/cs) | 27158 | 27158 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/cs_CZ/PrusaSlicer_cs.po/mnt/stockage/packages/f29/prusa-slicer/resources/localization/cs_CZ/Slic3rPE_cs.po | 
+ | [de](/f29/language/de) | 14074 | 14074 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/de_DE/PrusaSlicer_de.po | 
+ | [en](/f29/language/en) | 11445 | 11445 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/en_US/PrusaSlicer_en.po | 
+ | [es](/f29/language/es) | 14074 | 14074 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/es/PrusaSlicer_es.po | 
+ | [fr](/f29/language/fr) | 14073 | 14073 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/fr_FR/PrusaSlicer_fr.po | 
+ | [it](/f29/language/it) | 14074 | 14074 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/it/PrusaSlicer_it.po | 
+ | [pl](/f29/language/pl) | 14068 | 14070 | 100.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/pl/PrusaSlicer_pl.po | 
+ | [ko](/f29/language/ko) | 11407 | 11445 | 99.7 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/ko_KR/PrusaSlicer_kr.po | 
+ | [uk](/f29/language/uk) | 6044 | 11445 | 52.8 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/uk/PrusaSlicer_uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 2981 | 11445 | 26.0 | /mnt/stockage/packages/f29/prusa-slicer/resources/localization/zh_CN/PrusaSlicer_zh.po | 
 {.sortable}
 
 

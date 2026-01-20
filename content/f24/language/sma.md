@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [plank]({{< ref "/f24/package/plank.md" >}}) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
- | [feedreader]({{< ref "/f24/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [plank](/f24/package/plank) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
+ | [feedreader](/f24/package/feedreader) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

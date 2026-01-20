@@ -18,7 +18,7 @@ The package seedit (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 426 | 437 | 97.5 | /mnt/stockage/packages/f15/seedit/gui/po/ja.po | 
+ | [ja](/f15/language/ja) | 426 | 437 | 97.5 | /mnt/stockage/packages/f15/seedit/gui/po/ja.po | 
 {.sortable}
 
 

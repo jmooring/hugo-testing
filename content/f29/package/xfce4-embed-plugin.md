@@ -18,41 +18,41 @@ The package xfce4-embed-plugin (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ar.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/bg.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/de.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/fr.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/it.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/lt.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/nl.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/oc.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/pt_BR.po/mnt/stockage/packages/f29/xfce4-embed-plugin/po/pt.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/zh_TW.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 207 | 219 | 94.5 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ug.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 93 | 219 | 42.5 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ast.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 53 | 207 | 25.6 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/gl.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 19 | 207 | 9.2 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/el.po | 
+ | [ar](/f29/language/ar) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ar.po | 
+ | [bg](/f29/language/bg) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/bg.po | 
+ | [ca](/f29/language/ca) | 207 | 207 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ca.po | 
+ | [cs](/f29/language/cs) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/cs.po | 
+ | [da](/f29/language/da) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/da.po | 
+ | [de](/f29/language/de) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/de.po | 
+ | [en_AU](/f29/language/en_AU) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/en_AU.po | 
+ | [en_GB](/f29/language/en_GB) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/en_GB.po | 
+ | [es](/f29/language/es) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/es.po | 
+ | [fr](/f29/language/fr) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/fr.po | 
+ | [hr](/f29/language/hr) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/hr.po | 
+ | [hu](/f29/language/hu) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/hu.po | 
+ | [id](/f29/language/id) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/id.po | 
+ | [it](/f29/language/it) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/it.po | 
+ | [ko](/f29/language/ko) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ko.po | 
+ | [lt](/f29/language/lt) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/lt.po | 
+ | [ms](/f29/language/ms) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ms.po | 
+ | [nb_NO](/f29/language/nb_NO) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/nb.po | 
+ | [nl](/f29/language/nl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/nl.po | 
+ | [oc](/f29/language/oc) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/oc.po | 
+ | [pl](/f29/language/pl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 438 | 438 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/pt_BR.po/mnt/stockage/packages/f29/xfce4-embed-plugin/po/pt.po | 
+ | [ru](/f29/language/ru) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ru.po | 
+ | [sk](/f29/language/sk) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sk.po | 
+ | [sl](/f29/language/sl) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sl.po | 
+ | [sr](/f29/language/sr) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sr.po | 
+ | [sv](/f29/language/sv) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/sv.po | 
+ | [tr](/f29/language/tr) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/tr.po | 
+ | [uk](/f29/language/uk) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 219 | 219 | 100.0 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/zh_TW.po | 
+ | [ug](/f29/language/ug) | 207 | 219 | 94.5 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ug.po | 
+ | [ast](/f29/language/ast) | 93 | 219 | 42.5 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/ast.po | 
+ | [gl](/f29/language/gl) | 53 | 207 | 25.6 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/gl.po | 
+ | [el](/f29/language/el) | 19 | 207 | 9.2 | /mnt/stockage/packages/f29/xfce4-embed-plugin/po/el.po | 
 {.sortable}
 
 

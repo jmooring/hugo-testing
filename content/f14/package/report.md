@@ -18,10 +18,10 @@ The package report (version 0.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f14/report/po/pl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 545 | 545 | 100.0 | /mnt/stockage/packages/f14/report/po/uk.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 452 | 545 | 82.9 | /mnt/stockage/packages/f14/report/po/en.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 0 | 545 | 0.0 | /mnt/stockage/packages/f14/report/po/ru.po | 
+ | [pl](/f14/language/pl) | 545 | 545 | 100.0 | /mnt/stockage/packages/f14/report/po/pl.po | 
+ | [uk](/f14/language/uk) | 545 | 545 | 100.0 | /mnt/stockage/packages/f14/report/po/uk.po | 
+ | [en](/f14/language/en) | 452 | 545 | 82.9 | /mnt/stockage/packages/f14/report/po/en.po | 
+ | [ru](/f14/language/ru) | 0 | 545 | 0.0 | /mnt/stockage/packages/f14/report/po/ru.po | 
 {.sortable}
 
 

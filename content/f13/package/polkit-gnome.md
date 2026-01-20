@@ -18,37 +18,37 @@ The package polkit-gnome (version 0.96):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ar.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/be.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/el.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/es.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/eu.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/gl.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/hu.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ja.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/lt.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ru.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 954 | 954 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/sk.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/sl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/sv.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 879 | 954 | 92.1 | /mnt/stockage/packages/f13/polkit-gnome/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f13/language/zh_Hant_HK.md" >}}) | 879 | 954 | 92.1 | /mnt/stockage/packages/f13/polkit-gnome/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 312 | 786 | 39.7 | /mnt/stockage/packages/f13/polkit-gnome/po/nb.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 107 | 311 | 34.4 | /mnt/stockage/packages/f13/polkit-gnome/po/gu.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 214 | 849 | 25.2 | /mnt/stockage/packages/f13/polkit-gnome/po/he.po | 
+ | [ar](/f13/language/ar) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ar.po | 
+ | [be](/f13/language/be) | 98 | 98 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/be.po | 
+ | [ca](/f13/language/ca) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ca.po | 
+ | [cs](/f13/language/cs) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/cs.po | 
+ | [da](/f13/language/da) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/da.po | 
+ | [de](/f13/language/de) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/de.po | 
+ | [el](/f13/language/el) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/el.po | 
+ | [en_GB](/f13/language/en_GB) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/en_GB.po | 
+ | [es](/f13/language/es) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/es.po | 
+ | [eu](/f13/language/eu) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/eu.po | 
+ | [fi](/f13/language/fi) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/fi.po | 
+ | [fr](/f13/language/fr) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/fr.po | 
+ | [gl](/f13/language/gl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/gl.po | 
+ | [hu](/f13/language/hu) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/hu.po | 
+ | [it](/f13/language/it) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/it.po | 
+ | [ja](/f13/language/ja) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ja.po | 
+ | [lt](/f13/language/lt) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/lt.po | 
+ | [pa](/f13/language/pa) | 90 | 90 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pa.po | 
+ | [pl](/f13/language/pl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pl.po | 
+ | [pt](/f13/language/pt) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 178 | 178 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 849 | 849 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/ru.po | 
+ | [sk](/f13/language/sk) | 954 | 954 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/sk.po | 
+ | [sl](/f13/language/sl) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/sl.po | 
+ | [sv](/f13/language/sv) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/sv.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 311 | 311 | 100.0 | /mnt/stockage/packages/f13/polkit-gnome/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 879 | 954 | 92.1 | /mnt/stockage/packages/f13/polkit-gnome/po/zh_TW.po | 
+ | [zh_Hant_HK](/f13/language/zh_Hant_HK) | 879 | 954 | 92.1 | /mnt/stockage/packages/f13/polkit-gnome/po/zh_HK.po | 
+ | [nb_NO](/f13/language/nb_NO) | 312 | 786 | 39.7 | /mnt/stockage/packages/f13/polkit-gnome/po/nb.po | 
+ | [gu](/f13/language/gu) | 107 | 311 | 34.4 | /mnt/stockage/packages/f13/polkit-gnome/po/gu.po | 
+ | [he](/f13/language/he) | 214 | 849 | 25.2 | /mnt/stockage/packages/f13/polkit-gnome/po/he.po | 
 {.sortable}
 
 

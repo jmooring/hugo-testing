@@ -41,15 +41,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f42/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [setuptool]({{< ref "/f42/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f42/package/chkconfig.md" >}}) | 387 | 597 | 64.8 | Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/> | 
- | [system-switch-mail]({{< ref "/f42/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
- | [android-tools]({{< ref "/f42/package/android-tools.md" >}}) | 8 | 4908 | 0.2 | Baluchi | 
- | [policycoreutils]({{< ref "/f42/package/policycoreutils.md" >}}) | 8 | 4997 | 0.2 | Baluchi | 
- | [initial-setup]({{< ref "/f42/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [libvirt-sandbox]({{< ref "/f42/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [python-meh]({{< ref "/f42/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
+ | [newt](/f42/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [setuptool](/f42/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f42/package/chkconfig) | 387 | 597 | 64.8 | Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/> | 
+ | [system-switch-mail](/f42/package/system-switch-mail) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [android-tools](/f42/package/android-tools) | 8 | 4908 | 0.2 | Baluchi | 
+ | [policycoreutils](/f42/package/policycoreutils) | 8 | 4997 | 0.2 | Baluchi | 
+ | [initial-setup](/f42/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [libvirt-sandbox](/f42/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [python-meh](/f42/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
 {.sortable}
 
 

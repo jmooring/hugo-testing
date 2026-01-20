@@ -18,35 +18,35 @@ The package wammu (version 0.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/cs/docs.po/mnt/stockage/packages/f18/wammu/locale/cs/wammu.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/de/docs.po/mnt/stockage/packages/f18/wammu/locale/de/wammu.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/en_GB/docs.po/mnt/stockage/packages/f18/wammu/locale/en_GB/wammu.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/es/docs.po/mnt/stockage/packages/f18/wammu/locale/es/wammu.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/pt_BR/docs.po/mnt/stockage/packages/f18/wammu/locale/pt_BR/wammu.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/sk/docs.po/mnt/stockage/packages/f18/wammu/locale/sk/wammu.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 5095 | 5099 | 99.9 | /mnt/stockage/packages/f18/wammu/locale/ru/docs.po/mnt/stockage/packages/f18/wammu/locale/ru/wammu.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 5040 | 5099 | 98.8 | /mnt/stockage/packages/f18/wammu/locale/nl/docs.po/mnt/stockage/packages/f18/wammu/locale/nl/wammu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 5033 | 5099 | 98.7 | /mnt/stockage/packages/f18/wammu/locale/it/docs.po/mnt/stockage/packages/f18/wammu/locale/it/wammu.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 4596 | 5099 | 90.1 | /mnt/stockage/packages/f18/wammu/locale/fr/docs.po/mnt/stockage/packages/f18/wammu/locale/fr/wammu.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 4434 | 5099 | 87.0 | /mnt/stockage/packages/f18/wammu/locale/tr/docs.po/mnt/stockage/packages/f18/wammu/locale/tr/wammu.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 4429 | 5099 | 86.9 | /mnt/stockage/packages/f18/wammu/locale/hu/docs.po/mnt/stockage/packages/f18/wammu/locale/hu/wammu.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 4425 | 5099 | 86.8 | /mnt/stockage/packages/f18/wammu/locale/el/docs.po/mnt/stockage/packages/f18/wammu/locale/el/wammu.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 4332 | 5099 | 85.0 | /mnt/stockage/packages/f18/wammu/locale/pl/docs.po/mnt/stockage/packages/f18/wammu/locale/pl/wammu.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 4170 | 5099 | 81.8 | /mnt/stockage/packages/f18/wammu/locale/sv/docs.po/mnt/stockage/packages/f18/wammu/locale/sv/wammu.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 3349 | 5099 | 65.7 | /mnt/stockage/packages/f18/wammu/locale/zh_CN/docs.po/mnt/stockage/packages/f18/wammu/locale/zh_CN/wammu.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 3017 | 5099 | 59.2 | /mnt/stockage/packages/f18/wammu/locale/bg/docs.po/mnt/stockage/packages/f18/wammu/locale/bg/wammu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 2578 | 5099 | 50.6 | /mnt/stockage/packages/f18/wammu/locale/fi/docs.po/mnt/stockage/packages/f18/wammu/locale/fi/wammu.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 2559 | 5099 | 50.2 | /mnt/stockage/packages/f18/wammu/locale/ca/docs.po/mnt/stockage/packages/f18/wammu/locale/ca/wammu.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 2345 | 5099 | 46.0 | /mnt/stockage/packages/f18/wammu/locale/zh_TW/docs.po/mnt/stockage/packages/f18/wammu/locale/zh_TW/wammu.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 1616 | 5099 | 31.7 | /mnt/stockage/packages/f18/wammu/locale/af/docs.po/mnt/stockage/packages/f18/wammu/locale/af/wammu.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 1552 | 5099 | 30.4 | /mnt/stockage/packages/f18/wammu/locale/ko/docs.po/mnt/stockage/packages/f18/wammu/locale/ko/wammu.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 452 | 5099 | 8.9 | /mnt/stockage/packages/f18/wammu/locale/gl/docs.po/mnt/stockage/packages/f18/wammu/locale/gl/wammu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 440 | 5099 | 8.6 | /mnt/stockage/packages/f18/wammu/locale/id/docs.po/mnt/stockage/packages/f18/wammu/locale/id/wammu.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 434 | 5099 | 8.5 | /mnt/stockage/packages/f18/wammu/locale/da/docs.po/mnt/stockage/packages/f18/wammu/locale/da/wammu.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 232 | 5099 | 4.5 | /mnt/stockage/packages/f18/wammu/locale/et/docs.po/mnt/stockage/packages/f18/wammu/locale/et/wammu.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 135 | 5099 | 2.6 | /mnt/stockage/packages/f18/wammu/locale/ar/docs.po/mnt/stockage/packages/f18/wammu/locale/ar/wammu.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 54 | 5099 | 1.1 | /mnt/stockage/packages/f18/wammu/locale/he/docs.po/mnt/stockage/packages/f18/wammu/locale/he/wammu.po | 
- | [sw]({{< ref "/f18/language/sw.md" >}}) | 28 | 5099 | 0.5 | /mnt/stockage/packages/f18/wammu/locale/sw/docs.po/mnt/stockage/packages/f18/wammu/locale/sw/wammu.po | 
+ | [cs](/f18/language/cs) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/cs/docs.po/mnt/stockage/packages/f18/wammu/locale/cs/wammu.po | 
+ | [de](/f18/language/de) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/de/docs.po/mnt/stockage/packages/f18/wammu/locale/de/wammu.po | 
+ | [en_GB](/f18/language/en_GB) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/en_GB/docs.po/mnt/stockage/packages/f18/wammu/locale/en_GB/wammu.po | 
+ | [es](/f18/language/es) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/es/docs.po/mnt/stockage/packages/f18/wammu/locale/es/wammu.po | 
+ | [pt_BR](/f18/language/pt_BR) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/pt_BR/docs.po/mnt/stockage/packages/f18/wammu/locale/pt_BR/wammu.po | 
+ | [sk](/f18/language/sk) | 5099 | 5099 | 100.0 | /mnt/stockage/packages/f18/wammu/locale/sk/docs.po/mnt/stockage/packages/f18/wammu/locale/sk/wammu.po | 
+ | [ru](/f18/language/ru) | 5095 | 5099 | 99.9 | /mnt/stockage/packages/f18/wammu/locale/ru/docs.po/mnt/stockage/packages/f18/wammu/locale/ru/wammu.po | 
+ | [nl](/f18/language/nl) | 5040 | 5099 | 98.8 | /mnt/stockage/packages/f18/wammu/locale/nl/docs.po/mnt/stockage/packages/f18/wammu/locale/nl/wammu.po | 
+ | [it](/f18/language/it) | 5033 | 5099 | 98.7 | /mnt/stockage/packages/f18/wammu/locale/it/docs.po/mnt/stockage/packages/f18/wammu/locale/it/wammu.po | 
+ | [fr](/f18/language/fr) | 4596 | 5099 | 90.1 | /mnt/stockage/packages/f18/wammu/locale/fr/docs.po/mnt/stockage/packages/f18/wammu/locale/fr/wammu.po | 
+ | [tr](/f18/language/tr) | 4434 | 5099 | 87.0 | /mnt/stockage/packages/f18/wammu/locale/tr/docs.po/mnt/stockage/packages/f18/wammu/locale/tr/wammu.po | 
+ | [hu](/f18/language/hu) | 4429 | 5099 | 86.9 | /mnt/stockage/packages/f18/wammu/locale/hu/docs.po/mnt/stockage/packages/f18/wammu/locale/hu/wammu.po | 
+ | [el](/f18/language/el) | 4425 | 5099 | 86.8 | /mnt/stockage/packages/f18/wammu/locale/el/docs.po/mnt/stockage/packages/f18/wammu/locale/el/wammu.po | 
+ | [pl](/f18/language/pl) | 4332 | 5099 | 85.0 | /mnt/stockage/packages/f18/wammu/locale/pl/docs.po/mnt/stockage/packages/f18/wammu/locale/pl/wammu.po | 
+ | [sv](/f18/language/sv) | 4170 | 5099 | 81.8 | /mnt/stockage/packages/f18/wammu/locale/sv/docs.po/mnt/stockage/packages/f18/wammu/locale/sv/wammu.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 3349 | 5099 | 65.7 | /mnt/stockage/packages/f18/wammu/locale/zh_CN/docs.po/mnt/stockage/packages/f18/wammu/locale/zh_CN/wammu.po | 
+ | [bg](/f18/language/bg) | 3017 | 5099 | 59.2 | /mnt/stockage/packages/f18/wammu/locale/bg/docs.po/mnt/stockage/packages/f18/wammu/locale/bg/wammu.po | 
+ | [fi](/f18/language/fi) | 2578 | 5099 | 50.6 | /mnt/stockage/packages/f18/wammu/locale/fi/docs.po/mnt/stockage/packages/f18/wammu/locale/fi/wammu.po | 
+ | [ca](/f18/language/ca) | 2559 | 5099 | 50.2 | /mnt/stockage/packages/f18/wammu/locale/ca/docs.po/mnt/stockage/packages/f18/wammu/locale/ca/wammu.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 2345 | 5099 | 46.0 | /mnt/stockage/packages/f18/wammu/locale/zh_TW/docs.po/mnt/stockage/packages/f18/wammu/locale/zh_TW/wammu.po | 
+ | [af](/f18/language/af) | 1616 | 5099 | 31.7 | /mnt/stockage/packages/f18/wammu/locale/af/docs.po/mnt/stockage/packages/f18/wammu/locale/af/wammu.po | 
+ | [ko](/f18/language/ko) | 1552 | 5099 | 30.4 | /mnt/stockage/packages/f18/wammu/locale/ko/docs.po/mnt/stockage/packages/f18/wammu/locale/ko/wammu.po | 
+ | [gl](/f18/language/gl) | 452 | 5099 | 8.9 | /mnt/stockage/packages/f18/wammu/locale/gl/docs.po/mnt/stockage/packages/f18/wammu/locale/gl/wammu.po | 
+ | [id](/f18/language/id) | 440 | 5099 | 8.6 | /mnt/stockage/packages/f18/wammu/locale/id/docs.po/mnt/stockage/packages/f18/wammu/locale/id/wammu.po | 
+ | [da](/f18/language/da) | 434 | 5099 | 8.5 | /mnt/stockage/packages/f18/wammu/locale/da/docs.po/mnt/stockage/packages/f18/wammu/locale/da/wammu.po | 
+ | [et](/f18/language/et) | 232 | 5099 | 4.5 | /mnt/stockage/packages/f18/wammu/locale/et/docs.po/mnt/stockage/packages/f18/wammu/locale/et/wammu.po | 
+ | [ar](/f18/language/ar) | 135 | 5099 | 2.6 | /mnt/stockage/packages/f18/wammu/locale/ar/docs.po/mnt/stockage/packages/f18/wammu/locale/ar/wammu.po | 
+ | [he](/f18/language/he) | 54 | 5099 | 1.1 | /mnt/stockage/packages/f18/wammu/locale/he/docs.po/mnt/stockage/packages/f18/wammu/locale/he/wammu.po | 
+ | [sw](/f18/language/sw) | 28 | 5099 | 0.5 | /mnt/stockage/packages/f18/wammu/locale/sw/docs.po/mnt/stockage/packages/f18/wammu/locale/sw/wammu.po | 
 {.sortable}
 
 

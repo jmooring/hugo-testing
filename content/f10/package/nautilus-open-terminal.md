@@ -18,59 +18,59 @@ The package nautilus-open-terminal (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ar.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/be.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/be@latin.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/bg.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/en_GB.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sr@Latn.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/gu.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/he.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ja.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ka.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/lt.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ml.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/nl.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sl.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ta.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/nb.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 24 | 82 | 29.3 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/oc.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 0 | 16 | 0.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/rw.po | 
+ | [ar](/f10/language/ar) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ar.po | 
+ | [be](/f10/language/be) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/be.po | 
+ | [be_Latn](/f10/language/be_Latn) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/be@latin.po | 
+ | [bg](/f10/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/bg.po | 
+ | [bn_IN](/f10/language/bn_IN) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ca.po | 
+ | [cs](/f10/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/cs.po | 
+ | [da](/f10/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/da.po | 
+ | [de](/f10/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/de.po | 
+ | [dz](/f10/language/dz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/dz.po | 
+ | [el](/f10/language/el) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/en_GB.po | 
+ | [error](/f10/language/error) | 23 | 23 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sr@Latn.po | 
+ | [es](/f10/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/es.po | 
+ | [et](/f10/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/et.po | 
+ | [eu](/f10/language/eu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/eu.po | 
+ | [fi](/f10/language/fi) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/fi.po | 
+ | [fr](/f10/language/fr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/fr.po | 
+ | [gl](/f10/language/gl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/gl.po | 
+ | [gu](/f10/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/gu.po | 
+ | [he](/f10/language/he) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/he.po | 
+ | [hu](/f10/language/hu) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/hu.po | 
+ | [it](/f10/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/it.po | 
+ | [ja](/f10/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ja.po | 
+ | [ka](/f10/language/ka) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ka.po | 
+ | [ko](/f10/language/ko) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ko.po | 
+ | [lt](/f10/language/lt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/lt.po | 
+ | [mk](/f10/language/mk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/mk.po | 
+ | [ml](/f10/language/ml) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ml.po | 
+ | [ne](/f10/language/ne) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ne.po | 
+ | [nl](/f10/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/nl.po | 
+ | [or](/f10/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/or.po | 
+ | [pa](/f10/language/pa) | 16 | 16 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pa.po | 
+ | [pl](/f10/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pl.po | 
+ | [pt](/f10/language/pt) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 23 | 23 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ro.po | 
+ | [ru](/f10/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ru.po | 
+ | [sk](/f10/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sk.po | 
+ | [sl](/f10/language/sl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sl.po | 
+ | [sr](/f10/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sr.po | 
+ | [sv](/f10/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/sv.po | 
+ | [ta](/f10/language/ta) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/ta.po | 
+ | [th](/f10/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/th.po | 
+ | [tr](/f10/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/tr.po | 
+ | [uk](/f10/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/uk.po | 
+ | [vi](/f10/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 16 | 16 | 100.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/zh_TW.po | 
+ | [nb_NO](/f10/language/nb_NO) | 24 | 82 | 29.3 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/nb.po | 
+ | [oc](/f10/language/oc) | 24 | 82 | 29.3 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/oc.po | 
+ | [rw](/f10/language/rw) | 0 | 16 | 0.0 | /mnt/stockage/packages/f10/nautilus-open-terminal/po/rw.po | 
 {.sortable}
 
 

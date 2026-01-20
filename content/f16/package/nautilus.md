@@ -18,113 +18,113 @@ The package nautilus (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 7176 | 7176 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 8620 | 8620 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ast.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 7129 | 7129 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 8796 | 8796 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/bn_IN.po | 
- | [br]({{< ref "/f16/language/br.md" >}}) | 8801 | 8801 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/br.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ca.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ca@valencia.po | 
- | [crh]({{< ref "/f16/language/crh.md" >}}) | 8796 | 8796 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/crh.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 7292 | 7292 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 7191 | 7191 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 7192 | 7192 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 8620 | 8620 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/lv.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 7129 | 7129 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/mr.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 7191 | 7191 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 7113 | 7113 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/nl.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 8796 | 8796 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/oc.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 7176 | 7176 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 7176 | 7176 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 8379 | 8379 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sq.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 14154 | 14154 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sr.po/mnt/stockage/packages/f16/nautilus/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/th.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 7115 | 7115 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/zh_HK.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 7004 | 7005 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/cy.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 7056 | 7066 | 99.9 | /mnt/stockage/packages/f16/nautilus/po/dz.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 7116 | 7129 | 99.8 | /mnt/stockage/packages/f16/nautilus/po/vi.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 8607 | 8679 | 99.2 | /mnt/stockage/packages/f16/nautilus/po/is.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 8621 | 8796 | 98.0 | /mnt/stockage/packages/f16/nautilus/po/ml.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 6924 | 7176 | 96.5 | /mnt/stockage/packages/f16/nautilus/po/ar.po | 
- | [xh]({{< ref "/f16/language/xh.md" >}}) | 6945 | 7210 | 96.3 | /mnt/stockage/packages/f16/nautilus/po/xh.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 6554 | 6816 | 96.2 | /mnt/stockage/packages/f16/nautilus/po/hy.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 6831 | 7129 | 95.8 | /mnt/stockage/packages/f16/nautilus/po/kn.po | 
- | [zu]({{< ref "/f16/language/zu.md" >}}) | 6674 | 6976 | 95.7 | /mnt/stockage/packages/f16/nautilus/po/zu.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 6881 | 7206 | 95.5 | /mnt/stockage/packages/f16/nautilus/po/az.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 6802 | 7197 | 94.5 | /mnt/stockage/packages/f16/nautilus/po/bs.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 6676 | 7077 | 94.3 | /mnt/stockage/packages/f16/nautilus/po/nb.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 6661 | 7115 | 93.6 | /mnt/stockage/packages/f16/nautilus/po/tr.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 6675 | 7144 | 93.4 | /mnt/stockage/packages/f16/nautilus/po/nn.po | 
- | [be_Latn]({{< ref "/f16/language/be_Latn.md" >}}) | 7522 | 8135 | 92.5 | /mnt/stockage/packages/f16/nautilus/po/be@latin.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 6597 | 7206 | 91.5 | /mnt/stockage/packages/f16/nautilus/po/mn.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 7895 | 8679 | 91.0 | /mnt/stockage/packages/f16/nautilus/po/mk.po | 
- | [sr@ijekavian]({{< ref "/f16/language/sr@ijekavian.md" >}}) | 6241 | 6976 | 89.5 | /mnt/stockage/packages/f16/nautilus/po/sr@ije.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 6298 | 7077 | 89.0 | /mnt/stockage/packages/f16/nautilus/po/eo.po | 
- | [mg]({{< ref "/f16/language/mg.md" >}}) | 6089 | 6969 | 87.4 | /mnt/stockage/packages/f16/nautilus/po/mg.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 7548 | 8840 | 85.4 | /mnt/stockage/packages/f16/nautilus/po/en@shaw.po | 
- | [gv]({{< ref "/f16/language/gv.md" >}}) | 7500 | 8884 | 84.4 | /mnt/stockage/packages/f16/nautilus/po/gv.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 6442 | 8398 | 76.7 | /mnt/stockage/packages/f16/nautilus/po/ka.po | 
- | [af]({{< ref "/f16/language/af.md" >}}) | 6054 | 8218 | 73.7 | /mnt/stockage/packages/f16/nautilus/po/af.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 5179 | 7077 | 73.2 | /mnt/stockage/packages/f16/nautilus/po/be.po | 
- | [tk]({{< ref "/f16/language/tk.md" >}}) | 5001 | 6976 | 71.7 | /mnt/stockage/packages/f16/nautilus/po/tk.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 5078 | 8253 | 61.5 | /mnt/stockage/packages/f16/nautilus/po/mai.po | 
- | [uz]({{< ref "/f16/language/uz.md" >}}) | 9486 | 16288 | 58.2 | /mnt/stockage/packages/f16/nautilus/po/uz@cyrillic.po/mnt/stockage/packages/f16/nautilus/po/uz.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 4836 | 8379 | 57.7 | /mnt/stockage/packages/f16/nautilus/po/hr.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 3885 | 8030 | 48.4 | /mnt/stockage/packages/f16/nautilus/po/ms.po | 
- | [li]({{< ref "/f16/language/li.md" >}}) | 3450 | 7205 | 47.9 | /mnt/stockage/packages/f16/nautilus/po/li.po | 
- | [ha]({{< ref "/f16/language/ha.md" >}}) | 3745 | 8144 | 46.0 | /mnt/stockage/packages/f16/nautilus/po/ha.po | 
- | [ig]({{< ref "/f16/language/ig.md" >}}) | 3745 | 8144 | 46.0 | /mnt/stockage/packages/f16/nautilus/po/ig.po | 
- | [yo]({{< ref "/f16/language/yo.md" >}}) | 3745 | 8144 | 46.0 | /mnt/stockage/packages/f16/nautilus/po/yo.po | 
- | [nso]({{< ref "/f16/language/nso.md" >}}) | 3641 | 8144 | 44.7 | /mnt/stockage/packages/f16/nautilus/po/nso.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 3146 | 7145 | 44.0 | /mnt/stockage/packages/f16/nautilus/po/si.po | 
- | [fur]({{< ref "/f16/language/fur.md" >}}) | 3256 | 7632 | 42.7 | /mnt/stockage/packages/f16/nautilus/po/fur.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 2413 | 7077 | 34.1 | /mnt/stockage/packages/f16/nautilus/po/ga.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 2464 | 7279 | 33.9 | /mnt/stockage/packages/f16/nautilus/po/ku.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 2511 | 8681 | 28.9 | /mnt/stockage/packages/f16/nautilus/po/nds.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 1435 | 7205 | 19.9 | /mnt/stockage/packages/f16/nautilus/po/wa.po | 
- | [io]({{< ref "/f16/language/io.md" >}}) | 1293 | 7454 | 17.3 | /mnt/stockage/packages/f16/nautilus/po/io.po | 
- | [ps]({{< ref "/f16/language/ps.md" >}}) | 1166 | 8379 | 13.9 | /mnt/stockage/packages/f16/nautilus/po/ps.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 909 | 7205 | 12.6 | /mnt/stockage/packages/f16/nautilus/po/am.po | 
- | [fy]({{< ref "/f16/language/fy.md" >}}) | 946 | 8884 | 10.6 | /mnt/stockage/packages/f16/nautilus/po/fy.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 614 | 8852 | 6.9 | /mnt/stockage/packages/f16/nautilus/po/kk.po | 
- | [mi]({{< ref "/f16/language/mi.md" >}}) | 244 | 6976 | 3.5 | /mnt/stockage/packages/f16/nautilus/po/mi.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 107 | 7212 | 1.5 | /mnt/stockage/packages/f16/nautilus/po/rw.po | 
- | [km]({{< ref "/f16/language/km.md" >}}) | 42 | 6771 | 0.6 | /mnt/stockage/packages/f16/nautilus/po/km.po | 
- | [yi]({{< ref "/f16/language/yi.md" >}}) | 31 | 6976 | 0.4 | /mnt/stockage/packages/f16/nautilus/po/yi.po | 
+ | [as](/f16/language/as) | 7176 | 7176 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/as.po | 
+ | [ast](/f16/language/ast) | 8620 | 8620 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ast.po | 
+ | [bg](/f16/language/bg) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/bg.po | 
+ | [bn](/f16/language/bn) | 7129 | 7129 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 8796 | 8796 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/bn_IN.po | 
+ | [br](/f16/language/br) | 8801 | 8801 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/br.po | 
+ | [ca](/f16/language/ca) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ca.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ca@valencia.po | 
+ | [crh](/f16/language/crh) | 8796 | 8796 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/crh.po | 
+ | [cs](/f16/language/cs) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/cs.po | 
+ | [da](/f16/language/da) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/da.po | 
+ | [de](/f16/language/de) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/de.po | 
+ | [el](/f16/language/el) | 7292 | 7292 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 7191 | 7191 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/en_GB.po | 
+ | [es](/f16/language/es) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/es.po | 
+ | [et](/f16/language/et) | 7192 | 7192 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/et.po | 
+ | [eu](/f16/language/eu) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/eu.po | 
+ | [fa](/f16/language/fa) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/fa.po | 
+ | [fi](/f16/language/fi) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/fi.po | 
+ | [fr](/f16/language/fr) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/fr.po | 
+ | [gl](/f16/language/gl) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/gl.po | 
+ | [gu](/f16/language/gu) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/gu.po | 
+ | [he](/f16/language/he) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/he.po | 
+ | [hi](/f16/language/hi) | 8620 | 8620 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/hi.po | 
+ | [hu](/f16/language/hu) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/hu.po | 
+ | [id](/f16/language/id) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/id.po | 
+ | [it](/f16/language/it) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/it.po | 
+ | [ja](/f16/language/ja) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ja.po | 
+ | [ko](/f16/language/ko) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ko.po | 
+ | [lt](/f16/language/lt) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/lt.po | 
+ | [lv](/f16/language/lv) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/lv.po | 
+ | [mr](/f16/language/mr) | 7129 | 7129 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/mr.po | 
+ | [ne](/f16/language/ne) | 7191 | 7191 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ne.po | 
+ | [nl](/f16/language/nl) | 7113 | 7113 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/nl.po | 
+ | [oc](/f16/language/oc) | 8796 | 8796 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/oc.po | 
+ | [or](/f16/language/or) | 7176 | 7176 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/or.po | 
+ | [pa](/f16/language/pa) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pa.po | 
+ | [pl](/f16/language/pl) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pl.po | 
+ | [pt](/f16/language/pt) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 7176 | 7176 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ro.po | 
+ | [ru](/f16/language/ru) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ru.po | 
+ | [sk](/f16/language/sk) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sk.po | 
+ | [sl](/f16/language/sl) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sl.po | 
+ | [sq](/f16/language/sq) | 8379 | 8379 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sq.po | 
+ | [sr](/f16/language/sr) | 14154 | 14154 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sr.po/mnt/stockage/packages/f16/nautilus/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/sv.po | 
+ | [ta](/f16/language/ta) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ta.po | 
+ | [te](/f16/language/te) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/te.po | 
+ | [th](/f16/language/th) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/th.po | 
+ | [ug](/f16/language/ug) | 7115 | 7115 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/ug.po | 
+ | [uk](/f16/language/uk) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 7077 | 7077 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/zh_HK.po | 
+ | [cy](/f16/language/cy) | 7004 | 7005 | 100.0 | /mnt/stockage/packages/f16/nautilus/po/cy.po | 
+ | [dz](/f16/language/dz) | 7056 | 7066 | 99.9 | /mnt/stockage/packages/f16/nautilus/po/dz.po | 
+ | [vi](/f16/language/vi) | 7116 | 7129 | 99.8 | /mnt/stockage/packages/f16/nautilus/po/vi.po | 
+ | [is](/f16/language/is) | 8607 | 8679 | 99.2 | /mnt/stockage/packages/f16/nautilus/po/is.po | 
+ | [ml](/f16/language/ml) | 8621 | 8796 | 98.0 | /mnt/stockage/packages/f16/nautilus/po/ml.po | 
+ | [ar](/f16/language/ar) | 6924 | 7176 | 96.5 | /mnt/stockage/packages/f16/nautilus/po/ar.po | 
+ | [xh](/f16/language/xh) | 6945 | 7210 | 96.3 | /mnt/stockage/packages/f16/nautilus/po/xh.po | 
+ | [hy](/f16/language/hy) | 6554 | 6816 | 96.2 | /mnt/stockage/packages/f16/nautilus/po/hy.po | 
+ | [kn](/f16/language/kn) | 6831 | 7129 | 95.8 | /mnt/stockage/packages/f16/nautilus/po/kn.po | 
+ | [zu](/f16/language/zu) | 6674 | 6976 | 95.7 | /mnt/stockage/packages/f16/nautilus/po/zu.po | 
+ | [az](/f16/language/az) | 6881 | 7206 | 95.5 | /mnt/stockage/packages/f16/nautilus/po/az.po | 
+ | [bs](/f16/language/bs) | 6802 | 7197 | 94.5 | /mnt/stockage/packages/f16/nautilus/po/bs.po | 
+ | [nb_NO](/f16/language/nb_NO) | 6676 | 7077 | 94.3 | /mnt/stockage/packages/f16/nautilus/po/nb.po | 
+ | [tr](/f16/language/tr) | 6661 | 7115 | 93.6 | /mnt/stockage/packages/f16/nautilus/po/tr.po | 
+ | [nn](/f16/language/nn) | 6675 | 7144 | 93.4 | /mnt/stockage/packages/f16/nautilus/po/nn.po | 
+ | [be_Latn](/f16/language/be_Latn) | 7522 | 8135 | 92.5 | /mnt/stockage/packages/f16/nautilus/po/be@latin.po | 
+ | [mn](/f16/language/mn) | 6597 | 7206 | 91.5 | /mnt/stockage/packages/f16/nautilus/po/mn.po | 
+ | [mk](/f16/language/mk) | 7895 | 8679 | 91.0 | /mnt/stockage/packages/f16/nautilus/po/mk.po | 
+ | [sr@ijekavian](/f16/language/sr@ijekavian) | 6241 | 6976 | 89.5 | /mnt/stockage/packages/f16/nautilus/po/sr@ije.po | 
+ | [eo](/f16/language/eo) | 6298 | 7077 | 89.0 | /mnt/stockage/packages/f16/nautilus/po/eo.po | 
+ | [mg](/f16/language/mg) | 6089 | 6969 | 87.4 | /mnt/stockage/packages/f16/nautilus/po/mg.po | 
+ | [error](/f16/language/error) | 7548 | 8840 | 85.4 | /mnt/stockage/packages/f16/nautilus/po/en@shaw.po | 
+ | [gv](/f16/language/gv) | 7500 | 8884 | 84.4 | /mnt/stockage/packages/f16/nautilus/po/gv.po | 
+ | [ka](/f16/language/ka) | 6442 | 8398 | 76.7 | /mnt/stockage/packages/f16/nautilus/po/ka.po | 
+ | [af](/f16/language/af) | 6054 | 8218 | 73.7 | /mnt/stockage/packages/f16/nautilus/po/af.po | 
+ | [be](/f16/language/be) | 5179 | 7077 | 73.2 | /mnt/stockage/packages/f16/nautilus/po/be.po | 
+ | [tk](/f16/language/tk) | 5001 | 6976 | 71.7 | /mnt/stockage/packages/f16/nautilus/po/tk.po | 
+ | [mai](/f16/language/mai) | 5078 | 8253 | 61.5 | /mnt/stockage/packages/f16/nautilus/po/mai.po | 
+ | [uz](/f16/language/uz) | 9486 | 16288 | 58.2 | /mnt/stockage/packages/f16/nautilus/po/uz@cyrillic.po/mnt/stockage/packages/f16/nautilus/po/uz.po | 
+ | [hr](/f16/language/hr) | 4836 | 8379 | 57.7 | /mnt/stockage/packages/f16/nautilus/po/hr.po | 
+ | [ms](/f16/language/ms) | 3885 | 8030 | 48.4 | /mnt/stockage/packages/f16/nautilus/po/ms.po | 
+ | [li](/f16/language/li) | 3450 | 7205 | 47.9 | /mnt/stockage/packages/f16/nautilus/po/li.po | 
+ | [ha](/f16/language/ha) | 3745 | 8144 | 46.0 | /mnt/stockage/packages/f16/nautilus/po/ha.po | 
+ | [ig](/f16/language/ig) | 3745 | 8144 | 46.0 | /mnt/stockage/packages/f16/nautilus/po/ig.po | 
+ | [yo](/f16/language/yo) | 3745 | 8144 | 46.0 | /mnt/stockage/packages/f16/nautilus/po/yo.po | 
+ | [nso](/f16/language/nso) | 3641 | 8144 | 44.7 | /mnt/stockage/packages/f16/nautilus/po/nso.po | 
+ | [si](/f16/language/si) | 3146 | 7145 | 44.0 | /mnt/stockage/packages/f16/nautilus/po/si.po | 
+ | [fur](/f16/language/fur) | 3256 | 7632 | 42.7 | /mnt/stockage/packages/f16/nautilus/po/fur.po | 
+ | [ga](/f16/language/ga) | 2413 | 7077 | 34.1 | /mnt/stockage/packages/f16/nautilus/po/ga.po | 
+ | [ku](/f16/language/ku) | 2464 | 7279 | 33.9 | /mnt/stockage/packages/f16/nautilus/po/ku.po | 
+ | [nds](/f16/language/nds) | 2511 | 8681 | 28.9 | /mnt/stockage/packages/f16/nautilus/po/nds.po | 
+ | [wa](/f16/language/wa) | 1435 | 7205 | 19.9 | /mnt/stockage/packages/f16/nautilus/po/wa.po | 
+ | [io](/f16/language/io) | 1293 | 7454 | 17.3 | /mnt/stockage/packages/f16/nautilus/po/io.po | 
+ | [ps](/f16/language/ps) | 1166 | 8379 | 13.9 | /mnt/stockage/packages/f16/nautilus/po/ps.po | 
+ | [am](/f16/language/am) | 909 | 7205 | 12.6 | /mnt/stockage/packages/f16/nautilus/po/am.po | 
+ | [fy](/f16/language/fy) | 946 | 8884 | 10.6 | /mnt/stockage/packages/f16/nautilus/po/fy.po | 
+ | [kk](/f16/language/kk) | 614 | 8852 | 6.9 | /mnt/stockage/packages/f16/nautilus/po/kk.po | 
+ | [mi](/f16/language/mi) | 244 | 6976 | 3.5 | /mnt/stockage/packages/f16/nautilus/po/mi.po | 
+ | [rw](/f16/language/rw) | 107 | 7212 | 1.5 | /mnt/stockage/packages/f16/nautilus/po/rw.po | 
+ | [km](/f16/language/km) | 42 | 6771 | 0.6 | /mnt/stockage/packages/f16/nautilus/po/km.po | 
+ | [yi](/f16/language/yi) | 31 | 6976 | 0.4 | /mnt/stockage/packages/f16/nautilus/po/yi.po | 
 {.sortable}
 
 

@@ -18,86 +18,86 @@ The package seahorse (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ar.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/as.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 3033 | 3033 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ast.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/be.po | 
- | [be_Latn]({{< ref "/f27/language/be_Latn.md" >}}) | 3645 | 3645 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/be@latin.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bg.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 3061 | 3061 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bn.po | 
- | [bn_IN]({{< ref "/f27/language/bn_IN.md" >}}) | 3012 | 3012 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bn_IN.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bs.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ca.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ca@valencia.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/cs/cs.po/mnt/stockage/packages/f27/seahorse/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/de/de.po/mnt/stockage/packages/f27/seahorse/po/de.po | 
- | [dz]({{< ref "/f27/language/dz.md" >}}) | 3660 | 3660 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/dz.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/el/el.po/mnt/stockage/packages/f27/seahorse/po/el.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 3327 | 3327 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/en_CA.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/en_GB.po | 
- | [en_US]({{< ref "/f27/language/en_US.md" >}}) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ta.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/es/es.po/mnt/stockage/packages/f27/seahorse/po/es.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/eu.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/fr/fr.po/mnt/stockage/packages/f27/seahorse/po/fr.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/gl.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/gu.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/he.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/hi.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/hu/hu.po/mnt/stockage/packages/f27/seahorse/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/id.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ja.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/kn.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/lt.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/lv.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 2400 | 2400 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/mk.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 2428 | 2428 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ml.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/mr.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/nb.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/nl.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 3560 | 3560 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/nn.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 3012 | 3012 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/or.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pa.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 2524 | 2524 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ro.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 4988 | 4988 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sr@latin.po/mnt/stockage/packages/f27/seahorse/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sv.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 2412 | 2412 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/te.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/th.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/tr.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ug.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/vi.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 4980 | 4980 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/zh_HK.po/mnt/stockage/packages/f27/seahorse/po/zh_TW.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 2450 | 2493 | 98.3 | /mnt/stockage/packages/f27/seahorse/po/fi.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 2413 | 2494 | 96.8 | /mnt/stockage/packages/f27/seahorse/po/oc.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 2694 | 3061 | 88.0 | /mnt/stockage/packages/f27/seahorse/po/en@shaw.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 1766 | 2486 | 71.0 | /mnt/stockage/packages/f27/seahorse/po/ne.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 1034 | 2494 | 41.5 | /mnt/stockage/packages/f27/seahorse/po/is.po | 
- | [br]({{< ref "/f27/language/br.md" >}}) | 929 | 3059 | 30.4 | /mnt/stockage/packages/f27/seahorse/po/br.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 2521 | 8791 | 28.7 | /mnt/stockage/packages/f27/seahorse/help/ru/ru.po/mnt/stockage/packages/f27/seahorse/po/ru.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 506 | 2494 | 20.3 | /mnt/stockage/packages/f27/seahorse/po/kk.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 450 | 2423 | 18.6 | /mnt/stockage/packages/f27/seahorse/po/ga.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 416 | 2423 | 17.2 | /mnt/stockage/packages/f27/seahorse/po/eo.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 304 | 2304 | 13.2 | /mnt/stockage/packages/f27/seahorse/po/ms.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 312 | 2860 | 10.9 | /mnt/stockage/packages/f27/seahorse/po/hr.po | 
- | [gd]({{< ref "/f27/language/gd.md" >}}) | 167 | 2493 | 6.7 | /mnt/stockage/packages/f27/seahorse/po/gd.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 121 | 2424 | 5.0 | /mnt/stockage/packages/f27/seahorse/po/tg.po | 
- | [mai]({{< ref "/f27/language/mai.md" >}}) | 149 | 3042 | 4.9 | /mnt/stockage/packages/f27/seahorse/po/mai.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 130 | 3630 | 3.6 | /mnt/stockage/packages/f27/seahorse/po/si.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 30 | 2293 | 1.3 | /mnt/stockage/packages/f27/seahorse/po/rw.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 28 | 2304 | 1.2 | /mnt/stockage/packages/f27/seahorse/po/az.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 24 | 3049 | 0.8 | /mnt/stockage/packages/f27/seahorse/po/ku.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 7 | 2304 | 0.3 | /mnt/stockage/packages/f27/seahorse/po/sq.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 7 | 2963 | 0.2 | /mnt/stockage/packages/f27/seahorse/po/cy.po | 
+ | [ar](/f27/language/ar) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ar.po | 
+ | [as](/f27/language/as) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/as.po | 
+ | [ast](/f27/language/ast) | 3033 | 3033 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ast.po | 
+ | [be](/f27/language/be) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/be.po | 
+ | [be_Latn](/f27/language/be_Latn) | 3645 | 3645 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/be@latin.po | 
+ | [bg](/f27/language/bg) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bg.po | 
+ | [bn](/f27/language/bn) | 3061 | 3061 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bn.po | 
+ | [bn_IN](/f27/language/bn_IN) | 3012 | 3012 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bn_IN.po | 
+ | [bs](/f27/language/bs) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/bs.po | 
+ | [ca](/f27/language/ca) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ca.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ca@valencia.po | 
+ | [cs](/f27/language/cs) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/cs/cs.po/mnt/stockage/packages/f27/seahorse/po/cs.po | 
+ | [da](/f27/language/da) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/da.po | 
+ | [de](/f27/language/de) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/de/de.po/mnt/stockage/packages/f27/seahorse/po/de.po | 
+ | [dz](/f27/language/dz) | 3660 | 3660 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/dz.po | 
+ | [el](/f27/language/el) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/el/el.po/mnt/stockage/packages/f27/seahorse/po/el.po | 
+ | [en_CA](/f27/language/en_CA) | 3327 | 3327 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/en_CA.po | 
+ | [en_GB](/f27/language/en_GB) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/en_GB.po | 
+ | [en_US](/f27/language/en_US) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ta.po | 
+ | [es](/f27/language/es) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/es/es.po/mnt/stockage/packages/f27/seahorse/po/es.po | 
+ | [et](/f27/language/et) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/et.po | 
+ | [eu](/f27/language/eu) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/eu.po | 
+ | [fr](/f27/language/fr) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/fr/fr.po/mnt/stockage/packages/f27/seahorse/po/fr.po | 
+ | [gl](/f27/language/gl) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/gl.po | 
+ | [gu](/f27/language/gu) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/gu.po | 
+ | [he](/f27/language/he) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/he.po | 
+ | [hi](/f27/language/hi) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/hi.po | 
+ | [hu](/f27/language/hu) | 9056 | 9056 | 100.0 | /mnt/stockage/packages/f27/seahorse/help/hu/hu.po/mnt/stockage/packages/f27/seahorse/po/hu.po | 
+ | [id](/f27/language/id) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/id.po | 
+ | [it](/f27/language/it) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/it.po | 
+ | [ja](/f27/language/ja) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ja.po | 
+ | [kn](/f27/language/kn) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/kn.po | 
+ | [ko](/f27/language/ko) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ko.po | 
+ | [lt](/f27/language/lt) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/lt.po | 
+ | [lv](/f27/language/lv) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/lv.po | 
+ | [mk](/f27/language/mk) | 2400 | 2400 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/mk.po | 
+ | [ml](/f27/language/ml) | 2428 | 2428 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ml.po | 
+ | [mr](/f27/language/mr) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/mr.po | 
+ | [nb_NO](/f27/language/nb_NO) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/nb.po | 
+ | [nl](/f27/language/nl) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/nl.po | 
+ | [nn](/f27/language/nn) | 3560 | 3560 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/nn.po | 
+ | [or](/f27/language/or) | 3012 | 3012 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/or.po | 
+ | [pa](/f27/language/pa) | 2486 | 2486 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pa.po | 
+ | [pl](/f27/language/pl) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pl.po | 
+ | [pt](/f27/language/pt) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 2524 | 2524 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ro.po | 
+ | [sk](/f27/language/sk) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sk.po | 
+ | [sl](/f27/language/sl) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sl.po | 
+ | [sr](/f27/language/sr) | 4988 | 4988 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sr@latin.po/mnt/stockage/packages/f27/seahorse/po/sr.po | 
+ | [sv](/f27/language/sv) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/sv.po | 
+ | [te](/f27/language/te) | 2412 | 2412 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/te.po | 
+ | [th](/f27/language/th) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/th.po | 
+ | [tr](/f27/language/tr) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/tr.po | 
+ | [ug](/f27/language/ug) | 2424 | 2424 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/ug.po | 
+ | [uk](/f27/language/uk) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/uk.po | 
+ | [vi](/f27/language/vi) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/vi.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 4980 | 4980 | 100.0 | /mnt/stockage/packages/f27/seahorse/po/zh_HK.po/mnt/stockage/packages/f27/seahorse/po/zh_TW.po | 
+ | [fi](/f27/language/fi) | 2450 | 2493 | 98.3 | /mnt/stockage/packages/f27/seahorse/po/fi.po | 
+ | [oc](/f27/language/oc) | 2413 | 2494 | 96.8 | /mnt/stockage/packages/f27/seahorse/po/oc.po | 
+ | [error](/f27/language/error) | 2694 | 3061 | 88.0 | /mnt/stockage/packages/f27/seahorse/po/en@shaw.po | 
+ | [ne](/f27/language/ne) | 1766 | 2486 | 71.0 | /mnt/stockage/packages/f27/seahorse/po/ne.po | 
+ | [is](/f27/language/is) | 1034 | 2494 | 41.5 | /mnt/stockage/packages/f27/seahorse/po/is.po | 
+ | [br](/f27/language/br) | 929 | 3059 | 30.4 | /mnt/stockage/packages/f27/seahorse/po/br.po | 
+ | [ru](/f27/language/ru) | 2521 | 8791 | 28.7 | /mnt/stockage/packages/f27/seahorse/help/ru/ru.po/mnt/stockage/packages/f27/seahorse/po/ru.po | 
+ | [kk](/f27/language/kk) | 506 | 2494 | 20.3 | /mnt/stockage/packages/f27/seahorse/po/kk.po | 
+ | [ga](/f27/language/ga) | 450 | 2423 | 18.6 | /mnt/stockage/packages/f27/seahorse/po/ga.po | 
+ | [eo](/f27/language/eo) | 416 | 2423 | 17.2 | /mnt/stockage/packages/f27/seahorse/po/eo.po | 
+ | [ms](/f27/language/ms) | 304 | 2304 | 13.2 | /mnt/stockage/packages/f27/seahorse/po/ms.po | 
+ | [hr](/f27/language/hr) | 312 | 2860 | 10.9 | /mnt/stockage/packages/f27/seahorse/po/hr.po | 
+ | [gd](/f27/language/gd) | 167 | 2493 | 6.7 | /mnt/stockage/packages/f27/seahorse/po/gd.po | 
+ | [tg](/f27/language/tg) | 121 | 2424 | 5.0 | /mnt/stockage/packages/f27/seahorse/po/tg.po | 
+ | [mai](/f27/language/mai) | 149 | 3042 | 4.9 | /mnt/stockage/packages/f27/seahorse/po/mai.po | 
+ | [si](/f27/language/si) | 130 | 3630 | 3.6 | /mnt/stockage/packages/f27/seahorse/po/si.po | 
+ | [rw](/f27/language/rw) | 30 | 2293 | 1.3 | /mnt/stockage/packages/f27/seahorse/po/rw.po | 
+ | [az](/f27/language/az) | 28 | 2304 | 1.2 | /mnt/stockage/packages/f27/seahorse/po/az.po | 
+ | [ku](/f27/language/ku) | 24 | 3049 | 0.8 | /mnt/stockage/packages/f27/seahorse/po/ku.po | 
+ | [sq](/f27/language/sq) | 7 | 2304 | 0.3 | /mnt/stockage/packages/f27/seahorse/po/sq.po | 
+ | [cy](/f27/language/cy) | 7 | 2963 | 0.2 | /mnt/stockage/packages/f27/seahorse/po/cy.po | 
 {.sortable}
 
 

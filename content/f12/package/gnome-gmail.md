@@ -18,9 +18,9 @@ The package gnome-gmail (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 1 | 267 | 0.4 | /mnt/stockage/packages/f12/gnome-gmail/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1 | 267 | 0.4 | /mnt/stockage/packages/f12/gnome-gmail/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1 | 267 | 0.4 | /mnt/stockage/packages/f12/gnome-gmail/po/it.po | 
+ | [de](/f12/language/de) | 1 | 267 | 0.4 | /mnt/stockage/packages/f12/gnome-gmail/po/de.po | 
+ | [es](/f12/language/es) | 1 | 267 | 0.4 | /mnt/stockage/packages/f12/gnome-gmail/po/es.po | 
+ | [it](/f12/language/it) | 1 | 267 | 0.4 | /mnt/stockage/packages/f12/gnome-gmail/po/it.po | 
 {.sortable}
 
 

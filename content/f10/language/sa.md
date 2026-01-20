@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [scribus]({{< ref "/f10/package/scribus.md" >}}) | 14194 | 14194 | 100.0 | Sanskrit | 
+ | [scribus](/f10/package/scribus) | 14194 | 14194 | 100.0 | Sanskrit | 
 {.sortable}
 
 

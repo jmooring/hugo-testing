@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [flaw]({{< ref "/f16/package/flaw.md" >}}) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f16/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | Luxembourgish <lb@li.org> | 
- | [geany]({{< ref "/f16/package/geany.md" >}}) | 4443 | 5672 | 78.3 | Letzebuergesch | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 2 | 7138 | 0.0 | Luxembourgish <lb@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [flaw](/f16/package/flaw) | 84 | 84 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f16/package/lightdm-gtk) | 56 | 56 | 100.0 | Luxembourgish <lb@li.org> | 
+ | [geany](/f16/package/geany) | 4443 | 5672 | 78.3 | Letzebuergesch | 
+ | [gnome-do](/f16/package/gnome-do) | 473 | 612 | 77.3 | Luxembourgish <lb@li.org> | 
+ | [lightdm](/f16/package/lightdm) | 42 | 79 | 53.2 | Luxembourgish <lb@li.org> | 
+ | [stellarium](/f16/package/stellarium) | 2 | 7138 | 0.0 | Luxembourgish <lb@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

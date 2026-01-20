@@ -18,72 +18,72 @@ The package system-config-boot (version 0.2.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/bg.po | 
- | [bn_IN]({{< ref "/f8/language/bn_IN.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/bn_IN.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/de.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/sr@Latn.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/fr.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/gu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ja.po | 
- | [kn]({{< ref "/f8/language/kn.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/kn.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ko.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ml.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/pt_BR.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/sr.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ta.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 87 | 92 | 94.6 | /mnt/stockage/packages/f8/system-config-boot/po/no.po/mnt/stockage/packages/f8/system-config-boot/po/nb.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ar.po | 
- | [as]({{< ref "/f8/language/as.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/as.po | 
- | [be]({{< ref "/f8/language/be.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/be.po | 
- | [bn]({{< ref "/f8/language/bn.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/bn.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/bs.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/cy.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/da.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/el.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/en_GB.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/et.po | 
- | [fa]({{< ref "/f8/language/fa.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/fa.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/fi.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/gl.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/he.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/hi.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/hr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/hu.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/id.po | 
- | [is]({{< ref "/f8/language/is.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/is.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ka.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/lt.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/lv.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/mk.po | 
- | [mr]({{< ref "/f8/language/mr.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/mr.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ms.po | 
- | [or]({{< ref "/f8/language/or.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/or.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/pa.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ru.po | 
- | [si]({{< ref "/f8/language/si.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/si.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/sk.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/sl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/sv.po | 
- | [te]({{< ref "/f8/language/te.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/te.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/tr.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/uk.po | 
- | [ur]({{< ref "/f8/language/ur.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ur.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/vi.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/zh_TW.po | 
- | [hy]({{< ref "/f8/language/hy.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/hy.po | 
- | [ku]({{< ref "/f8/language/ku.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/ku.po | 
- | [lo]({{< ref "/f8/language/lo.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/lo.po | 
- | [my]({{< ref "/f8/language/my.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/my.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/sq.po | 
+ | [bg](/f8/language/bg) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/bg.po | 
+ | [bn_IN](/f8/language/bn_IN) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/bn_IN.po | 
+ | [ca](/f8/language/ca) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ca.po | 
+ | [cs](/f8/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/cs.po | 
+ | [de](/f8/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/de.po | 
+ | [error](/f8/language/error) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/sr@Latn.po | 
+ | [es](/f8/language/es) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/es.po | 
+ | [fr](/f8/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/fr.po | 
+ | [gu](/f8/language/gu) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/gu.po | 
+ | [it](/f8/language/it) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/it.po | 
+ | [ja](/f8/language/ja) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ja.po | 
+ | [kn](/f8/language/kn) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/kn.po | 
+ | [ko](/f8/language/ko) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ko.po | 
+ | [ml](/f8/language/ml) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ml.po | 
+ | [nl](/f8/language/nl) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/nl.po | 
+ | [pl](/f8/language/pl) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/pl.po | 
+ | [pt](/f8/language/pt) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/pt_BR.po | 
+ | [sr](/f8/language/sr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/sr.po | 
+ | [ta](/f8/language/ta) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/ta.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 46 | 46 | 100.0 | /mnt/stockage/packages/f8/system-config-boot/po/zh_CN.po | 
+ | [nb_NO](/f8/language/nb_NO) | 87 | 92 | 94.6 | /mnt/stockage/packages/f8/system-config-boot/po/no.po/mnt/stockage/packages/f8/system-config-boot/po/nb.po | 
+ | [ar](/f8/language/ar) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ar.po | 
+ | [as](/f8/language/as) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/as.po | 
+ | [be](/f8/language/be) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/be.po | 
+ | [bn](/f8/language/bn) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/bn.po | 
+ | [bs](/f8/language/bs) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/bs.po | 
+ | [cy](/f8/language/cy) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/cy.po | 
+ | [da](/f8/language/da) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/da.po | 
+ | [el](/f8/language/el) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/el.po | 
+ | [en_GB](/f8/language/en_GB) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/en_GB.po | 
+ | [et](/f8/language/et) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/et.po | 
+ | [fa](/f8/language/fa) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/fa.po | 
+ | [fi](/f8/language/fi) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/fi.po | 
+ | [gl](/f8/language/gl) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/gl.po | 
+ | [he](/f8/language/he) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/he.po | 
+ | [hi](/f8/language/hi) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/hi.po | 
+ | [hr](/f8/language/hr) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/hr.po | 
+ | [hu](/f8/language/hu) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/hu.po | 
+ | [id](/f8/language/id) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/id.po | 
+ | [is](/f8/language/is) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/is.po | 
+ | [ka](/f8/language/ka) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ka.po | 
+ | [lt](/f8/language/lt) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/lt.po | 
+ | [lv](/f8/language/lv) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/lv.po | 
+ | [mk](/f8/language/mk) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/mk.po | 
+ | [mr](/f8/language/mr) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/mr.po | 
+ | [ms](/f8/language/ms) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ms.po | 
+ | [or](/f8/language/or) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/or.po | 
+ | [pa](/f8/language/pa) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/pa.po | 
+ | [ro](/f8/language/ro) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ro.po | 
+ | [ru](/f8/language/ru) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ru.po | 
+ | [si](/f8/language/si) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/si.po | 
+ | [sk](/f8/language/sk) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/sk.po | 
+ | [sl](/f8/language/sl) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/sl.po | 
+ | [sv](/f8/language/sv) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/sv.po | 
+ | [te](/f8/language/te) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/te.po | 
+ | [tr](/f8/language/tr) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/tr.po | 
+ | [uk](/f8/language/uk) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/uk.po | 
+ | [ur](/f8/language/ur) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/ur.po | 
+ | [vi](/f8/language/vi) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/vi.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 41 | 46 | 89.1 | /mnt/stockage/packages/f8/system-config-boot/po/zh_TW.po | 
+ | [hy](/f8/language/hy) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/hy.po | 
+ | [ku](/f8/language/ku) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/ku.po | 
+ | [lo](/f8/language/lo) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/lo.po | 
+ | [my](/f8/language/my) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/my.po | 
+ | [sq](/f8/language/sq) | 0 | 46 | 0.0 | /mnt/stockage/packages/f8/system-config-boot/po/sq.po | 
 {.sortable}
 
 

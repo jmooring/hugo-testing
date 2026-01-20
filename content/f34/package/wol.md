@@ -18,11 +18,11 @@ The package wol (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f34/wol/po/de.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f34/wol/po/sv.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 293 | 298 | 98.3 | /mnt/stockage/packages/f34/wol/po/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 175 | 298 | 58.7 | /mnt/stockage/packages/f34/wol/po/fr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 175 | 298 | 58.7 | /mnt/stockage/packages/f34/wol/po/it.po | 
+ | [de](/f34/language/de) | 298 | 298 | 100.0 | /mnt/stockage/packages/f34/wol/po/de.po | 
+ | [sv](/f34/language/sv) | 298 | 298 | 100.0 | /mnt/stockage/packages/f34/wol/po/sv.po | 
+ | [es](/f34/language/es) | 293 | 298 | 98.3 | /mnt/stockage/packages/f34/wol/po/es.po | 
+ | [fr](/f34/language/fr) | 175 | 298 | 58.7 | /mnt/stockage/packages/f34/wol/po/fr.po | 
+ | [it](/f34/language/it) | 175 | 298 | 58.7 | /mnt/stockage/packages/f34/wol/po/it.po | 
 {.sortable}
 
 

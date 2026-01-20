@@ -18,25 +18,25 @@ The package samba (version 4.4.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/fr.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ja.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/da.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/fi.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/nb.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ar.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/cs.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/es.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ko.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ru.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/sv.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/zh_TW.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 940 | 12531 | 7.5 | /mnt/stockage/packages/f24/samba/source3/locale/net/de.po/mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/de.po | 
+ | [fr](/f24/language/fr) | 524 | 524 | 100.0 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/fr.po | 
+ | [ja](/f24/language/ja) | 524 | 524 | 100.0 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ja.po | 
+ | [da](/f24/language/da) | 212 | 524 | 40.5 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/da.po | 
+ | [fi](/f24/language/fi) | 212 | 524 | 40.5 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/fi.po | 
+ | [nb_NO](/f24/language/nb_NO) | 212 | 524 | 40.5 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/nb.po | 
+ | [ar](/f24/language/ar) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ar.po | 
+ | [cs](/f24/language/cs) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/cs.po | 
+ | [es](/f24/language/es) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/es.po | 
+ | [hu](/f24/language/hu) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/hu.po | 
+ | [it](/f24/language/it) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/it.po | 
+ | [ko](/f24/language/ko) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ko.po | 
+ | [nl](/f24/language/nl) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/nl.po | 
+ | [pl](/f24/language/pl) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/pt_BR.po | 
+ | [ru](/f24/language/ru) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/ru.po | 
+ | [sv](/f24/language/sv) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/sv.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 187 | 524 | 35.7 | /mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/zh_TW.po | 
+ | [de](/f24/language/de) | 940 | 12531 | 7.5 | /mnt/stockage/packages/f24/samba/source3/locale/net/de.po/mnt/stockage/packages/f24/samba/source3/locale/pam_winbind/de.po | 
 {.sortable}
 
 

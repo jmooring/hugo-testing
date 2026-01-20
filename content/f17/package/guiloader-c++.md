@@ -18,7 +18,7 @@ The package guiloader-c++ (version 2.99.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f17/guiloader-c++/examples/hello/po/ru.po/mnt/stockage/packages/f17/guiloader-c++/po/ru.po | 
+ | [ru](/f17/language/ru) | 39 | 39 | 100.0 | /mnt/stockage/packages/f17/guiloader-c++/examples/hello/po/ru.po/mnt/stockage/packages/f17/guiloader-c++/po/ru.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package glunarclock (version 0.32.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f10/language/br.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/br.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/fi.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/ga.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/ro.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/sk.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/sr.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/vi.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/wa.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 221 | 231 | 95.7 | /mnt/stockage/packages/f10/glunarclock/po/nl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 221 | 231 | 95.7 | /mnt/stockage/packages/f10/glunarclock/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 213 | 231 | 92.2 | /mnt/stockage/packages/f10/glunarclock/po/de.po | 
- | [ast]({{< ref "/f10/language/ast.md" >}}) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/ast_ES.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/es.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/hu.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/ms.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 127 | 231 | 55.0 | /mnt/stockage/packages/f10/glunarclock/po/ru.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 92 | 231 | 39.8 | /mnt/stockage/packages/f10/glunarclock/po/gl.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 88 | 231 | 38.1 | /mnt/stockage/packages/f10/glunarclock/po/da.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 71 | 231 | 30.7 | /mnt/stockage/packages/f10/glunarclock/po/az.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 71 | 231 | 30.7 | /mnt/stockage/packages/f10/glunarclock/po/ja.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 58 | 231 | 25.1 | /mnt/stockage/packages/f10/glunarclock/po/no.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 57 | 231 | 24.7 | /mnt/stockage/packages/f10/glunarclock/po/fr.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 9 | 231 | 3.9 | /mnt/stockage/packages/f10/glunarclock/po/rw.po | 
+ | [br](/f10/language/br) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/br.po | 
+ | [fi](/f10/language/fi) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/fi.po | 
+ | [ga](/f10/language/ga) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/ga.po | 
+ | [ro](/f10/language/ro) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/ro.po | 
+ | [sk](/f10/language/sk) | 231 | 231 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/sk.po | 
+ | [sr](/f10/language/sr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/sr.po | 
+ | [vi](/f10/language/vi) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/vi.po | 
+ | [wa](/f10/language/wa) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/glunarclock/po/wa.po | 
+ | [nl](/f10/language/nl) | 221 | 231 | 95.7 | /mnt/stockage/packages/f10/glunarclock/po/nl.po | 
+ | [sv](/f10/language/sv) | 221 | 231 | 95.7 | /mnt/stockage/packages/f10/glunarclock/po/sv.po | 
+ | [de](/f10/language/de) | 213 | 231 | 92.2 | /mnt/stockage/packages/f10/glunarclock/po/de.po | 
+ | [ast](/f10/language/ast) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/ast_ES.po | 
+ | [es](/f10/language/es) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/es.po | 
+ | [hu](/f10/language/hu) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/hu.po | 
+ | [ms](/f10/language/ms) | 138 | 231 | 59.7 | /mnt/stockage/packages/f10/glunarclock/po/ms.po | 
+ | [ru](/f10/language/ru) | 127 | 231 | 55.0 | /mnt/stockage/packages/f10/glunarclock/po/ru.po | 
+ | [gl](/f10/language/gl) | 92 | 231 | 39.8 | /mnt/stockage/packages/f10/glunarclock/po/gl.po | 
+ | [da](/f10/language/da) | 88 | 231 | 38.1 | /mnt/stockage/packages/f10/glunarclock/po/da.po | 
+ | [az](/f10/language/az) | 71 | 231 | 30.7 | /mnt/stockage/packages/f10/glunarclock/po/az.po | 
+ | [ja](/f10/language/ja) | 71 | 231 | 30.7 | /mnt/stockage/packages/f10/glunarclock/po/ja.po | 
+ | [nb_NO](/f10/language/nb_NO) | 58 | 231 | 25.1 | /mnt/stockage/packages/f10/glunarclock/po/no.po | 
+ | [fr](/f10/language/fr) | 57 | 231 | 24.7 | /mnt/stockage/packages/f10/glunarclock/po/fr.po | 
+ | [rw](/f10/language/rw) | 9 | 231 | 3.9 | /mnt/stockage/packages/f10/glunarclock/po/rw.po | 
 {.sortable}
 
 

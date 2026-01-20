@@ -18,26 +18,26 @@ The package ibus-table (version 1.17.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/fr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/pt_BR.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/uk.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/zh_TW.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 984 | 1116 | 88.2 | /mnt/stockage/packages/f40/ibus-table/po/ru.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 867 | 1116 | 77.7 | /mnt/stockage/packages/f40/ibus-table/po/zh_CN.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 859 | 1116 | 77.0 | /mnt/stockage/packages/f40/ibus-table/po/ca.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 715 | 1116 | 64.1 | /mnt/stockage/packages/f40/ibus-table/po/pt_PT.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 287 | 1116 | 25.7 | /mnt/stockage/packages/f40/ibus-table/po/ja.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 234 | 1116 | 21.0 | /mnt/stockage/packages/f40/ibus-table/po/ka.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 225 | 1116 | 20.2 | /mnt/stockage/packages/f40/ibus-table/po/cs.po | 
- | [kab]({{< ref "/f40/language/kab.md" >}}) | 130 | 1116 | 11.6 | /mnt/stockage/packages/f40/ibus-table/po/kab.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 50 | 1116 | 4.5 | /mnt/stockage/packages/f40/ibus-table/po/el.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 38 | 1116 | 3.4 | /mnt/stockage/packages/f40/ibus-table/po/zh_HK.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 22 | 1116 | 2.0 | /mnt/stockage/packages/f40/ibus-table/po/ro.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 19 | 1116 | 1.7 | /mnt/stockage/packages/f40/ibus-table/po/fa.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 18 | 1116 | 1.6 | /mnt/stockage/packages/f40/ibus-table/po/si.po | 
+ | [de](/f40/language/de) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/de.po | 
+ | [es](/f40/language/es) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/es.po | 
+ | [fr](/f40/language/fr) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/fr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/pt_BR.po | 
+ | [tr](/f40/language/tr) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/tr.po | 
+ | [uk](/f40/language/uk) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/uk.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1116 | 1116 | 100.0 | /mnt/stockage/packages/f40/ibus-table/po/zh_TW.po | 
+ | [ru](/f40/language/ru) | 984 | 1116 | 88.2 | /mnt/stockage/packages/f40/ibus-table/po/ru.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 867 | 1116 | 77.7 | /mnt/stockage/packages/f40/ibus-table/po/zh_CN.po | 
+ | [ca](/f40/language/ca) | 859 | 1116 | 77.0 | /mnt/stockage/packages/f40/ibus-table/po/ca.po | 
+ | [pt_PT](/f40/language/pt_PT) | 715 | 1116 | 64.1 | /mnt/stockage/packages/f40/ibus-table/po/pt_PT.po | 
+ | [ja](/f40/language/ja) | 287 | 1116 | 25.7 | /mnt/stockage/packages/f40/ibus-table/po/ja.po | 
+ | [ka](/f40/language/ka) | 234 | 1116 | 21.0 | /mnt/stockage/packages/f40/ibus-table/po/ka.po | 
+ | [cs](/f40/language/cs) | 225 | 1116 | 20.2 | /mnt/stockage/packages/f40/ibus-table/po/cs.po | 
+ | [kab](/f40/language/kab) | 130 | 1116 | 11.6 | /mnt/stockage/packages/f40/ibus-table/po/kab.po | 
+ | [el](/f40/language/el) | 50 | 1116 | 4.5 | /mnt/stockage/packages/f40/ibus-table/po/el.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 38 | 1116 | 3.4 | /mnt/stockage/packages/f40/ibus-table/po/zh_HK.po | 
+ | [ro](/f40/language/ro) | 22 | 1116 | 2.0 | /mnt/stockage/packages/f40/ibus-table/po/ro.po | 
+ | [fa](/f40/language/fa) | 19 | 1116 | 1.7 | /mnt/stockage/packages/f40/ibus-table/po/fa.po | 
+ | [si](/f40/language/si) | 18 | 1116 | 1.6 | /mnt/stockage/packages/f40/ibus-table/po/si.po | 
 {.sortable}
 
 

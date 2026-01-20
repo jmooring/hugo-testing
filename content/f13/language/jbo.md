@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtg]({{< ref "/f13/package/gtg.md" >}}) | 2 | 1788 | 0.1 | Lojban <jbo@li.org> | 
- | [xchat-gnome]({{< ref "/f13/package/xchat-gnome.md" >}}) | 0 | 3901 | 0.0 | Lojban <jbo@li.org> | 
+ | [gtg](/f13/package/gtg) | 2 | 1788 | 0.1 | Lojban <jbo@li.org> | 
+ | [xchat-gnome](/f13/package/xchat-gnome) | 0 | 3901 | 0.0 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

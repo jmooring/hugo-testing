@@ -18,7 +18,7 @@ The package yp-tools (version 2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f7/yp-tools/po/de.po | 
+ | [de](/f7/language/de) | 869 | 869 | 100.0 | /mnt/stockage/packages/f7/yp-tools/po/de.po | 
 {.sortable}
 
 

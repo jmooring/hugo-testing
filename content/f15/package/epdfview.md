@@ -18,27 +18,27 @@ The package epdfview (version 0.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/ar.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/ca.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/he_IL.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/hu.po | 
- | [pt_PT]({{< ref "/f15/language/pt_PT.md" >}}) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/pt_PT.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 479 | 484 | 99.0 | /mnt/stockage/packages/f15/epdfview/po/nl_NL.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 955 | 968 | 98.7 | /mnt/stockage/packages/f15/epdfview/po/pt_BR.po/mnt/stockage/packages/f15/epdfview/po/es.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 475 | 484 | 98.1 | /mnt/stockage/packages/f15/epdfview/po/ja.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 475 | 484 | 98.1 | /mnt/stockage/packages/f15/epdfview/po/ru.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 472 | 484 | 97.5 | /mnt/stockage/packages/f15/epdfview/po/it.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/el.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/zh_TW.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 462 | 484 | 95.5 | /mnt/stockage/packages/f15/epdfview/po/pl.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 457 | 484 | 94.4 | /mnt/stockage/packages/f15/epdfview/po/fr.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 457 | 484 | 94.4 | /mnt/stockage/packages/f15/epdfview/po/vi.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 434 | 484 | 89.7 | /mnt/stockage/packages/f15/epdfview/po/cs.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 350 | 484 | 72.3 | /mnt/stockage/packages/f15/epdfview/po/eu.po | 
+ | [ar](/f15/language/ar) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/ar.po | 
+ | [ca](/f15/language/ca) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/ca.po | 
+ | [gl](/f15/language/gl) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/gl.po | 
+ | [he](/f15/language/he) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/he_IL.po | 
+ | [hu](/f15/language/hu) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/hu.po | 
+ | [pt_PT](/f15/language/pt_PT) | 480 | 484 | 99.2 | /mnt/stockage/packages/f15/epdfview/po/pt_PT.po | 
+ | [nl](/f15/language/nl) | 479 | 484 | 99.0 | /mnt/stockage/packages/f15/epdfview/po/nl_NL.po | 
+ | [es](/f15/language/es) | 955 | 968 | 98.7 | /mnt/stockage/packages/f15/epdfview/po/pt_BR.po/mnt/stockage/packages/f15/epdfview/po/es.po | 
+ | [ja](/f15/language/ja) | 475 | 484 | 98.1 | /mnt/stockage/packages/f15/epdfview/po/ja.po | 
+ | [ru](/f15/language/ru) | 475 | 484 | 98.1 | /mnt/stockage/packages/f15/epdfview/po/ru.po | 
+ | [it](/f15/language/it) | 472 | 484 | 97.5 | /mnt/stockage/packages/f15/epdfview/po/it.po | 
+ | [de](/f15/language/de) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/de.po | 
+ | [el](/f15/language/el) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/el.po | 
+ | [sv](/f15/language/sv) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 463 | 484 | 95.7 | /mnt/stockage/packages/f15/epdfview/po/zh_TW.po | 
+ | [pl](/f15/language/pl) | 462 | 484 | 95.5 | /mnt/stockage/packages/f15/epdfview/po/pl.po | 
+ | [fr](/f15/language/fr) | 457 | 484 | 94.4 | /mnt/stockage/packages/f15/epdfview/po/fr.po | 
+ | [vi](/f15/language/vi) | 457 | 484 | 94.4 | /mnt/stockage/packages/f15/epdfview/po/vi.po | 
+ | [cs](/f15/language/cs) | 434 | 484 | 89.7 | /mnt/stockage/packages/f15/epdfview/po/cs.po | 
+ | [eu](/f15/language/eu) | 350 | 484 | 72.3 | /mnt/stockage/packages/f15/epdfview/po/eu.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package cockpit-podman (version 29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/pl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/uk.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 448 | 477 | 93.9 | /mnt/stockage/packages/f32/cockpit-podman/po/cs.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 448 | 477 | 93.9 | /mnt/stockage/packages/f32/cockpit-podman/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 348 | 477 | 73.0 | /mnt/stockage/packages/f32/cockpit-podman/po/zh_CN.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 345 | 477 | 72.3 | /mnt/stockage/packages/f32/cockpit-podman/po/sk.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 332 | 477 | 69.6 | /mnt/stockage/packages/f32/cockpit-podman/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 238 | 477 | 49.9 | /mnt/stockage/packages/f32/cockpit-podman/po/es.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 214 | 477 | 44.9 | /mnt/stockage/packages/f32/cockpit-podman/po/pt_BR.po | 
+ | [fr](/f32/language/fr) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/fr.po | 
+ | [pl](/f32/language/pl) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/pl.po | 
+ | [sv](/f32/language/sv) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/sv.po | 
+ | [tr](/f32/language/tr) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/tr.po | 
+ | [uk](/f32/language/uk) | 477 | 477 | 100.0 | /mnt/stockage/packages/f32/cockpit-podman/po/uk.po | 
+ | [cs](/f32/language/cs) | 448 | 477 | 93.9 | /mnt/stockage/packages/f32/cockpit-podman/po/cs.po | 
+ | [pt_PT](/f32/language/pt_PT) | 448 | 477 | 93.9 | /mnt/stockage/packages/f32/cockpit-podman/po/pt_PT.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 348 | 477 | 73.0 | /mnt/stockage/packages/f32/cockpit-podman/po/zh_CN.po | 
+ | [sk](/f32/language/sk) | 345 | 477 | 72.3 | /mnt/stockage/packages/f32/cockpit-podman/po/sk.po | 
+ | [de](/f32/language/de) | 332 | 477 | 69.6 | /mnt/stockage/packages/f32/cockpit-podman/po/de.po | 
+ | [es](/f32/language/es) | 238 | 477 | 49.9 | /mnt/stockage/packages/f32/cockpit-podman/po/es.po | 
+ | [pt_BR](/f32/language/pt_BR) | 214 | 477 | 44.9 | /mnt/stockage/packages/f32/cockpit-podman/po/pt_BR.po | 
 {.sortable}
 
 

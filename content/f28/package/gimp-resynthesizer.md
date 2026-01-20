@@ -18,8 +18,8 @@ The package gimp-resynthesizer (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 336 | 411 | 81.8 | /mnt/stockage/packages/f28/gimp-resynthesizer/po/ru.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 25 | 280 | 8.9 | /mnt/stockage/packages/f28/gimp-resynthesizer/po/es.po | 
+ | [ru](/f28/language/ru) | 336 | 411 | 81.8 | /mnt/stockage/packages/f28/gimp-resynthesizer/po/ru.po | 
+ | [es](/f28/language/es) | 25 | 280 | 8.9 | /mnt/stockage/packages/f28/gimp-resynthesizer/po/es.po | 
 {.sortable}
 
 

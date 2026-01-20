@@ -18,24 +18,24 @@ The package soundconverter (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f9/soundconverter/po/fr.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 422 | 435 | 97.0 | /mnt/stockage/packages/f9/soundconverter/po/sr@Latn.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 422 | 435 | 97.0 | /mnt/stockage/packages/f9/soundconverter/po/nl.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/es.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/he.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/it.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/ru.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 383 | 435 | 88.0 | /mnt/stockage/packages/f9/soundconverter/po/sv_SE.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 363 | 435 | 83.4 | /mnt/stockage/packages/f9/soundconverter/po/hu.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 169 | 435 | 38.9 | /mnt/stockage/packages/f9/soundconverter/po/sk.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 64 | 435 | 14.7 | /mnt/stockage/packages/f9/soundconverter/po/ar.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 53 | 435 | 12.2 | /mnt/stockage/packages/f9/soundconverter/po/zh_CN.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 3 | 435 | 0.7 | /mnt/stockage/packages/f9/soundconverter/po/eu.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 0 | 435 | 0.0 | /mnt/stockage/packages/f9/soundconverter/po/sr.po | 
+ | [fr](/f9/language/fr) | 435 | 435 | 100.0 | /mnt/stockage/packages/f9/soundconverter/po/fr.po | 
+ | [error](/f9/language/error) | 422 | 435 | 97.0 | /mnt/stockage/packages/f9/soundconverter/po/sr@Latn.po | 
+ | [nl](/f9/language/nl) | 422 | 435 | 97.0 | /mnt/stockage/packages/f9/soundconverter/po/nl.po | 
+ | [cs](/f9/language/cs) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/cs.po | 
+ | [de](/f9/language/de) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/de.po | 
+ | [es](/f9/language/es) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/es.po | 
+ | [he](/f9/language/he) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/he.po | 
+ | [it](/f9/language/it) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/it.po | 
+ | [pl](/f9/language/pl) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 420 | 435 | 96.6 | /mnt/stockage/packages/f9/soundconverter/po/ru.po | 
+ | [sv](/f9/language/sv) | 383 | 435 | 88.0 | /mnt/stockage/packages/f9/soundconverter/po/sv_SE.po | 
+ | [hu](/f9/language/hu) | 363 | 435 | 83.4 | /mnt/stockage/packages/f9/soundconverter/po/hu.po | 
+ | [sk](/f9/language/sk) | 169 | 435 | 38.9 | /mnt/stockage/packages/f9/soundconverter/po/sk.po | 
+ | [ar](/f9/language/ar) | 64 | 435 | 14.7 | /mnt/stockage/packages/f9/soundconverter/po/ar.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 53 | 435 | 12.2 | /mnt/stockage/packages/f9/soundconverter/po/zh_CN.po | 
+ | [eu](/f9/language/eu) | 3 | 435 | 0.7 | /mnt/stockage/packages/f9/soundconverter/po/eu.po | 
+ | [sr](/f9/language/sr) | 0 | 435 | 0.0 | /mnt/stockage/packages/f9/soundconverter/po/sr.po | 
 {.sortable}
 
 

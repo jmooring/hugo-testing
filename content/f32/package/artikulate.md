@@ -18,42 +18,42 @@ The package artikulate (version 19.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/ca/artikulate.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/ca@valencia/artikulate.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/en_GB/artikulate.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/es/artikulate.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/fr/artikulate.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/nl/artikulate.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/pl/artikulate.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/pt/artikulate.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/pt_BR/artikulate.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/sv/artikulate.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/uk/artikulate.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 352 | 363 | 97.0 | /mnt/stockage/packages/f32/artikulate/po/gl/artikulate.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 304 | 363 | 83.7 | /mnt/stockage/packages/f32/artikulate/po/nn/artikulate.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 304 | 363 | 83.7 | /mnt/stockage/packages/f32/artikulate/po/zh_CN/artikulate.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 296 | 363 | 81.5 | /mnt/stockage/packages/f32/artikulate/po/sk/artikulate.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 294 | 363 | 81.0 | /mnt/stockage/packages/f32/artikulate/po/de/artikulate.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 284 | 363 | 78.2 | /mnt/stockage/packages/f32/artikulate/po/it/artikulate.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 269 | 363 | 74.1 | /mnt/stockage/packages/f32/artikulate/po/zh_TW/artikulate.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 242 | 363 | 66.7 | /mnt/stockage/packages/f32/artikulate/po/cs/artikulate.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 236 | 363 | 65.0 | /mnt/stockage/packages/f32/artikulate/po/fi/artikulate.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/el/artikulate.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/et/artikulate.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/sl/artikulate.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/tr/artikulate.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 177 | 363 | 48.8 | /mnt/stockage/packages/f32/artikulate/po/da/artikulate.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 166 | 363 | 45.7 | /mnt/stockage/packages/f32/artikulate/po/bs/artikulate.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 166 | 363 | 45.7 | /mnt/stockage/packages/f32/artikulate/po/eo/artikulate.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 166 | 363 | 45.7 | /mnt/stockage/packages/f32/artikulate/po/nds/artikulate.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 108 | 363 | 29.8 | /mnt/stockage/packages/f32/artikulate/po/ru/artikulate.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 100 | 363 | 27.5 | /mnt/stockage/packages/f32/artikulate/po/hu/artikulate.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 92 | 363 | 25.3 | /mnt/stockage/packages/f32/artikulate/po/ro/artikulate.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 72 | 363 | 19.8 | /mnt/stockage/packages/f32/artikulate/po/ml/artikulate.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 35 | 363 | 9.6 | /mnt/stockage/packages/f32/artikulate/po/ug/artikulate.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 12 | 363 | 3.3 | /mnt/stockage/packages/f32/artikulate/po/mr/artikulate.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 363 | 0.0 | /mnt/stockage/packages/f32/artikulate/po/ja/artikulate.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 0 | 363 | 0.0 | /mnt/stockage/packages/f32/artikulate/po/lt/artikulate.po | 
+ | [ca](/f32/language/ca) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/ca/artikulate.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/ca@valencia/artikulate.po | 
+ | [en_GB](/f32/language/en_GB) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/en_GB/artikulate.po | 
+ | [es](/f32/language/es) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/es/artikulate.po | 
+ | [fr](/f32/language/fr) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/fr/artikulate.po | 
+ | [nl](/f32/language/nl) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/nl/artikulate.po | 
+ | [pl](/f32/language/pl) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/pl/artikulate.po | 
+ | [pt](/f32/language/pt) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/pt/artikulate.po | 
+ | [pt_BR](/f32/language/pt_BR) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/pt_BR/artikulate.po | 
+ | [sv](/f32/language/sv) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/sv/artikulate.po | 
+ | [uk](/f32/language/uk) | 363 | 363 | 100.0 | /mnt/stockage/packages/f32/artikulate/po/uk/artikulate.po | 
+ | [gl](/f32/language/gl) | 352 | 363 | 97.0 | /mnt/stockage/packages/f32/artikulate/po/gl/artikulate.po | 
+ | [nn](/f32/language/nn) | 304 | 363 | 83.7 | /mnt/stockage/packages/f32/artikulate/po/nn/artikulate.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 304 | 363 | 83.7 | /mnt/stockage/packages/f32/artikulate/po/zh_CN/artikulate.po | 
+ | [sk](/f32/language/sk) | 296 | 363 | 81.5 | /mnt/stockage/packages/f32/artikulate/po/sk/artikulate.po | 
+ | [de](/f32/language/de) | 294 | 363 | 81.0 | /mnt/stockage/packages/f32/artikulate/po/de/artikulate.po | 
+ | [it](/f32/language/it) | 284 | 363 | 78.2 | /mnt/stockage/packages/f32/artikulate/po/it/artikulate.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 269 | 363 | 74.1 | /mnt/stockage/packages/f32/artikulate/po/zh_TW/artikulate.po | 
+ | [cs](/f32/language/cs) | 242 | 363 | 66.7 | /mnt/stockage/packages/f32/artikulate/po/cs/artikulate.po | 
+ | [fi](/f32/language/fi) | 236 | 363 | 65.0 | /mnt/stockage/packages/f32/artikulate/po/fi/artikulate.po | 
+ | [el](/f32/language/el) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/el/artikulate.po | 
+ | [et](/f32/language/et) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/et/artikulate.po | 
+ | [sl](/f32/language/sl) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/sl/artikulate.po | 
+ | [tr](/f32/language/tr) | 234 | 363 | 64.5 | /mnt/stockage/packages/f32/artikulate/po/tr/artikulate.po | 
+ | [da](/f32/language/da) | 177 | 363 | 48.8 | /mnt/stockage/packages/f32/artikulate/po/da/artikulate.po | 
+ | [bs](/f32/language/bs) | 166 | 363 | 45.7 | /mnt/stockage/packages/f32/artikulate/po/bs/artikulate.po | 
+ | [eo](/f32/language/eo) | 166 | 363 | 45.7 | /mnt/stockage/packages/f32/artikulate/po/eo/artikulate.po | 
+ | [nds](/f32/language/nds) | 166 | 363 | 45.7 | /mnt/stockage/packages/f32/artikulate/po/nds/artikulate.po | 
+ | [ru](/f32/language/ru) | 108 | 363 | 29.8 | /mnt/stockage/packages/f32/artikulate/po/ru/artikulate.po | 
+ | [hu](/f32/language/hu) | 100 | 363 | 27.5 | /mnt/stockage/packages/f32/artikulate/po/hu/artikulate.po | 
+ | [ro](/f32/language/ro) | 92 | 363 | 25.3 | /mnt/stockage/packages/f32/artikulate/po/ro/artikulate.po | 
+ | [ml](/f32/language/ml) | 72 | 363 | 19.8 | /mnt/stockage/packages/f32/artikulate/po/ml/artikulate.po | 
+ | [ug](/f32/language/ug) | 35 | 363 | 9.6 | /mnt/stockage/packages/f32/artikulate/po/ug/artikulate.po | 
+ | [mr](/f32/language/mr) | 12 | 363 | 3.3 | /mnt/stockage/packages/f32/artikulate/po/mr/artikulate.po | 
+ | [ja](/f32/language/ja) | 0 | 363 | 0.0 | /mnt/stockage/packages/f32/artikulate/po/ja/artikulate.po | 
+ | [lt](/f32/language/lt) | 0 | 363 | 0.0 | /mnt/stockage/packages/f32/artikulate/po/lt/artikulate.po | 
 {.sortable}
 
 

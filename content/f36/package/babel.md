@@ -18,9 +18,9 @@ The package babel (version 2.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f36/language/error.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/fi_BUGGY/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 9 | 12 | 75.0 | /mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/bar.po/mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/foo.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
+ | [error](/f36/language/error) | 2 | 2 | 100.0 | /mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/fi_BUGGY/LC_MESSAGES/messages.po | 
+ | [de](/f36/language/de) | 9 | 12 | 75.0 | /mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/bar.po/mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/foo.po | 
+ | [ru](/f36/language/ru) | 0 | 3 | 0.0 | /mnt/stockage/packages/f36/babel/tests/messages/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

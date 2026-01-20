@@ -18,11 +18,11 @@ The package kbibtex (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 2376 | 2376 | 100.0 | /mnt/stockage/packages/f13/kbibtex/po/de.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 2250 | 2376 | 94.7 | /mnt/stockage/packages/f13/kbibtex/po/it.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 2244 | 2376 | 94.4 | /mnt/stockage/packages/f13/kbibtex/po/fr.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 2190 | 2376 | 92.2 | /mnt/stockage/packages/f13/kbibtex/po/pl.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1760 | 2376 | 74.1 | /mnt/stockage/packages/f13/kbibtex/po/ru.po | 
+ | [de](/f13/language/de) | 2376 | 2376 | 100.0 | /mnt/stockage/packages/f13/kbibtex/po/de.po | 
+ | [it](/f13/language/it) | 2250 | 2376 | 94.7 | /mnt/stockage/packages/f13/kbibtex/po/it.po | 
+ | [fr](/f13/language/fr) | 2244 | 2376 | 94.4 | /mnt/stockage/packages/f13/kbibtex/po/fr.po | 
+ | [pl](/f13/language/pl) | 2190 | 2376 | 92.2 | /mnt/stockage/packages/f13/kbibtex/po/pl.po | 
+ | [ru](/f13/language/ru) | 1760 | 2376 | 74.1 | /mnt/stockage/packages/f13/kbibtex/po/ru.po | 
 {.sortable}
 
 

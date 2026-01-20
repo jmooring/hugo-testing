@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 359 | 1515 | 23.7 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 31 | 247 | 12.6 | Sundanese <su@li.org> | 
- | [terminator]({{< ref "/f22/package/terminator.md" >}}) | 46 | 1311 | 3.5 | Sundanese <su@li.org> | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 35 | 15825 | 0.2 | Sundanese <su@li.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [tuxpaint](/f22/package/tuxpaint) | 359 | 1515 | 23.7 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 31 | 247 | 12.6 | Sundanese <su@li.org> | 
+ | [terminator](/f22/package/terminator) | 46 | 1311 | 3.5 | Sundanese <su@li.org> | 
+ | [stellarium](/f22/package/stellarium) | 35 | 15825 | 0.2 | Sundanese <su@li.org> | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

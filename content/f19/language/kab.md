@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f19/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp7]({{< ref "/f19/package/openerp7.md" >}}) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
+ | [openerp](/f19/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp7](/f19/package/openerp7) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

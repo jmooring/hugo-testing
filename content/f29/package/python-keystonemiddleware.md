@@ -18,9 +18,9 @@ The package python-keystonemiddleware (version 4.21.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 1196 | 1196 | 100.0 | /mnt/stockage/packages/f29/python-keystonemiddleware/keystonemiddleware/locale/en_GB/LC_MESSAGES/keystonemiddleware.po/mnt/stockage/packages/f29/python-keystonemiddleware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f29/python-keystonemiddleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f29/python-keystonemiddleware/keystonemiddleware/locale/ko_KR/LC_MESSAGES/keystonemiddleware.po/mnt/stockage/packages/f29/python-keystonemiddleware/releasenotes/source/locale/ko_KR/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f29/language/en_GB) | 1196 | 1196 | 100.0 | /mnt/stockage/packages/f29/python-keystonemiddleware/keystonemiddleware/locale/en_GB/LC_MESSAGES/keystonemiddleware.po/mnt/stockage/packages/f29/python-keystonemiddleware/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f29/language/fr) | 28 | 28 | 100.0 | /mnt/stockage/packages/f29/python-keystonemiddleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [ko](/f29/language/ko) | 126 | 126 | 100.0 | /mnt/stockage/packages/f29/python-keystonemiddleware/keystonemiddleware/locale/ko_KR/LC_MESSAGES/keystonemiddleware.po/mnt/stockage/packages/f29/python-keystonemiddleware/releasenotes/source/locale/ko_KR/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

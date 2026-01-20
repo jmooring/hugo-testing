@@ -18,7 +18,7 @@ The package ibus-fep (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f38/ibus-fep/po/ja.po | 
+ | [ja](/f38/language/ja) | 19 | 19 | 100.0 | /mnt/stockage/packages/f38/ibus-fep/po/ja.po | 
 {.sortable}
 
 

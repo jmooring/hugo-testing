@@ -18,7 +18,7 @@ The package fapolicy-analyzer (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 169 | 1842 | 9.2 | /mnt/stockage/packages/f42/fapolicy-analyzer/help/es/es.po/mnt/stockage/packages/f42/fapolicy-analyzer/locale/es/LC_MESSAGES/fapolicy-analyzer.po | 
+ | [es](/f42/language/es) | 169 | 1842 | 9.2 | /mnt/stockage/packages/f42/fapolicy-analyzer/help/es/es.po/mnt/stockage/packages/f42/fapolicy-analyzer/locale/es/LC_MESSAGES/fapolicy-analyzer.po | 
 {.sortable}
 
 

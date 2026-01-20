@@ -18,22 +18,22 @@ The package poker-engine (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f12/language/da.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/de.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/en.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/en_CA.po | 
- | [en_US]({{< ref "/f12/language/en_US.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/en_US.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr_FX.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr.po | 
- | [fr_BE]({{< ref "/f12/language/fr_BE.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr_BE.po | 
- | [fr_CA]({{< ref "/f12/language/fr_CA.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr_CA.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/it.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/pt.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 164 | 187 | 87.7 | /mnt/stockage/packages/f12/poker-engine/po/sv.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 163 | 187 | 87.2 | /mnt/stockage/packages/f12/poker-engine/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 147 | 187 | 78.6 | /mnt/stockage/packages/f12/poker-engine/po/nl.po | 
+ | [da](/f12/language/da) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/da.po | 
+ | [de](/f12/language/de) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/de.po | 
+ | [en](/f12/language/en) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/en.po | 
+ | [en_CA](/f12/language/en_CA) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/en_CA.po | 
+ | [en_US](/f12/language/en_US) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/en_US.po | 
+ | [error](/f12/language/error) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr_FX.po | 
+ | [es](/f12/language/es) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/es.po | 
+ | [fi](/f12/language/fi) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fi.po | 
+ | [fr](/f12/language/fr) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr.po | 
+ | [fr_BE](/f12/language/fr_BE) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr_BE.po | 
+ | [fr_CA](/f12/language/fr_CA) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/fr_CA.po | 
+ | [it](/f12/language/it) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/it.po | 
+ | [pt](/f12/language/pt) | 166 | 187 | 88.8 | /mnt/stockage/packages/f12/poker-engine/po/pt.po | 
+ | [sv](/f12/language/sv) | 164 | 187 | 87.7 | /mnt/stockage/packages/f12/poker-engine/po/sv.po | 
+ | [nb_NO](/f12/language/nb_NO) | 163 | 187 | 87.2 | /mnt/stockage/packages/f12/poker-engine/po/nb.po | 
+ | [nl](/f12/language/nl) | 147 | 187 | 78.6 | /mnt/stockage/packages/f12/poker-engine/po/nl.po | 
 {.sortable}
 
 

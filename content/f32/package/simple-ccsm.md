@@ -18,33 +18,33 @@ The package simple-ccsm (version 0.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f32/simple-ccsm/po/ca.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f32/simple-ccsm/po/en_GB.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/el.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/fi.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/ja.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/pt.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/ru.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/zh_CN.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 150 | 162 | 92.6 | /mnt/stockage/packages/f32/simple-ccsm/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 150 | 162 | 92.6 | /mnt/stockage/packages/f32/simple-ccsm/po/pl.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 145 | 162 | 89.5 | /mnt/stockage/packages/f32/simple-ccsm/po/bg.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 141 | 162 | 87.0 | /mnt/stockage/packages/f32/simple-ccsm/po/sk.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/eu.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/nl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/pt_BR.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/sv.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/zh_TW.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 59 | 162 | 36.4 | /mnt/stockage/packages/f32/simple-ccsm/po/ko.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 59 | 162 | 36.4 | /mnt/stockage/packages/f32/simple-ccsm/po/nb.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 42 | 162 | 25.9 | /mnt/stockage/packages/f32/simple-ccsm/po/cs.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 11 | 162 | 6.8 | /mnt/stockage/packages/f32/simple-ccsm/po/tr.po | 
+ | [ca](/f32/language/ca) | 162 | 162 | 100.0 | /mnt/stockage/packages/f32/simple-ccsm/po/ca.po | 
+ | [en_GB](/f32/language/en_GB) | 162 | 162 | 100.0 | /mnt/stockage/packages/f32/simple-ccsm/po/en_GB.po | 
+ | [da](/f32/language/da) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/da.po | 
+ | [de](/f32/language/de) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/de.po | 
+ | [el](/f32/language/el) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/el.po | 
+ | [es](/f32/language/es) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/es.po | 
+ | [fi](/f32/language/fi) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/fi.po | 
+ | [gl](/f32/language/gl) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/gl.po | 
+ | [hu](/f32/language/hu) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/hu.po | 
+ | [it](/f32/language/it) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/it.po | 
+ | [ja](/f32/language/ja) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/ja.po | 
+ | [pt](/f32/language/pt) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/pt.po | 
+ | [ru](/f32/language/ru) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/ru.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 151 | 162 | 93.2 | /mnt/stockage/packages/f32/simple-ccsm/po/zh_CN.po | 
+ | [fr](/f32/language/fr) | 150 | 162 | 92.6 | /mnt/stockage/packages/f32/simple-ccsm/po/fr.po | 
+ | [pl](/f32/language/pl) | 150 | 162 | 92.6 | /mnt/stockage/packages/f32/simple-ccsm/po/pl.po | 
+ | [bg](/f32/language/bg) | 145 | 162 | 89.5 | /mnt/stockage/packages/f32/simple-ccsm/po/bg.po | 
+ | [sk](/f32/language/sk) | 141 | 162 | 87.0 | /mnt/stockage/packages/f32/simple-ccsm/po/sk.po | 
+ | [eu](/f32/language/eu) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/eu.po | 
+ | [nl](/f32/language/nl) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/nl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/pt_BR.po | 
+ | [sv](/f32/language/sv) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/sv.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 60 | 162 | 37.0 | /mnt/stockage/packages/f32/simple-ccsm/po/zh_TW.po | 
+ | [ko](/f32/language/ko) | 59 | 162 | 36.4 | /mnt/stockage/packages/f32/simple-ccsm/po/ko.po | 
+ | [nb_NO](/f32/language/nb_NO) | 59 | 162 | 36.4 | /mnt/stockage/packages/f32/simple-ccsm/po/nb.po | 
+ | [cs](/f32/language/cs) | 42 | 162 | 25.9 | /mnt/stockage/packages/f32/simple-ccsm/po/cs.po | 
+ | [tr](/f32/language/tr) | 11 | 162 | 6.8 | /mnt/stockage/packages/f32/simple-ccsm/po/tr.po | 
 {.sortable}
 
 

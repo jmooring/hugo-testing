@@ -18,40 +18,40 @@ The package zanshin (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/ca/zanshin.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/ca@valencia/zanshin.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/da/zanshin.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/en_GB/zanshin.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/es/zanshin.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/nl/zanshin.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/pl/zanshin.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/pt/zanshin.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/sv/zanshin.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/tr/zanshin.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/uk/zanshin.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 882 | 893 | 98.8 | /mnt/stockage/packages/f27/zanshin/po/gl/zanshin.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 805 | 893 | 90.1 | /mnt/stockage/packages/f27/zanshin/po/de/zanshin.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 606 | 893 | 67.9 | /mnt/stockage/packages/f27/zanshin/po/cs/zanshin.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 342 | 893 | 38.3 | /mnt/stockage/packages/f27/zanshin/po/zh_CN/zanshin.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 286 | 893 | 32.0 | /mnt/stockage/packages/f27/zanshin/po/fr/zanshin.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 217 | 893 | 24.3 | /mnt/stockage/packages/f27/zanshin/po/fi/zanshin.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/bs/zanshin.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/hu/zanshin.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/it/zanshin.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/sk/zanshin.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 159 | 893 | 17.8 | /mnt/stockage/packages/f27/zanshin/po/nb/zanshin.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 84 | 893 | 9.4 | /mnt/stockage/packages/f27/zanshin/po/ast/zanshin.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 21 | 893 | 2.4 | /mnt/stockage/packages/f27/zanshin/po/et/zanshin.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 21 | 893 | 2.4 | /mnt/stockage/packages/f27/zanshin/po/nds/zanshin.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 21 | 893 | 2.4 | /mnt/stockage/packages/f27/zanshin/po/ru/zanshin.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 19 | 893 | 2.1 | /mnt/stockage/packages/f27/zanshin/po/sl/zanshin.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 17 | 893 | 1.9 | /mnt/stockage/packages/f27/zanshin/po/ga/zanshin.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 17 | 893 | 1.9 | /mnt/stockage/packages/f27/zanshin/po/ug/zanshin.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 13 | 893 | 1.5 | /mnt/stockage/packages/f27/zanshin/po/mr/zanshin.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/ja/zanshin.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/lt/zanshin.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/pt_BR/zanshin.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/zh_TW/zanshin.po | 
+ | [ca](/f27/language/ca) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/ca/zanshin.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/ca@valencia/zanshin.po | 
+ | [da](/f27/language/da) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/da/zanshin.po | 
+ | [en_GB](/f27/language/en_GB) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/en_GB/zanshin.po | 
+ | [es](/f27/language/es) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/es/zanshin.po | 
+ | [nl](/f27/language/nl) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/nl/zanshin.po | 
+ | [pl](/f27/language/pl) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/pl/zanshin.po | 
+ | [pt](/f27/language/pt) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/pt/zanshin.po | 
+ | [sv](/f27/language/sv) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/sv/zanshin.po | 
+ | [tr](/f27/language/tr) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/tr/zanshin.po | 
+ | [uk](/f27/language/uk) | 893 | 893 | 100.0 | /mnt/stockage/packages/f27/zanshin/po/uk/zanshin.po | 
+ | [gl](/f27/language/gl) | 882 | 893 | 98.8 | /mnt/stockage/packages/f27/zanshin/po/gl/zanshin.po | 
+ | [de](/f27/language/de) | 805 | 893 | 90.1 | /mnt/stockage/packages/f27/zanshin/po/de/zanshin.po | 
+ | [cs](/f27/language/cs) | 606 | 893 | 67.9 | /mnt/stockage/packages/f27/zanshin/po/cs/zanshin.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 342 | 893 | 38.3 | /mnt/stockage/packages/f27/zanshin/po/zh_CN/zanshin.po | 
+ | [fr](/f27/language/fr) | 286 | 893 | 32.0 | /mnt/stockage/packages/f27/zanshin/po/fr/zanshin.po | 
+ | [fi](/f27/language/fi) | 217 | 893 | 24.3 | /mnt/stockage/packages/f27/zanshin/po/fi/zanshin.po | 
+ | [bs](/f27/language/bs) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/bs/zanshin.po | 
+ | [hu](/f27/language/hu) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/hu/zanshin.po | 
+ | [it](/f27/language/it) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/it/zanshin.po | 
+ | [sk](/f27/language/sk) | 184 | 893 | 20.6 | /mnt/stockage/packages/f27/zanshin/po/sk/zanshin.po | 
+ | [nb_NO](/f27/language/nb_NO) | 159 | 893 | 17.8 | /mnt/stockage/packages/f27/zanshin/po/nb/zanshin.po | 
+ | [ast](/f27/language/ast) | 84 | 893 | 9.4 | /mnt/stockage/packages/f27/zanshin/po/ast/zanshin.po | 
+ | [et](/f27/language/et) | 21 | 893 | 2.4 | /mnt/stockage/packages/f27/zanshin/po/et/zanshin.po | 
+ | [nds](/f27/language/nds) | 21 | 893 | 2.4 | /mnt/stockage/packages/f27/zanshin/po/nds/zanshin.po | 
+ | [ru](/f27/language/ru) | 21 | 893 | 2.4 | /mnt/stockage/packages/f27/zanshin/po/ru/zanshin.po | 
+ | [sl](/f27/language/sl) | 19 | 893 | 2.1 | /mnt/stockage/packages/f27/zanshin/po/sl/zanshin.po | 
+ | [ga](/f27/language/ga) | 17 | 893 | 1.9 | /mnt/stockage/packages/f27/zanshin/po/ga/zanshin.po | 
+ | [ug](/f27/language/ug) | 17 | 893 | 1.9 | /mnt/stockage/packages/f27/zanshin/po/ug/zanshin.po | 
+ | [mr](/f27/language/mr) | 13 | 893 | 1.5 | /mnt/stockage/packages/f27/zanshin/po/mr/zanshin.po | 
+ | [ja](/f27/language/ja) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/ja/zanshin.po | 
+ | [lt](/f27/language/lt) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/lt/zanshin.po | 
+ | [pt_BR](/f27/language/pt_BR) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/pt_BR/zanshin.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 0 | 893 | 0.0 | /mnt/stockage/packages/f27/zanshin/po/zh_TW/zanshin.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package duplicity (version 0.6.05):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 53 | 1233 | 4.3 | /mnt/stockage/packages/f10/duplicity/po/en_GB/en_GB.po | 
- | [io]({{< ref "/f10/language/io.md" >}}) | 42 | 1233 | 3.4 | /mnt/stockage/packages/f10/duplicity/po/io/io.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 12 | 1233 | 1.0 | /mnt/stockage/packages/f10/duplicity/po/eo/eo.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 0 | 1233 | 0.0 | /mnt/stockage/packages/f10/duplicity/po/zh_CN/zh_CN.po | 
+ | [en_GB](/f10/language/en_GB) | 53 | 1233 | 4.3 | /mnt/stockage/packages/f10/duplicity/po/en_GB/en_GB.po | 
+ | [io](/f10/language/io) | 42 | 1233 | 3.4 | /mnt/stockage/packages/f10/duplicity/po/io/io.po | 
+ | [eo](/f10/language/eo) | 12 | 1233 | 1.0 | /mnt/stockage/packages/f10/duplicity/po/eo/eo.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 0 | 1233 | 0.0 | /mnt/stockage/packages/f10/duplicity/po/zh_CN/zh_CN.po | 
 {.sortable}
 
 

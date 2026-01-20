@@ -18,13 +18,13 @@ The package smart (version 0.50):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 4218 | 4218 | 100.0 | /mnt/stockage/packages/f7/smart/locale/es_ES/LC_MESSAGES/smart.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 4218 | 4218 | 100.0 | /mnt/stockage/packages/f7/smart/locale/fr/LC_MESSAGES/smart.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 4218 | 4218 | 100.0 | /mnt/stockage/packages/f7/smart/locale/pt_BR/LC_MESSAGES/smart.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 4163 | 4163 | 100.0 | /mnt/stockage/packages/f7/smart/locale/sv/LC_MESSAGES/smart.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3986 | 4218 | 94.5 | /mnt/stockage/packages/f7/smart/locale/de/LC_MESSAGES/smart.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 3187 | 4218 | 75.6 | /mnt/stockage/packages/f7/smart/locale/zh_CN/LC_MESSAGES/smart.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 966 | 4218 | 22.9 | /mnt/stockage/packages/f7/smart/locale/it/LC_MESSAGES/smart.po | 
+ | [es](/f7/language/es) | 4218 | 4218 | 100.0 | /mnt/stockage/packages/f7/smart/locale/es_ES/LC_MESSAGES/smart.po | 
+ | [fr](/f7/language/fr) | 4218 | 4218 | 100.0 | /mnt/stockage/packages/f7/smart/locale/fr/LC_MESSAGES/smart.po | 
+ | [pt_BR](/f7/language/pt_BR) | 4218 | 4218 | 100.0 | /mnt/stockage/packages/f7/smart/locale/pt_BR/LC_MESSAGES/smart.po | 
+ | [sv](/f7/language/sv) | 4163 | 4163 | 100.0 | /mnt/stockage/packages/f7/smart/locale/sv/LC_MESSAGES/smart.po | 
+ | [de](/f7/language/de) | 3986 | 4218 | 94.5 | /mnt/stockage/packages/f7/smart/locale/de/LC_MESSAGES/smart.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 3187 | 4218 | 75.6 | /mnt/stockage/packages/f7/smart/locale/zh_CN/LC_MESSAGES/smart.po | 
+ | [it](/f7/language/it) | 966 | 4218 | 22.9 | /mnt/stockage/packages/f7/smart/locale/it/LC_MESSAGES/smart.po | 
 {.sortable}
 
 

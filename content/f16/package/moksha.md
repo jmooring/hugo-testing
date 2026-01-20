@@ -18,7 +18,7 @@ The package moksha (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f16/moksha/moksha/i18n/ru/LC_MESSAGES/moksha.po/mnt/stockage/packages/f16/moksha/moksha/tests/quickstarts/tg2app/tg2app/i18n/ru/LC_MESSAGES/tg2app.po | 
+ | [ru](/f16/language/ru) | 10 | 10 | 100.0 | /mnt/stockage/packages/f16/moksha/moksha/i18n/ru/LC_MESSAGES/moksha.po/mnt/stockage/packages/f16/moksha/moksha/tests/quickstarts/tg2app/tg2app/i18n/ru/LC_MESSAGES/tg2app.po | 
 {.sortable}
 
 

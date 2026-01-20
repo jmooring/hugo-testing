@@ -18,10 +18,10 @@ The package bluez-gnome (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/fi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/hu.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/pt-br.po | 
+ | [fi](/f7/language/fi) | 182 | 182 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/fi.po | 
+ | [hu](/f7/language/hu) | 205 | 205 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/hu.po | 
+ | [pl](/f7/language/pl) | 251 | 251 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 182 | 182 | 100.0 | /mnt/stockage/packages/f7/bluez-gnome/po/pt-br.po | 
 {.sortable}
 
 

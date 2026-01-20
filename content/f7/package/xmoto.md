@@ -18,23 +18,23 @@ The package xmoto (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f7/language/da.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/da_DK.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/de_DE.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/fi_FI.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/fr_FR.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/lv_LV.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/pl_PL.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/ru_RU.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2645 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/it_IT.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2645 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/pt_BR.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2645 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/sv_SE.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 2621 | 2646 | 99.1 | /mnt/stockage/packages/f7/xmoto/po/sk_SK.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 1962 | 2646 | 74.1 | /mnt/stockage/packages/f7/xmoto/po/pt_PT.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1922 | 2646 | 72.6 | /mnt/stockage/packages/f7/xmoto/po/cs_CZ.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 3844 | 5292 | 72.6 | /mnt/stockage/packages/f7/xmoto/po/no_NO.po/mnt/stockage/packages/f7/xmoto/po/nb_NO.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 1922 | 2646 | 72.6 | /mnt/stockage/packages/f7/xmoto/po/nn_NO.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1726 | 2646 | 65.2 | /mnt/stockage/packages/f7/xmoto/po/ca_ES.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1726 | 2646 | 65.2 | /mnt/stockage/packages/f7/xmoto/po/es_ES.po | 
+ | [da](/f7/language/da) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/da_DK.po | 
+ | [de](/f7/language/de) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/de_DE.po | 
+ | [fi](/f7/language/fi) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/fi_FI.po | 
+ | [fr](/f7/language/fr) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/fr_FR.po | 
+ | [lv](/f7/language/lv) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/lv_LV.po | 
+ | [pl](/f7/language/pl) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/pl_PL.po | 
+ | [ru](/f7/language/ru) | 2646 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/ru_RU.po | 
+ | [it](/f7/language/it) | 2645 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/it_IT.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2645 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/pt_BR.po | 
+ | [sv](/f7/language/sv) | 2645 | 2646 | 100.0 | /mnt/stockage/packages/f7/xmoto/po/sv_SE.po | 
+ | [sk](/f7/language/sk) | 2621 | 2646 | 99.1 | /mnt/stockage/packages/f7/xmoto/po/sk_SK.po | 
+ | [pt_PT](/f7/language/pt_PT) | 1962 | 2646 | 74.1 | /mnt/stockage/packages/f7/xmoto/po/pt_PT.po | 
+ | [cs](/f7/language/cs) | 1922 | 2646 | 72.6 | /mnt/stockage/packages/f7/xmoto/po/cs_CZ.po | 
+ | [nb_NO](/f7/language/nb_NO) | 3844 | 5292 | 72.6 | /mnt/stockage/packages/f7/xmoto/po/no_NO.po/mnt/stockage/packages/f7/xmoto/po/nb_NO.po | 
+ | [nn](/f7/language/nn) | 1922 | 2646 | 72.6 | /mnt/stockage/packages/f7/xmoto/po/nn_NO.po | 
+ | [ca](/f7/language/ca) | 1726 | 2646 | 65.2 | /mnt/stockage/packages/f7/xmoto/po/ca_ES.po | 
+ | [es](/f7/language/es) | 1726 | 2646 | 65.2 | /mnt/stockage/packages/f7/xmoto/po/es_ES.po | 
 {.sortable}
 
 

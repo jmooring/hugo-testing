@@ -18,17 +18,17 @@ The package kde-plasma-daisy (version 0.0.4.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f17/language/el.md" >}}) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/el.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/pt.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/ru.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 319 | 329 | 97.0 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 319 | 329 | 97.0 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/it.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 311 | 329 | 94.5 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/de.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 306 | 329 | 93.0 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/tr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 276 | 329 | 83.9 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/hu.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 241 | 329 | 73.3 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/sr.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 239 | 329 | 72.6 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/bs.po | 
+ | [el](/f17/language/el) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/el.po | 
+ | [pl](/f17/language/pl) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/pl.po | 
+ | [pt](/f17/language/pt) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/pt.po | 
+ | [ru](/f17/language/ru) | 325 | 329 | 98.8 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/ru.po | 
+ | [fr](/f17/language/fr) | 319 | 329 | 97.0 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/fr.po | 
+ | [it](/f17/language/it) | 319 | 329 | 97.0 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/it.po | 
+ | [de](/f17/language/de) | 311 | 329 | 94.5 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/de.po | 
+ | [tr](/f17/language/tr) | 306 | 329 | 93.0 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/tr.po | 
+ | [hu](/f17/language/hu) | 276 | 329 | 83.9 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/hu.po | 
+ | [sr](/f17/language/sr) | 241 | 329 | 73.3 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/sr.po | 
+ | [bs](/f17/language/bs) | 239 | 329 | 72.6 | /mnt/stockage/packages/f17/kde-plasma-daisy/applet/po/bs.po | 
 {.sortable}
 
 

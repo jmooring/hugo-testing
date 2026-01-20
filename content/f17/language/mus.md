@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openteacher]({{< ref "/f17/package/openteacher.md" >}}) | 2 | 2 | 100.0 | Creek <mus@li.org> | 
+ | [openteacher](/f17/package/openteacher) | 2 | 2 | 100.0 | Creek <mus@li.org> | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package trytond-currency (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/ca_ES.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/de_DE.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_ES.po | 
- | [es_AR]({{< ref "/f30/language/es_AR.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_AR.po | 
- | [es_CO]({{< ref "/f30/language/es_CO.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_CO.po | 
- | [es_EC]({{< ref "/f30/language/es_EC.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_EC.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/fr_FR.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/sl_SI.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 463 | 469 | 98.7 | /mnt/stockage/packages/f30/trytond-currency/locale/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 463 | 469 | 98.7 | /mnt/stockage/packages/f30/trytond-currency/locale/ru_RU.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 462 | 469 | 98.5 | /mnt/stockage/packages/f30/trytond-currency/locale/hu_HU.po | 
- | [es_MX]({{< ref "/f30/language/es_MX.md" >}}) | 457 | 469 | 97.4 | /mnt/stockage/packages/f30/trytond-currency/locale/es_MX.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 421 | 469 | 89.8 | /mnt/stockage/packages/f30/trytond-currency/locale/it_IT.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 403 | 469 | 85.9 | /mnt/stockage/packages/f30/trytond-currency/locale/bg_BG.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/cs_CZ.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/ja_JP.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/lt_LT.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/zh_CN.po | 
- | [lo]({{< ref "/f30/language/lo.md" >}}) | 15 | 469 | 3.2 | /mnt/stockage/packages/f30/trytond-currency/locale/lo_LA.po | 
+ | [ca](/f30/language/ca) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/ca_ES.po | 
+ | [de](/f30/language/de) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/de_DE.po | 
+ | [es](/f30/language/es) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_ES.po | 
+ | [es_AR](/f30/language/es_AR) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_AR.po | 
+ | [es_CO](/f30/language/es_CO) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_CO.po | 
+ | [es_EC](/f30/language/es_EC) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/es_EC.po | 
+ | [fr](/f30/language/fr) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/fr_FR.po | 
+ | [sl](/f30/language/sl) | 469 | 469 | 100.0 | /mnt/stockage/packages/f30/trytond-currency/locale/sl_SI.po | 
+ | [pt_BR](/f30/language/pt_BR) | 463 | 469 | 98.7 | /mnt/stockage/packages/f30/trytond-currency/locale/pt_BR.po | 
+ | [ru](/f30/language/ru) | 463 | 469 | 98.7 | /mnt/stockage/packages/f30/trytond-currency/locale/ru_RU.po | 
+ | [hu](/f30/language/hu) | 462 | 469 | 98.5 | /mnt/stockage/packages/f30/trytond-currency/locale/hu_HU.po | 
+ | [es_MX](/f30/language/es_MX) | 457 | 469 | 97.4 | /mnt/stockage/packages/f30/trytond-currency/locale/es_MX.po | 
+ | [it](/f30/language/it) | 421 | 469 | 89.8 | /mnt/stockage/packages/f30/trytond-currency/locale/it_IT.po | 
+ | [bg](/f30/language/bg) | 403 | 469 | 85.9 | /mnt/stockage/packages/f30/trytond-currency/locale/bg_BG.po | 
+ | [cs](/f30/language/cs) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/cs_CZ.po | 
+ | [ja](/f30/language/ja) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/ja_JP.po | 
+ | [lt](/f30/language/lt) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/lt_LT.po | 
+ | [nl](/f30/language/nl) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/nl_NL.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 356 | 469 | 75.9 | /mnt/stockage/packages/f30/trytond-currency/locale/zh_CN.po | 
+ | [lo](/f30/language/lo) | 15 | 469 | 3.2 | /mnt/stockage/packages/f30/trytond-currency/locale/lo_LA.po | 
 {.sortable}
 
 

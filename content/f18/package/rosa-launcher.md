@@ -18,18 +18,18 @@ The package rosa-launcher (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f18/language/en.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f18/rosa-launcher/po/eu/ROSA_Launcher.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f18/rosa-launcher/po/ru/ROSA_Launcher.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 47 | 101 | 46.5 | /mnt/stockage/packages/f18/rosa-launcher/po/de/ROSA_Launcher.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 47 | 101 | 46.5 | /mnt/stockage/packages/f18/rosa-launcher/po/es/ROSA_Launcher.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/ar/ROSA_Launcher.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/et/ROSA_Launcher.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/fr/ROSA_Launcher.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/pt_BR/ROSA_Launcher.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/sl/ROSA_Launcher.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/tr/ROSA_Launcher.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/zh_TW/ROSA_Launcher.po | 
- | [sw]({{< ref "/f18/language/sw.md" >}}) | 20 | 101 | 19.8 | /mnt/stockage/packages/f18/rosa-launcher/po/sw/ROSA_Launcher.po | 
+ | [en](/f18/language/en) | 101 | 101 | 100.0 | /mnt/stockage/packages/f18/rosa-launcher/po/eu/ROSA_Launcher.po | 
+ | [ru](/f18/language/ru) | 101 | 101 | 100.0 | /mnt/stockage/packages/f18/rosa-launcher/po/ru/ROSA_Launcher.po | 
+ | [de](/f18/language/de) | 47 | 101 | 46.5 | /mnt/stockage/packages/f18/rosa-launcher/po/de/ROSA_Launcher.po | 
+ | [es](/f18/language/es) | 47 | 101 | 46.5 | /mnt/stockage/packages/f18/rosa-launcher/po/es/ROSA_Launcher.po | 
+ | [ar](/f18/language/ar) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/ar/ROSA_Launcher.po | 
+ | [et](/f18/language/et) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/et/ROSA_Launcher.po | 
+ | [fr](/f18/language/fr) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/fr/ROSA_Launcher.po | 
+ | [pt_BR](/f18/language/pt_BR) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/pt_BR/ROSA_Launcher.po | 
+ | [sl](/f18/language/sl) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/sl/ROSA_Launcher.po | 
+ | [tr](/f18/language/tr) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/tr/ROSA_Launcher.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 26 | 101 | 25.7 | /mnt/stockage/packages/f18/rosa-launcher/po/zh_TW/ROSA_Launcher.po | 
+ | [sw](/f18/language/sw) | 20 | 101 | 19.8 | /mnt/stockage/packages/f18/rosa-launcher/po/sw/ROSA_Launcher.po | 
 {.sortable}
 
 

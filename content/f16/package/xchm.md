@@ -18,25 +18,25 @@ The package xchm (version 1.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f16/language/es.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/xchm/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/xchm/po/fr.po | 
- | [pt_PT]({{< ref "/f16/language/pt_PT.md" >}}) | 200 | 222 | 90.1 | /mnt/stockage/packages/f16/xchm/po/pt_PT.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 198 | 222 | 89.2 | /mnt/stockage/packages/f16/xchm/po/be.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 198 | 222 | 89.2 | /mnt/stockage/packages/f16/xchm/po/pl.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 196 | 222 | 88.3 | /mnt/stockage/packages/f16/xchm/po/ro.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 188 | 222 | 84.7 | /mnt/stockage/packages/f16/xchm/po/de.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 175 | 222 | 78.8 | /mnt/stockage/packages/f16/xchm/po/sv.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 158 | 222 | 71.2 | /mnt/stockage/packages/f16/xchm/po/uk.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 156 | 222 | 70.3 | /mnt/stockage/packages/f16/xchm/po/pt_BR.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/cs.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/ru.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/zh_TW.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/bg.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/it.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/lv.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/sk.po | 
+ | [es](/f16/language/es) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/xchm/po/es.po | 
+ | [fr](/f16/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/xchm/po/fr.po | 
+ | [pt_PT](/f16/language/pt_PT) | 200 | 222 | 90.1 | /mnt/stockage/packages/f16/xchm/po/pt_PT.po | 
+ | [be](/f16/language/be) | 198 | 222 | 89.2 | /mnt/stockage/packages/f16/xchm/po/be.po | 
+ | [pl](/f16/language/pl) | 198 | 222 | 89.2 | /mnt/stockage/packages/f16/xchm/po/pl.po | 
+ | [ro](/f16/language/ro) | 196 | 222 | 88.3 | /mnt/stockage/packages/f16/xchm/po/ro.po | 
+ | [de](/f16/language/de) | 188 | 222 | 84.7 | /mnt/stockage/packages/f16/xchm/po/de.po | 
+ | [sv](/f16/language/sv) | 175 | 222 | 78.8 | /mnt/stockage/packages/f16/xchm/po/sv.po | 
+ | [uk](/f16/language/uk) | 158 | 222 | 71.2 | /mnt/stockage/packages/f16/xchm/po/uk.po | 
+ | [pt_BR](/f16/language/pt_BR) | 156 | 222 | 70.3 | /mnt/stockage/packages/f16/xchm/po/pt_BR.po | 
+ | [cs](/f16/language/cs) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/cs.po | 
+ | [ru](/f16/language/ru) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/ru.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 145 | 222 | 65.3 | /mnt/stockage/packages/f16/xchm/po/zh_TW.po | 
+ | [bg](/f16/language/bg) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/bg.po | 
+ | [hu](/f16/language/hu) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/hu.po | 
+ | [it](/f16/language/it) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/it.po | 
+ | [lv](/f16/language/lv) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/lv.po | 
+ | [sk](/f16/language/sk) | 142 | 222 | 64.0 | /mnt/stockage/packages/f16/xchm/po/sk.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f10/package/gnucash.md" >}}) | 24163 | 24163 | 100.0 | Swiss German <de_CH@li.org> | 
- | [nfoview]({{< ref "/f10/package/nfoview.md" >}}) | 97 | 97 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [system-config-samba]({{< ref "/f10/package/system-config-samba.md" >}}) | 415 | 422 | 98.3 | German <fedora-trans-de@redhat.com> | 
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [pgadmin3]({{< ref "/f10/package/pgadmin3.md" >}}) | 2152 | 8978 | 24.0 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [fuse-encfs]({{< ref "/f10/package/fuse-encfs.md" >}}) | 265 | 1311 | 20.2 | German (Switzerland) <de_CH@li.org> | 
+ | [gnucash](/f10/package/gnucash) | 24163 | 24163 | 100.0 | Swiss German <de_CH@li.org> | 
+ | [nfoview](/f10/package/nfoview) | 97 | 97 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-samba](/f10/package/system-config-samba) | 415 | 422 | 98.3 | German <fedora-trans-de@redhat.com> | 
+ | [liblicense](/f10/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [pgadmin3](/f10/package/pgadmin3) | 2152 | 8978 | 24.0 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [fuse-encfs](/f10/package/fuse-encfs) | 265 | 1311 | 20.2 | German (Switzerland) <de_CH@li.org> | 
 {.sortable}
 
 

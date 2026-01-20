@@ -18,12 +18,12 @@ The package tint2 (version 17.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 8508 | 8808 | 96.6 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/fr.po/mnt/stockage/packages/f33/tint2/src/tint2conf/po/es.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 3249 | 4404 | 73.8 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/pl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 3002 | 4404 | 68.2 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/sr.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 3001 | 4404 | 68.1 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/hr.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 2990 | 4404 | 67.9 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/bs.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/ru.po | 
+ | [fr](/f33/language/fr) | 8508 | 8808 | 96.6 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/fr.po/mnt/stockage/packages/f33/tint2/src/tint2conf/po/es.po | 
+ | [pl](/f33/language/pl) | 3249 | 4404 | 73.8 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/pl.po | 
+ | [sr](/f33/language/sr) | 3002 | 4404 | 68.2 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/sr.po | 
+ | [hr](/f33/language/hr) | 3001 | 4404 | 68.1 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/hr.po | 
+ | [bs](/f33/language/bs) | 2990 | 4404 | 67.9 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/bs.po | 
+ | [ru](/f33/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/tint2/src/tint2conf/po/ru.po | 
 {.sortable}
 
 

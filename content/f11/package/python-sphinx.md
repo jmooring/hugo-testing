@@ -18,20 +18,20 @@ The package python-sphinx (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 397 | 397 | 100.0 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/de/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 391 | 397 | 98.5 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/nl/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 388 | 397 | 97.7 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/ru/LC_MESSAGES/sphinx.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 384 | 397 | 96.7 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/uk_UA/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 378 | 397 | 95.2 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/it/LC_MESSAGES/sphinx.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 364 | 397 | 91.7 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/cs/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 323 | 397 | 81.4 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/fr/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 323 | 397 | 81.4 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 323 | 397 | 81.4 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/sl/LC_MESSAGES/sphinx.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 297 | 397 | 74.8 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/ja/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 297 | 397 | 74.8 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/pl/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 277 | 397 | 69.8 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/es/LC_MESSAGES/sphinx.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 215 | 397 | 54.2 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/fi/LC_MESSAGES/sphinx.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 167 | 397 | 42.1 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/zh_TW/LC_MESSAGES/sphinx.po | 
+ | [de](/f11/language/de) | 397 | 397 | 100.0 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/de/LC_MESSAGES/sphinx.po | 
+ | [nl](/f11/language/nl) | 391 | 397 | 98.5 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [ru](/f11/language/ru) | 388 | 397 | 97.7 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [uk](/f11/language/uk) | 384 | 397 | 96.7 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/uk_UA/LC_MESSAGES/sphinx.po | 
+ | [it](/f11/language/it) | 378 | 397 | 95.2 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/it/LC_MESSAGES/sphinx.po | 
+ | [cs](/f11/language/cs) | 364 | 397 | 91.7 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/cs/LC_MESSAGES/sphinx.po | 
+ | [fr](/f11/language/fr) | 323 | 397 | 81.4 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f11/language/pt_BR) | 323 | 397 | 81.4 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [sl](/f11/language/sl) | 323 | 397 | 81.4 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/sl/LC_MESSAGES/sphinx.po | 
+ | [ja](/f11/language/ja) | 297 | 397 | 74.8 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/ja/LC_MESSAGES/sphinx.po | 
+ | [pl](/f11/language/pl) | 297 | 397 | 74.8 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [es](/f11/language/es) | 277 | 397 | 69.8 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/es/LC_MESSAGES/sphinx.po | 
+ | [fi](/f11/language/fi) | 215 | 397 | 54.2 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/fi/LC_MESSAGES/sphinx.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 167 | 397 | 42.1 | /mnt/stockage/packages/f11/python-sphinx/sphinx/locale/zh_TW/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

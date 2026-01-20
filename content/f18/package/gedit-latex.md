@@ -18,22 +18,22 @@ The package gedit-latex (version 3.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/da.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/gl.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/lv.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/pl.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/sl.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/th.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 445 | 457 | 97.4 | /mnt/stockage/packages/f18/gedit-latex/po/de.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 395 | 416 | 95.0 | /mnt/stockage/packages/f18/gedit-latex/po/cs.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 236 | 276 | 85.5 | /mnt/stockage/packages/f18/gedit-latex/po/zh_CN.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 251 | 298 | 84.2 | /mnt/stockage/packages/f18/gedit-latex/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 221 | 416 | 53.1 | /mnt/stockage/packages/f18/gedit-latex/po/sv.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 240 | 457 | 52.5 | /mnt/stockage/packages/f18/gedit-latex/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 85 | 298 | 28.5 | /mnt/stockage/packages/f18/gedit-latex/po/nb.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 95 | 416 | 22.8 | /mnt/stockage/packages/f18/gedit-latex/po/eo.po | 
+ | [da](/f18/language/da) | 276 | 276 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/da.po | 
+ | [es](/f18/language/es) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/es.po | 
+ | [fr](/f18/language/fr) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/fr.po | 
+ | [gl](/f18/language/gl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/gl.po | 
+ | [lv](/f18/language/lv) | 457 | 457 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/lv.po | 
+ | [pl](/f18/language/pl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/pl.po | 
+ | [sl](/f18/language/sl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/sl.po | 
+ | [th](/f18/language/th) | 298 | 298 | 100.0 | /mnt/stockage/packages/f18/gedit-latex/po/th.po | 
+ | [de](/f18/language/de) | 445 | 457 | 97.4 | /mnt/stockage/packages/f18/gedit-latex/po/de.po | 
+ | [cs](/f18/language/cs) | 395 | 416 | 95.0 | /mnt/stockage/packages/f18/gedit-latex/po/cs.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 236 | 276 | 85.5 | /mnt/stockage/packages/f18/gedit-latex/po/zh_CN.po | 
+ | [ru](/f18/language/ru) | 251 | 298 | 84.2 | /mnt/stockage/packages/f18/gedit-latex/po/ru.po | 
+ | [sv](/f18/language/sv) | 221 | 416 | 53.1 | /mnt/stockage/packages/f18/gedit-latex/po/sv.po | 
+ | [pt_BR](/f18/language/pt_BR) | 240 | 457 | 52.5 | /mnt/stockage/packages/f18/gedit-latex/po/pt_BR.po | 
+ | [nb_NO](/f18/language/nb_NO) | 85 | 298 | 28.5 | /mnt/stockage/packages/f18/gedit-latex/po/nb.po | 
+ | [eo](/f18/language/eo) | 95 | 416 | 22.8 | /mnt/stockage/packages/f18/gedit-latex/po/eo.po | 
 {.sortable}
 
 

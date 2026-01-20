@@ -18,11 +18,11 @@ The package gwaei (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f12/language/error.md" >}}) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f12/gwaei/po/en@boldquot.po/mnt/stockage/packages/f12/gwaei/po/en@quot.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f12/gwaei/po/fr.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1116 | 1169 | 95.5 | /mnt/stockage/packages/f12/gwaei/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1046 | 1169 | 89.5 | /mnt/stockage/packages/f12/gwaei/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 558 | 1169 | 47.7 | /mnt/stockage/packages/f12/gwaei/po/ja.po | 
+ | [error](/f12/language/error) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f12/gwaei/po/en@boldquot.po/mnt/stockage/packages/f12/gwaei/po/en@quot.po | 
+ | [fr](/f12/language/fr) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f12/gwaei/po/fr.po | 
+ | [es](/f12/language/es) | 1116 | 1169 | 95.5 | /mnt/stockage/packages/f12/gwaei/po/es.po | 
+ | [it](/f12/language/it) | 1046 | 1169 | 89.5 | /mnt/stockage/packages/f12/gwaei/po/it.po | 
+ | [ja](/f12/language/ja) | 558 | 1169 | 47.7 | /mnt/stockage/packages/f12/gwaei/po/ja.po | 
 {.sortable}
 
 

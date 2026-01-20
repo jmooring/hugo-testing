@@ -18,26 +18,26 @@ The package trytond-purchase-invoice-line-standalone (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/ca_ES.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/de_DE.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_ES.po | 
- | [es_AR]({{< ref "/f36/language/es_AR.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_AR.po | 
- | [es_CO]({{< ref "/f36/language/es_CO.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_CO.po | 
- | [es_EC]({{< ref "/f36/language/es_EC.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_EC.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/pt_BR.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/sl_SI.po | 
- | [es_MX]({{< ref "/f36/language/es_MX.md" >}}) | 49 | 51 | 96.1 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_MX.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 38 | 51 | 74.5 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/bg_BG.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/cs_CZ.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/hu_HU.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/it_IT.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/ja_JP.po | 
- | [lo]({{< ref "/f36/language/lo.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/lo_LA.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/lt_LT.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/nl_NL.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/zh_CN.po | 
+ | [ca](/f36/language/ca) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/ca_ES.po | 
+ | [de](/f36/language/de) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/de_DE.po | 
+ | [es](/f36/language/es) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_ES.po | 
+ | [es_AR](/f36/language/es_AR) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_AR.po | 
+ | [es_CO](/f36/language/es_CO) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_CO.po | 
+ | [es_EC](/f36/language/es_EC) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_EC.po | 
+ | [fr](/f36/language/fr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/fr_FR.po | 
+ | [pt_BR](/f36/language/pt_BR) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/pt_BR.po | 
+ | [sl](/f36/language/sl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/sl_SI.po | 
+ | [es_MX](/f36/language/es_MX) | 49 | 51 | 96.1 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/es_MX.po | 
+ | [bg](/f36/language/bg) | 38 | 51 | 74.5 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/bg_BG.po | 
+ | [cs](/f36/language/cs) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/cs_CZ.po | 
+ | [hu](/f36/language/hu) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/hu_HU.po | 
+ | [it](/f36/language/it) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/it_IT.po | 
+ | [ja](/f36/language/ja) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/ja_JP.po | 
+ | [lo](/f36/language/lo) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/lo_LA.po | 
+ | [lt](/f36/language/lt) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/lt_LT.po | 
+ | [nl](/f36/language/nl) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/nl_NL.po | 
+ | [ru](/f36/language/ru) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/ru_RU.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 0 | 51 | 0.0 | /mnt/stockage/packages/f36/trytond-purchase-invoice-line-standalone/locale/zh_CN.po | 
 {.sortable}
 
 

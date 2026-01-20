@@ -18,51 +18,51 @@ The package mingw-webkitgtk3 (version 2.4.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f22/language/as.md" >}}) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/as.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/de.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/fr.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 1839 | 1839 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/gu.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 2695 | 2695 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/hi.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ja.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/kn.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 2725 | 2725 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/mr.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/or.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ru.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 2694 | 2694 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/te.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/zh_TW.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 2647 | 2686 | 98.5 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/gl.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 2407 | 2699 | 89.2 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/nl.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2004 | 2681 | 74.7 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/it.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1980 | 2681 | 73.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ko.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 1834 | 2623 | 69.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ro.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 1827 | 2681 | 68.1 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sl.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 1777 | 2623 | 67.7 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/id.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1443 | 2623 | 55.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/uk.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 1441 | 2621 | 55.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/en_CA.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 1375 | 2623 | 52.4 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pt.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 1116 | 2623 | 42.5 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/bg.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ar.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 2146 | 5246 | 40.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sr.po/mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sr@latin.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 1066 | 2623 | 40.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/eu.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 1062 | 2623 | 40.5 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/vi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/hu.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/lt.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1039 | 2623 | 39.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/cs.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 969 | 2623 | 36.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/et.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/el.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/he.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/lv.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pa.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sv.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 429 | 2681 | 16.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ml.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 303 | 2623 | 11.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/eo.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 215 | 2623 | 8.2 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/nb.po | 
+ | [as](/f22/language/as) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/as.po | 
+ | [de](/f22/language/de) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/de.po | 
+ | [en_GB](/f22/language/en_GB) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/en_GB.po | 
+ | [es](/f22/language/es) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/es.po | 
+ | [fr](/f22/language/fr) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/fr.po | 
+ | [gu](/f22/language/gu) | 1839 | 1839 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/gu.po | 
+ | [hi](/f22/language/hi) | 2695 | 2695 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/hi.po | 
+ | [ja](/f22/language/ja) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ja.po | 
+ | [kn](/f22/language/kn) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/kn.po | 
+ | [mr](/f22/language/mr) | 2725 | 2725 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/mr.po | 
+ | [or](/f22/language/or) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/or.po | 
+ | [pl](/f22/language/pl) | 2702 | 2702 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ru.po | 
+ | [ta](/f22/language/ta) | 2694 | 2694 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ta.po | 
+ | [te](/f22/language/te) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/te.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 2681 | 2681 | 100.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/zh_TW.po | 
+ | [gl](/f22/language/gl) | 2647 | 2686 | 98.5 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/gl.po | 
+ | [nl](/f22/language/nl) | 2407 | 2699 | 89.2 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/nl.po | 
+ | [it](/f22/language/it) | 2004 | 2681 | 74.7 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/it.po | 
+ | [ko](/f22/language/ko) | 1980 | 2681 | 73.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ko.po | 
+ | [ro](/f22/language/ro) | 1834 | 2623 | 69.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ro.po | 
+ | [sl](/f22/language/sl) | 1827 | 2681 | 68.1 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sl.po | 
+ | [id](/f22/language/id) | 1777 | 2623 | 67.7 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/id.po | 
+ | [uk](/f22/language/uk) | 1443 | 2623 | 55.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/uk.po | 
+ | [en](/f22/language/en) | 1441 | 2621 | 55.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/en_CA.po | 
+ | [pt](/f22/language/pt) | 1375 | 2623 | 52.4 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pt.po | 
+ | [bg](/f22/language/bg) | 1116 | 2623 | 42.5 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/bg.po | 
+ | [ar](/f22/language/ar) | 1073 | 2623 | 40.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ar.po | 
+ | [sr](/f22/language/sr) | 2146 | 5246 | 40.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sr.po/mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sr@latin.po | 
+ | [eu](/f22/language/eu) | 1066 | 2623 | 40.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/eu.po | 
+ | [vi](/f22/language/vi) | 1062 | 2623 | 40.5 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/vi.po | 
+ | [hu](/f22/language/hu) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/hu.po | 
+ | [lt](/f22/language/lt) | 1052 | 2623 | 40.1 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/lt.po | 
+ | [cs](/f22/language/cs) | 1039 | 2623 | 39.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/cs.po | 
+ | [et](/f22/language/et) | 969 | 2623 | 36.9 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/et.po | 
+ | [el](/f22/language/el) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/el.po | 
+ | [he](/f22/language/he) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/he.po | 
+ | [lv](/f22/language/lv) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/lv.po | 
+ | [pa](/f22/language/pa) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/pa.po | 
+ | [sv](/f22/language/sv) | 671 | 2623 | 25.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/sv.po | 
+ | [ml](/f22/language/ml) | 429 | 2681 | 16.0 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/ml.po | 
+ | [eo](/f22/language/eo) | 303 | 2623 | 11.6 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/eo.po | 
+ | [nb_NO](/f22/language/nb_NO) | 215 | 2623 | 8.2 | /mnt/stockage/packages/f22/mingw-webkitgtk3/Source/WebCore/platform/gtk/po/nb.po | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f30/package/iso-codes.md" >}}) | 738 | 771 | 95.7 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [libreoffice]({{< ref "/f30/package/libreoffice.md" >}}) | 375926 | 566404 | 66.4 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f30/package/tuxpaint.md" >}}) | 695 | 1591 | 43.7 | English (South African) <en_za@li.org> | 
- | [virtaal]({{< ref "/f30/package/virtaal.md" >}}) | 73 | 1171 | 6.2 | English <translate-devel@lists.sourceforge.net> | 
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 4 | 6650 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [iso-codes](/f30/package/iso-codes) | 738 | 771 | 95.7 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [libreoffice](/f30/package/libreoffice) | 375926 | 566404 | 66.4 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f30/package/tuxpaint) | 695 | 1591 | 43.7 | English (South African) <en_za@li.org> | 
+ | [virtaal](/f30/package/virtaal) | 73 | 1171 | 6.2 | English <translate-devel@lists.sourceforge.net> | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 4 | 6650 | 0.1 | English (South Africa) <en_ZA@li.org> | 
 {.sortable}
 
 

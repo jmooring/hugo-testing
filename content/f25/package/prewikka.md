@@ -18,14 +18,14 @@ The package prewikka (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1207 | 1221 | 98.9 | /mnt/stockage/packages/f25/prewikka/po/fr.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 1078 | 1221 | 88.3 | /mnt/stockage/packages/f25/prewikka/po/ru.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 820 | 1221 | 67.2 | /mnt/stockage/packages/f25/prewikka/po/it.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 726 | 1221 | 59.5 | /mnt/stockage/packages/f25/prewikka/po/de.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 374 | 1221 | 30.6 | /mnt/stockage/packages/f25/prewikka/po/pt_BR.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 365 | 1221 | 29.9 | /mnt/stockage/packages/f25/prewikka/po/pl.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 264 | 1221 | 21.6 | /mnt/stockage/packages/f25/prewikka/po/es.po | 
- | [en]({{< ref "/f25/language/en.md" >}}) | 4 | 1221 | 0.3 | /mnt/stockage/packages/f25/prewikka/po/en.po | 
+ | [fr](/f25/language/fr) | 1207 | 1221 | 98.9 | /mnt/stockage/packages/f25/prewikka/po/fr.po | 
+ | [ru](/f25/language/ru) | 1078 | 1221 | 88.3 | /mnt/stockage/packages/f25/prewikka/po/ru.po | 
+ | [it](/f25/language/it) | 820 | 1221 | 67.2 | /mnt/stockage/packages/f25/prewikka/po/it.po | 
+ | [de](/f25/language/de) | 726 | 1221 | 59.5 | /mnt/stockage/packages/f25/prewikka/po/de.po | 
+ | [pt_BR](/f25/language/pt_BR) | 374 | 1221 | 30.6 | /mnt/stockage/packages/f25/prewikka/po/pt_BR.po | 
+ | [pl](/f25/language/pl) | 365 | 1221 | 29.9 | /mnt/stockage/packages/f25/prewikka/po/pl.po | 
+ | [es](/f25/language/es) | 264 | 1221 | 21.6 | /mnt/stockage/packages/f25/prewikka/po/es.po | 
+ | [en](/f25/language/en) | 4 | 1221 | 0.3 | /mnt/stockage/packages/f25/prewikka/po/en.po | 
 {.sortable}
 
 

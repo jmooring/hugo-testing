@@ -38,36 +38,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f14/package/newt.md" >}}) | 4 | 4 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [iso-codes]({{< ref "/f14/package/iso-codes.md" >}}) | 925 | 1097 | 84.3 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [gnome-hearts]({{< ref "/f14/package/gnome-hearts.md" >}}) | 340 | 409 | 83.1 | Tagalog <tl@li.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 377 | 612 | 61.6 | Tagalog <tl@li.org> | 
- | [dpkg]({{< ref "/f14/package/dpkg.md" >}}) | 5495 | 10019 | 54.8 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [jokosher]({{< ref "/f14/package/jokosher.md" >}}) | 968 | 2059 | 47.0 | Tagalog <tl@li.org> | 
- | [shadow-utils]({{< ref "/f14/package/shadow-utils.md" >}}) | 1288 | 3221 | 40.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [glib2]({{< ref "/f14/package/glib2.md" >}}) | 982 | 3690 | 26.6 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [mingw32-glib2]({{< ref "/f14/package/mingw32-glib2.md" >}}) | 982 | 3690 | 26.6 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [phatch]({{< ref "/f14/package/phatch.md" >}}) | 666 | 2553 | 26.1 | Tagalog <tl@li.org> | 
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 186 | 1247 | 14.9 | LANGUAGE <LL@li.org> | 
- | [pgadmin3]({{< ref "/f14/package/pgadmin3.md" >}}) | 1297 | 9676 | 13.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [gnome-do-plugins]({{< ref "/f14/package/gnome-do-plugins.md" >}}) | 272 | 2323 | 11.7 | Tagalog <tl@li.org> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 186 | 3362 | 5.5 | Tagalog <tl@li.org> | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 134 | 2424 | 5.5 | LANGUAGE <LL@li.org> | 
- | [rednotebook]({{< ref "/f14/package/rednotebook.md" >}}) | 49 | 978 | 5.0 | Tagalog <tl@li.org> | 
- | [libxfce4ui]({{< ref "/f14/package/libxfce4ui.md" >}}) | 4 | 136 | 2.9 | LANGUAGE <LL@li.org> | 
- | [exaile]({{< ref "/f14/package/exaile.md" >}}) | 19 | 2176 | 0.9 | Tagalog <tl@li.org> | 
- | [wesnoth]({{< ref "/f14/package/wesnoth.md" >}}) | 1525 | 226908 | 0.7 |  | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 13 | 3336 | 0.4 | Tagalog <tl@li.org> | 
- | [onboard]({{< ref "/f14/package/onboard.md" >}}) | 1 | 368 | 0.3 | Tagalog <tl@li.org> | 
- | [xchat-gnome]({{< ref "/f14/package/xchat-gnome.md" >}}) | 6 | 3901 | 0.2 | Tagalog <tl@li.org> | 
- | [gnomebaker]({{< ref "/f14/package/gnomebaker.md" >}}) | 1 | 1186 | 0.1 | Tagalog <tl@li.org> | 
- | [transmission]({{< ref "/f14/package/transmission.md" >}}) | 1 | 1508 | 0.1 | Tagalog <tl@li.org> | 
- | [pmount]({{< ref "/f14/package/pmount.md" >}}) | 0 | 723 | 0.0 | Tagalog <tl@li.org> | 
- | [system-config-date-docs]({{< ref "/f14/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f14/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f14/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f14/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f14/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f14/package/newt) | 4 | 4 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [iso-codes](/f14/package/iso-codes) | 925 | 1097 | 84.3 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [gnome-hearts](/f14/package/gnome-hearts) | 340 | 409 | 83.1 | Tagalog <tl@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 377 | 612 | 61.6 | Tagalog <tl@li.org> | 
+ | [dpkg](/f14/package/dpkg) | 5495 | 10019 | 54.8 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [jokosher](/f14/package/jokosher) | 968 | 2059 | 47.0 | Tagalog <tl@li.org> | 
+ | [shadow-utils](/f14/package/shadow-utils) | 1288 | 3221 | 40.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [glib2](/f14/package/glib2) | 982 | 3690 | 26.6 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [mingw32-glib2](/f14/package/mingw32-glib2) | 982 | 3690 | 26.6 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [phatch](/f14/package/phatch) | 666 | 2553 | 26.1 | Tagalog <tl@li.org> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 186 | 1247 | 14.9 | LANGUAGE <LL@li.org> | 
+ | [pgadmin3](/f14/package/pgadmin3) | 1297 | 9676 | 13.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [gnome-do-plugins](/f14/package/gnome-do-plugins) | 272 | 2323 | 11.7 | Tagalog <tl@li.org> | 
+ | [stellarium](/f14/package/stellarium) | 186 | 3362 | 5.5 | Tagalog <tl@li.org> | 
+ | [pootle](/f14/package/pootle) | 134 | 2424 | 5.5 | LANGUAGE <LL@li.org> | 
+ | [rednotebook](/f14/package/rednotebook) | 49 | 978 | 5.0 | Tagalog <tl@li.org> | 
+ | [libxfce4ui](/f14/package/libxfce4ui) | 4 | 136 | 2.9 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f14/package/exaile) | 19 | 2176 | 0.9 | Tagalog <tl@li.org> | 
+ | [wesnoth](/f14/package/wesnoth) | 1525 | 226908 | 0.7 |  | 
+ | [Miro](/f14/package/Miro) | 13 | 3336 | 0.4 | Tagalog <tl@li.org> | 
+ | [onboard](/f14/package/onboard) | 1 | 368 | 0.3 | Tagalog <tl@li.org> | 
+ | [xchat-gnome](/f14/package/xchat-gnome) | 6 | 3901 | 0.2 | Tagalog <tl@li.org> | 
+ | [gnomebaker](/f14/package/gnomebaker) | 1 | 1186 | 0.1 | Tagalog <tl@li.org> | 
+ | [transmission](/f14/package/transmission) | 1 | 1508 | 0.1 | Tagalog <tl@li.org> | 
+ | [pmount](/f14/package/pmount) | 0 | 723 | 0.0 | Tagalog <tl@li.org> | 
+ | [system-config-date-docs](/f14/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f14/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f14/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f14/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f14/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

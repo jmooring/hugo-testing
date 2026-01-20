@@ -18,13 +18,13 @@ The package alsa-utils (version 1.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 2370 | 2426 | 97.7 | /mnt/stockage/packages/f37/alsa-utils/alsaconf/po/ka.po/mnt/stockage/packages/f37/alsa-utils/po/ka.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 1769 | 1890 | 93.6 | /mnt/stockage/packages/f37/alsa-utils/po/sk.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 1751 | 1890 | 92.6 | /mnt/stockage/packages/f37/alsa-utils/po/eu.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1716 | 1890 | 90.8 | /mnt/stockage/packages/f37/alsa-utils/po/fr.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f37/alsa-utils/alsaconf/po/ru.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1586 | 2428 | 65.3 | /mnt/stockage/packages/f37/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f37/alsa-utils/po/ja.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1229 | 1890 | 65.0 | /mnt/stockage/packages/f37/alsa-utils/po/de.po | 
+ | [ka](/f37/language/ka) | 2370 | 2426 | 97.7 | /mnt/stockage/packages/f37/alsa-utils/alsaconf/po/ka.po/mnt/stockage/packages/f37/alsa-utils/po/ka.po | 
+ | [sk](/f37/language/sk) | 1769 | 1890 | 93.6 | /mnt/stockage/packages/f37/alsa-utils/po/sk.po | 
+ | [eu](/f37/language/eu) | 1751 | 1890 | 92.6 | /mnt/stockage/packages/f37/alsa-utils/po/eu.po | 
+ | [fr](/f37/language/fr) | 1716 | 1890 | 90.8 | /mnt/stockage/packages/f37/alsa-utils/po/fr.po | 
+ | [ru](/f37/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f37/alsa-utils/alsaconf/po/ru.po | 
+ | [ja](/f37/language/ja) | 1586 | 2428 | 65.3 | /mnt/stockage/packages/f37/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f37/alsa-utils/po/ja.po | 
+ | [de](/f37/language/de) | 1229 | 1890 | 65.0 | /mnt/stockage/packages/f37/alsa-utils/po/de.po | 
 {.sortable}
 
 

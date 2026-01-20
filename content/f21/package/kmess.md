@@ -18,26 +18,26 @@ The package kmess (version 2.0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 7402 | 7402 | 100.0 | /mnt/stockage/packages/f21/kmess/po/ca.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 5042 | 5042 | 100.0 | /mnt/stockage/packages/f21/kmess/po/fr.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 7322 | 7322 | 100.0 | /mnt/stockage/packages/f21/kmess/po/zh_TW.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 7434 | 7436 | 100.0 | /mnt/stockage/packages/f21/kmess/po/et.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 7439 | 7458 | 99.7 | /mnt/stockage/packages/f21/kmess/po/nl.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 7369 | 7402 | 99.6 | /mnt/stockage/packages/f21/kmess/po/it.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 7295 | 7402 | 98.6 | /mnt/stockage/packages/f21/kmess/po/es.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 7288 | 7402 | 98.5 | /mnt/stockage/packages/f21/kmess/po/de.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 7282 | 7402 | 98.4 | /mnt/stockage/packages/f21/kmess/po/pt_BR.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f21/kmess/po/el.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f21/kmess/po/pt.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 7244 | 7402 | 97.9 | /mnt/stockage/packages/f21/kmess/po/hu.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 7129 | 7402 | 96.3 | /mnt/stockage/packages/f21/kmess/po/sk.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 7018 | 7402 | 94.8 | /mnt/stockage/packages/f21/kmess/po/ru.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 6713 | 7402 | 90.7 | /mnt/stockage/packages/f21/kmess/po/fi.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 6703 | 7402 | 90.6 | /mnt/stockage/packages/f21/kmess/po/ar.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 5851 | 7402 | 79.0 | /mnt/stockage/packages/f21/kmess/po/ja.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 4794 | 7402 | 64.8 | /mnt/stockage/packages/f21/kmess/po/zh_CN.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 4149 | 7402 | 56.1 | /mnt/stockage/packages/f21/kmess/po/tr.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 1662 | 7402 | 22.5 | /mnt/stockage/packages/f21/kmess/po/gl.po | 
+ | [ca](/f21/language/ca) | 7402 | 7402 | 100.0 | /mnt/stockage/packages/f21/kmess/po/ca.po | 
+ | [fr](/f21/language/fr) | 5042 | 5042 | 100.0 | /mnt/stockage/packages/f21/kmess/po/fr.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 7322 | 7322 | 100.0 | /mnt/stockage/packages/f21/kmess/po/zh_TW.po | 
+ | [et](/f21/language/et) | 7434 | 7436 | 100.0 | /mnt/stockage/packages/f21/kmess/po/et.po | 
+ | [nl](/f21/language/nl) | 7439 | 7458 | 99.7 | /mnt/stockage/packages/f21/kmess/po/nl.po | 
+ | [it](/f21/language/it) | 7369 | 7402 | 99.6 | /mnt/stockage/packages/f21/kmess/po/it.po | 
+ | [es](/f21/language/es) | 7295 | 7402 | 98.6 | /mnt/stockage/packages/f21/kmess/po/es.po | 
+ | [de](/f21/language/de) | 7288 | 7402 | 98.5 | /mnt/stockage/packages/f21/kmess/po/de.po | 
+ | [pt_BR](/f21/language/pt_BR) | 7282 | 7402 | 98.4 | /mnt/stockage/packages/f21/kmess/po/pt_BR.po | 
+ | [el](/f21/language/el) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f21/kmess/po/el.po | 
+ | [pt](/f21/language/pt) | 7252 | 7402 | 98.0 | /mnt/stockage/packages/f21/kmess/po/pt.po | 
+ | [hu](/f21/language/hu) | 7244 | 7402 | 97.9 | /mnt/stockage/packages/f21/kmess/po/hu.po | 
+ | [sk](/f21/language/sk) | 7129 | 7402 | 96.3 | /mnt/stockage/packages/f21/kmess/po/sk.po | 
+ | [ru](/f21/language/ru) | 7018 | 7402 | 94.8 | /mnt/stockage/packages/f21/kmess/po/ru.po | 
+ | [fi](/f21/language/fi) | 6713 | 7402 | 90.7 | /mnt/stockage/packages/f21/kmess/po/fi.po | 
+ | [ar](/f21/language/ar) | 6703 | 7402 | 90.6 | /mnt/stockage/packages/f21/kmess/po/ar.po | 
+ | [ja](/f21/language/ja) | 5851 | 7402 | 79.0 | /mnt/stockage/packages/f21/kmess/po/ja.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 4794 | 7402 | 64.8 | /mnt/stockage/packages/f21/kmess/po/zh_CN.po | 
+ | [tr](/f21/language/tr) | 4149 | 7402 | 56.1 | /mnt/stockage/packages/f21/kmess/po/tr.po | 
+ | [gl](/f21/language/gl) | 1662 | 7402 | 22.5 | /mnt/stockage/packages/f21/kmess/po/gl.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package cycle (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/cs.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/es.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f27/cycle/no.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 199 | 199 | 100.0 | /mnt/stockage/packages/f27/cycle/nn.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/sk.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f27/cycle/sv.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 187 | 190 | 98.4 | /mnt/stockage/packages/f27/cycle/msg/gl.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cycle/hu.po | 
+ | [ca](/f27/language/ca) | 131 | 131 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/ca.po | 
+ | [cs](/f27/language/cs) | 126 | 126 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/cs.po | 
+ | [de](/f27/language/de) | 126 | 126 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/de.po | 
+ | [es](/f27/language/es) | 186 | 186 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/es.po | 
+ | [nb_NO](/f27/language/nb_NO) | 199 | 199 | 100.0 | /mnt/stockage/packages/f27/cycle/no.po | 
+ | [nn](/f27/language/nn) | 199 | 199 | 100.0 | /mnt/stockage/packages/f27/cycle/nn.po | 
+ | [ru](/f27/language/ru) | 186 | 186 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/ru.po | 
+ | [sk](/f27/language/sk) | 126 | 126 | 100.0 | /mnt/stockage/packages/f27/cycle/msg/sk.po | 
+ | [sv](/f27/language/sv) | 196 | 196 | 100.0 | /mnt/stockage/packages/f27/cycle/sv.po | 
+ | [gl](/f27/language/gl) | 187 | 190 | 98.4 | /mnt/stockage/packages/f27/cycle/msg/gl.po | 
+ | [hu](/f27/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f27/cycle/hu.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package dnsmasq (version 2.90):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 3490 | 3647 | 95.7 | /mnt/stockage/packages/f39/dnsmasq/po/ka.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 3372 | 3647 | 92.5 | /mnt/stockage/packages/f39/dnsmasq/po/de.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 2709 | 3647 | 74.3 | /mnt/stockage/packages/f39/dnsmasq/po/pl.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 2215 | 3647 | 60.7 | /mnt/stockage/packages/f39/dnsmasq/po/fr.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1376 | 3647 | 37.7 | /mnt/stockage/packages/f39/dnsmasq/po/es.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 738 | 3647 | 20.2 | /mnt/stockage/packages/f39/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 738 | 3647 | 20.2 | /mnt/stockage/packages/f39/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 726 | 3647 | 19.9 | /mnt/stockage/packages/f39/dnsmasq/po/id.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 0 | 3647 | 0.0 | /mnt/stockage/packages/f39/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 0 | 3647 | 0.0 | /mnt/stockage/packages/f39/dnsmasq/po/it.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 0 | 3647 | 0.0 | /mnt/stockage/packages/f39/dnsmasq/po/pt_BR.po | 
+ | [ka](/f39/language/ka) | 3490 | 3647 | 95.7 | /mnt/stockage/packages/f39/dnsmasq/po/ka.po | 
+ | [de](/f39/language/de) | 3372 | 3647 | 92.5 | /mnt/stockage/packages/f39/dnsmasq/po/de.po | 
+ | [pl](/f39/language/pl) | 2709 | 3647 | 74.3 | /mnt/stockage/packages/f39/dnsmasq/po/pl.po | 
+ | [fr](/f39/language/fr) | 2215 | 3647 | 60.7 | /mnt/stockage/packages/f39/dnsmasq/po/fr.po | 
+ | [es](/f39/language/es) | 1376 | 3647 | 37.7 | /mnt/stockage/packages/f39/dnsmasq/po/es.po | 
+ | [nb_NO](/f39/language/nb_NO) | 738 | 3647 | 20.2 | /mnt/stockage/packages/f39/dnsmasq/po/no.po | 
+ | [ro](/f39/language/ro) | 738 | 3647 | 20.2 | /mnt/stockage/packages/f39/dnsmasq/po/ro.po | 
+ | [id](/f39/language/id) | 726 | 3647 | 19.9 | /mnt/stockage/packages/f39/dnsmasq/po/id.po | 
+ | [fi](/f39/language/fi) | 0 | 3647 | 0.0 | /mnt/stockage/packages/f39/dnsmasq/po/fi.po | 
+ | [it](/f39/language/it) | 0 | 3647 | 0.0 | /mnt/stockage/packages/f39/dnsmasq/po/it.po | 
+ | [pt](/f39/language/pt) | 0 | 3647 | 0.0 | /mnt/stockage/packages/f39/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

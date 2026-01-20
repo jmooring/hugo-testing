@@ -18,26 +18,26 @@ The package trytond-analytic-sale (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/ca_ES.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/de_DE.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_ES.po | 
- | [es_AR]({{< ref "/f36/language/es_AR.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_AR.po | 
- | [es_CO]({{< ref "/f36/language/es_CO.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_CO.po | 
- | [es_EC]({{< ref "/f36/language/es_EC.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_EC.po | 
- | [es_MX]({{< ref "/f36/language/es_MX.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_MX.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/fr_FR.po | 
- | [lo]({{< ref "/f36/language/lo.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/lo_LA.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/pt_BR.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/sl_SI.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 2 | 13 | 15.4 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/bg_BG.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 2 | 13 | 15.4 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/ru_RU.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/cs_CZ.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/hu_HU.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/it_IT.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/ja_JP.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/lt_LT.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/zh_CN.po | 
+ | [ca](/f36/language/ca) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/ca_ES.po | 
+ | [de](/f36/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/de_DE.po | 
+ | [es](/f36/language/es) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_ES.po | 
+ | [es_AR](/f36/language/es_AR) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_AR.po | 
+ | [es_CO](/f36/language/es_CO) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_CO.po | 
+ | [es_EC](/f36/language/es_EC) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_EC.po | 
+ | [es_MX](/f36/language/es_MX) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/es_MX.po | 
+ | [fr](/f36/language/fr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/fr_FR.po | 
+ | [lo](/f36/language/lo) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/lo_LA.po | 
+ | [pt_BR](/f36/language/pt_BR) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/pt_BR.po | 
+ | [sl](/f36/language/sl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/sl_SI.po | 
+ | [bg](/f36/language/bg) | 2 | 13 | 15.4 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/bg_BG.po | 
+ | [ru](/f36/language/ru) | 2 | 13 | 15.4 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/ru_RU.po | 
+ | [cs](/f36/language/cs) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/cs_CZ.po | 
+ | [hu](/f36/language/hu) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/hu_HU.po | 
+ | [it](/f36/language/it) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/it_IT.po | 
+ | [ja](/f36/language/ja) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/ja_JP.po | 
+ | [lt](/f36/language/lt) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/lt_LT.po | 
+ | [nl](/f36/language/nl) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/nl_NL.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 0 | 13 | 0.0 | /mnt/stockage/packages/f36/trytond-analytic-sale/locale/zh_CN.po | 
 {.sortable}
 
 

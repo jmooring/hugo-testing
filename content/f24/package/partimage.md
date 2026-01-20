@@ -18,19 +18,19 @@ The package partimage (version 0.6.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 3369 | 3387 | 99.5 | /mnt/stockage/packages/f24/partimage/po/fr.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1754 | 3387 | 51.8 | /mnt/stockage/packages/f24/partimage/po/ru.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f24/partimage/po/da.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f24/partimage/po/es.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1559 | 3387 | 46.0 | /mnt/stockage/packages/f24/partimage/po/de.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1448 | 3387 | 42.8 | /mnt/stockage/packages/f24/partimage/po/pt.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 1388 | 3387 | 41.0 | /mnt/stockage/packages/f24/partimage/po/fi.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1312 | 3387 | 38.7 | /mnt/stockage/packages/f24/partimage/po/nl.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1285 | 3387 | 37.9 | /mnt/stockage/packages/f24/partimage/po/gl.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1283 | 3387 | 37.9 | /mnt/stockage/packages/f24/partimage/po/sk.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 745 | 3387 | 22.0 | /mnt/stockage/packages/f24/partimage/po/pl.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 544 | 3387 | 16.1 | /mnt/stockage/packages/f24/partimage/po/it.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 496 | 3387 | 14.6 | /mnt/stockage/packages/f24/partimage/po/eu.po | 
+ | [fr](/f24/language/fr) | 3369 | 3387 | 99.5 | /mnt/stockage/packages/f24/partimage/po/fr.po | 
+ | [ru](/f24/language/ru) | 1754 | 3387 | 51.8 | /mnt/stockage/packages/f24/partimage/po/ru.po | 
+ | [da](/f24/language/da) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f24/partimage/po/da.po | 
+ | [es](/f24/language/es) | 1595 | 3387 | 47.1 | /mnt/stockage/packages/f24/partimage/po/es.po | 
+ | [de](/f24/language/de) | 1559 | 3387 | 46.0 | /mnt/stockage/packages/f24/partimage/po/de.po | 
+ | [pt](/f24/language/pt) | 1448 | 3387 | 42.8 | /mnt/stockage/packages/f24/partimage/po/pt.po | 
+ | [fi](/f24/language/fi) | 1388 | 3387 | 41.0 | /mnt/stockage/packages/f24/partimage/po/fi.po | 
+ | [nl](/f24/language/nl) | 1312 | 3387 | 38.7 | /mnt/stockage/packages/f24/partimage/po/nl.po | 
+ | [gl](/f24/language/gl) | 1285 | 3387 | 37.9 | /mnt/stockage/packages/f24/partimage/po/gl.po | 
+ | [sk](/f24/language/sk) | 1283 | 3387 | 37.9 | /mnt/stockage/packages/f24/partimage/po/sk.po | 
+ | [pl](/f24/language/pl) | 745 | 3387 | 22.0 | /mnt/stockage/packages/f24/partimage/po/pl.po | 
+ | [it](/f24/language/it) | 544 | 3387 | 16.1 | /mnt/stockage/packages/f24/partimage/po/it.po | 
+ | [eu](/f24/language/eu) | 496 | 3387 | 14.6 | /mnt/stockage/packages/f24/partimage/po/eu.po | 
 {.sortable}
 
 

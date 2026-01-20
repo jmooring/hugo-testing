@@ -18,104 +18,104 @@ The package yelp (version 3.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f20/language/as.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/as.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ast.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/be.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/bg.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f20/yelp/po/bn.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/bn_IN.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ca.po | 
- | [ca@valencia]({{< ref "/f20/language/ca@valencia.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ca@valencia.po | 
- | [crh]({{< ref "/f20/language/crh.md" >}}) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f20/yelp/po/crh.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/cs.po | 
- | [cy]({{< ref "/f20/language/cy.md" >}}) | 956 | 956 | 100.0 | /mnt/stockage/packages/f20/yelp/po/cy.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/de.po | 
- | [dz]({{< ref "/f20/language/dz.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/yelp/po/dz.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/el.po | 
- | [en_CA]({{< ref "/f20/language/en_CA.md" >}}) | 792 | 792 | 100.0 | /mnt/stockage/packages/f20/yelp/po/en_CA.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ta.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f20/yelp/po/en_GB.po/mnt/stockage/packages/f20/yelp/po/eo.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/es.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/et.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/eu.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/fa.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/gl.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/gu.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/he.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/hi.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ja.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ka.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/km.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/yelp/po/kn.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ko.po | 
- | [ku]({{< ref "/f20/language/ku.md" >}}) | 956 | 956 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ku.po | 
- | [ky]({{< ref "/f20/language/ky.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ky.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/lt.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/lv.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f20/yelp/po/mk.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ml.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/mr.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nb.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nds.po | 
- | [ne]({{< ref "/f20/language/ne.md" >}}) | 837 | 837 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ne.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nl.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nn.po | 
- | [oc]({{< ref "/f20/language/oc.md" >}}) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f20/yelp/po/oc.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/or.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pa.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pt_BR.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ro.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sl.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sq.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sr.po/mnt/stockage/packages/f20/yelp/po/sr@latin.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sv.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/te.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/tg.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/th.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/tr.po | 
- | [ug]({{< ref "/f20/language/ug.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ug.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/vi.po | 
- | [wa]({{< ref "/f20/language/wa.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/yelp/po/wa.po | 
- | [xh]({{< ref "/f20/language/xh.md" >}}) | 597 | 597 | 100.0 | /mnt/stockage/packages/f20/yelp/po/xh.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/zh_HK.po | 
- | [be_Latn]({{< ref "/f20/language/be_Latn.md" >}}) | 1032 | 1035 | 99.7 | /mnt/stockage/packages/f20/yelp/po/be@latin.po | 
- | [mg]({{< ref "/f20/language/mg.md" >}}) | 941 | 957 | 98.3 | /mnt/stockage/packages/f20/yelp/po/mg.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 489 | 507 | 96.4 | /mnt/stockage/packages/f20/yelp/po/ar.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 780 | 900 | 86.7 | /mnt/stockage/packages/f20/yelp/po/af.po | 
- | [ks]({{< ref "/f20/language/ks.md" >}}) | 753 | 1035 | 72.8 | /mnt/stockage/packages/f20/yelp/po/ks.po | 
- | [mai]({{< ref "/f20/language/mai.md" >}}) | 571 | 1035 | 55.2 | /mnt/stockage/packages/f20/yelp/po/mai.po | 
- | [uz]({{< ref "/f20/language/uz.md" >}}) | 1140 | 2070 | 55.1 | /mnt/stockage/packages/f20/yelp/po/uz@cyrillic.po/mnt/stockage/packages/f20/yelp/po/uz.po | 
- | [fur]({{< ref "/f20/language/fur.md" >}}) | 177 | 506 | 35.0 | /mnt/stockage/packages/f20/yelp/po/fur.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 155 | 507 | 30.6 | /mnt/stockage/packages/f20/yelp/po/ga.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 172 | 606 | 28.4 | /mnt/stockage/packages/f20/yelp/po/ms.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 277 | 1035 | 26.8 | /mnt/stockage/packages/f20/yelp/po/hr.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 268 | 1035 | 25.9 | /mnt/stockage/packages/f20/yelp/po/ps.po | 
- | [nso]({{< ref "/f20/language/nso.md" >}}) | 110 | 606 | 18.2 | /mnt/stockage/packages/f20/yelp/po/nso.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 184 | 1094 | 16.8 | /mnt/stockage/packages/f20/yelp/po/kk.po | 
- | [br]({{< ref "/f20/language/br.md" >}}) | 176 | 1094 | 16.1 | /mnt/stockage/packages/f20/yelp/po/br.po | 
- | [az]({{< ref "/f20/language/az.md" >}}) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/az.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/bs.po | 
- | [mn]({{< ref "/f20/language/mn.md" >}}) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/mn.po | 
- | [zu]({{< ref "/f20/language/zu.md" >}}) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/zu.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 65 | 606 | 10.7 | /mnt/stockage/packages/f20/yelp/po/is.po | 
- | [am]({{< ref "/f20/language/am.md" >}}) | 51 | 606 | 8.4 | /mnt/stockage/packages/f20/yelp/po/am.po | 
- | [li]({{< ref "/f20/language/li.md" >}}) | 51 | 606 | 8.4 | /mnt/stockage/packages/f20/yelp/po/li.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 84 | 1009 | 8.3 | /mnt/stockage/packages/f20/yelp/po/si.po | 
- | [rw]({{< ref "/f20/language/rw.md" >}}) | 26 | 597 | 4.4 | /mnt/stockage/packages/f20/yelp/po/rw.po | 
- | [la]({{< ref "/f20/language/la.md" >}}) | 13 | 1035 | 1.3 | /mnt/stockage/packages/f20/yelp/po/la.po | 
+ | [as](/f20/language/as) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/as.po | 
+ | [ast](/f20/language/ast) | 488 | 488 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ast.po | 
+ | [be](/f20/language/be) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/be.po | 
+ | [bg](/f20/language/bg) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/bg.po | 
+ | [bn](/f20/language/bn) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f20/yelp/po/bn.po | 
+ | [bn_IN](/f20/language/bn_IN) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/bn_IN.po | 
+ | [ca](/f20/language/ca) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ca.po | 
+ | [ca@valencia](/f20/language/ca@valencia) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ca@valencia.po | 
+ | [crh](/f20/language/crh) | 1094 | 1094 | 100.0 | /mnt/stockage/packages/f20/yelp/po/crh.po | 
+ | [cs](/f20/language/cs) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/cs.po | 
+ | [cy](/f20/language/cy) | 956 | 956 | 100.0 | /mnt/stockage/packages/f20/yelp/po/cy.po | 
+ | [da](/f20/language/da) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/da.po | 
+ | [de](/f20/language/de) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/de.po | 
+ | [dz](/f20/language/dz) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/yelp/po/dz.po | 
+ | [el](/f20/language/el) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/el.po | 
+ | [en_CA](/f20/language/en_CA) | 792 | 792 | 100.0 | /mnt/stockage/packages/f20/yelp/po/en_CA.po | 
+ | [en_US](/f20/language/en_US) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ta.po | 
+ | [eo](/f20/language/eo) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f20/yelp/po/en_GB.po/mnt/stockage/packages/f20/yelp/po/eo.po | 
+ | [es](/f20/language/es) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/es.po | 
+ | [et](/f20/language/et) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/et.po | 
+ | [eu](/f20/language/eu) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/eu.po | 
+ | [fa](/f20/language/fa) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/fa.po | 
+ | [fi](/f20/language/fi) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/fi.po | 
+ | [fr](/f20/language/fr) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/fr.po | 
+ | [gl](/f20/language/gl) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/gl.po | 
+ | [gu](/f20/language/gu) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/gu.po | 
+ | [he](/f20/language/he) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/he.po | 
+ | [hi](/f20/language/hi) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/hi.po | 
+ | [hu](/f20/language/hu) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/hu.po | 
+ | [id](/f20/language/id) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/id.po | 
+ | [it](/f20/language/it) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/it.po | 
+ | [ja](/f20/language/ja) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ja.po | 
+ | [ka](/f20/language/ka) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ka.po | 
+ | [km](/f20/language/km) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/km.po | 
+ | [kn](/f20/language/kn) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/yelp/po/kn.po | 
+ | [ko](/f20/language/ko) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ko.po | 
+ | [ku](/f20/language/ku) | 956 | 956 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ku.po | 
+ | [ky](/f20/language/ky) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ky.po | 
+ | [lt](/f20/language/lt) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/lt.po | 
+ | [lv](/f20/language/lv) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/lv.po | 
+ | [mk](/f20/language/mk) | 502 | 502 | 100.0 | /mnt/stockage/packages/f20/yelp/po/mk.po | 
+ | [ml](/f20/language/ml) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ml.po | 
+ | [mr](/f20/language/mr) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/mr.po | 
+ | [nb_NO](/f20/language/nb_NO) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nb.po | 
+ | [nds](/f20/language/nds) | 316 | 316 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nds.po | 
+ | [ne](/f20/language/ne) | 837 | 837 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ne.po | 
+ | [nl](/f20/language/nl) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nl.po | 
+ | [nn](/f20/language/nn) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f20/yelp/po/nn.po | 
+ | [oc](/f20/language/oc) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f20/yelp/po/oc.po | 
+ | [or](/f20/language/or) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/or.po | 
+ | [pa](/f20/language/pa) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pa.po | 
+ | [pl](/f20/language/pl) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pl.po | 
+ | [pt](/f20/language/pt) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 510 | 510 | 100.0 | /mnt/stockage/packages/f20/yelp/po/pt_BR.po | 
+ | [ro](/f20/language/ro) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ro.po | 
+ | [ru](/f20/language/ru) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ru.po | 
+ | [sk](/f20/language/sk) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sk.po | 
+ | [sl](/f20/language/sl) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sl.po | 
+ | [sq](/f20/language/sq) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sq.po | 
+ | [sr](/f20/language/sr) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sr.po/mnt/stockage/packages/f20/yelp/po/sr@latin.po | 
+ | [sv](/f20/language/sv) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/sv.po | 
+ | [te](/f20/language/te) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/te.po | 
+ | [tg](/f20/language/tg) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/tg.po | 
+ | [th](/f20/language/th) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/th.po | 
+ | [tr](/f20/language/tr) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/tr.po | 
+ | [ug](/f20/language/ug) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/ug.po | 
+ | [uk](/f20/language/uk) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/uk.po | 
+ | [vi](/f20/language/vi) | 506 | 506 | 100.0 | /mnt/stockage/packages/f20/yelp/po/vi.po | 
+ | [wa](/f20/language/wa) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/yelp/po/wa.po | 
+ | [xh](/f20/language/xh) | 597 | 597 | 100.0 | /mnt/stockage/packages/f20/yelp/po/xh.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/zh_TW.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 507 | 507 | 100.0 | /mnt/stockage/packages/f20/yelp/po/zh_HK.po | 
+ | [be_Latn](/f20/language/be_Latn) | 1032 | 1035 | 99.7 | /mnt/stockage/packages/f20/yelp/po/be@latin.po | 
+ | [mg](/f20/language/mg) | 941 | 957 | 98.3 | /mnt/stockage/packages/f20/yelp/po/mg.po | 
+ | [ar](/f20/language/ar) | 489 | 507 | 96.4 | /mnt/stockage/packages/f20/yelp/po/ar.po | 
+ | [af](/f20/language/af) | 780 | 900 | 86.7 | /mnt/stockage/packages/f20/yelp/po/af.po | 
+ | [ks](/f20/language/ks) | 753 | 1035 | 72.8 | /mnt/stockage/packages/f20/yelp/po/ks.po | 
+ | [mai](/f20/language/mai) | 571 | 1035 | 55.2 | /mnt/stockage/packages/f20/yelp/po/mai.po | 
+ | [uz](/f20/language/uz) | 1140 | 2070 | 55.1 | /mnt/stockage/packages/f20/yelp/po/uz@cyrillic.po/mnt/stockage/packages/f20/yelp/po/uz.po | 
+ | [fur](/f20/language/fur) | 177 | 506 | 35.0 | /mnt/stockage/packages/f20/yelp/po/fur.po | 
+ | [ga](/f20/language/ga) | 155 | 507 | 30.6 | /mnt/stockage/packages/f20/yelp/po/ga.po | 
+ | [ms](/f20/language/ms) | 172 | 606 | 28.4 | /mnt/stockage/packages/f20/yelp/po/ms.po | 
+ | [hr](/f20/language/hr) | 277 | 1035 | 26.8 | /mnt/stockage/packages/f20/yelp/po/hr.po | 
+ | [ps](/f20/language/ps) | 268 | 1035 | 25.9 | /mnt/stockage/packages/f20/yelp/po/ps.po | 
+ | [nso](/f20/language/nso) | 110 | 606 | 18.2 | /mnt/stockage/packages/f20/yelp/po/nso.po | 
+ | [kk](/f20/language/kk) | 184 | 1094 | 16.8 | /mnt/stockage/packages/f20/yelp/po/kk.po | 
+ | [br](/f20/language/br) | 176 | 1094 | 16.1 | /mnt/stockage/packages/f20/yelp/po/br.po | 
+ | [az](/f20/language/az) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/az.po | 
+ | [bs](/f20/language/bs) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/bs.po | 
+ | [mn](/f20/language/mn) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/mn.po | 
+ | [zu](/f20/language/zu) | 92 | 606 | 15.2 | /mnt/stockage/packages/f20/yelp/po/zu.po | 
+ | [is](/f20/language/is) | 65 | 606 | 10.7 | /mnt/stockage/packages/f20/yelp/po/is.po | 
+ | [am](/f20/language/am) | 51 | 606 | 8.4 | /mnt/stockage/packages/f20/yelp/po/am.po | 
+ | [li](/f20/language/li) | 51 | 606 | 8.4 | /mnt/stockage/packages/f20/yelp/po/li.po | 
+ | [si](/f20/language/si) | 84 | 1009 | 8.3 | /mnt/stockage/packages/f20/yelp/po/si.po | 
+ | [rw](/f20/language/rw) | 26 | 597 | 4.4 | /mnt/stockage/packages/f20/yelp/po/rw.po | 
+ | [la](/f20/language/la) | 13 | 1035 | 1.3 | /mnt/stockage/packages/f20/yelp/po/la.po | 
 {.sortable}
 
 

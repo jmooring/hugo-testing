@@ -18,14 +18,14 @@ The package denemo (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 4756 | 5091 | 93.4 | /mnt/stockage/packages/f15/denemo/po/cs.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 4638 | 5091 | 91.1 | /mnt/stockage/packages/f15/denemo/po/ja.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 3073 | 5091 | 60.4 | /mnt/stockage/packages/f15/denemo/po/pl.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1999 | 5091 | 39.3 | /mnt/stockage/packages/f15/denemo/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 357 | 5091 | 7.0 | /mnt/stockage/packages/f15/denemo/po/fr.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 67 | 5091 | 1.3 | /mnt/stockage/packages/f15/denemo/po/sv.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 0 | 5091 | 0.0 | /mnt/stockage/packages/f15/denemo/po/es.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 0 | 5091 | 0.0 | /mnt/stockage/packages/f15/denemo/po/it.po | 
+ | [cs](/f15/language/cs) | 4756 | 5091 | 93.4 | /mnt/stockage/packages/f15/denemo/po/cs.po | 
+ | [ja](/f15/language/ja) | 4638 | 5091 | 91.1 | /mnt/stockage/packages/f15/denemo/po/ja.po | 
+ | [pl](/f15/language/pl) | 3073 | 5091 | 60.4 | /mnt/stockage/packages/f15/denemo/po/pl.po | 
+ | [de](/f15/language/de) | 1999 | 5091 | 39.3 | /mnt/stockage/packages/f15/denemo/po/de.po | 
+ | [fr](/f15/language/fr) | 357 | 5091 | 7.0 | /mnt/stockage/packages/f15/denemo/po/fr.po | 
+ | [sv](/f15/language/sv) | 67 | 5091 | 1.3 | /mnt/stockage/packages/f15/denemo/po/sv.po | 
+ | [es](/f15/language/es) | 0 | 5091 | 0.0 | /mnt/stockage/packages/f15/denemo/po/es.po | 
+ | [it](/f15/language/it) | 0 | 5091 | 0.0 | /mnt/stockage/packages/f15/denemo/po/it.po | 
 {.sortable}
 
 

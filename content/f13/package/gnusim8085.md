@@ -18,15 +18,15 @@ The package gnusim8085 (version 1.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 578 | 588 | 98.3 | /mnt/stockage/packages/f13/gnusim8085/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 572 | 588 | 97.3 | /mnt/stockage/packages/f13/gnusim8085/po/fr.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 541 | 588 | 92.0 | /mnt/stockage/packages/f13/gnusim8085/po/es.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 529 | 588 | 90.0 | /mnt/stockage/packages/f13/gnusim8085/po/gu.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 396 | 588 | 67.3 | /mnt/stockage/packages/f13/gnusim8085/po/kn.po | 
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 292 | 588 | 49.7 | /mnt/stockage/packages/f13/gnusim8085/po/eo.po | 
- | [ast]({{< ref "/f13/language/ast.md" >}}) | 288 | 588 | 49.0 | /mnt/stockage/packages/f13/gnusim8085/po/ast.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 224 | 588 | 38.1 | /mnt/stockage/packages/f13/gnusim8085/po/it.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 163 | 588 | 27.7 | /mnt/stockage/packages/f13/gnusim8085/po/ar.po | 
+ | [de](/f13/language/de) | 578 | 588 | 98.3 | /mnt/stockage/packages/f13/gnusim8085/po/de.po | 
+ | [fr](/f13/language/fr) | 572 | 588 | 97.3 | /mnt/stockage/packages/f13/gnusim8085/po/fr.po | 
+ | [es](/f13/language/es) | 541 | 588 | 92.0 | /mnt/stockage/packages/f13/gnusim8085/po/es.po | 
+ | [gu](/f13/language/gu) | 529 | 588 | 90.0 | /mnt/stockage/packages/f13/gnusim8085/po/gu.po | 
+ | [kn](/f13/language/kn) | 396 | 588 | 67.3 | /mnt/stockage/packages/f13/gnusim8085/po/kn.po | 
+ | [eo](/f13/language/eo) | 292 | 588 | 49.7 | /mnt/stockage/packages/f13/gnusim8085/po/eo.po | 
+ | [ast](/f13/language/ast) | 288 | 588 | 49.0 | /mnt/stockage/packages/f13/gnusim8085/po/ast.po | 
+ | [it](/f13/language/it) | 224 | 588 | 38.1 | /mnt/stockage/packages/f13/gnusim8085/po/it.po | 
+ | [ar](/f13/language/ar) | 163 | 588 | 27.7 | /mnt/stockage/packages/f13/gnusim8085/po/ar.po | 
 {.sortable}
 
 

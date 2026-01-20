@@ -18,16 +18,16 @@ The package trytond-account (version 2.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 2297 | 2297 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/ca_ES.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2324 | 2324 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/de_DE.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/es_ES.po | 
- | [es_AR]({{< ref "/f24/language/es_AR.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/es_AR.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2961 | 2967 | 99.8 | /mnt/stockage/packages/f24/trytond-account/locale/fr_FR.po | 
- | [es_CO]({{< ref "/f24/language/es_CO.md" >}}) | 2313 | 2327 | 99.4 | /mnt/stockage/packages/f24/trytond-account/locale/es_CO.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 2279 | 2322 | 98.1 | /mnt/stockage/packages/f24/trytond-account/locale/bg_BG.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1478 | 2322 | 63.7 | /mnt/stockage/packages/f24/trytond-account/locale/nl_NL.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 0 | 2322 | 0.0 | /mnt/stockage/packages/f24/trytond-account/locale/cs_CZ.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 2322 | 0.0 | /mnt/stockage/packages/f24/trytond-account/locale/ru_RU.po | 
+ | [ca](/f24/language/ca) | 2297 | 2297 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/ca_ES.po | 
+ | [de](/f24/language/de) | 2324 | 2324 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/de_DE.po | 
+ | [es](/f24/language/es) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/es_ES.po | 
+ | [es_AR](/f24/language/es_AR) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f24/trytond-account/locale/es_AR.po | 
+ | [fr](/f24/language/fr) | 2961 | 2967 | 99.8 | /mnt/stockage/packages/f24/trytond-account/locale/fr_FR.po | 
+ | [es_CO](/f24/language/es_CO) | 2313 | 2327 | 99.4 | /mnt/stockage/packages/f24/trytond-account/locale/es_CO.po | 
+ | [bg](/f24/language/bg) | 2279 | 2322 | 98.1 | /mnt/stockage/packages/f24/trytond-account/locale/bg_BG.po | 
+ | [nl](/f24/language/nl) | 1478 | 2322 | 63.7 | /mnt/stockage/packages/f24/trytond-account/locale/nl_NL.po | 
+ | [cs](/f24/language/cs) | 0 | 2322 | 0.0 | /mnt/stockage/packages/f24/trytond-account/locale/cs_CZ.po | 
+ | [ru](/f24/language/ru) | 0 | 2322 | 0.0 | /mnt/stockage/packages/f24/trytond-account/locale/ru_RU.po | 
 {.sortable}
 
 

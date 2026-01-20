@@ -18,33 +18,33 @@ The package xfce4-statusnotifier-plugin (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/bg.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/fr.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/he.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/hr.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/id.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ko.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/lt.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/nb.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/pl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ru.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sk.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sr.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/tr.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/zh_TW.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 116 | 129 | 89.9 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sl.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 67 | 129 | 51.9 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/uk.po | 
+ | [bg](/f30/language/bg) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/bg.po | 
+ | [ca](/f30/language/ca) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ca.po | 
+ | [cs](/f30/language/cs) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/cs.po | 
+ | [da](/f30/language/da) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/da.po | 
+ | [de](/f30/language/de) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/de.po | 
+ | [es](/f30/language/es) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/es.po | 
+ | [fr](/f30/language/fr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/fr.po | 
+ | [he](/f30/language/he) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/he.po | 
+ | [hr](/f30/language/hr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/hr.po | 
+ | [id](/f30/language/id) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/id.po | 
+ | [ko](/f30/language/ko) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ko.po | 
+ | [lt](/f30/language/lt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/lt.po | 
+ | [ms](/f30/language/ms) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ms.po | 
+ | [nb_NO](/f30/language/nb_NO) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/nb.po | 
+ | [nl](/f30/language/nl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/nl.po | 
+ | [pl](/f30/language/pl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/pl.po | 
+ | [pt](/f30/language/pt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/ru.po | 
+ | [sk](/f30/language/sk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sk.po | 
+ | [sr](/f30/language/sr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sr.po | 
+ | [sv](/f30/language/sv) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sv.po | 
+ | [tr](/f30/language/tr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/tr.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 129 | 129 | 100.0 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/zh_TW.po | 
+ | [sl](/f30/language/sl) | 116 | 129 | 89.9 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/sl.po | 
+ | [uk](/f30/language/uk) | 67 | 129 | 51.9 | /mnt/stockage/packages/f30/xfce4-statusnotifier-plugin/po/uk.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package seamonkey (version 2.49.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/seamonkey/seamonkey-2.49.3/mozilla/python/mach/mach/locale/en_US/LC_MESSAGES/alias.po/mnt/stockage/packages/f26/seamonkey/seamonkey-2.49.3/mozilla/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f26/language/en_US) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/seamonkey/seamonkey-2.49.3/mozilla/python/mach/mach/locale/en_US/LC_MESSAGES/alias.po/mnt/stockage/packages/f26/seamonkey/seamonkey-2.49.3/mozilla/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

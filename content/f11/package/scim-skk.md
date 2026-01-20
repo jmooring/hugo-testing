@@ -18,7 +18,7 @@ The package scim-skk (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f11/scim-skk/po/ja.po | 
+ | [ja](/f11/language/ja) | 354 | 354 | 100.0 | /mnt/stockage/packages/f11/scim-skk/po/ja.po | 
 {.sortable}
 
 

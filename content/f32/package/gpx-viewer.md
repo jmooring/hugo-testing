@@ -18,17 +18,17 @@ The package gpx-viewer (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f32/gpx-viewer/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/es.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/it.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/ru.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 52 | 108 | 48.1 | /mnt/stockage/packages/f32/gpx-viewer/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 51 | 108 | 47.2 | /mnt/stockage/packages/f32/gpx-viewer/po/zh_CN.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 36 | 108 | 33.3 | /mnt/stockage/packages/f32/gpx-viewer/po/el.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 31 | 108 | 28.7 | /mnt/stockage/packages/f32/gpx-viewer/po/ar.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 24 | 108 | 22.2 | /mnt/stockage/packages/f32/gpx-viewer/po/fr.po | 
+ | [cs](/f32/language/cs) | 108 | 108 | 100.0 | /mnt/stockage/packages/f32/gpx-viewer/po/cs.po | 
+ | [de](/f32/language/de) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/de.po | 
+ | [es](/f32/language/es) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/es.po | 
+ | [hu](/f32/language/hu) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/hu.po | 
+ | [it](/f32/language/it) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/it.po | 
+ | [ru](/f32/language/ru) | 85 | 108 | 78.7 | /mnt/stockage/packages/f32/gpx-viewer/po/ru.po | 
+ | [uk](/f32/language/uk) | 52 | 108 | 48.1 | /mnt/stockage/packages/f32/gpx-viewer/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 51 | 108 | 47.2 | /mnt/stockage/packages/f32/gpx-viewer/po/zh_CN.po | 
+ | [el](/f32/language/el) | 36 | 108 | 33.3 | /mnt/stockage/packages/f32/gpx-viewer/po/el.po | 
+ | [ar](/f32/language/ar) | 31 | 108 | 28.7 | /mnt/stockage/packages/f32/gpx-viewer/po/ar.po | 
+ | [fr](/f32/language/fr) | 24 | 108 | 22.2 | /mnt/stockage/packages/f32/gpx-viewer/po/fr.po | 
 {.sortable}
 
 

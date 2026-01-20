@@ -18,8 +18,8 @@ The package jbigkit (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f24/jbigkit/libjbig/po/de.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f24/jbigkit/libjbig/po/ru.po | 
+ | [de](/f24/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f24/jbigkit/libjbig/po/de.po | 
+ | [ru](/f24/language/ru) | 44 | 44 | 100.0 | /mnt/stockage/packages/f24/jbigkit/libjbig/po/ru.po | 
 {.sortable}
 
 

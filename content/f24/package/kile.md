@@ -18,46 +18,46 @@ The package kile (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/cs/messages/kile.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/el/messages/kile.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/x-test/messages/kile.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/es/messages/kile.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/it/messages/kile.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/nl/messages/kile.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/pt_BR/messages/kile.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/sv/messages/kile.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/uk/messages/kile.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 11152 | 11173 | 99.8 | /mnt/stockage/packages/f24/kile/translations/nb/messages/kile.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 11002 | 11162 | 98.6 | /mnt/stockage/packages/f24/kile/translations/da/messages/kile.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 11002 | 11162 | 98.6 | /mnt/stockage/packages/f24/kile/translations/pl/messages/kile.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 11002 | 11162 | 98.6 | /mnt/stockage/packages/f24/kile/translations/pt/messages/kile.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 10999 | 11162 | 98.5 | /mnt/stockage/packages/f24/kile/translations/kk/messages/kile.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 10984 | 11162 | 98.4 | /mnt/stockage/packages/f24/kile/translations/de/messages/kile.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 10978 | 11162 | 98.4 | /mnt/stockage/packages/f24/kile/translations/et/messages/kile.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 21908 | 22324 | 98.1 | /mnt/stockage/packages/f24/kile/translations/ca/messages/kile.po/mnt/stockage/packages/f24/kile/translations/ca@valencia/messages/kile.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 10952 | 11162 | 98.1 | /mnt/stockage/packages/f24/kile/translations/nds/messages/kile.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 10753 | 11162 | 96.3 | /mnt/stockage/packages/f24/kile/translations/fr/messages/kile.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 10727 | 11162 | 96.1 | /mnt/stockage/packages/f24/kile/translations/en_GB/messages/kile.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 9591 | 11162 | 85.9 | /mnt/stockage/packages/f24/kile/translations/ja/messages/kile.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 8852 | 11162 | 79.3 | /mnt/stockage/packages/f24/kile/translations/fi/messages/kile.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 8486 | 11162 | 76.0 | /mnt/stockage/packages/f24/kile/translations/gl/messages/kile.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 8400 | 11162 | 75.3 | /mnt/stockage/packages/f24/kile/translations/tr/messages/kile.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 8120 | 11173 | 72.7 | /mnt/stockage/packages/f24/kile/translations/nn/messages/kile.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 7501 | 11162 | 67.2 | /mnt/stockage/packages/f24/kile/translations/zh_CN/messages/kile.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 6425 | 11162 | 57.6 | /mnt/stockage/packages/f24/kile/translations/bg/messages/kile.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 5880 | 11162 | 52.7 | /mnt/stockage/packages/f24/kile/translations/ru/messages/kile.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 5307 | 11162 | 47.5 | /mnt/stockage/packages/f24/kile/translations/bs/messages/kile.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 4177 | 11162 | 37.4 | /mnt/stockage/packages/f24/kile/translations/ga/messages/kile.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 4105 | 11162 | 36.8 | /mnt/stockage/packages/f24/kile/translations/zh_TW/messages/kile.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 2844 | 11162 | 25.5 | /mnt/stockage/packages/f24/kile/translations/lt/messages/kile.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 5627 | 22324 | 25.2 | /mnt/stockage/packages/f24/kile/translations/hne/messages/kile.po/mnt/stockage/packages/f24/kile/translations/hi/messages/kile.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 685 | 11162 | 6.1 | /mnt/stockage/packages/f24/kile/translations/sk/messages/kile.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 576 | 11162 | 5.2 | /mnt/stockage/packages/f24/kile/translations/ro/messages/kile.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 535 | 11162 | 4.8 | /mnt/stockage/packages/f24/kile/translations/ug/messages/kile.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 465 | 11162 | 4.2 | /mnt/stockage/packages/f24/kile/translations/eo/messages/kile.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 316 | 11162 | 2.8 | /mnt/stockage/packages/f24/kile/translations/mai/messages/kile.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 37 | 11162 | 0.3 | /mnt/stockage/packages/f24/kile/translations/ms/messages/kile.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 34 | 11162 | 0.3 | /mnt/stockage/packages/f24/kile/translations/hu/messages/kile.po | 
+ | [cs](/f24/language/cs) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/cs/messages/kile.po | 
+ | [el](/f24/language/el) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/el/messages/kile.po | 
+ | [error](/f24/language/error) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/x-test/messages/kile.po | 
+ | [es](/f24/language/es) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/es/messages/kile.po | 
+ | [it](/f24/language/it) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/it/messages/kile.po | 
+ | [nl](/f24/language/nl) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/nl/messages/kile.po | 
+ | [pt_BR](/f24/language/pt_BR) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/pt_BR/messages/kile.po | 
+ | [sv](/f24/language/sv) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/sv/messages/kile.po | 
+ | [uk](/f24/language/uk) | 11162 | 11162 | 100.0 | /mnt/stockage/packages/f24/kile/translations/uk/messages/kile.po | 
+ | [nb_NO](/f24/language/nb_NO) | 11152 | 11173 | 99.8 | /mnt/stockage/packages/f24/kile/translations/nb/messages/kile.po | 
+ | [da](/f24/language/da) | 11002 | 11162 | 98.6 | /mnt/stockage/packages/f24/kile/translations/da/messages/kile.po | 
+ | [pl](/f24/language/pl) | 11002 | 11162 | 98.6 | /mnt/stockage/packages/f24/kile/translations/pl/messages/kile.po | 
+ | [pt](/f24/language/pt) | 11002 | 11162 | 98.6 | /mnt/stockage/packages/f24/kile/translations/pt/messages/kile.po | 
+ | [kk](/f24/language/kk) | 10999 | 11162 | 98.5 | /mnt/stockage/packages/f24/kile/translations/kk/messages/kile.po | 
+ | [de](/f24/language/de) | 10984 | 11162 | 98.4 | /mnt/stockage/packages/f24/kile/translations/de/messages/kile.po | 
+ | [et](/f24/language/et) | 10978 | 11162 | 98.4 | /mnt/stockage/packages/f24/kile/translations/et/messages/kile.po | 
+ | [ca](/f24/language/ca) | 21908 | 22324 | 98.1 | /mnt/stockage/packages/f24/kile/translations/ca/messages/kile.po/mnt/stockage/packages/f24/kile/translations/ca@valencia/messages/kile.po | 
+ | [nds](/f24/language/nds) | 10952 | 11162 | 98.1 | /mnt/stockage/packages/f24/kile/translations/nds/messages/kile.po | 
+ | [fr](/f24/language/fr) | 10753 | 11162 | 96.3 | /mnt/stockage/packages/f24/kile/translations/fr/messages/kile.po | 
+ | [en_GB](/f24/language/en_GB) | 10727 | 11162 | 96.1 | /mnt/stockage/packages/f24/kile/translations/en_GB/messages/kile.po | 
+ | [ja](/f24/language/ja) | 9591 | 11162 | 85.9 | /mnt/stockage/packages/f24/kile/translations/ja/messages/kile.po | 
+ | [fi](/f24/language/fi) | 8852 | 11162 | 79.3 | /mnt/stockage/packages/f24/kile/translations/fi/messages/kile.po | 
+ | [gl](/f24/language/gl) | 8486 | 11162 | 76.0 | /mnt/stockage/packages/f24/kile/translations/gl/messages/kile.po | 
+ | [tr](/f24/language/tr) | 8400 | 11162 | 75.3 | /mnt/stockage/packages/f24/kile/translations/tr/messages/kile.po | 
+ | [nn](/f24/language/nn) | 8120 | 11173 | 72.7 | /mnt/stockage/packages/f24/kile/translations/nn/messages/kile.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 7501 | 11162 | 67.2 | /mnt/stockage/packages/f24/kile/translations/zh_CN/messages/kile.po | 
+ | [bg](/f24/language/bg) | 6425 | 11162 | 57.6 | /mnt/stockage/packages/f24/kile/translations/bg/messages/kile.po | 
+ | [ru](/f24/language/ru) | 5880 | 11162 | 52.7 | /mnt/stockage/packages/f24/kile/translations/ru/messages/kile.po | 
+ | [bs](/f24/language/bs) | 5307 | 11162 | 47.5 | /mnt/stockage/packages/f24/kile/translations/bs/messages/kile.po | 
+ | [ga](/f24/language/ga) | 4177 | 11162 | 37.4 | /mnt/stockage/packages/f24/kile/translations/ga/messages/kile.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 4105 | 11162 | 36.8 | /mnt/stockage/packages/f24/kile/translations/zh_TW/messages/kile.po | 
+ | [lt](/f24/language/lt) | 2844 | 11162 | 25.5 | /mnt/stockage/packages/f24/kile/translations/lt/messages/kile.po | 
+ | [hi](/f24/language/hi) | 5627 | 22324 | 25.2 | /mnt/stockage/packages/f24/kile/translations/hne/messages/kile.po/mnt/stockage/packages/f24/kile/translations/hi/messages/kile.po | 
+ | [sk](/f24/language/sk) | 685 | 11162 | 6.1 | /mnt/stockage/packages/f24/kile/translations/sk/messages/kile.po | 
+ | [ro](/f24/language/ro) | 576 | 11162 | 5.2 | /mnt/stockage/packages/f24/kile/translations/ro/messages/kile.po | 
+ | [ug](/f24/language/ug) | 535 | 11162 | 4.8 | /mnt/stockage/packages/f24/kile/translations/ug/messages/kile.po | 
+ | [eo](/f24/language/eo) | 465 | 11162 | 4.2 | /mnt/stockage/packages/f24/kile/translations/eo/messages/kile.po | 
+ | [mai](/f24/language/mai) | 316 | 11162 | 2.8 | /mnt/stockage/packages/f24/kile/translations/mai/messages/kile.po | 
+ | [ms](/f24/language/ms) | 37 | 11162 | 0.3 | /mnt/stockage/packages/f24/kile/translations/ms/messages/kile.po | 
+ | [hu](/f24/language/hu) | 34 | 11162 | 0.3 | /mnt/stockage/packages/f24/kile/translations/hu/messages/kile.po | 
 {.sortable}
 
 

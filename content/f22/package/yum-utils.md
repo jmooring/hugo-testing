@@ -18,7 +18,7 @@ The package yum-utils (version 1.1.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f22/yum-utils/po/da.po | 
+ | [da](/f22/language/da) | 21 | 21 | 100.0 | /mnt/stockage/packages/f22/yum-utils/po/da.po | 
 {.sortable}
 
 

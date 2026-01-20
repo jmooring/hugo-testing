@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-panel]({{< ref "/f18/package/gnome-panel.md" >}}) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
- | [mate-panel]({{< ref "/f18/package/mate-panel.md" >}}) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
- | [epiphany]({{< ref "/f18/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [mate-file-manager]({{< ref "/f18/package/mate-file-manager.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [nautilus]({{< ref "/f18/package/nautilus.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [nemo]({{< ref "/f18/package/nemo.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f18/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f18/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [mate-menus]({{< ref "/f18/package/mate-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f18/package/gdm.md" >}}) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
- | [transmission]({{< ref "/f18/package/transmission.md" >}}) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
- | [stellarium]({{< ref "/f18/package/stellarium.md" >}}) | 9 | 8257 | 0.1 | Manx <gv@li.org> | 
+ | [gnome-panel](/f18/package/gnome-panel) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
+ | [mate-panel](/f18/package/mate-panel) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
+ | [epiphany](/f18/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [mate-file-manager](/f18/package/mate-file-manager) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [nautilus](/f18/package/nautilus) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [nemo](/f18/package/nemo) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f18/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [gnome-menus](/f18/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [mate-menus](/f18/package/mate-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gdm](/f18/package/gdm) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
+ | [transmission](/f18/package/transmission) | 27 | 1809 | 1.5 | Manx <gv@li.org> | 
+ | [stellarium](/f18/package/stellarium) | 9 | 8257 | 0.1 | Manx <gv@li.org> | 
 {.sortable}
 
 

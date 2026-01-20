@@ -18,11 +18,11 @@ The package x-tile (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/it.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/ru.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/zh_TW.po | 
+ | [de](/f11/language/de) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/de.po | 
+ | [fr](/f11/language/fr) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/fr.po | 
+ | [it](/f11/language/it) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/it.po | 
+ | [ru](/f11/language/ru) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/ru.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 510 | 510 | 100.0 | /mnt/stockage/packages/f11/x-tile/locale/zh_TW.po | 
 {.sortable}
 
 

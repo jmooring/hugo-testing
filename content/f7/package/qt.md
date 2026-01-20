@@ -18,10 +18,10 @@ The package qt (version 3.3.8b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f7/language/en.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/en.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 483 | 483 | 100.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/ko.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/no.po | 
+ | [en](/f7/language/en) | 482 | 482 | 100.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/en.po | 
+ | [ja](/f7/language/ja) | 482 | 482 | 100.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/ja.po | 
+ | [ko](/f7/language/ko) | 483 | 483 | 100.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/ko.po | 
+ | [nb_NO](/f7/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/qt/examples/demo/i18n/no.po | 
 {.sortable}
 
 

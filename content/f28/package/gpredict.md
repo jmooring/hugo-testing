@@ -18,21 +18,21 @@ The package gpredict (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 6124 | 6124 | 100.0 | /mnt/stockage/packages/f28/gpredict/po/de.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f28/gpredict/po/cs.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f28/gpredict/po/en_GB.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3873 | 6124 | 63.2 | /mnt/stockage/packages/f28/gpredict/po/es.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3027 | 6124 | 49.4 | /mnt/stockage/packages/f28/gpredict/po/ru.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2581 | 6124 | 42.1 | /mnt/stockage/packages/f28/gpredict/po/fr.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 1886 | 6124 | 30.8 | /mnt/stockage/packages/f28/gpredict/po/lt.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 1389 | 6124 | 22.7 | /mnt/stockage/packages/f28/gpredict/po/da.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1082 | 6124 | 17.7 | /mnt/stockage/packages/f28/gpredict/po/it.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 805 | 6124 | 13.1 | /mnt/stockage/packages/f28/gpredict/po/fi.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 482 | 6124 | 7.9 | /mnt/stockage/packages/f28/gpredict/po/el.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 329 | 6124 | 5.4 | /mnt/stockage/packages/f28/gpredict/po/id.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 67 | 6124 | 1.1 | /mnt/stockage/packages/f28/gpredict/po/th.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 45 | 6124 | 0.7 | /mnt/stockage/packages/f28/gpredict/po/uk.po | 
- | [en_US]({{< ref "/f28/language/en_US.md" >}}) | 0 | 6124 | 0.0 | /mnt/stockage/packages/f28/gpredict/po/en_US.po | 
+ | [de](/f28/language/de) | 6124 | 6124 | 100.0 | /mnt/stockage/packages/f28/gpredict/po/de.po | 
+ | [cs](/f28/language/cs) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f28/gpredict/po/cs.po | 
+ | [en_GB](/f28/language/en_GB) | 5042 | 6124 | 82.3 | /mnt/stockage/packages/f28/gpredict/po/en_GB.po | 
+ | [es](/f28/language/es) | 3873 | 6124 | 63.2 | /mnt/stockage/packages/f28/gpredict/po/es.po | 
+ | [ru](/f28/language/ru) | 3027 | 6124 | 49.4 | /mnt/stockage/packages/f28/gpredict/po/ru.po | 
+ | [fr](/f28/language/fr) | 2581 | 6124 | 42.1 | /mnt/stockage/packages/f28/gpredict/po/fr.po | 
+ | [lt](/f28/language/lt) | 1886 | 6124 | 30.8 | /mnt/stockage/packages/f28/gpredict/po/lt.po | 
+ | [da](/f28/language/da) | 1389 | 6124 | 22.7 | /mnt/stockage/packages/f28/gpredict/po/da.po | 
+ | [it](/f28/language/it) | 1082 | 6124 | 17.7 | /mnt/stockage/packages/f28/gpredict/po/it.po | 
+ | [fi](/f28/language/fi) | 805 | 6124 | 13.1 | /mnt/stockage/packages/f28/gpredict/po/fi.po | 
+ | [el](/f28/language/el) | 482 | 6124 | 7.9 | /mnt/stockage/packages/f28/gpredict/po/el.po | 
+ | [id](/f28/language/id) | 329 | 6124 | 5.4 | /mnt/stockage/packages/f28/gpredict/po/id.po | 
+ | [th](/f28/language/th) | 67 | 6124 | 1.1 | /mnt/stockage/packages/f28/gpredict/po/th.po | 
+ | [uk](/f28/language/uk) | 45 | 6124 | 0.7 | /mnt/stockage/packages/f28/gpredict/po/uk.po | 
+ | [en_US](/f28/language/en_US) | 0 | 6124 | 0.0 | /mnt/stockage/packages/f28/gpredict/po/en_US.po | 
 {.sortable}
 
 

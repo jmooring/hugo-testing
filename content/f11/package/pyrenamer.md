@@ -18,10 +18,10 @@ The package pyrenamer (version 0.6.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/de.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/en.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/fr.po | 
+ | [de](/f11/language/de) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/de.po | 
+ | [en](/f11/language/en) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/en.po | 
+ | [es](/f11/language/es) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/es.po | 
+ | [fr](/f11/language/fr) | 820 | 820 | 100.0 | /mnt/stockage/packages/f11/pyrenamer/po/fr.po | 
 {.sortable}
 
 

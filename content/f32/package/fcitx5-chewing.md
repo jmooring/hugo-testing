@@ -18,16 +18,16 @@ The package fcitx5-chewing (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f32/language/da.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f32/fcitx5-chewing/po/da.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f32/fcitx5-chewing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 58 | 62 | 93.5 | /mnt/stockage/packages/f32/fcitx5-chewing/po/zh_TW.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ca.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/de.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ko.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ru.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/tr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 38 | 62 | 61.3 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ja.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 2 | 62 | 3.2 | /mnt/stockage/packages/f32/fcitx5-chewing/po/he.po | 
+ | [da](/f32/language/da) | 62 | 62 | 100.0 | /mnt/stockage/packages/f32/fcitx5-chewing/po/da.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 62 | 62 | 100.0 | /mnt/stockage/packages/f32/fcitx5-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 58 | 62 | 93.5 | /mnt/stockage/packages/f32/fcitx5-chewing/po/zh_TW.po | 
+ | [ca](/f32/language/ca) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ca.po | 
+ | [de](/f32/language/de) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/de.po | 
+ | [ko](/f32/language/ko) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ko.po | 
+ | [ru](/f32/language/ru) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ru.po | 
+ | [tr](/f32/language/tr) | 55 | 62 | 88.7 | /mnt/stockage/packages/f32/fcitx5-chewing/po/tr.po | 
+ | [ja](/f32/language/ja) | 38 | 62 | 61.3 | /mnt/stockage/packages/f32/fcitx5-chewing/po/ja.po | 
+ | [he](/f32/language/he) | 2 | 62 | 3.2 | /mnt/stockage/packages/f32/fcitx5-chewing/po/he.po | 
 {.sortable}
 
 

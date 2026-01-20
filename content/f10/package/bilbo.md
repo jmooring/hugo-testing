@@ -18,10 +18,10 @@ The package bilbo (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 817 | 1297 | 63.0 | /mnt/stockage/packages/f10/bilbo/po/pl/bilbo.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 192 | 1297 | 14.8 | /mnt/stockage/packages/f10/bilbo/po/fa/bilbo.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 106 | 1297 | 8.2 | /mnt/stockage/packages/f10/bilbo/po/ar/bilbo.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 7 | 1297 | 0.5 | /mnt/stockage/packages/f10/bilbo/po/fr/bilbo.po | 
+ | [pl](/f10/language/pl) | 817 | 1297 | 63.0 | /mnt/stockage/packages/f10/bilbo/po/pl/bilbo.po | 
+ | [fa](/f10/language/fa) | 192 | 1297 | 14.8 | /mnt/stockage/packages/f10/bilbo/po/fa/bilbo.po | 
+ | [ar](/f10/language/ar) | 106 | 1297 | 8.2 | /mnt/stockage/packages/f10/bilbo/po/ar/bilbo.po | 
+ | [fr](/f10/language/fr) | 7 | 1297 | 0.5 | /mnt/stockage/packages/f10/bilbo/po/fr/bilbo.po | 
 {.sortable}
 
 

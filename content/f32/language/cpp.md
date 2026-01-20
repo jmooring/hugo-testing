@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f32/package/kde-i18n.md" >}}) | 10 | 10 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [sugar-turtleart]({{< ref "/f32/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [olpc-switch-desktop]({{< ref "/f32/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f32/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f32/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f32/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f32/package/sugar-finance.md" >}}) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f32/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f32/package/sugar-getiabooks.md" >}}) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f32/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f32/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f32/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f32/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f32/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f32/package/sugar-toolkit-gtk3.md" >}}) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f32/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f32/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kde-i18n](/f32/package/kde-i18n) | 10 | 10 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [sugar-turtleart](/f32/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [olpc-switch-desktop](/f32/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f32/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f32/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f32/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f32/package/sugar-finance) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f32/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f32/package/sugar-getiabooks) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f32/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f32/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f32/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f32/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f32/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f32/package/sugar-toolkit-gtk3) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f32/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f32/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

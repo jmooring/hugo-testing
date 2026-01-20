@@ -18,14 +18,14 @@ The package python-django-countries (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/de/LC_MESSAGES/django.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/hr/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/ru/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/es/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/fi/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/fr/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/pt_BR/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 0 | 480 | 0.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/en/LC_MESSAGES/django.po | 
+ | [de](/f20/language/de) | 480 | 480 | 100.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/de/LC_MESSAGES/django.po | 
+ | [hr](/f20/language/hr) | 480 | 480 | 100.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/hr/LC_MESSAGES/django.po | 
+ | [ru](/f20/language/ru) | 480 | 480 | 100.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/ru/LC_MESSAGES/django.po | 
+ | [es](/f20/language/es) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/es/LC_MESSAGES/django.po | 
+ | [fi](/f20/language/fi) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/fi/LC_MESSAGES/django.po | 
+ | [fr](/f20/language/fr) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/fr/LC_MESSAGES/django.po | 
+ | [pt_BR](/f20/language/pt_BR) | 479 | 480 | 99.8 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [en](/f20/language/en) | 0 | 480 | 0.0 | /mnt/stockage/packages/f20/python-django-countries/django_countries/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

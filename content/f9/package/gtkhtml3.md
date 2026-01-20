@@ -18,79 +18,79 @@ The package gtkhtml3 (version 3.18.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ar.po | 
- | [as]({{< ref "/f9/language/as.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/as.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/bg.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/bn.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/bn_IN.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/cs.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 927 | 927 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/cy.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/dz.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/el.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/en_GB.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sr@Latn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/es.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/gl.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/gu.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/hi.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/hu.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/id.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ja.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ka.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/lt.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/lv.po | 
- | [mg]({{< ref "/f9/language/mg.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mg.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mk.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ml.po | 
- | [mn]({{< ref "/f9/language/mn.md" >}}) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mn.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/nb.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/nl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/nn.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sv.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ta.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/th.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/vi.po | 
- | [xh]({{< ref "/f9/language/xh.md" >}}) | 949 | 949 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/xh.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/zh_HK.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 909 | 919 | 98.9 | /mnt/stockage/packages/f9/gtkhtml3/po/fa.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 893 | 921 | 97.0 | /mnt/stockage/packages/f9/gtkhtml3/po/he.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 903 | 949 | 95.2 | /mnt/stockage/packages/f9/gtkhtml3/po/az.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 890 | 949 | 93.8 | /mnt/stockage/packages/f9/gtkhtml3/po/ms.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 849 | 949 | 89.5 | /mnt/stockage/packages/f9/gtkhtml3/po/be.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 816 | 949 | 86.0 | /mnt/stockage/packages/f9/gtkhtml3/po/hr.po | 
- | [am]({{< ref "/f9/language/am.md" >}}) | 246 | 949 | 25.9 | /mnt/stockage/packages/f9/gtkhtml3/po/am.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 195 | 921 | 21.2 | /mnt/stockage/packages/f9/gtkhtml3/po/oc.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 147 | 912 | 16.1 | /mnt/stockage/packages/f9/gtkhtml3/po/or.po | 
- | [si]({{< ref "/f9/language/si.md" >}}) | 99 | 914 | 10.8 | /mnt/stockage/packages/f9/gtkhtml3/po/si.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 96 | 949 | 10.1 | /mnt/stockage/packages/f9/gtkhtml3/po/ga.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 82 | 949 | 8.6 | /mnt/stockage/packages/f9/gtkhtml3/po/rw.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 32 | 909 | 3.5 | /mnt/stockage/packages/f9/gtkhtml3/po/ku.po | 
+ | [ar](/f9/language/ar) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ar.po | 
+ | [as](/f9/language/as) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/as.po | 
+ | [bg](/f9/language/bg) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/bg.po | 
+ | [bn](/f9/language/bn) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/bn.po | 
+ | [bn_IN](/f9/language/bn_IN) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/bn_IN.po | 
+ | [ca](/f9/language/ca) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ca.po | 
+ | [cs](/f9/language/cs) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/cs.po | 
+ | [cy](/f9/language/cy) | 927 | 927 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/cy.po | 
+ | [da](/f9/language/da) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/da.po | 
+ | [de](/f9/language/de) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/de.po | 
+ | [dz](/f9/language/dz) | 947 | 947 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/dz.po | 
+ | [el](/f9/language/el) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/el.po | 
+ | [en_CA](/f9/language/en_CA) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/en_GB.po | 
+ | [error](/f9/language/error) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sr@Latn.po | 
+ | [es](/f9/language/es) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/es.po | 
+ | [et](/f9/language/et) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/et.po | 
+ | [eu](/f9/language/eu) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/eu.po | 
+ | [fi](/f9/language/fi) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/fi.po | 
+ | [fr](/f9/language/fr) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/fr.po | 
+ | [gl](/f9/language/gl) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/gl.po | 
+ | [gu](/f9/language/gu) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/gu.po | 
+ | [hi](/f9/language/hi) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/hi.po | 
+ | [hu](/f9/language/hu) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/hu.po | 
+ | [id](/f9/language/id) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/id.po | 
+ | [it](/f9/language/it) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/it.po | 
+ | [ja](/f9/language/ja) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ja.po | 
+ | [ka](/f9/language/ka) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ka.po | 
+ | [ko](/f9/language/ko) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ko.po | 
+ | [lt](/f9/language/lt) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/lt.po | 
+ | [lv](/f9/language/lv) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/lv.po | 
+ | [mg](/f9/language/mg) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mg.po | 
+ | [mk](/f9/language/mk) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mk.po | 
+ | [ml](/f9/language/ml) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ml.po | 
+ | [mn](/f9/language/mn) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mn.po | 
+ | [mr](/f9/language/mr) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/mr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/nb.po | 
+ | [ne](/f9/language/ne) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ne.po | 
+ | [nl](/f9/language/nl) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/nl.po | 
+ | [nn](/f9/language/nn) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/nn.po | 
+ | [pa](/f9/language/pa) | 947 | 947 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pa.po | 
+ | [pl](/f9/language/pl) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pl.po | 
+ | [pt](/f9/language/pt) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ro.po | 
+ | [ru](/f9/language/ru) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ru.po | 
+ | [sk](/f9/language/sk) | 923 | 923 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sk.po | 
+ | [sl](/f9/language/sl) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sl.po | 
+ | [sq](/f9/language/sq) | 915 | 915 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sq.po | 
+ | [sr](/f9/language/sr) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sr.po | 
+ | [sv](/f9/language/sv) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/sv.po | 
+ | [ta](/f9/language/ta) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/ta.po | 
+ | [th](/f9/language/th) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/th.po | 
+ | [tr](/f9/language/tr) | 912 | 912 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/tr.po | 
+ | [uk](/f9/language/uk) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/uk.po | 
+ | [vi](/f9/language/vi) | 920 | 920 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/vi.po | 
+ | [xh](/f9/language/xh) | 949 | 949 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/xh.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 921 | 921 | 100.0 | /mnt/stockage/packages/f9/gtkhtml3/po/zh_HK.po | 
+ | [fa](/f9/language/fa) | 909 | 919 | 98.9 | /mnt/stockage/packages/f9/gtkhtml3/po/fa.po | 
+ | [he](/f9/language/he) | 893 | 921 | 97.0 | /mnt/stockage/packages/f9/gtkhtml3/po/he.po | 
+ | [az](/f9/language/az) | 903 | 949 | 95.2 | /mnt/stockage/packages/f9/gtkhtml3/po/az.po | 
+ | [ms](/f9/language/ms) | 890 | 949 | 93.8 | /mnt/stockage/packages/f9/gtkhtml3/po/ms.po | 
+ | [be](/f9/language/be) | 849 | 949 | 89.5 | /mnt/stockage/packages/f9/gtkhtml3/po/be.po | 
+ | [hr](/f9/language/hr) | 816 | 949 | 86.0 | /mnt/stockage/packages/f9/gtkhtml3/po/hr.po | 
+ | [am](/f9/language/am) | 246 | 949 | 25.9 | /mnt/stockage/packages/f9/gtkhtml3/po/am.po | 
+ | [oc](/f9/language/oc) | 195 | 921 | 21.2 | /mnt/stockage/packages/f9/gtkhtml3/po/oc.po | 
+ | [or](/f9/language/or) | 147 | 912 | 16.1 | /mnt/stockage/packages/f9/gtkhtml3/po/or.po | 
+ | [si](/f9/language/si) | 99 | 914 | 10.8 | /mnt/stockage/packages/f9/gtkhtml3/po/si.po | 
+ | [ga](/f9/language/ga) | 96 | 949 | 10.1 | /mnt/stockage/packages/f9/gtkhtml3/po/ga.po | 
+ | [rw](/f9/language/rw) | 82 | 949 | 8.6 | /mnt/stockage/packages/f9/gtkhtml3/po/rw.po | 
+ | [ku](/f9/language/ku) | 32 | 909 | 3.5 | /mnt/stockage/packages/f9/gtkhtml3/po/ku.po | 
 {.sortable}
 
 

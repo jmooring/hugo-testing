@@ -18,8 +18,8 @@ The package xournal (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 981 | 1016 | 96.6 | /mnt/stockage/packages/f12/xournal/po/fr.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 373 | 1016 | 36.7 | /mnt/stockage/packages/f12/xournal/po/ca.po | 
+ | [fr](/f12/language/fr) | 981 | 1016 | 96.6 | /mnt/stockage/packages/f12/xournal/po/fr.po | 
+ | [ca](/f12/language/ca) | 373 | 1016 | 36.7 | /mnt/stockage/packages/f12/xournal/po/ca.po | 
 {.sortable}
 
 

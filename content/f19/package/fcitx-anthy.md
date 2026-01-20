@@ -18,10 +18,10 @@ The package fcitx-anthy (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f19/fcitx-anthy/po/ja.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f19/fcitx-anthy/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 297 | 349 | 85.1 | /mnt/stockage/packages/f19/fcitx-anthy/po/zh_TW.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 8 | 349 | 2.3 | /mnt/stockage/packages/f19/fcitx-anthy/po/de.po | 
+ | [ja](/f19/language/ja) | 349 | 349 | 100.0 | /mnt/stockage/packages/f19/fcitx-anthy/po/ja.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 349 | 349 | 100.0 | /mnt/stockage/packages/f19/fcitx-anthy/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 297 | 349 | 85.1 | /mnt/stockage/packages/f19/fcitx-anthy/po/zh_TW.po | 
+ | [de](/f19/language/de) | 8 | 349 | 2.3 | /mnt/stockage/packages/f19/fcitx-anthy/po/de.po | 
 {.sortable}
 
 

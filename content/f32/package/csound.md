@@ -18,12 +18,12 @@ The package csound (version 6.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 19301 | 19301 | 100.0 | /mnt/stockage/packages/f32/csound/po/french.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 12083 | 19301 | 62.6 | /mnt/stockage/packages/f32/csound/po/italian.po | 
- | [es_CO]({{< ref "/f32/language/es_CO.md" >}}) | 2441 | 19301 | 12.6 | /mnt/stockage/packages/f32/csound/po/es_CO.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1538 | 19301 | 8.0 | /mnt/stockage/packages/f32/csound/po/german.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 2545 | 57903 | 4.4 | /mnt/stockage/packages/f32/csound/po/spanish.po/mnt/stockage/packages/f32/csound/po/csound.po/mnt/stockage/packages/f32/csound/po/american.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 58 | 38602 | 0.2 | /mnt/stockage/packages/f32/csound/po/russian.po/mnt/stockage/packages/f32/csound/po/romanian.po | 
+ | [fr](/f32/language/fr) | 19301 | 19301 | 100.0 | /mnt/stockage/packages/f32/csound/po/french.po | 
+ | [it](/f32/language/it) | 12083 | 19301 | 62.6 | /mnt/stockage/packages/f32/csound/po/italian.po | 
+ | [es_CO](/f32/language/es_CO) | 2441 | 19301 | 12.6 | /mnt/stockage/packages/f32/csound/po/es_CO.po | 
+ | [de](/f32/language/de) | 1538 | 19301 | 8.0 | /mnt/stockage/packages/f32/csound/po/german.po | 
+ | [en_GB](/f32/language/en_GB) | 2545 | 57903 | 4.4 | /mnt/stockage/packages/f32/csound/po/spanish.po/mnt/stockage/packages/f32/csound/po/csound.po/mnt/stockage/packages/f32/csound/po/american.po | 
+ | [error](/f32/language/error) | 58 | 38602 | 0.2 | /mnt/stockage/packages/f32/csound/po/russian.po/mnt/stockage/packages/f32/csound/po/romanian.po | 
 {.sortable}
 
 

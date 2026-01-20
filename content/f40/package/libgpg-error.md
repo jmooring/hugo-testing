@@ -18,27 +18,27 @@ The package libgpg-error (version 1.49):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f40/libgpg-error/po/de.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f40/libgpg-error/po/ja.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f40/libgpg-error/po/pl.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/cs.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/zh_TW.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1594 | 1636 | 97.4 | /mnt/stockage/packages/f40/libgpg-error/po/uk.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1450 | 1636 | 88.6 | /mnt/stockage/packages/f40/libgpg-error/po/ru.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1185 | 1636 | 72.4 | /mnt/stockage/packages/f40/libgpg-error/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 976 | 1636 | 59.7 | /mnt/stockage/packages/f40/libgpg-error/po/fr.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 969 | 1636 | 59.2 | /mnt/stockage/packages/f40/libgpg-error/po/da.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 923 | 1636 | 56.4 | /mnt/stockage/packages/f40/libgpg-error/po/it.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 923 | 1636 | 56.4 | /mnt/stockage/packages/f40/libgpg-error/po/pt.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 918 | 1636 | 56.1 | /mnt/stockage/packages/f40/libgpg-error/po/nl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 788 | 1636 | 48.2 | /mnt/stockage/packages/f40/libgpg-error/po/sv.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/eo.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/hu.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/sr.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 615 | 1636 | 37.6 | /mnt/stockage/packages/f40/libgpg-error/po/ro.po | 
+ | [de](/f40/language/de) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f40/libgpg-error/po/de.po | 
+ | [ja](/f40/language/ja) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f40/libgpg-error/po/ja.po | 
+ | [pl](/f40/language/pl) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f40/libgpg-error/po/pl.po | 
+ | [cs](/f40/language/cs) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/cs.po | 
+ | [tr](/f40/language/tr) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1627 | 1636 | 99.4 | /mnt/stockage/packages/f40/libgpg-error/po/zh_TW.po | 
+ | [uk](/f40/language/uk) | 1594 | 1636 | 97.4 | /mnt/stockage/packages/f40/libgpg-error/po/uk.po | 
+ | [ru](/f40/language/ru) | 1450 | 1636 | 88.6 | /mnt/stockage/packages/f40/libgpg-error/po/ru.po | 
+ | [es](/f40/language/es) | 1185 | 1636 | 72.4 | /mnt/stockage/packages/f40/libgpg-error/po/es.po | 
+ | [fr](/f40/language/fr) | 976 | 1636 | 59.7 | /mnt/stockage/packages/f40/libgpg-error/po/fr.po | 
+ | [da](/f40/language/da) | 969 | 1636 | 59.2 | /mnt/stockage/packages/f40/libgpg-error/po/da.po | 
+ | [it](/f40/language/it) | 923 | 1636 | 56.4 | /mnt/stockage/packages/f40/libgpg-error/po/it.po | 
+ | [pt](/f40/language/pt) | 923 | 1636 | 56.4 | /mnt/stockage/packages/f40/libgpg-error/po/pt.po | 
+ | [nl](/f40/language/nl) | 918 | 1636 | 56.1 | /mnt/stockage/packages/f40/libgpg-error/po/nl.po | 
+ | [sv](/f40/language/sv) | 788 | 1636 | 48.2 | /mnt/stockage/packages/f40/libgpg-error/po/sv.po | 
+ | [eo](/f40/language/eo) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/eo.po | 
+ | [hu](/f40/language/hu) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/hu.po | 
+ | [sr](/f40/language/sr) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/sr.po | 
+ | [vi](/f40/language/vi) | 742 | 1636 | 45.4 | /mnt/stockage/packages/f40/libgpg-error/po/vi.po | 
+ | [ro](/f40/language/ro) | 615 | 1636 | 37.6 | /mnt/stockage/packages/f40/libgpg-error/po/ro.po | 
 {.sortable}
 
 

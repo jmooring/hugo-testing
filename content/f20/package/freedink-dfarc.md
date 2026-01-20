@@ -18,17 +18,17 @@ The package freedink-dfarc (version 3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/es.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/fr.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/hr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/pl.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/vi.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 656 | 738 | 88.9 | /mnt/stockage/packages/f20/freedink-dfarc/po/mk.po | 
+ | [da](/f20/language/da) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/da.po | 
+ | [de](/f20/language/de) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/de.po | 
+ | [es](/f20/language/es) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/es.po | 
+ | [fi](/f20/language/fi) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/fi.po | 
+ | [fr](/f20/language/fr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/fr.po | 
+ | [hr](/f20/language/hr) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/hr.po | 
+ | [it](/f20/language/it) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/it.po | 
+ | [nl](/f20/language/nl) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/nl.po | 
+ | [pl](/f20/language/pl) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/pl.po | 
+ | [vi](/f20/language/vi) | 778 | 778 | 100.0 | /mnt/stockage/packages/f20/freedink-dfarc/po/vi.po | 
+ | [mk](/f20/language/mk) | 656 | 738 | 88.9 | /mnt/stockage/packages/f20/freedink-dfarc/po/mk.po | 
 {.sortable}
 
 

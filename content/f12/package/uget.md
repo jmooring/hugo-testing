@@ -18,14 +18,14 @@ The package uget (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 461 | 461 | 100.0 | /mnt/stockage/packages/f12/uget/po/tr.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 452 | 461 | 98.0 | /mnt/stockage/packages/f12/uget/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 419 | 461 | 90.9 | /mnt/stockage/packages/f12/uget/po/zh_TW.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 385 | 461 | 83.5 | /mnt/stockage/packages/f12/uget/po/ru.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 355 | 461 | 77.0 | /mnt/stockage/packages/f12/uget/po/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 38 | 461 | 8.2 | /mnt/stockage/packages/f12/uget/po/fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 36 | 461 | 7.8 | /mnt/stockage/packages/f12/uget/po/pl.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 32 | 461 | 6.9 | /mnt/stockage/packages/f12/uget/po/it.po | 
+ | [tr](/f12/language/tr) | 461 | 461 | 100.0 | /mnt/stockage/packages/f12/uget/po/tr.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 452 | 461 | 98.0 | /mnt/stockage/packages/f12/uget/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 419 | 461 | 90.9 | /mnt/stockage/packages/f12/uget/po/zh_TW.po | 
+ | [ru](/f12/language/ru) | 385 | 461 | 83.5 | /mnt/stockage/packages/f12/uget/po/ru.po | 
+ | [de](/f12/language/de) | 355 | 461 | 77.0 | /mnt/stockage/packages/f12/uget/po/de.po | 
+ | [fr](/f12/language/fr) | 38 | 461 | 8.2 | /mnt/stockage/packages/f12/uget/po/fr.po | 
+ | [pl](/f12/language/pl) | 36 | 461 | 7.8 | /mnt/stockage/packages/f12/uget/po/pl.po | 
+ | [it](/f12/language/it) | 32 | 461 | 6.9 | /mnt/stockage/packages/f12/uget/po/it.po | 
 {.sortable}
 
 

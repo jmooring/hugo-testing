@@ -18,12 +18,12 @@ The package k4dirstat (version 2.7.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f22/k4dirstat/po/nl.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 530 | 547 | 96.9 | /mnt/stockage/packages/f22/k4dirstat/po/de.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 511 | 547 | 93.4 | /mnt/stockage/packages/f22/k4dirstat/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 369 | 547 | 67.5 | /mnt/stockage/packages/f22/k4dirstat/po/ja.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 230 | 547 | 42.0 | /mnt/stockage/packages/f22/k4dirstat/po/fr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 193 | 547 | 35.3 | /mnt/stockage/packages/f22/k4dirstat/po/hu.po | 
+ | [nl](/f22/language/nl) | 547 | 547 | 100.0 | /mnt/stockage/packages/f22/k4dirstat/po/nl.po | 
+ | [de](/f22/language/de) | 530 | 547 | 96.9 | /mnt/stockage/packages/f22/k4dirstat/po/de.po | 
+ | [it](/f22/language/it) | 511 | 547 | 93.4 | /mnt/stockage/packages/f22/k4dirstat/po/it.po | 
+ | [ja](/f22/language/ja) | 369 | 547 | 67.5 | /mnt/stockage/packages/f22/k4dirstat/po/ja.po | 
+ | [fr](/f22/language/fr) | 230 | 547 | 42.0 | /mnt/stockage/packages/f22/k4dirstat/po/fr.po | 
+ | [hu](/f22/language/hu) | 193 | 547 | 35.3 | /mnt/stockage/packages/f22/k4dirstat/po/hu.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package fcitx-skk (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 58 | 70 | 82.9 | /mnt/stockage/packages/f27/fcitx-skk/po/zh_CN.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 55 | 70 | 78.6 | /mnt/stockage/packages/f27/fcitx-skk/po/ja.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 6 | 70 | 8.6 | /mnt/stockage/packages/f27/fcitx-skk/po/de.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 6 | 70 | 8.6 | /mnt/stockage/packages/f27/fcitx-skk/po/vi.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 6 | 70 | 8.6 | /mnt/stockage/packages/f27/fcitx-skk/po/zh_TW.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 58 | 70 | 82.9 | /mnt/stockage/packages/f27/fcitx-skk/po/zh_CN.po | 
+ | [ja](/f27/language/ja) | 55 | 70 | 78.6 | /mnt/stockage/packages/f27/fcitx-skk/po/ja.po | 
+ | [de](/f27/language/de) | 6 | 70 | 8.6 | /mnt/stockage/packages/f27/fcitx-skk/po/de.po | 
+ | [vi](/f27/language/vi) | 6 | 70 | 8.6 | /mnt/stockage/packages/f27/fcitx-skk/po/vi.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 6 | 70 | 8.6 | /mnt/stockage/packages/f27/fcitx-skk/po/zh_TW.po | 
 {.sortable}
 
 

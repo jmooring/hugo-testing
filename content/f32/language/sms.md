@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-connect]({{< ref "/f32/package/kde-connect.md" >}}) | 73 | 73 | 100.0 | none | 
+ | [kde-connect](/f32/package/kde-connect) | 73 | 73 | 100.0 | none | 
 {.sortable}
 
 

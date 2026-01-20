@@ -18,8 +18,8 @@ The package libgsf (version 1.14.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f7/libgsf/po/es.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f7/libgsf/po/sv.po | 
+ | [es](/f7/language/es) | 77 | 77 | 100.0 | /mnt/stockage/packages/f7/libgsf/po/es.po | 
+ | [sv](/f7/language/sv) | 77 | 77 | 100.0 | /mnt/stockage/packages/f7/libgsf/po/sv.po | 
 {.sortable}
 
 

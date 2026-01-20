@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f24/package/blueberry.md" >}}) | 13 | 141 | 9.2 | Berber (Other) <ber@li.org> | 
- | [shutter]({{< ref "/f24/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 4 | 784 | 0.5 | Berber (Other) <ber@li.org> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 0 | 17698 | 0.0 | Berber (Other) <ber@li.org> | 
+ | [blueberry](/f24/package/blueberry) | 13 | 141 | 9.2 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f24/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [mintmenu](/f24/package/mintmenu) | 4 | 784 | 0.5 | Berber (Other) <ber@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 0 | 17698 | 0.0 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

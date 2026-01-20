@@ -18,22 +18,22 @@ The package python-pycryptodomex (version 3.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/de/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/et/LC_MESSAGES/sphinx.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/fa_IR/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/fr/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/it/LC_MESSAGES/sphinx.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/lt/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/pl/LC_MESSAGES/sphinx.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/pt/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/ru/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/sv/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/tr/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [de](/f35/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/de/LC_MESSAGES/sphinx.po | 
+ | [es](/f35/language/es) | 89 | 89 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [et](/f35/language/et) | 89 | 89 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/et/LC_MESSAGES/sphinx.po | 
+ | [fa](/f35/language/fa) | 88 | 88 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/fa_IR/LC_MESSAGES/sphinx.po | 
+ | [fr](/f35/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [it](/f35/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/it/LC_MESSAGES/sphinx.po | 
+ | [lt](/f35/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/lt/LC_MESSAGES/sphinx.po | 
+ | [nl](/f35/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pl](/f35/language/pl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [pt](/f35/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/pt/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f35/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [ru](/f35/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [sv](/f35/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [tr](/f35/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 82 | 82 | 100.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [en](/f35/language/en) | 0 | 99 | 0.0 | /mnt/stockage/packages/f35/python-pycryptodomex/Doc/sphinx_rtd_theme/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package mingw-spice-gtk (version 0.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 292 | 355 | 82.3 | /mnt/stockage/packages/f31/mingw-spice-gtk/po/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 275 | 355 | 77.5 | /mnt/stockage/packages/f31/mingw-spice-gtk/po/it.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2 | 355 | 0.6 | /mnt/stockage/packages/f31/mingw-spice-gtk/po/fr.po | 
+ | [de](/f31/language/de) | 292 | 355 | 82.3 | /mnt/stockage/packages/f31/mingw-spice-gtk/po/de.po | 
+ | [it](/f31/language/it) | 275 | 355 | 77.5 | /mnt/stockage/packages/f31/mingw-spice-gtk/po/it.po | 
+ | [fr](/f31/language/fr) | 2 | 355 | 0.6 | /mnt/stockage/packages/f31/mingw-spice-gtk/po/fr.po | 
 {.sortable}
 
 

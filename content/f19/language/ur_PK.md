@@ -38,39 +38,39 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [file-roller]({{< ref "/f19/package/file-roller.md" >}}) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [gpicview]({{< ref "/f19/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxmenu-data]({{< ref "/f19/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [mate-file-archiver]({{< ref "/f19/package/mate-file-archiver.md" >}}) | 1154 | 1154 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [thunar-media-tags-plugin]({{< ref "/f19/package/thunar-media-tags-plugin.md" >}}) | 144 | 144 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-cpufreq-plugin]({{< ref "/f19/package/xfce4-cpufreq-plugin.md" >}}) | 23 | 23 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-genmon-plugin]({{< ref "/f19/package/xfce4-genmon-plugin.md" >}}) | 71 | 71 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-netload-plugin]({{< ref "/f19/package/xfce4-netload-plugin.md" >}}) | 68 | 68 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-radio-plugin]({{< ref "/f19/package/xfce4-radio-plugin.md" >}}) | 65 | 65 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-verve-plugin]({{< ref "/f19/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-wmdock-plugin]({{< ref "/f19/package/xfce4-wmdock-plugin.md" >}}) | 52 | 52 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [osmo]({{< ref "/f19/package/osmo.md" >}}) | 1685 | 1699 | 99.2 | urducoder.com <makkiabufaris@aol.com> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f19/package/xfce4-mailwatch-plugin.md" >}}) | 647 | 657 | 98.5 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-datetime-plugin]({{< ref "/f19/package/xfce4-datetime-plugin.md" >}}) | 51 | 52 | 98.1 | Urdu <makki.ma@gmail.com> | 
- | [lxmusic]({{< ref "/f19/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-power-manager]({{< ref "/f19/package/xfce4-power-manager.md" >}}) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
- | [xfwm4]({{< ref "/f19/package/xfwm4.md" >}}) | 773 | 864 | 89.5 | urdu <makki.ma@gmail.com> | 
- | [xfce4-notes-plugin]({{< ref "/f19/package/xfce4-notes-plugin.md" >}}) | 97 | 111 | 87.4 | Urdu <makki.ma@gmail.com> | 
- | [thunar-vfs]({{< ref "/f19/package/thunar-vfs.md" >}}) | 335 | 387 | 86.6 | urdu <makki.ma@gmail.com> | 
- | [Thunar]({{< ref "/f19/package/Thunar.md" >}}) | 3322 | 4149 | 80.1 | urdu <makki.ma@gmail.com> | 
- | [xfce4-fsguard-plugin]({{< ref "/f19/package/xfce4-fsguard-plugin.md" >}}) | 56 | 71 | 78.9 | Urdu <makki.ma@gmail.com> | 
- | [orage]({{< ref "/f19/package/orage.md" >}}) | 1792 | 2601 | 68.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [xfce4-terminal]({{< ref "/f19/package/xfce4-terminal.md" >}}) | 699 | 1097 | 63.7 | urdu <makki.ma@gmail.com> | 
- | [xfburn]({{< ref "/f19/package/xfburn.md" >}}) | 294 | 1300 | 22.6 | Urdu <makki.ma@gmail.com> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 685 | 7225 | 9.5 | Urdu (Pakistan) (http://www.transifex.com/projects/p/owncloud/language/ur_PK/) | 
- | [xfce4-panel]({{< ref "/f19/package/xfce4-panel.md" >}}) | 137 | 1504 | 9.1 | urdu <makki.ma@gmail.com> | 
- | [spacefm]({{< ref "/f19/package/spacefm.md" >}}) | 694 | 8256 | 8.4 | LANGUAGE <LL@li.org> | 
- | [pgadmin3]({{< ref "/f19/package/pgadmin3.md" >}}) | 1373 | 16742 | 8.2 | urdu <pgadmin-hackers@postgresql.org> | 
- | [xfce4-taskmanager]({{< ref "/f19/package/xfce4-taskmanager.md" >}}) | 9 | 123 | 7.3 | Urdu <makki.ma@gmail.com> | 
- | [libfm]({{< ref "/f19/package/libfm.md" >}}) | 0 | 859 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f19/package/lxdm.md" >}}) | 0 | 30 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f19/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [openconnect]({{< ref "/f19/package/openconnect.md" >}}) | 0 | 2574 | 0.0 | Urdu (Pakistan) (http://www.transifex.net/projects/p/meego/team/ur_PK/) | 
+ | [file-roller](/f19/package/file-roller) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [gpicview](/f19/package/gpicview) | 219 | 219 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxmenu-data](/f19/package/lxmenu-data) | 97 | 97 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [mate-file-archiver](/f19/package/mate-file-archiver) | 1154 | 1154 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [thunar-media-tags-plugin](/f19/package/thunar-media-tags-plugin) | 144 | 144 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-cpufreq-plugin](/f19/package/xfce4-cpufreq-plugin) | 23 | 23 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-genmon-plugin](/f19/package/xfce4-genmon-plugin) | 71 | 71 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-netload-plugin](/f19/package/xfce4-netload-plugin) | 68 | 68 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-radio-plugin](/f19/package/xfce4-radio-plugin) | 65 | 65 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-verve-plugin](/f19/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-wmdock-plugin](/f19/package/xfce4-wmdock-plugin) | 52 | 52 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [osmo](/f19/package/osmo) | 1685 | 1699 | 99.2 | urducoder.com <makkiabufaris@aol.com> | 
+ | [xfce4-mailwatch-plugin](/f19/package/xfce4-mailwatch-plugin) | 647 | 657 | 98.5 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-datetime-plugin](/f19/package/xfce4-datetime-plugin) | 51 | 52 | 98.1 | Urdu <makki.ma@gmail.com> | 
+ | [lxmusic](/f19/package/lxmusic) | 196 | 203 | 96.6 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-power-manager](/f19/package/xfce4-power-manager) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
+ | [xfwm4](/f19/package/xfwm4) | 773 | 864 | 89.5 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-notes-plugin](/f19/package/xfce4-notes-plugin) | 97 | 111 | 87.4 | Urdu <makki.ma@gmail.com> | 
+ | [thunar-vfs](/f19/package/thunar-vfs) | 335 | 387 | 86.6 | urdu <makki.ma@gmail.com> | 
+ | [Thunar](/f19/package/Thunar) | 3322 | 4149 | 80.1 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-fsguard-plugin](/f19/package/xfce4-fsguard-plugin) | 56 | 71 | 78.9 | Urdu <makki.ma@gmail.com> | 
+ | [orage](/f19/package/orage) | 1792 | 2601 | 68.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [xfce4-terminal](/f19/package/xfce4-terminal) | 699 | 1097 | 63.7 | urdu <makki.ma@gmail.com> | 
+ | [xfburn](/f19/package/xfburn) | 294 | 1300 | 22.6 | Urdu <makki.ma@gmail.com> | 
+ | [owncloud](/f19/package/owncloud) | 685 | 7225 | 9.5 | Urdu (Pakistan) (http://www.transifex.com/projects/p/owncloud/language/ur_PK/) | 
+ | [xfce4-panel](/f19/package/xfce4-panel) | 137 | 1504 | 9.1 | urdu <makki.ma@gmail.com> | 
+ | [spacefm](/f19/package/spacefm) | 694 | 8256 | 8.4 | LANGUAGE <LL@li.org> | 
+ | [pgadmin3](/f19/package/pgadmin3) | 1373 | 16742 | 8.2 | urdu <pgadmin-hackers@postgresql.org> | 
+ | [xfce4-taskmanager](/f19/package/xfce4-taskmanager) | 9 | 123 | 7.3 | Urdu <makki.ma@gmail.com> | 
+ | [libfm](/f19/package/libfm) | 0 | 859 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f19/package/lxdm) | 0 | 30 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f19/package/lxpolkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [openconnect](/f19/package/openconnect) | 0 | 2574 | 0.0 | Urdu (Pakistan) (http://www.transifex.net/projects/p/meego/team/ur_PK/) | 
 {.sortable}
 
 

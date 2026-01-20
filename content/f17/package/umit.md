@@ -18,14 +18,14 @@ The package umit (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 3658 | 4593 | 79.6 | /mnt/stockage/packages/f17/umit/share/locale/pt_BR/pt_BR.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 2468 | 4593 | 53.7 | /mnt/stockage/packages/f17/umit/share/locale/pl_PL/pl_PL.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 1959 | 4593 | 42.7 | /mnt/stockage/packages/f17/umit/share/locale/id_ID/id_ID.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1866 | 4601 | 40.6 | /mnt/stockage/packages/f17/umit/share/locale/it/it.po/mnt/stockage/packages/f17/umit/source-plugins/localized-example/it.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 1800 | 4593 | 39.2 | /mnt/stockage/packages/f17/umit/share/locale/ms_MY/ms_MY.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1772 | 4593 | 38.6 | /mnt/stockage/packages/f17/umit/share/locale/zh_CN/zh_CN.po | 
- | [pt_PT]({{< ref "/f17/language/pt_PT.md" >}}) | 1642 | 4593 | 35.8 | /mnt/stockage/packages/f17/umit/share/locale/pt_PT/pt_PT.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 603 | 4593 | 13.1 | /mnt/stockage/packages/f17/umit/share/locale/sv/sv.po | 
+ | [pt_BR](/f17/language/pt_BR) | 3658 | 4593 | 79.6 | /mnt/stockage/packages/f17/umit/share/locale/pt_BR/pt_BR.po | 
+ | [pl](/f17/language/pl) | 2468 | 4593 | 53.7 | /mnt/stockage/packages/f17/umit/share/locale/pl_PL/pl_PL.po | 
+ | [id](/f17/language/id) | 1959 | 4593 | 42.7 | /mnt/stockage/packages/f17/umit/share/locale/id_ID/id_ID.po | 
+ | [it](/f17/language/it) | 1866 | 4601 | 40.6 | /mnt/stockage/packages/f17/umit/share/locale/it/it.po/mnt/stockage/packages/f17/umit/source-plugins/localized-example/it.po | 
+ | [ms](/f17/language/ms) | 1800 | 4593 | 39.2 | /mnt/stockage/packages/f17/umit/share/locale/ms_MY/ms_MY.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1772 | 4593 | 38.6 | /mnt/stockage/packages/f17/umit/share/locale/zh_CN/zh_CN.po | 
+ | [pt_PT](/f17/language/pt_PT) | 1642 | 4593 | 35.8 | /mnt/stockage/packages/f17/umit/share/locale/pt_PT/pt_PT.po | 
+ | [sv](/f17/language/sv) | 603 | 4593 | 13.1 | /mnt/stockage/packages/f17/umit/share/locale/sv/sv.po | 
 {.sortable}
 
 

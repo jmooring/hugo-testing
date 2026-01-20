@@ -18,7 +18,7 @@ The package textflow (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 95 | 207 | 45.9 | /mnt/stockage/packages/f9/textflow/po/pt_BR.po | 
+ | [pt_BR](/f9/language/pt_BR) | 95 | 207 | 45.9 | /mnt/stockage/packages/f9/textflow/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,67 +18,67 @@ The package rhpxl (version 0.47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f7/language/as.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/as.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bg.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bn.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bn_IN.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bs.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/el.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/fr.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/gu.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/hi.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/hr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/hu.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/is.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ja.po | 
- | [kn]({{< ref "/f7/language/kn.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/kn.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ko.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ml.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/mr.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ms.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/nl.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/or.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ta.po | 
- | [te]({{< ref "/f7/language/te.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/te.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/uk.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 238 | 272 | 87.5 | /mnt/stockage/packages/f7/rhpxl/po/no.po/mnt/stockage/packages/f7/rhpxl/po/nb.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/ar.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/cy.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/en_GB.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/et.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/id.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/mk.po | 
- | [zu]({{< ref "/f7/language/zu.md" >}}) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/rhpxl/po/zu.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 99 | 136 | 72.8 | /mnt/stockage/packages/f7/rhpxl/po/vi.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 51 | 136 | 37.5 | /mnt/stockage/packages/f7/rhpxl/po/gl.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/he.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/ka.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/ku.po | 
- | [lo]({{< ref "/f7/language/lo.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/lo.po | 
- | [si]({{< ref "/f7/language/si.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/si.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/sq.po | 
- | [ur]({{< ref "/f7/language/ur.md" >}}) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/ur.po | 
+ | [as](/f7/language/as) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/as.po | 
+ | [bg](/f7/language/bg) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bg.po | 
+ | [bn](/f7/language/bn) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bn.po | 
+ | [bn_IN](/f7/language/bn_IN) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bn_IN.po | 
+ | [bs](/f7/language/bs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/bs.po | 
+ | [ca](/f7/language/ca) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ca.po | 
+ | [cs](/f7/language/cs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/cs.po | 
+ | [da](/f7/language/da) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/da.po | 
+ | [de](/f7/language/de) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/de.po | 
+ | [el](/f7/language/el) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/el.po | 
+ | [error](/f7/language/error) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/es.po | 
+ | [fi](/f7/language/fi) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/fi.po | 
+ | [fr](/f7/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/fr.po | 
+ | [gu](/f7/language/gu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/gu.po | 
+ | [hi](/f7/language/hi) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/hi.po | 
+ | [hr](/f7/language/hr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/hr.po | 
+ | [hu](/f7/language/hu) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/hu.po | 
+ | [is](/f7/language/is) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/is.po | 
+ | [it](/f7/language/it) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/it.po | 
+ | [ja](/f7/language/ja) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ja.po | 
+ | [kn](/f7/language/kn) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/kn.po | 
+ | [ko](/f7/language/ko) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ko.po | 
+ | [ml](/f7/language/ml) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ml.po | 
+ | [mr](/f7/language/mr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/mr.po | 
+ | [ms](/f7/language/ms) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ms.po | 
+ | [nl](/f7/language/nl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/nl.po | 
+ | [or](/f7/language/or) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/or.po | 
+ | [pa](/f7/language/pa) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pa.po | 
+ | [pl](/f7/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pl.po | 
+ | [pt](/f7/language/pt) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ro.po | 
+ | [ru](/f7/language/ru) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ru.po | 
+ | [sk](/f7/language/sk) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sk.po | 
+ | [sl](/f7/language/sl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sl.po | 
+ | [sr](/f7/language/sr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sr.po | 
+ | [sv](/f7/language/sv) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/sv.po | 
+ | [ta](/f7/language/ta) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/ta.po | 
+ | [te](/f7/language/te) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/te.po | 
+ | [tr](/f7/language/tr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/tr.po | 
+ | [uk](/f7/language/uk) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/uk.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 136 | 136 | 100.0 | /mnt/stockage/packages/f7/rhpxl/po/zh_TW.po | 
+ | [nb_NO](/f7/language/nb_NO) | 238 | 272 | 87.5 | /mnt/stockage/packages/f7/rhpxl/po/no.po/mnt/stockage/packages/f7/rhpxl/po/nb.po | 
+ | [ar](/f7/language/ar) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/ar.po | 
+ | [cy](/f7/language/cy) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/cy.po | 
+ | [en_GB](/f7/language/en_GB) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/en_GB.po | 
+ | [et](/f7/language/et) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/et.po | 
+ | [id](/f7/language/id) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/id.po | 
+ | [mk](/f7/language/mk) | 111 | 136 | 81.6 | /mnt/stockage/packages/f7/rhpxl/po/mk.po | 
+ | [zu](/f7/language/zu) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/rhpxl/po/zu.po | 
+ | [vi](/f7/language/vi) | 99 | 136 | 72.8 | /mnt/stockage/packages/f7/rhpxl/po/vi.po | 
+ | [gl](/f7/language/gl) | 51 | 136 | 37.5 | /mnt/stockage/packages/f7/rhpxl/po/gl.po | 
+ | [he](/f7/language/he) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/he.po | 
+ | [ka](/f7/language/ka) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/ka.po | 
+ | [ku](/f7/language/ku) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/ku.po | 
+ | [lo](/f7/language/lo) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/lo.po | 
+ | [si](/f7/language/si) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/si.po | 
+ | [sq](/f7/language/sq) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/sq.po | 
+ | [ur](/f7/language/ur) | 0 | 136 | 0.0 | /mnt/stockage/packages/f7/rhpxl/po/ur.po | 
 {.sortable}
 
 

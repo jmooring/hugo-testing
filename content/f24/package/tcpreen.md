@@ -18,8 +18,8 @@ The package tcpreen (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f24/tcpreen/po/fr.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f24/tcpreen/po/pt_BR.po | 
+ | [fr](/f24/language/fr) | 327 | 327 | 100.0 | /mnt/stockage/packages/f24/tcpreen/po/fr.po | 
+ | [pt_BR](/f24/language/pt_BR) | 327 | 327 | 100.0 | /mnt/stockage/packages/f24/tcpreen/po/pt_BR.po | 
 {.sortable}
 
 

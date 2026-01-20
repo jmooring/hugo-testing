@@ -18,31 +18,31 @@ The package pidgin-guifications (version 2.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/gl.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/zh_TW.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 498 | 505 | 98.6 | /mnt/stockage/packages/f18/pidgin-guifications/po/ru.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 466 | 505 | 92.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/sr@Latn.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 466 | 505 | 92.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/it.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 466 | 505 | 92.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/sr.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 459 | 505 | 90.9 | /mnt/stockage/packages/f18/pidgin-guifications/po/zh_CN.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 443 | 505 | 87.7 | /mnt/stockage/packages/f18/pidgin-guifications/po/bn.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/de.po | 
- | [en_AU]({{< ref "/f18/language/en_AU.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/en_AU.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/en_GB.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/ja.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/nl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/sv.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 435 | 505 | 86.1 | /mnt/stockage/packages/f18/pidgin-guifications/po/pt_BR.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 433 | 505 | 85.7 | /mnt/stockage/packages/f18/pidgin-guifications/po/uk.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 425 | 505 | 84.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/hu.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 415 | 505 | 82.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/pt.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 415 | 505 | 82.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/sk.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 414 | 505 | 82.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/mk.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 407 | 505 | 80.6 | /mnt/stockage/packages/f18/pidgin-guifications/po/cs.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 389 | 505 | 77.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/es.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 223 | 505 | 44.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/he.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 148 | 505 | 29.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/no.po | 
+ | [fr](/f18/language/fr) | 505 | 505 | 100.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/fr.po | 
+ | [gl](/f18/language/gl) | 505 | 505 | 100.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/gl.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 505 | 505 | 100.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/zh_TW.po | 
+ | [ru](/f18/language/ru) | 498 | 505 | 98.6 | /mnt/stockage/packages/f18/pidgin-guifications/po/ru.po | 
+ | [error](/f18/language/error) | 466 | 505 | 92.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/sr@Latn.po | 
+ | [it](/f18/language/it) | 466 | 505 | 92.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/it.po | 
+ | [sr](/f18/language/sr) | 466 | 505 | 92.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/sr.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 459 | 505 | 90.9 | /mnt/stockage/packages/f18/pidgin-guifications/po/zh_CN.po | 
+ | [bn](/f18/language/bn) | 443 | 505 | 87.7 | /mnt/stockage/packages/f18/pidgin-guifications/po/bn.po | 
+ | [de](/f18/language/de) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/de.po | 
+ | [en_AU](/f18/language/en_AU) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/en_AU.po | 
+ | [en_GB](/f18/language/en_GB) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/en_GB.po | 
+ | [ja](/f18/language/ja) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/ja.po | 
+ | [nl](/f18/language/nl) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/nl.po | 
+ | [sv](/f18/language/sv) | 442 | 505 | 87.5 | /mnt/stockage/packages/f18/pidgin-guifications/po/sv.po | 
+ | [pt_BR](/f18/language/pt_BR) | 435 | 505 | 86.1 | /mnt/stockage/packages/f18/pidgin-guifications/po/pt_BR.po | 
+ | [uk](/f18/language/uk) | 433 | 505 | 85.7 | /mnt/stockage/packages/f18/pidgin-guifications/po/uk.po | 
+ | [hu](/f18/language/hu) | 425 | 505 | 84.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/hu.po | 
+ | [pt](/f18/language/pt) | 415 | 505 | 82.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/pt.po | 
+ | [sk](/f18/language/sk) | 415 | 505 | 82.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/sk.po | 
+ | [mk](/f18/language/mk) | 414 | 505 | 82.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/mk.po | 
+ | [cs](/f18/language/cs) | 407 | 505 | 80.6 | /mnt/stockage/packages/f18/pidgin-guifications/po/cs.po | 
+ | [es](/f18/language/es) | 389 | 505 | 77.0 | /mnt/stockage/packages/f18/pidgin-guifications/po/es.po | 
+ | [he](/f18/language/he) | 223 | 505 | 44.2 | /mnt/stockage/packages/f18/pidgin-guifications/po/he.po | 
+ | [nb_NO](/f18/language/nb_NO) | 148 | 505 | 29.3 | /mnt/stockage/packages/f18/pidgin-guifications/po/no.po | 
 {.sortable}
 
 

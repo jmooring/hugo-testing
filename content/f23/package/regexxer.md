@@ -18,37 +18,37 @@ The package regexxer (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/bg.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/de.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/dz.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/en_GB.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/sl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/sv.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/cs.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/en_CA.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/sr@Latn.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/es.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/eu.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/fr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/hu.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/ja.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/ne.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/pt_BR.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/sr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/vi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/zh_HK.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 426 | 467 | 91.2 | /mnt/stockage/packages/f23/regexxer/po/it.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 205 | 467 | 43.9 | /mnt/stockage/packages/f23/regexxer/po/zh_CN.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 88 | 467 | 18.8 | /mnt/stockage/packages/f23/regexxer/po/pa.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 11 | 467 | 2.4 | /mnt/stockage/packages/f23/regexxer/po/rw.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 0 | 467 | 0.0 | /mnt/stockage/packages/f23/regexxer/po/ar.po | 
+ | [bg](/f23/language/bg) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/bg.po | 
+ | [de](/f23/language/de) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/de.po | 
+ | [dz](/f23/language/dz) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/dz.po | 
+ | [en_GB](/f23/language/en_GB) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/en_GB.po | 
+ | [sl](/f23/language/sl) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/sl.po | 
+ | [sv](/f23/language/sv) | 467 | 467 | 100.0 | /mnt/stockage/packages/f23/regexxer/po/sv.po | 
+ | [ca](/f23/language/ca) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/ca.po | 
+ | [cs](/f23/language/cs) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/cs.po | 
+ | [en_CA](/f23/language/en_CA) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/en_CA.po | 
+ | [error](/f23/language/error) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/sr@Latn.po | 
+ | [es](/f23/language/es) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/es.po | 
+ | [eu](/f23/language/eu) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/eu.po | 
+ | [fi](/f23/language/fi) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/fi.po | 
+ | [fr](/f23/language/fr) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/fr.po | 
+ | [hu](/f23/language/hu) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/hu.po | 
+ | [ja](/f23/language/ja) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/ja.po | 
+ | [ne](/f23/language/ne) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/ne.po | 
+ | [nl](/f23/language/nl) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/nl.po | 
+ | [pl](/f23/language/pl) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/pl.po | 
+ | [pt](/f23/language/pt) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/pt_BR.po | 
+ | [sr](/f23/language/sr) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/sr.po | 
+ | [uk](/f23/language/uk) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/uk.po | 
+ | [vi](/f23/language/vi) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/vi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/zh_TW.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 466 | 467 | 99.8 | /mnt/stockage/packages/f23/regexxer/po/zh_HK.po | 
+ | [it](/f23/language/it) | 426 | 467 | 91.2 | /mnt/stockage/packages/f23/regexxer/po/it.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 205 | 467 | 43.9 | /mnt/stockage/packages/f23/regexxer/po/zh_CN.po | 
+ | [pa](/f23/language/pa) | 88 | 467 | 18.8 | /mnt/stockage/packages/f23/regexxer/po/pa.po | 
+ | [rw](/f23/language/rw) | 11 | 467 | 2.4 | /mnt/stockage/packages/f23/regexxer/po/rw.po | 
+ | [ar](/f23/language/ar) | 0 | 467 | 0.0 | /mnt/stockage/packages/f23/regexxer/po/ar.po | 
 {.sortable}
 
 

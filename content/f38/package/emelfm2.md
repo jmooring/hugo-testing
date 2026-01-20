@@ -18,12 +18,12 @@ The package emelfm2 (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 6208 | 6240 | 99.5 | /mnt/stockage/packages/f38/emelfm2/po/ru.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 6207 | 6240 | 99.5 | /mnt/stockage/packages/f38/emelfm2/po/fr.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 6170 | 6240 | 98.9 | /mnt/stockage/packages/f38/emelfm2/po/de.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 5968 | 6240 | 95.6 | /mnt/stockage/packages/f38/emelfm2/po/zh_CN.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 5425 | 6240 | 86.9 | /mnt/stockage/packages/f38/emelfm2/po/pl.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 5018 | 6240 | 80.4 | /mnt/stockage/packages/f38/emelfm2/po/ja.po | 
+ | [ru](/f38/language/ru) | 6208 | 6240 | 99.5 | /mnt/stockage/packages/f38/emelfm2/po/ru.po | 
+ | [fr](/f38/language/fr) | 6207 | 6240 | 99.5 | /mnt/stockage/packages/f38/emelfm2/po/fr.po | 
+ | [de](/f38/language/de) | 6170 | 6240 | 98.9 | /mnt/stockage/packages/f38/emelfm2/po/de.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 5968 | 6240 | 95.6 | /mnt/stockage/packages/f38/emelfm2/po/zh_CN.po | 
+ | [pl](/f38/language/pl) | 5425 | 6240 | 86.9 | /mnt/stockage/packages/f38/emelfm2/po/pl.po | 
+ | [ja](/f38/language/ja) | 5018 | 6240 | 80.4 | /mnt/stockage/packages/f38/emelfm2/po/ja.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package flaw (version 1.3.2a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/cs.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/fr.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/ja.po | 
- | [lb]({{< ref "/f42/language/lb.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/lb.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/ru.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/zh_CN.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 74 | 84 | 88.1 | /mnt/stockage/packages/f42/flaw/po/nl.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 71 | 84 | 84.5 | /mnt/stockage/packages/f42/flaw/po/de.po | 
+ | [ca](/f42/language/ca) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/ca.po | 
+ | [cs](/f42/language/cs) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/cs.po | 
+ | [es](/f42/language/es) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/es.po | 
+ | [fr](/f42/language/fr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/fr.po | 
+ | [ja](/f42/language/ja) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/ja.po | 
+ | [lb](/f42/language/lb) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/lb.po | 
+ | [pt_BR](/f42/language/pt_BR) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/ru.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f42/flaw/po/zh_CN.po | 
+ | [nl](/f42/language/nl) | 74 | 84 | 88.1 | /mnt/stockage/packages/f42/flaw/po/nl.po | 
+ | [de](/f42/language/de) | 71 | 84 | 84.5 | /mnt/stockage/packages/f42/flaw/po/de.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package uim (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2544 | 2581 | 98.6 | /mnt/stockage/packages/f7/uim/po/ja.po/mnt/stockage/packages/f7/uim/qt/chardict/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 617 | 2288 | 27.0 | /mnt/stockage/packages/f7/uim/po/ko.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 310 | 2288 | 13.5 | /mnt/stockage/packages/f7/uim/po/fr.po | 
+ | [ja](/f7/language/ja) | 2544 | 2581 | 98.6 | /mnt/stockage/packages/f7/uim/po/ja.po/mnt/stockage/packages/f7/uim/qt/chardict/po/ja.po | 
+ | [ko](/f7/language/ko) | 617 | 2288 | 27.0 | /mnt/stockage/packages/f7/uim/po/ko.po | 
+ | [fr](/f7/language/fr) | 310 | 2288 | 13.5 | /mnt/stockage/packages/f7/uim/po/fr.po | 
 {.sortable}
 
 

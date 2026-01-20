@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [intltool]({{< ref "/f9/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [bazaar]({{< ref "/f9/package/bazaar.md" >}}) | 21 | 6524 | 0.3 | French (Belgium) <fr_BE@li.org> | 
+ | [intltool](/f9/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [bazaar](/f9/package/bazaar) | 21 | 6524 | 0.3 | French (Belgium) <fr_BE@li.org> | 
 {.sortable}
 
 

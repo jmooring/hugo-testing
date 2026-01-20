@@ -18,9 +18,9 @@ The package csound (version 5.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f16/language/it.md" >}}) | 3696 | 14381 | 25.7 | /mnt/stockage/packages/f16/csound/po/italian.po | 
- | [es_CO]({{< ref "/f16/language/es_CO.md" >}}) | 3312 | 14372 | 23.0 | /mnt/stockage/packages/f16/csound/po/es_CO.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 16653 | 86286 | 19.3 | /mnt/stockage/packages/f16/csound/po/american.po/mnt/stockage/packages/f16/csound/po/french.po/mnt/stockage/packages/f16/csound/po/csound.po/mnt/stockage/packages/f16/csound/po/russian.po/mnt/stockage/packages/f16/csound/po/german.po/mnt/stockage/packages/f16/csound/po/romanian.po | 
+ | [it](/f16/language/it) | 3696 | 14381 | 25.7 | /mnt/stockage/packages/f16/csound/po/italian.po | 
+ | [es_CO](/f16/language/es_CO) | 3312 | 14372 | 23.0 | /mnt/stockage/packages/f16/csound/po/es_CO.po | 
+ | [error](/f16/language/error) | 16653 | 86286 | 19.3 | /mnt/stockage/packages/f16/csound/po/american.po/mnt/stockage/packages/f16/csound/po/french.po/mnt/stockage/packages/f16/csound/po/csound.po/mnt/stockage/packages/f16/csound/po/russian.po/mnt/stockage/packages/f16/csound/po/german.po/mnt/stockage/packages/f16/csound/po/romanian.po | 
 {.sortable}
 
 

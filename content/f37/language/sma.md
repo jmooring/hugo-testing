@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [plank]({{< ref "/f37/package/plank.md" >}}) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 6 | 498 | 1.2 | Southern Sami <sma@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [taxi]({{< ref "/f37/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [plank](/f37/package/plank) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
+ | [granite](/f37/package/granite) | 6 | 498 | 1.2 | Southern Sami <sma@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [taxi](/f37/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

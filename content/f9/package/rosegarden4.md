@@ -18,24 +18,24 @@ The package rosegarden4 (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 10592 | 10592 | 100.0 | /mnt/stockage/packages/f9/rosegarden4/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 10592 | 10592 | 100.0 | /mnt/stockage/packages/f9/rosegarden4/po/fr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 29178 | 29178 | 100.0 | /mnt/stockage/packages/f9/rosegarden4/docs/sv/rosegarden.po/mnt/stockage/packages/f9/rosegarden4/po/sv.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 10562 | 10592 | 99.7 | /mnt/stockage/packages/f9/rosegarden4/po/cs.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 10534 | 10592 | 99.5 | /mnt/stockage/packages/f9/rosegarden4/po/it.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 10495 | 10592 | 99.1 | /mnt/stockage/packages/f9/rosegarden4/po/nl.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 10392 | 10592 | 98.1 | /mnt/stockage/packages/f9/rosegarden4/po/es.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 8454 | 10592 | 79.8 | /mnt/stockage/packages/f9/rosegarden4/po/ja.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 7658 | 10592 | 72.3 | /mnt/stockage/packages/f9/rosegarden4/po/eu.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 7557 | 10592 | 71.3 | /mnt/stockage/packages/f9/rosegarden4/po/ru.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 7316 | 10592 | 69.1 | /mnt/stockage/packages/f9/rosegarden4/po/pl.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 7296 | 10592 | 68.9 | /mnt/stockage/packages/f9/rosegarden4/po/de.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 6630 | 10592 | 62.6 | /mnt/stockage/packages/f9/rosegarden4/po/ca.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 3685 | 10592 | 34.8 | /mnt/stockage/packages/f9/rosegarden4/po/zh_CN.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 3370 | 10592 | 31.8 | /mnt/stockage/packages/f9/rosegarden4/po/cy.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 1747 | 10592 | 16.5 | /mnt/stockage/packages/f9/rosegarden4/po/et.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 204 | 10592 | 1.9 | /mnt/stockage/packages/f9/rosegarden4/po/en_GB.po | 
- | [en]({{< ref "/f9/language/en.md" >}}) | 0 | 10592 | 0.0 | /mnt/stockage/packages/f9/rosegarden4/po/en.po | 
+ | [fi](/f9/language/fi) | 10592 | 10592 | 100.0 | /mnt/stockage/packages/f9/rosegarden4/po/fi.po | 
+ | [fr](/f9/language/fr) | 10592 | 10592 | 100.0 | /mnt/stockage/packages/f9/rosegarden4/po/fr.po | 
+ | [sv](/f9/language/sv) | 29178 | 29178 | 100.0 | /mnt/stockage/packages/f9/rosegarden4/docs/sv/rosegarden.po/mnt/stockage/packages/f9/rosegarden4/po/sv.po | 
+ | [cs](/f9/language/cs) | 10562 | 10592 | 99.7 | /mnt/stockage/packages/f9/rosegarden4/po/cs.po | 
+ | [it](/f9/language/it) | 10534 | 10592 | 99.5 | /mnt/stockage/packages/f9/rosegarden4/po/it.po | 
+ | [nl](/f9/language/nl) | 10495 | 10592 | 99.1 | /mnt/stockage/packages/f9/rosegarden4/po/nl.po | 
+ | [es](/f9/language/es) | 10392 | 10592 | 98.1 | /mnt/stockage/packages/f9/rosegarden4/po/es.po | 
+ | [ja](/f9/language/ja) | 8454 | 10592 | 79.8 | /mnt/stockage/packages/f9/rosegarden4/po/ja.po | 
+ | [eu](/f9/language/eu) | 7658 | 10592 | 72.3 | /mnt/stockage/packages/f9/rosegarden4/po/eu.po | 
+ | [ru](/f9/language/ru) | 7557 | 10592 | 71.3 | /mnt/stockage/packages/f9/rosegarden4/po/ru.po | 
+ | [pl](/f9/language/pl) | 7316 | 10592 | 69.1 | /mnt/stockage/packages/f9/rosegarden4/po/pl.po | 
+ | [de](/f9/language/de) | 7296 | 10592 | 68.9 | /mnt/stockage/packages/f9/rosegarden4/po/de.po | 
+ | [ca](/f9/language/ca) | 6630 | 10592 | 62.6 | /mnt/stockage/packages/f9/rosegarden4/po/ca.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 3685 | 10592 | 34.8 | /mnt/stockage/packages/f9/rosegarden4/po/zh_CN.po | 
+ | [cy](/f9/language/cy) | 3370 | 10592 | 31.8 | /mnt/stockage/packages/f9/rosegarden4/po/cy.po | 
+ | [et](/f9/language/et) | 1747 | 10592 | 16.5 | /mnt/stockage/packages/f9/rosegarden4/po/et.po | 
+ | [en_GB](/f9/language/en_GB) | 204 | 10592 | 1.9 | /mnt/stockage/packages/f9/rosegarden4/po/en_GB.po | 
+ | [en](/f9/language/en) | 0 | 10592 | 0.0 | /mnt/stockage/packages/f9/rosegarden4/po/en.po | 
 {.sortable}
 
 

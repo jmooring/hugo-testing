@@ -18,18 +18,18 @@ The package nautilus-pastebin (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/it.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/nl.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/ru.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/tr.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/zh_CN.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 13 | 84 | 15.5 | /mnt/stockage/packages/f12/nautilus-pastebin/po/sk.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 11 | 84 | 13.1 | /mnt/stockage/packages/f12/nautilus-pastebin/po/oc.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 0 | 84 | 0.0 | /mnt/stockage/packages/f12/nautilus-pastebin/po/ro.po | 
+ | [cs](/f12/language/cs) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/cs.po | 
+ | [de](/f12/language/de) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/de.po | 
+ | [es](/f12/language/es) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/es.po | 
+ | [fr](/f12/language/fr) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/fr.po | 
+ | [it](/f12/language/it) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/it.po | 
+ | [nl](/f12/language/nl) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/nl.po | 
+ | [ru](/f12/language/ru) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/ru.po | 
+ | [tr](/f12/language/tr) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/tr.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 61 | 84 | 72.6 | /mnt/stockage/packages/f12/nautilus-pastebin/po/zh_CN.po | 
+ | [sk](/f12/language/sk) | 13 | 84 | 15.5 | /mnt/stockage/packages/f12/nautilus-pastebin/po/sk.po | 
+ | [oc](/f12/language/oc) | 11 | 84 | 13.1 | /mnt/stockage/packages/f12/nautilus-pastebin/po/oc.po | 
+ | [ro](/f12/language/ro) | 0 | 84 | 0.0 | /mnt/stockage/packages/f12/nautilus-pastebin/po/ro.po | 
 {.sortable}
 
 

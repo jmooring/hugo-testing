@@ -18,11 +18,11 @@ The package gnome-devel-docs (version 2.24.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 10859 | 10859 | 100.0 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/es/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 10859 | 10859 | 100.0 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/fr/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 2171 | 10715 | 20.3 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/ru/ru.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1358 | 10715 | 12.7 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/it/it.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 139 | 10715 | 1.3 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/oc/oc.po | 
+ | [es](/f10/language/es) | 10859 | 10859 | 100.0 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/es/es.po | 
+ | [fr](/f10/language/fr) | 10859 | 10859 | 100.0 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/fr/fr.po | 
+ | [ru](/f10/language/ru) | 2171 | 10715 | 20.3 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/ru/ru.po | 
+ | [it](/f10/language/it) | 1358 | 10715 | 12.7 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/it/it.po | 
+ | [oc](/f10/language/oc) | 139 | 10715 | 1.3 | /mnt/stockage/packages/f10/gnome-devel-docs/platform-overview/oc/oc.po | 
 {.sortable}
 
 

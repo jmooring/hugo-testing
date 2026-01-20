@@ -18,7 +18,7 @@ The package lrzsz (version 0.12.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 709 | 1123 | 63.1 | /mnt/stockage/packages/f42/lrzsz/po/de.po | 
+ | [de](/f42/language/de) | 709 | 1123 | 63.1 | /mnt/stockage/packages/f42/lrzsz/po/de.po | 
 {.sortable}
 
 

@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ganyremote]({{< ref "/f16/package/ganyremote.md" >}}) | 494 | 494 | 100.0 | Austrian | 
- | [supertux]({{< ref "/f16/package/supertux.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [kanyremote]({{< ref "/f16/package/kanyremote.md" >}}) | 491 | 496 | 99.0 | Austrian | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f16/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
- | [gourmet]({{< ref "/f16/package/gourmet.md" >}}) | 2256 | 3647 | 61.9 | German (Austria) <de_AT@li.org> | 
- | [perl-libintl]({{< ref "/f16/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [gpsdrive]({{< ref "/f16/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [texlive]({{< ref "/f16/package/texlive.md" >}}) | 1 | 4382 | 0.0 | German <de@li.org> | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ganyremote](/f16/package/ganyremote) | 494 | 494 | 100.0 | Austrian | 
+ | [supertux](/f16/package/supertux) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [kanyremote](/f16/package/kanyremote) | 491 | 496 | 99.0 | Austrian | 
+ | [gnomebaker](/f16/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f16/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
+ | [gourmet](/f16/package/gourmet) | 2256 | 3647 | 61.9 | German (Austria) <de_AT@li.org> | 
+ | [perl-libintl](/f16/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [gpsdrive](/f16/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [texlive](/f16/package/texlive) | 1 | 4382 | 0.0 | German <de@li.org> | 
+ | [vidalia](/f16/package/vidalia) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

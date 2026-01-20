@@ -18,8 +18,8 @@ The package lordsawar (version 0.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f10/language/da.md" >}}) | 3178 | 3178 | 100.0 | /mnt/stockage/packages/f10/lordsawar/po/da.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f10/lordsawar/po/nl.po | 
+ | [da](/f10/language/da) | 3178 | 3178 | 100.0 | /mnt/stockage/packages/f10/lordsawar/po/da.po | 
+ | [nl](/f10/language/nl) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f10/lordsawar/po/nl.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package cherokee (version 0.99.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 3485 | 3704 | 94.1 | /mnt/stockage/packages/f10/cherokee/po/admin/es.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2725 | 3704 | 73.6 | /mnt/stockage/packages/f10/cherokee/po/admin/sv_SE.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2644 | 3704 | 71.4 | /mnt/stockage/packages/f10/cherokee/po/admin/zh_CN.po | 
- | [en]({{< ref "/f10/language/en.md" >}}) | 2555 | 3704 | 69.0 | /mnt/stockage/packages/f10/cherokee/po/admin/en.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 2368 | 3704 | 63.9 | /mnt/stockage/packages/f10/cherokee/po/admin/nl.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 806 | 3704 | 21.8 | /mnt/stockage/packages/f10/cherokee/po/admin/de.po | 
+ | [es](/f10/language/es) | 3485 | 3704 | 94.1 | /mnt/stockage/packages/f10/cherokee/po/admin/es.po | 
+ | [sv](/f10/language/sv) | 2725 | 3704 | 73.6 | /mnt/stockage/packages/f10/cherokee/po/admin/sv_SE.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2644 | 3704 | 71.4 | /mnt/stockage/packages/f10/cherokee/po/admin/zh_CN.po | 
+ | [en](/f10/language/en) | 2555 | 3704 | 69.0 | /mnt/stockage/packages/f10/cherokee/po/admin/en.po | 
+ | [nl](/f10/language/nl) | 2368 | 3704 | 63.9 | /mnt/stockage/packages/f10/cherokee/po/admin/nl.po | 
+ | [de](/f10/language/de) | 806 | 3704 | 21.8 | /mnt/stockage/packages/f10/cherokee/po/admin/de.po | 
 {.sortable}
 
 

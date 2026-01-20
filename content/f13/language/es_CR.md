@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [entertrack]({{< ref "/f13/package/entertrack.md" >}}) | 2847 | 2847 | 100.0 |  | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f13/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [entertrack](/f13/package/entertrack) | 2847 | 2847 | 100.0 |  | 
+ | [gnome-applets](/f13/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f13/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f13/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
 {.sortable}
 
 
@@ -53,7 +53,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [entertrack]({{< ref "/f13/package/entertrack.md" >}}) | /mnt/stockage/packages/f13/entertrack/locale/es_CR/LC_MESSAGES/messages.po | error-os |  | 
+ | [entertrack](/f13/package/entertrack) | /mnt/stockage/packages/f13/entertrack/locale/es_CR/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

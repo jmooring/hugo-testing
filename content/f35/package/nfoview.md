@@ -18,25 +18,25 @@ The package nfoview (version 1.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f35/language/br.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/br.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/es_ES.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/fr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/pt_PT.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/ro.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/tr.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/bg.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/he.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/hu.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/sr.po | 
+ | [br](/f35/language/br) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/br.po | 
+ | [cs](/f35/language/cs) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/cs.po | 
+ | [de](/f35/language/de) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/de.po | 
+ | [el](/f35/language/el) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/el.po | 
+ | [es](/f35/language/es) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/es_ES.po | 
+ | [fi](/f35/language/fi) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/fi.po | 
+ | [fr](/f35/language/fr) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/fr.po | 
+ | [nl](/f35/language/nl) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/nl.po | 
+ | [pl](/f35/language/pl) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/pt_BR.po | 
+ | [pt_PT](/f35/language/pt_PT) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/pt_PT.po | 
+ | [ro](/f35/language/ro) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/ro.po | 
+ | [sv](/f35/language/sv) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/sv.po | 
+ | [tr](/f35/language/tr) | 115 | 115 | 100.0 | /mnt/stockage/packages/f35/nfoview/po/tr.po | 
+ | [bg](/f35/language/bg) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/bg.po | 
+ | [he](/f35/language/he) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/he.po | 
+ | [hu](/f35/language/hu) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/hu.po | 
+ | [ru](/f35/language/ru) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/ru.po | 
+ | [sr](/f35/language/sr) | 64 | 115 | 55.7 | /mnt/stockage/packages/f35/nfoview/po/sr.po | 
 {.sortable}
 
 

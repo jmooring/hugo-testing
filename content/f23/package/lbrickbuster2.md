@@ -18,9 +18,9 @@ The package lbrickbuster2 (version 2.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 3897 | 4334 | 89.9 | /mnt/stockage/packages/f23/lbrickbuster2/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3875 | 4334 | 89.4 | /mnt/stockage/packages/f23/lbrickbuster2/po/fr.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 3864 | 4334 | 89.2 | /mnt/stockage/packages/f23/lbrickbuster2/po/tr.po | 
+ | [de](/f23/language/de) | 3897 | 4334 | 89.9 | /mnt/stockage/packages/f23/lbrickbuster2/po/de.po | 
+ | [fr](/f23/language/fr) | 3875 | 4334 | 89.4 | /mnt/stockage/packages/f23/lbrickbuster2/po/fr.po | 
+ | [tr](/f23/language/tr) | 3864 | 4334 | 89.2 | /mnt/stockage/packages/f23/lbrickbuster2/po/tr.po | 
 {.sortable}
 
 

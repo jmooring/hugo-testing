@@ -18,23 +18,23 @@ The package trader (version 7.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f31/language/da.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/de.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_AU.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_CA.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_GB.po | 
- | [en_US]({{< ref "/f31/language/en_US.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_US.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/eo.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en@quot.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/fr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/hu.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/nb.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/ru.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/sv.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 2000 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/fi.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 2000 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/hr.po | 
+ | [da](/f31/language/da) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/da.po | 
+ | [de](/f31/language/de) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/de.po | 
+ | [en_AU](/f31/language/en_AU) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_AU.po | 
+ | [en_CA](/f31/language/en_CA) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_CA.po | 
+ | [en_GB](/f31/language/en_GB) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_GB.po | 
+ | [en_US](/f31/language/en_US) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en_US.po | 
+ | [eo](/f31/language/eo) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/eo.po | 
+ | [error](/f31/language/error) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/en@quot.po | 
+ | [fr](/f31/language/fr) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/fr.po | 
+ | [hu](/f31/language/hu) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/hu.po | 
+ | [nb_NO](/f31/language/nb_NO) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/nb.po | 
+ | [pt_BR](/f31/language/pt_BR) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/ru.po | 
+ | [sr](/f31/language/sr) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/sr.po | 
+ | [sv](/f31/language/sv) | 2001 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/sv.po | 
+ | [fi](/f31/language/fi) | 2000 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/fi.po | 
+ | [hr](/f31/language/hr) | 2000 | 2001 | 100.0 | /mnt/stockage/packages/f31/trader/po/hr.po | 
 {.sortable}
 
 

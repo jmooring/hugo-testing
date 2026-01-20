@@ -18,16 +18,16 @@ The package hivex (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f13/hivex/po/hi.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f13/hivex/po/kn.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f13/hivex/po/pl.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 222 | 270 | 82.2 | /mnt/stockage/packages/f13/hivex/po/mr.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 14 | 270 | 5.2 | /mnt/stockage/packages/f13/hivex/po/gu.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 14 | 270 | 5.2 | /mnt/stockage/packages/f13/hivex/po/ml.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 14 | 270 | 5.2 | /mnt/stockage/packages/f13/hivex/po/or.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 0 | 270 | 0.0 | /mnt/stockage/packages/f13/hivex/po/pa.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 0 | 270 | 0.0 | /mnt/stockage/packages/f13/hivex/po/ta.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 0 | 270 | 0.0 | /mnt/stockage/packages/f13/hivex/po/te.po | 
+ | [hi](/f13/language/hi) | 270 | 270 | 100.0 | /mnt/stockage/packages/f13/hivex/po/hi.po | 
+ | [kn](/f13/language/kn) | 270 | 270 | 100.0 | /mnt/stockage/packages/f13/hivex/po/kn.po | 
+ | [pl](/f13/language/pl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f13/hivex/po/pl.po | 
+ | [mr](/f13/language/mr) | 222 | 270 | 82.2 | /mnt/stockage/packages/f13/hivex/po/mr.po | 
+ | [gu](/f13/language/gu) | 14 | 270 | 5.2 | /mnt/stockage/packages/f13/hivex/po/gu.po | 
+ | [ml](/f13/language/ml) | 14 | 270 | 5.2 | /mnt/stockage/packages/f13/hivex/po/ml.po | 
+ | [or](/f13/language/or) | 14 | 270 | 5.2 | /mnt/stockage/packages/f13/hivex/po/or.po | 
+ | [pa](/f13/language/pa) | 0 | 270 | 0.0 | /mnt/stockage/packages/f13/hivex/po/pa.po | 
+ | [ta](/f13/language/ta) | 0 | 270 | 0.0 | /mnt/stockage/packages/f13/hivex/po/ta.po | 
+ | [te](/f13/language/te) | 0 | 270 | 0.0 | /mnt/stockage/packages/f13/hivex/po/te.po | 
 {.sortable}
 
 

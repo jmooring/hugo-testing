@@ -18,67 +18,67 @@ The package subdownloader (version 2.0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ar/LC_MESSAGES/subdownloader.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ast/LC_MESSAGES/subdownloader.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/bg/LC_MESSAGES/subdownloader.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ca/LC_MESSAGES/subdownloader.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/cs/LC_MESSAGES/subdownloader.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/da/LC_MESSAGES/subdownloader.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/de/LC_MESSAGES/subdownloader.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/el/LC_MESSAGES/subdownloader.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/en/LC_MESSAGES/subdownloader.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/es_ES/LC_MESSAGES/subdownloader.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/et/LC_MESSAGES/subdownloader.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/eu/LC_MESSAGES/subdownloader.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/fa/LC_MESSAGES/subdownloader.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/fi/LC_MESSAGES/subdownloader.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/fr/LC_MESSAGES/subdownloader.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/gl/LC_MESSAGES/subdownloader.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/he/LC_MESSAGES/subdownloader.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/hr/LC_MESSAGES/subdownloader.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/hu/LC_MESSAGES/subdownloader.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/it/LC_MESSAGES/subdownloader.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/lt/LC_MESSAGES/subdownloader.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ms/LC_MESSAGES/subdownloader.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/nb/LC_MESSAGES/subdownloader.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/nl/LC_MESSAGES/subdownloader.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/pl/LC_MESSAGES/subdownloader.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/pt_BR/LC_MESSAGES/subdownloader.po | 
- | [pt_PT]({{< ref "/f27/language/pt_PT.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/pt_PT/LC_MESSAGES/subdownloader.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ro/LC_MESSAGES/subdownloader.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ru/LC_MESSAGES/subdownloader.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sk/LC_MESSAGES/subdownloader.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sl/LC_MESSAGES/subdownloader.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sr/LC_MESSAGES/subdownloader.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sv/LC_MESSAGES/subdownloader.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/tr/LC_MESSAGES/subdownloader.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/uk/LC_MESSAGES/subdownloader.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/zh_CN/LC_MESSAGES/subdownloader.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 955 | 968 | 98.7 | /mnt/stockage/packages/f27/subdownloader/locale/bs/LC_MESSAGES/subdownloader.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 904 | 968 | 93.4 | /mnt/stockage/packages/f27/subdownloader/locale/zh_TW/LC_MESSAGES/subdownloader.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 832 | 968 | 86.0 | /mnt/stockage/packages/f27/subdownloader/locale/vi/LC_MESSAGES/subdownloader.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 742 | 968 | 76.7 | /mnt/stockage/packages/f27/subdownloader/locale/sr@latin/LC_MESSAGES/subdownloader.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 570 | 968 | 58.9 | /mnt/stockage/packages/f27/subdownloader/locale/af/LC_MESSAGES/subdownloader.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 570 | 968 | 58.9 | /mnt/stockage/packages/f27/subdownloader/locale/oc/LC_MESSAGES/subdownloader.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 549 | 968 | 56.7 | /mnt/stockage/packages/f27/subdownloader/locale/ko/LC_MESSAGES/subdownloader.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 426 | 968 | 44.0 | /mnt/stockage/packages/f27/subdownloader/locale/th/LC_MESSAGES/subdownloader.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 391 | 968 | 40.4 | /mnt/stockage/packages/f27/subdownloader/locale/mk/LC_MESSAGES/subdownloader.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 384 | 968 | 39.7 | /mnt/stockage/packages/f27/subdownloader/locale/id/LC_MESSAGES/subdownloader.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 147 | 968 | 15.2 | /mnt/stockage/packages/f27/subdownloader/locale/sq/LC_MESSAGES/subdownloader.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 130 | 968 | 13.4 | /mnt/stockage/packages/f27/subdownloader/locale/is/LC_MESSAGES/subdownloader.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 100 | 968 | 10.3 | /mnt/stockage/packages/f27/subdownloader/locale/ja/LC_MESSAGES/subdownloader.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 79 | 968 | 8.2 | /mnt/stockage/packages/f27/subdownloader/locale/kn/LC_MESSAGES/subdownloader.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 20 | 968 | 2.1 | /mnt/stockage/packages/f27/subdownloader/locale/bn/LC_MESSAGES/subdownloader.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 14 | 968 | 1.4 | /mnt/stockage/packages/f27/subdownloader/locale/en_CA/LC_MESSAGES/subdownloader.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 5 | 968 | 0.5 | /mnt/stockage/packages/f27/subdownloader/locale/ne/LC_MESSAGES/subdownloader.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/eo/LC_MESSAGES/subdownloader.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/hi/LC_MESSAGES/subdownloader.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/ka/LC_MESSAGES/subdownloader.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/lv/LC_MESSAGES/subdownloader.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/nn/LC_MESSAGES/subdownloader.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/ta/LC_MESSAGES/subdownloader.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/zh_HK/LC_MESSAGES/subdownloader.po | 
- | [zza]({{< ref "/f27/language/zza.md" >}}) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/zza/LC_MESSAGES/subdownloader.po | 
+ | [ar](/f27/language/ar) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ar/LC_MESSAGES/subdownloader.po | 
+ | [ast](/f27/language/ast) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ast/LC_MESSAGES/subdownloader.po | 
+ | [bg](/f27/language/bg) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/bg/LC_MESSAGES/subdownloader.po | 
+ | [ca](/f27/language/ca) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ca/LC_MESSAGES/subdownloader.po | 
+ | [cs](/f27/language/cs) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/cs/LC_MESSAGES/subdownloader.po | 
+ | [da](/f27/language/da) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/da/LC_MESSAGES/subdownloader.po | 
+ | [de](/f27/language/de) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/de/LC_MESSAGES/subdownloader.po | 
+ | [el](/f27/language/el) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/el/LC_MESSAGES/subdownloader.po | 
+ | [en](/f27/language/en) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/en/LC_MESSAGES/subdownloader.po | 
+ | [es](/f27/language/es) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/es_ES/LC_MESSAGES/subdownloader.po | 
+ | [et](/f27/language/et) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/et/LC_MESSAGES/subdownloader.po | 
+ | [eu](/f27/language/eu) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/eu/LC_MESSAGES/subdownloader.po | 
+ | [fa](/f27/language/fa) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/fa/LC_MESSAGES/subdownloader.po | 
+ | [fi](/f27/language/fi) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/fi/LC_MESSAGES/subdownloader.po | 
+ | [fr](/f27/language/fr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/fr/LC_MESSAGES/subdownloader.po | 
+ | [gl](/f27/language/gl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/gl/LC_MESSAGES/subdownloader.po | 
+ | [he](/f27/language/he) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/he/LC_MESSAGES/subdownloader.po | 
+ | [hr](/f27/language/hr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/hr/LC_MESSAGES/subdownloader.po | 
+ | [hu](/f27/language/hu) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/hu/LC_MESSAGES/subdownloader.po | 
+ | [it](/f27/language/it) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/it/LC_MESSAGES/subdownloader.po | 
+ | [lt](/f27/language/lt) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/lt/LC_MESSAGES/subdownloader.po | 
+ | [ms](/f27/language/ms) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ms/LC_MESSAGES/subdownloader.po | 
+ | [nb_NO](/f27/language/nb_NO) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/nb/LC_MESSAGES/subdownloader.po | 
+ | [nl](/f27/language/nl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/nl/LC_MESSAGES/subdownloader.po | 
+ | [pl](/f27/language/pl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/pl/LC_MESSAGES/subdownloader.po | 
+ | [pt_BR](/f27/language/pt_BR) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/pt_BR/LC_MESSAGES/subdownloader.po | 
+ | [pt_PT](/f27/language/pt_PT) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/pt_PT/LC_MESSAGES/subdownloader.po | 
+ | [ro](/f27/language/ro) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ro/LC_MESSAGES/subdownloader.po | 
+ | [ru](/f27/language/ru) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/ru/LC_MESSAGES/subdownloader.po | 
+ | [sk](/f27/language/sk) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sk/LC_MESSAGES/subdownloader.po | 
+ | [sl](/f27/language/sl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sl/LC_MESSAGES/subdownloader.po | 
+ | [sr](/f27/language/sr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sr/LC_MESSAGES/subdownloader.po | 
+ | [sv](/f27/language/sv) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/sv/LC_MESSAGES/subdownloader.po | 
+ | [tr](/f27/language/tr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/tr/LC_MESSAGES/subdownloader.po | 
+ | [uk](/f27/language/uk) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/uk/LC_MESSAGES/subdownloader.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 968 | 968 | 100.0 | /mnt/stockage/packages/f27/subdownloader/locale/zh_CN/LC_MESSAGES/subdownloader.po | 
+ | [bs](/f27/language/bs) | 955 | 968 | 98.7 | /mnt/stockage/packages/f27/subdownloader/locale/bs/LC_MESSAGES/subdownloader.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 904 | 968 | 93.4 | /mnt/stockage/packages/f27/subdownloader/locale/zh_TW/LC_MESSAGES/subdownloader.po | 
+ | [vi](/f27/language/vi) | 832 | 968 | 86.0 | /mnt/stockage/packages/f27/subdownloader/locale/vi/LC_MESSAGES/subdownloader.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 742 | 968 | 76.7 | /mnt/stockage/packages/f27/subdownloader/locale/sr@latin/LC_MESSAGES/subdownloader.po | 
+ | [af](/f27/language/af) | 570 | 968 | 58.9 | /mnt/stockage/packages/f27/subdownloader/locale/af/LC_MESSAGES/subdownloader.po | 
+ | [oc](/f27/language/oc) | 570 | 968 | 58.9 | /mnt/stockage/packages/f27/subdownloader/locale/oc/LC_MESSAGES/subdownloader.po | 
+ | [ko](/f27/language/ko) | 549 | 968 | 56.7 | /mnt/stockage/packages/f27/subdownloader/locale/ko/LC_MESSAGES/subdownloader.po | 
+ | [th](/f27/language/th) | 426 | 968 | 44.0 | /mnt/stockage/packages/f27/subdownloader/locale/th/LC_MESSAGES/subdownloader.po | 
+ | [mk](/f27/language/mk) | 391 | 968 | 40.4 | /mnt/stockage/packages/f27/subdownloader/locale/mk/LC_MESSAGES/subdownloader.po | 
+ | [id](/f27/language/id) | 384 | 968 | 39.7 | /mnt/stockage/packages/f27/subdownloader/locale/id/LC_MESSAGES/subdownloader.po | 
+ | [sq](/f27/language/sq) | 147 | 968 | 15.2 | /mnt/stockage/packages/f27/subdownloader/locale/sq/LC_MESSAGES/subdownloader.po | 
+ | [is](/f27/language/is) | 130 | 968 | 13.4 | /mnt/stockage/packages/f27/subdownloader/locale/is/LC_MESSAGES/subdownloader.po | 
+ | [ja](/f27/language/ja) | 100 | 968 | 10.3 | /mnt/stockage/packages/f27/subdownloader/locale/ja/LC_MESSAGES/subdownloader.po | 
+ | [kn](/f27/language/kn) | 79 | 968 | 8.2 | /mnt/stockage/packages/f27/subdownloader/locale/kn/LC_MESSAGES/subdownloader.po | 
+ | [bn](/f27/language/bn) | 20 | 968 | 2.1 | /mnt/stockage/packages/f27/subdownloader/locale/bn/LC_MESSAGES/subdownloader.po | 
+ | [en_CA](/f27/language/en_CA) | 14 | 968 | 1.4 | /mnt/stockage/packages/f27/subdownloader/locale/en_CA/LC_MESSAGES/subdownloader.po | 
+ | [ne](/f27/language/ne) | 5 | 968 | 0.5 | /mnt/stockage/packages/f27/subdownloader/locale/ne/LC_MESSAGES/subdownloader.po | 
+ | [eo](/f27/language/eo) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/eo/LC_MESSAGES/subdownloader.po | 
+ | [hi](/f27/language/hi) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/hi/LC_MESSAGES/subdownloader.po | 
+ | [ka](/f27/language/ka) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/ka/LC_MESSAGES/subdownloader.po | 
+ | [lv](/f27/language/lv) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/lv/LC_MESSAGES/subdownloader.po | 
+ | [nn](/f27/language/nn) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/nn/LC_MESSAGES/subdownloader.po | 
+ | [ta](/f27/language/ta) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/ta/LC_MESSAGES/subdownloader.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/zh_HK/LC_MESSAGES/subdownloader.po | 
+ | [zza](/f27/language/zza) | 0 | 968 | 0.0 | /mnt/stockage/packages/f27/subdownloader/locale/zza/LC_MESSAGES/subdownloader.po | 
 {.sortable}
 
 

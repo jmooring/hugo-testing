@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wesnoth]({{< ref "/f10/package/wesnoth.md" >}}) | 23077 | 212627 | 10.9 | Latin | 
- | [gedit]({{< ref "/f10/package/gedit.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [gnome-games]({{< ref "/f10/package/gnome-games.md" >}}) | 109 | 7576 | 1.4 | Latin <la@li.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 17 | 1998 | 0.9 | Latin <la@li.org> | 
- | [gdm]({{< ref "/f10/package/gdm.md" >}}) | 4 | 1323 | 0.3 | Latin <la@li.org> | 
- | [warzone2100]({{< ref "/f10/package/warzone2100.md" >}}) | 18 | 9234 | 0.2 | Latin | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
- | [evolution-data-server]({{< ref "/f10/package/evolution-data-server.md" >}}) | 3 | 5111 | 0.1 | Latin <la@li.org> | 
+ | [wesnoth](/f10/package/wesnoth) | 23077 | 212627 | 10.9 | Latin | 
+ | [gedit](/f10/package/gedit) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [gnome-games](/f10/package/gnome-games) | 109 | 7576 | 1.4 | Latin <la@li.org> | 
+ | [deluge](/f10/package/deluge) | 17 | 1998 | 0.9 | Latin <la@li.org> | 
+ | [gdm](/f10/package/gdm) | 4 | 1323 | 0.3 | Latin <la@li.org> | 
+ | [warzone2100](/f10/package/warzone2100) | 18 | 9234 | 0.2 | Latin | 
+ | [gnome-panel](/f10/package/gnome-panel) | 3 | 4582 | 0.1 | Latin <gnome-latin-list@gnome.org> | 
+ | [evolution-data-server](/f10/package/evolution-data-server) | 3 | 5111 | 0.1 | Latin <la@li.org> | 
 {.sortable}
 
 

@@ -18,62 +18,62 @@ The package gdesklets (version 0.36.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 1528 | 1528 | 100.0 | /mnt/stockage/packages/f23/gdesklets/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1519 | 1528 | 99.4 | /mnt/stockage/packages/f23/gdesklets/po/es.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1515 | 1528 | 99.1 | /mnt/stockage/packages/f23/gdesklets/po/pt_BR.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1506 | 1528 | 98.6 | /mnt/stockage/packages/f23/gdesklets/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1437 | 1528 | 94.0 | /mnt/stockage/packages/f23/gdesklets/po/fr.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1418 | 1528 | 92.8 | /mnt/stockage/packages/f23/gdesklets/po/fi.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 1227 | 1528 | 80.3 | /mnt/stockage/packages/f23/gdesklets/po/lv.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1195 | 1528 | 78.2 | /mnt/stockage/packages/f23/gdesklets/po/ru.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1186 | 1528 | 77.6 | /mnt/stockage/packages/f23/gdesklets/po/el.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 1186 | 1528 | 77.6 | /mnt/stockage/packages/f23/gdesklets/po/en_CA.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1186 | 1528 | 77.6 | /mnt/stockage/packages/f23/gdesklets/po/nl.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1127 | 1528 | 73.8 | /mnt/stockage/packages/f23/gdesklets/po/cs.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1106 | 1528 | 72.4 | /mnt/stockage/packages/f23/gdesklets/po/hu.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1081 | 1528 | 70.7 | /mnt/stockage/packages/f23/gdesklets/po/sv.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1061 | 1528 | 69.4 | /mnt/stockage/packages/f23/gdesklets/po/it.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1020 | 1528 | 66.8 | /mnt/stockage/packages/f23/gdesklets/po/uk.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 943 | 1528 | 61.7 | /mnt/stockage/packages/f23/gdesklets/po/pt.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 941 | 1528 | 61.6 | /mnt/stockage/packages/f23/gdesklets/po/ca.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 919 | 1528 | 60.1 | /mnt/stockage/packages/f23/gdesklets/po/ar.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 910 | 1528 | 59.6 | /mnt/stockage/packages/f23/gdesklets/po/bg.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 906 | 1528 | 59.3 | /mnt/stockage/packages/f23/gdesklets/po/dz.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 906 | 1528 | 59.3 | /mnt/stockage/packages/f23/gdesklets/po/gl.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 894 | 1528 | 58.5 | /mnt/stockage/packages/f23/gdesklets/po/eu.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 887 | 1528 | 58.0 | /mnt/stockage/packages/f23/gdesklets/po/vi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 887 | 1528 | 58.0 | /mnt/stockage/packages/f23/gdesklets/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 887 | 1528 | 58.0 | /mnt/stockage/packages/f23/gdesklets/po/zh_HK.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 880 | 1528 | 57.6 | /mnt/stockage/packages/f23/gdesklets/po/ne.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 876 | 1528 | 57.3 | /mnt/stockage/packages/f23/gdesklets/po/oc.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 870 | 1528 | 56.9 | /mnt/stockage/packages/f23/gdesklets/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 826 | 1528 | 54.1 | /mnt/stockage/packages/f23/gdesklets/po/ko.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 717 | 1528 | 46.9 | /mnt/stockage/packages/f23/gdesklets/po/id.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 542 | 1528 | 35.5 | /mnt/stockage/packages/f23/gdesklets/po/sl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 448 | 1528 | 29.3 | /mnt/stockage/packages/f23/gdesklets/po/pl.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 407 | 1528 | 26.6 | /mnt/stockage/packages/f23/gdesklets/po/lt.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 393 | 1528 | 25.7 | /mnt/stockage/packages/f23/gdesklets/po/zh_CN.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 361 | 1528 | 23.6 | /mnt/stockage/packages/f23/gdesklets/po/tr.po | 
- | [fo]({{< ref "/f23/language/fo.md" >}}) | 335 | 1528 | 21.9 | /mnt/stockage/packages/f23/gdesklets/po/fo.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 320 | 1528 | 20.9 | /mnt/stockage/packages/f23/gdesklets/po/nb.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 319 | 1528 | 20.9 | /mnt/stockage/packages/f23/gdesklets/po/sq.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 252 | 1528 | 16.5 | /mnt/stockage/packages/f23/gdesklets/po/he.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 182 | 1528 | 11.9 | /mnt/stockage/packages/f23/gdesklets/po/hr.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 113 | 1528 | 7.4 | /mnt/stockage/packages/f23/gdesklets/po/pa.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 111 | 1528 | 7.3 | /mnt/stockage/packages/f23/gdesklets/po/bn.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 106 | 1528 | 6.9 | /mnt/stockage/packages/f23/gdesklets/po/ta.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 74 | 1528 | 4.8 | /mnt/stockage/packages/f23/gdesklets/po/mr.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 48 | 1528 | 3.1 | /mnt/stockage/packages/f23/gdesklets/po/is.po | 
- | [en_AU]({{< ref "/f23/language/en_AU.md" >}}) | 41 | 1528 | 2.7 | /mnt/stockage/packages/f23/gdesklets/po/en_AU.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 41 | 1528 | 2.7 | /mnt/stockage/packages/f23/gdesklets/po/te.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 37 | 1528 | 2.4 | /mnt/stockage/packages/f23/gdesklets/po/sr@Latn.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 37 | 1528 | 2.4 | /mnt/stockage/packages/f23/gdesklets/po/sr.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 33 | 1528 | 2.2 | /mnt/stockage/packages/f23/gdesklets/po/bs.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 29 | 1528 | 1.9 | /mnt/stockage/packages/f23/gdesklets/po/ms.po | 
- | [az]({{< ref "/f23/language/az.md" >}}) | 7 | 1528 | 0.5 | /mnt/stockage/packages/f23/gdesklets/po/az.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 7 | 1528 | 0.5 | /mnt/stockage/packages/f23/gdesklets/po/ml.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 5 | 1528 | 0.3 | /mnt/stockage/packages/f23/gdesklets/po/rw.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 0 | 1528 | 0.0 | /mnt/stockage/packages/f23/gdesklets/po/hi.po | 
+ | [en_GB](/f23/language/en_GB) | 1528 | 1528 | 100.0 | /mnt/stockage/packages/f23/gdesklets/po/en_GB.po | 
+ | [es](/f23/language/es) | 1519 | 1528 | 99.4 | /mnt/stockage/packages/f23/gdesklets/po/es.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1515 | 1528 | 99.1 | /mnt/stockage/packages/f23/gdesklets/po/pt_BR.po | 
+ | [de](/f23/language/de) | 1506 | 1528 | 98.6 | /mnt/stockage/packages/f23/gdesklets/po/de.po | 
+ | [fr](/f23/language/fr) | 1437 | 1528 | 94.0 | /mnt/stockage/packages/f23/gdesklets/po/fr.po | 
+ | [fi](/f23/language/fi) | 1418 | 1528 | 92.8 | /mnt/stockage/packages/f23/gdesklets/po/fi.po | 
+ | [lv](/f23/language/lv) | 1227 | 1528 | 80.3 | /mnt/stockage/packages/f23/gdesklets/po/lv.po | 
+ | [ru](/f23/language/ru) | 1195 | 1528 | 78.2 | /mnt/stockage/packages/f23/gdesklets/po/ru.po | 
+ | [el](/f23/language/el) | 1186 | 1528 | 77.6 | /mnt/stockage/packages/f23/gdesklets/po/el.po | 
+ | [en_CA](/f23/language/en_CA) | 1186 | 1528 | 77.6 | /mnt/stockage/packages/f23/gdesklets/po/en_CA.po | 
+ | [nl](/f23/language/nl) | 1186 | 1528 | 77.6 | /mnt/stockage/packages/f23/gdesklets/po/nl.po | 
+ | [cs](/f23/language/cs) | 1127 | 1528 | 73.8 | /mnt/stockage/packages/f23/gdesklets/po/cs.po | 
+ | [hu](/f23/language/hu) | 1106 | 1528 | 72.4 | /mnt/stockage/packages/f23/gdesklets/po/hu.po | 
+ | [sv](/f23/language/sv) | 1081 | 1528 | 70.7 | /mnt/stockage/packages/f23/gdesklets/po/sv.po | 
+ | [it](/f23/language/it) | 1061 | 1528 | 69.4 | /mnt/stockage/packages/f23/gdesklets/po/it.po | 
+ | [uk](/f23/language/uk) | 1020 | 1528 | 66.8 | /mnt/stockage/packages/f23/gdesklets/po/uk.po | 
+ | [pt](/f23/language/pt) | 943 | 1528 | 61.7 | /mnt/stockage/packages/f23/gdesklets/po/pt.po | 
+ | [ca](/f23/language/ca) | 941 | 1528 | 61.6 | /mnt/stockage/packages/f23/gdesklets/po/ca.po | 
+ | [ar](/f23/language/ar) | 919 | 1528 | 60.1 | /mnt/stockage/packages/f23/gdesklets/po/ar.po | 
+ | [bg](/f23/language/bg) | 910 | 1528 | 59.6 | /mnt/stockage/packages/f23/gdesklets/po/bg.po | 
+ | [dz](/f23/language/dz) | 906 | 1528 | 59.3 | /mnt/stockage/packages/f23/gdesklets/po/dz.po | 
+ | [gl](/f23/language/gl) | 906 | 1528 | 59.3 | /mnt/stockage/packages/f23/gdesklets/po/gl.po | 
+ | [eu](/f23/language/eu) | 894 | 1528 | 58.5 | /mnt/stockage/packages/f23/gdesklets/po/eu.po | 
+ | [vi](/f23/language/vi) | 887 | 1528 | 58.0 | /mnt/stockage/packages/f23/gdesklets/po/vi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 887 | 1528 | 58.0 | /mnt/stockage/packages/f23/gdesklets/po/zh_TW.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 887 | 1528 | 58.0 | /mnt/stockage/packages/f23/gdesklets/po/zh_HK.po | 
+ | [ne](/f23/language/ne) | 880 | 1528 | 57.6 | /mnt/stockage/packages/f23/gdesklets/po/ne.po | 
+ | [oc](/f23/language/oc) | 876 | 1528 | 57.3 | /mnt/stockage/packages/f23/gdesklets/po/oc.po | 
+ | [ja](/f23/language/ja) | 870 | 1528 | 56.9 | /mnt/stockage/packages/f23/gdesklets/po/ja.po | 
+ | [ko](/f23/language/ko) | 826 | 1528 | 54.1 | /mnt/stockage/packages/f23/gdesklets/po/ko.po | 
+ | [id](/f23/language/id) | 717 | 1528 | 46.9 | /mnt/stockage/packages/f23/gdesklets/po/id.po | 
+ | [sl](/f23/language/sl) | 542 | 1528 | 35.5 | /mnt/stockage/packages/f23/gdesklets/po/sl.po | 
+ | [pl](/f23/language/pl) | 448 | 1528 | 29.3 | /mnt/stockage/packages/f23/gdesklets/po/pl.po | 
+ | [lt](/f23/language/lt) | 407 | 1528 | 26.6 | /mnt/stockage/packages/f23/gdesklets/po/lt.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 393 | 1528 | 25.7 | /mnt/stockage/packages/f23/gdesklets/po/zh_CN.po | 
+ | [tr](/f23/language/tr) | 361 | 1528 | 23.6 | /mnt/stockage/packages/f23/gdesklets/po/tr.po | 
+ | [fo](/f23/language/fo) | 335 | 1528 | 21.9 | /mnt/stockage/packages/f23/gdesklets/po/fo.po | 
+ | [nb_NO](/f23/language/nb_NO) | 320 | 1528 | 20.9 | /mnt/stockage/packages/f23/gdesklets/po/nb.po | 
+ | [sq](/f23/language/sq) | 319 | 1528 | 20.9 | /mnt/stockage/packages/f23/gdesklets/po/sq.po | 
+ | [he](/f23/language/he) | 252 | 1528 | 16.5 | /mnt/stockage/packages/f23/gdesklets/po/he.po | 
+ | [hr](/f23/language/hr) | 182 | 1528 | 11.9 | /mnt/stockage/packages/f23/gdesklets/po/hr.po | 
+ | [pa](/f23/language/pa) | 113 | 1528 | 7.4 | /mnt/stockage/packages/f23/gdesklets/po/pa.po | 
+ | [bn](/f23/language/bn) | 111 | 1528 | 7.3 | /mnt/stockage/packages/f23/gdesklets/po/bn.po | 
+ | [ta](/f23/language/ta) | 106 | 1528 | 6.9 | /mnt/stockage/packages/f23/gdesklets/po/ta.po | 
+ | [mr](/f23/language/mr) | 74 | 1528 | 4.8 | /mnt/stockage/packages/f23/gdesklets/po/mr.po | 
+ | [is](/f23/language/is) | 48 | 1528 | 3.1 | /mnt/stockage/packages/f23/gdesklets/po/is.po | 
+ | [en_AU](/f23/language/en_AU) | 41 | 1528 | 2.7 | /mnt/stockage/packages/f23/gdesklets/po/en_AU.po | 
+ | [te](/f23/language/te) | 41 | 1528 | 2.7 | /mnt/stockage/packages/f23/gdesklets/po/te.po | 
+ | [error](/f23/language/error) | 37 | 1528 | 2.4 | /mnt/stockage/packages/f23/gdesklets/po/sr@Latn.po | 
+ | [sr](/f23/language/sr) | 37 | 1528 | 2.4 | /mnt/stockage/packages/f23/gdesklets/po/sr.po | 
+ | [bs](/f23/language/bs) | 33 | 1528 | 2.2 | /mnt/stockage/packages/f23/gdesklets/po/bs.po | 
+ | [ms](/f23/language/ms) | 29 | 1528 | 1.9 | /mnt/stockage/packages/f23/gdesklets/po/ms.po | 
+ | [az](/f23/language/az) | 7 | 1528 | 0.5 | /mnt/stockage/packages/f23/gdesklets/po/az.po | 
+ | [ml](/f23/language/ml) | 7 | 1528 | 0.5 | /mnt/stockage/packages/f23/gdesklets/po/ml.po | 
+ | [rw](/f23/language/rw) | 5 | 1528 | 0.3 | /mnt/stockage/packages/f23/gdesklets/po/rw.po | 
+ | [hi](/f23/language/hi) | 0 | 1528 | 0.0 | /mnt/stockage/packages/f23/gdesklets/po/hi.po | 
 {.sortable}
 
 

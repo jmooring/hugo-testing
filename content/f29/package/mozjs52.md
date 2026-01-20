@@ -18,7 +18,7 @@ The package mozjs52 (version 52.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f29/mozjs52/firefox-52.9.0esr/python/mach/mach/locale/en_US/LC_MESSAGES/alias.po/mnt/stockage/packages/f29/mozjs52/firefox-52.9.0esr/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f29/language/en_US) | 10 | 10 | 100.0 | /mnt/stockage/packages/f29/mozjs52/firefox-52.9.0esr/python/mach/mach/locale/en_US/LC_MESSAGES/alias.po/mnt/stockage/packages/f29/mozjs52/firefox-52.9.0esr/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

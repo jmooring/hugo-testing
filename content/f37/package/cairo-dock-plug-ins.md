@@ -18,40 +18,40 @@ The package cairo-dock-plug-ins (version 3.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/de.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/en.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/en_GB.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/it.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/nl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 10181 | 10203 | 99.8 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/uk.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 9238 | 10203 | 90.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ja.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 8819 | 10203 | 86.4 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 8617 | 10203 | 84.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 8265 | 10203 | 81.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sk.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 8058 | 10203 | 79.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/es.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 7790 | 10203 | 76.4 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/el.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 7128 | 10203 | 69.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/zh_TW.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 4270 | 10203 | 41.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/hu.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 3283 | 10203 | 32.2 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/pt.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 3219 | 10203 | 31.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/zh_CN.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 3167 | 10203 | 31.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/cs.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 2203 | 10203 | 21.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sr@latin.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 2028 | 10203 | 19.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/et.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 1801 | 10203 | 17.7 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ca.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 1695 | 10203 | 16.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/uz.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 1488 | 10203 | 14.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/hr.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1423 | 10203 | 13.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/tr.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1221 | 10203 | 12.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/pl.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 1169 | 10203 | 11.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/he.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 1060 | 10203 | 10.4 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/da.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 967 | 10203 | 9.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ko.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 843 | 10203 | 8.3 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ar.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 674 | 10203 | 6.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/eu.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 264 | 10203 | 2.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/lt.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 256 | 10203 | 2.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/id.po | 
+ | [de](/f37/language/de) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/de.po | 
+ | [en](/f37/language/en) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/en.po | 
+ | [en_GB](/f37/language/en_GB) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/en_GB.po | 
+ | [fr](/f37/language/fr) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/fr.po | 
+ | [it](/f37/language/it) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/it.po | 
+ | [nl](/f37/language/nl) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/nl.po | 
+ | [sr](/f37/language/sr) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sr.po | 
+ | [sv](/f37/language/sv) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sv.po | 
+ | [uk](/f37/language/uk) | 10181 | 10203 | 99.8 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/uk.po | 
+ | [ja](/f37/language/ja) | 9238 | 10203 | 90.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ja.po | 
+ | [pt_BR](/f37/language/pt_BR) | 8819 | 10203 | 86.4 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 8617 | 10203 | 84.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ru.po | 
+ | [sk](/f37/language/sk) | 8265 | 10203 | 81.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sk.po | 
+ | [es](/f37/language/es) | 8058 | 10203 | 79.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/es.po | 
+ | [el](/f37/language/el) | 7790 | 10203 | 76.4 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/el.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 7128 | 10203 | 69.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/zh_TW.po | 
+ | [hu](/f37/language/hu) | 4270 | 10203 | 41.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/hu.po | 
+ | [pt](/f37/language/pt) | 3283 | 10203 | 32.2 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/pt.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 3219 | 10203 | 31.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/zh_CN.po | 
+ | [cs](/f37/language/cs) | 3167 | 10203 | 31.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/cs.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 2203 | 10203 | 21.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/sr@latin.po | 
+ | [et](/f37/language/et) | 2028 | 10203 | 19.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/et.po | 
+ | [ca](/f37/language/ca) | 1801 | 10203 | 17.7 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ca.po | 
+ | [uz](/f37/language/uz) | 1695 | 10203 | 16.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/uz.po | 
+ | [hr](/f37/language/hr) | 1488 | 10203 | 14.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/hr.po | 
+ | [tr](/f37/language/tr) | 1423 | 10203 | 13.9 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/tr.po | 
+ | [pl](/f37/language/pl) | 1221 | 10203 | 12.0 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/pl.po | 
+ | [he](/f37/language/he) | 1169 | 10203 | 11.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/he.po | 
+ | [da](/f37/language/da) | 1060 | 10203 | 10.4 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/da.po | 
+ | [ko](/f37/language/ko) | 967 | 10203 | 9.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ko.po | 
+ | [ar](/f37/language/ar) | 843 | 10203 | 8.3 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/ar.po | 
+ | [eu](/f37/language/eu) | 674 | 10203 | 6.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/eu.po | 
+ | [lt](/f37/language/lt) | 264 | 10203 | 2.6 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/lt.po | 
+ | [id](/f37/language/id) | 256 | 10203 | 2.5 | /mnt/stockage/packages/f37/cairo-dock-plug-ins/po/id.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package linkage (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 900 | 943 | 95.4 | /mnt/stockage/packages/f10/linkage/po/sv.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 646 | 726 | 89.0 | /mnt/stockage/packages/f10/linkage/po/ru.po | 
+ | [sv](/f10/language/sv) | 900 | 943 | 95.4 | /mnt/stockage/packages/f10/linkage/po/sv.po | 
+ | [ru](/f10/language/ru) | 646 | 726 | 89.0 | /mnt/stockage/packages/f10/linkage/po/ru.po | 
 {.sortable}
 
 

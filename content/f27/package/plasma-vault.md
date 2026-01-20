@@ -18,41 +18,41 @@ The package plasma-vault (version 5.12.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ca/plasmavault-kde.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ca@valencia/plasmavault-kde.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/da/plasmavault-kde.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/de/plasmavault-kde.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/en_GB/plasmavault-kde.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/es/plasmavault-kde.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/eu/plasmavault-kde.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/fi/plasmavault-kde.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/fr/plasmavault-kde.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/gl/plasmavault-kde.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/id/plasmavault-kde.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/it/plasmavault-kde.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ko/plasmavault-kde.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/nl/plasmavault-kde.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/nn/plasmavault-kde.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/pl/plasmavault-kde.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/pt/plasmavault-kde.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/pt_BR/plasmavault-kde.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ru/plasmavault-kde.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sl/plasmavault-kde.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr/plasmavault-kde.po | 
- | [sr@ijekavian]({{< ref "/f27/language/sr@ijekavian.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr@ijekavian/plasmavault-kde.po | 
- | [sr@ijekavian_Latn]({{< ref "/f27/language/sr@ijekavian_Latn.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr@ijekavianlatin/plasmavault-kde.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr@latin/plasmavault-kde.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sv/plasmavault-kde.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/uk/plasmavault-kde.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/zh_CN/plasmavault-kde.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 493 | 518 | 95.2 | /mnt/stockage/packages/f27/plasma-vault/po/el/plasmavault-kde.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 493 | 518 | 95.2 | /mnt/stockage/packages/f27/plasma-vault/po/sk/plasmavault-kde.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 493 | 518 | 95.2 | /mnt/stockage/packages/f27/plasma-vault/po/tr/plasmavault-kde.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 205 | 518 | 39.6 | /mnt/stockage/packages/f27/plasma-vault/po/ar/plasmavault-kde.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 205 | 518 | 39.6 | /mnt/stockage/packages/f27/plasma-vault/po/pa/plasmavault-kde.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 182 | 518 | 35.1 | /mnt/stockage/packages/f27/plasma-vault/po/cs/plasmavault-kde.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 2 | 518 | 0.4 | /mnt/stockage/packages/f27/plasma-vault/po/ast/plasmavault-kde.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 518 | 0.0 | /mnt/stockage/packages/f27/plasma-vault/po/ja/plasmavault-kde.po | 
+ | [ca](/f27/language/ca) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ca/plasmavault-kde.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ca@valencia/plasmavault-kde.po | 
+ | [da](/f27/language/da) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/da/plasmavault-kde.po | 
+ | [de](/f27/language/de) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/de/plasmavault-kde.po | 
+ | [en_GB](/f27/language/en_GB) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/en_GB/plasmavault-kde.po | 
+ | [es](/f27/language/es) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/es/plasmavault-kde.po | 
+ | [eu](/f27/language/eu) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/eu/plasmavault-kde.po | 
+ | [fi](/f27/language/fi) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/fi/plasmavault-kde.po | 
+ | [fr](/f27/language/fr) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/fr/plasmavault-kde.po | 
+ | [gl](/f27/language/gl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/gl/plasmavault-kde.po | 
+ | [id](/f27/language/id) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/id/plasmavault-kde.po | 
+ | [it](/f27/language/it) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/it/plasmavault-kde.po | 
+ | [ko](/f27/language/ko) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ko/plasmavault-kde.po | 
+ | [nl](/f27/language/nl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/nl/plasmavault-kde.po | 
+ | [nn](/f27/language/nn) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/nn/plasmavault-kde.po | 
+ | [pl](/f27/language/pl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/pl/plasmavault-kde.po | 
+ | [pt](/f27/language/pt) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/pt/plasmavault-kde.po | 
+ | [pt_BR](/f27/language/pt_BR) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/pt_BR/plasmavault-kde.po | 
+ | [ru](/f27/language/ru) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/ru/plasmavault-kde.po | 
+ | [sl](/f27/language/sl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sl/plasmavault-kde.po | 
+ | [sr](/f27/language/sr) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr/plasmavault-kde.po | 
+ | [sr@ijekavian](/f27/language/sr@ijekavian) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr@ijekavian/plasmavault-kde.po | 
+ | [sr@ijekavian_Latn](/f27/language/sr@ijekavian_Latn) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr@ijekavianlatin/plasmavault-kde.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sr@latin/plasmavault-kde.po | 
+ | [sv](/f27/language/sv) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/sv/plasmavault-kde.po | 
+ | [uk](/f27/language/uk) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/uk/plasmavault-kde.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 518 | 518 | 100.0 | /mnt/stockage/packages/f27/plasma-vault/po/zh_CN/plasmavault-kde.po | 
+ | [el](/f27/language/el) | 493 | 518 | 95.2 | /mnt/stockage/packages/f27/plasma-vault/po/el/plasmavault-kde.po | 
+ | [sk](/f27/language/sk) | 493 | 518 | 95.2 | /mnt/stockage/packages/f27/plasma-vault/po/sk/plasmavault-kde.po | 
+ | [tr](/f27/language/tr) | 493 | 518 | 95.2 | /mnt/stockage/packages/f27/plasma-vault/po/tr/plasmavault-kde.po | 
+ | [ar](/f27/language/ar) | 205 | 518 | 39.6 | /mnt/stockage/packages/f27/plasma-vault/po/ar/plasmavault-kde.po | 
+ | [pa](/f27/language/pa) | 205 | 518 | 39.6 | /mnt/stockage/packages/f27/plasma-vault/po/pa/plasmavault-kde.po | 
+ | [cs](/f27/language/cs) | 182 | 518 | 35.1 | /mnt/stockage/packages/f27/plasma-vault/po/cs/plasmavault-kde.po | 
+ | [ast](/f27/language/ast) | 2 | 518 | 0.4 | /mnt/stockage/packages/f27/plasma-vault/po/ast/plasmavault-kde.po | 
+ | [ja](/f27/language/ja) | 0 | 518 | 0.0 | /mnt/stockage/packages/f27/plasma-vault/po/ja/plasmavault-kde.po | 
 {.sortable}
 
 

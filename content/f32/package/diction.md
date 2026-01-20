@@ -18,9 +18,9 @@ The package diction (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f32/diction/de.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f32/diction/en_GB.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f32/diction/nl.po | 
+ | [de](/f32/language/de) | 457 | 457 | 100.0 | /mnt/stockage/packages/f32/diction/de.po | 
+ | [en_GB](/f32/language/en_GB) | 457 | 457 | 100.0 | /mnt/stockage/packages/f32/diction/en_GB.po | 
+ | [nl](/f32/language/nl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f32/diction/nl.po | 
 {.sortable}
 
 

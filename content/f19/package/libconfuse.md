@@ -18,8 +18,8 @@ The package libconfuse (version 2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f19/libconfuse/po/sv.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 109 | 113 | 96.5 | /mnt/stockage/packages/f19/libconfuse/po/fr.po | 
+ | [sv](/f19/language/sv) | 113 | 113 | 100.0 | /mnt/stockage/packages/f19/libconfuse/po/sv.po | 
+ | [fr](/f19/language/fr) | 109 | 113 | 96.5 | /mnt/stockage/packages/f19/libconfuse/po/fr.po | 
 {.sortable}
 
 

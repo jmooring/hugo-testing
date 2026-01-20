@@ -18,41 +18,41 @@ The package almanah (version 0.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 784 | 784 | 100.0 | /mnt/stockage/packages/f35/almanah/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f35/almanah/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f35/almanah/po/gl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/id.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f35/almanah/po/lv.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ms.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 785 | 785 | 100.0 | /mnt/stockage/packages/f35/almanah/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 721 | 721 | 100.0 | /mnt/stockage/packages/f35/almanah/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/almanah/po/zh_CN.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 578 | 679 | 85.1 | /mnt/stockage/packages/f35/almanah/po/eu.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 155 | 415 | 37.3 | /mnt/stockage/packages/f35/almanah/po/th.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 216 | 805 | 26.8 | /mnt/stockage/packages/f35/almanah/po/fur.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 162 | 805 | 20.1 | /mnt/stockage/packages/f35/almanah/po/eo.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 120 | 856 | 14.0 | /mnt/stockage/packages/f35/almanah/po/fi.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 43 | 403 | 10.7 | /mnt/stockage/packages/f35/almanah/po/ar.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 85 | 805 | 10.6 | /mnt/stockage/packages/f35/almanah/po/nb.po | 
+ | [bs](/f35/language/bs) | 784 | 784 | 100.0 | /mnt/stockage/packages/f35/almanah/po/bs.po | 
+ | [ca](/f35/language/ca) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ca.po | 
+ | [cs](/f35/language/cs) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/cs.po | 
+ | [da](/f35/language/da) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/da.po | 
+ | [de](/f35/language/de) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/de.po | 
+ | [el](/f35/language/el) | 790 | 790 | 100.0 | /mnt/stockage/packages/f35/almanah/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/en_GB.po | 
+ | [es](/f35/language/es) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/es.po | 
+ | [fr](/f35/language/fr) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/fr.po | 
+ | [gl](/f35/language/gl) | 786 | 786 | 100.0 | /mnt/stockage/packages/f35/almanah/po/gl.po | 
+ | [hu](/f35/language/hu) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/hu.po | 
+ | [id](/f35/language/id) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/id.po | 
+ | [lv](/f35/language/lv) | 786 | 786 | 100.0 | /mnt/stockage/packages/f35/almanah/po/lv.po | 
+ | [ms](/f35/language/ms) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ms.po | 
+ | [nl](/f35/language/nl) | 785 | 785 | 100.0 | /mnt/stockage/packages/f35/almanah/po/nl.po | 
+ | [oc](/f35/language/oc) | 721 | 721 | 100.0 | /mnt/stockage/packages/f35/almanah/po/oc.po | 
+ | [pl](/f35/language/pl) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/pl.po | 
+ | [pt](/f35/language/pt) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ro.po | 
+ | [ru](/f35/language/ru) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/ru.po | 
+ | [sl](/f35/language/sl) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sl.po | 
+ | [sr](/f35/language/sr) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/sv.po | 
+ | [tr](/f35/language/tr) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/tr.po | 
+ | [uk](/f35/language/uk) | 805 | 805 | 100.0 | /mnt/stockage/packages/f35/almanah/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/almanah/po/zh_CN.po | 
+ | [eu](/f35/language/eu) | 578 | 679 | 85.1 | /mnt/stockage/packages/f35/almanah/po/eu.po | 
+ | [th](/f35/language/th) | 155 | 415 | 37.3 | /mnt/stockage/packages/f35/almanah/po/th.po | 
+ | [fur](/f35/language/fur) | 216 | 805 | 26.8 | /mnt/stockage/packages/f35/almanah/po/fur.po | 
+ | [eo](/f35/language/eo) | 162 | 805 | 20.1 | /mnt/stockage/packages/f35/almanah/po/eo.po | 
+ | [fi](/f35/language/fi) | 120 | 856 | 14.0 | /mnt/stockage/packages/f35/almanah/po/fi.po | 
+ | [ar](/f35/language/ar) | 43 | 403 | 10.7 | /mnt/stockage/packages/f35/almanah/po/ar.po | 
+ | [nb_NO](/f35/language/nb_NO) | 85 | 805 | 10.6 | /mnt/stockage/packages/f35/almanah/po/nb.po | 
 {.sortable}
 
 

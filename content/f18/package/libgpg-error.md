@@ -18,20 +18,20 @@ The package libgpg-error (version 1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 781 | 783 | 99.7 | /mnt/stockage/packages/f18/libgpg-error/po/de.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/da.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/fr.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 760 | 783 | 97.1 | /mnt/stockage/packages/f18/libgpg-error/po/pl.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/eo.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/sv.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/uk.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/vi.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 742 | 783 | 94.8 | /mnt/stockage/packages/f18/libgpg-error/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 674 | 783 | 86.1 | /mnt/stockage/packages/f18/libgpg-error/po/ja.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 616 | 783 | 78.7 | /mnt/stockage/packages/f18/libgpg-error/po/ro.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 547 | 783 | 69.9 | /mnt/stockage/packages/f18/libgpg-error/po/zh_CN.po | 
+ | [de](/f18/language/de) | 781 | 783 | 99.7 | /mnt/stockage/packages/f18/libgpg-error/po/de.po | 
+ | [cs](/f18/language/cs) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/cs.po | 
+ | [da](/f18/language/da) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/da.po | 
+ | [fr](/f18/language/fr) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/fr.po | 
+ | [nl](/f18/language/nl) | 777 | 783 | 99.2 | /mnt/stockage/packages/f18/libgpg-error/po/nl.po | 
+ | [pl](/f18/language/pl) | 760 | 783 | 97.1 | /mnt/stockage/packages/f18/libgpg-error/po/pl.po | 
+ | [eo](/f18/language/eo) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/eo.po | 
+ | [sv](/f18/language/sv) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/sv.po | 
+ | [uk](/f18/language/uk) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/uk.po | 
+ | [vi](/f18/language/vi) | 743 | 783 | 94.9 | /mnt/stockage/packages/f18/libgpg-error/po/vi.po | 
+ | [it](/f18/language/it) | 742 | 783 | 94.8 | /mnt/stockage/packages/f18/libgpg-error/po/it.po | 
+ | [ja](/f18/language/ja) | 674 | 783 | 86.1 | /mnt/stockage/packages/f18/libgpg-error/po/ja.po | 
+ | [ro](/f18/language/ro) | 616 | 783 | 78.7 | /mnt/stockage/packages/f18/libgpg-error/po/ro.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 547 | 783 | 69.9 | /mnt/stockage/packages/f18/libgpg-error/po/zh_CN.po | 
 {.sortable}
 
 

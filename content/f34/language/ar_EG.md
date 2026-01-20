@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f34/package/blueberry.md" >}}) | 166 | 166 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [sequeler]({{< ref "/f34/package/sequeler.md" >}}) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
- | [slick-greeter]({{< ref "/f34/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xed]({{< ref "/f34/package/xed.md" >}}) | 3744 | 3760 | 99.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f34/package/lightdm-settings.md" >}}) | 310 | 321 | 96.6 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f34/package/xreader.md" >}}) | 1541 | 1620 | 95.1 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f34/package/cinnamon-translations.md" >}}) | 21454 | 23274 | 92.2 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [blueberry](/f34/package/blueberry) | 166 | 166 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [sequeler](/f34/package/sequeler) | 406 | 406 | 100.0 | Arabic (Egypt) <https://hosted.weblate.org/projects/sequeler/translations/ar_EG/> | 
+ | [slick-greeter](/f34/package/slick-greeter) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xed](/f34/package/xed) | 3744 | 3760 | 99.6 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f34/package/lightdm-settings) | 310 | 321 | 96.6 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [xreader](/f34/package/xreader) | 1541 | 1620 | 95.1 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f34/package/cinnamon-translations) | 21454 | 23274 | 92.2 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
 {.sortable}
 
 

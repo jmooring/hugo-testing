@@ -18,8 +18,8 @@ The package opendbx (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f18/language/error.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/opendbx/po/en@quot.po/mnt/stockage/packages/f18/opendbx/utils/po/en@quot.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 171 | 184 | 92.9 | /mnt/stockage/packages/f18/opendbx/po/de.po/mnt/stockage/packages/f18/opendbx/utils/po/de.po | 
+ | [error](/f18/language/error) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/opendbx/po/en@quot.po/mnt/stockage/packages/f18/opendbx/utils/po/en@quot.po | 
+ | [de](/f18/language/de) | 171 | 184 | 92.9 | /mnt/stockage/packages/f18/opendbx/po/de.po/mnt/stockage/packages/f18/opendbx/utils/po/de.po | 
 {.sortable}
 
 

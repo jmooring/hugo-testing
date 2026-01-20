@@ -18,16 +18,16 @@ The package trytond-account-invoice-line-standalone (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/ca_ES.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/es_AR.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/es_CO.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/fr_FR.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/cs_CZ.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/nl_NL.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/ru_RU.po | 
+ | [bg](/f18/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/ca_ES.po | 
+ | [de](/f18/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/de_DE.po | 
+ | [es](/f18/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/es_AR.po | 
+ | [es_CO](/f18/language/es_CO) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/es_CO.po | 
+ | [fr](/f18/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/fr_FR.po | 
+ | [cs](/f18/language/cs) | 0 | 24 | 0.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/cs_CZ.po | 
+ | [nl](/f18/language/nl) | 0 | 24 | 0.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/nl_NL.po | 
+ | [ru](/f18/language/ru) | 0 | 24 | 0.0 | /mnt/stockage/packages/f18/trytond-account-invoice-line-standalone/locale/ru_RU.po | 
 {.sortable}
 
 

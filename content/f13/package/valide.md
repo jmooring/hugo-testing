@@ -18,11 +18,11 @@ The package valide (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 721 | 721 | 100.0 | /mnt/stockage/packages/f13/valide/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 718 | 721 | 99.6 | /mnt/stockage/packages/f13/valide/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 713 | 721 | 98.9 | /mnt/stockage/packages/f13/valide/po/ru.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 633 | 721 | 87.8 | /mnt/stockage/packages/f13/valide/po/it.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 0 | 721 | 0.0 | /mnt/stockage/packages/f13/valide/po/messages.po | 
+ | [es](/f13/language/es) | 721 | 721 | 100.0 | /mnt/stockage/packages/f13/valide/po/es.po | 
+ | [fr](/f13/language/fr) | 718 | 721 | 99.6 | /mnt/stockage/packages/f13/valide/po/fr.po | 
+ | [ru](/f13/language/ru) | 713 | 721 | 98.9 | /mnt/stockage/packages/f13/valide/po/ru.po | 
+ | [it](/f13/language/it) | 633 | 721 | 87.8 | /mnt/stockage/packages/f13/valide/po/it.po | 
+ | [error](/f13/language/error) | 0 | 721 | 0.0 | /mnt/stockage/packages/f13/valide/po/messages.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package lingot (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 1397 | 1397 | 100.0 | /mnt/stockage/packages/f19/lingot/po/gl.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1396 | 1397 | 99.9 | /mnt/stockage/packages/f19/lingot/po/es.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 121 | 1397 | 8.7 | /mnt/stockage/packages/f19/lingot/po/cs.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f19/lingot/po/it.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f19/lingot/po/sv.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f19/lingot/po/zh_CN.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f19/lingot/po/fr.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f19/lingot/po/pt_BR.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f19/lingot/po/ca.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f19/lingot/po/de.po | 
+ | [gl](/f19/language/gl) | 1397 | 1397 | 100.0 | /mnt/stockage/packages/f19/lingot/po/gl.po | 
+ | [es](/f19/language/es) | 1396 | 1397 | 99.9 | /mnt/stockage/packages/f19/lingot/po/es.po | 
+ | [cs](/f19/language/cs) | 121 | 1397 | 8.7 | /mnt/stockage/packages/f19/lingot/po/cs.po | 
+ | [it](/f19/language/it) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f19/lingot/po/it.po | 
+ | [sv](/f19/language/sv) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f19/lingot/po/sv.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 112 | 1397 | 8.0 | /mnt/stockage/packages/f19/lingot/po/zh_CN.po | 
+ | [fr](/f19/language/fr) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f19/lingot/po/fr.po | 
+ | [pt_BR](/f19/language/pt_BR) | 108 | 1397 | 7.7 | /mnt/stockage/packages/f19/lingot/po/pt_BR.po | 
+ | [ca](/f19/language/ca) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f19/lingot/po/ca.po | 
+ | [de](/f19/language/de) | 66 | 1397 | 4.7 | /mnt/stockage/packages/f19/lingot/po/de.po | 
 {.sortable}
 
 

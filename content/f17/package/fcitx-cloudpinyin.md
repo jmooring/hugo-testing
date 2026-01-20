@@ -18,8 +18,8 @@ The package fcitx-cloudpinyin (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f17/fcitx-cloudpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f17/fcitx-cloudpinyin/po/zh_TW.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 46 | 46 | 100.0 | /mnt/stockage/packages/f17/fcitx-cloudpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 46 | 46 | 100.0 | /mnt/stockage/packages/f17/fcitx-cloudpinyin/po/zh_TW.po | 
 {.sortable}
 
 

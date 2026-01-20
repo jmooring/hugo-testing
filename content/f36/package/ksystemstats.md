@@ -18,40 +18,40 @@ The package ksystemstats (version 5.27.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ar/ksystemstats_plugins.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ca/ksystemstats_plugins.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ca@valencia/ksystemstats_plugins.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/de/ksystemstats_plugins.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/en_GB/ksystemstats_plugins.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/es/ksystemstats_plugins.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/eu/ksystemstats_plugins.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/fi/ksystemstats_plugins.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/fr/ksystemstats_plugins.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ia/ksystemstats_plugins.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/id/ksystemstats_plugins.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/it/ksystemstats_plugins.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ka/ksystemstats_plugins.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ko/ksystemstats_plugins.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/nl/ksystemstats_plugins.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/nn/ksystemstats_plugins.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/pl/ksystemstats_plugins.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/pt/ksystemstats_plugins.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/pt_BR/ksystemstats_plugins.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ru/ksystemstats_plugins.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/sl/ksystemstats_plugins.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/sv/ksystemstats_plugins.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/tr/ksystemstats_plugins.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/uk/ksystemstats_plugins.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/vi/ksystemstats_plugins.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/zh_CN/ksystemstats_plugins.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 430 | 478 | 90.0 | /mnt/stockage/packages/f36/ksystemstats/po/az/ksystemstats_plugins.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 390 | 478 | 81.6 | /mnt/stockage/packages/f36/ksystemstats/po/ro/ksystemstats_plugins.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 390 | 478 | 81.6 | /mnt/stockage/packages/f36/ksystemstats/po/sk/ksystemstats_plugins.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 353 | 478 | 73.8 | /mnt/stockage/packages/f36/ksystemstats/po/cs/ksystemstats_plugins.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 288 | 478 | 60.3 | /mnt/stockage/packages/f36/ksystemstats/po/pa/ksystemstats_plugins.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 242 | 478 | 50.6 | /mnt/stockage/packages/f36/ksystemstats/po/lt/ksystemstats_plugins.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 216 | 478 | 45.2 | /mnt/stockage/packages/f36/ksystemstats/po/et/ksystemstats_plugins.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 57 | 478 | 11.9 | /mnt/stockage/packages/f36/ksystemstats/po/ja/ksystemstats_plugins.po | 
+ | [ar](/f36/language/ar) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ar/ksystemstats_plugins.po | 
+ | [ca](/f36/language/ca) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ca/ksystemstats_plugins.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ca@valencia/ksystemstats_plugins.po | 
+ | [de](/f36/language/de) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/de/ksystemstats_plugins.po | 
+ | [en_GB](/f36/language/en_GB) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/en_GB/ksystemstats_plugins.po | 
+ | [es](/f36/language/es) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/es/ksystemstats_plugins.po | 
+ | [eu](/f36/language/eu) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/eu/ksystemstats_plugins.po | 
+ | [fi](/f36/language/fi) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/fi/ksystemstats_plugins.po | 
+ | [fr](/f36/language/fr) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/fr/ksystemstats_plugins.po | 
+ | [ia](/f36/language/ia) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ia/ksystemstats_plugins.po | 
+ | [id](/f36/language/id) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/id/ksystemstats_plugins.po | 
+ | [it](/f36/language/it) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/it/ksystemstats_plugins.po | 
+ | [ka](/f36/language/ka) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ka/ksystemstats_plugins.po | 
+ | [ko](/f36/language/ko) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ko/ksystemstats_plugins.po | 
+ | [nl](/f36/language/nl) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/nl/ksystemstats_plugins.po | 
+ | [nn](/f36/language/nn) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/nn/ksystemstats_plugins.po | 
+ | [pl](/f36/language/pl) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/pl/ksystemstats_plugins.po | 
+ | [pt](/f36/language/pt) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/pt/ksystemstats_plugins.po | 
+ | [pt_BR](/f36/language/pt_BR) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/pt_BR/ksystemstats_plugins.po | 
+ | [ru](/f36/language/ru) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/ru/ksystemstats_plugins.po | 
+ | [sl](/f36/language/sl) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/sl/ksystemstats_plugins.po | 
+ | [sv](/f36/language/sv) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/sv/ksystemstats_plugins.po | 
+ | [tr](/f36/language/tr) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/tr/ksystemstats_plugins.po | 
+ | [uk](/f36/language/uk) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/uk/ksystemstats_plugins.po | 
+ | [vi](/f36/language/vi) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/vi/ksystemstats_plugins.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 478 | 478 | 100.0 | /mnt/stockage/packages/f36/ksystemstats/po/zh_CN/ksystemstats_plugins.po | 
+ | [az](/f36/language/az) | 430 | 478 | 90.0 | /mnt/stockage/packages/f36/ksystemstats/po/az/ksystemstats_plugins.po | 
+ | [ro](/f36/language/ro) | 390 | 478 | 81.6 | /mnt/stockage/packages/f36/ksystemstats/po/ro/ksystemstats_plugins.po | 
+ | [sk](/f36/language/sk) | 390 | 478 | 81.6 | /mnt/stockage/packages/f36/ksystemstats/po/sk/ksystemstats_plugins.po | 
+ | [cs](/f36/language/cs) | 353 | 478 | 73.8 | /mnt/stockage/packages/f36/ksystemstats/po/cs/ksystemstats_plugins.po | 
+ | [pa](/f36/language/pa) | 288 | 478 | 60.3 | /mnt/stockage/packages/f36/ksystemstats/po/pa/ksystemstats_plugins.po | 
+ | [lt](/f36/language/lt) | 242 | 478 | 50.6 | /mnt/stockage/packages/f36/ksystemstats/po/lt/ksystemstats_plugins.po | 
+ | [et](/f36/language/et) | 216 | 478 | 45.2 | /mnt/stockage/packages/f36/ksystemstats/po/et/ksystemstats_plugins.po | 
+ | [ja](/f36/language/ja) | 57 | 478 | 11.9 | /mnt/stockage/packages/f36/ksystemstats/po/ja/ksystemstats_plugins.po | 
 {.sortable}
 
 

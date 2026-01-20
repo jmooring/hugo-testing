@@ -18,11 +18,11 @@ The package zif (version 0.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 670 | 670 | 100.0 | /mnt/stockage/packages/f15/zif/po/cs.po | 
- | [es_CL]({{< ref "/f15/language/es_CL.md" >}}) | 663 | 670 | 99.0 | /mnt/stockage/packages/f15/zif/po/es_CL.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 663 | 670 | 99.0 | /mnt/stockage/packages/f15/zif/po/fr.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 576 | 670 | 86.0 | /mnt/stockage/packages/f15/zif/po/ar.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 574 | 670 | 85.7 | /mnt/stockage/packages/f15/zif/po/ms.po | 
+ | [cs](/f15/language/cs) | 670 | 670 | 100.0 | /mnt/stockage/packages/f15/zif/po/cs.po | 
+ | [es_CL](/f15/language/es_CL) | 663 | 670 | 99.0 | /mnt/stockage/packages/f15/zif/po/es_CL.po | 
+ | [fr](/f15/language/fr) | 663 | 670 | 99.0 | /mnt/stockage/packages/f15/zif/po/fr.po | 
+ | [ar](/f15/language/ar) | 576 | 670 | 86.0 | /mnt/stockage/packages/f15/zif/po/ar.po | 
+ | [ms](/f15/language/ms) | 574 | 670 | 85.7 | /mnt/stockage/packages/f15/zif/po/ms.po | 
 {.sortable}
 
 

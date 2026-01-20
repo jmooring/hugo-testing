@@ -18,35 +18,35 @@ The package xscreensaver (version 6.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 9119 | 12812 | 71.2 | /mnt/stockage/packages/f43/xscreensaver/po/ru.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 3746 | 12812 | 29.2 | /mnt/stockage/packages/f43/xscreensaver/po/nl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 2840 | 12812 | 22.2 | /mnt/stockage/packages/f43/xscreensaver/po/pt_BR.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 2477 | 12244 | 20.2 | /mnt/stockage/packages/f43/xscreensaver/po/ka.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1397 | 12812 | 10.9 | /mnt/stockage/packages/f43/xscreensaver/po/ja.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1313 | 12812 | 10.2 | /mnt/stockage/packages/f43/xscreensaver/po/fr.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1115 | 12812 | 8.7 | /mnt/stockage/packages/f43/xscreensaver/po/tr.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1109 | 12812 | 8.7 | /mnt/stockage/packages/f43/xscreensaver/po/de.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1014 | 12812 | 7.9 | /mnt/stockage/packages/f43/xscreensaver/po/hu.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 952 | 12812 | 7.4 | /mnt/stockage/packages/f43/xscreensaver/po/da.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 641 | 12812 | 5.0 | /mnt/stockage/packages/f43/xscreensaver/po/es.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 571 | 12812 | 4.5 | /mnt/stockage/packages/f43/xscreensaver/po/vi.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 567 | 12812 | 4.4 | /mnt/stockage/packages/f43/xscreensaver/po/lt.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 567 | 12812 | 4.4 | /mnt/stockage/packages/f43/xscreensaver/po/pt.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 537 | 12812 | 4.2 | /mnt/stockage/packages/f43/xscreensaver/po/nb.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 411 | 12812 | 3.2 | /mnt/stockage/packages/f43/xscreensaver/po/pl.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 373 | 12812 | 2.9 | /mnt/stockage/packages/f43/xscreensaver/po/sv.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 354 | 12812 | 2.8 | /mnt/stockage/packages/f43/xscreensaver/po/el.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 354 | 12812 | 2.8 | /mnt/stockage/packages/f43/xscreensaver/po/ko.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 291 | 12812 | 2.3 | /mnt/stockage/packages/f43/xscreensaver/po/zh_CN.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 290 | 12812 | 2.3 | /mnt/stockage/packages/f43/xscreensaver/po/it.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 288 | 12812 | 2.2 | /mnt/stockage/packages/f43/xscreensaver/po/zh_TW.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 277 | 12812 | 2.2 | /mnt/stockage/packages/f43/xscreensaver/po/fi.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 261 | 12812 | 2.0 | /mnt/stockage/packages/f43/xscreensaver/po/sk.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 246 | 12812 | 1.9 | /mnt/stockage/packages/f43/xscreensaver/po/wa.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 128 | 12812 | 1.0 | /mnt/stockage/packages/f43/xscreensaver/po/be.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 78 | 12812 | 0.6 | /mnt/stockage/packages/f43/xscreensaver/po/et.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 17 | 12812 | 0.1 | /mnt/stockage/packages/f43/xscreensaver/po/uk.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/xscreensaver/po/ca.po | 
+ | [ru](/f43/language/ru) | 9119 | 12812 | 71.2 | /mnt/stockage/packages/f43/xscreensaver/po/ru.po | 
+ | [nl](/f43/language/nl) | 3746 | 12812 | 29.2 | /mnt/stockage/packages/f43/xscreensaver/po/nl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 2840 | 12812 | 22.2 | /mnt/stockage/packages/f43/xscreensaver/po/pt_BR.po | 
+ | [ka](/f43/language/ka) | 2477 | 12244 | 20.2 | /mnt/stockage/packages/f43/xscreensaver/po/ka.po | 
+ | [ja](/f43/language/ja) | 1397 | 12812 | 10.9 | /mnt/stockage/packages/f43/xscreensaver/po/ja.po | 
+ | [fr](/f43/language/fr) | 1313 | 12812 | 10.2 | /mnt/stockage/packages/f43/xscreensaver/po/fr.po | 
+ | [tr](/f43/language/tr) | 1115 | 12812 | 8.7 | /mnt/stockage/packages/f43/xscreensaver/po/tr.po | 
+ | [de](/f43/language/de) | 1109 | 12812 | 8.7 | /mnt/stockage/packages/f43/xscreensaver/po/de.po | 
+ | [hu](/f43/language/hu) | 1014 | 12812 | 7.9 | /mnt/stockage/packages/f43/xscreensaver/po/hu.po | 
+ | [da](/f43/language/da) | 952 | 12812 | 7.4 | /mnt/stockage/packages/f43/xscreensaver/po/da.po | 
+ | [es](/f43/language/es) | 641 | 12812 | 5.0 | /mnt/stockage/packages/f43/xscreensaver/po/es.po | 
+ | [vi](/f43/language/vi) | 571 | 12812 | 4.5 | /mnt/stockage/packages/f43/xscreensaver/po/vi.po | 
+ | [lt](/f43/language/lt) | 567 | 12812 | 4.4 | /mnt/stockage/packages/f43/xscreensaver/po/lt.po | 
+ | [pt](/f43/language/pt) | 567 | 12812 | 4.4 | /mnt/stockage/packages/f43/xscreensaver/po/pt.po | 
+ | [nb_NO](/f43/language/nb_NO) | 537 | 12812 | 4.2 | /mnt/stockage/packages/f43/xscreensaver/po/nb.po | 
+ | [pl](/f43/language/pl) | 411 | 12812 | 3.2 | /mnt/stockage/packages/f43/xscreensaver/po/pl.po | 
+ | [sv](/f43/language/sv) | 373 | 12812 | 2.9 | /mnt/stockage/packages/f43/xscreensaver/po/sv.po | 
+ | [el](/f43/language/el) | 354 | 12812 | 2.8 | /mnt/stockage/packages/f43/xscreensaver/po/el.po | 
+ | [ko](/f43/language/ko) | 354 | 12812 | 2.8 | /mnt/stockage/packages/f43/xscreensaver/po/ko.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 291 | 12812 | 2.3 | /mnt/stockage/packages/f43/xscreensaver/po/zh_CN.po | 
+ | [it](/f43/language/it) | 290 | 12812 | 2.3 | /mnt/stockage/packages/f43/xscreensaver/po/it.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 288 | 12812 | 2.2 | /mnt/stockage/packages/f43/xscreensaver/po/zh_TW.po | 
+ | [fi](/f43/language/fi) | 277 | 12812 | 2.2 | /mnt/stockage/packages/f43/xscreensaver/po/fi.po | 
+ | [sk](/f43/language/sk) | 261 | 12812 | 2.0 | /mnt/stockage/packages/f43/xscreensaver/po/sk.po | 
+ | [wa](/f43/language/wa) | 246 | 12812 | 1.9 | /mnt/stockage/packages/f43/xscreensaver/po/wa.po | 
+ | [be](/f43/language/be) | 128 | 12812 | 1.0 | /mnt/stockage/packages/f43/xscreensaver/po/be.po | 
+ | [et](/f43/language/et) | 78 | 12812 | 0.6 | /mnt/stockage/packages/f43/xscreensaver/po/et.po | 
+ | [uk](/f43/language/uk) | 17 | 12812 | 0.1 | /mnt/stockage/packages/f43/xscreensaver/po/uk.po | 
+ | [ca](/f43/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f43/xscreensaver/po/ca.po | 
 {.sortable}
 
 

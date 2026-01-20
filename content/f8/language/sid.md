@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f8/package/kde-i18n.md" >}}) | 14 | 14 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 2 | 11098 | 0.0 | Sidamo | 
+ | [kde-i18n](/f8/package/kde-i18n) | 14 | 14 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [iso-codes](/f8/package/iso-codes) | 2 | 11098 | 0.0 | Sidamo | 
 {.sortable}
 
 

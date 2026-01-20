@@ -18,25 +18,25 @@ The package PackageKit (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 409 | 409 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/fr.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/he.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/hu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/it.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/no_nb.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 409 | 409 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/sk.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 503 | 507 | 99.2 | /mnt/stockage/packages/f9/PackageKit/po/sr.po | 
- | [sr_Latn]({{< ref "/f9/language/sr_Latn.md" >}}) | 503 | 507 | 99.2 | /mnt/stockage/packages/f9/PackageKit/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 481 | 512 | 93.9 | /mnt/stockage/packages/f9/PackageKit/po/zh_CN.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 123 | 411 | 29.9 | /mnt/stockage/packages/f9/PackageKit/po/el.po | 
+ | [ca](/f9/language/ca) | 409 | 409 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/ca.po | 
+ | [cs](/f9/language/cs) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/cs.po | 
+ | [de](/f9/language/de) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/de.po | 
+ | [es](/f9/language/es) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/es.po | 
+ | [fi](/f9/language/fi) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/fi.po | 
+ | [fr](/f9/language/fr) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/fr.po | 
+ | [he](/f9/language/he) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/he.po | 
+ | [hu](/f9/language/hu) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/hu.po | 
+ | [it](/f9/language/it) | 410 | 410 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/it.po | 
+ | [nb_NO](/f9/language/nb_NO) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/no_nb.po | 
+ | [nl](/f9/language/nl) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/nl.po | 
+ | [pl](/f9/language/pl) | 409 | 409 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/ru.po | 
+ | [sk](/f9/language/sk) | 512 | 512 | 100.0 | /mnt/stockage/packages/f9/PackageKit/po/sk.po | 
+ | [sr](/f9/language/sr) | 503 | 507 | 99.2 | /mnt/stockage/packages/f9/PackageKit/po/sr.po | 
+ | [sr_Latn](/f9/language/sr_Latn) | 503 | 507 | 99.2 | /mnt/stockage/packages/f9/PackageKit/po/sr@latin.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 481 | 512 | 93.9 | /mnt/stockage/packages/f9/PackageKit/po/zh_CN.po | 
+ | [el](/f9/language/el) | 123 | 411 | 29.9 | /mnt/stockage/packages/f9/PackageKit/po/el.po | 
 {.sortable}
 
 

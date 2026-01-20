@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f15/package/transmission.md" >}}) | 214 | 1528 | 14.0 | Kurdish (Sorani) <ckb@li.org> | 
- | [Miro]({{< ref "/f15/package/Miro.md" >}}) | 285 | 3336 | 8.5 | Kurdish (Sorani) <ckb@li.org> | 
+ | [transmission](/f15/package/transmission) | 214 | 1528 | 14.0 | Kurdish (Sorani) <ckb@li.org> | 
+ | [Miro](/f15/package/Miro) | 285 | 3336 | 8.5 | Kurdish (Sorani) <ckb@li.org> | 
 {.sortable}
 
 

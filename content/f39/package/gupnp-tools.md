@@ -18,29 +18,29 @@ The package gupnp-tools (version 0.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/bs.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/el.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/eu.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/fur.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/id.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/ro.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sk.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 722 | 722 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sr@latin.po/mnt/stockage/packages/f39/gupnp-tools/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/zh_CN.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 322 | 354 | 91.0 | /mnt/stockage/packages/f39/gupnp-tools/po/ja.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 127 | 395 | 32.2 | /mnt/stockage/packages/f39/gupnp-tools/po/ka.po | 
+ | [bs](/f39/language/bs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/bs.po | 
+ | [cs](/f39/language/cs) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/cs.po | 
+ | [da](/f39/language/da) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/da.po | 
+ | [de](/f39/language/de) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/de.po | 
+ | [el](/f39/language/el) | 278 | 278 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/el.po | 
+ | [es](/f39/language/es) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/es.po | 
+ | [eu](/f39/language/eu) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/eu.po | 
+ | [fur](/f39/language/fur) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/fur.po | 
+ | [hu](/f39/language/hu) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/hu.po | 
+ | [id](/f39/language/id) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/id.po | 
+ | [pl](/f39/language/pl) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/pl.po | 
+ | [pt](/f39/language/pt) | 354 | 354 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/ro.po | 
+ | [sk](/f39/language/sk) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sk.po | 
+ | [sl](/f39/language/sl) | 278 | 278 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sl.po | 
+ | [sr](/f39/language/sr) | 722 | 722 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sr@latin.po/mnt/stockage/packages/f39/gupnp-tools/po/sr.po | 
+ | [sv](/f39/language/sv) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/sv.po | 
+ | [tr](/f39/language/tr) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/tr.po | 
+ | [uk](/f39/language/uk) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 395 | 395 | 100.0 | /mnt/stockage/packages/f39/gupnp-tools/po/zh_CN.po | 
+ | [ja](/f39/language/ja) | 322 | 354 | 91.0 | /mnt/stockage/packages/f39/gupnp-tools/po/ja.po | 
+ | [ka](/f39/language/ka) | 127 | 395 | 32.2 | /mnt/stockage/packages/f39/gupnp-tools/po/ka.po | 
 {.sortable}
 
 

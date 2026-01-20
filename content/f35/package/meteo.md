@@ -18,19 +18,19 @@ The package meteo (version 0.9.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 520 | 520 | 100.0 | /mnt/stockage/packages/f35/meteo/po/es_ES.po/mnt/stockage/packages/f35/meteo/po/es.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/ca.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/de.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/en.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/fr.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/lt.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/oc.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 669 | 780 | 85.8 | /mnt/stockage/packages/f35/meteo/po/pt_PT.po/mnt/stockage/packages/f35/meteo/po/pt_BR.po/mnt/stockage/packages/f35/meteo/po/pt.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/sr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/uk.po | 
+ | [es](/f35/language/es) | 520 | 520 | 100.0 | /mnt/stockage/packages/f35/meteo/po/es_ES.po/mnt/stockage/packages/f35/meteo/po/es.po | 
+ | [ca](/f35/language/ca) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/ca.po | 
+ | [de](/f35/language/de) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/de.po | 
+ | [en](/f35/language/en) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/en.po | 
+ | [fr](/f35/language/fr) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/fr.po | 
+ | [lt](/f35/language/lt) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/lt.po | 
+ | [nb_NO](/f35/language/nb_NO) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/nb.po | 
+ | [nl](/f35/language/nl) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/nl.po | 
+ | [oc](/f35/language/oc) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/oc.po | 
+ | [pt](/f35/language/pt) | 669 | 780 | 85.8 | /mnt/stockage/packages/f35/meteo/po/pt_PT.po/mnt/stockage/packages/f35/meteo/po/pt_BR.po/mnt/stockage/packages/f35/meteo/po/pt.po | 
+ | [ru](/f35/language/ru) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/ru.po | 
+ | [sr](/f35/language/sr) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/sr.po | 
+ | [uk](/f35/language/uk) | 223 | 260 | 85.8 | /mnt/stockage/packages/f35/meteo/po/uk.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package wastesedge (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f20/language/it.md" >}}) | 19975 | 19989 | 99.9 | /mnt/stockage/packages/f20/wastesedge/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 19975 | 19989 | 99.9 | /mnt/stockage/packages/f20/wastesedge/po/nl.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 924 | 19989 | 4.6 | /mnt/stockage/packages/f20/wastesedge/po/fr.po | 
+ | [it](/f20/language/it) | 19975 | 19989 | 99.9 | /mnt/stockage/packages/f20/wastesedge/po/it.po | 
+ | [nl](/f20/language/nl) | 19975 | 19989 | 99.9 | /mnt/stockage/packages/f20/wastesedge/po/nl.po | 
+ | [fr](/f20/language/fr) | 924 | 19989 | 4.6 | /mnt/stockage/packages/f20/wastesedge/po/fr.po | 
 {.sortable}
 
 

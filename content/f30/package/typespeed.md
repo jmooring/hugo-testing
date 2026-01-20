@@ -18,9 +18,9 @@ The package typespeed (version 0.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f30/typespeed/po/de_DE.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f30/typespeed/po/fr_FR.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 284 | 457 | 62.1 | /mnt/stockage/packages/f30/typespeed/po/it.po | 
+ | [de](/f30/language/de) | 457 | 457 | 100.0 | /mnt/stockage/packages/f30/typespeed/po/de_DE.po | 
+ | [fr](/f30/language/fr) | 457 | 457 | 100.0 | /mnt/stockage/packages/f30/typespeed/po/fr_FR.po | 
+ | [it](/f30/language/it) | 284 | 457 | 62.1 | /mnt/stockage/packages/f30/typespeed/po/it.po | 
 {.sortable}
 
 

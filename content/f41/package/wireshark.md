@@ -18,25 +18,25 @@ The package wireshark (version 4.4.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/de.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/it.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/ko.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/ru.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/sv.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/da.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/fr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/id.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/ja.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/nl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/pt_BR.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/sk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/vi.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 24 | 398 | 6.0 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/fi.po | 
+ | [de](/f41/language/de) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/de.po | 
+ | [it](/f41/language/it) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/it.po | 
+ | [ko](/f41/language/ko) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/ko.po | 
+ | [ru](/f41/language/ru) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/ru.po | 
+ | [sv](/f41/language/sv) | 258 | 398 | 64.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/sv.po | 
+ | [cs](/f41/language/cs) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/cs.po | 
+ | [da](/f41/language/da) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/da.po | 
+ | [es](/f41/language/es) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/es.po | 
+ | [eu](/f41/language/eu) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/eu.po | 
+ | [fr](/f41/language/fr) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/fr.po | 
+ | [hu](/f41/language/hu) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/hu.po | 
+ | [id](/f41/language/id) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/id.po | 
+ | [ja](/f41/language/ja) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/ja.po | 
+ | [nl](/f41/language/nl) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/nl.po | 
+ | [pt](/f41/language/pt) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/pt_BR.po | 
+ | [sk](/f41/language/sk) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/sk.po | 
+ | [vi](/f41/language/vi) | 79 | 398 | 19.8 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/vi.po | 
+ | [fi](/f41/language/fi) | 24 | 398 | 6.0 | /mnt/stockage/packages/f41/wireshark/packaging/debian/po/fi.po | 
 {.sortable}
 
 

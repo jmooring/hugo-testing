@@ -18,42 +18,42 @@ The package tracker (version 0.8.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f14/language/be_Latn.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f14/tracker/po/be@latin.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1850 | 1850 | 100.0 | /mnt/stockage/packages/f14/tracker/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f14/tracker/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f14/tracker/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/hu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/ja.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 1949 | 1949 | 100.0 | /mnt/stockage/packages/f14/tracker/po/lt.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1949 | 1949 | 100.0 | /mnt/stockage/packages/f14/tracker/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 2002 | 2002 | 100.0 | /mnt/stockage/packages/f14/tracker/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1758 | 1758 | 100.0 | /mnt/stockage/packages/f14/tracker/po/pt_BR.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1971 | 1971 | 100.0 | /mnt/stockage/packages/f14/tracker/po/sv.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 1391 | 1391 | 100.0 | /mnt/stockage/packages/f14/tracker/po/th.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1713 | 1716 | 99.8 | /mnt/stockage/packages/f14/tracker/po/it.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 1140 | 1143 | 99.7 | /mnt/stockage/packages/f14/tracker/po/ko.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 1669 | 1687 | 98.9 | /mnt/stockage/packages/f14/tracker/po/et.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 1348 | 1388 | 97.1 | /mnt/stockage/packages/f14/tracker/po/ca.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1686 | 1776 | 94.9 | /mnt/stockage/packages/f14/tracker/po/zh_CN.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 1581 | 1708 | 92.6 | /mnt/stockage/packages/f14/tracker/po/gl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 755 | 858 | 88.0 | /mnt/stockage/packages/f14/tracker/po/ru.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 693 | 858 | 80.8 | /mnt/stockage/packages/f14/tracker/po/dz.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 666 | 858 | 77.6 | /mnt/stockage/packages/f14/tracker/po/mk.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 1300 | 1728 | 75.2 | /mnt/stockage/packages/f14/tracker/po/sk.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1318 | 1932 | 68.2 | /mnt/stockage/packages/f14/tracker/po/nl.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 953 | 1950 | 48.9 | /mnt/stockage/packages/f14/tracker/po/ar.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 509 | 1388 | 36.7 | /mnt/stockage/packages/f14/tracker/po/he.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 401 | 1388 | 28.9 | /mnt/stockage/packages/f14/tracker/po/be.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 519 | 1870 | 27.8 | /mnt/stockage/packages/f14/tracker/po/ro.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 405 | 1797 | 22.5 | /mnt/stockage/packages/f14/tracker/po/fi.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 245 | 1392 | 17.6 | /mnt/stockage/packages/f14/tracker/po/oc.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 276 | 2023 | 13.6 | /mnt/stockage/packages/f14/tracker/po/nb.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 205 | 1747 | 11.7 | /mnt/stockage/packages/f14/tracker/po/nds.po | 
+ | [be_Latn](/f14/language/be_Latn) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f14/tracker/po/be@latin.po | 
+ | [cs](/f14/language/cs) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/cs.po | 
+ | [da](/f14/language/da) | 1850 | 1850 | 100.0 | /mnt/stockage/packages/f14/tracker/po/da.po | 
+ | [de](/f14/language/de) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/de.po | 
+ | [el](/f14/language/el) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f14/tracker/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f14/tracker/po/en_GB.po | 
+ | [es](/f14/language/es) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/es.po | 
+ | [fr](/f14/language/fr) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/fr.po | 
+ | [hu](/f14/language/hu) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/hu.po | 
+ | [ja](/f14/language/ja) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/ja.po | 
+ | [lt](/f14/language/lt) | 1949 | 1949 | 100.0 | /mnt/stockage/packages/f14/tracker/po/lt.po | 
+ | [pl](/f14/language/pl) | 1949 | 1949 | 100.0 | /mnt/stockage/packages/f14/tracker/po/pl.po | 
+ | [pt](/f14/language/pt) | 2002 | 2002 | 100.0 | /mnt/stockage/packages/f14/tracker/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1758 | 1758 | 100.0 | /mnt/stockage/packages/f14/tracker/po/pt_BR.po | 
+ | [sl](/f14/language/sl) | 2016 | 2016 | 100.0 | /mnt/stockage/packages/f14/tracker/po/sl.po | 
+ | [sv](/f14/language/sv) | 1971 | 1971 | 100.0 | /mnt/stockage/packages/f14/tracker/po/sv.po | 
+ | [th](/f14/language/th) | 1391 | 1391 | 100.0 | /mnt/stockage/packages/f14/tracker/po/th.po | 
+ | [it](/f14/language/it) | 1713 | 1716 | 99.8 | /mnt/stockage/packages/f14/tracker/po/it.po | 
+ | [ko](/f14/language/ko) | 1140 | 1143 | 99.7 | /mnt/stockage/packages/f14/tracker/po/ko.po | 
+ | [et](/f14/language/et) | 1669 | 1687 | 98.9 | /mnt/stockage/packages/f14/tracker/po/et.po | 
+ | [ca](/f14/language/ca) | 1348 | 1388 | 97.1 | /mnt/stockage/packages/f14/tracker/po/ca.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1686 | 1776 | 94.9 | /mnt/stockage/packages/f14/tracker/po/zh_CN.po | 
+ | [gl](/f14/language/gl) | 1581 | 1708 | 92.6 | /mnt/stockage/packages/f14/tracker/po/gl.po | 
+ | [ru](/f14/language/ru) | 755 | 858 | 88.0 | /mnt/stockage/packages/f14/tracker/po/ru.po | 
+ | [dz](/f14/language/dz) | 693 | 858 | 80.8 | /mnt/stockage/packages/f14/tracker/po/dz.po | 
+ | [mk](/f14/language/mk) | 666 | 858 | 77.6 | /mnt/stockage/packages/f14/tracker/po/mk.po | 
+ | [sk](/f14/language/sk) | 1300 | 1728 | 75.2 | /mnt/stockage/packages/f14/tracker/po/sk.po | 
+ | [nl](/f14/language/nl) | 1318 | 1932 | 68.2 | /mnt/stockage/packages/f14/tracker/po/nl.po | 
+ | [ar](/f14/language/ar) | 953 | 1950 | 48.9 | /mnt/stockage/packages/f14/tracker/po/ar.po | 
+ | [he](/f14/language/he) | 509 | 1388 | 36.7 | /mnt/stockage/packages/f14/tracker/po/he.po | 
+ | [be](/f14/language/be) | 401 | 1388 | 28.9 | /mnt/stockage/packages/f14/tracker/po/be.po | 
+ | [ro](/f14/language/ro) | 519 | 1870 | 27.8 | /mnt/stockage/packages/f14/tracker/po/ro.po | 
+ | [fi](/f14/language/fi) | 405 | 1797 | 22.5 | /mnt/stockage/packages/f14/tracker/po/fi.po | 
+ | [oc](/f14/language/oc) | 245 | 1392 | 17.6 | /mnt/stockage/packages/f14/tracker/po/oc.po | 
+ | [nb_NO](/f14/language/nb_NO) | 276 | 2023 | 13.6 | /mnt/stockage/packages/f14/tracker/po/nb.po | 
+ | [nds](/f14/language/nds) | 205 | 1747 | 11.7 | /mnt/stockage/packages/f14/tracker/po/nds.po | 
 {.sortable}
 
 

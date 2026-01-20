@@ -18,19 +18,19 @@ The package pyhoca-gui (version 0.5.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/de.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/en.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/es.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/nb_NO.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/nl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/tr.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 1821 | 1838 | 99.1 | /mnt/stockage/packages/f29/pyhoca-gui/po/fi.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 1763 | 1838 | 95.9 | /mnt/stockage/packages/f29/pyhoca-gui/po/et.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 1494 | 1838 | 81.3 | /mnt/stockage/packages/f29/pyhoca-gui/po/ru.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 0 | 1838 | 0.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/bg.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 0 | 1838 | 0.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/fr.po | 
+ | [da](/f29/language/da) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/da.po | 
+ | [de](/f29/language/de) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/de.po | 
+ | [en](/f29/language/en) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/en.po | 
+ | [es](/f29/language/es) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/es.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/nb_NO.po | 
+ | [nl](/f29/language/nl) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/nl.po | 
+ | [sv](/f29/language/sv) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/sv.po | 
+ | [tr](/f29/language/tr) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/tr.po | 
+ | [fi](/f29/language/fi) | 1821 | 1838 | 99.1 | /mnt/stockage/packages/f29/pyhoca-gui/po/fi.po | 
+ | [et](/f29/language/et) | 1763 | 1838 | 95.9 | /mnt/stockage/packages/f29/pyhoca-gui/po/et.po | 
+ | [ru](/f29/language/ru) | 1494 | 1838 | 81.3 | /mnt/stockage/packages/f29/pyhoca-gui/po/ru.po | 
+ | [bg](/f29/language/bg) | 0 | 1838 | 0.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/bg.po | 
+ | [fr](/f29/language/fr) | 0 | 1838 | 0.0 | /mnt/stockage/packages/f29/pyhoca-gui/po/fr.po | 
 {.sortable}
 
 

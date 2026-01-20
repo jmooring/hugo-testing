@@ -18,9 +18,9 @@ The package ucview (version 0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f10/ucview/po/ru.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 313 | 521 | 60.1 | /mnt/stockage/packages/f10/ucview/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 152 | 521 | 29.2 | /mnt/stockage/packages/f10/ucview/po/fr.po | 
+ | [ru](/f10/language/ru) | 480 | 480 | 100.0 | /mnt/stockage/packages/f10/ucview/po/ru.po | 
+ | [de](/f10/language/de) | 313 | 521 | 60.1 | /mnt/stockage/packages/f10/ucview/po/de.po | 
+ | [fr](/f10/language/fr) | 152 | 521 | 29.2 | /mnt/stockage/packages/f10/ucview/po/fr.po | 
 {.sortable}
 
 

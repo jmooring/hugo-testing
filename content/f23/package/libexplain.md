@@ -18,7 +18,7 @@ The package libexplain (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 4083 | 4083 | 100.0 | /mnt/stockage/packages/f23/libexplain/po/de.po | 
+ | [de](/f23/language/de) | 4083 | 4083 | 100.0 | /mnt/stockage/packages/f23/libexplain/po/de.po | 
 {.sortable}
 
 

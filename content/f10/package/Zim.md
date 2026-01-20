@@ -18,26 +18,26 @@ The package Zim (version 0.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/fr.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/he.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/nl.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/tr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/zh_TW.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1210 | 1247 | 97.0 | /mnt/stockage/packages/f10/Zim/po/ru.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1175 | 1247 | 94.2 | /mnt/stockage/packages/f10/Zim/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 1164 | 1247 | 93.3 | /mnt/stockage/packages/f10/Zim/po/pt.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 1117 | 1247 | 89.6 | /mnt/stockage/packages/f10/Zim/po/da.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 1088 | 1247 | 87.2 | /mnt/stockage/packages/f10/Zim/po/gl.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 1083 | 1247 | 86.8 | /mnt/stockage/packages/f10/Zim/po/en_GB.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1074 | 1247 | 86.1 | /mnt/stockage/packages/f10/Zim/po/it.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 800 | 1247 | 64.2 | /mnt/stockage/packages/f10/Zim/po/nb.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 645 | 1247 | 51.7 | /mnt/stockage/packages/f10/Zim/po/sv.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 444 | 1247 | 35.6 | /mnt/stockage/packages/f10/Zim/po/el.po | 
+ | [cs](/f10/language/cs) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/cs.po | 
+ | [de](/f10/language/de) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/de.po | 
+ | [es](/f10/language/es) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/es.po | 
+ | [fi](/f10/language/fi) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/fi.po | 
+ | [fr](/f10/language/fr) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/fr.po | 
+ | [he](/f10/language/he) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/he.po | 
+ | [nl](/f10/language/nl) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/nl.po | 
+ | [tr](/f10/language/tr) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/tr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f10/Zim/po/zh_TW.po | 
+ | [ru](/f10/language/ru) | 1210 | 1247 | 97.0 | /mnt/stockage/packages/f10/Zim/po/ru.po | 
+ | [pl](/f10/language/pl) | 1175 | 1247 | 94.2 | /mnt/stockage/packages/f10/Zim/po/pl.po | 
+ | [pt](/f10/language/pt) | 1164 | 1247 | 93.3 | /mnt/stockage/packages/f10/Zim/po/pt.po | 
+ | [da](/f10/language/da) | 1117 | 1247 | 89.6 | /mnt/stockage/packages/f10/Zim/po/da.po | 
+ | [gl](/f10/language/gl) | 1088 | 1247 | 87.2 | /mnt/stockage/packages/f10/Zim/po/gl.po | 
+ | [en_GB](/f10/language/en_GB) | 1083 | 1247 | 86.8 | /mnt/stockage/packages/f10/Zim/po/en_GB.po | 
+ | [it](/f10/language/it) | 1074 | 1247 | 86.1 | /mnt/stockage/packages/f10/Zim/po/it.po | 
+ | [nb_NO](/f10/language/nb_NO) | 800 | 1247 | 64.2 | /mnt/stockage/packages/f10/Zim/po/nb.po | 
+ | [sv](/f10/language/sv) | 645 | 1247 | 51.7 | /mnt/stockage/packages/f10/Zim/po/sv.po | 
+ | [el](/f10/language/el) | 444 | 1247 | 35.6 | /mnt/stockage/packages/f10/Zim/po/el.po | 
 {.sortable}
 
 

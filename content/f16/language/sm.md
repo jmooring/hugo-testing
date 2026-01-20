@@ -40,18 +40,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-physics]({{< ref "/f16/package/sugar-physics.md" >}}) | 6 | 28 | 21.4 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f16/package/sugar-memorize.md" >}}) | 22 | 114 | 19.3 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 3 | 24 | 12.5 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f16/package/sugar-labyrinth.md" >}}) | 27 | 254 | 10.6 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f16/package/sugar-finance.md" >}}) | 7 | 143 | 4.9 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 3 | 128 | 2.3 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f16/package/sugar-moon.md" >}}) | 2 | 91 | 2.2 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f16/package/sugar-infoslicer.md" >}}) | 2 | 184 | 1.1 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f16/package/sugar-measure.md" >}}) | 1 | 155 | 0.6 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 0 | 7138 | 0.0 | Samoan <sm@li.org> | 
- | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f16/package/sugar-physics) | 6 | 28 | 21.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f16/package/sugar-memorize) | 22 | 114 | 19.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f16/package/sugar-abacus) | 3 | 24 | 12.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f16/package/sugar-labyrinth) | 27 | 254 | 10.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f16/package/sugar-finance) | 7 | 143 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f16/package/sugar-visualmatch) | 3 | 128 | 2.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f16/package/sugar-moon) | 2 | 91 | 2.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f16/package/sugar-infoslicer) | 2 | 184 | 1.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f16/package/sugar-measure) | 1 | 155 | 0.6 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f16/package/stellarium) | 0 | 7138 | 0.0 | Samoan <sm@li.org> | 
+ | [sugar-clock](/f16/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f16/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

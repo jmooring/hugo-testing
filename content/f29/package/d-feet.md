@@ -18,31 +18,31 @@ The package d-feet (version 0.3.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/bs.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/cs/cs.po/mnt/stockage/packages/f29/d-feet/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/de/de.po/mnt/stockage/packages/f29/d-feet/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/el/el.po/mnt/stockage/packages/f29/d-feet/po/el.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/es/es.po/mnt/stockage/packages/f29/d-feet/po/es.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/fr.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/fur.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/gl.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/id.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/lv.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/oc.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/pl/pl.po/mnt/stockage/packages/f29/d-feet/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/d-feet/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/ru.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/sv/sv.po/mnt/stockage/packages/f29/d-feet/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/tr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 84 | 86 | 97.7 | /mnt/stockage/packages/f29/d-feet/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 36 | 109 | 33.0 | /mnt/stockage/packages/f29/d-feet/po/nb.po | 
+ | [bs](/f29/language/bs) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/bs.po | 
+ | [cs](/f29/language/cs) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/cs/cs.po/mnt/stockage/packages/f29/d-feet/po/cs.po | 
+ | [da](/f29/language/da) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/da.po | 
+ | [de](/f29/language/de) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/de/de.po/mnt/stockage/packages/f29/d-feet/po/de.po | 
+ | [el](/f29/language/el) | 184 | 184 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/el/el.po/mnt/stockage/packages/f29/d-feet/po/el.po | 
+ | [es](/f29/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/es/es.po/mnt/stockage/packages/f29/d-feet/po/es.po | 
+ | [fi](/f29/language/fi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/fi.po | 
+ | [fr](/f29/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/fr.po | 
+ | [fur](/f29/language/fur) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/fur.po | 
+ | [gl](/f29/language/gl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/gl.po | 
+ | [hu](/f29/language/hu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/hu.po | 
+ | [id](/f29/language/id) | 111 | 111 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/id.po | 
+ | [lv](/f29/language/lv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/lv.po | 
+ | [oc](/f29/language/oc) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/oc.po | 
+ | [pl](/f29/language/pl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/pl/pl.po/mnt/stockage/packages/f29/d-feet/po/pl.po | 
+ | [pt](/f29/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/pt_BR/pt_BR.po/mnt/stockage/packages/f29/d-feet/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/ru.po | 
+ | [sl](/f29/language/sl) | 111 | 111 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/sl.po | 
+ | [sr](/f29/language/sr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 186 | 186 | 100.0 | /mnt/stockage/packages/f29/d-feet/help/sv/sv.po/mnt/stockage/packages/f29/d-feet/po/sv.po | 
+ | [tr](/f29/language/tr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f29/d-feet/po/tr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 84 | 86 | 97.7 | /mnt/stockage/packages/f29/d-feet/po/zh_CN.po | 
+ | [nb_NO](/f29/language/nb_NO) | 36 | 109 | 33.0 | /mnt/stockage/packages/f29/d-feet/po/nb.po | 
 {.sortable}
 
 

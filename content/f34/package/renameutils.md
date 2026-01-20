@@ -18,42 +18,42 @@ The package renameutils (version 0.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/cs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/fi.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ja.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/pl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ru.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/vi.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 246 | 265 | 92.8 | /mnt/stockage/packages/f34/renameutils/gnulib-po/da.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 246 | 265 | 92.8 | /mnt/stockage/packages/f34/renameutils/gnulib-po/hu.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 243 | 265 | 91.7 | /mnt/stockage/packages/f34/renameutils/gnulib-po/zh_CN.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1302 | 1681 | 77.5 | /mnt/stockage/packages/f34/renameutils/gnulib-po/fr.po/mnt/stockage/packages/f34/renameutils/po/fr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1302 | 1681 | 77.5 | /mnt/stockage/packages/f34/renameutils/gnulib-po/sv.po/mnt/stockage/packages/f34/renameutils/po/sv.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 191 | 265 | 72.1 | /mnt/stockage/packages/f34/renameutils/gnulib-po/et.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 166 | 265 | 62.6 | /mnt/stockage/packages/f34/renameutils/gnulib-po/de.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 133 | 265 | 50.2 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ga.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 133 | 265 | 50.2 | /mnt/stockage/packages/f34/renameutils/gnulib-po/sl.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 83 | 265 | 31.3 | /mnt/stockage/packages/f34/renameutils/gnulib-po/bg.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/af.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ca.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/eu.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/tr.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/zh_TW.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/be.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/el.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/gl.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ko.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ms.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/pt_BR.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/sk.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 8 | 265 | 3.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/nb.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 3 | 265 | 1.1 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ro.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 1 | 265 | 0.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/rw.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 0 | 265 | 0.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/pt.po | 
+ | [cs](/f34/language/cs) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/cs.po | 
+ | [es](/f34/language/es) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/es.po | 
+ | [fi](/f34/language/fi) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/fi.po | 
+ | [it](/f34/language/it) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/it.po | 
+ | [ja](/f34/language/ja) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ja.po | 
+ | [nl](/f34/language/nl) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/nl.po | 
+ | [pl](/f34/language/pl) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/pl.po | 
+ | [ru](/f34/language/ru) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ru.po | 
+ | [uk](/f34/language/uk) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/uk.po | 
+ | [vi](/f34/language/vi) | 265 | 265 | 100.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/vi.po | 
+ | [da](/f34/language/da) | 246 | 265 | 92.8 | /mnt/stockage/packages/f34/renameutils/gnulib-po/da.po | 
+ | [hu](/f34/language/hu) | 246 | 265 | 92.8 | /mnt/stockage/packages/f34/renameutils/gnulib-po/hu.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 243 | 265 | 91.7 | /mnt/stockage/packages/f34/renameutils/gnulib-po/zh_CN.po | 
+ | [fr](/f34/language/fr) | 1302 | 1681 | 77.5 | /mnt/stockage/packages/f34/renameutils/gnulib-po/fr.po/mnt/stockage/packages/f34/renameutils/po/fr.po | 
+ | [sv](/f34/language/sv) | 1302 | 1681 | 77.5 | /mnt/stockage/packages/f34/renameutils/gnulib-po/sv.po/mnt/stockage/packages/f34/renameutils/po/sv.po | 
+ | [et](/f34/language/et) | 191 | 265 | 72.1 | /mnt/stockage/packages/f34/renameutils/gnulib-po/et.po | 
+ | [de](/f34/language/de) | 166 | 265 | 62.6 | /mnt/stockage/packages/f34/renameutils/gnulib-po/de.po | 
+ | [ga](/f34/language/ga) | 133 | 265 | 50.2 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ga.po | 
+ | [sl](/f34/language/sl) | 133 | 265 | 50.2 | /mnt/stockage/packages/f34/renameutils/gnulib-po/sl.po | 
+ | [bg](/f34/language/bg) | 83 | 265 | 31.3 | /mnt/stockage/packages/f34/renameutils/gnulib-po/bg.po | 
+ | [af](/f34/language/af) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/af.po | 
+ | [ca](/f34/language/ca) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ca.po | 
+ | [eu](/f34/language/eu) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/eu.po | 
+ | [tr](/f34/language/tr) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/tr.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 82 | 265 | 30.9 | /mnt/stockage/packages/f34/renameutils/gnulib-po/zh_TW.po | 
+ | [be](/f34/language/be) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/be.po | 
+ | [el](/f34/language/el) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/el.po | 
+ | [gl](/f34/language/gl) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/gl.po | 
+ | [ko](/f34/language/ko) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ko.po | 
+ | [ms](/f34/language/ms) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ms.po | 
+ | [pt_BR](/f34/language/pt_BR) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/pt_BR.po | 
+ | [sk](/f34/language/sk) | 9 | 265 | 3.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/sk.po | 
+ | [nb_NO](/f34/language/nb_NO) | 8 | 265 | 3.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/nb.po | 
+ | [ro](/f34/language/ro) | 3 | 265 | 1.1 | /mnt/stockage/packages/f34/renameutils/gnulib-po/ro.po | 
+ | [rw](/f34/language/rw) | 1 | 265 | 0.4 | /mnt/stockage/packages/f34/renameutils/gnulib-po/rw.po | 
+ | [pt](/f34/language/pt) | 0 | 265 | 0.0 | /mnt/stockage/packages/f34/renameutils/gnulib-po/pt.po | 
 {.sortable}
 
 

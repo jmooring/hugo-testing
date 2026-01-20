@@ -18,109 +18,109 @@ The package libgnomeui (version 2.24.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ar.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ast.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/be.po | 
- | [be_Latn]({{< ref "/f32/language/be_Latn.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/be@latin.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/bg.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/bn_IN.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/br.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 2535 | 2535 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ca.po/mnt/stockage/packages/f32/libgnomeui/po/ca@valencia.po | 
- | [crh]({{< ref "/f32/language/crh.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/crh.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/cs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/cy.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/de.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 1335 | 1335 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/dz.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/el.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 1290 | 1290 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/en_CA.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/en_GB.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/es.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/gl.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ja.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 1290 | 1290 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ka.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/kn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/lv.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ml.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/mn.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/mr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/nb.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 1290 | 1290 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ne.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/nn.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pa.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/tr.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ug.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/zh_HK.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 1329 | 1335 | 99.6 | /mnt/stockage/packages/f32/libgnomeui/po/ku.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 1214 | 1226 | 99.0 | /mnt/stockage/packages/f32/libgnomeui/po/mai.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 1304 | 1325 | 98.4 | /mnt/stockage/packages/f32/libgnomeui/po/mg.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 1198 | 1226 | 97.7 | /mnt/stockage/packages/f32/libgnomeui/po/af.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/az.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/bs.po | 
- | [nso]({{< ref "/f32/language/nso.md" >}}) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/nso.po | 
- | [sr@ijekavian]({{< ref "/f32/language/sr@ijekavian.md" >}}) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/sr@ije.po | 
- | [zu]({{< ref "/f32/language/zu.md" >}}) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/zu.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 1266 | 1419 | 89.2 | /mnt/stockage/packages/f32/libgnomeui/po/xh.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 1261 | 1419 | 88.9 | /mnt/stockage/packages/f32/libgnomeui/po/ms.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 1220 | 1419 | 86.0 | /mnt/stockage/packages/f32/libgnomeui/po/fa.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 1189 | 1419 | 83.8 | /mnt/stockage/packages/f32/libgnomeui/po/wa.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 1178 | 1419 | 83.0 | /mnt/stockage/packages/f32/libgnomeui/po/is.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 982 | 1226 | 80.1 | /mnt/stockage/packages/f32/libgnomeui/po/en@shaw.po | 
- | [li]({{< ref "/f32/language/li.md" >}}) | 1136 | 1419 | 80.1 | /mnt/stockage/packages/f32/libgnomeui/po/li.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 1103 | 1419 | 77.7 | /mnt/stockage/packages/f32/libgnomeui/po/am.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 906 | 1309 | 69.2 | /mnt/stockage/packages/f32/libgnomeui/po/oc.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 846 | 1226 | 69.0 | /mnt/stockage/packages/f32/libgnomeui/po/ps.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 585 | 1290 | 45.3 | /mnt/stockage/packages/f32/libgnomeui/po/uz@cyrillic.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 561 | 1309 | 42.9 | /mnt/stockage/packages/f32/libgnomeui/po/ga.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 482 | 1226 | 39.3 | /mnt/stockage/packages/f32/libgnomeui/po/nds.po | 
- | [tt]({{< ref "/f32/language/tt.md" >}}) | 536 | 1419 | 37.8 | /mnt/stockage/packages/f32/libgnomeui/po/tt.po | 
- | [tk]({{< ref "/f32/language/tk.md" >}}) | 443 | 1419 | 31.2 | /mnt/stockage/packages/f32/libgnomeui/po/tk.po | 
- | [lg]({{< ref "/f32/language/lg.md" >}}) | 332 | 1226 | 27.1 | /mnt/stockage/packages/f32/libgnomeui/po/lg.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 362 | 1420 | 25.5 | /mnt/stockage/packages/f32/libgnomeui/po/hy.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 192 | 1226 | 15.7 | /mnt/stockage/packages/f32/libgnomeui/po/kk.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 179 | 1335 | 13.4 | /mnt/stockage/packages/f32/libgnomeui/po/si.po | 
- | [mi]({{< ref "/f32/language/mi.md" >}}) | 80 | 1419 | 5.6 | /mnt/stockage/packages/f32/libgnomeui/po/mi.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 41 | 1419 | 2.9 | /mnt/stockage/packages/f32/libgnomeui/po/rw.po | 
- | [yi]({{< ref "/f32/language/yi.md" >}}) | 40 | 1419 | 2.8 | /mnt/stockage/packages/f32/libgnomeui/po/yi.po | 
- | [la]({{< ref "/f32/language/la.md" >}}) | 1 | 1309 | 0.1 | /mnt/stockage/packages/f32/libgnomeui/po/la.po | 
+ | [ar](/f32/language/ar) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ar.po | 
+ | [as](/f32/language/as) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/as.po | 
+ | [ast](/f32/language/ast) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ast.po | 
+ | [be](/f32/language/be) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/be.po | 
+ | [be_Latn](/f32/language/be_Latn) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/be@latin.po | 
+ | [bg](/f32/language/bg) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/bg.po | 
+ | [bn](/f32/language/bn) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/bn_IN.po | 
+ | [br](/f32/language/br) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/br.po | 
+ | [ca](/f32/language/ca) | 2535 | 2535 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ca.po/mnt/stockage/packages/f32/libgnomeui/po/ca@valencia.po | 
+ | [crh](/f32/language/crh) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/crh.po | 
+ | [cs](/f32/language/cs) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/cs.po | 
+ | [cy](/f32/language/cy) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/cy.po | 
+ | [da](/f32/language/da) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/da.po | 
+ | [de](/f32/language/de) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/de.po | 
+ | [dz](/f32/language/dz) | 1335 | 1335 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/dz.po | 
+ | [el](/f32/language/el) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/el.po | 
+ | [en_CA](/f32/language/en_CA) | 1290 | 1290 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/en_CA.po | 
+ | [en_GB](/f32/language/en_GB) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/en_GB.po | 
+ | [eo](/f32/language/eo) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/eo.po | 
+ | [es](/f32/language/es) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/es.po | 
+ | [et](/f32/language/et) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/et.po | 
+ | [eu](/f32/language/eu) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/eu.po | 
+ | [fi](/f32/language/fi) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/fi.po | 
+ | [fr](/f32/language/fr) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/fr.po | 
+ | [fur](/f32/language/fur) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/fur.po | 
+ | [gl](/f32/language/gl) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/gl.po | 
+ | [gu](/f32/language/gu) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/gu.po | 
+ | [he](/f32/language/he) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/he.po | 
+ | [hi](/f32/language/hi) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/hi.po | 
+ | [hr](/f32/language/hr) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/hr.po | 
+ | [hu](/f32/language/hu) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/hu.po | 
+ | [id](/f32/language/id) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/id.po | 
+ | [it](/f32/language/it) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/it.po | 
+ | [ja](/f32/language/ja) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ja.po | 
+ | [ka](/f32/language/ka) | 1290 | 1290 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ka.po | 
+ | [kn](/f32/language/kn) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/kn.po | 
+ | [ko](/f32/language/ko) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ko.po | 
+ | [lt](/f32/language/lt) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/lt.po | 
+ | [lv](/f32/language/lv) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/lv.po | 
+ | [mk](/f32/language/mk) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/mk.po | 
+ | [ml](/f32/language/ml) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ml.po | 
+ | [mn](/f32/language/mn) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/mn.po | 
+ | [mr](/f32/language/mr) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/mr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/nb.po | 
+ | [ne](/f32/language/ne) | 1290 | 1290 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ne.po | 
+ | [nl](/f32/language/nl) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/nl.po | 
+ | [nn](/f32/language/nn) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/nn.po | 
+ | [or](/f32/language/or) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/or.po | 
+ | [pa](/f32/language/pa) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pa.po | 
+ | [pl](/f32/language/pl) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pl.po | 
+ | [pt](/f32/language/pt) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ro.po | 
+ | [ru](/f32/language/ru) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ru.po | 
+ | [sk](/f32/language/sk) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sk.po | 
+ | [sl](/f32/language/sl) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sl.po | 
+ | [sq](/f32/language/sq) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sq.po | 
+ | [sr](/f32/language/sr) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/sv.po | 
+ | [ta](/f32/language/ta) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ta.po | 
+ | [te](/f32/language/te) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/te.po | 
+ | [th](/f32/language/th) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/th.po | 
+ | [tr](/f32/language/tr) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/tr.po | 
+ | [ug](/f32/language/ug) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/ug.po | 
+ | [uk](/f32/language/uk) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/uk.po | 
+ | [vi](/f32/language/vi) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f32/libgnomeui/po/zh_HK.po | 
+ | [ku](/f32/language/ku) | 1329 | 1335 | 99.6 | /mnt/stockage/packages/f32/libgnomeui/po/ku.po | 
+ | [mai](/f32/language/mai) | 1214 | 1226 | 99.0 | /mnt/stockage/packages/f32/libgnomeui/po/mai.po | 
+ | [mg](/f32/language/mg) | 1304 | 1325 | 98.4 | /mnt/stockage/packages/f32/libgnomeui/po/mg.po | 
+ | [af](/f32/language/af) | 1198 | 1226 | 97.7 | /mnt/stockage/packages/f32/libgnomeui/po/af.po | 
+ | [az](/f32/language/az) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/az.po | 
+ | [bs](/f32/language/bs) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/bs.po | 
+ | [nso](/f32/language/nso) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/nso.po | 
+ | [sr@ijekavian](/f32/language/sr@ijekavian) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/sr@ije.po | 
+ | [zu](/f32/language/zu) | 1270 | 1419 | 89.5 | /mnt/stockage/packages/f32/libgnomeui/po/zu.po | 
+ | [xh](/f32/language/xh) | 1266 | 1419 | 89.2 | /mnt/stockage/packages/f32/libgnomeui/po/xh.po | 
+ | [ms](/f32/language/ms) | 1261 | 1419 | 88.9 | /mnt/stockage/packages/f32/libgnomeui/po/ms.po | 
+ | [fa](/f32/language/fa) | 1220 | 1419 | 86.0 | /mnt/stockage/packages/f32/libgnomeui/po/fa.po | 
+ | [wa](/f32/language/wa) | 1189 | 1419 | 83.8 | /mnt/stockage/packages/f32/libgnomeui/po/wa.po | 
+ | [is](/f32/language/is) | 1178 | 1419 | 83.0 | /mnt/stockage/packages/f32/libgnomeui/po/is.po | 
+ | [error](/f32/language/error) | 982 | 1226 | 80.1 | /mnt/stockage/packages/f32/libgnomeui/po/en@shaw.po | 
+ | [li](/f32/language/li) | 1136 | 1419 | 80.1 | /mnt/stockage/packages/f32/libgnomeui/po/li.po | 
+ | [am](/f32/language/am) | 1103 | 1419 | 77.7 | /mnt/stockage/packages/f32/libgnomeui/po/am.po | 
+ | [oc](/f32/language/oc) | 906 | 1309 | 69.2 | /mnt/stockage/packages/f32/libgnomeui/po/oc.po | 
+ | [ps](/f32/language/ps) | 846 | 1226 | 69.0 | /mnt/stockage/packages/f32/libgnomeui/po/ps.po | 
+ | [uz](/f32/language/uz) | 585 | 1290 | 45.3 | /mnt/stockage/packages/f32/libgnomeui/po/uz@cyrillic.po | 
+ | [ga](/f32/language/ga) | 561 | 1309 | 42.9 | /mnt/stockage/packages/f32/libgnomeui/po/ga.po | 
+ | [nds](/f32/language/nds) | 482 | 1226 | 39.3 | /mnt/stockage/packages/f32/libgnomeui/po/nds.po | 
+ | [tt](/f32/language/tt) | 536 | 1419 | 37.8 | /mnt/stockage/packages/f32/libgnomeui/po/tt.po | 
+ | [tk](/f32/language/tk) | 443 | 1419 | 31.2 | /mnt/stockage/packages/f32/libgnomeui/po/tk.po | 
+ | [lg](/f32/language/lg) | 332 | 1226 | 27.1 | /mnt/stockage/packages/f32/libgnomeui/po/lg.po | 
+ | [hy](/f32/language/hy) | 362 | 1420 | 25.5 | /mnt/stockage/packages/f32/libgnomeui/po/hy.po | 
+ | [kk](/f32/language/kk) | 192 | 1226 | 15.7 | /mnt/stockage/packages/f32/libgnomeui/po/kk.po | 
+ | [si](/f32/language/si) | 179 | 1335 | 13.4 | /mnt/stockage/packages/f32/libgnomeui/po/si.po | 
+ | [mi](/f32/language/mi) | 80 | 1419 | 5.6 | /mnt/stockage/packages/f32/libgnomeui/po/mi.po | 
+ | [rw](/f32/language/rw) | 41 | 1419 | 2.9 | /mnt/stockage/packages/f32/libgnomeui/po/rw.po | 
+ | [yi](/f32/language/yi) | 40 | 1419 | 2.8 | /mnt/stockage/packages/f32/libgnomeui/po/yi.po | 
+ | [la](/f32/language/la) | 1 | 1309 | 0.1 | /mnt/stockage/packages/f32/libgnomeui/po/la.po | 
 {.sortable}
 
 

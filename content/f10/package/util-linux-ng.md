@@ -18,29 +18,29 @@ The package util-linux-ng (version 2.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/cs.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/id.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/nl.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/vi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 12133 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/hu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 11123 | 12137 | 91.6 | /mnt/stockage/packages/f10/util-linux-ng/po/fi.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 11017 | 12137 | 90.8 | /mnt/stockage/packages/f10/util-linux-ng/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 10627 | 12137 | 87.6 | /mnt/stockage/packages/f10/util-linux-ng/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/fr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/ru.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/uk.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 9943 | 12137 | 81.9 | /mnt/stockage/packages/f10/util-linux-ng/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 9943 | 12137 | 81.9 | /mnt/stockage/packages/f10/util-linux-ng/po/da.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 9877 | 12137 | 81.4 | /mnt/stockage/packages/f10/util-linux-ng/po/es.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 9765 | 12137 | 80.5 | /mnt/stockage/packages/f10/util-linux-ng/po/sl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 9703 | 12137 | 79.9 | /mnt/stockage/packages/f10/util-linux-ng/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 8692 | 12137 | 71.6 | /mnt/stockage/packages/f10/util-linux-ng/po/ja.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 8056 | 12137 | 66.4 | /mnt/stockage/packages/f10/util-linux-ng/po/pt_BR.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 6029 | 12137 | 49.7 | /mnt/stockage/packages/f10/util-linux-ng/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 613 | 12137 | 5.1 | /mnt/stockage/packages/f10/util-linux-ng/po/eu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 478 | 12137 | 3.9 | /mnt/stockage/packages/f10/util-linux-ng/po/pl.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 375 | 12137 | 3.1 | /mnt/stockage/packages/f10/util-linux-ng/po/zh_CN.po | 
+ | [cs](/f10/language/cs) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/cs.po | 
+ | [id](/f10/language/id) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/id.po | 
+ | [nl](/f10/language/nl) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/nl.po | 
+ | [vi](/f10/language/vi) | 12137 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/vi.po | 
+ | [hu](/f10/language/hu) | 12133 | 12137 | 100.0 | /mnt/stockage/packages/f10/util-linux-ng/po/hu.po | 
+ | [fi](/f10/language/fi) | 11123 | 12137 | 91.6 | /mnt/stockage/packages/f10/util-linux-ng/po/fi.po | 
+ | [sv](/f10/language/sv) | 11017 | 12137 | 90.8 | /mnt/stockage/packages/f10/util-linux-ng/po/sv.po | 
+ | [de](/f10/language/de) | 10627 | 12137 | 87.6 | /mnt/stockage/packages/f10/util-linux-ng/po/de.po | 
+ | [fr](/f10/language/fr) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/fr.po | 
+ | [ru](/f10/language/ru) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/ru.po | 
+ | [tr](/f10/language/tr) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/tr.po | 
+ | [uk](/f10/language/uk) | 10071 | 12137 | 83.0 | /mnt/stockage/packages/f10/util-linux-ng/po/uk.po | 
+ | [ca](/f10/language/ca) | 9943 | 12137 | 81.9 | /mnt/stockage/packages/f10/util-linux-ng/po/ca.po | 
+ | [da](/f10/language/da) | 9943 | 12137 | 81.9 | /mnt/stockage/packages/f10/util-linux-ng/po/da.po | 
+ | [es](/f10/language/es) | 9877 | 12137 | 81.4 | /mnt/stockage/packages/f10/util-linux-ng/po/es.po | 
+ | [sl](/f10/language/sl) | 9765 | 12137 | 80.5 | /mnt/stockage/packages/f10/util-linux-ng/po/sl.po | 
+ | [it](/f10/language/it) | 9703 | 12137 | 79.9 | /mnt/stockage/packages/f10/util-linux-ng/po/it.po | 
+ | [ja](/f10/language/ja) | 8692 | 12137 | 71.6 | /mnt/stockage/packages/f10/util-linux-ng/po/ja.po | 
+ | [pt_BR](/f10/language/pt_BR) | 8056 | 12137 | 66.4 | /mnt/stockage/packages/f10/util-linux-ng/po/pt_BR.po | 
+ | [et](/f10/language/et) | 6029 | 12137 | 49.7 | /mnt/stockage/packages/f10/util-linux-ng/po/et.po | 
+ | [eu](/f10/language/eu) | 613 | 12137 | 5.1 | /mnt/stockage/packages/f10/util-linux-ng/po/eu.po | 
+ | [pl](/f10/language/pl) | 478 | 12137 | 3.9 | /mnt/stockage/packages/f10/util-linux-ng/po/pl.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 375 | 12137 | 3.1 | /mnt/stockage/packages/f10/util-linux-ng/po/zh_CN.po | 
 {.sortable}
 
 

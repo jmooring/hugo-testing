@@ -18,16 +18,16 @@ The package fcitx5-skk (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f32/fcitx5-skk/po/ja.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f32/fcitx5-skk/po/zh_CN.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 93 | 94 | 98.9 | /mnt/stockage/packages/f32/fcitx5-skk/po/da.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 93 | 94 | 98.9 | /mnt/stockage/packages/f32/fcitx5-skk/po/zh_TW.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 88 | 94 | 93.6 | /mnt/stockage/packages/f32/fcitx5-skk/po/ko.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/ca.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/de.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/ru.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/tr.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 6 | 94 | 6.4 | /mnt/stockage/packages/f32/fcitx5-skk/po/vi.po | 
+ | [ja](/f32/language/ja) | 94 | 94 | 100.0 | /mnt/stockage/packages/f32/fcitx5-skk/po/ja.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f32/fcitx5-skk/po/zh_CN.po | 
+ | [da](/f32/language/da) | 93 | 94 | 98.9 | /mnt/stockage/packages/f32/fcitx5-skk/po/da.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 93 | 94 | 98.9 | /mnt/stockage/packages/f32/fcitx5-skk/po/zh_TW.po | 
+ | [ko](/f32/language/ko) | 88 | 94 | 93.6 | /mnt/stockage/packages/f32/fcitx5-skk/po/ko.po | 
+ | [ca](/f32/language/ca) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/ca.po | 
+ | [de](/f32/language/de) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/de.po | 
+ | [ru](/f32/language/ru) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/ru.po | 
+ | [tr](/f32/language/tr) | 67 | 94 | 71.3 | /mnt/stockage/packages/f32/fcitx5-skk/po/tr.po | 
+ | [vi](/f32/language/vi) | 6 | 94 | 6.4 | /mnt/stockage/packages/f32/fcitx5-skk/po/vi.po | 
 {.sortable}
 
 

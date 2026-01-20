@@ -18,17 +18,17 @@ The package meteo (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/ca.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/de.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/en.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 454 | 454 | 100.0 | /mnt/stockage/packages/f31/meteo/po/es_ES.po/mnt/stockage/packages/f31/meteo/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/fr.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/lt.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/nl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f31/meteo/po/pt_PT.po/mnt/stockage/packages/f31/meteo/po/pt_BR.po/mnt/stockage/packages/f31/meteo/po/pt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/ru.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/sr.po | 
+ | [ca](/f31/language/ca) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/ca.po | 
+ | [de](/f31/language/de) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/de.po | 
+ | [en](/f31/language/en) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/en.po | 
+ | [es](/f31/language/es) | 454 | 454 | 100.0 | /mnt/stockage/packages/f31/meteo/po/es_ES.po/mnt/stockage/packages/f31/meteo/po/es.po | 
+ | [fr](/f31/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/fr.po | 
+ | [lt](/f31/language/lt) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/lt.po | 
+ | [nb_NO](/f31/language/nb_NO) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/nb.po | 
+ | [nl](/f31/language/nl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/nl.po | 
+ | [pt](/f31/language/pt) | 681 | 681 | 100.0 | /mnt/stockage/packages/f31/meteo/po/pt_PT.po/mnt/stockage/packages/f31/meteo/po/pt_BR.po/mnt/stockage/packages/f31/meteo/po/pt.po | 
+ | [ru](/f31/language/ru) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/ru.po | 
+ | [sr](/f31/language/sr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f31/meteo/po/sr.po | 
 {.sortable}
 
 

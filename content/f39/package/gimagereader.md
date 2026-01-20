@@ -18,52 +18,52 @@ The package gimagereader (version 3.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/ar_AR.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/be.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/es.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/fr.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/he.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/hu.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/it.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/nl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/sr_CS.po | 
- | [sr_Cyrl]({{< ref "/f39/language/sr_Cyrl.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/sr_Cyrl.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/zh_CN.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 1740 | 1817 | 95.8 | /mnt/stockage/packages/f39/gimagereader/po/hi.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 1720 | 1817 | 94.7 | /mnt/stockage/packages/f39/gimagereader/po/sl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1698 | 1817 | 93.5 | /mnt/stockage/packages/f39/gimagereader/po/pl.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 1689 | 1817 | 93.0 | /mnt/stockage/packages/f39/gimagereader/po/el.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 1842 | 2027 | 90.9 | /mnt/stockage/packages/f39/gimagereader/po/nb_NO.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 1621 | 1817 | 89.2 | /mnt/stockage/packages/f39/gimagereader/po/eo.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 1621 | 1817 | 89.2 | /mnt/stockage/packages/f39/gimagereader/po/sq.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 1579 | 1817 | 86.9 | /mnt/stockage/packages/f39/gimagereader/po/mk.po | 
- | [ar_SA]({{< ref "/f39/language/ar_SA.md" >}}) | 1544 | 1817 | 85.0 | /mnt/stockage/packages/f39/gimagereader/po/ar_SA.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1461 | 1817 | 80.4 | /mnt/stockage/packages/f39/gimagereader/po/sv.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1168 | 1817 | 64.3 | /mnt/stockage/packages/f39/gimagereader/po/zh_TW.po | 
- | [ie]({{< ref "/f39/language/ie.md" >}}) | 1165 | 1817 | 64.1 | /mnt/stockage/packages/f39/gimagereader/po/ie.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 1161 | 1817 | 63.9 | /mnt/stockage/packages/f39/gimagereader/po/zh_HK.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 818 | 1817 | 45.0 | /mnt/stockage/packages/f39/gimagereader/po/ko.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 719 | 1817 | 39.6 | /mnt/stockage/packages/f39/gimagereader/po/ja.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 514 | 1817 | 28.3 | /mnt/stockage/packages/f39/gimagereader/po/ka.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 487 | 1817 | 26.8 | /mnt/stockage/packages/f39/gimagereader/po/ia.po | 
- | [sat]({{< ref "/f39/language/sat.md" >}}) | 183 | 1817 | 10.1 | /mnt/stockage/packages/f39/gimagereader/po/sat.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 181 | 1817 | 10.0 | /mnt/stockage/packages/f39/gimagereader/po/eu.po | 
- | [ckb]({{< ref "/f39/language/ckb.md" >}}) | 58 | 1817 | 3.2 | /mnt/stockage/packages/f39/gimagereader/po/ckb.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 2 | 1817 | 0.1 | /mnt/stockage/packages/f39/gimagereader/po/sr_Latn.po | 
- | [ab]({{< ref "/f39/language/ab.md" >}}) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/ab.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/ca.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/fa.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/gu.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/ro.po | 
+ | [ar](/f39/language/ar) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/ar_AR.po | 
+ | [be](/f39/language/be) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/be.po | 
+ | [cs](/f39/language/cs) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/cs.po | 
+ | [de](/f39/language/de) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/de.po | 
+ | [es](/f39/language/es) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/es.po | 
+ | [fi](/f39/language/fi) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/fi.po | 
+ | [fr](/f39/language/fr) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/fr.po | 
+ | [he](/f39/language/he) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/he.po | 
+ | [hr](/f39/language/hr) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/hr.po | 
+ | [hu](/f39/language/hu) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/hu.po | 
+ | [it](/f39/language/it) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/it.po | 
+ | [nl](/f39/language/nl) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/nl.po | 
+ | [pt](/f39/language/pt) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/ru.po | 
+ | [sr](/f39/language/sr) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/sr_CS.po | 
+ | [sr_Cyrl](/f39/language/sr_Cyrl) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/sr_Cyrl.po | 
+ | [tr](/f39/language/tr) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/tr.po | 
+ | [uk](/f39/language/uk) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f39/gimagereader/po/zh_CN.po | 
+ | [hi](/f39/language/hi) | 1740 | 1817 | 95.8 | /mnt/stockage/packages/f39/gimagereader/po/hi.po | 
+ | [sl](/f39/language/sl) | 1720 | 1817 | 94.7 | /mnt/stockage/packages/f39/gimagereader/po/sl.po | 
+ | [pl](/f39/language/pl) | 1698 | 1817 | 93.5 | /mnt/stockage/packages/f39/gimagereader/po/pl.po | 
+ | [el](/f39/language/el) | 1689 | 1817 | 93.0 | /mnt/stockage/packages/f39/gimagereader/po/el.po | 
+ | [nb_NO](/f39/language/nb_NO) | 1842 | 2027 | 90.9 | /mnt/stockage/packages/f39/gimagereader/po/nb_NO.po | 
+ | [eo](/f39/language/eo) | 1621 | 1817 | 89.2 | /mnt/stockage/packages/f39/gimagereader/po/eo.po | 
+ | [sq](/f39/language/sq) | 1621 | 1817 | 89.2 | /mnt/stockage/packages/f39/gimagereader/po/sq.po | 
+ | [mk](/f39/language/mk) | 1579 | 1817 | 86.9 | /mnt/stockage/packages/f39/gimagereader/po/mk.po | 
+ | [ar_SA](/f39/language/ar_SA) | 1544 | 1817 | 85.0 | /mnt/stockage/packages/f39/gimagereader/po/ar_SA.po | 
+ | [sv](/f39/language/sv) | 1461 | 1817 | 80.4 | /mnt/stockage/packages/f39/gimagereader/po/sv.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1168 | 1817 | 64.3 | /mnt/stockage/packages/f39/gimagereader/po/zh_TW.po | 
+ | [ie](/f39/language/ie) | 1165 | 1817 | 64.1 | /mnt/stockage/packages/f39/gimagereader/po/ie.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 1161 | 1817 | 63.9 | /mnt/stockage/packages/f39/gimagereader/po/zh_HK.po | 
+ | [ko](/f39/language/ko) | 818 | 1817 | 45.0 | /mnt/stockage/packages/f39/gimagereader/po/ko.po | 
+ | [ja](/f39/language/ja) | 719 | 1817 | 39.6 | /mnt/stockage/packages/f39/gimagereader/po/ja.po | 
+ | [ka](/f39/language/ka) | 514 | 1817 | 28.3 | /mnt/stockage/packages/f39/gimagereader/po/ka.po | 
+ | [ia](/f39/language/ia) | 487 | 1817 | 26.8 | /mnt/stockage/packages/f39/gimagereader/po/ia.po | 
+ | [sat](/f39/language/sat) | 183 | 1817 | 10.1 | /mnt/stockage/packages/f39/gimagereader/po/sat.po | 
+ | [eu](/f39/language/eu) | 181 | 1817 | 10.0 | /mnt/stockage/packages/f39/gimagereader/po/eu.po | 
+ | [ckb](/f39/language/ckb) | 58 | 1817 | 3.2 | /mnt/stockage/packages/f39/gimagereader/po/ckb.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 2 | 1817 | 0.1 | /mnt/stockage/packages/f39/gimagereader/po/sr_Latn.po | 
+ | [ab](/f39/language/ab) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/ab.po | 
+ | [ca](/f39/language/ca) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/ca.po | 
+ | [fa](/f39/language/fa) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/fa.po | 
+ | [gu](/f39/language/gu) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/gu.po | 
+ | [ro](/f39/language/ro) | 0 | 1817 | 0.0 | /mnt/stockage/packages/f39/gimagereader/po/ro.po | 
 {.sortable}
 
 

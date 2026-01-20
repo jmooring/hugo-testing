@@ -18,7 +18,7 @@ The package nip2 (version 7.32.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 18 | 3281 | 0.5 | /mnt/stockage/packages/f19/nip2/po/en_GB.po | 
+ | [en_GB](/f19/language/en_GB) | 18 | 3281 | 0.5 | /mnt/stockage/packages/f19/nip2/po/en_GB.po | 
 {.sortable}
 
 

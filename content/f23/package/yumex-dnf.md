@@ -18,35 +18,35 @@ The package yumex-dnf (version 4.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 748 | 798 | 93.7 | /mnt/stockage/packages/f23/yumex-dnf/po/fr.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 748 | 798 | 93.7 | /mnt/stockage/packages/f23/yumex-dnf/po/pl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 748 | 798 | 93.7 | /mnt/stockage/packages/f23/yumex-dnf/po/uk.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 431 | 798 | 54.0 | /mnt/stockage/packages/f23/yumex-dnf/po/nl.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 395 | 798 | 49.5 | /mnt/stockage/packages/f23/yumex-dnf/po/bg.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 352 | 798 | 44.1 | /mnt/stockage/packages/f23/yumex-dnf/po/de.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 348 | 798 | 43.6 | /mnt/stockage/packages/f23/yumex-dnf/po/ar.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 348 | 1596 | 21.8 | /mnt/stockage/packages/f23/yumex-dnf/po/zh_CN.po/mnt/stockage/packages/f23/yumex-dnf/po/cmn.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 133 | 798 | 16.7 | /mnt/stockage/packages/f23/yumex-dnf/po/sk.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/bn_IN.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/da.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 0 | 1596 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/es_ES.po/mnt/stockage/packages/f23/yumex-dnf/po/es.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/fa.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/gu.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ja.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ko.po | 
- | [ky]({{< ref "/f23/language/ky.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ky.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ru.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/sr.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/sr@latin.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/tr_TR.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/zh_TW.po | 
+ | [fr](/f23/language/fr) | 748 | 798 | 93.7 | /mnt/stockage/packages/f23/yumex-dnf/po/fr.po | 
+ | [pl](/f23/language/pl) | 748 | 798 | 93.7 | /mnt/stockage/packages/f23/yumex-dnf/po/pl.po | 
+ | [uk](/f23/language/uk) | 748 | 798 | 93.7 | /mnt/stockage/packages/f23/yumex-dnf/po/uk.po | 
+ | [nl](/f23/language/nl) | 431 | 798 | 54.0 | /mnt/stockage/packages/f23/yumex-dnf/po/nl.po | 
+ | [bg](/f23/language/bg) | 395 | 798 | 49.5 | /mnt/stockage/packages/f23/yumex-dnf/po/bg.po | 
+ | [de](/f23/language/de) | 352 | 798 | 44.1 | /mnt/stockage/packages/f23/yumex-dnf/po/de.po | 
+ | [ar](/f23/language/ar) | 348 | 798 | 43.6 | /mnt/stockage/packages/f23/yumex-dnf/po/ar.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 348 | 1596 | 21.8 | /mnt/stockage/packages/f23/yumex-dnf/po/zh_CN.po/mnt/stockage/packages/f23/yumex-dnf/po/cmn.po | 
+ | [sk](/f23/language/sk) | 133 | 798 | 16.7 | /mnt/stockage/packages/f23/yumex-dnf/po/sk.po | 
+ | [bn_IN](/f23/language/bn_IN) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/bn_IN.po | 
+ | [cs](/f23/language/cs) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/cs.po | 
+ | [da](/f23/language/da) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/da.po | 
+ | [el](/f23/language/el) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/el.po | 
+ | [es](/f23/language/es) | 0 | 1596 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/es_ES.po/mnt/stockage/packages/f23/yumex-dnf/po/es.po | 
+ | [fa](/f23/language/fa) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/fa.po | 
+ | [gu](/f23/language/gu) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/gu.po | 
+ | [hu](/f23/language/hu) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/hu.po | 
+ | [id](/f23/language/id) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/id.po | 
+ | [it](/f23/language/it) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/it.po | 
+ | [ja](/f23/language/ja) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ja.po | 
+ | [ko](/f23/language/ko) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ko.po | 
+ | [ky](/f23/language/ky) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ky.po | 
+ | [pt](/f23/language/pt) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/ru.po | 
+ | [sr](/f23/language/sr) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/sr.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/sr@latin.po | 
+ | [tr](/f23/language/tr) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/tr_TR.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 0 | 798 | 0.0 | /mnt/stockage/packages/f23/yumex-dnf/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package openpts (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f20/openpts/po_/ja.po | 
+ | [ja](/f20/language/ja) | 3 | 3 | 100.0 | /mnt/stockage/packages/f20/openpts/po_/ja.po | 
 {.sortable}
 
 

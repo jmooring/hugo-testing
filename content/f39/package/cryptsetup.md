@@ -18,26 +18,26 @@ The package cryptsetup (version 2.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/de.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/ja.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/ru.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/uk.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 5900 | 5904 | 99.9 | /mnt/stockage/packages/f39/cryptsetup/po/pl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 5646 | 5904 | 95.6 | /mnt/stockage/packages/f39/cryptsetup/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 5646 | 5904 | 95.6 | /mnt/stockage/packages/f39/cryptsetup/po/sv.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 5072 | 5904 | 85.9 | /mnt/stockage/packages/f39/cryptsetup/po/es.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 4133 | 5904 | 70.0 | /mnt/stockage/packages/f39/cryptsetup/po/da.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 3056 | 5904 | 51.8 | /mnt/stockage/packages/f39/cryptsetup/po/it.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 3056 | 5904 | 51.8 | /mnt/stockage/packages/f39/cryptsetup/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1832 | 5904 | 31.0 | /mnt/stockage/packages/f39/cryptsetup/po/zh_CN.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1726 | 5904 | 29.2 | /mnt/stockage/packages/f39/cryptsetup/po/nl.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 503 | 5904 | 8.5 | /mnt/stockage/packages/f39/cryptsetup/po/vi.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 496 | 5904 | 8.4 | /mnt/stockage/packages/f39/cryptsetup/po/fi.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 439 | 5904 | 7.4 | /mnt/stockage/packages/f39/cryptsetup/po/ka.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 217 | 5904 | 3.7 | /mnt/stockage/packages/f39/cryptsetup/po/id.po | 
+ | [cs](/f39/language/cs) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/cs.po | 
+ | [de](/f39/language/de) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/de.po | 
+ | [fr](/f39/language/fr) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/fr.po | 
+ | [ja](/f39/language/ja) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/ja.po | 
+ | [ro](/f39/language/ro) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/ro.po | 
+ | [ru](/f39/language/ru) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/ru.po | 
+ | [uk](/f39/language/uk) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f39/cryptsetup/po/uk.po | 
+ | [pl](/f39/language/pl) | 5900 | 5904 | 99.9 | /mnt/stockage/packages/f39/cryptsetup/po/pl.po | 
+ | [sr](/f39/language/sr) | 5646 | 5904 | 95.6 | /mnt/stockage/packages/f39/cryptsetup/po/sr.po | 
+ | [sv](/f39/language/sv) | 5646 | 5904 | 95.6 | /mnt/stockage/packages/f39/cryptsetup/po/sv.po | 
+ | [es](/f39/language/es) | 5072 | 5904 | 85.9 | /mnt/stockage/packages/f39/cryptsetup/po/es.po | 
+ | [da](/f39/language/da) | 4133 | 5904 | 70.0 | /mnt/stockage/packages/f39/cryptsetup/po/da.po | 
+ | [it](/f39/language/it) | 3056 | 5904 | 51.8 | /mnt/stockage/packages/f39/cryptsetup/po/it.po | 
+ | [pt_BR](/f39/language/pt_BR) | 3056 | 5904 | 51.8 | /mnt/stockage/packages/f39/cryptsetup/po/pt_BR.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1832 | 5904 | 31.0 | /mnt/stockage/packages/f39/cryptsetup/po/zh_CN.po | 
+ | [nl](/f39/language/nl) | 1726 | 5904 | 29.2 | /mnt/stockage/packages/f39/cryptsetup/po/nl.po | 
+ | [vi](/f39/language/vi) | 503 | 5904 | 8.5 | /mnt/stockage/packages/f39/cryptsetup/po/vi.po | 
+ | [fi](/f39/language/fi) | 496 | 5904 | 8.4 | /mnt/stockage/packages/f39/cryptsetup/po/fi.po | 
+ | [ka](/f39/language/ka) | 439 | 5904 | 7.4 | /mnt/stockage/packages/f39/cryptsetup/po/ka.po | 
+ | [id](/f39/language/id) | 217 | 5904 | 3.7 | /mnt/stockage/packages/f39/cryptsetup/po/id.po | 
 {.sortable}
 
 

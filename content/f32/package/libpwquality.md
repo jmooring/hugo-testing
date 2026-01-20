@@ -18,57 +18,57 @@ The package libpwquality (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/cs.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/pl.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/uk.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/as.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/bg.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/bn_IN.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/fur.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/hi.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ja.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/km.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/kn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ko.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/mr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/nl.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/pa.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/sk.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/te.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/zh_TW.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 165 | 345 | 47.8 | /mnt/stockage/packages/f32/libpwquality/po/kk.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 98 | 345 | 28.4 | /mnt/stockage/packages/f32/libpwquality/po/eu.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 54 | 345 | 15.7 | /mnt/stockage/packages/f32/libpwquality/po/sq.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 23 | 345 | 6.7 | /mnt/stockage/packages/f32/libpwquality/po/ur.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/ar.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/si.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/sr@latin.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/vi.po | 
- | [zu]({{< ref "/f32/language/zu.md" >}}) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/zu.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 0 | 345 | 0.0 | /mnt/stockage/packages/f32/libpwquality/po/az.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 345 | 0.0 | /mnt/stockage/packages/f32/libpwquality/po/fa.po | 
+ | [cs](/f32/language/cs) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/cs.po | 
+ | [pl](/f32/language/pl) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/pl.po | 
+ | [tr](/f32/language/tr) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/tr.po | 
+ | [uk](/f32/language/uk) | 345 | 345 | 100.0 | /mnt/stockage/packages/f32/libpwquality/po/uk.po | 
+ | [as](/f32/language/as) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/as.po | 
+ | [bg](/f32/language/bg) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/bg.po | 
+ | [bn_IN](/f32/language/bn_IN) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/bn_IN.po | 
+ | [ca](/f32/language/ca) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ca.po | 
+ | [da](/f32/language/da) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/da.po | 
+ | [de](/f32/language/de) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/de.po | 
+ | [es](/f32/language/es) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/es.po | 
+ | [fi](/f32/language/fi) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/fi.po | 
+ | [fr](/f32/language/fr) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/fr.po | 
+ | [fur](/f32/language/fur) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/fur.po | 
+ | [gu](/f32/language/gu) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/gu.po | 
+ | [he](/f32/language/he) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/he.po | 
+ | [hi](/f32/language/hi) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/hi.po | 
+ | [hu](/f32/language/hu) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/hu.po | 
+ | [id](/f32/language/id) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/id.po | 
+ | [it](/f32/language/it) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/it.po | 
+ | [ja](/f32/language/ja) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ja.po | 
+ | [km](/f32/language/km) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/km.po | 
+ | [kn](/f32/language/kn) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/kn.po | 
+ | [ko](/f32/language/ko) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ko.po | 
+ | [ml](/f32/language/ml) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ml.po | 
+ | [mr](/f32/language/mr) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/mr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/nb.po | 
+ | [nl](/f32/language/nl) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/nl.po | 
+ | [or](/f32/language/or) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/or.po | 
+ | [pa](/f32/language/pa) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/pa.po | 
+ | [pt](/f32/language/pt) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ru.po | 
+ | [sk](/f32/language/sk) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/sk.po | 
+ | [sr](/f32/language/sr) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/sr.po | 
+ | [sv](/f32/language/sv) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/sv.po | 
+ | [ta](/f32/language/ta) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/ta.po | 
+ | [te](/f32/language/te) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/te.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 333 | 345 | 96.5 | /mnt/stockage/packages/f32/libpwquality/po/zh_TW.po | 
+ | [kk](/f32/language/kk) | 165 | 345 | 47.8 | /mnt/stockage/packages/f32/libpwquality/po/kk.po | 
+ | [eu](/f32/language/eu) | 98 | 345 | 28.4 | /mnt/stockage/packages/f32/libpwquality/po/eu.po | 
+ | [sq](/f32/language/sq) | 54 | 345 | 15.7 | /mnt/stockage/packages/f32/libpwquality/po/sq.po | 
+ | [ur](/f32/language/ur) | 23 | 345 | 6.7 | /mnt/stockage/packages/f32/libpwquality/po/ur.po | 
+ | [ar](/f32/language/ar) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/ar.po | 
+ | [si](/f32/language/si) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/si.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/sr@latin.po | 
+ | [vi](/f32/language/vi) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/vi.po | 
+ | [zu](/f32/language/zu) | 8 | 345 | 2.3 | /mnt/stockage/packages/f32/libpwquality/po/zu.po | 
+ | [az](/f32/language/az) | 0 | 345 | 0.0 | /mnt/stockage/packages/f32/libpwquality/po/az.po | 
+ | [fa](/f32/language/fa) | 0 | 345 | 0.0 | /mnt/stockage/packages/f32/libpwquality/po/fa.po | 
 {.sortable}
 
 

@@ -18,32 +18,32 @@ The package moblin-panel-people (version 0.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ar.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ca.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/es.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/eu.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/gl.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ja.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ko.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/nl.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/pl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/pt_BR.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ro.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/sv.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/th.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/tr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/uk.po | 
- | [wa]({{< ref "/f13/language/wa.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/wa.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/zh_TW.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/hu.po | 
+ | [ar](/f13/language/ar) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ar.po | 
+ | [ca](/f13/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ca.po | 
+ | [da](/f13/language/da) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/da.po | 
+ | [de](/f13/language/de) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/de.po | 
+ | [es](/f13/language/es) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/es.po | 
+ | [eu](/f13/language/eu) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/eu.po | 
+ | [fi](/f13/language/fi) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/fi.po | 
+ | [fr](/f13/language/fr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/fr.po | 
+ | [gl](/f13/language/gl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/gl.po | 
+ | [id](/f13/language/id) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/id.po | 
+ | [it](/f13/language/it) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/it.po | 
+ | [ja](/f13/language/ja) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ja.po | 
+ | [ko](/f13/language/ko) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ko.po | 
+ | [nl](/f13/language/nl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/nl.po | 
+ | [pa](/f13/language/pa) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/pa.po | 
+ | [pl](/f13/language/pl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/pl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/pt_BR.po | 
+ | [ro](/f13/language/ro) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/ro.po | 
+ | [sv](/f13/language/sv) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/sv.po | 
+ | [th](/f13/language/th) | 27 | 27 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/th.po | 
+ | [tr](/f13/language/tr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/tr.po | 
+ | [uk](/f13/language/uk) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/uk.po | 
+ | [wa](/f13/language/wa) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/wa.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 68 | 68 | 100.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/zh_TW.po | 
+ | [hu](/f13/language/hu) | 0 | 27 | 0.0 | /mnt/stockage/packages/f13/moblin-panel-people/po/hu.po | 
 {.sortable}
 
 

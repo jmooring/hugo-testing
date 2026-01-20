@@ -18,16 +18,16 @@ The package wxmedit (version 3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 3782 | 3782 | 100.0 | /mnt/stockage/packages/f43/wxmedit/po/ta.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3651 | 3782 | 96.5 | /mnt/stockage/packages/f43/wxmedit/po/fr_FR.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 3607 | 3782 | 95.4 | /mnt/stockage/packages/f43/wxmedit/po/es.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 3607 | 3782 | 95.4 | /mnt/stockage/packages/f43/wxmedit/po/ja_JP.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 3394 | 3782 | 89.7 | /mnt/stockage/packages/f43/wxmedit/po/de_DE.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 3279 | 3782 | 86.7 | /mnt/stockage/packages/f43/wxmedit/po/ru_RU.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 3249 | 3782 | 85.9 | /mnt/stockage/packages/f43/wxmedit/po/pl_PL.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 3132 | 3782 | 82.8 | /mnt/stockage/packages/f43/wxmedit/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 3089 | 3782 | 81.7 | /mnt/stockage/packages/f43/wxmedit/po/zh_TW.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 2150 | 3782 | 56.8 | /mnt/stockage/packages/f43/wxmedit/po/it_IT.po | 
+ | [ta](/f43/language/ta) | 3782 | 3782 | 100.0 | /mnt/stockage/packages/f43/wxmedit/po/ta.po | 
+ | [fr](/f43/language/fr) | 3651 | 3782 | 96.5 | /mnt/stockage/packages/f43/wxmedit/po/fr_FR.po | 
+ | [es](/f43/language/es) | 3607 | 3782 | 95.4 | /mnt/stockage/packages/f43/wxmedit/po/es.po | 
+ | [ja](/f43/language/ja) | 3607 | 3782 | 95.4 | /mnt/stockage/packages/f43/wxmedit/po/ja_JP.po | 
+ | [de](/f43/language/de) | 3394 | 3782 | 89.7 | /mnt/stockage/packages/f43/wxmedit/po/de_DE.po | 
+ | [ru](/f43/language/ru) | 3279 | 3782 | 86.7 | /mnt/stockage/packages/f43/wxmedit/po/ru_RU.po | 
+ | [pl](/f43/language/pl) | 3249 | 3782 | 85.9 | /mnt/stockage/packages/f43/wxmedit/po/pl_PL.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 3132 | 3782 | 82.8 | /mnt/stockage/packages/f43/wxmedit/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 3089 | 3782 | 81.7 | /mnt/stockage/packages/f43/wxmedit/po/zh_TW.po | 
+ | [it](/f43/language/it) | 2150 | 3782 | 56.8 | /mnt/stockage/packages/f43/wxmedit/po/it_IT.po | 
 {.sortable}
 
 

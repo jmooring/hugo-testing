@@ -18,8 +18,8 @@ The package php-zendframework-zend-i18n (version 2.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f26/language/en.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f26/php-zendframework-zend-i18n/test/Translator/_files/translation_en.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f26/php-zendframework-zend-i18n/test/Translator/_files/translation_empty.po | 
+ | [en](/f26/language/en) | 25 | 25 | 100.0 | /mnt/stockage/packages/f26/php-zendframework-zend-i18n/test/Translator/_files/translation_en.po | 
+ | [error](/f26/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f26/php-zendframework-zend-i18n/test/Translator/_files/translation_empty.po | 
 {.sortable}
 
 

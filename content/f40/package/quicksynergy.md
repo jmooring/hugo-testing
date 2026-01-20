@@ -18,7 +18,7 @@ The package quicksynergy (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/quicksynergy/po/pt_BR.po | 
+ | [pt_BR](/f40/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f40/quicksynergy/po/pt_BR.po | 
 {.sortable}
 
 

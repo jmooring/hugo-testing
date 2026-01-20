@@ -43,8 +43,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 598 | 12174 | 4.9 | Kazakh | 
- | [jokosher]({{< ref "/f8/package/jokosher.md" >}}) | 3 | 1931 | 0.2 | Kazakh <kk@li.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 598 | 12174 | 4.9 | Kazakh | 
+ | [jokosher](/f8/package/jokosher) | 3 | 1931 | 0.2 | Kazakh <kk@li.org> | 
 {.sortable}
 
 

@@ -18,45 +18,45 @@ The package revisor (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f19/revisor/po/ca.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f19/revisor/po/es.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f19/revisor/po/it.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f19/revisor/po/pl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f19/revisor/po/sr.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f19/revisor/po/sr@latin.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f19/revisor/po/uk.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 4619 | 4631 | 99.7 | /mnt/stockage/packages/f19/revisor/po/de.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 4512 | 4636 | 97.3 | /mnt/stockage/packages/f19/revisor/po/pt_BR.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 3627 | 4171 | 87.0 | /mnt/stockage/packages/f19/revisor/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 877 | 4443 | 19.7 | /mnt/stockage/packages/f19/revisor/po/nl.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 331 | 4630 | 7.1 | /mnt/stockage/packages/f19/revisor/po/el.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 169 | 4630 | 3.7 | /mnt/stockage/packages/f19/revisor/po/zh_CN.po | 
- | [bn]({{< ref "/f19/language/bn.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/bn.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/bn_IN.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/da.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/fi.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/gu.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/hi.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/hr.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/hu.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/is.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ja.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ko.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ml.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ms.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/nb.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/pa.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/pt.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/sl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ta.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/tr.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/zh_TW.po | 
+ | [ca](/f19/language/ca) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f19/revisor/po/ca.po | 
+ | [es](/f19/language/es) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f19/revisor/po/es.po | 
+ | [it](/f19/language/it) | 4630 | 4630 | 100.0 | /mnt/stockage/packages/f19/revisor/po/it.po | 
+ | [pl](/f19/language/pl) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f19/revisor/po/pl.po | 
+ | [sr](/f19/language/sr) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f19/revisor/po/sr.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 4224 | 4224 | 100.0 | /mnt/stockage/packages/f19/revisor/po/sr@latin.po | 
+ | [uk](/f19/language/uk) | 4636 | 4636 | 100.0 | /mnt/stockage/packages/f19/revisor/po/uk.po | 
+ | [de](/f19/language/de) | 4619 | 4631 | 99.7 | /mnt/stockage/packages/f19/revisor/po/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 4512 | 4636 | 97.3 | /mnt/stockage/packages/f19/revisor/po/pt_BR.po | 
+ | [fr](/f19/language/fr) | 3627 | 4171 | 87.0 | /mnt/stockage/packages/f19/revisor/po/fr.po | 
+ | [nl](/f19/language/nl) | 877 | 4443 | 19.7 | /mnt/stockage/packages/f19/revisor/po/nl.po | 
+ | [el](/f19/language/el) | 331 | 4630 | 7.1 | /mnt/stockage/packages/f19/revisor/po/el.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 169 | 4630 | 3.7 | /mnt/stockage/packages/f19/revisor/po/zh_CN.po | 
+ | [bn](/f19/language/bn) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/bn.po | 
+ | [bn_IN](/f19/language/bn_IN) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/bn_IN.po | 
+ | [cs](/f19/language/cs) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/cs.po | 
+ | [da](/f19/language/da) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/da.po | 
+ | [fi](/f19/language/fi) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/fi.po | 
+ | [gl](/f19/language/gl) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/gl.po | 
+ | [gu](/f19/language/gu) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/gu.po | 
+ | [hi](/f19/language/hi) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/hi.po | 
+ | [hr](/f19/language/hr) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/hr.po | 
+ | [hu](/f19/language/hu) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/hu.po | 
+ | [is](/f19/language/is) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/is.po | 
+ | [ja](/f19/language/ja) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ja.po | 
+ | [ko](/f19/language/ko) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ko.po | 
+ | [ml](/f19/language/ml) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ml.po | 
+ | [ms](/f19/language/ms) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ms.po | 
+ | [nb_NO](/f19/language/nb_NO) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/nb.po | 
+ | [or](/f19/language/or) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/or.po | 
+ | [pa](/f19/language/pa) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/pa.po | 
+ | [pt](/f19/language/pt) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/pt.po | 
+ | [ru](/f19/language/ru) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ru.po | 
+ | [sk](/f19/language/sk) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/sk.po | 
+ | [sl](/f19/language/sl) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/sl.po | 
+ | [sv](/f19/language/sv) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/sv.po | 
+ | [ta](/f19/language/ta) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/ta.po | 
+ | [tr](/f19/language/tr) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/tr.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 0 | 4171 | 0.0 | /mnt/stockage/packages/f19/revisor/po/zh_TW.po | 
 {.sortable}
 
 

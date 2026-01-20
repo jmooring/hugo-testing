@@ -18,58 +18,58 @@ The package ristretto (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/bg.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/el.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/en_AU.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/eu.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/hy_AM.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/id.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/is.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/sk.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/sv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/zh_TW.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 600 | 607 | 98.8 | /mnt/stockage/packages/f32/ristretto/po/fi.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 550 | 759 | 72.5 | /mnt/stockage/packages/f32/ristretto/po/ro.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 546 | 759 | 71.9 | /mnt/stockage/packages/f32/ristretto/po/ar.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 540 | 759 | 71.1 | /mnt/stockage/packages/f32/ristretto/po/ast.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 540 | 759 | 71.1 | /mnt/stockage/packages/f32/ristretto/po/oc.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 540 | 759 | 71.1 | /mnt/stockage/packages/f32/ristretto/po/ug.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 539 | 759 | 71.0 | /mnt/stockage/packages/f32/ristretto/po/en_GB.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 172 | 372 | 46.2 | /mnt/stockage/packages/f32/ristretto/po/vi.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 164 | 372 | 44.1 | /mnt/stockage/packages/f32/ristretto/po/lv.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 321 | 759 | 42.3 | /mnt/stockage/packages/f32/ristretto/po/ie.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 240 | 759 | 31.6 | /mnt/stockage/packages/f32/ristretto/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 226 | 759 | 29.8 | /mnt/stockage/packages/f32/ristretto/po/sq.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 183 | 759 | 24.1 | /mnt/stockage/packages/f32/ristretto/po/te.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 94 | 744 | 12.6 | /mnt/stockage/packages/f32/ristretto/po/ur.po/mnt/stockage/packages/f32/ristretto/po/ur_PK.po | 
+ | [be](/f32/language/be) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/be.po | 
+ | [bg](/f32/language/bg) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/bg.po | 
+ | [ca](/f32/language/ca) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ca.po | 
+ | [cs](/f32/language/cs) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/cs.po | 
+ | [da](/f32/language/da) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/da.po | 
+ | [de](/f32/language/de) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/de.po | 
+ | [el](/f32/language/el) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/el.po | 
+ | [en_AU](/f32/language/en_AU) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/en_AU.po | 
+ | [es](/f32/language/es) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/es.po | 
+ | [eu](/f32/language/eu) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/eu.po | 
+ | [fr](/f32/language/fr) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/fr.po | 
+ | [gl](/f32/language/gl) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/gl.po | 
+ | [he](/f32/language/he) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/he.po | 
+ | [hr](/f32/language/hr) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/hr.po | 
+ | [hu](/f32/language/hu) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/hu.po | 
+ | [hy](/f32/language/hy) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/hy_AM.po | 
+ | [id](/f32/language/id) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/id.po | 
+ | [is](/f32/language/is) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/is.po | 
+ | [it](/f32/language/it) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/it.po | 
+ | [ja](/f32/language/ja) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ja.po | 
+ | [kk](/f32/language/kk) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/kk.po | 
+ | [ko](/f32/language/ko) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ko.po | 
+ | [lt](/f32/language/lt) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/lt.po | 
+ | [ms](/f32/language/ms) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/nb.po | 
+ | [nl](/f32/language/nl) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/nl.po | 
+ | [pl](/f32/language/pl) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/pl.po | 
+ | [pt](/f32/language/pt) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/ru.po | 
+ | [sk](/f32/language/sk) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/sk.po | 
+ | [sr](/f32/language/sr) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/sr.po | 
+ | [sv](/f32/language/sv) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/sv.po | 
+ | [th](/f32/language/th) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/th.po | 
+ | [tr](/f32/language/tr) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/tr.po | 
+ | [uk](/f32/language/uk) | 759 | 759 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 607 | 607 | 100.0 | /mnt/stockage/packages/f32/ristretto/po/zh_TW.po | 
+ | [fi](/f32/language/fi) | 600 | 607 | 98.8 | /mnt/stockage/packages/f32/ristretto/po/fi.po | 
+ | [ro](/f32/language/ro) | 550 | 759 | 72.5 | /mnt/stockage/packages/f32/ristretto/po/ro.po | 
+ | [ar](/f32/language/ar) | 546 | 759 | 71.9 | /mnt/stockage/packages/f32/ristretto/po/ar.po | 
+ | [ast](/f32/language/ast) | 540 | 759 | 71.1 | /mnt/stockage/packages/f32/ristretto/po/ast.po | 
+ | [oc](/f32/language/oc) | 540 | 759 | 71.1 | /mnt/stockage/packages/f32/ristretto/po/oc.po | 
+ | [ug](/f32/language/ug) | 540 | 759 | 71.1 | /mnt/stockage/packages/f32/ristretto/po/ug.po | 
+ | [en_GB](/f32/language/en_GB) | 539 | 759 | 71.0 | /mnt/stockage/packages/f32/ristretto/po/en_GB.po | 
+ | [vi](/f32/language/vi) | 172 | 372 | 46.2 | /mnt/stockage/packages/f32/ristretto/po/vi.po | 
+ | [lv](/f32/language/lv) | 164 | 372 | 44.1 | /mnt/stockage/packages/f32/ristretto/po/lv.po | 
+ | [ie](/f32/language/ie) | 321 | 759 | 42.3 | /mnt/stockage/packages/f32/ristretto/po/ie.po | 
+ | [sl](/f32/language/sl) | 240 | 759 | 31.6 | /mnt/stockage/packages/f32/ristretto/po/sl.po | 
+ | [sq](/f32/language/sq) | 226 | 759 | 29.8 | /mnt/stockage/packages/f32/ristretto/po/sq.po | 
+ | [te](/f32/language/te) | 183 | 759 | 24.1 | /mnt/stockage/packages/f32/ristretto/po/te.po | 
+ | [ur](/f32/language/ur) | 94 | 744 | 12.6 | /mnt/stockage/packages/f32/ristretto/po/ur.po/mnt/stockage/packages/f32/ristretto/po/ur_PK.po | 
 {.sortable}
 
 

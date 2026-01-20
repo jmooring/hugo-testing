@@ -18,25 +18,25 @@ The package thunar-vcs-plugin (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/ca.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/da.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/es.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/pt.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/en_GB.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/fr.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/lv.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 443 | 506 | 87.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/cs.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 435 | 506 | 86.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/nl.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 387 | 506 | 76.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/zh_CN.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 367 | 506 | 72.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/id.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 734 | 1012 | 72.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/ur.po/mnt/stockage/packages/f15/thunar-vcs-plugin/po/ur_PK.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 335 | 506 | 66.2 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/pt_BR.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 196 | 506 | 38.7 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/gl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 114 | 506 | 22.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/pl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 82 | 506 | 16.2 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/sv.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 39 | 506 | 7.7 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/hu.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 0 | 506 | 0.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/ar.po | 
+ | [ca](/f15/language/ca) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/ca.po | 
+ | [da](/f15/language/da) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/da.po | 
+ | [es](/f15/language/es) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/es.po | 
+ | [pt](/f15/language/pt) | 506 | 506 | 100.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/pt.po | 
+ | [de](/f15/language/de) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/en_GB.po | 
+ | [fr](/f15/language/fr) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/fr.po | 
+ | [lv](/f15/language/lv) | 495 | 506 | 97.8 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/lv.po | 
+ | [cs](/f15/language/cs) | 443 | 506 | 87.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/cs.po | 
+ | [nl](/f15/language/nl) | 435 | 506 | 86.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/nl.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 387 | 506 | 76.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/zh_CN.po | 
+ | [id](/f15/language/id) | 367 | 506 | 72.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/id.po | 
+ | [ur](/f15/language/ur) | 734 | 1012 | 72.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/ur.po/mnt/stockage/packages/f15/thunar-vcs-plugin/po/ur_PK.po | 
+ | [pt_BR](/f15/language/pt_BR) | 335 | 506 | 66.2 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/pt_BR.po | 
+ | [gl](/f15/language/gl) | 196 | 506 | 38.7 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/gl.po | 
+ | [pl](/f15/language/pl) | 114 | 506 | 22.5 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/pl.po | 
+ | [sv](/f15/language/sv) | 82 | 506 | 16.2 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/sv.po | 
+ | [hu](/f15/language/hu) | 39 | 506 | 7.7 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/hu.po | 
+ | [ar](/f15/language/ar) | 0 | 506 | 0.0 | /mnt/stockage/packages/f15/thunar-vcs-plugin/po/ar.po | 
 {.sortable}
 
 

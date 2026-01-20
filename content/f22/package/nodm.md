@@ -18,21 +18,21 @@ The package nodm (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/fr.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/ja.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/nl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/sk.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/sv.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 188 | 252 | 74.6 | /mnt/stockage/packages/f22/nodm/debian/po/fi.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 188 | 252 | 74.6 | /mnt/stockage/packages/f22/nodm/debian/po/it.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 123 | 252 | 48.8 | /mnt/stockage/packages/f22/nodm/debian/po/gl.po | 
+ | [cs](/f22/language/cs) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/cs.po | 
+ | [da](/f22/language/da) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/da.po | 
+ | [de](/f22/language/de) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/de.po | 
+ | [es](/f22/language/es) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/es.po | 
+ | [fr](/f22/language/fr) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/fr.po | 
+ | [ja](/f22/language/ja) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/ja.po | 
+ | [nl](/f22/language/nl) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/nl.po | 
+ | [pt](/f22/language/pt) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/ru.po | 
+ | [sk](/f22/language/sk) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/sk.po | 
+ | [sv](/f22/language/sv) | 214 | 252 | 84.9 | /mnt/stockage/packages/f22/nodm/debian/po/sv.po | 
+ | [fi](/f22/language/fi) | 188 | 252 | 74.6 | /mnt/stockage/packages/f22/nodm/debian/po/fi.po | 
+ | [it](/f22/language/it) | 188 | 252 | 74.6 | /mnt/stockage/packages/f22/nodm/debian/po/it.po | 
+ | [gl](/f22/language/gl) | 123 | 252 | 48.8 | /mnt/stockage/packages/f22/nodm/debian/po/gl.po | 
 {.sortable}
 
 

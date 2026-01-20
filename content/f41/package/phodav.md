@@ -18,30 +18,30 @@ The package phodav (version 3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/eu.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/fi.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/fur.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/id.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/ro.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sr.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sr@latin.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/zh_CN.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f41/phodav/po/bs.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f41/phodav/po/el.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 31 | 63 | 49.2 | /mnt/stockage/packages/f41/phodav/po/pt.po | 
+ | [cs](/f41/language/cs) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/cs.po | 
+ | [da](/f41/language/da) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/da.po | 
+ | [de](/f41/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/de.po | 
+ | [es](/f41/language/es) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/es.po | 
+ | [eu](/f41/language/eu) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/eu.po | 
+ | [fi](/f41/language/fi) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/fi.po | 
+ | [fur](/f41/language/fur) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/fur.po | 
+ | [hr](/f41/language/hr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/hr.po | 
+ | [hu](/f41/language/hu) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/hu.po | 
+ | [id](/f41/language/id) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/id.po | 
+ | [nl](/f41/language/nl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/nl.po | 
+ | [pl](/f41/language/pl) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 67 | 67 | 100.0 | /mnt/stockage/packages/f41/phodav/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/ro.po | 
+ | [sl](/f41/language/sl) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sl.po | 
+ | [sr](/f41/language/sr) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sr.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sr@latin.po | 
+ | [sv](/f41/language/sv) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/sv.po | 
+ | [tr](/f41/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f41/phodav/po/tr.po | 
+ | [uk](/f41/language/uk) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/phodav/po/zh_CN.po | 
+ | [bs](/f41/language/bs) | 31 | 63 | 49.2 | /mnt/stockage/packages/f41/phodav/po/bs.po | 
+ | [el](/f41/language/el) | 31 | 63 | 49.2 | /mnt/stockage/packages/f41/phodav/po/el.po | 
+ | [pt](/f41/language/pt) | 31 | 63 | 49.2 | /mnt/stockage/packages/f41/phodav/po/pt.po | 
 {.sortable}
 
 

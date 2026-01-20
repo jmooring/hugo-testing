@@ -18,11 +18,11 @@ The package pybackpack (version 0.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f11/pybackpack/po/cs.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f11/pybackpack/po/es_ES.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f11/pybackpack/po/sv.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1321 | 1352 | 97.7 | /mnt/stockage/packages/f11/pybackpack/po/fr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 749 | 1360 | 55.1 | /mnt/stockage/packages/f11/pybackpack/po/ja.po | 
+ | [cs](/f11/language/cs) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f11/pybackpack/po/cs.po | 
+ | [es](/f11/language/es) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f11/pybackpack/po/es_ES.po | 
+ | [sv](/f11/language/sv) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f11/pybackpack/po/sv.po | 
+ | [fr](/f11/language/fr) | 1321 | 1352 | 97.7 | /mnt/stockage/packages/f11/pybackpack/po/fr.po | 
+ | [ja](/f11/language/ja) | 749 | 1360 | 55.1 | /mnt/stockage/packages/f11/pybackpack/po/ja.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package gaupol (version 0.19.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 2395 | 2395 | 100.0 | /mnt/stockage/packages/f16/gaupol/po/fi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 2339 | 2395 | 97.7 | /mnt/stockage/packages/f16/gaupol/po/hu.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 4663 | 4790 | 97.3 | /mnt/stockage/packages/f16/gaupol/po/tr.po/mnt/stockage/packages/f16/gaupol/po/es.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2322 | 2395 | 97.0 | /mnt/stockage/packages/f16/gaupol/po/de.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2296 | 2402 | 95.6 | /mnt/stockage/packages/f16/gaupol/po/ru.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 2268 | 2395 | 94.7 | /mnt/stockage/packages/f16/gaupol/po/he.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 2237 | 2395 | 93.4 | /mnt/stockage/packages/f16/gaupol/po/pt_BR.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 760 | 2395 | 31.7 | /mnt/stockage/packages/f16/gaupol/po/sv.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 757 | 2395 | 31.6 | /mnt/stockage/packages/f16/gaupol/po/pl.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 550 | 2395 | 23.0 | /mnt/stockage/packages/f16/gaupol/po/ca.po | 
+ | [fi](/f16/language/fi) | 2395 | 2395 | 100.0 | /mnt/stockage/packages/f16/gaupol/po/fi.po | 
+ | [hu](/f16/language/hu) | 2339 | 2395 | 97.7 | /mnt/stockage/packages/f16/gaupol/po/hu.po | 
+ | [es](/f16/language/es) | 4663 | 4790 | 97.3 | /mnt/stockage/packages/f16/gaupol/po/tr.po/mnt/stockage/packages/f16/gaupol/po/es.po | 
+ | [de](/f16/language/de) | 2322 | 2395 | 97.0 | /mnt/stockage/packages/f16/gaupol/po/de.po | 
+ | [ru](/f16/language/ru) | 2296 | 2402 | 95.6 | /mnt/stockage/packages/f16/gaupol/po/ru.po | 
+ | [he](/f16/language/he) | 2268 | 2395 | 94.7 | /mnt/stockage/packages/f16/gaupol/po/he.po | 
+ | [pt_BR](/f16/language/pt_BR) | 2237 | 2395 | 93.4 | /mnt/stockage/packages/f16/gaupol/po/pt_BR.po | 
+ | [sv](/f16/language/sv) | 760 | 2395 | 31.7 | /mnt/stockage/packages/f16/gaupol/po/sv.po | 
+ | [pl](/f16/language/pl) | 757 | 2395 | 31.6 | /mnt/stockage/packages/f16/gaupol/po/pl.po | 
+ | [ca](/f16/language/ca) | 550 | 2395 | 23.0 | /mnt/stockage/packages/f16/gaupol/po/ca.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package sigil (version 0.9.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/sigil/3rdparty/hunspell/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 496 | 598 | 82.9 | /mnt/stockage/packages/f32/sigil/3rdparty/hunspell/po/it.po | 
+ | [hu](/f32/language/hu) | 598 | 598 | 100.0 | /mnt/stockage/packages/f32/sigil/3rdparty/hunspell/po/hu.po | 
+ | [it](/f32/language/it) | 496 | 598 | 82.9 | /mnt/stockage/packages/f32/sigil/3rdparty/hunspell/po/it.po | 
 {.sortable}
 
 

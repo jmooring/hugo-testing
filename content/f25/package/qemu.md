@@ -18,14 +18,14 @@ The package qemu (version 2.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f25/qemu/po/bg.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/qemu/po/fr_FR.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/qemu/po/zh_CN.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 31 | 32 | 96.9 | /mnt/stockage/packages/f25/qemu/po/it.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f25/qemu/po/hu.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 22 | 32 | 68.8 | /mnt/stockage/packages/f25/qemu/po/tr.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f25/qemu/po/messages.po | 
+ | [bg](/f25/language/bg) | 33 | 33 | 100.0 | /mnt/stockage/packages/f25/qemu/po/bg.po | 
+ | [de](/f25/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/qemu/po/de_DE.po | 
+ | [fr](/f25/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/qemu/po/fr_FR.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 32 | 32 | 100.0 | /mnt/stockage/packages/f25/qemu/po/zh_CN.po | 
+ | [it](/f25/language/it) | 31 | 32 | 96.9 | /mnt/stockage/packages/f25/qemu/po/it.po | 
+ | [hu](/f25/language/hu) | 22 | 32 | 68.8 | /mnt/stockage/packages/f25/qemu/po/hu.po | 
+ | [tr](/f25/language/tr) | 22 | 32 | 68.8 | /mnt/stockage/packages/f25/qemu/po/tr.po | 
+ | [error](/f25/language/error) | 0 | 32 | 0.0 | /mnt/stockage/packages/f25/qemu/po/messages.po | 
 {.sortable}
 
 

@@ -18,31 +18,31 @@ The package gwibber (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/ca.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/da.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/en_CA.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/it.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/pt.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 473 | 482 | 98.1 | /mnt/stockage/packages/f11/gwibber/po/pt_BR.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 467 | 482 | 96.9 | /mnt/stockage/packages/f11/gwibber/po/nl.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 446 | 482 | 92.5 | /mnt/stockage/packages/f11/gwibber/po/de.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 412 | 482 | 85.5 | /mnt/stockage/packages/f11/gwibber/po/sv.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 401 | 482 | 83.2 | /mnt/stockage/packages/f11/gwibber/po/pl.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 294 | 482 | 61.0 | /mnt/stockage/packages/f11/gwibber/po/tr.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 258 | 482 | 53.5 | /mnt/stockage/packages/f11/gwibber/po/ar.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 221 | 482 | 45.9 | /mnt/stockage/packages/f11/gwibber/po/ru.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 209 | 482 | 43.4 | /mnt/stockage/packages/f11/gwibber/po/cy.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 179 | 482 | 37.1 | /mnt/stockage/packages/f11/gwibber/po/id.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 92 | 482 | 19.1 | /mnt/stockage/packages/f11/gwibber/po/uk.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 82 | 482 | 17.0 | /mnt/stockage/packages/f11/gwibber/po/bg.po | 
- | [lo]({{< ref "/f11/language/lo.md" >}}) | 82 | 482 | 17.0 | /mnt/stockage/packages/f11/gwibber/po/lo.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 46 | 482 | 9.5 | /mnt/stockage/packages/f11/gwibber/po/nb.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 1 | 482 | 0.2 | /mnt/stockage/packages/f11/gwibber/po/sq.po | 
+ | [ca](/f11/language/ca) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/ca.po | 
+ | [da](/f11/language/da) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/da.po | 
+ | [en_CA](/f11/language/en_CA) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/en_CA.po | 
+ | [en_GB](/f11/language/en_GB) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/en_GB.po | 
+ | [es](/f11/language/es) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/es.po | 
+ | [fi](/f11/language/fi) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/fi.po | 
+ | [fr](/f11/language/fr) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/fr.po | 
+ | [it](/f11/language/it) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/it.po | 
+ | [pt](/f11/language/pt) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/pt.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 482 | 482 | 100.0 | /mnt/stockage/packages/f11/gwibber/po/zh_CN.po | 
+ | [pt_BR](/f11/language/pt_BR) | 473 | 482 | 98.1 | /mnt/stockage/packages/f11/gwibber/po/pt_BR.po | 
+ | [nl](/f11/language/nl) | 467 | 482 | 96.9 | /mnt/stockage/packages/f11/gwibber/po/nl.po | 
+ | [de](/f11/language/de) | 446 | 482 | 92.5 | /mnt/stockage/packages/f11/gwibber/po/de.po | 
+ | [sv](/f11/language/sv) | 412 | 482 | 85.5 | /mnt/stockage/packages/f11/gwibber/po/sv.po | 
+ | [pl](/f11/language/pl) | 401 | 482 | 83.2 | /mnt/stockage/packages/f11/gwibber/po/pl.po | 
+ | [tr](/f11/language/tr) | 294 | 482 | 61.0 | /mnt/stockage/packages/f11/gwibber/po/tr.po | 
+ | [ar](/f11/language/ar) | 258 | 482 | 53.5 | /mnt/stockage/packages/f11/gwibber/po/ar.po | 
+ | [ru](/f11/language/ru) | 221 | 482 | 45.9 | /mnt/stockage/packages/f11/gwibber/po/ru.po | 
+ | [cy](/f11/language/cy) | 209 | 482 | 43.4 | /mnt/stockage/packages/f11/gwibber/po/cy.po | 
+ | [id](/f11/language/id) | 179 | 482 | 37.1 | /mnt/stockage/packages/f11/gwibber/po/id.po | 
+ | [uk](/f11/language/uk) | 92 | 482 | 19.1 | /mnt/stockage/packages/f11/gwibber/po/uk.po | 
+ | [bg](/f11/language/bg) | 82 | 482 | 17.0 | /mnt/stockage/packages/f11/gwibber/po/bg.po | 
+ | [lo](/f11/language/lo) | 82 | 482 | 17.0 | /mnt/stockage/packages/f11/gwibber/po/lo.po | 
+ | [nb_NO](/f11/language/nb_NO) | 46 | 482 | 9.5 | /mnt/stockage/packages/f11/gwibber/po/nb.po | 
+ | [sq](/f11/language/sq) | 1 | 482 | 0.2 | /mnt/stockage/packages/f11/gwibber/po/sq.po | 
 {.sortable}
 
 

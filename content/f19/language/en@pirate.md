@@ -189,7 +189,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 18 | 7225 | 0.2 | Pirate English (http://www.transifex.com/projects/p/owncloud/language/en@pirate/) | 
+ | [owncloud](/f19/package/owncloud) | 18 | 7225 | 0.2 | Pirate English (http://www.transifex.com/projects/p/owncloud/language/en@pirate/) | 
 {.sortable}
 
 

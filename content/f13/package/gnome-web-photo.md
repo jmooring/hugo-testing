@@ -18,9 +18,9 @@ The package gnome-web-photo (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f13/gnome-web-photo/po/ja.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f13/gnome-web-photo/po/sv.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f13/gnome-web-photo/po/oc.po | 
+ | [ja](/f13/language/ja) | 168 | 168 | 100.0 | /mnt/stockage/packages/f13/gnome-web-photo/po/ja.po | 
+ | [sv](/f13/language/sv) | 168 | 168 | 100.0 | /mnt/stockage/packages/f13/gnome-web-photo/po/sv.po | 
+ | [oc](/f13/language/oc) | 0 | 26 | 0.0 | /mnt/stockage/packages/f13/gnome-web-photo/po/oc.po | 
 {.sortable}
 
 

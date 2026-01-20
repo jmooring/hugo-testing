@@ -18,80 +18,80 @@ The package switchboard-plug-notifications (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ca.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/de.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/es.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fr.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hr.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ja.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lt.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/nb.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sl.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/zh_CN.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 130 | 131 | 99.2 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ms.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 129 | 131 | 98.5 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/el.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/bg.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/da.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/en_CA.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/et.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/nn.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sk.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sv.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/uk.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/zh_TW.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 124 | 131 | 94.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/cs.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 121 | 131 | 92.4 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ka.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 118 | 131 | 90.1 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/he.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 113 | 131 | 86.3 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/gl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 113 | 131 | 86.3 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hu.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 82 | 131 | 62.6 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/bs.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 21 | 131 | 16.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ku.po | 
- | [tl]({{< ref "/f25/language/tl.md" >}}) | 4 | 131 | 3.1 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/tl.po | 
- | [sma]({{< ref "/f25/language/sma.md" >}}) | 2 | 131 | 1.5 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sma.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 1 | 131 | 0.8 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/th.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/af.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/am.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ar.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ast.po | 
- | [az]({{< ref "/f25/language/az.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/az.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/be.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/bn.po | 
- | [ckb]({{< ref "/f25/language/ckb.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ckb.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/en_AU.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/eo.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fa.po | 
- | [fr_CA]({{< ref "/f25/language/fr_CA.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fr_CA.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hi.po | 
- | [hy]({{< ref "/f25/language/hy.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hy.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ky.po | 
- | [lb]({{< ref "/f25/language/lb.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lb.po | 
- | [lo]({{< ref "/f25/language/lo.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lo.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lv.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ml.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/mr.po | 
- | [rue]({{< ref "/f25/language/rue.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/rue.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/si.po | 
- | [sw]({{< ref "/f25/language/sw.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sw.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/te.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/zh_HK.po | 
+ | [ca](/f25/language/ca) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ca.po | 
+ | [de](/f25/language/de) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/de.po | 
+ | [en_GB](/f25/language/en_GB) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/en_GB.po | 
+ | [es](/f25/language/es) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/es.po | 
+ | [fi](/f25/language/fi) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fi.po | 
+ | [fr](/f25/language/fr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fr.po | 
+ | [hr](/f25/language/hr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hr.po | 
+ | [id](/f25/language/id) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/id.po | 
+ | [it](/f25/language/it) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/it.po | 
+ | [ja](/f25/language/ja) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ja.po | 
+ | [ko](/f25/language/ko) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ko.po | 
+ | [lt](/f25/language/lt) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lt.po | 
+ | [nb_NO](/f25/language/nb_NO) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/nb.po | 
+ | [nl](/f25/language/nl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/nl.po | 
+ | [pl](/f25/language/pl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/pl.po | 
+ | [pt](/f25/language/pt) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ro.po | 
+ | [ru](/f25/language/ru) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ru.po | 
+ | [sl](/f25/language/sl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sl.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 131 | 131 | 100.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/zh_CN.po | 
+ | [ms](/f25/language/ms) | 130 | 131 | 99.2 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ms.po | 
+ | [el](/f25/language/el) | 129 | 131 | 98.5 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/el.po | 
+ | [bg](/f25/language/bg) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/bg.po | 
+ | [da](/f25/language/da) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/da.po | 
+ | [en_CA](/f25/language/en_CA) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/en_CA.po | 
+ | [et](/f25/language/et) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/et.po | 
+ | [nn](/f25/language/nn) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/nn.po | 
+ | [sk](/f25/language/sk) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sk.po | 
+ | [sq](/f25/language/sq) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sq.po | 
+ | [sr](/f25/language/sr) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sr.po | 
+ | [sv](/f25/language/sv) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sv.po | 
+ | [tr](/f25/language/tr) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/tr.po | 
+ | [ug](/f25/language/ug) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ug.po | 
+ | [uk](/f25/language/uk) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/uk.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 128 | 131 | 97.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/zh_TW.po | 
+ | [cs](/f25/language/cs) | 124 | 131 | 94.7 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/cs.po | 
+ | [ka](/f25/language/ka) | 121 | 131 | 92.4 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ka.po | 
+ | [he](/f25/language/he) | 118 | 131 | 90.1 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/he.po | 
+ | [gl](/f25/language/gl) | 113 | 131 | 86.3 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/gl.po | 
+ | [hu](/f25/language/hu) | 113 | 131 | 86.3 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hu.po | 
+ | [bs](/f25/language/bs) | 82 | 131 | 62.6 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/bs.po | 
+ | [ku](/f25/language/ku) | 21 | 131 | 16.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ku.po | 
+ | [tl](/f25/language/tl) | 4 | 131 | 3.1 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/tl.po | 
+ | [sma](/f25/language/sma) | 2 | 131 | 1.5 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sma.po | 
+ | [th](/f25/language/th) | 1 | 131 | 0.8 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/th.po | 
+ | [af](/f25/language/af) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/af.po | 
+ | [am](/f25/language/am) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/am.po | 
+ | [ar](/f25/language/ar) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ar.po | 
+ | [ast](/f25/language/ast) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ast.po | 
+ | [az](/f25/language/az) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/az.po | 
+ | [be](/f25/language/be) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/be.po | 
+ | [bn](/f25/language/bn) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/bn.po | 
+ | [ckb](/f25/language/ckb) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ckb.po | 
+ | [en_AU](/f25/language/en_AU) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/en_AU.po | 
+ | [eo](/f25/language/eo) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/eo.po | 
+ | [eu](/f25/language/eu) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/eu.po | 
+ | [fa](/f25/language/fa) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fa.po | 
+ | [fr_CA](/f25/language/fr_CA) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/fr_CA.po | 
+ | [hi](/f25/language/hi) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hi.po | 
+ | [hy](/f25/language/hy) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/hy.po | 
+ | [ky](/f25/language/ky) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ky.po | 
+ | [lb](/f25/language/lb) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lb.po | 
+ | [lo](/f25/language/lo) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lo.po | 
+ | [lv](/f25/language/lv) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/lv.po | 
+ | [ml](/f25/language/ml) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ml.po | 
+ | [mr](/f25/language/mr) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/mr.po | 
+ | [rue](/f25/language/rue) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/rue.po | 
+ | [si](/f25/language/si) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/si.po | 
+ | [sw](/f25/language/sw) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/sw.po | 
+ | [ta](/f25/language/ta) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/ta.po | 
+ | [te](/f25/language/te) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/te.po | 
+ | [vi](/f25/language/vi) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/vi.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 0 | 131 | 0.0 | /mnt/stockage/packages/f25/switchboard-plug-notifications/po/zh_HK.po | 
 {.sortable}
 
 

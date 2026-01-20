@@ -18,10 +18,10 @@ The package evolution-ews (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f16/evolution-ews/po/de.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 319 | 319 | 100.0 | /mnt/stockage/packages/f16/evolution-ews/po/pl.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 124 | 319 | 38.9 | /mnt/stockage/packages/f16/evolution-ews/po/es.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 72 | 319 | 22.6 | /mnt/stockage/packages/f16/evolution-ews/po/sl.po | 
+ | [de](/f16/language/de) | 319 | 319 | 100.0 | /mnt/stockage/packages/f16/evolution-ews/po/de.po | 
+ | [pl](/f16/language/pl) | 319 | 319 | 100.0 | /mnt/stockage/packages/f16/evolution-ews/po/pl.po | 
+ | [es](/f16/language/es) | 124 | 319 | 38.9 | /mnt/stockage/packages/f16/evolution-ews/po/es.po | 
+ | [sl](/f16/language/sl) | 72 | 319 | 22.6 | /mnt/stockage/packages/f16/evolution-ews/po/sl.po | 
 {.sortable}
 
 

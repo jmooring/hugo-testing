@@ -18,18 +18,18 @@ The package kchmviewer (version 7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 972 | 972 | 100.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_pt_BR.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 972 | 972 | 100.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_zh_CN.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 962 | 972 | 99.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_nl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 475 | 972 | 48.9 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_sv.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 419 | 972 | 43.1 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_tr.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 336 | 972 | 34.6 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_ru.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 329 | 972 | 33.8 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_fr.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 329 | 972 | 33.8 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_zh_TW.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 320 | 972 | 32.9 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_cs.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 309 | 972 | 31.8 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_it.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 298 | 972 | 30.7 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_hu.po | 
+ | [pt_BR](/f20/language/pt_BR) | 972 | 972 | 100.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_pt_BR.po | 
+ | [uk](/f20/language/uk) | 972 | 972 | 100.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_zh_CN.po | 
+ | [nl](/f20/language/nl) | 962 | 972 | 99.0 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_nl.po | 
+ | [sv](/f20/language/sv) | 475 | 972 | 48.9 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_sv.po | 
+ | [tr](/f20/language/tr) | 419 | 972 | 43.1 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_tr.po | 
+ | [ru](/f20/language/ru) | 336 | 972 | 34.6 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_ru.po | 
+ | [fr](/f20/language/fr) | 329 | 972 | 33.8 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_fr.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 329 | 972 | 33.8 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_zh_TW.po | 
+ | [cs](/f20/language/cs) | 320 | 972 | 32.9 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_cs.po | 
+ | [it](/f20/language/it) | 309 | 972 | 31.8 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_it.po | 
+ | [hu](/f20/language/hu) | 298 | 972 | 30.7 | /mnt/stockage/packages/f20/kchmviewer/po/kchmviewer_hu.po | 
 {.sortable}
 
 

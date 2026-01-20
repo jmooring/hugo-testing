@@ -18,85 +18,85 @@ The package sugar-write (version 72):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ar.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/bg.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/bn.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/el.po | 
- | [en_US]({{< ref "/f14/language/en_US.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/en_US.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/fr.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/hi.po | 
- | [ht]({{< ref "/f14/language/ht.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ht.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ja.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/km.po | 
- | [mg]({{< ref "/f14/language/mg.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mg.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mk.po | 
- | [mn]({{< ref "/f14/language/mn.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mn.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mr.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ne.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/nl.po | 
- | [prs]({{< ref "/f14/language/prs.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/fa_AF.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ps.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ru.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/rw.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/te.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/tr.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ur.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/zh_TW.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 71 | 73 | 97.3 | /mnt/stockage/packages/f14/sugar-write/po/ro.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 70 | 73 | 95.9 | /mnt/stockage/packages/f14/sugar-write/po/th.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 66 | 73 | 90.4 | /mnt/stockage/packages/f14/sugar-write/po/pl.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 59 | 69 | 85.5 | /mnt/stockage/packages/f14/sugar-write/po/fa.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 58 | 69 | 84.1 | /mnt/stockage/packages/f14/sugar-write/po/is.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 56 | 69 | 81.2 | /mnt/stockage/packages/f14/sugar-write/po/nb.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 28 | 36 | 77.8 | /mnt/stockage/packages/f14/sugar-write/po/da.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 48 | 69 | 69.6 | /mnt/stockage/packages/f14/sugar-write/po/bn_IN.po | 
- | [pap]({{< ref "/f14/language/pap.md" >}}) | 46 | 69 | 66.7 | /mnt/stockage/packages/f14/sugar-write/po/pap.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 22 | 36 | 61.1 | /mnt/stockage/packages/f14/sugar-write/po/sq.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 29 | 69 | 42.0 | /mnt/stockage/packages/f14/sugar-write/po/si.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 76 | 243 | 31.3 | /mnt/stockage/packages/f14/sugar-write/po/tzo.po/mnt/stockage/packages/f14/sugar-write/po/pseudo.po/mnt/stockage/packages/f14/sugar-write/po/pis.po/mnt/stockage/packages/f14/sugar-write/po/mvo.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 6 | 69 | 8.7 | /mnt/stockage/packages/f14/sugar-write/po/ko.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/af.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/am.po | 
- | [ay]({{< ref "/f14/language/ay.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ay.po | 
- | [bi]({{< ref "/f14/language/bi.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/bi.po | 
- | [cpp]({{< ref "/f14/language/cpp.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/cpp.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/cs.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/dz.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/en.po | 
- | [ff]({{< ref "/f14/language/ff.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ff.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/fi.po | 
- | [fil]({{< ref "/f14/language/fil.md" >}}) | 0 | 75 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/fil.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/gu.po | 
- | [ha]({{< ref "/f14/language/ha.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ha.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/he.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/id.po | 
- | [ig]({{< ref "/f14/language/ig.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ig.po | 
- | [kos]({{< ref "/f14/language/kos.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/kos.po | 
- | [mi]({{< ref "/f14/language/mi.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/mi.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ml.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ms.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/pa.po | 
- | [qu]({{< ref "/f14/language/qu.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/qu.po | 
- | [sd]({{< ref "/f14/language/sd.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/sd.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/sk.po | 
- | [sw]({{< ref "/f14/language/sw.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/sw.po | 
- | [tpi]({{< ref "/f14/language/tpi.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/tpi.po | 
- | [tvl]({{< ref "/f14/language/tvl.md" >}}) | 0 | 75 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/tvl.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ug.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/wa.po | 
- | [yo]({{< ref "/f14/language/yo.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/yo.po | 
+ | [ar](/f14/language/ar) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ar.po | 
+ | [bg](/f14/language/bg) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/bg.po | 
+ | [bn](/f14/language/bn) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/bn.po | 
+ | [ca](/f14/language/ca) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ca.po | 
+ | [de](/f14/language/de) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/de.po | 
+ | [el](/f14/language/el) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/el.po | 
+ | [en_US](/f14/language/en_US) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/en_US.po | 
+ | [es](/f14/language/es) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/es.po | 
+ | [fr](/f14/language/fr) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/fr.po | 
+ | [hi](/f14/language/hi) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/hi.po | 
+ | [ht](/f14/language/ht) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ht.po | 
+ | [it](/f14/language/it) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/it.po | 
+ | [ja](/f14/language/ja) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ja.po | 
+ | [km](/f14/language/km) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/km.po | 
+ | [mg](/f14/language/mg) | 36 | 36 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mg.po | 
+ | [mk](/f14/language/mk) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mk.po | 
+ | [mn](/f14/language/mn) | 80 | 80 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mn.po | 
+ | [mr](/f14/language/mr) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/mr.po | 
+ | [ne](/f14/language/ne) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ne.po | 
+ | [nl](/f14/language/nl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/nl.po | 
+ | [prs](/f14/language/prs) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/fa_AF.po | 
+ | [ps](/f14/language/ps) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ps.po | 
+ | [pt](/f14/language/pt) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ru.po | 
+ | [rw](/f14/language/rw) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/rw.po | 
+ | [sl](/f14/language/sl) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/sl.po | 
+ | [sv](/f14/language/sv) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/sv.po | 
+ | [ta](/f14/language/ta) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ta.po | 
+ | [te](/f14/language/te) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/te.po | 
+ | [tr](/f14/language/tr) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/tr.po | 
+ | [ur](/f14/language/ur) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/ur.po | 
+ | [vi](/f14/language/vi) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 69 | 69 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 75 | 75 | 100.0 | /mnt/stockage/packages/f14/sugar-write/po/zh_TW.po | 
+ | [ro](/f14/language/ro) | 71 | 73 | 97.3 | /mnt/stockage/packages/f14/sugar-write/po/ro.po | 
+ | [th](/f14/language/th) | 70 | 73 | 95.9 | /mnt/stockage/packages/f14/sugar-write/po/th.po | 
+ | [pl](/f14/language/pl) | 66 | 73 | 90.4 | /mnt/stockage/packages/f14/sugar-write/po/pl.po | 
+ | [fa](/f14/language/fa) | 59 | 69 | 85.5 | /mnt/stockage/packages/f14/sugar-write/po/fa.po | 
+ | [is](/f14/language/is) | 58 | 69 | 84.1 | /mnt/stockage/packages/f14/sugar-write/po/is.po | 
+ | [nb_NO](/f14/language/nb_NO) | 56 | 69 | 81.2 | /mnt/stockage/packages/f14/sugar-write/po/nb.po | 
+ | [da](/f14/language/da) | 28 | 36 | 77.8 | /mnt/stockage/packages/f14/sugar-write/po/da.po | 
+ | [bn_IN](/f14/language/bn_IN) | 48 | 69 | 69.6 | /mnt/stockage/packages/f14/sugar-write/po/bn_IN.po | 
+ | [pap](/f14/language/pap) | 46 | 69 | 66.7 | /mnt/stockage/packages/f14/sugar-write/po/pap.po | 
+ | [sq](/f14/language/sq) | 22 | 36 | 61.1 | /mnt/stockage/packages/f14/sugar-write/po/sq.po | 
+ | [si](/f14/language/si) | 29 | 69 | 42.0 | /mnt/stockage/packages/f14/sugar-write/po/si.po | 
+ | [error](/f14/language/error) | 76 | 243 | 31.3 | /mnt/stockage/packages/f14/sugar-write/po/tzo.po/mnt/stockage/packages/f14/sugar-write/po/pseudo.po/mnt/stockage/packages/f14/sugar-write/po/pis.po/mnt/stockage/packages/f14/sugar-write/po/mvo.po | 
+ | [ko](/f14/language/ko) | 6 | 69 | 8.7 | /mnt/stockage/packages/f14/sugar-write/po/ko.po | 
+ | [af](/f14/language/af) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/af.po | 
+ | [am](/f14/language/am) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/am.po | 
+ | [ay](/f14/language/ay) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ay.po | 
+ | [bi](/f14/language/bi) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/bi.po | 
+ | [cpp](/f14/language/cpp) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/cpp.po | 
+ | [cs](/f14/language/cs) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/cs.po | 
+ | [dz](/f14/language/dz) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/dz.po | 
+ | [en](/f14/language/en) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/en.po | 
+ | [ff](/f14/language/ff) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ff.po | 
+ | [fi](/f14/language/fi) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/fi.po | 
+ | [fil](/f14/language/fil) | 0 | 75 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/fil.po | 
+ | [gu](/f14/language/gu) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/gu.po | 
+ | [ha](/f14/language/ha) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ha.po | 
+ | [he](/f14/language/he) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/he.po | 
+ | [hu](/f14/language/hu) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/hu.po | 
+ | [id](/f14/language/id) | 0 | 36 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/id.po | 
+ | [ig](/f14/language/ig) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ig.po | 
+ | [kos](/f14/language/kos) | 0 | 36 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/kos.po | 
+ | [mi](/f14/language/mi) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/mi.po | 
+ | [ml](/f14/language/ml) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ml.po | 
+ | [ms](/f14/language/ms) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ms.po | 
+ | [pa](/f14/language/pa) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/pa.po | 
+ | [qu](/f14/language/qu) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/qu.po | 
+ | [sd](/f14/language/sd) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/sd.po | 
+ | [sk](/f14/language/sk) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/sk.po | 
+ | [sw](/f14/language/sw) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/sw.po | 
+ | [tpi](/f14/language/tpi) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/tpi.po | 
+ | [tvl](/f14/language/tvl) | 0 | 75 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/tvl.po | 
+ | [ug](/f14/language/ug) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/ug.po | 
+ | [wa](/f14/language/wa) | 0 | 69 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/wa.po | 
+ | [yo](/f14/language/yo) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/sugar-write/po/yo.po | 
 {.sortable}
 
 

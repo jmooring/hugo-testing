@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abrt]({{< ref "/f23/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora-abrt/language/aln/) | 
- | [certmonger]({{< ref "/f23/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/certmonger/language/aln/) | 
- | [initial-setup]({{< ref "/f23/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/) | 
- | [libreport]({{< ref "/f23/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/libreport/language/aln/) | 
- | [mingw-libvirt-glib]({{< ref "/f23/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/libvirt-glib/language/aln/) | 
- | [oscap-anaconda-addon]({{< ref "/f23/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/aln/) | 
- | [policycoreutils]({{< ref "/f23/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [python-meh]({{< ref "/f23/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/) | 
- | [rhn-client-tools]({{< ref "/f23/package/rhn-client-tools.md" >}}) | 0 | 4057 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/spacewalk/language/aln/) | 
- | [rhnsd]({{< ref "/f23/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f23/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [setroubleshoot-plugins]({{< ref "/f23/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [system-config-date]({{< ref "/f23/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f23/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/system-config-kickstart/language/aln/) | 
- | [yum-rhn-plugin]({{< ref "/f23/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f23/package/abrt) | 0 | 3230 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora-abrt/language/aln/) | 
+ | [certmonger](/f23/package/certmonger) | 0 | 2478 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/certmonger/language/aln/) | 
+ | [initial-setup](/f23/package/initial-setup) | 0 | 33 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/) | 
+ | [libreport](/f23/package/libreport) | 0 | 3501 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/libreport/language/aln/) | 
+ | [mingw-libvirt-glib](/f23/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/libvirt-glib/language/aln/) | 
+ | [oscap-anaconda-addon](/f23/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/aln/) | 
+ | [policycoreutils](/f23/package/policycoreutils) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [python-meh](/f23/package/python-meh) | 0 | 109 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/) | 
+ | [rhn-client-tools](/f23/package/rhn-client-tools) | 0 | 4057 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/spacewalk/language/aln/) | 
+ | [rhnsd](/f23/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f23/package/setroubleshoot) | 0 | 656 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [setroubleshoot-plugins](/f23/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [system-config-date](/f23/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f23/package/system-config-kickstart) | 0 | 1144 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/system-config-kickstart/language/aln/) | 
+ | [yum-rhn-plugin](/f23/package/yum-rhn-plugin) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

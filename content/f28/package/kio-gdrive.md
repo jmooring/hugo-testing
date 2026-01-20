@@ -18,32 +18,32 @@ The package kio-gdrive (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ca/kio5_gdrive.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ca@valencia/kio5_gdrive.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/de/kio5_gdrive.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/en_GB/kio5_gdrive.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/es/kio5_gdrive.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/fi/kio5_gdrive.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/fr/kio5_gdrive.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/gl/kio5_gdrive.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/it/kio5_gdrive.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ko/kio5_gdrive.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/nl/kio5_gdrive.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/nn/kio5_gdrive.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/pl/kio5_gdrive.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/pt/kio5_gdrive.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/pt_BR/kio5_gdrive.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/sk/kio5_gdrive.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/sl/kio5_gdrive.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/sv/kio5_gdrive.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/uk/kio5_gdrive.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/zh_CN/kio5_gdrive.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 14 | 30 | 46.7 | /mnt/stockage/packages/f28/kio-gdrive/po/da/kio5_gdrive.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 14 | 30 | 46.7 | /mnt/stockage/packages/f28/kio-gdrive/po/ru/kio5_gdrive.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 6 | 30 | 20.0 | /mnt/stockage/packages/f28/kio-gdrive/po/cs/kio5_gdrive.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 2 | 30 | 6.7 | /mnt/stockage/packages/f28/kio-gdrive/po/et/kio5_gdrive.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 2 | 30 | 6.7 | /mnt/stockage/packages/f28/kio-gdrive/po/zh_TW/kio5_gdrive.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ja/kio5_gdrive.po | 
+ | [ca](/f28/language/ca) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ca/kio5_gdrive.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ca@valencia/kio5_gdrive.po | 
+ | [de](/f28/language/de) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/de/kio5_gdrive.po | 
+ | [en_GB](/f28/language/en_GB) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/en_GB/kio5_gdrive.po | 
+ | [es](/f28/language/es) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/es/kio5_gdrive.po | 
+ | [fi](/f28/language/fi) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/fi/kio5_gdrive.po | 
+ | [fr](/f28/language/fr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/fr/kio5_gdrive.po | 
+ | [gl](/f28/language/gl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/gl/kio5_gdrive.po | 
+ | [it](/f28/language/it) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/it/kio5_gdrive.po | 
+ | [ko](/f28/language/ko) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ko/kio5_gdrive.po | 
+ | [nl](/f28/language/nl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/nl/kio5_gdrive.po | 
+ | [nn](/f28/language/nn) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/nn/kio5_gdrive.po | 
+ | [pl](/f28/language/pl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/pl/kio5_gdrive.po | 
+ | [pt](/f28/language/pt) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/pt/kio5_gdrive.po | 
+ | [pt_BR](/f28/language/pt_BR) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/pt_BR/kio5_gdrive.po | 
+ | [sk](/f28/language/sk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/sk/kio5_gdrive.po | 
+ | [sl](/f28/language/sl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/sl/kio5_gdrive.po | 
+ | [sv](/f28/language/sv) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/sv/kio5_gdrive.po | 
+ | [uk](/f28/language/uk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/uk/kio5_gdrive.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 30 | 30 | 100.0 | /mnt/stockage/packages/f28/kio-gdrive/po/zh_CN/kio5_gdrive.po | 
+ | [da](/f28/language/da) | 14 | 30 | 46.7 | /mnt/stockage/packages/f28/kio-gdrive/po/da/kio5_gdrive.po | 
+ | [ru](/f28/language/ru) | 14 | 30 | 46.7 | /mnt/stockage/packages/f28/kio-gdrive/po/ru/kio5_gdrive.po | 
+ | [cs](/f28/language/cs) | 6 | 30 | 20.0 | /mnt/stockage/packages/f28/kio-gdrive/po/cs/kio5_gdrive.po | 
+ | [et](/f28/language/et) | 2 | 30 | 6.7 | /mnt/stockage/packages/f28/kio-gdrive/po/et/kio5_gdrive.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 2 | 30 | 6.7 | /mnt/stockage/packages/f28/kio-gdrive/po/zh_TW/kio5_gdrive.po | 
+ | [ja](/f28/language/ja) | 0 | 30 | 0.0 | /mnt/stockage/packages/f28/kio-gdrive/po/ja/kio5_gdrive.po | 
 {.sortable}
 
 

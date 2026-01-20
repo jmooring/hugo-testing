@@ -18,8 +18,8 @@ The package ginga (version 5.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f42/language/en.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f42/ginga/ginga/locale/en/LC_MESSAGES/ginga.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f42/ginga/ginga/locale/ja/LC_MESSAGES/ginga.po | 
+ | [en](/f42/language/en) | 43 | 43 | 100.0 | /mnt/stockage/packages/f42/ginga/ginga/locale/en/LC_MESSAGES/ginga.po | 
+ | [ja](/f42/language/ja) | 43 | 43 | 100.0 | /mnt/stockage/packages/f42/ginga/ginga/locale/ja/LC_MESSAGES/ginga.po | 
 {.sortable}
 
 

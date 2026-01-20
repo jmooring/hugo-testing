@@ -18,8 +18,8 @@ The package textflow (version 0.2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 119 | 310 | 38.4 | /mnt/stockage/packages/f10/textflow/po/fr_FR.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 115 | 310 | 37.1 | /mnt/stockage/packages/f10/textflow/po/pt_BR.po | 
+ | [fr](/f10/language/fr) | 119 | 310 | 38.4 | /mnt/stockage/packages/f10/textflow/po/fr_FR.po | 
+ | [pt_BR](/f10/language/pt_BR) | 115 | 310 | 37.1 | /mnt/stockage/packages/f10/textflow/po/pt_BR.po | 
 {.sortable}
 
 

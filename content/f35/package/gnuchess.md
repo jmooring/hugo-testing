@@ -18,21 +18,21 @@ The package gnuchess (version 6.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/es.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/nb.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/sv.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/zh_CN.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/eo.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/nl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/pt_BR.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/sr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/uk.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f35/gnuchess/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f35/gnuchess/po/fr.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 963 | 1135 | 84.8 | /mnt/stockage/packages/f35/gnuchess/po/vi.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 961 | 1135 | 84.7 | /mnt/stockage/packages/f35/gnuchess/po/da.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 214 | 1135 | 18.9 | /mnt/stockage/packages/f35/gnuchess/po/it.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 129 | 1135 | 11.4 | /mnt/stockage/packages/f35/gnuchess/po/gl.po | 
+ | [es](/f35/language/es) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/es.po | 
+ | [nb_NO](/f35/language/nb_NO) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/nb.po | 
+ | [sv](/f35/language/sv) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/sv.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f35/gnuchess/po/zh_CN.po | 
+ | [eo](/f35/language/eo) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/eo.po | 
+ | [nl](/f35/language/nl) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/nl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/pt_BR.po | 
+ | [sr](/f35/language/sr) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/sr.po | 
+ | [uk](/f35/language/uk) | 1076 | 1135 | 94.8 | /mnt/stockage/packages/f35/gnuchess/po/uk.po | 
+ | [de](/f35/language/de) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f35/gnuchess/po/de.po | 
+ | [fr](/f35/language/fr) | 1057 | 1135 | 93.1 | /mnt/stockage/packages/f35/gnuchess/po/fr.po | 
+ | [vi](/f35/language/vi) | 963 | 1135 | 84.8 | /mnt/stockage/packages/f35/gnuchess/po/vi.po | 
+ | [da](/f35/language/da) | 961 | 1135 | 84.7 | /mnt/stockage/packages/f35/gnuchess/po/da.po | 
+ | [it](/f35/language/it) | 214 | 1135 | 18.9 | /mnt/stockage/packages/f35/gnuchess/po/it.po | 
+ | [gl](/f35/language/gl) | 129 | 1135 | 11.4 | /mnt/stockage/packages/f35/gnuchess/po/gl.po | 
 {.sortable}
 
 

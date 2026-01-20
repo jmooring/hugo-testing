@@ -18,35 +18,35 @@ The package compiz-plugins-main (version 0.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 4217 | 4218 | 100.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ca.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 4176 | 4218 | 99.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/en_GB.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/el.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ja.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ko.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 4123 | 4218 | 97.7 | /mnt/stockage/packages/f32/compiz-plugins-main/po/he.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 4115 | 4218 | 97.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/pt.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 4104 | 4218 | 97.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/zh_CN.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4683 | 4869 | 96.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/fr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 3772 | 4218 | 89.4 | /mnt/stockage/packages/f32/compiz-plugins-main/po/sv.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 3708 | 4218 | 87.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/pl.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 3637 | 4218 | 86.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/fi.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 3587 | 4218 | 85.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 3409 | 4218 | 80.8 | /mnt/stockage/packages/f32/compiz-plugins-main/po/nl.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 3358 | 4218 | 79.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/gu.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 3358 | 4218 | 79.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/hi.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 3342 | 4218 | 79.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/pt_BR.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 3257 | 4218 | 77.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 2485 | 4218 | 58.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/eu.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1953 | 4218 | 46.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/de.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1499 | 4218 | 35.5 | /mnt/stockage/packages/f32/compiz-plugins-main/po/tr.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1263 | 4218 | 29.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ru.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1038 | 4218 | 24.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/cs.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 590 | 4218 | 14.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ar.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 165 | 4218 | 3.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/bn.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 4218 | 0.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/fa.po | 
+ | [ca](/f32/language/ca) | 4217 | 4218 | 100.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ca.po | 
+ | [en_GB](/f32/language/en_GB) | 4176 | 4218 | 99.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/en_GB.po | 
+ | [el](/f32/language/el) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/el.po | 
+ | [gl](/f32/language/gl) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/gl.po | 
+ | [hu](/f32/language/hu) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/hu.po | 
+ | [it](/f32/language/it) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/it.po | 
+ | [ja](/f32/language/ja) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ja.po | 
+ | [ko](/f32/language/ko) | 4145 | 4218 | 98.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ko.po | 
+ | [he](/f32/language/he) | 4123 | 4218 | 97.7 | /mnt/stockage/packages/f32/compiz-plugins-main/po/he.po | 
+ | [pt](/f32/language/pt) | 4115 | 4218 | 97.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/pt.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 4104 | 4218 | 97.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/zh_CN.po | 
+ | [fr](/f32/language/fr) | 4683 | 4869 | 96.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/fr.po | 
+ | [sv](/f32/language/sv) | 3772 | 4218 | 89.4 | /mnt/stockage/packages/f32/compiz-plugins-main/po/sv.po | 
+ | [pl](/f32/language/pl) | 3708 | 4218 | 87.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/pl.po | 
+ | [fi](/f32/language/fi) | 3637 | 4218 | 86.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/fi.po | 
+ | [nb_NO](/f32/language/nb_NO) | 3587 | 4218 | 85.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/nb.po | 
+ | [nl](/f32/language/nl) | 3409 | 4218 | 80.8 | /mnt/stockage/packages/f32/compiz-plugins-main/po/nl.po | 
+ | [gu](/f32/language/gu) | 3358 | 4218 | 79.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/gu.po | 
+ | [hi](/f32/language/hi) | 3358 | 4218 | 79.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/hi.po | 
+ | [pt_BR](/f32/language/pt_BR) | 3342 | 4218 | 79.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/pt_BR.po | 
+ | [es](/f32/language/es) | 3257 | 4218 | 77.2 | /mnt/stockage/packages/f32/compiz-plugins-main/po/es.po | 
+ | [eu](/f32/language/eu) | 2485 | 4218 | 58.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/eu.po | 
+ | [de](/f32/language/de) | 1953 | 4218 | 46.3 | /mnt/stockage/packages/f32/compiz-plugins-main/po/de.po | 
+ | [tr](/f32/language/tr) | 1499 | 4218 | 35.5 | /mnt/stockage/packages/f32/compiz-plugins-main/po/tr.po | 
+ | [ru](/f32/language/ru) | 1263 | 4218 | 29.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ru.po | 
+ | [cs](/f32/language/cs) | 1038 | 4218 | 24.6 | /mnt/stockage/packages/f32/compiz-plugins-main/po/cs.po | 
+ | [ar](/f32/language/ar) | 590 | 4218 | 14.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/ar.po | 
+ | [bn](/f32/language/bn) | 165 | 4218 | 3.9 | /mnt/stockage/packages/f32/compiz-plugins-main/po/bn.po | 
+ | [fa](/f32/language/fa) | 0 | 4218 | 0.0 | /mnt/stockage/packages/f32/compiz-plugins-main/po/fa.po | 
 {.sortable}
 
 

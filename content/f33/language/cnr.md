@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [scanmem]({{< ref "/f33/package/scanmem.md" >}}) | 548 | 548 | 100.0 |  | 
+ | [scanmem](/f33/package/scanmem) | 548 | 548 | 100.0 |  | 
 {.sortable}
 
 

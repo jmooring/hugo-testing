@@ -18,11 +18,11 @@ The package netactview (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f20/netactview/po/ro.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/et.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/it.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/pt.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/ru.po | 
+ | [ro](/f20/language/ro) | 279 | 279 | 100.0 | /mnt/stockage/packages/f20/netactview/po/ro.po | 
+ | [et](/f20/language/et) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/et.po | 
+ | [it](/f20/language/it) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/it.po | 
+ | [pt](/f20/language/pt) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/pt.po | 
+ | [ru](/f20/language/ru) | 203 | 279 | 72.8 | /mnt/stockage/packages/f20/netactview/po/ru.po | 
 {.sortable}
 
 

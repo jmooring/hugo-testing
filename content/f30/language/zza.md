@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [subdownloader]({{< ref "/f30/package/subdownloader.md" >}}) | 0 | 968 | 0.0 | Zazaki <zza@li.org> | 
+ | [subdownloader](/f30/package/subdownloader) | 0 | 968 | 0.0 | Zazaki <zza@li.org> | 
 {.sortable}
 
 

@@ -41,7 +41,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Miro]({{< ref "/f8/package/Miro.md" >}}) | 321 | 3060 | 10.5 |  | 
+ | [Miro](/f8/package/Miro) | 321 | 3060 | 10.5 |  | 
 {.sortable}
 
 
@@ -53,7 +53,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [Miro]({{< ref "/f8/package/Miro.md" >}}) | /mnt/stockage/packages/f8/Miro/resources/locale/fil.po | error-os |  | 
+ | [Miro](/f8/package/Miro) | /mnt/stockage/packages/f8/Miro/resources/locale/fil.po | error-os |  | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package freeipa (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 12202 | 12202 | 100.0 | /mnt/stockage/packages/f17/freeipa/install/po/uk.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 9759 | 12202 | 80.0 | /mnt/stockage/packages/f17/freeipa/install/po/fr.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 6873 | 12202 | 56.3 | /mnt/stockage/packages/f17/freeipa/install/po/es.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 2001 | 12202 | 16.4 | /mnt/stockage/packages/f17/freeipa/install/po/pl.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 869 | 12202 | 7.1 | /mnt/stockage/packages/f17/freeipa/install/po/kn.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 679 | 12202 | 5.6 | /mnt/stockage/packages/f17/freeipa/install/po/ru.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 427 | 12202 | 3.5 | /mnt/stockage/packages/f17/freeipa/install/po/id.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 368 | 12202 | 3.0 | /mnt/stockage/packages/f17/freeipa/install/po/zh_CN.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 73 | 12202 | 0.6 | /mnt/stockage/packages/f17/freeipa/install/po/de.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 45 | 12202 | 0.4 | /mnt/stockage/packages/f17/freeipa/install/po/bn_IN.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 38 | 24214 | 0.2 | /mnt/stockage/packages/f17/freeipa/install/po/ja.po/mnt/stockage/packages/f17/freeipa/install/po/ja_JP.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 4 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/nl.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/as.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/el.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/fa.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/gu.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/he.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/it.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/ko.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/pt_BR.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/sv.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/zh_TW.po | 
+ | [uk](/f17/language/uk) | 12202 | 12202 | 100.0 | /mnt/stockage/packages/f17/freeipa/install/po/uk.po | 
+ | [fr](/f17/language/fr) | 9759 | 12202 | 80.0 | /mnt/stockage/packages/f17/freeipa/install/po/fr.po | 
+ | [es](/f17/language/es) | 6873 | 12202 | 56.3 | /mnt/stockage/packages/f17/freeipa/install/po/es.po | 
+ | [pl](/f17/language/pl) | 2001 | 12202 | 16.4 | /mnt/stockage/packages/f17/freeipa/install/po/pl.po | 
+ | [kn](/f17/language/kn) | 869 | 12202 | 7.1 | /mnt/stockage/packages/f17/freeipa/install/po/kn.po | 
+ | [ru](/f17/language/ru) | 679 | 12202 | 5.6 | /mnt/stockage/packages/f17/freeipa/install/po/ru.po | 
+ | [id](/f17/language/id) | 427 | 12202 | 3.5 | /mnt/stockage/packages/f17/freeipa/install/po/id.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 368 | 12202 | 3.0 | /mnt/stockage/packages/f17/freeipa/install/po/zh_CN.po | 
+ | [de](/f17/language/de) | 73 | 12202 | 0.6 | /mnt/stockage/packages/f17/freeipa/install/po/de.po | 
+ | [bn_IN](/f17/language/bn_IN) | 45 | 12202 | 0.4 | /mnt/stockage/packages/f17/freeipa/install/po/bn_IN.po | 
+ | [ja](/f17/language/ja) | 38 | 24214 | 0.2 | /mnt/stockage/packages/f17/freeipa/install/po/ja.po/mnt/stockage/packages/f17/freeipa/install/po/ja_JP.po | 
+ | [nl](/f17/language/nl) | 4 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/nl.po | 
+ | [as](/f17/language/as) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/as.po | 
+ | [el](/f17/language/el) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/el.po | 
+ | [fa](/f17/language/fa) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/fa.po | 
+ | [gu](/f17/language/gu) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/gu.po | 
+ | [he](/f17/language/he) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/he.po | 
+ | [it](/f17/language/it) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/it.po | 
+ | [ko](/f17/language/ko) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/ko.po | 
+ | [pt](/f17/language/pt) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/pt_BR.po | 
+ | [sv](/f17/language/sv) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/sv.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 0 | 12202 | 0.0 | /mnt/stockage/packages/f17/freeipa/install/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package smart (version 0.51):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 4163 | 4163 | 100.0 | /mnt/stockage/packages/f8/smart/locale/hu/LC_MESSAGES/smart.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 4163 | 4163 | 100.0 | /mnt/stockage/packages/f8/smart/locale/sv/LC_MESSAGES/smart.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 4149 | 4163 | 99.7 | /mnt/stockage/packages/f8/smart/locale/zh_TW/LC_MESSAGES/smart.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 4133 | 4163 | 99.3 | /mnt/stockage/packages/f8/smart/locale/es_ES/LC_MESSAGES/smart.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 4133 | 4163 | 99.3 | /mnt/stockage/packages/f8/smart/locale/fr/LC_MESSAGES/smart.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 4133 | 4163 | 99.3 | /mnt/stockage/packages/f8/smart/locale/pt_BR/LC_MESSAGES/smart.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 3986 | 4163 | 95.7 | /mnt/stockage/packages/f8/smart/locale/de/LC_MESSAGES/smart.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 3187 | 4163 | 76.6 | /mnt/stockage/packages/f8/smart/locale/zh_CN/LC_MESSAGES/smart.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 966 | 4163 | 23.2 | /mnt/stockage/packages/f8/smart/locale/it/LC_MESSAGES/smart.po | 
+ | [hu](/f8/language/hu) | 4163 | 4163 | 100.0 | /mnt/stockage/packages/f8/smart/locale/hu/LC_MESSAGES/smart.po | 
+ | [sv](/f8/language/sv) | 4163 | 4163 | 100.0 | /mnt/stockage/packages/f8/smart/locale/sv/LC_MESSAGES/smart.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 4149 | 4163 | 99.7 | /mnt/stockage/packages/f8/smart/locale/zh_TW/LC_MESSAGES/smart.po | 
+ | [es](/f8/language/es) | 4133 | 4163 | 99.3 | /mnt/stockage/packages/f8/smart/locale/es_ES/LC_MESSAGES/smart.po | 
+ | [fr](/f8/language/fr) | 4133 | 4163 | 99.3 | /mnt/stockage/packages/f8/smart/locale/fr/LC_MESSAGES/smart.po | 
+ | [pt_BR](/f8/language/pt_BR) | 4133 | 4163 | 99.3 | /mnt/stockage/packages/f8/smart/locale/pt_BR/LC_MESSAGES/smart.po | 
+ | [de](/f8/language/de) | 3986 | 4163 | 95.7 | /mnt/stockage/packages/f8/smart/locale/de/LC_MESSAGES/smart.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 3187 | 4163 | 76.6 | /mnt/stockage/packages/f8/smart/locale/zh_CN/LC_MESSAGES/smart.po | 
+ | [it](/f8/language/it) | 966 | 4163 | 23.2 | /mnt/stockage/packages/f8/smart/locale/it/LC_MESSAGES/smart.po | 
 {.sortable}
 
 

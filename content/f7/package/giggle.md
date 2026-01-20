@@ -18,11 +18,11 @@ The package giggle (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f7/giggle/po/ca.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f7/giggle/po/pl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 285 | 302 | 94.4 | /mnt/stockage/packages/f7/giggle/po/sv.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 293 | 339 | 86.4 | /mnt/stockage/packages/f7/giggle/po/es.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 179 | 337 | 53.1 | /mnt/stockage/packages/f7/giggle/po/de.po | 
+ | [ca](/f7/language/ca) | 339 | 339 | 100.0 | /mnt/stockage/packages/f7/giggle/po/ca.po | 
+ | [pl](/f7/language/pl) | 312 | 312 | 100.0 | /mnt/stockage/packages/f7/giggle/po/pl.po | 
+ | [sv](/f7/language/sv) | 285 | 302 | 94.4 | /mnt/stockage/packages/f7/giggle/po/sv.po | 
+ | [es](/f7/language/es) | 293 | 339 | 86.4 | /mnt/stockage/packages/f7/giggle/po/es.po | 
+ | [de](/f7/language/de) | 179 | 337 | 53.1 | /mnt/stockage/packages/f7/giggle/po/de.po | 
 {.sortable}
 
 

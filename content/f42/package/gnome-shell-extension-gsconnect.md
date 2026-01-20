@@ -18,41 +18,41 @@ The package gnome-shell-extension-gsconnect (version 71):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/bg.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/de.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/hu.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/it.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/pt.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ru.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/uk.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 818 | 822 | 99.5 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/el.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 876 | 902 | 97.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fa.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 822 | 902 | 91.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/es.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 822 | 902 | 91.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/zh_CN.po | 
- | [ar_SA]({{< ref "/f42/language/ar_SA.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ar.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/cs.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fr.po | 
- | [he_IL]({{< ref "/f42/language/he_IL.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/he.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/lt.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/zh_TW.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 802 | 902 | 88.9 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fi.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 727 | 822 | 88.4 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/nl.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 727 | 822 | 88.4 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sk.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 776 | 902 | 86.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ko.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 764 | 902 | 84.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sv.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 731 | 902 | 81.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/be.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 731 | 902 | 81.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/et.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 692 | 902 | 76.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/tr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 600 | 902 | 66.5 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/gl.po | 
- | [fy]({{< ref "/f42/language/fy.md" >}}) | 588 | 902 | 65.2 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fy.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 577 | 902 | 64.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ca.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 533 | 902 | 59.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/da.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 484 | 902 | 53.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/id.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 414 | 902 | 45.9 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sr@latin.po | 
- | [nl_BE]({{< ref "/f42/language/nl_BE.md" >}}) | 319 | 822 | 38.8 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/nl_BE.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 295 | 902 | 32.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sr.po | 
+ | [bg](/f42/language/bg) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/bg.po | 
+ | [de](/f42/language/de) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/de.po | 
+ | [hu](/f42/language/hu) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/hu.po | 
+ | [it](/f42/language/it) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/it.po | 
+ | [pt_PT](/f42/language/pt_PT) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/pt.po | 
+ | [ru](/f42/language/ru) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ru.po | 
+ | [uk](/f42/language/uk) | 902 | 902 | 100.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/uk.po | 
+ | [el](/f42/language/el) | 818 | 822 | 99.5 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/el.po | 
+ | [fa](/f42/language/fa) | 876 | 902 | 97.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fa.po | 
+ | [es](/f42/language/es) | 822 | 902 | 91.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/es.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 822 | 902 | 91.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/zh_CN.po | 
+ | [ar_SA](/f42/language/ar_SA) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ar.po | 
+ | [cs](/f42/language/cs) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/cs.po | 
+ | [fr](/f42/language/fr) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fr.po | 
+ | [he_IL](/f42/language/he_IL) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/he.po | 
+ | [lt](/f42/language/lt) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/lt.po | 
+ | [pl](/f42/language/pl) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/pt_BR.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 818 | 902 | 90.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/zh_TW.po | 
+ | [fi](/f42/language/fi) | 802 | 902 | 88.9 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fi.po | 
+ | [nl](/f42/language/nl) | 727 | 822 | 88.4 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/nl.po | 
+ | [sk](/f42/language/sk) | 727 | 822 | 88.4 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sk.po | 
+ | [ko](/f42/language/ko) | 776 | 902 | 86.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ko.po | 
+ | [sv](/f42/language/sv) | 764 | 902 | 84.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sv.po | 
+ | [be](/f42/language/be) | 731 | 902 | 81.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/be.po | 
+ | [et](/f42/language/et) | 731 | 902 | 81.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/et.po | 
+ | [tr](/f42/language/tr) | 692 | 902 | 76.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/tr.po | 
+ | [gl](/f42/language/gl) | 600 | 902 | 66.5 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/gl.po | 
+ | [fy](/f42/language/fy) | 588 | 902 | 65.2 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/fy.po | 
+ | [ca](/f42/language/ca) | 577 | 902 | 64.0 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/ca.po | 
+ | [da](/f42/language/da) | 533 | 902 | 59.1 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/da.po | 
+ | [id](/f42/language/id) | 484 | 902 | 53.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/id.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 414 | 902 | 45.9 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sr@latin.po | 
+ | [nl_BE](/f42/language/nl_BE) | 319 | 822 | 38.8 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/nl_BE.po | 
+ | [sr](/f42/language/sr) | 295 | 902 | 32.7 | /mnt/stockage/packages/f42/gnome-shell-extension-gsconnect/po/sr.po | 
 {.sortable}
 
 

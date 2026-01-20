@@ -18,7 +18,7 @@ The package python-oslo-messaging (version 8.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 348 | 348 | 100.0 | /mnt/stockage/packages/f30/python-oslo-messaging/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f30/language/en_GB) | 348 | 348 | 100.0 | /mnt/stockage/packages/f30/python-oslo-messaging/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

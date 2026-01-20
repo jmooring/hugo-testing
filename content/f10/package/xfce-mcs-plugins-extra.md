@@ -18,7 +18,7 @@ The package xfce-mcs-plugins-extra (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f10/xfce-mcs-plugins-extra/po/fr.po | 
+ | [fr](/f10/language/fr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f10/xfce-mcs-plugins-extra/po/fr.po | 
 {.sortable}
 
 

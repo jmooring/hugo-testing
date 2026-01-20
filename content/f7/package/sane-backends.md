@@ -18,20 +18,20 @@ The package sane-backends (version 1.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 3629 | 3629 | 100.0 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.sv.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 3593 | 3629 | 99.0 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.it.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 3504 | 3629 | 96.6 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3496 | 3629 | 96.3 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.de.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 3401 | 3629 | 93.7 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.pl.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 3245 | 3629 | 89.4 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.fi.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 3241 | 3629 | 89.3 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.bg.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 3234 | 3629 | 89.1 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.nl.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 3114 | 3629 | 85.8 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 3072 | 3629 | 84.7 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2775 | 3629 | 76.5 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.ru.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 841 | 3629 | 23.2 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.es.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 614 | 3629 | 16.9 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.no.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 419 | 3629 | 11.5 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.pt.po | 
+ | [sv](/f7/language/sv) | 3629 | 3629 | 100.0 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.sv.po | 
+ | [it](/f7/language/it) | 3593 | 3629 | 99.0 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.it.po | 
+ | [da](/f7/language/da) | 3504 | 3629 | 96.6 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.da.po | 
+ | [de](/f7/language/de) | 3496 | 3629 | 96.3 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.de.po | 
+ | [pl](/f7/language/pl) | 3401 | 3629 | 93.7 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.pl.po | 
+ | [fi](/f7/language/fi) | 3245 | 3629 | 89.4 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.fi.po | 
+ | [bg](/f7/language/bg) | 3241 | 3629 | 89.3 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.bg.po | 
+ | [nl](/f7/language/nl) | 3234 | 3629 | 89.1 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.nl.po | 
+ | [cs](/f7/language/cs) | 3114 | 3629 | 85.8 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.cs.po | 
+ | [fr](/f7/language/fr) | 3072 | 3629 | 84.7 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.fr.po | 
+ | [ru](/f7/language/ru) | 2775 | 3629 | 76.5 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.ru.po | 
+ | [es](/f7/language/es) | 841 | 3629 | 23.2 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.es.po | 
+ | [nb_NO](/f7/language/nb_NO) | 614 | 3629 | 16.9 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.no.po | 
+ | [pt](/f7/language/pt) | 419 | 3629 | 11.5 | /mnt/stockage/packages/f7/sane-backends/po/sane-backends.pt.po | 
 {.sortable}
 
 

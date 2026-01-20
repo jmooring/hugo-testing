@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [intltool]({{< ref "/f30/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [intltool](/f30/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
 {.sortable}
 
 

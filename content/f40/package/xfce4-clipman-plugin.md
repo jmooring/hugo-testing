@@ -18,58 +18,58 @@ The package xfce4-clipman-plugin (version 1.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/bg.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/de.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/en_GB.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/es.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/et.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/fr.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/he.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ko.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ru.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/zh_TW.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 404 | 478 | 84.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ast.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 446 | 567 | 78.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sq.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/be.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/cs.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/eu.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/gl.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/id.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ms.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sk.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/th.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 400 | 567 | 70.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/el.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 322 | 478 | 67.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ar.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 322 | 478 | 67.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ug.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 219 | 350 | 62.6 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/vi.po | 
- | [hy]({{< ref "/f40/language/hy.md" >}}) | 658 | 1130 | 58.2 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hy_AM.po/mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hye.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 287 | 565 | 50.8 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/kk.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 285 | 565 | 50.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hu.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 276 | 567 | 48.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hr.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 228 | 478 | 47.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/lv.po | 
- | [en_AU]({{< ref "/f40/language/en_AU.md" >}}) | 260 | 565 | 46.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/en_AU.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 260 | 565 | 46.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/is.po | 
- | [ur]({{< ref "/f40/language/ur.md" >}}) | 197 | 478 | 41.2 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f40/language/ur_PK.md" >}}) | 197 | 478 | 41.2 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ur_PK.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 229 | 567 | 40.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/fi.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 190 | 567 | 33.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/oc.po | 
- | [ie]({{< ref "/f40/language/ie.md" >}}) | 189 | 565 | 33.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ie.po | 
+ | [bg](/f40/language/bg) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/bg.po | 
+ | [ca](/f40/language/ca) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ca.po | 
+ | [da](/f40/language/da) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/da.po | 
+ | [de](/f40/language/de) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/de.po | 
+ | [en_GB](/f40/language/en_GB) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/en_GB.po | 
+ | [es](/f40/language/es) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/es.po | 
+ | [et](/f40/language/et) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/et.po | 
+ | [fr](/f40/language/fr) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/fr.po | 
+ | [he](/f40/language/he) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/he.po | 
+ | [it](/f40/language/it) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/it.po | 
+ | [ja](/f40/language/ja) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ja.po | 
+ | [ko](/f40/language/ko) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ko.po | 
+ | [lt](/f40/language/lt) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/lt.po | 
+ | [nb_NO](/f40/language/nb_NO) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/nb.po | 
+ | [nl](/f40/language/nl) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/nl.po | 
+ | [pl](/f40/language/pl) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/pl.po | 
+ | [pt](/f40/language/pt) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ru.po | 
+ | [sl](/f40/language/sl) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sl.po | 
+ | [sr](/f40/language/sr) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sr.po | 
+ | [sv](/f40/language/sv) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sv.po | 
+ | [tr](/f40/language/tr) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/tr.po | 
+ | [uk](/f40/language/uk) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 567 | 567 | 100.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/zh_TW.po | 
+ | [ast](/f40/language/ast) | 404 | 478 | 84.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ast.po | 
+ | [sq](/f40/language/sq) | 446 | 567 | 78.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sq.po | 
+ | [be](/f40/language/be) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/be.po | 
+ | [cs](/f40/language/cs) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/cs.po | 
+ | [eu](/f40/language/eu) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/eu.po | 
+ | [gl](/f40/language/gl) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/gl.po | 
+ | [id](/f40/language/id) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/id.po | 
+ | [ms](/f40/language/ms) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ms.po | 
+ | [sk](/f40/language/sk) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/sk.po | 
+ | [th](/f40/language/th) | 401 | 567 | 70.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/th.po | 
+ | [el](/f40/language/el) | 400 | 567 | 70.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/el.po | 
+ | [ar](/f40/language/ar) | 322 | 478 | 67.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ar.po | 
+ | [ug](/f40/language/ug) | 322 | 478 | 67.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ug.po | 
+ | [vi](/f40/language/vi) | 219 | 350 | 62.6 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/vi.po | 
+ | [hy](/f40/language/hy) | 658 | 1130 | 58.2 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hy_AM.po/mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hye.po | 
+ | [kk](/f40/language/kk) | 287 | 565 | 50.8 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/kk.po | 
+ | [hu](/f40/language/hu) | 285 | 565 | 50.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hu.po | 
+ | [hr](/f40/language/hr) | 276 | 567 | 48.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/hr.po | 
+ | [lv](/f40/language/lv) | 228 | 478 | 47.7 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/lv.po | 
+ | [en_AU](/f40/language/en_AU) | 260 | 565 | 46.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/en_AU.po | 
+ | [is](/f40/language/is) | 260 | 565 | 46.0 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/is.po | 
+ | [ur](/f40/language/ur) | 197 | 478 | 41.2 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ur.po | 
+ | [ur_PK](/f40/language/ur_PK) | 197 | 478 | 41.2 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ur_PK.po | 
+ | [fi](/f40/language/fi) | 229 | 567 | 40.4 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/fi.po | 
+ | [oc](/f40/language/oc) | 190 | 567 | 33.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/oc.po | 
+ | [ie](/f40/language/ie) | 189 | 565 | 33.5 | /mnt/stockage/packages/f40/xfce4-clipman-plugin/po/ie.po | 
 {.sortable}
 
 

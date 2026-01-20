@@ -18,7 +18,7 @@ The package firstaidkit (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f18/language/en.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/firstaidkit/po/en.po | 
+ | [en](/f18/language/en) | 2 | 2 | 100.0 | /mnt/stockage/packages/f18/firstaidkit/po/en.po | 
 {.sortable}
 
 

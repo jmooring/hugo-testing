@@ -18,44 +18,44 @@ The package cawbird (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f35/language/da.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/da.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/en_GB.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/gd.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/nl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1138 | 1233 | 92.3 | /mnt/stockage/packages/f35/cawbird/po/ru.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1115 | 1233 | 90.4 | /mnt/stockage/packages/f35/cawbird/po/it.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 989 | 1233 | 80.2 | /mnt/stockage/packages/f35/cawbird/po/fr.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 557 | 1233 | 45.2 | /mnt/stockage/packages/f35/cawbird/po/ar.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 530 | 1233 | 43.0 | /mnt/stockage/packages/f35/cawbird/po/ca.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/ast.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1038 | 2466 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/de_DE.po/mnt/stockage/packages/f35/cawbird/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/eo.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/fi.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/gl.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/lt.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/pl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/sr_BA@latin.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 518 | 1233 | 42.0 | /mnt/stockage/packages/f35/cawbird/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 485 | 1233 | 39.3 | /mnt/stockage/packages/f35/cawbird/po/nb.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 481 | 1233 | 39.0 | /mnt/stockage/packages/f35/cawbird/po/id.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 423 | 1233 | 34.3 | /mnt/stockage/packages/f35/cawbird/po/pt_BR.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 404 | 1233 | 32.8 | /mnt/stockage/packages/f35/cawbird/po/es.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 404 | 1233 | 32.8 | /mnt/stockage/packages/f35/cawbird/po/zh_CN.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 401 | 1233 | 32.5 | /mnt/stockage/packages/f35/cawbird/po/pt.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 388 | 1233 | 31.5 | /mnt/stockage/packages/f35/cawbird/po/ko.po | 
- | [es_MX]({{< ref "/f35/language/es_MX.md" >}}) | 315 | 1233 | 25.5 | /mnt/stockage/packages/f35/cawbird/po/es_MX.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 310 | 1233 | 25.1 | /mnt/stockage/packages/f35/cawbird/po/uk_UA.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 297 | 1233 | 24.1 | /mnt/stockage/packages/f35/cawbird/po/ja.po | 
- | [es_VE]({{< ref "/f35/language/es_VE.md" >}}) | 278 | 1233 | 22.5 | /mnt/stockage/packages/f35/cawbird/po/es_VE.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 278 | 1233 | 22.5 | /mnt/stockage/packages/f35/cawbird/po/tr.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 239 | 1233 | 19.4 | /mnt/stockage/packages/f35/cawbird/po/ro.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 186 | 1233 | 15.1 | /mnt/stockage/packages/f35/cawbird/po/ca@valencia.po | 
- | [es_419]({{< ref "/f35/language/es_419.md" >}}) | 129 | 1233 | 10.5 | /mnt/stockage/packages/f35/cawbird/po/es_419.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 106 | 1233 | 8.6 | /mnt/stockage/packages/f35/cawbird/po/fa.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 87 | 1233 | 7.1 | /mnt/stockage/packages/f35/cawbird/po/hu.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 63 | 1233 | 5.1 | /mnt/stockage/packages/f35/cawbird/po/hi.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 27 | 1233 | 2.2 | /mnt/stockage/packages/f35/cawbird/po/ga.po | 
+ | [da](/f35/language/da) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/da.po | 
+ | [en_GB](/f35/language/en_GB) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/en_GB.po | 
+ | [gd](/f35/language/gd) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/gd.po | 
+ | [nl](/f35/language/nl) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f35/cawbird/po/nl.po | 
+ | [ru](/f35/language/ru) | 1138 | 1233 | 92.3 | /mnt/stockage/packages/f35/cawbird/po/ru.po | 
+ | [it](/f35/language/it) | 1115 | 1233 | 90.4 | /mnt/stockage/packages/f35/cawbird/po/it.po | 
+ | [fr](/f35/language/fr) | 989 | 1233 | 80.2 | /mnt/stockage/packages/f35/cawbird/po/fr.po | 
+ | [ar](/f35/language/ar) | 557 | 1233 | 45.2 | /mnt/stockage/packages/f35/cawbird/po/ar.po | 
+ | [ca](/f35/language/ca) | 530 | 1233 | 43.0 | /mnt/stockage/packages/f35/cawbird/po/ca.po | 
+ | [ast](/f35/language/ast) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/ast.po | 
+ | [de](/f35/language/de) | 1038 | 2466 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/de_DE.po/mnt/stockage/packages/f35/cawbird/po/de.po | 
+ | [eo](/f35/language/eo) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/eo.po | 
+ | [fi](/f35/language/fi) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/fi.po | 
+ | [gl](/f35/language/gl) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/gl.po | 
+ | [lt](/f35/language/lt) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/lt.po | 
+ | [pl](/f35/language/pl) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/pl.po | 
+ | [sr](/f35/language/sr) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 519 | 1233 | 42.1 | /mnt/stockage/packages/f35/cawbird/po/sr_BA@latin.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 518 | 1233 | 42.0 | /mnt/stockage/packages/f35/cawbird/po/zh_TW.po | 
+ | [nb_NO](/f35/language/nb_NO) | 485 | 1233 | 39.3 | /mnt/stockage/packages/f35/cawbird/po/nb.po | 
+ | [id](/f35/language/id) | 481 | 1233 | 39.0 | /mnt/stockage/packages/f35/cawbird/po/id.po | 
+ | [pt_BR](/f35/language/pt_BR) | 423 | 1233 | 34.3 | /mnt/stockage/packages/f35/cawbird/po/pt_BR.po | 
+ | [es](/f35/language/es) | 404 | 1233 | 32.8 | /mnt/stockage/packages/f35/cawbird/po/es.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 404 | 1233 | 32.8 | /mnt/stockage/packages/f35/cawbird/po/zh_CN.po | 
+ | [pt_PT](/f35/language/pt_PT) | 401 | 1233 | 32.5 | /mnt/stockage/packages/f35/cawbird/po/pt.po | 
+ | [ko](/f35/language/ko) | 388 | 1233 | 31.5 | /mnt/stockage/packages/f35/cawbird/po/ko.po | 
+ | [es_MX](/f35/language/es_MX) | 315 | 1233 | 25.5 | /mnt/stockage/packages/f35/cawbird/po/es_MX.po | 
+ | [uk](/f35/language/uk) | 310 | 1233 | 25.1 | /mnt/stockage/packages/f35/cawbird/po/uk_UA.po | 
+ | [ja](/f35/language/ja) | 297 | 1233 | 24.1 | /mnt/stockage/packages/f35/cawbird/po/ja.po | 
+ | [es_VE](/f35/language/es_VE) | 278 | 1233 | 22.5 | /mnt/stockage/packages/f35/cawbird/po/es_VE.po | 
+ | [tr](/f35/language/tr) | 278 | 1233 | 22.5 | /mnt/stockage/packages/f35/cawbird/po/tr.po | 
+ | [ro](/f35/language/ro) | 239 | 1233 | 19.4 | /mnt/stockage/packages/f35/cawbird/po/ro.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 186 | 1233 | 15.1 | /mnt/stockage/packages/f35/cawbird/po/ca@valencia.po | 
+ | [es_419](/f35/language/es_419) | 129 | 1233 | 10.5 | /mnt/stockage/packages/f35/cawbird/po/es_419.po | 
+ | [fa](/f35/language/fa) | 106 | 1233 | 8.6 | /mnt/stockage/packages/f35/cawbird/po/fa.po | 
+ | [hu](/f35/language/hu) | 87 | 1233 | 7.1 | /mnt/stockage/packages/f35/cawbird/po/hu.po | 
+ | [hi](/f35/language/hi) | 63 | 1233 | 5.1 | /mnt/stockage/packages/f35/cawbird/po/hi.po | 
+ | [ga](/f35/language/ga) | 27 | 1233 | 2.2 | /mnt/stockage/packages/f35/cawbird/po/ga.po | 
 {.sortable}
 
 

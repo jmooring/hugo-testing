@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gramps]({{< ref "/f42/package/gramps.md" >}}) | 41201 | 41201 | 100.0 | German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/> | 
- | [perl-libintl-perl]({{< ref "/f42/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f42/package/texinfo.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [duplicity]({{< ref "/f42/package/duplicity.md" >}}) | 2232 | 2377 | 93.9 | German, Austria | 
- | [ganyremote]({{< ref "/f42/package/ganyremote.md" >}}) | 477 | 510 | 93.5 | Austrian | 
- | [kanyremote]({{< ref "/f42/package/kanyremote.md" >}}) | 462 | 500 | 92.4 | Austrian | 
- | [fuse-encfs]({{< ref "/f42/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [enigma]({{< ref "/f42/package/enigma.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [pingus]({{< ref "/f42/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f42/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [widelands]({{< ref "/f42/package/widelands.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [texi2html]({{< ref "/f42/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [gramps](/f42/package/gramps) | 41201 | 41201 | 100.0 | German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/> | 
+ | [perl-libintl-perl](/f42/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [texinfo](/f42/package/texinfo) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [duplicity](/f42/package/duplicity) | 2232 | 2377 | 93.9 | German, Austria | 
+ | [ganyremote](/f42/package/ganyremote) | 477 | 510 | 93.5 | Austrian | 
+ | [kanyremote](/f42/package/kanyremote) | 462 | 500 | 92.4 | Austrian | 
+ | [fuse-encfs](/f42/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [enigma](/f42/package/enigma) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [pingus](/f42/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f42/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [widelands](/f42/package/widelands) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [texi2html](/f42/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
 {.sortable}
 
 

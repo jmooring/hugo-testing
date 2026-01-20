@@ -39,14 +39,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f8/package/amarok.md" >}}) | 13192 | 13192 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kphotoalbum]({{< ref "/f8/package/kphotoalbum.md" >}}) | 5895 | 5895 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktorrent]({{< ref "/f8/package/ktorrent.md" >}}) | 3560 | 3560 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [k3b]({{< ref "/f8/package/k3b.md" >}}) | 20601 | 20630 | 99.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [digikam]({{< ref "/f8/package/digikam.md" >}}) | 15764 | 15937 | 98.9 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kipi-plugins]({{< ref "/f8/package/kipi-plugins.md" >}}) | 3793 | 13316 | 28.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kst]({{< ref "/f8/package/kst.md" >}}) | 423 | 6817 | 6.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [libkdcraw]({{< ref "/f8/package/libkdcraw.md" >}}) | 0 | 875 | 0.0 | <nds@li.org> | 
+ | [amarok](/f8/package/amarok) | 13192 | 13192 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kphotoalbum](/f8/package/kphotoalbum) | 5895 | 5895 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktorrent](/f8/package/ktorrent) | 3560 | 3560 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [k3b](/f8/package/k3b) | 20601 | 20630 | 99.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [digikam](/f8/package/digikam) | 15764 | 15937 | 98.9 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kipi-plugins](/f8/package/kipi-plugins) | 3793 | 13316 | 28.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kst](/f8/package/kst) | 423 | 6817 | 6.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [libkdcraw](/f8/package/libkdcraw) | 0 | 875 | 0.0 | <nds@li.org> | 
 {.sortable}
 
 

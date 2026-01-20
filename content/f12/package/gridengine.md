@@ -18,9 +18,9 @@ The package gridengine (version 6.2u3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f12/language/error.md" >}}) | 16540 | 16540 | 100.0 | /mnt/stockage/packages/f12/gridengine/source/dist/locale/en_FW.MBE/LC_MESSAGES/gridengine.po/mnt/stockage/packages/f12/gridengine/source/dist/locale/en_FW.ASCII/LC_MESSAGES/gridengine.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 7090 | 16517 | 42.9 | /mnt/stockage/packages/f12/gridengine/source/dist/locale/de/LC_MESSAGES/gridengine.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 0 | 16517 | 0.0 | /mnt/stockage/packages/f12/gridengine/source/dist/locale/en/LC_MESSAGES/gridengine.po | 
+ | [error](/f12/language/error) | 16540 | 16540 | 100.0 | /mnt/stockage/packages/f12/gridengine/source/dist/locale/en_FW.MBE/LC_MESSAGES/gridengine.po/mnt/stockage/packages/f12/gridengine/source/dist/locale/en_FW.ASCII/LC_MESSAGES/gridengine.po | 
+ | [de](/f12/language/de) | 7090 | 16517 | 42.9 | /mnt/stockage/packages/f12/gridengine/source/dist/locale/de/LC_MESSAGES/gridengine.po | 
+ | [en](/f12/language/en) | 0 | 16517 | 0.0 | /mnt/stockage/packages/f12/gridengine/source/dist/locale/en/LC_MESSAGES/gridengine.po | 
 {.sortable}
 
 

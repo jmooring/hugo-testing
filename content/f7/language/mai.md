@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pirut]({{< ref "/f7/package/pirut.md" >}}) | 572 | 815 | 70.2 | Hindi <hindi.sf.net> | 
+ | [pirut](/f7/package/pirut) | 572 | 815 | 70.2 | Hindi <hindi.sf.net> | 
 {.sortable}
 
 

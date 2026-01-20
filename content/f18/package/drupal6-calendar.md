@@ -18,10 +18,10 @@ The package drupal6-calendar (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 873 | 873 | 100.0 | /mnt/stockage/packages/f18/drupal6-calendar/calendar_ical/translations/calendar_ical.cs.po/mnt/stockage/packages/f18/drupal6-calendar/includes/translations/includes.cs.po/mnt/stockage/packages/f18/drupal6-calendar/jcalendar/translations/jcalendar.cs.po/mnt/stockage/packages/f18/drupal6-calendar/theme/translations/theme.cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1056 | 1056 | 100.0 | /mnt/stockage/packages/f18/drupal6-calendar/translations/de.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f18/drupal6-calendar/calendar_ical/translations/calendar_ical.hu.po/mnt/stockage/packages/f18/drupal6-calendar/jcalendar/translations/jcalendar.hu.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 1221 | 1767 | 69.1 | /mnt/stockage/packages/f18/drupal6-calendar/translations/theme.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/root.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/root.cs.po/mnt/stockage/packages/f18/drupal6-calendar/translations/installer.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/installer.cs.po/mnt/stockage/packages/f18/drupal6-calendar/translations/includes.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/general.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/general.cs.po | 
+ | [cs](/f18/language/cs) | 873 | 873 | 100.0 | /mnt/stockage/packages/f18/drupal6-calendar/calendar_ical/translations/calendar_ical.cs.po/mnt/stockage/packages/f18/drupal6-calendar/includes/translations/includes.cs.po/mnt/stockage/packages/f18/drupal6-calendar/jcalendar/translations/jcalendar.cs.po/mnt/stockage/packages/f18/drupal6-calendar/theme/translations/theme.cs.po | 
+ | [de](/f18/language/de) | 1056 | 1056 | 100.0 | /mnt/stockage/packages/f18/drupal6-calendar/translations/de.po | 
+ | [hu](/f18/language/hu) | 202 | 202 | 100.0 | /mnt/stockage/packages/f18/drupal6-calendar/calendar_ical/translations/calendar_ical.hu.po/mnt/stockage/packages/f18/drupal6-calendar/jcalendar/translations/jcalendar.hu.po | 
+ | [error](/f18/language/error) | 1221 | 1767 | 69.1 | /mnt/stockage/packages/f18/drupal6-calendar/translations/theme.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/root.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/root.cs.po/mnt/stockage/packages/f18/drupal6-calendar/translations/installer.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/installer.cs.po/mnt/stockage/packages/f18/drupal6-calendar/translations/includes.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/general.hu.po/mnt/stockage/packages/f18/drupal6-calendar/translations/general.cs.po | 
 {.sortable}
 
 

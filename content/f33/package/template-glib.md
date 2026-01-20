@@ -18,25 +18,25 @@ The package template-glib (version 3.34.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/es.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/fur.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/ro.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/tr.po | 
+ | [cs](/f33/language/cs) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/cs.po | 
+ | [da](/f33/language/da) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/da.po | 
+ | [de](/f33/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/de.po | 
+ | [el](/f33/language/el) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/en_GB.po | 
+ | [es](/f33/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/es.po | 
+ | [fur](/f33/language/fur) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/fur.po | 
+ | [hu](/f33/language/hu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/hu.po | 
+ | [id](/f33/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/id.po | 
+ | [it](/f33/language/it) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/it.po | 
+ | [nl](/f33/language/nl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/nl.po | 
+ | [pl](/f33/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/pl.po | 
+ | [pt](/f33/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/ro.po | 
+ | [sl](/f33/language/sl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/sl.po | 
+ | [sr](/f33/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/sr.po | 
+ | [sv](/f33/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/sv.po | 
+ | [tr](/f33/language/tr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f33/template-glib/po/tr.po | 
 {.sortable}
 
 

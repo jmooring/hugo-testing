@@ -18,11 +18,11 @@ The package tinyca2 (version 0.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 1914 | 1931 | 99.1 | /mnt/stockage/packages/f24/tinyca2/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1912 | 1931 | 99.0 | /mnt/stockage/packages/f24/tinyca2/po/fr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1867 | 1931 | 96.7 | /mnt/stockage/packages/f24/tinyca2/po/sv.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1755 | 1931 | 90.9 | /mnt/stockage/packages/f24/tinyca2/po/cs.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1737 | 1931 | 90.0 | /mnt/stockage/packages/f24/tinyca2/po/es.po | 
+ | [de](/f24/language/de) | 1914 | 1931 | 99.1 | /mnt/stockage/packages/f24/tinyca2/po/de.po | 
+ | [fr](/f24/language/fr) | 1912 | 1931 | 99.0 | /mnt/stockage/packages/f24/tinyca2/po/fr.po | 
+ | [sv](/f24/language/sv) | 1867 | 1931 | 96.7 | /mnt/stockage/packages/f24/tinyca2/po/sv.po | 
+ | [cs](/f24/language/cs) | 1755 | 1931 | 90.9 | /mnt/stockage/packages/f24/tinyca2/po/cs.po | 
+ | [es](/f24/language/es) | 1737 | 1931 | 90.0 | /mnt/stockage/packages/f24/tinyca2/po/es.po | 
 {.sortable}
 
 

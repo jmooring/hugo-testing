@@ -18,16 +18,16 @@ The package sugar-recall (version 4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f27/language/da.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/da.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/en.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/en_GB.po | 
- | [en_US]({{< ref "/f27/language/en_US.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/en_US.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/es.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/hy.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/nl.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/zh_CN.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 29 | 47 | 61.7 | /mnt/stockage/packages/f27/sugar-recall/po/pl.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 28 | 47 | 59.6 | /mnt/stockage/packages/f27/sugar-recall/po/cs.po | 
+ | [da](/f27/language/da) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/da.po | 
+ | [en](/f27/language/en) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/en.po | 
+ | [en_GB](/f27/language/en_GB) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/en_GB.po | 
+ | [en_US](/f27/language/en_US) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/en_US.po | 
+ | [es](/f27/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/es.po | 
+ | [hy](/f27/language/hy) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/hy.po | 
+ | [nl](/f27/language/nl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/nl.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 47 | 47 | 100.0 | /mnt/stockage/packages/f27/sugar-recall/po/zh_CN.po | 
+ | [pl](/f27/language/pl) | 29 | 47 | 61.7 | /mnt/stockage/packages/f27/sugar-recall/po/pl.po | 
+ | [cs](/f27/language/cs) | 28 | 47 | 59.6 | /mnt/stockage/packages/f27/sugar-recall/po/cs.po | 
 {.sortable}
 
 

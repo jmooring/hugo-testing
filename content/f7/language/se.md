@@ -40,10 +40,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [snownews]({{< ref "/f7/package/snownews.md" >}}) | 759 | 791 | 96.0 |  | 
- | [amarok]({{< ref "/f7/package/amarok.md" >}}) | 9803 | 13255 | 74.0 | Northern Saami <i18n-sme@lister.ping.uio.no> | 
- | [kaffeine]({{< ref "/f7/package/kaffeine.md" >}}) | 871 | 2354 | 37.0 | Northern Sami <se@li.org> | 
- | [k3b]({{< ref "/f7/package/k3b.md" >}}) | 342 | 20630 | 1.7 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
+ | [snownews](/f7/package/snownews) | 759 | 791 | 96.0 |  | 
+ | [amarok](/f7/package/amarok) | 9803 | 13255 | 74.0 | Northern Saami <i18n-sme@lister.ping.uio.no> | 
+ | [kaffeine](/f7/package/kaffeine) | 871 | 2354 | 37.0 | Northern Sami <se@li.org> | 
+ | [k3b](/f7/package/k3b) | 342 | 20630 | 1.7 | Northern Sami <i18n-sme@lister.ping.uio.no> | 
 {.sortable}
 
 
@@ -55,7 +55,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [snownews]({{< ref "/f7/package/snownews.md" >}}) | /mnt/stockage/packages/f7/snownews/po/._se.po | error-os |  | 
+ | [snownews](/f7/package/snownews) | /mnt/stockage/packages/f7/snownews/po/._se.po | error-os |  | 
 {.sortable}
 
 
@@ -66,7 +66,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [snownews]({{< ref "/f7/package/snownews.md" >}}) | /mnt/stockage/packages/f7/snownews/po/._se.po |  | 
+ | [snownews](/f7/package/snownews) | /mnt/stockage/packages/f7/snownews/po/._se.po |  | 
 {.sortable}
 
 

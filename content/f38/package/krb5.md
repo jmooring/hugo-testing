@@ -18,9 +18,9 @@ The package krb5 (version 1.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 10070 | 10070 | 100.0 | /mnt/stockage/packages/f38/krb5/src/po/de.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 10472 | 10472 | 100.0 | /mnt/stockage/packages/f38/krb5/src/po/ka.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/krb5/src/po/en_US.po | 
+ | [de](/f38/language/de) | 10070 | 10070 | 100.0 | /mnt/stockage/packages/f38/krb5/src/po/de.po | 
+ | [ka](/f38/language/ka) | 10472 | 10472 | 100.0 | /mnt/stockage/packages/f38/krb5/src/po/ka.po | 
+ | [en_US](/f38/language/en_US) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/krb5/src/po/en_US.po | 
 {.sortable}
 
 

@@ -18,42 +18,42 @@ The package kaccounts-integration (version 17.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ca/kaccounts-integration.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ca@valencia/kaccounts-integration.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/de/kaccounts-integration.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/el/kaccounts-integration.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/en_GB/kaccounts-integration.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/es/kaccounts-integration.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/fi/kaccounts-integration.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/fr/kaccounts-integration.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/gl/kaccounts-integration.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/it/kaccounts-integration.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ko/kaccounts-integration.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/nl/kaccounts-integration.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/pl/kaccounts-integration.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/pt/kaccounts-integration.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/pt_BR/kaccounts-integration.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sk/kaccounts-integration.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sr/kaccounts-integration.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sv/kaccounts-integration.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/tr/kaccounts-integration.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/uk/kaccounts-integration.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/zh_CN/kaccounts-integration.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/cs/kaccounts-integration.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ru/kaccounts-integration.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sl/kaccounts-integration.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/zh_TW/kaccounts-integration.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 42 | 59 | 71.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/nn/kaccounts-integration.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 42 | 82 | 51.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/ast/kaccounts-integration.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 42 | 82 | 51.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/da/kaccounts-integration.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 42 | 82 | 51.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/et/kaccounts-integration.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 33 | 82 | 40.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/ro/kaccounts-integration.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 22 | 82 | 26.8 | /mnt/stockage/packages/f27/kaccounts-integration/po/ar/kaccounts-integration.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 5 | 82 | 6.1 | /mnt/stockage/packages/f27/kaccounts-integration/po/ia/kaccounts-integration.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 5 | 82 | 6.1 | /mnt/stockage/packages/f27/kaccounts-integration/po/pa/kaccounts-integration.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 0 | 82 | 0.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/bs/kaccounts-integration.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 82 | 0.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ja/kaccounts-integration.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 82 | 0.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/lt/kaccounts-integration.po | 
+ | [ca](/f27/language/ca) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ca/kaccounts-integration.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ca@valencia/kaccounts-integration.po | 
+ | [de](/f27/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/de/kaccounts-integration.po | 
+ | [el](/f27/language/el) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/el/kaccounts-integration.po | 
+ | [en_GB](/f27/language/en_GB) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/en_GB/kaccounts-integration.po | 
+ | [es](/f27/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/es/kaccounts-integration.po | 
+ | [fi](/f27/language/fi) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/fi/kaccounts-integration.po | 
+ | [fr](/f27/language/fr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/fr/kaccounts-integration.po | 
+ | [gl](/f27/language/gl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/gl/kaccounts-integration.po | 
+ | [it](/f27/language/it) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/it/kaccounts-integration.po | 
+ | [ko](/f27/language/ko) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ko/kaccounts-integration.po | 
+ | [nl](/f27/language/nl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/nl/kaccounts-integration.po | 
+ | [pl](/f27/language/pl) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/pl/kaccounts-integration.po | 
+ | [pt](/f27/language/pt) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/pt/kaccounts-integration.po | 
+ | [pt_BR](/f27/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/pt_BR/kaccounts-integration.po | 
+ | [sk](/f27/language/sk) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sk/kaccounts-integration.po | 
+ | [sr](/f27/language/sr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sr/kaccounts-integration.po | 
+ | [sv](/f27/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sv/kaccounts-integration.po | 
+ | [tr](/f27/language/tr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/tr/kaccounts-integration.po | 
+ | [uk](/f27/language/uk) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/uk/kaccounts-integration.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 82 | 82 | 100.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/zh_CN/kaccounts-integration.po | 
+ | [cs](/f27/language/cs) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/cs/kaccounts-integration.po | 
+ | [ru](/f27/language/ru) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ru/kaccounts-integration.po | 
+ | [sl](/f27/language/sl) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/sl/kaccounts-integration.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 59 | 82 | 72.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/zh_TW/kaccounts-integration.po | 
+ | [nn](/f27/language/nn) | 42 | 59 | 71.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/nn/kaccounts-integration.po | 
+ | [ast](/f27/language/ast) | 42 | 82 | 51.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/ast/kaccounts-integration.po | 
+ | [da](/f27/language/da) | 42 | 82 | 51.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/da/kaccounts-integration.po | 
+ | [et](/f27/language/et) | 42 | 82 | 51.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/et/kaccounts-integration.po | 
+ | [ro](/f27/language/ro) | 33 | 82 | 40.2 | /mnt/stockage/packages/f27/kaccounts-integration/po/ro/kaccounts-integration.po | 
+ | [ar](/f27/language/ar) | 22 | 82 | 26.8 | /mnt/stockage/packages/f27/kaccounts-integration/po/ar/kaccounts-integration.po | 
+ | [ia](/f27/language/ia) | 5 | 82 | 6.1 | /mnt/stockage/packages/f27/kaccounts-integration/po/ia/kaccounts-integration.po | 
+ | [pa](/f27/language/pa) | 5 | 82 | 6.1 | /mnt/stockage/packages/f27/kaccounts-integration/po/pa/kaccounts-integration.po | 
+ | [bs](/f27/language/bs) | 0 | 82 | 0.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/bs/kaccounts-integration.po | 
+ | [ja](/f27/language/ja) | 0 | 82 | 0.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/ja/kaccounts-integration.po | 
+ | [lt](/f27/language/lt) | 0 | 82 | 0.0 | /mnt/stockage/packages/f27/kaccounts-integration/po/lt/kaccounts-integration.po | 
 {.sortable}
 
 

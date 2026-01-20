@@ -18,14 +18,14 @@ The package toppler (version 1.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/de.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/eu.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/ro.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 530 | 552 | 96.0 | /mnt/stockage/packages/f26/toppler/po/fr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 530 | 552 | 96.0 | /mnt/stockage/packages/f26/toppler/po/sv.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 472 | 552 | 85.5 | /mnt/stockage/packages/f26/toppler/po/pt.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 396 | 552 | 71.7 | /mnt/stockage/packages/f26/toppler/po/fi.po | 
+ | [cs](/f26/language/cs) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/cs.po | 
+ | [de](/f26/language/de) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/de.po | 
+ | [eu](/f26/language/eu) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/eu.po | 
+ | [ro](/f26/language/ro) | 552 | 552 | 100.0 | /mnt/stockage/packages/f26/toppler/po/ro.po | 
+ | [fr](/f26/language/fr) | 530 | 552 | 96.0 | /mnt/stockage/packages/f26/toppler/po/fr.po | 
+ | [sv](/f26/language/sv) | 530 | 552 | 96.0 | /mnt/stockage/packages/f26/toppler/po/sv.po | 
+ | [pt](/f26/language/pt) | 472 | 552 | 85.5 | /mnt/stockage/packages/f26/toppler/po/pt.po | 
+ | [fi](/f26/language/fi) | 396 | 552 | 71.7 | /mnt/stockage/packages/f26/toppler/po/fi.po | 
 {.sortable}
 
 

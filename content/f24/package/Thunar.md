@@ -18,65 +18,65 @@ The package Thunar (version 1.6.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ast.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/bg.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/de.po | 
- | [en_AU]({{< ref "/f24/language/en_AU.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/en_AU.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/et.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ja.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/kk.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/lt.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ms.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/nl.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/oc.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/sr.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/zh_HK.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 4136 | 4139 | 99.9 | /mnt/stockage/packages/f24/Thunar/po/vi.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 4184 | 4206 | 99.5 | /mnt/stockage/packages/f24/Thunar/po/he.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 4175 | 4200 | 99.4 | /mnt/stockage/packages/f24/Thunar/po/hr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 4143 | 4187 | 98.9 | /mnt/stockage/packages/f24/Thunar/po/ar.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 4152 | 4200 | 98.9 | /mnt/stockage/packages/f24/Thunar/po/sv.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 4061 | 4139 | 98.1 | /mnt/stockage/packages/f24/Thunar/po/ca.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 4110 | 4200 | 97.9 | /mnt/stockage/packages/f24/Thunar/po/el.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 4087 | 4200 | 97.3 | /mnt/stockage/packages/f24/Thunar/po/eu.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 3785 | 4139 | 91.4 | /mnt/stockage/packages/f24/Thunar/po/ug.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 3723 | 4187 | 88.9 | /mnt/stockage/packages/f24/Thunar/po/sq.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 3661 | 4139 | 88.5 | /mnt/stockage/packages/f24/Thunar/po/nn.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 3546 | 4139 | 85.7 | /mnt/stockage/packages/f24/Thunar/po/bn.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 3514 | 4139 | 84.9 | /mnt/stockage/packages/f24/Thunar/po/lv.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 3492 | 4206 | 83.0 | /mnt/stockage/packages/f24/Thunar/po/is.po | 
- | [ur]({{< ref "/f24/language/ur.md" >}}) | 3303 | 4139 | 79.8 | /mnt/stockage/packages/f24/Thunar/po/ur.po | 
- | [ur_PK]({{< ref "/f24/language/ur_PK.md" >}}) | 3303 | 4139 | 79.8 | /mnt/stockage/packages/f24/Thunar/po/ur_PK.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 3071 | 4139 | 74.2 | /mnt/stockage/packages/f24/Thunar/po/be.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 3044 | 4139 | 73.5 | /mnt/stockage/packages/f24/Thunar/po/eo.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 2177 | 4139 | 52.6 | /mnt/stockage/packages/f24/Thunar/po/te.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 1968 | 4139 | 47.5 | /mnt/stockage/packages/f24/Thunar/po/pa.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 159 | 4156 | 3.8 | /mnt/stockage/packages/f24/Thunar/po/sl.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 86 | 4149 | 2.1 | /mnt/stockage/packages/f24/Thunar/po/si.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 3 | 4149 | 0.1 | /mnt/stockage/packages/f24/Thunar/po/am.po | 
+ | [ast](/f24/language/ast) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ast.po | 
+ | [bg](/f24/language/bg) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/bg.po | 
+ | [cs](/f24/language/cs) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/cs.po | 
+ | [da](/f24/language/da) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/da.po | 
+ | [de](/f24/language/de) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/de.po | 
+ | [en_AU](/f24/language/en_AU) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/en_AU.po | 
+ | [en_GB](/f24/language/en_GB) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/en_GB.po | 
+ | [es](/f24/language/es) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/es.po | 
+ | [et](/f24/language/et) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/et.po | 
+ | [fi](/f24/language/fi) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/fi.po | 
+ | [fr](/f24/language/fr) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/fr.po | 
+ | [gl](/f24/language/gl) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/gl.po | 
+ | [hu](/f24/language/hu) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/hu.po | 
+ | [id](/f24/language/id) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/id.po | 
+ | [it](/f24/language/it) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/it.po | 
+ | [ja](/f24/language/ja) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ja.po | 
+ | [kk](/f24/language/kk) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/kk.po | 
+ | [ko](/f24/language/ko) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ko.po | 
+ | [lt](/f24/language/lt) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/lt.po | 
+ | [ms](/f24/language/ms) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ms.po | 
+ | [nb_NO](/f24/language/nb_NO) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/nb.po | 
+ | [nl](/f24/language/nl) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/nl.po | 
+ | [oc](/f24/language/oc) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/oc.po | 
+ | [pl](/f24/language/pl) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/pl.po | 
+ | [pt](/f24/language/pt) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ro.po | 
+ | [ru](/f24/language/ru) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/ru.po | 
+ | [sk](/f24/language/sk) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/sk.po | 
+ | [sr](/f24/language/sr) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/sr.po | 
+ | [th](/f24/language/th) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/th.po | 
+ | [tr](/f24/language/tr) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/tr.po | 
+ | [uk](/f24/language/uk) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 4200 | 4200 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 4206 | 4206 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f24/Thunar/po/zh_HK.po | 
+ | [vi](/f24/language/vi) | 4136 | 4139 | 99.9 | /mnt/stockage/packages/f24/Thunar/po/vi.po | 
+ | [he](/f24/language/he) | 4184 | 4206 | 99.5 | /mnt/stockage/packages/f24/Thunar/po/he.po | 
+ | [hr](/f24/language/hr) | 4175 | 4200 | 99.4 | /mnt/stockage/packages/f24/Thunar/po/hr.po | 
+ | [ar](/f24/language/ar) | 4143 | 4187 | 98.9 | /mnt/stockage/packages/f24/Thunar/po/ar.po | 
+ | [sv](/f24/language/sv) | 4152 | 4200 | 98.9 | /mnt/stockage/packages/f24/Thunar/po/sv.po | 
+ | [ca](/f24/language/ca) | 4061 | 4139 | 98.1 | /mnt/stockage/packages/f24/Thunar/po/ca.po | 
+ | [el](/f24/language/el) | 4110 | 4200 | 97.9 | /mnt/stockage/packages/f24/Thunar/po/el.po | 
+ | [eu](/f24/language/eu) | 4087 | 4200 | 97.3 | /mnt/stockage/packages/f24/Thunar/po/eu.po | 
+ | [ug](/f24/language/ug) | 3785 | 4139 | 91.4 | /mnt/stockage/packages/f24/Thunar/po/ug.po | 
+ | [sq](/f24/language/sq) | 3723 | 4187 | 88.9 | /mnt/stockage/packages/f24/Thunar/po/sq.po | 
+ | [nn](/f24/language/nn) | 3661 | 4139 | 88.5 | /mnt/stockage/packages/f24/Thunar/po/nn.po | 
+ | [bn](/f24/language/bn) | 3546 | 4139 | 85.7 | /mnt/stockage/packages/f24/Thunar/po/bn.po | 
+ | [lv](/f24/language/lv) | 3514 | 4139 | 84.9 | /mnt/stockage/packages/f24/Thunar/po/lv.po | 
+ | [is](/f24/language/is) | 3492 | 4206 | 83.0 | /mnt/stockage/packages/f24/Thunar/po/is.po | 
+ | [ur](/f24/language/ur) | 3303 | 4139 | 79.8 | /mnt/stockage/packages/f24/Thunar/po/ur.po | 
+ | [ur_PK](/f24/language/ur_PK) | 3303 | 4139 | 79.8 | /mnt/stockage/packages/f24/Thunar/po/ur_PK.po | 
+ | [be](/f24/language/be) | 3071 | 4139 | 74.2 | /mnt/stockage/packages/f24/Thunar/po/be.po | 
+ | [eo](/f24/language/eo) | 3044 | 4139 | 73.5 | /mnt/stockage/packages/f24/Thunar/po/eo.po | 
+ | [te](/f24/language/te) | 2177 | 4139 | 52.6 | /mnt/stockage/packages/f24/Thunar/po/te.po | 
+ | [pa](/f24/language/pa) | 1968 | 4139 | 47.5 | /mnt/stockage/packages/f24/Thunar/po/pa.po | 
+ | [sl](/f24/language/sl) | 159 | 4156 | 3.8 | /mnt/stockage/packages/f24/Thunar/po/sl.po | 
+ | [si](/f24/language/si) | 86 | 4149 | 2.1 | /mnt/stockage/packages/f24/Thunar/po/si.po | 
+ | [am](/f24/language/am) | 3 | 4149 | 0.1 | /mnt/stockage/packages/f24/Thunar/po/am.po | 
 {.sortable}
 
 

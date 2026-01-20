@@ -18,13 +18,13 @@ The package minder (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2160 | 2941 | 73.4 | /mnt/stockage/packages/f31/minder/po/fr.po/mnt/stockage/packages/f31/minder/po/extra/fr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 598 | 977 | 61.2 | /mnt/stockage/packages/f31/minder/po/nl.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 212 | 2941 | 7.2 | /mnt/stockage/packages/f31/minder/po/es.po/mnt/stockage/packages/f31/minder/po/extra/es.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 176 | 2941 | 6.0 | /mnt/stockage/packages/f31/minder/po/pl.po/mnt/stockage/packages/f31/minder/po/extra/pl.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 149 | 2941 | 5.1 | /mnt/stockage/packages/f31/minder/po/cs.po/mnt/stockage/packages/f31/minder/po/extra/cs.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 121 | 2941 | 4.1 | /mnt/stockage/packages/f31/minder/po/pt_BR.po/mnt/stockage/packages/f31/minder/po/extra/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 0 | 2941 | 0.0 | /mnt/stockage/packages/f31/minder/po/ru.po/mnt/stockage/packages/f31/minder/po/extra/ru.po | 
+ | [fr](/f31/language/fr) | 2160 | 2941 | 73.4 | /mnt/stockage/packages/f31/minder/po/fr.po/mnt/stockage/packages/f31/minder/po/extra/fr.po | 
+ | [nl](/f31/language/nl) | 598 | 977 | 61.2 | /mnt/stockage/packages/f31/minder/po/nl.po | 
+ | [es](/f31/language/es) | 212 | 2941 | 7.2 | /mnt/stockage/packages/f31/minder/po/es.po/mnt/stockage/packages/f31/minder/po/extra/es.po | 
+ | [pl](/f31/language/pl) | 176 | 2941 | 6.0 | /mnt/stockage/packages/f31/minder/po/pl.po/mnt/stockage/packages/f31/minder/po/extra/pl.po | 
+ | [cs](/f31/language/cs) | 149 | 2941 | 5.1 | /mnt/stockage/packages/f31/minder/po/cs.po/mnt/stockage/packages/f31/minder/po/extra/cs.po | 
+ | [pt_BR](/f31/language/pt_BR) | 121 | 2941 | 4.1 | /mnt/stockage/packages/f31/minder/po/pt_BR.po/mnt/stockage/packages/f31/minder/po/extra/pt_BR.po | 
+ | [ru](/f31/language/ru) | 0 | 2941 | 0.0 | /mnt/stockage/packages/f31/minder/po/ru.po/mnt/stockage/packages/f31/minder/po/extra/ru.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package ibus-table (version 1.9.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/ca.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/es.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/uk.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 434 | 838 | 51.8 | /mnt/stockage/packages/f25/ibus-table/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 220 | 838 | 26.3 | /mnt/stockage/packages/f25/ibus-table/po/zh_CN.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 104 | 838 | 12.4 | /mnt/stockage/packages/f25/ibus-table/po/fr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 21 | 838 | 2.5 | /mnt/stockage/packages/f25/ibus-table/po/pt_BR.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 16 | 838 | 1.9 | /mnt/stockage/packages/f25/ibus-table/po/ja.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 0 | 838 | 0.0 | /mnt/stockage/packages/f25/ibus-table/po/zh_HK.po | 
+ | [ca](/f25/language/ca) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/ca.po | 
+ | [de](/f25/language/de) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/de.po | 
+ | [es](/f25/language/es) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/es.po | 
+ | [uk](/f25/language/uk) | 838 | 838 | 100.0 | /mnt/stockage/packages/f25/ibus-table/po/uk.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 434 | 838 | 51.8 | /mnt/stockage/packages/f25/ibus-table/po/zh_TW.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 220 | 838 | 26.3 | /mnt/stockage/packages/f25/ibus-table/po/zh_CN.po | 
+ | [fr](/f25/language/fr) | 104 | 838 | 12.4 | /mnt/stockage/packages/f25/ibus-table/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 21 | 838 | 2.5 | /mnt/stockage/packages/f25/ibus-table/po/pt_BR.po | 
+ | [ja](/f25/language/ja) | 16 | 838 | 1.9 | /mnt/stockage/packages/f25/ibus-table/po/ja.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 0 | 838 | 0.0 | /mnt/stockage/packages/f25/ibus-table/po/zh_HK.po | 
 {.sortable}
 
 

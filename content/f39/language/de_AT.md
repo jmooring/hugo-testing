@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [perl-libintl-perl]({{< ref "/f39/package/perl-libintl-perl.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f39/package/texinfo.md" >}}) | 3 | 3 | 100.0 | German <de@li.org> | 
- | [gramps]({{< ref "/f39/package/gramps.md" >}}) | 40655 | 40701 | 99.9 | German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/> | 
- | [ganyremote]({{< ref "/f39/package/ganyremote.md" >}}) | 477 | 510 | 93.5 | Austrian | 
- | [kanyremote]({{< ref "/f39/package/kanyremote.md" >}}) | 462 | 500 | 92.4 | Austrian | 
- | [fuse-encfs]({{< ref "/f39/package/fuse-encfs.md" >}}) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f39/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f39/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [duplicity]({{< ref "/f39/package/duplicity.md" >}}) | 1538 | 2433 | 63.2 | German, Austria | 
- | [texi2html]({{< ref "/f39/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [perl-libintl-perl](/f39/package/perl-libintl-perl) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [texinfo](/f39/package/texinfo) | 3 | 3 | 100.0 | German <de@li.org> | 
+ | [gramps](/f39/package/gramps) | 40655 | 40701 | 99.9 | German (Austria) <https://hosted.weblate.org/projects/gramps-project/gramps/de_AT/> | 
+ | [ganyremote](/f39/package/ganyremote) | 477 | 510 | 93.5 | Austrian | 
+ | [kanyremote](/f39/package/kanyremote) | 462 | 500 | 92.4 | Austrian | 
+ | [fuse-encfs](/f39/package/fuse-encfs) | 1041 | 1289 | 80.8 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f39/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f39/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [duplicity](/f39/package/duplicity) | 1538 | 2433 | 63.2 | German, Austria | 
+ | [texi2html](/f39/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
 {.sortable}
 
 

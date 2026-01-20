@@ -18,17 +18,17 @@ The package denemo (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 44620 | 44620 | 100.0 | /mnt/stockage/packages/f30/denemo/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 45019 | 45019 | 100.0 | /mnt/stockage/packages/f30/denemo/po/cs.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f30/denemo/po/it.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 46727 | 46790 | 99.9 | /mnt/stockage/packages/f30/denemo/po/es.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 44170 | 45019 | 98.1 | /mnt/stockage/packages/f30/denemo/po/zh_CN.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 34366 | 45019 | 76.3 | /mnt/stockage/packages/f30/denemo/po/da.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 19330 | 36684 | 52.7 | /mnt/stockage/packages/f30/denemo/po/fr.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 7205 | 47262 | 15.2 | /mnt/stockage/packages/f30/denemo/po/ja.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f30/denemo/po/pl.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f30/denemo/po/de.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f30/denemo/po/sv.po | 
+ | [ca](/f30/language/ca) | 44620 | 44620 | 100.0 | /mnt/stockage/packages/f30/denemo/po/ca.po | 
+ | [cs](/f30/language/cs) | 45019 | 45019 | 100.0 | /mnt/stockage/packages/f30/denemo/po/cs.po | 
+ | [it](/f30/language/it) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f30/denemo/po/it.po | 
+ | [es](/f30/language/es) | 46727 | 46790 | 99.9 | /mnt/stockage/packages/f30/denemo/po/es.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 44170 | 45019 | 98.1 | /mnt/stockage/packages/f30/denemo/po/zh_CN.po | 
+ | [da](/f30/language/da) | 34366 | 45019 | 76.3 | /mnt/stockage/packages/f30/denemo/po/da.po | 
+ | [fr](/f30/language/fr) | 19330 | 36684 | 52.7 | /mnt/stockage/packages/f30/denemo/po/fr.po | 
+ | [ja](/f30/language/ja) | 7205 | 47262 | 15.2 | /mnt/stockage/packages/f30/denemo/po/ja.po | 
+ | [pl](/f30/language/pl) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f30/denemo/po/pl.po | 
+ | [de](/f30/language/de) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f30/denemo/po/de.po | 
+ | [sv](/f30/language/sv) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f30/denemo/po/sv.po | 
 {.sortable}
 
 

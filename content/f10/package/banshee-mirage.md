@@ -18,7 +18,7 @@ The package banshee-mirage (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f10/banshee-mirage/po/de.po | 
+ | [de](/f10/language/de) | 163 | 163 | 100.0 | /mnt/stockage/packages/f10/banshee-mirage/po/de.po | 
 {.sortable}
 
 

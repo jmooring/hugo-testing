@@ -18,22 +18,22 @@ The package comix (version 3.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 1588 | 1588 | 100.0 | /mnt/stockage/packages/f8/comix/messages/hr/LC_MESSAGES/comix.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/ca/LC_MESSAGES/comix.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/de/LC_MESSAGES/comix.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/el/LC_MESSAGES/comix.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/es/LC_MESSAGES/comix.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/fr/LC_MESSAGES/comix.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/hu/LC_MESSAGES/comix.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/it/LC_MESSAGES/comix.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/ja/LC_MESSAGES/comix.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/nl/LC_MESSAGES/comix.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/pt_BR/LC_MESSAGES/comix.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/sv/LC_MESSAGES/comix.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/zh_CN/LC_MESSAGES/comix.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/zh_TW/LC_MESSAGES/comix.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1527 | 1604 | 95.2 | /mnt/stockage/packages/f8/comix/messages/pl/LC_MESSAGES/comix.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1519 | 1604 | 94.7 | /mnt/stockage/packages/f8/comix/messages/ru/LC_MESSAGES/comix.po | 
+ | [hr](/f8/language/hr) | 1588 | 1588 | 100.0 | /mnt/stockage/packages/f8/comix/messages/hr/LC_MESSAGES/comix.po | 
+ | [ca](/f8/language/ca) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/ca/LC_MESSAGES/comix.po | 
+ | [de](/f8/language/de) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/de/LC_MESSAGES/comix.po | 
+ | [el](/f8/language/el) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/el/LC_MESSAGES/comix.po | 
+ | [es](/f8/language/es) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/es/LC_MESSAGES/comix.po | 
+ | [fr](/f8/language/fr) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/fr/LC_MESSAGES/comix.po | 
+ | [hu](/f8/language/hu) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/hu/LC_MESSAGES/comix.po | 
+ | [it](/f8/language/it) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/it/LC_MESSAGES/comix.po | 
+ | [ja](/f8/language/ja) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/ja/LC_MESSAGES/comix.po | 
+ | [nl](/f8/language/nl) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/nl/LC_MESSAGES/comix.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/pt_BR/LC_MESSAGES/comix.po | 
+ | [sv](/f8/language/sv) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/sv/LC_MESSAGES/comix.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/zh_CN/LC_MESSAGES/comix.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1559 | 1604 | 97.2 | /mnt/stockage/packages/f8/comix/messages/zh_TW/LC_MESSAGES/comix.po | 
+ | [pl](/f8/language/pl) | 1527 | 1604 | 95.2 | /mnt/stockage/packages/f8/comix/messages/pl/LC_MESSAGES/comix.po | 
+ | [ru](/f8/language/ru) | 1519 | 1604 | 94.7 | /mnt/stockage/packages/f8/comix/messages/ru/LC_MESSAGES/comix.po | 
 {.sortable}
 
 

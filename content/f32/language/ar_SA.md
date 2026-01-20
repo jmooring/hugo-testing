@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f32/package/poedit.md" >}}) | 2788 | 2791 | 99.9 | Arabic | 
- | [python-flask-admin]({{< ref "/f32/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Arabic | 
- | [gimagereader]({{< ref "/f32/package/gimagereader.md" >}}) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
- | [texi2html]({{< ref "/f32/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f32/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f32/package/glpi.md" >}}) | 3844 | 13772 | 27.9 | Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/) | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f32/package/gnome-shell-extension-gsconnect.md" >}}) | 123 | 651 | 18.9 | Arabic | 
- | [electrum]({{< ref "/f32/package/electrum.md" >}}) | 978 | 6886 | 14.2 | Arabic | 
- | [cacti]({{< ref "/f32/package/cacti.md" >}}) | 1074 | 29341 | 3.7 |  | 
- | [pgadmin3]({{< ref "/f32/package/pgadmin3.md" >}}) | 0 | 6318 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [poedit](/f32/package/poedit) | 2788 | 2791 | 99.9 | Arabic | 
+ | [python-flask-admin](/f32/package/python-flask-admin) | 320 | 367 | 87.2 | Arabic | 
+ | [gimagereader](/f32/package/gimagereader) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
+ | [texi2html](/f32/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f32/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f32/package/glpi) | 3844 | 13772 | 27.9 | Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/) | 
+ | [gnome-shell-extension-gsconnect](/f32/package/gnome-shell-extension-gsconnect) | 123 | 651 | 18.9 | Arabic | 
+ | [electrum](/f32/package/electrum) | 978 | 6886 | 14.2 | Arabic | 
+ | [cacti](/f32/package/cacti) | 1074 | 29341 | 3.7 |  | 
+ | [pgadmin3](/f32/package/pgadmin3) | 0 | 6318 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

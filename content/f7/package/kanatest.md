@@ -18,8 +18,8 @@ The package kanatest (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 390 | 392 | 99.5 | /mnt/stockage/packages/f7/kanatest/po/ru.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 387 | 392 | 98.7 | /mnt/stockage/packages/f7/kanatest/po/pl.po | 
+ | [ru](/f7/language/ru) | 390 | 392 | 99.5 | /mnt/stockage/packages/f7/kanatest/po/ru.po | 
+ | [pl](/f7/language/pl) | 387 | 392 | 98.7 | /mnt/stockage/packages/f7/kanatest/po/pl.po | 
 {.sortable}
 
 

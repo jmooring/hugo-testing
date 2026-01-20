@@ -18,10 +18,10 @@ The package vdr-sudoku (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f9/vdr-sudoku/po/de_DE.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f9/vdr-sudoku/po/fi_FI.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f9/vdr-sudoku/po/it_IT.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 30 | 65 | 46.2 | /mnt/stockage/packages/f9/vdr-sudoku/po/es_ES.po | 
+ | [de](/f9/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f9/vdr-sudoku/po/de_DE.po | 
+ | [fi](/f9/language/fi) | 65 | 65 | 100.0 | /mnt/stockage/packages/f9/vdr-sudoku/po/fi_FI.po | 
+ | [it](/f9/language/it) | 65 | 65 | 100.0 | /mnt/stockage/packages/f9/vdr-sudoku/po/it_IT.po | 
+ | [es](/f9/language/es) | 30 | 65 | 46.2 | /mnt/stockage/packages/f9/vdr-sudoku/po/es_ES.po | 
 {.sortable}
 
 

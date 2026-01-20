@@ -18,9 +18,9 @@ The package gpick (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f23/gpick/share/locale/lt/LC_MESSAGES/gpick.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 578 | 602 | 96.0 | /mnt/stockage/packages/f23/gpick/share/locale/ru/LC_MESSAGES/gpick.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 522 | 602 | 86.7 | /mnt/stockage/packages/f23/gpick/share/locale/es/LC_MESSAGES/gpick.po | 
+ | [lt](/f23/language/lt) | 602 | 602 | 100.0 | /mnt/stockage/packages/f23/gpick/share/locale/lt/LC_MESSAGES/gpick.po | 
+ | [ru](/f23/language/ru) | 578 | 602 | 96.0 | /mnt/stockage/packages/f23/gpick/share/locale/ru/LC_MESSAGES/gpick.po | 
+ | [es](/f23/language/es) | 522 | 602 | 86.7 | /mnt/stockage/packages/f23/gpick/share/locale/es/LC_MESSAGES/gpick.po | 
 {.sortable}
 
 

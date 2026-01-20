@@ -18,21 +18,21 @@ The package ncmpc (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/hu.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/ko.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/sk.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/zh_CN.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 668 | 683 | 97.8 | /mnt/stockage/packages/f14/ncmpc/po/de.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 661 | 683 | 96.8 | /mnt/stockage/packages/f14/ncmpc/po/da.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 555 | 683 | 81.3 | /mnt/stockage/packages/f14/ncmpc/po/cs.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 518 | 683 | 75.8 | /mnt/stockage/packages/f14/ncmpc/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 467 | 683 | 68.4 | /mnt/stockage/packages/f14/ncmpc/po/nb.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 89 | 683 | 13.0 | /mnt/stockage/packages/f14/ncmpc/po/nl.po | 
+ | [es](/f14/language/es) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/es.po | 
+ | [fr](/f14/language/fr) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/fr.po | 
+ | [gl](/f14/language/gl) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/gl.po | 
+ | [hu](/f14/language/hu) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/hu.po | 
+ | [ko](/f14/language/ko) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/ko.po | 
+ | [ru](/f14/language/ru) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/ru.po | 
+ | [sk](/f14/language/sk) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/sk.po | 
+ | [uk](/f14/language/uk) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 683 | 683 | 100.0 | /mnt/stockage/packages/f14/ncmpc/po/zh_CN.po | 
+ | [de](/f14/language/de) | 668 | 683 | 97.8 | /mnt/stockage/packages/f14/ncmpc/po/de.po | 
+ | [da](/f14/language/da) | 661 | 683 | 96.8 | /mnt/stockage/packages/f14/ncmpc/po/da.po | 
+ | [cs](/f14/language/cs) | 555 | 683 | 81.3 | /mnt/stockage/packages/f14/ncmpc/po/cs.po | 
+ | [sv](/f14/language/sv) | 518 | 683 | 75.8 | /mnt/stockage/packages/f14/ncmpc/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 467 | 683 | 68.4 | /mnt/stockage/packages/f14/ncmpc/po/nb.po | 
+ | [nl](/f14/language/nl) | 89 | 683 | 13.0 | /mnt/stockage/packages/f14/ncmpc/po/nl.po | 
 {.sortable}
 
 

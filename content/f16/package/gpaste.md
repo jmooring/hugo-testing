@@ -18,9 +18,9 @@ The package gpaste (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 496 | 496 | 100.0 | /mnt/stockage/packages/f16/gpaste/po/fr.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 377 | 496 | 76.0 | /mnt/stockage/packages/f16/gpaste/po/fi.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 338 | 496 | 68.1 | /mnt/stockage/packages/f16/gpaste/po/es.po | 
+ | [fr](/f16/language/fr) | 496 | 496 | 100.0 | /mnt/stockage/packages/f16/gpaste/po/fr.po | 
+ | [fi](/f16/language/fi) | 377 | 496 | 76.0 | /mnt/stockage/packages/f16/gpaste/po/fi.po | 
+ | [es](/f16/language/es) | 338 | 496 | 68.1 | /mnt/stockage/packages/f16/gpaste/po/es.po | 
 {.sortable}
 
 

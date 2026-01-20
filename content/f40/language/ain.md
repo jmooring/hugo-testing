@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [appstream]({{< ref "/f40/package/appstream.md" >}}) | 0 | 7011 | 0.0 | Ainu (Japan) <https://hosted.weblate.org/projects/appstream/translations/ain/> | 
+ | [appstream](/f40/package/appstream) | 0 | 7011 | 0.0 | Ainu (Japan) <https://hosted.weblate.org/projects/appstream/translations/ain/> | 
 {.sortable}
 
 

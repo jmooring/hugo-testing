@@ -18,24 +18,24 @@ The package phd2 (version 2.6.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 19652 | 19652 | 100.0 | /mnt/stockage/packages/f33/phd2/locale/zh_TW/messages.po/mnt/stockage/packages/f33/phd2/locale/zh_TW/wxstd.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 19298 | 19633 | 98.3 | /mnt/stockage/packages/f33/phd2/locale/pl_PL/messages.po/mnt/stockage/packages/f33/phd2/locale/pl_PL/wxstd.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 11643 | 11970 | 97.3 | /mnt/stockage/packages/f33/phd2/locale/pt_BR/messages.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 18863 | 19631 | 96.1 | /mnt/stockage/packages/f33/phd2/locale/fr_FR/messages.po/mnt/stockage/packages/f33/phd2/locale/fr_FR/wxstd.po | 
- | [kr]({{< ref "/f33/language/kr.md" >}}) | 11213 | 11970 | 93.7 | /mnt/stockage/packages/f33/phd2/locale/ko_KR/messages.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 28929 | 31622 | 91.5 | /mnt/stockage/packages/f33/phd2/locale/gl_ES/messages.po/mnt/stockage/packages/f33/phd2/locale/es_ES/messages.po/mnt/stockage/packages/f33/phd2/locale/es_ES/wxstd.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 17512 | 19631 | 89.2 | /mnt/stockage/packages/f33/phd2/locale/zh_CN/messages.po/mnt/stockage/packages/f33/phd2/locale/zh_CN/wxstd.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 16518 | 19631 | 84.1 | /mnt/stockage/packages/f33/phd2/locale/de_DE/messages.po/mnt/stockage/packages/f33/phd2/locale/de_DE/wxstd.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 15603 | 19631 | 79.5 | /mnt/stockage/packages/f33/phd2/locale/ru_RU/messages.po/mnt/stockage/packages/f33/phd2/locale/ru_RU/wxstd.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 5799 | 7682 | 75.5 | /mnt/stockage/packages/f33/phd2/locale/ko_KR/wxstd.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 14835 | 19665 | 75.4 | /mnt/stockage/packages/f33/phd2/locale/ca_ES/messages.po/mnt/stockage/packages/f33/phd2/locale/ca_ES/wxstd.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 13234 | 19652 | 67.3 | /mnt/stockage/packages/f33/phd2/locale/it_IT/messages.po/mnt/stockage/packages/f33/phd2/locale/it_IT/wxstd.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 10964 | 19631 | 55.9 | /mnt/stockage/packages/f33/phd2/locale/ja_JP/messages.po/mnt/stockage/packages/f33/phd2/locale/ja_JP/wxstd.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 8279 | 19710 | 42.0 | /mnt/stockage/packages/f33/phd2/locale/uk_UA/messages.po/mnt/stockage/packages/f33/phd2/locale/uk_UA/wxstd.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 4833 | 11970 | 40.4 | /mnt/stockage/packages/f33/phd2/locale/ro_RO/messages.po | 
- | [ar_LY]({{< ref "/f33/language/ar_LY.md" >}}) | 3641 | 11970 | 30.4 | /mnt/stockage/packages/f33/phd2/locale/ar_LY/messages.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 2854 | 11970 | 23.8 | /mnt/stockage/packages/f33/phd2/locale/nb_NO/messages.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 1783 | 7682 | 23.2 | /mnt/stockage/packages/f33/phd2/locale/ar_LY/wxstd.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 19652 | 19652 | 100.0 | /mnt/stockage/packages/f33/phd2/locale/zh_TW/messages.po/mnt/stockage/packages/f33/phd2/locale/zh_TW/wxstd.po | 
+ | [pl](/f33/language/pl) | 19298 | 19633 | 98.3 | /mnt/stockage/packages/f33/phd2/locale/pl_PL/messages.po/mnt/stockage/packages/f33/phd2/locale/pl_PL/wxstd.po | 
+ | [pt_BR](/f33/language/pt_BR) | 11643 | 11970 | 97.3 | /mnt/stockage/packages/f33/phd2/locale/pt_BR/messages.po | 
+ | [fr](/f33/language/fr) | 18863 | 19631 | 96.1 | /mnt/stockage/packages/f33/phd2/locale/fr_FR/messages.po/mnt/stockage/packages/f33/phd2/locale/fr_FR/wxstd.po | 
+ | [kr](/f33/language/kr) | 11213 | 11970 | 93.7 | /mnt/stockage/packages/f33/phd2/locale/ko_KR/messages.po | 
+ | [es](/f33/language/es) | 28929 | 31622 | 91.5 | /mnt/stockage/packages/f33/phd2/locale/gl_ES/messages.po/mnt/stockage/packages/f33/phd2/locale/es_ES/messages.po/mnt/stockage/packages/f33/phd2/locale/es_ES/wxstd.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 17512 | 19631 | 89.2 | /mnt/stockage/packages/f33/phd2/locale/zh_CN/messages.po/mnt/stockage/packages/f33/phd2/locale/zh_CN/wxstd.po | 
+ | [de](/f33/language/de) | 16518 | 19631 | 84.1 | /mnt/stockage/packages/f33/phd2/locale/de_DE/messages.po/mnt/stockage/packages/f33/phd2/locale/de_DE/wxstd.po | 
+ | [ru](/f33/language/ru) | 15603 | 19631 | 79.5 | /mnt/stockage/packages/f33/phd2/locale/ru_RU/messages.po/mnt/stockage/packages/f33/phd2/locale/ru_RU/wxstd.po | 
+ | [ko](/f33/language/ko) | 5799 | 7682 | 75.5 | /mnt/stockage/packages/f33/phd2/locale/ko_KR/wxstd.po | 
+ | [ca](/f33/language/ca) | 14835 | 19665 | 75.4 | /mnt/stockage/packages/f33/phd2/locale/ca_ES/messages.po/mnt/stockage/packages/f33/phd2/locale/ca_ES/wxstd.po | 
+ | [it](/f33/language/it) | 13234 | 19652 | 67.3 | /mnt/stockage/packages/f33/phd2/locale/it_IT/messages.po/mnt/stockage/packages/f33/phd2/locale/it_IT/wxstd.po | 
+ | [ja](/f33/language/ja) | 10964 | 19631 | 55.9 | /mnt/stockage/packages/f33/phd2/locale/ja_JP/messages.po/mnt/stockage/packages/f33/phd2/locale/ja_JP/wxstd.po | 
+ | [uk](/f33/language/uk) | 8279 | 19710 | 42.0 | /mnt/stockage/packages/f33/phd2/locale/uk_UA/messages.po/mnt/stockage/packages/f33/phd2/locale/uk_UA/wxstd.po | 
+ | [ro](/f33/language/ro) | 4833 | 11970 | 40.4 | /mnt/stockage/packages/f33/phd2/locale/ro_RO/messages.po | 
+ | [ar_LY](/f33/language/ar_LY) | 3641 | 11970 | 30.4 | /mnt/stockage/packages/f33/phd2/locale/ar_LY/messages.po | 
+ | [nb_NO](/f33/language/nb_NO) | 2854 | 11970 | 23.8 | /mnt/stockage/packages/f33/phd2/locale/nb_NO/messages.po | 
+ | [ar](/f33/language/ar) | 1783 | 7682 | 23.2 | /mnt/stockage/packages/f33/phd2/locale/ar_LY/wxstd.po | 
 {.sortable}
 
 

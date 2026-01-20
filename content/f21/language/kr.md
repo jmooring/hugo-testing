@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f21/package/gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [mingw-gettext]({{< ref "/f21/package/mingw-gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 7 | 674 | 1.0 | http://littlesvr.ca/ostd/ | 
+ | [gettext](/f21/package/gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [mingw-gettext](/f21/package/mingw-gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [isomaster](/f21/package/isomaster) | 7 | 674 | 1.0 | http://littlesvr.ca/ostd/ | 
 {.sortable}
 
 

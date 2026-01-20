@@ -18,68 +18,68 @@ The package kexec-tools (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f17/language/as.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/as.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/bn_IN.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/fr.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/gu.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/hi.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/hr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ja.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ko.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/pa.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ru.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/si.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ta.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/zh_TW.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/bg.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/da.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sr@Latn.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/fi.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/id.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/is.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/ml.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/ms.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/nb.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/pt.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sv.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/uk.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ar.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/bn.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/bs.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/cy.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/el.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/en_GB.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/et.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/fa.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/he.po | 
- | [hy]({{< ref "/f17/language/hy.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/hy.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ka.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ku.po | 
- | [lo]({{< ref "/f17/language/lo.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/lo.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/lv.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/mk.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/mr.po | 
- | [my]({{< ref "/f17/language/my.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/my.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/nl.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/sk.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/sq.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/te.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/tr.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ur.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/vi.po | 
+ | [as](/f17/language/as) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/as.po | 
+ | [bn_IN](/f17/language/bn_IN) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/bn_IN.po | 
+ | [de](/f17/language/de) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/de.po | 
+ | [es](/f17/language/es) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/es.po | 
+ | [fr](/f17/language/fr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/fr.po | 
+ | [gu](/f17/language/gu) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/gu.po | 
+ | [hi](/f17/language/hi) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/hi.po | 
+ | [hr](/f17/language/hr) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/hr.po | 
+ | [it](/f17/language/it) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/it.po | 
+ | [ja](/f17/language/ja) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ja.po | 
+ | [kn](/f17/language/kn) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/kn.po | 
+ | [ko](/f17/language/ko) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ko.po | 
+ | [or](/f17/language/or) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/or.po | 
+ | [pa](/f17/language/pa) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/pa.po | 
+ | [pt_BR](/f17/language/pt_BR) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/pt_BR.po | 
+ | [ru](/f17/language/ru) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ru.po | 
+ | [si](/f17/language/si) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/si.po | 
+ | [ta](/f17/language/ta) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/ta.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 206 | 206 | 100.0 | /mnt/stockage/packages/f17/kexec-tools/zh_TW.po | 
+ | [bg](/f17/language/bg) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/bg.po | 
+ | [ca](/f17/language/ca) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/ca.po | 
+ | [cs](/f17/language/cs) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/cs.po | 
+ | [da](/f17/language/da) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/da.po | 
+ | [error](/f17/language/error) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sr@Latn.po | 
+ | [fi](/f17/language/fi) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/fi.po | 
+ | [hu](/f17/language/hu) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/hu.po | 
+ | [id](/f17/language/id) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/id.po | 
+ | [is](/f17/language/is) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/is.po | 
+ | [ml](/f17/language/ml) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/ml.po | 
+ | [ms](/f17/language/ms) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/ms.po | 
+ | [nb_NO](/f17/language/nb_NO) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/nb.po | 
+ | [pl](/f17/language/pl) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/pl.po | 
+ | [pt](/f17/language/pt) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/pt.po | 
+ | [sl](/f17/language/sl) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sl.po | 
+ | [sr](/f17/language/sr) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sr.po | 
+ | [sv](/f17/language/sv) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/sv.po | 
+ | [uk](/f17/language/uk) | 95 | 206 | 46.1 | /mnt/stockage/packages/f17/kexec-tools/uk.po | 
+ | [ar](/f17/language/ar) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ar.po | 
+ | [bn](/f17/language/bn) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/bn.po | 
+ | [bs](/f17/language/bs) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/bs.po | 
+ | [cy](/f17/language/cy) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/cy.po | 
+ | [el](/f17/language/el) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/el.po | 
+ | [en_GB](/f17/language/en_GB) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/en_GB.po | 
+ | [et](/f17/language/et) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/et.po | 
+ | [fa](/f17/language/fa) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/fa.po | 
+ | [he](/f17/language/he) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/he.po | 
+ | [hy](/f17/language/hy) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/hy.po | 
+ | [ka](/f17/language/ka) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ka.po | 
+ | [ku](/f17/language/ku) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ku.po | 
+ | [lo](/f17/language/lo) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/lo.po | 
+ | [lv](/f17/language/lv) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/lv.po | 
+ | [mk](/f17/language/mk) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/mk.po | 
+ | [mr](/f17/language/mr) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/mr.po | 
+ | [my](/f17/language/my) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/my.po | 
+ | [nl](/f17/language/nl) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/nl.po | 
+ | [sk](/f17/language/sk) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/sk.po | 
+ | [sq](/f17/language/sq) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/sq.po | 
+ | [te](/f17/language/te) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/te.po | 
+ | [tr](/f17/language/tr) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/tr.po | 
+ | [ur](/f17/language/ur) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/ur.po | 
+ | [vi](/f17/language/vi) | 0 | 132 | 0.0 | /mnt/stockage/packages/f17/kexec-tools/vi.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package denemo (version 2.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 40126 | 40126 | 100.0 | /mnt/stockage/packages/f24/denemo/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 42615 | 42615 | 100.0 | /mnt/stockage/packages/f24/denemo/po/cs.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f24/denemo/po/it.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 41561 | 42615 | 97.5 | /mnt/stockage/packages/f24/denemo/po/zh_CN.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 28428 | 41992 | 67.7 | /mnt/stockage/packages/f24/denemo/po/da.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 19330 | 36684 | 52.7 | /mnt/stockage/packages/f24/denemo/po/fr.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f24/denemo/po/pl.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 4932 | 42480 | 11.6 | /mnt/stockage/packages/f24/denemo/po/ja.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f24/denemo/po/de.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f24/denemo/po/sv.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 0 | 22597 | 0.0 | /mnt/stockage/packages/f24/denemo/po/es.po | 
+ | [ca](/f24/language/ca) | 40126 | 40126 | 100.0 | /mnt/stockage/packages/f24/denemo/po/ca.po | 
+ | [cs](/f24/language/cs) | 42615 | 42615 | 100.0 | /mnt/stockage/packages/f24/denemo/po/cs.po | 
+ | [it](/f24/language/it) | 31156 | 31156 | 100.0 | /mnt/stockage/packages/f24/denemo/po/it.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 41561 | 42615 | 97.5 | /mnt/stockage/packages/f24/denemo/po/zh_CN.po | 
+ | [da](/f24/language/da) | 28428 | 41992 | 67.7 | /mnt/stockage/packages/f24/denemo/po/da.po | 
+ | [fr](/f24/language/fr) | 19330 | 36684 | 52.7 | /mnt/stockage/packages/f24/denemo/po/fr.po | 
+ | [pl](/f24/language/pl) | 2209 | 14852 | 14.9 | /mnt/stockage/packages/f24/denemo/po/pl.po | 
+ | [ja](/f24/language/ja) | 4932 | 42480 | 11.6 | /mnt/stockage/packages/f24/denemo/po/ja.po | 
+ | [de](/f24/language/de) | 1265 | 14852 | 8.5 | /mnt/stockage/packages/f24/denemo/po/de.po | 
+ | [sv](/f24/language/sv) | 81 | 22597 | 0.4 | /mnt/stockage/packages/f24/denemo/po/sv.po | 
+ | [es](/f24/language/es) | 0 | 22597 | 0.0 | /mnt/stockage/packages/f24/denemo/po/es.po | 
 {.sortable}
 
 

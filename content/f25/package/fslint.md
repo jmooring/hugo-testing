@@ -18,30 +18,30 @@ The package fslint (version 2.46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/ca.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/es.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/fi.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/he.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/ms.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/nl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/ru.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/sv.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/zh_CN.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 383 | 388 | 98.7 | /mnt/stockage/packages/f25/fslint/po/fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 383 | 388 | 98.7 | /mnt/stockage/packages/f25/fslint/po/it.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 383 | 388 | 98.7 | /mnt/stockage/packages/f25/fslint/po/pl.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 358 | 388 | 92.3 | /mnt/stockage/packages/f25/fslint/po/vi.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 349 | 388 | 89.9 | /mnt/stockage/packages/f25/fslint/po/cs.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 341 | 388 | 87.9 | /mnt/stockage/packages/f25/fslint/po/el.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 336 | 388 | 86.6 | /mnt/stockage/packages/f25/fslint/po/tr.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 321 | 388 | 82.7 | /mnt/stockage/packages/f25/fslint/po/ro.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 256 | 388 | 66.0 | /mnt/stockage/packages/f25/fslint/po/hu.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 206 | 388 | 53.1 | /mnt/stockage/packages/f25/fslint/po/pt.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 194 | 388 | 50.0 | /mnt/stockage/packages/f25/fslint/po/ga.po | 
+ | [ca](/f25/language/ca) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/ca.po | 
+ | [da](/f25/language/da) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/da.po | 
+ | [de](/f25/language/de) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/de.po | 
+ | [es](/f25/language/es) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/es.po | 
+ | [fi](/f25/language/fi) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/fi.po | 
+ | [gl](/f25/language/gl) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/gl.po | 
+ | [he](/f25/language/he) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/he.po | 
+ | [ms](/f25/language/ms) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/ms.po | 
+ | [nl](/f25/language/nl) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/nl.po | 
+ | [ru](/f25/language/ru) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/ru.po | 
+ | [sr](/f25/language/sr) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/sr.po | 
+ | [sv](/f25/language/sv) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/sv.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 388 | 388 | 100.0 | /mnt/stockage/packages/f25/fslint/po/zh_CN.po | 
+ | [fr](/f25/language/fr) | 383 | 388 | 98.7 | /mnt/stockage/packages/f25/fslint/po/fr.po | 
+ | [it](/f25/language/it) | 383 | 388 | 98.7 | /mnt/stockage/packages/f25/fslint/po/it.po | 
+ | [pl](/f25/language/pl) | 383 | 388 | 98.7 | /mnt/stockage/packages/f25/fslint/po/pl.po | 
+ | [vi](/f25/language/vi) | 358 | 388 | 92.3 | /mnt/stockage/packages/f25/fslint/po/vi.po | 
+ | [cs](/f25/language/cs) | 349 | 388 | 89.9 | /mnt/stockage/packages/f25/fslint/po/cs.po | 
+ | [el](/f25/language/el) | 341 | 388 | 87.9 | /mnt/stockage/packages/f25/fslint/po/el.po | 
+ | [tr](/f25/language/tr) | 336 | 388 | 86.6 | /mnt/stockage/packages/f25/fslint/po/tr.po | 
+ | [ro](/f25/language/ro) | 321 | 388 | 82.7 | /mnt/stockage/packages/f25/fslint/po/ro.po | 
+ | [hu](/f25/language/hu) | 256 | 388 | 66.0 | /mnt/stockage/packages/f25/fslint/po/hu.po | 
+ | [pt](/f25/language/pt) | 206 | 388 | 53.1 | /mnt/stockage/packages/f25/fslint/po/pt.po | 
+ | [ga](/f25/language/ga) | 194 | 388 | 50.0 | /mnt/stockage/packages/f25/fslint/po/ga.po | 
 {.sortable}
 
 

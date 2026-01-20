@@ -18,15 +18,15 @@ The package pcsxr (version 1.9.94):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 2560 | 2595 | 98.7 | /mnt/stockage/packages/f32/pcsxr/gui/po/es.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 2297 | 2595 | 88.5 | /mnt/stockage/packages/f32/pcsxr/gui/po/ko_KR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 2152 | 2595 | 82.9 | /mnt/stockage/packages/f32/pcsxr/gui/po/ru.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 2101 | 2595 | 81.0 | /mnt/stockage/packages/f32/pcsxr/gui/po/zh_CN.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1965 | 2595 | 75.7 | /mnt/stockage/packages/f32/pcsxr/gui/po/hu.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1833 | 2595 | 70.6 | /mnt/stockage/packages/f32/pcsxr/gui/po/zh_TW.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1625 | 2595 | 62.6 | /mnt/stockage/packages/f32/pcsxr/gui/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1503 | 2595 | 57.9 | /mnt/stockage/packages/f32/pcsxr/gui/po/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1353 | 2595 | 52.1 | /mnt/stockage/packages/f32/pcsxr/gui/po/pt_BR.po | 
+ | [es](/f32/language/es) | 2560 | 2595 | 98.7 | /mnt/stockage/packages/f32/pcsxr/gui/po/es.po | 
+ | [ko](/f32/language/ko) | 2297 | 2595 | 88.5 | /mnt/stockage/packages/f32/pcsxr/gui/po/ko_KR.po | 
+ | [ru](/f32/language/ru) | 2152 | 2595 | 82.9 | /mnt/stockage/packages/f32/pcsxr/gui/po/ru.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 2101 | 2595 | 81.0 | /mnt/stockage/packages/f32/pcsxr/gui/po/zh_CN.po | 
+ | [hu](/f32/language/hu) | 1965 | 2595 | 75.7 | /mnt/stockage/packages/f32/pcsxr/gui/po/hu.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1833 | 2595 | 70.6 | /mnt/stockage/packages/f32/pcsxr/gui/po/zh_TW.po | 
+ | [fr](/f32/language/fr) | 1625 | 2595 | 62.6 | /mnt/stockage/packages/f32/pcsxr/gui/po/fr.po | 
+ | [it](/f32/language/it) | 1503 | 2595 | 57.9 | /mnt/stockage/packages/f32/pcsxr/gui/po/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1353 | 2595 | 52.1 | /mnt/stockage/packages/f32/pcsxr/gui/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package gdbm (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/fi.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/ja.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/pl.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/uk.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 447 | 483 | 92.5 | /mnt/stockage/packages/f17/gdbm/po/de.po | 
+ | [fi](/f17/language/fi) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/fi.po | 
+ | [ja](/f17/language/ja) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/ja.po | 
+ | [pl](/f17/language/pl) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/pl.po | 
+ | [uk](/f17/language/uk) | 475 | 483 | 98.3 | /mnt/stockage/packages/f17/gdbm/po/uk.po | 
+ | [de](/f17/language/de) | 447 | 483 | 92.5 | /mnt/stockage/packages/f17/gdbm/po/de.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package cockpit-files (version 34):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/ar.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/es.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/ka.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/ko.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/pt_BR.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/zh_TW.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 497 | 557 | 89.2 | /mnt/stockage/packages/f43/cockpit-files/po/ja.po | 
+ | [ar](/f43/language/ar) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/ar.po | 
+ | [cs](/f43/language/cs) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/cs.po | 
+ | [de](/f43/language/de) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/de.po | 
+ | [es](/f43/language/es) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/es.po | 
+ | [fi](/f43/language/fi) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/fi.po | 
+ | [fr](/f43/language/fr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/fr.po | 
+ | [it](/f43/language/it) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/it.po | 
+ | [ka](/f43/language/ka) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/ka.po | 
+ | [ko](/f43/language/ko) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/ko.po | 
+ | [pt_BR](/f43/language/pt_BR) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/pt_BR.po | 
+ | [sv](/f43/language/sv) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/sv.po | 
+ | [tr](/f43/language/tr) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/tr.po | 
+ | [uk](/f43/language/uk) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 557 | 557 | 100.0 | /mnt/stockage/packages/f43/cockpit-files/po/zh_TW.po | 
+ | [ja](/f43/language/ja) | 497 | 557 | 89.2 | /mnt/stockage/packages/f43/cockpit-files/po/ja.po | 
 {.sortable}
 
 

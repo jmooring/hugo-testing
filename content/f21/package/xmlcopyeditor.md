@@ -18,8 +18,8 @@ The package xmlcopyeditor (version 1.2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f21/language/it.md" >}}) | 1321 | 1355 | 97.5 | /mnt/stockage/packages/f21/xmlcopyeditor/src/po/it/messages.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 0 | 1354 | 0.0 | /mnt/stockage/packages/f21/xmlcopyeditor/src/po/en_us/messages.po | 
+ | [it](/f21/language/it) | 1321 | 1355 | 97.5 | /mnt/stockage/packages/f21/xmlcopyeditor/src/po/it/messages.po | 
+ | [en_US](/f21/language/en_US) | 0 | 1354 | 0.0 | /mnt/stockage/packages/f21/xmlcopyeditor/src/po/en_us/messages.po | 
 {.sortable}
 
 

@@ -18,53 +18,53 @@ The package dconf (version 0.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f18/language/as.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/as.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/bg.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/bn_IN.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ca@valencia.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/en_GB.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/eo.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/et.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/fa.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/he.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/hi.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/lt.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/lv.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ml.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/mr.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/nb.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sr@latin.po/mnt/stockage/packages/f18/dconf/po/sr.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sv.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/te.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/th.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f18/dconf/po/zh_HK.po/mnt/stockage/packages/f18/dconf/po/zh_TW.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 71 | 184 | 38.6 | /mnt/stockage/packages/f18/dconf/po/ar.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 71 | 184 | 38.6 | /mnt/stockage/packages/f18/dconf/po/vi.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 62 | 184 | 33.7 | /mnt/stockage/packages/f18/dconf/po/fi.po | 
+ | [as](/f18/language/as) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/as.po | 
+ | [be](/f18/language/be) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/be.po | 
+ | [bg](/f18/language/bg) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/bg.po | 
+ | [bn](/f18/language/bn) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/bn_IN.po | 
+ | [ca](/f18/language/ca) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ca@valencia.po | 
+ | [cs](/f18/language/cs) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/cs.po | 
+ | [da](/f18/language/da) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/da.po | 
+ | [de](/f18/language/de) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/de.po | 
+ | [el](/f18/language/el) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/en_GB.po | 
+ | [eo](/f18/language/eo) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/eo.po | 
+ | [es](/f18/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/es.po | 
+ | [et](/f18/language/et) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/et.po | 
+ | [fa](/f18/language/fa) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/fa.po | 
+ | [fr](/f18/language/fr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/fr.po | 
+ | [gl](/f18/language/gl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/gl.po | 
+ | [he](/f18/language/he) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/he.po | 
+ | [hi](/f18/language/hi) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/hi.po | 
+ | [hu](/f18/language/hu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/hu.po | 
+ | [id](/f18/language/id) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/id.po | 
+ | [it](/f18/language/it) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/it.po | 
+ | [ja](/f18/language/ja) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ja.po | 
+ | [ko](/f18/language/ko) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ko.po | 
+ | [lt](/f18/language/lt) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/lt.po | 
+ | [lv](/f18/language/lv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/lv.po | 
+ | [ml](/f18/language/ml) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ml.po | 
+ | [mr](/f18/language/mr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/mr.po | 
+ | [nb_NO](/f18/language/nb_NO) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/nb.po | 
+ | [pa](/f18/language/pa) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pa.po | 
+ | [pl](/f18/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pl.po | 
+ | [pt](/f18/language/pt) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ru.po | 
+ | [sk](/f18/language/sk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sk.po | 
+ | [sl](/f18/language/sl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sl.po | 
+ | [sr](/f18/language/sr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sr@latin.po/mnt/stockage/packages/f18/dconf/po/sr.po | 
+ | [sv](/f18/language/sv) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/sv.po | 
+ | [ta](/f18/language/ta) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/ta.po | 
+ | [te](/f18/language/te) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/te.po | 
+ | [th](/f18/language/th) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/th.po | 
+ | [uk](/f18/language/uk) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 184 | 184 | 100.0 | /mnt/stockage/packages/f18/dconf/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 368 | 368 | 100.0 | /mnt/stockage/packages/f18/dconf/po/zh_HK.po/mnt/stockage/packages/f18/dconf/po/zh_TW.po | 
+ | [ar](/f18/language/ar) | 71 | 184 | 38.6 | /mnt/stockage/packages/f18/dconf/po/ar.po | 
+ | [vi](/f18/language/vi) | 71 | 184 | 38.6 | /mnt/stockage/packages/f18/dconf/po/vi.po | 
+ | [fi](/f18/language/fi) | 62 | 184 | 33.7 | /mnt/stockage/packages/f18/dconf/po/fi.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package readahead (version 1.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/ar.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/fi.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/ja.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/pt_BR.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/sr@latin.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/ta.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 75 | 129 | 58.1 | /mnt/stockage/packages/f14/readahead/po/bg.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 75 | 129 | 58.1 | /mnt/stockage/packages/f14/readahead/po/ca.po | 
+ | [ar](/f14/language/ar) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/ar.po | 
+ | [de](/f14/language/de) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/de.po | 
+ | [es](/f14/language/es) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/es.po | 
+ | [fi](/f14/language/fi) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/fi.po | 
+ | [it](/f14/language/it) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/it.po | 
+ | [ja](/f14/language/ja) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/ja.po | 
+ | [nl](/f14/language/nl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/nl.po | 
+ | [pl](/f14/language/pl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/pt_BR.po | 
+ | [sr](/f14/language/sr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/sr@latin.po | 
+ | [ta](/f14/language/ta) | 129 | 129 | 100.0 | /mnt/stockage/packages/f14/readahead/po/ta.po | 
+ | [bg](/f14/language/bg) | 75 | 129 | 58.1 | /mnt/stockage/packages/f14/readahead/po/bg.po | 
+ | [ca](/f14/language/ca) | 75 | 129 | 58.1 | /mnt/stockage/packages/f14/readahead/po/ca.po | 
 {.sortable}
 
 

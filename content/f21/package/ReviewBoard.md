@@ -18,12 +18,12 @@ The package ReviewBoard (version 2.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f21/language/it.md" >}}) | 6550 | 6647 | 98.5 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/it_IT/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/it_IT/LC_MESSAGES/djangojs.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 2236 | 6643 | 33.7 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/zh_TW/LC_MESSAGES/djangojs.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 714 | 6643 | 10.7 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/pt_BR/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/pt_BR/LC_MESSAGES/djangojs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 142 | 6643 | 2.1 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/es/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/es/LC_MESSAGES/djangojs.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 0 | 6643 | 0.0 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/en/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/en/LC_MESSAGES/djangojs.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 0 | 6643 | 0.0 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/ko_KR/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/ko_KR/LC_MESSAGES/djangojs.po | 
+ | [it](/f21/language/it) | 6550 | 6647 | 98.5 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/it_IT/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/it_IT/LC_MESSAGES/djangojs.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 2236 | 6643 | 33.7 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/zh_TW/LC_MESSAGES/djangojs.po | 
+ | [pt_BR](/f21/language/pt_BR) | 714 | 6643 | 10.7 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/pt_BR/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/pt_BR/LC_MESSAGES/djangojs.po | 
+ | [es](/f21/language/es) | 142 | 6643 | 2.1 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/es/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/es/LC_MESSAGES/djangojs.po | 
+ | [en](/f21/language/en) | 0 | 6643 | 0.0 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/en/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/en/LC_MESSAGES/djangojs.po | 
+ | [ko](/f21/language/ko) | 0 | 6643 | 0.0 | /mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/ko_KR/LC_MESSAGES/django.po/mnt/stockage/packages/f21/ReviewBoard/reviewboard/locale/ko_KR/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package giac (version 2.0.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 8084 | 9252 | 87.4 | /mnt/stockage/packages/f42/giac/po/fr.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 5343 | 9252 | 57.7 | /mnt/stockage/packages/f42/giac/po/es.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 4655 | 9252 | 50.3 | /mnt/stockage/packages/f42/giac/po/de.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 4179 | 9252 | 45.2 | /mnt/stockage/packages/f42/giac/po/pt.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 4179 | 9252 | 45.2 | /mnt/stockage/packages/f42/giac/po/zh.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 3181 | 9252 | 34.4 | /mnt/stockage/packages/f42/giac/po/el.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 2815 | 9252 | 30.4 | /mnt/stockage/packages/f42/giac/po/en.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 0 | 9252 | 0.0 | /mnt/stockage/packages/f42/giac/po/it.po | 
+ | [fr](/f42/language/fr) | 8084 | 9252 | 87.4 | /mnt/stockage/packages/f42/giac/po/fr.po | 
+ | [es](/f42/language/es) | 5343 | 9252 | 57.7 | /mnt/stockage/packages/f42/giac/po/es.po | 
+ | [de](/f42/language/de) | 4655 | 9252 | 50.3 | /mnt/stockage/packages/f42/giac/po/de.po | 
+ | [pt](/f42/language/pt) | 4179 | 9252 | 45.2 | /mnt/stockage/packages/f42/giac/po/pt.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 4179 | 9252 | 45.2 | /mnt/stockage/packages/f42/giac/po/zh.po | 
+ | [el](/f42/language/el) | 3181 | 9252 | 34.4 | /mnt/stockage/packages/f42/giac/po/el.po | 
+ | [en](/f42/language/en) | 2815 | 9252 | 30.4 | /mnt/stockage/packages/f42/giac/po/en.po | 
+ | [it](/f42/language/it) | 0 | 9252 | 0.0 | /mnt/stockage/packages/f42/giac/po/it.po | 
 {.sortable}
 
 

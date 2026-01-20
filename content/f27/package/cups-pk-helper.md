@@ -18,42 +18,42 @@ The package cups-pk-helper (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/de.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/en.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/en_GB.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/eo.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/es.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/eu.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/fr.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/gl.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/hr.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/hu.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ia.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/id.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ja.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ko.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/lv.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/nl.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/oc.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sr.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/tr.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/uk.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/zh_TW.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 136 | 149 | 91.3 | /mnt/stockage/packages/f27/cups-pk-helper/po/kk.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 90 | 149 | 60.4 | /mnt/stockage/packages/f27/cups-pk-helper/po/ka.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 30 | 149 | 20.1 | /mnt/stockage/packages/f27/cups-pk-helper/po/fi.po | 
+ | [ca](/f27/language/ca) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ca.po | 
+ | [cs](/f27/language/cs) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/cs.po | 
+ | [da](/f27/language/da) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/da.po | 
+ | [de](/f27/language/de) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/de.po | 
+ | [en](/f27/language/en) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/en.po | 
+ | [en_GB](/f27/language/en_GB) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/en_GB.po | 
+ | [eo](/f27/language/eo) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/eo.po | 
+ | [es](/f27/language/es) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/es.po | 
+ | [eu](/f27/language/eu) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/eu.po | 
+ | [fr](/f27/language/fr) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/fr.po | 
+ | [gl](/f27/language/gl) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/gl.po | 
+ | [hr](/f27/language/hr) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/hr.po | 
+ | [hu](/f27/language/hu) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/hu.po | 
+ | [ia](/f27/language/ia) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ia.po | 
+ | [id](/f27/language/id) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/id.po | 
+ | [it](/f27/language/it) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/it.po | 
+ | [ja](/f27/language/ja) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ja.po | 
+ | [ko](/f27/language/ko) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ko.po | 
+ | [lv](/f27/language/lv) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/lv.po | 
+ | [nl](/f27/language/nl) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/nl.po | 
+ | [oc](/f27/language/oc) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/oc.po | 
+ | [pl](/f27/language/pl) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/pl.po | 
+ | [pt](/f27/language/pt) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/ru.po | 
+ | [sk](/f27/language/sk) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sk.po | 
+ | [sl](/f27/language/sl) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sl.po | 
+ | [sr](/f27/language/sr) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sr.po | 
+ | [sv](/f27/language/sv) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/sv.po | 
+ | [tr](/f27/language/tr) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/tr.po | 
+ | [uk](/f27/language/uk) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/uk.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 149 | 149 | 100.0 | /mnt/stockage/packages/f27/cups-pk-helper/po/zh_TW.po | 
+ | [kk](/f27/language/kk) | 136 | 149 | 91.3 | /mnt/stockage/packages/f27/cups-pk-helper/po/kk.po | 
+ | [ka](/f27/language/ka) | 90 | 149 | 60.4 | /mnt/stockage/packages/f27/cups-pk-helper/po/ka.po | 
+ | [fi](/f27/language/fi) | 30 | 149 | 20.1 | /mnt/stockage/packages/f27/cups-pk-helper/po/fi.po | 
 {.sortable}
 
 

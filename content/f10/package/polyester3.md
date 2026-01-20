@@ -18,8 +18,8 @@ The package polyester3 (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 4471 | 4473 | 100.0 | /mnt/stockage/packages/f10/polyester3/po/pl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 111 | 4376 | 2.5 | /mnt/stockage/packages/f10/polyester3/po/it.po | 
+ | [pl](/f10/language/pl) | 4471 | 4473 | 100.0 | /mnt/stockage/packages/f10/polyester3/po/pl.po | 
+ | [it](/f10/language/it) | 111 | 4376 | 2.5 | /mnt/stockage/packages/f10/polyester3/po/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package verbiste (version 0.1.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/verbiste/po/fr.po | 
+ | [fr](/f10/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f10/verbiste/po/fr.po | 
 {.sortable}
 
 

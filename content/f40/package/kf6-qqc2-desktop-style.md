@@ -18,42 +18,42 @@ The package kf6-qqc2-desktop-style (version 6.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ar/qqc2desktopstyle_qt.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ca/qqc2desktopstyle_qt.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ca@valencia/qqc2desktopstyle_qt.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/cs/qqc2desktopstyle_qt.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/en_GB/qqc2desktopstyle_qt.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/eo/qqc2desktopstyle_qt.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/es/qqc2desktopstyle_qt.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/eu/qqc2desktopstyle_qt.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/fi/qqc2desktopstyle_qt.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/fr/qqc2desktopstyle_qt.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/gl/qqc2desktopstyle_qt.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/he/qqc2desktopstyle_qt.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/hi/qqc2desktopstyle_qt.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/hu/qqc2desktopstyle_qt.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ia/qqc2desktopstyle_qt.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/it/qqc2desktopstyle_qt.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ka/qqc2desktopstyle_qt.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ko/qqc2desktopstyle_qt.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/lv/qqc2desktopstyle_qt.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/nb/qqc2desktopstyle_qt.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/nl/qqc2desktopstyle_qt.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/nn/qqc2desktopstyle_qt.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/pl/qqc2desktopstyle_qt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ro/qqc2desktopstyle_qt.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ru/qqc2desktopstyle_qt.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sa/qqc2desktopstyle_qt.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sl/qqc2desktopstyle_qt.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sv/qqc2desktopstyle_qt.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ta/qqc2desktopstyle_qt.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/tr/qqc2desktopstyle_qt.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/uk/qqc2desktopstyle_qt.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/zh_CN/qqc2desktopstyle_qt.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/zh_TW/qqc2desktopstyle_qt.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 5 | 22 | 22.7 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sk/qqc2desktopstyle_qt.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ast/qqc2desktopstyle_qt.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/de/qqc2desktopstyle_qt.po | 
+ | [ar](/f40/language/ar) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ar/qqc2desktopstyle_qt.po | 
+ | [ca](/f40/language/ca) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ca/qqc2desktopstyle_qt.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ca@valencia/qqc2desktopstyle_qt.po | 
+ | [cs](/f40/language/cs) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/cs/qqc2desktopstyle_qt.po | 
+ | [en_GB](/f40/language/en_GB) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/en_GB/qqc2desktopstyle_qt.po | 
+ | [eo](/f40/language/eo) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/eo/qqc2desktopstyle_qt.po | 
+ | [es](/f40/language/es) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/es/qqc2desktopstyle_qt.po | 
+ | [eu](/f40/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/eu/qqc2desktopstyle_qt.po | 
+ | [fi](/f40/language/fi) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/fi/qqc2desktopstyle_qt.po | 
+ | [fr](/f40/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/fr/qqc2desktopstyle_qt.po | 
+ | [gl](/f40/language/gl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/gl/qqc2desktopstyle_qt.po | 
+ | [he](/f40/language/he) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/he/qqc2desktopstyle_qt.po | 
+ | [hi](/f40/language/hi) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/hi/qqc2desktopstyle_qt.po | 
+ | [hu](/f40/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/hu/qqc2desktopstyle_qt.po | 
+ | [ia](/f40/language/ia) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ia/qqc2desktopstyle_qt.po | 
+ | [it](/f40/language/it) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/it/qqc2desktopstyle_qt.po | 
+ | [ka](/f40/language/ka) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ka/qqc2desktopstyle_qt.po | 
+ | [ko](/f40/language/ko) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ko/qqc2desktopstyle_qt.po | 
+ | [lv](/f40/language/lv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/lv/qqc2desktopstyle_qt.po | 
+ | [nb_NO](/f40/language/nb_NO) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/nb/qqc2desktopstyle_qt.po | 
+ | [nl](/f40/language/nl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/nl/qqc2desktopstyle_qt.po | 
+ | [nn](/f40/language/nn) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/nn/qqc2desktopstyle_qt.po | 
+ | [pl](/f40/language/pl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/pl/qqc2desktopstyle_qt.po | 
+ | [ro](/f40/language/ro) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ro/qqc2desktopstyle_qt.po | 
+ | [ru](/f40/language/ru) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ru/qqc2desktopstyle_qt.po | 
+ | [sa](/f40/language/sa) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sa/qqc2desktopstyle_qt.po | 
+ | [sl](/f40/language/sl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sl/qqc2desktopstyle_qt.po | 
+ | [sv](/f40/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sv/qqc2desktopstyle_qt.po | 
+ | [ta](/f40/language/ta) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ta/qqc2desktopstyle_qt.po | 
+ | [tr](/f40/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/tr/qqc2desktopstyle_qt.po | 
+ | [uk](/f40/language/uk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/uk/qqc2desktopstyle_qt.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/zh_CN/qqc2desktopstyle_qt.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 22 | 22 | 100.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/zh_TW/qqc2desktopstyle_qt.po | 
+ | [sk](/f40/language/sk) | 5 | 22 | 22.7 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/sk/qqc2desktopstyle_qt.po | 
+ | [ast](/f40/language/ast) | 0 | 22 | 0.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/ast/qqc2desktopstyle_qt.po | 
+ | [de](/f40/language/de) | 0 | 22 | 0.0 | /mnt/stockage/packages/f40/kf6-qqc2-desktop-style/poqm/de/qqc2desktopstyle_qt.po | 
 {.sortable}
 
 

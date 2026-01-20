@@ -18,10 +18,10 @@ The package crosswords (version 0.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f38/language/es.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f38/crosswords/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f38/crosswords/po/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 941 | 941 | 100.0 | /mnt/stockage/packages/f38/crosswords/po/nl.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 940 | 941 | 99.9 | /mnt/stockage/packages/f38/crosswords/po/it.po | 
+ | [es](/f38/language/es) | 924 | 924 | 100.0 | /mnt/stockage/packages/f38/crosswords/po/es.po | 
+ | [fr](/f38/language/fr) | 941 | 941 | 100.0 | /mnt/stockage/packages/f38/crosswords/po/fr.po | 
+ | [nl](/f38/language/nl) | 941 | 941 | 100.0 | /mnt/stockage/packages/f38/crosswords/po/nl.po | 
+ | [it](/f38/language/it) | 940 | 941 | 99.9 | /mnt/stockage/packages/f38/crosswords/po/it.po | 
 {.sortable}
 
 

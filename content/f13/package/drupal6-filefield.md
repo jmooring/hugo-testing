@@ -18,17 +18,17 @@ The package drupal6-filefield (version 6.x.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1004 | 1004 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/da.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/fr.po | 
- | [fr_CA]({{< ref "/f13/language/fr_CA.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/fr-ca.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/hu.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/filefield_meta/translations/ja.po/mnt/stockage/packages/f13/drupal6-filefield/translations/ja.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/pt-br.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 878 | 878 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/sv.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/uk.po/mnt/stockage/packages/f13/drupal6-filefield/translations/uk-ua.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 622 | 1013 | 61.4 | /mnt/stockage/packages/f13/drupal6-filefield/filefield_meta/translations/de.po/mnt/stockage/packages/f13/drupal6-filefield/translations/de.po | 
+ | [cs](/f13/language/cs) | 1004 | 1004 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/cs.po | 
+ | [da](/f13/language/da) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/da.po | 
+ | [fr](/f13/language/fr) | 898 | 898 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/fr.po | 
+ | [fr_CA](/f13/language/fr_CA) | 898 | 898 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/fr-ca.po | 
+ | [hu](/f13/language/hu) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/hu.po | 
+ | [ja](/f13/language/ja) | 542 | 542 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/filefield_meta/translations/ja.po/mnt/stockage/packages/f13/drupal6-filefield/translations/ja.po | 
+ | [nl](/f13/language/nl) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 898 | 898 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/pt-br.po | 
+ | [sv](/f13/language/sv) | 878 | 878 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/sv.po | 
+ | [uk](/f13/language/uk) | 896 | 896 | 100.0 | /mnt/stockage/packages/f13/drupal6-filefield/translations/uk.po/mnt/stockage/packages/f13/drupal6-filefield/translations/uk-ua.po | 
+ | [de](/f13/language/de) | 622 | 1013 | 61.4 | /mnt/stockage/packages/f13/drupal6-filefield/filefield_meta/translations/de.po/mnt/stockage/packages/f13/drupal6-filefield/translations/de.po | 
 {.sortable}
 
 

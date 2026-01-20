@@ -18,14 +18,14 @@ The package fldigi (version 4.1.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 7816 | 8190 | 95.4 | /mnt/stockage/packages/f36/fldigi/po/pl.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 7215 | 8190 | 88.1 | /mnt/stockage/packages/f36/fldigi/po/nl.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 5801 | 8190 | 70.8 | /mnt/stockage/packages/f36/fldigi/po/it.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 5061 | 8190 | 61.8 | /mnt/stockage/packages/f36/fldigi/po/ru.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 4396 | 8190 | 53.7 | /mnt/stockage/packages/f36/fldigi/po/es.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 3681 | 8190 | 44.9 | /mnt/stockage/packages/f36/fldigi/po/el.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 3261 | 8190 | 39.8 | /mnt/stockage/packages/f36/fldigi/po/de.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1137 | 8190 | 13.9 | /mnt/stockage/packages/f36/fldigi/po/fr.po | 
+ | [pl](/f36/language/pl) | 7816 | 8190 | 95.4 | /mnt/stockage/packages/f36/fldigi/po/pl.po | 
+ | [nl](/f36/language/nl) | 7215 | 8190 | 88.1 | /mnt/stockage/packages/f36/fldigi/po/nl.po | 
+ | [it](/f36/language/it) | 5801 | 8190 | 70.8 | /mnt/stockage/packages/f36/fldigi/po/it.po | 
+ | [ru](/f36/language/ru) | 5061 | 8190 | 61.8 | /mnt/stockage/packages/f36/fldigi/po/ru.po | 
+ | [es](/f36/language/es) | 4396 | 8190 | 53.7 | /mnt/stockage/packages/f36/fldigi/po/es.po | 
+ | [el](/f36/language/el) | 3681 | 8190 | 44.9 | /mnt/stockage/packages/f36/fldigi/po/el.po | 
+ | [de](/f36/language/de) | 3261 | 8190 | 39.8 | /mnt/stockage/packages/f36/fldigi/po/de.po | 
+ | [fr](/f36/language/fr) | 1137 | 8190 | 13.9 | /mnt/stockage/packages/f36/fldigi/po/fr.po | 
 {.sortable}
 
 

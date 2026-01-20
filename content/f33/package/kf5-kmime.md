@@ -18,56 +18,56 @@ The package kf5-kmime (version 20.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/bg/libkmime5.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/bs/libkmime5.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ca/libkmime5.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ca@valencia/libkmime5.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/cs/libkmime5.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/da/libkmime5.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/de/libkmime5.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/el/libkmime5.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/en_GB/libkmime5.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/es/libkmime5.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/et/libkmime5.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/eu/libkmime5.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/fi/libkmime5.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/fr/libkmime5.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ga/libkmime5.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/gl/libkmime5.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/hu/libkmime5.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ia/libkmime5.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/it/libkmime5.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ja/libkmime5.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/kk/libkmime5.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/km/libkmime5.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ko/libkmime5.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/lt/libkmime5.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/lv/libkmime5.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nb/libkmime5.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nds/libkmime5.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nl/libkmime5.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nn/libkmime5.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pa/libkmime5.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pl/libkmime5.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pt/libkmime5.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pt_BR/libkmime5.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ro/libkmime5.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ru/libkmime5.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sk/libkmime5.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sl/libkmime5.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sr/libkmime5.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sv/libkmime5.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/tr/libkmime5.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/uk/libkmime5.po | 
- | [wa]({{< ref "/f33/language/wa.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/wa/libkmime5.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/zh_CN/libkmime5.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/zh_TW/libkmime5.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 156 | 159 | 98.1 | /mnt/stockage/packages/f33/kf5-kmime/po/fa/libkmime5.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 132 | 159 | 83.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ar/libkmime5.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 7 | 159 | 4.4 | /mnt/stockage/packages/f33/kf5-kmime/po/hi/libkmime5.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 7 | 159 | 4.4 | /mnt/stockage/packages/f33/kf5-kmime/po/mr/libkmime5.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 5 | 159 | 3.1 | /mnt/stockage/packages/f33/kf5-kmime/po/ug/libkmime5.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 2 | 159 | 1.3 | /mnt/stockage/packages/f33/kf5-kmime/po/eo/libkmime5.po | 
+ | [bg](/f33/language/bg) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/bg/libkmime5.po | 
+ | [bs](/f33/language/bs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/bs/libkmime5.po | 
+ | [ca](/f33/language/ca) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ca/libkmime5.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ca@valencia/libkmime5.po | 
+ | [cs](/f33/language/cs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/cs/libkmime5.po | 
+ | [da](/f33/language/da) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/da/libkmime5.po | 
+ | [de](/f33/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/de/libkmime5.po | 
+ | [el](/f33/language/el) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/el/libkmime5.po | 
+ | [en_GB](/f33/language/en_GB) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/en_GB/libkmime5.po | 
+ | [es](/f33/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/es/libkmime5.po | 
+ | [et](/f33/language/et) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/et/libkmime5.po | 
+ | [eu](/f33/language/eu) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/eu/libkmime5.po | 
+ | [fi](/f33/language/fi) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/fi/libkmime5.po | 
+ | [fr](/f33/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/fr/libkmime5.po | 
+ | [ga](/f33/language/ga) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ga/libkmime5.po | 
+ | [gl](/f33/language/gl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/gl/libkmime5.po | 
+ | [hu](/f33/language/hu) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/hu/libkmime5.po | 
+ | [ia](/f33/language/ia) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ia/libkmime5.po | 
+ | [it](/f33/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/it/libkmime5.po | 
+ | [ja](/f33/language/ja) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ja/libkmime5.po | 
+ | [kk](/f33/language/kk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/kk/libkmime5.po | 
+ | [km](/f33/language/km) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/km/libkmime5.po | 
+ | [ko](/f33/language/ko) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ko/libkmime5.po | 
+ | [lt](/f33/language/lt) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/lt/libkmime5.po | 
+ | [lv](/f33/language/lv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/lv/libkmime5.po | 
+ | [nb_NO](/f33/language/nb_NO) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nb/libkmime5.po | 
+ | [nds](/f33/language/nds) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nds/libkmime5.po | 
+ | [nl](/f33/language/nl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nl/libkmime5.po | 
+ | [nn](/f33/language/nn) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/nn/libkmime5.po | 
+ | [pa](/f33/language/pa) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pa/libkmime5.po | 
+ | [pl](/f33/language/pl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pl/libkmime5.po | 
+ | [pt](/f33/language/pt) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pt/libkmime5.po | 
+ | [pt_BR](/f33/language/pt_BR) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/pt_BR/libkmime5.po | 
+ | [ro](/f33/language/ro) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ro/libkmime5.po | 
+ | [ru](/f33/language/ru) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ru/libkmime5.po | 
+ | [sk](/f33/language/sk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sk/libkmime5.po | 
+ | [sl](/f33/language/sl) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sl/libkmime5.po | 
+ | [sr](/f33/language/sr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sr/libkmime5.po | 
+ | [sv](/f33/language/sv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/sv/libkmime5.po | 
+ | [tr](/f33/language/tr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/tr/libkmime5.po | 
+ | [uk](/f33/language/uk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/uk/libkmime5.po | 
+ | [wa](/f33/language/wa) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/wa/libkmime5.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/zh_CN/libkmime5.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 159 | 159 | 100.0 | /mnt/stockage/packages/f33/kf5-kmime/po/zh_TW/libkmime5.po | 
+ | [fa](/f33/language/fa) | 156 | 159 | 98.1 | /mnt/stockage/packages/f33/kf5-kmime/po/fa/libkmime5.po | 
+ | [ar](/f33/language/ar) | 132 | 159 | 83.0 | /mnt/stockage/packages/f33/kf5-kmime/po/ar/libkmime5.po | 
+ | [hi](/f33/language/hi) | 7 | 159 | 4.4 | /mnt/stockage/packages/f33/kf5-kmime/po/hi/libkmime5.po | 
+ | [mr](/f33/language/mr) | 7 | 159 | 4.4 | /mnt/stockage/packages/f33/kf5-kmime/po/mr/libkmime5.po | 
+ | [ug](/f33/language/ug) | 5 | 159 | 3.1 | /mnt/stockage/packages/f33/kf5-kmime/po/ug/libkmime5.po | 
+ | [eo](/f33/language/eo) | 2 | 159 | 1.3 | /mnt/stockage/packages/f33/kf5-kmime/po/eo/libkmime5.po | 
 {.sortable}
 
 

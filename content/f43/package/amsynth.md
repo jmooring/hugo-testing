@@ -18,8 +18,8 @@ The package amsynth (version 1.13.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 638 | 679 | 94.0 | /mnt/stockage/packages/f43/amsynth/po/fr.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 570 | 679 | 83.9 | /mnt/stockage/packages/f43/amsynth/po/de.po | 
+ | [fr](/f43/language/fr) | 638 | 679 | 94.0 | /mnt/stockage/packages/f43/amsynth/po/fr.po | 
+ | [de](/f43/language/de) | 570 | 679 | 83.9 | /mnt/stockage/packages/f43/amsynth/po/de.po | 
 {.sortable}
 
 

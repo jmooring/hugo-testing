@@ -18,10 +18,10 @@ The package photocollage (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/de.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/it.po | 
+ | [cs](/f25/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/cs.po | 
+ | [de](/f25/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/de.po | 
+ | [fr](/f25/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/fr.po | 
+ | [it](/f25/language/it) | 46 | 46 | 100.0 | /mnt/stockage/packages/f25/photocollage/po/it.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package ndisc6 (version 1.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1032 | 1032 | 100.0 | /mnt/stockage/packages/f42/ndisc6/po/fr.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 939 | 1032 | 91.0 | /mnt/stockage/packages/f42/ndisc6/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 939 | 1032 | 91.0 | /mnt/stockage/packages/f42/ndisc6/po/de.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 939 | 1032 | 91.0 | /mnt/stockage/packages/f42/ndisc6/po/sv.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 534 | 1032 | 51.7 | /mnt/stockage/packages/f42/ndisc6/po/en_GB.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 448 | 1032 | 43.4 | /mnt/stockage/packages/f42/ndisc6/po/en.po | 
+ | [fr](/f42/language/fr) | 1032 | 1032 | 100.0 | /mnt/stockage/packages/f42/ndisc6/po/fr.po | 
+ | [cs](/f42/language/cs) | 939 | 1032 | 91.0 | /mnt/stockage/packages/f42/ndisc6/po/cs.po | 
+ | [de](/f42/language/de) | 939 | 1032 | 91.0 | /mnt/stockage/packages/f42/ndisc6/po/de.po | 
+ | [sv](/f42/language/sv) | 939 | 1032 | 91.0 | /mnt/stockage/packages/f42/ndisc6/po/sv.po | 
+ | [en_GB](/f42/language/en_GB) | 534 | 1032 | 51.7 | /mnt/stockage/packages/f42/ndisc6/po/en_GB.po | 
+ | [en](/f42/language/en) | 448 | 1032 | 43.4 | /mnt/stockage/packages/f42/ndisc6/po/en.po | 
 {.sortable}
 
 

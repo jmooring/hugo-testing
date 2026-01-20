@@ -18,45 +18,45 @@ The package kdesdk-thumbnailers (version 19.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/bs/pothumbnail.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ca/pothumbnail.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ca@valencia/pothumbnail.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/cs/pothumbnail.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/da/pothumbnail.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/de/pothumbnail.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/el/pothumbnail.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/en_GB/pothumbnail.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/es/pothumbnail.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/et/pothumbnail.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/eu/pothumbnail.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/fi/pothumbnail.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/fr/pothumbnail.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ga/pothumbnail.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/gl/pothumbnail.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/hu/pothumbnail.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/it/pothumbnail.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/kk/pothumbnail.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ko/pothumbnail.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/lt/pothumbnail.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/mr/pothumbnail.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nb/pothumbnail.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nds/pothumbnail.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nl/pothumbnail.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nn/pothumbnail.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pa/pothumbnail.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pl/pothumbnail.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pt/pothumbnail.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pt_BR/pothumbnail.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ru/pothumbnail.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/sk/pothumbnail.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/sl/pothumbnail.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/sv/pothumbnail.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/tr/pothumbnail.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/uk/pothumbnail.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/zh_CN/pothumbnail.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/zh_TW/pothumbnail.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ja/pothumbnail.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ug/pothumbnail.po | 
+ | [bs](/f32/language/bs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/bs/pothumbnail.po | 
+ | [ca](/f32/language/ca) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ca/pothumbnail.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ca@valencia/pothumbnail.po | 
+ | [cs](/f32/language/cs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/cs/pothumbnail.po | 
+ | [da](/f32/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/da/pothumbnail.po | 
+ | [de](/f32/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/de/pothumbnail.po | 
+ | [el](/f32/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/el/pothumbnail.po | 
+ | [en_GB](/f32/language/en_GB) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/en_GB/pothumbnail.po | 
+ | [es](/f32/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/es/pothumbnail.po | 
+ | [et](/f32/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/et/pothumbnail.po | 
+ | [eu](/f32/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/eu/pothumbnail.po | 
+ | [fi](/f32/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/fi/pothumbnail.po | 
+ | [fr](/f32/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/fr/pothumbnail.po | 
+ | [ga](/f32/language/ga) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ga/pothumbnail.po | 
+ | [gl](/f32/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/gl/pothumbnail.po | 
+ | [hu](/f32/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/hu/pothumbnail.po | 
+ | [it](/f32/language/it) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/it/pothumbnail.po | 
+ | [kk](/f32/language/kk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/kk/pothumbnail.po | 
+ | [ko](/f32/language/ko) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ko/pothumbnail.po | 
+ | [lt](/f32/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/lt/pothumbnail.po | 
+ | [mr](/f32/language/mr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/mr/pothumbnail.po | 
+ | [nb_NO](/f32/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nb/pothumbnail.po | 
+ | [nds](/f32/language/nds) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nds/pothumbnail.po | 
+ | [nl](/f32/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nl/pothumbnail.po | 
+ | [nn](/f32/language/nn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/nn/pothumbnail.po | 
+ | [pa](/f32/language/pa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pa/pothumbnail.po | 
+ | [pl](/f32/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pl/pothumbnail.po | 
+ | [pt](/f32/language/pt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pt/pothumbnail.po | 
+ | [pt_BR](/f32/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/pt_BR/pothumbnail.po | 
+ | [ru](/f32/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ru/pothumbnail.po | 
+ | [sk](/f32/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/sk/pothumbnail.po | 
+ | [sl](/f32/language/sl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/sl/pothumbnail.po | 
+ | [sv](/f32/language/sv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/sv/pothumbnail.po | 
+ | [tr](/f32/language/tr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/tr/pothumbnail.po | 
+ | [uk](/f32/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/uk/pothumbnail.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/zh_CN/pothumbnail.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/zh_TW/pothumbnail.po | 
+ | [ja](/f32/language/ja) | 0 | 4 | 0.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ja/pothumbnail.po | 
+ | [ug](/f32/language/ug) | 0 | 4 | 0.0 | /mnt/stockage/packages/f32/kdesdk-thumbnailers/po/ug/pothumbnail.po | 
 {.sortable}
 
 

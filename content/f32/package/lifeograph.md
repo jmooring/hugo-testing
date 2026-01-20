@@ -18,28 +18,28 @@ The package lifeograph (version 1.5.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1044 | 1044 | 100.0 | /mnt/stockage/packages/f32/lifeograph/po/tr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1031 | 1044 | 98.8 | /mnt/stockage/packages/f32/lifeograph/po/ja.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 981 | 1044 | 94.0 | /mnt/stockage/packages/f32/lifeograph/po/fr.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 976 | 1044 | 93.5 | /mnt/stockage/packages/f32/lifeograph/po/eu.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 964 | 1044 | 92.3 | /mnt/stockage/packages/f32/lifeograph/po/de.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 623 | 1044 | 59.7 | /mnt/stockage/packages/f32/lifeograph/po/gl.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 603 | 1044 | 57.8 | /mnt/stockage/packages/f32/lifeograph/po/si.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 568 | 1044 | 54.4 | /mnt/stockage/packages/f32/lifeograph/po/es.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 522 | 1044 | 50.0 | /mnt/stockage/packages/f32/lifeograph/po/ru.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 480 | 1044 | 46.0 | /mnt/stockage/packages/f32/lifeograph/po/sr.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 473 | 1044 | 45.3 | /mnt/stockage/packages/f32/lifeograph/po/cs.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 435 | 1044 | 41.7 | /mnt/stockage/packages/f32/lifeograph/po/zh_CN.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 371 | 1044 | 35.5 | /mnt/stockage/packages/f32/lifeograph/po/it.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 342 | 1044 | 32.8 | /mnt/stockage/packages/f32/lifeograph/po/hu.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 272 | 1044 | 26.1 | /mnt/stockage/packages/f32/lifeograph/po/pl.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 247 | 1044 | 23.7 | /mnt/stockage/packages/f32/lifeograph/po/nl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 245 | 1044 | 23.5 | /mnt/stockage/packages/f32/lifeograph/po/sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 238 | 1044 | 22.8 | /mnt/stockage/packages/f32/lifeograph/po/uk.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 234 | 1044 | 22.4 | /mnt/stockage/packages/f32/lifeograph/po/ro.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 225 | 1044 | 21.6 | /mnt/stockage/packages/f32/lifeograph/po/ar.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 224 | 1044 | 21.5 | /mnt/stockage/packages/f32/lifeograph/po/pt_BR.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 198 | 1044 | 19.0 | /mnt/stockage/packages/f32/lifeograph/po/he.po | 
+ | [tr](/f32/language/tr) | 1044 | 1044 | 100.0 | /mnt/stockage/packages/f32/lifeograph/po/tr.po | 
+ | [ja](/f32/language/ja) | 1031 | 1044 | 98.8 | /mnt/stockage/packages/f32/lifeograph/po/ja.po | 
+ | [fr](/f32/language/fr) | 981 | 1044 | 94.0 | /mnt/stockage/packages/f32/lifeograph/po/fr.po | 
+ | [eu](/f32/language/eu) | 976 | 1044 | 93.5 | /mnt/stockage/packages/f32/lifeograph/po/eu.po | 
+ | [de](/f32/language/de) | 964 | 1044 | 92.3 | /mnt/stockage/packages/f32/lifeograph/po/de.po | 
+ | [gl](/f32/language/gl) | 623 | 1044 | 59.7 | /mnt/stockage/packages/f32/lifeograph/po/gl.po | 
+ | [si](/f32/language/si) | 603 | 1044 | 57.8 | /mnt/stockage/packages/f32/lifeograph/po/si.po | 
+ | [es](/f32/language/es) | 568 | 1044 | 54.4 | /mnt/stockage/packages/f32/lifeograph/po/es.po | 
+ | [ru](/f32/language/ru) | 522 | 1044 | 50.0 | /mnt/stockage/packages/f32/lifeograph/po/ru.po | 
+ | [sr](/f32/language/sr) | 480 | 1044 | 46.0 | /mnt/stockage/packages/f32/lifeograph/po/sr.po | 
+ | [cs](/f32/language/cs) | 473 | 1044 | 45.3 | /mnt/stockage/packages/f32/lifeograph/po/cs.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 435 | 1044 | 41.7 | /mnt/stockage/packages/f32/lifeograph/po/zh_CN.po | 
+ | [it](/f32/language/it) | 371 | 1044 | 35.5 | /mnt/stockage/packages/f32/lifeograph/po/it.po | 
+ | [hu](/f32/language/hu) | 342 | 1044 | 32.8 | /mnt/stockage/packages/f32/lifeograph/po/hu.po | 
+ | [pl](/f32/language/pl) | 272 | 1044 | 26.1 | /mnt/stockage/packages/f32/lifeograph/po/pl.po | 
+ | [nl](/f32/language/nl) | 247 | 1044 | 23.7 | /mnt/stockage/packages/f32/lifeograph/po/nl.po | 
+ | [sv](/f32/language/sv) | 245 | 1044 | 23.5 | /mnt/stockage/packages/f32/lifeograph/po/sv.po | 
+ | [uk](/f32/language/uk) | 238 | 1044 | 22.8 | /mnt/stockage/packages/f32/lifeograph/po/uk.po | 
+ | [ro](/f32/language/ro) | 234 | 1044 | 22.4 | /mnt/stockage/packages/f32/lifeograph/po/ro.po | 
+ | [ar](/f32/language/ar) | 225 | 1044 | 21.6 | /mnt/stockage/packages/f32/lifeograph/po/ar.po | 
+ | [pt_BR](/f32/language/pt_BR) | 224 | 1044 | 21.5 | /mnt/stockage/packages/f32/lifeograph/po/pt_BR.po | 
+ | [he](/f32/language/he) | 198 | 1044 | 19.0 | /mnt/stockage/packages/f32/lifeograph/po/he.po | 
 {.sortable}
 
 

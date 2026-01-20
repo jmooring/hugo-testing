@@ -18,24 +18,24 @@ The package gnome-applet-timer (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 234 | 242 | 96.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/sv.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 224 | 242 | 92.6 | /mnt/stockage/packages/f7/gnome-applet-timer/po/da.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 224 | 242 | 92.6 | /mnt/stockage/packages/f7/gnome-applet-timer/po/el.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 224 | 242 | 92.6 | /mnt/stockage/packages/f7/gnome-applet-timer/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 211 | 242 | 87.2 | /mnt/stockage/packages/f7/gnome-applet-timer/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 189 | 242 | 78.1 | /mnt/stockage/packages/f7/gnome-applet-timer/po/fi.po | 
- | [eo]({{< ref "/f7/language/eo.md" >}}) | 188 | 242 | 77.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/eo.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 188 | 242 | 77.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/ko.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 170 | 242 | 70.2 | /mnt/stockage/packages/f7/gnome-applet-timer/po/ca.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 144 | 242 | 59.5 | /mnt/stockage/packages/f7/gnome-applet-timer/po/fr.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 142 | 242 | 58.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/tr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 133 | 242 | 55.0 | /mnt/stockage/packages/f7/gnome-applet-timer/po/pl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 119 | 242 | 49.2 | /mnt/stockage/packages/f7/gnome-applet-timer/po/de.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 58 | 242 | 24.0 | /mnt/stockage/packages/f7/gnome-applet-timer/po/eu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 42 | 242 | 17.4 | /mnt/stockage/packages/f7/gnome-applet-timer/po/it.po | 
- | [oc]({{< ref "/f7/language/oc.md" >}}) | 26 | 242 | 10.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/oc.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 13 | 242 | 5.4 | /mnt/stockage/packages/f7/gnome-applet-timer/po/bn.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 13 | 242 | 5.4 | /mnt/stockage/packages/f7/gnome-applet-timer/po/ga.po | 
+ | [sv](/f7/language/sv) | 234 | 242 | 96.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/sv.po | 
+ | [da](/f7/language/da) | 224 | 242 | 92.6 | /mnt/stockage/packages/f7/gnome-applet-timer/po/da.po | 
+ | [el](/f7/language/el) | 224 | 242 | 92.6 | /mnt/stockage/packages/f7/gnome-applet-timer/po/el.po | 
+ | [en_GB](/f7/language/en_GB) | 224 | 242 | 92.6 | /mnt/stockage/packages/f7/gnome-applet-timer/po/en_GB.po | 
+ | [es](/f7/language/es) | 211 | 242 | 87.2 | /mnt/stockage/packages/f7/gnome-applet-timer/po/es.po | 
+ | [fi](/f7/language/fi) | 189 | 242 | 78.1 | /mnt/stockage/packages/f7/gnome-applet-timer/po/fi.po | 
+ | [eo](/f7/language/eo) | 188 | 242 | 77.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/eo.po | 
+ | [ko](/f7/language/ko) | 188 | 242 | 77.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/ko.po | 
+ | [ca](/f7/language/ca) | 170 | 242 | 70.2 | /mnt/stockage/packages/f7/gnome-applet-timer/po/ca.po | 
+ | [fr](/f7/language/fr) | 144 | 242 | 59.5 | /mnt/stockage/packages/f7/gnome-applet-timer/po/fr.po | 
+ | [tr](/f7/language/tr) | 142 | 242 | 58.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/tr.po | 
+ | [pl](/f7/language/pl) | 133 | 242 | 55.0 | /mnt/stockage/packages/f7/gnome-applet-timer/po/pl.po | 
+ | [de](/f7/language/de) | 119 | 242 | 49.2 | /mnt/stockage/packages/f7/gnome-applet-timer/po/de.po | 
+ | [eu](/f7/language/eu) | 58 | 242 | 24.0 | /mnt/stockage/packages/f7/gnome-applet-timer/po/eu.po | 
+ | [it](/f7/language/it) | 42 | 242 | 17.4 | /mnt/stockage/packages/f7/gnome-applet-timer/po/it.po | 
+ | [oc](/f7/language/oc) | 26 | 242 | 10.7 | /mnt/stockage/packages/f7/gnome-applet-timer/po/oc.po | 
+ | [bn](/f7/language/bn) | 13 | 242 | 5.4 | /mnt/stockage/packages/f7/gnome-applet-timer/po/bn.po | 
+ | [ga](/f7/language/ga) | 13 | 242 | 5.4 | /mnt/stockage/packages/f7/gnome-applet-timer/po/ga.po | 
 {.sortable}
 
 

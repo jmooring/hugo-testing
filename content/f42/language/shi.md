@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f42/package/stellarium.md" >}}) | 0 | 63006 | 0.0 | Tachelhit (https://app.transifex.com/stellarium/teams/80998/shi/) | 
+ | [stellarium](/f42/package/stellarium) | 0 | 63006 | 0.0 | Tachelhit (https://app.transifex.com/stellarium/teams/80998/shi/) | 
 {.sortable}
 
 

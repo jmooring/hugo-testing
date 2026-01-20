@@ -18,8 +18,8 @@ The package polyxmass-bin (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f9/language/error.md" >}}) | 7734 | 7734 | 100.0 | /mnt/stockage/packages/f9/polyxmass-bin/po/en@quot.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 5548 | 7734 | 71.7 | /mnt/stockage/packages/f9/polyxmass-bin/po/fr.po | 
+ | [error](/f9/language/error) | 7734 | 7734 | 100.0 | /mnt/stockage/packages/f9/polyxmass-bin/po/en@quot.po | 
+ | [fr](/f9/language/fr) | 5548 | 7734 | 71.7 | /mnt/stockage/packages/f9/polyxmass-bin/po/fr.po | 
 {.sortable}
 
 

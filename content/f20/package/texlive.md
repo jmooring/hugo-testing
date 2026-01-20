@@ -18,23 +18,23 @@ The package texlive (version 2013):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/texmf-dist/doc/support/latex-git-log/po/de.po/mnt/stockage/packages/f20/texlive/translations/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/it.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/sk.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/sr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1178 | 1179 | 99.9 | /mnt/stockage/packages/f20/texlive/translations/nl.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1175 | 1179 | 99.7 | /mnt/stockage/packages/f20/texlive/translations/uk.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1120 | 1179 | 95.0 | /mnt/stockage/packages/f20/texlive/translations/pt_BR.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 953 | 1179 | 80.8 | /mnt/stockage/packages/f20/texlive/translations/vi.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 915 | 1179 | 77.6 | /mnt/stockage/packages/f20/texlive/translations/ja.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 912 | 1179 | 77.4 | /mnt/stockage/packages/f20/texlive/translations/sl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 618 | 1179 | 52.4 | /mnt/stockage/packages/f20/texlive/translations/zh_CN.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 609 | 1179 | 51.7 | /mnt/stockage/packages/f20/texlive/translations/es.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 177 | 1179 | 15.0 | /mnt/stockage/packages/f20/texlive/translations/zh_TW.po | 
+ | [cs](/f20/language/cs) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/cs.po | 
+ | [de](/f20/language/de) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/texmf-dist/doc/support/latex-git-log/po/de.po/mnt/stockage/packages/f20/texlive/translations/de.po | 
+ | [fr](/f20/language/fr) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/fr.po | 
+ | [it](/f20/language/it) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/it.po | 
+ | [pl](/f20/language/pl) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/pl.po | 
+ | [ru](/f20/language/ru) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/ru.po | 
+ | [sk](/f20/language/sk) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/sk.po | 
+ | [sr](/f20/language/sr) | 1179 | 1179 | 100.0 | /mnt/stockage/packages/f20/texlive/translations/sr.po | 
+ | [nl](/f20/language/nl) | 1178 | 1179 | 99.9 | /mnt/stockage/packages/f20/texlive/translations/nl.po | 
+ | [uk](/f20/language/uk) | 1175 | 1179 | 99.7 | /mnt/stockage/packages/f20/texlive/translations/uk.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1120 | 1179 | 95.0 | /mnt/stockage/packages/f20/texlive/translations/pt_BR.po | 
+ | [vi](/f20/language/vi) | 953 | 1179 | 80.8 | /mnt/stockage/packages/f20/texlive/translations/vi.po | 
+ | [ja](/f20/language/ja) | 915 | 1179 | 77.6 | /mnt/stockage/packages/f20/texlive/translations/ja.po | 
+ | [sl](/f20/language/sl) | 912 | 1179 | 77.4 | /mnt/stockage/packages/f20/texlive/translations/sl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 618 | 1179 | 52.4 | /mnt/stockage/packages/f20/texlive/translations/zh_CN.po | 
+ | [es](/f20/language/es) | 609 | 1179 | 51.7 | /mnt/stockage/packages/f20/texlive/translations/es.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 177 | 1179 | 15.0 | /mnt/stockage/packages/f20/texlive/translations/zh_TW.po | 
 {.sortable}
 
 

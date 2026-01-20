@@ -18,59 +18,59 @@ The package kjumpingcube (version 20.08.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/bs/kjumpingcube.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ca/kjumpingcube.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ca@valencia/kjumpingcube.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/da/kjumpingcube.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/de/kjumpingcube.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/el/kjumpingcube.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/en_GB/kjumpingcube.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/es/kjumpingcube.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/et/kjumpingcube.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/fi/kjumpingcube.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/fr/kjumpingcube.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/gl/kjumpingcube.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/id/kjumpingcube.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/it/kjumpingcube.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/kk/kjumpingcube.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ko/kjumpingcube.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nb/kjumpingcube.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nds/kjumpingcube.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nl/kjumpingcube.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nn/kjumpingcube.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pl/kjumpingcube.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pt/kjumpingcube.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pt_BR/kjumpingcube.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ru/kjumpingcube.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sk/kjumpingcube.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sl/kjumpingcube.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sr/kjumpingcube.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sv/kjumpingcube.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/tr/kjumpingcube.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/uk/kjumpingcube.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/zh_CN/kjumpingcube.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/zh_TW/kjumpingcube.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 275 | 412 | 66.7 | /mnt/stockage/packages/f33/kjumpingcube/po/km/kjumpingcube.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 202 | 412 | 49.0 | /mnt/stockage/packages/f33/kjumpingcube/po/hu/kjumpingcube.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 180 | 412 | 43.7 | /mnt/stockage/packages/f33/kjumpingcube/po/cs/kjumpingcube.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 150 | 412 | 36.4 | /mnt/stockage/packages/f33/kjumpingcube/po/ga/kjumpingcube.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/eu/kjumpingcube.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/ja/kjumpingcube.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/lv/kjumpingcube.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/ro/kjumpingcube.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 124 | 412 | 30.1 | /mnt/stockage/packages/f33/kjumpingcube/po/fa/kjumpingcube.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 118 | 412 | 28.6 | /mnt/stockage/packages/f33/kjumpingcube/po/hi/kjumpingcube.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 114 | 412 | 27.7 | /mnt/stockage/packages/f33/kjumpingcube/po/lt/kjumpingcube.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 107 | 412 | 26.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ar/kjumpingcube.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 86 | 412 | 20.9 | /mnt/stockage/packages/f33/kjumpingcube/po/he/kjumpingcube.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 86 | 412 | 20.9 | /mnt/stockage/packages/f33/kjumpingcube/po/hr/kjumpingcube.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 86 | 412 | 20.9 | /mnt/stockage/packages/f33/kjumpingcube/po/is/kjumpingcube.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 82 | 412 | 19.9 | /mnt/stockage/packages/f33/kjumpingcube/po/bg/kjumpingcube.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 53 | 412 | 12.9 | /mnt/stockage/packages/f33/kjumpingcube/po/eo/kjumpingcube.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 41 | 412 | 10.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pa/kjumpingcube.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 40 | 412 | 9.7 | /mnt/stockage/packages/f33/kjumpingcube/po/ug/kjumpingcube.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 35 | 412 | 8.5 | /mnt/stockage/packages/f33/kjumpingcube/po/mr/kjumpingcube.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 2 | 412 | 0.5 | /mnt/stockage/packages/f33/kjumpingcube/po/ml/kjumpingcube.po | 
+ | [bs](/f33/language/bs) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/bs/kjumpingcube.po | 
+ | [ca](/f33/language/ca) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ca/kjumpingcube.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ca@valencia/kjumpingcube.po | 
+ | [da](/f33/language/da) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/da/kjumpingcube.po | 
+ | [de](/f33/language/de) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/de/kjumpingcube.po | 
+ | [el](/f33/language/el) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/el/kjumpingcube.po | 
+ | [en_GB](/f33/language/en_GB) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/en_GB/kjumpingcube.po | 
+ | [es](/f33/language/es) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/es/kjumpingcube.po | 
+ | [et](/f33/language/et) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/et/kjumpingcube.po | 
+ | [fi](/f33/language/fi) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/fi/kjumpingcube.po | 
+ | [fr](/f33/language/fr) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/fr/kjumpingcube.po | 
+ | [gl](/f33/language/gl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/gl/kjumpingcube.po | 
+ | [id](/f33/language/id) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/id/kjumpingcube.po | 
+ | [it](/f33/language/it) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/it/kjumpingcube.po | 
+ | [kk](/f33/language/kk) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/kk/kjumpingcube.po | 
+ | [ko](/f33/language/ko) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ko/kjumpingcube.po | 
+ | [nb_NO](/f33/language/nb_NO) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nb/kjumpingcube.po | 
+ | [nds](/f33/language/nds) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nds/kjumpingcube.po | 
+ | [nl](/f33/language/nl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nl/kjumpingcube.po | 
+ | [nn](/f33/language/nn) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/nn/kjumpingcube.po | 
+ | [pl](/f33/language/pl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pl/kjumpingcube.po | 
+ | [pt](/f33/language/pt) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pt/kjumpingcube.po | 
+ | [pt_BR](/f33/language/pt_BR) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pt_BR/kjumpingcube.po | 
+ | [ru](/f33/language/ru) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ru/kjumpingcube.po | 
+ | [sk](/f33/language/sk) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sk/kjumpingcube.po | 
+ | [sl](/f33/language/sl) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sl/kjumpingcube.po | 
+ | [sr](/f33/language/sr) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sr/kjumpingcube.po | 
+ | [sv](/f33/language/sv) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/sv/kjumpingcube.po | 
+ | [tr](/f33/language/tr) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/tr/kjumpingcube.po | 
+ | [uk](/f33/language/uk) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/uk/kjumpingcube.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/zh_CN/kjumpingcube.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 412 | 412 | 100.0 | /mnt/stockage/packages/f33/kjumpingcube/po/zh_TW/kjumpingcube.po | 
+ | [km](/f33/language/km) | 275 | 412 | 66.7 | /mnt/stockage/packages/f33/kjumpingcube/po/km/kjumpingcube.po | 
+ | [hu](/f33/language/hu) | 202 | 412 | 49.0 | /mnt/stockage/packages/f33/kjumpingcube/po/hu/kjumpingcube.po | 
+ | [cs](/f33/language/cs) | 180 | 412 | 43.7 | /mnt/stockage/packages/f33/kjumpingcube/po/cs/kjumpingcube.po | 
+ | [ga](/f33/language/ga) | 150 | 412 | 36.4 | /mnt/stockage/packages/f33/kjumpingcube/po/ga/kjumpingcube.po | 
+ | [eu](/f33/language/eu) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/eu/kjumpingcube.po | 
+ | [ja](/f33/language/ja) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/ja/kjumpingcube.po | 
+ | [lv](/f33/language/lv) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/lv/kjumpingcube.po | 
+ | [ro](/f33/language/ro) | 129 | 412 | 31.3 | /mnt/stockage/packages/f33/kjumpingcube/po/ro/kjumpingcube.po | 
+ | [fa](/f33/language/fa) | 124 | 412 | 30.1 | /mnt/stockage/packages/f33/kjumpingcube/po/fa/kjumpingcube.po | 
+ | [hi](/f33/language/hi) | 118 | 412 | 28.6 | /mnt/stockage/packages/f33/kjumpingcube/po/hi/kjumpingcube.po | 
+ | [lt](/f33/language/lt) | 114 | 412 | 27.7 | /mnt/stockage/packages/f33/kjumpingcube/po/lt/kjumpingcube.po | 
+ | [ar](/f33/language/ar) | 107 | 412 | 26.0 | /mnt/stockage/packages/f33/kjumpingcube/po/ar/kjumpingcube.po | 
+ | [he](/f33/language/he) | 86 | 412 | 20.9 | /mnt/stockage/packages/f33/kjumpingcube/po/he/kjumpingcube.po | 
+ | [hr](/f33/language/hr) | 86 | 412 | 20.9 | /mnt/stockage/packages/f33/kjumpingcube/po/hr/kjumpingcube.po | 
+ | [is](/f33/language/is) | 86 | 412 | 20.9 | /mnt/stockage/packages/f33/kjumpingcube/po/is/kjumpingcube.po | 
+ | [bg](/f33/language/bg) | 82 | 412 | 19.9 | /mnt/stockage/packages/f33/kjumpingcube/po/bg/kjumpingcube.po | 
+ | [eo](/f33/language/eo) | 53 | 412 | 12.9 | /mnt/stockage/packages/f33/kjumpingcube/po/eo/kjumpingcube.po | 
+ | [pa](/f33/language/pa) | 41 | 412 | 10.0 | /mnt/stockage/packages/f33/kjumpingcube/po/pa/kjumpingcube.po | 
+ | [ug](/f33/language/ug) | 40 | 412 | 9.7 | /mnt/stockage/packages/f33/kjumpingcube/po/ug/kjumpingcube.po | 
+ | [mr](/f33/language/mr) | 35 | 412 | 8.5 | /mnt/stockage/packages/f33/kjumpingcube/po/mr/kjumpingcube.po | 
+ | [ml](/f33/language/ml) | 2 | 412 | 0.5 | /mnt/stockage/packages/f33/kjumpingcube/po/ml/kjumpingcube.po | 
 {.sortable}
 
 

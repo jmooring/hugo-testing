@@ -18,68 +18,68 @@ The package gnome-color-manager (version 3.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f23/language/as.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/as.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/bg.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/bn_IN.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/bs.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/ca/ca.po/mnt/stockage/packages/f23/gnome-color-manager/po/ca.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ca@valencia.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/cs/cs.po/mnt/stockage/packages/f23/gnome-color-manager/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/de/de.po/mnt/stockage/packages/f23/gnome-color-manager/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/el/el.po/mnt/stockage/packages/f23/gnome-color-manager/po/el.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 1745 | 1745 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/en_GB.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/eo.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/es/es.po/mnt/stockage/packages/f23/gnome-color-manager/po/es.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/eu.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/fa.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/fr/fr.po/mnt/stockage/packages/f23/gnome-color-manager/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/gl/gl.po/mnt/stockage/packages/f23/gnome-color-manager/po/gl.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/gu.po | 
- | [he_IL]({{< ref "/f23/language/he_IL.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/he.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/hi.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/hu/hu.po/mnt/stockage/packages/f23/gnome-color-manager/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/id.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/is.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ja.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/kn.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ko.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/lv.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/mr.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/nl.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/oc.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/or.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/pa.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/pt_BR/pt_BR.po/mnt/stockage/packages/f23/gnome-color-manager/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ru.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 3586 | 3586 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sr@latin.po/mnt/stockage/packages/f23/gnome-color-manager/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/te.po | 
- | [tg]({{< ref "/f23/language/tg.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/tg.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/vi.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/zh_CN/zh_CN.po/mnt/stockage/packages/f23/gnome-color-manager/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/zh_HK.po | 
- | [fur]({{< ref "/f23/language/fur.md" >}}) | 1787 | 1793 | 99.7 | /mnt/stockage/packages/f23/gnome-color-manager/po/fur.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 1681 | 1738 | 96.7 | /mnt/stockage/packages/f23/gnome-color-manager/po/ug.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 2175 | 2326 | 93.5 | /mnt/stockage/packages/f23/gnome-color-manager/help/fi/fi.po/mnt/stockage/packages/f23/gnome-color-manager/po/fi.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 1660 | 1792 | 92.6 | /mnt/stockage/packages/f23/gnome-color-manager/po/ro.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 2113 | 2861 | 73.9 | /mnt/stockage/packages/f23/gnome-color-manager/help/zh_TW/zh_TW.po/mnt/stockage/packages/f23/gnome-color-manager/help/zh_HK/zh_HK.po/mnt/stockage/packages/f23/gnome-color-manager/po/zh_TW.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 1304 | 2282 | 57.1 | /mnt/stockage/packages/f23/gnome-color-manager/help/ml/ml.po/mnt/stockage/packages/f23/gnome-color-manager/po/ml.po | 
- | [kk]({{< ref "/f23/language/kk.md" >}}) | 399 | 1793 | 22.3 | /mnt/stockage/packages/f23/gnome-color-manager/po/kk.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 304 | 2413 | 12.6 | /mnt/stockage/packages/f23/gnome-color-manager/po/ar.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 200 | 1792 | 11.2 | /mnt/stockage/packages/f23/gnome-color-manager/po/ne.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 28 | 742 | 3.8 | /mnt/stockage/packages/f23/gnome-color-manager/po/th.po | 
+ | [as](/f23/language/as) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/as.po | 
+ | [bg](/f23/language/bg) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/bg.po | 
+ | [bn_IN](/f23/language/bn_IN) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/bn_IN.po | 
+ | [bs](/f23/language/bs) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/bs.po | 
+ | [ca](/f23/language/ca) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/ca/ca.po/mnt/stockage/packages/f23/gnome-color-manager/po/ca.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ca@valencia.po | 
+ | [cs](/f23/language/cs) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/cs/cs.po/mnt/stockage/packages/f23/gnome-color-manager/po/cs.po | 
+ | [da](/f23/language/da) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/da.po | 
+ | [de](/f23/language/de) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/de/de.po/mnt/stockage/packages/f23/gnome-color-manager/po/de.po | 
+ | [el](/f23/language/el) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/el/el.po/mnt/stockage/packages/f23/gnome-color-manager/po/el.po | 
+ | [en_GB](/f23/language/en_GB) | 1745 | 1745 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/en_GB.po | 
+ | [eo](/f23/language/eo) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/eo.po | 
+ | [es](/f23/language/es) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/es/es.po/mnt/stockage/packages/f23/gnome-color-manager/po/es.po | 
+ | [et](/f23/language/et) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/et.po | 
+ | [eu](/f23/language/eu) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/eu.po | 
+ | [fa](/f23/language/fa) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/fa.po | 
+ | [fr](/f23/language/fr) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/fr/fr.po/mnt/stockage/packages/f23/gnome-color-manager/po/fr.po | 
+ | [gl](/f23/language/gl) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/gl/gl.po/mnt/stockage/packages/f23/gnome-color-manager/po/gl.po | 
+ | [gu](/f23/language/gu) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/gu.po | 
+ | [he_IL](/f23/language/he_IL) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/he.po | 
+ | [hi](/f23/language/hi) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/hi.po | 
+ | [hu](/f23/language/hu) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/hu/hu.po/mnt/stockage/packages/f23/gnome-color-manager/po/hu.po | 
+ | [id](/f23/language/id) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/id.po | 
+ | [is](/f23/language/is) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/is.po | 
+ | [it](/f23/language/it) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/it.po | 
+ | [ja](/f23/language/ja) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ja.po | 
+ | [kn](/f23/language/kn) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/kn.po | 
+ | [ko](/f23/language/ko) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ko.po | 
+ | [lt](/f23/language/lt) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/lt.po | 
+ | [lv](/f23/language/lv) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/lv.po | 
+ | [mr](/f23/language/mr) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/mr.po | 
+ | [nb_NO](/f23/language/nb_NO) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/nb.po | 
+ | [nl](/f23/language/nl) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/nl.po | 
+ | [oc](/f23/language/oc) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/oc.po | 
+ | [or](/f23/language/or) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/or.po | 
+ | [pa](/f23/language/pa) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/pa.po | 
+ | [pl](/f23/language/pl) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/pl.po | 
+ | [pt](/f23/language/pt) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/pt_BR/pt_BR.po/mnt/stockage/packages/f23/gnome-color-manager/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ru.po | 
+ | [sk](/f23/language/sk) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sk.po | 
+ | [sl](/f23/language/sl) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sl.po | 
+ | [sr](/f23/language/sr) | 3586 | 3586 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sr@latin.po/mnt/stockage/packages/f23/gnome-color-manager/po/sr.po | 
+ | [sv](/f23/language/sv) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/sv.po | 
+ | [ta](/f23/language/ta) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/ta.po | 
+ | [te](/f23/language/te) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/te.po | 
+ | [tg](/f23/language/tg) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/tg.po | 
+ | [tr](/f23/language/tr) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/tr.po | 
+ | [uk](/f23/language/uk) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/uk.po | 
+ | [vi](/f23/language/vi) | 1793 | 1793 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/vi.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 2327 | 2327 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/help/zh_CN/zh_CN.po/mnt/stockage/packages/f23/gnome-color-manager/po/zh_CN.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f23/gnome-color-manager/po/zh_HK.po | 
+ | [fur](/f23/language/fur) | 1787 | 1793 | 99.7 | /mnt/stockage/packages/f23/gnome-color-manager/po/fur.po | 
+ | [ug](/f23/language/ug) | 1681 | 1738 | 96.7 | /mnt/stockage/packages/f23/gnome-color-manager/po/ug.po | 
+ | [fi](/f23/language/fi) | 2175 | 2326 | 93.5 | /mnt/stockage/packages/f23/gnome-color-manager/help/fi/fi.po/mnt/stockage/packages/f23/gnome-color-manager/po/fi.po | 
+ | [ro](/f23/language/ro) | 1660 | 1792 | 92.6 | /mnt/stockage/packages/f23/gnome-color-manager/po/ro.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 2113 | 2861 | 73.9 | /mnt/stockage/packages/f23/gnome-color-manager/help/zh_TW/zh_TW.po/mnt/stockage/packages/f23/gnome-color-manager/help/zh_HK/zh_HK.po/mnt/stockage/packages/f23/gnome-color-manager/po/zh_TW.po | 
+ | [ml](/f23/language/ml) | 1304 | 2282 | 57.1 | /mnt/stockage/packages/f23/gnome-color-manager/help/ml/ml.po/mnt/stockage/packages/f23/gnome-color-manager/po/ml.po | 
+ | [kk](/f23/language/kk) | 399 | 1793 | 22.3 | /mnt/stockage/packages/f23/gnome-color-manager/po/kk.po | 
+ | [ar](/f23/language/ar) | 304 | 2413 | 12.6 | /mnt/stockage/packages/f23/gnome-color-manager/po/ar.po | 
+ | [ne](/f23/language/ne) | 200 | 1792 | 11.2 | /mnt/stockage/packages/f23/gnome-color-manager/po/ne.po | 
+ | [th](/f23/language/th) | 28 | 742 | 3.8 | /mnt/stockage/packages/f23/gnome-color-manager/po/th.po | 
 {.sortable}
 
 

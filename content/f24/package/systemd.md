@@ -18,26 +18,26 @@ The package systemd (version 229):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f24/language/be.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/be.po | 
- | [be_Latn]({{< ref "/f24/language/be_Latn.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/be@latin.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/ko.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/pl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/ru.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 914 | 960 | 95.2 | /mnt/stockage/packages/f24/systemd/po/zh_CN.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 818 | 968 | 84.5 | /mnt/stockage/packages/f24/systemd/po/es.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 818 | 968 | 84.5 | /mnt/stockage/packages/f24/systemd/po/zh_TW.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 795 | 968 | 82.1 | /mnt/stockage/packages/f24/systemd/po/sv.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 636 | 968 | 65.7 | /mnt/stockage/packages/f24/systemd/po/pt_BR.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 603 | 968 | 62.3 | /mnt/stockage/packages/f24/systemd/po/el.po | 
+ | [be](/f24/language/be) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/be.po | 
+ | [be_Latn](/f24/language/be_Latn) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/be@latin.po | 
+ | [da](/f24/language/da) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/da.po | 
+ | [de](/f24/language/de) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/de.po | 
+ | [fr](/f24/language/fr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/fr.po | 
+ | [gl](/f24/language/gl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/gl.po | 
+ | [hu](/f24/language/hu) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/hu.po | 
+ | [it](/f24/language/it) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/it.po | 
+ | [ko](/f24/language/ko) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/ko.po | 
+ | [pl](/f24/language/pl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/pl.po | 
+ | [ru](/f24/language/ru) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/ru.po | 
+ | [sr](/f24/language/sr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/sr.po | 
+ | [tr](/f24/language/tr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/tr.po | 
+ | [uk](/f24/language/uk) | 968 | 968 | 100.0 | /mnt/stockage/packages/f24/systemd/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 914 | 960 | 95.2 | /mnt/stockage/packages/f24/systemd/po/zh_CN.po | 
+ | [es](/f24/language/es) | 818 | 968 | 84.5 | /mnt/stockage/packages/f24/systemd/po/es.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 818 | 968 | 84.5 | /mnt/stockage/packages/f24/systemd/po/zh_TW.po | 
+ | [sv](/f24/language/sv) | 795 | 968 | 82.1 | /mnt/stockage/packages/f24/systemd/po/sv.po | 
+ | [pt_BR](/f24/language/pt_BR) | 636 | 968 | 65.7 | /mnt/stockage/packages/f24/systemd/po/pt_BR.po | 
+ | [el](/f24/language/el) | 603 | 968 | 62.3 | /mnt/stockage/packages/f24/systemd/po/el.po | 
 {.sortable}
 
 

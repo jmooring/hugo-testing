@@ -18,69 +18,69 @@ The package system-config-users (version 1.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f20/language/as.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/as.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/bg.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/bn.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/bn_IN.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/el.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/es.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/fr.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/gu.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/he.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/hi.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/hu.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ja.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/kn.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ko.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/lv.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ml.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/mr.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/nb.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/nl.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/or.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pa.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/sk.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/sv.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ta.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/te.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/th.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/zh_TW.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 1357 | 1521 | 89.2 | /mnt/stockage/packages/f20/system-config-users/po/en_GB.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 1320 | 1521 | 86.8 | /mnt/stockage/packages/f20/system-config-users/po/is.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 1320 | 1521 | 86.8 | /mnt/stockage/packages/f20/system-config-users/po/sr.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 1320 | 1521 | 86.8 | /mnt/stockage/packages/f20/system-config-users/po/sr@latin.po | 
- | [mai]({{< ref "/f20/language/mai.md" >}}) | 1269 | 1521 | 83.4 | /mnt/stockage/packages/f20/system-config-users/po/mai.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 1242 | 1521 | 81.7 | /mnt/stockage/packages/f20/system-config-users/po/be.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1138 | 1521 | 74.8 | /mnt/stockage/packages/f20/system-config-users/po/tr.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 866 | 1521 | 56.9 | /mnt/stockage/packages/f20/system-config-users/po/fa.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 816 | 1521 | 53.6 | /mnt/stockage/packages/f20/system-config-users/po/hr.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 808 | 1521 | 53.1 | /mnt/stockage/packages/f20/system-config-users/po/et.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 794 | 1521 | 52.2 | /mnt/stockage/packages/f20/system-config-users/po/id.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 782 | 1521 | 51.4 | /mnt/stockage/packages/f20/system-config-users/po/ms.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 782 | 1521 | 51.4 | /mnt/stockage/packages/f20/system-config-users/po/ro.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 779 | 1521 | 51.2 | /mnt/stockage/packages/f20/system-config-users/po/si.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 708 | 1521 | 46.5 | /mnt/stockage/packages/f20/system-config-users/po/bs.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 652 | 1521 | 42.9 | /mnt/stockage/packages/f20/system-config-users/po/ar.po | 
- | [cy]({{< ref "/f20/language/cy.md" >}}) | 531 | 1521 | 34.9 | /mnt/stockage/packages/f20/system-config-users/po/cy.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 516 | 1521 | 33.9 | /mnt/stockage/packages/f20/system-config-users/po/mk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 450 | 1521 | 29.6 | /mnt/stockage/packages/f20/system-config-users/po/sl.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 380 | 1521 | 25.0 | /mnt/stockage/packages/f20/system-config-users/po/vi.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 231 | 1521 | 15.2 | /mnt/stockage/packages/f20/system-config-users/po/eu.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 218 | 1521 | 14.3 | /mnt/stockage/packages/f20/system-config-users/po/ka.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 96 | 1521 | 6.3 | /mnt/stockage/packages/f20/system-config-users/po/nds.po | 
- | [ia]({{< ref "/f20/language/ia.md" >}}) | 59 | 1521 | 3.9 | /mnt/stockage/packages/f20/system-config-users/po/ia.po | 
+ | [as](/f20/language/as) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/as.po | 
+ | [bg](/f20/language/bg) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/bg.po | 
+ | [bn](/f20/language/bn) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/bn.po | 
+ | [bn_IN](/f20/language/bn_IN) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/bn_IN.po | 
+ | [ca](/f20/language/ca) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ca.po | 
+ | [cs](/f20/language/cs) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/cs.po | 
+ | [da](/f20/language/da) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/da.po | 
+ | [de](/f20/language/de) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/de.po | 
+ | [el](/f20/language/el) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/el.po | 
+ | [es](/f20/language/es) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/es.po | 
+ | [fi](/f20/language/fi) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/fi.po | 
+ | [fr](/f20/language/fr) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/fr.po | 
+ | [gu](/f20/language/gu) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/gu.po | 
+ | [he](/f20/language/he) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/he.po | 
+ | [hi](/f20/language/hi) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/hi.po | 
+ | [hu](/f20/language/hu) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/hu.po | 
+ | [it](/f20/language/it) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/it.po | 
+ | [ja](/f20/language/ja) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ja.po | 
+ | [kn](/f20/language/kn) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/kn.po | 
+ | [ko](/f20/language/ko) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ko.po | 
+ | [lv](/f20/language/lv) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/lv.po | 
+ | [ml](/f20/language/ml) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ml.po | 
+ | [mr](/f20/language/mr) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/mr.po | 
+ | [nb_NO](/f20/language/nb_NO) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/nb.po | 
+ | [nl](/f20/language/nl) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/nl.po | 
+ | [or](/f20/language/or) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/or.po | 
+ | [pa](/f20/language/pa) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pa.po | 
+ | [pl](/f20/language/pl) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pl.po | 
+ | [pt](/f20/language/pt) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ru.po | 
+ | [sk](/f20/language/sk) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/sk.po | 
+ | [sv](/f20/language/sv) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/sv.po | 
+ | [ta](/f20/language/ta) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/ta.po | 
+ | [te](/f20/language/te) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/te.po | 
+ | [th](/f20/language/th) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/th.po | 
+ | [uk](/f20/language/uk) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 1436 | 1521 | 94.4 | /mnt/stockage/packages/f20/system-config-users/po/zh_TW.po | 
+ | [en_GB](/f20/language/en_GB) | 1357 | 1521 | 89.2 | /mnt/stockage/packages/f20/system-config-users/po/en_GB.po | 
+ | [is](/f20/language/is) | 1320 | 1521 | 86.8 | /mnt/stockage/packages/f20/system-config-users/po/is.po | 
+ | [sr](/f20/language/sr) | 1320 | 1521 | 86.8 | /mnt/stockage/packages/f20/system-config-users/po/sr.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 1320 | 1521 | 86.8 | /mnt/stockage/packages/f20/system-config-users/po/sr@latin.po | 
+ | [mai](/f20/language/mai) | 1269 | 1521 | 83.4 | /mnt/stockage/packages/f20/system-config-users/po/mai.po | 
+ | [be](/f20/language/be) | 1242 | 1521 | 81.7 | /mnt/stockage/packages/f20/system-config-users/po/be.po | 
+ | [tr](/f20/language/tr) | 1138 | 1521 | 74.8 | /mnt/stockage/packages/f20/system-config-users/po/tr.po | 
+ | [fa](/f20/language/fa) | 866 | 1521 | 56.9 | /mnt/stockage/packages/f20/system-config-users/po/fa.po | 
+ | [hr](/f20/language/hr) | 816 | 1521 | 53.6 | /mnt/stockage/packages/f20/system-config-users/po/hr.po | 
+ | [et](/f20/language/et) | 808 | 1521 | 53.1 | /mnt/stockage/packages/f20/system-config-users/po/et.po | 
+ | [id](/f20/language/id) | 794 | 1521 | 52.2 | /mnt/stockage/packages/f20/system-config-users/po/id.po | 
+ | [ms](/f20/language/ms) | 782 | 1521 | 51.4 | /mnt/stockage/packages/f20/system-config-users/po/ms.po | 
+ | [ro](/f20/language/ro) | 782 | 1521 | 51.4 | /mnt/stockage/packages/f20/system-config-users/po/ro.po | 
+ | [si](/f20/language/si) | 779 | 1521 | 51.2 | /mnt/stockage/packages/f20/system-config-users/po/si.po | 
+ | [bs](/f20/language/bs) | 708 | 1521 | 46.5 | /mnt/stockage/packages/f20/system-config-users/po/bs.po | 
+ | [ar](/f20/language/ar) | 652 | 1521 | 42.9 | /mnt/stockage/packages/f20/system-config-users/po/ar.po | 
+ | [cy](/f20/language/cy) | 531 | 1521 | 34.9 | /mnt/stockage/packages/f20/system-config-users/po/cy.po | 
+ | [mk](/f20/language/mk) | 516 | 1521 | 33.9 | /mnt/stockage/packages/f20/system-config-users/po/mk.po | 
+ | [sl](/f20/language/sl) | 450 | 1521 | 29.6 | /mnt/stockage/packages/f20/system-config-users/po/sl.po | 
+ | [vi](/f20/language/vi) | 380 | 1521 | 25.0 | /mnt/stockage/packages/f20/system-config-users/po/vi.po | 
+ | [eu](/f20/language/eu) | 231 | 1521 | 15.2 | /mnt/stockage/packages/f20/system-config-users/po/eu.po | 
+ | [ka](/f20/language/ka) | 218 | 1521 | 14.3 | /mnt/stockage/packages/f20/system-config-users/po/ka.po | 
+ | [nds](/f20/language/nds) | 96 | 1521 | 6.3 | /mnt/stockage/packages/f20/system-config-users/po/nds.po | 
+ | [ia](/f20/language/ia) | 59 | 1521 | 3.9 | /mnt/stockage/packages/f20/system-config-users/po/ia.po | 
 {.sortable}
 
 

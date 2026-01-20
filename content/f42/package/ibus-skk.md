@@ -18,7 +18,7 @@ The package ibus-skk (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/ibus-skk/po/ja.po | 
+ | [ja](/f42/language/ja) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/ibus-skk/po/ja.po | 
 {.sortable}
 
 

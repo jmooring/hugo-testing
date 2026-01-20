@@ -18,69 +18,69 @@ The package snapper (version 0.8.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/fr.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/ja.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/nl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/pt_BR.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/sk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/zh_TW.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/ar.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/da.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/et.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/sv.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 803 | 1095 | 73.3 | /mnt/stockage/packages/f34/snapper/po/hu.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 803 | 1095 | 73.3 | /mnt/stockage/packages/f34/snapper/po/ko.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 803 | 1095 | 73.3 | /mnt/stockage/packages/f34/snapper/po/pl.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 701 | 1095 | 64.0 | /mnt/stockage/packages/f34/snapper/po/uk.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 678 | 1095 | 61.9 | /mnt/stockage/packages/f34/snapper/po/el.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1063 | 2190 | 48.5 | /mnt/stockage/packages/f34/snapper/po/ru.po/mnt/stockage/packages/f34/snapper/po/nds.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 461 | 1095 | 42.1 | /mnt/stockage/packages/f34/snapper/po/nb.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 368 | 1095 | 33.6 | /mnt/stockage/packages/f34/snapper/po/km.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 160 | 1095 | 14.6 | /mnt/stockage/packages/f34/snapper/po/lt.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 138 | 1095 | 12.6 | /mnt/stockage/packages/f34/snapper/po/tr.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 50 | 1095 | 4.6 | /mnt/stockage/packages/f34/snapper/po/ro.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 22 | 1095 | 2.0 | /mnt/stockage/packages/f34/snapper/po/hi.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 15 | 1095 | 1.4 | /mnt/stockage/packages/f34/snapper/po/hr.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 11 | 1095 | 1.0 | /mnt/stockage/packages/f34/snapper/po/bg.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 8 | 1095 | 0.7 | /mnt/stockage/packages/f34/snapper/po/gl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 8 | 1095 | 0.7 | /mnt/stockage/packages/f34/snapper/po/pt.po | 
- | [ku]({{< ref "/f34/language/ku.md" >}}) | 7 | 1095 | 0.6 | /mnt/stockage/packages/f34/snapper/po/ku.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 6 | 1095 | 0.5 | /mnt/stockage/packages/f34/snapper/po/th.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 5 | 1095 | 0.5 | /mnt/stockage/packages/f34/snapper/po/fa.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/af.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/bn.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/bs.po | 
- | [cy]({{< ref "/f34/language/cy.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/cy.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/en_GB.po | 
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/en_US.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/gu.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/mr.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/pa.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/sl.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/sr.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/ta.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/wa.po | 
- | [xh]({{< ref "/f34/language/xh.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/xh.po | 
- | [zu]({{< ref "/f34/language/zu.md" >}}) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/zu.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 2 | 1095 | 0.2 | /mnt/stockage/packages/f34/snapper/po/he.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 2 | 1095 | 0.2 | /mnt/stockage/packages/f34/snapper/po/nn.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 1 | 1095 | 0.1 | /mnt/stockage/packages/f34/snapper/po/be.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/eo.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/eu.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/ka.po | 
- | [lo]({{< ref "/f34/language/lo.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/lo.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/mk.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/si.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/tg.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/vi.po | 
+ | [ca](/f34/language/ca) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/ca.po | 
+ | [cs](/f34/language/cs) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/cs.po | 
+ | [de](/f34/language/de) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/de.po | 
+ | [es](/f34/language/es) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/es.po | 
+ | [fi](/f34/language/fi) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/fi.po | 
+ | [fr](/f34/language/fr) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/fr.po | 
+ | [id](/f34/language/id) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/id.po | 
+ | [it](/f34/language/it) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/it.po | 
+ | [ja](/f34/language/ja) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/ja.po | 
+ | [nl](/f34/language/nl) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/nl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/pt_BR.po | 
+ | [sk](/f34/language/sk) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/sk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1095 | 1095 | 100.0 | /mnt/stockage/packages/f34/snapper/po/zh_TW.po | 
+ | [ar](/f34/language/ar) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/ar.po | 
+ | [da](/f34/language/da) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/da.po | 
+ | [et](/f34/language/et) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/et.po | 
+ | [sv](/f34/language/sv) | 837 | 1095 | 76.4 | /mnt/stockage/packages/f34/snapper/po/sv.po | 
+ | [hu](/f34/language/hu) | 803 | 1095 | 73.3 | /mnt/stockage/packages/f34/snapper/po/hu.po | 
+ | [ko](/f34/language/ko) | 803 | 1095 | 73.3 | /mnt/stockage/packages/f34/snapper/po/ko.po | 
+ | [pl](/f34/language/pl) | 803 | 1095 | 73.3 | /mnt/stockage/packages/f34/snapper/po/pl.po | 
+ | [uk](/f34/language/uk) | 701 | 1095 | 64.0 | /mnt/stockage/packages/f34/snapper/po/uk.po | 
+ | [el](/f34/language/el) | 678 | 1095 | 61.9 | /mnt/stockage/packages/f34/snapper/po/el.po | 
+ | [ru](/f34/language/ru) | 1063 | 2190 | 48.5 | /mnt/stockage/packages/f34/snapper/po/ru.po/mnt/stockage/packages/f34/snapper/po/nds.po | 
+ | [nb_NO](/f34/language/nb_NO) | 461 | 1095 | 42.1 | /mnt/stockage/packages/f34/snapper/po/nb.po | 
+ | [km](/f34/language/km) | 368 | 1095 | 33.6 | /mnt/stockage/packages/f34/snapper/po/km.po | 
+ | [lt](/f34/language/lt) | 160 | 1095 | 14.6 | /mnt/stockage/packages/f34/snapper/po/lt.po | 
+ | [tr](/f34/language/tr) | 138 | 1095 | 12.6 | /mnt/stockage/packages/f34/snapper/po/tr.po | 
+ | [ro](/f34/language/ro) | 50 | 1095 | 4.6 | /mnt/stockage/packages/f34/snapper/po/ro.po | 
+ | [hi](/f34/language/hi) | 22 | 1095 | 2.0 | /mnt/stockage/packages/f34/snapper/po/hi.po | 
+ | [hr](/f34/language/hr) | 15 | 1095 | 1.4 | /mnt/stockage/packages/f34/snapper/po/hr.po | 
+ | [bg](/f34/language/bg) | 11 | 1095 | 1.0 | /mnt/stockage/packages/f34/snapper/po/bg.po | 
+ | [gl](/f34/language/gl) | 8 | 1095 | 0.7 | /mnt/stockage/packages/f34/snapper/po/gl.po | 
+ | [pt](/f34/language/pt) | 8 | 1095 | 0.7 | /mnt/stockage/packages/f34/snapper/po/pt.po | 
+ | [ku](/f34/language/ku) | 7 | 1095 | 0.6 | /mnt/stockage/packages/f34/snapper/po/ku.po | 
+ | [th](/f34/language/th) | 6 | 1095 | 0.5 | /mnt/stockage/packages/f34/snapper/po/th.po | 
+ | [fa](/f34/language/fa) | 5 | 1095 | 0.5 | /mnt/stockage/packages/f34/snapper/po/fa.po | 
+ | [af](/f34/language/af) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/af.po | 
+ | [bn](/f34/language/bn) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/bn.po | 
+ | [bs](/f34/language/bs) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/bs.po | 
+ | [cy](/f34/language/cy) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/cy.po | 
+ | [en](/f34/language/en) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/en_GB.po | 
+ | [en_US](/f34/language/en_US) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/en_US.po | 
+ | [gu](/f34/language/gu) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/gu.po | 
+ | [mr](/f34/language/mr) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/mr.po | 
+ | [pa](/f34/language/pa) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/pa.po | 
+ | [sl](/f34/language/sl) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/sl.po | 
+ | [sr](/f34/language/sr) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/sr.po | 
+ | [ta](/f34/language/ta) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/ta.po | 
+ | [wa](/f34/language/wa) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/wa.po | 
+ | [xh](/f34/language/xh) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/xh.po | 
+ | [zu](/f34/language/zu) | 3 | 1095 | 0.3 | /mnt/stockage/packages/f34/snapper/po/zu.po | 
+ | [he](/f34/language/he) | 2 | 1095 | 0.2 | /mnt/stockage/packages/f34/snapper/po/he.po | 
+ | [nn](/f34/language/nn) | 2 | 1095 | 0.2 | /mnt/stockage/packages/f34/snapper/po/nn.po | 
+ | [be](/f34/language/be) | 1 | 1095 | 0.1 | /mnt/stockage/packages/f34/snapper/po/be.po | 
+ | [eo](/f34/language/eo) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/eo.po | 
+ | [eu](/f34/language/eu) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/eu.po | 
+ | [ka](/f34/language/ka) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/ka.po | 
+ | [lo](/f34/language/lo) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/lo.po | 
+ | [mk](/f34/language/mk) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/mk.po | 
+ | [si](/f34/language/si) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/si.po | 
+ | [tg](/f34/language/tg) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/tg.po | 
+ | [vi](/f34/language/vi) | 0 | 1095 | 0.0 | /mnt/stockage/packages/f34/snapper/po/vi.po | 
 {.sortable}
 
 

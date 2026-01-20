@@ -18,9 +18,9 @@ The package grig (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 2132 | 2137 | 99.8 | /mnt/stockage/packages/f24/grig/po/de.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1268 | 2137 | 59.3 | /mnt/stockage/packages/f24/grig/po/fr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 105 | 2137 | 4.9 | /mnt/stockage/packages/f24/grig/po/tr.po | 
+ | [de](/f24/language/de) | 2132 | 2137 | 99.8 | /mnt/stockage/packages/f24/grig/po/de.po | 
+ | [fr](/f24/language/fr) | 1268 | 2137 | 59.3 | /mnt/stockage/packages/f24/grig/po/fr.po | 
+ | [tr](/f24/language/tr) | 105 | 2137 | 4.9 | /mnt/stockage/packages/f24/grig/po/tr.po | 
 {.sortable}
 
 

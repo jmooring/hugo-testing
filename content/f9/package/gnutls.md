@@ -18,11 +18,11 @@ The package gnutls (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f9/language/error.md" >}}) | 1552 | 1552 | 100.0 | /mnt/stockage/packages/f9/gnutls/po/en@boldquot.po/mnt/stockage/packages/f9/gnutls/po/en@quot.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f9/gnutls/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f9/gnutls/po/sv.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 587 | 776 | 75.6 | /mnt/stockage/packages/f9/gnutls/po/de.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 587 | 776 | 75.6 | /mnt/stockage/packages/f9/gnutls/po/ms.po | 
+ | [error](/f9/language/error) | 1552 | 1552 | 100.0 | /mnt/stockage/packages/f9/gnutls/po/en@boldquot.po/mnt/stockage/packages/f9/gnutls/po/en@quot.po | 
+ | [pl](/f9/language/pl) | 776 | 776 | 100.0 | /mnt/stockage/packages/f9/gnutls/po/pl.po | 
+ | [sv](/f9/language/sv) | 776 | 776 | 100.0 | /mnt/stockage/packages/f9/gnutls/po/sv.po | 
+ | [de](/f9/language/de) | 587 | 776 | 75.6 | /mnt/stockage/packages/f9/gnutls/po/de.po | 
+ | [ms](/f9/language/ms) | 587 | 776 | 75.6 | /mnt/stockage/packages/f9/gnutls/po/ms.po | 
 {.sortable}
 
 

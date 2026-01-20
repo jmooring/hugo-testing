@@ -18,24 +18,24 @@ The package freeipa (version 4.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/bn_IN.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 4037 | 4037 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 6443 | 6443 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/es.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/eu.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 23758 | 23758 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/fr.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/hi.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/id.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/ja.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 708 | 708 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/kn.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1822 | 1822 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/pl.po | 
- | [tg]({{< ref "/f23/language/tg.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/tg.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 24434 | 24434 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/zh_CN.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1975 | 1991 | 99.2 | /mnt/stockage/packages/f23/freeipa/install/po/ru.po | 
+ | [bn_IN](/f23/language/bn_IN) | 34 | 34 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/bn_IN.po | 
+ | [ca](/f23/language/ca) | 252 | 252 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/ca.po | 
+ | [cs](/f23/language/cs) | 133 | 133 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/cs.po | 
+ | [de](/f23/language/de) | 4037 | 4037 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/de.po | 
+ | [es](/f23/language/es) | 6443 | 6443 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/es.po | 
+ | [eu](/f23/language/eu) | 373 | 373 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/eu.po | 
+ | [fr](/f23/language/fr) | 23758 | 23758 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/fr.po | 
+ | [hi](/f23/language/hi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/hi.po | 
+ | [hu](/f23/language/hu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/hu.po | 
+ | [id](/f23/language/id) | 313 | 313 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/id.po | 
+ | [ja](/f23/language/ja) | 423 | 423 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/ja.po | 
+ | [kn](/f23/language/kn) | 708 | 708 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/kn.po | 
+ | [nl](/f23/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/nl.po | 
+ | [pl](/f23/language/pl) | 1822 | 1822 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/pl.po | 
+ | [tg](/f23/language/tg) | 150 | 150 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/tg.po | 
+ | [uk](/f23/language/uk) | 24434 | 24434 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 355 | 355 | 100.0 | /mnt/stockage/packages/f23/freeipa/install/po/zh_CN.po | 
+ | [ru](/f23/language/ru) | 1975 | 1991 | 99.2 | /mnt/stockage/packages/f23/freeipa/install/po/ru.po | 
 {.sortable}
 
 

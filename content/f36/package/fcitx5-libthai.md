@@ -18,13 +18,13 @@ The package fcitx5-libthai (version 5.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f36/language/da.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/da.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/zh_CN.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 7 | 20 | 35.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/de.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 2 | 20 | 10.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/he.po | 
+ | [da](/f36/language/da) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/da.po | 
+ | [ja](/f36/language/ja) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/ja.po | 
+ | [ko](/f36/language/ko) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/ko.po | 
+ | [ru](/f36/language/ru) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 20 | 20 | 100.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/zh_CN.po | 
+ | [de](/f36/language/de) | 7 | 20 | 35.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/de.po | 
+ | [he](/f36/language/he) | 2 | 20 | 10.0 | /mnt/stockage/packages/f36/fcitx5-libthai/po/he.po | 
 {.sortable}
 
 

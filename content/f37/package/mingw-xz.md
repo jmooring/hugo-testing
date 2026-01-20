@@ -18,12 +18,12 @@ The package mingw-xz (version 5.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f37/mingw-xz/po/de.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f37/mingw-xz/po/it.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f37/mingw-xz/po/pl.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f37/mingw-xz/po/vi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f37/mingw-xz/po/fr.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f37/mingw-xz/po/cs.po | 
+ | [de](/f37/language/de) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f37/mingw-xz/po/de.po | 
+ | [it](/f37/language/it) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f37/mingw-xz/po/it.po | 
+ | [pl](/f37/language/pl) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f37/mingw-xz/po/pl.po | 
+ | [vi](/f37/language/vi) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f37/mingw-xz/po/vi.po | 
+ | [fr](/f37/language/fr) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f37/mingw-xz/po/fr.po | 
+ | [cs](/f37/language/cs) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f37/mingw-xz/po/cs.po | 
 {.sortable}
 
 

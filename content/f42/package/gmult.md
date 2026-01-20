@@ -18,39 +18,39 @@ The package gmult (version 14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/gmult/po/fr.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/gmult/po/hr.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 48 | 50 | 96.0 | /mnt/stockage/packages/f42/gmult/po/es.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/af.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ar.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/de.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/en_GB.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/fi.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ja.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ms.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ru.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/zh_CN.po | 
- | [io]({{< ref "/f42/language/io.md" >}}) | 35 | 50 | 70.0 | /mnt/stockage/packages/f42/gmult/po/io.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 35 | 50 | 70.0 | /mnt/stockage/packages/f42/gmult/po/vi.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 14 | 50 | 28.0 | /mnt/stockage/packages/f42/gmult/po/eu.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 14 | 50 | 28.0 | /mnt/stockage/packages/f42/gmult/po/zh_TW.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 11 | 50 | 22.0 | /mnt/stockage/packages/f42/gmult/po/el.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 8 | 50 | 16.0 | /mnt/stockage/packages/f42/gmult/po/pt.po | 
- | [rm]({{< ref "/f42/language/rm.md" >}}) | 4 | 50 | 8.0 | /mnt/stockage/packages/f42/gmult/po/rm.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 4 | 50 | 8.0 | /mnt/stockage/packages/f42/gmult/po/ro.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 1 | 50 | 2.0 | /mnt/stockage/packages/f42/gmult/po/sl.po | 
+ | [fr](/f42/language/fr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/gmult/po/fr.po | 
+ | [hr](/f42/language/hr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/gmult/po/hr.po | 
+ | [es](/f42/language/es) | 48 | 50 | 96.0 | /mnt/stockage/packages/f42/gmult/po/es.po | 
+ | [af](/f42/language/af) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/af.po | 
+ | [ar](/f42/language/ar) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ar.po | 
+ | [cs](/f42/language/cs) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/cs.po | 
+ | [da](/f42/language/da) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/da.po | 
+ | [de](/f42/language/de) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/de.po | 
+ | [en_GB](/f42/language/en_GB) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/en_GB.po | 
+ | [fi](/f42/language/fi) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/fi.po | 
+ | [hu](/f42/language/hu) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/hu.po | 
+ | [id](/f42/language/id) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/id.po | 
+ | [it](/f42/language/it) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/it.po | 
+ | [ja](/f42/language/ja) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ja.po | 
+ | [ms](/f42/language/ms) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ms.po | 
+ | [nl](/f42/language/nl) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/nl.po | 
+ | [pl](/f42/language/pl) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/ru.po | 
+ | [sr](/f42/language/sr) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/sr.po | 
+ | [sv](/f42/language/sv) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/sv.po | 
+ | [tr](/f42/language/tr) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/tr.po | 
+ | [uk](/f42/language/uk) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 40 | 50 | 80.0 | /mnt/stockage/packages/f42/gmult/po/zh_CN.po | 
+ | [io](/f42/language/io) | 35 | 50 | 70.0 | /mnt/stockage/packages/f42/gmult/po/io.po | 
+ | [vi](/f42/language/vi) | 35 | 50 | 70.0 | /mnt/stockage/packages/f42/gmult/po/vi.po | 
+ | [eu](/f42/language/eu) | 14 | 50 | 28.0 | /mnt/stockage/packages/f42/gmult/po/eu.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 14 | 50 | 28.0 | /mnt/stockage/packages/f42/gmult/po/zh_TW.po | 
+ | [el](/f42/language/el) | 11 | 50 | 22.0 | /mnt/stockage/packages/f42/gmult/po/el.po | 
+ | [pt](/f42/language/pt) | 8 | 50 | 16.0 | /mnt/stockage/packages/f42/gmult/po/pt.po | 
+ | [rm](/f42/language/rm) | 4 | 50 | 8.0 | /mnt/stockage/packages/f42/gmult/po/rm.po | 
+ | [ro](/f42/language/ro) | 4 | 50 | 8.0 | /mnt/stockage/packages/f42/gmult/po/ro.po | 
+ | [sl](/f42/language/sl) | 1 | 50 | 2.0 | /mnt/stockage/packages/f42/gmult/po/sl.po | 
 {.sortable}
 
 

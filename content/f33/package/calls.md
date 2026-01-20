@@ -18,16 +18,16 @@ The package calls (version 0.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/en_GB.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/it_IT.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/calls/po/ja.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/calls/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/ro.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/calls/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f33/calls/po/uk.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 262 | 279 | 93.9 | /mnt/stockage/packages/f33/calls/po/fa.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 235 | 253 | 92.9 | /mnt/stockage/packages/f33/calls/po/fr.po | 
+ | [en_GB](/f33/language/en_GB) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/en_GB.po | 
+ | [it](/f33/language/it) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/it_IT.po | 
+ | [ja](/f33/language/ja) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/calls/po/ja.po | 
+ | [pt_BR](/f33/language/pt_BR) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/calls/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/ro.po | 
+ | [sv](/f33/language/sv) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/calls/po/sv.po | 
+ | [tr](/f33/language/tr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/calls/po/tr.po | 
+ | [uk](/f33/language/uk) | 104 | 104 | 100.0 | /mnt/stockage/packages/f33/calls/po/uk.po | 
+ | [fa](/f33/language/fa) | 262 | 279 | 93.9 | /mnt/stockage/packages/f33/calls/po/fa.po | 
+ | [fr](/f33/language/fr) | 235 | 253 | 92.9 | /mnt/stockage/packages/f33/calls/po/fr.po | 
 {.sortable}
 
 

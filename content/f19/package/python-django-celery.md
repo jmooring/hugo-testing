@@ -18,8 +18,8 @@ The package python-django-celery (version 3.0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 173 | 176 | 98.3 | /mnt/stockage/packages/f19/python-django-celery/locale/es/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f19/language/en.md" >}}) | 0 | 169 | 0.0 | /mnt/stockage/packages/f19/python-django-celery/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f19/language/es) | 173 | 176 | 98.3 | /mnt/stockage/packages/f19/python-django-celery/locale/es/LC_MESSAGES/django.po | 
+ | [en](/f19/language/en) | 0 | 169 | 0.0 | /mnt/stockage/packages/f19/python-django-celery/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,50 +18,50 @@ The package smolt (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/as.po/mnt/stockage/packages/f11/smolt/smoon/locales/as/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1382 | 1382 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/es.po/mnt/stockage/packages/f11/smolt/smoon/locales/es.po/mnt/stockage/packages/f11/smolt/smoon/locales/es/LC_MESSAGES/messages.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/gu.po/mnt/stockage/packages/f11/smolt/smoon/locales/gu/LC_MESSAGES/messages.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/hi.po/mnt/stockage/packages/f11/smolt/smoon/locales/hi/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/it.po/mnt/stockage/packages/f11/smolt/smoon/locales/it/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ja.po/mnt/stockage/packages/f11/smolt/smoon/locales/ja/LC_MESSAGES/messages.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ko.po/mnt/stockage/packages/f11/smolt/smoon/locales/ko/LC_MESSAGES/messages.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 1321 | 1321 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ml.po/mnt/stockage/packages/f11/smolt/smoon/locales/ml/LC_MESSAGES/messages.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/mr.po/mnt/stockage/packages/f11/smolt/smoon/locales/mr/LC_MESSAGES/messages.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/nl.po/mnt/stockage/packages/f11/smolt/smoon/locales/nl/LC_MESSAGES/messages.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/or.po/mnt/stockage/packages/f11/smolt/smoon/locales/or/LC_MESSAGES/messages.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pa.po/mnt/stockage/packages/f11/smolt/smoon/locales/pa/LC_MESSAGES/messages.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pl.po/mnt/stockage/packages/f11/smolt/smoon/locales/pl/LC_MESSAGES/messages.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pt.po/mnt/stockage/packages/f11/smolt/smoon/locales/pt/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 1382 | 1382 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pt_BR.po/mnt/stockage/packages/f11/smolt/smoon/locales/pt_BR.po/mnt/stockage/packages/f11/smolt/smoon/locales/pt_BR/LC_MESSAGES/messages.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 966 | 966 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/sk.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/sv.po/mnt/stockage/packages/f11/smolt/smoon/locales/sv/LC_MESSAGES/messages.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ta.po/mnt/stockage/packages/f11/smolt/smoon/locales/ta/LC_MESSAGES/messages.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/te.po/mnt/stockage/packages/f11/smolt/smoon/locales/te/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/zh_CN.po/mnt/stockage/packages/f11/smolt/smoon/locales/zh_CN/LC_MESSAGES/messages.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 966 | 966 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/zh_TW.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 1169 | 1174 | 99.6 | /mnt/stockage/packages/f11/smolt/client/po/kn.po/mnt/stockage/packages/f11/smolt/smoon/locales/kn/LC_MESSAGES/messages.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 1167 | 1174 | 99.4 | /mnt/stockage/packages/f11/smolt/client/po/bn_IN.po/mnt/stockage/packages/f11/smolt/smoon/locales/bn_IN/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1371 | 1382 | 99.2 | /mnt/stockage/packages/f11/smolt/client/po/de.po/mnt/stockage/packages/f11/smolt/smoon/locales/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/smolt/smoon/locales/de/C_MESSAGES/messages.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1338 | 1382 | 96.8 | /mnt/stockage/packages/f11/smolt/client/po/hu.po/mnt/stockage/packages/f11/smolt/smoon/locales/hu/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/smolt/smoon/locales/hu/LC_MESSAGES/hu.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 1170 | 1379 | 84.8 | /mnt/stockage/packages/f11/smolt/client/po/ca.po/mnt/stockage/packages/f11/smolt/smoon/locales/ca.po/mnt/stockage/packages/f11/smolt/smoon/locales/ca/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 966 | 1174 | 82.3 | /mnt/stockage/packages/f11/smolt/client/po/ru.po/mnt/stockage/packages/f11/smolt/smoon/locales/ru/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 914 | 1174 | 77.9 | /mnt/stockage/packages/f11/smolt/client/po/fi.po/mnt/stockage/packages/f11/smolt/smoon/locales/fi/LC_MESSAGES/messages.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 772 | 1174 | 65.8 | /mnt/stockage/packages/f11/smolt/client/po/da.po/mnt/stockage/packages/f11/smolt/smoon/locales/da/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 527 | 1382 | 38.1 | /mnt/stockage/packages/f11/smolt/client/po/fr.po/mnt/stockage/packages/f11/smolt/smoon/locales/fr_FR/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/smolt/smoon/locales/fr/LC_MESSAGES/messages.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/bg.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/cs.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/el.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/id.po | 
- | [mai]({{< ref "/f11/language/mai.md" >}}) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/mai.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 324 | 1174 | 27.6 | /mnt/stockage/packages/f11/smolt/client/po/sr.po/mnt/stockage/packages/f11/smolt/smoon/locales/sr/LC_MESSAGES/messages.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 324 | 1174 | 27.6 | /mnt/stockage/packages/f11/smolt/client/po/sr@latin.po/mnt/stockage/packages/f11/smolt/smoon/locales/sr@latin/LC_MESSAGES/messages.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 238 | 966 | 24.6 | /mnt/stockage/packages/f11/smolt/client/po/hr.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 41 | 208 | 19.7 | /mnt/stockage/packages/f11/smolt/smoon/locales/pt_PT/LC_MESSAGES/messages.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 105 | 966 | 10.9 | /mnt/stockage/packages/f11/smolt/client/po/is.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 96 | 966 | 9.9 | /mnt/stockage/packages/f11/smolt/client/po/ar.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 68 | 966 | 7.0 | /mnt/stockage/packages/f11/smolt/client/po/nb.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 15 | 966 | 1.6 | /mnt/stockage/packages/f11/smolt/client/po/ms.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 0 | 966 | 0.0 | /mnt/stockage/packages/f11/smolt/client/po/default.po | 
+ | [as](/f11/language/as) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/as.po/mnt/stockage/packages/f11/smolt/smoon/locales/as/LC_MESSAGES/messages.po | 
+ | [es](/f11/language/es) | 1382 | 1382 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/es.po/mnt/stockage/packages/f11/smolt/smoon/locales/es.po/mnt/stockage/packages/f11/smolt/smoon/locales/es/LC_MESSAGES/messages.po | 
+ | [gu](/f11/language/gu) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/gu.po/mnt/stockage/packages/f11/smolt/smoon/locales/gu/LC_MESSAGES/messages.po | 
+ | [hi](/f11/language/hi) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/hi.po/mnt/stockage/packages/f11/smolt/smoon/locales/hi/LC_MESSAGES/messages.po | 
+ | [it](/f11/language/it) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/it.po/mnt/stockage/packages/f11/smolt/smoon/locales/it/LC_MESSAGES/messages.po | 
+ | [ja](/f11/language/ja) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ja.po/mnt/stockage/packages/f11/smolt/smoon/locales/ja/LC_MESSAGES/messages.po | 
+ | [ko](/f11/language/ko) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ko.po/mnt/stockage/packages/f11/smolt/smoon/locales/ko/LC_MESSAGES/messages.po | 
+ | [ml](/f11/language/ml) | 1321 | 1321 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ml.po/mnt/stockage/packages/f11/smolt/smoon/locales/ml/LC_MESSAGES/messages.po | 
+ | [mr](/f11/language/mr) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/mr.po/mnt/stockage/packages/f11/smolt/smoon/locales/mr/LC_MESSAGES/messages.po | 
+ | [nl](/f11/language/nl) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/nl.po/mnt/stockage/packages/f11/smolt/smoon/locales/nl/LC_MESSAGES/messages.po | 
+ | [or](/f11/language/or) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/or.po/mnt/stockage/packages/f11/smolt/smoon/locales/or/LC_MESSAGES/messages.po | 
+ | [pa](/f11/language/pa) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pa.po/mnt/stockage/packages/f11/smolt/smoon/locales/pa/LC_MESSAGES/messages.po | 
+ | [pl](/f11/language/pl) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pl.po/mnt/stockage/packages/f11/smolt/smoon/locales/pl/LC_MESSAGES/messages.po | 
+ | [pt](/f11/language/pt) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pt.po/mnt/stockage/packages/f11/smolt/smoon/locales/pt/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f11/language/pt_BR) | 1382 | 1382 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/pt_BR.po/mnt/stockage/packages/f11/smolt/smoon/locales/pt_BR.po/mnt/stockage/packages/f11/smolt/smoon/locales/pt_BR/LC_MESSAGES/messages.po | 
+ | [sk](/f11/language/sk) | 966 | 966 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/sk.po | 
+ | [sv](/f11/language/sv) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/sv.po/mnt/stockage/packages/f11/smolt/smoon/locales/sv/LC_MESSAGES/messages.po | 
+ | [ta](/f11/language/ta) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/ta.po/mnt/stockage/packages/f11/smolt/smoon/locales/ta/LC_MESSAGES/messages.po | 
+ | [te](/f11/language/te) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/te.po/mnt/stockage/packages/f11/smolt/smoon/locales/te/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/zh_CN.po/mnt/stockage/packages/f11/smolt/smoon/locales/zh_CN/LC_MESSAGES/messages.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 966 | 966 | 100.0 | /mnt/stockage/packages/f11/smolt/client/po/zh_TW.po | 
+ | [kn](/f11/language/kn) | 1169 | 1174 | 99.6 | /mnt/stockage/packages/f11/smolt/client/po/kn.po/mnt/stockage/packages/f11/smolt/smoon/locales/kn/LC_MESSAGES/messages.po | 
+ | [bn_IN](/f11/language/bn_IN) | 1167 | 1174 | 99.4 | /mnt/stockage/packages/f11/smolt/client/po/bn_IN.po/mnt/stockage/packages/f11/smolt/smoon/locales/bn_IN/LC_MESSAGES/messages.po | 
+ | [de](/f11/language/de) | 1371 | 1382 | 99.2 | /mnt/stockage/packages/f11/smolt/client/po/de.po/mnt/stockage/packages/f11/smolt/smoon/locales/de/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/smolt/smoon/locales/de/C_MESSAGES/messages.po | 
+ | [hu](/f11/language/hu) | 1338 | 1382 | 96.8 | /mnt/stockage/packages/f11/smolt/client/po/hu.po/mnt/stockage/packages/f11/smolt/smoon/locales/hu/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/smolt/smoon/locales/hu/LC_MESSAGES/hu.po | 
+ | [ca](/f11/language/ca) | 1170 | 1379 | 84.8 | /mnt/stockage/packages/f11/smolt/client/po/ca.po/mnt/stockage/packages/f11/smolt/smoon/locales/ca.po/mnt/stockage/packages/f11/smolt/smoon/locales/ca/LC_MESSAGES/messages.po | 
+ | [ru](/f11/language/ru) | 966 | 1174 | 82.3 | /mnt/stockage/packages/f11/smolt/client/po/ru.po/mnt/stockage/packages/f11/smolt/smoon/locales/ru/LC_MESSAGES/messages.po | 
+ | [fi](/f11/language/fi) | 914 | 1174 | 77.9 | /mnt/stockage/packages/f11/smolt/client/po/fi.po/mnt/stockage/packages/f11/smolt/smoon/locales/fi/LC_MESSAGES/messages.po | 
+ | [da](/f11/language/da) | 772 | 1174 | 65.8 | /mnt/stockage/packages/f11/smolt/client/po/da.po/mnt/stockage/packages/f11/smolt/smoon/locales/da/LC_MESSAGES/messages.po | 
+ | [fr](/f11/language/fr) | 527 | 1382 | 38.1 | /mnt/stockage/packages/f11/smolt/client/po/fr.po/mnt/stockage/packages/f11/smolt/smoon/locales/fr_FR/LC_MESSAGES/messages.po/mnt/stockage/packages/f11/smolt/smoon/locales/fr/LC_MESSAGES/messages.po | 
+ | [bg](/f11/language/bg) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/bg.po | 
+ | [cs](/f11/language/cs) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/cs.po | 
+ | [el](/f11/language/el) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/el.po | 
+ | [id](/f11/language/id) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/id.po | 
+ | [mai](/f11/language/mai) | 319 | 966 | 33.0 | /mnt/stockage/packages/f11/smolt/client/po/mai.po | 
+ | [sr](/f11/language/sr) | 324 | 1174 | 27.6 | /mnt/stockage/packages/f11/smolt/client/po/sr.po/mnt/stockage/packages/f11/smolt/smoon/locales/sr/LC_MESSAGES/messages.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 324 | 1174 | 27.6 | /mnt/stockage/packages/f11/smolt/client/po/sr@latin.po/mnt/stockage/packages/f11/smolt/smoon/locales/sr@latin/LC_MESSAGES/messages.po | 
+ | [hr](/f11/language/hr) | 238 | 966 | 24.6 | /mnt/stockage/packages/f11/smolt/client/po/hr.po | 
+ | [pt_PT](/f11/language/pt_PT) | 41 | 208 | 19.7 | /mnt/stockage/packages/f11/smolt/smoon/locales/pt_PT/LC_MESSAGES/messages.po | 
+ | [is](/f11/language/is) | 105 | 966 | 10.9 | /mnt/stockage/packages/f11/smolt/client/po/is.po | 
+ | [ar](/f11/language/ar) | 96 | 966 | 9.9 | /mnt/stockage/packages/f11/smolt/client/po/ar.po | 
+ | [nb_NO](/f11/language/nb_NO) | 68 | 966 | 7.0 | /mnt/stockage/packages/f11/smolt/client/po/nb.po | 
+ | [ms](/f11/language/ms) | 15 | 966 | 1.6 | /mnt/stockage/packages/f11/smolt/client/po/ms.po | 
+ | [error](/f11/language/error) | 0 | 966 | 0.0 | /mnt/stockage/packages/f11/smolt/client/po/default.po | 
 {.sortable}
 
 

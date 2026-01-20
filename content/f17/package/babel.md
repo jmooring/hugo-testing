@@ -18,8 +18,8 @@ The package babel (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f17/babel/babel/messages/tests/data/project/i18n/de_DE/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f17/babel/babel/messages/tests/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
+ | [de](/f17/language/de) | 0 | 3 | 0.0 | /mnt/stockage/packages/f17/babel/babel/messages/tests/data/project/i18n/de_DE/LC_MESSAGES/messages.po | 
+ | [ru](/f17/language/ru) | 0 | 3 | 0.0 | /mnt/stockage/packages/f17/babel/babel/messages/tests/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

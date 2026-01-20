@@ -18,7 +18,7 @@ The package cook (version 2.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f10/language/en.md" >}}) | 997 | 997 | 100.0 | /mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/c_incl.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/common.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cook.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cook_bom.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cookfp.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cooktime.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/file_check.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/find_libs.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/fstrcmp.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/make2cook.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/roffpp.po | 
+ | [en](/f10/language/en) | 997 | 997 | 100.0 | /mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/c_incl.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/common.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cook.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cook_bom.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cookfp.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/cooktime.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/file_check.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/find_libs.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/fstrcmp.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/make2cook.po/mnt/stockage/packages/f10/cook/lib/en/LC_MESSAGES/roffpp.po | 
 {.sortable}
 
 

@@ -39,16 +39,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f14/package/davfs2.md" >}}) | 5276 | 5276 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f14/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [kde-l10n]({{< ref "/f14/package/kde-l10n.md" >}}) | 183 | 183 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
- | [pida]({{< ref "/f14/package/pida.md" >}}) | 7 | 7 | 100.0 |  | 
- | [mkvtoolnix]({{< ref "/f14/package/mkvtoolnix.md" >}}) | 11451 | 11527 | 99.3 | none | 
- | [man-db]({{< ref "/f14/package/man-db.md" >}}) | 16421 | 16642 | 98.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
- | [dpkg]({{< ref "/f14/package/dpkg.md" >}}) | 26824 | 27501 | 97.5 | de <debian-l10n-german@lists.debian.org> | 
- | [shadow-utils]({{< ref "/f14/package/shadow-utils.md" >}}) | 7092 | 15333 | 46.3 | debian-l10n-german <http://lists.debian.org/debian-l10n-german/> | 
- | [po4a]({{< ref "/f14/package/po4a.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f14/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f14/package/davfs2) | 5276 | 5276 | 100.0 |  | 
+ | [kde-i18n](/f14/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [kde-l10n](/f14/package/kde-l10n) | 183 | 183 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [pida](/f14/package/pida) | 7 | 7 | 100.0 |  | 
+ | [mkvtoolnix](/f14/package/mkvtoolnix) | 11451 | 11527 | 99.3 | none | 
+ | [man-db](/f14/package/man-db) | 16421 | 16642 | 98.7 | Indonesian <translation-team-id@lists.sourceforge.net> | 
+ | [dpkg](/f14/package/dpkg) | 26824 | 27501 | 97.5 | de <debian-l10n-german@lists.debian.org> | 
+ | [shadow-utils](/f14/package/shadow-utils) | 7092 | 15333 | 46.3 | debian-l10n-german <http://lists.debian.org/debian-l10n-german/> | 
+ | [po4a](/f14/package/po4a) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f14/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

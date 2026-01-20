@@ -18,25 +18,25 @@ The package emerillon (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/ar.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f14/emerillon/help/de/de.po/mnt/stockage/packages/f14/emerillon/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/gl.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/pt_BR.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/sv.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 246 | 359 | 68.5 | /mnt/stockage/packages/f14/emerillon/po/lv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 246 | 359 | 68.5 | /mnt/stockage/packages/f14/emerillon/po/zh_CN.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 133 | 339 | 39.2 | /mnt/stockage/packages/f14/emerillon/po/is.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 62 | 359 | 17.3 | /mnt/stockage/packages/f14/emerillon/po/nb.po | 
+ | [ar](/f14/language/ar) | 339 | 339 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/ar.po | 
+ | [cs](/f14/language/cs) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/cs.po | 
+ | [da](/f14/language/da) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/da.po | 
+ | [de](/f14/language/de) | 845 | 845 | 100.0 | /mnt/stockage/packages/f14/emerillon/help/de/de.po/mnt/stockage/packages/f14/emerillon/po/de.po | 
+ | [es](/f14/language/es) | 405 | 405 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/es.po | 
+ | [fr](/f14/language/fr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/fr.po | 
+ | [gl](/f14/language/gl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/gl.po | 
+ | [id](/f14/language/id) | 339 | 339 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/id.po | 
+ | [it](/f14/language/it) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/it.po | 
+ | [ja](/f14/language/ja) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/ja.po | 
+ | [pl](/f14/language/pl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/pl.po | 
+ | [pt](/f14/language/pt) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 404 | 404 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/pt_BR.po | 
+ | [sl](/f14/language/sl) | 405 | 405 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/sl.po | 
+ | [sv](/f14/language/sv) | 359 | 359 | 100.0 | /mnt/stockage/packages/f14/emerillon/po/sv.po | 
+ | [lv](/f14/language/lv) | 246 | 359 | 68.5 | /mnt/stockage/packages/f14/emerillon/po/lv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 246 | 359 | 68.5 | /mnt/stockage/packages/f14/emerillon/po/zh_CN.po | 
+ | [is](/f14/language/is) | 133 | 339 | 39.2 | /mnt/stockage/packages/f14/emerillon/po/is.po | 
+ | [nb_NO](/f14/language/nb_NO) | 62 | 359 | 17.3 | /mnt/stockage/packages/f14/emerillon/po/nb.po | 
 {.sortable}
 
 

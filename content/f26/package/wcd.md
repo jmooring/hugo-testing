@@ -18,16 +18,16 @@ The package wcd (version 6.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f26/wcd/src/po/da.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 8069 | 8069 | 100.0 | /mnt/stockage/packages/f26/wcd/src/po/uk.po/mnt/stockage/packages/f26/wcd/src/po-man/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f26/wcd/src/po/vi.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 8044 | 8069 | 99.7 | /mnt/stockage/packages/f26/wcd/src/po/de.po/mnt/stockage/packages/f26/wcd/src/po-man/de.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 8027 | 8069 | 99.5 | /mnt/stockage/packages/f26/wcd/src/po/nl.po/mnt/stockage/packages/f26/wcd/src/po-man/nl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1400 | 1425 | 98.2 | /mnt/stockage/packages/f26/wcd/src/po/sr.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 1392 | 1425 | 97.7 | /mnt/stockage/packages/f26/wcd/src/po/eo.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 1392 | 1425 | 97.7 | /mnt/stockage/packages/f26/wcd/src/po/fi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1315 | 1425 | 92.3 | /mnt/stockage/packages/f26/wcd/src/po/zh_CN.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1148 | 1425 | 80.6 | /mnt/stockage/packages/f26/wcd/src/po/es.po | 
+ | [da](/f26/language/da) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f26/wcd/src/po/da.po | 
+ | [uk](/f26/language/uk) | 8069 | 8069 | 100.0 | /mnt/stockage/packages/f26/wcd/src/po/uk.po/mnt/stockage/packages/f26/wcd/src/po-man/uk.po | 
+ | [vi](/f26/language/vi) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f26/wcd/src/po/vi.po | 
+ | [de](/f26/language/de) | 8044 | 8069 | 99.7 | /mnt/stockage/packages/f26/wcd/src/po/de.po/mnt/stockage/packages/f26/wcd/src/po-man/de.po | 
+ | [nl](/f26/language/nl) | 8027 | 8069 | 99.5 | /mnt/stockage/packages/f26/wcd/src/po/nl.po/mnt/stockage/packages/f26/wcd/src/po-man/nl.po | 
+ | [sr](/f26/language/sr) | 1400 | 1425 | 98.2 | /mnt/stockage/packages/f26/wcd/src/po/sr.po | 
+ | [eo](/f26/language/eo) | 1392 | 1425 | 97.7 | /mnt/stockage/packages/f26/wcd/src/po/eo.po | 
+ | [fi](/f26/language/fi) | 1392 | 1425 | 97.7 | /mnt/stockage/packages/f26/wcd/src/po/fi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1315 | 1425 | 92.3 | /mnt/stockage/packages/f26/wcd/src/po/zh_CN.po | 
+ | [es](/f26/language/es) | 1148 | 1425 | 80.6 | /mnt/stockage/packages/f26/wcd/src/po/es.po | 
 {.sortable}
 
 

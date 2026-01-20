@@ -18,81 +18,81 @@ The package libgnomekbd (version 3.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ar.po | 
- | [as]({{< ref "/f36/language/as.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/as.po | 
- | [ast]({{< ref "/f36/language/ast.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ast.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/be.po | 
- | [be_Latn]({{< ref "/f36/language/be_Latn.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/be@latin.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bg.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 286 | 286 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bn.po | 
- | [bn_IN]({{< ref "/f36/language/bn_IN.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bn_IN.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bs.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ca.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ca@valencia.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/de.po | 
- | [dz]({{< ref "/f36/language/dz.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/dz.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/el.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/en_GB.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/eo.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/es.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/et.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/eu.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fa.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fr.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fur.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ga.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/gl.po | 
- | [gu]({{< ref "/f36/language/gu.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/gu.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/he.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/hi.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ja.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ka.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/kk.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/km.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/kn.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ko.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/lt.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/lv.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/mk.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ml.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/mr.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/nb.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/nl.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/nn.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/oc.po | 
- | [or]({{< ref "/f36/language/or.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/or.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pa.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ro.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ru.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/si.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sk.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sl.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sq.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sr.po/mnt/stockage/packages/f36/libgnomekbd/po/sr@latin.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sv.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ta.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/te.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/tg.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/th.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/tr.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ug.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/vi.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/zh_HK.po | 
- | [error]({{< ref "/f36/language/error.md" >}}) | 210 | 286 | 73.4 | /mnt/stockage/packages/f36/libgnomekbd/po/en@shaw.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 183 | 286 | 64.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ms.po | 
- | [mai]({{< ref "/f36/language/mai.md" >}}) | 109 | 246 | 44.3 | /mnt/stockage/packages/f36/libgnomekbd/po/mai.po | 
+ | [ar](/f36/language/ar) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ar.po | 
+ | [as](/f36/language/as) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/as.po | 
+ | [ast](/f36/language/ast) | 286 | 286 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ast.po | 
+ | [be](/f36/language/be) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/be.po | 
+ | [be_Latn](/f36/language/be_Latn) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/be@latin.po | 
+ | [bg](/f36/language/bg) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bg.po | 
+ | [bn](/f36/language/bn) | 286 | 286 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bn.po | 
+ | [bn_IN](/f36/language/bn_IN) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bn_IN.po | 
+ | [bs](/f36/language/bs) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/bs.po | 
+ | [ca](/f36/language/ca) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ca.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ca@valencia.po | 
+ | [cs](/f36/language/cs) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/cs.po | 
+ | [da](/f36/language/da) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/da.po | 
+ | [de](/f36/language/de) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/de.po | 
+ | [dz](/f36/language/dz) | 277 | 277 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/dz.po | 
+ | [el](/f36/language/el) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/el.po | 
+ | [en_GB](/f36/language/en_GB) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/en_GB.po | 
+ | [eo](/f36/language/eo) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/eo.po | 
+ | [es](/f36/language/es) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/es.po | 
+ | [et](/f36/language/et) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/et.po | 
+ | [eu](/f36/language/eu) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/eu.po | 
+ | [fa](/f36/language/fa) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fa.po | 
+ | [fi](/f36/language/fi) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fi.po | 
+ | [fr](/f36/language/fr) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fr.po | 
+ | [fur](/f36/language/fur) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/fur.po | 
+ | [ga](/f36/language/ga) | 246 | 246 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ga.po | 
+ | [gl](/f36/language/gl) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/gl.po | 
+ | [gu](/f36/language/gu) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/gu.po | 
+ | [he](/f36/language/he) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/he.po | 
+ | [hi](/f36/language/hi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/hi.po | 
+ | [hu](/f36/language/hu) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/hu.po | 
+ | [id](/f36/language/id) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/id.po | 
+ | [it](/f36/language/it) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/it.po | 
+ | [ja](/f36/language/ja) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ja.po | 
+ | [ka](/f36/language/ka) | 262 | 262 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ka.po | 
+ | [kk](/f36/language/kk) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/kk.po | 
+ | [km](/f36/language/km) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/km.po | 
+ | [kn](/f36/language/kn) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/kn.po | 
+ | [ko](/f36/language/ko) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ko.po | 
+ | [lt](/f36/language/lt) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/lt.po | 
+ | [lv](/f36/language/lv) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/lv.po | 
+ | [mk](/f36/language/mk) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/mk.po | 
+ | [ml](/f36/language/ml) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ml.po | 
+ | [mr](/f36/language/mr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/mr.po | 
+ | [nb_NO](/f36/language/nb_NO) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/nb.po | 
+ | [nl](/f36/language/nl) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/nl.po | 
+ | [nn](/f36/language/nn) | 277 | 277 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/nn.po | 
+ | [oc](/f36/language/oc) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/oc.po | 
+ | [or](/f36/language/or) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/or.po | 
+ | [pa](/f36/language/pa) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pa.po | 
+ | [pl](/f36/language/pl) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pl.po | 
+ | [pt](/f36/language/pt) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ro.po | 
+ | [ru](/f36/language/ru) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ru.po | 
+ | [si](/f36/language/si) | 262 | 262 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/si.po | 
+ | [sk](/f36/language/sk) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sk.po | 
+ | [sl](/f36/language/sl) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sl.po | 
+ | [sq](/f36/language/sq) | 235 | 235 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sq.po | 
+ | [sr](/f36/language/sr) | 376 | 376 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sr.po/mnt/stockage/packages/f36/libgnomekbd/po/sr@latin.po | 
+ | [sv](/f36/language/sv) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/sv.po | 
+ | [ta](/f36/language/ta) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ta.po | 
+ | [te](/f36/language/te) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/te.po | 
+ | [tg](/f36/language/tg) | 187 | 187 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/tg.po | 
+ | [th](/f36/language/th) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/th.po | 
+ | [tr](/f36/language/tr) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/tr.po | 
+ | [ug](/f36/language/ug) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ug.po | 
+ | [uk](/f36/language/uk) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/uk.po | 
+ | [vi](/f36/language/vi) | 188 | 188 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/vi.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/zh_TW.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 242 | 242 | 100.0 | /mnt/stockage/packages/f36/libgnomekbd/po/zh_HK.po | 
+ | [error](/f36/language/error) | 210 | 286 | 73.4 | /mnt/stockage/packages/f36/libgnomekbd/po/en@shaw.po | 
+ | [ms](/f36/language/ms) | 183 | 286 | 64.0 | /mnt/stockage/packages/f36/libgnomekbd/po/ms.po | 
+ | [mai](/f36/language/mai) | 109 | 246 | 44.3 | /mnt/stockage/packages/f36/libgnomekbd/po/mai.po | 
 {.sortable}
 
 

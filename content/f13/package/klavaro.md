@@ -18,26 +18,26 @@ The package klavaro (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f13/language/da.md" >}}) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/da.po | 
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/eo.po | 
- | [kk]({{< ref "/f13/language/kk.md" >}}) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/kk.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/pt_BR.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/ar.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/de.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/hu.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/nb.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/vi.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 1770 | 1878 | 94.2 | /mnt/stockage/packages/f13/klavaro/po/gl.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1759 | 1878 | 93.7 | /mnt/stockage/packages/f13/klavaro/po/es.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1759 | 1878 | 93.7 | /mnt/stockage/packages/f13/klavaro/po/nl.po | 
- | [bn]({{< ref "/f13/language/bn.md" >}}) | 1266 | 1878 | 67.4 | /mnt/stockage/packages/f13/klavaro/po/bn.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1266 | 1878 | 67.4 | /mnt/stockage/packages/f13/klavaro/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1114 | 1878 | 59.3 | /mnt/stockage/packages/f13/klavaro/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1114 | 1878 | 59.3 | /mnt/stockage/packages/f13/klavaro/po/sv.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1096 | 1878 | 58.4 | /mnt/stockage/packages/f13/klavaro/po/pl.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 807 | 1878 | 43.0 | /mnt/stockage/packages/f13/klavaro/po/en_GB.po | 
- | [ur]({{< ref "/f13/language/ur.md" >}}) | 652 | 1878 | 34.7 | /mnt/stockage/packages/f13/klavaro/po/ur.po | 
+ | [da](/f13/language/da) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/da.po | 
+ | [eo](/f13/language/eo) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/eo.po | 
+ | [kk](/f13/language/kk) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/kk.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1878 | 1878 | 100.0 | /mnt/stockage/packages/f13/klavaro/po/pt_BR.po | 
+ | [ar](/f13/language/ar) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/ar.po | 
+ | [cs](/f13/language/cs) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/cs.po | 
+ | [de](/f13/language/de) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/de.po | 
+ | [hu](/f13/language/hu) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/hu.po | 
+ | [nb_NO](/f13/language/nb_NO) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/nb.po | 
+ | [vi](/f13/language/vi) | 1877 | 1878 | 99.9 | /mnt/stockage/packages/f13/klavaro/po/vi.po | 
+ | [gl](/f13/language/gl) | 1770 | 1878 | 94.2 | /mnt/stockage/packages/f13/klavaro/po/gl.po | 
+ | [es](/f13/language/es) | 1759 | 1878 | 93.7 | /mnt/stockage/packages/f13/klavaro/po/es.po | 
+ | [nl](/f13/language/nl) | 1759 | 1878 | 93.7 | /mnt/stockage/packages/f13/klavaro/po/nl.po | 
+ | [bn](/f13/language/bn) | 1266 | 1878 | 67.4 | /mnt/stockage/packages/f13/klavaro/po/bn.po | 
+ | [fr](/f13/language/fr) | 1266 | 1878 | 67.4 | /mnt/stockage/packages/f13/klavaro/po/fr.po | 
+ | [ru](/f13/language/ru) | 1114 | 1878 | 59.3 | /mnt/stockage/packages/f13/klavaro/po/ru.po | 
+ | [sv](/f13/language/sv) | 1114 | 1878 | 59.3 | /mnt/stockage/packages/f13/klavaro/po/sv.po | 
+ | [pl](/f13/language/pl) | 1096 | 1878 | 58.4 | /mnt/stockage/packages/f13/klavaro/po/pl.po | 
+ | [en_GB](/f13/language/en_GB) | 807 | 1878 | 43.0 | /mnt/stockage/packages/f13/klavaro/po/en_GB.po | 
+ | [ur](/f13/language/ur) | 652 | 1878 | 34.7 | /mnt/stockage/packages/f13/klavaro/po/ur.po | 
 {.sortable}
 
 

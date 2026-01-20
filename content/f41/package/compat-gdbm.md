@@ -18,17 +18,17 @@ The package compat-gdbm (version 1.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f41/language/da.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/da.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/eo.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/fr.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/pt_BR.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/sr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/vi.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 611 | 779 | 78.4 | /mnt/stockage/packages/f41/compat-gdbm/po/de.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 611 | 779 | 78.4 | /mnt/stockage/packages/f41/compat-gdbm/po/fi.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 249 | 779 | 32.0 | /mnt/stockage/packages/f41/compat-gdbm/po/ja.po | 
+ | [da](/f41/language/da) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/da.po | 
+ | [eo](/f41/language/eo) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/eo.po | 
+ | [fr](/f41/language/fr) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/fr.po | 
+ | [pl](/f41/language/pl) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/pt_BR.po | 
+ | [sr](/f41/language/sr) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/sr.po | 
+ | [uk](/f41/language/uk) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/uk.po | 
+ | [vi](/f41/language/vi) | 779 | 779 | 100.0 | /mnt/stockage/packages/f41/compat-gdbm/po/vi.po | 
+ | [de](/f41/language/de) | 611 | 779 | 78.4 | /mnt/stockage/packages/f41/compat-gdbm/po/de.po | 
+ | [fi](/f41/language/fi) | 611 | 779 | 78.4 | /mnt/stockage/packages/f41/compat-gdbm/po/fi.po | 
+ | [ja](/f41/language/ja) | 249 | 779 | 32.0 | /mnt/stockage/packages/f41/compat-gdbm/po/ja.po | 
 {.sortable}
 
 

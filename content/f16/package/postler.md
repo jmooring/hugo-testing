@@ -18,18 +18,18 @@ The package postler (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 748 | 748 | 100.0 | /mnt/stockage/packages/f16/postler/po/da.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 753 | 753 | 100.0 | /mnt/stockage/packages/f16/postler/po/fi.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 809 | 809 | 100.0 | /mnt/stockage/packages/f16/postler/po/he.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 754 | 754 | 100.0 | /mnt/stockage/packages/f16/postler/po/ja.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 881 | 881 | 100.0 | /mnt/stockage/packages/f16/postler/po/pt.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 886 | 890 | 99.6 | /mnt/stockage/packages/f16/postler/po/it.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 858 | 887 | 96.7 | /mnt/stockage/packages/f16/postler/po/de.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 762 | 790 | 96.5 | /mnt/stockage/packages/f16/postler/po/ru.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 701 | 736 | 95.2 | /mnt/stockage/packages/f16/postler/po/gl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 667 | 736 | 90.6 | /mnt/stockage/packages/f16/postler/po/sv.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 783 | 879 | 89.1 | /mnt/stockage/packages/f16/postler/po/pl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 616 | 760 | 81.1 | /mnt/stockage/packages/f16/postler/po/zh_CN.po | 
+ | [da](/f16/language/da) | 748 | 748 | 100.0 | /mnt/stockage/packages/f16/postler/po/da.po | 
+ | [fi](/f16/language/fi) | 753 | 753 | 100.0 | /mnt/stockage/packages/f16/postler/po/fi.po | 
+ | [he](/f16/language/he) | 809 | 809 | 100.0 | /mnt/stockage/packages/f16/postler/po/he.po | 
+ | [ja](/f16/language/ja) | 754 | 754 | 100.0 | /mnt/stockage/packages/f16/postler/po/ja.po | 
+ | [pt](/f16/language/pt) | 881 | 881 | 100.0 | /mnt/stockage/packages/f16/postler/po/pt.po | 
+ | [it](/f16/language/it) | 886 | 890 | 99.6 | /mnt/stockage/packages/f16/postler/po/it.po | 
+ | [de](/f16/language/de) | 858 | 887 | 96.7 | /mnt/stockage/packages/f16/postler/po/de.po | 
+ | [ru](/f16/language/ru) | 762 | 790 | 96.5 | /mnt/stockage/packages/f16/postler/po/ru.po | 
+ | [gl](/f16/language/gl) | 701 | 736 | 95.2 | /mnt/stockage/packages/f16/postler/po/gl.po | 
+ | [sv](/f16/language/sv) | 667 | 736 | 90.6 | /mnt/stockage/packages/f16/postler/po/sv.po | 
+ | [pl](/f16/language/pl) | 783 | 879 | 89.1 | /mnt/stockage/packages/f16/postler/po/pl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 616 | 760 | 81.1 | /mnt/stockage/packages/f16/postler/po/zh_CN.po | 
 {.sortable}
 
 

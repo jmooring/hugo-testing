@@ -18,20 +18,20 @@ The package xfce4-websearch-plugin (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/eu.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/fr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/hu.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/ja.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/pl.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/ru.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/sq.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/zh_TW.po | 
+ | [ca](/f18/language/ca) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/ca.po | 
+ | [cs](/f18/language/cs) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/cs.po | 
+ | [de](/f18/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/de.po | 
+ | [el](/f18/language/el) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/en_GB.po | 
+ | [eu](/f18/language/eu) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/eu.po | 
+ | [fr](/f18/language/fr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/fr.po | 
+ | [hu](/f18/language/hu) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/hu.po | 
+ | [ja](/f18/language/ja) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/ja.po | 
+ | [pl](/f18/language/pl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/pl.po | 
+ | [ru](/f18/language/ru) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/ru.po | 
+ | [sq](/f18/language/sq) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/sq.po | 
+ | [vi](/f18/language/vi) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/vi.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 13 | 13 | 100.0 | /mnt/stockage/packages/f18/xfce4-websearch-plugin/po/zh_TW.po | 
 {.sortable}
 
 

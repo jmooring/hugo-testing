@@ -18,37 +18,37 @@ The package visualboyadvance-m (version 2.1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3293 | 3293 | 100.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pt_BR.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 3293 | 3293 | 100.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 9752 | 9752 | 100.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/zh_CN.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/zh.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/zh-Hans.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 6444 | 6459 | 99.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/fr_FR.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/fr.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 6170 | 6459 | 95.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pl_PL.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pl.po | 
- | [es_419]({{< ref "/f42/language/es_419.md" >}}) | 2532 | 3293 | 76.9 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_419.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 4765 | 6459 | 73.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ko_KR.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ko.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 2011 | 3293 | 61.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/de.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 3870 | 6459 | 59.9 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/hu_HU.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/hu.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1850 | 3293 | 56.2 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/tr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1802 | 3293 | 54.7 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/it_IT.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 1646 | 3293 | 50.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/id.po | 
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/en_US.po | 
- | [es_CO]({{< ref "/f42/language/es_CO.md" >}}) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_CO.po | 
- | [es_PE]({{< ref "/f42/language/es_PE.md" >}}) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_PE.po | 
- | [es_US]({{< ref "/f42/language/es_US.md" >}}) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_US.po | 
- | [he_IL]({{< ref "/f42/language/he_IL.md" >}}) | 1509 | 3293 | 45.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/he_IL.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1461 | 3293 | 44.4 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1420 | 3293 | 43.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/bg.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 1420 | 3293 | 43.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/gl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1420 | 3293 | 43.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/sv.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1404 | 3293 | 42.6 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ru_RU.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 1292 | 3293 | 39.2 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/br.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1280 | 3293 | 38.9 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/nl.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 1227 | 3293 | 37.3 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/el.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 1227 | 3293 | 37.3 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ms_MY.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1227 | 3293 | 37.3 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/nb.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1145 | 3293 | 34.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/cs.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1420 | 6586 | 21.6 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ja_JP.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ja.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 0 | 3293 | 0.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pt_PT.po | 
- | [ur_PK]({{< ref "/f42/language/ur_PK.md" >}}) | 0 | 3260 | 0.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ur_PK.po | 
+ | [pt_BR](/f42/language/pt_BR) | 3293 | 3293 | 100.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pt_BR.po | 
+ | [uk](/f42/language/uk) | 3293 | 3293 | 100.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 9752 | 9752 | 100.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/zh_CN.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/zh.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/zh-Hans.po | 
+ | [fr](/f42/language/fr) | 6444 | 6459 | 99.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/fr_FR.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/fr.po | 
+ | [pl](/f42/language/pl) | 6170 | 6459 | 95.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pl_PL.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pl.po | 
+ | [es_419](/f42/language/es_419) | 2532 | 3293 | 76.9 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_419.po | 
+ | [ko](/f42/language/ko) | 4765 | 6459 | 73.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ko_KR.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ko.po | 
+ | [de](/f42/language/de) | 2011 | 3293 | 61.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/de.po | 
+ | [hu](/f42/language/hu) | 3870 | 6459 | 59.9 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/hu_HU.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/hu.po | 
+ | [tr](/f42/language/tr) | 1850 | 3293 | 56.2 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/tr.po | 
+ | [it](/f42/language/it) | 1802 | 3293 | 54.7 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/it_IT.po | 
+ | [id](/f42/language/id) | 1646 | 3293 | 50.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/id.po | 
+ | [en_US](/f42/language/en_US) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/en_US.po | 
+ | [es_CO](/f42/language/es_CO) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_CO.po | 
+ | [es_PE](/f42/language/es_PE) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_PE.po | 
+ | [es_US](/f42/language/es_US) | 1472 | 3166 | 46.5 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es_US.po | 
+ | [he_IL](/f42/language/he_IL) | 1509 | 3293 | 45.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/he_IL.po | 
+ | [es](/f42/language/es) | 1461 | 3293 | 44.4 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/es.po | 
+ | [bg](/f42/language/bg) | 1420 | 3293 | 43.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/bg.po | 
+ | [gl](/f42/language/gl) | 1420 | 3293 | 43.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/gl.po | 
+ | [sv](/f42/language/sv) | 1420 | 3293 | 43.1 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/sv.po | 
+ | [ru](/f42/language/ru) | 1404 | 3293 | 42.6 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ru_RU.po | 
+ | [br](/f42/language/br) | 1292 | 3293 | 39.2 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/br.po | 
+ | [nl](/f42/language/nl) | 1280 | 3293 | 38.9 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/nl.po | 
+ | [el](/f42/language/el) | 1227 | 3293 | 37.3 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/el.po | 
+ | [ms](/f42/language/ms) | 1227 | 3293 | 37.3 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ms_MY.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1227 | 3293 | 37.3 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/nb.po | 
+ | [cs](/f42/language/cs) | 1145 | 3293 | 34.8 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/cs.po | 
+ | [ja](/f42/language/ja) | 1420 | 6586 | 21.6 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ja_JP.po/mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ja.po | 
+ | [pt_PT](/f42/language/pt_PT) | 0 | 3293 | 0.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/pt_PT.po | 
+ | [ur_PK](/f42/language/ur_PK) | 0 | 3260 | 0.0 | /mnt/stockage/packages/f42/visualboyadvance-m/po/wxvbam/ur_PK.po | 
 {.sortable}
 
 

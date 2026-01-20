@@ -18,19 +18,19 @@ The package virt-top (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/as.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/es.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/gu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/ja.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/kn.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/ml.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/ru.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/zh_CN.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 347 | 351 | 98.9 | /mnt/stockage/packages/f14/virt-top/po/mr.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 165 | 351 | 47.0 | /mnt/stockage/packages/f14/virt-top/po/de.po | 
+ | [as](/f14/language/as) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/as.po | 
+ | [es](/f14/language/es) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/es.po | 
+ | [gu](/f14/language/gu) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/gu.po | 
+ | [it](/f14/language/it) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/it.po | 
+ | [ja](/f14/language/ja) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/ja.po | 
+ | [kn](/f14/language/kn) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/kn.po | 
+ | [ml](/f14/language/ml) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/ml.po | 
+ | [pl](/f14/language/pl) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/ru.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 351 | 351 | 100.0 | /mnt/stockage/packages/f14/virt-top/po/zh_CN.po | 
+ | [mr](/f14/language/mr) | 347 | 351 | 98.9 | /mnt/stockage/packages/f14/virt-top/po/mr.po | 
+ | [de](/f14/language/de) | 165 | 351 | 47.0 | /mnt/stockage/packages/f14/virt-top/po/de.po | 
 {.sortable}
 
 

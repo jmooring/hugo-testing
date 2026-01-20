@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [minetest]({{< ref "/f43/package/minetest.md" >}}) | 18 | 10452 | 0.2 | Chinese (Literary) <https://hosted.weblate.org/projects/minetest/minetest/lzh/> | 
+ | [minetest](/f43/package/minetest) | 18 | 10452 | 0.2 | Chinese (Literary) <https://hosted.weblate.org/projects/minetest/minetest/lzh/> | 
 {.sortable}
 
 

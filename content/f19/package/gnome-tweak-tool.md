@@ -18,48 +18,48 @@ The package gnome-tweak-tool (version 3.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ar.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ca.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ca@valencia.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/es.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/eu.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/fa.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/gl.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/he.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/it.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/lv.po | 
- | [my]({{< ref "/f19/language/my.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/my.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/nb.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sr@latin.po/mnt/stockage/packages/f19/gnome-tweak-tool/po/sr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sv.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/te.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/zh_HK.po | 
- | [ky]({{< ref "/f19/language/ky.md" >}}) | 155 | 156 | 99.4 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ky.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 109 | 111 | 98.2 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ja.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 22 | 119 | 18.5 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/eo.po | 
+ | [ar](/f19/language/ar) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ar.po | 
+ | [bg](/f19/language/bg) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/bg.po | 
+ | [ca](/f19/language/ca) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ca.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ca@valencia.po | 
+ | [cs](/f19/language/cs) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/cs.po | 
+ | [da](/f19/language/da) | 110 | 110 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/da.po | 
+ | [de](/f19/language/de) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/de.po | 
+ | [el](/f19/language/el) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 153 | 153 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/en_GB.po | 
+ | [es](/f19/language/es) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/es.po | 
+ | [eu](/f19/language/eu) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/eu.po | 
+ | [fa](/f19/language/fa) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/fa.po | 
+ | [fi](/f19/language/fi) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/fi.po | 
+ | [fr](/f19/language/fr) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/fr.po | 
+ | [gl](/f19/language/gl) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/gl.po | 
+ | [he](/f19/language/he) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/he.po | 
+ | [hu](/f19/language/hu) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/hu.po | 
+ | [id](/f19/language/id) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/id.po | 
+ | [it](/f19/language/it) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/it.po | 
+ | [ko](/f19/language/ko) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ko.po | 
+ | [lt](/f19/language/lt) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/lt.po | 
+ | [lv](/f19/language/lv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/lv.po | 
+ | [my](/f19/language/my) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/my.po | 
+ | [nb_NO](/f19/language/nb_NO) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/nb.po | 
+ | [pa](/f19/language/pa) | 156 | 156 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pa.po | 
+ | [pl](/f19/language/pl) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pl.po | 
+ | [pt](/f19/language/pt) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ru.po | 
+ | [sk](/f19/language/sk) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sk.po | 
+ | [sl](/f19/language/sl) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sl.po | 
+ | [sr](/f19/language/sr) | 334 | 334 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sr@latin.po/mnt/stockage/packages/f19/gnome-tweak-tool/po/sr.po | 
+ | [sv](/f19/language/sv) | 111 | 111 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/sv.po | 
+ | [te](/f19/language/te) | 110 | 110 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/te.po | 
+ | [uk](/f19/language/uk) | 119 | 119 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/uk.po | 
+ | [vi](/f19/language/vi) | 7 | 7 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 167 | 167 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 157 | 157 | 100.0 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/zh_HK.po | 
+ | [ky](/f19/language/ky) | 155 | 156 | 99.4 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ky.po | 
+ | [ja](/f19/language/ja) | 109 | 111 | 98.2 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/ja.po | 
+ | [eo](/f19/language/eo) | 22 | 119 | 18.5 | /mnt/stockage/packages/f19/gnome-tweak-tool/po/eo.po | 
 {.sortable}
 
 

@@ -18,55 +18,55 @@ The package NetworkManager-l2tp (version 0.9.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 763 | 763 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/en_GB.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 396 | 763 | 51.9 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 112 | 763 | 14.7 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/sv.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/bg.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/eu.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/gu.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/it.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/lv.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pt.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/sl.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ta.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/uk.po | 
- | [as]({{< ref "/f19/language/as.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/as.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/bn_IN.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ca.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/da.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/kn.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/mr.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ro.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/te.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/zh_HK.po | 
- | [be_Latn]({{< ref "/f19/language/be_Latn.md" >}}) | 83 | 763 | 10.9 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/be@latin.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 83 | 763 | 10.9 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/fi.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 80 | 763 | 10.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/nl.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ar.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ja.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ka.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ko.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/mk.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/nb.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/th.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/vi.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 3 | 763 | 0.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/he.po | 
- | [dz]({{< ref "/f19/language/dz.md" >}}) | 0 | 763 | 0.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/dz.po | 
+ | [en_GB](/f19/language/en_GB) | 763 | 763 | 100.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/en_GB.po | 
+ | [ru](/f19/language/ru) | 396 | 763 | 51.9 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ru.po | 
+ | [sv](/f19/language/sv) | 112 | 763 | 14.7 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/sv.po | 
+ | [bg](/f19/language/bg) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/bg.po | 
+ | [cs](/f19/language/cs) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/cs.po | 
+ | [de](/f19/language/de) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/de.po | 
+ | [el](/f19/language/el) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/el.po | 
+ | [es](/f19/language/es) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/es.po | 
+ | [et](/f19/language/et) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/et.po | 
+ | [eu](/f19/language/eu) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/eu.po | 
+ | [fr](/f19/language/fr) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/fr.po | 
+ | [gl](/f19/language/gl) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/gl.po | 
+ | [gu](/f19/language/gu) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/gu.po | 
+ | [hu](/f19/language/hu) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/hu.po | 
+ | [id](/f19/language/id) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/id.po | 
+ | [it](/f19/language/it) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/it.po | 
+ | [lt](/f19/language/lt) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/lt.po | 
+ | [lv](/f19/language/lv) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/lv.po | 
+ | [pa](/f19/language/pa) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pa.po | 
+ | [pl](/f19/language/pl) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pl.po | 
+ | [pt](/f19/language/pt) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pt.po | 
+ | [sl](/f19/language/sl) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/sl.po | 
+ | [ta](/f19/language/ta) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ta.po | 
+ | [uk](/f19/language/uk) | 110 | 763 | 14.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/uk.po | 
+ | [as](/f19/language/as) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/as.po | 
+ | [bn_IN](/f19/language/bn_IN) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/bn_IN.po | 
+ | [ca](/f19/language/ca) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ca.po | 
+ | [da](/f19/language/da) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/da.po | 
+ | [kn](/f19/language/kn) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/kn.po | 
+ | [mr](/f19/language/mr) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/mr.po | 
+ | [pt_BR](/f19/language/pt_BR) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ro.po | 
+ | [te](/f19/language/te) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/te.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 84 | 763 | 11.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/zh_HK.po | 
+ | [be_Latn](/f19/language/be_Latn) | 83 | 763 | 10.9 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/be@latin.po | 
+ | [fi](/f19/language/fi) | 83 | 763 | 10.9 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/fi.po | 
+ | [nl](/f19/language/nl) | 80 | 763 | 10.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/nl.po | 
+ | [ar](/f19/language/ar) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ar.po | 
+ | [ja](/f19/language/ja) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ja.po | 
+ | [ka](/f19/language/ka) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ka.po | 
+ | [ko](/f19/language/ko) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/ko.po | 
+ | [mk](/f19/language/mk) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/mk.po | 
+ | [nb_NO](/f19/language/nb_NO) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/nb.po | 
+ | [th](/f19/language/th) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/th.po | 
+ | [vi](/f19/language/vi) | 4 | 763 | 0.5 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/vi.po | 
+ | [he](/f19/language/he) | 3 | 763 | 0.4 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/he.po | 
+ | [dz](/f19/language/dz) | 0 | 763 | 0.0 | /mnt/stockage/packages/f19/NetworkManager-l2tp/po/dz.po | 
 {.sortable}
 
 

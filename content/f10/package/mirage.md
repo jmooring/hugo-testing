@@ -18,15 +18,15 @@ The package mirage (version 0.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/mirage/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/mirage/po/hu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/mirage/po/pl.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 739 | 742 | 99.6 | /mnt/stockage/packages/f10/mirage/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 685 | 742 | 92.3 | /mnt/stockage/packages/f10/mirage/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 685 | 742 | 92.3 | /mnt/stockage/packages/f10/mirage/po/es.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 683 | 742 | 92.0 | /mnt/stockage/packages/f10/mirage/po/it.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 259 | 742 | 34.9 | /mnt/stockage/packages/f10/mirage/po/ru.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 0 | 742 | 0.0 | /mnt/stockage/packages/f10/mirage/po/messages.po | 
+ | [fr](/f10/language/fr) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/mirage/po/fr.po | 
+ | [hu](/f10/language/hu) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/mirage/po/hu.po | 
+ | [pl](/f10/language/pl) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/mirage/po/pl.po | 
+ | [cs](/f10/language/cs) | 739 | 742 | 99.6 | /mnt/stockage/packages/f10/mirage/po/cs.po | 
+ | [de](/f10/language/de) | 685 | 742 | 92.3 | /mnt/stockage/packages/f10/mirage/po/de.po | 
+ | [es](/f10/language/es) | 685 | 742 | 92.3 | /mnt/stockage/packages/f10/mirage/po/es.po | 
+ | [it](/f10/language/it) | 683 | 742 | 92.0 | /mnt/stockage/packages/f10/mirage/po/it.po | 
+ | [ru](/f10/language/ru) | 259 | 742 | 34.9 | /mnt/stockage/packages/f10/mirage/po/ru.po | 
+ | [error](/f10/language/error) | 0 | 742 | 0.0 | /mnt/stockage/packages/f10/mirage/po/messages.po | 
 {.sortable}
 
 

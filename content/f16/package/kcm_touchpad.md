@@ -18,10 +18,10 @@ The package kcm_touchpad (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f16/kcm_touchpad/po/nl/kcm_touchpad.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 297 | 316 | 94.0 | /mnt/stockage/packages/f16/kcm_touchpad/po/de/kcm_touchpad.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 5 | 316 | 1.6 | /mnt/stockage/packages/f16/kcm_touchpad/po/pl/kcm_touchpad.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1 | 316 | 0.3 | /mnt/stockage/packages/f16/kcm_touchpad/po/es/kcm_touchpad.po | 
+ | [nl](/f16/language/nl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f16/kcm_touchpad/po/nl/kcm_touchpad.po | 
+ | [de](/f16/language/de) | 297 | 316 | 94.0 | /mnt/stockage/packages/f16/kcm_touchpad/po/de/kcm_touchpad.po | 
+ | [pl](/f16/language/pl) | 5 | 316 | 1.6 | /mnt/stockage/packages/f16/kcm_touchpad/po/pl/kcm_touchpad.po | 
+ | [es](/f16/language/es) | 1 | 316 | 0.3 | /mnt/stockage/packages/f16/kcm_touchpad/po/es/kcm_touchpad.po | 
 {.sortable}
 
 

@@ -18,48 +18,48 @@ The package php-horde-Horde-Date (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/da/LC_MESSAGES/Horde_Date.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/de/LC_MESSAGES/Horde_Date.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/el/LC_MESSAGES/Horde_Date.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/es/LC_MESSAGES/Horde_Date.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/et/LC_MESSAGES/Horde_Date.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/eu/LC_MESSAGES/Horde_Date.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/fi/LC_MESSAGES/Horde_Date.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/fr/LC_MESSAGES/Horde_Date.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/gl/LC_MESSAGES/Horde_Date.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/hr/LC_MESSAGES/Horde_Date.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/hu/LC_MESSAGES/Horde_Date.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ja/LC_MESSAGES/Horde_Date.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/lt/LC_MESSAGES/Horde_Date.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/lv/LC_MESSAGES/Horde_Date.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/nl/LC_MESSAGES/Horde_Date.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/pt_BR/LC_MESSAGES/Horde_Date.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/sk/LC_MESSAGES/Horde_Date.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/tr/LC_MESSAGES/Horde_Date.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/uk/LC_MESSAGES/Horde_Date.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 6 | 36 | 16.7 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/it/LC_MESSAGES/Horde_Date.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 6 | 36 | 16.7 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/zh_TW/LC_MESSAGES/Horde_Date.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ar/LC_MESSAGES/Horde_Date.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/bg/LC_MESSAGES/Horde_Date.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/bs/LC_MESSAGES/Horde_Date.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ca/LC_MESSAGES/Horde_Date.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/cs/LC_MESSAGES/Horde_Date.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/fa/LC_MESSAGES/Horde_Date.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/km/LC_MESSAGES/Horde_Date.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ko/LC_MESSAGES/Horde_Date.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/mk/LC_MESSAGES/Horde_Date.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/nb/LC_MESSAGES/Horde_Date.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/nn/LC_MESSAGES/Horde_Date.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/pl/LC_MESSAGES/Horde_Date.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/pt/LC_MESSAGES/Horde_Date.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ro/LC_MESSAGES/Horde_Date.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ru/LC_MESSAGES/Horde_Date.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/sl/LC_MESSAGES/Horde_Date.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/sv/LC_MESSAGES/Horde_Date.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/zh_CN/LC_MESSAGES/Horde_Date.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/he/LC_MESSAGES/Horde_Date.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/id/LC_MESSAGES/Horde_Date.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/is/LC_MESSAGES/Horde_Date.po | 
+ | [da](/f28/language/da) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/da/LC_MESSAGES/Horde_Date.po | 
+ | [de](/f28/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/de/LC_MESSAGES/Horde_Date.po | 
+ | [el](/f28/language/el) | 36 | 36 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/el/LC_MESSAGES/Horde_Date.po | 
+ | [es](/f28/language/es) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/es/LC_MESSAGES/Horde_Date.po | 
+ | [et](/f28/language/et) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/et/LC_MESSAGES/Horde_Date.po | 
+ | [eu](/f28/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/eu/LC_MESSAGES/Horde_Date.po | 
+ | [fi](/f28/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/fi/LC_MESSAGES/Horde_Date.po | 
+ | [fr](/f28/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/fr/LC_MESSAGES/Horde_Date.po | 
+ | [gl](/f28/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/gl/LC_MESSAGES/Horde_Date.po | 
+ | [hr](/f28/language/hr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/hr/LC_MESSAGES/Horde_Date.po | 
+ | [hu](/f28/language/hu) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/hu/LC_MESSAGES/Horde_Date.po | 
+ | [ja](/f28/language/ja) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ja/LC_MESSAGES/Horde_Date.po | 
+ | [lt](/f28/language/lt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/lt/LC_MESSAGES/Horde_Date.po | 
+ | [lv](/f28/language/lv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/lv/LC_MESSAGES/Horde_Date.po | 
+ | [nl](/f28/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/nl/LC_MESSAGES/Horde_Date.po | 
+ | [pt_BR](/f28/language/pt_BR) | 105 | 105 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/pt_BR/LC_MESSAGES/Horde_Date.po | 
+ | [sk](/f28/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/sk/LC_MESSAGES/Horde_Date.po | 
+ | [tr](/f28/language/tr) | 36 | 36 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/tr/LC_MESSAGES/Horde_Date.po | 
+ | [uk](/f28/language/uk) | 96 | 110 | 87.3 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/uk/LC_MESSAGES/Horde_Date.po | 
+ | [it](/f28/language/it) | 6 | 36 | 16.7 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/it/LC_MESSAGES/Horde_Date.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 6 | 36 | 16.7 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/zh_TW/LC_MESSAGES/Horde_Date.po | 
+ | [ar](/f28/language/ar) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ar/LC_MESSAGES/Horde_Date.po | 
+ | [bg](/f28/language/bg) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/bg/LC_MESSAGES/Horde_Date.po | 
+ | [bs](/f28/language/bs) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/bs/LC_MESSAGES/Horde_Date.po | 
+ | [ca](/f28/language/ca) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ca/LC_MESSAGES/Horde_Date.po | 
+ | [cs](/f28/language/cs) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/cs/LC_MESSAGES/Horde_Date.po | 
+ | [fa](/f28/language/fa) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/fa/LC_MESSAGES/Horde_Date.po | 
+ | [km](/f28/language/km) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/km/LC_MESSAGES/Horde_Date.po | 
+ | [ko](/f28/language/ko) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ko/LC_MESSAGES/Horde_Date.po | 
+ | [mk](/f28/language/mk) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/mk/LC_MESSAGES/Horde_Date.po | 
+ | [nb_NO](/f28/language/nb_NO) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/nb/LC_MESSAGES/Horde_Date.po | 
+ | [nn](/f28/language/nn) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/nn/LC_MESSAGES/Horde_Date.po | 
+ | [pl](/f28/language/pl) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/pl/LC_MESSAGES/Horde_Date.po | 
+ | [pt](/f28/language/pt) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/pt/LC_MESSAGES/Horde_Date.po | 
+ | [ro](/f28/language/ro) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ro/LC_MESSAGES/Horde_Date.po | 
+ | [ru](/f28/language/ru) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/ru/LC_MESSAGES/Horde_Date.po | 
+ | [sl](/f28/language/sl) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/sl/LC_MESSAGES/Horde_Date.po | 
+ | [sv](/f28/language/sv) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/sv/LC_MESSAGES/Horde_Date.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 4 | 36 | 11.1 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/zh_CN/LC_MESSAGES/Horde_Date.po | 
+ | [he](/f28/language/he) | 0 | 36 | 0.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/he/LC_MESSAGES/Horde_Date.po | 
+ | [id](/f28/language/id) | 0 | 36 | 0.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/id/LC_MESSAGES/Horde_Date.po | 
+ | [is](/f28/language/is) | 0 | 36 | 0.0 | /mnt/stockage/packages/f28/php-horde-Horde-Date/Horde_Date-2.4.1/locale/is/LC_MESSAGES/Horde_Date.po | 
 {.sortable}
 
 

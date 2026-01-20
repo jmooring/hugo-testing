@@ -18,11 +18,11 @@ The package virt-top (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f11/virt-top/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f11/virt-top/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f11/virt-top/po/zh_CN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 256 | 1113 | 23.0 | /mnt/stockage/packages/f11/virt-top/po/de.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 2 | 1113 | 0.2 | /mnt/stockage/packages/f11/virt-top/po/ja.po | 
+ | [pl](/f11/language/pl) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f11/virt-top/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f11/virt-top/po/pt_BR.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f11/virt-top/po/zh_CN.po | 
+ | [de](/f11/language/de) | 256 | 1113 | 23.0 | /mnt/stockage/packages/f11/virt-top/po/de.po | 
+ | [ja](/f11/language/ja) | 2 | 1113 | 0.2 | /mnt/stockage/packages/f11/virt-top/po/ja.po | 
 {.sortable}
 
 

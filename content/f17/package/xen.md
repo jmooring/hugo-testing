@@ -18,7 +18,7 @@ The package xen (version 4.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f17/language/en.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f17/xen/tools/python/xen/xm/messages/en/xen-xm.po | 
+ | [en](/f17/language/en) | 22 | 22 | 100.0 | /mnt/stockage/packages/f17/xen/tools/python/xen/xm/messages/en/xen-xm.po | 
 {.sortable}
 
 

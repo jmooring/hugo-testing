@@ -18,21 +18,21 @@ The package mingw-exiv2 (version 0.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 35017 | 38012 | 92.1 | /mnt/stockage/packages/f28/mingw-exiv2/po/sv.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 28305 | 38012 | 74.5 | /mnt/stockage/packages/f28/mingw-exiv2/po/ms.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 26869 | 38012 | 70.7 | /mnt/stockage/packages/f28/mingw-exiv2/po/es.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 23653 | 38012 | 62.2 | /mnt/stockage/packages/f28/mingw-exiv2/po/bs.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 18175 | 38012 | 47.8 | /mnt/stockage/packages/f28/mingw-exiv2/po/gl.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 13583 | 38012 | 35.7 | /mnt/stockage/packages/f28/mingw-exiv2/po/de.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 12391 | 38012 | 32.6 | /mnt/stockage/packages/f28/mingw-exiv2/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 11784 | 38012 | 31.0 | /mnt/stockage/packages/f28/mingw-exiv2/po/pt.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 9069 | 38012 | 23.9 | /mnt/stockage/packages/f28/mingw-exiv2/po/sk.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 7418 | 38012 | 19.5 | /mnt/stockage/packages/f28/mingw-exiv2/po/uk.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 4976 | 38012 | 13.1 | /mnt/stockage/packages/f28/mingw-exiv2/po/fr.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 4663 | 38012 | 12.3 | /mnt/stockage/packages/f28/mingw-exiv2/po/ug.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 3333 | 38012 | 8.8 | /mnt/stockage/packages/f28/mingw-exiv2/po/vi.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3302 | 38012 | 8.7 | /mnt/stockage/packages/f28/mingw-exiv2/po/ru.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 419 | 38012 | 1.1 | /mnt/stockage/packages/f28/mingw-exiv2/po/fi.po | 
+ | [sv](/f28/language/sv) | 35017 | 38012 | 92.1 | /mnt/stockage/packages/f28/mingw-exiv2/po/sv.po | 
+ | [ms](/f28/language/ms) | 28305 | 38012 | 74.5 | /mnt/stockage/packages/f28/mingw-exiv2/po/ms.po | 
+ | [es](/f28/language/es) | 26869 | 38012 | 70.7 | /mnt/stockage/packages/f28/mingw-exiv2/po/es.po | 
+ | [bs](/f28/language/bs) | 23653 | 38012 | 62.2 | /mnt/stockage/packages/f28/mingw-exiv2/po/bs.po | 
+ | [gl](/f28/language/gl) | 18175 | 38012 | 47.8 | /mnt/stockage/packages/f28/mingw-exiv2/po/gl.po | 
+ | [de](/f28/language/de) | 13583 | 38012 | 35.7 | /mnt/stockage/packages/f28/mingw-exiv2/po/de.po | 
+ | [pl](/f28/language/pl) | 12391 | 38012 | 32.6 | /mnt/stockage/packages/f28/mingw-exiv2/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 11784 | 38012 | 31.0 | /mnt/stockage/packages/f28/mingw-exiv2/po/pt.po | 
+ | [sk](/f28/language/sk) | 9069 | 38012 | 23.9 | /mnt/stockage/packages/f28/mingw-exiv2/po/sk.po | 
+ | [uk](/f28/language/uk) | 7418 | 38012 | 19.5 | /mnt/stockage/packages/f28/mingw-exiv2/po/uk.po | 
+ | [fr](/f28/language/fr) | 4976 | 38012 | 13.1 | /mnt/stockage/packages/f28/mingw-exiv2/po/fr.po | 
+ | [ug](/f28/language/ug) | 4663 | 38012 | 12.3 | /mnt/stockage/packages/f28/mingw-exiv2/po/ug.po | 
+ | [vi](/f28/language/vi) | 3333 | 38012 | 8.8 | /mnt/stockage/packages/f28/mingw-exiv2/po/vi.po | 
+ | [ru](/f28/language/ru) | 3302 | 38012 | 8.7 | /mnt/stockage/packages/f28/mingw-exiv2/po/ru.po | 
+ | [fi](/f28/language/fi) | 419 | 38012 | 1.1 | /mnt/stockage/packages/f28/mingw-exiv2/po/fi.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f9/package/gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [gettext](/f9/package/gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package gnome-shell-extension-media-player-indicator (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/fr.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/it.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/nb_NO.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 196 | 196 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/pt_BR.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/sk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/zh_CN.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/es.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/he.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/nl.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/ru.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/sr.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/tr.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/zh_TW.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 45 | 86 | 52.3 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/gl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 28 | 86 | 32.6 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/pl.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 4 | 86 | 4.7 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/lt.po | 
+ | [cs](/f26/language/cs) | 242 | 242 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/cs.po | 
+ | [de](/f26/language/de) | 242 | 242 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/de.po | 
+ | [fr](/f26/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/fr.po | 
+ | [it](/f26/language/it) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/it.po | 
+ | [nb_NO](/f26/language/nb_NO) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/nb_NO.po | 
+ | [pt_BR](/f26/language/pt_BR) | 196 | 196 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/pt_BR.po | 
+ | [sk](/f26/language/sk) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/sk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/zh_CN.po | 
+ | [es](/f26/language/es) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/es.po | 
+ | [he](/f26/language/he) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/he.po | 
+ | [nl](/f26/language/nl) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/nl.po | 
+ | [ro](/f26/language/ro) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/ro.po | 
+ | [ru](/f26/language/ru) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/ru.po | 
+ | [sr](/f26/language/sr) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/sr.po | 
+ | [tr](/f26/language/tr) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/tr.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 50 | 86 | 58.1 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/zh_TW.po | 
+ | [gl](/f26/language/gl) | 45 | 86 | 52.3 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/gl.po | 
+ | [pl](/f26/language/pl) | 28 | 86 | 32.6 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/pl.po | 
+ | [lt](/f26/language/lt) | 4 | 86 | 4.7 | /mnt/stockage/packages/f26/gnome-shell-extension-media-player-indicator/po/lt.po | 
 {.sortable}
 
 

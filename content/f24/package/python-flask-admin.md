@@ -18,40 +18,40 @@ The package python-flask-admin (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/de/LC_MESSAGES/admin.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/en/LC_MESSAGES/admin.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/it/LC_MESSAGES/admin.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pt_BR/LC_MESSAGES/admin.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 350 | 361 | 97.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ru/LC_MESSAGES/admin.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/es/LC_MESSAGES/admin.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/et/LC_MESSAGES/admin.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/fr/LC_MESSAGES/admin.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/hu/LC_MESSAGES/admin.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ko/LC_MESSAGES/admin.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ja/LC_MESSAGES/admin.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pl/LC_MESSAGES/admin.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/sr/LC_MESSAGES/admin.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/zh_Hans_CN/LC_MESSAGES/admin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 334 | 361 | 92.5 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/sv/LC_MESSAGES/admin.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 333 | 361 | 92.2 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/af/LC_MESSAGES/admin.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/el/LC_MESSAGES/admin.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/fa/LC_MESSAGES/admin.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pt/LC_MESSAGES/admin.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/sk/LC_MESSAGES/admin.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/tr/LC_MESSAGES/admin.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 327 | 361 | 90.6 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/uk/LC_MESSAGES/admin.po | 
- | [ar_SA]({{< ref "/f24/language/ar_SA.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ar/LC_MESSAGES/admin.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ca_ES/LC_MESSAGES/admin.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/cs/LC_MESSAGES/admin.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/da/LC_MESSAGES/admin.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/fi/LC_MESSAGES/admin.po | 
- | [he_IL]({{< ref "/f24/language/he_IL.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/he/LC_MESSAGES/admin.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/no/LC_MESSAGES/admin.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/nl/LC_MESSAGES/admin.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pa/LC_MESSAGES/admin.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ro/LC_MESSAGES/admin.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/vi/LC_MESSAGES/admin.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/zh_Hant_TW/LC_MESSAGES/admin.po | 
+ | [de](/f24/language/de) | 361 | 361 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/de/LC_MESSAGES/admin.po | 
+ | [en_US](/f24/language/en_US) | 326 | 326 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/en/LC_MESSAGES/admin.po | 
+ | [it](/f24/language/it) | 361 | 361 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/it/LC_MESSAGES/admin.po | 
+ | [pt_BR](/f24/language/pt_BR) | 361 | 361 | 100.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pt_BR/LC_MESSAGES/admin.po | 
+ | [ru](/f24/language/ru) | 350 | 361 | 97.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ru/LC_MESSAGES/admin.po | 
+ | [es](/f24/language/es) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/es/LC_MESSAGES/admin.po | 
+ | [et](/f24/language/et) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/et/LC_MESSAGES/admin.po | 
+ | [fr](/f24/language/fr) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/fr/LC_MESSAGES/admin.po | 
+ | [hu](/f24/language/hu) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/hu/LC_MESSAGES/admin.po | 
+ | [ko](/f24/language/ko) | 344 | 361 | 95.3 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ko/LC_MESSAGES/admin.po | 
+ | [ja](/f24/language/ja) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ja/LC_MESSAGES/admin.po | 
+ | [pl](/f24/language/pl) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pl/LC_MESSAGES/admin.po | 
+ | [sr](/f24/language/sr) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/sr/LC_MESSAGES/admin.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 343 | 361 | 95.0 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/zh_Hans_CN/LC_MESSAGES/admin.po | 
+ | [sv](/f24/language/sv) | 334 | 361 | 92.5 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/sv/LC_MESSAGES/admin.po | 
+ | [af](/f24/language/af) | 333 | 361 | 92.2 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/af/LC_MESSAGES/admin.po | 
+ | [el](/f24/language/el) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/el/LC_MESSAGES/admin.po | 
+ | [fa](/f24/language/fa) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/fa/LC_MESSAGES/admin.po | 
+ | [pt_PT](/f24/language/pt_PT) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pt/LC_MESSAGES/admin.po | 
+ | [sk](/f24/language/sk) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/sk/LC_MESSAGES/admin.po | 
+ | [tr](/f24/language/tr) | 331 | 361 | 91.7 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/tr/LC_MESSAGES/admin.po | 
+ | [uk](/f24/language/uk) | 327 | 361 | 90.6 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/uk/LC_MESSAGES/admin.po | 
+ | [ar_SA](/f24/language/ar_SA) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ar/LC_MESSAGES/admin.po | 
+ | [ca](/f24/language/ca) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ca_ES/LC_MESSAGES/admin.po | 
+ | [cs](/f24/language/cs) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/cs/LC_MESSAGES/admin.po | 
+ | [da](/f24/language/da) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/da/LC_MESSAGES/admin.po | 
+ | [fi](/f24/language/fi) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/fi/LC_MESSAGES/admin.po | 
+ | [he_IL](/f24/language/he_IL) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/he/LC_MESSAGES/admin.po | 
+ | [nb_NO](/f24/language/nb_NO) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/no/LC_MESSAGES/admin.po | 
+ | [nl](/f24/language/nl) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/nl/LC_MESSAGES/admin.po | 
+ | [pa](/f24/language/pa) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/pa/LC_MESSAGES/admin.po | 
+ | [ro](/f24/language/ro) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/ro/LC_MESSAGES/admin.po | 
+ | [vi](/f24/language/vi) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/vi/LC_MESSAGES/admin.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 321 | 361 | 88.9 | /mnt/stockage/packages/f24/python-flask-admin/flask_admin/translations/zh_Hant_TW/LC_MESSAGES/admin.po | 
 {.sortable}
 
 

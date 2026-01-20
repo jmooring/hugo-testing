@@ -18,9 +18,9 @@ The package openstack-keystone (version 2013.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f19/openstack-keystone/keystone/locale/ca/LC_MESSAGES/keystone.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f19/openstack-keystone/keystone/locale/hu/LC_MESSAGES/keystone.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/openstack-keystone/keystone/locale/ja/LC_MESSAGES/keystone.po | 
+ | [ca](/f19/language/ca) | 28 | 28 | 100.0 | /mnt/stockage/packages/f19/openstack-keystone/keystone/locale/ca/LC_MESSAGES/keystone.po | 
+ | [hu](/f19/language/hu) | 327 | 327 | 100.0 | /mnt/stockage/packages/f19/openstack-keystone/keystone/locale/hu/LC_MESSAGES/keystone.po | 
+ | [ja](/f19/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/openstack-keystone/keystone/locale/ja/LC_MESSAGES/keystone.po | 
 {.sortable}
 
 

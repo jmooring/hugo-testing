@@ -18,12 +18,12 @@ The package pdf2djvu (version 0.9.18.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/fr.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1923 | 1923 | 100.0 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/pl.po/mnt/stockage/packages/f34/pdf2djvu/po/pl.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1914 | 1923 | 99.5 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/de.po/mnt/stockage/packages/f34/pdf2djvu/po/de.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 1914 | 1923 | 99.5 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/pt.po/mnt/stockage/packages/f34/pdf2djvu/po/pt.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1914 | 1923 | 99.5 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/ru.po/mnt/stockage/packages/f34/pdf2djvu/po/ru.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1552 | 1923 | 80.7 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/uk.po/mnt/stockage/packages/f34/pdf2djvu/po/uk.po | 
+ | [fr](/f34/language/fr) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/fr.po | 
+ | [pl](/f34/language/pl) | 1923 | 1923 | 100.0 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/pl.po/mnt/stockage/packages/f34/pdf2djvu/po/pl.po | 
+ | [de](/f34/language/de) | 1914 | 1923 | 99.5 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/de.po/mnt/stockage/packages/f34/pdf2djvu/po/de.po | 
+ | [pt](/f34/language/pt) | 1914 | 1923 | 99.5 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/pt.po/mnt/stockage/packages/f34/pdf2djvu/po/pt.po | 
+ | [ru](/f34/language/ru) | 1914 | 1923 | 99.5 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/ru.po/mnt/stockage/packages/f34/pdf2djvu/po/ru.po | 
+ | [uk](/f34/language/uk) | 1552 | 1923 | 80.7 | /mnt/stockage/packages/f34/pdf2djvu/doc/po/uk.po/mnt/stockage/packages/f34/pdf2djvu/po/uk.po | 
 {.sortable}
 
 

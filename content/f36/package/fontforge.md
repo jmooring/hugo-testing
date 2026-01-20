@@ -18,25 +18,25 @@ The package fontforge (version 20220308):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 20254 | 20254 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ca.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 27834 | 27834 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/de.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1338 | 1338 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/el.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 2226 | 2226 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/en_GB.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 9562 | 9562 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 39965 | 39965 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 40523 | 40523 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/hr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 9130 | 9130 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 19270 | 19270 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 42598 | 42598 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ko.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ml.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 40113 | 40113 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/pl.po | 
- | [pt_PT]({{< ref "/f36/language/pt_PT.md" >}}) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 9764 | 9764 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ru.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 730 | 730 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/tr_TR.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 40191 | 40191 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 33828 | 33828 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/vi.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 14982 | 14982 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 24210 | 24210 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/zh_TW.po | 
+ | [ca](/f36/language/ca) | 20254 | 20254 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ca.po | 
+ | [de](/f36/language/de) | 27834 | 27834 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/de.po | 
+ | [el](/f36/language/el) | 1338 | 1338 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/el.po | 
+ | [en_GB](/f36/language/en_GB) | 2226 | 2226 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/en_GB.po | 
+ | [es](/f36/language/es) | 9562 | 9562 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/es.po | 
+ | [fr](/f36/language/fr) | 39965 | 39965 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/fr.po | 
+ | [hr](/f36/language/hr) | 40523 | 40523 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/hr.po | 
+ | [it](/f36/language/it) | 9130 | 9130 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/it.po | 
+ | [ja](/f36/language/ja) | 19270 | 19270 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ja.po | 
+ | [ko](/f36/language/ko) | 42598 | 42598 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ko.po | 
+ | [ml](/f36/language/ml) | 23 | 23 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ml.po | 
+ | [pl](/f36/language/pl) | 40113 | 40113 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/pl.po | 
+ | [pt_PT](/f36/language/pt_PT) | 1249 | 1249 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/pt.po | 
+ | [ru](/f36/language/ru) | 9764 | 9764 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/ru.po | 
+ | [tr](/f36/language/tr) | 730 | 730 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/tr_TR.po | 
+ | [uk](/f36/language/uk) | 40191 | 40191 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/uk.po | 
+ | [vi](/f36/language/vi) | 33828 | 33828 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/vi.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 14982 | 14982 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 24210 | 24210 | 100.0 | /mnt/stockage/packages/f36/fontforge/po/zh_TW.po | 
 {.sortable}
 
 

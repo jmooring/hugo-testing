@@ -18,24 +18,24 @@ The package gnome-shell-extension-just-perfection (version 27.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f39/language/af.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/af.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ar.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/be.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/bg.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ca.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/gl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/nl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/sv.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/zh_TW.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 614 | 616 | 99.7 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ne.po | 
+ | [af](/f39/language/af) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/af.po | 
+ | [ar](/f39/language/ar) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ar.po | 
+ | [be](/f39/language/be) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/be.po | 
+ | [bg](/f39/language/bg) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/bg.po | 
+ | [ca](/f39/language/ca) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ca.po | 
+ | [de](/f39/language/de) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/de.po | 
+ | [es](/f39/language/es) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/es.po | 
+ | [fr](/f39/language/fr) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/fr.po | 
+ | [gl](/f39/language/gl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/gl.po | 
+ | [it](/f39/language/it) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/it.po | 
+ | [ja](/f39/language/ja) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ja.po | 
+ | [nl](/f39/language/nl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/nl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ru.po | 
+ | [sv](/f39/language/sv) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/sv.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 616 | 616 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/zh_TW.po | 
+ | [ne](/f39/language/ne) | 614 | 616 | 99.7 | /mnt/stockage/packages/f39/gnome-shell-extension-just-perfection/po/ne.po | 
 {.sortable}
 
 

@@ -18,37 +18,37 @@ The package mutter-moblin (version 0.75.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ar.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ast.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ca.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ko.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/nl.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/sv.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/th.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/uk.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/wa.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/zh_TW.po | 
- | [lo]({{< ref "/f14/language/lo.md" >}}) | 106 | 384 | 27.6 | /mnt/stockage/packages/f14/mutter-moblin/po/lo.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 10 | 116 | 8.6 | /mnt/stockage/packages/f14/mutter-moblin/po/sk.po | 
+ | [ar](/f14/language/ar) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ar.po | 
+ | [ast](/f14/language/ast) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ast.po | 
+ | [ca](/f14/language/ca) | 88 | 88 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ca.po | 
+ | [da](/f14/language/da) | 52 | 52 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/da.po | 
+ | [de](/f14/language/de) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/en_GB.po | 
+ | [es](/f14/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/es.po | 
+ | [eu](/f14/language/eu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/eu.po | 
+ | [fi](/f14/language/fi) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/fi.po | 
+ | [fr](/f14/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/fr.po | 
+ | [gl](/f14/language/gl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/gl.po | 
+ | [hu](/f14/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/hu.po | 
+ | [id](/f14/language/id) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/id.po | 
+ | [it](/f14/language/it) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/it.po | 
+ | [ja](/f14/language/ja) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ja.po | 
+ | [ko](/f14/language/ko) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ko.po | 
+ | [nl](/f14/language/nl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/nl.po | 
+ | [pa](/f14/language/pa) | 381 | 381 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/pa.po | 
+ | [pl](/f14/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 88 | 88 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ro.po | 
+ | [ru](/f14/language/ru) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/ru.po | 
+ | [sv](/f14/language/sv) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/sv.po | 
+ | [th](/f14/language/th) | 52 | 52 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/th.po | 
+ | [tr](/f14/language/tr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/tr.po | 
+ | [uk](/f14/language/uk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/uk.po | 
+ | [wa](/f14/language/wa) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/wa.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 136 | 136 | 100.0 | /mnt/stockage/packages/f14/mutter-moblin/po/zh_TW.po | 
+ | [lo](/f14/language/lo) | 106 | 384 | 27.6 | /mnt/stockage/packages/f14/mutter-moblin/po/lo.po | 
+ | [sk](/f14/language/sk) | 10 | 116 | 8.6 | /mnt/stockage/packages/f14/mutter-moblin/po/sk.po | 
 {.sortable}
 
 

@@ -18,77 +18,77 @@ The package mingw-glib-networking (version 2.80.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f42/language/an.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/an.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ar.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/as.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/be.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/bg.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/bn_IN.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/bs.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ca.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ca@valencia.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/de.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/en_CA.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/en_GB.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 438 | 438 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/es.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/et.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/eu.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fa.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fur.po | 
- | [gd]({{< ref "/f42/language/gd.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/gd.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/gl.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/gu.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/he.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/hi.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ka.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/kab.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/kk.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/km.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/kn.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/lt.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/lv.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ml.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/mr.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ms.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ne.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/nl.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/oc.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/or.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pa.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 689 | 689 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sr@latin.po/mnt/stockage/packages/f42/mingw-glib-networking/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sv.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ta.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/te.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/tg.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/th.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/tr.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ug.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/uk.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/vi.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 174 | 229 | 76.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/nb.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 331 | 460 | 72.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fi.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 302 | 438 | 68.9 | /mnt/stockage/packages/f42/mingw-glib-networking/po/el.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 184 | 419 | 43.9 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ja.po | 
- | [ab]({{< ref "/f42/language/ab.md" >}}) | 4 | 447 | 0.9 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ab.po | 
+ | [an](/f42/language/an) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/an.po | 
+ | [ar](/f42/language/ar) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ar.po | 
+ | [as](/f42/language/as) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/as.po | 
+ | [be](/f42/language/be) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/be.po | 
+ | [bg](/f42/language/bg) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/bg.po | 
+ | [bn_IN](/f42/language/bn_IN) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/bn_IN.po | 
+ | [bs](/f42/language/bs) | 157 | 157 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/bs.po | 
+ | [ca](/f42/language/ca) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ca.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 163 | 163 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ca@valencia.po | 
+ | [cs](/f42/language/cs) | 438 | 438 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/cs.po | 
+ | [da](/f42/language/da) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/da.po | 
+ | [de](/f42/language/de) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/de.po | 
+ | [en_CA](/f42/language/en_CA) | 4 | 4 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/en_CA.po | 
+ | [en_GB](/f42/language/en_GB) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/en_GB.po | 
+ | [eo](/f42/language/eo) | 438 | 438 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/eo.po | 
+ | [es](/f42/language/es) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/es.po | 
+ | [et](/f42/language/et) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/et.po | 
+ | [eu](/f42/language/eu) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/eu.po | 
+ | [fa](/f42/language/fa) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fa.po | 
+ | [fr](/f42/language/fr) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fr.po | 
+ | [fur](/f42/language/fur) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fur.po | 
+ | [gd](/f42/language/gd) | 163 | 163 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/gd.po | 
+ | [gl](/f42/language/gl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/gl.po | 
+ | [gu](/f42/language/gu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/gu.po | 
+ | [he](/f42/language/he) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/he.po | 
+ | [hi](/f42/language/hi) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/hi.po | 
+ | [hr](/f42/language/hr) | 434 | 434 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/hr.po | 
+ | [hu](/f42/language/hu) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/hu.po | 
+ | [id](/f42/language/id) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/id.po | 
+ | [it](/f42/language/it) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/it.po | 
+ | [ka](/f42/language/ka) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ka.po | 
+ | [kab](/f42/language/kab) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/kab.po | 
+ | [kk](/f42/language/kk) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/kk.po | 
+ | [km](/f42/language/km) | 135 | 135 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/km.po | 
+ | [kn](/f42/language/kn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/kn.po | 
+ | [ko](/f42/language/ko) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ko.po | 
+ | [lt](/f42/language/lt) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/lt.po | 
+ | [lv](/f42/language/lv) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/lv.po | 
+ | [ml](/f42/language/ml) | 163 | 163 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ml.po | 
+ | [mr](/f42/language/mr) | 135 | 135 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/mr.po | 
+ | [ms](/f42/language/ms) | 272 | 272 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ms.po | 
+ | [ne](/f42/language/ne) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ne.po | 
+ | [nl](/f42/language/nl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/nl.po | 
+ | [oc](/f42/language/oc) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/oc.po | 
+ | [or](/f42/language/or) | 135 | 135 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/or.po | 
+ | [pa](/f42/language/pa) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pa.po | 
+ | [pl](/f42/language/pl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pl.po | 
+ | [pt](/f42/language/pt) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ro.po | 
+ | [ru](/f42/language/ru) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ru.po | 
+ | [sk](/f42/language/sk) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sk.po | 
+ | [sl](/f42/language/sl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sl.po | 
+ | [sr](/f42/language/sr) | 689 | 689 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sr@latin.po/mnt/stockage/packages/f42/mingw-glib-networking/po/sr.po | 
+ | [sv](/f42/language/sv) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/sv.po | 
+ | [ta](/f42/language/ta) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ta.po | 
+ | [te](/f42/language/te) | 153 | 153 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/te.po | 
+ | [tg](/f42/language/tg) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/tg.po | 
+ | [th](/f42/language/th) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/th.po | 
+ | [tr](/f42/language/tr) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/tr.po | 
+ | [ug](/f42/language/ug) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ug.po | 
+ | [uk](/f42/language/uk) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/uk.po | 
+ | [vi](/f42/language/vi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/vi.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 460 | 460 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/zh_TW.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 161 | 161 | 100.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/zh_HK.po | 
+ | [nb_NO](/f42/language/nb_NO) | 174 | 229 | 76.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/nb.po | 
+ | [fi](/f42/language/fi) | 331 | 460 | 72.0 | /mnt/stockage/packages/f42/mingw-glib-networking/po/fi.po | 
+ | [el](/f42/language/el) | 302 | 438 | 68.9 | /mnt/stockage/packages/f42/mingw-glib-networking/po/el.po | 
+ | [ja](/f42/language/ja) | 184 | 419 | 43.9 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ja.po | 
+ | [ab](/f42/language/ab) | 4 | 447 | 0.9 | /mnt/stockage/packages/f42/mingw-glib-networking/po/ab.po | 
 {.sortable}
 
 

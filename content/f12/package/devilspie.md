@@ -18,7 +18,7 @@ The package devilspie (version 0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 6 | 102 | 5.9 | /mnt/stockage/packages/f12/devilspie/po/de.po | 
+ | [de](/f12/language/de) | 6 | 102 | 5.9 | /mnt/stockage/packages/f12/devilspie/po/de.po | 
 {.sortable}
 
 

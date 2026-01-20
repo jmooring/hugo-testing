@@ -18,23 +18,23 @@ The package python-django-helpdesk (version 0.1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 3242 | 3242 | 100.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/it/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 3242 | 3242 | 100.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 3242 | 3242 | 100.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/ru/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 3117 | 3242 | 96.1 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/fr/LC_MESSAGES/django.po | 
- | [es_MX]({{< ref "/f24/language/es_MX.md" >}}) | 2600 | 3242 | 80.2 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/es_MX/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2324 | 3242 | 71.7 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/pl/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1979 | 3242 | 61.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/es/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1696 | 3242 | 52.3 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/de/LC_MESSAGES/django.po | 
- | [es_CO]({{< ref "/f24/language/es_CO.md" >}}) | 1138 | 3242 | 35.1 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/es_CO/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 747 | 3242 | 23.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/nb_NO/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 248 | 3242 | 7.6 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/sv/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 9 | 3242 | 0.3 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/el/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/en/LC_MESSAGES/django.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/fa_IR/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/fi/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/hu/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [it](/f24/language/it) | 3242 | 3242 | 100.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/it/LC_MESSAGES/django.po | 
+ | [pt_BR](/f24/language/pt_BR) | 3242 | 3242 | 100.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f24/language/ru) | 3242 | 3242 | 100.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/ru/LC_MESSAGES/django.po | 
+ | [fr](/f24/language/fr) | 3117 | 3242 | 96.1 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/fr/LC_MESSAGES/django.po | 
+ | [es_MX](/f24/language/es_MX) | 2600 | 3242 | 80.2 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/es_MX/LC_MESSAGES/django.po | 
+ | [pl](/f24/language/pl) | 2324 | 3242 | 71.7 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/pl/LC_MESSAGES/django.po | 
+ | [es](/f24/language/es) | 1979 | 3242 | 61.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/es/LC_MESSAGES/django.po | 
+ | [de](/f24/language/de) | 1696 | 3242 | 52.3 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/de/LC_MESSAGES/django.po | 
+ | [es_CO](/f24/language/es_CO) | 1138 | 3242 | 35.1 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/es_CO/LC_MESSAGES/django.po | 
+ | [nb_NO](/f24/language/nb_NO) | 747 | 3242 | 23.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/nb_NO/LC_MESSAGES/django.po | 
+ | [sv](/f24/language/sv) | 248 | 3242 | 7.6 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/sv/LC_MESSAGES/django.po | 
+ | [el](/f24/language/el) | 9 | 3242 | 0.3 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/el/LC_MESSAGES/django.po | 
+ | [en](/f24/language/en) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/en/LC_MESSAGES/django.po | 
+ | [fa](/f24/language/fa) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/fa_IR/LC_MESSAGES/django.po | 
+ | [fi](/f24/language/fi) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/fi/LC_MESSAGES/django.po | 
+ | [hu](/f24/language/hu) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/hu/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 0 | 3242 | 0.0 | /mnt/stockage/packages/f24/python-django-helpdesk/helpdesk/locale/zh_CN/LC_MESSAGES/django.po | 
 {.sortable}
 
 

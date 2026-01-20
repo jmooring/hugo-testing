@@ -18,79 +18,79 @@ The package budgie-desktop (version 10.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ca.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 1220 | 1220 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/he.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/pt_BR.po | 
- | [es_US]({{< ref "/f42/language/es_US.md" >}}) | 1201 | 1220 | 98.4 | /mnt/stockage/packages/f42/budgie-desktop/po/es_US.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1662 | 1859 | 89.4 | /mnt/stockage/packages/f42/budgie-desktop/po/ja.po | 
- | [en_AU]({{< ref "/f42/language/en_AU.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/en_AU.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/en_GB.po | 
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/en_US.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es.po | 
- | [es_419]({{< ref "/f42/language/es_419.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_419.po | 
- | [es_AR]({{< ref "/f42/language/es_AR.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_AR.po | 
- | [es_CL]({{< ref "/f42/language/es_CL.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_CL.po | 
- | [es_MX]({{< ref "/f42/language/es_MX.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_MX.po | 
- | [es_PE]({{< ref "/f42/language/es_PE.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_PE.po | 
- | [fr_BE]({{< ref "/f42/language/fr_BE.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/fr_BE.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/ko.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/sk.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/tr.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 3272 | 3718 | 88.0 | /mnt/stockage/packages/f42/budgie-desktop/po/fr_FR.po/mnt/stockage/packages/f42/budgie-desktop/po/fr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 1064 | 1220 | 87.2 | /mnt/stockage/packages/f42/budgie-desktop/po/hu.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1602 | 1859 | 86.2 | /mnt/stockage/packages/f42/budgie-desktop/po/pl.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/de.po | 
- | [de_CH]({{< ref "/f42/language/de_CH.md" >}}) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/de_CH.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/zh.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/zh_HK.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 1546 | 1859 | 83.2 | /mnt/stockage/packages/f42/budgie-desktop/po/et.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1482 | 1859 | 79.7 | /mnt/stockage/packages/f42/budgie-desktop/po/da.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 1173 | 1859 | 63.1 | /mnt/stockage/packages/f42/budgie-desktop/po/lt.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1907 | 3079 | 61.9 | /mnt/stockage/packages/f42/budgie-desktop/po/bg_BG.po/mnt/stockage/packages/f42/budgie-desktop/po/bg.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/af.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/fi.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/ga.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/id.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/ms_MY.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/nl.po | 
- | [nl_BE]({{< ref "/f42/language/nl_BE.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/nl_BE.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/sq.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 966 | 1859 | 52.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ka.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 961 | 1859 | 51.7 | /mnt/stockage/packages/f42/budgie-desktop/po/pa.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 937 | 1859 | 50.4 | /mnt/stockage/packages/f42/budgie-desktop/po/oc.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 1220 | 2440 | 50.0 | /mnt/stockage/packages/f42/budgie-desktop/po/hr_HR.po/mnt/stockage/packages/f42/budgie-desktop/po/hr.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 927 | 1859 | 49.9 | /mnt/stockage/packages/f42/budgie-desktop/po/cs.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 856 | 1859 | 46.0 | /mnt/stockage/packages/f42/budgie-desktop/po/el_GR.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 849 | 1859 | 45.7 | /mnt/stockage/packages/f42/budgie-desktop/po/ar.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 843 | 1859 | 45.3 | /mnt/stockage/packages/f42/budgie-desktop/po/bn.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 843 | 1859 | 45.3 | /mnt/stockage/packages/f42/budgie-desktop/po/no.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 825 | 1859 | 44.4 | /mnt/stockage/packages/f42/budgie-desktop/po/sv.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 817 | 1859 | 43.9 | /mnt/stockage/packages/f42/budgie-desktop/po/it.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1064 | 2440 | 43.6 | /mnt/stockage/packages/f42/budgie-desktop/po/uk_UA.po/mnt/stockage/packages/f42/budgie-desktop/po/uk.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 804 | 1859 | 43.2 | /mnt/stockage/packages/f42/budgie-desktop/po/ro.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 511 | 1220 | 41.9 | /mnt/stockage/packages/f42/budgie-desktop/po/lv.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 776 | 1859 | 41.7 | /mnt/stockage/packages/f42/budgie-desktop/po/sl.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 610 | 1641 | 37.2 | /mnt/stockage/packages/f42/budgie-desktop/po/nn.po | 
- | [error]({{< ref "/f42/language/error.md" >}}) | 598 | 1663 | 36.0 | /mnt/stockage/packages/f42/budgie-desktop/po/sr@Cyrl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 598 | 1663 | 36.0 | /mnt/stockage/packages/f42/budgie-desktop/po/sr_RS.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 598 | 1663 | 36.0 | /mnt/stockage/packages/f42/budgie-desktop/po/sr_RS@latin.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 578 | 1663 | 34.8 | /mnt/stockage/packages/f42/budgie-desktop/po/eu.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 1114 | 3236 | 34.4 | /mnt/stockage/packages/f42/budgie-desktop/po/vi_VN.po/mnt/stockage/packages/f42/budgie-desktop/po/vi.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 557 | 1641 | 33.9 | /mnt/stockage/packages/f42/budgie-desktop/po/eo.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 373 | 1220 | 30.6 | /mnt/stockage/packages/f42/budgie-desktop/po/be.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 339 | 1220 | 27.8 | /mnt/stockage/packages/f42/budgie-desktop/po/ne.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 222 | 1220 | 18.2 | /mnt/stockage/packages/f42/budgie-desktop/po/gl.po | 
- | [tt]({{< ref "/f42/language/tt.md" >}}) | 196 | 1220 | 16.1 | /mnt/stockage/packages/f42/budgie-desktop/po/tt.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 95 | 1220 | 7.8 | /mnt/stockage/packages/f42/budgie-desktop/po/bs.po | 
- | [be_Latn]({{< ref "/f42/language/be_Latn.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/be_Latn.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/br.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/hi.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/si.po | 
- | [ur]({{< ref "/f42/language/ur.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ur.po | 
- | [ur_PK]({{< ref "/f42/language/ur_PK.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ur_PK.po | 
+ | [ca](/f42/language/ca) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ca.po | 
+ | [he](/f42/language/he) | 1220 | 1220 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/he.po | 
+ | [pt](/f42/language/pt) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f42/budgie-desktop/po/pt_BR.po | 
+ | [es_US](/f42/language/es_US) | 1201 | 1220 | 98.4 | /mnt/stockage/packages/f42/budgie-desktop/po/es_US.po | 
+ | [ja](/f42/language/ja) | 1662 | 1859 | 89.4 | /mnt/stockage/packages/f42/budgie-desktop/po/ja.po | 
+ | [en_AU](/f42/language/en_AU) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/en_AU.po | 
+ | [en_GB](/f42/language/en_GB) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/en_GB.po | 
+ | [en_US](/f42/language/en_US) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/en_US.po | 
+ | [es](/f42/language/es) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es.po | 
+ | [es_419](/f42/language/es_419) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_419.po | 
+ | [es_AR](/f42/language/es_AR) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_AR.po | 
+ | [es_CL](/f42/language/es_CL) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_CL.po | 
+ | [es_MX](/f42/language/es_MX) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_MX.po | 
+ | [es_PE](/f42/language/es_PE) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/es_PE.po | 
+ | [fr_BE](/f42/language/fr_BE) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/fr_BE.po | 
+ | [ko](/f42/language/ko) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/ko.po | 
+ | [ru](/f42/language/ru) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/ru.po | 
+ | [sk](/f42/language/sk) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/sk.po | 
+ | [tr](/f42/language/tr) | 1638 | 1859 | 88.1 | /mnt/stockage/packages/f42/budgie-desktop/po/tr.po | 
+ | [fr](/f42/language/fr) | 3272 | 3718 | 88.0 | /mnt/stockage/packages/f42/budgie-desktop/po/fr_FR.po/mnt/stockage/packages/f42/budgie-desktop/po/fr.po | 
+ | [hu](/f42/language/hu) | 1064 | 1220 | 87.2 | /mnt/stockage/packages/f42/budgie-desktop/po/hu.po | 
+ | [pl](/f42/language/pl) | 1602 | 1859 | 86.2 | /mnt/stockage/packages/f42/budgie-desktop/po/pl.po | 
+ | [de](/f42/language/de) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/de.po | 
+ | [de_CH](/f42/language/de_CH) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/de_CH.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/zh.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/zh_TW.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 1560 | 1859 | 83.9 | /mnt/stockage/packages/f42/budgie-desktop/po/zh_HK.po | 
+ | [et](/f42/language/et) | 1546 | 1859 | 83.2 | /mnt/stockage/packages/f42/budgie-desktop/po/et.po | 
+ | [da](/f42/language/da) | 1482 | 1859 | 79.7 | /mnt/stockage/packages/f42/budgie-desktop/po/da.po | 
+ | [lt](/f42/language/lt) | 1173 | 1859 | 63.1 | /mnt/stockage/packages/f42/budgie-desktop/po/lt.po | 
+ | [bg](/f42/language/bg) | 1907 | 3079 | 61.9 | /mnt/stockage/packages/f42/budgie-desktop/po/bg_BG.po/mnt/stockage/packages/f42/budgie-desktop/po/bg.po | 
+ | [af](/f42/language/af) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/af.po | 
+ | [fi](/f42/language/fi) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/fi.po | 
+ | [ga](/f42/language/ga) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/ga.po | 
+ | [id](/f42/language/id) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/id.po | 
+ | [ms](/f42/language/ms) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/ms_MY.po | 
+ | [nl](/f42/language/nl) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/nl.po | 
+ | [nl_BE](/f42/language/nl_BE) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/nl_BE.po | 
+ | [sq](/f42/language/sq) | 980 | 1859 | 52.7 | /mnt/stockage/packages/f42/budgie-desktop/po/sq.po | 
+ | [ka](/f42/language/ka) | 966 | 1859 | 52.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ka.po | 
+ | [pa](/f42/language/pa) | 961 | 1859 | 51.7 | /mnt/stockage/packages/f42/budgie-desktop/po/pa.po | 
+ | [oc](/f42/language/oc) | 937 | 1859 | 50.4 | /mnt/stockage/packages/f42/budgie-desktop/po/oc.po | 
+ | [hr](/f42/language/hr) | 1220 | 2440 | 50.0 | /mnt/stockage/packages/f42/budgie-desktop/po/hr_HR.po/mnt/stockage/packages/f42/budgie-desktop/po/hr.po | 
+ | [cs](/f42/language/cs) | 927 | 1859 | 49.9 | /mnt/stockage/packages/f42/budgie-desktop/po/cs.po | 
+ | [el](/f42/language/el) | 856 | 1859 | 46.0 | /mnt/stockage/packages/f42/budgie-desktop/po/el_GR.po | 
+ | [ar](/f42/language/ar) | 849 | 1859 | 45.7 | /mnt/stockage/packages/f42/budgie-desktop/po/ar.po | 
+ | [bn](/f42/language/bn) | 843 | 1859 | 45.3 | /mnt/stockage/packages/f42/budgie-desktop/po/bn.po | 
+ | [nb_NO](/f42/language/nb_NO) | 843 | 1859 | 45.3 | /mnt/stockage/packages/f42/budgie-desktop/po/no.po | 
+ | [sv](/f42/language/sv) | 825 | 1859 | 44.4 | /mnt/stockage/packages/f42/budgie-desktop/po/sv.po | 
+ | [it](/f42/language/it) | 817 | 1859 | 43.9 | /mnt/stockage/packages/f42/budgie-desktop/po/it.po | 
+ | [uk](/f42/language/uk) | 1064 | 2440 | 43.6 | /mnt/stockage/packages/f42/budgie-desktop/po/uk_UA.po/mnt/stockage/packages/f42/budgie-desktop/po/uk.po | 
+ | [ro](/f42/language/ro) | 804 | 1859 | 43.2 | /mnt/stockage/packages/f42/budgie-desktop/po/ro.po | 
+ | [lv](/f42/language/lv) | 511 | 1220 | 41.9 | /mnt/stockage/packages/f42/budgie-desktop/po/lv.po | 
+ | [sl](/f42/language/sl) | 776 | 1859 | 41.7 | /mnt/stockage/packages/f42/budgie-desktop/po/sl.po | 
+ | [nn](/f42/language/nn) | 610 | 1641 | 37.2 | /mnt/stockage/packages/f42/budgie-desktop/po/nn.po | 
+ | [error](/f42/language/error) | 598 | 1663 | 36.0 | /mnt/stockage/packages/f42/budgie-desktop/po/sr@Cyrl.po | 
+ | [sr](/f42/language/sr) | 598 | 1663 | 36.0 | /mnt/stockage/packages/f42/budgie-desktop/po/sr_RS.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 598 | 1663 | 36.0 | /mnt/stockage/packages/f42/budgie-desktop/po/sr_RS@latin.po | 
+ | [eu](/f42/language/eu) | 578 | 1663 | 34.8 | /mnt/stockage/packages/f42/budgie-desktop/po/eu.po | 
+ | [vi](/f42/language/vi) | 1114 | 3236 | 34.4 | /mnt/stockage/packages/f42/budgie-desktop/po/vi_VN.po/mnt/stockage/packages/f42/budgie-desktop/po/vi.po | 
+ | [eo](/f42/language/eo) | 557 | 1641 | 33.9 | /mnt/stockage/packages/f42/budgie-desktop/po/eo.po | 
+ | [be](/f42/language/be) | 373 | 1220 | 30.6 | /mnt/stockage/packages/f42/budgie-desktop/po/be.po | 
+ | [ne](/f42/language/ne) | 339 | 1220 | 27.8 | /mnt/stockage/packages/f42/budgie-desktop/po/ne.po | 
+ | [gl](/f42/language/gl) | 222 | 1220 | 18.2 | /mnt/stockage/packages/f42/budgie-desktop/po/gl.po | 
+ | [tt](/f42/language/tt) | 196 | 1220 | 16.1 | /mnt/stockage/packages/f42/budgie-desktop/po/tt.po | 
+ | [bs](/f42/language/bs) | 95 | 1220 | 7.8 | /mnt/stockage/packages/f42/budgie-desktop/po/bs.po | 
+ | [be_Latn](/f42/language/be_Latn) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/be_Latn.po | 
+ | [br](/f42/language/br) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/br.po | 
+ | [hi](/f42/language/hi) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/hi.po | 
+ | [si](/f42/language/si) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/si.po | 
+ | [ur](/f42/language/ur) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ur.po | 
+ | [ur_PK](/f42/language/ur_PK) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f42/budgie-desktop/po/ur_PK.po | 
 {.sortable}
 
 

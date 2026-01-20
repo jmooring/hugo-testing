@@ -18,7 +18,7 @@ The package qt5-qtwebengine (version 5.15.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f36/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f36/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 913 | 913 | 100.0 | /mnt/stockage/packages/f36/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f36/qt5-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
 {.sortable}
 
 

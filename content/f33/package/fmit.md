@@ -18,14 +18,14 @@ The package fmit (version 1.2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/el.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/fr.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/ru.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/zh_Hans.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 143 | 222 | 64.4 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/nb_NO.po | 
+ | [de](/f33/language/de) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/de.po | 
+ | [el](/f33/language/el) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/el.po | 
+ | [fr](/f33/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/fr.po | 
+ | [pt](/f33/language/pt) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/pt_BR.po | 
+ | [ru](/f33/language/ru) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/ru.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 222 | 222 | 100.0 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/zh_Hans.po | 
+ | [nb_NO](/f33/language/nb_NO) | 143 | 222 | 64.4 | /mnt/stockage/packages/f33/fmit/distrib/appdata_tr/nb_NO.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package gobby (version 0.4.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 797 | 876 | 91.0 | /mnt/stockage/packages/f14/gobby/po/ja.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 786 | 876 | 89.7 | /mnt/stockage/packages/f14/gobby/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 779 | 876 | 88.9 | /mnt/stockage/packages/f14/gobby/po/fr.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/el.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/he.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/it.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/sv.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 768 | 876 | 87.7 | /mnt/stockage/packages/f14/gobby/po/ca.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 764 | 876 | 87.2 | /mnt/stockage/packages/f14/gobby/po/nl.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 735 | 876 | 83.9 | /mnt/stockage/packages/f14/gobby/po/es.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 729 | 876 | 83.2 | /mnt/stockage/packages/f14/gobby/po/ko.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 726 | 876 | 82.9 | /mnt/stockage/packages/f14/gobby/po/pt_BR.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 519 | 876 | 59.2 | /mnt/stockage/packages/f14/gobby/po/pt.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 409 | 876 | 46.7 | /mnt/stockage/packages/f14/gobby/po/pl.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 246 | 876 | 28.1 | /mnt/stockage/packages/f14/gobby/po/zh_CN.po | 
+ | [ja](/f14/language/ja) | 797 | 876 | 91.0 | /mnt/stockage/packages/f14/gobby/po/ja.po | 
+ | [de](/f14/language/de) | 786 | 876 | 89.7 | /mnt/stockage/packages/f14/gobby/po/de.po | 
+ | [fr](/f14/language/fr) | 779 | 876 | 88.9 | /mnt/stockage/packages/f14/gobby/po/fr.po | 
+ | [el](/f14/language/el) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/el.po | 
+ | [he](/f14/language/he) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/he.po | 
+ | [it](/f14/language/it) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/it.po | 
+ | [ru](/f14/language/ru) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/ru.po | 
+ | [sv](/f14/language/sv) | 778 | 876 | 88.8 | /mnt/stockage/packages/f14/gobby/po/sv.po | 
+ | [ca](/f14/language/ca) | 768 | 876 | 87.7 | /mnt/stockage/packages/f14/gobby/po/ca.po | 
+ | [nl](/f14/language/nl) | 764 | 876 | 87.2 | /mnt/stockage/packages/f14/gobby/po/nl.po | 
+ | [es](/f14/language/es) | 735 | 876 | 83.9 | /mnt/stockage/packages/f14/gobby/po/es.po | 
+ | [ko](/f14/language/ko) | 729 | 876 | 83.2 | /mnt/stockage/packages/f14/gobby/po/ko.po | 
+ | [pt_BR](/f14/language/pt_BR) | 726 | 876 | 82.9 | /mnt/stockage/packages/f14/gobby/po/pt_BR.po | 
+ | [pt](/f14/language/pt) | 519 | 876 | 59.2 | /mnt/stockage/packages/f14/gobby/po/pt.po | 
+ | [pl](/f14/language/pl) | 409 | 876 | 46.7 | /mnt/stockage/packages/f14/gobby/po/pl.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 246 | 876 | 28.1 | /mnt/stockage/packages/f14/gobby/po/zh_CN.po | 
 {.sortable}
 
 

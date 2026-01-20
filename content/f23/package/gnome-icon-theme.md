@@ -18,106 +18,106 @@ The package gnome-icon-theme (version 3.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f23/language/af.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/af.po | 
- | [an]({{< ref "/f23/language/an.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/an.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ar.po | 
- | [as]({{< ref "/f23/language/as.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/as.po | 
- | [ast]({{< ref "/f23/language/ast.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ast.po | 
- | [az]({{< ref "/f23/language/az.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/az.po | 
- | [be]({{< ref "/f23/language/be.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/be.po | 
- | [be_Latn]({{< ref "/f23/language/be_Latn.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/be@latin.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bg.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bn.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bn_IN.po | 
- | [br]({{< ref "/f23/language/br.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/br.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bs.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ca.po/mnt/stockage/packages/f23/gnome-icon-theme/po/ca@valencia.po | 
- | [crh]({{< ref "/f23/language/crh.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/crh.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/cs.po | 
- | [csb]({{< ref "/f23/language/csb.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/csb.po | 
- | [cy]({{< ref "/f23/language/cy.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/cy.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/de.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/dz.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/el.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/en_CA.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/en_GB.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/eo.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nhn.po/mnt/stockage/packages/f23/gnome-icon-theme/po/en@shaw.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/es.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/eu.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fa.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fr.po | 
- | [fur]({{< ref "/f23/language/fur.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fur.po | 
- | [fy]({{< ref "/f23/language/fy.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fy.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ga.po | 
- | [gd]({{< ref "/f23/language/gd.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/gd.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/gl.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/gu.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/he.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/hi.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/hr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ja.po | 
- | [ka]({{< ref "/f23/language/ka.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ka.po | 
- | [kk]({{< ref "/f23/language/kk.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/kk.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/km.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/kn.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ko.po | 
- | [ku]({{< ref "/f23/language/ku.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ku.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/lv.po | 
- | [mai]({{< ref "/f23/language/mai.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mai.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mk.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ml.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mr.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nb.po | 
- | [nds]({{< ref "/f23/language/nds.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nds.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ne.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nl.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nn.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/or.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pa.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pl.po | 
- | [ps]({{< ref "/f23/language/ps.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ps.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pt_BR.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ro.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ru.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/si.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sl.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sq.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sr.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sr@latin.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/te.po | 
- | [tg]({{< ref "/f23/language/tg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/tg.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/th.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/tr.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ug.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/uk.po | 
- | [uz]({{< ref "/f23/language/uz.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/uz.po/mnt/stockage/packages/f23/gnome-icon-theme/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/vi.po | 
- | [xh]({{< ref "/f23/language/xh.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/xh.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/zh_HK.po | 
- | [mg]({{< ref "/f23/language/mg.md" >}}) | 49 | 50 | 98.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mg.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 45 | 52 | 86.5 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ms.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 16 | 20 | 80.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/oc.po | 
- | [mn]({{< ref "/f23/language/mn.md" >}}) | 36 | 52 | 69.2 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mn.po | 
- | [tk]({{< ref "/f23/language/tk.md" >}}) | 36 | 52 | 69.2 | /mnt/stockage/packages/f23/gnome-icon-theme/po/tk.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 34 | 52 | 65.4 | /mnt/stockage/packages/f23/gnome-icon-theme/po/is.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 28 | 52 | 53.8 | /mnt/stockage/packages/f23/gnome-icon-theme/po/wa.po | 
- | [li]({{< ref "/f23/language/li.md" >}}) | 22 | 52 | 42.3 | /mnt/stockage/packages/f23/gnome-icon-theme/po/li.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 21 | 52 | 40.4 | /mnt/stockage/packages/f23/gnome-icon-theme/po/am.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 18 | 53 | 34.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/rw.po | 
+ | [af](/f23/language/af) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/af.po | 
+ | [an](/f23/language/an) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/an.po | 
+ | [ar](/f23/language/ar) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ar.po | 
+ | [as](/f23/language/as) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/as.po | 
+ | [ast](/f23/language/ast) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ast.po | 
+ | [az](/f23/language/az) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/az.po | 
+ | [be](/f23/language/be) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/be.po | 
+ | [be_Latn](/f23/language/be_Latn) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/be@latin.po | 
+ | [bg](/f23/language/bg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bg.po | 
+ | [bn](/f23/language/bn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bn.po | 
+ | [bn_IN](/f23/language/bn_IN) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bn_IN.po | 
+ | [br](/f23/language/br) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/br.po | 
+ | [bs](/f23/language/bs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/bs.po | 
+ | [ca](/f23/language/ca) | 49 | 49 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ca.po/mnt/stockage/packages/f23/gnome-icon-theme/po/ca@valencia.po | 
+ | [crh](/f23/language/crh) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/crh.po | 
+ | [cs](/f23/language/cs) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/cs.po | 
+ | [csb](/f23/language/csb) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/csb.po | 
+ | [cy](/f23/language/cy) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/cy.po | 
+ | [da](/f23/language/da) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/da.po | 
+ | [de](/f23/language/de) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/de.po | 
+ | [dz](/f23/language/dz) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/dz.po | 
+ | [el](/f23/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/el.po | 
+ | [en_CA](/f23/language/en_CA) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/en_CA.po | 
+ | [en_GB](/f23/language/en_GB) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/en_GB.po | 
+ | [eo](/f23/language/eo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/eo.po | 
+ | [error](/f23/language/error) | 8 | 8 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nhn.po/mnt/stockage/packages/f23/gnome-icon-theme/po/en@shaw.po | 
+ | [es](/f23/language/es) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/es.po | 
+ | [et](/f23/language/et) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/et.po | 
+ | [eu](/f23/language/eu) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/eu.po | 
+ | [fa](/f23/language/fa) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fa.po | 
+ | [fi](/f23/language/fi) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fi.po | 
+ | [fr](/f23/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fr.po | 
+ | [fur](/f23/language/fur) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fur.po | 
+ | [fy](/f23/language/fy) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/fy.po | 
+ | [ga](/f23/language/ga) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ga.po | 
+ | [gd](/f23/language/gd) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/gd.po | 
+ | [gl](/f23/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/gl.po | 
+ | [gu](/f23/language/gu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/gu.po | 
+ | [he](/f23/language/he) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/he.po | 
+ | [hi](/f23/language/hi) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/hi.po | 
+ | [hr](/f23/language/hr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/hr.po | 
+ | [hu](/f23/language/hu) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/hu.po | 
+ | [id](/f23/language/id) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/id.po | 
+ | [it](/f23/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/it.po | 
+ | [ja](/f23/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ja.po | 
+ | [ka](/f23/language/ka) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ka.po | 
+ | [kk](/f23/language/kk) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/kk.po | 
+ | [km](/f23/language/km) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/km.po | 
+ | [kn](/f23/language/kn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/kn.po | 
+ | [ko](/f23/language/ko) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ko.po | 
+ | [ku](/f23/language/ku) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ku.po | 
+ | [lt](/f23/language/lt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/lt.po | 
+ | [lv](/f23/language/lv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/lv.po | 
+ | [mai](/f23/language/mai) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mai.po | 
+ | [mk](/f23/language/mk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mk.po | 
+ | [ml](/f23/language/ml) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ml.po | 
+ | [mr](/f23/language/mr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mr.po | 
+ | [nb_NO](/f23/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nb.po | 
+ | [nds](/f23/language/nds) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nds.po | 
+ | [ne](/f23/language/ne) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ne.po | 
+ | [nl](/f23/language/nl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nl.po | 
+ | [nn](/f23/language/nn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/nn.po | 
+ | [or](/f23/language/or) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/or.po | 
+ | [pa](/f23/language/pa) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pa.po | 
+ | [pl](/f23/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pl.po | 
+ | [ps](/f23/language/ps) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ps.po | 
+ | [pt](/f23/language/pt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/pt_BR.po | 
+ | [ro](/f23/language/ro) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ro.po | 
+ | [ru](/f23/language/ru) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ru.po | 
+ | [si](/f23/language/si) | 49 | 49 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/si.po | 
+ | [sk](/f23/language/sk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sk.po | 
+ | [sl](/f23/language/sl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sl.po | 
+ | [sq](/f23/language/sq) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sq.po | 
+ | [sr](/f23/language/sr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sr.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sr@latin.po | 
+ | [sv](/f23/language/sv) | 45 | 45 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/sv.po | 
+ | [ta](/f23/language/ta) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ta.po | 
+ | [te](/f23/language/te) | 54 | 54 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/te.po | 
+ | [tg](/f23/language/tg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/tg.po | 
+ | [th](/f23/language/th) | 45 | 45 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/th.po | 
+ | [tr](/f23/language/tr) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/tr.po | 
+ | [ug](/f23/language/ug) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ug.po | 
+ | [uk](/f23/language/uk) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/uk.po | 
+ | [uz](/f23/language/uz) | 40 | 40 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/uz.po/mnt/stockage/packages/f23/gnome-icon-theme/po/uz@cyrillic.po | 
+ | [vi](/f23/language/vi) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/vi.po | 
+ | [xh](/f23/language/xh) | 53 | 53 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/xh.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/zh_TW.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 20 | 20 | 100.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/zh_HK.po | 
+ | [mg](/f23/language/mg) | 49 | 50 | 98.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mg.po | 
+ | [ms](/f23/language/ms) | 45 | 52 | 86.5 | /mnt/stockage/packages/f23/gnome-icon-theme/po/ms.po | 
+ | [oc](/f23/language/oc) | 16 | 20 | 80.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/oc.po | 
+ | [mn](/f23/language/mn) | 36 | 52 | 69.2 | /mnt/stockage/packages/f23/gnome-icon-theme/po/mn.po | 
+ | [tk](/f23/language/tk) | 36 | 52 | 69.2 | /mnt/stockage/packages/f23/gnome-icon-theme/po/tk.po | 
+ | [is](/f23/language/is) | 34 | 52 | 65.4 | /mnt/stockage/packages/f23/gnome-icon-theme/po/is.po | 
+ | [wa](/f23/language/wa) | 28 | 52 | 53.8 | /mnt/stockage/packages/f23/gnome-icon-theme/po/wa.po | 
+ | [li](/f23/language/li) | 22 | 52 | 42.3 | /mnt/stockage/packages/f23/gnome-icon-theme/po/li.po | 
+ | [am](/f23/language/am) | 21 | 52 | 40.4 | /mnt/stockage/packages/f23/gnome-icon-theme/po/am.po | 
+ | [rw](/f23/language/rw) | 18 | 53 | 34.0 | /mnt/stockage/packages/f23/gnome-icon-theme/po/rw.po | 
 {.sortable}
 
 

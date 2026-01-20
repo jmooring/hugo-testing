@@ -18,98 +18,98 @@ The package deepin-metacity (version 3.22.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ar.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 2017 | 2017 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ast.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/be.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 3821 | 3821 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bn_IN.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 2188 | 2188 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bs.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ca@valencia.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/crh.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/cs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/cy.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/da.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 7931 | 7931 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/dz.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/en_CA.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/en_GB.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/en@shaw.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/et.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/fa.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/fr.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/gl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/hi.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 2150 | 2150 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ja.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/mr.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/nb.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ne.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/nl.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/oc.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 3700 | 3700 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 3700 | 3700 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 4300 | 4300 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sr@latin.po/mnt/stockage/packages/f29/deepin-metacity/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/th.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ug.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/vi.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 7261 | 7264 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/mg.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 6893 | 6919 | 99.6 | /mnt/stockage/packages/f29/deepin-metacity/po/xh.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 2025 | 2042 | 99.2 | /mnt/stockage/packages/f29/deepin-metacity/po/fi.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 3749 | 3798 | 98.7 | /mnt/stockage/packages/f29/deepin-metacity/po/kn.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 3595 | 3700 | 97.2 | /mnt/stockage/packages/f29/deepin-metacity/po/gu.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f29/deepin-metacity/po/az.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 2015 | 2090 | 96.4 | /mnt/stockage/packages/f29/deepin-metacity/po/el.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 2071 | 2150 | 96.3 | /mnt/stockage/packages/f29/deepin-metacity/po/tr.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 4030 | 4228 | 95.3 | /mnt/stockage/packages/f29/deepin-metacity/po/zh_TW.po/mnt/stockage/packages/f29/deepin-metacity/po/zh_HK.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 1986 | 2090 | 95.0 | /mnt/stockage/packages/f29/deepin-metacity/po/eu.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 7585 | 8082 | 93.9 | /mnt/stockage/packages/f29/deepin-metacity/po/hr.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 8009 | 8587 | 93.3 | /mnt/stockage/packages/f29/deepin-metacity/po/sq.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1992 | 2174 | 91.6 | /mnt/stockage/packages/f29/deepin-metacity/po/zh_CN.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 3482 | 3843 | 90.6 | /mnt/stockage/packages/f29/deepin-metacity/po/be@latin.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1919 | 2188 | 87.7 | /mnt/stockage/packages/f29/deepin-metacity/po/ca.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 1767 | 2196 | 80.5 | /mnt/stockage/packages/f29/deepin-metacity/po/is.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 3029 | 3810 | 79.5 | /mnt/stockage/packages/f29/deepin-metacity/po/nn.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 2702 | 3821 | 70.7 | /mnt/stockage/packages/f29/deepin-metacity/po/mai.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 2903 | 4414 | 65.8 | /mnt/stockage/packages/f29/deepin-metacity/doc/creating_themes/de/de.po/mnt/stockage/packages/f29/deepin-metacity/po/de.po | 
- | [ig]({{< ref "/f29/language/ig.md" >}}) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f29/deepin-metacity/po/ig.po | 
- | [yo]({{< ref "/f29/language/yo.md" >}}) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f29/deepin-metacity/po/yo.po | 
- | [ha]({{< ref "/f29/language/ha.md" >}}) | 2219 | 3808 | 58.3 | /mnt/stockage/packages/f29/deepin-metacity/po/ha.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 3177 | 6919 | 45.9 | /mnt/stockage/packages/f29/deepin-metacity/po/mn.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 612 | 2040 | 30.0 | /mnt/stockage/packages/f29/deepin-metacity/po/eo.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 1145 | 3821 | 30.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ku.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 2010 | 6919 | 29.1 | /mnt/stockage/packages/f29/deepin-metacity/po/ms.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 1858 | 6919 | 26.9 | /mnt/stockage/packages/f29/deepin-metacity/po/hy.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 745 | 3865 | 19.3 | /mnt/stockage/packages/f29/deepin-metacity/po/br.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 694 | 3821 | 18.2 | /mnt/stockage/packages/f29/deepin-metacity/po/ga.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 604 | 6919 | 8.7 | /mnt/stockage/packages/f29/deepin-metacity/po/wa.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 235 | 3790 | 6.2 | /mnt/stockage/packages/f29/deepin-metacity/po/nds.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 375 | 8059 | 4.7 | /mnt/stockage/packages/f29/deepin-metacity/po/ka.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 162 | 6919 | 2.3 | /mnt/stockage/packages/f29/deepin-metacity/po/am.po | 
- | [la]({{< ref "/f29/language/la.md" >}}) | 80 | 3819 | 2.1 | /mnt/stockage/packages/f29/deepin-metacity/po/la.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 75 | 8059 | 0.9 | /mnt/stockage/packages/f29/deepin-metacity/po/si.po | 
- | [tk]({{< ref "/f29/language/tk.md" >}}) | 49 | 6919 | 0.7 | /mnt/stockage/packages/f29/deepin-metacity/po/tk.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 17 | 6919 | 0.2 | /mnt/stockage/packages/f29/deepin-metacity/po/rw.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/deepin-metacity/po/as.po | 
+ | [ar](/f29/language/ar) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ar.po | 
+ | [ast](/f29/language/ast) | 2017 | 2017 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ast.po | 
+ | [be](/f29/language/be) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/be.po | 
+ | [bg](/f29/language/bg) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bg.po | 
+ | [bn](/f29/language/bn) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 3821 | 3821 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bn_IN.po | 
+ | [bs](/f29/language/bs) | 2188 | 2188 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/bs.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ca@valencia.po | 
+ | [crh](/f29/language/crh) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/crh.po | 
+ | [cs](/f29/language/cs) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/cs.po | 
+ | [cy](/f29/language/cy) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/cy.po | 
+ | [da](/f29/language/da) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/da.po | 
+ | [dz](/f29/language/dz) | 7931 | 7931 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/dz.po | 
+ | [en_CA](/f29/language/en_CA) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/en_CA.po | 
+ | [en_GB](/f29/language/en_GB) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/en_GB.po | 
+ | [error](/f29/language/error) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/en@shaw.po | 
+ | [es](/f29/language/es) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/es.po | 
+ | [et](/f29/language/et) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/et.po | 
+ | [fa](/f29/language/fa) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/fa.po | 
+ | [fr](/f29/language/fr) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/fr.po | 
+ | [gl](/f29/language/gl) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/gl.po | 
+ | [he](/f29/language/he) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/he.po | 
+ | [hi](/f29/language/hi) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/hi.po | 
+ | [hu](/f29/language/hu) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/hu.po | 
+ | [id](/f29/language/id) | 2150 | 2150 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/id.po | 
+ | [it](/f29/language/it) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/it.po | 
+ | [ja](/f29/language/ja) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ja.po | 
+ | [ko](/f29/language/ko) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ko.po | 
+ | [lt](/f29/language/lt) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/lt.po | 
+ | [lv](/f29/language/lv) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/lv.po | 
+ | [mk](/f29/language/mk) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/mk.po | 
+ | [ml](/f29/language/ml) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ml.po | 
+ | [mr](/f29/language/mr) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/mr.po | 
+ | [nb_NO](/f29/language/nb_NO) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/nb.po | 
+ | [ne](/f29/language/ne) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ne.po | 
+ | [nl](/f29/language/nl) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/nl.po | 
+ | [oc](/f29/language/oc) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/oc.po | 
+ | [or](/f29/language/or) | 3700 | 3700 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/or.po | 
+ | [pa](/f29/language/pa) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pa.po | 
+ | [pl](/f29/language/pl) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pl.po | 
+ | [pt](/f29/language/pt) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 2196 | 2196 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 3700 | 3700 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ro.po | 
+ | [ru](/f29/language/ru) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ru.po | 
+ | [sk](/f29/language/sk) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sk.po | 
+ | [sl](/f29/language/sl) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sl.po | 
+ | [sr](/f29/language/sr) | 4300 | 4300 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sr@latin.po/mnt/stockage/packages/f29/deepin-metacity/po/sr.po | 
+ | [sv](/f29/language/sv) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/sv.po | 
+ | [ta](/f29/language/ta) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ta.po | 
+ | [te](/f29/language/te) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/te.po | 
+ | [th](/f29/language/th) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/th.po | 
+ | [ug](/f29/language/ug) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ug.po | 
+ | [uk](/f29/language/uk) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/uk.po | 
+ | [vi](/f29/language/vi) | 2040 | 2040 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/vi.po | 
+ | [mg](/f29/language/mg) | 7261 | 7264 | 100.0 | /mnt/stockage/packages/f29/deepin-metacity/po/mg.po | 
+ | [xh](/f29/language/xh) | 6893 | 6919 | 99.6 | /mnt/stockage/packages/f29/deepin-metacity/po/xh.po | 
+ | [fi](/f29/language/fi) | 2025 | 2042 | 99.2 | /mnt/stockage/packages/f29/deepin-metacity/po/fi.po | 
+ | [kn](/f29/language/kn) | 3749 | 3798 | 98.7 | /mnt/stockage/packages/f29/deepin-metacity/po/kn.po | 
+ | [gu](/f29/language/gu) | 3595 | 3700 | 97.2 | /mnt/stockage/packages/f29/deepin-metacity/po/gu.po | 
+ | [az](/f29/language/az) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f29/deepin-metacity/po/az.po | 
+ | [el](/f29/language/el) | 2015 | 2090 | 96.4 | /mnt/stockage/packages/f29/deepin-metacity/po/el.po | 
+ | [tr](/f29/language/tr) | 2071 | 2150 | 96.3 | /mnt/stockage/packages/f29/deepin-metacity/po/tr.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 4030 | 4228 | 95.3 | /mnt/stockage/packages/f29/deepin-metacity/po/zh_TW.po/mnt/stockage/packages/f29/deepin-metacity/po/zh_HK.po | 
+ | [eu](/f29/language/eu) | 1986 | 2090 | 95.0 | /mnt/stockage/packages/f29/deepin-metacity/po/eu.po | 
+ | [hr](/f29/language/hr) | 7585 | 8082 | 93.9 | /mnt/stockage/packages/f29/deepin-metacity/po/hr.po | 
+ | [sq](/f29/language/sq) | 8009 | 8587 | 93.3 | /mnt/stockage/packages/f29/deepin-metacity/po/sq.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1992 | 2174 | 91.6 | /mnt/stockage/packages/f29/deepin-metacity/po/zh_CN.po | 
+ | [be_Latn](/f29/language/be_Latn) | 3482 | 3843 | 90.6 | /mnt/stockage/packages/f29/deepin-metacity/po/be@latin.po | 
+ | [ca](/f29/language/ca) | 1919 | 2188 | 87.7 | /mnt/stockage/packages/f29/deepin-metacity/po/ca.po | 
+ | [is](/f29/language/is) | 1767 | 2196 | 80.5 | /mnt/stockage/packages/f29/deepin-metacity/po/is.po | 
+ | [nn](/f29/language/nn) | 3029 | 3810 | 79.5 | /mnt/stockage/packages/f29/deepin-metacity/po/nn.po | 
+ | [mai](/f29/language/mai) | 2702 | 3821 | 70.7 | /mnt/stockage/packages/f29/deepin-metacity/po/mai.po | 
+ | [de](/f29/language/de) | 2903 | 4414 | 65.8 | /mnt/stockage/packages/f29/deepin-metacity/doc/creating_themes/de/de.po/mnt/stockage/packages/f29/deepin-metacity/po/de.po | 
+ | [ig](/f29/language/ig) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f29/deepin-metacity/po/ig.po | 
+ | [yo](/f29/language/yo) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f29/deepin-metacity/po/yo.po | 
+ | [ha](/f29/language/ha) | 2219 | 3808 | 58.3 | /mnt/stockage/packages/f29/deepin-metacity/po/ha.po | 
+ | [mn](/f29/language/mn) | 3177 | 6919 | 45.9 | /mnt/stockage/packages/f29/deepin-metacity/po/mn.po | 
+ | [eo](/f29/language/eo) | 612 | 2040 | 30.0 | /mnt/stockage/packages/f29/deepin-metacity/po/eo.po | 
+ | [ku](/f29/language/ku) | 1145 | 3821 | 30.0 | /mnt/stockage/packages/f29/deepin-metacity/po/ku.po | 
+ | [ms](/f29/language/ms) | 2010 | 6919 | 29.1 | /mnt/stockage/packages/f29/deepin-metacity/po/ms.po | 
+ | [hy](/f29/language/hy) | 1858 | 6919 | 26.9 | /mnt/stockage/packages/f29/deepin-metacity/po/hy.po | 
+ | [br](/f29/language/br) | 745 | 3865 | 19.3 | /mnt/stockage/packages/f29/deepin-metacity/po/br.po | 
+ | [ga](/f29/language/ga) | 694 | 3821 | 18.2 | /mnt/stockage/packages/f29/deepin-metacity/po/ga.po | 
+ | [wa](/f29/language/wa) | 604 | 6919 | 8.7 | /mnt/stockage/packages/f29/deepin-metacity/po/wa.po | 
+ | [nds](/f29/language/nds) | 235 | 3790 | 6.2 | /mnt/stockage/packages/f29/deepin-metacity/po/nds.po | 
+ | [ka](/f29/language/ka) | 375 | 8059 | 4.7 | /mnt/stockage/packages/f29/deepin-metacity/po/ka.po | 
+ | [am](/f29/language/am) | 162 | 6919 | 2.3 | /mnt/stockage/packages/f29/deepin-metacity/po/am.po | 
+ | [la](/f29/language/la) | 80 | 3819 | 2.1 | /mnt/stockage/packages/f29/deepin-metacity/po/la.po | 
+ | [si](/f29/language/si) | 75 | 8059 | 0.9 | /mnt/stockage/packages/f29/deepin-metacity/po/si.po | 
+ | [tk](/f29/language/tk) | 49 | 6919 | 0.7 | /mnt/stockage/packages/f29/deepin-metacity/po/tk.po | 
+ | [rw](/f29/language/rw) | 17 | 6919 | 0.2 | /mnt/stockage/packages/f29/deepin-metacity/po/rw.po | 
+ | [as](/f29/language/as) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/deepin-metacity/po/as.po | 
 {.sortable}
 
 

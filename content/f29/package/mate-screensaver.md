@@ -18,111 +18,111 @@ The package mate-screensaver (version 1.22.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/da.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/es.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/gl.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/hu.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/it.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ko.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ms.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/pt.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/uk.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 986 | 996 | 99.0 | /mnt/stockage/packages/f29/mate-screensaver/po/nb.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/fr.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/pl.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/tr.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ast.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bg.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ca@valencia.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/el.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/en_AU.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/en_GB.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/et.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/hy.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/id.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/is.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ja.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sv.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/th.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/vi.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 888 | 996 | 89.2 | /mnt/stockage/packages/f29/mate-screensaver/po/nds.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 888 | 996 | 89.2 | /mnt/stockage/packages/f29/mate-screensaver/po/ro.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 876 | 996 | 88.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ar.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 876 | 996 | 88.0 | /mnt/stockage/packages/f29/mate-screensaver/po/hi.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 873 | 996 | 87.7 | /mnt/stockage/packages/f29/mate-screensaver/po/be.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/as.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bn_IN.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/crh.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/eu.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/fi.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/he.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/kn.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/lv.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/mr.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/pa.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sr@latin.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/te.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/zh_HK.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 826 | 996 | 82.9 | /mnt/stockage/packages/f29/mate-screensaver/po/mk.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 819 | 996 | 82.2 | /mnt/stockage/packages/f29/mate-screensaver/po/nn.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 815 | 996 | 81.8 | /mnt/stockage/packages/f29/mate-screensaver/po/dz.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 803 | 996 | 80.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ne.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1544 | 1992 | 77.5 | /mnt/stockage/packages/f29/mate-screensaver/po/zh_CN.po/mnt/stockage/packages/f29/mate-screensaver/po/cmn.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 728 | 996 | 73.1 | /mnt/stockage/packages/f29/mate-screensaver/po/mai.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 630 | 996 | 63.3 | /mnt/stockage/packages/f29/mate-screensaver/po/mg.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 623 | 996 | 62.6 | /mnt/stockage/packages/f29/mate-screensaver/po/mn.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 495 | 996 | 49.7 | /mnt/stockage/packages/f29/mate-screensaver/po/ka.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 484 | 996 | 48.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ku.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 469 | 996 | 47.1 | /mnt/stockage/packages/f29/mate-screensaver/po/cy.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 468 | 996 | 47.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ur.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 456 | 996 | 45.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sq.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 453 | 996 | 45.5 | /mnt/stockage/packages/f29/mate-screensaver/po/en_CA.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 435 | 996 | 43.7 | /mnt/stockage/packages/f29/mate-screensaver/po/si.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 356 | 996 | 35.7 | /mnt/stockage/packages/f29/mate-screensaver/po/ps.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 340 | 996 | 34.1 | /mnt/stockage/packages/f29/mate-screensaver/po/br.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 195 | 996 | 19.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ga.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 181 | 996 | 18.2 | /mnt/stockage/packages/f29/mate-screensaver/po/am.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 163 | 996 | 16.4 | /mnt/stockage/packages/f29/mate-screensaver/po/kk.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 130 | 996 | 13.1 | /mnt/stockage/packages/f29/mate-screensaver/po/oc.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 103 | 996 | 10.3 | /mnt/stockage/packages/f29/mate-screensaver/po/uz.po | 
- | [es_AR]({{< ref "/f29/language/es_AR.md" >}}) | 97 | 996 | 9.7 | /mnt/stockage/packages/f29/mate-screensaver/po/es_AR.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 38 | 996 | 3.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ky.po | 
- | [kmr]({{< ref "/f29/language/kmr.md" >}}) | 32 | 996 | 3.2 | /mnt/stockage/packages/f29/mate-screensaver/po/ku_IQ.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 30 | 996 | 3.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ug.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 26 | 996 | 2.6 | /mnt/stockage/packages/f29/mate-screensaver/po/af.po | 
- | [ie]({{< ref "/f29/language/ie.md" >}}) | 26 | 996 | 2.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ie.po | 
- | [frp]({{< ref "/f29/language/frp.md" >}}) | 22 | 996 | 2.2 | /mnt/stockage/packages/f29/mate-screensaver/po/frp.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 18 | 996 | 1.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bs.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 18 | 996 | 1.8 | /mnt/stockage/packages/f29/mate-screensaver/po/eo.po | 
- | [es_CO]({{< ref "/f29/language/es_CO.md" >}}) | 17 | 996 | 1.7 | /mnt/stockage/packages/f29/mate-screensaver/po/es_CO.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 13 | 996 | 1.3 | /mnt/stockage/packages/f29/mate-screensaver/po/es_MX.po | 
- | [fy]({{< ref "/f29/language/fy.md" >}}) | 13 | 996 | 1.3 | /mnt/stockage/packages/f29/mate-screensaver/po/fy.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 11 | 996 | 1.1 | /mnt/stockage/packages/f29/mate-screensaver/po/xh.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 8 | 996 | 0.8 | /mnt/stockage/packages/f29/mate-screensaver/po/az.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 7 | 996 | 0.7 | /mnt/stockage/packages/f29/mate-screensaver/po/wa.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 6 | 983 | 0.6 | /mnt/stockage/packages/f29/mate-screensaver/po/fur.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 3 | 983 | 0.3 | /mnt/stockage/packages/f29/mate-screensaver/po/ia.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 3 | 983 | 0.3 | /mnt/stockage/packages/f29/mate-screensaver/po/rw.po | 
- | [zu]({{< ref "/f29/language/zu.md" >}}) | 3 | 983 | 0.3 | /mnt/stockage/packages/f29/mate-screensaver/po/zu.po | 
- | [fr_CA]({{< ref "/f29/language/fr_CA.md" >}}) | 2 | 983 | 0.2 | /mnt/stockage/packages/f29/mate-screensaver/po/fr_CA.po | 
+ | [ca](/f29/language/ca) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ca.po | 
+ | [cs](/f29/language/cs) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/cs.po | 
+ | [da](/f29/language/da) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/da.po | 
+ | [es](/f29/language/es) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/es.po | 
+ | [gl](/f29/language/gl) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/gl.po | 
+ | [hr](/f29/language/hr) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/hr.po | 
+ | [hu](/f29/language/hu) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/hu.po | 
+ | [it](/f29/language/it) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/it.po | 
+ | [ko](/f29/language/ko) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ko.po | 
+ | [ms](/f29/language/ms) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ms.po | 
+ | [pt](/f29/language/pt) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/pt.po | 
+ | [uk](/f29/language/uk) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/uk.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 996 | 996 | 100.0 | /mnt/stockage/packages/f29/mate-screensaver/po/zh_TW.po | 
+ | [nb_NO](/f29/language/nb_NO) | 986 | 996 | 99.0 | /mnt/stockage/packages/f29/mate-screensaver/po/nb.po | 
+ | [de](/f29/language/de) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/de.po | 
+ | [fr](/f29/language/fr) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/fr.po | 
+ | [lt](/f29/language/lt) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/lt.po | 
+ | [nl](/f29/language/nl) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/nl.po | 
+ | [pl](/f29/language/pl) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/pl.po | 
+ | [tr](/f29/language/tr) | 984 | 996 | 98.8 | /mnt/stockage/packages/f29/mate-screensaver/po/tr.po | 
+ | [ast](/f29/language/ast) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ast.po | 
+ | [bg](/f29/language/bg) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bg.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ca@valencia.po | 
+ | [el](/f29/language/el) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/el.po | 
+ | [en_AU](/f29/language/en_AU) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/en_AU.po | 
+ | [en_GB](/f29/language/en_GB) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/en_GB.po | 
+ | [et](/f29/language/et) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/et.po | 
+ | [hy](/f29/language/hy) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/hy.po | 
+ | [id](/f29/language/id) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/id.po | 
+ | [is](/f29/language/is) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/is.po | 
+ | [ja](/f29/language/ja) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ja.po | 
+ | [pt_BR](/f29/language/pt_BR) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ru.po | 
+ | [sk](/f29/language/sk) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sk.po | 
+ | [sl](/f29/language/sl) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sl.po | 
+ | [sr](/f29/language/sr) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sr.po | 
+ | [sv](/f29/language/sv) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sv.po | 
+ | [th](/f29/language/th) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/th.po | 
+ | [vi](/f29/language/vi) | 974 | 996 | 97.8 | /mnt/stockage/packages/f29/mate-screensaver/po/vi.po | 
+ | [nds](/f29/language/nds) | 888 | 996 | 89.2 | /mnt/stockage/packages/f29/mate-screensaver/po/nds.po | 
+ | [ro](/f29/language/ro) | 888 | 996 | 89.2 | /mnt/stockage/packages/f29/mate-screensaver/po/ro.po | 
+ | [ar](/f29/language/ar) | 876 | 996 | 88.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ar.po | 
+ | [hi](/f29/language/hi) | 876 | 996 | 88.0 | /mnt/stockage/packages/f29/mate-screensaver/po/hi.po | 
+ | [be](/f29/language/be) | 873 | 996 | 87.7 | /mnt/stockage/packages/f29/mate-screensaver/po/be.po | 
+ | [as](/f29/language/as) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/as.po | 
+ | [bn](/f29/language/bn) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bn_IN.po | 
+ | [crh](/f29/language/crh) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/crh.po | 
+ | [eu](/f29/language/eu) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/eu.po | 
+ | [fa](/f29/language/fa) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/fa.po | 
+ | [fi](/f29/language/fi) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/fi.po | 
+ | [gu](/f29/language/gu) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/gu.po | 
+ | [he](/f29/language/he) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/he.po | 
+ | [kn](/f29/language/kn) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/kn.po | 
+ | [lv](/f29/language/lv) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/lv.po | 
+ | [ml](/f29/language/ml) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ml.po | 
+ | [mr](/f29/language/mr) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/mr.po | 
+ | [or](/f29/language/or) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/or.po | 
+ | [pa](/f29/language/pa) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/pa.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sr@latin.po | 
+ | [ta](/f29/language/ta) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ta.po | 
+ | [te](/f29/language/te) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/te.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 855 | 996 | 85.8 | /mnt/stockage/packages/f29/mate-screensaver/po/zh_HK.po | 
+ | [mk](/f29/language/mk) | 826 | 996 | 82.9 | /mnt/stockage/packages/f29/mate-screensaver/po/mk.po | 
+ | [nn](/f29/language/nn) | 819 | 996 | 82.2 | /mnt/stockage/packages/f29/mate-screensaver/po/nn.po | 
+ | [dz](/f29/language/dz) | 815 | 996 | 81.8 | /mnt/stockage/packages/f29/mate-screensaver/po/dz.po | 
+ | [ne](/f29/language/ne) | 803 | 996 | 80.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ne.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1544 | 1992 | 77.5 | /mnt/stockage/packages/f29/mate-screensaver/po/zh_CN.po/mnt/stockage/packages/f29/mate-screensaver/po/cmn.po | 
+ | [mai](/f29/language/mai) | 728 | 996 | 73.1 | /mnt/stockage/packages/f29/mate-screensaver/po/mai.po | 
+ | [mg](/f29/language/mg) | 630 | 996 | 63.3 | /mnt/stockage/packages/f29/mate-screensaver/po/mg.po | 
+ | [mn](/f29/language/mn) | 623 | 996 | 62.6 | /mnt/stockage/packages/f29/mate-screensaver/po/mn.po | 
+ | [ka](/f29/language/ka) | 495 | 996 | 49.7 | /mnt/stockage/packages/f29/mate-screensaver/po/ka.po | 
+ | [ku](/f29/language/ku) | 484 | 996 | 48.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ku.po | 
+ | [cy](/f29/language/cy) | 469 | 996 | 47.1 | /mnt/stockage/packages/f29/mate-screensaver/po/cy.po | 
+ | [ur](/f29/language/ur) | 468 | 996 | 47.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ur.po | 
+ | [sq](/f29/language/sq) | 456 | 996 | 45.8 | /mnt/stockage/packages/f29/mate-screensaver/po/sq.po | 
+ | [en_CA](/f29/language/en_CA) | 453 | 996 | 45.5 | /mnt/stockage/packages/f29/mate-screensaver/po/en_CA.po | 
+ | [si](/f29/language/si) | 435 | 996 | 43.7 | /mnt/stockage/packages/f29/mate-screensaver/po/si.po | 
+ | [ps](/f29/language/ps) | 356 | 996 | 35.7 | /mnt/stockage/packages/f29/mate-screensaver/po/ps.po | 
+ | [br](/f29/language/br) | 340 | 996 | 34.1 | /mnt/stockage/packages/f29/mate-screensaver/po/br.po | 
+ | [ga](/f29/language/ga) | 195 | 996 | 19.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ga.po | 
+ | [am](/f29/language/am) | 181 | 996 | 18.2 | /mnt/stockage/packages/f29/mate-screensaver/po/am.po | 
+ | [kk](/f29/language/kk) | 163 | 996 | 16.4 | /mnt/stockage/packages/f29/mate-screensaver/po/kk.po | 
+ | [oc](/f29/language/oc) | 130 | 996 | 13.1 | /mnt/stockage/packages/f29/mate-screensaver/po/oc.po | 
+ | [uz](/f29/language/uz) | 103 | 996 | 10.3 | /mnt/stockage/packages/f29/mate-screensaver/po/uz.po | 
+ | [es_AR](/f29/language/es_AR) | 97 | 996 | 9.7 | /mnt/stockage/packages/f29/mate-screensaver/po/es_AR.po | 
+ | [ky](/f29/language/ky) | 38 | 996 | 3.8 | /mnt/stockage/packages/f29/mate-screensaver/po/ky.po | 
+ | [kmr](/f29/language/kmr) | 32 | 996 | 3.2 | /mnt/stockage/packages/f29/mate-screensaver/po/ku_IQ.po | 
+ | [ug](/f29/language/ug) | 30 | 996 | 3.0 | /mnt/stockage/packages/f29/mate-screensaver/po/ug.po | 
+ | [af](/f29/language/af) | 26 | 996 | 2.6 | /mnt/stockage/packages/f29/mate-screensaver/po/af.po | 
+ | [ie](/f29/language/ie) | 26 | 996 | 2.6 | /mnt/stockage/packages/f29/mate-screensaver/po/ie.po | 
+ | [frp](/f29/language/frp) | 22 | 996 | 2.2 | /mnt/stockage/packages/f29/mate-screensaver/po/frp.po | 
+ | [bs](/f29/language/bs) | 18 | 996 | 1.8 | /mnt/stockage/packages/f29/mate-screensaver/po/bs.po | 
+ | [eo](/f29/language/eo) | 18 | 996 | 1.8 | /mnt/stockage/packages/f29/mate-screensaver/po/eo.po | 
+ | [es_CO](/f29/language/es_CO) | 17 | 996 | 1.7 | /mnt/stockage/packages/f29/mate-screensaver/po/es_CO.po | 
+ | [es_MX](/f29/language/es_MX) | 13 | 996 | 1.3 | /mnt/stockage/packages/f29/mate-screensaver/po/es_MX.po | 
+ | [fy](/f29/language/fy) | 13 | 996 | 1.3 | /mnt/stockage/packages/f29/mate-screensaver/po/fy.po | 
+ | [xh](/f29/language/xh) | 11 | 996 | 1.1 | /mnt/stockage/packages/f29/mate-screensaver/po/xh.po | 
+ | [az](/f29/language/az) | 8 | 996 | 0.8 | /mnt/stockage/packages/f29/mate-screensaver/po/az.po | 
+ | [wa](/f29/language/wa) | 7 | 996 | 0.7 | /mnt/stockage/packages/f29/mate-screensaver/po/wa.po | 
+ | [fur](/f29/language/fur) | 6 | 983 | 0.6 | /mnt/stockage/packages/f29/mate-screensaver/po/fur.po | 
+ | [ia](/f29/language/ia) | 3 | 983 | 0.3 | /mnt/stockage/packages/f29/mate-screensaver/po/ia.po | 
+ | [rw](/f29/language/rw) | 3 | 983 | 0.3 | /mnt/stockage/packages/f29/mate-screensaver/po/rw.po | 
+ | [zu](/f29/language/zu) | 3 | 983 | 0.3 | /mnt/stockage/packages/f29/mate-screensaver/po/zu.po | 
+ | [fr_CA](/f29/language/fr_CA) | 2 | 983 | 0.2 | /mnt/stockage/packages/f29/mate-screensaver/po/fr_CA.po | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-pippy]({{< ref "/f16/package/sugar-pippy.md" >}}) | 55 | 109 | 50.5 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f16/package/sugar-abacus.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f16/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f16/package/sugar-ruler.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f16/package/sugar-visualmatch.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f16/package/sugar-pippy) | 55 | 109 | 50.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f16/package/sugar-abacus) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f16/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f16/package/sugar-ruler) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f16/package/sugar-visualmatch) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

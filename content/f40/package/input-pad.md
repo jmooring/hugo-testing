@@ -18,15 +18,15 @@ The package input-pad (version 1.0.99.20210817):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 2270 | 2270 | 100.0 | /mnt/stockage/packages/f40/input-pad/po/uk.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1617 | 2270 | 71.2 | /mnt/stockage/packages/f40/input-pad/po/ca.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 948 | 2270 | 41.8 | /mnt/stockage/packages/f40/input-pad/po/ja.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 862 | 2270 | 38.0 | /mnt/stockage/packages/f40/input-pad/po/fr.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 423 | 2270 | 18.6 | /mnt/stockage/packages/f40/input-pad/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 196 | 2270 | 8.6 | /mnt/stockage/packages/f40/input-pad/po/zh_CN.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 104 | 2270 | 4.6 | /mnt/stockage/packages/f40/input-pad/po/eu.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 87 | 2270 | 3.8 | /mnt/stockage/packages/f40/input-pad/po/hu.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 34 | 2270 | 1.5 | /mnt/stockage/packages/f40/input-pad/po/pt_BR.po | 
+ | [uk](/f40/language/uk) | 2270 | 2270 | 100.0 | /mnt/stockage/packages/f40/input-pad/po/uk.po | 
+ | [ca](/f40/language/ca) | 1617 | 2270 | 71.2 | /mnt/stockage/packages/f40/input-pad/po/ca.po | 
+ | [ja](/f40/language/ja) | 948 | 2270 | 41.8 | /mnt/stockage/packages/f40/input-pad/po/ja.po | 
+ | [fr](/f40/language/fr) | 862 | 2270 | 38.0 | /mnt/stockage/packages/f40/input-pad/po/fr.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 423 | 2270 | 18.6 | /mnt/stockage/packages/f40/input-pad/po/zh_TW.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 196 | 2270 | 8.6 | /mnt/stockage/packages/f40/input-pad/po/zh_CN.po | 
+ | [eu](/f40/language/eu) | 104 | 2270 | 4.6 | /mnt/stockage/packages/f40/input-pad/po/eu.po | 
+ | [hu](/f40/language/hu) | 87 | 2270 | 3.8 | /mnt/stockage/packages/f40/input-pad/po/hu.po | 
+ | [pt_BR](/f40/language/pt_BR) | 34 | 2270 | 1.5 | /mnt/stockage/packages/f40/input-pad/po/pt_BR.po | 
 {.sortable}
 
 

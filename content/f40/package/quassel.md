@@ -18,41 +18,41 @@ The package quassel (version 0.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f40/language/it.md" >}}) | 7909 | 8362 | 94.6 | /mnt/stockage/packages/f40/quassel/po/it.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 5440 | 8362 | 65.1 | /mnt/stockage/packages/f40/quassel/po/de.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 5144 | 8362 | 61.5 | /mnt/stockage/packages/f40/quassel/po/fi.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 4988 | 8362 | 59.7 | /mnt/stockage/packages/f40/quassel/po/da.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 4876 | 8362 | 58.3 | /mnt/stockage/packages/f40/quassel/po/fr.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 4872 | 8362 | 58.3 | /mnt/stockage/packages/f40/quassel/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 4872 | 8362 | 58.3 | /mnt/stockage/packages/f40/quassel/po/uk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 4609 | 8362 | 55.1 | /mnt/stockage/packages/f40/quassel/po/sl.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 4604 | 8362 | 55.1 | /mnt/stockage/packages/f40/quassel/po/cs.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 4288 | 8362 | 51.3 | /mnt/stockage/packages/f40/quassel/po/nb.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4187 | 8362 | 50.1 | /mnt/stockage/packages/f40/quassel/po/es.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 4113 | 8362 | 49.2 | /mnt/stockage/packages/f40/quassel/po/pt.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 3991 | 8362 | 47.7 | /mnt/stockage/packages/f40/quassel/po/nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 3979 | 8362 | 47.6 | /mnt/stockage/packages/f40/quassel/po/pt_BR.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 3907 | 8362 | 46.7 | /mnt/stockage/packages/f40/quassel/po/en_GB.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 3891 | 8362 | 46.5 | /mnt/stockage/packages/f40/quassel/po/gl.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 3756 | 8362 | 44.9 | /mnt/stockage/packages/f40/quassel/po/zh_CN.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 3493 | 8362 | 41.8 | /mnt/stockage/packages/f40/quassel/po/el.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 3284 | 8362 | 39.3 | /mnt/stockage/packages/f40/quassel/po/ru.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 3153 | 8362 | 37.7 | /mnt/stockage/packages/f40/quassel/po/pl.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 2444 | 8362 | 29.2 | /mnt/stockage/packages/f40/quassel/po/hu.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 2278 | 8362 | 27.2 | /mnt/stockage/packages/f40/quassel/po/ko.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 2136 | 8362 | 25.5 | /mnt/stockage/packages/f40/quassel/po/ro.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 2044 | 8362 | 24.4 | /mnt/stockage/packages/f40/quassel/po/sv.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 1791 | 8362 | 21.4 | /mnt/stockage/packages/f40/quassel/po/lt.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 1473 | 8362 | 17.6 | /mnt/stockage/packages/f40/quassel/po/oc.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 1321 | 8362 | 15.8 | /mnt/stockage/packages/f40/quassel/po/pa.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 1202 | 8362 | 14.4 | /mnt/stockage/packages/f40/quassel/po/ja.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 859 | 8362 | 10.3 | /mnt/stockage/packages/f40/quassel/po/eo.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 627 | 8362 | 7.5 | /mnt/stockage/packages/f40/quassel/po/sq.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 86 | 8362 | 1.0 | /mnt/stockage/packages/f40/quassel/po/et.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 74 | 8362 | 0.9 | /mnt/stockage/packages/f40/quassel/po/en_US.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 74 | 8362 | 0.9 | /mnt/stockage/packages/f40/quassel/po/hi.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 31 | 8362 | 0.4 | /mnt/stockage/packages/f40/quassel/po/sr.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 17 | 8362 | 0.2 | /mnt/stockage/packages/f40/quassel/po/mr.po | 
+ | [it](/f40/language/it) | 7909 | 8362 | 94.6 | /mnt/stockage/packages/f40/quassel/po/it.po | 
+ | [de](/f40/language/de) | 5440 | 8362 | 65.1 | /mnt/stockage/packages/f40/quassel/po/de.po | 
+ | [fi](/f40/language/fi) | 5144 | 8362 | 61.5 | /mnt/stockage/packages/f40/quassel/po/fi.po | 
+ | [da](/f40/language/da) | 4988 | 8362 | 59.7 | /mnt/stockage/packages/f40/quassel/po/da.po | 
+ | [fr](/f40/language/fr) | 4876 | 8362 | 58.3 | /mnt/stockage/packages/f40/quassel/po/fr.po | 
+ | [tr](/f40/language/tr) | 4872 | 8362 | 58.3 | /mnt/stockage/packages/f40/quassel/po/tr.po | 
+ | [uk](/f40/language/uk) | 4872 | 8362 | 58.3 | /mnt/stockage/packages/f40/quassel/po/uk.po | 
+ | [sl](/f40/language/sl) | 4609 | 8362 | 55.1 | /mnt/stockage/packages/f40/quassel/po/sl.po | 
+ | [cs](/f40/language/cs) | 4604 | 8362 | 55.1 | /mnt/stockage/packages/f40/quassel/po/cs.po | 
+ | [nb_NO](/f40/language/nb_NO) | 4288 | 8362 | 51.3 | /mnt/stockage/packages/f40/quassel/po/nb.po | 
+ | [es](/f40/language/es) | 4187 | 8362 | 50.1 | /mnt/stockage/packages/f40/quassel/po/es.po | 
+ | [pt](/f40/language/pt) | 4113 | 8362 | 49.2 | /mnt/stockage/packages/f40/quassel/po/pt.po | 
+ | [nl](/f40/language/nl) | 3991 | 8362 | 47.7 | /mnt/stockage/packages/f40/quassel/po/nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 3979 | 8362 | 47.6 | /mnt/stockage/packages/f40/quassel/po/pt_BR.po | 
+ | [en_GB](/f40/language/en_GB) | 3907 | 8362 | 46.7 | /mnt/stockage/packages/f40/quassel/po/en_GB.po | 
+ | [gl](/f40/language/gl) | 3891 | 8362 | 46.5 | /mnt/stockage/packages/f40/quassel/po/gl.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 3756 | 8362 | 44.9 | /mnt/stockage/packages/f40/quassel/po/zh_CN.po | 
+ | [el](/f40/language/el) | 3493 | 8362 | 41.8 | /mnt/stockage/packages/f40/quassel/po/el.po | 
+ | [ru](/f40/language/ru) | 3284 | 8362 | 39.3 | /mnt/stockage/packages/f40/quassel/po/ru.po | 
+ | [pl](/f40/language/pl) | 3153 | 8362 | 37.7 | /mnt/stockage/packages/f40/quassel/po/pl.po | 
+ | [hu](/f40/language/hu) | 2444 | 8362 | 29.2 | /mnt/stockage/packages/f40/quassel/po/hu.po | 
+ | [ko](/f40/language/ko) | 2278 | 8362 | 27.2 | /mnt/stockage/packages/f40/quassel/po/ko.po | 
+ | [ro](/f40/language/ro) | 2136 | 8362 | 25.5 | /mnt/stockage/packages/f40/quassel/po/ro.po | 
+ | [sv](/f40/language/sv) | 2044 | 8362 | 24.4 | /mnt/stockage/packages/f40/quassel/po/sv.po | 
+ | [lt](/f40/language/lt) | 1791 | 8362 | 21.4 | /mnt/stockage/packages/f40/quassel/po/lt.po | 
+ | [oc](/f40/language/oc) | 1473 | 8362 | 17.6 | /mnt/stockage/packages/f40/quassel/po/oc.po | 
+ | [pa](/f40/language/pa) | 1321 | 8362 | 15.8 | /mnt/stockage/packages/f40/quassel/po/pa.po | 
+ | [ja](/f40/language/ja) | 1202 | 8362 | 14.4 | /mnt/stockage/packages/f40/quassel/po/ja.po | 
+ | [eo](/f40/language/eo) | 859 | 8362 | 10.3 | /mnt/stockage/packages/f40/quassel/po/eo.po | 
+ | [sq](/f40/language/sq) | 627 | 8362 | 7.5 | /mnt/stockage/packages/f40/quassel/po/sq.po | 
+ | [et](/f40/language/et) | 86 | 8362 | 1.0 | /mnt/stockage/packages/f40/quassel/po/et.po | 
+ | [en_US](/f40/language/en_US) | 74 | 8362 | 0.9 | /mnt/stockage/packages/f40/quassel/po/en_US.po | 
+ | [hi](/f40/language/hi) | 74 | 8362 | 0.9 | /mnt/stockage/packages/f40/quassel/po/hi.po | 
+ | [sr](/f40/language/sr) | 31 | 8362 | 0.4 | /mnt/stockage/packages/f40/quassel/po/sr.po | 
+ | [mr](/f40/language/mr) | 17 | 8362 | 0.2 | /mnt/stockage/packages/f40/quassel/po/mr.po | 
 {.sortable}
 
 

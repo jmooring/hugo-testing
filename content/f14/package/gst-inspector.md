@@ -18,7 +18,7 @@ The package gst-inspector (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/gst-inspector/po/de.po | 
+ | [de](/f14/language/de) | 142 | 142 | 100.0 | /mnt/stockage/packages/f14/gst-inspector/po/de.po | 
 {.sortable}
 
 

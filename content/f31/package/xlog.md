@@ -18,16 +18,16 @@ The package xlog (version 2.0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1441 | 1465 | 98.4 | /mnt/stockage/packages/f31/xlog/po/nl.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1435 | 1465 | 98.0 | /mnt/stockage/packages/f31/xlog/po/sv.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1359 | 1465 | 92.8 | /mnt/stockage/packages/f31/xlog/po/fr.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/es.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/it.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/pt.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/sk.po | 
+ | [nl](/f31/language/nl) | 1441 | 1465 | 98.4 | /mnt/stockage/packages/f31/xlog/po/nl.po | 
+ | [sv](/f31/language/sv) | 1435 | 1465 | 98.0 | /mnt/stockage/packages/f31/xlog/po/sv.po | 
+ | [fr](/f31/language/fr) | 1359 | 1465 | 92.8 | /mnt/stockage/packages/f31/xlog/po/fr.po | 
+ | [cs](/f31/language/cs) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/cs.po | 
+ | [de](/f31/language/de) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/de.po | 
+ | [es](/f31/language/es) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/es.po | 
+ | [it](/f31/language/it) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/it.po | 
+ | [pl](/f31/language/pl) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/pl.po | 
+ | [pt](/f31/language/pt) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/pt.po | 
+ | [sk](/f31/language/sk) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f31/xlog/po/sk.po | 
 {.sortable}
 
 

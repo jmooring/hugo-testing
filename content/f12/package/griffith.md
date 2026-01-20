@@ -18,39 +18,39 @@ The package griffith (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1852 | 1876 | 98.7 | /mnt/stockage/packages/f12/griffith/po/pl.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1812 | 1876 | 96.6 | /mnt/stockage/packages/f12/griffith/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1812 | 1876 | 96.6 | /mnt/stockage/packages/f12/griffith/po/es.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1812 | 1876 | 96.6 | /mnt/stockage/packages/f12/griffith/po/ru.po | 
- | [nds]({{< ref "/f12/language/nds.md" >}}) | 1786 | 1876 | 95.2 | /mnt/stockage/packages/f12/griffith/po/nds.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1786 | 1876 | 95.2 | /mnt/stockage/packages/f12/griffith/po/pt_BR.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 1779 | 1876 | 94.8 | /mnt/stockage/packages/f12/griffith/po/pt.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 1775 | 1876 | 94.6 | /mnt/stockage/packages/f12/griffith/po/en_GB.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1762 | 1876 | 93.9 | /mnt/stockage/packages/f12/griffith/po/cs.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1759 | 1876 | 93.8 | /mnt/stockage/packages/f12/griffith/po/it.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1742 | 1876 | 92.9 | /mnt/stockage/packages/f12/griffith/po/sv.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1679 | 1876 | 89.5 | /mnt/stockage/packages/f12/griffith/po/fr.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 1671 | 1876 | 89.1 | /mnt/stockage/packages/f12/griffith/po/da.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 1671 | 1876 | 89.1 | /mnt/stockage/packages/f12/griffith/po/tr.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 1666 | 1876 | 88.8 | /mnt/stockage/packages/f12/griffith/po/el.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1665 | 1876 | 88.8 | /mnt/stockage/packages/f12/griffith/po/nl.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 1639 | 1876 | 87.4 | /mnt/stockage/packages/f12/griffith/po/nb.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 1625 | 1876 | 86.6 | /mnt/stockage/packages/f12/griffith/po/sr.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 1207 | 1876 | 64.3 | /mnt/stockage/packages/f12/griffith/po/ko.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 914 | 1876 | 48.7 | /mnt/stockage/packages/f12/griffith/po/zh_CN.po | 
- | [ps]({{< ref "/f12/language/ps.md" >}}) | 769 | 1876 | 41.0 | /mnt/stockage/packages/f12/griffith/po/ps.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 755 | 1876 | 40.2 | /mnt/stockage/packages/f12/griffith/po/bg.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 691 | 1876 | 36.8 | /mnt/stockage/packages/f12/griffith/po/id.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 590 | 1876 | 31.4 | /mnt/stockage/packages/f12/griffith/po/uk.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 315 | 1876 | 16.8 | /mnt/stockage/packages/f12/griffith/po/ca.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 301 | 1876 | 16.0 | /mnt/stockage/packages/f12/griffith/po/sk.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 169 | 1876 | 9.0 | /mnt/stockage/packages/f12/griffith/po/lv.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 160 | 1876 | 8.5 | /mnt/stockage/packages/f12/griffith/po/et.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 115 | 1876 | 6.1 | /mnt/stockage/packages/f12/griffith/po/hu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 110 | 1876 | 5.9 | /mnt/stockage/packages/f12/griffith/po/fi.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 98 | 1876 | 5.2 | /mnt/stockage/packages/f12/griffith/po/oc.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 46 | 1876 | 2.5 | /mnt/stockage/packages/f12/griffith/po/ja.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 34 | 1876 | 1.8 | /mnt/stockage/packages/f12/griffith/po/fa.po | 
+ | [pl](/f12/language/pl) | 1852 | 1876 | 98.7 | /mnt/stockage/packages/f12/griffith/po/pl.po | 
+ | [de](/f12/language/de) | 1812 | 1876 | 96.6 | /mnt/stockage/packages/f12/griffith/po/de.po | 
+ | [es](/f12/language/es) | 1812 | 1876 | 96.6 | /mnt/stockage/packages/f12/griffith/po/es.po | 
+ | [ru](/f12/language/ru) | 1812 | 1876 | 96.6 | /mnt/stockage/packages/f12/griffith/po/ru.po | 
+ | [nds](/f12/language/nds) | 1786 | 1876 | 95.2 | /mnt/stockage/packages/f12/griffith/po/nds.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1786 | 1876 | 95.2 | /mnt/stockage/packages/f12/griffith/po/pt_BR.po | 
+ | [pt](/f12/language/pt) | 1779 | 1876 | 94.8 | /mnt/stockage/packages/f12/griffith/po/pt.po | 
+ | [en_GB](/f12/language/en_GB) | 1775 | 1876 | 94.6 | /mnt/stockage/packages/f12/griffith/po/en_GB.po | 
+ | [cs](/f12/language/cs) | 1762 | 1876 | 93.9 | /mnt/stockage/packages/f12/griffith/po/cs.po | 
+ | [it](/f12/language/it) | 1759 | 1876 | 93.8 | /mnt/stockage/packages/f12/griffith/po/it.po | 
+ | [sv](/f12/language/sv) | 1742 | 1876 | 92.9 | /mnt/stockage/packages/f12/griffith/po/sv.po | 
+ | [fr](/f12/language/fr) | 1679 | 1876 | 89.5 | /mnt/stockage/packages/f12/griffith/po/fr.po | 
+ | [da](/f12/language/da) | 1671 | 1876 | 89.1 | /mnt/stockage/packages/f12/griffith/po/da.po | 
+ | [tr](/f12/language/tr) | 1671 | 1876 | 89.1 | /mnt/stockage/packages/f12/griffith/po/tr.po | 
+ | [el](/f12/language/el) | 1666 | 1876 | 88.8 | /mnt/stockage/packages/f12/griffith/po/el.po | 
+ | [nl](/f12/language/nl) | 1665 | 1876 | 88.8 | /mnt/stockage/packages/f12/griffith/po/nl.po | 
+ | [nb_NO](/f12/language/nb_NO) | 1639 | 1876 | 87.4 | /mnt/stockage/packages/f12/griffith/po/nb.po | 
+ | [sr](/f12/language/sr) | 1625 | 1876 | 86.6 | /mnt/stockage/packages/f12/griffith/po/sr.po | 
+ | [ko](/f12/language/ko) | 1207 | 1876 | 64.3 | /mnt/stockage/packages/f12/griffith/po/ko.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 914 | 1876 | 48.7 | /mnt/stockage/packages/f12/griffith/po/zh_CN.po | 
+ | [ps](/f12/language/ps) | 769 | 1876 | 41.0 | /mnt/stockage/packages/f12/griffith/po/ps.po | 
+ | [bg](/f12/language/bg) | 755 | 1876 | 40.2 | /mnt/stockage/packages/f12/griffith/po/bg.po | 
+ | [id](/f12/language/id) | 691 | 1876 | 36.8 | /mnt/stockage/packages/f12/griffith/po/id.po | 
+ | [uk](/f12/language/uk) | 590 | 1876 | 31.4 | /mnt/stockage/packages/f12/griffith/po/uk.po | 
+ | [ca](/f12/language/ca) | 315 | 1876 | 16.8 | /mnt/stockage/packages/f12/griffith/po/ca.po | 
+ | [sk](/f12/language/sk) | 301 | 1876 | 16.0 | /mnt/stockage/packages/f12/griffith/po/sk.po | 
+ | [lv](/f12/language/lv) | 169 | 1876 | 9.0 | /mnt/stockage/packages/f12/griffith/po/lv.po | 
+ | [et](/f12/language/et) | 160 | 1876 | 8.5 | /mnt/stockage/packages/f12/griffith/po/et.po | 
+ | [hu](/f12/language/hu) | 115 | 1876 | 6.1 | /mnt/stockage/packages/f12/griffith/po/hu.po | 
+ | [fi](/f12/language/fi) | 110 | 1876 | 5.9 | /mnt/stockage/packages/f12/griffith/po/fi.po | 
+ | [oc](/f12/language/oc) | 98 | 1876 | 5.2 | /mnt/stockage/packages/f12/griffith/po/oc.po | 
+ | [ja](/f12/language/ja) | 46 | 1876 | 2.5 | /mnt/stockage/packages/f12/griffith/po/ja.po | 
+ | [fa](/f12/language/fa) | 34 | 1876 | 1.8 | /mnt/stockage/packages/f12/griffith/po/fa.po | 
 {.sortable}
 
 

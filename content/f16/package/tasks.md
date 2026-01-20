@@ -18,42 +18,42 @@ The package tasks (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ast.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f16/tasks/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f16/tasks/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ko.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f16/tasks/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ro.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/sv.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 301 | 314 | 95.9 | /mnt/stockage/packages/f16/tasks/po/nb.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 298 | 314 | 94.9 | /mnt/stockage/packages/f16/tasks/po/eu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 156 | 300 | 52.0 | /mnt/stockage/packages/f16/tasks/po/id.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 54 | 301 | 17.9 | /mnt/stockage/packages/f16/tasks/po/ru.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 30 | 301 | 10.0 | /mnt/stockage/packages/f16/tasks/po/bg.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 30 | 301 | 10.0 | /mnt/stockage/packages/f16/tasks/po/ca@valencia.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 30 | 301 | 10.0 | /mnt/stockage/packages/f16/tasks/po/cy.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/el.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/et.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/nl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/pt.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/sk.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/tr.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/vi.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 23 | 301 | 7.6 | /mnt/stockage/packages/f16/tasks/po/th.po | 
+ | [ast](/f16/language/ast) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ast.po | 
+ | [ca](/f16/language/ca) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ca.po | 
+ | [cs](/f16/language/cs) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/cs.po | 
+ | [da](/f16/language/da) | 300 | 300 | 100.0 | /mnt/stockage/packages/f16/tasks/po/da.po | 
+ | [de](/f16/language/de) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/de.po | 
+ | [es](/f16/language/es) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/es.po | 
+ | [fi](/f16/language/fi) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/fi.po | 
+ | [fr](/f16/language/fr) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/fr.po | 
+ | [gl](/f16/language/gl) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/gl.po | 
+ | [hu](/f16/language/hu) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/hu.po | 
+ | [it](/f16/language/it) | 300 | 300 | 100.0 | /mnt/stockage/packages/f16/tasks/po/it.po | 
+ | [ja](/f16/language/ja) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ja.po | 
+ | [ko](/f16/language/ko) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ko.po | 
+ | [pa](/f16/language/pa) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/pa.po | 
+ | [pl](/f16/language/pl) | 300 | 300 | 100.0 | /mnt/stockage/packages/f16/tasks/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/ro.po | 
+ | [sl](/f16/language/sl) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/sl.po | 
+ | [sv](/f16/language/sv) | 314 | 314 | 100.0 | /mnt/stockage/packages/f16/tasks/po/sv.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 301 | 301 | 100.0 | /mnt/stockage/packages/f16/tasks/po/zh_TW.po | 
+ | [nb_NO](/f16/language/nb_NO) | 301 | 314 | 95.9 | /mnt/stockage/packages/f16/tasks/po/nb.po | 
+ | [eu](/f16/language/eu) | 298 | 314 | 94.9 | /mnt/stockage/packages/f16/tasks/po/eu.po | 
+ | [id](/f16/language/id) | 156 | 300 | 52.0 | /mnt/stockage/packages/f16/tasks/po/id.po | 
+ | [ru](/f16/language/ru) | 54 | 301 | 17.9 | /mnt/stockage/packages/f16/tasks/po/ru.po | 
+ | [bg](/f16/language/bg) | 30 | 301 | 10.0 | /mnt/stockage/packages/f16/tasks/po/bg.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 30 | 301 | 10.0 | /mnt/stockage/packages/f16/tasks/po/ca@valencia.po | 
+ | [cy](/f16/language/cy) | 30 | 301 | 10.0 | /mnt/stockage/packages/f16/tasks/po/cy.po | 
+ | [el](/f16/language/el) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/el.po | 
+ | [et](/f16/language/et) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/et.po | 
+ | [nl](/f16/language/nl) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/nl.po | 
+ | [pt](/f16/language/pt) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/pt.po | 
+ | [sk](/f16/language/sk) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/sk.po | 
+ | [tr](/f16/language/tr) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/tr.po | 
+ | [vi](/f16/language/vi) | 26 | 301 | 8.6 | /mnt/stockage/packages/f16/tasks/po/vi.po | 
+ | [th](/f16/language/th) | 23 | 301 | 7.6 | /mnt/stockage/packages/f16/tasks/po/th.po | 
 {.sortable}
 
 

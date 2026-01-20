@@ -18,12 +18,12 @@ The package tint2 (version 0.12.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 4119 | 4119 | 100.0 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/fr.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 4119 | 4119 | 100.0 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/ru.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 3204 | 4119 | 77.8 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/pl.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 3128 | 4119 | 75.9 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/hr.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 3128 | 4119 | 75.9 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/sr.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 3116 | 4119 | 75.6 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/bs.po | 
+ | [fr](/f23/language/fr) | 4119 | 4119 | 100.0 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/fr.po | 
+ | [ru](/f23/language/ru) | 4119 | 4119 | 100.0 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/ru.po | 
+ | [pl](/f23/language/pl) | 3204 | 4119 | 77.8 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/pl.po | 
+ | [hr](/f23/language/hr) | 3128 | 4119 | 75.9 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/hr.po | 
+ | [sr](/f23/language/sr) | 3128 | 4119 | 75.9 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/sr.po | 
+ | [bs](/f23/language/bs) | 3116 | 4119 | 75.6 | /mnt/stockage/packages/f23/tint2/src/tint2conf/po/bs.po | 
 {.sortable}
 
 

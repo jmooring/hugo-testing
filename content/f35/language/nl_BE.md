@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [picard]({{< ref "/f35/package/picard.md" >}}) | 386 | 386 | 100.0 | Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
- | [clamtk]({{< ref "/f35/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [gtkhash]({{< ref "/f35/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
- | [siril]({{< ref "/f35/package/siril.md" >}}) | 12220 | 18684 | 65.4 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
- | [dino]({{< ref "/f35/package/dino.md" >}}) | 575 | 979 | 58.7 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
- | [lollypop]({{< ref "/f35/package/lollypop.md" >}}) | 609 | 1437 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f35/package/gnome-shell-extension-gsconnect.md" >}}) | 330 | 790 | 41.8 | Dutch <vistausss@outlook.com> | 
- | [bubblemail]({{< ref "/f35/package/bubblemail.md" >}}) | 0 | 478 | 0.0 | none | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f35/package/gnome-shell-extension-bubblemail.md" >}}) | 0 | 98 | 0.0 | none | 
- | [mc]({{< ref "/f35/package/mc.md" >}}) | 0 | 4350 | 0.0 | Dutch (Belgium) (http://www.transifex.com/mc/mc/language/nl_BE/) | 
+ | [picard](/f35/package/picard) | 386 | 386 | 100.0 | Dutch (Belgium) (http://www.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
+ | [clamtk](/f35/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [gtkhash](/f35/package/gtkhash) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
+ | [siril](/f35/package/siril) | 12220 | 18684 | 65.4 | Dutch <antoine.hoeffelman[-at-]gmail.com> | 
+ | [dino](/f35/package/dino) | 575 | 979 | 58.7 | Flemish <https://hosted.weblate.org/projects/dino/translations/nl_BE/> | 
+ | [lollypop](/f35/package/lollypop) | 609 | 1437 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
+ | [gnome-shell-extension-gsconnect](/f35/package/gnome-shell-extension-gsconnect) | 330 | 790 | 41.8 | Dutch <vistausss@outlook.com> | 
+ | [bubblemail](/f35/package/bubblemail) | 0 | 478 | 0.0 | none | 
+ | [gnome-shell-extension-bubblemail](/f35/package/gnome-shell-extension-bubblemail) | 0 | 98 | 0.0 | none | 
+ | [mc](/f35/package/mc) | 0 | 4350 | 0.0 | Dutch (Belgium) (http://www.transifex.com/mc/mc/language/nl_BE/) | 
 {.sortable}
 
 

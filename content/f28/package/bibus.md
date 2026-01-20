@@ -18,16 +18,16 @@ The package bibus (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 1319 | 1319 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/cs/LC_MESSAGES/bibus.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/de/LC_MESSAGES/bibus.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2284 | 2284 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/fr/LC_MESSAGES/bibus.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/hu/LC_MESSAGES/bibus.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2063 | 2063 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/sl/LC_MESSAGES/bibus.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1884 | 2093 | 90.0 | /mnt/stockage/packages/f28/bibus/locale/ru/LC_MESSAGES/bibus.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2434 | 3202 | 76.0 | /mnt/stockage/packages/f28/bibus/locale/cn/LC_MESSAGES/bibus.po/mnt/stockage/packages/f28/bibus/locale/zh_cn/LC_MESSAGES/bibus.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 1117 | 1883 | 59.3 | /mnt/stockage/packages/f28/bibus/locale/es/LC_MESSAGES/bibus.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 856 | 1883 | 45.5 | /mnt/stockage/packages/f28/bibus/locale/pt_BR/LC_MESSAGES/bibus.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 603 | 1883 | 32.0 | /mnt/stockage/packages/f28/bibus/locale/pt/LC_MESSAGES/bibus.po | 
+ | [cs](/f28/language/cs) | 1319 | 1319 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/cs/LC_MESSAGES/bibus.po | 
+ | [de](/f28/language/de) | 2273 | 2273 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/de/LC_MESSAGES/bibus.po | 
+ | [fr](/f28/language/fr) | 2284 | 2284 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/fr/LC_MESSAGES/bibus.po | 
+ | [hu](/f28/language/hu) | 1883 | 1883 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/hu/LC_MESSAGES/bibus.po | 
+ | [sl](/f28/language/sl) | 2063 | 2063 | 100.0 | /mnt/stockage/packages/f28/bibus/locale/sl/LC_MESSAGES/bibus.po | 
+ | [ru](/f28/language/ru) | 1884 | 2093 | 90.0 | /mnt/stockage/packages/f28/bibus/locale/ru/LC_MESSAGES/bibus.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2434 | 3202 | 76.0 | /mnt/stockage/packages/f28/bibus/locale/cn/LC_MESSAGES/bibus.po/mnt/stockage/packages/f28/bibus/locale/zh_cn/LC_MESSAGES/bibus.po | 
+ | [es](/f28/language/es) | 1117 | 1883 | 59.3 | /mnt/stockage/packages/f28/bibus/locale/es/LC_MESSAGES/bibus.po | 
+ | [pt_BR](/f28/language/pt_BR) | 856 | 1883 | 45.5 | /mnt/stockage/packages/f28/bibus/locale/pt_BR/LC_MESSAGES/bibus.po | 
+ | [pt](/f28/language/pt) | 603 | 1883 | 32.0 | /mnt/stockage/packages/f28/bibus/locale/pt/LC_MESSAGES/bibus.po | 
 {.sortable}
 
 

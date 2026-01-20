@@ -18,21 +18,21 @@ The package e2fsprogs (version 1.42.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 8402 | 8402 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/de.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/fr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/pl.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/vi.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 7529 | 8402 | 89.6 | /mnt/stockage/packages/f21/e2fsprogs/po/es.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 5260 | 8402 | 62.6 | /mnt/stockage/packages/f21/e2fsprogs/po/eo.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 5225 | 8402 | 62.2 | /mnt/stockage/packages/f21/e2fsprogs/po/id.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 3889 | 8402 | 46.3 | /mnt/stockage/packages/f21/e2fsprogs/po/tr.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 3750 | 8402 | 44.6 | /mnt/stockage/packages/f21/e2fsprogs/po/ca.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 3214 | 8402 | 38.3 | /mnt/stockage/packages/f21/e2fsprogs/po/it.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1224 | 8402 | 14.6 | /mnt/stockage/packages/f21/e2fsprogs/po/zh_CN.po | 
+ | [cs](/f21/language/cs) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/cs.po | 
+ | [de](/f21/language/de) | 8402 | 8402 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/de.po | 
+ | [fr](/f21/language/fr) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/fr.po | 
+ | [nl](/f21/language/nl) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/nl.po | 
+ | [pl](/f21/language/pl) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/pl.po | 
+ | [sv](/f21/language/sv) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/sv.po | 
+ | [uk](/f21/language/uk) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/uk.po | 
+ | [vi](/f21/language/vi) | 8477 | 8477 | 100.0 | /mnt/stockage/packages/f21/e2fsprogs/po/vi.po | 
+ | [es](/f21/language/es) | 7529 | 8402 | 89.6 | /mnt/stockage/packages/f21/e2fsprogs/po/es.po | 
+ | [eo](/f21/language/eo) | 5260 | 8402 | 62.6 | /mnt/stockage/packages/f21/e2fsprogs/po/eo.po | 
+ | [id](/f21/language/id) | 5225 | 8402 | 62.2 | /mnt/stockage/packages/f21/e2fsprogs/po/id.po | 
+ | [tr](/f21/language/tr) | 3889 | 8402 | 46.3 | /mnt/stockage/packages/f21/e2fsprogs/po/tr.po | 
+ | [ca](/f21/language/ca) | 3750 | 8402 | 44.6 | /mnt/stockage/packages/f21/e2fsprogs/po/ca.po | 
+ | [it](/f21/language/it) | 3214 | 8402 | 38.3 | /mnt/stockage/packages/f21/e2fsprogs/po/it.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1224 | 8402 | 14.6 | /mnt/stockage/packages/f21/e2fsprogs/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package clawsker (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 851 | 851 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/fr.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/it.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 656 | 656 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 656 | 656 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/sr@latin.po | 
+ | [es](/f14/language/es) | 851 | 851 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/es.po | 
+ | [fr](/f14/language/fr) | 840 | 840 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/fr.po | 
+ | [id](/f14/language/id) | 840 | 840 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/id.po | 
+ | [it](/f14/language/it) | 840 | 840 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/it.po | 
+ | [sr](/f14/language/sr) | 656 | 656 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 656 | 656 | 100.0 | /mnt/stockage/packages/f14/clawsker/po/sr@latin.po | 
 {.sortable}
 
 

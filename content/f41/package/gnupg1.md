@@ -18,36 +18,36 @@ The package gnupg1 (version 1.4.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/de.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 17280 | 17280 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/en@boldquot.po/mnt/stockage/packages/f41/gnupg1/po/en@quot.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/es.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/ja.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/nl.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/ru.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 8613 | 8640 | 99.7 | /mnt/stockage/packages/f41/gnupg1/po/it.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 8613 | 8640 | 99.7 | /mnt/stockage/packages/f41/gnupg1/po/pl.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 8613 | 8640 | 99.7 | /mnt/stockage/packages/f41/gnupg1/po/uk.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 8598 | 8640 | 99.5 | /mnt/stockage/packages/f41/gnupg1/po/da.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 8595 | 8640 | 99.5 | /mnt/stockage/packages/f41/gnupg1/po/fr.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 8595 | 8640 | 99.5 | /mnt/stockage/packages/f41/gnupg1/po/zh_TW.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 8592 | 8640 | 99.4 | /mnt/stockage/packages/f41/gnupg1/po/cs.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 8567 | 8640 | 99.2 | /mnt/stockage/packages/f41/gnupg1/po/ro.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 8318 | 8640 | 96.3 | /mnt/stockage/packages/f41/gnupg1/po/sv.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 8296 | 8640 | 96.0 | /mnt/stockage/packages/f41/gnupg1/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 7599 | 8640 | 88.0 | /mnt/stockage/packages/f41/gnupg1/po/nb.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 7582 | 8640 | 87.8 | /mnt/stockage/packages/f41/gnupg1/po/tr.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/el.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/et.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/fi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/id.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 4435 | 8640 | 51.3 | /mnt/stockage/packages/f41/gnupg1/po/ca.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 4435 | 8640 | 51.3 | /mnt/stockage/packages/f41/gnupg1/po/sk.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 4406 | 8640 | 51.0 | /mnt/stockage/packages/f41/gnupg1/po/gl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 3904 | 8640 | 45.2 | /mnt/stockage/packages/f41/gnupg1/po/pt.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 3340 | 8640 | 38.7 | /mnt/stockage/packages/f41/gnupg1/po/eo.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 2167 | 8640 | 25.1 | /mnt/stockage/packages/f41/gnupg1/po/pt_BR.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 451 | 8640 | 5.2 | /mnt/stockage/packages/f41/gnupg1/po/be.po | 
+ | [de](/f41/language/de) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/de.po | 
+ | [error](/f41/language/error) | 17280 | 17280 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/en@boldquot.po/mnt/stockage/packages/f41/gnupg1/po/en@quot.po | 
+ | [es](/f41/language/es) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/es.po | 
+ | [ja](/f41/language/ja) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/ja.po | 
+ | [nl](/f41/language/nl) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/nl.po | 
+ | [ru](/f41/language/ru) | 8640 | 8640 | 100.0 | /mnt/stockage/packages/f41/gnupg1/po/ru.po | 
+ | [it](/f41/language/it) | 8613 | 8640 | 99.7 | /mnt/stockage/packages/f41/gnupg1/po/it.po | 
+ | [pl](/f41/language/pl) | 8613 | 8640 | 99.7 | /mnt/stockage/packages/f41/gnupg1/po/pl.po | 
+ | [uk](/f41/language/uk) | 8613 | 8640 | 99.7 | /mnt/stockage/packages/f41/gnupg1/po/uk.po | 
+ | [da](/f41/language/da) | 8598 | 8640 | 99.5 | /mnt/stockage/packages/f41/gnupg1/po/da.po | 
+ | [fr](/f41/language/fr) | 8595 | 8640 | 99.5 | /mnt/stockage/packages/f41/gnupg1/po/fr.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 8595 | 8640 | 99.5 | /mnt/stockage/packages/f41/gnupg1/po/zh_TW.po | 
+ | [cs](/f41/language/cs) | 8592 | 8640 | 99.4 | /mnt/stockage/packages/f41/gnupg1/po/cs.po | 
+ | [ro](/f41/language/ro) | 8567 | 8640 | 99.2 | /mnt/stockage/packages/f41/gnupg1/po/ro.po | 
+ | [sv](/f41/language/sv) | 8318 | 8640 | 96.3 | /mnt/stockage/packages/f41/gnupg1/po/sv.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 8296 | 8640 | 96.0 | /mnt/stockage/packages/f41/gnupg1/po/zh_CN.po | 
+ | [nb_NO](/f41/language/nb_NO) | 7599 | 8640 | 88.0 | /mnt/stockage/packages/f41/gnupg1/po/nb.po | 
+ | [tr](/f41/language/tr) | 7582 | 8640 | 87.8 | /mnt/stockage/packages/f41/gnupg1/po/tr.po | 
+ | [el](/f41/language/el) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/el.po | 
+ | [et](/f41/language/et) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/et.po | 
+ | [fi](/f41/language/fi) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/fi.po | 
+ | [hu](/f41/language/hu) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/hu.po | 
+ | [id](/f41/language/id) | 4440 | 8640 | 51.4 | /mnt/stockage/packages/f41/gnupg1/po/id.po | 
+ | [ca](/f41/language/ca) | 4435 | 8640 | 51.3 | /mnt/stockage/packages/f41/gnupg1/po/ca.po | 
+ | [sk](/f41/language/sk) | 4435 | 8640 | 51.3 | /mnt/stockage/packages/f41/gnupg1/po/sk.po | 
+ | [gl](/f41/language/gl) | 4406 | 8640 | 51.0 | /mnt/stockage/packages/f41/gnupg1/po/gl.po | 
+ | [pt](/f41/language/pt) | 3904 | 8640 | 45.2 | /mnt/stockage/packages/f41/gnupg1/po/pt.po | 
+ | [eo](/f41/language/eo) | 3340 | 8640 | 38.7 | /mnt/stockage/packages/f41/gnupg1/po/eo.po | 
+ | [pt_BR](/f41/language/pt_BR) | 2167 | 8640 | 25.1 | /mnt/stockage/packages/f41/gnupg1/po/pt_BR.po | 
+ | [be](/f41/language/be) | 451 | 8640 | 5.2 | /mnt/stockage/packages/f41/gnupg1/po/be.po | 
 {.sortable}
 
 

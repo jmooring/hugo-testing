@@ -18,9 +18,9 @@ The package nut (version 2.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 420 | 420 | 100.0 | /mnt/stockage/packages/f38/nut/scripts/python/app/locale/ru/ru.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 301 | 420 | 71.7 | /mnt/stockage/packages/f38/nut/scripts/python/app/locale/fr/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 299 | 420 | 71.2 | /mnt/stockage/packages/f38/nut/scripts/python/app/locale/it/it.po | 
+ | [ru](/f38/language/ru) | 420 | 420 | 100.0 | /mnt/stockage/packages/f38/nut/scripts/python/app/locale/ru/ru.po | 
+ | [fr](/f38/language/fr) | 301 | 420 | 71.7 | /mnt/stockage/packages/f38/nut/scripts/python/app/locale/fr/fr.po | 
+ | [it](/f38/language/it) | 299 | 420 | 71.2 | /mnt/stockage/packages/f38/nut/scripts/python/app/locale/it/it.po | 
 {.sortable}
 
 

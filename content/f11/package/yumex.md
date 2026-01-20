@@ -18,18 +18,18 @@ The package yumex (version 2.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/es.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/pl.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/zh_CN.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 445 | 608 | 73.2 | /mnt/stockage/packages/f11/yumex/po/da.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 421 | 608 | 69.2 | /mnt/stockage/packages/f11/yumex/po/ja.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 314 | 608 | 51.6 | /mnt/stockage/packages/f11/yumex/po/ar.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 523 | 1216 | 43.0 | /mnt/stockage/packages/f11/yumex/po/it_IT.po/mnt/stockage/packages/f11/yumex/po/it.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 200 | 608 | 32.9 | /mnt/stockage/packages/f11/yumex/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 200 | 608 | 32.9 | /mnt/stockage/packages/f11/yumex/po/sr@latin.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 10 | 608 | 1.6 | /mnt/stockage/packages/f11/yumex/po/ru.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 0 | 608 | 0.0 | /mnt/stockage/packages/f11/yumex/po/fr.po | 
+ | [es](/f11/language/es) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/es.po | 
+ | [nl](/f11/language/nl) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/nl.po | 
+ | [pl](/f11/language/pl) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/pl.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 566 | 608 | 93.1 | /mnt/stockage/packages/f11/yumex/po/zh_CN.po | 
+ | [da](/f11/language/da) | 445 | 608 | 73.2 | /mnt/stockage/packages/f11/yumex/po/da.po | 
+ | [ja](/f11/language/ja) | 421 | 608 | 69.2 | /mnt/stockage/packages/f11/yumex/po/ja.po | 
+ | [ar](/f11/language/ar) | 314 | 608 | 51.6 | /mnt/stockage/packages/f11/yumex/po/ar.po | 
+ | [it](/f11/language/it) | 523 | 1216 | 43.0 | /mnt/stockage/packages/f11/yumex/po/it_IT.po/mnt/stockage/packages/f11/yumex/po/it.po | 
+ | [sr](/f11/language/sr) | 200 | 608 | 32.9 | /mnt/stockage/packages/f11/yumex/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 200 | 608 | 32.9 | /mnt/stockage/packages/f11/yumex/po/sr@latin.po | 
+ | [ru](/f11/language/ru) | 10 | 608 | 1.6 | /mnt/stockage/packages/f11/yumex/po/ru.po | 
+ | [fr](/f11/language/fr) | 0 | 608 | 0.0 | /mnt/stockage/packages/f11/yumex/po/fr.po | 
 {.sortable}
 
 

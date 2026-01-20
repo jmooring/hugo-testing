@@ -18,11 +18,11 @@ The package ecore (version 0.9.9.49898):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/it.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 55 | 110 | 50.0 | /mnt/stockage/packages/f14/ecore/po/el.po | 
+ | [cs](/f14/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/cs.po | 
+ | [de](/f14/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/de.po | 
+ | [fr](/f14/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/fr.po | 
+ | [it](/f14/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f14/ecore/po/it.po | 
+ | [el](/f14/language/el) | 55 | 110 | 50.0 | /mnt/stockage/packages/f14/ecore/po/el.po | 
 {.sortable}
 
 

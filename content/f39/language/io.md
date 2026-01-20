@@ -38,48 +38,48 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f39/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [gmult]({{< ref "/f39/package/gmult.md" >}}) | 35 | 50 | 70.0 | Language io | 
- | [lxmenu-data]({{< ref "/f39/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f39/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [python-django]({{< ref "/f39/package/python-django.md" >}}) | 1379 | 3486 | 39.6 | Ido (http://www.transifex.com/django/django/language/io/) | 
- | [python-django4.2]({{< ref "/f39/package/python-django4.2.md" >}}) | 1379 | 3486 | 39.6 | Ido (http://www.transifex.com/django/django/language/io/) | 
- | [gtk4]({{< ref "/f39/package/gtk4.md" >}}) | 782 | 2432 | 32.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk4]({{< ref "/f39/package/mingw-gtk4.md" >}}) | 782 | 2432 | 32.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 287 | 989 | 29.0 | Ido <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/io/> | 
- | [gdk-pixbuf2]({{< ref "/f39/package/gdk-pixbuf2.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gdk-pixbuf]({{< ref "/f39/package/mingw-gdk-pixbuf.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f39/package/nautilus.md" >}}) | 1283 | 7454 | 17.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [python-django-formtools]({{< ref "/f39/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
- | [gtk2]({{< ref "/f39/package/gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk2]({{< ref "/f39/package/mingw-gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk3]({{< ref "/f39/package/gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk3]({{< ref "/f39/package/mingw-gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 113 | 2538 | 4.5 | LANGUAGE <LL@li.org> | 
- | [deja-dup]({{< ref "/f39/package/deja-dup.md" >}}) | 23 | 1623 | 1.4 | Ido <io@li.org> | 
- | [isomaster]({{< ref "/f39/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [chromium]({{< ref "/f39/package/chromium.md" >}}) | 0 | 0 | 0.0 |  | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sympa]({{< ref "/f39/package/sympa.md" >}}) | 0 | 36428 | 0.0 | Ido <LL@li.org> | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [alacarte](/f39/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gmult](/f39/package/gmult) | 35 | 50 | 70.0 | Language io | 
+ | [lxmenu-data](/f39/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f39/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python-django](/f39/package/python-django) | 1379 | 3486 | 39.6 | Ido (http://www.transifex.com/django/django/language/io/) | 
+ | [python-django4.2](/f39/package/python-django4.2) | 1379 | 3486 | 39.6 | Ido (http://www.transifex.com/django/django/language/io/) | 
+ | [gtk4](/f39/package/gtk4) | 782 | 2432 | 32.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk4](/f39/package/mingw-gtk4) | 782 | 2432 | 32.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [iso-codes](/f39/package/iso-codes) | 287 | 989 | 29.0 | Ido <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/io/> | 
+ | [gdk-pixbuf2](/f39/package/gdk-pixbuf2) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gdk-pixbuf](/f39/package/mingw-gdk-pixbuf) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [nautilus](/f39/package/nautilus) | 1283 | 7454 | 17.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [python-django-formtools](/f39/package/python-django-formtools) | 5 | 32 | 15.6 | Ido (http://www.transifex.com/projects/p/django-formtools/language/io/) | 
+ | [gtk2](/f39/package/gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk2](/f39/package/mingw-gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk3](/f39/package/gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk3](/f39/package/mingw-gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [elementary-files](/f39/package/elementary-files) | 113 | 2538 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [deja-dup](/f39/package/deja-dup) | 23 | 1623 | 1.4 | Ido <io@li.org> | 
+ | [isomaster](/f39/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [chromium](/f39/package/chromium) | 0 | 0 | 0.0 |  | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sympa](/f39/package/sympa) | 0 | 36428 | 0.0 | Ido <LL@li.org> | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

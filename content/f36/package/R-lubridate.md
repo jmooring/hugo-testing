@@ -18,8 +18,8 @@ The package R-lubridate (version 1.7.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f36/R-lubridate/po/R-ko.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 155 | 405 | 38.3 | /mnt/stockage/packages/f36/R-lubridate/po/R-it.po | 
+ | [ko](/f36/language/ko) | 405 | 405 | 100.0 | /mnt/stockage/packages/f36/R-lubridate/po/R-ko.po | 
+ | [it](/f36/language/it) | 155 | 405 | 38.3 | /mnt/stockage/packages/f36/R-lubridate/po/R-it.po | 
 {.sortable}
 
 

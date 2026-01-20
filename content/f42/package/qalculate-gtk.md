@@ -18,19 +18,19 @@ The package qalculate-gtk (version 5.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 4486 | 4517 | 99.3 | /mnt/stockage/packages/f42/qalculate-gtk/po/fr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 4468 | 4517 | 98.9 | /mnt/stockage/packages/f42/qalculate-gtk/po/hu.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 4468 | 4517 | 98.9 | /mnt/stockage/packages/f42/qalculate-gtk/po/pt_PT.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 4450 | 4517 | 98.5 | /mnt/stockage/packages/f42/qalculate-gtk/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 4426 | 4517 | 98.0 | /mnt/stockage/packages/f42/qalculate-gtk/po/sv.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 4196 | 4517 | 92.9 | /mnt/stockage/packages/f42/qalculate-gtk/po/es.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 4183 | 4517 | 92.6 | /mnt/stockage/packages/f42/qalculate-gtk/po/de.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 4148 | 4517 | 91.8 | /mnt/stockage/packages/f42/qalculate-gtk/po/ca.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 4094 | 4517 | 90.6 | /mnt/stockage/packages/f42/qalculate-gtk/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3890 | 4517 | 86.1 | /mnt/stockage/packages/f42/qalculate-gtk/po/pt_BR.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 3862 | 4517 | 85.5 | /mnt/stockage/packages/f42/qalculate-gtk/po/sl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 3049 | 4517 | 67.5 | /mnt/stockage/packages/f42/qalculate-gtk/po/pl.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 2041 | 4517 | 45.2 | /mnt/stockage/packages/f42/qalculate-gtk/po/nl.po | 
+ | [fr](/f42/language/fr) | 4486 | 4517 | 99.3 | /mnt/stockage/packages/f42/qalculate-gtk/po/fr.po | 
+ | [hu](/f42/language/hu) | 4468 | 4517 | 98.9 | /mnt/stockage/packages/f42/qalculate-gtk/po/hu.po | 
+ | [pt_PT](/f42/language/pt_PT) | 4468 | 4517 | 98.9 | /mnt/stockage/packages/f42/qalculate-gtk/po/pt_PT.po | 
+ | [ru](/f42/language/ru) | 4450 | 4517 | 98.5 | /mnt/stockage/packages/f42/qalculate-gtk/po/ru.po | 
+ | [sv](/f42/language/sv) | 4426 | 4517 | 98.0 | /mnt/stockage/packages/f42/qalculate-gtk/po/sv.po | 
+ | [es](/f42/language/es) | 4196 | 4517 | 92.9 | /mnt/stockage/packages/f42/qalculate-gtk/po/es.po | 
+ | [de](/f42/language/de) | 4183 | 4517 | 92.6 | /mnt/stockage/packages/f42/qalculate-gtk/po/de.po | 
+ | [ca](/f42/language/ca) | 4148 | 4517 | 91.8 | /mnt/stockage/packages/f42/qalculate-gtk/po/ca.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 4094 | 4517 | 90.6 | /mnt/stockage/packages/f42/qalculate-gtk/po/zh_CN.po | 
+ | [pt_BR](/f42/language/pt_BR) | 3890 | 4517 | 86.1 | /mnt/stockage/packages/f42/qalculate-gtk/po/pt_BR.po | 
+ | [sl](/f42/language/sl) | 3862 | 4517 | 85.5 | /mnt/stockage/packages/f42/qalculate-gtk/po/sl.po | 
+ | [pl](/f42/language/pl) | 3049 | 4517 | 67.5 | /mnt/stockage/packages/f42/qalculate-gtk/po/pl.po | 
+ | [nl](/f42/language/nl) | 2041 | 4517 | 45.2 | /mnt/stockage/packages/f42/qalculate-gtk/po/nl.po | 
 {.sortable}
 
 

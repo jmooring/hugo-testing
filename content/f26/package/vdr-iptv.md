@@ -18,12 +18,12 @@ The package vdr-iptv (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/de_DE.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/lt_LT.po/mnt/stockage/packages/f26/vdr-iptv/po/fi_FI.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/fr_FR.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/it_IT.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/nl_NL.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 54 | 191 | 28.3 | /mnt/stockage/packages/f26/vdr-iptv/po/ru_RU.po | 
+ | [de](/f26/language/de) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/de_DE.po | 
+ | [fi](/f26/language/fi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/lt_LT.po/mnt/stockage/packages/f26/vdr-iptv/po/fi_FI.po | 
+ | [fr](/f26/language/fr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/fr_FR.po | 
+ | [it](/f26/language/it) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/it_IT.po | 
+ | [nl](/f26/language/nl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f26/vdr-iptv/po/nl_NL.po | 
+ | [ru](/f26/language/ru) | 54 | 191 | 28.3 | /mnt/stockage/packages/f26/vdr-iptv/po/ru_RU.po | 
 {.sortable}
 
 

@@ -18,80 +18,80 @@ The package pykickstart (version 1.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f9/language/as.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/as.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/bg.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/bn_IN.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/fr.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/gu.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/hi.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/hr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ja.po | 
- | [kn]({{< ref "/f9/language/kn.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/kn.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ko.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ml.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/mr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/nb.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/nl.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ru.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/sr.po | 
- | [sr_Latn]({{< ref "/f9/language/sr_Latn.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/sr@latin.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ta.po | 
- | [te]({{< ref "/f9/language/te.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/te.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/zh_CN.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/ca.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/id.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/or.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/sv.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/uk.po | 
- | [mai]({{< ref "/f9/language/mai.md" >}}) | 226 | 284 | 79.6 | /mnt/stockage/packages/f9/pykickstart/po/mai.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/da.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/en_GB.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/hu.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/is.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/mk.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/ms.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/sl.po | 
- | [bs]({{< ref "/f9/language/bs.md" >}}) | 168 | 284 | 59.2 | /mnt/stockage/packages/f9/pykickstart/po/bs.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 167 | 284 | 58.8 | /mnt/stockage/packages/f9/pykickstart/po/zh_TW.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 24 | 284 | 8.5 | /mnt/stockage/packages/f9/pykickstart/po/tr.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 4 | 284 | 1.4 | /mnt/stockage/packages/f9/pykickstart/po/ka.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 3 | 284 | 1.1 | /mnt/stockage/packages/f9/pykickstart/po/gl.po | 
- | [af]({{< ref "/f9/language/af.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/af.po | 
- | [am]({{< ref "/f9/language/am.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/am.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ar.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/be.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/bn.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/cy.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/el.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/eu_ES.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/fa.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/he.po | 
- | [hy]({{< ref "/f9/language/hy.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/hy.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ku.po | 
- | [lo]({{< ref "/f9/language/lo.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/lo.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/lt.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/lv.po | 
- | [my]({{< ref "/f9/language/my.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/my.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/nn.po | 
- | [nso]({{< ref "/f9/language/nso.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/nso.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ro.po | 
- | [si]({{< ref "/f9/language/si.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/si.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/sq.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/th.po | 
- | [ur]({{< ref "/f9/language/ur.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ur.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/vi.po | 
- | [zu]({{< ref "/f9/language/zu.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/zu.po | 
+ | [as](/f9/language/as) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/as.po | 
+ | [bg](/f9/language/bg) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/bg.po | 
+ | [bn_IN](/f9/language/bn_IN) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/bn_IN.po | 
+ | [cs](/f9/language/cs) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/cs.po | 
+ | [de](/f9/language/de) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/de.po | 
+ | [es](/f9/language/es) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/es.po | 
+ | [fi](/f9/language/fi) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/fi.po | 
+ | [fr](/f9/language/fr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/fr.po | 
+ | [gu](/f9/language/gu) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/gu.po | 
+ | [hi](/f9/language/hi) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/hi.po | 
+ | [hr](/f9/language/hr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/hr.po | 
+ | [it](/f9/language/it) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/it.po | 
+ | [ja](/f9/language/ja) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ja.po | 
+ | [kn](/f9/language/kn) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/kn.po | 
+ | [ko](/f9/language/ko) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ko.po | 
+ | [ml](/f9/language/ml) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ml.po | 
+ | [mr](/f9/language/mr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/mr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/nb.po | 
+ | [nl](/f9/language/nl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/nl.po | 
+ | [pa](/f9/language/pa) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pa.po | 
+ | [pl](/f9/language/pl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pl.po | 
+ | [pt](/f9/language/pt) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ru.po | 
+ | [sr](/f9/language/sr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/sr.po | 
+ | [sr_Latn](/f9/language/sr_Latn) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/sr@latin.po | 
+ | [ta](/f9/language/ta) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/ta.po | 
+ | [te](/f9/language/te) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/te.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 284 | 284 | 100.0 | /mnt/stockage/packages/f9/pykickstart/po/zh_CN.po | 
+ | [ca](/f9/language/ca) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/ca.po | 
+ | [id](/f9/language/id) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/id.po | 
+ | [or](/f9/language/or) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/or.po | 
+ | [sv](/f9/language/sv) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/sv.po | 
+ | [uk](/f9/language/uk) | 240 | 284 | 84.5 | /mnt/stockage/packages/f9/pykickstart/po/uk.po | 
+ | [mai](/f9/language/mai) | 226 | 284 | 79.6 | /mnt/stockage/packages/f9/pykickstart/po/mai.po | 
+ | [da](/f9/language/da) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/da.po | 
+ | [en_GB](/f9/language/en_GB) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/en_GB.po | 
+ | [hu](/f9/language/hu) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/hu.po | 
+ | [is](/f9/language/is) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/is.po | 
+ | [mk](/f9/language/mk) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/mk.po | 
+ | [ms](/f9/language/ms) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/ms.po | 
+ | [sk](/f9/language/sk) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/sk.po | 
+ | [sl](/f9/language/sl) | 225 | 284 | 79.2 | /mnt/stockage/packages/f9/pykickstart/po/sl.po | 
+ | [bs](/f9/language/bs) | 168 | 284 | 59.2 | /mnt/stockage/packages/f9/pykickstart/po/bs.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 167 | 284 | 58.8 | /mnt/stockage/packages/f9/pykickstart/po/zh_TW.po | 
+ | [tr](/f9/language/tr) | 24 | 284 | 8.5 | /mnt/stockage/packages/f9/pykickstart/po/tr.po | 
+ | [ka](/f9/language/ka) | 4 | 284 | 1.4 | /mnt/stockage/packages/f9/pykickstart/po/ka.po | 
+ | [gl](/f9/language/gl) | 3 | 284 | 1.1 | /mnt/stockage/packages/f9/pykickstart/po/gl.po | 
+ | [af](/f9/language/af) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/af.po | 
+ | [am](/f9/language/am) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/am.po | 
+ | [ar](/f9/language/ar) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ar.po | 
+ | [be](/f9/language/be) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/be.po | 
+ | [bn](/f9/language/bn) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/bn.po | 
+ | [cy](/f9/language/cy) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/cy.po | 
+ | [el](/f9/language/el) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/el.po | 
+ | [et](/f9/language/et) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/et.po | 
+ | [eu](/f9/language/eu) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/eu_ES.po | 
+ | [fa](/f9/language/fa) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/fa.po | 
+ | [he](/f9/language/he) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/he.po | 
+ | [hy](/f9/language/hy) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/hy.po | 
+ | [ku](/f9/language/ku) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ku.po | 
+ | [lo](/f9/language/lo) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/lo.po | 
+ | [lt](/f9/language/lt) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/lt.po | 
+ | [lv](/f9/language/lv) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/lv.po | 
+ | [my](/f9/language/my) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/my.po | 
+ | [nn](/f9/language/nn) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/nn.po | 
+ | [nso](/f9/language/nso) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/nso.po | 
+ | [ro](/f9/language/ro) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ro.po | 
+ | [si](/f9/language/si) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/si.po | 
+ | [sq](/f9/language/sq) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/sq.po | 
+ | [th](/f9/language/th) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/th.po | 
+ | [ur](/f9/language/ur) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/ur.po | 
+ | [vi](/f9/language/vi) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/vi.po | 
+ | [zu](/f9/language/zu) | 0 | 284 | 0.0 | /mnt/stockage/packages/f9/pykickstart/po/zu.po | 
 {.sortable}
 
 

@@ -18,44 +18,44 @@ The package lxlauncher (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f11/language/af.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/af.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ar.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/eu.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/fr.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/hr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ja.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/lt.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/pt_BR.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/sk.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/sl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/sv.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/uk.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ur.po | 
- | [ur_PK]({{< ref "/f11/language/ur_PK.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ur_PK.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 21 | 51 | 41.2 | /mnt/stockage/packages/f11/lxlauncher/po/ru.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 18 | 51 | 35.3 | /mnt/stockage/packages/f11/lxlauncher/po/et.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 8 | 51 | 15.7 | /mnt/stockage/packages/f11/lxlauncher/po/fi.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 4 | 51 | 7.8 | /mnt/stockage/packages/f11/lxlauncher/po/zh_CN.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/fa.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/gl.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/ko.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/ml.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/nb.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/nn.po | 
- | [ps]({{< ref "/f11/language/ps.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/ps.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/tr.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/vi.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/zh_TW.po | 
+ | [af](/f11/language/af) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/af.po | 
+ | [ar](/f11/language/ar) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ar.po | 
+ | [cs](/f11/language/cs) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/cs.po | 
+ | [da](/f11/language/da) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/da.po | 
+ | [de](/f11/language/de) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/de.po | 
+ | [es](/f11/language/es) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/es.po | 
+ | [eu](/f11/language/eu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/eu.po | 
+ | [fr](/f11/language/fr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/fr.po | 
+ | [hr](/f11/language/hr) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/hr.po | 
+ | [hu](/f11/language/hu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/hu.po | 
+ | [id](/f11/language/id) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/id.po | 
+ | [it](/f11/language/it) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/it.po | 
+ | [ja](/f11/language/ja) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ja.po | 
+ | [lt](/f11/language/lt) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/lt.po | 
+ | [nl](/f11/language/nl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/nl.po | 
+ | [pl](/f11/language/pl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/pl.po | 
+ | [pt](/f11/language/pt) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/pt_BR.po | 
+ | [sk](/f11/language/sk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/sk.po | 
+ | [sl](/f11/language/sl) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/sl.po | 
+ | [sv](/f11/language/sv) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/sv.po | 
+ | [uk](/f11/language/uk) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/uk.po | 
+ | [ur](/f11/language/ur) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ur.po | 
+ | [ur_PK](/f11/language/ur_PK) | 51 | 51 | 100.0 | /mnt/stockage/packages/f11/lxlauncher/po/ur_PK.po | 
+ | [ru](/f11/language/ru) | 21 | 51 | 41.2 | /mnt/stockage/packages/f11/lxlauncher/po/ru.po | 
+ | [et](/f11/language/et) | 18 | 51 | 35.3 | /mnt/stockage/packages/f11/lxlauncher/po/et.po | 
+ | [fi](/f11/language/fi) | 8 | 51 | 15.7 | /mnt/stockage/packages/f11/lxlauncher/po/fi.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 4 | 51 | 7.8 | /mnt/stockage/packages/f11/lxlauncher/po/zh_CN.po | 
+ | [fa](/f11/language/fa) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/fa.po | 
+ | [gl](/f11/language/gl) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/gl.po | 
+ | [ko](/f11/language/ko) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/ko.po | 
+ | [ml](/f11/language/ml) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/ml.po | 
+ | [nb_NO](/f11/language/nb_NO) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/nb.po | 
+ | [nn](/f11/language/nn) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/nn.po | 
+ | [ps](/f11/language/ps) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/ps.po | 
+ | [tr](/f11/language/tr) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/tr.po | 
+ | [vi](/f11/language/vi) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/vi.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 0 | 51 | 0.0 | /mnt/stockage/packages/f11/lxlauncher/po/zh_TW.po | 
 {.sortable}
 
 

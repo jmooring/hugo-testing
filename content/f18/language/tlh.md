@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f18/package/tuxpaint.md" >}}) | 34 | 1247 | 2.7 | Bill Kendrick <nbs@sonic.net> | 
- | [gwibber]({{< ref "/f18/package/gwibber.md" >}}) | 1 | 769 | 0.1 | Klingon <tlh@li.org> | 
- | [openerp]({{< ref "/f18/package/openerp.md" >}}) | 2 | 45885 | 0.0 |  | 
+ | [tuxpaint](/f18/package/tuxpaint) | 34 | 1247 | 2.7 | Bill Kendrick <nbs@sonic.net> | 
+ | [gwibber](/f18/package/gwibber) | 1 | 769 | 0.1 | Klingon <tlh@li.org> | 
+ | [openerp](/f18/package/openerp) | 2 | 45885 | 0.0 |  | 
 {.sortable}
 
 

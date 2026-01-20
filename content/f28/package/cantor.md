@@ -18,49 +18,49 @@ The package cantor (version 18.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/ca/cantor.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/ca@valencia/cantor.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/de/cantor.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/en_GB/cantor.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/es/cantor.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/gl/cantor.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/it/cantor.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/nl/cantor.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/pl/cantor.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/pt/cantor.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/pt_BR/cantor.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/sv/cantor.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/uk/cantor.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/zh_CN/cantor.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/zh_TW/cantor.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2115 | 2210 | 95.7 | /mnt/stockage/packages/f28/cantor/po/fr/cantor.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 2089 | 2210 | 94.5 | /mnt/stockage/packages/f28/cantor/po/fi/cantor.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 2048 | 2210 | 92.7 | /mnt/stockage/packages/f28/cantor/po/ru/cantor.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2047 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/sl/cantor.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 2046 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/el/cantor.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2046 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/sk/cantor.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 2046 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/tr/cantor.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 2006 | 2210 | 90.8 | /mnt/stockage/packages/f28/cantor/po/et/cantor.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 1921 | 2210 | 86.9 | /mnt/stockage/packages/f28/cantor/po/da/cantor.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1802 | 2210 | 81.5 | /mnt/stockage/packages/f28/cantor/po/hu/cantor.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 1802 | 2210 | 81.5 | /mnt/stockage/packages/f28/cantor/po/nds/cantor.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 1768 | 2210 | 80.0 | /mnt/stockage/packages/f28/cantor/po/nb/cantor.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 1760 | 2210 | 79.6 | /mnt/stockage/packages/f28/cantor/po/bs/cantor.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 1760 | 2210 | 79.6 | /mnt/stockage/packages/f28/cantor/po/kk/cantor.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 1714 | 2210 | 77.6 | /mnt/stockage/packages/f28/cantor/po/lv/cantor.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 1146 | 2210 | 51.9 | /mnt/stockage/packages/f28/cantor/po/nn/cantor.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 1142 | 2210 | 51.7 | /mnt/stockage/packages/f28/cantor/po/cs/cantor.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 765 | 2210 | 34.6 | /mnt/stockage/packages/f28/cantor/po/ko/cantor.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 748 | 2210 | 33.8 | /mnt/stockage/packages/f28/cantor/po/ro/cantor.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 615 | 2210 | 27.8 | /mnt/stockage/packages/f28/cantor/po/hr/cantor.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 562 | 2210 | 25.4 | /mnt/stockage/packages/f28/cantor/po/eu/cantor.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 246 | 2210 | 11.1 | /mnt/stockage/packages/f28/cantor/po/ga/cantor.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 225 | 2210 | 10.2 | /mnt/stockage/packages/f28/cantor/po/ug/cantor.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 200 | 2210 | 9.0 | /mnt/stockage/packages/f28/cantor/po/lt/cantor.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 145 | 2210 | 6.6 | /mnt/stockage/packages/f28/cantor/po/pa/cantor.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 84 | 2210 | 3.8 | /mnt/stockage/packages/f28/cantor/po/mr/cantor.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 83 | 2210 | 3.8 | /mnt/stockage/packages/f28/cantor/po/eo/cantor.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 2210 | 0.0 | /mnt/stockage/packages/f28/cantor/po/ja/cantor.po | 
+ | [ca](/f28/language/ca) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/ca/cantor.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/ca@valencia/cantor.po | 
+ | [de](/f28/language/de) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/de/cantor.po | 
+ | [en_GB](/f28/language/en_GB) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/en_GB/cantor.po | 
+ | [es](/f28/language/es) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/es/cantor.po | 
+ | [gl](/f28/language/gl) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/gl/cantor.po | 
+ | [it](/f28/language/it) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/it/cantor.po | 
+ | [nl](/f28/language/nl) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/nl/cantor.po | 
+ | [pl](/f28/language/pl) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/pl/cantor.po | 
+ | [pt](/f28/language/pt) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/pt/cantor.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/pt_BR/cantor.po | 
+ | [sv](/f28/language/sv) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/sv/cantor.po | 
+ | [uk](/f28/language/uk) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/uk/cantor.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/zh_CN/cantor.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 2210 | 2210 | 100.0 | /mnt/stockage/packages/f28/cantor/po/zh_TW/cantor.po | 
+ | [fr](/f28/language/fr) | 2115 | 2210 | 95.7 | /mnt/stockage/packages/f28/cantor/po/fr/cantor.po | 
+ | [fi](/f28/language/fi) | 2089 | 2210 | 94.5 | /mnt/stockage/packages/f28/cantor/po/fi/cantor.po | 
+ | [ru](/f28/language/ru) | 2048 | 2210 | 92.7 | /mnt/stockage/packages/f28/cantor/po/ru/cantor.po | 
+ | [sl](/f28/language/sl) | 2047 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/sl/cantor.po | 
+ | [el](/f28/language/el) | 2046 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/el/cantor.po | 
+ | [sk](/f28/language/sk) | 2046 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/sk/cantor.po | 
+ | [tr](/f28/language/tr) | 2046 | 2210 | 92.6 | /mnt/stockage/packages/f28/cantor/po/tr/cantor.po | 
+ | [et](/f28/language/et) | 2006 | 2210 | 90.8 | /mnt/stockage/packages/f28/cantor/po/et/cantor.po | 
+ | [da](/f28/language/da) | 1921 | 2210 | 86.9 | /mnt/stockage/packages/f28/cantor/po/da/cantor.po | 
+ | [hu](/f28/language/hu) | 1802 | 2210 | 81.5 | /mnt/stockage/packages/f28/cantor/po/hu/cantor.po | 
+ | [nds](/f28/language/nds) | 1802 | 2210 | 81.5 | /mnt/stockage/packages/f28/cantor/po/nds/cantor.po | 
+ | [nb_NO](/f28/language/nb_NO) | 1768 | 2210 | 80.0 | /mnt/stockage/packages/f28/cantor/po/nb/cantor.po | 
+ | [bs](/f28/language/bs) | 1760 | 2210 | 79.6 | /mnt/stockage/packages/f28/cantor/po/bs/cantor.po | 
+ | [kk](/f28/language/kk) | 1760 | 2210 | 79.6 | /mnt/stockage/packages/f28/cantor/po/kk/cantor.po | 
+ | [lv](/f28/language/lv) | 1714 | 2210 | 77.6 | /mnt/stockage/packages/f28/cantor/po/lv/cantor.po | 
+ | [nn](/f28/language/nn) | 1146 | 2210 | 51.9 | /mnt/stockage/packages/f28/cantor/po/nn/cantor.po | 
+ | [cs](/f28/language/cs) | 1142 | 2210 | 51.7 | /mnt/stockage/packages/f28/cantor/po/cs/cantor.po | 
+ | [ko](/f28/language/ko) | 765 | 2210 | 34.6 | /mnt/stockage/packages/f28/cantor/po/ko/cantor.po | 
+ | [ro](/f28/language/ro) | 748 | 2210 | 33.8 | /mnt/stockage/packages/f28/cantor/po/ro/cantor.po | 
+ | [hr](/f28/language/hr) | 615 | 2210 | 27.8 | /mnt/stockage/packages/f28/cantor/po/hr/cantor.po | 
+ | [eu](/f28/language/eu) | 562 | 2210 | 25.4 | /mnt/stockage/packages/f28/cantor/po/eu/cantor.po | 
+ | [ga](/f28/language/ga) | 246 | 2210 | 11.1 | /mnt/stockage/packages/f28/cantor/po/ga/cantor.po | 
+ | [ug](/f28/language/ug) | 225 | 2210 | 10.2 | /mnt/stockage/packages/f28/cantor/po/ug/cantor.po | 
+ | [lt](/f28/language/lt) | 200 | 2210 | 9.0 | /mnt/stockage/packages/f28/cantor/po/lt/cantor.po | 
+ | [pa](/f28/language/pa) | 145 | 2210 | 6.6 | /mnt/stockage/packages/f28/cantor/po/pa/cantor.po | 
+ | [mr](/f28/language/mr) | 84 | 2210 | 3.8 | /mnt/stockage/packages/f28/cantor/po/mr/cantor.po | 
+ | [eo](/f28/language/eo) | 83 | 2210 | 3.8 | /mnt/stockage/packages/f28/cantor/po/eo/cantor.po | 
+ | [ja](/f28/language/ja) | 0 | 2210 | 0.0 | /mnt/stockage/packages/f28/cantor/po/ja/cantor.po | 
 {.sortable}
 
 

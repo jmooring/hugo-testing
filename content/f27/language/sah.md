@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f27/package/stellarium.md" >}}) | 124 | 67040 | 0.2 | Sakha (Yakut) (https://www.transifex.com/stellarium/teams/80998/sah/) | 
- | [libreoffice]({{< ref "/f27/package/libreoffice.md" >}}) | 63 | 96542 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f27/package/stellarium) | 124 | 67040 | 0.2 | Sakha (Yakut) (https://www.transifex.com/stellarium/teams/80998/sah/) | 
+ | [libreoffice](/f27/package/libreoffice) | 63 | 96542 | 0.1 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

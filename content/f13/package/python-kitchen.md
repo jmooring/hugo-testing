@@ -18,7 +18,7 @@ The package python-kitchen (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 10 | 12 | 83.3 | /mnt/stockage/packages/f13/python-kitchen/tests/data/locale/pt_BR.po | 
+ | [pt_BR](/f13/language/pt_BR) | 10 | 12 | 83.3 | /mnt/stockage/packages/f13/python-kitchen/tests/data/locale/pt_BR.po | 
 {.sortable}
 
 

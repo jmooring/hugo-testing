@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [zarafa]({{< ref "/f13/package/zarafa.md" >}}) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
- | [intltool]({{< ref "/f13/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [poker-engine]({{< ref "/f13/package/poker-engine.md" >}}) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
- | [poker-network]({{< ref "/f13/package/poker-network.md" >}}) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
- | [poker2d]({{< ref "/f13/package/poker2d.md" >}}) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
- | [jpoker]({{< ref "/f13/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [zarafa](/f13/package/zarafa) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
+ | [intltool](/f13/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [poker-engine](/f13/package/poker-engine) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
+ | [poker-network](/f13/package/poker-network) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
+ | [poker2d](/f13/package/poker2d) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
+ | [jpoker](/f13/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
 {.sortable}
 
 

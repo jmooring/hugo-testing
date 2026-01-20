@@ -18,7 +18,7 @@ The package crosswords-puzzle-sets-oedipus (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f37/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/crosswords-puzzle-sets-oedipus/po/it.po | 
+ | [it](/f37/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/crosswords-puzzle-sets-oedipus/po/it.po | 
 {.sortable}
 
 

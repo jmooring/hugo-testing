@@ -18,60 +18,60 @@ The package kf5-calendarsupport (version 17.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ca/calendarsupport.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ca@valencia/calendarsupport.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/da/calendarsupport.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/de/calendarsupport.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/en_GB/calendarsupport.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/es/calendarsupport.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/et/calendarsupport.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/fi/calendarsupport.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/fr/calendarsupport.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/gl/calendarsupport.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/it/calendarsupport.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nl/calendarsupport.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pl/calendarsupport.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pt/calendarsupport.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pt_BR/calendarsupport.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ru/calendarsupport.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sk/calendarsupport.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sl/calendarsupport.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sr/calendarsupport.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sv/calendarsupport.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/tr/calendarsupport.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/uk/calendarsupport.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 2871 | 2967 | 96.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/zh_TW/calendarsupport.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 2863 | 2967 | 96.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nb/calendarsupport.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 2856 | 2967 | 96.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/hu/calendarsupport.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 2856 | 2967 | 96.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nds/calendarsupport.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 2849 | 2967 | 96.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/el/calendarsupport.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 2849 | 2967 | 96.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ia/calendarsupport.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 2609 | 2967 | 87.9 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/zh_CN/calendarsupport.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 2571 | 2967 | 86.7 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/kk/calendarsupport.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 2501 | 2967 | 84.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/km/calendarsupport.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 2361 | 2967 | 79.6 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ar/calendarsupport.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1892 | 2967 | 63.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/cs/calendarsupport.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 1632 | 2967 | 55.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/lv/calendarsupport.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 1581 | 2967 | 53.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/mr/calendarsupport.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1562 | 2967 | 52.6 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ja/calendarsupport.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 1425 | 2967 | 48.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/lt/calendarsupport.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 1292 | 2967 | 43.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/bs/calendarsupport.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 1245 | 2967 | 42.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nn/calendarsupport.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 1122 | 2967 | 37.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/fa/calendarsupport.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 1054 | 2967 | 35.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/bg/calendarsupport.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 984 | 2967 | 33.2 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/eu/calendarsupport.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 984 | 2967 | 33.2 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/he/calendarsupport.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 795 | 2967 | 26.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/is/calendarsupport.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 385 | 2967 | 13.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/hi/calendarsupport.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 332 | 2967 | 11.2 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ko/calendarsupport.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 297 | 2967 | 10.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ga/calendarsupport.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 194 | 2967 | 6.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pa/calendarsupport.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 187 | 2967 | 6.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/wa/calendarsupport.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 170 | 2967 | 5.7 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ro/calendarsupport.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 152 | 2967 | 5.1 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ug/calendarsupport.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 52 | 2967 | 1.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/eo/calendarsupport.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 16 | 2967 | 0.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/hr/calendarsupport.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 1 | 2967 | 0.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ast/calendarsupport.po | 
+ | [ca](/f27/language/ca) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ca/calendarsupport.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ca@valencia/calendarsupport.po | 
+ | [da](/f27/language/da) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/da/calendarsupport.po | 
+ | [de](/f27/language/de) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/de/calendarsupport.po | 
+ | [en_GB](/f27/language/en_GB) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/en_GB/calendarsupport.po | 
+ | [es](/f27/language/es) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/es/calendarsupport.po | 
+ | [et](/f27/language/et) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/et/calendarsupport.po | 
+ | [fi](/f27/language/fi) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/fi/calendarsupport.po | 
+ | [fr](/f27/language/fr) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/fr/calendarsupport.po | 
+ | [gl](/f27/language/gl) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/gl/calendarsupport.po | 
+ | [it](/f27/language/it) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/it/calendarsupport.po | 
+ | [nl](/f27/language/nl) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nl/calendarsupport.po | 
+ | [pl](/f27/language/pl) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pl/calendarsupport.po | 
+ | [pt](/f27/language/pt) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pt/calendarsupport.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pt_BR/calendarsupport.po | 
+ | [ru](/f27/language/ru) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ru/calendarsupport.po | 
+ | [sk](/f27/language/sk) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sk/calendarsupport.po | 
+ | [sl](/f27/language/sl) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sl/calendarsupport.po | 
+ | [sr](/f27/language/sr) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sr/calendarsupport.po | 
+ | [sv](/f27/language/sv) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/sv/calendarsupport.po | 
+ | [tr](/f27/language/tr) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/tr/calendarsupport.po | 
+ | [uk](/f27/language/uk) | 2967 | 2967 | 100.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/uk/calendarsupport.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 2871 | 2967 | 96.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/zh_TW/calendarsupport.po | 
+ | [nb_NO](/f27/language/nb_NO) | 2863 | 2967 | 96.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nb/calendarsupport.po | 
+ | [hu](/f27/language/hu) | 2856 | 2967 | 96.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/hu/calendarsupport.po | 
+ | [nds](/f27/language/nds) | 2856 | 2967 | 96.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nds/calendarsupport.po | 
+ | [el](/f27/language/el) | 2849 | 2967 | 96.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/el/calendarsupport.po | 
+ | [ia](/f27/language/ia) | 2849 | 2967 | 96.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ia/calendarsupport.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 2609 | 2967 | 87.9 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/zh_CN/calendarsupport.po | 
+ | [kk](/f27/language/kk) | 2571 | 2967 | 86.7 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/kk/calendarsupport.po | 
+ | [km](/f27/language/km) | 2501 | 2967 | 84.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/km/calendarsupport.po | 
+ | [ar](/f27/language/ar) | 2361 | 2967 | 79.6 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ar/calendarsupport.po | 
+ | [cs](/f27/language/cs) | 1892 | 2967 | 63.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/cs/calendarsupport.po | 
+ | [lv](/f27/language/lv) | 1632 | 2967 | 55.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/lv/calendarsupport.po | 
+ | [mr](/f27/language/mr) | 1581 | 2967 | 53.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/mr/calendarsupport.po | 
+ | [ja](/f27/language/ja) | 1562 | 2967 | 52.6 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ja/calendarsupport.po | 
+ | [lt](/f27/language/lt) | 1425 | 2967 | 48.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/lt/calendarsupport.po | 
+ | [bs](/f27/language/bs) | 1292 | 2967 | 43.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/bs/calendarsupport.po | 
+ | [nn](/f27/language/nn) | 1245 | 2967 | 42.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/nn/calendarsupport.po | 
+ | [fa](/f27/language/fa) | 1122 | 2967 | 37.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/fa/calendarsupport.po | 
+ | [bg](/f27/language/bg) | 1054 | 2967 | 35.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/bg/calendarsupport.po | 
+ | [eu](/f27/language/eu) | 984 | 2967 | 33.2 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/eu/calendarsupport.po | 
+ | [he](/f27/language/he) | 984 | 2967 | 33.2 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/he/calendarsupport.po | 
+ | [is](/f27/language/is) | 795 | 2967 | 26.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/is/calendarsupport.po | 
+ | [hi](/f27/language/hi) | 385 | 2967 | 13.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/hi/calendarsupport.po | 
+ | [ko](/f27/language/ko) | 332 | 2967 | 11.2 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ko/calendarsupport.po | 
+ | [ga](/f27/language/ga) | 297 | 2967 | 10.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ga/calendarsupport.po | 
+ | [pa](/f27/language/pa) | 194 | 2967 | 6.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/pa/calendarsupport.po | 
+ | [wa](/f27/language/wa) | 187 | 2967 | 6.3 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/wa/calendarsupport.po | 
+ | [ro](/f27/language/ro) | 170 | 2967 | 5.7 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ro/calendarsupport.po | 
+ | [ug](/f27/language/ug) | 152 | 2967 | 5.1 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ug/calendarsupport.po | 
+ | [eo](/f27/language/eo) | 52 | 2967 | 1.8 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/eo/calendarsupport.po | 
+ | [hr](/f27/language/hr) | 16 | 2967 | 0.5 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/hr/calendarsupport.po | 
+ | [ast](/f27/language/ast) | 1 | 2967 | 0.0 | /mnt/stockage/packages/f27/kf5-calendarsupport/po/ast/calendarsupport.po | 
 {.sortable}
 
 

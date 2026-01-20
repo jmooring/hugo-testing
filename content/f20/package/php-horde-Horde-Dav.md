@@ -18,8 +18,8 @@ The package php-horde-Horde-Dav (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Dav/Horde_Dav-1.1.2/locale/da/LC_MESSAGES/Horde_Dav.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Dav/Horde_Dav-1.1.2/locale/hu/LC_MESSAGES/Horde_Dav.po | 
+ | [da](/f20/language/da) | 1 | 1 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Dav/Horde_Dav-1.1.2/locale/da/LC_MESSAGES/Horde_Dav.po | 
+ | [hu](/f20/language/hu) | 1 | 1 | 100.0 | /mnt/stockage/packages/f20/php-horde-Horde-Dav/Horde_Dav-1.1.2/locale/hu/LC_MESSAGES/Horde_Dav.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package xneur (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1355 | 1355 | 100.0 | /mnt/stockage/packages/f12/xneur/po/ru.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 316 | 1355 | 23.3 | /mnt/stockage/packages/f12/xneur/po/uk.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 21 | 1355 | 1.5 | /mnt/stockage/packages/f12/xneur/po/ro.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 3 | 1355 | 0.2 | /mnt/stockage/packages/f12/xneur/po/de.po | 
+ | [ru](/f12/language/ru) | 1355 | 1355 | 100.0 | /mnt/stockage/packages/f12/xneur/po/ru.po | 
+ | [uk](/f12/language/uk) | 316 | 1355 | 23.3 | /mnt/stockage/packages/f12/xneur/po/uk.po | 
+ | [ro](/f12/language/ro) | 21 | 1355 | 1.5 | /mnt/stockage/packages/f12/xneur/po/ro.po | 
+ | [de](/f12/language/de) | 3 | 1355 | 0.2 | /mnt/stockage/packages/f12/xneur/po/de.po | 
 {.sortable}
 
 

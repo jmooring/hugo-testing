@@ -18,72 +18,72 @@ The package mingw-glib-networking (version 2.50.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f26/language/an.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/an.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ar.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/as.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/bg.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/bn_IN.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/bs.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ca.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/en_CA.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/eu.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fa.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fur.po | 
- | [gd]({{< ref "/f26/language/gd.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/gd.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/gl.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/gu.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ja.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/kk.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/km.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/kn.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/lv.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ml.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/mr.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/nl.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/oc.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/or.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sv.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/te.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/tg.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/zh_HK.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 155 | 161 | 96.3 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fi.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 72 | 86 | 83.7 | /mnt/stockage/packages/f26/mingw-glib-networking/po/eo.po | 
+ | [an](/f26/language/an) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/an.po | 
+ | [ar](/f26/language/ar) | 153 | 153 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ar.po | 
+ | [as](/f26/language/as) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/as.po | 
+ | [be](/f26/language/be) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/be.po | 
+ | [bg](/f26/language/bg) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/bg.po | 
+ | [bn_IN](/f26/language/bn_IN) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/bn_IN.po | 
+ | [bs](/f26/language/bs) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/bs.po | 
+ | [ca](/f26/language/ca) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ca.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/cs.po | 
+ | [da](/f26/language/da) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/da.po | 
+ | [de](/f26/language/de) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/de.po | 
+ | [el](/f26/language/el) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 4 | 4 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/en_CA.po | 
+ | [en_GB](/f26/language/en_GB) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/en_GB.po | 
+ | [es](/f26/language/es) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/es.po | 
+ | [et](/f26/language/et) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/et.po | 
+ | [eu](/f26/language/eu) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/eu.po | 
+ | [fa](/f26/language/fa) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fa.po | 
+ | [fr](/f26/language/fr) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fr.po | 
+ | [fur](/f26/language/fur) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fur.po | 
+ | [gd](/f26/language/gd) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/gd.po | 
+ | [gl](/f26/language/gl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/gl.po | 
+ | [gu](/f26/language/gu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/gu.po | 
+ | [he](/f26/language/he) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/he.po | 
+ | [hi](/f26/language/hi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/hi.po | 
+ | [hu](/f26/language/hu) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/hu.po | 
+ | [id](/f26/language/id) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/id.po | 
+ | [it](/f26/language/it) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/it.po | 
+ | [ja](/f26/language/ja) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ja.po | 
+ | [kk](/f26/language/kk) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/kk.po | 
+ | [km](/f26/language/km) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/km.po | 
+ | [kn](/f26/language/kn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/kn.po | 
+ | [ko](/f26/language/ko) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ko.po | 
+ | [lt](/f26/language/lt) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/lt.po | 
+ | [lv](/f26/language/lv) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/lv.po | 
+ | [ml](/f26/language/ml) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ml.po | 
+ | [mr](/f26/language/mr) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/mr.po | 
+ | [nb_NO](/f26/language/nb_NO) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/nb.po | 
+ | [nl](/f26/language/nl) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/nl.po | 
+ | [oc](/f26/language/oc) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/oc.po | 
+ | [or](/f26/language/or) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/or.po | 
+ | [pa](/f26/language/pa) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pa.po | 
+ | [pl](/f26/language/pl) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pl.po | 
+ | [pt](/f26/language/pt) | 157 | 157 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ro.po | 
+ | [ru](/f26/language/ru) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ru.po | 
+ | [sk](/f26/language/sk) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sk.po | 
+ | [sl](/f26/language/sl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sl.po | 
+ | [sr](/f26/language/sr) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/sv.po | 
+ | [ta](/f26/language/ta) | 86 | 86 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ta.po | 
+ | [te](/f26/language/te) | 153 | 153 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/te.po | 
+ | [tg](/f26/language/tg) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/tg.po | 
+ | [th](/f26/language/th) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/th.po | 
+ | [tr](/f26/language/tr) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/tr.po | 
+ | [ug](/f26/language/ug) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/ug.po | 
+ | [uk](/f26/language/uk) | 135 | 135 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/uk.po | 
+ | [vi](/f26/language/vi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 161 | 161 | 100.0 | /mnt/stockage/packages/f26/mingw-glib-networking/po/zh_HK.po | 
+ | [fi](/f26/language/fi) | 155 | 161 | 96.3 | /mnt/stockage/packages/f26/mingw-glib-networking/po/fi.po | 
+ | [eo](/f26/language/eo) | 72 | 86 | 83.7 | /mnt/stockage/packages/f26/mingw-glib-networking/po/eo.po | 
 {.sortable}
 
 

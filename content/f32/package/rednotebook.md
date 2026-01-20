@@ -18,71 +18,71 @@ The package rednotebook (version 2.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/ar.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/de.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/gl.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/hy.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/pl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/sr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/uk.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1140 | 1147 | 99.4 | /mnt/stockage/packages/f32/rednotebook/po/ja.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1126 | 1147 | 98.2 | /mnt/stockage/packages/f32/rednotebook/po/fr.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ast.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/en_GB.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ga.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/hr.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/it.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ms.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/sl.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ta.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1116 | 1147 | 97.3 | /mnt/stockage/packages/f32/rednotebook/po/es.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1109 | 1147 | 96.7 | /mnt/stockage/packages/f32/rednotebook/po/hu.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 1099 | 1147 | 95.8 | /mnt/stockage/packages/f32/rednotebook/po/ug.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 2159 | 2294 | 94.1 | /mnt/stockage/packages/f32/rednotebook/po/ru.po/mnt/stockage/packages/f32/rednotebook/po/cs.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 1060 | 1147 | 92.4 | /mnt/stockage/packages/f32/rednotebook/po/fi.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1060 | 1147 | 92.4 | /mnt/stockage/packages/f32/rednotebook/po/sv.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1034 | 1147 | 90.1 | /mnt/stockage/packages/f32/rednotebook/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1034 | 1147 | 90.1 | /mnt/stockage/packages/f32/rednotebook/po/zh_CN.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 976 | 1147 | 85.1 | /mnt/stockage/packages/f32/rednotebook/po/nl.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 940 | 1147 | 82.0 | /mnt/stockage/packages/f32/rednotebook/po/si.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 939 | 1147 | 81.9 | /mnt/stockage/packages/f32/rednotebook/po/eu.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 879 | 1147 | 76.6 | /mnt/stockage/packages/f32/rednotebook/po/ka.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 832 | 1147 | 72.5 | /mnt/stockage/packages/f32/rednotebook/po/ca.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 786 | 1147 | 68.5 | /mnt/stockage/packages/f32/rednotebook/po/zh_TW.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 780 | 1147 | 68.0 | /mnt/stockage/packages/f32/rednotebook/po/lt.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 775 | 1147 | 67.6 | /mnt/stockage/packages/f32/rednotebook/po/bs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 758 | 1147 | 66.1 | /mnt/stockage/packages/f32/rednotebook/po/da.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 660 | 1147 | 57.5 | /mnt/stockage/packages/f32/rednotebook/po/ko.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 658 | 1147 | 57.4 | /mnt/stockage/packages/f32/rednotebook/po/ro.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 619 | 1147 | 54.0 | /mnt/stockage/packages/f32/rednotebook/po/nb.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 597 | 1147 | 52.0 | /mnt/stockage/packages/f32/rednotebook/po/oc.po | 
- | [fo]({{< ref "/f32/language/fo.md" >}}) | 589 | 1147 | 51.4 | /mnt/stockage/packages/f32/rednotebook/po/fo.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 586 | 1147 | 51.1 | /mnt/stockage/packages/f32/rednotebook/po/vi.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 556 | 1147 | 48.5 | /mnt/stockage/packages/f32/rednotebook/po/ie.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 483 | 1147 | 42.1 | /mnt/stockage/packages/f32/rednotebook/po/el.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 478 | 1147 | 41.7 | /mnt/stockage/packages/f32/rednotebook/po/sk.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 278 | 1147 | 24.2 | /mnt/stockage/packages/f32/rednotebook/po/uz.po | 
- | [wae]({{< ref "/f32/language/wae.md" >}}) | 275 | 1147 | 24.0 | /mnt/stockage/packages/f32/rednotebook/po/wae.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 222 | 1147 | 19.4 | /mnt/stockage/packages/f32/rednotebook/po/bg.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 162 | 1147 | 14.1 | /mnt/stockage/packages/f32/rednotebook/po/zh_HK.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 87 | 1147 | 7.6 | /mnt/stockage/packages/f32/rednotebook/po/te.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 77 | 1147 | 6.7 | /mnt/stockage/packages/f32/rednotebook/po/be.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 77 | 1147 | 6.7 | /mnt/stockage/packages/f32/rednotebook/po/tl.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 76 | 1147 | 6.6 | /mnt/stockage/packages/f32/rednotebook/po/cy.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 71 | 1147 | 6.2 | /mnt/stockage/packages/f32/rednotebook/po/eo.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 45 | 1147 | 3.9 | /mnt/stockage/packages/f32/rednotebook/po/mn.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 23 | 1147 | 2.0 | /mnt/stockage/packages/f32/rednotebook/po/kk.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 23 | 1147 | 2.0 | /mnt/stockage/packages/f32/rednotebook/po/xh.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 5 | 1147 | 0.4 | /mnt/stockage/packages/f32/rednotebook/po/nds.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 2 | 1147 | 0.2 | /mnt/stockage/packages/f32/rednotebook/po/ky.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/ml.po | 
- | [my]({{< ref "/f32/language/my.md" >}}) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/my.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/nn.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/pt.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 0 | 1147 | 0.0 | /mnt/stockage/packages/f32/rednotebook/po/hi.po | 
+ | [ar](/f32/language/ar) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/ar.po | 
+ | [de](/f32/language/de) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/de.po | 
+ | [gl](/f32/language/gl) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/gl.po | 
+ | [hy](/f32/language/hy) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/hy.po | 
+ | [pl](/f32/language/pl) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/pl.po | 
+ | [sr](/f32/language/sr) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/sr.po | 
+ | [tr](/f32/language/tr) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/tr.po | 
+ | [uk](/f32/language/uk) | 1147 | 1147 | 100.0 | /mnt/stockage/packages/f32/rednotebook/po/uk.po | 
+ | [ja](/f32/language/ja) | 1140 | 1147 | 99.4 | /mnt/stockage/packages/f32/rednotebook/po/ja.po | 
+ | [fr](/f32/language/fr) | 1126 | 1147 | 98.2 | /mnt/stockage/packages/f32/rednotebook/po/fr.po | 
+ | [ast](/f32/language/ast) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ast.po | 
+ | [en_GB](/f32/language/en_GB) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/en_GB.po | 
+ | [ga](/f32/language/ga) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ga.po | 
+ | [he](/f32/language/he) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/he.po | 
+ | [hr](/f32/language/hr) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/hr.po | 
+ | [id](/f32/language/id) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/id.po | 
+ | [it](/f32/language/it) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/it.po | 
+ | [ms](/f32/language/ms) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ms.po | 
+ | [sl](/f32/language/sl) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/sl.po | 
+ | [ta](/f32/language/ta) | 1125 | 1147 | 98.1 | /mnt/stockage/packages/f32/rednotebook/po/ta.po | 
+ | [es](/f32/language/es) | 1116 | 1147 | 97.3 | /mnt/stockage/packages/f32/rednotebook/po/es.po | 
+ | [hu](/f32/language/hu) | 1109 | 1147 | 96.7 | /mnt/stockage/packages/f32/rednotebook/po/hu.po | 
+ | [ug](/f32/language/ug) | 1099 | 1147 | 95.8 | /mnt/stockage/packages/f32/rednotebook/po/ug.po | 
+ | [cs](/f32/language/cs) | 2159 | 2294 | 94.1 | /mnt/stockage/packages/f32/rednotebook/po/ru.po/mnt/stockage/packages/f32/rednotebook/po/cs.po | 
+ | [fi](/f32/language/fi) | 1060 | 1147 | 92.4 | /mnt/stockage/packages/f32/rednotebook/po/fi.po | 
+ | [sv](/f32/language/sv) | 1060 | 1147 | 92.4 | /mnt/stockage/packages/f32/rednotebook/po/sv.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1034 | 1147 | 90.1 | /mnt/stockage/packages/f32/rednotebook/po/pt_BR.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1034 | 1147 | 90.1 | /mnt/stockage/packages/f32/rednotebook/po/zh_CN.po | 
+ | [nl](/f32/language/nl) | 976 | 1147 | 85.1 | /mnt/stockage/packages/f32/rednotebook/po/nl.po | 
+ | [si](/f32/language/si) | 940 | 1147 | 82.0 | /mnt/stockage/packages/f32/rednotebook/po/si.po | 
+ | [eu](/f32/language/eu) | 939 | 1147 | 81.9 | /mnt/stockage/packages/f32/rednotebook/po/eu.po | 
+ | [ka](/f32/language/ka) | 879 | 1147 | 76.6 | /mnt/stockage/packages/f32/rednotebook/po/ka.po | 
+ | [ca](/f32/language/ca) | 832 | 1147 | 72.5 | /mnt/stockage/packages/f32/rednotebook/po/ca.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 786 | 1147 | 68.5 | /mnt/stockage/packages/f32/rednotebook/po/zh_TW.po | 
+ | [lt](/f32/language/lt) | 780 | 1147 | 68.0 | /mnt/stockage/packages/f32/rednotebook/po/lt.po | 
+ | [bs](/f32/language/bs) | 775 | 1147 | 67.6 | /mnt/stockage/packages/f32/rednotebook/po/bs.po | 
+ | [da](/f32/language/da) | 758 | 1147 | 66.1 | /mnt/stockage/packages/f32/rednotebook/po/da.po | 
+ | [ko](/f32/language/ko) | 660 | 1147 | 57.5 | /mnt/stockage/packages/f32/rednotebook/po/ko.po | 
+ | [ro](/f32/language/ro) | 658 | 1147 | 57.4 | /mnt/stockage/packages/f32/rednotebook/po/ro.po | 
+ | [nb_NO](/f32/language/nb_NO) | 619 | 1147 | 54.0 | /mnt/stockage/packages/f32/rednotebook/po/nb.po | 
+ | [oc](/f32/language/oc) | 597 | 1147 | 52.0 | /mnt/stockage/packages/f32/rednotebook/po/oc.po | 
+ | [fo](/f32/language/fo) | 589 | 1147 | 51.4 | /mnt/stockage/packages/f32/rednotebook/po/fo.po | 
+ | [vi](/f32/language/vi) | 586 | 1147 | 51.1 | /mnt/stockage/packages/f32/rednotebook/po/vi.po | 
+ | [ie](/f32/language/ie) | 556 | 1147 | 48.5 | /mnt/stockage/packages/f32/rednotebook/po/ie.po | 
+ | [el](/f32/language/el) | 483 | 1147 | 42.1 | /mnt/stockage/packages/f32/rednotebook/po/el.po | 
+ | [sk](/f32/language/sk) | 478 | 1147 | 41.7 | /mnt/stockage/packages/f32/rednotebook/po/sk.po | 
+ | [uz](/f32/language/uz) | 278 | 1147 | 24.2 | /mnt/stockage/packages/f32/rednotebook/po/uz.po | 
+ | [wae](/f32/language/wae) | 275 | 1147 | 24.0 | /mnt/stockage/packages/f32/rednotebook/po/wae.po | 
+ | [bg](/f32/language/bg) | 222 | 1147 | 19.4 | /mnt/stockage/packages/f32/rednotebook/po/bg.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 162 | 1147 | 14.1 | /mnt/stockage/packages/f32/rednotebook/po/zh_HK.po | 
+ | [te](/f32/language/te) | 87 | 1147 | 7.6 | /mnt/stockage/packages/f32/rednotebook/po/te.po | 
+ | [be](/f32/language/be) | 77 | 1147 | 6.7 | /mnt/stockage/packages/f32/rednotebook/po/be.po | 
+ | [tl](/f32/language/tl) | 77 | 1147 | 6.7 | /mnt/stockage/packages/f32/rednotebook/po/tl.po | 
+ | [cy](/f32/language/cy) | 76 | 1147 | 6.6 | /mnt/stockage/packages/f32/rednotebook/po/cy.po | 
+ | [eo](/f32/language/eo) | 71 | 1147 | 6.2 | /mnt/stockage/packages/f32/rednotebook/po/eo.po | 
+ | [mn](/f32/language/mn) | 45 | 1147 | 3.9 | /mnt/stockage/packages/f32/rednotebook/po/mn.po | 
+ | [kk](/f32/language/kk) | 23 | 1147 | 2.0 | /mnt/stockage/packages/f32/rednotebook/po/kk.po | 
+ | [xh](/f32/language/xh) | 23 | 1147 | 2.0 | /mnt/stockage/packages/f32/rednotebook/po/xh.po | 
+ | [nds](/f32/language/nds) | 5 | 1147 | 0.4 | /mnt/stockage/packages/f32/rednotebook/po/nds.po | 
+ | [ky](/f32/language/ky) | 2 | 1147 | 0.2 | /mnt/stockage/packages/f32/rednotebook/po/ky.po | 
+ | [ml](/f32/language/ml) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/ml.po | 
+ | [my](/f32/language/my) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/my.po | 
+ | [nn](/f32/language/nn) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/nn.po | 
+ | [pt](/f32/language/pt) | 1 | 1147 | 0.1 | /mnt/stockage/packages/f32/rednotebook/po/pt.po | 
+ | [hi](/f32/language/hi) | 0 | 1147 | 0.0 | /mnt/stockage/packages/f32/rednotebook/po/hi.po | 
 {.sortable}
 
 

@@ -18,47 +18,47 @@ The package kf5-eventviews (version 17.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/ca/libeventviews.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/ca@valencia/libeventviews.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/de/libeventviews.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/en_GB/libeventviews.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/es/libeventviews.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/fi/libeventviews.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/fr/libeventviews.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/it/libeventviews.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/nl/libeventviews.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/pl/libeventviews.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/pt/libeventviews.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/sk/libeventviews.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/sl/libeventviews.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/sv/libeventviews.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/uk/libeventviews.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/da/libeventviews.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/el/libeventviews.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/et/libeventviews.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/gl/libeventviews.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/pt_BR/libeventviews.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 2901 | 2906 | 99.8 | /mnt/stockage/packages/f27/kf5-eventviews/po/ru/libeventviews.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 2901 | 2906 | 99.8 | /mnt/stockage/packages/f27/kf5-eventviews/po/tr/libeventviews.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 2901 | 2906 | 99.8 | /mnt/stockage/packages/f27/kf5-eventviews/po/zh_TW/libeventviews.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/bs/libeventviews.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/hu/libeventviews.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/ia/libeventviews.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/kk/libeventviews.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/nb/libeventviews.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/nds/libeventviews.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 2649 | 2906 | 91.2 | /mnt/stockage/packages/f27/kf5-eventviews/po/zh_CN/libeventviews.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 2595 | 2906 | 89.3 | /mnt/stockage/packages/f27/kf5-eventviews/po/ko/libeventviews.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 1945 | 2906 | 66.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/lt/libeventviews.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 1153 | 2906 | 39.7 | /mnt/stockage/packages/f27/kf5-eventviews/po/cs/libeventviews.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 296 | 2906 | 10.2 | /mnt/stockage/packages/f27/kf5-eventviews/po/ug/libeventviews.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 288 | 2906 | 9.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/ro/libeventviews.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 113 | 2906 | 3.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/mr/libeventviews.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 73 | 2906 | 2.5 | /mnt/stockage/packages/f27/kf5-eventviews/po/ga/libeventviews.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 36 | 2906 | 1.2 | /mnt/stockage/packages/f27/kf5-eventviews/po/pa/libeventviews.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 26 | 2906 | 0.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/eo/libeventviews.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 4 | 2906 | 0.1 | /mnt/stockage/packages/f27/kf5-eventviews/po/ast/libeventviews.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 2906 | 0.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/ja/libeventviews.po | 
+ | [ca](/f27/language/ca) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/ca/libeventviews.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/ca@valencia/libeventviews.po | 
+ | [de](/f27/language/de) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/de/libeventviews.po | 
+ | [en_GB](/f27/language/en_GB) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/en_GB/libeventviews.po | 
+ | [es](/f27/language/es) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/es/libeventviews.po | 
+ | [fi](/f27/language/fi) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/fi/libeventviews.po | 
+ | [fr](/f27/language/fr) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/fr/libeventviews.po | 
+ | [it](/f27/language/it) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/it/libeventviews.po | 
+ | [nl](/f27/language/nl) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/nl/libeventviews.po | 
+ | [pl](/f27/language/pl) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/pl/libeventviews.po | 
+ | [pt](/f27/language/pt) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/pt/libeventviews.po | 
+ | [sk](/f27/language/sk) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/sk/libeventviews.po | 
+ | [sl](/f27/language/sl) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/sl/libeventviews.po | 
+ | [sv](/f27/language/sv) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/sv/libeventviews.po | 
+ | [uk](/f27/language/uk) | 2906 | 2906 | 100.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/uk/libeventviews.po | 
+ | [da](/f27/language/da) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/da/libeventviews.po | 
+ | [el](/f27/language/el) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/el/libeventviews.po | 
+ | [et](/f27/language/et) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/et/libeventviews.po | 
+ | [gl](/f27/language/gl) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/gl/libeventviews.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2903 | 2906 | 99.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/pt_BR/libeventviews.po | 
+ | [ru](/f27/language/ru) | 2901 | 2906 | 99.8 | /mnt/stockage/packages/f27/kf5-eventviews/po/ru/libeventviews.po | 
+ | [tr](/f27/language/tr) | 2901 | 2906 | 99.8 | /mnt/stockage/packages/f27/kf5-eventviews/po/tr/libeventviews.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 2901 | 2906 | 99.8 | /mnt/stockage/packages/f27/kf5-eventviews/po/zh_TW/libeventviews.po | 
+ | [bs](/f27/language/bs) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/bs/libeventviews.po | 
+ | [hu](/f27/language/hu) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/hu/libeventviews.po | 
+ | [ia](/f27/language/ia) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/ia/libeventviews.po | 
+ | [kk](/f27/language/kk) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/kk/libeventviews.po | 
+ | [nb_NO](/f27/language/nb_NO) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/nb/libeventviews.po | 
+ | [nds](/f27/language/nds) | 2890 | 2906 | 99.4 | /mnt/stockage/packages/f27/kf5-eventviews/po/nds/libeventviews.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 2649 | 2906 | 91.2 | /mnt/stockage/packages/f27/kf5-eventviews/po/zh_CN/libeventviews.po | 
+ | [ko](/f27/language/ko) | 2595 | 2906 | 89.3 | /mnt/stockage/packages/f27/kf5-eventviews/po/ko/libeventviews.po | 
+ | [lt](/f27/language/lt) | 1945 | 2906 | 66.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/lt/libeventviews.po | 
+ | [cs](/f27/language/cs) | 1153 | 2906 | 39.7 | /mnt/stockage/packages/f27/kf5-eventviews/po/cs/libeventviews.po | 
+ | [ug](/f27/language/ug) | 296 | 2906 | 10.2 | /mnt/stockage/packages/f27/kf5-eventviews/po/ug/libeventviews.po | 
+ | [ro](/f27/language/ro) | 288 | 2906 | 9.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/ro/libeventviews.po | 
+ | [mr](/f27/language/mr) | 113 | 2906 | 3.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/mr/libeventviews.po | 
+ | [ga](/f27/language/ga) | 73 | 2906 | 2.5 | /mnt/stockage/packages/f27/kf5-eventviews/po/ga/libeventviews.po | 
+ | [pa](/f27/language/pa) | 36 | 2906 | 1.2 | /mnt/stockage/packages/f27/kf5-eventviews/po/pa/libeventviews.po | 
+ | [eo](/f27/language/eo) | 26 | 2906 | 0.9 | /mnt/stockage/packages/f27/kf5-eventviews/po/eo/libeventviews.po | 
+ | [ast](/f27/language/ast) | 4 | 2906 | 0.1 | /mnt/stockage/packages/f27/kf5-eventviews/po/ast/libeventviews.po | 
+ | [ja](/f27/language/ja) | 0 | 2906 | 0.0 | /mnt/stockage/packages/f27/kf5-eventviews/po/ja/libeventviews.po | 
 {.sortable}
 
 

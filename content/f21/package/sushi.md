@@ -18,66 +18,66 @@ The package sushi (version 3.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f21/language/an.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/an.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ar.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/as.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ast.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/be.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/bg.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/bn_IN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ca.po | 
- | [ca@valencia]({{< ref "/f21/language/ca@valencia.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ca@valencia.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/el.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/en_GB.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/eo.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/es.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/et.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/eu.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fa.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fr.po | 
- | [fur]({{< ref "/f21/language/fur.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fur.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/gl.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/gu.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/he.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/hi.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ja.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/kn.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ko.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/lt.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/lv.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ml.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/mr.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/nb.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/nl.po | 
- | [or]({{< ref "/f21/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/or.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pa.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sr@latin.po/mnt/stockage/packages/f21/sushi/po/sr.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sv.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ta.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/te.po | 
- | [tg]({{< ref "/f21/language/tg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/tg.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/th.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/tr.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ug.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/uk.po | 
- | [uz]({{< ref "/f21/language/uz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/vi.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/zh_HK.po | 
+ | [an](/f21/language/an) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/an.po | 
+ | [ar](/f21/language/ar) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ar.po | 
+ | [as](/f21/language/as) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/as.po | 
+ | [ast](/f21/language/ast) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ast.po | 
+ | [be](/f21/language/be) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/be.po | 
+ | [bg](/f21/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/bg.po | 
+ | [bn](/f21/language/bn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/bn_IN.po | 
+ | [ca](/f21/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ca.po | 
+ | [ca@valencia](/f21/language/ca@valencia) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ca@valencia.po | 
+ | [cs](/f21/language/cs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/cs.po | 
+ | [da](/f21/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/da.po | 
+ | [de](/f21/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/de.po | 
+ | [el](/f21/language/el) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/el.po | 
+ | [en_GB](/f21/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/en_GB.po | 
+ | [eo](/f21/language/eo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/eo.po | 
+ | [es](/f21/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/es.po | 
+ | [et](/f21/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/et.po | 
+ | [eu](/f21/language/eu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/eu.po | 
+ | [fa](/f21/language/fa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fa.po | 
+ | [fi](/f21/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fi.po | 
+ | [fr](/f21/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fr.po | 
+ | [fur](/f21/language/fur) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/fur.po | 
+ | [gl](/f21/language/gl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/gl.po | 
+ | [gu](/f21/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/gu.po | 
+ | [he](/f21/language/he) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/he.po | 
+ | [hi](/f21/language/hi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/hi.po | 
+ | [hu](/f21/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/hu.po | 
+ | [id](/f21/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/id.po | 
+ | [it](/f21/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/it.po | 
+ | [ja](/f21/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ja.po | 
+ | [kn](/f21/language/kn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/kn.po | 
+ | [ko](/f21/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ko.po | 
+ | [lt](/f21/language/lt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/lt.po | 
+ | [lv](/f21/language/lv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/lv.po | 
+ | [ml](/f21/language/ml) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ml.po | 
+ | [mr](/f21/language/mr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/mr.po | 
+ | [nb_NO](/f21/language/nb_NO) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/nb.po | 
+ | [nl](/f21/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/nl.po | 
+ | [or](/f21/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/or.po | 
+ | [pa](/f21/language/pa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pa.po | 
+ | [pl](/f21/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pl.po | 
+ | [pt](/f21/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ru.po | 
+ | [sk](/f21/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sk.po | 
+ | [sl](/f21/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sl.po | 
+ | [sr](/f21/language/sr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sr@latin.po/mnt/stockage/packages/f21/sushi/po/sr.po | 
+ | [sv](/f21/language/sv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/sv.po | 
+ | [ta](/f21/language/ta) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ta.po | 
+ | [te](/f21/language/te) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/te.po | 
+ | [tg](/f21/language/tg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/tg.po | 
+ | [th](/f21/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/th.po | 
+ | [tr](/f21/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/tr.po | 
+ | [ug](/f21/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/ug.po | 
+ | [uk](/f21/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/uk.po | 
+ | [uz](/f21/language/uz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/uz@cyrillic.po | 
+ | [vi](/f21/language/vi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f21/sushi/po/vi.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f21/sushi/po/zh_HK.po | 
 {.sortable}
 
 

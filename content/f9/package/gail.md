@@ -18,84 +18,84 @@ The package gail (version 1.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ar.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/az.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/be.po | 
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/be@latin.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bg.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bn.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bn_IN.po | 
- | [bs]({{< ref "/f9/language/bs.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bs.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/cs.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/cy.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/dz.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/el.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/en_GB.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sr@Latn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/es.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/eu.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/fa.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/gl.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/gu.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/he.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/hi.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/hr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/hu.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/id.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ja.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ka.po | 
- | [kn]({{< ref "/f9/language/kn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/kn.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/lt.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/lv.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/mk.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ml.po | 
- | [mn]({{< ref "/f9/language/mn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/mn.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/mr.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ms.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/nb.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/nl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/nn.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/or.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sv.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ta.po | 
- | [te]({{< ref "/f9/language/te.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/te.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/th.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/vi.po | 
- | [xh]({{< ref "/f9/language/xh.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/xh.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/zh_HK.po | 
- | [as]({{< ref "/f9/language/as.md" >}}) | 168 | 170 | 98.8 | /mnt/stockage/packages/f9/gail/po/as.po | 
- | [mg]({{< ref "/f9/language/mg.md" >}}) | 166 | 170 | 97.6 | /mnt/stockage/packages/f9/gail/po/mg.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 141 | 170 | 82.9 | /mnt/stockage/packages/f9/gail/po/is.po | 
- | [tk]({{< ref "/f9/language/tk.md" >}}) | 135 | 170 | 79.4 | /mnt/stockage/packages/f9/gail/po/tk.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 102 | 170 | 60.0 | /mnt/stockage/packages/f9/gail/po/ku.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 57 | 170 | 33.5 | /mnt/stockage/packages/f9/gail/po/ga.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 57 | 170 | 33.5 | /mnt/stockage/packages/f9/gail/po/oc.po | 
- | [mi]({{< ref "/f9/language/mi.md" >}}) | 51 | 170 | 30.0 | /mnt/stockage/packages/f9/gail/po/mi.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 6 | 170 | 3.5 | /mnt/stockage/packages/f9/gail/po/rw.po | 
+ | [ar](/f9/language/ar) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ar.po | 
+ | [az](/f9/language/az) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/az.po | 
+ | [be](/f9/language/be) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/be.po | 
+ | [be_Latn](/f9/language/be_Latn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/be@latin.po | 
+ | [bg](/f9/language/bg) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bg.po | 
+ | [bn](/f9/language/bn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bn.po | 
+ | [bn_IN](/f9/language/bn_IN) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bn_IN.po | 
+ | [bs](/f9/language/bs) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/bs.po | 
+ | [ca](/f9/language/ca) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ca.po | 
+ | [cs](/f9/language/cs) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/cs.po | 
+ | [cy](/f9/language/cy) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/cy.po | 
+ | [da](/f9/language/da) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/da.po | 
+ | [de](/f9/language/de) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/de.po | 
+ | [dz](/f9/language/dz) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/dz.po | 
+ | [el](/f9/language/el) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/el.po | 
+ | [en_CA](/f9/language/en_CA) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/en_GB.po | 
+ | [error](/f9/language/error) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sr@Latn.po | 
+ | [es](/f9/language/es) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/es.po | 
+ | [et](/f9/language/et) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/et.po | 
+ | [eu](/f9/language/eu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/eu.po | 
+ | [fa](/f9/language/fa) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/fa.po | 
+ | [fi](/f9/language/fi) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/fi.po | 
+ | [fr](/f9/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/fr.po | 
+ | [gl](/f9/language/gl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/gl.po | 
+ | [gu](/f9/language/gu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/gu.po | 
+ | [he](/f9/language/he) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/he.po | 
+ | [hi](/f9/language/hi) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/hi.po | 
+ | [hr](/f9/language/hr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/hr.po | 
+ | [hu](/f9/language/hu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/hu.po | 
+ | [id](/f9/language/id) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/id.po | 
+ | [it](/f9/language/it) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/it.po | 
+ | [ja](/f9/language/ja) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ja.po | 
+ | [ka](/f9/language/ka) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ka.po | 
+ | [kn](/f9/language/kn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/kn.po | 
+ | [ko](/f9/language/ko) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ko.po | 
+ | [lt](/f9/language/lt) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/lt.po | 
+ | [lv](/f9/language/lv) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/lv.po | 
+ | [mk](/f9/language/mk) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/mk.po | 
+ | [ml](/f9/language/ml) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ml.po | 
+ | [mn](/f9/language/mn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/mn.po | 
+ | [mr](/f9/language/mr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/mr.po | 
+ | [ms](/f9/language/ms) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ms.po | 
+ | [nb_NO](/f9/language/nb_NO) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/nb.po | 
+ | [ne](/f9/language/ne) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ne.po | 
+ | [nl](/f9/language/nl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/nl.po | 
+ | [nn](/f9/language/nn) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/nn.po | 
+ | [or](/f9/language/or) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/or.po | 
+ | [pa](/f9/language/pa) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pa.po | 
+ | [pl](/f9/language/pl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pl.po | 
+ | [pt](/f9/language/pt) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ro.po | 
+ | [ru](/f9/language/ru) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ru.po | 
+ | [sk](/f9/language/sk) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sk.po | 
+ | [sl](/f9/language/sl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sl.po | 
+ | [sq](/f9/language/sq) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sq.po | 
+ | [sr](/f9/language/sr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sr.po | 
+ | [sv](/f9/language/sv) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/sv.po | 
+ | [ta](/f9/language/ta) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/ta.po | 
+ | [te](/f9/language/te) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/te.po | 
+ | [th](/f9/language/th) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/th.po | 
+ | [tr](/f9/language/tr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/tr.po | 
+ | [uk](/f9/language/uk) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/uk.po | 
+ | [vi](/f9/language/vi) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/vi.po | 
+ | [xh](/f9/language/xh) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/xh.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 170 | 170 | 100.0 | /mnt/stockage/packages/f9/gail/po/zh_HK.po | 
+ | [as](/f9/language/as) | 168 | 170 | 98.8 | /mnt/stockage/packages/f9/gail/po/as.po | 
+ | [mg](/f9/language/mg) | 166 | 170 | 97.6 | /mnt/stockage/packages/f9/gail/po/mg.po | 
+ | [is](/f9/language/is) | 141 | 170 | 82.9 | /mnt/stockage/packages/f9/gail/po/is.po | 
+ | [tk](/f9/language/tk) | 135 | 170 | 79.4 | /mnt/stockage/packages/f9/gail/po/tk.po | 
+ | [ku](/f9/language/ku) | 102 | 170 | 60.0 | /mnt/stockage/packages/f9/gail/po/ku.po | 
+ | [ga](/f9/language/ga) | 57 | 170 | 33.5 | /mnt/stockage/packages/f9/gail/po/ga.po | 
+ | [oc](/f9/language/oc) | 57 | 170 | 33.5 | /mnt/stockage/packages/f9/gail/po/oc.po | 
+ | [mi](/f9/language/mi) | 51 | 170 | 30.0 | /mnt/stockage/packages/f9/gail/po/mi.po | 
+ | [rw](/f9/language/rw) | 6 | 170 | 3.5 | /mnt/stockage/packages/f9/gail/po/rw.po | 
 {.sortable}
 
 

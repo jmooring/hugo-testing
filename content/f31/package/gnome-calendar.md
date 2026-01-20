@@ -18,63 +18,63 @@ The package gnome-calendar (version 3.34.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f31/language/af.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/af.po | 
- | [an]({{< ref "/f31/language/an.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/an.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/be.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/en_GB.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/eo.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/es.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/et.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/eu.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fa.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fur.po | 
- | [gd]({{< ref "/f31/language/gd.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/gd.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/he.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/id.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/is.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ja.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/kk.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/lt.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/lv.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ml.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/nb.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ne.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/nl.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pa.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 1324 | 1324 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sr@latin.po/mnt/stockage/packages/f31/gnome-calendar/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sv.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/tg.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/zh_TW.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 638 | 641 | 99.5 | /mnt/stockage/packages/f31/gnome-calendar/po/ca@valencia.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 649 | 661 | 98.2 | /mnt/stockage/packages/f31/gnome-calendar/po/ar.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 645 | 661 | 97.6 | /mnt/stockage/packages/f31/gnome-calendar/po/oc.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 122 | 128 | 95.3 | /mnt/stockage/packages/f31/gnome-calendar/po/zh_HK.po | 
- | [mjw]({{< ref "/f31/language/mjw.md" >}}) | 371 | 663 | 56.0 | /mnt/stockage/packages/f31/gnome-calendar/po/mjw.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 173 | 325 | 53.2 | /mnt/stockage/packages/f31/gnome-calendar/po/ga.po | 
+ | [af](/f31/language/af) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/af.po | 
+ | [an](/f31/language/an) | 224 | 224 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/an.po | 
+ | [be](/f31/language/be) | 669 | 669 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/be.po | 
+ | [bs](/f31/language/bs) | 224 | 224 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/bs.po | 
+ | [ca](/f31/language/ca) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ca.po | 
+ | [cs](/f31/language/cs) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/cs.po | 
+ | [da](/f31/language/da) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/da.po | 
+ | [de](/f31/language/de) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/de.po | 
+ | [el](/f31/language/el) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/en_GB.po | 
+ | [eo](/f31/language/eo) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/eo.po | 
+ | [es](/f31/language/es) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/es.po | 
+ | [et](/f31/language/et) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/et.po | 
+ | [eu](/f31/language/eu) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/eu.po | 
+ | [fa](/f31/language/fa) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fa.po | 
+ | [fi](/f31/language/fi) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fi.po | 
+ | [fr](/f31/language/fr) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fr.po | 
+ | [fur](/f31/language/fur) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/fur.po | 
+ | [gd](/f31/language/gd) | 661 | 661 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/gd.po | 
+ | [gl](/f31/language/gl) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/gl.po | 
+ | [he](/f31/language/he) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/he.po | 
+ | [hr](/f31/language/hr) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/hr.po | 
+ | [hu](/f31/language/hu) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/hu.po | 
+ | [id](/f31/language/id) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/id.po | 
+ | [is](/f31/language/is) | 665 | 665 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/is.po | 
+ | [it](/f31/language/it) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/it.po | 
+ | [ja](/f31/language/ja) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ja.po | 
+ | [kk](/f31/language/kk) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/kk.po | 
+ | [ko](/f31/language/ko) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ko.po | 
+ | [lt](/f31/language/lt) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/lt.po | 
+ | [lv](/f31/language/lv) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/lv.po | 
+ | [ml](/f31/language/ml) | 669 | 669 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ml.po | 
+ | [nb_NO](/f31/language/nb_NO) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/nb.po | 
+ | [ne](/f31/language/ne) | 641 | 641 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ne.po | 
+ | [nl](/f31/language/nl) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/nl.po | 
+ | [pa](/f31/language/pa) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pa.po | 
+ | [pl](/f31/language/pl) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pl.po | 
+ | [pt](/f31/language/pt) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 666 | 666 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ro.po | 
+ | [ru](/f31/language/ru) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/ru.po | 
+ | [sk](/f31/language/sk) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sk.po | 
+ | [sl](/f31/language/sl) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sl.po | 
+ | [sr](/f31/language/sr) | 1324 | 1324 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sr@latin.po/mnt/stockage/packages/f31/gnome-calendar/po/sr.po | 
+ | [sv](/f31/language/sv) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/sv.po | 
+ | [tg](/f31/language/tg) | 342 | 342 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/tg.po | 
+ | [th](/f31/language/th) | 424 | 424 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/th.po | 
+ | [tr](/f31/language/tr) | 663 | 663 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/tr.po | 
+ | [uk](/f31/language/uk) | 432 | 432 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 669 | 669 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 668 | 668 | 100.0 | /mnt/stockage/packages/f31/gnome-calendar/po/zh_TW.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 638 | 641 | 99.5 | /mnt/stockage/packages/f31/gnome-calendar/po/ca@valencia.po | 
+ | [ar](/f31/language/ar) | 649 | 661 | 98.2 | /mnt/stockage/packages/f31/gnome-calendar/po/ar.po | 
+ | [oc](/f31/language/oc) | 645 | 661 | 97.6 | /mnt/stockage/packages/f31/gnome-calendar/po/oc.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 122 | 128 | 95.3 | /mnt/stockage/packages/f31/gnome-calendar/po/zh_HK.po | 
+ | [mjw](/f31/language/mjw) | 371 | 663 | 56.0 | /mnt/stockage/packages/f31/gnome-calendar/po/mjw.po | 
+ | [ga](/f31/language/ga) | 173 | 325 | 53.2 | /mnt/stockage/packages/f31/gnome-calendar/po/ga.po | 
 {.sortable}
 
 

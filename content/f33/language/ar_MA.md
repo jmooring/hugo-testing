@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tilix]({{< ref "/f33/package/tilix.md" >}}) | 83 | 2108 | 3.9 | Arabic (Morocco) <https://hosted.weblate.org/projects/tilix/translations/ar_MA/> | 
+ | [tilix](/f33/package/tilix) | 83 | 2108 | 3.9 | Arabic (Morocco) <https://hosted.weblate.org/projects/tilix/translations/ar_MA/> | 
 {.sortable}
 
 

@@ -18,38 +18,38 @@ The package meego-panel-people (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ar.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ast.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ca@valencia.po/mnt/stockage/packages/f15/meego-panel-people/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/eu.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/fa.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ko.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/nl.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/sk.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/sv.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/th.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/uk.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/wa.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/zh_TW.po | 
+ | [ar](/f15/language/ar) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ar.po | 
+ | [ast](/f15/language/ast) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ast.po | 
+ | [ca](/f15/language/ca) | 178 | 178 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ca@valencia.po/mnt/stockage/packages/f15/meego-panel-people/po/ca.po | 
+ | [cs](/f15/language/cs) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/cs.po | 
+ | [da](/f15/language/da) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/da.po | 
+ | [de](/f15/language/de) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/en_GB.po | 
+ | [es](/f15/language/es) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/es.po | 
+ | [eu](/f15/language/eu) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/eu.po | 
+ | [fa](/f15/language/fa) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/fa.po | 
+ | [fi](/f15/language/fi) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/fi.po | 
+ | [fr](/f15/language/fr) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/fr.po | 
+ | [gl](/f15/language/gl) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/gl.po | 
+ | [hu](/f15/language/hu) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/hu.po | 
+ | [id](/f15/language/id) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/id.po | 
+ | [it](/f15/language/it) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/it.po | 
+ | [ja](/f15/language/ja) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ja.po | 
+ | [ko](/f15/language/ko) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ko.po | 
+ | [nl](/f15/language/nl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/nl.po | 
+ | [pa](/f15/language/pa) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/pa.po | 
+ | [pl](/f15/language/pl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 44 | 44 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ro.po | 
+ | [ru](/f15/language/ru) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/ru.po | 
+ | [sk](/f15/language/sk) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/sk.po | 
+ | [sv](/f15/language/sv) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/sv.po | 
+ | [th](/f15/language/th) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/th.po | 
+ | [tr](/f15/language/tr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/tr.po | 
+ | [uk](/f15/language/uk) | 68 | 68 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/uk.po | 
+ | [wa](/f15/language/wa) | 89 | 89 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/wa.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 75 | 75 | 100.0 | /mnt/stockage/packages/f15/meego-panel-people/po/zh_TW.po | 
 {.sortable}
 
 

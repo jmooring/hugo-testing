@@ -18,81 +18,81 @@ The package pessulus (version 2.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/as.po | 
- | [bal]({{< ref "/f12/language/bal.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bal.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/be.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/be@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bg.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ca.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ca@valencia.po | 
- | [crh]({{< ref "/f12/language/crh.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/crh.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/cs.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/cy.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/de.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/dz.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/gu.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/he.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/hi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ja.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ka.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ko.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/lv.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/mk.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ml.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/mn.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nb.po | 
- | [nds]({{< ref "/f12/language/nds.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nds.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ne.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nl.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nn.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/oc.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/zh_HK.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 124 | 130 | 95.4 | /mnt/stockage/packages/f12/pessulus/po/ast.po | 
- | [ps]({{< ref "/f12/language/ps.md" >}}) | 88 | 124 | 71.0 | /mnt/stockage/packages/f12/pessulus/po/ps.po | 
- | [br]({{< ref "/f12/language/br.md" >}}) | 86 | 130 | 66.2 | /mnt/stockage/packages/f12/pessulus/po/br.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 86 | 130 | 66.2 | /mnt/stockage/packages/f12/pessulus/po/mai.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 84 | 130 | 64.6 | /mnt/stockage/packages/f12/pessulus/po/id.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 66 | 124 | 53.2 | /mnt/stockage/packages/f12/pessulus/po/si.po | 
- | [ku]({{< ref "/f12/language/ku.md" >}}) | 9 | 88 | 10.2 | /mnt/stockage/packages/f12/pessulus/po/ku.po | 
+ | [ar](/f12/language/ar) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ar.po | 
+ | [as](/f12/language/as) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/as.po | 
+ | [bal](/f12/language/bal) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bal.po | 
+ | [be](/f12/language/be) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/be.po | 
+ | [be_Latn](/f12/language/be_Latn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/be@latin.po | 
+ | [bg](/f12/language/bg) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bg.po | 
+ | [bn](/f12/language/bn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ca.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ca@valencia.po | 
+ | [crh](/f12/language/crh) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/crh.po | 
+ | [cs](/f12/language/cs) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/cs.po | 
+ | [cy](/f12/language/cy) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/cy.po | 
+ | [da](/f12/language/da) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/da.po | 
+ | [de](/f12/language/de) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/de.po | 
+ | [dz](/f12/language/dz) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/dz.po | 
+ | [el](/f12/language/el) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/en_GB.po | 
+ | [es](/f12/language/es) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/es.po | 
+ | [et](/f12/language/et) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/et.po | 
+ | [eu](/f12/language/eu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/eu.po | 
+ | [fi](/f12/language/fi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/fi.po | 
+ | [fr](/f12/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/fr.po | 
+ | [gl](/f12/language/gl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/gl.po | 
+ | [gu](/f12/language/gu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/gu.po | 
+ | [he](/f12/language/he) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/he.po | 
+ | [hi](/f12/language/hi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/hi.po | 
+ | [hu](/f12/language/hu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/hu.po | 
+ | [it](/f12/language/it) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/it.po | 
+ | [ja](/f12/language/ja) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ja.po | 
+ | [ka](/f12/language/ka) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ka.po | 
+ | [kn](/f12/language/kn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/kn.po | 
+ | [ko](/f12/language/ko) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ko.po | 
+ | [lt](/f12/language/lt) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/lt.po | 
+ | [lv](/f12/language/lv) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/lv.po | 
+ | [mk](/f12/language/mk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/mk.po | 
+ | [ml](/f12/language/ml) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ml.po | 
+ | [mn](/f12/language/mn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/mn.po | 
+ | [mr](/f12/language/mr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nb.po | 
+ | [nds](/f12/language/nds) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nds.po | 
+ | [ne](/f12/language/ne) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ne.po | 
+ | [nl](/f12/language/nl) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nl.po | 
+ | [nn](/f12/language/nn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/nn.po | 
+ | [oc](/f12/language/oc) | 88 | 88 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/oc.po | 
+ | [or](/f12/language/or) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/or.po | 
+ | [pa](/f12/language/pa) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pa.po | 
+ | [pl](/f12/language/pl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pl.po | 
+ | [pt](/f12/language/pt) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ro.po | 
+ | [ru](/f12/language/ru) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ru.po | 
+ | [sk](/f12/language/sk) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sk.po | 
+ | [sl](/f12/language/sl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sl.po | 
+ | [sq](/f12/language/sq) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sq.po | 
+ | [sr](/f12/language/sr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/sv.po | 
+ | [ta](/f12/language/ta) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/ta.po | 
+ | [te](/f12/language/te) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/te.po | 
+ | [th](/f12/language/th) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/th.po | 
+ | [tr](/f12/language/tr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/tr.po | 
+ | [uk](/f12/language/uk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/uk.po | 
+ | [vi](/f12/language/vi) | 124 | 124 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 130 | 130 | 100.0 | /mnt/stockage/packages/f12/pessulus/po/zh_HK.po | 
+ | [ast](/f12/language/ast) | 124 | 130 | 95.4 | /mnt/stockage/packages/f12/pessulus/po/ast.po | 
+ | [ps](/f12/language/ps) | 88 | 124 | 71.0 | /mnt/stockage/packages/f12/pessulus/po/ps.po | 
+ | [br](/f12/language/br) | 86 | 130 | 66.2 | /mnt/stockage/packages/f12/pessulus/po/br.po | 
+ | [mai](/f12/language/mai) | 86 | 130 | 66.2 | /mnt/stockage/packages/f12/pessulus/po/mai.po | 
+ | [id](/f12/language/id) | 84 | 130 | 64.6 | /mnt/stockage/packages/f12/pessulus/po/id.po | 
+ | [si](/f12/language/si) | 66 | 124 | 53.2 | /mnt/stockage/packages/f12/pessulus/po/si.po | 
+ | [ku](/f12/language/ku) | 9 | 88 | 10.2 | /mnt/stockage/packages/f12/pessulus/po/ku.po | 
 {.sortable}
 
 

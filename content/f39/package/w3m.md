@@ -18,12 +18,12 @@ The package w3m (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 952 | 959 | 99.3 | /mnt/stockage/packages/f39/w3m/po/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 952 | 959 | 99.3 | /mnt/stockage/packages/f39/w3m/po/it.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 952 | 959 | 99.3 | /mnt/stockage/packages/f39/w3m/po/sv_SE.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 949 | 959 | 99.0 | /mnt/stockage/packages/f39/w3m/po/ja.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 906 | 959 | 94.5 | /mnt/stockage/packages/f39/w3m/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 902 | 959 | 94.1 | /mnt/stockage/packages/f39/w3m/po/zh_CN.po | 
+ | [de](/f39/language/de) | 952 | 959 | 99.3 | /mnt/stockage/packages/f39/w3m/po/de.po | 
+ | [it](/f39/language/it) | 952 | 959 | 99.3 | /mnt/stockage/packages/f39/w3m/po/it.po | 
+ | [sv](/f39/language/sv) | 952 | 959 | 99.3 | /mnt/stockage/packages/f39/w3m/po/sv_SE.po | 
+ | [ja](/f39/language/ja) | 949 | 959 | 99.0 | /mnt/stockage/packages/f39/w3m/po/ja.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 906 | 959 | 94.5 | /mnt/stockage/packages/f39/w3m/po/zh_TW.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 902 | 959 | 94.1 | /mnt/stockage/packages/f39/w3m/po/zh_CN.po | 
 {.sortable}
 
 

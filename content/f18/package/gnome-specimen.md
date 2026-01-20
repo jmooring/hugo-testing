@@ -18,26 +18,26 @@ The package gnome-specimen (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/ar.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/fr.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/ja.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/nb.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/ru.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/vi.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/ca.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/it.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/pt.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/sv.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 27 | 56 | 48.2 | /mnt/stockage/packages/f18/gnome-specimen/po/zh_CN.po | 
+ | [ar](/f18/language/ar) | 62 | 62 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/ar.po | 
+ | [cs](/f18/language/cs) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/cs.po | 
+ | [de](/f18/language/de) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/de.po | 
+ | [el](/f18/language/el) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/en_GB.po | 
+ | [es](/f18/language/es) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/es.po | 
+ | [fi](/f18/language/fi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/fi.po | 
+ | [fr](/f18/language/fr) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/fr.po | 
+ | [ja](/f18/language/ja) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/ja.po | 
+ | [nb_NO](/f18/language/nb_NO) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/nb.po | 
+ | [nl](/f18/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/nl.po | 
+ | [pl](/f18/language/pl) | 62 | 62 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 62 | 62 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/ru.po | 
+ | [vi](/f18/language/vi) | 56 | 56 | 100.0 | /mnt/stockage/packages/f18/gnome-specimen/po/vi.po | 
+ | [ca](/f18/language/ca) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/ca.po | 
+ | [it](/f18/language/it) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/it.po | 
+ | [pt](/f18/language/pt) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/pt.po | 
+ | [sv](/f18/language/sv) | 29 | 56 | 51.8 | /mnt/stockage/packages/f18/gnome-specimen/po/sv.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 27 | 56 | 48.2 | /mnt/stockage/packages/f18/gnome-specimen/po/zh_CN.po | 
 {.sortable}
 
 

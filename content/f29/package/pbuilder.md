@@ -18,27 +18,27 @@ The package pbuilder (version 0.229.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 6633 | 6633 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/de.po/mnt/stockage/packages/f29/pbuilder/Documentation/pbuilder-doc.de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/es.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/fi.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/gl.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/it.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/nl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/tr.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2662 | 6633 | 40.1 | /mnt/stockage/packages/f29/pbuilder/debian/po/fr.po/mnt/stockage/packages/f29/pbuilder/Documentation/pbuilder-doc.fr.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1177 | 6633 | 17.7 | /mnt/stockage/packages/f29/pbuilder/debian/po/ja.po/mnt/stockage/packages/f29/pbuilder/Documentation/pbuilder-doc.ja.po | 
+ | [ca](/f29/language/ca) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/ca.po | 
+ | [cs](/f29/language/cs) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/cs.po | 
+ | [da](/f29/language/da) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/da.po | 
+ | [de](/f29/language/de) | 6633 | 6633 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/de.po/mnt/stockage/packages/f29/pbuilder/Documentation/pbuilder-doc.de.po | 
+ | [es](/f29/language/es) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/es.po | 
+ | [eu](/f29/language/eu) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/eu.po | 
+ | [fi](/f29/language/fi) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/fi.po | 
+ | [gl](/f29/language/gl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/gl.po | 
+ | [it](/f29/language/it) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/it.po | 
+ | [nl](/f29/language/nl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/nl.po | 
+ | [pt](/f29/language/pt) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/ro.po | 
+ | [ru](/f29/language/ru) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/ru.po | 
+ | [sk](/f29/language/sk) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sk.po | 
+ | [sr](/f29/language/sr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/sv.po | 
+ | [tr](/f29/language/tr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f29/pbuilder/debian/po/tr.po | 
+ | [fr](/f29/language/fr) | 2662 | 6633 | 40.1 | /mnt/stockage/packages/f29/pbuilder/debian/po/fr.po/mnt/stockage/packages/f29/pbuilder/Documentation/pbuilder-doc.fr.po | 
+ | [ja](/f29/language/ja) | 1177 | 6633 | 17.7 | /mnt/stockage/packages/f29/pbuilder/debian/po/ja.po/mnt/stockage/packages/f29/pbuilder/Documentation/pbuilder-doc.ja.po | 
 {.sortable}
 
 

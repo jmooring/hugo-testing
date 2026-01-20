@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f34/package/anaconda.md" >}}) | 0 | 7147 | 0.0 | Angika | 
- | [entangle]({{< ref "/f34/package/entangle.md" >}}) | 0 | 953 | 0.0 | Angika | 
- | [fonts-tweak-tool]({{< ref "/f34/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f34/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [mingw-libvirt-glib]({{< ref "/f34/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f34/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f34/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
+ | [anaconda](/f34/package/anaconda) | 0 | 7147 | 0.0 | Angika | 
+ | [entangle](/f34/package/entangle) | 0 | 953 | 0.0 | Angika | 
+ | [fonts-tweak-tool](/f34/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Angika | 
+ | [initial-setup](/f34/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [mingw-libvirt-glib](/f34/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Angika | 
+ | [python-fedora](/f34/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f34/package/python-meh) | 0 | 109 | 0.0 | Angika | 
 {.sortable}
 
 

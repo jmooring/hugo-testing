@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [findutils]({{< ref "/f8/package/findutils.md" >}}) | 213 | 1252 | 17.0 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [findutils](/f8/package/findutils) | 213 | 1252 | 17.0 | Luganda <kompyuta@kizito.freeuk.com> | 
 {.sortable}
 
 

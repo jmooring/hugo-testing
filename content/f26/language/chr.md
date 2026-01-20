@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 3 | 850 | 0.4 | Cherokee <chr@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 3 | 855 | 0.4 | Cherokee <chr@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 3 | 850 | 0.4 | Cherokee <chr@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 3 | 855 | 0.4 | Cherokee <chr@li.org> | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package kdevelop-php (version 1.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/ca/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/ca/kdevphpdocs.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/en_GB/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/en_GB/kdevphpdocs.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/es/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/es/kdevphpdocs.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/et/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/et/kdevphpdocs.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/fi/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/fi/kdevphpdocs.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/hu/kdevphpdocs.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/it/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/it/kdevphpdocs.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/nb/kdevphpdocs.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/nds/kdevphpdocs.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/nl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/nl/kdevphpdocs.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/pl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/pl/kdevphpdocs.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/pt/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/pt/kdevphpdocs.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/pt_BR/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/pt_BR/kdevphpdocs.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/sk/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/sk/kdevphpdocs.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/sl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/sl/kdevphpdocs.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/sv/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/sv/kdevphpdocs.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/tr/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/tr/kdevphpdocs.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/uk/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/uk/kdevphpdocs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 452 | 456 | 99.1 | /mnt/stockage/packages/f20/kdevelop-php/po/de/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/de/kdevphpdocs.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 447 | 456 | 98.0 | /mnt/stockage/packages/f20/kdevelop-php/po/fr/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/fr/kdevphpdocs.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/bs/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/bs/kdevphpdocs.po | 
- | [ca@valencia]({{< ref "/f20/language/ca@valencia.md" >}}) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/ca@valencia/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/ca@valencia/kdevphpdocs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/da/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/da/kdevphpdocs.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/gl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/gl/kdevphpdocs.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/kk/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/kk/kdevphpdocs.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/zh_TW/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/zh_TW/kdevphpdocs.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 371 | 456 | 81.4 | /mnt/stockage/packages/f20/kdevelop-php/po/el/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/el/kdevphpdocs.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 371 | 456 | 81.4 | /mnt/stockage/packages/f20/kdevelop-php/po/ru/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/ru/kdevphpdocs.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 275 | 456 | 60.3 | /mnt/stockage/packages/f20/kdevelop-php/po/zh_CN/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/zh_CN/kdevphpdocs.po | 
+ | [ca](/f20/language/ca) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/ca/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/ca/kdevphpdocs.po | 
+ | [en_GB](/f20/language/en_GB) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/en_GB/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/en_GB/kdevphpdocs.po | 
+ | [es](/f20/language/es) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/es/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/es/kdevphpdocs.po | 
+ | [et](/f20/language/et) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/et/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/et/kdevphpdocs.po | 
+ | [fi](/f20/language/fi) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/fi/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/fi/kdevphpdocs.po | 
+ | [hu](/f20/language/hu) | 127 | 127 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/hu/kdevphpdocs.po | 
+ | [it](/f20/language/it) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/it/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/it/kdevphpdocs.po | 
+ | [nb_NO](/f20/language/nb_NO) | 127 | 127 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/nb/kdevphpdocs.po | 
+ | [nds](/f20/language/nds) | 127 | 127 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/nds/kdevphpdocs.po | 
+ | [nl](/f20/language/nl) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/nl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/nl/kdevphpdocs.po | 
+ | [pl](/f20/language/pl) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/pl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/pl/kdevphpdocs.po | 
+ | [pt](/f20/language/pt) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/pt/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/pt/kdevphpdocs.po | 
+ | [pt_BR](/f20/language/pt_BR) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/pt_BR/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/pt_BR/kdevphpdocs.po | 
+ | [sk](/f20/language/sk) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/sk/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/sk/kdevphpdocs.po | 
+ | [sl](/f20/language/sl) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/sl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/sl/kdevphpdocs.po | 
+ | [sv](/f20/language/sv) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/sv/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/sv/kdevphpdocs.po | 
+ | [tr](/f20/language/tr) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/tr/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/tr/kdevphpdocs.po | 
+ | [uk](/f20/language/uk) | 456 | 456 | 100.0 | /mnt/stockage/packages/f20/kdevelop-php/po/uk/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/uk/kdevphpdocs.po | 
+ | [de](/f20/language/de) | 452 | 456 | 99.1 | /mnt/stockage/packages/f20/kdevelop-php/po/de/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/de/kdevphpdocs.po | 
+ | [fr](/f20/language/fr) | 447 | 456 | 98.0 | /mnt/stockage/packages/f20/kdevelop-php/po/fr/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/fr/kdevphpdocs.po | 
+ | [bs](/f20/language/bs) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/bs/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/bs/kdevphpdocs.po | 
+ | [ca@valencia](/f20/language/ca@valencia) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/ca@valencia/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/ca@valencia/kdevphpdocs.po | 
+ | [da](/f20/language/da) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/da/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/da/kdevphpdocs.po | 
+ | [gl](/f20/language/gl) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/gl/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/gl/kdevphpdocs.po | 
+ | [kk](/f20/language/kk) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/kk/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/kk/kdevphpdocs.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 375 | 456 | 82.2 | /mnt/stockage/packages/f20/kdevelop-php/po/zh_TW/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/zh_TW/kdevphpdocs.po | 
+ | [el](/f20/language/el) | 371 | 456 | 81.4 | /mnt/stockage/packages/f20/kdevelop-php/po/el/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/el/kdevphpdocs.po | 
+ | [ru](/f20/language/ru) | 371 | 456 | 81.4 | /mnt/stockage/packages/f20/kdevelop-php/po/ru/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/ru/kdevphpdocs.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 275 | 456 | 60.3 | /mnt/stockage/packages/f20/kdevelop-php/po/zh_CN/kdevphp.po/mnt/stockage/packages/f20/kdevelop-php/po/zh_CN/kdevphpdocs.po | 
 {.sortable}
 
 

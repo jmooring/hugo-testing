@@ -18,69 +18,69 @@ The package system-config-httpd (version 1.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ar.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/as.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/bg.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/bn_IN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/de.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/en_GB.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/es.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/fr.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/gu.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/hi.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/hr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/id.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/is.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ja.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/kn.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ml.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/mr.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ms.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/nb.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/nl.po | 
- | [or]({{< ref "/f21/language/or.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/or.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pa.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pt_BR.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ro.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sr.po | 
- | [sr_Latn]({{< ref "/f21/language/sr_Latn.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sr@latin.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sv.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ta.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/te.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/zh_TW.po/mnt/stockage/packages/f21/system-config-httpd/po/ko.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/bn.po | 
- | [cy]({{< ref "/f21/language/cy.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/cy.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/et.po | 
- | [hy]({{< ref "/f21/language/hy.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/hy.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/mk.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/ur.po | 
- | [ka]({{< ref "/f21/language/ka.md" >}}) | 790 | 858 | 92.1 | /mnt/stockage/packages/f21/system-config-httpd/po/ka.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 725 | 858 | 84.5 | /mnt/stockage/packages/f21/system-config-httpd/po/vi.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 674 | 858 | 78.6 | /mnt/stockage/packages/f21/system-config-httpd/po/gl.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 670 | 858 | 78.1 | /mnt/stockage/packages/f21/system-config-httpd/po/fa.po | 
- | [si]({{< ref "/f21/language/si.md" >}}) | 134 | 858 | 15.6 | /mnt/stockage/packages/f21/system-config-httpd/po/si.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 115 | 858 | 13.4 | /mnt/stockage/packages/f21/system-config-httpd/po/el.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 39 | 858 | 4.5 | /mnt/stockage/packages/f21/system-config-httpd/po/nn.po | 
- | [wa]({{< ref "/f21/language/wa.md" >}}) | 2 | 858 | 0.2 | /mnt/stockage/packages/f21/system-config-httpd/po/wa.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/he.po | 
- | [ku]({{< ref "/f21/language/ku.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ku.po | 
- | [lo]({{< ref "/f21/language/lo.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/lo.po | 
- | [my]({{< ref "/f21/language/my.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/my.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sq.po | 
+ | [ar](/f21/language/ar) | 867 | 867 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ar.po | 
+ | [as](/f21/language/as) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/as.po | 
+ | [bg](/f21/language/bg) | 866 | 866 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/bg.po | 
+ | [bn_IN](/f21/language/bn_IN) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/bn_IN.po | 
+ | [ca](/f21/language/ca) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ca.po | 
+ | [cs](/f21/language/cs) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/cs.po | 
+ | [da](/f21/language/da) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/da.po | 
+ | [de](/f21/language/de) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/de.po | 
+ | [en_GB](/f21/language/en_GB) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/en_GB.po | 
+ | [es](/f21/language/es) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/es.po | 
+ | [fi](/f21/language/fi) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/fi.po | 
+ | [fr](/f21/language/fr) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/fr.po | 
+ | [gu](/f21/language/gu) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/gu.po | 
+ | [hi](/f21/language/hi) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/hi.po | 
+ | [hr](/f21/language/hr) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/hr.po | 
+ | [hu](/f21/language/hu) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/hu.po | 
+ | [id](/f21/language/id) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/id.po | 
+ | [is](/f21/language/is) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/is.po | 
+ | [it](/f21/language/it) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/it.po | 
+ | [ja](/f21/language/ja) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ja.po | 
+ | [kn](/f21/language/kn) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/kn.po | 
+ | [ml](/f21/language/ml) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ml.po | 
+ | [mr](/f21/language/mr) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/mr.po | 
+ | [ms](/f21/language/ms) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ms.po | 
+ | [nb_NO](/f21/language/nb_NO) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/nb.po | 
+ | [nl](/f21/language/nl) | 867 | 867 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/nl.po | 
+ | [or](/f21/language/or) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/or.po | 
+ | [pa](/f21/language/pa) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pa.po | 
+ | [pl](/f21/language/pl) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pl.po | 
+ | [pt](/f21/language/pt) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/pt_BR.po | 
+ | [ro](/f21/language/ro) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ro.po | 
+ | [ru](/f21/language/ru) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ru.po | 
+ | [sk](/f21/language/sk) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sk.po | 
+ | [sl](/f21/language/sl) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sl.po | 
+ | [sr](/f21/language/sr) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sr.po | 
+ | [sr_Latn](/f21/language/sr_Latn) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sr@latin.po | 
+ | [sv](/f21/language/sv) | 867 | 867 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sv.po | 
+ | [ta](/f21/language/ta) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ta.po | 
+ | [te](/f21/language/te) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/te.po | 
+ | [tr](/f21/language/tr) | 858 | 858 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/tr.po | 
+ | [uk](/f21/language/uk) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 877 | 877 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f21/system-config-httpd/po/zh_TW.po/mnt/stockage/packages/f21/system-config-httpd/po/ko.po | 
+ | [bn](/f21/language/bn) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/bn.po | 
+ | [cy](/f21/language/cy) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/cy.po | 
+ | [et](/f21/language/et) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/et.po | 
+ | [hy](/f21/language/hy) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/hy.po | 
+ | [mk](/f21/language/mk) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/mk.po | 
+ | [ur](/f21/language/ur) | 816 | 858 | 95.1 | /mnt/stockage/packages/f21/system-config-httpd/po/ur.po | 
+ | [ka](/f21/language/ka) | 790 | 858 | 92.1 | /mnt/stockage/packages/f21/system-config-httpd/po/ka.po | 
+ | [vi](/f21/language/vi) | 725 | 858 | 84.5 | /mnt/stockage/packages/f21/system-config-httpd/po/vi.po | 
+ | [gl](/f21/language/gl) | 674 | 858 | 78.6 | /mnt/stockage/packages/f21/system-config-httpd/po/gl.po | 
+ | [fa](/f21/language/fa) | 670 | 858 | 78.1 | /mnt/stockage/packages/f21/system-config-httpd/po/fa.po | 
+ | [si](/f21/language/si) | 134 | 858 | 15.6 | /mnt/stockage/packages/f21/system-config-httpd/po/si.po | 
+ | [el](/f21/language/el) | 115 | 858 | 13.4 | /mnt/stockage/packages/f21/system-config-httpd/po/el.po | 
+ | [nn](/f21/language/nn) | 39 | 858 | 4.5 | /mnt/stockage/packages/f21/system-config-httpd/po/nn.po | 
+ | [wa](/f21/language/wa) | 2 | 858 | 0.2 | /mnt/stockage/packages/f21/system-config-httpd/po/wa.po | 
+ | [he](/f21/language/he) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/he.po | 
+ | [ku](/f21/language/ku) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/ku.po | 
+ | [lo](/f21/language/lo) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/lo.po | 
+ | [my](/f21/language/my) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/my.po | 
+ | [sq](/f21/language/sq) | 0 | 858 | 0.0 | /mnt/stockage/packages/f21/system-config-httpd/po/sq.po | 
 {.sortable}
 
 

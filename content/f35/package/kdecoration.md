@@ -18,43 +18,43 @@ The package kdecoration (version 5.25.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f35/language/az.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/az/kdecoration.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/bg/kdecoration.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ca/kdecoration.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ca@valencia/kdecoration.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/cs/kdecoration.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/de/kdecoration.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/el/kdecoration.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/en_GB/kdecoration.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/es/kdecoration.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/eu/kdecoration.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/fi/kdecoration.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/fr/kdecoration.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/hi/kdecoration.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/hu/kdecoration.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ia/kdecoration.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/id/kdecoration.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/it/kdecoration.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ko/kdecoration.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/lt/kdecoration.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/nl/kdecoration.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/nn/kdecoration.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/pl/kdecoration.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/pt/kdecoration.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/pt_BR/kdecoration.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ro/kdecoration.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ru/kdecoration.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/sk/kdecoration.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/sl/kdecoration.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/sv/kdecoration.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/tr/kdecoration.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/uk/kdecoration.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/zh_CN/kdecoration.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/da/kdecoration.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/et/kdecoration.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/gl/kdecoration.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/ja/kdecoration.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/zh_TW/kdecoration.po | 
+ | [az](/f35/language/az) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/az/kdecoration.po | 
+ | [bg](/f35/language/bg) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/bg/kdecoration.po | 
+ | [ca](/f35/language/ca) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ca/kdecoration.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ca@valencia/kdecoration.po | 
+ | [cs](/f35/language/cs) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/cs/kdecoration.po | 
+ | [de](/f35/language/de) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/de/kdecoration.po | 
+ | [el](/f35/language/el) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/el/kdecoration.po | 
+ | [en_GB](/f35/language/en_GB) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/en_GB/kdecoration.po | 
+ | [es](/f35/language/es) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/es/kdecoration.po | 
+ | [eu](/f35/language/eu) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/eu/kdecoration.po | 
+ | [fi](/f35/language/fi) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/fi/kdecoration.po | 
+ | [fr](/f35/language/fr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/fr/kdecoration.po | 
+ | [hi](/f35/language/hi) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/hi/kdecoration.po | 
+ | [hu](/f35/language/hu) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/hu/kdecoration.po | 
+ | [ia](/f35/language/ia) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ia/kdecoration.po | 
+ | [id](/f35/language/id) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/id/kdecoration.po | 
+ | [it](/f35/language/it) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/it/kdecoration.po | 
+ | [ko](/f35/language/ko) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ko/kdecoration.po | 
+ | [lt](/f35/language/lt) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/lt/kdecoration.po | 
+ | [nl](/f35/language/nl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/nl/kdecoration.po | 
+ | [nn](/f35/language/nn) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/nn/kdecoration.po | 
+ | [pl](/f35/language/pl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/pl/kdecoration.po | 
+ | [pt](/f35/language/pt) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/pt/kdecoration.po | 
+ | [pt_BR](/f35/language/pt_BR) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/pt_BR/kdecoration.po | 
+ | [ro](/f35/language/ro) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ro/kdecoration.po | 
+ | [ru](/f35/language/ru) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/ru/kdecoration.po | 
+ | [sk](/f35/language/sk) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/sk/kdecoration.po | 
+ | [sl](/f35/language/sl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/sl/kdecoration.po | 
+ | [sv](/f35/language/sv) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/sv/kdecoration.po | 
+ | [tr](/f35/language/tr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/tr/kdecoration.po | 
+ | [uk](/f35/language/uk) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/uk/kdecoration.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 39 | 39 | 100.0 | /mnt/stockage/packages/f35/kdecoration/po/zh_CN/kdecoration.po | 
+ | [da](/f35/language/da) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/da/kdecoration.po | 
+ | [et](/f35/language/et) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/et/kdecoration.po | 
+ | [gl](/f35/language/gl) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/gl/kdecoration.po | 
+ | [ja](/f35/language/ja) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/ja/kdecoration.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 16 | 39 | 41.0 | /mnt/stockage/packages/f35/kdecoration/po/zh_TW/kdecoration.po | 
 {.sortable}
 
 

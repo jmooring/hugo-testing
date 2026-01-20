@@ -18,8 +18,8 @@ The package bustle (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f33/language/en.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f33/bustle/po/en.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 87 | 417 | 20.9 | /mnt/stockage/packages/f33/bustle/po/en_GB.po | 
+ | [en](/f33/language/en) | 119 | 119 | 100.0 | /mnt/stockage/packages/f33/bustle/po/en.po | 
+ | [en_GB](/f33/language/en_GB) | 87 | 417 | 20.9 | /mnt/stockage/packages/f33/bustle/po/en_GB.po | 
 {.sortable}
 
 

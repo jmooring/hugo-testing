@@ -18,32 +18,32 @@ The package krusader (version 1.80.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/bg.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/de.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/el.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sr@Latn.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/hu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/it.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/lt.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/pt_BR.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sl.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sv.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 5989 | 6769 | 88.5 | /mnt/stockage/packages/f8/krusader/po/ru.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 5947 | 6769 | 87.9 | /mnt/stockage/packages/f8/krusader/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 5670 | 6769 | 83.8 | /mnt/stockage/packages/f8/krusader/po/fr.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 5670 | 6769 | 83.8 | /mnt/stockage/packages/f8/krusader/po/sk.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 5444 | 6769 | 80.4 | /mnt/stockage/packages/f8/krusader/po/tr.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 4316 | 6769 | 63.8 | /mnt/stockage/packages/f8/krusader/po/da.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 3721 | 6769 | 55.0 | /mnt/stockage/packages/f8/krusader/po/zh_CN.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 2778 | 6769 | 41.0 | /mnt/stockage/packages/f8/krusader/po/uk.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 2775 | 6769 | 41.0 | /mnt/stockage/packages/f8/krusader/po/ca.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 1650 | 6769 | 24.4 | /mnt/stockage/packages/f8/krusader/po/bs.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1274 | 6769 | 18.8 | /mnt/stockage/packages/f8/krusader/po/ja.po | 
+ | [bg](/f8/language/bg) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/bg.po | 
+ | [cs](/f8/language/cs) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/cs.po | 
+ | [de](/f8/language/de) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/de.po | 
+ | [el](/f8/language/el) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/el.po | 
+ | [error](/f8/language/error) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sr@Latn.po | 
+ | [hu](/f8/language/hu) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/hu.po | 
+ | [it](/f8/language/it) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/it.po | 
+ | [lt](/f8/language/lt) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/lt.po | 
+ | [nl](/f8/language/nl) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/nl.po | 
+ | [pl](/f8/language/pl) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/pl.po | 
+ | [pt](/f8/language/pt) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/pt_BR.po | 
+ | [sl](/f8/language/sl) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sl.po | 
+ | [sr](/f8/language/sr) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sr.po | 
+ | [sv](/f8/language/sv) | 6769 | 6769 | 100.0 | /mnt/stockage/packages/f8/krusader/po/sv.po | 
+ | [ru](/f8/language/ru) | 5989 | 6769 | 88.5 | /mnt/stockage/packages/f8/krusader/po/ru.po | 
+ | [es](/f8/language/es) | 5947 | 6769 | 87.9 | /mnt/stockage/packages/f8/krusader/po/es.po | 
+ | [fr](/f8/language/fr) | 5670 | 6769 | 83.8 | /mnt/stockage/packages/f8/krusader/po/fr.po | 
+ | [sk](/f8/language/sk) | 5670 | 6769 | 83.8 | /mnt/stockage/packages/f8/krusader/po/sk.po | 
+ | [tr](/f8/language/tr) | 5444 | 6769 | 80.4 | /mnt/stockage/packages/f8/krusader/po/tr.po | 
+ | [da](/f8/language/da) | 4316 | 6769 | 63.8 | /mnt/stockage/packages/f8/krusader/po/da.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 3721 | 6769 | 55.0 | /mnt/stockage/packages/f8/krusader/po/zh_CN.po | 
+ | [uk](/f8/language/uk) | 2778 | 6769 | 41.0 | /mnt/stockage/packages/f8/krusader/po/uk.po | 
+ | [ca](/f8/language/ca) | 2775 | 6769 | 41.0 | /mnt/stockage/packages/f8/krusader/po/ca.po | 
+ | [bs](/f8/language/bs) | 1650 | 6769 | 24.4 | /mnt/stockage/packages/f8/krusader/po/bs.po | 
+ | [ja](/f8/language/ja) | 1274 | 6769 | 18.8 | /mnt/stockage/packages/f8/krusader/po/ja.po | 
 {.sortable}
 
 

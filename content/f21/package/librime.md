@@ -18,9 +18,9 @@ The package librime (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f21/librime/thirdparty/src/opencc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f21/librime/thirdparty/src/opencc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f21/librime/thirdparty/src/opencc/po/zh_HK.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 175 | 175 | 100.0 | /mnt/stockage/packages/f21/librime/thirdparty/src/opencc/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 175 | 175 | 100.0 | /mnt/stockage/packages/f21/librime/thirdparty/src/opencc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 175 | 175 | 100.0 | /mnt/stockage/packages/f21/librime/thirdparty/src/opencc/po/zh_HK.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package gpick (version 0.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f28/gpick/share/locale/cs/LC_MESSAGES/gpick.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 735 | 735 | 100.0 | /mnt/stockage/packages/f28/gpick/share/locale/lt/LC_MESSAGES/gpick.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 723 | 769 | 94.0 | /mnt/stockage/packages/f28/gpick/share/locale/ru/LC_MESSAGES/gpick.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 522 | 602 | 86.7 | /mnt/stockage/packages/f28/gpick/share/locale/es/LC_MESSAGES/gpick.po | 
+ | [cs](/f28/language/cs) | 602 | 602 | 100.0 | /mnt/stockage/packages/f28/gpick/share/locale/cs/LC_MESSAGES/gpick.po | 
+ | [lt](/f28/language/lt) | 735 | 735 | 100.0 | /mnt/stockage/packages/f28/gpick/share/locale/lt/LC_MESSAGES/gpick.po | 
+ | [ru](/f28/language/ru) | 723 | 769 | 94.0 | /mnt/stockage/packages/f28/gpick/share/locale/ru/LC_MESSAGES/gpick.po | 
+ | [es](/f28/language/es) | 522 | 602 | 86.7 | /mnt/stockage/packages/f28/gpick/share/locale/es/LC_MESSAGES/gpick.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package ibus-libpinyin (version 1.11.93):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f33/ibus-libpinyin/po/de.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 399 | 404 | 98.8 | /mnt/stockage/packages/f33/ibus-libpinyin/po/zh_CN.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 371 | 404 | 91.8 | /mnt/stockage/packages/f33/ibus-libpinyin/po/ca.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 337 | 404 | 83.4 | /mnt/stockage/packages/f33/ibus-libpinyin/po/fr.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 314 | 404 | 77.7 | /mnt/stockage/packages/f33/ibus-libpinyin/po/cs.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 314 | 404 | 77.7 | /mnt/stockage/packages/f33/ibus-libpinyin/po/es.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 314 | 404 | 77.7 | /mnt/stockage/packages/f33/ibus-libpinyin/po/uk.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 285 | 404 | 70.5 | /mnt/stockage/packages/f33/ibus-libpinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f33/language/zh_Hant_HK.md" >}}) | 285 | 404 | 70.5 | /mnt/stockage/packages/f33/ibus-libpinyin/po/zh_HK.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 66 | 404 | 16.3 | /mnt/stockage/packages/f33/ibus-libpinyin/po/pt-BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 42 | 404 | 10.4 | /mnt/stockage/packages/f33/ibus-libpinyin/po/ru.po | 
+ | [de](/f33/language/de) | 404 | 404 | 100.0 | /mnt/stockage/packages/f33/ibus-libpinyin/po/de.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 399 | 404 | 98.8 | /mnt/stockage/packages/f33/ibus-libpinyin/po/zh_CN.po | 
+ | [ca](/f33/language/ca) | 371 | 404 | 91.8 | /mnt/stockage/packages/f33/ibus-libpinyin/po/ca.po | 
+ | [fr](/f33/language/fr) | 337 | 404 | 83.4 | /mnt/stockage/packages/f33/ibus-libpinyin/po/fr.po | 
+ | [cs](/f33/language/cs) | 314 | 404 | 77.7 | /mnt/stockage/packages/f33/ibus-libpinyin/po/cs.po | 
+ | [es](/f33/language/es) | 314 | 404 | 77.7 | /mnt/stockage/packages/f33/ibus-libpinyin/po/es.po | 
+ | [uk](/f33/language/uk) | 314 | 404 | 77.7 | /mnt/stockage/packages/f33/ibus-libpinyin/po/uk.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 285 | 404 | 70.5 | /mnt/stockage/packages/f33/ibus-libpinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f33/language/zh_Hant_HK) | 285 | 404 | 70.5 | /mnt/stockage/packages/f33/ibus-libpinyin/po/zh_HK.po | 
+ | [pt_BR](/f33/language/pt_BR) | 66 | 404 | 16.3 | /mnt/stockage/packages/f33/ibus-libpinyin/po/pt-BR.po | 
+ | [ru](/f33/language/ru) | 42 | 404 | 10.4 | /mnt/stockage/packages/f33/ibus-libpinyin/po/ru.po | 
 {.sortable}
 
 

@@ -18,75 +18,75 @@ The package sugar-log (version 42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f36/language/ach.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ach.po | 
- | [ayc]({{< ref "/f36/language/ayc.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ayc.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ca.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/de.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/en.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/en_GB.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/en_US.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/fr.po | 
- | [fy]({{< ref "/f36/language/fy.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/fy.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/gl.po | 
- | [gug]({{< ref "/f36/language/gug.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/gug.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/he.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/hi.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/hr.po | 
- | [hy]({{< ref "/f36/language/hy.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/hy.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/it.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ne.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/nl.po | 
- | [pap]({{< ref "/f36/language/pap.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pap.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pt_BR.po | 
- | [qu]({{< ref "/f36/language/qu.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/quz.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ru.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/sq.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/sv.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/uk.po | 
- | [yo]({{< ref "/f36/language/yo.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/yo.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/zh_TW.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 81 | 98 | 82.7 | /mnt/stockage/packages/f36/sugar-log/po/ja.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/ar.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/el.po | 
- | [error]({{< ref "/f36/language/error.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/pbs.po | 
- | [hus]({{< ref "/f36/language/hus.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/hus.po | 
- | [mi]({{< ref "/f36/language/mi.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/mi.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/si.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/sl.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/ta.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/th.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 68 | 98 | 69.4 | /mnt/stockage/packages/f36/sugar-log/po/fa.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/bn.po | 
- | [ht]({{< ref "/f36/language/ht.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/ht.po | 
- | [mg]({{< ref "/f36/language/mg.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/mg.po | 
- | [mn]({{< ref "/f36/language/mn.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/mn.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/nb.po | 
- | [ps]({{< ref "/f36/language/ps.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/ps.po | 
- | [rw]({{< ref "/f36/language/rw.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/rw.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/sk.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/tr.po | 
- | [ur]({{< ref "/f36/language/ur.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/ur.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/vi.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 39 | 98 | 39.8 | /mnt/stockage/packages/f36/sugar-log/po/bg.po | 
- | [prs]({{< ref "/f36/language/prs.md" >}}) | 39 | 98 | 39.8 | /mnt/stockage/packages/f36/sugar-log/po/fa_AF.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 37 | 98 | 37.8 | /mnt/stockage/packages/f36/sugar-log/po/ko.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 37 | 98 | 37.8 | /mnt/stockage/packages/f36/sugar-log/po/mr.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 37 | 98 | 37.8 | /mnt/stockage/packages/f36/sugar-log/po/te.po | 
- | [bn_IN]({{< ref "/f36/language/bn_IN.md" >}}) | 12 | 98 | 12.2 | /mnt/stockage/packages/f36/sugar-log/po/bn_IN.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 9 | 98 | 9.2 | /mnt/stockage/packages/f36/sugar-log/po/km.po | 
- | [sw]({{< ref "/f36/language/sw.md" >}}) | 9 | 98 | 9.2 | /mnt/stockage/packages/f36/sugar-log/po/sw.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 5 | 98 | 5.1 | /mnt/stockage/packages/f36/sugar-log/po/am.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 5 | 98 | 5.1 | /mnt/stockage/packages/f36/sugar-log/po/cs.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 3 | 98 | 3.1 | /mnt/stockage/packages/f36/sugar-log/po/af.po | 
- | [br]({{< ref "/f36/language/br.md" >}}) | 2 | 98 | 2.0 | /mnt/stockage/packages/f36/sugar-log/po/br.po | 
- | [kab]({{< ref "/f36/language/kab.md" >}}) | 2 | 98 | 2.0 | /mnt/stockage/packages/f36/sugar-log/po/kab.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f36/sugar-log/po/ug.po | 
+ | [ach](/f36/language/ach) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ach.po | 
+ | [ayc](/f36/language/ayc) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ayc.po | 
+ | [ca](/f36/language/ca) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ca.po | 
+ | [da](/f36/language/da) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/da.po | 
+ | [de](/f36/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/de.po | 
+ | [en](/f36/language/en) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/en.po | 
+ | [en_GB](/f36/language/en_GB) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/en_GB.po | 
+ | [en_US](/f36/language/en_US) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/en_US.po | 
+ | [es](/f36/language/es) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/es.po | 
+ | [fr](/f36/language/fr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/fr.po | 
+ | [fy](/f36/language/fy) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/fy.po | 
+ | [gl](/f36/language/gl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/gl.po | 
+ | [gug](/f36/language/gug) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/gug.po | 
+ | [he](/f36/language/he) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/he.po | 
+ | [hi](/f36/language/hi) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/hi.po | 
+ | [hr](/f36/language/hr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/hr.po | 
+ | [hy](/f36/language/hy) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/hy.po | 
+ | [id](/f36/language/id) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/id.po | 
+ | [it](/f36/language/it) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/it.po | 
+ | [ne](/f36/language/ne) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ne.po | 
+ | [nl](/f36/language/nl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/nl.po | 
+ | [pap](/f36/language/pap) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pap.po | 
+ | [pl](/f36/language/pl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pl.po | 
+ | [pt](/f36/language/pt) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/pt_BR.po | 
+ | [qu](/f36/language/qu) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/quz.po | 
+ | [ru](/f36/language/ru) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/ru.po | 
+ | [sq](/f36/language/sq) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/sq.po | 
+ | [sv](/f36/language/sv) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/sv.po | 
+ | [uk](/f36/language/uk) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/uk.po | 
+ | [yo](/f36/language/yo) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/yo.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 98 | 98 | 100.0 | /mnt/stockage/packages/f36/sugar-log/po/zh_TW.po | 
+ | [ja](/f36/language/ja) | 81 | 98 | 82.7 | /mnt/stockage/packages/f36/sugar-log/po/ja.po | 
+ | [ar](/f36/language/ar) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/ar.po | 
+ | [el](/f36/language/el) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/el.po | 
+ | [error](/f36/language/error) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/pbs.po | 
+ | [hus](/f36/language/hus) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/hus.po | 
+ | [mi](/f36/language/mi) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/mi.po | 
+ | [si](/f36/language/si) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/si.po | 
+ | [sl](/f36/language/sl) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/sl.po | 
+ | [ta](/f36/language/ta) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/ta.po | 
+ | [th](/f36/language/th) | 77 | 98 | 78.6 | /mnt/stockage/packages/f36/sugar-log/po/th.po | 
+ | [fa](/f36/language/fa) | 68 | 98 | 69.4 | /mnt/stockage/packages/f36/sugar-log/po/fa.po | 
+ | [bn](/f36/language/bn) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/bn.po | 
+ | [ht](/f36/language/ht) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/ht.po | 
+ | [mg](/f36/language/mg) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/mg.po | 
+ | [mn](/f36/language/mn) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/mn.po | 
+ | [nb_NO](/f36/language/nb_NO) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/nb.po | 
+ | [ps](/f36/language/ps) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/ps.po | 
+ | [rw](/f36/language/rw) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/rw.po | 
+ | [sk](/f36/language/sk) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/sk.po | 
+ | [tr](/f36/language/tr) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/tr.po | 
+ | [ur](/f36/language/ur) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/ur.po | 
+ | [vi](/f36/language/vi) | 41 | 98 | 41.8 | /mnt/stockage/packages/f36/sugar-log/po/vi.po | 
+ | [bg](/f36/language/bg) | 39 | 98 | 39.8 | /mnt/stockage/packages/f36/sugar-log/po/bg.po | 
+ | [prs](/f36/language/prs) | 39 | 98 | 39.8 | /mnt/stockage/packages/f36/sugar-log/po/fa_AF.po | 
+ | [ko](/f36/language/ko) | 37 | 98 | 37.8 | /mnt/stockage/packages/f36/sugar-log/po/ko.po | 
+ | [mr](/f36/language/mr) | 37 | 98 | 37.8 | /mnt/stockage/packages/f36/sugar-log/po/mr.po | 
+ | [te](/f36/language/te) | 37 | 98 | 37.8 | /mnt/stockage/packages/f36/sugar-log/po/te.po | 
+ | [bn_IN](/f36/language/bn_IN) | 12 | 98 | 12.2 | /mnt/stockage/packages/f36/sugar-log/po/bn_IN.po | 
+ | [km](/f36/language/km) | 9 | 98 | 9.2 | /mnt/stockage/packages/f36/sugar-log/po/km.po | 
+ | [sw](/f36/language/sw) | 9 | 98 | 9.2 | /mnt/stockage/packages/f36/sugar-log/po/sw.po | 
+ | [am](/f36/language/am) | 5 | 98 | 5.1 | /mnt/stockage/packages/f36/sugar-log/po/am.po | 
+ | [cs](/f36/language/cs) | 5 | 98 | 5.1 | /mnt/stockage/packages/f36/sugar-log/po/cs.po | 
+ | [af](/f36/language/af) | 3 | 98 | 3.1 | /mnt/stockage/packages/f36/sugar-log/po/af.po | 
+ | [br](/f36/language/br) | 2 | 98 | 2.0 | /mnt/stockage/packages/f36/sugar-log/po/br.po | 
+ | [kab](/f36/language/kab) | 2 | 98 | 2.0 | /mnt/stockage/packages/f36/sugar-log/po/kab.po | 
+ | [ug](/f36/language/ug) | 0 | 98 | 0.0 | /mnt/stockage/packages/f36/sugar-log/po/ug.po | 
 {.sortable}
 
 

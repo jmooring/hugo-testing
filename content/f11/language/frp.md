@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [oggconvert]({{< ref "/f11/package/oggconvert.md" >}}) | 89 | 152 | 58.6 | Franco-Provençal <frp@li.org> | 
- | [exaile]({{< ref "/f11/package/exaile.md" >}}) | 2 | 2176 | 0.1 | Franco-Provençal <frp@li.org> | 
- | [lxdm]({{< ref "/f11/package/lxdm.md" >}}) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [oggconvert](/f11/package/oggconvert) | 89 | 152 | 58.6 | Franco-Provençal <frp@li.org> | 
+ | [exaile](/f11/package/exaile) | 2 | 2176 | 0.1 | Franco-Provençal <frp@li.org> | 
+ | [lxdm](/f11/package/lxdm) | 0 | 11 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

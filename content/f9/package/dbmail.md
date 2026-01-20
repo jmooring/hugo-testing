@@ -18,19 +18,19 @@ The package dbmail (version 2.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/gl.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/it.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/ml.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/nl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/pt.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/ru.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/ta.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 47 | 457 | 10.3 | /mnt/stockage/packages/f9/dbmail/debian/po/ja.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 47 | 457 | 10.3 | /mnt/stockage/packages/f9/dbmail/debian/po/pt_BR.po | 
+ | [cs](/f9/language/cs) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/cs.po | 
+ | [de](/f9/language/de) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/de.po | 
+ | [es](/f9/language/es) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/es.po | 
+ | [fr](/f9/language/fr) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/fr.po | 
+ | [gl](/f9/language/gl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/gl.po | 
+ | [it](/f9/language/it) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/it.po | 
+ | [ml](/f9/language/ml) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/ml.po | 
+ | [nl](/f9/language/nl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/nl.po | 
+ | [pt](/f9/language/pt) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/pt.po | 
+ | [ru](/f9/language/ru) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/ru.po | 
+ | [ta](/f9/language/ta) | 457 | 457 | 100.0 | /mnt/stockage/packages/f9/dbmail/debian/po/ta.po | 
+ | [ja](/f9/language/ja) | 47 | 457 | 10.3 | /mnt/stockage/packages/f9/dbmail/debian/po/ja.po | 
+ | [pt_BR](/f9/language/pt_BR) | 47 | 457 | 10.3 | /mnt/stockage/packages/f9/dbmail/debian/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package neon (version 0.32.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 749 | 749 | 100.0 | /mnt/stockage/packages/f39/neon/po/ka.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 662 | 749 | 88.4 | /mnt/stockage/packages/f39/neon/po/pl.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 476 | 749 | 63.6 | /mnt/stockage/packages/f39/neon/po/zh_CN.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/de.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/nn.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/tr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 32 | 749 | 4.3 | /mnt/stockage/packages/f39/neon/po/ja.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 0 | 749 | 0.0 | /mnt/stockage/packages/f39/neon/po/fr.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 0 | 749 | 0.0 | /mnt/stockage/packages/f39/neon/po/ru.po | 
+ | [ka](/f39/language/ka) | 749 | 749 | 100.0 | /mnt/stockage/packages/f39/neon/po/ka.po | 
+ | [pl](/f39/language/pl) | 662 | 749 | 88.4 | /mnt/stockage/packages/f39/neon/po/pl.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 476 | 749 | 63.6 | /mnt/stockage/packages/f39/neon/po/zh_CN.po | 
+ | [cs](/f39/language/cs) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/cs.po | 
+ | [de](/f39/language/de) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/de.po | 
+ | [nn](/f39/language/nn) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/nn.po | 
+ | [tr](/f39/language/tr) | 76 | 749 | 10.1 | /mnt/stockage/packages/f39/neon/po/tr.po | 
+ | [ja](/f39/language/ja) | 32 | 749 | 4.3 | /mnt/stockage/packages/f39/neon/po/ja.po | 
+ | [fr](/f39/language/fr) | 0 | 749 | 0.0 | /mnt/stockage/packages/f39/neon/po/fr.po | 
+ | [ru](/f39/language/ru) | 0 | 749 | 0.0 | /mnt/stockage/packages/f39/neon/po/ru.po | 
 {.sortable}
 
 

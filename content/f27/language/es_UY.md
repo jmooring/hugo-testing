@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f27/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f27/package/libmateweather.md" >}}) | 362 | 499 | 72.5 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-applets]({{< ref "/f27/package/mate-applets.md" >}}) | 1651 | 2489 | 66.3 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [openerp]({{< ref "/f27/package/openerp.md" >}}) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
- | [mate-sensors-applet]({{< ref "/f27/package/mate-sensors-applet.md" >}}) | 9 | 306 | 2.9 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-settings-daemon]({{< ref "/f27/package/mate-settings-daemon.md" >}}) | 43 | 1764 | 2.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-media]({{< ref "/f27/package/mate-media.md" >}}) | 4 | 226 | 1.8 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-system-monitor]({{< ref "/f27/package/mate-system-monitor.md" >}}) | 14 | 1333 | 1.1 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-panel]({{< ref "/f27/package/mate-panel.md" >}}) | 32 | 4364 | 0.7 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-control-center]({{< ref "/f27/package/mate-control-center.md" >}}) | 17 | 2658 | 0.6 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [eom]({{< ref "/f27/package/eom.md" >}}) | 10 | 1717 | 0.6 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [atril]({{< ref "/f27/package/atril.md" >}}) | 8 | 1792 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-session-manager]({{< ref "/f27/package/mate-session-manager.md" >}}) | 3 | 681 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [libmatekbd]({{< ref "/f27/package/libmatekbd.md" >}}) | 1 | 251 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-power-manager]({{< ref "/f27/package/mate-power-manager.md" >}}) | 10 | 2724 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [engrampa]({{< ref "/f27/package/engrampa.md" >}}) | 6 | 1945 | 0.3 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
- | [mate-menu]({{< ref "/f27/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/projects/p/MATE/language/es_UY/) | 
+ | [libgweather](/f27/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f27/package/libmateweather) | 362 | 499 | 72.5 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-applets](/f27/package/mate-applets) | 1651 | 2489 | 66.3 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [openerp](/f27/package/openerp) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [openerp7](/f27/package/openerp7) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [mate-sensors-applet](/f27/package/mate-sensors-applet) | 9 | 306 | 2.9 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-settings-daemon](/f27/package/mate-settings-daemon) | 43 | 1764 | 2.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-media](/f27/package/mate-media) | 4 | 226 | 1.8 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-system-monitor](/f27/package/mate-system-monitor) | 14 | 1333 | 1.1 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-panel](/f27/package/mate-panel) | 32 | 4364 | 0.7 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-control-center](/f27/package/mate-control-center) | 17 | 2658 | 0.6 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [eom](/f27/package/eom) | 10 | 1717 | 0.6 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [atril](/f27/package/atril) | 8 | 1792 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-session-manager](/f27/package/mate-session-manager) | 3 | 681 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [libmatekbd](/f27/package/libmatekbd) | 1 | 251 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-power-manager](/f27/package/mate-power-manager) | 10 | 2724 | 0.4 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [engrampa](/f27/package/engrampa) | 6 | 1945 | 0.3 | Spanish (Uruguay) (https://www.transifex.com/mate/teams/13566/es_UY/) | 
+ | [mate-menu](/f27/package/mate-menu) | 0 | 316 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/projects/p/MATE/language/es_UY/) | 
 {.sortable}
 
 

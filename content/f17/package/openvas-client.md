@@ -18,12 +18,12 @@ The package openvas-client (version 3.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 4003 | 4463 | 89.7 | /mnt/stockage/packages/f17/openvas-client/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3907 | 4457 | 87.7 | /mnt/stockage/packages/f17/openvas-client/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2623 | 4463 | 58.8 | /mnt/stockage/packages/f17/openvas-client/po/fr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 2408 | 4463 | 54.0 | /mnt/stockage/packages/f17/openvas-client/po/sv.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 1604 | 4463 | 35.9 | /mnt/stockage/packages/f17/openvas-client/po/he.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 412 | 4463 | 9.2 | /mnt/stockage/packages/f17/openvas-client/po/hr.po | 
+ | [de](/f17/language/de) | 4003 | 4463 | 89.7 | /mnt/stockage/packages/f17/openvas-client/po/de.po | 
+ | [es](/f17/language/es) | 3907 | 4457 | 87.7 | /mnt/stockage/packages/f17/openvas-client/po/es.po | 
+ | [fr](/f17/language/fr) | 2623 | 4463 | 58.8 | /mnt/stockage/packages/f17/openvas-client/po/fr.po | 
+ | [sv](/f17/language/sv) | 2408 | 4463 | 54.0 | /mnt/stockage/packages/f17/openvas-client/po/sv.po | 
+ | [he](/f17/language/he) | 1604 | 4463 | 35.9 | /mnt/stockage/packages/f17/openvas-client/po/he.po | 
+ | [hr](/f17/language/hr) | 412 | 4463 | 9.2 | /mnt/stockage/packages/f17/openvas-client/po/hr.po | 
 {.sortable}
 
 

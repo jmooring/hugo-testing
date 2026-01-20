@@ -18,8 +18,8 @@ The package dgit (version 12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 6642 | 6890 | 96.4 | /mnt/stockage/packages/f40/dgit/po/nl.po/mnt/stockage/packages/f40/dgit/po4a/dgit-user_7.nl.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 10 | 5038 | 0.2 | /mnt/stockage/packages/f40/dgit/po/en_US.po | 
+ | [nl](/f40/language/nl) | 6642 | 6890 | 96.4 | /mnt/stockage/packages/f40/dgit/po/nl.po/mnt/stockage/packages/f40/dgit/po4a/dgit-user_7.nl.po | 
+ | [en_US](/f40/language/en_US) | 10 | 5038 | 0.2 | /mnt/stockage/packages/f40/dgit/po/en_US.po | 
 {.sortable}
 
 

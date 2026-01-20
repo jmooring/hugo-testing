@@ -18,42 +18,42 @@ The package xfce4-screensaver (version 4.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f36/language/be.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/be.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/bg.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/eu.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/fr.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/gl.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/he.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ko.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/lt.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ms.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/nb.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ru.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sl.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sv.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/th.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/tr.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/zh_TW.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 695 | 696 | 99.9 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sq.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 692 | 696 | 99.4 | /mnt/stockage/packages/f36/xfce4-screensaver/po/hu.po | 
- | [hy]({{< ref "/f36/language/hy.md" >}}) | 646 | 696 | 92.8 | /mnt/stockage/packages/f36/xfce4-screensaver/po/hy_AM.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 602 | 696 | 86.5 | /mnt/stockage/packages/f36/xfce4-screensaver/po/fi.po | 
- | [en_AU]({{< ref "/f36/language/en_AU.md" >}}) | 596 | 696 | 85.6 | /mnt/stockage/packages/f36/xfce4-screensaver/po/en_AU.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 596 | 696 | 85.6 | /mnt/stockage/packages/f36/xfce4-screensaver/po/is.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 315 | 696 | 45.3 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sk.po | 
+ | [be](/f36/language/be) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/be.po | 
+ | [bg](/f36/language/bg) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/bg.po | 
+ | [ca](/f36/language/ca) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ca.po | 
+ | [cs](/f36/language/cs) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/cs.po | 
+ | [da](/f36/language/da) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/da.po | 
+ | [de](/f36/language/de) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/de.po | 
+ | [es](/f36/language/es) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/es.po | 
+ | [eu](/f36/language/eu) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/eu.po | 
+ | [fr](/f36/language/fr) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/fr.po | 
+ | [gl](/f36/language/gl) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/gl.po | 
+ | [he](/f36/language/he) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/he.po | 
+ | [it](/f36/language/it) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/it.po | 
+ | [ja](/f36/language/ja) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ja.po | 
+ | [ko](/f36/language/ko) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ko.po | 
+ | [lt](/f36/language/lt) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/lt.po | 
+ | [ms](/f36/language/ms) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ms.po | 
+ | [nb_NO](/f36/language/nb_NO) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/nb.po | 
+ | [nl](/f36/language/nl) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/nl.po | 
+ | [pl](/f36/language/pl) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/pl.po | 
+ | [pt](/f36/language/pt) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/pt_BR.po | 
+ | [ru](/f36/language/ru) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/ru.po | 
+ | [sl](/f36/language/sl) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sl.po | 
+ | [sr](/f36/language/sr) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sr.po | 
+ | [sv](/f36/language/sv) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sv.po | 
+ | [th](/f36/language/th) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/th.po | 
+ | [tr](/f36/language/tr) | 692 | 692 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/tr.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 696 | 696 | 100.0 | /mnt/stockage/packages/f36/xfce4-screensaver/po/zh_TW.po | 
+ | [sq](/f36/language/sq) | 695 | 696 | 99.9 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sq.po | 
+ | [hu](/f36/language/hu) | 692 | 696 | 99.4 | /mnt/stockage/packages/f36/xfce4-screensaver/po/hu.po | 
+ | [hy](/f36/language/hy) | 646 | 696 | 92.8 | /mnt/stockage/packages/f36/xfce4-screensaver/po/hy_AM.po | 
+ | [fi](/f36/language/fi) | 602 | 696 | 86.5 | /mnt/stockage/packages/f36/xfce4-screensaver/po/fi.po | 
+ | [en_AU](/f36/language/en_AU) | 596 | 696 | 85.6 | /mnt/stockage/packages/f36/xfce4-screensaver/po/en_AU.po | 
+ | [is](/f36/language/is) | 596 | 696 | 85.6 | /mnt/stockage/packages/f36/xfce4-screensaver/po/is.po | 
+ | [sk](/f36/language/sk) | 315 | 696 | 45.3 | /mnt/stockage/packages/f36/xfce4-screensaver/po/sk.po | 
 {.sortable}
 
 

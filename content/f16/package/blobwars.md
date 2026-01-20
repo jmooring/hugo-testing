@@ -18,14 +18,14 @@ The package blobwars (version 1.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/ca.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1234 | 1234 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1162 | 1162 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/fr.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1256 | 1256 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1234 | 1234 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/pl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/sv.po | 
+ | [ca](/f16/language/ca) | 1233 | 1233 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/ca.po | 
+ | [da](/f16/language/da) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/da.po | 
+ | [de](/f16/language/de) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/de.po | 
+ | [es](/f16/language/es) | 1234 | 1234 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/es.po | 
+ | [fr](/f16/language/fr) | 1162 | 1162 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/fr.po | 
+ | [nl](/f16/language/nl) | 1256 | 1256 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/nl.po | 
+ | [pl](/f16/language/pl) | 1234 | 1234 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/pl.po | 
+ | [sv](/f16/language/sv) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f16/blobwars/locale/sv.po | 
 {.sortable}
 
 

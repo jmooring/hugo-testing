@@ -18,19 +18,19 @@ The package gdbm (version 1.18.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/pt_BR.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/vi.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/da.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/es.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/sv.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 582 | 816 | 71.3 | /mnt/stockage/packages/f32/gdbm/po/de.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 582 | 816 | 71.3 | /mnt/stockage/packages/f32/gdbm/po/fi.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 246 | 816 | 30.1 | /mnt/stockage/packages/f32/gdbm/po/ja.po | 
+ | [fr](/f32/language/fr) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/fr.po | 
+ | [pl](/f32/language/pl) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/pt_BR.po | 
+ | [uk](/f32/language/uk) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/uk.po | 
+ | [vi](/f32/language/vi) | 800 | 816 | 98.0 | /mnt/stockage/packages/f32/gdbm/po/vi.po | 
+ | [da](/f32/language/da) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/da.po | 
+ | [eo](/f32/language/eo) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/eo.po | 
+ | [es](/f32/language/es) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/es.po | 
+ | [sr](/f32/language/sr) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/sr.po | 
+ | [sv](/f32/language/sv) | 739 | 816 | 90.6 | /mnt/stockage/packages/f32/gdbm/po/sv.po | 
+ | [de](/f32/language/de) | 582 | 816 | 71.3 | /mnt/stockage/packages/f32/gdbm/po/de.po | 
+ | [fi](/f32/language/fi) | 582 | 816 | 71.3 | /mnt/stockage/packages/f32/gdbm/po/fi.po | 
+ | [ja](/f32/language/ja) | 246 | 816 | 30.1 | /mnt/stockage/packages/f32/gdbm/po/ja.po | 
 {.sortable}
 
 

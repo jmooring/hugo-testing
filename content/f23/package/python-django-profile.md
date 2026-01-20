@@ -18,12 +18,12 @@ The package python-django-profile (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1134 | 1145 | 99.0 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/fr/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1126 | 1180 | 95.4 | /mnt/stockage/packages/f23/python-django-profile/demo/locale/es/LC_MESSAGES/django.po/mnt/stockage/packages/f23/python-django-profile/userprofile/locale/es/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1054 | 1145 | 92.1 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/ru/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 617 | 1145 | 53.9 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/zh_TW/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 129 | 1145 | 11.3 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/it/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 36 | 1145 | 3.1 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/pt-br/LC_MESSAGES/django.po | 
+ | [fr](/f23/language/fr) | 1134 | 1145 | 99.0 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/fr/LC_MESSAGES/django.po | 
+ | [es](/f23/language/es) | 1126 | 1180 | 95.4 | /mnt/stockage/packages/f23/python-django-profile/demo/locale/es/LC_MESSAGES/django.po/mnt/stockage/packages/f23/python-django-profile/userprofile/locale/es/LC_MESSAGES/django.po | 
+ | [ru](/f23/language/ru) | 1054 | 1145 | 92.1 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/ru/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 617 | 1145 | 53.9 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [it](/f23/language/it) | 129 | 1145 | 11.3 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/it/LC_MESSAGES/django.po | 
+ | [pt_BR](/f23/language/pt_BR) | 36 | 1145 | 3.1 | /mnt/stockage/packages/f23/python-django-profile/userprofile/locale/pt-br/LC_MESSAGES/django.po | 
 {.sortable}
 
 

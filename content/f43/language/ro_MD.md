@@ -44,33 +44,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-screenshot]({{< ref "/f43/package/elementary-screenshot.md" >}}) | 87 | 128 | 68.0 | Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/> | 
- | [elementary-calendar]({{< ref "/f43/package/elementary-calendar.md" >}}) | 345 | 670 | 51.5 | Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/> | 
- | [elementary-files]({{< ref "/f43/package/elementary-files.md" >}}) | 1148 | 2656 | 43.2 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
- | [elementary-calculator]({{< ref "/f43/package/elementary-calculator.md" >}}) | 45 | 174 | 25.9 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
- | [elementary-camera]({{< ref "/f43/package/elementary-camera.md" >}}) | 25 | 141 | 17.7 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f43/package/wingpanel-indicator-bluetooth.md" >}}) | 11 | 80 | 13.8 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/> | 
- | [elementary-code]({{< ref "/f43/package/elementary-code.md" >}}) | 199 | 2228 | 8.9 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 1250 | 15936 | 7.8 | Moldavian <mo@li.org> | 
- | [elementary-music]({{< ref "/f43/package/elementary-music.md" >}}) | 11 | 231 | 4.8 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f43/package/wingpanel-indicator-keyboard.md" >}}) | 2 | 56 | 3.6 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/> | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 33 | 1761 | 1.9 | Moldavian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ro_MD/> | 
- | [elementary-photos]({{< ref "/f43/package/elementary-photos.md" >}}) | 10 | 2862 | 0.3 | Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/> | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 1 | 319 | 0.3 | Moldovan <https://l10n.elementary.io/projects/desktop/gala/mo/> | 
- | [deluge]({{< ref "/f43/package/deluge.md" >}}) | 12 | 4390 | 0.3 | Moldavian <mo@li.org> | 
- | [bookworm]({{< ref "/f43/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [dippi]({{< ref "/f43/package/dippi.md" >}}) | 0 | 1653 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f43/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f43/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [granite]({{< ref "/f43/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 0 | 596 | 0.0 |  | 
- | [regextester]({{< ref "/f43/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f43/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f43/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f43/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
+ | [elementary-screenshot](/f43/package/elementary-screenshot) | 87 | 128 | 68.0 | Moldovan <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/mo/> | 
+ | [elementary-calendar](/f43/package/elementary-calendar) | 345 | 670 | 51.5 | Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/> | 
+ | [elementary-files](/f43/package/elementary-files) | 1148 | 2656 | 43.2 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
+ | [elementary-calculator](/f43/package/elementary-calculator) | 45 | 174 | 25.9 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
+ | [elementary-camera](/f43/package/elementary-camera) | 25 | 141 | 17.7 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
+ | [wingpanel-indicator-bluetooth](/f43/package/wingpanel-indicator-bluetooth) | 11 | 80 | 13.8 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/> | 
+ | [elementary-code](/f43/package/elementary-code) | 199 | 2228 | 8.9 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 1250 | 15936 | 7.8 | Moldavian <mo@li.org> | 
+ | [elementary-music](/f43/package/elementary-music) | 11 | 231 | 4.8 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
+ | [wingpanel-indicator-keyboard](/f43/package/wingpanel-indicator-keyboard) | 2 | 56 | 3.6 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/> | 
+ | [iso-codes](/f43/package/iso-codes) | 33 | 1761 | 1.9 | Moldavian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ro_MD/> | 
+ | [elementary-photos](/f43/package/elementary-photos) | 10 | 2862 | 0.3 | Moldovan <https://weblate.elementary.io/projects/photos/photos/mo/> | 
+ | [gala](/f43/package/gala) | 1 | 319 | 0.3 | Moldovan <https://l10n.elementary.io/projects/desktop/gala/mo/> | 
+ | [deluge](/f43/package/deluge) | 12 | 4390 | 0.3 | Moldavian <mo@li.org> | 
+ | [bookworm](/f43/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [dippi](/f43/package/dippi) | 0 | 1653 | 0.0 | none | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f43/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-onboarding](/f43/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [granite](/f43/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f43/package/granite-7) | 0 | 596 | 0.0 |  | 
+ | [regextester](/f43/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f43/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f43/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f43/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
 {.sortable}
 
 

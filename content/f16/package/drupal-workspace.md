@@ -18,10 +18,10 @@ The package drupal-workspace (version 6.x.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/it.po | 
+ | [da](/f16/language/da) | 77 | 77 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/da.po | 
+ | [de](/f16/language/de) | 89 | 89 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/de.po | 
+ | [fr](/f16/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/fr.po | 
+ | [it](/f16/language/it) | 77 | 77 | 100.0 | /mnt/stockage/packages/f16/drupal-workspace/translations/it.po | 
 {.sortable}
 
 

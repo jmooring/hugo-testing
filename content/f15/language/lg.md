@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libfm]({{< ref "/f15/package/libfm.md" >}}) | 659 | 659 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [lxappearance-obconf]({{< ref "/f15/package/lxappearance-obconf.md" >}}) | 191 | 191 | 100.0 | LANGUAGE <LL@li.org> | 
- | [pcmanfm]({{< ref "/f15/package/pcmanfm.md" >}}) | 548 | 548 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [pootle]({{< ref "/f15/package/pootle.md" >}}) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
- | [coreutils]({{< ref "/f15/package/coreutils.md" >}}) | 17322 | 19054 | 90.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [virtaal]({{< ref "/f15/package/virtaal.md" >}}) | 1422 | 1653 | 86.0 | LANGUAGE <LL@li.org> | 
- | [libgnomeui]({{< ref "/f15/package/libgnomeui.md" >}}) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [gtk3]({{< ref "/f15/package/gtk3.md" >}}) | 1861 | 12341 | 15.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [mingw-gtk3]({{< ref "/f15/package/mingw-gtk3.md" >}}) | 1861 | 12341 | 15.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [findutils]({{< ref "/f15/package/findutils.md" >}}) | 113 | 2109 | 5.4 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f15/package/libfm) | 659 | 659 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance-obconf](/f15/package/lxappearance-obconf) | 191 | 191 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [pcmanfm](/f15/package/pcmanfm) | 548 | 548 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [pootle](/f15/package/pootle) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
+ | [coreutils](/f15/package/coreutils) | 17322 | 19054 | 90.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [virtaal](/f15/package/virtaal) | 1422 | 1653 | 86.0 | LANGUAGE <LL@li.org> | 
+ | [libgnomeui](/f15/package/libgnomeui) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [gtk3](/f15/package/gtk3) | 1861 | 12341 | 15.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [mingw-gtk3](/f15/package/mingw-gtk3) | 1861 | 12341 | 15.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [findutils](/f15/package/findutils) | 113 | 2109 | 5.4 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [vidalia](/f15/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

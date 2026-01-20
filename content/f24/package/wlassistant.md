@@ -18,16 +18,16 @@ The package wlassistant (version 0.5.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1082 | 1091 | 99.2 | /mnt/stockage/packages/f24/wlassistant/po/pl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 703 | 1091 | 64.4 | /mnt/stockage/packages/f24/wlassistant/po/sv.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/ar.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/ca.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/fr.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/nb.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 688 | 1091 | 63.1 | /mnt/stockage/packages/f24/wlassistant/po/pt_BR.po | 
+ | [pl](/f24/language/pl) | 1082 | 1091 | 99.2 | /mnt/stockage/packages/f24/wlassistant/po/pl.po | 
+ | [sv](/f24/language/sv) | 703 | 1091 | 64.4 | /mnt/stockage/packages/f24/wlassistant/po/sv.po | 
+ | [ar](/f24/language/ar) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/ar.po | 
+ | [ca](/f24/language/ca) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/ca.po | 
+ | [es](/f24/language/es) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/es.po | 
+ | [fr](/f24/language/fr) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/fr.po | 
+ | [nb_NO](/f24/language/nb_NO) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/nb.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 702 | 1091 | 64.3 | /mnt/stockage/packages/f24/wlassistant/po/zh_TW.po | 
+ | [pt_BR](/f24/language/pt_BR) | 688 | 1091 | 63.1 | /mnt/stockage/packages/f24/wlassistant/po/pt_BR.po | 
 {.sortable}
 
 

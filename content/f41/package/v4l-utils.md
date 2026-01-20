@@ -18,11 +18,11 @@ The package v4l-utils (version 1.28.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 2893 | 3121 | 92.7 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/de.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1959 | 3121 | 62.8 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/pt_BR.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 566 | 3121 | 18.1 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/uk.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/uk.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 168 | 3121 | 5.4 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/ca.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/ca.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 91 | 2356 | 3.9 | /mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/fr.po | 
+ | [de](/f41/language/de) | 2893 | 3121 | 92.7 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/de.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1959 | 3121 | 62.8 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/pt_BR.po | 
+ | [uk](/f41/language/uk) | 566 | 3121 | 18.1 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/uk.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/uk.po | 
+ | [ca](/f41/language/ca) | 168 | 3121 | 5.4 | /mnt/stockage/packages/f41/v4l-utils/libdvbv5-po/ca.po/mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/ca.po | 
+ | [fr](/f41/language/fr) | 91 | 2356 | 3.9 | /mnt/stockage/packages/f41/v4l-utils/v4l-utils-po/fr.po | 
 {.sortable}
 
 

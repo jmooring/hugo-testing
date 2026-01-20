@@ -18,69 +18,69 @@ The package kollision (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ar/kollision.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ca/kollision.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ca@valencia/kollision.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/de/kollision.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/el/kollision.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/en_GB/kollision.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/eo/kollision.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/es/kollision.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/eu/kollision.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/fi/kollision.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/fr/kollision.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/gl/kollision.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/he/kollision.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/hu/kollision.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ia/kollision.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/it/kollision.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ka/kollision.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ko/kollision.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/lv/kollision.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/nl/kollision.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/nn/kollision.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/pl/kollision.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/pt_BR/kollision.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ro/kollision.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ru/kollision.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/sa/kollision.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/sl/kollision.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/sv/kollision.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/tr/kollision.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/uk/kollision.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/zh_CN/kollision.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/zh_TW/kollision.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/da/kollision.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/et/kollision.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/id/kollision.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/pt/kollision.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/sk/kollision.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr/kollision.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr@ijekavian/kollision.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr@ijekavianlatin/kollision.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr@latin/kollision.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 93 | 109 | 85.3 | /mnt/stockage/packages/f43/kollision/po/cs/kollision.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/bs/kollision.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/ga/kollision.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/ja/kollision.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/kk/kollision.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/km/kollision.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/lt/kollision.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/nb/kollision.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/nds/kollision.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 80 | 109 | 73.4 | /mnt/stockage/packages/f43/kollision/po/gu/kollision.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 80 | 109 | 73.4 | /mnt/stockage/packages/f43/kollision/po/th/kollision.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 51 | 109 | 46.8 | /mnt/stockage/packages/f43/kollision/po/pa/kollision.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 39 | 109 | 35.8 | /mnt/stockage/packages/f43/kollision/po/mr/kollision.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 27 | 109 | 24.8 | /mnt/stockage/packages/f43/kollision/po/sq/kollision.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 22 | 109 | 20.2 | /mnt/stockage/packages/f43/kollision/po/ug/kollision.po | 
- | [mai]({{< ref "/f43/language/mai.md" >}}) | 8 | 109 | 7.3 | /mnt/stockage/packages/f43/kollision/po/mai/kollision.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 4 | 109 | 3.7 | /mnt/stockage/packages/f43/kollision/po/ast/kollision.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 4 | 109 | 3.7 | /mnt/stockage/packages/f43/kollision/po/hr/kollision.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 2 | 109 | 1.8 | /mnt/stockage/packages/f43/kollision/po/ml/kollision.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f43/kollision/po/bg/kollision.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f43/kollision/po/hi/kollision.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f43/kollision/po/is/kollision.po | 
+ | [ar](/f43/language/ar) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ar/kollision.po | 
+ | [ca](/f43/language/ca) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ca/kollision.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ca@valencia/kollision.po | 
+ | [de](/f43/language/de) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/de/kollision.po | 
+ | [el](/f43/language/el) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/el/kollision.po | 
+ | [en_GB](/f43/language/en_GB) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/en_GB/kollision.po | 
+ | [eo](/f43/language/eo) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/eo/kollision.po | 
+ | [es](/f43/language/es) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/es/kollision.po | 
+ | [eu](/f43/language/eu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/eu/kollision.po | 
+ | [fi](/f43/language/fi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/fi/kollision.po | 
+ | [fr](/f43/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/fr/kollision.po | 
+ | [gl](/f43/language/gl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/gl/kollision.po | 
+ | [he](/f43/language/he) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/he/kollision.po | 
+ | [hu](/f43/language/hu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/hu/kollision.po | 
+ | [ia](/f43/language/ia) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ia/kollision.po | 
+ | [it](/f43/language/it) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/it/kollision.po | 
+ | [ka](/f43/language/ka) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ka/kollision.po | 
+ | [ko](/f43/language/ko) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ko/kollision.po | 
+ | [lv](/f43/language/lv) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/lv/kollision.po | 
+ | [nl](/f43/language/nl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/nl/kollision.po | 
+ | [nn](/f43/language/nn) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/nn/kollision.po | 
+ | [pl](/f43/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/pl/kollision.po | 
+ | [pt_BR](/f43/language/pt_BR) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/pt_BR/kollision.po | 
+ | [ro](/f43/language/ro) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ro/kollision.po | 
+ | [ru](/f43/language/ru) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/ru/kollision.po | 
+ | [sa](/f43/language/sa) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/sa/kollision.po | 
+ | [sl](/f43/language/sl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/sl/kollision.po | 
+ | [sv](/f43/language/sv) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/sv/kollision.po | 
+ | [tr](/f43/language/tr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/tr/kollision.po | 
+ | [uk](/f43/language/uk) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/uk/kollision.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/zh_CN/kollision.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 109 | 109 | 100.0 | /mnt/stockage/packages/f43/kollision/po/zh_TW/kollision.po | 
+ | [da](/f43/language/da) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/da/kollision.po | 
+ | [et](/f43/language/et) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/et/kollision.po | 
+ | [id](/f43/language/id) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/id/kollision.po | 
+ | [pt](/f43/language/pt) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/pt/kollision.po | 
+ | [sk](/f43/language/sk) | 102 | 109 | 93.6 | /mnt/stockage/packages/f43/kollision/po/sk/kollision.po | 
+ | [sr](/f43/language/sr) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr/kollision.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr@ijekavian/kollision.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr@ijekavianlatin/kollision.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 99 | 109 | 90.8 | /mnt/stockage/packages/f43/kollision/po/sr@latin/kollision.po | 
+ | [cs](/f43/language/cs) | 93 | 109 | 85.3 | /mnt/stockage/packages/f43/kollision/po/cs/kollision.po | 
+ | [bs](/f43/language/bs) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/bs/kollision.po | 
+ | [ga](/f43/language/ga) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/ga/kollision.po | 
+ | [ja](/f43/language/ja) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/ja/kollision.po | 
+ | [kk](/f43/language/kk) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/kk/kollision.po | 
+ | [km](/f43/language/km) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/km/kollision.po | 
+ | [lt](/f43/language/lt) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/lt/kollision.po | 
+ | [nb_NO](/f43/language/nb_NO) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/nb/kollision.po | 
+ | [nds](/f43/language/nds) | 86 | 109 | 78.9 | /mnt/stockage/packages/f43/kollision/po/nds/kollision.po | 
+ | [gu](/f43/language/gu) | 80 | 109 | 73.4 | /mnt/stockage/packages/f43/kollision/po/gu/kollision.po | 
+ | [th](/f43/language/th) | 80 | 109 | 73.4 | /mnt/stockage/packages/f43/kollision/po/th/kollision.po | 
+ | [pa](/f43/language/pa) | 51 | 109 | 46.8 | /mnt/stockage/packages/f43/kollision/po/pa/kollision.po | 
+ | [mr](/f43/language/mr) | 39 | 109 | 35.8 | /mnt/stockage/packages/f43/kollision/po/mr/kollision.po | 
+ | [sq](/f43/language/sq) | 27 | 109 | 24.8 | /mnt/stockage/packages/f43/kollision/po/sq/kollision.po | 
+ | [ug](/f43/language/ug) | 22 | 109 | 20.2 | /mnt/stockage/packages/f43/kollision/po/ug/kollision.po | 
+ | [mai](/f43/language/mai) | 8 | 109 | 7.3 | /mnt/stockage/packages/f43/kollision/po/mai/kollision.po | 
+ | [ast](/f43/language/ast) | 4 | 109 | 3.7 | /mnt/stockage/packages/f43/kollision/po/ast/kollision.po | 
+ | [hr](/f43/language/hr) | 4 | 109 | 3.7 | /mnt/stockage/packages/f43/kollision/po/hr/kollision.po | 
+ | [ml](/f43/language/ml) | 2 | 109 | 1.8 | /mnt/stockage/packages/f43/kollision/po/ml/kollision.po | 
+ | [bg](/f43/language/bg) | 0 | 109 | 0.0 | /mnt/stockage/packages/f43/kollision/po/bg/kollision.po | 
+ | [hi](/f43/language/hi) | 0 | 109 | 0.0 | /mnt/stockage/packages/f43/kollision/po/hi/kollision.po | 
+ | [is](/f43/language/is) | 0 | 109 | 0.0 | /mnt/stockage/packages/f43/kollision/po/is/kollision.po | 
 {.sortable}
 
 

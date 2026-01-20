@@ -18,47 +18,47 @@ The package kdevelop-php (version 5.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ca/kdevphp.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ca@valencia/kdevphp.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/en_GB/kdevphp.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/es/kdevphp.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/fr/kdevphp.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/gl/kdevphp.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/it/kdevphp.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ko/kdevphp.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/nl/kdevphp.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/pl/kdevphp.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/pt/kdevphp.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/sv/kdevphp.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/uk/kdevphp.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/zh_CN/kdevphp.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 501 | 511 | 98.0 | /mnt/stockage/packages/f29/kdevelop-php/po/sk/kdevphp.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 481 | 511 | 94.1 | /mnt/stockage/packages/f29/kdevelop-php/po/de/kdevphp.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 460 | 511 | 90.0 | /mnt/stockage/packages/f29/kdevelop-php/po/pt_BR/kdevphp.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 431 | 511 | 84.3 | /mnt/stockage/packages/f29/kdevelop-php/po/tr/kdevphp.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 407 | 511 | 79.6 | /mnt/stockage/packages/f29/kdevelop-php/po/sl/kdevphp.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 340 | 511 | 66.5 | /mnt/stockage/packages/f29/kdevelop-php/po/et/kdevphp.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 336 | 511 | 65.8 | /mnt/stockage/packages/f29/kdevelop-php/po/fi/kdevphp.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 328 | 511 | 64.2 | /mnt/stockage/packages/f29/kdevelop-php/po/zh_TW/kdevphp.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 271 | 511 | 53.0 | /mnt/stockage/packages/f29/kdevelop-php/po/bs/kdevphp.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 271 | 511 | 53.0 | /mnt/stockage/packages/f29/kdevelop-php/po/da/kdevphp.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 249 | 511 | 48.7 | /mnt/stockage/packages/f29/kdevelop-php/po/nb/kdevphp.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 195 | 511 | 38.2 | /mnt/stockage/packages/f29/kdevelop-php/po/kk/kdevphp.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 191 | 511 | 37.4 | /mnt/stockage/packages/f29/kdevelop-php/po/el/kdevphp.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 191 | 511 | 37.4 | /mnt/stockage/packages/f29/kdevelop-php/po/ru/kdevphp.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 186 | 511 | 36.4 | /mnt/stockage/packages/f29/kdevelop-php/po/nds/kdevphp.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 158 | 511 | 30.9 | /mnt/stockage/packages/f29/kdevelop-php/po/th/kdevphp.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 119 | 511 | 23.3 | /mnt/stockage/packages/f29/kdevelop-php/po/hu/kdevphp.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 86 | 511 | 16.8 | /mnt/stockage/packages/f29/kdevelop-php/po/cs/kdevphp.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 40 | 511 | 7.8 | /mnt/stockage/packages/f29/kdevelop-php/po/ga/kdevphp.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 39 | 511 | 7.6 | /mnt/stockage/packages/f29/kdevelop-php/po/ro/kdevphp.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 26 | 511 | 5.1 | /mnt/stockage/packages/f29/kdevelop-php/po/ug/kdevphp.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 16 | 511 | 3.1 | /mnt/stockage/packages/f29/kdevelop-php/po/ja/kdevphp.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 13 | 511 | 2.5 | /mnt/stockage/packages/f29/kdevelop-php/po/mr/kdevphp.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 11 | 511 | 2.2 | /mnt/stockage/packages/f29/kdevelop-php/po/eo/kdevphp.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 2 | 511 | 0.4 | /mnt/stockage/packages/f29/kdevelop-php/po/hr/kdevphp.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 0 | 511 | 0.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ast/kdevphp.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 511 | 0.0 | /mnt/stockage/packages/f29/kdevelop-php/po/lt/kdevphp.po | 
+ | [ca](/f29/language/ca) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ca/kdevphp.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ca@valencia/kdevphp.po | 
+ | [en_GB](/f29/language/en_GB) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/en_GB/kdevphp.po | 
+ | [es](/f29/language/es) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/es/kdevphp.po | 
+ | [fr](/f29/language/fr) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/fr/kdevphp.po | 
+ | [gl](/f29/language/gl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/gl/kdevphp.po | 
+ | [it](/f29/language/it) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/it/kdevphp.po | 
+ | [ko](/f29/language/ko) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ko/kdevphp.po | 
+ | [nl](/f29/language/nl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/nl/kdevphp.po | 
+ | [pl](/f29/language/pl) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/pl/kdevphp.po | 
+ | [pt](/f29/language/pt) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/pt/kdevphp.po | 
+ | [sv](/f29/language/sv) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/sv/kdevphp.po | 
+ | [uk](/f29/language/uk) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/uk/kdevphp.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 511 | 511 | 100.0 | /mnt/stockage/packages/f29/kdevelop-php/po/zh_CN/kdevphp.po | 
+ | [sk](/f29/language/sk) | 501 | 511 | 98.0 | /mnt/stockage/packages/f29/kdevelop-php/po/sk/kdevphp.po | 
+ | [de](/f29/language/de) | 481 | 511 | 94.1 | /mnt/stockage/packages/f29/kdevelop-php/po/de/kdevphp.po | 
+ | [pt_BR](/f29/language/pt_BR) | 460 | 511 | 90.0 | /mnt/stockage/packages/f29/kdevelop-php/po/pt_BR/kdevphp.po | 
+ | [tr](/f29/language/tr) | 431 | 511 | 84.3 | /mnt/stockage/packages/f29/kdevelop-php/po/tr/kdevphp.po | 
+ | [sl](/f29/language/sl) | 407 | 511 | 79.6 | /mnt/stockage/packages/f29/kdevelop-php/po/sl/kdevphp.po | 
+ | [et](/f29/language/et) | 340 | 511 | 66.5 | /mnt/stockage/packages/f29/kdevelop-php/po/et/kdevphp.po | 
+ | [fi](/f29/language/fi) | 336 | 511 | 65.8 | /mnt/stockage/packages/f29/kdevelop-php/po/fi/kdevphp.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 328 | 511 | 64.2 | /mnt/stockage/packages/f29/kdevelop-php/po/zh_TW/kdevphp.po | 
+ | [bs](/f29/language/bs) | 271 | 511 | 53.0 | /mnt/stockage/packages/f29/kdevelop-php/po/bs/kdevphp.po | 
+ | [da](/f29/language/da) | 271 | 511 | 53.0 | /mnt/stockage/packages/f29/kdevelop-php/po/da/kdevphp.po | 
+ | [nb_NO](/f29/language/nb_NO) | 249 | 511 | 48.7 | /mnt/stockage/packages/f29/kdevelop-php/po/nb/kdevphp.po | 
+ | [kk](/f29/language/kk) | 195 | 511 | 38.2 | /mnt/stockage/packages/f29/kdevelop-php/po/kk/kdevphp.po | 
+ | [el](/f29/language/el) | 191 | 511 | 37.4 | /mnt/stockage/packages/f29/kdevelop-php/po/el/kdevphp.po | 
+ | [ru](/f29/language/ru) | 191 | 511 | 37.4 | /mnt/stockage/packages/f29/kdevelop-php/po/ru/kdevphp.po | 
+ | [nds](/f29/language/nds) | 186 | 511 | 36.4 | /mnt/stockage/packages/f29/kdevelop-php/po/nds/kdevphp.po | 
+ | [th](/f29/language/th) | 158 | 511 | 30.9 | /mnt/stockage/packages/f29/kdevelop-php/po/th/kdevphp.po | 
+ | [hu](/f29/language/hu) | 119 | 511 | 23.3 | /mnt/stockage/packages/f29/kdevelop-php/po/hu/kdevphp.po | 
+ | [cs](/f29/language/cs) | 86 | 511 | 16.8 | /mnt/stockage/packages/f29/kdevelop-php/po/cs/kdevphp.po | 
+ | [ga](/f29/language/ga) | 40 | 511 | 7.8 | /mnt/stockage/packages/f29/kdevelop-php/po/ga/kdevphp.po | 
+ | [ro](/f29/language/ro) | 39 | 511 | 7.6 | /mnt/stockage/packages/f29/kdevelop-php/po/ro/kdevphp.po | 
+ | [ug](/f29/language/ug) | 26 | 511 | 5.1 | /mnt/stockage/packages/f29/kdevelop-php/po/ug/kdevphp.po | 
+ | [ja](/f29/language/ja) | 16 | 511 | 3.1 | /mnt/stockage/packages/f29/kdevelop-php/po/ja/kdevphp.po | 
+ | [mr](/f29/language/mr) | 13 | 511 | 2.5 | /mnt/stockage/packages/f29/kdevelop-php/po/mr/kdevphp.po | 
+ | [eo](/f29/language/eo) | 11 | 511 | 2.2 | /mnt/stockage/packages/f29/kdevelop-php/po/eo/kdevphp.po | 
+ | [hr](/f29/language/hr) | 2 | 511 | 0.4 | /mnt/stockage/packages/f29/kdevelop-php/po/hr/kdevphp.po | 
+ | [ast](/f29/language/ast) | 0 | 511 | 0.0 | /mnt/stockage/packages/f29/kdevelop-php/po/ast/kdevphp.po | 
+ | [lt](/f29/language/lt) | 0 | 511 | 0.0 | /mnt/stockage/packages/f29/kdevelop-php/po/lt/kdevphp.po | 
 {.sortable}
 
 

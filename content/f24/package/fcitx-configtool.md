@@ -18,12 +18,12 @@ The package fcitx-configtool (version 0.4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/ca.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/de.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/ja.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/ru.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/zh_TW.po | 
+ | [ca](/f24/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/ca.po | 
+ | [de](/f24/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/de.po | 
+ | [ja](/f24/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/ja.po | 
+ | [ru](/f24/language/ru) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/ru.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 106 | 106 | 100.0 | /mnt/stockage/packages/f24/fcitx-configtool/po/zh_TW.po | 
 {.sortable}
 
 

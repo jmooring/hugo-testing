@@ -42,344 +42,344 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f17/package/GConf2.md" >}}) | 4024 | 4024 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [accerciser]({{< ref "/f17/package/accerciser.md" >}}) | 535 | 535 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [alacarte]({{< ref "/f17/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [anaconda]({{< ref "/f17/package/anaconda.md" >}}) | 8297 | 8297 | 100.0 | Bengali <info@ankur.org.bd> | 
- | [at-spi]({{< ref "/f17/package/at-spi.md" >}}) | 61 | 61 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [at-spi2-atk]({{< ref "/f17/package/at-spi2-atk.md" >}}) | 49 | 49 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [atk]({{< ref "/f17/package/atk.md" >}}) | 375 | 375 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [brasero]({{< ref "/f17/package/brasero.md" >}}) | 5408 | 5408 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [cheese]({{< ref "/f17/package/cheese.md" >}}) | 651 | 651 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [console-setup]({{< ref "/f17/package/console-setup.md" >}}) | 979 | 979 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [dasher]({{< ref "/f17/package/dasher.md" >}}) | 311 | 311 | 100.0 | Bengali <gnome-translation@bengalinux.org> | 
- | [debconf]({{< ref "/f17/package/debconf.md" >}}) | 805 | 805 | 100.0 | Bengali<ankur-bd-l10n@googlegroups.com> | 
- | [devhelp]({{< ref "/f17/package/devhelp.md" >}}) | 414 | 414 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [ekiga]({{< ref "/f17/package/ekiga.md" >}}) | 4204 | 4204 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [emerald]({{< ref "/f17/package/emerald.md" >}}) | 774 | 774 | 100.0 | BANGLA <mahdee.jameel@gmail.com> | 
- | [empathy]({{< ref "/f17/package/empathy.md" >}}) | 3253 | 3253 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [eog]({{< ref "/f17/package/eog.md" >}}) | 1527 | 1527 | 100.0 | Bengali<ankur-bd-l10n@googlegroups.com> | 
- | [epiphany]({{< ref "/f17/package/epiphany.md" >}}) | 3073 | 3073 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [evince]({{< ref "/f17/package/evince.md" >}}) | 1392 | 1392 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [evolution]({{< ref "/f17/package/evolution.md" >}}) | 22130 | 22130 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [evolution-data-server]({{< ref "/f17/package/evolution-data-server.md" >}}) | 4910 | 4910 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [evolution-exchange]({{< ref "/f17/package/evolution-exchange.md" >}}) | 2204 | 2204 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [evolution-mapi]({{< ref "/f17/package/evolution-mapi.md" >}}) | 341 | 341 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [file-roller]({{< ref "/f17/package/file-roller.md" >}}) | 1370 | 1370 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gcalctool]({{< ref "/f17/package/gcalctool.md" >}}) | 1327 | 1327 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gconf-editor]({{< ref "/f17/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gdm]({{< ref "/f17/package/gdm.md" >}}) | 1094 | 1094 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gedit]({{< ref "/f17/package/gedit.md" >}}) | 5004 | 5004 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [ggz-gtk-client]({{< ref "/f17/package/ggz-gtk-client.md" >}}) | 7 | 7 | 100.0 | Bangla <gnome-translation@BengaLinux.Org> | 
- | [gnome-applets]({{< ref "/f17/package/gnome-applets.md" >}}) | 3352 | 3352 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f17/package/gnome-backgrounds.md" >}}) | 29 | 29 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-bluetooth]({{< ref "/f17/package/gnome-bluetooth.md" >}}) | 662 | 662 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-desktop]({{< ref "/f17/package/gnome-desktop.md" >}}) | 349 | 349 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f17/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-disk-utility]({{< ref "/f17/package/gnome-disk-utility.md" >}}) | 4544 | 4544 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-doc-utils]({{< ref "/f17/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f17/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-mag]({{< ref "/f17/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-media]({{< ref "/f17/package/gnome-media.md" >}}) | 1211 | 1211 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f17/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-mime-data]({{< ref "/f17/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Bengali (bn) <gnome-translation@bengalinux.org> | 
- | [gnome-nettool]({{< ref "/f17/package/gnome-nettool.md" >}}) | 617 | 617 | 100.0 | Bangla <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-packagekit]({{< ref "/f17/package/gnome-packagekit.md" >}}) | 4694 | 4694 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-panel]({{< ref "/f17/package/gnome-panel.md" >}}) | 3667 | 3667 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-screensaver]({{< ref "/f17/package/gnome-screensaver.md" >}}) | 291 | 291 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-session]({{< ref "/f17/package/gnome-session.md" >}}) | 446 | 446 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-settings-daemon]({{< ref "/f17/package/gnome-settings-daemon.md" >}}) | 1752 | 1752 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-system-monitor]({{< ref "/f17/package/gnome-system-monitor.md" >}}) | 933 | 933 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-terminal]({{< ref "/f17/package/gnome-terminal.md" >}}) | 4141 | 4141 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-themes]({{< ref "/f17/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-user-share]({{< ref "/f17/package/gnome-user-share.md" >}}) | 326 | 326 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-vfs2]({{< ref "/f17/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gok]({{< ref "/f17/package/gok.md" >}}) | 1915 | 1915 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtk2-engines]({{< ref "/f17/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtkhtml3]({{< ref "/f17/package/gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtksourceview]({{< ref "/f17/package/gtksourceview.md" >}}) | 768 | 768 | 100.0 | Bengali <gnome-translation@bengalinux.org> | 
- | [gtksourceview2]({{< ref "/f17/package/gtksourceview2.md" >}}) | 1413 | 1413 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtksourceview3]({{< ref "/f17/package/gtksourceview3.md" >}}) | 1413 | 1413 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gucharmap]({{< ref "/f17/package/gucharmap.md" >}}) | 863 | 863 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gvfs]({{< ref "/f17/package/gvfs.md" >}}) | 1936 | 1936 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [hamster-applet]({{< ref "/f17/package/hamster-applet.md" >}}) | 644 | 644 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libbonobo]({{< ref "/f17/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libbonoboui]({{< ref "/f17/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libcryptui]({{< ref "/f17/package/libcryptui.md" >}}) | 3061 | 3061 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgdl]({{< ref "/f17/package/libgdl.md" >}}) | 600 | 600 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnome]({{< ref "/f17/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnome-keyring]({{< ref "/f17/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnomecanvas]({{< ref "/f17/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnomekbd]({{< ref "/f17/package/libgnomekbd.md" >}}) | 286 | 286 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnomeprint22]({{< ref "/f17/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnomeprintui22]({{< ref "/f17/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgnomeui]({{< ref "/f17/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgtop2]({{< ref "/f17/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libgweather]({{< ref "/f17/package/libgweather.md" >}}) | 6090 | 6090 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libmate]({{< ref "/f17/package/libmate.md" >}}) | 1773 | 1773 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmatecanvas]({{< ref "/f17/package/libmatecanvas.md" >}}) | 378 | 378 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmatecomponentui]({{< ref "/f17/package/libmatecomponentui.md" >}}) | 368 | 368 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmatekbd]({{< ref "/f17/package/libmatekbd.md" >}}) | 286 | 286 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libmatekeyring]({{< ref "/f17/package/libmatekeyring.md" >}}) | 44 | 44 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmateui]({{< ref "/f17/package/libmateui.md" >}}) | 1223 | 1223 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libmatewnck]({{< ref "/f17/package/libmatewnck.md" >}}) | 1124 | 1124 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libwnck]({{< ref "/f17/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libwnck3]({{< ref "/f17/package/libwnck3.md" >}}) | 1124 | 1124 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libxfce4ui]({{< ref "/f17/package/libxfce4ui.md" >}}) | 149 | 149 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libxfce4util]({{< ref "/f17/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [lightdm-gtk]({{< ref "/f17/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | Bengali <bn@li.org> | 
- | [lxpolkit]({{< ref "/f17/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxsession]({{< ref "/f17/package/lxsession.md" >}}) | 36 | 36 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [lxshortcut]({{< ref "/f17/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-bluetooth]({{< ref "/f17/package/mate-bluetooth.md" >}}) | 664 | 664 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-calc]({{< ref "/f17/package/mate-calc.md" >}}) | 1327 | 1327 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-character-map]({{< ref "/f17/package/mate-character-map.md" >}}) | 863 | 863 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-conf-editor]({{< ref "/f17/package/mate-conf-editor.md" >}}) | 336 | 336 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-doc-utils]({{< ref "/f17/package/mate-doc-utils.md" >}}) | 251 | 251 | 100.0 | LANGUAGE <LL@li.org> | 
- | [mate-document-viewer]({{< ref "/f17/package/mate-document-viewer.md" >}}) | 1392 | 1392 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-file-archiver]({{< ref "/f17/package/mate-file-archiver.md" >}}) | 1365 | 1365 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-file-manager-sendto]({{< ref "/f17/package/mate-file-manager-sendto.md" >}}) | 310 | 310 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-icon-theme]({{< ref "/f17/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-menu-editor]({{< ref "/f17/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
- | [mate-menus]({{< ref "/f17/package/mate-menus.md" >}}) | 161 | 161 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-mime-data]({{< ref "/f17/package/mate-mime-data.md" >}}) | 887 | 887 | 100.0 | LANGUAGE <LL@li.org> | 
- | [mate-power-manager]({{< ref "/f17/package/mate-power-manager.md" >}}) | 2727 | 2727 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-screensaver]({{< ref "/f17/package/mate-screensaver.md" >}}) | 989 | 989 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-session-manager]({{< ref "/f17/package/mate-session-manager.md" >}}) | 638 | 638 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-system-monitor]({{< ref "/f17/package/mate-system-monitor.md" >}}) | 933 | 933 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-terminal]({{< ref "/f17/package/mate-terminal.md" >}}) | 4141 | 4141 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-user-share]({{< ref "/f17/package/mate-user-share.md" >}}) | 326 | 326 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-utils]({{< ref "/f17/package/mate-utils.md" >}}) | 3921 | 3921 | 100.0 | LANGUAGE <LL@li.org> | 
- | [mate-vfs]({{< ref "/f17/package/mate-vfs.md" >}}) | 1519 | 1519 | 100.0 | LANGUAGE <LL@li.org> | 
- | [metacity]({{< ref "/f17/package/metacity.md" >}}) | 3798 | 3798 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-atk]({{< ref "/f17/package/mingw-atk.md" >}}) | 375 | 375 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-gtkhtml3]({{< ref "/f17/package/mingw-gtkhtml3.md" >}}) | 713 | 713 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-gtksourceview3]({{< ref "/f17/package/mingw-gtksourceview3.md" >}}) | 1413 | 1413 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mousetweaks]({{< ref "/f17/package/mousetweaks.md" >}}) | 730 | 730 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [nautilus]({{< ref "/f17/package/nautilus.md" >}}) | 7129 | 7129 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [nautilus-sendto]({{< ref "/f17/package/nautilus-sendto.md" >}}) | 310 | 310 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [nemo]({{< ref "/f17/package/nemo.md" >}}) | 7129 | 7129 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [newt]({{< ref "/f17/package/newt.md" >}}) | 4 | 4 | 100.0 | Bangla <core@BengaLinux.Org> | 
- | [notification-daemon]({{< ref "/f17/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [olpc-switch-desktop]({{< ref "/f17/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [orca]({{< ref "/f17/package/orca.md" >}}) | 4011 | 4011 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [pessulus]({{< ref "/f17/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sabayon]({{< ref "/f17/package/sabayon.md" >}}) | 743 | 743 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [scribus]({{< ref "/f17/package/scribus.md" >}}) | 14194 | 14194 | 100.0 | gist Bengali team <info.gist@cdac.in> | 
- | [seahorse]({{< ref "/f17/package/seahorse.md" >}}) | 3061 | 3061 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [seahorse-plugins]({{< ref "/f17/package/seahorse-plugins.md" >}}) | 1148 | 1148 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [setroubleshoot-plugins]({{< ref "/f17/package/setroubleshoot-plugins.md" >}}) | 8291 | 8291 | 100.0 | Bengali <info@ankur.org.bd> | 
- | [sound-juicer]({{< ref "/f17/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar-abacus]({{< ref "/f17/package/sugar-abacus.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f17/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f17/package/sugar-imageviewer.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f17/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Bengali <redhat-translation@bengalinux.org> | 
- | [system-config-samba]({{< ref "/f17/package/system-config-samba.md" >}}) | 571 | 571 | 100.0 | Bengali <info@ankur.org.bd> | 
- | [system-config-users]({{< ref "/f17/package/system-config-users.md" >}}) | 1452 | 1452 | 100.0 | Bengali <info@ankur.org.bd> | 
- | [system-switch-mail]({{< ref "/f17/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Bangla <redhat-translation@bengalinux.org> | 
- | [tomboy]({{< ref "/f17/package/tomboy.md" >}}) | 3056 | 3056 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [totem]({{< ref "/f17/package/totem.md" >}}) | 2611 | 2611 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [totem-pl-parser]({{< ref "/f17/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [transmission]({{< ref "/f17/package/transmission.md" >}}) | 1809 | 1809 | 100.0 | Bengali <bn@li.org> | 
- | [vinagre]({{< ref "/f17/package/vinagre.md" >}}) | 1599 | 1599 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [vino]({{< ref "/f17/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [vte]({{< ref "/f17/package/vte.md" >}}) | 84 | 84 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [vte3]({{< ref "/f17/package/vte3.md" >}}) | 84 | 84 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [xfconf]({{< ref "/f17/package/xfconf.md" >}}) | 437 | 437 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [yelp]({{< ref "/f17/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [yelp-xsl]({{< ref "/f17/package/yelp-xsl.md" >}}) | 213 | 213 | 100.0 | Bangla <gnome-translation@bengalinux.org> | 
- | [zenity]({{< ref "/f17/package/zenity.md" >}}) | 592 | 592 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtk2]({{< ref "/f17/package/gtk2.md" >}}) | 13699 | 13704 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-gtk2]({{< ref "/f17/package/mingw-gtk2.md" >}}) | 13699 | 13704 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-search-tool]({{< ref "/f17/package/gnome-search-tool.md" >}}) | 1356 | 1359 | 99.8 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libmateweather]({{< ref "/f17/package/libmateweather.md" >}}) | 6074 | 6090 | 99.7 | LANGUAGE <LL@li.org> | 
- | [exo]({{< ref "/f17/package/exo.md" >}}) | 2207 | 2214 | 99.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [iso-codes]({{< ref "/f17/package/iso-codes.md" >}}) | 1091 | 1097 | 99.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [pidgin]({{< ref "/f17/package/pidgin.md" >}}) | 18246 | 18356 | 99.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-text-editor]({{< ref "/f17/package/mate-text-editor.md" >}}) | 4955 | 4986 | 99.4 | LANGUAGE <LL@li.org> | 
- | [aisleriot]({{< ref "/f17/package/aisleriot.md" >}}) | 1973 | 1987 | 99.3 | Bangla <ankur-bd-l10n@googlegroups.com> | 
- | [xfce4-session]({{< ref "/f17/package/xfce4-session.md" >}}) | 1121 | 1132 | 99.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [Thunar]({{< ref "/f17/package/Thunar.md" >}}) | 10427 | 10539 | 98.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [libmatecomponent]({{< ref "/f17/package/libmatecomponent.md" >}}) | 537 | 543 | 98.9 | LANGUAGE <LL@li.org> | 
- | [mate-conf]({{< ref "/f17/package/mate-conf.md" >}}) | 3985 | 4032 | 98.8 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f17/package/sugar-toolkit-gtk3.md" >}}) | 75 | 76 | 98.7 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f17/package/sugar-toolkit.md" >}}) | 72 | 73 | 98.6 | LANGUAGE <LL@li.org> | 
- | [mate-window-manager]({{< ref "/f17/package/mate-window-manager.md" >}}) | 2076 | 2116 | 98.1 | LANGUAGE <LL@li.org> | 
- | [gnome-keyring]({{< ref "/f17/package/gnome-keyring.md" >}}) | 480 | 490 | 98.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [seahorse-nautilus]({{< ref "/f17/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [baobab]({{< ref "/f17/package/baobab.md" >}}) | 526 | 540 | 97.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [lxinput]({{< ref "/f17/package/lxinput.md" >}}) | 70 | 72 | 97.2 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [system-config-date]({{< ref "/f17/package/system-config-date.md" >}}) | 1795 | 1850 | 97.0 | Bengali <info@ankur.org.bd> | 
- | [libgnome-media-profiles]({{< ref "/f17/package/libgnome-media-profiles.md" >}}) | 446 | 460 | 97.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [lxsession-edit]({{< ref "/f17/package/lxsession-edit.md" >}}) | 62 | 64 | 96.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-system-log]({{< ref "/f17/package/gnome-system-log.md" >}}) | 504 | 522 | 96.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar-finance]({{< ref "/f17/package/sugar-finance.md" >}}) | 138 | 143 | 96.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gnome-dictionary]({{< ref "/f17/package/gnome-dictionary.md" >}}) | 803 | 833 | 96.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtk3]({{< ref "/f17/package/gtk3.md" >}}) | 11523 | 11987 | 96.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-gtk3]({{< ref "/f17/package/mingw-gtk3.md" >}}) | 11523 | 11987 | 96.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [xfwm4]({{< ref "/f17/package/xfwm4.md" >}}) | 801 | 837 | 95.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [system-config-httpd]({{< ref "/f17/package/system-config-httpd.md" >}}) | 816 | 858 | 95.1 | bangla <redhat-translation@bengalinux.org> | 
- | [gwibber]({{< ref "/f17/package/gwibber.md" >}}) | 725 | 769 | 94.3 | Bengali <bn@li.org> | 
- | [mate-panel]({{< ref "/f17/package/mate-panel.md" >}}) | 3985 | 4237 | 94.1 | LANGUAGE <LL@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f17/package/gdk-pixbuf2.md" >}}) | 1263 | 1345 | 93.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-gdk-pixbuf]({{< ref "/f17/package/mingw-gdk-pixbuf.md" >}}) | 1263 | 1345 | 93.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [lxterminal]({{< ref "/f17/package/lxterminal.md" >}}) | 135 | 144 | 93.8 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [poedit]({{< ref "/f17/package/poedit.md" >}}) | 1089 | 1162 | 93.7 | Ekushey <bangla@ekushey.org> | 
- | [virt-viewer]({{< ref "/f17/package/virt-viewer.md" >}}) | 500 | 539 | 92.8 | Bengali <info@ankur.org.bd> | 
- | [mate-dialogs]({{< ref "/f17/package/mate-dialogs.md" >}}) | 584 | 631 | 92.6 | LANGUAGE <LL@li.org> | 
- | [redhat-menus]({{< ref "/f17/package/redhat-menus.md" >}}) | 240 | 261 | 92.0 | Bangla <redhat-translation@BengaLinux.Org> | 
- | [libreoffice]({{< ref "/f17/package/libreoffice.md" >}}) | 487440 | 531817 | 91.7 | LANGUAGE <LL@li.org> | 
- | [usermode]({{< ref "/f17/package/usermode.md" >}}) | 524 | 572 | 91.6 | Bengali <info@ankur.org.bd> | 
- | [pogo]({{< ref "/f17/package/pogo.md" >}}) | 523 | 576 | 90.8 | Bengali <bn@li.org> | 
- | [system-config-keyboard]({{< ref "/f17/package/system-config-keyboard.md" >}}) | 169 | 187 | 90.4 | Bengali <redhat-translation@bengalinux.org> | 
- | [mate-media]({{< ref "/f17/package/mate-media.md" >}}) | 831 | 920 | 90.3 | LANGUAGE <LL@li.org> | 
- | [gnome-games]({{< ref "/f17/package/gnome-games.md" >}}) | 6322 | 7094 | 89.1 | Bangla <ankur-bd-l10n@googlegroups.com> | 
- | [setroubleshoot]({{< ref "/f17/package/setroubleshoot.md" >}}) | 562 | 631 | 89.1 | Bengali <info@ankur.org.bd> | 
- | [system-config-lvm]({{< ref "/f17/package/system-config-lvm.md" >}}) | 1902 | 2142 | 88.8 | Bangla <redhat-translation@bengalinux.org> | 
- | [sugar-infoslicer]({{< ref "/f17/package/sugar-infoslicer.md" >}}) | 163 | 184 | 88.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [lxrandr]({{< ref "/f17/package/lxrandr.md" >}}) | 108 | 122 | 88.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [system-config-network]({{< ref "/f17/package/system-config-network.md" >}}) | 2683 | 3032 | 88.5 | Bengali <fedora-trans-bn@redhat.com> | 
- | [xfce4-settings]({{< ref "/f17/package/xfce4-settings.md" >}}) | 1130 | 1277 | 88.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar]({{< ref "/f17/package/sugar.md" >}}) | 1411 | 1601 | 88.1 | Bengali <core@bengalinux.org> | 
- | [thunar-vfs]({{< ref "/f17/package/thunar-vfs.md" >}}) | 341 | 387 | 88.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-themes]({{< ref "/f17/package/mate-themes.md" >}}) | 96 | 109 | 88.1 | LANGUAGE <LL@li.org> | 
- | [gnome-power-manager]({{< ref "/f17/package/gnome-power-manager.md" >}}) | 379 | 432 | 87.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [pidgin-guifications]({{< ref "/f17/package/pidgin-guifications.md" >}}) | 443 | 505 | 87.7 | Bangla <core@bengalinux.org> | 
- | [mate-applets]({{< ref "/f17/package/mate-applets.md" >}}) | 2880 | 3299 | 87.3 | LANGUAGE <LL@li.org> | 
- | [lxpanel]({{< ref "/f17/package/lxpanel.md" >}}) | 861 | 987 | 87.2 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-control-center]({{< ref "/f17/package/mate-control-center.md" >}}) | 2272 | 2610 | 87.0 | LANGUAGE <LL@li.org> | 
- | [mate-keyring]({{< ref "/f17/package/mate-keyring.md" >}}) | 1018 | 1173 | 86.8 | LANGUAGE <LL@li.org> | 
- | [ccsm]({{< ref "/f17/package/ccsm.md" >}}) | 475 | 549 | 86.5 | gist bengali team <info.gist@cdac.in> | 
- | [system-config-nfs]({{< ref "/f17/package/system-config-nfs.md" >}}) | 286 | 332 | 86.1 | Bangla <redhat-translation@BengaLinux.Org> | 
- | [setuptool]({{< ref "/f17/package/setuptool.md" >}}) | 47 | 55 | 85.5 | Bangla <redhat-translation@bengalinux.org> | 
- | [mate-file-manager]({{< ref "/f17/package/mate-file-manager.md" >}}) | 7710 | 9086 | 84.9 | LANGUAGE <LL@li.org> | 
- | [python-sphinx]({{< ref "/f17/package/python-sphinx.md" >}}) | 381 | 450 | 84.7 | Nasimul Haque <nasim.haque@gmail.com> | 
- | [sugar-moon]({{< ref "/f17/package/sugar-moon.md" >}}) | 77 | 91 | 84.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [chkconfig]({{< ref "/f17/package/chkconfig.md" >}}) | 410 | 487 | 84.2 | Bengali <info@ankur.org.bd> | 
- | [tumbler]({{< ref "/f17/package/tumbler.md" >}}) | 245 | 293 | 83.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-image-viewer]({{< ref "/f17/package/mate-image-viewer.md" >}}) | 1341 | 1623 | 82.6 | LANGUAGE <LL@li.org> | 
- | [gnome-screenshot]({{< ref "/f17/package/gnome-screenshot.md" >}}) | 263 | 319 | 82.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar-read]({{< ref "/f17/package/sugar-read.md" >}}) | 51 | 62 | 82.3 | LANGUAGE <LL@li.org> | 
- | [xfce4-panel]({{< ref "/f17/package/xfce4-panel.md" >}}) | 1220 | 1504 | 81.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [steadyflow]({{< ref "/f17/package/steadyflow.md" >}}) | 379 | 470 | 80.6 | Bengali <bn@li.org> | 
- | [sugar-write]({{< ref "/f17/package/sugar-write.md" >}}) | 64 | 80 | 80.0 | LANGUAGE <LL@li.org> | 
- | [control-center]({{< ref "/f17/package/control-center.md" >}}) | 2891 | 3665 | 78.9 | Bangla <redhat-translation@bengalinux.org> | 
- | [xfdesktop]({{< ref "/f17/package/xfdesktop.md" >}}) | 2152 | 2729 | 78.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [muffin]({{< ref "/f17/package/muffin.md" >}}) | 5430 | 6919 | 78.5 | Bengali <gnome-trans@bengalinux.org> | 
- | [mutter]({{< ref "/f17/package/mutter.md" >}}) | 5430 | 6919 | 78.5 | Bengali <gnome-trans@bengalinux.org> | 
- | [mate-backgrounds]({{< ref "/f17/package/mate-backgrounds.md" >}}) | 23 | 30 | 76.7 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f17/package/sugar-terminal.md" >}}) | 13 | 17 | 76.5 | LANGUAGE <LL@li.org> | 
- | [gftp]({{< ref "/f17/package/gftp.md" >}}) | 2499 | 3375 | 74.0 | Bangla <gnome-translation@bengalinux.org> | 
- | [gedit-plugins]({{< ref "/f17/package/gedit-plugins.md" >}}) | 831 | 1205 | 69.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-settings-daemon]({{< ref "/f17/package/mate-settings-daemon.md" >}}) | 1179 | 1735 | 68.0 | LANGUAGE <LL@li.org> | 
- | [libuser]({{< ref "/f17/package/libuser.md" >}}) | 1011 | 1489 | 67.9 | Bengali <info@ankur.org.bd> | 
- | [system-config-kickstart]({{< ref "/f17/package/system-config-kickstart.md" >}}) | 731 | 1104 | 66.2 | Bengali <redhat-translation@bengalinux.org> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 6120 | 9286 | 65.9 | Tanmoy Saha | 
- | [ntfs-config]({{< ref "/f17/package/ntfs-config.md" >}}) | 235 | 357 | 65.8 | Bengali <bn@li.org> | 
- | [compiz]({{< ref "/f17/package/compiz.md" >}}) | 2138 | 3250 | 65.8 | gist bengali  team <info.gist@cdac.in> | 
- | [sugar-paint]({{< ref "/f17/package/sugar-paint.md" >}}) | 41 | 64 | 64.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [drwright]({{< ref "/f17/package/drwright.md" >}}) | 122 | 191 | 63.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [klavaro]({{< ref "/f17/package/klavaro.md" >}}) | 1214 | 1913 | 63.5 | Bangla/Bengali <l10n@ankur.org.bd> | 
- | [abrt]({{< ref "/f17/package/abrt.md" >}}) | 1198 | 1965 | 61.0 | Bengali <info@ankur.org.bd> | 
- | [lxmenu-data]({{< ref "/f17/package/lxmenu-data.md" >}}) | 59 | 97 | 60.8 | Bengali <gnome-translation@bengalinux.org> | 
- | [gnome-shell]({{< ref "/f17/package/gnome-shell.md" >}}) | 566 | 964 | 58.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [nautilus-actions]({{< ref "/f17/package/nautilus-actions.md" >}}) | 846 | 1554 | 54.4 | Bangla <gnome-translation@BengaLinux.Org> | 
- | [glib2]({{< ref "/f17/package/glib2.md" >}}) | 2552 | 4777 | 53.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mingw-glib2]({{< ref "/f17/package/mingw-glib2.md" >}}) | 2552 | 4777 | 53.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar-log]({{< ref "/f17/package/sugar-log.md" >}}) | 41 | 77 | 53.2 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f17/package/sugar-browse.md" >}}) | 38 | 81 | 46.9 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f17/package/sugar-jukebox.md" >}}) | 7 | 15 | 46.7 | LANGUAGE <LL@li.org> | 
- | [initscripts]({{< ref "/f17/package/initscripts.md" >}}) | 1981 | 4349 | 45.6 | Bengali <info@ankur.org.bd> | 
- | [lightdm]({{< ref "/f17/package/lightdm.md" >}}) | 35 | 79 | 44.3 | Bengali <bn@li.org> | 
- | [libfm]({{< ref "/f17/package/libfm.md" >}}) | 380 | 859 | 44.2 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f17/package/sugar-calculator.md" >}}) | 374 | 859 | 43.5 | Bengali <core@bengalinux.org> | 
- | [sugar-fototoon]({{< ref "/f17/package/sugar-fototoon.md" >}}) | 20 | 47 | 42.6 | LANGUAGE <LL@li.org> | 
- | [gnome-video-effects]({{< ref "/f17/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [mate-desktop]({{< ref "/f17/package/mate-desktop.md" >}}) | 170 | 407 | 41.8 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f17/package/sugar-connect.md" >}}) | 12 | 31 | 38.7 | Bengali <core@bengalinux.org> | 
- | [sugar-chat]({{< ref "/f17/package/sugar-chat.md" >}}) | 19 | 50 | 38.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f17/package/sugar-pippy.md" >}}) | 40 | 109 | 36.7 | Bengali <core@bengalinux.org> | 
- | [terminator]({{< ref "/f17/package/terminator.md" >}}) | 264 | 726 | 36.4 | Bengali <bn@li.org> | 
- | [system-config-boot]({{< ref "/f17/package/system-config-boot.md" >}}) | 41 | 119 | 34.5 | Bengali <redhat-translation@bengalinux.org> | 
- | [pcmanfm]({{< ref "/f17/package/pcmanfm.md" >}}) | 262 | 799 | 32.8 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [Django]({{< ref "/f17/package/Django.md" >}}) | 1652 | 5056 | 32.7 | Bengali (http://www.transifex.net/projects/p/django/language/bn/) | 
- | [gcr]({{< ref "/f17/package/gcr.md" >}}) | 175 | 622 | 28.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar-clock]({{< ref "/f17/package/sugar-clock.md" >}}) | 6 | 22 | 27.3 | LANGUAGE <LL@li.org> | 
- | [authconfig]({{< ref "/f17/package/authconfig.md" >}}) | 444 | 1638 | 27.1 | Bengali <info@ankur.org.bd> | 
- | [deja-dup]({{< ref "/f17/package/deja-dup.md" >}}) | 429 | 1675 | 25.6 | Bengali <bn@li.org> | 
- | [xchat-gnome]({{< ref "/f17/package/xchat-gnome.md" >}}) | 960 | 3901 | 24.6 | Bengali <core@bengalinux.org> | 
- | [firstboot]({{< ref "/f17/package/firstboot.md" >}}) | 124 | 571 | 21.7 | Bengali (http://www.transifex.net/projects/p/fedora/team/bn/) | 
- | [sugar-memorize]({{< ref "/f17/package/sugar-memorize.md" >}}) | 24 | 114 | 21.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [garcon]({{< ref "/f17/package/garcon.md" >}}) | 17 | 89 | 19.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [sugar-labyrinth]({{< ref "/f17/package/sugar-labyrinth.md" >}}) | 49 | 281 | 17.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [docky]({{< ref "/f17/package/docky.md" >}}) | 102 | 599 | 17.0 | Bengali <bn@li.org> | 
- | [xfce-utils]({{< ref "/f17/package/xfce-utils.md" >}}) | 76 | 492 | 15.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [system-config-rootpassword]({{< ref "/f17/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Bengali <redhat-translation@bengalinux.org> | 
- | [rhn-client-tools]({{< ref "/f17/package/rhn-client-tools.md" >}}) | 546 | 4348 | 12.6 | Bengali <info@ankur.org.bd> | 
- | [fcitx-table-other]({{< ref "/f17/package/fcitx-table-other.md" >}}) | 3 | 24 | 12.5 | Chinese Simplified <kde-i18n-doc@kde.org> | 
- | [xfce4-appfinder]({{< ref "/f17/package/xfce4-appfinder.md" >}}) | 23 | 186 | 12.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [gtg]({{< ref "/f17/package/gtg.md" >}}) | 210 | 1795 | 11.7 | Bengali <bn@li.org> | 
- | [clementine]({{< ref "/f17/package/clementine.md" >}}) | 440 | 3939 | 11.2 |  | 
- | [system-config-language]({{< ref "/f17/package/system-config-language.md" >}}) | 36 | 323 | 11.1 | Bengali <redhat-translation@bengalinux.org> | 
- | [pychess]({{< ref "/f17/package/pychess.md" >}}) | 335 | 3091 | 10.8 | Bengali <bn@li.org> | 
- | [gdesklets]({{< ref "/f17/package/gdesklets.md" >}}) | 111 | 1528 | 7.3 | Bengali <bn@li.org> | 
- | [listen]({{< ref "/f17/package/listen.md" >}}) | 127 | 1782 | 7.1 | Bengali <bn@li.org> | 
- | [glade]({{< ref "/f17/package/glade.md" >}}) | 166 | 3120 | 5.3 | Bengali (India) <en@li.org> | 
- | [glade3]({{< ref "/f17/package/glade3.md" >}}) | 166 | 3120 | 5.3 | Bengali (India) <en@li.org> | 
- | [shotwell]({{< ref "/f17/package/shotwell.md" >}}) | 209 | 4117 | 5.1 | Bengali (India) (http://www.transifex.net/projects/p/shotwell/language/bn_IN/) | 
- | [compiz-plugins-extra]({{< ref "/f17/package/compiz-plugins-extra.md" >}}) | 430 | 8946 | 4.8 | gist bengali team <info.gist@cdac.in>,মাহদী জামীল <mahdee.jameel@gmail.com> | 
- | [compiz-plugins-main]({{< ref "/f17/package/compiz-plugins-main.md" >}}) | 430 | 8946 | 4.8 | gist bengali team <info.gist@cdac.in>,মাহদী জামীল <mahdee.jameel@gmail.com> | 
- | [compiz-plugins-unsupported]({{< ref "/f17/package/compiz-plugins-unsupported.md" >}}) | 430 | 8946 | 4.8 | gist bengali team <info.gist@cdac.in>,মাহদী জামীল <mahdee.jameel@gmail.com> | 
- | [shutter]({{< ref "/f17/package/shutter.md" >}}) | 151 | 3185 | 4.7 | Bengali <bn@li.org> | 
- | [gmpc]({{< ref "/f17/package/gmpc.md" >}}) | 66 | 1444 | 4.6 | Bengali <bn@li.org> | 
- | [sugar-tamtam]({{< ref "/f17/package/sugar-tamtam.md" >}}) | 93 | 2070 | 4.5 | Bengali <core@bengalinux.org> | 
- | [pootle]({{< ref "/f17/package/pootle.md" >}}) | 96 | 2424 | 4.0 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 87 | 2350 | 3.7 | Bengali <bn@li.org> | 
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 56 | 1696 | 3.3 | Bengali <bn@li.org> | 
- | [sugar-turtleart]({{< ref "/f17/package/sugar-turtleart.md" >}}) | 83 | 2576 | 3.2 | LANGUAGE <walter@sugarlabs.org> | 
- | [mingw-libvirt]({{< ref "/f17/package/mingw-libvirt.md" >}}) | 954 | 33629 | 2.8 | none | 
- | [libvirt]({{< ref "/f17/package/libvirt.md" >}}) | 954 | 33917 | 2.8 | none | 
- | [system-config-services]({{< ref "/f17/package/system-config-services.md" >}}) | 12 | 518 | 2.3 | Bengali <info@ankur.org.bd> | 
- | [system-config-firewall]({{< ref "/f17/package/system-config-firewall.md" >}}) | 63 | 2814 | 2.2 | Bengali <redhat-translation@bengalinux.org> | 
- | [sugar-measure]({{< ref "/f17/package/sugar-measure.md" >}}) | 2 | 155 | 1.3 | Bengali <core@bengalinux.org> | 
- | [audacity]({{< ref "/f17/package/audacity.md" >}}) | 127 | 10643 | 1.2 | Bangladeshi <makl10n@yahoo.com> | 
- | [gnome-do]({{< ref "/f17/package/gnome-do.md" >}}) | 4 | 612 | 0.7 | Bengali <bn@li.org> | 
- | [po4a]({{< ref "/f17/package/po4a.md" >}}) | 11 | 1901 | 0.6 | Bengali <ubuntu-l10n-bn@lists.launchpad.net> | 
- | [system-config-printer]({{< ref "/f17/package/system-config-printer.md" >}}) | 13 | 3057 | 0.4 | bangla <redhat-translation@bengalinux.org> | 
- | [exaile]({{< ref "/f17/package/exaile.md" >}}) | 8 | 3675 | 0.2 | Bengali <bn@li.org> | 
- | [system-config-bind]({{< ref "/f17/package/system-config-bind.md" >}}) | 15 | 9419 | 0.2 | Bangla <redhat-translation@BengaLinux.Org> | 
- | [inkscape]({{< ref "/f17/package/inkscape.md" >}}) | 30 | 26528 | 0.1 | Bengali <core@bengalinux.org> | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 21 | 39559 | 0.1 | Bengali <bn@li.org> | 
- | [ailurus]({{< ref "/f17/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [entangle]({{< ref "/f17/package/entangle.md" >}}) | 0 | 668 | 0.0 | Bengali <info@ankur.org.bd> | 
- | [gnome-font-viewer]({{< ref "/f17/package/gnome-font-viewer.md" >}}) | 0 | 32 | 0.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [kexec-tools]({{< ref "/f17/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f17/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [openconnect]({{< ref "/f17/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Bengali (http://www.transifex.net/projects/p/meego/team/bn/) | 
- | [passwd]({{< ref "/f17/package/passwd.md" >}}) | 0 | 315 | 0.0 | Bengali <info@ankur.org.bd> | 
- | [policycoreutils]({{< ref "/f17/package/policycoreutils.md" >}}) | 0 | 4303 | 0.0 | Bengali <info@ankur.org.bd> | 
- | [pykickstart]({{< ref "/f17/package/pykickstart.md" >}}) | 0 | 343 | 0.0 | Bengali <info@ankur.org.bd> | 
- | [revisor]({{< ref "/f17/package/revisor.md" >}}) | 0 | 4171 | 0.0 |  | 
- | [rhnsd]({{< ref "/f17/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | Bengali <info@ankur.org.bd> | 
- | [sos]({{< ref "/f17/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [spacewalk-backend]({{< ref "/f17/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | Bengali <info@ankur.org.bd> | 
- | [sugar-calendario]({{< ref "/f17/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f17/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f17/package/sugar-getiabooks.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f17/package/sugar-physics.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f17/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f17/package/sugar-ruler.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f17/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f17/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f17/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kdump]({{< ref "/f17/package/system-config-kdump.md" >}}) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f17/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f17/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f17/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f17/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
- | [xnoise]({{< ref "/f17/package/xnoise.md" >}}) | 0 | 921 | 0.0 | Bengali | 
- | [yum-rhn-plugin]({{< ref "/f17/package/yum-rhn-plugin.md" >}}) | 0 | 119 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [GConf2](/f17/package/GConf2) | 4024 | 4024 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [accerciser](/f17/package/accerciser) | 535 | 535 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [alacarte](/f17/package/alacarte) | 42 | 42 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [anaconda](/f17/package/anaconda) | 8297 | 8297 | 100.0 | Bengali <info@ankur.org.bd> | 
+ | [at-spi](/f17/package/at-spi) | 61 | 61 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [at-spi2-atk](/f17/package/at-spi2-atk) | 49 | 49 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [atk](/f17/package/atk) | 375 | 375 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [brasero](/f17/package/brasero) | 5408 | 5408 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [cheese](/f17/package/cheese) | 651 | 651 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [console-setup](/f17/package/console-setup) | 979 | 979 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [dasher](/f17/package/dasher) | 311 | 311 | 100.0 | Bengali <gnome-translation@bengalinux.org> | 
+ | [debconf](/f17/package/debconf) | 805 | 805 | 100.0 | Bengali<ankur-bd-l10n@googlegroups.com> | 
+ | [devhelp](/f17/package/devhelp) | 414 | 414 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [ekiga](/f17/package/ekiga) | 4204 | 4204 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [emerald](/f17/package/emerald) | 774 | 774 | 100.0 | BANGLA <mahdee.jameel@gmail.com> | 
+ | [empathy](/f17/package/empathy) | 3253 | 3253 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [eog](/f17/package/eog) | 1527 | 1527 | 100.0 | Bengali<ankur-bd-l10n@googlegroups.com> | 
+ | [epiphany](/f17/package/epiphany) | 3073 | 3073 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [evince](/f17/package/evince) | 1392 | 1392 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [evolution](/f17/package/evolution) | 22130 | 22130 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [evolution-data-server](/f17/package/evolution-data-server) | 4910 | 4910 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [evolution-exchange](/f17/package/evolution-exchange) | 2204 | 2204 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [evolution-mapi](/f17/package/evolution-mapi) | 341 | 341 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [file-roller](/f17/package/file-roller) | 1370 | 1370 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gcalctool](/f17/package/gcalctool) | 1327 | 1327 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gconf-editor](/f17/package/gconf-editor) | 336 | 336 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gdm](/f17/package/gdm) | 1094 | 1094 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gedit](/f17/package/gedit) | 5004 | 5004 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [ggz-gtk-client](/f17/package/ggz-gtk-client) | 7 | 7 | 100.0 | Bangla <gnome-translation@BengaLinux.Org> | 
+ | [gnome-applets](/f17/package/gnome-applets) | 3352 | 3352 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-backgrounds](/f17/package/gnome-backgrounds) | 29 | 29 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-bluetooth](/f17/package/gnome-bluetooth) | 662 | 662 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-desktop](/f17/package/gnome-desktop) | 349 | 349 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-desktop3](/f17/package/gnome-desktop3) | 235 | 235 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-disk-utility](/f17/package/gnome-disk-utility) | 4544 | 4544 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-doc-utils](/f17/package/gnome-doc-utils) | 251 | 251 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-icon-theme](/f17/package/gnome-icon-theme) | 4 | 4 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-mag](/f17/package/gnome-mag) | 298 | 298 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-media](/f17/package/gnome-media) | 1211 | 1211 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-menus](/f17/package/gnome-menus) | 95 | 95 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-mime-data](/f17/package/gnome-mime-data) | 887 | 887 | 100.0 | Bengali (bn) <gnome-translation@bengalinux.org> | 
+ | [gnome-nettool](/f17/package/gnome-nettool) | 617 | 617 | 100.0 | Bangla <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-packagekit](/f17/package/gnome-packagekit) | 4694 | 4694 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-panel](/f17/package/gnome-panel) | 3667 | 3667 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-screensaver](/f17/package/gnome-screensaver) | 291 | 291 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-session](/f17/package/gnome-session) | 446 | 446 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-settings-daemon](/f17/package/gnome-settings-daemon) | 1752 | 1752 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-system-monitor](/f17/package/gnome-system-monitor) | 933 | 933 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-terminal](/f17/package/gnome-terminal) | 4141 | 4141 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-themes](/f17/package/gnome-themes) | 109 | 109 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-user-share](/f17/package/gnome-user-share) | 326 | 326 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-vfs2](/f17/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gok](/f17/package/gok) | 1915 | 1915 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtk2-engines](/f17/package/gtk2-engines) | 119 | 119 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtkhtml3](/f17/package/gtkhtml3) | 713 | 713 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtksourceview](/f17/package/gtksourceview) | 768 | 768 | 100.0 | Bengali <gnome-translation@bengalinux.org> | 
+ | [gtksourceview2](/f17/package/gtksourceview2) | 1413 | 1413 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtksourceview3](/f17/package/gtksourceview3) | 1413 | 1413 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gucharmap](/f17/package/gucharmap) | 863 | 863 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gvfs](/f17/package/gvfs) | 1936 | 1936 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [hamster-applet](/f17/package/hamster-applet) | 644 | 644 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libbonobo](/f17/package/libbonobo) | 543 | 543 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libbonoboui](/f17/package/libbonoboui) | 368 | 368 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libcryptui](/f17/package/libcryptui) | 3061 | 3061 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgdl](/f17/package/libgdl) | 600 | 600 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnome](/f17/package/libgnome) | 1773 | 1773 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnome-keyring](/f17/package/libgnome-keyring) | 44 | 44 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnomecanvas](/f17/package/libgnomecanvas) | 378 | 378 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnomekbd](/f17/package/libgnomekbd) | 286 | 286 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnomeprint22](/f17/package/libgnomeprint22) | 168 | 168 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnomeprintui22](/f17/package/libgnomeprintui22) | 481 | 481 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgnomeui](/f17/package/libgnomeui) | 1226 | 1226 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgtop2](/f17/package/libgtop2) | 126 | 126 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libgweather](/f17/package/libgweather) | 6090 | 6090 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libmate](/f17/package/libmate) | 1773 | 1773 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmatecanvas](/f17/package/libmatecanvas) | 378 | 378 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmatecomponentui](/f17/package/libmatecomponentui) | 368 | 368 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmatekbd](/f17/package/libmatekbd) | 286 | 286 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libmatekeyring](/f17/package/libmatekeyring) | 44 | 44 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmateui](/f17/package/libmateui) | 1223 | 1223 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libmatewnck](/f17/package/libmatewnck) | 1124 | 1124 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libwnck](/f17/package/libwnck) | 1124 | 1124 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libwnck3](/f17/package/libwnck3) | 1124 | 1124 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libxfce4ui](/f17/package/libxfce4ui) | 149 | 149 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libxfce4util](/f17/package/libxfce4util) | 424 | 424 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [lightdm-gtk](/f17/package/lightdm-gtk) | 56 | 56 | 100.0 | Bengali <bn@li.org> | 
+ | [lxpolkit](/f17/package/lxpolkit) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxsession](/f17/package/lxsession) | 36 | 36 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [lxshortcut](/f17/package/lxshortcut) | 43 | 43 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-bluetooth](/f17/package/mate-bluetooth) | 664 | 664 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-calc](/f17/package/mate-calc) | 1327 | 1327 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-character-map](/f17/package/mate-character-map) | 863 | 863 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-conf-editor](/f17/package/mate-conf-editor) | 336 | 336 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-doc-utils](/f17/package/mate-doc-utils) | 251 | 251 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-document-viewer](/f17/package/mate-document-viewer) | 1392 | 1392 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-file-archiver](/f17/package/mate-file-archiver) | 1365 | 1365 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-file-manager-sendto](/f17/package/mate-file-manager-sendto) | 310 | 310 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-icon-theme](/f17/package/mate-icon-theme) | 4 | 4 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-menu-editor](/f17/package/mate-menu-editor) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menus](/f17/package/mate-menus) | 161 | 161 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-mime-data](/f17/package/mate-mime-data) | 887 | 887 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-power-manager](/f17/package/mate-power-manager) | 2727 | 2727 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-screensaver](/f17/package/mate-screensaver) | 989 | 989 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-session-manager](/f17/package/mate-session-manager) | 638 | 638 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-system-monitor](/f17/package/mate-system-monitor) | 933 | 933 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-terminal](/f17/package/mate-terminal) | 4141 | 4141 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-user-share](/f17/package/mate-user-share) | 326 | 326 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-utils](/f17/package/mate-utils) | 3921 | 3921 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-vfs](/f17/package/mate-vfs) | 1519 | 1519 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [metacity](/f17/package/metacity) | 3798 | 3798 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-atk](/f17/package/mingw-atk) | 375 | 375 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-gtkhtml3](/f17/package/mingw-gtkhtml3) | 713 | 713 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-gtksourceview3](/f17/package/mingw-gtksourceview3) | 1413 | 1413 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mousetweaks](/f17/package/mousetweaks) | 730 | 730 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [nautilus](/f17/package/nautilus) | 7129 | 7129 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [nautilus-sendto](/f17/package/nautilus-sendto) | 310 | 310 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [nemo](/f17/package/nemo) | 7129 | 7129 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [newt](/f17/package/newt) | 4 | 4 | 100.0 | Bangla <core@BengaLinux.Org> | 
+ | [notification-daemon](/f17/package/notification-daemon) | 17 | 17 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [olpc-switch-desktop](/f17/package/olpc-switch-desktop) | 158 | 158 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [orca](/f17/package/orca) | 4011 | 4011 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [pessulus](/f17/package/pessulus) | 130 | 130 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sabayon](/f17/package/sabayon) | 743 | 743 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [scribus](/f17/package/scribus) | 14194 | 14194 | 100.0 | gist Bengali team <info.gist@cdac.in> | 
+ | [seahorse](/f17/package/seahorse) | 3061 | 3061 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [seahorse-plugins](/f17/package/seahorse-plugins) | 1148 | 1148 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [setroubleshoot-plugins](/f17/package/setroubleshoot-plugins) | 8291 | 8291 | 100.0 | Bengali <info@ankur.org.bd> | 
+ | [sound-juicer](/f17/package/sound-juicer) | 1022 | 1022 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar-abacus](/f17/package/sugar-abacus) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f17/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f17/package/sugar-imageviewer) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f17/package/switchdesk) | 137 | 137 | 100.0 | Bengali <redhat-translation@bengalinux.org> | 
+ | [system-config-samba](/f17/package/system-config-samba) | 571 | 571 | 100.0 | Bengali <info@ankur.org.bd> | 
+ | [system-config-users](/f17/package/system-config-users) | 1452 | 1452 | 100.0 | Bengali <info@ankur.org.bd> | 
+ | [system-switch-mail](/f17/package/system-switch-mail) | 134 | 134 | 100.0 | Bangla <redhat-translation@bengalinux.org> | 
+ | [tomboy](/f17/package/tomboy) | 3056 | 3056 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [totem](/f17/package/totem) | 2611 | 2611 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [totem-pl-parser](/f17/package/totem-pl-parser) | 28 | 28 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [transmission](/f17/package/transmission) | 1809 | 1809 | 100.0 | Bengali <bn@li.org> | 
+ | [vinagre](/f17/package/vinagre) | 1599 | 1599 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [vino](/f17/package/vino) | 1215 | 1215 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [vte](/f17/package/vte) | 84 | 84 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [vte3](/f17/package/vte3) | 84 | 84 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [xfconf](/f17/package/xfconf) | 437 | 437 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [yelp](/f17/package/yelp) | 1094 | 1094 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [yelp-xsl](/f17/package/yelp-xsl) | 213 | 213 | 100.0 | Bangla <gnome-translation@bengalinux.org> | 
+ | [zenity](/f17/package/zenity) | 592 | 592 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtk2](/f17/package/gtk2) | 13699 | 13704 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-gtk2](/f17/package/mingw-gtk2) | 13699 | 13704 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-search-tool](/f17/package/gnome-search-tool) | 1356 | 1359 | 99.8 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libmateweather](/f17/package/libmateweather) | 6074 | 6090 | 99.7 | LANGUAGE <LL@li.org> | 
+ | [exo](/f17/package/exo) | 2207 | 2214 | 99.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [iso-codes](/f17/package/iso-codes) | 1091 | 1097 | 99.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [pidgin](/f17/package/pidgin) | 18246 | 18356 | 99.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-text-editor](/f17/package/mate-text-editor) | 4955 | 4986 | 99.4 | LANGUAGE <LL@li.org> | 
+ | [aisleriot](/f17/package/aisleriot) | 1973 | 1987 | 99.3 | Bangla <ankur-bd-l10n@googlegroups.com> | 
+ | [xfce4-session](/f17/package/xfce4-session) | 1121 | 1132 | 99.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [Thunar](/f17/package/Thunar) | 10427 | 10539 | 98.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [libmatecomponent](/f17/package/libmatecomponent) | 537 | 543 | 98.9 | LANGUAGE <LL@li.org> | 
+ | [mate-conf](/f17/package/mate-conf) | 3985 | 4032 | 98.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f17/package/sugar-toolkit-gtk3) | 75 | 76 | 98.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f17/package/sugar-toolkit) | 72 | 73 | 98.6 | LANGUAGE <LL@li.org> | 
+ | [mate-window-manager](/f17/package/mate-window-manager) | 2076 | 2116 | 98.1 | LANGUAGE <LL@li.org> | 
+ | [gnome-keyring](/f17/package/gnome-keyring) | 480 | 490 | 98.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [seahorse-nautilus](/f17/package/seahorse-nautilus) | 411 | 421 | 97.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [baobab](/f17/package/baobab) | 526 | 540 | 97.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [lxinput](/f17/package/lxinput) | 70 | 72 | 97.2 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [system-config-date](/f17/package/system-config-date) | 1795 | 1850 | 97.0 | Bengali <info@ankur.org.bd> | 
+ | [libgnome-media-profiles](/f17/package/libgnome-media-profiles) | 446 | 460 | 97.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [lxsession-edit](/f17/package/lxsession-edit) | 62 | 64 | 96.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-system-log](/f17/package/gnome-system-log) | 504 | 522 | 96.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar-finance](/f17/package/sugar-finance) | 138 | 143 | 96.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gnome-dictionary](/f17/package/gnome-dictionary) | 803 | 833 | 96.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtk3](/f17/package/gtk3) | 11523 | 11987 | 96.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-gtk3](/f17/package/mingw-gtk3) | 11523 | 11987 | 96.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [xfwm4](/f17/package/xfwm4) | 801 | 837 | 95.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [system-config-httpd](/f17/package/system-config-httpd) | 816 | 858 | 95.1 | bangla <redhat-translation@bengalinux.org> | 
+ | [gwibber](/f17/package/gwibber) | 725 | 769 | 94.3 | Bengali <bn@li.org> | 
+ | [mate-panel](/f17/package/mate-panel) | 3985 | 4237 | 94.1 | LANGUAGE <LL@li.org> | 
+ | [gdk-pixbuf2](/f17/package/gdk-pixbuf2) | 1263 | 1345 | 93.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-gdk-pixbuf](/f17/package/mingw-gdk-pixbuf) | 1263 | 1345 | 93.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [lxterminal](/f17/package/lxterminal) | 135 | 144 | 93.8 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [poedit](/f17/package/poedit) | 1089 | 1162 | 93.7 | Ekushey <bangla@ekushey.org> | 
+ | [virt-viewer](/f17/package/virt-viewer) | 500 | 539 | 92.8 | Bengali <info@ankur.org.bd> | 
+ | [mate-dialogs](/f17/package/mate-dialogs) | 584 | 631 | 92.6 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f17/package/redhat-menus) | 240 | 261 | 92.0 | Bangla <redhat-translation@BengaLinux.Org> | 
+ | [libreoffice](/f17/package/libreoffice) | 487440 | 531817 | 91.7 | LANGUAGE <LL@li.org> | 
+ | [usermode](/f17/package/usermode) | 524 | 572 | 91.6 | Bengali <info@ankur.org.bd> | 
+ | [pogo](/f17/package/pogo) | 523 | 576 | 90.8 | Bengali <bn@li.org> | 
+ | [system-config-keyboard](/f17/package/system-config-keyboard) | 169 | 187 | 90.4 | Bengali <redhat-translation@bengalinux.org> | 
+ | [mate-media](/f17/package/mate-media) | 831 | 920 | 90.3 | LANGUAGE <LL@li.org> | 
+ | [gnome-games](/f17/package/gnome-games) | 6322 | 7094 | 89.1 | Bangla <ankur-bd-l10n@googlegroups.com> | 
+ | [setroubleshoot](/f17/package/setroubleshoot) | 562 | 631 | 89.1 | Bengali <info@ankur.org.bd> | 
+ | [system-config-lvm](/f17/package/system-config-lvm) | 1902 | 2142 | 88.8 | Bangla <redhat-translation@bengalinux.org> | 
+ | [sugar-infoslicer](/f17/package/sugar-infoslicer) | 163 | 184 | 88.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [lxrandr](/f17/package/lxrandr) | 108 | 122 | 88.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [system-config-network](/f17/package/system-config-network) | 2683 | 3032 | 88.5 | Bengali <fedora-trans-bn@redhat.com> | 
+ | [xfce4-settings](/f17/package/xfce4-settings) | 1130 | 1277 | 88.5 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar](/f17/package/sugar) | 1411 | 1601 | 88.1 | Bengali <core@bengalinux.org> | 
+ | [thunar-vfs](/f17/package/thunar-vfs) | 341 | 387 | 88.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-themes](/f17/package/mate-themes) | 96 | 109 | 88.1 | LANGUAGE <LL@li.org> | 
+ | [gnome-power-manager](/f17/package/gnome-power-manager) | 379 | 432 | 87.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [pidgin-guifications](/f17/package/pidgin-guifications) | 443 | 505 | 87.7 | Bangla <core@bengalinux.org> | 
+ | [mate-applets](/f17/package/mate-applets) | 2880 | 3299 | 87.3 | LANGUAGE <LL@li.org> | 
+ | [lxpanel](/f17/package/lxpanel) | 861 | 987 | 87.2 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-control-center](/f17/package/mate-control-center) | 2272 | 2610 | 87.0 | LANGUAGE <LL@li.org> | 
+ | [mate-keyring](/f17/package/mate-keyring) | 1018 | 1173 | 86.8 | LANGUAGE <LL@li.org> | 
+ | [ccsm](/f17/package/ccsm) | 475 | 549 | 86.5 | gist bengali team <info.gist@cdac.in> | 
+ | [system-config-nfs](/f17/package/system-config-nfs) | 286 | 332 | 86.1 | Bangla <redhat-translation@BengaLinux.Org> | 
+ | [setuptool](/f17/package/setuptool) | 47 | 55 | 85.5 | Bangla <redhat-translation@bengalinux.org> | 
+ | [mate-file-manager](/f17/package/mate-file-manager) | 7710 | 9086 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [python-sphinx](/f17/package/python-sphinx) | 381 | 450 | 84.7 | Nasimul Haque <nasim.haque@gmail.com> | 
+ | [sugar-moon](/f17/package/sugar-moon) | 77 | 91 | 84.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [chkconfig](/f17/package/chkconfig) | 410 | 487 | 84.2 | Bengali <info@ankur.org.bd> | 
+ | [tumbler](/f17/package/tumbler) | 245 | 293 | 83.6 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-image-viewer](/f17/package/mate-image-viewer) | 1341 | 1623 | 82.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-screenshot](/f17/package/gnome-screenshot) | 263 | 319 | 82.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar-read](/f17/package/sugar-read) | 51 | 62 | 82.3 | LANGUAGE <LL@li.org> | 
+ | [xfce4-panel](/f17/package/xfce4-panel) | 1220 | 1504 | 81.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [steadyflow](/f17/package/steadyflow) | 379 | 470 | 80.6 | Bengali <bn@li.org> | 
+ | [sugar-write](/f17/package/sugar-write) | 64 | 80 | 80.0 | LANGUAGE <LL@li.org> | 
+ | [control-center](/f17/package/control-center) | 2891 | 3665 | 78.9 | Bangla <redhat-translation@bengalinux.org> | 
+ | [xfdesktop](/f17/package/xfdesktop) | 2152 | 2729 | 78.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [muffin](/f17/package/muffin) | 5430 | 6919 | 78.5 | Bengali <gnome-trans@bengalinux.org> | 
+ | [mutter](/f17/package/mutter) | 5430 | 6919 | 78.5 | Bengali <gnome-trans@bengalinux.org> | 
+ | [mate-backgrounds](/f17/package/mate-backgrounds) | 23 | 30 | 76.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f17/package/sugar-terminal) | 13 | 17 | 76.5 | LANGUAGE <LL@li.org> | 
+ | [gftp](/f17/package/gftp) | 2499 | 3375 | 74.0 | Bangla <gnome-translation@bengalinux.org> | 
+ | [gedit-plugins](/f17/package/gedit-plugins) | 831 | 1205 | 69.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-settings-daemon](/f17/package/mate-settings-daemon) | 1179 | 1735 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [libuser](/f17/package/libuser) | 1011 | 1489 | 67.9 | Bengali <info@ankur.org.bd> | 
+ | [system-config-kickstart](/f17/package/system-config-kickstart) | 731 | 1104 | 66.2 | Bengali <redhat-translation@bengalinux.org> | 
+ | [stellarium](/f17/package/stellarium) | 6120 | 9286 | 65.9 | Tanmoy Saha | 
+ | [ntfs-config](/f17/package/ntfs-config) | 235 | 357 | 65.8 | Bengali <bn@li.org> | 
+ | [compiz](/f17/package/compiz) | 2138 | 3250 | 65.8 | gist bengali  team <info.gist@cdac.in> | 
+ | [sugar-paint](/f17/package/sugar-paint) | 41 | 64 | 64.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [drwright](/f17/package/drwright) | 122 | 191 | 63.9 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [klavaro](/f17/package/klavaro) | 1214 | 1913 | 63.5 | Bangla/Bengali <l10n@ankur.org.bd> | 
+ | [abrt](/f17/package/abrt) | 1198 | 1965 | 61.0 | Bengali <info@ankur.org.bd> | 
+ | [lxmenu-data](/f17/package/lxmenu-data) | 59 | 97 | 60.8 | Bengali <gnome-translation@bengalinux.org> | 
+ | [gnome-shell](/f17/package/gnome-shell) | 566 | 964 | 58.7 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [nautilus-actions](/f17/package/nautilus-actions) | 846 | 1554 | 54.4 | Bangla <gnome-translation@BengaLinux.Org> | 
+ | [glib2](/f17/package/glib2) | 2552 | 4777 | 53.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mingw-glib2](/f17/package/mingw-glib2) | 2552 | 4777 | 53.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar-log](/f17/package/sugar-log) | 41 | 77 | 53.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f17/package/sugar-browse) | 38 | 81 | 46.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f17/package/sugar-jukebox) | 7 | 15 | 46.7 | LANGUAGE <LL@li.org> | 
+ | [initscripts](/f17/package/initscripts) | 1981 | 4349 | 45.6 | Bengali <info@ankur.org.bd> | 
+ | [lightdm](/f17/package/lightdm) | 35 | 79 | 44.3 | Bengali <bn@li.org> | 
+ | [libfm](/f17/package/libfm) | 380 | 859 | 44.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f17/package/sugar-calculator) | 374 | 859 | 43.5 | Bengali <core@bengalinux.org> | 
+ | [sugar-fototoon](/f17/package/sugar-fototoon) | 20 | 47 | 42.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-video-effects](/f17/package/gnome-video-effects) | 11 | 26 | 42.3 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [mate-desktop](/f17/package/mate-desktop) | 170 | 407 | 41.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f17/package/sugar-connect) | 12 | 31 | 38.7 | Bengali <core@bengalinux.org> | 
+ | [sugar-chat](/f17/package/sugar-chat) | 19 | 50 | 38.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f17/package/sugar-pippy) | 40 | 109 | 36.7 | Bengali <core@bengalinux.org> | 
+ | [terminator](/f17/package/terminator) | 264 | 726 | 36.4 | Bengali <bn@li.org> | 
+ | [system-config-boot](/f17/package/system-config-boot) | 41 | 119 | 34.5 | Bengali <redhat-translation@bengalinux.org> | 
+ | [pcmanfm](/f17/package/pcmanfm) | 262 | 799 | 32.8 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [Django](/f17/package/Django) | 1652 | 5056 | 32.7 | Bengali (http://www.transifex.net/projects/p/django/language/bn/) | 
+ | [gcr](/f17/package/gcr) | 175 | 622 | 28.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar-clock](/f17/package/sugar-clock) | 6 | 22 | 27.3 | LANGUAGE <LL@li.org> | 
+ | [authconfig](/f17/package/authconfig) | 444 | 1638 | 27.1 | Bengali <info@ankur.org.bd> | 
+ | [deja-dup](/f17/package/deja-dup) | 429 | 1675 | 25.6 | Bengali <bn@li.org> | 
+ | [xchat-gnome](/f17/package/xchat-gnome) | 960 | 3901 | 24.6 | Bengali <core@bengalinux.org> | 
+ | [firstboot](/f17/package/firstboot) | 124 | 571 | 21.7 | Bengali (http://www.transifex.net/projects/p/fedora/team/bn/) | 
+ | [sugar-memorize](/f17/package/sugar-memorize) | 24 | 114 | 21.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [garcon](/f17/package/garcon) | 17 | 89 | 19.1 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [sugar-labyrinth](/f17/package/sugar-labyrinth) | 49 | 281 | 17.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [docky](/f17/package/docky) | 102 | 599 | 17.0 | Bengali <bn@li.org> | 
+ | [xfce-utils](/f17/package/xfce-utils) | 76 | 492 | 15.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [system-config-rootpassword](/f17/package/system-config-rootpassword) | 15 | 116 | 12.9 | Bengali <redhat-translation@bengalinux.org> | 
+ | [rhn-client-tools](/f17/package/rhn-client-tools) | 546 | 4348 | 12.6 | Bengali <info@ankur.org.bd> | 
+ | [fcitx-table-other](/f17/package/fcitx-table-other) | 3 | 24 | 12.5 | Chinese Simplified <kde-i18n-doc@kde.org> | 
+ | [xfce4-appfinder](/f17/package/xfce4-appfinder) | 23 | 186 | 12.4 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [gtg](/f17/package/gtg) | 210 | 1795 | 11.7 | Bengali <bn@li.org> | 
+ | [clementine](/f17/package/clementine) | 440 | 3939 | 11.2 |  | 
+ | [system-config-language](/f17/package/system-config-language) | 36 | 323 | 11.1 | Bengali <redhat-translation@bengalinux.org> | 
+ | [pychess](/f17/package/pychess) | 335 | 3091 | 10.8 | Bengali <bn@li.org> | 
+ | [gdesklets](/f17/package/gdesklets) | 111 | 1528 | 7.3 | Bengali <bn@li.org> | 
+ | [listen](/f17/package/listen) | 127 | 1782 | 7.1 | Bengali <bn@li.org> | 
+ | [glade](/f17/package/glade) | 166 | 3120 | 5.3 | Bengali (India) <en@li.org> | 
+ | [glade3](/f17/package/glade3) | 166 | 3120 | 5.3 | Bengali (India) <en@li.org> | 
+ | [shotwell](/f17/package/shotwell) | 209 | 4117 | 5.1 | Bengali (India) (http://www.transifex.net/projects/p/shotwell/language/bn_IN/) | 
+ | [compiz-plugins-extra](/f17/package/compiz-plugins-extra) | 430 | 8946 | 4.8 | gist bengali team <info.gist@cdac.in>,মাহদী জামীল <mahdee.jameel@gmail.com> | 
+ | [compiz-plugins-main](/f17/package/compiz-plugins-main) | 430 | 8946 | 4.8 | gist bengali team <info.gist@cdac.in>,মাহদী জামীল <mahdee.jameel@gmail.com> | 
+ | [compiz-plugins-unsupported](/f17/package/compiz-plugins-unsupported) | 430 | 8946 | 4.8 | gist bengali team <info.gist@cdac.in>,মাহদী জামীল <mahdee.jameel@gmail.com> | 
+ | [shutter](/f17/package/shutter) | 151 | 3185 | 4.7 | Bengali <bn@li.org> | 
+ | [gmpc](/f17/package/gmpc) | 66 | 1444 | 4.6 | Bengali <bn@li.org> | 
+ | [sugar-tamtam](/f17/package/sugar-tamtam) | 93 | 2070 | 4.5 | Bengali <core@bengalinux.org> | 
+ | [pootle](/f17/package/pootle) | 96 | 2424 | 4.0 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f17/package/openerp) | 87 | 2350 | 3.7 | Bengali <bn@li.org> | 
+ | [cinnamon](/f17/package/cinnamon) | 56 | 1696 | 3.3 | Bengali <bn@li.org> | 
+ | [sugar-turtleart](/f17/package/sugar-turtleart) | 83 | 2576 | 3.2 | LANGUAGE <walter@sugarlabs.org> | 
+ | [mingw-libvirt](/f17/package/mingw-libvirt) | 954 | 33629 | 2.8 | none | 
+ | [libvirt](/f17/package/libvirt) | 954 | 33917 | 2.8 | none | 
+ | [system-config-services](/f17/package/system-config-services) | 12 | 518 | 2.3 | Bengali <info@ankur.org.bd> | 
+ | [system-config-firewall](/f17/package/system-config-firewall) | 63 | 2814 | 2.2 | Bengali <redhat-translation@bengalinux.org> | 
+ | [sugar-measure](/f17/package/sugar-measure) | 2 | 155 | 1.3 | Bengali <core@bengalinux.org> | 
+ | [audacity](/f17/package/audacity) | 127 | 10643 | 1.2 | Bangladeshi <makl10n@yahoo.com> | 
+ | [gnome-do](/f17/package/gnome-do) | 4 | 612 | 0.7 | Bengali <bn@li.org> | 
+ | [po4a](/f17/package/po4a) | 11 | 1901 | 0.6 | Bengali <ubuntu-l10n-bn@lists.launchpad.net> | 
+ | [system-config-printer](/f17/package/system-config-printer) | 13 | 3057 | 0.4 | bangla <redhat-translation@bengalinux.org> | 
+ | [exaile](/f17/package/exaile) | 8 | 3675 | 0.2 | Bengali <bn@li.org> | 
+ | [system-config-bind](/f17/package/system-config-bind) | 15 | 9419 | 0.2 | Bangla <redhat-translation@BengaLinux.Org> | 
+ | [inkscape](/f17/package/inkscape) | 30 | 26528 | 0.1 | Bengali <core@bengalinux.org> | 
+ | [calibre](/f17/package/calibre) | 21 | 39559 | 0.1 | Bengali <bn@li.org> | 
+ | [ailurus](/f17/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [entangle](/f17/package/entangle) | 0 | 668 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [gnome-font-viewer](/f17/package/gnome-font-viewer) | 0 | 32 | 0.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [kexec-tools](/f17/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f17/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [openconnect](/f17/package/openconnect) | 0 | 2573 | 0.0 | Bengali (http://www.transifex.net/projects/p/meego/team/bn/) | 
+ | [passwd](/f17/package/passwd) | 0 | 315 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [policycoreutils](/f17/package/policycoreutils) | 0 | 4303 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [pykickstart](/f17/package/pykickstart) | 0 | 343 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [revisor](/f17/package/revisor) | 0 | 4171 | 0.0 |  | 
+ | [rhnsd](/f17/package/rhnsd) | 0 | 37 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [sos](/f17/package/sos) | 0 | 267 | 0.0 | none | 
+ | [spacewalk-backend](/f17/package/spacewalk-backend) | 0 | 1895 | 0.0 | Bengali <info@ankur.org.bd> | 
+ | [sugar-calendario](/f17/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f17/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f17/package/sugar-getiabooks) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f17/package/sugar-physics) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f17/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f17/package/sugar-ruler) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f17/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f17/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f17/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kdump](/f17/package/system-config-kdump) | 0 | 807 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f17/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f17/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f17/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f17/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [xnoise](/f17/package/xnoise) | 0 | 921 | 0.0 | Bengali | 
+ | [yum-rhn-plugin](/f17/package/yum-rhn-plugin) | 0 | 119 | 0.0 | Bengali <info@ankur.org.bd> | 
 {.sortable}
 
 

@@ -18,50 +18,50 @@ The package analitza (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ca/analitza_qt.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ca@valencia/analitza_qt.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/de/analitza_qt.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/el/analitza_qt.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/en_GB/analitza_qt.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/es/analitza_qt.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/et/analitza_qt.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/eu/analitza_qt.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/fi/analitza_qt.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/fr/analitza_qt.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/gl/analitza_qt.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/hu/analitza_qt.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/it/analitza_qt.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ka/analitza_qt.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ko/analitza_qt.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/nl/analitza_qt.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/nn/analitza_qt.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/pl/analitza_qt.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/pt/analitza_qt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/pt_BR/analitza_qt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ru/analitza_qt.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/sk/analitza_qt.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/sl/analitza_qt.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/sv/analitza_qt.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/tr/analitza_qt.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/uk/analitza_qt.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/zh_CN/analitza_qt.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/zh_TW/analitza_qt.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 539 | 992 | 54.3 | /mnt/stockage/packages/f38/analitza/poqm/bs/analitza_qt.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 382 | 992 | 38.5 | /mnt/stockage/packages/f38/analitza/poqm/cs/analitza_qt.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 274 | 992 | 27.6 | /mnt/stockage/packages/f38/analitza/poqm/da/analitza_qt.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 115 | 992 | 11.6 | /mnt/stockage/packages/f38/analitza/poqm/lt/analitza_qt.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 81 | 992 | 8.2 | /mnt/stockage/packages/f38/analitza/poqm/ia/analitza_qt.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 44 | 992 | 4.4 | /mnt/stockage/packages/f38/analitza/poqm/ml/analitza_qt.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 30 | 992 | 3.0 | /mnt/stockage/packages/f38/analitza/poqm/ar/analitza_qt.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 1 | 992 | 0.1 | /mnt/stockage/packages/f38/analitza/poqm/nb/analitza_qt.po | 
- | [se]({{< ref "/f38/language/se.md" >}}) | 1 | 992 | 0.1 | /mnt/stockage/packages/f38/analitza/poqm/se/analitza_qt.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/ga/analitza_qt.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/ja/analitza_qt.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/kk/analitza_qt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/lv/analitza_qt.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/mr/analitza_qt.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/nds/analitza_qt.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/ug/analitza_qt.po | 
+ | [ca](/f38/language/ca) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ca/analitza_qt.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ca@valencia/analitza_qt.po | 
+ | [de](/f38/language/de) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/de/analitza_qt.po | 
+ | [el](/f38/language/el) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/el/analitza_qt.po | 
+ | [en_GB](/f38/language/en_GB) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/en_GB/analitza_qt.po | 
+ | [es](/f38/language/es) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/es/analitza_qt.po | 
+ | [et](/f38/language/et) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/et/analitza_qt.po | 
+ | [eu](/f38/language/eu) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/eu/analitza_qt.po | 
+ | [fi](/f38/language/fi) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/fi/analitza_qt.po | 
+ | [fr](/f38/language/fr) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/fr/analitza_qt.po | 
+ | [gl](/f38/language/gl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/gl/analitza_qt.po | 
+ | [hu](/f38/language/hu) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/hu/analitza_qt.po | 
+ | [it](/f38/language/it) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/it/analitza_qt.po | 
+ | [ka](/f38/language/ka) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ka/analitza_qt.po | 
+ | [ko](/f38/language/ko) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ko/analitza_qt.po | 
+ | [nl](/f38/language/nl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/nl/analitza_qt.po | 
+ | [nn](/f38/language/nn) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/nn/analitza_qt.po | 
+ | [pl](/f38/language/pl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/pl/analitza_qt.po | 
+ | [pt](/f38/language/pt) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/pt/analitza_qt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/pt_BR/analitza_qt.po | 
+ | [ru](/f38/language/ru) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/ru/analitza_qt.po | 
+ | [sk](/f38/language/sk) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/sk/analitza_qt.po | 
+ | [sl](/f38/language/sl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/sl/analitza_qt.po | 
+ | [sv](/f38/language/sv) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/sv/analitza_qt.po | 
+ | [tr](/f38/language/tr) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/tr/analitza_qt.po | 
+ | [uk](/f38/language/uk) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/uk/analitza_qt.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/zh_CN/analitza_qt.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/analitza/poqm/zh_TW/analitza_qt.po | 
+ | [bs](/f38/language/bs) | 539 | 992 | 54.3 | /mnt/stockage/packages/f38/analitza/poqm/bs/analitza_qt.po | 
+ | [cs](/f38/language/cs) | 382 | 992 | 38.5 | /mnt/stockage/packages/f38/analitza/poqm/cs/analitza_qt.po | 
+ | [da](/f38/language/da) | 274 | 992 | 27.6 | /mnt/stockage/packages/f38/analitza/poqm/da/analitza_qt.po | 
+ | [lt](/f38/language/lt) | 115 | 992 | 11.6 | /mnt/stockage/packages/f38/analitza/poqm/lt/analitza_qt.po | 
+ | [ia](/f38/language/ia) | 81 | 992 | 8.2 | /mnt/stockage/packages/f38/analitza/poqm/ia/analitza_qt.po | 
+ | [ml](/f38/language/ml) | 44 | 992 | 4.4 | /mnt/stockage/packages/f38/analitza/poqm/ml/analitza_qt.po | 
+ | [ar](/f38/language/ar) | 30 | 992 | 3.0 | /mnt/stockage/packages/f38/analitza/poqm/ar/analitza_qt.po | 
+ | [nb_NO](/f38/language/nb_NO) | 1 | 992 | 0.1 | /mnt/stockage/packages/f38/analitza/poqm/nb/analitza_qt.po | 
+ | [se](/f38/language/se) | 1 | 992 | 0.1 | /mnt/stockage/packages/f38/analitza/poqm/se/analitza_qt.po | 
+ | [ga](/f38/language/ga) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/ga/analitza_qt.po | 
+ | [ja](/f38/language/ja) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/ja/analitza_qt.po | 
+ | [kk](/f38/language/kk) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/kk/analitza_qt.po | 
+ | [lv](/f38/language/lv) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/lv/analitza_qt.po | 
+ | [mr](/f38/language/mr) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/mr/analitza_qt.po | 
+ | [nds](/f38/language/nds) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/nds/analitza_qt.po | 
+ | [ug](/f38/language/ug) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/analitza/poqm/ug/analitza_qt.po | 
 {.sortable}
 
 

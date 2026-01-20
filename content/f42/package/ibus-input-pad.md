@@ -18,18 +18,18 @@ The package ibus-input-pad (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/el.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/fi.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/ko.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/pl.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/zh_TW.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 45 | 90 | 50.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/te.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/fr.po | 
+ | [de](/f42/language/de) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/de.po | 
+ | [el](/f42/language/el) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/el.po | 
+ | [fi](/f42/language/fi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/fi.po | 
+ | [ja](/f42/language/ja) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/ja.po | 
+ | [ko](/f42/language/ko) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/ko.po | 
+ | [pl](/f42/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/pl.po | 
+ | [tr](/f42/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/tr.po | 
+ | [uk](/f42/language/uk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 103 | 103 | 100.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/zh_TW.po | 
+ | [te](/f42/language/te) | 45 | 90 | 50.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/te.po | 
+ | [fr](/f42/language/fr) | 0 | 90 | 0.0 | /mnt/stockage/packages/f42/ibus-input-pad/po/fr.po | 
 {.sortable}
 
 

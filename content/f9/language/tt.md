@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgnomecanvas]({{< ref "/f9/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
- | [atk]({{< ref "/f9/package/atk.md" >}}) | 359 | 370 | 97.0 | Tatarish <tatarish.l10n@gmail.com> | 
- | [poedit]({{< ref "/f9/package/poedit.md" >}}) | 1082 | 1154 | 93.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [stardict]({{< ref "/f9/package/stardict.md" >}}) | 891 | 2440 | 36.5 | tt <tatarish.l10n@gmail.com> | 
- | [glib2]({{< ref "/f9/package/glib2.md" >}}) | 310 | 2158 | 14.4 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 1359 | 12092 | 11.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libgnome]({{< ref "/f9/package/libgnome.md" >}}) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 1072 | 12339 | 8.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gimp]({{< ref "/f9/package/gimp.md" >}}) | 1781 | 21536 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnomecanvas](/f9/package/libgnomecanvas) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [atk](/f9/package/atk) | 359 | 370 | 97.0 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [poedit](/f9/package/poedit) | 1082 | 1154 | 93.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnomeui](/f9/package/libgnomeui) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [stardict](/f9/package/stardict) | 891 | 2440 | 36.5 | tt <tatarish.l10n@gmail.com> | 
+ | [glib2](/f9/package/glib2) | 310 | 2158 | 14.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gtk2](/f9/package/gtk2) | 1359 | 12092 | 11.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnome](/f9/package/libgnome) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [iso-codes](/f9/package/iso-codes) | 1072 | 12339 | 8.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gimp](/f9/package/gimp) | 1781 | 21536 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
 {.sortable}
 
 

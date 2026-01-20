@@ -18,13 +18,13 @@ The package fish (version 3.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 46283 | 143107 | 32.3 | /mnt/stockage/packages/f36/fish/po/fr.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 12489 | 143107 | 8.7 | /mnt/stockage/packages/f36/fish/po/en.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 8080 | 143107 | 5.6 | /mnt/stockage/packages/f36/fish/po/sv.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 6888 | 143107 | 4.8 | /mnt/stockage/packages/f36/fish/po/de.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 6099 | 143107 | 4.3 | /mnt/stockage/packages/f36/fish/po/pt_BR.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 392 | 143107 | 0.3 | /mnt/stockage/packages/f36/fish/po/pl.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 161 | 143107 | 0.1 | /mnt/stockage/packages/f36/fish/po/zh_CN.po | 
+ | [fr](/f36/language/fr) | 46283 | 143107 | 32.3 | /mnt/stockage/packages/f36/fish/po/fr.po | 
+ | [en](/f36/language/en) | 12489 | 143107 | 8.7 | /mnt/stockage/packages/f36/fish/po/en.po | 
+ | [sv](/f36/language/sv) | 8080 | 143107 | 5.6 | /mnt/stockage/packages/f36/fish/po/sv.po | 
+ | [de](/f36/language/de) | 6888 | 143107 | 4.8 | /mnt/stockage/packages/f36/fish/po/de.po | 
+ | [pt_BR](/f36/language/pt_BR) | 6099 | 143107 | 4.3 | /mnt/stockage/packages/f36/fish/po/pt_BR.po | 
+ | [pl](/f36/language/pl) | 392 | 143107 | 0.3 | /mnt/stockage/packages/f36/fish/po/pl.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 161 | 143107 | 0.1 | /mnt/stockage/packages/f36/fish/po/zh_CN.po | 
 {.sortable}
 
 

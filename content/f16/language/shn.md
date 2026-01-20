@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [shutter]({{< ref "/f16/package/shutter.md" >}}) | 67 | 2665 | 2.5 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f16/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
+ | [shutter](/f16/package/shutter) | 67 | 2665 | 2.5 | Shan <shn@li.org> | 
+ | [lightdm](/f16/package/lightdm) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
 {.sortable}
 
 

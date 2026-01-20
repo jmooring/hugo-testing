@@ -18,11 +18,11 @@ The package gnome-firmware (version 42.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/cs.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/hr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/it.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/tr.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/gnome-firmware/po/en_GB.po | 
+ | [cs](/f36/language/cs) | 214 | 214 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/cs.po | 
+ | [hr](/f36/language/hr) | 279 | 279 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/hr.po | 
+ | [it](/f36/language/it) | 214 | 214 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/it.po | 
+ | [tr](/f36/language/tr) | 214 | 214 | 100.0 | /mnt/stockage/packages/f36/gnome-firmware/po/tr.po | 
+ | [en_GB](/f36/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/gnome-firmware/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package dynamic-wallpaper-editor (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 555 | 622 | 89.2 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/fr.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 498 | 622 | 80.1 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/hr.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 498 | 622 | 80.1 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/nl.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 252 | 622 | 40.5 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/it.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 247 | 622 | 39.7 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/ru.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 203 | 622 | 32.6 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/tr.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 199 | 622 | 32.0 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/pt_BR.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 171 | 622 | 27.5 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/es.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 58 | 622 | 9.3 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/de.po | 
+ | [fr](/f30/language/fr) | 555 | 622 | 89.2 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/fr.po | 
+ | [hr](/f30/language/hr) | 498 | 622 | 80.1 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/hr.po | 
+ | [nl](/f30/language/nl) | 498 | 622 | 80.1 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/nl.po | 
+ | [it](/f30/language/it) | 252 | 622 | 40.5 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/it.po | 
+ | [ru](/f30/language/ru) | 247 | 622 | 39.7 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/ru.po | 
+ | [tr](/f30/language/tr) | 203 | 622 | 32.6 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/tr.po | 
+ | [pt_BR](/f30/language/pt_BR) | 199 | 622 | 32.0 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/pt_BR.po | 
+ | [es](/f30/language/es) | 171 | 622 | 27.5 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/es.po | 
+ | [de](/f30/language/de) | 58 | 622 | 9.3 | /mnt/stockage/packages/f30/dynamic-wallpaper-editor/po/de.po | 
 {.sortable}
 
 

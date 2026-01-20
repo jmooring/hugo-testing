@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deepin-terminal]({{< ref "/f30/package/deepin-terminal.md" >}}) | 37 | 427 | 8.7 | Kapampangan (https://www.transifex.com/linuxdeepin/teams/3976/pam/) | 
+ | [deepin-terminal](/f30/package/deepin-terminal) | 37 | 427 | 8.7 | Kapampangan (https://www.transifex.com/linuxdeepin/teams/3976/pam/) | 
 {.sortable}
 
 

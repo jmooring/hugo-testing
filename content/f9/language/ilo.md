@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 43 | 59 | 72.9 |  | 
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 6040 | 10040 | 60.2 | Joseph Maza <joemaza@comcast.net> | 
- | [redhat-menus]({{< ref "/f9/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f9/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [firstboot]({{< ref "/f9/package/firstboot.md" >}}) | 132 | 604 | 21.9 |  | 
- | [specspo]({{< ref "/f9/package/specspo.md" >}}) | 7 | 305294 | 0.0 |  | 
- | [sos]({{< ref "/f9/package/sos.md" >}}) | 0 | 283 | 0.0 | none | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 0 | 1220 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhgb](/f9/package/rhgb) | 43 | 59 | 72.9 |  | 
+ | [anaconda](/f9/package/anaconda) | 6040 | 10040 | 60.2 | Joseph Maza <joemaza@comcast.net> | 
+ | [redhat-menus](/f9/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f9/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [firstboot](/f9/package/firstboot) | 132 | 604 | 21.9 |  | 
+ | [specspo](/f9/package/specspo) | 7 | 305294 | 0.0 |  | 
+ | [sos](/f9/package/sos) | 0 | 283 | 0.0 | none | 
+ | [system-config-date](/f9/package/system-config-date) | 0 | 1220 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f9/package/system-config-services) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f9/package/system-config-users) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

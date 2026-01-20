@@ -18,16 +18,16 @@ The package trytond-purchase-invoice-line-standalone (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/ca_ES.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/de_DE.po | 
- | [es_AR]({{< ref "/f21/language/es_AR.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/es_AR.po | 
- | [es_CO]({{< ref "/f21/language/es_CO.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/es_CO.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/fr_FR.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 49 | 53 | 92.5 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/bg_BG.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 49 | 53 | 92.5 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/es_ES.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 53 | 0.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/cs_CZ.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 0 | 53 | 0.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/nl_NL.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 53 | 0.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/ru_RU.po | 
+ | [ca](/f21/language/ca) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/ca_ES.po | 
+ | [de](/f21/language/de) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/de_DE.po | 
+ | [es_AR](/f21/language/es_AR) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/es_AR.po | 
+ | [es_CO](/f21/language/es_CO) | 53 | 53 | 100.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/es_CO.po | 
+ | [fr](/f21/language/fr) | 62 | 64 | 96.9 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/fr_FR.po | 
+ | [bg](/f21/language/bg) | 49 | 53 | 92.5 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/bg_BG.po | 
+ | [es](/f21/language/es) | 49 | 53 | 92.5 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/es_ES.po | 
+ | [cs](/f21/language/cs) | 0 | 53 | 0.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/cs_CZ.po | 
+ | [nl](/f21/language/nl) | 0 | 53 | 0.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/nl_NL.po | 
+ | [ru](/f21/language/ru) | 0 | 53 | 0.0 | /mnt/stockage/packages/f21/trytond-purchase-invoice-line-standalone/locale/ru_RU.po | 
 {.sortable}
 
 

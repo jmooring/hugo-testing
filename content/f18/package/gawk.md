@@ -18,16 +18,16 @@ The package gawk (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/fr.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/pl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/sv.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 2874 | 2907 | 98.9 | /mnt/stockage/packages/f18/gawk/po/ja.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2551 | 2907 | 87.8 | /mnt/stockage/packages/f18/gawk/po/it.po | 
+ | [da](/f18/language/da) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/da.po | 
+ | [de](/f18/language/de) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/de.po | 
+ | [es](/f18/language/es) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/es.po | 
+ | [fi](/f18/language/fi) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/fi.po | 
+ | [fr](/f18/language/fr) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/fr.po | 
+ | [nl](/f18/language/nl) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/nl.po | 
+ | [pl](/f18/language/pl) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/pl.po | 
+ | [sv](/f18/language/sv) | 2901 | 2907 | 99.8 | /mnt/stockage/packages/f18/gawk/po/sv.po | 
+ | [ja](/f18/language/ja) | 2874 | 2907 | 98.9 | /mnt/stockage/packages/f18/gawk/po/ja.po | 
+ | [it](/f18/language/it) | 2551 | 2907 | 87.8 | /mnt/stockage/packages/f18/gawk/po/it.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f33/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [onboard]({{< ref "/f33/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [gnome-do](/f33/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [onboard](/f33/package/onboard) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

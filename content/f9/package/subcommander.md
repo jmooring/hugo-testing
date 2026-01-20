@@ -18,7 +18,7 @@ The package subcommander (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 2152 | 2152 | 100.0 | /mnt/stockage/packages/f9/subcommander/po/de.po | 
+ | [de](/f9/language/de) | 2152 | 2152 | 100.0 | /mnt/stockage/packages/f9/subcommander/po/de.po | 
 {.sortable}
 
 

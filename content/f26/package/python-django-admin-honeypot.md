@@ -18,9 +18,9 @@ The package python-django-admin-honeypot (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/es_ES/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/zh_CN/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 44 | 47 | 93.6 | /mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/ru/LC_MESSAGES/django.po | 
+ | [es](/f26/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/es_ES/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [ru](/f26/language/ru) | 44 | 47 | 93.6 | /mnt/stockage/packages/f26/python-django-admin-honeypot/admin_honeypot/locale/ru/LC_MESSAGES/django.po | 
 {.sortable}
 
 

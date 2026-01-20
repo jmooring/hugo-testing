@@ -18,12 +18,12 @@ The package mesa (version 19.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 212 | 481 | 44.1 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/ca.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 212 | 481 | 44.1 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/es.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 122 | 481 | 25.4 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 43 | 481 | 8.9 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/fr.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 43 | 481 | 8.9 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/nl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 43 | 481 | 8.9 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/sv.po | 
+ | [ca](/f30/language/ca) | 212 | 481 | 44.1 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/ca.po | 
+ | [es](/f30/language/es) | 212 | 481 | 44.1 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/es.po | 
+ | [de](/f30/language/de) | 122 | 481 | 25.4 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/de.po | 
+ | [fr](/f30/language/fr) | 43 | 481 | 8.9 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/fr.po | 
+ | [nl](/f30/language/nl) | 43 | 481 | 8.9 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/nl.po | 
+ | [sv](/f30/language/sv) | 43 | 481 | 8.9 | /mnt/stockage/packages/f30/mesa/src/util/xmlpool/sv.po | 
 {.sortable}
 
 

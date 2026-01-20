@@ -18,14 +18,14 @@ The package msmtp (version 1.8.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/de.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/eo.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/sr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/uk.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f36/msmtp/po/fr.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1752 | 1825 | 96.0 | /mnt/stockage/packages/f36/msmtp/po/pt_BR.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1700 | 1825 | 93.2 | /mnt/stockage/packages/f36/msmtp/po/sv.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 398 | 1825 | 21.8 | /mnt/stockage/packages/f36/msmtp/po/ta.po | 
+ | [de](/f36/language/de) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/de.po | 
+ | [eo](/f36/language/eo) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/eo.po | 
+ | [sr](/f36/language/sr) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/sr.po | 
+ | [uk](/f36/language/uk) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f36/msmtp/po/uk.po | 
+ | [fr](/f36/language/fr) | 1820 | 1825 | 99.7 | /mnt/stockage/packages/f36/msmtp/po/fr.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1752 | 1825 | 96.0 | /mnt/stockage/packages/f36/msmtp/po/pt_BR.po | 
+ | [sv](/f36/language/sv) | 1700 | 1825 | 93.2 | /mnt/stockage/packages/f36/msmtp/po/sv.po | 
+ | [ta](/f36/language/ta) | 398 | 1825 | 21.8 | /mnt/stockage/packages/f36/msmtp/po/ta.po | 
 {.sortable}
 
 

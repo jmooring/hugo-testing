@@ -18,11 +18,11 @@ The package libgpg-error (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/libgpg-error/po/de.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 614 | 734 | 83.7 | /mnt/stockage/packages/f8/libgpg-error/po/pl.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 614 | 734 | 83.7 | /mnt/stockage/packages/f8/libgpg-error/po/ro.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 614 | 734 | 83.7 | /mnt/stockage/packages/f8/libgpg-error/po/vi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 612 | 734 | 83.4 | /mnt/stockage/packages/f8/libgpg-error/po/fr.po | 
+ | [de](/f8/language/de) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/libgpg-error/po/de.po | 
+ | [pl](/f8/language/pl) | 614 | 734 | 83.7 | /mnt/stockage/packages/f8/libgpg-error/po/pl.po | 
+ | [ro](/f8/language/ro) | 614 | 734 | 83.7 | /mnt/stockage/packages/f8/libgpg-error/po/ro.po | 
+ | [vi](/f8/language/vi) | 614 | 734 | 83.7 | /mnt/stockage/packages/f8/libgpg-error/po/vi.po | 
+ | [fr](/f8/language/fr) | 612 | 734 | 83.4 | /mnt/stockage/packages/f8/libgpg-error/po/fr.po | 
 {.sortable}
 
 

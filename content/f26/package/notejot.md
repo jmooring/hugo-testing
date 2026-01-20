@@ -18,13 +18,13 @@ The package notejot (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/ca.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f26/notejot/po/fr.po/mnt/stockage/packages/f26/notejot/po/es.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/lt.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/nl_NL.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/pl.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/tr_TR.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 5 | 14 | 35.7 | /mnt/stockage/packages/f26/notejot/po/pt_BR.po | 
+ | [ca](/f26/language/ca) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/ca.po | 
+ | [es](/f26/language/es) | 28 | 28 | 100.0 | /mnt/stockage/packages/f26/notejot/po/fr.po/mnt/stockage/packages/f26/notejot/po/es.po | 
+ | [lt](/f26/language/lt) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/lt.po | 
+ | [nl](/f26/language/nl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/nl_NL.po | 
+ | [pl](/f26/language/pl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/pl.po | 
+ | [tr](/f26/language/tr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f26/notejot/po/tr_TR.po | 
+ | [pt_BR](/f26/language/pt_BR) | 5 | 14 | 35.7 | /mnt/stockage/packages/f26/notejot/po/pt_BR.po | 
 {.sortable}
 
 

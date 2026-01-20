@@ -18,58 +18,58 @@ The package kbounce (version 18.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/bs/kbounce.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ca/kbounce.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ca@valencia/kbounce.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/cs/kbounce.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/da/kbounce.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/de/kbounce.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/el/kbounce.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/en_GB/kbounce.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/es/kbounce.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/et/kbounce.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/fi/kbounce.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/fr/kbounce.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/gl/kbounce.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/hu/kbounce.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/it/kbounce.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/kk/kbounce.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ko/kbounce.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nb/kbounce.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nds/kbounce.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nl/kbounce.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nn/kbounce.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/pl/kbounce.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/pt/kbounce.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/pt_BR/kbounce.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ru/kbounce.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sk/kbounce.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sl/kbounce.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sr/kbounce.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sv/kbounce.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/tr/kbounce.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/uk/kbounce.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/zh_CN/kbounce.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/zh_TW/kbounce.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/bg/kbounce.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/ga/kbounce.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/km/kbounce.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/lt/kbounce.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/lv/kbounce.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 121 | 154 | 78.6 | /mnt/stockage/packages/f28/kbounce/po/ja/kbounce.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 114 | 154 | 74.0 | /mnt/stockage/packages/f28/kbounce/po/ro/kbounce.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 107 | 154 | 69.5 | /mnt/stockage/packages/f28/kbounce/po/eu/kbounce.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 107 | 154 | 69.5 | /mnt/stockage/packages/f28/kbounce/po/fa/kbounce.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 101 | 154 | 65.6 | /mnt/stockage/packages/f28/kbounce/po/eo/kbounce.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 90 | 154 | 58.4 | /mnt/stockage/packages/f28/kbounce/po/ar/kbounce.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 90 | 154 | 58.4 | /mnt/stockage/packages/f28/kbounce/po/hi/kbounce.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 78 | 154 | 50.6 | /mnt/stockage/packages/f28/kbounce/po/pa/kbounce.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 44 | 154 | 28.6 | /mnt/stockage/packages/f28/kbounce/po/he/kbounce.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 44 | 154 | 28.6 | /mnt/stockage/packages/f28/kbounce/po/hr/kbounce.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 44 | 154 | 28.6 | /mnt/stockage/packages/f28/kbounce/po/is/kbounce.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 42 | 154 | 27.3 | /mnt/stockage/packages/f28/kbounce/po/ug/kbounce.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 32 | 154 | 20.8 | /mnt/stockage/packages/f28/kbounce/po/mr/kbounce.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 4 | 154 | 2.6 | /mnt/stockage/packages/f28/kbounce/po/ast/kbounce.po | 
+ | [bs](/f28/language/bs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/bs/kbounce.po | 
+ | [ca](/f28/language/ca) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ca/kbounce.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ca@valencia/kbounce.po | 
+ | [cs](/f28/language/cs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/cs/kbounce.po | 
+ | [da](/f28/language/da) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/da/kbounce.po | 
+ | [de](/f28/language/de) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/de/kbounce.po | 
+ | [el](/f28/language/el) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/el/kbounce.po | 
+ | [en_GB](/f28/language/en_GB) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/en_GB/kbounce.po | 
+ | [es](/f28/language/es) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/es/kbounce.po | 
+ | [et](/f28/language/et) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/et/kbounce.po | 
+ | [fi](/f28/language/fi) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/fi/kbounce.po | 
+ | [fr](/f28/language/fr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/fr/kbounce.po | 
+ | [gl](/f28/language/gl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/gl/kbounce.po | 
+ | [hu](/f28/language/hu) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/hu/kbounce.po | 
+ | [it](/f28/language/it) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/it/kbounce.po | 
+ | [kk](/f28/language/kk) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/kk/kbounce.po | 
+ | [ko](/f28/language/ko) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ko/kbounce.po | 
+ | [nb_NO](/f28/language/nb_NO) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nb/kbounce.po | 
+ | [nds](/f28/language/nds) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nds/kbounce.po | 
+ | [nl](/f28/language/nl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nl/kbounce.po | 
+ | [nn](/f28/language/nn) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/nn/kbounce.po | 
+ | [pl](/f28/language/pl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/pl/kbounce.po | 
+ | [pt](/f28/language/pt) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/pt/kbounce.po | 
+ | [pt_BR](/f28/language/pt_BR) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/pt_BR/kbounce.po | 
+ | [ru](/f28/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/ru/kbounce.po | 
+ | [sk](/f28/language/sk) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sk/kbounce.po | 
+ | [sl](/f28/language/sl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sl/kbounce.po | 
+ | [sr](/f28/language/sr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sr/kbounce.po | 
+ | [sv](/f28/language/sv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/sv/kbounce.po | 
+ | [tr](/f28/language/tr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/tr/kbounce.po | 
+ | [uk](/f28/language/uk) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/uk/kbounce.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/zh_CN/kbounce.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/kbounce/po/zh_TW/kbounce.po | 
+ | [bg](/f28/language/bg) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/bg/kbounce.po | 
+ | [ga](/f28/language/ga) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/ga/kbounce.po | 
+ | [km](/f28/language/km) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/km/kbounce.po | 
+ | [lt](/f28/language/lt) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/lt/kbounce.po | 
+ | [lv](/f28/language/lv) | 150 | 154 | 97.4 | /mnt/stockage/packages/f28/kbounce/po/lv/kbounce.po | 
+ | [ja](/f28/language/ja) | 121 | 154 | 78.6 | /mnt/stockage/packages/f28/kbounce/po/ja/kbounce.po | 
+ | [ro](/f28/language/ro) | 114 | 154 | 74.0 | /mnt/stockage/packages/f28/kbounce/po/ro/kbounce.po | 
+ | [eu](/f28/language/eu) | 107 | 154 | 69.5 | /mnt/stockage/packages/f28/kbounce/po/eu/kbounce.po | 
+ | [fa](/f28/language/fa) | 107 | 154 | 69.5 | /mnt/stockage/packages/f28/kbounce/po/fa/kbounce.po | 
+ | [eo](/f28/language/eo) | 101 | 154 | 65.6 | /mnt/stockage/packages/f28/kbounce/po/eo/kbounce.po | 
+ | [ar](/f28/language/ar) | 90 | 154 | 58.4 | /mnt/stockage/packages/f28/kbounce/po/ar/kbounce.po | 
+ | [hi](/f28/language/hi) | 90 | 154 | 58.4 | /mnt/stockage/packages/f28/kbounce/po/hi/kbounce.po | 
+ | [pa](/f28/language/pa) | 78 | 154 | 50.6 | /mnt/stockage/packages/f28/kbounce/po/pa/kbounce.po | 
+ | [he](/f28/language/he) | 44 | 154 | 28.6 | /mnt/stockage/packages/f28/kbounce/po/he/kbounce.po | 
+ | [hr](/f28/language/hr) | 44 | 154 | 28.6 | /mnt/stockage/packages/f28/kbounce/po/hr/kbounce.po | 
+ | [is](/f28/language/is) | 44 | 154 | 28.6 | /mnt/stockage/packages/f28/kbounce/po/is/kbounce.po | 
+ | [ug](/f28/language/ug) | 42 | 154 | 27.3 | /mnt/stockage/packages/f28/kbounce/po/ug/kbounce.po | 
+ | [mr](/f28/language/mr) | 32 | 154 | 20.8 | /mnt/stockage/packages/f28/kbounce/po/mr/kbounce.po | 
+ | [ast](/f28/language/ast) | 4 | 154 | 2.6 | /mnt/stockage/packages/f28/kbounce/po/ast/kbounce.po | 
 {.sortable}
 
 

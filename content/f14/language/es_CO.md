@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f14/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [xnoise]({{< ref "/f14/package/xnoise.md" >}}) | 157 | 157 | 100.0 | fsistemas <f.sistemas@gmail.com> | 
- | [xnoise-plugins-core]({{< ref "/f14/package/xnoise-plugins-core.md" >}}) | 8 | 8 | 100.0 | fsistemas <f.sistemas@gmail.com> | 
- | [libgweather]({{< ref "/f14/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [liblicense]({{< ref "/f14/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f14/package/gnomebaker.md" >}}) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
- | [csound]({{< ref "/f14/package/csound.md" >}}) | 3314 | 13139 | 25.2 |  | 
+ | [gnome-applets](/f14/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [xnoise](/f14/package/xnoise) | 157 | 157 | 100.0 | fsistemas <f.sistemas@gmail.com> | 
+ | [xnoise-plugins-core](/f14/package/xnoise-plugins-core) | 8 | 8 | 100.0 | fsistemas <f.sistemas@gmail.com> | 
+ | [libgweather](/f14/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [liblicense](/f14/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f14/package/gnomebaker) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
+ | [csound](/f14/package/csound) | 3314 | 13139 | 25.2 |  | 
 {.sortable}
 
 

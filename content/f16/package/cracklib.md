@@ -18,41 +18,41 @@ The package cracklib (version 2.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/as.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/bn_IN.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/lt.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/sl_SI.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/te.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/zh_TW.po | 
+ | [as](/f16/language/as) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/as.po | 
+ | [bn_IN](/f16/language/bn_IN) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/bn_IN.po | 
+ | [cs](/f16/language/cs) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/cs.po | 
+ | [da](/f16/language/da) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/da.po | 
+ | [de](/f16/language/de) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/de.po | 
+ | [el](/f16/language/el) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/el.po | 
+ | [es](/f16/language/es) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/es.po | 
+ | [fi](/f16/language/fi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/fi.po | 
+ | [fr](/f16/language/fr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/fr.po | 
+ | [gu](/f16/language/gu) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/gu.po | 
+ | [hi](/f16/language/hi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/hi.po | 
+ | [hu](/f16/language/hu) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/hu.po | 
+ | [it](/f16/language/it) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/it.po | 
+ | [ja](/f16/language/ja) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ja.po | 
+ | [kn](/f16/language/kn) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/kn.po | 
+ | [ko](/f16/language/ko) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ko.po | 
+ | [lt](/f16/language/lt) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/lt.po | 
+ | [ml](/f16/language/ml) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ml.po | 
+ | [mr](/f16/language/mr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/nb.po | 
+ | [nl](/f16/language/nl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/nl.po | 
+ | [or](/f16/language/or) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/or.po | 
+ | [pa](/f16/language/pa) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pa.po | 
+ | [pl](/f16/language/pl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pl.po | 
+ | [pt](/f16/language/pt) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ru.po | 
+ | [sk](/f16/language/sk) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/sk.po | 
+ | [sl](/f16/language/sl) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/sl_SI.po | 
+ | [ta](/f16/language/ta) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/ta.po | 
+ | [te](/f16/language/te) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/te.po | 
+ | [tr](/f16/language/tr) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/tr.po | 
+ | [uk](/f16/language/uk) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 93 | 93 | 100.0 | /mnt/stockage/packages/f16/cracklib/po/zh_TW.po | 
 {.sortable}
 
 

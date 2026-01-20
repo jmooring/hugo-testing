@@ -18,16 +18,16 @@ The package gnome-applet-music (version 2.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/cs.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/fr_FR.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/pl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/sv.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 622 | 634 | 98.1 | /mnt/stockage/packages/f14/gnome-applet-music/po/ru.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 621 | 634 | 97.9 | /mnt/stockage/packages/f14/gnome-applet-music/po/de.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 538 | 634 | 84.9 | /mnt/stockage/packages/f14/gnome-applet-music/po/pt_BR.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 346 | 634 | 54.6 | /mnt/stockage/packages/f14/gnome-applet-music/po/ar.po | 
+ | [cs](/f14/language/cs) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/cs.po | 
+ | [es](/f14/language/es) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/es.po | 
+ | [fr](/f14/language/fr) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/fr_FR.po | 
+ | [nl](/f14/language/nl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/nl.po | 
+ | [pl](/f14/language/pl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/pl.po | 
+ | [sv](/f14/language/sv) | 634 | 634 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-music/po/sv.po | 
+ | [ru](/f14/language/ru) | 622 | 634 | 98.1 | /mnt/stockage/packages/f14/gnome-applet-music/po/ru.po | 
+ | [de](/f14/language/de) | 621 | 634 | 97.9 | /mnt/stockage/packages/f14/gnome-applet-music/po/de.po | 
+ | [pt_BR](/f14/language/pt_BR) | 538 | 634 | 84.9 | /mnt/stockage/packages/f14/gnome-applet-music/po/pt_BR.po | 
+ | [ar](/f14/language/ar) | 346 | 634 | 54.6 | /mnt/stockage/packages/f14/gnome-applet-music/po/ar.po | 
 {.sortable}
 
 

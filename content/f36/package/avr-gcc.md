@@ -18,28 +18,28 @@ The package avr-gcc (version 11.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/libcpp/po/eo.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 119928 | 119928 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/fr.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/fr.po/mnt/stockage/packages/f36/avr-gcc/libstdc++-v3/po/fr.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 119923 | 119923 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/sv.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/sv.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 119859 | 119928 | 99.9 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/de.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/de.po/mnt/stockage/packages/f36/avr-gcc/libstdc++-v3/po/de.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 79347 | 119923 | 66.2 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/ru.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/ru.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 920 | 1447 | 63.6 | /mnt/stockage/packages/f36/avr-gcc/libcpp/po/ca.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 65947 | 119923 | 55.0 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/es.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/es.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 29432 | 119923 | 24.5 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 26457 | 119923 | 22.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/vi.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/vi.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 20634 | 119923 | 17.2 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/id.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 17638 | 119923 | 14.7 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/sr.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/sr.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 15749 | 119923 | 13.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/tr.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 15250 | 119923 | 12.7 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/zh_TW.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 15134 | 119923 | 12.6 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/fi.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/fi.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 14546 | 119923 | 12.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/ja.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/ja.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 11571 | 119923 | 9.6 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/da.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/da.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 9442 | 119923 | 7.9 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/uk.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/uk.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 5196 | 119923 | 4.3 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/nl.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/nl.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 458 | 118476 | 0.4 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/hr.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 218 | 119923 | 0.2 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/be.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 179 | 119923 | 0.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/el.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/el.po | 
+ | [eo](/f36/language/eo) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/libcpp/po/eo.po | 
+ | [fr](/f36/language/fr) | 119928 | 119928 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/fr.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/fr.po/mnt/stockage/packages/f36/avr-gcc/libstdc++-v3/po/fr.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1447 | 1447 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/libcpp/po/pt_BR.po | 
+ | [sv](/f36/language/sv) | 119923 | 119923 | 100.0 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/sv.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/sv.po | 
+ | [de](/f36/language/de) | 119859 | 119928 | 99.9 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/de.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/de.po/mnt/stockage/packages/f36/avr-gcc/libstdc++-v3/po/de.po | 
+ | [ru](/f36/language/ru) | 79347 | 119923 | 66.2 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/ru.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/ru.po | 
+ | [ca](/f36/language/ca) | 920 | 1447 | 63.6 | /mnt/stockage/packages/f36/avr-gcc/libcpp/po/ca.po | 
+ | [es](/f36/language/es) | 65947 | 119923 | 55.0 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/es.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/es.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 29432 | 119923 | 24.5 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/zh_CN.po | 
+ | [vi](/f36/language/vi) | 26457 | 119923 | 22.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/vi.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/vi.po | 
+ | [id](/f36/language/id) | 20634 | 119923 | 17.2 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/id.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/id.po | 
+ | [sr](/f36/language/sr) | 17638 | 119923 | 14.7 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/sr.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/sr.po | 
+ | [tr](/f36/language/tr) | 15749 | 119923 | 13.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/tr.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 15250 | 119923 | 12.7 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/zh_TW.po | 
+ | [fi](/f36/language/fi) | 15134 | 119923 | 12.6 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/fi.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/fi.po | 
+ | [ja](/f36/language/ja) | 14546 | 119923 | 12.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/ja.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/ja.po | 
+ | [da](/f36/language/da) | 11571 | 119923 | 9.6 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/da.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/da.po | 
+ | [uk](/f36/language/uk) | 9442 | 119923 | 7.9 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/uk.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/uk.po | 
+ | [nl](/f36/language/nl) | 5196 | 119923 | 4.3 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/nl.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/nl.po | 
+ | [hr](/f36/language/hr) | 458 | 118476 | 0.4 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/hr.po | 
+ | [be](/f36/language/be) | 218 | 119923 | 0.2 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/be.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/be.po | 
+ | [el](/f36/language/el) | 179 | 119923 | 0.1 | /mnt/stockage/packages/f36/avr-gcc/gcc/po/el.po/mnt/stockage/packages/f36/avr-gcc/libcpp/po/el.po | 
 {.sortable}
 
 

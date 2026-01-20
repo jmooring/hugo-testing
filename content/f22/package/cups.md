@@ -18,14 +18,14 @@ The package cups (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f22/language/es.md" >}}) | 7870 | 7870 | 100.0 | /mnt/stockage/packages/f22/cups/locale/cups_es.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 7870 | 7870 | 100.0 | /mnt/stockage/packages/f22/cups/locale/cups_ja.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 7622 | 7870 | 96.8 | /mnt/stockage/packages/f22/cups/locale/cups_it.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 6618 | 7870 | 84.1 | /mnt/stockage/packages/f22/cups/locale/cups_ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1207 | 7870 | 15.3 | /mnt/stockage/packages/f22/cups/locale/cups_cs.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1155 | 7880 | 14.7 | /mnt/stockage/packages/f22/cups/locale/cups_fr.po/mnt/stockage/packages/f22/cups/ppdc/foo-fr.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cups/locale/cups_de.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cups/locale/cups_ru.po | 
+ | [es](/f22/language/es) | 7870 | 7870 | 100.0 | /mnt/stockage/packages/f22/cups/locale/cups_es.po | 
+ | [ja](/f22/language/ja) | 7870 | 7870 | 100.0 | /mnt/stockage/packages/f22/cups/locale/cups_ja.po | 
+ | [it](/f22/language/it) | 7622 | 7870 | 96.8 | /mnt/stockage/packages/f22/cups/locale/cups_it.po | 
+ | [ca](/f22/language/ca) | 6618 | 7870 | 84.1 | /mnt/stockage/packages/f22/cups/locale/cups_ca.po | 
+ | [cs](/f22/language/cs) | 1207 | 7870 | 15.3 | /mnt/stockage/packages/f22/cups/locale/cups_cs.po | 
+ | [fr](/f22/language/fr) | 1155 | 7880 | 14.7 | /mnt/stockage/packages/f22/cups/locale/cups_fr.po/mnt/stockage/packages/f22/cups/ppdc/foo-fr.po | 
+ | [de](/f22/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cups/locale/cups_de.po | 
+ | [ru](/f22/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/cups/locale/cups_ru.po | 
 {.sortable}
 
 

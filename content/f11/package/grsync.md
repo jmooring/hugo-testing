@@ -18,19 +18,19 @@ The package grsync (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f11/language/it.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f11/grsync/po/it_IT.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f11/grsync/po/nl_NL.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 750 | 773 | 97.0 | /mnt/stockage/packages/f11/grsync/po/ca_ES.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/cs_CZ.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/de_DE.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/es_ES.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/fr_FR.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/gl_ES.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/ru_RU.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 597 | 773 | 77.2 | /mnt/stockage/packages/f11/grsync/po/tr_TR.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 457 | 773 | 59.1 | /mnt/stockage/packages/f11/grsync/po/nb_NO.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 84 | 773 | 10.9 | /mnt/stockage/packages/f11/grsync/po/sv_SE.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 84 | 773 | 10.9 | /mnt/stockage/packages/f11/grsync/po/zh_CN.po | 
+ | [it](/f11/language/it) | 773 | 773 | 100.0 | /mnt/stockage/packages/f11/grsync/po/it_IT.po | 
+ | [nl](/f11/language/nl) | 773 | 773 | 100.0 | /mnt/stockage/packages/f11/grsync/po/nl_NL.po | 
+ | [ca](/f11/language/ca) | 750 | 773 | 97.0 | /mnt/stockage/packages/f11/grsync/po/ca_ES.po | 
+ | [cs](/f11/language/cs) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/cs_CZ.po | 
+ | [de](/f11/language/de) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/de_DE.po | 
+ | [es](/f11/language/es) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/es_ES.po | 
+ | [fr](/f11/language/fr) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/fr_FR.po | 
+ | [gl](/f11/language/gl) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/gl_ES.po | 
+ | [ru](/f11/language/ru) | 649 | 773 | 84.0 | /mnt/stockage/packages/f11/grsync/po/ru_RU.po | 
+ | [tr](/f11/language/tr) | 597 | 773 | 77.2 | /mnt/stockage/packages/f11/grsync/po/tr_TR.po | 
+ | [nb_NO](/f11/language/nb_NO) | 457 | 773 | 59.1 | /mnt/stockage/packages/f11/grsync/po/nb_NO.po | 
+ | [sv](/f11/language/sv) | 84 | 773 | 10.9 | /mnt/stockage/packages/f11/grsync/po/sv_SE.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 84 | 773 | 10.9 | /mnt/stockage/packages/f11/grsync/po/zh_CN.po | 
 {.sortable}
 
 

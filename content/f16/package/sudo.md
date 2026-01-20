@@ -18,16 +18,16 @@ The package sudo (version 1.8.3p1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/da.po/mnt/stockage/packages/f16/sudo/src/po/da.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/eo.po/mnt/stockage/packages/f16/sudo/src/po/eo.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/fi.po/mnt/stockage/packages/f16/sudo/src/po/fi.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f16/sudo/src/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/ja.po/mnt/stockage/packages/f16/sudo/src/po/ja.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/pl.po/mnt/stockage/packages/f16/sudo/src/po/pl.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f16/sudo/src/po/ru.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/uk.po/mnt/stockage/packages/f16/sudo/src/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2913 | 2996 | 97.2 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/zh_CN.po/mnt/stockage/packages/f16/sudo/src/po/zh_CN.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 707 | 3005 | 23.5 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/eu.po/mnt/stockage/packages/f16/sudo/src/po/eu.po | 
+ | [da](/f16/language/da) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/da.po/mnt/stockage/packages/f16/sudo/src/po/da.po | 
+ | [eo](/f16/language/eo) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/eo.po/mnt/stockage/packages/f16/sudo/src/po/eo.po | 
+ | [fi](/f16/language/fi) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/fi.po/mnt/stockage/packages/f16/sudo/src/po/fi.po | 
+ | [it](/f16/language/it) | 871 | 871 | 100.0 | /mnt/stockage/packages/f16/sudo/src/po/it.po | 
+ | [ja](/f16/language/ja) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/ja.po/mnt/stockage/packages/f16/sudo/src/po/ja.po | 
+ | [pl](/f16/language/pl) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/pl.po/mnt/stockage/packages/f16/sudo/src/po/pl.po | 
+ | [ru](/f16/language/ru) | 871 | 871 | 100.0 | /mnt/stockage/packages/f16/sudo/src/po/ru.po | 
+ | [uk](/f16/language/uk) | 2996 | 2996 | 100.0 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/uk.po/mnt/stockage/packages/f16/sudo/src/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2913 | 2996 | 97.2 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/zh_CN.po/mnt/stockage/packages/f16/sudo/src/po/zh_CN.po | 
+ | [eu](/f16/language/eu) | 707 | 3005 | 23.5 | /mnt/stockage/packages/f16/sudo/plugins/sudoers/po/eu.po/mnt/stockage/packages/f16/sudo/src/po/eu.po | 
 {.sortable}
 
 

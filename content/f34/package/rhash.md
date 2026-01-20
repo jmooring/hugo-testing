@@ -18,16 +18,16 @@ The package rhash (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f34/rhash/po/ru.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 380 | 465 | 81.7 | /mnt/stockage/packages/f34/rhash/po/en_AU.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 380 | 465 | 81.7 | /mnt/stockage/packages/f34/rhash/po/uk.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 355 | 465 | 76.3 | /mnt/stockage/packages/f34/rhash/po/de.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 322 | 465 | 69.2 | /mnt/stockage/packages/f34/rhash/po/it.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 313 | 465 | 67.3 | /mnt/stockage/packages/f34/rhash/po/es.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 216 | 465 | 46.5 | /mnt/stockage/packages/f34/rhash/po/gl.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 205 | 465 | 44.1 | /mnt/stockage/packages/f34/rhash/po/ca.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 198 | 465 | 42.6 | /mnt/stockage/packages/f34/rhash/po/ro.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 134 | 465 | 28.8 | /mnt/stockage/packages/f34/rhash/po/fr.po | 
+ | [ru](/f34/language/ru) | 465 | 465 | 100.0 | /mnt/stockage/packages/f34/rhash/po/ru.po | 
+ | [en](/f34/language/en) | 380 | 465 | 81.7 | /mnt/stockage/packages/f34/rhash/po/en_AU.po | 
+ | [uk](/f34/language/uk) | 380 | 465 | 81.7 | /mnt/stockage/packages/f34/rhash/po/uk.po | 
+ | [de](/f34/language/de) | 355 | 465 | 76.3 | /mnt/stockage/packages/f34/rhash/po/de.po | 
+ | [it](/f34/language/it) | 322 | 465 | 69.2 | /mnt/stockage/packages/f34/rhash/po/it.po | 
+ | [es](/f34/language/es) | 313 | 465 | 67.3 | /mnt/stockage/packages/f34/rhash/po/es.po | 
+ | [gl](/f34/language/gl) | 216 | 465 | 46.5 | /mnt/stockage/packages/f34/rhash/po/gl.po | 
+ | [ca](/f34/language/ca) | 205 | 465 | 44.1 | /mnt/stockage/packages/f34/rhash/po/ca.po | 
+ | [ro](/f34/language/ro) | 198 | 465 | 42.6 | /mnt/stockage/packages/f34/rhash/po/ro.po | 
+ | [fr](/f34/language/fr) | 134 | 465 | 28.8 | /mnt/stockage/packages/f34/rhash/po/fr.po | 
 {.sortable}
 
 

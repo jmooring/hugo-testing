@@ -18,18 +18,18 @@ The package tinyerp (version 4.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 1222 | 1224 | 99.8 | /mnt/stockage/packages/f8/tinyerp/bin/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1606 | 1621 | 99.1 | /mnt/stockage/packages/f8/tinyerp/bin/po/fr.po | 
- | [bin]({{< ref "/f8/language/bin.md" >}}) | 2169 | 3031 | 71.6 | /mnt/stockage/packages/f8/tinyerp/bin/po/al.po/mnt/stockage/packages/f8/tinyerp/bin/po/cs.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 639 | 1388 | 46.0 | /mnt/stockage/packages/f8/tinyerp/bin/po/ru.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 525 | 1388 | 37.8 | /mnt/stockage/packages/f8/tinyerp/bin/po/pt.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 489 | 1388 | 35.2 | /mnt/stockage/packages/f8/tinyerp/bin/po/zh.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 446 | 1388 | 32.1 | /mnt/stockage/packages/f8/tinyerp/bin/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 440 | 1388 | 31.7 | /mnt/stockage/packages/f8/tinyerp/bin/po/es.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 438 | 1388 | 31.6 | /mnt/stockage/packages/f8/tinyerp/bin/po/uk.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 388 | 1388 | 28.0 | /mnt/stockage/packages/f8/tinyerp/bin/po/ro.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 357 | 1388 | 25.7 | /mnt/stockage/packages/f8/tinyerp/bin/po/hu.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 162 | 1388 | 11.7 | /mnt/stockage/packages/f8/tinyerp/bin/po/sv.po | 
+ | [de](/f8/language/de) | 1222 | 1224 | 99.8 | /mnt/stockage/packages/f8/tinyerp/bin/po/de.po | 
+ | [fr](/f8/language/fr) | 1606 | 1621 | 99.1 | /mnt/stockage/packages/f8/tinyerp/bin/po/fr.po | 
+ | [bin](/f8/language/bin) | 2169 | 3031 | 71.6 | /mnt/stockage/packages/f8/tinyerp/bin/po/al.po/mnt/stockage/packages/f8/tinyerp/bin/po/cs.po | 
+ | [ru](/f8/language/ru) | 639 | 1388 | 46.0 | /mnt/stockage/packages/f8/tinyerp/bin/po/ru.po | 
+ | [pt](/f8/language/pt) | 525 | 1388 | 37.8 | /mnt/stockage/packages/f8/tinyerp/bin/po/pt.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 489 | 1388 | 35.2 | /mnt/stockage/packages/f8/tinyerp/bin/po/zh.po | 
+ | [it](/f8/language/it) | 446 | 1388 | 32.1 | /mnt/stockage/packages/f8/tinyerp/bin/po/it.po | 
+ | [es](/f8/language/es) | 440 | 1388 | 31.7 | /mnt/stockage/packages/f8/tinyerp/bin/po/es.po | 
+ | [uk](/f8/language/uk) | 438 | 1388 | 31.6 | /mnt/stockage/packages/f8/tinyerp/bin/po/uk.po | 
+ | [ro](/f8/language/ro) | 388 | 1388 | 28.0 | /mnt/stockage/packages/f8/tinyerp/bin/po/ro.po | 
+ | [hu](/f8/language/hu) | 357 | 1388 | 25.7 | /mnt/stockage/packages/f8/tinyerp/bin/po/hu.po | 
+ | [sv](/f8/language/sv) | 162 | 1388 | 11.7 | /mnt/stockage/packages/f8/tinyerp/bin/po/sv.po | 
 {.sortable}
 
 

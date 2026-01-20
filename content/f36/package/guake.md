@@ -18,31 +18,31 @@ The package guake (version 3.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1195 | 1205 | 99.2 | /mnt/stockage/packages/f36/guake/po/fr.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 1561 | 1661 | 94.0 | /mnt/stockage/packages/f36/guake/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1201 | 1301 | 92.3 | /mnt/stockage/packages/f36/guake/po/pl.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 1515 | 1653 | 91.7 | /mnt/stockage/packages/f36/guake/po/ru.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1505 | 1643 | 91.6 | /mnt/stockage/packages/f36/guake/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1167 | 1305 | 89.4 | /mnt/stockage/packages/f36/guake/po/de.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1137 | 1301 | 87.4 | /mnt/stockage/packages/f36/guake/po/sv.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1314 | 1661 | 79.1 | /mnt/stockage/packages/f36/guake/po/zh_CN.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1213 | 1643 | 73.8 | /mnt/stockage/packages/f36/guake/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 919 | 1286 | 71.5 | /mnt/stockage/packages/f36/guake/po/ja.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 896 | 1643 | 54.5 | /mnt/stockage/packages/f36/guake/po/nb.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 870 | 1643 | 53.0 | /mnt/stockage/packages/f36/guake/po/ko.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 781 | 1643 | 47.5 | /mnt/stockage/packages/f36/guake/po/es.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 777 | 1643 | 47.3 | /mnt/stockage/packages/f36/guake/po/pt_BR.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 361 | 1643 | 22.0 | /mnt/stockage/packages/f36/guake/po/gl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 298 | 1643 | 18.1 | /mnt/stockage/packages/f36/guake/po/tr.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/ca.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/hu.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/uk.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 279 | 1643 | 17.0 | /mnt/stockage/packages/f36/guake/po/fa.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 241 | 1643 | 14.7 | /mnt/stockage/packages/f36/guake/po/el.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 201 | 1643 | 12.2 | /mnt/stockage/packages/f36/guake/po/pa.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 19 | 1643 | 1.2 | /mnt/stockage/packages/f36/guake/po/id.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 14 | 1214 | 1.2 | /mnt/stockage/packages/f36/guake/po/zh_TW.po | 
+ | [fr](/f36/language/fr) | 1195 | 1205 | 99.2 | /mnt/stockage/packages/f36/guake/po/fr.po | 
+ | [nl](/f36/language/nl) | 1561 | 1661 | 94.0 | /mnt/stockage/packages/f36/guake/po/nl.po | 
+ | [pl](/f36/language/pl) | 1201 | 1301 | 92.3 | /mnt/stockage/packages/f36/guake/po/pl.po | 
+ | [ru](/f36/language/ru) | 1515 | 1653 | 91.7 | /mnt/stockage/packages/f36/guake/po/ru.po | 
+ | [cs](/f36/language/cs) | 1505 | 1643 | 91.6 | /mnt/stockage/packages/f36/guake/po/cs.po | 
+ | [de](/f36/language/de) | 1167 | 1305 | 89.4 | /mnt/stockage/packages/f36/guake/po/de.po | 
+ | [sv](/f36/language/sv) | 1137 | 1301 | 87.4 | /mnt/stockage/packages/f36/guake/po/sv.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1314 | 1661 | 79.1 | /mnt/stockage/packages/f36/guake/po/zh_CN.po | 
+ | [it](/f36/language/it) | 1213 | 1643 | 73.8 | /mnt/stockage/packages/f36/guake/po/it.po | 
+ | [ja](/f36/language/ja) | 919 | 1286 | 71.5 | /mnt/stockage/packages/f36/guake/po/ja.po | 
+ | [nb_NO](/f36/language/nb_NO) | 896 | 1643 | 54.5 | /mnt/stockage/packages/f36/guake/po/nb.po | 
+ | [ko](/f36/language/ko) | 870 | 1643 | 53.0 | /mnt/stockage/packages/f36/guake/po/ko.po | 
+ | [es](/f36/language/es) | 781 | 1643 | 47.5 | /mnt/stockage/packages/f36/guake/po/es.po | 
+ | [pt_BR](/f36/language/pt_BR) | 777 | 1643 | 47.3 | /mnt/stockage/packages/f36/guake/po/pt_BR.po | 
+ | [gl](/f36/language/gl) | 361 | 1643 | 22.0 | /mnt/stockage/packages/f36/guake/po/gl.po | 
+ | [tr](/f36/language/tr) | 298 | 1643 | 18.1 | /mnt/stockage/packages/f36/guake/po/tr.po | 
+ | [ca](/f36/language/ca) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/ca.po | 
+ | [hr](/f36/language/hr) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/hr.po | 
+ | [hu](/f36/language/hu) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/hu.po | 
+ | [uk](/f36/language/uk) | 293 | 1643 | 17.8 | /mnt/stockage/packages/f36/guake/po/uk.po | 
+ | [fa](/f36/language/fa) | 279 | 1643 | 17.0 | /mnt/stockage/packages/f36/guake/po/fa.po | 
+ | [el](/f36/language/el) | 241 | 1643 | 14.7 | /mnt/stockage/packages/f36/guake/po/el.po | 
+ | [pa](/f36/language/pa) | 201 | 1643 | 12.2 | /mnt/stockage/packages/f36/guake/po/pa.po | 
+ | [id](/f36/language/id) | 19 | 1643 | 1.2 | /mnt/stockage/packages/f36/guake/po/id.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 14 | 1214 | 1.2 | /mnt/stockage/packages/f36/guake/po/zh_TW.po | 
 {.sortable}
 
 

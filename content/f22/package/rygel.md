@@ -18,61 +18,61 @@ The package rygel (version 0.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f22/language/as.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/as.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f22/rygel/po/bg.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/bn_IN.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 1218 | 1218 | 100.0 | /mnt/stockage/packages/f22/rygel/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ca.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ca@valencia.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 996 | 996 | 100.0 | /mnt/stockage/packages/f22/rygel/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/eu.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/gl.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/hi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/it.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/lv.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/nl.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 1063 | 1063 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sr.po/mnt/stockage/packages/f22/rygel/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 577 | 577 | 100.0 | /mnt/stockage/packages/f22/rygel/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/tr.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1218 | 1218 | 100.0 | /mnt/stockage/packages/f22/rygel/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f22/rygel/po/vi.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f22/rygel/po/zh_TW.po/mnt/stockage/packages/f22/rygel/po/zh_HK.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1221 | 1225 | 99.7 | /mnt/stockage/packages/f22/rygel/po/ja.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1122 | 1140 | 98.4 | /mnt/stockage/packages/f22/rygel/po/zh_CN.po | 
- | [he_IL]({{< ref "/f22/language/he_IL.md" >}}) | 971 | 1140 | 85.2 | /mnt/stockage/packages/f22/rygel/po/he.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 377 | 556 | 67.8 | /mnt/stockage/packages/f22/rygel/po/gu.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 250 | 592 | 42.2 | /mnt/stockage/packages/f22/rygel/po/af.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 419 | 1055 | 39.7 | /mnt/stockage/packages/f22/rygel/po/eo.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 481 | 1218 | 39.5 | /mnt/stockage/packages/f22/rygel/po/fi.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 302 | 768 | 39.3 | /mnt/stockage/packages/f22/rygel/po/ar.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 192 | 673 | 28.5 | /mnt/stockage/packages/f22/rygel/po/ml.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 153 | 1140 | 13.4 | /mnt/stockage/packages/f22/rygel/po/ne.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 75 | 1062 | 7.1 | /mnt/stockage/packages/f22/rygel/po/tg.po | 
+ | [as](/f22/language/as) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/as.po | 
+ | [bg](/f22/language/bg) | 663 | 663 | 100.0 | /mnt/stockage/packages/f22/rygel/po/bg.po | 
+ | [bn_IN](/f22/language/bn_IN) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/bn_IN.po | 
+ | [bs](/f22/language/bs) | 1218 | 1218 | 100.0 | /mnt/stockage/packages/f22/rygel/po/bs.po | 
+ | [ca](/f22/language/ca) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ca.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ca@valencia.po | 
+ | [cs](/f22/language/cs) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/cs.po | 
+ | [da](/f22/language/da) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/da.po | 
+ | [de](/f22/language/de) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/de.po | 
+ | [el](/f22/language/el) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 996 | 996 | 100.0 | /mnt/stockage/packages/f22/rygel/po/en_GB.po | 
+ | [es](/f22/language/es) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/es.po | 
+ | [et](/f22/language/et) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/et.po | 
+ | [eu](/f22/language/eu) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/eu.po | 
+ | [fr](/f22/language/fr) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/fr.po | 
+ | [gl](/f22/language/gl) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/gl.po | 
+ | [hi](/f22/language/hi) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/hi.po | 
+ | [hu](/f22/language/hu) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/hu.po | 
+ | [id](/f22/language/id) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/id.po | 
+ | [it](/f22/language/it) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/it.po | 
+ | [kn](/f22/language/kn) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/kn.po | 
+ | [ko](/f22/language/ko) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ko.po | 
+ | [lt](/f22/language/lt) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/lt.po | 
+ | [lv](/f22/language/lv) | 1140 | 1140 | 100.0 | /mnt/stockage/packages/f22/rygel/po/lv.po | 
+ | [nb_NO](/f22/language/nb_NO) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/nb.po | 
+ | [nl](/f22/language/nl) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/nl.po | 
+ | [pa](/f22/language/pa) | 676 | 676 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pa.po | 
+ | [pl](/f22/language/pl) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pl.po | 
+ | [pt](/f22/language/pt) | 1063 | 1063 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 556 | 556 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ro.po | 
+ | [ru](/f22/language/ru) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ru.po | 
+ | [sk](/f22/language/sk) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sk.po | 
+ | [sl](/f22/language/sl) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sl.po | 
+ | [sr](/f22/language/sr) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sr.po/mnt/stockage/packages/f22/rygel/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/sv.po | 
+ | [ta](/f22/language/ta) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ta.po | 
+ | [te](/f22/language/te) | 577 | 577 | 100.0 | /mnt/stockage/packages/f22/rygel/po/te.po | 
+ | [th](/f22/language/th) | 669 | 669 | 100.0 | /mnt/stockage/packages/f22/rygel/po/th.po | 
+ | [tr](/f22/language/tr) | 1225 | 1225 | 100.0 | /mnt/stockage/packages/f22/rygel/po/tr.po | 
+ | [ug](/f22/language/ug) | 676 | 676 | 100.0 | /mnt/stockage/packages/f22/rygel/po/ug.po | 
+ | [uk](/f22/language/uk) | 1218 | 1218 | 100.0 | /mnt/stockage/packages/f22/rygel/po/uk.po | 
+ | [vi](/f22/language/vi) | 517 | 517 | 100.0 | /mnt/stockage/packages/f22/rygel/po/vi.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 2354 | 2354 | 100.0 | /mnt/stockage/packages/f22/rygel/po/zh_TW.po/mnt/stockage/packages/f22/rygel/po/zh_HK.po | 
+ | [ja](/f22/language/ja) | 1221 | 1225 | 99.7 | /mnt/stockage/packages/f22/rygel/po/ja.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1122 | 1140 | 98.4 | /mnt/stockage/packages/f22/rygel/po/zh_CN.po | 
+ | [he_IL](/f22/language/he_IL) | 971 | 1140 | 85.2 | /mnt/stockage/packages/f22/rygel/po/he.po | 
+ | [gu](/f22/language/gu) | 377 | 556 | 67.8 | /mnt/stockage/packages/f22/rygel/po/gu.po | 
+ | [af](/f22/language/af) | 250 | 592 | 42.2 | /mnt/stockage/packages/f22/rygel/po/af.po | 
+ | [eo](/f22/language/eo) | 419 | 1055 | 39.7 | /mnt/stockage/packages/f22/rygel/po/eo.po | 
+ | [fi](/f22/language/fi) | 481 | 1218 | 39.5 | /mnt/stockage/packages/f22/rygel/po/fi.po | 
+ | [ar](/f22/language/ar) | 302 | 768 | 39.3 | /mnt/stockage/packages/f22/rygel/po/ar.po | 
+ | [ml](/f22/language/ml) | 192 | 673 | 28.5 | /mnt/stockage/packages/f22/rygel/po/ml.po | 
+ | [ne](/f22/language/ne) | 153 | 1140 | 13.4 | /mnt/stockage/packages/f22/rygel/po/ne.po | 
+ | [tg](/f22/language/tg) | 75 | 1062 | 7.1 | /mnt/stockage/packages/f22/rygel/po/tg.po | 
 {.sortable}
 
 

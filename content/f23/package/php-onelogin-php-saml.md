@@ -18,8 +18,8 @@ The package php-onelogin-php-saml (version 2.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f23/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f23/php-onelogin-php-saml/locale/es_ES/LC_MESSAGES/phptoolkit.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 3 | 10 | 30.0 | /mnt/stockage/packages/f23/php-onelogin-php-saml/locale/en_US/LC_MESSAGES/phptoolkit.po | 
+ | [es](/f23/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f23/php-onelogin-php-saml/locale/es_ES/LC_MESSAGES/phptoolkit.po | 
+ | [en_US](/f23/language/en_US) | 3 | 10 | 30.0 | /mnt/stockage/packages/f23/php-onelogin-php-saml/locale/en_US/LC_MESSAGES/phptoolkit.po | 
 {.sortable}
 
 

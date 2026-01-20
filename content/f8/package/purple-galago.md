@@ -18,9 +18,9 @@ The package purple-galago (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f8/purple-galago/po/de.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f8/purple-galago/po/pt_BR.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 0 | 7 | 0.0 | /mnt/stockage/packages/f8/purple-galago/po/fr.po | 
+ | [de](/f8/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f8/purple-galago/po/de.po | 
+ | [pt_BR](/f8/language/pt_BR) | 7 | 7 | 100.0 | /mnt/stockage/packages/f8/purple-galago/po/pt_BR.po | 
+ | [fr](/f8/language/fr) | 0 | 7 | 0.0 | /mnt/stockage/packages/f8/purple-galago/po/fr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package passwdqc (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f32/passwdqc/po/ru.po | 
+ | [ru](/f32/language/ru) | 660 | 660 | 100.0 | /mnt/stockage/packages/f32/passwdqc/po/ru.po | 
 {.sortable}
 
 

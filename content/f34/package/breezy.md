@@ -18,44 +18,44 @@ The package breezy (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ar.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ast.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/bs.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/el.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/en_AU.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/es.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/fa.po | 
- | [fo]({{< ref "/f34/language/fo.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/fo.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/gl.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/he.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ko.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ms.po | 
- | [my]({{< ref "/f34/language/my.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/my.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/nl.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/oc.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/pt_BR.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ro.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ru.po | 
- | [sco]({{< ref "/f34/language/sco.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sco.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/si.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sk.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/tr.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ug.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/vi.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/zh_CN.po | 
+ | [ar](/f34/language/ar) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ar.po | 
+ | [ast](/f34/language/ast) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ast.po | 
+ | [bs](/f34/language/bs) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/bs.po | 
+ | [ca](/f34/language/ca) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ca.po | 
+ | [cs](/f34/language/cs) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/cs.po | 
+ | [de](/f34/language/de) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/de.po | 
+ | [el](/f34/language/el) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/el.po | 
+ | [en_AU](/f34/language/en_AU) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/en_AU.po | 
+ | [en_GB](/f34/language/en_GB) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/en_GB.po | 
+ | [es](/f34/language/es) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/es.po | 
+ | [fa](/f34/language/fa) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/fa.po | 
+ | [fo](/f34/language/fo) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/fo.po | 
+ | [fr](/f34/language/fr) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/fr.po | 
+ | [gl](/f34/language/gl) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/gl.po | 
+ | [he](/f34/language/he) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/he.po | 
+ | [id](/f34/language/id) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/id.po | 
+ | [it](/f34/language/it) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/it.po | 
+ | [ja](/f34/language/ja) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ja.po | 
+ | [ko](/f34/language/ko) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ko.po | 
+ | [ms](/f34/language/ms) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ms.po | 
+ | [my](/f34/language/my) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/my.po | 
+ | [nb_NO](/f34/language/nb_NO) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/nb.po | 
+ | [nl](/f34/language/nl) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/nl.po | 
+ | [oc](/f34/language/oc) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/oc.po | 
+ | [pl](/f34/language/pl) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/pt_BR.po | 
+ | [ro](/f34/language/ro) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ro.po | 
+ | [ru](/f34/language/ru) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ru.po | 
+ | [sco](/f34/language/sco) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sco.po | 
+ | [si](/f34/language/si) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/si.po | 
+ | [sk](/f34/language/sk) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sk.po | 
+ | [sr](/f34/language/sr) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sr.po | 
+ | [sv](/f34/language/sv) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/sv.po | 
+ | [tr](/f34/language/tr) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/tr.po | 
+ | [ug](/f34/language/ug) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/ug.po | 
+ | [uk](/f34/language/uk) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/uk.po | 
+ | [vi](/f34/language/vi) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/vi.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 0 | 33704 | 0.0 | /mnt/stockage/packages/f34/breezy/po/zh_CN.po | 
 {.sortable}
 
 

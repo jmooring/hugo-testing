@@ -18,14 +18,14 @@ The package mingw-hunspell (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/ca.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/es.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/pt_BR.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/tg.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 598 | 613 | 97.6 | /mnt/stockage/packages/f32/mingw-hunspell/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 496 | 613 | 80.9 | /mnt/stockage/packages/f32/mingw-hunspell/po/it.po | 
+ | [ca](/f32/language/ca) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/ca.po | 
+ | [de](/f32/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/de.po | 
+ | [es](/f32/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/es.po | 
+ | [pl](/f32/language/pl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/pt_BR.po | 
+ | [tg](/f32/language/tg) | 613 | 613 | 100.0 | /mnt/stockage/packages/f32/mingw-hunspell/po/tg.po | 
+ | [hu](/f32/language/hu) | 598 | 613 | 97.6 | /mnt/stockage/packages/f32/mingw-hunspell/po/hu.po | 
+ | [it](/f32/language/it) | 496 | 613 | 80.9 | /mnt/stockage/packages/f32/mingw-hunspell/po/it.po | 
 {.sortable}
 
 

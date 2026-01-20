@@ -39,32 +39,32 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [koffice-kivio]({{< ref "/f39/package/koffice-kivio.md" >}}) | 1896 | 8417 | 22.5 | <en@li.org> | 
- | [libreoffice]({{< ref "/f39/package/libreoffice.md" >}}) | 28819 | 171188 | 16.8 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f39/package/tuxpaint.md" >}}) | 353 | 3763 | 9.4 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 318 | 22910 | 1.4 | Venda <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ve/> | 
- | [calibre]({{< ref "/f39/package/calibre.md" >}}) | 47 | 170967 | 0.0 | Venda (http://www.transifex.com/calibre/calibre/language/ve/) | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [koffice-kivio](/f39/package/koffice-kivio) | 1896 | 8417 | 22.5 | <en@li.org> | 
+ | [libreoffice](/f39/package/libreoffice) | 28819 | 171188 | 16.8 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f39/package/tuxpaint) | 353 | 3763 | 9.4 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f39/package/iso-codes) | 318 | 22910 | 1.4 | Venda <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ve/> | 
+ | [calibre](/f39/package/calibre) | 47 | 170967 | 0.0 | Venda (http://www.transifex.com/calibre/calibre/language/ve/) | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

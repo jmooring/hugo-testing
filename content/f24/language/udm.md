@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f24/package/python-django.md" >}}) | 477 | 3344 | 14.3 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
+ | [python-django](/f24/package/python-django) | 477 | 3344 | 14.3 | Udmurt (http://www.transifex.com/django/django/language/udm/) | 
 {.sortable}
 
 

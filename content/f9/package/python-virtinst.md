@@ -18,9 +18,9 @@ The package python-virtinst (version 0.300.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1612 | 1670 | 96.5 | /mnt/stockage/packages/f9/python-virtinst/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1146 | 1670 | 68.6 | /mnt/stockage/packages/f9/python-virtinst/po/ja.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1146 | 1670 | 68.6 | /mnt/stockage/packages/f9/python-virtinst/po/pl.po | 
+ | [fr](/f9/language/fr) | 1612 | 1670 | 96.5 | /mnt/stockage/packages/f9/python-virtinst/po/fr.po | 
+ | [ja](/f9/language/ja) | 1146 | 1670 | 68.6 | /mnt/stockage/packages/f9/python-virtinst/po/ja.po | 
+ | [pl](/f9/language/pl) | 1146 | 1670 | 68.6 | /mnt/stockage/packages/f9/python-virtinst/po/pl.po | 
 {.sortable}
 
 

@@ -18,69 +18,69 @@ The package gparted (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 2987 | 2987 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ar.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f35/gparted/po/bg.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 2588 | 2588 | 100.0 | /mnt/stockage/packages/f35/gparted/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/cs/cs.po/mnt/stockage/packages/f35/gparted/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 9657 | 9657 | 100.0 | /mnt/stockage/packages/f35/gparted/help/de/de.po/mnt/stockage/packages/f35/gparted/po/de.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f35/gparted/po/dz.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 2074 | 2074 | 100.0 | /mnt/stockage/packages/f35/gparted/po/en_CA.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/es/es.po/mnt/stockage/packages/f35/gparted/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 2309 | 2309 | 100.0 | /mnt/stockage/packages/f35/gparted/po/fa.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/fr/fr.po/mnt/stockage/packages/f35/gparted/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/fur.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 3037 | 3037 | 100.0 | /mnt/stockage/packages/f35/gparted/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 7096 | 7096 | 100.0 | /mnt/stockage/packages/f35/gparted/help/it/it.po/mnt/stockage/packages/f35/gparted/po/it.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/lv.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f35/gparted/po/mk.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 2480 | 2480 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ml.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/nb.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ne.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 2517 | 2517 | 100.0 | /mnt/stockage/packages/f35/gparted/po/nn.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gparted/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/ro/ro.po/mnt/stockage/packages/f35/gparted/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/ru/ru.po/mnt/stockage/packages/f35/gparted/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/sk.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 18220 | 18220 | 100.0 | /mnt/stockage/packages/f35/gparted/help/sr/sr.po/mnt/stockage/packages/f35/gparted/help/sr@latin/sr@latin.po/mnt/stockage/packages/f35/gparted/po/sr.po/mnt/stockage/packages/f35/gparted/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/sv/sv.po/mnt/stockage/packages/f35/gparted/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 2727 | 2727 | 100.0 | /mnt/stockage/packages/f35/gparted/help/th/th.po/mnt/stockage/packages/f35/gparted/po/th.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/uk/uk.po/mnt/stockage/packages/f35/gparted/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 2560 | 2560 | 100.0 | /mnt/stockage/packages/f35/gparted/po/zh_HK.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 2490 | 2518 | 98.9 | /mnt/stockage/packages/f35/gparted/po/ca@valencia.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 7845 | 8266 | 94.9 | /mnt/stockage/packages/f35/gparted/help/el/el.po/mnt/stockage/packages/f35/gparted/po/el.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2764 | 3017 | 91.6 | /mnt/stockage/packages/f35/gparted/po/tr.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 2720 | 3025 | 89.9 | /mnt/stockage/packages/f35/gparted/po/is.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 1069 | 1292 | 82.7 | /mnt/stockage/packages/f35/gparted/po/gu.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 1416 | 1801 | 78.6 | /mnt/stockage/packages/f35/gparted/po/et.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 1850 | 2605 | 71.0 | /mnt/stockage/packages/f35/gparted/po/oc.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 892 | 1274 | 70.0 | /mnt/stockage/packages/f35/gparted/po/si.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 2037 | 3037 | 67.1 | /mnt/stockage/packages/f35/gparted/po/fi.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 5831 | 9704 | 60.1 | /mnt/stockage/packages/f35/gparted/help/id/id.po/mnt/stockage/packages/f35/gparted/po/id.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1734 | 3017 | 57.5 | /mnt/stockage/packages/f35/gparted/po/eo.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 1268 | 2518 | 50.4 | /mnt/stockage/packages/f35/gparted/po/ja.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 3066 | 7234 | 42.4 | /mnt/stockage/packages/f35/gparted/help/sl/sl.po/mnt/stockage/packages/f35/gparted/po/sl.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 2930 | 7874 | 37.2 | /mnt/stockage/packages/f35/gparted/help/gd/gd.po/mnt/stockage/packages/f35/gparted/po/gd.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 1884 | 6864 | 27.4 | /mnt/stockage/packages/f35/gparted/help/te/te.po/mnt/stockage/packages/f35/gparted/po/te.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 318 | 1405 | 22.6 | /mnt/stockage/packages/f35/gparted/po/br.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 16 | 767 | 2.1 | /mnt/stockage/packages/f35/gparted/po/rw.po | 
+ | [ar](/f35/language/ar) | 2987 | 2987 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ar.po | 
+ | [be](/f35/language/be) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/be.po | 
+ | [bg](/f35/language/bg) | 2336 | 2336 | 100.0 | /mnt/stockage/packages/f35/gparted/po/bg.po | 
+ | [bs](/f35/language/bs) | 2588 | 2588 | 100.0 | /mnt/stockage/packages/f35/gparted/po/bs.po | 
+ | [ca](/f35/language/ca) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ca.po | 
+ | [cs](/f35/language/cs) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/cs/cs.po/mnt/stockage/packages/f35/gparted/po/cs.po | 
+ | [da](/f35/language/da) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/da.po | 
+ | [de](/f35/language/de) | 9657 | 9657 | 100.0 | /mnt/stockage/packages/f35/gparted/help/de/de.po/mnt/stockage/packages/f35/gparted/po/de.po | 
+ | [dz](/f35/language/dz) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f35/gparted/po/dz.po | 
+ | [en_CA](/f35/language/en_CA) | 2074 | 2074 | 100.0 | /mnt/stockage/packages/f35/gparted/po/en_CA.po | 
+ | [en_GB](/f35/language/en_GB) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/en_GB.po | 
+ | [es](/f35/language/es) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/es/es.po/mnt/stockage/packages/f35/gparted/po/es.po | 
+ | [eu](/f35/language/eu) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/eu.po | 
+ | [fa](/f35/language/fa) | 2309 | 2309 | 100.0 | /mnt/stockage/packages/f35/gparted/po/fa.po | 
+ | [fr](/f35/language/fr) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/fr/fr.po/mnt/stockage/packages/f35/gparted/po/fr.po | 
+ | [fur](/f35/language/fur) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/fur.po | 
+ | [gl](/f35/language/gl) | 3037 | 3037 | 100.0 | /mnt/stockage/packages/f35/gparted/po/gl.po | 
+ | [he](/f35/language/he) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/he.po | 
+ | [hr](/f35/language/hr) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/hr.po | 
+ | [hu](/f35/language/hu) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/hu.po | 
+ | [it](/f35/language/it) | 7096 | 7096 | 100.0 | /mnt/stockage/packages/f35/gparted/help/it/it.po/mnt/stockage/packages/f35/gparted/po/it.po | 
+ | [kk](/f35/language/kk) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/kk.po | 
+ | [ko](/f35/language/ko) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ko.po | 
+ | [lt](/f35/language/lt) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/lt.po | 
+ | [lv](/f35/language/lv) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/lv.po | 
+ | [mk](/f35/language/mk) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f35/gparted/po/mk.po | 
+ | [ml](/f35/language/ml) | 2480 | 2480 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ml.po | 
+ | [nb_NO](/f35/language/nb_NO) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/nb.po | 
+ | [ne](/f35/language/ne) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f35/gparted/po/ne.po | 
+ | [nl](/f35/language/nl) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/nl.po | 
+ | [nn](/f35/language/nn) | 2517 | 2517 | 100.0 | /mnt/stockage/packages/f35/gparted/po/nn.po | 
+ | [pa](/f35/language/pa) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/pa.po | 
+ | [pl](/f35/language/pl) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/pl.po | 
+ | [pt](/f35/language/pt) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gparted/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/ro/ro.po/mnt/stockage/packages/f35/gparted/po/ro.po | 
+ | [ru](/f35/language/ru) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/ru/ru.po/mnt/stockage/packages/f35/gparted/po/ru.po | 
+ | [sk](/f35/language/sk) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/sk.po | 
+ | [sr](/f35/language/sr) | 18220 | 18220 | 100.0 | /mnt/stockage/packages/f35/gparted/help/sr/sr.po/mnt/stockage/packages/f35/gparted/help/sr@latin/sr@latin.po/mnt/stockage/packages/f35/gparted/po/sr.po/mnt/stockage/packages/f35/gparted/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/sv/sv.po/mnt/stockage/packages/f35/gparted/po/sv.po | 
+ | [th](/f35/language/th) | 2727 | 2727 | 100.0 | /mnt/stockage/packages/f35/gparted/help/th/th.po/mnt/stockage/packages/f35/gparted/po/th.po | 
+ | [uk](/f35/language/uk) | 9704 | 9704 | 100.0 | /mnt/stockage/packages/f35/gparted/help/uk/uk.po/mnt/stockage/packages/f35/gparted/po/uk.po | 
+ | [vi](/f35/language/vi) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 3053 | 3053 | 100.0 | /mnt/stockage/packages/f35/gparted/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3025 | 3025 | 100.0 | /mnt/stockage/packages/f35/gparted/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 2560 | 2560 | 100.0 | /mnt/stockage/packages/f35/gparted/po/zh_HK.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 2490 | 2518 | 98.9 | /mnt/stockage/packages/f35/gparted/po/ca@valencia.po | 
+ | [el](/f35/language/el) | 7845 | 8266 | 94.9 | /mnt/stockage/packages/f35/gparted/help/el/el.po/mnt/stockage/packages/f35/gparted/po/el.po | 
+ | [tr](/f35/language/tr) | 2764 | 3017 | 91.6 | /mnt/stockage/packages/f35/gparted/po/tr.po | 
+ | [is](/f35/language/is) | 2720 | 3025 | 89.9 | /mnt/stockage/packages/f35/gparted/po/is.po | 
+ | [gu](/f35/language/gu) | 1069 | 1292 | 82.7 | /mnt/stockage/packages/f35/gparted/po/gu.po | 
+ | [et](/f35/language/et) | 1416 | 1801 | 78.6 | /mnt/stockage/packages/f35/gparted/po/et.po | 
+ | [oc](/f35/language/oc) | 1850 | 2605 | 71.0 | /mnt/stockage/packages/f35/gparted/po/oc.po | 
+ | [si](/f35/language/si) | 892 | 1274 | 70.0 | /mnt/stockage/packages/f35/gparted/po/si.po | 
+ | [fi](/f35/language/fi) | 2037 | 3037 | 67.1 | /mnt/stockage/packages/f35/gparted/po/fi.po | 
+ | [id](/f35/language/id) | 5831 | 9704 | 60.1 | /mnt/stockage/packages/f35/gparted/help/id/id.po/mnt/stockage/packages/f35/gparted/po/id.po | 
+ | [eo](/f35/language/eo) | 1734 | 3017 | 57.5 | /mnt/stockage/packages/f35/gparted/po/eo.po | 
+ | [ja](/f35/language/ja) | 1268 | 2518 | 50.4 | /mnt/stockage/packages/f35/gparted/po/ja.po | 
+ | [sl](/f35/language/sl) | 3066 | 7234 | 42.4 | /mnt/stockage/packages/f35/gparted/help/sl/sl.po/mnt/stockage/packages/f35/gparted/po/sl.po | 
+ | [gd](/f35/language/gd) | 2930 | 7874 | 37.2 | /mnt/stockage/packages/f35/gparted/help/gd/gd.po/mnt/stockage/packages/f35/gparted/po/gd.po | 
+ | [te](/f35/language/te) | 1884 | 6864 | 27.4 | /mnt/stockage/packages/f35/gparted/help/te/te.po/mnt/stockage/packages/f35/gparted/po/te.po | 
+ | [br](/f35/language/br) | 318 | 1405 | 22.6 | /mnt/stockage/packages/f35/gparted/po/br.po | 
+ | [rw](/f35/language/rw) | 16 | 767 | 2.1 | /mnt/stockage/packages/f35/gparted/po/rw.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package midori (version 0.0.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 1235 | 1266 | 97.6 | /mnt/stockage/packages/f10/midori/po/de.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 1145 | 1266 | 90.4 | /mnt/stockage/packages/f10/midori/po/gl.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1107 | 1266 | 87.4 | /mnt/stockage/packages/f10/midori/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 999 | 1266 | 78.9 | /mnt/stockage/packages/f10/midori/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 790 | 1266 | 62.4 | /mnt/stockage/packages/f10/midori/po/hu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 709 | 1187 | 59.7 | /mnt/stockage/packages/f10/midori/po/pl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 586 | 1266 | 46.3 | /mnt/stockage/packages/f10/midori/po/sv.po | 
+ | [de](/f10/language/de) | 1235 | 1266 | 97.6 | /mnt/stockage/packages/f10/midori/po/de.po | 
+ | [gl](/f10/language/gl) | 1145 | 1266 | 90.4 | /mnt/stockage/packages/f10/midori/po/gl.po | 
+ | [es](/f10/language/es) | 1107 | 1266 | 87.4 | /mnt/stockage/packages/f10/midori/po/es.po | 
+ | [fr](/f10/language/fr) | 999 | 1266 | 78.9 | /mnt/stockage/packages/f10/midori/po/fr.po | 
+ | [hu](/f10/language/hu) | 790 | 1266 | 62.4 | /mnt/stockage/packages/f10/midori/po/hu.po | 
+ | [pl](/f10/language/pl) | 709 | 1187 | 59.7 | /mnt/stockage/packages/f10/midori/po/pl.po | 
+ | [sv](/f10/language/sv) | 586 | 1266 | 46.3 | /mnt/stockage/packages/f10/midori/po/sv.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package smb4k (version 0.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 7184 | 7184 | 100.0 | /mnt/stockage/packages/f9/smb4k/po/de.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 6112 | 7184 | 85.1 | /mnt/stockage/packages/f9/smb4k/po/ja.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1618 | 7184 | 22.5 | /mnt/stockage/packages/f9/smb4k/po/it.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1293 | 7184 | 18.0 | /mnt/stockage/packages/f9/smb4k/po/es.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 1112 | 7184 | 15.5 | /mnt/stockage/packages/f9/smb4k/po/uk.po | 
+ | [de](/f9/language/de) | 7184 | 7184 | 100.0 | /mnt/stockage/packages/f9/smb4k/po/de.po | 
+ | [ja](/f9/language/ja) | 6112 | 7184 | 85.1 | /mnt/stockage/packages/f9/smb4k/po/ja.po | 
+ | [it](/f9/language/it) | 1618 | 7184 | 22.5 | /mnt/stockage/packages/f9/smb4k/po/it.po | 
+ | [es](/f9/language/es) | 1293 | 7184 | 18.0 | /mnt/stockage/packages/f9/smb4k/po/es.po | 
+ | [uk](/f9/language/uk) | 1112 | 7184 | 15.5 | /mnt/stockage/packages/f9/smb4k/po/uk.po | 
 {.sortable}
 
 

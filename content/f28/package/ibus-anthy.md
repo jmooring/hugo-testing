@@ -18,15 +18,15 @@ The package ibus-anthy (version 1.5.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/ca.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/fr.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/ja.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/uk.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 141 | 740 | 19.1 | /mnt/stockage/packages/f28/ibus-anthy/po/el.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 91 | 740 | 12.3 | /mnt/stockage/packages/f28/ibus-anthy/po/pt_BR.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 37 | 740 | 5.0 | /mnt/stockage/packages/f28/ibus-anthy/po/cs.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 29 | 740 | 3.9 | /mnt/stockage/packages/f28/ibus-anthy/po/zh_CN.po | 
+ | [ca](/f28/language/ca) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/ca.po | 
+ | [es](/f28/language/es) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/es.po | 
+ | [fr](/f28/language/fr) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/fr.po | 
+ | [ja](/f28/language/ja) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/ja.po | 
+ | [uk](/f28/language/uk) | 740 | 740 | 100.0 | /mnt/stockage/packages/f28/ibus-anthy/po/uk.po | 
+ | [el](/f28/language/el) | 141 | 740 | 19.1 | /mnt/stockage/packages/f28/ibus-anthy/po/el.po | 
+ | [pt_BR](/f28/language/pt_BR) | 91 | 740 | 12.3 | /mnt/stockage/packages/f28/ibus-anthy/po/pt_BR.po | 
+ | [cs](/f28/language/cs) | 37 | 740 | 5.0 | /mnt/stockage/packages/f28/ibus-anthy/po/cs.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 29 | 740 | 3.9 | /mnt/stockage/packages/f28/ibus-anthy/po/zh_CN.po | 
 {.sortable}
 
 

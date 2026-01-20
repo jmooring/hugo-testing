@@ -44,9 +44,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gromit-mpx]({{< ref "/f43/package/gromit-mpx.md" >}}) | 312 | 312 | 100.0 |  | 
- | [mkvtoolnix]({{< ref "/f43/package/mkvtoolnix.md" >}}) | 24516 | 25614 | 95.7 | Chinese (Singapore) (http://app.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
- | [duplicity]({{< ref "/f43/package/duplicity.md" >}}) | 0 | 2171 | 0.0 | Chinese Traditional, Singapore | 
+ | [gromit-mpx](/f43/package/gromit-mpx) | 312 | 312 | 100.0 |  | 
+ | [mkvtoolnix](/f43/package/mkvtoolnix) | 24516 | 25614 | 95.7 | Chinese (Singapore) (http://app.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
+ | [duplicity](/f43/package/duplicity) | 0 | 2171 | 0.0 | Chinese Traditional, Singapore | 
 {.sortable}
 
 

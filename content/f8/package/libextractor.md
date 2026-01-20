@@ -18,12 +18,12 @@ The package libextractor (version 0.5.18a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 757 | 777 | 97.4 | /mnt/stockage/packages/f8/libextractor/po/de.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 729 | 777 | 93.8 | /mnt/stockage/packages/f8/libextractor/po/ga.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 729 | 777 | 93.8 | /mnt/stockage/packages/f8/libextractor/po/sv.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 729 | 777 | 93.8 | /mnt/stockage/packages/f8/libextractor/po/vi.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 594 | 777 | 76.4 | /mnt/stockage/packages/f8/libextractor/po/ro.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 16 | 777 | 2.1 | /mnt/stockage/packages/f8/libextractor/po/rw.po | 
+ | [de](/f8/language/de) | 757 | 777 | 97.4 | /mnt/stockage/packages/f8/libextractor/po/de.po | 
+ | [ga](/f8/language/ga) | 729 | 777 | 93.8 | /mnt/stockage/packages/f8/libextractor/po/ga.po | 
+ | [sv](/f8/language/sv) | 729 | 777 | 93.8 | /mnt/stockage/packages/f8/libextractor/po/sv.po | 
+ | [vi](/f8/language/vi) | 729 | 777 | 93.8 | /mnt/stockage/packages/f8/libextractor/po/vi.po | 
+ | [ro](/f8/language/ro) | 594 | 777 | 76.4 | /mnt/stockage/packages/f8/libextractor/po/ro.po | 
+ | [rw](/f8/language/rw) | 16 | 777 | 2.1 | /mnt/stockage/packages/f8/libextractor/po/rw.po | 
 {.sortable}
 
 

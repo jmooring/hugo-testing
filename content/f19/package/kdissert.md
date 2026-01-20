@@ -18,26 +18,26 @@ The package kdissert (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/bg.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/gl.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/it.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/nl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/pt_BR.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/sv.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1986 | 2027 | 98.0 | /mnt/stockage/packages/f19/kdissert/po/pl.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1981 | 2027 | 97.7 | /mnt/stockage/packages/f19/kdissert/po/fr.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1924 | 2027 | 94.9 | /mnt/stockage/packages/f19/kdissert/po/ru.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 881 | 2027 | 43.5 | /mnt/stockage/packages/f19/kdissert/po/ka.po | 
- | [br]({{< ref "/f19/language/br.md" >}}) | 243 | 2027 | 12.0 | /mnt/stockage/packages/f19/kdissert/po/br.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 214 | 2027 | 10.6 | /mnt/stockage/packages/f19/kdissert/po/ga.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 89 | 2027 | 4.4 | /mnt/stockage/packages/f19/kdissert/po/cs.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 0 | 2027 | 0.0 | /mnt/stockage/packages/f19/kdissert/po/sk.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 0 | 2027 | 0.0 | /mnt/stockage/packages/f19/kdissert/po/tr.po | 
+ | [bg](/f19/language/bg) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/bg.po | 
+ | [da](/f19/language/da) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/da.po | 
+ | [de](/f19/language/de) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/de.po | 
+ | [el](/f19/language/el) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/el.po | 
+ | [es](/f19/language/es) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/es.po | 
+ | [gl](/f19/language/gl) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/gl.po | 
+ | [it](/f19/language/it) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/it.po | 
+ | [nl](/f19/language/nl) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/nl.po | 
+ | [pt](/f19/language/pt) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/pt_BR.po | 
+ | [sv](/f19/language/sv) | 2027 | 2027 | 100.0 | /mnt/stockage/packages/f19/kdissert/po/sv.po | 
+ | [pl](/f19/language/pl) | 1986 | 2027 | 98.0 | /mnt/stockage/packages/f19/kdissert/po/pl.po | 
+ | [fr](/f19/language/fr) | 1981 | 2027 | 97.7 | /mnt/stockage/packages/f19/kdissert/po/fr.po | 
+ | [ru](/f19/language/ru) | 1924 | 2027 | 94.9 | /mnt/stockage/packages/f19/kdissert/po/ru.po | 
+ | [ka](/f19/language/ka) | 881 | 2027 | 43.5 | /mnt/stockage/packages/f19/kdissert/po/ka.po | 
+ | [br](/f19/language/br) | 243 | 2027 | 12.0 | /mnt/stockage/packages/f19/kdissert/po/br.po | 
+ | [ga](/f19/language/ga) | 214 | 2027 | 10.6 | /mnt/stockage/packages/f19/kdissert/po/ga.po | 
+ | [cs](/f19/language/cs) | 89 | 2027 | 4.4 | /mnt/stockage/packages/f19/kdissert/po/cs.po | 
+ | [sk](/f19/language/sk) | 0 | 2027 | 0.0 | /mnt/stockage/packages/f19/kdissert/po/sk.po | 
+ | [tr](/f19/language/tr) | 0 | 2027 | 0.0 | /mnt/stockage/packages/f19/kdissert/po/tr.po | 
 {.sortable}
 
 

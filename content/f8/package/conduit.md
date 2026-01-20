@@ -18,9 +18,9 @@ The package conduit (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f8/conduit/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f8/conduit/po/sv.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 301 | 314 | 95.9 | /mnt/stockage/packages/f8/conduit/po/fr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 314 | 314 | 100.0 | /mnt/stockage/packages/f8/conduit/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f8/conduit/po/sv.po | 
+ | [fr](/f8/language/fr) | 301 | 314 | 95.9 | /mnt/stockage/packages/f8/conduit/po/fr.po | 
 {.sortable}
 
 

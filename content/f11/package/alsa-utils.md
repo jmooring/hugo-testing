@@ -18,9 +18,9 @@ The package alsa-utils (version 1.0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 1559 | 1559 | 100.0 | /mnt/stockage/packages/f11/alsa-utils/po/de.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 1946 | 2097 | 92.8 | /mnt/stockage/packages/f11/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f11/alsa-utils/po/ja.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f11/alsa-utils/alsaconf/po/ru.po | 
+ | [de](/f11/language/de) | 1559 | 1559 | 100.0 | /mnt/stockage/packages/f11/alsa-utils/po/de.po | 
+ | [ja](/f11/language/ja) | 1946 | 2097 | 92.8 | /mnt/stockage/packages/f11/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f11/alsa-utils/po/ja.po | 
+ | [ru](/f11/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f11/alsa-utils/alsaconf/po/ru.po | 
 {.sortable}
 
 

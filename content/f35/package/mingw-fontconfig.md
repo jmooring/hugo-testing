@@ -18,7 +18,7 @@ The package mingw-fontconfig (version 2.13.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f35/mingw-fontconfig/po/zh_CN.po/mnt/stockage/packages/f35/mingw-fontconfig/po-conf/zh_CN.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 913 | 913 | 100.0 | /mnt/stockage/packages/f35/mingw-fontconfig/po/zh_CN.po/mnt/stockage/packages/f35/mingw-fontconfig/po-conf/zh_CN.po | 
 {.sortable}
 
 

@@ -18,33 +18,33 @@ The package util-linux (version 2.37.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/fr.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/hr.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/pt_BR.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/uk.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 25135 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/cs.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 25135 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/pl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 23975 | 25288 | 94.8 | /mnt/stockage/packages/f35/util-linux/po/sv.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 21910 | 25288 | 86.6 | /mnt/stockage/packages/f35/util-linux/po/da.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 20288 | 25288 | 80.2 | /mnt/stockage/packages/f35/util-linux/po/zh_CN.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 18301 | 25288 | 72.4 | /mnt/stockage/packages/f35/util-linux/po/ja.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 18266 | 25288 | 72.2 | /mnt/stockage/packages/f35/util-linux/po/tr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 17254 | 25288 | 68.2 | /mnt/stockage/packages/f35/util-linux/po/nl.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 15681 | 25288 | 62.0 | /mnt/stockage/packages/f35/util-linux/po/vi.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 49049 | 112139 | 43.7 | /mnt/stockage/packages/f35/util-linux/po/de.po/mnt/stockage/packages/f35/util-linux/po-man/de.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 8232 | 25288 | 32.6 | /mnt/stockage/packages/f35/util-linux/po/ru.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 4074 | 25288 | 16.1 | /mnt/stockage/packages/f35/util-linux/po/fi.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 2428 | 25288 | 9.6 | /mnt/stockage/packages/f35/util-linux/po/zh_TW.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 2113 | 25288 | 8.4 | /mnt/stockage/packages/f35/util-linux/po/id.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1821 | 25288 | 7.2 | /mnt/stockage/packages/f35/util-linux/po/hu.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1471 | 25288 | 5.8 | /mnt/stockage/packages/f35/util-linux/po/ca.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1464 | 25288 | 5.8 | /mnt/stockage/packages/f35/util-linux/po/it.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 1460 | 25288 | 5.8 | /mnt/stockage/packages/f35/util-linux/po/sl.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 1023 | 25288 | 4.0 | /mnt/stockage/packages/f35/util-linux/po/et.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 842 | 25288 | 3.3 | /mnt/stockage/packages/f35/util-linux/po/eu.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 767 | 25288 | 3.0 | /mnt/stockage/packages/f35/util-linux/po/gl.po | 
+ | [es](/f35/language/es) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/es.po | 
+ | [fr](/f35/language/fr) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/fr.po | 
+ | [hr](/f35/language/hr) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/hr.po | 
+ | [pt](/f35/language/pt) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/pt_BR.po | 
+ | [uk](/f35/language/uk) | 25136 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/uk.po | 
+ | [cs](/f35/language/cs) | 25135 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/cs.po | 
+ | [pl](/f35/language/pl) | 25135 | 25288 | 99.4 | /mnt/stockage/packages/f35/util-linux/po/pl.po | 
+ | [sv](/f35/language/sv) | 23975 | 25288 | 94.8 | /mnt/stockage/packages/f35/util-linux/po/sv.po | 
+ | [da](/f35/language/da) | 21910 | 25288 | 86.6 | /mnt/stockage/packages/f35/util-linux/po/da.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 20288 | 25288 | 80.2 | /mnt/stockage/packages/f35/util-linux/po/zh_CN.po | 
+ | [ja](/f35/language/ja) | 18301 | 25288 | 72.4 | /mnt/stockage/packages/f35/util-linux/po/ja.po | 
+ | [tr](/f35/language/tr) | 18266 | 25288 | 72.2 | /mnt/stockage/packages/f35/util-linux/po/tr.po | 
+ | [nl](/f35/language/nl) | 17254 | 25288 | 68.2 | /mnt/stockage/packages/f35/util-linux/po/nl.po | 
+ | [vi](/f35/language/vi) | 15681 | 25288 | 62.0 | /mnt/stockage/packages/f35/util-linux/po/vi.po | 
+ | [de](/f35/language/de) | 49049 | 112139 | 43.7 | /mnt/stockage/packages/f35/util-linux/po/de.po/mnt/stockage/packages/f35/util-linux/po-man/de.po | 
+ | [ru](/f35/language/ru) | 8232 | 25288 | 32.6 | /mnt/stockage/packages/f35/util-linux/po/ru.po | 
+ | [fi](/f35/language/fi) | 4074 | 25288 | 16.1 | /mnt/stockage/packages/f35/util-linux/po/fi.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 2428 | 25288 | 9.6 | /mnt/stockage/packages/f35/util-linux/po/zh_TW.po | 
+ | [id](/f35/language/id) | 2113 | 25288 | 8.4 | /mnt/stockage/packages/f35/util-linux/po/id.po | 
+ | [hu](/f35/language/hu) | 1821 | 25288 | 7.2 | /mnt/stockage/packages/f35/util-linux/po/hu.po | 
+ | [ca](/f35/language/ca) | 1471 | 25288 | 5.8 | /mnt/stockage/packages/f35/util-linux/po/ca.po | 
+ | [it](/f35/language/it) | 1464 | 25288 | 5.8 | /mnt/stockage/packages/f35/util-linux/po/it.po | 
+ | [sl](/f35/language/sl) | 1460 | 25288 | 5.8 | /mnt/stockage/packages/f35/util-linux/po/sl.po | 
+ | [et](/f35/language/et) | 1023 | 25288 | 4.0 | /mnt/stockage/packages/f35/util-linux/po/et.po | 
+ | [eu](/f35/language/eu) | 842 | 25288 | 3.3 | /mnt/stockage/packages/f35/util-linux/po/eu.po | 
+ | [gl](/f35/language/gl) | 767 | 25288 | 3.0 | /mnt/stockage/packages/f35/util-linux/po/gl.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package gphotoframe (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f12/language/it.md" >}}) | 2579 | 2579 | 100.0 | /mnt/stockage/packages/f12/gphotoframe/help/it/it.po/mnt/stockage/packages/f12/gphotoframe/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 2579 | 2579 | 100.0 | /mnt/stockage/packages/f12/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f12/gphotoframe/po/ja.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 484 | 780 | 62.1 | /mnt/stockage/packages/f12/gphotoframe/po/en_GB.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 45 | 780 | 5.8 | /mnt/stockage/packages/f12/gphotoframe/po/te.po | 
+ | [it](/f12/language/it) | 2579 | 2579 | 100.0 | /mnt/stockage/packages/f12/gphotoframe/help/it/it.po/mnt/stockage/packages/f12/gphotoframe/po/it.po | 
+ | [ja](/f12/language/ja) | 2579 | 2579 | 100.0 | /mnt/stockage/packages/f12/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f12/gphotoframe/po/ja.po | 
+ | [en_GB](/f12/language/en_GB) | 484 | 780 | 62.1 | /mnt/stockage/packages/f12/gphotoframe/po/en_GB.po | 
+ | [te](/f12/language/te) | 45 | 780 | 5.8 | /mnt/stockage/packages/f12/gphotoframe/po/te.po | 
 {.sortable}
 
 

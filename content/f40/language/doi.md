@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f40/package/gnucash.md" >}}) | 14304 | 39597 | 36.1 | NONE | 
- | [inkscape]({{< ref "/f40/package/inkscape.md" >}}) | 15931 | 49568 | 32.1 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f40/package/libreoffice.md" >}}) | 45293 | 171085 | 26.5 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f40/package/gnucash) | 14304 | 39597 | 36.1 | NONE | 
+ | [inkscape](/f40/package/inkscape) | 15931 | 49568 | 32.1 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f40/package/libreoffice) | 45293 | 171085 | 26.5 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

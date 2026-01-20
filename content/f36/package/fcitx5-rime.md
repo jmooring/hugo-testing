@@ -18,17 +18,17 @@ The package fcitx5-rime (version 5.0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 62 | 100 | 62.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/zh_TW.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 61 | 100 | 61.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/tr.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 50 | 100 | 50.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/da.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 50 | 100 | 50.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ja.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 32 | 100 | 32.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/de.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 21 | 100 | 21.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ca.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 21 | 100 | 21.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/vi.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 1 | 100 | 1.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/he.po | 
+ | [ko](/f36/language/ko) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ko.po | 
+ | [ru](/f36/language/ru) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 62 | 100 | 62.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/zh_TW.po | 
+ | [tr](/f36/language/tr) | 61 | 100 | 61.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/tr.po | 
+ | [da](/f36/language/da) | 50 | 100 | 50.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/da.po | 
+ | [ja](/f36/language/ja) | 50 | 100 | 50.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ja.po | 
+ | [de](/f36/language/de) | 32 | 100 | 32.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/de.po | 
+ | [ca](/f36/language/ca) | 21 | 100 | 21.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/ca.po | 
+ | [vi](/f36/language/vi) | 21 | 100 | 21.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/vi.po | 
+ | [he](/f36/language/he) | 1 | 100 | 1.0 | /mnt/stockage/packages/f36/fcitx5-rime/po/he.po | 
 {.sortable}
 
 

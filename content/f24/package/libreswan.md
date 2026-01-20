@@ -18,19 +18,19 @@ The package libreswan (version 3.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/fr.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/ru.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/sv.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/vi.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/fi.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/gl.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/ja.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/nl.po | 
+ | [cs](/f24/language/cs) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/cs.po | 
+ | [de](/f24/language/de) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/de.po | 
+ | [es](/f24/language/es) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/es.po | 
+ | [fr](/f24/language/fr) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/fr.po | 
+ | [pt](/f24/language/pt) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/ru.po | 
+ | [sv](/f24/language/sv) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/sv.po | 
+ | [vi](/f24/language/vi) | 887 | 935 | 94.9 | /mnt/stockage/packages/f24/libreswan/debian/po/vi.po | 
+ | [fi](/f24/language/fi) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/fi.po | 
+ | [gl](/f24/language/gl) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/gl.po | 
+ | [ja](/f24/language/ja) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/ja.po | 
+ | [nl](/f24/language/nl) | 0 | 935 | 0.0 | /mnt/stockage/packages/f24/libreswan/debian/po/nl.po | 
 {.sortable}
 
 

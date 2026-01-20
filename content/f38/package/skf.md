@@ -18,7 +18,7 @@ The package skf (version 2.10.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f38/skf/po/ja.po | 
+ | [ja](/f38/language/ja) | 710 | 710 | 100.0 | /mnt/stockage/packages/f38/skf/po/ja.po | 
 {.sortable}
 
 

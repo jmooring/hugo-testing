@@ -18,18 +18,18 @@ The package ibus-input-pad (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/el.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/fi.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/ko.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/pl.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/zh_TW.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 45 | 90 | 50.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/te.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/fr.po | 
+ | [de](/f43/language/de) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/de.po | 
+ | [el](/f43/language/el) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/el.po | 
+ | [fi](/f43/language/fi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/fi.po | 
+ | [ja](/f43/language/ja) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/ja.po | 
+ | [ko](/f43/language/ko) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/ko.po | 
+ | [pl](/f43/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/pl.po | 
+ | [tr](/f43/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/tr.po | 
+ | [uk](/f43/language/uk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 103 | 103 | 100.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/zh_TW.po | 
+ | [te](/f43/language/te) | 45 | 90 | 50.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/te.po | 
+ | [fr](/f43/language/fr) | 0 | 90 | 0.0 | /mnt/stockage/packages/f43/ibus-input-pad/po/fr.po | 
 {.sortable}
 
 

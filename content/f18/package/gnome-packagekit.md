@@ -18,71 +18,71 @@ The package gnome-packagekit (version 3.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f18/language/as.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/as.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 4790 | 4790 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ast.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/bg.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 4694 | 4694 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/bn.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/bn_IN.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ca@valencia.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/da.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 8824 | 8824 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/el/el.po/mnt/stockage/packages/f18/gnome-packagekit/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/en_GB.po | 
- | [en_US]({{< ref "/f18/language/en_US.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/kn.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 8824 | 8824 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/es/es.po/mnt/stockage/packages/f18/gnome-packagekit/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 5196 | 5196 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/eu.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 4790 | 4790 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/fa.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/gu.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/he.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/hi.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/it.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/lt.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/lv.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 4794 | 4794 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/mk.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ml.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/mr.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/nl.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 5276 | 5276 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/or.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 8824 | 8824 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/pl/pl.po/mnt/stockage/packages/f18/gnome-packagekit/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 4694 | 4694 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/sk.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 10176 | 10176 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/sr.po/mnt/stockage/packages/f18/gnome-packagekit/po/sr@latin.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 5811 | 5811 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/sv/sv.po/mnt/stockage/packages/f18/gnome-packagekit/po/sv.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/te.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/th.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 8756 | 8756 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/zh_CN/zh_CN.po/mnt/stockage/packages/f18/gnome-packagekit/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 10176 | 10176 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/zh_TW.po/mnt/stockage/packages/f18/gnome-packagekit/po/zh_HK.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 8816 | 8824 | 99.9 | /mnt/stockage/packages/f18/gnome-packagekit/help/de/de.po/mnt/stockage/packages/f18/gnome-packagekit/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 8747 | 8759 | 99.9 | /mnt/stockage/packages/f18/gnome-packagekit/help/fr/fr.po/mnt/stockage/packages/f18/gnome-packagekit/po/fr.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 5070 | 5088 | 99.6 | /mnt/stockage/packages/f18/gnome-packagekit/po/tr.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 5062 | 5088 | 99.5 | /mnt/stockage/packages/f18/gnome-packagekit/po/ja.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 5059 | 5088 | 99.4 | /mnt/stockage/packages/f18/gnome-packagekit/po/nb.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 4841 | 4889 | 99.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/nn.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 4991 | 5088 | 98.1 | /mnt/stockage/packages/f18/gnome-packagekit/po/ar.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 4925 | 5088 | 96.8 | /mnt/stockage/packages/f18/gnome-packagekit/po/fi.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 5262 | 5470 | 96.2 | /mnt/stockage/packages/f18/gnome-packagekit/po/en@shaw.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 4685 | 5088 | 92.1 | /mnt/stockage/packages/f18/gnome-packagekit/po/ug.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 5758 | 8756 | 65.8 | /mnt/stockage/packages/f18/gnome-packagekit/help/pa/pa.po/mnt/stockage/packages/f18/gnome-packagekit/po/pa.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 3251 | 5088 | 63.9 | /mnt/stockage/packages/f18/gnome-packagekit/po/vi.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 5567 | 8756 | 63.6 | /mnt/stockage/packages/f18/gnome-packagekit/help/gl/gl.po/mnt/stockage/packages/f18/gnome-packagekit/po/gl.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 5177 | 8756 | 59.1 | /mnt/stockage/packages/f18/gnome-packagekit/help/sl/sl.po/mnt/stockage/packages/f18/gnome-packagekit/po/sl.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 1483 | 4790 | 31.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/af.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 1245 | 5095 | 24.4 | /mnt/stockage/packages/f18/gnome-packagekit/po/eo.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 284 | 4707 | 6.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ms.po | 
- | [cy]({{< ref "/f18/language/cy.md" >}}) | 202 | 5250 | 3.8 | /mnt/stockage/packages/f18/gnome-packagekit/po/cy.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 154 | 5865 | 2.6 | /mnt/stockage/packages/f18/gnome-packagekit/help/oc/oc.po/mnt/stockage/packages/f18/gnome-packagekit/po/oc.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 105 | 4790 | 2.2 | /mnt/stockage/packages/f18/gnome-packagekit/po/ga.po | 
+ | [as](/f18/language/as) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/as.po | 
+ | [ast](/f18/language/ast) | 4790 | 4790 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ast.po | 
+ | [be](/f18/language/be) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/be.po | 
+ | [bg](/f18/language/bg) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/bg.po | 
+ | [bn](/f18/language/bn) | 4694 | 4694 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/bn.po | 
+ | [bn_IN](/f18/language/bn_IN) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/bn_IN.po | 
+ | [ca](/f18/language/ca) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ca@valencia.po | 
+ | [cs](/f18/language/cs) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/cs.po | 
+ | [da](/f18/language/da) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/da.po | 
+ | [el](/f18/language/el) | 8824 | 8824 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/el/el.po/mnt/stockage/packages/f18/gnome-packagekit/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/en_GB.po | 
+ | [en_US](/f18/language/en_US) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/kn.po | 
+ | [es](/f18/language/es) | 8824 | 8824 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/es/es.po/mnt/stockage/packages/f18/gnome-packagekit/po/es.po | 
+ | [et](/f18/language/et) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/et.po | 
+ | [eu](/f18/language/eu) | 5196 | 5196 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/eu.po | 
+ | [fa](/f18/language/fa) | 4790 | 4790 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/fa.po | 
+ | [gu](/f18/language/gu) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/gu.po | 
+ | [he](/f18/language/he) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/he.po | 
+ | [hi](/f18/language/hi) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/hi.po | 
+ | [hu](/f18/language/hu) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/hu.po | 
+ | [id](/f18/language/id) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/id.po | 
+ | [it](/f18/language/it) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/it.po | 
+ | [ko](/f18/language/ko) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ko.po | 
+ | [lt](/f18/language/lt) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/lt.po | 
+ | [lv](/f18/language/lv) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/lv.po | 
+ | [mk](/f18/language/mk) | 4794 | 4794 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/mk.po | 
+ | [ml](/f18/language/ml) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ml.po | 
+ | [mr](/f18/language/mr) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/mr.po | 
+ | [nl](/f18/language/nl) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/nl.po | 
+ | [or](/f18/language/or) | 5276 | 5276 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/or.po | 
+ | [pl](/f18/language/pl) | 8824 | 8824 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/pl/pl.po/mnt/stockage/packages/f18/gnome-packagekit/po/pl.po | 
+ | [pt](/f18/language/pt) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 4694 | 4694 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ro.po | 
+ | [ru](/f18/language/ru) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ru.po | 
+ | [sk](/f18/language/sk) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/sk.po | 
+ | [sr](/f18/language/sr) | 10176 | 10176 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/sr.po/mnt/stockage/packages/f18/gnome-packagekit/po/sr@latin.po | 
+ | [sv](/f18/language/sv) | 5811 | 5811 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/sv/sv.po/mnt/stockage/packages/f18/gnome-packagekit/po/sv.po | 
+ | [ta](/f18/language/ta) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ta.po | 
+ | [te](/f18/language/te) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/te.po | 
+ | [th](/f18/language/th) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/th.po | 
+ | [uk](/f18/language/uk) | 5088 | 5088 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 8756 | 8756 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/help/zh_CN/zh_CN.po/mnt/stockage/packages/f18/gnome-packagekit/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 10176 | 10176 | 100.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/zh_TW.po/mnt/stockage/packages/f18/gnome-packagekit/po/zh_HK.po | 
+ | [de](/f18/language/de) | 8816 | 8824 | 99.9 | /mnt/stockage/packages/f18/gnome-packagekit/help/de/de.po/mnt/stockage/packages/f18/gnome-packagekit/po/de.po | 
+ | [fr](/f18/language/fr) | 8747 | 8759 | 99.9 | /mnt/stockage/packages/f18/gnome-packagekit/help/fr/fr.po/mnt/stockage/packages/f18/gnome-packagekit/po/fr.po | 
+ | [tr](/f18/language/tr) | 5070 | 5088 | 99.6 | /mnt/stockage/packages/f18/gnome-packagekit/po/tr.po | 
+ | [ja](/f18/language/ja) | 5062 | 5088 | 99.5 | /mnt/stockage/packages/f18/gnome-packagekit/po/ja.po | 
+ | [nb_NO](/f18/language/nb_NO) | 5059 | 5088 | 99.4 | /mnt/stockage/packages/f18/gnome-packagekit/po/nb.po | 
+ | [nn](/f18/language/nn) | 4841 | 4889 | 99.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/nn.po | 
+ | [ar](/f18/language/ar) | 4991 | 5088 | 98.1 | /mnt/stockage/packages/f18/gnome-packagekit/po/ar.po | 
+ | [fi](/f18/language/fi) | 4925 | 5088 | 96.8 | /mnt/stockage/packages/f18/gnome-packagekit/po/fi.po | 
+ | [error](/f18/language/error) | 5262 | 5470 | 96.2 | /mnt/stockage/packages/f18/gnome-packagekit/po/en@shaw.po | 
+ | [ug](/f18/language/ug) | 4685 | 5088 | 92.1 | /mnt/stockage/packages/f18/gnome-packagekit/po/ug.po | 
+ | [pa](/f18/language/pa) | 5758 | 8756 | 65.8 | /mnt/stockage/packages/f18/gnome-packagekit/help/pa/pa.po/mnt/stockage/packages/f18/gnome-packagekit/po/pa.po | 
+ | [vi](/f18/language/vi) | 3251 | 5088 | 63.9 | /mnt/stockage/packages/f18/gnome-packagekit/po/vi.po | 
+ | [gl](/f18/language/gl) | 5567 | 8756 | 63.6 | /mnt/stockage/packages/f18/gnome-packagekit/help/gl/gl.po/mnt/stockage/packages/f18/gnome-packagekit/po/gl.po | 
+ | [sl](/f18/language/sl) | 5177 | 8756 | 59.1 | /mnt/stockage/packages/f18/gnome-packagekit/help/sl/sl.po/mnt/stockage/packages/f18/gnome-packagekit/po/sl.po | 
+ | [af](/f18/language/af) | 1483 | 4790 | 31.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/af.po | 
+ | [eo](/f18/language/eo) | 1245 | 5095 | 24.4 | /mnt/stockage/packages/f18/gnome-packagekit/po/eo.po | 
+ | [ms](/f18/language/ms) | 284 | 4707 | 6.0 | /mnt/stockage/packages/f18/gnome-packagekit/po/ms.po | 
+ | [cy](/f18/language/cy) | 202 | 5250 | 3.8 | /mnt/stockage/packages/f18/gnome-packagekit/po/cy.po | 
+ | [oc](/f18/language/oc) | 154 | 5865 | 2.6 | /mnt/stockage/packages/f18/gnome-packagekit/help/oc/oc.po/mnt/stockage/packages/f18/gnome-packagekit/po/oc.po | 
+ | [ga](/f18/language/ga) | 105 | 4790 | 2.2 | /mnt/stockage/packages/f18/gnome-packagekit/po/ga.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package marker (version 0.0.2023.05.02):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/cs.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f37/marker/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/marker/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/it.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/nl.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f37/marker/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 200 | 205 | 97.6 | /mnt/stockage/packages/f37/marker/po/pt_BR.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 178 | 202 | 88.1 | /mnt/stockage/packages/f37/marker/po/ko.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 171 | 202 | 84.7 | /mnt/stockage/packages/f37/marker/po/ru.po | 
+ | [cs](/f37/language/cs) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/cs.po | 
+ | [de](/f37/language/de) | 233 | 233 | 100.0 | /mnt/stockage/packages/f37/marker/po/de.po | 
+ | [es](/f37/language/es) | 191 | 191 | 100.0 | /mnt/stockage/packages/f37/marker/po/es.po | 
+ | [fr](/f37/language/fr) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/fr.po | 
+ | [it](/f37/language/it) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/it.po | 
+ | [nl](/f37/language/nl) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/nl.po | 
+ | [sv](/f37/language/sv) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/sv.po | 
+ | [tr](/f37/language/tr) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/tr.po | 
+ | [uk](/f37/language/uk) | 205 | 205 | 100.0 | /mnt/stockage/packages/f37/marker/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 202 | 202 | 100.0 | /mnt/stockage/packages/f37/marker/po/zh_CN.po | 
+ | [pt_BR](/f37/language/pt_BR) | 200 | 205 | 97.6 | /mnt/stockage/packages/f37/marker/po/pt_BR.po | 
+ | [ko](/f37/language/ko) | 178 | 202 | 88.1 | /mnt/stockage/packages/f37/marker/po/ko.po | 
+ | [ru](/f37/language/ru) | 171 | 202 | 84.7 | /mnt/stockage/packages/f37/marker/po/ru.po | 
 {.sortable}
 
 

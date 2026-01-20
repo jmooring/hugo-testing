@@ -18,85 +18,85 @@ The package libkdegames (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ar/libkdegames6.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/bg/libkdegames6.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ca/libkdegames6.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ca@valencia/libkdegames6.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/cs/libkdegames6.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/de/libkdegames6.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/en_GB/libkdegames6.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/eo/libkdegames6.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/es/libkdegames6.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/eu/libkdegames6.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/fi/libkdegames6.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/fr/libkdegames6.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/gl/libkdegames6.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/he/libkdegames6.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/hu/libkdegames6.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/is/libkdegames6.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/it/libkdegames6.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ka/libkdegames6.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ko/libkdegames6.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/lv/libkdegames6.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/nl/libkdegames6.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/nn/libkdegames6.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/pl/libkdegames6.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/pt_BR/libkdegames6.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ro/libkdegames6.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ru/libkdegames6.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/sa/libkdegames6.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/sl/libkdegames6.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/sv/libkdegames6.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/tr/libkdegames6.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/uk/libkdegames6.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/zh_CN/libkdegames6.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/zh_TW/libkdegames6.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 306 | 316 | 96.8 | /mnt/stockage/packages/f42/libkdegames/po/el/libkdegames6.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/bs/libkdegames6.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/da/libkdegames6.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/et/libkdegames6.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/ga/libkdegames6.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/id/libkdegames6.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/kk/libkdegames6.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/km/libkdegames6.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/nb/libkdegames6.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/nds/libkdegames6.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/pt/libkdegames6.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sk/libkdegames6.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr/libkdegames6.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr@ijekavian/libkdegames6.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr@ijekavianlatin/libkdegames6.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr@latin/libkdegames6.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 251 | 316 | 79.4 | /mnt/stockage/packages/f42/libkdegames/po/ja/libkdegames6.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 247 | 316 | 78.2 | /mnt/stockage/packages/f42/libkdegames/po/fa/libkdegames6.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 247 | 316 | 78.2 | /mnt/stockage/packages/f42/libkdegames/po/wa/libkdegames6.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 243 | 316 | 76.9 | /mnt/stockage/packages/f42/libkdegames/po/hne/libkdegames6.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 242 | 316 | 76.6 | /mnt/stockage/packages/f42/libkdegames/po/th/libkdegames6.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 226 | 316 | 71.5 | /mnt/stockage/packages/f42/libkdegames/po/hi/libkdegames6.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 219 | 316 | 69.3 | /mnt/stockage/packages/f42/libkdegames/po/ne/libkdegames6.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 215 | 316 | 68.0 | /mnt/stockage/packages/f42/libkdegames/po/se/libkdegames6.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 207 | 316 | 65.5 | /mnt/stockage/packages/f42/libkdegames/po/pa/libkdegames6.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 205 | 316 | 64.9 | /mnt/stockage/packages/f42/libkdegames/po/hr/libkdegames6.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 154 | 316 | 48.7 | /mnt/stockage/packages/f42/libkdegames/po/ta/libkdegames6.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 144 | 316 | 45.6 | /mnt/stockage/packages/f42/libkdegames/po/cy/libkdegames6.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 144 | 316 | 45.6 | /mnt/stockage/packages/f42/libkdegames/po/mk/libkdegames6.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 144 | 316 | 45.6 | /mnt/stockage/packages/f42/libkdegames/po/tg/libkdegames6.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 140 | 316 | 44.3 | /mnt/stockage/packages/f42/libkdegames/po/bn/libkdegames6.po | 
- | [xh]({{< ref "/f42/language/xh.md" >}}) | 126 | 316 | 39.9 | /mnt/stockage/packages/f42/libkdegames/po/xh/libkdegames6.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 109 | 316 | 34.5 | /mnt/stockage/packages/f42/libkdegames/po/af/libkdegames6.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 100 | 316 | 31.6 | /mnt/stockage/packages/f42/libkdegames/po/ia/libkdegames6.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 92 | 316 | 29.1 | /mnt/stockage/packages/f42/libkdegames/po/lt/libkdegames6.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 75 | 316 | 23.7 | /mnt/stockage/packages/f42/libkdegames/po/sq/libkdegames6.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 75 | 316 | 23.7 | /mnt/stockage/packages/f42/libkdegames/po/ug/libkdegames6.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 68 | 316 | 21.5 | /mnt/stockage/packages/f42/libkdegames/po/te/libkdegames6.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 63 | 316 | 19.9 | /mnt/stockage/packages/f42/libkdegames/po/br/libkdegames6.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 50 | 316 | 15.8 | /mnt/stockage/packages/f42/libkdegames/po/mai/libkdegames6.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 42 | 316 | 13.3 | /mnt/stockage/packages/f42/libkdegames/po/be/libkdegames6.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 40 | 316 | 12.7 | /mnt/stockage/packages/f42/libkdegames/po/oc/libkdegames6.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 23 | 316 | 7.3 | /mnt/stockage/packages/f42/libkdegames/po/mr/libkdegames6.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 1 | 316 | 0.3 | /mnt/stockage/packages/f42/libkdegames/po/ast/libkdegames6.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 1 | 316 | 0.3 | /mnt/stockage/packages/f42/libkdegames/po/ku/libkdegames6.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 1 | 316 | 0.3 | /mnt/stockage/packages/f42/libkdegames/po/ml/libkdegames6.po | 
+ | [ar](/f42/language/ar) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ar/libkdegames6.po | 
+ | [bg](/f42/language/bg) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/bg/libkdegames6.po | 
+ | [ca](/f42/language/ca) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ca/libkdegames6.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ca@valencia/libkdegames6.po | 
+ | [cs](/f42/language/cs) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/cs/libkdegames6.po | 
+ | [de](/f42/language/de) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/de/libkdegames6.po | 
+ | [en_GB](/f42/language/en_GB) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/en_GB/libkdegames6.po | 
+ | [eo](/f42/language/eo) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/eo/libkdegames6.po | 
+ | [es](/f42/language/es) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/es/libkdegames6.po | 
+ | [eu](/f42/language/eu) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/eu/libkdegames6.po | 
+ | [fi](/f42/language/fi) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/fi/libkdegames6.po | 
+ | [fr](/f42/language/fr) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/fr/libkdegames6.po | 
+ | [gl](/f42/language/gl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/gl/libkdegames6.po | 
+ | [he](/f42/language/he) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/he/libkdegames6.po | 
+ | [hu](/f42/language/hu) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/hu/libkdegames6.po | 
+ | [is](/f42/language/is) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/is/libkdegames6.po | 
+ | [it](/f42/language/it) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/it/libkdegames6.po | 
+ | [ka](/f42/language/ka) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ka/libkdegames6.po | 
+ | [ko](/f42/language/ko) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ko/libkdegames6.po | 
+ | [lv](/f42/language/lv) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/lv/libkdegames6.po | 
+ | [nl](/f42/language/nl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/nl/libkdegames6.po | 
+ | [nn](/f42/language/nn) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/nn/libkdegames6.po | 
+ | [pl](/f42/language/pl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/pl/libkdegames6.po | 
+ | [pt_BR](/f42/language/pt_BR) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/pt_BR/libkdegames6.po | 
+ | [ro](/f42/language/ro) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ro/libkdegames6.po | 
+ | [ru](/f42/language/ru) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/ru/libkdegames6.po | 
+ | [sa](/f42/language/sa) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/sa/libkdegames6.po | 
+ | [sl](/f42/language/sl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/sl/libkdegames6.po | 
+ | [sv](/f42/language/sv) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/sv/libkdegames6.po | 
+ | [tr](/f42/language/tr) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/tr/libkdegames6.po | 
+ | [uk](/f42/language/uk) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/uk/libkdegames6.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/zh_CN/libkdegames6.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 316 | 316 | 100.0 | /mnt/stockage/packages/f42/libkdegames/po/zh_TW/libkdegames6.po | 
+ | [el](/f42/language/el) | 306 | 316 | 96.8 | /mnt/stockage/packages/f42/libkdegames/po/el/libkdegames6.po | 
+ | [bs](/f42/language/bs) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/bs/libkdegames6.po | 
+ | [da](/f42/language/da) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/da/libkdegames6.po | 
+ | [et](/f42/language/et) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/et/libkdegames6.po | 
+ | [ga](/f42/language/ga) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/ga/libkdegames6.po | 
+ | [id](/f42/language/id) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/id/libkdegames6.po | 
+ | [kk](/f42/language/kk) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/kk/libkdegames6.po | 
+ | [km](/f42/language/km) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/km/libkdegames6.po | 
+ | [nb_NO](/f42/language/nb_NO) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/nb/libkdegames6.po | 
+ | [nds](/f42/language/nds) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/nds/libkdegames6.po | 
+ | [pt](/f42/language/pt) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/pt/libkdegames6.po | 
+ | [sk](/f42/language/sk) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sk/libkdegames6.po | 
+ | [sr](/f42/language/sr) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr/libkdegames6.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr@ijekavian/libkdegames6.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr@ijekavianlatin/libkdegames6.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 253 | 316 | 80.1 | /mnt/stockage/packages/f42/libkdegames/po/sr@latin/libkdegames6.po | 
+ | [ja](/f42/language/ja) | 251 | 316 | 79.4 | /mnt/stockage/packages/f42/libkdegames/po/ja/libkdegames6.po | 
+ | [fa](/f42/language/fa) | 247 | 316 | 78.2 | /mnt/stockage/packages/f42/libkdegames/po/fa/libkdegames6.po | 
+ | [wa](/f42/language/wa) | 247 | 316 | 78.2 | /mnt/stockage/packages/f42/libkdegames/po/wa/libkdegames6.po | 
+ | [hne](/f42/language/hne) | 243 | 316 | 76.9 | /mnt/stockage/packages/f42/libkdegames/po/hne/libkdegames6.po | 
+ | [th](/f42/language/th) | 242 | 316 | 76.6 | /mnt/stockage/packages/f42/libkdegames/po/th/libkdegames6.po | 
+ | [hi](/f42/language/hi) | 226 | 316 | 71.5 | /mnt/stockage/packages/f42/libkdegames/po/hi/libkdegames6.po | 
+ | [ne](/f42/language/ne) | 219 | 316 | 69.3 | /mnt/stockage/packages/f42/libkdegames/po/ne/libkdegames6.po | 
+ | [se](/f42/language/se) | 215 | 316 | 68.0 | /mnt/stockage/packages/f42/libkdegames/po/se/libkdegames6.po | 
+ | [pa](/f42/language/pa) | 207 | 316 | 65.5 | /mnt/stockage/packages/f42/libkdegames/po/pa/libkdegames6.po | 
+ | [hr](/f42/language/hr) | 205 | 316 | 64.9 | /mnt/stockage/packages/f42/libkdegames/po/hr/libkdegames6.po | 
+ | [ta](/f42/language/ta) | 154 | 316 | 48.7 | /mnt/stockage/packages/f42/libkdegames/po/ta/libkdegames6.po | 
+ | [cy](/f42/language/cy) | 144 | 316 | 45.6 | /mnt/stockage/packages/f42/libkdegames/po/cy/libkdegames6.po | 
+ | [mk](/f42/language/mk) | 144 | 316 | 45.6 | /mnt/stockage/packages/f42/libkdegames/po/mk/libkdegames6.po | 
+ | [tg](/f42/language/tg) | 144 | 316 | 45.6 | /mnt/stockage/packages/f42/libkdegames/po/tg/libkdegames6.po | 
+ | [bn](/f42/language/bn) | 140 | 316 | 44.3 | /mnt/stockage/packages/f42/libkdegames/po/bn/libkdegames6.po | 
+ | [xh](/f42/language/xh) | 126 | 316 | 39.9 | /mnt/stockage/packages/f42/libkdegames/po/xh/libkdegames6.po | 
+ | [af](/f42/language/af) | 109 | 316 | 34.5 | /mnt/stockage/packages/f42/libkdegames/po/af/libkdegames6.po | 
+ | [ia](/f42/language/ia) | 100 | 316 | 31.6 | /mnt/stockage/packages/f42/libkdegames/po/ia/libkdegames6.po | 
+ | [lt](/f42/language/lt) | 92 | 316 | 29.1 | /mnt/stockage/packages/f42/libkdegames/po/lt/libkdegames6.po | 
+ | [sq](/f42/language/sq) | 75 | 316 | 23.7 | /mnt/stockage/packages/f42/libkdegames/po/sq/libkdegames6.po | 
+ | [ug](/f42/language/ug) | 75 | 316 | 23.7 | /mnt/stockage/packages/f42/libkdegames/po/ug/libkdegames6.po | 
+ | [te](/f42/language/te) | 68 | 316 | 21.5 | /mnt/stockage/packages/f42/libkdegames/po/te/libkdegames6.po | 
+ | [br](/f42/language/br) | 63 | 316 | 19.9 | /mnt/stockage/packages/f42/libkdegames/po/br/libkdegames6.po | 
+ | [mai](/f42/language/mai) | 50 | 316 | 15.8 | /mnt/stockage/packages/f42/libkdegames/po/mai/libkdegames6.po | 
+ | [be](/f42/language/be) | 42 | 316 | 13.3 | /mnt/stockage/packages/f42/libkdegames/po/be/libkdegames6.po | 
+ | [oc](/f42/language/oc) | 40 | 316 | 12.7 | /mnt/stockage/packages/f42/libkdegames/po/oc/libkdegames6.po | 
+ | [mr](/f42/language/mr) | 23 | 316 | 7.3 | /mnt/stockage/packages/f42/libkdegames/po/mr/libkdegames6.po | 
+ | [ast](/f42/language/ast) | 1 | 316 | 0.3 | /mnt/stockage/packages/f42/libkdegames/po/ast/libkdegames6.po | 
+ | [ku](/f42/language/ku) | 1 | 316 | 0.3 | /mnt/stockage/packages/f42/libkdegames/po/ku/libkdegames6.po | 
+ | [ml](/f42/language/ml) | 1 | 316 | 0.3 | /mnt/stockage/packages/f42/libkdegames/po/ml/libkdegames6.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package HelixPlayer (version 1.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/de.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/es.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/fr.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/it.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/ja.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/ja.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/ko.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/ko.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/pt_BR.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/zh_CN.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/zh_TW.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/zh_TW.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1080 | 1131 | 95.5 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/pl.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/pl.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 1153 | 2008 | 57.4 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/hi.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/hi.po | 
+ | [de](/f9/language/de) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/de.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/de.po | 
+ | [es](/f9/language/es) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/es.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/es.po | 
+ | [fr](/f9/language/fr) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/fr.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/fr.po | 
+ | [it](/f9/language/it) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/it.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/it.po | 
+ | [ja](/f9/language/ja) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/ja.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/ja.po | 
+ | [ko](/f9/language/ko) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/ko.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/ko.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/pt_BR.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/pt_BR.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/zh_CN.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 2008 | 2008 | 100.0 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/zh_TW.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/zh_TW.po | 
+ | [pl](/f9/language/pl) | 1080 | 1131 | 95.5 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/pl.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/pl.po | 
+ | [hi](/f9/language/hi) | 1153 | 2008 | 57.4 | /mnt/stockage/packages/f9/HelixPlayer/player/app/gtk/po/hi.po/mnt/stockage/packages/f9/HelixPlayer/player/common/gtk/po/hi.po | 
 {.sortable}
 
 

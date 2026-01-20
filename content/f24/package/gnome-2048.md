@@ -18,26 +18,26 @@ The package gnome-2048 (version 3.20.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/bs.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f24/gnome-2048/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/de/de.po/mnt/stockage/packages/f24/gnome-2048/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/el/el.po/mnt/stockage/packages/f24/gnome-2048/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/es/es.po/mnt/stockage/packages/f24/gnome-2048/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/fr.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/hu.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/lt.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/pt_BR.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/sk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 580 | 580 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f24/gnome-2048/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f24/gnome-2048/po/sv.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/zh_CN.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 214 | 290 | 73.8 | /mnt/stockage/packages/f24/gnome-2048/po/tr.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 64 | 251 | 25.5 | /mnt/stockage/packages/f24/gnome-2048/po/sl.po | 
+ | [bs](/f24/language/bs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/bs.po | 
+ | [ca](/f24/language/ca) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/ca.po | 
+ | [cs](/f24/language/cs) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f24/gnome-2048/po/cs.po | 
+ | [de](/f24/language/de) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/de/de.po/mnt/stockage/packages/f24/gnome-2048/po/de.po | 
+ | [el](/f24/language/el) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/el/el.po/mnt/stockage/packages/f24/gnome-2048/po/el.po | 
+ | [es](/f24/language/es) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/es/es.po/mnt/stockage/packages/f24/gnome-2048/po/es.po | 
+ | [fi](/f24/language/fi) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/fi.po | 
+ | [fr](/f24/language/fr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/fr.po | 
+ | [he](/f24/language/he) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/he.po | 
+ | [hu](/f24/language/hu) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/hu.po | 
+ | [lt](/f24/language/lt) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/lt.po | 
+ | [pl](/f24/language/pl) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/pl.po | 
+ | [pt](/f24/language/pt) | 278 | 278 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/pt_BR.po | 
+ | [sk](/f24/language/sk) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/sk.po | 
+ | [sr](/f24/language/sr) | 580 | 580 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f24/gnome-2048/po/sr.po | 
+ | [sv](/f24/language/sv) | 324 | 324 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f24/gnome-2048/po/sv.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 290 | 290 | 100.0 | /mnt/stockage/packages/f24/gnome-2048/po/zh_CN.po | 
+ | [tr](/f24/language/tr) | 214 | 290 | 73.8 | /mnt/stockage/packages/f24/gnome-2048/po/tr.po | 
+ | [sl](/f24/language/sl) | 64 | 251 | 25.5 | /mnt/stockage/packages/f24/gnome-2048/po/sl.po | 
 {.sortable}
 
 

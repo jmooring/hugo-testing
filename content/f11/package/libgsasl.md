@@ -18,19 +18,19 @@ The package libgsasl (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f11/language/error.md" >}}) | 1036 | 1036 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/en@quot.po/mnt/stockage/packages/f11/libgsasl/po/en@boldquot.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/fi.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/ga.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/id.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/pl.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/sk.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/sv.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/vi.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 513 | 518 | 99.0 | /mnt/stockage/packages/f11/libgsasl/po/zh_CN.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 502 | 518 | 96.9 | /mnt/stockage/packages/f11/libgsasl/po/fr.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 479 | 518 | 92.5 | /mnt/stockage/packages/f11/libgsasl/po/sr.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 435 | 518 | 84.0 | /mnt/stockage/packages/f11/libgsasl/po/ro.po | 
+ | [error](/f11/language/error) | 1036 | 1036 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/en@quot.po/mnt/stockage/packages/f11/libgsasl/po/en@boldquot.po | 
+ | [fi](/f11/language/fi) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/fi.po | 
+ | [ga](/f11/language/ga) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/ga.po | 
+ | [id](/f11/language/id) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/id.po | 
+ | [nl](/f11/language/nl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/nl.po | 
+ | [pl](/f11/language/pl) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/pl.po | 
+ | [sk](/f11/language/sk) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/sk.po | 
+ | [sv](/f11/language/sv) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/sv.po | 
+ | [vi](/f11/language/vi) | 518 | 518 | 100.0 | /mnt/stockage/packages/f11/libgsasl/po/vi.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 513 | 518 | 99.0 | /mnt/stockage/packages/f11/libgsasl/po/zh_CN.po | 
+ | [fr](/f11/language/fr) | 502 | 518 | 96.9 | /mnt/stockage/packages/f11/libgsasl/po/fr.po | 
+ | [sr](/f11/language/sr) | 479 | 518 | 92.5 | /mnt/stockage/packages/f11/libgsasl/po/sr.po | 
+ | [ro](/f11/language/ro) | 435 | 518 | 84.0 | /mnt/stockage/packages/f11/libgsasl/po/ro.po | 
 {.sortable}
 
 

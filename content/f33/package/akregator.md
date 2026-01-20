@@ -18,58 +18,58 @@ The package akregator (version 20.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ca/akregator.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ca@valencia/akregator.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/cs/akregator.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/da/akregator.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/de/akregator.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/en_GB/akregator.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/es/akregator.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/et/akregator.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/fr/akregator.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ia/akregator.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/it/akregator.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ko/akregator.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/nl/akregator.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/nn/akregator.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/pt/akregator.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/pt_BR/akregator.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ru/akregator.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/sk/akregator.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/sl/akregator.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/sv/akregator.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/uk/akregator.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 1805 | 1807 | 99.9 | /mnt/stockage/packages/f33/akregator/po/fi/akregator.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 1773 | 1807 | 98.1 | /mnt/stockage/packages/f33/akregator/po/gl/akregator.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1771 | 1807 | 98.0 | /mnt/stockage/packages/f33/akregator/po/pl/akregator.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 1769 | 1807 | 97.9 | /mnt/stockage/packages/f33/akregator/po/lt/akregator.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1766 | 1807 | 97.7 | /mnt/stockage/packages/f33/akregator/po/zh_CN/akregator.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 1751 | 1807 | 96.9 | /mnt/stockage/packages/f33/akregator/po/zh_TW/akregator.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1719 | 1807 | 95.1 | /mnt/stockage/packages/f33/akregator/po/sr/akregator.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1715 | 1807 | 94.9 | /mnt/stockage/packages/f33/akregator/po/tr/akregator.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 1483 | 1807 | 82.1 | /mnt/stockage/packages/f33/akregator/po/nb/akregator.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/ar/akregator.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/bs/akregator.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/el/akregator.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/hu/akregator.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/nds/akregator.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 1415 | 1807 | 78.3 | /mnt/stockage/packages/f33/akregator/po/kk/akregator.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1367 | 1807 | 75.7 | /mnt/stockage/packages/f33/akregator/po/ja/akregator.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 1354 | 1807 | 74.9 | /mnt/stockage/packages/f33/akregator/po/km/akregator.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 1349 | 1807 | 74.7 | /mnt/stockage/packages/f33/akregator/po/lv/akregator.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 1142 | 1807 | 63.2 | /mnt/stockage/packages/f33/akregator/po/ro/akregator.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 1021 | 1807 | 56.5 | /mnt/stockage/packages/f33/akregator/po/bg/akregator.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 1018 | 1807 | 56.3 | /mnt/stockage/packages/f33/akregator/po/eo/akregator.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 888 | 1807 | 49.1 | /mnt/stockage/packages/f33/akregator/po/fa/akregator.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 869 | 1807 | 48.1 | /mnt/stockage/packages/f33/akregator/po/eu/akregator.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 869 | 1807 | 48.1 | /mnt/stockage/packages/f33/akregator/po/he/akregator.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 868 | 1807 | 48.0 | /mnt/stockage/packages/f33/akregator/po/is/akregator.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 852 | 1807 | 47.1 | /mnt/stockage/packages/f33/akregator/po/hi/akregator.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 757 | 1807 | 41.9 | /mnt/stockage/packages/f33/akregator/po/pa/akregator.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 643 | 1807 | 35.6 | /mnt/stockage/packages/f33/akregator/po/ga/akregator.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 227 | 1807 | 12.6 | /mnt/stockage/packages/f33/akregator/po/ug/akregator.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 143 | 1807 | 7.9 | /mnt/stockage/packages/f33/akregator/po/mr/akregator.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 7 | 1807 | 0.4 | /mnt/stockage/packages/f33/akregator/po/hr/akregator.po | 
+ | [ca](/f33/language/ca) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ca/akregator.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ca@valencia/akregator.po | 
+ | [cs](/f33/language/cs) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/cs/akregator.po | 
+ | [da](/f33/language/da) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/da/akregator.po | 
+ | [de](/f33/language/de) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/de/akregator.po | 
+ | [en_GB](/f33/language/en_GB) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/en_GB/akregator.po | 
+ | [es](/f33/language/es) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/es/akregator.po | 
+ | [et](/f33/language/et) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/et/akregator.po | 
+ | [fr](/f33/language/fr) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/fr/akregator.po | 
+ | [ia](/f33/language/ia) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ia/akregator.po | 
+ | [it](/f33/language/it) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/it/akregator.po | 
+ | [ko](/f33/language/ko) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ko/akregator.po | 
+ | [nl](/f33/language/nl) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/nl/akregator.po | 
+ | [nn](/f33/language/nn) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/nn/akregator.po | 
+ | [pt](/f33/language/pt) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/pt/akregator.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/pt_BR/akregator.po | 
+ | [ru](/f33/language/ru) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/ru/akregator.po | 
+ | [sk](/f33/language/sk) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/sk/akregator.po | 
+ | [sl](/f33/language/sl) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/sl/akregator.po | 
+ | [sv](/f33/language/sv) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/sv/akregator.po | 
+ | [uk](/f33/language/uk) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f33/akregator/po/uk/akregator.po | 
+ | [fi](/f33/language/fi) | 1805 | 1807 | 99.9 | /mnt/stockage/packages/f33/akregator/po/fi/akregator.po | 
+ | [gl](/f33/language/gl) | 1773 | 1807 | 98.1 | /mnt/stockage/packages/f33/akregator/po/gl/akregator.po | 
+ | [pl](/f33/language/pl) | 1771 | 1807 | 98.0 | /mnt/stockage/packages/f33/akregator/po/pl/akregator.po | 
+ | [lt](/f33/language/lt) | 1769 | 1807 | 97.9 | /mnt/stockage/packages/f33/akregator/po/lt/akregator.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1766 | 1807 | 97.7 | /mnt/stockage/packages/f33/akregator/po/zh_CN/akregator.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 1751 | 1807 | 96.9 | /mnt/stockage/packages/f33/akregator/po/zh_TW/akregator.po | 
+ | [sr](/f33/language/sr) | 1719 | 1807 | 95.1 | /mnt/stockage/packages/f33/akregator/po/sr/akregator.po | 
+ | [tr](/f33/language/tr) | 1715 | 1807 | 94.9 | /mnt/stockage/packages/f33/akregator/po/tr/akregator.po | 
+ | [nb_NO](/f33/language/nb_NO) | 1483 | 1807 | 82.1 | /mnt/stockage/packages/f33/akregator/po/nb/akregator.po | 
+ | [ar](/f33/language/ar) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/ar/akregator.po | 
+ | [bs](/f33/language/bs) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/bs/akregator.po | 
+ | [el](/f33/language/el) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/el/akregator.po | 
+ | [hu](/f33/language/hu) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/hu/akregator.po | 
+ | [nds](/f33/language/nds) | 1425 | 1807 | 78.9 | /mnt/stockage/packages/f33/akregator/po/nds/akregator.po | 
+ | [kk](/f33/language/kk) | 1415 | 1807 | 78.3 | /mnt/stockage/packages/f33/akregator/po/kk/akregator.po | 
+ | [ja](/f33/language/ja) | 1367 | 1807 | 75.7 | /mnt/stockage/packages/f33/akregator/po/ja/akregator.po | 
+ | [km](/f33/language/km) | 1354 | 1807 | 74.9 | /mnt/stockage/packages/f33/akregator/po/km/akregator.po | 
+ | [lv](/f33/language/lv) | 1349 | 1807 | 74.7 | /mnt/stockage/packages/f33/akregator/po/lv/akregator.po | 
+ | [ro](/f33/language/ro) | 1142 | 1807 | 63.2 | /mnt/stockage/packages/f33/akregator/po/ro/akregator.po | 
+ | [bg](/f33/language/bg) | 1021 | 1807 | 56.5 | /mnt/stockage/packages/f33/akregator/po/bg/akregator.po | 
+ | [eo](/f33/language/eo) | 1018 | 1807 | 56.3 | /mnt/stockage/packages/f33/akregator/po/eo/akregator.po | 
+ | [fa](/f33/language/fa) | 888 | 1807 | 49.1 | /mnt/stockage/packages/f33/akregator/po/fa/akregator.po | 
+ | [eu](/f33/language/eu) | 869 | 1807 | 48.1 | /mnt/stockage/packages/f33/akregator/po/eu/akregator.po | 
+ | [he](/f33/language/he) | 869 | 1807 | 48.1 | /mnt/stockage/packages/f33/akregator/po/he/akregator.po | 
+ | [is](/f33/language/is) | 868 | 1807 | 48.0 | /mnt/stockage/packages/f33/akregator/po/is/akregator.po | 
+ | [hi](/f33/language/hi) | 852 | 1807 | 47.1 | /mnt/stockage/packages/f33/akregator/po/hi/akregator.po | 
+ | [pa](/f33/language/pa) | 757 | 1807 | 41.9 | /mnt/stockage/packages/f33/akregator/po/pa/akregator.po | 
+ | [ga](/f33/language/ga) | 643 | 1807 | 35.6 | /mnt/stockage/packages/f33/akregator/po/ga/akregator.po | 
+ | [ug](/f33/language/ug) | 227 | 1807 | 12.6 | /mnt/stockage/packages/f33/akregator/po/ug/akregator.po | 
+ | [mr](/f33/language/mr) | 143 | 1807 | 7.9 | /mnt/stockage/packages/f33/akregator/po/mr/akregator.po | 
+ | [hr](/f33/language/hr) | 7 | 1807 | 0.4 | /mnt/stockage/packages/f33/akregator/po/hr/akregator.po | 
 {.sortable}
 
 

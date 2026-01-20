@@ -18,14 +18,14 @@ The package devilspie2 (version 0.43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/fr.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/ja.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/nl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/ru.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/sv.po | 
+ | [fi](/f31/language/fi) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/fi.po | 
+ | [fr](/f31/language/fr) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/fr.po | 
+ | [it](/f31/language/it) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/it.po | 
+ | [ja](/f31/language/ja) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/ja.po | 
+ | [nl](/f31/language/nl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/nl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 156 | 156 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/ru.po | 
+ | [sv](/f31/language/sv) | 161 | 161 | 100.0 | /mnt/stockage/packages/f31/devilspie2/po/sv.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package kde-plasma-yawp (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 4048 | 4048 | 100.0 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/cs.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 4048 | 4048 | 100.0 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/fr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 4013 | 4048 | 99.1 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/uk.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 3705 | 4048 | 91.5 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/de.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2698 | 4048 | 66.7 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/it.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 842 | 4048 | 20.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/es.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 760 | 4048 | 18.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/tr.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 679 | 4048 | 16.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/sk.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 642 | 4048 | 15.9 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/ru.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 625 | 4048 | 15.4 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/pl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 54 | 4048 | 1.3 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/he.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 32 | 4048 | 0.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/sl.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 10 | 4048 | 0.2 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/af.po | 
+ | [cs](/f18/language/cs) | 4048 | 4048 | 100.0 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/cs.po | 
+ | [fr](/f18/language/fr) | 4048 | 4048 | 100.0 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/fr.po | 
+ | [uk](/f18/language/uk) | 4013 | 4048 | 99.1 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/uk.po | 
+ | [de](/f18/language/de) | 3705 | 4048 | 91.5 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/de.po | 
+ | [it](/f18/language/it) | 2698 | 4048 | 66.7 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/it.po | 
+ | [es](/f18/language/es) | 842 | 4048 | 20.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/es.po | 
+ | [tr](/f18/language/tr) | 760 | 4048 | 18.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/tr.po | 
+ | [sk](/f18/language/sk) | 679 | 4048 | 16.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/sk.po | 
+ | [ru](/f18/language/ru) | 642 | 4048 | 15.9 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/ru.po | 
+ | [pl](/f18/language/pl) | 625 | 4048 | 15.4 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/pl.po | 
+ | [he](/f18/language/he) | 54 | 4048 | 1.3 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/he.po | 
+ | [sl](/f18/language/sl) | 32 | 4048 | 0.8 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/sl.po | 
+ | [af](/f18/language/af) | 10 | 4048 | 0.2 | /mnt/stockage/packages/f18/kde-plasma-yawp/po/af.po | 
 {.sortable}
 
 

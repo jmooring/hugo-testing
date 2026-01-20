@@ -18,18 +18,18 @@ The package vrms-rpm (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/el.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/en.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/fr.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/it.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/pt.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/tr.po | 
+ | [da](/f26/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/da.po | 
+ | [de](/f26/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/de.po | 
+ | [el](/f26/language/el) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/el.po | 
+ | [en](/f26/language/en) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/en.po | 
+ | [es](/f26/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/es.po | 
+ | [fr](/f26/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/fr.po | 
+ | [id](/f26/language/id) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/id.po | 
+ | [it](/f26/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/it.po | 
+ | [nl](/f26/language/nl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/nl.po | 
+ | [pl](/f26/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/pl.po | 
+ | [pt](/f26/language/pt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/pt.po | 
+ | [tr](/f26/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f26/vrms-rpm/lang/tr.po | 
 {.sortable}
 
 

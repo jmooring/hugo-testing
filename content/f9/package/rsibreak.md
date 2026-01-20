@@ -18,33 +18,33 @@ The package rsibreak (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/bg/rsibreak.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/da/rsibreak.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/de/rsibreak.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/el/rsibreak.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/es/rsibreak.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/et/rsibreak.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/gl/rsibreak.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/nl/rsibreak.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/pt/rsibreak.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/pt_BR/rsibreak.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/ru/rsibreak.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/sv/rsibreak.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1303 | 1353 | 96.3 | /mnt/stockage/packages/f9/rsibreak/po/ja/rsibreak.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 902 | 1353 | 66.7 | /mnt/stockage/packages/f9/rsibreak/po/it/rsibreak.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 550 | 1353 | 40.7 | /mnt/stockage/packages/f9/rsibreak/po/fr/rsibreak.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 503 | 1353 | 37.2 | /mnt/stockage/packages/f9/rsibreak/po/en_GB/rsibreak.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 394 | 1353 | 29.1 | /mnt/stockage/packages/f9/rsibreak/po/ca/rsibreak.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 281 | 1353 | 20.8 | /mnt/stockage/packages/f9/rsibreak/po/pl/rsibreak.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 275 | 1353 | 20.3 | /mnt/stockage/packages/f9/rsibreak/po/ka/rsibreak.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 255 | 1353 | 18.8 | /mnt/stockage/packages/f9/rsibreak/po/tr/rsibreak.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 145 | 1353 | 10.7 | /mnt/stockage/packages/f9/rsibreak/po/ga/rsibreak.po | 
- | [br]({{< ref "/f9/language/br.md" >}}) | 90 | 1353 | 6.7 | /mnt/stockage/packages/f9/rsibreak/po/br/rsibreak.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 66 | 1353 | 4.9 | /mnt/stockage/packages/f9/rsibreak/po/cs/rsibreak.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 47 | 1353 | 3.5 | /mnt/stockage/packages/f9/rsibreak/po/sr@Latn/rsibreak.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 47 | 1353 | 3.5 | /mnt/stockage/packages/f9/rsibreak/po/sr/rsibreak.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 2 | 1353 | 0.1 | /mnt/stockage/packages/f9/rsibreak/po/ar/rsibreak.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 0 | 1353 | 0.0 | /mnt/stockage/packages/f9/rsibreak/po/sk/rsibreak.po | 
+ | [bg](/f9/language/bg) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/bg/rsibreak.po | 
+ | [da](/f9/language/da) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/da/rsibreak.po | 
+ | [de](/f9/language/de) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/de/rsibreak.po | 
+ | [el](/f9/language/el) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/el/rsibreak.po | 
+ | [es](/f9/language/es) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/es/rsibreak.po | 
+ | [et](/f9/language/et) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/et/rsibreak.po | 
+ | [gl](/f9/language/gl) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/gl/rsibreak.po | 
+ | [nl](/f9/language/nl) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/nl/rsibreak.po | 
+ | [pt](/f9/language/pt) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/pt/rsibreak.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/pt_BR/rsibreak.po | 
+ | [ru](/f9/language/ru) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/ru/rsibreak.po | 
+ | [sv](/f9/language/sv) | 1353 | 1353 | 100.0 | /mnt/stockage/packages/f9/rsibreak/po/sv/rsibreak.po | 
+ | [ja](/f9/language/ja) | 1303 | 1353 | 96.3 | /mnt/stockage/packages/f9/rsibreak/po/ja/rsibreak.po | 
+ | [it](/f9/language/it) | 902 | 1353 | 66.7 | /mnt/stockage/packages/f9/rsibreak/po/it/rsibreak.po | 
+ | [fr](/f9/language/fr) | 550 | 1353 | 40.7 | /mnt/stockage/packages/f9/rsibreak/po/fr/rsibreak.po | 
+ | [en_GB](/f9/language/en_GB) | 503 | 1353 | 37.2 | /mnt/stockage/packages/f9/rsibreak/po/en_GB/rsibreak.po | 
+ | [ca](/f9/language/ca) | 394 | 1353 | 29.1 | /mnt/stockage/packages/f9/rsibreak/po/ca/rsibreak.po | 
+ | [pl](/f9/language/pl) | 281 | 1353 | 20.8 | /mnt/stockage/packages/f9/rsibreak/po/pl/rsibreak.po | 
+ | [ka](/f9/language/ka) | 275 | 1353 | 20.3 | /mnt/stockage/packages/f9/rsibreak/po/ka/rsibreak.po | 
+ | [tr](/f9/language/tr) | 255 | 1353 | 18.8 | /mnt/stockage/packages/f9/rsibreak/po/tr/rsibreak.po | 
+ | [ga](/f9/language/ga) | 145 | 1353 | 10.7 | /mnt/stockage/packages/f9/rsibreak/po/ga/rsibreak.po | 
+ | [br](/f9/language/br) | 90 | 1353 | 6.7 | /mnt/stockage/packages/f9/rsibreak/po/br/rsibreak.po | 
+ | [cs](/f9/language/cs) | 66 | 1353 | 4.9 | /mnt/stockage/packages/f9/rsibreak/po/cs/rsibreak.po | 
+ | [error](/f9/language/error) | 47 | 1353 | 3.5 | /mnt/stockage/packages/f9/rsibreak/po/sr@Latn/rsibreak.po | 
+ | [sr](/f9/language/sr) | 47 | 1353 | 3.5 | /mnt/stockage/packages/f9/rsibreak/po/sr/rsibreak.po | 
+ | [ar](/f9/language/ar) | 2 | 1353 | 0.1 | /mnt/stockage/packages/f9/rsibreak/po/ar/rsibreak.po | 
+ | [sk](/f9/language/sk) | 0 | 1353 | 0.0 | /mnt/stockage/packages/f9/rsibreak/po/sk/rsibreak.po | 
 {.sortable}
 
 

@@ -18,30 +18,30 @@ The package kshutdown (version 3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 474 | 474 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/da.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/es.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/pt.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sk.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f17/language/sr@ijekavian.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr@ijekavian.po | 
- | [sr@ijekavian_Latn]({{< ref "/f17/language/sr@ijekavian_Latn.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr@ijekavianlatin.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr@latin.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 473 | 474 | 99.8 | /mnt/stockage/packages/f17/kshutdown/po/it.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 186 | 188 | 98.9 | /mnt/stockage/packages/f17/kshutdown/po/fr.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 498 | 504 | 98.8 | /mnt/stockage/packages/f17/kshutdown/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 204 | 207 | 98.6 | /mnt/stockage/packages/f17/kshutdown/po/nb.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 165 | 192 | 85.9 | /mnt/stockage/packages/f17/kshutdown/po/de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 405 | 502 | 80.7 | /mnt/stockage/packages/f17/kshutdown/po/pl.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 46 | 159 | 28.9 | /mnt/stockage/packages/f17/kshutdown/po/ar.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 46 | 159 | 28.9 | /mnt/stockage/packages/f17/kshutdown/po/bg.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 46 | 159 | 28.9 | /mnt/stockage/packages/f17/kshutdown/po/el.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 43 | 159 | 27.0 | /mnt/stockage/packages/f17/kshutdown/po/sv.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 43 | 159 | 27.0 | /mnt/stockage/packages/f17/kshutdown/po/zh_CN.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 42 | 159 | 26.4 | /mnt/stockage/packages/f17/kshutdown/po/tr.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 30 | 159 | 18.9 | /mnt/stockage/packages/f17/kshutdown/po/hu.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 17 | 159 | 10.7 | /mnt/stockage/packages/f17/kshutdown/po/nl.po | 
+ | [cs](/f17/language/cs) | 502 | 502 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/cs.po | 
+ | [da](/f17/language/da) | 474 | 474 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/da.po | 
+ | [es](/f17/language/es) | 188 | 188 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/es.po | 
+ | [pt](/f17/language/pt) | 340 | 340 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/pt.po | 
+ | [ru](/f17/language/ru) | 432 | 432 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/ru.po | 
+ | [sk](/f17/language/sk) | 380 | 380 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sk.po | 
+ | [sr](/f17/language/sr) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr.po | 
+ | [sr@ijekavian](/f17/language/sr@ijekavian) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr@ijekavian.po | 
+ | [sr@ijekavian_Latn](/f17/language/sr@ijekavian_Latn) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr@ijekavianlatin.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 504 | 504 | 100.0 | /mnt/stockage/packages/f17/kshutdown/po/sr@latin.po | 
+ | [it](/f17/language/it) | 473 | 474 | 99.8 | /mnt/stockage/packages/f17/kshutdown/po/it.po | 
+ | [fr](/f17/language/fr) | 186 | 188 | 98.9 | /mnt/stockage/packages/f17/kshutdown/po/fr.po | 
+ | [pt_BR](/f17/language/pt_BR) | 498 | 504 | 98.8 | /mnt/stockage/packages/f17/kshutdown/po/pt_BR.po | 
+ | [nb_NO](/f17/language/nb_NO) | 204 | 207 | 98.6 | /mnt/stockage/packages/f17/kshutdown/po/nb.po | 
+ | [de](/f17/language/de) | 165 | 192 | 85.9 | /mnt/stockage/packages/f17/kshutdown/po/de.po | 
+ | [pl](/f17/language/pl) | 405 | 502 | 80.7 | /mnt/stockage/packages/f17/kshutdown/po/pl.po | 
+ | [ar](/f17/language/ar) | 46 | 159 | 28.9 | /mnt/stockage/packages/f17/kshutdown/po/ar.po | 
+ | [bg](/f17/language/bg) | 46 | 159 | 28.9 | /mnt/stockage/packages/f17/kshutdown/po/bg.po | 
+ | [el](/f17/language/el) | 46 | 159 | 28.9 | /mnt/stockage/packages/f17/kshutdown/po/el.po | 
+ | [sv](/f17/language/sv) | 43 | 159 | 27.0 | /mnt/stockage/packages/f17/kshutdown/po/sv.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 43 | 159 | 27.0 | /mnt/stockage/packages/f17/kshutdown/po/zh_CN.po | 
+ | [tr](/f17/language/tr) | 42 | 159 | 26.4 | /mnt/stockage/packages/f17/kshutdown/po/tr.po | 
+ | [hu](/f17/language/hu) | 30 | 159 | 18.9 | /mnt/stockage/packages/f17/kshutdown/po/hu.po | 
+ | [nl](/f17/language/nl) | 17 | 159 | 10.7 | /mnt/stockage/packages/f17/kshutdown/po/nl.po | 
 {.sortable}
 
 

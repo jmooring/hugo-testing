@@ -18,10 +18,10 @@ The package trac-tickettemplate-plugin (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/de/LC_MESSAGES/tickettemplate.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/it/LC_MESSAGES/tickettemplate.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/ja/LC_MESSAGES/tickettemplate.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/zh_CN/LC_MESSAGES/tickettemplate.po | 
+ | [de](/f23/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/de/LC_MESSAGES/tickettemplate.po | 
+ | [it](/f23/language/it) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/it/LC_MESSAGES/tickettemplate.po | 
+ | [ja](/f23/language/ja) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/ja/LC_MESSAGES/tickettemplate.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 48 | 48 | 100.0 | /mnt/stockage/packages/f23/trac-tickettemplate-plugin/tickettemplate/locale/zh_CN/LC_MESSAGES/tickettemplate.po | 
 {.sortable}
 
 

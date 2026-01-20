@@ -18,17 +18,17 @@ The package fcitx5-unikey (version 5.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ru.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f35/fcitx5-unikey/po/zh_CN.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/de.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ko.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/zh_TW.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 19 | 260 | 7.3 | /mnt/stockage/packages/f35/fcitx5-unikey/po/tr.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 17 | 260 | 6.5 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ca.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 14 | 260 | 5.4 | /mnt/stockage/packages/f35/fcitx5-unikey/po/vi.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 9 | 260 | 3.5 | /mnt/stockage/packages/f35/fcitx5-unikey/po/he.po | 
+ | [ru](/f35/language/ru) | 260 | 260 | 100.0 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ru.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 260 | 260 | 100.0 | /mnt/stockage/packages/f35/fcitx5-unikey/po/zh_CN.po | 
+ | [da](/f35/language/da) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/da.po | 
+ | [de](/f35/language/de) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/de.po | 
+ | [ja](/f35/language/ja) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ja.po | 
+ | [ko](/f35/language/ko) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ko.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 20 | 260 | 7.7 | /mnt/stockage/packages/f35/fcitx5-unikey/po/zh_TW.po | 
+ | [tr](/f35/language/tr) | 19 | 260 | 7.3 | /mnt/stockage/packages/f35/fcitx5-unikey/po/tr.po | 
+ | [ca](/f35/language/ca) | 17 | 260 | 6.5 | /mnt/stockage/packages/f35/fcitx5-unikey/po/ca.po | 
+ | [vi](/f35/language/vi) | 14 | 260 | 5.4 | /mnt/stockage/packages/f35/fcitx5-unikey/po/vi.po | 
+ | [he](/f35/language/he) | 9 | 260 | 3.5 | /mnt/stockage/packages/f35/fcitx5-unikey/po/he.po | 
 {.sortable}
 
 

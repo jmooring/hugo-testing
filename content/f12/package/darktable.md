@@ -18,14 +18,14 @@ The package darktable (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f12/darktable/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f12/darktable/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f12/darktable/po/gl.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f12/darktable/po/nl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 2611 | 2611 | 100.0 | /mnt/stockage/packages/f12/darktable/po/sv.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2420 | 2608 | 92.8 | /mnt/stockage/packages/f12/darktable/po/de.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 2273 | 2701 | 84.2 | /mnt/stockage/packages/f12/darktable/po/fi.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1966 | 2701 | 72.8 | /mnt/stockage/packages/f12/darktable/po/ru.po | 
+ | [es](/f12/language/es) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f12/darktable/po/es.po | 
+ | [fr](/f12/language/fr) | 2701 | 2701 | 100.0 | /mnt/stockage/packages/f12/darktable/po/fr.po | 
+ | [gl](/f12/language/gl) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f12/darktable/po/gl.po | 
+ | [nl](/f12/language/nl) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f12/darktable/po/nl.po | 
+ | [sv](/f12/language/sv) | 2611 | 2611 | 100.0 | /mnt/stockage/packages/f12/darktable/po/sv.po | 
+ | [de](/f12/language/de) | 2420 | 2608 | 92.8 | /mnt/stockage/packages/f12/darktable/po/de.po | 
+ | [fi](/f12/language/fi) | 2273 | 2701 | 84.2 | /mnt/stockage/packages/f12/darktable/po/fi.po | 
+ | [ru](/f12/language/ru) | 1966 | 2701 | 72.8 | /mnt/stockage/packages/f12/darktable/po/ru.po | 
 {.sortable}
 
 

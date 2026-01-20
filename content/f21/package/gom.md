@@ -18,13 +18,13 @@ The package gom (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/cs.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/es.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/hu.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/pt_BR.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 77 | 164 | 47.0 | /mnt/stockage/packages/f21/gom/po/de.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 40 | 170 | 23.5 | /mnt/stockage/packages/f21/gom/po/sl.po | 
+ | [cs](/f21/language/cs) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/cs.po | 
+ | [el](/f21/language/el) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/el.po | 
+ | [es](/f21/language/es) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/es.po | 
+ | [hu](/f21/language/hu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/hu.po | 
+ | [pt_BR](/f21/language/pt_BR) | 170 | 170 | 100.0 | /mnt/stockage/packages/f21/gom/po/pt_BR.po | 
+ | [de](/f21/language/de) | 77 | 164 | 47.0 | /mnt/stockage/packages/f21/gom/po/de.po | 
+ | [sl](/f21/language/sl) | 40 | 170 | 23.5 | /mnt/stockage/packages/f21/gom/po/sl.po | 
 {.sortable}
 
 

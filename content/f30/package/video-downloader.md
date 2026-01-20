@@ -18,10 +18,10 @@ The package video-downloader (version 0.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f30/video-downloader/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f30/video-downloader/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 106 | 120 | 88.3 | /mnt/stockage/packages/f30/video-downloader/po/it.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 104 | 120 | 86.7 | /mnt/stockage/packages/f30/video-downloader/po/es.po | 
+ | [de](/f30/language/de) | 120 | 120 | 100.0 | /mnt/stockage/packages/f30/video-downloader/po/de.po | 
+ | [fr](/f30/language/fr) | 120 | 120 | 100.0 | /mnt/stockage/packages/f30/video-downloader/po/fr.po | 
+ | [it](/f30/language/it) | 106 | 120 | 88.3 | /mnt/stockage/packages/f30/video-downloader/po/it.po | 
+ | [es](/f30/language/es) | 104 | 120 | 86.7 | /mnt/stockage/packages/f30/video-downloader/po/es.po | 
 {.sortable}
 
 

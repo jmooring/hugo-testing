@@ -18,34 +18,34 @@ The package compiz-plugins-experimental (version 0.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 4368 | 4473 | 97.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/en_GB.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3153 | 4473 | 70.5 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ca.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/el.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/gl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ko.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1865 | 4473 | 41.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/es.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 1724 | 4473 | 38.5 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/he.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1580 | 4473 | 35.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/pl.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1486 | 4473 | 33.2 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/fr.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 1420 | 4473 | 31.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/pt.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1385 | 4473 | 31.0 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/zh_CN.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1244 | 4473 | 27.8 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/fi.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1175 | 4473 | 26.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/sv.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 1052 | 4473 | 23.5 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1015 | 4473 | 22.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/nl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1002 | 4473 | 22.4 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/pt_BR.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 999 | 4473 | 22.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/gu.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 999 | 4473 | 22.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/hi.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 818 | 4473 | 18.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/de.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 684 | 4473 | 15.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/cs.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 517 | 4473 | 11.6 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/eu.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 512 | 4473 | 11.4 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/tr.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 489 | 4473 | 10.9 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ru.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 60 | 4473 | 1.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ar.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 41 | 4473 | 0.9 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/bn.po | 
+ | [en_GB](/f35/language/en_GB) | 4368 | 4473 | 97.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/en_GB.po | 
+ | [ca](/f35/language/ca) | 3153 | 4473 | 70.5 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ca.po | 
+ | [el](/f35/language/el) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/el.po | 
+ | [gl](/f35/language/gl) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/gl.po | 
+ | [hu](/f35/language/hu) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/hu.po | 
+ | [it](/f35/language/it) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/it.po | 
+ | [ja](/f35/language/ja) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ja.po | 
+ | [ko](/f35/language/ko) | 1930 | 4473 | 43.1 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ko.po | 
+ | [es](/f35/language/es) | 1865 | 4473 | 41.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/es.po | 
+ | [he](/f35/language/he) | 1724 | 4473 | 38.5 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/he.po | 
+ | [pl](/f35/language/pl) | 1580 | 4473 | 35.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/pl.po | 
+ | [fr](/f35/language/fr) | 1486 | 4473 | 33.2 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/fr.po | 
+ | [pt](/f35/language/pt) | 1420 | 4473 | 31.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/pt.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1385 | 4473 | 31.0 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/zh_CN.po | 
+ | [fi](/f35/language/fi) | 1244 | 4473 | 27.8 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/fi.po | 
+ | [sv](/f35/language/sv) | 1175 | 4473 | 26.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/sv.po | 
+ | [nb_NO](/f35/language/nb_NO) | 1052 | 4473 | 23.5 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/nb.po | 
+ | [nl](/f35/language/nl) | 1015 | 4473 | 22.7 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/nl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1002 | 4473 | 22.4 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/pt_BR.po | 
+ | [gu](/f35/language/gu) | 999 | 4473 | 22.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/gu.po | 
+ | [hi](/f35/language/hi) | 999 | 4473 | 22.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/hi.po | 
+ | [de](/f35/language/de) | 818 | 4473 | 18.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/de.po | 
+ | [cs](/f35/language/cs) | 684 | 4473 | 15.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/cs.po | 
+ | [eu](/f35/language/eu) | 517 | 4473 | 11.6 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/eu.po | 
+ | [tr](/f35/language/tr) | 512 | 4473 | 11.4 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/tr.po | 
+ | [ru](/f35/language/ru) | 489 | 4473 | 10.9 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ru.po | 
+ | [ar](/f35/language/ar) | 60 | 4473 | 1.3 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/ar.po | 
+ | [bn](/f35/language/bn) | 41 | 4473 | 0.9 | /mnt/stockage/packages/f35/compiz-plugins-experimental/po/bn.po | 
 {.sortable}
 
 

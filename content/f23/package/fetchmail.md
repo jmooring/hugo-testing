@@ -18,30 +18,30 @@ The package fetchmail (version 6.3.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/de.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/eo.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/fr.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/ja.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/pl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/sv.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/vi.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 4255 | 4382 | 97.1 | /mnt/stockage/packages/f23/fetchmail/po/zh_CN.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 4192 | 4382 | 95.7 | /mnt/stockage/packages/f23/fetchmail/po/nl.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 4180 | 4382 | 95.4 | /mnt/stockage/packages/f23/fetchmail/po/it.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 4074 | 4382 | 93.0 | /mnt/stockage/packages/f23/fetchmail/po/id.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 3836 | 4382 | 87.5 | /mnt/stockage/packages/f23/fetchmail/po/ca.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3836 | 4382 | 87.5 | /mnt/stockage/packages/f23/fetchmail/po/es.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 3817 | 4382 | 87.1 | /mnt/stockage/packages/f23/fetchmail/po/ru.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 3623 | 4382 | 82.7 | /mnt/stockage/packages/f23/fetchmail/po/en_GB.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 3281 | 4382 | 74.9 | /mnt/stockage/packages/f23/fetchmail/po/sq.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 2683 | 4382 | 61.2 | /mnt/stockage/packages/f23/fetchmail/po/tr.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 2600 | 4382 | 59.3 | /mnt/stockage/packages/f23/fetchmail/po/el.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2101 | 4382 | 47.9 | /mnt/stockage/packages/f23/fetchmail/po/pt_BR.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 1753 | 4382 | 40.0 | /mnt/stockage/packages/f23/fetchmail/po/gl.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 1374 | 4382 | 31.4 | /mnt/stockage/packages/f23/fetchmail/po/sk.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 567 | 4382 | 12.9 | /mnt/stockage/packages/f23/fetchmail/po/fi.po | 
+ | [cs](/f23/language/cs) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/cs.po | 
+ | [da](/f23/language/da) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/da.po | 
+ | [de](/f23/language/de) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/de.po | 
+ | [eo](/f23/language/eo) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/eo.po | 
+ | [fr](/f23/language/fr) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/fr.po | 
+ | [ja](/f23/language/ja) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/ja.po | 
+ | [pl](/f23/language/pl) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/pl.po | 
+ | [sv](/f23/language/sv) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/sv.po | 
+ | [vi](/f23/language/vi) | 4382 | 4382 | 100.0 | /mnt/stockage/packages/f23/fetchmail/po/vi.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 4255 | 4382 | 97.1 | /mnt/stockage/packages/f23/fetchmail/po/zh_CN.po | 
+ | [nl](/f23/language/nl) | 4192 | 4382 | 95.7 | /mnt/stockage/packages/f23/fetchmail/po/nl.po | 
+ | [it](/f23/language/it) | 4180 | 4382 | 95.4 | /mnt/stockage/packages/f23/fetchmail/po/it.po | 
+ | [id](/f23/language/id) | 4074 | 4382 | 93.0 | /mnt/stockage/packages/f23/fetchmail/po/id.po | 
+ | [ca](/f23/language/ca) | 3836 | 4382 | 87.5 | /mnt/stockage/packages/f23/fetchmail/po/ca.po | 
+ | [es](/f23/language/es) | 3836 | 4382 | 87.5 | /mnt/stockage/packages/f23/fetchmail/po/es.po | 
+ | [ru](/f23/language/ru) | 3817 | 4382 | 87.1 | /mnt/stockage/packages/f23/fetchmail/po/ru.po | 
+ | [en_GB](/f23/language/en_GB) | 3623 | 4382 | 82.7 | /mnt/stockage/packages/f23/fetchmail/po/en_GB.po | 
+ | [sq](/f23/language/sq) | 3281 | 4382 | 74.9 | /mnt/stockage/packages/f23/fetchmail/po/sq.po | 
+ | [tr](/f23/language/tr) | 2683 | 4382 | 61.2 | /mnt/stockage/packages/f23/fetchmail/po/tr.po | 
+ | [el](/f23/language/el) | 2600 | 4382 | 59.3 | /mnt/stockage/packages/f23/fetchmail/po/el.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2101 | 4382 | 47.9 | /mnt/stockage/packages/f23/fetchmail/po/pt_BR.po | 
+ | [gl](/f23/language/gl) | 1753 | 4382 | 40.0 | /mnt/stockage/packages/f23/fetchmail/po/gl.po | 
+ | [sk](/f23/language/sk) | 1374 | 4382 | 31.4 | /mnt/stockage/packages/f23/fetchmail/po/sk.po | 
+ | [fi](/f23/language/fi) | 567 | 4382 | 12.9 | /mnt/stockage/packages/f23/fetchmail/po/fi.po | 
 {.sortable}
 
 

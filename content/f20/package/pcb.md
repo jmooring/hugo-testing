@@ -18,9 +18,9 @@ The package pcb (version 0.20110918):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f20/pcb/po/nl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f20/pcb/po/ru.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f20/pcb/po/fr.po | 
+ | [nl](/f20/language/nl) | 3175 | 3175 | 100.0 | /mnt/stockage/packages/f20/pcb/po/nl.po | 
+ | [ru](/f20/language/ru) | 4139 | 4139 | 100.0 | /mnt/stockage/packages/f20/pcb/po/ru.po | 
+ | [fr](/f20/language/fr) | 1708 | 2765 | 61.8 | /mnt/stockage/packages/f20/pcb/po/fr.po | 
 {.sortable}
 
 

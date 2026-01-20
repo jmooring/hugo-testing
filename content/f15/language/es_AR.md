@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [django-registration]({{< ref "/f15/package/django-registration.md" >}}) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gambas3]({{< ref "/f15/package/gambas3.md" >}}) | 433 | 433 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gnome-applets]({{< ref "/f15/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [trac]({{< ref "/f15/package/trac.md" >}}) | 5685 | 5685 | 100.0 | es_AR <LL@li.org> | 
- | [x-tile]({{< ref "/f15/package/x-tile.md" >}}) | 729 | 729 | 100.0 | Spanish <MeloPixel> | 
- | [Django]({{< ref "/f15/package/Django.md" >}}) | 3993 | 4008 | 99.6 | Spanish (Argentinian) <> | 
- | [mcrypt]({{< ref "/f15/package/mcrypt.md" >}}) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f15/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f15/package/gnomebaker.md" >}}) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
- | [emerald]({{< ref "/f15/package/emerald.md" >}}) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
- | [gallery2]({{< ref "/f15/package/gallery2.md" >}}) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
- | [liblicense]({{< ref "/f15/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [libvisual-plugins]({{< ref "/f15/package/libvisual-plugins.md" >}}) | 354 | 600 | 59.0 | Spanish <es@li.org> | 
- | [libvisual]({{< ref "/f15/package/libvisual.md" >}}) | 303 | 1055 | 28.7 | Spanish | 
- | [gimp-lqr-plugin]({{< ref "/f15/package/gimp-lqr-plugin.md" >}}) | 66 | 825 | 8.0 | Español | 
- | [speedcrunch]({{< ref "/f15/package/speedcrunch.md" >}}) | 1 | 18 | 5.6 | es_AR | 
- | [bacula]({{< ref "/f15/package/bacula.md" >}}) | 0 | 18155 | 0.0 | Spanish | 
- | [bacula2]({{< ref "/f15/package/bacula2.md" >}}) | 0 | 18155 | 0.0 | Spanish | 
+ | [django-registration](/f15/package/django-registration) | 81 | 81 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gambas3](/f15/package/gambas3) | 433 | 433 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f15/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [trac](/f15/package/trac) | 5685 | 5685 | 100.0 | es_AR <LL@li.org> | 
+ | [x-tile](/f15/package/x-tile) | 729 | 729 | 100.0 | Spanish <MeloPixel> | 
+ | [Django](/f15/package/Django) | 3993 | 4008 | 99.6 | Spanish (Argentinian) <> | 
+ | [mcrypt](/f15/package/mcrypt) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
+ | [libgweather](/f15/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f15/package/gnomebaker) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
+ | [emerald](/f15/package/emerald) | 671 | 774 | 86.7 | Spanish <es@li.org> | 
+ | [gallery2](/f15/package/gallery2) | 8899 | 11413 | 78.0 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [liblicense](/f15/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [libvisual-plugins](/f15/package/libvisual-plugins) | 354 | 600 | 59.0 | Spanish <es@li.org> | 
+ | [libvisual](/f15/package/libvisual) | 303 | 1055 | 28.7 | Spanish | 
+ | [gimp-lqr-plugin](/f15/package/gimp-lqr-plugin) | 66 | 825 | 8.0 | Español | 
+ | [speedcrunch](/f15/package/speedcrunch) | 1 | 18 | 5.6 | es_AR | 
+ | [bacula](/f15/package/bacula) | 0 | 18155 | 0.0 | Spanish | 
+ | [bacula2](/f15/package/bacula2) | 0 | 18155 | 0.0 | Spanish | 
 {.sortable}
 
 

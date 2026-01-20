@@ -18,32 +18,32 @@ The package libgovirt (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/eu.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/fur.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/it.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/lt.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/pt.po/mnt/stockage/packages/f35/libgovirt/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/sr@latin.po/mnt/stockage/packages/f35/libgovirt/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/zh_CN.po | 
+ | [bs](/f35/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/bs.po | 
+ | [cs](/f35/language/cs) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/cs.po | 
+ | [da](/f35/language/da) | 91 | 91 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/da.po | 
+ | [de](/f35/language/de) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/de.po | 
+ | [el](/f35/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/el.po | 
+ | [es](/f35/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/es.po | 
+ | [eu](/f35/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/eu.po | 
+ | [fr](/f35/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/fr.po | 
+ | [fur](/f35/language/fur) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/fur.po | 
+ | [hr](/f35/language/hr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/hr.po | 
+ | [hu](/f35/language/hu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/hu.po | 
+ | [id](/f35/language/id) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/id.po | 
+ | [it](/f35/language/it) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/it.po | 
+ | [lt](/f35/language/lt) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/lt.po | 
+ | [nl](/f35/language/nl) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/nl.po | 
+ | [oc](/f35/language/oc) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/oc.po | 
+ | [pl](/f35/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/pt.po/mnt/stockage/packages/f35/libgovirt/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/ro.po | 
+ | [ru](/f35/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/ru.po | 
+ | [sl](/f35/language/sl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/sl.po | 
+ | [sr](/f35/language/sr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/sr@latin.po/mnt/stockage/packages/f35/libgovirt/po/sr.po | 
+ | [sv](/f35/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/sv.po | 
+ | [tr](/f35/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/tr.po | 
+ | [uk](/f35/language/uk) | 98 | 98 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 102 | 102 | 100.0 | /mnt/stockage/packages/f35/libgovirt/po/zh_CN.po | 
 {.sortable}
 
 

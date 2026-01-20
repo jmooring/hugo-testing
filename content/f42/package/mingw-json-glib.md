@@ -18,62 +18,62 @@ The package mingw-json-glib (version 1.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f42/language/as.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/as.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/be.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/bg.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/bn_IN.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/bs.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ca.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ca@valencia.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/el.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/es.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/et.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/eu.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/fur.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/gl.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/he.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/hi.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/it.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ko.po | 
- | [ky]({{< ref "/f42/language/ky.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ky.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/lt.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/lv.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ml.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ms.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/nl.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/oc.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/or.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pa.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 610 | 610 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sr@latin.po/mnt/stockage/packages/f42/mingw-json-glib/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sv.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/te.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/tg.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/zh_HK.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 244 | 254 | 96.1 | /mnt/stockage/packages/f42/mingw-json-glib/po/vi.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 208 | 226 | 92.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ug.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 282 | 307 | 91.9 | /mnt/stockage/packages/f42/mingw-json-glib/po/ja.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 239 | 303 | 78.9 | /mnt/stockage/packages/f42/mingw-json-glib/po/ne.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 221 | 303 | 72.9 | /mnt/stockage/packages/f42/mingw-json-glib/po/eo.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 159 | 303 | 52.5 | /mnt/stockage/packages/f42/mingw-json-glib/po/nb.po | 
+ | [as](/f42/language/as) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/as.po | 
+ | [be](/f42/language/be) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/be.po | 
+ | [bg](/f42/language/bg) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/bg.po | 
+ | [bn](/f42/language/bn) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/bn_IN.po | 
+ | [bs](/f42/language/bs) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/bs.po | 
+ | [ca](/f42/language/ca) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ca.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ca@valencia.po | 
+ | [cs](/f42/language/cs) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/cs.po | 
+ | [da](/f42/language/da) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/da.po | 
+ | [de](/f42/language/de) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/de.po | 
+ | [el](/f42/language/el) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/el.po | 
+ | [en_GB](/f42/language/en_GB) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/en_GB.po | 
+ | [es](/f42/language/es) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/es.po | 
+ | [et](/f42/language/et) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/et.po | 
+ | [eu](/f42/language/eu) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/eu.po | 
+ | [fr](/f42/language/fr) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/fr.po | 
+ | [fur](/f42/language/fur) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/fur.po | 
+ | [gl](/f42/language/gl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/gl.po | 
+ | [he](/f42/language/he) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/he.po | 
+ | [hi](/f42/language/hi) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/hi.po | 
+ | [hr](/f42/language/hr) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/hr.po | 
+ | [hu](/f42/language/hu) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/hu.po | 
+ | [id](/f42/language/id) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/id.po | 
+ | [it](/f42/language/it) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/it.po | 
+ | [ko](/f42/language/ko) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ko.po | 
+ | [ky](/f42/language/ky) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ky.po | 
+ | [lt](/f42/language/lt) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/lt.po | 
+ | [lv](/f42/language/lv) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/lv.po | 
+ | [ml](/f42/language/ml) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ml.po | 
+ | [ms](/f42/language/ms) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ms.po | 
+ | [nl](/f42/language/nl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/nl.po | 
+ | [oc](/f42/language/oc) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/oc.po | 
+ | [or](/f42/language/or) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/or.po | 
+ | [pa](/f42/language/pa) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pa.po | 
+ | [pl](/f42/language/pl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pl.po | 
+ | [pt](/f42/language/pt) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ro.po | 
+ | [ru](/f42/language/ru) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ru.po | 
+ | [sk](/f42/language/sk) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sk.po | 
+ | [sl](/f42/language/sl) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sl.po | 
+ | [sr](/f42/language/sr) | 610 | 610 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sr@latin.po/mnt/stockage/packages/f42/mingw-json-glib/po/sr.po | 
+ | [sv](/f42/language/sv) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/sv.po | 
+ | [te](/f42/language/te) | 226 | 226 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/te.po | 
+ | [tg](/f42/language/tg) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/tg.po | 
+ | [tr](/f42/language/tr) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/tr.po | 
+ | [uk](/f42/language/uk) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 307 | 307 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/zh_TW.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 303 | 303 | 100.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/zh_HK.po | 
+ | [vi](/f42/language/vi) | 244 | 254 | 96.1 | /mnt/stockage/packages/f42/mingw-json-glib/po/vi.po | 
+ | [ug](/f42/language/ug) | 208 | 226 | 92.0 | /mnt/stockage/packages/f42/mingw-json-glib/po/ug.po | 
+ | [ja](/f42/language/ja) | 282 | 307 | 91.9 | /mnt/stockage/packages/f42/mingw-json-glib/po/ja.po | 
+ | [ne](/f42/language/ne) | 239 | 303 | 78.9 | /mnt/stockage/packages/f42/mingw-json-glib/po/ne.po | 
+ | [eo](/f42/language/eo) | 221 | 303 | 72.9 | /mnt/stockage/packages/f42/mingw-json-glib/po/eo.po | 
+ | [nb_NO](/f42/language/nb_NO) | 159 | 303 | 52.5 | /mnt/stockage/packages/f42/mingw-json-glib/po/nb.po | 
 {.sortable}
 
 

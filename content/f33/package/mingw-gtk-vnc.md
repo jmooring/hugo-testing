@@ -18,51 +18,51 @@ The package mingw-gtk-vnc (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/bs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ca.po/mnt/stockage/packages/f33/mingw-gtk-vnc/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/en_GB.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/eu.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/fur.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/gd.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/gl.po | 
- | [guc]({{< ref "/f33/language/guc.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/guc.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/he.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/lv.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/nb.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/nds.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/nl.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/oc.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pa.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sr.po/mnt/stockage/packages/f33/mingw-gtk-vnc/po/sr@latin.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sv.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/te.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/tg.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/th.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 150 | 162 | 92.6 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/zh_HK.po/mnt/stockage/packages/f33/mingw-gtk-vnc/po/zh_TW.po | 
+ | [bs](/f33/language/bs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/bs.po | 
+ | [ca](/f33/language/ca) | 89 | 89 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ca.po/mnt/stockage/packages/f33/mingw-gtk-vnc/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/cs.po | 
+ | [da](/f33/language/da) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/da.po | 
+ | [de](/f33/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/de.po | 
+ | [el](/f33/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/en_GB.po | 
+ | [eo](/f33/language/eo) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/eo.po | 
+ | [es](/f33/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/es.po | 
+ | [eu](/f33/language/eu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/eu.po | 
+ | [fr](/f33/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/fr.po | 
+ | [fur](/f33/language/fur) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/fur.po | 
+ | [gd](/f33/language/gd) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/gd.po | 
+ | [gl](/f33/language/gl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/gl.po | 
+ | [guc](/f33/language/guc) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/guc.po | 
+ | [he](/f33/language/he) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/he.po | 
+ | [hr](/f33/language/hr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/hr.po | 
+ | [hu](/f33/language/hu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/hu.po | 
+ | [id](/f33/language/id) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/id.po | 
+ | [it](/f33/language/it) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/it.po | 
+ | [ja](/f33/language/ja) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ja.po | 
+ | [ko](/f33/language/ko) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ko.po | 
+ | [lt](/f33/language/lt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/lt.po | 
+ | [lv](/f33/language/lv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/lv.po | 
+ | [nb_NO](/f33/language/nb_NO) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/nb.po | 
+ | [nds](/f33/language/nds) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/nds.po | 
+ | [nl](/f33/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/nl.po | 
+ | [oc](/f33/language/oc) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/oc.po | 
+ | [pa](/f33/language/pa) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pa.po | 
+ | [pl](/f33/language/pl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pl.po | 
+ | [pt](/f33/language/pt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ro.po | 
+ | [ru](/f33/language/ru) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/ru.po | 
+ | [sk](/f33/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sk.po | 
+ | [sl](/f33/language/sl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sl.po | 
+ | [sr](/f33/language/sr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sr.po/mnt/stockage/packages/f33/mingw-gtk-vnc/po/sr@latin.po | 
+ | [sv](/f33/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/sv.po | 
+ | [te](/f33/language/te) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/te.po | 
+ | [tg](/f33/language/tg) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/tg.po | 
+ | [th](/f33/language/th) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/th.po | 
+ | [tr](/f33/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/tr.po | 
+ | [uk](/f33/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 150 | 162 | 92.6 | /mnt/stockage/packages/f33/mingw-gtk-vnc/po/zh_HK.po/mnt/stockage/packages/f33/mingw-gtk-vnc/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,54 +18,54 @@ The package camorama (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f16/language/az.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/az.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/bg.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/bs.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/dz.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/en_GB.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sr@Latn.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/gl.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ja.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/lv.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/mk.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/nl.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pt_BR.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 564 | 564 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sq.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sr.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ta.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f16/camorama/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/vi.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 574 | 574 | 100.0 | /mnt/stockage/packages/f16/camorama/po/zh_TW.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 468 | 469 | 99.8 | /mnt/stockage/packages/f16/camorama/po/be.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 422 | 564 | 74.8 | /mnt/stockage/packages/f16/camorama/po/nb.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 418 | 559 | 74.8 | /mnt/stockage/packages/f16/camorama/po/zh_CN.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 311 | 559 | 55.6 | /mnt/stockage/packages/f16/camorama/po/gu.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 306 | 559 | 54.7 | /mnt/stockage/packages/f16/camorama/po/ms.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 64 | 528 | 12.1 | /mnt/stockage/packages/f16/camorama/po/fa.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 51 | 559 | 9.1 | /mnt/stockage/packages/f16/camorama/po/hi.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 42 | 559 | 7.5 | /mnt/stockage/packages/f16/camorama/po/hr.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 39 | 559 | 7.0 | /mnt/stockage/packages/f16/camorama/po/ga.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 24 | 469 | 5.1 | /mnt/stockage/packages/f16/camorama/po/am.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 10 | 533 | 1.9 | /mnt/stockage/packages/f16/camorama/po/ml.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 9 | 559 | 1.6 | /mnt/stockage/packages/f16/camorama/po/rw.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 5 | 586 | 0.9 | /mnt/stockage/packages/f16/camorama/po/ar.po | 
+ | [az](/f16/language/az) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/az.po | 
+ | [bg](/f16/language/bg) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/bg.po | 
+ | [bs](/f16/language/bs) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/bs.po | 
+ | [ca](/f16/language/ca) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ca.po | 
+ | [cs](/f16/language/cs) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/cs.po | 
+ | [da](/f16/language/da) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/da.po | 
+ | [de](/f16/language/de) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/de.po | 
+ | [dz](/f16/language/dz) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/dz.po | 
+ | [en_CA](/f16/language/en_CA) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/en_GB.po | 
+ | [error](/f16/language/error) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sr@Latn.po | 
+ | [es](/f16/language/es) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/es.po | 
+ | [eu](/f16/language/eu) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/eu.po | 
+ | [fi](/f16/language/fi) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/fi.po | 
+ | [fr](/f16/language/fr) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/fr.po | 
+ | [gl](/f16/language/gl) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/gl.po | 
+ | [it](/f16/language/it) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/it.po | 
+ | [ja](/f16/language/ja) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ja.po | 
+ | [lv](/f16/language/lv) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/lv.po | 
+ | [mk](/f16/language/mk) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/mk.po | 
+ | [ne](/f16/language/ne) | 558 | 558 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ne.po | 
+ | [nl](/f16/language/nl) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/nl.po | 
+ | [pa](/f16/language/pa) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pa.po | 
+ | [pl](/f16/language/pl) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pl.po | 
+ | [pt](/f16/language/pt) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/pt_BR.po | 
+ | [sl](/f16/language/sl) | 564 | 564 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sl.po | 
+ | [sq](/f16/language/sq) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sq.po | 
+ | [sr](/f16/language/sr) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sr.po | 
+ | [sv](/f16/language/sv) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/sv.po | 
+ | [ta](/f16/language/ta) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/ta.po | 
+ | [tr](/f16/language/tr) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/camorama/po/tr.po | 
+ | [uk](/f16/language/uk) | 528 | 528 | 100.0 | /mnt/stockage/packages/f16/camorama/po/uk.po | 
+ | [vi](/f16/language/vi) | 586 | 586 | 100.0 | /mnt/stockage/packages/f16/camorama/po/vi.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 574 | 574 | 100.0 | /mnt/stockage/packages/f16/camorama/po/zh_TW.po | 
+ | [be](/f16/language/be) | 468 | 469 | 99.8 | /mnt/stockage/packages/f16/camorama/po/be.po | 
+ | [nb_NO](/f16/language/nb_NO) | 422 | 564 | 74.8 | /mnt/stockage/packages/f16/camorama/po/nb.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 418 | 559 | 74.8 | /mnt/stockage/packages/f16/camorama/po/zh_CN.po | 
+ | [gu](/f16/language/gu) | 311 | 559 | 55.6 | /mnt/stockage/packages/f16/camorama/po/gu.po | 
+ | [ms](/f16/language/ms) | 306 | 559 | 54.7 | /mnt/stockage/packages/f16/camorama/po/ms.po | 
+ | [fa](/f16/language/fa) | 64 | 528 | 12.1 | /mnt/stockage/packages/f16/camorama/po/fa.po | 
+ | [hi](/f16/language/hi) | 51 | 559 | 9.1 | /mnt/stockage/packages/f16/camorama/po/hi.po | 
+ | [hr](/f16/language/hr) | 42 | 559 | 7.5 | /mnt/stockage/packages/f16/camorama/po/hr.po | 
+ | [ga](/f16/language/ga) | 39 | 559 | 7.0 | /mnt/stockage/packages/f16/camorama/po/ga.po | 
+ | [am](/f16/language/am) | 24 | 469 | 5.1 | /mnt/stockage/packages/f16/camorama/po/am.po | 
+ | [ml](/f16/language/ml) | 10 | 533 | 1.9 | /mnt/stockage/packages/f16/camorama/po/ml.po | 
+ | [rw](/f16/language/rw) | 9 | 559 | 1.6 | /mnt/stockage/packages/f16/camorama/po/rw.po | 
+ | [ar](/f16/language/ar) | 5 | 586 | 0.9 | /mnt/stockage/packages/f16/camorama/po/ar.po | 
 {.sortable}
 
 

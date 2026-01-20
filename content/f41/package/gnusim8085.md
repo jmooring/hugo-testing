@@ -18,25 +18,25 @@ The package gnusim8085 (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/es.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/kn.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/lt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/pt_BR.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/th.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 558 | 563 | 99.1 | /mnt/stockage/packages/f41/gnusim8085/po/fr.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 529 | 563 | 94.0 | /mnt/stockage/packages/f41/gnusim8085/po/gu.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 515 | 563 | 91.5 | /mnt/stockage/packages/f41/gnusim8085/po/el.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 377 | 563 | 67.0 | /mnt/stockage/packages/f41/gnusim8085/po/ja.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 279 | 563 | 49.6 | /mnt/stockage/packages/f41/gnusim8085/po/it.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 236 | 563 | 41.9 | /mnt/stockage/packages/f41/gnusim8085/po/ar.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 233 | 563 | 41.4 | /mnt/stockage/packages/f41/gnusim8085/po/eo.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 230 | 563 | 40.9 | /mnt/stockage/packages/f41/gnusim8085/po/ast.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 215 | 563 | 38.2 | /mnt/stockage/packages/f41/gnusim8085/po/ta.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 191 | 563 | 33.9 | /mnt/stockage/packages/f41/gnusim8085/po/ru.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 107 | 563 | 19.0 | /mnt/stockage/packages/f41/gnusim8085/po/nl.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 17 | 563 | 3.0 | /mnt/stockage/packages/f41/gnusim8085/po/mr.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 0 | 563 | 0.0 | /mnt/stockage/packages/f41/gnusim8085/po/nb_NO.po | 
+ | [de](/f41/language/de) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/de.po | 
+ | [es](/f41/language/es) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/es.po | 
+ | [kn](/f41/language/kn) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/kn.po | 
+ | [lt](/f41/language/lt) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/lt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/pt_BR.po | 
+ | [th](/f41/language/th) | 563 | 563 | 100.0 | /mnt/stockage/packages/f41/gnusim8085/po/th.po | 
+ | [fr](/f41/language/fr) | 558 | 563 | 99.1 | /mnt/stockage/packages/f41/gnusim8085/po/fr.po | 
+ | [gu](/f41/language/gu) | 529 | 563 | 94.0 | /mnt/stockage/packages/f41/gnusim8085/po/gu.po | 
+ | [el](/f41/language/el) | 515 | 563 | 91.5 | /mnt/stockage/packages/f41/gnusim8085/po/el.po | 
+ | [ja](/f41/language/ja) | 377 | 563 | 67.0 | /mnt/stockage/packages/f41/gnusim8085/po/ja.po | 
+ | [it](/f41/language/it) | 279 | 563 | 49.6 | /mnt/stockage/packages/f41/gnusim8085/po/it.po | 
+ | [ar](/f41/language/ar) | 236 | 563 | 41.9 | /mnt/stockage/packages/f41/gnusim8085/po/ar.po | 
+ | [eo](/f41/language/eo) | 233 | 563 | 41.4 | /mnt/stockage/packages/f41/gnusim8085/po/eo.po | 
+ | [ast](/f41/language/ast) | 230 | 563 | 40.9 | /mnt/stockage/packages/f41/gnusim8085/po/ast.po | 
+ | [ta](/f41/language/ta) | 215 | 563 | 38.2 | /mnt/stockage/packages/f41/gnusim8085/po/ta.po | 
+ | [ru](/f41/language/ru) | 191 | 563 | 33.9 | /mnt/stockage/packages/f41/gnusim8085/po/ru.po | 
+ | [nl](/f41/language/nl) | 107 | 563 | 19.0 | /mnt/stockage/packages/f41/gnusim8085/po/nl.po | 
+ | [mr](/f41/language/mr) | 17 | 563 | 3.0 | /mnt/stockage/packages/f41/gnusim8085/po/mr.po | 
+ | [nb_NO](/f41/language/nb_NO) | 0 | 563 | 0.0 | /mnt/stockage/packages/f41/gnusim8085/po/nb_NO.po | 
 {.sortable}
 
 

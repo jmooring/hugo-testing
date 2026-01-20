@@ -18,9 +18,9 @@ The package vodovod (version 1.10r19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 444 | 453 | 98.0 | /mnt/stockage/packages/f17/vodovod/po/cs.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 444 | 453 | 98.0 | /mnt/stockage/packages/f17/vodovod/po/sk.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 178 | 453 | 39.3 | /mnt/stockage/packages/f17/vodovod/po/sr.po | 
+ | [cs](/f17/language/cs) | 444 | 453 | 98.0 | /mnt/stockage/packages/f17/vodovod/po/cs.po | 
+ | [sk](/f17/language/sk) | 444 | 453 | 98.0 | /mnt/stockage/packages/f17/vodovod/po/sk.po | 
+ | [sr](/f17/language/sr) | 178 | 453 | 39.3 | /mnt/stockage/packages/f17/vodovod/po/sr.po | 
 {.sortable}
 
 

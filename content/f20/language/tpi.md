@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 91 | 1728 | 5.3 | Tok Pisin <tpi@li.org> | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 51 | 5018 | 1.0 | Tok Pisin <tpi@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f20/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f20/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f20/package/sugar-connect.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f20/package/sugar-memorize.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f20/package/sugar-paint.md" >}}) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f20/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-tamtam]({{< ref "/f20/package/sugar-tamtam.md" >}}) | 0 | 2077 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f20/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f20/package/sugar-visualmatch.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 91 | 1728 | 5.3 | Tok Pisin <tpi@li.org> | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 51 | 5018 | 1.0 | Tok Pisin <tpi@li.org> | 
+ | [olpc-switch-desktop](/f20/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f20/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f20/package/sugar-connect) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f20/package/sugar-memorize) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f20/package/sugar-paint) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f20/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-tamtam](/f20/package/sugar-tamtam) | 0 | 2077 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f20/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f20/package/sugar-visualmatch) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

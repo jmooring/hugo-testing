@@ -18,13 +18,13 @@ The package scim-pinyin (version 0.5.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 832 | 832 | 100.0 | /mnt/stockage/packages/f14/scim-pinyin/po/de.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/de.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 832 | 832 | 100.0 | /mnt/stockage/packages/f14/scim-pinyin/po/ja.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/ja.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 658 | 832 | 79.1 | /mnt/stockage/packages/f14/scim-pinyin/po/zh_CN.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/zh_CN.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 656 | 832 | 78.8 | /mnt/stockage/packages/f14/scim-pinyin/po/fr.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 656 | 832 | 78.8 | /mnt/stockage/packages/f14/scim-pinyin/po/it.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/it.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 656 | 832 | 78.8 | /mnt/stockage/packages/f14/scim-pinyin/po/ko.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/ko.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 653 | 832 | 78.5 | /mnt/stockage/packages/f14/scim-pinyin/po/zh_TW.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/zh_TW.po | 
+ | [de](/f14/language/de) | 832 | 832 | 100.0 | /mnt/stockage/packages/f14/scim-pinyin/po/de.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/de.po | 
+ | [ja](/f14/language/ja) | 832 | 832 | 100.0 | /mnt/stockage/packages/f14/scim-pinyin/po/ja.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/ja.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 658 | 832 | 79.1 | /mnt/stockage/packages/f14/scim-pinyin/po/zh_CN.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/zh_CN.po | 
+ | [fr](/f14/language/fr) | 656 | 832 | 78.8 | /mnt/stockage/packages/f14/scim-pinyin/po/fr.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/fr.po | 
+ | [it](/f14/language/it) | 656 | 832 | 78.8 | /mnt/stockage/packages/f14/scim-pinyin/po/it.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/it.po | 
+ | [ko](/f14/language/ko) | 656 | 832 | 78.8 | /mnt/stockage/packages/f14/scim-pinyin/po/ko.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/ko.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 653 | 832 | 78.5 | /mnt/stockage/packages/f14/scim-pinyin/po/zh_TW.po/mnt/stockage/packages/f14/scim-pinyin/skim/po/zh_TW.po | 
 {.sortable}
 
 

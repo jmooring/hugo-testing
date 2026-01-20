@@ -18,12 +18,12 @@ The package calcurse (version 2.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 4568 | 4629 | 98.7 | /mnt/stockage/packages/f16/calcurse/po/de.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 4180 | 4629 | 90.3 | /mnt/stockage/packages/f16/calcurse/po/ru.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2054 | 4629 | 44.4 | /mnt/stockage/packages/f16/calcurse/po/fr.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 930 | 4629 | 20.1 | /mnt/stockage/packages/f16/calcurse/po/nl.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 610 | 4629 | 13.2 | /mnt/stockage/packages/f16/calcurse/po/es.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 334 | 4629 | 7.2 | /mnt/stockage/packages/f16/calcurse/po/en.po | 
+ | [de](/f16/language/de) | 4568 | 4629 | 98.7 | /mnt/stockage/packages/f16/calcurse/po/de.po | 
+ | [ru](/f16/language/ru) | 4180 | 4629 | 90.3 | /mnt/stockage/packages/f16/calcurse/po/ru.po | 
+ | [fr](/f16/language/fr) | 2054 | 4629 | 44.4 | /mnt/stockage/packages/f16/calcurse/po/fr.po | 
+ | [nl](/f16/language/nl) | 930 | 4629 | 20.1 | /mnt/stockage/packages/f16/calcurse/po/nl.po | 
+ | [es](/f16/language/es) | 610 | 4629 | 13.2 | /mnt/stockage/packages/f16/calcurse/po/es.po | 
+ | [en](/f16/language/en) | 334 | 4629 | 7.2 | /mnt/stockage/packages/f16/calcurse/po/en.po | 
 {.sortable}
 
 

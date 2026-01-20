@@ -18,25 +18,25 @@ The package python-django-debug-toolbar (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/cs/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/pt_BR/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/sk/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/fr/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/it/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/zh_CN/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 316 | 355 | 89.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/ru/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 159 | 355 | 44.8 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/fi/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 151 | 355 | 42.5 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/es/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 147 | 355 | 41.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/pl/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 137 | 355 | 38.6 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/nl/LC_MESSAGES/django.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 89 | 355 | 25.1 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/id/LC_MESSAGES/django.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 77 | 355 | 21.7 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/ca/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 64 | 355 | 18.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/sv_SE/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 52 | 355 | 14.6 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/pt/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 40 | 355 | 11.3 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/uk/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 37 | 355 | 10.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/he/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 0 | 355 | 0.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/en/LC_MESSAGES/django.po | 
+ | [cs](/f21/language/cs) | 355 | 355 | 100.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/cs/LC_MESSAGES/django.po | 
+ | [pt_BR](/f21/language/pt_BR) | 355 | 355 | 100.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [sk](/f21/language/sk) | 355 | 355 | 100.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/sk/LC_MESSAGES/django.po | 
+ | [de](/f21/language/de) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f21/language/fr) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/fr/LC_MESSAGES/django.po | 
+ | [it](/f21/language/it) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/it/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 353 | 355 | 99.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [ru](/f21/language/ru) | 316 | 355 | 89.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/ru/LC_MESSAGES/django.po | 
+ | [fi](/f21/language/fi) | 159 | 355 | 44.8 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/fi/LC_MESSAGES/django.po | 
+ | [es](/f21/language/es) | 151 | 355 | 42.5 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/es/LC_MESSAGES/django.po | 
+ | [pl](/f21/language/pl) | 147 | 355 | 41.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/pl/LC_MESSAGES/django.po | 
+ | [nl](/f21/language/nl) | 137 | 355 | 38.6 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/nl/LC_MESSAGES/django.po | 
+ | [id](/f21/language/id) | 89 | 355 | 25.1 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/id/LC_MESSAGES/django.po | 
+ | [ca](/f21/language/ca) | 77 | 355 | 21.7 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/ca/LC_MESSAGES/django.po | 
+ | [sv](/f21/language/sv) | 64 | 355 | 18.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/sv_SE/LC_MESSAGES/django.po | 
+ | [pt](/f21/language/pt) | 52 | 355 | 14.6 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/pt/LC_MESSAGES/django.po | 
+ | [uk](/f21/language/uk) | 40 | 355 | 11.3 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/uk/LC_MESSAGES/django.po | 
+ | [he](/f21/language/he) | 37 | 355 | 10.4 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/he/LC_MESSAGES/django.po | 
+ | [en](/f21/language/en) | 0 | 355 | 0.0 | /mnt/stockage/packages/f21/python-django-debug-toolbar/debug_toolbar/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

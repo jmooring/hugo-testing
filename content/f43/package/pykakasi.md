@@ -18,7 +18,7 @@ The package pykakasi (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 48 | 51 | 94.1 | /mnt/stockage/packages/f43/pykakasi/docs/locale/ja/LC_MESSAGES/index.po | 
+ | [ja](/f43/language/ja) | 48 | 51 | 94.1 | /mnt/stockage/packages/f43/pykakasi/docs/locale/ja/LC_MESSAGES/index.po | 
 {.sortable}
 
 

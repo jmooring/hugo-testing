@@ -18,42 +18,42 @@ The package gajim (version 1.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 10800 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 10800 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 10800 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/fr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 10797 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/nl.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 10767 | 10800 | 99.7 | /mnt/stockage/packages/f32/gajim/po/ja.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 10767 | 10800 | 99.7 | /mnt/stockage/packages/f32/gajim/po/uk.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 9099 | 10800 | 84.2 | /mnt/stockage/packages/f32/gajim/po/nb_NO.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 8653 | 10800 | 80.1 | /mnt/stockage/packages/f32/gajim/po/zh_CN.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 7855 | 10800 | 72.7 | /mnt/stockage/packages/f32/gajim/po/it.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 7391 | 10800 | 68.4 | /mnt/stockage/packages/f32/gajim/po/ru.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 6752 | 10800 | 62.5 | /mnt/stockage/packages/f32/gajim/po/he.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 6625 | 10800 | 61.3 | /mnt/stockage/packages/f32/gajim/po/pt_BR.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 6266 | 10800 | 58.0 | /mnt/stockage/packages/f32/gajim/po/pl.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 6182 | 10800 | 57.2 | /mnt/stockage/packages/f32/gajim/po/zh_TW.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 6092 | 10800 | 56.4 | /mnt/stockage/packages/f32/gajim/po/kk.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 5652 | 10800 | 52.3 | /mnt/stockage/packages/f32/gajim/po/da.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 5641 | 10800 | 52.2 | /mnt/stockage/packages/f32/gajim/po/sr.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 5556 | 10800 | 51.4 | /mnt/stockage/packages/f32/gajim/po/en_GB.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 5526 | 10800 | 51.2 | /mnt/stockage/packages/f32/gajim/po/hr.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 5524 | 10800 | 51.1 | /mnt/stockage/packages/f32/gajim/po/sr@Latn.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 5521 | 10800 | 51.1 | /mnt/stockage/packages/f32/gajim/po/cs.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 5418 | 10800 | 50.2 | /mnt/stockage/packages/f32/gajim/po/sv.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 5059 | 10800 | 46.8 | /mnt/stockage/packages/f32/gajim/po/bg.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 4866 | 10800 | 45.1 | /mnt/stockage/packages/f32/gajim/po/sk.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 3849 | 10800 | 35.6 | /mnt/stockage/packages/f32/gajim/po/hu.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 3249 | 10800 | 30.1 | /mnt/stockage/packages/f32/gajim/po/be.po | 
- | [be_Latn]({{< ref "/f32/language/be_Latn.md" >}}) | 3249 | 10800 | 30.1 | /mnt/stockage/packages/f32/gajim/po/be@latin.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 3189 | 10800 | 29.5 | /mnt/stockage/packages/f32/gajim/po/eo.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 3184 | 10800 | 29.5 | /mnt/stockage/packages/f32/gajim/po/lt.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 2924 | 10800 | 27.1 | /mnt/stockage/packages/f32/gajim/po/eu.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 2919 | 10800 | 27.0 | /mnt/stockage/packages/f32/gajim/po/gl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 2437 | 10800 | 22.6 | /mnt/stockage/packages/f32/gajim/po/pt.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 2230 | 10800 | 20.6 | /mnt/stockage/packages/f32/gajim/po/el.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 1877 | 10800 | 17.4 | /mnt/stockage/packages/f32/gajim/po/br.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1518 | 10800 | 14.1 | /mnt/stockage/packages/f32/gajim/po/tr.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 821 | 10800 | 7.6 | /mnt/stockage/packages/f32/gajim/po/ca.po | 
+ | [de](/f32/language/de) | 10800 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/de.po | 
+ | [es](/f32/language/es) | 10800 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/es.po | 
+ | [fr](/f32/language/fr) | 10800 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/fr.po | 
+ | [nl](/f32/language/nl) | 10797 | 10800 | 100.0 | /mnt/stockage/packages/f32/gajim/po/nl.po | 
+ | [ja](/f32/language/ja) | 10767 | 10800 | 99.7 | /mnt/stockage/packages/f32/gajim/po/ja.po | 
+ | [uk](/f32/language/uk) | 10767 | 10800 | 99.7 | /mnt/stockage/packages/f32/gajim/po/uk.po | 
+ | [nb_NO](/f32/language/nb_NO) | 9099 | 10800 | 84.2 | /mnt/stockage/packages/f32/gajim/po/nb_NO.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 8653 | 10800 | 80.1 | /mnt/stockage/packages/f32/gajim/po/zh_CN.po | 
+ | [it](/f32/language/it) | 7855 | 10800 | 72.7 | /mnt/stockage/packages/f32/gajim/po/it.po | 
+ | [ru](/f32/language/ru) | 7391 | 10800 | 68.4 | /mnt/stockage/packages/f32/gajim/po/ru.po | 
+ | [he](/f32/language/he) | 6752 | 10800 | 62.5 | /mnt/stockage/packages/f32/gajim/po/he.po | 
+ | [pt_BR](/f32/language/pt_BR) | 6625 | 10800 | 61.3 | /mnt/stockage/packages/f32/gajim/po/pt_BR.po | 
+ | [pl](/f32/language/pl) | 6266 | 10800 | 58.0 | /mnt/stockage/packages/f32/gajim/po/pl.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 6182 | 10800 | 57.2 | /mnt/stockage/packages/f32/gajim/po/zh_TW.po | 
+ | [kk](/f32/language/kk) | 6092 | 10800 | 56.4 | /mnt/stockage/packages/f32/gajim/po/kk.po | 
+ | [da](/f32/language/da) | 5652 | 10800 | 52.3 | /mnt/stockage/packages/f32/gajim/po/da.po | 
+ | [sr](/f32/language/sr) | 5641 | 10800 | 52.2 | /mnt/stockage/packages/f32/gajim/po/sr.po | 
+ | [en](/f32/language/en) | 5556 | 10800 | 51.4 | /mnt/stockage/packages/f32/gajim/po/en_GB.po | 
+ | [hr](/f32/language/hr) | 5526 | 10800 | 51.2 | /mnt/stockage/packages/f32/gajim/po/hr.po | 
+ | [error](/f32/language/error) | 5524 | 10800 | 51.1 | /mnt/stockage/packages/f32/gajim/po/sr@Latn.po | 
+ | [cs](/f32/language/cs) | 5521 | 10800 | 51.1 | /mnt/stockage/packages/f32/gajim/po/cs.po | 
+ | [sv](/f32/language/sv) | 5418 | 10800 | 50.2 | /mnt/stockage/packages/f32/gajim/po/sv.po | 
+ | [bg](/f32/language/bg) | 5059 | 10800 | 46.8 | /mnt/stockage/packages/f32/gajim/po/bg.po | 
+ | [sk](/f32/language/sk) | 4866 | 10800 | 45.1 | /mnt/stockage/packages/f32/gajim/po/sk.po | 
+ | [hu](/f32/language/hu) | 3849 | 10800 | 35.6 | /mnt/stockage/packages/f32/gajim/po/hu.po | 
+ | [be](/f32/language/be) | 3249 | 10800 | 30.1 | /mnt/stockage/packages/f32/gajim/po/be.po | 
+ | [be_Latn](/f32/language/be_Latn) | 3249 | 10800 | 30.1 | /mnt/stockage/packages/f32/gajim/po/be@latin.po | 
+ | [eo](/f32/language/eo) | 3189 | 10800 | 29.5 | /mnt/stockage/packages/f32/gajim/po/eo.po | 
+ | [lt](/f32/language/lt) | 3184 | 10800 | 29.5 | /mnt/stockage/packages/f32/gajim/po/lt.po | 
+ | [eu](/f32/language/eu) | 2924 | 10800 | 27.1 | /mnt/stockage/packages/f32/gajim/po/eu.po | 
+ | [gl](/f32/language/gl) | 2919 | 10800 | 27.0 | /mnt/stockage/packages/f32/gajim/po/gl.po | 
+ | [pt](/f32/language/pt) | 2437 | 10800 | 22.6 | /mnt/stockage/packages/f32/gajim/po/pt.po | 
+ | [el](/f32/language/el) | 2230 | 10800 | 20.6 | /mnt/stockage/packages/f32/gajim/po/el.po | 
+ | [br](/f32/language/br) | 1877 | 10800 | 17.4 | /mnt/stockage/packages/f32/gajim/po/br.po | 
+ | [tr](/f32/language/tr) | 1518 | 10800 | 14.1 | /mnt/stockage/packages/f32/gajim/po/tr.po | 
+ | [ca](/f32/language/ca) | 821 | 10800 | 7.6 | /mnt/stockage/packages/f32/gajim/po/ca.po | 
 {.sortable}
 
 

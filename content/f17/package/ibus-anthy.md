@@ -18,10 +18,10 @@ The package ibus-anthy (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 658 | 658 | 100.0 | /mnt/stockage/packages/f17/ibus-anthy/po/fr.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 658 | 658 | 100.0 | /mnt/stockage/packages/f17/ibus-anthy/po/ja.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 145 | 658 | 22.0 | /mnt/stockage/packages/f17/ibus-anthy/po/el.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 10 | 658 | 1.5 | /mnt/stockage/packages/f17/ibus-anthy/po/zh_CN.po | 
+ | [fr](/f17/language/fr) | 658 | 658 | 100.0 | /mnt/stockage/packages/f17/ibus-anthy/po/fr.po | 
+ | [ja](/f17/language/ja) | 658 | 658 | 100.0 | /mnt/stockage/packages/f17/ibus-anthy/po/ja.po | 
+ | [el](/f17/language/el) | 145 | 658 | 22.0 | /mnt/stockage/packages/f17/ibus-anthy/po/el.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 10 | 658 | 1.5 | /mnt/stockage/packages/f17/ibus-anthy/po/zh_CN.po | 
 {.sortable}
 
 

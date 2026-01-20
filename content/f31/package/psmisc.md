@@ -18,34 +18,34 @@ The package psmisc (version 23.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/de.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/fr.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/hr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/ru.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/sv.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/zh_TW.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/da.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/el.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/eo.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/vi.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 627 | 1028 | 61.0 | /mnt/stockage/packages/f31/psmisc/po/fi.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 627 | 1028 | 61.0 | /mnt/stockage/packages/f31/psmisc/po/hu.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 627 | 1028 | 61.0 | /mnt/stockage/packages/f31/psmisc/po/sr.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 478 | 1028 | 46.5 | /mnt/stockage/packages/f31/psmisc/po/it.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 433 | 1028 | 42.1 | /mnt/stockage/packages/f31/psmisc/po/eu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 433 | 1028 | 42.1 | /mnt/stockage/packages/f31/psmisc/po/id.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 203 | 1028 | 19.7 | /mnt/stockage/packages/f31/psmisc/po/bg.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 203 | 1028 | 19.7 | /mnt/stockage/packages/f31/psmisc/po/ja.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 203 | 1028 | 19.7 | /mnt/stockage/packages/f31/psmisc/po/nb.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 81 | 1028 | 7.9 | /mnt/stockage/packages/f31/psmisc/po/ca.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 81 | 1028 | 7.9 | /mnt/stockage/packages/f31/psmisc/po/ro.po | 
+ | [cs](/f31/language/cs) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/cs.po | 
+ | [de](/f31/language/de) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/de.po | 
+ | [fr](/f31/language/fr) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/fr.po | 
+ | [hr](/f31/language/hr) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/hr.po | 
+ | [nl](/f31/language/nl) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/nl.po | 
+ | [pl](/f31/language/pl) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/pl.po | 
+ | [pt](/f31/language/pt) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/ru.po | 
+ | [sv](/f31/language/sv) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/sv.po | 
+ | [uk](/f31/language/uk) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f31/psmisc/po/zh_TW.po | 
+ | [da](/f31/language/da) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/da.po | 
+ | [el](/f31/language/el) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/el.po | 
+ | [eo](/f31/language/eo) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/eo.po | 
+ | [vi](/f31/language/vi) | 816 | 1028 | 79.4 | /mnt/stockage/packages/f31/psmisc/po/vi.po | 
+ | [fi](/f31/language/fi) | 627 | 1028 | 61.0 | /mnt/stockage/packages/f31/psmisc/po/fi.po | 
+ | [hu](/f31/language/hu) | 627 | 1028 | 61.0 | /mnt/stockage/packages/f31/psmisc/po/hu.po | 
+ | [sr](/f31/language/sr) | 627 | 1028 | 61.0 | /mnt/stockage/packages/f31/psmisc/po/sr.po | 
+ | [it](/f31/language/it) | 478 | 1028 | 46.5 | /mnt/stockage/packages/f31/psmisc/po/it.po | 
+ | [eu](/f31/language/eu) | 433 | 1028 | 42.1 | /mnt/stockage/packages/f31/psmisc/po/eu.po | 
+ | [id](/f31/language/id) | 433 | 1028 | 42.1 | /mnt/stockage/packages/f31/psmisc/po/id.po | 
+ | [bg](/f31/language/bg) | 203 | 1028 | 19.7 | /mnt/stockage/packages/f31/psmisc/po/bg.po | 
+ | [ja](/f31/language/ja) | 203 | 1028 | 19.7 | /mnt/stockage/packages/f31/psmisc/po/ja.po | 
+ | [nb_NO](/f31/language/nb_NO) | 203 | 1028 | 19.7 | /mnt/stockage/packages/f31/psmisc/po/nb.po | 
+ | [ca](/f31/language/ca) | 81 | 1028 | 7.9 | /mnt/stockage/packages/f31/psmisc/po/ca.po | 
+ | [ro](/f31/language/ro) | 81 | 1028 | 7.9 | /mnt/stockage/packages/f31/psmisc/po/ro.po | 
 {.sortable}
 
 

@@ -41,18 +41,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f12/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [pessulus]({{< ref "/f12/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
- | [setuptool]({{< ref "/f12/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-switch-mail]({{< ref "/f12/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f12/package/chkconfig.md" >}}) | 423 | 448 | 94.4 | Balochi <fedora-trans-bal@redhat.com> | 
- | [anaconda]({{< ref "/f12/package/anaconda.md" >}}) | 159 | 8877 | 1.8 | Balochi <fedora-trans-bal@redhat.com> | 
- | [transifex]({{< ref "/f12/package/transifex.md" >}}) | 8 | 1973 | 0.4 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-config-date-docs]({{< ref "/f12/package/system-config-date-docs.md" >}}) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f12/package/system-config-nfs-docs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f12/package/system-config-samba-docs.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f12/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f12/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f12/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [pessulus](/f12/package/pessulus) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
+ | [setuptool](/f12/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-switch-mail](/f12/package/system-switch-mail) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f12/package/chkconfig) | 423 | 448 | 94.4 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [anaconda](/f12/package/anaconda) | 159 | 8877 | 1.8 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [transifex](/f12/package/transifex) | 8 | 1973 | 0.4 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-config-date-docs](/f12/package/system-config-date-docs) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f12/package/system-config-nfs-docs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f12/package/system-config-samba-docs) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f12/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f12/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

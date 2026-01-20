@@ -18,37 +18,37 @@ The package d-feet (version 0.3.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/cs/cs.po/mnt/stockage/packages/f35/d-feet/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/da/da.po/mnt/stockage/packages/f35/d-feet/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/de/de.po/mnt/stockage/packages/f35/d-feet/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/el/el.po/mnt/stockage/packages/f35/d-feet/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/en_GB/en_GB.po/mnt/stockage/packages/f35/d-feet/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/es/es.po/mnt/stockage/packages/f35/d-feet/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/fur.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/gl.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/hu/hu.po/mnt/stockage/packages/f35/d-feet/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/id.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/lv.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/pl/pl.po/mnt/stockage/packages/f35/d-feet/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/d-feet/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/ru.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/sv/sv.po/mnt/stockage/packages/f35/d-feet/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/uk/uk.po/mnt/stockage/packages/f35/d-feet/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 84 | 86 | 97.7 | /mnt/stockage/packages/f35/d-feet/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 36 | 109 | 33.0 | /mnt/stockage/packages/f35/d-feet/po/nb.po | 
+ | [bs](/f35/language/bs) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/bs.po | 
+ | [cs](/f35/language/cs) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/cs/cs.po/mnt/stockage/packages/f35/d-feet/po/cs.po | 
+ | [da](/f35/language/da) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/da/da.po/mnt/stockage/packages/f35/d-feet/po/da.po | 
+ | [de](/f35/language/de) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/de/de.po/mnt/stockage/packages/f35/d-feet/po/de.po | 
+ | [el](/f35/language/el) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/el/el.po/mnt/stockage/packages/f35/d-feet/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 186 | 186 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/en_GB/en_GB.po/mnt/stockage/packages/f35/d-feet/po/en_GB.po | 
+ | [es](/f35/language/es) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/es/es.po/mnt/stockage/packages/f35/d-feet/po/es.po | 
+ | [eu](/f35/language/eu) | 111 | 111 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/eu.po | 
+ | [fi](/f35/language/fi) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/fi.po | 
+ | [fr](/f35/language/fr) | 111 | 111 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/fr.po | 
+ | [fur](/f35/language/fur) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/fur.po | 
+ | [gl](/f35/language/gl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/gl.po | 
+ | [hr](/f35/language/hr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/hr.po | 
+ | [hu](/f35/language/hu) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/hu/hu.po/mnt/stockage/packages/f35/d-feet/po/hu.po | 
+ | [id](/f35/language/id) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/id.po | 
+ | [lv](/f35/language/lv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/lv.po | 
+ | [nl](/f35/language/nl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/nl.po | 
+ | [oc](/f35/language/oc) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/oc.po | 
+ | [pl](/f35/language/pl) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/pl/pl.po/mnt/stockage/packages/f35/d-feet/po/pl.po | 
+ | [pt](/f35/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/d-feet/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/ro.po | 
+ | [ru](/f35/language/ru) | 82 | 82 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/ru.po | 
+ | [sl](/f35/language/sl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/sl.po | 
+ | [sr](/f35/language/sr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 109 | 109 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/sv/sv.po/mnt/stockage/packages/f35/d-feet/po/sv.po | 
+ | [tr](/f35/language/tr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f35/d-feet/po/tr.po | 
+ | [uk](/f35/language/uk) | 198 | 198 | 100.0 | /mnt/stockage/packages/f35/d-feet/help/uk/uk.po/mnt/stockage/packages/f35/d-feet/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 84 | 86 | 97.7 | /mnt/stockage/packages/f35/d-feet/po/zh_CN.po | 
+ | [nb_NO](/f35/language/nb_NO) | 36 | 109 | 33.0 | /mnt/stockage/packages/f35/d-feet/po/nb.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ccsm]({{< ref "/f28/package/ccsm.md" >}}) | 399 | 579 | 68.9 | Mandingo <mnk@li.org> | 
- | [sugar]({{< ref "/f28/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f28/package/sugar-toolkit-gtk3.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ccsm](/f28/package/ccsm) | 399 | 579 | 68.9 | Mandingo <mnk@li.org> | 
+ | [sugar](/f28/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f28/package/sugar-toolkit-gtk3) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

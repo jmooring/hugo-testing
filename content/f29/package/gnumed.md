@@ -18,33 +18,33 @@ The package gnumed (version 1.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f29/language/es.md" >}}) | 29160 | 29401 | 99.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/es.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 28570 | 29401 | 97.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/de.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 39667 | 58802 | 67.5 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ru.po/mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ru_RU.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 8831 | 29401 | 30.0 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/pt_BR.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 8345 | 29401 | 28.4 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/fr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 8192 | 29401 | 27.9 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/nl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 7303 | 29401 | 24.8 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/pt.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 5164 | 29401 | 17.6 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/it.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 4141 | 29401 | 14.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/el.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 3692 | 29401 | 12.6 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/sv.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 2137 | 29401 | 7.3 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/pl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 1694 | 29401 | 5.8 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/sq.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1445 | 29401 | 4.9 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/cs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1225 | 29401 | 4.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ca.po | 
- | [en_CA]({{< ref "/f29/language/en_CA.md" >}}) | 842 | 29401 | 2.9 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/en_CA.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 493 | 29401 | 1.7 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/sr.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 221 | 29401 | 0.8 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/en_AU.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 156 | 29401 | 0.5 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/id.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 128 | 29401 | 0.4 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/da.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 99 | 29401 | 0.3 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/zh_TW.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 81 | 29401 | 0.3 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ar.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 73 | 29401 | 0.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/nb.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 57 | 29401 | 0.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/tr.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 43 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ro.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 36 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ka.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 30 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/bg.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 17 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/uk.po | 
+ | [es](/f29/language/es) | 29160 | 29401 | 99.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/es.po | 
+ | [de](/f29/language/de) | 28570 | 29401 | 97.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/de.po | 
+ | [ru](/f29/language/ru) | 39667 | 58802 | 67.5 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ru.po/mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ru_RU.po | 
+ | [pt_BR](/f29/language/pt_BR) | 8831 | 29401 | 30.0 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/pt_BR.po | 
+ | [fr](/f29/language/fr) | 8345 | 29401 | 28.4 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/fr.po | 
+ | [nl](/f29/language/nl) | 8192 | 29401 | 27.9 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/nl.po | 
+ | [pt](/f29/language/pt) | 7303 | 29401 | 24.8 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/pt.po | 
+ | [it](/f29/language/it) | 5164 | 29401 | 17.6 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/it.po | 
+ | [el](/f29/language/el) | 4141 | 29401 | 14.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/el.po | 
+ | [sv](/f29/language/sv) | 3692 | 29401 | 12.6 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/sv.po | 
+ | [pl](/f29/language/pl) | 2137 | 29401 | 7.3 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/pl.po | 
+ | [sq](/f29/language/sq) | 1694 | 29401 | 5.8 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/sq.po | 
+ | [cs](/f29/language/cs) | 1445 | 29401 | 4.9 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/cs.po | 
+ | [ca](/f29/language/ca) | 1225 | 29401 | 4.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ca.po | 
+ | [en_CA](/f29/language/en_CA) | 842 | 29401 | 2.9 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/en_CA.po | 
+ | [sr](/f29/language/sr) | 493 | 29401 | 1.7 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/sr.po | 
+ | [en_AU](/f29/language/en_AU) | 221 | 29401 | 0.8 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/en_AU.po | 
+ | [id](/f29/language/id) | 156 | 29401 | 0.5 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/id.po | 
+ | [da](/f29/language/da) | 128 | 29401 | 0.4 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/da.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 99 | 29401 | 0.3 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/zh_TW.po | 
+ | [ar](/f29/language/ar) | 81 | 29401 | 0.3 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ar.po | 
+ | [nb_NO](/f29/language/nb_NO) | 73 | 29401 | 0.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/nb.po | 
+ | [tr](/f29/language/tr) | 57 | 29401 | 0.2 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/tr.po | 
+ | [ro](/f29/language/ro) | 43 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ro.po | 
+ | [ka](/f29/language/ka) | 36 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/ka.po | 
+ | [bg](/f29/language/bg) | 30 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/bg.po | 
+ | [uk](/f29/language/uk) | 17 | 29401 | 0.1 | /mnt/stockage/packages/f29/gnumed/gnumed-client.1.6.7/client/po/uk.po | 
 {.sortable}
 
 

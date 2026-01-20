@@ -18,72 +18,72 @@ The package system-config-nfs (version 1.3.51):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ast.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/hi.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/id.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/is.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ja.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/kn.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ko.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/mai.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/mr.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/nl.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ru.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/si.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sk.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/th.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/zh_TW.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 326 | 332 | 98.2 | /mnt/stockage/packages/f16/system-config-nfs/po/bg.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/bs.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/en_GB.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/hr.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/lv.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/ms.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/ro.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 286 | 332 | 86.1 | /mnt/stockage/packages/f16/system-config-nfs/po/bn.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 264 | 332 | 79.5 | /mnt/stockage/packages/f16/system-config-nfs/po/et.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 220 | 332 | 66.3 | /mnt/stockage/packages/f16/system-config-nfs/po/mk.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 195 | 332 | 58.7 | /mnt/stockage/packages/f16/system-config-nfs/po/ka.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 185 | 332 | 55.7 | /mnt/stockage/packages/f16/system-config-nfs/po/cy.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 62 | 332 | 18.7 | /mnt/stockage/packages/f16/system-config-nfs/po/sl.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 62 | 332 | 18.7 | /mnt/stockage/packages/f16/system-config-nfs/po/tr.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 56 | 332 | 16.9 | /mnt/stockage/packages/f16/system-config-nfs/po/fa.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 49 | 332 | 14.8 | /mnt/stockage/packages/f16/system-config-nfs/po/vi.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/hy.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ku.po | 
- | [lo]({{< ref "/f16/language/lo.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/lo.po | 
- | [my]({{< ref "/f16/language/my.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/my.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sq.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ur.po | 
+ | [ar](/f16/language/ar) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ar.po | 
+ | [as](/f16/language/as) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/as.po | 
+ | [ast](/f16/language/ast) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ast.po | 
+ | [bn_IN](/f16/language/bn_IN) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ca.po | 
+ | [cs](/f16/language/cs) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/cs.po | 
+ | [da](/f16/language/da) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/da.po | 
+ | [de](/f16/language/de) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/de.po | 
+ | [el](/f16/language/el) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/el.po | 
+ | [es](/f16/language/es) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/es.po | 
+ | [fi](/f16/language/fi) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/fi.po | 
+ | [fr](/f16/language/fr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/fr.po | 
+ | [gu](/f16/language/gu) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/gu.po | 
+ | [he](/f16/language/he) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/he.po | 
+ | [hi](/f16/language/hi) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/hi.po | 
+ | [hu](/f16/language/hu) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/hu.po | 
+ | [id](/f16/language/id) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/id.po | 
+ | [is](/f16/language/is) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/is.po | 
+ | [it](/f16/language/it) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/it.po | 
+ | [ja](/f16/language/ja) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ja.po | 
+ | [kn](/f16/language/kn) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/kn.po | 
+ | [ko](/f16/language/ko) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ko.po | 
+ | [mai](/f16/language/mai) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/mai.po | 
+ | [ml](/f16/language/ml) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ml.po | 
+ | [mr](/f16/language/mr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/mr.po | 
+ | [nb_NO](/f16/language/nb_NO) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/nb.po | 
+ | [nl](/f16/language/nl) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/nl.po | 
+ | [or](/f16/language/or) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/or.po | 
+ | [pa](/f16/language/pa) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pa.po | 
+ | [pl](/f16/language/pl) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pl.po | 
+ | [pt](/f16/language/pt) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ru.po | 
+ | [si](/f16/language/si) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/si.po | 
+ | [sk](/f16/language/sk) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sk.po | 
+ | [sr](/f16/language/sr) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sv.po | 
+ | [ta](/f16/language/ta) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ta.po | 
+ | [te](/f16/language/te) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/te.po | 
+ | [th](/f16/language/th) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/th.po | 
+ | [uk](/f16/language/uk) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 332 | 332 | 100.0 | /mnt/stockage/packages/f16/system-config-nfs/po/zh_TW.po | 
+ | [bg](/f16/language/bg) | 326 | 332 | 98.2 | /mnt/stockage/packages/f16/system-config-nfs/po/bg.po | 
+ | [bs](/f16/language/bs) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/bs.po | 
+ | [en_GB](/f16/language/en_GB) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/en_GB.po | 
+ | [hr](/f16/language/hr) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/hr.po | 
+ | [lv](/f16/language/lv) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/lv.po | 
+ | [ms](/f16/language/ms) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/ms.po | 
+ | [ro](/f16/language/ro) | 306 | 332 | 92.2 | /mnt/stockage/packages/f16/system-config-nfs/po/ro.po | 
+ | [bn](/f16/language/bn) | 286 | 332 | 86.1 | /mnt/stockage/packages/f16/system-config-nfs/po/bn.po | 
+ | [et](/f16/language/et) | 264 | 332 | 79.5 | /mnt/stockage/packages/f16/system-config-nfs/po/et.po | 
+ | [mk](/f16/language/mk) | 220 | 332 | 66.3 | /mnt/stockage/packages/f16/system-config-nfs/po/mk.po | 
+ | [ka](/f16/language/ka) | 195 | 332 | 58.7 | /mnt/stockage/packages/f16/system-config-nfs/po/ka.po | 
+ | [cy](/f16/language/cy) | 185 | 332 | 55.7 | /mnt/stockage/packages/f16/system-config-nfs/po/cy.po | 
+ | [sl](/f16/language/sl) | 62 | 332 | 18.7 | /mnt/stockage/packages/f16/system-config-nfs/po/sl.po | 
+ | [tr](/f16/language/tr) | 62 | 332 | 18.7 | /mnt/stockage/packages/f16/system-config-nfs/po/tr.po | 
+ | [fa](/f16/language/fa) | 56 | 332 | 16.9 | /mnt/stockage/packages/f16/system-config-nfs/po/fa.po | 
+ | [vi](/f16/language/vi) | 49 | 332 | 14.8 | /mnt/stockage/packages/f16/system-config-nfs/po/vi.po | 
+ | [hy](/f16/language/hy) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/hy.po | 
+ | [ku](/f16/language/ku) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ku.po | 
+ | [lo](/f16/language/lo) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/lo.po | 
+ | [my](/f16/language/my) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/my.po | 
+ | [sq](/f16/language/sq) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/sq.po | 
+ | [ur](/f16/language/ur) | 0 | 332 | 0.0 | /mnt/stockage/packages/f16/system-config-nfs/po/ur.po | 
 {.sortable}
 
 

@@ -18,54 +18,54 @@ The package gcompris-qt (version 0.97):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f32/language/br.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_br.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ca.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_eu.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_it.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_mk.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ml.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_nl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_pt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ro.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_uk.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 27230 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 27230 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_pt_BR.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 27230 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_zh_TW.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 27184 | 27234 | 99.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_gl.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 27124 | 27234 | 99.6 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_sk.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 26189 | 27234 | 96.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_de.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 26106 | 27234 | 95.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_id.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 25991 | 27234 | 95.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_tr.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 25963 | 27234 | 95.3 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ca@valencia.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 25963 | 27234 | 95.3 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_hu.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 24574 | 27230 | 90.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_nn.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 24262 | 27234 | 89.1 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_et.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 21770 | 27234 | 79.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ga.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 21035 | 27234 | 77.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_fi.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 20293 | 27234 | 74.5 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ru.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 19437 | 27234 | 71.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_hi.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 17371 | 27234 | 63.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_be.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 16847 | 27234 | 61.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_zh_CN.po | 
- | [gd]({{< ref "/f32/language/gd.md" >}}) | 16152 | 27234 | 59.3 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_gd.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 12118 | 27234 | 44.5 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_sl.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 3590 | 27234 | 13.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_cs.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 3037 | 27234 | 11.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ar.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 2112 | 27234 | 7.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_da.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 1859 | 27234 | 6.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_lv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 1743 | 27234 | 6.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ta.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1655 | 27234 | 6.1 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_bg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 1655 | 27234 | 6.1 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_th.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 781 | 27234 | 2.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ko.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 646 | 27234 | 2.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_bs.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 48 | 27234 | 0.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_en.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 9 | 27230 | 0.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_nb.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 0 | 27234 | 0.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ast.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 27234 | 0.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ja.po | 
+ | [br](/f32/language/br) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_br.po | 
+ | [ca](/f32/language/ca) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ca.po | 
+ | [el](/f32/language/el) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_el.po | 
+ | [en_GB](/f32/language/en_GB) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_en_GB.po | 
+ | [es](/f32/language/es) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_es.po | 
+ | [eu](/f32/language/eu) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_eu.po | 
+ | [fr](/f32/language/fr) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_fr.po | 
+ | [it](/f32/language/it) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_it.po | 
+ | [mk](/f32/language/mk) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_mk.po | 
+ | [ml](/f32/language/ml) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ml.po | 
+ | [nl](/f32/language/nl) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_nl.po | 
+ | [pt](/f32/language/pt) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_pt.po | 
+ | [ro](/f32/language/ro) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ro.po | 
+ | [sv](/f32/language/sv) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_sv.po | 
+ | [uk](/f32/language/uk) | 27234 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_uk.po | 
+ | [pl](/f32/language/pl) | 27230 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 27230 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_pt_BR.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 27230 | 27234 | 100.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_zh_TW.po | 
+ | [gl](/f32/language/gl) | 27184 | 27234 | 99.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_gl.po | 
+ | [sk](/f32/language/sk) | 27124 | 27234 | 99.6 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_sk.po | 
+ | [de](/f32/language/de) | 26189 | 27234 | 96.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_de.po | 
+ | [id](/f32/language/id) | 26106 | 27234 | 95.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_id.po | 
+ | [tr](/f32/language/tr) | 25991 | 27234 | 95.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_tr.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 25963 | 27234 | 95.3 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ca@valencia.po | 
+ | [hu](/f32/language/hu) | 25963 | 27234 | 95.3 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_hu.po | 
+ | [nn](/f32/language/nn) | 24574 | 27230 | 90.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_nn.po | 
+ | [et](/f32/language/et) | 24262 | 27234 | 89.1 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_et.po | 
+ | [ga](/f32/language/ga) | 21770 | 27234 | 79.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ga.po | 
+ | [fi](/f32/language/fi) | 21035 | 27234 | 77.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_fi.po | 
+ | [ru](/f32/language/ru) | 20293 | 27234 | 74.5 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ru.po | 
+ | [hi](/f32/language/hi) | 19437 | 27234 | 71.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_hi.po | 
+ | [be](/f32/language/be) | 17371 | 27234 | 63.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_be.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 16847 | 27234 | 61.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_zh_CN.po | 
+ | [gd](/f32/language/gd) | 16152 | 27234 | 59.3 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_gd.po | 
+ | [sl](/f32/language/sl) | 12118 | 27234 | 44.5 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_sl.po | 
+ | [cs](/f32/language/cs) | 3590 | 27234 | 13.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_cs.po | 
+ | [ar](/f32/language/ar) | 3037 | 27234 | 11.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ar.po | 
+ | [da](/f32/language/da) | 2112 | 27234 | 7.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_da.po | 
+ | [lv](/f32/language/lv) | 1859 | 27234 | 6.8 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_lv.po | 
+ | [ta](/f32/language/ta) | 1743 | 27234 | 6.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ta.po | 
+ | [bg](/f32/language/bg) | 1655 | 27234 | 6.1 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_bg.po | 
+ | [th](/f32/language/th) | 1655 | 27234 | 6.1 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_th.po | 
+ | [ko](/f32/language/ko) | 781 | 27234 | 2.9 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ko.po | 
+ | [bs](/f32/language/bs) | 646 | 27234 | 2.4 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_bs.po | 
+ | [en](/f32/language/en) | 48 | 27234 | 0.2 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_en.po | 
+ | [nb_NO](/f32/language/nb_NO) | 9 | 27230 | 0.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_nb.po | 
+ | [ast](/f32/language/ast) | 0 | 27234 | 0.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ast.po | 
+ | [ja](/f32/language/ja) | 0 | 27234 | 0.0 | /mnt/stockage/packages/f32/gcompris-qt/po/gcompris_ja.po | 
 {.sortable}
 
 

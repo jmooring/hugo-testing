@@ -18,37 +18,37 @@ The package nano (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/de.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/eo.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/nl.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/zh_CN.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/da.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/it.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/ru.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/vi.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 2536 | 2689 | 94.3 | /mnt/stockage/packages/f19/nano/po/ca.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 2389 | 2689 | 88.8 | /mnt/stockage/packages/f19/nano/po/ga.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 2389 | 2689 | 88.8 | /mnt/stockage/packages/f19/nano/po/ms.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/bg.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/es.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/nb.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/sv.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 1810 | 2689 | 67.3 | /mnt/stockage/packages/f19/nano/po/eu.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 1447 | 2689 | 53.8 | /mnt/stockage/packages/f19/nano/po/zh_TW.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 1263 | 2689 | 47.0 | /mnt/stockage/packages/f19/nano/po/ro.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/id.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/sr.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/uk.po | 
- | [nn]({{< ref "/f19/language/nn.md" >}}) | 310 | 2689 | 11.5 | /mnt/stockage/packages/f19/nano/po/nn.po | 
- | [rw]({{< ref "/f19/language/rw.md" >}}) | 29 | 2689 | 1.1 | /mnt/stockage/packages/f19/nano/po/rw.po | 
+ | [de](/f19/language/de) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/de.po | 
+ | [eo](/f19/language/eo) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/eo.po | 
+ | [fi](/f19/language/fi) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/fi.po | 
+ | [fr](/f19/language/fr) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/fr.po | 
+ | [nl](/f19/language/nl) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/nl.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 2689 | 2689 | 100.0 | /mnt/stockage/packages/f19/nano/po/zh_CN.po | 
+ | [cs](/f19/language/cs) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/cs.po | 
+ | [da](/f19/language/da) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/da.po | 
+ | [gl](/f19/language/gl) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/gl.po | 
+ | [hu](/f19/language/hu) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/hu.po | 
+ | [it](/f19/language/it) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/it.po | 
+ | [pl](/f19/language/pl) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/ru.po | 
+ | [vi](/f19/language/vi) | 2570 | 2689 | 95.6 | /mnt/stockage/packages/f19/nano/po/vi.po | 
+ | [ca](/f19/language/ca) | 2536 | 2689 | 94.3 | /mnt/stockage/packages/f19/nano/po/ca.po | 
+ | [ga](/f19/language/ga) | 2389 | 2689 | 88.8 | /mnt/stockage/packages/f19/nano/po/ga.po | 
+ | [ms](/f19/language/ms) | 2389 | 2689 | 88.8 | /mnt/stockage/packages/f19/nano/po/ms.po | 
+ | [bg](/f19/language/bg) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/bg.po | 
+ | [es](/f19/language/es) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/es.po | 
+ | [nb_NO](/f19/language/nb_NO) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/nb.po | 
+ | [sv](/f19/language/sv) | 2102 | 2689 | 78.2 | /mnt/stockage/packages/f19/nano/po/sv.po | 
+ | [eu](/f19/language/eu) | 1810 | 2689 | 67.3 | /mnt/stockage/packages/f19/nano/po/eu.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 1447 | 2689 | 53.8 | /mnt/stockage/packages/f19/nano/po/zh_TW.po | 
+ | [ro](/f19/language/ro) | 1263 | 2689 | 47.0 | /mnt/stockage/packages/f19/nano/po/ro.po | 
+ | [id](/f19/language/id) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/id.po | 
+ | [sr](/f19/language/sr) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/sr.po | 
+ | [tr](/f19/language/tr) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/tr.po | 
+ | [uk](/f19/language/uk) | 659 | 2689 | 24.5 | /mnt/stockage/packages/f19/nano/po/uk.po | 
+ | [nn](/f19/language/nn) | 310 | 2689 | 11.5 | /mnt/stockage/packages/f19/nano/po/nn.po | 
+ | [rw](/f19/language/rw) | 29 | 2689 | 1.1 | /mnt/stockage/packages/f19/nano/po/rw.po | 
 {.sortable}
 
 

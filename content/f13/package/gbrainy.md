@@ -18,22 +18,22 @@ The package gbrainy (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/ca.po | 
- | [ca@valencia]({{< ref "/f13/language/ca@valencia.md" >}}) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/ca@valencia.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/de.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 2562 | 2562 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 2562 | 2562 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/it.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 2758 | 2758 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/pt_BR.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/sk.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 2890 | 2890 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/zh_CN.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 2560 | 2562 | 99.9 | /mnt/stockage/packages/f13/gbrainy/po/gl.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 2481 | 2554 | 97.1 | /mnt/stockage/packages/f13/gbrainy/po/ar.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 2446 | 2562 | 95.5 | /mnt/stockage/packages/f13/gbrainy/po/nl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1159 | 1864 | 62.2 | /mnt/stockage/packages/f13/gbrainy/po/sv.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 629 | 2890 | 21.8 | /mnt/stockage/packages/f13/gbrainy/po/eu.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 95 | 2562 | 3.7 | /mnt/stockage/packages/f13/gbrainy/po/nb.po | 
+ | [ca](/f13/language/ca) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/ca.po | 
+ | [ca@valencia](/f13/language/ca@valencia) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/ca@valencia.po | 
+ | [de](/f13/language/de) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/de.po | 
+ | [en_GB](/f13/language/en_GB) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/en_GB.po | 
+ | [es](/f13/language/es) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/es.po | 
+ | [fr](/f13/language/fr) | 2562 | 2562 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/fr.po | 
+ | [it](/f13/language/it) | 2562 | 2562 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/it.po | 
+ | [pt_BR](/f13/language/pt_BR) | 2758 | 2758 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/pt_BR.po | 
+ | [sk](/f13/language/sk) | 3050 | 3050 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/sk.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 2890 | 2890 | 100.0 | /mnt/stockage/packages/f13/gbrainy/po/zh_CN.po | 
+ | [gl](/f13/language/gl) | 2560 | 2562 | 99.9 | /mnt/stockage/packages/f13/gbrainy/po/gl.po | 
+ | [ar](/f13/language/ar) | 2481 | 2554 | 97.1 | /mnt/stockage/packages/f13/gbrainy/po/ar.po | 
+ | [nl](/f13/language/nl) | 2446 | 2562 | 95.5 | /mnt/stockage/packages/f13/gbrainy/po/nl.po | 
+ | [sv](/f13/language/sv) | 1159 | 1864 | 62.2 | /mnt/stockage/packages/f13/gbrainy/po/sv.po | 
+ | [eu](/f13/language/eu) | 629 | 2890 | 21.8 | /mnt/stockage/packages/f13/gbrainy/po/eu.po | 
+ | [nb_NO](/f13/language/nb_NO) | 95 | 2562 | 3.7 | /mnt/stockage/packages/f13/gbrainy/po/nb.po | 
 {.sortable}
 
 

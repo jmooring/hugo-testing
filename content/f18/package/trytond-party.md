@@ -18,16 +18,16 @@ The package trytond-party (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/fr_FR.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 297 | 299 | 99.3 | /mnt/stockage/packages/f18/trytond-party/locale/bg_BG.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 195 | 299 | 65.2 | /mnt/stockage/packages/f18/trytond-party/locale/nl_NL.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 164 | 301 | 54.5 | /mnt/stockage/packages/f18/trytond-party/locale/ca_ES.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 158 | 303 | 52.1 | /mnt/stockage/packages/f18/trytond-party/locale/es_CO.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 149 | 312 | 47.8 | /mnt/stockage/packages/f18/trytond-party/locale/ru_RU.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 299 | 0.0 | /mnt/stockage/packages/f18/trytond-party/locale/cs_CZ.po | 
+ | [de](/f18/language/de) | 304 | 304 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/de_DE.po | 
+ | [es](/f18/language/es) | 301 | 301 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 301 | 301 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 388 | 388 | 100.0 | /mnt/stockage/packages/f18/trytond-party/locale/fr_FR.po | 
+ | [bg](/f18/language/bg) | 297 | 299 | 99.3 | /mnt/stockage/packages/f18/trytond-party/locale/bg_BG.po | 
+ | [nl](/f18/language/nl) | 195 | 299 | 65.2 | /mnt/stockage/packages/f18/trytond-party/locale/nl_NL.po | 
+ | [ca](/f18/language/ca) | 164 | 301 | 54.5 | /mnt/stockage/packages/f18/trytond-party/locale/ca_ES.po | 
+ | [es_CO](/f18/language/es_CO) | 158 | 303 | 52.1 | /mnt/stockage/packages/f18/trytond-party/locale/es_CO.po | 
+ | [ru](/f18/language/ru) | 149 | 312 | 47.8 | /mnt/stockage/packages/f18/trytond-party/locale/ru_RU.po | 
+ | [cs](/f18/language/cs) | 0 | 299 | 0.0 | /mnt/stockage/packages/f18/trytond-party/locale/cs_CZ.po | 
 {.sortable}
 
 

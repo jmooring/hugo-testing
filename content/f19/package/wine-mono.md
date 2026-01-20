@@ -18,11 +18,11 @@ The package wine-mono (version 4.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 4817 | 7073 | 68.1 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/pt_BR.po | 
- | [en]({{< ref "/f19/language/en.md" >}}) | 17 | 36 | 47.2 | /mnt/stockage/packages/f19/wine-mono/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1120 | 7073 | 15.8 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 943 | 7073 | 13.3 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/es.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 276 | 7073 | 3.9 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/de.po | 
+ | [pt_BR](/f19/language/pt_BR) | 4817 | 7073 | 68.1 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/pt_BR.po | 
+ | [en](/f19/language/en) | 17 | 36 | 47.2 | /mnt/stockage/packages/f19/wine-mono/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
+ | [ja](/f19/language/ja) | 1120 | 7073 | 15.8 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/ja.po | 
+ | [es](/f19/language/es) | 943 | 7073 | 13.3 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/es.po | 
+ | [de](/f19/language/de) | 276 | 7073 | 3.9 | /mnt/stockage/packages/f19/wine-mono/mono/po/mcs/de.po | 
 {.sortable}
 
 

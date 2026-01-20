@@ -18,9 +18,9 @@ The package python-oslo-messaging (version 1.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/fr/LC_MESSAGES/oslo.messaging.po/mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/fr/LC_MESSAGES/oslo.messaging-log-error.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 26 | 29 | 89.7 | /mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/en_GB/LC_MESSAGES/oslo.messaging.po/mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/en_GB/LC_MESSAGES/oslo.messaging-log-error.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 18 | 21 | 85.7 | /mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/de/LC_MESSAGES/oslo.messaging.po | 
+ | [fr](/f23/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/fr/LC_MESSAGES/oslo.messaging.po/mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/fr/LC_MESSAGES/oslo.messaging-log-error.po | 
+ | [en_GB](/f23/language/en_GB) | 26 | 29 | 89.7 | /mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/en_GB/LC_MESSAGES/oslo.messaging.po/mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/en_GB/LC_MESSAGES/oslo.messaging-log-error.po | 
+ | [de](/f23/language/de) | 18 | 21 | 85.7 | /mnt/stockage/packages/f23/python-oslo-messaging/oslo.messaging/locale/de/LC_MESSAGES/oslo.messaging.po | 
 {.sortable}
 
 

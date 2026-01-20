@@ -43,11 +43,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kmid]({{< ref "/f9/package/kmid.md" >}}) | 523 | 535 | 97.8 | Kazakh | 
- | [konq-plugins]({{< ref "/f9/package/konq-plugins.md" >}}) | 1334 | 1556 | 85.7 | Kazakh | 
- | [ksig]({{< ref "/f9/package/ksig.md" >}}) | 71 | 85 | 83.5 | Kazakh | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 596 | 1082 | 55.1 | Kazakh | 
- | [jokosher]({{< ref "/f9/package/jokosher.md" >}}) | 3 | 1931 | 0.2 | Kazakh <kk@li.org> | 
+ | [kmid](/f9/package/kmid) | 523 | 535 | 97.8 | Kazakh | 
+ | [konq-plugins](/f9/package/konq-plugins) | 1334 | 1556 | 85.7 | Kazakh | 
+ | [ksig](/f9/package/ksig) | 71 | 85 | 83.5 | Kazakh | 
+ | [iso-codes](/f9/package/iso-codes) | 596 | 1082 | 55.1 | Kazakh | 
+ | [jokosher](/f9/package/jokosher) | 3 | 1931 | 0.2 | Kazakh <kk@li.org> | 
 {.sortable}
 
 

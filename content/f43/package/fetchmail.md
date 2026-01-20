@@ -18,17 +18,17 @@ The package fetchmail (version 6.5.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/de.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/fr.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/ja.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/pl.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/ro.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/sv.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 5163 | 5166 | 99.9 | /mnt/stockage/packages/f43/fetchmail/po/it.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 5136 | 5166 | 99.4 | /mnt/stockage/packages/f43/fetchmail/po/sq.po | 
+ | [cs](/f43/language/cs) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/cs.po | 
+ | [de](/f43/language/de) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/de.po | 
+ | [eo](/f43/language/eo) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/eo.po | 
+ | [es](/f43/language/es) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/es.po | 
+ | [fr](/f43/language/fr) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/fr.po | 
+ | [ja](/f43/language/ja) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/ja.po | 
+ | [pl](/f43/language/pl) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/pl.po | 
+ | [ro](/f43/language/ro) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/ro.po | 
+ | [sv](/f43/language/sv) | 5166 | 5166 | 100.0 | /mnt/stockage/packages/f43/fetchmail/po/sv.po | 
+ | [it](/f43/language/it) | 5163 | 5166 | 99.9 | /mnt/stockage/packages/f43/fetchmail/po/it.po | 
+ | [sq](/f43/language/sq) | 5136 | 5166 | 99.4 | /mnt/stockage/packages/f43/fetchmail/po/sq.po | 
 {.sortable}
 
 

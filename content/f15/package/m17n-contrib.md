@@ -18,8 +18,8 @@ The package m17n-contrib (version 1.1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f15/m17n-contrib/po/de.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 44 | 149 | 29.5 | /mnt/stockage/packages/f15/m17n-contrib/po/eo.po | 
+ | [de](/f15/language/de) | 149 | 149 | 100.0 | /mnt/stockage/packages/f15/m17n-contrib/po/de.po | 
+ | [eo](/f15/language/eo) | 44 | 149 | 29.5 | /mnt/stockage/packages/f15/m17n-contrib/po/eo.po | 
 {.sortable}
 
 

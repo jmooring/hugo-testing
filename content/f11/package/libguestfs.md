@@ -18,8 +18,8 @@ The package libguestfs (version 1.0.72):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 924 | 2299 | 40.2 | /mnt/stockage/packages/f11/libguestfs/po/pl.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/libguestfs/gnulib/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
+ | [pl](/f11/language/pl) | 924 | 2299 | 40.2 | /mnt/stockage/packages/f11/libguestfs/po/pl.po | 
+ | [fr](/f11/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f11/libguestfs/gnulib/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
 {.sortable}
 
 

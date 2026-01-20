@@ -18,23 +18,23 @@ The package minicom (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f7/language/da.md" >}}) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/de.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/no.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/ro.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/sv.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/vi.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1352 | 1787 | 75.7 | /mnt/stockage/packages/f7/minicom/po/cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1352 | 1787 | 75.7 | /mnt/stockage/packages/f7/minicom/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1352 | 1787 | 75.7 | /mnt/stockage/packages/f7/minicom/po/ja.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1334 | 1787 | 74.7 | /mnt/stockage/packages/f7/minicom/po/pl.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1325 | 1787 | 74.1 | /mnt/stockage/packages/f7/minicom/po/fi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1294 | 1787 | 72.4 | /mnt/stockage/packages/f7/minicom/po/hu.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1244 | 1787 | 69.6 | /mnt/stockage/packages/f7/minicom/po/ru.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1177 | 1787 | 65.9 | /mnt/stockage/packages/f7/minicom/po/es.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1177 | 1787 | 65.9 | /mnt/stockage/packages/f7/minicom/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 676 | 1787 | 37.8 | /mnt/stockage/packages/f7/minicom/po/zh_TW.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 12 | 1787 | 0.7 | /mnt/stockage/packages/f7/minicom/po/rw.po | 
+ | [da](/f7/language/da) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/da.po | 
+ | [de](/f7/language/de) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/de.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/no.po | 
+ | [ro](/f7/language/ro) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/ro.po | 
+ | [sv](/f7/language/sv) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/sv.po | 
+ | [vi](/f7/language/vi) | 1361 | 1787 | 76.2 | /mnt/stockage/packages/f7/minicom/po/vi.po | 
+ | [cs](/f7/language/cs) | 1352 | 1787 | 75.7 | /mnt/stockage/packages/f7/minicom/po/cs.po | 
+ | [fr](/f7/language/fr) | 1352 | 1787 | 75.7 | /mnt/stockage/packages/f7/minicom/po/fr.po | 
+ | [ja](/f7/language/ja) | 1352 | 1787 | 75.7 | /mnt/stockage/packages/f7/minicom/po/ja.po | 
+ | [pl](/f7/language/pl) | 1334 | 1787 | 74.7 | /mnt/stockage/packages/f7/minicom/po/pl.po | 
+ | [fi](/f7/language/fi) | 1325 | 1787 | 74.1 | /mnt/stockage/packages/f7/minicom/po/fi.po | 
+ | [hu](/f7/language/hu) | 1294 | 1787 | 72.4 | /mnt/stockage/packages/f7/minicom/po/hu.po | 
+ | [ru](/f7/language/ru) | 1244 | 1787 | 69.6 | /mnt/stockage/packages/f7/minicom/po/ru.po | 
+ | [es](/f7/language/es) | 1177 | 1787 | 65.9 | /mnt/stockage/packages/f7/minicom/po/es.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1177 | 1787 | 65.9 | /mnt/stockage/packages/f7/minicom/po/pt_BR.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 676 | 1787 | 37.8 | /mnt/stockage/packages/f7/minicom/po/zh_TW.po | 
+ | [rw](/f7/language/rw) | 12 | 1787 | 0.7 | /mnt/stockage/packages/f7/minicom/po/rw.po | 
 {.sortable}
 
 

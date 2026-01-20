@@ -18,10 +18,10 @@ The package hydrapaper (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f31/hydrapaper/po/de.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 605 | 605 | 100.0 | /mnt/stockage/packages/f31/hydrapaper/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f31/hydrapaper/po/ru.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 780 | 785 | 99.4 | /mnt/stockage/packages/f31/hydrapaper/po/it.po | 
+ | [de](/f31/language/de) | 500 | 500 | 100.0 | /mnt/stockage/packages/f31/hydrapaper/po/de.po | 
+ | [pt_BR](/f31/language/pt_BR) | 605 | 605 | 100.0 | /mnt/stockage/packages/f31/hydrapaper/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 500 | 500 | 100.0 | /mnt/stockage/packages/f31/hydrapaper/po/ru.po | 
+ | [it](/f31/language/it) | 780 | 785 | 99.4 | /mnt/stockage/packages/f31/hydrapaper/po/it.po | 
 {.sortable}
 
 

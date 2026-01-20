@@ -18,45 +18,45 @@ The package ksanecore (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ar/ksanecore.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/bg/ksanecore.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ca/ksanecore.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ca@valencia/ksanecore.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/de/ksanecore.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/en_GB/ksanecore.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/eo/ksanecore.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/es/ksanecore.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/eu/ksanecore.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/fi/ksanecore.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/fr/ksanecore.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/gl/ksanecore.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/he/ksanecore.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/hi/ksanecore.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/hu/ksanecore.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ia/ksanecore.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/it/ksanecore.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ja/ksanecore.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ka/ksanecore.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ko/ksanecore.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/lt/ksanecore.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/lv/ksanecore.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/nl/ksanecore.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/nn/ksanecore.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/pl/ksanecore.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/pt/ksanecore.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/pt_BR/ksanecore.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ro/ksanecore.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ru/ksanecore.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sa/ksanecore.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sk/ksanecore.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sl/ksanecore.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sv/ksanecore.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/tr/ksanecore.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/uk/ksanecore.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/zh_CN/ksanecore.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/zh_TW/ksanecore.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 27 | 59 | 45.8 | /mnt/stockage/packages/f42/ksanecore/po/cs/ksanecore.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f42/ksanecore/po/ga/ksanecore.po | 
+ | [ar](/f42/language/ar) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ar/ksanecore.po | 
+ | [bg](/f42/language/bg) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/bg/ksanecore.po | 
+ | [ca](/f42/language/ca) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ca/ksanecore.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ca@valencia/ksanecore.po | 
+ | [de](/f42/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/de/ksanecore.po | 
+ | [en_GB](/f42/language/en_GB) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/en_GB/ksanecore.po | 
+ | [eo](/f42/language/eo) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/eo/ksanecore.po | 
+ | [es](/f42/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/es/ksanecore.po | 
+ | [eu](/f42/language/eu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/eu/ksanecore.po | 
+ | [fi](/f42/language/fi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/fi/ksanecore.po | 
+ | [fr](/f42/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/fr/ksanecore.po | 
+ | [gl](/f42/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/gl/ksanecore.po | 
+ | [he](/f42/language/he) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/he/ksanecore.po | 
+ | [hi](/f42/language/hi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/hi/ksanecore.po | 
+ | [hu](/f42/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/hu/ksanecore.po | 
+ | [ia](/f42/language/ia) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ia/ksanecore.po | 
+ | [it](/f42/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/it/ksanecore.po | 
+ | [ja](/f42/language/ja) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ja/ksanecore.po | 
+ | [ka](/f42/language/ka) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ka/ksanecore.po | 
+ | [ko](/f42/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ko/ksanecore.po | 
+ | [lt](/f42/language/lt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/lt/ksanecore.po | 
+ | [lv](/f42/language/lv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/lv/ksanecore.po | 
+ | [nl](/f42/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/nl/ksanecore.po | 
+ | [nn](/f42/language/nn) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/nn/ksanecore.po | 
+ | [pl](/f42/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/pl/ksanecore.po | 
+ | [pt](/f42/language/pt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/pt/ksanecore.po | 
+ | [pt_BR](/f42/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/pt_BR/ksanecore.po | 
+ | [ro](/f42/language/ro) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ro/ksanecore.po | 
+ | [ru](/f42/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/ru/ksanecore.po | 
+ | [sa](/f42/language/sa) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sa/ksanecore.po | 
+ | [sk](/f42/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sk/ksanecore.po | 
+ | [sl](/f42/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sl/ksanecore.po | 
+ | [sv](/f42/language/sv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/sv/ksanecore.po | 
+ | [tr](/f42/language/tr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/tr/ksanecore.po | 
+ | [uk](/f42/language/uk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/uk/ksanecore.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/zh_CN/ksanecore.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 59 | 59 | 100.0 | /mnt/stockage/packages/f42/ksanecore/po/zh_TW/ksanecore.po | 
+ | [cs](/f42/language/cs) | 27 | 59 | 45.8 | /mnt/stockage/packages/f42/ksanecore/po/cs/ksanecore.po | 
+ | [ga](/f42/language/ga) | 0 | 59 | 0.0 | /mnt/stockage/packages/f42/ksanecore/po/ga/ksanecore.po | 
 {.sortable}
 
 

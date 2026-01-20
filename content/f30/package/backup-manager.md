@@ -18,13 +18,13 @@ The package backup-manager (version 0.7.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f30/backup-manager/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1080 | 1160 | 93.1 | /mnt/stockage/packages/f30/backup-manager/po/fr.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 947 | 1055 | 89.8 | /mnt/stockage/packages/f30/backup-manager/po/es.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/cs.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/it.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/nl.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/vi.po | 
+ | [de](/f30/language/de) | 1055 | 1055 | 100.0 | /mnt/stockage/packages/f30/backup-manager/po/de.po | 
+ | [fr](/f30/language/fr) | 1080 | 1160 | 93.1 | /mnt/stockage/packages/f30/backup-manager/po/fr.po | 
+ | [es](/f30/language/es) | 947 | 1055 | 89.8 | /mnt/stockage/packages/f30/backup-manager/po/es.po | 
+ | [cs](/f30/language/cs) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/cs.po | 
+ | [it](/f30/language/it) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/it.po | 
+ | [nl](/f30/language/nl) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/nl.po | 
+ | [vi](/f30/language/vi) | 947 | 1063 | 89.1 | /mnt/stockage/packages/f30/backup-manager/po/vi.po | 
 {.sortable}
 
 

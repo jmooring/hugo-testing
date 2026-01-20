@@ -18,27 +18,27 @@ The package pidgin-musictracker (version 0.4.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/de.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/it.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/ru.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 310 | 333 | 93.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/pt_BR.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 310 | 333 | 93.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/sv.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 294 | 333 | 88.3 | /mnt/stockage/packages/f11/pidgin-musictracker/po/nl.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 200 | 333 | 60.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/fr.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 172 | 333 | 51.7 | /mnt/stockage/packages/f11/pidgin-musictracker/po/pl.po | 
- | [nds]({{< ref "/f11/language/nds.md" >}}) | 166 | 333 | 49.8 | /mnt/stockage/packages/f11/pidgin-musictracker/po/nds.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 111 | 333 | 33.3 | /mnt/stockage/packages/f11/pidgin-musictracker/po/fi.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 97 | 333 | 29.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/cs.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 65 | 333 | 19.5 | /mnt/stockage/packages/f11/pidgin-musictracker/po/sl.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 44 | 326 | 13.5 | /mnt/stockage/packages/f11/pidgin-musictracker/po/eo.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 44 | 333 | 13.2 | /mnt/stockage/packages/f11/pidgin-musictracker/po/he.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 39 | 333 | 11.7 | /mnt/stockage/packages/f11/pidgin-musictracker/po/nb.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 35 | 333 | 10.5 | /mnt/stockage/packages/f11/pidgin-musictracker/po/pt.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 19 | 333 | 5.7 | /mnt/stockage/packages/f11/pidgin-musictracker/po/id.po | 
+ | [da](/f11/language/da) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/da.po | 
+ | [de](/f11/language/de) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/de.po | 
+ | [en_GB](/f11/language/en_GB) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/en_GB.po | 
+ | [es](/f11/language/es) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/es.po | 
+ | [it](/f11/language/it) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/it.po | 
+ | [ru](/f11/language/ru) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/ru.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 333 | 333 | 100.0 | /mnt/stockage/packages/f11/pidgin-musictracker/po/zh_CN.po | 
+ | [pt_BR](/f11/language/pt_BR) | 310 | 333 | 93.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/pt_BR.po | 
+ | [sv](/f11/language/sv) | 310 | 333 | 93.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/sv.po | 
+ | [nl](/f11/language/nl) | 294 | 333 | 88.3 | /mnt/stockage/packages/f11/pidgin-musictracker/po/nl.po | 
+ | [fr](/f11/language/fr) | 200 | 333 | 60.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/fr.po | 
+ | [pl](/f11/language/pl) | 172 | 333 | 51.7 | /mnt/stockage/packages/f11/pidgin-musictracker/po/pl.po | 
+ | [nds](/f11/language/nds) | 166 | 333 | 49.8 | /mnt/stockage/packages/f11/pidgin-musictracker/po/nds.po | 
+ | [fi](/f11/language/fi) | 111 | 333 | 33.3 | /mnt/stockage/packages/f11/pidgin-musictracker/po/fi.po | 
+ | [cs](/f11/language/cs) | 97 | 333 | 29.1 | /mnt/stockage/packages/f11/pidgin-musictracker/po/cs.po | 
+ | [sl](/f11/language/sl) | 65 | 333 | 19.5 | /mnt/stockage/packages/f11/pidgin-musictracker/po/sl.po | 
+ | [eo](/f11/language/eo) | 44 | 326 | 13.5 | /mnt/stockage/packages/f11/pidgin-musictracker/po/eo.po | 
+ | [he](/f11/language/he) | 44 | 333 | 13.2 | /mnt/stockage/packages/f11/pidgin-musictracker/po/he.po | 
+ | [nb_NO](/f11/language/nb_NO) | 39 | 333 | 11.7 | /mnt/stockage/packages/f11/pidgin-musictracker/po/nb.po | 
+ | [pt](/f11/language/pt) | 35 | 333 | 10.5 | /mnt/stockage/packages/f11/pidgin-musictracker/po/pt.po | 
+ | [id](/f11/language/id) | 19 | 333 | 5.7 | /mnt/stockage/packages/f11/pidgin-musictracker/po/id.po | 
 {.sortable}
 
 

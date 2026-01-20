@@ -18,25 +18,25 @@ The package caja-terminal (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/fr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/hu.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/pt_BR.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/tr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 108 | 110 | 98.2 | /mnt/stockage/packages/f25/caja-terminal/locales/it.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 108 | 110 | 98.2 | /mnt/stockage/packages/f25/caja-terminal/locales/lv.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 103 | 110 | 93.6 | /mnt/stockage/packages/f25/caja-terminal/locales/pt.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 103 | 110 | 93.6 | /mnt/stockage/packages/f25/caja-terminal/locales/sv.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 84 | 110 | 76.4 | /mnt/stockage/packages/f25/caja-terminal/locales/bg.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 79 | 110 | 71.8 | /mnt/stockage/packages/f25/caja-terminal/locales/ru.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 72 | 110 | 65.5 | /mnt/stockage/packages/f25/caja-terminal/locales/he.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 63 | 110 | 57.3 | /mnt/stockage/packages/f25/caja-terminal/locales/nl.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 52 | 110 | 47.3 | /mnt/stockage/packages/f25/caja-terminal/locales/ro.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 24 | 110 | 21.8 | /mnt/stockage/packages/f25/caja-terminal/locales/nb.po | 
+ | [ca](/f25/language/ca) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/ca.po | 
+ | [cs](/f25/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/cs.po | 
+ | [de](/f25/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/de.po | 
+ | [es](/f25/language/es) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/es.po | 
+ | [fr](/f25/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/fr.po | 
+ | [hu](/f25/language/hu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/hu.po | 
+ | [pl](/f25/language/pl) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/pt_BR.po | 
+ | [tr](/f25/language/tr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f25/caja-terminal/locales/tr.po | 
+ | [it](/f25/language/it) | 108 | 110 | 98.2 | /mnt/stockage/packages/f25/caja-terminal/locales/it.po | 
+ | [lv](/f25/language/lv) | 108 | 110 | 98.2 | /mnt/stockage/packages/f25/caja-terminal/locales/lv.po | 
+ | [pt](/f25/language/pt) | 103 | 110 | 93.6 | /mnt/stockage/packages/f25/caja-terminal/locales/pt.po | 
+ | [sv](/f25/language/sv) | 103 | 110 | 93.6 | /mnt/stockage/packages/f25/caja-terminal/locales/sv.po | 
+ | [bg](/f25/language/bg) | 84 | 110 | 76.4 | /mnt/stockage/packages/f25/caja-terminal/locales/bg.po | 
+ | [ru](/f25/language/ru) | 79 | 110 | 71.8 | /mnt/stockage/packages/f25/caja-terminal/locales/ru.po | 
+ | [he](/f25/language/he) | 72 | 110 | 65.5 | /mnt/stockage/packages/f25/caja-terminal/locales/he.po | 
+ | [nl](/f25/language/nl) | 63 | 110 | 57.3 | /mnt/stockage/packages/f25/caja-terminal/locales/nl.po | 
+ | [ro](/f25/language/ro) | 52 | 110 | 47.3 | /mnt/stockage/packages/f25/caja-terminal/locales/ro.po | 
+ | [nb_NO](/f25/language/nb_NO) | 24 | 110 | 21.8 | /mnt/stockage/packages/f25/caja-terminal/locales/nb.po | 
 {.sortable}
 
 

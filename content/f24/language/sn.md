@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 0 | 862 | 0.0 | Shona <sn@li.org> | 
- | [onboard]({{< ref "/f24/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Shona <sn@li.org> | 
+ | [mintmenu](/f24/package/mintmenu) | 0 | 862 | 0.0 | Shona <sn@li.org> | 
+ | [onboard](/f24/package/onboard) | 0 | 2318 | 0.0 | Shona <sn@li.org> | 
 {.sortable}
 
 

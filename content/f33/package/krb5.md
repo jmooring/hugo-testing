@@ -18,8 +18,8 @@ The package krb5 (version 1.18.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 10070 | 10070 | 100.0 | /mnt/stockage/packages/f33/krb5/src/po/de.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/krb5/src/po/en_US.po | 
+ | [de](/f33/language/de) | 10070 | 10070 | 100.0 | /mnt/stockage/packages/f33/krb5/src/po/de.po | 
+ | [en_US](/f33/language/en_US) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/krb5/src/po/en_US.po | 
 {.sortable}
 
 

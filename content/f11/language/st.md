@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f11/package/virtaal.md" >}}) | 1302 | 1309 | 99.5 | translate-discuss-st@lists.sourceforge.net | 
- | [gnomebaker]({{< ref "/f11/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f11/package/virtaal) | 1302 | 1309 | 99.5 | translate-discuss-st@lists.sourceforge.net | 
+ | [gnomebaker](/f11/package/gnomebaker) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
+ | [liblicense](/f11/package/liblicense) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertuxkart]({{< ref "/f32/package/supertuxkart.md" >}}) | 2155 | 5556 | 38.8 | Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/) | 
- | [widelands]({{< ref "/f32/package/widelands.md" >}}) | 89 | 58939 | 0.2 | Karelian (http://www.transifex.com/widelands/widelands/language/krl/) | 
+ | [supertuxkart](/f32/package/supertuxkart) | 2155 | 5556 | 38.8 | Karelian (http://www.transifex.com/supertuxkart/supertuxkart/language/krl/) | 
+ | [widelands](/f32/package/widelands) | 89 | 58939 | 0.2 | Karelian (http://www.transifex.com/widelands/widelands/language/krl/) | 
 {.sortable}
 
 

@@ -18,27 +18,27 @@ The package transmission-remote-gtk (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 817 | 969 | 84.3 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/zh_CN.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 803 | 969 | 82.9 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/it.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 747 | 969 | 77.1 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/fr.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 747 | 969 | 77.1 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/si.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/es.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/hu.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/lt.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/ru.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/uk.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 728 | 969 | 75.1 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/pt_BR.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 618 | 969 | 63.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/sv.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 545 | 969 | 56.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 517 | 969 | 53.4 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/de.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 440 | 969 | 45.4 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/pl.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 360 | 969 | 37.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/lv.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 341 | 969 | 35.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/zh_TW.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 334 | 969 | 34.5 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/ko.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 327 | 969 | 33.7 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/tr.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 186 | 969 | 19.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/bg.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 96 | 969 | 9.9 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/ca.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 74 | 969 | 7.6 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/el.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 817 | 969 | 84.3 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/zh_CN.po | 
+ | [it](/f33/language/it) | 803 | 969 | 82.9 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/it.po | 
+ | [fr](/f33/language/fr) | 747 | 969 | 77.1 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/fr.po | 
+ | [si](/f33/language/si) | 747 | 969 | 77.1 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/si.po | 
+ | [es](/f33/language/es) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/es.po | 
+ | [hu](/f33/language/hu) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/hu.po | 
+ | [lt](/f33/language/lt) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/lt.po | 
+ | [ru](/f33/language/ru) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/ru.po | 
+ | [uk](/f33/language/uk) | 744 | 969 | 76.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/uk.po | 
+ | [pt_BR](/f33/language/pt_BR) | 728 | 969 | 75.1 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/pt_BR.po | 
+ | [sv](/f33/language/sv) | 618 | 969 | 63.8 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/sv.po | 
+ | [cs](/f33/language/cs) | 545 | 969 | 56.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/cs.po | 
+ | [de](/f33/language/de) | 517 | 969 | 53.4 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/de.po | 
+ | [pl](/f33/language/pl) | 440 | 969 | 45.4 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/pl.po | 
+ | [lv](/f33/language/lv) | 360 | 969 | 37.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/lv.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 341 | 969 | 35.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/zh_TW.po | 
+ | [ko](/f33/language/ko) | 334 | 969 | 34.5 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/ko.po | 
+ | [tr](/f33/language/tr) | 327 | 969 | 33.7 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/tr.po | 
+ | [bg](/f33/language/bg) | 186 | 969 | 19.2 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/bg.po | 
+ | [ca](/f33/language/ca) | 96 | 969 | 9.9 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/ca.po | 
+ | [el](/f33/language/el) | 74 | 969 | 7.6 | /mnt/stockage/packages/f33/transmission-remote-gtk/po/el.po | 
 {.sortable}
 
 

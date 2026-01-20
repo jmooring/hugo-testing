@@ -18,10 +18,10 @@ The package vdr-skinnopacity (version 1.1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/de_DE.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 697 | 912 | 76.4 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/ca_ES.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 693 | 912 | 76.0 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/sk_SK.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 434 | 912 | 47.6 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/it_IT.po | 
+ | [de](/f35/language/de) | 912 | 912 | 100.0 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/de_DE.po | 
+ | [ca](/f35/language/ca) | 697 | 912 | 76.4 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/ca_ES.po | 
+ | [sk](/f35/language/sk) | 693 | 912 | 76.0 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/sk_SK.po | 
+ | [it](/f35/language/it) | 434 | 912 | 47.6 | /mnt/stockage/packages/f35/vdr-skinnopacity/po/it_IT.po | 
 {.sortable}
 
 

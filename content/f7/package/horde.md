@@ -18,46 +18,46 @@ The package horde (version 3.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 7073 | 7073 | 100.0 | /mnt/stockage/packages/f7/horde/po/cs_CZ.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 7038 | 7038 | 100.0 | /mnt/stockage/packages/f7/horde/po/da_DK.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 7107 | 7107 | 100.0 | /mnt/stockage/packages/f7/horde/po/de_DE.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 6358 | 6358 | 100.0 | /mnt/stockage/packages/f7/horde/po/el_GR.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 7097 | 7097 | 100.0 | /mnt/stockage/packages/f7/horde/po/es_ES.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 7197 | 7197 | 100.0 | /mnt/stockage/packages/f7/horde/po/et_EE.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 7067 | 7067 | 100.0 | /mnt/stockage/packages/f7/horde/po/fi_FI.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 7111 | 7111 | 100.0 | /mnt/stockage/packages/f7/horde/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 7054 | 7054 | 100.0 | /mnt/stockage/packages/f7/horde/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 7073 | 7073 | 100.0 | /mnt/stockage/packages/f7/horde/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 7088 | 7088 | 100.0 | /mnt/stockage/packages/f7/horde/po/zh_CN.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 6577 | 6582 | 99.9 | /mnt/stockage/packages/f7/horde/po/fr_FR.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 6992 | 7024 | 99.5 | /mnt/stockage/packages/f7/horde/po/hu_HU.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 6935 | 7012 | 98.9 | /mnt/stockage/packages/f7/horde/po/sk_SK.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 6978 | 7107 | 98.2 | /mnt/stockage/packages/f7/horde/po/ja_JP.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 6863 | 7073 | 97.0 | /mnt/stockage/packages/f7/horde/po/zh_TW.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 7236 | 7503 | 96.4 | /mnt/stockage/packages/f7/horde/po/sv_SE.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 6185 | 6465 | 95.7 | /mnt/stockage/packages/f7/horde/po/sl_SI.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 6713 | 7054 | 95.2 | /mnt/stockage/packages/f7/horde/po/ca_ES.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 5880 | 7041 | 83.5 | /mnt/stockage/packages/f7/horde/po/tr_TR.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 5704 | 7041 | 81.0 | /mnt/stockage/packages/f7/horde/po/lt_LT.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 5623 | 7049 | 79.8 | /mnt/stockage/packages/f7/horde/po/it_IT.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 5413 | 7041 | 76.9 | /mnt/stockage/packages/f7/horde/po/fa_IR.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 3178 | 6459 | 49.2 | /mnt/stockage/packages/f7/horde/po/pl_PL.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 2868 | 7041 | 40.7 | /mnt/stockage/packages/f7/horde/po/id_ID.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 2949 | 7375 | 40.0 | /mnt/stockage/packages/f7/horde/po/nb_NO.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 1079 | 7041 | 15.3 | /mnt/stockage/packages/f7/horde/po/ko_KR.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 1069 | 7041 | 15.2 | /mnt/stockage/packages/f7/horde/po/bs_BA.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 924 | 7041 | 13.1 | /mnt/stockage/packages/f7/horde/po/bg_BG.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 855 | 6885 | 12.4 | /mnt/stockage/packages/f7/horde/po/ru_RU.po | 
- | [km]({{< ref "/f7/language/km.md" >}}) | 872 | 7095 | 12.3 | /mnt/stockage/packages/f7/horde/po/km_KH.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 461 | 7041 | 6.5 | /mnt/stockage/packages/f7/horde/po/nn_NO.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 349 | 7041 | 5.0 | /mnt/stockage/packages/f7/horde/po/ar_SY.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 256 | 7041 | 3.6 | /mnt/stockage/packages/f7/horde/po/gl_ES.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 256 | 7041 | 3.6 | /mnt/stockage/packages/f7/horde/po/lv_LV.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 256 | 7041 | 3.6 | /mnt/stockage/packages/f7/horde/po/ro_RO.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 234 | 7041 | 3.3 | /mnt/stockage/packages/f7/horde/po/mk_MK.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 242 | 7388 | 3.3 | /mnt/stockage/packages/f7/horde/po/is_IS.po | 
- | [he_IL]({{< ref "/f7/language/he_IL.md" >}}) | 207 | 7103 | 2.9 | /mnt/stockage/packages/f7/horde/po/he_IL.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 181 | 7041 | 2.6 | /mnt/stockage/packages/f7/horde/po/uk_UA.po | 
+ | [cs](/f7/language/cs) | 7073 | 7073 | 100.0 | /mnt/stockage/packages/f7/horde/po/cs_CZ.po | 
+ | [da](/f7/language/da) | 7038 | 7038 | 100.0 | /mnt/stockage/packages/f7/horde/po/da_DK.po | 
+ | [de](/f7/language/de) | 7107 | 7107 | 100.0 | /mnt/stockage/packages/f7/horde/po/de_DE.po | 
+ | [el](/f7/language/el) | 6358 | 6358 | 100.0 | /mnt/stockage/packages/f7/horde/po/el_GR.po | 
+ | [es](/f7/language/es) | 7097 | 7097 | 100.0 | /mnt/stockage/packages/f7/horde/po/es_ES.po | 
+ | [et](/f7/language/et) | 7197 | 7197 | 100.0 | /mnt/stockage/packages/f7/horde/po/et_EE.po | 
+ | [fi](/f7/language/fi) | 7067 | 7067 | 100.0 | /mnt/stockage/packages/f7/horde/po/fi_FI.po | 
+ | [nl](/f7/language/nl) | 7111 | 7111 | 100.0 | /mnt/stockage/packages/f7/horde/po/nl_NL.po | 
+ | [pt_BR](/f7/language/pt_BR) | 7054 | 7054 | 100.0 | /mnt/stockage/packages/f7/horde/po/pt_BR.po | 
+ | [pt_PT](/f7/language/pt_PT) | 7073 | 7073 | 100.0 | /mnt/stockage/packages/f7/horde/po/pt_PT.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 7088 | 7088 | 100.0 | /mnt/stockage/packages/f7/horde/po/zh_CN.po | 
+ | [fr](/f7/language/fr) | 6577 | 6582 | 99.9 | /mnt/stockage/packages/f7/horde/po/fr_FR.po | 
+ | [hu](/f7/language/hu) | 6992 | 7024 | 99.5 | /mnt/stockage/packages/f7/horde/po/hu_HU.po | 
+ | [sk](/f7/language/sk) | 6935 | 7012 | 98.9 | /mnt/stockage/packages/f7/horde/po/sk_SK.po | 
+ | [ja](/f7/language/ja) | 6978 | 7107 | 98.2 | /mnt/stockage/packages/f7/horde/po/ja_JP.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 6863 | 7073 | 97.0 | /mnt/stockage/packages/f7/horde/po/zh_TW.po | 
+ | [sv](/f7/language/sv) | 7236 | 7503 | 96.4 | /mnt/stockage/packages/f7/horde/po/sv_SE.po | 
+ | [sl](/f7/language/sl) | 6185 | 6465 | 95.7 | /mnt/stockage/packages/f7/horde/po/sl_SI.po | 
+ | [ca](/f7/language/ca) | 6713 | 7054 | 95.2 | /mnt/stockage/packages/f7/horde/po/ca_ES.po | 
+ | [tr](/f7/language/tr) | 5880 | 7041 | 83.5 | /mnt/stockage/packages/f7/horde/po/tr_TR.po | 
+ | [lt](/f7/language/lt) | 5704 | 7041 | 81.0 | /mnt/stockage/packages/f7/horde/po/lt_LT.po | 
+ | [it](/f7/language/it) | 5623 | 7049 | 79.8 | /mnt/stockage/packages/f7/horde/po/it_IT.po | 
+ | [fa](/f7/language/fa) | 5413 | 7041 | 76.9 | /mnt/stockage/packages/f7/horde/po/fa_IR.po | 
+ | [pl](/f7/language/pl) | 3178 | 6459 | 49.2 | /mnt/stockage/packages/f7/horde/po/pl_PL.po | 
+ | [id](/f7/language/id) | 2868 | 7041 | 40.7 | /mnt/stockage/packages/f7/horde/po/id_ID.po | 
+ | [nb_NO](/f7/language/nb_NO) | 2949 | 7375 | 40.0 | /mnt/stockage/packages/f7/horde/po/nb_NO.po | 
+ | [ko](/f7/language/ko) | 1079 | 7041 | 15.3 | /mnt/stockage/packages/f7/horde/po/ko_KR.po | 
+ | [bs](/f7/language/bs) | 1069 | 7041 | 15.2 | /mnt/stockage/packages/f7/horde/po/bs_BA.po | 
+ | [bg](/f7/language/bg) | 924 | 7041 | 13.1 | /mnt/stockage/packages/f7/horde/po/bg_BG.po | 
+ | [ru](/f7/language/ru) | 855 | 6885 | 12.4 | /mnt/stockage/packages/f7/horde/po/ru_RU.po | 
+ | [km](/f7/language/km) | 872 | 7095 | 12.3 | /mnt/stockage/packages/f7/horde/po/km_KH.po | 
+ | [nn](/f7/language/nn) | 461 | 7041 | 6.5 | /mnt/stockage/packages/f7/horde/po/nn_NO.po | 
+ | [error](/f7/language/error) | 349 | 7041 | 5.0 | /mnt/stockage/packages/f7/horde/po/ar_SY.po | 
+ | [gl](/f7/language/gl) | 256 | 7041 | 3.6 | /mnt/stockage/packages/f7/horde/po/gl_ES.po | 
+ | [lv](/f7/language/lv) | 256 | 7041 | 3.6 | /mnt/stockage/packages/f7/horde/po/lv_LV.po | 
+ | [ro](/f7/language/ro) | 256 | 7041 | 3.6 | /mnt/stockage/packages/f7/horde/po/ro_RO.po | 
+ | [mk](/f7/language/mk) | 234 | 7041 | 3.3 | /mnt/stockage/packages/f7/horde/po/mk_MK.po | 
+ | [is](/f7/language/is) | 242 | 7388 | 3.3 | /mnt/stockage/packages/f7/horde/po/is_IS.po | 
+ | [he_IL](/f7/language/he_IL) | 207 | 7103 | 2.9 | /mnt/stockage/packages/f7/horde/po/he_IL.po | 
+ | [uk](/f7/language/uk) | 181 | 7041 | 2.6 | /mnt/stockage/packages/f7/horde/po/uk_UA.po | 
 {.sortable}
 
 

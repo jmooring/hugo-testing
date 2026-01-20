@@ -18,16 +18,16 @@ The package audacious-plugins (version 1.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 7057 | 7057 | 100.0 | /mnt/stockage/packages/f9/audacious-plugins/po/fr.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 7057 | 7057 | 100.0 | /mnt/stockage/packages/f9/audacious-plugins/po/tr.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 7056 | 7057 | 100.0 | /mnt/stockage/packages/f9/audacious-plugins/po/cs.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 7014 | 7057 | 99.4 | /mnt/stockage/packages/f9/audacious-plugins/po/ja.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 3510 | 7057 | 49.7 | /mnt/stockage/packages/f9/audacious-plugins/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 3510 | 7057 | 49.7 | /mnt/stockage/packages/f9/audacious-plugins/po/sk.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 3241 | 7057 | 45.9 | /mnt/stockage/packages/f9/audacious-plugins/po/de.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 1467 | 7057 | 20.8 | /mnt/stockage/packages/f9/audacious-plugins/po/cy.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 1361 | 7057 | 19.3 | /mnt/stockage/packages/f9/audacious-plugins/po/ca.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 1247 | 7057 | 17.7 | /mnt/stockage/packages/f9/audacious-plugins/po/ro.po | 
+ | [fr](/f9/language/fr) | 7057 | 7057 | 100.0 | /mnt/stockage/packages/f9/audacious-plugins/po/fr.po | 
+ | [tr](/f9/language/tr) | 7057 | 7057 | 100.0 | /mnt/stockage/packages/f9/audacious-plugins/po/tr.po | 
+ | [cs](/f9/language/cs) | 7056 | 7057 | 100.0 | /mnt/stockage/packages/f9/audacious-plugins/po/cs.po | 
+ | [ja](/f9/language/ja) | 7014 | 7057 | 99.4 | /mnt/stockage/packages/f9/audacious-plugins/po/ja.po | 
+ | [ru](/f9/language/ru) | 3510 | 7057 | 49.7 | /mnt/stockage/packages/f9/audacious-plugins/po/ru.po | 
+ | [sk](/f9/language/sk) | 3510 | 7057 | 49.7 | /mnt/stockage/packages/f9/audacious-plugins/po/sk.po | 
+ | [de](/f9/language/de) | 3241 | 7057 | 45.9 | /mnt/stockage/packages/f9/audacious-plugins/po/de.po | 
+ | [cy](/f9/language/cy) | 1467 | 7057 | 20.8 | /mnt/stockage/packages/f9/audacious-plugins/po/cy.po | 
+ | [ca](/f9/language/ca) | 1361 | 7057 | 19.3 | /mnt/stockage/packages/f9/audacious-plugins/po/ca.po | 
+ | [ro](/f9/language/ro) | 1247 | 7057 | 17.7 | /mnt/stockage/packages/f9/audacious-plugins/po/ro.po | 
 {.sortable}
 
 

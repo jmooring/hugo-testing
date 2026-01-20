@@ -18,41 +18,41 @@ The package wget (version 1.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f7/wget/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/wget/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/de.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/wget/po/es.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 1777 | 1777 | 100.0 | /mnt/stockage/packages/f7/wget/po/et.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/eu.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/fr.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ga.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/gl.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f7/wget/po/he.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/hu.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ja.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/nl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/sl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1777 | 1777 | 100.0 | /mnt/stockage/packages/f7/wget/po/vi.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/zh_TW.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1460 | 1466 | 99.6 | /mnt/stockage/packages/f7/wget/po/bg.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1778 | 1800 | 98.8 | /mnt/stockage/packages/f7/wget/po/it.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 1715 | 1770 | 96.9 | /mnt/stockage/packages/f7/wget/po/hr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1538 | 1634 | 94.1 | /mnt/stockage/packages/f7/wget/po/pl.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 981 | 1634 | 60.0 | /mnt/stockage/packages/f7/wget/po/el.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 672 | 1423 | 47.2 | /mnt/stockage/packages/f7/wget/po/no.po | 
- | [eo]({{< ref "/f7/language/eo.md" >}}) | 531 | 1770 | 30.0 | /mnt/stockage/packages/f7/wget/po/eo.po | 
+ | [ca](/f7/language/ca) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ca.po | 
+ | [cs](/f7/language/cs) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f7/wget/po/cs.po | 
+ | [da](/f7/language/da) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/wget/po/da.po | 
+ | [de](/f7/language/de) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/de.po | 
+ | [en_GB](/f7/language/en_GB) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/en_GB.po | 
+ | [es](/f7/language/es) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/wget/po/es.po | 
+ | [et](/f7/language/et) | 1777 | 1777 | 100.0 | /mnt/stockage/packages/f7/wget/po/et.po | 
+ | [eu](/f7/language/eu) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/eu.po | 
+ | [fi](/f7/language/fi) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/fi.po | 
+ | [fr](/f7/language/fr) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/fr.po | 
+ | [ga](/f7/language/ga) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ga.po | 
+ | [gl](/f7/language/gl) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/gl.po | 
+ | [he](/f7/language/he) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f7/wget/po/he.po | 
+ | [hu](/f7/language/hu) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/hu.po | 
+ | [ja](/f7/language/ja) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ja.po | 
+ | [nl](/f7/language/nl) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/nl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/ro.po | 
+ | [ru](/f7/language/ru) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/ru.po | 
+ | [sk](/f7/language/sk) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/sk.po | 
+ | [sl](/f7/language/sl) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/sl.po | 
+ | [sr](/f7/language/sr) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/sr.po | 
+ | [sv](/f7/language/sv) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/sv.po | 
+ | [tr](/f7/language/tr) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/tr.po | 
+ | [uk](/f7/language/uk) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/uk.po | 
+ | [vi](/f7/language/vi) | 1777 | 1777 | 100.0 | /mnt/stockage/packages/f7/wget/po/vi.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1634 | 1634 | 100.0 | /mnt/stockage/packages/f7/wget/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f7/wget/po/zh_TW.po | 
+ | [bg](/f7/language/bg) | 1460 | 1466 | 99.6 | /mnt/stockage/packages/f7/wget/po/bg.po | 
+ | [it](/f7/language/it) | 1778 | 1800 | 98.8 | /mnt/stockage/packages/f7/wget/po/it.po | 
+ | [hr](/f7/language/hr) | 1715 | 1770 | 96.9 | /mnt/stockage/packages/f7/wget/po/hr.po | 
+ | [pl](/f7/language/pl) | 1538 | 1634 | 94.1 | /mnt/stockage/packages/f7/wget/po/pl.po | 
+ | [el](/f7/language/el) | 981 | 1634 | 60.0 | /mnt/stockage/packages/f7/wget/po/el.po | 
+ | [nb_NO](/f7/language/nb_NO) | 672 | 1423 | 47.2 | /mnt/stockage/packages/f7/wget/po/no.po | 
+ | [eo](/f7/language/eo) | 531 | 1770 | 30.0 | /mnt/stockage/packages/f7/wget/po/eo.po | 
 {.sortable}
 
 

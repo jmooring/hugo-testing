@@ -18,8 +18,8 @@ The package solang (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f11/solang/po/bg.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f11/solang/po/it.po | 
+ | [bg](/f11/language/bg) | 394 | 394 | 100.0 | /mnt/stockage/packages/f11/solang/po/bg.po | 
+ | [it](/f11/language/it) | 379 | 379 | 100.0 | /mnt/stockage/packages/f11/solang/po/it.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package wcd (version 5.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 7998 | 7998 | 100.0 | /mnt/stockage/packages/f19/wcd/src/man/de/man1/wcd.po/mnt/stockage/packages/f19/wcd/src/po/de.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f19/wcd/src/po/eo.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f19/wcd/src/po/fi.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 7998 | 7998 | 100.0 | /mnt/stockage/packages/f19/wcd/src/man/nl/man1/wcd.po/mnt/stockage/packages/f19/wcd/src/po/nl.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 7998 | 7998 | 100.0 | /mnt/stockage/packages/f19/wcd/src/man/uk/man1/wcd.po/mnt/stockage/packages/f19/wcd/src/po/uk.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f19/wcd/src/po/vi.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1171 | 1388 | 84.4 | /mnt/stockage/packages/f19/wcd/src/po/es.po | 
+ | [de](/f19/language/de) | 7998 | 7998 | 100.0 | /mnt/stockage/packages/f19/wcd/src/man/de/man1/wcd.po/mnt/stockage/packages/f19/wcd/src/po/de.po | 
+ | [eo](/f19/language/eo) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f19/wcd/src/po/eo.po | 
+ | [fi](/f19/language/fi) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f19/wcd/src/po/fi.po | 
+ | [nl](/f19/language/nl) | 7998 | 7998 | 100.0 | /mnt/stockage/packages/f19/wcd/src/man/nl/man1/wcd.po/mnt/stockage/packages/f19/wcd/src/po/nl.po | 
+ | [uk](/f19/language/uk) | 7998 | 7998 | 100.0 | /mnt/stockage/packages/f19/wcd/src/man/uk/man1/wcd.po/mnt/stockage/packages/f19/wcd/src/po/uk.po | 
+ | [vi](/f19/language/vi) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f19/wcd/src/po/vi.po | 
+ | [es](/f19/language/es) | 1171 | 1388 | 84.4 | /mnt/stockage/packages/f19/wcd/src/po/es.po | 
 {.sortable}
 
 

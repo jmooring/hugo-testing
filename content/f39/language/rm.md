@@ -38,36 +38,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gip]({{< ref "/f39/package/gip.md" >}}) | 108 | 108 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [gtkspell]({{< ref "/f39/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [gtkspell3]({{< ref "/f39/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [dialog]({{< ref "/f39/package/dialog.md" >}}) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [sugar-toolkit-gtk3]({{< ref "/f39/package/sugar-toolkit-gtk3.md" >}}) | 56 | 213 | 26.3 | LANGUAGE <LL@li.org> | 
- | [gmult]({{< ref "/f39/package/gmult.md" >}}) | 4 | 50 | 8.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [mingw-libcharset]({{< ref "/f39/package/mingw-libcharset.md" >}}) | 15 | 342 | 4.4 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
- | [wine]({{< ref "/f39/package/wine.md" >}}) | 38 | 19312 | 0.2 | Romanish | 
- | [sympa]({{< ref "/f39/package/sympa.md" >}}) | 6 | 36428 | 0.0 | Rumantsch | 
- | [bookworm]({{< ref "/f39/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f39/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f39/package/dippi.md" >}}) | 0 | 1540 | 0.0 | none | 
- | [elementary-code]({{< ref "/f39/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f39/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f39/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f39/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f39/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f39/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f39/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f39/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f39/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f39/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f39/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 283 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f39/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f39/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 63 | 0.0 |  | 
+ | [gip](/f39/package/gip) | 108 | 108 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [gtkspell](/f39/package/gtkspell) | 11 | 11 | 100.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [gtkspell3](/f39/package/gtkspell3) | 10 | 16 | 62.5 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [dialog](/f39/package/dialog) | 12 | 25 | 48.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [sugar-toolkit-gtk3](/f39/package/sugar-toolkit-gtk3) | 56 | 213 | 26.3 | LANGUAGE <LL@li.org> | 
+ | [gmult](/f39/package/gmult) | 4 | 50 | 8.0 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [mingw-libcharset](/f39/package/mingw-libcharset) | 15 | 342 | 4.4 | Rhaeto-Romance <gnu-rumantsch@guglielmtux.ch> | 
+ | [wine](/f39/package/wine) | 38 | 19312 | 0.2 | Romanish | 
+ | [sympa](/f39/package/sympa) | 6 | 36428 | 0.0 | Rumantsch | 
+ | [bookworm](/f39/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f39/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f39/package/dippi) | 0 | 1540 | 0.0 | none | 
+ | [elementary-code](/f39/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f39/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f39/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f39/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f39/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f39/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f39/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f39/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f39/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f39/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f39/package/wingpanel-indicator-bluetooth) | 0 | 283 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f39/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f39/package/wingpanel-indicator-keyboard) | 0 | 63 | 0.0 |  | 
 {.sortable}
 
 

@@ -18,44 +18,44 @@ The package ktp-filetransfer-handler (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ca/ktp-filetransfer-handler.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/cs/ktp-filetransfer-handler.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/da/ktp-filetransfer-handler.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/de/ktp-filetransfer-handler.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/el/ktp-filetransfer-handler.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/es/ktp-filetransfer-handler.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/fi/ktp-filetransfer-handler.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/fr/ktp-filetransfer-handler.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/gl/ktp-filetransfer-handler.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/it/ktp-filetransfer-handler.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/kk/ktp-filetransfer-handler.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/nl/ktp-filetransfer-handler.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/pl/ktp-filetransfer-handler.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/pt/ktp-filetransfer-handler.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/pt_BR/ktp-filetransfer-handler.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ru/ktp-filetransfer-handler.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sk/ktp-filetransfer-handler.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr/ktp-filetransfer-handler.po | 
- | [sr@ijekavian]({{< ref "/f17/language/sr@ijekavian.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr@ijekavian/ktp-filetransfer-handler.po | 
- | [sr@ijekavian_Latn]({{< ref "/f17/language/sr@ijekavian_Latn.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr@ijekavianlatin/ktp-filetransfer-handler.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr@latin/ktp-filetransfer-handler.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sv/ktp-filetransfer-handler.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/uk/ktp-filetransfer-handler.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/zh_TW/ktp-filetransfer-handler.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/bs/ktp-filetransfer-handler.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ca@valencia/ktp-filetransfer-handler.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/et/ktp-filetransfer-handler.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/hu/ktp-filetransfer-handler.po | 
- | [ia]({{< ref "/f17/language/ia.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ia/ktp-filetransfer-handler.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/lt/ktp-filetransfer-handler.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/nb/ktp-filetransfer-handler.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ro/ktp-filetransfer-handler.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sl/ktp-filetransfer-handler.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/zh_CN/ktp-filetransfer-handler.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 35 | 139 | 25.2 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/mr/ktp-filetransfer-handler.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 27 | 139 | 19.4 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ga/ktp-filetransfer-handler.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 19 | 139 | 13.7 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/nds/ktp-filetransfer-handler.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 0 | 139 | 0.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ja/ktp-filetransfer-handler.po | 
+ | [ca](/f17/language/ca) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ca/ktp-filetransfer-handler.po | 
+ | [cs](/f17/language/cs) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/cs/ktp-filetransfer-handler.po | 
+ | [da](/f17/language/da) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/da/ktp-filetransfer-handler.po | 
+ | [de](/f17/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/de/ktp-filetransfer-handler.po | 
+ | [el](/f17/language/el) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/el/ktp-filetransfer-handler.po | 
+ | [es](/f17/language/es) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/es/ktp-filetransfer-handler.po | 
+ | [fi](/f17/language/fi) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/fi/ktp-filetransfer-handler.po | 
+ | [fr](/f17/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/fr/ktp-filetransfer-handler.po | 
+ | [gl](/f17/language/gl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/gl/ktp-filetransfer-handler.po | 
+ | [it](/f17/language/it) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/it/ktp-filetransfer-handler.po | 
+ | [kk](/f17/language/kk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/kk/ktp-filetransfer-handler.po | 
+ | [nl](/f17/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/nl/ktp-filetransfer-handler.po | 
+ | [pl](/f17/language/pl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/pl/ktp-filetransfer-handler.po | 
+ | [pt](/f17/language/pt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/pt/ktp-filetransfer-handler.po | 
+ | [pt_BR](/f17/language/pt_BR) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/pt_BR/ktp-filetransfer-handler.po | 
+ | [ru](/f17/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ru/ktp-filetransfer-handler.po | 
+ | [sk](/f17/language/sk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sk/ktp-filetransfer-handler.po | 
+ | [sr](/f17/language/sr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr/ktp-filetransfer-handler.po | 
+ | [sr@ijekavian](/f17/language/sr@ijekavian) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr@ijekavian/ktp-filetransfer-handler.po | 
+ | [sr@ijekavian_Latn](/f17/language/sr@ijekavian_Latn) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr@ijekavianlatin/ktp-filetransfer-handler.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sr@latin/ktp-filetransfer-handler.po | 
+ | [sv](/f17/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sv/ktp-filetransfer-handler.po | 
+ | [uk](/f17/language/uk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/uk/ktp-filetransfer-handler.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 139 | 139 | 100.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/zh_TW/ktp-filetransfer-handler.po | 
+ | [bs](/f17/language/bs) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/bs/ktp-filetransfer-handler.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ca@valencia/ktp-filetransfer-handler.po | 
+ | [et](/f17/language/et) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/et/ktp-filetransfer-handler.po | 
+ | [hu](/f17/language/hu) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/hu/ktp-filetransfer-handler.po | 
+ | [ia](/f17/language/ia) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ia/ktp-filetransfer-handler.po | 
+ | [lt](/f17/language/lt) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/lt/ktp-filetransfer-handler.po | 
+ | [nb_NO](/f17/language/nb_NO) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/nb/ktp-filetransfer-handler.po | 
+ | [ro](/f17/language/ro) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ro/ktp-filetransfer-handler.po | 
+ | [sl](/f17/language/sl) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/sl/ktp-filetransfer-handler.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 137 | 139 | 98.6 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/zh_CN/ktp-filetransfer-handler.po | 
+ | [mr](/f17/language/mr) | 35 | 139 | 25.2 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/mr/ktp-filetransfer-handler.po | 
+ | [ga](/f17/language/ga) | 27 | 139 | 19.4 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ga/ktp-filetransfer-handler.po | 
+ | [nds](/f17/language/nds) | 19 | 139 | 13.7 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/nds/ktp-filetransfer-handler.po | 
+ | [ja](/f17/language/ja) | 0 | 139 | 0.0 | /mnt/stockage/packages/f17/ktp-filetransfer-handler/po/ja/ktp-filetransfer-handler.po | 
 {.sortable}
 
 

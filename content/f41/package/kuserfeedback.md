@@ -18,41 +18,41 @@ The package kuserfeedback (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f41/language/az.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/az/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/az/userfeedbackprovider5_qt.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/bg/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/bg/userfeedbackprovider5_qt.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ca/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ca/userfeedbackprovider5_qt.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ca@valencia/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ca@valencia/userfeedbackprovider5_qt.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/en_GB/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/en_GB/userfeedbackprovider5_qt.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/es/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/es/userfeedbackprovider5_qt.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/fi/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/fi/userfeedbackprovider5_qt.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/fr/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/fr/userfeedbackprovider5_qt.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/gl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/gl/userfeedbackprovider5_qt.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/it/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/it/userfeedbackprovider5_qt.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ka/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ka/userfeedbackprovider5_qt.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ko/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ko/userfeedbackprovider5_qt.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/nl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/nl/userfeedbackprovider5_qt.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/pl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/pl/userfeedbackprovider5_qt.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/pt/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/pt/userfeedbackprovider5_qt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/pt_BR/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/pt_BR/userfeedbackprovider5_qt.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/sl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/sl/userfeedbackprovider5_qt.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/sv/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/sv/userfeedbackprovider5_qt.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/tr/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/tr/userfeedbackprovider5_qt.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/uk/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/uk/userfeedbackprovider5_qt.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/zh_CN/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/zh_CN/userfeedbackprovider5_qt.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/zh_TW/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/zh_TW/userfeedbackprovider5_qt.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 1147 | 1157 | 99.1 | /mnt/stockage/packages/f41/kuserfeedback/poqm/et/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/et/userfeedbackprovider5_qt.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 531 | 541 | 98.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/nn/userfeedbackprovider5_qt.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 531 | 541 | 98.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ro/userfeedbackprovider5_qt.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 872 | 1157 | 75.4 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ru/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ru/userfeedbackprovider5_qt.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 846 | 1157 | 73.1 | /mnt/stockage/packages/f41/kuserfeedback/poqm/de/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/de/userfeedbackprovider5_qt.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 837 | 1157 | 72.3 | /mnt/stockage/packages/f41/kuserfeedback/poqm/da/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/da/userfeedbackprovider5_qt.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 679 | 1157 | 58.7 | /mnt/stockage/packages/f41/kuserfeedback/poqm/sk/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/sk/userfeedbackprovider5_qt.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 609 | 1157 | 52.6 | /mnt/stockage/packages/f41/kuserfeedback/poqm/lt/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/lt/userfeedbackprovider5_qt.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 535 | 1157 | 46.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/id/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/id/userfeedbackprovider5_qt.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 368 | 1157 | 31.8 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ja/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ja/userfeedbackprovider5_qt.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 340 | 1157 | 29.4 | /mnt/stockage/packages/f41/kuserfeedback/poqm/cs/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/cs/userfeedbackprovider5_qt.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 176 | 1157 | 15.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ia/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ia/userfeedbackprovider5_qt.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 90 | 1157 | 7.8 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ar/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ar/userfeedbackprovider5_qt.po | 
+ | [az](/f41/language/az) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/az/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/az/userfeedbackprovider5_qt.po | 
+ | [bg](/f41/language/bg) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/bg/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/bg/userfeedbackprovider5_qt.po | 
+ | [ca](/f41/language/ca) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ca/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ca/userfeedbackprovider5_qt.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ca@valencia/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ca@valencia/userfeedbackprovider5_qt.po | 
+ | [en_GB](/f41/language/en_GB) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/en_GB/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/en_GB/userfeedbackprovider5_qt.po | 
+ | [es](/f41/language/es) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/es/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/es/userfeedbackprovider5_qt.po | 
+ | [fi](/f41/language/fi) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/fi/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/fi/userfeedbackprovider5_qt.po | 
+ | [fr](/f41/language/fr) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/fr/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/fr/userfeedbackprovider5_qt.po | 
+ | [gl](/f41/language/gl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/gl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/gl/userfeedbackprovider5_qt.po | 
+ | [it](/f41/language/it) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/it/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/it/userfeedbackprovider5_qt.po | 
+ | [ka](/f41/language/ka) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ka/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ka/userfeedbackprovider5_qt.po | 
+ | [ko](/f41/language/ko) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ko/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ko/userfeedbackprovider5_qt.po | 
+ | [nl](/f41/language/nl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/nl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/nl/userfeedbackprovider5_qt.po | 
+ | [pl](/f41/language/pl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/pl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/pl/userfeedbackprovider5_qt.po | 
+ | [pt](/f41/language/pt) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/pt/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/pt/userfeedbackprovider5_qt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/pt_BR/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/pt_BR/userfeedbackprovider5_qt.po | 
+ | [sl](/f41/language/sl) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/sl/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/sl/userfeedbackprovider5_qt.po | 
+ | [sv](/f41/language/sv) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/sv/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/sv/userfeedbackprovider5_qt.po | 
+ | [tr](/f41/language/tr) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/tr/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/tr/userfeedbackprovider5_qt.po | 
+ | [uk](/f41/language/uk) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/uk/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/uk/userfeedbackprovider5_qt.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/zh_CN/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/zh_CN/userfeedbackprovider5_qt.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 1157 | 1157 | 100.0 | /mnt/stockage/packages/f41/kuserfeedback/poqm/zh_TW/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/zh_TW/userfeedbackprovider5_qt.po | 
+ | [et](/f41/language/et) | 1147 | 1157 | 99.1 | /mnt/stockage/packages/f41/kuserfeedback/poqm/et/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/et/userfeedbackprovider5_qt.po | 
+ | [nn](/f41/language/nn) | 531 | 541 | 98.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/nn/userfeedbackprovider5_qt.po | 
+ | [ro](/f41/language/ro) | 531 | 541 | 98.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ro/userfeedbackprovider5_qt.po | 
+ | [ru](/f41/language/ru) | 872 | 1157 | 75.4 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ru/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ru/userfeedbackprovider5_qt.po | 
+ | [de](/f41/language/de) | 846 | 1157 | 73.1 | /mnt/stockage/packages/f41/kuserfeedback/poqm/de/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/de/userfeedbackprovider5_qt.po | 
+ | [da](/f41/language/da) | 837 | 1157 | 72.3 | /mnt/stockage/packages/f41/kuserfeedback/poqm/da/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/da/userfeedbackprovider5_qt.po | 
+ | [sk](/f41/language/sk) | 679 | 1157 | 58.7 | /mnt/stockage/packages/f41/kuserfeedback/poqm/sk/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/sk/userfeedbackprovider5_qt.po | 
+ | [lt](/f41/language/lt) | 609 | 1157 | 52.6 | /mnt/stockage/packages/f41/kuserfeedback/poqm/lt/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/lt/userfeedbackprovider5_qt.po | 
+ | [id](/f41/language/id) | 535 | 1157 | 46.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/id/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/id/userfeedbackprovider5_qt.po | 
+ | [ja](/f41/language/ja) | 368 | 1157 | 31.8 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ja/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ja/userfeedbackprovider5_qt.po | 
+ | [cs](/f41/language/cs) | 340 | 1157 | 29.4 | /mnt/stockage/packages/f41/kuserfeedback/poqm/cs/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/cs/userfeedbackprovider5_qt.po | 
+ | [ia](/f41/language/ia) | 176 | 1157 | 15.2 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ia/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ia/userfeedbackprovider5_qt.po | 
+ | [ar](/f41/language/ar) | 90 | 1157 | 7.8 | /mnt/stockage/packages/f41/kuserfeedback/poqm/ar/userfeedbackconsole5_qt.po/mnt/stockage/packages/f41/kuserfeedback/poqm/ar/userfeedbackprovider5_qt.po | 
 {.sortable}
 
 

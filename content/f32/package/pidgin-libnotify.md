@@ -18,22 +18,22 @@ The package pidgin-libnotify (version 0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/bg.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/de.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/pt.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/ru.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/sv.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/hu.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/ro.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/sl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/zh_CN.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 25 | 36 | 69.4 | /mnt/stockage/packages/f32/pidgin-libnotify/po/fr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 21 | 36 | 58.3 | /mnt/stockage/packages/f32/pidgin-libnotify/po/nl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 20 | 36 | 55.6 | /mnt/stockage/packages/f32/pidgin-libnotify/po/it.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 10 | 36 | 27.8 | /mnt/stockage/packages/f32/pidgin-libnotify/po/es.po | 
+ | [bg](/f32/language/bg) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/bg.po | 
+ | [de](/f32/language/de) | 39 | 39 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/de.po | 
+ | [pl](/f32/language/pl) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/pl.po | 
+ | [pt](/f32/language/pt) | 39 | 39 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/pt.po | 
+ | [ru](/f32/language/ru) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/ru.po | 
+ | [sv](/f32/language/sv) | 36 | 36 | 100.0 | /mnt/stockage/packages/f32/pidgin-libnotify/po/sv.po | 
+ | [gl](/f32/language/gl) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/gl.po | 
+ | [hu](/f32/language/hu) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/hu.po | 
+ | [pt_BR](/f32/language/pt_BR) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/ro.po | 
+ | [sl](/f32/language/sl) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/sl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 31 | 36 | 86.1 | /mnt/stockage/packages/f32/pidgin-libnotify/po/zh_CN.po | 
+ | [fr](/f32/language/fr) | 25 | 36 | 69.4 | /mnt/stockage/packages/f32/pidgin-libnotify/po/fr.po | 
+ | [nl](/f32/language/nl) | 21 | 36 | 58.3 | /mnt/stockage/packages/f32/pidgin-libnotify/po/nl.po | 
+ | [it](/f32/language/it) | 20 | 36 | 55.6 | /mnt/stockage/packages/f32/pidgin-libnotify/po/it.po | 
+ | [es](/f32/language/es) | 10 | 36 | 27.8 | /mnt/stockage/packages/f32/pidgin-libnotify/po/es.po | 
 {.sortable}
 
 

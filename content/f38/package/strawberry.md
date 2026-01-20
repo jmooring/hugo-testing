@@ -18,27 +18,27 @@ The package strawberry (version 1.0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 5222 | 5222 | 100.0 | /mnt/stockage/packages/f38/strawberry/src/translations/de.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 5222 | 5222 | 100.0 | /mnt/stockage/packages/f38/strawberry/src/translations/ru.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 5217 | 5222 | 99.9 | /mnt/stockage/packages/f38/strawberry/src/translations/sv.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 5176 | 5222 | 99.1 | /mnt/stockage/packages/f38/strawberry/src/translations/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 5001 | 5222 | 95.8 | /mnt/stockage/packages/f38/strawberry/src/translations/it.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 4951 | 5222 | 94.8 | /mnt/stockage/packages/f38/strawberry/src/translations/hu.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 4720 | 5222 | 90.4 | /mnt/stockage/packages/f38/strawberry/src/translations/uk.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 4707 | 5222 | 90.1 | /mnt/stockage/packages/f38/strawberry/src/translations/nb.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 9281 | 10444 | 88.9 | /mnt/stockage/packages/f38/strawberry/src/translations/es_ES.po/mnt/stockage/packages/f38/strawberry/src/translations/es.po | 
- | [es_AR]({{< ref "/f38/language/es_AR.md" >}}) | 4418 | 5222 | 84.6 | /mnt/stockage/packages/f38/strawberry/src/translations/es_AR.po | 
- | [es_MX]({{< ref "/f38/language/es_MX.md" >}}) | 4416 | 5222 | 84.6 | /mnt/stockage/packages/f38/strawberry/src/translations/es_MX.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 4351 | 5222 | 83.3 | /mnt/stockage/packages/f38/strawberry/src/translations/pl.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 3933 | 5222 | 75.3 | /mnt/stockage/packages/f38/strawberry/src/translations/ja.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 3809 | 5222 | 72.9 | /mnt/stockage/packages/f38/strawberry/src/translations/cs.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 3752 | 5222 | 71.8 | /mnt/stockage/packages/f38/strawberry/src/translations/ko.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 3581 | 5222 | 68.6 | /mnt/stockage/packages/f38/strawberry/src/translations/nl.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 3536 | 5222 | 67.7 | /mnt/stockage/packages/f38/strawberry/src/translations/zh_CN.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 3151 | 5222 | 60.3 | /mnt/stockage/packages/f38/strawberry/src/translations/fi.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 3100 | 5222 | 59.4 | /mnt/stockage/packages/f38/strawberry/src/translations/id.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 2517 | 5222 | 48.2 | /mnt/stockage/packages/f38/strawberry/src/translations/ca.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2466 | 5222 | 47.2 | /mnt/stockage/packages/f38/strawberry/src/translations/pt_BR.po | 
+ | [de](/f38/language/de) | 5222 | 5222 | 100.0 | /mnt/stockage/packages/f38/strawberry/src/translations/de.po | 
+ | [ru](/f38/language/ru) | 5222 | 5222 | 100.0 | /mnt/stockage/packages/f38/strawberry/src/translations/ru.po | 
+ | [sv](/f38/language/sv) | 5217 | 5222 | 99.9 | /mnt/stockage/packages/f38/strawberry/src/translations/sv.po | 
+ | [fr](/f38/language/fr) | 5176 | 5222 | 99.1 | /mnt/stockage/packages/f38/strawberry/src/translations/fr.po | 
+ | [it](/f38/language/it) | 5001 | 5222 | 95.8 | /mnt/stockage/packages/f38/strawberry/src/translations/it.po | 
+ | [hu](/f38/language/hu) | 4951 | 5222 | 94.8 | /mnt/stockage/packages/f38/strawberry/src/translations/hu.po | 
+ | [uk](/f38/language/uk) | 4720 | 5222 | 90.4 | /mnt/stockage/packages/f38/strawberry/src/translations/uk.po | 
+ | [nb_NO](/f38/language/nb_NO) | 4707 | 5222 | 90.1 | /mnt/stockage/packages/f38/strawberry/src/translations/nb.po | 
+ | [es](/f38/language/es) | 9281 | 10444 | 88.9 | /mnt/stockage/packages/f38/strawberry/src/translations/es_ES.po/mnt/stockage/packages/f38/strawberry/src/translations/es.po | 
+ | [es_AR](/f38/language/es_AR) | 4418 | 5222 | 84.6 | /mnt/stockage/packages/f38/strawberry/src/translations/es_AR.po | 
+ | [es_MX](/f38/language/es_MX) | 4416 | 5222 | 84.6 | /mnt/stockage/packages/f38/strawberry/src/translations/es_MX.po | 
+ | [pl](/f38/language/pl) | 4351 | 5222 | 83.3 | /mnt/stockage/packages/f38/strawberry/src/translations/pl.po | 
+ | [ja](/f38/language/ja) | 3933 | 5222 | 75.3 | /mnt/stockage/packages/f38/strawberry/src/translations/ja.po | 
+ | [cs](/f38/language/cs) | 3809 | 5222 | 72.9 | /mnt/stockage/packages/f38/strawberry/src/translations/cs.po | 
+ | [ko](/f38/language/ko) | 3752 | 5222 | 71.8 | /mnt/stockage/packages/f38/strawberry/src/translations/ko.po | 
+ | [nl](/f38/language/nl) | 3581 | 5222 | 68.6 | /mnt/stockage/packages/f38/strawberry/src/translations/nl.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 3536 | 5222 | 67.7 | /mnt/stockage/packages/f38/strawberry/src/translations/zh_CN.po | 
+ | [fi](/f38/language/fi) | 3151 | 5222 | 60.3 | /mnt/stockage/packages/f38/strawberry/src/translations/fi.po | 
+ | [id](/f38/language/id) | 3100 | 5222 | 59.4 | /mnt/stockage/packages/f38/strawberry/src/translations/id.po | 
+ | [ca](/f38/language/ca) | 2517 | 5222 | 48.2 | /mnt/stockage/packages/f38/strawberry/src/translations/ca.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2466 | 5222 | 47.2 | /mnt/stockage/packages/f38/strawberry/src/translations/pt_BR.po | 
 {.sortable}
 
 

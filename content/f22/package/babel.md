@@ -18,9 +18,9 @@ The package babel (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 3 | 6 | 50.0 | /mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/messages.po/mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/de/LC_MESSAGES/messages.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/en_US/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
+ | [de](/f22/language/de) | 3 | 6 | 50.0 | /mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/de_DE/LC_MESSAGES/messages.po/mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/de/LC_MESSAGES/messages.po | 
+ | [en_US](/f22/language/en_US) | 0 | 3 | 0.0 | /mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/en_US/LC_MESSAGES/messages.po | 
+ | [ru](/f22/language/ru) | 0 | 3 | 0.0 | /mnt/stockage/packages/f22/babel/tests/messages/data/project/i18n/ru_RU/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

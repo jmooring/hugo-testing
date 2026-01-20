@@ -18,12 +18,12 @@ The package kgtk (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/cs.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/de.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/de.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/en_GB.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/es.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/fr.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/fr.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/zh_CN.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/zh_CN.po | 
+ | [cs](/f7/language/cs) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/cs.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/cs.po | 
+ | [de](/f7/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/de.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/de.po | 
+ | [en_GB](/f7/language/en_GB) | 90 | 90 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/en_GB.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/en_GB.po | 
+ | [es](/f7/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/es.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/es.po | 
+ | [fr](/f7/language/fr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/fr.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/fr.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 90 | 90 | 100.0 | /mnt/stockage/packages/f7/kgtk/kdialogd3/po/zh_CN.po/mnt/stockage/packages/f7/kgtk/kdialogd4/po/zh_CN.po | 
 {.sortable}
 
 

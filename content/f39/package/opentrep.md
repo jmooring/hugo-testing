@@ -18,7 +18,7 @@ The package opentrep (version 0.07.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 13093 | 15880 | 82.4 | /mnt/stockage/packages/f39/opentrep/po/fr.po | 
+ | [fr](/f39/language/fr) | 13093 | 15880 | 82.4 | /mnt/stockage/packages/f39/opentrep/po/fr.po | 
 {.sortable}
 
 

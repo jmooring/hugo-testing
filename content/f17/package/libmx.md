@@ -18,36 +18,36 @@ The package libmx (version 1.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ast.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ca.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/en_GB.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/eo.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/es.po | 
- | [es_MX]({{< ref "/f17/language/es_MX.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/es_MX.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/fr.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ja.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ko.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/nl.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/pl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ru.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/sv.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/tr.po | 
- | [wa]({{< ref "/f17/language/wa.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/wa.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/zh_TW.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 34 | 40 | 85.0 | /mnt/stockage/packages/f17/libmx/po/sk.po | 
- | [lo]({{< ref "/f17/language/lo.md" >}}) | 16 | 40 | 40.0 | /mnt/stockage/packages/f17/libmx/po/lo.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f17/libmx/po/hu.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f17/libmx/po/th.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 3 | 40 | 7.5 | /mnt/stockage/packages/f17/libmx/po/uk.po | 
+ | [ast](/f17/language/ast) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ast.po | 
+ | [ca](/f17/language/ca) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ca.po | 
+ | [da](/f17/language/da) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/da.po | 
+ | [de](/f17/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/en_GB.po | 
+ | [eo](/f17/language/eo) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/eo.po | 
+ | [es](/f17/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/es.po | 
+ | [es_MX](/f17/language/es_MX) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/es_MX.po | 
+ | [fi](/f17/language/fi) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/fi.po | 
+ | [fr](/f17/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/fr.po | 
+ | [id](/f17/language/id) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/id.po | 
+ | [it](/f17/language/it) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/it.po | 
+ | [ja](/f17/language/ja) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ja.po | 
+ | [ko](/f17/language/ko) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ko.po | 
+ | [nl](/f17/language/nl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/nl.po | 
+ | [pa](/f17/language/pa) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/pa.po | 
+ | [pl](/f17/language/pl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/pl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ro.po | 
+ | [ru](/f17/language/ru) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/ru.po | 
+ | [sv](/f17/language/sv) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/sv.po | 
+ | [tr](/f17/language/tr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/tr.po | 
+ | [wa](/f17/language/wa) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/wa.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 40 | 40 | 100.0 | /mnt/stockage/packages/f17/libmx/po/zh_TW.po | 
+ | [sk](/f17/language/sk) | 34 | 40 | 85.0 | /mnt/stockage/packages/f17/libmx/po/sk.po | 
+ | [lo](/f17/language/lo) | 16 | 40 | 40.0 | /mnt/stockage/packages/f17/libmx/po/lo.po | 
+ | [hu](/f17/language/hu) | 3 | 40 | 7.5 | /mnt/stockage/packages/f17/libmx/po/hu.po | 
+ | [th](/f17/language/th) | 3 | 40 | 7.5 | /mnt/stockage/packages/f17/libmx/po/th.po | 
+ | [uk](/f17/language/uk) | 3 | 40 | 7.5 | /mnt/stockage/packages/f17/libmx/po/uk.po | 
 {.sortable}
 
 

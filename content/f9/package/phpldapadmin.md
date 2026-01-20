@@ -18,22 +18,22 @@ The package phpldapadmin (version 1.1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/ca_ES/LC_MESSAGES/messages.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1965 | 1965 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/cs_CZ/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/de_DE/LC_MESSAGES/messages.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/sv_FI/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2415 | 2415 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/es_ES/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2637 | 2637 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/fr_FR/LC_MESSAGES/messages.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1959 | 1959 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/hu_HU/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2635 | 2635 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/it_IT/LC_MESSAGES/messages.po | 
- | [nl_BE]({{< ref "/f9/language/nl_BE.md" >}}) | 1098 | 1098 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/nl_BE/LC_MESSAGES/messages.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 2637 | 2637 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/pl_PL/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1968 | 1968 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/pt_BR/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1969 | 1969 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/ru_RU/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 2575 | 2575 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/zh_CN/LC_MESSAGES/messages.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1832 | 1832 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/zh_TW/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 2591 | 2592 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/fi_FI/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 2070 | 2519 | 82.2 | /mnt/stockage/packages/f9/phpldapadmin/locale/ja_JP/LC_MESSAGES/messages.po | 
+ | [ca](/f9/language/ca) | 1117 | 1117 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/ca_ES/LC_MESSAGES/messages.po | 
+ | [cs](/f9/language/cs) | 1965 | 1965 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/cs_CZ/LC_MESSAGES/messages.po | 
+ | [de](/f9/language/de) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/de_DE/LC_MESSAGES/messages.po | 
+ | [error](/f9/language/error) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/sv_FI/LC_MESSAGES/messages.po | 
+ | [es](/f9/language/es) | 2415 | 2415 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/es_ES/LC_MESSAGES/messages.po | 
+ | [fr](/f9/language/fr) | 2637 | 2637 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/fr_FR/LC_MESSAGES/messages.po | 
+ | [hu](/f9/language/hu) | 1959 | 1959 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/hu_HU/LC_MESSAGES/messages.po | 
+ | [it](/f9/language/it) | 2635 | 2635 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/it_IT/LC_MESSAGES/messages.po | 
+ | [nl_BE](/f9/language/nl_BE) | 1098 | 1098 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/nl_BE/LC_MESSAGES/messages.po | 
+ | [pl](/f9/language/pl) | 2637 | 2637 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/pl_PL/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1968 | 1968 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/pt_BR/LC_MESSAGES/messages.po | 
+ | [ru](/f9/language/ru) | 1969 | 1969 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/ru_RU/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 2575 | 2575 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/zh_CN/LC_MESSAGES/messages.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1832 | 1832 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/zh_TW/LC_MESSAGES/messages.po | 
+ | [fi](/f9/language/fi) | 2591 | 2592 | 100.0 | /mnt/stockage/packages/f9/phpldapadmin/locale/fi_FI/LC_MESSAGES/messages.po | 
+ | [ja](/f9/language/ja) | 2070 | 2519 | 82.2 | /mnt/stockage/packages/f9/phpldapadmin/locale/ja_JP/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

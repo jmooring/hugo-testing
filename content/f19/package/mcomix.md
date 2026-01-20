@@ -18,29 +18,29 @@ The package mcomix (version 1.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/de/LC_MESSAGES/mcomix.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/it/LC_MESSAGES/mcomix.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2365 | 2501 | 94.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/fr/LC_MESSAGES/mcomix.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2291 | 2501 | 91.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/es/LC_MESSAGES/mcomix.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 2291 | 2501 | 91.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/zh_TW/LC_MESSAGES/mcomix.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 2017 | 2501 | 80.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ja/LC_MESSAGES/mcomix.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 2014 | 2501 | 80.5 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/he/LC_MESSAGES/mcomix.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1891 | 2501 | 75.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/zh_CN/LC_MESSAGES/mcomix.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1068 | 2501 | 42.7 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/sv/LC_MESSAGES/mcomix.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1066 | 2501 | 42.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ru/LC_MESSAGES/mcomix.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 586 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/uk/LC_MESSAGES/mcomix.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ca/LC_MESSAGES/mcomix.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/cs/LC_MESSAGES/mcomix.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/gl/LC_MESSAGES/mcomix.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/hu/LC_MESSAGES/mcomix.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/pl/LC_MESSAGES/mcomix.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/hr/LC_MESSAGES/mcomix.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/id/LC_MESSAGES/mcomix.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ko/LC_MESSAGES/mcomix.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/pt_BR/LC_MESSAGES/mcomix.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 168 | 2501 | 6.7 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/fa/LC_MESSAGES/mcomix.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 160 | 2501 | 6.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/el/LC_MESSAGES/mcomix.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 160 | 2501 | 6.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/nl/LC_MESSAGES/mcomix.po | 
+ | [de](/f19/language/de) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/de/LC_MESSAGES/mcomix.po | 
+ | [it](/f19/language/it) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/it/LC_MESSAGES/mcomix.po | 
+ | [fr](/f19/language/fr) | 2365 | 2501 | 94.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/fr/LC_MESSAGES/mcomix.po | 
+ | [es](/f19/language/es) | 2291 | 2501 | 91.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/es/LC_MESSAGES/mcomix.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 2291 | 2501 | 91.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/zh_TW/LC_MESSAGES/mcomix.po | 
+ | [ja](/f19/language/ja) | 2017 | 2501 | 80.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ja/LC_MESSAGES/mcomix.po | 
+ | [he](/f19/language/he) | 2014 | 2501 | 80.5 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/he/LC_MESSAGES/mcomix.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 1891 | 2501 | 75.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/zh_CN/LC_MESSAGES/mcomix.po | 
+ | [sv](/f19/language/sv) | 1068 | 2501 | 42.7 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/sv/LC_MESSAGES/mcomix.po | 
+ | [ru](/f19/language/ru) | 1066 | 2501 | 42.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ru/LC_MESSAGES/mcomix.po | 
+ | [uk](/f19/language/uk) | 586 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/uk/LC_MESSAGES/mcomix.po | 
+ | [ca](/f19/language/ca) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ca/LC_MESSAGES/mcomix.po | 
+ | [cs](/f19/language/cs) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/cs/LC_MESSAGES/mcomix.po | 
+ | [gl](/f19/language/gl) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/gl/LC_MESSAGES/mcomix.po | 
+ | [hu](/f19/language/hu) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/hu/LC_MESSAGES/mcomix.po | 
+ | [pl](/f19/language/pl) | 584 | 2501 | 23.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/pl/LC_MESSAGES/mcomix.po | 
+ | [hr](/f19/language/hr) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/hr/LC_MESSAGES/mcomix.po | 
+ | [id](/f19/language/id) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/id/LC_MESSAGES/mcomix.po | 
+ | [ko](/f19/language/ko) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/ko/LC_MESSAGES/mcomix.po | 
+ | [pt_BR](/f19/language/pt_BR) | 565 | 2501 | 22.6 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/pt_BR/LC_MESSAGES/mcomix.po | 
+ | [fa](/f19/language/fa) | 168 | 2501 | 6.7 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/fa/LC_MESSAGES/mcomix.po | 
+ | [el](/f19/language/el) | 160 | 2501 | 6.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/el/LC_MESSAGES/mcomix.po | 
+ | [nl](/f19/language/nl) | 160 | 2501 | 6.4 | /mnt/stockage/packages/f19/mcomix/mcomix/messages/nl/LC_MESSAGES/mcomix.po | 
 {.sortable}
 
 

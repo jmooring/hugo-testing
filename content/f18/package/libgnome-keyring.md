@@ -18,72 +18,72 @@ The package libgnome-keyring (version 3.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f18/language/af.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/af.po | 
- | [an]({{< ref "/f18/language/an.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/an.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ar.po | 
- | [as]({{< ref "/f18/language/as.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/as.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ast.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/bg.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/bn_IN.po/mnt/stockage/packages/f18/libgnome-keyring/po/bn.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ca.po/mnt/stockage/packages/f18/libgnome-keyring/po/ca@valencia.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/en_GB.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/eo.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/eu.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fa.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fr.po | 
- | [fy]({{< ref "/f18/language/fy.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fy.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/gl.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/gu.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/he.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/hi.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ja.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/km.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/kn.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/lt.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/lv.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ml.po | 
- | [mn]({{< ref "/f18/language/mn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/mn.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/mr.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ms.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nb.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nds.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nl.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nn.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/or.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sr.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sr@latin.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sv.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/te.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/th.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/uk.po | 
- | [uz]({{< ref "/f18/language/uz.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/vi.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/zh_HK.po | 
+ | [af](/f18/language/af) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/af.po | 
+ | [an](/f18/language/an) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/an.po | 
+ | [ar](/f18/language/ar) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ar.po | 
+ | [as](/f18/language/as) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/as.po | 
+ | [ast](/f18/language/ast) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ast.po | 
+ | [be](/f18/language/be) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/be.po | 
+ | [bg](/f18/language/bg) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/bg.po | 
+ | [bn](/f18/language/bn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/bn_IN.po/mnt/stockage/packages/f18/libgnome-keyring/po/bn.po | 
+ | [ca](/f18/language/ca) | 88 | 88 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ca.po/mnt/stockage/packages/f18/libgnome-keyring/po/ca@valencia.po | 
+ | [cs](/f18/language/cs) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/cs.po | 
+ | [da](/f18/language/da) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/da.po | 
+ | [de](/f18/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/de.po | 
+ | [el](/f18/language/el) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/en_GB.po | 
+ | [eo](/f18/language/eo) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/eo.po | 
+ | [es](/f18/language/es) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/es.po | 
+ | [et](/f18/language/et) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/et.po | 
+ | [eu](/f18/language/eu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/eu.po | 
+ | [fa](/f18/language/fa) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fa.po | 
+ | [fi](/f18/language/fi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fi.po | 
+ | [fr](/f18/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fr.po | 
+ | [fy](/f18/language/fy) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/fy.po | 
+ | [gl](/f18/language/gl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/gl.po | 
+ | [gu](/f18/language/gu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/gu.po | 
+ | [he](/f18/language/he) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/he.po | 
+ | [hi](/f18/language/hi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/hi.po | 
+ | [hu](/f18/language/hu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/hu.po | 
+ | [id](/f18/language/id) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/id.po | 
+ | [it](/f18/language/it) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/it.po | 
+ | [ja](/f18/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ja.po | 
+ | [km](/f18/language/km) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/km.po | 
+ | [kn](/f18/language/kn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/kn.po | 
+ | [ko](/f18/language/ko) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ko.po | 
+ | [lt](/f18/language/lt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/lt.po | 
+ | [lv](/f18/language/lv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/lv.po | 
+ | [ml](/f18/language/ml) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ml.po | 
+ | [mn](/f18/language/mn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/mn.po | 
+ | [mr](/f18/language/mr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/mr.po | 
+ | [ms](/f18/language/ms) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ms.po | 
+ | [nb_NO](/f18/language/nb_NO) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nb.po | 
+ | [nds](/f18/language/nds) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nds.po | 
+ | [nl](/f18/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nl.po | 
+ | [nn](/f18/language/nn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/nn.po | 
+ | [or](/f18/language/or) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/or.po | 
+ | [pa](/f18/language/pa) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pa.po | 
+ | [pl](/f18/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pl.po | 
+ | [pt](/f18/language/pt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ro.po | 
+ | [ru](/f18/language/ru) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ru.po | 
+ | [sk](/f18/language/sk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sk.po | 
+ | [sl](/f18/language/sl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sl.po | 
+ | [sr](/f18/language/sr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sr.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sr@latin.po | 
+ | [sv](/f18/language/sv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/sv.po | 
+ | [ta](/f18/language/ta) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ta.po | 
+ | [te](/f18/language/te) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/te.po | 
+ | [th](/f18/language/th) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/th.po | 
+ | [tr](/f18/language/tr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/tr.po | 
+ | [ug](/f18/language/ug) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/ug.po | 
+ | [uk](/f18/language/uk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/uk.po | 
+ | [uz](/f18/language/uz) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/uz@cyrillic.po | 
+ | [vi](/f18/language/vi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/zh_TW.po | 
+ | [zh_Hant_HK](/f18/language/zh_Hant_HK) | 44 | 44 | 100.0 | /mnt/stockage/packages/f18/libgnome-keyring/po/zh_HK.po | 
 {.sortable}
 
 

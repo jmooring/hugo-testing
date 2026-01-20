@@ -18,15 +18,15 @@ The package cherokee (version 0.99.49):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 5944 | 6190 | 96.0 | /mnt/stockage/packages/f11/cherokee/po/admin/es.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 4151 | 6190 | 67.1 | /mnt/stockage/packages/f11/cherokee/po/admin/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 3491 | 6190 | 56.4 | /mnt/stockage/packages/f11/cherokee/po/admin/pl.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2508 | 6190 | 40.5 | /mnt/stockage/packages/f11/cherokee/po/admin/zh_CN.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 2017 | 6190 | 32.6 | /mnt/stockage/packages/f11/cherokee/po/admin/sv_SE.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 1946 | 6190 | 31.4 | /mnt/stockage/packages/f11/cherokee/po/admin/en.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 923 | 6190 | 14.9 | /mnt/stockage/packages/f11/cherokee/po/admin/fr.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 504 | 6190 | 8.1 | /mnt/stockage/packages/f11/cherokee/po/admin/de.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 419 | 6190 | 6.8 | /mnt/stockage/packages/f11/cherokee/po/admin/pt_BR.po | 
+ | [es](/f11/language/es) | 5944 | 6190 | 96.0 | /mnt/stockage/packages/f11/cherokee/po/admin/es.po | 
+ | [nl](/f11/language/nl) | 4151 | 6190 | 67.1 | /mnt/stockage/packages/f11/cherokee/po/admin/nl.po | 
+ | [pl](/f11/language/pl) | 3491 | 6190 | 56.4 | /mnt/stockage/packages/f11/cherokee/po/admin/pl.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2508 | 6190 | 40.5 | /mnt/stockage/packages/f11/cherokee/po/admin/zh_CN.po | 
+ | [sv](/f11/language/sv) | 2017 | 6190 | 32.6 | /mnt/stockage/packages/f11/cherokee/po/admin/sv_SE.po | 
+ | [en](/f11/language/en) | 1946 | 6190 | 31.4 | /mnt/stockage/packages/f11/cherokee/po/admin/en.po | 
+ | [fr](/f11/language/fr) | 923 | 6190 | 14.9 | /mnt/stockage/packages/f11/cherokee/po/admin/fr.po | 
+ | [de](/f11/language/de) | 504 | 6190 | 8.1 | /mnt/stockage/packages/f11/cherokee/po/admin/de.po | 
+ | [pt_BR](/f11/language/pt_BR) | 419 | 6190 | 6.8 | /mnt/stockage/packages/f11/cherokee/po/admin/pt_BR.po | 
 {.sortable}
 
 

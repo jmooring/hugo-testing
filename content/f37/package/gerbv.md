@@ -18,7 +18,7 @@ The package gerbv (version 2.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 6374 | 6374 | 100.0 | /mnt/stockage/packages/f37/gerbv/man/gerbv.ru.1.in.po/mnt/stockage/packages/f37/gerbv/po/ru.po | 
+ | [ru](/f37/language/ru) | 6374 | 6374 | 100.0 | /mnt/stockage/packages/f37/gerbv/man/gerbv.ru.1.in.po/mnt/stockage/packages/f37/gerbv/po/ru.po | 
 {.sortable}
 
 

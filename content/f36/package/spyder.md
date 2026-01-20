@@ -18,18 +18,18 @@ The package spyder (version 5.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/es/LC_MESSAGES/spyder.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/ja/LC_MESSAGES/spyder.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/pt_BR/LC_MESSAGES/spyder.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/zh_CN/LC_MESSAGES/spyder.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 9819 | 9871 | 99.5 | /mnt/stockage/packages/f36/spyder/spyder/locale/de/LC_MESSAGES/spyder.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 9804 | 9871 | 99.3 | /mnt/stockage/packages/f36/spyder/spyder/locale/fr/LC_MESSAGES/spyder.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 8060 | 9871 | 81.7 | /mnt/stockage/packages/f36/spyder/spyder/locale/ru/LC_MESSAGES/spyder.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 3502 | 9871 | 35.5 | /mnt/stockage/packages/f36/spyder/spyder/locale/pl/LC_MESSAGES/spyder.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 3483 | 9871 | 35.3 | /mnt/stockage/packages/f36/spyder/spyder/locale/uk/LC_MESSAGES/spyder.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 2247 | 9871 | 22.8 | /mnt/stockage/packages/f36/spyder/spyder/locale/hu/LC_MESSAGES/spyder.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 214 | 9871 | 2.2 | /mnt/stockage/packages/f36/spyder/spyder/locale/fa/LC_MESSAGES/spyder.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 8 | 9871 | 0.1 | /mnt/stockage/packages/f36/spyder/spyder/locale/hr/LC_MESSAGES/spyder.po | 
+ | [es](/f36/language/es) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/es/LC_MESSAGES/spyder.po | 
+ | [ja](/f36/language/ja) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/ja/LC_MESSAGES/spyder.po | 
+ | [pt_BR](/f36/language/pt_BR) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/pt_BR/LC_MESSAGES/spyder.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 9871 | 9871 | 100.0 | /mnt/stockage/packages/f36/spyder/spyder/locale/zh_CN/LC_MESSAGES/spyder.po | 
+ | [de](/f36/language/de) | 9819 | 9871 | 99.5 | /mnt/stockage/packages/f36/spyder/spyder/locale/de/LC_MESSAGES/spyder.po | 
+ | [fr](/f36/language/fr) | 9804 | 9871 | 99.3 | /mnt/stockage/packages/f36/spyder/spyder/locale/fr/LC_MESSAGES/spyder.po | 
+ | [ru](/f36/language/ru) | 8060 | 9871 | 81.7 | /mnt/stockage/packages/f36/spyder/spyder/locale/ru/LC_MESSAGES/spyder.po | 
+ | [pl](/f36/language/pl) | 3502 | 9871 | 35.5 | /mnt/stockage/packages/f36/spyder/spyder/locale/pl/LC_MESSAGES/spyder.po | 
+ | [uk](/f36/language/uk) | 3483 | 9871 | 35.3 | /mnt/stockage/packages/f36/spyder/spyder/locale/uk/LC_MESSAGES/spyder.po | 
+ | [hu](/f36/language/hu) | 2247 | 9871 | 22.8 | /mnt/stockage/packages/f36/spyder/spyder/locale/hu/LC_MESSAGES/spyder.po | 
+ | [fa](/f36/language/fa) | 214 | 9871 | 2.2 | /mnt/stockage/packages/f36/spyder/spyder/locale/fa/LC_MESSAGES/spyder.po | 
+ | [hr](/f36/language/hr) | 8 | 9871 | 0.1 | /mnt/stockage/packages/f36/spyder/spyder/locale/hr/LC_MESSAGES/spyder.po | 
 {.sortable}
 
 

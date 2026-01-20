@@ -18,8 +18,8 @@ The package usbsink (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f7/usbsink/po/sv.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 373 | 379 | 98.4 | /mnt/stockage/packages/f7/usbsink/po/sr.po | 
+ | [sv](/f7/language/sv) | 379 | 379 | 100.0 | /mnt/stockage/packages/f7/usbsink/po/sv.po | 
+ | [sr](/f7/language/sr) | 373 | 379 | 98.4 | /mnt/stockage/packages/f7/usbsink/po/sr.po | 
 {.sortable}
 
 

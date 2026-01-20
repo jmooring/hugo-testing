@@ -43,278 +43,278 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f9/package/GConf2.md" >}}) | 4017 | 4017 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [alacarte]({{< ref "/f9/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 10040 | 10040 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [at-spi]({{< ref "/f9/package/at-spi.md" >}}) | 15 | 15 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [atk]({{< ref "/f9/package/atk.md" >}}) | 370 | 370 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [atomix]({{< ref "/f9/package/atomix.md" >}}) | 146 | 146 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [authconfig]({{< ref "/f9/package/authconfig.md" >}}) | 1292 | 1292 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [blam]({{< ref "/f9/package/blam.md" >}}) | 67 | 67 | 100.0 | KBST Punjab <kbstpunjab@netscpe.net> | 
- | [bug-buddy]({{< ref "/f9/package/bug-buddy.md" >}}) | 930 | 930 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [chkconfig]({{< ref "/f9/package/chkconfig.md" >}}) | 430 | 430 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [compiz]({{< ref "/f9/package/compiz.md" >}}) | 66 | 66 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [dasher]({{< ref "/f9/package/dasher.md" >}}) | 460 | 460 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [deskbar-applet]({{< ref "/f9/package/deskbar-applet.md" >}}) | 881 | 881 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [devhelp]({{< ref "/f9/package/devhelp.md" >}}) | 222 | 222 | 100.0 | Punjab <punlinux-i18n@lists.sourceforge.> | 
- | [eel2]({{< ref "/f9/package/eel2.md" >}}) | 226 | 226 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [ekiga]({{< ref "/f9/package/ekiga.md" >}}) | 5167 | 5167 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [evince]({{< ref "/f9/package/evince.md" >}}) | 1007 | 1007 | 100.0 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [evolution-data-server]({{< ref "/f9/package/evolution-data-server.md" >}}) | 5044 | 5044 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [evolution-exchange]({{< ref "/f9/package/evolution-exchange.md" >}}) | 1295 | 1295 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [evolution-webcal]({{< ref "/f9/package/evolution-webcal.md" >}}) | 184 | 184 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [file-roller]({{< ref "/f9/package/file-roller.md" >}}) | 1159 | 1159 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [gail]({{< ref "/f9/package/gail.md" >}}) | 170 | 170 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gcalctool]({{< ref "/f9/package/gcalctool.md" >}}) | 1175 | 1175 | 100.0 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [gconf-editor]({{< ref "/f9/package/gconf-editor.md" >}}) | 329 | 329 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gedit]({{< ref "/f9/package/gedit.md" >}}) | 5095 | 5095 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gedit-plugins]({{< ref "/f9/package/gedit-plugins.md" >}}) | 281 | 281 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [ggz-client-libs]({{< ref "/f9/package/ggz-client-libs.md" >}}) | 72 | 72 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [ggz-gtk-client]({{< ref "/f9/package/ggz-gtk-client.md" >}}) | 960 | 960 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-backgrounds]({{< ref "/f9/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-build]({{< ref "/f9/package/gnome-build.md" >}}) | 203 | 203 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-doc-utils]({{< ref "/f9/package/gnome-doc-utils.md" >}}) | 213 | 213 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-icon-theme]({{< ref "/f9/package/gnome-icon-theme.md" >}}) | 53 | 53 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-keyring]({{< ref "/f9/package/gnome-keyring.md" >}}) | 711 | 711 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-keyring-manager]({{< ref "/f9/package/gnome-keyring-manager.md" >}}) | 284 | 284 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-mag]({{< ref "/f9/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Punjabi <pa@li.org> | 
- | [gnome-media]({{< ref "/f9/package/gnome-media.md" >}}) | 1923 | 1923 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-mime-data]({{< ref "/f9/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Punjabi <pa@li.org> | 
- | [gnome-netstatus]({{< ref "/f9/package/gnome-netstatus.md" >}}) | 1232 | 1232 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-nettool]({{< ref "/f9/package/gnome-nettool.md" >}}) | 1069 | 1069 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-pilot]({{< ref "/f9/package/gnome-pilot.md" >}}) | 1573 | 1573 | 100.0 | Punjabi <punlinux-i18n@lists.sourceforge.> | 
- | [gnome-screensaver]({{< ref "/f9/package/gnome-screensaver.md" >}}) | 991 | 991 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-session]({{< ref "/f9/package/gnome-session.md" >}}) | 888 | 888 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-terminal]({{< ref "/f9/package/gnome-terminal.md" >}}) | 4599 | 4599 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-themes]({{< ref "/f9/package/gnome-themes.md" >}}) | 85 | 85 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-user-share]({{< ref "/f9/package/gnome-user-share.md" >}}) | 75 | 75 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-utils]({{< ref "/f9/package/gnome-utils.md" >}}) | 4136 | 4136 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-vfs2]({{< ref "/f9/package/gnome-vfs2.md" >}}) | 1506 | 1506 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-volume-manager]({{< ref "/f9/package/gnome-volume-manager.md" >}}) | 1193 | 1193 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gok]({{< ref "/f9/package/gok.md" >}}) | 1942 | 1942 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gparted]({{< ref "/f9/package/gparted.md" >}}) | 1274 | 1274 | 100.0 | Panjabi <punjabi-l10n@users.sf.net> | 
- | [gtk2-engines]({{< ref "/f9/package/gtk2-engines.md" >}}) | 83 | 83 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gtkhtml3]({{< ref "/f9/package/gtkhtml3.md" >}}) | 947 | 947 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gtksourceview]({{< ref "/f9/package/gtksourceview.md" >}}) | 891 | 891 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gtranslator]({{< ref "/f9/package/gtranslator.md" >}}) | 1414 | 1414 | 100.0 | Punjabi <punlinux-i18n@lists.sourceforge.> | 
- | [gucharmap]({{< ref "/f9/package/gucharmap.md" >}}) | 776 | 776 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gwget]({{< ref "/f9/package/gwget.md" >}}) | 269 | 269 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [hwbrowser]({{< ref "/f9/package/hwbrowser.md" >}}) | 116 | 116 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [im-chooser]({{< ref "/f9/package/im-chooser.md" >}}) | 457 | 457 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [initscripts]({{< ref "/f9/package/initscripts.md" >}}) | 3806 | 3806 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [istanbul]({{< ref "/f9/package/istanbul.md" >}}) | 350 | 350 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kexec-tools]({{< ref "/f9/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kpowersave]({{< ref "/f9/package/kpowersave.md" >}}) | 1699 | 1699 | 100.0 | Panjabi <punjabi-l10n@lists.sf.net> | 
- | [libbonobo]({{< ref "/f9/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libbonoboui]({{< ref "/f9/package/libbonoboui.md" >}}) | 361 | 361 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgnome]({{< ref "/f9/package/libgnome.md" >}}) | 1648 | 1648 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgnomecanvas]({{< ref "/f9/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgnomecups]({{< ref "/f9/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Punjabi <fedora-transa-pa@redhat.com> | 
- | [libgnomeprint22]({{< ref "/f9/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgnomeprintui22]({{< ref "/f9/package/libgnomeprintui22.md" >}}) | 477 | 477 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 1335 | 1335 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgtop2]({{< ref "/f9/package/libgtop2.md" >}}) | 134 | 134 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [libgweather]({{< ref "/f9/package/libgweather.md" >}}) | 6733 | 6733 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [libkexif]({{< ref "/f9/package/libkexif.md" >}}) | 25 | 25 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libkipi]({{< ref "/f9/package/libkipi.md" >}}) | 83 | 83 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libuser]({{< ref "/f9/package/libuser.md" >}}) | 1064 | 1064 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libxfcegui4]({{< ref "/f9/package/libxfcegui4.md" >}}) | 81 | 81 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [metacity]({{< ref "/f9/package/metacity.md" >}}) | 8059 | 8059 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [nautilus-cd-burner]({{< ref "/f9/package/nautilus-cd-burner.md" >}}) | 1306 | 1306 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [nautilus-open-terminal]({{< ref "/f9/package/nautilus-open-terminal.md" >}}) | 16 | 16 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [nautilus-sendto]({{< ref "/f9/package/nautilus-sendto.md" >}}) | 86 | 86 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [newt]({{< ref "/f9/package/newt.md" >}}) | 4 | 4 | 100.0 | Panjabi <pa@li.org> | 
- | [orage]({{< ref "/f9/package/orage.md" >}}) | 864 | 864 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [passwd]({{< ref "/f9/package/passwd.md" >}}) | 291 | 291 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [pessulus]({{< ref "/f9/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [pidgin]({{< ref "/f9/package/pidgin.md" >}}) | 15918 | 15918 | 100.0 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [pykickstart]({{< ref "/f9/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [redhat-menus]({{< ref "/f9/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 59 | 59 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [rhpl]({{< ref "/f9/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [rhpxl]({{< ref "/f9/package/rhpxl.md" >}}) | 130 | 130 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [setuptool]({{< ref "/f9/package/setuptool.md" >}}) | 60 | 60 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [sos]({{< ref "/f9/package/sos.md" >}}) | 283 | 283 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [sound-juicer]({{< ref "/f9/package/sound-juicer.md" >}}) | 934 | 934 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [switchdesk]({{< ref "/f9/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-display]({{< ref "/f9/package/system-config-display.md" >}}) | 398 | 398 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-firewall]({{< ref "/f9/package/system-config-firewall.md" >}}) | 2350 | 2350 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-httpd]({{< ref "/f9/package/system-config-httpd.md" >}}) | 858 | 858 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-keyboard]({{< ref "/f9/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-kickstart]({{< ref "/f9/package/system-config-kickstart.md" >}}) | 1054 | 1054 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-language]({{< ref "/f9/package/system-config-language.md" >}}) | 49 | 49 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-network]({{< ref "/f9/package/system-config-network.md" >}}) | 2856 | 2856 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-rootpassword]({{< ref "/f9/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-switch-mail]({{< ref "/f9/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [thunar-archive-plugin]({{< ref "/f9/package/thunar-archive-plugin.md" >}}) | 86 | 86 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [tomboy]({{< ref "/f9/package/tomboy.md" >}}) | 2319 | 2319 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [totem-pl-parser]({{< ref "/f9/package/totem-pl-parser.md" >}}) | 1982 | 1982 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [usermode]({{< ref "/f9/package/usermode.md" >}}) | 564 | 564 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [vte]({{< ref "/f9/package/vte.md" >}}) | 107 | 107 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfce-mcs-manager]({{< ref "/f9/package/xfce-mcs-manager.md" >}}) | 30 | 30 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfce4-appfinder]({{< ref "/f9/package/xfce4-appfinder.md" >}}) | 48 | 48 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfce4-panel]({{< ref "/f9/package/xfce4-panel.md" >}}) | 578 | 578 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfce4-verve-plugin]({{< ref "/f9/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfprint]({{< ref "/f9/package/xfprint.md" >}}) | 323 | 323 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfwm4]({{< ref "/f9/package/xfwm4.md" >}}) | 646 | 646 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xsane]({{< ref "/f9/package/xsane.md" >}}) | 3224 | 3224 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [yelp]({{< ref "/f9/package/yelp.md" >}}) | 1035 | 1035 | 100.0 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [zenity]({{< ref "/f9/package/zenity.md" >}}) | 554 | 554 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [tsclient]({{< ref "/f9/package/tsclient.md" >}}) | 486 | 487 | 99.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [scim]({{< ref "/f9/package/scim.md" >}}) | 2341 | 2346 | 99.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-bind]({{< ref "/f9/package/system-config-bind.md" >}}) | 9346 | 9427 | 99.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [firstboot]({{< ref "/f9/package/firstboot.md" >}}) | 592 | 604 | 98.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-games]({{< ref "/f9/package/gnome-games.md" >}}) | 7356 | 7524 | 97.8 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [ccsm]({{< ref "/f9/package/ccsm.md" >}}) | 517 | 532 | 97.2 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [control-center]({{< ref "/f9/package/control-center.md" >}}) | 3199 | 3299 | 97.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [nautilus]({{< ref "/f9/package/nautilus.md" >}}) | 7328 | 7562 | 96.9 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [banshee]({{< ref "/f9/package/banshee.md" >}}) | 4256 | 4393 | 96.9 | Panjabi <punjabi-l10n@users.sf.net> | 
- | [epiphany]({{< ref "/f9/package/epiphany.md" >}}) | 3843 | 3969 | 96.8 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [evolution]({{< ref "/f9/package/evolution.md" >}}) | 20113 | 20811 | 96.6 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [gnome-spell]({{< ref "/f9/package/gnome-spell.md" >}}) | 84 | 87 | 96.6 | Punjabi <pa@li.org> | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 11617 | 12092 | 96.1 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [xfce-utils]({{< ref "/f9/package/xfce-utils.md" >}}) | 114 | 119 | 95.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [vino]({{< ref "/f9/package/vino.md" >}}) | 951 | 993 | 95.8 | American English <punjabi-users@lists.sf.net> | 
- | [seahorse]({{< ref "/f9/package/seahorse.md" >}}) | 3407 | 3560 | 95.7 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [system-config-lvm]({{< ref "/f9/package/system-config-lvm.md" >}}) | 2049 | 2142 | 95.7 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [yumex]({{< ref "/f9/package/yumex.md" >}}) | 537 | 564 | 95.2 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [epiphany-extensions]({{< ref "/f9/package/epiphany-extensions.md" >}}) | 150 | 158 | 94.9 | Punjabi <pa@li.org> | 
- | [gimp]({{< ref "/f9/package/gimp.md" >}}) | 24094 | 25385 | 94.9 | Panjabi <punjabi-l10n@users.sf.net> | 
- | [gtksourceview2]({{< ref "/f9/package/gtksourceview2.md" >}}) | 941 | 994 | 94.7 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [poedit]({{< ref "/f9/package/poedit.md" >}}) | 1090 | 1154 | 94.5 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gthumb]({{< ref "/f9/package/gthumb.md" >}}) | 2895 | 3130 | 92.5 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [xdg-user-dirs]({{< ref "/f9/package/xdg-user-dirs.md" >}}) | 24 | 26 | 92.3 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gvfs]({{< ref "/f9/package/gvfs.md" >}}) | 956 | 1054 | 90.7 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [system-config-netboot]({{< ref "/f9/package/system-config-netboot.md" >}}) | 994 | 1103 | 90.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [rhythmbox]({{< ref "/f9/package/rhythmbox.md" >}}) | 3406 | 3794 | 89.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-boot]({{< ref "/f9/package/system-config-boot.md" >}}) | 41 | 46 | 89.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-kdump]({{< ref "/f9/package/system-config-kdump.md" >}}) | 339 | 383 | 88.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfce-mcs-plugins]({{< ref "/f9/package/xfce-mcs-plugins.md" >}}) | 475 | 540 | 88.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-settings-daemon]({{< ref "/f9/package/gnome-settings-daemon.md" >}}) | 904 | 1034 | 87.4 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [kcoloredit]({{< ref "/f9/package/kcoloredit.md" >}}) | 102 | 118 | 86.4 | Panjabi <punjabi-l10n@lists.sf.net> | 
- | [glib2]({{< ref "/f9/package/glib2.md" >}}) | 1847 | 2158 | 85.6 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 926 | 1082 | 85.6 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfdesktop]({{< ref "/f9/package/xfdesktop.md" >}}) | 917 | 1078 | 85.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-bluetooth]({{< ref "/f9/package/gnome-bluetooth.md" >}}) | 201 | 237 | 84.8 | <pa@li.org> | 
- | [publican-fedora]({{< ref "/f9/package/publican-fedora.md" >}}) | 898 | 1079 | 83.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 6485 | 8086 | 80.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libwnck]({{< ref "/f9/package/libwnck.md" >}}) | 897 | 1124 | 79.8 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [cracklib]({{< ref "/f9/package/cracklib.md" >}}) | 74 | 93 | 79.6 | Panjabi <pa@li.org> | 
- | [konq-plugins]({{< ref "/f9/package/konq-plugins.md" >}}) | 1236 | 1556 | 79.4 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [NetworkManager-openvpn]({{< ref "/f9/package/NetworkManager-openvpn.md" >}}) | 306 | 392 | 78.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [sabayon]({{< ref "/f9/package/sabayon.md" >}}) | 903 | 1178 | 76.7 | Punjabi Translation Team <punjabi-users@lists.sf.net> | 
- | [thunar-media-tags-plugin]({{< ref "/f9/package/thunar-media-tags-plugin.md" >}}) | 109 | 144 | 75.7 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [amarok]({{< ref "/f9/package/amarok.md" >}}) | 9944 | 13254 | 75.0 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [NetworkManager]({{< ref "/f9/package/NetworkManager.md" >}}) | 178 | 238 | 74.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [beagle]({{< ref "/f9/package/beagle.md" >}}) | 948 | 1269 | 74.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [kmplayer]({{< ref "/f9/package/kmplayer.md" >}}) | 932 | 1251 | 74.5 | Panjabi <punjabi-l10n@lists.sf.net> | 
- | [kaffeine]({{< ref "/f9/package/kaffeine.md" >}}) | 1743 | 2354 | 74.0 | Panjabi <pa@li.org> | 
- | [xfce4-session]({{< ref "/f9/package/xfce4-session.md" >}}) | 545 | 738 | 73.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-power-manager]({{< ref "/f9/package/gnome-power-manager.md" >}}) | 5739 | 7816 | 73.4 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [f-spot]({{< ref "/f9/package/f-spot.md" >}}) | 1373 | 1890 | 72.6 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libgnomekbd]({{< ref "/f9/package/libgnomekbd.md" >}}) | 187 | 262 | 71.4 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-applets]({{< ref "/f9/package/gnome-applets.md" >}}) | 8183 | 11706 | 69.9 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [muine]({{< ref "/f9/package/muine.md" >}}) | 341 | 488 | 69.9 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [NetworkManager-vpnc]({{< ref "/f9/package/NetworkManager-vpnc.md" >}}) | 205 | 304 | 67.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [totem]({{< ref "/f9/package/totem.md" >}}) | 2891 | 4359 | 66.3 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xfce4-weather-plugin]({{< ref "/f9/package/xfce4-weather-plugin.md" >}}) | 340 | 524 | 64.9 | Punjabi <xfce-i18n@xfce.org> | 
- | [exo]({{< ref "/f9/package/exo.md" >}}) | 955 | 1476 | 64.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [ksig]({{< ref "/f9/package/ksig.md" >}}) | 54 | 85 | 63.5 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [gdm]({{< ref "/f9/package/gdm.md" >}}) | 769 | 1221 | 63.0 |  | 
- | [xfce4-mixer]({{< ref "/f9/package/xfce4-mixer.md" >}}) | 141 | 226 | 62.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [Thunar]({{< ref "/f9/package/Thunar.md" >}}) | 2356 | 3802 | 62.0 | Punjabi <xfce-i18n@xfce.org> | 
- | [xchat]({{< ref "/f9/package/xchat.md" >}}) | 3086 | 5030 | 61.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 1038 | 1698 | 61.1 | LANGUAGE <LL@li.org> | 
- | [orca]({{< ref "/f9/package/orca.md" >}}) | 1891 | 3097 | 61.1 | American English <punjabi-users@lists.sf.net> | 
- | [eog]({{< ref "/f9/package/eog.md" >}}) | 2510 | 4208 | 59.6 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [contact-lookup-applet]({{< ref "/f9/package/contact-lookup-applet.md" >}}) | 147 | 249 | 59.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [nautilus-actions]({{< ref "/f9/package/nautilus-actions.md" >}}) | 906 | 1555 | 58.3 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [brasero]({{< ref "/f9/package/brasero.md" >}}) | 2088 | 3655 | 57.1 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [kaider]({{< ref "/f9/package/kaider.md" >}}) | 370 | 652 | 56.7 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [k3b]({{< ref "/f9/package/k3b.md" >}}) | 11589 | 20630 | 56.2 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 1337 | 2391 | 55.9 | LANGUAGE <LL@li.org> | 
- | [extragear-plasma]({{< ref "/f9/package/extragear-plasma.md" >}}) | 63 | 113 | 55.8 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [setroubleshoot-plugins]({{< ref "/f9/package/setroubleshoot-plugins.md" >}}) | 4387 | 7900 | 55.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gphoto2]({{< ref "/f9/package/gphoto2.md" >}}) | 760 | 1380 | 55.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [xchat-gnome]({{< ref "/f9/package/xchat-gnome.md" >}}) | 2092 | 3901 | 53.6 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-printer]({{< ref "/f9/package/system-config-printer.md" >}}) | 1211 | 2265 | 53.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [scim-input-pad]({{< ref "/f9/package/scim-input-pad.md" >}}) | 112 | 226 | 49.6 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kdesvn]({{< ref "/f9/package/kdesvn.md" >}}) | 1611 | 3387 | 47.6 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-system-monitor]({{< ref "/f9/package/gnome-system-monitor.md" >}}) | 1771 | 3959 | 44.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [pybliographer]({{< ref "/f9/package/pybliographer.md" >}}) | 263 | 601 | 43.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [pitivi]({{< ref "/f9/package/pitivi.md" >}}) | 302 | 721 | 41.9 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-mount]({{< ref "/f9/package/gnome-mount.md" >}}) | 322 | 790 | 40.8 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [drivel]({{< ref "/f9/package/drivel.md" >}}) | 199 | 492 | 40.4 | Punjabi <pa@li.org> | 
- | [conglomerate]({{< ref "/f9/package/conglomerate.md" >}}) | 2421 | 6317 | 38.3 | Punjabi | 
- | [kmid]({{< ref "/f9/package/kmid.md" >}}) | 201 | 535 | 37.6 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [scim-tables]({{< ref "/f9/package/scim-tables.md" >}}) | 432 | 1153 | 37.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kipi-plugins]({{< ref "/f9/package/kipi-plugins.md" >}}) | 3491 | 9420 | 37.1 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [virt-manager]({{< ref "/f9/package/virt-manager.md" >}}) | 1013 | 2763 | 36.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [scim-hangul]({{< ref "/f9/package/scim-hangul.md" >}}) | 77 | 214 | 36.0 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnomeradio]({{< ref "/f9/package/gnomeradio.md" >}}) | 170 | 473 | 35.9 | Punjabi <fedora-transa-pa@redhat.com> | 
- | [libvirt]({{< ref "/f9/package/libvirt.md" >}}) | 2231 | 6298 | 35.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gdesklets]({{< ref "/f9/package/gdesklets.md" >}}) | 266 | 751 | 35.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [mousepad]({{< ref "/f9/package/mousepad.md" >}}) | 47 | 133 | 35.3 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kgrab]({{< ref "/f9/package/kgrab.md" >}}) | 128 | 370 | 34.6 | Panjabi <punjabi-l10n@lists.sf.net> | 
- | [gnome-user-docs]({{< ref "/f9/package/gnome-user-docs.md" >}}) | 19521 | 57959 | 33.7 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [meld]({{< ref "/f9/package/meld.md" >}}) | 254 | 763 | 33.3 | Punjabi <fedora-transa-pa@redhat.com> | 
- | [kdetv]({{< ref "/f9/package/kdetv.md" >}}) | 711 | 2206 | 32.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [glade3]({{< ref "/f9/package/glade3.md" >}}) | 891 | 2884 | 30.9 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-phone-manager]({{< ref "/f9/package/gnome-phone-manager.md" >}}) | 119 | 390 | 30.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnomebaker]({{< ref "/f9/package/gnomebaker.md" >}}) | 355 | 1186 | 29.9 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 240 | 878 | 27.3 | LANGUAGE <LL@li.org> | 
- | [straw]({{< ref "/f9/package/straw.md" >}}) | 140 | 521 | 26.9 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [swfdec-gnome]({{< ref "/f9/package/swfdec-gnome.md" >}}) | 27 | 101 | 26.7 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 432 | 1620 | 26.7 | LANGUAGE <LL@li.org> | 
- | [konversation]({{< ref "/f9/package/konversation.md" >}}) | 2255 | 8614 | 26.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [digikam]({{< ref "/f9/package/digikam.md" >}}) | 4255 | 16526 | 25.7 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [ghex]({{< ref "/f9/package/ghex.md" >}}) | 247 | 964 | 25.6 | Punjabi <fedora-pa-list@redhat.com> | 
- | [vinagre]({{< ref "/f9/package/vinagre.md" >}}) | 114 | 452 | 25.2 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
- | [exaile]({{< ref "/f9/package/exaile.md" >}}) | 329 | 1329 | 24.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [firestarter]({{< ref "/f9/package/firestarter.md" >}}) | 468 | 1904 | 24.6 | Punjabi | 
- | [Terminal]({{< ref "/f9/package/Terminal.md" >}}) | 343 | 1450 | 23.7 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libgdl]({{< ref "/f9/package/libgdl.md" >}}) | 161 | 685 | 23.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [glom]({{< ref "/f9/package/glom.md" >}}) | 61 | 275 | 22.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [pam]({{< ref "/f9/package/pam.md" >}}) | 114 | 517 | 22.1 | Panjabi <pa@li.org> | 
- | [gnome-pilot-conduits]({{< ref "/f9/package/gnome-pilot-conduits.md" >}}) | 46 | 209 | 22.0 | Punjabi <pa@li.org> | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 332 | 1517 | 21.9 | LANGUAGE <LL@li.org> | 
- | [ksynaptics]({{< ref "/f9/package/ksynaptics.md" >}}) | 143 | 655 | 21.8 | Panjabi <fedora-trans-pa@redhat.com> | 
- | [specspo]({{< ref "/f9/package/specspo.md" >}}) | 62704 | 305294 | 20.5 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [planner]({{< ref "/f9/package/planner.md" >}}) | 282 | 1453 | 19.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [cheese]({{< ref "/f9/package/cheese.md" >}}) | 59 | 304 | 19.4 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [regexxer]({{< ref "/f9/package/regexxer.md" >}}) | 88 | 467 | 18.8 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kiconedit]({{< ref "/f9/package/kiconedit.md" >}}) | 131 | 724 | 18.1 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [gnome-packagekit]({{< ref "/f9/package/gnome-packagekit.md" >}}) | 385 | 2310 | 16.7 | Punjabi Open Source Team <Punjabi <punjabi-l10n@lists.sf.net>> | 
- | [mousetweaks]({{< ref "/f9/package/mousetweaks.md" >}}) | 49 | 294 | 16.7 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
- | [kdebluetooth]({{< ref "/f9/package/kdebluetooth.md" >}}) | 252 | 1517 | 16.6 | Panjabi <fedora-trans-pa@redhat.com> | 
- | [xfce4-places-plugin]({{< ref "/f9/package/xfce4-places-plugin.md" >}}) | 7 | 43 | 16.3 |  | 
- | [anjuta]({{< ref "/f9/package/anjuta.md" >}}) | 1089 | 7069 | 15.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [setroubleshoot]({{< ref "/f9/package/setroubleshoot.md" >}}) | 77 | 544 | 14.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [inkscape]({{< ref "/f9/package/inkscape.md" >}}) | 2418 | 17173 | 14.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [glade2]({{< ref "/f9/package/glade2.md" >}}) | 707 | 5840 | 12.1 | Punjabi <fedora-pa-list@redhat.com> | 
- | [smolt]({{< ref "/f9/package/smolt.md" >}}) | 95 | 803 | 11.8 | Punjabi <punjabi-l10n@lists.sf.net> | 
- | [gftp]({{< ref "/f9/package/gftp.md" >}}) | 397 | 3372 | 11.8 | Punjabi <fedora-pa-list@redhat.com> | 
- | [xfce4-eyes-plugin]({{< ref "/f9/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | <pa@li.org> | 
- | [publican]({{< ref "/f9/package/publican.md" >}}) | 370 | 3345 | 11.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 639 | 6873 | 9.3 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [balsa]({{< ref "/f9/package/balsa.md" >}}) | 437 | 5348 | 8.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kphotoalbum]({{< ref "/f9/package/kphotoalbum.md" >}}) | 418 | 6028 | 6.9 | Panjabi <punjabi-l10n@lists.sf.net> | 
- | [listen]({{< ref "/f9/package/listen.md" >}}) | 48 | 747 | 6.4 | Punjabi <pa@li.org> | 
- | [gnome-commander]({{< ref "/f9/package/gnome-commander.md" >}}) | 485 | 7892 | 6.1 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [gcompris]({{< ref "/f9/package/gcompris.md" >}}) | 211 | 4069 | 5.2 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [policycoreutils]({{< ref "/f9/package/policycoreutils.md" >}}) | 56 | 1214 | 4.6 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [galeon]({{< ref "/f9/package/galeon.md" >}}) | 234 | 5302 | 4.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [libkdcraw]({{< ref "/f9/package/libkdcraw.md" >}}) | 36 | 875 | 4.1 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [gnome-schedule]({{< ref "/f9/package/gnome-schedule.md" >}}) | 42 | 1156 | 3.6 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kile]({{< ref "/f9/package/kile.md" >}}) | 237 | 10421 | 2.3 | Panjabi <fedora-trans-pa@redhat.com> | 
- | [pmount]({{< ref "/f9/package/pmount.md" >}}) | 15 | 723 | 2.1 | Punjabi <pa@li.org> | 
- | [genius]({{< ref "/f9/package/genius.md" >}}) | 70 | 5125 | 1.4 | Punjabi <fedora-trans-pa@redhat.com> | 
- | [kst]({{< ref "/f9/package/kst.md" >}}) | 90 | 6817 | 1.3 | Punjabi <punjabi-l10n@users.sf.net> | 
- | [Miro]({{< ref "/f9/package/Miro.md" >}}) | 9 | 3616 | 0.2 | Punjabi <pa@li.org> | 
- | [revisor]({{< ref "/f9/package/revisor.md" >}}) | 0 | 3891 | 0.0 |  | 
- | [sugar]({{< ref "/f9/package/sugar.md" >}}) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-journal]({{< ref "/f9/package/sugar-journal.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [GConf2](/f9/package/GConf2) | 4017 | 4017 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [alacarte](/f9/package/alacarte) | 42 | 42 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [anaconda](/f9/package/anaconda) | 10040 | 10040 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [at-spi](/f9/package/at-spi) | 15 | 15 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [atk](/f9/package/atk) | 370 | 370 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [atomix](/f9/package/atomix) | 146 | 146 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [authconfig](/f9/package/authconfig) | 1292 | 1292 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [blam](/f9/package/blam) | 67 | 67 | 100.0 | KBST Punjab <kbstpunjab@netscpe.net> | 
+ | [bug-buddy](/f9/package/bug-buddy) | 930 | 930 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [chkconfig](/f9/package/chkconfig) | 430 | 430 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [compiz](/f9/package/compiz) | 66 | 66 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [dasher](/f9/package/dasher) | 460 | 460 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [deskbar-applet](/f9/package/deskbar-applet) | 881 | 881 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [devhelp](/f9/package/devhelp) | 222 | 222 | 100.0 | Punjab <punlinux-i18n@lists.sourceforge.> | 
+ | [eel2](/f9/package/eel2) | 226 | 226 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [ekiga](/f9/package/ekiga) | 5167 | 5167 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [evince](/f9/package/evince) | 1007 | 1007 | 100.0 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [evolution-data-server](/f9/package/evolution-data-server) | 5044 | 5044 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [evolution-exchange](/f9/package/evolution-exchange) | 1295 | 1295 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [evolution-webcal](/f9/package/evolution-webcal) | 184 | 184 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [file-roller](/f9/package/file-roller) | 1159 | 1159 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [gail](/f9/package/gail) | 170 | 170 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gcalctool](/f9/package/gcalctool) | 1175 | 1175 | 100.0 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [gconf-editor](/f9/package/gconf-editor) | 329 | 329 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gedit](/f9/package/gedit) | 5095 | 5095 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gedit-plugins](/f9/package/gedit-plugins) | 281 | 281 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [ggz-client-libs](/f9/package/ggz-client-libs) | 72 | 72 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [ggz-gtk-client](/f9/package/ggz-gtk-client) | 960 | 960 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-backgrounds](/f9/package/gnome-backgrounds) | 18 | 18 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-build](/f9/package/gnome-build) | 203 | 203 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-doc-utils](/f9/package/gnome-doc-utils) | 213 | 213 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-icon-theme](/f9/package/gnome-icon-theme) | 53 | 53 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-keyring](/f9/package/gnome-keyring) | 711 | 711 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-keyring-manager](/f9/package/gnome-keyring-manager) | 284 | 284 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-mag](/f9/package/gnome-mag) | 5 | 5 | 100.0 | Punjabi <pa@li.org> | 
+ | [gnome-media](/f9/package/gnome-media) | 1923 | 1923 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-menus](/f9/package/gnome-menus) | 165 | 165 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-mime-data](/f9/package/gnome-mime-data) | 887 | 887 | 100.0 | Punjabi <pa@li.org> | 
+ | [gnome-netstatus](/f9/package/gnome-netstatus) | 1232 | 1232 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-nettool](/f9/package/gnome-nettool) | 1069 | 1069 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-pilot](/f9/package/gnome-pilot) | 1573 | 1573 | 100.0 | Punjabi <punlinux-i18n@lists.sourceforge.> | 
+ | [gnome-screensaver](/f9/package/gnome-screensaver) | 991 | 991 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-session](/f9/package/gnome-session) | 888 | 888 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-terminal](/f9/package/gnome-terminal) | 4599 | 4599 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-themes](/f9/package/gnome-themes) | 85 | 85 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-user-share](/f9/package/gnome-user-share) | 75 | 75 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-utils](/f9/package/gnome-utils) | 4136 | 4136 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-vfs2](/f9/package/gnome-vfs2) | 1506 | 1506 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-volume-manager](/f9/package/gnome-volume-manager) | 1193 | 1193 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gok](/f9/package/gok) | 1942 | 1942 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gparted](/f9/package/gparted) | 1274 | 1274 | 100.0 | Panjabi <punjabi-l10n@users.sf.net> | 
+ | [gtk2-engines](/f9/package/gtk2-engines) | 83 | 83 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gtkhtml3](/f9/package/gtkhtml3) | 947 | 947 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gtksourceview](/f9/package/gtksourceview) | 891 | 891 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gtranslator](/f9/package/gtranslator) | 1414 | 1414 | 100.0 | Punjabi <punlinux-i18n@lists.sourceforge.> | 
+ | [gucharmap](/f9/package/gucharmap) | 776 | 776 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gwget](/f9/package/gwget) | 269 | 269 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [hwbrowser](/f9/package/hwbrowser) | 116 | 116 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [im-chooser](/f9/package/im-chooser) | 457 | 457 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [initscripts](/f9/package/initscripts) | 3806 | 3806 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [istanbul](/f9/package/istanbul) | 350 | 350 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kexec-tools](/f9/package/kexec-tools) | 206 | 206 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kpowersave](/f9/package/kpowersave) | 1699 | 1699 | 100.0 | Panjabi <punjabi-l10n@lists.sf.net> | 
+ | [libbonobo](/f9/package/libbonobo) | 547 | 547 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libbonoboui](/f9/package/libbonoboui) | 361 | 361 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgnome](/f9/package/libgnome) | 1648 | 1648 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgnomecanvas](/f9/package/libgnomecanvas) | 378 | 378 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgnomecups](/f9/package/libgnomecups) | 11 | 11 | 100.0 | Punjabi <fedora-transa-pa@redhat.com> | 
+ | [libgnomeprint22](/f9/package/libgnomeprint22) | 168 | 168 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgnomeprintui22](/f9/package/libgnomeprintui22) | 477 | 477 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgnomeui](/f9/package/libgnomeui) | 1335 | 1335 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgtop2](/f9/package/libgtop2) | 134 | 134 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [libgweather](/f9/package/libgweather) | 6733 | 6733 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [libkexif](/f9/package/libkexif) | 25 | 25 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libkipi](/f9/package/libkipi) | 83 | 83 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libuser](/f9/package/libuser) | 1064 | 1064 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libxfcegui4](/f9/package/libxfcegui4) | 81 | 81 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [metacity](/f9/package/metacity) | 8059 | 8059 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [nautilus-cd-burner](/f9/package/nautilus-cd-burner) | 1306 | 1306 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [nautilus-open-terminal](/f9/package/nautilus-open-terminal) | 16 | 16 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [nautilus-sendto](/f9/package/nautilus-sendto) | 86 | 86 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [newt](/f9/package/newt) | 4 | 4 | 100.0 | Panjabi <pa@li.org> | 
+ | [orage](/f9/package/orage) | 864 | 864 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [passwd](/f9/package/passwd) | 291 | 291 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [pessulus](/f9/package/pessulus) | 88 | 88 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [pidgin](/f9/package/pidgin) | 15918 | 15918 | 100.0 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [pykickstart](/f9/package/pykickstart) | 284 | 284 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [redhat-menus](/f9/package/redhat-menus) | 261 | 261 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [rhgb](/f9/package/rhgb) | 59 | 59 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [rhpl](/f9/package/rhpl) | 185 | 185 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [rhpxl](/f9/package/rhpxl) | 130 | 130 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [setuptool](/f9/package/setuptool) | 60 | 60 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [sos](/f9/package/sos) | 283 | 283 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [sound-juicer](/f9/package/sound-juicer) | 934 | 934 | 100.0 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [switchdesk](/f9/package/switchdesk) | 137 | 137 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-display](/f9/package/system-config-display) | 398 | 398 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-firewall](/f9/package/system-config-firewall) | 2350 | 2350 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-httpd](/f9/package/system-config-httpd) | 858 | 858 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-keyboard](/f9/package/system-config-keyboard) | 78 | 78 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-kickstart](/f9/package/system-config-kickstart) | 1054 | 1054 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-language](/f9/package/system-config-language) | 49 | 49 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-network](/f9/package/system-config-network) | 2856 | 2856 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-rootpassword](/f9/package/system-config-rootpassword) | 116 | 116 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-switch-mail](/f9/package/system-switch-mail) | 134 | 134 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [thunar-archive-plugin](/f9/package/thunar-archive-plugin) | 86 | 86 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [tomboy](/f9/package/tomboy) | 2319 | 2319 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [totem-pl-parser](/f9/package/totem-pl-parser) | 1982 | 1982 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [usermode](/f9/package/usermode) | 564 | 564 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [vte](/f9/package/vte) | 107 | 107 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce-mcs-manager](/f9/package/xfce-mcs-manager) | 30 | 30 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce4-appfinder](/f9/package/xfce4-appfinder) | 48 | 48 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce4-panel](/f9/package/xfce4-panel) | 578 | 578 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce4-verve-plugin](/f9/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfprint](/f9/package/xfprint) | 323 | 323 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfwm4](/f9/package/xfwm4) | 646 | 646 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xsane](/f9/package/xsane) | 3224 | 3224 | 100.0 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [yelp](/f9/package/yelp) | 1035 | 1035 | 100.0 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [zenity](/f9/package/zenity) | 554 | 554 | 100.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [tsclient](/f9/package/tsclient) | 486 | 487 | 99.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [scim](/f9/package/scim) | 2341 | 2346 | 99.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-bind](/f9/package/system-config-bind) | 9346 | 9427 | 99.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [firstboot](/f9/package/firstboot) | 592 | 604 | 98.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-games](/f9/package/gnome-games) | 7356 | 7524 | 97.8 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [ccsm](/f9/package/ccsm) | 517 | 532 | 97.2 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [control-center](/f9/package/control-center) | 3199 | 3299 | 97.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [nautilus](/f9/package/nautilus) | 7328 | 7562 | 96.9 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [banshee](/f9/package/banshee) | 4256 | 4393 | 96.9 | Panjabi <punjabi-l10n@users.sf.net> | 
+ | [epiphany](/f9/package/epiphany) | 3843 | 3969 | 96.8 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [evolution](/f9/package/evolution) | 20113 | 20811 | 96.6 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [gnome-spell](/f9/package/gnome-spell) | 84 | 87 | 96.6 | Punjabi <pa@li.org> | 
+ | [gtk2](/f9/package/gtk2) | 11617 | 12092 | 96.1 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [xfce-utils](/f9/package/xfce-utils) | 114 | 119 | 95.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [vino](/f9/package/vino) | 951 | 993 | 95.8 | American English <punjabi-users@lists.sf.net> | 
+ | [seahorse](/f9/package/seahorse) | 3407 | 3560 | 95.7 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [system-config-lvm](/f9/package/system-config-lvm) | 2049 | 2142 | 95.7 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [yumex](/f9/package/yumex) | 537 | 564 | 95.2 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [epiphany-extensions](/f9/package/epiphany-extensions) | 150 | 158 | 94.9 | Punjabi <pa@li.org> | 
+ | [gimp](/f9/package/gimp) | 24094 | 25385 | 94.9 | Panjabi <punjabi-l10n@users.sf.net> | 
+ | [gtksourceview2](/f9/package/gtksourceview2) | 941 | 994 | 94.7 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [poedit](/f9/package/poedit) | 1090 | 1154 | 94.5 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gthumb](/f9/package/gthumb) | 2895 | 3130 | 92.5 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [xdg-user-dirs](/f9/package/xdg-user-dirs) | 24 | 26 | 92.3 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gvfs](/f9/package/gvfs) | 956 | 1054 | 90.7 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [system-config-netboot](/f9/package/system-config-netboot) | 994 | 1103 | 90.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [rhythmbox](/f9/package/rhythmbox) | 3406 | 3794 | 89.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-boot](/f9/package/system-config-boot) | 41 | 46 | 89.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-kdump](/f9/package/system-config-kdump) | 339 | 383 | 88.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce-mcs-plugins](/f9/package/xfce-mcs-plugins) | 475 | 540 | 88.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-settings-daemon](/f9/package/gnome-settings-daemon) | 904 | 1034 | 87.4 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [kcoloredit](/f9/package/kcoloredit) | 102 | 118 | 86.4 | Panjabi <punjabi-l10n@lists.sf.net> | 
+ | [glib2](/f9/package/glib2) | 1847 | 2158 | 85.6 | Punjabi/Panjabi <punjabi-users@list.sf.net> | 
+ | [iso-codes](/f9/package/iso-codes) | 926 | 1082 | 85.6 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfdesktop](/f9/package/xfdesktop) | 917 | 1078 | 85.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-bluetooth](/f9/package/gnome-bluetooth) | 201 | 237 | 84.8 | <pa@li.org> | 
+ | [publican-fedora](/f9/package/publican-fedora) | 898 | 1079 | 83.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-panel](/f9/package/gnome-panel) | 6485 | 8086 | 80.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libwnck](/f9/package/libwnck) | 897 | 1124 | 79.8 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [cracklib](/f9/package/cracklib) | 74 | 93 | 79.6 | Panjabi <pa@li.org> | 
+ | [konq-plugins](/f9/package/konq-plugins) | 1236 | 1556 | 79.4 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [NetworkManager-openvpn](/f9/package/NetworkManager-openvpn) | 306 | 392 | 78.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [sabayon](/f9/package/sabayon) | 903 | 1178 | 76.7 | Punjabi Translation Team <punjabi-users@lists.sf.net> | 
+ | [thunar-media-tags-plugin](/f9/package/thunar-media-tags-plugin) | 109 | 144 | 75.7 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [amarok](/f9/package/amarok) | 9944 | 13254 | 75.0 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [NetworkManager](/f9/package/NetworkManager) | 178 | 238 | 74.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [beagle](/f9/package/beagle) | 948 | 1269 | 74.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [kmplayer](/f9/package/kmplayer) | 932 | 1251 | 74.5 | Panjabi <punjabi-l10n@lists.sf.net> | 
+ | [kaffeine](/f9/package/kaffeine) | 1743 | 2354 | 74.0 | Panjabi <pa@li.org> | 
+ | [xfce4-session](/f9/package/xfce4-session) | 545 | 738 | 73.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-power-manager](/f9/package/gnome-power-manager) | 5739 | 7816 | 73.4 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [f-spot](/f9/package/f-spot) | 1373 | 1890 | 72.6 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libgnomekbd](/f9/package/libgnomekbd) | 187 | 262 | 71.4 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-applets](/f9/package/gnome-applets) | 8183 | 11706 | 69.9 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [muine](/f9/package/muine) | 341 | 488 | 69.9 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [NetworkManager-vpnc](/f9/package/NetworkManager-vpnc) | 205 | 304 | 67.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [totem](/f9/package/totem) | 2891 | 4359 | 66.3 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce4-weather-plugin](/f9/package/xfce4-weather-plugin) | 340 | 524 | 64.9 | Punjabi <xfce-i18n@xfce.org> | 
+ | [exo](/f9/package/exo) | 955 | 1476 | 64.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [ksig](/f9/package/ksig) | 54 | 85 | 63.5 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [gdm](/f9/package/gdm) | 769 | 1221 | 63.0 |  | 
+ | [xfce4-mixer](/f9/package/xfce4-mixer) | 141 | 226 | 62.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [Thunar](/f9/package/Thunar) | 2356 | 3802 | 62.0 | Punjabi <xfce-i18n@xfce.org> | 
+ | [xchat](/f9/package/xchat) | 3086 | 5030 | 61.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-date](/f9/package/system-config-date) | 1038 | 1698 | 61.1 | LANGUAGE <LL@li.org> | 
+ | [orca](/f9/package/orca) | 1891 | 3097 | 61.1 | American English <punjabi-users@lists.sf.net> | 
+ | [eog](/f9/package/eog) | 2510 | 4208 | 59.6 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [contact-lookup-applet](/f9/package/contact-lookup-applet) | 147 | 249 | 59.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [nautilus-actions](/f9/package/nautilus-actions) | 906 | 1555 | 58.3 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [brasero](/f9/package/brasero) | 2088 | 3655 | 57.1 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [kaider](/f9/package/kaider) | 370 | 652 | 56.7 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [k3b](/f9/package/k3b) | 11589 | 20630 | 56.2 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [system-config-users](/f9/package/system-config-users) | 1337 | 2391 | 55.9 | LANGUAGE <LL@li.org> | 
+ | [extragear-plasma](/f9/package/extragear-plasma) | 63 | 113 | 55.8 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [setroubleshoot-plugins](/f9/package/setroubleshoot-plugins) | 4387 | 7900 | 55.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gphoto2](/f9/package/gphoto2) | 760 | 1380 | 55.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [xchat-gnome](/f9/package/xchat-gnome) | 2092 | 3901 | 53.6 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-printer](/f9/package/system-config-printer) | 1211 | 2265 | 53.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [scim-input-pad](/f9/package/scim-input-pad) | 112 | 226 | 49.6 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kdesvn](/f9/package/kdesvn) | 1611 | 3387 | 47.6 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-system-monitor](/f9/package/gnome-system-monitor) | 1771 | 3959 | 44.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [pybliographer](/f9/package/pybliographer) | 263 | 601 | 43.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [pitivi](/f9/package/pitivi) | 302 | 721 | 41.9 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-mount](/f9/package/gnome-mount) | 322 | 790 | 40.8 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [drivel](/f9/package/drivel) | 199 | 492 | 40.4 | Punjabi <pa@li.org> | 
+ | [conglomerate](/f9/package/conglomerate) | 2421 | 6317 | 38.3 | Punjabi | 
+ | [kmid](/f9/package/kmid) | 201 | 535 | 37.6 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [scim-tables](/f9/package/scim-tables) | 432 | 1153 | 37.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kipi-plugins](/f9/package/kipi-plugins) | 3491 | 9420 | 37.1 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [virt-manager](/f9/package/virt-manager) | 1013 | 2763 | 36.7 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [scim-hangul](/f9/package/scim-hangul) | 77 | 214 | 36.0 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnomeradio](/f9/package/gnomeradio) | 170 | 473 | 35.9 | Punjabi <fedora-transa-pa@redhat.com> | 
+ | [libvirt](/f9/package/libvirt) | 2231 | 6298 | 35.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gdesklets](/f9/package/gdesklets) | 266 | 751 | 35.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [mousepad](/f9/package/mousepad) | 47 | 133 | 35.3 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kgrab](/f9/package/kgrab) | 128 | 370 | 34.6 | Panjabi <punjabi-l10n@lists.sf.net> | 
+ | [gnome-user-docs](/f9/package/gnome-user-docs) | 19521 | 57959 | 33.7 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [meld](/f9/package/meld) | 254 | 763 | 33.3 | Punjabi <fedora-transa-pa@redhat.com> | 
+ | [kdetv](/f9/package/kdetv) | 711 | 2206 | 32.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [glade3](/f9/package/glade3) | 891 | 2884 | 30.9 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-phone-manager](/f9/package/gnome-phone-manager) | 119 | 390 | 30.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnomebaker](/f9/package/gnomebaker) | 355 | 1186 | 29.9 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [system-config-services](/f9/package/system-config-services) | 240 | 878 | 27.3 | LANGUAGE <LL@li.org> | 
+ | [straw](/f9/package/straw) | 140 | 521 | 26.9 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [swfdec-gnome](/f9/package/swfdec-gnome) | 27 | 101 | 26.7 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 432 | 1620 | 26.7 | LANGUAGE <LL@li.org> | 
+ | [konversation](/f9/package/konversation) | 2255 | 8614 | 26.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [digikam](/f9/package/digikam) | 4255 | 16526 | 25.7 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [ghex](/f9/package/ghex) | 247 | 964 | 25.6 | Punjabi <fedora-pa-list@redhat.com> | 
+ | [vinagre](/f9/package/vinagre) | 114 | 452 | 25.2 | Punjabi/Panjabi <punjabi-users@lists.sf.net> | 
+ | [exaile](/f9/package/exaile) | 329 | 1329 | 24.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [firestarter](/f9/package/firestarter) | 468 | 1904 | 24.6 | Punjabi | 
+ | [Terminal](/f9/package/Terminal) | 343 | 1450 | 23.7 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libgdl](/f9/package/libgdl) | 161 | 685 | 23.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [glom](/f9/package/glom) | 61 | 275 | 22.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [pam](/f9/package/pam) | 114 | 517 | 22.1 | Panjabi <pa@li.org> | 
+ | [gnome-pilot-conduits](/f9/package/gnome-pilot-conduits) | 46 | 209 | 22.0 | Punjabi <pa@li.org> | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 332 | 1517 | 21.9 | LANGUAGE <LL@li.org> | 
+ | [ksynaptics](/f9/package/ksynaptics) | 143 | 655 | 21.8 | Panjabi <fedora-trans-pa@redhat.com> | 
+ | [specspo](/f9/package/specspo) | 62704 | 305294 | 20.5 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [planner](/f9/package/planner) | 282 | 1453 | 19.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [cheese](/f9/package/cheese) | 59 | 304 | 19.4 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [regexxer](/f9/package/regexxer) | 88 | 467 | 18.8 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kiconedit](/f9/package/kiconedit) | 131 | 724 | 18.1 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [gnome-packagekit](/f9/package/gnome-packagekit) | 385 | 2310 | 16.7 | Punjabi Open Source Team <Punjabi <punjabi-l10n@lists.sf.net>> | 
+ | [mousetweaks](/f9/package/mousetweaks) | 49 | 294 | 16.7 | Punjabi/Panjabi <punjabi-users@llist.sf.net> | 
+ | [kdebluetooth](/f9/package/kdebluetooth) | 252 | 1517 | 16.6 | Panjabi <fedora-trans-pa@redhat.com> | 
+ | [xfce4-places-plugin](/f9/package/xfce4-places-plugin) | 7 | 43 | 16.3 |  | 
+ | [anjuta](/f9/package/anjuta) | 1089 | 7069 | 15.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [setroubleshoot](/f9/package/setroubleshoot) | 77 | 544 | 14.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [inkscape](/f9/package/inkscape) | 2418 | 17173 | 14.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [glade2](/f9/package/glade2) | 707 | 5840 | 12.1 | Punjabi <fedora-pa-list@redhat.com> | 
+ | [smolt](/f9/package/smolt) | 95 | 803 | 11.8 | Punjabi <punjabi-l10n@lists.sf.net> | 
+ | [gftp](/f9/package/gftp) | 397 | 3372 | 11.8 | Punjabi <fedora-pa-list@redhat.com> | 
+ | [xfce4-eyes-plugin](/f9/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | <pa@li.org> | 
+ | [publican](/f9/package/publican) | 370 | 3345 | 11.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 639 | 6873 | 9.3 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [balsa](/f9/package/balsa) | 437 | 5348 | 8.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kphotoalbum](/f9/package/kphotoalbum) | 418 | 6028 | 6.9 | Panjabi <punjabi-l10n@lists.sf.net> | 
+ | [listen](/f9/package/listen) | 48 | 747 | 6.4 | Punjabi <pa@li.org> | 
+ | [gnome-commander](/f9/package/gnome-commander) | 485 | 7892 | 6.1 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [gcompris](/f9/package/gcompris) | 211 | 4069 | 5.2 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [policycoreutils](/f9/package/policycoreutils) | 56 | 1214 | 4.6 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [galeon](/f9/package/galeon) | 234 | 5302 | 4.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [libkdcraw](/f9/package/libkdcraw) | 36 | 875 | 4.1 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [gnome-schedule](/f9/package/gnome-schedule) | 42 | 1156 | 3.6 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kile](/f9/package/kile) | 237 | 10421 | 2.3 | Panjabi <fedora-trans-pa@redhat.com> | 
+ | [pmount](/f9/package/pmount) | 15 | 723 | 2.1 | Punjabi <pa@li.org> | 
+ | [genius](/f9/package/genius) | 70 | 5125 | 1.4 | Punjabi <fedora-trans-pa@redhat.com> | 
+ | [kst](/f9/package/kst) | 90 | 6817 | 1.3 | Punjabi <punjabi-l10n@users.sf.net> | 
+ | [Miro](/f9/package/Miro) | 9 | 3616 | 0.2 | Punjabi <pa@li.org> | 
+ | [revisor](/f9/package/revisor) | 0 | 3891 | 0.0 |  | 
+ | [sugar](/f9/package/sugar) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-journal](/f9/package/sugar-journal) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

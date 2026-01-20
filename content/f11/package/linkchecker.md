@@ -18,9 +18,9 @@ The package linkchecker (version 4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 4154 | 4154 | 100.0 | /mnt/stockage/packages/f11/linkchecker/doc/de.po/mnt/stockage/packages/f11/linkchecker/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 911 | 2324 | 39.2 | /mnt/stockage/packages/f11/linkchecker/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1273 | 3901 | 32.6 | /mnt/stockage/packages/f11/linkchecker/doc/fr.po/mnt/stockage/packages/f11/linkchecker/po/fr.po | 
+ | [de](/f11/language/de) | 4154 | 4154 | 100.0 | /mnt/stockage/packages/f11/linkchecker/doc/de.po/mnt/stockage/packages/f11/linkchecker/po/de.po | 
+ | [es](/f11/language/es) | 911 | 2324 | 39.2 | /mnt/stockage/packages/f11/linkchecker/po/es.po | 
+ | [fr](/f11/language/fr) | 1273 | 3901 | 32.6 | /mnt/stockage/packages/f11/linkchecker/doc/fr.po/mnt/stockage/packages/f11/linkchecker/po/fr.po | 
 {.sortable}
 
 

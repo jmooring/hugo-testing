@@ -18,9 +18,9 @@ The package asterisk (version 18.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f35/language/en.md" >}}) | 130 | 134 | 97.0 | /mnt/stockage/packages/f35/asterisk/contrib/unistimLang/en.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 130 | 134 | 97.0 | /mnt/stockage/packages/f35/asterisk/contrib/unistimLang/fr.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/asterisk/contrib/unistimLang/ru.po | 
+ | [en](/f35/language/en) | 130 | 134 | 97.0 | /mnt/stockage/packages/f35/asterisk/contrib/unistimLang/en.po | 
+ | [fr](/f35/language/fr) | 130 | 134 | 97.0 | /mnt/stockage/packages/f35/asterisk/contrib/unistimLang/fr.po | 
+ | [ru](/f35/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/asterisk/contrib/unistimLang/ru.po | 
 {.sortable}
 
 

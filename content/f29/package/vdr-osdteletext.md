@@ -18,16 +18,16 @@ The package vdr-osdteletext (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/vdr-osdteletext/po/fi_FI.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/vdr-osdteletext/po/ru_RU.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 44 | 65 | 67.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/de_DE.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 44 | 65 | 67.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/it_IT.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 44 | 65 | 67.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/sk_SK.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 41 | 65 | 63.1 | /mnt/stockage/packages/f29/vdr-osdteletext/po/fr_FR.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 41 | 65 | 63.1 | /mnt/stockage/packages/f29/vdr-osdteletext/po/pt_PT.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 41 | 65 | 63.1 | /mnt/stockage/packages/f29/vdr-osdteletext/po/uk_UA.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 33 | 65 | 50.8 | /mnt/stockage/packages/f29/vdr-osdteletext/po/ca_ES.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 31 | 65 | 47.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/es_ES.po | 
+ | [fi](/f29/language/fi) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/vdr-osdteletext/po/fi_FI.po | 
+ | [ru](/f29/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/vdr-osdteletext/po/ru_RU.po | 
+ | [de](/f29/language/de) | 44 | 65 | 67.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/de_DE.po | 
+ | [it](/f29/language/it) | 44 | 65 | 67.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/it_IT.po | 
+ | [sk](/f29/language/sk) | 44 | 65 | 67.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/sk_SK.po | 
+ | [fr](/f29/language/fr) | 41 | 65 | 63.1 | /mnt/stockage/packages/f29/vdr-osdteletext/po/fr_FR.po | 
+ | [pt](/f29/language/pt) | 41 | 65 | 63.1 | /mnt/stockage/packages/f29/vdr-osdteletext/po/pt_PT.po | 
+ | [uk](/f29/language/uk) | 41 | 65 | 63.1 | /mnt/stockage/packages/f29/vdr-osdteletext/po/uk_UA.po | 
+ | [ca](/f29/language/ca) | 33 | 65 | 50.8 | /mnt/stockage/packages/f29/vdr-osdteletext/po/ca_ES.po | 
+ | [es](/f29/language/es) | 31 | 65 | 47.7 | /mnt/stockage/packages/f29/vdr-osdteletext/po/es_ES.po | 
 {.sortable}
 
 

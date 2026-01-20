@@ -18,13 +18,13 @@ The package gnome-shell-extension-sustmi (version 3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/cs.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/fr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/ja.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/pt_BR.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/en.po | 
+ | [cs](/f27/language/cs) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/cs.po | 
+ | [de](/f27/language/de) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/de.po | 
+ | [fr](/f27/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/fr.po | 
+ | [it](/f27/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/it.po | 
+ | [ja](/f27/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/ja.po | 
+ | [pt_BR](/f27/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/pt_BR.po | 
+ | [en](/f27/language/en) | 0 | 11 | 0.0 | /mnt/stockage/packages/f27/gnome-shell-extension-sustmi/windowoverlay-icons/po/en.po | 
 {.sortable}
 
 

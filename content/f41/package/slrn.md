@@ -18,19 +18,19 @@ The package slrn (version 1.0.3a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f41/language/da.md" >}}) | 5248 | 5248 | 100.0 | /mnt/stockage/packages/f41/slrn/po/da.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 4678 | 5351 | 87.4 | /mnt/stockage/packages/f41/slrn/po/nl.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 4647 | 5351 | 86.8 | /mnt/stockage/packages/f41/slrn/po/de.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 4600 | 5351 | 86.0 | /mnt/stockage/packages/f41/slrn/po/ru.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/fi.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/it.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/ko.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/pl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/sv.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 4463 | 5351 | 83.4 | /mnt/stockage/packages/f41/slrn/po/fr.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 4341 | 5351 | 81.1 | /mnt/stockage/packages/f41/slrn/po/tr.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 4237 | 5351 | 79.2 | /mnt/stockage/packages/f41/slrn/po/es.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 4084 | 5351 | 76.3 | /mnt/stockage/packages/f41/slrn/po/be.po | 
+ | [da](/f41/language/da) | 5248 | 5248 | 100.0 | /mnt/stockage/packages/f41/slrn/po/da.po | 
+ | [nl](/f41/language/nl) | 4678 | 5351 | 87.4 | /mnt/stockage/packages/f41/slrn/po/nl.po | 
+ | [de](/f41/language/de) | 4647 | 5351 | 86.8 | /mnt/stockage/packages/f41/slrn/po/de.po | 
+ | [ru](/f41/language/ru) | 4600 | 5351 | 86.0 | /mnt/stockage/packages/f41/slrn/po/ru.po | 
+ | [fi](/f41/language/fi) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/fi.po | 
+ | [it](/f41/language/it) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/it.po | 
+ | [ko](/f41/language/ko) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/ko.po | 
+ | [pl](/f41/language/pl) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/pl.po | 
+ | [sv](/f41/language/sv) | 4509 | 5351 | 84.3 | /mnt/stockage/packages/f41/slrn/po/sv.po | 
+ | [fr](/f41/language/fr) | 4463 | 5351 | 83.4 | /mnt/stockage/packages/f41/slrn/po/fr.po | 
+ | [tr](/f41/language/tr) | 4341 | 5351 | 81.1 | /mnt/stockage/packages/f41/slrn/po/tr.po | 
+ | [es](/f41/language/es) | 4237 | 5351 | 79.2 | /mnt/stockage/packages/f41/slrn/po/es.po | 
+ | [be](/f41/language/be) | 4084 | 5351 | 76.3 | /mnt/stockage/packages/f41/slrn/po/be.po | 
 {.sortable}
 
 

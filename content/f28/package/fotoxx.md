@@ -18,12 +18,12 @@ The package fotoxx (version 19.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 5127 | 5136 | 99.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-de.po | 
- | [en]({{< ref "/f28/language/en.md" >}}) | 10254 | 10272 | 99.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-en.po/mnt/stockage/packages/f28/fotoxx/locales/translate-fr.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 5127 | 5136 | 99.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-pt.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 5075 | 5136 | 98.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-ca.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 5075 | 5136 | 98.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-es.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 5069 | 5136 | 98.7 | /mnt/stockage/packages/f28/fotoxx/locales/translate-it.po | 
+ | [de](/f28/language/de) | 5127 | 5136 | 99.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-de.po | 
+ | [en](/f28/language/en) | 10254 | 10272 | 99.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-en.po/mnt/stockage/packages/f28/fotoxx/locales/translate-fr.po | 
+ | [pt](/f28/language/pt) | 5127 | 5136 | 99.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-pt.po | 
+ | [ca](/f28/language/ca) | 5075 | 5136 | 98.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-ca.po | 
+ | [es](/f28/language/es) | 5075 | 5136 | 98.8 | /mnt/stockage/packages/f28/fotoxx/locales/translate-es.po | 
+ | [it](/f28/language/it) | 5069 | 5136 | 98.7 | /mnt/stockage/packages/f28/fotoxx/locales/translate-it.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package mingw-fontconfig (version 2.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 964 | 985 | 97.9 | /mnt/stockage/packages/f41/mingw-fontconfig/po/ka.po/mnt/stockage/packages/f41/mingw-fontconfig/po-conf/ka.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 892 | 985 | 90.6 | /mnt/stockage/packages/f41/mingw-fontconfig/po/zh_CN.po/mnt/stockage/packages/f41/mingw-fontconfig/po-conf/zh_CN.po | 
+ | [ka](/f41/language/ka) | 964 | 985 | 97.9 | /mnt/stockage/packages/f41/mingw-fontconfig/po/ka.po/mnt/stockage/packages/f41/mingw-fontconfig/po-conf/ka.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 892 | 985 | 90.6 | /mnt/stockage/packages/f41/mingw-fontconfig/po/zh_CN.po/mnt/stockage/packages/f41/mingw-fontconfig/po-conf/zh_CN.po | 
 {.sortable}
 
 

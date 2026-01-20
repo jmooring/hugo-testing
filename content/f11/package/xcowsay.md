@@ -18,7 +18,7 @@ The package xcowsay (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f11/xcowsay/po/pt_BR.po | 
+ | [pt_BR](/f11/language/pt_BR) | 132 | 132 | 100.0 | /mnt/stockage/packages/f11/xcowsay/po/pt_BR.po | 
 {.sortable}
 
 

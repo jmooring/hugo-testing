@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 68 | 9286 | 0.7 | Chuvash <cv@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 68 | 9286 | 0.7 | Chuvash <cv@li.org> | 
 {.sortable}
 
 

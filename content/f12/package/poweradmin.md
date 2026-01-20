@@ -18,8 +18,8 @@ The package poweradmin (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1909 | 1909 | 100.0 | /mnt/stockage/packages/f12/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 0 | 858 | 0.0 | /mnt/stockage/packages/f12/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
+ | [nl](/f12/language/nl) | 1909 | 1909 | 100.0 | /mnt/stockage/packages/f12/poweradmin/locale/nl_NL/LC_MESSAGES/nl.po | 
+ | [en](/f12/language/en) | 0 | 858 | 0.0 | /mnt/stockage/packages/f12/poweradmin/locale/en_EN/LC_MESSAGES/en.po | 
 {.sortable}
 
 

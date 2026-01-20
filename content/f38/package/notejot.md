@@ -18,24 +18,24 @@ The package notejot (version 3.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/cs.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 513 | 513 | 100.0 | /mnt/stockage/packages/f38/notejot/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/fr.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/hr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/ru.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 394 | 489 | 80.6 | /mnt/stockage/packages/f38/notejot/po/pl.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 185 | 489 | 37.8 | /mnt/stockage/packages/f38/notejot/po/ja.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 183 | 489 | 37.4 | /mnt/stockage/packages/f38/notejot/po/de.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 128 | 489 | 26.2 | /mnt/stockage/packages/f38/notejot/po/ca.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 108 | 489 | 22.1 | /mnt/stockage/packages/f38/notejot/po/sv.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/da.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/gl.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/lt.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/pt.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 5 | 489 | 1.0 | /mnt/stockage/packages/f38/notejot/po/tr_TR.po | 
+ | [cs](/f38/language/cs) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/cs.po | 
+ | [es](/f38/language/es) | 513 | 513 | 100.0 | /mnt/stockage/packages/f38/notejot/po/es.po | 
+ | [fr](/f38/language/fr) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/fr.po | 
+ | [hr](/f38/language/hr) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/hr.po | 
+ | [it](/f38/language/it) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/it.po | 
+ | [nl](/f38/language/nl) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 489 | 489 | 100.0 | /mnt/stockage/packages/f38/notejot/po/ru.po | 
+ | [pl](/f38/language/pl) | 394 | 489 | 80.6 | /mnt/stockage/packages/f38/notejot/po/pl.po | 
+ | [ja](/f38/language/ja) | 185 | 489 | 37.8 | /mnt/stockage/packages/f38/notejot/po/ja.po | 
+ | [de](/f38/language/de) | 183 | 489 | 37.4 | /mnt/stockage/packages/f38/notejot/po/de.po | 
+ | [ca](/f38/language/ca) | 128 | 489 | 26.2 | /mnt/stockage/packages/f38/notejot/po/ca.po | 
+ | [sv](/f38/language/sv) | 108 | 489 | 22.1 | /mnt/stockage/packages/f38/notejot/po/sv.po | 
+ | [da](/f38/language/da) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/da.po | 
+ | [gl](/f38/language/gl) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/gl.po | 
+ | [lt](/f38/language/lt) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/lt.po | 
+ | [pt](/f38/language/pt) | 8 | 489 | 1.6 | /mnt/stockage/packages/f38/notejot/po/pt.po | 
+ | [tr](/f38/language/tr) | 5 | 489 | 1.0 | /mnt/stockage/packages/f38/notejot/po/tr_TR.po | 
 {.sortable}
 
 

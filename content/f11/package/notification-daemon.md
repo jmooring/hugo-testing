@@ -18,12 +18,12 @@ The package notification-daemon (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/ar.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/pl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/sv.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 17 | 31 | 54.8 | /mnt/stockage/packages/f11/notification-daemon/po/de.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 8 | 31 | 25.8 | /mnt/stockage/packages/f11/notification-daemon/po/nl.po | 
+ | [ar](/f11/language/ar) | 31 | 31 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/ar.po | 
+ | [it](/f11/language/it) | 101 | 101 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/it.po | 
+ | [pl](/f11/language/pl) | 31 | 31 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/pl.po | 
+ | [sv](/f11/language/sv) | 31 | 31 | 100.0 | /mnt/stockage/packages/f11/notification-daemon/po/sv.po | 
+ | [de](/f11/language/de) | 17 | 31 | 54.8 | /mnt/stockage/packages/f11/notification-daemon/po/de.po | 
+ | [nl](/f11/language/nl) | 8 | 31 | 25.8 | /mnt/stockage/packages/f11/notification-daemon/po/nl.po | 
 {.sortable}
 
 

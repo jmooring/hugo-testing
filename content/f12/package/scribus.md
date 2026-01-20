@@ -18,13 +18,13 @@ The package scribus (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 14194 | 14194 | 100.0 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.bn.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 12907 | 14194 | 90.9 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.pt_BR.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 4416 | 14194 | 31.1 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.dz.po | 
- | [eo]({{< ref "/f12/language/eo.md" >}}) | 3863 | 14194 | 27.2 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.eo.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 553 | 14194 | 3.9 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.es_LA.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 553 | 14194 | 3.9 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.lt_LT.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 190 | 14194 | 1.3 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.bg_BG.po | 
+ | [bn](/f12/language/bn) | 14194 | 14194 | 100.0 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.bn.po | 
+ | [pt_BR](/f12/language/pt_BR) | 12907 | 14194 | 90.9 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.pt_BR.po | 
+ | [dz](/f12/language/dz) | 4416 | 14194 | 31.1 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.dz.po | 
+ | [eo](/f12/language/eo) | 3863 | 14194 | 27.2 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.eo.po | 
+ | [es](/f12/language/es) | 553 | 14194 | 3.9 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.es_LA.po | 
+ | [lt](/f12/language/lt) | 553 | 14194 | 3.9 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.lt_LT.po | 
+ | [bg](/f12/language/bg) | 190 | 14194 | 1.3 | /mnt/stockage/packages/f12/scribus/scribus-1.3.8/resources/translations/po/scribus.bg_BG.po | 
 {.sortable}
 
 

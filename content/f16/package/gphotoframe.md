@@ -18,14 +18,14 @@ The package gphotoframe (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 3509 | 3509 | 100.0 | /mnt/stockage/packages/f16/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f16/gphotoframe/po/ja.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 3409 | 3509 | 97.2 | /mnt/stockage/packages/f16/gphotoframe/help/it/it.po/mnt/stockage/packages/f16/gphotoframe/po/it.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1214 | 1319 | 92.0 | /mnt/stockage/packages/f16/gphotoframe/po/uk.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 478 | 1319 | 36.2 | /mnt/stockage/packages/f16/gphotoframe/po/en_GB.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 319 | 1319 | 24.2 | /mnt/stockage/packages/f16/gphotoframe/po/sv.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 247 | 1319 | 18.7 | /mnt/stockage/packages/f16/gphotoframe/po/fr.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 234 | 1319 | 17.7 | /mnt/stockage/packages/f16/gphotoframe/po/es.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 43 | 1319 | 3.3 | /mnt/stockage/packages/f16/gphotoframe/po/te.po | 
+ | [ja](/f16/language/ja) | 3509 | 3509 | 100.0 | /mnt/stockage/packages/f16/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f16/gphotoframe/po/ja.po | 
+ | [it](/f16/language/it) | 3409 | 3509 | 97.2 | /mnt/stockage/packages/f16/gphotoframe/help/it/it.po/mnt/stockage/packages/f16/gphotoframe/po/it.po | 
+ | [uk](/f16/language/uk) | 1214 | 1319 | 92.0 | /mnt/stockage/packages/f16/gphotoframe/po/uk.po | 
+ | [en_GB](/f16/language/en_GB) | 478 | 1319 | 36.2 | /mnt/stockage/packages/f16/gphotoframe/po/en_GB.po | 
+ | [sv](/f16/language/sv) | 319 | 1319 | 24.2 | /mnt/stockage/packages/f16/gphotoframe/po/sv.po | 
+ | [fr](/f16/language/fr) | 247 | 1319 | 18.7 | /mnt/stockage/packages/f16/gphotoframe/po/fr.po | 
+ | [es](/f16/language/es) | 234 | 1319 | 17.7 | /mnt/stockage/packages/f16/gphotoframe/po/es.po | 
+ | [te](/f16/language/te) | 43 | 1319 | 3.3 | /mnt/stockage/packages/f16/gphotoframe/po/te.po | 
 {.sortable}
 
 

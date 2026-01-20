@@ -18,14 +18,14 @@ The package doodle (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/ga.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/it.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/nl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/sv.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/vi.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 647 | 684 | 94.6 | /mnt/stockage/packages/f23/doodle/po/de.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 392 | 684 | 57.3 | /mnt/stockage/packages/f23/doodle/po/sq.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 171 | 684 | 25.0 | /mnt/stockage/packages/f23/doodle/po/eu.po | 
+ | [ga](/f23/language/ga) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/ga.po | 
+ | [it](/f23/language/it) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/it.po | 
+ | [nl](/f23/language/nl) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/nl.po | 
+ | [sv](/f23/language/sv) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/sv.po | 
+ | [vi](/f23/language/vi) | 684 | 684 | 100.0 | /mnt/stockage/packages/f23/doodle/po/vi.po | 
+ | [de](/f23/language/de) | 647 | 684 | 94.6 | /mnt/stockage/packages/f23/doodle/po/de.po | 
+ | [sq](/f23/language/sq) | 392 | 684 | 57.3 | /mnt/stockage/packages/f23/doodle/po/sq.po | 
+ | [eu](/f23/language/eu) | 171 | 684 | 25.0 | /mnt/stockage/packages/f23/doodle/po/eu.po | 
 {.sortable}
 
 

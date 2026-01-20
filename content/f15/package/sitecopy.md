@@ -18,14 +18,14 @@ The package sitecopy (version 0.16.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f15/language/it.md" >}}) | 2116 | 2300 | 92.0 | /mnt/stockage/packages/f15/sitecopy/po/it.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 1071 | 2300 | 46.6 | /mnt/stockage/packages/f15/sitecopy/po/nn.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1013 | 2300 | 44.0 | /mnt/stockage/packages/f15/sitecopy/po/de.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1008 | 2300 | 43.8 | /mnt/stockage/packages/f15/sitecopy/po/cs.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 916 | 2300 | 39.8 | /mnt/stockage/packages/f15/sitecopy/po/tr.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 844 | 2300 | 36.7 | /mnt/stockage/packages/f15/sitecopy/po/ja.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 327 | 2300 | 14.2 | /mnt/stockage/packages/f15/sitecopy/po/ru.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f15/sitecopy/po/fr.po | 
+ | [it](/f15/language/it) | 2116 | 2300 | 92.0 | /mnt/stockage/packages/f15/sitecopy/po/it.po | 
+ | [nn](/f15/language/nn) | 1071 | 2300 | 46.6 | /mnt/stockage/packages/f15/sitecopy/po/nn.po | 
+ | [de](/f15/language/de) | 1013 | 2300 | 44.0 | /mnt/stockage/packages/f15/sitecopy/po/de.po | 
+ | [cs](/f15/language/cs) | 1008 | 2300 | 43.8 | /mnt/stockage/packages/f15/sitecopy/po/cs.po | 
+ | [tr](/f15/language/tr) | 916 | 2300 | 39.8 | /mnt/stockage/packages/f15/sitecopy/po/tr.po | 
+ | [ja](/f15/language/ja) | 844 | 2300 | 36.7 | /mnt/stockage/packages/f15/sitecopy/po/ja.po | 
+ | [ru](/f15/language/ru) | 327 | 2300 | 14.2 | /mnt/stockage/packages/f15/sitecopy/po/ru.po | 
+ | [fr](/f15/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f15/sitecopy/po/fr.po | 
 {.sortable}
 
 

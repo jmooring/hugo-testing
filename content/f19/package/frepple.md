@@ -18,8 +18,8 @@ The package frepple (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f19/language/en_US.md" >}}) | 4383 | 7029 | 62.4 | /mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/djangojs.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 0 | 71 | 0.0 | /mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
+ | [en_US](/f19/language/en_US) | 4383 | 7029 | 62.4 | /mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/djangojs.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po/mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 0 | 71 | 0.0 | /mnt/stockage/packages/f19/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

@@ -43,50 +43,50 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Terminal]({{< ref "/f12/package/Terminal.md" >}}) | 1193 | 1193 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [Thunar]({{< ref "/f12/package/Thunar.md" >}}) | 3865 | 3865 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [alacarte]({{< ref "/f12/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Kazakh <> | 
- | [deluge]({{< ref "/f12/package/deluge.md" >}}) | 1998 | 1998 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [exo]({{< ref "/f12/package/exo.md" >}}) | 1598 | 1598 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [file-roller]({{< ref "/f12/package/file-roller.md" >}}) | 1267 | 1267 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gdm]({{< ref "/f12/package/gdm.md" >}}) | 1314 | 1314 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f12/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Kazakh <moldabekov@gmail.com> | 
- | [gnome-desktop]({{< ref "/f12/package/gnome-desktop.md" >}}) | 285 | 285 | 100.0 | Kazakh <moldabekov@gmail.com> | 
- | [gnome-icon-theme]({{< ref "/f12/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Kazakh <moldabekov@gmail.com> | 
- | [gnome-menus]({{< ref "/f12/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
- | [gparted]({{< ref "/f12/package/gparted.md" >}}) | 1801 | 1801 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [klavaro]({{< ref "/f12/package/klavaro.md" >}}) | 1878 | 1878 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libxfce4menu]({{< ref "/f12/package/libxfce4menu.md" >}}) | 31 | 31 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [libxfce4util]({{< ref "/f12/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
- | [pam]({{< ref "/f12/package/pam.md" >}}) | 599 | 599 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [poedit]({{< ref "/f12/package/poedit.md" >}}) | 1164 | 1164 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce-utils]({{< ref "/f12/package/xfce-utils.md" >}}) | 131 | 131 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-appfinder]({{< ref "/f12/package/xfce4-appfinder.md" >}}) | 84 | 84 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-panel]({{< ref "/f12/package/xfce4-panel.md" >}}) | 540 | 540 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-session]({{< ref "/f12/package/xfce4-session.md" >}}) | 988 | 988 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfce4-settings]({{< ref "/f12/package/xfce4-settings.md" >}}) | 1128 | 1128 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfconf]({{< ref "/f12/package/xfconf.md" >}}) | 437 | 437 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfdesktop]({{< ref "/f12/package/xfdesktop.md" >}}) | 1002 | 1002 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfwm4]({{< ref "/f12/package/xfwm4.md" >}}) | 797 | 797 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 1083 | 1092 | 99.2 | Kazakh <kk_KZ@googlegroups.com> | 
- | [xfburn]({{< ref "/f12/package/xfburn.md" >}}) | 1285 | 1300 | 98.8 | Kazakh <kk_KZ@googlegroups.com> | 
- | [kmid]({{< ref "/f12/package/kmid.md" >}}) | 523 | 535 | 97.8 | Kazakh | 
- | [swfdec-gnome]({{< ref "/f12/package/swfdec-gnome.md" >}}) | 85 | 101 | 84.2 | Kazakh | 
- | [ksig]({{< ref "/f12/package/ksig.md" >}}) | 71 | 85 | 83.5 | Kazakh | 
- | [konq-plugins]({{< ref "/f12/package/konq-plugins.md" >}}) | 1205 | 1598 | 75.4 | Kazakh | 
- | [transmission]({{< ref "/f12/package/transmission.md" >}}) | 1227 | 1642 | 74.7 | Kazakh <kk_KZ@googlegroups.com> | 
- | [terminator]({{< ref "/f12/package/terminator.md" >}}) | 140 | 218 | 64.2 | Kazakh <kk@li.org> | 
- | [kpilot]({{< ref "/f12/package/kpilot.md" >}}) | 4560 | 7156 | 63.7 | Kazakh | 
- | [shadow-utils]({{< ref "/f12/package/shadow-utils.md" >}}) | 1494 | 3221 | 46.4 | Kazakh <kk_KZ@googlegroups.com> | 
- | [decibel-audio-player]({{< ref "/f12/package/decibel-audio-player.md" >}}) | 46 | 1494 | 3.1 | Kazakh <kk@li.org> | 
- | [clementine]({{< ref "/f12/package/clementine.md" >}}) | 64 | 2111 | 3.0 | Kazakh <kk@li.org> | 
- | [blueman]({{< ref "/f12/package/blueman.md" >}}) | 31 | 1376 | 2.3 | Kazakh <kk@li.org> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 38 | 3336 | 1.1 | Kazakh <kk@li.org> | 
- | [homebank]({{< ref "/f12/package/homebank.md" >}}) | 9 | 1507 | 0.6 | Kazakh <kk@li.org> | 
- | [jokosher]({{< ref "/f12/package/jokosher.md" >}}) | 3 | 2059 | 0.1 | Kazakh <kk@li.org> | 
- | [exaile]({{< ref "/f12/package/exaile.md" >}}) | 2 | 2176 | 0.1 | Kazakh <kk@li.org> | 
- | [ailurus]({{< ref "/f12/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
+ | [Terminal](/f12/package/Terminal) | 1193 | 1193 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [Thunar](/f12/package/Thunar) | 3865 | 3865 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [alacarte](/f12/package/alacarte) | 42 | 42 | 100.0 | Kazakh <> | 
+ | [deluge](/f12/package/deluge) | 1998 | 1998 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [exo](/f12/package/exo) | 1598 | 1598 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [file-roller](/f12/package/file-roller) | 1267 | 1267 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gdm](/f12/package/gdm) | 1314 | 1314 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-backgrounds](/f12/package/gnome-backgrounds) | 23 | 23 | 100.0 | Kazakh <moldabekov@gmail.com> | 
+ | [gnome-desktop](/f12/package/gnome-desktop) | 285 | 285 | 100.0 | Kazakh <moldabekov@gmail.com> | 
+ | [gnome-icon-theme](/f12/package/gnome-icon-theme) | 20 | 20 | 100.0 | Kazakh <moldabekov@gmail.com> | 
+ | [gnome-menus](/f12/package/gnome-menus) | 157 | 157 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
+ | [gparted](/f12/package/gparted) | 1801 | 1801 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [klavaro](/f12/package/klavaro) | 1878 | 1878 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libxfce4menu](/f12/package/libxfce4menu) | 31 | 31 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [libxfce4util](/f12/package/libxfce4util) | 424 | 424 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | 97 | 97 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
+ | [pam](/f12/package/pam) | 599 | 599 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [poedit](/f12/package/poedit) | 1164 | 1164 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce-utils](/f12/package/xfce-utils) | 131 | 131 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-appfinder](/f12/package/xfce4-appfinder) | 84 | 84 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-panel](/f12/package/xfce4-panel) | 540 | 540 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-session](/f12/package/xfce4-session) | 988 | 988 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfce4-settings](/f12/package/xfce4-settings) | 1128 | 1128 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfconf](/f12/package/xfconf) | 437 | 437 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfdesktop](/f12/package/xfdesktop) | 1002 | 1002 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfwm4](/f12/package/xfwm4) | 797 | 797 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [iso-codes](/f12/package/iso-codes) | 1083 | 1092 | 99.2 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [xfburn](/f12/package/xfburn) | 1285 | 1300 | 98.8 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [kmid](/f12/package/kmid) | 523 | 535 | 97.8 | Kazakh | 
+ | [swfdec-gnome](/f12/package/swfdec-gnome) | 85 | 101 | 84.2 | Kazakh | 
+ | [ksig](/f12/package/ksig) | 71 | 85 | 83.5 | Kazakh | 
+ | [konq-plugins](/f12/package/konq-plugins) | 1205 | 1598 | 75.4 | Kazakh | 
+ | [transmission](/f12/package/transmission) | 1227 | 1642 | 74.7 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [terminator](/f12/package/terminator) | 140 | 218 | 64.2 | Kazakh <kk@li.org> | 
+ | [kpilot](/f12/package/kpilot) | 4560 | 7156 | 63.7 | Kazakh | 
+ | [shadow-utils](/f12/package/shadow-utils) | 1494 | 3221 | 46.4 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [decibel-audio-player](/f12/package/decibel-audio-player) | 46 | 1494 | 3.1 | Kazakh <kk@li.org> | 
+ | [clementine](/f12/package/clementine) | 64 | 2111 | 3.0 | Kazakh <kk@li.org> | 
+ | [blueman](/f12/package/blueman) | 31 | 1376 | 2.3 | Kazakh <kk@li.org> | 
+ | [Miro](/f12/package/Miro) | 38 | 3336 | 1.1 | Kazakh <kk@li.org> | 
+ | [homebank](/f12/package/homebank) | 9 | 1507 | 0.6 | Kazakh <kk@li.org> | 
+ | [jokosher](/f12/package/jokosher) | 3 | 2059 | 0.1 | Kazakh <kk@li.org> | 
+ | [exaile](/f12/package/exaile) | 2 | 2176 | 0.1 | Kazakh <kk@li.org> | 
+ | [ailurus](/f12/package/ailurus) | 0 | 8446 | 0.0 | none | 
 {.sortable}
 
 

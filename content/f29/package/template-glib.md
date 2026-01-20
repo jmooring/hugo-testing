@@ -18,20 +18,20 @@ The package template-glib (version 3.30.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/el.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/es.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/fur.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/id.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/ro.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/sv.po | 
+ | [cs](/f29/language/cs) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/cs.po | 
+ | [de](/f29/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/de.po | 
+ | [el](/f29/language/el) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/el.po | 
+ | [es](/f29/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/es.po | 
+ | [fur](/f29/language/fur) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/fur.po | 
+ | [hu](/f29/language/hu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/hu.po | 
+ | [id](/f29/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/id.po | 
+ | [pl](/f29/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/pl.po | 
+ | [pt](/f29/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/ro.po | 
+ | [sl](/f29/language/sl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/sl.po | 
+ | [sr](/f29/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/sr.po | 
+ | [sv](/f29/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f29/template-glib/po/sv.po | 
 {.sortable}
 
 

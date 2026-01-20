@@ -18,16 +18,16 @@ The package input-pad (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 2270 | 2270 | 100.0 | /mnt/stockage/packages/f43/input-pad/po/uk.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 1617 | 2270 | 71.2 | /mnt/stockage/packages/f43/input-pad/po/ca.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1190 | 2270 | 52.4 | /mnt/stockage/packages/f43/input-pad/po/fr.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 948 | 2270 | 41.8 | /mnt/stockage/packages/f43/input-pad/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 679 | 2322 | 29.2 | /mnt/stockage/packages/f43/input-pad/po/ka.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 423 | 2270 | 18.6 | /mnt/stockage/packages/f43/input-pad/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 273 | 2270 | 12.0 | /mnt/stockage/packages/f43/input-pad/po/zh_CN.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 107 | 2270 | 4.7 | /mnt/stockage/packages/f43/input-pad/po/hu.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 104 | 2270 | 4.6 | /mnt/stockage/packages/f43/input-pad/po/eu.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 34 | 2270 | 1.5 | /mnt/stockage/packages/f43/input-pad/po/pt_BR.po | 
+ | [uk](/f43/language/uk) | 2270 | 2270 | 100.0 | /mnt/stockage/packages/f43/input-pad/po/uk.po | 
+ | [ca](/f43/language/ca) | 1617 | 2270 | 71.2 | /mnt/stockage/packages/f43/input-pad/po/ca.po | 
+ | [fr](/f43/language/fr) | 1190 | 2270 | 52.4 | /mnt/stockage/packages/f43/input-pad/po/fr.po | 
+ | [ja](/f43/language/ja) | 948 | 2270 | 41.8 | /mnt/stockage/packages/f43/input-pad/po/ja.po | 
+ | [ka](/f43/language/ka) | 679 | 2322 | 29.2 | /mnt/stockage/packages/f43/input-pad/po/ka.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 423 | 2270 | 18.6 | /mnt/stockage/packages/f43/input-pad/po/zh_TW.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 273 | 2270 | 12.0 | /mnt/stockage/packages/f43/input-pad/po/zh_CN.po | 
+ | [hu](/f43/language/hu) | 107 | 2270 | 4.7 | /mnt/stockage/packages/f43/input-pad/po/hu.po | 
+ | [eu](/f43/language/eu) | 104 | 2270 | 4.6 | /mnt/stockage/packages/f43/input-pad/po/eu.po | 
+ | [pt_BR](/f43/language/pt_BR) | 34 | 2270 | 1.5 | /mnt/stockage/packages/f43/input-pad/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package msmtp (version 1.8.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/de.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/eo.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/fr.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/pt_BR.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/sr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/uk.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 442 | 1796 | 24.6 | /mnt/stockage/packages/f33/msmtp/po/ta.po | 
+ | [de](/f33/language/de) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/de.po | 
+ | [eo](/f33/language/eo) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/eo.po | 
+ | [fr](/f33/language/fr) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/fr.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/pt_BR.po | 
+ | [sr](/f33/language/sr) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/sr.po | 
+ | [uk](/f33/language/uk) | 1796 | 1796 | 100.0 | /mnt/stockage/packages/f33/msmtp/po/uk.po | 
+ | [ta](/f33/language/ta) | 442 | 1796 | 24.6 | /mnt/stockage/packages/f33/msmtp/po/ta.po | 
 {.sortable}
 
 

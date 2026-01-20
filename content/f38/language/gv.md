@@ -38,35 +38,35 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-shell-frippery]({{< ref "/f38/package/gnome-shell-frippery.md" >}}) | 4 | 4 | 100.0 |  | 
- | [epiphany]({{< ref "/f38/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [nautilus]({{< ref "/f38/package/nautilus.md" >}}) | 7497 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f38/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [gnome-panel]({{< ref "/f38/package/gnome-panel.md" >}}) | 2875 | 3520 | 81.7 | Manx <gv@li.org> | 
- | [mate-menu]({{< ref "/f38/package/mate-menu.md" >}}) | 229 | 308 | 74.4 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f38/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f38/package/gdm.md" >}}) | 206 | 650 | 31.7 | Manx <gv@li.org> | 
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 252 | 989 | 25.5 | Manx <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gv/> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 725 | 3609 | 20.1 | Manx <gv@li.org> | 
- | [isomaster]({{< ref "/f38/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [transmission]({{< ref "/f38/package/transmission.md" >}}) | 25 | 2441 | 1.0 | Manx <gv@li.org> | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
+ | [gnome-shell-frippery](/f38/package/gnome-shell-frippery) | 4 | 4 | 100.0 |  | 
+ | [epiphany](/f38/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [nautilus](/f38/package/nautilus) | 7497 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f38/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [gnome-panel](/f38/package/gnome-panel) | 2875 | 3520 | 81.7 | Manx <gv@li.org> | 
+ | [mate-menu](/f38/package/mate-menu) | 229 | 308 | 74.4 | Manx <gv@li.org> | 
+ | [gnome-menus](/f38/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gdm](/f38/package/gdm) | 206 | 650 | 31.7 | Manx <gv@li.org> | 
+ | [iso-codes](/f38/package/iso-codes) | 252 | 989 | 25.5 | Manx <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gv/> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 725 | 3609 | 20.1 | Manx <gv@li.org> | 
+ | [isomaster](/f38/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [transmission](/f38/package/transmission) | 25 | 2441 | 1.0 | Manx <gv@li.org> | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-code](/f38/package/elementary-code) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-music](/f38/package/elementary-music) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
 {.sortable}
 
 

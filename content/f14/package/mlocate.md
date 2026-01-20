@@ -18,35 +18,35 @@ The package mlocate (version 0.23.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ar.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ast.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/bs.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/es.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/fa.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ko.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ru.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/sv.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/zh_TW.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 275 | 563 | 48.8 | /mnt/stockage/packages/f14/mlocate/po/bg.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 165 | 563 | 29.3 | /mnt/stockage/packages/f14/mlocate/po/ms.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 9 | 563 | 1.6 | /mnt/stockage/packages/f14/mlocate/po/el.po | 
+ | [ar](/f14/language/ar) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ar.po | 
+ | [ast](/f14/language/ast) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ast.po | 
+ | [bs](/f14/language/bs) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/bs.po | 
+ | [ca](/f14/language/ca) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ca.po | 
+ | [cs](/f14/language/cs) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/cs.po | 
+ | [da](/f14/language/da) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/da.po | 
+ | [de](/f14/language/de) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/en_GB.po | 
+ | [es](/f14/language/es) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/es.po | 
+ | [fa](/f14/language/fa) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/fa.po | 
+ | [fr](/f14/language/fr) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/fr.po | 
+ | [hu](/f14/language/hu) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/hu.po | 
+ | [it](/f14/language/it) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/it.po | 
+ | [ja](/f14/language/ja) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ja.po | 
+ | [ko](/f14/language/ko) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ko.po | 
+ | [nl](/f14/language/nl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/nl.po | 
+ | [pl](/f14/language/pl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/pl.po | 
+ | [pt](/f14/language/pt) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/ru.po | 
+ | [sr](/f14/language/sr) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/sv.po | 
+ | [uk](/f14/language/uk) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 563 | 563 | 100.0 | /mnt/stockage/packages/f14/mlocate/po/zh_TW.po | 
+ | [bg](/f14/language/bg) | 275 | 563 | 48.8 | /mnt/stockage/packages/f14/mlocate/po/bg.po | 
+ | [ms](/f14/language/ms) | 165 | 563 | 29.3 | /mnt/stockage/packages/f14/mlocate/po/ms.po | 
+ | [el](/f14/language/el) | 9 | 563 | 1.6 | /mnt/stockage/packages/f14/mlocate/po/el.po | 
 {.sortable}
 
 

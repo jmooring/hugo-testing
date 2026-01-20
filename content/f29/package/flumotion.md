@@ -18,14 +18,14 @@ The package flumotion (version 0.11.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 2958 | 3337 | 88.6 | /mnt/stockage/packages/f29/flumotion/po/ca.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 2958 | 3337 | 88.6 | /mnt/stockage/packages/f29/flumotion/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2654 | 3337 | 79.5 | /mnt/stockage/packages/f29/flumotion/po/fr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1596 | 3337 | 47.8 | /mnt/stockage/packages/f29/flumotion/po/sv.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1530 | 3337 | 45.8 | /mnt/stockage/packages/f29/flumotion/po/nl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 582 | 3391 | 17.2 | /mnt/stockage/packages/f29/flumotion/po/de.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 440 | 3337 | 13.2 | /mnt/stockage/packages/f29/flumotion/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 221 | 3337 | 6.6 | /mnt/stockage/packages/f29/flumotion/po/nb.po | 
+ | [ca](/f29/language/ca) | 2958 | 3337 | 88.6 | /mnt/stockage/packages/f29/flumotion/po/ca.po | 
+ | [es](/f29/language/es) | 2958 | 3337 | 88.6 | /mnt/stockage/packages/f29/flumotion/po/es.po | 
+ | [fr](/f29/language/fr) | 2654 | 3337 | 79.5 | /mnt/stockage/packages/f29/flumotion/po/fr.po | 
+ | [sv](/f29/language/sv) | 1596 | 3337 | 47.8 | /mnt/stockage/packages/f29/flumotion/po/sv.po | 
+ | [nl](/f29/language/nl) | 1530 | 3337 | 45.8 | /mnt/stockage/packages/f29/flumotion/po/nl.po | 
+ | [de](/f29/language/de) | 582 | 3391 | 17.2 | /mnt/stockage/packages/f29/flumotion/po/de.po | 
+ | [pt_BR](/f29/language/pt_BR) | 440 | 3337 | 13.2 | /mnt/stockage/packages/f29/flumotion/po/pt_BR.po | 
+ | [nb_NO](/f29/language/nb_NO) | 221 | 3337 | 6.6 | /mnt/stockage/packages/f29/flumotion/po/nb.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package vinagre (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 19 | 224 | 8.5 | /mnt/stockage/packages/f8/vinagre/po/pt_BR.po | 
+ | [pt_BR](/f8/language/pt_BR) | 19 | 224 | 8.5 | /mnt/stockage/packages/f8/vinagre/po/pt_BR.po | 
 {.sortable}
 
 

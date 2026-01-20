@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 0 | 1998 | 0.0 | Inuktitut <iu@li.org> | 
+ | [deluge](/f10/package/deluge) | 0 | 1998 | 0.0 | Inuktitut <iu@li.org> | 
 {.sortable}
 
 

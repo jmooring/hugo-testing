@@ -18,32 +18,32 @@ The package cpio (version 2.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f37/language/da.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/de.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/fr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/hu.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/ko.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/pt_BR.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/sr.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/uk.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/zh_CN.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/hr.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/it.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/ru.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/tr.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1568 | 1909 | 82.1 | /mnt/stockage/packages/f37/cpio/po/es.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 1077 | 1909 | 56.4 | /mnt/stockage/packages/f37/cpio/po/ga.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 869 | 1909 | 45.5 | /mnt/stockage/packages/f37/cpio/po/zh_TW.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 827 | 1909 | 43.3 | /mnt/stockage/packages/f37/cpio/po/gl.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 197 | 1909 | 10.3 | /mnt/stockage/packages/f37/cpio/po/ro.po | 
+ | [da](/f37/language/da) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/da.po | 
+ | [de](/f37/language/de) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/de.po | 
+ | [fi](/f37/language/fi) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/fi.po | 
+ | [fr](/f37/language/fr) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/fr.po | 
+ | [hu](/f37/language/hu) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/hu.po | 
+ | [ja](/f37/language/ja) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/ja.po | 
+ | [ko](/f37/language/ko) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/ko.po | 
+ | [nl](/f37/language/nl) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/nl.po | 
+ | [pl](/f37/language/pl) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/pl.po | 
+ | [pt](/f37/language/pt) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/pt_BR.po | 
+ | [sr](/f37/language/sr) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/sr.po | 
+ | [sv](/f37/language/sv) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/sv.po | 
+ | [uk](/f37/language/uk) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/uk.po | 
+ | [vi](/f37/language/vi) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1872 | 1909 | 98.1 | /mnt/stockage/packages/f37/cpio/po/zh_CN.po | 
+ | [hr](/f37/language/hr) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/hr.po | 
+ | [id](/f37/language/id) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/id.po | 
+ | [it](/f37/language/it) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/it.po | 
+ | [ru](/f37/language/ru) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/ru.po | 
+ | [tr](/f37/language/tr) | 1765 | 1909 | 92.5 | /mnt/stockage/packages/f37/cpio/po/tr.po | 
+ | [es](/f37/language/es) | 1568 | 1909 | 82.1 | /mnt/stockage/packages/f37/cpio/po/es.po | 
+ | [ga](/f37/language/ga) | 1077 | 1909 | 56.4 | /mnt/stockage/packages/f37/cpio/po/ga.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 869 | 1909 | 45.5 | /mnt/stockage/packages/f37/cpio/po/zh_TW.po | 
+ | [gl](/f37/language/gl) | 827 | 1909 | 43.3 | /mnt/stockage/packages/f37/cpio/po/gl.po | 
+ | [ro](/f37/language/ro) | 197 | 1909 | 10.3 | /mnt/stockage/packages/f37/cpio/po/ro.po | 
 {.sortable}
 
 

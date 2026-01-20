@@ -18,19 +18,19 @@ The package condor (version 8.8.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/fr.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/ja.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/ru.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/sv.po | 
+ | [cs](/f31/language/cs) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/cs.po | 
+ | [da](/f31/language/da) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/da.po | 
+ | [de](/f31/language/de) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/de.po | 
+ | [es](/f31/language/es) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/es.po | 
+ | [fr](/f31/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/fr.po | 
+ | [it](/f31/language/it) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/it.po | 
+ | [ja](/f31/language/ja) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/ja.po | 
+ | [nl](/f31/language/nl) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/nl.po | 
+ | [pl](/f31/language/pl) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/pl.po | 
+ | [pt](/f31/language/pt) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/ru.po | 
+ | [sv](/f31/language/sv) | 771 | 771 | 100.0 | /mnt/stockage/packages/f31/condor/build/packaging/new-debian/po/sv.po | 
 {.sortable}
 
 

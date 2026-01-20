@@ -18,10 +18,10 @@ The package lazygal (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 655 | 747 | 87.7 | /mnt/stockage/packages/f25/lazygal/locale/fr_FR.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 636 | 747 | 85.1 | /mnt/stockage/packages/f25/lazygal/locale/it_IT.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 621 | 747 | 83.1 | /mnt/stockage/packages/f25/lazygal/locale/cs_CZ.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 79 | 747 | 10.6 | /mnt/stockage/packages/f25/lazygal/locale/da_DK.po | 
+ | [fr](/f25/language/fr) | 655 | 747 | 87.7 | /mnt/stockage/packages/f25/lazygal/locale/fr_FR.po | 
+ | [it](/f25/language/it) | 636 | 747 | 85.1 | /mnt/stockage/packages/f25/lazygal/locale/it_IT.po | 
+ | [cs](/f25/language/cs) | 621 | 747 | 83.1 | /mnt/stockage/packages/f25/lazygal/locale/cs_CZ.po | 
+ | [da](/f25/language/da) | 79 | 747 | 10.6 | /mnt/stockage/packages/f25/lazygal/locale/da_DK.po | 
 {.sortable}
 
 

@@ -38,33 +38,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 23 | 666 | 3.5 | Sundanese <su@li.org> | 
- | [terminator]({{< ref "/f40/package/terminator.md" >}}) | 19 | 1522 | 1.2 | Sundanese (https://www.transifex.com/terminator/teams/109338/su/) | 
- | [elementary-code]({{< ref "/f40/package/elementary-code.md" >}}) | 8 | 1572 | 0.5 | Sundanese <su@li.org> | 
- | [bookworm]({{< ref "/f40/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f40/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f40/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-files]({{< ref "/f40/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f40/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f40/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 0 | 281 | 0.0 | none | 
- | [granite]({{< ref "/f40/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f40/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f40/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [java-11-openjdk-portable]({{< ref "/f40/package/java-11-openjdk-portable.md" >}}) | 0 | 0 | 0.0 |  | 
- | [java-17-openjdk-portable]({{< ref "/f40/package/java-17-openjdk-portable.md" >}}) | 0 | 0 | 0.0 |  | 
- | [java-21-openjdk-portable]({{< ref "/f40/package/java-21-openjdk-portable.md" >}}) | 0 | 0 | 0.0 |  | 
- | [java-latest-openjdk-portable]({{< ref "/f40/package/java-latest-openjdk-portable.md" >}}) | 0 | 0 | 0.0 |  | 
- | [nutty]({{< ref "/f40/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f40/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f40/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f40/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 23 | 666 | 3.5 | Sundanese <su@li.org> | 
+ | [terminator](/f40/package/terminator) | 19 | 1522 | 1.2 | Sundanese (https://www.transifex.com/terminator/teams/109338/su/) | 
+ | [elementary-code](/f40/package/elementary-code) | 8 | 1572 | 0.5 | Sundanese <su@li.org> | 
+ | [bookworm](/f40/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f40/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f40/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-files](/f40/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f40/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f40/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f40/package/gala) | 0 | 281 | 0.0 | none | 
+ | [granite](/f40/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f40/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f40/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [java-11-openjdk-portable](/f40/package/java-11-openjdk-portable) | 0 | 0 | 0.0 |  | 
+ | [java-17-openjdk-portable](/f40/package/java-17-openjdk-portable) | 0 | 0 | 0.0 |  | 
+ | [java-21-openjdk-portable](/f40/package/java-21-openjdk-portable) | 0 | 0 | 0.0 |  | 
+ | [java-latest-openjdk-portable](/f40/package/java-latest-openjdk-portable) | 0 | 0 | 0.0 |  | 
+ | [nutty](/f40/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f40/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f40/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f40/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f40/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 
@@ -76,14 +76,14 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [java-11-openjdk-portable]({{< ref "/f40/package/java-11-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
- | [java-11-openjdk-portable]({{< ref "/f40/package/java-11-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
- | [java-17-openjdk-portable]({{< ref "/f40/package/java-17-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
- | [java-17-openjdk-portable]({{< ref "/f40/package/java-17-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
- | [java-21-openjdk-portable]({{< ref "/f40/package/java-21-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
- | [java-21-openjdk-portable]({{< ref "/f40/package/java-21-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
- | [java-latest-openjdk-portable]({{< ref "/f40/package/java-latest-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
- | [java-latest-openjdk-portable]({{< ref "/f40/package/java-latest-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
+ | [java-11-openjdk-portable](/f40/package/java-11-openjdk-portable) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
+ | [java-11-openjdk-portable](/f40/package/java-11-openjdk-portable) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
+ | [java-17-openjdk-portable](/f40/package/java-17-openjdk-portable) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
+ | [java-17-openjdk-portable](/f40/package/java-17-openjdk-portable) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
+ | [java-21-openjdk-portable](/f40/package/java-21-openjdk-portable) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
+ | [java-21-openjdk-portable](/f40/package/java-21-openjdk-portable) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
+ | [java-latest-openjdk-portable](/f40/package/java-latest-openjdk-portable) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po | error-unicode |  | 
+ | [java-latest-openjdk-portable](/f40/package/java-latest-openjdk-portable) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | error-unicode |  | 
 {.sortable}
 
 
@@ -94,14 +94,14 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [java-11-openjdk-portable]({{< ref "/f40/package/java-11-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
- | [java-11-openjdk-portable]({{< ref "/f40/package/java-11-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
- | [java-17-openjdk-portable]({{< ref "/f40/package/java-17-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
- | [java-17-openjdk-portable]({{< ref "/f40/package/java-17-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
- | [java-21-openjdk-portable]({{< ref "/f40/package/java-21-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
- | [java-21-openjdk-portable]({{< ref "/f40/package/java-21-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
- | [java-latest-openjdk-portable]({{< ref "/f40/package/java-latest-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
- | [java-latest-openjdk-portable]({{< ref "/f40/package/java-latest-openjdk-portable.md" >}}) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
+ | [java-11-openjdk-portable](/f40/package/java-11-openjdk-portable) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
+ | [java-11-openjdk-portable](/f40/package/java-11-openjdk-portable) | /mnt/stockage/packages/f40/java-11-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
+ | [java-17-openjdk-portable](/f40/package/java-17-openjdk-portable) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
+ | [java-17-openjdk-portable](/f40/package/java-17-openjdk-portable) | /mnt/stockage/packages/f40/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
+ | [java-21-openjdk-portable](/f40/package/java-21-openjdk-portable) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
+ | [java-21-openjdk-portable](/f40/package/java-21-openjdk-portable) | /mnt/stockage/packages/f40/java-21-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
+ | [java-latest-openjdk-portable](/f40/package/java-latest-openjdk-portable) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po |  | 
+ | [java-latest-openjdk-portable](/f40/package/java-latest-openjdk-portable) | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po |  | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package childsplay (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_cs_CZ.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_de_DE.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_el_GR.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_eo_EO.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1289 | 1289 | 100.0 | /mnt/stockage/packages/f24/childsplay/lib/CPData/FlashcardsData/sounds/po/fr.po/mnt/stockage/packages/f24/childsplay/po/childsplay_sp_fr_FR.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_hu_HU.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_nl_NL.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_pl_PL.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_pt_BR.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_pt_PT.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/FlashCardsSounds/ru/names.po/mnt/stockage/packages/f24/childsplay/lib/CPData/FlashcardsData/cards/po/ru.po/mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ru_RU.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_sk_SK.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_sv_SE.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_uk_UA.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1208 | 1226 | 98.5 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_es_ES.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1193 | 1226 | 97.3 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ca_ES.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 1193 | 1226 | 97.3 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_sl_SI.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1116 | 1226 | 91.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_it_IT.po | 
- | [ar_SA]({{< ref "/f24/language/ar_SA.md" >}}) | 1065 | 1226 | 86.9 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ar_SA.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 851 | 1226 | 69.4 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ro_RO.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 659 | 1226 | 53.8 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_nb_NO.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 168 | 1226 | 13.7 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_vi_VN.po | 
+ | [cs](/f24/language/cs) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_cs_CZ.po | 
+ | [de](/f24/language/de) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_de_DE.po | 
+ | [el](/f24/language/el) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_el_GR.po | 
+ | [error](/f24/language/error) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_eo_EO.po | 
+ | [fr](/f24/language/fr) | 1289 | 1289 | 100.0 | /mnt/stockage/packages/f24/childsplay/lib/CPData/FlashcardsData/sounds/po/fr.po/mnt/stockage/packages/f24/childsplay/po/childsplay_sp_fr_FR.po | 
+ | [hu](/f24/language/hu) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_hu_HU.po | 
+ | [nl](/f24/language/nl) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_nl_NL.po | 
+ | [pl](/f24/language/pl) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_pl_PL.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_pt_BR.po | 
+ | [pt_PT](/f24/language/pt_PT) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_pt_PT.po | 
+ | [ru](/f24/language/ru) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/FlashCardsSounds/ru/names.po/mnt/stockage/packages/f24/childsplay/lib/CPData/FlashcardsData/cards/po/ru.po/mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ru_RU.po | 
+ | [sk](/f24/language/sk) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_sk_SK.po | 
+ | [sv](/f24/language/sv) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_sv_SE.po | 
+ | [uk](/f24/language/uk) | 1226 | 1226 | 100.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_uk_UA.po | 
+ | [es](/f24/language/es) | 1208 | 1226 | 98.5 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_es_ES.po | 
+ | [ca](/f24/language/ca) | 1193 | 1226 | 97.3 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ca_ES.po | 
+ | [sl](/f24/language/sl) | 1193 | 1226 | 97.3 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_sl_SI.po | 
+ | [it](/f24/language/it) | 1116 | 1226 | 91.0 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_it_IT.po | 
+ | [ar_SA](/f24/language/ar_SA) | 1065 | 1226 | 86.9 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ar_SA.po | 
+ | [ro](/f24/language/ro) | 851 | 1226 | 69.4 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_ro_RO.po | 
+ | [nb_NO](/f24/language/nb_NO) | 659 | 1226 | 53.8 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_nb_NO.po | 
+ | [vi](/f24/language/vi) | 168 | 1226 | 13.7 | /mnt/stockage/packages/f24/childsplay/po/childsplay_sp_vi_VN.po | 
 {.sortable}
 
 

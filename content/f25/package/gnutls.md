@@ -18,20 +18,20 @@ The package gnutls (version 3.5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f25/language/error.md" >}}) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f25/gnutls/po/en@quot.po/mnt/stockage/packages/f25/gnutls/po/en@boldquot.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/cs.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/eo.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/fr.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/pl.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/zh_CN.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 1255 | 1693 | 74.1 | /mnt/stockage/packages/f25/gnutls/po/de.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1176 | 1693 | 69.5 | /mnt/stockage/packages/f25/gnutls/po/sv.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 772 | 1693 | 45.6 | /mnt/stockage/packages/f25/gnutls/po/ms.po | 
+ | [error](/f25/language/error) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f25/gnutls/po/en@quot.po/mnt/stockage/packages/f25/gnutls/po/en@boldquot.po | 
+ | [cs](/f25/language/cs) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/cs.po | 
+ | [eo](/f25/language/eo) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/eo.po | 
+ | [fi](/f25/language/fi) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/fi.po | 
+ | [fr](/f25/language/fr) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/fr.po | 
+ | [it](/f25/language/it) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/it.po | 
+ | [nl](/f25/language/nl) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/nl.po | 
+ | [pl](/f25/language/pl) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/pl.po | 
+ | [uk](/f25/language/uk) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/uk.po | 
+ | [vi](/f25/language/vi) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 1347 | 1693 | 79.6 | /mnt/stockage/packages/f25/gnutls/po/zh_CN.po | 
+ | [de](/f25/language/de) | 1255 | 1693 | 74.1 | /mnt/stockage/packages/f25/gnutls/po/de.po | 
+ | [sv](/f25/language/sv) | 1176 | 1693 | 69.5 | /mnt/stockage/packages/f25/gnutls/po/sv.po | 
+ | [ms](/f25/language/ms) | 772 | 1693 | 45.6 | /mnt/stockage/packages/f25/gnutls/po/ms.po | 
 {.sortable}
 
 

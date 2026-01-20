@@ -18,15 +18,15 @@ The package fcitx-chewing (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/ca.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/ru.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/tr.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/zh_TW.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 47 | 55 | 85.5 | /mnt/stockage/packages/f36/fcitx-chewing/po/de.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 38 | 55 | 69.1 | /mnt/stockage/packages/f36/fcitx-chewing/po/ja.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 0 | 55 | 0.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/da.po | 
+ | [ca](/f36/language/ca) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/ca.po | 
+ | [ko](/f36/language/ko) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/ko.po | 
+ | [ru](/f36/language/ru) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/ru.po | 
+ | [tr](/f36/language/tr) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/tr.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 55 | 55 | 100.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/zh_TW.po | 
+ | [de](/f36/language/de) | 47 | 55 | 85.5 | /mnt/stockage/packages/f36/fcitx-chewing/po/de.po | 
+ | [ja](/f36/language/ja) | 38 | 55 | 69.1 | /mnt/stockage/packages/f36/fcitx-chewing/po/ja.po | 
+ | [da](/f36/language/da) | 0 | 55 | 0.0 | /mnt/stockage/packages/f36/fcitx-chewing/po/da.po | 
 {.sortable}
 
 

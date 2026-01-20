@@ -38,94 +38,94 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f29/package/0ad.md" >}}) | 212 | 212 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/wildfire-games/0ad/language/pt_PT/) | 
- | [audacious]({{< ref "/f29/package/audacious.md" >}}) | 780 | 780 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/audacious/audacious/language/pt_PT/) | 
- | [audacious-plugins]({{< ref "/f29/package/audacious-plugins.md" >}}) | 3978 | 3978 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/audacious/audacious/language/pt_PT/) | 
- | [audacity]({{< ref "/f29/package/audacity.md" >}}) | 16988 | 16988 | 100.0 | Bruno Ramalhete <bram.512@gmail.com> | 
- | [cairo-clock]({{< ref "/f29/package/cairo-clock.md" >}}) | 270 | 270 | 100.0 | Alfredo Matos <alfredo.matos@digitalself.org> | 
- | [childsplay]({{< ref "/f29/package/childsplay.md" >}}) | 1226 | 1226 | 100.0 | <pt@li.org> | 
- | [claws-mail]({{< ref "/f29/package/claws-mail.md" >}}) | 20517 | 20517 | 100.0 | Portuguese <translation-team-pt@lists.sourceforge.net> | 
- | [clawsker]({{< ref "/f29/package/clawsker.md" >}}) | 1401 | 1401 | 100.0 | Portuguese | 
- | [cura]({{< ref "/f29/package/cura.md" >}}) | 18147 | 18147 | 100.0 | Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl> | 
- | [cura-lulzbot]({{< ref "/f29/package/cura-lulzbot.md" >}}) | 15554 | 15554 | 100.0 | Bothof | 
- | [filezilla]({{< ref "/f29/package/filezilla.md" >}}) | 9478 | 9478 | 100.0 | enVide neFelibata <info@envidenefelibata.com> | 
- | [glpi]({{< ref "/f29/package/glpi.md" >}}) | 13617 | 13617 | 100.0 | Portuguese (Portugal) (https://www.transifex.com/glpi/teams/1637/pt_PT/) | 
- | [gradio]({{< ref "/f29/package/gradio.md" >}}) | 309 | 309 | 100.0 | Portuguese (Portugal) <https://hosted.weblate.org/projects/gradio/translations/pt_PT/> | 
- | [guayadeque]({{< ref "/f29/package/guayadeque.md" >}}) | 3326 | 3326 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/guayadeque/language/pt_PT/) | 
- | [libfilezilla]({{< ref "/f29/package/libfilezilla.md" >}}) | 383 | 383 | 100.0 | enVide neFelibata <info@envidenefelibata.com> | 
- | [mate-applet-softupd]({{< ref "/f29/package/mate-applet-softupd.md" >}}) | 40 | 40 | 100.0 | Brazilian Portuguese | 
- | [midori]({{< ref "/f29/package/midori.md" >}}) | 3541 | 3541 | 100.0 | Portuguese | 
- | [moserial]({{< ref "/f29/package/moserial.md" >}}) | 540 | 540 | 100.0 | Portuguese <gnome_pt@yahoogroups.com> | 
- | [mu]({{< ref "/f29/package/mu.md" >}}) | 1943 | 1943 | 100.0 |  | 
- | [nfoview]({{< ref "/f29/package/nfoview.md" >}}) | 115 | 115 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/otsaloma/nfoview/language/pt_PT/) | 
- | [pinball]({{< ref "/f29/package/pinball.md" >}}) | 340 | 340 | 100.0 | PortugueseLanguage: pt_PT | 
- | [poedit]({{< ref "/f29/package/poedit.md" >}}) | 2772 | 2772 | 100.0 | Portuguese | 
- | [python-uranium]({{< ref "/f29/package/python-uranium.md" >}}) | 752 | 752 | 100.0 | Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl> | 
- | [python-uranium-lulzbot]({{< ref "/f29/package/python-uranium-lulzbot.md" >}}) | 589 | 589 | 100.0 | Bothof | 
- | [squirrelmail]({{< ref "/f29/package/squirrelmail.md" >}}) | 6116 | 6116 | 100.0 | Portugues Iberico <squirrelmail-i18n@lists.sourceforge.net> | 
- | [subdownloader]({{< ref "/f29/package/subdownloader.md" >}}) | 968 | 968 | 100.0 | SubDownloader <capiscuas@gmail.com> | 
- | [turpial]({{< ref "/f29/package/turpial.md" >}}) | 858 | 858 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/turpial-1/language/pt_PT/) | 
- | [godot]({{< ref "/f29/package/godot.md" >}}) | 7028 | 7030 | 100.0 | Portuguese (Portugal) <https://hosted.weblate.org/projects/godot-engine/godot/pt_PT/> | 
- | [gramps]({{< ref "/f29/package/gramps.md" >}}) | 38598 | 38667 | 99.8 | Portuguese <pmra@gmx.com> | 
- | [clipit]({{< ref "/f29/package/clipit.md" >}}) | 217 | 218 | 99.5 | Portuguese (Portugal) (http://www.transifex.net/projects/p/clipit/language/pt_PT/) | 
- | [warzone2100]({{< ref "/f29/package/warzone2100.md" >}}) | 13197 | 13299 | 99.2 | Portugese <warzone2100-project@lists.sourceforge.net> | 
- | [colobot]({{< ref "/f29/package/colobot.md" >}}) | 35639 | 36004 | 99.0 | Portuguese <kde-i18n-pt_BR@kde.org> | 
- | [boinc-client]({{< ref "/f29/package/boinc-client.md" >}}) | 20943 | 21251 | 98.6 | Portuguese (Portugal) (http://www.transifex.com/boinc/boinc/language/pt_PT/) | 
- | [chemtool]({{< ref "/f29/package/chemtool.md" >}}) | 1164 | 1184 | 98.3 | European Portuguese | 
- | [bygfoot]({{< ref "/f29/package/bygfoot.md" >}}) | 3623 | 3720 | 97.4 | Portuguese <LL@li.org> | 
- | [inkscape]({{< ref "/f29/package/inkscape.md" >}}) | 36817 | 38214 | 96.3 |  | 
- | [arduino]({{< ref "/f29/package/arduino.md" >}}) | 2973 | 3093 | 96.1 | Portuguese (Portugal) (http://www.transifex.com/mbanzi/arduino-ide-15/language/pt_PT/) | 
- | [gnomebaker]({{< ref "/f29/package/gnomebaker.md" >}}) | 1113 | 1186 | 93.8 | portuguese <pt@li.org> | 
- | [peek]({{< ref "/f29/package/peek.md" >}}) | 497 | 537 | 92.6 | Portuguese (Portugal) <https://hosted.weblate.org/projects/peek/translations/pt_PT/> | 
- | [notes-up]({{< ref "/f29/package/notes-up.md" >}}) | 203 | 220 | 92.3 |  | 
- | [boswars]({{< ref "/f29/package/boswars.md" >}}) | 196 | 216 | 90.7 |  | 
- | [apt]({{< ref "/f29/package/apt.md" >}}) | 3701 | 4103 | 90.2 | European Portuguese <geral@caixamagica.pt> | 
- | [python-flask-admin]({{< ref "/f29/package/python-flask-admin.md" >}}) | 330 | 367 | 89.9 | Portuguese | 
- | [cinnamon-translations]({{< ref "/f29/package/cinnamon-translations.md" >}}) | 5951 | 6694 | 88.9 | Portuguese <pt@li.org> | 
- | [wine]({{< ref "/f29/package/wine.md" >}}) | 14701 | 16856 | 87.2 | Portuguese (Portugal) | 
- | [xchm]({{< ref "/f29/package/xchm.md" >}}) | 197 | 234 | 84.2 | Portuguese Team | 
- | [calamares]({{< ref "/f29/package/calamares.md" >}}) | 356 | 443 | 80.4 | Portuguese (Portugal) (https://www.transifex.com/calamares/teams/20061/pt_PT/) | 
- | [tilix]({{< ref "/f29/package/tilix.md" >}}) | 1625 | 2108 | 77.1 | Portuguese (Portugal) <https://hosted.weblate.org/projects/tilix/translations/pt_PT/> | 
- | [xarchiver]({{< ref "/f29/package/xarchiver.md" >}}) | 904 | 1192 | 75.8 |  | 
- | [lyx]({{< ref "/f29/package/lyx.md" >}}) | 19232 | 25596 | 75.1 | Portuguese | 
- | [python-django-countries]({{< ref "/f29/package/python-django-countries.md" >}}) | 331 | 442 | 74.9 | Portuguese (Portugal) (http://www.transifex.com/smileychris/django-countries/language/pt_PT/) | 
- | [python-formencode]({{< ref "/f29/package/python-formencode.md" >}}) | 591 | 813 | 72.7 | Pedro Algarvio <ufs@ufsoft.org> | 
- | [corebird]({{< ref "/f29/package/corebird.md" >}}) | 425 | 586 | 72.5 | Portuguese (Portugal) (http://www.transifex.com/corebird/corebird/language/pt_PT/) | 
- | [synaptic]({{< ref "/f29/package/synaptic.md" >}}) | 2304 | 3231 | 71.3 | <pt@li.org> | 
- | [pulsecaster]({{< ref "/f29/package/pulsecaster.md" >}}) | 98 | 147 | 66.7 | pt_PT <LL@li.org> | 
- | [pgadmin3]({{< ref "/f29/package/pgadmin3.md" >}}) | 9634 | 16898 | 57.0 | PgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [fuse-encfs]({{< ref "/f29/package/fuse-encfs.md" >}}) | 730 | 1289 | 56.6 | Portuguese (Portugal) <pt_PT@li.org> | 
- | [scummvm]({{< ref "/f29/package/scummvm.md" >}}) | 3377 | 6001 | 56.3 | Portuguese (Portugal) <https://translations.scummvm.org/projects/scummvm/scummvm/pt_PT/> | 
- | [terminator]({{< ref "/f29/package/terminator.md" >}}) | 700 | 1410 | 49.6 | Portuguese <pt@li.org> | 
- | [zabbix]({{< ref "/f29/package/zabbix.md" >}}) | 6897 | 15121 | 45.6 | none | 
- | [lollypop]({{< ref "/f29/package/lollypop.md" >}}) | 551 | 1273 | 43.3 | Portuguese (Portugal) <https://hosted.weblate.org/projects/gnumdk/lollypop/pt_PT/> | 
- | [homebank]({{< ref "/f29/package/homebank.md" >}}) | 1017 | 2440 | 41.7 | Portuguese (Portugal) <pt_PT@li.org> | 
- | [labyrinth]({{< ref "/f29/package/labyrinth.md" >}}) | 84 | 226 | 37.2 | European Portuguese <pt-PT@li.org> | 
- | [python-sphinx]({{< ref "/f29/package/python-sphinx.md" >}}) | 455 | 1257 | 36.2 | Portuguese (Portugal) (http://www.transifex.com/sphinx-doc/sphinx-1/language/pt_PT/) | 
- | [umit]({{< ref "/f29/package/umit.md" >}}) | 1642 | 4593 | 35.8 | pt_PT <LL@li.org> | 
- | [electrum]({{< ref "/f29/package/electrum.md" >}}) | 2412 | 6886 | 35.0 | Portuguese | 
- | [menulibre]({{< ref "/f29/package/menulibre.md" >}}) | 277 | 849 | 32.6 | Portuguese (Portugal) <pt_PT@li.org> | 
- | [siril]({{< ref "/f29/package/siril.md" >}}) | 2553 | 8291 | 30.8 |  | 
- | [rt]({{< ref "/f29/package/rt.md" >}}) | 3084 | 11696 | 26.4 | Portuguese (Portugal) <pt_PT@li.org> | 
- | [publican]({{< ref "/f29/package/publican.md" >}}) | 1066 | 5443 | 19.6 | trans-pt@fedoraproject.org | 
- | [subtitleeditor]({{< ref "/f29/package/subtitleeditor.md" >}}) | 304 | 1817 | 16.7 |  | 
- | [mingw-colord]({{< ref "/f29/package/mingw-colord.md" >}}) | 311 | 1885 | 16.5 | Portuguese (Portugal) (http://www.transifex.com/projects/p/colord/language/pt_PT/) | 
- | [fwbackups]({{< ref "/f29/package/fwbackups.md" >}}) | 308 | 3498 | 8.8 | Portuguese (Portugal) (http://www.transifex.com/Magic/fwbackups/language/pt_PT/) | 
- | [picard]({{< ref "/f29/package/picard.md" >}}) | 317 | 3655 | 8.7 | Portuguese (Portugal) (http://www.transifex.com/musicbrainz/musicbrainz/language/pt_PT/) | 
- | [publican-fedora]({{< ref "/f29/package/publican-fedora.md" >}}) | 7 | 107 | 6.5 | pt <fedora-trans-pt@redhat.com> | 
- | [xfe]({{< ref "/f29/package/xfe.md" >}}) | 296 | 6037 | 4.9 | European Portuguese | 
- | [ibus-typing-booster]({{< ref "/f29/package/ibus-typing-booster.md" >}}) | 87 | 1778 | 4.9 | Portuguese (Portugal) <https://translate.stg.fedoraproject.org/projects/ibus-typing-booster/app/pt_PT/> | 
- | [visualboyadvance-m]({{< ref "/f29/package/visualboyadvance-m.md" >}}) | 77 | 2253 | 3.4 | Portuguese (Portugal) (http://www.transifex.com/bgk/vba-m/language/pt_PT/) | 
- | [valyriatear]({{< ref "/f29/package/valyriatear.md" >}}) | 274 | 9163 | 3.0 | Sérgio Lopes <knitter.is@gmail.com> | 
- | [cacti]({{< ref "/f29/package/cacti.md" >}}) | 639 | 27093 | 2.4 |  | 
- | [vdr-skinenigmang]({{< ref "/f29/package/vdr-skinenigmang.md" >}}) | 1 | 334 | 0.3 | <vdr@linuxtv.org> | 
- | [vdr-live]({{< ref "/f29/package/vdr-live.md" >}}) | 1 | 914 | 0.1 | see developers in README | 
- | [colorhug-client]({{< ref "/f29/package/colorhug-client.md" >}}) | 0 | 1408 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/colorhug-client/language/pt_PT/) | 
- | [mingw-colorhug-client]({{< ref "/f29/package/mingw-colorhug-client.md" >}}) | 0 | 1409 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/colorhug-client/language/pt_PT/) | 
- | [openerp]({{< ref "/f29/package/openerp.md" >}}) | 0 | 35 | 0.0 |  | 
- | [python-django-helpdesk]({{< ref "/f29/package/python-django-helpdesk.md" >}}) | 0 | 3241 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/rossp/django-helpdesk/language/pt_PT/) | 
- | [python-django-rest-framework]({{< ref "/f29/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/pt_PT/) | 
- | [speedcrunch]({{< ref "/f29/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/heldercorreia/speedcrunch/language/pt_PT/) | 
+ | [0ad](/f29/package/0ad) | 212 | 212 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/wildfire-games/0ad/language/pt_PT/) | 
+ | [audacious](/f29/package/audacious) | 780 | 780 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/audacious/audacious/language/pt_PT/) | 
+ | [audacious-plugins](/f29/package/audacious-plugins) | 3978 | 3978 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/audacious/audacious/language/pt_PT/) | 
+ | [audacity](/f29/package/audacity) | 16988 | 16988 | 100.0 | Bruno Ramalhete <bram.512@gmail.com> | 
+ | [cairo-clock](/f29/package/cairo-clock) | 270 | 270 | 100.0 | Alfredo Matos <alfredo.matos@digitalself.org> | 
+ | [childsplay](/f29/package/childsplay) | 1226 | 1226 | 100.0 | <pt@li.org> | 
+ | [claws-mail](/f29/package/claws-mail) | 20517 | 20517 | 100.0 | Portuguese <translation-team-pt@lists.sourceforge.net> | 
+ | [clawsker](/f29/package/clawsker) | 1401 | 1401 | 100.0 | Portuguese | 
+ | [cura](/f29/package/cura) | 18147 | 18147 | 100.0 | Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl> | 
+ | [cura-lulzbot](/f29/package/cura-lulzbot) | 15554 | 15554 | 100.0 | Bothof | 
+ | [filezilla](/f29/package/filezilla) | 9478 | 9478 | 100.0 | enVide neFelibata <info@envidenefelibata.com> | 
+ | [glpi](/f29/package/glpi) | 13617 | 13617 | 100.0 | Portuguese (Portugal) (https://www.transifex.com/glpi/teams/1637/pt_PT/) | 
+ | [gradio](/f29/package/gradio) | 309 | 309 | 100.0 | Portuguese (Portugal) <https://hosted.weblate.org/projects/gradio/translations/pt_PT/> | 
+ | [guayadeque](/f29/package/guayadeque) | 3326 | 3326 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/guayadeque/language/pt_PT/) | 
+ | [libfilezilla](/f29/package/libfilezilla) | 383 | 383 | 100.0 | enVide neFelibata <info@envidenefelibata.com> | 
+ | [mate-applet-softupd](/f29/package/mate-applet-softupd) | 40 | 40 | 100.0 | Brazilian Portuguese | 
+ | [midori](/f29/package/midori) | 3541 | 3541 | 100.0 | Portuguese | 
+ | [moserial](/f29/package/moserial) | 540 | 540 | 100.0 | Portuguese <gnome_pt@yahoogroups.com> | 
+ | [mu](/f29/package/mu) | 1943 | 1943 | 100.0 |  | 
+ | [nfoview](/f29/package/nfoview) | 115 | 115 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/otsaloma/nfoview/language/pt_PT/) | 
+ | [pinball](/f29/package/pinball) | 340 | 340 | 100.0 | PortugueseLanguage: pt_PT | 
+ | [poedit](/f29/package/poedit) | 2772 | 2772 | 100.0 | Portuguese | 
+ | [python-uranium](/f29/package/python-uranium) | 752 | 752 | 100.0 | Paulo Miranda <av@utopica3d.com>, Portuguese <info@bothof.nl> | 
+ | [python-uranium-lulzbot](/f29/package/python-uranium-lulzbot) | 589 | 589 | 100.0 | Bothof | 
+ | [squirrelmail](/f29/package/squirrelmail) | 6116 | 6116 | 100.0 | Portugues Iberico <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [subdownloader](/f29/package/subdownloader) | 968 | 968 | 100.0 | SubDownloader <capiscuas@gmail.com> | 
+ | [turpial](/f29/package/turpial) | 858 | 858 | 100.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/turpial-1/language/pt_PT/) | 
+ | [godot](/f29/package/godot) | 7028 | 7030 | 100.0 | Portuguese (Portugal) <https://hosted.weblate.org/projects/godot-engine/godot/pt_PT/> | 
+ | [gramps](/f29/package/gramps) | 38598 | 38667 | 99.8 | Portuguese <pmra@gmx.com> | 
+ | [clipit](/f29/package/clipit) | 217 | 218 | 99.5 | Portuguese (Portugal) (http://www.transifex.net/projects/p/clipit/language/pt_PT/) | 
+ | [warzone2100](/f29/package/warzone2100) | 13197 | 13299 | 99.2 | Portugese <warzone2100-project@lists.sourceforge.net> | 
+ | [colobot](/f29/package/colobot) | 35639 | 36004 | 99.0 | Portuguese <kde-i18n-pt_BR@kde.org> | 
+ | [boinc-client](/f29/package/boinc-client) | 20943 | 21251 | 98.6 | Portuguese (Portugal) (http://www.transifex.com/boinc/boinc/language/pt_PT/) | 
+ | [chemtool](/f29/package/chemtool) | 1164 | 1184 | 98.3 | European Portuguese | 
+ | [bygfoot](/f29/package/bygfoot) | 3623 | 3720 | 97.4 | Portuguese <LL@li.org> | 
+ | [inkscape](/f29/package/inkscape) | 36817 | 38214 | 96.3 |  | 
+ | [arduino](/f29/package/arduino) | 2973 | 3093 | 96.1 | Portuguese (Portugal) (http://www.transifex.com/mbanzi/arduino-ide-15/language/pt_PT/) | 
+ | [gnomebaker](/f29/package/gnomebaker) | 1113 | 1186 | 93.8 | portuguese <pt@li.org> | 
+ | [peek](/f29/package/peek) | 497 | 537 | 92.6 | Portuguese (Portugal) <https://hosted.weblate.org/projects/peek/translations/pt_PT/> | 
+ | [notes-up](/f29/package/notes-up) | 203 | 220 | 92.3 |  | 
+ | [boswars](/f29/package/boswars) | 196 | 216 | 90.7 |  | 
+ | [apt](/f29/package/apt) | 3701 | 4103 | 90.2 | European Portuguese <geral@caixamagica.pt> | 
+ | [python-flask-admin](/f29/package/python-flask-admin) | 330 | 367 | 89.9 | Portuguese | 
+ | [cinnamon-translations](/f29/package/cinnamon-translations) | 5951 | 6694 | 88.9 | Portuguese <pt@li.org> | 
+ | [wine](/f29/package/wine) | 14701 | 16856 | 87.2 | Portuguese (Portugal) | 
+ | [xchm](/f29/package/xchm) | 197 | 234 | 84.2 | Portuguese Team | 
+ | [calamares](/f29/package/calamares) | 356 | 443 | 80.4 | Portuguese (Portugal) (https://www.transifex.com/calamares/teams/20061/pt_PT/) | 
+ | [tilix](/f29/package/tilix) | 1625 | 2108 | 77.1 | Portuguese (Portugal) <https://hosted.weblate.org/projects/tilix/translations/pt_PT/> | 
+ | [xarchiver](/f29/package/xarchiver) | 904 | 1192 | 75.8 |  | 
+ | [lyx](/f29/package/lyx) | 19232 | 25596 | 75.1 | Portuguese | 
+ | [python-django-countries](/f29/package/python-django-countries) | 331 | 442 | 74.9 | Portuguese (Portugal) (http://www.transifex.com/smileychris/django-countries/language/pt_PT/) | 
+ | [python-formencode](/f29/package/python-formencode) | 591 | 813 | 72.7 | Pedro Algarvio <ufs@ufsoft.org> | 
+ | [corebird](/f29/package/corebird) | 425 | 586 | 72.5 | Portuguese (Portugal) (http://www.transifex.com/corebird/corebird/language/pt_PT/) | 
+ | [synaptic](/f29/package/synaptic) | 2304 | 3231 | 71.3 | <pt@li.org> | 
+ | [pulsecaster](/f29/package/pulsecaster) | 98 | 147 | 66.7 | pt_PT <LL@li.org> | 
+ | [pgadmin3](/f29/package/pgadmin3) | 9634 | 16898 | 57.0 | PgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [fuse-encfs](/f29/package/fuse-encfs) | 730 | 1289 | 56.6 | Portuguese (Portugal) <pt_PT@li.org> | 
+ | [scummvm](/f29/package/scummvm) | 3377 | 6001 | 56.3 | Portuguese (Portugal) <https://translations.scummvm.org/projects/scummvm/scummvm/pt_PT/> | 
+ | [terminator](/f29/package/terminator) | 700 | 1410 | 49.6 | Portuguese <pt@li.org> | 
+ | [zabbix](/f29/package/zabbix) | 6897 | 15121 | 45.6 | none | 
+ | [lollypop](/f29/package/lollypop) | 551 | 1273 | 43.3 | Portuguese (Portugal) <https://hosted.weblate.org/projects/gnumdk/lollypop/pt_PT/> | 
+ | [homebank](/f29/package/homebank) | 1017 | 2440 | 41.7 | Portuguese (Portugal) <pt_PT@li.org> | 
+ | [labyrinth](/f29/package/labyrinth) | 84 | 226 | 37.2 | European Portuguese <pt-PT@li.org> | 
+ | [python-sphinx](/f29/package/python-sphinx) | 455 | 1257 | 36.2 | Portuguese (Portugal) (http://www.transifex.com/sphinx-doc/sphinx-1/language/pt_PT/) | 
+ | [umit](/f29/package/umit) | 1642 | 4593 | 35.8 | pt_PT <LL@li.org> | 
+ | [electrum](/f29/package/electrum) | 2412 | 6886 | 35.0 | Portuguese | 
+ | [menulibre](/f29/package/menulibre) | 277 | 849 | 32.6 | Portuguese (Portugal) <pt_PT@li.org> | 
+ | [siril](/f29/package/siril) | 2553 | 8291 | 30.8 |  | 
+ | [rt](/f29/package/rt) | 3084 | 11696 | 26.4 | Portuguese (Portugal) <pt_PT@li.org> | 
+ | [publican](/f29/package/publican) | 1066 | 5443 | 19.6 | trans-pt@fedoraproject.org | 
+ | [subtitleeditor](/f29/package/subtitleeditor) | 304 | 1817 | 16.7 |  | 
+ | [mingw-colord](/f29/package/mingw-colord) | 311 | 1885 | 16.5 | Portuguese (Portugal) (http://www.transifex.com/projects/p/colord/language/pt_PT/) | 
+ | [fwbackups](/f29/package/fwbackups) | 308 | 3498 | 8.8 | Portuguese (Portugal) (http://www.transifex.com/Magic/fwbackups/language/pt_PT/) | 
+ | [picard](/f29/package/picard) | 317 | 3655 | 8.7 | Portuguese (Portugal) (http://www.transifex.com/musicbrainz/musicbrainz/language/pt_PT/) | 
+ | [publican-fedora](/f29/package/publican-fedora) | 7 | 107 | 6.5 | pt <fedora-trans-pt@redhat.com> | 
+ | [xfe](/f29/package/xfe) | 296 | 6037 | 4.9 | European Portuguese | 
+ | [ibus-typing-booster](/f29/package/ibus-typing-booster) | 87 | 1778 | 4.9 | Portuguese (Portugal) <https://translate.stg.fedoraproject.org/projects/ibus-typing-booster/app/pt_PT/> | 
+ | [visualboyadvance-m](/f29/package/visualboyadvance-m) | 77 | 2253 | 3.4 | Portuguese (Portugal) (http://www.transifex.com/bgk/vba-m/language/pt_PT/) | 
+ | [valyriatear](/f29/package/valyriatear) | 274 | 9163 | 3.0 | Sérgio Lopes <knitter.is@gmail.com> | 
+ | [cacti](/f29/package/cacti) | 639 | 27093 | 2.4 |  | 
+ | [vdr-skinenigmang](/f29/package/vdr-skinenigmang) | 1 | 334 | 0.3 | <vdr@linuxtv.org> | 
+ | [vdr-live](/f29/package/vdr-live) | 1 | 914 | 0.1 | see developers in README | 
+ | [colorhug-client](/f29/package/colorhug-client) | 0 | 1408 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/colorhug-client/language/pt_PT/) | 
+ | [mingw-colorhug-client](/f29/package/mingw-colorhug-client) | 0 | 1409 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/projects/p/colorhug-client/language/pt_PT/) | 
+ | [openerp](/f29/package/openerp) | 0 | 35 | 0.0 |  | 
+ | [python-django-helpdesk](/f29/package/python-django-helpdesk) | 0 | 3241 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/rossp/django-helpdesk/language/pt_PT/) | 
+ | [python-django-rest-framework](/f29/package/python-django-rest-framework) | 0 | 582 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/pt_PT/) | 
+ | [speedcrunch](/f29/package/speedcrunch) | 0 | 93 | 0.0 | Portuguese (Portugal) (http://www.transifex.com/heldercorreia/speedcrunch/language/pt_PT/) | 
 {.sortable}
 
 

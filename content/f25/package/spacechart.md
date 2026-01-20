@@ -18,9 +18,9 @@ The package spacechart (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f25/language/es.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f25/spacechart/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f25/spacechart/po/fr.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 229 | 253 | 90.5 | /mnt/stockage/packages/f25/spacechart/po/bg.po | 
+ | [es](/f25/language/es) | 253 | 253 | 100.0 | /mnt/stockage/packages/f25/spacechart/po/es.po | 
+ | [fr](/f25/language/fr) | 253 | 253 | 100.0 | /mnt/stockage/packages/f25/spacechart/po/fr.po | 
+ | [bg](/f25/language/bg) | 229 | 253 | 90.5 | /mnt/stockage/packages/f25/spacechart/po/bg.po | 
 {.sortable}
 
 

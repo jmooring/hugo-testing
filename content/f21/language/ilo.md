@@ -38,34 +38,34 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f21/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f21/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [python-blivet]({{< ref "/f21/package/python-blivet.md" >}}) | 45 | 644 | 7.0 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
- | [anaconda]({{< ref "/f21/package/anaconda.md" >}}) | 101 | 6578 | 1.5 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
- | [abrt]({{< ref "/f21/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [certmonger]({{< ref "/f21/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/) | 
- | [cinnamon-control-center]({{< ref "/f21/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [control-center]({{< ref "/f21/package/control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [dnf-plugin-system-upgrade]({{< ref "/f21/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 203 | 0.0 | Iloko | 
- | [entangle]({{< ref "/f21/package/entangle.md" >}}) | 0 | 934 | 0.0 | Iloko | 
- | [initial-setup]({{< ref "/f21/package/initial-setup.md" >}}) | 0 | 85 | 0.0 | Iloko (http://www.transifex.com/projects/p/initial-setup/language/ilo/) | 
- | [libreport]({{< ref "/f21/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [libvirt-glib]({{< ref "/f21/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [libvirt-sandbox]({{< ref "/f21/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [liveusb-creator]({{< ref "/f21/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [mingw-libvirt-glib]({{< ref "/f21/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [policycoreutils]({{< ref "/f21/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [pykickstart]({{< ref "/f21/package/pykickstart.md" >}}) | 0 | 448 | 0.0 | Iloko (http://www.transifex.com/projects/p/pykickstart/language/ilo/) | 
- | [python-meh]({{< ref "/f21/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [sos]({{< ref "/f21/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [system-config-date]({{< ref "/f21/package/system-config-date.md" >}}) | 0 | 1347 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f21/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f21/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/) | 
- | [system-config-nfs-docs]({{< ref "/f21/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f21/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f21/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f21/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f21/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Iloko (http://www.transifex.com/projects/p/virt-viewer/language/ilo/) | 
+ | [redhat-menus](/f21/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f21/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [python-blivet](/f21/package/python-blivet) | 45 | 644 | 7.0 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
+ | [anaconda](/f21/package/anaconda) | 101 | 6578 | 1.5 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
+ | [abrt](/f21/package/abrt) | 0 | 2722 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [certmonger](/f21/package/certmonger) | 0 | 1669 | 0.0 | Iloko (http://www.transifex.com/projects/p/certmonger/language/ilo/) | 
+ | [cinnamon-control-center](/f21/package/cinnamon-control-center) | 0 | 1313 | 0.0 |  | 
+ | [control-center](/f21/package/control-center) | 0 | 1313 | 0.0 |  | 
+ | [dnf-plugin-system-upgrade](/f21/package/dnf-plugin-system-upgrade) | 0 | 203 | 0.0 | Iloko | 
+ | [entangle](/f21/package/entangle) | 0 | 934 | 0.0 | Iloko | 
+ | [initial-setup](/f21/package/initial-setup) | 0 | 85 | 0.0 | Iloko (http://www.transifex.com/projects/p/initial-setup/language/ilo/) | 
+ | [libreport](/f21/package/libreport) | 0 | 3139 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [libvirt-glib](/f21/package/libvirt-glib) | 0 | 138 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [libvirt-sandbox](/f21/package/libvirt-sandbox) | 0 | 583 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [liveusb-creator](/f21/package/liveusb-creator) | 0 | 480 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [mingw-libvirt-glib](/f21/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [policycoreutils](/f21/package/policycoreutils) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [pykickstart](/f21/package/pykickstart) | 0 | 448 | 0.0 | Iloko (http://www.transifex.com/projects/p/pykickstart/language/ilo/) | 
+ | [python-meh](/f21/package/python-meh) | 0 | 109 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [sos](/f21/package/sos) | 0 | 267 | 0.0 | none | 
+ | [system-config-date](/f21/package/system-config-date) | 0 | 1347 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f21/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f21/package/system-config-kickstart) | 0 | 1144 | 0.0 | Iloko (http://www.transifex.com/projects/p/system-config-kickstart/language/ilo/) | 
+ | [system-config-nfs-docs](/f21/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f21/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f21/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f21/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f21/package/virt-viewer) | 0 | 692 | 0.0 | Iloko (http://www.transifex.com/projects/p/virt-viewer/language/ilo/) | 
 {.sortable}
 
 

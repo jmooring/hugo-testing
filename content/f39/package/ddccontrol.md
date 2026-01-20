@@ -18,13 +18,13 @@ The package ddccontrol (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/fr.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/pl.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1327 | 1559 | 85.1 | /mnt/stockage/packages/f39/ddccontrol/po/ru.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1153 | 1547 | 74.5 | /mnt/stockage/packages/f39/ddccontrol/po/zh_CN.po | 
+ | [cs](/f39/language/cs) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/cs.po | 
+ | [de](/f39/language/de) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/de.po | 
+ | [es](/f39/language/es) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/es.po | 
+ | [fr](/f39/language/fr) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/fr.po | 
+ | [pl](/f39/language/pl) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f39/ddccontrol/po/pl.po | 
+ | [ru](/f39/language/ru) | 1327 | 1559 | 85.1 | /mnt/stockage/packages/f39/ddccontrol/po/ru.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1153 | 1547 | 74.5 | /mnt/stockage/packages/f39/ddccontrol/po/zh_CN.po | 
 {.sortable}
 
 

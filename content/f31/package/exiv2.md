@@ -18,23 +18,23 @@ The package exiv2 (version 0.27.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 35017 | 38012 | 92.1 | /mnt/stockage/packages/f31/exiv2/po/sv.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 28305 | 38012 | 74.5 | /mnt/stockage/packages/f31/exiv2/po/ms.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 27459 | 38012 | 72.2 | /mnt/stockage/packages/f31/exiv2/po/ca.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 26869 | 38012 | 70.7 | /mnt/stockage/packages/f31/exiv2/po/es.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 23653 | 38012 | 62.2 | /mnt/stockage/packages/f31/exiv2/po/bs.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 18175 | 38012 | 47.8 | /mnt/stockage/packages/f31/exiv2/po/gl.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 13583 | 38012 | 35.7 | /mnt/stockage/packages/f31/exiv2/po/de.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 12391 | 38012 | 32.6 | /mnt/stockage/packages/f31/exiv2/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 11784 | 38012 | 31.0 | /mnt/stockage/packages/f31/exiv2/po/pt.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 9069 | 38012 | 23.9 | /mnt/stockage/packages/f31/exiv2/po/sk.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 7418 | 38012 | 19.5 | /mnt/stockage/packages/f31/exiv2/po/uk.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 4976 | 38012 | 13.1 | /mnt/stockage/packages/f31/exiv2/po/fr.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 4663 | 38012 | 12.3 | /mnt/stockage/packages/f31/exiv2/po/ug.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 3521 | 38012 | 9.3 | /mnt/stockage/packages/f31/exiv2/po/nl.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 3333 | 38012 | 8.8 | /mnt/stockage/packages/f31/exiv2/po/vi.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 3302 | 38012 | 8.7 | /mnt/stockage/packages/f31/exiv2/po/ru.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 419 | 38012 | 1.1 | /mnt/stockage/packages/f31/exiv2/po/fi.po | 
+ | [sv](/f31/language/sv) | 35017 | 38012 | 92.1 | /mnt/stockage/packages/f31/exiv2/po/sv.po | 
+ | [ms](/f31/language/ms) | 28305 | 38012 | 74.5 | /mnt/stockage/packages/f31/exiv2/po/ms.po | 
+ | [ca](/f31/language/ca) | 27459 | 38012 | 72.2 | /mnt/stockage/packages/f31/exiv2/po/ca.po | 
+ | [es](/f31/language/es) | 26869 | 38012 | 70.7 | /mnt/stockage/packages/f31/exiv2/po/es.po | 
+ | [bs](/f31/language/bs) | 23653 | 38012 | 62.2 | /mnt/stockage/packages/f31/exiv2/po/bs.po | 
+ | [gl](/f31/language/gl) | 18175 | 38012 | 47.8 | /mnt/stockage/packages/f31/exiv2/po/gl.po | 
+ | [de](/f31/language/de) | 13583 | 38012 | 35.7 | /mnt/stockage/packages/f31/exiv2/po/de.po | 
+ | [pl](/f31/language/pl) | 12391 | 38012 | 32.6 | /mnt/stockage/packages/f31/exiv2/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 11784 | 38012 | 31.0 | /mnt/stockage/packages/f31/exiv2/po/pt.po | 
+ | [sk](/f31/language/sk) | 9069 | 38012 | 23.9 | /mnt/stockage/packages/f31/exiv2/po/sk.po | 
+ | [uk](/f31/language/uk) | 7418 | 38012 | 19.5 | /mnt/stockage/packages/f31/exiv2/po/uk.po | 
+ | [fr](/f31/language/fr) | 4976 | 38012 | 13.1 | /mnt/stockage/packages/f31/exiv2/po/fr.po | 
+ | [ug](/f31/language/ug) | 4663 | 38012 | 12.3 | /mnt/stockage/packages/f31/exiv2/po/ug.po | 
+ | [nl](/f31/language/nl) | 3521 | 38012 | 9.3 | /mnt/stockage/packages/f31/exiv2/po/nl.po | 
+ | [vi](/f31/language/vi) | 3333 | 38012 | 8.8 | /mnt/stockage/packages/f31/exiv2/po/vi.po | 
+ | [ru](/f31/language/ru) | 3302 | 38012 | 8.7 | /mnt/stockage/packages/f31/exiv2/po/ru.po | 
+ | [fi](/f31/language/fi) | 419 | 38012 | 1.1 | /mnt/stockage/packages/f31/exiv2/po/fi.po | 
 {.sortable}
 
 

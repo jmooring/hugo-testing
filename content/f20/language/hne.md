@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kiconedit]({{< ref "/f20/package/kiconedit.md" >}}) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [iok]({{< ref "/f20/package/iok.md" >}}) | 137 | 206 | 66.5 | Chhattisgarhi <LL@li.org> | 
- | [kcoloredit]({{< ref "/f20/package/kcoloredit.md" >}}) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kgrab]({{< ref "/f20/package/kgrab.md" >}}) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [rsibreak]({{< ref "/f20/package/rsibreak.md" >}}) | 382 | 1304 | 29.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [krecipes]({{< ref "/f20/package/krecipes.md" >}}) | 890 | 3748 | 23.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kopete-cryptography]({{< ref "/f20/package/kopete-cryptography.md" >}}) | 55 | 408 | 13.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [system-config-services]({{< ref "/f20/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | Chhattisgarhi (http://www.transifex.net/projects/p/fedora/team/hne/) | 
+ | [kiconedit](/f20/package/kiconedit) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [iok](/f20/package/iok) | 137 | 206 | 66.5 | Chhattisgarhi <LL@li.org> | 
+ | [kcoloredit](/f20/package/kcoloredit) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kgrab](/f20/package/kgrab) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [rsibreak](/f20/package/rsibreak) | 382 | 1304 | 29.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [krecipes](/f20/package/krecipes) | 890 | 3748 | 23.7 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kopete-cryptography](/f20/package/kopete-cryptography) | 55 | 408 | 13.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [system-config-services](/f20/package/system-config-services) | 0 | 534 | 0.0 | Chhattisgarhi (http://www.transifex.net/projects/p/fedora/team/hne/) | 
 {.sortable}
 
 

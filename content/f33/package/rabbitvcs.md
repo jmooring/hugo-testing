@@ -18,32 +18,32 @@ The package rabbitvcs (version 0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f33/rabbitvcs/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1729 | 1729 | 100.0 | /mnt/stockage/packages/f33/rabbitvcs/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f33/rabbitvcs/po/hu.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1480 | 1524 | 97.1 | /mnt/stockage/packages/f33/rabbitvcs/po/nl.po | 
- | [es_CL]({{< ref "/f33/language/es_CL.md" >}}) | 859 | 931 | 92.3 | /mnt/stockage/packages/f33/rabbitvcs/po/es_CL.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1335 | 1524 | 87.6 | /mnt/stockage/packages/f33/rabbitvcs/po/pt_BR.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/es.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/hr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/it.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/nb.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1283 | 1524 | 84.2 | /mnt/stockage/packages/f33/rabbitvcs/po/zh_CN.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 993 | 1524 | 65.2 | /mnt/stockage/packages/f33/rabbitvcs/po/sv.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 939 | 1524 | 61.6 | /mnt/stockage/packages/f33/rabbitvcs/po/pl.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 912 | 1524 | 59.8 | /mnt/stockage/packages/f33/rabbitvcs/po/ru.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 826 | 1524 | 54.2 | /mnt/stockage/packages/f33/rabbitvcs/po/ja.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 672 | 1524 | 44.1 | /mnt/stockage/packages/f33/rabbitvcs/po/sk.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 340 | 931 | 36.5 | /mnt/stockage/packages/f33/rabbitvcs/po/cs.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 348 | 1524 | 22.8 | /mnt/stockage/packages/f33/rabbitvcs/po/ro.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 179 | 1524 | 11.7 | /mnt/stockage/packages/f33/rabbitvcs/po/he.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 163 | 1524 | 10.7 | /mnt/stockage/packages/f33/rabbitvcs/po/zh_TW.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 150 | 1524 | 9.8 | /mnt/stockage/packages/f33/rabbitvcs/po/oc.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 139 | 1524 | 9.1 | /mnt/stockage/packages/f33/rabbitvcs/po/sl.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 53 | 1524 | 3.5 | /mnt/stockage/packages/f33/rabbitvcs/po/fi.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 20 | 1524 | 1.3 | /mnt/stockage/packages/f33/rabbitvcs/po/fa.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 18 | 1524 | 1.2 | /mnt/stockage/packages/f33/rabbitvcs/po/sr.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 0 | 1524 | 0.0 | /mnt/stockage/packages/f33/rabbitvcs/po/th.po | 
+ | [de](/f33/language/de) | 931 | 931 | 100.0 | /mnt/stockage/packages/f33/rabbitvcs/po/de.po | 
+ | [fr](/f33/language/fr) | 1729 | 1729 | 100.0 | /mnt/stockage/packages/f33/rabbitvcs/po/fr.po | 
+ | [hu](/f33/language/hu) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f33/rabbitvcs/po/hu.po | 
+ | [nl](/f33/language/nl) | 1480 | 1524 | 97.1 | /mnt/stockage/packages/f33/rabbitvcs/po/nl.po | 
+ | [es_CL](/f33/language/es_CL) | 859 | 931 | 92.3 | /mnt/stockage/packages/f33/rabbitvcs/po/es_CL.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1335 | 1524 | 87.6 | /mnt/stockage/packages/f33/rabbitvcs/po/pt_BR.po | 
+ | [es](/f33/language/es) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/es.po | 
+ | [hr](/f33/language/hr) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/hr.po | 
+ | [it](/f33/language/it) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/it.po | 
+ | [nb_NO](/f33/language/nb_NO) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f33/rabbitvcs/po/nb.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1283 | 1524 | 84.2 | /mnt/stockage/packages/f33/rabbitvcs/po/zh_CN.po | 
+ | [sv](/f33/language/sv) | 993 | 1524 | 65.2 | /mnt/stockage/packages/f33/rabbitvcs/po/sv.po | 
+ | [pl](/f33/language/pl) | 939 | 1524 | 61.6 | /mnt/stockage/packages/f33/rabbitvcs/po/pl.po | 
+ | [ru](/f33/language/ru) | 912 | 1524 | 59.8 | /mnt/stockage/packages/f33/rabbitvcs/po/ru.po | 
+ | [ja](/f33/language/ja) | 826 | 1524 | 54.2 | /mnt/stockage/packages/f33/rabbitvcs/po/ja.po | 
+ | [sk](/f33/language/sk) | 672 | 1524 | 44.1 | /mnt/stockage/packages/f33/rabbitvcs/po/sk.po | 
+ | [cs](/f33/language/cs) | 340 | 931 | 36.5 | /mnt/stockage/packages/f33/rabbitvcs/po/cs.po | 
+ | [ro](/f33/language/ro) | 348 | 1524 | 22.8 | /mnt/stockage/packages/f33/rabbitvcs/po/ro.po | 
+ | [he](/f33/language/he) | 179 | 1524 | 11.7 | /mnt/stockage/packages/f33/rabbitvcs/po/he.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 163 | 1524 | 10.7 | /mnt/stockage/packages/f33/rabbitvcs/po/zh_TW.po | 
+ | [oc](/f33/language/oc) | 150 | 1524 | 9.8 | /mnt/stockage/packages/f33/rabbitvcs/po/oc.po | 
+ | [sl](/f33/language/sl) | 139 | 1524 | 9.1 | /mnt/stockage/packages/f33/rabbitvcs/po/sl.po | 
+ | [fi](/f33/language/fi) | 53 | 1524 | 3.5 | /mnt/stockage/packages/f33/rabbitvcs/po/fi.po | 
+ | [fa](/f33/language/fa) | 20 | 1524 | 1.3 | /mnt/stockage/packages/f33/rabbitvcs/po/fa.po | 
+ | [sr](/f33/language/sr) | 18 | 1524 | 1.2 | /mnt/stockage/packages/f33/rabbitvcs/po/sr.po | 
+ | [th](/f33/language/th) | 0 | 1524 | 0.0 | /mnt/stockage/packages/f33/rabbitvcs/po/th.po | 
 {.sortable}
 
 

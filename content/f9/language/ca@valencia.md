@@ -41,10 +41,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [filezilla]({{< ref "/f9/package/filezilla.md" >}}) | 6641 | 6641 | 100.0 | Softwarevalencia | 
- | [pidgin]({{< ref "/f9/package/pidgin.md" >}}) | 14073 | 15654 | 89.9 | Catalan <tradgnome@softcatala.net> | 
- | [inkscape]({{< ref "/f9/package/inkscape.md" >}}) | 10408 | 17173 | 60.6 | Catalan <tradgnome@softcatala.org> | 
- | [wesnoth]({{< ref "/f9/package/wesnoth.md" >}}) | 91066 | 199809 | 45.6 | none | 
+ | [filezilla](/f9/package/filezilla) | 6641 | 6641 | 100.0 | Softwarevalencia | 
+ | [pidgin](/f9/package/pidgin) | 14073 | 15654 | 89.9 | Catalan <tradgnome@softcatala.net> | 
+ | [inkscape](/f9/package/inkscape) | 10408 | 17173 | 60.6 | Catalan <tradgnome@softcatala.org> | 
+ | [wesnoth](/f9/package/wesnoth) | 91066 | 199809 | 45.6 | none | 
 {.sortable}
 
 

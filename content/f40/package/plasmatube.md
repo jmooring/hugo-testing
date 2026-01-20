@@ -18,49 +18,49 @@ The package plasmatube (version 25.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ar/plasmatube.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ca/plasmatube.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ca@valencia/plasmatube.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/es/plasmatube.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/eu/plasmatube.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/fi/plasmatube.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/fr/plasmatube.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/gl/plasmatube.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/he/plasmatube.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/hu/plasmatube.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ia/plasmatube.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/it/plasmatube.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ka/plasmatube.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ko/plasmatube.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/lv/plasmatube.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/nl/plasmatube.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/pl/plasmatube.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ru/plasmatube.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/sl/plasmatube.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/sv/plasmatube.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/tr/plasmatube.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/uk/plasmatube.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/zh_TW/plasmatube.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f40/plasmatube/po/en_GB/plasmatube.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f40/plasmatube/po/nn/plasmatube.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f40/plasmatube/po/sa/plasmatube.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 453 | 517 | 87.6 | /mnt/stockage/packages/f40/plasmatube/po/eo/plasmatube.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 420 | 517 | 81.2 | /mnt/stockage/packages/f40/plasmatube/po/zh_CN/plasmatube.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 406 | 517 | 78.5 | /mnt/stockage/packages/f40/plasmatube/po/lt/plasmatube.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/az/plasmatube.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/be/plasmatube.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/cs/plasmatube.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/is/plasmatube.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 331 | 517 | 64.0 | /mnt/stockage/packages/f40/plasmatube/po/ja/plasmatube.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 238 | 517 | 46.0 | /mnt/stockage/packages/f40/plasmatube/po/de/plasmatube.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 201 | 517 | 38.9 | /mnt/stockage/packages/f40/plasmatube/po/ro/plasmatube.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 152 | 517 | 29.4 | /mnt/stockage/packages/f40/plasmatube/po/pa/plasmatube.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 89 | 517 | 17.2 | /mnt/stockage/packages/f40/plasmatube/po/pt_BR/plasmatube.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 87 | 517 | 16.8 | /mnt/stockage/packages/f40/plasmatube/po/pt/plasmatube.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 86 | 517 | 16.6 | /mnt/stockage/packages/f40/plasmatube/po/ast/plasmatube.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 73 | 517 | 14.1 | /mnt/stockage/packages/f40/plasmatube/po/sk/plasmatube.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 25 | 517 | 4.8 | /mnt/stockage/packages/f40/plasmatube/po/id/plasmatube.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 0 | 517 | 0.0 | /mnt/stockage/packages/f40/plasmatube/po/hi/plasmatube.po | 
+ | [ar](/f40/language/ar) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ar/plasmatube.po | 
+ | [ca](/f40/language/ca) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ca/plasmatube.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ca@valencia/plasmatube.po | 
+ | [es](/f40/language/es) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/es/plasmatube.po | 
+ | [eu](/f40/language/eu) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/eu/plasmatube.po | 
+ | [fi](/f40/language/fi) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/fi/plasmatube.po | 
+ | [fr](/f40/language/fr) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/fr/plasmatube.po | 
+ | [gl](/f40/language/gl) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/gl/plasmatube.po | 
+ | [he](/f40/language/he) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/he/plasmatube.po | 
+ | [hu](/f40/language/hu) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/hu/plasmatube.po | 
+ | [ia](/f40/language/ia) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ia/plasmatube.po | 
+ | [it](/f40/language/it) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/it/plasmatube.po | 
+ | [ka](/f40/language/ka) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ka/plasmatube.po | 
+ | [ko](/f40/language/ko) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ko/plasmatube.po | 
+ | [lv](/f40/language/lv) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/lv/plasmatube.po | 
+ | [nl](/f40/language/nl) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/nl/plasmatube.po | 
+ | [pl](/f40/language/pl) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/pl/plasmatube.po | 
+ | [ru](/f40/language/ru) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/ru/plasmatube.po | 
+ | [sl](/f40/language/sl) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/sl/plasmatube.po | 
+ | [sv](/f40/language/sv) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/sv/plasmatube.po | 
+ | [tr](/f40/language/tr) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/tr/plasmatube.po | 
+ | [uk](/f40/language/uk) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/uk/plasmatube.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 517 | 517 | 100.0 | /mnt/stockage/packages/f40/plasmatube/po/zh_TW/plasmatube.po | 
+ | [en_GB](/f40/language/en_GB) | 495 | 517 | 95.7 | /mnt/stockage/packages/f40/plasmatube/po/en_GB/plasmatube.po | 
+ | [nn](/f40/language/nn) | 495 | 517 | 95.7 | /mnt/stockage/packages/f40/plasmatube/po/nn/plasmatube.po | 
+ | [sa](/f40/language/sa) | 495 | 517 | 95.7 | /mnt/stockage/packages/f40/plasmatube/po/sa/plasmatube.po | 
+ | [eo](/f40/language/eo) | 453 | 517 | 87.6 | /mnt/stockage/packages/f40/plasmatube/po/eo/plasmatube.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 420 | 517 | 81.2 | /mnt/stockage/packages/f40/plasmatube/po/zh_CN/plasmatube.po | 
+ | [lt](/f40/language/lt) | 406 | 517 | 78.5 | /mnt/stockage/packages/f40/plasmatube/po/lt/plasmatube.po | 
+ | [az](/f40/language/az) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/az/plasmatube.po | 
+ | [be](/f40/language/be) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/be/plasmatube.po | 
+ | [cs](/f40/language/cs) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/cs/plasmatube.po | 
+ | [is](/f40/language/is) | 343 | 517 | 66.3 | /mnt/stockage/packages/f40/plasmatube/po/is/plasmatube.po | 
+ | [ja](/f40/language/ja) | 331 | 517 | 64.0 | /mnt/stockage/packages/f40/plasmatube/po/ja/plasmatube.po | 
+ | [de](/f40/language/de) | 238 | 517 | 46.0 | /mnt/stockage/packages/f40/plasmatube/po/de/plasmatube.po | 
+ | [ro](/f40/language/ro) | 201 | 517 | 38.9 | /mnt/stockage/packages/f40/plasmatube/po/ro/plasmatube.po | 
+ | [pa](/f40/language/pa) | 152 | 517 | 29.4 | /mnt/stockage/packages/f40/plasmatube/po/pa/plasmatube.po | 
+ | [pt_BR](/f40/language/pt_BR) | 89 | 517 | 17.2 | /mnt/stockage/packages/f40/plasmatube/po/pt_BR/plasmatube.po | 
+ | [pt](/f40/language/pt) | 87 | 517 | 16.8 | /mnt/stockage/packages/f40/plasmatube/po/pt/plasmatube.po | 
+ | [ast](/f40/language/ast) | 86 | 517 | 16.6 | /mnt/stockage/packages/f40/plasmatube/po/ast/plasmatube.po | 
+ | [sk](/f40/language/sk) | 73 | 517 | 14.1 | /mnt/stockage/packages/f40/plasmatube/po/sk/plasmatube.po | 
+ | [id](/f40/language/id) | 25 | 517 | 4.8 | /mnt/stockage/packages/f40/plasmatube/po/id/plasmatube.po | 
+ | [hi](/f40/language/hi) | 0 | 517 | 0.0 | /mnt/stockage/packages/f40/plasmatube/po/hi/plasmatube.po | 
 {.sortable}
 
 

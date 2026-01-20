@@ -18,9 +18,9 @@ The package libmodulemd (version 2.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f34/libmodulemd/modulemd/tests/test_data/fr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f34/libmodulemd/modulemd/tests/test_data/sv.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1890 | 2032 | 93.0 | /mnt/stockage/packages/f34/libmodulemd/modulemd/tests/test_data/nl.po | 
+ | [fr](/f34/language/fr) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f34/libmodulemd/modulemd/tests/test_data/fr.po | 
+ | [sv](/f34/language/sv) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f34/libmodulemd/modulemd/tests/test_data/sv.po | 
+ | [nl](/f34/language/nl) | 1890 | 2032 | 93.0 | /mnt/stockage/packages/f34/libmodulemd/modulemd/tests/test_data/nl.po | 
 {.sortable}
 
 

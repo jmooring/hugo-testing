@@ -18,15 +18,15 @@ The package libgsasl (version 0.2.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f9/language/error.md" >}}) | 1004 | 1004 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/en@boldquot.po/mnt/stockage/packages/f9/libgsasl/po/en@quot.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/vi.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 479 | 502 | 95.4 | /mnt/stockage/packages/f9/libgsasl/po/ga.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 479 | 502 | 95.4 | /mnt/stockage/packages/f9/libgsasl/po/sr.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 474 | 502 | 94.4 | /mnt/stockage/packages/f9/libgsasl/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 435 | 502 | 86.7 | /mnt/stockage/packages/f9/libgsasl/po/fr.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 435 | 502 | 86.7 | /mnt/stockage/packages/f9/libgsasl/po/ro.po | 
+ | [error](/f9/language/error) | 1004 | 1004 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/en@boldquot.po/mnt/stockage/packages/f9/libgsasl/po/en@quot.po | 
+ | [pl](/f9/language/pl) | 502 | 502 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/pl.po | 
+ | [sv](/f9/language/sv) | 502 | 502 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/sv.po | 
+ | [vi](/f9/language/vi) | 502 | 502 | 100.0 | /mnt/stockage/packages/f9/libgsasl/po/vi.po | 
+ | [ga](/f9/language/ga) | 479 | 502 | 95.4 | /mnt/stockage/packages/f9/libgsasl/po/ga.po | 
+ | [sr](/f9/language/sr) | 479 | 502 | 95.4 | /mnt/stockage/packages/f9/libgsasl/po/sr.po | 
+ | [nl](/f9/language/nl) | 474 | 502 | 94.4 | /mnt/stockage/packages/f9/libgsasl/po/nl.po | 
+ | [fr](/f9/language/fr) | 435 | 502 | 86.7 | /mnt/stockage/packages/f9/libgsasl/po/fr.po | 
+ | [ro](/f9/language/ro) | 435 | 502 | 86.7 | /mnt/stockage/packages/f9/libgsasl/po/ro.po | 
 {.sortable}
 
 

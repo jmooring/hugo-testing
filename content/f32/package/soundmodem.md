@@ -18,8 +18,8 @@ The package soundmodem (version 0.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/soundmodem/po/fr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/soundmodem/po/sv.po | 
+ | [fr](/f32/language/fr) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/soundmodem/po/fr.po | 
+ | [sv](/f32/language/sv) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/soundmodem/po/sv.po | 
 {.sortable}
 
 

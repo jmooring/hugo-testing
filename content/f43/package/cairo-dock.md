@@ -18,52 +18,52 @@ The package cairo-dock (version 3.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 7555 | 7555 | 100.0 | /mnt/stockage/packages/f43/cairo-dock/po/ru.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/de.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/en.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/en_GB.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/it.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/pt.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/uk.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 7086 | 7555 | 93.8 | /mnt/stockage/packages/f43/cairo-dock/po/fi.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 7086 | 7555 | 93.8 | /mnt/stockage/packages/f43/cairo-dock/po/pt_BR.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 7086 | 7555 | 93.8 | /mnt/stockage/packages/f43/cairo-dock/po/sk.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 6614 | 7555 | 87.5 | /mnt/stockage/packages/f43/cairo-dock/po/eu.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 6552 | 7555 | 86.7 | /mnt/stockage/packages/f43/cairo-dock/po/es.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 6523 | 7555 | 86.3 | /mnt/stockage/packages/f43/cairo-dock/po/ja.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 6473 | 7555 | 85.7 | /mnt/stockage/packages/f43/cairo-dock/po/uz.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 6440 | 7555 | 85.2 | /mnt/stockage/packages/f43/cairo-dock/po/pl.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 6253 | 7555 | 82.8 | /mnt/stockage/packages/f43/cairo-dock/po/hu.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 5626 | 7555 | 74.5 | /mnt/stockage/packages/f43/cairo-dock/po/zh_CN.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 10832 | 15110 | 71.7 | /mnt/stockage/packages/f43/cairo-dock/po/sr.po/mnt/stockage/packages/f43/cairo-dock/po/sr@latin.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 5362 | 7555 | 71.0 | /mnt/stockage/packages/f43/cairo-dock/po/cs.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 5190 | 7555 | 68.7 | /mnt/stockage/packages/f43/cairo-dock/po/nn.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 4925 | 7555 | 65.2 | /mnt/stockage/packages/f43/cairo-dock/po/zh_TW.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 3965 | 7555 | 52.5 | /mnt/stockage/packages/f43/cairo-dock/po/el.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 3061 | 7555 | 40.5 | /mnt/stockage/packages/f43/cairo-dock/po/ca.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 2927 | 7555 | 38.7 | /mnt/stockage/packages/f43/cairo-dock/po/ko.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 2834 | 7555 | 37.5 | /mnt/stockage/packages/f43/cairo-dock/po/nb.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 2823 | 7555 | 37.4 | /mnt/stockage/packages/f43/cairo-dock/po/sl.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 2744 | 7555 | 36.3 | /mnt/stockage/packages/f43/cairo-dock/po/be.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 2613 | 7555 | 34.6 | /mnt/stockage/packages/f43/cairo-dock/po/id.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 2231 | 7555 | 29.5 | /mnt/stockage/packages/f43/cairo-dock/po/tr.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 2188 | 7555 | 29.0 | /mnt/stockage/packages/f43/cairo-dock/po/he.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 1830 | 7555 | 24.2 | /mnt/stockage/packages/f43/cairo-dock/po/ar.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1251 | 7555 | 16.6 | /mnt/stockage/packages/f43/cairo-dock/po/gl.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 785 | 7555 | 10.4 | /mnt/stockage/packages/f43/cairo-dock/po/ro.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 675 | 7555 | 8.9 | /mnt/stockage/packages/f43/cairo-dock/po/bg.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 645 | 7555 | 8.5 | /mnt/stockage/packages/f43/cairo-dock/po/lt.po | 
- | [fo]({{< ref "/f43/language/fo.md" >}}) | 627 | 7555 | 8.3 | /mnt/stockage/packages/f43/cairo-dock/po/fo.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 603 | 7555 | 8.0 | /mnt/stockage/packages/f43/cairo-dock/po/et.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 450 | 7555 | 6.0 | /mnt/stockage/packages/f43/cairo-dock/po/da.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 432 | 7555 | 5.7 | /mnt/stockage/packages/f43/cairo-dock/po/bn.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 343 | 7555 | 4.5 | /mnt/stockage/packages/f43/cairo-dock/po/vi.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 156 | 7555 | 2.1 | /mnt/stockage/packages/f43/cairo-dock/po/eo.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 145 | 7555 | 1.9 | /mnt/stockage/packages/f43/cairo-dock/po/oc.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 73 | 7555 | 1.0 | /mnt/stockage/packages/f43/cairo-dock/po/cy.po | 
+ | [ru](/f43/language/ru) | 7555 | 7555 | 100.0 | /mnt/stockage/packages/f43/cairo-dock/po/ru.po | 
+ | [de](/f43/language/de) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/de.po | 
+ | [en](/f43/language/en) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/en.po | 
+ | [en_GB](/f43/language/en_GB) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/en_GB.po | 
+ | [fr](/f43/language/fr) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/fr.po | 
+ | [it](/f43/language/it) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/it.po | 
+ | [nl](/f43/language/nl) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/nl.po | 
+ | [pt](/f43/language/pt) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/pt.po | 
+ | [sv](/f43/language/sv) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/sv.po | 
+ | [uk](/f43/language/uk) | 7095 | 7555 | 93.9 | /mnt/stockage/packages/f43/cairo-dock/po/uk.po | 
+ | [fi](/f43/language/fi) | 7086 | 7555 | 93.8 | /mnt/stockage/packages/f43/cairo-dock/po/fi.po | 
+ | [pt_BR](/f43/language/pt_BR) | 7086 | 7555 | 93.8 | /mnt/stockage/packages/f43/cairo-dock/po/pt_BR.po | 
+ | [sk](/f43/language/sk) | 7086 | 7555 | 93.8 | /mnt/stockage/packages/f43/cairo-dock/po/sk.po | 
+ | [eu](/f43/language/eu) | 6614 | 7555 | 87.5 | /mnt/stockage/packages/f43/cairo-dock/po/eu.po | 
+ | [es](/f43/language/es) | 6552 | 7555 | 86.7 | /mnt/stockage/packages/f43/cairo-dock/po/es.po | 
+ | [ja](/f43/language/ja) | 6523 | 7555 | 86.3 | /mnt/stockage/packages/f43/cairo-dock/po/ja.po | 
+ | [uz](/f43/language/uz) | 6473 | 7555 | 85.7 | /mnt/stockage/packages/f43/cairo-dock/po/uz.po | 
+ | [pl](/f43/language/pl) | 6440 | 7555 | 85.2 | /mnt/stockage/packages/f43/cairo-dock/po/pl.po | 
+ | [hu](/f43/language/hu) | 6253 | 7555 | 82.8 | /mnt/stockage/packages/f43/cairo-dock/po/hu.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 5626 | 7555 | 74.5 | /mnt/stockage/packages/f43/cairo-dock/po/zh_CN.po | 
+ | [sr](/f43/language/sr) | 10832 | 15110 | 71.7 | /mnt/stockage/packages/f43/cairo-dock/po/sr.po/mnt/stockage/packages/f43/cairo-dock/po/sr@latin.po | 
+ | [cs](/f43/language/cs) | 5362 | 7555 | 71.0 | /mnt/stockage/packages/f43/cairo-dock/po/cs.po | 
+ | [nn](/f43/language/nn) | 5190 | 7555 | 68.7 | /mnt/stockage/packages/f43/cairo-dock/po/nn.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 4925 | 7555 | 65.2 | /mnt/stockage/packages/f43/cairo-dock/po/zh_TW.po | 
+ | [el](/f43/language/el) | 3965 | 7555 | 52.5 | /mnt/stockage/packages/f43/cairo-dock/po/el.po | 
+ | [ca](/f43/language/ca) | 3061 | 7555 | 40.5 | /mnt/stockage/packages/f43/cairo-dock/po/ca.po | 
+ | [ko](/f43/language/ko) | 2927 | 7555 | 38.7 | /mnt/stockage/packages/f43/cairo-dock/po/ko.po | 
+ | [nb_NO](/f43/language/nb_NO) | 2834 | 7555 | 37.5 | /mnt/stockage/packages/f43/cairo-dock/po/nb.po | 
+ | [sl](/f43/language/sl) | 2823 | 7555 | 37.4 | /mnt/stockage/packages/f43/cairo-dock/po/sl.po | 
+ | [be](/f43/language/be) | 2744 | 7555 | 36.3 | /mnt/stockage/packages/f43/cairo-dock/po/be.po | 
+ | [id](/f43/language/id) | 2613 | 7555 | 34.6 | /mnt/stockage/packages/f43/cairo-dock/po/id.po | 
+ | [tr](/f43/language/tr) | 2231 | 7555 | 29.5 | /mnt/stockage/packages/f43/cairo-dock/po/tr.po | 
+ | [he](/f43/language/he) | 2188 | 7555 | 29.0 | /mnt/stockage/packages/f43/cairo-dock/po/he.po | 
+ | [ar](/f43/language/ar) | 1830 | 7555 | 24.2 | /mnt/stockage/packages/f43/cairo-dock/po/ar.po | 
+ | [gl](/f43/language/gl) | 1251 | 7555 | 16.6 | /mnt/stockage/packages/f43/cairo-dock/po/gl.po | 
+ | [ro](/f43/language/ro) | 785 | 7555 | 10.4 | /mnt/stockage/packages/f43/cairo-dock/po/ro.po | 
+ | [bg](/f43/language/bg) | 675 | 7555 | 8.9 | /mnt/stockage/packages/f43/cairo-dock/po/bg.po | 
+ | [lt](/f43/language/lt) | 645 | 7555 | 8.5 | /mnt/stockage/packages/f43/cairo-dock/po/lt.po | 
+ | [fo](/f43/language/fo) | 627 | 7555 | 8.3 | /mnt/stockage/packages/f43/cairo-dock/po/fo.po | 
+ | [et](/f43/language/et) | 603 | 7555 | 8.0 | /mnt/stockage/packages/f43/cairo-dock/po/et.po | 
+ | [da](/f43/language/da) | 450 | 7555 | 6.0 | /mnt/stockage/packages/f43/cairo-dock/po/da.po | 
+ | [bn](/f43/language/bn) | 432 | 7555 | 5.7 | /mnt/stockage/packages/f43/cairo-dock/po/bn.po | 
+ | [vi](/f43/language/vi) | 343 | 7555 | 4.5 | /mnt/stockage/packages/f43/cairo-dock/po/vi.po | 
+ | [eo](/f43/language/eo) | 156 | 7555 | 2.1 | /mnt/stockage/packages/f43/cairo-dock/po/eo.po | 
+ | [oc](/f43/language/oc) | 145 | 7555 | 1.9 | /mnt/stockage/packages/f43/cairo-dock/po/oc.po | 
+ | [cy](/f43/language/cy) | 73 | 7555 | 1.0 | /mnt/stockage/packages/f43/cairo-dock/po/cy.po | 
 {.sortable}
 
 

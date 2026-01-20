@@ -18,69 +18,69 @@ The package cogl (version 1.22.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f32/language/an.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/an.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/as.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/bg.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ca.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ca@valencia.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f32/cogl/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ja.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/lv.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ms.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/nl.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/oc.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/zh_HK.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 320 | 361 | 88.6 | /mnt/stockage/packages/f32/cogl/po/km.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 295 | 393 | 75.1 | /mnt/stockage/packages/f32/cogl/po/ug.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 161 | 393 | 41.0 | /mnt/stockage/packages/f32/cogl/po/ne.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 85 | 393 | 21.6 | /mnt/stockage/packages/f32/cogl/po/nb.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 62 | 378 | 16.4 | /mnt/stockage/packages/f32/cogl/po/pa.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 37 | 393 | 9.4 | /mnt/stockage/packages/f32/cogl/po/ml.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 15 | 355 | 4.2 | /mnt/stockage/packages/f32/cogl/po/eo.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/ar.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/ast.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/en_CA.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/fa.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/kn.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/or.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/vi.po | 
+ | [an](/f32/language/an) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/an.po | 
+ | [as](/f32/language/as) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/as.po | 
+ | [be](/f32/language/be) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/be.po | 
+ | [bg](/f32/language/bg) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/bg.po | 
+ | [bs](/f32/language/bs) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/bs.po | 
+ | [ca](/f32/language/ca) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ca.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ca@valencia.po | 
+ | [cs](/f32/language/cs) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/cs.po | 
+ | [da](/f32/language/da) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/da.po | 
+ | [de](/f32/language/de) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/de.po | 
+ | [el](/f32/language/el) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/en_GB.po | 
+ | [es](/f32/language/es) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/es.po | 
+ | [eu](/f32/language/eu) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/eu.po | 
+ | [fi](/f32/language/fi) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/fi.po | 
+ | [fr](/f32/language/fr) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/fr.po | 
+ | [fur](/f32/language/fur) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/fur.po | 
+ | [gl](/f32/language/gl) | 370 | 370 | 100.0 | /mnt/stockage/packages/f32/cogl/po/gl.po | 
+ | [he](/f32/language/he) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/he.po | 
+ | [hi](/f32/language/hi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/hi.po | 
+ | [hr](/f32/language/hr) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/hr.po | 
+ | [hu](/f32/language/hu) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/hu.po | 
+ | [id](/f32/language/id) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/id.po | 
+ | [it](/f32/language/it) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/it.po | 
+ | [ja](/f32/language/ja) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ja.po | 
+ | [ko](/f32/language/ko) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ko.po | 
+ | [lt](/f32/language/lt) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/lt.po | 
+ | [lv](/f32/language/lv) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/lv.po | 
+ | [ms](/f32/language/ms) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ms.po | 
+ | [nl](/f32/language/nl) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/nl.po | 
+ | [oc](/f32/language/oc) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/oc.po | 
+ | [pl](/f32/language/pl) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/pl.po | 
+ | [pt](/f32/language/pt) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ro.po | 
+ | [ru](/f32/language/ru) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ru.po | 
+ | [sk](/f32/language/sk) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sk.po | 
+ | [sl](/f32/language/sl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sl.po | 
+ | [sr](/f32/language/sr) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/sv.po | 
+ | [ta](/f32/language/ta) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/ta.po | 
+ | [te](/f32/language/te) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/te.po | 
+ | [th](/f32/language/th) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/th.po | 
+ | [tr](/f32/language/tr) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/tr.po | 
+ | [uk](/f32/language/uk) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 393 | 393 | 100.0 | /mnt/stockage/packages/f32/cogl/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 378 | 378 | 100.0 | /mnt/stockage/packages/f32/cogl/po/zh_HK.po | 
+ | [km](/f32/language/km) | 320 | 361 | 88.6 | /mnt/stockage/packages/f32/cogl/po/km.po | 
+ | [ug](/f32/language/ug) | 295 | 393 | 75.1 | /mnt/stockage/packages/f32/cogl/po/ug.po | 
+ | [ne](/f32/language/ne) | 161 | 393 | 41.0 | /mnt/stockage/packages/f32/cogl/po/ne.po | 
+ | [nb_NO](/f32/language/nb_NO) | 85 | 393 | 21.6 | /mnt/stockage/packages/f32/cogl/po/nb.po | 
+ | [pa](/f32/language/pa) | 62 | 378 | 16.4 | /mnt/stockage/packages/f32/cogl/po/pa.po | 
+ | [ml](/f32/language/ml) | 37 | 393 | 9.4 | /mnt/stockage/packages/f32/cogl/po/ml.po | 
+ | [eo](/f32/language/eo) | 15 | 355 | 4.2 | /mnt/stockage/packages/f32/cogl/po/eo.po | 
+ | [ar](/f32/language/ar) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/ar.po | 
+ | [ast](/f32/language/ast) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/ast.po | 
+ | [en_CA](/f32/language/en_CA) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/en_CA.po | 
+ | [fa](/f32/language/fa) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/fa.po | 
+ | [kn](/f32/language/kn) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/kn.po | 
+ | [or](/f32/language/or) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/or.po | 
+ | [vi](/f32/language/vi) | 15 | 361 | 4.2 | /mnt/stockage/packages/f32/cogl/po/vi.po | 
 {.sortable}
 
 

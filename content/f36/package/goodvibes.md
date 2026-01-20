@@ -18,30 +18,30 @@ The package goodvibes (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/ca.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/hr.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/nl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/tr.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/da.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/zh_Hant.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 334 | 344 | 97.1 | /mnt/stockage/packages/f36/goodvibes/po/es.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 313 | 344 | 91.0 | /mnt/stockage/packages/f36/goodvibes/po/de.po | 
- | [pt_PT]({{< ref "/f36/language/pt_PT.md" >}}) | 313 | 344 | 91.0 | /mnt/stockage/packages/f36/goodvibes/po/pt_PT.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 312 | 344 | 90.7 | /mnt/stockage/packages/f36/goodvibes/po/nb_NO.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 310 | 344 | 90.1 | /mnt/stockage/packages/f36/goodvibes/po/it.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 310 | 344 | 90.1 | /mnt/stockage/packages/f36/goodvibes/po/te.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 271 | 344 | 78.8 | /mnt/stockage/packages/f36/goodvibes/po/id.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 221 | 344 | 64.2 | /mnt/stockage/packages/f36/goodvibes/po/ru.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 153 | 344 | 44.5 | /mnt/stockage/packages/f36/goodvibes/po/fi.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 153 | 344 | 44.5 | /mnt/stockage/packages/f36/goodvibes/po/mr.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 103 | 344 | 29.9 | /mnt/stockage/packages/f36/goodvibes/po/pl.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 99 | 344 | 28.8 | /mnt/stockage/packages/f36/goodvibes/po/sk.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 72 | 344 | 20.9 | /mnt/stockage/packages/f36/goodvibes/po/cs.po | 
- | [en_US]({{< ref "/f36/language/en_US.md" >}}) | 52 | 344 | 15.1 | /mnt/stockage/packages/f36/goodvibes/po/en_US.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 0 | 344 | 0.0 | /mnt/stockage/packages/f36/goodvibes/po/hu.po | 
+ | [ca](/f36/language/ca) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/ca.po | 
+ | [fr](/f36/language/fr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/fr.po | 
+ | [hr](/f36/language/hr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/hr.po | 
+ | [nl](/f36/language/nl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/nl.po | 
+ | [tr](/f36/language/tr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f36/goodvibes/po/tr.po | 
+ | [da](/f36/language/da) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/da.po | 
+ | [pt](/f36/language/pt) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/pt_BR.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 338 | 344 | 98.3 | /mnt/stockage/packages/f36/goodvibes/po/zh_Hant.po | 
+ | [es](/f36/language/es) | 334 | 344 | 97.1 | /mnt/stockage/packages/f36/goodvibes/po/es.po | 
+ | [de](/f36/language/de) | 313 | 344 | 91.0 | /mnt/stockage/packages/f36/goodvibes/po/de.po | 
+ | [pt_PT](/f36/language/pt_PT) | 313 | 344 | 91.0 | /mnt/stockage/packages/f36/goodvibes/po/pt_PT.po | 
+ | [nb_NO](/f36/language/nb_NO) | 312 | 344 | 90.7 | /mnt/stockage/packages/f36/goodvibes/po/nb_NO.po | 
+ | [it](/f36/language/it) | 310 | 344 | 90.1 | /mnt/stockage/packages/f36/goodvibes/po/it.po | 
+ | [te](/f36/language/te) | 310 | 344 | 90.1 | /mnt/stockage/packages/f36/goodvibes/po/te.po | 
+ | [id](/f36/language/id) | 271 | 344 | 78.8 | /mnt/stockage/packages/f36/goodvibes/po/id.po | 
+ | [ru](/f36/language/ru) | 221 | 344 | 64.2 | /mnt/stockage/packages/f36/goodvibes/po/ru.po | 
+ | [fi](/f36/language/fi) | 153 | 344 | 44.5 | /mnt/stockage/packages/f36/goodvibes/po/fi.po | 
+ | [mr](/f36/language/mr) | 153 | 344 | 44.5 | /mnt/stockage/packages/f36/goodvibes/po/mr.po | 
+ | [pl](/f36/language/pl) | 103 | 344 | 29.9 | /mnt/stockage/packages/f36/goodvibes/po/pl.po | 
+ | [sk](/f36/language/sk) | 99 | 344 | 28.8 | /mnt/stockage/packages/f36/goodvibes/po/sk.po | 
+ | [cs](/f36/language/cs) | 72 | 344 | 20.9 | /mnt/stockage/packages/f36/goodvibes/po/cs.po | 
+ | [en_US](/f36/language/en_US) | 52 | 344 | 15.1 | /mnt/stockage/packages/f36/goodvibes/po/en_US.po | 
+ | [hu](/f36/language/hu) | 0 | 344 | 0.0 | /mnt/stockage/packages/f36/goodvibes/po/hu.po | 
 {.sortable}
 
 

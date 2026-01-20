@@ -18,84 +18,84 @@ The package gnome-themes (version 2.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ar.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/az.po | 
- | [be]({{< ref "/f8/language/be.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/be.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/bg.po | 
- | [bn]({{< ref "/f8/language/bn.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/bn.po | 
- | [bn_IN]({{< ref "/f8/language/bn_IN.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/bn_IN.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/cs.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/cy.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/da.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/de.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/dz.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/el.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/en_CA.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/en_GB.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sr@Latn.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/es.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/et.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/eu.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/gl.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/gu.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/he.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/hi.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/hu.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/id.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ja.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ka.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ko.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/lt.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/lv.po | 
- | [mg]({{< ref "/f8/language/mg.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/mg.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/mk.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ml.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/nb.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ne.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/nl.po | 
- | [or]({{< ref "/f8/language/or.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/or.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pa.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ru.po | 
- | [si]({{< ref "/f8/language/si.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/si.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sk.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sl.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sq.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sv.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ta.po | 
- | [th]({{< ref "/f8/language/th.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/th.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/tr.po | 
- | [ug]({{< ref "/f8/language/ug.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ug.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/vi.po | 
- | [wa]({{< ref "/f8/language/wa.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/wa.po | 
- | [xh]({{< ref "/f8/language/xh.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/xh.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f8/language/zh_Hant_HK.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/zh_HK.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/bs.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/hr.po | 
- | [is]({{< ref "/f8/language/is.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/is.po | 
- | [li]({{< ref "/f8/language/li.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/li.po | 
- | [mn]({{< ref "/f8/language/mn.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/mn.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/ms.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/nn.po | 
- | [fa]({{< ref "/f8/language/fa.md" >}}) | 92 | 101 | 91.1 | /mnt/stockage/packages/f8/gnome-themes/po/fa.po | 
- | [mr]({{< ref "/f8/language/mr.md" >}}) | 72 | 80 | 90.0 | /mnt/stockage/packages/f8/gnome-themes/po/mr.po | 
- | [ky]({{< ref "/f8/language/ky.md" >}}) | 87 | 104 | 83.7 | /mnt/stockage/packages/f8/gnome-themes/po/ky.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 74 | 101 | 73.3 | /mnt/stockage/packages/f8/gnome-themes/po/ga.po | 
- | [am]({{< ref "/f8/language/am.md" >}}) | 40 | 101 | 39.6 | /mnt/stockage/packages/f8/gnome-themes/po/am.po | 
- | [ku]({{< ref "/f8/language/ku.md" >}}) | 3 | 104 | 2.9 | /mnt/stockage/packages/f8/gnome-themes/po/ku.po | 
- | [oc]({{< ref "/f8/language/oc.md" >}}) | 2 | 85 | 2.4 | /mnt/stockage/packages/f8/gnome-themes/po/oc.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 1 | 101 | 1.0 | /mnt/stockage/packages/f8/gnome-themes/po/rw.po | 
+ | [ar](/f8/language/ar) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ar.po | 
+ | [az](/f8/language/az) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/az.po | 
+ | [be](/f8/language/be) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/be.po | 
+ | [bg](/f8/language/bg) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/bg.po | 
+ | [bn](/f8/language/bn) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/bn.po | 
+ | [bn_IN](/f8/language/bn_IN) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/bn_IN.po | 
+ | [ca](/f8/language/ca) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ca.po | 
+ | [cs](/f8/language/cs) | 81 | 81 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/cs.po | 
+ | [cy](/f8/language/cy) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/cy.po | 
+ | [da](/f8/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/da.po | 
+ | [de](/f8/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/de.po | 
+ | [dz](/f8/language/dz) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/dz.po | 
+ | [el](/f8/language/el) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/el.po | 
+ | [en_CA](/f8/language/en_CA) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/en_CA.po | 
+ | [en_GB](/f8/language/en_GB) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/en_GB.po | 
+ | [error](/f8/language/error) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sr@Latn.po | 
+ | [es](/f8/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/es.po | 
+ | [et](/f8/language/et) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/et.po | 
+ | [eu](/f8/language/eu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/eu.po | 
+ | [fi](/f8/language/fi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/fi.po | 
+ | [fr](/f8/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/fr.po | 
+ | [gl](/f8/language/gl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/gl.po | 
+ | [gu](/f8/language/gu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/gu.po | 
+ | [he](/f8/language/he) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/he.po | 
+ | [hi](/f8/language/hi) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/hi.po | 
+ | [hu](/f8/language/hu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/hu.po | 
+ | [id](/f8/language/id) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/id.po | 
+ | [it](/f8/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/it.po | 
+ | [ja](/f8/language/ja) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ja.po | 
+ | [ka](/f8/language/ka) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ka.po | 
+ | [ko](/f8/language/ko) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ko.po | 
+ | [lt](/f8/language/lt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/lt.po | 
+ | [lv](/f8/language/lv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/lv.po | 
+ | [mg](/f8/language/mg) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/mg.po | 
+ | [mk](/f8/language/mk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/mk.po | 
+ | [ml](/f8/language/ml) | 81 | 81 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ml.po | 
+ | [nb_NO](/f8/language/nb_NO) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/nb.po | 
+ | [ne](/f8/language/ne) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ne.po | 
+ | [nl](/f8/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/nl.po | 
+ | [or](/f8/language/or) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/or.po | 
+ | [pa](/f8/language/pa) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pa.po | 
+ | [pl](/f8/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pl.po | 
+ | [pt](/f8/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ro.po | 
+ | [ru](/f8/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ru.po | 
+ | [si](/f8/language/si) | 80 | 80 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/si.po | 
+ | [sk](/f8/language/sk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sk.po | 
+ | [sl](/f8/language/sl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sl.po | 
+ | [sq](/f8/language/sq) | 104 | 104 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sq.po | 
+ | [sr](/f8/language/sr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sr.po | 
+ | [sv](/f8/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/sv.po | 
+ | [ta](/f8/language/ta) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ta.po | 
+ | [th](/f8/language/th) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/th.po | 
+ | [tr](/f8/language/tr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/tr.po | 
+ | [ug](/f8/language/ug) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/ug.po | 
+ | [uk](/f8/language/uk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/uk.po | 
+ | [vi](/f8/language/vi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/vi.po | 
+ | [wa](/f8/language/wa) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/wa.po | 
+ | [xh](/f8/language/xh) | 101 | 101 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/xh.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/zh_TW.po | 
+ | [zh_Hant_HK](/f8/language/zh_Hant_HK) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/gnome-themes/po/zh_HK.po | 
+ | [bs](/f8/language/bs) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/bs.po | 
+ | [hr](/f8/language/hr) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/hr.po | 
+ | [is](/f8/language/is) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/is.po | 
+ | [li](/f8/language/li) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/li.po | 
+ | [mn](/f8/language/mn) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/mn.po | 
+ | [ms](/f8/language/ms) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/ms.po | 
+ | [nn](/f8/language/nn) | 95 | 101 | 94.1 | /mnt/stockage/packages/f8/gnome-themes/po/nn.po | 
+ | [fa](/f8/language/fa) | 92 | 101 | 91.1 | /mnt/stockage/packages/f8/gnome-themes/po/fa.po | 
+ | [mr](/f8/language/mr) | 72 | 80 | 90.0 | /mnt/stockage/packages/f8/gnome-themes/po/mr.po | 
+ | [ky](/f8/language/ky) | 87 | 104 | 83.7 | /mnt/stockage/packages/f8/gnome-themes/po/ky.po | 
+ | [ga](/f8/language/ga) | 74 | 101 | 73.3 | /mnt/stockage/packages/f8/gnome-themes/po/ga.po | 
+ | [am](/f8/language/am) | 40 | 101 | 39.6 | /mnt/stockage/packages/f8/gnome-themes/po/am.po | 
+ | [ku](/f8/language/ku) | 3 | 104 | 2.9 | /mnt/stockage/packages/f8/gnome-themes/po/ku.po | 
+ | [oc](/f8/language/oc) | 2 | 85 | 2.4 | /mnt/stockage/packages/f8/gnome-themes/po/oc.po | 
+ | [rw](/f8/language/rw) | 1 | 101 | 1.0 | /mnt/stockage/packages/f8/gnome-themes/po/rw.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package darktable (version 3.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 26139 | 26139 | 100.0 | /mnt/stockage/packages/f36/darktable/doc/man/po/de.po/mnt/stockage/packages/f36/darktable/po/de.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 23944 | 23944 | 100.0 | /mnt/stockage/packages/f36/darktable/po/eo.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/fi.po | 
- | [he_IL]({{< ref "/f36/language/he_IL.md" >}}) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/he.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/hu.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 24072 | 24072 | 100.0 | /mnt/stockage/packages/f36/darktable/po/ja.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 24042 | 24042 | 100.0 | /mnt/stockage/packages/f36/darktable/po/pl.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/sl.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 24072 | 24072 | 100.0 | /mnt/stockage/packages/f36/darktable/po/uk.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 26167 | 26169 | 100.0 | /mnt/stockage/packages/f36/darktable/doc/man/po/fr.po/mnt/stockage/packages/f36/darktable/po/fr.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 24070 | 24072 | 100.0 | /mnt/stockage/packages/f36/darktable/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 23871 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/zh_CN.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 23915 | 23938 | 99.9 | /mnt/stockage/packages/f36/darktable/po/nl.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 25936 | 26064 | 99.5 | /mnt/stockage/packages/f36/darktable/doc/man/po/es.po/mnt/stockage/packages/f36/darktable/po/es.po | 
+ | [de](/f36/language/de) | 26139 | 26139 | 100.0 | /mnt/stockage/packages/f36/darktable/doc/man/po/de.po/mnt/stockage/packages/f36/darktable/po/de.po | 
+ | [eo](/f36/language/eo) | 23944 | 23944 | 100.0 | /mnt/stockage/packages/f36/darktable/po/eo.po | 
+ | [fi](/f36/language/fi) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/fi.po | 
+ | [he_IL](/f36/language/he_IL) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/he.po | 
+ | [hu](/f36/language/hu) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/hu.po | 
+ | [it](/f36/language/it) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/it.po | 
+ | [ja](/f36/language/ja) | 24072 | 24072 | 100.0 | /mnt/stockage/packages/f36/darktable/po/ja.po | 
+ | [pl](/f36/language/pl) | 24042 | 24042 | 100.0 | /mnt/stockage/packages/f36/darktable/po/pl.po | 
+ | [sl](/f36/language/sl) | 23878 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/sl.po | 
+ | [uk](/f36/language/uk) | 24072 | 24072 | 100.0 | /mnt/stockage/packages/f36/darktable/po/uk.po | 
+ | [fr](/f36/language/fr) | 26167 | 26169 | 100.0 | /mnt/stockage/packages/f36/darktable/doc/man/po/fr.po/mnt/stockage/packages/f36/darktable/po/fr.po | 
+ | [pt_BR](/f36/language/pt_BR) | 24070 | 24072 | 100.0 | /mnt/stockage/packages/f36/darktable/po/pt_BR.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 23871 | 23878 | 100.0 | /mnt/stockage/packages/f36/darktable/po/zh_CN.po | 
+ | [nl](/f36/language/nl) | 23915 | 23938 | 99.9 | /mnt/stockage/packages/f36/darktable/po/nl.po | 
+ | [es](/f36/language/es) | 25936 | 26064 | 99.5 | /mnt/stockage/packages/f36/darktable/doc/man/po/es.po/mnt/stockage/packages/f36/darktable/po/es.po | 
 {.sortable}
 
 

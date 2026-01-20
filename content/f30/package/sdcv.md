@@ -18,13 +18,13 @@ The package sdcv (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f30/sdcv/po/ru.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f30/sdcv/po/zh_TW.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 47 | 114 | 41.2 | /mnt/stockage/packages/f30/sdcv/po/fr.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 43 | 114 | 37.7 | /mnt/stockage/packages/f30/sdcv/po/sk.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 40 | 114 | 35.1 | /mnt/stockage/packages/f30/sdcv/po/cs.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 34 | 114 | 29.8 | /mnt/stockage/packages/f30/sdcv/po/uk.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 34 | 114 | 29.8 | /mnt/stockage/packages/f30/sdcv/po/zh_CN.po | 
+ | [ru](/f30/language/ru) | 117 | 117 | 100.0 | /mnt/stockage/packages/f30/sdcv/po/ru.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 131 | 131 | 100.0 | /mnt/stockage/packages/f30/sdcv/po/zh_TW.po | 
+ | [fr](/f30/language/fr) | 47 | 114 | 41.2 | /mnt/stockage/packages/f30/sdcv/po/fr.po | 
+ | [sk](/f30/language/sk) | 43 | 114 | 37.7 | /mnt/stockage/packages/f30/sdcv/po/sk.po | 
+ | [cs](/f30/language/cs) | 40 | 114 | 35.1 | /mnt/stockage/packages/f30/sdcv/po/cs.po | 
+ | [uk](/f30/language/uk) | 34 | 114 | 29.8 | /mnt/stockage/packages/f30/sdcv/po/uk.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 34 | 114 | 29.8 | /mnt/stockage/packages/f30/sdcv/po/zh_CN.po | 
 {.sortable}
 
 

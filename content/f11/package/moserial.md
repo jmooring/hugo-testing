@@ -18,12 +18,12 @@ The package moserial (version 2.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f11/moserial/po/ca.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f11/moserial/doc/de/de.po/mnt/stockage/packages/f11/moserial/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f11/moserial/po/fr.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 757 | 767 | 98.7 | /mnt/stockage/packages/f11/moserial/po/pt_BR.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1279 | 2641 | 48.4 | /mnt/stockage/packages/f11/moserial/doc/es/es.po/mnt/stockage/packages/f11/moserial/po/es.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f11/moserial/doc/sv/sv.po/mnt/stockage/packages/f11/moserial/po/sv.po | 
+ | [ca](/f11/language/ca) | 757 | 757 | 100.0 | /mnt/stockage/packages/f11/moserial/po/ca.po | 
+ | [de](/f11/language/de) | 2652 | 2652 | 100.0 | /mnt/stockage/packages/f11/moserial/doc/de/de.po/mnt/stockage/packages/f11/moserial/po/de.po | 
+ | [fr](/f11/language/fr) | 757 | 757 | 100.0 | /mnt/stockage/packages/f11/moserial/po/fr.po | 
+ | [pt_BR](/f11/language/pt_BR) | 757 | 767 | 98.7 | /mnt/stockage/packages/f11/moserial/po/pt_BR.po | 
+ | [es](/f11/language/es) | 1279 | 2641 | 48.4 | /mnt/stockage/packages/f11/moserial/doc/es/es.po/mnt/stockage/packages/f11/moserial/po/es.po | 
+ | [sv](/f11/language/sv) | 863 | 2644 | 32.6 | /mnt/stockage/packages/f11/moserial/doc/sv/sv.po/mnt/stockage/packages/f11/moserial/po/sv.po | 
 {.sortable}
 
 

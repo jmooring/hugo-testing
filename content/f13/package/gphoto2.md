@@ -18,33 +18,33 @@ The package gphoto2 (version 2.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/de.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/ja.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/nl.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/pl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/sv.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1444 | 1519 | 95.1 | /mnt/stockage/packages/f13/gphoto2/po/zh_CN.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1373 | 1519 | 90.4 | /mnt/stockage/packages/f13/gphoto2/po/cs.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 1285 | 1519 | 84.6 | /mnt/stockage/packages/f13/gphoto2/po/ro.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 1285 | 1519 | 84.6 | /mnt/stockage/packages/f13/gphoto2/po/sr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1285 | 1519 | 84.6 | /mnt/stockage/packages/f13/gphoto2/po/uk.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 1146 | 1519 | 75.4 | /mnt/stockage/packages/f13/gphoto2/po/zh_TW.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1034 | 1519 | 68.1 | /mnt/stockage/packages/f13/gphoto2/po/da.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1034 | 1519 | 68.1 | /mnt/stockage/packages/f13/gphoto2/po/fr.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 832 | 1519 | 54.8 | /mnt/stockage/packages/f13/gphoto2/po/eu.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 832 | 1519 | 54.8 | /mnt/stockage/packages/f13/gphoto2/po/sk.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 744 | 1519 | 49.0 | /mnt/stockage/packages/f13/gphoto2/po/pa.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/fi.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/hu.po | 
- | [az]({{< ref "/f13/language/az.md" >}}) | 285 | 1519 | 18.8 | /mnt/stockage/packages/f13/gphoto2/po/az.po | 
- | [rw]({{< ref "/f13/language/rw.md" >}}) | 17 | 1519 | 1.1 | /mnt/stockage/packages/f13/gphoto2/po/rw.po | 
+ | [de](/f13/language/de) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/de.po | 
+ | [id](/f13/language/id) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/id.po | 
+ | [it](/f13/language/it) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/it.po | 
+ | [ja](/f13/language/ja) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/ja.po | 
+ | [nl](/f13/language/nl) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/nl.po | 
+ | [pl](/f13/language/pl) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/pl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/ru.po | 
+ | [sv](/f13/language/sv) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/sv.po | 
+ | [vi](/f13/language/vi) | 1486 | 1519 | 97.8 | /mnt/stockage/packages/f13/gphoto2/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1444 | 1519 | 95.1 | /mnt/stockage/packages/f13/gphoto2/po/zh_CN.po | 
+ | [cs](/f13/language/cs) | 1373 | 1519 | 90.4 | /mnt/stockage/packages/f13/gphoto2/po/cs.po | 
+ | [ro](/f13/language/ro) | 1285 | 1519 | 84.6 | /mnt/stockage/packages/f13/gphoto2/po/ro.po | 
+ | [sr](/f13/language/sr) | 1285 | 1519 | 84.6 | /mnt/stockage/packages/f13/gphoto2/po/sr.po | 
+ | [uk](/f13/language/uk) | 1285 | 1519 | 84.6 | /mnt/stockage/packages/f13/gphoto2/po/uk.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 1146 | 1519 | 75.4 | /mnt/stockage/packages/f13/gphoto2/po/zh_TW.po | 
+ | [da](/f13/language/da) | 1034 | 1519 | 68.1 | /mnt/stockage/packages/f13/gphoto2/po/da.po | 
+ | [fr](/f13/language/fr) | 1034 | 1519 | 68.1 | /mnt/stockage/packages/f13/gphoto2/po/fr.po | 
+ | [eu](/f13/language/eu) | 832 | 1519 | 54.8 | /mnt/stockage/packages/f13/gphoto2/po/eu.po | 
+ | [sk](/f13/language/sk) | 832 | 1519 | 54.8 | /mnt/stockage/packages/f13/gphoto2/po/sk.po | 
+ | [pa](/f13/language/pa) | 744 | 1519 | 49.0 | /mnt/stockage/packages/f13/gphoto2/po/pa.po | 
+ | [en_GB](/f13/language/en_GB) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/en_GB.po | 
+ | [es](/f13/language/es) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/es.po | 
+ | [fi](/f13/language/fi) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/fi.po | 
+ | [hu](/f13/language/hu) | 741 | 1519 | 48.8 | /mnt/stockage/packages/f13/gphoto2/po/hu.po | 
+ | [az](/f13/language/az) | 285 | 1519 | 18.8 | /mnt/stockage/packages/f13/gphoto2/po/az.po | 
+ | [rw](/f13/language/rw) | 17 | 1519 | 1.1 | /mnt/stockage/packages/f13/gphoto2/po/rw.po | 
 {.sortable}
 
 

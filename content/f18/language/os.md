@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pychess]({{< ref "/f18/package/pychess.md" >}}) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
- | [stellarium]({{< ref "/f18/package/stellarium.md" >}}) | 0 | 11181 | 0.0 | Ossetian <os@li.org> | 
+ | [pychess](/f18/package/pychess) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
+ | [stellarium](/f18/package/stellarium) | 0 | 11181 | 0.0 | Ossetian <os@li.org> | 
 {.sortable}
 
 

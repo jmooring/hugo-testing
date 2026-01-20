@@ -41,22 +41,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f33/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [setuptool]({{< ref "/f33/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f33/package/chkconfig.md" >}}) | 412 | 573 | 71.9 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-switch-mail]({{< ref "/f33/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
- | [policycoreutils]({{< ref "/f33/package/policycoreutils.md" >}}) | 7 | 4493 | 0.2 | Baluchi | 
- | [anaconda]({{< ref "/f33/package/anaconda.md" >}}) | 0 | 7193 | 0.0 | Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/) | 
- | [android-tools]({{< ref "/f33/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [entangle]({{< ref "/f33/package/entangle.md" >}}) | 0 | 953 | 0.0 | Baluchi | 
- | [initial-setup]({{< ref "/f33/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [libvirt-glib]({{< ref "/f33/package/libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [libvirt-sandbox]({{< ref "/f33/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [mingw-libvirt-glib]({{< ref "/f33/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [python-fedora]({{< ref "/f33/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Baluchi | 
- | [python-meh]({{< ref "/f33/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
- | [setroubleshoot]({{< ref "/f33/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [virt-viewer]({{< ref "/f33/package/virt-viewer.md" >}}) | 0 | 854 | 0.0 | Baluchi | 
+ | [newt](/f33/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [setuptool](/f33/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f33/package/chkconfig) | 412 | 573 | 71.9 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-switch-mail](/f33/package/system-switch-mail) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [policycoreutils](/f33/package/policycoreutils) | 7 | 4493 | 0.2 | Baluchi | 
+ | [anaconda](/f33/package/anaconda) | 0 | 7193 | 0.0 | Balochi (http://www.transifex.com/projects/p/anaconda/language/bal/) | 
+ | [android-tools](/f33/package/android-tools) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [entangle](/f33/package/entangle) | 0 | 953 | 0.0 | Baluchi | 
+ | [initial-setup](/f33/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [libvirt-glib](/f33/package/libvirt-glib) | 0 | 158 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [libvirt-sandbox](/f33/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [mingw-libvirt-glib](/f33/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [python-fedora](/f33/package/python-fedora) | 0 | 214 | 0.0 | Baluchi | 
+ | [python-meh](/f33/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
+ | [setroubleshoot](/f33/package/setroubleshoot) | 0 | 660 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [virt-viewer](/f33/package/virt-viewer) | 0 | 854 | 0.0 | Baluchi | 
 {.sortable}
 
 

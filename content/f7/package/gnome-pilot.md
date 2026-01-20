@@ -18,53 +18,53 @@ The package gnome-pilot (version 2.0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f7/language/az.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/az.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1633 | 1633 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/cs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/cy.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/de.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 1580 | 1580 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1633 | 1633 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/es.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 1552 | 1552 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/eu.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/fi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/hu.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ja.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/lt.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/nb.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ne.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/pl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/pt_BR.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sk.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sv.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/vi.po | 
- | [xh]({{< ref "/f7/language/xh.md" >}}) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/xh.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/zh_HK.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 1547 | 1573 | 98.3 | /mnt/stockage/packages/f7/gnome-pilot/po/ms.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1484 | 1633 | 90.9 | /mnt/stockage/packages/f7/gnome-pilot/po/it.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1417 | 1561 | 90.8 | /mnt/stockage/packages/f7/gnome-pilot/po/nl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1422 | 1573 | 90.4 | /mnt/stockage/packages/f7/gnome-pilot/po/pt.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1353 | 1573 | 86.0 | /mnt/stockage/packages/f7/gnome-pilot/po/zh_CN.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1221 | 1573 | 77.6 | /mnt/stockage/packages/f7/gnome-pilot/po/da.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1120 | 1573 | 71.2 | /mnt/stockage/packages/f7/gnome-pilot/po/ru.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 1110 | 1573 | 70.6 | /mnt/stockage/packages/f7/gnome-pilot/po/he.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 966 | 1545 | 62.5 | /mnt/stockage/packages/f7/gnome-pilot/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 895 | 1573 | 56.9 | /mnt/stockage/packages/f7/gnome-pilot/po/gl.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 884 | 1573 | 56.2 | /mnt/stockage/packages/f7/gnome-pilot/po/tr.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 568 | 1633 | 34.8 | /mnt/stockage/packages/f7/gnome-pilot/po/el.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 141 | 1573 | 9.0 | /mnt/stockage/packages/f7/gnome-pilot/po/hr.po | 
- | [am]({{< ref "/f7/language/am.md" >}}) | 90 | 1573 | 5.7 | /mnt/stockage/packages/f7/gnome-pilot/po/am.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 30 | 1580 | 1.9 | /mnt/stockage/packages/f7/gnome-pilot/po/rw.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 29 | 1573 | 1.8 | /mnt/stockage/packages/f7/gnome-pilot/po/nn.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 28 | 1599 | 1.8 | /mnt/stockage/packages/f7/gnome-pilot/po/ml.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 14 | 1573 | 0.9 | /mnt/stockage/packages/f7/gnome-pilot/po/ko.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 0 | 1636 | 0.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ar.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 0 | 1599 | 0.0 | /mnt/stockage/packages/f7/gnome-pilot/po/mk.po | 
+ | [az](/f7/language/az) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/az.po | 
+ | [ca](/f7/language/ca) | 1633 | 1633 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ca.po | 
+ | [cs](/f7/language/cs) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/cs.po | 
+ | [cy](/f7/language/cy) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/cy.po | 
+ | [de](/f7/language/de) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/de.po | 
+ | [en_CA](/f7/language/en_CA) | 1580 | 1580 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/en_GB.po | 
+ | [error](/f7/language/error) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 1633 | 1633 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/es.po | 
+ | [eu](/f7/language/eu) | 1552 | 1552 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/eu.po | 
+ | [fi](/f7/language/fi) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/fi.po | 
+ | [hu](/f7/language/hu) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/hu.po | 
+ | [ja](/f7/language/ja) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ja.po | 
+ | [lt](/f7/language/lt) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/lt.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/nb.po | 
+ | [ne](/f7/language/ne) | 1466 | 1466 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ne.po | 
+ | [pa](/f7/language/pa) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/pa.po | 
+ | [pl](/f7/language/pl) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/pl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1463 | 1463 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/pt_BR.po | 
+ | [sk](/f7/language/sk) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sk.po | 
+ | [sr](/f7/language/sr) | 1573 | 1573 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sr.po | 
+ | [sv](/f7/language/sv) | 1636 | 1636 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/sv.po | 
+ | [uk](/f7/language/uk) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/uk.po | 
+ | [vi](/f7/language/vi) | 1561 | 1561 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/vi.po | 
+ | [xh](/f7/language/xh) | 1403 | 1403 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/xh.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 1545 | 1545 | 100.0 | /mnt/stockage/packages/f7/gnome-pilot/po/zh_HK.po | 
+ | [ms](/f7/language/ms) | 1547 | 1573 | 98.3 | /mnt/stockage/packages/f7/gnome-pilot/po/ms.po | 
+ | [it](/f7/language/it) | 1484 | 1633 | 90.9 | /mnt/stockage/packages/f7/gnome-pilot/po/it.po | 
+ | [nl](/f7/language/nl) | 1417 | 1561 | 90.8 | /mnt/stockage/packages/f7/gnome-pilot/po/nl.po | 
+ | [pt](/f7/language/pt) | 1422 | 1573 | 90.4 | /mnt/stockage/packages/f7/gnome-pilot/po/pt.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1353 | 1573 | 86.0 | /mnt/stockage/packages/f7/gnome-pilot/po/zh_CN.po | 
+ | [da](/f7/language/da) | 1221 | 1573 | 77.6 | /mnt/stockage/packages/f7/gnome-pilot/po/da.po | 
+ | [ru](/f7/language/ru) | 1120 | 1573 | 71.2 | /mnt/stockage/packages/f7/gnome-pilot/po/ru.po | 
+ | [he](/f7/language/he) | 1110 | 1573 | 70.6 | /mnt/stockage/packages/f7/gnome-pilot/po/he.po | 
+ | [fr](/f7/language/fr) | 966 | 1545 | 62.5 | /mnt/stockage/packages/f7/gnome-pilot/po/fr.po | 
+ | [gl](/f7/language/gl) | 895 | 1573 | 56.9 | /mnt/stockage/packages/f7/gnome-pilot/po/gl.po | 
+ | [tr](/f7/language/tr) | 884 | 1573 | 56.2 | /mnt/stockage/packages/f7/gnome-pilot/po/tr.po | 
+ | [el](/f7/language/el) | 568 | 1633 | 34.8 | /mnt/stockage/packages/f7/gnome-pilot/po/el.po | 
+ | [hr](/f7/language/hr) | 141 | 1573 | 9.0 | /mnt/stockage/packages/f7/gnome-pilot/po/hr.po | 
+ | [am](/f7/language/am) | 90 | 1573 | 5.7 | /mnt/stockage/packages/f7/gnome-pilot/po/am.po | 
+ | [rw](/f7/language/rw) | 30 | 1580 | 1.9 | /mnt/stockage/packages/f7/gnome-pilot/po/rw.po | 
+ | [nn](/f7/language/nn) | 29 | 1573 | 1.8 | /mnt/stockage/packages/f7/gnome-pilot/po/nn.po | 
+ | [ml](/f7/language/ml) | 28 | 1599 | 1.8 | /mnt/stockage/packages/f7/gnome-pilot/po/ml.po | 
+ | [ko](/f7/language/ko) | 14 | 1573 | 0.9 | /mnt/stockage/packages/f7/gnome-pilot/po/ko.po | 
+ | [ar](/f7/language/ar) | 0 | 1636 | 0.0 | /mnt/stockage/packages/f7/gnome-pilot/po/ar.po | 
+ | [mk](/f7/language/mk) | 0 | 1599 | 0.0 | /mnt/stockage/packages/f7/gnome-pilot/po/mk.po | 
 {.sortable}
 
 

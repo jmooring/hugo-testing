@@ -18,7 +18,7 @@ The package lshw (version B.02.19.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 446 | 679 | 65.7 | /mnt/stockage/packages/f36/lshw/src/po/fr.po | 
+ | [fr](/f36/language/fr) | 446 | 679 | 65.7 | /mnt/stockage/packages/f36/lshw/src/po/fr.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
 {.sortable}
 
 

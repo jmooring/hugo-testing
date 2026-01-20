@@ -18,74 +18,74 @@ The package gnome-documents (version 3.22.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ar.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 453 | 453 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/bg.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ca@valencia.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/cs/cs.po/mnt/stockage/packages/f25/gnome-documents/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/de/de.po/mnt/stockage/packages/f25/gnome-documents/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/el/el.po/mnt/stockage/packages/f25/gnome-documents/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/es/es.po/mnt/stockage/packages/f25/gnome-documents/po/es.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/fa.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/fr/fr.po/mnt/stockage/packages/f25/gnome-documents/po/fr.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/fur.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/hu/hu.po/mnt/stockage/packages/f25/gnome-documents/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/id/id.po/mnt/stockage/packages/f25/gnome-documents/po/id.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/kk.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/ko/ko.po/mnt/stockage/packages/f25/gnome-documents/po/ko.po | 
- | [ln]({{< ref "/f25/language/ln.md" >}}) | 646 | 646 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ln.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/lv/lv.po/mnt/stockage/packages/f25/gnome-documents/po/lv.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/mk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ml.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/nb.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/or.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/gnome-documents/po/pt_BR.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/sk.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/sv/sv.po/mnt/stockage/packages/f25/gnome-documents/po/sv.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/uk.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/zh_HK.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 541 | 548 | 98.7 | /mnt/stockage/packages/f25/gnome-documents/po/ro.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 55 | 57 | 96.5 | /mnt/stockage/packages/f25/gnome-documents/po/af.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 528 | 549 | 96.2 | /mnt/stockage/packages/f25/gnome-documents/po/bs.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 3210 | 3404 | 94.3 | /mnt/stockage/packages/f25/gnome-documents/help/sr/sr.po/mnt/stockage/packages/f25/gnome-documents/help/sr@latin/sr@latin.po/mnt/stockage/packages/f25/gnome-documents/po/sr.po/mnt/stockage/packages/f25/gnome-documents/po/sr@latin.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 1600 | 1697 | 94.3 | /mnt/stockage/packages/f25/gnome-documents/help/ru/ru.po/mnt/stockage/packages/f25/gnome-documents/po/ru.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 1599 | 1696 | 94.3 | /mnt/stockage/packages/f25/gnome-documents/help/ja/ja.po/mnt/stockage/packages/f25/gnome-documents/po/ja.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 1571 | 1702 | 92.3 | /mnt/stockage/packages/f25/gnome-documents/help/sl/sl.po/mnt/stockage/packages/f25/gnome-documents/po/sl.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 1566 | 1697 | 92.3 | /mnt/stockage/packages/f25/gnome-documents/help/gl/gl.po/mnt/stockage/packages/f25/gnome-documents/po/gl.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 1566 | 1697 | 92.3 | /mnt/stockage/packages/f25/gnome-documents/help/zh_CN/zh_CN.po/mnt/stockage/packages/f25/gnome-documents/po/zh_CN.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 1379 | 1510 | 91.3 | /mnt/stockage/packages/f25/gnome-documents/help/mr/mr.po/mnt/stockage/packages/f25/gnome-documents/po/mr.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 1379 | 1510 | 91.3 | /mnt/stockage/packages/f25/gnome-documents/help/ta/ta.po/mnt/stockage/packages/f25/gnome-documents/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 1379 | 1510 | 91.3 | /mnt/stockage/packages/f25/gnome-documents/help/te/te.po/mnt/stockage/packages/f25/gnome-documents/po/te.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 1220 | 1351 | 90.3 | /mnt/stockage/packages/f25/gnome-documents/help/gu/gu.po/mnt/stockage/packages/f25/gnome-documents/po/gu.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 583 | 646 | 90.2 | /mnt/stockage/packages/f25/gnome-documents/po/oc.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 1312 | 1510 | 86.9 | /mnt/stockage/packages/f25/gnome-documents/help/as/as.po/mnt/stockage/packages/f25/gnome-documents/po/as.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 434 | 544 | 79.8 | /mnt/stockage/packages/f25/gnome-documents/po/ga.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 359 | 549 | 65.4 | /mnt/stockage/packages/f25/gnome-documents/po/eo.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 238 | 460 | 51.7 | /mnt/stockage/packages/f25/gnome-documents/po/ne.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 312 | 647 | 48.2 | /mnt/stockage/packages/f25/gnome-documents/po/is.po | 
- | [xh]({{< ref "/f25/language/xh.md" >}}) | 74 | 155 | 47.7 | /mnt/stockage/packages/f25/gnome-documents/po/xh.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 691 | 1702 | 40.6 | /mnt/stockage/packages/f25/gnome-documents/help/fi/fi.po/mnt/stockage/packages/f25/gnome-documents/po/fi.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 687 | 1697 | 40.5 | /mnt/stockage/packages/f25/gnome-documents/help/ca/ca.po/mnt/stockage/packages/f25/gnome-documents/po/ca.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 669 | 1697 | 39.4 | /mnt/stockage/packages/f25/gnome-documents/help/it/it.po/mnt/stockage/packages/f25/gnome-documents/po/it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 647 | 1697 | 38.1 | /mnt/stockage/packages/f25/gnome-documents/help/nl/nl.po/mnt/stockage/packages/f25/gnome-documents/po/nl.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 572 | 1594 | 35.9 | /mnt/stockage/packages/f25/gnome-documents/help/vi/vi.po/mnt/stockage/packages/f25/gnome-documents/po/vi.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 553 | 1599 | 34.6 | /mnt/stockage/packages/f25/gnome-documents/help/pa/pa.po/mnt/stockage/packages/f25/gnome-documents/po/pa.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 483 | 1510 | 32.0 | /mnt/stockage/packages/f25/gnome-documents/help/kn/kn.po/mnt/stockage/packages/f25/gnome-documents/po/kn.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 460 | 1510 | 30.5 | /mnt/stockage/packages/f25/gnome-documents/help/hi/hi.po/mnt/stockage/packages/f25/gnome-documents/po/hi.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 84 | 301 | 27.9 | /mnt/stockage/packages/f25/gnome-documents/po/tg.po | 
+ | [ar](/f25/language/ar) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ar.po | 
+ | [be](/f25/language/be) | 453 | 453 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/be.po | 
+ | [bg](/f25/language/bg) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/bg.po | 
+ | [bn_IN](/f25/language/bn_IN) | 464 | 464 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/bn_IN.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 460 | 460 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ca@valencia.po | 
+ | [cs](/f25/language/cs) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/cs/cs.po/mnt/stockage/packages/f25/gnome-documents/po/cs.po | 
+ | [da](/f25/language/da) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/da.po | 
+ | [de](/f25/language/de) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/de/de.po/mnt/stockage/packages/f25/gnome-documents/po/de.po | 
+ | [el](/f25/language/el) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/el/el.po/mnt/stockage/packages/f25/gnome-documents/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/en_GB.po | 
+ | [es](/f25/language/es) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/es/es.po/mnt/stockage/packages/f25/gnome-documents/po/es.po | 
+ | [et](/f25/language/et) | 435 | 435 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/et.po | 
+ | [eu](/f25/language/eu) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/eu.po | 
+ | [fa](/f25/language/fa) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/fa.po | 
+ | [fr](/f25/language/fr) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/fr/fr.po/mnt/stockage/packages/f25/gnome-documents/po/fr.po | 
+ | [fur](/f25/language/fur) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/fur.po | 
+ | [he](/f25/language/he) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/he.po | 
+ | [hu](/f25/language/hu) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/hu/hu.po/mnt/stockage/packages/f25/gnome-documents/po/hu.po | 
+ | [id](/f25/language/id) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/id/id.po/mnt/stockage/packages/f25/gnome-documents/po/id.po | 
+ | [kk](/f25/language/kk) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/kk.po | 
+ | [ko](/f25/language/ko) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/ko/ko.po/mnt/stockage/packages/f25/gnome-documents/po/ko.po | 
+ | [ln](/f25/language/ln) | 646 | 646 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ln.po | 
+ | [lt](/f25/language/lt) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/lt.po | 
+ | [lv](/f25/language/lv) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/lv/lv.po/mnt/stockage/packages/f25/gnome-documents/po/lv.po | 
+ | [mk](/f25/language/mk) | 119 | 119 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/mk.po | 
+ | [ml](/f25/language/ml) | 306 | 306 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ml.po | 
+ | [nb_NO](/f25/language/nb_NO) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/nb.po | 
+ | [or](/f25/language/or) | 460 | 460 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/or.po | 
+ | [pl](/f25/language/pl) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/pl.po | 
+ | [pt](/f25/language/pt) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 1821 | 1821 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/gnome-documents/po/pt_BR.po | 
+ | [sk](/f25/language/sk) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/sk.po | 
+ | [sv](/f25/language/sv) | 1826 | 1826 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/help/sv/sv.po/mnt/stockage/packages/f25/gnome-documents/po/sv.po | 
+ | [th](/f25/language/th) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/th.po | 
+ | [tr](/f25/language/tr) | 652 | 652 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/tr.po | 
+ | [ug](/f25/language/ug) | 301 | 301 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/ug.po | 
+ | [uk](/f25/language/uk) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/uk.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 647 | 647 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 460 | 460 | 100.0 | /mnt/stockage/packages/f25/gnome-documents/po/zh_HK.po | 
+ | [ro](/f25/language/ro) | 541 | 548 | 98.7 | /mnt/stockage/packages/f25/gnome-documents/po/ro.po | 
+ | [af](/f25/language/af) | 55 | 57 | 96.5 | /mnt/stockage/packages/f25/gnome-documents/po/af.po | 
+ | [bs](/f25/language/bs) | 528 | 549 | 96.2 | /mnt/stockage/packages/f25/gnome-documents/po/bs.po | 
+ | [sr](/f25/language/sr) | 3210 | 3404 | 94.3 | /mnt/stockage/packages/f25/gnome-documents/help/sr/sr.po/mnt/stockage/packages/f25/gnome-documents/help/sr@latin/sr@latin.po/mnt/stockage/packages/f25/gnome-documents/po/sr.po/mnt/stockage/packages/f25/gnome-documents/po/sr@latin.po | 
+ | [ru](/f25/language/ru) | 1600 | 1697 | 94.3 | /mnt/stockage/packages/f25/gnome-documents/help/ru/ru.po/mnt/stockage/packages/f25/gnome-documents/po/ru.po | 
+ | [ja](/f25/language/ja) | 1599 | 1696 | 94.3 | /mnt/stockage/packages/f25/gnome-documents/help/ja/ja.po/mnt/stockage/packages/f25/gnome-documents/po/ja.po | 
+ | [sl](/f25/language/sl) | 1571 | 1702 | 92.3 | /mnt/stockage/packages/f25/gnome-documents/help/sl/sl.po/mnt/stockage/packages/f25/gnome-documents/po/sl.po | 
+ | [gl](/f25/language/gl) | 1566 | 1697 | 92.3 | /mnt/stockage/packages/f25/gnome-documents/help/gl/gl.po/mnt/stockage/packages/f25/gnome-documents/po/gl.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 1566 | 1697 | 92.3 | /mnt/stockage/packages/f25/gnome-documents/help/zh_CN/zh_CN.po/mnt/stockage/packages/f25/gnome-documents/po/zh_CN.po | 
+ | [mr](/f25/language/mr) | 1379 | 1510 | 91.3 | /mnt/stockage/packages/f25/gnome-documents/help/mr/mr.po/mnt/stockage/packages/f25/gnome-documents/po/mr.po | 
+ | [ta](/f25/language/ta) | 1379 | 1510 | 91.3 | /mnt/stockage/packages/f25/gnome-documents/help/ta/ta.po/mnt/stockage/packages/f25/gnome-documents/po/ta.po | 
+ | [te](/f25/language/te) | 1379 | 1510 | 91.3 | /mnt/stockage/packages/f25/gnome-documents/help/te/te.po/mnt/stockage/packages/f25/gnome-documents/po/te.po | 
+ | [gu](/f25/language/gu) | 1220 | 1351 | 90.3 | /mnt/stockage/packages/f25/gnome-documents/help/gu/gu.po/mnt/stockage/packages/f25/gnome-documents/po/gu.po | 
+ | [oc](/f25/language/oc) | 583 | 646 | 90.2 | /mnt/stockage/packages/f25/gnome-documents/po/oc.po | 
+ | [as](/f25/language/as) | 1312 | 1510 | 86.9 | /mnt/stockage/packages/f25/gnome-documents/help/as/as.po/mnt/stockage/packages/f25/gnome-documents/po/as.po | 
+ | [ga](/f25/language/ga) | 434 | 544 | 79.8 | /mnt/stockage/packages/f25/gnome-documents/po/ga.po | 
+ | [eo](/f25/language/eo) | 359 | 549 | 65.4 | /mnt/stockage/packages/f25/gnome-documents/po/eo.po | 
+ | [ne](/f25/language/ne) | 238 | 460 | 51.7 | /mnt/stockage/packages/f25/gnome-documents/po/ne.po | 
+ | [is](/f25/language/is) | 312 | 647 | 48.2 | /mnt/stockage/packages/f25/gnome-documents/po/is.po | 
+ | [xh](/f25/language/xh) | 74 | 155 | 47.7 | /mnt/stockage/packages/f25/gnome-documents/po/xh.po | 
+ | [fi](/f25/language/fi) | 691 | 1702 | 40.6 | /mnt/stockage/packages/f25/gnome-documents/help/fi/fi.po/mnt/stockage/packages/f25/gnome-documents/po/fi.po | 
+ | [ca](/f25/language/ca) | 687 | 1697 | 40.5 | /mnt/stockage/packages/f25/gnome-documents/help/ca/ca.po/mnt/stockage/packages/f25/gnome-documents/po/ca.po | 
+ | [it](/f25/language/it) | 669 | 1697 | 39.4 | /mnt/stockage/packages/f25/gnome-documents/help/it/it.po/mnt/stockage/packages/f25/gnome-documents/po/it.po | 
+ | [nl](/f25/language/nl) | 647 | 1697 | 38.1 | /mnt/stockage/packages/f25/gnome-documents/help/nl/nl.po/mnt/stockage/packages/f25/gnome-documents/po/nl.po | 
+ | [vi](/f25/language/vi) | 572 | 1594 | 35.9 | /mnt/stockage/packages/f25/gnome-documents/help/vi/vi.po/mnt/stockage/packages/f25/gnome-documents/po/vi.po | 
+ | [pa](/f25/language/pa) | 553 | 1599 | 34.6 | /mnt/stockage/packages/f25/gnome-documents/help/pa/pa.po/mnt/stockage/packages/f25/gnome-documents/po/pa.po | 
+ | [kn](/f25/language/kn) | 483 | 1510 | 32.0 | /mnt/stockage/packages/f25/gnome-documents/help/kn/kn.po/mnt/stockage/packages/f25/gnome-documents/po/kn.po | 
+ | [hi](/f25/language/hi) | 460 | 1510 | 30.5 | /mnt/stockage/packages/f25/gnome-documents/help/hi/hi.po/mnt/stockage/packages/f25/gnome-documents/po/hi.po | 
+ | [tg](/f25/language/tg) | 84 | 301 | 27.9 | /mnt/stockage/packages/f25/gnome-documents/po/tg.po | 
 {.sortable}
 
 

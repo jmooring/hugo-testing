@@ -18,11 +18,11 @@ The package greylistd (version 0.8.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/cs.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/ja.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/nb.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/vi.po | 
+ | [cs](/f9/language/cs) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/cs.po | 
+ | [fr](/f9/language/fr) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/fr.po | 
+ | [ja](/f9/language/ja) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/ja.po | 
+ | [nb_NO](/f9/language/nb_NO) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/nb.po | 
+ | [vi](/f9/language/vi) | 350 | 350 | 100.0 | /mnt/stockage/packages/f9/greylistd/debian/po/vi.po | 
 {.sortable}
 
 

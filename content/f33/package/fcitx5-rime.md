@@ -18,17 +18,17 @@ The package fcitx5-rime (version 5.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 55 | 61 | 90.2 | /mnt/stockage/packages/f33/fcitx5-rime/po/zh_CN.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 50 | 61 | 82.0 | /mnt/stockage/packages/f33/fcitx5-rime/po/da.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 50 | 61 | 82.0 | /mnt/stockage/packages/f33/fcitx5-rime/po/ja.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 48 | 61 | 78.7 | /mnt/stockage/packages/f33/fcitx5-rime/po/zh_TW.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 41 | 61 | 67.2 | /mnt/stockage/packages/f33/fcitx5-rime/po/ko.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/ca.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/de.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/ru.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/tr.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/vi.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 1 | 61 | 1.6 | /mnt/stockage/packages/f33/fcitx5-rime/po/he.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 55 | 61 | 90.2 | /mnt/stockage/packages/f33/fcitx5-rime/po/zh_CN.po | 
+ | [da](/f33/language/da) | 50 | 61 | 82.0 | /mnt/stockage/packages/f33/fcitx5-rime/po/da.po | 
+ | [ja](/f33/language/ja) | 50 | 61 | 82.0 | /mnt/stockage/packages/f33/fcitx5-rime/po/ja.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 48 | 61 | 78.7 | /mnt/stockage/packages/f33/fcitx5-rime/po/zh_TW.po | 
+ | [ko](/f33/language/ko) | 41 | 61 | 67.2 | /mnt/stockage/packages/f33/fcitx5-rime/po/ko.po | 
+ | [ca](/f33/language/ca) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/ca.po | 
+ | [de](/f33/language/de) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/de.po | 
+ | [ru](/f33/language/ru) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/ru.po | 
+ | [tr](/f33/language/tr) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/tr.po | 
+ | [vi](/f33/language/vi) | 21 | 61 | 34.4 | /mnt/stockage/packages/f33/fcitx5-rime/po/vi.po | 
+ | [he](/f33/language/he) | 1 | 61 | 1.6 | /mnt/stockage/packages/f33/fcitx5-rime/po/he.po | 
 {.sortable}
 
 

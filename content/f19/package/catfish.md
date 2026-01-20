@@ -18,13 +18,13 @@ The package catfish (version 0.4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/fr.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 145 | 159 | 91.2 | /mnt/stockage/packages/f19/catfish/po/pl.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 128 | 159 | 80.5 | /mnt/stockage/packages/f19/catfish/po/be.po | 
+ | [cs](/f19/language/cs) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/cs.po | 
+ | [de](/f19/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/de.po | 
+ | [es](/f19/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/es.po | 
+ | [fi](/f19/language/fi) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/fi.po | 
+ | [fr](/f19/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f19/catfish/po/fr.po | 
+ | [pl](/f19/language/pl) | 145 | 159 | 91.2 | /mnt/stockage/packages/f19/catfish/po/pl.po | 
+ | [be](/f19/language/be) | 128 | 159 | 80.5 | /mnt/stockage/packages/f19/catfish/po/be.po | 
 {.sortable}
 
 

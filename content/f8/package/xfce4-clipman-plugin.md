@@ -18,16 +18,16 @@ The package xfce4-clipman-plugin (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/cs.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/fr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/de.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/hu.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 65 | 85 | 76.5 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/zh_TW.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 60 | 85 | 70.6 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/ca.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 60 | 85 | 70.6 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/ja.po | 
+ | [cs](/f8/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/cs.po | 
+ | [eu](/f8/language/eu) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/eu.po | 
+ | [fr](/f8/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/fr.po | 
+ | [de](/f8/language/de) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/de.po | 
+ | [hu](/f8/language/hu) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/hu.po | 
+ | [pl](/f8/language/pl) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 78 | 85 | 91.8 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/pt_BR.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 65 | 85 | 76.5 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/zh_TW.po | 
+ | [ca](/f8/language/ca) | 60 | 85 | 70.6 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/ca.po | 
+ | [ja](/f8/language/ja) | 60 | 85 | 70.6 | /mnt/stockage/packages/f8/xfce4-clipman-plugin/po/ja.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package libgnomekbd (version 2.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f7/libgnomekbd/po/bg.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f7/libgnomekbd/po/ja.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f7/libgnomekbd/po/nb.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 95 | 198 | 48.0 | /mnt/stockage/packages/f7/libgnomekbd/po/ru.po | 
+ | [bg](/f7/language/bg) | 233 | 233 | 100.0 | /mnt/stockage/packages/f7/libgnomekbd/po/bg.po | 
+ | [ja](/f7/language/ja) | 233 | 233 | 100.0 | /mnt/stockage/packages/f7/libgnomekbd/po/ja.po | 
+ | [nb_NO](/f7/language/nb_NO) | 233 | 233 | 100.0 | /mnt/stockage/packages/f7/libgnomekbd/po/nb.po | 
+ | [ru](/f7/language/ru) | 95 | 198 | 48.0 | /mnt/stockage/packages/f7/libgnomekbd/po/ru.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package lifeograph (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1506 | 1506 | 100.0 | /mnt/stockage/packages/f39/lifeograph/po/fr.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1463 | 1506 | 97.1 | /mnt/stockage/packages/f39/lifeograph/po/tr.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 736 | 1506 | 48.9 | /mnt/stockage/packages/f39/lifeograph/po/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 696 | 1506 | 46.2 | /mnt/stockage/packages/f39/lifeograph/po/it.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 654 | 1506 | 43.4 | /mnt/stockage/packages/f39/lifeograph/po/da.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 629 | 1506 | 41.8 | /mnt/stockage/packages/f39/lifeograph/po/zh_CN.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 589 | 1506 | 39.1 | /mnt/stockage/packages/f39/lifeograph/po/eu.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 588 | 1506 | 39.0 | /mnt/stockage/packages/f39/lifeograph/po/nl.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 514 | 1506 | 34.1 | /mnt/stockage/packages/f39/lifeograph/po/ja.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 422 | 1506 | 28.0 | /mnt/stockage/packages/f39/lifeograph/po/gl.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 402 | 1506 | 26.7 | /mnt/stockage/packages/f39/lifeograph/po/si.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 389 | 1506 | 25.8 | /mnt/stockage/packages/f39/lifeograph/po/es.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 351 | 1506 | 23.3 | /mnt/stockage/packages/f39/lifeograph/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 329 | 1506 | 21.8 | /mnt/stockage/packages/f39/lifeograph/po/sr.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 328 | 1506 | 21.8 | /mnt/stockage/packages/f39/lifeograph/po/cs.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 244 | 1506 | 16.2 | /mnt/stockage/packages/f39/lifeograph/po/hu.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 194 | 1506 | 12.9 | /mnt/stockage/packages/f39/lifeograph/po/pl.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 184 | 1506 | 12.2 | /mnt/stockage/packages/f39/lifeograph/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 184 | 1506 | 12.2 | /mnt/stockage/packages/f39/lifeograph/po/uk.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 172 | 1506 | 11.4 | /mnt/stockage/packages/f39/lifeograph/po/ro.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 162 | 1506 | 10.8 | /mnt/stockage/packages/f39/lifeograph/po/pt_BR.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 160 | 1506 | 10.6 | /mnt/stockage/packages/f39/lifeograph/po/ar.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 149 | 1506 | 9.9 | /mnt/stockage/packages/f39/lifeograph/po/he.po | 
+ | [fr](/f39/language/fr) | 1506 | 1506 | 100.0 | /mnt/stockage/packages/f39/lifeograph/po/fr.po | 
+ | [tr](/f39/language/tr) | 1463 | 1506 | 97.1 | /mnt/stockage/packages/f39/lifeograph/po/tr.po | 
+ | [de](/f39/language/de) | 736 | 1506 | 48.9 | /mnt/stockage/packages/f39/lifeograph/po/de.po | 
+ | [it](/f39/language/it) | 696 | 1506 | 46.2 | /mnt/stockage/packages/f39/lifeograph/po/it.po | 
+ | [da](/f39/language/da) | 654 | 1506 | 43.4 | /mnt/stockage/packages/f39/lifeograph/po/da.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 629 | 1506 | 41.8 | /mnt/stockage/packages/f39/lifeograph/po/zh_CN.po | 
+ | [eu](/f39/language/eu) | 589 | 1506 | 39.1 | /mnt/stockage/packages/f39/lifeograph/po/eu.po | 
+ | [nl](/f39/language/nl) | 588 | 1506 | 39.0 | /mnt/stockage/packages/f39/lifeograph/po/nl.po | 
+ | [ja](/f39/language/ja) | 514 | 1506 | 34.1 | /mnt/stockage/packages/f39/lifeograph/po/ja.po | 
+ | [gl](/f39/language/gl) | 422 | 1506 | 28.0 | /mnt/stockage/packages/f39/lifeograph/po/gl.po | 
+ | [si](/f39/language/si) | 402 | 1506 | 26.7 | /mnt/stockage/packages/f39/lifeograph/po/si.po | 
+ | [es](/f39/language/es) | 389 | 1506 | 25.8 | /mnt/stockage/packages/f39/lifeograph/po/es.po | 
+ | [ru](/f39/language/ru) | 351 | 1506 | 23.3 | /mnt/stockage/packages/f39/lifeograph/po/ru.po | 
+ | [sr](/f39/language/sr) | 329 | 1506 | 21.8 | /mnt/stockage/packages/f39/lifeograph/po/sr.po | 
+ | [cs](/f39/language/cs) | 328 | 1506 | 21.8 | /mnt/stockage/packages/f39/lifeograph/po/cs.po | 
+ | [hu](/f39/language/hu) | 244 | 1506 | 16.2 | /mnt/stockage/packages/f39/lifeograph/po/hu.po | 
+ | [pl](/f39/language/pl) | 194 | 1506 | 12.9 | /mnt/stockage/packages/f39/lifeograph/po/pl.po | 
+ | [sv](/f39/language/sv) | 184 | 1506 | 12.2 | /mnt/stockage/packages/f39/lifeograph/po/sv.po | 
+ | [uk](/f39/language/uk) | 184 | 1506 | 12.2 | /mnt/stockage/packages/f39/lifeograph/po/uk.po | 
+ | [ro](/f39/language/ro) | 172 | 1506 | 11.4 | /mnt/stockage/packages/f39/lifeograph/po/ro.po | 
+ | [pt_BR](/f39/language/pt_BR) | 162 | 1506 | 10.8 | /mnt/stockage/packages/f39/lifeograph/po/pt_BR.po | 
+ | [ar](/f39/language/ar) | 160 | 1506 | 10.6 | /mnt/stockage/packages/f39/lifeograph/po/ar.po | 
+ | [he](/f39/language/he) | 149 | 1506 | 9.9 | /mnt/stockage/packages/f39/lifeograph/po/he.po | 
 {.sortable}
 
 

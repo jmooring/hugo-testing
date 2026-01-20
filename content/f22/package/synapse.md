@@ -18,56 +18,56 @@ The package synapse (version 0.2.99.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 824 | 824 | 100.0 | /mnt/stockage/packages/f22/synapse/po/pl.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 821 | 824 | 99.6 | /mnt/stockage/packages/f22/synapse/po/es.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 800 | 824 | 97.1 | /mnt/stockage/packages/f22/synapse/po/sv.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 800 | 824 | 97.1 | /mnt/stockage/packages/f22/synapse/po/zh_CN.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 794 | 824 | 96.4 | /mnt/stockage/packages/f22/synapse/po/fr.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 780 | 824 | 94.7 | /mnt/stockage/packages/f22/synapse/po/ko.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 780 | 824 | 94.7 | /mnt/stockage/packages/f22/synapse/po/sr.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 779 | 824 | 94.5 | /mnt/stockage/packages/f22/synapse/po/id.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 761 | 824 | 92.4 | /mnt/stockage/packages/f22/synapse/po/pt_BR.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/de.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/gl.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/it.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/sl.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 741 | 824 | 89.9 | /mnt/stockage/packages/f22/synapse/po/cs.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 698 | 824 | 84.7 | /mnt/stockage/packages/f22/synapse/po/hr.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 698 | 824 | 84.7 | /mnt/stockage/packages/f22/synapse/po/pt.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 683 | 824 | 82.9 | /mnt/stockage/packages/f22/synapse/po/ca.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 618 | 824 | 75.0 | /mnt/stockage/packages/f22/synapse/po/fi.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 608 | 824 | 73.8 | /mnt/stockage/packages/f22/synapse/po/zh_TW.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 569 | 824 | 69.1 | /mnt/stockage/packages/f22/synapse/po/bg.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 567 | 824 | 68.8 | /mnt/stockage/packages/f22/synapse/po/ca@valencia.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 528 | 824 | 64.1 | /mnt/stockage/packages/f22/synapse/po/uk.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 497 | 824 | 60.3 | /mnt/stockage/packages/f22/synapse/po/eu.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 469 | 824 | 56.9 | /mnt/stockage/packages/f22/synapse/po/ar.po | 
- | [nds]({{< ref "/f22/language/nds.md" >}}) | 422 | 824 | 51.2 | /mnt/stockage/packages/f22/synapse/po/nds.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 414 | 824 | 50.2 | /mnt/stockage/packages/f22/synapse/po/nl.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 402 | 824 | 48.8 | /mnt/stockage/packages/f22/synapse/po/ml.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 368 | 824 | 44.7 | /mnt/stockage/packages/f22/synapse/po/nb.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 352 | 824 | 42.7 | /mnt/stockage/packages/f22/synapse/po/nn.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 328 | 824 | 39.8 | /mnt/stockage/packages/f22/synapse/po/oc.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 321 | 824 | 39.0 | /mnt/stockage/packages/f22/synapse/po/hu.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 304 | 824 | 36.9 | /mnt/stockage/packages/f22/synapse/po/et.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 266 | 824 | 32.3 | /mnt/stockage/packages/f22/synapse/po/ja.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 262 | 824 | 31.8 | /mnt/stockage/packages/f22/synapse/po/da.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 239 | 824 | 29.0 | /mnt/stockage/packages/f22/synapse/po/tr.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 215 | 824 | 26.1 | /mnt/stockage/packages/f22/synapse/po/lv.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 185 | 824 | 22.5 | /mnt/stockage/packages/f22/synapse/po/be.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 116 | 824 | 14.1 | /mnt/stockage/packages/f22/synapse/po/hi.po | 
- | [ka]({{< ref "/f22/language/ka.md" >}}) | 106 | 824 | 12.9 | /mnt/stockage/packages/f22/synapse/po/ka.po | 
- | [sw]({{< ref "/f22/language/sw.md" >}}) | 79 | 824 | 9.6 | /mnt/stockage/packages/f22/synapse/po/sw.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 67 | 824 | 8.1 | /mnt/stockage/packages/f22/synapse/po/en_GB.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 63 | 824 | 7.6 | /mnt/stockage/packages/f22/synapse/po/el.po | 
- | [la]({{< ref "/f22/language/la.md" >}}) | 61 | 824 | 7.4 | /mnt/stockage/packages/f22/synapse/po/la.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 21 | 824 | 2.5 | /mnt/stockage/packages/f22/synapse/po/te.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 12 | 824 | 1.5 | /mnt/stockage/packages/f22/synapse/po/ne.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 7 | 824 | 0.8 | /mnt/stockage/packages/f22/synapse/po/lt.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 2 | 824 | 0.2 | /mnt/stockage/packages/f22/synapse/po/eo.po | 
+ | [pl](/f22/language/pl) | 824 | 824 | 100.0 | /mnt/stockage/packages/f22/synapse/po/pl.po | 
+ | [es](/f22/language/es) | 821 | 824 | 99.6 | /mnt/stockage/packages/f22/synapse/po/es.po | 
+ | [sv](/f22/language/sv) | 800 | 824 | 97.1 | /mnt/stockage/packages/f22/synapse/po/sv.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 800 | 824 | 97.1 | /mnt/stockage/packages/f22/synapse/po/zh_CN.po | 
+ | [fr](/f22/language/fr) | 794 | 824 | 96.4 | /mnt/stockage/packages/f22/synapse/po/fr.po | 
+ | [ko](/f22/language/ko) | 780 | 824 | 94.7 | /mnt/stockage/packages/f22/synapse/po/ko.po | 
+ | [sr](/f22/language/sr) | 780 | 824 | 94.7 | /mnt/stockage/packages/f22/synapse/po/sr.po | 
+ | [id](/f22/language/id) | 779 | 824 | 94.5 | /mnt/stockage/packages/f22/synapse/po/id.po | 
+ | [pt_BR](/f22/language/pt_BR) | 761 | 824 | 92.4 | /mnt/stockage/packages/f22/synapse/po/pt_BR.po | 
+ | [de](/f22/language/de) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/de.po | 
+ | [gl](/f22/language/gl) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/gl.po | 
+ | [it](/f22/language/it) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/it.po | 
+ | [ro](/f22/language/ro) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/ro.po | 
+ | [ru](/f22/language/ru) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/ru.po | 
+ | [sk](/f22/language/sk) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/sk.po | 
+ | [sl](/f22/language/sl) | 751 | 824 | 91.1 | /mnt/stockage/packages/f22/synapse/po/sl.po | 
+ | [cs](/f22/language/cs) | 741 | 824 | 89.9 | /mnt/stockage/packages/f22/synapse/po/cs.po | 
+ | [hr](/f22/language/hr) | 698 | 824 | 84.7 | /mnt/stockage/packages/f22/synapse/po/hr.po | 
+ | [pt](/f22/language/pt) | 698 | 824 | 84.7 | /mnt/stockage/packages/f22/synapse/po/pt.po | 
+ | [ca](/f22/language/ca) | 683 | 824 | 82.9 | /mnt/stockage/packages/f22/synapse/po/ca.po | 
+ | [fi](/f22/language/fi) | 618 | 824 | 75.0 | /mnt/stockage/packages/f22/synapse/po/fi.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 608 | 824 | 73.8 | /mnt/stockage/packages/f22/synapse/po/zh_TW.po | 
+ | [bg](/f22/language/bg) | 569 | 824 | 69.1 | /mnt/stockage/packages/f22/synapse/po/bg.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 567 | 824 | 68.8 | /mnt/stockage/packages/f22/synapse/po/ca@valencia.po | 
+ | [uk](/f22/language/uk) | 528 | 824 | 64.1 | /mnt/stockage/packages/f22/synapse/po/uk.po | 
+ | [eu](/f22/language/eu) | 497 | 824 | 60.3 | /mnt/stockage/packages/f22/synapse/po/eu.po | 
+ | [ar](/f22/language/ar) | 469 | 824 | 56.9 | /mnt/stockage/packages/f22/synapse/po/ar.po | 
+ | [nds](/f22/language/nds) | 422 | 824 | 51.2 | /mnt/stockage/packages/f22/synapse/po/nds.po | 
+ | [nl](/f22/language/nl) | 414 | 824 | 50.2 | /mnt/stockage/packages/f22/synapse/po/nl.po | 
+ | [ml](/f22/language/ml) | 402 | 824 | 48.8 | /mnt/stockage/packages/f22/synapse/po/ml.po | 
+ | [nb_NO](/f22/language/nb_NO) | 368 | 824 | 44.7 | /mnt/stockage/packages/f22/synapse/po/nb.po | 
+ | [nn](/f22/language/nn) | 352 | 824 | 42.7 | /mnt/stockage/packages/f22/synapse/po/nn.po | 
+ | [oc](/f22/language/oc) | 328 | 824 | 39.8 | /mnt/stockage/packages/f22/synapse/po/oc.po | 
+ | [hu](/f22/language/hu) | 321 | 824 | 39.0 | /mnt/stockage/packages/f22/synapse/po/hu.po | 
+ | [et](/f22/language/et) | 304 | 824 | 36.9 | /mnt/stockage/packages/f22/synapse/po/et.po | 
+ | [ja](/f22/language/ja) | 266 | 824 | 32.3 | /mnt/stockage/packages/f22/synapse/po/ja.po | 
+ | [da](/f22/language/da) | 262 | 824 | 31.8 | /mnt/stockage/packages/f22/synapse/po/da.po | 
+ | [tr](/f22/language/tr) | 239 | 824 | 29.0 | /mnt/stockage/packages/f22/synapse/po/tr.po | 
+ | [lv](/f22/language/lv) | 215 | 824 | 26.1 | /mnt/stockage/packages/f22/synapse/po/lv.po | 
+ | [be](/f22/language/be) | 185 | 824 | 22.5 | /mnt/stockage/packages/f22/synapse/po/be.po | 
+ | [hi](/f22/language/hi) | 116 | 824 | 14.1 | /mnt/stockage/packages/f22/synapse/po/hi.po | 
+ | [ka](/f22/language/ka) | 106 | 824 | 12.9 | /mnt/stockage/packages/f22/synapse/po/ka.po | 
+ | [sw](/f22/language/sw) | 79 | 824 | 9.6 | /mnt/stockage/packages/f22/synapse/po/sw.po | 
+ | [en_GB](/f22/language/en_GB) | 67 | 824 | 8.1 | /mnt/stockage/packages/f22/synapse/po/en_GB.po | 
+ | [el](/f22/language/el) | 63 | 824 | 7.6 | /mnt/stockage/packages/f22/synapse/po/el.po | 
+ | [la](/f22/language/la) | 61 | 824 | 7.4 | /mnt/stockage/packages/f22/synapse/po/la.po | 
+ | [te](/f22/language/te) | 21 | 824 | 2.5 | /mnt/stockage/packages/f22/synapse/po/te.po | 
+ | [ne](/f22/language/ne) | 12 | 824 | 1.5 | /mnt/stockage/packages/f22/synapse/po/ne.po | 
+ | [lt](/f22/language/lt) | 7 | 824 | 0.8 | /mnt/stockage/packages/f22/synapse/po/lt.po | 
+ | [eo](/f22/language/eo) | 2 | 824 | 0.2 | /mnt/stockage/packages/f22/synapse/po/eo.po | 
 {.sortable}
 
 

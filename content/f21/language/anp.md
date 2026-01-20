@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dnf-plugin-system-upgrade]({{< ref "/f21/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 203 | 0.0 | Angika | 
- | [entangle]({{< ref "/f21/package/entangle.md" >}}) | 0 | 934 | 0.0 | Angika | 
+ | [dnf-plugin-system-upgrade](/f21/package/dnf-plugin-system-upgrade) | 0 | 203 | 0.0 | Angika | 
+ | [entangle](/f21/package/entangle) | 0 | 934 | 0.0 | Angika | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package gtkpod (version 0.99.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f8/language/it.md" >}}) | 7125 | 7125 | 100.0 | /mnt/stockage/packages/f8/gtkpod/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 6971 | 7011 | 99.4 | /mnt/stockage/packages/f8/gtkpod/po/es.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 5893 | 7011 | 84.1 | /mnt/stockage/packages/f8/gtkpod/po/sv.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 5882 | 7011 | 83.9 | /mnt/stockage/packages/f8/gtkpod/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 5877 | 7011 | 83.8 | /mnt/stockage/packages/f8/gtkpod/po/fr.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 5446 | 7011 | 77.7 | /mnt/stockage/packages/f8/gtkpod/po/he.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 4011 | 7011 | 57.2 | /mnt/stockage/packages/f8/gtkpod/po/ja.po | 
+ | [it](/f8/language/it) | 7125 | 7125 | 100.0 | /mnt/stockage/packages/f8/gtkpod/po/it.po | 
+ | [es](/f8/language/es) | 6971 | 7011 | 99.4 | /mnt/stockage/packages/f8/gtkpod/po/es.po | 
+ | [sv](/f8/language/sv) | 5893 | 7011 | 84.1 | /mnt/stockage/packages/f8/gtkpod/po/sv.po | 
+ | [de](/f8/language/de) | 5882 | 7011 | 83.9 | /mnt/stockage/packages/f8/gtkpod/po/de.po | 
+ | [fr](/f8/language/fr) | 5877 | 7011 | 83.8 | /mnt/stockage/packages/f8/gtkpod/po/fr.po | 
+ | [he](/f8/language/he) | 5446 | 7011 | 77.7 | /mnt/stockage/packages/f8/gtkpod/po/he.po | 
+ | [ja](/f8/language/ja) | 4011 | 7011 | 57.2 | /mnt/stockage/packages/f8/gtkpod/po/ja.po | 
 {.sortable}
 
 

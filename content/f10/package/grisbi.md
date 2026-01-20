@@ -18,18 +18,18 @@ The package grisbi (version 0.5.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/fr.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/pt_BR.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 5916 | 5926 | 99.8 | /mnt/stockage/packages/f10/grisbi/po/cs.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 5938 | 5949 | 99.8 | /mnt/stockage/packages/f10/grisbi/po/he.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 5907 | 5926 | 99.7 | /mnt/stockage/packages/f10/grisbi/po/zh_CN.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 5887 | 5926 | 99.3 | /mnt/stockage/packages/f10/grisbi/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 5886 | 5926 | 99.3 | /mnt/stockage/packages/f10/grisbi/po/pl.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 5580 | 5926 | 94.2 | /mnt/stockage/packages/f10/grisbi/po/ro.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 4716 | 5926 | 79.6 | /mnt/stockage/packages/f10/grisbi/po/it.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1100 | 5926 | 18.6 | /mnt/stockage/packages/f10/grisbi/po/ru.po | 
+ | [de](/f10/language/de) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/de.po | 
+ | [es](/f10/language/es) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/es.po | 
+ | [fr](/f10/language/fr) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/fr.po | 
+ | [pt_BR](/f10/language/pt_BR) | 5926 | 5926 | 100.0 | /mnt/stockage/packages/f10/grisbi/po/pt_BR.po | 
+ | [cs](/f10/language/cs) | 5916 | 5926 | 99.8 | /mnt/stockage/packages/f10/grisbi/po/cs.po | 
+ | [he](/f10/language/he) | 5938 | 5949 | 99.8 | /mnt/stockage/packages/f10/grisbi/po/he.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 5907 | 5926 | 99.7 | /mnt/stockage/packages/f10/grisbi/po/zh_CN.po | 
+ | [nl](/f10/language/nl) | 5887 | 5926 | 99.3 | /mnt/stockage/packages/f10/grisbi/po/nl.po | 
+ | [pl](/f10/language/pl) | 5886 | 5926 | 99.3 | /mnt/stockage/packages/f10/grisbi/po/pl.po | 
+ | [ro](/f10/language/ro) | 5580 | 5926 | 94.2 | /mnt/stockage/packages/f10/grisbi/po/ro.po | 
+ | [it](/f10/language/it) | 4716 | 5926 | 79.6 | /mnt/stockage/packages/f10/grisbi/po/it.po | 
+ | [ru](/f10/language/ru) | 1100 | 5926 | 18.6 | /mnt/stockage/packages/f10/grisbi/po/ru.po | 
 {.sortable}
 
 

@@ -18,33 +18,33 @@ The package scim (version 1.4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f13/language/as.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/as.po | 
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/bn_IN.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1165 | 1165 | 100.0 | /mnt/stockage/packages/f13/scim/po/ca.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/fr.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/gu.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/hi.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/ja.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/kn.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/ko.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/ml.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/mr.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/pa.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/ru.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/ta.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/te.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f13/scim/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/zh_TW.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1169 | 1173 | 99.7 | /mnt/stockage/packages/f13/scim/po/nl.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1159 | 1164 | 99.6 | /mnt/stockage/packages/f13/scim/po/cs.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1159 | 1164 | 99.6 | /mnt/stockage/packages/f13/scim/po/sv.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 1158 | 1164 | 99.5 | /mnt/stockage/packages/f13/scim/po/fi.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 540 | 1165 | 46.4 | /mnt/stockage/packages/f13/scim/po/sk.po | 
+ | [as](/f13/language/as) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/as.po | 
+ | [bn_IN](/f13/language/bn_IN) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/bn_IN.po | 
+ | [ca](/f13/language/ca) | 1165 | 1165 | 100.0 | /mnt/stockage/packages/f13/scim/po/ca.po | 
+ | [de](/f13/language/de) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/de.po | 
+ | [es](/f13/language/es) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/es.po | 
+ | [fr](/f13/language/fr) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/fr.po | 
+ | [gu](/f13/language/gu) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/gu.po | 
+ | [hi](/f13/language/hi) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/hi.po | 
+ | [it](/f13/language/it) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/it.po | 
+ | [ja](/f13/language/ja) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/ja.po | 
+ | [kn](/f13/language/kn) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/kn.po | 
+ | [ko](/f13/language/ko) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/ko.po | 
+ | [ml](/f13/language/ml) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/ml.po | 
+ | [mr](/f13/language/mr) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/mr.po | 
+ | [pa](/f13/language/pa) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/pa.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/ru.po | 
+ | [ta](/f13/language/ta) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/ta.po | 
+ | [te](/f13/language/te) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f13/scim/po/te.po | 
+ | [vi](/f13/language/vi) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f13/scim/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f13/scim/po/zh_TW.po | 
+ | [nl](/f13/language/nl) | 1169 | 1173 | 99.7 | /mnt/stockage/packages/f13/scim/po/nl.po | 
+ | [cs](/f13/language/cs) | 1159 | 1164 | 99.6 | /mnt/stockage/packages/f13/scim/po/cs.po | 
+ | [sv](/f13/language/sv) | 1159 | 1164 | 99.6 | /mnt/stockage/packages/f13/scim/po/sv.po | 
+ | [fi](/f13/language/fi) | 1158 | 1164 | 99.5 | /mnt/stockage/packages/f13/scim/po/fi.po | 
+ | [sk](/f13/language/sk) | 540 | 1165 | 46.4 | /mnt/stockage/packages/f13/scim/po/sk.po | 
 {.sortable}
 
 

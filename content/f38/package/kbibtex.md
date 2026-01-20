@@ -18,37 +18,37 @@ The package kbibtex (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/ca/kbibtex.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/ca@valencia/kbibtex.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/es/kbibtex.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/nl/kbibtex.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/sl/kbibtex.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/uk/kbibtex.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/de/kbibtex.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/en_GB/kbibtex.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/fi/kbibtex.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/fr/kbibtex.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/it/kbibtex.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/ko/kbibtex.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/pl/kbibtex.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/pt_BR/kbibtex.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2464 | 2476 | 99.5 | /mnt/stockage/packages/f38/kbibtex/po/ru/kbibtex.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2464 | 2476 | 99.5 | /mnt/stockage/packages/f38/kbibtex/po/sk/kbibtex.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2464 | 2476 | 99.5 | /mnt/stockage/packages/f38/kbibtex/po/sv/kbibtex.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 2460 | 2476 | 99.4 | /mnt/stockage/packages/f38/kbibtex/po/et/kbibtex.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 2460 | 2476 | 99.4 | /mnt/stockage/packages/f38/kbibtex/po/pt/kbibtex.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 2412 | 2476 | 97.4 | /mnt/stockage/packages/f38/kbibtex/po/gl/kbibtex.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2351 | 2476 | 95.0 | /mnt/stockage/packages/f38/kbibtex/po/tr/kbibtex.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 1892 | 2476 | 76.4 | /mnt/stockage/packages/f38/kbibtex/po/cs/kbibtex.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 1861 | 2476 | 75.2 | /mnt/stockage/packages/f38/kbibtex/po/bs/kbibtex.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 1550 | 2476 | 62.6 | /mnt/stockage/packages/f38/kbibtex/po/ka/kbibtex.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 1271 | 2476 | 51.3 | /mnt/stockage/packages/f38/kbibtex/po/nb/kbibtex.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 578 | 2476 | 23.3 | /mnt/stockage/packages/f38/kbibtex/po/zh_CN/kbibtex.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 424 | 2476 | 17.1 | /mnt/stockage/packages/f38/kbibtex/po/ia/kbibtex.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 175 | 2476 | 7.1 | /mnt/stockage/packages/f38/kbibtex/po/da/kbibtex.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 55 | 2476 | 2.2 | /mnt/stockage/packages/f38/kbibtex/po/hu/kbibtex.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 15 | 2476 | 0.6 | /mnt/stockage/packages/f38/kbibtex/po/lt/kbibtex.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 4 | 2476 | 0.2 | /mnt/stockage/packages/f38/kbibtex/po/ast/kbibtex.po | 
+ | [ca](/f38/language/ca) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/ca/kbibtex.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/ca@valencia/kbibtex.po | 
+ | [es](/f38/language/es) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/es/kbibtex.po | 
+ | [nl](/f38/language/nl) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/nl/kbibtex.po | 
+ | [sl](/f38/language/sl) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/sl/kbibtex.po | 
+ | [uk](/f38/language/uk) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f38/kbibtex/po/uk/kbibtex.po | 
+ | [de](/f38/language/de) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/de/kbibtex.po | 
+ | [en_GB](/f38/language/en_GB) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/en_GB/kbibtex.po | 
+ | [fi](/f38/language/fi) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/fi/kbibtex.po | 
+ | [fr](/f38/language/fr) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/fr/kbibtex.po | 
+ | [it](/f38/language/it) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/it/kbibtex.po | 
+ | [ko](/f38/language/ko) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/ko/kbibtex.po | 
+ | [pl](/f38/language/pl) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/pl/kbibtex.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2472 | 2476 | 99.8 | /mnt/stockage/packages/f38/kbibtex/po/pt_BR/kbibtex.po | 
+ | [ru](/f38/language/ru) | 2464 | 2476 | 99.5 | /mnt/stockage/packages/f38/kbibtex/po/ru/kbibtex.po | 
+ | [sk](/f38/language/sk) | 2464 | 2476 | 99.5 | /mnt/stockage/packages/f38/kbibtex/po/sk/kbibtex.po | 
+ | [sv](/f38/language/sv) | 2464 | 2476 | 99.5 | /mnt/stockage/packages/f38/kbibtex/po/sv/kbibtex.po | 
+ | [et](/f38/language/et) | 2460 | 2476 | 99.4 | /mnt/stockage/packages/f38/kbibtex/po/et/kbibtex.po | 
+ | [pt](/f38/language/pt) | 2460 | 2476 | 99.4 | /mnt/stockage/packages/f38/kbibtex/po/pt/kbibtex.po | 
+ | [gl](/f38/language/gl) | 2412 | 2476 | 97.4 | /mnt/stockage/packages/f38/kbibtex/po/gl/kbibtex.po | 
+ | [tr](/f38/language/tr) | 2351 | 2476 | 95.0 | /mnt/stockage/packages/f38/kbibtex/po/tr/kbibtex.po | 
+ | [cs](/f38/language/cs) | 1892 | 2476 | 76.4 | /mnt/stockage/packages/f38/kbibtex/po/cs/kbibtex.po | 
+ | [bs](/f38/language/bs) | 1861 | 2476 | 75.2 | /mnt/stockage/packages/f38/kbibtex/po/bs/kbibtex.po | 
+ | [ka](/f38/language/ka) | 1550 | 2476 | 62.6 | /mnt/stockage/packages/f38/kbibtex/po/ka/kbibtex.po | 
+ | [nb_NO](/f38/language/nb_NO) | 1271 | 2476 | 51.3 | /mnt/stockage/packages/f38/kbibtex/po/nb/kbibtex.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 578 | 2476 | 23.3 | /mnt/stockage/packages/f38/kbibtex/po/zh_CN/kbibtex.po | 
+ | [ia](/f38/language/ia) | 424 | 2476 | 17.1 | /mnt/stockage/packages/f38/kbibtex/po/ia/kbibtex.po | 
+ | [da](/f38/language/da) | 175 | 2476 | 7.1 | /mnt/stockage/packages/f38/kbibtex/po/da/kbibtex.po | 
+ | [hu](/f38/language/hu) | 55 | 2476 | 2.2 | /mnt/stockage/packages/f38/kbibtex/po/hu/kbibtex.po | 
+ | [lt](/f38/language/lt) | 15 | 2476 | 0.6 | /mnt/stockage/packages/f38/kbibtex/po/lt/kbibtex.po | 
+ | [ast](/f38/language/ast) | 4 | 2476 | 0.2 | /mnt/stockage/packages/f38/kbibtex/po/ast/kbibtex.po | 
 {.sortable}
 
 

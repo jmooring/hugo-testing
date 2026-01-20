@@ -18,9 +18,9 @@ The package pology (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 1577 | 9845 | 16.0 | /mnt/stockage/packages/f25/pology/po/pology/ca.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 719 | 9845 | 7.3 | /mnt/stockage/packages/f25/pology/po/pology/sr.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 57 | 9845 | 0.6 | /mnt/stockage/packages/f25/pology/po/pology/nds.po | 
+ | [ca](/f25/language/ca) | 1577 | 9845 | 16.0 | /mnt/stockage/packages/f25/pology/po/pology/ca.po | 
+ | [sr](/f25/language/sr) | 719 | 9845 | 7.3 | /mnt/stockage/packages/f25/pology/po/pology/sr.po | 
+ | [nds](/f25/language/nds) | 57 | 9845 | 0.6 | /mnt/stockage/packages/f25/pology/po/pology/nds.po | 
 {.sortable}
 
 

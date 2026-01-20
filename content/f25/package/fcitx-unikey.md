@@ -18,11 +18,11 @@ The package fcitx-unikey (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f25/fcitx-unikey/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f25/fcitx-unikey/po/zh_TW.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 86 | 91 | 94.5 | /mnt/stockage/packages/f25/fcitx-unikey/po/vi.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 55 | 91 | 60.4 | /mnt/stockage/packages/f25/fcitx-unikey/po/de.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 54 | 91 | 59.3 | /mnt/stockage/packages/f25/fcitx-unikey/po/ja.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 91 | 91 | 100.0 | /mnt/stockage/packages/f25/fcitx-unikey/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 91 | 91 | 100.0 | /mnt/stockage/packages/f25/fcitx-unikey/po/zh_TW.po | 
+ | [vi](/f25/language/vi) | 86 | 91 | 94.5 | /mnt/stockage/packages/f25/fcitx-unikey/po/vi.po | 
+ | [de](/f25/language/de) | 55 | 91 | 60.4 | /mnt/stockage/packages/f25/fcitx-unikey/po/de.po | 
+ | [ja](/f25/language/ja) | 54 | 91 | 59.3 | /mnt/stockage/packages/f25/fcitx-unikey/po/ja.po | 
 {.sortable}
 
 

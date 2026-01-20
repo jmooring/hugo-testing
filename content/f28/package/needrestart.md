@@ -18,8 +18,8 @@ The package needrestart (version 2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f28/needrestart/ex/debconf/po/de.po/mnt/stockage/packages/f28/needrestart/po/needrestart/de.po/mnt/stockage/packages/f28/needrestart/po/needrestart-notify/de.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f28/needrestart/ex/debconf/po/ru.po/mnt/stockage/packages/f28/needrestart/po/needrestart/ru.po/mnt/stockage/packages/f28/needrestart/po/needrestart-notify/ru.po | 
+ | [de](/f28/language/de) | 368 | 368 | 100.0 | /mnt/stockage/packages/f28/needrestart/ex/debconf/po/de.po/mnt/stockage/packages/f28/needrestart/po/needrestart/de.po/mnt/stockage/packages/f28/needrestart/po/needrestart-notify/de.po | 
+ | [ru](/f28/language/ru) | 368 | 368 | 100.0 | /mnt/stockage/packages/f28/needrestart/ex/debconf/po/ru.po/mnt/stockage/packages/f28/needrestart/po/needrestart/ru.po/mnt/stockage/packages/f28/needrestart/po/needrestart-notify/ru.po | 
 {.sortable}
 
 

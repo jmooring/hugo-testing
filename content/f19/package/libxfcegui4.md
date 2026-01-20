@@ -18,66 +18,66 @@ The package libxfcegui4 (version 4.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ar.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ast.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/be.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ca.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/eu.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/gl.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/he.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/hu.po | 
- | [hy]({{< ref "/f19/language/hy.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/hy.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/id.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/is.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ja.po | 
- | [kk]({{< ref "/f19/language/kk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/kk.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/lv.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/nl.po | 
- | [nn]({{< ref "/f19/language/nn.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/nn.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/pt_BR.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ro.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ru.po | 
- | [si]({{< ref "/f19/language/si.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/si.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/sk.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/sv.po | 
- | [tl]({{< ref "/f19/language/tl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/tl_PH.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/tr.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ug.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/uk.po | 
- | [ur]({{< ref "/f19/language/ur.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ur_PK.po/mnt/stockage/packages/f19/libxfcegui4/po/ur.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/zh_TW.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 137 | 139 | 98.6 | /mnt/stockage/packages/f19/libxfcegui4/po/sq.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 92 | 139 | 66.2 | /mnt/stockage/packages/f19/libxfcegui4/po/bn_IN.po | 
- | [am]({{< ref "/f19/language/am.md" >}}) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/am.po | 
- | [cy]({{< ref "/f19/language/cy.md" >}}) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/cy.po | 
- | [dz]({{< ref "/f19/language/dz.md" >}}) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/dz.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/eo.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/pa.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 78 | 139 | 56.1 | /mnt/stockage/packages/f19/libxfcegui4/po/fa.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 78 | 139 | 56.1 | /mnt/stockage/packages/f19/libxfcegui4/po/gu.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 78 | 139 | 56.1 | /mnt/stockage/packages/f19/libxfcegui4/po/mr.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 69 | 139 | 49.6 | /mnt/stockage/packages/f19/libxfcegui4/po/mk.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 62 | 139 | 44.6 | /mnt/stockage/packages/f19/libxfcegui4/po/hr.po | 
- | [ku]({{< ref "/f19/language/ku.md" >}}) | 50 | 139 | 36.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ku.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 40 | 139 | 28.8 | /mnt/stockage/packages/f19/libxfcegui4/po/te.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 38 | 139 | 27.3 | /mnt/stockage/packages/f19/libxfcegui4/po/ta.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 6 | 139 | 4.3 | /mnt/stockage/packages/f19/libxfcegui4/po/ka.po | 
+ | [ar](/f19/language/ar) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ar.po | 
+ | [ast](/f19/language/ast) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ast.po | 
+ | [be](/f19/language/be) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/be.po | 
+ | [ca](/f19/language/ca) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ca.po | 
+ | [cs](/f19/language/cs) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/cs.po | 
+ | [da](/f19/language/da) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/da.po | 
+ | [de](/f19/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/de.po | 
+ | [el](/f19/language/el) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/en_GB.po | 
+ | [es](/f19/language/es) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/es.po | 
+ | [et](/f19/language/et) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/et.po | 
+ | [eu](/f19/language/eu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/eu.po | 
+ | [fi](/f19/language/fi) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/fi.po | 
+ | [fr](/f19/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/fr.po | 
+ | [gl](/f19/language/gl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/gl.po | 
+ | [he](/f19/language/he) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/he.po | 
+ | [hu](/f19/language/hu) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/hu.po | 
+ | [hy](/f19/language/hy) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/hy.po | 
+ | [id](/f19/language/id) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/id.po | 
+ | [is](/f19/language/is) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/is.po | 
+ | [it](/f19/language/it) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/it.po | 
+ | [ja](/f19/language/ja) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ja.po | 
+ | [kk](/f19/language/kk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/kk.po | 
+ | [ko](/f19/language/ko) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ko.po | 
+ | [lt](/f19/language/lt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/lt.po | 
+ | [lv](/f19/language/lv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/lv.po | 
+ | [nb_NO](/f19/language/nb_NO) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/nb.po | 
+ | [nl](/f19/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/nl.po | 
+ | [nn](/f19/language/nn) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/nn.po | 
+ | [pl](/f19/language/pl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/pl.po | 
+ | [pt](/f19/language/pt) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/pt_BR.po | 
+ | [ro](/f19/language/ro) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ro.po | 
+ | [ru](/f19/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ru.po | 
+ | [si](/f19/language/si) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/si.po | 
+ | [sk](/f19/language/sk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/sk.po | 
+ | [sv](/f19/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/sv.po | 
+ | [tl](/f19/language/tl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/tl_PH.po | 
+ | [tr](/f19/language/tr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/tr.po | 
+ | [ug](/f19/language/ug) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ug.po | 
+ | [uk](/f19/language/uk) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/uk.po | 
+ | [ur](/f19/language/ur) | 278 | 278 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ur_PK.po/mnt/stockage/packages/f19/libxfcegui4/po/ur.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 139 | 139 | 100.0 | /mnt/stockage/packages/f19/libxfcegui4/po/zh_TW.po | 
+ | [sq](/f19/language/sq) | 137 | 139 | 98.6 | /mnt/stockage/packages/f19/libxfcegui4/po/sq.po | 
+ | [bn_IN](/f19/language/bn_IN) | 92 | 139 | 66.2 | /mnt/stockage/packages/f19/libxfcegui4/po/bn_IN.po | 
+ | [am](/f19/language/am) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/am.po | 
+ | [cy](/f19/language/cy) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/cy.po | 
+ | [dz](/f19/language/dz) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/dz.po | 
+ | [eo](/f19/language/eo) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/eo.po | 
+ | [pa](/f19/language/pa) | 81 | 139 | 58.3 | /mnt/stockage/packages/f19/libxfcegui4/po/pa.po | 
+ | [fa](/f19/language/fa) | 78 | 139 | 56.1 | /mnt/stockage/packages/f19/libxfcegui4/po/fa.po | 
+ | [gu](/f19/language/gu) | 78 | 139 | 56.1 | /mnt/stockage/packages/f19/libxfcegui4/po/gu.po | 
+ | [mr](/f19/language/mr) | 78 | 139 | 56.1 | /mnt/stockage/packages/f19/libxfcegui4/po/mr.po | 
+ | [mk](/f19/language/mk) | 69 | 139 | 49.6 | /mnt/stockage/packages/f19/libxfcegui4/po/mk.po | 
+ | [hr](/f19/language/hr) | 62 | 139 | 44.6 | /mnt/stockage/packages/f19/libxfcegui4/po/hr.po | 
+ | [ku](/f19/language/ku) | 50 | 139 | 36.0 | /mnt/stockage/packages/f19/libxfcegui4/po/ku.po | 
+ | [te](/f19/language/te) | 40 | 139 | 28.8 | /mnt/stockage/packages/f19/libxfcegui4/po/te.po | 
+ | [ta](/f19/language/ta) | 38 | 139 | 27.3 | /mnt/stockage/packages/f19/libxfcegui4/po/ta.po | 
+ | [ka](/f19/language/ka) | 6 | 139 | 4.3 | /mnt/stockage/packages/f19/libxfcegui4/po/ka.po | 
 {.sortable}
 
 

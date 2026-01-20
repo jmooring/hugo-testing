@@ -18,17 +18,17 @@ The package weechat (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 20363 | 20363 | 100.0 | /mnt/stockage/packages/f18/weechat/po/de.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 20363 | 20363 | 100.0 | /mnt/stockage/packages/f18/weechat/po/fr.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 20092 | 20363 | 98.7 | /mnt/stockage/packages/f18/weechat/po/pl.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 19962 | 20363 | 98.0 | /mnt/stockage/packages/f18/weechat/po/ja.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 16125 | 20363 | 79.2 | /mnt/stockage/packages/f18/weechat/po/it.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 13505 | 20363 | 66.3 | /mnt/stockage/packages/f18/weechat/po/es.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 9281 | 20363 | 45.6 | /mnt/stockage/packages/f18/weechat/po/cs.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 8208 | 20363 | 40.3 | /mnt/stockage/packages/f18/weechat/po/pt_BR.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 1002 | 20363 | 4.9 | /mnt/stockage/packages/f18/weechat/po/tr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 896 | 20363 | 4.4 | /mnt/stockage/packages/f18/weechat/po/ru.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 635 | 20363 | 3.1 | /mnt/stockage/packages/f18/weechat/po/hu.po | 
+ | [de](/f18/language/de) | 20363 | 20363 | 100.0 | /mnt/stockage/packages/f18/weechat/po/de.po | 
+ | [fr](/f18/language/fr) | 20363 | 20363 | 100.0 | /mnt/stockage/packages/f18/weechat/po/fr.po | 
+ | [pl](/f18/language/pl) | 20092 | 20363 | 98.7 | /mnt/stockage/packages/f18/weechat/po/pl.po | 
+ | [ja](/f18/language/ja) | 19962 | 20363 | 98.0 | /mnt/stockage/packages/f18/weechat/po/ja.po | 
+ | [it](/f18/language/it) | 16125 | 20363 | 79.2 | /mnt/stockage/packages/f18/weechat/po/it.po | 
+ | [es](/f18/language/es) | 13505 | 20363 | 66.3 | /mnt/stockage/packages/f18/weechat/po/es.po | 
+ | [cs](/f18/language/cs) | 9281 | 20363 | 45.6 | /mnt/stockage/packages/f18/weechat/po/cs.po | 
+ | [pt_BR](/f18/language/pt_BR) | 8208 | 20363 | 40.3 | /mnt/stockage/packages/f18/weechat/po/pt_BR.po | 
+ | [tr](/f18/language/tr) | 1002 | 20363 | 4.9 | /mnt/stockage/packages/f18/weechat/po/tr.po | 
+ | [ru](/f18/language/ru) | 896 | 20363 | 4.4 | /mnt/stockage/packages/f18/weechat/po/ru.po | 
+ | [hu](/f18/language/hu) | 635 | 20363 | 3.1 | /mnt/stockage/packages/f18/weechat/po/hu.po | 
 {.sortable}
 
 

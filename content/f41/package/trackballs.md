@@ -18,13 +18,13 @@ The package trackballs (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 1636 | 1641 | 99.7 | /mnt/stockage/packages/f41/trackballs/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1631 | 1636 | 99.7 | /mnt/stockage/packages/f41/trackballs/po/fr.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1631 | 1636 | 99.7 | /mnt/stockage/packages/f41/trackballs/po/nl.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 719 | 1641 | 43.8 | /mnt/stockage/packages/f41/trackballs/po/hu.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 695 | 1641 | 42.4 | /mnt/stockage/packages/f41/trackballs/po/sk.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 649 | 1641 | 39.5 | /mnt/stockage/packages/f41/trackballs/po/it.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 512 | 1641 | 31.2 | /mnt/stockage/packages/f41/trackballs/po/sv.po | 
+ | [de](/f41/language/de) | 1636 | 1641 | 99.7 | /mnt/stockage/packages/f41/trackballs/po/de.po | 
+ | [fr](/f41/language/fr) | 1631 | 1636 | 99.7 | /mnt/stockage/packages/f41/trackballs/po/fr.po | 
+ | [nl](/f41/language/nl) | 1631 | 1636 | 99.7 | /mnt/stockage/packages/f41/trackballs/po/nl.po | 
+ | [hu](/f41/language/hu) | 719 | 1641 | 43.8 | /mnt/stockage/packages/f41/trackballs/po/hu.po | 
+ | [sk](/f41/language/sk) | 695 | 1641 | 42.4 | /mnt/stockage/packages/f41/trackballs/po/sk.po | 
+ | [it](/f41/language/it) | 649 | 1641 | 39.5 | /mnt/stockage/packages/f41/trackballs/po/it.po | 
+ | [sv](/f41/language/sv) | 512 | 1641 | 31.2 | /mnt/stockage/packages/f41/trackballs/po/sv.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package cowbell (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f14/cowbell/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 642 | 646 | 99.4 | /mnt/stockage/packages/f14/cowbell/po/nb.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 462 | 646 | 71.5 | /mnt/stockage/packages/f14/cowbell/po/de.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 462 | 646 | 71.5 | /mnt/stockage/packages/f14/cowbell/po/pt_BR.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 458 | 646 | 70.9 | /mnt/stockage/packages/f14/cowbell/po/fr.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 273 | 646 | 42.3 | /mnt/stockage/packages/f14/cowbell/po/en_CA.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 273 | 646 | 42.3 | /mnt/stockage/packages/f14/cowbell/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 252 | 646 | 39.0 | /mnt/stockage/packages/f14/cowbell/po/fi.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 173 | 646 | 26.8 | /mnt/stockage/packages/f14/cowbell/po/ja.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 27 | 638 | 4.2 | /mnt/stockage/packages/f14/cowbell/po/oc.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 23 | 646 | 3.6 | /mnt/stockage/packages/f14/cowbell/po/tr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 0 | 646 | 0.0 | /mnt/stockage/packages/f14/cowbell/po/hu.po | 
+ | [sv](/f14/language/sv) | 603 | 603 | 100.0 | /mnt/stockage/packages/f14/cowbell/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 642 | 646 | 99.4 | /mnt/stockage/packages/f14/cowbell/po/nb.po | 
+ | [de](/f14/language/de) | 462 | 646 | 71.5 | /mnt/stockage/packages/f14/cowbell/po/de.po | 
+ | [pt_BR](/f14/language/pt_BR) | 462 | 646 | 71.5 | /mnt/stockage/packages/f14/cowbell/po/pt_BR.po | 
+ | [fr](/f14/language/fr) | 458 | 646 | 70.9 | /mnt/stockage/packages/f14/cowbell/po/fr.po | 
+ | [en_CA](/f14/language/en_CA) | 273 | 646 | 42.3 | /mnt/stockage/packages/f14/cowbell/po/en_CA.po | 
+ | [es](/f14/language/es) | 273 | 646 | 42.3 | /mnt/stockage/packages/f14/cowbell/po/es.po | 
+ | [fi](/f14/language/fi) | 252 | 646 | 39.0 | /mnt/stockage/packages/f14/cowbell/po/fi.po | 
+ | [ja](/f14/language/ja) | 173 | 646 | 26.8 | /mnt/stockage/packages/f14/cowbell/po/ja.po | 
+ | [oc](/f14/language/oc) | 27 | 638 | 4.2 | /mnt/stockage/packages/f14/cowbell/po/oc.po | 
+ | [tr](/f14/language/tr) | 23 | 646 | 3.6 | /mnt/stockage/packages/f14/cowbell/po/tr.po | 
+ | [hu](/f14/language/hu) | 0 | 646 | 0.0 | /mnt/stockage/packages/f14/cowbell/po/hu.po | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package php-horde-Horde-Cli (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ca/LC_MESSAGES/Horde_Cli.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/cs/LC_MESSAGES/Horde_Cli.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/da/LC_MESSAGES/Horde_Cli.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/de/LC_MESSAGES/Horde_Cli.po | 
- | [en]({{< ref "/f19/language/en.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/en/LC_MESSAGES/Horde_Cli.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/es/LC_MESSAGES/Horde_Cli.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/et/LC_MESSAGES/Horde_Cli.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/eu/LC_MESSAGES/Horde_Cli.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/fi/LC_MESSAGES/Horde_Cli.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/fr/LC_MESSAGES/Horde_Cli.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/hr/LC_MESSAGES/Horde_Cli.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/hu/LC_MESSAGES/Horde_Cli.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/it/LC_MESSAGES/Horde_Cli.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ja/LC_MESSAGES/Horde_Cli.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/lt/LC_MESSAGES/Horde_Cli.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/lv/LC_MESSAGES/Horde_Cli.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/nl/LC_MESSAGES/Horde_Cli.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/pt/LC_MESSAGES/Horde_Cli.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/pt_BR/LC_MESSAGES/Horde_Cli.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/sk/LC_MESSAGES/Horde_Cli.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/sl/LC_MESSAGES/Horde_Cli.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/tr/LC_MESSAGES/Horde_Cli.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/uk/LC_MESSAGES/Horde_Cli.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/zh_CN/LC_MESSAGES/Horde_Cli.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/zh_TW/LC_MESSAGES/Horde_Cli.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 8 | 11 | 72.7 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/pl/LC_MESSAGES/Horde_Cli.po | 
- | [km]({{< ref "/f19/language/km.md" >}}) | 6 | 11 | 54.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/km/LC_MESSAGES/Horde_Cli.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 6 | 11 | 54.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ru/LC_MESSAGES/Horde_Cli.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 5 | 11 | 45.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/el/LC_MESSAGES/Horde_Cli.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 5 | 11 | 45.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/fa/LC_MESSAGES/Horde_Cli.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 2 | 11 | 18.2 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/nb/LC_MESSAGES/Horde_Cli.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 2 | 11 | 18.2 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/sv/LC_MESSAGES/Horde_Cli.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ar/LC_MESSAGES/Horde_Cli.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/bg/LC_MESSAGES/Horde_Cli.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/bs/LC_MESSAGES/Horde_Cli.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/gl/LC_MESSAGES/Horde_Cli.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/he/LC_MESSAGES/Horde_Cli.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/id/LC_MESSAGES/Horde_Cli.po | 
- | [is]({{< ref "/f19/language/is.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/is/LC_MESSAGES/Horde_Cli.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ko/LC_MESSAGES/Horde_Cli.po | 
- | [mk]({{< ref "/f19/language/mk.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/mk/LC_MESSAGES/Horde_Cli.po | 
- | [nn]({{< ref "/f19/language/nn.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/nn/LC_MESSAGES/Horde_Cli.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ro/LC_MESSAGES/Horde_Cli.po | 
+ | [ca](/f19/language/ca) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ca/LC_MESSAGES/Horde_Cli.po | 
+ | [cs](/f19/language/cs) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/cs/LC_MESSAGES/Horde_Cli.po | 
+ | [da](/f19/language/da) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/da/LC_MESSAGES/Horde_Cli.po | 
+ | [de](/f19/language/de) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/de/LC_MESSAGES/Horde_Cli.po | 
+ | [en](/f19/language/en) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/en/LC_MESSAGES/Horde_Cli.po | 
+ | [es](/f19/language/es) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/es/LC_MESSAGES/Horde_Cli.po | 
+ | [et](/f19/language/et) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/et/LC_MESSAGES/Horde_Cli.po | 
+ | [eu](/f19/language/eu) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/eu/LC_MESSAGES/Horde_Cli.po | 
+ | [fi](/f19/language/fi) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/fi/LC_MESSAGES/Horde_Cli.po | 
+ | [fr](/f19/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/fr/LC_MESSAGES/Horde_Cli.po | 
+ | [hr](/f19/language/hr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/hr/LC_MESSAGES/Horde_Cli.po | 
+ | [hu](/f19/language/hu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/hu/LC_MESSAGES/Horde_Cli.po | 
+ | [it](/f19/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/it/LC_MESSAGES/Horde_Cli.po | 
+ | [ja](/f19/language/ja) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ja/LC_MESSAGES/Horde_Cli.po | 
+ | [lt](/f19/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/lt/LC_MESSAGES/Horde_Cli.po | 
+ | [lv](/f19/language/lv) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/lv/LC_MESSAGES/Horde_Cli.po | 
+ | [nl](/f19/language/nl) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/nl/LC_MESSAGES/Horde_Cli.po | 
+ | [pt](/f19/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/pt/LC_MESSAGES/Horde_Cli.po | 
+ | [pt_BR](/f19/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/pt_BR/LC_MESSAGES/Horde_Cli.po | 
+ | [sk](/f19/language/sk) | 16 | 16 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/sk/LC_MESSAGES/Horde_Cli.po | 
+ | [sl](/f19/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/sl/LC_MESSAGES/Horde_Cli.po | 
+ | [tr](/f19/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/tr/LC_MESSAGES/Horde_Cli.po | 
+ | [uk](/f19/language/uk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/uk/LC_MESSAGES/Horde_Cli.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/zh_CN/LC_MESSAGES/Horde_Cli.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 11 | 11 | 100.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/zh_TW/LC_MESSAGES/Horde_Cli.po | 
+ | [pl](/f19/language/pl) | 8 | 11 | 72.7 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/pl/LC_MESSAGES/Horde_Cli.po | 
+ | [km](/f19/language/km) | 6 | 11 | 54.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/km/LC_MESSAGES/Horde_Cli.po | 
+ | [ru](/f19/language/ru) | 6 | 11 | 54.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ru/LC_MESSAGES/Horde_Cli.po | 
+ | [el](/f19/language/el) | 5 | 11 | 45.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/el/LC_MESSAGES/Horde_Cli.po | 
+ | [fa](/f19/language/fa) | 5 | 11 | 45.5 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/fa/LC_MESSAGES/Horde_Cli.po | 
+ | [nb_NO](/f19/language/nb_NO) | 2 | 11 | 18.2 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/nb/LC_MESSAGES/Horde_Cli.po | 
+ | [sv](/f19/language/sv) | 2 | 11 | 18.2 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/sv/LC_MESSAGES/Horde_Cli.po | 
+ | [ar](/f19/language/ar) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ar/LC_MESSAGES/Horde_Cli.po | 
+ | [bg](/f19/language/bg) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/bg/LC_MESSAGES/Horde_Cli.po | 
+ | [bs](/f19/language/bs) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/bs/LC_MESSAGES/Horde_Cli.po | 
+ | [gl](/f19/language/gl) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/gl/LC_MESSAGES/Horde_Cli.po | 
+ | [he](/f19/language/he) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/he/LC_MESSAGES/Horde_Cli.po | 
+ | [id](/f19/language/id) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/id/LC_MESSAGES/Horde_Cli.po | 
+ | [is](/f19/language/is) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/is/LC_MESSAGES/Horde_Cli.po | 
+ | [ko](/f19/language/ko) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ko/LC_MESSAGES/Horde_Cli.po | 
+ | [mk](/f19/language/mk) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/mk/LC_MESSAGES/Horde_Cli.po | 
+ | [nn](/f19/language/nn) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/nn/LC_MESSAGES/Horde_Cli.po | 
+ | [ro](/f19/language/ro) | 0 | 11 | 0.0 | /mnt/stockage/packages/f19/php-horde-Horde-Cli/Horde_Cli-2.0.3/locale/ro/LC_MESSAGES/Horde_Cli.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package gphotoframe (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f28/language/it.md" >}}) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f28/gphotoframe/help/it/it.po/mnt/stockage/packages/f28/gphotoframe/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 3552 | 3552 | 100.0 | /mnt/stockage/packages/f28/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f28/gphotoframe/po/ja.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1214 | 1319 | 92.0 | /mnt/stockage/packages/f28/gphotoframe/po/uk.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 992 | 1322 | 75.0 | /mnt/stockage/packages/f28/gphotoframe/po/nl_NL.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 478 | 1319 | 36.2 | /mnt/stockage/packages/f28/gphotoframe/po/en_GB.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 319 | 1319 | 24.2 | /mnt/stockage/packages/f28/gphotoframe/po/sv.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 247 | 1319 | 18.7 | /mnt/stockage/packages/f28/gphotoframe/po/fr.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 234 | 1319 | 17.7 | /mnt/stockage/packages/f28/gphotoframe/po/es.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 43 | 1319 | 3.3 | /mnt/stockage/packages/f28/gphotoframe/po/te.po | 
+ | [it](/f28/language/it) | 3495 | 3495 | 100.0 | /mnt/stockage/packages/f28/gphotoframe/help/it/it.po/mnt/stockage/packages/f28/gphotoframe/po/it.po | 
+ | [ja](/f28/language/ja) | 3552 | 3552 | 100.0 | /mnt/stockage/packages/f28/gphotoframe/help/ja/ja.po/mnt/stockage/packages/f28/gphotoframe/po/ja.po | 
+ | [uk](/f28/language/uk) | 1214 | 1319 | 92.0 | /mnt/stockage/packages/f28/gphotoframe/po/uk.po | 
+ | [nl](/f28/language/nl) | 992 | 1322 | 75.0 | /mnt/stockage/packages/f28/gphotoframe/po/nl_NL.po | 
+ | [en_GB](/f28/language/en_GB) | 478 | 1319 | 36.2 | /mnt/stockage/packages/f28/gphotoframe/po/en_GB.po | 
+ | [sv](/f28/language/sv) | 319 | 1319 | 24.2 | /mnt/stockage/packages/f28/gphotoframe/po/sv.po | 
+ | [fr](/f28/language/fr) | 247 | 1319 | 18.7 | /mnt/stockage/packages/f28/gphotoframe/po/fr.po | 
+ | [es](/f28/language/es) | 234 | 1319 | 17.7 | /mnt/stockage/packages/f28/gphotoframe/po/es.po | 
+ | [te](/f28/language/te) | 43 | 1319 | 3.3 | /mnt/stockage/packages/f28/gphotoframe/po/te.po | 
 {.sortable}
 
 

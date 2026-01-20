@@ -38,152 +38,152 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abattis-cantarell-fonts]({{< ref "/f35/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 |  | 
- | [cheese]({{< ref "/f35/package/cheese.md" >}}) | 628 | 628 | 100.0 | Saikeo (kavhanxay@hotmail.com) | 
- | [filezilla]({{< ref "/f35/package/filezilla.md" >}}) | 7101 | 7101 | 100.0 |  | 
- | [gnome-desktop3]({{< ref "/f35/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Lao <lo@li.org> | 
- | [gnome-menus]({{< ref "/f35/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Lao <lo@li.org> | 
- | [gnome-sudoku]({{< ref "/f35/package/gnome-sudoku.md" >}}) | 399 | 399 | 100.0 |  | 
- | [libfilezilla]({{< ref "/f35/package/libfilezilla.md" >}}) | 125 | 125 | 100.0 |  | 
- | [mousetweaks]({{< ref "/f35/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 |  | 
- | [polari]({{< ref "/f35/package/polari.md" >}}) | 867 | 867 | 100.0 |  | 
- | [trytond-account]({{< ref "/f35/package/trytond-account.md" >}}) | 2743 | 2743 | 100.0 |  | 
- | [trytond-account-invoice-history]({{< ref "/f35/package/trytond-account-invoice-history.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-account-invoice-line-standalone]({{< ref "/f35/package/trytond-account-invoice-line-standalone.md" >}}) | 10 | 10 | 100.0 |  | 
- | [trytond-analytic-invoice]({{< ref "/f35/package/trytond-analytic-invoice.md" >}}) | 13 | 13 | 100.0 |  | 
- | [trytond-analytic-purchase]({{< ref "/f35/package/trytond-analytic-purchase.md" >}}) | 22 | 22 | 100.0 |  | 
- | [trytond-analytic-sale]({{< ref "/f35/package/trytond-analytic-sale.md" >}}) | 13 | 13 | 100.0 |  | 
- | [trytond-company]({{< ref "/f35/package/trytond-company.md" >}}) | 118 | 118 | 100.0 |  | 
- | [trytond-company-work-time]({{< ref "/f35/package/trytond-company-work-time.md" >}}) | 18 | 18 | 100.0 |  | 
- | [trytond-dashboard]({{< ref "/f35/package/trytond-dashboard.md" >}}) | 35 | 35 | 100.0 |  | 
- | [trytond-google-maps]({{< ref "/f35/package/trytond-google-maps.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-ldap-authentication]({{< ref "/f35/package/trytond-ldap-authentication.md" >}}) | 10 | 10 | 100.0 |  | 
- | [trytond-party]({{< ref "/f35/package/trytond-party.md" >}}) | 268 | 268 | 100.0 |  | 
- | [trytond-stock-inventory-location]({{< ref "/f35/package/trytond-stock-inventory-location.md" >}}) | 17 | 17 | 100.0 |  | 
- | [trytond-stock-location-sequence]({{< ref "/f35/package/trytond-stock-location-sequence.md" >}}) | 1 | 1 | 100.0 |  | 
- | [trytond-timesheet]({{< ref "/f35/package/trytond-timesheet.md" >}}) | 278 | 278 | 100.0 |  | 
- | [console-setup]({{< ref "/f35/package/console-setup.md" >}}) | 944 | 984 | 95.9 | Lao <lo@li.org> | 
- | [cinnamon-desktop]({{< ref "/f35/package/cinnamon-desktop.md" >}}) | 207 | 234 | 88.5 | Lao <lo@li.org> | 
- | [trytond-product]({{< ref "/f35/package/trytond-product.md" >}}) | 308 | 375 | 82.1 |  | 
- | [tryton]({{< ref "/f35/package/tryton.md" >}}) | 631 | 835 | 75.6 |  | 
- | [koffice-kivio]({{< ref "/f35/package/koffice-kivio.md" >}}) | 2000 | 8417 | 23.8 | Vilaphone Manivanh <en@li.org> | 
- | [blueberry]({{< ref "/f35/package/blueberry.md" >}}) | 32 | 166 | 19.3 | Lao <lo@li.org> | 
- | [trytond-account-invoice]({{< ref "/f35/package/trytond-account-invoice.md" >}}) | 189 | 1028 | 18.4 |  | 
- | [maliit-keyboard]({{< ref "/f35/package/maliit-keyboard.md" >}}) | 12 | 81 | 14.8 | Lao <lo@li.org> | 
- | [cinnamon-translations]({{< ref "/f35/package/cinnamon-translations.md" >}}) | 2788 | 19139 | 14.6 | Lao <lo@li.org> | 
- | [nemo-extensions]({{< ref "/f35/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Lao <lo@li.org> | 
- | [trytond-purchase]({{< ref "/f35/package/trytond-purchase.md" >}}) | 65 | 571 | 11.4 |  | 
- | [clamtk]({{< ref "/f35/package/clamtk.md" >}}) | 46 | 464 | 9.9 | Lao <lo@li.org> | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 96 | 982 | 9.8 | Lao <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/lo/> | 
- | [trytond-country]({{< ref "/f35/package/trytond-country.md" >}}) | 721 | 7539 | 9.6 |  | 
- | [trytond-stock]({{< ref "/f35/package/trytond-stock.md" >}}) | 102 | 1203 | 8.5 |  | 
- | [mate-desktop]({{< ref "/f35/package/mate-desktop.md" >}}) | 165 | 2376 | 6.9 | Lao (https://www.transifex.com/mate/teams/13566/lo/) | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 45882 | 696478 | 6.6 | LANGUAGE <LL@li.org> | 
- | [trytond-currency]({{< ref "/f35/package/trytond-currency.md" >}}) | 15 | 469 | 3.2 |  | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 6 | 308 | 1.9 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
- | [trytond]({{< ref "/f35/package/trytond.md" >}}) | 47 | 2648 | 1.8 |  | 
- | [mate-session-manager]({{< ref "/f35/package/mate-session-manager.md" >}}) | 8 | 715 | 1.1 | Lao (https://www.transifex.com/mate/teams/13566/lo/) | 
- | [mate-control-center]({{< ref "/f35/package/mate-control-center.md" >}}) | 24 | 3326 | 0.7 | Lao (https://www.transifex.com/mate/teams/13566/lo/) | 
- | [trytond-account-product]({{< ref "/f35/package/trytond-account-product.md" >}}) | 1 | 296 | 0.3 |  | 
- | [android-tools]({{< ref "/f35/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
- | [bookworm]({{< ref "/f35/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [calamares]({{< ref "/f35/package/calamares.md" >}}) | 0 | 490 | 0.0 | Lao (https://www.transifex.com/calamares/teams/20061/lo/) | 
- | [cinnamon-control-center]({{< ref "/f35/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 | none | 
- | [coin]({{< ref "/f35/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f35/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f35/package/elementary-capnet-assist.md" >}}) | 0 | 90 | 0.0 | none | 
- | [elementary-code]({{< ref "/f35/package/elementary-code.md" >}}) | 0 | 1608 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f35/package/elementary-files.md" >}}) | 0 | 3669 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f35/package/elementary-greeter.md" >}}) | 0 | 219 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f35/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f35/package/elementary-mail.md" >}}) | 0 | 658 | 0.0 |  | 
- | [elementary-music]({{< ref "/f35/package/elementary-music.md" >}}) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f35/package/elementary-notifications.md" >}}) | 0 | 50 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f35/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f35/package/elementary-screenshot-tool.md" >}}) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f35/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f35/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f35/package/elementary-sideload.md" >}}) | 0 | 319 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f35/package/elementary-tasks.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-terminal]({{< ref "/f35/package/elementary-terminal.md" >}}) | 0 | 696 | 0.0 |  | 
- | [elementary-theme]({{< ref "/f35/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [elementary-videos]({{< ref "/f35/package/elementary-videos.md" >}}) | 0 | 391 | 0.0 |  | 
- | [feedreader]({{< ref "/f35/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [gala]({{< ref "/f35/package/gala.md" >}}) | 0 | 358 | 0.0 | none | 
- | [gnome-control-center]({{< ref "/f35/package/gnome-control-center.md" >}}) | 0 | 1313 | 0.0 | none | 
- | [granite]({{< ref "/f35/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f35/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [imsettings]({{< ref "/f35/package/imsettings.md" >}}) | 0 | 490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f35/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/) | 
- | [libmatekbd]({{< ref "/f35/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
- | [libuser]({{< ref "/f35/package/libuser.md" >}}) | 0 | 1140 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lightdm]({{< ref "/f35/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Lao <lo@li.org> | 
- | [mate-themes]({{< ref "/f35/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
- | [nutty]({{< ref "/f35/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [onboard]({{< ref "/f35/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Lao <lo@li.org> | 
- | [optimizer]({{< ref "/f35/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f35/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f35/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
- | [passwd]({{< ref "/f35/package/passwd.md" >}}) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f35/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
- | [pyhoca-gui]({{< ref "/f35/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f35/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-meh]({{< ref "/f35/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Lao (http://www.transifex.com/projects/p/python-meh/language/lo/) | 
- | [python-postorius]({{< ref "/f35/package/python-postorius.md" >}}) | 0 | 4999 | 0.0 | LANGUAGE <LL@li.org> | 
- | [redhat-menus]({{< ref "/f35/package/redhat-menus.md" >}}) | 0 | 261 | 0.0 | none | 
- | [setuptool]({{< ref "/f35/package/setuptool.md" >}}) | 0 | 55 | 0.0 | none | 
- | [slick-greeter]({{< ref "/f35/package/slick-greeter.md" >}}) | 0 | 211 | 0.0 | Lao <lo@li.org> | 
- | [snapper]({{< ref "/f35/package/snapper.md" >}}) | 0 | 1095 | 0.0 | Lao <i18n@suse.de> | 
- | [sos]({{< ref "/f35/package/sos.md" >}}) | 0 | 122 | 0.0 | none | 
- | [switchboard]({{< ref "/f35/package/switchboard.md" >}}) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f35/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f35/package/switchboard-plug-about.md" >}}) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f35/package/switchboard-plug-applications.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f35/package/switchboard-plug-bluetooth.md" >}}) | 0 | 206 | 0.0 | Lao <lo@li.org> | 
- | [switchboard-plug-display]({{< ref "/f35/package/switchboard-plug-display.md" >}}) | 0 | 182 | 0.0 | Lao <lo@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f35/package/switchboard-plug-keyboard.md" >}}) | 0 | 636 | 0.0 |  | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f35/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 282 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f35/package/switchboard-plug-networking.md" >}}) | 0 | 532 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f35/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f35/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f35/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 349 | 0.0 | Lao <lo@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f35/package/switchboard-plug-printers.md" >}}) | 0 | 406 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f35/package/switchboard-plug-sharing.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f35/package/switchboard-plug-sound.md" >}}) | 0 | 193 | 0.0 |  | 
- | [switchdesk]({{< ref "/f35/package/switchdesk.md" >}}) | 0 | 122 | 0.0 | none | 
- | [system-config-rootpassword]({{< ref "/f35/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-switch-mail]({{< ref "/f35/package/system-switch-mail.md" >}}) | 0 | 101 | 0.0 | none | 
- | [taxi]({{< ref "/f35/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [trytond-account-statement]({{< ref "/f35/package/trytond-account-statement.md" >}}) | 0 | 231 | 0.0 |  | 
- | [trytond-account-stock-anglo-saxon]({{< ref "/f35/package/trytond-account-stock-anglo-saxon.md" >}}) | 0 | 74 | 0.0 |  | 
- | [trytond-account-stock-continental]({{< ref "/f35/package/trytond-account-stock-continental.md" >}}) | 0 | 325 | 0.0 |  | 
- | [trytond-analytic-account]({{< ref "/f35/package/trytond-analytic-account.md" >}}) | 0 | 184 | 0.0 |  | 
- | [trytond-party-siret]({{< ref "/f35/package/trytond-party-siret.md" >}}) | 0 | 18 | 0.0 |  | 
- | [trytond-product-cost-fifo]({{< ref "/f35/package/trytond-product-cost-fifo.md" >}}) | 0 | 24 | 0.0 |  | 
- | [trytond-product-cost-history]({{< ref "/f35/package/trytond-product-cost-history.md" >}}) | 0 | 27 | 0.0 |  | 
- | [trytond-product-price-list]({{< ref "/f35/package/trytond-product-price-list.md" >}}) | 0 | 74 | 0.0 |  | 
- | [trytond-project]({{< ref "/f35/package/trytond-project.md" >}}) | 0 | 143 | 0.0 |  | 
- | [trytond-project-plan]({{< ref "/f35/package/trytond-project-plan.md" >}}) | 0 | 83 | 0.0 |  | 
- | [trytond-project-revenue]({{< ref "/f35/package/trytond-project-revenue.md" >}}) | 0 | 12 | 0.0 |  | 
- | [trytond-purchase-invoice-line-standalone]({{< ref "/f35/package/trytond-purchase-invoice-line-standalone.md" >}}) | 0 | 51 | 0.0 |  | 
- | [trytond-sale]({{< ref "/f35/package/trytond-sale.md" >}}) | 0 | 536 | 0.0 |  | 
- | [trytond-sale-opportunity]({{< ref "/f35/package/trytond-sale-opportunity.md" >}}) | 0 | 320 | 0.0 |  | 
- | [trytond-sale-price-list]({{< ref "/f35/package/trytond-sale-price-list.md" >}}) | 0 | 5 | 0.0 |  | 
- | [trytond-stock-forecast]({{< ref "/f35/package/trytond-stock-forecast.md" >}}) | 0 | 174 | 0.0 |  | 
- | [trytond-stock-product-location]({{< ref "/f35/package/trytond-stock-product-location.md" >}}) | 0 | 23 | 0.0 |  | 
- | [trytond-stock-supply]({{< ref "/f35/package/trytond-stock-supply.md" >}}) | 0 | 147 | 0.0 |  | 
- | [trytond-stock-supply-day]({{< ref "/f35/package/trytond-stock-supply-day.md" >}}) | 0 | 27 | 0.0 |  | 
- | [wingpanel]({{< ref "/f35/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f35/package/wingpanel-applications-menu.md" >}}) | 0 | 415 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f35/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f35/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f35/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f35/package/wingpanel-indicator-network.md" >}}) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f35/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f35/package/wingpanel-indicator-notifications.md" >}}) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f35/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f35/package/wingpanel-indicator-session.md" >}}) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f35/package/wingpanel-indicator-sound.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [abattis-cantarell-fonts](/f35/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 |  | 
+ | [cheese](/f35/package/cheese) | 628 | 628 | 100.0 | Saikeo (kavhanxay@hotmail.com) | 
+ | [filezilla](/f35/package/filezilla) | 7101 | 7101 | 100.0 |  | 
+ | [gnome-desktop3](/f35/package/gnome-desktop3) | 146 | 146 | 100.0 | Lao <lo@li.org> | 
+ | [gnome-menus](/f35/package/gnome-menus) | 70 | 70 | 100.0 | Lao <lo@li.org> | 
+ | [gnome-sudoku](/f35/package/gnome-sudoku) | 399 | 399 | 100.0 |  | 
+ | [libfilezilla](/f35/package/libfilezilla) | 125 | 125 | 100.0 |  | 
+ | [mousetweaks](/f35/package/mousetweaks) | 114 | 114 | 100.0 |  | 
+ | [polari](/f35/package/polari) | 867 | 867 | 100.0 |  | 
+ | [trytond-account](/f35/package/trytond-account) | 2743 | 2743 | 100.0 |  | 
+ | [trytond-account-invoice-history](/f35/package/trytond-account-invoice-history) | 2 | 2 | 100.0 |  | 
+ | [trytond-account-invoice-line-standalone](/f35/package/trytond-account-invoice-line-standalone) | 10 | 10 | 100.0 |  | 
+ | [trytond-analytic-invoice](/f35/package/trytond-analytic-invoice) | 13 | 13 | 100.0 |  | 
+ | [trytond-analytic-purchase](/f35/package/trytond-analytic-purchase) | 22 | 22 | 100.0 |  | 
+ | [trytond-analytic-sale](/f35/package/trytond-analytic-sale) | 13 | 13 | 100.0 |  | 
+ | [trytond-company](/f35/package/trytond-company) | 118 | 118 | 100.0 |  | 
+ | [trytond-company-work-time](/f35/package/trytond-company-work-time) | 18 | 18 | 100.0 |  | 
+ | [trytond-dashboard](/f35/package/trytond-dashboard) | 35 | 35 | 100.0 |  | 
+ | [trytond-google-maps](/f35/package/trytond-google-maps) | 2 | 2 | 100.0 |  | 
+ | [trytond-ldap-authentication](/f35/package/trytond-ldap-authentication) | 10 | 10 | 100.0 |  | 
+ | [trytond-party](/f35/package/trytond-party) | 268 | 268 | 100.0 |  | 
+ | [trytond-stock-inventory-location](/f35/package/trytond-stock-inventory-location) | 17 | 17 | 100.0 |  | 
+ | [trytond-stock-location-sequence](/f35/package/trytond-stock-location-sequence) | 1 | 1 | 100.0 |  | 
+ | [trytond-timesheet](/f35/package/trytond-timesheet) | 278 | 278 | 100.0 |  | 
+ | [console-setup](/f35/package/console-setup) | 944 | 984 | 95.9 | Lao <lo@li.org> | 
+ | [cinnamon-desktop](/f35/package/cinnamon-desktop) | 207 | 234 | 88.5 | Lao <lo@li.org> | 
+ | [trytond-product](/f35/package/trytond-product) | 308 | 375 | 82.1 |  | 
+ | [tryton](/f35/package/tryton) | 631 | 835 | 75.6 |  | 
+ | [koffice-kivio](/f35/package/koffice-kivio) | 2000 | 8417 | 23.8 | Vilaphone Manivanh <en@li.org> | 
+ | [blueberry](/f35/package/blueberry) | 32 | 166 | 19.3 | Lao <lo@li.org> | 
+ | [trytond-account-invoice](/f35/package/trytond-account-invoice) | 189 | 1028 | 18.4 |  | 
+ | [maliit-keyboard](/f35/package/maliit-keyboard) | 12 | 81 | 14.8 | Lao <lo@li.org> | 
+ | [cinnamon-translations](/f35/package/cinnamon-translations) | 2788 | 19139 | 14.6 | Lao <lo@li.org> | 
+ | [nemo-extensions](/f35/package/nemo-extensions) | 1 | 8 | 12.5 | Lao <lo@li.org> | 
+ | [trytond-purchase](/f35/package/trytond-purchase) | 65 | 571 | 11.4 |  | 
+ | [clamtk](/f35/package/clamtk) | 46 | 464 | 9.9 | Lao <lo@li.org> | 
+ | [iso-codes](/f35/package/iso-codes) | 96 | 982 | 9.8 | Lao <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/lo/> | 
+ | [trytond-country](/f35/package/trytond-country) | 721 | 7539 | 9.6 |  | 
+ | [trytond-stock](/f35/package/trytond-stock) | 102 | 1203 | 8.5 |  | 
+ | [mate-desktop](/f35/package/mate-desktop) | 165 | 2376 | 6.9 | Lao (https://www.transifex.com/mate/teams/13566/lo/) | 
+ | [libreoffice](/f35/package/libreoffice) | 45882 | 696478 | 6.6 | LANGUAGE <LL@li.org> | 
+ | [trytond-currency](/f35/package/trytond-currency) | 15 | 469 | 3.2 |  | 
+ | [mate-menu](/f35/package/mate-menu) | 6 | 308 | 1.9 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
+ | [trytond](/f35/package/trytond) | 47 | 2648 | 1.8 |  | 
+ | [mate-session-manager](/f35/package/mate-session-manager) | 8 | 715 | 1.1 | Lao (https://www.transifex.com/mate/teams/13566/lo/) | 
+ | [mate-control-center](/f35/package/mate-control-center) | 24 | 3326 | 0.7 | Lao (https://www.transifex.com/mate/teams/13566/lo/) | 
+ | [trytond-account-product](/f35/package/trytond-account-product) | 1 | 296 | 0.3 |  | 
+ | [android-tools](/f35/package/android-tools) | 0 | 7678 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
+ | [bookworm](/f35/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [calamares](/f35/package/calamares) | 0 | 490 | 0.0 | Lao (https://www.transifex.com/calamares/teams/20061/lo/) | 
+ | [cinnamon-control-center](/f35/package/cinnamon-control-center) | 0 | 1313 | 0.0 | none | 
+ | [coin](/f35/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f35/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [elementary-capnet-assist](/f35/package/elementary-capnet-assist) | 0 | 90 | 0.0 | none | 
+ | [elementary-code](/f35/package/elementary-code) | 0 | 1608 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f35/package/elementary-files) | 0 | 3669 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f35/package/elementary-greeter) | 0 | 219 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f35/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-mail](/f35/package/elementary-mail) | 0 | 658 | 0.0 |  | 
+ | [elementary-music](/f35/package/elementary-music) | 0 | 1205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f35/package/elementary-notifications) | 0 | 50 | 0.0 | none | 
+ | [elementary-photos](/f35/package/elementary-photos) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f35/package/elementary-screenshot-tool) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f35/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f35/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-sideload](/f35/package/elementary-sideload) | 0 | 319 | 0.0 | none | 
+ | [elementary-tasks](/f35/package/elementary-tasks) | 0 | 394 | 0.0 | none | 
+ | [elementary-terminal](/f35/package/elementary-terminal) | 0 | 696 | 0.0 |  | 
+ | [elementary-theme](/f35/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [elementary-videos](/f35/package/elementary-videos) | 0 | 391 | 0.0 |  | 
+ | [feedreader](/f35/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [gala](/f35/package/gala) | 0 | 358 | 0.0 | none | 
+ | [gnome-control-center](/f35/package/gnome-control-center) | 0 | 1313 | 0.0 | none | 
+ | [granite](/f35/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f35/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [imsettings](/f35/package/imsettings) | 0 | 490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f35/package/initial-setup) | 0 | 33 | 0.0 | Lao (http://www.transifex.com/projects/p/initial-setup/language/lo/) | 
+ | [libmatekbd](/f35/package/libmatekbd) | 0 | 308 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
+ | [libuser](/f35/package/libuser) | 0 | 1140 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm](/f35/package/lightdm) | 0 | 84 | 0.0 | Lao <lo@li.org> | 
+ | [mate-themes](/f35/package/mate-themes) | 0 | 74 | 0.0 | Lao (http://www.transifex.com/mate/MATE/language/lo/) | 
+ | [nutty](/f35/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [onboard](/f35/package/onboard) | 0 | 2318 | 0.0 | Lao <lo@li.org> | 
+ | [optimizer](/f35/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f35/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f35/package/pantheon-agent-polkit) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [passwd](/f35/package/passwd) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f35/package/policycoreutils) | 0 | 7678 | 0.0 | Lao (http://www.transifex.com/projects/p/fedora/language/lo/) | 
+ | [pyhoca-gui](/f35/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f35/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-meh](/f35/package/python-meh) | 0 | 109 | 0.0 | Lao (http://www.transifex.com/projects/p/python-meh/language/lo/) | 
+ | [python-postorius](/f35/package/python-postorius) | 0 | 4999 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f35/package/redhat-menus) | 0 | 261 | 0.0 | none | 
+ | [setuptool](/f35/package/setuptool) | 0 | 55 | 0.0 | none | 
+ | [slick-greeter](/f35/package/slick-greeter) | 0 | 211 | 0.0 | Lao <lo@li.org> | 
+ | [snapper](/f35/package/snapper) | 0 | 1095 | 0.0 | Lao <i18n@suse.de> | 
+ | [sos](/f35/package/sos) | 0 | 122 | 0.0 | none | 
+ | [switchboard](/f35/package/switchboard) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f35/package/switchboard-plug-a11y) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f35/package/switchboard-plug-about) | 0 | 383 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f35/package/switchboard-plug-applications) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f35/package/switchboard-plug-bluetooth) | 0 | 206 | 0.0 | Lao <lo@li.org> | 
+ | [switchboard-plug-display](/f35/package/switchboard-plug-display) | 0 | 182 | 0.0 | Lao <lo@li.org> | 
+ | [switchboard-plug-keyboard](/f35/package/switchboard-plug-keyboard) | 0 | 636 | 0.0 |  | 
+ | [switchboard-plug-mouse-touchpad](/f35/package/switchboard-plug-mouse-touchpad) | 0 | 282 | 0.0 | none | 
+ | [switchboard-plug-networking](/f35/package/switchboard-plug-networking) | 0 | 532 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f35/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-onlineaccounts](/f35/package/switchboard-plug-onlineaccounts) | 0 | 322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f35/package/switchboard-plug-pantheon-shell) | 0 | 349 | 0.0 | Lao <lo@li.org> | 
+ | [switchboard-plug-printers](/f35/package/switchboard-plug-printers) | 0 | 406 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f35/package/switchboard-plug-sharing) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-sound](/f35/package/switchboard-plug-sound) | 0 | 193 | 0.0 |  | 
+ | [switchdesk](/f35/package/switchdesk) | 0 | 122 | 0.0 | none | 
+ | [system-config-rootpassword](/f35/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-switch-mail](/f35/package/system-switch-mail) | 0 | 101 | 0.0 | none | 
+ | [taxi](/f35/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [trytond-account-statement](/f35/package/trytond-account-statement) | 0 | 231 | 0.0 |  | 
+ | [trytond-account-stock-anglo-saxon](/f35/package/trytond-account-stock-anglo-saxon) | 0 | 74 | 0.0 |  | 
+ | [trytond-account-stock-continental](/f35/package/trytond-account-stock-continental) | 0 | 325 | 0.0 |  | 
+ | [trytond-analytic-account](/f35/package/trytond-analytic-account) | 0 | 184 | 0.0 |  | 
+ | [trytond-party-siret](/f35/package/trytond-party-siret) | 0 | 18 | 0.0 |  | 
+ | [trytond-product-cost-fifo](/f35/package/trytond-product-cost-fifo) | 0 | 24 | 0.0 |  | 
+ | [trytond-product-cost-history](/f35/package/trytond-product-cost-history) | 0 | 27 | 0.0 |  | 
+ | [trytond-product-price-list](/f35/package/trytond-product-price-list) | 0 | 74 | 0.0 |  | 
+ | [trytond-project](/f35/package/trytond-project) | 0 | 143 | 0.0 |  | 
+ | [trytond-project-plan](/f35/package/trytond-project-plan) | 0 | 83 | 0.0 |  | 
+ | [trytond-project-revenue](/f35/package/trytond-project-revenue) | 0 | 12 | 0.0 |  | 
+ | [trytond-purchase-invoice-line-standalone](/f35/package/trytond-purchase-invoice-line-standalone) | 0 | 51 | 0.0 |  | 
+ | [trytond-sale](/f35/package/trytond-sale) | 0 | 536 | 0.0 |  | 
+ | [trytond-sale-opportunity](/f35/package/trytond-sale-opportunity) | 0 | 320 | 0.0 |  | 
+ | [trytond-sale-price-list](/f35/package/trytond-sale-price-list) | 0 | 5 | 0.0 |  | 
+ | [trytond-stock-forecast](/f35/package/trytond-stock-forecast) | 0 | 174 | 0.0 |  | 
+ | [trytond-stock-product-location](/f35/package/trytond-stock-product-location) | 0 | 23 | 0.0 |  | 
+ | [trytond-stock-supply](/f35/package/trytond-stock-supply) | 0 | 147 | 0.0 |  | 
+ | [trytond-stock-supply-day](/f35/package/trytond-stock-supply-day) | 0 | 27 | 0.0 |  | 
+ | [wingpanel](/f35/package/wingpanel) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-applications-menu](/f35/package/wingpanel-applications-menu) | 0 | 415 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f35/package/wingpanel-indicator-bluetooth) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f35/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f35/package/wingpanel-indicator-keyboard) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f35/package/wingpanel-indicator-network) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-nightlight](/f35/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f35/package/wingpanel-indicator-notifications) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-power](/f35/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f35/package/wingpanel-indicator-session) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f35/package/wingpanel-indicator-sound) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package qemu (version 6.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/qemu/po/bg.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/13 yelp/help/es/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/6 gettext/po/fi.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/6 gettext/po/ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/qemu/po/sv.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/qemu/po/zh_CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 36 | 38 | 94.7 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/6 gettext/po/de.po/mnt/stockage/packages/f35/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/qemu/po/fr_FR.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/qemu/po/it.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/qemu/po/hu.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/qemu/po/tr.po | 
+ | [bg](/f35/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/qemu/po/bg.po | 
+ | [es](/f35/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/13 yelp/help/es/es.po | 
+ | [fi](/f35/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/6 gettext/po/fi.po | 
+ | [ru](/f35/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/6 gettext/po/ru.po | 
+ | [sv](/f35/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/qemu/po/sv.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/qemu/po/zh_CN.po | 
+ | [de](/f35/language/de) | 36 | 38 | 94.7 | /mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f35/qemu/meson/test cases/frameworks/6 gettext/po/de.po/mnt/stockage/packages/f35/qemu/po/de_DE.po | 
+ | [fr](/f35/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/qemu/po/fr_FR.po | 
+ | [it](/f35/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f35/qemu/po/it.po | 
+ | [hu](/f35/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/qemu/po/hu.po | 
+ | [tr](/f35/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f35/qemu/po/tr.po | 
 {.sortable}
 
 

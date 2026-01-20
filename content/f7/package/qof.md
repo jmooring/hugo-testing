@@ -18,9 +18,9 @@ The package qof (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f7/qof/po/en_GB.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 79 | 121 | 65.3 | /mnt/stockage/packages/f7/qof/po/sv.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 54 | 121 | 44.6 | /mnt/stockage/packages/f7/qof/po/vi.po | 
+ | [en_GB](/f7/language/en_GB) | 121 | 121 | 100.0 | /mnt/stockage/packages/f7/qof/po/en_GB.po | 
+ | [sv](/f7/language/sv) | 79 | 121 | 65.3 | /mnt/stockage/packages/f7/qof/po/sv.po | 
+ | [vi](/f7/language/vi) | 54 | 121 | 44.6 | /mnt/stockage/packages/f7/qof/po/vi.po | 
 {.sortable}
 
 

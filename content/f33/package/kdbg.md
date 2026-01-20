@@ -18,26 +18,26 @@ The package kdbg (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f33/kdbg/po/de.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 793 | 863 | 91.9 | /mnt/stockage/packages/f33/kdbg/po/hr.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 774 | 863 | 89.7 | /mnt/stockage/packages/f33/kdbg/po/ru.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 758 | 863 | 87.8 | /mnt/stockage/packages/f33/kdbg/po/zh_CN.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 684 | 863 | 79.3 | /mnt/stockage/packages/f33/kdbg/po/es.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 339 | 863 | 39.3 | /mnt/stockage/packages/f33/kdbg/po/hu.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 321 | 863 | 37.2 | /mnt/stockage/packages/f33/kdbg/po/fr.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 228 | 863 | 26.4 | /mnt/stockage/packages/f33/kdbg/po/cs.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 114 | 863 | 13.2 | /mnt/stockage/packages/f33/kdbg/po/sv.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/it.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/nn.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/sr.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/tr.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 105 | 863 | 12.2 | /mnt/stockage/packages/f33/kdbg/po/ja.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 102 | 863 | 11.8 | /mnt/stockage/packages/f33/kdbg/po/pl.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 60 | 863 | 7.0 | /mnt/stockage/packages/f33/kdbg/po/da.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 59 | 863 | 6.8 | /mnt/stockage/packages/f33/kdbg/po/sk.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 52 | 863 | 6.0 | /mnt/stockage/packages/f33/kdbg/po/nb.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 42 | 863 | 4.9 | /mnt/stockage/packages/f33/kdbg/po/pt.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 42 | 863 | 4.9 | /mnt/stockage/packages/f33/kdbg/po/ro.po | 
+ | [de](/f33/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f33/kdbg/po/de.po | 
+ | [hr](/f33/language/hr) | 793 | 863 | 91.9 | /mnt/stockage/packages/f33/kdbg/po/hr.po | 
+ | [ru](/f33/language/ru) | 774 | 863 | 89.7 | /mnt/stockage/packages/f33/kdbg/po/ru.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 758 | 863 | 87.8 | /mnt/stockage/packages/f33/kdbg/po/zh_CN.po | 
+ | [es](/f33/language/es) | 684 | 863 | 79.3 | /mnt/stockage/packages/f33/kdbg/po/es.po | 
+ | [hu](/f33/language/hu) | 339 | 863 | 39.3 | /mnt/stockage/packages/f33/kdbg/po/hu.po | 
+ | [fr](/f33/language/fr) | 321 | 863 | 37.2 | /mnt/stockage/packages/f33/kdbg/po/fr.po | 
+ | [cs](/f33/language/cs) | 228 | 863 | 26.4 | /mnt/stockage/packages/f33/kdbg/po/cs.po | 
+ | [sv](/f33/language/sv) | 114 | 863 | 13.2 | /mnt/stockage/packages/f33/kdbg/po/sv.po | 
+ | [it](/f33/language/it) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/it.po | 
+ | [nn](/f33/language/nn) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/nn.po | 
+ | [sr](/f33/language/sr) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/sr.po | 
+ | [tr](/f33/language/tr) | 113 | 863 | 13.1 | /mnt/stockage/packages/f33/kdbg/po/tr.po | 
+ | [ja](/f33/language/ja) | 105 | 863 | 12.2 | /mnt/stockage/packages/f33/kdbg/po/ja.po | 
+ | [pl](/f33/language/pl) | 102 | 863 | 11.8 | /mnt/stockage/packages/f33/kdbg/po/pl.po | 
+ | [da](/f33/language/da) | 60 | 863 | 7.0 | /mnt/stockage/packages/f33/kdbg/po/da.po | 
+ | [sk](/f33/language/sk) | 59 | 863 | 6.8 | /mnt/stockage/packages/f33/kdbg/po/sk.po | 
+ | [nb_NO](/f33/language/nb_NO) | 52 | 863 | 6.0 | /mnt/stockage/packages/f33/kdbg/po/nb.po | 
+ | [pt](/f33/language/pt) | 42 | 863 | 4.9 | /mnt/stockage/packages/f33/kdbg/po/pt.po | 
+ | [ro](/f33/language/ro) | 42 | 863 | 4.9 | /mnt/stockage/packages/f33/kdbg/po/ro.po | 
 {.sortable}
 
 

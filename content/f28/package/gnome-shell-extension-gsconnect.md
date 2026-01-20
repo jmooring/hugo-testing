@@ -18,28 +18,28 @@ The package gnome-shell-extension-gsconnect (version 24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f28/language/be.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/be.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/es.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/et.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/it.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/lt.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/nl_NL.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/pl.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/ru.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 439 | 439 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/sk.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/uk.po | 
- | [nl_BE]({{< ref "/f28/language/nl_BE.md" >}}) | 457 | 458 | 99.8 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/nl_BE.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 457 | 458 | 99.8 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/pt_BR.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 491 | 495 | 99.2 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/fr.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 429 | 458 | 93.7 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/sr.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 429 | 458 | 93.7 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/sr@latin.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 298 | 495 | 60.2 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/da.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 407 | 989 | 41.2 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/ca.po/mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/ca-ES.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 0 | 495 | 0.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/gl.po | 
+ | [be](/f28/language/be) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/be.po | 
+ | [cs](/f28/language/cs) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/cs.po | 
+ | [de](/f28/language/de) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/de.po | 
+ | [es](/f28/language/es) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/es.po | 
+ | [et](/f28/language/et) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/et.po | 
+ | [hu](/f28/language/hu) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/hu.po | 
+ | [it](/f28/language/it) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/it.po | 
+ | [lt](/f28/language/lt) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/lt.po | 
+ | [nl](/f28/language/nl) | 494 | 494 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/nl_NL.po | 
+ | [pl](/f28/language/pl) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/pl.po | 
+ | [ru](/f28/language/ru) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/ru.po | 
+ | [sk](/f28/language/sk) | 439 | 439 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/sk.po | 
+ | [tr](/f28/language/tr) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/tr.po | 
+ | [uk](/f28/language/uk) | 495 | 495 | 100.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/uk.po | 
+ | [nl_BE](/f28/language/nl_BE) | 457 | 458 | 99.8 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/nl_BE.po | 
+ | [pt_BR](/f28/language/pt_BR) | 457 | 458 | 99.8 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/pt_BR.po | 
+ | [fr](/f28/language/fr) | 491 | 495 | 99.2 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/fr.po | 
+ | [sr](/f28/language/sr) | 429 | 458 | 93.7 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/sr.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 429 | 458 | 93.7 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/sr@latin.po | 
+ | [da](/f28/language/da) | 298 | 495 | 60.2 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/da.po | 
+ | [ca](/f28/language/ca) | 407 | 989 | 41.2 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/ca.po/mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/ca-ES.po | 
+ | [gl](/f28/language/gl) | 0 | 495 | 0.0 | /mnt/stockage/packages/f28/gnome-shell-extension-gsconnect/po/gl.po | 
 {.sortable}
 
 

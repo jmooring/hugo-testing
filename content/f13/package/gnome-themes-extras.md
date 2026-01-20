@@ -18,10 +18,10 @@ The package gnome-themes-extras (version 2.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/ca.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/en_GB.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/eu.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/sv.po | 
+ | [ca](/f13/language/ca) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/ca.po | 
+ | [en_GB](/f13/language/en_GB) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/en_GB.po | 
+ | [eu](/f13/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/eu.po | 
+ | [sv](/f13/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f13/gnome-themes-extras/po/sv.po | 
 {.sortable}
 
 

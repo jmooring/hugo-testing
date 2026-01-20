@@ -18,24 +18,24 @@ The package xchm (version 1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f8/xchm/po/pl.po | 
- | [pt_PT]({{< ref "/f8/language/pt_PT.md" >}}) | 204 | 227 | 89.9 | /mnt/stockage/packages/f8/xchm/po/pt_PT.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 204 | 227 | 89.9 | /mnt/stockage/packages/f8/xchm/po/ro.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 204 | 227 | 89.9 | /mnt/stockage/packages/f8/xchm/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 164 | 227 | 72.2 | /mnt/stockage/packages/f8/xchm/po/uk.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 162 | 227 | 71.4 | /mnt/stockage/packages/f8/xchm/po/pt_BR.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/cs.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/ru.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/zh_TW.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/bg.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/es.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/hu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/it.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/lv.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/sk.po | 
+ | [pl](/f8/language/pl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f8/xchm/po/pl.po | 
+ | [pt_PT](/f8/language/pt_PT) | 204 | 227 | 89.9 | /mnt/stockage/packages/f8/xchm/po/pt_PT.po | 
+ | [ro](/f8/language/ro) | 204 | 227 | 89.9 | /mnt/stockage/packages/f8/xchm/po/ro.po | 
+ | [sv](/f8/language/sv) | 204 | 227 | 89.9 | /mnt/stockage/packages/f8/xchm/po/sv.po | 
+ | [uk](/f8/language/uk) | 164 | 227 | 72.2 | /mnt/stockage/packages/f8/xchm/po/uk.po | 
+ | [pt_BR](/f8/language/pt_BR) | 162 | 227 | 71.4 | /mnt/stockage/packages/f8/xchm/po/pt_BR.po | 
+ | [cs](/f8/language/cs) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/cs.po | 
+ | [fr](/f8/language/fr) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/fr.po | 
+ | [ru](/f8/language/ru) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/ru.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 151 | 227 | 66.5 | /mnt/stockage/packages/f8/xchm/po/zh_TW.po | 
+ | [bg](/f8/language/bg) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/bg.po | 
+ | [de](/f8/language/de) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/de.po | 
+ | [es](/f8/language/es) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/es.po | 
+ | [hu](/f8/language/hu) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/hu.po | 
+ | [it](/f8/language/it) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/it.po | 
+ | [lv](/f8/language/lv) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/lv.po | 
+ | [sk](/f8/language/sk) | 148 | 227 | 65.2 | /mnt/stockage/packages/f8/xchm/po/sk.po | 
 {.sortable}
 
 

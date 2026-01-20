@@ -18,15 +18,15 @@ The package gobby (version 0.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f9/gobby/po/sv.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 763 | 778 | 98.1 | /mnt/stockage/packages/f9/gobby/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 729 | 778 | 93.7 | /mnt/stockage/packages/f9/gobby/po/es.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 729 | 778 | 93.7 | /mnt/stockage/packages/f9/gobby/po/it.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 729 | 778 | 93.7 | /mnt/stockage/packages/f9/gobby/po/ru.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 647 | 778 | 83.2 | /mnt/stockage/packages/f9/gobby/po/fr.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 519 | 778 | 66.7 | /mnt/stockage/packages/f9/gobby/po/pt.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 246 | 778 | 31.6 | /mnt/stockage/packages/f9/gobby/po/zh_CN.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 230 | 778 | 29.6 | /mnt/stockage/packages/f9/gobby/po/ca.po | 
+ | [sv](/f9/language/sv) | 778 | 778 | 100.0 | /mnt/stockage/packages/f9/gobby/po/sv.po | 
+ | [de](/f9/language/de) | 763 | 778 | 98.1 | /mnt/stockage/packages/f9/gobby/po/de.po | 
+ | [es](/f9/language/es) | 729 | 778 | 93.7 | /mnt/stockage/packages/f9/gobby/po/es.po | 
+ | [it](/f9/language/it) | 729 | 778 | 93.7 | /mnt/stockage/packages/f9/gobby/po/it.po | 
+ | [ru](/f9/language/ru) | 729 | 778 | 93.7 | /mnt/stockage/packages/f9/gobby/po/ru.po | 
+ | [fr](/f9/language/fr) | 647 | 778 | 83.2 | /mnt/stockage/packages/f9/gobby/po/fr.po | 
+ | [pt](/f9/language/pt) | 519 | 778 | 66.7 | /mnt/stockage/packages/f9/gobby/po/pt.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 246 | 778 | 31.6 | /mnt/stockage/packages/f9/gobby/po/zh_CN.po | 
+ | [ca](/f9/language/ca) | 230 | 778 | 29.6 | /mnt/stockage/packages/f9/gobby/po/ca.po | 
 {.sortable}
 
 

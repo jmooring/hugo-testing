@@ -18,10 +18,10 @@ The package gsequencer (version 8.0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 447 | 1012 | 44.2 | /mnt/stockage/packages/f41/gsequencer/po/fr.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 444 | 1012 | 43.9 | /mnt/stockage/packages/f41/gsequencer/po/de.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 431 | 1012 | 42.6 | /mnt/stockage/packages/f41/gsequencer/po/pl.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 0 | 1012 | 0.0 | /mnt/stockage/packages/f41/gsequencer/po/it.po | 
+ | [fr](/f41/language/fr) | 447 | 1012 | 44.2 | /mnt/stockage/packages/f41/gsequencer/po/fr.po | 
+ | [de](/f41/language/de) | 444 | 1012 | 43.9 | /mnt/stockage/packages/f41/gsequencer/po/de.po | 
+ | [pl](/f41/language/pl) | 431 | 1012 | 42.6 | /mnt/stockage/packages/f41/gsequencer/po/pl.po | 
+ | [it](/f41/language/it) | 0 | 1012 | 0.0 | /mnt/stockage/packages/f41/gsequencer/po/it.po | 
 {.sortable}
 
 

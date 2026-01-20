@@ -18,19 +18,19 @@ The package coccinella (version 0.96.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 5046 | 5358 | 94.2 | /mnt/stockage/packages/f21/coccinella/po/cs.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 5046 | 5358 | 94.2 | /mnt/stockage/packages/f21/coccinella/po/it.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 5046 | 5358 | 94.2 | /mnt/stockage/packages/f21/coccinella/po/pt.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 5016 | 5358 | 93.6 | /mnt/stockage/packages/f21/coccinella/po/es.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 4996 | 5358 | 93.2 | /mnt/stockage/packages/f21/coccinella/po/nl.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 4884 | 5358 | 91.2 | /mnt/stockage/packages/f21/coccinella/po/de.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 4713 | 5358 | 88.0 | /mnt/stockage/packages/f21/coccinella/po/ru.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 4682 | 5358 | 87.4 | /mnt/stockage/packages/f21/coccinella/po/fr.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 4632 | 5358 | 86.5 | /mnt/stockage/packages/f21/coccinella/po/pl.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 4487 | 5358 | 83.7 | /mnt/stockage/packages/f21/coccinella/po/zh_cn.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 2 | 5358 | 0.0 | /mnt/stockage/packages/f21/coccinella/po/sv.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 0 | 5358 | 0.0 | /mnt/stockage/packages/f21/coccinella/po/da.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 0 | 5358 | 0.0 | /mnt/stockage/packages/f21/coccinella/po/ko.po | 
+ | [cs](/f21/language/cs) | 5046 | 5358 | 94.2 | /mnt/stockage/packages/f21/coccinella/po/cs.po | 
+ | [it](/f21/language/it) | 5046 | 5358 | 94.2 | /mnt/stockage/packages/f21/coccinella/po/it.po | 
+ | [pt](/f21/language/pt) | 5046 | 5358 | 94.2 | /mnt/stockage/packages/f21/coccinella/po/pt.po | 
+ | [es](/f21/language/es) | 5016 | 5358 | 93.6 | /mnt/stockage/packages/f21/coccinella/po/es.po | 
+ | [nl](/f21/language/nl) | 4996 | 5358 | 93.2 | /mnt/stockage/packages/f21/coccinella/po/nl.po | 
+ | [de](/f21/language/de) | 4884 | 5358 | 91.2 | /mnt/stockage/packages/f21/coccinella/po/de.po | 
+ | [ru](/f21/language/ru) | 4713 | 5358 | 88.0 | /mnt/stockage/packages/f21/coccinella/po/ru.po | 
+ | [fr](/f21/language/fr) | 4682 | 5358 | 87.4 | /mnt/stockage/packages/f21/coccinella/po/fr.po | 
+ | [pl](/f21/language/pl) | 4632 | 5358 | 86.5 | /mnt/stockage/packages/f21/coccinella/po/pl.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 4487 | 5358 | 83.7 | /mnt/stockage/packages/f21/coccinella/po/zh_cn.po | 
+ | [sv](/f21/language/sv) | 2 | 5358 | 0.0 | /mnt/stockage/packages/f21/coccinella/po/sv.po | 
+ | [da](/f21/language/da) | 0 | 5358 | 0.0 | /mnt/stockage/packages/f21/coccinella/po/da.po | 
+ | [ko](/f21/language/ko) | 0 | 5358 | 0.0 | /mnt/stockage/packages/f21/coccinella/po/ko.po | 
 {.sortable}
 
 

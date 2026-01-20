@@ -40,11 +40,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f14/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 0 | 1744 | 0.0 | Tibetan <bo@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 8645 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 61 | 1247 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f14/package/pootle) | 4 | 2424 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f14/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [stellarium](/f14/package/stellarium) | 0 | 1744 | 0.0 | Tibetan <bo@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 8645 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

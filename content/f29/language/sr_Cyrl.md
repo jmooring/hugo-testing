@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [godot]({{< ref "/f29/package/godot.md" >}}) | 4265 | 7030 | 60.7 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/> | 
- | [minetest]({{< ref "/f29/package/minetest.md" >}}) | 1615 | 6406 | 25.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
- | [publican]({{< ref "/f29/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f29/package/wine.md" >}}) | 2192 | 16856 | 13.0 | Serbian (Cyrillic) | 
- | [mypaint]({{< ref "/f29/package/mypaint.md" >}}) | 161 | 5320 | 3.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/mypaint/sr@cyrillic/> | 
- | [gimagereader]({{< ref "/f29/package/gimagereader.md" >}}) | 0 | 1561 | 0.0 | none | 
+ | [godot](/f29/package/godot) | 4265 | 7030 | 60.7 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/> | 
+ | [minetest](/f29/package/minetest) | 1615 | 6406 | 25.2 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
+ | [publican](/f29/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f29/package/wine) | 2192 | 16856 | 13.0 | Serbian (Cyrillic) | 
+ | [mypaint](/f29/package/mypaint) | 161 | 5320 | 3.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/mypaint/mypaint/sr@cyrillic/> | 
+ | [gimagereader](/f29/package/gimagereader) | 0 | 1561 | 0.0 | none | 
 {.sortable}
 
 

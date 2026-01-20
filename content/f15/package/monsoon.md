@@ -18,14 +18,14 @@ The package monsoon (version 0.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 428 | 431 | 99.3 | /mnt/stockage/packages/f15/monsoon/po/sv.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 393 | 403 | 97.5 | /mnt/stockage/packages/f15/monsoon/po/de.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/bg.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/nl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/pt_BR.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 200 | 367 | 54.5 | /mnt/stockage/packages/f15/monsoon/po/fr.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 93 | 367 | 25.3 | /mnt/stockage/packages/f15/monsoon/po/es.po | 
+ | [sv](/f15/language/sv) | 428 | 431 | 99.3 | /mnt/stockage/packages/f15/monsoon/po/sv.po | 
+ | [de](/f15/language/de) | 393 | 403 | 97.5 | /mnt/stockage/packages/f15/monsoon/po/de.po | 
+ | [bg](/f15/language/bg) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/bg.po | 
+ | [it](/f15/language/it) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/it.po | 
+ | [nl](/f15/language/nl) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/nl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 310 | 367 | 84.5 | /mnt/stockage/packages/f15/monsoon/po/pt_BR.po | 
+ | [fr](/f15/language/fr) | 200 | 367 | 54.5 | /mnt/stockage/packages/f15/monsoon/po/fr.po | 
+ | [es](/f15/language/es) | 93 | 367 | 25.3 | /mnt/stockage/packages/f15/monsoon/po/es.po | 
 {.sortable}
 
 

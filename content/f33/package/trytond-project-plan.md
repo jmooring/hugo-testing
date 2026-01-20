@@ -18,26 +18,26 @@ The package trytond-project-plan (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/ca_ES.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/de_DE.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_ES.po | 
- | [es_AR]({{< ref "/f33/language/es_AR.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_AR.po | 
- | [es_CO]({{< ref "/f33/language/es_CO.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_CO.po | 
- | [es_EC]({{< ref "/f33/language/es_EC.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_EC.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/fr_FR.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/sl_SI.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 80 | 83 | 96.4 | /mnt/stockage/packages/f33/trytond-project-plan/locale/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 80 | 83 | 96.4 | /mnt/stockage/packages/f33/trytond-project-plan/locale/ru_RU.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 77 | 83 | 92.8 | /mnt/stockage/packages/f33/trytond-project-plan/locale/bg_BG.po | 
- | [es_MX]({{< ref "/f33/language/es_MX.md" >}}) | 76 | 83 | 91.6 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_MX.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/cs_CZ.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/hu_HU.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/it_IT.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/ja_JP.po | 
- | [lo]({{< ref "/f33/language/lo.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/lo_LA.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/lt_LT.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/zh_CN.po | 
+ | [ca](/f33/language/ca) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/ca_ES.po | 
+ | [de](/f33/language/de) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/de_DE.po | 
+ | [es](/f33/language/es) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_ES.po | 
+ | [es_AR](/f33/language/es_AR) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_AR.po | 
+ | [es_CO](/f33/language/es_CO) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_CO.po | 
+ | [es_EC](/f33/language/es_EC) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_EC.po | 
+ | [fr](/f33/language/fr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/fr_FR.po | 
+ | [sl](/f33/language/sl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/sl_SI.po | 
+ | [pt_BR](/f33/language/pt_BR) | 80 | 83 | 96.4 | /mnt/stockage/packages/f33/trytond-project-plan/locale/pt_BR.po | 
+ | [ru](/f33/language/ru) | 80 | 83 | 96.4 | /mnt/stockage/packages/f33/trytond-project-plan/locale/ru_RU.po | 
+ | [bg](/f33/language/bg) | 77 | 83 | 92.8 | /mnt/stockage/packages/f33/trytond-project-plan/locale/bg_BG.po | 
+ | [es_MX](/f33/language/es_MX) | 76 | 83 | 91.6 | /mnt/stockage/packages/f33/trytond-project-plan/locale/es_MX.po | 
+ | [cs](/f33/language/cs) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/cs_CZ.po | 
+ | [hu](/f33/language/hu) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/hu_HU.po | 
+ | [it](/f33/language/it) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/it_IT.po | 
+ | [ja](/f33/language/ja) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/ja_JP.po | 
+ | [lo](/f33/language/lo) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/lo_LA.po | 
+ | [lt](/f33/language/lt) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/lt_LT.po | 
+ | [nl](/f33/language/nl) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/nl_NL.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 0 | 83 | 0.0 | /mnt/stockage/packages/f33/trytond-project-plan/locale/zh_CN.po | 
 {.sortable}
 
 

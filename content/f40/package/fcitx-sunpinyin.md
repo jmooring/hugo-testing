@@ -18,15 +18,15 @@ The package fcitx-sunpinyin (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/de.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ko.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ru.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/zh_TW.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 87 | 104 | 83.7 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ja.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 0 | 104 | 0.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/da.po | 
+ | [ca](/f40/language/ca) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ca.po | 
+ | [de](/f40/language/de) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/de.po | 
+ | [ko](/f40/language/ko) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ko.po | 
+ | [ru](/f40/language/ru) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ru.po | 
+ | [tr](/f40/language/tr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 104 | 104 | 100.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/zh_TW.po | 
+ | [ja](/f40/language/ja) | 87 | 104 | 83.7 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/ja.po | 
+ | [da](/f40/language/da) | 0 | 104 | 0.0 | /mnt/stockage/packages/f40/fcitx-sunpinyin/po/da.po | 
 {.sortable}
 
 

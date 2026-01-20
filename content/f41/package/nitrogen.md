@@ -18,12 +18,12 @@ The package nitrogen (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/bs.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/fi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/hr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/ru.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/sr.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 84 | 212 | 39.6 | /mnt/stockage/packages/f41/nitrogen/po/pl.po | 
+ | [bs](/f41/language/bs) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/bs.po | 
+ | [fi](/f41/language/fi) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/fi.po | 
+ | [hr](/f41/language/hr) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/hr.po | 
+ | [ru](/f41/language/ru) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/ru.po | 
+ | [sr](/f41/language/sr) | 180 | 212 | 84.9 | /mnt/stockage/packages/f41/nitrogen/po/sr.po | 
+ | [pl](/f41/language/pl) | 84 | 212 | 39.6 | /mnt/stockage/packages/f41/nitrogen/po/pl.po | 
 {.sortable}
 
 

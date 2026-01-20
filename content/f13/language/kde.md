@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-l10n]({{< ref "/f13/package/kde-l10n.md" >}}) | 2448636 | 3410275 | 71.8 | Arabic <kde-i18n-doc@kde.org> | 
+ | [kde-l10n](/f13/package/kde-l10n) | 2448636 | 3410275 | 71.8 | Arabic <kde-i18n-doc@kde.org> | 
 {.sortable}
 
 

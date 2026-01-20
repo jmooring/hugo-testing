@@ -18,49 +18,49 @@ The package php-horde-Horde-Browser (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/de/LC_MESSAGES/Horde_Browser.po | 
- | [en_US]({{< ref "/f17/language/en_US.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/en/LC_MESSAGES/Horde_Browser.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/es/LC_MESSAGES/Horde_Browser.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/et/LC_MESSAGES/Horde_Browser.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/fi/LC_MESSAGES/Horde_Browser.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/hr/LC_MESSAGES/Horde_Browser.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ja/LC_MESSAGES/Horde_Browser.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/lt/LC_MESSAGES/Horde_Browser.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/lv/LC_MESSAGES/Horde_Browser.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/nl/LC_MESSAGES/Horde_Browser.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/pt_BR/LC_MESSAGES/Horde_Browser.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/sk/LC_MESSAGES/Horde_Browser.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ca/LC_MESSAGES/Horde_Browser.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/cs/LC_MESSAGES/Horde_Browser.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/da/LC_MESSAGES/Horde_Browser.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/el/LC_MESSAGES/Horde_Browser.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/eu/LC_MESSAGES/Horde_Browser.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/fa/LC_MESSAGES/Horde_Browser.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/fr/LC_MESSAGES/Horde_Browser.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/hu/LC_MESSAGES/Horde_Browser.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/it/LC_MESSAGES/Horde_Browser.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/pt/LC_MESSAGES/Horde_Browser.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/sl/LC_MESSAGES/Horde_Browser.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/sv/LC_MESSAGES/Horde_Browser.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/tr/LC_MESSAGES/Horde_Browser.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/uk/LC_MESSAGES/Horde_Browser.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/zh_CN/LC_MESSAGES/Horde_Browser.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/zh_TW/LC_MESSAGES/Horde_Browser.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 49 | 66 | 74.2 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/bg/LC_MESSAGES/Horde_Browser.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 12 | 66 | 18.2 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ko/LC_MESSAGES/Horde_Browser.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 7 | 66 | 10.6 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/pl/LC_MESSAGES/Horde_Browser.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 4 | 66 | 6.1 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/nb/LC_MESSAGES/Horde_Browser.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ar/LC_MESSAGES/Horde_Browser.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/bs/LC_MESSAGES/Horde_Browser.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/gl/LC_MESSAGES/Horde_Browser.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/he/LC_MESSAGES/Horde_Browser.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/id/LC_MESSAGES/Horde_Browser.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/is/LC_MESSAGES/Horde_Browser.po | 
- | [km]({{< ref "/f17/language/km.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/km/LC_MESSAGES/Horde_Browser.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/mk/LC_MESSAGES/Horde_Browser.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/nn/LC_MESSAGES/Horde_Browser.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ro/LC_MESSAGES/Horde_Browser.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ru/LC_MESSAGES/Horde_Browser.po | 
+ | [de](/f17/language/de) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/de/LC_MESSAGES/Horde_Browser.po | 
+ | [en_US](/f17/language/en_US) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/en/LC_MESSAGES/Horde_Browser.po | 
+ | [es](/f17/language/es) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/es/LC_MESSAGES/Horde_Browser.po | 
+ | [et](/f17/language/et) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/et/LC_MESSAGES/Horde_Browser.po | 
+ | [fi](/f17/language/fi) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/fi/LC_MESSAGES/Horde_Browser.po | 
+ | [hr](/f17/language/hr) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/hr/LC_MESSAGES/Horde_Browser.po | 
+ | [ja](/f17/language/ja) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ja/LC_MESSAGES/Horde_Browser.po | 
+ | [lt](/f17/language/lt) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/lt/LC_MESSAGES/Horde_Browser.po | 
+ | [lv](/f17/language/lv) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/lv/LC_MESSAGES/Horde_Browser.po | 
+ | [nl](/f17/language/nl) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/nl/LC_MESSAGES/Horde_Browser.po | 
+ | [pt_BR](/f17/language/pt_BR) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/pt_BR/LC_MESSAGES/Horde_Browser.po | 
+ | [sk](/f17/language/sk) | 66 | 66 | 100.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/sk/LC_MESSAGES/Horde_Browser.po | 
+ | [ca](/f17/language/ca) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ca/LC_MESSAGES/Horde_Browser.po | 
+ | [cs](/f17/language/cs) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/cs/LC_MESSAGES/Horde_Browser.po | 
+ | [da](/f17/language/da) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/da/LC_MESSAGES/Horde_Browser.po | 
+ | [el](/f17/language/el) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/el/LC_MESSAGES/Horde_Browser.po | 
+ | [eu](/f17/language/eu) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/eu/LC_MESSAGES/Horde_Browser.po | 
+ | [fa](/f17/language/fa) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/fa/LC_MESSAGES/Horde_Browser.po | 
+ | [fr](/f17/language/fr) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/fr/LC_MESSAGES/Horde_Browser.po | 
+ | [hu](/f17/language/hu) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/hu/LC_MESSAGES/Horde_Browser.po | 
+ | [it](/f17/language/it) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/it/LC_MESSAGES/Horde_Browser.po | 
+ | [pt](/f17/language/pt) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/pt/LC_MESSAGES/Horde_Browser.po | 
+ | [sl](/f17/language/sl) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/sl/LC_MESSAGES/Horde_Browser.po | 
+ | [sv](/f17/language/sv) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/sv/LC_MESSAGES/Horde_Browser.po | 
+ | [tr](/f17/language/tr) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/tr/LC_MESSAGES/Horde_Browser.po | 
+ | [uk](/f17/language/uk) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/uk/LC_MESSAGES/Horde_Browser.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/zh_CN/LC_MESSAGES/Horde_Browser.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 52 | 66 | 78.8 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/zh_TW/LC_MESSAGES/Horde_Browser.po | 
+ | [bg](/f17/language/bg) | 49 | 66 | 74.2 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/bg/LC_MESSAGES/Horde_Browser.po | 
+ | [ko](/f17/language/ko) | 12 | 66 | 18.2 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ko/LC_MESSAGES/Horde_Browser.po | 
+ | [pl](/f17/language/pl) | 7 | 66 | 10.6 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/pl/LC_MESSAGES/Horde_Browser.po | 
+ | [nb_NO](/f17/language/nb_NO) | 4 | 66 | 6.1 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/nb/LC_MESSAGES/Horde_Browser.po | 
+ | [ar](/f17/language/ar) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ar/LC_MESSAGES/Horde_Browser.po | 
+ | [bs](/f17/language/bs) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/bs/LC_MESSAGES/Horde_Browser.po | 
+ | [gl](/f17/language/gl) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/gl/LC_MESSAGES/Horde_Browser.po | 
+ | [he](/f17/language/he) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/he/LC_MESSAGES/Horde_Browser.po | 
+ | [id](/f17/language/id) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/id/LC_MESSAGES/Horde_Browser.po | 
+ | [is](/f17/language/is) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/is/LC_MESSAGES/Horde_Browser.po | 
+ | [km](/f17/language/km) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/km/LC_MESSAGES/Horde_Browser.po | 
+ | [mk](/f17/language/mk) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/mk/LC_MESSAGES/Horde_Browser.po | 
+ | [nn](/f17/language/nn) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/nn/LC_MESSAGES/Horde_Browser.po | 
+ | [ro](/f17/language/ro) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ro/LC_MESSAGES/Horde_Browser.po | 
+ | [ru](/f17/language/ru) | 0 | 66 | 0.0 | /mnt/stockage/packages/f17/php-horde-Horde-Browser/Horde_Browser-2.0.3/locale/ru/LC_MESSAGES/Horde_Browser.po | 
 {.sortable}
 
 

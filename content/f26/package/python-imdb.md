@@ -18,15 +18,15 @@ The package python-imdb (version 5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f26/language/en.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-en.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-es.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 297 | 321 | 92.5 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-it.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 245 | 321 | 76.3 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-tr.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 115 | 321 | 35.8 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-de.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 113 | 321 | 35.2 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-bg.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 82 | 321 | 25.5 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-fr.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 71 | 321 | 22.1 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-ar.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 10 | 321 | 3.1 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-pt_BR.po | 
+ | [en](/f26/language/en) | 310 | 310 | 100.0 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-en.po | 
+ | [es](/f26/language/es) | 321 | 321 | 100.0 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-es.po | 
+ | [it](/f26/language/it) | 297 | 321 | 92.5 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-it.po | 
+ | [tr](/f26/language/tr) | 245 | 321 | 76.3 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-tr.po | 
+ | [de](/f26/language/de) | 115 | 321 | 35.8 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-de.po | 
+ | [bg](/f26/language/bg) | 113 | 321 | 35.2 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-bg.po | 
+ | [fr](/f26/language/fr) | 82 | 321 | 25.5 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-fr.po | 
+ | [ar](/f26/language/ar) | 71 | 321 | 22.1 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-ar.po | 
+ | [pt_BR](/f26/language/pt_BR) | 10 | 321 | 3.1 | /mnt/stockage/packages/f26/python-imdb/imdb/locale/imdbpy-pt_BR.po | 
 {.sortable}
 
 

@@ -18,39 +18,39 @@ The package geda-gaf (version 1.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 3447 | 3447 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/en_GB.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/en_GB.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3447 | 3447 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/es.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/es.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/es.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/gl.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/oc.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 3447 | 3447 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ru.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ru.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/ru.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 3444 | 3447 | 99.9 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/nl.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/nl.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/nl.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 2868 | 3447 | 83.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/fr.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/fr.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/fr.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2767 | 3447 | 80.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/de.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/de.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/de.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 2588 | 3447 | 75.1 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/pl.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/pl.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/pl.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 2568 | 3447 | 74.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ar.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ar.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/ar.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 2563 | 3447 | 74.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/pt.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/pt.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/pt.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2324 | 3447 | 67.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/it.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/it.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/it.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 2155 | 3447 | 62.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/el.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/el.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/el.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 5 | 8 | 62.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/nb.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 1129 | 2053 | 55.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/af.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/af.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 749 | 2053 | 36.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ja.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ja.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1160 | 3447 | 33.7 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/hu.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/hu.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/hu.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1080 | 3447 | 31.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/pt_BR.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/pt_BR.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/pt_BR.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 869 | 3447 | 25.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/sr.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/sr.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/sr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 280 | 1402 | 20.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/uk.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/uk.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 390 | 3447 | 11.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/zh_TW.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/zh_TW.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/zh_TW.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 229 | 2053 | 11.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/bs.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/bs.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 199 | 2045 | 9.7 | /mnt/stockage/packages/f22/geda-gaf/gschem/po/fi.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 326 | 3447 | 9.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/tr.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/tr.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/tr.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 129 | 2053 | 6.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/fa.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/fa.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 127 | 2045 | 6.2 | /mnt/stockage/packages/f22/geda-gaf/gschem/po/he.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 106 | 2053 | 5.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ml.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ml.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 137 | 3447 | 4.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/zh_CN.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/zh_CN.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/zh_CN.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 64 | 2053 | 3.1 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/bg.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/bg.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 33 | 1402 | 2.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ca.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/ca.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 23 | 1402 | 1.6 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/da.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/da.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 29 | 2053 | 1.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/sl.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/sl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 13 | 1402 | 0.9 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/sv.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/sv.po | 
+ | [en_GB](/f22/language/en_GB) | 3447 | 3447 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/en_GB.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/en_GB.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/en_GB.po | 
+ | [es](/f22/language/es) | 3447 | 3447 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/es.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/es.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/es.po | 
+ | [gl](/f22/language/gl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/gl.po | 
+ | [oc](/f22/language/oc) | 8 | 8 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/oc.po | 
+ | [ru](/f22/language/ru) | 3447 | 3447 | 100.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ru.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ru.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/ru.po | 
+ | [nl](/f22/language/nl) | 3444 | 3447 | 99.9 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/nl.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/nl.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/nl.po | 
+ | [fr](/f22/language/fr) | 2868 | 3447 | 83.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/fr.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/fr.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/fr.po | 
+ | [de](/f22/language/de) | 2767 | 3447 | 80.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/de.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/de.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/de.po | 
+ | [pl](/f22/language/pl) | 2588 | 3447 | 75.1 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/pl.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/pl.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/pl.po | 
+ | [ar](/f22/language/ar) | 2568 | 3447 | 74.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ar.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ar.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/ar.po | 
+ | [pt](/f22/language/pt) | 2563 | 3447 | 74.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/pt.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/pt.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/pt.po | 
+ | [it](/f22/language/it) | 2324 | 3447 | 67.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/it.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/it.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/it.po | 
+ | [el](/f22/language/el) | 2155 | 3447 | 62.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/el.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/el.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/el.po | 
+ | [nb_NO](/f22/language/nb_NO) | 5 | 8 | 62.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/nb.po | 
+ | [af](/f22/language/af) | 1129 | 2053 | 55.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/af.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/af.po | 
+ | [ja](/f22/language/ja) | 749 | 2053 | 36.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ja.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ja.po | 
+ | [hu](/f22/language/hu) | 1160 | 3447 | 33.7 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/hu.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/hu.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/hu.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1080 | 3447 | 31.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/pt_BR.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/pt_BR.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/pt_BR.po | 
+ | [sr](/f22/language/sr) | 869 | 3447 | 25.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/sr.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/sr.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/sr.po | 
+ | [uk](/f22/language/uk) | 280 | 1402 | 20.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/uk.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/uk.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 390 | 3447 | 11.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/zh_TW.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/zh_TW.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/zh_TW.po | 
+ | [bs](/f22/language/bs) | 229 | 2053 | 11.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/bs.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/bs.po | 
+ | [fi](/f22/language/fi) | 199 | 2045 | 9.7 | /mnt/stockage/packages/f22/geda-gaf/gschem/po/fi.po | 
+ | [tr](/f22/language/tr) | 326 | 3447 | 9.5 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/tr.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/tr.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/tr.po | 
+ | [fa](/f22/language/fa) | 129 | 2053 | 6.3 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/fa.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/fa.po | 
+ | [he](/f22/language/he) | 127 | 2045 | 6.2 | /mnt/stockage/packages/f22/geda-gaf/gschem/po/he.po | 
+ | [ml](/f22/language/ml) | 106 | 2053 | 5.2 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ml.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/ml.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 137 | 3447 | 4.0 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/zh_CN.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/zh_CN.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/zh_CN.po | 
+ | [bg](/f22/language/bg) | 64 | 2053 | 3.1 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/bg.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/bg.po | 
+ | [ca](/f22/language/ca) | 33 | 1402 | 2.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/ca.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/ca.po | 
+ | [da](/f22/language/da) | 23 | 1402 | 1.6 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/da.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/da.po | 
+ | [sl](/f22/language/sl) | 29 | 2053 | 1.4 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/sl.po/mnt/stockage/packages/f22/geda-gaf/gschem/po/sl.po | 
+ | [sv](/f22/language/sv) | 13 | 1402 | 0.9 | /mnt/stockage/packages/f22/geda-gaf/gattrib/po/sv.po/mnt/stockage/packages/f22/geda-gaf/libgeda/po/sv.po | 
 {.sortable}
 
 

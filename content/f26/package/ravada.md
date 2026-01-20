@@ -18,12 +18,12 @@ The package ravada (version 0.2.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 511 | 511 | 100.0 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/hi.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/id.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 404 | 405 | 99.8 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/fr.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 597 | 603 | 99.0 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/es.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 1466 | 1851 | 79.2 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/ca.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 103 | 258 | 39.9 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/jp.po | 
+ | [hi](/f26/language/hi) | 511 | 511 | 100.0 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/hi.po | 
+ | [id](/f26/language/id) | 382 | 382 | 100.0 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/id.po | 
+ | [fr](/f26/language/fr) | 404 | 405 | 99.8 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/fr.po | 
+ | [es](/f26/language/es) | 597 | 603 | 99.0 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/es.po | 
+ | [ca](/f26/language/ca) | 1466 | 1851 | 79.2 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/ca.po | 
+ | [ja](/f26/language/ja) | 103 | 258 | 39.9 | /mnt/stockage/packages/f26/ravada/lib/Ravada/I18N/jp.po | 
 {.sortable}
 
 

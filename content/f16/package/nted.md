@@ -18,17 +18,17 @@ The package nted (version 1.10.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1293 | 1299 | 99.5 | /mnt/stockage/packages/f16/nted/po/nl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1283 | 1299 | 98.8 | /mnt/stockage/packages/f16/nted/po/zh_CN.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1235 | 1299 | 95.1 | /mnt/stockage/packages/f16/nted/po/ru.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 13323 | 14259 | 93.4 | /mnt/stockage/packages/f16/nted/doc/de/de.po/mnt/stockage/packages/f16/nted/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 12666 | 14259 | 88.8 | /mnt/stockage/packages/f16/nted/doc/es/es.po/mnt/stockage/packages/f16/nted/po/es.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 10534 | 14259 | 73.9 | /mnt/stockage/packages/f16/nted/doc/it/it.po/mnt/stockage/packages/f16/nted/po/it.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 833 | 1299 | 64.1 | /mnt/stockage/packages/f16/nted/po/uk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 681 | 1299 | 52.4 | /mnt/stockage/packages/f16/nted/po/sv.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 413 | 1299 | 31.8 | /mnt/stockage/packages/f16/nted/po/hu.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1182 | 14259 | 8.3 | /mnt/stockage/packages/f16/nted/doc/fr/fr.po/mnt/stockage/packages/f16/nted/po/fr.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 86 | 1299 | 6.6 | /mnt/stockage/packages/f16/nted/po/en_GB.po | 
+ | [nl](/f16/language/nl) | 1293 | 1299 | 99.5 | /mnt/stockage/packages/f16/nted/po/nl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1283 | 1299 | 98.8 | /mnt/stockage/packages/f16/nted/po/zh_CN.po | 
+ | [ru](/f16/language/ru) | 1235 | 1299 | 95.1 | /mnt/stockage/packages/f16/nted/po/ru.po | 
+ | [de](/f16/language/de) | 13323 | 14259 | 93.4 | /mnt/stockage/packages/f16/nted/doc/de/de.po/mnt/stockage/packages/f16/nted/po/de.po | 
+ | [es](/f16/language/es) | 12666 | 14259 | 88.8 | /mnt/stockage/packages/f16/nted/doc/es/es.po/mnt/stockage/packages/f16/nted/po/es.po | 
+ | [it](/f16/language/it) | 10534 | 14259 | 73.9 | /mnt/stockage/packages/f16/nted/doc/it/it.po/mnt/stockage/packages/f16/nted/po/it.po | 
+ | [uk](/f16/language/uk) | 833 | 1299 | 64.1 | /mnt/stockage/packages/f16/nted/po/uk.po | 
+ | [sv](/f16/language/sv) | 681 | 1299 | 52.4 | /mnt/stockage/packages/f16/nted/po/sv.po | 
+ | [hu](/f16/language/hu) | 413 | 1299 | 31.8 | /mnt/stockage/packages/f16/nted/po/hu.po | 
+ | [fr](/f16/language/fr) | 1182 | 14259 | 8.3 | /mnt/stockage/packages/f16/nted/doc/fr/fr.po/mnt/stockage/packages/f16/nted/po/fr.po | 
+ | [en_GB](/f16/language/en_GB) | 86 | 1299 | 6.6 | /mnt/stockage/packages/f16/nted/po/en_GB.po | 
 {.sortable}
 
 

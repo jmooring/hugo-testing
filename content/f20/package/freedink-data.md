@@ -18,15 +18,15 @@ The package freedink-data (version 1.08.20121209):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/da.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/eo.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/fr.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/nl.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 13629 | 13758 | 99.1 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/es.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 13438 | 13758 | 97.7 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/de.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 2611 | 13770 | 19.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/mk.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 2302 | 13758 | 16.7 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/hr.po | 
+ | [da](/f20/language/da) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/da.po | 
+ | [eo](/f20/language/eo) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/eo.po | 
+ | [fi](/f20/language/fi) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/fi.po | 
+ | [fr](/f20/language/fr) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/fr.po | 
+ | [nl](/f20/language/nl) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/nl.po | 
+ | [es](/f20/language/es) | 13629 | 13758 | 99.1 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/es.po | 
+ | [de](/f20/language/de) | 13438 | 13758 | 97.7 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/de.po | 
+ | [mk](/f20/language/mk) | 2611 | 13770 | 19.0 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/mk.po | 
+ | [hr](/f20/language/hr) | 2302 | 13758 | 16.7 | /mnt/stockage/packages/f20/freedink-data/dink/l10n/hr.po | 
 {.sortable}
 
 

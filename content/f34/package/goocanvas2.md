@@ -18,16 +18,16 @@ The package goocanvas2 (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/cs.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/es.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/id.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/pt_BR.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/sv.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1234 | 1730 | 71.3 | /mnt/stockage/packages/f34/goocanvas2/po/ja.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 0 | 1730 | 0.0 | /mnt/stockage/packages/f34/goocanvas2/po/en_GB.po | 
+ | [cs](/f34/language/cs) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/cs.po | 
+ | [de](/f34/language/de) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/de.po | 
+ | [es](/f34/language/es) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/es.po | 
+ | [id](/f34/language/id) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/id.po | 
+ | [pl](/f34/language/pl) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/pt_BR.po | 
+ | [sr](/f34/language/sr) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/sr.po | 
+ | [sv](/f34/language/sv) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f34/goocanvas2/po/sv.po | 
+ | [ja](/f34/language/ja) | 1234 | 1730 | 71.3 | /mnt/stockage/packages/f34/goocanvas2/po/ja.po | 
+ | [en_GB](/f34/language/en_GB) | 0 | 1730 | 0.0 | /mnt/stockage/packages/f34/goocanvas2/po/en_GB.po | 
 {.sortable}
 
 

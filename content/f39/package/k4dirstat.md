@@ -18,16 +18,16 @@ The package k4dirstat (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/ca.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/it.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/lt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/nl.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 530 | 547 | 96.9 | /mnt/stockage/packages/f39/k4dirstat/po/de.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 412 | 547 | 75.3 | /mnt/stockage/packages/f39/k4dirstat/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 369 | 547 | 67.5 | /mnt/stockage/packages/f39/k4dirstat/po/ja.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 310 | 533 | 58.2 | /mnt/stockage/packages/f39/k4dirstat/po/lv.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 193 | 547 | 35.3 | /mnt/stockage/packages/f39/k4dirstat/po/hu.po | 
- | [es_AR]({{< ref "/f39/language/es_AR.md" >}}) | 45 | 533 | 8.4 | /mnt/stockage/packages/f39/k4dirstat/po/es_AR.po | 
+ | [ca](/f39/language/ca) | 547 | 547 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/ca.po | 
+ | [it](/f39/language/it) | 547 | 547 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/it.po | 
+ | [lt](/f39/language/lt) | 533 | 533 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/lt.po | 
+ | [nl](/f39/language/nl) | 547 | 547 | 100.0 | /mnt/stockage/packages/f39/k4dirstat/po/nl.po | 
+ | [de](/f39/language/de) | 530 | 547 | 96.9 | /mnt/stockage/packages/f39/k4dirstat/po/de.po | 
+ | [fr](/f39/language/fr) | 412 | 547 | 75.3 | /mnt/stockage/packages/f39/k4dirstat/po/fr.po | 
+ | [ja](/f39/language/ja) | 369 | 547 | 67.5 | /mnt/stockage/packages/f39/k4dirstat/po/ja.po | 
+ | [lv](/f39/language/lv) | 310 | 533 | 58.2 | /mnt/stockage/packages/f39/k4dirstat/po/lv.po | 
+ | [hu](/f39/language/hu) | 193 | 547 | 35.3 | /mnt/stockage/packages/f39/k4dirstat/po/hu.po | 
+ | [es_AR](/f39/language/es_AR) | 45 | 533 | 8.4 | /mnt/stockage/packages/f39/k4dirstat/po/es_AR.po | 
 {.sortable}
 
 

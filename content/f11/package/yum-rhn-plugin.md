@@ -18,68 +18,68 @@ The package yum-rhn-plugin (version 0.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/as.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/bn_IN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/fr.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/gu.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hi.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hr.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/is.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ja.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ko.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/mk.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/mr.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ms.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/nl.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pt_BR.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ru.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/si.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sr.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/te.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/zh_TW.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 55 | 107 | 51.4 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/lv.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 55 | 107 | 51.4 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 49 | 107 | 45.8 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/tr.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 62 | 214 | 29.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sr@Latn.po/mnt/stockage/packages/f11/yum-rhn-plugin/po/ds.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 62 | 214 | 29.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/no.po/mnt/stockage/packages/f11/yum-rhn-plugin/po/nb.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ar.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/bg.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/bn.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/cs.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/cy.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/da.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/en_GB.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/et.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/fa.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/fi.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/he.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hu.po | 
- | [hy]({{< ref "/f11/language/hy.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hy.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/id.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ka.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ku.po | 
- | [lo]({{< ref "/f11/language/lo.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/lo.po | 
- | [my]({{< ref "/f11/language/my.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/my.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sk.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sl.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sq.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/uk.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ur.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/vi.po | 
+ | [as](/f11/language/as) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/as.po | 
+ | [bn_IN](/f11/language/bn_IN) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/bn_IN.po | 
+ | [de](/f11/language/de) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/de.po | 
+ | [es](/f11/language/es) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/es.po | 
+ | [fr](/f11/language/fr) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/fr.po | 
+ | [gu](/f11/language/gu) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/gu.po | 
+ | [hi](/f11/language/hi) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hi.po | 
+ | [hr](/f11/language/hr) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hr.po | 
+ | [is](/f11/language/is) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/is.po | 
+ | [it](/f11/language/it) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/it.po | 
+ | [ja](/f11/language/ja) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ja.po | 
+ | [kn](/f11/language/kn) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/kn.po | 
+ | [ko](/f11/language/ko) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ko.po | 
+ | [mk](/f11/language/mk) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/mk.po | 
+ | [ml](/f11/language/ml) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ml.po | 
+ | [mr](/f11/language/mr) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/mr.po | 
+ | [ms](/f11/language/ms) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ms.po | 
+ | [nl](/f11/language/nl) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/nl.po | 
+ | [or](/f11/language/or) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/or.po | 
+ | [pa](/f11/language/pa) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pa.po | 
+ | [pl](/f11/language/pl) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pl.po | 
+ | [pt](/f11/language/pt) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/pt_BR.po | 
+ | [ro](/f11/language/ro) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ro.po | 
+ | [ru](/f11/language/ru) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ru.po | 
+ | [si](/f11/language/si) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/si.po | 
+ | [sr](/f11/language/sr) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sr.po | 
+ | [ta](/f11/language/ta) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ta.po | 
+ | [te](/f11/language/te) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/te.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 62 | 107 | 57.9 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/zh_TW.po | 
+ | [lv](/f11/language/lv) | 55 | 107 | 51.4 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/lv.po | 
+ | [sv](/f11/language/sv) | 55 | 107 | 51.4 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sv.po | 
+ | [tr](/f11/language/tr) | 49 | 107 | 45.8 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/tr.po | 
+ | [error](/f11/language/error) | 62 | 214 | 29.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sr@Latn.po/mnt/stockage/packages/f11/yum-rhn-plugin/po/ds.po | 
+ | [nb_NO](/f11/language/nb_NO) | 62 | 214 | 29.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/no.po/mnt/stockage/packages/f11/yum-rhn-plugin/po/nb.po | 
+ | [ar](/f11/language/ar) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ar.po | 
+ | [bg](/f11/language/bg) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/bg.po | 
+ | [bn](/f11/language/bn) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/bn.po | 
+ | [ca](/f11/language/ca) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ca.po | 
+ | [cs](/f11/language/cs) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/cs.po | 
+ | [cy](/f11/language/cy) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/cy.po | 
+ | [da](/f11/language/da) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/da.po | 
+ | [el](/f11/language/el) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/el.po | 
+ | [en_GB](/f11/language/en_GB) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/en_GB.po | 
+ | [et](/f11/language/et) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/et.po | 
+ | [fa](/f11/language/fa) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/fa.po | 
+ | [fi](/f11/language/fi) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/fi.po | 
+ | [he](/f11/language/he) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/he.po | 
+ | [hu](/f11/language/hu) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hu.po | 
+ | [hy](/f11/language/hy) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/hy.po | 
+ | [id](/f11/language/id) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/id.po | 
+ | [ka](/f11/language/ka) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ka.po | 
+ | [ku](/f11/language/ku) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ku.po | 
+ | [lo](/f11/language/lo) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/lo.po | 
+ | [my](/f11/language/my) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/my.po | 
+ | [sk](/f11/language/sk) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sk.po | 
+ | [sl](/f11/language/sl) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sl.po | 
+ | [sq](/f11/language/sq) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/sq.po | 
+ | [uk](/f11/language/uk) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/uk.po | 
+ | [ur](/f11/language/ur) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/ur.po | 
+ | [vi](/f11/language/vi) | 0 | 107 | 0.0 | /mnt/stockage/packages/f11/yum-rhn-plugin/po/vi.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package python-oslo-db (version 8.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 953 | 953 | 100.0 | /mnt/stockage/packages/f36/python-oslo-db/oslo_db/locale/en_GB/LC_MESSAGES/oslo_db.po/mnt/stockage/packages/f36/python-oslo-db/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f36/python-oslo-db/oslo_db/locale/es/LC_MESSAGES/oslo_db.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f36/python-oslo-db/oslo_db/locale/fr/LC_MESSAGES/oslo_db.po/mnt/stockage/packages/f36/python-oslo-db/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f36/language/en_GB) | 953 | 953 | 100.0 | /mnt/stockage/packages/f36/python-oslo-db/oslo_db/locale/en_GB/LC_MESSAGES/oslo_db.po/mnt/stockage/packages/f36/python-oslo-db/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f36/language/es) | 118 | 118 | 100.0 | /mnt/stockage/packages/f36/python-oslo-db/oslo_db/locale/es/LC_MESSAGES/oslo_db.po | 
+ | [fr](/f36/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f36/python-oslo-db/oslo_db/locale/fr/LC_MESSAGES/oslo_db.po/mnt/stockage/packages/f36/python-oslo-db/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

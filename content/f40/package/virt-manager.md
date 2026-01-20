@@ -18,54 +18,54 @@ The package virt-manager (version 4.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/cs.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/fi.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/pl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/uk.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 7324 | 7347 | 99.7 | /mnt/stockage/packages/f40/virt-manager/po/zh_TW.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 6990 | 7347 | 95.1 | /mnt/stockage/packages/f40/virt-manager/po/ja.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 6971 | 7347 | 94.9 | /mnt/stockage/packages/f40/virt-manager/po/ru.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 6967 | 7347 | 94.8 | /mnt/stockage/packages/f40/virt-manager/po/zh_CN.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 6932 | 7347 | 94.4 | /mnt/stockage/packages/f40/virt-manager/po/it.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 6718 | 7347 | 91.4 | /mnt/stockage/packages/f40/virt-manager/po/pt_BR.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 6048 | 7347 | 82.3 | /mnt/stockage/packages/f40/virt-manager/po/fr.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 5885 | 7347 | 80.1 | /mnt/stockage/packages/f40/virt-manager/po/fur.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 5597 | 7347 | 76.2 | /mnt/stockage/packages/f40/virt-manager/po/es.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 5243 | 7347 | 71.4 | /mnt/stockage/packages/f40/virt-manager/po/de.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 4832 | 7347 | 65.8 | /mnt/stockage/packages/f40/virt-manager/po/ca.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 4709 | 7347 | 64.1 | /mnt/stockage/packages/f40/virt-manager/po/en_GB.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 4452 | 7347 | 60.6 | /mnt/stockage/packages/f40/virt-manager/po/pt.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 4273 | 7331 | 58.3 | /mnt/stockage/packages/f40/virt-manager/po/ka.po | 
- | [bn_IN]({{< ref "/f40/language/bn_IN.md" >}}) | 3647 | 7347 | 49.6 | /mnt/stockage/packages/f40/virt-manager/po/bn_IN.po | 
- | [as]({{< ref "/f40/language/as.md" >}}) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/as.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/kn.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/mr.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/ta.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/te.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 3242 | 7347 | 44.1 | /mnt/stockage/packages/f40/virt-manager/po/gu.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 2884 | 7347 | 39.3 | /mnt/stockage/packages/f40/virt-manager/po/ml.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 2798 | 7347 | 38.1 | /mnt/stockage/packages/f40/virt-manager/po/hu.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 2708 | 7347 | 36.9 | /mnt/stockage/packages/f40/virt-manager/po/pa.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 2692 | 7347 | 36.6 | /mnt/stockage/packages/f40/virt-manager/po/nl.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 2375 | 7347 | 32.3 | /mnt/stockage/packages/f40/virt-manager/po/or.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 2306 | 7347 | 31.4 | /mnt/stockage/packages/f40/virt-manager/po/sk.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 2199 | 7347 | 29.9 | /mnt/stockage/packages/f40/virt-manager/po/hi.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 1812 | 7347 | 24.7 | /mnt/stockage/packages/f40/virt-manager/po/hr.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 912 | 7347 | 12.4 | /mnt/stockage/packages/f40/virt-manager/po/sr.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 908 | 7347 | 12.4 | /mnt/stockage/packages/f40/virt-manager/po/da.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 529 | 7347 | 7.2 | /mnt/stockage/packages/f40/virt-manager/po/id.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 231 | 7347 | 3.1 | /mnt/stockage/packages/f40/virt-manager/po/sr@latin.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 112 | 7347 | 1.5 | /mnt/stockage/packages/f40/virt-manager/po/bg.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 78 | 7347 | 1.1 | /mnt/stockage/packages/f40/virt-manager/po/ro.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 67 | 7347 | 0.9 | /mnt/stockage/packages/f40/virt-manager/po/bs.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 60 | 7347 | 0.8 | /mnt/stockage/packages/f40/virt-manager/po/nb.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 25 | 7347 | 0.3 | /mnt/stockage/packages/f40/virt-manager/po/ms.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 22 | 7347 | 0.3 | /mnt/stockage/packages/f40/virt-manager/po/is.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 1 | 7347 | 0.0 | /mnt/stockage/packages/f40/virt-manager/po/si.po | 
- | [kab]({{< ref "/f40/language/kab.md" >}}) | 0 | 7347 | 0.0 | /mnt/stockage/packages/f40/virt-manager/po/kab.po | 
+ | [cs](/f40/language/cs) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/cs.po | 
+ | [fi](/f40/language/fi) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/fi.po | 
+ | [ko](/f40/language/ko) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/ko.po | 
+ | [pl](/f40/language/pl) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/pl.po | 
+ | [sv](/f40/language/sv) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/sv.po | 
+ | [tr](/f40/language/tr) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/tr.po | 
+ | [uk](/f40/language/uk) | 7347 | 7347 | 100.0 | /mnt/stockage/packages/f40/virt-manager/po/uk.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 7324 | 7347 | 99.7 | /mnt/stockage/packages/f40/virt-manager/po/zh_TW.po | 
+ | [ja](/f40/language/ja) | 6990 | 7347 | 95.1 | /mnt/stockage/packages/f40/virt-manager/po/ja.po | 
+ | [ru](/f40/language/ru) | 6971 | 7347 | 94.9 | /mnt/stockage/packages/f40/virt-manager/po/ru.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 6967 | 7347 | 94.8 | /mnt/stockage/packages/f40/virt-manager/po/zh_CN.po | 
+ | [it](/f40/language/it) | 6932 | 7347 | 94.4 | /mnt/stockage/packages/f40/virt-manager/po/it.po | 
+ | [pt_BR](/f40/language/pt_BR) | 6718 | 7347 | 91.4 | /mnt/stockage/packages/f40/virt-manager/po/pt_BR.po | 
+ | [fr](/f40/language/fr) | 6048 | 7347 | 82.3 | /mnt/stockage/packages/f40/virt-manager/po/fr.po | 
+ | [fur](/f40/language/fur) | 5885 | 7347 | 80.1 | /mnt/stockage/packages/f40/virt-manager/po/fur.po | 
+ | [es](/f40/language/es) | 5597 | 7347 | 76.2 | /mnt/stockage/packages/f40/virt-manager/po/es.po | 
+ | [de](/f40/language/de) | 5243 | 7347 | 71.4 | /mnt/stockage/packages/f40/virt-manager/po/de.po | 
+ | [ca](/f40/language/ca) | 4832 | 7347 | 65.8 | /mnt/stockage/packages/f40/virt-manager/po/ca.po | 
+ | [en_GB](/f40/language/en_GB) | 4709 | 7347 | 64.1 | /mnt/stockage/packages/f40/virt-manager/po/en_GB.po | 
+ | [pt](/f40/language/pt) | 4452 | 7347 | 60.6 | /mnt/stockage/packages/f40/virt-manager/po/pt.po | 
+ | [ka](/f40/language/ka) | 4273 | 7331 | 58.3 | /mnt/stockage/packages/f40/virt-manager/po/ka.po | 
+ | [bn_IN](/f40/language/bn_IN) | 3647 | 7347 | 49.6 | /mnt/stockage/packages/f40/virt-manager/po/bn_IN.po | 
+ | [as](/f40/language/as) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/as.po | 
+ | [kn](/f40/language/kn) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/kn.po | 
+ | [mr](/f40/language/mr) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/mr.po | 
+ | [ta](/f40/language/ta) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/ta.po | 
+ | [te](/f40/language/te) | 3540 | 7347 | 48.2 | /mnt/stockage/packages/f40/virt-manager/po/te.po | 
+ | [gu](/f40/language/gu) | 3242 | 7347 | 44.1 | /mnt/stockage/packages/f40/virt-manager/po/gu.po | 
+ | [ml](/f40/language/ml) | 2884 | 7347 | 39.3 | /mnt/stockage/packages/f40/virt-manager/po/ml.po | 
+ | [hu](/f40/language/hu) | 2798 | 7347 | 38.1 | /mnt/stockage/packages/f40/virt-manager/po/hu.po | 
+ | [pa](/f40/language/pa) | 2708 | 7347 | 36.9 | /mnt/stockage/packages/f40/virt-manager/po/pa.po | 
+ | [nl](/f40/language/nl) | 2692 | 7347 | 36.6 | /mnt/stockage/packages/f40/virt-manager/po/nl.po | 
+ | [or](/f40/language/or) | 2375 | 7347 | 32.3 | /mnt/stockage/packages/f40/virt-manager/po/or.po | 
+ | [sk](/f40/language/sk) | 2306 | 7347 | 31.4 | /mnt/stockage/packages/f40/virt-manager/po/sk.po | 
+ | [hi](/f40/language/hi) | 2199 | 7347 | 29.9 | /mnt/stockage/packages/f40/virt-manager/po/hi.po | 
+ | [hr](/f40/language/hr) | 1812 | 7347 | 24.7 | /mnt/stockage/packages/f40/virt-manager/po/hr.po | 
+ | [sr](/f40/language/sr) | 912 | 7347 | 12.4 | /mnt/stockage/packages/f40/virt-manager/po/sr.po | 
+ | [da](/f40/language/da) | 908 | 7347 | 12.4 | /mnt/stockage/packages/f40/virt-manager/po/da.po | 
+ | [id](/f40/language/id) | 529 | 7347 | 7.2 | /mnt/stockage/packages/f40/virt-manager/po/id.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 231 | 7347 | 3.1 | /mnt/stockage/packages/f40/virt-manager/po/sr@latin.po | 
+ | [bg](/f40/language/bg) | 112 | 7347 | 1.5 | /mnt/stockage/packages/f40/virt-manager/po/bg.po | 
+ | [ro](/f40/language/ro) | 78 | 7347 | 1.1 | /mnt/stockage/packages/f40/virt-manager/po/ro.po | 
+ | [bs](/f40/language/bs) | 67 | 7347 | 0.9 | /mnt/stockage/packages/f40/virt-manager/po/bs.po | 
+ | [nb_NO](/f40/language/nb_NO) | 60 | 7347 | 0.8 | /mnt/stockage/packages/f40/virt-manager/po/nb.po | 
+ | [ms](/f40/language/ms) | 25 | 7347 | 0.3 | /mnt/stockage/packages/f40/virt-manager/po/ms.po | 
+ | [is](/f40/language/is) | 22 | 7347 | 0.3 | /mnt/stockage/packages/f40/virt-manager/po/is.po | 
+ | [si](/f40/language/si) | 1 | 7347 | 0.0 | /mnt/stockage/packages/f40/virt-manager/po/si.po | 
+ | [kab](/f40/language/kab) | 0 | 7347 | 0.0 | /mnt/stockage/packages/f40/virt-manager/po/kab.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f25/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 361 | 499 | 72.3 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 1593 | 2618 | 60.8 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/projects/p/MATE/language/es_UY/) | 
+ | [libgweather](/f25/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f25/package/libmateweather) | 361 | 499 | 72.3 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [mate-applets](/f25/package/mate-applets) | 1593 | 2618 | 60.8 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [openerp](/f25/package/openerp) | 1003 | 10716 | 9.4 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [openerp7](/f25/package/openerp7) | 333 | 10657 | 3.1 | Spanish (Uruguay) <es_UY@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/mate/MATE/language/es_UY/) | 
+ | [mate-menu](/f25/package/mate-menu) | 0 | 300 | 0.0 | Spanish (Uruguay) (http://www.transifex.com/projects/p/MATE/language/es_UY/) | 
 {.sortable}
 
 

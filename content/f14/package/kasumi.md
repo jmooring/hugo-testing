@@ -18,8 +18,8 @@ The package kasumi (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f14/kasumi/po/ja.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 82 | 193 | 42.5 | /mnt/stockage/packages/f14/kasumi/po/it.po | 
+ | [ja](/f14/language/ja) | 193 | 193 | 100.0 | /mnt/stockage/packages/f14/kasumi/po/ja.po | 
+ | [it](/f14/language/it) | 82 | 193 | 42.5 | /mnt/stockage/packages/f14/kasumi/po/it.po | 
 {.sortable}
 
 

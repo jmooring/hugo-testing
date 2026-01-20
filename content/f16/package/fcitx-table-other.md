@@ -18,8 +18,8 @@ The package fcitx-table-other (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f16/fcitx-table-other/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f16/fcitx-table-other/po/zh_TW.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 12 | 12 | 100.0 | /mnt/stockage/packages/f16/fcitx-table-other/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 0 | 12 | 0.0 | /mnt/stockage/packages/f16/fcitx-table-other/po/zh_TW.po | 
 {.sortable}
 
 

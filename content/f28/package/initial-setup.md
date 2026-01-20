@@ -18,115 +18,115 @@ The package initial-setup (version 0.3.58):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f28/language/as.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/as.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/bn_IN.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/fr.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/gl.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/gu.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/he.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/hi.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ja.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/kk.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/km.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/kn.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ko.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ml.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/mr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/nl.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/or.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pa.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ro.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sk.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sq.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sv.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ta.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/te.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/th.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/tr.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/uk.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 20 | 33 | 60.6 | /mnt/stockage/packages/f28/initial-setup/po/ia.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 33 | 66 | 50.0 | /mnt/stockage/packages/f28/initial-setup/po/ru_RU.po/mnt/stockage/packages/f28/initial-setup/po/ru.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 33 | 66 | 50.0 | /mnt/stockage/packages/f28/initial-setup/po/zh_CN.po/mnt/stockage/packages/f28/initial-setup/po/zh_CN.GB2312.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 33 | 66 | 50.0 | /mnt/stockage/packages/f28/initial-setup/po/zh_TW.po/mnt/stockage/packages/f28/initial-setup/po/zh_TW.Big5.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 20 | 66 | 30.3 | /mnt/stockage/packages/f28/initial-setup/po/nb.po/mnt/stockage/packages/f28/initial-setup/po/no.po | 
- | [ach]({{< ref "/f28/language/ach.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ach.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/af.po | 
- | [aln]({{< ref "/f28/language/aln.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/aln.po | 
- | [am]({{< ref "/f28/language/am.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/am.po | 
- | [anp]({{< ref "/f28/language/anp.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/anp.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ar.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ast.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/az.po | 
- | [bal]({{< ref "/f28/language/bal.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bal.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/be.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bg.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bn.po | 
- | [bo]({{< ref "/f28/language/bo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bo.po | 
- | [br]({{< ref "/f28/language/br.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/br.po | 
- | [brx]({{< ref "/f28/language/brx.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/brx.po | 
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bs.po | 
- | [cy]({{< ref "/f28/language/cy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/cy.po | 
- | [de_CH]({{< ref "/f28/language/de_CH.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/de_CH.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/dz.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/el.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/en_GB.po | 
- | [en_US]({{< ref "/f28/language/en_US.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/en_US.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/eo.po | 
- | [error]({{< ref "/f28/language/error.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/kw@uccor.po/mnt/stockage/packages/f28/initial-setup/po/wba.po/mnt/stockage/packages/f28/initial-setup/po/kw@kkcor.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/et.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/eu.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/fa.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ga.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/hr.po | 
- | [hy]({{< ref "/f28/language/hy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/hy.po | 
- | [ilo]({{< ref "/f28/language/ilo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ilo.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/is.po | 
- | [ka]({{< ref "/f28/language/ka.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ka.po | 
- | [ks]({{< ref "/f28/language/ks.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ks.po | 
- | [ku]({{< ref "/f28/language/ku.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ku.po | 
- | [kw]({{< ref "/f28/language/kw.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/kw_GB.po/mnt/stockage/packages/f28/initial-setup/po/kw.po | 
- | [ky]({{< ref "/f28/language/ky.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ky.po | 
- | [la]({{< ref "/f28/language/la.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/la.po | 
- | [lo]({{< ref "/f28/language/lo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/lo.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/lt.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/lv.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mai.po | 
- | [mg]({{< ref "/f28/language/mg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mg.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mk.po | 
- | [mn]({{< ref "/f28/language/mn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mn.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ms.po | 
- | [my]({{< ref "/f28/language/my.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/my.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/nds.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ne.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/nn.po | 
- | [nso]({{< ref "/f28/language/nso.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/nso.po | 
- | [si]({{< ref "/f28/language/si.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/si.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/sl.po | 
- | [sr_Latn]({{< ref "/f28/language/sr_Latn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/sr@latin.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/tg.po | 
- | [tl]({{< ref "/f28/language/tl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/tl.po | 
- | [tw]({{< ref "/f28/language/tw.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/tw.po | 
- | [ur]({{< ref "/f28/language/ur.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ur.po | 
- | [uz]({{< ref "/f28/language/uz.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/uz.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/vi.po | 
- | [wo]({{< ref "/f28/language/wo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/wo.po | 
- | [xh]({{< ref "/f28/language/xh.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/xh.po | 
- | [yo]({{< ref "/f28/language/yo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f28/language/zh_Hant_HK.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/zh_HK.po | 
- | [zu]({{< ref "/f28/language/zu.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/zu.po | 
+ | [as](/f28/language/as) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/as.po | 
+ | [bn_IN](/f28/language/bn_IN) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/bn_IN.po | 
+ | [ca](/f28/language/ca) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ca.po | 
+ | [cs](/f28/language/cs) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/cs.po | 
+ | [da](/f28/language/da) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/da.po | 
+ | [de](/f28/language/de) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/de.po | 
+ | [es](/f28/language/es) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/es.po | 
+ | [fi](/f28/language/fi) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/fi.po | 
+ | [fr](/f28/language/fr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/fr.po | 
+ | [gl](/f28/language/gl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/gl.po | 
+ | [gu](/f28/language/gu) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/gu.po | 
+ | [he](/f28/language/he) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/he.po | 
+ | [hi](/f28/language/hi) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/hi.po | 
+ | [hu](/f28/language/hu) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/hu.po | 
+ | [id](/f28/language/id) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/id.po | 
+ | [it](/f28/language/it) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/it.po | 
+ | [ja](/f28/language/ja) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ja.po | 
+ | [kk](/f28/language/kk) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/kk.po | 
+ | [km](/f28/language/km) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/km.po | 
+ | [kn](/f28/language/kn) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/kn.po | 
+ | [ko](/f28/language/ko) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ko.po | 
+ | [ml](/f28/language/ml) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ml.po | 
+ | [mr](/f28/language/mr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/mr.po | 
+ | [nl](/f28/language/nl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/nl.po | 
+ | [or](/f28/language/or) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/or.po | 
+ | [pa](/f28/language/pa) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pa.po | 
+ | [pl](/f28/language/pl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pl.po | 
+ | [pt](/f28/language/pt) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ro.po | 
+ | [sk](/f28/language/sk) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sk.po | 
+ | [sq](/f28/language/sq) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sq.po | 
+ | [sr](/f28/language/sr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sr.po | 
+ | [sv](/f28/language/sv) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/sv.po | 
+ | [ta](/f28/language/ta) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/ta.po | 
+ | [te](/f28/language/te) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/te.po | 
+ | [th](/f28/language/th) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/th.po | 
+ | [tr](/f28/language/tr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/tr.po | 
+ | [uk](/f28/language/uk) | 33 | 33 | 100.0 | /mnt/stockage/packages/f28/initial-setup/po/uk.po | 
+ | [ia](/f28/language/ia) | 20 | 33 | 60.6 | /mnt/stockage/packages/f28/initial-setup/po/ia.po | 
+ | [ru](/f28/language/ru) | 33 | 66 | 50.0 | /mnt/stockage/packages/f28/initial-setup/po/ru_RU.po/mnt/stockage/packages/f28/initial-setup/po/ru.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 33 | 66 | 50.0 | /mnt/stockage/packages/f28/initial-setup/po/zh_CN.po/mnt/stockage/packages/f28/initial-setup/po/zh_CN.GB2312.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 33 | 66 | 50.0 | /mnt/stockage/packages/f28/initial-setup/po/zh_TW.po/mnt/stockage/packages/f28/initial-setup/po/zh_TW.Big5.po | 
+ | [nb_NO](/f28/language/nb_NO) | 20 | 66 | 30.3 | /mnt/stockage/packages/f28/initial-setup/po/nb.po/mnt/stockage/packages/f28/initial-setup/po/no.po | 
+ | [ach](/f28/language/ach) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ach.po | 
+ | [af](/f28/language/af) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/af.po | 
+ | [aln](/f28/language/aln) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/aln.po | 
+ | [am](/f28/language/am) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/am.po | 
+ | [anp](/f28/language/anp) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/anp.po | 
+ | [ar](/f28/language/ar) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ar.po | 
+ | [ast](/f28/language/ast) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ast.po | 
+ | [az](/f28/language/az) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/az.po | 
+ | [bal](/f28/language/bal) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bal.po | 
+ | [be](/f28/language/be) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/be.po | 
+ | [bg](/f28/language/bg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bg.po | 
+ | [bn](/f28/language/bn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bn.po | 
+ | [bo](/f28/language/bo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bo.po | 
+ | [br](/f28/language/br) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/br.po | 
+ | [brx](/f28/language/brx) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/brx.po | 
+ | [bs](/f28/language/bs) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/bs.po | 
+ | [cy](/f28/language/cy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/cy.po | 
+ | [de_CH](/f28/language/de_CH) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/de_CH.po | 
+ | [dz](/f28/language/dz) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/dz.po | 
+ | [el](/f28/language/el) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/el.po | 
+ | [en_GB](/f28/language/en_GB) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/en_GB.po | 
+ | [en_US](/f28/language/en_US) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/en_US.po | 
+ | [eo](/f28/language/eo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/eo.po | 
+ | [error](/f28/language/error) | 0 | 99 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/kw@uccor.po/mnt/stockage/packages/f28/initial-setup/po/wba.po/mnt/stockage/packages/f28/initial-setup/po/kw@kkcor.po | 
+ | [et](/f28/language/et) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/et.po | 
+ | [eu](/f28/language/eu) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/eu.po | 
+ | [fa](/f28/language/fa) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/fa.po | 
+ | [ga](/f28/language/ga) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ga.po | 
+ | [hr](/f28/language/hr) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/hr.po | 
+ | [hy](/f28/language/hy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/hy.po | 
+ | [ilo](/f28/language/ilo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ilo.po | 
+ | [is](/f28/language/is) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/is.po | 
+ | [ka](/f28/language/ka) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ka.po | 
+ | [ks](/f28/language/ks) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ks.po | 
+ | [ku](/f28/language/ku) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ku.po | 
+ | [kw](/f28/language/kw) | 0 | 66 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/kw_GB.po/mnt/stockage/packages/f28/initial-setup/po/kw.po | 
+ | [ky](/f28/language/ky) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ky.po | 
+ | [la](/f28/language/la) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/la.po | 
+ | [lo](/f28/language/lo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/lo.po | 
+ | [lt](/f28/language/lt) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/lt.po | 
+ | [lv](/f28/language/lv) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/lv.po | 
+ | [mai](/f28/language/mai) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mai.po | 
+ | [mg](/f28/language/mg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mg.po | 
+ | [mk](/f28/language/mk) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mk.po | 
+ | [mn](/f28/language/mn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/mn.po | 
+ | [ms](/f28/language/ms) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ms.po | 
+ | [my](/f28/language/my) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/my.po | 
+ | [nds](/f28/language/nds) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/nds.po | 
+ | [ne](/f28/language/ne) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ne.po | 
+ | [nn](/f28/language/nn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/nn.po | 
+ | [nso](/f28/language/nso) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/nso.po | 
+ | [si](/f28/language/si) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/si.po | 
+ | [sl](/f28/language/sl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/sl.po | 
+ | [sr_Latn](/f28/language/sr_Latn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/sr@latin.po | 
+ | [tg](/f28/language/tg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/tg.po | 
+ | [tl](/f28/language/tl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/tl.po | 
+ | [tw](/f28/language/tw) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/tw.po | 
+ | [ur](/f28/language/ur) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/ur.po | 
+ | [uz](/f28/language/uz) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/uz.po | 
+ | [vi](/f28/language/vi) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/vi.po | 
+ | [wo](/f28/language/wo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/wo.po | 
+ | [xh](/f28/language/xh) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/xh.po | 
+ | [yo](/f28/language/yo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/yo.po | 
+ | [zh_Hant_HK](/f28/language/zh_Hant_HK) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/zh_HK.po | 
+ | [zu](/f28/language/zu) | 0 | 33 | 0.0 | /mnt/stockage/packages/f28/initial-setup/po/zu.po | 
 {.sortable}
 
 

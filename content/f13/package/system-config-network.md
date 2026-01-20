@@ -18,67 +18,67 @@ The package system-config-network (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f13/language/as.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/as.po | 
- | [bn_IN]({{< ref "/f13/language/bn_IN.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/bn_IN.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/el.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/fr.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/gu.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/hu.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/id.po | 
- | [is]({{< ref "/f13/language/is.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/is.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ja.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/kn.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ko.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ml.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/mr.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/nb.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/nl.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/or.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pt_BR.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ru.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/sk.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 6044 | 6044 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/sr.po/mnt/stockage/packages/f13/system-config-network/po/sr@latin.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/te.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/uk.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/zh_TW.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 3020 | 3022 | 99.9 | /mnt/stockage/packages/f13/system-config-network/po/fi.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 2990 | 3022 | 98.9 | /mnt/stockage/packages/f13/system-config-network/po/ca.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 2990 | 3022 | 98.9 | /mnt/stockage/packages/f13/system-config-network/po/hi.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 2990 | 3022 | 98.9 | /mnt/stockage/packages/f13/system-config-network/po/ta.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 2697 | 3022 | 89.2 | /mnt/stockage/packages/f13/system-config-network/po/bg.po | 
- | [bn]({{< ref "/f13/language/bn.md" >}}) | 2683 | 3022 | 88.8 | /mnt/stockage/packages/f13/system-config-network/po/bn.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 2668 | 3022 | 88.3 | /mnt/stockage/packages/f13/system-config-network/po/hr.po | 
- | [bs]({{< ref "/f13/language/bs.md" >}}) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/bs.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/en_GB.po | 
- | [mk]({{< ref "/f13/language/mk.md" >}}) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/mk.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/ro.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/ar.po | 
- | [cy]({{< ref "/f13/language/cy.md" >}}) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/cy.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/et.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/tr.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 2324 | 3022 | 76.9 | /mnt/stockage/packages/f13/system-config-network/po/sl.po | 
- | [ur]({{< ref "/f13/language/ur.md" >}}) | 2299 | 3022 | 76.1 | /mnt/stockage/packages/f13/system-config-network/po/ur.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 2258 | 3022 | 74.7 | /mnt/stockage/packages/f13/system-config-network/po/fa.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1985 | 3022 | 65.7 | /mnt/stockage/packages/f13/system-config-network/po/vi.po | 
- | [ms]({{< ref "/f13/language/ms.md" >}}) | 1563 | 3022 | 51.7 | /mnt/stockage/packages/f13/system-config-network/po/ms.po | 
- | [si]({{< ref "/f13/language/si.md" >}}) | 704 | 3022 | 23.3 | /mnt/stockage/packages/f13/system-config-network/po/si.po | 
- | [ka]({{< ref "/f13/language/ka.md" >}}) | 636 | 3022 | 21.0 | /mnt/stockage/packages/f13/system-config-network/po/ka.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 577 | 3022 | 19.1 | /mnt/stockage/packages/f13/system-config-network/po/be.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/he.po | 
- | [hy]({{< ref "/f13/language/hy.md" >}}) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/hy.po | 
- | [ku]({{< ref "/f13/language/ku.md" >}}) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/ku.po | 
- | [lo]({{< ref "/f13/language/lo.md" >}}) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/lo.po | 
- | [my]({{< ref "/f13/language/my.md" >}}) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/my.po | 
- | [sq]({{< ref "/f13/language/sq.md" >}}) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/sq.po | 
+ | [as](/f13/language/as) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/as.po | 
+ | [bn_IN](/f13/language/bn_IN) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/bn_IN.po | 
+ | [cs](/f13/language/cs) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/cs.po | 
+ | [da](/f13/language/da) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/da.po | 
+ | [de](/f13/language/de) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/de.po | 
+ | [el](/f13/language/el) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/el.po | 
+ | [es](/f13/language/es) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/es.po | 
+ | [fr](/f13/language/fr) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/fr.po | 
+ | [gu](/f13/language/gu) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/gu.po | 
+ | [hu](/f13/language/hu) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/hu.po | 
+ | [id](/f13/language/id) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/id.po | 
+ | [is](/f13/language/is) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/is.po | 
+ | [it](/f13/language/it) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/it.po | 
+ | [ja](/f13/language/ja) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ja.po | 
+ | [kn](/f13/language/kn) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/kn.po | 
+ | [ko](/f13/language/ko) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ko.po | 
+ | [ml](/f13/language/ml) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ml.po | 
+ | [mr](/f13/language/mr) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/mr.po | 
+ | [nb_NO](/f13/language/nb_NO) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/nb.po | 
+ | [nl](/f13/language/nl) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/nl.po | 
+ | [or](/f13/language/or) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/or.po | 
+ | [pa](/f13/language/pa) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pa.po | 
+ | [pl](/f13/language/pl) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pl.po | 
+ | [pt](/f13/language/pt) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/pt_BR.po | 
+ | [ru](/f13/language/ru) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/ru.po | 
+ | [sk](/f13/language/sk) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/sk.po | 
+ | [sr](/f13/language/sr) | 6044 | 6044 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/sr.po/mnt/stockage/packages/f13/system-config-network/po/sr@latin.po | 
+ | [te](/f13/language/te) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/te.po | 
+ | [uk](/f13/language/uk) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/uk.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 3022 | 3022 | 100.0 | /mnt/stockage/packages/f13/system-config-network/po/zh_TW.po | 
+ | [fi](/f13/language/fi) | 3020 | 3022 | 99.9 | /mnt/stockage/packages/f13/system-config-network/po/fi.po | 
+ | [ca](/f13/language/ca) | 2990 | 3022 | 98.9 | /mnt/stockage/packages/f13/system-config-network/po/ca.po | 
+ | [hi](/f13/language/hi) | 2990 | 3022 | 98.9 | /mnt/stockage/packages/f13/system-config-network/po/hi.po | 
+ | [ta](/f13/language/ta) | 2990 | 3022 | 98.9 | /mnt/stockage/packages/f13/system-config-network/po/ta.po | 
+ | [bg](/f13/language/bg) | 2697 | 3022 | 89.2 | /mnt/stockage/packages/f13/system-config-network/po/bg.po | 
+ | [bn](/f13/language/bn) | 2683 | 3022 | 88.8 | /mnt/stockage/packages/f13/system-config-network/po/bn.po | 
+ | [hr](/f13/language/hr) | 2668 | 3022 | 88.3 | /mnt/stockage/packages/f13/system-config-network/po/hr.po | 
+ | [bs](/f13/language/bs) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/bs.po | 
+ | [en_GB](/f13/language/en_GB) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/en_GB.po | 
+ | [mk](/f13/language/mk) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/mk.po | 
+ | [ro](/f13/language/ro) | 2457 | 3022 | 81.3 | /mnt/stockage/packages/f13/system-config-network/po/ro.po | 
+ | [ar](/f13/language/ar) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/ar.po | 
+ | [cy](/f13/language/cy) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/cy.po | 
+ | [et](/f13/language/et) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/et.po | 
+ | [tr](/f13/language/tr) | 2327 | 3022 | 77.0 | /mnt/stockage/packages/f13/system-config-network/po/tr.po | 
+ | [sl](/f13/language/sl) | 2324 | 3022 | 76.9 | /mnt/stockage/packages/f13/system-config-network/po/sl.po | 
+ | [ur](/f13/language/ur) | 2299 | 3022 | 76.1 | /mnt/stockage/packages/f13/system-config-network/po/ur.po | 
+ | [fa](/f13/language/fa) | 2258 | 3022 | 74.7 | /mnt/stockage/packages/f13/system-config-network/po/fa.po | 
+ | [vi](/f13/language/vi) | 1985 | 3022 | 65.7 | /mnt/stockage/packages/f13/system-config-network/po/vi.po | 
+ | [ms](/f13/language/ms) | 1563 | 3022 | 51.7 | /mnt/stockage/packages/f13/system-config-network/po/ms.po | 
+ | [si](/f13/language/si) | 704 | 3022 | 23.3 | /mnt/stockage/packages/f13/system-config-network/po/si.po | 
+ | [ka](/f13/language/ka) | 636 | 3022 | 21.0 | /mnt/stockage/packages/f13/system-config-network/po/ka.po | 
+ | [be](/f13/language/be) | 577 | 3022 | 19.1 | /mnt/stockage/packages/f13/system-config-network/po/be.po | 
+ | [he](/f13/language/he) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/he.po | 
+ | [hy](/f13/language/hy) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/hy.po | 
+ | [ku](/f13/language/ku) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/ku.po | 
+ | [lo](/f13/language/lo) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/lo.po | 
+ | [my](/f13/language/my) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/my.po | 
+ | [sq](/f13/language/sq) | 0 | 3022 | 0.0 | /mnt/stockage/packages/f13/system-config-network/po/sq.po | 
 {.sortable}
 
 

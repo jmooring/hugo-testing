@@ -18,58 +18,58 @@ The package libpeas (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ast.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/be.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/bg.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 212 | 212 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ca.po/mnt/stockage/packages/f16/libpeas/po/ca@valencia.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/en_GB.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/eo.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/he.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/lv.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/nb.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/nds.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/nl.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ru.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/tr.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ug.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/zh_HK.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 104 | 106 | 98.1 | /mnt/stockage/packages/f16/libpeas/po/ar.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 98 | 106 | 92.5 | /mnt/stockage/packages/f16/libpeas/po/et.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 12 | 106 | 11.3 | /mnt/stockage/packages/f16/libpeas/po/hi.po | 
+ | [as](/f16/language/as) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/as.po | 
+ | [ast](/f16/language/ast) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ast.po | 
+ | [be](/f16/language/be) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/be.po | 
+ | [bg](/f16/language/bg) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/bg.po | 
+ | [ca](/f16/language/ca) | 212 | 212 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ca.po/mnt/stockage/packages/f16/libpeas/po/ca@valencia.po | 
+ | [cs](/f16/language/cs) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/cs.po | 
+ | [da](/f16/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/da.po | 
+ | [de](/f16/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/de.po | 
+ | [el](/f16/language/el) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/en_GB.po | 
+ | [eo](/f16/language/eo) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/eo.po | 
+ | [es](/f16/language/es) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/es.po | 
+ | [eu](/f16/language/eu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/eu.po | 
+ | [fa](/f16/language/fa) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/fa.po | 
+ | [fi](/f16/language/fi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/fi.po | 
+ | [fr](/f16/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/fr.po | 
+ | [gl](/f16/language/gl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/gl.po | 
+ | [gu](/f16/language/gu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/gu.po | 
+ | [he](/f16/language/he) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/he.po | 
+ | [hu](/f16/language/hu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/hu.po | 
+ | [id](/f16/language/id) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/id.po | 
+ | [it](/f16/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/it.po | 
+ | [ja](/f16/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ja.po | 
+ | [ko](/f16/language/ko) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ko.po | 
+ | [lt](/f16/language/lt) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/lt.po | 
+ | [lv](/f16/language/lv) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/lv.po | 
+ | [nb_NO](/f16/language/nb_NO) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/nb.po | 
+ | [nds](/f16/language/nds) | 24 | 24 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/nds.po | 
+ | [nl](/f16/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/nl.po | 
+ | [pa](/f16/language/pa) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pa.po | 
+ | [pl](/f16/language/pl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pl.po | 
+ | [pt](/f16/language/pt) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ro.po | 
+ | [ru](/f16/language/ru) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ru.po | 
+ | [sl](/f16/language/sl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sl.po | 
+ | [sr](/f16/language/sr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/sv.po | 
+ | [ta](/f16/language/ta) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ta.po | 
+ | [te](/f16/language/te) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/te.po | 
+ | [th](/f16/language/th) | 103 | 103 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/th.po | 
+ | [tr](/f16/language/tr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/tr.po | 
+ | [ug](/f16/language/ug) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/ug.po | 
+ | [uk](/f16/language/uk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/uk.po | 
+ | [vi](/f16/language/vi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 106 | 106 | 100.0 | /mnt/stockage/packages/f16/libpeas/po/zh_HK.po | 
+ | [ar](/f16/language/ar) | 104 | 106 | 98.1 | /mnt/stockage/packages/f16/libpeas/po/ar.po | 
+ | [et](/f16/language/et) | 98 | 106 | 92.5 | /mnt/stockage/packages/f16/libpeas/po/et.po | 
+ | [hi](/f16/language/hi) | 12 | 106 | 11.3 | /mnt/stockage/packages/f16/libpeas/po/hi.po | 
 {.sortable}
 
 

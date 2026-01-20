@@ -18,7 +18,7 @@ The package python-openstackclient (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 761 | 844 | 90.2 | /mnt/stockage/packages/f23/python-openstackclient/python-openstackclient/locale/de/LC_MESSAGES/python-openstackclient.po | 
+ | [de](/f23/language/de) | 761 | 844 | 90.2 | /mnt/stockage/packages/f23/python-openstackclient/python-openstackclient/locale/de/LC_MESSAGES/python-openstackclient.po | 
 {.sortable}
 
 

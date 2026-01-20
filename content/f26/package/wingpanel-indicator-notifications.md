@@ -18,82 +18,82 @@ The package wingpanel-indicator-notifications (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/et.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/he.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hr.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ja.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ko.po | 
- | [ku]({{< ref "/f26/language/ku.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ku.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lt.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/nn.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ru.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sl.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/zh_CN.po | 
- | [ak]({{< ref "/f26/language/ak.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ak.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/bg.po | 
- | [ckb]({{< ref "/f26/language/ckb.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ckb.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/en_CA.po | 
- | [ka]({{< ref "/f26/language/ka.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ka.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ms.po | 
- | [my]({{< ref "/f26/language/my.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/my.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sk.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sq.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sv.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/th.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ug.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/zh_TW.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 16 | 29 | 55.2 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/mr.po | 
- | [tl]({{< ref "/f26/language/tl.md" >}}) | 12 | 29 | 41.4 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/tl.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/af.po | 
- | [am]({{< ref "/f26/language/am.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/am.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ar.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ast.po | 
- | [az]({{< ref "/f26/language/az.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/az.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/bn.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/bs.po | 
- | [en_AU]({{< ref "/f26/language/en_AU.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/en_AU.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/en_GB.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/eo.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/eu.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fa.po | 
- | [fr_CA]({{< ref "/f26/language/fr_CA.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fr_CA.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hu.po | 
- | [hy]({{< ref "/f26/language/hy.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hy.po | 
- | [ky]({{< ref "/f26/language/ky.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ky.po | 
- | [lb]({{< ref "/f26/language/lb.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lb.po | 
- | [lo]({{< ref "/f26/language/lo.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lo.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lv.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ml.po | 
- | [rue]({{< ref "/f26/language/rue.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/rue.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/si.po | 
- | [sma]({{< ref "/f26/language/sma.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sma.po | 
- | [sw]({{< ref "/f26/language/sw.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sw.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/te.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/zh_HK.po | 
+ | [ca](/f26/language/ca) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ca.po | 
+ | [cs](/f26/language/cs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/cs.po | 
+ | [da](/f26/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/da.po | 
+ | [de](/f26/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/de.po | 
+ | [es](/f26/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/es.po | 
+ | [et](/f26/language/et) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/et.po | 
+ | [fi](/f26/language/fi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fi.po | 
+ | [fr](/f26/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fr.po | 
+ | [gl](/f26/language/gl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/gl.po | 
+ | [he](/f26/language/he) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/he.po | 
+ | [hr](/f26/language/hr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hr.po | 
+ | [id](/f26/language/id) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/id.po | 
+ | [it](/f26/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/it.po | 
+ | [ja](/f26/language/ja) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ja.po | 
+ | [ko](/f26/language/ko) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ko.po | 
+ | [ku](/f26/language/ku) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ku.po | 
+ | [lt](/f26/language/lt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lt.po | 
+ | [nb_NO](/f26/language/nb_NO) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/nb.po | 
+ | [nl](/f26/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/nl.po | 
+ | [nn](/f26/language/nn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/nn.po | 
+ | [pl](/f26/language/pl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/pl.po | 
+ | [pt](/f26/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ro.po | 
+ | [ru](/f26/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ru.po | 
+ | [sl](/f26/language/sl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sl.po | 
+ | [tr](/f26/language/tr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/tr.po | 
+ | [uk](/f26/language/uk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/zh_CN.po | 
+ | [ak](/f26/language/ak) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ak.po | 
+ | [be](/f26/language/be) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/be.po | 
+ | [bg](/f26/language/bg) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/bg.po | 
+ | [ckb](/f26/language/ckb) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ckb.po | 
+ | [el](/f26/language/el) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/en_CA.po | 
+ | [ka](/f26/language/ka) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ka.po | 
+ | [ms](/f26/language/ms) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ms.po | 
+ | [my](/f26/language/my) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/my.po | 
+ | [sk](/f26/language/sk) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sk.po | 
+ | [sq](/f26/language/sq) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sq.po | 
+ | [sr](/f26/language/sr) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sr.po | 
+ | [sv](/f26/language/sv) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sv.po | 
+ | [th](/f26/language/th) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/th.po | 
+ | [ug](/f26/language/ug) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ug.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 17 | 29 | 58.6 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/zh_TW.po | 
+ | [mr](/f26/language/mr) | 16 | 29 | 55.2 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/mr.po | 
+ | [tl](/f26/language/tl) | 12 | 29 | 41.4 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/tl.po | 
+ | [af](/f26/language/af) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/af.po | 
+ | [am](/f26/language/am) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/am.po | 
+ | [ar](/f26/language/ar) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ar.po | 
+ | [ast](/f26/language/ast) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ast.po | 
+ | [az](/f26/language/az) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/az.po | 
+ | [bn](/f26/language/bn) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/bn.po | 
+ | [bs](/f26/language/bs) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/bs.po | 
+ | [en_AU](/f26/language/en_AU) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/en_AU.po | 
+ | [en_GB](/f26/language/en_GB) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/en_GB.po | 
+ | [eo](/f26/language/eo) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/eo.po | 
+ | [eu](/f26/language/eu) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/eu.po | 
+ | [fa](/f26/language/fa) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fa.po | 
+ | [fr_CA](/f26/language/fr_CA) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/fr_CA.po | 
+ | [hi](/f26/language/hi) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hi.po | 
+ | [hu](/f26/language/hu) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hu.po | 
+ | [hy](/f26/language/hy) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/hy.po | 
+ | [ky](/f26/language/ky) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ky.po | 
+ | [lb](/f26/language/lb) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lb.po | 
+ | [lo](/f26/language/lo) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lo.po | 
+ | [lv](/f26/language/lv) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/lv.po | 
+ | [ml](/f26/language/ml) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ml.po | 
+ | [rue](/f26/language/rue) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/rue.po | 
+ | [si](/f26/language/si) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/si.po | 
+ | [sma](/f26/language/sma) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sma.po | 
+ | [sw](/f26/language/sw) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/sw.po | 
+ | [ta](/f26/language/ta) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/ta.po | 
+ | [te](/f26/language/te) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/te.po | 
+ | [vi](/f26/language/vi) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/vi.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 0 | 29 | 0.0 | /mnt/stockage/packages/f26/wingpanel-indicator-notifications/po/zh_HK.po | 
 {.sortable}
 
 

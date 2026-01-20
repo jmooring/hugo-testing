@@ -18,24 +18,24 @@ The package minigalaxy (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f40/minigalaxy/data/po/cs_CZ.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f40/minigalaxy/data/po/el.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f40/minigalaxy/data/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 357 | 358 | 99.7 | /mnt/stockage/packages/f40/minigalaxy/data/po/zh_CN.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 354 | 358 | 98.9 | /mnt/stockage/packages/f40/minigalaxy/data/po/ru_RU.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 701 | 717 | 97.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/uk.po/mnt/stockage/packages/f40/minigalaxy/data/po/ro.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 753 | 775 | 97.2 | /mnt/stockage/packages/f40/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f40/minigalaxy/data/po/nb_NO.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/de.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/fr.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/nl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 342 | 358 | 95.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/sv_SE.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 342 | 358 | 95.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/tr.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 741 | 784 | 94.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/es_ES.po/mnt/stockage/packages/f40/minigalaxy/data/po/es.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 334 | 358 | 93.3 | /mnt/stockage/packages/f40/minigalaxy/data/po/pl.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 482 | 551 | 87.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/pt_PT.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 230 | 358 | 64.2 | /mnt/stockage/packages/f40/minigalaxy/data/po/it_IT.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 202 | 358 | 56.4 | /mnt/stockage/packages/f40/minigalaxy/data/po/pt_BR.po | 
+ | [cs](/f40/language/cs) | 417 | 417 | 100.0 | /mnt/stockage/packages/f40/minigalaxy/data/po/cs_CZ.po | 
+ | [el](/f40/language/el) | 551 | 551 | 100.0 | /mnt/stockage/packages/f40/minigalaxy/data/po/el.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 358 | 358 | 100.0 | /mnt/stockage/packages/f40/minigalaxy/data/po/zh_TW.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 357 | 358 | 99.7 | /mnt/stockage/packages/f40/minigalaxy/data/po/zh_CN.po | 
+ | [ru](/f40/language/ru) | 354 | 358 | 98.9 | /mnt/stockage/packages/f40/minigalaxy/data/po/ru_RU.po | 
+ | [uk](/f40/language/uk) | 701 | 717 | 97.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/uk.po/mnt/stockage/packages/f40/minigalaxy/data/po/ro.po | 
+ | [nb_NO](/f40/language/nb_NO) | 753 | 775 | 97.2 | /mnt/stockage/packages/f40/minigalaxy/data/po/nn_NO.po/mnt/stockage/packages/f40/minigalaxy/data/po/nb_NO.po | 
+ | [de](/f40/language/de) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/de.po | 
+ | [fi](/f40/language/fi) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/fi.po | 
+ | [fr](/f40/language/fr) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/fr.po | 
+ | [nl](/f40/language/nl) | 343 | 358 | 95.8 | /mnt/stockage/packages/f40/minigalaxy/data/po/nl.po | 
+ | [sv](/f40/language/sv) | 342 | 358 | 95.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/sv_SE.po | 
+ | [tr](/f40/language/tr) | 342 | 358 | 95.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/tr.po | 
+ | [es](/f40/language/es) | 741 | 784 | 94.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/es_ES.po/mnt/stockage/packages/f40/minigalaxy/data/po/es.po | 
+ | [pl](/f40/language/pl) | 334 | 358 | 93.3 | /mnt/stockage/packages/f40/minigalaxy/data/po/pl.po | 
+ | [pt_PT](/f40/language/pt_PT) | 482 | 551 | 87.5 | /mnt/stockage/packages/f40/minigalaxy/data/po/pt_PT.po | 
+ | [it](/f40/language/it) | 230 | 358 | 64.2 | /mnt/stockage/packages/f40/minigalaxy/data/po/it_IT.po | 
+ | [pt_BR](/f40/language/pt_BR) | 202 | 358 | 56.4 | /mnt/stockage/packages/f40/minigalaxy/data/po/pt_BR.po | 
 {.sortable}
 
 

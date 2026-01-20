@@ -18,74 +18,74 @@ The package system-config-rootpassword (version 1.99.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f22/language/as.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/as.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/bg.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/bn_IN.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/fr.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/gu.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/he.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hu.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/is.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ja.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ko.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/lv.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ml.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mr.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/nl.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/or.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sk.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sr.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/th.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/zh_TW.po | 
- | [mai]({{< ref "/f22/language/mai.md" >}}) | 96 | 116 | 82.8 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mai.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ar.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/be.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/bn.po | 
- | [cy]({{< ref "/f22/language/cy.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/cy.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/en_GB.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/et.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/fa.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/gl.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hr.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/id.po | 
- | [ka]({{< ref "/f22/language/ka.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ka.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/lt.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mk.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ms.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ro.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/tr.po | 
- | [zu]({{< ref "/f22/language/zu.md" >}}) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/zu.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 9 | 116 | 7.8 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mn.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 9 | 116 | 7.8 | /mnt/stockage/packages/f22/system-config-rootpassword/po/vi.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hy.po | 
- | [ku]({{< ref "/f22/language/ku.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ku.po | 
- | [lo]({{< ref "/f22/language/lo.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/lo.po | 
- | [my]({{< ref "/f22/language/my.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/my.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/si.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ur.po | 
+ | [as](/f22/language/as) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/as.po | 
+ | [bg](/f22/language/bg) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/bg.po | 
+ | [bn_IN](/f22/language/bn_IN) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/bn_IN.po | 
+ | [ca](/f22/language/ca) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ca.po | 
+ | [cs](/f22/language/cs) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/cs.po | 
+ | [da](/f22/language/da) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/da.po | 
+ | [de](/f22/language/de) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/de.po | 
+ | [el](/f22/language/el) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/el.po | 
+ | [es](/f22/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/es.po | 
+ | [fi](/f22/language/fi) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/fi.po | 
+ | [fr](/f22/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/fr.po | 
+ | [gu](/f22/language/gu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/gu.po | 
+ | [he](/f22/language/he) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/he.po | 
+ | [hi](/f22/language/hi) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hi.po | 
+ | [hu](/f22/language/hu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hu.po | 
+ | [is](/f22/language/is) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/is.po | 
+ | [it](/f22/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/it.po | 
+ | [ja](/f22/language/ja) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ja.po | 
+ | [kn](/f22/language/kn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/kn.po | 
+ | [ko](/f22/language/ko) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ko.po | 
+ | [lv](/f22/language/lv) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/lv.po | 
+ | [ml](/f22/language/ml) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ml.po | 
+ | [mr](/f22/language/mr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mr.po | 
+ | [nb_NO](/f22/language/nb_NO) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/nb.po | 
+ | [nl](/f22/language/nl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/nl.po | 
+ | [or](/f22/language/or) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/or.po | 
+ | [pa](/f22/language/pa) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pa.po | 
+ | [pl](/f22/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pl.po | 
+ | [pt](/f22/language/pt) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ru.po | 
+ | [sk](/f22/language/sk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sk.po | 
+ | [sr](/f22/language/sr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sr.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sv.po | 
+ | [ta](/f22/language/ta) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ta.po | 
+ | [te](/f22/language/te) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/te.po | 
+ | [th](/f22/language/th) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/th.po | 
+ | [uk](/f22/language/uk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 116 | 116 | 100.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/zh_TW.po | 
+ | [mai](/f22/language/mai) | 96 | 116 | 82.8 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mai.po | 
+ | [ar](/f22/language/ar) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ar.po | 
+ | [be](/f22/language/be) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/be.po | 
+ | [bn](/f22/language/bn) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/bn.po | 
+ | [cy](/f22/language/cy) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/cy.po | 
+ | [en_GB](/f22/language/en_GB) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/en_GB.po | 
+ | [et](/f22/language/et) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/et.po | 
+ | [fa](/f22/language/fa) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/fa.po | 
+ | [gl](/f22/language/gl) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/gl.po | 
+ | [hr](/f22/language/hr) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hr.po | 
+ | [id](/f22/language/id) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/id.po | 
+ | [ka](/f22/language/ka) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ka.po | 
+ | [lt](/f22/language/lt) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/lt.po | 
+ | [mk](/f22/language/mk) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mk.po | 
+ | [ms](/f22/language/ms) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ms.po | 
+ | [ro](/f22/language/ro) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ro.po | 
+ | [sl](/f22/language/sl) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/sl.po | 
+ | [tr](/f22/language/tr) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/tr.po | 
+ | [zu](/f22/language/zu) | 15 | 116 | 12.9 | /mnt/stockage/packages/f22/system-config-rootpassword/po/zu.po | 
+ | [mn](/f22/language/mn) | 9 | 116 | 7.8 | /mnt/stockage/packages/f22/system-config-rootpassword/po/mn.po | 
+ | [vi](/f22/language/vi) | 9 | 116 | 7.8 | /mnt/stockage/packages/f22/system-config-rootpassword/po/vi.po | 
+ | [hy](/f22/language/hy) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/hy.po | 
+ | [ku](/f22/language/ku) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ku.po | 
+ | [lo](/f22/language/lo) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/lo.po | 
+ | [my](/f22/language/my) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/my.po | 
+ | [si](/f22/language/si) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/si.po | 
+ | [ur](/f22/language/ur) | 0 | 116 | 0.0 | /mnt/stockage/packages/f22/system-config-rootpassword/po/ur.po | 
 {.sortable}
 
 

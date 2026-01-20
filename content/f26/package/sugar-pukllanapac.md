@@ -18,25 +18,25 @@ The package sugar-pukllanapac (version 13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/el.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/en.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/en_GB.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/en_US.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/fr.po | 
- | [hy]({{< ref "/f26/language/hy.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/hy.po | 
- | [ig]({{< ref "/f26/language/ig.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/ibo.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/pt.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/ru.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/th.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/zh_CN.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 1 | 10 | 10.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/af.po | 
+ | [ca](/f26/language/ca) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/ca.po | 
+ | [cs](/f26/language/cs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/cs.po | 
+ | [da](/f26/language/da) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/da.po | 
+ | [de](/f26/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/de.po | 
+ | [el](/f26/language/el) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/el.po | 
+ | [en](/f26/language/en) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/en.po | 
+ | [en_GB](/f26/language/en_GB) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/en_GB.po | 
+ | [en_US](/f26/language/en_US) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/en_US.po | 
+ | [es](/f26/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/es.po | 
+ | [fr](/f26/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/fr.po | 
+ | [hy](/f26/language/hy) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/hy.po | 
+ | [ig](/f26/language/ig) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/ibo.po | 
+ | [nl](/f26/language/nl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/nl.po | 
+ | [pl](/f26/language/pl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/pl.po | 
+ | [pt](/f26/language/pt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/pt.po | 
+ | [ru](/f26/language/ru) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/ru.po | 
+ | [th](/f26/language/th) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/th.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/zh_CN.po | 
+ | [af](/f26/language/af) | 1 | 10 | 10.0 | /mnt/stockage/packages/f26/sugar-pukllanapac/po/af.po | 
 {.sortable}
 
 

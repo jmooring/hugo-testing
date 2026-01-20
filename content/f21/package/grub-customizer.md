@@ -18,38 +18,38 @@ The package grub-customizer (version 4.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-de.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-fi.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-hr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-hu.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-nl.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-sk.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1141 | 1258 | 90.7 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ru.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 701 | 1258 | 55.7 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-zh_TW.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 613 | 1258 | 48.7 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-zh_CN.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 579 | 1258 | 46.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-gl.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-cs.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-fr.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ja.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-pt_BR.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-uk.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 577 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-bs.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 576 | 1258 | 45.8 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ca.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 558 | 1258 | 44.4 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-tr.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 459 | 1258 | 36.5 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-eu.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 457 | 1258 | 36.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-en_GB.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 452 | 1258 | 35.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-it.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 344 | 1258 | 27.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-lt.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 335 | 1258 | 26.6 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ast.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 293 | 1258 | 23.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-bg.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 205 | 1258 | 16.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-vi.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 201 | 1258 | 16.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ar.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 196 | 1258 | 15.6 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-kk.po | 
- | [cy]({{< ref "/f21/language/cy.md" >}}) | 50 | 1258 | 4.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-cy.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 0 | 1258 | 0.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-et.po | 
+ | [de](/f21/language/de) | 1301 | 1301 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-de.po | 
+ | [fi](/f21/language/fi) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-fi.po | 
+ | [hr](/f21/language/hr) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-hr.po | 
+ | [hu](/f21/language/hu) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-hu.po | 
+ | [nl](/f21/language/nl) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-nl.po | 
+ | [sk](/f21/language/sk) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-sk.po | 
+ | [ru](/f21/language/ru) | 1141 | 1258 | 90.7 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ru.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 701 | 1258 | 55.7 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-zh_TW.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 613 | 1258 | 48.7 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-zh_CN.po | 
+ | [gl](/f21/language/gl) | 579 | 1258 | 46.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-gl.po | 
+ | [cs](/f21/language/cs) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-cs.po | 
+ | [el](/f21/language/el) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-el.po | 
+ | [es](/f21/language/es) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-es.po | 
+ | [fr](/f21/language/fr) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-fr.po | 
+ | [ja](/f21/language/ja) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ja.po | 
+ | [pl](/f21/language/pl) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-pt_BR.po | 
+ | [uk](/f21/language/uk) | 578 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-uk.po | 
+ | [bs](/f21/language/bs) | 577 | 1258 | 45.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-bs.po | 
+ | [ca](/f21/language/ca) | 576 | 1258 | 45.8 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ca.po | 
+ | [tr](/f21/language/tr) | 558 | 1258 | 44.4 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-tr.po | 
+ | [eu](/f21/language/eu) | 459 | 1258 | 36.5 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-eu.po | 
+ | [en_GB](/f21/language/en_GB) | 457 | 1258 | 36.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-en_GB.po | 
+ | [it](/f21/language/it) | 452 | 1258 | 35.9 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-it.po | 
+ | [lt](/f21/language/lt) | 344 | 1258 | 27.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-lt.po | 
+ | [ast](/f21/language/ast) | 335 | 1258 | 26.6 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ast.po | 
+ | [bg](/f21/language/bg) | 293 | 1258 | 23.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-bg.po | 
+ | [vi](/f21/language/vi) | 205 | 1258 | 16.3 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-vi.po | 
+ | [ar](/f21/language/ar) | 201 | 1258 | 16.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-ar.po | 
+ | [kk](/f21/language/kk) | 196 | 1258 | 15.6 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-kk.po | 
+ | [cy](/f21/language/cy) | 50 | 1258 | 4.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-cy.po | 
+ | [et](/f21/language/et) | 0 | 1258 | 0.0 | /mnt/stockage/packages/f21/grub-customizer/translation/translation-et.po | 
 {.sortable}
 
 

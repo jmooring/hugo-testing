@@ -18,42 +18,42 @@ The package kdebugsettings (version 18.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ca/kdebugsettings.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ca@valencia/kdebugsettings.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/da/kdebugsettings.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/de/kdebugsettings.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/en_GB/kdebugsettings.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/es/kdebugsettings.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/fi/kdebugsettings.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/fr/kdebugsettings.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/gl/kdebugsettings.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/it/kdebugsettings.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/nl/kdebugsettings.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/nn/kdebugsettings.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/pl/kdebugsettings.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/pt/kdebugsettings.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/sl/kdebugsettings.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/sv/kdebugsettings.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/uk/kdebugsettings.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/zh_CN/kdebugsettings.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/zh_TW/kdebugsettings.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 126 | 130 | 96.9 | /mnt/stockage/packages/f28/kdebugsettings/po/sr/kdebugsettings.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/el/kdebugsettings.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/et/kdebugsettings.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/eu/kdebugsettings.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/ko/kdebugsettings.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/sk/kdebugsettings.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/tr/kdebugsettings.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 95 | 130 | 73.1 | /mnt/stockage/packages/f28/kdebugsettings/po/hu/kdebugsettings.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 95 | 130 | 73.1 | /mnt/stockage/packages/f28/kdebugsettings/po/pt_BR/kdebugsettings.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 72 | 130 | 55.4 | /mnt/stockage/packages/f28/kdebugsettings/po/cs/kdebugsettings.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 44 | 130 | 33.8 | /mnt/stockage/packages/f28/kdebugsettings/po/ru/kdebugsettings.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 41 | 130 | 31.5 | /mnt/stockage/packages/f28/kdebugsettings/po/ro/kdebugsettings.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 39 | 130 | 30.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ar/kdebugsettings.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 25 | 130 | 19.2 | /mnt/stockage/packages/f28/kdebugsettings/po/ia/kdebugsettings.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 1 | 130 | 0.8 | /mnt/stockage/packages/f28/kdebugsettings/po/ast/kdebugsettings.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 130 | 0.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ja/kdebugsettings.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 0 | 130 | 0.0 | /mnt/stockage/packages/f28/kdebugsettings/po/lt/kdebugsettings.po | 
+ | [ca](/f28/language/ca) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ca/kdebugsettings.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ca@valencia/kdebugsettings.po | 
+ | [da](/f28/language/da) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/da/kdebugsettings.po | 
+ | [de](/f28/language/de) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/de/kdebugsettings.po | 
+ | [en_GB](/f28/language/en_GB) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/en_GB/kdebugsettings.po | 
+ | [es](/f28/language/es) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/es/kdebugsettings.po | 
+ | [fi](/f28/language/fi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/fi/kdebugsettings.po | 
+ | [fr](/f28/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/fr/kdebugsettings.po | 
+ | [gl](/f28/language/gl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/gl/kdebugsettings.po | 
+ | [it](/f28/language/it) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/it/kdebugsettings.po | 
+ | [nl](/f28/language/nl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/nl/kdebugsettings.po | 
+ | [nn](/f28/language/nn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/nn/kdebugsettings.po | 
+ | [pl](/f28/language/pl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/pl/kdebugsettings.po | 
+ | [pt](/f28/language/pt) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/pt/kdebugsettings.po | 
+ | [sl](/f28/language/sl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/sl/kdebugsettings.po | 
+ | [sv](/f28/language/sv) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/sv/kdebugsettings.po | 
+ | [uk](/f28/language/uk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/uk/kdebugsettings.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/zh_CN/kdebugsettings.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 130 | 130 | 100.0 | /mnt/stockage/packages/f28/kdebugsettings/po/zh_TW/kdebugsettings.po | 
+ | [sr](/f28/language/sr) | 126 | 130 | 96.9 | /mnt/stockage/packages/f28/kdebugsettings/po/sr/kdebugsettings.po | 
+ | [el](/f28/language/el) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/el/kdebugsettings.po | 
+ | [et](/f28/language/et) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/et/kdebugsettings.po | 
+ | [eu](/f28/language/eu) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/eu/kdebugsettings.po | 
+ | [ko](/f28/language/ko) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/ko/kdebugsettings.po | 
+ | [sk](/f28/language/sk) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/sk/kdebugsettings.po | 
+ | [tr](/f28/language/tr) | 107 | 130 | 82.3 | /mnt/stockage/packages/f28/kdebugsettings/po/tr/kdebugsettings.po | 
+ | [hu](/f28/language/hu) | 95 | 130 | 73.1 | /mnt/stockage/packages/f28/kdebugsettings/po/hu/kdebugsettings.po | 
+ | [pt_BR](/f28/language/pt_BR) | 95 | 130 | 73.1 | /mnt/stockage/packages/f28/kdebugsettings/po/pt_BR/kdebugsettings.po | 
+ | [cs](/f28/language/cs) | 72 | 130 | 55.4 | /mnt/stockage/packages/f28/kdebugsettings/po/cs/kdebugsettings.po | 
+ | [ru](/f28/language/ru) | 44 | 130 | 33.8 | /mnt/stockage/packages/f28/kdebugsettings/po/ru/kdebugsettings.po | 
+ | [ro](/f28/language/ro) | 41 | 130 | 31.5 | /mnt/stockage/packages/f28/kdebugsettings/po/ro/kdebugsettings.po | 
+ | [ar](/f28/language/ar) | 39 | 130 | 30.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ar/kdebugsettings.po | 
+ | [ia](/f28/language/ia) | 25 | 130 | 19.2 | /mnt/stockage/packages/f28/kdebugsettings/po/ia/kdebugsettings.po | 
+ | [ast](/f28/language/ast) | 1 | 130 | 0.8 | /mnt/stockage/packages/f28/kdebugsettings/po/ast/kdebugsettings.po | 
+ | [ja](/f28/language/ja) | 0 | 130 | 0.0 | /mnt/stockage/packages/f28/kdebugsettings/po/ja/kdebugsettings.po | 
+ | [lt](/f28/language/lt) | 0 | 130 | 0.0 | /mnt/stockage/packages/f28/kdebugsettings/po/lt/kdebugsettings.po | 
 {.sortable}
 
 

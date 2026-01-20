@@ -18,23 +18,23 @@ The package cockpit-ostree (version 214):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/ar.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/es.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/fr.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/he.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/ko.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/pt_BR.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/zh_Hant.po | 
+ | [ar](/f41/language/ar) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/ar.po | 
+ | [cs](/f41/language/cs) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/cs.po | 
+ | [de](/f41/language/de) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/de.po | 
+ | [es](/f41/language/es) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/es.po | 
+ | [fi](/f41/language/fi) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/fi.po | 
+ | [fr](/f41/language/fr) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/fr.po | 
+ | [he](/f41/language/he) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/he.po | 
+ | [id](/f41/language/id) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/id.po | 
+ | [it](/f41/language/it) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/it.po | 
+ | [ka](/f41/language/ka) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/ka.po | 
+ | [ko](/f41/language/ko) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/ko.po | 
+ | [pt_BR](/f41/language/pt_BR) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/pt_BR.po | 
+ | [sv](/f41/language/sv) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/sv.po | 
+ | [tr](/f41/language/tr) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/tr.po | 
+ | [uk](/f41/language/uk) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 246 | 246 | 100.0 | /mnt/stockage/packages/f41/cockpit-ostree/po/zh_Hant.po | 
 {.sortable}
 
 

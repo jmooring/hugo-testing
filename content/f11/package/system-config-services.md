@@ -18,71 +18,71 @@ The package system-config-services (version 0.99.35):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/es.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/gu.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/ja.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/ru.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/sv.po | 
- | [as]({{< ref "/f11/language/as.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/as.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/bn_IN.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ca.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/el.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/fr.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/hi.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ko.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/mr.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/pa.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/sk.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/te.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/zh_TW.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 330 | 384 | 85.9 | /mnt/stockage/packages/f11/system-config-services/po/cs.po | 
- | [mai]({{< ref "/f11/language/mai.md" >}}) | 330 | 384 | 85.9 | /mnt/stockage/packages/f11/system-config-services/po/mai.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 110 | 384 | 28.6 | /mnt/stockage/packages/f11/system-config-services/po/nb.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ar.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/bg.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/bs.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/en_GB.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/et.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/hr.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/id.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/is.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ka.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/lv.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/mk.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ms.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ro.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/si.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/uk.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/bn.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/cy.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/fa.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/lt.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/sl.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/vi.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/he.po | 
- | [hy]({{< ref "/f11/language/hy.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/hy.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/ku.po | 
- | [lo]({{< ref "/f11/language/lo.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/lo.po | 
- | [my]({{< ref "/f11/language/my.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/my.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/sq.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/ur.po | 
+ | [da](/f11/language/da) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/da.po | 
+ | [de](/f11/language/de) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/de.po | 
+ | [es](/f11/language/es) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/es.po | 
+ | [gu](/f11/language/gu) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/gu.po | 
+ | [hu](/f11/language/hu) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/hu.po | 
+ | [it](/f11/language/it) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/it.po | 
+ | [ja](/f11/language/ja) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/ja.po | 
+ | [nl](/f11/language/nl) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/nl.po | 
+ | [pl](/f11/language/pl) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/pl.po | 
+ | [pt](/f11/language/pt) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/ru.po | 
+ | [sr](/f11/language/sr) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 377 | 384 | 98.2 | /mnt/stockage/packages/f11/system-config-services/po/sv.po | 
+ | [as](/f11/language/as) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/as.po | 
+ | [bn_IN](/f11/language/bn_IN) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/bn_IN.po | 
+ | [ca](/f11/language/ca) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ca.po | 
+ | [el](/f11/language/el) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/el.po | 
+ | [fi](/f11/language/fi) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/fi.po | 
+ | [fr](/f11/language/fr) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/fr.po | 
+ | [hi](/f11/language/hi) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/hi.po | 
+ | [kn](/f11/language/kn) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/kn.po | 
+ | [ko](/f11/language/ko) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ko.po | 
+ | [ml](/f11/language/ml) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ml.po | 
+ | [mr](/f11/language/mr) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/mr.po | 
+ | [or](/f11/language/or) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/or.po | 
+ | [pa](/f11/language/pa) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/pa.po | 
+ | [sk](/f11/language/sk) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/sk.po | 
+ | [ta](/f11/language/ta) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/ta.po | 
+ | [te](/f11/language/te) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/te.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 336 | 384 | 87.5 | /mnt/stockage/packages/f11/system-config-services/po/zh_TW.po | 
+ | [cs](/f11/language/cs) | 330 | 384 | 85.9 | /mnt/stockage/packages/f11/system-config-services/po/cs.po | 
+ | [mai](/f11/language/mai) | 330 | 384 | 85.9 | /mnt/stockage/packages/f11/system-config-services/po/mai.po | 
+ | [nb_NO](/f11/language/nb_NO) | 110 | 384 | 28.6 | /mnt/stockage/packages/f11/system-config-services/po/nb.po | 
+ | [ar](/f11/language/ar) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ar.po | 
+ | [bg](/f11/language/bg) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/bg.po | 
+ | [bs](/f11/language/bs) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/bs.po | 
+ | [en_GB](/f11/language/en_GB) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/en_GB.po | 
+ | [et](/f11/language/et) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/et.po | 
+ | [hr](/f11/language/hr) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/hr.po | 
+ | [id](/f11/language/id) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/id.po | 
+ | [is](/f11/language/is) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/is.po | 
+ | [ka](/f11/language/ka) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ka.po | 
+ | [lv](/f11/language/lv) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/lv.po | 
+ | [mk](/f11/language/mk) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/mk.po | 
+ | [ms](/f11/language/ms) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ms.po | 
+ | [ro](/f11/language/ro) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/ro.po | 
+ | [si](/f11/language/si) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/si.po | 
+ | [tr](/f11/language/tr) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/tr.po | 
+ | [uk](/f11/language/uk) | 24 | 384 | 6.2 | /mnt/stockage/packages/f11/system-config-services/po/uk.po | 
+ | [bn](/f11/language/bn) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/bn.po | 
+ | [cy](/f11/language/cy) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/cy.po | 
+ | [fa](/f11/language/fa) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/fa.po | 
+ | [lt](/f11/language/lt) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/lt.po | 
+ | [sl](/f11/language/sl) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/sl.po | 
+ | [vi](/f11/language/vi) | 12 | 384 | 3.1 | /mnt/stockage/packages/f11/system-config-services/po/vi.po | 
+ | [he](/f11/language/he) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/he.po | 
+ | [hy](/f11/language/hy) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/hy.po | 
+ | [ku](/f11/language/ku) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/ku.po | 
+ | [lo](/f11/language/lo) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/lo.po | 
+ | [my](/f11/language/my) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/my.po | 
+ | [sq](/f11/language/sq) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/sq.po | 
+ | [ur](/f11/language/ur) | 0 | 384 | 0.0 | /mnt/stockage/packages/f11/system-config-services/po/ur.po | 
 {.sortable}
 
 

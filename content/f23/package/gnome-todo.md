@@ -18,39 +18,39 @@ The package gnome-todo (version 3.18.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/ar.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/es.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/eu.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/fa.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/gl.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 949 | 949 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/he.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/it.po | 
- | [kk]({{< ref "/f23/language/kk.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/kk.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/ko.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/lt.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/pt_BR.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/sk.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/sr.po/mnt/stockage/packages/f23/gnome-todo/po/sr@latin.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/tr.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/vi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/zh_TW.po | 
- | [fur]({{< ref "/f23/language/fur.md" >}}) | 316 | 338 | 93.5 | /mnt/stockage/packages/f23/gnome-todo/po/fur.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 273 | 338 | 80.8 | /mnt/stockage/packages/f23/gnome-todo/po/nb.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 183 | 338 | 54.1 | /mnt/stockage/packages/f23/gnome-todo/po/eo.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 375 | 949 | 39.5 | /mnt/stockage/packages/f23/gnome-todo/po/pa.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 49 | 802 | 6.1 | /mnt/stockage/packages/f23/gnome-todo/po/sl.po | 
+ | [ar](/f23/language/ar) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/ar.po | 
+ | [ca](/f23/language/ca) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/ca.po | 
+ | [cs](/f23/language/cs) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/cs.po | 
+ | [da](/f23/language/da) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/da.po | 
+ | [de](/f23/language/de) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/de.po | 
+ | [el](/f23/language/el) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/el.po | 
+ | [es](/f23/language/es) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/es.po | 
+ | [eu](/f23/language/eu) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/eu.po | 
+ | [fa](/f23/language/fa) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/fa.po | 
+ | [fi](/f23/language/fi) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/fi.po | 
+ | [fr](/f23/language/fr) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/fr.po | 
+ | [gl](/f23/language/gl) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/gl.po | 
+ | [he](/f23/language/he) | 949 | 949 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/he.po | 
+ | [hu](/f23/language/hu) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/hu.po | 
+ | [id](/f23/language/id) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/id.po | 
+ | [it](/f23/language/it) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/it.po | 
+ | [kk](/f23/language/kk) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/kk.po | 
+ | [ko](/f23/language/ko) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/ko.po | 
+ | [lt](/f23/language/lt) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/lt.po | 
+ | [pl](/f23/language/pl) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/pl.po | 
+ | [pt](/f23/language/pt) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/pt_BR.po | 
+ | [sk](/f23/language/sk) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/sk.po | 
+ | [sr](/f23/language/sr) | 676 | 676 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/sr.po/mnt/stockage/packages/f23/gnome-todo/po/sr@latin.po | 
+ | [sv](/f23/language/sv) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/sv.po | 
+ | [tr](/f23/language/tr) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/tr.po | 
+ | [vi](/f23/language/vi) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/vi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-todo/po/zh_TW.po | 
+ | [fur](/f23/language/fur) | 316 | 338 | 93.5 | /mnt/stockage/packages/f23/gnome-todo/po/fur.po | 
+ | [nb_NO](/f23/language/nb_NO) | 273 | 338 | 80.8 | /mnt/stockage/packages/f23/gnome-todo/po/nb.po | 
+ | [eo](/f23/language/eo) | 183 | 338 | 54.1 | /mnt/stockage/packages/f23/gnome-todo/po/eo.po | 
+ | [pa](/f23/language/pa) | 375 | 949 | 39.5 | /mnt/stockage/packages/f23/gnome-todo/po/pa.po | 
+ | [sl](/f23/language/sl) | 49 | 802 | 6.1 | /mnt/stockage/packages/f23/gnome-todo/po/sl.po | 
 {.sortable}
 
 

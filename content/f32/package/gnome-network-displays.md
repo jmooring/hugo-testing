@@ -18,13 +18,13 @@ The package gnome-network-displays (version 0.90.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/pt_BR.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 118 | 118 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/uk.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 115 | 118 | 97.5 | /mnt/stockage/packages/f32/gnome-network-displays/po/de.po | 
+ | [fr](/f32/language/fr) | 195 | 195 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/fr.po | 
+ | [it](/f32/language/it) | 118 | 118 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/it.po | 
+ | [pl](/f32/language/pl) | 195 | 195 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 118 | 118 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/pt_BR.po | 
+ | [tr](/f32/language/tr) | 118 | 118 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/tr.po | 
+ | [uk](/f32/language/uk) | 195 | 195 | 100.0 | /mnt/stockage/packages/f32/gnome-network-displays/po/uk.po | 
+ | [de](/f32/language/de) | 115 | 118 | 97.5 | /mnt/stockage/packages/f32/gnome-network-displays/po/de.po | 
 {.sortable}
 
 

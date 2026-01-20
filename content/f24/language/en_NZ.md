@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [avahi]({{< ref "/f24/package/avahi.md" >}}) | 758 | 868 | 87.3 | British English <en@li.org> | 
- | [gxmessage]({{< ref "/f24/package/gxmessage.md" >}}) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
+ | [avahi](/f24/package/avahi) | 758 | 868 | 87.3 | British English <en@li.org> | 
+ | [gxmessage](/f24/package/gxmessage) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

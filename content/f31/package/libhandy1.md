@@ -18,18 +18,18 @@ The package libhandy1 (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/en_GB.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/fr.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/ro.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/uk.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 933 | 964 | 96.8 | /mnt/stockage/packages/f31/libhandy1/po/ca.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 807 | 964 | 83.7 | /mnt/stockage/packages/f31/libhandy1/po/fur.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 519 | 964 | 53.8 | /mnt/stockage/packages/f31/libhandy1/po/es.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 375 | 964 | 38.9 | /mnt/stockage/packages/f31/libhandy1/po/sl.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 155 | 964 | 16.1 | /mnt/stockage/packages/f31/libhandy1/po/eu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 86 | 964 | 8.9 | /mnt/stockage/packages/f31/libhandy1/po/id.po | 
+ | [en_GB](/f31/language/en_GB) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/en_GB.po | 
+ | [fr](/f31/language/fr) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/fr.po | 
+ | [pl](/f31/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 959 | 959 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/ro.po | 
+ | [uk](/f31/language/uk) | 964 | 964 | 100.0 | /mnt/stockage/packages/f31/libhandy1/po/uk.po | 
+ | [ca](/f31/language/ca) | 933 | 964 | 96.8 | /mnt/stockage/packages/f31/libhandy1/po/ca.po | 
+ | [fur](/f31/language/fur) | 807 | 964 | 83.7 | /mnt/stockage/packages/f31/libhandy1/po/fur.po | 
+ | [es](/f31/language/es) | 519 | 964 | 53.8 | /mnt/stockage/packages/f31/libhandy1/po/es.po | 
+ | [sl](/f31/language/sl) | 375 | 964 | 38.9 | /mnt/stockage/packages/f31/libhandy1/po/sl.po | 
+ | [eu](/f31/language/eu) | 155 | 964 | 16.1 | /mnt/stockage/packages/f31/libhandy1/po/eu.po | 
+ | [id](/f31/language/id) | 86 | 964 | 8.9 | /mnt/stockage/packages/f31/libhandy1/po/id.po | 
 {.sortable}
 
 

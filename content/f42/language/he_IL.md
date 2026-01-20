@@ -38,27 +38,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f42/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f42/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f42/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [libecpg]({{< ref "/f42/package/libecpg.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [libpq]({{< ref "/f42/package/libpq.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [mingw-postgresql]({{< ref "/f42/package/mingw-postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [postgresql16]({{< ref "/f42/package/postgresql16.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [postgresql17]({{< ref "/f42/package/postgresql17.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [poedit]({{< ref "/f42/package/poedit.md" >}}) | 3279 | 3331 | 98.4 | Hebrew | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f42/package/gnome-shell-extension-gsconnect.md" >}}) | 818 | 902 | 90.7 | Hebrew | 
- | [python-flask-admin]({{< ref "/f42/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Hebrew | 
- | [coolreader]({{< ref "/f42/package/coolreader.md" >}}) | 545 | 701 | 77.7 | Hebrew | 
- | [electrum]({{< ref "/f42/package/electrum.md" >}}) | 6418 | 13041 | 49.2 | Hebrew | 
- | [visualboyadvance-m]({{< ref "/f42/package/visualboyadvance-m.md" >}}) | 1509 | 3293 | 45.8 | Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/) | 
- | [xournalpp]({{< ref "/f42/package/xournalpp.md" >}}) | 2399 | 5538 | 43.3 | Hebrew | 
- | [abiword]({{< ref "/f42/package/abiword.md" >}}) | 2087 | 5510 | 37.9 | unknown <email@address> | 
- | [clapper]({{< ref "/f42/package/clapper.md" >}}) | 75 | 393 | 19.1 | Hebrew | 
- | [warzone2100]({{< ref "/f42/package/warzone2100.md" >}}) | 2477 | 17218 | 14.4 | Hebrew | 
- | [duplicity]({{< ref "/f42/package/duplicity.md" >}}) | 19 | 2377 | 0.8 | Hebrew | 
- | [clementine]({{< ref "/f42/package/clementine.md" >}}) | 0 | 3803 | 0.0 | Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f42/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [boost](/f42/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f42/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [mingw-boost](/f42/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [libecpg](/f42/package/libecpg) | 9124 | 9143 | 99.8 |  | 
+ | [libpq](/f42/package/libpq) | 9124 | 9143 | 99.8 |  | 
+ | [mingw-postgresql](/f42/package/mingw-postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [postgresql16](/f42/package/postgresql16) | 9124 | 9143 | 99.8 |  | 
+ | [postgresql17](/f42/package/postgresql17) | 9124 | 9143 | 99.8 |  | 
+ | [poedit](/f42/package/poedit) | 3279 | 3331 | 98.4 | Hebrew | 
+ | [gnome-shell-extension-gsconnect](/f42/package/gnome-shell-extension-gsconnect) | 818 | 902 | 90.7 | Hebrew | 
+ | [python-flask-admin](/f42/package/python-flask-admin) | 320 | 367 | 87.2 | Hebrew | 
+ | [coolreader](/f42/package/coolreader) | 545 | 701 | 77.7 | Hebrew | 
+ | [electrum](/f42/package/electrum) | 6418 | 13041 | 49.2 | Hebrew | 
+ | [visualboyadvance-m](/f42/package/visualboyadvance-m) | 1509 | 3293 | 45.8 | Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/) | 
+ | [xournalpp](/f42/package/xournalpp) | 2399 | 5538 | 43.3 | Hebrew | 
+ | [abiword](/f42/package/abiword) | 2087 | 5510 | 37.9 | unknown <email@address> | 
+ | [clapper](/f42/package/clapper) | 75 | 393 | 19.1 | Hebrew | 
+ | [warzone2100](/f42/package/warzone2100) | 2477 | 17218 | 14.4 | Hebrew | 
+ | [duplicity](/f42/package/duplicity) | 19 | 2377 | 0.8 | Hebrew | 
+ | [clementine](/f42/package/clementine) | 0 | 3803 | 0.0 | Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [python-django-rest-framework](/f42/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
 {.sortable}
 
 

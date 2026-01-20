@@ -18,23 +18,23 @@ The package python-uranium (version 5.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/cs_CZ/uranium.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/de_DE/uranium.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/es_ES/uranium.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/fr_FR/uranium.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/it_IT/uranium.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/ja_JP/uranium.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/ko_KR/uranium.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/nl_NL/uranium.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/pt_PT/uranium.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/ru_RU/uranium.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/tr_TR/uranium.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/zh_CN/uranium.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 692 | 695 | 99.6 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/pt_BR/uranium.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 646 | 695 | 92.9 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/zh_TW/uranium.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 544 | 695 | 78.3 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/pl_PL/uranium.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 541 | 695 | 77.8 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/hu_HU/uranium.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 336 | 695 | 48.3 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/fi_FI/uranium.po | 
+ | [cs](/f39/language/cs) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/cs_CZ/uranium.po | 
+ | [de](/f39/language/de) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/de_DE/uranium.po | 
+ | [es](/f39/language/es) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/es_ES/uranium.po | 
+ | [fr](/f39/language/fr) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/fr_FR/uranium.po | 
+ | [it](/f39/language/it) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/it_IT/uranium.po | 
+ | [ja](/f39/language/ja) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/ja_JP/uranium.po | 
+ | [ko](/f39/language/ko) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/ko_KR/uranium.po | 
+ | [nl](/f39/language/nl) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/nl_NL/uranium.po | 
+ | [pt_PT](/f39/language/pt_PT) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/pt_PT/uranium.po | 
+ | [ru](/f39/language/ru) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/ru_RU/uranium.po | 
+ | [tr](/f39/language/tr) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/tr_TR/uranium.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 695 | 695 | 100.0 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/zh_CN/uranium.po | 
+ | [pt_BR](/f39/language/pt_BR) | 692 | 695 | 99.6 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/pt_BR/uranium.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 646 | 695 | 92.9 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/zh_TW/uranium.po | 
+ | [pl](/f39/language/pl) | 544 | 695 | 78.3 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/pl_PL/uranium.po | 
+ | [hu](/f39/language/hu) | 541 | 695 | 77.8 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/hu_HU/uranium.po | 
+ | [fi](/f39/language/fi) | 336 | 695 | 48.3 | /mnt/stockage/packages/f39/python-uranium/resources/i18n/fi_FI/uranium.po | 
 {.sortable}
 
 

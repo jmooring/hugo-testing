@@ -18,13 +18,13 @@ The package fgrun (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 878 | 955 | 91.9 | /mnt/stockage/packages/f13/fgrun/po/fr.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 846 | 955 | 88.6 | /mnt/stockage/packages/f13/fgrun/po/es.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 827 | 955 | 86.6 | /mnt/stockage/packages/f13/fgrun/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 783 | 955 | 82.0 | /mnt/stockage/packages/f13/fgrun/po/pt.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 746 | 955 | 78.1 | /mnt/stockage/packages/f13/fgrun/po/it.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 735 | 955 | 77.0 | /mnt/stockage/packages/f13/fgrun/po/de.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 613 | 955 | 64.2 | /mnt/stockage/packages/f13/fgrun/po/nl.po | 
+ | [fr](/f13/language/fr) | 878 | 955 | 91.9 | /mnt/stockage/packages/f13/fgrun/po/fr.po | 
+ | [es](/f13/language/es) | 846 | 955 | 88.6 | /mnt/stockage/packages/f13/fgrun/po/es.po | 
+ | [pl](/f13/language/pl) | 827 | 955 | 86.6 | /mnt/stockage/packages/f13/fgrun/po/pl.po | 
+ | [pt](/f13/language/pt) | 783 | 955 | 82.0 | /mnt/stockage/packages/f13/fgrun/po/pt.po | 
+ | [it](/f13/language/it) | 746 | 955 | 78.1 | /mnt/stockage/packages/f13/fgrun/po/it.po | 
+ | [de](/f13/language/de) | 735 | 955 | 77.0 | /mnt/stockage/packages/f13/fgrun/po/de.po | 
+ | [nl](/f13/language/nl) | 613 | 955 | 64.2 | /mnt/stockage/packages/f13/fgrun/po/nl.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package zssh (version 1.5c):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 709 | 1123 | 63.1 | /mnt/stockage/packages/f41/zssh/lrzsz-0.12.20/po/de.po | 
+ | [de](/f41/language/de) | 709 | 1123 | 63.1 | /mnt/stockage/packages/f41/zssh/lrzsz-0.12.20/po/de.po | 
 {.sortable}
 
 

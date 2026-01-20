@@ -38,45 +38,45 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 1274 | 1274 | 100.0 | Sardinian <sc@li.org> | 
- | [stellarium]({{< ref "/f25/package/stellarium.md" >}}) | 18159 | 18168 | 100.0 | Sardinian <sc@li.org> | 
- | [arandr]({{< ref "/f25/package/arandr.md" >}}) | 172 | 173 | 99.4 | Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/> | 
- | [exaile]({{< ref "/f25/package/exaile.md" >}}) | 3852 | 4006 | 96.2 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
- | [mate-notification-daemon]({{< ref "/f25/package/mate-notification-daemon.md" >}}) | 123 | 139 | 88.5 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [gnome-do]({{< ref "/f25/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
- | [mate-icon-theme]({{< ref "/f25/package/mate-icon-theme.md" >}}) | 3 | 4 | 75.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [slick-greeter]({{< ref "/f25/package/slick-greeter.md" >}}) | 82 | 211 | 38.9 | Sardinian <sc@li.org> | 
- | [atril]({{< ref "/f25/package/atril.md" >}}) | 484 | 1724 | 28.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 3708 | 13467 | 27.5 | Sardinian <sc@li.org> | 
- | [libmypaint]({{< ref "/f25/package/libmypaint.md" >}}) | 389 | 1537 | 25.3 | Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/> | 
- | [xreader]({{< ref "/f25/package/xreader.md" >}}) | 360 | 1653 | 21.8 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-user-guide]({{< ref "/f25/package/mate-user-guide.md" >}}) | 1 | 5 | 20.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-desktop]({{< ref "/f25/package/mate-desktop.md" >}}) | 431 | 2346 | 18.4 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [caja]({{< ref "/f25/package/caja.md" >}}) | 496 | 9313 | 5.3 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 8 | 251 | 3.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-media]({{< ref "/f25/package/mate-media.md" >}}) | 7 | 226 | 3.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [mate-menus]({{< ref "/f25/package/mate-menus.md" >}}) | 2 | 97 | 2.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
- | [calibre]({{< ref "/f25/package/calibre.md" >}}) | 3 | 152264 | 0.0 | Sardinian (http://www.transifex.com/calibre/calibre/language/sc/) | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [blivet-gui]({{< ref "/f25/package/blivet-gui.md" >}}) | 0 | 703 | 0.0 | Sardinian | 
- | [lightdm]({{< ref "/f25/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Sardinian <sc@li.org> | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Sardinian <sc@li.org> | 
+ | [mintmenu](/f25/package/mintmenu) | 1274 | 1274 | 100.0 | Sardinian <sc@li.org> | 
+ | [stellarium](/f25/package/stellarium) | 18159 | 18168 | 100.0 | Sardinian <sc@li.org> | 
+ | [arandr](/f25/package/arandr) | 172 | 173 | 99.4 | Sardinian <https://hosted.weblate.org/projects/arandr/translations/sc/> | 
+ | [exaile](/f25/package/exaile) | 3852 | 4006 | 96.2 | Sardinian <https://hosted.weblate.org/projects/exaile/master/sc/> | 
+ | [mate-notification-daemon](/f25/package/mate-notification-daemon) | 123 | 139 | 88.5 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [gnome-do](/f25/package/gnome-do) | 473 | 612 | 77.3 | Sardinian <sc@li.org> | 
+ | [mate-icon-theme](/f25/package/mate-icon-theme) | 3 | 4 | 75.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [slick-greeter](/f25/package/slick-greeter) | 82 | 211 | 38.9 | Sardinian <sc@li.org> | 
+ | [atril](/f25/package/atril) | 484 | 1724 | 28.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 3708 | 13467 | 27.5 | Sardinian <sc@li.org> | 
+ | [libmypaint](/f25/package/libmypaint) | 389 | 1537 | 25.3 | Sardinian <https://hosted.weblate.org/projects/mypaint/libmypaint/sc/> | 
+ | [xreader](/f25/package/xreader) | 360 | 1653 | 21.8 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-user-guide](/f25/package/mate-user-guide) | 1 | 5 | 20.0 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-desktop](/f25/package/mate-desktop) | 431 | 2346 | 18.4 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [caja](/f25/package/caja) | 496 | 9313 | 5.3 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [libmatekbd](/f25/package/libmatekbd) | 8 | 251 | 3.2 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-media](/f25/package/mate-media) | 7 | 226 | 3.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [mate-menus](/f25/package/mate-menus) | 2 | 97 | 2.1 | Sardinian (http://www.transifex.com/mate/MATE/language/sc/) | 
+ | [calibre](/f25/package/calibre) | 3 | 152264 | 0.0 | Sardinian (http://www.transifex.com/calibre/calibre/language/sc/) | 
+ | [appcenter](/f25/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f25/package/audience) | 0 | 106 | 0.0 |  | 
+ | [blivet-gui](/f25/package/blivet-gui) | 0 | 703 | 0.0 | Sardinian | 
+ | [lightdm](/f25/package/lightdm) | 0 | 163 | 0.0 | Sardinian <sc@li.org> | 
+ | [mate-menu](/f25/package/mate-menu) | 0 | 300 | 0.0 | Sardinian (http://www.transifex.com/projects/p/MATE/language/sc/) | 
+ | [maya-calendar](/f25/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f25/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f25/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Sardinian <sc@li.org> | 
 {.sortable}
 
 

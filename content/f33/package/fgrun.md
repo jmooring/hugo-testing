@@ -18,15 +18,15 @@ The package fgrun (version 2016.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 995 | 995 | 100.0 | /mnt/stockage/packages/f33/fgrun/po/zh_CN.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 972 | 995 | 97.7 | /mnt/stockage/packages/f33/fgrun/po/fr.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 940 | 995 | 94.5 | /mnt/stockage/packages/f33/fgrun/po/pt.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 914 | 995 | 91.9 | /mnt/stockage/packages/f33/fgrun/po/ja.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 911 | 995 | 91.6 | /mnt/stockage/packages/f33/fgrun/po/de.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 865 | 995 | 86.9 | /mnt/stockage/packages/f33/fgrun/po/pl.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 855 | 995 | 85.9 | /mnt/stockage/packages/f33/fgrun/po/nl.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 794 | 995 | 79.8 | /mnt/stockage/packages/f33/fgrun/po/es.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 697 | 995 | 70.1 | /mnt/stockage/packages/f33/fgrun/po/it.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 995 | 995 | 100.0 | /mnt/stockage/packages/f33/fgrun/po/zh_CN.po | 
+ | [fr](/f33/language/fr) | 972 | 995 | 97.7 | /mnt/stockage/packages/f33/fgrun/po/fr.po | 
+ | [pt](/f33/language/pt) | 940 | 995 | 94.5 | /mnt/stockage/packages/f33/fgrun/po/pt.po | 
+ | [ja](/f33/language/ja) | 914 | 995 | 91.9 | /mnt/stockage/packages/f33/fgrun/po/ja.po | 
+ | [de](/f33/language/de) | 911 | 995 | 91.6 | /mnt/stockage/packages/f33/fgrun/po/de.po | 
+ | [pl](/f33/language/pl) | 865 | 995 | 86.9 | /mnt/stockage/packages/f33/fgrun/po/pl.po | 
+ | [nl](/f33/language/nl) | 855 | 995 | 85.9 | /mnt/stockage/packages/f33/fgrun/po/nl.po | 
+ | [es](/f33/language/es) | 794 | 995 | 79.8 | /mnt/stockage/packages/f33/fgrun/po/es.po | 
+ | [it](/f33/language/it) | 697 | 995 | 70.1 | /mnt/stockage/packages/f33/fgrun/po/it.po | 
 {.sortable}
 
 

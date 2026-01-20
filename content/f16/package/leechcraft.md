@@ -18,19 +18,19 @@ The package leechcraft (version 0.5.85):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f16/language/be.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/be.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 764 | 764 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/es.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/ru.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 771 | 781 | 98.7 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/hu.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 722 | 781 | 92.4 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/bg.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 688 | 781 | 88.1 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/uk.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 653 | 781 | 83.6 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/fr.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 417 | 781 | 53.4 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/sk.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 414 | 781 | 53.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/pl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 413 | 781 | 52.9 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/sr.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 358 | 781 | 45.8 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/cs.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 292 | 781 | 37.4 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/en.po | 
+ | [be](/f16/language/be) | 781 | 781 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/be.po | 
+ | [de](/f16/language/de) | 764 | 764 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/de.po | 
+ | [es](/f16/language/es) | 781 | 781 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/es.po | 
+ | [ru](/f16/language/ru) | 781 | 781 | 100.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/ru.po | 
+ | [hu](/f16/language/hu) | 771 | 781 | 98.7 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/hu.po | 
+ | [bg](/f16/language/bg) | 722 | 781 | 92.4 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/bg.po | 
+ | [uk](/f16/language/uk) | 688 | 781 | 88.1 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/uk.po | 
+ | [fr](/f16/language/fr) | 653 | 781 | 83.6 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/fr.po | 
+ | [sk](/f16/language/sk) | 417 | 781 | 53.4 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/sk.po | 
+ | [pl](/f16/language/pl) | 414 | 781 | 53.0 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/pl.po | 
+ | [sr](/f16/language/sr) | 413 | 781 | 52.9 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/sr.po | 
+ | [cs](/f16/language/cs) | 358 | 781 | 45.8 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/cs.po | 
+ | [en](/f16/language/en) | 292 | 781 | 37.4 | /mnt/stockage/packages/f16/leechcraft/src/plugins/eiskaltdcpp/dcpp/po/en.po | 
 {.sortable}
 
 

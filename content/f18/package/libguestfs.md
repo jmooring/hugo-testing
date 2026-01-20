@@ -18,21 +18,21 @@ The package libguestfs (version 1.20.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 7837 | 9855 | 79.5 | /mnt/stockage/packages/f18/libguestfs/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 5818 | 9855 | 59.0 | /mnt/stockage/packages/f18/libguestfs/po/pl.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 4491 | 9855 | 45.6 | /mnt/stockage/packages/f18/libguestfs/po/es.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 4032 | 9855 | 40.9 | /mnt/stockage/packages/f18/libguestfs/po/pa.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 3940 | 9855 | 40.0 | /mnt/stockage/packages/f18/libguestfs/po/mr.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 32610 | 107798 | 30.3 | /mnt/stockage/packages/f18/libguestfs/po-docs/ja.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 24628 | 117653 | 20.9 | /mnt/stockage/packages/f18/libguestfs/po/uk.po/mnt/stockage/packages/f18/libguestfs/po-docs/uk.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 1958 | 9855 | 19.9 | /mnt/stockage/packages/f18/libguestfs/po/gu.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 1728 | 9855 | 17.5 | /mnt/stockage/packages/f18/libguestfs/po/hi.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 1715 | 9855 | 17.4 | /mnt/stockage/packages/f18/libguestfs/po/kn.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 1687 | 9855 | 17.1 | /mnt/stockage/packages/f18/libguestfs/po/or.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 1677 | 9855 | 17.0 | /mnt/stockage/packages/f18/libguestfs/po/ml.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 1655 | 9855 | 16.8 | /mnt/stockage/packages/f18/libguestfs/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 1655 | 9855 | 16.8 | /mnt/stockage/packages/f18/libguestfs/po/te.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 536 | 9855 | 5.4 | /mnt/stockage/packages/f18/libguestfs/po/en_GB.po | 
+ | [nl](/f18/language/nl) | 7837 | 9855 | 79.5 | /mnt/stockage/packages/f18/libguestfs/po/nl.po | 
+ | [pl](/f18/language/pl) | 5818 | 9855 | 59.0 | /mnt/stockage/packages/f18/libguestfs/po/pl.po | 
+ | [es](/f18/language/es) | 4491 | 9855 | 45.6 | /mnt/stockage/packages/f18/libguestfs/po/es.po | 
+ | [pa](/f18/language/pa) | 4032 | 9855 | 40.9 | /mnt/stockage/packages/f18/libguestfs/po/pa.po | 
+ | [mr](/f18/language/mr) | 3940 | 9855 | 40.0 | /mnt/stockage/packages/f18/libguestfs/po/mr.po | 
+ | [ja](/f18/language/ja) | 32610 | 107798 | 30.3 | /mnt/stockage/packages/f18/libguestfs/po-docs/ja.po | 
+ | [uk](/f18/language/uk) | 24628 | 117653 | 20.9 | /mnt/stockage/packages/f18/libguestfs/po/uk.po/mnt/stockage/packages/f18/libguestfs/po-docs/uk.po | 
+ | [gu](/f18/language/gu) | 1958 | 9855 | 19.9 | /mnt/stockage/packages/f18/libguestfs/po/gu.po | 
+ | [hi](/f18/language/hi) | 1728 | 9855 | 17.5 | /mnt/stockage/packages/f18/libguestfs/po/hi.po | 
+ | [kn](/f18/language/kn) | 1715 | 9855 | 17.4 | /mnt/stockage/packages/f18/libguestfs/po/kn.po | 
+ | [or](/f18/language/or) | 1687 | 9855 | 17.1 | /mnt/stockage/packages/f18/libguestfs/po/or.po | 
+ | [ml](/f18/language/ml) | 1677 | 9855 | 17.0 | /mnt/stockage/packages/f18/libguestfs/po/ml.po | 
+ | [ta](/f18/language/ta) | 1655 | 9855 | 16.8 | /mnt/stockage/packages/f18/libguestfs/po/ta.po | 
+ | [te](/f18/language/te) | 1655 | 9855 | 16.8 | /mnt/stockage/packages/f18/libguestfs/po/te.po | 
+ | [en_GB](/f18/language/en_GB) | 536 | 9855 | 5.4 | /mnt/stockage/packages/f18/libguestfs/po/en_GB.po | 
 {.sortable}
 
 

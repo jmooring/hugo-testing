@@ -18,34 +18,34 @@ The package conduit (version 0.3.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 709 | 709 | 100.0 | /mnt/stockage/packages/f12/conduit/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 3117 | 3117 | 100.0 | /mnt/stockage/packages/f12/conduit/help/de/de.po/mnt/stockage/packages/f12/conduit/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 2977 | 2977 | 100.0 | /mnt/stockage/packages/f12/conduit/help/el/el.po/mnt/stockage/packages/f12/conduit/po/el.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 3110 | 3110 | 100.0 | /mnt/stockage/packages/f12/conduit/help/es/es.po/mnt/stockage/packages/f12/conduit/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/eu.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 840 | 840 | 100.0 | /mnt/stockage/packages/f12/conduit/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/it.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 576 | 576 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pt_BR.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 709 | 709 | 100.0 | /mnt/stockage/packages/f12/conduit/po/sl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 709 | 709 | 100.0 | /mnt/stockage/packages/f12/conduit/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 580 | 580 | 100.0 | /mnt/stockage/packages/f12/conduit/po/vi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 3213 | 3235 | 99.3 | /mnt/stockage/packages/f12/conduit/help/fr/fr.po/mnt/stockage/packages/f12/conduit/po/fr.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 562 | 571 | 98.4 | /mnt/stockage/packages/f12/conduit/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 562 | 571 | 98.4 | /mnt/stockage/packages/f12/conduit/po/zh_HK.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 813 | 834 | 97.5 | /mnt/stockage/packages/f12/conduit/po/gl.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 443 | 502 | 88.2 | /mnt/stockage/packages/f12/conduit/po/ca.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 287 | 327 | 87.8 | /mnt/stockage/packages/f12/conduit/po/ru.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 488 | 571 | 85.5 | /mnt/stockage/packages/f12/conduit/po/ar.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 681 | 834 | 81.7 | /mnt/stockage/packages/f12/conduit/po/fi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 2534 | 3235 | 78.3 | /mnt/stockage/packages/f12/conduit/help/zh_CN/zh_CN.po/mnt/stockage/packages/f12/conduit/po/zh_CN.po | 
- | [nds]({{< ref "/f12/language/nds.md" >}}) | 543 | 834 | 65.1 | /mnt/stockage/packages/f12/conduit/po/nds.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 455 | 834 | 54.6 | /mnt/stockage/packages/f12/conduit/po/nb.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 288 | 564 | 51.1 | /mnt/stockage/packages/f12/conduit/po/he.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 63 | 580 | 10.9 | /mnt/stockage/packages/f12/conduit/po/oc.po | 
+ | [cs](/f12/language/cs) | 709 | 709 | 100.0 | /mnt/stockage/packages/f12/conduit/po/cs.po | 
+ | [de](/f12/language/de) | 3117 | 3117 | 100.0 | /mnt/stockage/packages/f12/conduit/help/de/de.po/mnt/stockage/packages/f12/conduit/po/de.po | 
+ | [el](/f12/language/el) | 2977 | 2977 | 100.0 | /mnt/stockage/packages/f12/conduit/help/el/el.po/mnt/stockage/packages/f12/conduit/po/el.po | 
+ | [en_GB](/f12/language/en_GB) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/en_GB.po | 
+ | [es](/f12/language/es) | 3110 | 3110 | 100.0 | /mnt/stockage/packages/f12/conduit/help/es/es.po/mnt/stockage/packages/f12/conduit/po/es.po | 
+ | [eu](/f12/language/eu) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/eu.po | 
+ | [hu](/f12/language/hu) | 840 | 840 | 100.0 | /mnt/stockage/packages/f12/conduit/po/hu.po | 
+ | [it](/f12/language/it) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/it.po | 
+ | [pa](/f12/language/pa) | 576 | 576 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pa.po | 
+ | [pl](/f12/language/pl) | 563 | 563 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pl.po | 
+ | [pt](/f12/language/pt) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 834 | 834 | 100.0 | /mnt/stockage/packages/f12/conduit/po/pt_BR.po | 
+ | [sl](/f12/language/sl) | 709 | 709 | 100.0 | /mnt/stockage/packages/f12/conduit/po/sl.po | 
+ | [sv](/f12/language/sv) | 709 | 709 | 100.0 | /mnt/stockage/packages/f12/conduit/po/sv.po | 
+ | [vi](/f12/language/vi) | 580 | 580 | 100.0 | /mnt/stockage/packages/f12/conduit/po/vi.po | 
+ | [fr](/f12/language/fr) | 3213 | 3235 | 99.3 | /mnt/stockage/packages/f12/conduit/help/fr/fr.po/mnt/stockage/packages/f12/conduit/po/fr.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 562 | 571 | 98.4 | /mnt/stockage/packages/f12/conduit/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 562 | 571 | 98.4 | /mnt/stockage/packages/f12/conduit/po/zh_HK.po | 
+ | [gl](/f12/language/gl) | 813 | 834 | 97.5 | /mnt/stockage/packages/f12/conduit/po/gl.po | 
+ | [ca](/f12/language/ca) | 443 | 502 | 88.2 | /mnt/stockage/packages/f12/conduit/po/ca.po | 
+ | [ru](/f12/language/ru) | 287 | 327 | 87.8 | /mnt/stockage/packages/f12/conduit/po/ru.po | 
+ | [ar](/f12/language/ar) | 488 | 571 | 85.5 | /mnt/stockage/packages/f12/conduit/po/ar.po | 
+ | [fi](/f12/language/fi) | 681 | 834 | 81.7 | /mnt/stockage/packages/f12/conduit/po/fi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 2534 | 3235 | 78.3 | /mnt/stockage/packages/f12/conduit/help/zh_CN/zh_CN.po/mnt/stockage/packages/f12/conduit/po/zh_CN.po | 
+ | [nds](/f12/language/nds) | 543 | 834 | 65.1 | /mnt/stockage/packages/f12/conduit/po/nds.po | 
+ | [nb_NO](/f12/language/nb_NO) | 455 | 834 | 54.6 | /mnt/stockage/packages/f12/conduit/po/nb.po | 
+ | [he](/f12/language/he) | 288 | 564 | 51.1 | /mnt/stockage/packages/f12/conduit/po/he.po | 
+ | [oc](/f12/language/oc) | 63 | 580 | 10.9 | /mnt/stockage/packages/f12/conduit/po/oc.po | 
 {.sortable}
 
 

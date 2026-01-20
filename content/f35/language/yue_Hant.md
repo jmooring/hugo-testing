@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [minetest]({{< ref "/f35/package/minetest.md" >}}) | 0 | 10049 | 0.0 | none | 
+ | [minetest](/f35/package/minetest) | 0 | 10049 | 0.0 | none | 
 {.sortable}
 
 

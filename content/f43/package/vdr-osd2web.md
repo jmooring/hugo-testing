@@ -18,7 +18,7 @@ The package vdr-osd2web (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 0 | 51 | 0.0 | /mnt/stockage/packages/f43/vdr-osd2web/po/de_DE.po | 
+ | [de](/f43/language/de) | 0 | 51 | 0.0 | /mnt/stockage/packages/f43/vdr-osd2web/po/de_DE.po | 
 {.sortable}
 
 

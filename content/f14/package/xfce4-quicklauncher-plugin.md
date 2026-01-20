@@ -18,16 +18,16 @@ The package xfce4-quicklauncher-plugin (version 1.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 32 | 43 | 74.4 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/hu.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/cs.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/el.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/eu.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/gl.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/ru.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/vi.po | 
+ | [fr](/f14/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/fr.po | 
+ | [hu](/f14/language/hu) | 32 | 43 | 74.4 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/hu.po | 
+ | [cs](/f14/language/cs) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/cs.po | 
+ | [el](/f14/language/el) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/el.po | 
+ | [eu](/f14/language/eu) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/eu.po | 
+ | [gl](/f14/language/gl) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/gl.po | 
+ | [ja](/f14/language/ja) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/ja.po | 
+ | [pl](/f14/language/pl) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/pl.po | 
+ | [ru](/f14/language/ru) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/ru.po | 
+ | [vi](/f14/language/vi) | 28 | 43 | 65.1 | /mnt/stockage/packages/f14/xfce4-quicklauncher-plugin/po/vi.po | 
 {.sortable}
 
 

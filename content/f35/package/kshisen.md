@@ -18,64 +18,64 @@ The package kshisen (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ca/kshisen.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ca@valencia/kshisen.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/de/kshisen.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/el/kshisen.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/en_GB/kshisen.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/es/kshisen.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/eu/kshisen.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/fi/kshisen.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/fr/kshisen.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/it/kshisen.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ko/kshisen.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/nl/kshisen.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/pl/kshisen.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/pt/kshisen.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/pt_BR/kshisen.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ru/kshisen.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/sl/kshisen.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/sv/kshisen.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/uk/kshisen.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/zh_CN/kshisen.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 567 | 608 | 93.3 | /mnt/stockage/packages/f35/kshisen/po/cs/kshisen.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 567 | 608 | 93.3 | /mnt/stockage/packages/f35/kshisen/po/et/kshisen.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 567 | 608 | 93.3 | /mnt/stockage/packages/f35/kshisen/po/nn/kshisen.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/gl/kshisen.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/id/kshisen.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/sk/kshisen.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/zh_TW/kshisen.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f35/kshisen/po/sr/kshisen.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 516 | 608 | 84.9 | /mnt/stockage/packages/f35/kshisen/po/da/kshisen.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 516 | 608 | 84.9 | /mnt/stockage/packages/f35/kshisen/po/tr/kshisen.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/bs/kshisen.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/ga/kshisen.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/hu/kshisen.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/kk/kshisen.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/km/kshisen.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/nb/kshisen.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/nds/kshisen.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 506 | 608 | 83.2 | /mnt/stockage/packages/f35/kshisen/po/ja/kshisen.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 466 | 608 | 76.6 | /mnt/stockage/packages/f35/kshisen/po/lv/kshisen.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 116 | 608 | 19.1 | /mnt/stockage/packages/f35/kshisen/po/fa/kshisen.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 94 | 608 | 15.5 | /mnt/stockage/packages/f35/kshisen/po/hi/kshisen.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 76 | 608 | 12.5 | /mnt/stockage/packages/f35/kshisen/po/bg/kshisen.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 59 | 608 | 9.7 | /mnt/stockage/packages/f35/kshisen/po/pa/kshisen.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 51 | 608 | 8.4 | /mnt/stockage/packages/f35/kshisen/po/lt/kshisen.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 51 | 608 | 8.4 | /mnt/stockage/packages/f35/kshisen/po/ro/kshisen.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 46 | 608 | 7.6 | /mnt/stockage/packages/f35/kshisen/po/hr/kshisen.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 46 | 608 | 7.6 | /mnt/stockage/packages/f35/kshisen/po/sq/kshisen.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 44 | 608 | 7.2 | /mnt/stockage/packages/f35/kshisen/po/be/kshisen.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 41 | 608 | 6.7 | /mnt/stockage/packages/f35/kshisen/po/ug/kshisen.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 35 | 608 | 5.8 | /mnt/stockage/packages/f35/kshisen/po/eo/kshisen.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 35 | 608 | 5.8 | /mnt/stockage/packages/f35/kshisen/po/mr/kshisen.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/he/kshisen.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/is/kshisen.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/ta/kshisen.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/tg/kshisen.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 2 | 608 | 0.3 | /mnt/stockage/packages/f35/kshisen/po/ml/kshisen.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 0 | 608 | 0.0 | /mnt/stockage/packages/f35/kshisen/po/ar/kshisen.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 0 | 608 | 0.0 | /mnt/stockage/packages/f35/kshisen/po/se/kshisen.po | 
+ | [ca](/f35/language/ca) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ca/kshisen.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ca@valencia/kshisen.po | 
+ | [de](/f35/language/de) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/de/kshisen.po | 
+ | [el](/f35/language/el) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/el/kshisen.po | 
+ | [en_GB](/f35/language/en_GB) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/en_GB/kshisen.po | 
+ | [es](/f35/language/es) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/es/kshisen.po | 
+ | [eu](/f35/language/eu) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/eu/kshisen.po | 
+ | [fi](/f35/language/fi) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/fi/kshisen.po | 
+ | [fr](/f35/language/fr) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/fr/kshisen.po | 
+ | [it](/f35/language/it) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/it/kshisen.po | 
+ | [ko](/f35/language/ko) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ko/kshisen.po | 
+ | [nl](/f35/language/nl) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/nl/kshisen.po | 
+ | [pl](/f35/language/pl) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/pl/kshisen.po | 
+ | [pt](/f35/language/pt) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/pt/kshisen.po | 
+ | [pt_BR](/f35/language/pt_BR) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/pt_BR/kshisen.po | 
+ | [ru](/f35/language/ru) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/ru/kshisen.po | 
+ | [sl](/f35/language/sl) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/sl/kshisen.po | 
+ | [sv](/f35/language/sv) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/sv/kshisen.po | 
+ | [uk](/f35/language/uk) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/uk/kshisen.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 608 | 608 | 100.0 | /mnt/stockage/packages/f35/kshisen/po/zh_CN/kshisen.po | 
+ | [cs](/f35/language/cs) | 567 | 608 | 93.3 | /mnt/stockage/packages/f35/kshisen/po/cs/kshisen.po | 
+ | [et](/f35/language/et) | 567 | 608 | 93.3 | /mnt/stockage/packages/f35/kshisen/po/et/kshisen.po | 
+ | [nn](/f35/language/nn) | 567 | 608 | 93.3 | /mnt/stockage/packages/f35/kshisen/po/nn/kshisen.po | 
+ | [gl](/f35/language/gl) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/gl/kshisen.po | 
+ | [id](/f35/language/id) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/id/kshisen.po | 
+ | [sk](/f35/language/sk) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/sk/kshisen.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 562 | 608 | 92.4 | /mnt/stockage/packages/f35/kshisen/po/zh_TW/kshisen.po | 
+ | [sr](/f35/language/sr) | 522 | 568 | 91.9 | /mnt/stockage/packages/f35/kshisen/po/sr/kshisen.po | 
+ | [da](/f35/language/da) | 516 | 608 | 84.9 | /mnt/stockage/packages/f35/kshisen/po/da/kshisen.po | 
+ | [tr](/f35/language/tr) | 516 | 608 | 84.9 | /mnt/stockage/packages/f35/kshisen/po/tr/kshisen.po | 
+ | [bs](/f35/language/bs) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/bs/kshisen.po | 
+ | [ga](/f35/language/ga) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/ga/kshisen.po | 
+ | [hu](/f35/language/hu) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/hu/kshisen.po | 
+ | [kk](/f35/language/kk) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/kk/kshisen.po | 
+ | [km](/f35/language/km) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/km/kshisen.po | 
+ | [nb_NO](/f35/language/nb_NO) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/nb/kshisen.po | 
+ | [nds](/f35/language/nds) | 512 | 608 | 84.2 | /mnt/stockage/packages/f35/kshisen/po/nds/kshisen.po | 
+ | [ja](/f35/language/ja) | 506 | 608 | 83.2 | /mnt/stockage/packages/f35/kshisen/po/ja/kshisen.po | 
+ | [lv](/f35/language/lv) | 466 | 608 | 76.6 | /mnt/stockage/packages/f35/kshisen/po/lv/kshisen.po | 
+ | [fa](/f35/language/fa) | 116 | 608 | 19.1 | /mnt/stockage/packages/f35/kshisen/po/fa/kshisen.po | 
+ | [hi](/f35/language/hi) | 94 | 608 | 15.5 | /mnt/stockage/packages/f35/kshisen/po/hi/kshisen.po | 
+ | [bg](/f35/language/bg) | 76 | 608 | 12.5 | /mnt/stockage/packages/f35/kshisen/po/bg/kshisen.po | 
+ | [pa](/f35/language/pa) | 59 | 608 | 9.7 | /mnt/stockage/packages/f35/kshisen/po/pa/kshisen.po | 
+ | [lt](/f35/language/lt) | 51 | 608 | 8.4 | /mnt/stockage/packages/f35/kshisen/po/lt/kshisen.po | 
+ | [ro](/f35/language/ro) | 51 | 608 | 8.4 | /mnt/stockage/packages/f35/kshisen/po/ro/kshisen.po | 
+ | [hr](/f35/language/hr) | 46 | 608 | 7.6 | /mnt/stockage/packages/f35/kshisen/po/hr/kshisen.po | 
+ | [sq](/f35/language/sq) | 46 | 608 | 7.6 | /mnt/stockage/packages/f35/kshisen/po/sq/kshisen.po | 
+ | [be](/f35/language/be) | 44 | 608 | 7.2 | /mnt/stockage/packages/f35/kshisen/po/be/kshisen.po | 
+ | [ug](/f35/language/ug) | 41 | 608 | 6.7 | /mnt/stockage/packages/f35/kshisen/po/ug/kshisen.po | 
+ | [eo](/f35/language/eo) | 35 | 608 | 5.8 | /mnt/stockage/packages/f35/kshisen/po/eo/kshisen.po | 
+ | [mr](/f35/language/mr) | 35 | 608 | 5.8 | /mnt/stockage/packages/f35/kshisen/po/mr/kshisen.po | 
+ | [he](/f35/language/he) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/he/kshisen.po | 
+ | [is](/f35/language/is) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/is/kshisen.po | 
+ | [ta](/f35/language/ta) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/ta/kshisen.po | 
+ | [tg](/f35/language/tg) | 29 | 608 | 4.8 | /mnt/stockage/packages/f35/kshisen/po/tg/kshisen.po | 
+ | [ml](/f35/language/ml) | 2 | 608 | 0.3 | /mnt/stockage/packages/f35/kshisen/po/ml/kshisen.po | 
+ | [ar](/f35/language/ar) | 0 | 608 | 0.0 | /mnt/stockage/packages/f35/kshisen/po/ar/kshisen.po | 
+ | [se](/f35/language/se) | 0 | 608 | 0.0 | /mnt/stockage/packages/f35/kshisen/po/se/kshisen.po | 
 {.sortable}
 
 

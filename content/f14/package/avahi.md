@@ -18,34 +18,34 @@ The package avahi (version 0.6.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/es.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/pl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/zh_CN.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 829 | 865 | 95.8 | /mnt/stockage/packages/f14/avahi/po/bg.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 829 | 865 | 95.8 | /mnt/stockage/packages/f14/avahi/po/gl.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/en_GB.po | 
- | [en_NZ]({{< ref "/f14/language/en_NZ.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/en_NZ.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/fi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/ja.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/ro.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/sv.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 731 | 865 | 84.5 | /mnt/stockage/packages/f14/avahi/po/fr.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 600 | 865 | 69.4 | /mnt/stockage/packages/f14/avahi/po/ru.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 190 | 865 | 22.0 | /mnt/stockage/packages/f14/avahi/po/el.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 124 | 865 | 14.3 | /mnt/stockage/packages/f14/avahi/po/zh_TW.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 78 | 865 | 9.0 | /mnt/stockage/packages/f14/avahi/po/cs.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 46 | 865 | 5.3 | /mnt/stockage/packages/f14/avahi/po/ms.po | 
- | [en_AU]({{< ref "/f14/language/en_AU.md" >}}) | 2 | 865 | 0.2 | /mnt/stockage/packages/f14/avahi/po/en_AU.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 1 | 865 | 0.1 | /mnt/stockage/packages/f14/avahi/po/en_CA.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 0 | 865 | 0.0 | /mnt/stockage/packages/f14/avahi/po/nl.po | 
+ | [es](/f14/language/es) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/es.po | 
+ | [pl](/f14/language/pl) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/pl.po | 
+ | [uk](/f14/language/uk) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/avahi/po/zh_CN.po | 
+ | [bg](/f14/language/bg) | 829 | 865 | 95.8 | /mnt/stockage/packages/f14/avahi/po/bg.po | 
+ | [gl](/f14/language/gl) | 829 | 865 | 95.8 | /mnt/stockage/packages/f14/avahi/po/gl.po | 
+ | [ca](/f14/language/ca) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/ca.po | 
+ | [de](/f14/language/de) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/en_GB.po | 
+ | [en_NZ](/f14/language/en_NZ) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/en_NZ.po | 
+ | [fi](/f14/language/fi) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/fi.po | 
+ | [hu](/f14/language/hu) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/hu.po | 
+ | [it](/f14/language/it) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/it.po | 
+ | [ja](/f14/language/ja) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/ja.po | 
+ | [pt_BR](/f14/language/pt_BR) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/ro.po | 
+ | [sr](/f14/language/sr) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 758 | 865 | 87.6 | /mnt/stockage/packages/f14/avahi/po/sv.po | 
+ | [fr](/f14/language/fr) | 731 | 865 | 84.5 | /mnt/stockage/packages/f14/avahi/po/fr.po | 
+ | [ru](/f14/language/ru) | 600 | 865 | 69.4 | /mnt/stockage/packages/f14/avahi/po/ru.po | 
+ | [el](/f14/language/el) | 190 | 865 | 22.0 | /mnt/stockage/packages/f14/avahi/po/el.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 124 | 865 | 14.3 | /mnt/stockage/packages/f14/avahi/po/zh_TW.po | 
+ | [cs](/f14/language/cs) | 78 | 865 | 9.0 | /mnt/stockage/packages/f14/avahi/po/cs.po | 
+ | [ms](/f14/language/ms) | 46 | 865 | 5.3 | /mnt/stockage/packages/f14/avahi/po/ms.po | 
+ | [en_AU](/f14/language/en_AU) | 2 | 865 | 0.2 | /mnt/stockage/packages/f14/avahi/po/en_AU.po | 
+ | [en_CA](/f14/language/en_CA) | 1 | 865 | 0.1 | /mnt/stockage/packages/f14/avahi/po/en_CA.po | 
+ | [nl](/f14/language/nl) | 0 | 865 | 0.0 | /mnt/stockage/packages/f14/avahi/po/nl.po | 
 {.sortable}
 
 

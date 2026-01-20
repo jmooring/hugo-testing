@@ -18,8 +18,8 @@ The package kbibtex (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 1896 | 1896 | 100.0 | /mnt/stockage/packages/f10/kbibtex/po/de.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1896 | 1896 | 100.0 | /mnt/stockage/packages/f10/kbibtex/po/ru.po | 
+ | [de](/f10/language/de) | 1896 | 1896 | 100.0 | /mnt/stockage/packages/f10/kbibtex/po/de.po | 
+ | [ru](/f10/language/ru) | 1896 | 1896 | 100.0 | /mnt/stockage/packages/f10/kbibtex/po/ru.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 4 | 163 | 2.5 | Sichuan Yi <ii@li.org> | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 4 | 163 | 2.5 | Sichuan Yi <ii@li.org> | 
 {.sortable}
 
 

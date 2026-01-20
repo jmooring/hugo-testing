@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f20/package/iso-codes.md" >}}) | 392 | 15780 | 2.5 | Tigre | 
- | [calibre]({{< ref "/f20/package/calibre.md" >}}) | 125 | 10496 | 1.2 | Tigre | 
+ | [iso-codes](/f20/package/iso-codes) | 392 | 15780 | 2.5 | Tigre | 
+ | [calibre](/f20/package/calibre) | 125 | 10496 | 1.2 | Tigre | 
 {.sortable}
 
 

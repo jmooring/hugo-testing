@@ -18,9 +18,9 @@ The package ibus-indic-table (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f16/ibus-indic-table/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f16/ibus-indic-table/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f16/ibus-indic-table/po/zh_HK.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 85 | 85 | 100.0 | /mnt/stockage/packages/f16/ibus-indic-table/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 85 | 85 | 100.0 | /mnt/stockage/packages/f16/ibus-indic-table/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 85 | 85 | 100.0 | /mnt/stockage/packages/f16/ibus-indic-table/po/zh_HK.po | 
 {.sortable}
 
 

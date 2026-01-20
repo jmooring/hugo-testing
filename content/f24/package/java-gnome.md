@@ -18,9 +18,9 @@ The package java-gnome (version 4.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f24/java-gnome/tests/po/en_US.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f24/java-gnome/doc/po/es.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f24/java-gnome/doc/po/pt.po | 
+ | [en_US](/f24/language/en_US) | 2 | 2 | 100.0 | /mnt/stockage/packages/f24/java-gnome/tests/po/en_US.po | 
+ | [es](/f24/language/es) | 25 | 25 | 100.0 | /mnt/stockage/packages/f24/java-gnome/doc/po/es.po | 
+ | [pt](/f24/language/pt) | 25 | 25 | 100.0 | /mnt/stockage/packages/f24/java-gnome/doc/po/pt.po | 
 {.sortable}
 
 

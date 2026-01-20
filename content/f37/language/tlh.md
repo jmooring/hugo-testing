@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f37/package/tuxpaint.md" >}}) | 34 | 3763 | 0.9 | Bill Kendrick <nbs@sonic.net> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 51 | 13552 | 0.4 | Klingon <tlh@li.org> | 
- | [geeqie]({{< ref "/f37/package/geeqie.md" >}}) | 4 | 4170 | 0.1 |  | 
- | [deluge]({{< ref "/f37/package/deluge.md" >}}) | 0 | 4340 | 0.0 | Klingon <tlh@li.org> | 
+ | [tuxpaint](/f37/package/tuxpaint) | 34 | 3763 | 0.9 | Bill Kendrick <nbs@sonic.net> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 51 | 13552 | 0.4 | Klingon <tlh@li.org> | 
+ | [geeqie](/f37/package/geeqie) | 4 | 4170 | 0.1 |  | 
+ | [deluge](/f37/package/deluge) | 0 | 4340 | 0.0 | Klingon <tlh@li.org> | 
 {.sortable}
 
 

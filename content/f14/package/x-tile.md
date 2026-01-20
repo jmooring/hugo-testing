@@ -18,12 +18,12 @@ The package x-tile (version 1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/de.po | 
- | [es_AR]({{< ref "/f14/language/es_AR.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/es_AR.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/it.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/ru.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/zh_TW.po | 
+ | [de](/f14/language/de) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/de.po | 
+ | [es_AR](/f14/language/es_AR) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/es_AR.po | 
+ | [fr](/f14/language/fr) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/fr.po | 
+ | [it](/f14/language/it) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/it.po | 
+ | [ru](/f14/language/ru) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/ru.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 660 | 660 | 100.0 | /mnt/stockage/packages/f14/x-tile/locale/zh_TW.po | 
 {.sortable}
 
 

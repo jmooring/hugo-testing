@@ -18,13 +18,13 @@ The package partclone (version 0.3.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 252 | 269 | 93.7 | /mnt/stockage/packages/f41/partclone/po/ru.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 220 | 269 | 81.8 | /mnt/stockage/packages/f41/partclone/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 220 | 269 | 81.8 | /mnt/stockage/packages/f41/partclone/po/fr_FR.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 211 | 269 | 78.4 | /mnt/stockage/packages/f41/partclone/po/pt_BR.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 200 | 269 | 74.3 | /mnt/stockage/packages/f41/partclone/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 165 | 269 | 61.3 | /mnt/stockage/packages/f41/partclone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 120 | 269 | 44.6 | /mnt/stockage/packages/f41/partclone/po/zh_TW.po | 
+ | [ru](/f41/language/ru) | 252 | 269 | 93.7 | /mnt/stockage/packages/f41/partclone/po/ru.po | 
+ | [de](/f41/language/de) | 220 | 269 | 81.8 | /mnt/stockage/packages/f41/partclone/po/de.po | 
+ | [fr](/f41/language/fr) | 220 | 269 | 81.8 | /mnt/stockage/packages/f41/partclone/po/fr_FR.po | 
+ | [pt_BR](/f41/language/pt_BR) | 211 | 269 | 78.4 | /mnt/stockage/packages/f41/partclone/po/pt_BR.po | 
+ | [vi](/f41/language/vi) | 200 | 269 | 74.3 | /mnt/stockage/packages/f41/partclone/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 165 | 269 | 61.3 | /mnt/stockage/packages/f41/partclone/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 120 | 269 | 44.6 | /mnt/stockage/packages/f41/partclone/po/zh_TW.po | 
 {.sortable}
 
 

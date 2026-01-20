@@ -18,7 +18,7 @@ The package razertool (version 0.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 384 | 414 | 92.8 | /mnt/stockage/packages/f13/razertool/po/de.po | 
+ | [de](/f13/language/de) | 384 | 414 | 92.8 | /mnt/stockage/packages/f13/razertool/po/de.po | 
 {.sortable}
 
 

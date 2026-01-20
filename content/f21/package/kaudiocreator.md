@@ -18,70 +18,70 @@ The package kaudiocreator (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/da.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/es.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/et.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/lt.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/nb.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/pt_BR.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/uk.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/zh_TW.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 2259 | 2272 | 99.4 | /mnt/stockage/packages/f21/kaudiocreator/po/ca.po/mnt/stockage/packages/f21/kaudiocreator/po/ca@valencia.po | 
- | [km]({{< ref "/f21/language/km.md" >}}) | 1128 | 1136 | 99.3 | /mnt/stockage/packages/f21/kaudiocreator/po/km.po | 
- | [nds]({{< ref "/f21/language/nds.md" >}}) | 1128 | 1136 | 99.3 | /mnt/stockage/packages/f21/kaudiocreator/po/nds.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/bs.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/en_GB.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/it.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f21/language/sr@ijekavian.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr@ijekavian.po | 
- | [sr@ijekavian_Latn]({{< ref "/f21/language/sr@ijekavian_Latn.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr@ijekavianlatin.po | 
- | [sr_Latn]({{< ref "/f21/language/sr_Latn.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr@latin.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/tr.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1113 | 1136 | 98.0 | /mnt/stockage/packages/f21/kaudiocreator/po/de.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1091 | 1136 | 96.0 | /mnt/stockage/packages/f21/kaudiocreator/po/fr.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 1091 | 1136 | 96.0 | /mnt/stockage/packages/f21/kaudiocreator/po/th.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 1043 | 1136 | 91.8 | /mnt/stockage/packages/f21/kaudiocreator/po/bg.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 929 | 1136 | 81.8 | /mnt/stockage/packages/f21/kaudiocreator/po/ru.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 893 | 1136 | 78.6 | /mnt/stockage/packages/f21/kaudiocreator/po/zh_CN.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 821 | 1136 | 72.3 | /mnt/stockage/packages/f21/kaudiocreator/po/eu.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 763 | 1136 | 67.2 | /mnt/stockage/packages/f21/kaudiocreator/po/ja.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 722 | 1136 | 63.6 | /mnt/stockage/packages/f21/kaudiocreator/po/gl.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 722 | 1136 | 63.6 | /mnt/stockage/packages/f21/kaudiocreator/po/lv.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 711 | 1136 | 62.6 | /mnt/stockage/packages/f21/kaudiocreator/po/pa.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 685 | 1136 | 60.3 | /mnt/stockage/packages/f21/kaudiocreator/po/ta.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 677 | 1136 | 59.6 | /mnt/stockage/packages/f21/kaudiocreator/po/fa.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 594 | 1136 | 52.3 | /mnt/stockage/packages/f21/kaudiocreator/po/nn.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/fi.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/is.po | 
- | [ne]({{< ref "/f21/language/ne.md" >}}) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/ne.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/sk.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/sl.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 572 | 1136 | 50.4 | /mnt/stockage/packages/f21/kaudiocreator/po/kk.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 566 | 1136 | 49.8 | /mnt/stockage/packages/f21/kaudiocreator/po/ro.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 566 | 1136 | 49.8 | /mnt/stockage/packages/f21/kaudiocreator/po/zh_HK.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 561 | 1136 | 49.4 | /mnt/stockage/packages/f21/kaudiocreator/po/ms.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 1026 | 2272 | 45.2 | /mnt/stockage/packages/f21/kaudiocreator/po/hne.po/mnt/stockage/packages/f21/kaudiocreator/po/hi.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 464 | 1136 | 40.8 | /mnt/stockage/packages/f21/kaudiocreator/po/mk.po | 
- | [tg]({{< ref "/f21/language/tg.md" >}}) | 418 | 1136 | 36.8 | /mnt/stockage/packages/f21/kaudiocreator/po/tg.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 382 | 1136 | 33.6 | /mnt/stockage/packages/f21/kaudiocreator/po/ga.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 351 | 1136 | 30.9 | /mnt/stockage/packages/f21/kaudiocreator/po/ar.po | 
- | [br]({{< ref "/f21/language/br.md" >}}) | 199 | 1136 | 17.5 | /mnt/stockage/packages/f21/kaudiocreator/po/br.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 111 | 1136 | 9.8 | /mnt/stockage/packages/f21/kaudiocreator/po/eo.po | 
- | [xh]({{< ref "/f21/language/xh.md" >}}) | 111 | 1136 | 9.8 | /mnt/stockage/packages/f21/kaudiocreator/po/xh.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 95 | 1136 | 8.4 | /mnt/stockage/packages/f21/kaudiocreator/po/ug.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 94 | 1136 | 8.3 | /mnt/stockage/packages/f21/kaudiocreator/po/hr.po | 
- | [af]({{< ref "/f21/language/af.md" >}}) | 91 | 1136 | 8.0 | /mnt/stockage/packages/f21/kaudiocreator/po/af.po | 
- | [mai]({{< ref "/f21/language/mai.md" >}}) | 73 | 1136 | 6.4 | /mnt/stockage/packages/f21/kaudiocreator/po/mai.po | 
- | [cy]({{< ref "/f21/language/cy.md" >}}) | 66 | 1136 | 5.8 | /mnt/stockage/packages/f21/kaudiocreator/po/cy.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 55 | 1136 | 4.8 | /mnt/stockage/packages/f21/kaudiocreator/po/be.po | 
- | [oc]({{< ref "/f21/language/oc.md" >}}) | 49 | 1136 | 4.3 | /mnt/stockage/packages/f21/kaudiocreator/po/oc.po | 
- | [se]({{< ref "/f21/language/se.md" >}}) | 7 | 1136 | 0.6 | /mnt/stockage/packages/f21/kaudiocreator/po/se.po | 
+ | [cs](/f21/language/cs) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/cs.po | 
+ | [da](/f21/language/da) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/da.po | 
+ | [el](/f21/language/el) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/el.po | 
+ | [es](/f21/language/es) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/es.po | 
+ | [et](/f21/language/et) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/et.po | 
+ | [lt](/f21/language/lt) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/lt.po | 
+ | [nb_NO](/f21/language/nb_NO) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/nb.po | 
+ | [nl](/f21/language/nl) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/nl.po | 
+ | [pl](/f21/language/pl) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/pl.po | 
+ | [pt](/f21/language/pt) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/pt_BR.po | 
+ | [sv](/f21/language/sv) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/sv.po | 
+ | [uk](/f21/language/uk) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/uk.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f21/kaudiocreator/po/zh_TW.po | 
+ | [ca](/f21/language/ca) | 2259 | 2272 | 99.4 | /mnt/stockage/packages/f21/kaudiocreator/po/ca.po/mnt/stockage/packages/f21/kaudiocreator/po/ca@valencia.po | 
+ | [km](/f21/language/km) | 1128 | 1136 | 99.3 | /mnt/stockage/packages/f21/kaudiocreator/po/km.po | 
+ | [nds](/f21/language/nds) | 1128 | 1136 | 99.3 | /mnt/stockage/packages/f21/kaudiocreator/po/nds.po | 
+ | [bs](/f21/language/bs) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/bs.po | 
+ | [en_GB](/f21/language/en_GB) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/en_GB.po | 
+ | [it](/f21/language/it) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/it.po | 
+ | [sr](/f21/language/sr) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr.po | 
+ | [sr@ijekavian](/f21/language/sr@ijekavian) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr@ijekavian.po | 
+ | [sr@ijekavian_Latn](/f21/language/sr@ijekavian_Latn) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr@ijekavianlatin.po | 
+ | [sr_Latn](/f21/language/sr_Latn) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/sr@latin.po | 
+ | [tr](/f21/language/tr) | 1123 | 1136 | 98.9 | /mnt/stockage/packages/f21/kaudiocreator/po/tr.po | 
+ | [de](/f21/language/de) | 1113 | 1136 | 98.0 | /mnt/stockage/packages/f21/kaudiocreator/po/de.po | 
+ | [fr](/f21/language/fr) | 1091 | 1136 | 96.0 | /mnt/stockage/packages/f21/kaudiocreator/po/fr.po | 
+ | [th](/f21/language/th) | 1091 | 1136 | 96.0 | /mnt/stockage/packages/f21/kaudiocreator/po/th.po | 
+ | [bg](/f21/language/bg) | 1043 | 1136 | 91.8 | /mnt/stockage/packages/f21/kaudiocreator/po/bg.po | 
+ | [ru](/f21/language/ru) | 929 | 1136 | 81.8 | /mnt/stockage/packages/f21/kaudiocreator/po/ru.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 893 | 1136 | 78.6 | /mnt/stockage/packages/f21/kaudiocreator/po/zh_CN.po | 
+ | [eu](/f21/language/eu) | 821 | 1136 | 72.3 | /mnt/stockage/packages/f21/kaudiocreator/po/eu.po | 
+ | [ja](/f21/language/ja) | 763 | 1136 | 67.2 | /mnt/stockage/packages/f21/kaudiocreator/po/ja.po | 
+ | [gl](/f21/language/gl) | 722 | 1136 | 63.6 | /mnt/stockage/packages/f21/kaudiocreator/po/gl.po | 
+ | [lv](/f21/language/lv) | 722 | 1136 | 63.6 | /mnt/stockage/packages/f21/kaudiocreator/po/lv.po | 
+ | [pa](/f21/language/pa) | 711 | 1136 | 62.6 | /mnt/stockage/packages/f21/kaudiocreator/po/pa.po | 
+ | [ta](/f21/language/ta) | 685 | 1136 | 60.3 | /mnt/stockage/packages/f21/kaudiocreator/po/ta.po | 
+ | [fa](/f21/language/fa) | 677 | 1136 | 59.6 | /mnt/stockage/packages/f21/kaudiocreator/po/fa.po | 
+ | [nn](/f21/language/nn) | 594 | 1136 | 52.3 | /mnt/stockage/packages/f21/kaudiocreator/po/nn.po | 
+ | [fi](/f21/language/fi) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/fi.po | 
+ | [is](/f21/language/is) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/is.po | 
+ | [ne](/f21/language/ne) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/ne.po | 
+ | [sk](/f21/language/sk) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/sk.po | 
+ | [sl](/f21/language/sl) | 589 | 1136 | 51.8 | /mnt/stockage/packages/f21/kaudiocreator/po/sl.po | 
+ | [kk](/f21/language/kk) | 572 | 1136 | 50.4 | /mnt/stockage/packages/f21/kaudiocreator/po/kk.po | 
+ | [ro](/f21/language/ro) | 566 | 1136 | 49.8 | /mnt/stockage/packages/f21/kaudiocreator/po/ro.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 566 | 1136 | 49.8 | /mnt/stockage/packages/f21/kaudiocreator/po/zh_HK.po | 
+ | [ms](/f21/language/ms) | 561 | 1136 | 49.4 | /mnt/stockage/packages/f21/kaudiocreator/po/ms.po | 
+ | [hi](/f21/language/hi) | 1026 | 2272 | 45.2 | /mnt/stockage/packages/f21/kaudiocreator/po/hne.po/mnt/stockage/packages/f21/kaudiocreator/po/hi.po | 
+ | [mk](/f21/language/mk) | 464 | 1136 | 40.8 | /mnt/stockage/packages/f21/kaudiocreator/po/mk.po | 
+ | [tg](/f21/language/tg) | 418 | 1136 | 36.8 | /mnt/stockage/packages/f21/kaudiocreator/po/tg.po | 
+ | [ga](/f21/language/ga) | 382 | 1136 | 33.6 | /mnt/stockage/packages/f21/kaudiocreator/po/ga.po | 
+ | [ar](/f21/language/ar) | 351 | 1136 | 30.9 | /mnt/stockage/packages/f21/kaudiocreator/po/ar.po | 
+ | [br](/f21/language/br) | 199 | 1136 | 17.5 | /mnt/stockage/packages/f21/kaudiocreator/po/br.po | 
+ | [eo](/f21/language/eo) | 111 | 1136 | 9.8 | /mnt/stockage/packages/f21/kaudiocreator/po/eo.po | 
+ | [xh](/f21/language/xh) | 111 | 1136 | 9.8 | /mnt/stockage/packages/f21/kaudiocreator/po/xh.po | 
+ | [ug](/f21/language/ug) | 95 | 1136 | 8.4 | /mnt/stockage/packages/f21/kaudiocreator/po/ug.po | 
+ | [hr](/f21/language/hr) | 94 | 1136 | 8.3 | /mnt/stockage/packages/f21/kaudiocreator/po/hr.po | 
+ | [af](/f21/language/af) | 91 | 1136 | 8.0 | /mnt/stockage/packages/f21/kaudiocreator/po/af.po | 
+ | [mai](/f21/language/mai) | 73 | 1136 | 6.4 | /mnt/stockage/packages/f21/kaudiocreator/po/mai.po | 
+ | [cy](/f21/language/cy) | 66 | 1136 | 5.8 | /mnt/stockage/packages/f21/kaudiocreator/po/cy.po | 
+ | [be](/f21/language/be) | 55 | 1136 | 4.8 | /mnt/stockage/packages/f21/kaudiocreator/po/be.po | 
+ | [oc](/f21/language/oc) | 49 | 1136 | 4.3 | /mnt/stockage/packages/f21/kaudiocreator/po/oc.po | 
+ | [se](/f21/language/se) | 7 | 1136 | 0.6 | /mnt/stockage/packages/f21/kaudiocreator/po/se.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package gnome-launch-box (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f12/gnome-launch-box/po/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f12/gnome-launch-box/po/fr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f12/gnome-launch-box/po/sv.po | 
+ | [de](/f12/language/de) | 33 | 33 | 100.0 | /mnt/stockage/packages/f12/gnome-launch-box/po/de.po | 
+ | [fr](/f12/language/fr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f12/gnome-launch-box/po/fr.po | 
+ | [sv](/f12/language/sv) | 33 | 33 | 100.0 | /mnt/stockage/packages/f12/gnome-launch-box/po/sv.po | 
 {.sortable}
 
 

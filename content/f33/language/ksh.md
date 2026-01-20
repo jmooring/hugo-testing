@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [php-phpmyadmin-sql-parser5]({{< ref "/f33/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 268 | 0.0 | Colognian <https://hosted.weblate.org/projects/phpmyadmin/master/ksh/> | 
+ | [php-phpmyadmin-sql-parser5](/f33/package/php-phpmyadmin-sql-parser5) | 0 | 268 | 0.0 | Colognian <https://hosted.weblate.org/projects/phpmyadmin/master/ksh/> | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package libbtctl (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f8/language/be.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f8/libbtctl/po/be.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f8/libbtctl/po/ja.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 12 | 40 | 30.0 | /mnt/stockage/packages/f8/libbtctl/po/en_GB.po | 
+ | [be](/f8/language/be) | 40 | 40 | 100.0 | /mnt/stockage/packages/f8/libbtctl/po/be.po | 
+ | [ja](/f8/language/ja) | 48 | 48 | 100.0 | /mnt/stockage/packages/f8/libbtctl/po/ja.po | 
+ | [en_GB](/f8/language/en_GB) | 12 | 40 | 30.0 | /mnt/stockage/packages/f8/libbtctl/po/en_GB.po | 
 {.sortable}
 
 

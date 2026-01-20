@@ -18,49 +18,49 @@ The package grep (version 2.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/de.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/eo.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/et.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/hr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/it.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/ru.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/sv.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/zh_TW.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/bg.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/da.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/fi.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/sl.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 916 | 959 | 95.5 | /mnt/stockage/packages/f24/grep/po/ca.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 916 | 959 | 95.5 | /mnt/stockage/packages/f24/grep/po/fr.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 916 | 959 | 95.5 | /mnt/stockage/packages/f24/grep/po/th.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 866 | 959 | 90.3 | /mnt/stockage/packages/f24/grep/po/ja.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 864 | 959 | 90.1 | /mnt/stockage/packages/f24/grep/po/es.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 864 | 959 | 90.1 | /mnt/stockage/packages/f24/grep/po/id.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 839 | 959 | 87.5 | /mnt/stockage/packages/f24/grep/po/sk.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 616 | 959 | 64.2 | /mnt/stockage/packages/f24/grep/po/gl.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 538 | 959 | 56.1 | /mnt/stockage/packages/f24/grep/po/ga.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 325 | 959 | 33.9 | /mnt/stockage/packages/f24/grep/po/pa.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 302 | 959 | 31.5 | /mnt/stockage/packages/f24/grep/po/el.po | 
- | [ky]({{< ref "/f24/language/ky.md" >}}) | 118 | 959 | 12.3 | /mnt/stockage/packages/f24/grep/po/ky.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 118 | 959 | 12.3 | /mnt/stockage/packages/f24/grep/po/lt.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/af.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/be.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/eu.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/he.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/pt.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/ro.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/tr.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 11 | 959 | 1.1 | /mnt/stockage/packages/f24/grep/po/ko.po | 
+ | [cs](/f24/language/cs) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/cs.po | 
+ | [de](/f24/language/de) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/de.po | 
+ | [eo](/f24/language/eo) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/eo.po | 
+ | [et](/f24/language/et) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/et.po | 
+ | [hr](/f24/language/hr) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/hr.po | 
+ | [hu](/f24/language/hu) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/hu.po | 
+ | [it](/f24/language/it) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/it.po | 
+ | [nb_NO](/f24/language/nb_NO) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/nb.po | 
+ | [nl](/f24/language/nl) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/nl.po | 
+ | [pl](/f24/language/pl) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/ru.po | 
+ | [sr](/f24/language/sr) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/sr.po | 
+ | [sv](/f24/language/sv) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/sv.po | 
+ | [uk](/f24/language/uk) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/uk.po | 
+ | [vi](/f24/language/vi) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 959 | 959 | 100.0 | /mnt/stockage/packages/f24/grep/po/zh_TW.po | 
+ | [bg](/f24/language/bg) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/bg.po | 
+ | [da](/f24/language/da) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/da.po | 
+ | [fi](/f24/language/fi) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/fi.po | 
+ | [sl](/f24/language/sl) | 950 | 959 | 99.1 | /mnt/stockage/packages/f24/grep/po/sl.po | 
+ | [ca](/f24/language/ca) | 916 | 959 | 95.5 | /mnt/stockage/packages/f24/grep/po/ca.po | 
+ | [fr](/f24/language/fr) | 916 | 959 | 95.5 | /mnt/stockage/packages/f24/grep/po/fr.po | 
+ | [th](/f24/language/th) | 916 | 959 | 95.5 | /mnt/stockage/packages/f24/grep/po/th.po | 
+ | [ja](/f24/language/ja) | 866 | 959 | 90.3 | /mnt/stockage/packages/f24/grep/po/ja.po | 
+ | [es](/f24/language/es) | 864 | 959 | 90.1 | /mnt/stockage/packages/f24/grep/po/es.po | 
+ | [id](/f24/language/id) | 864 | 959 | 90.1 | /mnt/stockage/packages/f24/grep/po/id.po | 
+ | [sk](/f24/language/sk) | 839 | 959 | 87.5 | /mnt/stockage/packages/f24/grep/po/sk.po | 
+ | [gl](/f24/language/gl) | 616 | 959 | 64.2 | /mnt/stockage/packages/f24/grep/po/gl.po | 
+ | [ga](/f24/language/ga) | 538 | 959 | 56.1 | /mnt/stockage/packages/f24/grep/po/ga.po | 
+ | [pa](/f24/language/pa) | 325 | 959 | 33.9 | /mnt/stockage/packages/f24/grep/po/pa.po | 
+ | [el](/f24/language/el) | 302 | 959 | 31.5 | /mnt/stockage/packages/f24/grep/po/el.po | 
+ | [ky](/f24/language/ky) | 118 | 959 | 12.3 | /mnt/stockage/packages/f24/grep/po/ky.po | 
+ | [lt](/f24/language/lt) | 118 | 959 | 12.3 | /mnt/stockage/packages/f24/grep/po/lt.po | 
+ | [af](/f24/language/af) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/af.po | 
+ | [be](/f24/language/be) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/be.po | 
+ | [eu](/f24/language/eu) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/eu.po | 
+ | [he](/f24/language/he) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/he.po | 
+ | [pt](/f24/language/pt) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/pt.po | 
+ | [ro](/f24/language/ro) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/ro.po | 
+ | [tr](/f24/language/tr) | 43 | 959 | 4.5 | /mnt/stockage/packages/f24/grep/po/tr.po | 
+ | [ko](/f24/language/ko) | 11 | 959 | 1.1 | /mnt/stockage/packages/f24/grep/po/ko.po | 
 {.sortable}
 
 

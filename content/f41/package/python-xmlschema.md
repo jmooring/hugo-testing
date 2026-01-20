@@ -18,10 +18,10 @@ The package python-xmlschema (version 3.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f41/language/en.md" >}}) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/en/LC_MESSAGES/xmlschema.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 2885 | 2885 | 100.0 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/pl/LC_MESSAGES/xmlschema.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/ru/LC_MESSAGES/xmlschema.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 2846 | 2877 | 98.9 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/it/LC_MESSAGES/xmlschema.po | 
+ | [en](/f41/language/en) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/en/LC_MESSAGES/xmlschema.po | 
+ | [pl](/f41/language/pl) | 2885 | 2885 | 100.0 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/pl/LC_MESSAGES/xmlschema.po | 
+ | [ru](/f41/language/ru) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/ru/LC_MESSAGES/xmlschema.po | 
+ | [it](/f41/language/it) | 2846 | 2877 | 98.9 | /mnt/stockage/packages/f41/python-xmlschema/xmlschema/locale/it/LC_MESSAGES/xmlschema.po | 
 {.sortable}
 
 

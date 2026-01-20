@@ -18,12 +18,12 @@ The package csound (version 6.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 17244 | 17244 | 100.0 | /mnt/stockage/packages/f26/csound/po/french.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 9064 | 17244 | 52.6 | /mnt/stockage/packages/f26/csound/po/italian.po | 
- | [es_CO]({{< ref "/f26/language/es_CO.md" >}}) | 2557 | 17244 | 14.8 | /mnt/stockage/packages/f26/csound/po/es_CO.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1689 | 17244 | 9.8 | /mnt/stockage/packages/f26/csound/po/german.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 2311 | 51732 | 4.5 | /mnt/stockage/packages/f26/csound/po/spanish.po/mnt/stockage/packages/f26/csound/po/csound.po/mnt/stockage/packages/f26/csound/po/american.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 35 | 34488 | 0.1 | /mnt/stockage/packages/f26/csound/po/russian.po/mnt/stockage/packages/f26/csound/po/romanian.po | 
+ | [fr](/f26/language/fr) | 17244 | 17244 | 100.0 | /mnt/stockage/packages/f26/csound/po/french.po | 
+ | [it](/f26/language/it) | 9064 | 17244 | 52.6 | /mnt/stockage/packages/f26/csound/po/italian.po | 
+ | [es_CO](/f26/language/es_CO) | 2557 | 17244 | 14.8 | /mnt/stockage/packages/f26/csound/po/es_CO.po | 
+ | [de](/f26/language/de) | 1689 | 17244 | 9.8 | /mnt/stockage/packages/f26/csound/po/german.po | 
+ | [en_GB](/f26/language/en_GB) | 2311 | 51732 | 4.5 | /mnt/stockage/packages/f26/csound/po/spanish.po/mnt/stockage/packages/f26/csound/po/csound.po/mnt/stockage/packages/f26/csound/po/american.po | 
+ | [error](/f26/language/error) | 35 | 34488 | 0.1 | /mnt/stockage/packages/f26/csound/po/russian.po/mnt/stockage/packages/f26/csound/po/romanian.po | 
 {.sortable}
 
 

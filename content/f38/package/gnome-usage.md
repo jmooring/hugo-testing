@@ -18,39 +18,39 @@ The package gnome-usage (version 3.38.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/eu.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/fur.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/ja.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/ro.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sr@latin.po/mnt/stockage/packages/f38/gnome-usage/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 257 | 257 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/zh_TW.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 232 | 238 | 97.5 | /mnt/stockage/packages/f38/gnome-usage/po/ru.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 134 | 254 | 52.8 | /mnt/stockage/packages/f38/gnome-usage/po/el.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 66 | 205 | 32.2 | /mnt/stockage/packages/f38/gnome-usage/po/nb.po | 
+ | [ca](/f38/language/ca) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/ca.po | 
+ | [cs](/f38/language/cs) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/cs.po | 
+ | [da](/f38/language/da) | 263 | 263 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/da.po | 
+ | [de](/f38/language/de) | 260 | 260 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/en_GB.po | 
+ | [es](/f38/language/es) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/es.po | 
+ | [eu](/f38/language/eu) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/eu.po | 
+ | [fi](/f38/language/fi) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/fi.po | 
+ | [fr](/f38/language/fr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/fr.po | 
+ | [fur](/f38/language/fur) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/fur.po | 
+ | [gl](/f38/language/gl) | 263 | 263 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/gl.po | 
+ | [he](/f38/language/he) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/he.po | 
+ | [hr](/f38/language/hr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/hr.po | 
+ | [hu](/f38/language/hu) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/hu.po | 
+ | [id](/f38/language/id) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/id.po | 
+ | [it](/f38/language/it) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/it.po | 
+ | [ja](/f38/language/ja) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/ja.po | 
+ | [nl](/f38/language/nl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/nl.po | 
+ | [pl](/f38/language/pl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/pl.po | 
+ | [pt](/f38/language/pt) | 260 | 260 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/ro.po | 
+ | [sk](/f38/language/sk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sk.po | 
+ | [sl](/f38/language/sl) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sl.po | 
+ | [sr](/f38/language/sr) | 403 | 403 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sr@latin.po/mnt/stockage/packages/f38/gnome-usage/po/sr.po | 
+ | [sv](/f38/language/sv) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/sv.po | 
+ | [tr](/f38/language/tr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/tr.po | 
+ | [uk](/f38/language/uk) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 257 | 257 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 165 | 165 | 100.0 | /mnt/stockage/packages/f38/gnome-usage/po/zh_TW.po | 
+ | [ru](/f38/language/ru) | 232 | 238 | 97.5 | /mnt/stockage/packages/f38/gnome-usage/po/ru.po | 
+ | [el](/f38/language/el) | 134 | 254 | 52.8 | /mnt/stockage/packages/f38/gnome-usage/po/el.po | 
+ | [nb_NO](/f38/language/nb_NO) | 66 | 205 | 32.2 | /mnt/stockage/packages/f38/gnome-usage/po/nb.po | 
 {.sortable}
 
 

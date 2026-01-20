@@ -18,19 +18,19 @@ The package nautilus-share (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/dz.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/pt_BR.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 2 | 214 | 0.9 | /mnt/stockage/packages/f10/nautilus-share/po/ar.po | 
+ | [ca](/f10/language/ca) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/ca.po | 
+ | [de](/f10/language/de) | 41 | 41 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/de.po | 
+ | [dz](/f10/language/dz) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/dz.po | 
+ | [en_GB](/f10/language/en_GB) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/en_GB.po | 
+ | [es](/f10/language/es) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/es.po | 
+ | [eu](/f10/language/eu) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/eu.po | 
+ | [fi](/f10/language/fi) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/fi.po | 
+ | [fr](/f10/language/fr) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/fr.po | 
+ | [hu](/f10/language/hu) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/hu.po | 
+ | [it](/f10/language/it) | 41 | 41 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/it.po | 
+ | [pl](/f10/language/pl) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 214 | 214 | 100.0 | /mnt/stockage/packages/f10/nautilus-share/po/pt_BR.po | 
+ | [ar](/f10/language/ar) | 2 | 214 | 0.9 | /mnt/stockage/packages/f10/nautilus-share/po/ar.po | 
 {.sortable}
 
 

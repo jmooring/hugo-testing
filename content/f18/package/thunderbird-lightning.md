@@ -18,7 +18,7 @@ The package thunderbird-lightning (version 2.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f18/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f18/thunderbird-lightning/mozilla/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f18/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f18/thunderbird-lightning/mozilla/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

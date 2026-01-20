@@ -18,19 +18,19 @@ The package template-glib (version 3.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/el.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/es.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/fur.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/id.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/pt_BR.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/sv.po | 
+ | [cs](/f28/language/cs) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/cs.po | 
+ | [de](/f28/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/de.po | 
+ | [el](/f28/language/el) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/el.po | 
+ | [es](/f28/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/es.po | 
+ | [fur](/f28/language/fur) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/fur.po | 
+ | [hu](/f28/language/hu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/hu.po | 
+ | [id](/f28/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/id.po | 
+ | [pl](/f28/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/pl.po | 
+ | [pt](/f28/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/pt_BR.po | 
+ | [sl](/f28/language/sl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/sl.po | 
+ | [sr](/f28/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/sr.po | 
+ | [sv](/f28/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f28/template-glib/po/sv.po | 
 {.sortable}
 
 

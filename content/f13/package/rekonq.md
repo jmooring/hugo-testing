@@ -18,23 +18,23 @@ The package rekonq (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f13/language/da.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_da.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_fr.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_pt_BR.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_sv.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_uk.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1351 | 1352 | 99.9 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_de.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 1348 | 1352 | 99.7 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_en_GB.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1346 | 1352 | 99.6 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_zh_CN.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1280 | 1352 | 94.7 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1221 | 1352 | 90.3 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_ru.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 1113 | 1352 | 82.3 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_et.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1057 | 1352 | 78.2 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_cs.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 990 | 1352 | 73.2 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_es.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 984 | 1352 | 72.8 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_hu.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 811 | 1352 | 60.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_lt.po | 
- | [nds]({{< ref "/f13/language/nds.md" >}}) | 710 | 1352 | 52.5 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_nds.po | 
+ | [da](/f13/language/da) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_da.po | 
+ | [fr](/f13/language/fr) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_fr.po | 
+ | [pt](/f13/language/pt) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_pt_BR.po | 
+ | [sv](/f13/language/sv) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_sv.po | 
+ | [uk](/f13/language/uk) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_uk.po | 
+ | [de](/f13/language/de) | 1351 | 1352 | 99.9 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_de.po | 
+ | [en_GB](/f13/language/en_GB) | 1348 | 1352 | 99.7 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_en_GB.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1346 | 1352 | 99.6 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_zh_CN.po | 
+ | [it](/f13/language/it) | 1280 | 1352 | 94.7 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_it.po | 
+ | [ru](/f13/language/ru) | 1221 | 1352 | 90.3 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_ru.po | 
+ | [et](/f13/language/et) | 1113 | 1352 | 82.3 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_et.po | 
+ | [cs](/f13/language/cs) | 1057 | 1352 | 78.2 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_cs.po | 
+ | [es](/f13/language/es) | 990 | 1352 | 73.2 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_es.po | 
+ | [hu](/f13/language/hu) | 984 | 1352 | 72.8 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_hu.po | 
+ | [lt](/f13/language/lt) | 811 | 1352 | 60.0 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_lt.po | 
+ | [nds](/f13/language/nds) | 710 | 1352 | 52.5 | /mnt/stockage/packages/f13/rekonq/i18n/rekonq_nds.po | 
 {.sortable}
 
 

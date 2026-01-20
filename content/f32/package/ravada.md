@@ -18,18 +18,18 @@ The package ravada (version 0.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 1973 | 1973 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/es.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ca-valencia.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/fr.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 508 | 508 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/hi.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ja.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/tr.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 986 | 987 | 99.9 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/vi.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 1033 | 1047 | 98.7 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ar.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 2436 | 3531 | 69.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/pt.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ca.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 17 | 945 | 1.8 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 0 | 945 | 0.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/zh_TW.po | 
+ | [es](/f32/language/es) | 1973 | 1973 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/es.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ca-valencia.po | 
+ | [fr](/f32/language/fr) | 986 | 986 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/fr.po | 
+ | [hi](/f32/language/hi) | 508 | 508 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/hi.po | 
+ | [id](/f32/language/id) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/id.po | 
+ | [it](/f32/language/it) | 986 | 986 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/it.po | 
+ | [ja](/f32/language/ja) | 986 | 986 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ja.po | 
+ | [tr](/f32/language/tr) | 1045 | 1045 | 100.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/tr.po | 
+ | [vi](/f32/language/vi) | 986 | 987 | 99.9 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/vi.po | 
+ | [ar](/f32/language/ar) | 1033 | 1047 | 98.7 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ar.po | 
+ | [ca](/f32/language/ca) | 2436 | 3531 | 69.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/pt.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/gl.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/fa.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/en.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/de.po/mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/ca.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 17 | 945 | 1.8 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 0 | 945 | 0.0 | /mnt/stockage/packages/f32/ravada/lib/Ravada/I18N/zh_TW.po | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package bisho (version 0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/gl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f12/bisho/po/hu.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ko.po | 
- | [lo]({{< ref "/f12/language/lo.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f12/bisho/po/lo.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f12/bisho/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f12/bisho/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ro.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/sv.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f12/bisho/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f12/bisho/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f12/bisho/po/uk.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/wa.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/zh_TW.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 128 | 131 | 97.7 | /mnt/stockage/packages/f12/bisho/po/ru.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 127 | 143 | 88.8 | /mnt/stockage/packages/f12/bisho/po/ms.po | 
+ | [ca](/f12/language/ca) | 85 | 85 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ca.po | 
+ | [da](/f12/language/da) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/da.po | 
+ | [de](/f12/language/de) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/de.po | 
+ | [es](/f12/language/es) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/es.po | 
+ | [eu](/f12/language/eu) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/eu.po | 
+ | [fi](/f12/language/fi) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/fi.po | 
+ | [fr](/f12/language/fr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/fr.po | 
+ | [gl](/f12/language/gl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/gl.po | 
+ | [hu](/f12/language/hu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f12/bisho/po/hu.po | 
+ | [id](/f12/language/id) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/id.po | 
+ | [it](/f12/language/it) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/it.po | 
+ | [ja](/f12/language/ja) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ja.po | 
+ | [ko](/f12/language/ko) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ko.po | 
+ | [lo](/f12/language/lo) | 94 | 94 | 100.0 | /mnt/stockage/packages/f12/bisho/po/lo.po | 
+ | [nb_NO](/f12/language/nb_NO) | 85 | 85 | 100.0 | /mnt/stockage/packages/f12/bisho/po/nb.po | 
+ | [nl](/f12/language/nl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/nl.po | 
+ | [pa](/f12/language/pa) | 143 | 143 | 100.0 | /mnt/stockage/packages/f12/bisho/po/pa.po | 
+ | [pl](/f12/language/pl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 143 | 143 | 100.0 | /mnt/stockage/packages/f12/bisho/po/ro.po | 
+ | [sv](/f12/language/sv) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/sv.po | 
+ | [th](/f12/language/th) | 85 | 85 | 100.0 | /mnt/stockage/packages/f12/bisho/po/th.po | 
+ | [tr](/f12/language/tr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f12/bisho/po/tr.po | 
+ | [uk](/f12/language/uk) | 143 | 143 | 100.0 | /mnt/stockage/packages/f12/bisho/po/uk.po | 
+ | [wa](/f12/language/wa) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/wa.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 131 | 131 | 100.0 | /mnt/stockage/packages/f12/bisho/po/zh_TW.po | 
+ | [ru](/f12/language/ru) | 128 | 131 | 97.7 | /mnt/stockage/packages/f12/bisho/po/ru.po | 
+ | [ms](/f12/language/ms) | 127 | 143 | 88.8 | /mnt/stockage/packages/f12/bisho/po/ms.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deluge]({{< ref "/f12/package/deluge.md" >}}) | 1 | 1998 | 0.1 | Piemontese <pms@li.org> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [deluge](/f12/package/deluge) | 1 | 1998 | 0.1 | Piemontese <pms@li.org> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

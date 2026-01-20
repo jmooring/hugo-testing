@@ -18,9 +18,9 @@ The package trac-spamfilter-plugin (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 2661 | 2661 | 100.0 | /mnt/stockage/packages/f24/trac-spamfilter-plugin/tracspamfilter/locale/de/LC_MESSAGES/tracspamfilter.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 2661 | 2661 | 100.0 | /mnt/stockage/packages/f24/trac-spamfilter-plugin/tracspamfilter/locale/ko/LC_MESSAGES/tracspamfilter.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1799 | 2661 | 67.6 | /mnt/stockage/packages/f24/trac-spamfilter-plugin/tracspamfilter/locale/fr/LC_MESSAGES/tracspamfilter.po | 
+ | [de](/f24/language/de) | 2661 | 2661 | 100.0 | /mnt/stockage/packages/f24/trac-spamfilter-plugin/tracspamfilter/locale/de/LC_MESSAGES/tracspamfilter.po | 
+ | [ko](/f24/language/ko) | 2661 | 2661 | 100.0 | /mnt/stockage/packages/f24/trac-spamfilter-plugin/tracspamfilter/locale/ko/LC_MESSAGES/tracspamfilter.po | 
+ | [fr](/f24/language/fr) | 1799 | 2661 | 67.6 | /mnt/stockage/packages/f24/trac-spamfilter-plugin/tracspamfilter/locale/fr/LC_MESSAGES/tracspamfilter.po | 
 {.sortable}
 
 

@@ -18,84 +18,84 @@ The package kmahjongg (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ar/kmahjongg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ca/kmahjongg.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ca@valencia/kmahjongg.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/de/kmahjongg.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/en_GB/kmahjongg.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/eo/kmahjongg.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/es/kmahjongg.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/eu/kmahjongg.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/fi/kmahjongg.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/fr/kmahjongg.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/gl/kmahjongg.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/he/kmahjongg.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/hr/kmahjongg.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/hu/kmahjongg.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/it/kmahjongg.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ka/kmahjongg.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/lv/kmahjongg.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/nl/kmahjongg.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/nn/kmahjongg.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/pl/kmahjongg.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/pt_BR/kmahjongg.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ru/kmahjongg.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/sa/kmahjongg.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/sl/kmahjongg.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/sv/kmahjongg.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/tr/kmahjongg.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/uk/kmahjongg.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/zh_TW/kmahjongg.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 352 | 359 | 98.1 | /mnt/stockage/packages/f42/kmahjongg/po/el/kmahjongg.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 345 | 359 | 96.1 | /mnt/stockage/packages/f42/kmahjongg/po/cs/kmahjongg.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 338 | 359 | 94.2 | /mnt/stockage/packages/f42/kmahjongg/po/zh_CN/kmahjongg.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/id/kmahjongg.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/ko/kmahjongg.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/pt/kmahjongg.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/sk/kmahjongg.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 281 | 359 | 78.3 | /mnt/stockage/packages/f42/kmahjongg/po/ro/kmahjongg.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 272 | 359 | 75.8 | /mnt/stockage/packages/f42/kmahjongg/po/da/kmahjongg.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 272 | 359 | 75.8 | /mnt/stockage/packages/f42/kmahjongg/po/et/kmahjongg.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr/kmahjongg.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr@ijekavian/kmahjongg.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr@ijekavianlatin/kmahjongg.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr@latin/kmahjongg.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/bs/kmahjongg.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/kk/kmahjongg.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/km/kmahjongg.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/nb/kmahjongg.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/nds/kmahjongg.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 218 | 359 | 60.7 | /mnt/stockage/packages/f42/kmahjongg/po/ga/kmahjongg.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 217 | 359 | 60.4 | /mnt/stockage/packages/f42/kmahjongg/po/ml/kmahjongg.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 202 | 359 | 56.3 | /mnt/stockage/packages/f42/kmahjongg/po/fa/kmahjongg.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 202 | 359 | 56.3 | /mnt/stockage/packages/f42/kmahjongg/po/wa/kmahjongg.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/bg/kmahjongg.po | 
- | [csb]({{< ref "/f42/language/csb.md" >}}) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/csb/kmahjongg.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/hne/kmahjongg.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/ja/kmahjongg.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/lt/kmahjongg.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/th/kmahjongg.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 195 | 359 | 54.3 | /mnt/stockage/packages/f42/kmahjongg/po/hi/kmahjongg.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 172 | 359 | 47.9 | /mnt/stockage/packages/f42/kmahjongg/po/ne/kmahjongg.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 128 | 359 | 35.7 | /mnt/stockage/packages/f42/kmahjongg/po/bn/kmahjongg.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 128 | 359 | 35.7 | /mnt/stockage/packages/f42/kmahjongg/po/cy/kmahjongg.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 128 | 359 | 35.7 | /mnt/stockage/packages/f42/kmahjongg/po/mk/kmahjongg.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 125 | 359 | 34.8 | /mnt/stockage/packages/f42/kmahjongg/po/is/kmahjongg.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 123 | 359 | 34.3 | /mnt/stockage/packages/f42/kmahjongg/po/ta/kmahjongg.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 83 | 359 | 23.1 | /mnt/stockage/packages/f42/kmahjongg/po/br/kmahjongg.po | 
- | [xh]({{< ref "/f42/language/xh.md" >}}) | 76 | 359 | 21.2 | /mnt/stockage/packages/f42/kmahjongg/po/xh/kmahjongg.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 70 | 359 | 19.5 | /mnt/stockage/packages/f42/kmahjongg/po/ia/kmahjongg.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 64 | 359 | 17.8 | /mnt/stockage/packages/f42/kmahjongg/po/af/kmahjongg.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 36 | 359 | 10.0 | /mnt/stockage/packages/f42/kmahjongg/po/sq/kmahjongg.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 31 | 359 | 8.6 | /mnt/stockage/packages/f42/kmahjongg/po/ug/kmahjongg.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 27 | 359 | 7.5 | /mnt/stockage/packages/f42/kmahjongg/po/mr/kmahjongg.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 23 | 359 | 6.4 | /mnt/stockage/packages/f42/kmahjongg/po/mai/kmahjongg.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 18 | 359 | 5.0 | /mnt/stockage/packages/f42/kmahjongg/po/oc/kmahjongg.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 17 | 359 | 4.7 | /mnt/stockage/packages/f42/kmahjongg/po/be/kmahjongg.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 10 | 359 | 2.8 | /mnt/stockage/packages/f42/kmahjongg/po/pa/kmahjongg.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 8 | 359 | 2.2 | /mnt/stockage/packages/f42/kmahjongg/po/tg/kmahjongg.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 359 | 1.1 | /mnt/stockage/packages/f42/kmahjongg/po/ast/kmahjongg.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 0 | 359 | 0.0 | /mnt/stockage/packages/f42/kmahjongg/po/se/kmahjongg.po | 
+ | [ar](/f42/language/ar) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ar/kmahjongg.po | 
+ | [ca](/f42/language/ca) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ca/kmahjongg.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ca@valencia/kmahjongg.po | 
+ | [de](/f42/language/de) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/de/kmahjongg.po | 
+ | [en_GB](/f42/language/en_GB) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/en_GB/kmahjongg.po | 
+ | [eo](/f42/language/eo) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/eo/kmahjongg.po | 
+ | [es](/f42/language/es) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/es/kmahjongg.po | 
+ | [eu](/f42/language/eu) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/eu/kmahjongg.po | 
+ | [fi](/f42/language/fi) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/fi/kmahjongg.po | 
+ | [fr](/f42/language/fr) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/fr/kmahjongg.po | 
+ | [gl](/f42/language/gl) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/gl/kmahjongg.po | 
+ | [he](/f42/language/he) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/he/kmahjongg.po | 
+ | [hr](/f42/language/hr) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/hr/kmahjongg.po | 
+ | [hu](/f42/language/hu) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/hu/kmahjongg.po | 
+ | [it](/f42/language/it) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/it/kmahjongg.po | 
+ | [ka](/f42/language/ka) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ka/kmahjongg.po | 
+ | [lv](/f42/language/lv) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/lv/kmahjongg.po | 
+ | [nl](/f42/language/nl) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/nl/kmahjongg.po | 
+ | [nn](/f42/language/nn) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/nn/kmahjongg.po | 
+ | [pl](/f42/language/pl) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/pl/kmahjongg.po | 
+ | [pt_BR](/f42/language/pt_BR) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/pt_BR/kmahjongg.po | 
+ | [ru](/f42/language/ru) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/ru/kmahjongg.po | 
+ | [sa](/f42/language/sa) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/sa/kmahjongg.po | 
+ | [sl](/f42/language/sl) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/sl/kmahjongg.po | 
+ | [sv](/f42/language/sv) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/sv/kmahjongg.po | 
+ | [tr](/f42/language/tr) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/tr/kmahjongg.po | 
+ | [uk](/f42/language/uk) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/uk/kmahjongg.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 359 | 359 | 100.0 | /mnt/stockage/packages/f42/kmahjongg/po/zh_TW/kmahjongg.po | 
+ | [el](/f42/language/el) | 352 | 359 | 98.1 | /mnt/stockage/packages/f42/kmahjongg/po/el/kmahjongg.po | 
+ | [cs](/f42/language/cs) | 345 | 359 | 96.1 | /mnt/stockage/packages/f42/kmahjongg/po/cs/kmahjongg.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 338 | 359 | 94.2 | /mnt/stockage/packages/f42/kmahjongg/po/zh_CN/kmahjongg.po | 
+ | [id](/f42/language/id) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/id/kmahjongg.po | 
+ | [ko](/f42/language/ko) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/ko/kmahjongg.po | 
+ | [pt](/f42/language/pt) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/pt/kmahjongg.po | 
+ | [sk](/f42/language/sk) | 302 | 359 | 84.1 | /mnt/stockage/packages/f42/kmahjongg/po/sk/kmahjongg.po | 
+ | [ro](/f42/language/ro) | 281 | 359 | 78.3 | /mnt/stockage/packages/f42/kmahjongg/po/ro/kmahjongg.po | 
+ | [da](/f42/language/da) | 272 | 359 | 75.8 | /mnt/stockage/packages/f42/kmahjongg/po/da/kmahjongg.po | 
+ | [et](/f42/language/et) | 272 | 359 | 75.8 | /mnt/stockage/packages/f42/kmahjongg/po/et/kmahjongg.po | 
+ | [sr](/f42/language/sr) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr/kmahjongg.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr@ijekavian/kmahjongg.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr@ijekavianlatin/kmahjongg.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 257 | 359 | 71.6 | /mnt/stockage/packages/f42/kmahjongg/po/sr@latin/kmahjongg.po | 
+ | [bs](/f42/language/bs) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/bs/kmahjongg.po | 
+ | [kk](/f42/language/kk) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/kk/kmahjongg.po | 
+ | [km](/f42/language/km) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/km/kmahjongg.po | 
+ | [nb_NO](/f42/language/nb_NO) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/nb/kmahjongg.po | 
+ | [nds](/f42/language/nds) | 233 | 359 | 64.9 | /mnt/stockage/packages/f42/kmahjongg/po/nds/kmahjongg.po | 
+ | [ga](/f42/language/ga) | 218 | 359 | 60.7 | /mnt/stockage/packages/f42/kmahjongg/po/ga/kmahjongg.po | 
+ | [ml](/f42/language/ml) | 217 | 359 | 60.4 | /mnt/stockage/packages/f42/kmahjongg/po/ml/kmahjongg.po | 
+ | [fa](/f42/language/fa) | 202 | 359 | 56.3 | /mnt/stockage/packages/f42/kmahjongg/po/fa/kmahjongg.po | 
+ | [wa](/f42/language/wa) | 202 | 359 | 56.3 | /mnt/stockage/packages/f42/kmahjongg/po/wa/kmahjongg.po | 
+ | [bg](/f42/language/bg) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/bg/kmahjongg.po | 
+ | [csb](/f42/language/csb) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/csb/kmahjongg.po | 
+ | [hne](/f42/language/hne) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/hne/kmahjongg.po | 
+ | [ja](/f42/language/ja) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/ja/kmahjongg.po | 
+ | [lt](/f42/language/lt) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/lt/kmahjongg.po | 
+ | [th](/f42/language/th) | 199 | 359 | 55.4 | /mnt/stockage/packages/f42/kmahjongg/po/th/kmahjongg.po | 
+ | [hi](/f42/language/hi) | 195 | 359 | 54.3 | /mnt/stockage/packages/f42/kmahjongg/po/hi/kmahjongg.po | 
+ | [ne](/f42/language/ne) | 172 | 359 | 47.9 | /mnt/stockage/packages/f42/kmahjongg/po/ne/kmahjongg.po | 
+ | [bn](/f42/language/bn) | 128 | 359 | 35.7 | /mnt/stockage/packages/f42/kmahjongg/po/bn/kmahjongg.po | 
+ | [cy](/f42/language/cy) | 128 | 359 | 35.7 | /mnt/stockage/packages/f42/kmahjongg/po/cy/kmahjongg.po | 
+ | [mk](/f42/language/mk) | 128 | 359 | 35.7 | /mnt/stockage/packages/f42/kmahjongg/po/mk/kmahjongg.po | 
+ | [is](/f42/language/is) | 125 | 359 | 34.8 | /mnt/stockage/packages/f42/kmahjongg/po/is/kmahjongg.po | 
+ | [ta](/f42/language/ta) | 123 | 359 | 34.3 | /mnt/stockage/packages/f42/kmahjongg/po/ta/kmahjongg.po | 
+ | [br](/f42/language/br) | 83 | 359 | 23.1 | /mnt/stockage/packages/f42/kmahjongg/po/br/kmahjongg.po | 
+ | [xh](/f42/language/xh) | 76 | 359 | 21.2 | /mnt/stockage/packages/f42/kmahjongg/po/xh/kmahjongg.po | 
+ | [ia](/f42/language/ia) | 70 | 359 | 19.5 | /mnt/stockage/packages/f42/kmahjongg/po/ia/kmahjongg.po | 
+ | [af](/f42/language/af) | 64 | 359 | 17.8 | /mnt/stockage/packages/f42/kmahjongg/po/af/kmahjongg.po | 
+ | [sq](/f42/language/sq) | 36 | 359 | 10.0 | /mnt/stockage/packages/f42/kmahjongg/po/sq/kmahjongg.po | 
+ | [ug](/f42/language/ug) | 31 | 359 | 8.6 | /mnt/stockage/packages/f42/kmahjongg/po/ug/kmahjongg.po | 
+ | [mr](/f42/language/mr) | 27 | 359 | 7.5 | /mnt/stockage/packages/f42/kmahjongg/po/mr/kmahjongg.po | 
+ | [mai](/f42/language/mai) | 23 | 359 | 6.4 | /mnt/stockage/packages/f42/kmahjongg/po/mai/kmahjongg.po | 
+ | [oc](/f42/language/oc) | 18 | 359 | 5.0 | /mnt/stockage/packages/f42/kmahjongg/po/oc/kmahjongg.po | 
+ | [be](/f42/language/be) | 17 | 359 | 4.7 | /mnt/stockage/packages/f42/kmahjongg/po/be/kmahjongg.po | 
+ | [pa](/f42/language/pa) | 10 | 359 | 2.8 | /mnt/stockage/packages/f42/kmahjongg/po/pa/kmahjongg.po | 
+ | [tg](/f42/language/tg) | 8 | 359 | 2.2 | /mnt/stockage/packages/f42/kmahjongg/po/tg/kmahjongg.po | 
+ | [ast](/f42/language/ast) | 4 | 359 | 1.1 | /mnt/stockage/packages/f42/kmahjongg/po/ast/kmahjongg.po | 
+ | [se](/f42/language/se) | 0 | 359 | 0.0 | /mnt/stockage/packages/f42/kmahjongg/po/se/kmahjongg.po | 
 {.sortable}
 
 

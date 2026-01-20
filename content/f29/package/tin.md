@@ -18,16 +18,16 @@ The package tin (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f29/language/et.md" >}}) | 11057 | 11180 | 98.9 | /mnt/stockage/packages/f29/tin/po/et.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 11057 | 11180 | 98.9 | /mnt/stockage/packages/f29/tin/po/fr.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 11057 | 11180 | 98.9 | /mnt/stockage/packages/f29/tin/po/tr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 10820 | 11180 | 96.8 | /mnt/stockage/packages/f29/tin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 10820 | 11180 | 96.8 | /mnt/stockage/packages/f29/tin/po/zh_TW.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 9918 | 11180 | 88.7 | /mnt/stockage/packages/f29/tin/po/da.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 23989 | 34647 | 69.2 | /mnt/stockage/packages/f29/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f29/tin/po/en_GB.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 6980 | 11180 | 62.4 | /mnt/stockage/packages/f29/tin/po/ru.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 20149 | 34647 | 58.2 | /mnt/stockage/packages/f29/tin/doc/l10n/de.po/mnt/stockage/packages/f29/tin/po/de.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1047 | 11180 | 9.4 | /mnt/stockage/packages/f29/tin/po/sv.po | 
+ | [et](/f29/language/et) | 11057 | 11180 | 98.9 | /mnt/stockage/packages/f29/tin/po/et.po | 
+ | [fr](/f29/language/fr) | 11057 | 11180 | 98.9 | /mnt/stockage/packages/f29/tin/po/fr.po | 
+ | [tr](/f29/language/tr) | 11057 | 11180 | 98.9 | /mnt/stockage/packages/f29/tin/po/tr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 10820 | 11180 | 96.8 | /mnt/stockage/packages/f29/tin/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 10820 | 11180 | 96.8 | /mnt/stockage/packages/f29/tin/po/zh_TW.po | 
+ | [da](/f29/language/da) | 9918 | 11180 | 88.7 | /mnt/stockage/packages/f29/tin/po/da.po | 
+ | [en_GB](/f29/language/en_GB) | 23989 | 34647 | 69.2 | /mnt/stockage/packages/f29/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f29/tin/po/en_GB.po | 
+ | [ru](/f29/language/ru) | 6980 | 11180 | 62.4 | /mnt/stockage/packages/f29/tin/po/ru.po | 
+ | [de](/f29/language/de) | 20149 | 34647 | 58.2 | /mnt/stockage/packages/f29/tin/doc/l10n/de.po/mnt/stockage/packages/f29/tin/po/de.po | 
+ | [sv](/f29/language/sv) | 1047 | 11180 | 9.4 | /mnt/stockage/packages/f29/tin/po/sv.po | 
 {.sortable}
 
 

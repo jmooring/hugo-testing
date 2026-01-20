@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [emerald]({{< ref "/f8/package/emerald.md" >}}) | 577 | 762 | 75.7 | beryl-project <ixce@beryl-project.org> | 
- | [pgadmin3]({{< ref "/f8/package/pgadmin3.md" >}}) | 2 | 6195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [emerald](/f8/package/emerald) | 577 | 762 | 75.7 | beryl-project <ixce@beryl-project.org> | 
+ | [pgadmin3](/f8/package/pgadmin3) | 2 | 6195 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

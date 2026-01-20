@@ -18,7 +18,7 @@ The package R-data.table (version 1.13.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 16251 | 16251 | 100.0 | /mnt/stockage/packages/f31/R-data.table/po/R-zh_CN.po/mnt/stockage/packages/f31/R-data.table/po/zh_CN.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 16251 | 16251 | 100.0 | /mnt/stockage/packages/f31/R-data.table/po/R-zh_CN.po/mnt/stockage/packages/f31/R-data.table/po/zh_CN.po | 
 {.sortable}
 
 

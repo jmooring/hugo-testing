@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f41/package/python-django.md" >}}) | 3844 | 3844 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
- | [python-django4.2]({{< ref "/f41/package/python-django4.2.md" >}}) | 3844 | 3844 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
- | [python-django5]({{< ref "/f41/package/python-django5.md" >}}) | 3952 | 3952 | 100.0 | Lower Sorbian (http://app.transifex.com/django/django/language/dsb/) | 
- | [libreoffice]({{< ref "/f41/package/libreoffice.md" >}}) | 484804 | 768388 | 63.1 | Lower Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/dsb/> | 
+ | [python-django](/f41/package/python-django) | 3844 | 3844 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [python-django4.2](/f41/package/python-django4.2) | 3844 | 3844 | 100.0 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [python-django5](/f41/package/python-django5) | 3952 | 3952 | 100.0 | Lower Sorbian (http://app.transifex.com/django/django/language/dsb/) | 
+ | [libreoffice](/f41/package/libreoffice) | 484804 | 768388 | 63.1 | Lower Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/dsb/> | 
 {.sortable}
 
 

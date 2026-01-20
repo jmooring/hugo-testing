@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f26/package/pidgin.md" >}}) | 14023 | 15756 | 89.0 | Mari <muter@lists.linux-ink.ru> | 
- | [lightdm-gtk]({{< ref "/f26/package/lightdm-gtk.md" >}}) | 17 | 87 | 19.5 | Mari (Meadow) <mhr@li.org> | 
- | [slick-greeter]({{< ref "/f26/package/slick-greeter.md" >}}) | 17 | 211 | 8.1 | Mari (Meadow) <mhr@li.org> | 
- | [simple-scan]({{< ref "/f26/package/simple-scan.md" >}}) | 34 | 569 | 6.0 | Mari (Meadow) <mhr@li.org> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 18 | 969 | 1.9 | Meadow Mari <mhr@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 18 | 969 | 1.9 | Meadow Mari <mhr@li.org> | 
- | [onboard]({{< ref "/f26/package/onboard.md" >}}) | 33 | 2318 | 1.4 | Mari (Meadow) <mhr@li.org> | 
- | [deja-dup]({{< ref "/f26/package/deja-dup.md" >}}) | 11 | 2103 | 0.5 | Mari (Meadow) <mhr@li.org> | 
- | [lightdm]({{< ref "/f26/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Mari (Meadow) <mhr@li.org> | 
+ | [pidgin](/f26/package/pidgin) | 14023 | 15756 | 89.0 | Mari <muter@lists.linux-ink.ru> | 
+ | [lightdm-gtk](/f26/package/lightdm-gtk) | 17 | 87 | 19.5 | Mari (Meadow) <mhr@li.org> | 
+ | [slick-greeter](/f26/package/slick-greeter) | 17 | 211 | 8.1 | Mari (Meadow) <mhr@li.org> | 
+ | [simple-scan](/f26/package/simple-scan) | 34 | 569 | 6.0 | Mari (Meadow) <mhr@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 18 | 969 | 1.9 | Meadow Mari <mhr@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 18 | 969 | 1.9 | Meadow Mari <mhr@li.org> | 
+ | [onboard](/f26/package/onboard) | 33 | 2318 | 1.4 | Mari (Meadow) <mhr@li.org> | 
+ | [deja-dup](/f26/package/deja-dup) | 11 | 2103 | 0.5 | Mari (Meadow) <mhr@li.org> | 
+ | [lightdm](/f26/package/lightdm) | 0 | 163 | 0.0 | Mari (Meadow) <mhr@li.org> | 
 {.sortable}
 
 

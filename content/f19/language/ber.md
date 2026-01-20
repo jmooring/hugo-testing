@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [shutter]({{< ref "/f19/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [calibre]({{< ref "/f19/package/calibre.md" >}}) | 124 | 51101 | 0.2 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f19/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [calibre](/f19/package/calibre) | 124 | 51101 | 0.2 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

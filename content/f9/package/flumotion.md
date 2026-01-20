@@ -18,12 +18,12 @@ The package flumotion (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1052 | 1248 | 84.3 | /mnt/stockage/packages/f9/flumotion/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 773 | 1248 | 61.9 | /mnt/stockage/packages/f9/flumotion/po/fr.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 741 | 1248 | 59.4 | /mnt/stockage/packages/f9/flumotion/po/pt_BR.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 511 | 1248 | 40.9 | /mnt/stockage/packages/f9/flumotion/po/ca.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 511 | 1248 | 40.9 | /mnt/stockage/packages/f9/flumotion/po/es.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 498 | 1248 | 39.9 | /mnt/stockage/packages/f9/flumotion/po/no.po | 
+ | [nl](/f9/language/nl) | 1052 | 1248 | 84.3 | /mnt/stockage/packages/f9/flumotion/po/nl.po | 
+ | [fr](/f9/language/fr) | 773 | 1248 | 61.9 | /mnt/stockage/packages/f9/flumotion/po/fr.po | 
+ | [pt_BR](/f9/language/pt_BR) | 741 | 1248 | 59.4 | /mnt/stockage/packages/f9/flumotion/po/pt_BR.po | 
+ | [ca](/f9/language/ca) | 511 | 1248 | 40.9 | /mnt/stockage/packages/f9/flumotion/po/ca.po | 
+ | [es](/f9/language/es) | 511 | 1248 | 40.9 | /mnt/stockage/packages/f9/flumotion/po/es.po | 
+ | [nb_NO](/f9/language/nb_NO) | 498 | 1248 | 39.9 | /mnt/stockage/packages/f9/flumotion/po/no.po | 
 {.sortable}
 
 

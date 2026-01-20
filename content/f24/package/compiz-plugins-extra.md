@@ -18,34 +18,34 @@ The package compiz-plugins-extra (version 0.8.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 3678 | 3678 | 100.0 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/en_GB.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 3417 | 3678 | 92.9 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/it.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/el.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/hu.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ko.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/pt.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 3343 | 3678 | 90.9 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/he.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 3035 | 3678 | 82.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/pl.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 3025 | 3678 | 82.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/fr.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2994 | 3678 | 81.4 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/es.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 2941 | 3678 | 80.0 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/sv.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 2904 | 3678 | 79.0 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 2840 | 3678 | 77.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/nb.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 2789 | 3678 | 75.8 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/fi.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 2641 | 3678 | 71.8 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/nl.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 2435 | 3678 | 66.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/gu.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 2435 | 3678 | 66.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/hi.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2435 | 3678 | 66.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/pt_BR.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 2212 | 3678 | 60.1 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/eu.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2062 | 3678 | 56.1 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/de.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1484 | 3678 | 40.3 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ca.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1122 | 3678 | 30.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ru.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1115 | 3678 | 30.3 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/cs.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 971 | 3678 | 26.4 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/tr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 563 | 3678 | 15.3 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ar.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 308 | 3678 | 8.4 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/bn.po | 
+ | [en_GB](/f24/language/en_GB) | 3678 | 3678 | 100.0 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/en_GB.po | 
+ | [it](/f24/language/it) | 3417 | 3678 | 92.9 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/it.po | 
+ | [el](/f24/language/el) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/el.po | 
+ | [gl](/f24/language/gl) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/gl.po | 
+ | [hu](/f24/language/hu) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/hu.po | 
+ | [ja](/f24/language/ja) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ja.po | 
+ | [ko](/f24/language/ko) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ko.po | 
+ | [pt](/f24/language/pt) | 3403 | 3678 | 92.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/pt.po | 
+ | [he](/f24/language/he) | 3343 | 3678 | 90.9 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/he.po | 
+ | [pl](/f24/language/pl) | 3035 | 3678 | 82.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/pl.po | 
+ | [fr](/f24/language/fr) | 3025 | 3678 | 82.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/fr.po | 
+ | [es](/f24/language/es) | 2994 | 3678 | 81.4 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/es.po | 
+ | [sv](/f24/language/sv) | 2941 | 3678 | 80.0 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/sv.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 2904 | 3678 | 79.0 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/zh_CN.po | 
+ | [nb_NO](/f24/language/nb_NO) | 2840 | 3678 | 77.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/nb.po | 
+ | [fi](/f24/language/fi) | 2789 | 3678 | 75.8 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/fi.po | 
+ | [nl](/f24/language/nl) | 2641 | 3678 | 71.8 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/nl.po | 
+ | [gu](/f24/language/gu) | 2435 | 3678 | 66.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/gu.po | 
+ | [hi](/f24/language/hi) | 2435 | 3678 | 66.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/hi.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2435 | 3678 | 66.2 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/pt_BR.po | 
+ | [eu](/f24/language/eu) | 2212 | 3678 | 60.1 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/eu.po | 
+ | [de](/f24/language/de) | 2062 | 3678 | 56.1 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/de.po | 
+ | [ca](/f24/language/ca) | 1484 | 3678 | 40.3 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ca.po | 
+ | [ru](/f24/language/ru) | 1122 | 3678 | 30.5 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ru.po | 
+ | [cs](/f24/language/cs) | 1115 | 3678 | 30.3 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/cs.po | 
+ | [tr](/f24/language/tr) | 971 | 3678 | 26.4 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/tr.po | 
+ | [ar](/f24/language/ar) | 563 | 3678 | 15.3 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/ar.po | 
+ | [bn](/f24/language/bn) | 308 | 3678 | 8.4 | /mnt/stockage/packages/f24/compiz-plugins-extra/po/bn.po | 
 {.sortable}
 
 

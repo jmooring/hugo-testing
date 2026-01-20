@@ -18,16 +18,16 @@ The package trytond-project-plan (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/de_DE.po | 
- | [es_AR]({{< ref "/f21/language/es_AR.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/es_AR.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/fr_FR.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 91 | 97 | 93.8 | /mnt/stockage/packages/f21/trytond-project-plan/locale/bg_BG.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 91 | 97 | 93.8 | /mnt/stockage/packages/f21/trytond-project-plan/locale/es_ES.po | 
- | [es_CO]({{< ref "/f21/language/es_CO.md" >}}) | 91 | 97 | 93.8 | /mnt/stockage/packages/f21/trytond-project-plan/locale/es_CO.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 87 | 97 | 89.7 | /mnt/stockage/packages/f21/trytond-project-plan/locale/ca_ES.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 97 | 0.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/cs_CZ.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 0 | 97 | 0.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/nl_NL.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 97 | 0.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/ru_RU.po | 
+ | [de](/f21/language/de) | 97 | 97 | 100.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/de_DE.po | 
+ | [es_AR](/f21/language/es_AR) | 97 | 97 | 100.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/es_AR.po | 
+ | [fr](/f21/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/fr_FR.po | 
+ | [bg](/f21/language/bg) | 91 | 97 | 93.8 | /mnt/stockage/packages/f21/trytond-project-plan/locale/bg_BG.po | 
+ | [es](/f21/language/es) | 91 | 97 | 93.8 | /mnt/stockage/packages/f21/trytond-project-plan/locale/es_ES.po | 
+ | [es_CO](/f21/language/es_CO) | 91 | 97 | 93.8 | /mnt/stockage/packages/f21/trytond-project-plan/locale/es_CO.po | 
+ | [ca](/f21/language/ca) | 87 | 97 | 89.7 | /mnt/stockage/packages/f21/trytond-project-plan/locale/ca_ES.po | 
+ | [cs](/f21/language/cs) | 0 | 97 | 0.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/cs_CZ.po | 
+ | [nl](/f21/language/nl) | 0 | 97 | 0.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/nl_NL.po | 
+ | [ru](/f21/language/ru) | 0 | 97 | 0.0 | /mnt/stockage/packages/f21/trytond-project-plan/locale/ru_RU.po | 
 {.sortable}
 
 

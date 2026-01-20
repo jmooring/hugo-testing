@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f19/package/pidgin.md" >}}) | 16441 | 18441 | 89.2 | Mari <muter@lists.linux-ink.ru> | 
- | [lightdm-gtk]({{< ref "/f19/package/lightdm-gtk.md" >}}) | 20 | 57 | 35.1 | Mari (Meadow) <mhr@li.org> | 
- | [lightdm]({{< ref "/f19/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Mari (Meadow) <mhr@li.org> | 
+ | [pidgin](/f19/package/pidgin) | 16441 | 18441 | 89.2 | Mari <muter@lists.linux-ink.ru> | 
+ | [lightdm-gtk](/f19/package/lightdm-gtk) | 20 | 57 | 35.1 | Mari (Meadow) <mhr@li.org> | 
+ | [lightdm](/f19/package/lightdm) | 0 | 79 | 0.0 | Mari (Meadow) <mhr@li.org> | 
 {.sortable}
 
 

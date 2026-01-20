@@ -18,23 +18,23 @@ The package thunar-volman (version 0.3.80):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/en_GB.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/it.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/lv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/nb_NO.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/pt_BR.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/uk.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/ur.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/zh_TW.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 6 | 370 | 1.6 | /mnt/stockage/packages/f14/thunar-volman/po/gl.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f14/thunar-volman/po/ar.po | 
+ | [de](/f14/language/de) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/en_GB.po | 
+ | [eu](/f14/language/eu) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/eu.po | 
+ | [fi](/f14/language/fi) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/fi.po | 
+ | [fr](/f14/language/fr) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/fr.po | 
+ | [hu](/f14/language/hu) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/hu.po | 
+ | [id](/f14/language/id) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/id.po | 
+ | [it](/f14/language/it) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/it.po | 
+ | [lv](/f14/language/lv) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/lv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/nb_NO.po | 
+ | [pl](/f14/language/pl) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/pt_BR.po | 
+ | [uk](/f14/language/uk) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/uk.po | 
+ | [ur](/f14/language/ur) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/ur.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 370 | 370 | 100.0 | /mnt/stockage/packages/f14/thunar-volman/po/zh_TW.po | 
+ | [gl](/f14/language/gl) | 6 | 370 | 1.6 | /mnt/stockage/packages/f14/thunar-volman/po/gl.po | 
+ | [ar](/f14/language/ar) | 0 | 370 | 0.0 | /mnt/stockage/packages/f14/thunar-volman/po/ar.po | 
 {.sortable}
 
 

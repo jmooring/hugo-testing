@@ -18,24 +18,24 @@ The package gweled (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f32/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f32/gweled/po/it.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/fr.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/ms.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/nl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/pt_BR.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/sl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 135 | 156 | 86.5 | /mnt/stockage/packages/f32/gweled/po/ru.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 120 | 156 | 76.9 | /mnt/stockage/packages/f32/gweled/po/fi.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 107 | 156 | 68.6 | /mnt/stockage/packages/f32/gweled/po/ka.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 107 | 156 | 68.6 | /mnt/stockage/packages/f32/gweled/po/pl.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 107 | 156 | 68.6 | /mnt/stockage/packages/f32/gweled/po/uk.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 106 | 156 | 67.9 | /mnt/stockage/packages/f32/gweled/po/he.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 106 | 156 | 67.9 | /mnt/stockage/packages/f32/gweled/po/ja.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 76 | 156 | 48.7 | /mnt/stockage/packages/f32/gweled/po/hr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 42 | 156 | 26.9 | /mnt/stockage/packages/f32/gweled/po/tr.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 27 | 156 | 17.3 | /mnt/stockage/packages/f32/gweled/po/ar.po | 
+ | [it](/f32/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f32/gweled/po/it.po | 
+ | [de](/f32/language/de) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/de.po | 
+ | [es](/f32/language/es) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/es.po | 
+ | [fr](/f32/language/fr) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/fr.po | 
+ | [ms](/f32/language/ms) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/ms.po | 
+ | [nl](/f32/language/nl) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/nl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/pt_BR.po | 
+ | [sl](/f32/language/sl) | 151 | 156 | 96.8 | /mnt/stockage/packages/f32/gweled/po/sl.po | 
+ | [ru](/f32/language/ru) | 135 | 156 | 86.5 | /mnt/stockage/packages/f32/gweled/po/ru.po | 
+ | [fi](/f32/language/fi) | 120 | 156 | 76.9 | /mnt/stockage/packages/f32/gweled/po/fi.po | 
+ | [ka](/f32/language/ka) | 107 | 156 | 68.6 | /mnt/stockage/packages/f32/gweled/po/ka.po | 
+ | [pl](/f32/language/pl) | 107 | 156 | 68.6 | /mnt/stockage/packages/f32/gweled/po/pl.po | 
+ | [uk](/f32/language/uk) | 107 | 156 | 68.6 | /mnt/stockage/packages/f32/gweled/po/uk.po | 
+ | [he](/f32/language/he) | 106 | 156 | 67.9 | /mnt/stockage/packages/f32/gweled/po/he.po | 
+ | [ja](/f32/language/ja) | 106 | 156 | 67.9 | /mnt/stockage/packages/f32/gweled/po/ja.po | 
+ | [hr](/f32/language/hr) | 76 | 156 | 48.7 | /mnt/stockage/packages/f32/gweled/po/hr.po | 
+ | [tr](/f32/language/tr) | 42 | 156 | 26.9 | /mnt/stockage/packages/f32/gweled/po/tr.po | 
+ | [ar](/f32/language/ar) | 27 | 156 | 17.3 | /mnt/stockage/packages/f32/gweled/po/ar.po | 
 {.sortable}
 
 

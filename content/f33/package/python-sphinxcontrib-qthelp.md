@@ -18,53 +18,53 @@ The package python-sphinxcontrib-qthelp (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f33/language/id.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/id/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/zh_CN/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 7 | 33 | 21.2 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/et/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/es/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/fr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ko/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pl/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ar/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [bn]({{< ref "/f33/language/bn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/bn/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ca/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/cs/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [cy]({{< ref "/f33/language/cy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/cy/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/da/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/de/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/el/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/eo/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/eu/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/fa/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/fi/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/he/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hi_IN/LC_MESSAGES/sphinxcontrib.qthelp.po/mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hi/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hu/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/it/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ja/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/lt/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/lv/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [mk]({{< ref "/f33/language/mk.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/mk/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/nb_NO/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ne/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/nl/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pt/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pt_BR/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pt_PT/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ro/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ru/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [si]({{< ref "/f33/language/si.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/si/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sk/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sl/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sr@latin/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sv/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ta/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/tr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/uk_UA/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/vi/LC_MESSAGES/sphinxcontrib.qthelp.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/zh_TW/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [id](/f33/language/id) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/id/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/zh_CN/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [et](/f33/language/et) | 7 | 33 | 21.2 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/et/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [es](/f33/language/es) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/es/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [fr](/f33/language/fr) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/fr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ko](/f33/language/ko) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ko/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [pl](/f33/language/pl) | 3 | 33 | 9.1 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pl/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ar](/f33/language/ar) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ar/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [bn](/f33/language/bn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/bn/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ca](/f33/language/ca) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ca/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [cs](/f33/language/cs) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/cs/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [cy](/f33/language/cy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/cy/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [da](/f33/language/da) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/da/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [de](/f33/language/de) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/de/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [el](/f33/language/el) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/el/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [eo](/f33/language/eo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/eo/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [eu](/f33/language/eu) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/eu/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [fa](/f33/language/fa) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/fa/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [fi](/f33/language/fi) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/fi/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [he](/f33/language/he) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/he/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [hi](/f33/language/hi) | 0 | 66 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hi_IN/LC_MESSAGES/sphinxcontrib.qthelp.po/mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hi/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [hr](/f33/language/hr) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [hu](/f33/language/hu) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/hu/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [it](/f33/language/it) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/it/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ja](/f33/language/ja) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ja/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [lt](/f33/language/lt) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/lt/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [lv](/f33/language/lv) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/lv/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [mk](/f33/language/mk) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/mk/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [nb_NO](/f33/language/nb_NO) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/nb_NO/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ne](/f33/language/ne) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ne/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [nl](/f33/language/nl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/nl/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [pt](/f33/language/pt) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pt/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [pt_BR](/f33/language/pt_BR) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pt_BR/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [pt_PT](/f33/language/pt_PT) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/pt_PT/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ro](/f33/language/ro) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ro/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ru](/f33/language/ru) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ru/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [si](/f33/language/si) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/si/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [sk](/f33/language/sk) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sk/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [sl](/f33/language/sl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sl/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [sr](/f33/language/sr) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sr@latin/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [sv](/f33/language/sv) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/sv/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [ta](/f33/language/ta) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/ta/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [tr](/f33/language/tr) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/tr/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [uk](/f33/language/uk) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/uk_UA/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [vi](/f33/language/vi) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/vi/LC_MESSAGES/sphinxcontrib.qthelp.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 0 | 33 | 0.0 | /mnt/stockage/packages/f33/python-sphinxcontrib-qthelp/sphinxcontrib/qthelp/locales/zh_TW/LC_MESSAGES/sphinxcontrib.qthelp.po | 
 {.sortable}
 
 

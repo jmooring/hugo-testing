@@ -44,713 +44,713 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f42/package/GConf2.md" >}}) | 4024 | 4024 | 100.0 | gnome-albanian-perkthyesit@lists.sourceforge.net | 
- | [PackageKit]({{< ref "/f42/package/PackageKit.md" >}}) | 1136 | 1136 | 100.0 | Albanian (http://app.transifex.com/freedesktop/packagekit/language/sq/) | 
- | [accerciser]({{< ref "/f42/package/accerciser.md" >}}) | 535 | 535 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [alacarte]({{< ref "/f42/package/alacarte.md" >}}) | 42 | 42 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [arandr]({{< ref "/f42/package/arandr.md" >}}) | 173 | 173 | 100.0 | Albanian <https://hosted.weblate.org/projects/arandr/translations/sq/> | 
- | [at-spi2-core]({{< ref "/f42/package/at-spi2-core.md" >}}) | 497 | 497 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [atomix]({{< ref "/f42/package/atomix.md" >}}) | 146 | 146 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [bison]({{< ref "/f42/package/bison.md" >}}) | 52 | 52 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [budgie-desktop-view]({{< ref "/f42/package/budgie-desktop-view.md" >}}) | 17 | 17 | 100.0 | Albanian (https://www.transifex.com/buddiesofbudgie/teams/129844/sq/) | 
- | [budgie-screensaver]({{< ref "/f42/package/budgie-screensaver.md" >}}) | 1167 | 1167 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [budgie-session]({{< ref "/f42/package/budgie-session.md" >}}) | 811 | 811 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [catfish]({{< ref "/f42/package/catfish.md" >}}) | 560 | 560 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [cheese]({{< ref "/f42/package/cheese.md" >}}) | 527 | 527 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [cosmic-store]({{< ref "/f42/package/cosmic-store.md" >}}) | 1136 | 1136 | 100.0 | Albanian (http://app.transifex.com/freedesktop/packagekit/language/sq/) | 
- | [cracklib]({{< ref "/f42/package/cracklib.md" >}}) | 90 | 90 | 100.0 | Albanian | 
- | [darktable]({{< ref "/f42/package/darktable.md" >}}) | 31521 | 31521 | 100.0 | Albanian | 
- | [debconf]({{< ref "/f42/package/debconf.md" >}}) | 191 | 191 | 100.0 | Debian L10n Albanian <debian-l10n-albanian@lists.debian.org> | 
- | [deepin-pw-check]({{< ref "/f42/package/deepin-pw-check.md" >}}) | 84 | 84 | 100.0 | Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/) | 
- | [devhelp]({{< ref "/f42/package/devhelp.md" >}}) | 456 | 456 | 100.0 | gnome-albanian-perkthyesit@lists.sourceforge.net | 
- | [dialog]({{< ref "/f42/package/dialog.md" >}}) | 37 | 37 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [dino]({{< ref "/f42/package/dino.md" >}}) | 1151 | 1151 | 100.0 | none | 
- | [dnfdragora]({{< ref "/f42/package/dnfdragora.md" >}}) | 1771 | 1771 | 100.0 | Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/) | 
- | [eog]({{< ref "/f42/package/eog.md" >}}) | 1223 | 1223 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [eog-plugins]({{< ref "/f42/package/eog-plugins.md" >}}) | 10 | 10 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [epiphany]({{< ref "/f42/package/epiphany.md" >}}) | 3011 | 3011 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [evince]({{< ref "/f42/package/evince.md" >}}) | 1048 | 1048 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [evolution-data-server]({{< ref "/f42/package/evolution-data-server.md" >}}) | 5021 | 5021 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [file-roller]({{< ref "/f42/package/file-roller.md" >}}) | 1205 | 1205 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gconf-editor]({{< ref "/f42/package/gconf-editor.md" >}}) | 335 | 335 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gedit]({{< ref "/f42/package/gedit.md" >}}) | 4942 | 4942 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gettext]({{< ref "/f42/package/gettext.md" >}}) | 456 | 456 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [gigolo]({{< ref "/f42/package/gigolo.md" >}}) | 542 | 542 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [glade]({{< ref "/f42/package/glade.md" >}}) | 3207 | 3207 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-applets]({{< ref "/f42/package/gnome-applets.md" >}}) | 3020 | 3020 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-calculator]({{< ref "/f42/package/gnome-calculator.md" >}}) | 1128 | 1128 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-desktop3]({{< ref "/f42/package/gnome-desktop3.md" >}}) | 285 | 285 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-doc-utils]({{< ref "/f42/package/gnome-doc-utils.md" >}}) | 238 | 238 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-icon-theme]({{< ref "/f42/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-menus]({{< ref "/f42/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-mime-data]({{< ref "/f42/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-nettool]({{< ref "/f42/package/gnome-nettool.md" >}}) | 573 | 573 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-session]({{< ref "/f42/package/gnome-session.md" >}}) | 811 | 811 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-shell-frippery]({{< ref "/f42/package/gnome-shell-frippery.md" >}}) | 19 | 19 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-system-monitor]({{< ref "/f42/package/gnome-system-monitor.md" >}}) | 645 | 645 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-terminal]({{< ref "/f42/package/gnome-terminal.md" >}}) | 4664 | 4664 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-user-share]({{< ref "/f42/package/gnome-user-share.md" >}}) | 61 | 61 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-vfs2]({{< ref "/f42/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [godot]({{< ref "/f42/package/godot.md" >}}) | 42 | 42 | 100.0 | Albanian <https://hosted.weblate.org/projects/godot-engine/godot/sq/> | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f42/package/gstreamer1-plugins-ugly-free.md" >}}) | 80 | 80 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [gtk2-engines]({{< ref "/f42/package/gtk2-engines.md" >}}) | 99 | 99 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gtksourceview2]({{< ref "/f42/package/gtksourceview2.md" >}}) | 821 | 821 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gtksourceview4]({{< ref "/f42/package/gtksourceview4.md" >}}) | 821 | 821 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gtksourceview5]({{< ref "/f42/package/gtksourceview5.md" >}}) | 821 | 821 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gtkspell]({{< ref "/f42/package/gtkspell.md" >}}) | 15 | 15 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [gtkspell3]({{< ref "/f42/package/gtkspell3.md" >}}) | 16 | 16 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [gtranslator]({{< ref "/f42/package/gtranslator.md" >}}) | 1432 | 1432 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gucharmap]({{< ref "/f42/package/gucharmap.md" >}}) | 782 | 782 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gvfs]({{< ref "/f42/package/gvfs.md" >}}) | 1245 | 1245 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [isomaster]({{< ref "/f42/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [kf5-kcontacts]({{< ref "/f42/package/kf5-kcontacts.md" >}}) | 177 | 177 | 100.0 | kdeshqip | 
- | [kf5-kdoctools]({{< ref "/f42/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Albanian <sq@li.org> | 
- | [kf5-kitemviews]({{< ref "/f42/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | sq | 
- | [kf5-kontactinterface]({{< ref "/f42/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | kdeshqip | 
- | [kf5-kwindowsystem]({{< ref "/f42/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | kdeshqip | 
- | [kf5-kxmlrpcclient]({{< ref "/f42/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Albanian <sq@li.org> | 
- | [kf5-purpose]({{< ref "/f42/package/kf5-purpose.md" >}}) | 19 | 19 | 100.0 | sq | 
- | [kf6-kdoctools]({{< ref "/f42/package/kf6-kdoctools.md" >}}) | 8 | 8 | 100.0 | Albanian <sq@li.org> | 
- | [kf6-knotifyconfig]({{< ref "/f42/package/kf6-knotifyconfig.md" >}}) | 19 | 19 | 100.0 | Albanian <sq@li.org> | 
- | [kf6-kwindowsystem]({{< ref "/f42/package/kf6-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | kdeshqip | 
- | [kf6-kxmlgui]({{< ref "/f42/package/kf6-kxmlgui.md" >}}) | 1289 | 1289 | 100.0 | sq | 
- | [kf6-purpose]({{< ref "/f42/package/kf6-purpose.md" >}}) | 19 | 19 | 100.0 | sq | 
- | [kgamma]({{< ref "/f42/package/kgamma.md" >}}) | 38 | 38 | 100.0 | Albanian <sq@li.org> | 
- | [kontactinterface]({{< ref "/f42/package/kontactinterface.md" >}}) | 4 | 4 | 100.0 | kdeshqip | 
- | [ktouch]({{< ref "/f42/package/ktouch.md" >}}) | 964 | 964 | 100.0 | Albanian kde-i18n-sq@kde.org | 
- | [leafpad]({{< ref "/f42/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [libbonobo]({{< ref "/f42/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libbonoboui]({{< ref "/f42/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libbytesize]({{< ref "/f42/package/libbytesize.md" >}}) | 17 | 17 | 100.0 | Albanian | 
- | [libgdl]({{< ref "/f42/package/libgdl.md" >}}) | 604 | 604 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgnome]({{< ref "/f42/package/libgnome.md" >}}) | 1757 | 1757 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgnomecanvas]({{< ref "/f42/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgnomekbd]({{< ref "/f42/package/libgnomekbd.md" >}}) | 235 | 235 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgnomeui]({{< ref "/f42/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgtop2]({{< ref "/f42/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgweather]({{< ref "/f42/package/libgweather.md" >}}) | 7284 | 7284 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libkcompactdisc]({{< ref "/f42/package/libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Albanian <sq@li.org> | 
- | [libwnck]({{< ref "/f42/package/libwnck.md" >}}) | 88 | 88 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libwnck3]({{< ref "/f42/package/libwnck3.md" >}}) | 88 | 88 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libxfce4ui]({{< ref "/f42/package/libxfce4ui.md" >}}) | 1017 | 1017 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [libxfce4util]({{< ref "/f42/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Albanian (http://www.transifex.com/xfce/libxfce4util/language/sq/) | 
- | [libxfce4windowing]({{< ref "/f42/package/libxfce4windowing.md" >}}) | 63 | 63 | 100.0 | Albanian (https://www.transifex.com/xfce/teams/16840/sq/) | 
- | [manafirewall]({{< ref "/f42/package/manafirewall.md" >}}) | 1185 | 1185 | 100.0 | Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/) | 
- | [mate-backgrounds]({{< ref "/f42/package/mate-backgrounds.md" >}}) | 55 | 55 | 100.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [mate-icon-theme]({{< ref "/f42/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [mate-polkit]({{< ref "/f42/package/mate-polkit.md" >}}) | 123 | 123 | 100.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [mingw-GConf2]({{< ref "/f42/package/mingw-GConf2.md" >}}) | 4024 | 4024 | 100.0 | gnome-albanian-perkthyesit@lists.sourceforge.net | 
- | [mingw-atk]({{< ref "/f42/package/mingw-atk.md" >}}) | 375 | 375 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-gettext]({{< ref "/f42/package/mingw-gettext.md" >}}) | 456 | 456 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [mousetweaks]({{< ref "/f42/package/mousetweaks.md" >}}) | 426 | 426 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [nautilus]({{< ref "/f42/package/nautilus.md" >}}) | 8379 | 8379 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [newt]({{< ref "/f42/package/newt.md" >}}) | 4 | 4 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [papers]({{< ref "/f42/package/papers.md" >}}) | 1048 | 1048 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [poedit]({{< ref "/f42/package/poedit.md" >}}) | 3331 | 3331 | 100.0 | Albanian | 
- | [python-caja]({{< ref "/f42/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Albanian (https://www.transifex.com/mate/teams/13566/sq/) | 
- | [python-django-contrib-comments]({{< ref "/f42/package/python-django-contrib-comments.md" >}}) | 250 | 250 | 100.0 | Albanian (http://www.transifex.com/django/django-contrib-comments/language/sq/) | 
- | [python-django-formtools]({{< ref "/f42/package/python-django-formtools.md" >}}) | 32 | 32 | 100.0 | Albanian (http://www.transifex.com/projects/p/django-formtools/language/sq/) | 
- | [python-django-mailman3]({{< ref "/f42/package/python-django-mailman3.md" >}}) | 467 | 467 | 100.0 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/sq/> | 
- | [python-manatools]({{< ref "/f42/package/python-manatools.md" >}}) | 4 | 4 | 100.0 | Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/) | 
- | [python-meh]({{< ref "/f42/package/python-meh.md" >}}) | 109 | 109 | 100.0 | Albanian | 
- | [python-sphinxcontrib-htmlhelp]({{< ref "/f42/package/python-sphinxcontrib-htmlhelp.md" >}}) | 25 | 25 | 100.0 | Albanian (https://www.transifex.com/sphinx-doc/teams/36659/sq/) | 
- | [python-sphinxcontrib-serializinghtml]({{< ref "/f42/package/python-sphinxcontrib-serializinghtml.md" >}}) | 18 | 18 | 100.0 | Albanian (https://www.transifex.com/sphinx-doc/teams/36659/sq/) | 
- | [rapid-photo-downloader]({{< ref "/f42/package/rapid-photo-downloader.md" >}}) | 8086 | 8086 | 100.0 | Albanian <sq@li.org> | 
- | [sound-juicer]({{< ref "/f42/package/sound-juicer.md" >}}) | 852 | 852 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [startdde]({{< ref "/f42/package/startdde.md" >}}) | 24 | 24 | 100.0 | Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/) | 
- | [sugar-abacus]({{< ref "/f42/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f42/package/sugar-browse.md" >}}) | 334 | 334 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f42/package/sugar-deducto.md" >}}) | 107 | 107 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f42/package/sugar-distance.md" >}}) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f42/package/sugar-finance.md" >}}) | 258 | 258 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f42/package/sugar-imageviewer.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f42/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f42/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f42/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f42/package/sugar-memorize.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f42/package/sugar-physics.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f42/package/sugar-pippy.md" >}}) | 282 | 282 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f42/package/sugar-read.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f42/package/sugar-record.md" >}}) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f42/package/sugar-speak.md" >}}) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f42/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f42/package/sugar-terminal.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f42/package/sugar-toolkit-gtk3.md" >}}) | 213 | 213 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f42/package/sugar-view-slides.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f42/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [svgpart]({{< ref "/f42/package/svgpart.md" >}}) | 3 | 3 | 100.0 | Albanian <sq@li.org> | 
- | [thunar-archive-plugin]({{< ref "/f42/package/thunar-archive-plugin.md" >}}) | 88 | 88 | 100.0 | Albanian (http://app.transifex.com/xfce/thunar-plugins/language/sq/) | 
- | [thunar-media-tags-plugin]({{< ref "/f42/package/thunar-media-tags-plugin.md" >}}) | 158 | 158 | 100.0 | Albanian (http://www.transifex.com/xfce/thunar-plugins/language/sq/) | 
- | [thunar-volman]({{< ref "/f42/package/thunar-volman.md" >}}) | 484 | 484 | 100.0 | Albanian (http://www.transifex.com/xfce/thunar-volman/language/sq/) | 
- | [tumbler]({{< ref "/f42/package/tumbler.md" >}}) | 148 | 148 | 100.0 | Albanian (http://app.transifex.com/xfce/tumbler/language/sq/) | 
- | [vinagre]({{< ref "/f42/package/vinagre.md" >}}) | 730 | 730 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [vte]({{< ref "/f42/package/vte.md" >}}) | 116 | 116 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [vte291]({{< ref "/f42/package/vte291.md" >}}) | 116 | 116 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [xdg-user-dirs-gtk]({{< ref "/f42/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [xfce4-appfinder]({{< ref "/f42/package/xfce4-appfinder.md" >}}) | 504 | 504 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce4-appfinder/language/sq/) | 
- | [xfce4-battery-plugin]({{< ref "/f42/package/xfce4-battery-plugin.md" >}}) | 145 | 145 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-clipman-plugin]({{< ref "/f42/package/xfce4-clipman-plugin.md" >}}) | 550 | 550 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f42/package/xfce4-cpufreq-plugin.md" >}}) | 171 | 171 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-dict]({{< ref "/f42/package/xfce4-dict.md" >}}) | 531 | 531 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f42/package/xfce4-diskperf-plugin.md" >}}) | 176 | 176 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-eyes-plugin]({{< ref "/f42/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f42/package/xfce4-fsguard-plugin.md" >}}) | 72 | 72 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-genmon-plugin]({{< ref "/f42/package/xfce4-genmon-plugin.md" >}}) | 104 | 104 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-mailwatch-plugin]({{< ref "/f42/package/xfce4-mailwatch-plugin.md" >}}) | 667 | 667 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-mount-plugin]({{< ref "/f42/package/xfce4-mount-plugin.md" >}}) | 381 | 381 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-netload-plugin]({{< ref "/f42/package/xfce4-netload-plugin.md" >}}) | 106 | 106 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-notes-plugin]({{< ref "/f42/package/xfce4-notes-plugin.md" >}}) | 154 | 154 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-panel-profiles]({{< ref "/f42/package/xfce4-panel-profiles.md" >}}) | 145 | 145 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [xfce4-places-plugin]({{< ref "/f42/package/xfce4-places-plugin.md" >}}) | 164 | 164 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-power-manager]({{< ref "/f42/package/xfce4-power-manager.md" >}}) | 976 | 976 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce4-power-manager/language/sq/) | 
- | [xfce4-screensaver]({{< ref "/f42/package/xfce4-screensaver.md" >}}) | 680 | 680 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [xfce4-sensors-plugin]({{< ref "/f42/package/xfce4-sensors-plugin.md" >}}) | 430 | 430 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f42/package/xfce4-smartbookmark-plugin.md" >}}) | 23 | 23 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-statusnotifier-plugin]({{< ref "/f42/package/xfce4-statusnotifier-plugin.md" >}}) | 129 | 129 | 100.0 | Albanian (https://www.transifex.com/xfce/teams/16840/sq/) | 
- | [xfce4-systemload-plugin]({{< ref "/f42/package/xfce4-systemload-plugin.md" >}}) | 102 | 102 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-time-out-plugin]({{< ref "/f42/package/xfce4-time-out-plugin.md" >}}) | 115 | 115 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-timer-plugin]({{< ref "/f42/package/xfce4-timer-plugin.md" >}}) | 138 | 138 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-verve-plugin]({{< ref "/f42/package/xfce4-verve-plugin.md" >}}) | 88 | 88 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f42/package/xfce4-wavelan-plugin.md" >}}) | 81 | 81 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfce4-xkb-plugin]({{< ref "/f42/package/xfce4-xkb-plugin.md" >}}) | 119 | 119 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [xfconf]({{< ref "/f42/package/xfconf.md" >}}) | 458 | 458 | 100.0 | Albanian (http://app.transifex.com/xfce/xfconf/language/sq/) | 
- | [xfdashboard]({{< ref "/f42/package/xfdashboard.md" >}}) | 1106 | 1106 | 100.0 | Albanian (https://www.transifex.com/xfce/teams/16840/sq/) | 
- | [xfmpc]({{< ref "/f42/package/xfmpc.md" >}}) | 175 | 175 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfwm4]({{< ref "/f42/package/xfwm4.md" >}}) | 670 | 670 | 100.0 | Albanian (http://app.transifex.com/xfce/xfwm4/language/sq/) | 
- | [yelp]({{< ref "/f42/package/yelp.md" >}}) | 1035 | 1035 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [yelp-xsl]({{< ref "/f42/package/yelp-xsl.md" >}}) | 238 | 238 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [zenity]({{< ref "/f42/package/zenity.md" >}}) | 582 | 582 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [orage]({{< ref "/f42/package/orage.md" >}}) | 2314 | 2315 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [abiword]({{< ref "/f42/package/abiword.md" >}}) | 5542 | 5545 | 99.9 | sq | 
- | [python-postorius]({{< ref "/f42/package/python-postorius.md" >}}) | 5162 | 5165 | 99.9 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/postorius/sq/> | 
- | [Thunar]({{< ref "/f42/package/Thunar.md" >}}) | 5842 | 5847 | 99.9 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [python-hyperkitty]({{< ref "/f42/package/python-hyperkitty.md" >}}) | 936 | 937 | 99.9 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/sq/> | 
- | [mousepad]({{< ref "/f42/package/mousepad.md" >}}) | 1700 | 1702 | 99.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [hexchat]({{< ref "/f42/package/hexchat.md" >}}) | 5963 | 5971 | 99.9 | Albanian (http://www.transifex.com/hexchat/hexchat/language/sq/) | 
- | [xfce4-panel]({{< ref "/f42/package/xfce4-panel.md" >}}) | 2042 | 2045 | 99.9 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [asunder]({{< ref "/f42/package/asunder.md" >}}) | 492 | 493 | 99.8 | <LL@li.org> | 
- | [xfdesktop]({{< ref "/f42/package/xfdesktop.md" >}}) | 1212 | 1215 | 99.8 | Albanian (http://app.transifex.com/xfce/xfdesktop/language/sq/) | 
- | [pidgin]({{< ref "/f42/package/pidgin.md" >}}) | 13933 | 13994 | 99.6 | Albanian (http://app.transifex.com/pidgin/pidgin/language/sq/) | 
- | [sugar]({{< ref "/f42/package/sugar.md" >}}) | 2294 | 2305 | 99.5 | LANGUAGE <LL@li.org> | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f42/package/xfce4-pulseaudio-plugin.md" >}}) | 194 | 195 | 99.5 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [exo]({{< ref "/f42/package/exo.md" >}}) | 749 | 753 | 99.5 | Albanian (http://app.transifex.com/xfce/exo/language/sq/) | 
- | [fetchmail]({{< ref "/f42/package/fetchmail.md" >}}) | 5136 | 5166 | 99.4 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [xfburn]({{< ref "/f42/package/xfburn.md" >}}) | 1556 | 1566 | 99.4 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfce4-docklike-plugin]({{< ref "/f42/package/xfce4-docklike-plugin.md" >}}) | 152 | 153 | 99.3 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [xfce4-screenshooter]({{< ref "/f42/package/xfce4-screenshooter.md" >}}) | 569 | 573 | 99.3 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfce4-settings]({{< ref "/f42/package/xfce4-settings.md" >}}) | 2624 | 2644 | 99.2 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [python-django4.2]({{< ref "/f42/package/python-django4.2.md" >}}) | 3849 | 3881 | 99.2 | Albanian (http://www.transifex.com/django/django/language/sq/) | 
- | [claws-mail]({{< ref "/f42/package/claws-mail.md" >}}) | 20742 | 20932 | 99.1 |  | 
- | [xfce4-mpc-plugin]({{< ref "/f42/package/xfce4-mpc-plugin.md" >}}) | 100 | 101 | 99.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [calamares]({{< ref "/f42/package/calamares.md" >}}) | 473 | 478 | 99.0 | Albanian (https://app.transifex.com/calamares/teams/20061/sq/) | 
- | [parole]({{< ref "/f42/package/parole.md" >}}) | 802 | 811 | 98.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfce4-session]({{< ref "/f42/package/xfce4-session.md" >}}) | 775 | 784 | 98.9 | Albanian (http://app.transifex.com/xfce/xfce4-session/language/sq/) | 
- | [liferea]({{< ref "/f42/package/liferea.md" >}}) | 2041 | 2066 | 98.8 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [thonny]({{< ref "/f42/package/thonny.md" >}}) | 1885 | 1910 | 98.7 |  | 
- | [sugar-flipsticks]({{< ref "/f42/package/sugar-flipsticks.md" >}}) | 149 | 151 | 98.7 | LANGUAGE <LL@li.org> | 
- | [nano]({{< ref "/f42/package/nano.md" >}}) | 3507 | 3555 | 98.6 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [xfce4-notifyd]({{< ref "/f42/package/xfce4-notifyd.md" >}}) | 576 | 584 | 98.6 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfce4-weather-plugin]({{< ref "/f42/package/xfce4-weather-plugin.md" >}}) | 3548 | 3598 | 98.6 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [deepin-daemon]({{< ref "/f42/package/deepin-daemon.md" >}}) | 1213 | 1235 | 98.2 | Albanian (https://app.transifex.com/linuxdeepin/teams/3617/sq/) | 
- | [python-wxpython4]({{< ref "/f42/package/python-wxpython4.md" >}}) | 7692 | 7837 | 98.1 | <wx-translators@wxwidgets.org> | 
- | [wxGTK]({{< ref "/f42/package/wxGTK.md" >}}) | 7692 | 7837 | 98.1 | <wx-translators@wxwidgets.org> | 
- | [ristretto]({{< ref "/f42/package/ristretto.md" >}}) | 651 | 665 | 97.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [sugar-dimensions]({{< ref "/f42/package/sugar-dimensions.md" >}}) | 172 | 176 | 97.7 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f42/package/slick-greeter.md" >}}) | 211 | 216 | 97.7 | Albanian <sq@li.org> | 
- | [kf6-kcontacts]({{< ref "/f42/package/kf6-kcontacts.md" >}}) | 168 | 172 | 97.7 | kdeshqip | 
- | [python-django5]({{< ref "/f42/package/python-django5.md" >}}) | 3821 | 3915 | 97.6 | Albanian (http://app.transifex.com/django/django/language/sq/) | 
- | [gcompris-qt]({{< ref "/f42/package/gcompris-qt.md" >}}) | 35951 | 36856 | 97.5 | Albanian <kde-i18n-doc@kde.org> | 
- | [xfce4-calculator-plugin]({{< ref "/f42/package/xfce4-calculator-plugin.md" >}}) | 38 | 39 | 97.4 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
- | [gnome-abrt]({{< ref "/f42/package/gnome-abrt.md" >}}) | 215 | 221 | 97.3 | Albanian | 
- | [xkeyboard-config]({{< ref "/f42/package/xkeyboard-config.md" >}}) | 4126 | 4253 | 97.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [xfce4-terminal]({{< ref "/f42/package/xfce4-terminal.md" >}}) | 1611 | 1663 | 96.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [xfce4-datetime-plugin]({{< ref "/f42/package/xfce4-datetime-plugin.md" >}}) | 50 | 52 | 96.2 | Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [python-sphinx]({{< ref "/f42/package/python-sphinx.md" >}}) | 5421 | 5669 | 95.6 | Albanian (http://app.transifex.com/sphinx-doc/sphinx-1/language/sq/) | 
- | [kf5-knotifications]({{< ref "/f42/package/kf5-knotifications.md" >}}) | 20 | 21 | 95.2 | kdeshqip | 
- | [xfce4-cpugraph-plugin]({{< ref "/f42/package/xfce4-cpugraph-plugin.md" >}}) | 179 | 188 | 95.2 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
- | [prusa-slicer]({{< ref "/f42/package/prusa-slicer.md" >}}) | 7148 | 7508 | 95.2 | <wx-translators@wxwidgets.org> | 
- | [mate-menus]({{< ref "/f42/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kf6-kio]({{< ref "/f42/package/kf6-kio.md" >}}) | 8140 | 8607 | 94.6 | sq | 
- | [xfce4-taskmanager]({{< ref "/f42/package/xfce4-taskmanager.md" >}}) | 228 | 242 | 94.2 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
- | [sugar-yupana]({{< ref "/f42/package/sugar-yupana.md" >}}) | 28 | 30 | 93.3 | LANGUAGE <LL@li.org> | 
- | [magpie]({{< ref "/f42/package/magpie.md" >}}) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [metacity]({{< ref "/f42/package/metacity.md" >}}) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [muffin]({{< ref "/f42/package/muffin.md" >}}) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mutter]({{< ref "/f42/package/mutter.md" >}}) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [plasma5support]({{< ref "/f42/package/plasma5support.md" >}}) | 2603 | 2800 | 93.0 | Albanian <sq@li.org> | 
- | [xdg-user-dirs]({{< ref "/f42/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [kturtle]({{< ref "/f42/package/kturtle.md" >}}) | 1426 | 1538 | 92.7 | Albanian <sq@li.org> | 
- | [system-config-language]({{< ref "/f42/package/system-config-language.md" >}}) | 197 | 215 | 91.6 | Albanian | 
- | [python-nikola]({{< ref "/f42/package/python-nikola.md" >}}) | 86 | 94 | 91.5 | Albanian (http://www.transifex.com/ralsina/nikola/language/sq/) | 
- | [console-setup]({{< ref "/f42/package/console-setup.md" >}}) | 906 | 992 | 91.3 | Albanian <debian-l10n-albanian@lists.debian.org> | 
- | [gtk2]({{< ref "/f42/package/gtk2.md" >}}) | 12509 | 13704 | 91.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-gtk2]({{< ref "/f42/package/mingw-gtk2.md" >}}) | 12509 | 13704 | 91.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [lightdm-settings]({{< ref "/f42/package/lightdm-settings.md" >}}) | 324 | 355 | 91.3 | Albanian <sq@li.org> | 
- | [blinken]({{< ref "/f42/package/blinken.md" >}}) | 121 | 134 | 90.3 | Albanian <sq@li.org> | 
- | [audacious]({{< ref "/f42/package/audacious.md" >}}) | 822 | 911 | 90.2 | Albanian (http://app.transifex.com/audacious/audacious/language/sq/) | 
- | [garcon]({{< ref "/f42/package/garcon.md" >}}) | 125 | 139 | 89.9 | Albanian (http://app.transifex.com/xfce/garcon/language/sq/) | 
- | [abrt]({{< ref "/f42/package/abrt.md" >}}) | 3304 | 3676 | 89.9 | Albanian | 
- | [gdk-pixbuf2]({{< ref "/f42/package/gdk-pixbuf2.md" >}}) | 1208 | 1348 | 89.6 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gdk-pixbuf2-modules-extra]({{< ref "/f42/package/gdk-pixbuf2-modules-extra.md" >}}) | 1208 | 1348 | 89.6 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-gdk-pixbuf]({{< ref "/f42/package/mingw-gdk-pixbuf.md" >}}) | 1208 | 1348 | 89.6 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [sugar-clock]({{< ref "/f42/package/sugar-clock.md" >}}) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
- | [gimagereader]({{< ref "/f42/package/gimagereader.md" >}}) | 1621 | 1817 | 89.2 | Albanian <https://hosted.weblate.org/projects/gimagereader/translations/sq/> | 
- | [mozo]({{< ref "/f42/package/mozo.md" >}}) | 41 | 46 | 89.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 4749 | 5355 | 88.7 | none | 
- | [kf6-kparts]({{< ref "/f42/package/kf6-kparts.md" >}}) | 50 | 57 | 87.7 | sq | 
- | [sugar-chat]({{< ref "/f42/package/sugar-chat.md" >}}) | 120 | 137 | 87.6 | LANGUAGE <LL@li.org> | 
- | [gtk3]({{< ref "/f42/package/gtk3.md" >}}) | 10285 | 11853 | 86.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-gtk3]({{< ref "/f42/package/mingw-gtk3.md" >}}) | 10285 | 11853 | 86.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gtk4]({{< ref "/f42/package/gtk4.md" >}}) | 2102 | 2432 | 86.4 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-gtk4]({{< ref "/f42/package/mingw-gtk4.md" >}}) | 2102 | 2432 | 86.4 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [simple-scan]({{< ref "/f42/package/simple-scan.md" >}}) | 506 | 589 | 85.9 | Albanian <sq@li.org> | 
- | [ghemical]({{< ref "/f42/package/ghemical.md" >}}) | 1864 | 2178 | 85.6 | Albanian <FOSS-in-EDU@googlegroups.com> | 
- | [kgeography]({{< ref "/f42/package/kgeography.md" >}}) | 8558 | 10043 | 85.2 | sq | 
- | [kapman]({{< ref "/f42/package/kapman.md" >}}) | 97 | 115 | 84.3 | Albanian <sq@li.org> | 
- | [libghemical]({{< ref "/f42/package/libghemical.md" >}}) | 752 | 892 | 84.3 | Albanian <FOSS-in-EDU@googlegroups.com> | 
- | [aspell]({{< ref "/f42/package/aspell.md" >}}) | 1508 | 1798 | 83.9 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [mate-themes]({{< ref "/f42/package/mate-themes.md" >}}) | 62 | 74 | 83.8 | Albanian (http://app.transifex.com/mate/MATE/language/sq/) | 
- | [audiocd-kio]({{< ref "/f42/package/audiocd-kio.md" >}}) | 629 | 756 | 83.2 | Albanian <sq@li.org> | 
- | [gnome-panel]({{< ref "/f42/package/gnome-panel.md" >}}) | 2868 | 3520 | 81.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-control-center]({{< ref "/f42/package/gnome-control-center.md" >}}) | 3331 | 4093 | 81.4 | Albanian <besnik@programeshqip.org> | 
- | [chkconfig]({{< ref "/f42/package/chkconfig.md" >}}) | 472 | 597 | 79.1 | Albanian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/sq/> | 
- | [crow-translate]({{< ref "/f42/package/crow-translate.md" >}}) | 1244 | 1574 | 79.0 |  | 
- | [gretl]({{< ref "/f42/package/gretl.md" >}}) | 16372 | 20732 | 79.0 | albanian <artur.bala.al@gmail.com> | 
- | [mingw-wxWidgets]({{< ref "/f42/package/mingw-wxWidgets.md" >}}) | 5025 | 6391 | 78.6 | <wx-translators@wxwidgets.org> | 
- | [folder-color-switcher]({{< ref "/f42/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Albanian <sq@li.org> | 
- | [kcharselect]({{< ref "/f42/package/kcharselect.md" >}}) | 72 | 92 | 78.3 | Albanian <sq@li.org> | 
- | [kf5-ktextwidgets]({{< ref "/f42/package/kf5-ktextwidgets.md" >}}) | 365 | 473 | 77.2 | Albanian <sq@li.org> | 
- | [kf6-kcoreaddons]({{< ref "/f42/package/kf6-kcoreaddons.md" >}}) | 373 | 485 | 76.9 | Albanian <kde-i18n-sq@kde.org> | 
- | [evolution]({{< ref "/f42/package/evolution.md" >}}) | 16669 | 21855 | 76.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf6-ktextwidgets]({{< ref "/f42/package/kf6-ktextwidgets.md" >}}) | 358 | 473 | 75.7 | Albanian <sq@li.org> | 
- | [shared-mime-info]({{< ref "/f42/package/shared-mime-info.md" >}}) | 1696 | 2266 | 74.8 | Albanian (http://app.transifex.com/freedesktop/shared-mime-info/language/sq/) | 
- | [marco]({{< ref "/f42/package/marco.md" >}}) | 3093 | 4171 | 74.2 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kf5-kiconthemes]({{< ref "/f42/package/kf5-kiconthemes.md" >}}) | 29 | 41 | 70.7 | sq | 
- | [xed]({{< ref "/f42/package/xed.md" >}}) | 2645 | 3775 | 70.1 | Albanian (http://www.transifex.com/projects/p/MATE/language/sq/) | 
- | [meld]({{< ref "/f42/package/meld.md" >}}) | 673 | 974 | 69.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf5-kinit]({{< ref "/f42/package/kf5-kinit.md" >}}) | 78 | 116 | 67.2 | Albanian <sq@li.org> | 
- | [kf6-kholidays]({{< ref "/f42/package/kf6-kholidays.md" >}}) | 98 | 150 | 65.3 | sq | 
- | [gedit-plugins]({{< ref "/f42/package/gedit-plugins.md" >}}) | 786 | 1205 | 65.2 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kdf]({{< ref "/f42/package/kdf.md" >}}) | 115 | 177 | 65.0 | Albanian <sq@li.org> | 
- | [caja]({{< ref "/f42/package/caja.md" >}}) | 6486 | 10156 | 63.9 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [sugar-calculator]({{< ref "/f42/package/sugar-calculator.md" >}}) | 550 | 866 | 63.5 | LANGUAGE <LL@li.org> | 
- | [libkcddb]({{< ref "/f42/package/libkcddb.md" >}}) | 236 | 374 | 63.1 | Albanian <sq@li.org> | 
- | [kbounce]({{< ref "/f42/package/kbounce.md" >}}) | 98 | 156 | 62.8 | Albanian <sq@li.org> | 
- | [kf5-khtml]({{< ref "/f42/package/kf5-khtml.md" >}}) | 1017 | 1667 | 61.0 | Albanian <sq@li.org> | 
- | [khangman]({{< ref "/f42/package/khangman.md" >}}) | 272 | 450 | 60.4 | Albanian <sq@li.org> | 
- | [deja-dup]({{< ref "/f42/package/deja-dup.md" >}}) | 978 | 1623 | 60.3 | Albanian <sq@li.org> | 
- | [pychess]({{< ref "/f42/package/pychess.md" >}}) | 4563 | 7592 | 60.1 | Albanian (http://www.transifex.com/gbtami/pychess/language/sq/) | 
- | [aisleriot]({{< ref "/f42/package/aisleriot.md" >}}) | 1190 | 1987 | 59.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf5-libkcddb]({{< ref "/f42/package/kf5-libkcddb.md" >}}) | 237 | 400 | 59.2 | Albanian <sq@li.org> | 
- | [soundconverter]({{< ref "/f42/package/soundconverter.md" >}}) | 221 | 377 | 58.6 | Albanian <sq@li.org> | 
- | [bleachbit]({{< ref "/f42/package/bleachbit.md" >}}) | 1098 | 1923 | 57.1 |  | 
- | [mingw-wxWidgets3]({{< ref "/f42/package/mingw-wxWidgets3.md" >}}) | 4325 | 7695 | 56.2 | <wx-translators@wxwidgets.org> | 
- | [lxmenu-data]({{< ref "/f42/package/lxmenu-data.md" >}}) | 56 | 100 | 56.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [five-or-more]({{< ref "/f42/package/five-or-more.md" >}}) | 157 | 282 | 55.7 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mate-notification-daemon]({{< ref "/f42/package/mate-notification-daemon.md" >}}) | 103 | 186 | 55.4 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [okteta]({{< ref "/f42/package/okteta.md" >}}) | 31 | 56 | 55.4 | Albanian <sq@li.org> | 
- | [tali]({{< ref "/f42/package/tali.md" >}}) | 230 | 421 | 54.6 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kdnssd]({{< ref "/f42/package/kdnssd.md" >}}) | 18 | 33 | 54.5 | Albanian <sq@li.org> | 
- | [camorama]({{< ref "/f42/package/camorama.md" >}}) | 455 | 835 | 54.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mate-panel]({{< ref "/f42/package/mate-panel.md" >}}) | 3663 | 6753 | 54.2 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [gnome-robots]({{< ref "/f42/package/gnome-robots.md" >}}) | 321 | 597 | 53.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [xreader]({{< ref "/f42/package/xreader.md" >}}) | 860 | 1625 | 52.9 | Albanian (http://www.transifex.com/mate/MATE/language/sq/) | 
- | [budgie-desktop]({{< ref "/f42/package/budgie-desktop.md" >}}) | 980 | 1859 | 52.7 | Albanian (https://app.transifex.com/buddiesofbudgie/teams/129844/sq/) | 
- | [kmplot]({{< ref "/f42/package/kmplot.md" >}}) | 1302 | 2501 | 52.1 | Albanian <sq@li.org> | 
- | [bomber]({{< ref "/f42/package/bomber.md" >}}) | 56 | 110 | 50.9 | Albanian <sq@li.org> | 
- | [xarchiver]({{< ref "/f42/package/xarchiver.md" >}}) | 670 | 1317 | 50.9 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [quadrapassel]({{< ref "/f42/package/quadrapassel.md" >}}) | 215 | 428 | 50.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf5-kholidays]({{< ref "/f42/package/kf5-kholidays.md" >}}) | 74 | 150 | 49.3 | sq | 
- | [libksane]({{< ref "/f42/package/libksane.md" >}}) | 139 | 284 | 48.9 | Albanian <sq@li.org> | 
- | [elementary-calendar]({{< ref "/f42/package/elementary-calendar.md" >}}) | 324 | 670 | 48.4 | Albanian <sq@li.org> | 
- | [kcolorchooser]({{< ref "/f42/package/kcolorchooser.md" >}}) | 14 | 29 | 48.3 | Albanian <sq@li.org> | 
- | [maliit-keyboard]({{< ref "/f42/package/maliit-keyboard.md" >}}) | 38 | 81 | 46.9 |  | 
- | [anaconda]({{< ref "/f42/package/anaconda.md" >}}) | 3813 | 8244 | 46.3 | Albanian <https://translate.fedoraproject.org/projects/anaconda/master/sq/> | 
- | [libkmahjongg]({{< ref "/f42/package/libkmahjongg.md" >}}) | 5 | 11 | 45.5 | Albanian <sq@li.org> | 
- | [mate-desktop]({{< ref "/f42/package/mate-desktop.md" >}}) | 1093 | 2412 | 45.3 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [ghex]({{< ref "/f42/package/ghex.md" >}}) | 432 | 964 | 44.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [glib2]({{< ref "/f42/package/glib2.md" >}}) | 2080 | 4777 | 43.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-glib2]({{< ref "/f42/package/mingw-glib2.md" >}}) | 2080 | 4777 | 43.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [katomic]({{< ref "/f42/package/katomic.md" >}}) | 79 | 184 | 42.9 | Albanian <sq@li.org> | 
- | [mate-screensaver]({{< ref "/f42/package/mate-screensaver.md" >}}) | 469 | 1101 | 42.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [gnome-video-effects]({{< ref "/f42/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mate-menu]({{< ref "/f42/package/mate-menu.md" >}}) | 130 | 308 | 42.2 | Albanian (http://www.transifex.com/mate/MATE/language/sq/) | 
- | [knavalbattle]({{< ref "/f42/package/knavalbattle.md" >}}) | 169 | 401 | 42.1 | Albanian <sq@li.org> | 
- | [budgie-control-center]({{< ref "/f42/package/budgie-control-center.md" >}}) | 551 | 1313 | 42.0 | Albanian <besnik@programeshqip.org> | 
- | [libkeduvocdocument]({{< ref "/f42/package/libkeduvocdocument.md" >}}) | 71 | 171 | 41.5 | Albanian <sq@li.org> | 
- | [kbd]({{< ref "/f42/package/kbd.md" >}}) | 1000 | 2498 | 40.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [elementary-calculator]({{< ref "/f42/package/elementary-calculator.md" >}}) | 69 | 174 | 39.7 | LANGUAGE <LL@li.org> | 
- | [akregator]({{< ref "/f42/package/akregator.md" >}}) | 748 | 1893 | 39.5 | Albanian <sq@li.org> | 
- | [gnome-settings-daemon]({{< ref "/f42/package/gnome-settings-daemon.md" >}}) | 408 | 1034 | 39.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [four-in-a-row]({{< ref "/f42/package/four-in-a-row.md" >}}) | 100 | 256 | 39.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mate-terminal]({{< ref "/f42/package/mate-terminal.md" >}}) | 3132 | 8238 | 38.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [blivet-gui]({{< ref "/f42/package/blivet-gui.md" >}}) | 419 | 1111 | 37.7 | Albanian | 
- | [skanlite]({{< ref "/f42/package/skanlite.md" >}}) | 69 | 186 | 37.1 | Albanian <sq@li.org> | 
- | [kf5-kross]({{< ref "/f42/package/kf5-kross.md" >}}) | 37 | 100 | 37.0 | Albanian <sq@li.org> | 
- | [kde-dev-utils]({{< ref "/f42/package/kde-dev-utils.md" >}}) | 35 | 96 | 36.5 | Albanian <sq@li.org> | 
- | [eom]({{< ref "/f42/package/eom.md" >}}) | 1673 | 4958 | 33.7 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kf5-ki18n]({{< ref "/f42/package/kf5-ki18n.md" >}}) | 41 | 124 | 33.1 | Albanian <sq@li.org> | 
- | [kf6-ki18n]({{< ref "/f42/package/kf6-ki18n.md" >}}) | 41 | 124 | 33.1 | Albanian <sq@li.org> | 
- | [mediawriter]({{< ref "/f42/package/mediawriter.md" >}}) | 275 | 836 | 32.9 | Albanian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/sq/> | 
- | [audacious-plugins]({{< ref "/f42/package/audacious-plugins.md" >}}) | 1430 | 4425 | 32.3 | Albanian (http://app.transifex.com/audacious/audacious/language/sq/) | 
- | [dasher]({{< ref "/f42/package/dasher.md" >}}) | 410 | 1292 | 31.7 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [cinnamon-translations]({{< ref "/f42/package/cinnamon-translations.md" >}}) | 7065 | 22382 | 31.6 | sq | 
- | [lightdm-gtk]({{< ref "/f42/package/lightdm-gtk.md" >}}) | 28 | 89 | 31.5 | Albanian <sq@li.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f42/package/kf5-kconfigwidgets.md" >}}) | 107 | 342 | 31.3 | Albanian <sq@li.org> | 
- | [initial-setup]({{< ref "/f42/package/initial-setup.md" >}}) | 33 | 106 | 31.1 | Albanian | 
- | [pluma]({{< ref "/f42/package/pluma.md" >}}) | 4075 | 13113 | 31.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kf5-kimap]({{< ref "/f42/package/kf5-kimap.md" >}}) | 36 | 118 | 30.5 | Albanian <sq@li.org> | 
- | [kimap]({{< ref "/f42/package/kimap.md" >}}) | 36 | 118 | 30.5 | Albanian <sq@li.org> | 
- | [klines]({{< ref "/f42/package/klines.md" >}}) | 30 | 99 | 30.3 | Albanian <sq@li.org> | 
- | [kf6-kwidgetsaddons]({{< ref "/f42/package/kf6-kwidgetsaddons.md" >}}) | 386 | 1277 | 30.2 | sq | 
- | [gnome-keyring]({{< ref "/f42/package/gnome-keyring.md" >}}) | 148 | 490 | 30.2 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-klotski]({{< ref "/f42/package/gnome-klotski.md" >}}) | 58 | 194 | 29.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [supertux]({{< ref "/f42/package/supertux.md" >}}) | 840 | 2866 | 29.3 | Albanian (http://www.transifex.com/arctic-games/supertux/language/sq/) | 
- | [plank]({{< ref "/f42/package/plank.md" >}}) | 55 | 189 | 29.1 | Albanian <sq@li.org> | 
- | [kf5-kparts]({{< ref "/f42/package/kf5-kparts.md" >}}) | 40 | 138 | 29.0 | Albanian <sq@li.org> | 
- | [blueman]({{< ref "/f42/package/blueman.md" >}}) | 685 | 2365 | 29.0 | Albanian <https://hosted.weblate.org/projects/blueman/blueman/sq/> | 
- | [kf5-libkdepim]({{< ref "/f42/package/kf5-libkdepim.md" >}}) | 10 | 35 | 28.6 | Albanian <sq@li.org> | 
- | [gstreamer1]({{< ref "/f42/package/gstreamer1.md" >}}) | 633 | 2223 | 28.5 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [mingw-gstreamer1]({{< ref "/f42/package/mingw-gstreamer1.md" >}}) | 633 | 2223 | 28.5 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [mate-session-manager]({{< ref "/f42/package/mate-session-manager.md" >}}) | 204 | 717 | 28.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [konqueror]({{< ref "/f42/package/konqueror.md" >}}) | 1958 | 6960 | 28.1 | Albanian <sq@li.org> | 
- | [kspaceduel]({{< ref "/f42/package/kspaceduel.md" >}}) | 46 | 165 | 27.9 | Albanian <sq@li.org> | 
- | [kmenuedit]({{< ref "/f42/package/kmenuedit.md" >}}) | 86 | 314 | 27.4 | Albanian <sq@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f42/package/tuxpaint-stamps.md" >}}) | 883 | 3249 | 27.2 | Albanian <sq@li.org> | 
- | [gdm]({{< ref "/f42/package/gdm.md" >}}) | 175 | 650 | 26.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf5-kpty]({{< ref "/f42/package/kf5-kpty.md" >}}) | 4 | 15 | 26.7 | Albanian <sq@li.org> | 
- | [kf6-kpty]({{< ref "/f42/package/kf6-kpty.md" >}}) | 4 | 15 | 26.7 | Albanian <sq@li.org> | 
- | [kdiamond]({{< ref "/f42/package/kdiamond.md" >}}) | 33 | 124 | 26.6 | Albanian <sq@li.org> | 
- | [gramps]({{< ref "/f42/package/gramps.md" >}}) | 10899 | 41201 | 26.5 | Albanian <https://hosted.weblate.org/projects/gramps-project/gramps/sq/> | 
- | [gthumb]({{< ref "/f42/package/gthumb.md" >}}) | 687 | 2605 | 26.4 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mate-control-center]({{< ref "/f42/package/mate-control-center.md" >}}) | 2119 | 8260 | 25.7 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [atril]({{< ref "/f42/package/atril.md" >}}) | 1106 | 4364 | 25.3 | Albanian (https://www.transifex.com/mate/teams/13566/sq/) | 
- | [gnome-nibbles]({{< ref "/f42/package/gnome-nibbles.md" >}}) | 111 | 447 | 24.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kollision]({{< ref "/f42/package/kollision.md" >}}) | 27 | 109 | 24.8 | Albanian <sq@li.org> | 
- | [lightdm]({{< ref "/f42/package/lightdm.md" >}}) | 39 | 163 | 23.9 | Albanian <sq@li.org> | 
- | [libkdegames]({{< ref "/f42/package/libkdegames.md" >}}) | 75 | 316 | 23.7 | Albanian <sq@li.org> | 
- | [kanagram]({{< ref "/f42/package/kanagram.md" >}}) | 125 | 527 | 23.7 | Albanian <sq@li.org> | 
- | [kf6-kconfigwidgets]({{< ref "/f42/package/kf6-kconfigwidgets.md" >}}) | 73 | 312 | 23.4 | Albanian <sq@li.org> | 
- | [kmines]({{< ref "/f42/package/kmines.md" >}}) | 38 | 164 | 23.2 | Albanian <sq@li.org> | 
- | [bookworm]({{< ref "/f42/package/bookworm.md" >}}) | 183 | 795 | 23.0 | Albanian <https://hosted.weblate.org/projects/bookworm/bookworm/sq/> | 
- | [kcron]({{< ref "/f42/package/kcron.md" >}}) | 100 | 436 | 22.9 | Albanian <sq@li.org> | 
- | [kf6-kwallet]({{< ref "/f42/package/kf6-kwallet.md" >}}) | 242 | 1060 | 22.8 | Albanian <sq@li.org> | 
- | [kf5-knotifyconfig]({{< ref "/f42/package/kf5-knotifyconfig.md" >}}) | 29 | 129 | 22.5 | Albanian <sq@li.org> | 
- | [kblocks]({{< ref "/f42/package/kblocks.md" >}}) | 35 | 157 | 22.3 | Albanian <sq@li.org> | 
- | [anjuta]({{< ref "/f42/package/anjuta.md" >}}) | 1559 | 7163 | 21.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-do]({{< ref "/f42/package/gnome-do.md" >}}) | 132 | 612 | 21.6 | Albanian <sq@li.org> | 
- | [kpat]({{< ref "/f42/package/kpat.md" >}}) | 127 | 589 | 21.6 | Albanian <sq@li.org> | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f42/package/rhythmbox-alternative-toolbar.md" >}}) | 62 | 291 | 21.3 | Albanian <sq@li.org> | 
- | [elementary-files]({{< ref "/f42/package/elementary-files.md" >}}) | 563 | 2656 | 21.2 | sq | 
- | [kf5-kwallet]({{< ref "/f42/package/kf5-kwallet.md" >}}) | 280 | 1335 | 21.0 | sq | 
- | [mate-media]({{< ref "/f42/package/mate-media.md" >}}) | 51 | 244 | 20.9 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kf5-akonadi-server]({{< ref "/f42/package/kf5-akonadi-server.md" >}}) | 15 | 72 | 20.8 | Albanian <sq@li.org> | 
- | [lskat]({{< ref "/f42/package/lskat.md" >}}) | 54 | 266 | 20.3 | Albanian <sq@li.org> | 
- | [kdesdk-kioslaves]({{< ref "/f42/package/kdesdk-kioslaves.md" >}}) | 17 | 84 | 20.2 | Albanian <sq@li.org> | 
- | [kf5-kxmlgui]({{< ref "/f42/package/kf5-kxmlgui.md" >}}) | 317 | 1574 | 20.1 | Albanian <sq@li.org> | 
- | [kf5-kdelibs4support]({{< ref "/f42/package/kf5-kdelibs4support.md" >}}) | 1065 | 5353 | 19.9 | kdeshqip | 
- | [kde-cli-tools]({{< ref "/f42/package/kde-cli-tools.md" >}}) | 319 | 1610 | 19.8 | Albanian <sq@li.org> | 
- | [ksquares]({{< ref "/f42/package/ksquares.md" >}}) | 58 | 293 | 19.8 | Albanian <sq@li.org> | 
- | [plasma-workspace]({{< ref "/f42/package/plasma-workspace.md" >}}) | 1257 | 6400 | 19.6 | Albanian <sq@li.org> | 
- | [plasma-workspace-x11]({{< ref "/f42/package/plasma-workspace-x11.md" >}}) | 1257 | 6400 | 19.6 | Albanian <sq@li.org> | 
- | [akonadi-server]({{< ref "/f42/package/akonadi-server.md" >}}) | 15 | 77 | 19.5 | Albanian <sq@li.org> | 
- | [orca]({{< ref "/f42/package/orca.md" >}}) | 485 | 2498 | 19.4 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [picard]({{< ref "/f42/package/picard.md" >}}) | 3429 | 17724 | 19.3 | Albanian <https://translations.metabrainz.org/projects/picard/2/app/sq/> | 
- | [caja-extensions]({{< ref "/f42/package/caja-extensions.md" >}}) | 161 | 845 | 19.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kblackbox]({{< ref "/f42/package/kblackbox.md" >}}) | 259 | 1364 | 19.0 | Albanian <sq@li.org> | 
- | [knotes]({{< ref "/f42/package/knotes.md" >}}) | 114 | 601 | 19.0 | Albanian <sq@li.org> | 
- | [kbrickbuster]({{< ref "/f42/package/kbrickbuster.md" >}}) | 29 | 158 | 18.4 | Albanian <sq@li.org> | 
- | [kldap]({{< ref "/f42/package/kldap.md" >}}) | 33 | 182 | 18.1 | Albanian <sq@li.org> | 
- | [kf5-kldap]({{< ref "/f42/package/kf5-kldap.md" >}}) | 35 | 194 | 18.0 | Albanian <sq@li.org> | 
- | [elementary-screenshot]({{< ref "/f42/package/elementary-screenshot.md" >}}) | 23 | 128 | 18.0 | LANGUAGE <LL@li.org> | 
- | [drgeo]({{< ref "/f42/package/drgeo.md" >}}) | 356 | 1985 | 17.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [khelpcenter]({{< ref "/f42/package/khelpcenter.md" >}}) | 39 | 221 | 17.6 | Albanian <sq@li.org> | 
- | [ktuberling]({{< ref "/f42/package/ktuberling.md" >}}) | 27 | 158 | 17.1 | Albanian <sq@li.org> | 
- | [mate-settings-daemon]({{< ref "/f42/package/mate-settings-daemon.md" >}}) | 365 | 2203 | 16.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [mate-utils]({{< ref "/f42/package/mate-utils.md" >}}) | 1634 | 9901 | 16.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [krdc]({{< ref "/f42/package/krdc.md" >}}) | 195 | 1205 | 16.2 | Albanian <sq@li.org> | 
- | [kcalc]({{< ref "/f42/package/kcalc.md" >}}) | 180 | 1115 | 16.1 | Albanian <sq@li.org> | 
- | [bovo]({{< ref "/f42/package/bovo.md" >}}) | 13 | 82 | 15.9 | Albanian <sq@li.org> | 
- | [libpwquality]({{< ref "/f42/package/libpwquality.md" >}}) | 54 | 345 | 15.7 | Albanian | 
- | [kio-extras-kf5]({{< ref "/f42/package/kio-extras-kf5.md" >}}) | 149 | 954 | 15.6 | Albanian <sq@li.org> | 
- | [konquest]({{< ref "/f42/package/konquest.md" >}}) | 38 | 248 | 15.3 | Albanian <sq@li.org> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f42/package/gstreamer1-plugins-bad-free.md" >}}) | 30 | 197 | 15.2 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f42/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 30 | 197 | 15.2 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [kreversi]({{< ref "/f42/package/kreversi.md" >}}) | 61 | 404 | 15.1 | Albanian <sq@li.org> | 
- | [calligra]({{< ref "/f42/package/calligra.md" >}}) | 100 | 668 | 15.0 | Albanian <sq@li.org> | 
- | [mate-applets]({{< ref "/f42/package/mate-applets.md" >}}) | 2354 | 16106 | 14.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [okular]({{< ref "/f42/package/okular.md" >}}) | 236 | 1615 | 14.6 | Albanian <sq@li.org> | 
- | [kf5-kbookmarks]({{< ref "/f42/package/kf5-kbookmarks.md" >}}) | 33 | 230 | 14.3 | sq | 
- | [gnome-system-log]({{< ref "/f42/package/gnome-system-log.md" >}}) | 74 | 522 | 14.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kget]({{< ref "/f42/package/kget.md" >}}) | 389 | 2767 | 14.1 | Albanian <sq@li.org> | 
- | [keditbookmarks]({{< ref "/f42/package/keditbookmarks.md" >}}) | 66 | 470 | 14.0 | Albanian <sq@li.org> | 
- | [dolphin]({{< ref "/f42/package/dolphin.md" >}}) | 948 | 6800 | 13.9 | sq | 
- | [kf5-kauth]({{< ref "/f42/package/kf5-kauth.md" >}}) | 10 | 73 | 13.7 | Albanian <sq@li.org> | 
- | [engrampa]({{< ref "/f42/package/engrampa.md" >}}) | 1065 | 7815 | 13.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [sweeper]({{< ref "/f42/package/sweeper.md" >}}) | 31 | 228 | 13.6 | Albanian <sq@li.org> | 
- | [gnome-screenshot]({{< ref "/f42/package/gnome-screenshot.md" >}}) | 43 | 319 | 13.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kfind]({{< ref "/f42/package/kfind.md" >}}) | 68 | 517 | 13.2 | Albanian <sq@li.org> | 
- | [kwalletmanager5]({{< ref "/f42/package/kwalletmanager5.md" >}}) | 108 | 828 | 13.0 | Albanian <sq@li.org> | 
- | [gnome-mahjongg]({{< ref "/f42/package/gnome-mahjongg.md" >}}) | 39 | 304 | 12.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [avogadro2]({{< ref "/f42/package/avogadro2.md" >}}) | 59 | 461 | 12.8 | Albanian <https://hosted.weblate.org/projects/avogadro/avogadroapp/sq/> | 
- | [ktimer]({{< ref "/f42/package/ktimer.md" >}}) | 32 | 258 | 12.4 | Albanian <sq@li.org> | 
- | [kmousetool]({{< ref "/f42/package/kmousetool.md" >}}) | 18 | 147 | 12.2 | Albanian <sq@li.org> | 
- | [elementary-camera]({{< ref "/f42/package/elementary-camera.md" >}}) | 17 | 141 | 12.1 | Albanian <sq@li.org> | 
- | [mate-system-monitor]({{< ref "/f42/package/mate-system-monitor.md" >}}) | 579 | 4894 | 11.8 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kinfocenter]({{< ref "/f42/package/kinfocenter.md" >}}) | 19 | 162 | 11.7 | Albanian <sq@li.org> | 
- | [nicotine+]({{< ref "/f42/package/nicotine+.md" >}}) | 590 | 5038 | 11.7 | Albanian <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/sq/> | 
- | [kjumpingcube]({{< ref "/f42/package/kjumpingcube.md" >}}) | 48 | 413 | 11.6 | Albanian <sq@li.org> | 
- | [kf5-kservice]({{< ref "/f42/package/kf5-kservice.md" >}}) | 20 | 173 | 11.6 | Albanian <sq@li.org> | 
- | [ksnakeduel]({{< ref "/f42/package/ksnakeduel.md" >}}) | 28 | 243 | 11.5 | Albanian <sq@li.org> | 
- | [gnome-tetravex]({{< ref "/f42/package/gnome-tetravex.md" >}}) | 25 | 220 | 11.4 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [ark]({{< ref "/f42/package/ark.md" >}}) | 217 | 1982 | 10.9 | sq | 
- | [sudo]({{< ref "/f42/package/sudo.md" >}}) | 166 | 1536 | 10.8 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [wingpanel]({{< ref "/f42/package/wingpanel.md" >}}) | 6 | 57 | 10.5 | LANGUAGE <LL@li.org> | 
- | [gnome-mines]({{< ref "/f42/package/gnome-mines.md" >}}) | 36 | 344 | 10.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [plasma-sdk]({{< ref "/f42/package/plasma-sdk.md" >}}) | 38 | 371 | 10.2 | Albanian <sq@li.org> | 
- | [kmag]({{< ref "/f42/package/kmag.md" >}}) | 44 | 432 | 10.2 | Albanian <sq@li.org> | 
- | [kruler]({{< ref "/f42/package/kruler.md" >}}) | 16 | 158 | 10.1 | Albanian <sq@li.org> | 
- | [kmahjongg]({{< ref "/f42/package/kmahjongg.md" >}}) | 36 | 359 | 10.0 | Albanian <sq@li.org> | 
- | [mailman3]({{< ref "/f42/package/mailman3.md" >}}) | 480 | 4830 | 9.9 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/mailman/sq/> | 
- | [kf5-kcmutils]({{< ref "/f42/package/kf5-kcmutils.md" >}}) | 26 | 266 | 9.8 | Albanian <sq@li.org> | 
- | [klettres]({{< ref "/f42/package/klettres.md" >}}) | 43 | 440 | 9.8 | Albanian <sq@li.org> | 
- | [gwenview]({{< ref "/f42/package/gwenview.md" >}}) | 203 | 2091 | 9.7 | Albanian <sq@li.org> | 
- | [kolf]({{< ref "/f42/package/kolf.md" >}}) | 39 | 405 | 9.6 | Albanian <sq@li.org> | 
- | [kf5-ktnef]({{< ref "/f42/package/kf5-ktnef.md" >}}) | 34 | 355 | 9.6 | Albanian <sq@li.org> | 
- | [ktnef]({{< ref "/f42/package/ktnef.md" >}}) | 34 | 355 | 9.6 | Albanian <sq@li.org> | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 73924 | 773628 | 9.6 | Albanian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/sq/> | 
- | [colord]({{< ref "/f42/package/colord.md" >}}) | 185 | 1966 | 9.4 | Albanian (https://app.transifex.com/freedesktop/teams/12151/sq/) | 
- | [pluma-plugins]({{< ref "/f42/package/pluma-plugins.md" >}}) | 131 | 1405 | 9.3 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kiten]({{< ref "/f42/package/kiten.md" >}}) | 58 | 651 | 8.9 | Albanian <sq@li.org> | 
- | [granite]({{< ref "/f42/package/granite.md" >}}) | 43 | 498 | 8.6 | Albanian <sq@li.org> | 
- | [vlc]({{< ref "/f42/package/vlc.md" >}}) | 3006 | 34814 | 8.6 | Albanian (https://app.transifex.com/yaron/teams/16553/sq/) | 
- | [sugar-turtleart]({{< ref "/f42/package/sugar-turtleart.md" >}}) | 125 | 1459 | 8.6 | LANGUAGE <LL@li.org> | 
- | [kapptemplate]({{< ref "/f42/package/kapptemplate.md" >}}) | 19 | 226 | 8.4 | Albanian <sq@li.org> | 
- | [iso-codes]({{< ref "/f42/package/iso-codes.md" >}}) | 1985 | 23809 | 8.3 | Albanian <https://hosted.weblate.org/projects/iso-codes/iso-15924/sq/> | 
- | [kdeplasma-addons]({{< ref "/f42/package/kdeplasma-addons.md" >}}) | 119 | 1431 | 8.3 | sq | 
- | [swell-foop]({{< ref "/f42/package/swell-foop.md" >}}) | 22 | 266 | 8.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [godot3]({{< ref "/f42/package/godot3.md" >}}) | 1849 | 22592 | 8.2 | Albanian <https://hosted.weblate.org/projects/godot-engine/godot/sq/> | 
- | [gala]({{< ref "/f42/package/gala.md" >}}) | 26 | 319 | 8.2 | Albanian <https://l10n.elementary.io/projects/desktop/gala/sq/> | 
- | [libexif]({{< ref "/f42/package/libexif.md" >}}) | 637 | 7825 | 8.1 | Albanian <sq@li.org> | 
- | [knetwalk]({{< ref "/f42/package/knetwalk.md" >}}) | 19 | 236 | 8.1 | Albanian <sq@li.org> | 
- | [iagno]({{< ref "/f42/package/iagno.md" >}}) | 25 | 322 | 7.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [quassel]({{< ref "/f42/package/quassel.md" >}}) | 627 | 8362 | 7.5 | Albanian (http://www.transifex.com/quassel/quassel/language/sq/) | 
- | [juk]({{< ref "/f42/package/juk.md" >}}) | 108 | 1452 | 7.4 | Albanian <sq@li.org> | 
- | [kwordquiz]({{< ref "/f42/package/kwordquiz.md" >}}) | 19 | 258 | 7.4 | Albanian <sq@li.org> | 
- | [kf5-knewstuff]({{< ref "/f42/package/kf5-knewstuff.md" >}}) | 120 | 1631 | 7.4 | Albanian <sq@li.org> | 
- | [mate-power-manager]({{< ref "/f42/package/mate-power-manager.md" >}}) | 372 | 5123 | 7.3 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kfloppy]({{< ref "/f42/package/kfloppy.md" >}}) | 46 | 641 | 7.2 | Albanian <sq@li.org> | 
- | [ktorrent]({{< ref "/f42/package/ktorrent.md" >}}) | 539 | 7525 | 7.2 | Albanian <sq@li.org> | 
- | [python-blivet]({{< ref "/f42/package/python-blivet.md" >}}) | 43 | 605 | 7.1 | Albanian (http://www.transifex.com/projects/p/blivet/language/sq/) | 
- | [kmix]({{< ref "/f42/package/kmix.md" >}}) | 79 | 1159 | 6.8 | Albanian <sq@li.org> | 
- | [kamera]({{< ref "/f42/package/kamera.md" >}}) | 18 | 267 | 6.7 | Albanian <sq@li.org> | 
- | [firewalld]({{< ref "/f42/package/firewalld.md" >}}) | 140 | 2083 | 6.7 | Albanian | 
- | [pastebinit]({{< ref "/f42/package/pastebinit.md" >}}) | 13 | 195 | 6.7 | Albanian <sq@li.org> | 
- | [mate-calc]({{< ref "/f42/package/mate-calc.md" >}}) | 215 | 3327 | 6.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kdepim-runtime]({{< ref "/f42/package/kdepim-runtime.md" >}}) | 130 | 2062 | 6.3 | Albanian <sq@li.org> | 
- | [kshisen]({{< ref "/f42/package/kshisen.md" >}}) | 42 | 667 | 6.3 | Albanian <sq@li.org> | 
- | [kdialog]({{< ref "/f42/package/kdialog.md" >}}) | 25 | 403 | 6.2 | Albanian <sq@li.org> | 
- | [kcachegrind]({{< ref "/f42/package/kcachegrind.md" >}}) | 70 | 1143 | 6.1 | Albanian <sq@li.org> | 
- | [cervisia]({{< ref "/f42/package/cervisia.md" >}}) | 96 | 1615 | 5.9 | Albanian <sq@li.org> | 
- | [elementary-photos]({{< ref "/f42/package/elementary-photos.md" >}}) | 169 | 2862 | 5.9 | Albanian <sq@li.org> | 
- | [plasma-desktop]({{< ref "/f42/package/plasma-desktop.md" >}}) | 229 | 3896 | 5.9 | Albanian <sq@li.org> | 
- | [kompare]({{< ref "/f42/package/kompare.md" >}}) | 83 | 1413 | 5.9 | Albanian <sq@li.org> | 
- | [kate]({{< ref "/f42/package/kate.md" >}}) | 254 | 4378 | 5.8 | Albanian <sq@li.org> | 
- | [parley]({{< ref "/f42/package/parley.md" >}}) | 198 | 3433 | 5.8 | Albanian <sq@li.org> | 
- | [umbrello]({{< ref "/f42/package/umbrello.md" >}}) | 328 | 5715 | 5.7 | sq | 
- | [dia]({{< ref "/f42/package/dia.md" >}}) | 326 | 5711 | 5.7 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libkdepim]({{< ref "/f42/package/libkdepim.md" >}}) | 2 | 36 | 5.6 | Albanian <sq@li.org> | 
- | [kolourpaint]({{< ref "/f42/package/kolourpaint.md" >}}) | 147 | 2661 | 5.5 | kdeshqip | 
- | [kio-extras]({{< ref "/f42/package/kio-extras.md" >}}) | 145 | 2689 | 5.4 | Albanian <sq@li.org> | 
- | [elementary-code]({{< ref "/f42/package/elementary-code.md" >}}) | 118 | 2228 | 5.3 | Albanian <sq@li.org> | 
- | [plasma-systemsettings]({{< ref "/f42/package/plasma-systemsettings.md" >}}) | 7 | 133 | 5.3 | Albanian <sq@li.org> | 
- | [powerdevil]({{< ref "/f42/package/powerdevil.md" >}}) | 45 | 862 | 5.2 | Albanian <sq@li.org> | 
- | [remmina]({{< ref "/f42/package/remmina.md" >}}) | 272 | 5407 | 5.0 | Albanian <https://hosted.weblate.org/projects/remmina/remmina/sq/> | 
- | [konsole]({{< ref "/f42/package/konsole.md" >}}) | 215 | 4282 | 5.0 | sq | 
- | [libksysguard]({{< ref "/f42/package/libksysguard.md" >}}) | 30 | 602 | 5.0 | Albanian <sq@li.org> | 
- | [amarok]({{< ref "/f42/package/amarok.md" >}}) | 711 | 14307 | 5.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [kf5-kdeclarative]({{< ref "/f42/package/kf5-kdeclarative.md" >}}) | 8 | 161 | 5.0 | Albanian <kde-i18n-doc@kde.org> | 
- | [elementary-music]({{< ref "/f42/package/elementary-music.md" >}}) | 11 | 231 | 4.8 | Albanian <sq@li.org> | 
- | [audacity]({{< ref "/f42/package/audacity.md" >}}) | 1769 | 37276 | 4.7 | Albanian (https://app.transifex.com/audacity/teams/164520/sq/) | 
- | [stellarium]({{< ref "/f42/package/stellarium.md" >}}) | 7191 | 155148 | 4.6 | Albanian (https://app.transifex.com/stellarium/teams/80998/sq/) | 
- | [elementary-mail]({{< ref "/f42/package/elementary-mail.md" >}}) | 38 | 861 | 4.4 | Albanian <sq@li.org> | 
- | [mingw-libcharset]({{< ref "/f42/package/mingw-libcharset.md" >}}) | 15 | 342 | 4.4 | Albanian <translation-team-sq@lists.sourceforge.net> | 
- | [akonadi-calendar-tools]({{< ref "/f42/package/akonadi-calendar-tools.md" >}}) | 20 | 458 | 4.4 | Albanian <sq@li.org> | 
- | [kmouth]({{< ref "/f42/package/kmouth.md" >}}) | 64 | 1474 | 4.3 | Albanian <sq@li.org> | 
- | [baobab]({{< ref "/f42/package/baobab.md" >}}) | 23 | 540 | 4.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf6-kdeclarative]({{< ref "/f42/package/kf6-kdeclarative.md" >}}) | 7 | 169 | 4.1 | Albanian <sq@li.org> | 
- | [step]({{< ref "/f42/package/step.md" >}}) | 77 | 1897 | 4.1 | Albanian <sq@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f42/package/wingpanel-indicator-datetime.md" >}}) | 4 | 103 | 3.9 | LANGUAGE <LL@li.org> | 
- | [kgpg]({{< ref "/f42/package/kgpg.md" >}}) | 189 | 4912 | 3.8 | Albanian <sq@li.org> | 
- | [lokalize]({{< ref "/f42/package/lokalize.md" >}}) | 151 | 4086 | 3.7 | sq | 
- | [kf5-kipi-plugins]({{< ref "/f42/package/kf5-kipi-plugins.md" >}}) | 78 | 2115 | 3.7 | Albanian <sq@li.org> | 
- | [k3b]({{< ref "/f42/package/k3b.md" >}}) | 719 | 20145 | 3.6 | Albanian <sq@li.org> | 
- | [dragon]({{< ref "/f42/package/dragon.md" >}}) | 6 | 170 | 3.5 | Albanian <sq@li.org> | 
- | [gnome-commander]({{< ref "/f42/package/gnome-commander.md" >}}) | 261 | 7896 | 3.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf5-kidentitymanagement]({{< ref "/f42/package/kf5-kidentitymanagement.md" >}}) | 6 | 182 | 3.3 | Albanian <sq@li.org> | 
- | [mate-sensors-applet]({{< ref "/f42/package/mate-sensors-applet.md" >}}) | 70 | 2160 | 3.2 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [krfb]({{< ref "/f42/package/krfb.md" >}}) | 23 | 734 | 3.1 | Albanian <sq@li.org> | 
- | [kstars]({{< ref "/f42/package/kstars.md" >}}) | 1961 | 64693 | 3.0 | kdeshqip | 
- | [kf5-kio]({{< ref "/f42/package/kf5-kio.md" >}}) | 362 | 12037 | 3.0 | Albanian <sq@li.org> | 
- | [kpimtextedit]({{< ref "/f42/package/kpimtextedit.md" >}}) | 8 | 274 | 2.9 | Albanian <sq@li.org> | 
- | [gftp]({{< ref "/f42/package/gftp.md" >}}) | 89 | 3104 | 2.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [light-locker]({{< ref "/f42/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Albanian (http://www.transifex.com/the_cavalry/light-locker/language/sq/) | 
- | [kf5-kpimtextedit]({{< ref "/f42/package/kf5-kpimtextedit.md" >}}) | 10 | 382 | 2.6 | Albanian <sq@li.org> | 
- | [gnome-dictionary]({{< ref "/f42/package/gnome-dictionary.md" >}}) | 21 | 833 | 2.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f42/package/wingpanel-indicator-bluetooth.md" >}}) | 2 | 80 | 2.5 | Albanian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/sq/> | 
- | [granite-7]({{< ref "/f42/package/granite-7.md" >}}) | 14 | 596 | 2.3 | Albanian <sq@li.org> | 
- | [kaffeine]({{< ref "/f42/package/kaffeine.md" >}}) | 33 | 1425 | 2.3 | Albanian <sq@li.org> | 
- | [mate-user-admin]({{< ref "/f42/package/mate-user-admin.md" >}}) | 14 | 605 | 2.3 | Albanian (https://www.transifex.com/mate/teams/13566/sq/) | 
- | [kidentitymanagement]({{< ref "/f42/package/kidentitymanagement.md" >}}) | 6 | 260 | 2.3 | Albanian <sq@li.org> | 
- | [kopete]({{< ref "/f42/package/kopete.md" >}}) | 388 | 17175 | 2.3 | Albanian <sq@li.org> | 
- | [kf5-libkleo]({{< ref "/f42/package/kf5-libkleo.md" >}}) | 54 | 2423 | 2.2 | Albanian <sq@li.org> | 
- | [avogadro2-libs]({{< ref "/f42/package/avogadro2-libs.md" >}}) | 126 | 5676 | 2.2 | Albanian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sq/> | 
- | [kwin-x11]({{< ref "/f42/package/kwin-x11.md" >}}) | 119 | 5586 | 2.1 | Albanian <sq@li.org> | 
- | [shutter]({{< ref "/f42/package/shutter.md" >}}) | 51 | 2448 | 2.1 | Albanian <sq@li.org> | 
- | [lightsoff]({{< ref "/f42/package/lightsoff.md" >}}) | 2 | 97 | 2.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kwin]({{< ref "/f42/package/kwin.md" >}}) | 114 | 5786 | 2.0 | Albanian <sq@li.org> | 
- | [dnf]({{< ref "/f42/package/dnf.md" >}}) | 91 | 4718 | 1.9 | Albanian | 
- | [redhat-menus]({{< ref "/f42/package/redhat-menus.md" >}}) | 5 | 261 | 1.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf5-kmime]({{< ref "/f42/package/kf5-kmime.md" >}}) | 3 | 159 | 1.9 | Albanian <sq@li.org> | 
- | [gcr]({{< ref "/f42/package/gcr.md" >}}) | 11 | 622 | 1.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gcr3]({{< ref "/f42/package/gcr3.md" >}}) | 11 | 622 | 1.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [konsole5]({{< ref "/f42/package/konsole5.md" >}}) | 70 | 3996 | 1.8 | kdeshqip | 
- | [cinnamon-desktop]({{< ref "/f42/package/cinnamon-desktop.md" >}}) | 4 | 234 | 1.7 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kf6-kcmutils]({{< ref "/f42/package/kf6-kcmutils.md" >}}) | 2 | 123 | 1.6 | Albanian <sq@li.org> | 
- | [kontact]({{< ref "/f42/package/kontact.md" >}}) | 8 | 495 | 1.6 | Albanian <sq@li.org> | 
- | [anaconda-webui]({{< ref "/f42/package/anaconda-webui.md" >}}) | 21 | 1345 | 1.6 | Albanian <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/sq/> | 
- | [supertuxkart]({{< ref "/f42/package/supertuxkart.md" >}}) | 89 | 5943 | 1.5 | Albanian (http://app.transifex.com/supertuxkart/supertuxkart/language/sq/) | 
- | [calibre]({{< ref "/f42/package/calibre.md" >}}) | 2751 | 185489 | 1.5 | Albanian (http://app.transifex.com/calibre/calibre/language/sq/) | 
- | [plasma-oxygen]({{< ref "/f42/package/plasma-oxygen.md" >}}) | 9 | 615 | 1.5 | Albanian <sq@li.org> | 
- | [gnome-chess]({{< ref "/f42/package/gnome-chess.md" >}}) | 20 | 1390 | 1.4 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [terminator]({{< ref "/f42/package/terminator.md" >}}) | 21 | 1522 | 1.4 | Albanian (https://www.transifex.com/terminator/teams/109338/sq/) | 
- | [libkleo]({{< ref "/f42/package/libkleo.md" >}}) | 41 | 3034 | 1.4 | Albanian <sq@li.org> | 
- | [libgedit-gtksourceview]({{< ref "/f42/package/libgedit-gtksourceview.md" >}}) | 4 | 319 | 1.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gnome-sudoku]({{< ref "/f42/package/gnome-sudoku.md" >}}) | 5 | 399 | 1.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gtksourceview3]({{< ref "/f42/package/gtksourceview3.md" >}}) | 4 | 322 | 1.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [mingw-gtksourceview3]({{< ref "/f42/package/mingw-gtksourceview3.md" >}}) | 4 | 322 | 1.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [gstreamer1-plugins-good]({{< ref "/f42/package/gstreamer1-plugins-good.md" >}}) | 10 | 825 | 1.2 | Albanian <begraj@hotmail.com> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f42/package/mingw-gstreamer1-plugins-good.md" >}}) | 10 | 825 | 1.2 | Albanian <begraj@hotmail.com> | 
- | [R]({{< ref "/f42/package/R.md" >}}) | 163 | 14862 | 1.1 |  | 
- | [kbruch]({{< ref "/f42/package/kbruch.md" >}}) | 14 | 1347 | 1.0 | Albanian <sq@li.org> | 
- | [pingus]({{< ref "/f42/package/pingus.md" >}}) | 54 | 5395 | 1.0 | Albanian <sq@li.org> | 
- | [caja-actions]({{< ref "/f42/package/caja-actions.md" >}}) | 188 | 18812 | 1.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [exaile]({{< ref "/f42/package/exaile.md" >}}) | 44 | 4690 | 0.9 | Albanian <https://hosted.weblate.org/projects/exaile/master/sq/> | 
- | [genius]({{< ref "/f42/package/genius.md" >}}) | 79 | 8610 | 0.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [plasma-drkonqi]({{< ref "/f42/package/plasma-drkonqi.md" >}}) | 18 | 1981 | 0.9 | Albanian <sq@li.org> | 
- | [kf5-kjsembed]({{< ref "/f42/package/kf5-kjsembed.md" >}}) | 2 | 248 | 0.8 | Albanian <sq@li.org> | 
- | [kleopatra]({{< ref "/f42/package/kleopatra.md" >}}) | 106 | 13218 | 0.8 | Albanian <sq@li.org> | 
- | [kexi]({{< ref "/f42/package/kexi.md" >}}) | 58 | 7340 | 0.8 | Albanian <sq@li.org> | 
- | [ibus]({{< ref "/f42/package/ibus.md" >}}) | 20 | 2654 | 0.8 | Albanian | 
- | [gstreamer1-plugins-base]({{< ref "/f42/package/gstreamer1-plugins-base.md" >}}) | 8 | 1094 | 0.7 | Albanian <begraj@hotmail.com> | 
- | [mingw-gstreamer1-plugins-base]({{< ref "/f42/package/mingw-gstreamer1-plugins-base.md" >}}) | 8 | 1094 | 0.7 | Albanian <begraj@hotmail.com> | 
- | [kf5-ktexteditor]({{< ref "/f42/package/kf5-ktexteditor.md" >}}) | 67 | 9233 | 0.7 | Albanian <sq@li.org> | 
- | [pinta]({{< ref "/f42/package/pinta.md" >}}) | 12 | 1746 | 0.7 | Albanian <sq@li.org> | 
- | [kf6-ktexteditor]({{< ref "/f42/package/kf6-ktexteditor.md" >}}) | 65 | 9463 | 0.7 | Albanian <sq@li.org> | 
- | [android-tools]({{< ref "/f42/package/android-tools.md" >}}) | 41 | 6028 | 0.7 | Albanian | 
- | [policycoreutils]({{< ref "/f42/package/policycoreutils.md" >}}) | 41 | 6117 | 0.7 | Albanian | 
- | [dnf-plugins-core]({{< ref "/f42/package/dnf-plugins-core.md" >}}) | 14 | 2137 | 0.7 | Albanian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/sq/> | 
- | [kalzium]({{< ref "/f42/package/kalzium.md" >}}) | 58 | 9087 | 0.6 | Albanian <sq@li.org> | 
- | [kig]({{< ref "/f42/package/kig.md" >}}) | 45 | 7457 | 0.6 | Albanian <sq@li.org> | 
- | [python-apt]({{< ref "/f42/package/python-apt.md" >}}) | 3 | 544 | 0.6 | Albanian <sq@li.org> | 
- | [mate-user-guide]({{< ref "/f42/package/mate-user-guide.md" >}}) | 233 | 42973 | 0.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
- | [kalarm]({{< ref "/f42/package/kalarm.md" >}}) | 45 | 8539 | 0.5 | Albanian <sq@li.org> | 
- | [snapd]({{< ref "/f42/package/snapd.md" >}}) | 22 | 4307 | 0.5 | Albanian <sq@li.org> | 
- | [digikam]({{< ref "/f42/package/digikam.md" >}}) | 322 | 63466 | 0.5 | sq | 
- | [shadow-utils]({{< ref "/f42/package/shadow-utils.md" >}}) | 24 | 4790 | 0.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [palapeli]({{< ref "/f42/package/palapeli.md" >}}) | 7 | 1525 | 0.5 | Albanian <sq@li.org> | 
- | [kf6-knewstuff]({{< ref "/f42/package/kf6-knewstuff.md" >}}) | 4 | 1034 | 0.4 | Albanian <sq@li.org> | 
- | [korganizer]({{< ref "/f42/package/korganizer.md" >}}) | 29 | 8057 | 0.4 | Albanian <sq@li.org> | 
- | [kaddressbook]({{< ref "/f42/package/kaddressbook.md" >}}) | 4 | 1148 | 0.3 | Albanian <sq@li.org> | 
- | [libcryptui]({{< ref "/f42/package/libcryptui.md" >}}) | 7 | 2304 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [seahorse]({{< ref "/f42/package/seahorse.md" >}}) | 7 | 2304 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [kgoldrunner]({{< ref "/f42/package/kgoldrunner.md" >}}) | 83 | 28047 | 0.3 | Albanian <sq@li.org> | 
- | [kmail]({{< ref "/f42/package/kmail.md" >}}) | 22 | 8348 | 0.3 | Albanian <sq@li.org> | 
- | [libgda]({{< ref "/f42/package/libgda.md" >}}) | 28 | 11142 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libgda5]({{< ref "/f42/package/libgda5.md" >}}) | 28 | 11142 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [konversation]({{< ref "/f42/package/konversation.md" >}}) | 26 | 10405 | 0.2 | Albanian <sq@li.org> | 
- | [mypaint]({{< ref "/f42/package/mypaint.md" >}}) | 14 | 6381 | 0.2 | Albanian <https://hosted.weblate.org/projects/mypaint/mypaint/sq/> | 
- | [mailimporter]({{< ref "/f42/package/mailimporter.md" >}}) | 3 | 1405 | 0.2 | Albanian <sq@li.org> | 
- | [kf5-mailimporter]({{< ref "/f42/package/kf5-mailimporter.md" >}}) | 3 | 1408 | 0.2 | Albanian <sq@li.org> | 
- | [krita]({{< ref "/f42/package/krita.md" >}}) | 76 | 36174 | 0.2 | Albanian <sq@li.org> | 
- | [calendarsupport]({{< ref "/f42/package/calendarsupport.md" >}}) | 4 | 2759 | 0.1 | Albanian <sq@li.org> | 
- | [kf5-calendarsupport]({{< ref "/f42/package/kf5-calendarsupport.md" >}}) | 4 | 2779 | 0.1 | Albanian <sq@li.org> | 
- | [libdnf]({{< ref "/f42/package/libdnf.md" >}}) | 2 | 1664 | 0.1 | Albanian | 
- | [rpm-ostree]({{< ref "/f42/package/rpm-ostree.md" >}}) | 2 | 1664 | 0.1 | Albanian | 
- | [inkscape]({{< ref "/f42/package/inkscape.md" >}}) | 60 | 51528 | 0.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libmypaint]({{< ref "/f42/package/libmypaint.md" >}}) | 2 | 2303 | 0.1 | Albanian <https://hosted.weblate.org/projects/mypaint/libmypaint/sq/> | 
- | [kf5-libksieve]({{< ref "/f42/package/kf5-libksieve.md" >}}) | 2 | 3122 | 0.1 | Albanian <sq@li.org> | 
- | [libksieve]({{< ref "/f42/package/libksieve.md" >}}) | 2 | 3134 | 0.1 | Albanian <sq@li.org> | 
- | [network-manager-applet]({{< ref "/f42/package/network-manager-applet.md" >}}) | 2 | 4439 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [NetworkManager]({{< ref "/f42/package/NetworkManager.md" >}}) | 0 | 29194 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [Zim]({{< ref "/f42/package/Zim.md" >}}) | 0 | 3529 | 0.0 | none | 
- | [accountsservice]({{< ref "/f42/package/accountsservice.md" >}}) | 0 | 59 | 0.0 | Albanian (http://www.transifex.com/freedesktop/accountsservice/language/sq/) | 
- | [cpeditor]({{< ref "/f42/package/cpeditor.md" >}}) | 0 | 647 | 0.0 | Albanian <sq@li.org> | 
- | [dippi]({{< ref "/f42/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f42/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f42/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f42/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f42/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [fonts-tweak-tool]({{< ref "/f42/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Albanian | 
- | [fprintd]({{< ref "/f42/package/fprintd.md" >}}) | 0 | 433 | 0.0 | Albanian (http://www.transifex.com/freedesktop/fprintd/language/sq/) | 
- | [gnome-font-viewer]({{< ref "/f42/package/gnome-font-viewer.md" >}}) | 0 | 32 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [homebank]({{< ref "/f42/package/homebank.md" >}}) | 0 | 3298 | 0.0 | Albanian <sq@li.org> | 
- | [imsettings]({{< ref "/f42/package/imsettings.md" >}}) | 0 | 500 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kdenetwork-filesharing]({{< ref "/f42/package/kdenetwork-filesharing.md" >}}) | 0 | 927 | 0.0 | Albanian <sq@li.org> | 
- | [kdepim-addons]({{< ref "/f42/package/kdepim-addons.md" >}}) | 0 | 881 | 0.0 | Albanian <sq@li.org> | 
- | [kdump-anaconda-addon]({{< ref "/f42/package/kdump-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kf5-kcodecs]({{< ref "/f42/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-kcompletion]({{< ref "/f42/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Albanian <kde-i18n-doc@kde.org> | 
- | [kf5-kconfig]({{< ref "/f42/package/kf5-kconfig.md" >}}) | 0 | 289 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-kcoreaddons]({{< ref "/f42/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f42/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-kdnssd]({{< ref "/f42/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Albanian <kde-i18n-doc@kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f42/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-kjobwidgets]({{< ref "/f42/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f42/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-sonnet]({{< ref "/f42/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Albanian <sq@li.org> | 
- | [kf5-syntax-highlighting]({{< ref "/f42/package/kf5-syntax-highlighting.md" >}}) | 0 | 647 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kauth]({{< ref "/f42/package/kf6-kauth.md" >}}) | 0 | 73 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kbookmarks]({{< ref "/f42/package/kf6-kbookmarks.md" >}}) | 0 | 179 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kcodecs]({{< ref "/f42/package/kf6-kcodecs.md" >}}) | 0 | 370 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kcompletion]({{< ref "/f42/package/kf6-kcompletion.md" >}}) | 0 | 18 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kconfig]({{< ref "/f42/package/kf6-kconfig.md" >}}) | 0 | 550 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kdnssd]({{< ref "/f42/package/kf6-kdnssd.md" >}}) | 0 | 3 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kglobalaccel]({{< ref "/f42/package/kf6-kglobalaccel.md" >}}) | 0 | 34 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kiconthemes]({{< ref "/f42/package/kf6-kiconthemes.md" >}}) | 0 | 46 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kitemviews]({{< ref "/f42/package/kf6-kitemviews.md" >}}) | 0 | 6 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-kjobwidgets]({{< ref "/f42/package/kf6-kjobwidgets.md" >}}) | 0 | 139 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-knotifications]({{< ref "/f42/package/kf6-knotifications.md" >}}) | 0 | 0 | 0.0 | kdeshqip | 
- | [kf6-kservice]({{< ref "/f42/package/kf6-kservice.md" >}}) | 0 | 45 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-sonnet]({{< ref "/f42/package/kf6-sonnet.md" >}}) | 0 | 684 | 0.0 | Albanian <sq@li.org> | 
- | [kf6-syntax-highlighting]({{< ref "/f42/package/kf6-syntax-highlighting.md" >}}) | 0 | 735 | 0.0 | Albanian <sq@li.org> | 
- | [kmime]({{< ref "/f42/package/kmime.md" >}}) | 0 | 152 | 0.0 | Albanian <sq@li.org> | 
- | [libgxim]({{< ref "/f42/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libkomparediff2]({{< ref "/f42/package/libkomparediff2.md" >}}) | 0 | 143 | 0.0 | Albanian <sq@li.org> | 
- | [libnma]({{< ref "/f42/package/libnma.md" >}}) | 0 | 807 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [libreport]({{< ref "/f42/package/libreport.md" >}}) | 0 | 4928 | 0.0 | none | 
- | [libuser]({{< ref "/f42/package/libuser.md" >}}) | 0 | 1478 | 0.0 | Albanian (http://www.transifex.com/projects/p/fedora/language/sq/) | 
- | [libvirt-sandbox]({{< ref "/f42/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Albanian (http://www.transifex.com/projects/p/fedora/language/sq/) | 
- | [mame]({{< ref "/f42/package/mame.md" >}}) | 0 | 3685 | 0.0 | MAME Language Team | 
- | [mingw-colord]({{< ref "/f42/package/mingw-colord.md" >}}) | 0 | 583 | 0.0 | Albanian (http://www.transifex.com/projects/p/freedesktop/language/sq/) | 
- | [p11-kit]({{< ref "/f42/package/p11-kit.md" >}}) | 0 | 1764 | 0.0 | Albanian (http://www.transifex.com/freedesktop/p11-kit/language/sq/) | 
- | [pam]({{< ref "/f42/package/pam.md" >}}) | 0 | 544 | 0.0 | Albanian (http://www.transifex.com/projects/p/fedora/language/sq/) | 
- | [phonon]({{< ref "/f42/package/phonon.md" >}}) | 0 | 327 | 0.0 | Albanian <sq@li.org> | 
- | [phonon-backend-gstreamer]({{< ref "/f42/package/phonon-backend-gstreamer.md" >}}) | 0 | 104 | 0.0 | Albanian <sq@li.org> | 
- | [pyhoca-gui]({{< ref "/f42/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [realmd]({{< ref "/f42/package/realmd.md" >}}) | 0 | 833 | 0.0 | Albanian (http://www.transifex.com/freedesktop/realmd/language/sq/) | 
- | [regextester]({{< ref "/f42/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [retrace-server]({{< ref "/f42/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | none | 
- | [reuse]({{< ref "/f42/package/reuse.md" >}}) | 0 | 2034 | 0.0 | none | 
- | [seahorse-caja]({{< ref "/f42/package/seahorse-caja.md" >}}) | 0 | 421 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [seahorse-nautilus]({{< ref "/f42/package/seahorse-nautilus.md" >}}) | 0 | 421 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
- | [setuptool]({{< ref "/f42/package/setuptool.md" >}}) | 0 | 55 | 0.0 | none | 
- | [sos]({{< ref "/f42/package/sos.md" >}}) | 0 | 123 | 0.0 | none | 
- | [switchdesk]({{< ref "/f42/package/switchdesk.md" >}}) | 0 | 122 | 0.0 | none | 
- | [system-switch-mail]({{< ref "/f42/package/system-switch-mail.md" >}}) | 0 | 101 | 0.0 | none | 
- | [udisks2]({{< ref "/f42/package/udisks2.md" >}}) | 0 | 1929 | 0.0 |  | 
- | [wingpanel-indicator-a11y]({{< ref "/f42/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f42/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [GConf2](/f42/package/GConf2) | 4024 | 4024 | 100.0 | gnome-albanian-perkthyesit@lists.sourceforge.net | 
+ | [PackageKit](/f42/package/PackageKit) | 1136 | 1136 | 100.0 | Albanian (http://app.transifex.com/freedesktop/packagekit/language/sq/) | 
+ | [accerciser](/f42/package/accerciser) | 535 | 535 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [alacarte](/f42/package/alacarte) | 42 | 42 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [arandr](/f42/package/arandr) | 173 | 173 | 100.0 | Albanian <https://hosted.weblate.org/projects/arandr/translations/sq/> | 
+ | [at-spi2-core](/f42/package/at-spi2-core) | 497 | 497 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [atomix](/f42/package/atomix) | 146 | 146 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [bison](/f42/package/bison) | 52 | 52 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [budgie-desktop-view](/f42/package/budgie-desktop-view) | 17 | 17 | 100.0 | Albanian (https://www.transifex.com/buddiesofbudgie/teams/129844/sq/) | 
+ | [budgie-screensaver](/f42/package/budgie-screensaver) | 1167 | 1167 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [budgie-session](/f42/package/budgie-session) | 811 | 811 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [catfish](/f42/package/catfish) | 560 | 560 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [cheese](/f42/package/cheese) | 527 | 527 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [cosmic-store](/f42/package/cosmic-store) | 1136 | 1136 | 100.0 | Albanian (http://app.transifex.com/freedesktop/packagekit/language/sq/) | 
+ | [cracklib](/f42/package/cracklib) | 90 | 90 | 100.0 | Albanian | 
+ | [darktable](/f42/package/darktable) | 31521 | 31521 | 100.0 | Albanian | 
+ | [debconf](/f42/package/debconf) | 191 | 191 | 100.0 | Debian L10n Albanian <debian-l10n-albanian@lists.debian.org> | 
+ | [deepin-pw-check](/f42/package/deepin-pw-check) | 84 | 84 | 100.0 | Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/) | 
+ | [devhelp](/f42/package/devhelp) | 456 | 456 | 100.0 | gnome-albanian-perkthyesit@lists.sourceforge.net | 
+ | [dialog](/f42/package/dialog) | 37 | 37 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [dino](/f42/package/dino) | 1151 | 1151 | 100.0 | none | 
+ | [dnfdragora](/f42/package/dnfdragora) | 1771 | 1771 | 100.0 | Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/) | 
+ | [eog](/f42/package/eog) | 1223 | 1223 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [eog-plugins](/f42/package/eog-plugins) | 10 | 10 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [epiphany](/f42/package/epiphany) | 3011 | 3011 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [evince](/f42/package/evince) | 1048 | 1048 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [evolution-data-server](/f42/package/evolution-data-server) | 5021 | 5021 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [file-roller](/f42/package/file-roller) | 1205 | 1205 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gconf-editor](/f42/package/gconf-editor) | 335 | 335 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gedit](/f42/package/gedit) | 4942 | 4942 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gettext](/f42/package/gettext) | 456 | 456 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [gigolo](/f42/package/gigolo) | 542 | 542 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [glade](/f42/package/glade) | 3207 | 3207 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-applets](/f42/package/gnome-applets) | 3020 | 3020 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-calculator](/f42/package/gnome-calculator) | 1128 | 1128 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-desktop3](/f42/package/gnome-desktop3) | 285 | 285 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-doc-utils](/f42/package/gnome-doc-utils) | 238 | 238 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-icon-theme](/f42/package/gnome-icon-theme) | 43 | 43 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-menus](/f42/package/gnome-menus) | 165 | 165 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-mime-data](/f42/package/gnome-mime-data) | 887 | 887 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-nettool](/f42/package/gnome-nettool) | 573 | 573 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-session](/f42/package/gnome-session) | 811 | 811 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-shell-frippery](/f42/package/gnome-shell-frippery) | 19 | 19 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-system-monitor](/f42/package/gnome-system-monitor) | 645 | 645 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-terminal](/f42/package/gnome-terminal) | 4664 | 4664 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-user-share](/f42/package/gnome-user-share) | 61 | 61 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-vfs2](/f42/package/gnome-vfs2) | 1508 | 1508 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [godot](/f42/package/godot) | 42 | 42 | 100.0 | Albanian <https://hosted.weblate.org/projects/godot-engine/godot/sq/> | 
+ | [gstreamer1-plugins-ugly-free](/f42/package/gstreamer1-plugins-ugly-free) | 80 | 80 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [gtk2-engines](/f42/package/gtk2-engines) | 99 | 99 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gtksourceview2](/f42/package/gtksourceview2) | 821 | 821 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gtksourceview4](/f42/package/gtksourceview4) | 821 | 821 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gtksourceview5](/f42/package/gtksourceview5) | 821 | 821 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gtkspell](/f42/package/gtkspell) | 15 | 15 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [gtkspell3](/f42/package/gtkspell3) | 16 | 16 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [gtranslator](/f42/package/gtranslator) | 1432 | 1432 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gucharmap](/f42/package/gucharmap) | 782 | 782 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gvfs](/f42/package/gvfs) | 1245 | 1245 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [isomaster](/f42/package/isomaster) | 674 | 674 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [kf5-kcontacts](/f42/package/kf5-kcontacts) | 177 | 177 | 100.0 | kdeshqip | 
+ | [kf5-kdoctools](/f42/package/kf5-kdoctools) | 8 | 8 | 100.0 | Albanian <sq@li.org> | 
+ | [kf5-kitemviews](/f42/package/kf5-kitemviews) | 7 | 7 | 100.0 | sq | 
+ | [kf5-kontactinterface](/f42/package/kf5-kontactinterface) | 4 | 4 | 100.0 | kdeshqip | 
+ | [kf5-kwindowsystem](/f42/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | kdeshqip | 
+ | [kf5-kxmlrpcclient](/f42/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Albanian <sq@li.org> | 
+ | [kf5-purpose](/f42/package/kf5-purpose) | 19 | 19 | 100.0 | sq | 
+ | [kf6-kdoctools](/f42/package/kf6-kdoctools) | 8 | 8 | 100.0 | Albanian <sq@li.org> | 
+ | [kf6-knotifyconfig](/f42/package/kf6-knotifyconfig) | 19 | 19 | 100.0 | Albanian <sq@li.org> | 
+ | [kf6-kwindowsystem](/f42/package/kf6-kwindowsystem) | 2 | 2 | 100.0 | kdeshqip | 
+ | [kf6-kxmlgui](/f42/package/kf6-kxmlgui) | 1289 | 1289 | 100.0 | sq | 
+ | [kf6-purpose](/f42/package/kf6-purpose) | 19 | 19 | 100.0 | sq | 
+ | [kgamma](/f42/package/kgamma) | 38 | 38 | 100.0 | Albanian <sq@li.org> | 
+ | [kontactinterface](/f42/package/kontactinterface) | 4 | 4 | 100.0 | kdeshqip | 
+ | [ktouch](/f42/package/ktouch) | 964 | 964 | 100.0 | Albanian kde-i18n-sq@kde.org | 
+ | [leafpad](/f42/package/leafpad) | 125 | 125 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [libbonobo](/f42/package/libbonobo) | 543 | 543 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libbonoboui](/f42/package/libbonoboui) | 368 | 368 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libbytesize](/f42/package/libbytesize) | 17 | 17 | 100.0 | Albanian | 
+ | [libgdl](/f42/package/libgdl) | 604 | 604 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgnome](/f42/package/libgnome) | 1757 | 1757 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgnomecanvas](/f42/package/libgnomecanvas) | 378 | 378 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgnomekbd](/f42/package/libgnomekbd) | 235 | 235 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgnomeui](/f42/package/libgnomeui) | 1226 | 1226 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgtop2](/f42/package/libgtop2) | 126 | 126 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgweather](/f42/package/libgweather) | 7284 | 7284 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libkcompactdisc](/f42/package/libkcompactdisc) | 15 | 15 | 100.0 | Albanian <sq@li.org> | 
+ | [libwnck](/f42/package/libwnck) | 88 | 88 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libwnck3](/f42/package/libwnck3) | 88 | 88 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libxfce4ui](/f42/package/libxfce4ui) | 1017 | 1017 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [libxfce4util](/f42/package/libxfce4util) | 424 | 424 | 100.0 | Albanian (http://www.transifex.com/xfce/libxfce4util/language/sq/) | 
+ | [libxfce4windowing](/f42/package/libxfce4windowing) | 63 | 63 | 100.0 | Albanian (https://www.transifex.com/xfce/teams/16840/sq/) | 
+ | [manafirewall](/f42/package/manafirewall) | 1185 | 1185 | 100.0 | Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/) | 
+ | [mate-backgrounds](/f42/package/mate-backgrounds) | 55 | 55 | 100.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [mate-icon-theme](/f42/package/mate-icon-theme) | 4 | 4 | 100.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [mate-polkit](/f42/package/mate-polkit) | 123 | 123 | 100.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [mingw-GConf2](/f42/package/mingw-GConf2) | 4024 | 4024 | 100.0 | gnome-albanian-perkthyesit@lists.sourceforge.net | 
+ | [mingw-atk](/f42/package/mingw-atk) | 375 | 375 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-gettext](/f42/package/mingw-gettext) | 456 | 456 | 100.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [mousetweaks](/f42/package/mousetweaks) | 426 | 426 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [nautilus](/f42/package/nautilus) | 8379 | 8379 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [newt](/f42/package/newt) | 4 | 4 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [papers](/f42/package/papers) | 1048 | 1048 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [poedit](/f42/package/poedit) | 3331 | 3331 | 100.0 | Albanian | 
+ | [python-caja](/f42/package/python-caja) | 6 | 6 | 100.0 | Albanian (https://www.transifex.com/mate/teams/13566/sq/) | 
+ | [python-django-contrib-comments](/f42/package/python-django-contrib-comments) | 250 | 250 | 100.0 | Albanian (http://www.transifex.com/django/django-contrib-comments/language/sq/) | 
+ | [python-django-formtools](/f42/package/python-django-formtools) | 32 | 32 | 100.0 | Albanian (http://www.transifex.com/projects/p/django-formtools/language/sq/) | 
+ | [python-django-mailman3](/f42/package/python-django-mailman3) | 467 | 467 | 100.0 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/django-mailman3/sq/> | 
+ | [python-manatools](/f42/package/python-manatools) | 4 | 4 | 100.0 | Albanian (https://www.transifex.com/MageiaLinux/teams/9361/sq/) | 
+ | [python-meh](/f42/package/python-meh) | 109 | 109 | 100.0 | Albanian | 
+ | [python-sphinxcontrib-htmlhelp](/f42/package/python-sphinxcontrib-htmlhelp) | 25 | 25 | 100.0 | Albanian (https://www.transifex.com/sphinx-doc/teams/36659/sq/) | 
+ | [python-sphinxcontrib-serializinghtml](/f42/package/python-sphinxcontrib-serializinghtml) | 18 | 18 | 100.0 | Albanian (https://www.transifex.com/sphinx-doc/teams/36659/sq/) | 
+ | [rapid-photo-downloader](/f42/package/rapid-photo-downloader) | 8086 | 8086 | 100.0 | Albanian <sq@li.org> | 
+ | [sound-juicer](/f42/package/sound-juicer) | 852 | 852 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [startdde](/f42/package/startdde) | 24 | 24 | 100.0 | Albanian (https://www.transifex.com/linuxdeepin/teams/3617/sq/) | 
+ | [sugar-abacus](/f42/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f42/package/sugar-browse) | 334 | 334 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f42/package/sugar-deducto) | 107 | 107 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f42/package/sugar-distance) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f42/package/sugar-finance) | 258 | 258 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f42/package/sugar-imageviewer) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f42/package/sugar-implode) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f42/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f42/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f42/package/sugar-memorize) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f42/package/sugar-physics) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f42/package/sugar-pippy) | 282 | 282 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f42/package/sugar-read) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f42/package/sugar-record) | 62 | 62 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f42/package/sugar-speak) | 227 | 227 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f42/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f42/package/sugar-terminal) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f42/package/sugar-toolkit-gtk3) | 213 | 213 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f42/package/sugar-view-slides) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f42/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [svgpart](/f42/package/svgpart) | 3 | 3 | 100.0 | Albanian <sq@li.org> | 
+ | [thunar-archive-plugin](/f42/package/thunar-archive-plugin) | 88 | 88 | 100.0 | Albanian (http://app.transifex.com/xfce/thunar-plugins/language/sq/) | 
+ | [thunar-media-tags-plugin](/f42/package/thunar-media-tags-plugin) | 158 | 158 | 100.0 | Albanian (http://www.transifex.com/xfce/thunar-plugins/language/sq/) | 
+ | [thunar-volman](/f42/package/thunar-volman) | 484 | 484 | 100.0 | Albanian (http://www.transifex.com/xfce/thunar-volman/language/sq/) | 
+ | [tumbler](/f42/package/tumbler) | 148 | 148 | 100.0 | Albanian (http://app.transifex.com/xfce/tumbler/language/sq/) | 
+ | [vinagre](/f42/package/vinagre) | 730 | 730 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [vte](/f42/package/vte) | 116 | 116 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [vte291](/f42/package/vte291) | 116 | 116 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [xdg-user-dirs-gtk](/f42/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [xfce4-appfinder](/f42/package/xfce4-appfinder) | 504 | 504 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce4-appfinder/language/sq/) | 
+ | [xfce4-battery-plugin](/f42/package/xfce4-battery-plugin) | 145 | 145 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-clipman-plugin](/f42/package/xfce4-clipman-plugin) | 550 | 550 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-cpufreq-plugin](/f42/package/xfce4-cpufreq-plugin) | 171 | 171 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-dict](/f42/package/xfce4-dict) | 531 | 531 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfce4-diskperf-plugin](/f42/package/xfce4-diskperf-plugin) | 176 | 176 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-eyes-plugin](/f42/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-fsguard-plugin](/f42/package/xfce4-fsguard-plugin) | 72 | 72 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-genmon-plugin](/f42/package/xfce4-genmon-plugin) | 104 | 104 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-mailwatch-plugin](/f42/package/xfce4-mailwatch-plugin) | 667 | 667 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-mount-plugin](/f42/package/xfce4-mount-plugin) | 381 | 381 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-netload-plugin](/f42/package/xfce4-netload-plugin) | 106 | 106 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-notes-plugin](/f42/package/xfce4-notes-plugin) | 154 | 154 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-panel-profiles](/f42/package/xfce4-panel-profiles) | 145 | 145 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [xfce4-places-plugin](/f42/package/xfce4-places-plugin) | 164 | 164 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-power-manager](/f42/package/xfce4-power-manager) | 976 | 976 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce4-power-manager/language/sq/) | 
+ | [xfce4-screensaver](/f42/package/xfce4-screensaver) | 680 | 680 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [xfce4-sensors-plugin](/f42/package/xfce4-sensors-plugin) | 430 | 430 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-smartbookmark-plugin](/f42/package/xfce4-smartbookmark-plugin) | 23 | 23 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-statusnotifier-plugin](/f42/package/xfce4-statusnotifier-plugin) | 129 | 129 | 100.0 | Albanian (https://www.transifex.com/xfce/teams/16840/sq/) | 
+ | [xfce4-systemload-plugin](/f42/package/xfce4-systemload-plugin) | 102 | 102 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-time-out-plugin](/f42/package/xfce4-time-out-plugin) | 115 | 115 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-timer-plugin](/f42/package/xfce4-timer-plugin) | 138 | 138 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-verve-plugin](/f42/package/xfce4-verve-plugin) | 88 | 88 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-wavelan-plugin](/f42/package/xfce4-wavelan-plugin) | 81 | 81 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfce4-xkb-plugin](/f42/package/xfce4-xkb-plugin) | 119 | 119 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [xfconf](/f42/package/xfconf) | 458 | 458 | 100.0 | Albanian (http://app.transifex.com/xfce/xfconf/language/sq/) | 
+ | [xfdashboard](/f42/package/xfdashboard) | 1106 | 1106 | 100.0 | Albanian (https://www.transifex.com/xfce/teams/16840/sq/) | 
+ | [xfmpc](/f42/package/xfmpc) | 175 | 175 | 100.0 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfwm4](/f42/package/xfwm4) | 670 | 670 | 100.0 | Albanian (http://app.transifex.com/xfce/xfwm4/language/sq/) | 
+ | [yelp](/f42/package/yelp) | 1035 | 1035 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [yelp-xsl](/f42/package/yelp-xsl) | 238 | 238 | 100.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [zenity](/f42/package/zenity) | 582 | 582 | 100.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [orage](/f42/package/orage) | 2314 | 2315 | 100.0 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [abiword](/f42/package/abiword) | 5542 | 5545 | 99.9 | sq | 
+ | [python-postorius](/f42/package/python-postorius) | 5162 | 5165 | 99.9 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/postorius/sq/> | 
+ | [Thunar](/f42/package/Thunar) | 5842 | 5847 | 99.9 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [python-hyperkitty](/f42/package/python-hyperkitty) | 936 | 937 | 99.9 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/hyperkitty/sq/> | 
+ | [mousepad](/f42/package/mousepad) | 1700 | 1702 | 99.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [hexchat](/f42/package/hexchat) | 5963 | 5971 | 99.9 | Albanian (http://www.transifex.com/hexchat/hexchat/language/sq/) | 
+ | [xfce4-panel](/f42/package/xfce4-panel) | 2042 | 2045 | 99.9 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [asunder](/f42/package/asunder) | 492 | 493 | 99.8 | <LL@li.org> | 
+ | [xfdesktop](/f42/package/xfdesktop) | 1212 | 1215 | 99.8 | Albanian (http://app.transifex.com/xfce/xfdesktop/language/sq/) | 
+ | [pidgin](/f42/package/pidgin) | 13933 | 13994 | 99.6 | Albanian (http://app.transifex.com/pidgin/pidgin/language/sq/) | 
+ | [sugar](/f42/package/sugar) | 2294 | 2305 | 99.5 | LANGUAGE <LL@li.org> | 
+ | [xfce4-pulseaudio-plugin](/f42/package/xfce4-pulseaudio-plugin) | 194 | 195 | 99.5 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [exo](/f42/package/exo) | 749 | 753 | 99.5 | Albanian (http://app.transifex.com/xfce/exo/language/sq/) | 
+ | [fetchmail](/f42/package/fetchmail) | 5136 | 5166 | 99.4 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [xfburn](/f42/package/xfburn) | 1556 | 1566 | 99.4 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfce4-docklike-plugin](/f42/package/xfce4-docklike-plugin) | 152 | 153 | 99.3 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [xfce4-screenshooter](/f42/package/xfce4-screenshooter) | 569 | 573 | 99.3 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfce4-settings](/f42/package/xfce4-settings) | 2624 | 2644 | 99.2 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [python-django4.2](/f42/package/python-django4.2) | 3849 | 3881 | 99.2 | Albanian (http://www.transifex.com/django/django/language/sq/) | 
+ | [claws-mail](/f42/package/claws-mail) | 20742 | 20932 | 99.1 |  | 
+ | [xfce4-mpc-plugin](/f42/package/xfce4-mpc-plugin) | 100 | 101 | 99.0 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [calamares](/f42/package/calamares) | 473 | 478 | 99.0 | Albanian (https://app.transifex.com/calamares/teams/20061/sq/) | 
+ | [parole](/f42/package/parole) | 802 | 811 | 98.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfce4-session](/f42/package/xfce4-session) | 775 | 784 | 98.9 | Albanian (http://app.transifex.com/xfce/xfce4-session/language/sq/) | 
+ | [liferea](/f42/package/liferea) | 2041 | 2066 | 98.8 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [thonny](/f42/package/thonny) | 1885 | 1910 | 98.7 |  | 
+ | [sugar-flipsticks](/f42/package/sugar-flipsticks) | 149 | 151 | 98.7 | LANGUAGE <LL@li.org> | 
+ | [nano](/f42/package/nano) | 3507 | 3555 | 98.6 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [xfce4-notifyd](/f42/package/xfce4-notifyd) | 576 | 584 | 98.6 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfce4-weather-plugin](/f42/package/xfce4-weather-plugin) | 3548 | 3598 | 98.6 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [deepin-daemon](/f42/package/deepin-daemon) | 1213 | 1235 | 98.2 | Albanian (https://app.transifex.com/linuxdeepin/teams/3617/sq/) | 
+ | [python-wxpython4](/f42/package/python-wxpython4) | 7692 | 7837 | 98.1 | <wx-translators@wxwidgets.org> | 
+ | [wxGTK](/f42/package/wxGTK) | 7692 | 7837 | 98.1 | <wx-translators@wxwidgets.org> | 
+ | [ristretto](/f42/package/ristretto) | 651 | 665 | 97.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [sugar-dimensions](/f42/package/sugar-dimensions) | 172 | 176 | 97.7 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f42/package/slick-greeter) | 211 | 216 | 97.7 | Albanian <sq@li.org> | 
+ | [kf6-kcontacts](/f42/package/kf6-kcontacts) | 168 | 172 | 97.7 | kdeshqip | 
+ | [python-django5](/f42/package/python-django5) | 3821 | 3915 | 97.6 | Albanian (http://app.transifex.com/django/django/language/sq/) | 
+ | [gcompris-qt](/f42/package/gcompris-qt) | 35951 | 36856 | 97.5 | Albanian <kde-i18n-doc@kde.org> | 
+ | [xfce4-calculator-plugin](/f42/package/xfce4-calculator-plugin) | 38 | 39 | 97.4 | Albanian (https://app.transifex.com/xfce/teams/16840/sq/) | 
+ | [gnome-abrt](/f42/package/gnome-abrt) | 215 | 221 | 97.3 | Albanian | 
+ | [xkeyboard-config](/f42/package/xkeyboard-config) | 4126 | 4253 | 97.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [xfce4-terminal](/f42/package/xfce4-terminal) | 1611 | 1663 | 96.9 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [xfce4-datetime-plugin](/f42/package/xfce4-datetime-plugin) | 50 | 52 | 96.2 | Albanian (http://www.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [python-sphinx](/f42/package/python-sphinx) | 5421 | 5669 | 95.6 | Albanian (http://app.transifex.com/sphinx-doc/sphinx-1/language/sq/) | 
+ | [kf5-knotifications](/f42/package/kf5-knotifications) | 20 | 21 | 95.2 | kdeshqip | 
+ | [xfce4-cpugraph-plugin](/f42/package/xfce4-cpugraph-plugin) | 179 | 188 | 95.2 | Albanian (http://app.transifex.com/xfce/xfce-panel-plugins/language/sq/) | 
+ | [prusa-slicer](/f42/package/prusa-slicer) | 7148 | 7508 | 95.2 | <wx-translators@wxwidgets.org> | 
+ | [mate-menus](/f42/package/mate-menus) | 98 | 103 | 95.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kf6-kio](/f42/package/kf6-kio) | 8140 | 8607 | 94.6 | sq | 
+ | [xfce4-taskmanager](/f42/package/xfce4-taskmanager) | 228 | 242 | 94.2 | Albanian (http://app.transifex.com/xfce/xfce-apps/language/sq/) | 
+ | [sugar-yupana](/f42/package/sugar-yupana) | 28 | 30 | 93.3 | LANGUAGE <LL@li.org> | 
+ | [magpie](/f42/package/magpie) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [metacity](/f42/package/metacity) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [muffin](/f42/package/muffin) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mutter](/f42/package/mutter) | 8009 | 8587 | 93.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [plasma5support](/f42/package/plasma5support) | 2603 | 2800 | 93.0 | Albanian <sq@li.org> | 
+ | [xdg-user-dirs](/f42/package/xdg-user-dirs) | 26 | 28 | 92.9 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [kturtle](/f42/package/kturtle) | 1426 | 1538 | 92.7 | Albanian <sq@li.org> | 
+ | [system-config-language](/f42/package/system-config-language) | 197 | 215 | 91.6 | Albanian | 
+ | [python-nikola](/f42/package/python-nikola) | 86 | 94 | 91.5 | Albanian (http://www.transifex.com/ralsina/nikola/language/sq/) | 
+ | [console-setup](/f42/package/console-setup) | 906 | 992 | 91.3 | Albanian <debian-l10n-albanian@lists.debian.org> | 
+ | [gtk2](/f42/package/gtk2) | 12509 | 13704 | 91.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-gtk2](/f42/package/mingw-gtk2) | 12509 | 13704 | 91.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [lightdm-settings](/f42/package/lightdm-settings) | 324 | 355 | 91.3 | Albanian <sq@li.org> | 
+ | [blinken](/f42/package/blinken) | 121 | 134 | 90.3 | Albanian <sq@li.org> | 
+ | [audacious](/f42/package/audacious) | 822 | 911 | 90.2 | Albanian (http://app.transifex.com/audacious/audacious/language/sq/) | 
+ | [garcon](/f42/package/garcon) | 125 | 139 | 89.9 | Albanian (http://app.transifex.com/xfce/garcon/language/sq/) | 
+ | [abrt](/f42/package/abrt) | 3304 | 3676 | 89.9 | Albanian | 
+ | [gdk-pixbuf2](/f42/package/gdk-pixbuf2) | 1208 | 1348 | 89.6 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gdk-pixbuf2-modules-extra](/f42/package/gdk-pixbuf2-modules-extra) | 1208 | 1348 | 89.6 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-gdk-pixbuf](/f42/package/mingw-gdk-pixbuf) | 1208 | 1348 | 89.6 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [sugar-clock](/f42/package/sugar-clock) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
+ | [gimagereader](/f42/package/gimagereader) | 1621 | 1817 | 89.2 | Albanian <https://hosted.weblate.org/projects/gimagereader/translations/sq/> | 
+ | [mozo](/f42/package/mozo) | 41 | 46 | 89.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [tuxpaint](/f42/package/tuxpaint) | 4749 | 5355 | 88.7 | none | 
+ | [kf6-kparts](/f42/package/kf6-kparts) | 50 | 57 | 87.7 | sq | 
+ | [sugar-chat](/f42/package/sugar-chat) | 120 | 137 | 87.6 | LANGUAGE <LL@li.org> | 
+ | [gtk3](/f42/package/gtk3) | 10285 | 11853 | 86.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-gtk3](/f42/package/mingw-gtk3) | 10285 | 11853 | 86.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gtk4](/f42/package/gtk4) | 2102 | 2432 | 86.4 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-gtk4](/f42/package/mingw-gtk4) | 2102 | 2432 | 86.4 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [simple-scan](/f42/package/simple-scan) | 506 | 589 | 85.9 | Albanian <sq@li.org> | 
+ | [ghemical](/f42/package/ghemical) | 1864 | 2178 | 85.6 | Albanian <FOSS-in-EDU@googlegroups.com> | 
+ | [kgeography](/f42/package/kgeography) | 8558 | 10043 | 85.2 | sq | 
+ | [kapman](/f42/package/kapman) | 97 | 115 | 84.3 | Albanian <sq@li.org> | 
+ | [libghemical](/f42/package/libghemical) | 752 | 892 | 84.3 | Albanian <FOSS-in-EDU@googlegroups.com> | 
+ | [aspell](/f42/package/aspell) | 1508 | 1798 | 83.9 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [mate-themes](/f42/package/mate-themes) | 62 | 74 | 83.8 | Albanian (http://app.transifex.com/mate/MATE/language/sq/) | 
+ | [audiocd-kio](/f42/package/audiocd-kio) | 629 | 756 | 83.2 | Albanian <sq@li.org> | 
+ | [gnome-panel](/f42/package/gnome-panel) | 2868 | 3520 | 81.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-control-center](/f42/package/gnome-control-center) | 3331 | 4093 | 81.4 | Albanian <besnik@programeshqip.org> | 
+ | [chkconfig](/f42/package/chkconfig) | 472 | 597 | 79.1 | Albanian <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/sq/> | 
+ | [crow-translate](/f42/package/crow-translate) | 1244 | 1574 | 79.0 |  | 
+ | [gretl](/f42/package/gretl) | 16372 | 20732 | 79.0 | albanian <artur.bala.al@gmail.com> | 
+ | [mingw-wxWidgets](/f42/package/mingw-wxWidgets) | 5025 | 6391 | 78.6 | <wx-translators@wxwidgets.org> | 
+ | [folder-color-switcher](/f42/package/folder-color-switcher) | 51 | 65 | 78.5 | Albanian <sq@li.org> | 
+ | [kcharselect](/f42/package/kcharselect) | 72 | 92 | 78.3 | Albanian <sq@li.org> | 
+ | [kf5-ktextwidgets](/f42/package/kf5-ktextwidgets) | 365 | 473 | 77.2 | Albanian <sq@li.org> | 
+ | [kf6-kcoreaddons](/f42/package/kf6-kcoreaddons) | 373 | 485 | 76.9 | Albanian <kde-i18n-sq@kde.org> | 
+ | [evolution](/f42/package/evolution) | 16669 | 21855 | 76.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf6-ktextwidgets](/f42/package/kf6-ktextwidgets) | 358 | 473 | 75.7 | Albanian <sq@li.org> | 
+ | [shared-mime-info](/f42/package/shared-mime-info) | 1696 | 2266 | 74.8 | Albanian (http://app.transifex.com/freedesktop/shared-mime-info/language/sq/) | 
+ | [marco](/f42/package/marco) | 3093 | 4171 | 74.2 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kf5-kiconthemes](/f42/package/kf5-kiconthemes) | 29 | 41 | 70.7 | sq | 
+ | [xed](/f42/package/xed) | 2645 | 3775 | 70.1 | Albanian (http://www.transifex.com/projects/p/MATE/language/sq/) | 
+ | [meld](/f42/package/meld) | 673 | 974 | 69.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf5-kinit](/f42/package/kf5-kinit) | 78 | 116 | 67.2 | Albanian <sq@li.org> | 
+ | [kf6-kholidays](/f42/package/kf6-kholidays) | 98 | 150 | 65.3 | sq | 
+ | [gedit-plugins](/f42/package/gedit-plugins) | 786 | 1205 | 65.2 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kdf](/f42/package/kdf) | 115 | 177 | 65.0 | Albanian <sq@li.org> | 
+ | [caja](/f42/package/caja) | 6486 | 10156 | 63.9 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [sugar-calculator](/f42/package/sugar-calculator) | 550 | 866 | 63.5 | LANGUAGE <LL@li.org> | 
+ | [libkcddb](/f42/package/libkcddb) | 236 | 374 | 63.1 | Albanian <sq@li.org> | 
+ | [kbounce](/f42/package/kbounce) | 98 | 156 | 62.8 | Albanian <sq@li.org> | 
+ | [kf5-khtml](/f42/package/kf5-khtml) | 1017 | 1667 | 61.0 | Albanian <sq@li.org> | 
+ | [khangman](/f42/package/khangman) | 272 | 450 | 60.4 | Albanian <sq@li.org> | 
+ | [deja-dup](/f42/package/deja-dup) | 978 | 1623 | 60.3 | Albanian <sq@li.org> | 
+ | [pychess](/f42/package/pychess) | 4563 | 7592 | 60.1 | Albanian (http://www.transifex.com/gbtami/pychess/language/sq/) | 
+ | [aisleriot](/f42/package/aisleriot) | 1190 | 1987 | 59.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf5-libkcddb](/f42/package/kf5-libkcddb) | 237 | 400 | 59.2 | Albanian <sq@li.org> | 
+ | [soundconverter](/f42/package/soundconverter) | 221 | 377 | 58.6 | Albanian <sq@li.org> | 
+ | [bleachbit](/f42/package/bleachbit) | 1098 | 1923 | 57.1 |  | 
+ | [mingw-wxWidgets3](/f42/package/mingw-wxWidgets3) | 4325 | 7695 | 56.2 | <wx-translators@wxwidgets.org> | 
+ | [lxmenu-data](/f42/package/lxmenu-data) | 56 | 100 | 56.0 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [five-or-more](/f42/package/five-or-more) | 157 | 282 | 55.7 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mate-notification-daemon](/f42/package/mate-notification-daemon) | 103 | 186 | 55.4 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [okteta](/f42/package/okteta) | 31 | 56 | 55.4 | Albanian <sq@li.org> | 
+ | [tali](/f42/package/tali) | 230 | 421 | 54.6 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kdnssd](/f42/package/kdnssd) | 18 | 33 | 54.5 | Albanian <sq@li.org> | 
+ | [camorama](/f42/package/camorama) | 455 | 835 | 54.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mate-panel](/f42/package/mate-panel) | 3663 | 6753 | 54.2 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [gnome-robots](/f42/package/gnome-robots) | 321 | 597 | 53.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [xreader](/f42/package/xreader) | 860 | 1625 | 52.9 | Albanian (http://www.transifex.com/mate/MATE/language/sq/) | 
+ | [budgie-desktop](/f42/package/budgie-desktop) | 980 | 1859 | 52.7 | Albanian (https://app.transifex.com/buddiesofbudgie/teams/129844/sq/) | 
+ | [kmplot](/f42/package/kmplot) | 1302 | 2501 | 52.1 | Albanian <sq@li.org> | 
+ | [bomber](/f42/package/bomber) | 56 | 110 | 50.9 | Albanian <sq@li.org> | 
+ | [xarchiver](/f42/package/xarchiver) | 670 | 1317 | 50.9 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [quadrapassel](/f42/package/quadrapassel) | 215 | 428 | 50.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf5-kholidays](/f42/package/kf5-kholidays) | 74 | 150 | 49.3 | sq | 
+ | [libksane](/f42/package/libksane) | 139 | 284 | 48.9 | Albanian <sq@li.org> | 
+ | [elementary-calendar](/f42/package/elementary-calendar) | 324 | 670 | 48.4 | Albanian <sq@li.org> | 
+ | [kcolorchooser](/f42/package/kcolorchooser) | 14 | 29 | 48.3 | Albanian <sq@li.org> | 
+ | [maliit-keyboard](/f42/package/maliit-keyboard) | 38 | 81 | 46.9 |  | 
+ | [anaconda](/f42/package/anaconda) | 3813 | 8244 | 46.3 | Albanian <https://translate.fedoraproject.org/projects/anaconda/master/sq/> | 
+ | [libkmahjongg](/f42/package/libkmahjongg) | 5 | 11 | 45.5 | Albanian <sq@li.org> | 
+ | [mate-desktop](/f42/package/mate-desktop) | 1093 | 2412 | 45.3 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [ghex](/f42/package/ghex) | 432 | 964 | 44.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [glib2](/f42/package/glib2) | 2080 | 4777 | 43.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-glib2](/f42/package/mingw-glib2) | 2080 | 4777 | 43.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [katomic](/f42/package/katomic) | 79 | 184 | 42.9 | Albanian <sq@li.org> | 
+ | [mate-screensaver](/f42/package/mate-screensaver) | 469 | 1101 | 42.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [gnome-video-effects](/f42/package/gnome-video-effects) | 11 | 26 | 42.3 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mate-menu](/f42/package/mate-menu) | 130 | 308 | 42.2 | Albanian (http://www.transifex.com/mate/MATE/language/sq/) | 
+ | [knavalbattle](/f42/package/knavalbattle) | 169 | 401 | 42.1 | Albanian <sq@li.org> | 
+ | [budgie-control-center](/f42/package/budgie-control-center) | 551 | 1313 | 42.0 | Albanian <besnik@programeshqip.org> | 
+ | [libkeduvocdocument](/f42/package/libkeduvocdocument) | 71 | 171 | 41.5 | Albanian <sq@li.org> | 
+ | [kbd](/f42/package/kbd) | 1000 | 2498 | 40.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [elementary-calculator](/f42/package/elementary-calculator) | 69 | 174 | 39.7 | LANGUAGE <LL@li.org> | 
+ | [akregator](/f42/package/akregator) | 748 | 1893 | 39.5 | Albanian <sq@li.org> | 
+ | [gnome-settings-daemon](/f42/package/gnome-settings-daemon) | 408 | 1034 | 39.5 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [four-in-a-row](/f42/package/four-in-a-row) | 100 | 256 | 39.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mate-terminal](/f42/package/mate-terminal) | 3132 | 8238 | 38.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [blivet-gui](/f42/package/blivet-gui) | 419 | 1111 | 37.7 | Albanian | 
+ | [skanlite](/f42/package/skanlite) | 69 | 186 | 37.1 | Albanian <sq@li.org> | 
+ | [kf5-kross](/f42/package/kf5-kross) | 37 | 100 | 37.0 | Albanian <sq@li.org> | 
+ | [kde-dev-utils](/f42/package/kde-dev-utils) | 35 | 96 | 36.5 | Albanian <sq@li.org> | 
+ | [eom](/f42/package/eom) | 1673 | 4958 | 33.7 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kf5-ki18n](/f42/package/kf5-ki18n) | 41 | 124 | 33.1 | Albanian <sq@li.org> | 
+ | [kf6-ki18n](/f42/package/kf6-ki18n) | 41 | 124 | 33.1 | Albanian <sq@li.org> | 
+ | [mediawriter](/f42/package/mediawriter) | 275 | 836 | 32.9 | Albanian <https://translate.fedoraproject.org/projects/fedora-media-writer/mediawriter/sq/> | 
+ | [audacious-plugins](/f42/package/audacious-plugins) | 1430 | 4425 | 32.3 | Albanian (http://app.transifex.com/audacious/audacious/language/sq/) | 
+ | [dasher](/f42/package/dasher) | 410 | 1292 | 31.7 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [cinnamon-translations](/f42/package/cinnamon-translations) | 7065 | 22382 | 31.6 | sq | 
+ | [lightdm-gtk](/f42/package/lightdm-gtk) | 28 | 89 | 31.5 | Albanian <sq@li.org> | 
+ | [kf5-kconfigwidgets](/f42/package/kf5-kconfigwidgets) | 107 | 342 | 31.3 | Albanian <sq@li.org> | 
+ | [initial-setup](/f42/package/initial-setup) | 33 | 106 | 31.1 | Albanian | 
+ | [pluma](/f42/package/pluma) | 4075 | 13113 | 31.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kf5-kimap](/f42/package/kf5-kimap) | 36 | 118 | 30.5 | Albanian <sq@li.org> | 
+ | [kimap](/f42/package/kimap) | 36 | 118 | 30.5 | Albanian <sq@li.org> | 
+ | [klines](/f42/package/klines) | 30 | 99 | 30.3 | Albanian <sq@li.org> | 
+ | [kf6-kwidgetsaddons](/f42/package/kf6-kwidgetsaddons) | 386 | 1277 | 30.2 | sq | 
+ | [gnome-keyring](/f42/package/gnome-keyring) | 148 | 490 | 30.2 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-klotski](/f42/package/gnome-klotski) | 58 | 194 | 29.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [supertux](/f42/package/supertux) | 840 | 2866 | 29.3 | Albanian (http://www.transifex.com/arctic-games/supertux/language/sq/) | 
+ | [plank](/f42/package/plank) | 55 | 189 | 29.1 | Albanian <sq@li.org> | 
+ | [kf5-kparts](/f42/package/kf5-kparts) | 40 | 138 | 29.0 | Albanian <sq@li.org> | 
+ | [blueman](/f42/package/blueman) | 685 | 2365 | 29.0 | Albanian <https://hosted.weblate.org/projects/blueman/blueman/sq/> | 
+ | [kf5-libkdepim](/f42/package/kf5-libkdepim) | 10 | 35 | 28.6 | Albanian <sq@li.org> | 
+ | [gstreamer1](/f42/package/gstreamer1) | 633 | 2223 | 28.5 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [mingw-gstreamer1](/f42/package/mingw-gstreamer1) | 633 | 2223 | 28.5 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [mate-session-manager](/f42/package/mate-session-manager) | 204 | 717 | 28.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [konqueror](/f42/package/konqueror) | 1958 | 6960 | 28.1 | Albanian <sq@li.org> | 
+ | [kspaceduel](/f42/package/kspaceduel) | 46 | 165 | 27.9 | Albanian <sq@li.org> | 
+ | [kmenuedit](/f42/package/kmenuedit) | 86 | 314 | 27.4 | Albanian <sq@li.org> | 
+ | [tuxpaint-stamps](/f42/package/tuxpaint-stamps) | 883 | 3249 | 27.2 | Albanian <sq@li.org> | 
+ | [gdm](/f42/package/gdm) | 175 | 650 | 26.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf5-kpty](/f42/package/kf5-kpty) | 4 | 15 | 26.7 | Albanian <sq@li.org> | 
+ | [kf6-kpty](/f42/package/kf6-kpty) | 4 | 15 | 26.7 | Albanian <sq@li.org> | 
+ | [kdiamond](/f42/package/kdiamond) | 33 | 124 | 26.6 | Albanian <sq@li.org> | 
+ | [gramps](/f42/package/gramps) | 10899 | 41201 | 26.5 | Albanian <https://hosted.weblate.org/projects/gramps-project/gramps/sq/> | 
+ | [gthumb](/f42/package/gthumb) | 687 | 2605 | 26.4 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mate-control-center](/f42/package/mate-control-center) | 2119 | 8260 | 25.7 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [atril](/f42/package/atril) | 1106 | 4364 | 25.3 | Albanian (https://www.transifex.com/mate/teams/13566/sq/) | 
+ | [gnome-nibbles](/f42/package/gnome-nibbles) | 111 | 447 | 24.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kollision](/f42/package/kollision) | 27 | 109 | 24.8 | Albanian <sq@li.org> | 
+ | [lightdm](/f42/package/lightdm) | 39 | 163 | 23.9 | Albanian <sq@li.org> | 
+ | [libkdegames](/f42/package/libkdegames) | 75 | 316 | 23.7 | Albanian <sq@li.org> | 
+ | [kanagram](/f42/package/kanagram) | 125 | 527 | 23.7 | Albanian <sq@li.org> | 
+ | [kf6-kconfigwidgets](/f42/package/kf6-kconfigwidgets) | 73 | 312 | 23.4 | Albanian <sq@li.org> | 
+ | [kmines](/f42/package/kmines) | 38 | 164 | 23.2 | Albanian <sq@li.org> | 
+ | [bookworm](/f42/package/bookworm) | 183 | 795 | 23.0 | Albanian <https://hosted.weblate.org/projects/bookworm/bookworm/sq/> | 
+ | [kcron](/f42/package/kcron) | 100 | 436 | 22.9 | Albanian <sq@li.org> | 
+ | [kf6-kwallet](/f42/package/kf6-kwallet) | 242 | 1060 | 22.8 | Albanian <sq@li.org> | 
+ | [kf5-knotifyconfig](/f42/package/kf5-knotifyconfig) | 29 | 129 | 22.5 | Albanian <sq@li.org> | 
+ | [kblocks](/f42/package/kblocks) | 35 | 157 | 22.3 | Albanian <sq@li.org> | 
+ | [anjuta](/f42/package/anjuta) | 1559 | 7163 | 21.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-do](/f42/package/gnome-do) | 132 | 612 | 21.6 | Albanian <sq@li.org> | 
+ | [kpat](/f42/package/kpat) | 127 | 589 | 21.6 | Albanian <sq@li.org> | 
+ | [rhythmbox-alternative-toolbar](/f42/package/rhythmbox-alternative-toolbar) | 62 | 291 | 21.3 | Albanian <sq@li.org> | 
+ | [elementary-files](/f42/package/elementary-files) | 563 | 2656 | 21.2 | sq | 
+ | [kf5-kwallet](/f42/package/kf5-kwallet) | 280 | 1335 | 21.0 | sq | 
+ | [mate-media](/f42/package/mate-media) | 51 | 244 | 20.9 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kf5-akonadi-server](/f42/package/kf5-akonadi-server) | 15 | 72 | 20.8 | Albanian <sq@li.org> | 
+ | [lskat](/f42/package/lskat) | 54 | 266 | 20.3 | Albanian <sq@li.org> | 
+ | [kdesdk-kioslaves](/f42/package/kdesdk-kioslaves) | 17 | 84 | 20.2 | Albanian <sq@li.org> | 
+ | [kf5-kxmlgui](/f42/package/kf5-kxmlgui) | 317 | 1574 | 20.1 | Albanian <sq@li.org> | 
+ | [kf5-kdelibs4support](/f42/package/kf5-kdelibs4support) | 1065 | 5353 | 19.9 | kdeshqip | 
+ | [kde-cli-tools](/f42/package/kde-cli-tools) | 319 | 1610 | 19.8 | Albanian <sq@li.org> | 
+ | [ksquares](/f42/package/ksquares) | 58 | 293 | 19.8 | Albanian <sq@li.org> | 
+ | [plasma-workspace](/f42/package/plasma-workspace) | 1257 | 6400 | 19.6 | Albanian <sq@li.org> | 
+ | [plasma-workspace-x11](/f42/package/plasma-workspace-x11) | 1257 | 6400 | 19.6 | Albanian <sq@li.org> | 
+ | [akonadi-server](/f42/package/akonadi-server) | 15 | 77 | 19.5 | Albanian <sq@li.org> | 
+ | [orca](/f42/package/orca) | 485 | 2498 | 19.4 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [picard](/f42/package/picard) | 3429 | 17724 | 19.3 | Albanian <https://translations.metabrainz.org/projects/picard/2/app/sq/> | 
+ | [caja-extensions](/f42/package/caja-extensions) | 161 | 845 | 19.1 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kblackbox](/f42/package/kblackbox) | 259 | 1364 | 19.0 | Albanian <sq@li.org> | 
+ | [knotes](/f42/package/knotes) | 114 | 601 | 19.0 | Albanian <sq@li.org> | 
+ | [kbrickbuster](/f42/package/kbrickbuster) | 29 | 158 | 18.4 | Albanian <sq@li.org> | 
+ | [kldap](/f42/package/kldap) | 33 | 182 | 18.1 | Albanian <sq@li.org> | 
+ | [kf5-kldap](/f42/package/kf5-kldap) | 35 | 194 | 18.0 | Albanian <sq@li.org> | 
+ | [elementary-screenshot](/f42/package/elementary-screenshot) | 23 | 128 | 18.0 | LANGUAGE <LL@li.org> | 
+ | [drgeo](/f42/package/drgeo) | 356 | 1985 | 17.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [khelpcenter](/f42/package/khelpcenter) | 39 | 221 | 17.6 | Albanian <sq@li.org> | 
+ | [ktuberling](/f42/package/ktuberling) | 27 | 158 | 17.1 | Albanian <sq@li.org> | 
+ | [mate-settings-daemon](/f42/package/mate-settings-daemon) | 365 | 2203 | 16.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [mate-utils](/f42/package/mate-utils) | 1634 | 9901 | 16.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [krdc](/f42/package/krdc) | 195 | 1205 | 16.2 | Albanian <sq@li.org> | 
+ | [kcalc](/f42/package/kcalc) | 180 | 1115 | 16.1 | Albanian <sq@li.org> | 
+ | [bovo](/f42/package/bovo) | 13 | 82 | 15.9 | Albanian <sq@li.org> | 
+ | [libpwquality](/f42/package/libpwquality) | 54 | 345 | 15.7 | Albanian | 
+ | [kio-extras-kf5](/f42/package/kio-extras-kf5) | 149 | 954 | 15.6 | Albanian <sq@li.org> | 
+ | [konquest](/f42/package/konquest) | 38 | 248 | 15.3 | Albanian <sq@li.org> | 
+ | [gstreamer1-plugins-bad-free](/f42/package/gstreamer1-plugins-bad-free) | 30 | 197 | 15.2 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f42/package/mingw-gstreamer1-plugins-bad-free) | 30 | 197 | 15.2 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [kreversi](/f42/package/kreversi) | 61 | 404 | 15.1 | Albanian <sq@li.org> | 
+ | [calligra](/f42/package/calligra) | 100 | 668 | 15.0 | Albanian <sq@li.org> | 
+ | [mate-applets](/f42/package/mate-applets) | 2354 | 16106 | 14.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [okular](/f42/package/okular) | 236 | 1615 | 14.6 | Albanian <sq@li.org> | 
+ | [kf5-kbookmarks](/f42/package/kf5-kbookmarks) | 33 | 230 | 14.3 | sq | 
+ | [gnome-system-log](/f42/package/gnome-system-log) | 74 | 522 | 14.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kget](/f42/package/kget) | 389 | 2767 | 14.1 | Albanian <sq@li.org> | 
+ | [keditbookmarks](/f42/package/keditbookmarks) | 66 | 470 | 14.0 | Albanian <sq@li.org> | 
+ | [dolphin](/f42/package/dolphin) | 948 | 6800 | 13.9 | sq | 
+ | [kf5-kauth](/f42/package/kf5-kauth) | 10 | 73 | 13.7 | Albanian <sq@li.org> | 
+ | [engrampa](/f42/package/engrampa) | 1065 | 7815 | 13.6 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [sweeper](/f42/package/sweeper) | 31 | 228 | 13.6 | Albanian <sq@li.org> | 
+ | [gnome-screenshot](/f42/package/gnome-screenshot) | 43 | 319 | 13.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kfind](/f42/package/kfind) | 68 | 517 | 13.2 | Albanian <sq@li.org> | 
+ | [kwalletmanager5](/f42/package/kwalletmanager5) | 108 | 828 | 13.0 | Albanian <sq@li.org> | 
+ | [gnome-mahjongg](/f42/package/gnome-mahjongg) | 39 | 304 | 12.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [avogadro2](/f42/package/avogadro2) | 59 | 461 | 12.8 | Albanian <https://hosted.weblate.org/projects/avogadro/avogadroapp/sq/> | 
+ | [ktimer](/f42/package/ktimer) | 32 | 258 | 12.4 | Albanian <sq@li.org> | 
+ | [kmousetool](/f42/package/kmousetool) | 18 | 147 | 12.2 | Albanian <sq@li.org> | 
+ | [elementary-camera](/f42/package/elementary-camera) | 17 | 141 | 12.1 | Albanian <sq@li.org> | 
+ | [mate-system-monitor](/f42/package/mate-system-monitor) | 579 | 4894 | 11.8 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kinfocenter](/f42/package/kinfocenter) | 19 | 162 | 11.7 | Albanian <sq@li.org> | 
+ | [nicotine+](/f42/package/nicotine+) | 590 | 5038 | 11.7 | Albanian <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/sq/> | 
+ | [kjumpingcube](/f42/package/kjumpingcube) | 48 | 413 | 11.6 | Albanian <sq@li.org> | 
+ | [kf5-kservice](/f42/package/kf5-kservice) | 20 | 173 | 11.6 | Albanian <sq@li.org> | 
+ | [ksnakeduel](/f42/package/ksnakeduel) | 28 | 243 | 11.5 | Albanian <sq@li.org> | 
+ | [gnome-tetravex](/f42/package/gnome-tetravex) | 25 | 220 | 11.4 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [ark](/f42/package/ark) | 217 | 1982 | 10.9 | sq | 
+ | [sudo](/f42/package/sudo) | 166 | 1536 | 10.8 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [wingpanel](/f42/package/wingpanel) | 6 | 57 | 10.5 | LANGUAGE <LL@li.org> | 
+ | [gnome-mines](/f42/package/gnome-mines) | 36 | 344 | 10.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [plasma-sdk](/f42/package/plasma-sdk) | 38 | 371 | 10.2 | Albanian <sq@li.org> | 
+ | [kmag](/f42/package/kmag) | 44 | 432 | 10.2 | Albanian <sq@li.org> | 
+ | [kruler](/f42/package/kruler) | 16 | 158 | 10.1 | Albanian <sq@li.org> | 
+ | [kmahjongg](/f42/package/kmahjongg) | 36 | 359 | 10.0 | Albanian <sq@li.org> | 
+ | [mailman3](/f42/package/mailman3) | 480 | 4830 | 9.9 | Albanian <https://hosted.weblate.org/projects/gnu-mailman/mailman/sq/> | 
+ | [kf5-kcmutils](/f42/package/kf5-kcmutils) | 26 | 266 | 9.8 | Albanian <sq@li.org> | 
+ | [klettres](/f42/package/klettres) | 43 | 440 | 9.8 | Albanian <sq@li.org> | 
+ | [gwenview](/f42/package/gwenview) | 203 | 2091 | 9.7 | Albanian <sq@li.org> | 
+ | [kolf](/f42/package/kolf) | 39 | 405 | 9.6 | Albanian <sq@li.org> | 
+ | [kf5-ktnef](/f42/package/kf5-ktnef) | 34 | 355 | 9.6 | Albanian <sq@li.org> | 
+ | [ktnef](/f42/package/ktnef) | 34 | 355 | 9.6 | Albanian <sq@li.org> | 
+ | [libreoffice](/f42/package/libreoffice) | 73924 | 773628 | 9.6 | Albanian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/sq/> | 
+ | [colord](/f42/package/colord) | 185 | 1966 | 9.4 | Albanian (https://app.transifex.com/freedesktop/teams/12151/sq/) | 
+ | [pluma-plugins](/f42/package/pluma-plugins) | 131 | 1405 | 9.3 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kiten](/f42/package/kiten) | 58 | 651 | 8.9 | Albanian <sq@li.org> | 
+ | [granite](/f42/package/granite) | 43 | 498 | 8.6 | Albanian <sq@li.org> | 
+ | [vlc](/f42/package/vlc) | 3006 | 34814 | 8.6 | Albanian (https://app.transifex.com/yaron/teams/16553/sq/) | 
+ | [sugar-turtleart](/f42/package/sugar-turtleart) | 125 | 1459 | 8.6 | LANGUAGE <LL@li.org> | 
+ | [kapptemplate](/f42/package/kapptemplate) | 19 | 226 | 8.4 | Albanian <sq@li.org> | 
+ | [iso-codes](/f42/package/iso-codes) | 1985 | 23809 | 8.3 | Albanian <https://hosted.weblate.org/projects/iso-codes/iso-15924/sq/> | 
+ | [kdeplasma-addons](/f42/package/kdeplasma-addons) | 119 | 1431 | 8.3 | sq | 
+ | [swell-foop](/f42/package/swell-foop) | 22 | 266 | 8.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [godot3](/f42/package/godot3) | 1849 | 22592 | 8.2 | Albanian <https://hosted.weblate.org/projects/godot-engine/godot/sq/> | 
+ | [gala](/f42/package/gala) | 26 | 319 | 8.2 | Albanian <https://l10n.elementary.io/projects/desktop/gala/sq/> | 
+ | [libexif](/f42/package/libexif) | 637 | 7825 | 8.1 | Albanian <sq@li.org> | 
+ | [knetwalk](/f42/package/knetwalk) | 19 | 236 | 8.1 | Albanian <sq@li.org> | 
+ | [iagno](/f42/package/iagno) | 25 | 322 | 7.8 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [quassel](/f42/package/quassel) | 627 | 8362 | 7.5 | Albanian (http://www.transifex.com/quassel/quassel/language/sq/) | 
+ | [juk](/f42/package/juk) | 108 | 1452 | 7.4 | Albanian <sq@li.org> | 
+ | [kwordquiz](/f42/package/kwordquiz) | 19 | 258 | 7.4 | Albanian <sq@li.org> | 
+ | [kf5-knewstuff](/f42/package/kf5-knewstuff) | 120 | 1631 | 7.4 | Albanian <sq@li.org> | 
+ | [mate-power-manager](/f42/package/mate-power-manager) | 372 | 5123 | 7.3 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kfloppy](/f42/package/kfloppy) | 46 | 641 | 7.2 | Albanian <sq@li.org> | 
+ | [ktorrent](/f42/package/ktorrent) | 539 | 7525 | 7.2 | Albanian <sq@li.org> | 
+ | [python-blivet](/f42/package/python-blivet) | 43 | 605 | 7.1 | Albanian (http://www.transifex.com/projects/p/blivet/language/sq/) | 
+ | [kmix](/f42/package/kmix) | 79 | 1159 | 6.8 | Albanian <sq@li.org> | 
+ | [kamera](/f42/package/kamera) | 18 | 267 | 6.7 | Albanian <sq@li.org> | 
+ | [firewalld](/f42/package/firewalld) | 140 | 2083 | 6.7 | Albanian | 
+ | [pastebinit](/f42/package/pastebinit) | 13 | 195 | 6.7 | Albanian <sq@li.org> | 
+ | [mate-calc](/f42/package/mate-calc) | 215 | 3327 | 6.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kdepim-runtime](/f42/package/kdepim-runtime) | 130 | 2062 | 6.3 | Albanian <sq@li.org> | 
+ | [kshisen](/f42/package/kshisen) | 42 | 667 | 6.3 | Albanian <sq@li.org> | 
+ | [kdialog](/f42/package/kdialog) | 25 | 403 | 6.2 | Albanian <sq@li.org> | 
+ | [kcachegrind](/f42/package/kcachegrind) | 70 | 1143 | 6.1 | Albanian <sq@li.org> | 
+ | [cervisia](/f42/package/cervisia) | 96 | 1615 | 5.9 | Albanian <sq@li.org> | 
+ | [elementary-photos](/f42/package/elementary-photos) | 169 | 2862 | 5.9 | Albanian <sq@li.org> | 
+ | [plasma-desktop](/f42/package/plasma-desktop) | 229 | 3896 | 5.9 | Albanian <sq@li.org> | 
+ | [kompare](/f42/package/kompare) | 83 | 1413 | 5.9 | Albanian <sq@li.org> | 
+ | [kate](/f42/package/kate) | 254 | 4378 | 5.8 | Albanian <sq@li.org> | 
+ | [parley](/f42/package/parley) | 198 | 3433 | 5.8 | Albanian <sq@li.org> | 
+ | [umbrello](/f42/package/umbrello) | 328 | 5715 | 5.7 | sq | 
+ | [dia](/f42/package/dia) | 326 | 5711 | 5.7 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libkdepim](/f42/package/libkdepim) | 2 | 36 | 5.6 | Albanian <sq@li.org> | 
+ | [kolourpaint](/f42/package/kolourpaint) | 147 | 2661 | 5.5 | kdeshqip | 
+ | [kio-extras](/f42/package/kio-extras) | 145 | 2689 | 5.4 | Albanian <sq@li.org> | 
+ | [elementary-code](/f42/package/elementary-code) | 118 | 2228 | 5.3 | Albanian <sq@li.org> | 
+ | [plasma-systemsettings](/f42/package/plasma-systemsettings) | 7 | 133 | 5.3 | Albanian <sq@li.org> | 
+ | [powerdevil](/f42/package/powerdevil) | 45 | 862 | 5.2 | Albanian <sq@li.org> | 
+ | [remmina](/f42/package/remmina) | 272 | 5407 | 5.0 | Albanian <https://hosted.weblate.org/projects/remmina/remmina/sq/> | 
+ | [konsole](/f42/package/konsole) | 215 | 4282 | 5.0 | sq | 
+ | [libksysguard](/f42/package/libksysguard) | 30 | 602 | 5.0 | Albanian <sq@li.org> | 
+ | [amarok](/f42/package/amarok) | 711 | 14307 | 5.0 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [kf5-kdeclarative](/f42/package/kf5-kdeclarative) | 8 | 161 | 5.0 | Albanian <kde-i18n-doc@kde.org> | 
+ | [elementary-music](/f42/package/elementary-music) | 11 | 231 | 4.8 | Albanian <sq@li.org> | 
+ | [audacity](/f42/package/audacity) | 1769 | 37276 | 4.7 | Albanian (https://app.transifex.com/audacity/teams/164520/sq/) | 
+ | [stellarium](/f42/package/stellarium) | 7191 | 155148 | 4.6 | Albanian (https://app.transifex.com/stellarium/teams/80998/sq/) | 
+ | [elementary-mail](/f42/package/elementary-mail) | 38 | 861 | 4.4 | Albanian <sq@li.org> | 
+ | [mingw-libcharset](/f42/package/mingw-libcharset) | 15 | 342 | 4.4 | Albanian <translation-team-sq@lists.sourceforge.net> | 
+ | [akonadi-calendar-tools](/f42/package/akonadi-calendar-tools) | 20 | 458 | 4.4 | Albanian <sq@li.org> | 
+ | [kmouth](/f42/package/kmouth) | 64 | 1474 | 4.3 | Albanian <sq@li.org> | 
+ | [baobab](/f42/package/baobab) | 23 | 540 | 4.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf6-kdeclarative](/f42/package/kf6-kdeclarative) | 7 | 169 | 4.1 | Albanian <sq@li.org> | 
+ | [step](/f42/package/step) | 77 | 1897 | 4.1 | Albanian <sq@li.org> | 
+ | [wingpanel-indicator-datetime](/f42/package/wingpanel-indicator-datetime) | 4 | 103 | 3.9 | LANGUAGE <LL@li.org> | 
+ | [kgpg](/f42/package/kgpg) | 189 | 4912 | 3.8 | Albanian <sq@li.org> | 
+ | [lokalize](/f42/package/lokalize) | 151 | 4086 | 3.7 | sq | 
+ | [kf5-kipi-plugins](/f42/package/kf5-kipi-plugins) | 78 | 2115 | 3.7 | Albanian <sq@li.org> | 
+ | [k3b](/f42/package/k3b) | 719 | 20145 | 3.6 | Albanian <sq@li.org> | 
+ | [dragon](/f42/package/dragon) | 6 | 170 | 3.5 | Albanian <sq@li.org> | 
+ | [gnome-commander](/f42/package/gnome-commander) | 261 | 7896 | 3.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf5-kidentitymanagement](/f42/package/kf5-kidentitymanagement) | 6 | 182 | 3.3 | Albanian <sq@li.org> | 
+ | [mate-sensors-applet](/f42/package/mate-sensors-applet) | 70 | 2160 | 3.2 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [krfb](/f42/package/krfb) | 23 | 734 | 3.1 | Albanian <sq@li.org> | 
+ | [kstars](/f42/package/kstars) | 1961 | 64693 | 3.0 | kdeshqip | 
+ | [kf5-kio](/f42/package/kf5-kio) | 362 | 12037 | 3.0 | Albanian <sq@li.org> | 
+ | [kpimtextedit](/f42/package/kpimtextedit) | 8 | 274 | 2.9 | Albanian <sq@li.org> | 
+ | [gftp](/f42/package/gftp) | 89 | 3104 | 2.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [light-locker](/f42/package/light-locker) | 7 | 260 | 2.7 | Albanian (http://www.transifex.com/the_cavalry/light-locker/language/sq/) | 
+ | [kf5-kpimtextedit](/f42/package/kf5-kpimtextedit) | 10 | 382 | 2.6 | Albanian <sq@li.org> | 
+ | [gnome-dictionary](/f42/package/gnome-dictionary) | 21 | 833 | 2.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [wingpanel-indicator-bluetooth](/f42/package/wingpanel-indicator-bluetooth) | 2 | 80 | 2.5 | Albanian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/sq/> | 
+ | [granite-7](/f42/package/granite-7) | 14 | 596 | 2.3 | Albanian <sq@li.org> | 
+ | [kaffeine](/f42/package/kaffeine) | 33 | 1425 | 2.3 | Albanian <sq@li.org> | 
+ | [mate-user-admin](/f42/package/mate-user-admin) | 14 | 605 | 2.3 | Albanian (https://www.transifex.com/mate/teams/13566/sq/) | 
+ | [kidentitymanagement](/f42/package/kidentitymanagement) | 6 | 260 | 2.3 | Albanian <sq@li.org> | 
+ | [kopete](/f42/package/kopete) | 388 | 17175 | 2.3 | Albanian <sq@li.org> | 
+ | [kf5-libkleo](/f42/package/kf5-libkleo) | 54 | 2423 | 2.2 | Albanian <sq@li.org> | 
+ | [avogadro2-libs](/f42/package/avogadro2-libs) | 126 | 5676 | 2.2 | Albanian <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sq/> | 
+ | [kwin-x11](/f42/package/kwin-x11) | 119 | 5586 | 2.1 | Albanian <sq@li.org> | 
+ | [shutter](/f42/package/shutter) | 51 | 2448 | 2.1 | Albanian <sq@li.org> | 
+ | [lightsoff](/f42/package/lightsoff) | 2 | 97 | 2.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kwin](/f42/package/kwin) | 114 | 5786 | 2.0 | Albanian <sq@li.org> | 
+ | [dnf](/f42/package/dnf) | 91 | 4718 | 1.9 | Albanian | 
+ | [redhat-menus](/f42/package/redhat-menus) | 5 | 261 | 1.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf5-kmime](/f42/package/kf5-kmime) | 3 | 159 | 1.9 | Albanian <sq@li.org> | 
+ | [gcr](/f42/package/gcr) | 11 | 622 | 1.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gcr3](/f42/package/gcr3) | 11 | 622 | 1.8 | albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [konsole5](/f42/package/konsole5) | 70 | 3996 | 1.8 | kdeshqip | 
+ | [cinnamon-desktop](/f42/package/cinnamon-desktop) | 4 | 234 | 1.7 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kf6-kcmutils](/f42/package/kf6-kcmutils) | 2 | 123 | 1.6 | Albanian <sq@li.org> | 
+ | [kontact](/f42/package/kontact) | 8 | 495 | 1.6 | Albanian <sq@li.org> | 
+ | [anaconda-webui](/f42/package/anaconda-webui) | 21 | 1345 | 1.6 | Albanian <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/sq/> | 
+ | [supertuxkart](/f42/package/supertuxkart) | 89 | 5943 | 1.5 | Albanian (http://app.transifex.com/supertuxkart/supertuxkart/language/sq/) | 
+ | [calibre](/f42/package/calibre) | 2751 | 185489 | 1.5 | Albanian (http://app.transifex.com/calibre/calibre/language/sq/) | 
+ | [plasma-oxygen](/f42/package/plasma-oxygen) | 9 | 615 | 1.5 | Albanian <sq@li.org> | 
+ | [gnome-chess](/f42/package/gnome-chess) | 20 | 1390 | 1.4 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [terminator](/f42/package/terminator) | 21 | 1522 | 1.4 | Albanian (https://www.transifex.com/terminator/teams/109338/sq/) | 
+ | [libkleo](/f42/package/libkleo) | 41 | 3034 | 1.4 | Albanian <sq@li.org> | 
+ | [libgedit-gtksourceview](/f42/package/libgedit-gtksourceview) | 4 | 319 | 1.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gnome-sudoku](/f42/package/gnome-sudoku) | 5 | 399 | 1.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gtksourceview3](/f42/package/gtksourceview3) | 4 | 322 | 1.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [mingw-gtksourceview3](/f42/package/mingw-gtksourceview3) | 4 | 322 | 1.2 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-good](/f42/package/gstreamer1-plugins-good) | 10 | 825 | 1.2 | Albanian <begraj@hotmail.com> | 
+ | [mingw-gstreamer1-plugins-good](/f42/package/mingw-gstreamer1-plugins-good) | 10 | 825 | 1.2 | Albanian <begraj@hotmail.com> | 
+ | [R](/f42/package/R) | 163 | 14862 | 1.1 |  | 
+ | [kbruch](/f42/package/kbruch) | 14 | 1347 | 1.0 | Albanian <sq@li.org> | 
+ | [pingus](/f42/package/pingus) | 54 | 5395 | 1.0 | Albanian <sq@li.org> | 
+ | [caja-actions](/f42/package/caja-actions) | 188 | 18812 | 1.0 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [exaile](/f42/package/exaile) | 44 | 4690 | 0.9 | Albanian <https://hosted.weblate.org/projects/exaile/master/sq/> | 
+ | [genius](/f42/package/genius) | 79 | 8610 | 0.9 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [plasma-drkonqi](/f42/package/plasma-drkonqi) | 18 | 1981 | 0.9 | Albanian <sq@li.org> | 
+ | [kf5-kjsembed](/f42/package/kf5-kjsembed) | 2 | 248 | 0.8 | Albanian <sq@li.org> | 
+ | [kleopatra](/f42/package/kleopatra) | 106 | 13218 | 0.8 | Albanian <sq@li.org> | 
+ | [kexi](/f42/package/kexi) | 58 | 7340 | 0.8 | Albanian <sq@li.org> | 
+ | [ibus](/f42/package/ibus) | 20 | 2654 | 0.8 | Albanian | 
+ | [gstreamer1-plugins-base](/f42/package/gstreamer1-plugins-base) | 8 | 1094 | 0.7 | Albanian <begraj@hotmail.com> | 
+ | [mingw-gstreamer1-plugins-base](/f42/package/mingw-gstreamer1-plugins-base) | 8 | 1094 | 0.7 | Albanian <begraj@hotmail.com> | 
+ | [kf5-ktexteditor](/f42/package/kf5-ktexteditor) | 67 | 9233 | 0.7 | Albanian <sq@li.org> | 
+ | [pinta](/f42/package/pinta) | 12 | 1746 | 0.7 | Albanian <sq@li.org> | 
+ | [kf6-ktexteditor](/f42/package/kf6-ktexteditor) | 65 | 9463 | 0.7 | Albanian <sq@li.org> | 
+ | [android-tools](/f42/package/android-tools) | 41 | 6028 | 0.7 | Albanian | 
+ | [policycoreutils](/f42/package/policycoreutils) | 41 | 6117 | 0.7 | Albanian | 
+ | [dnf-plugins-core](/f42/package/dnf-plugins-core) | 14 | 2137 | 0.7 | Albanian <https://translate.fedoraproject.org/projects/dnf/dnf-plugins-core-l10n-master/sq/> | 
+ | [kalzium](/f42/package/kalzium) | 58 | 9087 | 0.6 | Albanian <sq@li.org> | 
+ | [kig](/f42/package/kig) | 45 | 7457 | 0.6 | Albanian <sq@li.org> | 
+ | [python-apt](/f42/package/python-apt) | 3 | 544 | 0.6 | Albanian <sq@li.org> | 
+ | [mate-user-guide](/f42/package/mate-user-guide) | 233 | 42973 | 0.5 | Albanian (https://app.transifex.com/mate/teams/13566/sq/) | 
+ | [kalarm](/f42/package/kalarm) | 45 | 8539 | 0.5 | Albanian <sq@li.org> | 
+ | [snapd](/f42/package/snapd) | 22 | 4307 | 0.5 | Albanian <sq@li.org> | 
+ | [digikam](/f42/package/digikam) | 322 | 63466 | 0.5 | sq | 
+ | [shadow-utils](/f42/package/shadow-utils) | 24 | 4790 | 0.5 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [palapeli](/f42/package/palapeli) | 7 | 1525 | 0.5 | Albanian <sq@li.org> | 
+ | [kf6-knewstuff](/f42/package/kf6-knewstuff) | 4 | 1034 | 0.4 | Albanian <sq@li.org> | 
+ | [korganizer](/f42/package/korganizer) | 29 | 8057 | 0.4 | Albanian <sq@li.org> | 
+ | [kaddressbook](/f42/package/kaddressbook) | 4 | 1148 | 0.3 | Albanian <sq@li.org> | 
+ | [libcryptui](/f42/package/libcryptui) | 7 | 2304 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [seahorse](/f42/package/seahorse) | 7 | 2304 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [kgoldrunner](/f42/package/kgoldrunner) | 83 | 28047 | 0.3 | Albanian <sq@li.org> | 
+ | [kmail](/f42/package/kmail) | 22 | 8348 | 0.3 | Albanian <sq@li.org> | 
+ | [libgda](/f42/package/libgda) | 28 | 11142 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libgda5](/f42/package/libgda5) | 28 | 11142 | 0.3 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [konversation](/f42/package/konversation) | 26 | 10405 | 0.2 | Albanian <sq@li.org> | 
+ | [mypaint](/f42/package/mypaint) | 14 | 6381 | 0.2 | Albanian <https://hosted.weblate.org/projects/mypaint/mypaint/sq/> | 
+ | [mailimporter](/f42/package/mailimporter) | 3 | 1405 | 0.2 | Albanian <sq@li.org> | 
+ | [kf5-mailimporter](/f42/package/kf5-mailimporter) | 3 | 1408 | 0.2 | Albanian <sq@li.org> | 
+ | [krita](/f42/package/krita) | 76 | 36174 | 0.2 | Albanian <sq@li.org> | 
+ | [calendarsupport](/f42/package/calendarsupport) | 4 | 2759 | 0.1 | Albanian <sq@li.org> | 
+ | [kf5-calendarsupport](/f42/package/kf5-calendarsupport) | 4 | 2779 | 0.1 | Albanian <sq@li.org> | 
+ | [libdnf](/f42/package/libdnf) | 2 | 1664 | 0.1 | Albanian | 
+ | [rpm-ostree](/f42/package/rpm-ostree) | 2 | 1664 | 0.1 | Albanian | 
+ | [inkscape](/f42/package/inkscape) | 60 | 51528 | 0.1 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libmypaint](/f42/package/libmypaint) | 2 | 2303 | 0.1 | Albanian <https://hosted.weblate.org/projects/mypaint/libmypaint/sq/> | 
+ | [kf5-libksieve](/f42/package/kf5-libksieve) | 2 | 3122 | 0.1 | Albanian <sq@li.org> | 
+ | [libksieve](/f42/package/libksieve) | 2 | 3134 | 0.1 | Albanian <sq@li.org> | 
+ | [network-manager-applet](/f42/package/network-manager-applet) | 2 | 4439 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [NetworkManager](/f42/package/NetworkManager) | 0 | 29194 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [Zim](/f42/package/Zim) | 0 | 3529 | 0.0 | none | 
+ | [accountsservice](/f42/package/accountsservice) | 0 | 59 | 0.0 | Albanian (http://www.transifex.com/freedesktop/accountsservice/language/sq/) | 
+ | [cpeditor](/f42/package/cpeditor) | 0 | 647 | 0.0 | Albanian <sq@li.org> | 
+ | [dippi](/f42/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-icon-theme](/f42/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f42/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-onboarding](/f42/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-settings-daemon](/f42/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [fonts-tweak-tool](/f42/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Albanian | 
+ | [fprintd](/f42/package/fprintd) | 0 | 433 | 0.0 | Albanian (http://www.transifex.com/freedesktop/fprintd/language/sq/) | 
+ | [gnome-font-viewer](/f42/package/gnome-font-viewer) | 0 | 32 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [homebank](/f42/package/homebank) | 0 | 3298 | 0.0 | Albanian <sq@li.org> | 
+ | [imsettings](/f42/package/imsettings) | 0 | 500 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kdenetwork-filesharing](/f42/package/kdenetwork-filesharing) | 0 | 927 | 0.0 | Albanian <sq@li.org> | 
+ | [kdepim-addons](/f42/package/kdepim-addons) | 0 | 881 | 0.0 | Albanian <sq@li.org> | 
+ | [kdump-anaconda-addon](/f42/package/kdump-anaconda-addon) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kf5-kcodecs](/f42/package/kf5-kcodecs) | 0 | 370 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-kcompletion](/f42/package/kf5-kcompletion) | 0 | 18 | 0.0 | Albanian <kde-i18n-doc@kde.org> | 
+ | [kf5-kconfig](/f42/package/kf5-kconfig) | 0 | 289 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-kcoreaddons](/f42/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-kdesignerplugin](/f42/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-kdnssd](/f42/package/kf5-kdnssd) | 0 | 3 | 0.0 | Albanian <kde-i18n-doc@kde.org> | 
+ | [kf5-kglobalaccel](/f42/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-kjobwidgets](/f42/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-kwidgetsaddons](/f42/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-sonnet](/f42/package/kf5-sonnet) | 0 | 683 | 0.0 | Albanian <sq@li.org> | 
+ | [kf5-syntax-highlighting](/f42/package/kf5-syntax-highlighting) | 0 | 647 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kauth](/f42/package/kf6-kauth) | 0 | 73 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kbookmarks](/f42/package/kf6-kbookmarks) | 0 | 179 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kcodecs](/f42/package/kf6-kcodecs) | 0 | 370 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kcompletion](/f42/package/kf6-kcompletion) | 0 | 18 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kconfig](/f42/package/kf6-kconfig) | 0 | 550 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kdnssd](/f42/package/kf6-kdnssd) | 0 | 3 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kglobalaccel](/f42/package/kf6-kglobalaccel) | 0 | 34 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kiconthemes](/f42/package/kf6-kiconthemes) | 0 | 46 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kitemviews](/f42/package/kf6-kitemviews) | 0 | 6 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-kjobwidgets](/f42/package/kf6-kjobwidgets) | 0 | 139 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-knotifications](/f42/package/kf6-knotifications) | 0 | 0 | 0.0 | kdeshqip | 
+ | [kf6-kservice](/f42/package/kf6-kservice) | 0 | 45 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-sonnet](/f42/package/kf6-sonnet) | 0 | 684 | 0.0 | Albanian <sq@li.org> | 
+ | [kf6-syntax-highlighting](/f42/package/kf6-syntax-highlighting) | 0 | 735 | 0.0 | Albanian <sq@li.org> | 
+ | [kmime](/f42/package/kmime) | 0 | 152 | 0.0 | Albanian <sq@li.org> | 
+ | [libgxim](/f42/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libkomparediff2](/f42/package/libkomparediff2) | 0 | 143 | 0.0 | Albanian <sq@li.org> | 
+ | [libnma](/f42/package/libnma) | 0 | 807 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [libreport](/f42/package/libreport) | 0 | 4928 | 0.0 | none | 
+ | [libuser](/f42/package/libuser) | 0 | 1478 | 0.0 | Albanian (http://www.transifex.com/projects/p/fedora/language/sq/) | 
+ | [libvirt-sandbox](/f42/package/libvirt-sandbox) | 0 | 617 | 0.0 | Albanian (http://www.transifex.com/projects/p/fedora/language/sq/) | 
+ | [mame](/f42/package/mame) | 0 | 3685 | 0.0 | MAME Language Team | 
+ | [mingw-colord](/f42/package/mingw-colord) | 0 | 583 | 0.0 | Albanian (http://www.transifex.com/projects/p/freedesktop/language/sq/) | 
+ | [p11-kit](/f42/package/p11-kit) | 0 | 1764 | 0.0 | Albanian (http://www.transifex.com/freedesktop/p11-kit/language/sq/) | 
+ | [pam](/f42/package/pam) | 0 | 544 | 0.0 | Albanian (http://www.transifex.com/projects/p/fedora/language/sq/) | 
+ | [phonon](/f42/package/phonon) | 0 | 327 | 0.0 | Albanian <sq@li.org> | 
+ | [phonon-backend-gstreamer](/f42/package/phonon-backend-gstreamer) | 0 | 104 | 0.0 | Albanian <sq@li.org> | 
+ | [pyhoca-gui](/f42/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [realmd](/f42/package/realmd) | 0 | 833 | 0.0 | Albanian (http://www.transifex.com/freedesktop/realmd/language/sq/) | 
+ | [regextester](/f42/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [retrace-server](/f42/package/retrace-server) | 0 | 433 | 0.0 | none | 
+ | [reuse](/f42/package/reuse) | 0 | 2034 | 0.0 | none | 
+ | [seahorse-caja](/f42/package/seahorse-caja) | 0 | 421 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [seahorse-nautilus](/f42/package/seahorse-nautilus) | 0 | 421 | 0.0 | Albanian <gnome-albanian-perkthyesit@lists.sourceforge.net> | 
+ | [setuptool](/f42/package/setuptool) | 0 | 55 | 0.0 | none | 
+ | [sos](/f42/package/sos) | 0 | 123 | 0.0 | none | 
+ | [switchdesk](/f42/package/switchdesk) | 0 | 122 | 0.0 | none | 
+ | [system-switch-mail](/f42/package/system-switch-mail) | 0 | 101 | 0.0 | none | 
+ | [udisks2](/f42/package/udisks2) | 0 | 1929 | 0.0 |  | 
+ | [wingpanel-indicator-a11y](/f42/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f42/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -762,8 +762,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._sq.po | error-unicode |  | 
- | [bleachbit]({{< ref "/f42/package/bleachbit.md" >}}) | /mnt/stockage/packages/f42/bleachbit/po/sq.po | error-os |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._sq.po | error-unicode |  | 
+ | [bleachbit](/f42/package/bleachbit) | /mnt/stockage/packages/f42/bleachbit/po/sq.po | error-os |  | 
 {.sortable}
 
 
@@ -774,7 +774,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [R]({{< ref "/f42/package/R.md" >}}) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._sq.po |  | 
+ | [R](/f42/package/R) | /mnt/stockage/packages/f42/R/R-4.5.2/src/library/base/po/._sq.po |  | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcompris]({{< ref "/f23/package/gcompris.md" >}}) | 11227 | 11227 | 100.0 | Montenegro Consulting Company <savjetujme@gmail.com> | 
+ | [gcompris](/f23/package/gcompris) | 11227 | 11227 | 100.0 | Montenegro Consulting Company <savjetujme@gmail.com> | 
 {.sortable}
 
 

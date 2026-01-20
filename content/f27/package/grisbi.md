@@ -18,24 +18,24 @@ The package grisbi (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 12750 | 12750 | 100.0 | /mnt/stockage/packages/f27/grisbi/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 12750 | 12750 | 100.0 | /mnt/stockage/packages/f27/grisbi/po/fr.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 10132 | 12750 | 79.5 | /mnt/stockage/packages/f27/grisbi/po/cs.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 9608 | 12750 | 75.4 | /mnt/stockage/packages/f27/grisbi/po/lv.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 9409 | 12750 | 73.8 | /mnt/stockage/packages/f27/grisbi/po/es.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 7147 | 12750 | 56.1 | /mnt/stockage/packages/f27/grisbi/po/el.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 3792 | 12750 | 29.7 | /mnt/stockage/packages/f27/grisbi/po/ru.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1853 | 12750 | 14.5 | /mnt/stockage/packages/f27/grisbi/po/pt_BR.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1821 | 12750 | 14.3 | /mnt/stockage/packages/f27/grisbi/po/pl.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1820 | 12750 | 14.3 | /mnt/stockage/packages/f27/grisbi/po/nl.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 1815 | 12750 | 14.2 | /mnt/stockage/packages/f27/grisbi/po/he.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 1811 | 12750 | 14.2 | /mnt/stockage/packages/f27/grisbi/po/ro.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1786 | 12750 | 14.0 | /mnt/stockage/packages/f27/grisbi/po/zh_CN.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1681 | 12750 | 13.2 | /mnt/stockage/packages/f27/grisbi/po/it.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 241 | 12750 | 1.9 | /mnt/stockage/packages/f27/grisbi/po/da.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 206 | 12750 | 1.6 | /mnt/stockage/packages/f27/grisbi/po/fa.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 3 | 12750 | 0.0 | /mnt/stockage/packages/f27/grisbi/po/eo.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 0 | 12750 | 0.0 | /mnt/stockage/packages/f27/grisbi/po/sv.po | 
+ | [de](/f27/language/de) | 12750 | 12750 | 100.0 | /mnt/stockage/packages/f27/grisbi/po/de.po | 
+ | [fr](/f27/language/fr) | 12750 | 12750 | 100.0 | /mnt/stockage/packages/f27/grisbi/po/fr.po | 
+ | [cs](/f27/language/cs) | 10132 | 12750 | 79.5 | /mnt/stockage/packages/f27/grisbi/po/cs.po | 
+ | [lv](/f27/language/lv) | 9608 | 12750 | 75.4 | /mnt/stockage/packages/f27/grisbi/po/lv.po | 
+ | [es](/f27/language/es) | 9409 | 12750 | 73.8 | /mnt/stockage/packages/f27/grisbi/po/es.po | 
+ | [el](/f27/language/el) | 7147 | 12750 | 56.1 | /mnt/stockage/packages/f27/grisbi/po/el.po | 
+ | [ru](/f27/language/ru) | 3792 | 12750 | 29.7 | /mnt/stockage/packages/f27/grisbi/po/ru.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1853 | 12750 | 14.5 | /mnt/stockage/packages/f27/grisbi/po/pt_BR.po | 
+ | [pl](/f27/language/pl) | 1821 | 12750 | 14.3 | /mnt/stockage/packages/f27/grisbi/po/pl.po | 
+ | [nl](/f27/language/nl) | 1820 | 12750 | 14.3 | /mnt/stockage/packages/f27/grisbi/po/nl.po | 
+ | [he](/f27/language/he) | 1815 | 12750 | 14.2 | /mnt/stockage/packages/f27/grisbi/po/he.po | 
+ | [ro](/f27/language/ro) | 1811 | 12750 | 14.2 | /mnt/stockage/packages/f27/grisbi/po/ro.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1786 | 12750 | 14.0 | /mnt/stockage/packages/f27/grisbi/po/zh_CN.po | 
+ | [it](/f27/language/it) | 1681 | 12750 | 13.2 | /mnt/stockage/packages/f27/grisbi/po/it.po | 
+ | [da](/f27/language/da) | 241 | 12750 | 1.9 | /mnt/stockage/packages/f27/grisbi/po/da.po | 
+ | [fa](/f27/language/fa) | 206 | 12750 | 1.6 | /mnt/stockage/packages/f27/grisbi/po/fa.po | 
+ | [eo](/f27/language/eo) | 3 | 12750 | 0.0 | /mnt/stockage/packages/f27/grisbi/po/eo.po | 
+ | [sv](/f27/language/sv) | 0 | 12750 | 0.0 | /mnt/stockage/packages/f27/grisbi/po/sv.po | 
 {.sortable}
 
 

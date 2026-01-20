@@ -18,26 +18,26 @@ The package kf5-karchive (version 5.104.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ca/karchive5_qt.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ca@valencia/karchive5_qt.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/en_GB/karchive5_qt.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/es/karchive5_qt.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/fr/karchive5_qt.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/it/karchive5_qt.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ka/karchive5_qt.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/nl/karchive5_qt.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/pl/karchive5_qt.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/pt/karchive5_qt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ru/karchive5_qt.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/sl/karchive5_qt.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/tr/karchive5_qt.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/uk/karchive5_qt.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/zh_CN/karchive5_qt.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 478 | 488 | 98.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/zh_TW/karchive5_qt.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 108 | 488 | 22.1 | /mnt/stockage/packages/f36/kf5-karchive/poqm/de/karchive5_qt.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 4 | 488 | 0.8 | /mnt/stockage/packages/f36/kf5-karchive/poqm/cs/karchive5_qt.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 488 | 0.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ja/karchive5_qt.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 488 | 0.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/lt/karchive5_qt.po | 
+ | [ca](/f36/language/ca) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ca/karchive5_qt.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ca@valencia/karchive5_qt.po | 
+ | [en_GB](/f36/language/en_GB) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/en_GB/karchive5_qt.po | 
+ | [es](/f36/language/es) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/es/karchive5_qt.po | 
+ | [fr](/f36/language/fr) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/fr/karchive5_qt.po | 
+ | [it](/f36/language/it) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/it/karchive5_qt.po | 
+ | [ka](/f36/language/ka) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ka/karchive5_qt.po | 
+ | [nl](/f36/language/nl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/nl/karchive5_qt.po | 
+ | [pl](/f36/language/pl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/pl/karchive5_qt.po | 
+ | [pt](/f36/language/pt) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/pt/karchive5_qt.po | 
+ | [ru](/f36/language/ru) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ru/karchive5_qt.po | 
+ | [sl](/f36/language/sl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/sl/karchive5_qt.po | 
+ | [tr](/f36/language/tr) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/tr/karchive5_qt.po | 
+ | [uk](/f36/language/uk) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/uk/karchive5_qt.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 488 | 488 | 100.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/zh_CN/karchive5_qt.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 478 | 488 | 98.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/zh_TW/karchive5_qt.po | 
+ | [de](/f36/language/de) | 108 | 488 | 22.1 | /mnt/stockage/packages/f36/kf5-karchive/poqm/de/karchive5_qt.po | 
+ | [cs](/f36/language/cs) | 4 | 488 | 0.8 | /mnt/stockage/packages/f36/kf5-karchive/poqm/cs/karchive5_qt.po | 
+ | [ja](/f36/language/ja) | 0 | 488 | 0.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/ja/karchive5_qt.po | 
+ | [lt](/f36/language/lt) | 0 | 488 | 0.0 | /mnt/stockage/packages/f36/kf5-karchive/poqm/lt/karchive5_qt.po | 
 {.sortable}
 
 

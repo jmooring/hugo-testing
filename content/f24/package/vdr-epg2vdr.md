@@ -18,8 +18,8 @@ The package vdr-epg2vdr (version 1.1.61):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 185 | 225 | 82.2 | /mnt/stockage/packages/f24/vdr-epg2vdr/po/de_DE.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 6 | 225 | 2.7 | /mnt/stockage/packages/f24/vdr-epg2vdr/po/it_IT.po | 
+ | [de](/f24/language/de) | 185 | 225 | 82.2 | /mnt/stockage/packages/f24/vdr-epg2vdr/po/de_DE.po | 
+ | [it](/f24/language/it) | 6 | 225 | 2.7 | /mnt/stockage/packages/f24/vdr-epg2vdr/po/it_IT.po | 
 {.sortable}
 
 

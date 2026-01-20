@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f21/package/poedit.md" >}}) | 2432 | 2461 | 98.8 | Arabic | 
- | [childsplay]({{< ref "/f21/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [perl-libintl]({{< ref "/f21/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f21/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f21/package/glpi.md" >}}) | 3530 | 9435 | 37.4 | Arabic (Saudi Arabia) (http://www.transifex.com/projects/p/GLPI/language/ar_SA/) | 
- | [publican-fedora]({{< ref "/f21/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [poedit](/f21/package/poedit) | 2432 | 2461 | 98.8 | Arabic | 
+ | [childsplay](/f21/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [perl-libintl](/f21/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f21/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f21/package/glpi) | 3530 | 9435 | 37.4 | Arabic (Saudi Arabia) (http://www.transifex.com/projects/p/GLPI/language/ar_SA/) | 
+ | [publican-fedora](/f21/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

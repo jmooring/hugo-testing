@@ -18,38 +18,38 @@ The package mate-notification-daemon (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f19/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f19/mate-notification-daemon/po/it.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ca.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/es.po | 
- | [es_CL]({{< ref "/f19/language/es_CL.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/es_CL.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/gl.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/he.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/hu.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/lt.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/nl.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ru.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/sl.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/zh_CN.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 100 | 116 | 86.2 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ja.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/da.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/et.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/sv.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 88 | 116 | 75.9 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ar.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 72 | 116 | 62.1 | /mnt/stockage/packages/f19/mate-notification-daemon/po/eu.po | 
- | [af]({{< ref "/f19/language/af.md" >}}) | 63 | 116 | 54.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/af.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 54 | 116 | 46.6 | /mnt/stockage/packages/f19/mate-notification-daemon/po/nb.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 13 | 116 | 11.2 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ast.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 11 | 116 | 9.5 | /mnt/stockage/packages/f19/mate-notification-daemon/po/id.po | 
+ | [it](/f19/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f19/mate-notification-daemon/po/it.po | 
+ | [ca](/f19/language/ca) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ca.po | 
+ | [de](/f19/language/de) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/de.po | 
+ | [el](/f19/language/el) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/el.po | 
+ | [es](/f19/language/es) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/es.po | 
+ | [es_CL](/f19/language/es_CL) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/es_CL.po | 
+ | [fr](/f19/language/fr) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/fr.po | 
+ | [gl](/f19/language/gl) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/gl.po | 
+ | [he](/f19/language/he) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/he.po | 
+ | [hu](/f19/language/hu) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/hu.po | 
+ | [lt](/f19/language/lt) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/lt.po | 
+ | [nl](/f19/language/nl) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/nl.po | 
+ | [pa](/f19/language/pa) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pa.po | 
+ | [pl](/f19/language/pl) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pl.po | 
+ | [pt](/f19/language/pt) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ru.po | 
+ | [sl](/f19/language/sl) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/sl.po | 
+ | [tr](/f19/language/tr) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/tr.po | 
+ | [uk](/f19/language/uk) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 114 | 116 | 98.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/zh_CN.po | 
+ | [ja](/f19/language/ja) | 100 | 116 | 86.2 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ja.po | 
+ | [cs](/f19/language/cs) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/cs.po | 
+ | [da](/f19/language/da) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/da.po | 
+ | [et](/f19/language/et) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/et.po | 
+ | [sv](/f19/language/sv) | 99 | 116 | 85.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/sv.po | 
+ | [ar](/f19/language/ar) | 88 | 116 | 75.9 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ar.po | 
+ | [eu](/f19/language/eu) | 72 | 116 | 62.1 | /mnt/stockage/packages/f19/mate-notification-daemon/po/eu.po | 
+ | [af](/f19/language/af) | 63 | 116 | 54.3 | /mnt/stockage/packages/f19/mate-notification-daemon/po/af.po | 
+ | [nb_NO](/f19/language/nb_NO) | 54 | 116 | 46.6 | /mnt/stockage/packages/f19/mate-notification-daemon/po/nb.po | 
+ | [ast](/f19/language/ast) | 13 | 116 | 11.2 | /mnt/stockage/packages/f19/mate-notification-daemon/po/ast.po | 
+ | [id](/f19/language/id) | 11 | 116 | 9.5 | /mnt/stockage/packages/f19/mate-notification-daemon/po/id.po | 
 {.sortable}
 
 

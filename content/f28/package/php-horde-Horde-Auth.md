@@ -18,18 +18,18 @@ The package php-horde-Horde-Auth (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f28/language/da.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/da/LC_MESSAGES/Horde_Auth.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/de/LC_MESSAGES/Horde_Auth.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/es/LC_MESSAGES/Horde_Auth.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/et/LC_MESSAGES/Horde_Auth.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/fi/LC_MESSAGES/Horde_Auth.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/fr/LC_MESSAGES/Horde_Auth.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/hu/LC_MESSAGES/Horde_Auth.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/ja/LC_MESSAGES/Horde_Auth.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/lv/LC_MESSAGES/Horde_Auth.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/pl/LC_MESSAGES/Horde_Auth.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/tr/LC_MESSAGES/Horde_Auth.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 21 | 187 | 11.2 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/eu/LC_MESSAGES/Horde_Auth.po | 
+ | [da](/f28/language/da) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/da/LC_MESSAGES/Horde_Auth.po | 
+ | [de](/f28/language/de) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/de/LC_MESSAGES/Horde_Auth.po | 
+ | [es](/f28/language/es) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/es/LC_MESSAGES/Horde_Auth.po | 
+ | [et](/f28/language/et) | 173 | 173 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/et/LC_MESSAGES/Horde_Auth.po | 
+ | [fi](/f28/language/fi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/fi/LC_MESSAGES/Horde_Auth.po | 
+ | [fr](/f28/language/fr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/fr/LC_MESSAGES/Horde_Auth.po | 
+ | [hu](/f28/language/hu) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/hu/LC_MESSAGES/Horde_Auth.po | 
+ | [ja](/f28/language/ja) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/ja/LC_MESSAGES/Horde_Auth.po | 
+ | [lv](/f28/language/lv) | 173 | 173 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/lv/LC_MESSAGES/Horde_Auth.po | 
+ | [pl](/f28/language/pl) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/pl/LC_MESSAGES/Horde_Auth.po | 
+ | [tr](/f28/language/tr) | 209 | 209 | 100.0 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/tr/LC_MESSAGES/Horde_Auth.po | 
+ | [eu](/f28/language/eu) | 21 | 187 | 11.2 | /mnt/stockage/packages/f28/php-horde-Horde-Auth/Horde_Auth-2.2.2/locale/eu/LC_MESSAGES/Horde_Auth.po | 
 {.sortable}
 
 

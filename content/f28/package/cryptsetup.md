@@ -18,22 +18,22 @@ The package cryptsetup (version 2.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/cs.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/fr.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/pt_BR.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/uk.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 4265 | 4297 | 99.3 | /mnt/stockage/packages/f28/cryptsetup/po/de.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 4239 | 4297 | 98.7 | /mnt/stockage/packages/f28/cryptsetup/po/da.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2659 | 4297 | 61.9 | /mnt/stockage/packages/f28/cryptsetup/po/zh_CN.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1531 | 4297 | 35.6 | /mnt/stockage/packages/f28/cryptsetup/po/sv.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/it.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/nl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/sr.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/vi.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 930 | 4297 | 21.6 | /mnt/stockage/packages/f28/cryptsetup/po/fi.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 340 | 4297 | 7.9 | /mnt/stockage/packages/f28/cryptsetup/po/id.po | 
+ | [cs](/f28/language/cs) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/cs.po | 
+ | [es](/f28/language/es) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/es.po | 
+ | [fr](/f28/language/fr) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/fr.po | 
+ | [pl](/f28/language/pl) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/pt_BR.po | 
+ | [uk](/f28/language/uk) | 4297 | 4297 | 100.0 | /mnt/stockage/packages/f28/cryptsetup/po/uk.po | 
+ | [de](/f28/language/de) | 4265 | 4297 | 99.3 | /mnt/stockage/packages/f28/cryptsetup/po/de.po | 
+ | [da](/f28/language/da) | 4239 | 4297 | 98.7 | /mnt/stockage/packages/f28/cryptsetup/po/da.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2659 | 4297 | 61.9 | /mnt/stockage/packages/f28/cryptsetup/po/zh_CN.po | 
+ | [sv](/f28/language/sv) | 1531 | 4297 | 35.6 | /mnt/stockage/packages/f28/cryptsetup/po/sv.po | 
+ | [it](/f28/language/it) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/it.po | 
+ | [nl](/f28/language/nl) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/nl.po | 
+ | [sr](/f28/language/sr) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/sr.po | 
+ | [vi](/f28/language/vi) | 969 | 4297 | 22.6 | /mnt/stockage/packages/f28/cryptsetup/po/vi.po | 
+ | [fi](/f28/language/fi) | 930 | 4297 | 21.6 | /mnt/stockage/packages/f28/cryptsetup/po/fi.po | 
+ | [id](/f28/language/id) | 340 | 4297 | 7.9 | /mnt/stockage/packages/f28/cryptsetup/po/id.po | 
 {.sortable}
 
 

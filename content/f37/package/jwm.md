@@ -18,19 +18,19 @@ The package jwm (version 2.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f37/language/da.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f37/jwm/po/da.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f37/jwm/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 352 | 357 | 98.6 | /mnt/stockage/packages/f37/jwm/po/fr.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 352 | 357 | 98.6 | /mnt/stockage/packages/f37/jwm/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 336 | 357 | 94.1 | /mnt/stockage/packages/f37/jwm/po/zh_TW.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 271 | 357 | 75.9 | /mnt/stockage/packages/f37/jwm/po/it.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 268 | 357 | 75.1 | /mnt/stockage/packages/f37/jwm/po/pt.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 265 | 357 | 74.2 | /mnt/stockage/packages/f37/jwm/po/hu.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 251 | 357 | 70.3 | /mnt/stockage/packages/f37/jwm/po/ru.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 242 | 357 | 67.8 | /mnt/stockage/packages/f37/jwm/po/pl.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 239 | 357 | 66.9 | /mnt/stockage/packages/f37/jwm/po/nl.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 230 | 357 | 64.4 | /mnt/stockage/packages/f37/jwm/po/zh_CN.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 125 | 357 | 35.0 | /mnt/stockage/packages/f37/jwm/po/de.po | 
+ | [da](/f37/language/da) | 357 | 357 | 100.0 | /mnt/stockage/packages/f37/jwm/po/da.po | 
+ | [es](/f37/language/es) | 357 | 357 | 100.0 | /mnt/stockage/packages/f37/jwm/po/es.po | 
+ | [fr](/f37/language/fr) | 352 | 357 | 98.6 | /mnt/stockage/packages/f37/jwm/po/fr.po | 
+ | [pt_BR](/f37/language/pt_BR) | 352 | 357 | 98.6 | /mnt/stockage/packages/f37/jwm/po/pt_BR.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 336 | 357 | 94.1 | /mnt/stockage/packages/f37/jwm/po/zh_TW.po | 
+ | [it](/f37/language/it) | 271 | 357 | 75.9 | /mnt/stockage/packages/f37/jwm/po/it.po | 
+ | [pt](/f37/language/pt) | 268 | 357 | 75.1 | /mnt/stockage/packages/f37/jwm/po/pt.po | 
+ | [hu](/f37/language/hu) | 265 | 357 | 74.2 | /mnt/stockage/packages/f37/jwm/po/hu.po | 
+ | [ru](/f37/language/ru) | 251 | 357 | 70.3 | /mnt/stockage/packages/f37/jwm/po/ru.po | 
+ | [pl](/f37/language/pl) | 242 | 357 | 67.8 | /mnt/stockage/packages/f37/jwm/po/pl.po | 
+ | [nl](/f37/language/nl) | 239 | 357 | 66.9 | /mnt/stockage/packages/f37/jwm/po/nl.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 230 | 357 | 64.4 | /mnt/stockage/packages/f37/jwm/po/zh_CN.po | 
+ | [de](/f37/language/de) | 125 | 357 | 35.0 | /mnt/stockage/packages/f37/jwm/po/de.po | 
 {.sortable}
 
 

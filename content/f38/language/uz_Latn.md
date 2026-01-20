@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-pytelegrambotapi]({{< ref "/f38/package/python-pytelegrambotapi.md" >}}) | 152 | 152 | 100.0 | uz_Latn <LL@li.org> | 
- | [thunar-archive-plugin]({{< ref "/f38/package/thunar-archive-plugin.md" >}}) | 86 | 88 | 97.7 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
- | [thunar-media-tags-plugin]({{< ref "/f38/package/thunar-media-tags-plugin.md" >}}) | 154 | 158 | 97.5 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
- | [xfce4-battery-plugin]({{< ref "/f38/package/xfce4-battery-plugin.md" >}}) | 143 | 148 | 96.6 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
- | [garcon]({{< ref "/f38/package/garcon.md" >}}) | 106 | 125 | 84.8 | Uzbek (Latin) (https://www.transifex.com/xfce/teams/16840/uz@Latn/) | 
- | [uget]({{< ref "/f38/package/uget.md" >}}) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
- | [xfce4-xkb-plugin]({{< ref "/f38/package/xfce4-xkb-plugin.md" >}}) | 34 | 57 | 59.6 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
- | [modem-manager-gui]({{< ref "/f38/package/modem-manager-gui.md" >}}) | 1154 | 3264 | 35.4 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
- | [manafirewall]({{< ref "/f38/package/manafirewall.md" >}}) | 2 | 1097 | 0.2 | Uzbek (Latin) (https://www.transifex.com/MageiaLinux/teams/9361/uz@Latn/) | 
- | [calibre]({{< ref "/f38/package/calibre.md" >}}) | 21 | 170967 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
- | [mate-themes]({{< ref "/f38/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Uzbek (Latin) (http://app.transifex.com/mate/MATE/language/uz@Latn/) | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f38/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 286 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
- | [stellarium]({{< ref "/f38/package/stellarium.md" >}}) | 0 | 151641 | 0.0 | Uzbek (Latin) (https://www.transifex.com/stellarium/teams/80998/uz@Latn/) | 
- | [synfigstudio]({{< ref "/f38/package/synfigstudio.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [python-pytelegrambotapi](/f38/package/python-pytelegrambotapi) | 152 | 152 | 100.0 | uz_Latn <LL@li.org> | 
+ | [thunar-archive-plugin](/f38/package/thunar-archive-plugin) | 86 | 88 | 97.7 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
+ | [thunar-media-tags-plugin](/f38/package/thunar-media-tags-plugin) | 154 | 158 | 97.5 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
+ | [xfce4-battery-plugin](/f38/package/xfce4-battery-plugin) | 143 | 148 | 96.6 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
+ | [garcon](/f38/package/garcon) | 106 | 125 | 84.8 | Uzbek (Latin) (https://www.transifex.com/xfce/teams/16840/uz@Latn/) | 
+ | [uget](/f38/package/uget) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
+ | [xfce4-xkb-plugin](/f38/package/xfce4-xkb-plugin) | 34 | 57 | 59.6 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
+ | [modem-manager-gui](/f38/package/modem-manager-gui) | 1154 | 3264 | 35.4 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
+ | [manafirewall](/f38/package/manafirewall) | 2 | 1097 | 0.2 | Uzbek (Latin) (https://www.transifex.com/MageiaLinux/teams/9361/uz@Latn/) | 
+ | [calibre](/f38/package/calibre) | 21 | 170967 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
+ | [mate-themes](/f38/package/mate-themes) | 0 | 74 | 0.0 | Uzbek (Latin) (http://app.transifex.com/mate/MATE/language/uz@Latn/) | 
+ | [php-phpmyadmin-sql-parser5](/f38/package/php-phpmyadmin-sql-parser5) | 0 | 286 | 0.0 | Uzbek (latin) <https://hosted.weblate.org/projects/phpmyadmin/master/uz@latin/> | 
+ | [stellarium](/f38/package/stellarium) | 0 | 151641 | 0.0 | Uzbek (Latin) (https://www.transifex.com/stellarium/teams/80998/uz@Latn/) | 
+ | [synfigstudio](/f38/package/synfigstudio) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

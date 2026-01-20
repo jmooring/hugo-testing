@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-capnet-assist]({{< ref "/f35/package/elementary-capnet-assist.md" >}}) | 0 | 90 | 0.0 | none | 
- | [elementary-greeter]({{< ref "/f35/package/elementary-greeter.md" >}}) | 0 | 219 | 0.0 | Acehnese <ace@li.org> | 
- | [elementary-icon-theme]({{< ref "/f35/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f35/package/elementary-notifications.md" >}}) | 0 | 50 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f35/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f35/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f35/package/elementary-sideload.md" >}}) | 0 | 319 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f35/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [gala]({{< ref "/f35/package/gala.md" >}}) | 0 | 358 | 0.0 | none | 
- | [granite]({{< ref "/f35/package/granite.md" >}}) | 0 | 498 | 0.0 | none | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 0 | 982 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
- | [onboard]({{< ref "/f35/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
- | [pantheon-agent-geoclue2]({{< ref "/f35/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | none | 
- | [pantheon-agent-polkit]({{< ref "/f35/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | none | 
- | [po4a]({{< ref "/f35/package/po4a.md" >}}) | 0 | 2804 | 0.0 | none | 
+ | [elementary-capnet-assist](/f35/package/elementary-capnet-assist) | 0 | 90 | 0.0 | none | 
+ | [elementary-greeter](/f35/package/elementary-greeter) | 0 | 219 | 0.0 | Acehnese <ace@li.org> | 
+ | [elementary-icon-theme](/f35/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-notifications](/f35/package/elementary-notifications) | 0 | 50 | 0.0 | none | 
+ | [elementary-settings-daemon](/f35/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f35/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-sideload](/f35/package/elementary-sideload) | 0 | 319 | 0.0 | none | 
+ | [elementary-theme](/f35/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [gala](/f35/package/gala) | 0 | 358 | 0.0 | none | 
+ | [granite](/f35/package/granite) | 0 | 498 | 0.0 | none | 
+ | [iso-codes](/f35/package/iso-codes) | 0 | 982 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
+ | [onboard](/f35/package/onboard) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
+ | [pantheon-agent-geoclue2](/f35/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | none | 
+ | [pantheon-agent-polkit](/f35/package/pantheon-agent-polkit) | 0 | 56 | 0.0 | none | 
+ | [po4a](/f35/package/po4a) | 0 | 2804 | 0.0 | none | 
 {.sortable}
 
 

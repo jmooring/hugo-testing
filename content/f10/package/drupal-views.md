@@ -18,13 +18,13 @@ The package drupal-views (version 6.x.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 6487 | 6487 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/eo.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 6195 | 6195 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 6850 | 6850 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/it.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 6195 | 6195 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/pl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 7458 | 7532 | 99.0 | /mnt/stockage/packages/f10/drupal-views/translations/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 4824 | 6908 | 69.8 | /mnt/stockage/packages/f10/drupal-views/translations/de.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 2242 | 15064 | 14.9 | /mnt/stockage/packages/f10/drupal-views/translations/uk.po/mnt/stockage/packages/f10/drupal-views/translations/uk-ua.po | 
+ | [eo](/f10/language/eo) | 6487 | 6487 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/eo.po | 
+ | [fr](/f10/language/fr) | 6195 | 6195 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/fr.po | 
+ | [it](/f10/language/it) | 6850 | 6850 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/it.po | 
+ | [pl](/f10/language/pl) | 6195 | 6195 | 100.0 | /mnt/stockage/packages/f10/drupal-views/translations/pl.po | 
+ | [sv](/f10/language/sv) | 7458 | 7532 | 99.0 | /mnt/stockage/packages/f10/drupal-views/translations/sv.po | 
+ | [de](/f10/language/de) | 4824 | 6908 | 69.8 | /mnt/stockage/packages/f10/drupal-views/translations/de.po | 
+ | [uk](/f10/language/uk) | 2242 | 15064 | 14.9 | /mnt/stockage/packages/f10/drupal-views/translations/uk.po/mnt/stockage/packages/f10/drupal-views/translations/uk-ua.po | 
 {.sortable}
 
 

@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f33/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f33/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [darktable]({{< ref "/f33/package/darktable.md" >}}) | 22183 | 22183 | 100.0 |  | 
- | [libecpg]({{< ref "/f33/package/libecpg.md" >}}) | 1727 | 1727 | 100.0 |  | 
- | [libpq]({{< ref "/f33/package/libpq.md" >}}) | 1727 | 1727 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f33/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [poedit]({{< ref "/f33/package/poedit.md" >}}) | 2916 | 2916 | 100.0 | Hebrew | 
- | [mingw-postgresql]({{< ref "/f33/package/mingw-postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [postgresql]({{< ref "/f33/package/postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [python-flask-admin]({{< ref "/f33/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Hebrew | 
- | [coolreader]({{< ref "/f33/package/coolreader.md" >}}) | 545 | 701 | 77.7 | Hebrew | 
- | [squirrelmail]({{< ref "/f33/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [xournalpp]({{< ref "/f33/package/xournalpp.md" >}}) | 977 | 3997 | 24.4 | Hebrew | 
- | [cacti]({{< ref "/f33/package/cacti.md" >}}) | 942 | 29825 | 3.2 |  | 
- | [clementine]({{< ref "/f33/package/clementine.md" >}}) | 0 | 5251 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [python-django-helpdesk]({{< ref "/f33/package/python-django-helpdesk.md" >}}) | 0 | 3241 | 0.0 | Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f33/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
- | [visualboyadvance-m]({{< ref "/f33/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/) | 
+ | [boost](/f33/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f33/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [darktable](/f33/package/darktable) | 22183 | 22183 | 100.0 |  | 
+ | [libecpg](/f33/package/libecpg) | 1727 | 1727 | 100.0 |  | 
+ | [libpq](/f33/package/libpq) | 1727 | 1727 | 100.0 |  | 
+ | [mingw-boost](/f33/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [poedit](/f33/package/poedit) | 2916 | 2916 | 100.0 | Hebrew | 
+ | [mingw-postgresql](/f33/package/mingw-postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [postgresql](/f33/package/postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [python-flask-admin](/f33/package/python-flask-admin) | 320 | 367 | 87.2 | Hebrew | 
+ | [coolreader](/f33/package/coolreader) | 545 | 701 | 77.7 | Hebrew | 
+ | [squirrelmail](/f33/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [xournalpp](/f33/package/xournalpp) | 977 | 3997 | 24.4 | Hebrew | 
+ | [cacti](/f33/package/cacti) | 942 | 29825 | 3.2 |  | 
+ | [clementine](/f33/package/clementine) | 0 | 5251 | 0.0 | Hebrew (Israel) (http://www.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [python-django-helpdesk](/f33/package/python-django-helpdesk) | 0 | 3241 | 0.0 | Hebrew (Israel) (http://www.transifex.com/rossp/django-helpdesk/language/he_IL/) | 
+ | [python-django-rest-framework](/f33/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [visualboyadvance-m](/f33/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Hebrew (Israel) (http://www.transifex.com/bgk/vba-m/language/he_IL/) | 
 {.sortable}
 
 

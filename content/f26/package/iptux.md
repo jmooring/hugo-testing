@@ -18,11 +18,11 @@ The package iptux (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 772 | 799 | 96.6 | /mnt/stockage/packages/f26/iptux/po/es.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 727 | 799 | 91.0 | /mnt/stockage/packages/f26/iptux/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 727 | 799 | 91.0 | /mnt/stockage/packages/f26/iptux/po/zh_TW.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 188 | 799 | 23.5 | /mnt/stockage/packages/f26/iptux/po/en_GB.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 100 | 799 | 12.5 | /mnt/stockage/packages/f26/iptux/po/de.po | 
+ | [es](/f26/language/es) | 772 | 799 | 96.6 | /mnt/stockage/packages/f26/iptux/po/es.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 727 | 799 | 91.0 | /mnt/stockage/packages/f26/iptux/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 727 | 799 | 91.0 | /mnt/stockage/packages/f26/iptux/po/zh_TW.po | 
+ | [en_GB](/f26/language/en_GB) | 188 | 799 | 23.5 | /mnt/stockage/packages/f26/iptux/po/en_GB.po | 
+ | [de](/f26/language/de) | 100 | 799 | 12.5 | /mnt/stockage/packages/f26/iptux/po/de.po | 
 {.sortable}
 
 

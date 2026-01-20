@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f20/package/python-django.md" >}}) | 2906 | 3318 | 87.6 | Ossetic (http://www.transifex.com/projects/p/django/language/os/) | 
- | [pychess]({{< ref "/f20/package/pychess.md" >}}) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
- | [exaile]({{< ref "/f20/package/exaile.md" >}}) | 1 | 4006 | 0.0 | Ossetian <os@li.org> | 
- | [stellarium]({{< ref "/f20/package/stellarium.md" >}}) | 0 | 11181 | 0.0 | Ossetian <os@li.org> | 
+ | [python-django](/f20/package/python-django) | 2906 | 3318 | 87.6 | Ossetic (http://www.transifex.com/projects/p/django/language/os/) | 
+ | [pychess](/f20/package/pychess) | 345 | 2849 | 12.1 | Occitan (post 1500) <oc@li.org> | 
+ | [exaile](/f20/package/exaile) | 1 | 4006 | 0.0 | Ossetian <os@li.org> | 
+ | [stellarium](/f20/package/stellarium) | 0 | 11181 | 0.0 | Ossetian <os@li.org> | 
 {.sortable}
 
 

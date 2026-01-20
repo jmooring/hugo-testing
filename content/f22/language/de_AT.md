@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ganyremote]({{< ref "/f22/package/ganyremote.md" >}}) | 500 | 500 | 100.0 | Austrian | 
- | [kanyremote]({{< ref "/f22/package/kanyremote.md" >}}) | 479 | 484 | 99.0 | Austrian | 
- | [gnomebaker]({{< ref "/f22/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f22/package/fuse-encfs.md" >}}) | 1041 | 1278 | 81.5 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f22/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [supertux]({{< ref "/f22/package/supertux.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [perl-libintl]({{< ref "/f22/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [gpsdrive]({{< ref "/f22/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [gourmet]({{< ref "/f22/package/gourmet.md" >}}) | 554 | 3939 | 14.1 | German (Austria) <de_AT@li.org> | 
- | [texi2html]({{< ref "/f22/package/texi2html.md" >}}) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
- | [texinfo]({{< ref "/f22/package/texinfo.md" >}}) | 5 | 5726 | 0.1 | German <de@li.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ganyremote](/f22/package/ganyremote) | 500 | 500 | 100.0 | Austrian | 
+ | [kanyremote](/f22/package/kanyremote) | 479 | 484 | 99.0 | Austrian | 
+ | [gnomebaker](/f22/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f22/package/fuse-encfs) | 1041 | 1278 | 81.5 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f22/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f22/package/supertux) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [perl-libintl](/f22/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [gpsdrive](/f22/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [gourmet](/f22/package/gourmet) | 554 | 3939 | 14.1 | German (Austria) <de_AT@li.org> | 
+ | [texi2html](/f22/package/texi2html) | 5 | 1665 | 0.3 | German <guido@imperia.net> | 
+ | [texinfo](/f22/package/texinfo) | 5 | 5726 | 0.1 | German <de@li.org> | 
+ | [vidalia](/f22/package/vidalia) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

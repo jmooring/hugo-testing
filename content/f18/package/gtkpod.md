@@ -18,21 +18,21 @@ The package gtkpod (version 2.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f18/language/it.md" >}}) | 6521 | 7309 | 89.2 | /mnt/stockage/packages/f18/gtkpod/po/it.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 6362 | 7309 | 87.0 | /mnt/stockage/packages/f18/gtkpod/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 6355 | 7309 | 86.9 | /mnt/stockage/packages/f18/gtkpod/po/fr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 4890 | 7309 | 66.9 | /mnt/stockage/packages/f18/gtkpod/po/ru.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 4798 | 7309 | 65.6 | /mnt/stockage/packages/f18/gtkpod/po/he.po | 
- | [za]({{< ref "/f18/language/za.md" >}}) | 4763 | 7309 | 65.2 | /mnt/stockage/packages/f18/gtkpod/po/zh_CN.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 4735 | 7309 | 64.8 | /mnt/stockage/packages/f18/gtkpod/po/ca.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 4723 | 7309 | 64.6 | /mnt/stockage/packages/f18/gtkpod/po/de.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 4715 | 7309 | 64.5 | /mnt/stockage/packages/f18/gtkpod/po/sv.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 3937 | 7309 | 53.9 | /mnt/stockage/packages/f18/gtkpod/po/ro.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 2253 | 7309 | 30.8 | /mnt/stockage/packages/f18/gtkpod/po/pt_BR.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 2191 | 7309 | 30.0 | /mnt/stockage/packages/f18/gtkpod/po/ja.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1056 | 7309 | 14.4 | /mnt/stockage/packages/f18/gtkpod/po/cs_CZ.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 197 | 7309 | 2.7 | /mnt/stockage/packages/f18/gtkpod/po/zh_TW.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 7309 | 0.0 | /mnt/stockage/packages/f18/gtkpod/po/nl.po | 
+ | [it](/f18/language/it) | 6521 | 7309 | 89.2 | /mnt/stockage/packages/f18/gtkpod/po/it.po | 
+ | [es](/f18/language/es) | 6362 | 7309 | 87.0 | /mnt/stockage/packages/f18/gtkpod/po/es.po | 
+ | [fr](/f18/language/fr) | 6355 | 7309 | 86.9 | /mnt/stockage/packages/f18/gtkpod/po/fr.po | 
+ | [ru](/f18/language/ru) | 4890 | 7309 | 66.9 | /mnt/stockage/packages/f18/gtkpod/po/ru.po | 
+ | [he](/f18/language/he) | 4798 | 7309 | 65.6 | /mnt/stockage/packages/f18/gtkpod/po/he.po | 
+ | [za](/f18/language/za) | 4763 | 7309 | 65.2 | /mnt/stockage/packages/f18/gtkpod/po/zh_CN.po | 
+ | [ca](/f18/language/ca) | 4735 | 7309 | 64.8 | /mnt/stockage/packages/f18/gtkpod/po/ca.po | 
+ | [de](/f18/language/de) | 4723 | 7309 | 64.6 | /mnt/stockage/packages/f18/gtkpod/po/de.po | 
+ | [sv](/f18/language/sv) | 4715 | 7309 | 64.5 | /mnt/stockage/packages/f18/gtkpod/po/sv.po | 
+ | [ro](/f18/language/ro) | 3937 | 7309 | 53.9 | /mnt/stockage/packages/f18/gtkpod/po/ro.po | 
+ | [pt_BR](/f18/language/pt_BR) | 2253 | 7309 | 30.8 | /mnt/stockage/packages/f18/gtkpod/po/pt_BR.po | 
+ | [ja](/f18/language/ja) | 2191 | 7309 | 30.0 | /mnt/stockage/packages/f18/gtkpod/po/ja.po | 
+ | [cs](/f18/language/cs) | 1056 | 7309 | 14.4 | /mnt/stockage/packages/f18/gtkpod/po/cs_CZ.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 197 | 7309 | 2.7 | /mnt/stockage/packages/f18/gtkpod/po/zh_TW.po | 
+ | [nl](/f18/language/nl) | 0 | 7309 | 0.0 | /mnt/stockage/packages/f18/gtkpod/po/nl.po | 
 {.sortable}
 
 

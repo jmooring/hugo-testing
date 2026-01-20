@@ -18,11 +18,11 @@ The package xneur (version 0.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1865 | 1865 | 100.0 | /mnt/stockage/packages/f19/xneur/po/ru.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 361 | 1865 | 19.4 | /mnt/stockage/packages/f19/xneur/po/uk.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 198 | 1865 | 10.6 | /mnt/stockage/packages/f19/xneur/po/be.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 16 | 1865 | 0.9 | /mnt/stockage/packages/f19/xneur/po/ro.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 3 | 1865 | 0.2 | /mnt/stockage/packages/f19/xneur/po/de.po | 
+ | [ru](/f19/language/ru) | 1865 | 1865 | 100.0 | /mnt/stockage/packages/f19/xneur/po/ru.po | 
+ | [uk](/f19/language/uk) | 361 | 1865 | 19.4 | /mnt/stockage/packages/f19/xneur/po/uk.po | 
+ | [be](/f19/language/be) | 198 | 1865 | 10.6 | /mnt/stockage/packages/f19/xneur/po/be.po | 
+ | [ro](/f19/language/ro) | 16 | 1865 | 0.9 | /mnt/stockage/packages/f19/xneur/po/ro.po | 
+ | [de](/f19/language/de) | 3 | 1865 | 0.2 | /mnt/stockage/packages/f19/xneur/po/de.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package zarafa (version 7.1.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 6307 | 6307 | 100.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/de/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/de.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 6306 | 6307 | 100.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/cs/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/cs.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 6306 | 6307 | 100.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/pt_BR/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/pt_BR.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 6296 | 6307 | 99.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/fr/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/fr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 6290 | 6307 | 99.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/nl/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/nl.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 6270 | 6302 | 99.5 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/sl/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/sl.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 6270 | 6302 | 99.5 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/zh_TW/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/zh_TW.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 6192 | 6307 | 98.2 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/it/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/it.po | 
- | [nl_BE]({{< ref "/f21/language/nl_BE.md" >}}) | 3306 | 3383 | 97.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/nl_BE/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/nl_BE.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 1693 | 1757 | 96.4 | /mnt/stockage/packages/f21/zarafa/po/et.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 6049 | 6307 | 95.9 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ru/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ru.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 5975 | 6307 | 94.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/hu/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/hu.po | 
- | [fr_BE]({{< ref "/f21/language/fr_BE.md" >}}) | 3199 | 3383 | 94.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/fr_BE/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/fr_BE.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 5955 | 6307 | 94.4 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/he/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/he.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 5777 | 6307 | 91.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/fi/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/fi.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 5726 | 6307 | 90.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/zh_CN/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 5407 | 6307 | 85.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/nb/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/nb.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 5329 | 6307 | 84.5 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/es/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/es.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 4643 | 6307 | 73.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/pl/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/pl.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 6709 | 10857 | 61.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/es_CA/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ca/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ca.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 3824 | 6307 | 60.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/sv/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/sv.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 3079 | 6307 | 48.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/da/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/da.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 2821 | 6307 | 44.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/pt/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/pt.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 794 | 6307 | 12.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ja/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ja.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 21 | 1752 | 1.2 | /mnt/stockage/packages/f21/zarafa/po/fa.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 15 | 5970 | 0.3 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/lt/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/lt.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 2 | 4550 | 0.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/en_US/LC_MESSAGES/zarafa_webaccess.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/bg.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/el.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/gl.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 0 | 1757 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/hr.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 0 | 6307 | 0.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ko/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ko.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 0 | 6307 | 0.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/uk/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/uk.po | 
+ | [de](/f21/language/de) | 6307 | 6307 | 100.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/de/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/de.po | 
+ | [cs](/f21/language/cs) | 6306 | 6307 | 100.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/cs/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/cs.po | 
+ | [pt_BR](/f21/language/pt_BR) | 6306 | 6307 | 100.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/pt_BR/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/pt_BR.po | 
+ | [fr](/f21/language/fr) | 6296 | 6307 | 99.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/fr/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/fr.po | 
+ | [nl](/f21/language/nl) | 6290 | 6307 | 99.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/nl/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/nl.po | 
+ | [sl](/f21/language/sl) | 6270 | 6302 | 99.5 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/sl/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/sl.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 6270 | 6302 | 99.5 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/zh_TW/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/zh_TW.po | 
+ | [it](/f21/language/it) | 6192 | 6307 | 98.2 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/it/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/it.po | 
+ | [nl_BE](/f21/language/nl_BE) | 3306 | 3383 | 97.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/nl_BE/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/nl_BE.po | 
+ | [et](/f21/language/et) | 1693 | 1757 | 96.4 | /mnt/stockage/packages/f21/zarafa/po/et.po | 
+ | [ru](/f21/language/ru) | 6049 | 6307 | 95.9 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ru/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ru.po | 
+ | [hu](/f21/language/hu) | 5975 | 6307 | 94.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/hu/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/hu.po | 
+ | [fr_BE](/f21/language/fr_BE) | 3199 | 3383 | 94.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/fr_BE/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/fr_BE.po | 
+ | [he](/f21/language/he) | 5955 | 6307 | 94.4 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/he/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/he.po | 
+ | [fi](/f21/language/fi) | 5777 | 6307 | 91.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/fi/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/fi.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 5726 | 6307 | 90.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/zh_CN/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/zh_CN.po | 
+ | [nb_NO](/f21/language/nb_NO) | 5407 | 6307 | 85.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/nb/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/nb.po | 
+ | [es](/f21/language/es) | 5329 | 6307 | 84.5 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/es/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/es.po | 
+ | [pl](/f21/language/pl) | 4643 | 6307 | 73.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/pl/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/pl.po | 
+ | [ca](/f21/language/ca) | 6709 | 10857 | 61.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/es_CA/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ca/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ca.po | 
+ | [sv](/f21/language/sv) | 3824 | 6307 | 60.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/sv/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/sv.po | 
+ | [da](/f21/language/da) | 3079 | 6307 | 48.8 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/da/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/da.po | 
+ | [pt](/f21/language/pt) | 2821 | 6307 | 44.7 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/pt/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/pt.po | 
+ | [ja](/f21/language/ja) | 794 | 6307 | 12.6 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ja/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ja.po | 
+ | [fa](/f21/language/fa) | 21 | 1752 | 1.2 | /mnt/stockage/packages/f21/zarafa/po/fa.po | 
+ | [lt](/f21/language/lt) | 15 | 5970 | 0.3 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/lt/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/lt.po | 
+ | [en_US](/f21/language/en_US) | 2 | 4550 | 0.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/en_US/LC_MESSAGES/zarafa_webaccess.po | 
+ | [bg](/f21/language/bg) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/bg.po | 
+ | [el](/f21/language/el) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/el.po | 
+ | [gl](/f21/language/gl) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/gl.po | 
+ | [hr](/f21/language/hr) | 0 | 1757 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/hr.po | 
+ | [ko](/f21/language/ko) | 0 | 6307 | 0.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/ko/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/ko.po | 
+ | [tr](/f21/language/tr) | 0 | 1752 | 0.0 | /mnt/stockage/packages/f21/zarafa/po/tr.po | 
+ | [uk](/f21/language/uk) | 0 | 6307 | 0.0 | /mnt/stockage/packages/f21/zarafa/php-webclient-ajax/server/language/uk/LC_MESSAGES/zarafa_webaccess.po/mnt/stockage/packages/f21/zarafa/po/uk.po | 
 {.sortable}
 
 

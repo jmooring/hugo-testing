@@ -18,7 +18,7 @@ The package gonvert (version 0.2.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 229 | 10479 | 2.2 | /mnt/stockage/packages/f12/gonvert/i18n/pl_messages.po | 
+ | [pl](/f12/language/pl) | 229 | 10479 | 2.2 | /mnt/stockage/packages/f12/gonvert/i18n/pl_messages.po | 
 {.sortable}
 
 

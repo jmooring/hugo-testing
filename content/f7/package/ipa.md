@@ -18,7 +18,7 @@ The package ipa (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 308 | 579 | 53.2 | /mnt/stockage/packages/f7/ipa/ipa-server/ipa-gui/locales/ja/LC_MESSAGES/messages.po | 
+ | [ja](/f7/language/ja) | 308 | 579 | 53.2 | /mnt/stockage/packages/f7/ipa/ipa-server/ipa-gui/locales/ja/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

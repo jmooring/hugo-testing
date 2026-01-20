@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f11/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [iso-codes]({{< ref "/f11/package/iso-codes.md" >}}) | 1074 | 1079 | 99.5 | Wolof | 
- | [tuxtype2]({{< ref "/f11/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 |  | 
- | [ccsm]({{< ref "/f11/package/ccsm.md" >}}) | 399 | 549 | 72.7 | Wolof | 
- | [tuxpaint]({{< ref "/f11/package/tuxpaint.md" >}}) | 469 | 761 | 61.6 |  | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f11/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [iso-codes](/f11/package/iso-codes) | 1074 | 1079 | 99.5 | Wolof | 
+ | [tuxtype2](/f11/package/tuxtype2) | 71 | 80 | 88.8 |  | 
+ | [ccsm](/f11/package/ccsm) | 399 | 549 | 72.7 | Wolof | 
+ | [tuxpaint](/f11/package/tuxpaint) | 469 | 761 | 61.6 |  | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

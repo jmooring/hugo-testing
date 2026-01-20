@@ -18,17 +18,17 @@ The package fetchmail (version 6.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 3952 | 3952 | 100.0 | /mnt/stockage/packages/f9/fetchmail/po/de.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/en_GB.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/ja.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/ru.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 3875 | 3952 | 98.1 | /mnt/stockage/packages/f9/fetchmail/po/fr.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 3836 | 3952 | 97.1 | /mnt/stockage/packages/f9/fetchmail/po/vi.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 3820 | 3952 | 96.7 | /mnt/stockage/packages/f9/fetchmail/po/es.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 3784 | 3952 | 95.7 | /mnt/stockage/packages/f9/fetchmail/po/ca.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 3429 | 3952 | 86.8 | /mnt/stockage/packages/f9/fetchmail/po/sq.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 3244 | 3952 | 82.1 | /mnt/stockage/packages/f9/fetchmail/po/cs.po | 
+ | [de](/f9/language/de) | 3952 | 3952 | 100.0 | /mnt/stockage/packages/f9/fetchmail/po/de.po | 
+ | [en_GB](/f9/language/en_GB) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/en_GB.po | 
+ | [ja](/f9/language/ja) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/ja.po | 
+ | [pl](/f9/language/pl) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/pl.po | 
+ | [ru](/f9/language/ru) | 3943 | 3952 | 99.8 | /mnt/stockage/packages/f9/fetchmail/po/ru.po | 
+ | [fr](/f9/language/fr) | 3875 | 3952 | 98.1 | /mnt/stockage/packages/f9/fetchmail/po/fr.po | 
+ | [vi](/f9/language/vi) | 3836 | 3952 | 97.1 | /mnt/stockage/packages/f9/fetchmail/po/vi.po | 
+ | [es](/f9/language/es) | 3820 | 3952 | 96.7 | /mnt/stockage/packages/f9/fetchmail/po/es.po | 
+ | [ca](/f9/language/ca) | 3784 | 3952 | 95.7 | /mnt/stockage/packages/f9/fetchmail/po/ca.po | 
+ | [sq](/f9/language/sq) | 3429 | 3952 | 86.8 | /mnt/stockage/packages/f9/fetchmail/po/sq.po | 
+ | [cs](/f9/language/cs) | 3244 | 3952 | 82.1 | /mnt/stockage/packages/f9/fetchmail/po/cs.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package awf-gtk3 (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f34/awf-gtk3/src/po/fr.po | 
+ | [fr](/f34/language/fr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f34/awf-gtk3/src/po/fr.po | 
 {.sortable}
 
 

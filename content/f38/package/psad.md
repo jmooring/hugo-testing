@@ -18,21 +18,21 @@ The package psad (version 2.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/es.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/it.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/pl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 163 | 493 | 33.1 | /mnt/stockage/packages/f38/psad/deps/whois/po/pt_BR.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 123 | 493 | 24.9 | /mnt/stockage/packages/f38/psad/deps/whois/po/el.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 123 | 493 | 24.9 | /mnt/stockage/packages/f38/psad/deps/whois/po/ja.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 101 | 493 | 20.5 | /mnt/stockage/packages/f38/psad/deps/whois/po/eu.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 30 | 960 | 3.1 | /mnt/stockage/packages/f38/psad/deps/whois/po/no.po/mnt/stockage/packages/f38/psad/deps/whois/po/nb.po | 
+ | [cs](/f38/language/cs) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/cs.po | 
+ | [da](/f38/language/da) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/da.po | 
+ | [de](/f38/language/de) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/de.po | 
+ | [es](/f38/language/es) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/es.po | 
+ | [fi](/f38/language/fi) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/fi.po | 
+ | [fr](/f38/language/fr) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/fr.po | 
+ | [it](/f38/language/it) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/it.po | 
+ | [pl](/f38/language/pl) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/pl.po | 
+ | [ru](/f38/language/ru) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 493 | 493 | 100.0 | /mnt/stockage/packages/f38/psad/deps/whois/po/zh_CN.po | 
+ | [pt_BR](/f38/language/pt_BR) | 163 | 493 | 33.1 | /mnt/stockage/packages/f38/psad/deps/whois/po/pt_BR.po | 
+ | [el](/f38/language/el) | 123 | 493 | 24.9 | /mnt/stockage/packages/f38/psad/deps/whois/po/el.po | 
+ | [ja](/f38/language/ja) | 123 | 493 | 24.9 | /mnt/stockage/packages/f38/psad/deps/whois/po/ja.po | 
+ | [eu](/f38/language/eu) | 101 | 493 | 20.5 | /mnt/stockage/packages/f38/psad/deps/whois/po/eu.po | 
+ | [nb_NO](/f38/language/nb_NO) | 30 | 960 | 3.1 | /mnt/stockage/packages/f38/psad/deps/whois/po/no.po/mnt/stockage/packages/f38/psad/deps/whois/po/nb.po | 
 {.sortable}
 
 

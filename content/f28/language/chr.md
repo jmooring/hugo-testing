@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f28/package/iso-codes.md" >}}) | 120 | 986 | 12.2 | Cherokee <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/chr/> | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 3 | 837 | 0.4 | Cherokee <chr@li.org> | 
+ | [iso-codes](/f28/package/iso-codes) | 120 | 986 | 12.2 | Cherokee <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/chr/> | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 3 | 837 | 0.4 | Cherokee <chr@li.org> | 
 {.sortable}
 
 

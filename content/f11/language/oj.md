@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f11/package/tuxpaint.md" >}}) | 204 | 761 | 26.8 | Ed <edm@rocketmail.com> | 
+ | [tuxpaint](/f11/package/tuxpaint) | 204 | 761 | 26.8 | Ed <edm@rocketmail.com> | 
 {.sortable}
 
 

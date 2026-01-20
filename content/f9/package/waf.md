@@ -18,7 +18,7 @@ The package waf (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f9/waf/demos/gnome/po/es.po | 
+ | [es](/f9/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f9/waf/demos/gnome/po/es.po | 
 {.sortable}
 
 

@@ -44,42 +44,42 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f43/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Akan <akan-translators@lists.launchpad.net> | 
- | [abiword]({{< ref "/f43/package/abiword.md" >}}) | 4473 | 5510 | 81.2 | LANGUAGE <LL@li.org> | 
- | [gtkspell3]({{< ref "/f43/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f43/package/elementary-calendar.md" >}}) | 338 | 670 | 50.4 | Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/> | 
- | [sugar-toolkit-gtk3]({{< ref "/f43/package/sugar-toolkit-gtk3.md" >}}) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f43/package/elementary-files.md" >}}) | 367 | 2656 | 13.8 | Akan <ak@li.org> | 
- | [elementary-camera]({{< ref "/f43/package/elementary-camera.md" >}}) | 17 | 141 | 12.1 | ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/> | 
- | [wingpanel]({{< ref "/f43/package/wingpanel.md" >}}) | 6 | 57 | 10.5 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/> | 
- | [granite]({{< ref "/f43/package/granite.md" >}}) | 43 | 498 | 8.6 | Akan <ak@li.org> | 
- | [sugar-speak]({{< ref "/f43/package/sugar-speak.md" >}}) | 16 | 227 | 7.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f43/package/sugar-clock.md" >}}) | 3 | 66 | 4.5 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f43/package/wingpanel-indicator-datetime.md" >}}) | 4 | 103 | 3.9 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ak/> | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 14 | 596 | 2.3 | Akan <ak@li.org> | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 7 | 319 | 2.2 | Akan <https://l10n.elementary.io/projects/desktop/gala/ak/> | 
- | [elementary-music]({{< ref "/f43/package/elementary-music.md" >}}) | 5 | 231 | 2.2 | LANGUAGE <LL@li.org> | 
- | [elementary-code]({{< ref "/f43/package/elementary-code.md" >}}) | 46 | 2228 | 2.1 | LANGUAGE <LL@li.org> | 
- | [elementary-mail]({{< ref "/f43/package/elementary-mail.md" >}}) | 9 | 861 | 1.0 | Akan <ak@li.org> | 
- | [elementary-calculator]({{< ref "/f43/package/elementary-calculator.md" >}}) | 1 | 174 | 0.6 | Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/> | 
- | [elementary-photos]({{< ref "/f43/package/elementary-photos.md" >}}) | 5 | 2862 | 0.2 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 1 | 989 | 0.1 | Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/> | 
- | [tilix]({{< ref "/f43/package/tilix.md" >}}) | 1 | 2429 | 0.0 | Akan <https://hosted.weblate.org/projects/tilix/translations/ak/> | 
- | [bookworm]({{< ref "/f43/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [dippi]({{< ref "/f43/package/dippi.md" >}}) | 0 | 1653 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f43/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-screenshot]({{< ref "/f43/package/elementary-screenshot.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f43/package/python-django-mailman3.md" >}}) | 0 | 467 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f43/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sawfish]({{< ref "/f43/package/sawfish.md" >}}) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
- | [sugar-implode]({{< ref "/f43/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f43/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-a11y]({{< ref "/f43/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f43/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f43/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [gnome-menus](/f43/package/gnome-menus) | 70 | 70 | 100.0 | Akan <akan-translators@lists.launchpad.net> | 
+ | [abiword](/f43/package/abiword) | 4473 | 5510 | 81.2 | LANGUAGE <LL@li.org> | 
+ | [gtkspell3](/f43/package/gtkspell3) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
+ | [elementary-calendar](/f43/package/elementary-calendar) | 338 | 670 | 50.4 | Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/> | 
+ | [sugar-toolkit-gtk3](/f43/package/sugar-toolkit-gtk3) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f43/package/elementary-files) | 367 | 2656 | 13.8 | Akan <ak@li.org> | 
+ | [elementary-camera](/f43/package/elementary-camera) | 17 | 141 | 12.1 | ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/> | 
+ | [wingpanel](/f43/package/wingpanel) | 6 | 57 | 10.5 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/> | 
+ | [granite](/f43/package/granite) | 43 | 498 | 8.6 | Akan <ak@li.org> | 
+ | [sugar-speak](/f43/package/sugar-speak) | 16 | 227 | 7.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f43/package/sugar-clock) | 3 | 66 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f43/package/wingpanel-indicator-datetime) | 4 | 103 | 3.9 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ak/> | 
+ | [granite-7](/f43/package/granite-7) | 14 | 596 | 2.3 | Akan <ak@li.org> | 
+ | [gala](/f43/package/gala) | 7 | 319 | 2.2 | Akan <https://l10n.elementary.io/projects/desktop/gala/ak/> | 
+ | [elementary-music](/f43/package/elementary-music) | 5 | 231 | 2.2 | LANGUAGE <LL@li.org> | 
+ | [elementary-code](/f43/package/elementary-code) | 46 | 2228 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [elementary-mail](/f43/package/elementary-mail) | 9 | 861 | 1.0 | Akan <ak@li.org> | 
+ | [elementary-calculator](/f43/package/elementary-calculator) | 1 | 174 | 0.6 | Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/> | 
+ | [elementary-photos](/f43/package/elementary-photos) | 5 | 2862 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f43/package/iso-codes) | 1 | 989 | 0.1 | Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/> | 
+ | [tilix](/f43/package/tilix) | 1 | 2429 | 0.0 | Akan <https://hosted.weblate.org/projects/tilix/translations/ak/> | 
+ | [bookworm](/f43/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [dippi](/f43/package/dippi) | 0 | 1653 | 0.0 | none | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-onboarding](/f43/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-screenshot](/f43/package/elementary-screenshot) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [python-django-mailman3](/f43/package/python-django-mailman3) | 0 | 467 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f43/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sawfish](/f43/package/sawfish) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
+ | [sugar-implode](/f43/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f43/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-a11y](/f43/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f43/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f43/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

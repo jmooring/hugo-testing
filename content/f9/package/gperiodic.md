@@ -18,14 +18,14 @@ The package gperiodic (version 2.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 1845 | 1845 | 100.0 | /mnt/stockage/packages/f9/gperiodic/po/da.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f9/gperiodic/po/it.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1840 | 1845 | 99.7 | /mnt/stockage/packages/f9/gperiodic/po/pl.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 1836 | 1845 | 99.5 | /mnt/stockage/packages/f9/gperiodic/po/tr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1827 | 1850 | 98.8 | /mnt/stockage/packages/f9/gperiodic/po/sv.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1767 | 1848 | 95.6 | /mnt/stockage/packages/f9/gperiodic/po/ru.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f9/gperiodic/po/gl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 208 | 1845 | 11.3 | /mnt/stockage/packages/f9/gperiodic/po/fr.po | 
+ | [da](/f9/language/da) | 1845 | 1845 | 100.0 | /mnt/stockage/packages/f9/gperiodic/po/da.po | 
+ | [it](/f9/language/it) | 227 | 227 | 100.0 | /mnt/stockage/packages/f9/gperiodic/po/it.po | 
+ | [pl](/f9/language/pl) | 1840 | 1845 | 99.7 | /mnt/stockage/packages/f9/gperiodic/po/pl.po | 
+ | [tr](/f9/language/tr) | 1836 | 1845 | 99.5 | /mnt/stockage/packages/f9/gperiodic/po/tr.po | 
+ | [sv](/f9/language/sv) | 1827 | 1850 | 98.8 | /mnt/stockage/packages/f9/gperiodic/po/sv.po | 
+ | [ru](/f9/language/ru) | 1767 | 1848 | 95.6 | /mnt/stockage/packages/f9/gperiodic/po/ru.po | 
+ | [gl](/f9/language/gl) | 139 | 155 | 89.7 | /mnt/stockage/packages/f9/gperiodic/po/gl.po | 
+ | [fr](/f9/language/fr) | 208 | 1845 | 11.3 | /mnt/stockage/packages/f9/gperiodic/po/fr.po | 
 {.sortable}
 
 

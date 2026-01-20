@@ -49,7 +49,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-journal]({{< ref "/f9/package/sugar-journal.md" >}}) | 0 | 39 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-journal](/f9/package/sugar-journal) | 0 | 39 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

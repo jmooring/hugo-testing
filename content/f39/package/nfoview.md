@@ -18,29 +18,29 @@ The package nfoview (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/fi.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/nl.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/pt_PT.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/sv.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/br.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/el.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/es_ES.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/it.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/ka.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/ro.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/tr.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/bg.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/he.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/hu.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/sr.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 47 | 108 | 43.5 | /mnt/stockage/packages/f39/nfoview/po/zh_CN.po | 
- | [de_CH]({{< ref "/f39/language/de_CH.md" >}}) | 46 | 108 | 42.6 | /mnt/stockage/packages/f39/nfoview/po/de_CH.po | 
+ | [fi](/f39/language/fi) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/fi.po | 
+ | [nl](/f39/language/nl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/nl.po | 
+ | [pt_PT](/f39/language/pt_PT) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/pt_PT.po | 
+ | [sv](/f39/language/sv) | 108 | 108 | 100.0 | /mnt/stockage/packages/f39/nfoview/po/sv.po | 
+ | [br](/f39/language/br) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/br.po | 
+ | [cs](/f39/language/cs) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/cs.po | 
+ | [de](/f39/language/de) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/de.po | 
+ | [el](/f39/language/el) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/el.po | 
+ | [es](/f39/language/es) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/es_ES.po | 
+ | [fr](/f39/language/fr) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/fr.po | 
+ | [it](/f39/language/it) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/it.po | 
+ | [ka](/f39/language/ka) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/ka.po | 
+ | [pl](/f39/language/pl) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/ro.po | 
+ | [tr](/f39/language/tr) | 99 | 108 | 91.7 | /mnt/stockage/packages/f39/nfoview/po/tr.po | 
+ | [bg](/f39/language/bg) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/bg.po | 
+ | [he](/f39/language/he) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/he.po | 
+ | [hu](/f39/language/hu) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/hu.po | 
+ | [ru](/f39/language/ru) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/ru.po | 
+ | [sr](/f39/language/sr) | 49 | 108 | 45.4 | /mnt/stockage/packages/f39/nfoview/po/sr.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 47 | 108 | 43.5 | /mnt/stockage/packages/f39/nfoview/po/zh_CN.po | 
+ | [de_CH](/f39/language/de_CH) | 46 | 108 | 42.6 | /mnt/stockage/packages/f39/nfoview/po/de_CH.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package cppi (version 1.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/eo.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/ja.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/pl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/sr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/sv.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/vi.po | 
+ | [eo](/f17/language/eo) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/eo.po | 
+ | [fi](/f17/language/fi) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/fi.po | 
+ | [fr](/f17/language/fr) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/fr.po | 
+ | [it](/f17/language/it) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/it.po | 
+ | [ja](/f17/language/ja) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/ja.po | 
+ | [pl](/f17/language/pl) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/pl.po | 
+ | [sr](/f17/language/sr) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/sr.po | 
+ | [sv](/f17/language/sv) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/sv.po | 
+ | [uk](/f17/language/uk) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/uk.po | 
+ | [vi](/f17/language/vi) | 528 | 596 | 88.6 | /mnt/stockage/packages/f17/cppi/po/vi.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | N'ko (http://www.transifex.com/projects/p/owncloud/language/nqo/) | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | N'ko (http://www.transifex.com/projects/p/owncloud/language/nqo/) | 
 {.sortable}
 
 

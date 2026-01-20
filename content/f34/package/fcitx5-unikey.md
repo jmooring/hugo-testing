@@ -18,17 +18,17 @@ The package fcitx5-unikey (version 5.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/de.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ko.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ru.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/zh_TW.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 19 | 20 | 95.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/tr.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 17 | 20 | 85.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ca.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 14 | 20 | 70.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/vi.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 9 | 20 | 45.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/he.po | 
+ | [da](/f34/language/da) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/da.po | 
+ | [de](/f34/language/de) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/de.po | 
+ | [ja](/f34/language/ja) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ja.po | 
+ | [ko](/f34/language/ko) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ko.po | 
+ | [ru](/f34/language/ru) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ru.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 20 | 20 | 100.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/zh_TW.po | 
+ | [tr](/f34/language/tr) | 19 | 20 | 95.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/tr.po | 
+ | [ca](/f34/language/ca) | 17 | 20 | 85.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/ca.po | 
+ | [vi](/f34/language/vi) | 14 | 20 | 70.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/vi.po | 
+ | [he](/f34/language/he) | 9 | 20 | 45.0 | /mnt/stockage/packages/f34/fcitx5-unikey/po/he.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f15/package/tuxpaint.md" >}}) | 489 | 1247 | 39.2 |  | 
+ | [tuxpaint](/f15/package/tuxpaint) | 489 | 1247 | 39.2 |  | 
 {.sortable}
 
 

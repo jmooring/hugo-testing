@@ -18,39 +18,39 @@ The package minuet (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/ca/minuet.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/ca@valencia/minuet.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/de/minuet.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/en_GB/minuet.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/eo/minuet.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/es/minuet.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/eu/minuet.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/fr/minuet.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/gl/minuet.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/it/minuet.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/nl/minuet.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/pl/minuet.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/sl/minuet.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/tr/minuet.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/uk/minuet.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 426 | 534 | 79.8 | /mnt/stockage/packages/f41/minuet/po/ka/minuet.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 375 | 534 | 70.2 | /mnt/stockage/packages/f41/minuet/po/sv/minuet.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 350 | 534 | 65.5 | /mnt/stockage/packages/f41/minuet/po/ko/minuet.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/fi/minuet.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/pt/minuet.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/pt_BR/minuet.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/ru/minuet.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/sk/minuet.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 207 | 534 | 38.8 | /mnt/stockage/packages/f41/minuet/po/da/minuet.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 193 | 534 | 36.1 | /mnt/stockage/packages/f41/minuet/po/et/minuet.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 162 | 534 | 30.3 | /mnt/stockage/packages/f41/minuet/po/zh_TW/minuet.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 135 | 534 | 25.3 | /mnt/stockage/packages/f41/minuet/po/zh_CN/minuet.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 121 | 534 | 22.7 | /mnt/stockage/packages/f41/minuet/po/nn/minuet.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 50 | 534 | 9.4 | /mnt/stockage/packages/f41/minuet/po/cs/minuet.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 8 | 534 | 1.5 | /mnt/stockage/packages/f41/minuet/po/ar/minuet.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 2 | 534 | 0.4 | /mnt/stockage/packages/f41/minuet/po/ml/minuet.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 534 | 0.0 | /mnt/stockage/packages/f41/minuet/po/ja/minuet.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 0 | 534 | 0.0 | /mnt/stockage/packages/f41/minuet/po/lt/minuet.po | 
+ | [ca](/f41/language/ca) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/ca/minuet.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/ca@valencia/minuet.po | 
+ | [de](/f41/language/de) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/de/minuet.po | 
+ | [en_GB](/f41/language/en_GB) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/en_GB/minuet.po | 
+ | [eo](/f41/language/eo) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/eo/minuet.po | 
+ | [es](/f41/language/es) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/es/minuet.po | 
+ | [eu](/f41/language/eu) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/eu/minuet.po | 
+ | [fr](/f41/language/fr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/fr/minuet.po | 
+ | [gl](/f41/language/gl) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/gl/minuet.po | 
+ | [it](/f41/language/it) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/it/minuet.po | 
+ | [nl](/f41/language/nl) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/nl/minuet.po | 
+ | [pl](/f41/language/pl) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/pl/minuet.po | 
+ | [sl](/f41/language/sl) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/sl/minuet.po | 
+ | [tr](/f41/language/tr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/tr/minuet.po | 
+ | [uk](/f41/language/uk) | 534 | 534 | 100.0 | /mnt/stockage/packages/f41/minuet/po/uk/minuet.po | 
+ | [ka](/f41/language/ka) | 426 | 534 | 79.8 | /mnt/stockage/packages/f41/minuet/po/ka/minuet.po | 
+ | [sv](/f41/language/sv) | 375 | 534 | 70.2 | /mnt/stockage/packages/f41/minuet/po/sv/minuet.po | 
+ | [ko](/f41/language/ko) | 350 | 534 | 65.5 | /mnt/stockage/packages/f41/minuet/po/ko/minuet.po | 
+ | [fi](/f41/language/fi) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/fi/minuet.po | 
+ | [pt](/f41/language/pt) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/pt/minuet.po | 
+ | [pt_BR](/f41/language/pt_BR) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/pt_BR/minuet.po | 
+ | [ru](/f41/language/ru) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/ru/minuet.po | 
+ | [sk](/f41/language/sk) | 326 | 534 | 61.0 | /mnt/stockage/packages/f41/minuet/po/sk/minuet.po | 
+ | [da](/f41/language/da) | 207 | 534 | 38.8 | /mnt/stockage/packages/f41/minuet/po/da/minuet.po | 
+ | [et](/f41/language/et) | 193 | 534 | 36.1 | /mnt/stockage/packages/f41/minuet/po/et/minuet.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 162 | 534 | 30.3 | /mnt/stockage/packages/f41/minuet/po/zh_TW/minuet.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 135 | 534 | 25.3 | /mnt/stockage/packages/f41/minuet/po/zh_CN/minuet.po | 
+ | [nn](/f41/language/nn) | 121 | 534 | 22.7 | /mnt/stockage/packages/f41/minuet/po/nn/minuet.po | 
+ | [cs](/f41/language/cs) | 50 | 534 | 9.4 | /mnt/stockage/packages/f41/minuet/po/cs/minuet.po | 
+ | [ar](/f41/language/ar) | 8 | 534 | 1.5 | /mnt/stockage/packages/f41/minuet/po/ar/minuet.po | 
+ | [ml](/f41/language/ml) | 2 | 534 | 0.4 | /mnt/stockage/packages/f41/minuet/po/ml/minuet.po | 
+ | [ja](/f41/language/ja) | 0 | 534 | 0.0 | /mnt/stockage/packages/f41/minuet/po/ja/minuet.po | 
+ | [lt](/f41/language/lt) | 0 | 534 | 0.0 | /mnt/stockage/packages/f41/minuet/po/lt/minuet.po | 
 {.sortable}
 
 

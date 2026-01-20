@@ -18,31 +18,31 @@ The package claws-mail (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/it.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/pt_BR.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 14471 | 14687 | 98.5 | /mnt/stockage/packages/f7/claws-mail/po/hu.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 13906 | 14687 | 94.7 | /mnt/stockage/packages/f7/claws-mail/po/zh_CN.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 13814 | 14687 | 94.1 | /mnt/stockage/packages/f7/claws-mail/po/sk.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 13383 | 14687 | 91.1 | /mnt/stockage/packages/f7/claws-mail/po/pl.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 12839 | 14687 | 87.4 | /mnt/stockage/packages/f7/claws-mail/po/ca.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 12817 | 14687 | 87.3 | /mnt/stockage/packages/f7/claws-mail/po/sr.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 12185 | 14687 | 83.0 | /mnt/stockage/packages/f7/claws-mail/po/cs.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 10586 | 14687 | 72.1 | /mnt/stockage/packages/f7/claws-mail/po/nl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 10473 | 14687 | 71.3 | /mnt/stockage/packages/f7/claws-mail/po/ru.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 8516 | 14687 | 58.0 | /mnt/stockage/packages/f7/claws-mail/po/nb.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 7560 | 14687 | 51.5 | /mnt/stockage/packages/f7/claws-mail/po/bg.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 7027 | 14687 | 47.8 | /mnt/stockage/packages/f7/claws-mail/po/el.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 5978 | 14687 | 40.7 | /mnt/stockage/packages/f7/claws-mail/po/zh_TW.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 5850 | 14687 | 39.8 | /mnt/stockage/packages/f7/claws-mail/po/sv.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 5254 | 14687 | 35.8 | /mnt/stockage/packages/f7/claws-mail/po/ko.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 5138 | 14687 | 35.0 | /mnt/stockage/packages/f7/claws-mail/po/hr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 5125 | 14687 | 34.9 | /mnt/stockage/packages/f7/claws-mail/po/ja.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 3433 | 14687 | 23.4 | /mnt/stockage/packages/f7/claws-mail/po/he.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 506 | 14687 | 3.4 | /mnt/stockage/packages/f7/claws-mail/po/en_GB.po | 
+ | [de](/f7/language/de) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/de.po | 
+ | [es](/f7/language/es) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/es.po | 
+ | [fi](/f7/language/fi) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/fi.po | 
+ | [fr](/f7/language/fr) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/fr.po | 
+ | [it](/f7/language/it) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/it.po | 
+ | [pt_BR](/f7/language/pt_BR) | 14687 | 14687 | 100.0 | /mnt/stockage/packages/f7/claws-mail/po/pt_BR.po | 
+ | [hu](/f7/language/hu) | 14471 | 14687 | 98.5 | /mnt/stockage/packages/f7/claws-mail/po/hu.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 13906 | 14687 | 94.7 | /mnt/stockage/packages/f7/claws-mail/po/zh_CN.po | 
+ | [sk](/f7/language/sk) | 13814 | 14687 | 94.1 | /mnt/stockage/packages/f7/claws-mail/po/sk.po | 
+ | [pl](/f7/language/pl) | 13383 | 14687 | 91.1 | /mnt/stockage/packages/f7/claws-mail/po/pl.po | 
+ | [ca](/f7/language/ca) | 12839 | 14687 | 87.4 | /mnt/stockage/packages/f7/claws-mail/po/ca.po | 
+ | [sr](/f7/language/sr) | 12817 | 14687 | 87.3 | /mnt/stockage/packages/f7/claws-mail/po/sr.po | 
+ | [cs](/f7/language/cs) | 12185 | 14687 | 83.0 | /mnt/stockage/packages/f7/claws-mail/po/cs.po | 
+ | [nl](/f7/language/nl) | 10586 | 14687 | 72.1 | /mnt/stockage/packages/f7/claws-mail/po/nl.po | 
+ | [ru](/f7/language/ru) | 10473 | 14687 | 71.3 | /mnt/stockage/packages/f7/claws-mail/po/ru.po | 
+ | [nb_NO](/f7/language/nb_NO) | 8516 | 14687 | 58.0 | /mnt/stockage/packages/f7/claws-mail/po/nb.po | 
+ | [bg](/f7/language/bg) | 7560 | 14687 | 51.5 | /mnt/stockage/packages/f7/claws-mail/po/bg.po | 
+ | [el](/f7/language/el) | 7027 | 14687 | 47.8 | /mnt/stockage/packages/f7/claws-mail/po/el.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 5978 | 14687 | 40.7 | /mnt/stockage/packages/f7/claws-mail/po/zh_TW.po | 
+ | [sv](/f7/language/sv) | 5850 | 14687 | 39.8 | /mnt/stockage/packages/f7/claws-mail/po/sv.po | 
+ | [ko](/f7/language/ko) | 5254 | 14687 | 35.8 | /mnt/stockage/packages/f7/claws-mail/po/ko.po | 
+ | [hr](/f7/language/hr) | 5138 | 14687 | 35.0 | /mnt/stockage/packages/f7/claws-mail/po/hr.po | 
+ | [ja](/f7/language/ja) | 5125 | 14687 | 34.9 | /mnt/stockage/packages/f7/claws-mail/po/ja.po | 
+ | [he](/f7/language/he) | 3433 | 14687 | 23.4 | /mnt/stockage/packages/f7/claws-mail/po/he.po | 
+ | [en_GB](/f7/language/en_GB) | 506 | 14687 | 3.4 | /mnt/stockage/packages/f7/claws-mail/po/en_GB.po | 
 {.sortable}
 
 

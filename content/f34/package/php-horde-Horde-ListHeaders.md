@@ -18,12 +18,12 @@ The package php-horde-Horde-ListHeaders (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/da/LC_MESSAGES/Horde_ListHeaders.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/de/LC_MESSAGES/Horde_ListHeaders.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/es/LC_MESSAGES/Horde_ListHeaders.po/mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/el/LC_MESSAGES/Horde_ListHeaders.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/hu/LC_MESSAGES/Horde_ListHeaders.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/ja/LC_MESSAGES/Horde_ListHeaders.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/tr/LC_MESSAGES/Horde_ListHeaders.po | 
+ | [da](/f34/language/da) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/da/LC_MESSAGES/Horde_ListHeaders.po | 
+ | [de](/f34/language/de) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/de/LC_MESSAGES/Horde_ListHeaders.po | 
+ | [es](/f34/language/es) | 14 | 14 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/es/LC_MESSAGES/Horde_ListHeaders.po/mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/el/LC_MESSAGES/Horde_ListHeaders.po | 
+ | [hu](/f34/language/hu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/hu/LC_MESSAGES/Horde_ListHeaders.po | 
+ | [ja](/f34/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/ja/LC_MESSAGES/Horde_ListHeaders.po | 
+ | [tr](/f34/language/tr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/php-horde-Horde-ListHeaders/Horde_ListHeaders-1.2.5/locale/tr/LC_MESSAGES/Horde_ListHeaders.po | 
 {.sortable}
 
 

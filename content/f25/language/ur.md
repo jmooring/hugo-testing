@@ -42,274 +42,274 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [file-roller]({{< ref "/f25/package/file-roller.md" >}}) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [islamic-menus]({{< ref "/f25/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Urdu <ur@li.org> | 
- | [lxmenu-data]({{< ref "/f25/package/lxmenu-data.md" >}}) | 194 | 194 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [lxshortcut]({{< ref "/f25/package/lxshortcut.md" >}}) | 86 | 86 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [mate-menus]({{< ref "/f25/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [olpc-switch-desktop]({{< ref "/f25/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 62 | 62 | 100.0 | Urdu <ur@li.org> | 
- | [thunar-archive-plugin]({{< ref "/f25/package/thunar-archive-plugin.md" >}}) | 172 | 172 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [thunar-media-tags-plugin]({{< ref "/f25/package/thunar-media-tags-plugin.md" >}}) | 144 | 144 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [wingpanel]({{< ref "/f25/package/wingpanel.md" >}}) | 8 | 8 | 100.0 | Urdu <ur@li.org> | 
- | [xfbib]({{< ref "/f25/package/xfbib.md" >}}) | 342 | 342 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-genmon-plugin]({{< ref "/f25/package/xfce4-genmon-plugin.md" >}}) | 71 | 71 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-verve-plugin]({{< ref "/f25/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [sugar-toolkit-gtk3]({{< ref "/f25/package/sugar-toolkit-gtk3.md" >}}) | 75 | 76 | 98.7 | Sugar Labs | 
- | [xfce4-mailwatch-plugin]({{< ref "/f25/package/xfce4-mailwatch-plugin.md" >}}) | 647 | 657 | 98.5 | Urdu <makki.ma@gmail.com> | 
- | [gnucash]({{< ref "/f25/package/gnucash.md" >}}) | 29192 | 29737 | 98.2 | NONE | 
- | [xfce4-datetime-plugin]({{< ref "/f25/package/xfce4-datetime-plugin.md" >}}) | 51 | 52 | 98.1 | Urdu <makki.ma@gmail.com> | 
- | [libxfce4util]({{< ref "/f25/package/libxfce4util.md" >}}) | 826 | 848 | 97.4 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-wavelan-plugin]({{< ref "/f25/package/xfce4-wavelan-plugin.md" >}}) | 98 | 102 | 96.1 | Urdu <makki.ma@gmail.com> | 
- | [lxmusic]({{< ref "/f25/package/lxmusic.md" >}}) | 195 | 203 | 96.1 | Urdu <makki.ma@gmail.com> | 
- | [system-config-httpd]({{< ref "/f25/package/system-config-httpd.md" >}}) | 816 | 858 | 95.1 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [caja]({{< ref "/f25/package/caja.md" >}}) | 8723 | 9313 | 93.7 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [xfce4-power-manager]({{< ref "/f25/package/xfce4-power-manager.md" >}}) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
- | [sugar-toolkit]({{< ref "/f25/package/sugar-toolkit.md" >}}) | 68 | 73 | 93.2 | LANGUAGE <LL@li.org> | 
- | [gpicview]({{< ref "/f25/package/gpicview.md" >}}) | 219 | 236 | 92.8 | Urdu <makki.ma@gmail.com> | 
- | [osmo]({{< ref "/f25/package/osmo.md" >}}) | 1594 | 1726 | 92.4 | urducoder.com <makkiabufaris@aol.com> | 
- | [mate-polkit]({{< ref "/f25/package/mate-polkit.md" >}}) | 287 | 313 | 91.7 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [klavaro]({{< ref "/f25/package/klavaro.md" >}}) | 1727 | 1911 | 90.4 | Urdu <jessbody@gmail.com> | 
- | [wingpanel-indicator-sound]({{< ref "/f25/package/wingpanel-indicator-sound.md" >}}) | 13 | 15 | 86.7 | Urdu <ur@li.org> | 
- | [thunar-vfs]({{< ref "/f25/package/thunar-vfs.md" >}}) | 335 | 387 | 86.6 | urdu <makki.ma@gmail.com> | 
- | [lxtask]({{< ref "/f25/package/lxtask.md" >}}) | 112 | 130 | 86.2 | Urdu <makki.ma@gmail.com> | 
- | [sugar-connect]({{< ref "/f25/package/sugar-connect.md" >}}) | 31 | 36 | 86.1 | LANGUAGE <LL@li.org> | 
- | [mate-control-center]({{< ref "/f25/package/mate-control-center.md" >}}) | 2308 | 2722 | 84.8 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [exo]({{< ref "/f25/package/exo.md" >}}) | 1169 | 1393 | 83.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [xfce4-xkb-plugin]({{< ref "/f25/package/xfce4-xkb-plugin.md" >}}) | 72 | 86 | 83.7 | Urdu <makki.ma@gmail.com> | 
- | [redhat-menus]({{< ref "/f25/package/redhat-menus.md" >}}) | 216 | 261 | 82.8 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [xfce4-battery-plugin]({{< ref "/f25/package/xfce4-battery-plugin.md" >}}) | 246 | 298 | 82.6 | Urdu <makki.ma@gmail.com> | 
- | [chkconfig]({{< ref "/f25/package/chkconfig.md" >}}) | 410 | 513 | 79.9 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [Thunar]({{< ref "/f25/package/Thunar.md" >}}) | 3303 | 4139 | 79.8 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f25/package/xfce4-fsguard-plugin.md" >}}) | 56 | 71 | 78.9 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-screenshooter]({{< ref "/f25/package/xfce4-screenshooter.md" >}}) | 690 | 886 | 77.9 | Urdu <makki.ma@gmail.com> | 
- | [xfwm4]({{< ref "/f25/package/xfwm4.md" >}}) | 488 | 649 | 75.2 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [pix]({{< ref "/f25/package/pix.md" >}}) | 2793 | 3718 | 75.1 | Urdu <ur@li.org> | 
- | [gigolo]({{< ref "/f25/package/gigolo.md" >}}) | 390 | 521 | 74.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f25/package/xfce4-diskperf-plugin.md" >}}) | 272 | 366 | 74.3 | Urdu <makki.ma@gmail.com> | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 1920 | 2618 | 73.3 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [lxinput]({{< ref "/f25/package/lxinput.md" >}}) | 60 | 83 | 72.3 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-sensors-plugin]({{< ref "/f25/package/xfce4-sensors-plugin.md" >}}) | 516 | 716 | 72.1 | Urdu <makki.ma@gmail.com> | 
- | [xplayer]({{< ref "/f25/package/xplayer.md" >}}) | 1410 | 1957 | 72.0 | Urdu <ur@li.org> | 
- | [xfce4-mount-plugin]({{< ref "/f25/package/xfce4-mount-plugin.md" >}}) | 488 | 682 | 71.6 | Urdu <makki.ma@gmail.com> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 130 | 182 | 71.4 | Urdu <ur@li.org> | 
- | [xfce4-session]({{< ref "/f25/package/xfce4-session.md" >}}) | 759 | 1066 | 71.2 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [lxlauncher]({{< ref "/f25/package/lxlauncher.md" >}}) | 41 | 58 | 70.7 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-systemload-plugin]({{< ref "/f25/package/xfce4-systemload-plugin.md" >}}) | 94 | 134 | 70.1 | Urdu <makki.ma@gmail.com> | 
- | [xfmpc]({{< ref "/f25/package/xfmpc.md" >}}) | 234 | 334 | 70.1 | Urdu <makki.ma@gmail.com> | 
- | [orage]({{< ref "/f25/package/orage.md" >}}) | 1792 | 2601 | 68.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 35 | 52 | 67.3 |  | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 1792 | 2676 | 67.0 | Urdu <ur@li.org> | 
- | [mate-media]({{< ref "/f25/package/mate-media.md" >}}) | 151 | 226 | 66.8 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [xviewer]({{< ref "/f25/package/xviewer.md" >}}) | 1110 | 1677 | 66.2 | Urdu <ur@li.org> | 
- | [engrampa]({{< ref "/f25/package/engrampa.md" >}}) | 1273 | 1940 | 65.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [thunar-vcs-plugin]({{< ref "/f25/package/thunar-vcs-plugin.md" >}}) | 367 | 571 | 64.3 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [xfce4-terminal]({{< ref "/f25/package/xfce4-terminal.md" >}}) | 699 | 1097 | 63.7 | urdu <makki.ma@gmail.com> | 
- | [xfce4-dict]({{< ref "/f25/package/xfce4-dict.md" >}}) | 660 | 1036 | 63.7 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f25/package/xfce4-smartbookmark-plugin.md" >}}) | 28 | 44 | 63.6 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-cpugraph-plugin]({{< ref "/f25/package/xfce4-cpugraph-plugin.md" >}}) | 90 | 142 | 63.4 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-clipman-plugin]({{< ref "/f25/package/xfce4-clipman-plugin.md" >}}) | 220 | 350 | 62.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [system-config-kickstart]({{< ref "/f25/package/system-config-kickstart.md" >}}) | 717 | 1144 | 62.7 | Urdu (http://www.transifex.com/projects/p/system-config-kickstart/language/ur/) | 
- | [mate-notification-daemon]({{< ref "/f25/package/mate-notification-daemon.md" >}}) | 87 | 139 | 62.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [xfce4-eyes-plugin]({{< ref "/f25/package/xfce4-eyes-plugin.md" >}}) | 18 | 30 | 60.0 | Urdu <makki.ma@gmail.com> | 
- | [xfdesktop]({{< ref "/f25/package/xfdesktop.md" >}}) | 1022 | 1708 | 59.8 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-notes-plugin]({{< ref "/f25/package/xfce4-notes-plugin.md" >}}) | 194 | 326 | 59.5 | Urdu <makki.ma@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 12644 | 21367 | 59.2 | Urdu <ur@li.org> | 
- | [xfconf]({{< ref "/f25/package/xfconf.md" >}}) | 265 | 451 | 58.8 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [lxpanel]({{< ref "/f25/package/lxpanel.md" >}}) | 1584 | 2734 | 57.9 | Urdu <makki.ma@gmail.com> | 
- | [mate-utils]({{< ref "/f25/package/mate-utils.md" >}}) | 2129 | 3677 | 57.9 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [xfce4-settings]({{< ref "/f25/package/xfce4-settings.md" >}}) | 1744 | 3120 | 55.9 | Urdu <makki.ma@gmail.com> | 
- | [inkscape]({{< ref "/f25/package/inkscape.md" >}}) | 21183 | 37939 | 55.8 | gist | 
- | [mate-session-manager]({{< ref "/f25/package/mate-session-manager.md" >}}) | 377 | 681 | 55.4 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [pidgin]({{< ref "/f25/package/pidgin.md" >}}) | 10226 | 18558 | 55.1 | Urdu (http://www.transifex.com/projects/p/pidgin/language/ur/) | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 80 | 146 | 54.8 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 366 | 681 | 53.7 | LANGUAGE <LL@li.org> | 
- | [thunar-volman]({{< ref "/f25/package/thunar-volman.md" >}}) | 260 | 487 | 53.4 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
- | [sugar-write]({{< ref "/f25/package/sugar-write.md" >}}) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
- | [xfce4-mixer]({{< ref "/f25/package/xfce4-mixer.md" >}}) | 188 | 362 | 51.9 | Urdu <makki.ma@gmail.com> | 
- | [isomaster]({{< ref "/f25/package/isomaster.md" >}}) | 698 | 1348 | 51.8 | http://littlesvr.ca/ostd/ | 
- | [pluma]({{< ref "/f25/package/pluma.md" >}}) | 2543 | 5038 | 50.5 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 66 | 132 | 50.0 | Urdu <ur@li.org> | 
- | [asunder]({{< ref "/f25/package/asunder.md" >}}) | 475 | 960 | 49.5 | http://littlesvr.ca/ostd/ | 
- | [xed]({{< ref "/f25/package/xed.md" >}}) | 2191 | 4508 | 48.6 | Urdu (http://www.transifex.com/projects/p/MATE/language/ur/) | 
- | [xfce4-timer-plugin]({{< ref "/f25/package/xfce4-timer-plugin.md" >}}) | 130 | 268 | 48.5 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-places-plugin]({{< ref "/f25/package/xfce4-places-plugin.md" >}}) | 150 | 314 | 47.8 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-mpc-plugin]({{< ref "/f25/package/xfce4-mpc-plugin.md" >}}) | 70 | 152 | 46.1 | Urdu <makki.ma@gmail.com> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 33 | 72 | 45.8 | Urdu <ur@li.org> | 
- | [mate-panel]({{< ref "/f25/package/mate-panel.md" >}}) | 1986 | 4353 | 45.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [slingshot-launcher]({{< ref "/f25/package/slingshot-launcher.md" >}}) | 99 | 217 | 45.6 | Urdu <ur@li.org> | 
- | [granite]({{< ref "/f25/package/granite.md" >}}) | 71 | 156 | 45.5 | Urdu <ur@li.org> | 
- | [python-lettuce]({{< ref "/f25/package/python-lettuce.md" >}}) | 1781 | 3975 | 44.8 | Urdu <None> | 
- | [lxrandr]({{< ref "/f25/package/lxrandr.md" >}}) | 74 | 167 | 44.3 | Urdu <makki.ma@gmail.com> | 
- | [smuxi]({{< ref "/f25/package/smuxi.md" >}}) | 804 | 1858 | 43.3 | Urdu (http://www.transifex.net/projects/p/smuxi/team/ur/) | 
- | [xfce4-time-out-plugin]({{< ref "/f25/package/xfce4-time-out-plugin.md" >}}) | 76 | 178 | 42.7 | Urdu <makki.ma@gmail.com> | 
- | [sugar-log]({{< ref "/f25/package/sugar-log.md" >}}) | 41 | 98 | 41.8 | LANGUAGE <LL@li.org> | 
- | [python-django]({{< ref "/f25/package/python-django.md" >}}) | 1414 | 3392 | 41.7 | Urdu (http://www.transifex.com/django/django/language/ur/) | 
- | [sugar-paint]({{< ref "/f25/package/sugar-paint.md" >}}) | 37 | 90 | 41.1 | LANGUAGE <LL@li.org> | 
- | [mate-screensaver]({{< ref "/f25/package/mate-screensaver.md" >}}) | 402 | 983 | 40.9 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [sugar]({{< ref "/f25/package/sugar.md" >}}) | 664 | 1625 | 40.9 | LANGUAGE <LL@li.org> | 
- | [network-manager-applet]({{< ref "/f25/package/network-manager-applet.md" >}}) | 1325 | 3408 | 38.9 | urducoder.com <makkiabufaris@aol.com> | 
- | [sugar-pippy]({{< ref "/f25/package/sugar-pippy.md" >}}) | 42 | 109 | 38.5 | LANGUAGE <LL@li.org> | 
- | [pantheon-greeter]({{< ref "/f25/package/pantheon-greeter.md" >}}) | 11 | 29 | 37.9 | Urdu <ur@li.org> | 
- | [authconfig]({{< ref "/f25/package/authconfig.md" >}}) | 643 | 1715 | 37.5 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
- | [system-config-keyboard]({{< ref "/f25/package/system-config-keyboard.md" >}}) | 70 | 187 | 37.4 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
- | [xreader]({{< ref "/f25/package/xreader.md" >}}) | 617 | 1653 | 37.3 | Urdu <ur@li.org> | 
- | [mate-settings-daemon]({{< ref "/f25/package/mate-settings-daemon.md" >}}) | 656 | 1764 | 37.2 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [libxfce4ui]({{< ref "/f25/package/libxfce4ui.md" >}}) | 600 | 1868 | 32.1 | Urdu <makki.ma@gmail.com> | 
- | [mate-system-monitor]({{< ref "/f25/package/mate-system-monitor.md" >}}) | 417 | 1307 | 31.9 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 216 | 681 | 31.7 |  | 
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 2278 | 7472 | 30.5 | Urdu <ur@li.org> | 
- | [xfce4-netload-plugin]({{< ref "/f25/package/xfce4-netload-plugin.md" >}}) | 54 | 184 | 29.3 | Urdu <makki.ma@gmail.com> | 
- | [mate-power-manager]({{< ref "/f25/package/mate-power-manager.md" >}}) | 791 | 2724 | 29.0 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [pantheon-terminal]({{< ref "/f25/package/pantheon-terminal.md" >}}) | 53 | 188 | 28.2 | Urdu <ur@li.org> | 
- | [lxterminal]({{< ref "/f25/package/lxterminal.md" >}}) | 66 | 247 | 26.7 | Urdu <makki.ma@gmail.com> | 
- | [slick-greeter]({{< ref "/f25/package/slick-greeter.md" >}}) | 55 | 211 | 26.1 | Urdu <ur@li.org> | 
- | [xfburn]({{< ref "/f25/package/xfburn.md" >}}) | 291 | 1323 | 22.0 | Urdu <makki.ma@gmail.com> | 
- | [blueberry]({{< ref "/f25/package/blueberry.md" >}}) | 31 | 141 | 22.0 | Urdu <ur@li.org> | 
- | [sugar-chat]({{< ref "/f25/package/sugar-chat.md" >}}) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
- | [mate-terminal]({{< ref "/f25/package/mate-terminal.md" >}}) | 961 | 4439 | 21.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [sugar-record]({{< ref "/f25/package/sugar-record.md" >}}) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f25/package/switchboard-plug-applications.md" >}}) | 15 | 85 | 17.6 | Urdu <ur@li.org> | 
- | [sugar-read]({{< ref "/f25/package/sugar-read.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f25/package/sugar-memorize.md" >}}) | 24 | 142 | 16.9 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f25/package/sugar-browse.md" >}}) | 29 | 189 | 15.3 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f25/package/sugar-calculator.md" >}}) | 132 | 871 | 15.2 | LANGUAGE <LL@li.org> | 
- | [openerp-client]({{< ref "/f25/package/openerp-client.md" >}}) | 1072 | 7729 | 13.9 | Urdu <ur@li.org> | 
- | [ristretto]({{< ref "/f25/package/ristretto.md" >}}) | 94 | 744 | 12.6 | Urdu <makki.ma@gmail.com> | 
- | [nemo-extensions]({{< ref "/f25/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Urdu <ur@li.org> | 
- | [xfce4-appfinder]({{< ref "/f25/package/xfce4-appfinder.md" >}}) | 46 | 372 | 12.4 | Urdu <makki.ma@gmail.com> | 
- | [pacman]({{< ref "/f25/package/pacman.md" >}}) | 221 | 2525 | 8.8 | Urdu (http://www.transifex.com/toofishes/archlinux-pacman/language/ur/) | 
- | [xfce4-panel]({{< ref "/f25/package/xfce4-panel.md" >}}) | 134 | 1732 | 7.7 | urdu <makki.ma@gmail.com> | 
- | [xfce4-taskmanager]({{< ref "/f25/package/xfce4-taskmanager.md" >}}) | 9 | 123 | 7.3 | Urdu <makki.ma@gmail.com> | 
- | [sugar-terminal]({{< ref "/f25/package/sugar-terminal.md" >}}) | 1 | 15 | 6.7 | LANGUAGE <LL@li.org> | 
- | [python-blivet1]({{< ref "/f25/package/python-blivet1.md" >}}) | 45 | 696 | 6.5 | Urdu | 
- | [python-blivet]({{< ref "/f25/package/python-blivet.md" >}}) | 44 | 692 | 6.4 | Urdu (http://www.transifex.com/projects/p/blivet/language/ur/) | 
- | [mate-desktop]({{< ref "/f25/package/mate-desktop.md" >}}) | 146 | 2346 | 6.2 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [sugar-measure]({{< ref "/f25/package/sugar-measure.md" >}}) | 9 | 155 | 5.8 | LANGUAGE <LL@li.org> | 
- | [spacefm]({{< ref "/f25/package/spacefm.md" >}}) | 453 | 8722 | 5.2 | Urdu (http://www.transifex.com/projects/p/spacefm/language/ur/) | 
- | [shutter]({{< ref "/f25/package/shutter.md" >}}) | 145 | 2927 | 5.0 | Urdu <ur@li.org> | 
- | [gala]({{< ref "/f25/package/gala.md" >}}) | 32 | 683 | 4.7 | Urdu <ur@li.org> | 
- | [gnome-desktop]({{< ref "/f25/package/gnome-desktop.md" >}}) | 15 | 323 | 4.6 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [gnome-desktop3]({{< ref "/f25/package/gnome-desktop3.md" >}}) | 15 | 323 | 4.6 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [gnomebaker]({{< ref "/f25/package/gnomebaker.md" >}}) | 53 | 1186 | 4.5 | Urdu <urd@li.org> | 
- | [lxsession]({{< ref "/f25/package/lxsession.md" >}}) | 29 | 755 | 3.8 | Urdu <makki.ma@gmail.com> | 
- | [gtg]({{< ref "/f25/package/gtg.md" >}}) | 132 | 3497 | 3.8 | Urdu <ur@li.org> | 
- | [gnome-do]({{< ref "/f25/package/gnome-do.md" >}}) | 22 | 612 | 3.6 | Urdu <ur@li.org> | 
- | [xfce4-cpufreq-plugin]({{< ref "/f25/package/xfce4-cpufreq-plugin.md" >}}) | 10 | 280 | 3.6 | Urdu <makki.ma@gmail.com> | 
- | [switchboard-plug-networking]({{< ref "/f25/package/switchboard-plug-networking.md" >}}) | 13 | 432 | 3.0 | Urdu <ur@li.org> | 
- | [terminator]({{< ref "/f25/package/terminator.md" >}}) | 41 | 1410 | 2.9 | Urdu <ur@li.org> | 
- | [sugar-getiabooks]({{< ref "/f25/package/sugar-getiabooks.md" >}}) | 3 | 119 | 2.5 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f25/package/sugar-physics.md" >}}) | 1 | 48 | 2.1 | LANGUAGE <LL@li.org> | 
- | [librfm]({{< ref "/f25/package/librfm.md" >}}) | 48 | 2397 | 2.0 | Urdu <makki.ma@gmail.com> | 
- | [simple-scan]({{< ref "/f25/package/simple-scan.md" >}}) | 11 | 569 | 1.9 | Urdu <ur@li.org> | 
- | [libreoffice]({{< ref "/f25/package/libreoffice.md" >}}) | 1880 | 99382 | 1.9 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 24 | 1322 | 1.8 | LANGUAGE <LL@li.org> | 
- | [xfce4-weather-plugin]({{< ref "/f25/package/xfce4-weather-plugin.md" >}}) | 130 | 7188 | 1.8 | Urdu <makki.ma@gmail.com> | 
- | [midori]({{< ref "/f25/package/midori.md" >}}) | 63 | 3541 | 1.8 | Urdu <ur@li.org> | 
- | [libvirt]({{< ref "/f25/package/libvirt.md" >}}) | 926 | 58480 | 1.6 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
- | [mingw-libvirt]({{< ref "/f25/package/mingw-libvirt.md" >}}) | 926 | 58480 | 1.6 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
- | [sugar-clock]({{< ref "/f25/package/sugar-clock.md" >}}) | 1 | 66 | 1.5 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f25/package/anaconda.md" >}}) | 74 | 6861 | 1.1 | Urdu (http://www.transifex.com/projects/p/anaconda/language/ur/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 3 | 300 | 1.0 | Urdu <ur@li.org> | 
- | [rodent]({{< ref "/f25/package/rodent.md" >}}) | 28 | 9634 | 0.3 | Urdu <makki.ma@gmail.com> | 
- | [transmission]({{< ref "/f25/package/transmission.md" >}}) | 4 | 1809 | 0.2 | Urdu <ur@li.org> | 
- | [sugar-turtleart]({{< ref "/f25/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [gtk3]({{< ref "/f25/package/gtk3.md" >}}) | 15 | 11853 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [mingw-gtk3]({{< ref "/f25/package/mingw-gtk3.md" >}}) | 15 | 11853 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [ibus]({{< ref "/f25/package/ibus.md" >}}) | 1 | 834 | 0.1 | Urdu <trans-ur@lists.fedoraproject.org> | 
- | [gtk2]({{< ref "/f25/package/gtk2.md" >}}) | 16 | 13704 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [mingw-gtk2]({{< ref "/f25/package/mingw-gtk2.md" >}}) | 16 | 13704 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 36 | 33968 | 0.1 | Urdu <ur@li.org> | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 16 | 33271 | 0.0 | Urdu <ur@li.org> | 
- | [calibre]({{< ref "/f25/package/calibre.md" >}}) | 61 | 152264 | 0.0 | Urdu (http://www.transifex.com/calibre/calibre/language/ur/) | 
- | [clutter]({{< ref "/f25/package/clutter.md" >}}) | 1 | 3057 | 0.0 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [edgar]({{< ref "/f25/package/edgar.md" >}}) | 1 | 11475 | 0.0 | Urdu <ur@li.org> | 
- | [abrt]({{< ref "/f25/package/abrt.md" >}}) | 0 | 3969 | 0.0 | Urdu (http://www.transifex.com/projects/p/fedora-abrt/language/ur/) | 
- | [blivet-gui]({{< ref "/f25/package/blivet-gui.md" >}}) | 0 | 708 | 0.0 | Urdu | 
- | [certmonger]({{< ref "/f25/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Urdu (http://www.transifex.com/projects/p/certmonger/language/ur/) | 
- | [cinnamon-control-center]({{< ref "/f25/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 | none | 
- | [cinnamon-desktop]({{< ref "/f25/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | UrduWeb Localization Team <l10n@urduweb.org> | 
- | [control-center]({{< ref "/f25/package/control-center.md" >}}) | 0 | 1313 | 0.0 | none | 
- | [deluge]({{< ref "/f25/package/deluge.md" >}}) | 0 | 2728 | 0.0 | Urdu <ur@li.org> | 
- | [dnf]({{< ref "/f25/package/dnf.md" >}}) | 0 | 1748 | 0.0 | Urdu (http://www.transifex.com/projects/p/dnf/language/ur/) | 
- | [dnf-plugin-system-upgrade]({{< ref "/f25/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Urdu | 
- | [dnf-plugins-extras]({{< ref "/f25/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Urdu | 
- | [docker-anaconda-addon]({{< ref "/f25/package/docker-anaconda-addon.md" >}}) | 0 | 27 | 0.0 | Urdu | 
- | [entangle]({{< ref "/f25/package/entangle.md" >}}) | 0 | 935 | 0.0 | Urdu | 
- | [exaile]({{< ref "/f25/package/exaile.md" >}}) | 0 | 4006 | 0.0 | Urdu <ur@li.org> | 
- | [gcompris]({{< ref "/f25/package/gcompris.md" >}}) | 0 | 0 | 0.0 |  | 
- | [im-chooser]({{< ref "/f25/package/im-chooser.md" >}}) | 0 | 239 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f25/package/imsettings.md" >}}) | 0 | 456 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f25/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Urdu | 
- | [initscripts]({{< ref "/f25/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [libbytesize]({{< ref "/f25/package/libbytesize.md" >}}) | 0 | 17 | 0.0 | Urdu | 
- | [libfm]({{< ref "/f25/package/libfm.md" >}}) | 0 | 1565 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libgxim]({{< ref "/f25/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
- | [libosinfo]({{< ref "/f25/package/libosinfo.md" >}}) | 0 | 662 | 0.0 | Urdu | 
- | [libreport]({{< ref "/f25/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Urdu (http://www.transifex.com/projects/p/libreport/language/ur/) | 
- | [libvirt-glib]({{< ref "/f25/package/libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Urdu (http://www.transifex.com/projects/p/libvirt-glib/language/ur/) | 
- | [libvirt-sandbox]({{< ref "/f25/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [lightdm]({{< ref "/f25/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Urdu <ur@li.org> | 
- | [lxappearance]({{< ref "/f25/package/lxappearance.md" >}}) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxappearance-obconf]({{< ref "/f25/package/lxappearance-obconf.md" >}}) | 0 | 196 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f25/package/lxdm.md" >}}) | 0 | 47 | 0.0 | LANGUAGE <LL@li.org> | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mingw-libvirt-glib]({{< ref "/f25/package/mingw-libvirt-glib.md" >}}) | 0 | 145 | 0.0 | Urdu (http://www.transifex.com/projects/p/libvirt-glib/language/ur/) | 
- | [oscap-anaconda-addon]({{< ref "/f25/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Urdu (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ur/) | 
- | [osinfo-db-tools]({{< ref "/f25/package/osinfo-db-tools.md" >}}) | 0 | 56 | 0.0 | Urdu | 
- | [pam]({{< ref "/f25/package/pam.md" >}}) | 0 | 597 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | Urdu <ur@li.org> | 
- | [passwd]({{< ref "/f25/package/passwd.md" >}}) | 0 | 315 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f25/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 227 | 0.0 | Urdu <https://hosted.weblate.org/projects/phpmyadmin/master/ur/> | 
- | [policycoreutils]({{< ref "/f25/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f25/package/pykickstart.md" >}}) | 0 | 1378 | 0.0 | Urdu | 
- | [python-fedora]({{< ref "/f25/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Urdu | 
- | [python-meh]({{< ref "/f25/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Urdu | 
- | [rhn-client-tools]({{< ref "/f25/package/rhn-client-tools.md" >}}) | 0 | 4057 | 0.0 | Urdu (http://www.transifex.com/projects/p/spacewalk/language/ur/) | 
- | [rhnsd]({{< ref "/f25/package/rhnsd.md" >}}) | 0 | 33 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
- | [setroubleshoot]({{< ref "/f25/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
- | [setroubleshoot-plugins]({{< ref "/f25/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
- | [setuptool]({{< ref "/f25/package/setuptool.md" >}}) | 0 | 55 | 0.0 | none | 
- | [sos]({{< ref "/f25/package/sos.md" >}}) | 0 | 122 | 0.0 | none | 
- | [sugar-abacus]({{< ref "/f25/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f25/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f25/package/sugar-finance.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f25/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f25/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f25/package/sugar-imageviewer.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f25/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f25/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f25/package/sugar-jukebox.md" >}}) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f25/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f25/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f25/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f25/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f25/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f25/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f25/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f25/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f25/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f25/package/sugar-words.md" >}}) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f25/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [synfig]({{< ref "/f25/package/synfig.md" >}}) | 0 | 4696 | 0.0 | Urdu (http://www.transifex.com/morevnaproject/synfig/language/ur/) | 
- | [synfigstudio]({{< ref "/f25/package/synfigstudio.md" >}}) | 0 | 6564 | 0.0 | Urdu (http://www.transifex.com/morevnaproject/synfig/language/ur/) | 
- | [system-config-bind]({{< ref "/f25/package/system-config-bind.md" >}}) | 0 | 9419 | 0.0 | none | 
- | [system-config-firewall]({{< ref "/f25/package/system-config-firewall.md" >}}) | 0 | 2814 | 0.0 | none | 
- | [system-config-kdump]({{< ref "/f25/package/system-config-kdump.md" >}}) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-rootpassword]({{< ref "/f25/package/system-config-rootpassword.md" >}}) | 0 | 116 | 0.0 | none | 
- | [system-config-users-docs]({{< ref "/f25/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-switch-mail]({{< ref "/f25/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
- | [ufw]({{< ref "/f25/package/ufw.md" >}}) | 0 | 879 | 0.0 | Urdu <ur@li.org> | 
- | [unetbootin]({{< ref "/f25/package/unetbootin.md" >}}) | 0 | 3159 | 0.0 | Urdu <ur@li.org> | 
- | [virt-viewer]({{< ref "/f25/package/virt-viewer.md" >}}) | 0 | 784 | 0.0 | Urdu | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Urdu <ur@li.org> | 
- | [yum]({{< ref "/f25/package/yum.md" >}}) | 0 | 3069 | 0.0 | Urdu (http://www.transifex.net/projects/p/yum/team/ur/) | 
- | [yum-rhn-plugin]({{< ref "/f25/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [file-roller](/f25/package/file-roller) | 1159 | 1159 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [islamic-menus](/f25/package/islamic-menus) | 5 | 5 | 100.0 | Urdu <ur@li.org> | 
+ | [lxmenu-data](/f25/package/lxmenu-data) | 194 | 194 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [lxshortcut](/f25/package/lxshortcut) | 86 | 86 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [mate-menus](/f25/package/mate-menus) | 97 | 97 | 100.0 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [olpc-switch-desktop](/f25/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f25/package/switchboard) | 62 | 62 | 100.0 | Urdu <ur@li.org> | 
+ | [thunar-archive-plugin](/f25/package/thunar-archive-plugin) | 172 | 172 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [thunar-media-tags-plugin](/f25/package/thunar-media-tags-plugin) | 144 | 144 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [wingpanel](/f25/package/wingpanel) | 8 | 8 | 100.0 | Urdu <ur@li.org> | 
+ | [xfbib](/f25/package/xfbib) | 342 | 342 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-genmon-plugin](/f25/package/xfce4-genmon-plugin) | 71 | 71 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-verve-plugin](/f25/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [sugar-toolkit-gtk3](/f25/package/sugar-toolkit-gtk3) | 75 | 76 | 98.7 | Sugar Labs | 
+ | [xfce4-mailwatch-plugin](/f25/package/xfce4-mailwatch-plugin) | 647 | 657 | 98.5 | Urdu <makki.ma@gmail.com> | 
+ | [gnucash](/f25/package/gnucash) | 29192 | 29737 | 98.2 | NONE | 
+ | [xfce4-datetime-plugin](/f25/package/xfce4-datetime-plugin) | 51 | 52 | 98.1 | Urdu <makki.ma@gmail.com> | 
+ | [libxfce4util](/f25/package/libxfce4util) | 826 | 848 | 97.4 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-wavelan-plugin](/f25/package/xfce4-wavelan-plugin) | 98 | 102 | 96.1 | Urdu <makki.ma@gmail.com> | 
+ | [lxmusic](/f25/package/lxmusic) | 195 | 203 | 96.1 | Urdu <makki.ma@gmail.com> | 
+ | [system-config-httpd](/f25/package/system-config-httpd) | 816 | 858 | 95.1 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [caja](/f25/package/caja) | 8723 | 9313 | 93.7 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [xfce4-power-manager](/f25/package/xfce4-power-manager) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
+ | [sugar-toolkit](/f25/package/sugar-toolkit) | 68 | 73 | 93.2 | LANGUAGE <LL@li.org> | 
+ | [gpicview](/f25/package/gpicview) | 219 | 236 | 92.8 | Urdu <makki.ma@gmail.com> | 
+ | [osmo](/f25/package/osmo) | 1594 | 1726 | 92.4 | urducoder.com <makkiabufaris@aol.com> | 
+ | [mate-polkit](/f25/package/mate-polkit) | 287 | 313 | 91.7 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [klavaro](/f25/package/klavaro) | 1727 | 1911 | 90.4 | Urdu <jessbody@gmail.com> | 
+ | [wingpanel-indicator-sound](/f25/package/wingpanel-indicator-sound) | 13 | 15 | 86.7 | Urdu <ur@li.org> | 
+ | [thunar-vfs](/f25/package/thunar-vfs) | 335 | 387 | 86.6 | urdu <makki.ma@gmail.com> | 
+ | [lxtask](/f25/package/lxtask) | 112 | 130 | 86.2 | Urdu <makki.ma@gmail.com> | 
+ | [sugar-connect](/f25/package/sugar-connect) | 31 | 36 | 86.1 | LANGUAGE <LL@li.org> | 
+ | [mate-control-center](/f25/package/mate-control-center) | 2308 | 2722 | 84.8 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [exo](/f25/package/exo) | 1169 | 1393 | 83.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [xfce4-xkb-plugin](/f25/package/xfce4-xkb-plugin) | 72 | 86 | 83.7 | Urdu <makki.ma@gmail.com> | 
+ | [redhat-menus](/f25/package/redhat-menus) | 216 | 261 | 82.8 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [xfce4-battery-plugin](/f25/package/xfce4-battery-plugin) | 246 | 298 | 82.6 | Urdu <makki.ma@gmail.com> | 
+ | [chkconfig](/f25/package/chkconfig) | 410 | 513 | 79.9 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [Thunar](/f25/package/Thunar) | 3303 | 4139 | 79.8 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [xfce4-fsguard-plugin](/f25/package/xfce4-fsguard-plugin) | 56 | 71 | 78.9 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-screenshooter](/f25/package/xfce4-screenshooter) | 690 | 886 | 77.9 | Urdu <makki.ma@gmail.com> | 
+ | [xfwm4](/f25/package/xfwm4) | 488 | 649 | 75.2 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [pix](/f25/package/pix) | 2793 | 3718 | 75.1 | Urdu <ur@li.org> | 
+ | [gigolo](/f25/package/gigolo) | 390 | 521 | 74.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [xfce4-diskperf-plugin](/f25/package/xfce4-diskperf-plugin) | 272 | 366 | 74.3 | Urdu <makki.ma@gmail.com> | 
+ | [mate-applets](/f25/package/mate-applets) | 1920 | 2618 | 73.3 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [lxinput](/f25/package/lxinput) | 60 | 83 | 72.3 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-sensors-plugin](/f25/package/xfce4-sensors-plugin) | 516 | 716 | 72.1 | Urdu <makki.ma@gmail.com> | 
+ | [xplayer](/f25/package/xplayer) | 1410 | 1957 | 72.0 | Urdu <ur@li.org> | 
+ | [xfce4-mount-plugin](/f25/package/xfce4-mount-plugin) | 488 | 682 | 71.6 | Urdu <makki.ma@gmail.com> | 
+ | [audience](/f25/package/audience) | 130 | 182 | 71.4 | Urdu <ur@li.org> | 
+ | [xfce4-session](/f25/package/xfce4-session) | 759 | 1066 | 71.2 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [lxlauncher](/f25/package/lxlauncher) | 41 | 58 | 70.7 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-systemload-plugin](/f25/package/xfce4-systemload-plugin) | 94 | 134 | 70.1 | Urdu <makki.ma@gmail.com> | 
+ | [xfmpc](/f25/package/xfmpc) | 234 | 334 | 70.1 | Urdu <makki.ma@gmail.com> | 
+ | [orage](/f25/package/orage) | 1792 | 2601 | 68.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 35 | 52 | 67.3 |  | 
+ | [pantheon-files](/f25/package/pantheon-files) | 1792 | 2676 | 67.0 | Urdu <ur@li.org> | 
+ | [mate-media](/f25/package/mate-media) | 151 | 226 | 66.8 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [xviewer](/f25/package/xviewer) | 1110 | 1677 | 66.2 | Urdu <ur@li.org> | 
+ | [engrampa](/f25/package/engrampa) | 1273 | 1940 | 65.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [thunar-vcs-plugin](/f25/package/thunar-vcs-plugin) | 367 | 571 | 64.3 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [xfce4-terminal](/f25/package/xfce4-terminal) | 699 | 1097 | 63.7 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-dict](/f25/package/xfce4-dict) | 660 | 1036 | 63.7 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-smartbookmark-plugin](/f25/package/xfce4-smartbookmark-plugin) | 28 | 44 | 63.6 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-cpugraph-plugin](/f25/package/xfce4-cpugraph-plugin) | 90 | 142 | 63.4 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-clipman-plugin](/f25/package/xfce4-clipman-plugin) | 220 | 350 | 62.9 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [system-config-kickstart](/f25/package/system-config-kickstart) | 717 | 1144 | 62.7 | Urdu (http://www.transifex.com/projects/p/system-config-kickstart/language/ur/) | 
+ | [mate-notification-daemon](/f25/package/mate-notification-daemon) | 87 | 139 | 62.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [xfce4-eyes-plugin](/f25/package/xfce4-eyes-plugin) | 18 | 30 | 60.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfdesktop](/f25/package/xfdesktop) | 1022 | 1708 | 59.8 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-notes-plugin](/f25/package/xfce4-notes-plugin) | 194 | 326 | 59.5 | Urdu <makki.ma@gmail.com> | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 12644 | 21367 | 59.2 | Urdu <ur@li.org> | 
+ | [xfconf](/f25/package/xfconf) | 265 | 451 | 58.8 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [lxpanel](/f25/package/lxpanel) | 1584 | 2734 | 57.9 | Urdu <makki.ma@gmail.com> | 
+ | [mate-utils](/f25/package/mate-utils) | 2129 | 3677 | 57.9 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [xfce4-settings](/f25/package/xfce4-settings) | 1744 | 3120 | 55.9 | Urdu <makki.ma@gmail.com> | 
+ | [inkscape](/f25/package/inkscape) | 21183 | 37939 | 55.8 | gist | 
+ | [mate-session-manager](/f25/package/mate-session-manager) | 377 | 681 | 55.4 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [pidgin](/f25/package/pidgin) | 10226 | 18558 | 55.1 | Urdu (http://www.transifex.com/projects/p/pidgin/language/ur/) | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 80 | 146 | 54.8 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 366 | 681 | 53.7 | LANGUAGE <LL@li.org> | 
+ | [thunar-volman](/f25/package/thunar-volman) | 260 | 487 | 53.4 | Urdu (http://www.transifex.com/projects/p/xfce/language/ur/) | 
+ | [sugar-write](/f25/package/sugar-write) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [xfce4-mixer](/f25/package/xfce4-mixer) | 188 | 362 | 51.9 | Urdu <makki.ma@gmail.com> | 
+ | [isomaster](/f25/package/isomaster) | 698 | 1348 | 51.8 | http://littlesvr.ca/ostd/ | 
+ | [pluma](/f25/package/pluma) | 2543 | 5038 | 50.5 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 66 | 132 | 50.0 | Urdu <ur@li.org> | 
+ | [asunder](/f25/package/asunder) | 475 | 960 | 49.5 | http://littlesvr.ca/ostd/ | 
+ | [xed](/f25/package/xed) | 2191 | 4508 | 48.6 | Urdu (http://www.transifex.com/projects/p/MATE/language/ur/) | 
+ | [xfce4-timer-plugin](/f25/package/xfce4-timer-plugin) | 130 | 268 | 48.5 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-places-plugin](/f25/package/xfce4-places-plugin) | 150 | 314 | 47.8 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-mpc-plugin](/f25/package/xfce4-mpc-plugin) | 70 | 152 | 46.1 | Urdu <makki.ma@gmail.com> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 33 | 72 | 45.8 | Urdu <ur@li.org> | 
+ | [mate-panel](/f25/package/mate-panel) | 1986 | 4353 | 45.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [slingshot-launcher](/f25/package/slingshot-launcher) | 99 | 217 | 45.6 | Urdu <ur@li.org> | 
+ | [granite](/f25/package/granite) | 71 | 156 | 45.5 | Urdu <ur@li.org> | 
+ | [python-lettuce](/f25/package/python-lettuce) | 1781 | 3975 | 44.8 | Urdu <None> | 
+ | [lxrandr](/f25/package/lxrandr) | 74 | 167 | 44.3 | Urdu <makki.ma@gmail.com> | 
+ | [smuxi](/f25/package/smuxi) | 804 | 1858 | 43.3 | Urdu (http://www.transifex.net/projects/p/smuxi/team/ur/) | 
+ | [xfce4-time-out-plugin](/f25/package/xfce4-time-out-plugin) | 76 | 178 | 42.7 | Urdu <makki.ma@gmail.com> | 
+ | [sugar-log](/f25/package/sugar-log) | 41 | 98 | 41.8 | LANGUAGE <LL@li.org> | 
+ | [python-django](/f25/package/python-django) | 1414 | 3392 | 41.7 | Urdu (http://www.transifex.com/django/django/language/ur/) | 
+ | [sugar-paint](/f25/package/sugar-paint) | 37 | 90 | 41.1 | LANGUAGE <LL@li.org> | 
+ | [mate-screensaver](/f25/package/mate-screensaver) | 402 | 983 | 40.9 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [sugar](/f25/package/sugar) | 664 | 1625 | 40.9 | LANGUAGE <LL@li.org> | 
+ | [network-manager-applet](/f25/package/network-manager-applet) | 1325 | 3408 | 38.9 | urducoder.com <makkiabufaris@aol.com> | 
+ | [sugar-pippy](/f25/package/sugar-pippy) | 42 | 109 | 38.5 | LANGUAGE <LL@li.org> | 
+ | [pantheon-greeter](/f25/package/pantheon-greeter) | 11 | 29 | 37.9 | Urdu <ur@li.org> | 
+ | [authconfig](/f25/package/authconfig) | 643 | 1715 | 37.5 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
+ | [system-config-keyboard](/f25/package/system-config-keyboard) | 70 | 187 | 37.4 | SCS GIFT UNIVERSITY (http://cs.gift.edu.pk) <urdu.scs.gift@gmail.com> | 
+ | [xreader](/f25/package/xreader) | 617 | 1653 | 37.3 | Urdu <ur@li.org> | 
+ | [mate-settings-daemon](/f25/package/mate-settings-daemon) | 656 | 1764 | 37.2 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [libxfce4ui](/f25/package/libxfce4ui) | 600 | 1868 | 32.1 | Urdu <makki.ma@gmail.com> | 
+ | [mate-system-monitor](/f25/package/mate-system-monitor) | 417 | 1307 | 31.9 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [appcenter](/f25/package/appcenter) | 216 | 681 | 31.7 |  | 
+ | [mintmenu](/f25/package/mintmenu) | 2278 | 7472 | 30.5 | Urdu <ur@li.org> | 
+ | [xfce4-netload-plugin](/f25/package/xfce4-netload-plugin) | 54 | 184 | 29.3 | Urdu <makki.ma@gmail.com> | 
+ | [mate-power-manager](/f25/package/mate-power-manager) | 791 | 2724 | 29.0 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [pantheon-terminal](/f25/package/pantheon-terminal) | 53 | 188 | 28.2 | Urdu <ur@li.org> | 
+ | [lxterminal](/f25/package/lxterminal) | 66 | 247 | 26.7 | Urdu <makki.ma@gmail.com> | 
+ | [slick-greeter](/f25/package/slick-greeter) | 55 | 211 | 26.1 | Urdu <ur@li.org> | 
+ | [xfburn](/f25/package/xfburn) | 291 | 1323 | 22.0 | Urdu <makki.ma@gmail.com> | 
+ | [blueberry](/f25/package/blueberry) | 31 | 141 | 22.0 | Urdu <ur@li.org> | 
+ | [sugar-chat](/f25/package/sugar-chat) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
+ | [mate-terminal](/f25/package/mate-terminal) | 961 | 4439 | 21.6 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [sugar-record](/f25/package/sugar-record) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f25/package/switchboard-plug-applications) | 15 | 85 | 17.6 | Urdu <ur@li.org> | 
+ | [sugar-read](/f25/package/sugar-read) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f25/package/sugar-memorize) | 24 | 142 | 16.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f25/package/sugar-browse) | 29 | 189 | 15.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f25/package/sugar-calculator) | 132 | 871 | 15.2 | LANGUAGE <LL@li.org> | 
+ | [openerp-client](/f25/package/openerp-client) | 1072 | 7729 | 13.9 | Urdu <ur@li.org> | 
+ | [ristretto](/f25/package/ristretto) | 94 | 744 | 12.6 | Urdu <makki.ma@gmail.com> | 
+ | [nemo-extensions](/f25/package/nemo-extensions) | 1 | 8 | 12.5 | Urdu <ur@li.org> | 
+ | [xfce4-appfinder](/f25/package/xfce4-appfinder) | 46 | 372 | 12.4 | Urdu <makki.ma@gmail.com> | 
+ | [pacman](/f25/package/pacman) | 221 | 2525 | 8.8 | Urdu (http://www.transifex.com/toofishes/archlinux-pacman/language/ur/) | 
+ | [xfce4-panel](/f25/package/xfce4-panel) | 134 | 1732 | 7.7 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-taskmanager](/f25/package/xfce4-taskmanager) | 9 | 123 | 7.3 | Urdu <makki.ma@gmail.com> | 
+ | [sugar-terminal](/f25/package/sugar-terminal) | 1 | 15 | 6.7 | LANGUAGE <LL@li.org> | 
+ | [python-blivet1](/f25/package/python-blivet1) | 45 | 696 | 6.5 | Urdu | 
+ | [python-blivet](/f25/package/python-blivet) | 44 | 692 | 6.4 | Urdu (http://www.transifex.com/projects/p/blivet/language/ur/) | 
+ | [mate-desktop](/f25/package/mate-desktop) | 146 | 2346 | 6.2 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [sugar-measure](/f25/package/sugar-measure) | 9 | 155 | 5.8 | LANGUAGE <LL@li.org> | 
+ | [spacefm](/f25/package/spacefm) | 453 | 8722 | 5.2 | Urdu (http://www.transifex.com/projects/p/spacefm/language/ur/) | 
+ | [shutter](/f25/package/shutter) | 145 | 2927 | 5.0 | Urdu <ur@li.org> | 
+ | [gala](/f25/package/gala) | 32 | 683 | 4.7 | Urdu <ur@li.org> | 
+ | [gnome-desktop](/f25/package/gnome-desktop) | 15 | 323 | 4.6 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [gnome-desktop3](/f25/package/gnome-desktop3) | 15 | 323 | 4.6 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [gnomebaker](/f25/package/gnomebaker) | 53 | 1186 | 4.5 | Urdu <urd@li.org> | 
+ | [lxsession](/f25/package/lxsession) | 29 | 755 | 3.8 | Urdu <makki.ma@gmail.com> | 
+ | [gtg](/f25/package/gtg) | 132 | 3497 | 3.8 | Urdu <ur@li.org> | 
+ | [gnome-do](/f25/package/gnome-do) | 22 | 612 | 3.6 | Urdu <ur@li.org> | 
+ | [xfce4-cpufreq-plugin](/f25/package/xfce4-cpufreq-plugin) | 10 | 280 | 3.6 | Urdu <makki.ma@gmail.com> | 
+ | [switchboard-plug-networking](/f25/package/switchboard-plug-networking) | 13 | 432 | 3.0 | Urdu <ur@li.org> | 
+ | [terminator](/f25/package/terminator) | 41 | 1410 | 2.9 | Urdu <ur@li.org> | 
+ | [sugar-getiabooks](/f25/package/sugar-getiabooks) | 3 | 119 | 2.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f25/package/sugar-physics) | 1 | 48 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [librfm](/f25/package/librfm) | 48 | 2397 | 2.0 | Urdu <makki.ma@gmail.com> | 
+ | [simple-scan](/f25/package/simple-scan) | 11 | 569 | 1.9 | Urdu <ur@li.org> | 
+ | [libreoffice](/f25/package/libreoffice) | 1880 | 99382 | 1.9 | LANGUAGE <LL@li.org> | 
+ | [noise](/f25/package/noise) | 24 | 1322 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [xfce4-weather-plugin](/f25/package/xfce4-weather-plugin) | 130 | 7188 | 1.8 | Urdu <makki.ma@gmail.com> | 
+ | [midori](/f25/package/midori) | 63 | 3541 | 1.8 | Urdu <ur@li.org> | 
+ | [libvirt](/f25/package/libvirt) | 926 | 58480 | 1.6 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
+ | [mingw-libvirt](/f25/package/mingw-libvirt) | 926 | 58480 | 1.6 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
+ | [sugar-clock](/f25/package/sugar-clock) | 1 | 66 | 1.5 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f25/package/anaconda) | 74 | 6861 | 1.1 | Urdu (http://www.transifex.com/projects/p/anaconda/language/ur/) | 
+ | [mate-menu](/f25/package/mate-menu) | 3 | 300 | 1.0 | Urdu <ur@li.org> | 
+ | [rodent](/f25/package/rodent) | 28 | 9634 | 0.3 | Urdu <makki.ma@gmail.com> | 
+ | [transmission](/f25/package/transmission) | 4 | 1809 | 0.2 | Urdu <ur@li.org> | 
+ | [sugar-turtleart](/f25/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [gtk3](/f25/package/gtk3) | 15 | 11853 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [mingw-gtk3](/f25/package/mingw-gtk3) | 15 | 11853 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [ibus](/f25/package/ibus) | 1 | 834 | 0.1 | Urdu <trans-ur@lists.fedoraproject.org> | 
+ | [gtk2](/f25/package/gtk2) | 16 | 13704 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [mingw-gtk2](/f25/package/mingw-gtk2) | 16 | 13704 | 0.1 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [openerp](/f25/package/openerp) | 36 | 33968 | 0.1 | Urdu <ur@li.org> | 
+ | [openerp7](/f25/package/openerp7) | 16 | 33271 | 0.0 | Urdu <ur@li.org> | 
+ | [calibre](/f25/package/calibre) | 61 | 152264 | 0.0 | Urdu (http://www.transifex.com/calibre/calibre/language/ur/) | 
+ | [clutter](/f25/package/clutter) | 1 | 3057 | 0.0 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [edgar](/f25/package/edgar) | 1 | 11475 | 0.0 | Urdu <ur@li.org> | 
+ | [abrt](/f25/package/abrt) | 0 | 3969 | 0.0 | Urdu (http://www.transifex.com/projects/p/fedora-abrt/language/ur/) | 
+ | [blivet-gui](/f25/package/blivet-gui) | 0 | 708 | 0.0 | Urdu | 
+ | [certmonger](/f25/package/certmonger) | 0 | 2478 | 0.0 | Urdu (http://www.transifex.com/projects/p/certmonger/language/ur/) | 
+ | [cinnamon-control-center](/f25/package/cinnamon-control-center) | 0 | 1313 | 0.0 | none | 
+ | [cinnamon-desktop](/f25/package/cinnamon-desktop) | 0 | 231 | 0.0 | UrduWeb Localization Team <l10n@urduweb.org> | 
+ | [control-center](/f25/package/control-center) | 0 | 1313 | 0.0 | none | 
+ | [deluge](/f25/package/deluge) | 0 | 2728 | 0.0 | Urdu <ur@li.org> | 
+ | [dnf](/f25/package/dnf) | 0 | 1748 | 0.0 | Urdu (http://www.transifex.com/projects/p/dnf/language/ur/) | 
+ | [dnf-plugin-system-upgrade](/f25/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Urdu | 
+ | [dnf-plugins-extras](/f25/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Urdu | 
+ | [docker-anaconda-addon](/f25/package/docker-anaconda-addon) | 0 | 27 | 0.0 | Urdu | 
+ | [entangle](/f25/package/entangle) | 0 | 935 | 0.0 | Urdu | 
+ | [exaile](/f25/package/exaile) | 0 | 4006 | 0.0 | Urdu <ur@li.org> | 
+ | [gcompris](/f25/package/gcompris) | 0 | 0 | 0.0 |  | 
+ | [im-chooser](/f25/package/im-chooser) | 0 | 239 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f25/package/imsettings) | 0 | 456 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f25/package/initial-setup) | 0 | 33 | 0.0 | Urdu | 
+ | [initscripts](/f25/package/initscripts) | 0 | 1003 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [libbytesize](/f25/package/libbytesize) | 0 | 17 | 0.0 | Urdu | 
+ | [libfm](/f25/package/libfm) | 0 | 1565 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libgxim](/f25/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Urdu (http://www.transifex.com/mate/MATE/language/ur/) | 
+ | [libosinfo](/f25/package/libosinfo) | 0 | 662 | 0.0 | Urdu | 
+ | [libreport](/f25/package/libreport) | 0 | 3501 | 0.0 | Urdu (http://www.transifex.com/projects/p/libreport/language/ur/) | 
+ | [libvirt-glib](/f25/package/libvirt-glib) | 0 | 145 | 0.0 | Urdu (http://www.transifex.com/projects/p/libvirt-glib/language/ur/) | 
+ | [libvirt-sandbox](/f25/package/libvirt-sandbox) | 0 | 617 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [lightdm](/f25/package/lightdm) | 0 | 84 | 0.0 | Urdu <ur@li.org> | 
+ | [lxappearance](/f25/package/lxappearance) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxappearance-obconf](/f25/package/lxappearance-obconf) | 0 | 196 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f25/package/lxdm) | 0 | 47 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [maya-calendar](/f25/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mingw-libvirt-glib](/f25/package/mingw-libvirt-glib) | 0 | 145 | 0.0 | Urdu (http://www.transifex.com/projects/p/libvirt-glib/language/ur/) | 
+ | [oscap-anaconda-addon](/f25/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Urdu (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/ur/) | 
+ | [osinfo-db-tools](/f25/package/osinfo-db-tools) | 0 | 56 | 0.0 | Urdu | 
+ | [pam](/f25/package/pam) | 0 | 597 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | Urdu <ur@li.org> | 
+ | [passwd](/f25/package/passwd) | 0 | 315 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [php-phpmyadmin-sql-parser](/f25/package/php-phpmyadmin-sql-parser) | 0 | 227 | 0.0 | Urdu <https://hosted.weblate.org/projects/phpmyadmin/master/ur/> | 
+ | [policycoreutils](/f25/package/policycoreutils) | 0 | 7678 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [pykickstart](/f25/package/pykickstart) | 0 | 1378 | 0.0 | Urdu | 
+ | [python-fedora](/f25/package/python-fedora) | 0 | 214 | 0.0 | Urdu | 
+ | [python-meh](/f25/package/python-meh) | 0 | 109 | 0.0 | Urdu | 
+ | [rhn-client-tools](/f25/package/rhn-client-tools) | 0 | 4057 | 0.0 | Urdu (http://www.transifex.com/projects/p/spacewalk/language/ur/) | 
+ | [rhnsd](/f25/package/rhnsd) | 0 | 33 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
+ | [setroubleshoot](/f25/package/setroubleshoot) | 0 | 656 | 0.0 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
+ | [setroubleshoot-plugins](/f25/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Urdu (http://www.transifex.com/projects/p/fedora/language/ur/) | 
+ | [setuptool](/f25/package/setuptool) | 0 | 55 | 0.0 | none | 
+ | [sos](/f25/package/sos) | 0 | 122 | 0.0 | none | 
+ | [sugar-abacus](/f25/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f25/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f25/package/sugar-finance) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f25/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f25/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f25/package/sugar-imageviewer) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f25/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f25/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f25/package/sugar-jukebox) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f25/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f25/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f25/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f25/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f25/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f25/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f25/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f25/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f25/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f25/package/sugar-words) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f25/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [synfig](/f25/package/synfig) | 0 | 4696 | 0.0 | Urdu (http://www.transifex.com/morevnaproject/synfig/language/ur/) | 
+ | [synfigstudio](/f25/package/synfigstudio) | 0 | 6564 | 0.0 | Urdu (http://www.transifex.com/morevnaproject/synfig/language/ur/) | 
+ | [system-config-bind](/f25/package/system-config-bind) | 0 | 9419 | 0.0 | none | 
+ | [system-config-firewall](/f25/package/system-config-firewall) | 0 | 2814 | 0.0 | none | 
+ | [system-config-kdump](/f25/package/system-config-kdump) | 0 | 877 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-rootpassword](/f25/package/system-config-rootpassword) | 0 | 116 | 0.0 | none | 
+ | [system-config-users-docs](/f25/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-switch-mail](/f25/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
+ | [ufw](/f25/package/ufw) | 0 | 879 | 0.0 | Urdu <ur@li.org> | 
+ | [unetbootin](/f25/package/unetbootin) | 0 | 3159 | 0.0 | Urdu <ur@li.org> | 
+ | [virt-viewer](/f25/package/virt-viewer) | 0 | 784 | 0.0 | Urdu | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Urdu <ur@li.org> | 
+ | [yum](/f25/package/yum) | 0 | 3069 | 0.0 | Urdu (http://www.transifex.net/projects/p/yum/team/ur/) | 
+ | [yum-rhn-plugin](/f25/package/yum-rhn-plugin) | 0 | 147 | 0.0 | Urdu <trans-urdu@lists.fedoraproject.org> | 
 {.sortable}
 
 
@@ -321,7 +321,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gcompris]({{< ref "/f25/package/gcompris.md" >}}) | /mnt/stockage/packages/f25/gcompris/po/ur.po | error-os |  | 
+ | [gcompris](/f25/package/gcompris) | /mnt/stockage/packages/f25/gcompris/po/ur.po | error-os |  | 
 {.sortable}
 
 
@@ -332,7 +332,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gcompris]({{< ref "/f25/package/gcompris.md" >}}) | /mnt/stockage/packages/f25/gcompris/po/ur.po |  | 
+ | [gcompris](/f25/package/gcompris) | /mnt/stockage/packages/f25/gcompris/po/ur.po |  | 
 {.sortable}
 
 

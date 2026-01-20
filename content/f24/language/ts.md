@@ -40,16 +40,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f24/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f24/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [xviewer]({{< ref "/f24/package/xviewer.md" >}}) | 1495 | 1677 | 89.1 | ts | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 33471 | 101018 | 33.1 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 324 | 5655 | 5.7 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 17 | 382 | 4.5 | Tsonga <ts@li.org> | 
- | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
- | [exaile]({{< ref "/f24/package/exaile.md" >}}) | 1 | 4006 | 0.0 | Tsonga <ts@li.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
+ | [eog](/f24/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f24/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [xviewer](/f24/package/xviewer) | 1495 | 1677 | 89.1 | ts | 
+ | [libreoffice](/f24/package/libreoffice) | 33471 | 101018 | 33.1 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 324 | 5655 | 5.7 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
+ | [mintmenu](/f24/package/mintmenu) | 17 | 382 | 4.5 | Tsonga <ts@li.org> | 
+ | [isomaster](/f24/package/isomaster) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
+ | [exaile](/f24/package/exaile) | 1 | 4006 | 0.0 | Tsonga <ts@li.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
 {.sortable}
 
 

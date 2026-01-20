@@ -18,17 +18,17 @@ The package python-oslo-cache (version 1.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/de/LC_MESSAGES/oslo_cache.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/en_GB/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f26/python-oslo-cache/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/es/LC_MESSAGES/oslo_cache.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/fr/LC_MESSAGES/oslo_cache.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/it/LC_MESSAGES/oslo_cache.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/ko_KR/LC_MESSAGES/oslo_cache.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/pt_BR/LC_MESSAGES/oslo_cache.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/ru/LC_MESSAGES/oslo_cache.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/tr_TR/LC_MESSAGES/oslo_cache.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/zh_CN/LC_MESSAGES/oslo_cache.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/zh_TW/LC_MESSAGES/oslo_cache.po | 
+ | [de](/f26/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/de/LC_MESSAGES/oslo_cache.po | 
+ | [en_GB](/f26/language/en_GB) | 82 | 82 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/en_GB/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f26/python-oslo-cache/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f26/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/es/LC_MESSAGES/oslo_cache.po | 
+ | [fr](/f26/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/fr/LC_MESSAGES/oslo_cache.po | 
+ | [it](/f26/language/it) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/it/LC_MESSAGES/oslo_cache.po | 
+ | [ko](/f26/language/ko) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/ko_KR/LC_MESSAGES/oslo_cache.po | 
+ | [pt_BR](/f26/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/pt_BR/LC_MESSAGES/oslo_cache.po | 
+ | [ru](/f26/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/ru/LC_MESSAGES/oslo_cache.po | 
+ | [tr](/f26/language/tr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/tr_TR/LC_MESSAGES/oslo_cache.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/zh_CN/LC_MESSAGES/oslo_cache.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 65 | 65 | 100.0 | /mnt/stockage/packages/f26/python-oslo-cache/oslo_cache/locale/zh_TW/LC_MESSAGES/oslo_cache.po | 
 {.sortable}
 
 

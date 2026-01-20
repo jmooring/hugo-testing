@@ -18,33 +18,33 @@ The package keurocalc (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/bg.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/da.po/mnt/stockage/packages/f23/keurocalc/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/el.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/sr@Latn.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/es.po/mnt/stockage/packages/f23/keurocalc/po/es.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/et.po/mnt/stockage/packages/f23/keurocalc/po/et.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/ga.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/gl.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/it.po/mnt/stockage/packages/f23/keurocalc/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/ja.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/nl.po/mnt/stockage/packages/f23/keurocalc/po/nl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/pt.po/mnt/stockage/packages/f23/keurocalc/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/pt_BR.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/sv.po/mnt/stockage/packages/f23/keurocalc/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/tr.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2916 | 3042 | 95.9 | /mnt/stockage/packages/f23/keurocalc/doc/fr.po/mnt/stockage/packages/f23/keurocalc/po/fr.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 2869 | 3042 | 94.3 | /mnt/stockage/packages/f23/keurocalc/doc/nb.po/mnt/stockage/packages/f23/keurocalc/po/nb.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 265 | 291 | 91.1 | /mnt/stockage/packages/f23/keurocalc/po/ar.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 239 | 291 | 82.1 | /mnt/stockage/packages/f23/keurocalc/po/en_GB.po | 
- | [ka]({{< ref "/f23/language/ka.md" >}}) | 239 | 291 | 82.1 | /mnt/stockage/packages/f23/keurocalc/po/ka.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 207 | 291 | 71.1 | /mnt/stockage/packages/f23/keurocalc/po/hu.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 207 | 291 | 71.1 | /mnt/stockage/packages/f23/keurocalc/po/pl.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 205 | 291 | 70.4 | /mnt/stockage/packages/f23/keurocalc/po/ta.po | 
- | [br]({{< ref "/f23/language/br.md" >}}) | 195 | 291 | 67.0 | /mnt/stockage/packages/f23/keurocalc/po/br.po | 
+ | [bg](/f23/language/bg) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/bg.po | 
+ | [cs](/f23/language/cs) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/cs.po | 
+ | [da](/f23/language/da) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/da.po/mnt/stockage/packages/f23/keurocalc/po/da.po | 
+ | [de](/f23/language/de) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/de.po | 
+ | [el](/f23/language/el) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/el.po | 
+ | [error](/f23/language/error) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/sr@Latn.po | 
+ | [es](/f23/language/es) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/es.po/mnt/stockage/packages/f23/keurocalc/po/es.po | 
+ | [et](/f23/language/et) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/et.po/mnt/stockage/packages/f23/keurocalc/po/et.po | 
+ | [ga](/f23/language/ga) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/ga.po | 
+ | [gl](/f23/language/gl) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/gl.po | 
+ | [it](/f23/language/it) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/it.po/mnt/stockage/packages/f23/keurocalc/po/it.po | 
+ | [ja](/f23/language/ja) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/ja.po | 
+ | [nl](/f23/language/nl) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/nl.po/mnt/stockage/packages/f23/keurocalc/po/nl.po | 
+ | [pt](/f23/language/pt) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/pt.po/mnt/stockage/packages/f23/keurocalc/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/pt_BR.po | 
+ | [sr](/f23/language/sr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/sr.po | 
+ | [sv](/f23/language/sv) | 3042 | 3042 | 100.0 | /mnt/stockage/packages/f23/keurocalc/doc/sv.po/mnt/stockage/packages/f23/keurocalc/po/sv.po | 
+ | [tr](/f23/language/tr) | 291 | 291 | 100.0 | /mnt/stockage/packages/f23/keurocalc/po/tr.po | 
+ | [fr](/f23/language/fr) | 2916 | 3042 | 95.9 | /mnt/stockage/packages/f23/keurocalc/doc/fr.po/mnt/stockage/packages/f23/keurocalc/po/fr.po | 
+ | [nb_NO](/f23/language/nb_NO) | 2869 | 3042 | 94.3 | /mnt/stockage/packages/f23/keurocalc/doc/nb.po/mnt/stockage/packages/f23/keurocalc/po/nb.po | 
+ | [ar](/f23/language/ar) | 265 | 291 | 91.1 | /mnt/stockage/packages/f23/keurocalc/po/ar.po | 
+ | [en_GB](/f23/language/en_GB) | 239 | 291 | 82.1 | /mnt/stockage/packages/f23/keurocalc/po/en_GB.po | 
+ | [ka](/f23/language/ka) | 239 | 291 | 82.1 | /mnt/stockage/packages/f23/keurocalc/po/ka.po | 
+ | [hu](/f23/language/hu) | 207 | 291 | 71.1 | /mnt/stockage/packages/f23/keurocalc/po/hu.po | 
+ | [pl](/f23/language/pl) | 207 | 291 | 71.1 | /mnt/stockage/packages/f23/keurocalc/po/pl.po | 
+ | [ta](/f23/language/ta) | 205 | 291 | 70.4 | /mnt/stockage/packages/f23/keurocalc/po/ta.po | 
+ | [br](/f23/language/br) | 195 | 291 | 67.0 | /mnt/stockage/packages/f23/keurocalc/po/br.po | 
 {.sortable}
 
 

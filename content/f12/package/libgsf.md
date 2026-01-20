@@ -18,12 +18,12 @@ The package libgsf (version 1.14.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/libgsf/po/es.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f12/libgsf/po/sv.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f12/libgsf/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 647 | 715 | 90.5 | /mnt/stockage/packages/f12/libgsf/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 10 | 753 | 1.3 | /mnt/stockage/packages/f12/libgsf/po/nb.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f12/libgsf/po/oc.po | 
+ | [es](/f12/language/es) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/libgsf/po/es.po | 
+ | [sv](/f12/language/sv) | 744 | 744 | 100.0 | /mnt/stockage/packages/f12/libgsf/po/sv.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 647 | 715 | 90.5 | /mnt/stockage/packages/f12/libgsf/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 647 | 715 | 90.5 | /mnt/stockage/packages/f12/libgsf/po/zh_HK.po | 
+ | [nb_NO](/f12/language/nb_NO) | 10 | 753 | 1.3 | /mnt/stockage/packages/f12/libgsf/po/nb.po | 
+ | [oc](/f12/language/oc) | 0 | 77 | 0.0 | /mnt/stockage/packages/f12/libgsf/po/oc.po | 
 {.sortable}
 
 

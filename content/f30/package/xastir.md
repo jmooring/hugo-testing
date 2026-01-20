@@ -18,9 +18,9 @@ The package xastir (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f30/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/xastir/po/en.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/xastir/po/fr.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/xastir/po/nl.po | 
+ | [en](/f30/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/xastir/po/en.po | 
+ | [fr](/f30/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/xastir/po/fr.po | 
+ | [nl](/f30/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/xastir/po/nl.po | 
 {.sortable}
 
 

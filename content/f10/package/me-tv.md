@@ -18,13 +18,13 @@ The package me-tv (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f10/language/it.md" >}}) | 908 | 908 | 100.0 | /mnt/stockage/packages/f10/me-tv/po/it.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1094 | 1098 | 99.6 | /mnt/stockage/packages/f10/me-tv/po/cs.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 896 | 908 | 98.7 | /mnt/stockage/packages/f10/me-tv/po/sv.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 847 | 908 | 93.3 | /mnt/stockage/packages/f10/me-tv/po/de.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 723 | 999 | 72.4 | /mnt/stockage/packages/f10/me-tv/po/fi.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 553 | 908 | 60.9 | /mnt/stockage/packages/f10/me-tv/po/pl.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 283 | 908 | 31.2 | /mnt/stockage/packages/f10/me-tv/po/fa.po | 
+ | [it](/f10/language/it) | 908 | 908 | 100.0 | /mnt/stockage/packages/f10/me-tv/po/it.po | 
+ | [cs](/f10/language/cs) | 1094 | 1098 | 99.6 | /mnt/stockage/packages/f10/me-tv/po/cs.po | 
+ | [sv](/f10/language/sv) | 896 | 908 | 98.7 | /mnt/stockage/packages/f10/me-tv/po/sv.po | 
+ | [de](/f10/language/de) | 847 | 908 | 93.3 | /mnt/stockage/packages/f10/me-tv/po/de.po | 
+ | [fi](/f10/language/fi) | 723 | 999 | 72.4 | /mnt/stockage/packages/f10/me-tv/po/fi.po | 
+ | [pl](/f10/language/pl) | 553 | 908 | 60.9 | /mnt/stockage/packages/f10/me-tv/po/pl.po | 
+ | [fa](/f10/language/fa) | 283 | 908 | 31.2 | /mnt/stockage/packages/f10/me-tv/po/fa.po | 
 {.sortable}
 
 

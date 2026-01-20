@@ -18,89 +18,89 @@ The package kf5-kdoctools (version 5.75.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f32/language/af.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/af/kdoctools5.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ar/kdoctools5.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ast/kdoctools5.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/az/kdoctools5.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/be/kdoctools5.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/bg/kdoctools5.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/bn/kdoctools5.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/br/kdoctools5.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/bs/kdoctools5.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ca/kdoctools5.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ca@valencia/kdoctools5.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/cs/kdoctools5.po | 
- | [csb]({{< ref "/f32/language/csb.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/csb/kdoctools5.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/cy/kdoctools5.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/da/kdoctools5.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/de/kdoctools5.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/el/kdoctools5.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/en_GB/kdoctools5.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/eo/kdoctools5.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/es/kdoctools5.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/et/kdoctools5.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/eu/kdoctools5.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fa/kdoctools5.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fi/kdoctools5.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fr/kdoctools5.po | 
- | [fy]({{< ref "/f32/language/fy.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fy/kdoctools5.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ga/kdoctools5.po | 
- | [gd]({{< ref "/f32/language/gd.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/gd/kdoctools5.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/gl/kdoctools5.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/gu/kdoctools5.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/he/kdoctools5.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hi/kdoctools5.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hr/kdoctools5.po | 
- | [hsb]({{< ref "/f32/language/hsb.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hsb/kdoctools5.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hu/kdoctools5.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ia/kdoctools5.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/id/kdoctools5.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/is/kdoctools5.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/it/kdoctools5.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/kk/kdoctools5.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/km/kdoctools5.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/kn/kdoctools5.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ko/kdoctools5.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/lt/kdoctools5.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/lv/kdoctools5.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/mai/kdoctools5.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/mk/kdoctools5.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/mr/kdoctools5.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ms/kdoctools5.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nb/kdoctools5.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nds/kdoctools5.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ne/kdoctools5.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nl/kdoctools5.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nn/kdoctools5.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pa/kdoctools5.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pl/kdoctools5.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pt/kdoctools5.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pt_BR/kdoctools5.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ro/kdoctools5.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ru/kdoctools5.po | 
- | [se]({{< ref "/f32/language/se.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/se/kdoctools5.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sk/kdoctools5.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sl/kdoctools5.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sq/kdoctools5.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr/kdoctools5.po | 
- | [sr@ijekavian]({{< ref "/f32/language/sr@ijekavian.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr@ijekavian/kdoctools5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f32/language/sr@ijekavian_Latn.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr@ijekavianlatin/kdoctools5.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr@latin/kdoctools5.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sv/kdoctools5.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ta/kdoctools5.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/tg/kdoctools5.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/th/kdoctools5.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/tr/kdoctools5.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ug/kdoctools5.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/uk/kdoctools5.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/vi/kdoctools5.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/zh_CN/kdoctools5.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/zh_TW/kdoctools5.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 4 | 8 | 50.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/oc/kdoctools5.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 8 | 16 | 50.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/uz/kdoctools5.po/mnt/stockage/packages/f32/kf5-kdoctools/po/uz@cyrillic/kdoctools5.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 2 | 8 | 25.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ku/kdoctools5.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 8 | 0.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ja/kdoctools5.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 0 | 8 | 0.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ml/kdoctools5.po | 
+ | [af](/f32/language/af) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/af/kdoctools5.po | 
+ | [ar](/f32/language/ar) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ar/kdoctools5.po | 
+ | [ast](/f32/language/ast) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ast/kdoctools5.po | 
+ | [az](/f32/language/az) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/az/kdoctools5.po | 
+ | [be](/f32/language/be) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/be/kdoctools5.po | 
+ | [bg](/f32/language/bg) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/bg/kdoctools5.po | 
+ | [bn](/f32/language/bn) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/bn/kdoctools5.po | 
+ | [br](/f32/language/br) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/br/kdoctools5.po | 
+ | [bs](/f32/language/bs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/bs/kdoctools5.po | 
+ | [ca](/f32/language/ca) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ca/kdoctools5.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ca@valencia/kdoctools5.po | 
+ | [cs](/f32/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/cs/kdoctools5.po | 
+ | [csb](/f32/language/csb) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/csb/kdoctools5.po | 
+ | [cy](/f32/language/cy) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/cy/kdoctools5.po | 
+ | [da](/f32/language/da) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/da/kdoctools5.po | 
+ | [de](/f32/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/de/kdoctools5.po | 
+ | [el](/f32/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/el/kdoctools5.po | 
+ | [en_GB](/f32/language/en_GB) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/en_GB/kdoctools5.po | 
+ | [eo](/f32/language/eo) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/eo/kdoctools5.po | 
+ | [es](/f32/language/es) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/es/kdoctools5.po | 
+ | [et](/f32/language/et) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/et/kdoctools5.po | 
+ | [eu](/f32/language/eu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/eu/kdoctools5.po | 
+ | [fa](/f32/language/fa) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fa/kdoctools5.po | 
+ | [fi](/f32/language/fi) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fi/kdoctools5.po | 
+ | [fr](/f32/language/fr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fr/kdoctools5.po | 
+ | [fy](/f32/language/fy) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/fy/kdoctools5.po | 
+ | [ga](/f32/language/ga) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ga/kdoctools5.po | 
+ | [gd](/f32/language/gd) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/gd/kdoctools5.po | 
+ | [gl](/f32/language/gl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/gl/kdoctools5.po | 
+ | [gu](/f32/language/gu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/gu/kdoctools5.po | 
+ | [he](/f32/language/he) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/he/kdoctools5.po | 
+ | [hi](/f32/language/hi) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hi/kdoctools5.po | 
+ | [hr](/f32/language/hr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hr/kdoctools5.po | 
+ | [hsb](/f32/language/hsb) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hsb/kdoctools5.po | 
+ | [hu](/f32/language/hu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/hu/kdoctools5.po | 
+ | [ia](/f32/language/ia) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ia/kdoctools5.po | 
+ | [id](/f32/language/id) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/id/kdoctools5.po | 
+ | [is](/f32/language/is) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/is/kdoctools5.po | 
+ | [it](/f32/language/it) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/it/kdoctools5.po | 
+ | [kk](/f32/language/kk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/kk/kdoctools5.po | 
+ | [km](/f32/language/km) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/km/kdoctools5.po | 
+ | [kn](/f32/language/kn) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/kn/kdoctools5.po | 
+ | [ko](/f32/language/ko) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ko/kdoctools5.po | 
+ | [lt](/f32/language/lt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/lt/kdoctools5.po | 
+ | [lv](/f32/language/lv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/lv/kdoctools5.po | 
+ | [mai](/f32/language/mai) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/mai/kdoctools5.po | 
+ | [mk](/f32/language/mk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/mk/kdoctools5.po | 
+ | [mr](/f32/language/mr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/mr/kdoctools5.po | 
+ | [ms](/f32/language/ms) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ms/kdoctools5.po | 
+ | [nb_NO](/f32/language/nb_NO) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nb/kdoctools5.po | 
+ | [nds](/f32/language/nds) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nds/kdoctools5.po | 
+ | [ne](/f32/language/ne) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ne/kdoctools5.po | 
+ | [nl](/f32/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nl/kdoctools5.po | 
+ | [nn](/f32/language/nn) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/nn/kdoctools5.po | 
+ | [pa](/f32/language/pa) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pa/kdoctools5.po | 
+ | [pl](/f32/language/pl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pl/kdoctools5.po | 
+ | [pt](/f32/language/pt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pt/kdoctools5.po | 
+ | [pt_BR](/f32/language/pt_BR) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/pt_BR/kdoctools5.po | 
+ | [ro](/f32/language/ro) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ro/kdoctools5.po | 
+ | [ru](/f32/language/ru) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ru/kdoctools5.po | 
+ | [se](/f32/language/se) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/se/kdoctools5.po | 
+ | [sk](/f32/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sk/kdoctools5.po | 
+ | [sl](/f32/language/sl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sl/kdoctools5.po | 
+ | [sq](/f32/language/sq) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sq/kdoctools5.po | 
+ | [sr](/f32/language/sr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr/kdoctools5.po | 
+ | [sr@ijekavian](/f32/language/sr@ijekavian) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr@ijekavian/kdoctools5.po | 
+ | [sr@ijekavian_Latn](/f32/language/sr@ijekavian_Latn) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr@ijekavianlatin/kdoctools5.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sr@latin/kdoctools5.po | 
+ | [sv](/f32/language/sv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/sv/kdoctools5.po | 
+ | [ta](/f32/language/ta) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ta/kdoctools5.po | 
+ | [tg](/f32/language/tg) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/tg/kdoctools5.po | 
+ | [th](/f32/language/th) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/th/kdoctools5.po | 
+ | [tr](/f32/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/tr/kdoctools5.po | 
+ | [ug](/f32/language/ug) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ug/kdoctools5.po | 
+ | [uk](/f32/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/uk/kdoctools5.po | 
+ | [vi](/f32/language/vi) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/vi/kdoctools5.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/zh_CN/kdoctools5.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 8 | 8 | 100.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/zh_TW/kdoctools5.po | 
+ | [oc](/f32/language/oc) | 4 | 8 | 50.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/oc/kdoctools5.po | 
+ | [uz](/f32/language/uz) | 8 | 16 | 50.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/uz/kdoctools5.po/mnt/stockage/packages/f32/kf5-kdoctools/po/uz@cyrillic/kdoctools5.po | 
+ | [ku](/f32/language/ku) | 2 | 8 | 25.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ku/kdoctools5.po | 
+ | [ja](/f32/language/ja) | 0 | 8 | 0.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ja/kdoctools5.po | 
+ | [ml](/f32/language/ml) | 0 | 8 | 0.0 | /mnt/stockage/packages/f32/kf5-kdoctools/po/ml/kdoctools5.po | 
 {.sortable}
 
 

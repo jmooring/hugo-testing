@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gtkhash]({{< ref "/f40/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/gtkhash/translations/bn_BD/> | 
- | [python-humanize]({{< ref "/f40/package/python-humanize.md" >}}) | 88 | 108 | 81.5 | Bengali | 
- | [modem-manager-gui]({{< ref "/f40/package/modem-manager-gui.md" >}}) | 786 | 3303 | 23.8 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
- | [appstream]({{< ref "/f40/package/appstream.md" >}}) | 1055 | 7011 | 15.0 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/appstream/translations/bn_BD/> | 
- | [gamehub]({{< ref "/f40/package/gamehub.md" >}}) | 92 | 1115 | 8.3 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/gamehub/translations/bn_BD/> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 496 | 8294 | 6.0 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/iso-codes/iso-15924/bn_BD/> | 
- | [xournalpp]({{< ref "/f40/package/xournalpp.md" >}}) | 117 | 4758 | 2.5 | Bengali | 
- | [calibre]({{< ref "/f40/package/calibre.md" >}}) | 2106 | 173253 | 1.2 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
- | [android-tools]({{< ref "/f40/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
- | [electrum]({{< ref "/f40/package/electrum.md" >}}) | 0 | 13041 | 0.0 | Bengali | 
- | [fonts-tweak-tool]({{< ref "/f40/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Bengali (Bangladesh) | 
- | [policycoreutils]({{< ref "/f40/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [gtkhash](/f40/package/gtkhash) | 197 | 213 | 92.5 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/gtkhash/translations/bn_BD/> | 
+ | [python-humanize](/f40/package/python-humanize) | 88 | 108 | 81.5 | Bengali | 
+ | [modem-manager-gui](/f40/package/modem-manager-gui) | 786 | 3303 | 23.8 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
+ | [appstream](/f40/package/appstream) | 1055 | 7011 | 15.0 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/appstream/translations/bn_BD/> | 
+ | [gamehub](/f40/package/gamehub) | 92 | 1115 | 8.3 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/gamehub/translations/bn_BD/> | 
+ | [iso-codes](/f40/package/iso-codes) | 496 | 8294 | 6.0 | Bengali (Bangladesh) <https://hosted.weblate.org/projects/iso-codes/iso-15924/bn_BD/> | 
+ | [xournalpp](/f40/package/xournalpp) | 117 | 4758 | 2.5 | Bengali | 
+ | [calibre](/f40/package/calibre) | 2106 | 173253 | 1.2 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
+ | [android-tools](/f40/package/android-tools) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [electrum](/f40/package/electrum) | 0 | 13041 | 0.0 | Bengali | 
+ | [fonts-tweak-tool](/f40/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Bengali (Bangladesh) | 
+ | [policycoreutils](/f40/package/policycoreutils) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
 {.sortable}
 
 

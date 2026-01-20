@@ -18,10 +18,10 @@ The package namazu (version 2.0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f8/language/error.md" >}}) | 1051 | 1051 | 100.0 | /mnt/stockage/packages/f8/namazu/po/ja_JP.SJIS.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1051 | 1051 | 100.0 | /mnt/stockage/packages/f8/namazu/po/ja.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1024 | 1051 | 97.4 | /mnt/stockage/packages/f8/namazu/po/fr.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 982 | 1051 | 93.4 | /mnt/stockage/packages/f8/namazu/po/es.po | 
+ | [error](/f8/language/error) | 1051 | 1051 | 100.0 | /mnt/stockage/packages/f8/namazu/po/ja_JP.SJIS.po | 
+ | [ja](/f8/language/ja) | 1051 | 1051 | 100.0 | /mnt/stockage/packages/f8/namazu/po/ja.po | 
+ | [fr](/f8/language/fr) | 1024 | 1051 | 97.4 | /mnt/stockage/packages/f8/namazu/po/fr.po | 
+ | [es](/f8/language/es) | 982 | 1051 | 93.4 | /mnt/stockage/packages/f8/namazu/po/es.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package gkrellm (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3805 | 3833 | 99.3 | /mnt/stockage/packages/f43/gkrellm/po/fr.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 3739 | 3833 | 97.5 | /mnt/stockage/packages/f43/gkrellm/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 3633 | 3833 | 94.8 | /mnt/stockage/packages/f43/gkrellm/po/es.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 3597 | 3833 | 93.8 | /mnt/stockage/packages/f43/gkrellm/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 3568 | 3833 | 93.1 | /mnt/stockage/packages/f43/gkrellm/po/ru.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 3568 | 3833 | 93.1 | /mnt/stockage/packages/f43/gkrellm/po/uk.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 3557 | 3833 | 92.8 | /mnt/stockage/packages/f43/gkrellm/po/pt.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 3445 | 3833 | 89.9 | /mnt/stockage/packages/f43/gkrellm/po/pl.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 3274 | 3833 | 85.4 | /mnt/stockage/packages/f43/gkrellm/po/bg.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 3274 | 3833 | 85.4 | /mnt/stockage/packages/f43/gkrellm/po/ja.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 3271 | 3833 | 85.3 | /mnt/stockage/packages/f43/gkrellm/po/it.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 3217 | 3833 | 83.9 | /mnt/stockage/packages/f43/gkrellm/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 3217 | 3833 | 83.9 | /mnt/stockage/packages/f43/gkrellm/po/da.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 3206 | 3833 | 83.6 | /mnt/stockage/packages/f43/gkrellm/po/nl.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 3206 | 3833 | 83.6 | /mnt/stockage/packages/f43/gkrellm/po/sl.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 3039 | 3833 | 79.3 | /mnt/stockage/packages/f43/gkrellm/po/sv.po | 
+ | [fr](/f43/language/fr) | 3805 | 3833 | 99.3 | /mnt/stockage/packages/f43/gkrellm/po/fr.po | 
+ | [de](/f43/language/de) | 3739 | 3833 | 97.5 | /mnt/stockage/packages/f43/gkrellm/po/de.po | 
+ | [es](/f43/language/es) | 3633 | 3833 | 94.8 | /mnt/stockage/packages/f43/gkrellm/po/es.po | 
+ | [pt_BR](/f43/language/pt_BR) | 3597 | 3833 | 93.8 | /mnt/stockage/packages/f43/gkrellm/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 3568 | 3833 | 93.1 | /mnt/stockage/packages/f43/gkrellm/po/ru.po | 
+ | [uk](/f43/language/uk) | 3568 | 3833 | 93.1 | /mnt/stockage/packages/f43/gkrellm/po/uk.po | 
+ | [pt](/f43/language/pt) | 3557 | 3833 | 92.8 | /mnt/stockage/packages/f43/gkrellm/po/pt.po | 
+ | [pl](/f43/language/pl) | 3445 | 3833 | 89.9 | /mnt/stockage/packages/f43/gkrellm/po/pl.po | 
+ | [bg](/f43/language/bg) | 3274 | 3833 | 85.4 | /mnt/stockage/packages/f43/gkrellm/po/bg.po | 
+ | [ja](/f43/language/ja) | 3274 | 3833 | 85.4 | /mnt/stockage/packages/f43/gkrellm/po/ja.po | 
+ | [it](/f43/language/it) | 3271 | 3833 | 85.3 | /mnt/stockage/packages/f43/gkrellm/po/it.po | 
+ | [cs](/f43/language/cs) | 3217 | 3833 | 83.9 | /mnt/stockage/packages/f43/gkrellm/po/cs.po | 
+ | [da](/f43/language/da) | 3217 | 3833 | 83.9 | /mnt/stockage/packages/f43/gkrellm/po/da.po | 
+ | [nl](/f43/language/nl) | 3206 | 3833 | 83.6 | /mnt/stockage/packages/f43/gkrellm/po/nl.po | 
+ | [sl](/f43/language/sl) | 3206 | 3833 | 83.6 | /mnt/stockage/packages/f43/gkrellm/po/sl.po | 
+ | [sv](/f43/language/sv) | 3039 | 3833 | 79.3 | /mnt/stockage/packages/f43/gkrellm/po/sv.po | 
 {.sortable}
 
 

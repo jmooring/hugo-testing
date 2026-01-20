@@ -18,14 +18,14 @@ The package zaz (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/it.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/pl.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/tr.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 193 | 229 | 84.3 | /mnt/stockage/packages/f21/zaz/po/ru.po | 
+ | [de](/f21/language/de) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/de.po | 
+ | [es](/f21/language/es) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/es.po | 
+ | [fr](/f21/language/fr) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/fr.po | 
+ | [hu](/f21/language/hu) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/hu.po | 
+ | [it](/f21/language/it) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/it.po | 
+ | [pl](/f21/language/pl) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/pl.po | 
+ | [tr](/f21/language/tr) | 229 | 229 | 100.0 | /mnt/stockage/packages/f21/zaz/po/tr.po | 
+ | [ru](/f21/language/ru) | 193 | 229 | 84.3 | /mnt/stockage/packages/f21/zaz/po/ru.po | 
 {.sortable}
 
 

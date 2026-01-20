@@ -18,11 +18,11 @@ The package mono (version 6.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f40/language/en.md" >}}) | 17 | 36 | 47.2 | /mnt/stockage/packages/f40/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/es.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/ja.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/pt_BR.po | 
+ | [en](/f40/language/en) | 17 | 36 | 47.2 | /mnt/stockage/packages/f40/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
+ | [de](/f40/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/de.po | 
+ | [es](/f40/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/es.po | 
+ | [ja](/f40/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/ja.po | 
+ | [pt_BR](/f40/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/mono/po/mcs/pt_BR.po | 
 {.sortable}
 
 

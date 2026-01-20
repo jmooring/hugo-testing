@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wormux]({{< ref "/f18/package/wormux.md" >}}) | 940 | 1916 | 49.1 | <fr@li.org> | 
- | [warmux]({{< ref "/f18/package/warmux.md" >}}) | 902 | 2744 | 32.9 | <fr@li.org> | 
+ | [wormux](/f18/package/wormux) | 940 | 1916 | 49.1 | <fr@li.org> | 
+ | [warmux](/f18/package/warmux) | 902 | 2744 | 32.9 | <fr@li.org> | 
 {.sortable}
 
 

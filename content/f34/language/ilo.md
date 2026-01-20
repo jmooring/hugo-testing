@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f34/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [switchdesk]({{< ref "/f34/package/switchdesk.md" >}}) | 10 | 122 | 8.2 |  | 
- | [python-blivet]({{< ref "/f34/package/python-blivet.md" >}}) | 37 | 558 | 6.6 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
- | [anaconda]({{< ref "/f34/package/anaconda.md" >}}) | 66 | 8017 | 0.8 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
- | [policycoreutils]({{< ref "/f34/package/policycoreutils.md" >}}) | 8 | 12171 | 0.1 | Iloko | 
- | [android-tools]({{< ref "/f34/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
- | [cinnamon-control-center]({{< ref "/f34/package/cinnamon-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [entangle]({{< ref "/f34/package/entangle.md" >}}) | 0 | 953 | 0.0 | Iloko | 
- | [gnome-control-center]({{< ref "/f34/package/gnome-control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [initial-setup]({{< ref "/f34/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Iloko | 
- | [mingw-libvirt-glib]({{< ref "/f34/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
- | [python-fedora]({{< ref "/f34/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Iloko | 
- | [python-meh]({{< ref "/f34/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Iloko | 
- | [sos]({{< ref "/f34/package/sos.md" >}}) | 0 | 122 | 0.0 | none | 
+ | [redhat-menus](/f34/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [switchdesk](/f34/package/switchdesk) | 10 | 122 | 8.2 |  | 
+ | [python-blivet](/f34/package/python-blivet) | 37 | 558 | 6.6 | Iloko (http://www.transifex.com/projects/p/blivet/language/ilo/) | 
+ | [anaconda](/f34/package/anaconda) | 66 | 8017 | 0.8 | Iloko (http://www.transifex.com/projects/p/anaconda/language/ilo/) | 
+ | [policycoreutils](/f34/package/policycoreutils) | 8 | 12171 | 0.1 | Iloko | 
+ | [android-tools](/f34/package/android-tools) | 0 | 7678 | 0.0 | Iloko (http://www.transifex.com/projects/p/fedora/language/ilo/) | 
+ | [cinnamon-control-center](/f34/package/cinnamon-control-center) | 0 | 1313 | 0.0 |  | 
+ | [entangle](/f34/package/entangle) | 0 | 953 | 0.0 | Iloko | 
+ | [gnome-control-center](/f34/package/gnome-control-center) | 0 | 1313 | 0.0 |  | 
+ | [initial-setup](/f34/package/initial-setup) | 0 | 33 | 0.0 | Iloko | 
+ | [mingw-libvirt-glib](/f34/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Iloko (http://www.transifex.com/projects/p/libvirt-glib/language/ilo/) | 
+ | [python-fedora](/f34/package/python-fedora) | 0 | 214 | 0.0 | Iloko | 
+ | [python-meh](/f34/package/python-meh) | 0 | 109 | 0.0 | Iloko | 
+ | [sos](/f34/package/sos) | 0 | 122 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package xz (version 5.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/de.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/it.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/pl.po | 
+ | [cs](/f16/language/cs) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/cs.po | 
+ | [de](/f16/language/de) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/de.po | 
+ | [it](/f16/language/it) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/it.po | 
+ | [pl](/f16/language/pl) | 1130 | 1181 | 95.7 | /mnt/stockage/packages/f16/xz/po/pl.po | 
 {.sortable}
 
 

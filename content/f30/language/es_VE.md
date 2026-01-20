@@ -38,34 +38,34 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f30/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [python2-django1.11]({{< ref "/f30/package/python2-django1.11.md" >}}) | 3157 | 3429 | 92.1 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
- | [python-django]({{< ref "/f30/package/python-django.md" >}}) | 3064 | 3485 | 87.9 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
- | [wicd]({{< ref "/f30/package/wicd.md" >}}) | 851 | 1138 | 74.8 | es_VE <LL@li.org> | 
- | [libmateweather]({{< ref "/f30/package/libmateweather.md" >}}) | 362 | 499 | 72.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [glpi]({{< ref "/f30/package/glpi.md" >}}) | 10171 | 14162 | 71.8 | Spanish (Venezuela) (https://www.transifex.com/glpi/teams/1637/es_VE/) | 
- | [cawbird]({{< ref "/f30/package/cawbird.md" >}}) | 297 | 588 | 50.5 | Spanish (Venezuela) (http://www.transifex.com/cawbird/cawbird/language/es_VE/) | 
- | [corebird]({{< ref "/f30/package/corebird.md" >}}) | 295 | 586 | 50.3 | Spanish (Venezuela) (http://www.transifex.com/corebird/corebird/language/es_VE/) | 
- | [mozo]({{< ref "/f30/package/mozo.md" >}}) | 17 | 42 | 40.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [remmina]({{< ref "/f30/package/remmina.md" >}}) | 774 | 2674 | 28.9 | Spanish (Venezuela) <https://hosted.weblate.org/projects/remmina/remmina/es_VE/> | 
- | [mate-applets]({{< ref "/f30/package/mate-applets.md" >}}) | 1674 | 11932 | 14.0 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-sensors-applet]({{< ref "/f30/package/mate-sensors-applet.md" >}}) | 11 | 321 | 3.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-settings-daemon]({{< ref "/f30/package/mate-settings-daemon.md" >}}) | 43 | 1840 | 2.3 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-media]({{< ref "/f30/package/mate-media.md" >}}) | 5 | 238 | 2.1 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [atril]({{< ref "/f30/package/atril.md" >}}) | 36 | 1803 | 2.0 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [xreader]({{< ref "/f30/package/xreader.md" >}}) | 28 | 1669 | 1.7 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [mate-system-monitor]({{< ref "/f30/package/mate-system-monitor.md" >}}) | 16 | 1468 | 1.1 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [eom]({{< ref "/f30/package/eom.md" >}}) | 14 | 1780 | 0.8 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-control-center]({{< ref "/f30/package/mate-control-center.md" >}}) | 21 | 2704 | 0.8 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-session-manager]({{< ref "/f30/package/mate-session-manager.md" >}}) | 5 | 705 | 0.7 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-panel]({{< ref "/f30/package/mate-panel.md" >}}) | 39 | 6668 | 0.6 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-calc]({{< ref "/f30/package/mate-calc.md" >}}) | 7 | 1380 | 0.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [engrampa]({{< ref "/f30/package/engrampa.md" >}}) | 10 | 2015 | 0.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [libmatekbd]({{< ref "/f30/package/libmatekbd.md" >}}) | 1 | 251 | 0.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-power-manager]({{< ref "/f30/package/mate-power-manager.md" >}}) | 10 | 2731 | 0.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-utils]({{< ref "/f30/package/mate-utils.md" >}}) | 6 | 2528 | 0.2 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-themes]({{< ref "/f30/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [visualboyadvance-m]({{< ref "/f30/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/bgk/vba-m/language/es_VE/) | 
+ | [libgweather](/f30/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [python2-django1.11](/f30/package/python2-django1.11) | 3157 | 3429 | 92.1 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
+ | [python-django](/f30/package/python-django) | 3064 | 3485 | 87.9 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
+ | [wicd](/f30/package/wicd) | 851 | 1138 | 74.8 | es_VE <LL@li.org> | 
+ | [libmateweather](/f30/package/libmateweather) | 362 | 499 | 72.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [glpi](/f30/package/glpi) | 10171 | 14162 | 71.8 | Spanish (Venezuela) (https://www.transifex.com/glpi/teams/1637/es_VE/) | 
+ | [cawbird](/f30/package/cawbird) | 297 | 588 | 50.5 | Spanish (Venezuela) (http://www.transifex.com/cawbird/cawbird/language/es_VE/) | 
+ | [corebird](/f30/package/corebird) | 295 | 586 | 50.3 | Spanish (Venezuela) (http://www.transifex.com/corebird/corebird/language/es_VE/) | 
+ | [mozo](/f30/package/mozo) | 17 | 42 | 40.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [remmina](/f30/package/remmina) | 774 | 2674 | 28.9 | Spanish (Venezuela) <https://hosted.weblate.org/projects/remmina/remmina/es_VE/> | 
+ | [mate-applets](/f30/package/mate-applets) | 1674 | 11932 | 14.0 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-sensors-applet](/f30/package/mate-sensors-applet) | 11 | 321 | 3.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-settings-daemon](/f30/package/mate-settings-daemon) | 43 | 1840 | 2.3 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-media](/f30/package/mate-media) | 5 | 238 | 2.1 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [atril](/f30/package/atril) | 36 | 1803 | 2.0 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [xreader](/f30/package/xreader) | 28 | 1669 | 1.7 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [mate-system-monitor](/f30/package/mate-system-monitor) | 16 | 1468 | 1.1 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [eom](/f30/package/eom) | 14 | 1780 | 0.8 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-control-center](/f30/package/mate-control-center) | 21 | 2704 | 0.8 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-session-manager](/f30/package/mate-session-manager) | 5 | 705 | 0.7 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-panel](/f30/package/mate-panel) | 39 | 6668 | 0.6 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-calc](/f30/package/mate-calc) | 7 | 1380 | 0.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [engrampa](/f30/package/engrampa) | 10 | 2015 | 0.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [libmatekbd](/f30/package/libmatekbd) | 1 | 251 | 0.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-power-manager](/f30/package/mate-power-manager) | 10 | 2731 | 0.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-utils](/f30/package/mate-utils) | 6 | 2528 | 0.2 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-themes](/f30/package/mate-themes) | 0 | 70 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [visualboyadvance-m](/f30/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/bgk/vba-m/language/es_VE/) | 
 {.sortable}
 
 

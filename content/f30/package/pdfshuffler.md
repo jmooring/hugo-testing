@@ -18,15 +18,15 @@ The package pdfshuffler (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f30/language/el.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f30/pdfshuffler/po/el.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f30/pdfshuffler/po/fr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 76 | 125 | 60.8 | /mnt/stockage/packages/f30/pdfshuffler/po/hu.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 62 | 125 | 49.6 | /mnt/stockage/packages/f30/pdfshuffler/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 54 | 125 | 43.2 | /mnt/stockage/packages/f30/pdfshuffler/po/es.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 41 | 125 | 32.8 | /mnt/stockage/packages/f30/pdfshuffler/po/cs.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 41 | 125 | 32.8 | /mnt/stockage/packages/f30/pdfshuffler/po/ja.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 41 | 125 | 32.8 | /mnt/stockage/packages/f30/pdfshuffler/po/zh_CN.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 27 | 125 | 21.6 | /mnt/stockage/packages/f30/pdfshuffler/po/it.po | 
+ | [el](/f30/language/el) | 125 | 125 | 100.0 | /mnt/stockage/packages/f30/pdfshuffler/po/el.po | 
+ | [fr](/f30/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f30/pdfshuffler/po/fr.po | 
+ | [hu](/f30/language/hu) | 76 | 125 | 60.8 | /mnt/stockage/packages/f30/pdfshuffler/po/hu.po | 
+ | [de](/f30/language/de) | 62 | 125 | 49.6 | /mnt/stockage/packages/f30/pdfshuffler/po/de.po | 
+ | [es](/f30/language/es) | 54 | 125 | 43.2 | /mnt/stockage/packages/f30/pdfshuffler/po/es.po | 
+ | [cs](/f30/language/cs) | 41 | 125 | 32.8 | /mnt/stockage/packages/f30/pdfshuffler/po/cs.po | 
+ | [ja](/f30/language/ja) | 41 | 125 | 32.8 | /mnt/stockage/packages/f30/pdfshuffler/po/ja.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 41 | 125 | 32.8 | /mnt/stockage/packages/f30/pdfshuffler/po/zh_CN.po | 
+ | [it](/f30/language/it) | 27 | 125 | 21.6 | /mnt/stockage/packages/f30/pdfshuffler/po/it.po | 
 {.sortable}
 
 

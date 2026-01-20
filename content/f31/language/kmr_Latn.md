@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f31/package/libreoffice.md" >}}) | 32928 | 103571 | 31.8 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f31/package/libreoffice) | 32928 | 103571 | 31.8 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

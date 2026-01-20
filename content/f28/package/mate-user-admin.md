@@ -18,10 +18,10 @@ The package mate-user-admin (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 566 | 571 | 99.1 | /mnt/stockage/packages/f28/mate-user-admin/po/zh_CN.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 509 | 571 | 89.1 | /mnt/stockage/packages/f28/mate-user-admin/po/fr.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 500 | 571 | 87.6 | /mnt/stockage/packages/f28/mate-user-admin/po/ca.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 480 | 571 | 84.1 | /mnt/stockage/packages/f28/mate-user-admin/po/de.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 566 | 571 | 99.1 | /mnt/stockage/packages/f28/mate-user-admin/po/zh_CN.po | 
+ | [fr](/f28/language/fr) | 509 | 571 | 89.1 | /mnt/stockage/packages/f28/mate-user-admin/po/fr.po | 
+ | [ca](/f28/language/ca) | 500 | 571 | 87.6 | /mnt/stockage/packages/f28/mate-user-admin/po/ca.po | 
+ | [de](/f28/language/de) | 480 | 571 | 84.1 | /mnt/stockage/packages/f28/mate-user-admin/po/de.po | 
 {.sortable}
 
 

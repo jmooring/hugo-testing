@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kbd]({{< ref "/f10/package/kbd.md" >}}) | 1641 | 1641 | 100.0 | Czech <translation-team-cs@lists.sourceforge.net> | 
+ | [kbd](/f10/package/kbd) | 1641 | 1641 | 100.0 | Czech <translation-team-cs@lists.sourceforge.net> | 
 {.sortable}
 
 

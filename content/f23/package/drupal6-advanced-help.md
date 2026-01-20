@@ -18,9 +18,9 @@ The package drupal6-advanced-help (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f23/drupal6-advanced-help/help_example/translations/help_example.de.po/mnt/stockage/packages/f23/drupal6-advanced-help/translations/advanced_help.de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f23/drupal6-advanced-help/translations/fr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f23/drupal6-advanced-help/translations/advanced_help.hu.po | 
+ | [de](/f23/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f23/drupal6-advanced-help/help_example/translations/help_example.de.po/mnt/stockage/packages/f23/drupal6-advanced-help/translations/advanced_help.de.po | 
+ | [fr](/f23/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f23/drupal6-advanced-help/translations/fr.po | 
+ | [hu](/f23/language/hu) | 129 | 129 | 100.0 | /mnt/stockage/packages/f23/drupal6-advanced-help/translations/advanced_help.hu.po | 
 {.sortable}
 
 

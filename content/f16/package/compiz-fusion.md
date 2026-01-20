@@ -18,35 +18,35 @@ The package compiz-fusion (version 0.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f16/language/el.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/el.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/hu.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/ko.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 8406 | 8406 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/pt.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 8609 | 8946 | 96.2 | /mnt/stockage/packages/f16/compiz-fusion/po/he.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 7897 | 8946 | 88.3 | /mnt/stockage/packages/f16/compiz-fusion/po/fr.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 7878 | 8946 | 88.1 | /mnt/stockage/packages/f16/compiz-fusion/po/pl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 7711 | 8946 | 86.2 | /mnt/stockage/packages/f16/compiz-fusion/po/zh_CN.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 7339 | 8946 | 82.0 | /mnt/stockage/packages/f16/compiz-fusion/po/sv.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 7303 | 8946 | 81.6 | /mnt/stockage/packages/f16/compiz-fusion/po/es.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 7286 | 8946 | 81.4 | /mnt/stockage/packages/f16/compiz-fusion/po/en_GB.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 7029 | 8946 | 78.6 | /mnt/stockage/packages/f16/compiz-fusion/po/nb.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 7016 | 8946 | 78.4 | /mnt/stockage/packages/f16/compiz-fusion/po/fi.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 6624 | 8946 | 74.0 | /mnt/stockage/packages/f16/compiz-fusion/po/nl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f16/compiz-fusion/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f16/compiz-fusion/po/hi.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 6316 | 8946 | 70.6 | /mnt/stockage/packages/f16/compiz-fusion/po/pt_BR.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 4581 | 8946 | 51.2 | /mnt/stockage/packages/f16/compiz-fusion/po/eu.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 4485 | 8946 | 50.1 | /mnt/stockage/packages/f16/compiz-fusion/po/de.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 3640 | 8946 | 40.7 | /mnt/stockage/packages/f16/compiz-fusion/po/ca.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 2735 | 8946 | 30.6 | /mnt/stockage/packages/f16/compiz-fusion/po/ru.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 2462 | 8946 | 27.5 | /mnt/stockage/packages/f16/compiz-fusion/po/tr.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 1106 | 8946 | 12.4 | /mnt/stockage/packages/f16/compiz-fusion/po/ar.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 626 | 8946 | 7.0 | /mnt/stockage/packages/f16/compiz-fusion/po/cs.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 430 | 8946 | 4.8 | /mnt/stockage/packages/f16/compiz-fusion/po/bn.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 39 | 8946 | 0.4 | /mnt/stockage/packages/f16/compiz-fusion/po/fa.po | 
+ | [el](/f16/language/el) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/el.po | 
+ | [gl](/f16/language/gl) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/gl.po | 
+ | [hu](/f16/language/hu) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/hu.po | 
+ | [it](/f16/language/it) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/it.po | 
+ | [ja](/f16/language/ja) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/ja.po | 
+ | [ko](/f16/language/ko) | 8946 | 8946 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/ko.po | 
+ | [pt](/f16/language/pt) | 8406 | 8406 | 100.0 | /mnt/stockage/packages/f16/compiz-fusion/po/pt.po | 
+ | [he](/f16/language/he) | 8609 | 8946 | 96.2 | /mnt/stockage/packages/f16/compiz-fusion/po/he.po | 
+ | [fr](/f16/language/fr) | 7897 | 8946 | 88.3 | /mnt/stockage/packages/f16/compiz-fusion/po/fr.po | 
+ | [pl](/f16/language/pl) | 7878 | 8946 | 88.1 | /mnt/stockage/packages/f16/compiz-fusion/po/pl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 7711 | 8946 | 86.2 | /mnt/stockage/packages/f16/compiz-fusion/po/zh_CN.po | 
+ | [sv](/f16/language/sv) | 7339 | 8946 | 82.0 | /mnt/stockage/packages/f16/compiz-fusion/po/sv.po | 
+ | [es](/f16/language/es) | 7303 | 8946 | 81.6 | /mnt/stockage/packages/f16/compiz-fusion/po/es.po | 
+ | [en_GB](/f16/language/en_GB) | 7286 | 8946 | 81.4 | /mnt/stockage/packages/f16/compiz-fusion/po/en_GB.po | 
+ | [nb_NO](/f16/language/nb_NO) | 7029 | 8946 | 78.6 | /mnt/stockage/packages/f16/compiz-fusion/po/nb.po | 
+ | [fi](/f16/language/fi) | 7016 | 8946 | 78.4 | /mnt/stockage/packages/f16/compiz-fusion/po/fi.po | 
+ | [nl](/f16/language/nl) | 6624 | 8946 | 74.0 | /mnt/stockage/packages/f16/compiz-fusion/po/nl.po | 
+ | [gu](/f16/language/gu) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f16/compiz-fusion/po/gu.po | 
+ | [hi](/f16/language/hi) | 6332 | 8946 | 70.8 | /mnt/stockage/packages/f16/compiz-fusion/po/hi.po | 
+ | [pt_BR](/f16/language/pt_BR) | 6316 | 8946 | 70.6 | /mnt/stockage/packages/f16/compiz-fusion/po/pt_BR.po | 
+ | [eu](/f16/language/eu) | 4581 | 8946 | 51.2 | /mnt/stockage/packages/f16/compiz-fusion/po/eu.po | 
+ | [de](/f16/language/de) | 4485 | 8946 | 50.1 | /mnt/stockage/packages/f16/compiz-fusion/po/de.po | 
+ | [ca](/f16/language/ca) | 3640 | 8946 | 40.7 | /mnt/stockage/packages/f16/compiz-fusion/po/ca.po | 
+ | [ru](/f16/language/ru) | 2735 | 8946 | 30.6 | /mnt/stockage/packages/f16/compiz-fusion/po/ru.po | 
+ | [tr](/f16/language/tr) | 2462 | 8946 | 27.5 | /mnt/stockage/packages/f16/compiz-fusion/po/tr.po | 
+ | [ar](/f16/language/ar) | 1106 | 8946 | 12.4 | /mnt/stockage/packages/f16/compiz-fusion/po/ar.po | 
+ | [cs](/f16/language/cs) | 626 | 8946 | 7.0 | /mnt/stockage/packages/f16/compiz-fusion/po/cs.po | 
+ | [bn](/f16/language/bn) | 430 | 8946 | 4.8 | /mnt/stockage/packages/f16/compiz-fusion/po/bn.po | 
+ | [fa](/f16/language/fa) | 39 | 8946 | 0.4 | /mnt/stockage/packages/f16/compiz-fusion/po/fa.po | 
 {.sortable}
 
 

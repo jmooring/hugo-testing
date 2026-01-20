@@ -18,18 +18,18 @@ The package gnome-shell-extension-freon (version 43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_ES.po | 
- | [es_AR]({{< ref "/f33/language/es_AR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_AR.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/hu.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/it.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_TW.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 102 | 104 | 98.1 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ru.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 102 | 104 | 98.1 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/uk_UA.po | 
+ | [de](/f33/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/de.po | 
+ | [es](/f33/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_ES.po | 
+ | [es_AR](/f33/language/es_AR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/es_AR.po | 
+ | [fr](/f33/language/fr) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/fr.po | 
+ | [hu](/f33/language/hu) | 104 | 104 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/hu.po | 
+ | [it](/f33/language/it) | 104 | 104 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/it.po | 
+ | [pl](/f33/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/pt_BR.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 258 | 258 | 100.0 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/zh_TW.po | 
+ | [ru](/f33/language/ru) | 102 | 104 | 98.1 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/ru.po | 
+ | [uk](/f33/language/uk) | 102 | 104 | 98.1 | /mnt/stockage/packages/f33/gnome-shell-extension-freon/freon@UshakovVasilii_Github.yahoo.com/po/uk_UA.po | 
 {.sortable}
 
 

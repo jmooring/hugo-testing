@@ -18,10 +18,10 @@ The package codeblocks (version 17.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f28/codeblocks/src/sdk/wxpropgrid/locale/fi.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 598 | 598 | 100.0 | /mnt/stockage/packages/f28/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f28/codeblocks/src/sdk/wxpropgrid/locale/pl.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 581 | 683 | 85.1 | /mnt/stockage/packages/f28/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po/mnt/stockage/packages/f28/codeblocks/src/sdk/wxpropgrid/locale/it.po | 
+ | [fi](/f28/language/fi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f28/codeblocks/src/sdk/wxpropgrid/locale/fi.po | 
+ | [hu](/f28/language/hu) | 598 | 598 | 100.0 | /mnt/stockage/packages/f28/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
+ | [pl](/f28/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f28/codeblocks/src/sdk/wxpropgrid/locale/pl.po | 
+ | [it](/f28/language/it) | 581 | 683 | 85.1 | /mnt/stockage/packages/f28/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po/mnt/stockage/packages/f28/codeblocks/src/sdk/wxpropgrid/locale/it.po | 
 {.sortable}
 
 

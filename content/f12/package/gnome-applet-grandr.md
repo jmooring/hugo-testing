@@ -18,8 +18,8 @@ The package gnome-applet-grandr (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f12/language/en.md" >}}) | 4 | 18 | 22.2 | /mnt/stockage/packages/f12/gnome-applet-grandr/po/en.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 4 | 18 | 22.2 | /mnt/stockage/packages/f12/gnome-applet-grandr/po/sv.po | 
+ | [en](/f12/language/en) | 4 | 18 | 22.2 | /mnt/stockage/packages/f12/gnome-applet-grandr/po/en.po | 
+ | [sv](/f12/language/sv) | 4 | 18 | 22.2 | /mnt/stockage/packages/f12/gnome-applet-grandr/po/sv.po | 
 {.sortable}
 
 

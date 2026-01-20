@@ -18,12 +18,12 @@ The package PySolFC (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 9313 | 14541 | 64.0 | /mnt/stockage/packages/f43/PySolFC/po/de_pysol.po/mnt/stockage/packages/f43/PySolFC/po/de_games.po/mnt/stockage/packages/f43/PySolFC/po/de.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 9196 | 14541 | 63.2 | /mnt/stockage/packages/f43/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f43/PySolFC/po/ru_games.po/mnt/stockage/packages/f43/PySolFC/po/ru.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 7659 | 14542 | 52.7 | /mnt/stockage/packages/f43/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f43/PySolFC/po/pl_games.po/mnt/stockage/packages/f43/PySolFC/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 6692 | 14542 | 46.0 | /mnt/stockage/packages/f43/PySolFC/po/pt_BR_pysol.po/mnt/stockage/packages/f43/PySolFC/po/pt_BR_games.po/mnt/stockage/packages/f43/PySolFC/po/pt_BR.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 6080 | 14542 | 41.8 | /mnt/stockage/packages/f43/PySolFC/po/fr_pysol.po/mnt/stockage/packages/f43/PySolFC/po/fr_games.po/mnt/stockage/packages/f43/PySolFC/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 5504 | 14542 | 37.8 | /mnt/stockage/packages/f43/PySolFC/po/it_pysol.po/mnt/stockage/packages/f43/PySolFC/po/it_games.po/mnt/stockage/packages/f43/PySolFC/po/it.po | 
+ | [de](/f43/language/de) | 9313 | 14541 | 64.0 | /mnt/stockage/packages/f43/PySolFC/po/de_pysol.po/mnt/stockage/packages/f43/PySolFC/po/de_games.po/mnt/stockage/packages/f43/PySolFC/po/de.po | 
+ | [ru](/f43/language/ru) | 9196 | 14541 | 63.2 | /mnt/stockage/packages/f43/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f43/PySolFC/po/ru_games.po/mnt/stockage/packages/f43/PySolFC/po/ru.po | 
+ | [pl](/f43/language/pl) | 7659 | 14542 | 52.7 | /mnt/stockage/packages/f43/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f43/PySolFC/po/pl_games.po/mnt/stockage/packages/f43/PySolFC/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 6692 | 14542 | 46.0 | /mnt/stockage/packages/f43/PySolFC/po/pt_BR_pysol.po/mnt/stockage/packages/f43/PySolFC/po/pt_BR_games.po/mnt/stockage/packages/f43/PySolFC/po/pt_BR.po | 
+ | [fr](/f43/language/fr) | 6080 | 14542 | 41.8 | /mnt/stockage/packages/f43/PySolFC/po/fr_pysol.po/mnt/stockage/packages/f43/PySolFC/po/fr_games.po/mnt/stockage/packages/f43/PySolFC/po/fr.po | 
+ | [it](/f43/language/it) | 5504 | 14542 | 37.8 | /mnt/stockage/packages/f43/PySolFC/po/it_pysol.po/mnt/stockage/packages/f43/PySolFC/po/it_games.po/mnt/stockage/packages/f43/PySolFC/po/it.po | 
 {.sortable}
 
 

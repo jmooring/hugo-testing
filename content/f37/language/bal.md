@@ -41,16 +41,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f37/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [setuptool]({{< ref "/f37/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f37/package/chkconfig.md" >}}) | 387 | 593 | 65.3 | Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/> | 
- | [system-switch-mail]({{< ref "/f37/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
- | [policycoreutils]({{< ref "/f37/package/policycoreutils.md" >}}) | 15 | 9401 | 0.2 | Baluchi | 
- | [android-tools]({{< ref "/f37/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [initial-setup]({{< ref "/f37/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [libvirt-sandbox]({{< ref "/f37/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [python-fedora]({{< ref "/f37/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Baluchi | 
- | [python-meh]({{< ref "/f37/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
+ | [newt](/f37/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [setuptool](/f37/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f37/package/chkconfig) | 387 | 593 | 65.3 | Baluchi <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bal/> | 
+ | [system-switch-mail](/f37/package/system-switch-mail) | 9 | 101 | 8.9 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [policycoreutils](/f37/package/policycoreutils) | 15 | 9401 | 0.2 | Baluchi | 
+ | [android-tools](/f37/package/android-tools) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [initial-setup](/f37/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [libvirt-sandbox](/f37/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [python-fedora](/f37/package/python-fedora) | 0 | 214 | 0.0 | Baluchi | 
+ | [python-meh](/f37/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
 {.sortable}
 
 

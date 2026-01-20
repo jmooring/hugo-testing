@@ -18,9 +18,9 @@ The package python-xmlschema (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f38/language/en.md" >}}) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f38/python-xmlschema/xmlschema/locale/en/LC_MESSAGES/xmlschema.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f38/python-xmlschema/xmlschema/locale/ru/LC_MESSAGES/xmlschema.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2846 | 2877 | 98.9 | /mnt/stockage/packages/f38/python-xmlschema/xmlschema/locale/it/LC_MESSAGES/xmlschema.po | 
+ | [en](/f38/language/en) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f38/python-xmlschema/xmlschema/locale/en/LC_MESSAGES/xmlschema.po | 
+ | [ru](/f38/language/ru) | 2877 | 2877 | 100.0 | /mnt/stockage/packages/f38/python-xmlschema/xmlschema/locale/ru/LC_MESSAGES/xmlschema.po | 
+ | [it](/f38/language/it) | 2846 | 2877 | 98.9 | /mnt/stockage/packages/f38/python-xmlschema/xmlschema/locale/it/LC_MESSAGES/xmlschema.po | 
 {.sortable}
 
 

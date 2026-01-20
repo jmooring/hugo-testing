@@ -18,14 +18,14 @@ The package python-ytmusicapi (version 0.24.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/de/LC_MESSAGES/base.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/es/LC_MESSAGES/base.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/ja/LC_MESSAGES/base.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/ko/LC_MESSAGES/base.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/zh_TW/LC_MESSAGES/base.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 8 | 10 | 80.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/it/LC_MESSAGES/base.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 7 | 10 | 70.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/fr/LC_MESSAGES/base.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 1 | 10 | 10.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/en/LC_MESSAGES/base.po | 
+ | [de](/f37/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/de/LC_MESSAGES/base.po | 
+ | [es](/f37/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/es/LC_MESSAGES/base.po | 
+ | [ja](/f37/language/ja) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/ja/LC_MESSAGES/base.po | 
+ | [ko](/f37/language/ko) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/ko/LC_MESSAGES/base.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/zh_TW/LC_MESSAGES/base.po | 
+ | [it](/f37/language/it) | 8 | 10 | 80.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/it/LC_MESSAGES/base.po | 
+ | [fr](/f37/language/fr) | 7 | 10 | 70.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/fr/LC_MESSAGES/base.po | 
+ | [en](/f37/language/en) | 1 | 10 | 10.0 | /mnt/stockage/packages/f37/python-ytmusicapi/ytmusicapi/locales/en/LC_MESSAGES/base.po | 
 {.sortable}
 
 

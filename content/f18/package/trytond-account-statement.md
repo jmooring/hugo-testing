@@ -18,16 +18,16 @@ The package trytond-account-statement (version 2.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/fr_FR.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 154 | 169 | 91.1 | /mnt/stockage/packages/f18/trytond-account-statement/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 131 | 178 | 73.6 | /mnt/stockage/packages/f18/trytond-account-statement/locale/ca_ES.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 131 | 179 | 73.2 | /mnt/stockage/packages/f18/trytond-account-statement/locale/es_CO.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 121 | 169 | 71.6 | /mnt/stockage/packages/f18/trytond-account-statement/locale/nl_NL.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 167 | 0.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/cs_CZ.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 167 | 0.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/ru_RU.po | 
+ | [de](/f18/language/de) | 179 | 179 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/de_DE.po | 
+ | [es](/f18/language/es) | 179 | 179 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 179 | 179 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 231 | 231 | 100.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/fr_FR.po | 
+ | [bg](/f18/language/bg) | 154 | 169 | 91.1 | /mnt/stockage/packages/f18/trytond-account-statement/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 131 | 178 | 73.6 | /mnt/stockage/packages/f18/trytond-account-statement/locale/ca_ES.po | 
+ | [es_CO](/f18/language/es_CO) | 131 | 179 | 73.2 | /mnt/stockage/packages/f18/trytond-account-statement/locale/es_CO.po | 
+ | [nl](/f18/language/nl) | 121 | 169 | 71.6 | /mnt/stockage/packages/f18/trytond-account-statement/locale/nl_NL.po | 
+ | [cs](/f18/language/cs) | 0 | 167 | 0.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/cs_CZ.po | 
+ | [ru](/f18/language/ru) | 0 | 167 | 0.0 | /mnt/stockage/packages/f18/trytond-account-statement/locale/ru_RU.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package gpaste (version 2.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/es.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/pt_BR.po | 
+ | [es](/f17/language/es) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/es.po | 
+ | [fi](/f17/language/fi) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/fi.po | 
+ | [fr](/f17/language/fr) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/fr.po | 
+ | [pt_BR](/f17/language/pt_BR) | 604 | 604 | 100.0 | /mnt/stockage/packages/f17/gpaste/po/pt_BR.po | 
 {.sortable}
 
 

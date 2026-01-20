@@ -18,18 +18,18 @@ The package pgadmin4 (version 8.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 14836 | 14836 | 100.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/cs/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 14836 | 14836 | 100.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/it/LC_MESSAGES/messages.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 14730 | 14836 | 99.3 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/id/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 13672 | 14836 | 92.2 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/ja/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 13238 | 14836 | 89.2 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/zh/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 11574 | 14836 | 78.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/fr/LC_MESSAGES/messages.po | 
- | [br]({{< ref "/f40/language/br.md" >}}) | 6911 | 14836 | 46.6 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/pt_BR/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4893 | 14836 | 33.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/es/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 4513 | 14836 | 30.4 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/ru/LC_MESSAGES/messages.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 4511 | 14836 | 30.4 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/pl/LC_MESSAGES/messages.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 4418 | 14836 | 29.8 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/ko/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 3485 | 14836 | 23.5 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/de/LC_MESSAGES/messages.po | 
+ | [cs](/f40/language/cs) | 14836 | 14836 | 100.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/cs/LC_MESSAGES/messages.po | 
+ | [it](/f40/language/it) | 14836 | 14836 | 100.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/it/LC_MESSAGES/messages.po | 
+ | [id](/f40/language/id) | 14730 | 14836 | 99.3 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/id/LC_MESSAGES/messages.po | 
+ | [ja](/f40/language/ja) | 13672 | 14836 | 92.2 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/ja/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 13238 | 14836 | 89.2 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/zh/LC_MESSAGES/messages.po | 
+ | [fr](/f40/language/fr) | 11574 | 14836 | 78.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/fr/LC_MESSAGES/messages.po | 
+ | [br](/f40/language/br) | 6911 | 14836 | 46.6 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/pt_BR/LC_MESSAGES/messages.po | 
+ | [es](/f40/language/es) | 4893 | 14836 | 33.0 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/es/LC_MESSAGES/messages.po | 
+ | [ru](/f40/language/ru) | 4513 | 14836 | 30.4 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/ru/LC_MESSAGES/messages.po | 
+ | [pl](/f40/language/pl) | 4511 | 14836 | 30.4 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/pl/LC_MESSAGES/messages.po | 
+ | [ko](/f40/language/ko) | 4418 | 14836 | 29.8 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/ko/LC_MESSAGES/messages.po | 
+ | [de](/f40/language/de) | 3485 | 14836 | 23.5 | /mnt/stockage/packages/f40/pgadmin4/web/pgadmin/translations/de/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

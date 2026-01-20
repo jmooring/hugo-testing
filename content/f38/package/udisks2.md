@@ -18,76 +18,76 @@ The package udisks2 (version 2.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f38/language/id.md" >}}) | 2187 | 2187 | 100.0 | /mnt/stockage/packages/f38/udisks2/po/id.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2187 | 2187 | 100.0 | /mnt/stockage/packages/f38/udisks2/po/pl.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2187 | 2187 | 100.0 | /mnt/stockage/packages/f38/udisks2/po/uk.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/da.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/fur.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/hu.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/pt_BR.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/sk.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2149 | 2187 | 98.3 | /mnt/stockage/packages/f38/udisks2/po/tr.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2143 | 2187 | 98.0 | /mnt/stockage/packages/f38/udisks2/po/de.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 2143 | 2187 | 98.0 | /mnt/stockage/packages/f38/udisks2/po/lt.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2015 | 2187 | 92.1 | /mnt/stockage/packages/f38/udisks2/po/es.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 1994 | 2187 | 91.2 | /mnt/stockage/packages/f38/udisks2/po/ca.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1973 | 2187 | 90.2 | /mnt/stockage/packages/f38/udisks2/po/zh_CN.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 1905 | 2187 | 87.1 | /mnt/stockage/packages/f38/udisks2/po/kk.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 1679 | 2187 | 76.8 | /mnt/stockage/packages/f38/udisks2/po/af.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 1674 | 2187 | 76.5 | /mnt/stockage/packages/f38/udisks2/po/en_GB.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 1517 | 2187 | 69.4 | /mnt/stockage/packages/f38/udisks2/po/ko.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1512 | 2187 | 69.1 | /mnt/stockage/packages/f38/udisks2/po/ru.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 1506 | 2187 | 68.9 | /mnt/stockage/packages/f38/udisks2/po/el.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 1499 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/zh_TW.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 1498 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/gl.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 1498 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 1498 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/sr.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 1459 | 2187 | 66.7 | /mnt/stockage/packages/f38/udisks2/po/ja.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 1202 | 2187 | 55.0 | /mnt/stockage/packages/f38/udisks2/po/hr.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 1040 | 2187 | 47.6 | /mnt/stockage/packages/f38/udisks2/po/fi.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 847 | 2187 | 38.7 | /mnt/stockage/packages/f38/udisks2/po/lv.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 753 | 2187 | 34.4 | /mnt/stockage/packages/f38/udisks2/po/pt.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 482 | 2187 | 22.0 | /mnt/stockage/packages/f38/udisks2/po/ia.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 480 | 2187 | 21.9 | /mnt/stockage/packages/f38/udisks2/po/pa.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 439 | 2187 | 20.1 | /mnt/stockage/packages/f38/udisks2/po/eu.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ar.po | 
- | [as]({{< ref "/f38/language/as.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/as.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/az.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/bg.po | 
- | [bn_IN]({{< ref "/f38/language/bn_IN.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ca@valencia.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/cy.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/eo.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/et.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/fa.po | 
- | [fo]({{< ref "/f38/language/fo.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/fo.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ga.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/gu.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/he.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/hi.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ka.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/kn.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ml.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/mr.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ms.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/nb.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/nn.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/oc.po | 
- | [or]({{< ref "/f38/language/or.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/or.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ro.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/sq.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/sr@latin.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ta.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/te.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/th.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/vi.po | 
- | [wa]({{< ref "/f38/language/wa.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/zh_HK.po | 
+ | [id](/f38/language/id) | 2187 | 2187 | 100.0 | /mnt/stockage/packages/f38/udisks2/po/id.po | 
+ | [pl](/f38/language/pl) | 2187 | 2187 | 100.0 | /mnt/stockage/packages/f38/udisks2/po/pl.po | 
+ | [uk](/f38/language/uk) | 2187 | 2187 | 100.0 | /mnt/stockage/packages/f38/udisks2/po/uk.po | 
+ | [cs](/f38/language/cs) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/cs.po | 
+ | [da](/f38/language/da) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/da.po | 
+ | [fr](/f38/language/fr) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/fr.po | 
+ | [fur](/f38/language/fur) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/fur.po | 
+ | [hu](/f38/language/hu) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/hu.po | 
+ | [it](/f38/language/it) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/it.po | 
+ | [nl](/f38/language/nl) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/pt_BR.po | 
+ | [sk](/f38/language/sk) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/sk.po | 
+ | [sv](/f38/language/sv) | 2158 | 2187 | 98.7 | /mnt/stockage/packages/f38/udisks2/po/sv.po | 
+ | [tr](/f38/language/tr) | 2149 | 2187 | 98.3 | /mnt/stockage/packages/f38/udisks2/po/tr.po | 
+ | [de](/f38/language/de) | 2143 | 2187 | 98.0 | /mnt/stockage/packages/f38/udisks2/po/de.po | 
+ | [lt](/f38/language/lt) | 2143 | 2187 | 98.0 | /mnt/stockage/packages/f38/udisks2/po/lt.po | 
+ | [es](/f38/language/es) | 2015 | 2187 | 92.1 | /mnt/stockage/packages/f38/udisks2/po/es.po | 
+ | [ca](/f38/language/ca) | 1994 | 2187 | 91.2 | /mnt/stockage/packages/f38/udisks2/po/ca.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1973 | 2187 | 90.2 | /mnt/stockage/packages/f38/udisks2/po/zh_CN.po | 
+ | [kk](/f38/language/kk) | 1905 | 2187 | 87.1 | /mnt/stockage/packages/f38/udisks2/po/kk.po | 
+ | [af](/f38/language/af) | 1679 | 2187 | 76.8 | /mnt/stockage/packages/f38/udisks2/po/af.po | 
+ | [en_GB](/f38/language/en_GB) | 1674 | 2187 | 76.5 | /mnt/stockage/packages/f38/udisks2/po/en_GB.po | 
+ | [ko](/f38/language/ko) | 1517 | 2187 | 69.4 | /mnt/stockage/packages/f38/udisks2/po/ko.po | 
+ | [ru](/f38/language/ru) | 1512 | 2187 | 69.1 | /mnt/stockage/packages/f38/udisks2/po/ru.po | 
+ | [el](/f38/language/el) | 1506 | 2187 | 68.9 | /mnt/stockage/packages/f38/udisks2/po/el.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 1499 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/zh_TW.po | 
+ | [gl](/f38/language/gl) | 1498 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/gl.po | 
+ | [sl](/f38/language/sl) | 1498 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/sl.po | 
+ | [sr](/f38/language/sr) | 1498 | 2187 | 68.5 | /mnt/stockage/packages/f38/udisks2/po/sr.po | 
+ | [ja](/f38/language/ja) | 1459 | 2187 | 66.7 | /mnt/stockage/packages/f38/udisks2/po/ja.po | 
+ | [hr](/f38/language/hr) | 1202 | 2187 | 55.0 | /mnt/stockage/packages/f38/udisks2/po/hr.po | 
+ | [fi](/f38/language/fi) | 1040 | 2187 | 47.6 | /mnt/stockage/packages/f38/udisks2/po/fi.po | 
+ | [lv](/f38/language/lv) | 847 | 2187 | 38.7 | /mnt/stockage/packages/f38/udisks2/po/lv.po | 
+ | [pt](/f38/language/pt) | 753 | 2187 | 34.4 | /mnt/stockage/packages/f38/udisks2/po/pt.po | 
+ | [ia](/f38/language/ia) | 482 | 2187 | 22.0 | /mnt/stockage/packages/f38/udisks2/po/ia.po | 
+ | [pa](/f38/language/pa) | 480 | 2187 | 21.9 | /mnt/stockage/packages/f38/udisks2/po/pa.po | 
+ | [eu](/f38/language/eu) | 439 | 2187 | 20.1 | /mnt/stockage/packages/f38/udisks2/po/eu.po | 
+ | [ar](/f38/language/ar) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ar.po | 
+ | [as](/f38/language/as) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/as.po | 
+ | [az](/f38/language/az) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/az.po | 
+ | [bg](/f38/language/bg) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/bg.po | 
+ | [bn_IN](/f38/language/bn_IN) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/bn_IN.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ca@valencia.po | 
+ | [cy](/f38/language/cy) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/cy.po | 
+ | [eo](/f38/language/eo) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/eo.po | 
+ | [et](/f38/language/et) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/et.po | 
+ | [fa](/f38/language/fa) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/fa.po | 
+ | [fo](/f38/language/fo) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/fo.po | 
+ | [ga](/f38/language/ga) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ga.po | 
+ | [gu](/f38/language/gu) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/gu.po | 
+ | [he](/f38/language/he) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/he.po | 
+ | [hi](/f38/language/hi) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/hi.po | 
+ | [ka](/f38/language/ka) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ka.po | 
+ | [kn](/f38/language/kn) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/kn.po | 
+ | [ml](/f38/language/ml) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ml.po | 
+ | [mr](/f38/language/mr) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/mr.po | 
+ | [ms](/f38/language/ms) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ms.po | 
+ | [nb_NO](/f38/language/nb_NO) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/nb.po | 
+ | [nn](/f38/language/nn) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/nn.po | 
+ | [oc](/f38/language/oc) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/oc.po | 
+ | [or](/f38/language/or) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/or.po | 
+ | [ro](/f38/language/ro) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ro.po | 
+ | [sq](/f38/language/sq) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/sq.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/sr@latin.po | 
+ | [ta](/f38/language/ta) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/ta.po | 
+ | [te](/f38/language/te) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/te.po | 
+ | [th](/f38/language/th) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/th.po | 
+ | [vi](/f38/language/vi) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/vi.po | 
+ | [wa](/f38/language/wa) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/wa.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 0 | 1929 | 0.0 | /mnt/stockage/packages/f38/udisks2/po/zh_HK.po | 
 {.sortable}
 
 

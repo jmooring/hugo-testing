@@ -18,8 +18,8 @@ The package python-sphinxcontrib-httpdomain (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f43/language/es.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f43/python-sphinxcontrib-httpdomain/sphinxcontrib/locale/es_ES/LC_MESSAGES/httpdomain.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/python-sphinxcontrib-httpdomain/sphinxcontrib/locale/fr_FR/LC_MESSAGES/httpdomain.po | 
+ | [es](/f43/language/es) | 32 | 32 | 100.0 | /mnt/stockage/packages/f43/python-sphinxcontrib-httpdomain/sphinxcontrib/locale/es_ES/LC_MESSAGES/httpdomain.po | 
+ | [fr](/f43/language/fr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f43/python-sphinxcontrib-httpdomain/sphinxcontrib/locale/fr_FR/LC_MESSAGES/httpdomain.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package kernel (version 6.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/ka.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/fr.po | 
+ | [ka](/f37/language/ka) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/ka.po | 
+ | [de](/f37/language/de) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f37/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f37/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f37/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f37/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f37/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

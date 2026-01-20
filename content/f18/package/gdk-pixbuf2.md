@@ -18,106 +18,106 @@ The package gdk-pixbuf2 (version 2.26.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f18/language/as.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/as.po | 
- | [be]({{< ref "/f18/language/be.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/be.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bg.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ca@valencia.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/et.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/he.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hi.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/lt.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/lv.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ml.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nb.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ru.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 2708 | 2708 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sr@latin.po/mnt/stockage/packages/f18/gdk-pixbuf2/po/sr.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/te.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/th.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 2708 | 2708 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/zh_HK.po/mnt/stockage/packages/f18/gdk-pixbuf2/po/zh_TW.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 1331 | 1354 | 98.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/tr.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 1331 | 1354 | 98.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/vi.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/eu.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/or.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sv.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/uk.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 1288 | 1354 | 95.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/km.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ast.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bn_IN.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/eo.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/fi.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mr.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nl.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ro.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ta.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ug.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 1243 | 1354 | 91.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ar.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 1243 | 1354 | 91.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bn.po | 
- | [hy]({{< ref "/f18/language/hy.md" >}}) | 1227 | 1354 | 90.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hy.po | 
- | [crh]({{< ref "/f18/language/crh.md" >}}) | 1199 | 1354 | 88.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/crh.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 1190 | 1354 | 87.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/kn.po | 
- | [be_Latn]({{< ref "/f18/language/be_Latn.md" >}}) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/be@latin.po | 
- | [ka]({{< ref "/f18/language/ka.md" >}}) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ka.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nn.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sq.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/gu.po | 
- | [mai]({{< ref "/f18/language/mai.md" >}}) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mai.po | 
- | [my]({{< ref "/f18/language/my.md" >}}) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/my.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sk.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 1157 | 1354 | 85.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/af.po | 
- | [ku]({{< ref "/f18/language/ku.md" >}}) | 1148 | 1354 | 84.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ku.po | 
- | [en_CA]({{< ref "/f18/language/en_CA.md" >}}) | 1143 | 1354 | 84.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/en_CA.po | 
- | [cy]({{< ref "/f18/language/cy.md" >}}) | 1139 | 1354 | 84.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/cy.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 1135 | 1354 | 83.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/en@shaw.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 1079 | 1354 | 79.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mk.po | 
- | [dz]({{< ref "/f18/language/dz.md" >}}) | 1072 | 1354 | 79.2 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/dz.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 1038 | 1354 | 76.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hr.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 1038 | 1354 | 76.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ne.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 1037 | 1354 | 76.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ga.po | 
- | [si]({{< ref "/f18/language/si.md" >}}) | 989 | 1354 | 73.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/si.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 968 | 1354 | 71.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/fa.po | 
- | [xh]({{< ref "/f18/language/xh.md" >}}) | 964 | 1354 | 71.2 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/xh.po | 
- | [az]({{< ref "/f18/language/az.md" >}}) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/az.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bs.po | 
- | [mn]({{< ref "/f18/language/mn.md" >}}) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mn.po | 
- | [nso]({{< ref "/f18/language/nso.md" >}}) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nso.po | 
- | [sr@ijekavian]({{< ref "/f18/language/sr@ijekavian.md" >}}) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sr@ije.po | 
- | [wa]({{< ref "/f18/language/wa.md" >}}) | 890 | 1354 | 65.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/wa.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 847 | 1354 | 62.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ms.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 819 | 1354 | 60.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/is.po | 
- | [li]({{< ref "/f18/language/li.md" >}}) | 769 | 1354 | 56.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/li.po | 
- | [yi]({{< ref "/f18/language/yi.md" >}}) | 769 | 1354 | 56.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/yi.po | 
- | [mi]({{< ref "/f18/language/mi.md" >}}) | 718 | 1354 | 53.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mi.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 597 | 1354 | 44.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/oc.po | 
- | [csb]({{< ref "/f18/language/csb.md" >}}) | 481 | 1354 | 35.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/csb.po | 
- | [tt]({{< ref "/f18/language/tt.md" >}}) | 388 | 1354 | 28.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/tt.po | 
- | [io]({{< ref "/f18/language/io.md" >}}) | 296 | 1354 | 21.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/io.po | 
- | [br]({{< ref "/f18/language/br.md" >}}) | 258 | 1354 | 19.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/br.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 254 | 1354 | 18.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nds.po | 
- | [ang]({{< ref "/f18/language/ang.md" >}}) | 223 | 1354 | 16.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ang.po | 
- | [uz]({{< ref "/f18/language/uz.md" >}}) | 310 | 2708 | 11.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/uz@cyrillic.po/mnt/stockage/packages/f18/gdk-pixbuf2/po/uz.po | 
- | [ps]({{< ref "/f18/language/ps.md" >}}) | 117 | 1354 | 8.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ps.po | 
- | [tk]({{< ref "/f18/language/tk.md" >}}) | 92 | 1354 | 6.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/tk.po | 
- | [ia]({{< ref "/f18/language/ia.md" >}}) | 49 | 1354 | 3.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ia.po | 
+ | [as](/f18/language/as) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/as.po | 
+ | [be](/f18/language/be) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/be.po | 
+ | [bg](/f18/language/bg) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bg.po | 
+ | [ca](/f18/language/ca) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ca@valencia.po | 
+ | [cs](/f18/language/cs) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/cs.po | 
+ | [da](/f18/language/da) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/da.po | 
+ | [de](/f18/language/de) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/de.po | 
+ | [el](/f18/language/el) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/en_GB.po | 
+ | [es](/f18/language/es) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/es.po | 
+ | [et](/f18/language/et) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/et.po | 
+ | [fr](/f18/language/fr) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/fr.po | 
+ | [gl](/f18/language/gl) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/gl.po | 
+ | [he](/f18/language/he) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/he.po | 
+ | [hi](/f18/language/hi) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hi.po | 
+ | [hu](/f18/language/hu) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hu.po | 
+ | [id](/f18/language/id) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/id.po | 
+ | [it](/f18/language/it) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/it.po | 
+ | [ja](/f18/language/ja) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ja.po | 
+ | [ko](/f18/language/ko) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ko.po | 
+ | [lt](/f18/language/lt) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/lt.po | 
+ | [lv](/f18/language/lv) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/lv.po | 
+ | [ml](/f18/language/ml) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ml.po | 
+ | [nb_NO](/f18/language/nb_NO) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nb.po | 
+ | [pa](/f18/language/pa) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pa.po | 
+ | [pl](/f18/language/pl) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pl.po | 
+ | [pt](/f18/language/pt) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ru.po | 
+ | [sl](/f18/language/sl) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sl.po | 
+ | [sr](/f18/language/sr) | 2708 | 2708 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sr@latin.po/mnt/stockage/packages/f18/gdk-pixbuf2/po/sr.po | 
+ | [te](/f18/language/te) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/te.po | 
+ | [th](/f18/language/th) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/th.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 1354 | 1354 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 2708 | 2708 | 100.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/zh_HK.po/mnt/stockage/packages/f18/gdk-pixbuf2/po/zh_TW.po | 
+ | [tr](/f18/language/tr) | 1331 | 1354 | 98.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/tr.po | 
+ | [vi](/f18/language/vi) | 1331 | 1354 | 98.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/vi.po | 
+ | [eu](/f18/language/eu) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/eu.po | 
+ | [or](/f18/language/or) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/or.po | 
+ | [sv](/f18/language/sv) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sv.po | 
+ | [uk](/f18/language/uk) | 1325 | 1354 | 97.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/uk.po | 
+ | [km](/f18/language/km) | 1288 | 1354 | 95.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/km.po | 
+ | [ast](/f18/language/ast) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ast.po | 
+ | [bn_IN](/f18/language/bn_IN) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bn_IN.po | 
+ | [eo](/f18/language/eo) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/eo.po | 
+ | [fi](/f18/language/fi) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/fi.po | 
+ | [mr](/f18/language/mr) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mr.po | 
+ | [nl](/f18/language/nl) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nl.po | 
+ | [ro](/f18/language/ro) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ro.po | 
+ | [ta](/f18/language/ta) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ta.po | 
+ | [ug](/f18/language/ug) | 1265 | 1354 | 93.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ug.po | 
+ | [ar](/f18/language/ar) | 1243 | 1354 | 91.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ar.po | 
+ | [bn](/f18/language/bn) | 1243 | 1354 | 91.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bn.po | 
+ | [hy](/f18/language/hy) | 1227 | 1354 | 90.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hy.po | 
+ | [crh](/f18/language/crh) | 1199 | 1354 | 88.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/crh.po | 
+ | [kn](/f18/language/kn) | 1190 | 1354 | 87.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/kn.po | 
+ | [be_Latn](/f18/language/be_Latn) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/be@latin.po | 
+ | [ka](/f18/language/ka) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ka.po | 
+ | [nn](/f18/language/nn) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nn.po | 
+ | [sq](/f18/language/sq) | 1185 | 1354 | 87.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sq.po | 
+ | [gu](/f18/language/gu) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/gu.po | 
+ | [mai](/f18/language/mai) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mai.po | 
+ | [my](/f18/language/my) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/my.po | 
+ | [sk](/f18/language/sk) | 1169 | 1354 | 86.3 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sk.po | 
+ | [af](/f18/language/af) | 1157 | 1354 | 85.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/af.po | 
+ | [ku](/f18/language/ku) | 1148 | 1354 | 84.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ku.po | 
+ | [en_CA](/f18/language/en_CA) | 1143 | 1354 | 84.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/en_CA.po | 
+ | [cy](/f18/language/cy) | 1139 | 1354 | 84.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/cy.po | 
+ | [error](/f18/language/error) | 1135 | 1354 | 83.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/en@shaw.po | 
+ | [mk](/f18/language/mk) | 1079 | 1354 | 79.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mk.po | 
+ | [dz](/f18/language/dz) | 1072 | 1354 | 79.2 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/dz.po | 
+ | [hr](/f18/language/hr) | 1038 | 1354 | 76.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/hr.po | 
+ | [ne](/f18/language/ne) | 1038 | 1354 | 76.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ne.po | 
+ | [ga](/f18/language/ga) | 1037 | 1354 | 76.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ga.po | 
+ | [si](/f18/language/si) | 989 | 1354 | 73.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/si.po | 
+ | [fa](/f18/language/fa) | 968 | 1354 | 71.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/fa.po | 
+ | [xh](/f18/language/xh) | 964 | 1354 | 71.2 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/xh.po | 
+ | [az](/f18/language/az) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/az.po | 
+ | [bs](/f18/language/bs) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/bs.po | 
+ | [mn](/f18/language/mn) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mn.po | 
+ | [nso](/f18/language/nso) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nso.po | 
+ | [sr@ijekavian](/f18/language/sr@ijekavian) | 892 | 1354 | 65.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/sr@ije.po | 
+ | [wa](/f18/language/wa) | 890 | 1354 | 65.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/wa.po | 
+ | [ms](/f18/language/ms) | 847 | 1354 | 62.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ms.po | 
+ | [is](/f18/language/is) | 819 | 1354 | 60.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/is.po | 
+ | [li](/f18/language/li) | 769 | 1354 | 56.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/li.po | 
+ | [yi](/f18/language/yi) | 769 | 1354 | 56.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/yi.po | 
+ | [mi](/f18/language/mi) | 718 | 1354 | 53.0 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/mi.po | 
+ | [oc](/f18/language/oc) | 597 | 1354 | 44.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/oc.po | 
+ | [csb](/f18/language/csb) | 481 | 1354 | 35.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/csb.po | 
+ | [tt](/f18/language/tt) | 388 | 1354 | 28.7 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/tt.po | 
+ | [io](/f18/language/io) | 296 | 1354 | 21.9 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/io.po | 
+ | [br](/f18/language/br) | 258 | 1354 | 19.1 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/br.po | 
+ | [nds](/f18/language/nds) | 254 | 1354 | 18.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/nds.po | 
+ | [ang](/f18/language/ang) | 223 | 1354 | 16.5 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ang.po | 
+ | [uz](/f18/language/uz) | 310 | 2708 | 11.4 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/uz@cyrillic.po/mnt/stockage/packages/f18/gdk-pixbuf2/po/uz.po | 
+ | [ps](/f18/language/ps) | 117 | 1354 | 8.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ps.po | 
+ | [tk](/f18/language/tk) | 92 | 1354 | 6.8 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/tk.po | 
+ | [ia](/f18/language/ia) | 49 | 1354 | 3.6 | /mnt/stockage/packages/f18/gdk-pixbuf2/po/ia.po | 
 {.sortable}
 
 

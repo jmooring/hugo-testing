@@ -18,9 +18,9 @@ The package d-feet (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f19/d-feet/po/cs.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f19/d-feet/po/es.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f19/d-feet/po/sl.po | 
+ | [cs](/f19/language/cs) | 86 | 86 | 100.0 | /mnt/stockage/packages/f19/d-feet/po/cs.po | 
+ | [es](/f19/language/es) | 86 | 86 | 100.0 | /mnt/stockage/packages/f19/d-feet/po/es.po | 
+ | [sl](/f19/language/sl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f19/d-feet/po/sl.po | 
 {.sortable}
 
 

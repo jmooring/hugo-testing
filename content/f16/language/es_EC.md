@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 29791 | 55189 | 54.0 | Spanish (Ecuador) <es_EC@li.org> | 
- | [openerp-client]({{< ref "/f16/package/openerp-client.md" >}}) | 2354 | 7729 | 30.5 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [gnome-applets](/f16/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f16/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f16/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f16/package/openerp) | 29791 | 55189 | 54.0 | Spanish (Ecuador) <es_EC@li.org> | 
+ | [openerp-client](/f16/package/openerp-client) | 2354 | 7729 | 30.5 | Spanish (Ecuador) <es_EC@li.org> | 
 {.sortable}
 
 

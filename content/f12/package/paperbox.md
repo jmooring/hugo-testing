@@ -18,34 +18,34 @@ The package paperbox (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/ar.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/el.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/fi.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/gl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/hu.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/lt.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/mk.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pt_BR.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/zh_CN.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 77 | 78 | 98.7 | /mnt/stockage/packages/f12/paperbox/po/fr.po | 
- | [ps]({{< ref "/f12/language/ps.md" >}}) | 36 | 40 | 90.0 | /mnt/stockage/packages/f12/paperbox/po/ps.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 23 | 40 | 57.5 | /mnt/stockage/packages/f12/paperbox/po/nb.po | 
+ | [ar](/f12/language/ar) | 21 | 21 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/ar.po | 
+ | [ca](/f12/language/ca) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/ca.po | 
+ | [cs](/f12/language/cs) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/cs.po | 
+ | [da](/f12/language/da) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/da.po | 
+ | [de](/f12/language/de) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/de.po | 
+ | [el](/f12/language/el) | 26 | 26 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/el.po | 
+ | [en_GB](/f12/language/en_GB) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/en_GB.po | 
+ | [es](/f12/language/es) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/es.po | 
+ | [et](/f12/language/et) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/et.po | 
+ | [eu](/f12/language/eu) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/eu.po | 
+ | [fi](/f12/language/fi) | 49 | 49 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/fi.po | 
+ | [gl](/f12/language/gl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/gl.po | 
+ | [hu](/f12/language/hu) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/hu.po | 
+ | [lt](/f12/language/lt) | 49 | 49 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/lt.po | 
+ | [mk](/f12/language/mk) | 21 | 21 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/mk.po | 
+ | [nl](/f12/language/nl) | 40 | 40 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/nl.po | 
+ | [pa](/f12/language/pa) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pa.po | 
+ | [pl](/f12/language/pl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pl.po | 
+ | [pt](/f12/language/pt) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/pt_BR.po | 
+ | [sl](/f12/language/sl) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sl.po | 
+ | [sq](/f12/language/sq) | 21 | 21 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sq.po | 
+ | [sr](/f12/language/sr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sr.po | 
+ | [sv](/f12/language/sv) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 78 | 78 | 100.0 | /mnt/stockage/packages/f12/paperbox/po/zh_CN.po | 
+ | [fr](/f12/language/fr) | 77 | 78 | 98.7 | /mnt/stockage/packages/f12/paperbox/po/fr.po | 
+ | [ps](/f12/language/ps) | 36 | 40 | 90.0 | /mnt/stockage/packages/f12/paperbox/po/ps.po | 
+ | [nb_NO](/f12/language/nb_NO) | 23 | 40 | 57.5 | /mnt/stockage/packages/f12/paperbox/po/nb.po | 
 {.sortable}
 
 

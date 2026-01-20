@@ -18,11 +18,11 @@ The package crosswords (version 0.3.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f41/language/es.md" >}}) | 1416 | 1519 | 93.2 | /mnt/stockage/packages/f41/crosswords/po/es.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1296 | 1519 | 85.3 | /mnt/stockage/packages/f41/crosswords/po/it.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1063 | 1519 | 70.0 | /mnt/stockage/packages/f41/crosswords/po/nl.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1047 | 1519 | 68.9 | /mnt/stockage/packages/f41/crosswords/po/fr.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 986 | 1519 | 64.9 | /mnt/stockage/packages/f41/crosswords/po/de_DE.po | 
+ | [es](/f41/language/es) | 1416 | 1519 | 93.2 | /mnt/stockage/packages/f41/crosswords/po/es.po | 
+ | [it](/f41/language/it) | 1296 | 1519 | 85.3 | /mnt/stockage/packages/f41/crosswords/po/it.po | 
+ | [nl](/f41/language/nl) | 1063 | 1519 | 70.0 | /mnt/stockage/packages/f41/crosswords/po/nl.po | 
+ | [fr](/f41/language/fr) | 1047 | 1519 | 68.9 | /mnt/stockage/packages/f41/crosswords/po/fr.po | 
+ | [de](/f41/language/de) | 986 | 1519 | 64.9 | /mnt/stockage/packages/f41/crosswords/po/de_DE.po | 
 {.sortable}
 
 

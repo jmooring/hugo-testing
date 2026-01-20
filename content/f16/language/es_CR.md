@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [entertrack]({{< ref "/f16/package/entertrack.md" >}}) | 2847 | 2847 | 100.0 |  | 
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [openerp-client]({{< ref "/f16/package/openerp-client.md" >}}) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 57535 | 57538 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f16/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/) | 
+ | [entertrack](/f16/package/entertrack) | 2847 | 2847 | 100.0 |  | 
+ | [gnome-applets](/f16/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [openerp-client](/f16/package/openerp-client) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openerp](/f16/package/openerp) | 57535 | 57538 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [libgweather](/f16/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f16/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f16/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openconnect](/f16/package/openconnect) | 0 | 2573 | 0.0 | Spanish (Costa Rica) (http://www.transifex.net/projects/p/meego/team/es_CR/) | 
 {.sortable}
 
 
@@ -57,7 +57,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [entertrack]({{< ref "/f16/package/entertrack.md" >}}) | /mnt/stockage/packages/f16/entertrack/locale/es_CR/LC_MESSAGES/messages.po | error-os |  | 
+ | [entertrack](/f16/package/entertrack) | /mnt/stockage/packages/f16/entertrack/locale/es_CR/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

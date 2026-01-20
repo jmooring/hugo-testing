@@ -18,18 +18,18 @@ The package serpentine (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 644 | 644 | 100.0 | /mnt/stockage/packages/f9/serpentine/po/pt.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 633 | 644 | 98.3 | /mnt/stockage/packages/f9/serpentine/po/fi.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 615 | 644 | 95.5 | /mnt/stockage/packages/f9/serpentine/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 533 | 644 | 82.8 | /mnt/stockage/packages/f9/serpentine/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/sk.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 462 | 644 | 71.7 | /mnt/stockage/packages/f9/serpentine/po/hu.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 462 | 644 | 71.7 | /mnt/stockage/packages/f9/serpentine/po/nl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 460 | 644 | 71.4 | /mnt/stockage/packages/f9/serpentine/po/sv.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 367 | 644 | 57.0 | /mnt/stockage/packages/f9/serpentine/po/ko.po | 
+ | [pt](/f9/language/pt) | 644 | 644 | 100.0 | /mnt/stockage/packages/f9/serpentine/po/pt.po | 
+ | [fi](/f9/language/fi) | 633 | 644 | 98.3 | /mnt/stockage/packages/f9/serpentine/po/fi.po | 
+ | [es](/f9/language/es) | 615 | 644 | 95.5 | /mnt/stockage/packages/f9/serpentine/po/es.po | 
+ | [fr](/f9/language/fr) | 533 | 644 | 82.8 | /mnt/stockage/packages/f9/serpentine/po/fr.po | 
+ | [it](/f9/language/it) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/ru.po | 
+ | [sk](/f9/language/sk) | 465 | 644 | 72.2 | /mnt/stockage/packages/f9/serpentine/po/sk.po | 
+ | [hu](/f9/language/hu) | 462 | 644 | 71.7 | /mnt/stockage/packages/f9/serpentine/po/hu.po | 
+ | [nl](/f9/language/nl) | 462 | 644 | 71.7 | /mnt/stockage/packages/f9/serpentine/po/nl.po | 
+ | [sv](/f9/language/sv) | 460 | 644 | 71.4 | /mnt/stockage/packages/f9/serpentine/po/sv.po | 
+ | [ko](/f9/language/ko) | 367 | 644 | 57.0 | /mnt/stockage/packages/f9/serpentine/po/ko.po | 
 {.sortable}
 
 

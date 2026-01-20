@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gxmessage]({{< ref "/f11/package/gxmessage.md" >}}) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
- | [php-laconica]({{< ref "/f11/package/php-laconica.md" >}}) | 54 | 1692 | 3.2 |  | 
- | [avahi]({{< ref "/f11/package/avahi.md" >}}) | 2 | 826 | 0.2 |  | 
+ | [gxmessage](/f11/package/gxmessage) | 12 | 245 | 4.9 | LANGUAGE <LL@li.org> | 
+ | [php-laconica](/f11/package/php-laconica) | 54 | 1692 | 3.2 |  | 
+ | [avahi](/f11/package/avahi) | 2 | 826 | 0.2 |  | 
 {.sortable}
 
 

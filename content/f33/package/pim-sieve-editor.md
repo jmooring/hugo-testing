@@ -18,41 +18,41 @@ The package pim-sieve-editor (version 20.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ca/sieveeditor.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ca@valencia/sieveeditor.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/da/sieveeditor.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/de/sieveeditor.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/en_GB/sieveeditor.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/es/sieveeditor.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/et/sieveeditor.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/fi/sieveeditor.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/fr/sieveeditor.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/it/sieveeditor.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ko/sieveeditor.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/nl/sieveeditor.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/pt/sieveeditor.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/pt_BR/sieveeditor.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ru/sieveeditor.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sv/sieveeditor.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/uk/sieveeditor.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 438 | 441 | 99.3 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sl/sieveeditor.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 429 | 441 | 97.3 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ia/sieveeditor.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 420 | 441 | 95.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/zh_CN/sieveeditor.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/gl/sieveeditor.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/pl/sieveeditor.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sk/sieveeditor.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/zh_TW/sieveeditor.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 402 | 441 | 91.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ar/sieveeditor.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 402 | 441 | 91.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sr/sieveeditor.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 402 | 441 | 91.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/tr/sieveeditor.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 370 | 441 | 83.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/cs/sieveeditor.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 253 | 441 | 57.4 | /mnt/stockage/packages/f33/pim-sieve-editor/po/nb/sieveeditor.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 132 | 441 | 29.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/hu/sieveeditor.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 132 | 441 | 29.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/nds/sieveeditor.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 79 | 441 | 17.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ro/sieveeditor.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 59 | 441 | 13.4 | /mnt/stockage/packages/f33/pim-sieve-editor/po/bs/sieveeditor.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 441 | 0.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ja/sieveeditor.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 441 | 0.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/lt/sieveeditor.po | 
+ | [ca](/f33/language/ca) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ca/sieveeditor.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ca@valencia/sieveeditor.po | 
+ | [da](/f33/language/da) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/da/sieveeditor.po | 
+ | [de](/f33/language/de) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/de/sieveeditor.po | 
+ | [en_GB](/f33/language/en_GB) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/en_GB/sieveeditor.po | 
+ | [es](/f33/language/es) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/es/sieveeditor.po | 
+ | [et](/f33/language/et) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/et/sieveeditor.po | 
+ | [fi](/f33/language/fi) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/fi/sieveeditor.po | 
+ | [fr](/f33/language/fr) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/fr/sieveeditor.po | 
+ | [it](/f33/language/it) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/it/sieveeditor.po | 
+ | [ko](/f33/language/ko) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ko/sieveeditor.po | 
+ | [nl](/f33/language/nl) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/nl/sieveeditor.po | 
+ | [pt](/f33/language/pt) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/pt/sieveeditor.po | 
+ | [pt_BR](/f33/language/pt_BR) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/pt_BR/sieveeditor.po | 
+ | [ru](/f33/language/ru) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ru/sieveeditor.po | 
+ | [sv](/f33/language/sv) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sv/sieveeditor.po | 
+ | [uk](/f33/language/uk) | 441 | 441 | 100.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/uk/sieveeditor.po | 
+ | [sl](/f33/language/sl) | 438 | 441 | 99.3 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sl/sieveeditor.po | 
+ | [ia](/f33/language/ia) | 429 | 441 | 97.3 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ia/sieveeditor.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 420 | 441 | 95.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/zh_CN/sieveeditor.po | 
+ | [gl](/f33/language/gl) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/gl/sieveeditor.po | 
+ | [pl](/f33/language/pl) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/pl/sieveeditor.po | 
+ | [sk](/f33/language/sk) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sk/sieveeditor.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 419 | 441 | 95.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/zh_TW/sieveeditor.po | 
+ | [ar](/f33/language/ar) | 402 | 441 | 91.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ar/sieveeditor.po | 
+ | [sr](/f33/language/sr) | 402 | 441 | 91.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/sr/sieveeditor.po | 
+ | [tr](/f33/language/tr) | 402 | 441 | 91.2 | /mnt/stockage/packages/f33/pim-sieve-editor/po/tr/sieveeditor.po | 
+ | [cs](/f33/language/cs) | 370 | 441 | 83.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/cs/sieveeditor.po | 
+ | [nb_NO](/f33/language/nb_NO) | 253 | 441 | 57.4 | /mnt/stockage/packages/f33/pim-sieve-editor/po/nb/sieveeditor.po | 
+ | [hu](/f33/language/hu) | 132 | 441 | 29.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/hu/sieveeditor.po | 
+ | [nds](/f33/language/nds) | 132 | 441 | 29.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/nds/sieveeditor.po | 
+ | [ro](/f33/language/ro) | 79 | 441 | 17.9 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ro/sieveeditor.po | 
+ | [bs](/f33/language/bs) | 59 | 441 | 13.4 | /mnt/stockage/packages/f33/pim-sieve-editor/po/bs/sieveeditor.po | 
+ | [ja](/f33/language/ja) | 0 | 441 | 0.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/ja/sieveeditor.po | 
+ | [lt](/f33/language/lt) | 0 | 441 | 0.0 | /mnt/stockage/packages/f33/pim-sieve-editor/po/lt/sieveeditor.po | 
 {.sortable}
 
 

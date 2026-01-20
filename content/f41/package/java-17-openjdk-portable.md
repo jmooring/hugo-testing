@@ -18,7 +18,7 @@ The package java-17-openjdk-portable (version 17.0.17.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f41/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f41/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f41/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f41/java-17-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

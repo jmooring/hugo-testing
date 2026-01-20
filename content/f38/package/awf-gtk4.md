@@ -18,7 +18,7 @@ The package awf-gtk4 (version 2.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f38/awf-gtk4/src/po/fr.po | 
+ | [fr](/f38/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f38/awf-gtk4/src/po/fr.po | 
 {.sortable}
 
 

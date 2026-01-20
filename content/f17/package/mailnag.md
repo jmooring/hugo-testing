@@ -18,27 +18,27 @@ The package mailnag (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/es.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/eu.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/ja.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/ru.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 191 | 192 | 99.5 | /mnt/stockage/packages/f17/mailnag/po/zh_CN.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 189 | 192 | 98.4 | /mnt/stockage/packages/f17/mailnag/po/he.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 171 | 192 | 89.1 | /mnt/stockage/packages/f17/mailnag/po/ko.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/cs.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/hr.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/nb.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/sr.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 120 | 192 | 62.5 | /mnt/stockage/packages/f17/mailnag/po/ro.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 83 | 192 | 43.2 | /mnt/stockage/packages/f17/mailnag/po/gl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 66 | 192 | 34.4 | /mnt/stockage/packages/f17/mailnag/po/pl.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 60 | 192 | 31.2 | /mnt/stockage/packages/f17/mailnag/po/vi.po | 
+ | [de](/f17/language/de) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/de.po | 
+ | [es](/f17/language/es) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/es.po | 
+ | [eu](/f17/language/eu) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/eu.po | 
+ | [fr](/f17/language/fr) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/fr.po | 
+ | [it](/f17/language/it) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/it.po | 
+ | [ja](/f17/language/ja) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/ja.po | 
+ | [pt](/f17/language/pt) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/ru.po | 
+ | [uk](/f17/language/uk) | 192 | 192 | 100.0 | /mnt/stockage/packages/f17/mailnag/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 191 | 192 | 99.5 | /mnt/stockage/packages/f17/mailnag/po/zh_CN.po | 
+ | [he](/f17/language/he) | 189 | 192 | 98.4 | /mnt/stockage/packages/f17/mailnag/po/he.po | 
+ | [ko](/f17/language/ko) | 171 | 192 | 89.1 | /mnt/stockage/packages/f17/mailnag/po/ko.po | 
+ | [cs](/f17/language/cs) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/cs.po | 
+ | [hr](/f17/language/hr) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/hr.po | 
+ | [nb_NO](/f17/language/nb_NO) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/nb.po | 
+ | [sr](/f17/language/sr) | 149 | 192 | 77.6 | /mnt/stockage/packages/f17/mailnag/po/sr.po | 
+ | [ro](/f17/language/ro) | 120 | 192 | 62.5 | /mnt/stockage/packages/f17/mailnag/po/ro.po | 
+ | [gl](/f17/language/gl) | 83 | 192 | 43.2 | /mnt/stockage/packages/f17/mailnag/po/gl.po | 
+ | [pl](/f17/language/pl) | 66 | 192 | 34.4 | /mnt/stockage/packages/f17/mailnag/po/pl.po | 
+ | [vi](/f17/language/vi) | 60 | 192 | 31.2 | /mnt/stockage/packages/f17/mailnag/po/vi.po | 
 {.sortable}
 
 

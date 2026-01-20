@@ -18,7 +18,7 @@ The package qodem (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f21/language/en.md" >}}) | 4151 | 4151 | 100.0 | /mnt/stockage/packages/f21/qodem/po/en.po | 
+ | [en](/f21/language/en) | 4151 | 4151 | 100.0 | /mnt/stockage/packages/f21/qodem/po/en.po | 
 {.sortable}
 
 

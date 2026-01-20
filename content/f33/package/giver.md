@@ -18,7 +18,7 @@ The package giver (version 0.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f33/giver/po/fi.po | 
+ | [fi](/f33/language/fi) | 0 | 125 | 0.0 | /mnt/stockage/packages/f33/giver/po/fi.po | 
 {.sortable}
 
 

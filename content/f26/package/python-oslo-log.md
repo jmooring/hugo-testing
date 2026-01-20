@@ -18,10 +18,10 @@ The package python-oslo-log (version 3.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/de/LC_MESSAGES/oslo_log.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/en_GB/LC_MESSAGES/oslo_log.po/mnt/stockage/packages/f26/python-oslo-log/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/es/LC_MESSAGES/oslo_log.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/ja/LC_MESSAGES/oslo_log.po | 
+ | [de](/f26/language/de) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/de/LC_MESSAGES/oslo_log.po | 
+ | [en_GB](/f26/language/en_GB) | 142 | 142 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/en_GB/LC_MESSAGES/oslo_log.po/mnt/stockage/packages/f26/python-oslo-log/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f26/language/es) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/es/LC_MESSAGES/oslo_log.po | 
+ | [ja](/f26/language/ja) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/python-oslo-log/oslo_log/locale/ja/LC_MESSAGES/oslo_log.po | 
 {.sortable}
 
 

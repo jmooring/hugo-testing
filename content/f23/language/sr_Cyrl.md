@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican]({{< ref "/f23/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f23/package/wine.md" >}}) | 2213 | 14570 | 15.2 | Serbian (Cyrillic) | 
- | [blivet-gui]({{< ref "/f23/package/blivet-gui.md" >}}) | 0 | 703 | 0.0 | Serbian (Cyrillic) | 
- | [fonts-tweak-tool]({{< ref "/f23/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
+ | [publican](/f23/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f23/package/wine) | 2213 | 14570 | 15.2 | Serbian (Cyrillic) | 
+ | [blivet-gui](/f23/package/blivet-gui) | 0 | 703 | 0.0 | Serbian (Cyrillic) | 
+ | [fonts-tweak-tool](/f23/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
 {.sortable}
 
 

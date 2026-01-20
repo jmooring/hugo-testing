@@ -18,21 +18,21 @@ The package contacts (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f8/contacts/po/bg.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f8/contacts/po/ca.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/da.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/it.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f8/contacts/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/sv.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 117 | 121 | 96.7 | /mnt/stockage/packages/f8/contacts/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 108 | 121 | 89.3 | /mnt/stockage/packages/f8/contacts/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 108 | 121 | 89.3 | /mnt/stockage/packages/f8/contacts/po/nl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 93 | 121 | 76.9 | /mnt/stockage/packages/f8/contacts/po/de.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 93 | 121 | 76.9 | /mnt/stockage/packages/f8/contacts/po/et.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 116 | 226 | 51.3 | /mnt/stockage/packages/f8/contacts/po/nb.po | 
+ | [bg](/f8/language/bg) | 119 | 119 | 100.0 | /mnt/stockage/packages/f8/contacts/po/bg.po | 
+ | [ca](/f8/language/ca) | 117 | 117 | 100.0 | /mnt/stockage/packages/f8/contacts/po/ca.po | 
+ | [da](/f8/language/da) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/da.po | 
+ | [es](/f8/language/es) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/es.po | 
+ | [it](/f8/language/it) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/it.po | 
+ | [pl](/f8/language/pl) | 243 | 243 | 100.0 | /mnt/stockage/packages/f8/contacts/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/ru.po | 
+ | [sv](/f8/language/sv) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/contacts/po/sv.po | 
+ | [fi](/f8/language/fi) | 117 | 121 | 96.7 | /mnt/stockage/packages/f8/contacts/po/fi.po | 
+ | [fr](/f8/language/fr) | 108 | 121 | 89.3 | /mnt/stockage/packages/f8/contacts/po/fr.po | 
+ | [nl](/f8/language/nl) | 108 | 121 | 89.3 | /mnt/stockage/packages/f8/contacts/po/nl.po | 
+ | [de](/f8/language/de) | 93 | 121 | 76.9 | /mnt/stockage/packages/f8/contacts/po/de.po | 
+ | [et](/f8/language/et) | 93 | 121 | 76.9 | /mnt/stockage/packages/f8/contacts/po/et.po | 
+ | [nb_NO](/f8/language/nb_NO) | 116 | 226 | 51.3 | /mnt/stockage/packages/f8/contacts/po/nb.po | 
 {.sortable}
 
 

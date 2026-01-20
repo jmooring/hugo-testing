@@ -18,11 +18,11 @@ The package gobby05 (version 0.4.94):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/el_GR.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/en_GB.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/ja.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1062 | 1093 | 97.2 | /mnt/stockage/packages/f19/gobby05/po/fr.po | 
+ | [de](/f19/language/de) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/de.po | 
+ | [el](/f19/language/el) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/el_GR.po | 
+ | [en_GB](/f19/language/en_GB) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/en_GB.po | 
+ | [ja](/f19/language/ja) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f19/gobby05/po/ja.po | 
+ | [fr](/f19/language/fr) | 1062 | 1093 | 97.2 | /mnt/stockage/packages/f19/gobby05/po/fr.po | 
 {.sortable}
 
 

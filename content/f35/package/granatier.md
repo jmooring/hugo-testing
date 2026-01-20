@@ -18,55 +18,55 @@ The package granatier (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/ca/granatier.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/ca@valencia/granatier.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/da/granatier.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/de/granatier.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/el/granatier.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/en_GB/granatier.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/es/granatier.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/et/granatier.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/eu/granatier.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/fi/granatier.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/fr/granatier.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/gl/granatier.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/hu/granatier.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/id/granatier.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/it/granatier.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/ko/granatier.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/nl/granatier.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/nn/granatier.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/pl/granatier.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/pt/granatier.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/pt_BR/granatier.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/sk/granatier.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/sl/granatier.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/sv/granatier.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/uk/granatier.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/zh_CN/granatier.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/zh_TW/granatier.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 238 | 244 | 97.5 | /mnt/stockage/packages/f35/granatier/po/cs/granatier.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 238 | 244 | 97.5 | /mnt/stockage/packages/f35/granatier/po/ru/granatier.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 239 | 247 | 96.8 | /mnt/stockage/packages/f35/granatier/po/sr/granatier.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 236 | 244 | 96.7 | /mnt/stockage/packages/f35/granatier/po/tr/granatier.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 232 | 244 | 95.1 | /mnt/stockage/packages/f35/granatier/po/nb/granatier.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/bs/granatier.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/ga/granatier.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/kk/granatier.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/km/granatier.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/lv/granatier.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/nds/granatier.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 199 | 244 | 81.6 | /mnt/stockage/packages/f35/granatier/po/bg/granatier.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 157 | 244 | 64.3 | /mnt/stockage/packages/f35/granatier/po/ro/granatier.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 101 | 244 | 41.4 | /mnt/stockage/packages/f35/granatier/po/lt/granatier.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 66 | 244 | 27.0 | /mnt/stockage/packages/f35/granatier/po/ja/granatier.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 54 | 244 | 22.1 | /mnt/stockage/packages/f35/granatier/po/ar/granatier.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 52 | 244 | 21.3 | /mnt/stockage/packages/f35/granatier/po/ug/granatier.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 28 | 244 | 11.5 | /mnt/stockage/packages/f35/granatier/po/eo/granatier.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 22 | 244 | 9.0 | /mnt/stockage/packages/f35/granatier/po/mr/granatier.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 2 | 244 | 0.8 | /mnt/stockage/packages/f35/granatier/po/ml/granatier.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 1 | 244 | 0.4 | /mnt/stockage/packages/f35/granatier/po/hr/granatier.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 0 | 244 | 0.0 | /mnt/stockage/packages/f35/granatier/po/is/granatier.po | 
+ | [ca](/f35/language/ca) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/ca/granatier.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/ca@valencia/granatier.po | 
+ | [da](/f35/language/da) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/da/granatier.po | 
+ | [de](/f35/language/de) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/de/granatier.po | 
+ | [el](/f35/language/el) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/el/granatier.po | 
+ | [en_GB](/f35/language/en_GB) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/en_GB/granatier.po | 
+ | [es](/f35/language/es) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/es/granatier.po | 
+ | [et](/f35/language/et) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/et/granatier.po | 
+ | [eu](/f35/language/eu) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/eu/granatier.po | 
+ | [fi](/f35/language/fi) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/fi/granatier.po | 
+ | [fr](/f35/language/fr) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/fr/granatier.po | 
+ | [gl](/f35/language/gl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/gl/granatier.po | 
+ | [hu](/f35/language/hu) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/hu/granatier.po | 
+ | [id](/f35/language/id) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/id/granatier.po | 
+ | [it](/f35/language/it) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/it/granatier.po | 
+ | [ko](/f35/language/ko) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/ko/granatier.po | 
+ | [nl](/f35/language/nl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/nl/granatier.po | 
+ | [nn](/f35/language/nn) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/nn/granatier.po | 
+ | [pl](/f35/language/pl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/pl/granatier.po | 
+ | [pt](/f35/language/pt) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/pt/granatier.po | 
+ | [pt_BR](/f35/language/pt_BR) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/pt_BR/granatier.po | 
+ | [sk](/f35/language/sk) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/sk/granatier.po | 
+ | [sl](/f35/language/sl) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/sl/granatier.po | 
+ | [sv](/f35/language/sv) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/sv/granatier.po | 
+ | [uk](/f35/language/uk) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/uk/granatier.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/zh_CN/granatier.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 244 | 244 | 100.0 | /mnt/stockage/packages/f35/granatier/po/zh_TW/granatier.po | 
+ | [cs](/f35/language/cs) | 238 | 244 | 97.5 | /mnt/stockage/packages/f35/granatier/po/cs/granatier.po | 
+ | [ru](/f35/language/ru) | 238 | 244 | 97.5 | /mnt/stockage/packages/f35/granatier/po/ru/granatier.po | 
+ | [sr](/f35/language/sr) | 239 | 247 | 96.8 | /mnt/stockage/packages/f35/granatier/po/sr/granatier.po | 
+ | [tr](/f35/language/tr) | 236 | 244 | 96.7 | /mnt/stockage/packages/f35/granatier/po/tr/granatier.po | 
+ | [nb_NO](/f35/language/nb_NO) | 232 | 244 | 95.1 | /mnt/stockage/packages/f35/granatier/po/nb/granatier.po | 
+ | [bs](/f35/language/bs) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/bs/granatier.po | 
+ | [ga](/f35/language/ga) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/ga/granatier.po | 
+ | [kk](/f35/language/kk) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/kk/granatier.po | 
+ | [km](/f35/language/km) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/km/granatier.po | 
+ | [lv](/f35/language/lv) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/lv/granatier.po | 
+ | [nds](/f35/language/nds) | 230 | 244 | 94.3 | /mnt/stockage/packages/f35/granatier/po/nds/granatier.po | 
+ | [bg](/f35/language/bg) | 199 | 244 | 81.6 | /mnt/stockage/packages/f35/granatier/po/bg/granatier.po | 
+ | [ro](/f35/language/ro) | 157 | 244 | 64.3 | /mnt/stockage/packages/f35/granatier/po/ro/granatier.po | 
+ | [lt](/f35/language/lt) | 101 | 244 | 41.4 | /mnt/stockage/packages/f35/granatier/po/lt/granatier.po | 
+ | [ja](/f35/language/ja) | 66 | 244 | 27.0 | /mnt/stockage/packages/f35/granatier/po/ja/granatier.po | 
+ | [ar](/f35/language/ar) | 54 | 244 | 22.1 | /mnt/stockage/packages/f35/granatier/po/ar/granatier.po | 
+ | [ug](/f35/language/ug) | 52 | 244 | 21.3 | /mnt/stockage/packages/f35/granatier/po/ug/granatier.po | 
+ | [eo](/f35/language/eo) | 28 | 244 | 11.5 | /mnt/stockage/packages/f35/granatier/po/eo/granatier.po | 
+ | [mr](/f35/language/mr) | 22 | 244 | 9.0 | /mnt/stockage/packages/f35/granatier/po/mr/granatier.po | 
+ | [ml](/f35/language/ml) | 2 | 244 | 0.8 | /mnt/stockage/packages/f35/granatier/po/ml/granatier.po | 
+ | [hr](/f35/language/hr) | 1 | 244 | 0.4 | /mnt/stockage/packages/f35/granatier/po/hr/granatier.po | 
+ | [is](/f35/language/is) | 0 | 244 | 0.0 | /mnt/stockage/packages/f35/granatier/po/is/granatier.po | 
 {.sortable}
 
 

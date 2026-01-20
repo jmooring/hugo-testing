@@ -18,12 +18,12 @@ The package qof (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/en_GB.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/sv.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/vi.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 121 | 554 | 21.8 | /mnt/stockage/packages/f8/qof/po/id.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 121 | 554 | 21.8 | /mnt/stockage/packages/f8/qof/po/ro.po | 
+ | [en_GB](/f8/language/en_GB) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/en_GB.po | 
+ | [pt_BR](/f8/language/pt_BR) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/sv.po | 
+ | [vi](/f8/language/vi) | 554 | 554 | 100.0 | /mnt/stockage/packages/f8/qof/po/vi.po | 
+ | [id](/f8/language/id) | 121 | 554 | 21.8 | /mnt/stockage/packages/f8/qof/po/id.po | 
+ | [ro](/f8/language/ro) | 121 | 554 | 21.8 | /mnt/stockage/packages/f8/qof/po/ro.po | 
 {.sortable}
 
 

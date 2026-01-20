@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f38/package/kde-i18n.md" >}}) | 10 | 10 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [sugar-turtleart]({{< ref "/f38/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar-clock]({{< ref "/f38/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f38/package/sugar-finance.md" >}}) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f38/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f38/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kde-i18n](/f38/package/kde-i18n) | 10 | 10 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [sugar-turtleart](/f38/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar-clock](/f38/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f38/package/sugar-finance) | 0 | 258 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f38/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f38/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

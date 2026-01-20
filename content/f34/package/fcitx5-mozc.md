@@ -18,16 +18,16 @@ The package fcitx5-mozc (version 2.17.2102.102.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ru.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ru.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/zh_CN.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/zh_CN.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 100 | 102 | 98.0 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ja.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ja.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 79 | 102 | 77.5 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/da.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/da.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 73 | 102 | 71.6 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ko.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ko.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 66 | 102 | 64.7 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/zh_TW.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/zh_TW.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 46 | 102 | 45.1 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/de.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/de.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 37 | 102 | 36.3 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ca.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ca.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 4 | 69 | 5.8 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/he.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 4 | 69 | 5.8 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/tr.po | 
+ | [ru](/f34/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ru.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ru.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 102 | 102 | 100.0 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/zh_CN.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/zh_CN.po | 
+ | [ja](/f34/language/ja) | 100 | 102 | 98.0 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ja.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ja.po | 
+ | [da](/f34/language/da) | 79 | 102 | 77.5 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/da.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/da.po | 
+ | [ko](/f34/language/ko) | 73 | 102 | 71.6 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ko.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ko.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 66 | 102 | 64.7 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/zh_TW.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/zh_TW.po | 
+ | [de](/f34/language/de) | 46 | 102 | 45.1 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/de.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/de.po | 
+ | [ca](/f34/language/ca) | 37 | 102 | 36.3 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx/po/ca.po/mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/ca.po | 
+ | [he](/f34/language/he) | 4 | 69 | 5.8 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/he.po | 
+ | [tr](/f34/language/tr) | 4 | 69 | 5.8 | /mnt/stockage/packages/f34/fcitx5-mozc/src/unix/fcitx5/po/tr.po | 
 {.sortable}
 
 

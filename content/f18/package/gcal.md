@@ -18,19 +18,19 @@ The package gcal (version 3.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f18/language/es.md" >}}) | 4916 | 4927 | 99.8 | /mnt/stockage/packages/f18/gcal/po/es.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 4916 | 4927 | 99.8 | /mnt/stockage/packages/f18/gcal/po/sv.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 4882 | 4927 | 99.1 | /mnt/stockage/packages/f18/gcal/po/ca.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 4882 | 4927 | 99.1 | /mnt/stockage/packages/f18/gcal/po/fr.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 4845 | 4927 | 98.3 | /mnt/stockage/packages/f18/gcal/po/tr.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 2881 | 4927 | 58.5 | /mnt/stockage/packages/f18/gcal/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1737 | 4927 | 35.3 | /mnt/stockage/packages/f18/gcal/po/de.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1666 | 4927 | 33.8 | /mnt/stockage/packages/f18/gcal/po/nl.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1644 | 4927 | 33.4 | /mnt/stockage/packages/f18/gcal/po/ru.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1617 | 4927 | 32.8 | /mnt/stockage/packages/f18/gcal/po/it.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1547 | 4927 | 31.4 | /mnt/stockage/packages/f18/gcal/po/pl.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 225 | 4927 | 4.6 | /mnt/stockage/packages/f18/gcal/po/lt.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 37 | 4927 | 0.8 | /mnt/stockage/packages/f18/gcal/po/rw.po | 
+ | [es](/f18/language/es) | 4916 | 4927 | 99.8 | /mnt/stockage/packages/f18/gcal/po/es.po | 
+ | [sv](/f18/language/sv) | 4916 | 4927 | 99.8 | /mnt/stockage/packages/f18/gcal/po/sv.po | 
+ | [ca](/f18/language/ca) | 4882 | 4927 | 99.1 | /mnt/stockage/packages/f18/gcal/po/ca.po | 
+ | [fr](/f18/language/fr) | 4882 | 4927 | 99.1 | /mnt/stockage/packages/f18/gcal/po/fr.po | 
+ | [tr](/f18/language/tr) | 4845 | 4927 | 98.3 | /mnt/stockage/packages/f18/gcal/po/tr.po | 
+ | [da](/f18/language/da) | 2881 | 4927 | 58.5 | /mnt/stockage/packages/f18/gcal/po/da.po | 
+ | [de](/f18/language/de) | 1737 | 4927 | 35.3 | /mnt/stockage/packages/f18/gcal/po/de.po | 
+ | [nl](/f18/language/nl) | 1666 | 4927 | 33.8 | /mnt/stockage/packages/f18/gcal/po/nl.po | 
+ | [ru](/f18/language/ru) | 1644 | 4927 | 33.4 | /mnt/stockage/packages/f18/gcal/po/ru.po | 
+ | [it](/f18/language/it) | 1617 | 4927 | 32.8 | /mnt/stockage/packages/f18/gcal/po/it.po | 
+ | [pl](/f18/language/pl) | 1547 | 4927 | 31.4 | /mnt/stockage/packages/f18/gcal/po/pl.po | 
+ | [lt](/f18/language/lt) | 225 | 4927 | 4.6 | /mnt/stockage/packages/f18/gcal/po/lt.po | 
+ | [rw](/f18/language/rw) | 37 | 4927 | 0.8 | /mnt/stockage/packages/f18/gcal/po/rw.po | 
 {.sortable}
 
 

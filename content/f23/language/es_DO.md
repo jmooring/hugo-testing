@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f23/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f23/package/libmateweather.md" >}}) | 361 | 499 | 72.3 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [mate-applets]({{< ref "/f23/package/mate-applets.md" >}}) | 1596 | 2621 | 60.9 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [openerp7]({{< ref "/f23/package/openerp7.md" >}}) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [openerp]({{< ref "/f23/package/openerp.md" >}}) | 7207 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [libgweather](/f23/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f23/package/libmateweather) | 361 | 499 | 72.3 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [mate-applets](/f23/package/mate-applets) | 1596 | 2621 | 60.9 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [openerp7](/f23/package/openerp7) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [openerp](/f23/package/openerp) | 7207 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 0 | 5 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
 {.sortable}
 
 

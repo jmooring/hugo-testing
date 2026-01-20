@@ -18,83 +18,83 @@ The package ark (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ar/ark.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/bg/ark.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ca/ark.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ca@valencia/ark.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/de/ark.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/en_GB/ark.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/es/ark.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/eu/ark.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/fr/ark.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ia/ark.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/it/ark.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/nl/ark.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/pl/ark.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/pt/ark.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/sl/ark.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/sv/ark.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/tr/ark.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/uk/ark.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/zh_CN/ark.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1927 | 1929 | 99.9 | /mnt/stockage/packages/f36/ark/po/pt_BR/ark.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 1919 | 1929 | 99.5 | /mnt/stockage/packages/f36/ark/po/ko/ark.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 1919 | 1929 | 99.5 | /mnt/stockage/packages/f36/ark/po/ru/ark.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 1907 | 1929 | 98.9 | /mnt/stockage/packages/f36/ark/po/sk/ark.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 1898 | 1929 | 98.4 | /mnt/stockage/packages/f36/ark/po/az/ark.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 1898 | 1929 | 98.4 | /mnt/stockage/packages/f36/ark/po/nn/ark.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1892 | 1929 | 98.1 | /mnt/stockage/packages/f36/ark/po/cs/ark.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/da/ark.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/fi/ark.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/id/ark.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/zh_TW/ark.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1880 | 1929 | 97.5 | /mnt/stockage/packages/f36/ark/po/ro/ark.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1861 | 1929 | 96.5 | /mnt/stockage/packages/f36/ark/po/el/ark.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 1861 | 1929 | 96.5 | /mnt/stockage/packages/f36/ark/po/hu/ark.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 1853 | 1929 | 96.1 | /mnt/stockage/packages/f36/ark/po/ta/ark.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 1849 | 1929 | 95.9 | /mnt/stockage/packages/f36/ark/po/et/ark.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr/ark.po | 
- | [sr@ijekavian]({{< ref "/f36/language/sr@ijekavian.md" >}}) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr@ijekavian/ark.po | 
- | [sr@ijekavian_Latn]({{< ref "/f36/language/sr@ijekavian_Latn.md" >}}) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr@ijekavianlatin/ark.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr@latin/ark.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 1787 | 1929 | 92.6 | /mnt/stockage/packages/f36/ark/po/gl/ark.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 1634 | 1929 | 84.7 | /mnt/stockage/packages/f36/ark/po/ja/ark.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 1436 | 1929 | 74.4 | /mnt/stockage/packages/f36/ark/po/is/ark.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 1280 | 1929 | 66.4 | /mnt/stockage/packages/f36/ark/po/lt/ark.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 1184 | 1929 | 61.4 | /mnt/stockage/packages/f36/ark/po/pa/ark.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 1070 | 1929 | 55.5 | /mnt/stockage/packages/f36/ark/po/ie/ark.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 762 | 1929 | 39.5 | /mnt/stockage/packages/f36/ark/po/he/ark.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 569 | 1929 | 29.5 | /mnt/stockage/packages/f36/ark/po/nb/ark.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 531 | 1929 | 27.5 | /mnt/stockage/packages/f36/ark/po/ka/ark.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 519 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/nds/ark.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 518 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/bs/ark.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 518 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/kk/ark.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 518 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/km/ark.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 473 | 1929 | 24.5 | /mnt/stockage/packages/f36/ark/po/ga/ark.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 470 | 1929 | 24.4 | /mnt/stockage/packages/f36/ark/po/hr/ark.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 470 | 1929 | 24.4 | /mnt/stockage/packages/f36/ark/po/lv/ark.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 428 | 1929 | 22.2 | /mnt/stockage/packages/f36/ark/po/th/ark.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 222 | 1929 | 11.5 | /mnt/stockage/packages/f36/ark/po/ug/ark.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 188 | 1929 | 9.7 | /mnt/stockage/packages/f36/ark/po/sq/ark.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 168 | 1929 | 8.7 | /mnt/stockage/packages/f36/ark/po/mr/ark.po | 
- | [hne]({{< ref "/f36/language/hne.md" >}}) | 158 | 1929 | 8.2 | /mnt/stockage/packages/f36/ark/po/hne/ark.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 143 | 1929 | 7.4 | /mnt/stockage/packages/f36/ark/po/eo/ark.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 112 | 1929 | 5.8 | /mnt/stockage/packages/f36/ark/po/af/ark.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 89 | 1929 | 4.6 | /mnt/stockage/packages/f36/ark/po/hi/ark.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 46 | 1929 | 2.4 | /mnt/stockage/packages/f36/ark/po/ne/ark.po | 
- | [ku]({{< ref "/f36/language/ku.md" >}}) | 45 | 1929 | 2.3 | /mnt/stockage/packages/f36/ark/po/ku/ark.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 27 | 1929 | 1.4 | /mnt/stockage/packages/f36/ark/po/fa/ark.po | 
- | [se]({{< ref "/f36/language/se.md" >}}) | 22 | 1929 | 1.1 | /mnt/stockage/packages/f36/ark/po/se/ark.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 17 | 1929 | 0.9 | /mnt/stockage/packages/f36/ark/po/mk/ark.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 17 | 1929 | 0.9 | /mnt/stockage/packages/f36/ark/po/ms/ark.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 17 | 1929 | 0.9 | /mnt/stockage/packages/f36/ark/po/zh_HK/ark.po | 
- | [br]({{< ref "/f36/language/br.md" >}}) | 16 | 1929 | 0.8 | /mnt/stockage/packages/f36/ark/po/br/ark.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 14 | 1929 | 0.7 | /mnt/stockage/packages/f36/ark/po/tg/ark.po | 
- | [uz]({{< ref "/f36/language/uz.md" >}}) | 24 | 3858 | 0.6 | /mnt/stockage/packages/f36/ark/po/uz@cyrillic/ark.po/mnt/stockage/packages/f36/ark/po/uz/ark.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 10 | 1929 | 0.5 | /mnt/stockage/packages/f36/ark/po/be/ark.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 9 | 1929 | 0.5 | /mnt/stockage/packages/f36/ark/po/cy/ark.po | 
- | [xh]({{< ref "/f36/language/xh.md" >}}) | 8 | 1929 | 0.4 | /mnt/stockage/packages/f36/ark/po/xh/ark.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 6 | 1929 | 0.3 | /mnt/stockage/packages/f36/ark/po/oc/ark.po | 
+ | [ar](/f36/language/ar) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ar/ark.po | 
+ | [bg](/f36/language/bg) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/bg/ark.po | 
+ | [ca](/f36/language/ca) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ca/ark.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ca@valencia/ark.po | 
+ | [de](/f36/language/de) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/de/ark.po | 
+ | [en_GB](/f36/language/en_GB) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/en_GB/ark.po | 
+ | [es](/f36/language/es) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/es/ark.po | 
+ | [eu](/f36/language/eu) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/eu/ark.po | 
+ | [fr](/f36/language/fr) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/fr/ark.po | 
+ | [ia](/f36/language/ia) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/ia/ark.po | 
+ | [it](/f36/language/it) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/it/ark.po | 
+ | [nl](/f36/language/nl) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/nl/ark.po | 
+ | [pl](/f36/language/pl) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/pl/ark.po | 
+ | [pt](/f36/language/pt) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/pt/ark.po | 
+ | [sl](/f36/language/sl) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/sl/ark.po | 
+ | [sv](/f36/language/sv) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/sv/ark.po | 
+ | [tr](/f36/language/tr) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/tr/ark.po | 
+ | [uk](/f36/language/uk) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/uk/ark.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ark/po/zh_CN/ark.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1927 | 1929 | 99.9 | /mnt/stockage/packages/f36/ark/po/pt_BR/ark.po | 
+ | [ko](/f36/language/ko) | 1919 | 1929 | 99.5 | /mnt/stockage/packages/f36/ark/po/ko/ark.po | 
+ | [ru](/f36/language/ru) | 1919 | 1929 | 99.5 | /mnt/stockage/packages/f36/ark/po/ru/ark.po | 
+ | [sk](/f36/language/sk) | 1907 | 1929 | 98.9 | /mnt/stockage/packages/f36/ark/po/sk/ark.po | 
+ | [az](/f36/language/az) | 1898 | 1929 | 98.4 | /mnt/stockage/packages/f36/ark/po/az/ark.po | 
+ | [nn](/f36/language/nn) | 1898 | 1929 | 98.4 | /mnt/stockage/packages/f36/ark/po/nn/ark.po | 
+ | [cs](/f36/language/cs) | 1892 | 1929 | 98.1 | /mnt/stockage/packages/f36/ark/po/cs/ark.po | 
+ | [da](/f36/language/da) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/da/ark.po | 
+ | [fi](/f36/language/fi) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/fi/ark.po | 
+ | [id](/f36/language/id) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/id/ark.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 1891 | 1929 | 98.0 | /mnt/stockage/packages/f36/ark/po/zh_TW/ark.po | 
+ | [ro](/f36/language/ro) | 1880 | 1929 | 97.5 | /mnt/stockage/packages/f36/ark/po/ro/ark.po | 
+ | [el](/f36/language/el) | 1861 | 1929 | 96.5 | /mnt/stockage/packages/f36/ark/po/el/ark.po | 
+ | [hu](/f36/language/hu) | 1861 | 1929 | 96.5 | /mnt/stockage/packages/f36/ark/po/hu/ark.po | 
+ | [ta](/f36/language/ta) | 1853 | 1929 | 96.1 | /mnt/stockage/packages/f36/ark/po/ta/ark.po | 
+ | [et](/f36/language/et) | 1849 | 1929 | 95.9 | /mnt/stockage/packages/f36/ark/po/et/ark.po | 
+ | [sr](/f36/language/sr) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr/ark.po | 
+ | [sr@ijekavian](/f36/language/sr@ijekavian) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr@ijekavian/ark.po | 
+ | [sr@ijekavian_Latn](/f36/language/sr@ijekavian_Latn) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr@ijekavianlatin/ark.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 1804 | 1901 | 94.9 | /mnt/stockage/packages/f36/ark/po/sr@latin/ark.po | 
+ | [gl](/f36/language/gl) | 1787 | 1929 | 92.6 | /mnt/stockage/packages/f36/ark/po/gl/ark.po | 
+ | [ja](/f36/language/ja) | 1634 | 1929 | 84.7 | /mnt/stockage/packages/f36/ark/po/ja/ark.po | 
+ | [is](/f36/language/is) | 1436 | 1929 | 74.4 | /mnt/stockage/packages/f36/ark/po/is/ark.po | 
+ | [lt](/f36/language/lt) | 1280 | 1929 | 66.4 | /mnt/stockage/packages/f36/ark/po/lt/ark.po | 
+ | [pa](/f36/language/pa) | 1184 | 1929 | 61.4 | /mnt/stockage/packages/f36/ark/po/pa/ark.po | 
+ | [ie](/f36/language/ie) | 1070 | 1929 | 55.5 | /mnt/stockage/packages/f36/ark/po/ie/ark.po | 
+ | [he](/f36/language/he) | 762 | 1929 | 39.5 | /mnt/stockage/packages/f36/ark/po/he/ark.po | 
+ | [nb_NO](/f36/language/nb_NO) | 569 | 1929 | 29.5 | /mnt/stockage/packages/f36/ark/po/nb/ark.po | 
+ | [ka](/f36/language/ka) | 531 | 1929 | 27.5 | /mnt/stockage/packages/f36/ark/po/ka/ark.po | 
+ | [nds](/f36/language/nds) | 519 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/nds/ark.po | 
+ | [bs](/f36/language/bs) | 518 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/bs/ark.po | 
+ | [kk](/f36/language/kk) | 518 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/kk/ark.po | 
+ | [km](/f36/language/km) | 518 | 1929 | 26.9 | /mnt/stockage/packages/f36/ark/po/km/ark.po | 
+ | [ga](/f36/language/ga) | 473 | 1929 | 24.5 | /mnt/stockage/packages/f36/ark/po/ga/ark.po | 
+ | [hr](/f36/language/hr) | 470 | 1929 | 24.4 | /mnt/stockage/packages/f36/ark/po/hr/ark.po | 
+ | [lv](/f36/language/lv) | 470 | 1929 | 24.4 | /mnt/stockage/packages/f36/ark/po/lv/ark.po | 
+ | [th](/f36/language/th) | 428 | 1929 | 22.2 | /mnt/stockage/packages/f36/ark/po/th/ark.po | 
+ | [ug](/f36/language/ug) | 222 | 1929 | 11.5 | /mnt/stockage/packages/f36/ark/po/ug/ark.po | 
+ | [sq](/f36/language/sq) | 188 | 1929 | 9.7 | /mnt/stockage/packages/f36/ark/po/sq/ark.po | 
+ | [mr](/f36/language/mr) | 168 | 1929 | 8.7 | /mnt/stockage/packages/f36/ark/po/mr/ark.po | 
+ | [hne](/f36/language/hne) | 158 | 1929 | 8.2 | /mnt/stockage/packages/f36/ark/po/hne/ark.po | 
+ | [eo](/f36/language/eo) | 143 | 1929 | 7.4 | /mnt/stockage/packages/f36/ark/po/eo/ark.po | 
+ | [af](/f36/language/af) | 112 | 1929 | 5.8 | /mnt/stockage/packages/f36/ark/po/af/ark.po | 
+ | [hi](/f36/language/hi) | 89 | 1929 | 4.6 | /mnt/stockage/packages/f36/ark/po/hi/ark.po | 
+ | [ne](/f36/language/ne) | 46 | 1929 | 2.4 | /mnt/stockage/packages/f36/ark/po/ne/ark.po | 
+ | [ku](/f36/language/ku) | 45 | 1929 | 2.3 | /mnt/stockage/packages/f36/ark/po/ku/ark.po | 
+ | [fa](/f36/language/fa) | 27 | 1929 | 1.4 | /mnt/stockage/packages/f36/ark/po/fa/ark.po | 
+ | [se](/f36/language/se) | 22 | 1929 | 1.1 | /mnt/stockage/packages/f36/ark/po/se/ark.po | 
+ | [mk](/f36/language/mk) | 17 | 1929 | 0.9 | /mnt/stockage/packages/f36/ark/po/mk/ark.po | 
+ | [ms](/f36/language/ms) | 17 | 1929 | 0.9 | /mnt/stockage/packages/f36/ark/po/ms/ark.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 17 | 1929 | 0.9 | /mnt/stockage/packages/f36/ark/po/zh_HK/ark.po | 
+ | [br](/f36/language/br) | 16 | 1929 | 0.8 | /mnt/stockage/packages/f36/ark/po/br/ark.po | 
+ | [tg](/f36/language/tg) | 14 | 1929 | 0.7 | /mnt/stockage/packages/f36/ark/po/tg/ark.po | 
+ | [uz](/f36/language/uz) | 24 | 3858 | 0.6 | /mnt/stockage/packages/f36/ark/po/uz@cyrillic/ark.po/mnt/stockage/packages/f36/ark/po/uz/ark.po | 
+ | [be](/f36/language/be) | 10 | 1929 | 0.5 | /mnt/stockage/packages/f36/ark/po/be/ark.po | 
+ | [cy](/f36/language/cy) | 9 | 1929 | 0.5 | /mnt/stockage/packages/f36/ark/po/cy/ark.po | 
+ | [xh](/f36/language/xh) | 8 | 1929 | 0.4 | /mnt/stockage/packages/f36/ark/po/xh/ark.po | 
+ | [oc](/f36/language/oc) | 6 | 1929 | 0.3 | /mnt/stockage/packages/f36/ark/po/oc/ark.po | 
 {.sortable}
 
 

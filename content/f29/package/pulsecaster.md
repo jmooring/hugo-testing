@@ -18,27 +18,27 @@ The package pulsecaster (version 0.1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/cs.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/fr.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/pl.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/uk.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 290 | 294 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/de.po/mnt/stockage/packages/f29/pulsecaster/po/de_DE.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/el.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/es.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/ja.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 108 | 147 | 73.5 | /mnt/stockage/packages/f29/pulsecaster/po/zh_TW.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 98 | 147 | 66.7 | /mnt/stockage/packages/f29/pulsecaster/po/nl.po | 
- | [pt_PT]({{< ref "/f29/language/pt_PT.md" >}}) | 98 | 147 | 66.7 | /mnt/stockage/packages/f29/pulsecaster/po/pt_PT.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 98 | 147 | 66.7 | /mnt/stockage/packages/f29/pulsecaster/po/zh_CN.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/es_MX.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/gl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/he.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/hu.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 3 | 147 | 2.0 | /mnt/stockage/packages/f29/pulsecaster/po/ru.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f29/pulsecaster/po/no.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f29/pulsecaster/po/pt_BR.po | 
+ | [cs](/f29/language/cs) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/cs.po | 
+ | [fr](/f29/language/fr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/fr.po | 
+ | [pl](/f29/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/pl.po | 
+ | [uk](/f29/language/uk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f29/pulsecaster/po/uk.po | 
+ | [da](/f29/language/da) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/da.po | 
+ | [de](/f29/language/de) | 290 | 294 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/de.po/mnt/stockage/packages/f29/pulsecaster/po/de_DE.po | 
+ | [el](/f29/language/el) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/el.po | 
+ | [es](/f29/language/es) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/es.po | 
+ | [it](/f29/language/it) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/it.po | 
+ | [ja](/f29/language/ja) | 145 | 147 | 98.6 | /mnt/stockage/packages/f29/pulsecaster/po/ja.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 108 | 147 | 73.5 | /mnt/stockage/packages/f29/pulsecaster/po/zh_TW.po | 
+ | [nl](/f29/language/nl) | 98 | 147 | 66.7 | /mnt/stockage/packages/f29/pulsecaster/po/nl.po | 
+ | [pt_PT](/f29/language/pt_PT) | 98 | 147 | 66.7 | /mnt/stockage/packages/f29/pulsecaster/po/pt_PT.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 98 | 147 | 66.7 | /mnt/stockage/packages/f29/pulsecaster/po/zh_CN.po | 
+ | [es_MX](/f29/language/es_MX) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/es_MX.po | 
+ | [gl](/f29/language/gl) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/gl.po | 
+ | [he](/f29/language/he) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/he.po | 
+ | [hu](/f29/language/hu) | 7 | 147 | 4.8 | /mnt/stockage/packages/f29/pulsecaster/po/hu.po | 
+ | [ru](/f29/language/ru) | 3 | 147 | 2.0 | /mnt/stockage/packages/f29/pulsecaster/po/ru.po | 
+ | [nb_NO](/f29/language/nb_NO) | 0 | 147 | 0.0 | /mnt/stockage/packages/f29/pulsecaster/po/no.po | 
+ | [pt_BR](/f29/language/pt_BR) | 0 | 147 | 0.0 | /mnt/stockage/packages/f29/pulsecaster/po/pt_BR.po | 
 {.sortable}
 
 

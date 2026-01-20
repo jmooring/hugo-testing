@@ -18,8 +18,8 @@ The package starplot (version 0.95.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f31/language/error.md" >}}) | 2046 | 2046 | 100.0 | /mnt/stockage/packages/f31/starplot/po/en@boldquot.po/mnt/stockage/packages/f31/starplot/po/en@quot.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1023 | 1023 | 100.0 | /mnt/stockage/packages/f31/starplot/po/es.po | 
+ | [error](/f31/language/error) | 2046 | 2046 | 100.0 | /mnt/stockage/packages/f31/starplot/po/en@boldquot.po/mnt/stockage/packages/f31/starplot/po/en@quot.po | 
+ | [es](/f31/language/es) | 1023 | 1023 | 100.0 | /mnt/stockage/packages/f31/starplot/po/es.po | 
 {.sortable}
 
 

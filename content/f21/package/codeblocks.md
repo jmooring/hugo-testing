@@ -18,10 +18,10 @@ The package codeblocks (version 13.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f21/codeblocks/src/sdk/wxpropgrid/locale/fi.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f21/codeblocks/src/sdk/wxpropgrid/locale/pl.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 506 | 525 | 96.4 | /mnt/stockage/packages/f21/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 581 | 610 | 95.2 | /mnt/stockage/packages/f21/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po/mnt/stockage/packages/f21/codeblocks/src/sdk/wxpropgrid/locale/it.po | 
+ | [fi](/f21/language/fi) | 85 | 85 | 100.0 | /mnt/stockage/packages/f21/codeblocks/src/sdk/wxpropgrid/locale/fi.po | 
+ | [pl](/f21/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f21/codeblocks/src/sdk/wxpropgrid/locale/pl.po | 
+ | [hu](/f21/language/hu) | 506 | 525 | 96.4 | /mnt/stockage/packages/f21/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
+ | [it](/f21/language/it) | 581 | 610 | 95.2 | /mnt/stockage/packages/f21/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po/mnt/stockage/packages/f21/codeblocks/src/sdk/wxpropgrid/locale/it.po | 
 {.sortable}
 
 

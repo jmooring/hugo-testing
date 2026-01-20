@@ -18,7 +18,7 @@ The package cacti (version 1.1.38):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 25879 | 25879 | 100.0 | /mnt/stockage/packages/f27/cacti/locales/po/chinese_china_simplified.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 25879 | 25879 | 100.0 | /mnt/stockage/packages/f27/cacti/locales/po/chinese_china_simplified.po | 
 {.sortable}
 
 

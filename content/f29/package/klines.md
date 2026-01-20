@@ -18,57 +18,57 @@ The package klines (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/ca/klines.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/ca@valencia/klines.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/cs/klines.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/da/klines.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/de/klines.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/el/klines.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/en_GB/klines.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/es/klines.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/et/klines.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/fi/klines.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/fr/klines.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/gl/klines.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/hu/klines.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/it/klines.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/ko/klines.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/nl/klines.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/nn/klines.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/pl/klines.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/pt/klines.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/pt_BR/klines.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sk/klines.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sl/klines.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sr/klines.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sv/klines.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/tr/klines.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/uk/klines.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/zh_CN/klines.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/zh_TW/klines.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 97 | 99 | 98.0 | /mnt/stockage/packages/f29/klines/po/ru/klines.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/bg/klines.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/bs/klines.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/eu/klines.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/ga/klines.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/ja/klines.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/kk/klines.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/km/klines.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/lv/klines.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/nb/klines.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/nds/klines.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/ro/klines.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 90 | 99 | 90.9 | /mnt/stockage/packages/f29/klines/po/fa/klines.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 88 | 99 | 88.9 | /mnt/stockage/packages/f29/klines/po/hi/klines.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 79 | 99 | 79.8 | /mnt/stockage/packages/f29/klines/po/eo/klines.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 69 | 99 | 69.7 | /mnt/stockage/packages/f29/klines/po/lt/klines.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 64 | 99 | 64.6 | /mnt/stockage/packages/f29/klines/po/ar/klines.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 35 | 99 | 35.4 | /mnt/stockage/packages/f29/klines/po/hr/klines.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 35 | 99 | 35.4 | /mnt/stockage/packages/f29/klines/po/is/klines.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 33 | 99 | 33.3 | /mnt/stockage/packages/f29/klines/po/he/klines.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 33 | 99 | 33.3 | /mnt/stockage/packages/f29/klines/po/mr/klines.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 33 | 99 | 33.3 | /mnt/stockage/packages/f29/klines/po/ug/klines.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 8 | 99 | 8.1 | /mnt/stockage/packages/f29/klines/po/pa/klines.po | 
+ | [ca](/f29/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/ca/klines.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/ca@valencia/klines.po | 
+ | [cs](/f29/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/cs/klines.po | 
+ | [da](/f29/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/da/klines.po | 
+ | [de](/f29/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/de/klines.po | 
+ | [el](/f29/language/el) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/el/klines.po | 
+ | [en_GB](/f29/language/en_GB) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/en_GB/klines.po | 
+ | [es](/f29/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/es/klines.po | 
+ | [et](/f29/language/et) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/et/klines.po | 
+ | [fi](/f29/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/fi/klines.po | 
+ | [fr](/f29/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/fr/klines.po | 
+ | [gl](/f29/language/gl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/gl/klines.po | 
+ | [hu](/f29/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/hu/klines.po | 
+ | [it](/f29/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/it/klines.po | 
+ | [ko](/f29/language/ko) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/ko/klines.po | 
+ | [nl](/f29/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/nl/klines.po | 
+ | [nn](/f29/language/nn) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/nn/klines.po | 
+ | [pl](/f29/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/pl/klines.po | 
+ | [pt](/f29/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/pt/klines.po | 
+ | [pt_BR](/f29/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/pt_BR/klines.po | 
+ | [sk](/f29/language/sk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sk/klines.po | 
+ | [sl](/f29/language/sl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sl/klines.po | 
+ | [sr](/f29/language/sr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sr/klines.po | 
+ | [sv](/f29/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/sv/klines.po | 
+ | [tr](/f29/language/tr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/tr/klines.po | 
+ | [uk](/f29/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/uk/klines.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/zh_CN/klines.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f29/klines/po/zh_TW/klines.po | 
+ | [ru](/f29/language/ru) | 97 | 99 | 98.0 | /mnt/stockage/packages/f29/klines/po/ru/klines.po | 
+ | [bg](/f29/language/bg) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/bg/klines.po | 
+ | [bs](/f29/language/bs) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/bs/klines.po | 
+ | [eu](/f29/language/eu) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/eu/klines.po | 
+ | [ga](/f29/language/ga) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/ga/klines.po | 
+ | [ja](/f29/language/ja) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/ja/klines.po | 
+ | [kk](/f29/language/kk) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/kk/klines.po | 
+ | [km](/f29/language/km) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/km/klines.po | 
+ | [lv](/f29/language/lv) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/lv/klines.po | 
+ | [nb_NO](/f29/language/nb_NO) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/nb/klines.po | 
+ | [nds](/f29/language/nds) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/nds/klines.po | 
+ | [ro](/f29/language/ro) | 92 | 99 | 92.9 | /mnt/stockage/packages/f29/klines/po/ro/klines.po | 
+ | [fa](/f29/language/fa) | 90 | 99 | 90.9 | /mnt/stockage/packages/f29/klines/po/fa/klines.po | 
+ | [hi](/f29/language/hi) | 88 | 99 | 88.9 | /mnt/stockage/packages/f29/klines/po/hi/klines.po | 
+ | [eo](/f29/language/eo) | 79 | 99 | 79.8 | /mnt/stockage/packages/f29/klines/po/eo/klines.po | 
+ | [lt](/f29/language/lt) | 69 | 99 | 69.7 | /mnt/stockage/packages/f29/klines/po/lt/klines.po | 
+ | [ar](/f29/language/ar) | 64 | 99 | 64.6 | /mnt/stockage/packages/f29/klines/po/ar/klines.po | 
+ | [hr](/f29/language/hr) | 35 | 99 | 35.4 | /mnt/stockage/packages/f29/klines/po/hr/klines.po | 
+ | [is](/f29/language/is) | 35 | 99 | 35.4 | /mnt/stockage/packages/f29/klines/po/is/klines.po | 
+ | [he](/f29/language/he) | 33 | 99 | 33.3 | /mnt/stockage/packages/f29/klines/po/he/klines.po | 
+ | [mr](/f29/language/mr) | 33 | 99 | 33.3 | /mnt/stockage/packages/f29/klines/po/mr/klines.po | 
+ | [ug](/f29/language/ug) | 33 | 99 | 33.3 | /mnt/stockage/packages/f29/klines/po/ug/klines.po | 
+ | [pa](/f29/language/pa) | 8 | 99 | 8.1 | /mnt/stockage/packages/f29/klines/po/pa/klines.po | 
 {.sortable}
 
 

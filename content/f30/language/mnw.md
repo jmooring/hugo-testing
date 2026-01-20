@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [snapd]({{< ref "/f30/package/snapd.md" >}}) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
+ | [snapd](/f30/package/snapd) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
 {.sortable}
 
 

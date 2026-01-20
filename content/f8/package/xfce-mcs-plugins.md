@@ -18,53 +18,53 @@ The package xfce-mcs-plugins (version 4.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f8/language/be.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/be.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/de.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/el.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/en_GB.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/eu.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/fr.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/he.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ja.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ko.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/mk.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pa.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ro.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/tr.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/uk.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 474 | 475 | 99.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/dz.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 474 | 475 | 99.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 473 | 475 | 99.6 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/hu.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 466 | 475 | 98.1 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/nl.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 460 | 475 | 96.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/vi.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 449 | 475 | 94.5 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/sv.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 438 | 475 | 92.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/zh_TW.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 423 | 475 | 89.1 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/gl.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 388 | 475 | 81.7 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/sk.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 382 | 475 | 80.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/et.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 381 | 475 | 80.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/eo.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 377 | 475 | 79.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/zh_CN.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 352 | 475 | 74.1 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 326 | 475 | 68.6 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/es.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 265 | 475 | 55.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/gu.po | 
- | [bn_IN]({{< ref "/f8/language/bn_IN.md" >}}) | 205 | 475 | 43.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/bn_IN.po | 
- | [mr]({{< ref "/f8/language/mr.md" >}}) | 205 | 475 | 43.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/mr.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/az.po | 
- | [es_MX]({{< ref "/f8/language/es_MX.md" >}}) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/es_MX.po | 
- | [fa]({{< ref "/f8/language/fa.md" >}}) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/fa.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/lt.po | 
- | [pt_PT]({{< ref "/f8/language/pt_PT.md" >}}) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pt_PT.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 77 | 475 | 16.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ta.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 68 | 475 | 14.3 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ms.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 65 | 475 | 13.7 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ar.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 57 | 475 | 12.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/bg.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 57 | 475 | 12.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/hi.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 3 | 475 | 0.6 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ka.po | 
+ | [be](/f8/language/be) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/be.po | 
+ | [ca](/f8/language/ca) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ca.po | 
+ | [cs](/f8/language/cs) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/cs.po | 
+ | [de](/f8/language/de) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/de.po | 
+ | [el](/f8/language/el) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/el.po | 
+ | [en_GB](/f8/language/en_GB) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/en_GB.po | 
+ | [eu](/f8/language/eu) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/eu.po | 
+ | [fi](/f8/language/fi) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/fi.po | 
+ | [fr](/f8/language/fr) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/fr.po | 
+ | [he](/f8/language/he) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/he.po | 
+ | [ja](/f8/language/ja) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ja.po | 
+ | [ko](/f8/language/ko) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ko.po | 
+ | [mk](/f8/language/mk) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/mk.po | 
+ | [pa](/f8/language/pa) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pa.po | 
+ | [pl](/f8/language/pl) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ro.po | 
+ | [tr](/f8/language/tr) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/tr.po | 
+ | [uk](/f8/language/uk) | 475 | 475 | 100.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/uk.po | 
+ | [dz](/f8/language/dz) | 474 | 475 | 99.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/dz.po | 
+ | [ru](/f8/language/ru) | 474 | 475 | 99.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ru.po | 
+ | [hu](/f8/language/hu) | 473 | 475 | 99.6 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/hu.po | 
+ | [nl](/f8/language/nl) | 466 | 475 | 98.1 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/nl.po | 
+ | [vi](/f8/language/vi) | 460 | 475 | 96.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/vi.po | 
+ | [sv](/f8/language/sv) | 449 | 475 | 94.5 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/sv.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 438 | 475 | 92.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/zh_TW.po | 
+ | [gl](/f8/language/gl) | 423 | 475 | 89.1 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/gl.po | 
+ | [sk](/f8/language/sk) | 388 | 475 | 81.7 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/sk.po | 
+ | [et](/f8/language/et) | 382 | 475 | 80.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/et.po | 
+ | [eo](/f8/language/eo) | 381 | 475 | 80.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/eo.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 377 | 475 | 79.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/zh_CN.po | 
+ | [it](/f8/language/it) | 352 | 475 | 74.1 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/it.po | 
+ | [es](/f8/language/es) | 326 | 475 | 68.6 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/es.po | 
+ | [gu](/f8/language/gu) | 265 | 475 | 55.8 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/gu.po | 
+ | [bn_IN](/f8/language/bn_IN) | 205 | 475 | 43.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/bn_IN.po | 
+ | [mr](/f8/language/mr) | 205 | 475 | 43.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/mr.po | 
+ | [az](/f8/language/az) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/az.po | 
+ | [es_MX](/f8/language/es_MX) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/es_MX.po | 
+ | [fa](/f8/language/fa) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/fa.po | 
+ | [lt](/f8/language/lt) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/lt.po | 
+ | [pt_PT](/f8/language/pt_PT) | 173 | 475 | 36.4 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/pt_PT.po | 
+ | [ta](/f8/language/ta) | 77 | 475 | 16.2 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ta.po | 
+ | [ms](/f8/language/ms) | 68 | 475 | 14.3 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ms.po | 
+ | [ar](/f8/language/ar) | 65 | 475 | 13.7 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ar.po | 
+ | [bg](/f8/language/bg) | 57 | 475 | 12.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/bg.po | 
+ | [hi](/f8/language/hi) | 57 | 475 | 12.0 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/hi.po | 
+ | [ka](/f8/language/ka) | 3 | 475 | 0.6 | /mnt/stockage/packages/f8/xfce-mcs-plugins/po/ka.po | 
 {.sortable}
 
 

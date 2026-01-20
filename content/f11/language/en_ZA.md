@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f11/package/tuxpaint.md" >}}) | 551 | 761 | 72.4 | English (South African) <en_za@li.org> | 
- | [virtaal]({{< ref "/f11/package/virtaal.md" >}}) | 42 | 1116 | 3.8 | English <translate-devel@lists.sourceforge.net> | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f11/package/tuxpaint) | 551 | 761 | 72.4 | English (South African) <en_za@li.org> | 
+ | [virtaal](/f11/package/virtaal) | 42 | 1116 | 3.8 | English <translate-devel@lists.sourceforge.net> | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

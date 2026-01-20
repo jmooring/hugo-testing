@@ -18,13 +18,13 @@ The package gtypist (version 2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/ru.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 291 | 477 | 61.0 | /mnt/stockage/packages/f9/gtypist/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 291 | 477 | 61.0 | /mnt/stockage/packages/f9/gtypist/po/de.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 291 | 477 | 61.0 | /mnt/stockage/packages/f9/gtypist/po/zh_TW.po | 
+ | [es](/f9/language/es) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/es.po | 
+ | [fi](/f9/language/fi) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/fi.po | 
+ | [fr](/f9/language/fr) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/fr.po | 
+ | [ru](/f9/language/ru) | 477 | 477 | 100.0 | /mnt/stockage/packages/f9/gtypist/po/ru.po | 
+ | [cs](/f9/language/cs) | 291 | 477 | 61.0 | /mnt/stockage/packages/f9/gtypist/po/cs.po | 
+ | [de](/f9/language/de) | 291 | 477 | 61.0 | /mnt/stockage/packages/f9/gtypist/po/de.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 291 | 477 | 61.0 | /mnt/stockage/packages/f9/gtypist/po/zh_TW.po | 
 {.sortable}
 
 

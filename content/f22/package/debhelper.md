@@ -18,10 +18,10 @@ The package debhelper (version 9.20150507):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 14365 | 14365 | 100.0 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/pt.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 13755 | 14365 | 95.8 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 13343 | 14365 | 92.9 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/fr.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 13040 | 14365 | 90.8 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/es.po | 
+ | [pt](/f22/language/pt) | 14365 | 14365 | 100.0 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/pt.po | 
+ | [de](/f22/language/de) | 13755 | 14365 | 95.8 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/de.po | 
+ | [fr](/f22/language/fr) | 13343 | 14365 | 92.9 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/fr.po | 
+ | [es](/f22/language/es) | 13040 | 14365 | 90.8 | /mnt/stockage/packages/f22/debhelper/man/po4a/po/es.po | 
 {.sortable}
 
 

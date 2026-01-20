@@ -18,28 +18,28 @@ The package arm-none-eabi-gcc-cs (version 7.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 97200 | 97200 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/de.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/de.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libstdc++-v3/po/de.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/pt_BR.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 97198 | 97200 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/fr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/fr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libstdc++-v3/po/fr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 95824 | 97195 | 98.6 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/sv.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/sv.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 959 | 1342 | 71.5 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/ca.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 67053 | 97195 | 69.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/es.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/es.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 42162 | 97195 | 43.4 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/ru.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/ru.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 34962 | 97195 | 36.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/zh_CN.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 30664 | 97195 | 31.5 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/vi.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/vi.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 24722 | 97195 | 25.4 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/id.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/id.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 20694 | 97195 | 21.3 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/sr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/sr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 18678 | 97195 | 19.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/tr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 16952 | 97195 | 17.4 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/zh_TW.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/zh_TW.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 16725 | 97195 | 17.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/ja.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/ja.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 12823 | 97195 | 13.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/fi.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/fi.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 11581 | 97195 | 11.9 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/da.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/da.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 5891 | 97195 | 6.1 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/nl.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/nl.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2527 | 97195 | 2.6 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/uk.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/uk.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 530 | 95853 | 0.6 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/hr.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 228 | 97195 | 0.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/be.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/be.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 185 | 97195 | 0.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/el.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/el.po | 
+ | [de](/f24/language/de) | 97200 | 97200 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/de.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/de.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libstdc++-v3/po/de.po | 
+ | [eo](/f24/language/eo) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/eo.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/pt_BR.po | 
+ | [fr](/f24/language/fr) | 97198 | 97200 | 100.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/fr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/fr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libstdc++-v3/po/fr.po | 
+ | [sv](/f24/language/sv) | 95824 | 97195 | 98.6 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/sv.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/sv.po | 
+ | [ca](/f24/language/ca) | 959 | 1342 | 71.5 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/ca.po | 
+ | [es](/f24/language/es) | 67053 | 97195 | 69.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/es.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/es.po | 
+ | [ru](/f24/language/ru) | 42162 | 97195 | 43.4 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/ru.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/ru.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 34962 | 97195 | 36.0 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/zh_CN.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/zh_CN.po | 
+ | [vi](/f24/language/vi) | 30664 | 97195 | 31.5 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/vi.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/vi.po | 
+ | [id](/f24/language/id) | 24722 | 97195 | 25.4 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/id.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/id.po | 
+ | [sr](/f24/language/sr) | 20694 | 97195 | 21.3 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/sr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/sr.po | 
+ | [tr](/f24/language/tr) | 18678 | 97195 | 19.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/tr.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/tr.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 16952 | 97195 | 17.4 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/zh_TW.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/zh_TW.po | 
+ | [ja](/f24/language/ja) | 16725 | 97195 | 17.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/ja.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/ja.po | 
+ | [fi](/f24/language/fi) | 12823 | 97195 | 13.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/fi.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/fi.po | 
+ | [da](/f24/language/da) | 11581 | 97195 | 11.9 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/da.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/da.po | 
+ | [nl](/f24/language/nl) | 5891 | 97195 | 6.1 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/nl.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/nl.po | 
+ | [uk](/f24/language/uk) | 2527 | 97195 | 2.6 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/uk.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/uk.po | 
+ | [hr](/f24/language/hr) | 530 | 95853 | 0.6 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/hr.po | 
+ | [be](/f24/language/be) | 228 | 97195 | 0.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/be.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/be.po | 
+ | [el](/f24/language/el) | 185 | 97195 | 0.2 | /mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/gcc/po/el.po/mnt/stockage/packages/f24/arm-none-eabi-gcc-cs/libcpp/po/el.po | 
 {.sortable}
 
 

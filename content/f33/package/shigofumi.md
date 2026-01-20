@@ -18,7 +18,7 @@ The package shigofumi (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 7624 | 7624 | 100.0 | /mnt/stockage/packages/f33/shigofumi/doc/po/cs.po/mnt/stockage/packages/f33/shigofumi/po/cs.po | 
+ | [cs](/f33/language/cs) | 7624 | 7624 | 100.0 | /mnt/stockage/packages/f33/shigofumi/doc/po/cs.po/mnt/stockage/packages/f33/shigofumi/po/cs.po | 
 {.sortable}
 
 

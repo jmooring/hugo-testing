@@ -18,9 +18,9 @@ The package python-oslo-utils (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/de/LC_MESSAGES/oslo.utils-log-info.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/de/LC_MESSAGES/oslo.utils.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-error.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-warning.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/fr/LC_MESSAGES/oslo.utils.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/fr/LC_MESSAGES/oslo.utils-log-error.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/fr/LC_MESSAGES/oslo.utils-log-warning.po | 
+ | [de](/f23/language/de) | 45 | 45 | 100.0 | /mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/de/LC_MESSAGES/oslo.utils-log-info.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/de/LC_MESSAGES/oslo.utils.po | 
+ | [en_GB](/f23/language/en_GB) | 44 | 44 | 100.0 | /mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-error.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/en_GB/LC_MESSAGES/oslo.utils-log-warning.po | 
+ | [fr](/f23/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/fr/LC_MESSAGES/oslo.utils.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/fr/LC_MESSAGES/oslo.utils-log-error.po/mnt/stockage/packages/f23/python-oslo-utils/oslo.utils/locale/fr/LC_MESSAGES/oslo.utils-log-warning.po | 
 {.sortable}
 
 

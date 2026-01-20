@@ -18,7 +18,7 @@ The package mdk (version 1.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f20/mdk/po/de.po | 
+ | [de](/f20/language/de) | 1191 | 1191 | 100.0 | /mnt/stockage/packages/f20/mdk/po/de.po | 
 {.sortable}
 
 

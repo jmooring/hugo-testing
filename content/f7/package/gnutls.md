@@ -18,10 +18,10 @@ The package gnutls (version 1.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/de.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/en@quot.po/mnt/stockage/packages/f7/gnutls/po/en@boldquot.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/pl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/sv.po | 
+ | [de](/f7/language/de) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/de.po | 
+ | [error](/f7/language/error) | 1174 | 1174 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/en@quot.po/mnt/stockage/packages/f7/gnutls/po/en@boldquot.po | 
+ | [pl](/f7/language/pl) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/pl.po | 
+ | [sv](/f7/language/sv) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/gnutls/po/sv.po | 
 {.sortable}
 
 

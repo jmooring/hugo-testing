@@ -18,7 +18,7 @@ The package drupal6-login_destination (version 2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 151 | 151 | 100.0 | /mnt/stockage/packages/f19/drupal6-login_destination/translations/ja.po | 
+ | [ja](/f19/language/ja) | 151 | 151 | 100.0 | /mnt/stockage/packages/f19/drupal6-login_destination/translations/ja.po | 
 {.sortable}
 
 

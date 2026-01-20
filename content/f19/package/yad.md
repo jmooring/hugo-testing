@@ -18,12 +18,12 @@ The package yad (version 0.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1284 | 1284 | 100.0 | /mnt/stockage/packages/f19/yad/po/ru.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 1284 | 1284 | 100.0 | /mnt/stockage/packages/f19/yad/po/uk.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 1240 | 1284 | 96.6 | /mnt/stockage/packages/f19/yad/po/sk.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2202 | 2568 | 85.7 | /mnt/stockage/packages/f19/yad/po/fr.po/mnt/stockage/packages/f19/yad/po/it.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 1081 | 1284 | 84.2 | /mnt/stockage/packages/f19/yad/po/zh_TW.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 388 | 1284 | 30.2 | /mnt/stockage/packages/f19/yad/po/de.po | 
+ | [ru](/f19/language/ru) | 1284 | 1284 | 100.0 | /mnt/stockage/packages/f19/yad/po/ru.po | 
+ | [uk](/f19/language/uk) | 1284 | 1284 | 100.0 | /mnt/stockage/packages/f19/yad/po/uk.po | 
+ | [sk](/f19/language/sk) | 1240 | 1284 | 96.6 | /mnt/stockage/packages/f19/yad/po/sk.po | 
+ | [fr](/f19/language/fr) | 2202 | 2568 | 85.7 | /mnt/stockage/packages/f19/yad/po/fr.po/mnt/stockage/packages/f19/yad/po/it.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 1081 | 1284 | 84.2 | /mnt/stockage/packages/f19/yad/po/zh_TW.po | 
+ | [de](/f19/language/de) | 388 | 1284 | 30.2 | /mnt/stockage/packages/f19/yad/po/de.po | 
 {.sortable}
 
 

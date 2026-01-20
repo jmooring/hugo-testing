@@ -18,18 +18,18 @@ The package 0ad (version 0.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/ca.engine.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/de.engine.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/en_GB.engine.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/es.engine.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/fr.engine.po | 
- | [gd]({{< ref "/f19/language/gd.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/gd.engine.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/gl.engine.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/it.engine.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/nl.engine.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/pt_BR.engine.po | 
- | [pt_PT]({{< ref "/f19/language/pt_PT.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/pt_PT.engine.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/cs.engine.po | 
+ | [ca](/f19/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/ca.engine.po | 
+ | [de](/f19/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/de.engine.po | 
+ | [en_GB](/f19/language/en_GB) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/en_GB.engine.po | 
+ | [es](/f19/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/es.engine.po | 
+ | [fr](/f19/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/fr.engine.po | 
+ | [gd](/f19/language/gd) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/gd.engine.po | 
+ | [gl](/f19/language/gl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/gl.engine.po | 
+ | [it](/f19/language/it) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/it.engine.po | 
+ | [nl](/f19/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/nl.engine.po | 
+ | [pt_BR](/f19/language/pt_BR) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/pt_BR.engine.po | 
+ | [pt_PT](/f19/language/pt_PT) | 17 | 17 | 100.0 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/pt_PT.engine.po | 
+ | [cs](/f19/language/cs) | 13 | 17 | 76.5 | /mnt/stockage/packages/f19/0ad/binaries/data/l10n/cs.engine.po | 
 {.sortable}
 
 

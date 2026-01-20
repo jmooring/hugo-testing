@@ -18,11 +18,11 @@ The package kompose (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f10/kompose/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 494 | 537 | 92.0 | /mnt/stockage/packages/f10/kompose/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 494 | 537 | 92.0 | /mnt/stockage/packages/f10/kompose/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 494 | 537 | 92.0 | /mnt/stockage/packages/f10/kompose/po/it.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 0 | 537 | 0.0 | /mnt/stockage/packages/f10/kompose/po/da.po | 
+ | [de](/f10/language/de) | 537 | 537 | 100.0 | /mnt/stockage/packages/f10/kompose/po/de.po | 
+ | [es](/f10/language/es) | 494 | 537 | 92.0 | /mnt/stockage/packages/f10/kompose/po/es.po | 
+ | [fr](/f10/language/fr) | 494 | 537 | 92.0 | /mnt/stockage/packages/f10/kompose/po/fr.po | 
+ | [it](/f10/language/it) | 494 | 537 | 92.0 | /mnt/stockage/packages/f10/kompose/po/it.po | 
+ | [da](/f10/language/da) | 0 | 537 | 0.0 | /mnt/stockage/packages/f10/kompose/po/da.po | 
 {.sortable}
 
 

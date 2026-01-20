@@ -18,61 +18,61 @@ The package desktop-effects (version 0.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/as.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ast.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/de.po | 
- | [de_CH]({{< ref "/f12/language/de_CH.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/de_CH.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/fr.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/gu.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/he.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/hi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/hu.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/is.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ko.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/mai.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/nl.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sk.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/te.po | 
- | [tg]({{< ref "/f12/language/tg.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/tg.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/th.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/uk.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/zh_TW.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/bg.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/bs.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/hr.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/id.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/ka.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/mk.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/ms.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/si.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/sl.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 29 | 148 | 19.6 | /mnt/stockage/packages/f12/desktop-effects/po/ro.po | 
- | [ur]({{< ref "/f12/language/ur.md" >}}) | 0 | 148 | 0.0 | /mnt/stockage/packages/f12/desktop-effects/po/ur.po | 
+ | [ar](/f12/language/ar) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ar.po | 
+ | [as](/f12/language/as) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/as.po | 
+ | [ast](/f12/language/ast) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ast.po | 
+ | [bn_IN](/f12/language/bn_IN) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ca.po | 
+ | [cs](/f12/language/cs) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/cs.po | 
+ | [da](/f12/language/da) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/da.po | 
+ | [de](/f12/language/de) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/de.po | 
+ | [de_CH](/f12/language/de_CH) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/de_CH.po | 
+ | [el](/f12/language/el) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/el.po | 
+ | [es](/f12/language/es) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/es.po | 
+ | [fi](/f12/language/fi) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/fi.po | 
+ | [fr](/f12/language/fr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/fr.po | 
+ | [gu](/f12/language/gu) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/gu.po | 
+ | [he](/f12/language/he) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/he.po | 
+ | [hi](/f12/language/hi) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/hi.po | 
+ | [hu](/f12/language/hu) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/hu.po | 
+ | [is](/f12/language/is) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/is.po | 
+ | [it](/f12/language/it) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/it.po | 
+ | [ja](/f12/language/ja) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ja.po | 
+ | [kn](/f12/language/kn) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/kn.po | 
+ | [ko](/f12/language/ko) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ko.po | 
+ | [mai](/f12/language/mai) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/mai.po | 
+ | [ml](/f12/language/ml) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ml.po | 
+ | [mr](/f12/language/mr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/nb.po | 
+ | [nl](/f12/language/nl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/nl.po | 
+ | [or](/f12/language/or) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/or.po | 
+ | [pa](/f12/language/pa) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pa.po | 
+ | [pl](/f12/language/pl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pl.po | 
+ | [pt](/f12/language/pt) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ru.po | 
+ | [sk](/f12/language/sk) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sk.po | 
+ | [sr](/f12/language/sr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/sv.po | 
+ | [ta](/f12/language/ta) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/ta.po | 
+ | [te](/f12/language/te) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/te.po | 
+ | [tg](/f12/language/tg) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/tg.po | 
+ | [th](/f12/language/th) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/th.po | 
+ | [uk](/f12/language/uk) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/uk.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 148 | 148 | 100.0 | /mnt/stockage/packages/f12/desktop-effects/po/zh_TW.po | 
+ | [bg](/f12/language/bg) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/bg.po | 
+ | [bs](/f12/language/bs) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/bs.po | 
+ | [hr](/f12/language/hr) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/hr.po | 
+ | [id](/f12/language/id) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/id.po | 
+ | [ka](/f12/language/ka) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/ka.po | 
+ | [mk](/f12/language/mk) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/mk.po | 
+ | [ms](/f12/language/ms) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/ms.po | 
+ | [si](/f12/language/si) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/si.po | 
+ | [sl](/f12/language/sl) | 63 | 148 | 42.6 | /mnt/stockage/packages/f12/desktop-effects/po/sl.po | 
+ | [ro](/f12/language/ro) | 29 | 148 | 19.6 | /mnt/stockage/packages/f12/desktop-effects/po/ro.po | 
+ | [ur](/f12/language/ur) | 0 | 148 | 0.0 | /mnt/stockage/packages/f12/desktop-effects/po/ur.po | 
 {.sortable}
 
 

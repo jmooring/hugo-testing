@@ -18,75 +18,75 @@ The package rhn-client-tools (version 1.6.46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 3506 | 4348 | 80.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/fr.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 3484 | 4348 | 80.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/de.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 3484 | 4348 | 80.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/ru.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/bn_IN.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/es.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/gu.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/hi.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/it.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ko.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ml.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/mr.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/pa.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/pt_BR.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/te.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 3400 | 4348 | 78.2 | /mnt/stockage/packages/f17/rhn-client-tools/po/as.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 3114 | 4348 | 71.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/sv.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/hr.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/pt.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/si.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/uk.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1760 | 4348 | 40.5 | /mnt/stockage/packages/f17/rhn-client-tools/po/cs.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 3506 | 8696 | 40.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ja_JP.po/mnt/stockage/packages/f17/rhn-client-tools/po/ja.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 3403 | 8696 | 39.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/zh_TW.po/mnt/stockage/packages/f17/rhn-client-tools/po/zh_TW.Big5.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 3401 | 8696 | 39.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/zh_CN.po/mnt/stockage/packages/f17/rhn-client-tools/po/zh_CN.GB2312.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 775 | 4348 | 17.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 563 | 4348 | 12.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/pl.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/ca.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/da.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/et.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/is.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/sk.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/sr.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/ar.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/bg.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/bn.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/cy.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/hu.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/mk.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1031 | 8696 | 11.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/no.po/mnt/stockage/packages/f17/rhn-client-tools/po/nb.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 476 | 4348 | 10.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/sl.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 476 | 4348 | 10.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/tr.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 446 | 4348 | 10.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/fi.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 174 | 4348 | 4.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/el.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 166 | 4348 | 3.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/ms.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 81 | 4348 | 1.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/ro.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 10 | 4348 | 0.2 | /mnt/stockage/packages/f17/rhn-client-tools/po/id.po | 
- | [aln]({{< ref "/f17/language/aln.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/aln.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ast.po | 
- | [bn_BD]({{< ref "/f17/language/bn_BD.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/bn_BD.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/bs.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/en_GB.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 0 | 8696 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/fa_IR.po/mnt/stockage/packages/f17/rhn-client-tools/po/fa.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/he.po | 
- | [hy]({{< ref "/f17/language/hy.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/hy.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ka.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ku.po | 
- | [lo]({{< ref "/f17/language/lo.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/lo.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/lv.po | 
- | [my]({{< ref "/f17/language/my.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/my.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/nn.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/sq.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/sr@Latn.po | 
- | [tg]({{< ref "/f17/language/tg.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/tg.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ur.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/vi.po | 
+ | [fr](/f17/language/fr) | 3506 | 4348 | 80.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/fr.po | 
+ | [de](/f17/language/de) | 3484 | 4348 | 80.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/de.po | 
+ | [ru](/f17/language/ru) | 3484 | 4348 | 80.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/ru.po | 
+ | [bn_IN](/f17/language/bn_IN) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/bn_IN.po | 
+ | [es](/f17/language/es) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/es.po | 
+ | [gu](/f17/language/gu) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/gu.po | 
+ | [hi](/f17/language/hi) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/hi.po | 
+ | [it](/f17/language/it) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/it.po | 
+ | [kn](/f17/language/kn) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/kn.po | 
+ | [ko](/f17/language/ko) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ko.po | 
+ | [ml](/f17/language/ml) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ml.po | 
+ | [mr](/f17/language/mr) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/mr.po | 
+ | [or](/f17/language/or) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/or.po | 
+ | [pa](/f17/language/pa) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/pa.po | 
+ | [pt_BR](/f17/language/pt_BR) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/pt_BR.po | 
+ | [ta](/f17/language/ta) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ta.po | 
+ | [te](/f17/language/te) | 3403 | 4348 | 78.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/te.po | 
+ | [as](/f17/language/as) | 3400 | 4348 | 78.2 | /mnt/stockage/packages/f17/rhn-client-tools/po/as.po | 
+ | [sv](/f17/language/sv) | 3114 | 4348 | 71.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/sv.po | 
+ | [hr](/f17/language/hr) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/hr.po | 
+ | [pt](/f17/language/pt) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/pt.po | 
+ | [si](/f17/language/si) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/si.po | 
+ | [uk](/f17/language/uk) | 2380 | 4348 | 54.7 | /mnt/stockage/packages/f17/rhn-client-tools/po/uk.po | 
+ | [cs](/f17/language/cs) | 1760 | 4348 | 40.5 | /mnt/stockage/packages/f17/rhn-client-tools/po/cs.po | 
+ | [ja](/f17/language/ja) | 3506 | 8696 | 40.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/ja_JP.po/mnt/stockage/packages/f17/rhn-client-tools/po/ja.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 3403 | 8696 | 39.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/zh_TW.po/mnt/stockage/packages/f17/rhn-client-tools/po/zh_TW.Big5.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 3401 | 8696 | 39.1 | /mnt/stockage/packages/f17/rhn-client-tools/po/zh_CN.po/mnt/stockage/packages/f17/rhn-client-tools/po/zh_CN.GB2312.po | 
+ | [nl](/f17/language/nl) | 775 | 4348 | 17.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/nl.po | 
+ | [pl](/f17/language/pl) | 563 | 4348 | 12.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/pl.po | 
+ | [ca](/f17/language/ca) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/ca.po | 
+ | [da](/f17/language/da) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/da.po | 
+ | [et](/f17/language/et) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/et.po | 
+ | [is](/f17/language/is) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/is.po | 
+ | [sk](/f17/language/sk) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/sk.po | 
+ | [sr](/f17/language/sr) | 555 | 4348 | 12.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/sr.po | 
+ | [ar](/f17/language/ar) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/ar.po | 
+ | [bg](/f17/language/bg) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/bg.po | 
+ | [bn](/f17/language/bn) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/bn.po | 
+ | [cy](/f17/language/cy) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/cy.po | 
+ | [hu](/f17/language/hu) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/hu.po | 
+ | [mk](/f17/language/mk) | 546 | 4348 | 12.6 | /mnt/stockage/packages/f17/rhn-client-tools/po/mk.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1031 | 8696 | 11.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/no.po/mnt/stockage/packages/f17/rhn-client-tools/po/nb.po | 
+ | [sl](/f17/language/sl) | 476 | 4348 | 10.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/sl.po | 
+ | [tr](/f17/language/tr) | 476 | 4348 | 10.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/tr.po | 
+ | [fi](/f17/language/fi) | 446 | 4348 | 10.3 | /mnt/stockage/packages/f17/rhn-client-tools/po/fi.po | 
+ | [el](/f17/language/el) | 174 | 4348 | 4.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/el.po | 
+ | [ms](/f17/language/ms) | 166 | 4348 | 3.8 | /mnt/stockage/packages/f17/rhn-client-tools/po/ms.po | 
+ | [ro](/f17/language/ro) | 81 | 4348 | 1.9 | /mnt/stockage/packages/f17/rhn-client-tools/po/ro.po | 
+ | [id](/f17/language/id) | 10 | 4348 | 0.2 | /mnt/stockage/packages/f17/rhn-client-tools/po/id.po | 
+ | [aln](/f17/language/aln) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/aln.po | 
+ | [ast](/f17/language/ast) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ast.po | 
+ | [bn_BD](/f17/language/bn_BD) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/bn_BD.po | 
+ | [bs](/f17/language/bs) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/bs.po | 
+ | [en_GB](/f17/language/en_GB) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/en_GB.po | 
+ | [fa](/f17/language/fa) | 0 | 8696 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/fa_IR.po/mnt/stockage/packages/f17/rhn-client-tools/po/fa.po | 
+ | [he](/f17/language/he) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/he.po | 
+ | [hy](/f17/language/hy) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/hy.po | 
+ | [ka](/f17/language/ka) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ka.po | 
+ | [ku](/f17/language/ku) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ku.po | 
+ | [lo](/f17/language/lo) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/lo.po | 
+ | [lt](/f17/language/lt) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/lt.po | 
+ | [lv](/f17/language/lv) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/lv.po | 
+ | [my](/f17/language/my) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/my.po | 
+ | [nn](/f17/language/nn) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/nn.po | 
+ | [sq](/f17/language/sq) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/sq.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/sr@Latn.po | 
+ | [tg](/f17/language/tg) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/tg.po | 
+ | [ur](/f17/language/ur) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/ur.po | 
+ | [vi](/f17/language/vi) | 0 | 4348 | 0.0 | /mnt/stockage/packages/f17/rhn-client-tools/po/vi.po | 
 {.sortable}
 
 

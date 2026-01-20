@@ -18,12 +18,12 @@ The package urlgfe (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/urlgfe/po/ru.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 422 | 423 | 99.8 | /mnt/stockage/packages/f7/urlgfe/po/fr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 421 | 423 | 99.5 | /mnt/stockage/packages/f7/urlgfe/po/pl.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 419 | 423 | 99.1 | /mnt/stockage/packages/f7/urlgfe/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 418 | 423 | 98.8 | /mnt/stockage/packages/f7/urlgfe/po/zh_CN.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 307 | 423 | 72.6 | /mnt/stockage/packages/f7/urlgfe/po/it.po | 
+ | [ru](/f7/language/ru) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/urlgfe/po/ru.po | 
+ | [fr](/f7/language/fr) | 422 | 423 | 99.8 | /mnt/stockage/packages/f7/urlgfe/po/fr.po | 
+ | [pl](/f7/language/pl) | 421 | 423 | 99.5 | /mnt/stockage/packages/f7/urlgfe/po/pl.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 419 | 423 | 99.1 | /mnt/stockage/packages/f7/urlgfe/po/zh_TW.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 418 | 423 | 98.8 | /mnt/stockage/packages/f7/urlgfe/po/zh_CN.po | 
+ | [it](/f7/language/it) | 307 | 423 | 72.6 | /mnt/stockage/packages/f7/urlgfe/po/it.po | 
 {.sortable}
 
 

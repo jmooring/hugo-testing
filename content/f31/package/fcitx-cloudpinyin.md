@@ -18,15 +18,15 @@ The package fcitx-cloudpinyin (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ca.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/de.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ja.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ko.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ru.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/zh_TW.po | 
+ | [ca](/f31/language/ca) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ca.po | 
+ | [da](/f31/language/da) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/da.po | 
+ | [de](/f31/language/de) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/de.po | 
+ | [ja](/f31/language/ja) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ja.po | 
+ | [ko](/f31/language/ko) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ko.po | 
+ | [ru](/f31/language/ru) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/ru.po | 
+ | [tr](/f31/language/tr) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 63 | 63 | 100.0 | /mnt/stockage/packages/f31/fcitx-cloudpinyin/po/zh_TW.po | 
 {.sortable}
 
 

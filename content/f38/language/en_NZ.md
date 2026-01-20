@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f38/package/gnucash.md" >}}) | 38819 | 38819 | 100.0 | English (New Zealand) <https://hosted.weblate.org/projects/gnucash/gnucash/en_NZ/> | 
- | [python-django]({{< ref "/f38/package/python-django.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-django3]({{< ref "/f38/package/python-django3.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [avahi]({{< ref "/f38/package/avahi.md" >}}) | 758 | 868 | 87.3 | British English <en@li.org> | 
- | [gxmessage]({{< ref "/f38/package/gxmessage.md" >}}) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 4 | 7238 | 0.1 | English (New Zealand) <en_NZ@li.org> | 
+ | [gnucash](/f38/package/gnucash) | 38819 | 38819 | 100.0 | English (New Zealand) <https://hosted.weblate.org/projects/gnucash/gnucash/en_NZ/> | 
+ | [python-django](/f38/package/python-django) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-django3](/f38/package/python-django3) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [avahi](/f38/package/avahi) | 758 | 868 | 87.3 | British English <en@li.org> | 
+ | [gxmessage](/f38/package/gxmessage) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 4 | 7238 | 0.1 | English (New Zealand) <en_NZ@li.org> | 
 {.sortable}
 
 

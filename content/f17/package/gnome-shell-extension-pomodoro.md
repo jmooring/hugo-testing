@@ -18,9 +18,9 @@ The package gnome-shell-extension-pomodoro (version 0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extension-pomodoro/po/ca.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 262 | 262 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extension-pomodoro/po/es.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 202 | 229 | 88.2 | /mnt/stockage/packages/f17/gnome-shell-extension-pomodoro/po/pl.po | 
+ | [ca](/f17/language/ca) | 262 | 262 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extension-pomodoro/po/ca.po | 
+ | [es](/f17/language/es) | 262 | 262 | 100.0 | /mnt/stockage/packages/f17/gnome-shell-extension-pomodoro/po/es.po | 
+ | [pl](/f17/language/pl) | 202 | 229 | 88.2 | /mnt/stockage/packages/f17/gnome-shell-extension-pomodoro/po/pl.po | 
 {.sortable}
 
 

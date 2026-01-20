@@ -18,10 +18,10 @@ The package fish (version 1.23.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 10009 | 10544 | 94.9 | /mnt/stockage/packages/f9/fish/po/de.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 5671 | 8912 | 63.6 | /mnt/stockage/packages/f9/fish/po/sv.po | 
- | [en]({{< ref "/f9/language/en.md" >}}) | 5291 | 8912 | 59.4 | /mnt/stockage/packages/f9/fish/po/en.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 4071 | 14333 | 28.4 | /mnt/stockage/packages/f9/fish/po/fr.po | 
+ | [de](/f9/language/de) | 10009 | 10544 | 94.9 | /mnt/stockage/packages/f9/fish/po/de.po | 
+ | [sv](/f9/language/sv) | 5671 | 8912 | 63.6 | /mnt/stockage/packages/f9/fish/po/sv.po | 
+ | [en](/f9/language/en) | 5291 | 8912 | 59.4 | /mnt/stockage/packages/f9/fish/po/en.po | 
+ | [fr](/f9/language/fr) | 4071 | 14333 | 28.4 | /mnt/stockage/packages/f9/fish/po/fr.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package libgpod (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f9/libgpod/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f9/libgpod/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 842 | 842 | 100.0 | /mnt/stockage/packages/f9/libgpod/po/it.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 819 | 842 | 97.3 | /mnt/stockage/packages/f9/libgpod/po/ro.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 738 | 842 | 87.6 | /mnt/stockage/packages/f9/libgpod/po/de.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 729 | 842 | 86.6 | /mnt/stockage/packages/f9/libgpod/po/sv.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 713 | 842 | 84.7 | /mnt/stockage/packages/f9/libgpod/po/ja.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 205 | 842 | 24.3 | /mnt/stockage/packages/f9/libgpod/po/he.po | 
+ | [es](/f9/language/es) | 842 | 842 | 100.0 | /mnt/stockage/packages/f9/libgpod/po/es.po | 
+ | [fr](/f9/language/fr) | 842 | 842 | 100.0 | /mnt/stockage/packages/f9/libgpod/po/fr.po | 
+ | [it](/f9/language/it) | 842 | 842 | 100.0 | /mnt/stockage/packages/f9/libgpod/po/it.po | 
+ | [ro](/f9/language/ro) | 819 | 842 | 97.3 | /mnt/stockage/packages/f9/libgpod/po/ro.po | 
+ | [de](/f9/language/de) | 738 | 842 | 87.6 | /mnt/stockage/packages/f9/libgpod/po/de.po | 
+ | [sv](/f9/language/sv) | 729 | 842 | 86.6 | /mnt/stockage/packages/f9/libgpod/po/sv.po | 
+ | [ja](/f9/language/ja) | 713 | 842 | 84.7 | /mnt/stockage/packages/f9/libgpod/po/ja.po | 
+ | [he](/f9/language/he) | 205 | 842 | 24.3 | /mnt/stockage/packages/f9/libgpod/po/he.po | 
 {.sortable}
 
 

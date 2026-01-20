@@ -18,9 +18,9 @@ The package glipper (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f10/language/it.md" >}}) | 1837 | 2207 | 83.2 | /mnt/stockage/packages/f10/glipper/help/it/it.po/mnt/stockage/packages/f10/glipper/po/it.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1830 | 2207 | 82.9 | /mnt/stockage/packages/f10/glipper/help/de/de.po/mnt/stockage/packages/f10/glipper/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 0 | 1948 | 0.0 | /mnt/stockage/packages/f10/glipper/help/fr/fr.po | 
+ | [it](/f10/language/it) | 1837 | 2207 | 83.2 | /mnt/stockage/packages/f10/glipper/help/it/it.po/mnt/stockage/packages/f10/glipper/po/it.po | 
+ | [de](/f10/language/de) | 1830 | 2207 | 82.9 | /mnt/stockage/packages/f10/glipper/help/de/de.po/mnt/stockage/packages/f10/glipper/po/de.po | 
+ | [fr](/f10/language/fr) | 0 | 1948 | 0.0 | /mnt/stockage/packages/f10/glipper/help/fr/fr.po | 
 {.sortable}
 
 

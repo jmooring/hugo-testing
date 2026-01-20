@@ -18,94 +18,94 @@ The package gnome-settings-daemon (version 2.32.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/as.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 1620 | 1620 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ast.po | 
- | [be_Latn]({{< ref "/f14/language/be_Latn.md" >}}) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/be@latin.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bg.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bn.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bn_IN.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 3976 | 3976 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ca.po/mnt/stockage/packages/f14/gnome-settings-daemon/po/ca@valencia.po | 
- | [crh]({{< ref "/f14/language/crh.md" >}}) | 1836 | 1836 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/crh.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/et.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 1735 | 1735 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/gl.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/gu.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/he.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ko.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/lt.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/lv.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mk.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ml.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nl.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 1836 | 1836 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sk.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ta.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/th.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 1618 | 1618 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zh_HK.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 1978 | 1988 | 99.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 1978 | 1988 | 99.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sr@latin.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 1704 | 1722 | 99.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nn.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 1619 | 1836 | 88.2 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/kn.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 1622 | 1853 | 87.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mr.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 1622 | 1853 | 87.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/te.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 1652 | 1959 | 84.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/en@shaw.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 1546 | 1988 | 77.8 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nb.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 1460 | 1959 | 74.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/or.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 1259 | 1988 | 63.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ar.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 509 | 1080 | 47.1 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/af.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 441 | 1034 | 42.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/dz.po | 
- | [ka]({{< ref "/f14/language/ka.md" >}}) | 436 | 1034 | 42.2 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ka.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 412 | 1034 | 39.8 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/be.po | 
- | [cy]({{< ref "/f14/language/cy.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/cy.po | 
- | [mg]({{< ref "/f14/language/mg.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mg.po | 
- | [mn]({{< ref "/f14/language/mn.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mn.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sq.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 398 | 1034 | 38.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/en_CA.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 375 | 1034 | 36.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/fa.po | 
- | [ku]({{< ref "/f14/language/ku.md" >}}) | 369 | 1034 | 35.7 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ku.po | 
- | [az]({{< ref "/f14/language/az.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/az.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bs.po | 
- | [nso]({{< ref "/f14/language/nso.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nso.po | 
- | [xh]({{< ref "/f14/language/xh.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/xh.po | 
- | [zu]({{< ref "/f14/language/zu.md" >}}) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zu.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 257 | 1080 | 23.8 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/hr.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 366 | 1627 | 22.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ga.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 207 | 1034 | 20.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ms.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 158 | 1034 | 15.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/is.po | 
- | [mai]({{< ref "/f14/language/mai.md" >}}) | 227 | 1624 | 14.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mai.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 116 | 1034 | 11.2 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ne.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 99 | 1034 | 9.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/oc.po | 
- | [br]({{< ref "/f14/language/br.md" >}}) | 129 | 1618 | 8.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/br.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 123 | 1624 | 7.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nds.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 21 | 1034 | 2.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/si.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 18 | 1034 | 1.7 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/wa.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 6 | 1034 | 0.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/rw.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 3 | 1034 | 0.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/am.po | 
+ | [as](/f14/language/as) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/as.po | 
+ | [ast](/f14/language/ast) | 1620 | 1620 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ast.po | 
+ | [be_Latn](/f14/language/be_Latn) | 1034 | 1034 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/be@latin.po | 
+ | [bg](/f14/language/bg) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bg.po | 
+ | [bn](/f14/language/bn) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bn.po | 
+ | [bn_IN](/f14/language/bn_IN) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 3976 | 3976 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ca.po/mnt/stockage/packages/f14/gnome-settings-daemon/po/ca@valencia.po | 
+ | [crh](/f14/language/crh) | 1836 | 1836 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/crh.po | 
+ | [cs](/f14/language/cs) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/cs.po | 
+ | [da](/f14/language/da) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/da.po | 
+ | [de](/f14/language/de) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/de.po | 
+ | [el](/f14/language/el) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/en_GB.po | 
+ | [es](/f14/language/es) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/es.po | 
+ | [et](/f14/language/et) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/et.po | 
+ | [eu](/f14/language/eu) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/eu.po | 
+ | [fi](/f14/language/fi) | 1735 | 1735 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/fi.po | 
+ | [fr](/f14/language/fr) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/fr.po | 
+ | [gl](/f14/language/gl) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/gl.po | 
+ | [gu](/f14/language/gu) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/gu.po | 
+ | [he](/f14/language/he) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/he.po | 
+ | [hi](/f14/language/hi) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/hi.po | 
+ | [hu](/f14/language/hu) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/hu.po | 
+ | [id](/f14/language/id) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/id.po | 
+ | [it](/f14/language/it) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/it.po | 
+ | [ja](/f14/language/ja) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ja.po | 
+ | [ko](/f14/language/ko) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ko.po | 
+ | [lt](/f14/language/lt) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/lt.po | 
+ | [lv](/f14/language/lv) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/lv.po | 
+ | [mk](/f14/language/mk) | 1080 | 1080 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mk.po | 
+ | [ml](/f14/language/ml) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ml.po | 
+ | [nl](/f14/language/nl) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nl.po | 
+ | [pa](/f14/language/pa) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pa.po | 
+ | [pl](/f14/language/pl) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pl.po | 
+ | [pt](/f14/language/pt) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ro.po | 
+ | [ru](/f14/language/ru) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ru.po | 
+ | [sk](/f14/language/sk) | 1836 | 1836 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sk.po | 
+ | [sl](/f14/language/sl) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sl.po | 
+ | [sv](/f14/language/sv) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sv.po | 
+ | [ta](/f14/language/ta) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ta.po | 
+ | [th](/f14/language/th) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/th.po | 
+ | [tr](/f14/language/tr) | 1624 | 1624 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/tr.po | 
+ | [uk](/f14/language/uk) | 1722 | 1722 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/uk.po | 
+ | [vi](/f14/language/vi) | 1618 | 1618 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 1988 | 1988 | 100.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zh_HK.po | 
+ | [sr](/f14/language/sr) | 1978 | 1988 | 99.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 1978 | 1988 | 99.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sr@latin.po | 
+ | [nn](/f14/language/nn) | 1704 | 1722 | 99.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nn.po | 
+ | [kn](/f14/language/kn) | 1619 | 1836 | 88.2 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/kn.po | 
+ | [mr](/f14/language/mr) | 1622 | 1853 | 87.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mr.po | 
+ | [te](/f14/language/te) | 1622 | 1853 | 87.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/te.po | 
+ | [error](/f14/language/error) | 1652 | 1959 | 84.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/en@shaw.po | 
+ | [nb_NO](/f14/language/nb_NO) | 1546 | 1988 | 77.8 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nb.po | 
+ | [or](/f14/language/or) | 1460 | 1959 | 74.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/or.po | 
+ | [ar](/f14/language/ar) | 1259 | 1988 | 63.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ar.po | 
+ | [af](/f14/language/af) | 509 | 1080 | 47.1 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/af.po | 
+ | [dz](/f14/language/dz) | 441 | 1034 | 42.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/dz.po | 
+ | [ka](/f14/language/ka) | 436 | 1034 | 42.2 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ka.po | 
+ | [be](/f14/language/be) | 412 | 1034 | 39.8 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/be.po | 
+ | [cy](/f14/language/cy) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/cy.po | 
+ | [mg](/f14/language/mg) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mg.po | 
+ | [mn](/f14/language/mn) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mn.po | 
+ | [sq](/f14/language/sq) | 408 | 1034 | 39.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/sq.po | 
+ | [en_CA](/f14/language/en_CA) | 398 | 1034 | 38.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/en_CA.po | 
+ | [fa](/f14/language/fa) | 375 | 1034 | 36.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/fa.po | 
+ | [ku](/f14/language/ku) | 369 | 1034 | 35.7 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ku.po | 
+ | [az](/f14/language/az) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/az.po | 
+ | [bs](/f14/language/bs) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/bs.po | 
+ | [nso](/f14/language/nso) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nso.po | 
+ | [xh](/f14/language/xh) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/xh.po | 
+ | [zu](/f14/language/zu) | 313 | 1034 | 30.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/zu.po | 
+ | [hr](/f14/language/hr) | 257 | 1080 | 23.8 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/hr.po | 
+ | [ga](/f14/language/ga) | 366 | 1627 | 22.5 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ga.po | 
+ | [ms](/f14/language/ms) | 207 | 1034 | 20.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ms.po | 
+ | [is](/f14/language/is) | 158 | 1034 | 15.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/is.po | 
+ | [mai](/f14/language/mai) | 227 | 1624 | 14.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/mai.po | 
+ | [ne](/f14/language/ne) | 116 | 1034 | 11.2 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/ne.po | 
+ | [oc](/f14/language/oc) | 99 | 1034 | 9.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/oc.po | 
+ | [br](/f14/language/br) | 129 | 1618 | 8.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/br.po | 
+ | [nds](/f14/language/nds) | 123 | 1624 | 7.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/nds.po | 
+ | [si](/f14/language/si) | 21 | 1034 | 2.0 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/si.po | 
+ | [wa](/f14/language/wa) | 18 | 1034 | 1.7 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/wa.po | 
+ | [rw](/f14/language/rw) | 6 | 1034 | 0.6 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/rw.po | 
+ | [am](/f14/language/am) | 3 | 1034 | 0.3 | /mnt/stockage/packages/f14/gnome-settings-daemon/po/am.po | 
 {.sortable}
 
 

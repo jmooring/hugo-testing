@@ -18,27 +18,27 @@ The package ncmpc (version 0.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 707 | 788 | 89.7 | /mnt/stockage/packages/f25/ncmpc/po/uk.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/gl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/ru.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/zh_CN.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 693 | 788 | 87.9 | /mnt/stockage/packages/f25/ncmpc/po/pl.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/da.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/hu.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/ko.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/sk.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 687 | 788 | 87.2 | /mnt/stockage/packages/f25/ncmpc/po/he.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 628 | 788 | 79.7 | /mnt/stockage/packages/f25/ncmpc/po/sv.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 501 | 788 | 63.6 | /mnt/stockage/packages/f25/ncmpc/po/nb.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 437 | 788 | 55.5 | /mnt/stockage/packages/f25/ncmpc/po/it.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 329 | 788 | 41.8 | /mnt/stockage/packages/f25/ncmpc/po/fi.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 147 | 788 | 18.7 | /mnt/stockage/packages/f25/ncmpc/po/nl.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 37 | 788 | 4.7 | /mnt/stockage/packages/f25/ncmpc/po/eo.po | 
+ | [uk](/f25/language/uk) | 707 | 788 | 89.7 | /mnt/stockage/packages/f25/ncmpc/po/uk.po | 
+ | [cs](/f25/language/cs) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/cs.po | 
+ | [de](/f25/language/de) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/de.po | 
+ | [es](/f25/language/es) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/es.po | 
+ | [fr](/f25/language/fr) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/fr.po | 
+ | [gl](/f25/language/gl) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/gl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/ru.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 706 | 788 | 89.6 | /mnt/stockage/packages/f25/ncmpc/po/zh_CN.po | 
+ | [pl](/f25/language/pl) | 693 | 788 | 87.9 | /mnt/stockage/packages/f25/ncmpc/po/pl.po | 
+ | [da](/f25/language/da) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/da.po | 
+ | [hu](/f25/language/hu) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/hu.po | 
+ | [ko](/f25/language/ko) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/ko.po | 
+ | [sk](/f25/language/sk) | 688 | 788 | 87.3 | /mnt/stockage/packages/f25/ncmpc/po/sk.po | 
+ | [he](/f25/language/he) | 687 | 788 | 87.2 | /mnt/stockage/packages/f25/ncmpc/po/he.po | 
+ | [sv](/f25/language/sv) | 628 | 788 | 79.7 | /mnt/stockage/packages/f25/ncmpc/po/sv.po | 
+ | [nb_NO](/f25/language/nb_NO) | 501 | 788 | 63.6 | /mnt/stockage/packages/f25/ncmpc/po/nb.po | 
+ | [it](/f25/language/it) | 437 | 788 | 55.5 | /mnt/stockage/packages/f25/ncmpc/po/it.po | 
+ | [fi](/f25/language/fi) | 329 | 788 | 41.8 | /mnt/stockage/packages/f25/ncmpc/po/fi.po | 
+ | [nl](/f25/language/nl) | 147 | 788 | 18.7 | /mnt/stockage/packages/f25/ncmpc/po/nl.po | 
+ | [eo](/f25/language/eo) | 37 | 788 | 4.7 | /mnt/stockage/packages/f25/ncmpc/po/eo.po | 
 {.sortable}
 
 

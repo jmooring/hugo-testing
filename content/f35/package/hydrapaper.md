@@ -18,11 +18,11 @@ The package hydrapaper (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 829 | 829 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/de.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 605 | 605 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/sv.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 833 | 840 | 99.2 | /mnt/stockage/packages/f35/hydrapaper/po/it.po | 
+ | [de](/f35/language/de) | 829 | 829 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/de.po | 
+ | [pt_BR](/f35/language/pt_BR) | 605 | 605 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 500 | 500 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/ru.po | 
+ | [sv](/f35/language/sv) | 283 | 283 | 100.0 | /mnt/stockage/packages/f35/hydrapaper/po/sv.po | 
+ | [it](/f35/language/it) | 833 | 840 | 99.2 | /mnt/stockage/packages/f35/hydrapaper/po/it.po | 
 {.sortable}
 
 

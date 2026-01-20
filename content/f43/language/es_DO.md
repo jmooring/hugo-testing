@@ -44,25 +44,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f43/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [mate-applets]({{< ref "/f43/package/mate-applets.md" >}}) | 1613 | 12211 | 13.2 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-sensors-applet]({{< ref "/f43/package/mate-sensors-applet.md" >}}) | 10 | 313 | 3.2 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [caja-extensions]({{< ref "/f43/package/caja-extensions.md" >}}) | 18 | 845 | 2.1 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-settings-daemon]({{< ref "/f43/package/mate-settings-daemon.md" >}}) | 43 | 2203 | 2.0 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-media]({{< ref "/f43/package/mate-media.md" >}}) | 4 | 244 | 1.6 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 4 | 308 | 1.3 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
- | [mate-system-monitor]({{< ref "/f43/package/mate-system-monitor.md" >}}) | 17 | 1559 | 1.1 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [eom]({{< ref "/f43/package/eom.md" >}}) | 14 | 1779 | 0.8 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-session-manager]({{< ref "/f43/package/mate-session-manager.md" >}}) | 5 | 717 | 0.7 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-panel]({{< ref "/f43/package/mate-panel.md" >}}) | 37 | 6879 | 0.5 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-control-center]({{< ref "/f43/package/mate-control-center.md" >}}) | 17 | 3338 | 0.5 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-calc]({{< ref "/f43/package/mate-calc.md" >}}) | 8 | 1582 | 0.5 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [engrampa]({{< ref "/f43/package/engrampa.md" >}}) | 9 | 2026 | 0.4 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [atril]({{< ref "/f43/package/atril.md" >}}) | 8 | 2325 | 0.3 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-power-manager]({{< ref "/f43/package/mate-power-manager.md" >}}) | 9 | 2660 | 0.3 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-utils]({{< ref "/f43/package/mate-utils.md" >}}) | 6 | 2467 | 0.2 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
- | [pluma-plugins]({{< ref "/f43/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Dominican Republic) (http://app.transifex.com/mate/MATE/language/es_DO/) | 
+ | [libgweather](/f43/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [mate-applets](/f43/package/mate-applets) | 1613 | 12211 | 13.2 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-sensors-applet](/f43/package/mate-sensors-applet) | 10 | 313 | 3.2 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [caja-extensions](/f43/package/caja-extensions) | 18 | 845 | 2.1 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-settings-daemon](/f43/package/mate-settings-daemon) | 43 | 2203 | 2.0 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-media](/f43/package/mate-media) | 4 | 244 | 1.6 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-menu](/f43/package/mate-menu) | 4 | 308 | 1.3 | Spanish (Dominican Republic) (http://www.transifex.com/mate/MATE/language/es_DO/) | 
+ | [mate-system-monitor](/f43/package/mate-system-monitor) | 17 | 1559 | 1.1 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [eom](/f43/package/eom) | 14 | 1779 | 0.8 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-session-manager](/f43/package/mate-session-manager) | 5 | 717 | 0.7 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-panel](/f43/package/mate-panel) | 37 | 6879 | 0.5 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-control-center](/f43/package/mate-control-center) | 17 | 3338 | 0.5 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-calc](/f43/package/mate-calc) | 8 | 1582 | 0.5 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [engrampa](/f43/package/engrampa) | 9 | 2026 | 0.4 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [atril](/f43/package/atril) | 8 | 2325 | 0.3 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-power-manager](/f43/package/mate-power-manager) | 9 | 2660 | 0.3 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-utils](/f43/package/mate-utils) | 6 | 2467 | 0.2 | Spanish (Dominican Republic) (https://app.transifex.com/mate/teams/13566/es_DO/) | 
+ | [pluma-plugins](/f43/package/pluma-plugins) | 1 | 510 | 0.2 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Dominican Republic) (http://app.transifex.com/mate/MATE/language/es_DO/) | 
 {.sortable}
 
 

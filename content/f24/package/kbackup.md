@@ -18,17 +18,17 @@ The package kbackup (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/ia.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 649 | 650 | 99.8 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/de.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 622 | 650 | 95.7 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/cs.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 621 | 650 | 95.5 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/fr.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/sk.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/sv.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 359 | 650 | 55.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/it.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 309 | 650 | 47.5 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/es.po | 
+ | [ia](/f24/language/ia) | 650 | 650 | 100.0 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/ia.po | 
+ | [de](/f24/language/de) | 649 | 650 | 99.8 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/de.po | 
+ | [cs](/f24/language/cs) | 622 | 650 | 95.7 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/cs.po | 
+ | [fr](/f24/language/fr) | 621 | 650 | 95.5 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/fr.po | 
+ | [pt](/f24/language/pt) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/ru.po | 
+ | [sk](/f24/language/sk) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/sk.po | 
+ | [sv](/f24/language/sv) | 443 | 650 | 68.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/sv.po | 
+ | [it](/f24/language/it) | 359 | 650 | 55.2 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/it.po | 
+ | [es](/f24/language/es) | 309 | 650 | 47.5 | /mnt/stockage/packages/f24/kbackup/kbackup-0.8/po/es.po | 
 {.sortable}
 
 

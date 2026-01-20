@@ -18,20 +18,20 @@ The package cockpit-podman (version 52):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/fi.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/ko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/pl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/uk.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 920 | 924 | 99.6 | /mnt/stockage/packages/f35/cockpit-podman/po/ka.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 819 | 924 | 88.6 | /mnt/stockage/packages/f35/cockpit-podman/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 815 | 924 | 88.2 | /mnt/stockage/packages/f35/cockpit-podman/po/es.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 726 | 924 | 78.6 | /mnt/stockage/packages/f35/cockpit-podman/po/cs.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 726 | 924 | 78.6 | /mnt/stockage/packages/f35/cockpit-podman/po/fr.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 708 | 924 | 76.6 | /mnt/stockage/packages/f35/cockpit-podman/po/ja.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 707 | 924 | 76.5 | /mnt/stockage/packages/f35/cockpit-podman/po/zh_CN.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 500 | 924 | 54.1 | /mnt/stockage/packages/f35/cockpit-podman/po/sk.po | 
+ | [fi](/f35/language/fi) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/fi.po | 
+ | [ko](/f35/language/ko) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/ko.po | 
+ | [pl](/f35/language/pl) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/pl.po | 
+ | [sv](/f35/language/sv) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/sv.po | 
+ | [tr](/f35/language/tr) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/tr.po | 
+ | [uk](/f35/language/uk) | 924 | 924 | 100.0 | /mnt/stockage/packages/f35/cockpit-podman/po/uk.po | 
+ | [ka](/f35/language/ka) | 920 | 924 | 99.6 | /mnt/stockage/packages/f35/cockpit-podman/po/ka.po | 
+ | [de](/f35/language/de) | 819 | 924 | 88.6 | /mnt/stockage/packages/f35/cockpit-podman/po/de.po | 
+ | [es](/f35/language/es) | 815 | 924 | 88.2 | /mnt/stockage/packages/f35/cockpit-podman/po/es.po | 
+ | [cs](/f35/language/cs) | 726 | 924 | 78.6 | /mnt/stockage/packages/f35/cockpit-podman/po/cs.po | 
+ | [fr](/f35/language/fr) | 726 | 924 | 78.6 | /mnt/stockage/packages/f35/cockpit-podman/po/fr.po | 
+ | [ja](/f35/language/ja) | 708 | 924 | 76.6 | /mnt/stockage/packages/f35/cockpit-podman/po/ja.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 707 | 924 | 76.5 | /mnt/stockage/packages/f35/cockpit-podman/po/zh_CN.po | 
+ | [sk](/f35/language/sk) | 500 | 924 | 54.1 | /mnt/stockage/packages/f35/cockpit-podman/po/sk.po | 
 {.sortable}
 
 

@@ -18,47 +18,47 @@ The package kf5-kdav (version 5.96.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ar/libkdav.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/az/libkdav.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/bg/libkdav.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ca/libkdav.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ca@valencia/libkdav.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/de/libkdav.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/el/libkdav.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/en_GB/libkdav.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/es/libkdav.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/et/libkdav.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/eu/libkdav.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/fi/libkdav.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/fr/libkdav.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/gl/libkdav.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/hi/libkdav.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ia/libkdav.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/it/libkdav.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ka/libkdav.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ko/libkdav.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/nl/libkdav.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/nn/libkdav.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/pl/libkdav.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/pt/libkdav.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/pt_BR/libkdav.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ro/libkdav.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ru/libkdav.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sk/libkdav.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sl/libkdav.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr/libkdav.po | 
- | [sr@ijekavian]({{< ref "/f35/language/sr@ijekavian.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr@ijekavian/libkdav.po | 
- | [sr@ijekavian_Latn]({{< ref "/f35/language/sr@ijekavian_Latn.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr@ijekavianlatin/libkdav.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr@latin/libkdav.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sv/libkdav.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/tr/libkdav.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/uk/libkdav.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/zh_CN/libkdav.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 126 | 185 | 68.1 | /mnt/stockage/packages/f35/kf5-kdav/po/nb/libkdav.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 22 | 185 | 11.9 | /mnt/stockage/packages/f35/kf5-kdav/po/cs/libkdav.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 185 | 0.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ja/libkdav.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 0 | 185 | 0.0 | /mnt/stockage/packages/f35/kf5-kdav/po/lt/libkdav.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 0 | 185 | 0.0 | /mnt/stockage/packages/f35/kf5-kdav/po/zh_TW/libkdav.po | 
+ | [ar](/f35/language/ar) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ar/libkdav.po | 
+ | [az](/f35/language/az) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/az/libkdav.po | 
+ | [bg](/f35/language/bg) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/bg/libkdav.po | 
+ | [ca](/f35/language/ca) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ca/libkdav.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ca@valencia/libkdav.po | 
+ | [de](/f35/language/de) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/de/libkdav.po | 
+ | [el](/f35/language/el) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/el/libkdav.po | 
+ | [en_GB](/f35/language/en_GB) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/en_GB/libkdav.po | 
+ | [es](/f35/language/es) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/es/libkdav.po | 
+ | [et](/f35/language/et) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/et/libkdav.po | 
+ | [eu](/f35/language/eu) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/eu/libkdav.po | 
+ | [fi](/f35/language/fi) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/fi/libkdav.po | 
+ | [fr](/f35/language/fr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/fr/libkdav.po | 
+ | [gl](/f35/language/gl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/gl/libkdav.po | 
+ | [hi](/f35/language/hi) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/hi/libkdav.po | 
+ | [ia](/f35/language/ia) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ia/libkdav.po | 
+ | [it](/f35/language/it) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/it/libkdav.po | 
+ | [ka](/f35/language/ka) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ka/libkdav.po | 
+ | [ko](/f35/language/ko) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ko/libkdav.po | 
+ | [nl](/f35/language/nl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/nl/libkdav.po | 
+ | [nn](/f35/language/nn) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/nn/libkdav.po | 
+ | [pl](/f35/language/pl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/pl/libkdav.po | 
+ | [pt](/f35/language/pt) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/pt/libkdav.po | 
+ | [pt_BR](/f35/language/pt_BR) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/pt_BR/libkdav.po | 
+ | [ro](/f35/language/ro) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ro/libkdav.po | 
+ | [ru](/f35/language/ru) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ru/libkdav.po | 
+ | [sk](/f35/language/sk) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sk/libkdav.po | 
+ | [sl](/f35/language/sl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sl/libkdav.po | 
+ | [sr](/f35/language/sr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr/libkdav.po | 
+ | [sr@ijekavian](/f35/language/sr@ijekavian) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr@ijekavian/libkdav.po | 
+ | [sr@ijekavian_Latn](/f35/language/sr@ijekavian_Latn) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr@ijekavianlatin/libkdav.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sr@latin/libkdav.po | 
+ | [sv](/f35/language/sv) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/sv/libkdav.po | 
+ | [tr](/f35/language/tr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/tr/libkdav.po | 
+ | [uk](/f35/language/uk) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/uk/libkdav.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 185 | 185 | 100.0 | /mnt/stockage/packages/f35/kf5-kdav/po/zh_CN/libkdav.po | 
+ | [nb_NO](/f35/language/nb_NO) | 126 | 185 | 68.1 | /mnt/stockage/packages/f35/kf5-kdav/po/nb/libkdav.po | 
+ | [cs](/f35/language/cs) | 22 | 185 | 11.9 | /mnt/stockage/packages/f35/kf5-kdav/po/cs/libkdav.po | 
+ | [ja](/f35/language/ja) | 0 | 185 | 0.0 | /mnt/stockage/packages/f35/kf5-kdav/po/ja/libkdav.po | 
+ | [lt](/f35/language/lt) | 0 | 185 | 0.0 | /mnt/stockage/packages/f35/kf5-kdav/po/lt/libkdav.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 0 | 185 | 0.0 | /mnt/stockage/packages/f35/kf5-kdav/po/zh_TW/libkdav.po | 
 {.sortable}
 
 

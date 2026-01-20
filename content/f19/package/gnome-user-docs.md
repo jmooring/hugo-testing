@@ -18,29 +18,29 @@ The package gnome-user-docs (version 3.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f19/language/el.md" >}}) | 58931 | 58931 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/el/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 60135 | 60135 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/es/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 58644 | 58644 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/gl/gl.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 57593 | 57593 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/lv/lv.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 117862 | 117862 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sr@latin/sr@latin.po/mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sr/sr.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 59372 | 59385 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/hu/hu.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 58150 | 58644 | 99.2 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/de/de.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 56222 | 57936 | 97.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/fr/fr.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 52634 | 58650 | 89.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sl/sl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 48925 | 57957 | 84.4 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/ru/ru.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 44470 | 58171 | 76.4 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/it/it.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 40059 | 59514 | 67.3 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/pt_BR/pt_BR.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 37988 | 58674 | 64.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/fi/fi.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 36788 | 56964 | 64.6 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/vi/vi.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 22965 | 57957 | 39.6 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/ja/ja.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 19896 | 57593 | 34.5 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/id/id.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 8463 | 46007 | 18.4 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/nl/nl.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 3870 | 57737 | 6.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/ca/ca.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 3074 | 46797 | 6.6 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/hi/hi.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1398 | 56974 | 2.5 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sv/sv.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1308 | 57936 | 2.3 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/cs/cs.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 532 | 46016 | 1.2 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/pa/pa.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 375 | 52513 | 0.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/te/te.po | 
+ | [el](/f19/language/el) | 58931 | 58931 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/el/el.po | 
+ | [es](/f19/language/es) | 60135 | 60135 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/es/es.po | 
+ | [gl](/f19/language/gl) | 58644 | 58644 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/gl/gl.po | 
+ | [lv](/f19/language/lv) | 57593 | 57593 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/lv/lv.po | 
+ | [sr](/f19/language/sr) | 117862 | 117862 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sr@latin/sr@latin.po/mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sr/sr.po | 
+ | [hu](/f19/language/hu) | 59372 | 59385 | 100.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/hu/hu.po | 
+ | [de](/f19/language/de) | 58150 | 58644 | 99.2 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/de/de.po | 
+ | [fr](/f19/language/fr) | 56222 | 57936 | 97.0 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/fr/fr.po | 
+ | [sl](/f19/language/sl) | 52634 | 58650 | 89.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sl/sl.po | 
+ | [ru](/f19/language/ru) | 48925 | 57957 | 84.4 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/ru/ru.po | 
+ | [it](/f19/language/it) | 44470 | 58171 | 76.4 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/it/it.po | 
+ | [pt_BR](/f19/language/pt_BR) | 40059 | 59514 | 67.3 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/pt_BR/pt_BR.po | 
+ | [fi](/f19/language/fi) | 37988 | 58674 | 64.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/fi/fi.po | 
+ | [vi](/f19/language/vi) | 36788 | 56964 | 64.6 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/vi/vi.po | 
+ | [ja](/f19/language/ja) | 22965 | 57957 | 39.6 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/ja/ja.po | 
+ | [id](/f19/language/id) | 19896 | 57593 | 34.5 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/id/id.po | 
+ | [nl](/f19/language/nl) | 8463 | 46007 | 18.4 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/nl/nl.po | 
+ | [ca](/f19/language/ca) | 3870 | 57737 | 6.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/ca/ca.po | 
+ | [hi](/f19/language/hi) | 3074 | 46797 | 6.6 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/hi/hi.po | 
+ | [sv](/f19/language/sv) | 1398 | 56974 | 2.5 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/sv/sv.po | 
+ | [cs](/f19/language/cs) | 1308 | 57936 | 2.3 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/cs/cs.po | 
+ | [pa](/f19/language/pa) | 532 | 46016 | 1.2 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/pa/pa.po | 
+ | [te](/f19/language/te) | 375 | 52513 | 0.7 | /mnt/stockage/packages/f19/gnome-user-docs/gnome-help/te/te.po | 
 {.sortable}
 
 

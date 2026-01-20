@@ -18,44 +18,44 @@ The package yakuake (version 2.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f23/language/da.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/da/yakuake.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/el/yakuake.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/et/yakuake.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/fi/yakuake.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/it/yakuake.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/nl/yakuake.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/pt/yakuake.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/pt_BR/yakuake.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr/yakuake.po | 
- | [sr@ijekavian]({{< ref "/f23/language/sr@ijekavian.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr@ijekavian/yakuake.po | 
- | [sr@ijekavian_Latn]({{< ref "/f23/language/sr@ijekavian_Latn.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr@ijekavianlatin/yakuake.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr@latin/yakuake.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sv/yakuake.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/uk/yakuake.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/es/yakuake.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/hu/yakuake.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/km/yakuake.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/pl/yakuake.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 2952 | 3040 | 97.1 | /mnt/stockage/packages/f23/yakuake/po/ca/yakuake.po/mnt/stockage/packages/f23/yakuake/po/ca@valencia/yakuake.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 1432 | 1520 | 94.2 | /mnt/stockage/packages/f23/yakuake/po/nb/yakuake.po | 
- | [nds]({{< ref "/f23/language/nds.md" >}}) | 1432 | 1520 | 94.2 | /mnt/stockage/packages/f23/yakuake/po/nds/yakuake.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 1346 | 1520 | 88.6 | /mnt/stockage/packages/f23/yakuake/po/de/yakuake.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 1336 | 1520 | 87.9 | /mnt/stockage/packages/f23/yakuake/po/en_GB/yakuake.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1291 | 1520 | 84.9 | /mnt/stockage/packages/f23/yakuake/po/cs/yakuake.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 1268 | 1520 | 83.4 | /mnt/stockage/packages/f23/yakuake/po/tr/yakuake.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1237 | 1520 | 81.4 | /mnt/stockage/packages/f23/yakuake/po/fr/yakuake.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 1237 | 1520 | 81.4 | /mnt/stockage/packages/f23/yakuake/po/nn/yakuake.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 1237 | 1520 | 81.4 | /mnt/stockage/packages/f23/yakuake/po/sk/yakuake.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1230 | 1520 | 80.9 | /mnt/stockage/packages/f23/yakuake/po/zh_TW/yakuake.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 1214 | 1520 | 79.9 | /mnt/stockage/packages/f23/yakuake/po/ko/yakuake.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1163 | 1520 | 76.5 | /mnt/stockage/packages/f23/yakuake/po/zh_CN/yakuake.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 1155 | 1520 | 76.0 | /mnt/stockage/packages/f23/yakuake/po/ga/yakuake.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1068 | 1520 | 70.3 | /mnt/stockage/packages/f23/yakuake/po/ru/yakuake.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 1038 | 1520 | 68.3 | /mnt/stockage/packages/f23/yakuake/po/th/yakuake.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 924 | 1520 | 60.8 | /mnt/stockage/packages/f23/yakuake/po/wa/yakuake.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 810 | 1482 | 54.7 | /mnt/stockage/packages/f23/yakuake/po/hr/yakuake.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 806 | 1520 | 53.0 | /mnt/stockage/packages/f23/yakuake/po/pa/yakuake.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 795 | 1520 | 52.3 | /mnt/stockage/packages/f23/yakuake/po/ro/yakuake.po | 
+ | [da](/f23/language/da) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/da/yakuake.po | 
+ | [el](/f23/language/el) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/el/yakuake.po | 
+ | [et](/f23/language/et) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/et/yakuake.po | 
+ | [fi](/f23/language/fi) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/fi/yakuake.po | 
+ | [it](/f23/language/it) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/it/yakuake.po | 
+ | [nl](/f23/language/nl) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/nl/yakuake.po | 
+ | [pt](/f23/language/pt) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/pt/yakuake.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/pt_BR/yakuake.po | 
+ | [sr](/f23/language/sr) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr/yakuake.po | 
+ | [sr@ijekavian](/f23/language/sr@ijekavian) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr@ijekavian/yakuake.po | 
+ | [sr@ijekavian_Latn](/f23/language/sr@ijekavian_Latn) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr@ijekavianlatin/yakuake.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sr@latin/yakuake.po | 
+ | [sv](/f23/language/sv) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/sv/yakuake.po | 
+ | [uk](/f23/language/uk) | 1520 | 1520 | 100.0 | /mnt/stockage/packages/f23/yakuake/po/uk/yakuake.po | 
+ | [es](/f23/language/es) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/es/yakuake.po | 
+ | [hu](/f23/language/hu) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/hu/yakuake.po | 
+ | [km](/f23/language/km) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/km/yakuake.po | 
+ | [pl](/f23/language/pl) | 1482 | 1520 | 97.5 | /mnt/stockage/packages/f23/yakuake/po/pl/yakuake.po | 
+ | [ca](/f23/language/ca) | 2952 | 3040 | 97.1 | /mnt/stockage/packages/f23/yakuake/po/ca/yakuake.po/mnt/stockage/packages/f23/yakuake/po/ca@valencia/yakuake.po | 
+ | [nb_NO](/f23/language/nb_NO) | 1432 | 1520 | 94.2 | /mnt/stockage/packages/f23/yakuake/po/nb/yakuake.po | 
+ | [nds](/f23/language/nds) | 1432 | 1520 | 94.2 | /mnt/stockage/packages/f23/yakuake/po/nds/yakuake.po | 
+ | [de](/f23/language/de) | 1346 | 1520 | 88.6 | /mnt/stockage/packages/f23/yakuake/po/de/yakuake.po | 
+ | [en_GB](/f23/language/en_GB) | 1336 | 1520 | 87.9 | /mnt/stockage/packages/f23/yakuake/po/en_GB/yakuake.po | 
+ | [cs](/f23/language/cs) | 1291 | 1520 | 84.9 | /mnt/stockage/packages/f23/yakuake/po/cs/yakuake.po | 
+ | [tr](/f23/language/tr) | 1268 | 1520 | 83.4 | /mnt/stockage/packages/f23/yakuake/po/tr/yakuake.po | 
+ | [fr](/f23/language/fr) | 1237 | 1520 | 81.4 | /mnt/stockage/packages/f23/yakuake/po/fr/yakuake.po | 
+ | [nn](/f23/language/nn) | 1237 | 1520 | 81.4 | /mnt/stockage/packages/f23/yakuake/po/nn/yakuake.po | 
+ | [sk](/f23/language/sk) | 1237 | 1520 | 81.4 | /mnt/stockage/packages/f23/yakuake/po/sk/yakuake.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1230 | 1520 | 80.9 | /mnt/stockage/packages/f23/yakuake/po/zh_TW/yakuake.po | 
+ | [ko](/f23/language/ko) | 1214 | 1520 | 79.9 | /mnt/stockage/packages/f23/yakuake/po/ko/yakuake.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1163 | 1520 | 76.5 | /mnt/stockage/packages/f23/yakuake/po/zh_CN/yakuake.po | 
+ | [ga](/f23/language/ga) | 1155 | 1520 | 76.0 | /mnt/stockage/packages/f23/yakuake/po/ga/yakuake.po | 
+ | [ru](/f23/language/ru) | 1068 | 1520 | 70.3 | /mnt/stockage/packages/f23/yakuake/po/ru/yakuake.po | 
+ | [th](/f23/language/th) | 1038 | 1520 | 68.3 | /mnt/stockage/packages/f23/yakuake/po/th/yakuake.po | 
+ | [wa](/f23/language/wa) | 924 | 1520 | 60.8 | /mnt/stockage/packages/f23/yakuake/po/wa/yakuake.po | 
+ | [hr](/f23/language/hr) | 810 | 1482 | 54.7 | /mnt/stockage/packages/f23/yakuake/po/hr/yakuake.po | 
+ | [pa](/f23/language/pa) | 806 | 1520 | 53.0 | /mnt/stockage/packages/f23/yakuake/po/pa/yakuake.po | 
+ | [ro](/f23/language/ro) | 795 | 1520 | 52.3 | /mnt/stockage/packages/f23/yakuake/po/ro/yakuake.po | 
 {.sortable}
 
 

@@ -18,52 +18,52 @@ The package meld (version 3.22.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 1256 | 1256 | 100.0 | /mnt/stockage/packages/f38/meld/po/bg.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 2471 | 2471 | 100.0 | /mnt/stockage/packages/f38/meld/po/bs.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f38/meld/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/cs/cs.po/mnt/stockage/packages/f38/meld/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f38/meld/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/de/de.po/mnt/stockage/packages/f38/meld/po/de.po | 
- | [dz]({{< ref "/f38/language/dz.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f38/meld/po/dz.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 5524 | 5524 | 100.0 | /mnt/stockage/packages/f38/meld/help/el/el.po/mnt/stockage/packages/f38/meld/po/el.po | 
- | [en_CA]({{< ref "/f38/language/en_CA.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f38/meld/po/en_CA.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f38/meld/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 5946 | 5946 | 100.0 | /mnt/stockage/packages/f38/meld/help/es/es.po/mnt/stockage/packages/f38/meld/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/eu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 5875 | 5875 | 100.0 | /mnt/stockage/packages/f38/meld/help/fr/fr.po/mnt/stockage/packages/f38/meld/po/fr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f38/meld/po/he.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f38/meld/po/it.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f38/meld/po/ko.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f38/meld/po/nb.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f38/meld/po/ne.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 883 | 883 | 100.0 | /mnt/stockage/packages/f38/meld/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/pl/pl.po/mnt/stockage/packages/f38/meld/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 2534 | 2534 | 100.0 | /mnt/stockage/packages/f38/meld/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/ru/ru.po/mnt/stockage/packages/f38/meld/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 2128 | 2128 | 100.0 | /mnt/stockage/packages/f38/meld/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 5244 | 5244 | 100.0 | /mnt/stockage/packages/f38/meld/po/sr@latin.po/mnt/stockage/packages/f38/meld/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/sv/sv.po/mnt/stockage/packages/f38/meld/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f38/meld/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/uk/uk.po/mnt/stockage/packages/f38/meld/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 2569 | 2569 | 100.0 | /mnt/stockage/packages/f38/meld/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 2479 | 2479 | 100.0 | /mnt/stockage/packages/f38/meld/po/zh_TW.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 2274 | 2296 | 99.0 | /mnt/stockage/packages/f38/meld/po/ca@valencia.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 1132 | 1256 | 90.1 | /mnt/stockage/packages/f38/meld/po/vi.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 2031 | 2543 | 79.9 | /mnt/stockage/packages/f38/meld/po/ja.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 1890 | 2576 | 73.4 | /mnt/stockage/packages/f38/meld/po/fi.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 673 | 974 | 69.1 | /mnt/stockage/packages/f38/meld/po/sq.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 1226 | 2659 | 46.1 | /mnt/stockage/packages/f38/meld/po/oc.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 254 | 763 | 33.3 | /mnt/stockage/packages/f38/meld/po/pa.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 326 | 2603 | 12.5 | /mnt/stockage/packages/f38/meld/po/ka.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 330 | 2667 | 12.4 | /mnt/stockage/packages/f38/meld/po/eo.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 41 | 916 | 4.5 | /mnt/stockage/packages/f38/meld/po/ar.po | 
- | [rw]({{< ref "/f38/language/rw.md" >}}) | 32 | 956 | 3.3 | /mnt/stockage/packages/f38/meld/po/rw.po | 
+ | [bg](/f38/language/bg) | 1256 | 1256 | 100.0 | /mnt/stockage/packages/f38/meld/po/bg.po | 
+ | [bs](/f38/language/bs) | 2471 | 2471 | 100.0 | /mnt/stockage/packages/f38/meld/po/bs.po | 
+ | [ca](/f38/language/ca) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f38/meld/po/ca.po | 
+ | [cs](/f38/language/cs) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/cs/cs.po/mnt/stockage/packages/f38/meld/po/cs.po | 
+ | [da](/f38/language/da) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f38/meld/po/da.po | 
+ | [de](/f38/language/de) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/de/de.po/mnt/stockage/packages/f38/meld/po/de.po | 
+ | [dz](/f38/language/dz) | 849 | 849 | 100.0 | /mnt/stockage/packages/f38/meld/po/dz.po | 
+ | [el](/f38/language/el) | 5524 | 5524 | 100.0 | /mnt/stockage/packages/f38/meld/help/el/el.po/mnt/stockage/packages/f38/meld/po/el.po | 
+ | [en_CA](/f38/language/en_CA) | 871 | 871 | 100.0 | /mnt/stockage/packages/f38/meld/po/en_CA.po | 
+ | [en_GB](/f38/language/en_GB) | 849 | 849 | 100.0 | /mnt/stockage/packages/f38/meld/po/en_GB.po | 
+ | [es](/f38/language/es) | 5946 | 5946 | 100.0 | /mnt/stockage/packages/f38/meld/help/es/es.po/mnt/stockage/packages/f38/meld/po/es.po | 
+ | [eu](/f38/language/eu) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/eu.po | 
+ | [fr](/f38/language/fr) | 5875 | 5875 | 100.0 | /mnt/stockage/packages/f38/meld/help/fr/fr.po/mnt/stockage/packages/f38/meld/po/fr.po | 
+ | [gl](/f38/language/gl) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/gl.po | 
+ | [he](/f38/language/he) | 2264 | 2264 | 100.0 | /mnt/stockage/packages/f38/meld/po/he.po | 
+ | [hu](/f38/language/hu) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/hu.po | 
+ | [id](/f38/language/id) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/id.po | 
+ | [it](/f38/language/it) | 2550 | 2550 | 100.0 | /mnt/stockage/packages/f38/meld/po/it.po | 
+ | [ko](/f38/language/ko) | 865 | 865 | 100.0 | /mnt/stockage/packages/f38/meld/po/ko.po | 
+ | [nb_NO](/f38/language/nb_NO) | 2482 | 2482 | 100.0 | /mnt/stockage/packages/f38/meld/po/nb.po | 
+ | [ne](/f38/language/ne) | 865 | 865 | 100.0 | /mnt/stockage/packages/f38/meld/po/ne.po | 
+ | [nl](/f38/language/nl) | 883 | 883 | 100.0 | /mnt/stockage/packages/f38/meld/po/nl.po | 
+ | [pl](/f38/language/pl) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/pl/pl.po/mnt/stockage/packages/f38/meld/po/pl.po | 
+ | [pt](/f38/language/pt) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 2534 | 2534 | 100.0 | /mnt/stockage/packages/f38/meld/po/ro.po | 
+ | [ru](/f38/language/ru) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/ru/ru.po/mnt/stockage/packages/f38/meld/po/ru.po | 
+ | [sk](/f38/language/sk) | 2128 | 2128 | 100.0 | /mnt/stockage/packages/f38/meld/po/sk.po | 
+ | [sl](/f38/language/sl) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f38/meld/po/sl.po | 
+ | [sr](/f38/language/sr) | 5244 | 5244 | 100.0 | /mnt/stockage/packages/f38/meld/po/sr@latin.po/mnt/stockage/packages/f38/meld/po/sr.po | 
+ | [sv](/f38/language/sv) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/sv/sv.po/mnt/stockage/packages/f38/meld/po/sv.po | 
+ | [tr](/f38/language/tr) | 2576 | 2576 | 100.0 | /mnt/stockage/packages/f38/meld/po/tr.po | 
+ | [uk](/f38/language/uk) | 5999 | 5999 | 100.0 | /mnt/stockage/packages/f38/meld/help/uk/uk.po/mnt/stockage/packages/f38/meld/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 2569 | 2569 | 100.0 | /mnt/stockage/packages/f38/meld/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 2479 | 2479 | 100.0 | /mnt/stockage/packages/f38/meld/po/zh_TW.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 2274 | 2296 | 99.0 | /mnt/stockage/packages/f38/meld/po/ca@valencia.po | 
+ | [vi](/f38/language/vi) | 1132 | 1256 | 90.1 | /mnt/stockage/packages/f38/meld/po/vi.po | 
+ | [ja](/f38/language/ja) | 2031 | 2543 | 79.9 | /mnt/stockage/packages/f38/meld/po/ja.po | 
+ | [fi](/f38/language/fi) | 1890 | 2576 | 73.4 | /mnt/stockage/packages/f38/meld/po/fi.po | 
+ | [sq](/f38/language/sq) | 673 | 974 | 69.1 | /mnt/stockage/packages/f38/meld/po/sq.po | 
+ | [oc](/f38/language/oc) | 1226 | 2659 | 46.1 | /mnt/stockage/packages/f38/meld/po/oc.po | 
+ | [pa](/f38/language/pa) | 254 | 763 | 33.3 | /mnt/stockage/packages/f38/meld/po/pa.po | 
+ | [ka](/f38/language/ka) | 326 | 2603 | 12.5 | /mnt/stockage/packages/f38/meld/po/ka.po | 
+ | [eo](/f38/language/eo) | 330 | 2667 | 12.4 | /mnt/stockage/packages/f38/meld/po/eo.po | 
+ | [ar](/f38/language/ar) | 41 | 916 | 4.5 | /mnt/stockage/packages/f38/meld/po/ar.po | 
+ | [rw](/f38/language/rw) | 32 | 956 | 3.3 | /mnt/stockage/packages/f38/meld/po/rw.po | 
 {.sortable}
 
 

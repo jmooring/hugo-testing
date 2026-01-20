@@ -18,54 +18,54 @@ The package camorama (version 0.20.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 774 | 775 | 99.9 | /mnt/stockage/packages/f31/camorama/po/pt_BR.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 501 | 775 | 64.6 | /mnt/stockage/packages/f31/camorama/po/en_CA.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 501 | 775 | 64.6 | /mnt/stockage/packages/f31/camorama/po/en_GB.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/dz.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/gl.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/ja.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/nl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/pt.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/sv.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/vi.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 481 | 775 | 62.1 | /mnt/stockage/packages/f31/camorama/po/bg.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 481 | 775 | 62.1 | /mnt/stockage/packages/f31/camorama/po/de.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 479 | 775 | 61.8 | /mnt/stockage/packages/f31/camorama/po/lv.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 479 | 775 | 61.8 | /mnt/stockage/packages/f31/camorama/po/ne.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 479 | 775 | 61.8 | /mnt/stockage/packages/f31/camorama/po/sl.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 468 | 775 | 60.4 | /mnt/stockage/packages/f31/camorama/po/zh_TW.po | 
- | [az]({{< ref "/f31/language/az.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/az.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/da.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/sr@Latn.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/it.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/mk.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/pa.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/pl.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/sq.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/sr.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/ta.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 417 | 775 | 53.8 | /mnt/stockage/packages/f31/camorama/po/uk.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 375 | 775 | 48.4 | /mnt/stockage/packages/f31/camorama/po/be.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 346 | 775 | 44.6 | /mnt/stockage/packages/f31/camorama/po/nb.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 327 | 775 | 42.2 | /mnt/stockage/packages/f31/camorama/po/zh_CN.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 260 | 775 | 33.5 | /mnt/stockage/packages/f31/camorama/po/gu.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 246 | 775 | 31.7 | /mnt/stockage/packages/f31/camorama/po/ms.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 32 | 775 | 4.1 | /mnt/stockage/packages/f31/camorama/po/fa.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 31 | 775 | 4.0 | /mnt/stockage/packages/f31/camorama/po/hi.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 23 | 775 | 3.0 | /mnt/stockage/packages/f31/camorama/po/ga.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 17 | 775 | 2.2 | /mnt/stockage/packages/f31/camorama/po/hr.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 12 | 775 | 1.5 | /mnt/stockage/packages/f31/camorama/po/am.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 4 | 775 | 0.5 | /mnt/stockage/packages/f31/camorama/po/ml.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 4 | 775 | 0.5 | /mnt/stockage/packages/f31/camorama/po/rw.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 3 | 775 | 0.4 | /mnt/stockage/packages/f31/camorama/po/ar.po | 
+ | [pt_BR](/f31/language/pt_BR) | 774 | 775 | 99.9 | /mnt/stockage/packages/f31/camorama/po/pt_BR.po | 
+ | [en_CA](/f31/language/en_CA) | 501 | 775 | 64.6 | /mnt/stockage/packages/f31/camorama/po/en_CA.po | 
+ | [en_GB](/f31/language/en_GB) | 501 | 775 | 64.6 | /mnt/stockage/packages/f31/camorama/po/en_GB.po | 
+ | [dz](/f31/language/dz) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/dz.po | 
+ | [es](/f31/language/es) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/es.po | 
+ | [eu](/f31/language/eu) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/eu.po | 
+ | [fi](/f31/language/fi) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/fi.po | 
+ | [fr](/f31/language/fr) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/fr.po | 
+ | [gl](/f31/language/gl) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/gl.po | 
+ | [ja](/f31/language/ja) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/ja.po | 
+ | [nl](/f31/language/nl) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/nl.po | 
+ | [pt](/f31/language/pt) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/pt.po | 
+ | [sv](/f31/language/sv) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/sv.po | 
+ | [vi](/f31/language/vi) | 500 | 775 | 64.5 | /mnt/stockage/packages/f31/camorama/po/vi.po | 
+ | [bg](/f31/language/bg) | 481 | 775 | 62.1 | /mnt/stockage/packages/f31/camorama/po/bg.po | 
+ | [de](/f31/language/de) | 481 | 775 | 62.1 | /mnt/stockage/packages/f31/camorama/po/de.po | 
+ | [lv](/f31/language/lv) | 479 | 775 | 61.8 | /mnt/stockage/packages/f31/camorama/po/lv.po | 
+ | [ne](/f31/language/ne) | 479 | 775 | 61.8 | /mnt/stockage/packages/f31/camorama/po/ne.po | 
+ | [sl](/f31/language/sl) | 479 | 775 | 61.8 | /mnt/stockage/packages/f31/camorama/po/sl.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 468 | 775 | 60.4 | /mnt/stockage/packages/f31/camorama/po/zh_TW.po | 
+ | [az](/f31/language/az) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/az.po | 
+ | [bs](/f31/language/bs) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/bs.po | 
+ | [ca](/f31/language/ca) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/ca.po | 
+ | [cs](/f31/language/cs) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/cs.po | 
+ | [da](/f31/language/da) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/da.po | 
+ | [error](/f31/language/error) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/sr@Latn.po | 
+ | [it](/f31/language/it) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/it.po | 
+ | [mk](/f31/language/mk) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/mk.po | 
+ | [pa](/f31/language/pa) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/pa.po | 
+ | [pl](/f31/language/pl) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/pl.po | 
+ | [sq](/f31/language/sq) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/sq.po | 
+ | [sr](/f31/language/sr) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/sr.po | 
+ | [ta](/f31/language/ta) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/ta.po | 
+ | [tr](/f31/language/tr) | 458 | 775 | 59.1 | /mnt/stockage/packages/f31/camorama/po/tr.po | 
+ | [uk](/f31/language/uk) | 417 | 775 | 53.8 | /mnt/stockage/packages/f31/camorama/po/uk.po | 
+ | [be](/f31/language/be) | 375 | 775 | 48.4 | /mnt/stockage/packages/f31/camorama/po/be.po | 
+ | [nb_NO](/f31/language/nb_NO) | 346 | 775 | 44.6 | /mnt/stockage/packages/f31/camorama/po/nb.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 327 | 775 | 42.2 | /mnt/stockage/packages/f31/camorama/po/zh_CN.po | 
+ | [gu](/f31/language/gu) | 260 | 775 | 33.5 | /mnt/stockage/packages/f31/camorama/po/gu.po | 
+ | [ms](/f31/language/ms) | 246 | 775 | 31.7 | /mnt/stockage/packages/f31/camorama/po/ms.po | 
+ | [fa](/f31/language/fa) | 32 | 775 | 4.1 | /mnt/stockage/packages/f31/camorama/po/fa.po | 
+ | [hi](/f31/language/hi) | 31 | 775 | 4.0 | /mnt/stockage/packages/f31/camorama/po/hi.po | 
+ | [ga](/f31/language/ga) | 23 | 775 | 3.0 | /mnt/stockage/packages/f31/camorama/po/ga.po | 
+ | [hr](/f31/language/hr) | 17 | 775 | 2.2 | /mnt/stockage/packages/f31/camorama/po/hr.po | 
+ | [am](/f31/language/am) | 12 | 775 | 1.5 | /mnt/stockage/packages/f31/camorama/po/am.po | 
+ | [ml](/f31/language/ml) | 4 | 775 | 0.5 | /mnt/stockage/packages/f31/camorama/po/ml.po | 
+ | [rw](/f31/language/rw) | 4 | 775 | 0.5 | /mnt/stockage/packages/f31/camorama/po/rw.po | 
+ | [ar](/f31/language/ar) | 3 | 775 | 0.4 | /mnt/stockage/packages/f31/camorama/po/ar.po | 
 {.sortable}
 
 

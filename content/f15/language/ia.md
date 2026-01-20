@@ -39,18 +39,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lyx]({{< ref "/f15/package/lyx.md" >}}) | 17198 | 17254 | 99.7 | Interlingua LyX Team <g.sora@tiscali.it> | 
- | [tellico]({{< ref "/f15/package/tellico.md" >}}) | 5697 | 5732 | 99.4 | Interlingua <kde-i18n-it@kde.org> | 
- | [mailman]({{< ref "/f15/package/mailman.md" >}}) | 15551 | 22012 | 70.6 | Interlingua <TradSoft@interlingua.com> | 
- | [mc]({{< ref "/f15/package/mc.md" >}}) | 601 | 3855 | 15.6 | Interlingua (http://www.transifex.net/projects/p/mc/language/ia/) | 
- | [widelands]({{< ref "/f15/package/widelands.md" >}}) | 328 | 6817 | 4.8 | Interlingua <ia@li.org> | 
- | [stellarium]({{< ref "/f15/package/stellarium.md" >}}) | 176 | 4476 | 3.9 | Interlingua <ia@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f15/package/gdk-pixbuf2.md" >}}) | 49 | 1313 | 3.7 | Interlingua | 
- | [mingw32-gdk-pixbuf]({{< ref "/f15/package/mingw32-gdk-pixbuf.md" >}}) | 49 | 1313 | 3.7 | Interlingua | 
- | [gtk2]({{< ref "/f15/package/gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [mingw32-gtk2]({{< ref "/f15/package/mingw32-gtk2.md" >}}) | 78 | 13704 | 0.6 | Interlingua | 
- | [gtk3]({{< ref "/f15/package/gtk3.md" >}}) | 21 | 11853 | 0.2 | Interlingua | 
- | [mingw-gtk3]({{< ref "/f15/package/mingw-gtk3.md" >}}) | 21 | 11853 | 0.2 | Interlingua | 
+ | [lyx](/f15/package/lyx) | 17198 | 17254 | 99.7 | Interlingua LyX Team <g.sora@tiscali.it> | 
+ | [tellico](/f15/package/tellico) | 5697 | 5732 | 99.4 | Interlingua <kde-i18n-it@kde.org> | 
+ | [mailman](/f15/package/mailman) | 15551 | 22012 | 70.6 | Interlingua <TradSoft@interlingua.com> | 
+ | [mc](/f15/package/mc) | 601 | 3855 | 15.6 | Interlingua (http://www.transifex.net/projects/p/mc/language/ia/) | 
+ | [widelands](/f15/package/widelands) | 328 | 6817 | 4.8 | Interlingua <ia@li.org> | 
+ | [stellarium](/f15/package/stellarium) | 176 | 4476 | 3.9 | Interlingua <ia@li.org> | 
+ | [gdk-pixbuf2](/f15/package/gdk-pixbuf2) | 49 | 1313 | 3.7 | Interlingua | 
+ | [mingw32-gdk-pixbuf](/f15/package/mingw32-gdk-pixbuf) | 49 | 1313 | 3.7 | Interlingua | 
+ | [gtk2](/f15/package/gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [mingw32-gtk2](/f15/package/mingw32-gtk2) | 78 | 13704 | 0.6 | Interlingua | 
+ | [gtk3](/f15/package/gtk3) | 21 | 11853 | 0.2 | Interlingua | 
+ | [mingw-gtk3](/f15/package/mingw-gtk3) | 21 | 11853 | 0.2 | Interlingua | 
 {.sortable}
 
 

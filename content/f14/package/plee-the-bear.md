@@ -18,8 +18,8 @@ The package plee-the-bear (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1344 | 1355 | 99.2 | /mnt/stockage/packages/f14/plee-the-bear/bear-factory/desktop/locale/bear-factory/fr_FR.po/mnt/stockage/packages/f14/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/fr_FR.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 127 | 571 | 22.2 | /mnt/stockage/packages/f14/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/nn_NO.po | 
+ | [fr](/f14/language/fr) | 1344 | 1355 | 99.2 | /mnt/stockage/packages/f14/plee-the-bear/bear-factory/desktop/locale/bear-factory/fr_FR.po/mnt/stockage/packages/f14/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/fr_FR.po | 
+ | [nn](/f14/language/nn) | 127 | 571 | 22.2 | /mnt/stockage/packages/f14/plee-the-bear/plee-the-bear/desktop/locale/plee-the-bear/nn_NO.po | 
 {.sortable}
 
 

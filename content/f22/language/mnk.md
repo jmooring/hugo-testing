@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ccsm]({{< ref "/f22/package/ccsm.md" >}}) | 399 | 549 | 72.7 | Mandingo | 
+ | [ccsm](/f22/package/ccsm) | 399 | 549 | 72.7 | Mandingo | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package ballerburg (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f24/ballerburg/po/fi.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f24/ballerburg/po/it.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f24/ballerburg/po/nl.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 294 | 295 | 99.7 | /mnt/stockage/packages/f24/ballerburg/po/de.po | 
+ | [fi](/f24/language/fi) | 294 | 294 | 100.0 | /mnt/stockage/packages/f24/ballerburg/po/fi.po | 
+ | [it](/f24/language/it) | 295 | 295 | 100.0 | /mnt/stockage/packages/f24/ballerburg/po/it.po | 
+ | [nl](/f24/language/nl) | 294 | 294 | 100.0 | /mnt/stockage/packages/f24/ballerburg/po/nl.po | 
+ | [de](/f24/language/de) | 294 | 295 | 99.7 | /mnt/stockage/packages/f24/ballerburg/po/de.po | 
 {.sortable}
 
 

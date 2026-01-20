@@ -18,7 +18,7 @@ The package ibus-tutcode (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ibus-tutcode/po/ja.po | 
+ | [ja](/f16/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ibus-tutcode/po/ja.po | 
 {.sortable}
 
 

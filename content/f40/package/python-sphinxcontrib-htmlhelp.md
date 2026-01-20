@@ -18,58 +18,58 @@ The package python-sphinxcontrib-htmlhelp (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ar/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/da/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/el/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/es/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/fa/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/fr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hu/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/id/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ja/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ko/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pt_BR/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sk/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sq/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/tr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/zh_CN/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 22 | 25 | 88.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/et/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 25 | 50 | 50.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hi_IN/LC_MESSAGES/sphinxcontrib.htmlhelp.po/mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hi/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/bg/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/bn/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ca/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [cak]({{< ref "/f40/language/cak.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/cak/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/cs/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/cy/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/de/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/eo/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/eu/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/fi/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/he/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/it/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/lt/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/lv/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/mk/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/nb_NO/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ne/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/nl/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pl/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pt/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pt_PT/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ro/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ru/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/si/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sl/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sr_RS/LC_MESSAGES/sphinxcontrib.htmlhelp.po/mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sr@latin/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sv/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ta/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/te/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/uk_UA/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [ur]({{< ref "/f40/language/ur.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ur/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/vi/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/zh_TW/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ar](/f40/language/ar) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ar/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [da](/f40/language/da) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/da/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [el](/f40/language/el) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/el/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [es](/f40/language/es) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/es/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [fa](/f40/language/fa) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/fa/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [fr](/f40/language/fr) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/fr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [hu](/f40/language/hu) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hu/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [id](/f40/language/id) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/id/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ja](/f40/language/ja) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ja/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ko](/f40/language/ko) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ko/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [pt_BR](/f40/language/pt_BR) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pt_BR/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [sk](/f40/language/sk) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sk/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [sq](/f40/language/sq) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sq/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [tr](/f40/language/tr) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/tr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 25 | 25 | 100.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/zh_CN/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [et](/f40/language/et) | 22 | 25 | 88.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/et/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [hi](/f40/language/hi) | 25 | 50 | 50.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hi_IN/LC_MESSAGES/sphinxcontrib.htmlhelp.po/mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hi/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [bg](/f40/language/bg) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/bg/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [bn](/f40/language/bn) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/bn/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ca](/f40/language/ca) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ca/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [cak](/f40/language/cak) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/cak/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [cs](/f40/language/cs) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/cs/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [cy](/f40/language/cy) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/cy/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [de](/f40/language/de) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/de/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [eo](/f40/language/eo) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/eo/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [eu](/f40/language/eu) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/eu/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [fi](/f40/language/fi) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/fi/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [he](/f40/language/he) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/he/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [hr](/f40/language/hr) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/hr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [it](/f40/language/it) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/it/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [lt](/f40/language/lt) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/lt/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [lv](/f40/language/lv) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/lv/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [mk](/f40/language/mk) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/mk/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [nb_NO](/f40/language/nb_NO) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/nb_NO/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ne](/f40/language/ne) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ne/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [nl](/f40/language/nl) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/nl/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [pl](/f40/language/pl) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pl/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [pt](/f40/language/pt) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pt/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [pt_PT](/f40/language/pt_PT) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/pt_PT/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ro](/f40/language/ro) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ro/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ru](/f40/language/ru) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ru/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [si](/f40/language/si) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/si/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [sl](/f40/language/sl) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sl/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [sr](/f40/language/sr) | 0 | 50 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sr_RS/LC_MESSAGES/sphinxcontrib.htmlhelp.po/mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sr/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sr@latin/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [sv](/f40/language/sv) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/sv/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ta](/f40/language/ta) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ta/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [te](/f40/language/te) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/te/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [uk](/f40/language/uk) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/uk_UA/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [ur](/f40/language/ur) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/ur/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [vi](/f40/language/vi) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/vi/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 0 | 25 | 0.0 | /mnt/stockage/packages/f40/python-sphinxcontrib-htmlhelp/sphinxcontrib/htmlhelp/locales/zh_TW/LC_MESSAGES/sphinxcontrib.htmlhelp.po | 
 {.sortable}
 
 

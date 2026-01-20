@@ -18,21 +18,21 @@ The package ibus-m17n (version 1.4.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/ar.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/bn.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/fr.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/id.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/ja.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/ka.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/pt_BR.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/si.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 6 | 57 | 10.5 | /mnt/stockage/packages/f36/ibus-m17n/po/zh_TW.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 0 | 57 | 0.0 | /mnt/stockage/packages/f36/ibus-m17n/po/fa.po | 
+ | [ar](/f36/language/ar) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/ar.po | 
+ | [bn](/f36/language/bn) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/bn.po | 
+ | [de](/f36/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/de.po | 
+ | [es](/f36/language/es) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/es.po | 
+ | [fr](/f36/language/fr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/fr.po | 
+ | [id](/f36/language/id) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/id.po | 
+ | [ja](/f36/language/ja) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/ja.po | 
+ | [ka](/f36/language/ka) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/ka.po | 
+ | [pt_BR](/f36/language/pt_BR) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/pt_BR.po | 
+ | [si](/f36/language/si) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/si.po | 
+ | [tr](/f36/language/tr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/tr.po | 
+ | [uk](/f36/language/uk) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 57 | 57 | 100.0 | /mnt/stockage/packages/f36/ibus-m17n/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 6 | 57 | 10.5 | /mnt/stockage/packages/f36/ibus-m17n/po/zh_TW.po | 
+ | [fa](/f36/language/fa) | 0 | 57 | 0.0 | /mnt/stockage/packages/f36/ibus-m17n/po/fa.po | 
 {.sortable}
 
 

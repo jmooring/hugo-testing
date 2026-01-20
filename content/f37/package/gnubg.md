@@ -18,21 +18,21 @@ The package gnubg (version 1.07.001):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 18074 | 18074 | 100.0 | /mnt/stockage/packages/f37/gnubg/po/fi.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 12619 | 18074 | 69.8 | /mnt/stockage/packages/f37/gnubg/po/it.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 11213 | 18074 | 62.0 | /mnt/stockage/packages/f37/gnubg/po/ro.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 11144 | 18074 | 61.7 | /mnt/stockage/packages/f37/gnubg/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 10736 | 18074 | 59.4 | /mnt/stockage/packages/f37/gnubg/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 9842 | 18074 | 54.5 | /mnt/stockage/packages/f37/gnubg/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 9526 | 18074 | 52.7 | /mnt/stockage/packages/f37/gnubg/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 7856 | 18074 | 43.5 | /mnt/stockage/packages/f37/gnubg/po/fr.po | 
- | [en_US]({{< ref "/f37/language/en_US.md" >}}) | 7418 | 18074 | 41.0 | /mnt/stockage/packages/f37/gnubg/po/en_US.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 4343 | 18074 | 24.0 | /mnt/stockage/packages/f37/gnubg/po/ja.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1336 | 18074 | 7.4 | /mnt/stockage/packages/f37/gnubg/po/tr.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 1332 | 18074 | 7.4 | /mnt/stockage/packages/f37/gnubg/po/is.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1012 | 18074 | 5.6 | /mnt/stockage/packages/f37/gnubg/po/ru.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 511 | 18074 | 2.8 | /mnt/stockage/packages/f37/gnubg/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 0 | 18074 | 0.0 | /mnt/stockage/packages/f37/gnubg/po/en_GB.po | 
+ | [fi](/f37/language/fi) | 18074 | 18074 | 100.0 | /mnt/stockage/packages/f37/gnubg/po/fi.po | 
+ | [it](/f37/language/it) | 12619 | 18074 | 69.8 | /mnt/stockage/packages/f37/gnubg/po/it.po | 
+ | [ro](/f37/language/ro) | 11213 | 18074 | 62.0 | /mnt/stockage/packages/f37/gnubg/po/ro.po | 
+ | [cs](/f37/language/cs) | 11144 | 18074 | 61.7 | /mnt/stockage/packages/f37/gnubg/po/cs.po | 
+ | [da](/f37/language/da) | 10736 | 18074 | 59.4 | /mnt/stockage/packages/f37/gnubg/po/da.po | 
+ | [de](/f37/language/de) | 9842 | 18074 | 54.5 | /mnt/stockage/packages/f37/gnubg/po/de.po | 
+ | [es](/f37/language/es) | 9526 | 18074 | 52.7 | /mnt/stockage/packages/f37/gnubg/po/es.po | 
+ | [fr](/f37/language/fr) | 7856 | 18074 | 43.5 | /mnt/stockage/packages/f37/gnubg/po/fr.po | 
+ | [en_US](/f37/language/en_US) | 7418 | 18074 | 41.0 | /mnt/stockage/packages/f37/gnubg/po/en_US.po | 
+ | [ja](/f37/language/ja) | 4343 | 18074 | 24.0 | /mnt/stockage/packages/f37/gnubg/po/ja.po | 
+ | [tr](/f37/language/tr) | 1336 | 18074 | 7.4 | /mnt/stockage/packages/f37/gnubg/po/tr.po | 
+ | [is](/f37/language/is) | 1332 | 18074 | 7.4 | /mnt/stockage/packages/f37/gnubg/po/is.po | 
+ | [ru](/f37/language/ru) | 1012 | 18074 | 5.6 | /mnt/stockage/packages/f37/gnubg/po/ru.po | 
+ | [el](/f37/language/el) | 511 | 18074 | 2.8 | /mnt/stockage/packages/f37/gnubg/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 0 | 18074 | 0.0 | /mnt/stockage/packages/f37/gnubg/po/en_GB.po | 
 {.sortable}
 
 

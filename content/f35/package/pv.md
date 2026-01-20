@@ -18,10 +18,10 @@ The package pv (version 1.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 257 | 475 | 54.1 | /mnt/stockage/packages/f35/pv/src/nls/fr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 226 | 475 | 47.6 | /mnt/stockage/packages/f35/pv/src/nls/de.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 226 | 475 | 47.6 | /mnt/stockage/packages/f35/pv/src/nls/pt.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 186 | 475 | 39.2 | /mnt/stockage/packages/f35/pv/src/nls/pl.po | 
+ | [fr](/f35/language/fr) | 257 | 475 | 54.1 | /mnt/stockage/packages/f35/pv/src/nls/fr.po | 
+ | [de](/f35/language/de) | 226 | 475 | 47.6 | /mnt/stockage/packages/f35/pv/src/nls/de.po | 
+ | [pt](/f35/language/pt) | 226 | 475 | 47.6 | /mnt/stockage/packages/f35/pv/src/nls/pt.po | 
+ | [pl](/f35/language/pl) | 186 | 475 | 39.2 | /mnt/stockage/packages/f35/pv/src/nls/pl.po | 
 {.sortable}
 
 

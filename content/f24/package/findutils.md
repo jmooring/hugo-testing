@@ -18,46 +18,46 @@ The package findutils (version 4.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/da.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/et.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/hu.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/nb.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/ru.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/sv.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/vi.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/el.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/eo.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/fi.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/nl.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 2422 | 2568 | 94.3 | /mnt/stockage/packages/f24/findutils/po/it.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 2422 | 2568 | 94.3 | /mnt/stockage/packages/f24/findutils/po/tr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 2063 | 2568 | 80.3 | /mnt/stockage/packages/f24/findutils/po/zh_CN.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1866 | 2568 | 72.7 | /mnt/stockage/packages/f24/findutils/po/ja.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 1856 | 2568 | 72.3 | /mnt/stockage/packages/f24/findutils/po/hr.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1768 | 2568 | 68.8 | /mnt/stockage/packages/f24/findutils/po/es.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1707 | 2568 | 66.5 | /mnt/stockage/packages/f24/findutils/po/gl.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 1474 | 2568 | 57.4 | /mnt/stockage/packages/f24/findutils/po/ga.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 1474 | 2568 | 57.4 | /mnt/stockage/packages/f24/findutils/po/id.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 1223 | 2568 | 47.6 | /mnt/stockage/packages/f24/findutils/po/bg.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1094 | 2568 | 42.6 | /mnt/stockage/packages/f24/findutils/po/pt.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 583 | 2568 | 22.7 | /mnt/stockage/packages/f24/findutils/po/ca.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 515 | 2568 | 20.1 | /mnt/stockage/packages/f24/findutils/po/ro.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 508 | 2568 | 19.8 | /mnt/stockage/packages/f24/findutils/po/sk.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 447 | 2568 | 17.4 | /mnt/stockage/packages/f24/findutils/po/zh_TW.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 405 | 2568 | 15.8 | /mnt/stockage/packages/f24/findutils/po/lt.po | 
- | [lg]({{< ref "/f24/language/lg.md" >}}) | 103 | 2568 | 4.0 | /mnt/stockage/packages/f24/findutils/po/lg.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 86 | 2568 | 3.3 | /mnt/stockage/packages/f24/findutils/po/ko.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 82 | 2568 | 3.2 | /mnt/stockage/packages/f24/findutils/po/be.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 55 | 2568 | 2.1 | /mnt/stockage/packages/f24/findutils/po/ms.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 2 | 2568 | 0.1 | /mnt/stockage/packages/f24/findutils/po/rw.po | 
+ | [cs](/f24/language/cs) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/cs.po | 
+ | [da](/f24/language/da) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/da.po | 
+ | [et](/f24/language/et) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/et.po | 
+ | [fr](/f24/language/fr) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/fr.po | 
+ | [hu](/f24/language/hu) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/hu.po | 
+ | [nb_NO](/f24/language/nb_NO) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/nb.po | 
+ | [pl](/f24/language/pl) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/ru.po | 
+ | [sl](/f24/language/sl) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/sl.po | 
+ | [sr](/f24/language/sr) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/sr.po | 
+ | [sv](/f24/language/sv) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/sv.po | 
+ | [uk](/f24/language/uk) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/uk.po | 
+ | [vi](/f24/language/vi) | 2545 | 2568 | 99.1 | /mnt/stockage/packages/f24/findutils/po/vi.po | 
+ | [de](/f24/language/de) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/de.po | 
+ | [el](/f24/language/el) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/el.po | 
+ | [eo](/f24/language/eo) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/eo.po | 
+ | [fi](/f24/language/fi) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/fi.po | 
+ | [nl](/f24/language/nl) | 2510 | 2568 | 97.7 | /mnt/stockage/packages/f24/findutils/po/nl.po | 
+ | [it](/f24/language/it) | 2422 | 2568 | 94.3 | /mnt/stockage/packages/f24/findutils/po/it.po | 
+ | [tr](/f24/language/tr) | 2422 | 2568 | 94.3 | /mnt/stockage/packages/f24/findutils/po/tr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 2063 | 2568 | 80.3 | /mnt/stockage/packages/f24/findutils/po/zh_CN.po | 
+ | [ja](/f24/language/ja) | 1866 | 2568 | 72.7 | /mnt/stockage/packages/f24/findutils/po/ja.po | 
+ | [hr](/f24/language/hr) | 1856 | 2568 | 72.3 | /mnt/stockage/packages/f24/findutils/po/hr.po | 
+ | [es](/f24/language/es) | 1768 | 2568 | 68.8 | /mnt/stockage/packages/f24/findutils/po/es.po | 
+ | [gl](/f24/language/gl) | 1707 | 2568 | 66.5 | /mnt/stockage/packages/f24/findutils/po/gl.po | 
+ | [ga](/f24/language/ga) | 1474 | 2568 | 57.4 | /mnt/stockage/packages/f24/findutils/po/ga.po | 
+ | [id](/f24/language/id) | 1474 | 2568 | 57.4 | /mnt/stockage/packages/f24/findutils/po/id.po | 
+ | [bg](/f24/language/bg) | 1223 | 2568 | 47.6 | /mnt/stockage/packages/f24/findutils/po/bg.po | 
+ | [pt](/f24/language/pt) | 1094 | 2568 | 42.6 | /mnt/stockage/packages/f24/findutils/po/pt.po | 
+ | [ca](/f24/language/ca) | 583 | 2568 | 22.7 | /mnt/stockage/packages/f24/findutils/po/ca.po | 
+ | [ro](/f24/language/ro) | 515 | 2568 | 20.1 | /mnt/stockage/packages/f24/findutils/po/ro.po | 
+ | [sk](/f24/language/sk) | 508 | 2568 | 19.8 | /mnt/stockage/packages/f24/findutils/po/sk.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 447 | 2568 | 17.4 | /mnt/stockage/packages/f24/findutils/po/zh_TW.po | 
+ | [lt](/f24/language/lt) | 405 | 2568 | 15.8 | /mnt/stockage/packages/f24/findutils/po/lt.po | 
+ | [lg](/f24/language/lg) | 103 | 2568 | 4.0 | /mnt/stockage/packages/f24/findutils/po/lg.po | 
+ | [ko](/f24/language/ko) | 86 | 2568 | 3.3 | /mnt/stockage/packages/f24/findutils/po/ko.po | 
+ | [be](/f24/language/be) | 82 | 2568 | 3.2 | /mnt/stockage/packages/f24/findutils/po/be.po | 
+ | [ms](/f24/language/ms) | 55 | 2568 | 2.1 | /mnt/stockage/packages/f24/findutils/po/ms.po | 
+ | [rw](/f24/language/rw) | 2 | 2568 | 0.1 | /mnt/stockage/packages/f24/findutils/po/rw.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package gdbm (version 1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f25/language/da.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/da.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/eo.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/fr.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/pt_BR.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/sr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/vi.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 611 | 779 | 78.4 | /mnt/stockage/packages/f25/gdbm/po/de.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 611 | 779 | 78.4 | /mnt/stockage/packages/f25/gdbm/po/fi.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 249 | 779 | 32.0 | /mnt/stockage/packages/f25/gdbm/po/ja.po | 
+ | [da](/f25/language/da) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/da.po | 
+ | [eo](/f25/language/eo) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/eo.po | 
+ | [fr](/f25/language/fr) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/fr.po | 
+ | [pl](/f25/language/pl) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/pt_BR.po | 
+ | [sr](/f25/language/sr) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/sr.po | 
+ | [uk](/f25/language/uk) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/uk.po | 
+ | [vi](/f25/language/vi) | 779 | 779 | 100.0 | /mnt/stockage/packages/f25/gdbm/po/vi.po | 
+ | [de](/f25/language/de) | 611 | 779 | 78.4 | /mnt/stockage/packages/f25/gdbm/po/de.po | 
+ | [fi](/f25/language/fi) | 611 | 779 | 78.4 | /mnt/stockage/packages/f25/gdbm/po/fi.po | 
+ | [ja](/f25/language/ja) | 249 | 779 | 32.0 | /mnt/stockage/packages/f25/gdbm/po/ja.po | 
 {.sortable}
 
 

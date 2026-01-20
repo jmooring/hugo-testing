@@ -18,11 +18,11 @@ The package mcrypt (version 2.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f7/language/el.md" >}}) | 956 | 965 | 99.1 | /mnt/stockage/packages/f7/mcrypt/po/el.po | 
- | [es_AR]({{< ref "/f7/language/es_AR.md" >}}) | 956 | 965 | 99.1 | /mnt/stockage/packages/f7/mcrypt/po/es_AR.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 735 | 965 | 76.2 | /mnt/stockage/packages/f7/mcrypt/po/de.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 308 | 965 | 31.9 | /mnt/stockage/packages/f7/mcrypt/po/cs.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 162 | 965 | 16.8 | /mnt/stockage/packages/f7/mcrypt/po/pl.po | 
+ | [el](/f7/language/el) | 956 | 965 | 99.1 | /mnt/stockage/packages/f7/mcrypt/po/el.po | 
+ | [es_AR](/f7/language/es_AR) | 956 | 965 | 99.1 | /mnt/stockage/packages/f7/mcrypt/po/es_AR.po | 
+ | [de](/f7/language/de) | 735 | 965 | 76.2 | /mnt/stockage/packages/f7/mcrypt/po/de.po | 
+ | [cs](/f7/language/cs) | 308 | 965 | 31.9 | /mnt/stockage/packages/f7/mcrypt/po/cs.po | 
+ | [pl](/f7/language/pl) | 162 | 965 | 16.8 | /mnt/stockage/packages/f7/mcrypt/po/pl.po | 
 {.sortable}
 
 

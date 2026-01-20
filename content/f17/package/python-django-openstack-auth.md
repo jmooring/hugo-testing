@@ -18,10 +18,10 @@ The package python-django-openstack-auth (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f17/language/es.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 31 | 46 | 67.4 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 31 | 46 | 67.4 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f17/language/es) | 46 | 46 | 100.0 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
+ | [ja](/f17/language/ja) | 31 | 46 | 67.4 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 31 | 46 | 67.4 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [en](/f17/language/en) | 0 | 46 | 0.0 | /mnt/stockage/packages/f17/python-django-openstack-auth/openstack_auth/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package gstreamer1-plugins-ugly-free (version 1.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ast.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/bg.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/el.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/fur.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/gl.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ja.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/lv.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sv.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ta.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/zh_CN.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/fi.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ms.po | 
- | [mt]({{< ref "/f32/language/mt.md" >}}) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/mt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ro.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 38 | 80 | 47.5 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/lt.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/af.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/az.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/en_GB.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/or.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sq.po | 
+ | [ast](/f32/language/ast) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ast.po | 
+ | [bg](/f32/language/bg) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/bg.po | 
+ | [ca](/f32/language/ca) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ca.po | 
+ | [cs](/f32/language/cs) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/cs.po | 
+ | [da](/f32/language/da) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/da.po | 
+ | [de](/f32/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/de.po | 
+ | [el](/f32/language/el) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/el.po | 
+ | [eo](/f32/language/eo) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/eo.po | 
+ | [es](/f32/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/es.po | 
+ | [fr](/f32/language/fr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/fr.po | 
+ | [fur](/f32/language/fur) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/fur.po | 
+ | [gl](/f32/language/gl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/gl.po | 
+ | [hr](/f32/language/hr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/hr.po | 
+ | [hu](/f32/language/hu) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/hu.po | 
+ | [id](/f32/language/id) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/id.po | 
+ | [it](/f32/language/it) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/it.po | 
+ | [ja](/f32/language/ja) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ja.po | 
+ | [lv](/f32/language/lv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/lv.po | 
+ | [nb_NO](/f32/language/nb_NO) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/nb.po | 
+ | [nl](/f32/language/nl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/nl.po | 
+ | [pl](/f32/language/pl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ru.po | 
+ | [sk](/f32/language/sk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sk.po | 
+ | [sl](/f32/language/sl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sl.po | 
+ | [sr](/f32/language/sr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sr.po | 
+ | [sv](/f32/language/sv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sv.po | 
+ | [ta](/f32/language/ta) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ta.po | 
+ | [tr](/f32/language/tr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/tr.po | 
+ | [uk](/f32/language/uk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/uk.po | 
+ | [vi](/f32/language/vi) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 80 | 80 | 100.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/zh_CN.po | 
+ | [eu](/f32/language/eu) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/eu.po | 
+ | [fi](/f32/language/fi) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/fi.po | 
+ | [ms](/f32/language/ms) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ms.po | 
+ | [mt](/f32/language/mt) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/mt.po | 
+ | [ro](/f32/language/ro) | 56 | 80 | 70.0 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/ro.po | 
+ | [lt](/f32/language/lt) | 38 | 80 | 47.5 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/lt.po | 
+ | [af](/f32/language/af) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/af.po | 
+ | [az](/f32/language/az) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/az.po | 
+ | [en_GB](/f32/language/en_GB) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/en_GB.po | 
+ | [or](/f32/language/or) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/or.po | 
+ | [sq](/f32/language/sq) | 7 | 80 | 8.8 | /mnt/stockage/packages/f32/gstreamer1-plugins-ugly-free/po/sq.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package drupal-service_links (version 6.x.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 235 | 235 | 100.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/fr.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/ru.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 284 | 287 | 99.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/it.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 255 | 274 | 93.1 | /mnt/stockage/packages/f15/drupal-service_links/translations/de.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 109 | 270 | 40.4 | /mnt/stockage/packages/f15/drupal-service_links/translations/he.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 16 | 241 | 6.6 | /mnt/stockage/packages/f15/drupal-service_links/translations/es.po | 
+ | [fr](/f15/language/fr) | 235 | 235 | 100.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/fr.po | 
+ | [pt](/f15/language/pt) | 249 | 249 | 100.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/pt.po | 
+ | [ru](/f15/language/ru) | 404 | 404 | 100.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/ru.po | 
+ | [it](/f15/language/it) | 284 | 287 | 99.0 | /mnt/stockage/packages/f15/drupal-service_links/translations/it.po | 
+ | [de](/f15/language/de) | 255 | 274 | 93.1 | /mnt/stockage/packages/f15/drupal-service_links/translations/de.po | 
+ | [he](/f15/language/he) | 109 | 270 | 40.4 | /mnt/stockage/packages/f15/drupal-service_links/translations/he.po | 
+ | [es](/f15/language/es) | 16 | 241 | 6.6 | /mnt/stockage/packages/f15/drupal-service_links/translations/es.po | 
 {.sortable}
 
 

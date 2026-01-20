@@ -18,19 +18,19 @@ The package quilter (version 2.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 1168 | 1168 | 100.0 | /mnt/stockage/packages/f31/quilter/po/eo.po/mnt/stockage/packages/f31/quilter/po/extra/eo.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1165 | 1172 | 99.4 | /mnt/stockage/packages/f31/quilter/po/ru.po/mnt/stockage/packages/f31/quilter/po/extra/ru.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 711 | 725 | 98.1 | /mnt/stockage/packages/f31/quilter/po/pl.po/mnt/stockage/packages/f31/quilter/po/extra/pl.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 896 | 920 | 97.4 | /mnt/stockage/packages/f31/quilter/po/fr.po/mnt/stockage/packages/f31/quilter/po/extra/fr.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 537 | 725 | 74.1 | /mnt/stockage/packages/f31/quilter/po/da.po/mnt/stockage/packages/f31/quilter/po/extra/da.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 501 | 725 | 69.1 | /mnt/stockage/packages/f31/quilter/po/nl_NL.po/mnt/stockage/packages/f31/quilter/po/extra/nl_NL.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 419 | 725 | 57.8 | /mnt/stockage/packages/f31/quilter/po/ja.po/mnt/stockage/packages/f31/quilter/po/extra/ja.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 233 | 725 | 32.1 | /mnt/stockage/packages/f31/quilter/po/es.po/mnt/stockage/packages/f31/quilter/po/extra/es.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 218 | 725 | 30.1 | /mnt/stockage/packages/f31/quilter/po/ca.po/mnt/stockage/packages/f31/quilter/po/extra/ca.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 218 | 725 | 30.1 | /mnt/stockage/packages/f31/quilter/po/pt_BR.po/mnt/stockage/packages/f31/quilter/po/extra/pt_BR.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 212 | 725 | 29.2 | /mnt/stockage/packages/f31/quilter/po/lt.po/mnt/stockage/packages/f31/quilter/po/extra/lt.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 177 | 725 | 24.4 | /mnt/stockage/packages/f31/quilter/po/de.po/mnt/stockage/packages/f31/quilter/po/extra/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 177 | 725 | 24.4 | /mnt/stockage/packages/f31/quilter/po/it.po/mnt/stockage/packages/f31/quilter/po/extra/it.po | 
+ | [eo](/f31/language/eo) | 1168 | 1168 | 100.0 | /mnt/stockage/packages/f31/quilter/po/eo.po/mnt/stockage/packages/f31/quilter/po/extra/eo.po | 
+ | [ru](/f31/language/ru) | 1165 | 1172 | 99.4 | /mnt/stockage/packages/f31/quilter/po/ru.po/mnt/stockage/packages/f31/quilter/po/extra/ru.po | 
+ | [pl](/f31/language/pl) | 711 | 725 | 98.1 | /mnt/stockage/packages/f31/quilter/po/pl.po/mnt/stockage/packages/f31/quilter/po/extra/pl.po | 
+ | [fr](/f31/language/fr) | 896 | 920 | 97.4 | /mnt/stockage/packages/f31/quilter/po/fr.po/mnt/stockage/packages/f31/quilter/po/extra/fr.po | 
+ | [da](/f31/language/da) | 537 | 725 | 74.1 | /mnt/stockage/packages/f31/quilter/po/da.po/mnt/stockage/packages/f31/quilter/po/extra/da.po | 
+ | [nl](/f31/language/nl) | 501 | 725 | 69.1 | /mnt/stockage/packages/f31/quilter/po/nl_NL.po/mnt/stockage/packages/f31/quilter/po/extra/nl_NL.po | 
+ | [ja](/f31/language/ja) | 419 | 725 | 57.8 | /mnt/stockage/packages/f31/quilter/po/ja.po/mnt/stockage/packages/f31/quilter/po/extra/ja.po | 
+ | [es](/f31/language/es) | 233 | 725 | 32.1 | /mnt/stockage/packages/f31/quilter/po/es.po/mnt/stockage/packages/f31/quilter/po/extra/es.po | 
+ | [ca](/f31/language/ca) | 218 | 725 | 30.1 | /mnt/stockage/packages/f31/quilter/po/ca.po/mnt/stockage/packages/f31/quilter/po/extra/ca.po | 
+ | [pt_BR](/f31/language/pt_BR) | 218 | 725 | 30.1 | /mnt/stockage/packages/f31/quilter/po/pt_BR.po/mnt/stockage/packages/f31/quilter/po/extra/pt_BR.po | 
+ | [lt](/f31/language/lt) | 212 | 725 | 29.2 | /mnt/stockage/packages/f31/quilter/po/lt.po/mnt/stockage/packages/f31/quilter/po/extra/lt.po | 
+ | [de](/f31/language/de) | 177 | 725 | 24.4 | /mnt/stockage/packages/f31/quilter/po/de.po/mnt/stockage/packages/f31/quilter/po/extra/de.po | 
+ | [it](/f31/language/it) | 177 | 725 | 24.4 | /mnt/stockage/packages/f31/quilter/po/it.po/mnt/stockage/packages/f31/quilter/po/extra/it.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package exiv2 (version 0.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 35453 | 35683 | 99.4 | /mnt/stockage/packages/f24/exiv2/po/sv.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 28533 | 35683 | 80.0 | /mnt/stockage/packages/f24/exiv2/po/ms.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 27133 | 35683 | 76.0 | /mnt/stockage/packages/f24/exiv2/po/es.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 23853 | 35683 | 66.8 | /mnt/stockage/packages/f24/exiv2/po/bs.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 18362 | 35683 | 51.5 | /mnt/stockage/packages/f24/exiv2/po/gl.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 13575 | 35683 | 38.0 | /mnt/stockage/packages/f24/exiv2/po/de.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 12478 | 35683 | 35.0 | /mnt/stockage/packages/f24/exiv2/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 11917 | 35683 | 33.4 | /mnt/stockage/packages/f24/exiv2/po/pt.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 9139 | 35683 | 25.6 | /mnt/stockage/packages/f24/exiv2/po/sk.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 7475 | 35683 | 20.9 | /mnt/stockage/packages/f24/exiv2/po/uk.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 5010 | 35683 | 14.0 | /mnt/stockage/packages/f24/exiv2/po/fr.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 4699 | 35683 | 13.2 | /mnt/stockage/packages/f24/exiv2/po/ug.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 3358 | 35683 | 9.4 | /mnt/stockage/packages/f24/exiv2/po/vi.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 3317 | 35683 | 9.3 | /mnt/stockage/packages/f24/exiv2/po/ru.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 423 | 35683 | 1.2 | /mnt/stockage/packages/f24/exiv2/po/fi.po | 
+ | [sv](/f24/language/sv) | 35453 | 35683 | 99.4 | /mnt/stockage/packages/f24/exiv2/po/sv.po | 
+ | [ms](/f24/language/ms) | 28533 | 35683 | 80.0 | /mnt/stockage/packages/f24/exiv2/po/ms.po | 
+ | [es](/f24/language/es) | 27133 | 35683 | 76.0 | /mnt/stockage/packages/f24/exiv2/po/es.po | 
+ | [bs](/f24/language/bs) | 23853 | 35683 | 66.8 | /mnt/stockage/packages/f24/exiv2/po/bs.po | 
+ | [gl](/f24/language/gl) | 18362 | 35683 | 51.5 | /mnt/stockage/packages/f24/exiv2/po/gl.po | 
+ | [de](/f24/language/de) | 13575 | 35683 | 38.0 | /mnt/stockage/packages/f24/exiv2/po/de.po | 
+ | [pl](/f24/language/pl) | 12478 | 35683 | 35.0 | /mnt/stockage/packages/f24/exiv2/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 11917 | 35683 | 33.4 | /mnt/stockage/packages/f24/exiv2/po/pt.po | 
+ | [sk](/f24/language/sk) | 9139 | 35683 | 25.6 | /mnt/stockage/packages/f24/exiv2/po/sk.po | 
+ | [uk](/f24/language/uk) | 7475 | 35683 | 20.9 | /mnt/stockage/packages/f24/exiv2/po/uk.po | 
+ | [fr](/f24/language/fr) | 5010 | 35683 | 14.0 | /mnt/stockage/packages/f24/exiv2/po/fr.po | 
+ | [ug](/f24/language/ug) | 4699 | 35683 | 13.2 | /mnt/stockage/packages/f24/exiv2/po/ug.po | 
+ | [vi](/f24/language/vi) | 3358 | 35683 | 9.4 | /mnt/stockage/packages/f24/exiv2/po/vi.po | 
+ | [ru](/f24/language/ru) | 3317 | 35683 | 9.3 | /mnt/stockage/packages/f24/exiv2/po/ru.po | 
+ | [fi](/f24/language/fi) | 423 | 35683 | 1.2 | /mnt/stockage/packages/f24/exiv2/po/fi.po | 
 {.sortable}
 
 

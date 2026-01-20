@@ -18,11 +18,11 @@ The package kernel (version 4.13.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/fr.po | 
+ | [de](/f25/language/de) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f25/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f25/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f25/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f25/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f25/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

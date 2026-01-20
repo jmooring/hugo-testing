@@ -18,46 +18,46 @@ The package eog-plugins (version 2.28.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/as.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/be@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/bg.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/el.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/en_GB.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/fr.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/gu.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/kn.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/lt.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/mk.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ml.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/nb.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pt_BR.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/sq.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/te.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/zh_HK.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 78 | 80 | 97.5 | /mnt/stockage/packages/f12/eog-plugins/po/bn_IN.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 77 | 80 | 96.2 | /mnt/stockage/packages/f12/eog-plugins/po/gl.po | 
+ | [ar](/f12/language/ar) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ar.po | 
+ | [as](/f12/language/as) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/as.po | 
+ | [be_Latn](/f12/language/be_Latn) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/be@latin.po | 
+ | [bg](/f12/language/bg) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/bg.po | 
+ | [ca](/f12/language/ca) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ca.po | 
+ | [cs](/f12/language/cs) | 28 | 28 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/cs.po | 
+ | [da](/f12/language/da) | 20 | 20 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/da.po | 
+ | [de](/f12/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/de.po | 
+ | [el](/f12/language/el) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/el.po | 
+ | [en_GB](/f12/language/en_GB) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/en_GB.po | 
+ | [es](/f12/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/es.po | 
+ | [eu](/f12/language/eu) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/eu.po | 
+ | [fi](/f12/language/fi) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/fi.po | 
+ | [fr](/f12/language/fr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/fr.po | 
+ | [gu](/f12/language/gu) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/gu.po | 
+ | [hu](/f12/language/hu) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/hu.po | 
+ | [it](/f12/language/it) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/it.po | 
+ | [ja](/f12/language/ja) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ja.po | 
+ | [kn](/f12/language/kn) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/kn.po | 
+ | [lt](/f12/language/lt) | 35 | 35 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/lt.po | 
+ | [mk](/f12/language/mk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/mk.po | 
+ | [ml](/f12/language/ml) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ml.po | 
+ | [mr](/f12/language/mr) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/nb.po | 
+ | [or](/f12/language/or) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/or.po | 
+ | [pa](/f12/language/pa) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pa.po | 
+ | [pl](/f12/language/pl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pl.po | 
+ | [pt](/f12/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/pt_BR.po | 
+ | [sl](/f12/language/sl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/sl.po | 
+ | [sq](/f12/language/sq) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/sq.po | 
+ | [sv](/f12/language/sv) | 80 | 80 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/sv.po | 
+ | [ta](/f12/language/ta) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/ta.po | 
+ | [te](/f12/language/te) | 28 | 28 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/te.po | 
+ | [vi](/f12/language/vi) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 23 | 23 | 100.0 | /mnt/stockage/packages/f12/eog-plugins/po/zh_HK.po | 
+ | [bn_IN](/f12/language/bn_IN) | 78 | 80 | 97.5 | /mnt/stockage/packages/f12/eog-plugins/po/bn_IN.po | 
+ | [gl](/f12/language/gl) | 77 | 80 | 96.2 | /mnt/stockage/packages/f12/eog-plugins/po/gl.po | 
 {.sortable}
 
 

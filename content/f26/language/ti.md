@@ -40,29 +40,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f26/package/iso-codes.md" >}}) | 387 | 15708 | 2.5 | Tigrinya | 
- | [libreoffice]({{< ref "/f26/package/libreoffice.md" >}}) | 448 | 99959 | 0.4 | LANGUAGE <LL@li.org> | 
- | [calibre]({{< ref "/f26/package/calibre.md" >}}) | 151 | 157301 | 0.1 | Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/) | 
- | [appcenter]({{< ref "/f26/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f26/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [dippi]({{< ref "/f26/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [harvey]({{< ref "/f26/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [maya-calendar]({{< ref "/f26/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f26/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f26/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f26/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f26/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f26/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f26/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f26/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f26/package/slick-greeter.md" >}}) | 0 | 211 | 0.0 | Tigrinya <ti@li.org> | 
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f26/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f26/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f26/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f26/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f26/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f26/package/vocal.md" >}}) | 0 | 377 | 0.0 | Tigrinya <ti@li.org> | 
+ | [iso-codes](/f26/package/iso-codes) | 387 | 15708 | 2.5 | Tigrinya | 
+ | [libreoffice](/f26/package/libreoffice) | 448 | 99959 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [calibre](/f26/package/calibre) | 151 | 157301 | 0.1 | Tigrinya (http://www.transifex.com/calibre/calibre/language/ti/) | 
+ | [appcenter](/f26/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f26/package/audience) | 0 | 106 | 0.0 |  | 
+ | [dippi](/f26/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [harvey](/f26/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [maya-calendar](/f26/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f26/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f26/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f26/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f26/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f26/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f26/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f26/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f26/package/slick-greeter) | 0 | 211 | 0.0 | Tigrinya <ti@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f26/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f26/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f26/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f26/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f26/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f26/package/vocal) | 0 | 377 | 0.0 | Tigrinya <ti@li.org> | 
 {.sortable}
 
 

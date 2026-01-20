@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f12/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [poedit]({{< ref "/f12/package/poedit.md" >}}) | 1089 | 1162 | 93.7 | Español <eratos2000@gmail.com> | 
+ | [gnome-applets](/f12/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f12/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [poedit](/f12/package/poedit) | 1089 | 1162 | 93.7 | Español <eratos2000@gmail.com> | 
 {.sortable}
 
 

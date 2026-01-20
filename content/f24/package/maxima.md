@@ -18,8 +18,8 @@ The package maxima (version 5.38.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 1475 | 6968 | 21.2 | /mnt/stockage/packages/f24/maxima/locale/es.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 231 | 6968 | 3.3 | /mnt/stockage/packages/f24/maxima/locale/pt.po | 
+ | [es](/f24/language/es) | 1475 | 6968 | 21.2 | /mnt/stockage/packages/f24/maxima/locale/es.po | 
+ | [pt](/f24/language/pt) | 231 | 6968 | 3.3 | /mnt/stockage/packages/f24/maxima/locale/pt.po | 
 {.sortable}
 
 

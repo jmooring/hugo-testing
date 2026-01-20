@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deluge]({{< ref "/f7/package/deluge.md" >}}) | 1 | 2352 | 0.0 | Piemontese <pms@li.org> | 
+ | [deluge](/f7/package/deluge) | 1 | 2352 | 0.0 | Piemontese <pms@li.org> | 
 {.sortable}
 
 

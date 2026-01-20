@@ -18,9 +18,9 @@ The package gimmix (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f10/gimmix/po/de.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f10/gimmix/po/tr.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f10/gimmix/po/zh_TW.po | 
+ | [de](/f10/language/de) | 533 | 533 | 100.0 | /mnt/stockage/packages/f10/gimmix/po/de.po | 
+ | [tr](/f10/language/tr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f10/gimmix/po/tr.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 678 | 678 | 100.0 | /mnt/stockage/packages/f10/gimmix/po/zh_TW.po | 
 {.sortable}
 
 

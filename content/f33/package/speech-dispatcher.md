@@ -18,14 +18,14 @@ The package speech-dispatcher (version 0.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/fr.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/pt_BR.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1362 | 1427 | 95.4 | /mnt/stockage/packages/f33/speech-dispatcher/po/de.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 781 | 1427 | 54.7 | /mnt/stockage/packages/f33/speech-dispatcher/po/nb_NO.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 285 | 1427 | 20.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/cs.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 285 | 1427 | 20.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/hu.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 17 | 1427 | 1.2 | /mnt/stockage/packages/f33/speech-dispatcher/po/ru.po | 
+ | [fr](/f33/language/fr) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/fr.po | 
+ | [pt](/f33/language/pt) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1427 | 1427 | 100.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/pt_BR.po | 
+ | [de](/f33/language/de) | 1362 | 1427 | 95.4 | /mnt/stockage/packages/f33/speech-dispatcher/po/de.po | 
+ | [nb_NO](/f33/language/nb_NO) | 781 | 1427 | 54.7 | /mnt/stockage/packages/f33/speech-dispatcher/po/nb_NO.po | 
+ | [cs](/f33/language/cs) | 285 | 1427 | 20.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/cs.po | 
+ | [hu](/f33/language/hu) | 285 | 1427 | 20.0 | /mnt/stockage/packages/f33/speech-dispatcher/po/hu.po | 
+ | [ru](/f33/language/ru) | 17 | 1427 | 1.2 | /mnt/stockage/packages/f33/speech-dispatcher/po/ru.po | 
 {.sortable}
 
 

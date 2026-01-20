@@ -18,17 +18,17 @@ The package agave (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f7/agave/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/agave/po/es_ES.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/it.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/agave/po/nl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/agave/po/pt_BR.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/agave/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/sv.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/zh_TW.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 114 | 115 | 99.1 | /mnt/stockage/packages/f7/agave/po/cs.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 82 | 85 | 96.5 | /mnt/stockage/packages/f7/agave/po/bg.po | 
+ | [ca](/f7/language/ca) | 108 | 108 | 100.0 | /mnt/stockage/packages/f7/agave/po/ca.po | 
+ | [de](/f7/language/de) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/de.po | 
+ | [es](/f7/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/agave/po/es_ES.po | 
+ | [it](/f7/language/it) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/it.po | 
+ | [nl](/f7/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/agave/po/nl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f7/agave/po/pt_BR.po | 
+ | [ru](/f7/language/ru) | 87 | 87 | 100.0 | /mnt/stockage/packages/f7/agave/po/ru.po | 
+ | [sv](/f7/language/sv) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/sv.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 115 | 115 | 100.0 | /mnt/stockage/packages/f7/agave/po/zh_TW.po | 
+ | [cs](/f7/language/cs) | 114 | 115 | 99.1 | /mnt/stockage/packages/f7/agave/po/cs.po | 
+ | [bg](/f7/language/bg) | 82 | 85 | 96.5 | /mnt/stockage/packages/f7/agave/po/bg.po | 
 {.sortable}
 
 

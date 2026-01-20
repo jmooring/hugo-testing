@@ -18,101 +18,101 @@ The package kf5-kjsembed (version 5.33.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ar/kjsembed5.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/bs/kjsembed5.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ca/kjsembed5.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ca@valencia/kjsembed5.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/da/kjsembed5.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/de/kjsembed5.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/el/kjsembed5.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/en_GB/kjsembed5.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/vi/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/bn/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/cs/kjsembed5.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/es/kjsembed5.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/et/kjsembed5.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/eu/kjsembed5.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fi/kjsembed5.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fr/kjsembed5.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ga/kjsembed5.po | 
- | [gd]({{< ref "/f24/language/gd.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/gd/kjsembed5.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/gl/kjsembed5.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/he/kjsembed5.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hr/kjsembed5.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hu/kjsembed5.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hy/kjsembed5.po | 
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ia/kjsembed5.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/id/kjsembed5.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/is/kjsembed5.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/it/kjsembed5.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/kk/kjsembed5.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/km/kjsembed5.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ko/kjsembed5.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/lv/kjsembed5.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/mr/kjsembed5.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nb/kjsembed5.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nds/kjsembed5.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nl/kjsembed5.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nn/kjsembed5.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pa/kjsembed5.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pl/kjsembed5.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pt/kjsembed5.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pt_BR/kjsembed5.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ro/kjsembed5.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ru/kjsembed5.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sk/kjsembed5.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sl/kjsembed5.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr/kjsembed5.po | 
- | [sr@ijekavian]({{< ref "/f24/language/sr@ijekavian.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr@ijekavian/kjsembed5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f24/language/sr@ijekavian_Latn.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr@ijekavianlatin/kjsembed5.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr@latin/kjsembed5.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sv/kjsembed5.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ta/kjsembed5.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/te/kjsembed5.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/th/kjsembed5.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/tr/kjsembed5.po | 
- | [tt]({{< ref "/f24/language/tt.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/tt/kjsembed5.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ug/kjsembed5.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/uk/kjsembed5.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/zh_CN/kjsembed5.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/zh_TW/kjsembed5.po | 
- | [se]({{< ref "/f24/language/se.md" >}}) | 242 | 248 | 97.6 | /mnt/stockage/packages/f24/kf5-kjsembed/po/se/kjsembed5.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 238 | 248 | 96.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ja/kjsembed5.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 236 | 248 | 95.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fa/kjsembed5.po | 
- | [fy]({{< ref "/f24/language/fy.md" >}}) | 236 | 248 | 95.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fy/kjsembed5.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 236 | 248 | 95.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/kn/kjsembed5.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 682 | 744 | 91.7 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hne/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/mai/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/hi/kjsembed5.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 226 | 248 | 91.1 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ml/kjsembed5.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 224 | 248 | 90.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/eo/kjsembed5.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 224 | 248 | 90.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/si/kjsembed5.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 224 | 248 | 90.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/tg/kjsembed5.po | 
- | [csb]({{< ref "/f24/language/csb.md" >}}) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/csb/kjsembed5.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/gu/kjsembed5.po | 
- | [hsb]({{< ref "/f24/language/hsb.md" >}}) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hsb/kjsembed5.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/or/kjsembed5.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 214 | 248 | 86.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/bn_IN/kjsembed5.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 214 | 248 | 86.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/wa/kjsembed5.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 213 | 248 | 85.9 | /mnt/stockage/packages/f24/kf5-kjsembed/po/mk/kjsembed5.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 212 | 248 | 85.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/as/kjsembed5.po | 
- | [crh]({{< ref "/f24/language/crh.md" >}}) | 212 | 248 | 85.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/crh/kjsembed5.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 211 | 248 | 85.1 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ne/kjsembed5.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 194 | 248 | 78.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ku/kjsembed5.po | 
- | [be_Latn]({{< ref "/f24/language/be_Latn.md" >}}) | 190 | 248 | 76.6 | /mnt/stockage/packages/f24/kf5-kjsembed/po/be@latin/kjsembed5.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 172 | 248 | 69.4 | /mnt/stockage/packages/f24/kf5-kjsembed/po/lt/kjsembed5.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 161 | 248 | 64.9 | /mnt/stockage/packages/f24/kf5-kjsembed/po/bg/kjsembed5.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 159 | 248 | 64.1 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ast/kjsembed5.po | 
- | [ps]({{< ref "/f24/language/ps.md" >}}) | 156 | 248 | 62.9 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ps/kjsembed5.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 106 | 248 | 42.7 | /mnt/stockage/packages/f24/kf5-kjsembed/po/be/kjsembed5.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 76 | 248 | 30.6 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ms/kjsembed5.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 10 | 248 | 4.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/br/kjsembed5.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 2 | 248 | 0.8 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sq/kjsembed5.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/af/kjsembed5.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/cy/kjsembed5.po | 
- | [ha]({{< ref "/f24/language/ha.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ha/kjsembed5.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ka/kjsembed5.po | 
- | [lb]({{< ref "/f24/language/lb.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/lb/kjsembed5.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/oc/kjsembed5.po | 
- | [uz]({{< ref "/f24/language/uz.md" >}}) | 0 | 496 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/uz/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/uz@cyrillic/kjsembed5.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/xh/kjsembed5.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/zh_HK/kjsembed5.po | 
+ | [ar](/f24/language/ar) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ar/kjsembed5.po | 
+ | [bs](/f24/language/bs) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/bs/kjsembed5.po | 
+ | [ca](/f24/language/ca) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ca/kjsembed5.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ca@valencia/kjsembed5.po | 
+ | [da](/f24/language/da) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/da/kjsembed5.po | 
+ | [de](/f24/language/de) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/de/kjsembed5.po | 
+ | [el](/f24/language/el) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/el/kjsembed5.po | 
+ | [en_GB](/f24/language/en_GB) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/en_GB/kjsembed5.po | 
+ | [en_US](/f24/language/en_US) | 744 | 744 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/vi/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/bn/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/cs/kjsembed5.po | 
+ | [es](/f24/language/es) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/es/kjsembed5.po | 
+ | [et](/f24/language/et) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/et/kjsembed5.po | 
+ | [eu](/f24/language/eu) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/eu/kjsembed5.po | 
+ | [fi](/f24/language/fi) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fi/kjsembed5.po | 
+ | [fr](/f24/language/fr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fr/kjsembed5.po | 
+ | [ga](/f24/language/ga) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ga/kjsembed5.po | 
+ | [gd](/f24/language/gd) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/gd/kjsembed5.po | 
+ | [gl](/f24/language/gl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/gl/kjsembed5.po | 
+ | [he](/f24/language/he) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/he/kjsembed5.po | 
+ | [hr](/f24/language/hr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hr/kjsembed5.po | 
+ | [hu](/f24/language/hu) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hu/kjsembed5.po | 
+ | [hy](/f24/language/hy) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hy/kjsembed5.po | 
+ | [ia](/f24/language/ia) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ia/kjsembed5.po | 
+ | [id](/f24/language/id) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/id/kjsembed5.po | 
+ | [is](/f24/language/is) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/is/kjsembed5.po | 
+ | [it](/f24/language/it) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/it/kjsembed5.po | 
+ | [kk](/f24/language/kk) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/kk/kjsembed5.po | 
+ | [km](/f24/language/km) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/km/kjsembed5.po | 
+ | [ko](/f24/language/ko) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ko/kjsembed5.po | 
+ | [lv](/f24/language/lv) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/lv/kjsembed5.po | 
+ | [mr](/f24/language/mr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/mr/kjsembed5.po | 
+ | [nb_NO](/f24/language/nb_NO) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nb/kjsembed5.po | 
+ | [nds](/f24/language/nds) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nds/kjsembed5.po | 
+ | [nl](/f24/language/nl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nl/kjsembed5.po | 
+ | [nn](/f24/language/nn) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/nn/kjsembed5.po | 
+ | [pa](/f24/language/pa) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pa/kjsembed5.po | 
+ | [pl](/f24/language/pl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pl/kjsembed5.po | 
+ | [pt](/f24/language/pt) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pt/kjsembed5.po | 
+ | [pt_BR](/f24/language/pt_BR) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/pt_BR/kjsembed5.po | 
+ | [ro](/f24/language/ro) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ro/kjsembed5.po | 
+ | [ru](/f24/language/ru) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ru/kjsembed5.po | 
+ | [sk](/f24/language/sk) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sk/kjsembed5.po | 
+ | [sl](/f24/language/sl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sl/kjsembed5.po | 
+ | [sr](/f24/language/sr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr/kjsembed5.po | 
+ | [sr@ijekavian](/f24/language/sr@ijekavian) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr@ijekavian/kjsembed5.po | 
+ | [sr@ijekavian_Latn](/f24/language/sr@ijekavian_Latn) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr@ijekavianlatin/kjsembed5.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sr@latin/kjsembed5.po | 
+ | [sv](/f24/language/sv) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sv/kjsembed5.po | 
+ | [ta](/f24/language/ta) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ta/kjsembed5.po | 
+ | [te](/f24/language/te) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/te/kjsembed5.po | 
+ | [th](/f24/language/th) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/th/kjsembed5.po | 
+ | [tr](/f24/language/tr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/tr/kjsembed5.po | 
+ | [tt](/f24/language/tt) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/tt/kjsembed5.po | 
+ | [ug](/f24/language/ug) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ug/kjsembed5.po | 
+ | [uk](/f24/language/uk) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/uk/kjsembed5.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/zh_CN/kjsembed5.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/zh_TW/kjsembed5.po | 
+ | [se](/f24/language/se) | 242 | 248 | 97.6 | /mnt/stockage/packages/f24/kf5-kjsembed/po/se/kjsembed5.po | 
+ | [ja](/f24/language/ja) | 238 | 248 | 96.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ja/kjsembed5.po | 
+ | [fa](/f24/language/fa) | 236 | 248 | 95.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fa/kjsembed5.po | 
+ | [fy](/f24/language/fy) | 236 | 248 | 95.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/fy/kjsembed5.po | 
+ | [kn](/f24/language/kn) | 236 | 248 | 95.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/kn/kjsembed5.po | 
+ | [hi](/f24/language/hi) | 682 | 744 | 91.7 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hne/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/mai/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/hi/kjsembed5.po | 
+ | [ml](/f24/language/ml) | 226 | 248 | 91.1 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ml/kjsembed5.po | 
+ | [eo](/f24/language/eo) | 224 | 248 | 90.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/eo/kjsembed5.po | 
+ | [si](/f24/language/si) | 224 | 248 | 90.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/si/kjsembed5.po | 
+ | [tg](/f24/language/tg) | 224 | 248 | 90.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/tg/kjsembed5.po | 
+ | [csb](/f24/language/csb) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/csb/kjsembed5.po | 
+ | [gu](/f24/language/gu) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/gu/kjsembed5.po | 
+ | [hsb](/f24/language/hsb) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/hsb/kjsembed5.po | 
+ | [or](/f24/language/or) | 222 | 248 | 89.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/or/kjsembed5.po | 
+ | [bn_IN](/f24/language/bn_IN) | 214 | 248 | 86.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/bn_IN/kjsembed5.po | 
+ | [wa](/f24/language/wa) | 214 | 248 | 86.3 | /mnt/stockage/packages/f24/kf5-kjsembed/po/wa/kjsembed5.po | 
+ | [mk](/f24/language/mk) | 213 | 248 | 85.9 | /mnt/stockage/packages/f24/kf5-kjsembed/po/mk/kjsembed5.po | 
+ | [as](/f24/language/as) | 212 | 248 | 85.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/as/kjsembed5.po | 
+ | [crh](/f24/language/crh) | 212 | 248 | 85.5 | /mnt/stockage/packages/f24/kf5-kjsembed/po/crh/kjsembed5.po | 
+ | [ne](/f24/language/ne) | 211 | 248 | 85.1 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ne/kjsembed5.po | 
+ | [ku](/f24/language/ku) | 194 | 248 | 78.2 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ku/kjsembed5.po | 
+ | [be_Latn](/f24/language/be_Latn) | 190 | 248 | 76.6 | /mnt/stockage/packages/f24/kf5-kjsembed/po/be@latin/kjsembed5.po | 
+ | [lt](/f24/language/lt) | 172 | 248 | 69.4 | /mnt/stockage/packages/f24/kf5-kjsembed/po/lt/kjsembed5.po | 
+ | [bg](/f24/language/bg) | 161 | 248 | 64.9 | /mnt/stockage/packages/f24/kf5-kjsembed/po/bg/kjsembed5.po | 
+ | [ast](/f24/language/ast) | 159 | 248 | 64.1 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ast/kjsembed5.po | 
+ | [ps](/f24/language/ps) | 156 | 248 | 62.9 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ps/kjsembed5.po | 
+ | [be](/f24/language/be) | 106 | 248 | 42.7 | /mnt/stockage/packages/f24/kf5-kjsembed/po/be/kjsembed5.po | 
+ | [ms](/f24/language/ms) | 76 | 248 | 30.6 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ms/kjsembed5.po | 
+ | [br](/f24/language/br) | 10 | 248 | 4.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/br/kjsembed5.po | 
+ | [sq](/f24/language/sq) | 2 | 248 | 0.8 | /mnt/stockage/packages/f24/kf5-kjsembed/po/sq/kjsembed5.po | 
+ | [af](/f24/language/af) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/af/kjsembed5.po | 
+ | [cy](/f24/language/cy) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/cy/kjsembed5.po | 
+ | [ha](/f24/language/ha) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ha/kjsembed5.po | 
+ | [ka](/f24/language/ka) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/ka/kjsembed5.po | 
+ | [lb](/f24/language/lb) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/lb/kjsembed5.po | 
+ | [oc](/f24/language/oc) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/oc/kjsembed5.po | 
+ | [uz](/f24/language/uz) | 0 | 496 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/uz/kjsembed5.po/mnt/stockage/packages/f24/kf5-kjsembed/po/uz@cyrillic/kjsembed5.po | 
+ | [xh](/f24/language/xh) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/xh/kjsembed5.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 0 | 248 | 0.0 | /mnt/stockage/packages/f24/kf5-kjsembed/po/zh_HK/kjsembed5.po | 
 {.sortable}
 
 

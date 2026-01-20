@@ -18,13 +18,13 @@ The package kchmviewer (version 4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f9/language/error.md" >}}) | 746 | 1081 | 69.0 | /mnt/stockage/packages/f9/kchmviewer/po/du.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 746 | 1081 | 69.0 | /mnt/stockage/packages/f9/kchmviewer/po/fr.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 734 | 1081 | 67.9 | /mnt/stockage/packages/f9/kchmviewer/po/cs.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 724 | 1081 | 67.0 | /mnt/stockage/packages/f9/kchmviewer/po/it.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 647 | 1081 | 59.9 | /mnt/stockage/packages/f9/kchmviewer/po/zh_CN.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 614 | 1081 | 56.8 | /mnt/stockage/packages/f9/kchmviewer/po/tr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 595 | 1081 | 55.0 | /mnt/stockage/packages/f9/kchmviewer/po/ru.po | 
+ | [error](/f9/language/error) | 746 | 1081 | 69.0 | /mnt/stockage/packages/f9/kchmviewer/po/du.po | 
+ | [fr](/f9/language/fr) | 746 | 1081 | 69.0 | /mnt/stockage/packages/f9/kchmviewer/po/fr.po | 
+ | [cs](/f9/language/cs) | 734 | 1081 | 67.9 | /mnt/stockage/packages/f9/kchmviewer/po/cs.po | 
+ | [it](/f9/language/it) | 724 | 1081 | 67.0 | /mnt/stockage/packages/f9/kchmviewer/po/it.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 647 | 1081 | 59.9 | /mnt/stockage/packages/f9/kchmviewer/po/zh_CN.po | 
+ | [tr](/f9/language/tr) | 614 | 1081 | 56.8 | /mnt/stockage/packages/f9/kchmviewer/po/tr.po | 
+ | [ru](/f9/language/ru) | 595 | 1081 | 55.0 | /mnt/stockage/packages/f9/kchmviewer/po/ru.po | 
 {.sortable}
 
 

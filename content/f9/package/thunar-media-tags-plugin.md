@@ -18,20 +18,20 @@ The package thunar-media-tags-plugin (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/de.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/el.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/eu.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/hu.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/ja.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/ru.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/zh_TW.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 140 | 144 | 97.2 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/ca.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 109 | 144 | 75.7 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/pa.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 86 | 144 | 59.7 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/nl.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 41 | 144 | 28.5 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/gl.po | 
+ | [cs](/f9/language/cs) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/cs.po | 
+ | [de](/f9/language/de) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/de.po | 
+ | [el](/f9/language/el) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/el.po | 
+ | [eu](/f9/language/eu) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/eu.po | 
+ | [fr](/f9/language/fr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/fr.po | 
+ | [hu](/f9/language/hu) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/hu.po | 
+ | [ja](/f9/language/ja) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/ja.po | 
+ | [pl](/f9/language/pl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/pl.po | 
+ | [ru](/f9/language/ru) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/ru.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 144 | 144 | 100.0 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/zh_TW.po | 
+ | [ca](/f9/language/ca) | 140 | 144 | 97.2 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/ca.po | 
+ | [pa](/f9/language/pa) | 109 | 144 | 75.7 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/pa.po | 
+ | [nl](/f9/language/nl) | 86 | 144 | 59.7 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/nl.po | 
+ | [gl](/f9/language/gl) | 41 | 144 | 28.5 | /mnt/stockage/packages/f9/thunar-media-tags-plugin/po/gl.po | 
 {.sortable}
 
 

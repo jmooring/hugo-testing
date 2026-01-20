@@ -18,27 +18,27 @@ The package drawing (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/nl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/tr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1452 | 1453 | 99.9 | /mnt/stockage/packages/f32/drawing/po/ja.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1277 | 1453 | 87.9 | /mnt/stockage/packages/f32/drawing/po/de.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1235 | 1453 | 85.0 | /mnt/stockage/packages/f32/drawing/po/cs.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1073 | 1453 | 73.8 | /mnt/stockage/packages/f32/drawing/po/eu.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 1053 | 1453 | 72.5 | /mnt/stockage/packages/f32/drawing/po/da.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 883 | 1453 | 60.8 | /mnt/stockage/packages/f32/drawing/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 879 | 1453 | 60.5 | /mnt/stockage/packages/f32/drawing/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 869 | 1453 | 59.8 | /mnt/stockage/packages/f32/drawing/po/zh_CN.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 854 | 1453 | 58.8 | /mnt/stockage/packages/f32/drawing/po/hr.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 822 | 1453 | 56.6 | /mnt/stockage/packages/f32/drawing/po/fi.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 794 | 1453 | 54.6 | /mnt/stockage/packages/f32/drawing/po/pl.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 755 | 1453 | 52.0 | /mnt/stockage/packages/f32/drawing/po/id.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 663 | 1453 | 45.6 | /mnt/stockage/packages/f32/drawing/po/hu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 372 | 1453 | 25.6 | /mnt/stockage/packages/f32/drawing/po/he.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 322 | 1453 | 22.2 | /mnt/stockage/packages/f32/drawing/po/ru.po | 
+ | [es](/f32/language/es) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/es.po | 
+ | [fr](/f32/language/fr) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/fr.po | 
+ | [it](/f32/language/it) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/it.po | 
+ | [nl](/f32/language/nl) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/nl.po | 
+ | [sv](/f32/language/sv) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/sv.po | 
+ | [tr](/f32/language/tr) | 1453 | 1453 | 100.0 | /mnt/stockage/packages/f32/drawing/po/tr.po | 
+ | [ja](/f32/language/ja) | 1452 | 1453 | 99.9 | /mnt/stockage/packages/f32/drawing/po/ja.po | 
+ | [de](/f32/language/de) | 1277 | 1453 | 87.9 | /mnt/stockage/packages/f32/drawing/po/de.po | 
+ | [cs](/f32/language/cs) | 1235 | 1453 | 85.0 | /mnt/stockage/packages/f32/drawing/po/cs.po | 
+ | [eu](/f32/language/eu) | 1073 | 1453 | 73.8 | /mnt/stockage/packages/f32/drawing/po/eu.po | 
+ | [da](/f32/language/da) | 1053 | 1453 | 72.5 | /mnt/stockage/packages/f32/drawing/po/da.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 883 | 1453 | 60.8 | /mnt/stockage/packages/f32/drawing/po/zh_TW.po | 
+ | [pt_BR](/f32/language/pt_BR) | 879 | 1453 | 60.5 | /mnt/stockage/packages/f32/drawing/po/pt_BR.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 869 | 1453 | 59.8 | /mnt/stockage/packages/f32/drawing/po/zh_CN.po | 
+ | [hr](/f32/language/hr) | 854 | 1453 | 58.8 | /mnt/stockage/packages/f32/drawing/po/hr.po | 
+ | [fi](/f32/language/fi) | 822 | 1453 | 56.6 | /mnt/stockage/packages/f32/drawing/po/fi.po | 
+ | [pl](/f32/language/pl) | 794 | 1453 | 54.6 | /mnt/stockage/packages/f32/drawing/po/pl.po | 
+ | [id](/f32/language/id) | 755 | 1453 | 52.0 | /mnt/stockage/packages/f32/drawing/po/id.po | 
+ | [hu](/f32/language/hu) | 663 | 1453 | 45.6 | /mnt/stockage/packages/f32/drawing/po/hu.po | 
+ | [he](/f32/language/he) | 372 | 1453 | 25.6 | /mnt/stockage/packages/f32/drawing/po/he.po | 
+ | [ru](/f32/language/ru) | 322 | 1453 | 22.2 | /mnt/stockage/packages/f32/drawing/po/ru.po | 
 {.sortable}
 
 

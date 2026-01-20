@@ -18,14 +18,14 @@ The package modem-manager-gui (version 0.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f20/modem-manager-gui/po/en_US.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f20/modem-manager-gui/po/ru.po | 
- | [uz]({{< ref "/f20/language/uz.md" >}}) | 605 | 1047 | 57.8 | /mnt/stockage/packages/f20/modem-manager-gui/po/uz.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/id.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/pt_BR.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/tr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/uk.po | 
- | [bn_BD]({{< ref "/f20/language/bn_BD.md" >}}) | 350 | 1047 | 33.4 | /mnt/stockage/packages/f20/modem-manager-gui/po/bn_BD.po | 
+ | [en_US](/f20/language/en_US) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f20/modem-manager-gui/po/en_US.po | 
+ | [ru](/f20/language/ru) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f20/modem-manager-gui/po/ru.po | 
+ | [uz](/f20/language/uz) | 605 | 1047 | 57.8 | /mnt/stockage/packages/f20/modem-manager-gui/po/uz.po | 
+ | [id](/f20/language/id) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/id.po | 
+ | [pt_BR](/f20/language/pt_BR) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/pt_BR.po | 
+ | [tr](/f20/language/tr) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/tr.po | 
+ | [uk](/f20/language/uk) | 498 | 1047 | 47.6 | /mnt/stockage/packages/f20/modem-manager-gui/po/uk.po | 
+ | [bn_BD](/f20/language/bn_BD) | 350 | 1047 | 33.4 | /mnt/stockage/packages/f20/modem-manager-gui/po/bn_BD.po | 
 {.sortable}
 
 

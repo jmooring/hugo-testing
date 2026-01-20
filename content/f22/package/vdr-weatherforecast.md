@@ -18,7 +18,7 @@ The package vdr-weatherforecast (version 0.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 64 | 66 | 97.0 | /mnt/stockage/packages/f22/vdr-weatherforecast/po/de_DE.po | 
+ | [de](/f22/language/de) | 64 | 66 | 97.0 | /mnt/stockage/packages/f22/vdr-weatherforecast/po/de_DE.po | 
 {.sortable}
 
 

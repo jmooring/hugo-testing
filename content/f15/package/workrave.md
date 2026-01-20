@@ -18,37 +18,37 @@ The package workrave (version 1.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f15/workrave/po/zh_TW.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1207 | 1227 | 98.4 | /mnt/stockage/packages/f15/workrave/po/nl.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 1171 | 1227 | 95.4 | /mnt/stockage/packages/f15/workrave/po/ga.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 1170 | 1227 | 95.4 | /mnt/stockage/packages/f15/workrave/po/ca.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 1167 | 1227 | 95.1 | /mnt/stockage/packages/f15/workrave/po/ko.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 1082 | 1227 | 88.2 | /mnt/stockage/packages/f15/workrave/po/hu.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 1057 | 1227 | 86.1 | /mnt/stockage/packages/f15/workrave/po/et.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1054 | 1227 | 85.9 | /mnt/stockage/packages/f15/workrave/po/ro.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 1054 | 1227 | 85.9 | /mnt/stockage/packages/f15/workrave/po/sv.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 1018 | 1227 | 83.0 | /mnt/stockage/packages/f15/workrave/po/he.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1016 | 1227 | 82.8 | /mnt/stockage/packages/f15/workrave/po/pt_BR.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1008 | 1227 | 82.2 | /mnt/stockage/packages/f15/workrave/po/pl.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1004 | 1227 | 81.8 | /mnt/stockage/packages/f15/workrave/po/fr.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/bg.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/eu.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/ja.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/nb.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/sl.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/tr.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 984 | 1227 | 80.2 | /mnt/stockage/packages/f15/workrave/po/el.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 984 | 1227 | 80.2 | /mnt/stockage/packages/f15/workrave/po/it.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 984 | 1227 | 80.2 | /mnt/stockage/packages/f15/workrave/po/zh_CN.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 967 | 1227 | 78.8 | /mnt/stockage/packages/f15/workrave/po/lt.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 963 | 1227 | 78.5 | /mnt/stockage/packages/f15/workrave/po/cs.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 954 | 1227 | 77.8 | /mnt/stockage/packages/f15/workrave/po/sk.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 201 | 1227 | 16.4 | /mnt/stockage/packages/f15/workrave/po/eo.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 180 | 1227 | 14.7 | /mnt/stockage/packages/f15/workrave/po/te.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f15/workrave/po/zh_TW.po | 
+ | [nl](/f15/language/nl) | 1207 | 1227 | 98.4 | /mnt/stockage/packages/f15/workrave/po/nl.po | 
+ | [ga](/f15/language/ga) | 1171 | 1227 | 95.4 | /mnt/stockage/packages/f15/workrave/po/ga.po | 
+ | [ca](/f15/language/ca) | 1170 | 1227 | 95.4 | /mnt/stockage/packages/f15/workrave/po/ca.po | 
+ | [ko](/f15/language/ko) | 1167 | 1227 | 95.1 | /mnt/stockage/packages/f15/workrave/po/ko.po | 
+ | [hu](/f15/language/hu) | 1082 | 1227 | 88.2 | /mnt/stockage/packages/f15/workrave/po/hu.po | 
+ | [et](/f15/language/et) | 1057 | 1227 | 86.1 | /mnt/stockage/packages/f15/workrave/po/et.po | 
+ | [ro](/f15/language/ro) | 1054 | 1227 | 85.9 | /mnt/stockage/packages/f15/workrave/po/ro.po | 
+ | [sv](/f15/language/sv) | 1054 | 1227 | 85.9 | /mnt/stockage/packages/f15/workrave/po/sv.po | 
+ | [he](/f15/language/he) | 1018 | 1227 | 83.0 | /mnt/stockage/packages/f15/workrave/po/he.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1016 | 1227 | 82.8 | /mnt/stockage/packages/f15/workrave/po/pt_BR.po | 
+ | [pl](/f15/language/pl) | 1008 | 1227 | 82.2 | /mnt/stockage/packages/f15/workrave/po/pl.po | 
+ | [fr](/f15/language/fr) | 1004 | 1227 | 81.8 | /mnt/stockage/packages/f15/workrave/po/fr.po | 
+ | [bg](/f15/language/bg) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/bg.po | 
+ | [da](/f15/language/da) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/da.po | 
+ | [de](/f15/language/de) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/de.po | 
+ | [es](/f15/language/es) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/es.po | 
+ | [eu](/f15/language/eu) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/eu.po | 
+ | [ja](/f15/language/ja) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/ja.po | 
+ | [nb_NO](/f15/language/nb_NO) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/nb.po | 
+ | [ru](/f15/language/ru) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/ru.po | 
+ | [sl](/f15/language/sl) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/sl.po | 
+ | [tr](/f15/language/tr) | 993 | 1227 | 80.9 | /mnt/stockage/packages/f15/workrave/po/tr.po | 
+ | [el](/f15/language/el) | 984 | 1227 | 80.2 | /mnt/stockage/packages/f15/workrave/po/el.po | 
+ | [it](/f15/language/it) | 984 | 1227 | 80.2 | /mnt/stockage/packages/f15/workrave/po/it.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 984 | 1227 | 80.2 | /mnt/stockage/packages/f15/workrave/po/zh_CN.po | 
+ | [lt](/f15/language/lt) | 967 | 1227 | 78.8 | /mnt/stockage/packages/f15/workrave/po/lt.po | 
+ | [cs](/f15/language/cs) | 963 | 1227 | 78.5 | /mnt/stockage/packages/f15/workrave/po/cs.po | 
+ | [sk](/f15/language/sk) | 954 | 1227 | 77.8 | /mnt/stockage/packages/f15/workrave/po/sk.po | 
+ | [eo](/f15/language/eo) | 201 | 1227 | 16.4 | /mnt/stockage/packages/f15/workrave/po/eo.po | 
+ | [te](/f15/language/te) | 180 | 1227 | 14.7 | /mnt/stockage/packages/f15/workrave/po/te.po | 
 {.sortable}
 
 

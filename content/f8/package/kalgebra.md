@@ -18,10 +18,10 @@ The package kalgebra (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f8/kalgebra/po/ca.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f8/kalgebra/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f8/kalgebra/po/fr.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 93 | 148 | 62.8 | /mnt/stockage/packages/f8/kalgebra/po/pt.po | 
+ | [ca](/f8/language/ca) | 148 | 148 | 100.0 | /mnt/stockage/packages/f8/kalgebra/po/ca.po | 
+ | [es](/f8/language/es) | 148 | 148 | 100.0 | /mnt/stockage/packages/f8/kalgebra/po/es.po | 
+ | [fr](/f8/language/fr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f8/kalgebra/po/fr.po | 
+ | [pt](/f8/language/pt) | 93 | 148 | 62.8 | /mnt/stockage/packages/f8/kalgebra/po/pt.po | 
 {.sortable}
 
 

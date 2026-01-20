@@ -38,39 +38,39 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f17/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [at-spi2-atk]({{< ref "/f17/package/at-spi2-atk.md" >}}) | 7 | 7 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [at-spi2-core]({{< ref "/f17/package/at-spi2-core.md" >}}) | 5 | 5 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [empathy]({{< ref "/f17/package/empathy.md" >}}) | 4348 | 4348 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [epiphany]({{< ref "/f17/package/epiphany.md" >}}) | 1757 | 1757 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [evince]({{< ref "/f17/package/evince.md" >}}) | 1437 | 1437 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [file-roller]({{< ref "/f17/package/file-roller.md" >}}) | 1555 | 1555 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f17/package/gnome-backgrounds.md" >}}) | 30 | 30 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-desktop3]({{< ref "/f17/package/gnome-desktop3.md" >}}) | 235 | 235 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-icon-theme]({{< ref "/f17/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f17/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-screensaver]({{< ref "/f17/package/gnome-screensaver.md" >}}) | 270 | 270 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [gnome-themes-standard]({{< ref "/f17/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [libgnome-keyring]({{< ref "/f17/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [mate-menu-editor]({{< ref "/f17/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
- | [mate-menus]({{< ref "/f17/package/mate-menus.md" >}}) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [mousetweaks]({{< ref "/f17/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [notification-daemon]({{< ref "/f17/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [sushi]({{< ref "/f17/package/sushi.md" >}}) | 15 | 15 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [totem-pl-parser]({{< ref "/f17/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f17/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f17/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [arduino]({{< ref "/f17/package/arduino.md" >}}) | 1875 | 1917 | 97.8 | Softaragonés | 
- | [gnome-desktop]({{< ref "/f17/package/gnome-desktop.md" >}}) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
- | [mate-backgrounds]({{< ref "/f17/package/mate-backgrounds.md" >}}) | 23 | 30 | 76.7 | LANGUAGE <LL@li.org> | 
- | [gwibber]({{< ref "/f17/package/gwibber.md" >}}) | 495 | 769 | 64.4 | Aragonese <an@li.org> | 
- | [mate-desktop]({{< ref "/f17/package/mate-desktop.md" >}}) | 214 | 407 | 52.6 | LANGUAGE <LL@li.org> | 
- | [gnome-shell]({{< ref "/f17/package/gnome-shell.md" >}}) | 374 | 942 | 39.7 | Aragonese <softaragones@googlegroups.com> | 
- | [transmission]({{< ref "/f17/package/transmission.md" >}}) | 478 | 1809 | 26.4 | Aragonese <an@li.org> | 
- | [gdm]({{< ref "/f17/package/gdm.md" >}}) | 241 | 1094 | 22.0 | Aragonese <softaragones@googlegroups.com> | 
- | [NetworkManager]({{< ref "/f17/package/NetworkManager.md" >}}) | 502 | 2477 | 20.3 | Aragonese <softaragones@googlegroups.com> | 
- | [cogl]({{< ref "/f17/package/cogl.md" >}}) | 15 | 361 | 4.2 | Aragonese <softaragones@googlegroups.com> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 0 | 9286 | 0.0 | Aragonese <an@li.org> | 
+ | [alacarte](/f17/package/alacarte) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [at-spi2-atk](/f17/package/at-spi2-atk) | 7 | 7 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [at-spi2-core](/f17/package/at-spi2-core) | 5 | 5 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [empathy](/f17/package/empathy) | 4348 | 4348 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [epiphany](/f17/package/epiphany) | 1757 | 1757 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [evince](/f17/package/evince) | 1437 | 1437 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [file-roller](/f17/package/file-roller) | 1555 | 1555 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-backgrounds](/f17/package/gnome-backgrounds) | 30 | 30 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-desktop3](/f17/package/gnome-desktop3) | 235 | 235 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-icon-theme](/f17/package/gnome-icon-theme) | 4 | 4 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-menus](/f17/package/gnome-menus) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-screensaver](/f17/package/gnome-screensaver) | 270 | 270 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [gnome-themes-standard](/f17/package/gnome-themes-standard) | 24 | 24 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [libgnome-keyring](/f17/package/libgnome-keyring) | 44 | 44 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [mate-menu-editor](/f17/package/mate-menu-editor) | 42 | 42 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menus](/f17/package/mate-menus) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [mousetweaks](/f17/package/mousetweaks) | 114 | 114 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [notification-daemon](/f17/package/notification-daemon) | 17 | 17 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [sushi](/f17/package/sushi) | 15 | 15 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [totem-pl-parser](/f17/package/totem-pl-parser) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [xdg-user-dirs](/f17/package/xdg-user-dirs) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [xdg-user-dirs-gtk](/f17/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [arduino](/f17/package/arduino) | 1875 | 1917 | 97.8 | Softaragonés | 
+ | [gnome-desktop](/f17/package/gnome-desktop) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
+ | [mate-backgrounds](/f17/package/mate-backgrounds) | 23 | 30 | 76.7 | LANGUAGE <LL@li.org> | 
+ | [gwibber](/f17/package/gwibber) | 495 | 769 | 64.4 | Aragonese <an@li.org> | 
+ | [mate-desktop](/f17/package/mate-desktop) | 214 | 407 | 52.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-shell](/f17/package/gnome-shell) | 374 | 942 | 39.7 | Aragonese <softaragones@googlegroups.com> | 
+ | [transmission](/f17/package/transmission) | 478 | 1809 | 26.4 | Aragonese <an@li.org> | 
+ | [gdm](/f17/package/gdm) | 241 | 1094 | 22.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [NetworkManager](/f17/package/NetworkManager) | 502 | 2477 | 20.3 | Aragonese <softaragones@googlegroups.com> | 
+ | [cogl](/f17/package/cogl) | 15 | 361 | 4.2 | Aragonese <softaragones@googlegroups.com> | 
+ | [stellarium](/f17/package/stellarium) | 0 | 9286 | 0.0 | Aragonese <an@li.org> | 
 {.sortable}
 
 

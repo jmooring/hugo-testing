@@ -18,25 +18,25 @@ The package gedit-collaboration (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/eu.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/he.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/it.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/ro.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/sl.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 97 | 119 | 81.5 | /mnt/stockage/packages/f16/gedit-collaboration/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 49 | 119 | 41.2 | /mnt/stockage/packages/f16/gedit-collaboration/po/nb.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 29 | 119 | 24.4 | /mnt/stockage/packages/f16/gedit-collaboration/po/sv.po | 
+ | [cs](/f16/language/cs) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/cs.po | 
+ | [da](/f16/language/da) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/da.po | 
+ | [de](/f16/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/de.po | 
+ | [el](/f16/language/el) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/el.po | 
+ | [es](/f16/language/es) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/es.po | 
+ | [eu](/f16/language/eu) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/eu.po | 
+ | [fr](/f16/language/fr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/fr.po | 
+ | [gl](/f16/language/gl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/gl.po | 
+ | [he](/f16/language/he) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/he.po | 
+ | [it](/f16/language/it) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/it.po | 
+ | [pl](/f16/language/pl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/pl.po | 
+ | [pt](/f16/language/pt) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/ro.po | 
+ | [sl](/f16/language/sl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/sl.po | 
+ | [vi](/f16/language/vi) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/gedit-collaboration/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 97 | 119 | 81.5 | /mnt/stockage/packages/f16/gedit-collaboration/po/zh_CN.po | 
+ | [nb_NO](/f16/language/nb_NO) | 49 | 119 | 41.2 | /mnt/stockage/packages/f16/gedit-collaboration/po/nb.po | 
+ | [sv](/f16/language/sv) | 29 | 119 | 24.4 | /mnt/stockage/packages/f16/gedit-collaboration/po/sv.po | 
 {.sortable}
 
 

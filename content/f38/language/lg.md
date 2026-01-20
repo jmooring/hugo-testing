@@ -38,56 +38,56 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gpicview]({{< ref "/f38/package/gpicview.md" >}}) | 236 | 236 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxappearance-obconf]({{< ref "/f38/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxde-common]({{< ref "/f38/package/lxde-common.md" >}}) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f38/package/lxdm.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f38/package/lxinput.md" >}}) | 83 | 83 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxlauncher]({{< ref "/f38/package/lxlauncher.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxmenu-data]({{< ref "/f38/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxmusic]({{< ref "/f38/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxrandr]({{< ref "/f38/package/lxrandr.md" >}}) | 167 | 167 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f38/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxtask]({{< ref "/f38/package/lxtask.md" >}}) | 130 | 130 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [pcmanfm]({{< ref "/f38/package/pcmanfm.md" >}}) | 1209 | 1215 | 99.5 | lg <kbirabwa@yahoo.co.uk> | 
- | [libfm]({{< ref "/f38/package/libfm.md" >}}) | 1558 | 1575 | 98.9 | lg <kbirabwa@yahoo.co.uk> | 
- | [lxpanel]({{< ref "/f38/package/lxpanel.md" >}}) | 1251 | 1399 | 89.4 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [gtk4]({{< ref "/f38/package/gtk4.md" >}}) | 1889 | 2522 | 74.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [mingw-gtk4]({{< ref "/f38/package/mingw-gtk4.md" >}}) | 1889 | 2522 | 74.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [gtkspell3]({{< ref "/f38/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Ganda <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f38/package/elementary-calendar.md" >}}) | 307 | 575 | 53.4 | Ganda <https://weblate.elementary.io/projects/calendar/calendar/lg/> | 
- | [coreutils]({{< ref "/f38/package/coreutils.md" >}}) | 8232 | 21546 | 38.2 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [tuxpaint]({{< ref "/f38/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 | LANGUAGE <LL@li.org> | 
- | [libgnomeui]({{< ref "/f38/package/libgnomeui.md" >}}) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [gtk3]({{< ref "/f38/package/gtk3.md" >}}) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [mingw-gtk3]({{< ref "/f38/package/mingw-gtk3.md" >}}) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [elementary-camera]({{< ref "/f38/package/elementary-camera.md" >}}) | 17 | 133 | 12.8 | Ganda <https://weblate.elementary.io/projects/camera/camera/lg/> | 
- | [sugar-toolkit-gtk3]({{< ref "/f38/package/sugar-toolkit-gtk3.md" >}}) | 27 | 213 | 12.7 | LANGUAGE <LL@li.org> | 
- | [sequeler]({{< ref "/f38/package/sequeler.md" >}}) | 39 | 406 | 9.6 | none | 
- | [grub2]({{< ref "/f38/package/grub2.md" >}}) | 341 | 7412 | 4.6 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [findutils]({{< ref "/f38/package/findutils.md" >}}) | 97 | 2538 | 3.8 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 7 | 205 | 3.4 | Ganda <https://weblate.elementary.io/projects/music/music/lg/> | 
- | [isomaster]({{< ref "/f38/package/isomaster.md" >}}) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
- | [elementary-calculator]({{< ref "/f38/package/elementary-calculator.md" >}}) | 4 | 195 | 2.1 | LANGUAGE <LL@li.org> | 
- | [asunder]({{< ref "/f38/package/asunder.md" >}}) | 8 | 493 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [sugar]({{< ref "/f38/package/sugar.md" >}}) | 4 | 2305 | 0.2 | LANGUAGE <LL@li.org> | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f38/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
+ | [gpicview](/f38/package/gpicview) | 236 | 236 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance-obconf](/f38/package/lxappearance-obconf) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxde-common](/f38/package/lxde-common) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f38/package/lxdm) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f38/package/lxinput) | 83 | 83 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxlauncher](/f38/package/lxlauncher) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f38/package/lxmenu-data) | 97 | 97 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmusic](/f38/package/lxmusic) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxrandr](/f38/package/lxrandr) | 167 | 167 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f38/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxtask](/f38/package/lxtask) | 130 | 130 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [pcmanfm](/f38/package/pcmanfm) | 1209 | 1215 | 99.5 | lg <kbirabwa@yahoo.co.uk> | 
+ | [libfm](/f38/package/libfm) | 1558 | 1575 | 98.9 | lg <kbirabwa@yahoo.co.uk> | 
+ | [lxpanel](/f38/package/lxpanel) | 1251 | 1399 | 89.4 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [gtk4](/f38/package/gtk4) | 1889 | 2522 | 74.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [mingw-gtk4](/f38/package/mingw-gtk4) | 1889 | 2522 | 74.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [gtkspell3](/f38/package/gtkspell3) | 10 | 16 | 62.5 | Ganda <LL@li.org> | 
+ | [elementary-calendar](/f38/package/elementary-calendar) | 307 | 575 | 53.4 | Ganda <https://weblate.elementary.io/projects/calendar/calendar/lg/> | 
+ | [coreutils](/f38/package/coreutils) | 8232 | 21546 | 38.2 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [tuxpaint](/f38/package/tuxpaint) | 1120 | 3763 | 29.8 | LANGUAGE <LL@li.org> | 
+ | [libgnomeui](/f38/package/libgnomeui) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [gtk3](/f38/package/gtk3) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [mingw-gtk3](/f38/package/mingw-gtk3) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [elementary-camera](/f38/package/elementary-camera) | 17 | 133 | 12.8 | Ganda <https://weblate.elementary.io/projects/camera/camera/lg/> | 
+ | [sugar-toolkit-gtk3](/f38/package/sugar-toolkit-gtk3) | 27 | 213 | 12.7 | LANGUAGE <LL@li.org> | 
+ | [sequeler](/f38/package/sequeler) | 39 | 406 | 9.6 | none | 
+ | [grub2](/f38/package/grub2) | 341 | 7412 | 4.6 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [findutils](/f38/package/findutils) | 97 | 2538 | 3.8 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [elementary-music](/f38/package/elementary-music) | 7 | 205 | 3.4 | Ganda <https://weblate.elementary.io/projects/music/music/lg/> | 
+ | [isomaster](/f38/package/isomaster) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
+ | [elementary-calculator](/f38/package/elementary-calculator) | 4 | 195 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [asunder](/f38/package/asunder) | 8 | 493 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [sugar](/f38/package/sugar) | 4 | 2305 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-code](/f38/package/elementary-code) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [elementary-onboarding](/f38/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
 {.sortable}
 
 

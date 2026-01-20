@@ -18,20 +18,20 @@ The package mingw-libgpg-error (version 1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 803 | 803 | 100.0 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/de.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/da.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/fr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 760 | 803 | 94.6 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/pl.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/eo.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/vi.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 742 | 803 | 92.4 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 674 | 803 | 83.9 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/ja.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 616 | 803 | 76.7 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/ro.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 547 | 803 | 68.1 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/zh_CN.po | 
+ | [de](/f21/language/de) | 803 | 803 | 100.0 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/de.po | 
+ | [cs](/f21/language/cs) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/cs.po | 
+ | [da](/f21/language/da) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/da.po | 
+ | [fr](/f21/language/fr) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/fr.po | 
+ | [nl](/f21/language/nl) | 777 | 803 | 96.8 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/nl.po | 
+ | [pl](/f21/language/pl) | 760 | 803 | 94.6 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/pl.po | 
+ | [eo](/f21/language/eo) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/eo.po | 
+ | [sv](/f21/language/sv) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/sv.po | 
+ | [uk](/f21/language/uk) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/uk.po | 
+ | [vi](/f21/language/vi) | 743 | 803 | 92.5 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/vi.po | 
+ | [it](/f21/language/it) | 742 | 803 | 92.4 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/it.po | 
+ | [ja](/f21/language/ja) | 674 | 803 | 83.9 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/ja.po | 
+ | [ro](/f21/language/ro) | 616 | 803 | 76.7 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/ro.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 547 | 803 | 68.1 | /mnt/stockage/packages/f21/mingw-libgpg-error/po/zh_CN.po | 
 {.sortable}
 
 

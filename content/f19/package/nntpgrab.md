@@ -18,9 +18,9 @@ The package nntpgrab (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2259 | 2259 | 100.0 | /mnt/stockage/packages/f19/nntpgrab/po/nl.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2249 | 2259 | 99.6 | /mnt/stockage/packages/f19/nntpgrab/po/fr.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 2249 | 2259 | 99.6 | /mnt/stockage/packages/f19/nntpgrab/po/tr.po | 
+ | [nl](/f19/language/nl) | 2259 | 2259 | 100.0 | /mnt/stockage/packages/f19/nntpgrab/po/nl.po | 
+ | [fr](/f19/language/fr) | 2249 | 2259 | 99.6 | /mnt/stockage/packages/f19/nntpgrab/po/fr.po | 
+ | [tr](/f19/language/tr) | 2249 | 2259 | 99.6 | /mnt/stockage/packages/f19/nntpgrab/po/tr.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package speedtest (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/cs.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/fr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/it.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/oc.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/ru.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/tr.po | 
+ | [cs](/f41/language/cs) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/cs.po | 
+ | [es](/f41/language/es) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/es.po | 
+ | [fr](/f41/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/fr.po | 
+ | [it](/f41/language/it) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/it.po | 
+ | [nl](/f41/language/nl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/nl.po | 
+ | [oc](/f41/language/oc) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/oc.po | 
+ | [pl](/f41/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/ru.po | 
+ | [tr](/f41/language/tr) | 36 | 36 | 100.0 | /mnt/stockage/packages/f41/speedtest/po/tr.po | 
 {.sortable}
 
 

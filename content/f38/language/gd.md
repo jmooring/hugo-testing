@@ -38,208 +38,208 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f38/package/0ad.md" >}}) | 300 | 300 | 100.0 | Gaelic, Scottish (http://www.transifex.com/wildfire-games/0ad/language/gd/) | 
- | [abattis-cantarell-fonts]({{< ref "/f38/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Scottish Gaelic <gd@li.org> | 
- | [at-spi2-core]({{< ref "/f38/package/at-spi2-core.md" >}}) | 450 | 450 | 100.0 | Fòram na Gàidhlig | 
- | [baobab]({{< ref "/f38/package/baobab.md" >}}) | 246 | 246 | 100.0 | Fòram na Gàidhlig | 
- | [brasero]({{< ref "/f38/package/brasero.md" >}}) | 5549 | 5549 | 100.0 | Fòram na Gàidhlig | 
- | [budgie-screensaver]({{< ref "/f38/package/budgie-screensaver.md" >}}) | 270 | 270 | 100.0 | Fòram na Gàidhlig | 
- | [cawbird]({{< ref "/f38/package/cawbird.md" >}}) | 1233 | 1233 | 100.0 | Gaelic, Scottish (https://www.transifex.com/cawbird/teams/107135/gd/) | 
- | [dialog]({{< ref "/f38/package/dialog.md" >}}) | 25 | 25 | 100.0 | Scottish Gaelic <fios@foramnagaidhlig.net> | 
- | [enigma]({{< ref "/f38/package/enigma.md" >}}) | 10412 | 10412 | 100.0 | Gaelic, Scottish (http://www.transifex.com/michtrz/enigma/language/gd/) | 
- | [eog]({{< ref "/f38/package/eog.md" >}}) | 1675 | 1675 | 100.0 | Fòram na Gàidhlig | 
- | [evince]({{< ref "/f38/package/evince.md" >}}) | 1664 | 1664 | 100.0 | Fòram na Gàidhlig | 
- | [file-roller]({{< ref "/f38/package/file-roller.md" >}}) | 1200 | 1200 | 100.0 | Fòram na Gàidhlig | 
- | [flare-engine]({{< ref "/f38/package/flare-engine.md" >}}) | 1923 | 1923 | 100.0 | Gaelic, Scottish (https://www.transifex.com/flareorg/teams/84925/gd/) | 
- | [gdm]({{< ref "/f38/package/gdm.md" >}}) | 629 | 629 | 100.0 | Fòram na Gàidhlig | 
- | [gedit]({{< ref "/f38/package/gedit.md" >}}) | 4267 | 4267 | 100.0 | Fòram na Gàidhlig | 
- | [glib-networking]({{< ref "/f38/package/glib-networking.md" >}}) | 163 | 163 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-bluetooth]({{< ref "/f38/package/gnome-bluetooth.md" >}}) | 373 | 373 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-bluetooth3.34]({{< ref "/f38/package/gnome-bluetooth3.34.md" >}}) | 373 | 373 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-calculator]({{< ref "/f38/package/gnome-calculator.md" >}}) | 1584 | 1584 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-calendar]({{< ref "/f38/package/gnome-calendar.md" >}}) | 661 | 661 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-characters]({{< ref "/f38/package/gnome-characters.md" >}}) | 186 | 186 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-clocks]({{< ref "/f38/package/gnome-clocks.md" >}}) | 283 | 283 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-color-manager]({{< ref "/f38/package/gnome-color-manager.md" >}}) | 1796 | 1796 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-contacts]({{< ref "/f38/package/gnome-contacts.md" >}}) | 417 | 417 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-desktop3]({{< ref "/f38/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-dictionary]({{< ref "/f38/package/gnome-dictionary.md" >}}) | 664 | 664 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-disk-utility]({{< ref "/f38/package/gnome-disk-utility.md" >}}) | 3820 | 3820 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-font-viewer]({{< ref "/f38/package/gnome-font-viewer.md" >}}) | 113 | 113 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-icon-theme]({{< ref "/f38/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Gaelic; Scottish <gd@li.org> | 
- | [gnome-initial-setup]({{< ref "/f38/package/gnome-initial-setup.md" >}}) | 849 | 849 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-keyring]({{< ref "/f38/package/gnome-keyring.md" >}}) | 509 | 509 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-logs]({{< ref "/f38/package/gnome-logs.md" >}}) | 376 | 376 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-menus]({{< ref "/f38/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Gaelic; Scottish <gd@li.org> | 
- | [gnome-music]({{< ref "/f38/package/gnome-music.md" >}}) | 528 | 528 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-online-accounts]({{< ref "/f38/package/gnome-online-accounts.md" >}}) | 658 | 658 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-photos]({{< ref "/f38/package/gnome-photos.md" >}}) | 473 | 473 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-power-manager]({{< ref "/f38/package/gnome-power-manager.md" >}}) | 489 | 489 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-screenshot]({{< ref "/f38/package/gnome-screenshot.md" >}}) | 457 | 457 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-session]({{< ref "/f38/package/gnome-session.md" >}}) | 364 | 364 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-shell-extensions]({{< ref "/f38/package/gnome-shell-extensions.md" >}}) | 323 | 323 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-shell-frippery]({{< ref "/f38/package/gnome-shell-frippery.md" >}}) | 1 | 1 | 100.0 |  | 
- | [gnome-software]({{< ref "/f38/package/gnome-software.md" >}}) | 3709 | 3709 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-system-monitor]({{< ref "/f38/package/gnome-system-monitor.md" >}}) | 1462 | 1462 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-terminal]({{< ref "/f38/package/gnome-terminal.md" >}}) | 2554 | 2554 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-themes-extra]({{< ref "/f38/package/gnome-themes-extra.md" >}}) | 15 | 15 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-user-share]({{< ref "/f38/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Fòram na Gàidhlig | 
- | [gnome-weather]({{< ref "/f38/package/gnome-weather.md" >}}) | 191 | 191 | 100.0 | Fòram na Gàidhlig | 
- | [gspell]({{< ref "/f38/package/gspell.md" >}}) | 76 | 76 | 100.0 | Scottish Gaelic <gd@li.org> | 
- | [gtk-vnc]({{< ref "/f38/package/gtk-vnc.md" >}}) | 8 | 8 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [gtk3]({{< ref "/f38/package/gtk3.md" >}}) | 16045 | 16045 | 100.0 | Fòram na Gàidhlig | 
- | [gtk4]({{< ref "/f38/package/gtk4.md" >}}) | 3869 | 3869 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kdbusaddons]({{< ref "/f38/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kdesignerplugin]({{< ref "/f38/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kdesu]({{< ref "/f38/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kdnssd]({{< ref "/f38/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kdoctools]({{< ref "/f38/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kjsembed]({{< ref "/f38/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-knotifyconfig]({{< ref "/f38/package/kf5-knotifyconfig.md" >}}) | 129 | 129 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kpeople]({{< ref "/f38/package/kf5-kpeople.md" >}}) | 13 | 13 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kpty]({{< ref "/f38/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kross]({{< ref "/f38/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kwindowsystem]({{< ref "/f38/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Fòram na Gàidhlig | 
- | [kf5-kxmlrpcclient]({{< ref "/f38/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Fòram na Gàidhlig | 
- | [kio-extras]({{< ref "/f38/package/kio-extras.md" >}}) | 25 | 25 | 100.0 | Fòram na Gàidhlig | 
- | [libgnome-keyring]({{< ref "/f38/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [libgweather]({{< ref "/f38/package/libgweather.md" >}}) | 6369 | 6369 | 100.0 | Fòram na Gàidhlig | 
- | [libgweather4]({{< ref "/f38/package/libgweather4.md" >}}) | 6369 | 6369 | 100.0 | Fòram na Gàidhlig | 
- | [libsoup]({{< ref "/f38/package/libsoup.md" >}}) | 155 | 155 | 100.0 | Fòram na Gàidhlig | 
- | [libsoup3]({{< ref "/f38/package/libsoup3.md" >}}) | 155 | 155 | 100.0 | Fòram na Gàidhlig | 
- | [libwnck3]({{< ref "/f38/package/libwnck3.md" >}}) | 1086 | 1086 | 100.0 | Fòram na Gàidhlig | 
- | [lincity-ng]({{< ref "/f38/package/lincity-ng.md" >}}) | 1578 | 1578 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [mingw-atk]({{< ref "/f38/package/mingw-atk.md" >}}) | 440 | 440 | 100.0 | Fòram na Gàidhlig | 
- | [mingw-glib-networking]({{< ref "/f38/package/mingw-glib-networking.md" >}}) | 163 | 163 | 100.0 | Fòram na Gàidhlig | 
- | [mingw-gtk3]({{< ref "/f38/package/mingw-gtk3.md" >}}) | 16045 | 16045 | 100.0 | Fòram na Gàidhlig | 
- | [mingw-gtk4]({{< ref "/f38/package/mingw-gtk4.md" >}}) | 3869 | 3869 | 100.0 | Fòram na Gàidhlig | 
- | [mingw-libsoup]({{< ref "/f38/package/mingw-libsoup.md" >}}) | 155 | 155 | 100.0 | Fòram na Gàidhlig | 
- | [mousetweaks]({{< ref "/f38/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Fòram na Gàidhlig | 
- | [nautilus]({{< ref "/f38/package/nautilus.md" >}}) | 5620 | 5620 | 100.0 | Fòram na Gàidhlig | 
- | [neverball]({{< ref "/f38/package/neverball.md" >}}) | 2735 | 2735 | 100.0 | Gaelic, Scottish (http://www.transifex.com/projects/p/neverball/language/gd/) | 
- | [polkit-gnome]({{< ref "/f38/package/polkit-gnome.md" >}}) | 94 | 94 | 100.0 | Sgioba na Ubuntu na Gàidhlig | 
- | [python-django]({{< ref "/f38/package/python-django.md" >}}) | 3770 | 3770 | 100.0 | Gaelic, Scottish (http://www.transifex.com/django/django/language/gd/) | 
- | [python-django-formtools]({{< ref "/f38/package/python-django-formtools.md" >}}) | 32 | 32 | 100.0 | Gaelic, Scottish (http://www.transifex.com/django/django-formtools/language/gd/) | 
- | [rhythmbox]({{< ref "/f38/package/rhythmbox.md" >}}) | 3769 | 3769 | 100.0 | Fòram na Gàidhlig | 
- | [simple-scan]({{< ref "/f38/package/simple-scan.md" >}}) | 847 | 847 | 100.0 | Fòram na Gàidhlig | 
- | [sushi]({{< ref "/f38/package/sushi.md" >}}) | 15 | 15 | 100.0 | Fòram na Gàidhlig | 
- | [totem]({{< ref "/f38/package/totem.md" >}}) | 1327 | 1327 | 100.0 | Fòram na Gàidhlig | 
- | [totem-pl-parser]({{< ref "/f38/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Fòram na Gàidhlig | 
- | [transmageddon]({{< ref "/f38/package/transmageddon.md" >}}) | 327 | 327 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [vdrift]({{< ref "/f38/package/vdrift.md" >}}) | 1649 | 1649 | 100.0 | Gaelic, Scottish (http://www.transifex.com/vdrift/vdrift/language/gd/) | 
- | [xdg-user-dirs]({{< ref "/f38/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Scottish Gaelic <(nothing)> | 
- | [yelp]({{< ref "/f38/package/yelp.md" >}}) | 284 | 284 | 100.0 | Fòram na Gàidhlig | 
- | [yelp-xsl]({{< ref "/f38/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Fòram na Gàidhlig | 
- | [flare]({{< ref "/f38/package/flare.md" >}}) | 9075 | 9076 | 100.0 | Gaelic, Scottish (https://www.transifex.com/flareorg/teams/84925/gd/) | 
- | [tuxpaint-stamps]({{< ref "/f38/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 | Fòram na Gàidhlig | 
- | [kf5-ki18n]({{< ref "/f38/package/kf5-ki18n.md" >}}) | 123 | 124 | 99.2 | Fòram na Gàidhlig | 
- | [python-django3]({{< ref "/f38/package/python-django3.md" >}}) | 3740 | 3800 | 98.4 | Gaelic, Scottish (http://www.transifex.com/django/django/language/gd/) | 
- | [kf5-kinit]({{< ref "/f38/package/kf5-kinit.md" >}}) | 113 | 116 | 97.4 | Fòram na Gàidhlig | 
- | [kf5-sonnet]({{< ref "/f38/package/kf5-sonnet.md" >}}) | 663 | 683 | 97.1 | Fòram na Gàidhlig | 
- | [kf5-ktextwidgets]({{< ref "/f38/package/kf5-ktextwidgets.md" >}}) | 459 | 473 | 97.0 | Fòram na Gàidhlig | 
- | [kf5-kservice]({{< ref "/f38/package/kf5-kservice.md" >}}) | 167 | 173 | 96.5 | Fòram na Gàidhlig | 
- | [python-django-contrib-comments]({{< ref "/f38/package/python-django-contrib-comments.md" >}}) | 240 | 250 | 96.0 | Gaelic, Scottish (http://www.transifex.com/django/django-contrib-comments/language/gd/) | 
- | [kf5-khtml]({{< ref "/f38/package/kf5-khtml.md" >}}) | 1575 | 1667 | 94.5 | Fòram na Gàidhlig | 
- | [kf5-kjobwidgets]({{< ref "/f38/package/kf5-kjobwidgets.md" >}}) | 123 | 133 | 92.5 | Fòram na Gàidhlig | 
- | [kf5-kwallet]({{< ref "/f38/package/kf5-kwallet.md" >}}) | 1348 | 1460 | 92.3 | Fòram na Gàidhlig | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 199 | 216 | 92.1 | Gaelic; Scottish <gd@li.org> | 
- | [plank]({{< ref "/f38/package/plank.md" >}}) | 173 | 189 | 91.5 | Fòram na Gàidhlig | 
- | [gimp]({{< ref "/f38/package/gimp.md" >}}) | 13940 | 15492 | 90.0 | Fòram na Gàidhlig | 
- | [kf5-kdelibs4support]({{< ref "/f38/package/kf5-kdelibs4support.md" >}}) | 4813 | 5353 | 89.9 | Fòram na Gàidhlig | 
- | [kf5-plasma]({{< ref "/f38/package/kf5-plasma.md" >}}) | 324 | 362 | 89.5 | Fòram na Gàidhlig | 
- | [kf5-kconfigwidgets]({{< ref "/f38/package/kf5-kconfigwidgets.md" >}}) | 305 | 342 | 89.2 | Fòram na Gàidhlig | 
- | [kf5-solid]({{< ref "/f38/package/kf5-solid.md" >}}) | 518 | 588 | 88.1 | Fòram na Gàidhlig | 
- | [supertux]({{< ref "/f38/package/supertux.md" >}}) | 3660 | 4206 | 87.0 | Gaelic, Scottish (http://www.transifex.com/arctic-games/supertux/language/gd/) | 
- | [onboard]({{< ref "/f38/package/onboard.md" >}}) | 1942 | 2318 | 83.8 | Gaelic; Scottish <gd@li.org> | 
- | [kf5-kcompletion]({{< ref "/f38/package/kf5-kcompletion.md" >}}) | 15 | 18 | 83.3 | Fòram na Gàidhlig | 
- | [gnome-maps]({{< ref "/f38/package/gnome-maps.md" >}}) | 986 | 1186 | 83.1 | Fòram na Gàidhlig | 
- | [kf5-kglobalaccel]({{< ref "/f38/package/kf5-kglobalaccel.md" >}}) | 59 | 71 | 83.1 | Fòram na Gàidhlig | 
- | [kf5-kconfig]({{< ref "/f38/package/kf5-kconfig.md" >}}) | 239 | 289 | 82.7 | Fòram na Gàidhlig | 
- | [widelands]({{< ref "/f38/package/widelands.md" >}}) | 66913 | 83602 | 80.0 | Gaelic, Scottish (http://www.transifex.com/widelands/widelands/language/gd/) | 
- | [folder-color-switcher]({{< ref "/f38/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Gaelic; Scottish <gd@li.org> | 
- | [kf5-kparts]({{< ref "/f38/package/kf5-kparts.md" >}}) | 104 | 138 | 75.4 | Fòram na Gàidhlig | 
- | [libnma]({{< ref "/f38/package/libnma.md" >}}) | 568 | 807 | 70.4 | Fòram na Gàidhlig | 
- | [kf5-kpackage]({{< ref "/f38/package/kf5-kpackage.md" >}}) | 317 | 452 | 70.1 | Fòram na Gàidhlig | 
- | [kf5-kcmutils]({{< ref "/f38/package/kf5-kcmutils.md" >}}) | 182 | 266 | 68.4 | Fòram na Gàidhlig | 
- | [kf5-kxmlgui]({{< ref "/f38/package/kf5-kxmlgui.md" >}}) | 1009 | 1574 | 64.1 | Fòram na Gàidhlig | 
- | [budgie-control-center]({{< ref "/f38/package/budgie-control-center.md" >}}) | 4162 | 6597 | 63.1 | Gaelic, Scottish (https://app.transifex.com/buddiesofbudgie/teams/129844/gd/) | 
- | [kf5-kcodecs]({{< ref "/f38/package/kf5-kcodecs.md" >}}) | 233 | 370 | 63.0 | Fòram na Gàidhlig | 
- | [shotwell]({{< ref "/f38/package/shotwell.md" >}}) | 4428 | 7040 | 62.9 | Fòram na Gàidhlig | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 12961 | 20740 | 62.5 | Fòram na Gàidhlig | 
- | [deja-dup]({{< ref "/f38/package/deja-dup.md" >}}) | 978 | 1623 | 60.3 | Fòram na Gàidhlig | 
- | [kf5-kdeclarative]({{< ref "/f38/package/kf5-kdeclarative.md" >}}) | 97 | 161 | 60.2 | Fòram na Gàidhlig | 
- | [gnome-control-center]({{< ref "/f38/package/gnome-control-center.md" >}}) | 3965 | 6617 | 59.9 | Fòram na Gàidhlig | 
- | [magpie]({{< ref "/f38/package/magpie.md" >}}) | 283 | 476 | 59.5 | Fòram na Gàidhlig | 
- | [muffin]({{< ref "/f38/package/muffin.md" >}}) | 283 | 476 | 59.5 | Fòram na Gàidhlig | 
- | [mutter]({{< ref "/f38/package/mutter.md" >}}) | 283 | 476 | 59.5 | Fòram na Gàidhlig | 
- | [gnome-extensions-app]({{< ref "/f38/package/gnome-extensions-app.md" >}}) | 1594 | 2843 | 56.1 | Fòram na Gàidhlig | 
- | [gnome-shell]({{< ref "/f38/package/gnome-shell.md" >}}) | 1594 | 2843 | 56.1 | Fòram na Gàidhlig | 
- | [libreoffice]({{< ref "/f38/package/libreoffice.md" >}}) | 93619 | 168935 | 55.4 | Gaelic <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/gd/> | 
- | [network-manager-applet]({{< ref "/f38/package/network-manager-applet.md" >}}) | 2435 | 4408 | 55.2 | Fòram na Gàidhlig | 
- | [kf5-kbookmarks]({{< ref "/f38/package/kf5-kbookmarks.md" >}}) | 127 | 230 | 55.2 | Fòram na Gàidhlig | 
- | [kf5-kauth]({{< ref "/f38/package/kf5-kauth.md" >}}) | 39 | 73 | 53.4 | Fòram na Gàidhlig | 
- | [kf5-kcoreaddons]({{< ref "/f38/package/kf5-kcoreaddons.md" >}}) | 204 | 382 | 53.4 | Fòram na Gàidhlig | 
- | [freeciv]({{< ref "/f38/package/freeciv.md" >}}) | 59800 | 113531 | 52.7 | Akerbeltz | 
- | [gnome-settings-daemon]({{< ref "/f38/package/gnome-settings-daemon.md" >}}) | 1325 | 2659 | 49.8 | Fòram na Gàidhlig | 
- | [kf5-knotifications]({{< ref "/f38/package/kf5-knotifications.md" >}}) | 10 | 21 | 47.6 | Fòram na Gàidhlig | 
- | [maliit-keyboard]({{< ref "/f38/package/maliit-keyboard.md" >}}) | 37 | 81 | 45.7 | Gaelic; Scottish <gd@li.org> | 
- | [kactivitymanagerd]({{< ref "/f38/package/kactivitymanagerd.md" >}}) | 5 | 11 | 45.5 | Fòram na Gàidhlig | 
- | [tuxpaint]({{< ref "/f38/package/tuxpaint.md" >}}) | 1653 | 3763 | 43.9 | Fòram na Gàidhlig | 
- | [kf5-baloo]({{< ref "/f38/package/kf5-baloo.md" >}}) | 279 | 647 | 43.1 | Fòram na Gàidhlig | 
- | [gparted]({{< ref "/f38/package/gparted.md" >}}) | 2930 | 7874 | 37.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [kf5-kunitconversion]({{< ref "/f38/package/kf5-kunitconversion.md" >}}) | 2123 | 5757 | 36.9 | Fòram na Gàidhlig | 
- | [sugar-toolkit-gtk3]({{< ref "/f38/package/sugar-toolkit-gtk3.md" >}}) | 78 | 213 | 36.6 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f38/package/lightdm-gtk.md" >}}) | 29 | 89 | 32.6 | Gaelic; Scottish <gd@li.org> | 
- | [kf5-kiconthemes]({{< ref "/f38/package/kf5-kiconthemes.md" >}}) | 11 | 41 | 26.8 | Fòram na Gàidhlig | 
- | [mate-icon-theme]({{< ref "/f38/package/mate-icon-theme.md" >}}) | 1 | 4 | 25.0 | Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/) | 
- | [kf5-kfilemetadata]({{< ref "/f38/package/kf5-kfilemetadata.md" >}}) | 72 | 299 | 24.1 | Fòram na Gàidhlig | 
- | [kf5-knewstuff]({{< ref "/f38/package/kf5-knewstuff.md" >}}) | 346 | 1631 | 21.2 | Fòram na Gàidhlig | 
- | [lightdm]({{< ref "/f38/package/lightdm.md" >}}) | 32 | 163 | 19.6 | Gaelic; Scottish <gd@li.org> | 
- | [wesnoth]({{< ref "/f38/package/wesnoth.md" >}}) | 64216 | 339468 | 18.9 | Gaelic, Scottish (https://www.transifex.com/gunchleoc/teams/12769/gd/) | 
- | [stellarium]({{< ref "/f38/package/stellarium.md" >}}) | 23132 | 151641 | 15.3 | Gaelic, Scottish (https://www.transifex.com/stellarium/teams/80998/gd/) | 
- | [minetest]({{< ref "/f38/package/minetest.md" >}}) | 1236 | 9523 | 13.0 | Gaelic <https://hosted.weblate.org/projects/minetest/minetest/gd/> | 
- | [appstream]({{< ref "/f38/package/appstream.md" >}}) | 763 | 6082 | 12.5 | Gaelic <https://hosted.weblate.org/projects/appstream/translations/gd/> | 
- | [caja]({{< ref "/f38/package/caja.md" >}}) | 909 | 9675 | 9.4 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
- | [mate-menu]({{< ref "/f38/package/mate-menu.md" >}}) | 25 | 308 | 8.1 | Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/) | 
- | [seahorse]({{< ref "/f38/package/seahorse.md" >}}) | 168 | 2495 | 6.7 | Fòram na Gàidhlig | 
- | [mozo]({{< ref "/f38/package/mozo.md" >}}) | 3 | 46 | 6.5 | Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/) | 
- | [glib2]({{< ref "/f38/package/glib2.md" >}}) | 400 | 6956 | 5.8 | Fòram na Gàidhlig | 
- | [mingw-glib2]({{< ref "/f38/package/mingw-glib2.md" >}}) | 400 | 6956 | 5.8 | Fòram na Gàidhlig | 
- | [NetworkManager]({{< ref "/f38/package/NetworkManager.md" >}}) | 782 | 29194 | 2.7 | Fòram na Gàidhlig | 
- | [engrampa]({{< ref "/f38/package/engrampa.md" >}}) | 29 | 2049 | 1.4 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
- | [isomaster]({{< ref "/f38/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [mate-control-center]({{< ref "/f38/package/mate-control-center.md" >}}) | 33 | 3331 | 1.0 | Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/) | 
- | [mate-media]({{< ref "/f38/package/mate-media.md" >}}) | 2 | 239 | 0.8 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
- | [mate-utils]({{< ref "/f38/package/mate-utils.md" >}}) | 29 | 3879 | 0.7 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
- | [eom]({{< ref "/f38/package/eom.md" >}}) | 12 | 1779 | 0.7 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
- | [mate-session-manager]({{< ref "/f38/package/mate-session-manager.md" >}}) | 4 | 715 | 0.6 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
- | [malcontent]({{< ref "/f38/package/malcontent.md" >}}) | 3 | 584 | 0.5 | none | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [dnf]({{< ref "/f38/package/dnf.md" >}}) | 0 | 3887 | 0.0 | English (Gaidhlig) () | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [kf5-kitemviews]({{< ref "/f38/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Fòram na Gàidhlig | 
- | [libmatekbd]({{< ref "/f38/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/) | 
- | [mate-themes]({{< ref "/f38/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Gaelic, Scottish (http://app.transifex.com/mate/MATE/language/gd/) | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f38/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f38/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f38/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f38/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [supertuxkart]({{< ref "/f38/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
+ | [0ad](/f38/package/0ad) | 300 | 300 | 100.0 | Gaelic, Scottish (http://www.transifex.com/wildfire-games/0ad/language/gd/) | 
+ | [abattis-cantarell-fonts](/f38/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 | Scottish Gaelic <gd@li.org> | 
+ | [at-spi2-core](/f38/package/at-spi2-core) | 450 | 450 | 100.0 | Fòram na Gàidhlig | 
+ | [baobab](/f38/package/baobab) | 246 | 246 | 100.0 | Fòram na Gàidhlig | 
+ | [brasero](/f38/package/brasero) | 5549 | 5549 | 100.0 | Fòram na Gàidhlig | 
+ | [budgie-screensaver](/f38/package/budgie-screensaver) | 270 | 270 | 100.0 | Fòram na Gàidhlig | 
+ | [cawbird](/f38/package/cawbird) | 1233 | 1233 | 100.0 | Gaelic, Scottish (https://www.transifex.com/cawbird/teams/107135/gd/) | 
+ | [dialog](/f38/package/dialog) | 25 | 25 | 100.0 | Scottish Gaelic <fios@foramnagaidhlig.net> | 
+ | [enigma](/f38/package/enigma) | 10412 | 10412 | 100.0 | Gaelic, Scottish (http://www.transifex.com/michtrz/enigma/language/gd/) | 
+ | [eog](/f38/package/eog) | 1675 | 1675 | 100.0 | Fòram na Gàidhlig | 
+ | [evince](/f38/package/evince) | 1664 | 1664 | 100.0 | Fòram na Gàidhlig | 
+ | [file-roller](/f38/package/file-roller) | 1200 | 1200 | 100.0 | Fòram na Gàidhlig | 
+ | [flare-engine](/f38/package/flare-engine) | 1923 | 1923 | 100.0 | Gaelic, Scottish (https://www.transifex.com/flareorg/teams/84925/gd/) | 
+ | [gdm](/f38/package/gdm) | 629 | 629 | 100.0 | Fòram na Gàidhlig | 
+ | [gedit](/f38/package/gedit) | 4267 | 4267 | 100.0 | Fòram na Gàidhlig | 
+ | [glib-networking](/f38/package/glib-networking) | 163 | 163 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-bluetooth](/f38/package/gnome-bluetooth) | 373 | 373 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-bluetooth3.34](/f38/package/gnome-bluetooth3.34) | 373 | 373 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-calculator](/f38/package/gnome-calculator) | 1584 | 1584 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-calendar](/f38/package/gnome-calendar) | 661 | 661 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-characters](/f38/package/gnome-characters) | 186 | 186 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-clocks](/f38/package/gnome-clocks) | 283 | 283 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-color-manager](/f38/package/gnome-color-manager) | 1796 | 1796 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-contacts](/f38/package/gnome-contacts) | 417 | 417 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-desktop3](/f38/package/gnome-desktop3) | 146 | 146 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-dictionary](/f38/package/gnome-dictionary) | 664 | 664 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-disk-utility](/f38/package/gnome-disk-utility) | 3820 | 3820 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-font-viewer](/f38/package/gnome-font-viewer) | 113 | 113 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-icon-theme](/f38/package/gnome-icon-theme) | 4 | 4 | 100.0 | Gaelic; Scottish <gd@li.org> | 
+ | [gnome-initial-setup](/f38/package/gnome-initial-setup) | 849 | 849 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-keyring](/f38/package/gnome-keyring) | 509 | 509 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-logs](/f38/package/gnome-logs) | 376 | 376 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-menus](/f38/package/gnome-menus) | 70 | 70 | 100.0 | Gaelic; Scottish <gd@li.org> | 
+ | [gnome-music](/f38/package/gnome-music) | 528 | 528 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-online-accounts](/f38/package/gnome-online-accounts) | 658 | 658 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-photos](/f38/package/gnome-photos) | 473 | 473 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-power-manager](/f38/package/gnome-power-manager) | 489 | 489 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-screenshot](/f38/package/gnome-screenshot) | 457 | 457 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-session](/f38/package/gnome-session) | 364 | 364 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-shell-extensions](/f38/package/gnome-shell-extensions) | 323 | 323 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-shell-frippery](/f38/package/gnome-shell-frippery) | 1 | 1 | 100.0 |  | 
+ | [gnome-software](/f38/package/gnome-software) | 3709 | 3709 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-system-monitor](/f38/package/gnome-system-monitor) | 1462 | 1462 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-terminal](/f38/package/gnome-terminal) | 2554 | 2554 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-themes-extra](/f38/package/gnome-themes-extra) | 15 | 15 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-user-share](/f38/package/gnome-user-share) | 52 | 52 | 100.0 | Fòram na Gàidhlig | 
+ | [gnome-weather](/f38/package/gnome-weather) | 191 | 191 | 100.0 | Fòram na Gàidhlig | 
+ | [gspell](/f38/package/gspell) | 76 | 76 | 100.0 | Scottish Gaelic <gd@li.org> | 
+ | [gtk-vnc](/f38/package/gtk-vnc) | 8 | 8 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [gtk3](/f38/package/gtk3) | 16045 | 16045 | 100.0 | Fòram na Gàidhlig | 
+ | [gtk4](/f38/package/gtk4) | 3869 | 3869 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kdbusaddons](/f38/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kdesignerplugin](/f38/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kdesu](/f38/package/kf5-kdesu) | 19 | 19 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kdnssd](/f38/package/kf5-kdnssd) | 3 | 3 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kdoctools](/f38/package/kf5-kdoctools) | 8 | 8 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kjsembed](/f38/package/kf5-kjsembed) | 248 | 248 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-knotifyconfig](/f38/package/kf5-knotifyconfig) | 129 | 129 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kpeople](/f38/package/kf5-kpeople) | 13 | 13 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kpty](/f38/package/kf5-kpty) | 15 | 15 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kross](/f38/package/kf5-kross) | 100 | 100 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kwindowsystem](/f38/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Fòram na Gàidhlig | 
+ | [kf5-kxmlrpcclient](/f38/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Fòram na Gàidhlig | 
+ | [kio-extras](/f38/package/kio-extras) | 25 | 25 | 100.0 | Fòram na Gàidhlig | 
+ | [libgnome-keyring](/f38/package/libgnome-keyring) | 44 | 44 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [libgweather](/f38/package/libgweather) | 6369 | 6369 | 100.0 | Fòram na Gàidhlig | 
+ | [libgweather4](/f38/package/libgweather4) | 6369 | 6369 | 100.0 | Fòram na Gàidhlig | 
+ | [libsoup](/f38/package/libsoup) | 155 | 155 | 100.0 | Fòram na Gàidhlig | 
+ | [libsoup3](/f38/package/libsoup3) | 155 | 155 | 100.0 | Fòram na Gàidhlig | 
+ | [libwnck3](/f38/package/libwnck3) | 1086 | 1086 | 100.0 | Fòram na Gàidhlig | 
+ | [lincity-ng](/f38/package/lincity-ng) | 1578 | 1578 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [mingw-atk](/f38/package/mingw-atk) | 440 | 440 | 100.0 | Fòram na Gàidhlig | 
+ | [mingw-glib-networking](/f38/package/mingw-glib-networking) | 163 | 163 | 100.0 | Fòram na Gàidhlig | 
+ | [mingw-gtk3](/f38/package/mingw-gtk3) | 16045 | 16045 | 100.0 | Fòram na Gàidhlig | 
+ | [mingw-gtk4](/f38/package/mingw-gtk4) | 3869 | 3869 | 100.0 | Fòram na Gàidhlig | 
+ | [mingw-libsoup](/f38/package/mingw-libsoup) | 155 | 155 | 100.0 | Fòram na Gàidhlig | 
+ | [mousetweaks](/f38/package/mousetweaks) | 114 | 114 | 100.0 | Fòram na Gàidhlig | 
+ | [nautilus](/f38/package/nautilus) | 5620 | 5620 | 100.0 | Fòram na Gàidhlig | 
+ | [neverball](/f38/package/neverball) | 2735 | 2735 | 100.0 | Gaelic, Scottish (http://www.transifex.com/projects/p/neverball/language/gd/) | 
+ | [polkit-gnome](/f38/package/polkit-gnome) | 94 | 94 | 100.0 | Sgioba na Ubuntu na Gàidhlig | 
+ | [python-django](/f38/package/python-django) | 3770 | 3770 | 100.0 | Gaelic, Scottish (http://www.transifex.com/django/django/language/gd/) | 
+ | [python-django-formtools](/f38/package/python-django-formtools) | 32 | 32 | 100.0 | Gaelic, Scottish (http://www.transifex.com/django/django-formtools/language/gd/) | 
+ | [rhythmbox](/f38/package/rhythmbox) | 3769 | 3769 | 100.0 | Fòram na Gàidhlig | 
+ | [simple-scan](/f38/package/simple-scan) | 847 | 847 | 100.0 | Fòram na Gàidhlig | 
+ | [sushi](/f38/package/sushi) | 15 | 15 | 100.0 | Fòram na Gàidhlig | 
+ | [totem](/f38/package/totem) | 1327 | 1327 | 100.0 | Fòram na Gàidhlig | 
+ | [totem-pl-parser](/f38/package/totem-pl-parser) | 29 | 29 | 100.0 | Fòram na Gàidhlig | 
+ | [transmageddon](/f38/package/transmageddon) | 327 | 327 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [vdrift](/f38/package/vdrift) | 1649 | 1649 | 100.0 | Gaelic, Scottish (http://www.transifex.com/vdrift/vdrift/language/gd/) | 
+ | [xdg-user-dirs](/f38/package/xdg-user-dirs) | 28 | 28 | 100.0 | Scottish Gaelic <(nothing)> | 
+ | [yelp](/f38/package/yelp) | 284 | 284 | 100.0 | Fòram na Gàidhlig | 
+ | [yelp-xsl](/f38/package/yelp-xsl) | 81 | 81 | 100.0 | Fòram na Gàidhlig | 
+ | [flare](/f38/package/flare) | 9075 | 9076 | 100.0 | Gaelic, Scottish (https://www.transifex.com/flareorg/teams/84925/gd/) | 
+ | [tuxpaint-stamps](/f38/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 | Fòram na Gàidhlig | 
+ | [kf5-ki18n](/f38/package/kf5-ki18n) | 123 | 124 | 99.2 | Fòram na Gàidhlig | 
+ | [python-django3](/f38/package/python-django3) | 3740 | 3800 | 98.4 | Gaelic, Scottish (http://www.transifex.com/django/django/language/gd/) | 
+ | [kf5-kinit](/f38/package/kf5-kinit) | 113 | 116 | 97.4 | Fòram na Gàidhlig | 
+ | [kf5-sonnet](/f38/package/kf5-sonnet) | 663 | 683 | 97.1 | Fòram na Gàidhlig | 
+ | [kf5-ktextwidgets](/f38/package/kf5-ktextwidgets) | 459 | 473 | 97.0 | Fòram na Gàidhlig | 
+ | [kf5-kservice](/f38/package/kf5-kservice) | 167 | 173 | 96.5 | Fòram na Gàidhlig | 
+ | [python-django-contrib-comments](/f38/package/python-django-contrib-comments) | 240 | 250 | 96.0 | Gaelic, Scottish (http://www.transifex.com/django/django-contrib-comments/language/gd/) | 
+ | [kf5-khtml](/f38/package/kf5-khtml) | 1575 | 1667 | 94.5 | Fòram na Gàidhlig | 
+ | [kf5-kjobwidgets](/f38/package/kf5-kjobwidgets) | 123 | 133 | 92.5 | Fòram na Gàidhlig | 
+ | [kf5-kwallet](/f38/package/kf5-kwallet) | 1348 | 1460 | 92.3 | Fòram na Gàidhlig | 
+ | [slick-greeter](/f38/package/slick-greeter) | 199 | 216 | 92.1 | Gaelic; Scottish <gd@li.org> | 
+ | [plank](/f38/package/plank) | 173 | 189 | 91.5 | Fòram na Gàidhlig | 
+ | [gimp](/f38/package/gimp) | 13940 | 15492 | 90.0 | Fòram na Gàidhlig | 
+ | [kf5-kdelibs4support](/f38/package/kf5-kdelibs4support) | 4813 | 5353 | 89.9 | Fòram na Gàidhlig | 
+ | [kf5-plasma](/f38/package/kf5-plasma) | 324 | 362 | 89.5 | Fòram na Gàidhlig | 
+ | [kf5-kconfigwidgets](/f38/package/kf5-kconfigwidgets) | 305 | 342 | 89.2 | Fòram na Gàidhlig | 
+ | [kf5-solid](/f38/package/kf5-solid) | 518 | 588 | 88.1 | Fòram na Gàidhlig | 
+ | [supertux](/f38/package/supertux) | 3660 | 4206 | 87.0 | Gaelic, Scottish (http://www.transifex.com/arctic-games/supertux/language/gd/) | 
+ | [onboard](/f38/package/onboard) | 1942 | 2318 | 83.8 | Gaelic; Scottish <gd@li.org> | 
+ | [kf5-kcompletion](/f38/package/kf5-kcompletion) | 15 | 18 | 83.3 | Fòram na Gàidhlig | 
+ | [gnome-maps](/f38/package/gnome-maps) | 986 | 1186 | 83.1 | Fòram na Gàidhlig | 
+ | [kf5-kglobalaccel](/f38/package/kf5-kglobalaccel) | 59 | 71 | 83.1 | Fòram na Gàidhlig | 
+ | [kf5-kconfig](/f38/package/kf5-kconfig) | 239 | 289 | 82.7 | Fòram na Gàidhlig | 
+ | [widelands](/f38/package/widelands) | 66913 | 83602 | 80.0 | Gaelic, Scottish (http://www.transifex.com/widelands/widelands/language/gd/) | 
+ | [folder-color-switcher](/f38/package/folder-color-switcher) | 51 | 65 | 78.5 | Gaelic; Scottish <gd@li.org> | 
+ | [kf5-kparts](/f38/package/kf5-kparts) | 104 | 138 | 75.4 | Fòram na Gàidhlig | 
+ | [libnma](/f38/package/libnma) | 568 | 807 | 70.4 | Fòram na Gàidhlig | 
+ | [kf5-kpackage](/f38/package/kf5-kpackage) | 317 | 452 | 70.1 | Fòram na Gàidhlig | 
+ | [kf5-kcmutils](/f38/package/kf5-kcmutils) | 182 | 266 | 68.4 | Fòram na Gàidhlig | 
+ | [kf5-kxmlgui](/f38/package/kf5-kxmlgui) | 1009 | 1574 | 64.1 | Fòram na Gàidhlig | 
+ | [budgie-control-center](/f38/package/budgie-control-center) | 4162 | 6597 | 63.1 | Gaelic, Scottish (https://app.transifex.com/buddiesofbudgie/teams/129844/gd/) | 
+ | [kf5-kcodecs](/f38/package/kf5-kcodecs) | 233 | 370 | 63.0 | Fòram na Gàidhlig | 
+ | [shotwell](/f38/package/shotwell) | 4428 | 7040 | 62.9 | Fòram na Gàidhlig | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 12961 | 20740 | 62.5 | Fòram na Gàidhlig | 
+ | [deja-dup](/f38/package/deja-dup) | 978 | 1623 | 60.3 | Fòram na Gàidhlig | 
+ | [kf5-kdeclarative](/f38/package/kf5-kdeclarative) | 97 | 161 | 60.2 | Fòram na Gàidhlig | 
+ | [gnome-control-center](/f38/package/gnome-control-center) | 3965 | 6617 | 59.9 | Fòram na Gàidhlig | 
+ | [magpie](/f38/package/magpie) | 283 | 476 | 59.5 | Fòram na Gàidhlig | 
+ | [muffin](/f38/package/muffin) | 283 | 476 | 59.5 | Fòram na Gàidhlig | 
+ | [mutter](/f38/package/mutter) | 283 | 476 | 59.5 | Fòram na Gàidhlig | 
+ | [gnome-extensions-app](/f38/package/gnome-extensions-app) | 1594 | 2843 | 56.1 | Fòram na Gàidhlig | 
+ | [gnome-shell](/f38/package/gnome-shell) | 1594 | 2843 | 56.1 | Fòram na Gàidhlig | 
+ | [libreoffice](/f38/package/libreoffice) | 93619 | 168935 | 55.4 | Gaelic <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/gd/> | 
+ | [network-manager-applet](/f38/package/network-manager-applet) | 2435 | 4408 | 55.2 | Fòram na Gàidhlig | 
+ | [kf5-kbookmarks](/f38/package/kf5-kbookmarks) | 127 | 230 | 55.2 | Fòram na Gàidhlig | 
+ | [kf5-kauth](/f38/package/kf5-kauth) | 39 | 73 | 53.4 | Fòram na Gàidhlig | 
+ | [kf5-kcoreaddons](/f38/package/kf5-kcoreaddons) | 204 | 382 | 53.4 | Fòram na Gàidhlig | 
+ | [freeciv](/f38/package/freeciv) | 59800 | 113531 | 52.7 | Akerbeltz | 
+ | [gnome-settings-daemon](/f38/package/gnome-settings-daemon) | 1325 | 2659 | 49.8 | Fòram na Gàidhlig | 
+ | [kf5-knotifications](/f38/package/kf5-knotifications) | 10 | 21 | 47.6 | Fòram na Gàidhlig | 
+ | [maliit-keyboard](/f38/package/maliit-keyboard) | 37 | 81 | 45.7 | Gaelic; Scottish <gd@li.org> | 
+ | [kactivitymanagerd](/f38/package/kactivitymanagerd) | 5 | 11 | 45.5 | Fòram na Gàidhlig | 
+ | [tuxpaint](/f38/package/tuxpaint) | 1653 | 3763 | 43.9 | Fòram na Gàidhlig | 
+ | [kf5-baloo](/f38/package/kf5-baloo) | 279 | 647 | 43.1 | Fòram na Gàidhlig | 
+ | [gparted](/f38/package/gparted) | 2930 | 7874 | 37.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [kf5-kunitconversion](/f38/package/kf5-kunitconversion) | 2123 | 5757 | 36.9 | Fòram na Gàidhlig | 
+ | [sugar-toolkit-gtk3](/f38/package/sugar-toolkit-gtk3) | 78 | 213 | 36.6 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f38/package/lightdm-gtk) | 29 | 89 | 32.6 | Gaelic; Scottish <gd@li.org> | 
+ | [kf5-kiconthemes](/f38/package/kf5-kiconthemes) | 11 | 41 | 26.8 | Fòram na Gàidhlig | 
+ | [mate-icon-theme](/f38/package/mate-icon-theme) | 1 | 4 | 25.0 | Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/) | 
+ | [kf5-kfilemetadata](/f38/package/kf5-kfilemetadata) | 72 | 299 | 24.1 | Fòram na Gàidhlig | 
+ | [kf5-knewstuff](/f38/package/kf5-knewstuff) | 346 | 1631 | 21.2 | Fòram na Gàidhlig | 
+ | [lightdm](/f38/package/lightdm) | 32 | 163 | 19.6 | Gaelic; Scottish <gd@li.org> | 
+ | [wesnoth](/f38/package/wesnoth) | 64216 | 339468 | 18.9 | Gaelic, Scottish (https://www.transifex.com/gunchleoc/teams/12769/gd/) | 
+ | [stellarium](/f38/package/stellarium) | 23132 | 151641 | 15.3 | Gaelic, Scottish (https://www.transifex.com/stellarium/teams/80998/gd/) | 
+ | [minetest](/f38/package/minetest) | 1236 | 9523 | 13.0 | Gaelic <https://hosted.weblate.org/projects/minetest/minetest/gd/> | 
+ | [appstream](/f38/package/appstream) | 763 | 6082 | 12.5 | Gaelic <https://hosted.weblate.org/projects/appstream/translations/gd/> | 
+ | [caja](/f38/package/caja) | 909 | 9675 | 9.4 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
+ | [mate-menu](/f38/package/mate-menu) | 25 | 308 | 8.1 | Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/) | 
+ | [seahorse](/f38/package/seahorse) | 168 | 2495 | 6.7 | Fòram na Gàidhlig | 
+ | [mozo](/f38/package/mozo) | 3 | 46 | 6.5 | Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/) | 
+ | [glib2](/f38/package/glib2) | 400 | 6956 | 5.8 | Fòram na Gàidhlig | 
+ | [mingw-glib2](/f38/package/mingw-glib2) | 400 | 6956 | 5.8 | Fòram na Gàidhlig | 
+ | [NetworkManager](/f38/package/NetworkManager) | 782 | 29194 | 2.7 | Fòram na Gàidhlig | 
+ | [engrampa](/f38/package/engrampa) | 29 | 2049 | 1.4 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
+ | [isomaster](/f38/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [mate-control-center](/f38/package/mate-control-center) | 33 | 3331 | 1.0 | Gaelic, Scottish (https://www.transifex.com/mate/teams/13566/gd/) | 
+ | [mate-media](/f38/package/mate-media) | 2 | 239 | 0.8 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
+ | [mate-utils](/f38/package/mate-utils) | 29 | 3879 | 0.7 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
+ | [eom](/f38/package/eom) | 12 | 1779 | 0.7 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
+ | [mate-session-manager](/f38/package/mate-session-manager) | 4 | 715 | 0.6 | Gaelic, Scottish (https://app.transifex.com/mate/teams/13566/gd/) | 
+ | [malcontent](/f38/package/malcontent) | 3 | 584 | 0.5 | none | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [dnf](/f38/package/dnf) | 0 | 3887 | 0.0 | English (Gaidhlig) () | 
+ | [elementary-code](/f38/package/elementary-code) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-music](/f38/package/elementary-music) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [kf5-kitemviews](/f38/package/kf5-kitemviews) | 0 | 7 | 0.0 | Fòram na Gàidhlig | 
+ | [libmatekbd](/f38/package/libmatekbd) | 0 | 308 | 0.0 | Gaelic, Scottish (http://www.transifex.com/mate/MATE/language/gd/) | 
+ | [mate-themes](/f38/package/mate-themes) | 0 | 74 | 0.0 | Gaelic, Scottish (http://app.transifex.com/mate/MATE/language/gd/) | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f38/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f38/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f38/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f38/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [supertuxkart](/f38/package/supertuxkart) | 0 | 0 | 0.0 |  | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
 {.sortable}
 
 

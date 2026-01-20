@@ -18,18 +18,18 @@ The package ircp-tray (version 0.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/cs.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/es.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/gl.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 201 | 201 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/sv.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 238 | 239 | 99.6 | /mnt/stockage/packages/f13/ircp-tray/po/zh_TW.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 200 | 205 | 97.6 | /mnt/stockage/packages/f13/ircp-tray/po/he.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 169 | 201 | 84.1 | /mnt/stockage/packages/f13/ircp-tray/po/pl.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 139 | 201 | 69.2 | /mnt/stockage/packages/f13/ircp-tray/po/fr.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 113 | 201 | 56.2 | /mnt/stockage/packages/f13/ircp-tray/po/zh_CN.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 0 | 201 | 0.0 | /mnt/stockage/packages/f13/ircp-tray/po/de.po | 
+ | [cs](/f13/language/cs) | 205 | 205 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/cs.po | 
+ | [es](/f13/language/es) | 239 | 239 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/es.po | 
+ | [gl](/f13/language/gl) | 205 | 205 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/gl.po | 
+ | [it](/f13/language/it) | 239 | 239 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/it.po | 
+ | [ru](/f13/language/ru) | 205 | 205 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/ru.po | 
+ | [sv](/f13/language/sv) | 201 | 201 | 100.0 | /mnt/stockage/packages/f13/ircp-tray/po/sv.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 238 | 239 | 99.6 | /mnt/stockage/packages/f13/ircp-tray/po/zh_TW.po | 
+ | [he](/f13/language/he) | 200 | 205 | 97.6 | /mnt/stockage/packages/f13/ircp-tray/po/he.po | 
+ | [pl](/f13/language/pl) | 169 | 201 | 84.1 | /mnt/stockage/packages/f13/ircp-tray/po/pl.po | 
+ | [fr](/f13/language/fr) | 139 | 201 | 69.2 | /mnt/stockage/packages/f13/ircp-tray/po/fr.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 113 | 201 | 56.2 | /mnt/stockage/packages/f13/ircp-tray/po/zh_CN.po | 
+ | [de](/f13/language/de) | 0 | 201 | 0.0 | /mnt/stockage/packages/f13/ircp-tray/po/de.po | 
 {.sortable}
 
 

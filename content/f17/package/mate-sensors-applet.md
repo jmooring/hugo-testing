@@ -18,19 +18,19 @@ The package mate-sensors-applet (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f17/language/it.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f17/mate-sensors-applet/po/it.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f17/mate-sensors-applet/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 294 | 298 | 98.7 | /mnt/stockage/packages/f17/mate-sensors-applet/po/ru.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 231 | 298 | 77.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/fr.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 222 | 298 | 74.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 222 | 298 | 74.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/de.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 222 | 298 | 74.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/hu.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 186 | 298 | 62.4 | /mnt/stockage/packages/f17/mate-sensors-applet/po/zh_CN.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 163 | 298 | 54.7 | /mnt/stockage/packages/f17/mate-sensors-applet/po/pl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 150 | 298 | 50.3 | /mnt/stockage/packages/f17/mate-sensors-applet/po/sv.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 59 | 298 | 19.8 | /mnt/stockage/packages/f17/mate-sensors-applet/po/fi.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 56 | 298 | 18.8 | /mnt/stockage/packages/f17/mate-sensors-applet/po/es.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 51 | 298 | 17.1 | /mnt/stockage/packages/f17/mate-sensors-applet/po/ro.po | 
+ | [it](/f17/language/it) | 298 | 298 | 100.0 | /mnt/stockage/packages/f17/mate-sensors-applet/po/it.po | 
+ | [pt_BR](/f17/language/pt_BR) | 298 | 298 | 100.0 | /mnt/stockage/packages/f17/mate-sensors-applet/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 294 | 298 | 98.7 | /mnt/stockage/packages/f17/mate-sensors-applet/po/ru.po | 
+ | [fr](/f17/language/fr) | 231 | 298 | 77.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/fr.po | 
+ | [cs](/f17/language/cs) | 222 | 298 | 74.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/cs.po | 
+ | [de](/f17/language/de) | 222 | 298 | 74.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/de.po | 
+ | [hu](/f17/language/hu) | 222 | 298 | 74.5 | /mnt/stockage/packages/f17/mate-sensors-applet/po/hu.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 186 | 298 | 62.4 | /mnt/stockage/packages/f17/mate-sensors-applet/po/zh_CN.po | 
+ | [pl](/f17/language/pl) | 163 | 298 | 54.7 | /mnt/stockage/packages/f17/mate-sensors-applet/po/pl.po | 
+ | [sv](/f17/language/sv) | 150 | 298 | 50.3 | /mnt/stockage/packages/f17/mate-sensors-applet/po/sv.po | 
+ | [fi](/f17/language/fi) | 59 | 298 | 19.8 | /mnt/stockage/packages/f17/mate-sensors-applet/po/fi.po | 
+ | [es](/f17/language/es) | 56 | 298 | 18.8 | /mnt/stockage/packages/f17/mate-sensors-applet/po/es.po | 
+ | [ro](/f17/language/ro) | 51 | 298 | 17.1 | /mnt/stockage/packages/f17/mate-sensors-applet/po/ro.po | 
 {.sortable}
 
 

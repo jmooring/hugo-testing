@@ -18,13 +18,13 @@ The package cockpit (version 0.96):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 2105 | 2238 | 94.1 | /mnt/stockage/packages/f23/cockpit/po/pl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 2105 | 2238 | 94.1 | /mnt/stockage/packages/f23/cockpit/po/uk.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 2062 | 2238 | 92.1 | /mnt/stockage/packages/f23/cockpit/po/ca.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 976 | 2238 | 43.6 | /mnt/stockage/packages/f23/cockpit/po/pt_BR.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 792 | 2238 | 35.4 | /mnt/stockage/packages/f23/cockpit/po/tr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 198 | 2238 | 8.8 | /mnt/stockage/packages/f23/cockpit/po/de.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 6 | 2238 | 0.3 | /mnt/stockage/packages/f23/cockpit/po/da.po | 
+ | [pl](/f23/language/pl) | 2105 | 2238 | 94.1 | /mnt/stockage/packages/f23/cockpit/po/pl.po | 
+ | [uk](/f23/language/uk) | 2105 | 2238 | 94.1 | /mnt/stockage/packages/f23/cockpit/po/uk.po | 
+ | [ca](/f23/language/ca) | 2062 | 2238 | 92.1 | /mnt/stockage/packages/f23/cockpit/po/ca.po | 
+ | [pt_BR](/f23/language/pt_BR) | 976 | 2238 | 43.6 | /mnt/stockage/packages/f23/cockpit/po/pt_BR.po | 
+ | [tr](/f23/language/tr) | 792 | 2238 | 35.4 | /mnt/stockage/packages/f23/cockpit/po/tr.po | 
+ | [de](/f23/language/de) | 198 | 2238 | 8.8 | /mnt/stockage/packages/f23/cockpit/po/de.po | 
+ | [da](/f23/language/da) | 6 | 2238 | 0.3 | /mnt/stockage/packages/f23/cockpit/po/da.po | 
 {.sortable}
 
 

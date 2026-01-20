@@ -18,7 +18,7 @@ The package virt-viewer (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f14/virt-viewer/po/pl.po | 
+ | [pl](/f14/language/pl) | 282 | 282 | 100.0 | /mnt/stockage/packages/f14/virt-viewer/po/pl.po | 
 {.sortable}
 
 

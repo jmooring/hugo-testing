@@ -39,41 +39,41 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [digikam]({{< ref "/f10/package/digikam.md" >}}) | 19693 | 19693 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [guidance-power-manager]({{< ref "/f10/package/guidance-power-manager.md" >}}) | 443 | 443 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [k3b]({{< ref "/f10/package/k3b.md" >}}) | 20621 | 20621 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kdiff3]({{< ref "/f10/package/kdiff3.md" >}}) | 3528 | 3528 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kgrab]({{< ref "/f10/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kiconedit]({{< ref "/f10/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kile]({{< ref "/f10/package/kile.md" >}}) | 10439 | 10439 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kio_gopher]({{< ref "/f10/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kmid]({{< ref "/f10/package/kmid.md" >}}) | 535 | 535 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kopete-cryptography]({{< ref "/f10/package/kopete-cryptography.md" >}}) | 408 | 408 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ksig]({{< ref "/f10/package/ksig.md" >}}) | 85 | 85 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [ktorrent]({{< ref "/f10/package/ktorrent.md" >}}) | 6795 | 6795 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [skanlite]({{< ref "/f10/package/skanlite.md" >}}) | 109 | 109 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [yakuake]({{< ref "/f10/package/yakuake.md" >}}) | 1288 | 1288 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 1664 | 1692 | 98.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kphotoalbum]({{< ref "/f10/package/kphotoalbum.md" >}}) | 5807 | 6095 | 95.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kcoloredit]({{< ref "/f10/package/kcoloredit.md" >}}) | 254 | 278 | 91.4 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [rsibreak]({{< ref "/f10/package/rsibreak.md" >}}) | 1094 | 1223 | 89.5 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [choqok]({{< ref "/f10/package/choqok.md" >}}) | 708 | 866 | 81.8 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [skrooge]({{< ref "/f10/package/skrooge.md" >}}) | 3216 | 4053 | 79.3 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kio_sysinfo]({{< ref "/f10/package/kio_sysinfo.md" >}}) | 131 | 168 | 78.0 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [amarok]({{< ref "/f10/package/amarok.md" >}}) | 6521 | 9430 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [kipi-plugins]({{< ref "/f10/package/kipi-plugins.md" >}}) | 9100 | 13881 | 65.6 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [webkitkde]({{< ref "/f10/package/webkitkde.md" >}}) | 227 | 384 | 59.1 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [pmount]({{< ref "/f10/package/pmount.md" >}}) | 352 | 723 | 48.7 | German, Low <nds@li.org> | 
- | [kflickr]({{< ref "/f10/package/kflickr.md" >}}) | 123 | 299 | 41.1 | German, Low <nds@li.org> | 
- | [pidgin-musictracker]({{< ref "/f10/package/pidgin-musictracker.md" >}}) | 130 | 326 | 39.9 | German, Low <nds@li.org> | 
- | [fuse-encfs]({{< ref "/f10/package/fuse-encfs.md" >}}) | 249 | 1311 | 19.0 | German, Low <nds@li.org> | 
- | [kst]({{< ref "/f10/package/kst.md" >}}) | 423 | 7397 | 5.7 | Low Saxon <kde-i18n-nds@kde.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 76 | 1998 | 3.8 | German, Low <nds@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 58 | 2661 | 2.2 | German, Low <nds@li.org> | 
- | [homebank]({{< ref "/f10/package/homebank.md" >}}) | 12 | 1365 | 0.9 | German, Low <nds@li.org> | 
- | [blueman]({{< ref "/f10/package/blueman.md" >}}) | 2 | 1034 | 0.2 | German, Low <nds@li.org> | 
- | [avant-window-navigator]({{< ref "/f10/package/avant-window-navigator.md" >}}) | 0 | 593 | 0.0 | German, Low <nds@li.org> | 
- | [gtg]({{< ref "/f10/package/gtg.md" >}}) | 0 | 944 | 0.0 | German, Low <nds@li.org> | 
+ | [digikam](/f10/package/digikam) | 19693 | 19693 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [guidance-power-manager](/f10/package/guidance-power-manager) | 443 | 443 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [k3b](/f10/package/k3b) | 20621 | 20621 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kdiff3](/f10/package/kdiff3) | 3528 | 3528 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kgrab](/f10/package/kgrab) | 370 | 370 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kiconedit](/f10/package/kiconedit) | 726 | 726 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kile](/f10/package/kile) | 10439 | 10439 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kio_gopher](/f10/package/kio_gopher) | 17 | 17 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kmid](/f10/package/kmid) | 535 | 535 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kopete-cryptography](/f10/package/kopete-cryptography) | 408 | 408 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ksig](/f10/package/ksig) | 85 | 85 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [ktorrent](/f10/package/ktorrent) | 6795 | 6795 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [skanlite](/f10/package/skanlite) | 109 | 109 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [yakuake](/f10/package/yakuake) | 1288 | 1288 | 100.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [konq-plugins](/f10/package/konq-plugins) | 1664 | 1692 | 98.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kphotoalbum](/f10/package/kphotoalbum) | 5807 | 6095 | 95.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kcoloredit](/f10/package/kcoloredit) | 254 | 278 | 91.4 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [rsibreak](/f10/package/rsibreak) | 1094 | 1223 | 89.5 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [choqok](/f10/package/choqok) | 708 | 866 | 81.8 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [skrooge](/f10/package/skrooge) | 3216 | 4053 | 79.3 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kio_sysinfo](/f10/package/kio_sysinfo) | 131 | 168 | 78.0 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [amarok](/f10/package/amarok) | 6521 | 9430 | 69.2 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [kipi-plugins](/f10/package/kipi-plugins) | 9100 | 13881 | 65.6 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [webkitkde](/f10/package/webkitkde) | 227 | 384 | 59.1 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [pmount](/f10/package/pmount) | 352 | 723 | 48.7 | German, Low <nds@li.org> | 
+ | [kflickr](/f10/package/kflickr) | 123 | 299 | 41.1 | German, Low <nds@li.org> | 
+ | [pidgin-musictracker](/f10/package/pidgin-musictracker) | 130 | 326 | 39.9 | German, Low <nds@li.org> | 
+ | [fuse-encfs](/f10/package/fuse-encfs) | 249 | 1311 | 19.0 | German, Low <nds@li.org> | 
+ | [kst](/f10/package/kst) | 423 | 7397 | 5.7 | Low Saxon <kde-i18n-nds@kde.org> | 
+ | [deluge](/f10/package/deluge) | 76 | 1998 | 3.8 | German, Low <nds@li.org> | 
+ | [Miro](/f10/package/Miro) | 58 | 2661 | 2.2 | German, Low <nds@li.org> | 
+ | [homebank](/f10/package/homebank) | 12 | 1365 | 0.9 | German, Low <nds@li.org> | 
+ | [blueman](/f10/package/blueman) | 2 | 1034 | 0.2 | German, Low <nds@li.org> | 
+ | [avant-window-navigator](/f10/package/avant-window-navigator) | 0 | 593 | 0.0 | German, Low <nds@li.org> | 
+ | [gtg](/f10/package/gtg) | 0 | 944 | 0.0 | German, Low <nds@li.org> | 
 {.sortable}
 
 

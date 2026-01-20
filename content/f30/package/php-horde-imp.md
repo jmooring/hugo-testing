@@ -18,50 +18,50 @@ The package php-horde-imp (version 6.2.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ar/LC_MESSAGES/imp.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 3028 | 3028 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/bg/LC_MESSAGES/imp.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 6871 | 6871 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ca/LC_MESSAGES/imp.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/da/LC_MESSAGES/imp.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 6875 | 6875 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/de/LC_MESSAGES/imp.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ar_OM/LC_MESSAGES/imp.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 6826 | 6826 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/es/LC_MESSAGES/imp.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 6722 | 6722 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/et/LC_MESSAGES/imp.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 6873 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/eu/LC_MESSAGES/imp.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 5359 | 5359 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/fa/LC_MESSAGES/imp.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 6494 | 6494 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/fi/LC_MESSAGES/imp.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/he/LC_MESSAGES/imp.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 6758 | 6758 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/hr/LC_MESSAGES/imp.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 6873 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/hu/LC_MESSAGES/imp.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 2320 | 2320 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/id/LC_MESSAGES/imp.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 2872 | 2872 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/is/LC_MESSAGES/imp.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 6908 | 6908 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/it/LC_MESSAGES/imp.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 6833 | 6833 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ja/LC_MESSAGES/imp.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 5647 | 5647 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/km/LC_MESSAGES/imp.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 6681 | 6681 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/lt/LC_MESSAGES/imp.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 6475 | 6475 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/lv/LC_MESSAGES/imp.po | 
- | [mk]({{< ref "/f30/language/mk.md" >}}) | 2396 | 2396 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/mk/LC_MESSAGES/imp.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 5034 | 5034 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/nb/LC_MESSAGES/imp.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 6584 | 6584 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/nl/LC_MESSAGES/imp.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 3029 | 3029 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/nn/LC_MESSAGES/imp.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 6742 | 6742 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/pl/LC_MESSAGES/imp.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 5646 | 5646 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/pt/LC_MESSAGES/imp.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 6873 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/pt_BR/LC_MESSAGES/imp.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 1562 | 1562 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ro/LC_MESSAGES/imp.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 5683 | 5683 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/sl/LC_MESSAGES/imp.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/th/LC_MESSAGES/imp.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 6904 | 6904 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/tr/LC_MESSAGES/imp.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 5852 | 5852 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/zh_CN/LC_MESSAGES/imp.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 6872 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/fr/LC_MESSAGES/imp.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 6314 | 6326 | 99.8 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/zh_TW/LC_MESSAGES/imp.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 6857 | 6873 | 99.8 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/el/LC_MESSAGES/imp.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 6825 | 6850 | 99.6 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/sv/LC_MESSAGES/imp.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 6749 | 6833 | 98.8 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/sk/LC_MESSAGES/imp.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 5995 | 6512 | 92.1 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/uk/LC_MESSAGES/imp.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 2644 | 3218 | 82.2 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/bs/LC_MESSAGES/imp.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 5410 | 6873 | 78.7 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/cs/LC_MESSAGES/imp.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 4534 | 6489 | 69.9 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/gl/LC_MESSAGES/imp.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 3042 | 5166 | 58.9 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ru/LC_MESSAGES/imp.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 1871 | 4502 | 41.6 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ko/LC_MESSAGES/imp.po | 
+ | [ar](/f30/language/ar) | 2295 | 2295 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ar/LC_MESSAGES/imp.po | 
+ | [bg](/f30/language/bg) | 3028 | 3028 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/bg/LC_MESSAGES/imp.po | 
+ | [ca](/f30/language/ca) | 6871 | 6871 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ca/LC_MESSAGES/imp.po | 
+ | [da](/f30/language/da) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/da/LC_MESSAGES/imp.po | 
+ | [de](/f30/language/de) | 6875 | 6875 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/de/LC_MESSAGES/imp.po | 
+ | [error](/f30/language/error) | 2289 | 2289 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ar_OM/LC_MESSAGES/imp.po | 
+ | [es](/f30/language/es) | 6826 | 6826 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/es/LC_MESSAGES/imp.po | 
+ | [et](/f30/language/et) | 6722 | 6722 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/et/LC_MESSAGES/imp.po | 
+ | [eu](/f30/language/eu) | 6873 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/eu/LC_MESSAGES/imp.po | 
+ | [fa](/f30/language/fa) | 5359 | 5359 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/fa/LC_MESSAGES/imp.po | 
+ | [fi](/f30/language/fi) | 6494 | 6494 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/fi/LC_MESSAGES/imp.po | 
+ | [he](/f30/language/he) | 73 | 73 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/he/LC_MESSAGES/imp.po | 
+ | [hr](/f30/language/hr) | 6758 | 6758 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/hr/LC_MESSAGES/imp.po | 
+ | [hu](/f30/language/hu) | 6873 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/hu/LC_MESSAGES/imp.po | 
+ | [id](/f30/language/id) | 2320 | 2320 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/id/LC_MESSAGES/imp.po | 
+ | [is](/f30/language/is) | 2872 | 2872 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/is/LC_MESSAGES/imp.po | 
+ | [it](/f30/language/it) | 6908 | 6908 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/it/LC_MESSAGES/imp.po | 
+ | [ja](/f30/language/ja) | 6833 | 6833 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ja/LC_MESSAGES/imp.po | 
+ | [km](/f30/language/km) | 5647 | 5647 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/km/LC_MESSAGES/imp.po | 
+ | [lt](/f30/language/lt) | 6681 | 6681 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/lt/LC_MESSAGES/imp.po | 
+ | [lv](/f30/language/lv) | 6475 | 6475 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/lv/LC_MESSAGES/imp.po | 
+ | [mk](/f30/language/mk) | 2396 | 2396 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/mk/LC_MESSAGES/imp.po | 
+ | [nb_NO](/f30/language/nb_NO) | 5034 | 5034 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/nb/LC_MESSAGES/imp.po | 
+ | [nl](/f30/language/nl) | 6584 | 6584 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/nl/LC_MESSAGES/imp.po | 
+ | [nn](/f30/language/nn) | 3029 | 3029 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/nn/LC_MESSAGES/imp.po | 
+ | [pl](/f30/language/pl) | 6742 | 6742 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/pl/LC_MESSAGES/imp.po | 
+ | [pt](/f30/language/pt) | 5646 | 5646 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/pt/LC_MESSAGES/imp.po | 
+ | [pt_BR](/f30/language/pt_BR) | 6873 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/pt_BR/LC_MESSAGES/imp.po | 
+ | [ro](/f30/language/ro) | 1562 | 1562 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ro/LC_MESSAGES/imp.po | 
+ | [sl](/f30/language/sl) | 5683 | 5683 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/sl/LC_MESSAGES/imp.po | 
+ | [th](/f30/language/th) | 1754 | 1754 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/th/LC_MESSAGES/imp.po | 
+ | [tr](/f30/language/tr) | 6904 | 6904 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/tr/LC_MESSAGES/imp.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 5852 | 5852 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/zh_CN/LC_MESSAGES/imp.po | 
+ | [fr](/f30/language/fr) | 6872 | 6873 | 100.0 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/fr/LC_MESSAGES/imp.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 6314 | 6326 | 99.8 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/zh_TW/LC_MESSAGES/imp.po | 
+ | [el](/f30/language/el) | 6857 | 6873 | 99.8 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/el/LC_MESSAGES/imp.po | 
+ | [sv](/f30/language/sv) | 6825 | 6850 | 99.6 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/sv/LC_MESSAGES/imp.po | 
+ | [sk](/f30/language/sk) | 6749 | 6833 | 98.8 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/sk/LC_MESSAGES/imp.po | 
+ | [uk](/f30/language/uk) | 5995 | 6512 | 92.1 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/uk/LC_MESSAGES/imp.po | 
+ | [bs](/f30/language/bs) | 2644 | 3218 | 82.2 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/bs/LC_MESSAGES/imp.po | 
+ | [cs](/f30/language/cs) | 5410 | 6873 | 78.7 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/cs/LC_MESSAGES/imp.po | 
+ | [gl](/f30/language/gl) | 4534 | 6489 | 69.9 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/gl/LC_MESSAGES/imp.po | 
+ | [ru](/f30/language/ru) | 3042 | 5166 | 58.9 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ru/LC_MESSAGES/imp.po | 
+ | [ko](/f30/language/ko) | 1871 | 4502 | 41.6 | /mnt/stockage/packages/f30/php-horde-imp/imp-6.2.24/locale/ko/LC_MESSAGES/imp.po | 
 {.sortable}
 
 

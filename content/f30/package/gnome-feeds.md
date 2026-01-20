@@ -18,8 +18,8 @@ The package gnome-feeds (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f30/language/it.md" >}}) | 649 | 649 | 100.0 | /mnt/stockage/packages/f30/gnome-feeds/po/it.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 604 | 614 | 98.4 | /mnt/stockage/packages/f30/gnome-feeds/po/de.po | 
+ | [it](/f30/language/it) | 649 | 649 | 100.0 | /mnt/stockage/packages/f30/gnome-feeds/po/it.po | 
+ | [de](/f30/language/de) | 604 | 614 | 98.4 | /mnt/stockage/packages/f30/gnome-feeds/po/de.po | 
 {.sortable}
 
 

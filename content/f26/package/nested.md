@@ -18,7 +18,7 @@ The package nested (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f26/nested/l10n/po/es.po | 
+ | [es](/f26/language/es) | 696 | 696 | 100.0 | /mnt/stockage/packages/f26/nested/l10n/po/es.po | 
 {.sortable}
 
 

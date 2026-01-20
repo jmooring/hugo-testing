@@ -18,65 +18,65 @@ The package dconf-editor (version 3.20.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f24/language/an.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/an.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/as.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/be.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/bg.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/bn_IN.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/bs.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ca@valencia.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/et.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/eu.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/fa.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/gl.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/hi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/id.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/is.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/lv.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/mr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/nl.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ru.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 2140 | 2140 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/sr@latin.po/mnt/stockage/packages/f24/dconf-editor/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/te.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/tg.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/th.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ug.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1263 | 1263 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/zh_TW.po/mnt/stockage/packages/f24/dconf-editor/po/zh_HK.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 1068 | 1070 | 99.8 | /mnt/stockage/packages/f24/dconf-editor/po/oc.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 180 | 184 | 97.8 | /mnt/stockage/packages/f24/dconf-editor/po/fur.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 71 | 184 | 38.6 | /mnt/stockage/packages/f24/dconf-editor/po/ar.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 383 | 1070 | 35.8 | /mnt/stockage/packages/f24/dconf-editor/po/sk.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 346 | 1070 | 32.3 | /mnt/stockage/packages/f24/dconf-editor/po/tr.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 291 | 1070 | 27.2 | /mnt/stockage/packages/f24/dconf-editor/po/nb.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 173 | 1070 | 16.2 | /mnt/stockage/packages/f24/dconf-editor/po/fi.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 164 | 1070 | 15.3 | /mnt/stockage/packages/f24/dconf-editor/po/kk.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 101 | 1070 | 9.4 | /mnt/stockage/packages/f24/dconf-editor/po/eo.po | 
+ | [an](/f24/language/an) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/an.po | 
+ | [as](/f24/language/as) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/as.po | 
+ | [be](/f24/language/be) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/be.po | 
+ | [bg](/f24/language/bg) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/bg.po | 
+ | [bn](/f24/language/bn) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/bn_IN.po | 
+ | [bs](/f24/language/bs) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/bs.po | 
+ | [ca](/f24/language/ca) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ca@valencia.po | 
+ | [cs](/f24/language/cs) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/cs.po | 
+ | [da](/f24/language/da) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/da.po | 
+ | [de](/f24/language/de) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/de.po | 
+ | [el](/f24/language/el) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/en_GB.po | 
+ | [es](/f24/language/es) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/es.po | 
+ | [et](/f24/language/et) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/et.po | 
+ | [eu](/f24/language/eu) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/eu.po | 
+ | [fa](/f24/language/fa) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/fa.po | 
+ | [fr](/f24/language/fr) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/fr.po | 
+ | [gl](/f24/language/gl) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/gl.po | 
+ | [he](/f24/language/he) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/he.po | 
+ | [hi](/f24/language/hi) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/hi.po | 
+ | [hu](/f24/language/hu) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/hu.po | 
+ | [id](/f24/language/id) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/id.po | 
+ | [is](/f24/language/is) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/is.po | 
+ | [it](/f24/language/it) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/it.po | 
+ | [ja](/f24/language/ja) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ja.po | 
+ | [ko](/f24/language/ko) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ko.po | 
+ | [lt](/f24/language/lt) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/lt.po | 
+ | [lv](/f24/language/lv) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/lv.po | 
+ | [ml](/f24/language/ml) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ml.po | 
+ | [mr](/f24/language/mr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/mr.po | 
+ | [nl](/f24/language/nl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/nl.po | 
+ | [pa](/f24/language/pa) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pa.po | 
+ | [pl](/f24/language/pl) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pl.po | 
+ | [pt](/f24/language/pt) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ro.po | 
+ | [ru](/f24/language/ru) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ru.po | 
+ | [sl](/f24/language/sl) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/sl.po | 
+ | [sr](/f24/language/sr) | 2140 | 2140 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/sr@latin.po/mnt/stockage/packages/f24/dconf-editor/po/sr.po | 
+ | [sv](/f24/language/sv) | 1070 | 1070 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/sv.po | 
+ | [ta](/f24/language/ta) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ta.po | 
+ | [te](/f24/language/te) | 184 | 184 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/te.po | 
+ | [tg](/f24/language/tg) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/tg.po | 
+ | [th](/f24/language/th) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/th.po | 
+ | [ug](/f24/language/ug) | 191 | 191 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/ug.po | 
+ | [uk](/f24/language/uk) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/uk.po | 
+ | [vi](/f24/language/vi) | 198 | 198 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1263 | 1263 | 100.0 | /mnt/stockage/packages/f24/dconf-editor/po/zh_TW.po/mnt/stockage/packages/f24/dconf-editor/po/zh_HK.po | 
+ | [oc](/f24/language/oc) | 1068 | 1070 | 99.8 | /mnt/stockage/packages/f24/dconf-editor/po/oc.po | 
+ | [fur](/f24/language/fur) | 180 | 184 | 97.8 | /mnt/stockage/packages/f24/dconf-editor/po/fur.po | 
+ | [ar](/f24/language/ar) | 71 | 184 | 38.6 | /mnt/stockage/packages/f24/dconf-editor/po/ar.po | 
+ | [sk](/f24/language/sk) | 383 | 1070 | 35.8 | /mnt/stockage/packages/f24/dconf-editor/po/sk.po | 
+ | [tr](/f24/language/tr) | 346 | 1070 | 32.3 | /mnt/stockage/packages/f24/dconf-editor/po/tr.po | 
+ | [nb_NO](/f24/language/nb_NO) | 291 | 1070 | 27.2 | /mnt/stockage/packages/f24/dconf-editor/po/nb.po | 
+ | [fi](/f24/language/fi) | 173 | 1070 | 16.2 | /mnt/stockage/packages/f24/dconf-editor/po/fi.po | 
+ | [kk](/f24/language/kk) | 164 | 1070 | 15.3 | /mnt/stockage/packages/f24/dconf-editor/po/kk.po | 
+ | [eo](/f24/language/eo) | 101 | 1070 | 9.4 | /mnt/stockage/packages/f24/dconf-editor/po/eo.po | 
 {.sortable}
 
 

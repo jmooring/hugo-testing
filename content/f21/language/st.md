@@ -39,36 +39,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f21/package/virtaal.md" >}}) | 1302 | 1334 | 97.6 | translate-discuss-st@lists.sourceforge.net | 
- | [gtkspell3]({{< ref "/f21/package/gtkspell3.md" >}}) | 8 | 16 | 50.0 | Sotho <info@mosekolatranslation.co.za> | 
- | [mingw-gtkspell3]({{< ref "/f21/package/mingw-gtkspell3.md" >}}) | 8 | 16 | 50.0 | Sotho <info@mosekolatranslation.co.za> | 
- | [libreoffice]({{< ref "/f21/package/libreoffice.md" >}}) | 34705 | 98149 | 35.4 | LANGUAGE <LL@li.org> | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
- | [gnomebaker]({{< ref "/f21/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f21/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f21/package/sugar.md" >}}) | 0 | 1625 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f21/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f21/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f21/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f21/package/sugar-clock.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f21/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f21/package/sugar-finance.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f21/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f21/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f21/package/sugar-getiabooks.md" >}}) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f21/package/sugar-implode.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f21/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f21/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f21/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f21/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f21/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f21/package/sugar-paint.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f21/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f21/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f21/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f21/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f21/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f21/package/virtaal) | 1302 | 1334 | 97.6 | translate-discuss-st@lists.sourceforge.net | 
+ | [gtkspell3](/f21/package/gtkspell3) | 8 | 16 | 50.0 | Sotho <info@mosekolatranslation.co.za> | 
+ | [mingw-gtkspell3](/f21/package/mingw-gtkspell3) | 8 | 16 | 50.0 | Sotho <info@mosekolatranslation.co.za> | 
+ | [libreoffice](/f21/package/libreoffice) | 34705 | 98149 | 35.4 | LANGUAGE <LL@li.org> | 
+ | [isomaster](/f21/package/isomaster) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
+ | [gnomebaker](/f21/package/gnomebaker) | 0 | 1186 | 0.0 | Sotho, Southern <st@li.org> | 
+ | [olpc-switch-desktop](/f21/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f21/package/sugar) | 0 | 1625 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f21/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f21/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f21/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f21/package/sugar-clock) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f21/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f21/package/sugar-finance) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f21/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f21/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f21/package/sugar-getiabooks) | 0 | 81 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f21/package/sugar-implode) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f21/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f21/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f21/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f21/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f21/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f21/package/sugar-paint) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f21/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f21/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f21/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f21/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f21/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f21/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

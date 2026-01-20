@@ -18,11 +18,11 @@ The package xz (version 5.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f15/xz/po/fr.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/de.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/it.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/pl.po | 
+ | [fr](/f15/language/fr) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f15/xz/po/fr.po | 
+ | [cs](/f15/language/cs) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/cs.po | 
+ | [de](/f15/language/de) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/de.po | 
+ | [it](/f15/language/it) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/it.po | 
+ | [pl](/f15/language/pl) | 1130 | 1131 | 99.9 | /mnt/stockage/packages/f15/xz/po/pl.po | 
 {.sortable}
 
 

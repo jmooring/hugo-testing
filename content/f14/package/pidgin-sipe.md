@@ -18,27 +18,27 @@ The package pidgin-sipe (version 1.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ru.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/zh_CN.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 648 | 678 | 95.6 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 460 | 678 | 67.8 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/nb.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 301 | 678 | 44.4 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/fr.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 166 | 678 | 24.5 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/fi.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 62 | 678 | 9.1 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/da.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ar.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/hu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ko.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/zh_TW.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 19 | 678 | 2.8 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ta.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 10 | 678 | 1.5 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/hi.po | 
+ | [cs](/f14/language/cs) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/cs.po | 
+ | [de](/f14/language/de) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/de.po | 
+ | [es](/f14/language/es) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/es.po | 
+ | [it](/f14/language/it) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/it.po | 
+ | [nl](/f14/language/nl) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/nl.po | 
+ | [pl](/f14/language/pl) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ru.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 678 | 678 | 100.0 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/zh_CN.po | 
+ | [sv](/f14/language/sv) | 648 | 678 | 95.6 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 460 | 678 | 67.8 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/nb.po | 
+ | [fr](/f14/language/fr) | 301 | 678 | 44.4 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/fr.po | 
+ | [fi](/f14/language/fi) | 166 | 678 | 24.5 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/fi.po | 
+ | [da](/f14/language/da) | 62 | 678 | 9.1 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/da.po | 
+ | [ar](/f14/language/ar) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ar.po | 
+ | [hu](/f14/language/hu) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/hu.po | 
+ | [ja](/f14/language/ja) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ja.po | 
+ | [ko](/f14/language/ko) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ko.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 59 | 678 | 8.7 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/zh_TW.po | 
+ | [ta](/f14/language/ta) | 19 | 678 | 2.8 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/ta.po | 
+ | [hi](/f14/language/hi) | 10 | 678 | 1.5 | /mnt/stockage/packages/f14/pidgin-sipe/pidgin-sipe-1.11.2/po/hi.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package brltty (version 6.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/ar.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/fr.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 2945 | 2945 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/ru.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 3008 | 3008 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/zh.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 3437 | 3700 | 92.9 | /mnt/stockage/packages/f43/brltty/Messages/de.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 3248 | 3614 | 89.9 | /mnt/stockage/packages/f43/brltty/Messages/ka.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 191 | 2958 | 6.5 | /mnt/stockage/packages/f43/brltty/Messages/it.po | 
+ | [ar](/f43/language/ar) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/ar.po | 
+ | [fr](/f43/language/fr) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/fr.po | 
+ | [ru](/f43/language/ru) | 2945 | 2945 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/ru.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 3008 | 3008 | 100.0 | /mnt/stockage/packages/f43/brltty/Messages/zh.po | 
+ | [de](/f43/language/de) | 3437 | 3700 | 92.9 | /mnt/stockage/packages/f43/brltty/Messages/de.po | 
+ | [ka](/f43/language/ka) | 3248 | 3614 | 89.9 | /mnt/stockage/packages/f43/brltty/Messages/ka.po | 
+ | [it](/f43/language/it) | 191 | 2958 | 6.5 | /mnt/stockage/packages/f43/brltty/Messages/it.po | 
 {.sortable}
 
 

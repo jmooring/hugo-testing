@@ -18,26 +18,26 @@ The package trytond-project-revenue (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/ca_ES.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/de_DE.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_ES.po | 
- | [es_AR]({{< ref "/f36/language/es_AR.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_AR.po | 
- | [es_CO]({{< ref "/f36/language/es_CO.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_CO.po | 
- | [es_EC]({{< ref "/f36/language/es_EC.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_EC.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/pt_BR.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/sl_SI.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 7 | 12 | 58.3 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/bg_BG.po | 
- | [es_MX]({{< ref "/f36/language/es_MX.md" >}}) | 7 | 12 | 58.3 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_MX.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 7 | 12 | 58.3 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/ru_RU.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/cs_CZ.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/hu_HU.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/it_IT.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/ja_JP.po | 
- | [lo]({{< ref "/f36/language/lo.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/lo_LA.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/lt_LT.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/zh_CN.po | 
+ | [ca](/f36/language/ca) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/ca_ES.po | 
+ | [de](/f36/language/de) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/de_DE.po | 
+ | [es](/f36/language/es) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_ES.po | 
+ | [es_AR](/f36/language/es_AR) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_AR.po | 
+ | [es_CO](/f36/language/es_CO) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_CO.po | 
+ | [es_EC](/f36/language/es_EC) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_EC.po | 
+ | [fr](/f36/language/fr) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/fr_FR.po | 
+ | [pt_BR](/f36/language/pt_BR) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/pt_BR.po | 
+ | [sl](/f36/language/sl) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/sl_SI.po | 
+ | [bg](/f36/language/bg) | 7 | 12 | 58.3 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/bg_BG.po | 
+ | [es_MX](/f36/language/es_MX) | 7 | 12 | 58.3 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/es_MX.po | 
+ | [ru](/f36/language/ru) | 7 | 12 | 58.3 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/ru_RU.po | 
+ | [cs](/f36/language/cs) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/cs_CZ.po | 
+ | [hu](/f36/language/hu) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/hu_HU.po | 
+ | [it](/f36/language/it) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/it_IT.po | 
+ | [ja](/f36/language/ja) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/ja_JP.po | 
+ | [lo](/f36/language/lo) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/lo_LA.po | 
+ | [lt](/f36/language/lt) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/lt_LT.po | 
+ | [nl](/f36/language/nl) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/nl_NL.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 0 | 12 | 0.0 | /mnt/stockage/packages/f36/trytond-project-revenue/locale/zh_CN.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package plee-the-bear (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1132 | 1770 | 64.0 | /mnt/stockage/packages/f35/plee-the-bear/desktop/locale/plee-the-bear/fr.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 375 | 1770 | 21.2 | /mnt/stockage/packages/f35/plee-the-bear/desktop/locale/plee-the-bear/nn.po | 
+ | [fr](/f35/language/fr) | 1132 | 1770 | 64.0 | /mnt/stockage/packages/f35/plee-the-bear/desktop/locale/plee-the-bear/fr.po | 
+ | [nn](/f35/language/nn) | 375 | 1770 | 21.2 | /mnt/stockage/packages/f35/plee-the-bear/desktop/locale/plee-the-bear/nn.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package cups (version 2.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 8177 | 8551 | 95.6 | /mnt/stockage/packages/f26/cups/locale/cups_es.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 7829 | 8551 | 91.6 | /mnt/stockage/packages/f26/cups/locale/cups_pt_BR.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 7772 | 8551 | 90.9 | /mnt/stockage/packages/f26/cups/locale/cups_ja.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 7524 | 8551 | 88.0 | /mnt/stockage/packages/f26/cups/locale/cups_it.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 7301 | 8551 | 85.4 | /mnt/stockage/packages/f26/cups/locale/cups_ru.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 6567 | 8551 | 76.8 | /mnt/stockage/packages/f26/cups/locale/cups_ca.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 5113 | 8551 | 59.8 | /mnt/stockage/packages/f26/cups/locale/cups_de.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1205 | 8551 | 14.1 | /mnt/stockage/packages/f26/cups/locale/cups_cs.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1155 | 8561 | 13.5 | /mnt/stockage/packages/f26/cups/locale/cups_fr.po/mnt/stockage/packages/f26/cups/ppdc/foo-fr.po | 
+ | [es](/f26/language/es) | 8177 | 8551 | 95.6 | /mnt/stockage/packages/f26/cups/locale/cups_es.po | 
+ | [pt_BR](/f26/language/pt_BR) | 7829 | 8551 | 91.6 | /mnt/stockage/packages/f26/cups/locale/cups_pt_BR.po | 
+ | [ja](/f26/language/ja) | 7772 | 8551 | 90.9 | /mnt/stockage/packages/f26/cups/locale/cups_ja.po | 
+ | [it](/f26/language/it) | 7524 | 8551 | 88.0 | /mnt/stockage/packages/f26/cups/locale/cups_it.po | 
+ | [ru](/f26/language/ru) | 7301 | 8551 | 85.4 | /mnt/stockage/packages/f26/cups/locale/cups_ru.po | 
+ | [ca](/f26/language/ca) | 6567 | 8551 | 76.8 | /mnt/stockage/packages/f26/cups/locale/cups_ca.po | 
+ | [de](/f26/language/de) | 5113 | 8551 | 59.8 | /mnt/stockage/packages/f26/cups/locale/cups_de.po | 
+ | [cs](/f26/language/cs) | 1205 | 8551 | 14.1 | /mnt/stockage/packages/f26/cups/locale/cups_cs.po | 
+ | [fr](/f26/language/fr) | 1155 | 8561 | 13.5 | /mnt/stockage/packages/f26/cups/locale/cups_fr.po/mnt/stockage/packages/f26/cups/ppdc/foo-fr.po | 
 {.sortable}
 
 

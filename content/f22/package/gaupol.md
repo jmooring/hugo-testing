@@ -18,19 +18,19 @@ The package gaupol (version 0.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f22/gaupol/po/fi.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 2541 | 2613 | 97.2 | /mnt/stockage/packages/f22/gaupol/po/cs.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 4682 | 5226 | 89.6 | /mnt/stockage/packages/f22/gaupol/po/tr.po/mnt/stockage/packages/f22/gaupol/po/es.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 2262 | 2613 | 86.6 | /mnt/stockage/packages/f22/gaupol/po/gl.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 2196 | 2613 | 84.0 | /mnt/stockage/packages/f22/gaupol/po/hu.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 2196 | 2613 | 84.0 | /mnt/stockage/packages/f22/gaupol/po/pt_BR.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2123 | 2613 | 81.2 | /mnt/stockage/packages/f22/gaupol/po/de.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 2099 | 2613 | 80.3 | /mnt/stockage/packages/f22/gaupol/po/ru.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 2069 | 2613 | 79.2 | /mnt/stockage/packages/f22/gaupol/po/he.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 703 | 2613 | 26.9 | /mnt/stockage/packages/f22/gaupol/po/sv.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 700 | 2613 | 26.8 | /mnt/stockage/packages/f22/gaupol/po/pl.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 506 | 2613 | 19.4 | /mnt/stockage/packages/f22/gaupol/po/ca.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 473 | 2613 | 18.1 | /mnt/stockage/packages/f22/gaupol/po/fr.po | 
+ | [fi](/f22/language/fi) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f22/gaupol/po/fi.po | 
+ | [cs](/f22/language/cs) | 2541 | 2613 | 97.2 | /mnt/stockage/packages/f22/gaupol/po/cs.po | 
+ | [es](/f22/language/es) | 4682 | 5226 | 89.6 | /mnt/stockage/packages/f22/gaupol/po/tr.po/mnt/stockage/packages/f22/gaupol/po/es.po | 
+ | [gl](/f22/language/gl) | 2262 | 2613 | 86.6 | /mnt/stockage/packages/f22/gaupol/po/gl.po | 
+ | [hu](/f22/language/hu) | 2196 | 2613 | 84.0 | /mnt/stockage/packages/f22/gaupol/po/hu.po | 
+ | [pt_BR](/f22/language/pt_BR) | 2196 | 2613 | 84.0 | /mnt/stockage/packages/f22/gaupol/po/pt_BR.po | 
+ | [de](/f22/language/de) | 2123 | 2613 | 81.2 | /mnt/stockage/packages/f22/gaupol/po/de.po | 
+ | [ru](/f22/language/ru) | 2099 | 2613 | 80.3 | /mnt/stockage/packages/f22/gaupol/po/ru.po | 
+ | [he](/f22/language/he) | 2069 | 2613 | 79.2 | /mnt/stockage/packages/f22/gaupol/po/he.po | 
+ | [sv](/f22/language/sv) | 703 | 2613 | 26.9 | /mnt/stockage/packages/f22/gaupol/po/sv.po | 
+ | [pl](/f22/language/pl) | 700 | 2613 | 26.8 | /mnt/stockage/packages/f22/gaupol/po/pl.po | 
+ | [ca](/f22/language/ca) | 506 | 2613 | 19.4 | /mnt/stockage/packages/f22/gaupol/po/ca.po | 
+ | [fr](/f22/language/fr) | 473 | 2613 | 18.1 | /mnt/stockage/packages/f22/gaupol/po/fr.po | 
 {.sortable}
 
 

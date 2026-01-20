@@ -18,8 +18,8 @@ The package msmtp (version 1.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f27/msmtp/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f27/msmtp/po/fr.po | 
+ | [de](/f27/language/de) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f27/msmtp/po/de.po | 
+ | [fr](/f27/language/fr) | 1738 | 1738 | 100.0 | /mnt/stockage/packages/f27/msmtp/po/fr.po | 
 {.sortable}
 
 

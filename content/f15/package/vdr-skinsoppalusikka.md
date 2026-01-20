@@ -18,16 +18,16 @@ The package vdr-skinsoppalusikka (version 1.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f15/language/et.md" >}}) | 137 | 137 | 100.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/et_EE.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 137 | 137 | 100.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/fi_FI.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 137 | 137 | 100.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/it_IT.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 116 | 137 | 84.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/fr_FR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 116 | 137 | 84.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/ru_RU.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 43 | 137 | 31.4 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/de_DE.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 42 | 137 | 30.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/hu_HU.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 42 | 137 | 30.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/sv_SE.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 38 | 137 | 27.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/es_ES.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 37 | 137 | 27.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/pl_PL.po | 
+ | [et](/f15/language/et) | 137 | 137 | 100.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/et_EE.po | 
+ | [fi](/f15/language/fi) | 137 | 137 | 100.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/fi_FI.po | 
+ | [it](/f15/language/it) | 137 | 137 | 100.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/it_IT.po | 
+ | [fr](/f15/language/fr) | 116 | 137 | 84.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/fr_FR.po | 
+ | [ru](/f15/language/ru) | 116 | 137 | 84.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/ru_RU.po | 
+ | [de](/f15/language/de) | 43 | 137 | 31.4 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/de_DE.po | 
+ | [hu](/f15/language/hu) | 42 | 137 | 30.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/hu_HU.po | 
+ | [sv](/f15/language/sv) | 42 | 137 | 30.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/sv_SE.po | 
+ | [es](/f15/language/es) | 38 | 137 | 27.7 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/es_ES.po | 
+ | [pl](/f15/language/pl) | 37 | 137 | 27.0 | /mnt/stockage/packages/f15/vdr-skinsoppalusikka/po/pl_PL.po | 
 {.sortable}
 
 

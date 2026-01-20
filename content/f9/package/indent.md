@@ -18,26 +18,26 @@ The package indent (version 2.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/de.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/eo.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/et.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/pt_BR.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/sk.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/sv.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/tr.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/ca.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/gl.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/ja.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/ru.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 224 | 284 | 78.9 | /mnt/stockage/packages/f9/indent/po/hu.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 212 | 284 | 74.6 | /mnt/stockage/packages/f9/indent/po/zh_TW.Big5.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 182 | 284 | 64.1 | /mnt/stockage/packages/f9/indent/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 87 | 284 | 30.6 | /mnt/stockage/packages/f9/indent/po/pl.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 75 | 284 | 26.4 | /mnt/stockage/packages/f9/indent/po/ko.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/indent/po/da.po | 
+ | [de](/f9/language/de) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/de.po | 
+ | [eo](/f9/language/eo) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/eo.po | 
+ | [et](/f9/language/et) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/et.po | 
+ | [fi](/f9/language/fi) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/fi.po | 
+ | [fr](/f9/language/fr) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/fr.po | 
+ | [it](/f9/language/it) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/pt_BR.po | 
+ | [sk](/f9/language/sk) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/sk.po | 
+ | [sv](/f9/language/sv) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/sv.po | 
+ | [tr](/f9/language/tr) | 236 | 284 | 83.1 | /mnt/stockage/packages/f9/indent/po/tr.po | 
+ | [ca](/f9/language/ca) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/ca.po | 
+ | [gl](/f9/language/gl) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/gl.po | 
+ | [ja](/f9/language/ja) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/ja.po | 
+ | [ru](/f9/language/ru) | 229 | 284 | 80.6 | /mnt/stockage/packages/f9/indent/po/ru.po | 
+ | [hu](/f9/language/hu) | 224 | 284 | 78.9 | /mnt/stockage/packages/f9/indent/po/hu.po | 
+ | [error](/f9/language/error) | 212 | 284 | 74.6 | /mnt/stockage/packages/f9/indent/po/zh_TW.Big5.po | 
+ | [nl](/f9/language/nl) | 182 | 284 | 64.1 | /mnt/stockage/packages/f9/indent/po/nl.po | 
+ | [pl](/f9/language/pl) | 87 | 284 | 30.6 | /mnt/stockage/packages/f9/indent/po/pl.po | 
+ | [ko](/f9/language/ko) | 75 | 284 | 26.4 | /mnt/stockage/packages/f9/indent/po/ko.po | 
+ | [da](/f9/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/indent/po/da.po | 
 {.sortable}
 
 

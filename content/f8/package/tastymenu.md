@@ -18,10 +18,10 @@ The package tastymenu (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f8/tastymenu/po/de.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f8/tastymenu/po/it.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 570 | 570 | 100.0 | /mnt/stockage/packages/f8/tastymenu/po/ru.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 550 | 570 | 96.5 | /mnt/stockage/packages/f8/tastymenu/po/es.po | 
+ | [de](/f8/language/de) | 570 | 570 | 100.0 | /mnt/stockage/packages/f8/tastymenu/po/de.po | 
+ | [it](/f8/language/it) | 570 | 570 | 100.0 | /mnt/stockage/packages/f8/tastymenu/po/it.po | 
+ | [ru](/f8/language/ru) | 570 | 570 | 100.0 | /mnt/stockage/packages/f8/tastymenu/po/ru.po | 
+ | [es](/f8/language/es) | 550 | 570 | 96.5 | /mnt/stockage/packages/f8/tastymenu/po/es.po | 
 {.sortable}
 
 

@@ -39,62 +39,62 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [vlc]({{< ref "/f42/package/vlc.md" >}}) | 30003 | 34814 | 86.2 | Kashmiri (India) (https://app.transifex.com/yaron/teams/16553/ks_IN/) | 
- | [eog]({{< ref "/f42/package/eog.md" >}}) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [evince]({{< ref "/f42/package/evince.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [papers]({{< ref "/f42/package/papers.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [yelp]({{< ref "/f42/package/yelp.md" >}}) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | 21821 | 39578 | 55.1 |  | 
- | [eom]({{< ref "/f42/package/eom.md" >}}) | 680 | 1779 | 38.2 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [xreader]({{< ref "/f42/package/xreader.md" >}}) | 464 | 1625 | 28.6 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1112 | 5355 | 20.8 | Kashmiri-PA | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 32975 | 175879 | 18.7 | LANGUAGE <LL@li.org> | 
- | [atril]({{< ref "/f42/package/atril.md" >}}) | 504 | 4364 | 11.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mozo]({{< ref "/f42/package/mozo.md" >}}) | 3 | 46 | 6.5 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-menus]({{< ref "/f42/package/mate-menus.md" >}}) | 2 | 103 | 1.9 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-sensors-applet]({{< ref "/f42/package/mate-sensors-applet.md" >}}) | 4 | 313 | 1.3 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-media]({{< ref "/f42/package/mate-media.md" >}}) | 3 | 244 | 1.2 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-session-manager]({{< ref "/f42/package/mate-session-manager.md" >}}) | 8 | 717 | 1.1 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-polkit]({{< ref "/f42/package/mate-polkit.md" >}}) | 1 | 123 | 0.8 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-utils]({{< ref "/f42/package/mate-utils.md" >}}) | 30 | 3720 | 0.8 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [pluma]({{< ref "/f42/package/pluma.md" >}}) | 43 | 5707 | 0.8 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [engrampa]({{< ref "/f42/package/engrampa.md" >}}) | 15 | 2026 | 0.7 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-control-center]({{< ref "/f42/package/mate-control-center.md" >}}) | 24 | 3338 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-terminal]({{< ref "/f42/package/mate-terminal.md" >}}) | 31 | 4724 | 0.7 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-system-monitor]({{< ref "/f42/package/mate-system-monitor.md" >}}) | 10 | 1559 | 0.6 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-calc]({{< ref "/f42/package/mate-calc.md" >}}) | 8 | 1582 | 0.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [caja]({{< ref "/f42/package/caja.md" >}}) | 43 | 10156 | 0.4 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-power-manager]({{< ref "/f42/package/mate-power-manager.md" >}}) | 9 | 2660 | 0.3 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
- | [mate-menu]({{< ref "/f42/package/mate-menu.md" >}}) | 1 | 308 | 0.3 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [mate-panel]({{< ref "/f42/package/mate-panel.md" >}}) | 12 | 5653 | 0.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [pluma-plugins]({{< ref "/f42/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-applets]({{< ref "/f42/package/mate-applets.md" >}}) | 2 | 1515 | 0.1 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [android-tools]({{< ref "/f42/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [bookworm]({{< ref "/f42/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [dippi]({{< ref "/f42/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-code]({{< ref "/f42/package/elementary-code.md" >}}) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f42/package/elementary-files.md" >}}) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f42/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f42/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f42/package/elementary-music.md" >}}) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f42/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f42/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot]({{< ref "/f42/package/elementary-screenshot.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f42/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f42/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f42/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f42/package/granite-7.md" >}}) | 0 | 596 | 0.0 |  | 
- | [initial-setup]({{< ref "/f42/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/) | 
- | [mate-themes]({{< ref "/f42/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Kashmiri (http://app.transifex.com/mate/MATE/language/ks/) | 
- | [pidgin]({{< ref "/f42/package/pidgin.md" >}}) | 0 | 13994 | 0.0 | Kashmiri (http://app.transifex.com/pidgin/pidgin/language/ks/) | 
- | [policycoreutils]({{< ref "/f42/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [python-meh]({{< ref "/f42/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/) | 
- | [regextester]({{< ref "/f42/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f42/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f42/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f42/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f42/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f42/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [vlc](/f42/package/vlc) | 30003 | 34814 | 86.2 | Kashmiri (India) (https://app.transifex.com/yaron/teams/16553/ks_IN/) | 
+ | [eog](/f42/package/eog) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [evince](/f42/package/evince) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [papers](/f42/package/papers) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [yelp](/f42/package/yelp) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [gnucash](/f42/package/gnucash) | 21821 | 39578 | 55.1 |  | 
+ | [eom](/f42/package/eom) | 680 | 1779 | 38.2 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [xreader](/f42/package/xreader) | 464 | 1625 | 28.6 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1112 | 5355 | 20.8 | Kashmiri-PA | 
+ | [libreoffice](/f42/package/libreoffice) | 32975 | 175879 | 18.7 | LANGUAGE <LL@li.org> | 
+ | [atril](/f42/package/atril) | 504 | 4364 | 11.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mozo](/f42/package/mozo) | 3 | 46 | 6.5 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-menus](/f42/package/mate-menus) | 2 | 103 | 1.9 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-sensors-applet](/f42/package/mate-sensors-applet) | 4 | 313 | 1.3 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-media](/f42/package/mate-media) | 3 | 244 | 1.2 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-session-manager](/f42/package/mate-session-manager) | 8 | 717 | 1.1 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-polkit](/f42/package/mate-polkit) | 1 | 123 | 0.8 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-utils](/f42/package/mate-utils) | 30 | 3720 | 0.8 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [pluma](/f42/package/pluma) | 43 | 5707 | 0.8 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [engrampa](/f42/package/engrampa) | 15 | 2026 | 0.7 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-control-center](/f42/package/mate-control-center) | 24 | 3338 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-terminal](/f42/package/mate-terminal) | 31 | 4724 | 0.7 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-system-monitor](/f42/package/mate-system-monitor) | 10 | 1559 | 0.6 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-calc](/f42/package/mate-calc) | 8 | 1582 | 0.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [caja](/f42/package/caja) | 43 | 10156 | 0.4 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-power-manager](/f42/package/mate-power-manager) | 9 | 2660 | 0.3 | Kashmiri (https://app.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-menu](/f42/package/mate-menu) | 1 | 308 | 0.3 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [mate-panel](/f42/package/mate-panel) | 12 | 5653 | 0.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [pluma-plugins](/f42/package/pluma-plugins) | 1 | 510 | 0.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-applets](/f42/package/mate-applets) | 2 | 1515 | 0.1 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [android-tools](/f42/package/android-tools) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [bookworm](/f42/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [dippi](/f42/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-code](/f42/package/elementary-code) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f42/package/elementary-files) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f42/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f42/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f42/package/elementary-music) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f42/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-photos](/f42/package/elementary-photos) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot](/f42/package/elementary-screenshot) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f42/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f42/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f42/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f42/package/granite-7) | 0 | 596 | 0.0 |  | 
+ | [initial-setup](/f42/package/initial-setup) | 0 | 33 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/) | 
+ | [mate-themes](/f42/package/mate-themes) | 0 | 74 | 0.0 | Kashmiri (http://app.transifex.com/mate/MATE/language/ks/) | 
+ | [pidgin](/f42/package/pidgin) | 0 | 13994 | 0.0 | Kashmiri (http://app.transifex.com/pidgin/pidgin/language/ks/) | 
+ | [policycoreutils](/f42/package/policycoreutils) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [python-meh](/f42/package/python-meh) | 0 | 109 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/) | 
+ | [regextester](/f42/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f42/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f42/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f42/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f42/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f42/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 
@@ -106,8 +106,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ks.po | error-unicode |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ks.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ks.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ks.po | error-unicode |  | 
 {.sortable}
 
 
@@ -118,8 +118,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ks.po |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ks.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._ks.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._ks.po |  | 
 {.sortable}
 
 

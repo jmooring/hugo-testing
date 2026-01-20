@@ -18,31 +18,31 @@ The package tilda (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 689 | 708 | 97.3 | /mnt/stockage/packages/f39/tilda/po/pl.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 644 | 708 | 91.0 | /mnt/stockage/packages/f39/tilda/po/zh_CN.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 637 | 708 | 90.0 | /mnt/stockage/packages/f39/tilda/po/es.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 637 | 708 | 90.0 | /mnt/stockage/packages/f39/tilda/po/hr.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 637 | 708 | 90.0 | /mnt/stockage/packages/f39/tilda/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 626 | 708 | 88.4 | /mnt/stockage/packages/f39/tilda/po/nb.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 605 | 708 | 85.5 | /mnt/stockage/packages/f39/tilda/po/uk.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 600 | 708 | 84.7 | /mnt/stockage/packages/f39/tilda/po/ru.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 556 | 708 | 78.5 | /mnt/stockage/packages/f39/tilda/po/zh_TW.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 434 | 708 | 61.3 | /mnt/stockage/packages/f39/tilda/po/lt.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 426 | 708 | 60.2 | /mnt/stockage/packages/f39/tilda/po/de.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 177 | 396 | 44.7 | /mnt/stockage/packages/f39/tilda/po/oc.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 282 | 708 | 39.8 | /mnt/stockage/packages/f39/tilda/po/it.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 232 | 708 | 32.8 | /mnt/stockage/packages/f39/tilda/po/hu.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 232 | 708 | 32.8 | /mnt/stockage/packages/f39/tilda/po/pt.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 227 | 708 | 32.1 | /mnt/stockage/packages/f39/tilda/po/bg.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 227 | 708 | 32.1 | /mnt/stockage/packages/f39/tilda/po/cs.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 221 | 708 | 31.2 | /mnt/stockage/packages/f39/tilda/po/fr.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 185 | 708 | 26.1 | /mnt/stockage/packages/f39/tilda/po/en_GB.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 104 | 708 | 14.7 | /mnt/stockage/packages/f39/tilda/po/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 104 | 708 | 14.7 | /mnt/stockage/packages/f39/tilda/po/sv.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 82 | 708 | 11.6 | /mnt/stockage/packages/f39/tilda/po/ca.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 53 | 708 | 7.5 | /mnt/stockage/packages/f39/tilda/po/sl.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 4 | 708 | 0.6 | /mnt/stockage/packages/f39/tilda/po/el.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 0 | 708 | 0.0 | /mnt/stockage/packages/f39/tilda/po/tr.po | 
+ | [pl](/f39/language/pl) | 689 | 708 | 97.3 | /mnt/stockage/packages/f39/tilda/po/pl.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 644 | 708 | 91.0 | /mnt/stockage/packages/f39/tilda/po/zh_CN.po | 
+ | [es](/f39/language/es) | 637 | 708 | 90.0 | /mnt/stockage/packages/f39/tilda/po/es.po | 
+ | [hr](/f39/language/hr) | 637 | 708 | 90.0 | /mnt/stockage/packages/f39/tilda/po/hr.po | 
+ | [pt_BR](/f39/language/pt_BR) | 637 | 708 | 90.0 | /mnt/stockage/packages/f39/tilda/po/pt_BR.po | 
+ | [nb_NO](/f39/language/nb_NO) | 626 | 708 | 88.4 | /mnt/stockage/packages/f39/tilda/po/nb.po | 
+ | [uk](/f39/language/uk) | 605 | 708 | 85.5 | /mnt/stockage/packages/f39/tilda/po/uk.po | 
+ | [ru](/f39/language/ru) | 600 | 708 | 84.7 | /mnt/stockage/packages/f39/tilda/po/ru.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 556 | 708 | 78.5 | /mnt/stockage/packages/f39/tilda/po/zh_TW.po | 
+ | [lt](/f39/language/lt) | 434 | 708 | 61.3 | /mnt/stockage/packages/f39/tilda/po/lt.po | 
+ | [de](/f39/language/de) | 426 | 708 | 60.2 | /mnt/stockage/packages/f39/tilda/po/de.po | 
+ | [oc](/f39/language/oc) | 177 | 396 | 44.7 | /mnt/stockage/packages/f39/tilda/po/oc.po | 
+ | [it](/f39/language/it) | 282 | 708 | 39.8 | /mnt/stockage/packages/f39/tilda/po/it.po | 
+ | [hu](/f39/language/hu) | 232 | 708 | 32.8 | /mnt/stockage/packages/f39/tilda/po/hu.po | 
+ | [pt](/f39/language/pt) | 232 | 708 | 32.8 | /mnt/stockage/packages/f39/tilda/po/pt.po | 
+ | [bg](/f39/language/bg) | 227 | 708 | 32.1 | /mnt/stockage/packages/f39/tilda/po/bg.po | 
+ | [cs](/f39/language/cs) | 227 | 708 | 32.1 | /mnt/stockage/packages/f39/tilda/po/cs.po | 
+ | [fr](/f39/language/fr) | 221 | 708 | 31.2 | /mnt/stockage/packages/f39/tilda/po/fr.po | 
+ | [en_GB](/f39/language/en_GB) | 185 | 708 | 26.1 | /mnt/stockage/packages/f39/tilda/po/en_GB.po | 
+ | [sk](/f39/language/sk) | 104 | 708 | 14.7 | /mnt/stockage/packages/f39/tilda/po/sk.po | 
+ | [sv](/f39/language/sv) | 104 | 708 | 14.7 | /mnt/stockage/packages/f39/tilda/po/sv.po | 
+ | [ca](/f39/language/ca) | 82 | 708 | 11.6 | /mnt/stockage/packages/f39/tilda/po/ca.po | 
+ | [sl](/f39/language/sl) | 53 | 708 | 7.5 | /mnt/stockage/packages/f39/tilda/po/sl.po | 
+ | [el](/f39/language/el) | 4 | 708 | 0.6 | /mnt/stockage/packages/f39/tilda/po/el.po | 
+ | [tr](/f39/language/tr) | 0 | 708 | 0.0 | /mnt/stockage/packages/f39/tilda/po/tr.po | 
 {.sortable}
 
 

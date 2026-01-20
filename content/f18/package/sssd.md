@@ -18,30 +18,30 @@ The package sssd (version 1.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2303 | 2329 | 98.9 | /mnt/stockage/packages/f18/sssd/po/pl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 2303 | 2329 | 98.9 | /mnt/stockage/packages/f18/sssd/po/sv.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 17673 | 18230 | 96.9 | /mnt/stockage/packages/f18/sssd/po/fr.po/mnt/stockage/packages/f18/sssd/src/man/po/fr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 17673 | 18230 | 96.9 | /mnt/stockage/packages/f18/sssd/po/uk.po/mnt/stockage/packages/f18/sssd/src/man/po/uk.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 16316 | 18230 | 89.5 | /mnt/stockage/packages/f18/sssd/po/es.po/mnt/stockage/packages/f18/sssd/src/man/po/es.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 13078 | 18230 | 71.7 | /mnt/stockage/packages/f18/sssd/po/ja.po/mnt/stockage/packages/f18/sssd/src/man/po/ja.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1048 | 2329 | 45.0 | /mnt/stockage/packages/f18/sssd/po/it.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 5043 | 15901 | 31.7 | /mnt/stockage/packages/f18/sssd/src/man/po/ca.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 714 | 2329 | 30.7 | /mnt/stockage/packages/f18/sssd/po/bg.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 593 | 2329 | 25.5 | /mnt/stockage/packages/f18/sssd/po/id.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 591 | 2329 | 25.4 | /mnt/stockage/packages/f18/sssd/po/zh_TW.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 2776 | 18230 | 15.2 | /mnt/stockage/packages/f18/sssd/po/nl.po/mnt/stockage/packages/f18/sssd/src/man/po/nl.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 322 | 2329 | 13.8 | /mnt/stockage/packages/f18/sssd/po/hu.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 1806 | 18230 | 9.9 | /mnt/stockage/packages/f18/sssd/po/pt.po/mnt/stockage/packages/f18/sssd/src/man/po/pt.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1109 | 18230 | 6.1 | /mnt/stockage/packages/f18/sssd/po/ru.po/mnt/stockage/packages/f18/sssd/src/man/po/ru.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 46 | 2329 | 2.0 | /mnt/stockage/packages/f18/sssd/po/de.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 46 | 2329 | 2.0 | /mnt/stockage/packages/f18/sssd/po/nb.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 223 | 18230 | 1.2 | /mnt/stockage/packages/f18/sssd/po/eu.po/mnt/stockage/packages/f18/sssd/src/man/po/eu.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 121 | 15901 | 0.8 | /mnt/stockage/packages/f18/sssd/src/man/po/lv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 15 | 2329 | 0.6 | /mnt/stockage/packages/f18/sssd/po/tr.po | 
- | [tg]({{< ref "/f18/language/tg.md" >}}) | 87 | 18230 | 0.5 | /mnt/stockage/packages/f18/sssd/po/tg.po/mnt/stockage/packages/f18/sssd/src/man/po/tg.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 87 | 18230 | 0.5 | /mnt/stockage/packages/f18/sssd/po/zh_CN.po/mnt/stockage/packages/f18/sssd/src/man/po/zh_CN.po | 
- | [br]({{< ref "/f18/language/br.md" >}}) | 60 | 15901 | 0.4 | /mnt/stockage/packages/f18/sssd/src/man/po/br.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 39 | 15901 | 0.2 | /mnt/stockage/packages/f18/sssd/src/man/po/cs.po | 
+ | [pl](/f18/language/pl) | 2303 | 2329 | 98.9 | /mnt/stockage/packages/f18/sssd/po/pl.po | 
+ | [sv](/f18/language/sv) | 2303 | 2329 | 98.9 | /mnt/stockage/packages/f18/sssd/po/sv.po | 
+ | [fr](/f18/language/fr) | 17673 | 18230 | 96.9 | /mnt/stockage/packages/f18/sssd/po/fr.po/mnt/stockage/packages/f18/sssd/src/man/po/fr.po | 
+ | [uk](/f18/language/uk) | 17673 | 18230 | 96.9 | /mnt/stockage/packages/f18/sssd/po/uk.po/mnt/stockage/packages/f18/sssd/src/man/po/uk.po | 
+ | [es](/f18/language/es) | 16316 | 18230 | 89.5 | /mnt/stockage/packages/f18/sssd/po/es.po/mnt/stockage/packages/f18/sssd/src/man/po/es.po | 
+ | [ja](/f18/language/ja) | 13078 | 18230 | 71.7 | /mnt/stockage/packages/f18/sssd/po/ja.po/mnt/stockage/packages/f18/sssd/src/man/po/ja.po | 
+ | [it](/f18/language/it) | 1048 | 2329 | 45.0 | /mnt/stockage/packages/f18/sssd/po/it.po | 
+ | [ca](/f18/language/ca) | 5043 | 15901 | 31.7 | /mnt/stockage/packages/f18/sssd/src/man/po/ca.po | 
+ | [bg](/f18/language/bg) | 714 | 2329 | 30.7 | /mnt/stockage/packages/f18/sssd/po/bg.po | 
+ | [id](/f18/language/id) | 593 | 2329 | 25.5 | /mnt/stockage/packages/f18/sssd/po/id.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 591 | 2329 | 25.4 | /mnt/stockage/packages/f18/sssd/po/zh_TW.po | 
+ | [nl](/f18/language/nl) | 2776 | 18230 | 15.2 | /mnt/stockage/packages/f18/sssd/po/nl.po/mnt/stockage/packages/f18/sssd/src/man/po/nl.po | 
+ | [hu](/f18/language/hu) | 322 | 2329 | 13.8 | /mnt/stockage/packages/f18/sssd/po/hu.po | 
+ | [pt](/f18/language/pt) | 1806 | 18230 | 9.9 | /mnt/stockage/packages/f18/sssd/po/pt.po/mnt/stockage/packages/f18/sssd/src/man/po/pt.po | 
+ | [ru](/f18/language/ru) | 1109 | 18230 | 6.1 | /mnt/stockage/packages/f18/sssd/po/ru.po/mnt/stockage/packages/f18/sssd/src/man/po/ru.po | 
+ | [de](/f18/language/de) | 46 | 2329 | 2.0 | /mnt/stockage/packages/f18/sssd/po/de.po | 
+ | [nb_NO](/f18/language/nb_NO) | 46 | 2329 | 2.0 | /mnt/stockage/packages/f18/sssd/po/nb.po | 
+ | [eu](/f18/language/eu) | 223 | 18230 | 1.2 | /mnt/stockage/packages/f18/sssd/po/eu.po/mnt/stockage/packages/f18/sssd/src/man/po/eu.po | 
+ | [lv](/f18/language/lv) | 121 | 15901 | 0.8 | /mnt/stockage/packages/f18/sssd/src/man/po/lv.po | 
+ | [tr](/f18/language/tr) | 15 | 2329 | 0.6 | /mnt/stockage/packages/f18/sssd/po/tr.po | 
+ | [tg](/f18/language/tg) | 87 | 18230 | 0.5 | /mnt/stockage/packages/f18/sssd/po/tg.po/mnt/stockage/packages/f18/sssd/src/man/po/tg.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 87 | 18230 | 0.5 | /mnt/stockage/packages/f18/sssd/po/zh_CN.po/mnt/stockage/packages/f18/sssd/src/man/po/zh_CN.po | 
+ | [br](/f18/language/br) | 60 | 15901 | 0.4 | /mnt/stockage/packages/f18/sssd/src/man/po/br.po | 
+ | [cs](/f18/language/cs) | 39 | 15901 | 0.2 | /mnt/stockage/packages/f18/sssd/src/man/po/cs.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package fcitx-configtool (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/de.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/ja.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/zh_TW.po | 
+ | [de](/f21/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/de.po | 
+ | [ja](/f21/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/ja.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 106 | 106 | 100.0 | /mnt/stockage/packages/f21/fcitx-configtool/po/zh_TW.po | 
 {.sortable}
 
 

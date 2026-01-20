@@ -18,53 +18,53 @@ The package accountsservice (version 0.6.40):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/en_GB.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/es.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/gl.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ja.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ka.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ko.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/lv.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/nl.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/sl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/zh_TW.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ar.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/bg_BG.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ca@valencia.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/da.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/fa_IR.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ga.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/hi.po | 
- | [ia]({{< ref "/f24/language/ia.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ia.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/kk.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/lt.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ro.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/sr@latin.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/te.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/wa.po | 
+ | [ca](/f24/language/ca) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ca.po | 
+ | [cs](/f24/language/cs) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/cs.po | 
+ | [de](/f24/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/de.po | 
+ | [el](/f24/language/el) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/en_GB.po | 
+ | [eo](/f24/language/eo) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/eo.po | 
+ | [es](/f24/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/es.po | 
+ | [fi](/f24/language/fi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/fi.po | 
+ | [fr](/f24/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/fr.po | 
+ | [gl](/f24/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/gl.po | 
+ | [hu](/f24/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/hu.po | 
+ | [id](/f24/language/id) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/id.po | 
+ | [it](/f24/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/it.po | 
+ | [ja](/f24/language/ja) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ja.po | 
+ | [ka](/f24/language/ka) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ka.po | 
+ | [ko](/f24/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ko.po | 
+ | [lv](/f24/language/lv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/lv.po | 
+ | [nl](/f24/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/nl.po | 
+ | [pa](/f24/language/pa) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/pa.po | 
+ | [pl](/f24/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/ru.po | 
+ | [sk](/f24/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/sk.po | 
+ | [sl](/f24/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/sl.po | 
+ | [sv](/f24/language/sv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/sv.po | 
+ | [tr](/f24/language/tr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/tr.po | 
+ | [uk](/f24/language/uk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/uk.po | 
+ | [vi](/f24/language/vi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 59 | 59 | 100.0 | /mnt/stockage/packages/f24/accountsservice/po/zh_TW.po | 
+ | [ar](/f24/language/ar) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ar.po | 
+ | [bg](/f24/language/bg) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/bg_BG.po | 
+ | [bn_IN](/f24/language/bn_IN) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/bn_IN.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ca@valencia.po | 
+ | [da](/f24/language/da) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/da.po | 
+ | [fa](/f24/language/fa) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/fa_IR.po | 
+ | [ga](/f24/language/ga) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ga.po | 
+ | [he](/f24/language/he) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/he.po | 
+ | [hi](/f24/language/hi) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/hi.po | 
+ | [ia](/f24/language/ia) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ia.po | 
+ | [kk](/f24/language/kk) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/kk.po | 
+ | [lt](/f24/language/lt) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/lt.po | 
+ | [ro](/f24/language/ro) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/ro.po | 
+ | [sr](/f24/language/sr) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/sr@latin.po | 
+ | [te](/f24/language/te) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/te.po | 
+ | [wa](/f24/language/wa) | 0 | 59 | 0.0 | /mnt/stockage/packages/f24/accountsservice/po/wa.po | 
 {.sortable}
 
 

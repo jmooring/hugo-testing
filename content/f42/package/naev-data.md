@@ -18,16 +18,16 @@ The package naev-data (version 0.11.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 337863 | 337863 | 100.0 | /mnt/stockage/packages/f42/naev-data/po/es.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 337863 | 337863 | 100.0 | /mnt/stockage/packages/f42/naev-data/po/ja.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 122321 | 337863 | 36.2 | /mnt/stockage/packages/f42/naev-data/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 57107 | 337863 | 16.9 | /mnt/stockage/packages/f42/naev-data/po/fr.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 56667 | 337863 | 16.8 | /mnt/stockage/packages/f42/naev-data/po/pt_PT.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 42629 | 337863 | 12.6 | /mnt/stockage/packages/f42/naev-data/po/cs.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 22601 | 337863 | 6.7 | /mnt/stockage/packages/f42/naev-data/po/pt_BR.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 19803 | 337863 | 5.9 | /mnt/stockage/packages/f42/naev-data/po/it.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 10925 | 337863 | 3.2 | /mnt/stockage/packages/f42/naev-data/po/ko.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 0 | 337863 | 0.0 | /mnt/stockage/packages/f42/naev-data/po/zh_Hans.po | 
+ | [es](/f42/language/es) | 337863 | 337863 | 100.0 | /mnt/stockage/packages/f42/naev-data/po/es.po | 
+ | [ja](/f42/language/ja) | 337863 | 337863 | 100.0 | /mnt/stockage/packages/f42/naev-data/po/ja.po | 
+ | [de](/f42/language/de) | 122321 | 337863 | 36.2 | /mnt/stockage/packages/f42/naev-data/po/de.po | 
+ | [fr](/f42/language/fr) | 57107 | 337863 | 16.9 | /mnt/stockage/packages/f42/naev-data/po/fr.po | 
+ | [pt_PT](/f42/language/pt_PT) | 56667 | 337863 | 16.8 | /mnt/stockage/packages/f42/naev-data/po/pt_PT.po | 
+ | [cs](/f42/language/cs) | 42629 | 337863 | 12.6 | /mnt/stockage/packages/f42/naev-data/po/cs.po | 
+ | [pt_BR](/f42/language/pt_BR) | 22601 | 337863 | 6.7 | /mnt/stockage/packages/f42/naev-data/po/pt_BR.po | 
+ | [it](/f42/language/it) | 19803 | 337863 | 5.9 | /mnt/stockage/packages/f42/naev-data/po/it.po | 
+ | [ko](/f42/language/ko) | 10925 | 337863 | 3.2 | /mnt/stockage/packages/f42/naev-data/po/ko.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 0 | 337863 | 0.0 | /mnt/stockage/packages/f42/naev-data/po/zh_Hans.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package publican-redhat (version 4.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/bn-IN/Feedback.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/de-DE/Feedback.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/es-ES/Feedback.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/fr-FR/Feedback.po | 
- | [gu_IN]({{< ref "/f19/language/gu_IN.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/gu-IN/Feedback.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/hi-IN/Feedback.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/it-IT/Feedback.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ja-JP/Feedback.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/kn-IN/Feedback.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ko-KR/Feedback.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/mr-IN/Feedback.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/or-IN/Feedback.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/pa-IN/Feedback.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/pt-BR/Feedback.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ru-RU/Feedback.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ta-IN/Feedback.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/te-IN/Feedback.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/zh-CN/Feedback.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/zh-TW/Feedback.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 203 | 220 | 92.3 | /mnt/stockage/packages/f19/publican-redhat/ml-IN/Feedback.po | 
- | [as]({{< ref "/f19/language/as.md" >}}) | 197 | 220 | 89.5 | /mnt/stockage/packages/f19/publican-redhat/as-IN/Feedback.po | 
- | [si]({{< ref "/f19/language/si.md" >}}) | 100 | 220 | 45.5 | /mnt/stockage/packages/f19/publican-redhat/si-LK/Feedback.po | 
+ | [bn_IN](/f19/language/bn_IN) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/bn-IN/Feedback.po | 
+ | [de](/f19/language/de) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/de-DE/Feedback.po | 
+ | [es](/f19/language/es) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/es-ES/Feedback.po | 
+ | [fr](/f19/language/fr) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/fr-FR/Feedback.po | 
+ | [gu_IN](/f19/language/gu_IN) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/gu-IN/Feedback.po | 
+ | [hi](/f19/language/hi) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/hi-IN/Feedback.po | 
+ | [it](/f19/language/it) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/it-IT/Feedback.po | 
+ | [ja](/f19/language/ja) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ja-JP/Feedback.po | 
+ | [kn](/f19/language/kn) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/kn-IN/Feedback.po | 
+ | [ko](/f19/language/ko) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ko-KR/Feedback.po | 
+ | [mr](/f19/language/mr) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/mr-IN/Feedback.po | 
+ | [or](/f19/language/or) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/or-IN/Feedback.po | 
+ | [pa](/f19/language/pa) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/pa-IN/Feedback.po | 
+ | [pt](/f19/language/pt) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/pt-BR/Feedback.po | 
+ | [ru](/f19/language/ru) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ru-RU/Feedback.po | 
+ | [ta](/f19/language/ta) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/ta-IN/Feedback.po | 
+ | [te](/f19/language/te) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/te-IN/Feedback.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/zh-CN/Feedback.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 220 | 220 | 100.0 | /mnt/stockage/packages/f19/publican-redhat/zh-TW/Feedback.po | 
+ | [ml](/f19/language/ml) | 203 | 220 | 92.3 | /mnt/stockage/packages/f19/publican-redhat/ml-IN/Feedback.po | 
+ | [as](/f19/language/as) | 197 | 220 | 89.5 | /mnt/stockage/packages/f19/publican-redhat/as-IN/Feedback.po | 
+ | [si](/f19/language/si) | 100 | 220 | 45.5 | /mnt/stockage/packages/f19/publican-redhat/si-LK/Feedback.po | 
 {.sortable}
 
 

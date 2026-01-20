@@ -18,22 +18,22 @@ The package gutenprint (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 6340 | 7066 | 89.7 | /mnt/stockage/packages/f9/gutenprint/po/da.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 6340 | 7066 | 89.7 | /mnt/stockage/packages/f9/gutenprint/po/en_GB.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 6340 | 7066 | 89.7 | /mnt/stockage/packages/f9/gutenprint/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 6258 | 7066 | 88.6 | /mnt/stockage/packages/f9/gutenprint/po/fr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 5718 | 7066 | 80.9 | /mnt/stockage/packages/f9/gutenprint/po/sv.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 5292 | 7066 | 74.9 | /mnt/stockage/packages/f9/gutenprint/po/hu.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1983 | 7066 | 28.1 | /mnt/stockage/packages/f9/gutenprint/po/cs.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1971 | 7066 | 27.9 | /mnt/stockage/packages/f9/gutenprint/po/ja.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1971 | 7066 | 27.9 | /mnt/stockage/packages/f9/gutenprint/po/pt.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1958 | 7066 | 27.7 | /mnt/stockage/packages/f9/gutenprint/po/de.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 1958 | 7066 | 27.7 | /mnt/stockage/packages/f9/gutenprint/po/sk.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1822 | 7066 | 25.8 | /mnt/stockage/packages/f9/gutenprint/po/es.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1625 | 7066 | 23.0 | /mnt/stockage/packages/f9/gutenprint/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 695 | 7066 | 9.8 | /mnt/stockage/packages/f9/gutenprint/po/nb.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 316 | 7066 | 4.5 | /mnt/stockage/packages/f9/gutenprint/po/pl.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 148 | 7066 | 2.1 | /mnt/stockage/packages/f9/gutenprint/po/el.po | 
+ | [da](/f9/language/da) | 6340 | 7066 | 89.7 | /mnt/stockage/packages/f9/gutenprint/po/da.po | 
+ | [en_GB](/f9/language/en_GB) | 6340 | 7066 | 89.7 | /mnt/stockage/packages/f9/gutenprint/po/en_GB.po | 
+ | [nl](/f9/language/nl) | 6340 | 7066 | 89.7 | /mnt/stockage/packages/f9/gutenprint/po/nl.po | 
+ | [fr](/f9/language/fr) | 6258 | 7066 | 88.6 | /mnt/stockage/packages/f9/gutenprint/po/fr.po | 
+ | [sv](/f9/language/sv) | 5718 | 7066 | 80.9 | /mnt/stockage/packages/f9/gutenprint/po/sv.po | 
+ | [hu](/f9/language/hu) | 5292 | 7066 | 74.9 | /mnt/stockage/packages/f9/gutenprint/po/hu.po | 
+ | [cs](/f9/language/cs) | 1983 | 7066 | 28.1 | /mnt/stockage/packages/f9/gutenprint/po/cs.po | 
+ | [ja](/f9/language/ja) | 1971 | 7066 | 27.9 | /mnt/stockage/packages/f9/gutenprint/po/ja.po | 
+ | [pt](/f9/language/pt) | 1971 | 7066 | 27.9 | /mnt/stockage/packages/f9/gutenprint/po/pt.po | 
+ | [de](/f9/language/de) | 1958 | 7066 | 27.7 | /mnt/stockage/packages/f9/gutenprint/po/de.po | 
+ | [sk](/f9/language/sk) | 1958 | 7066 | 27.7 | /mnt/stockage/packages/f9/gutenprint/po/sk.po | 
+ | [es](/f9/language/es) | 1822 | 7066 | 25.8 | /mnt/stockage/packages/f9/gutenprint/po/es.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1625 | 7066 | 23.0 | /mnt/stockage/packages/f9/gutenprint/po/zh_TW.po | 
+ | [nb_NO](/f9/language/nb_NO) | 695 | 7066 | 9.8 | /mnt/stockage/packages/f9/gutenprint/po/nb.po | 
+ | [pl](/f9/language/pl) | 316 | 7066 | 4.5 | /mnt/stockage/packages/f9/gutenprint/po/pl.po | 
+ | [el](/f9/language/el) | 148 | 7066 | 2.1 | /mnt/stockage/packages/f9/gutenprint/po/el.po | 
 {.sortable}
 
 

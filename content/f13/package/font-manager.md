@@ -18,9 +18,9 @@ The package font-manager (version 0.5.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 1247 | 1269 | 98.3 | /mnt/stockage/packages/f13/font-manager/po/sk.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 712 | 1269 | 56.1 | /mnt/stockage/packages/f13/font-manager/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 711 | 1269 | 56.0 | /mnt/stockage/packages/f13/font-manager/po/ru.po | 
+ | [sk](/f13/language/sk) | 1247 | 1269 | 98.3 | /mnt/stockage/packages/f13/font-manager/po/sk.po | 
+ | [it](/f13/language/it) | 712 | 1269 | 56.1 | /mnt/stockage/packages/f13/font-manager/po/it.po | 
+ | [ru](/f13/language/ru) | 711 | 1269 | 56.0 | /mnt/stockage/packages/f13/font-manager/po/ru.po | 
 {.sortable}
 
 

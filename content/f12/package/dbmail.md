@@ -18,20 +18,20 @@ The package dbmail (version 2.2.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/gl.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ja.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ml.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/nl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ta.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 47 | 457 | 10.3 | /mnt/stockage/packages/f12/dbmail/debian/po/pt_BR.po | 
+ | [cs](/f12/language/cs) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/cs.po | 
+ | [de](/f12/language/de) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/de.po | 
+ | [es](/f12/language/es) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/es.po | 
+ | [fr](/f12/language/fr) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/fr.po | 
+ | [gl](/f12/language/gl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/gl.po | 
+ | [it](/f12/language/it) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/it.po | 
+ | [ja](/f12/language/ja) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ja.po | 
+ | [ml](/f12/language/ml) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ml.po | 
+ | [nl](/f12/language/nl) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/nl.po | 
+ | [pt](/f12/language/pt) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/pt.po | 
+ | [ru](/f12/language/ru) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ru.po | 
+ | [sv](/f12/language/sv) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/sv.po | 
+ | [ta](/f12/language/ta) | 457 | 457 | 100.0 | /mnt/stockage/packages/f12/dbmail/debian/po/ta.po | 
+ | [pt_BR](/f12/language/pt_BR) | 47 | 457 | 10.3 | /mnt/stockage/packages/f12/dbmail/debian/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package nfoview (version 1.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/bg.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/fr.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/he.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/hu.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/ru.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/sr.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/tr.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 200 | 216 | 92.6 | /mnt/stockage/packages/f17/nfoview/po/de.po/mnt/stockage/packages/f17/nfoview/po/de_CH.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f17/nfoview/po/it.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 98 | 108 | 90.7 | /mnt/stockage/packages/f17/nfoview/po/zh_CN.po | 
+ | [bg](/f17/language/bg) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/bg.po | 
+ | [fi](/f17/language/fi) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/fi.po | 
+ | [fr](/f17/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/fr.po | 
+ | [he](/f17/language/he) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/he.po | 
+ | [hu](/f17/language/hu) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/hu.po | 
+ | [pl](/f17/language/pl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/pl.po | 
+ | [ru](/f17/language/ru) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/ru.po | 
+ | [sr](/f17/language/sr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/sr.po | 
+ | [tr](/f17/language/tr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f17/nfoview/po/tr.po | 
+ | [de](/f17/language/de) | 200 | 216 | 92.6 | /mnt/stockage/packages/f17/nfoview/po/de.po/mnt/stockage/packages/f17/nfoview/po/de_CH.po | 
+ | [it](/f17/language/it) | 98 | 108 | 90.7 | /mnt/stockage/packages/f17/nfoview/po/it.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 98 | 108 | 90.7 | /mnt/stockage/packages/f17/nfoview/po/zh_CN.po | 
 {.sortable}
 
 

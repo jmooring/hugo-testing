@@ -38,66 +38,66 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [plank]({{< ref "/f35/package/plank.md" >}}) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
- | [elementary-calendar]({{< ref "/f35/package/elementary-calendar.md" >}}) | 34 | 888 | 3.8 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f35/package/switchboard-plug-about.md" >}}) | 10 | 383 | 2.6 | Southern Sami <sma@li.org> | 
- | [elementary-videos]({{< ref "/f35/package/elementary-videos.md" >}}) | 10 | 391 | 2.6 | Southern Sami <sma@li.org> | 
- | [elementary-calculator]({{< ref "/f35/package/elementary-calculator.md" >}}) | 5 | 235 | 2.1 | LANGUAGE <LL@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f35/package/wingpanel-applications-menu.md" >}}) | 8 | 415 | 1.9 | Southern Sami <sma@li.org> | 
- | [elementary-terminal]({{< ref "/f35/package/elementary-terminal.md" >}}) | 11 | 696 | 1.6 | Southern Sami <sma@li.org> | 
- | [elementary-music]({{< ref "/f35/package/elementary-music.md" >}}) | 19 | 1205 | 1.6 | Southern Sami <sma@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f35/package/switchboard-plug-pantheon-shell.md" >}}) | 5 | 349 | 1.4 | Southern Sami <sma@li.org> | 
- | [switchboard-plug-notifications]({{< ref "/f35/package/switchboard-plug-notifications.md" >}}) | 2 | 142 | 1.4 | LANGUAGE <LL@li.org> | 
- | [granite]({{< ref "/f35/package/granite.md" >}}) | 6 | 498 | 1.2 | Southern Sami <sma@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f35/package/switchboard-plug-applications.md" >}}) | 2 | 227 | 0.9 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f35/package/switchboard-plug-bluetooth.md" >}}) | 1 | 206 | 0.5 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/sma/> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f35/package/switchboard-plug-mouse-touchpad.md" >}}) | 1 | 282 | 0.4 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/sma/> | 
- | [elementary-sideload]({{< ref "/f35/package/elementary-sideload.md" >}}) | 1 | 319 | 0.3 | Southern Sami <https://l10n.elementary.io/projects/desktop/sideload/sma/> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f35/package/switchboard-plug-onlineaccounts.md" >}}) | 1 | 322 | 0.3 | Southern Sami <sma@li.org> | 
- | [switchboard-plug-networking]({{< ref "/f35/package/switchboard-plug-networking.md" >}}) | 1 | 532 | 0.2 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/sma/> | 
- | [switchboard-plug-keyboard]({{< ref "/f35/package/switchboard-plug-keyboard.md" >}}) | 1 | 636 | 0.2 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/sma/> | 
- | [elementary-code]({{< ref "/f35/package/elementary-code.md" >}}) | 1 | 1608 | 0.1 | Southern Sami <sma@li.org> | 
- | [bookworm]({{< ref "/f35/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f35/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f35/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [elementary-camera]({{< ref "/f35/package/elementary-camera.md" >}}) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-capnet-assist]({{< ref "/f35/package/elementary-capnet-assist.md" >}}) | 0 | 90 | 0.0 | none | 
- | [elementary-files]({{< ref "/f35/package/elementary-files.md" >}}) | 0 | 3669 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f35/package/elementary-greeter.md" >}}) | 0 | 219 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f35/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f35/package/elementary-mail.md" >}}) | 0 | 658 | 0.0 |  | 
- | [elementary-notifications]({{< ref "/f35/package/elementary-notifications.md" >}}) | 0 | 50 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f35/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f35/package/elementary-photos.md" >}}) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f35/package/elementary-screenshot-tool.md" >}}) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f35/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f35/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f35/package/elementary-tasks.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f35/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [feedreader]({{< ref "/f35/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [gala]({{< ref "/f35/package/gala.md" >}}) | 0 | 358 | 0.0 | Southern Sami <sma@li.org> | 
- | [harvey]({{< ref "/f35/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f35/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f35/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f35/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f35/package/pantheon-agent-polkit.md" >}}) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f35/package/switchboard.md" >}}) | 0 | 148 | 0.0 | Southern Sami <sma@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f35/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f35/package/switchboard-plug-display.md" >}}) | 0 | 182 | 0.0 | Southern Sami <sma@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f35/package/switchboard-plug-printers.md" >}}) | 0 | 406 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f35/package/switchboard-plug-sharing.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f35/package/switchboard-plug-sound.md" >}}) | 0 | 193 | 0.0 | Southern Sami <sma@li.org> | 
- | [taxi]({{< ref "/f35/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f35/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f35/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f35/package/wingpanel-indicator-datetime.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f35/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f35/package/wingpanel-indicator-network.md" >}}) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f35/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f35/package/wingpanel-indicator-notifications.md" >}}) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-power]({{< ref "/f35/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f35/package/wingpanel-indicator-session.md" >}}) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f35/package/wingpanel-indicator-sound.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [plank](/f35/package/plank) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
+ | [elementary-calendar](/f35/package/elementary-calendar) | 34 | 888 | 3.8 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f35/package/switchboard-plug-about) | 10 | 383 | 2.6 | Southern Sami <sma@li.org> | 
+ | [elementary-videos](/f35/package/elementary-videos) | 10 | 391 | 2.6 | Southern Sami <sma@li.org> | 
+ | [elementary-calculator](/f35/package/elementary-calculator) | 5 | 235 | 2.1 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-applications-menu](/f35/package/wingpanel-applications-menu) | 8 | 415 | 1.9 | Southern Sami <sma@li.org> | 
+ | [elementary-terminal](/f35/package/elementary-terminal) | 11 | 696 | 1.6 | Southern Sami <sma@li.org> | 
+ | [elementary-music](/f35/package/elementary-music) | 19 | 1205 | 1.6 | Southern Sami <sma@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f35/package/switchboard-plug-pantheon-shell) | 5 | 349 | 1.4 | Southern Sami <sma@li.org> | 
+ | [switchboard-plug-notifications](/f35/package/switchboard-plug-notifications) | 2 | 142 | 1.4 | LANGUAGE <LL@li.org> | 
+ | [granite](/f35/package/granite) | 6 | 498 | 1.2 | Southern Sami <sma@li.org> | 
+ | [switchboard-plug-applications](/f35/package/switchboard-plug-applications) | 2 | 227 | 0.9 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f35/package/switchboard-plug-bluetooth) | 1 | 206 | 0.5 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/sma/> | 
+ | [switchboard-plug-mouse-touchpad](/f35/package/switchboard-plug-mouse-touchpad) | 1 | 282 | 0.4 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/sma/> | 
+ | [elementary-sideload](/f35/package/elementary-sideload) | 1 | 319 | 0.3 | Southern Sami <https://l10n.elementary.io/projects/desktop/sideload/sma/> | 
+ | [switchboard-plug-onlineaccounts](/f35/package/switchboard-plug-onlineaccounts) | 1 | 322 | 0.3 | Southern Sami <sma@li.org> | 
+ | [switchboard-plug-networking](/f35/package/switchboard-plug-networking) | 1 | 532 | 0.2 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/sma/> | 
+ | [switchboard-plug-keyboard](/f35/package/switchboard-plug-keyboard) | 1 | 636 | 0.2 | Southern Sami <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/sma/> | 
+ | [elementary-code](/f35/package/elementary-code) | 1 | 1608 | 0.1 | Southern Sami <sma@li.org> | 
+ | [bookworm](/f35/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f35/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f35/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [elementary-camera](/f35/package/elementary-camera) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-capnet-assist](/f35/package/elementary-capnet-assist) | 0 | 90 | 0.0 | none | 
+ | [elementary-files](/f35/package/elementary-files) | 0 | 3669 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f35/package/elementary-greeter) | 0 | 219 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f35/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-mail](/f35/package/elementary-mail) | 0 | 658 | 0.0 |  | 
+ | [elementary-notifications](/f35/package/elementary-notifications) | 0 | 50 | 0.0 | none | 
+ | [elementary-onboarding](/f35/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-photos](/f35/package/elementary-photos) | 0 | 4011 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f35/package/elementary-screenshot-tool) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f35/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f35/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-tasks](/f35/package/elementary-tasks) | 0 | 394 | 0.0 | none | 
+ | [elementary-theme](/f35/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [feedreader](/f35/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [gala](/f35/package/gala) | 0 | 358 | 0.0 | Southern Sami <sma@li.org> | 
+ | [harvey](/f35/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f35/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f35/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f35/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f35/package/pantheon-agent-polkit) | 0 | 56 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f35/package/switchboard) | 0 | 148 | 0.0 | Southern Sami <sma@li.org> | 
+ | [switchboard-plug-a11y](/f35/package/switchboard-plug-a11y) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f35/package/switchboard-plug-display) | 0 | 182 | 0.0 | Southern Sami <sma@li.org> | 
+ | [switchboard-plug-printers](/f35/package/switchboard-plug-printers) | 0 | 406 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f35/package/switchboard-plug-sharing) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-sound](/f35/package/switchboard-plug-sound) | 0 | 193 | 0.0 | Southern Sami <sma@li.org> | 
+ | [taxi](/f35/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f35/package/wingpanel) | 0 | 19 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f35/package/wingpanel-indicator-bluetooth) | 0 | 78 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f35/package/wingpanel-indicator-datetime) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f35/package/wingpanel-indicator-keyboard) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f35/package/wingpanel-indicator-network) | 0 | 150 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-nightlight](/f35/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f35/package/wingpanel-indicator-notifications) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-power](/f35/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f35/package/wingpanel-indicator-session) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f35/package/wingpanel-indicator-sound) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

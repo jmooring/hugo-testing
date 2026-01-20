@@ -38,75 +38,75 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f36/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Akan <akan-translators@lists.launchpad.net> | 
- | [gtkspell3]({{< ref "/f36/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f36/package/wingpanel-applications-menu.md" >}}) | 195 | 415 | 47.0 | Akan <https://l10n.elementary.io/projects/wingpanel/applications-menu/ak/> | 
- | [wingpanel-indicator-session]({{< ref "/f36/package/wingpanel-indicator-session.md" >}}) | 48 | 108 | 44.4 | Akan <ak@li.org> | 
- | [pantheon-agent-geoclue2]({{< ref "/f36/package/pantheon-agent-geoclue2.md" >}}) | 43 | 101 | 42.6 | Akan <karabutaworld@gmail.com> | 
- | [elementary-calendar]({{< ref "/f36/package/elementary-calendar.md" >}}) | 335 | 888 | 37.7 | Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/> | 
- | [wingpanel]({{< ref "/f36/package/wingpanel.md" >}}) | 6 | 19 | 31.6 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/> | 
- | [tuxpaint]({{< ref "/f36/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 | none | 
- | [pantheon-agent-polkit]({{< ref "/f36/package/pantheon-agent-polkit.md" >}}) | 16 | 56 | 28.6 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f36/package/sugar-toolkit-gtk3.md" >}}) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f36/package/switchboard-plug-bluetooth.md" >}}) | 26 | 206 | 12.6 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ak/> | 
- | [switchboard-plug-about]({{< ref "/f36/package/switchboard-plug-about.md" >}}) | 45 | 383 | 11.7 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/ak/> | 
- | [elementary-videos]({{< ref "/f36/package/elementary-videos.md" >}}) | 45 | 391 | 11.5 | Akan <ak@li.org> | 
- | [elementary-terminal]({{< ref "/f36/package/elementary-terminal.md" >}}) | 79 | 696 | 11.4 | Akan <ak@li.org> | 
- | [elementary-files]({{< ref "/f36/package/elementary-files.md" >}}) | 368 | 3669 | 10.0 | Akan <ak@li.org> | 
- | [granite]({{< ref "/f36/package/granite.md" >}}) | 43 | 498 | 8.6 | Akan <ak@li.org> | 
- | [elementary-camera]({{< ref "/f36/package/elementary-camera.md" >}}) | 17 | 205 | 8.3 | ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/> | 
- | [wingpanel-indicator-notifications]({{< ref "/f36/package/wingpanel-indicator-notifications.md" >}}) | 10 | 134 | 7.5 | Akan <ak@li.org> | 
- | [sugar-speak]({{< ref "/f36/package/sugar-speak.md" >}}) | 16 | 227 | 7.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f36/package/elementary-greeter.md" >}}) | 15 | 219 | 6.8 | Akan <https://l10n.elementary.io/projects/desktop/greeter/ak/> | 
- | [elementary-code]({{< ref "/f36/package/elementary-code.md" >}}) | 100 | 1608 | 6.2 | LANGUAGE <LL@li.org> | 
- | [elementary-music]({{< ref "/f36/package/elementary-music.md" >}}) | 69 | 1205 | 5.7 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f36/package/tuxpaint-stamps.md" >}}) | 165 | 3249 | 5.1 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f36/package/sugar-clock.md" >}}) | 3 | 66 | 4.5 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f36/package/wingpanel-indicator-sound.md" >}}) | 4 | 96 | 4.2 | Akan <ak@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f36/package/wingpanel-indicator-datetime.md" >}}) | 4 | 177 | 2.3 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ak/> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f36/package/switchboard-plug-mouse-touchpad.md" >}}) | 6 | 282 | 2.1 | Akan <ak@li.org> | 
- | [gala]({{< ref "/f36/package/gala.md" >}}) | 7 | 358 | 2.0 | Akan <https://l10n.elementary.io/projects/desktop/gala/ak/> | 
- | [elementary-mail]({{< ref "/f36/package/elementary-mail.md" >}}) | 10 | 658 | 1.5 | Akan <ak@li.org> | 
- | [switchboard-plug-networking]({{< ref "/f36/package/switchboard-plug-networking.md" >}}) | 7 | 532 | 1.3 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/ak/> | 
- | [switchboard-plug-sound]({{< ref "/f36/package/switchboard-plug-sound.md" >}}) | 2 | 193 | 1.0 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/ak/> | 
- | [elementary-photos]({{< ref "/f36/package/elementary-photos.md" >}}) | 41 | 4011 | 1.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f36/package/switchboard-plug-sharing.md" >}}) | 1 | 141 | 0.7 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/ak/> | 
- | [switchboard-plug-printers]({{< ref "/f36/package/switchboard-plug-printers.md" >}}) | 2 | 406 | 0.5 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/ak/> | 
- | [switchboard-plug-applications]({{< ref "/f36/package/switchboard-plug-applications.md" >}}) | 1 | 227 | 0.4 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/ak/> | 
- | [elementary-calculator]({{< ref "/f36/package/elementary-calculator.md" >}}) | 1 | 235 | 0.4 | Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/> | 
- | [elementary-sideload]({{< ref "/f36/package/elementary-sideload.md" >}}) | 1 | 319 | 0.3 | Akan <https://l10n.elementary.io/projects/desktop/sideload/ak/> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f36/package/switchboard-plug-pantheon-shell.md" >}}) | 1 | 349 | 0.3 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ak/> | 
- | [switchboard-plug-keyboard]({{< ref "/f36/package/switchboard-plug-keyboard.md" >}}) | 1 | 636 | 0.2 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/ak/> | 
- | [tilix]({{< ref "/f36/package/tilix.md" >}}) | 1 | 2429 | 0.0 | Akan <https://hosted.weblate.org/projects/tilix/translations/ak/> | 
- | [bookworm]({{< ref "/f36/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f36/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f36/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f36/package/elementary-capnet-assist.md" >}}) | 0 | 90 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f36/package/elementary-icon-theme.md" >}}) | 0 | 263 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f36/package/elementary-notifications.md" >}}) | 0 | 50 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f36/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-screenshot-tool]({{< ref "/f36/package/elementary-screenshot-tool.md" >}}) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f36/package/elementary-settings-daemon.md" >}}) | 0 | 26 | 0.0 | none | 
- | [elementary-shortcut-overlay]({{< ref "/f36/package/elementary-shortcut-overlay.md" >}}) | 0 | 130 | 0.0 | none | 
- | [elementary-tasks]({{< ref "/f36/package/elementary-tasks.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-theme]({{< ref "/f36/package/elementary-theme.md" >}}) | 0 | 63 | 0.0 | none | 
- | [harvey]({{< ref "/f36/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [iso-codes]({{< ref "/f36/package/iso-codes.md" >}}) | 0 | 986 | 0.0 | Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/> | 
- | [nutty]({{< ref "/f36/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f36/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [sawfish]({{< ref "/f36/package/sawfish.md" >}}) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
- | [sugar-implode]({{< ref "/f36/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f36/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f36/package/switchboard.md" >}}) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f36/package/switchboard-plug-a11y.md" >}}) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f36/package/switchboard-plug-display.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-notifications]({{< ref "/f36/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | none | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f36/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 322 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f36/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 78 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f36/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 53 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f36/package/wingpanel-indicator-network.md" >}}) | 0 | 150 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f36/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 45 | 0.0 |  | 
- | [wingpanel-indicator-power]({{< ref "/f36/package/wingpanel-indicator-power.md" >}}) | 0 | 191 | 0.0 | none | 
+ | [gnome-menus](/f36/package/gnome-menus) | 70 | 70 | 100.0 | Akan <akan-translators@lists.launchpad.net> | 
+ | [gtkspell3](/f36/package/gtkspell3) | 10 | 16 | 62.5 | Akan <LL@li.org> | 
+ | [wingpanel-applications-menu](/f36/package/wingpanel-applications-menu) | 195 | 415 | 47.0 | Akan <https://l10n.elementary.io/projects/wingpanel/applications-menu/ak/> | 
+ | [wingpanel-indicator-session](/f36/package/wingpanel-indicator-session) | 48 | 108 | 44.4 | Akan <ak@li.org> | 
+ | [pantheon-agent-geoclue2](/f36/package/pantheon-agent-geoclue2) | 43 | 101 | 42.6 | Akan <karabutaworld@gmail.com> | 
+ | [elementary-calendar](/f36/package/elementary-calendar) | 335 | 888 | 37.7 | Akan <https://l10n.elementary.io/projects/calendar/calendar/ak/> | 
+ | [wingpanel](/f36/package/wingpanel) | 6 | 19 | 31.6 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel/ak/> | 
+ | [tuxpaint](/f36/package/tuxpaint) | 1120 | 3763 | 29.8 | none | 
+ | [pantheon-agent-polkit](/f36/package/pantheon-agent-polkit) | 16 | 56 | 28.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f36/package/sugar-toolkit-gtk3) | 60 | 213 | 28.2 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f36/package/switchboard-plug-bluetooth) | 26 | 206 | 12.6 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/ak/> | 
+ | [switchboard-plug-about](/f36/package/switchboard-plug-about) | 45 | 383 | 11.7 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/ak/> | 
+ | [elementary-videos](/f36/package/elementary-videos) | 45 | 391 | 11.5 | Akan <ak@li.org> | 
+ | [elementary-terminal](/f36/package/elementary-terminal) | 79 | 696 | 11.4 | Akan <ak@li.org> | 
+ | [elementary-files](/f36/package/elementary-files) | 368 | 3669 | 10.0 | Akan <ak@li.org> | 
+ | [granite](/f36/package/granite) | 43 | 498 | 8.6 | Akan <ak@li.org> | 
+ | [elementary-camera](/f36/package/elementary-camera) | 17 | 205 | 8.3 | ak (generated) <http://weblate.elementary.io/projects/desktop/camera/ak/> | 
+ | [wingpanel-indicator-notifications](/f36/package/wingpanel-indicator-notifications) | 10 | 134 | 7.5 | Akan <ak@li.org> | 
+ | [sugar-speak](/f36/package/sugar-speak) | 16 | 227 | 7.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f36/package/elementary-greeter) | 15 | 219 | 6.8 | Akan <https://l10n.elementary.io/projects/desktop/greeter/ak/> | 
+ | [elementary-code](/f36/package/elementary-code) | 100 | 1608 | 6.2 | LANGUAGE <LL@li.org> | 
+ | [elementary-music](/f36/package/elementary-music) | 69 | 1205 | 5.7 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f36/package/tuxpaint-stamps) | 165 | 3249 | 5.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f36/package/sugar-clock) | 3 | 66 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f36/package/wingpanel-indicator-sound) | 4 | 96 | 4.2 | Akan <ak@li.org> | 
+ | [wingpanel-indicator-datetime](/f36/package/wingpanel-indicator-datetime) | 4 | 177 | 2.3 | Akan <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-datetime/ak/> | 
+ | [switchboard-plug-mouse-touchpad](/f36/package/switchboard-plug-mouse-touchpad) | 6 | 282 | 2.1 | Akan <ak@li.org> | 
+ | [gala](/f36/package/gala) | 7 | 358 | 2.0 | Akan <https://l10n.elementary.io/projects/desktop/gala/ak/> | 
+ | [elementary-mail](/f36/package/elementary-mail) | 10 | 658 | 1.5 | Akan <ak@li.org> | 
+ | [switchboard-plug-networking](/f36/package/switchboard-plug-networking) | 7 | 532 | 1.3 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/ak/> | 
+ | [switchboard-plug-sound](/f36/package/switchboard-plug-sound) | 2 | 193 | 1.0 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/ak/> | 
+ | [elementary-photos](/f36/package/elementary-photos) | 41 | 4011 | 1.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f36/package/switchboard-plug-sharing) | 1 | 141 | 0.7 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sharing/ak/> | 
+ | [switchboard-plug-printers](/f36/package/switchboard-plug-printers) | 2 | 406 | 0.5 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/ak/> | 
+ | [switchboard-plug-applications](/f36/package/switchboard-plug-applications) | 1 | 227 | 0.4 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-applications/ak/> | 
+ | [elementary-calculator](/f36/package/elementary-calculator) | 1 | 235 | 0.4 | Akan <https://l10n.elementary.io/projects/calculator/calculator/ak/> | 
+ | [elementary-sideload](/f36/package/elementary-sideload) | 1 | 319 | 0.3 | Akan <https://l10n.elementary.io/projects/desktop/sideload/ak/> | 
+ | [switchboard-plug-pantheon-shell](/f36/package/switchboard-plug-pantheon-shell) | 1 | 349 | 0.3 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/ak/> | 
+ | [switchboard-plug-keyboard](/f36/package/switchboard-plug-keyboard) | 1 | 636 | 0.2 | Akan <https://l10n.elementary.io/projects/switchboard/switchboard-plug-keyboard/ak/> | 
+ | [tilix](/f36/package/tilix) | 1 | 2429 | 0.0 | Akan <https://hosted.weblate.org/projects/tilix/translations/ak/> | 
+ | [bookworm](/f36/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f36/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f36/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [elementary-capnet-assist](/f36/package/elementary-capnet-assist) | 0 | 90 | 0.0 | none | 
+ | [elementary-icon-theme](/f36/package/elementary-icon-theme) | 0 | 263 | 0.0 | none | 
+ | [elementary-notifications](/f36/package/elementary-notifications) | 0 | 50 | 0.0 | none | 
+ | [elementary-onboarding](/f36/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-screenshot-tool](/f36/package/elementary-screenshot-tool) | 0 | 248 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f36/package/elementary-settings-daemon) | 0 | 26 | 0.0 | none | 
+ | [elementary-shortcut-overlay](/f36/package/elementary-shortcut-overlay) | 0 | 130 | 0.0 | none | 
+ | [elementary-tasks](/f36/package/elementary-tasks) | 0 | 394 | 0.0 | none | 
+ | [elementary-theme](/f36/package/elementary-theme) | 0 | 63 | 0.0 | none | 
+ | [harvey](/f36/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [iso-codes](/f36/package/iso-codes) | 0 | 986 | 0.0 | Akan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ak/> | 
+ | [nutty](/f36/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f36/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [sawfish](/f36/package/sawfish) | 0 | 6617 | 0.0 | Akan (http://www.transifex.net/projects/p/sawfish-master/team/ak/) | 
+ | [sugar-implode](/f36/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f36/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f36/package/switchboard) | 0 | 148 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f36/package/switchboard-plug-a11y) | 0 | 180 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f36/package/switchboard-plug-display) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-notifications](/f36/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts](/f36/package/switchboard-plug-onlineaccounts) | 0 | 322 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f36/package/wingpanel-indicator-bluetooth) | 0 | 78 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f36/package/wingpanel-indicator-keyboard) | 0 | 53 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f36/package/wingpanel-indicator-network) | 0 | 150 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f36/package/wingpanel-indicator-nightlight) | 0 | 45 | 0.0 |  | 
+ | [wingpanel-indicator-power](/f36/package/wingpanel-indicator-power) | 0 | 191 | 0.0 | none | 
 {.sortable}
 
 

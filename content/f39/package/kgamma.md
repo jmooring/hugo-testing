@@ -18,82 +18,82 @@ The package kgamma (version 5.27.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ar/kcmkgamma.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/az/kcmkgamma.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/bg/kcmkgamma.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/bs/kcmkgamma.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ca/kcmkgamma.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ca@valencia/kcmkgamma.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/cs/kcmkgamma.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/da/kcmkgamma.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/de/kcmkgamma.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/el/kcmkgamma.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/en_GB/kcmkgamma.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/eo/kcmkgamma.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/es/kcmkgamma.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/et/kcmkgamma.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/eu/kcmkgamma.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/fa/kcmkgamma.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/fi/kcmkgamma.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/fr/kcmkgamma.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ga/kcmkgamma.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/gl/kcmkgamma.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/he/kcmkgamma.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/hi/kcmkgamma.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/hr/kcmkgamma.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/hu/kcmkgamma.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ia/kcmkgamma.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/id/kcmkgamma.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/is/kcmkgamma.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/it/kcmkgamma.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ja/kcmkgamma.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ka/kcmkgamma.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/kk/kcmkgamma.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/km/kcmkgamma.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ko/kcmkgamma.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/lt/kcmkgamma.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/lv/kcmkgamma.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/mk/kcmkgamma.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nb/kcmkgamma.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nds/kcmkgamma.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ne/kcmkgamma.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nl/kcmkgamma.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nn/kcmkgamma.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/pl/kcmkgamma.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/pt/kcmkgamma.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/pt_BR/kcmkgamma.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ro/kcmkgamma.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ru/kcmkgamma.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sk/kcmkgamma.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sl/kcmkgamma.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sq/kcmkgamma.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr/kcmkgamma.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr@ijekavian/kcmkgamma.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr@ijekavianlatin/kcmkgamma.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr@latin/kcmkgamma.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sv/kcmkgamma.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/th/kcmkgamma.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/tr/kcmkgamma.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/uk/kcmkgamma.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/vi/kcmkgamma.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/zh_CN/kcmkgamma.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/zh_TW/kcmkgamma.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 126 | 130 | 96.9 | /mnt/stockage/packages/f39/kgamma/po/fy/kcmkgamma.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 126 | 130 | 96.9 | /mnt/stockage/packages/f39/kgamma/po/ms/kcmkgamma.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 126 | 130 | 96.9 | /mnt/stockage/packages/f39/kgamma/po/ta/kcmkgamma.po | 
- | [hne]({{< ref "/f39/language/hne.md" >}}) | 38 | 130 | 29.2 | /mnt/stockage/packages/f39/kgamma/po/hne/kcmkgamma.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 38 | 130 | 29.2 | /mnt/stockage/packages/f39/kgamma/po/mr/kcmkgamma.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 38 | 130 | 29.2 | /mnt/stockage/packages/f39/kgamma/po/pa/kcmkgamma.po | 
- | [se]({{< ref "/f39/language/se.md" >}}) | 34 | 130 | 26.2 | /mnt/stockage/packages/f39/kgamma/po/se/kcmkgamma.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 27 | 130 | 20.8 | /mnt/stockage/packages/f39/kgamma/po/tg/kcmkgamma.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 20 | 130 | 15.4 | /mnt/stockage/packages/f39/kgamma/po/zh_HK/kcmkgamma.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 15 | 130 | 11.5 | /mnt/stockage/packages/f39/kgamma/po/ug/kcmkgamma.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 14 | 130 | 10.8 | /mnt/stockage/packages/f39/kgamma/po/br/kcmkgamma.po | 
- | [cy]({{< ref "/f39/language/cy.md" >}}) | 12 | 130 | 9.2 | /mnt/stockage/packages/f39/kgamma/po/cy/kcmkgamma.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 5 | 130 | 3.8 | /mnt/stockage/packages/f39/kgamma/po/oc/kcmkgamma.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 4 | 130 | 3.1 | /mnt/stockage/packages/f39/kgamma/po/be/kcmkgamma.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 1 | 130 | 0.8 | /mnt/stockage/packages/f39/kgamma/po/si/kcmkgamma.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 0 | 130 | 0.0 | /mnt/stockage/packages/f39/kgamma/po/ml/kcmkgamma.po | 
+ | [ar](/f39/language/ar) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ar/kcmkgamma.po | 
+ | [az](/f39/language/az) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/az/kcmkgamma.po | 
+ | [bg](/f39/language/bg) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/bg/kcmkgamma.po | 
+ | [bs](/f39/language/bs) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/bs/kcmkgamma.po | 
+ | [ca](/f39/language/ca) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ca/kcmkgamma.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ca@valencia/kcmkgamma.po | 
+ | [cs](/f39/language/cs) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/cs/kcmkgamma.po | 
+ | [da](/f39/language/da) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/da/kcmkgamma.po | 
+ | [de](/f39/language/de) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/de/kcmkgamma.po | 
+ | [el](/f39/language/el) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/el/kcmkgamma.po | 
+ | [en_GB](/f39/language/en_GB) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/en_GB/kcmkgamma.po | 
+ | [eo](/f39/language/eo) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/eo/kcmkgamma.po | 
+ | [es](/f39/language/es) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/es/kcmkgamma.po | 
+ | [et](/f39/language/et) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/et/kcmkgamma.po | 
+ | [eu](/f39/language/eu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/eu/kcmkgamma.po | 
+ | [fa](/f39/language/fa) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/fa/kcmkgamma.po | 
+ | [fi](/f39/language/fi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/fi/kcmkgamma.po | 
+ | [fr](/f39/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/fr/kcmkgamma.po | 
+ | [ga](/f39/language/ga) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ga/kcmkgamma.po | 
+ | [gl](/f39/language/gl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/gl/kcmkgamma.po | 
+ | [he](/f39/language/he) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/he/kcmkgamma.po | 
+ | [hi](/f39/language/hi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/hi/kcmkgamma.po | 
+ | [hr](/f39/language/hr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/hr/kcmkgamma.po | 
+ | [hu](/f39/language/hu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/hu/kcmkgamma.po | 
+ | [ia](/f39/language/ia) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ia/kcmkgamma.po | 
+ | [id](/f39/language/id) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/id/kcmkgamma.po | 
+ | [is](/f39/language/is) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/is/kcmkgamma.po | 
+ | [it](/f39/language/it) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/it/kcmkgamma.po | 
+ | [ja](/f39/language/ja) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ja/kcmkgamma.po | 
+ | [ka](/f39/language/ka) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ka/kcmkgamma.po | 
+ | [kk](/f39/language/kk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/kk/kcmkgamma.po | 
+ | [km](/f39/language/km) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/km/kcmkgamma.po | 
+ | [ko](/f39/language/ko) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ko/kcmkgamma.po | 
+ | [lt](/f39/language/lt) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/lt/kcmkgamma.po | 
+ | [lv](/f39/language/lv) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/lv/kcmkgamma.po | 
+ | [mk](/f39/language/mk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/mk/kcmkgamma.po | 
+ | [nb_NO](/f39/language/nb_NO) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nb/kcmkgamma.po | 
+ | [nds](/f39/language/nds) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nds/kcmkgamma.po | 
+ | [ne](/f39/language/ne) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ne/kcmkgamma.po | 
+ | [nl](/f39/language/nl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nl/kcmkgamma.po | 
+ | [nn](/f39/language/nn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/nn/kcmkgamma.po | 
+ | [pl](/f39/language/pl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/pl/kcmkgamma.po | 
+ | [pt](/f39/language/pt) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/pt/kcmkgamma.po | 
+ | [pt_BR](/f39/language/pt_BR) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/pt_BR/kcmkgamma.po | 
+ | [ro](/f39/language/ro) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ro/kcmkgamma.po | 
+ | [ru](/f39/language/ru) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/ru/kcmkgamma.po | 
+ | [sk](/f39/language/sk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sk/kcmkgamma.po | 
+ | [sl](/f39/language/sl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sl/kcmkgamma.po | 
+ | [sq](/f39/language/sq) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sq/kcmkgamma.po | 
+ | [sr](/f39/language/sr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr/kcmkgamma.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr@ijekavian/kcmkgamma.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr@ijekavianlatin/kcmkgamma.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sr@latin/kcmkgamma.po | 
+ | [sv](/f39/language/sv) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/sv/kcmkgamma.po | 
+ | [th](/f39/language/th) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/th/kcmkgamma.po | 
+ | [tr](/f39/language/tr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/tr/kcmkgamma.po | 
+ | [uk](/f39/language/uk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/uk/kcmkgamma.po | 
+ | [vi](/f39/language/vi) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/vi/kcmkgamma.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/zh_CN/kcmkgamma.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 130 | 130 | 100.0 | /mnt/stockage/packages/f39/kgamma/po/zh_TW/kcmkgamma.po | 
+ | [fy](/f39/language/fy) | 126 | 130 | 96.9 | /mnt/stockage/packages/f39/kgamma/po/fy/kcmkgamma.po | 
+ | [ms](/f39/language/ms) | 126 | 130 | 96.9 | /mnt/stockage/packages/f39/kgamma/po/ms/kcmkgamma.po | 
+ | [ta](/f39/language/ta) | 126 | 130 | 96.9 | /mnt/stockage/packages/f39/kgamma/po/ta/kcmkgamma.po | 
+ | [hne](/f39/language/hne) | 38 | 130 | 29.2 | /mnt/stockage/packages/f39/kgamma/po/hne/kcmkgamma.po | 
+ | [mr](/f39/language/mr) | 38 | 130 | 29.2 | /mnt/stockage/packages/f39/kgamma/po/mr/kcmkgamma.po | 
+ | [pa](/f39/language/pa) | 38 | 130 | 29.2 | /mnt/stockage/packages/f39/kgamma/po/pa/kcmkgamma.po | 
+ | [se](/f39/language/se) | 34 | 130 | 26.2 | /mnt/stockage/packages/f39/kgamma/po/se/kcmkgamma.po | 
+ | [tg](/f39/language/tg) | 27 | 130 | 20.8 | /mnt/stockage/packages/f39/kgamma/po/tg/kcmkgamma.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 20 | 130 | 15.4 | /mnt/stockage/packages/f39/kgamma/po/zh_HK/kcmkgamma.po | 
+ | [ug](/f39/language/ug) | 15 | 130 | 11.5 | /mnt/stockage/packages/f39/kgamma/po/ug/kcmkgamma.po | 
+ | [br](/f39/language/br) | 14 | 130 | 10.8 | /mnt/stockage/packages/f39/kgamma/po/br/kcmkgamma.po | 
+ | [cy](/f39/language/cy) | 12 | 130 | 9.2 | /mnt/stockage/packages/f39/kgamma/po/cy/kcmkgamma.po | 
+ | [oc](/f39/language/oc) | 5 | 130 | 3.8 | /mnt/stockage/packages/f39/kgamma/po/oc/kcmkgamma.po | 
+ | [be](/f39/language/be) | 4 | 130 | 3.1 | /mnt/stockage/packages/f39/kgamma/po/be/kcmkgamma.po | 
+ | [si](/f39/language/si) | 1 | 130 | 0.8 | /mnt/stockage/packages/f39/kgamma/po/si/kcmkgamma.po | 
+ | [ml](/f39/language/ml) | 0 | 130 | 0.0 | /mnt/stockage/packages/f39/kgamma/po/ml/kcmkgamma.po | 
 {.sortable}
 
 

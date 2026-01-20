@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f36/package/lagrange.md" >}}) | 1913 | 1929 | 99.2 |  | 
- | [kf5-kxmlgui]({{< ref "/f36/package/kf5-kxmlgui.md" >}}) | 1535 | 1574 | 97.5 | toki pona | 
- | [kf5-kcoreaddons]({{< ref "/f36/package/kf5-kcoreaddons.md" >}}) | 352 | 382 | 92.1 | toki pona | 
- | [kf5-kio]({{< ref "/f36/package/kf5-kio.md" >}}) | 7247 | 12029 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
- | [neochat]({{< ref "/f36/package/neochat.md" >}}) | 177 | 2464 | 7.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
- | [plasma-workspace]({{< ref "/f36/package/plasma-workspace.md" >}}) | 258 | 12864 | 2.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/> | 
- | [kolourpaint]({{< ref "/f36/package/kolourpaint.md" >}}) | 10 | 2568 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
+ | [lagrange](/f36/package/lagrange) | 1913 | 1929 | 99.2 |  | 
+ | [kf5-kxmlgui](/f36/package/kf5-kxmlgui) | 1535 | 1574 | 97.5 | toki pona | 
+ | [kf5-kcoreaddons](/f36/package/kf5-kcoreaddons) | 352 | 382 | 92.1 | toki pona | 
+ | [kf5-kio](/f36/package/kf5-kio) | 7247 | 12029 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
+ | [neochat](/f36/package/neochat) | 177 | 2464 | 7.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
+ | [plasma-workspace](/f36/package/plasma-workspace) | 258 | 12864 | 2.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/> | 
+ | [kolourpaint](/f36/package/kolourpaint) | 10 | 2568 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
 {.sortable}
 
 

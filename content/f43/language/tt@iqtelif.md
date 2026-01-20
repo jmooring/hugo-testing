@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f43/package/iso-codes.md" >}}) | 1015 | 15908 | 6.4 | Tatar <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tt/> | 
+ | [iso-codes](/f43/package/iso-codes) | 1015 | 15908 | 6.4 | Tatar <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/tt/> | 
 {.sortable}
 
 

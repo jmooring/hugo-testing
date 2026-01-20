@@ -18,10 +18,10 @@ The package python-djblets (version 0.8.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f21/language/it.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/it_IT/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/it_IT/LC_MESSAGES/djangojs.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 230 | 231 | 99.6 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/ko_KR/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/ko_KR/LC_MESSAGES/djangojs.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 5 | 231 | 2.2 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/zh_TW/LC_MESSAGES/djangojs.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 0 | 231 | 0.0 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/en/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/en/LC_MESSAGES/djangojs.po | 
+ | [it](/f21/language/it) | 231 | 231 | 100.0 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/it_IT/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/it_IT/LC_MESSAGES/djangojs.po | 
+ | [ko](/f21/language/ko) | 230 | 231 | 99.6 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/ko_KR/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/ko_KR/LC_MESSAGES/djangojs.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 5 | 231 | 2.2 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/zh_TW/LC_MESSAGES/djangojs.po | 
+ | [en](/f21/language/en) | 0 | 231 | 0.0 | /mnt/stockage/packages/f21/python-djblets/djblets/locale/en/LC_MESSAGES/django.po/mnt/stockage/packages/f21/python-djblets/djblets/locale/en/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

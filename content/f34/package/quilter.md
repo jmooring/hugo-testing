@@ -18,19 +18,19 @@ The package quilter (version 3.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f34/quilter/po/es.po/mnt/stockage/packages/f34/quilter/po/extra/es.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 866 | 1215 | 71.3 | /mnt/stockage/packages/f34/quilter/po/eo.po/mnt/stockage/packages/f34/quilter/po/extra/eo.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 878 | 1234 | 71.2 | /mnt/stockage/packages/f34/quilter/po/ru.po/mnt/stockage/packages/f34/quilter/po/extra/ru.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 618 | 992 | 62.3 | /mnt/stockage/packages/f34/quilter/po/fr.po/mnt/stockage/packages/f34/quilter/po/extra/fr.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 455 | 814 | 55.9 | /mnt/stockage/packages/f34/quilter/po/pt_BR.po/mnt/stockage/packages/f34/quilter/po/extra/pt_BR.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 454 | 814 | 55.8 | /mnt/stockage/packages/f34/quilter/po/pl.po/mnt/stockage/packages/f34/quilter/po/extra/pl.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 321 | 814 | 39.4 | /mnt/stockage/packages/f34/quilter/po/nl.po/mnt/stockage/packages/f34/quilter/po/extra/nl.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 310 | 814 | 38.1 | /mnt/stockage/packages/f34/quilter/po/da.po/mnt/stockage/packages/f34/quilter/po/extra/da.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 154 | 814 | 18.9 | /mnt/stockage/packages/f34/quilter/po/ja.po/mnt/stockage/packages/f34/quilter/po/extra/ja.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 37 | 814 | 4.5 | /mnt/stockage/packages/f34/quilter/po/ca.po/mnt/stockage/packages/f34/quilter/po/extra/ca.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 37 | 814 | 4.5 | /mnt/stockage/packages/f34/quilter/po/lt.po/mnt/stockage/packages/f34/quilter/po/extra/lt.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 35 | 814 | 4.3 | /mnt/stockage/packages/f34/quilter/po/de.po/mnt/stockage/packages/f34/quilter/po/extra/de.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 35 | 814 | 4.3 | /mnt/stockage/packages/f34/quilter/po/it.po/mnt/stockage/packages/f34/quilter/po/extra/it.po | 
+ | [es](/f34/language/es) | 814 | 814 | 100.0 | /mnt/stockage/packages/f34/quilter/po/es.po/mnt/stockage/packages/f34/quilter/po/extra/es.po | 
+ | [eo](/f34/language/eo) | 866 | 1215 | 71.3 | /mnt/stockage/packages/f34/quilter/po/eo.po/mnt/stockage/packages/f34/quilter/po/extra/eo.po | 
+ | [ru](/f34/language/ru) | 878 | 1234 | 71.2 | /mnt/stockage/packages/f34/quilter/po/ru.po/mnt/stockage/packages/f34/quilter/po/extra/ru.po | 
+ | [fr](/f34/language/fr) | 618 | 992 | 62.3 | /mnt/stockage/packages/f34/quilter/po/fr.po/mnt/stockage/packages/f34/quilter/po/extra/fr.po | 
+ | [pt_BR](/f34/language/pt_BR) | 455 | 814 | 55.9 | /mnt/stockage/packages/f34/quilter/po/pt_BR.po/mnt/stockage/packages/f34/quilter/po/extra/pt_BR.po | 
+ | [pl](/f34/language/pl) | 454 | 814 | 55.8 | /mnt/stockage/packages/f34/quilter/po/pl.po/mnt/stockage/packages/f34/quilter/po/extra/pl.po | 
+ | [nl](/f34/language/nl) | 321 | 814 | 39.4 | /mnt/stockage/packages/f34/quilter/po/nl.po/mnt/stockage/packages/f34/quilter/po/extra/nl.po | 
+ | [da](/f34/language/da) | 310 | 814 | 38.1 | /mnt/stockage/packages/f34/quilter/po/da.po/mnt/stockage/packages/f34/quilter/po/extra/da.po | 
+ | [ja](/f34/language/ja) | 154 | 814 | 18.9 | /mnt/stockage/packages/f34/quilter/po/ja.po/mnt/stockage/packages/f34/quilter/po/extra/ja.po | 
+ | [ca](/f34/language/ca) | 37 | 814 | 4.5 | /mnt/stockage/packages/f34/quilter/po/ca.po/mnt/stockage/packages/f34/quilter/po/extra/ca.po | 
+ | [lt](/f34/language/lt) | 37 | 814 | 4.5 | /mnt/stockage/packages/f34/quilter/po/lt.po/mnt/stockage/packages/f34/quilter/po/extra/lt.po | 
+ | [de](/f34/language/de) | 35 | 814 | 4.3 | /mnt/stockage/packages/f34/quilter/po/de.po/mnt/stockage/packages/f34/quilter/po/extra/de.po | 
+ | [it](/f34/language/it) | 35 | 814 | 4.3 | /mnt/stockage/packages/f34/quilter/po/it.po/mnt/stockage/packages/f34/quilter/po/extra/it.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package quarry (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f8/language/en.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/en.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/en_GB.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/ru.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1802 | 1807 | 99.7 | /mnt/stockage/packages/f8/quarry/po/pl.po | 
+ | [en](/f8/language/en) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/en.po | 
+ | [en_GB](/f8/language/en_GB) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/en_GB.po | 
+ | [fr](/f8/language/fr) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/fr.po | 
+ | [ru](/f8/language/ru) | 1807 | 1807 | 100.0 | /mnt/stockage/packages/f8/quarry/po/ru.po | 
+ | [pl](/f8/language/pl) | 1802 | 1807 | 99.7 | /mnt/stockage/packages/f8/quarry/po/pl.po | 
 {.sortable}
 
 

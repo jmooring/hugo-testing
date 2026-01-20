@@ -18,23 +18,23 @@ The package gnome-user-docs (version 2.20.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 14875 | 14875 | 100.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/en_GB/en_GB.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 72654 | 72654 | 100.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/fr/fr.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/fr/fr.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/fr/fr.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 72299 | 72299 | 100.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/pt/pt.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/pt/pt.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/pt/pt.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 40324 | 40412 | 99.8 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/ko/ko.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 39767 | 40187 | 99.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/pt_BR/pt_BR.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 72552 | 76733 | 94.6 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/es/es.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/es/es.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/es/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 67159 | 72656 | 92.4 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/it/it.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/it/it.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/it/it.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 59439 | 76733 | 77.5 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/sv/sv.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/sv/sv.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/sv/sv.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 17983 | 40412 | 44.5 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/hu/hu.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 15802 | 39115 | 40.4 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/ru/ru.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 19521 | 57959 | 33.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/pa/pa.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/pa/pa.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 6347 | 40412 | 15.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/fi/fi.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 8020 | 55287 | 14.5 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/de/de.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/de/de.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 1859 | 39196 | 4.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/ar/ar.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 2046 | 44800 | 4.6 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/bg/bg.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1621 | 38591 | 4.2 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/zh_CN/zh_CN.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 259 | 14875 | 1.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/el/el.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/el/el.po | 
+ | [en_GB](/f8/language/en_GB) | 14875 | 14875 | 100.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/en_GB/en_GB.po | 
+ | [fr](/f8/language/fr) | 72654 | 72654 | 100.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/fr/fr.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/fr/fr.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/fr/fr.po | 
+ | [pt](/f8/language/pt) | 72299 | 72299 | 100.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/pt/pt.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/pt/pt.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/pt/pt.po | 
+ | [ko](/f8/language/ko) | 40324 | 40412 | 99.8 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/ko/ko.po | 
+ | [pt_BR](/f8/language/pt_BR) | 39767 | 40187 | 99.0 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/pt_BR/pt_BR.po | 
+ | [es](/f8/language/es) | 72552 | 76733 | 94.6 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/es/es.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/es/es.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/es/es.po | 
+ | [it](/f8/language/it) | 67159 | 72656 | 92.4 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/it/it.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/it/it.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/it/it.po | 
+ | [sv](/f8/language/sv) | 59439 | 76733 | 77.5 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/sv/sv.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/sv/sv.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/sv/sv.po | 
+ | [hu](/f8/language/hu) | 17983 | 40412 | 44.5 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/hu/hu.po | 
+ | [ru](/f8/language/ru) | 15802 | 39115 | 40.4 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/ru/ru.po | 
+ | [pa](/f8/language/pa) | 19521 | 57959 | 33.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-system-admin-guide/pa/pa.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/pa/pa.po | 
+ | [fi](/f8/language/fi) | 6347 | 40412 | 15.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/fi/fi.po | 
+ | [de](/f8/language/de) | 8020 | 55287 | 14.5 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/de/de.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/de/de.po | 
+ | [ar](/f8/language/ar) | 1859 | 39196 | 4.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/ar/ar.po | 
+ | [bg](/f8/language/bg) | 2046 | 44800 | 4.6 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/bg/bg.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1621 | 38591 | 4.2 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/zh_CN/zh_CN.po | 
+ | [el](/f8/language/el) | 259 | 14875 | 1.7 | /mnt/stockage/packages/f8/gnome-user-docs/gnome2-accessibility-guide/el/el.po/mnt/stockage/packages/f8/gnome-user-docs/gnome2-user-guide/el/el.po | 
 {.sortable}
 
 

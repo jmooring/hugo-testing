@@ -18,65 +18,65 @@ The package kbounce (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/ca/kbounce.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/ca@valencia/kbounce.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/cs/kbounce.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/de/kbounce.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/el/kbounce.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/en_GB/kbounce.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/es/kbounce.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/eu/kbounce.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/fi/kbounce.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/fr/kbounce.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/it/kbounce.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/ko/kbounce.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/nl/kbounce.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/nn/kbounce.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/pl/kbounce.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/pt/kbounce.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/pt_BR/kbounce.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sk/kbounce.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sl/kbounce.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sr/kbounce.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sv/kbounce.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/uk/kbounce.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/zh_CN/kbounce.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/bs/kbounce.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/da/kbounce.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/et/kbounce.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/gl/kbounce.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/hu/kbounce.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/id/kbounce.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/kk/kbounce.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/nb/kbounce.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/nds/kbounce.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/ru/kbounce.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/tr/kbounce.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/zh_TW/kbounce.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/bg/kbounce.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/ga/kbounce.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/km/kbounce.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/lt/kbounce.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/lv/kbounce.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 117 | 153 | 76.5 | /mnt/stockage/packages/f35/kbounce/po/ja/kbounce.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 110 | 153 | 71.9 | /mnt/stockage/packages/f35/kbounce/po/ro/kbounce.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 110 | 153 | 71.9 | /mnt/stockage/packages/f35/kbounce/po/sq/kbounce.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 103 | 153 | 67.3 | /mnt/stockage/packages/f35/kbounce/po/fa/kbounce.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 103 | 153 | 67.3 | /mnt/stockage/packages/f35/kbounce/po/ml/kbounce.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 97 | 153 | 63.4 | /mnt/stockage/packages/f35/kbounce/po/eo/kbounce.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 86 | 153 | 56.2 | /mnt/stockage/packages/f35/kbounce/po/ar/kbounce.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 86 | 153 | 56.2 | /mnt/stockage/packages/f35/kbounce/po/hi/kbounce.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 74 | 153 | 48.4 | /mnt/stockage/packages/f35/kbounce/po/be/kbounce.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 74 | 153 | 48.4 | /mnt/stockage/packages/f35/kbounce/po/pa/kbounce.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 42 | 153 | 27.5 | /mnt/stockage/packages/f35/kbounce/po/ta/kbounce.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 42 | 153 | 27.5 | /mnt/stockage/packages/f35/kbounce/po/ug/kbounce.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 41 | 153 | 26.8 | /mnt/stockage/packages/f35/kbounce/po/se/kbounce.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/he/kbounce.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/hr/kbounce.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/is/kbounce.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/tg/kbounce.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 32 | 153 | 20.9 | /mnt/stockage/packages/f35/kbounce/po/mr/kbounce.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 26 | 153 | 17.0 | /mnt/stockage/packages/f35/kbounce/po/vi/kbounce.po | 
+ | [ca](/f35/language/ca) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/ca/kbounce.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/ca@valencia/kbounce.po | 
+ | [cs](/f35/language/cs) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/cs/kbounce.po | 
+ | [de](/f35/language/de) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/de/kbounce.po | 
+ | [el](/f35/language/el) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/el/kbounce.po | 
+ | [en_GB](/f35/language/en_GB) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/en_GB/kbounce.po | 
+ | [es](/f35/language/es) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/es/kbounce.po | 
+ | [eu](/f35/language/eu) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/eu/kbounce.po | 
+ | [fi](/f35/language/fi) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/fi/kbounce.po | 
+ | [fr](/f35/language/fr) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/fr/kbounce.po | 
+ | [it](/f35/language/it) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/it/kbounce.po | 
+ | [ko](/f35/language/ko) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/ko/kbounce.po | 
+ | [nl](/f35/language/nl) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/nl/kbounce.po | 
+ | [nn](/f35/language/nn) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/nn/kbounce.po | 
+ | [pl](/f35/language/pl) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/pl/kbounce.po | 
+ | [pt](/f35/language/pt) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/pt/kbounce.po | 
+ | [pt_BR](/f35/language/pt_BR) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/pt_BR/kbounce.po | 
+ | [sk](/f35/language/sk) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sk/kbounce.po | 
+ | [sl](/f35/language/sl) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sl/kbounce.po | 
+ | [sr](/f35/language/sr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sr/kbounce.po | 
+ | [sv](/f35/language/sv) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/sv/kbounce.po | 
+ | [uk](/f35/language/uk) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/uk/kbounce.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 153 | 153 | 100.0 | /mnt/stockage/packages/f35/kbounce/po/zh_CN/kbounce.po | 
+ | [bs](/f35/language/bs) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/bs/kbounce.po | 
+ | [da](/f35/language/da) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/da/kbounce.po | 
+ | [et](/f35/language/et) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/et/kbounce.po | 
+ | [gl](/f35/language/gl) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/gl/kbounce.po | 
+ | [hu](/f35/language/hu) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/hu/kbounce.po | 
+ | [id](/f35/language/id) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/id/kbounce.po | 
+ | [kk](/f35/language/kk) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/kk/kbounce.po | 
+ | [nb_NO](/f35/language/nb_NO) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/nb/kbounce.po | 
+ | [nds](/f35/language/nds) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/nds/kbounce.po | 
+ | [ru](/f35/language/ru) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/ru/kbounce.po | 
+ | [tr](/f35/language/tr) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/tr/kbounce.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 150 | 153 | 98.0 | /mnt/stockage/packages/f35/kbounce/po/zh_TW/kbounce.po | 
+ | [bg](/f35/language/bg) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/bg/kbounce.po | 
+ | [ga](/f35/language/ga) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/ga/kbounce.po | 
+ | [km](/f35/language/km) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/km/kbounce.po | 
+ | [lt](/f35/language/lt) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/lt/kbounce.po | 
+ | [lv](/f35/language/lv) | 146 | 153 | 95.4 | /mnt/stockage/packages/f35/kbounce/po/lv/kbounce.po | 
+ | [ja](/f35/language/ja) | 117 | 153 | 76.5 | /mnt/stockage/packages/f35/kbounce/po/ja/kbounce.po | 
+ | [ro](/f35/language/ro) | 110 | 153 | 71.9 | /mnt/stockage/packages/f35/kbounce/po/ro/kbounce.po | 
+ | [sq](/f35/language/sq) | 110 | 153 | 71.9 | /mnt/stockage/packages/f35/kbounce/po/sq/kbounce.po | 
+ | [fa](/f35/language/fa) | 103 | 153 | 67.3 | /mnt/stockage/packages/f35/kbounce/po/fa/kbounce.po | 
+ | [ml](/f35/language/ml) | 103 | 153 | 67.3 | /mnt/stockage/packages/f35/kbounce/po/ml/kbounce.po | 
+ | [eo](/f35/language/eo) | 97 | 153 | 63.4 | /mnt/stockage/packages/f35/kbounce/po/eo/kbounce.po | 
+ | [ar](/f35/language/ar) | 86 | 153 | 56.2 | /mnt/stockage/packages/f35/kbounce/po/ar/kbounce.po | 
+ | [hi](/f35/language/hi) | 86 | 153 | 56.2 | /mnt/stockage/packages/f35/kbounce/po/hi/kbounce.po | 
+ | [be](/f35/language/be) | 74 | 153 | 48.4 | /mnt/stockage/packages/f35/kbounce/po/be/kbounce.po | 
+ | [pa](/f35/language/pa) | 74 | 153 | 48.4 | /mnt/stockage/packages/f35/kbounce/po/pa/kbounce.po | 
+ | [ta](/f35/language/ta) | 42 | 153 | 27.5 | /mnt/stockage/packages/f35/kbounce/po/ta/kbounce.po | 
+ | [ug](/f35/language/ug) | 42 | 153 | 27.5 | /mnt/stockage/packages/f35/kbounce/po/ug/kbounce.po | 
+ | [se](/f35/language/se) | 41 | 153 | 26.8 | /mnt/stockage/packages/f35/kbounce/po/se/kbounce.po | 
+ | [he](/f35/language/he) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/he/kbounce.po | 
+ | [hr](/f35/language/hr) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/hr/kbounce.po | 
+ | [is](/f35/language/is) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/is/kbounce.po | 
+ | [tg](/f35/language/tg) | 40 | 153 | 26.1 | /mnt/stockage/packages/f35/kbounce/po/tg/kbounce.po | 
+ | [mr](/f35/language/mr) | 32 | 153 | 20.9 | /mnt/stockage/packages/f35/kbounce/po/mr/kbounce.po | 
+ | [vi](/f35/language/vi) | 26 | 153 | 17.0 | /mnt/stockage/packages/f35/kbounce/po/vi/kbounce.po | 
 {.sortable}
 
 

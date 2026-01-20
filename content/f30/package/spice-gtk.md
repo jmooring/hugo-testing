@@ -18,10 +18,10 @@ The package spice-gtk (version 0.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f30/spice-gtk/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 265 | 336 | 78.9 | /mnt/stockage/packages/f30/spice-gtk/po/de.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 248 | 336 | 73.8 | /mnt/stockage/packages/f30/spice-gtk/po/it.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 2 | 336 | 0.6 | /mnt/stockage/packages/f30/spice-gtk/po/fr.po | 
+ | [cs](/f30/language/cs) | 336 | 336 | 100.0 | /mnt/stockage/packages/f30/spice-gtk/po/cs.po | 
+ | [de](/f30/language/de) | 265 | 336 | 78.9 | /mnt/stockage/packages/f30/spice-gtk/po/de.po | 
+ | [it](/f30/language/it) | 248 | 336 | 73.8 | /mnt/stockage/packages/f30/spice-gtk/po/it.po | 
+ | [fr](/f30/language/fr) | 2 | 336 | 0.6 | /mnt/stockage/packages/f30/spice-gtk/po/fr.po | 
 {.sortable}
 
 

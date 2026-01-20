@@ -18,39 +18,39 @@ The package kronometer (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ca/kronometer.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ca@valencia/kronometer.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/cs/kronometer.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/de/kronometer.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/es/kronometer.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/eu/kronometer.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/fi/kronometer.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/fr/kronometer.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ia/kronometer.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/it/kronometer.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ko/kronometer.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/nl/kronometer.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/nn/kronometer.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/pl/kronometer.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/pt_BR/kronometer.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ru/kronometer.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/sl/kronometer.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/sv/kronometer.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/uk/kronometer.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/zh_CN/kronometer.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 230 | 233 | 98.7 | /mnt/stockage/packages/f39/kronometer/po/et/kronometer.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 221 | 233 | 94.8 | /mnt/stockage/packages/f39/kronometer/po/el/kronometer.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/da/kronometer.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/en_GB/kronometer.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/gl/kronometer.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/pt/kronometer.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/sk/kronometer.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/tr/kronometer.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 171 | 233 | 73.4 | /mnt/stockage/packages/f39/kronometer/po/ka/kronometer.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 70 | 233 | 30.0 | /mnt/stockage/packages/f39/kronometer/po/bs/kronometer.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 66 | 233 | 28.3 | /mnt/stockage/packages/f39/kronometer/po/ast/kronometer.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 48 | 233 | 20.6 | /mnt/stockage/packages/f39/kronometer/po/nds/kronometer.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 10 | 233 | 4.3 | /mnt/stockage/packages/f39/kronometer/po/hu/kronometer.po | 
+ | [ca](/f39/language/ca) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ca/kronometer.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ca@valencia/kronometer.po | 
+ | [cs](/f39/language/cs) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/cs/kronometer.po | 
+ | [de](/f39/language/de) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/de/kronometer.po | 
+ | [es](/f39/language/es) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/es/kronometer.po | 
+ | [eu](/f39/language/eu) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/eu/kronometer.po | 
+ | [fi](/f39/language/fi) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/fi/kronometer.po | 
+ | [fr](/f39/language/fr) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/fr/kronometer.po | 
+ | [ia](/f39/language/ia) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ia/kronometer.po | 
+ | [it](/f39/language/it) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/it/kronometer.po | 
+ | [ko](/f39/language/ko) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ko/kronometer.po | 
+ | [nl](/f39/language/nl) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/nl/kronometer.po | 
+ | [nn](/f39/language/nn) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/nn/kronometer.po | 
+ | [pl](/f39/language/pl) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/pl/kronometer.po | 
+ | [pt_BR](/f39/language/pt_BR) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/pt_BR/kronometer.po | 
+ | [ru](/f39/language/ru) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/ru/kronometer.po | 
+ | [sl](/f39/language/sl) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/sl/kronometer.po | 
+ | [sv](/f39/language/sv) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/sv/kronometer.po | 
+ | [uk](/f39/language/uk) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/uk/kronometer.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 233 | 233 | 100.0 | /mnt/stockage/packages/f39/kronometer/po/zh_CN/kronometer.po | 
+ | [et](/f39/language/et) | 230 | 233 | 98.7 | /mnt/stockage/packages/f39/kronometer/po/et/kronometer.po | 
+ | [el](/f39/language/el) | 221 | 233 | 94.8 | /mnt/stockage/packages/f39/kronometer/po/el/kronometer.po | 
+ | [da](/f39/language/da) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/da/kronometer.po | 
+ | [en_GB](/f39/language/en_GB) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/en_GB/kronometer.po | 
+ | [gl](/f39/language/gl) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/gl/kronometer.po | 
+ | [pt](/f39/language/pt) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/pt/kronometer.po | 
+ | [sk](/f39/language/sk) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/sk/kronometer.po | 
+ | [tr](/f39/language/tr) | 218 | 233 | 93.6 | /mnt/stockage/packages/f39/kronometer/po/tr/kronometer.po | 
+ | [ka](/f39/language/ka) | 171 | 233 | 73.4 | /mnt/stockage/packages/f39/kronometer/po/ka/kronometer.po | 
+ | [bs](/f39/language/bs) | 70 | 233 | 30.0 | /mnt/stockage/packages/f39/kronometer/po/bs/kronometer.po | 
+ | [ast](/f39/language/ast) | 66 | 233 | 28.3 | /mnt/stockage/packages/f39/kronometer/po/ast/kronometer.po | 
+ | [nds](/f39/language/nds) | 48 | 233 | 20.6 | /mnt/stockage/packages/f39/kronometer/po/nds/kronometer.po | 
+ | [hu](/f39/language/hu) | 10 | 233 | 4.3 | /mnt/stockage/packages/f39/kronometer/po/hu/kronometer.po | 
 {.sortable}
 
 

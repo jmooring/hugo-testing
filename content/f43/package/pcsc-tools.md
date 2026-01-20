@@ -18,8 +18,8 @@ The package pcsc-tools (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 284 | 291 | 97.6 | /mnt/stockage/packages/f43/pcsc-tools/po/ru.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 238 | 291 | 81.8 | /mnt/stockage/packages/f43/pcsc-tools/po/fr.po | 
+ | [ru](/f43/language/ru) | 284 | 291 | 97.6 | /mnt/stockage/packages/f43/pcsc-tools/po/ru.po | 
+ | [fr](/f43/language/fr) | 238 | 291 | 81.8 | /mnt/stockage/packages/f43/pcsc-tools/po/fr.po | 
 {.sortable}
 
 

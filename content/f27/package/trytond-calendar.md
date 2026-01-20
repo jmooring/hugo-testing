@@ -18,26 +18,26 @@ The package trytond-calendar (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/ca_ES.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/de_DE.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_ES.po | 
- | [es_AR]({{< ref "/f27/language/es_AR.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_AR.po | 
- | [es_CO]({{< ref "/f27/language/es_CO.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_CO.po | 
- | [es_EC]({{< ref "/f27/language/es_EC.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_EC.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/fr_FR.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/pt_BR.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/sl_SI.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 613 | 621 | 98.7 | /mnt/stockage/packages/f27/trytond-calendar/locale/ru_RU.po | 
- | [es_MX]({{< ref "/f27/language/es_MX.md" >}}) | 582 | 621 | 93.7 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_MX.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 256 | 621 | 41.2 | /mnt/stockage/packages/f27/trytond-calendar/locale/bg_BG.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/cs_CZ.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/hu_HU.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/it_IT.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/ja_JP.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/lo_LA.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/lt_LT.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/zh_CN.po | 
+ | [ca](/f27/language/ca) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/ca_ES.po | 
+ | [de](/f27/language/de) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/de_DE.po | 
+ | [es](/f27/language/es) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_ES.po | 
+ | [es_AR](/f27/language/es_AR) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_AR.po | 
+ | [es_CO](/f27/language/es_CO) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_CO.po | 
+ | [es_EC](/f27/language/es_EC) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_EC.po | 
+ | [fr](/f27/language/fr) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/fr_FR.po | 
+ | [pt_BR](/f27/language/pt_BR) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/pt_BR.po | 
+ | [sl](/f27/language/sl) | 621 | 621 | 100.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/sl_SI.po | 
+ | [ru](/f27/language/ru) | 613 | 621 | 98.7 | /mnt/stockage/packages/f27/trytond-calendar/locale/ru_RU.po | 
+ | [es_MX](/f27/language/es_MX) | 582 | 621 | 93.7 | /mnt/stockage/packages/f27/trytond-calendar/locale/es_MX.po | 
+ | [bg](/f27/language/bg) | 256 | 621 | 41.2 | /mnt/stockage/packages/f27/trytond-calendar/locale/bg_BG.po | 
+ | [cs](/f27/language/cs) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/cs_CZ.po | 
+ | [hu](/f27/language/hu) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/hu_HU.po | 
+ | [it](/f27/language/it) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/it_IT.po | 
+ | [ja](/f27/language/ja) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/ja_JP.po | 
+ | [lo](/f27/language/lo) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/lo_LA.po | 
+ | [lt](/f27/language/lt) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/lt_LT.po | 
+ | [nl](/f27/language/nl) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/nl_NL.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 0 | 621 | 0.0 | /mnt/stockage/packages/f27/trytond-calendar/locale/zh_CN.po | 
 {.sortable}
 
 

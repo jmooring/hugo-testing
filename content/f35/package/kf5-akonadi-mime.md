@@ -18,50 +18,50 @@ The package kf5-akonadi-mime (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f35/language/az.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/az/libakonadi-kmime5.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ca/libakonadi-kmime5.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ca@valencia/libakonadi-kmime5.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/cs/libakonadi-kmime5.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/en_GB/libakonadi-kmime5.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/es/libakonadi-kmime5.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/eu/libakonadi-kmime5.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/fi/libakonadi-kmime5.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/fr/libakonadi-kmime5.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/hu/libakonadi-kmime5.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ia/libakonadi-kmime5.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/it/libakonadi-kmime5.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ko/libakonadi-kmime5.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nl/libakonadi-kmime5.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/pl/libakonadi-kmime5.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/pt_BR/libakonadi-kmime5.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ru/libakonadi-kmime5.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sk/libakonadi-kmime5.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sl/libakonadi-kmime5.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sv/libakonadi-kmime5.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/uk/libakonadi-kmime5.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/zh_CN/libakonadi-kmime5.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/da/libakonadi-kmime5.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/de/libakonadi-kmime5.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/el/libakonadi-kmime5.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/et/libakonadi-kmime5.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nn/libakonadi-kmime5.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/pt/libakonadi-kmime5.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/zh_TW/libakonadi-kmime5.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 559 | 567 | 98.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sr/libakonadi-kmime5.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 559 | 569 | 98.2 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/gl/libakonadi-kmime5.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 559 | 569 | 98.2 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/tr/libakonadi-kmime5.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/bs/libakonadi-kmime5.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/kk/libakonadi-kmime5.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/lt/libakonadi-kmime5.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nb/libakonadi-kmime5.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nds/libakonadi-kmime5.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 304 | 569 | 53.4 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ar/libakonadi-kmime5.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 282 | 569 | 49.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ro/libakonadi-kmime5.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 279 | 569 | 49.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/km/libakonadi-kmime5.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 112 | 569 | 19.7 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ga/libakonadi-kmime5.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 104 | 569 | 18.3 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ug/libakonadi-kmime5.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 91 | 569 | 16.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/mr/libakonadi-kmime5.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 0 | 569 | 0.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ja/libakonadi-kmime5.po | 
+ | [az](/f35/language/az) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/az/libakonadi-kmime5.po | 
+ | [ca](/f35/language/ca) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ca/libakonadi-kmime5.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ca@valencia/libakonadi-kmime5.po | 
+ | [cs](/f35/language/cs) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/cs/libakonadi-kmime5.po | 
+ | [en_GB](/f35/language/en_GB) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/en_GB/libakonadi-kmime5.po | 
+ | [es](/f35/language/es) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/es/libakonadi-kmime5.po | 
+ | [eu](/f35/language/eu) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/eu/libakonadi-kmime5.po | 
+ | [fi](/f35/language/fi) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/fi/libakonadi-kmime5.po | 
+ | [fr](/f35/language/fr) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/fr/libakonadi-kmime5.po | 
+ | [hu](/f35/language/hu) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/hu/libakonadi-kmime5.po | 
+ | [ia](/f35/language/ia) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ia/libakonadi-kmime5.po | 
+ | [it](/f35/language/it) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/it/libakonadi-kmime5.po | 
+ | [ko](/f35/language/ko) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ko/libakonadi-kmime5.po | 
+ | [nl](/f35/language/nl) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nl/libakonadi-kmime5.po | 
+ | [pl](/f35/language/pl) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/pl/libakonadi-kmime5.po | 
+ | [pt_BR](/f35/language/pt_BR) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/pt_BR/libakonadi-kmime5.po | 
+ | [ru](/f35/language/ru) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ru/libakonadi-kmime5.po | 
+ | [sk](/f35/language/sk) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sk/libakonadi-kmime5.po | 
+ | [sl](/f35/language/sl) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sl/libakonadi-kmime5.po | 
+ | [sv](/f35/language/sv) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sv/libakonadi-kmime5.po | 
+ | [uk](/f35/language/uk) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/uk/libakonadi-kmime5.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 569 | 569 | 100.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/zh_CN/libakonadi-kmime5.po | 
+ | [da](/f35/language/da) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/da/libakonadi-kmime5.po | 
+ | [de](/f35/language/de) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/de/libakonadi-kmime5.po | 
+ | [el](/f35/language/el) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/el/libakonadi-kmime5.po | 
+ | [et](/f35/language/et) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/et/libakonadi-kmime5.po | 
+ | [nn](/f35/language/nn) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nn/libakonadi-kmime5.po | 
+ | [pt](/f35/language/pt) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/pt/libakonadi-kmime5.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 567 | 569 | 99.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/zh_TW/libakonadi-kmime5.po | 
+ | [sr](/f35/language/sr) | 559 | 567 | 98.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/sr/libakonadi-kmime5.po | 
+ | [gl](/f35/language/gl) | 559 | 569 | 98.2 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/gl/libakonadi-kmime5.po | 
+ | [tr](/f35/language/tr) | 559 | 569 | 98.2 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/tr/libakonadi-kmime5.po | 
+ | [bs](/f35/language/bs) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/bs/libakonadi-kmime5.po | 
+ | [kk](/f35/language/kk) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/kk/libakonadi-kmime5.po | 
+ | [lt](/f35/language/lt) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/lt/libakonadi-kmime5.po | 
+ | [nb_NO](/f35/language/nb_NO) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nb/libakonadi-kmime5.po | 
+ | [nds](/f35/language/nds) | 521 | 569 | 91.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/nds/libakonadi-kmime5.po | 
+ | [ar](/f35/language/ar) | 304 | 569 | 53.4 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ar/libakonadi-kmime5.po | 
+ | [ro](/f35/language/ro) | 282 | 569 | 49.6 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ro/libakonadi-kmime5.po | 
+ | [km](/f35/language/km) | 279 | 569 | 49.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/km/libakonadi-kmime5.po | 
+ | [ga](/f35/language/ga) | 112 | 569 | 19.7 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ga/libakonadi-kmime5.po | 
+ | [ug](/f35/language/ug) | 104 | 569 | 18.3 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ug/libakonadi-kmime5.po | 
+ | [mr](/f35/language/mr) | 91 | 569 | 16.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/mr/libakonadi-kmime5.po | 
+ | [ja](/f35/language/ja) | 0 | 569 | 0.0 | /mnt/stockage/packages/f35/kf5-akonadi-mime/po/ja/libakonadi-kmime5.po | 
 {.sortable}
 
 

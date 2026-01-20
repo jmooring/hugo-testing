@@ -18,24 +18,24 @@ The package apostrophe (version 2.2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f31/language/es.md" >}}) | 345 | 491 | 70.3 | /mnt/stockage/packages/f31/apostrophe/po/es.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 345 | 491 | 70.3 | /mnt/stockage/packages/f31/apostrophe/po/pt_BR.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 345 | 491 | 70.3 | /mnt/stockage/packages/f31/apostrophe/po/tr.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 332 | 491 | 67.6 | /mnt/stockage/packages/f31/apostrophe/po/fr.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 209 | 491 | 42.6 | /mnt/stockage/packages/f31/apostrophe/po/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 174 | 491 | 35.4 | /mnt/stockage/packages/f31/apostrophe/po/it.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 174 | 491 | 35.4 | /mnt/stockage/packages/f31/apostrophe/po/ru.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 160 | 491 | 32.6 | /mnt/stockage/packages/f31/apostrophe/po/ca_ES.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 135 | 491 | 27.5 | /mnt/stockage/packages/f31/apostrophe/po/pl.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 113 | 491 | 23.0 | /mnt/stockage/packages/f31/apostrophe/po/sv.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 102 | 491 | 20.8 | /mnt/stockage/packages/f31/apostrophe/po/en_GB.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 102 | 491 | 20.8 | /mnt/stockage/packages/f31/apostrophe/po/si.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 102 | 491 | 20.8 | /mnt/stockage/packages/f31/apostrophe/po/zh_TW.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 97 | 491 | 19.8 | /mnt/stockage/packages/f31/apostrophe/po/eu.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 93 | 491 | 18.9 | /mnt/stockage/packages/f31/apostrophe/po/zh_CN.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 85 | 491 | 17.3 | /mnt/stockage/packages/f31/apostrophe/po/hu.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 1 | 491 | 0.2 | /mnt/stockage/packages/f31/apostrophe/po/cs.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 0 | 491 | 0.0 | /mnt/stockage/packages/f31/apostrophe/po/vi.po | 
+ | [es](/f31/language/es) | 345 | 491 | 70.3 | /mnt/stockage/packages/f31/apostrophe/po/es.po | 
+ | [pt_BR](/f31/language/pt_BR) | 345 | 491 | 70.3 | /mnt/stockage/packages/f31/apostrophe/po/pt_BR.po | 
+ | [tr](/f31/language/tr) | 345 | 491 | 70.3 | /mnt/stockage/packages/f31/apostrophe/po/tr.po | 
+ | [fr](/f31/language/fr) | 332 | 491 | 67.6 | /mnt/stockage/packages/f31/apostrophe/po/fr.po | 
+ | [de](/f31/language/de) | 209 | 491 | 42.6 | /mnt/stockage/packages/f31/apostrophe/po/de.po | 
+ | [it](/f31/language/it) | 174 | 491 | 35.4 | /mnt/stockage/packages/f31/apostrophe/po/it.po | 
+ | [ru](/f31/language/ru) | 174 | 491 | 35.4 | /mnt/stockage/packages/f31/apostrophe/po/ru.po | 
+ | [ca](/f31/language/ca) | 160 | 491 | 32.6 | /mnt/stockage/packages/f31/apostrophe/po/ca_ES.po | 
+ | [pl](/f31/language/pl) | 135 | 491 | 27.5 | /mnt/stockage/packages/f31/apostrophe/po/pl.po | 
+ | [sv](/f31/language/sv) | 113 | 491 | 23.0 | /mnt/stockage/packages/f31/apostrophe/po/sv.po | 
+ | [en_GB](/f31/language/en_GB) | 102 | 491 | 20.8 | /mnt/stockage/packages/f31/apostrophe/po/en_GB.po | 
+ | [si](/f31/language/si) | 102 | 491 | 20.8 | /mnt/stockage/packages/f31/apostrophe/po/si.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 102 | 491 | 20.8 | /mnt/stockage/packages/f31/apostrophe/po/zh_TW.po | 
+ | [eu](/f31/language/eu) | 97 | 491 | 19.8 | /mnt/stockage/packages/f31/apostrophe/po/eu.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 93 | 491 | 18.9 | /mnt/stockage/packages/f31/apostrophe/po/zh_CN.po | 
+ | [hu](/f31/language/hu) | 85 | 491 | 17.3 | /mnt/stockage/packages/f31/apostrophe/po/hu.po | 
+ | [cs](/f31/language/cs) | 1 | 491 | 0.2 | /mnt/stockage/packages/f31/apostrophe/po/cs.po | 
+ | [vi](/f31/language/vi) | 0 | 491 | 0.0 | /mnt/stockage/packages/f31/apostrophe/po/vi.po | 
 {.sortable}
 
 

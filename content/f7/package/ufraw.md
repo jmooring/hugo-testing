@@ -18,14 +18,14 @@ The package ufraw (version 0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f7/language/da.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/da.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/fr.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/ko.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/pl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/ru.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1381 | 1675 | 82.4 | /mnt/stockage/packages/f7/ufraw/po/pt.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1222 | 1675 | 73.0 | /mnt/stockage/packages/f7/ufraw/po/ja.po | 
+ | [da](/f7/language/da) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/da.po | 
+ | [es](/f7/language/es) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/es.po | 
+ | [fr](/f7/language/fr) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/fr.po | 
+ | [ko](/f7/language/ko) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/ko.po | 
+ | [pl](/f7/language/pl) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/pl.po | 
+ | [ru](/f7/language/ru) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f7/ufraw/po/ru.po | 
+ | [pt](/f7/language/pt) | 1381 | 1675 | 82.4 | /mnt/stockage/packages/f7/ufraw/po/pt.po | 
+ | [ja](/f7/language/ja) | 1222 | 1675 | 73.0 | /mnt/stockage/packages/f7/ufraw/po/ja.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package tumbler (version 0.1.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/en_GB.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ja.po | 
- | [kk]({{< ref "/f15/language/kk.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/kk.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/nb.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/pt.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/zh_TW.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 280 | 293 | 95.6 | /mnt/stockage/packages/f15/tumbler/po/ug.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 245 | 293 | 83.6 | /mnt/stockage/packages/f15/tumbler/po/bn.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 185 | 293 | 63.1 | /mnt/stockage/packages/f15/tumbler/po/pl.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 172 | 293 | 58.7 | /mnt/stockage/packages/f15/tumbler/po/ar.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 165 | 293 | 56.3 | /mnt/stockage/packages/f15/tumbler/po/ast.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 165 | 293 | 56.3 | /mnt/stockage/packages/f15/tumbler/po/lv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 116 | 293 | 39.6 | /mnt/stockage/packages/f15/tumbler/po/tr.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 55 | 293 | 18.8 | /mnt/stockage/packages/f15/tumbler/po/pa.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 51 | 293 | 17.4 | /mnt/stockage/packages/f15/tumbler/po/pt_BR.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 1 | 293 | 0.3 | /mnt/stockage/packages/f15/tumbler/po/si.po | 
+ | [ca](/f15/language/ca) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ca.po | 
+ | [cs](/f15/language/cs) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/cs.po | 
+ | [da](/f15/language/da) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/da.po | 
+ | [de](/f15/language/de) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/de.po | 
+ | [el](/f15/language/el) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/en_GB.po | 
+ | [eu](/f15/language/eu) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/eu.po | 
+ | [fi](/f15/language/fi) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/fi.po | 
+ | [fr](/f15/language/fr) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/fr.po | 
+ | [gl](/f15/language/gl) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/gl.po | 
+ | [he](/f15/language/he) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/he.po | 
+ | [hu](/f15/language/hu) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/hu.po | 
+ | [id](/f15/language/id) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/id.po | 
+ | [it](/f15/language/it) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/it.po | 
+ | [ja](/f15/language/ja) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ja.po | 
+ | [kk](/f15/language/kk) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/kk.po | 
+ | [nb_NO](/f15/language/nb_NO) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/nb.po | 
+ | [pt](/f15/language/pt) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/pt.po | 
+ | [ro](/f15/language/ro) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ro.po | 
+ | [ru](/f15/language/ru) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/ru.po | 
+ | [sv](/f15/language/sv) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/sv.po | 
+ | [uk](/f15/language/uk) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 293 | 293 | 100.0 | /mnt/stockage/packages/f15/tumbler/po/zh_TW.po | 
+ | [ug](/f15/language/ug) | 280 | 293 | 95.6 | /mnt/stockage/packages/f15/tumbler/po/ug.po | 
+ | [bn](/f15/language/bn) | 245 | 293 | 83.6 | /mnt/stockage/packages/f15/tumbler/po/bn.po | 
+ | [pl](/f15/language/pl) | 185 | 293 | 63.1 | /mnt/stockage/packages/f15/tumbler/po/pl.po | 
+ | [ar](/f15/language/ar) | 172 | 293 | 58.7 | /mnt/stockage/packages/f15/tumbler/po/ar.po | 
+ | [ast](/f15/language/ast) | 165 | 293 | 56.3 | /mnt/stockage/packages/f15/tumbler/po/ast.po | 
+ | [lv](/f15/language/lv) | 165 | 293 | 56.3 | /mnt/stockage/packages/f15/tumbler/po/lv.po | 
+ | [tr](/f15/language/tr) | 116 | 293 | 39.6 | /mnt/stockage/packages/f15/tumbler/po/tr.po | 
+ | [pa](/f15/language/pa) | 55 | 293 | 18.8 | /mnt/stockage/packages/f15/tumbler/po/pa.po | 
+ | [pt_BR](/f15/language/pt_BR) | 51 | 293 | 17.4 | /mnt/stockage/packages/f15/tumbler/po/pt_BR.po | 
+ | [si](/f15/language/si) | 1 | 293 | 0.3 | /mnt/stockage/packages/f15/tumbler/po/si.po | 
 {.sortable}
 
 

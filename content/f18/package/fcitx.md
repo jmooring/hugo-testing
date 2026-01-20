@@ -18,11 +18,11 @@ The package fcitx (version 4.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 3165 | 3165 | 100.0 | /mnt/stockage/packages/f18/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 2538 | 3165 | 80.2 | /mnt/stockage/packages/f18/fcitx/po/zh_TW.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2523 | 3165 | 79.7 | /mnt/stockage/packages/f18/fcitx/po/de.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 2492 | 3165 | 78.7 | /mnt/stockage/packages/f18/fcitx/po/ja.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 193 | 3165 | 6.1 | /mnt/stockage/packages/f18/fcitx/po/es.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 3165 | 3165 | 100.0 | /mnt/stockage/packages/f18/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 2538 | 3165 | 80.2 | /mnt/stockage/packages/f18/fcitx/po/zh_TW.po | 
+ | [de](/f18/language/de) | 2523 | 3165 | 79.7 | /mnt/stockage/packages/f18/fcitx/po/de.po | 
+ | [ja](/f18/language/ja) | 2492 | 3165 | 78.7 | /mnt/stockage/packages/f18/fcitx/po/ja.po | 
+ | [es](/f18/language/es) | 193 | 3165 | 6.1 | /mnt/stockage/packages/f18/fcitx/po/es.po | 
 {.sortable}
 
 

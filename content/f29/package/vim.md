@@ -18,34 +18,34 @@ The package vim (version 8.1.2198):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f29/language/af.md" >}}) | 6618 | 6618 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/af.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 9948 | 9948 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 5787 | 5787 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 10135 | 10135 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 10617 | 10617 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/de.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/en_GB.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 10597 | 10597 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/eo.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 8333 | 8333 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/es.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 9990 | 9990 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 10418 | 10418 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/fr.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 9948 | 9948 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ga.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 10425 | 10425 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 31443 | 31443 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ja.euc-jp.po/mnt/stockage/packages/f29/vim/src/po/ja.sjis.po/mnt/stockage/packages/f29/vim/src/po/ja.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 9456 | 9456 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ko.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/lv.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 15974 | 15974 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/no.po/mnt/stockage/packages/f29/vim/src/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 5557 | 5557 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 28098 | 28098 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/pl.po/mnt/stockage/packages/f29/vim/src/po/pl.cp1250.po/mnt/stockage/packages/f29/vim/src/po/pl.UTF-8.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 9979 | 9979 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 20152 | 20152 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ru.po/mnt/stockage/packages/f29/vim/src/po/ru.cp1251.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 7803 | 7803 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/sk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 10132 | 10132 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 8131 | 8131 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/sv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 20288 | 20288 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/uk.po/mnt/stockage/packages/f29/vim/src/po/uk.cp1251.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 6612 | 6612 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/vi.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 6612 | 6612 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/zh_TW.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 45262 | 45292 | 99.9 | /mnt/stockage/packages/f29/vim/src/po/zh_CN.cp936.po/mnt/stockage/packages/f29/vim/src/po/zh_TW.UTF-8.po/mnt/stockage/packages/f29/vim/src/po/zh_CN.UTF-8.po/mnt/stockage/packages/f29/vim/src/po/cs.cp1250.po/mnt/stockage/packages/f29/vim/src/po/sk.cp1250.po/mnt/stockage/packages/f29/vim/src/po/ko.UTF-8.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 7798 | 7813 | 99.8 | /mnt/stockage/packages/f29/vim/src/po/zh_CN.po | 
+ | [af](/f29/language/af) | 6618 | 6618 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/af.po | 
+ | [ca](/f29/language/ca) | 9948 | 9948 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ca.po | 
+ | [cs](/f29/language/cs) | 5787 | 5787 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/cs.po | 
+ | [da](/f29/language/da) | 10135 | 10135 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/da.po | 
+ | [de](/f29/language/de) | 10617 | 10617 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/de.po | 
+ | [en_GB](/f29/language/en_GB) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/en_GB.po | 
+ | [eo](/f29/language/eo) | 10597 | 10597 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/eo.po | 
+ | [es](/f29/language/es) | 8333 | 8333 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/es.po | 
+ | [fi](/f29/language/fi) | 9990 | 9990 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/fi.po | 
+ | [fr](/f29/language/fr) | 10418 | 10418 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/fr.po | 
+ | [ga](/f29/language/ga) | 9948 | 9948 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ga.po | 
+ | [it](/f29/language/it) | 10425 | 10425 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/it.po | 
+ | [ja](/f29/language/ja) | 31443 | 31443 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ja.euc-jp.po/mnt/stockage/packages/f29/vim/src/po/ja.sjis.po/mnt/stockage/packages/f29/vim/src/po/ja.po | 
+ | [ko](/f29/language/ko) | 9456 | 9456 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ko.po | 
+ | [lv](/f29/language/lv) | 504 | 504 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/lv.po | 
+ | [nb_NO](/f29/language/nb_NO) | 15974 | 15974 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/no.po/mnt/stockage/packages/f29/vim/src/po/nb.po | 
+ | [nl](/f29/language/nl) | 5557 | 5557 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/nl.po | 
+ | [pl](/f29/language/pl) | 28098 | 28098 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/pl.po/mnt/stockage/packages/f29/vim/src/po/pl.cp1250.po/mnt/stockage/packages/f29/vim/src/po/pl.UTF-8.po | 
+ | [pt_BR](/f29/language/pt_BR) | 9979 | 9979 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 20152 | 20152 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/ru.po/mnt/stockage/packages/f29/vim/src/po/ru.cp1251.po | 
+ | [sk](/f29/language/sk) | 7803 | 7803 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/sk.po | 
+ | [sr](/f29/language/sr) | 10132 | 10132 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/sr.po | 
+ | [sv](/f29/language/sv) | 8131 | 8131 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/sv.po | 
+ | [uk](/f29/language/uk) | 20288 | 20288 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/uk.po/mnt/stockage/packages/f29/vim/src/po/uk.cp1251.po | 
+ | [vi](/f29/language/vi) | 6612 | 6612 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/vi.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 6612 | 6612 | 100.0 | /mnt/stockage/packages/f29/vim/src/po/zh_TW.po | 
+ | [error](/f29/language/error) | 45262 | 45292 | 99.9 | /mnt/stockage/packages/f29/vim/src/po/zh_CN.cp936.po/mnt/stockage/packages/f29/vim/src/po/zh_TW.UTF-8.po/mnt/stockage/packages/f29/vim/src/po/zh_CN.UTF-8.po/mnt/stockage/packages/f29/vim/src/po/cs.cp1250.po/mnt/stockage/packages/f29/vim/src/po/sk.cp1250.po/mnt/stockage/packages/f29/vim/src/po/ko.UTF-8.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 7798 | 7813 | 99.8 | /mnt/stockage/packages/f29/vim/src/po/zh_CN.po | 
 {.sortable}
 
 

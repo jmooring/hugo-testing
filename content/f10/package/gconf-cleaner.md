@@ -18,7 +18,7 @@ The package gconf-cleaner (version 0.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f10/gconf-cleaner/po/ja.po | 
+ | [ja](/f10/language/ja) | 208 | 208 | 100.0 | /mnt/stockage/packages/f10/gconf-cleaner/po/ja.po | 
 {.sortable}
 
 

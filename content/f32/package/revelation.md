@@ -18,24 +18,24 @@ The package revelation (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1751 | 2427 | 72.1 | /mnt/stockage/packages/f32/revelation/po/eu.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1713 | 2427 | 70.6 | /mnt/stockage/packages/f32/revelation/po/es.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1632 | 2427 | 67.2 | /mnt/stockage/packages/f32/revelation/po/nl.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/ca.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/fr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/zh.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1520 | 2427 | 62.6 | /mnt/stockage/packages/f32/revelation/po/ru.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f32/revelation/po/de.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f32/revelation/po/pl.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1411 | 2427 | 58.1 | /mnt/stockage/packages/f32/revelation/po/uk.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1409 | 2427 | 58.1 | /mnt/stockage/packages/f32/revelation/po/sv.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 971 | 2427 | 40.0 | /mnt/stockage/packages/f32/revelation/po/cs.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 759 | 2427 | 31.3 | /mnt/stockage/packages/f32/revelation/po/lt.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 747 | 2427 | 30.8 | /mnt/stockage/packages/f32/revelation/po/fi.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 500 | 2427 | 20.6 | /mnt/stockage/packages/f32/revelation/po/et.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 349 | 2427 | 14.4 | /mnt/stockage/packages/f32/revelation/po/it_IT.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 77 | 2427 | 3.2 | /mnt/stockage/packages/f32/revelation/po/sr_RS.po | 
+ | [eu](/f32/language/eu) | 1751 | 2427 | 72.1 | /mnt/stockage/packages/f32/revelation/po/eu.po | 
+ | [es](/f32/language/es) | 1713 | 2427 | 70.6 | /mnt/stockage/packages/f32/revelation/po/es.po | 
+ | [nl](/f32/language/nl) | 1632 | 2427 | 67.2 | /mnt/stockage/packages/f32/revelation/po/nl.po | 
+ | [ca](/f32/language/ca) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/ca.po | 
+ | [fr](/f32/language/fr) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/fr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/pt_BR.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1522 | 2427 | 62.7 | /mnt/stockage/packages/f32/revelation/po/zh.po | 
+ | [ru](/f32/language/ru) | 1520 | 2427 | 62.6 | /mnt/stockage/packages/f32/revelation/po/ru.po | 
+ | [de](/f32/language/de) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f32/revelation/po/de.po | 
+ | [pl](/f32/language/pl) | 1480 | 2427 | 61.0 | /mnt/stockage/packages/f32/revelation/po/pl.po | 
+ | [uk](/f32/language/uk) | 1411 | 2427 | 58.1 | /mnt/stockage/packages/f32/revelation/po/uk.po | 
+ | [sv](/f32/language/sv) | 1409 | 2427 | 58.1 | /mnt/stockage/packages/f32/revelation/po/sv.po | 
+ | [cs](/f32/language/cs) | 971 | 2427 | 40.0 | /mnt/stockage/packages/f32/revelation/po/cs.po | 
+ | [lt](/f32/language/lt) | 759 | 2427 | 31.3 | /mnt/stockage/packages/f32/revelation/po/lt.po | 
+ | [fi](/f32/language/fi) | 747 | 2427 | 30.8 | /mnt/stockage/packages/f32/revelation/po/fi.po | 
+ | [et](/f32/language/et) | 500 | 2427 | 20.6 | /mnt/stockage/packages/f32/revelation/po/et.po | 
+ | [it](/f32/language/it) | 349 | 2427 | 14.4 | /mnt/stockage/packages/f32/revelation/po/it_IT.po | 
+ | [sr](/f32/language/sr) | 77 | 2427 | 3.2 | /mnt/stockage/packages/f32/revelation/po/sr_RS.po | 
 {.sortable}
 
 

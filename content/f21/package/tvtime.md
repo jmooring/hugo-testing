@@ -18,21 +18,21 @@ The package tvtime (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1227 | 1227 | 100.0 | /mnt/stockage/packages/f21/tvtime/po/pt_BR.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/de.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/hu.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/lv.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/nn.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/pt.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/ru.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1082 | 1227 | 88.2 | /mnt/stockage/packages/f21/tvtime/po/es.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1082 | 1227 | 88.2 | /mnt/stockage/packages/f21/tvtime/po/sv.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 961 | 1227 | 78.3 | /mnt/stockage/packages/f21/tvtime/po/pl.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 753 | 1227 | 61.4 | /mnt/stockage/packages/f21/tvtime/po/ko.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 357 | 1227 | 29.1 | /mnt/stockage/packages/f21/tvtime/po/nl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1227 | 1227 | 100.0 | /mnt/stockage/packages/f21/tvtime/po/pt_BR.po | 
+ | [cs](/f21/language/cs) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/cs.po | 
+ | [de](/f21/language/de) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/de.po | 
+ | [fi](/f21/language/fi) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/fi.po | 
+ | [fr](/f21/language/fr) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/fr.po | 
+ | [hu](/f21/language/hu) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/hu.po | 
+ | [lv](/f21/language/lv) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/lv.po | 
+ | [nn](/f21/language/nn) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/nn.po | 
+ | [pt](/f21/language/pt) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/pt.po | 
+ | [ru](/f21/language/ru) | 1137 | 1227 | 92.7 | /mnt/stockage/packages/f21/tvtime/po/ru.po | 
+ | [es](/f21/language/es) | 1082 | 1227 | 88.2 | /mnt/stockage/packages/f21/tvtime/po/es.po | 
+ | [sv](/f21/language/sv) | 1082 | 1227 | 88.2 | /mnt/stockage/packages/f21/tvtime/po/sv.po | 
+ | [pl](/f21/language/pl) | 961 | 1227 | 78.3 | /mnt/stockage/packages/f21/tvtime/po/pl.po | 
+ | [ko](/f21/language/ko) | 753 | 1227 | 61.4 | /mnt/stockage/packages/f21/tvtime/po/ko.po | 
+ | [nl](/f21/language/nl) | 357 | 1227 | 29.1 | /mnt/stockage/packages/f21/tvtime/po/nl.po | 
 {.sortable}
 
 

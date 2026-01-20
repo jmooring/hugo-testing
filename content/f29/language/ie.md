@@ -38,87 +38,87 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-icon-theme]({{< ref "/f29/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-menus]({{< ref "/f29/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-themes]({{< ref "/f29/package/mate-themes.md" >}}) | 60 | 60 | 100.0 | Interlingue (http://www.transifex.com/mate/MATE/language/ie/) | 
- | [mozo]({{< ref "/f29/package/mozo.md" >}}) | 42 | 42 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [python-caja]({{< ref "/f29/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-media]({{< ref "/f29/package/mate-media.md" >}}) | 236 | 238 | 99.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [caja-extensions]({{< ref "/f29/package/caja-extensions.md" >}}) | 562 | 584 | 96.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [elementary-videos]({{< ref "/f29/package/elementary-videos.md" >}}) | 140 | 150 | 93.3 | Occidental <https://weblate.elementary.io/projects/videos/videos/ie/> | 
- | [granite]({{< ref "/f29/package/granite.md" >}}) | 120 | 150 | 80.0 | Occidental <https://l10n.elementary.io/projects/desktop/granite/ie/> | 
- | [engrampa]({{< ref "/f29/package/engrampa.md" >}}) | 1597 | 2015 | 79.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-session-manager]({{< ref "/f29/package/mate-session-manager.md" >}}) | 532 | 691 | 77.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-notification-daemon]({{< ref "/f29/package/mate-notification-daemon.md" >}}) | 101 | 139 | 72.7 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [eom]({{< ref "/f29/package/eom.md" >}}) | 1077 | 1780 | 60.5 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [elementary-greeter]({{< ref "/f29/package/elementary-greeter.md" >}}) | 41 | 76 | 53.9 | Occidental <https://weblate.elementary.io/projects/desktop/greeter/ie/> | 
- | [caja]({{< ref "/f29/package/caja.md" >}}) | 4644 | 9520 | 48.8 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [ristretto]({{< ref "/f29/package/ristretto.md" >}}) | 321 | 759 | 42.3 | Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/) | 
- | [exaile]({{< ref "/f29/package/exaile.md" >}}) | 1649 | 4068 | 40.5 | Occidental <https://hosted.weblate.org/projects/exaile/master/ie/> | 
- | [atril]({{< ref "/f29/package/atril.md" >}}) | 1489 | 3842 | 38.8 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [marco]({{< ref "/f29/package/marco.md" >}}) | 1500 | 4218 | 35.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [elementary-shortcut-overlay]({{< ref "/f29/package/elementary-shortcut-overlay.md" >}}) | 29 | 82 | 35.4 | Occidental <https://weblate.elementary.io/projects/desktop/shortcut-overlay/ie/> | 
- | [elementary-music]({{< ref "/f29/package/elementary-music.md" >}}) | 385 | 1137 | 33.9 | Occidental <https://weblate.elementary.io/projects/music/music/ie/> | 
- | [pluma]({{< ref "/f29/package/pluma.md" >}}) | 3581 | 12686 | 28.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [lollypop]({{< ref "/f29/package/lollypop.md" >}}) | 327 | 1273 | 25.7 | Occidental <https://hosted.weblate.org/projects/gnumdk/lollypop/ie/> | 
- | [mate-system-monitor]({{< ref "/f29/package/mate-system-monitor.md" >}}) | 986 | 4479 | 22.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-panel]({{< ref "/f29/package/mate-panel.md" >}}) | 1344 | 6668 | 20.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-utils]({{< ref "/f29/package/mate-utils.md" >}}) | 1761 | 10208 | 17.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-calc]({{< ref "/f29/package/mate-calc.md" >}}) | 480 | 3178 | 15.1 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-control-center]({{< ref "/f29/package/mate-control-center.md" >}}) | 1150 | 8533 | 13.5 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [gimagereader]({{< ref "/f29/package/gimagereader.md" >}}) | 173 | 1561 | 11.1 | Occidental <https://hosted.weblate.org/projects/gimagereader/translations/ie/> | 
- | [mate-applets]({{< ref "/f29/package/mate-applets.md" >}}) | 1201 | 15827 | 7.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [libmateweather]({{< ref "/f29/package/libmateweather.md" >}}) | 25 | 499 | 5.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-settings-daemon]({{< ref "/f29/package/mate-settings-daemon.md" >}}) | 61 | 1840 | 3.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-screensaver]({{< ref "/f29/package/mate-screensaver.md" >}}) | 26 | 996 | 2.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-user-admin]({{< ref "/f29/package/mate-user-admin.md" >}}) | 9 | 570 | 1.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-desktop]({{< ref "/f29/package/mate-desktop.md" >}}) | 34 | 2356 | 1.4 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [mate-power-manager]({{< ref "/f29/package/mate-power-manager.md" >}}) | 26 | 5194 | 0.5 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [zypper]({{< ref "/f29/package/zypper.md" >}}) | 26 | 9074 | 0.3 | Occidental <https://l10n.opensuse.org/projects/zypper/master/ie/> | 
- | [mate-user-guide]({{< ref "/f29/package/mate-user-guide.md" >}}) | 116 | 43188 | 0.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
- | [appcenter]({{< ref "/f29/package/appcenter.md" >}}) | 0 | 765 | 0.0 |  | 
- | [dippi]({{< ref "/f29/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-calculator]({{< ref "/f29/package/elementary-calculator.md" >}}) | 0 | 80 | 0.0 |  | 
- | [elementary-calendar]({{< ref "/f29/package/elementary-calendar.md" >}}) | 0 | 484 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-capnet-assist]({{< ref "/f29/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-code]({{< ref "/f29/package/elementary-code.md" >}}) | 0 | 812 | 0.0 |  | 
- | [elementary-files]({{< ref "/f29/package/elementary-files.md" >}}) | 0 | 2818 | 0.0 |  | 
- | [elementary-photos]({{< ref "/f29/package/elementary-photos.md" >}}) | 0 | 3775 | 0.0 |  | 
- | [elementary-screenshot-tool]({{< ref "/f29/package/elementary-screenshot-tool.md" >}}) | 0 | 129 | 0.0 |  | 
- | [elementary-terminal]({{< ref "/f29/package/elementary-terminal.md" >}}) | 0 | 286 | 0.0 |  | 
- | [ephemeral]({{< ref "/f29/package/ephemeral.md" >}}) | 0 | 1809 | 0.0 | none | 
- | [harvey]({{< ref "/f29/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [nutty]({{< ref "/f29/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f29/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f29/package/pantheon-agent-geoclue2.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f29/package/pantheon-agent-polkit.md" >}}) | 0 | 14 | 0.0 |  | 
- | [sequeler]({{< ref "/f29/package/sequeler.md" >}}) | 0 | 1352 | 0.0 |  | 
- | [switchboard]({{< ref "/f29/package/switchboard.md" >}}) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f29/package/switchboard-plug-a11y.md" >}}) | 0 | 182 | 0.0 |  | 
- | [switchboard-plug-about]({{< ref "/f29/package/switchboard-plug-about.md" >}}) | 0 | 94 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f29/package/switchboard-plug-applications.md" >}}) | 0 | 86 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f29/package/switchboard-plug-bluetooth.md" >}}) | 0 | 74 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f29/package/switchboard-plug-display.md" >}}) | 0 | 113 | 0.0 |  | 
- | [switchboard-plug-keyboard]({{< ref "/f29/package/switchboard-plug-keyboard.md" >}}) | 0 | 404 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f29/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 150 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f29/package/switchboard-plug-networking.md" >}}) | 0 | 444 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f29/package/switchboard-plug-notifications.md" >}}) | 0 | 139 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f29/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 153 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f29/package/switchboard-plug-printers.md" >}}) | 0 | 336 | 0.0 |  | 
- | [switchboard-plug-sharing]({{< ref "/f29/package/switchboard-plug-sharing.md" >}}) | 0 | 130 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f29/package/switchboard-plug-sound.md" >}}) | 0 | 131 | 0.0 |  | 
- | [vocal]({{< ref "/f29/package/vocal.md" >}}) | 0 | 0 | 0.0 |  | 
- | [wingpanel]({{< ref "/f29/package/wingpanel.md" >}}) | 0 | 6 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f29/package/wingpanel-applications-menu.md" >}}) | 0 | 222 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f29/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 15 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f29/package/wingpanel-indicator-datetime.md" >}}) | 0 | 14 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f29/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 10 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f29/package/wingpanel-indicator-network.md" >}}) | 0 | 76 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f29/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 16 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f29/package/wingpanel-indicator-notifications.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f29/package/wingpanel-indicator-power.md" >}}) | 0 | 93 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f29/package/wingpanel-indicator-session.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f29/package/wingpanel-indicator-sound.md" >}}) | 0 | 14 | 0.0 | none | 
+ | [mate-icon-theme](/f29/package/mate-icon-theme) | 4 | 4 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-menus](/f29/package/mate-menus) | 97 | 97 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-themes](/f29/package/mate-themes) | 60 | 60 | 100.0 | Interlingue (http://www.transifex.com/mate/MATE/language/ie/) | 
+ | [mozo](/f29/package/mozo) | 42 | 42 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [python-caja](/f29/package/python-caja) | 6 | 6 | 100.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-media](/f29/package/mate-media) | 236 | 238 | 99.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [caja-extensions](/f29/package/caja-extensions) | 562 | 584 | 96.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [elementary-videos](/f29/package/elementary-videos) | 140 | 150 | 93.3 | Occidental <https://weblate.elementary.io/projects/videos/videos/ie/> | 
+ | [granite](/f29/package/granite) | 120 | 150 | 80.0 | Occidental <https://l10n.elementary.io/projects/desktop/granite/ie/> | 
+ | [engrampa](/f29/package/engrampa) | 1597 | 2015 | 79.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-session-manager](/f29/package/mate-session-manager) | 532 | 691 | 77.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-notification-daemon](/f29/package/mate-notification-daemon) | 101 | 139 | 72.7 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [eom](/f29/package/eom) | 1077 | 1780 | 60.5 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [elementary-greeter](/f29/package/elementary-greeter) | 41 | 76 | 53.9 | Occidental <https://weblate.elementary.io/projects/desktop/greeter/ie/> | 
+ | [caja](/f29/package/caja) | 4644 | 9520 | 48.8 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [ristretto](/f29/package/ristretto) | 321 | 759 | 42.3 | Interlingue (http://www.transifex.com/xfce/xfce-apps/language/ie/) | 
+ | [exaile](/f29/package/exaile) | 1649 | 4068 | 40.5 | Occidental <https://hosted.weblate.org/projects/exaile/master/ie/> | 
+ | [atril](/f29/package/atril) | 1489 | 3842 | 38.8 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [marco](/f29/package/marco) | 1500 | 4218 | 35.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [elementary-shortcut-overlay](/f29/package/elementary-shortcut-overlay) | 29 | 82 | 35.4 | Occidental <https://weblate.elementary.io/projects/desktop/shortcut-overlay/ie/> | 
+ | [elementary-music](/f29/package/elementary-music) | 385 | 1137 | 33.9 | Occidental <https://weblate.elementary.io/projects/music/music/ie/> | 
+ | [pluma](/f29/package/pluma) | 3581 | 12686 | 28.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [lollypop](/f29/package/lollypop) | 327 | 1273 | 25.7 | Occidental <https://hosted.weblate.org/projects/gnumdk/lollypop/ie/> | 
+ | [mate-system-monitor](/f29/package/mate-system-monitor) | 986 | 4479 | 22.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-panel](/f29/package/mate-panel) | 1344 | 6668 | 20.2 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-utils](/f29/package/mate-utils) | 1761 | 10208 | 17.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-calc](/f29/package/mate-calc) | 480 | 3178 | 15.1 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-control-center](/f29/package/mate-control-center) | 1150 | 8533 | 13.5 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [gimagereader](/f29/package/gimagereader) | 173 | 1561 | 11.1 | Occidental <https://hosted.weblate.org/projects/gimagereader/translations/ie/> | 
+ | [mate-applets](/f29/package/mate-applets) | 1201 | 15827 | 7.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [libmateweather](/f29/package/libmateweather) | 25 | 499 | 5.0 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-settings-daemon](/f29/package/mate-settings-daemon) | 61 | 1840 | 3.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-screensaver](/f29/package/mate-screensaver) | 26 | 996 | 2.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-user-admin](/f29/package/mate-user-admin) | 9 | 570 | 1.6 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-desktop](/f29/package/mate-desktop) | 34 | 2356 | 1.4 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [mate-power-manager](/f29/package/mate-power-manager) | 26 | 5194 | 0.5 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [zypper](/f29/package/zypper) | 26 | 9074 | 0.3 | Occidental <https://l10n.opensuse.org/projects/zypper/master/ie/> | 
+ | [mate-user-guide](/f29/package/mate-user-guide) | 116 | 43188 | 0.3 | Interlingue (https://www.transifex.com/mate/teams/13566/ie/) | 
+ | [appcenter](/f29/package/appcenter) | 0 | 765 | 0.0 |  | 
+ | [dippi](/f29/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-calculator](/f29/package/elementary-calculator) | 0 | 80 | 0.0 |  | 
+ | [elementary-calendar](/f29/package/elementary-calendar) | 0 | 484 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-capnet-assist](/f29/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-code](/f29/package/elementary-code) | 0 | 812 | 0.0 |  | 
+ | [elementary-files](/f29/package/elementary-files) | 0 | 2818 | 0.0 |  | 
+ | [elementary-photos](/f29/package/elementary-photos) | 0 | 3775 | 0.0 |  | 
+ | [elementary-screenshot-tool](/f29/package/elementary-screenshot-tool) | 0 | 129 | 0.0 |  | 
+ | [elementary-terminal](/f29/package/elementary-terminal) | 0 | 286 | 0.0 |  | 
+ | [ephemeral](/f29/package/ephemeral) | 0 | 1809 | 0.0 | none | 
+ | [harvey](/f29/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [nutty](/f29/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f29/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f29/package/pantheon-agent-geoclue2) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f29/package/pantheon-agent-polkit) | 0 | 14 | 0.0 |  | 
+ | [sequeler](/f29/package/sequeler) | 0 | 1352 | 0.0 |  | 
+ | [switchboard](/f29/package/switchboard) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f29/package/switchboard-plug-a11y) | 0 | 182 | 0.0 |  | 
+ | [switchboard-plug-about](/f29/package/switchboard-plug-about) | 0 | 94 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f29/package/switchboard-plug-applications) | 0 | 86 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f29/package/switchboard-plug-bluetooth) | 0 | 74 | 0.0 | none | 
+ | [switchboard-plug-display](/f29/package/switchboard-plug-display) | 0 | 113 | 0.0 |  | 
+ | [switchboard-plug-keyboard](/f29/package/switchboard-plug-keyboard) | 0 | 404 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f29/package/switchboard-plug-mouse-touchpad) | 0 | 150 | 0.0 | none | 
+ | [switchboard-plug-networking](/f29/package/switchboard-plug-networking) | 0 | 444 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f29/package/switchboard-plug-notifications) | 0 | 139 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f29/package/switchboard-plug-pantheon-shell) | 0 | 153 | 0.0 |  | 
+ | [switchboard-plug-printers](/f29/package/switchboard-plug-printers) | 0 | 336 | 0.0 |  | 
+ | [switchboard-plug-sharing](/f29/package/switchboard-plug-sharing) | 0 | 130 | 0.0 | none | 
+ | [switchboard-plug-sound](/f29/package/switchboard-plug-sound) | 0 | 131 | 0.0 |  | 
+ | [vocal](/f29/package/vocal) | 0 | 0 | 0.0 |  | 
+ | [wingpanel](/f29/package/wingpanel) | 0 | 6 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f29/package/wingpanel-applications-menu) | 0 | 222 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f29/package/wingpanel-indicator-bluetooth) | 0 | 15 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f29/package/wingpanel-indicator-datetime) | 0 | 14 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f29/package/wingpanel-indicator-keyboard) | 0 | 10 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f29/package/wingpanel-indicator-network) | 0 | 76 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f29/package/wingpanel-indicator-nightlight) | 0 | 16 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f29/package/wingpanel-indicator-notifications) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f29/package/wingpanel-indicator-power) | 0 | 93 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f29/package/wingpanel-indicator-session) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f29/package/wingpanel-indicator-sound) | 0 | 14 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package cracklib (version 2.9.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f40/language/as.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/as.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/be.po | 
- | [bn_IN]({{< ref "/f40/language/bn_IN.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/bn_IN.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/es.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/eu.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/fr.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/hi.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ja.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/kk.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ko.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/mr.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/nl.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/or.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pa.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sl.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sq.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sv.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ta.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/te.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/zh_TW.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/el.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/gu.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/kn.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/lt.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/ml.po | 
+ | [as](/f40/language/as) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/as.po | 
+ | [be](/f40/language/be) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/be.po | 
+ | [bn_IN](/f40/language/bn_IN) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/bn_IN.po | 
+ | [ca](/f40/language/ca) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ca.po | 
+ | [cs](/f40/language/cs) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/cs.po | 
+ | [da](/f40/language/da) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/da.po | 
+ | [de](/f40/language/de) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/de.po | 
+ | [es](/f40/language/es) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/es.po | 
+ | [eu](/f40/language/eu) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/eu.po | 
+ | [fi](/f40/language/fi) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/fi.po | 
+ | [fr](/f40/language/fr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/fr.po | 
+ | [he](/f40/language/he) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/he.po | 
+ | [hi](/f40/language/hi) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/hi.po | 
+ | [hu](/f40/language/hu) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/hu.po | 
+ | [id](/f40/language/id) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/id.po | 
+ | [it](/f40/language/it) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/it.po | 
+ | [ja](/f40/language/ja) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ja.po | 
+ | [kk](/f40/language/kk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/kk.po | 
+ | [ko](/f40/language/ko) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ko.po | 
+ | [mr](/f40/language/mr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/mr.po | 
+ | [nb_NO](/f40/language/nb_NO) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/nb.po | 
+ | [nl](/f40/language/nl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/nl.po | 
+ | [or](/f40/language/or) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/or.po | 
+ | [pa](/f40/language/pa) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pa.po | 
+ | [pl](/f40/language/pl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pl.po | 
+ | [pt](/f40/language/pt) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ru.po | 
+ | [sk](/f40/language/sk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sk.po | 
+ | [sl](/f40/language/sl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sl.po | 
+ | [sq](/f40/language/sq) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sq.po | 
+ | [sv](/f40/language/sv) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/sv.po | 
+ | [ta](/f40/language/ta) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/ta.po | 
+ | [te](/f40/language/te) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/te.po | 
+ | [tr](/f40/language/tr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/tr.po | 
+ | [uk](/f40/language/uk) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 90 | 90 | 100.0 | /mnt/stockage/packages/f40/cracklib/po/zh_TW.po | 
+ | [el](/f40/language/el) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/el.po | 
+ | [gu](/f40/language/gu) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/gu.po | 
+ | [kn](/f40/language/kn) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/kn.po | 
+ | [lt](/f40/language/lt) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/lt.po | 
+ | [ml](/f40/language/ml) | 87 | 90 | 96.7 | /mnt/stockage/packages/f40/cracklib/po/ml.po | 
 {.sortable}
 
 

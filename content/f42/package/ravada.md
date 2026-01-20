@@ -18,29 +18,29 @@ The package ravada (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 2855 | 2855 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ca.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ca-valencia.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/de.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 2641 | 2641 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/en.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2783 | 2783 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/es.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 2589 | 2589 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/fa.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/fr.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/gl.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 872 | 872 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/hi.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 1709 | 1709 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1284 | 1284 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 986 | 986 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ja.po | 
- | [my]({{< ref "/f42/language/my.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/my.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1075 | 1075 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/nb_NO.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1219 | 1219 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/pt.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 2661 | 2661 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/tr.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/vi.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 2748 | 2748 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/zh_CN.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 2764 | 2765 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ru.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 1033 | 1047 | 98.7 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ar.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 214 | 1075 | 19.9 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/eu.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 0 | 1075 | 0.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/he.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 0 | 1075 | 0.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ko.po | 
+ | [ca](/f42/language/ca) | 2855 | 2855 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ca.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ca-valencia.po | 
+ | [de](/f42/language/de) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/de.po | 
+ | [en](/f42/language/en) | 2641 | 2641 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/en.po | 
+ | [es](/f42/language/es) | 2783 | 2783 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/es.po | 
+ | [fa](/f42/language/fa) | 2589 | 2589 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/fa.po | 
+ | [fr](/f42/language/fr) | 1526 | 1526 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/fr.po | 
+ | [gl](/f42/language/gl) | 896 | 896 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/gl.po | 
+ | [hi](/f42/language/hi) | 872 | 872 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/hi.po | 
+ | [id](/f42/language/id) | 1709 | 1709 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/id.po | 
+ | [it](/f42/language/it) | 1284 | 1284 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/it.po | 
+ | [ja](/f42/language/ja) | 986 | 986 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ja.po | 
+ | [my](/f42/language/my) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/my.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1075 | 1075 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/nb_NO.po | 
+ | [pt](/f42/language/pt) | 1219 | 1219 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/pt.po | 
+ | [tr](/f42/language/tr) | 2661 | 2661 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/tr.po | 
+ | [vi](/f42/language/vi) | 2587 | 2587 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/vi.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 2748 | 2748 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/zh_CN.po | 
+ | [ru](/f42/language/ru) | 2764 | 2765 | 100.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ru.po | 
+ | [ar](/f42/language/ar) | 1033 | 1047 | 98.7 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ar.po | 
+ | [eu](/f42/language/eu) | 214 | 1075 | 19.9 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/eu.po | 
+ | [he](/f42/language/he) | 0 | 1075 | 0.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/he.po | 
+ | [ko](/f42/language/ko) | 0 | 1075 | 0.0 | /mnt/stockage/packages/f42/ravada/lib/Ravada/I18N/ko.po | 
 {.sortable}
 
 

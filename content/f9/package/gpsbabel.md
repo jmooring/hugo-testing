@@ -18,10 +18,10 @@ The package gpsbabel (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 6458 | 6501 | 99.3 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/de/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/de/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/de/LC_MESSAGES/gpsbabel.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 6272 | 6501 | 96.5 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/fr/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/fr/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/fr/LC_MESSAGES/gpsbabel.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 6961 | 10810 | 64.4 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/es/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/es/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/es/LC_MESSAGES/gpsbabel.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1672 | 3270 | 51.1 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/hu/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/hu/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/hu/LC_MESSAGES/gpsbabel.po | 
+ | [de](/f9/language/de) | 6458 | 6501 | 99.3 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/de/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/de/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/de/LC_MESSAGES/gpsbabel.po | 
+ | [fr](/f9/language/fr) | 6272 | 6501 | 96.5 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/fr/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/fr/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/fr/LC_MESSAGES/gpsbabel.po | 
+ | [es](/f9/language/es) | 6961 | 10810 | 64.4 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/es/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/es/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/es/LC_MESSAGES/gpsbabel.po | 
+ | [hu](/f9/language/hu) | 1672 | 3270 | 51.1 | /mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/hu/LC_MESSAGES/default.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/hu/LC_MESSAGES/delphi.po/mnt/stockage/packages/f9/gpsbabel/win32/gui-2/locale/hu/LC_MESSAGES/gpsbabel.po | 
 {.sortable}
 
 

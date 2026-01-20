@@ -18,52 +18,52 @@ The package ktorrent (version 3.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/ca/ktorrent.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/da/ktorrent.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/de/ktorrent.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/el/ktorrent.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/en_GB/ktorrent.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/es/ktorrent.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/et/ktorrent.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/gl/ktorrent.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/it/ktorrent.po | 
- | [km]({{< ref "/f10/language/km.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/km/ktorrent.po | 
- | [nds]({{< ref "/f10/language/nds.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/nds/ktorrent.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/nl/ktorrent.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/nn/ktorrent.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/pt/ktorrent.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/pt_BR/ktorrent.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/sl/ktorrent.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/sr/ktorrent.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/sv/ktorrent.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/tr/ktorrent.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/uk/ktorrent.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/zh_TW/ktorrent.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 6788 | 6795 | 99.9 | /mnt/stockage/packages/f10/ktorrent/po/lv/ktorrent.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 6708 | 6795 | 98.7 | /mnt/stockage/packages/f10/ktorrent/po/cs/ktorrent.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 6642 | 6795 | 97.7 | /mnt/stockage/packages/f10/ktorrent/po/sk/ktorrent.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 6635 | 6795 | 97.6 | /mnt/stockage/packages/f10/ktorrent/po/ja/ktorrent.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 6617 | 6795 | 97.4 | /mnt/stockage/packages/f10/ktorrent/po/pl/ktorrent.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 6457 | 6795 | 95.0 | /mnt/stockage/packages/f10/ktorrent/po/ru/ktorrent.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 6275 | 6795 | 92.3 | /mnt/stockage/packages/f10/ktorrent/po/ro/ktorrent.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 6000 | 6795 | 88.3 | /mnt/stockage/packages/f10/ktorrent/po/hu/ktorrent.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 3940 | 6795 | 58.0 | /mnt/stockage/packages/f10/ktorrent/po/ga/ktorrent.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 3823 | 6795 | 56.3 | /mnt/stockage/packages/f10/ktorrent/po/fr/ktorrent.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 3649 | 6795 | 53.7 | /mnt/stockage/packages/f10/ktorrent/po/nb/ktorrent.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 3618 | 6795 | 53.2 | /mnt/stockage/packages/f10/ktorrent/po/zh_CN/ktorrent.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 1791 | 6795 | 26.4 | /mnt/stockage/packages/f10/ktorrent/po/lt/ktorrent.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 1471 | 6795 | 21.6 | /mnt/stockage/packages/f10/ktorrent/po/bg/ktorrent.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 814 | 6795 | 12.0 | /mnt/stockage/packages/f10/ktorrent/po/is/ktorrent.po | 
- | [hne]({{< ref "/f10/language/hne.md" >}}) | 755 | 6795 | 11.1 | /mnt/stockage/packages/f10/ktorrent/po/hne/ktorrent.po | 
- | [mai]({{< ref "/f10/language/mai.md" >}}) | 254 | 6795 | 3.7 | /mnt/stockage/packages/f10/ktorrent/po/mai/ktorrent.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 245 | 6795 | 3.6 | /mnt/stockage/packages/f10/ktorrent/po/hi/ktorrent.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 186 | 6795 | 2.7 | /mnt/stockage/packages/f10/ktorrent/po/oc/ktorrent.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 140 | 6795 | 2.1 | /mnt/stockage/packages/f10/ktorrent/po/be/ktorrent.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 64 | 6795 | 0.9 | /mnt/stockage/packages/f10/ktorrent/po/ms/ktorrent.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 6 | 6795 | 0.1 | /mnt/stockage/packages/f10/ktorrent/po/hr/ktorrent.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 1 | 6795 | 0.0 | /mnt/stockage/packages/f10/ktorrent/po/ar/ktorrent.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 0 | 6795 | 0.0 | /mnt/stockage/packages/f10/ktorrent/po/eu/ktorrent.po | 
- | [se]({{< ref "/f10/language/se.md" >}}) | 0 | 6795 | 0.0 | /mnt/stockage/packages/f10/ktorrent/po/se/ktorrent.po | 
+ | [ca](/f10/language/ca) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/ca/ktorrent.po | 
+ | [da](/f10/language/da) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/da/ktorrent.po | 
+ | [de](/f10/language/de) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/de/ktorrent.po | 
+ | [el](/f10/language/el) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/el/ktorrent.po | 
+ | [en_GB](/f10/language/en_GB) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/en_GB/ktorrent.po | 
+ | [es](/f10/language/es) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/es/ktorrent.po | 
+ | [et](/f10/language/et) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/et/ktorrent.po | 
+ | [gl](/f10/language/gl) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/gl/ktorrent.po | 
+ | [it](/f10/language/it) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/it/ktorrent.po | 
+ | [km](/f10/language/km) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/km/ktorrent.po | 
+ | [nds](/f10/language/nds) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/nds/ktorrent.po | 
+ | [nl](/f10/language/nl) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/nl/ktorrent.po | 
+ | [nn](/f10/language/nn) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/nn/ktorrent.po | 
+ | [pt](/f10/language/pt) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/pt/ktorrent.po | 
+ | [pt_BR](/f10/language/pt_BR) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/pt_BR/ktorrent.po | 
+ | [sl](/f10/language/sl) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/sl/ktorrent.po | 
+ | [sr](/f10/language/sr) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/sr/ktorrent.po | 
+ | [sv](/f10/language/sv) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/sv/ktorrent.po | 
+ | [tr](/f10/language/tr) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/tr/ktorrent.po | 
+ | [uk](/f10/language/uk) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/uk/ktorrent.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 6795 | 6795 | 100.0 | /mnt/stockage/packages/f10/ktorrent/po/zh_TW/ktorrent.po | 
+ | [lv](/f10/language/lv) | 6788 | 6795 | 99.9 | /mnt/stockage/packages/f10/ktorrent/po/lv/ktorrent.po | 
+ | [cs](/f10/language/cs) | 6708 | 6795 | 98.7 | /mnt/stockage/packages/f10/ktorrent/po/cs/ktorrent.po | 
+ | [sk](/f10/language/sk) | 6642 | 6795 | 97.7 | /mnt/stockage/packages/f10/ktorrent/po/sk/ktorrent.po | 
+ | [ja](/f10/language/ja) | 6635 | 6795 | 97.6 | /mnt/stockage/packages/f10/ktorrent/po/ja/ktorrent.po | 
+ | [pl](/f10/language/pl) | 6617 | 6795 | 97.4 | /mnt/stockage/packages/f10/ktorrent/po/pl/ktorrent.po | 
+ | [ru](/f10/language/ru) | 6457 | 6795 | 95.0 | /mnt/stockage/packages/f10/ktorrent/po/ru/ktorrent.po | 
+ | [ro](/f10/language/ro) | 6275 | 6795 | 92.3 | /mnt/stockage/packages/f10/ktorrent/po/ro/ktorrent.po | 
+ | [hu](/f10/language/hu) | 6000 | 6795 | 88.3 | /mnt/stockage/packages/f10/ktorrent/po/hu/ktorrent.po | 
+ | [ga](/f10/language/ga) | 3940 | 6795 | 58.0 | /mnt/stockage/packages/f10/ktorrent/po/ga/ktorrent.po | 
+ | [fr](/f10/language/fr) | 3823 | 6795 | 56.3 | /mnt/stockage/packages/f10/ktorrent/po/fr/ktorrent.po | 
+ | [nb_NO](/f10/language/nb_NO) | 3649 | 6795 | 53.7 | /mnt/stockage/packages/f10/ktorrent/po/nb/ktorrent.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 3618 | 6795 | 53.2 | /mnt/stockage/packages/f10/ktorrent/po/zh_CN/ktorrent.po | 
+ | [lt](/f10/language/lt) | 1791 | 6795 | 26.4 | /mnt/stockage/packages/f10/ktorrent/po/lt/ktorrent.po | 
+ | [bg](/f10/language/bg) | 1471 | 6795 | 21.6 | /mnt/stockage/packages/f10/ktorrent/po/bg/ktorrent.po | 
+ | [is](/f10/language/is) | 814 | 6795 | 12.0 | /mnt/stockage/packages/f10/ktorrent/po/is/ktorrent.po | 
+ | [hne](/f10/language/hne) | 755 | 6795 | 11.1 | /mnt/stockage/packages/f10/ktorrent/po/hne/ktorrent.po | 
+ | [mai](/f10/language/mai) | 254 | 6795 | 3.7 | /mnt/stockage/packages/f10/ktorrent/po/mai/ktorrent.po | 
+ | [hi](/f10/language/hi) | 245 | 6795 | 3.6 | /mnt/stockage/packages/f10/ktorrent/po/hi/ktorrent.po | 
+ | [oc](/f10/language/oc) | 186 | 6795 | 2.7 | /mnt/stockage/packages/f10/ktorrent/po/oc/ktorrent.po | 
+ | [be](/f10/language/be) | 140 | 6795 | 2.1 | /mnt/stockage/packages/f10/ktorrent/po/be/ktorrent.po | 
+ | [ms](/f10/language/ms) | 64 | 6795 | 0.9 | /mnt/stockage/packages/f10/ktorrent/po/ms/ktorrent.po | 
+ | [hr](/f10/language/hr) | 6 | 6795 | 0.1 | /mnt/stockage/packages/f10/ktorrent/po/hr/ktorrent.po | 
+ | [ar](/f10/language/ar) | 1 | 6795 | 0.0 | /mnt/stockage/packages/f10/ktorrent/po/ar/ktorrent.po | 
+ | [eu](/f10/language/eu) | 0 | 6795 | 0.0 | /mnt/stockage/packages/f10/ktorrent/po/eu/ktorrent.po | 
+ | [se](/f10/language/se) | 0 | 6795 | 0.0 | /mnt/stockage/packages/f10/ktorrent/po/se/ktorrent.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [scanmem]({{< ref "/f35/package/scanmem.md" >}}) | 548 | 548 | 100.0 |  | 
- | [stellarium]({{< ref "/f35/package/stellarium.md" >}}) | 0 | 150019 | 0.0 | Montenegrin (https://www.transifex.com/stellarium/teams/80998/cnr/) | 
+ | [scanmem](/f35/package/scanmem) | 548 | 548 | 100.0 |  | 
+ | [stellarium](/f35/package/stellarium) | 0 | 150019 | 0.0 | Montenegrin (https://www.transifex.com/stellarium/teams/80998/cnr/) | 
 {.sortable}
 
 

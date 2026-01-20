@@ -39,22 +39,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kmid]({{< ref "/f10/package/kmid.md" >}}) | 522 | 535 | 97.6 | <tajik> | 
- | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
- | [kiconedit]({{< ref "/f10/package/kiconedit.md" >}}) | 678 | 726 | 93.4 | Tajik | 
- | [ksig]({{< ref "/f10/package/ksig.md" >}}) | 68 | 85 | 80.0 | Tajik | 
- | [xmms]({{< ref "/f10/package/xmms.md" >}}) | 2590 | 3443 | 75.2 | Tajik | 
- | [chkconfig]({{< ref "/f10/package/chkconfig.md" >}}) | 189 | 430 | 44.0 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
- | [audacity]({{< ref "/f10/package/audacity.md" >}}) | 4579 | 10633 | 43.1 | Tajik Language | 
- | [aspell]({{< ref "/f10/package/aspell.md" >}}) | 600 | 1726 | 34.8 | Tajik | 
- | [webkitkde]({{< ref "/f10/package/webkitkde.md" >}}) | 128 | 384 | 33.3 | American English <kde-i18n-doc@lists.kde.org> | 
- | [kdiff3]({{< ref "/f10/package/kdiff3.md" >}}) | 1072 | 3410 | 31.4 | Tajik | 
- | [usermode]({{< ref "/f10/package/usermode.md" >}}) | 123 | 562 | 21.9 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
- | [kaffeine]({{< ref "/f10/package/kaffeine.md" >}}) | 468 | 2354 | 19.9 | Tajik Language | 
- | [yelp]({{< ref "/f10/package/yelp.md" >}}) | 92 | 606 | 15.2 | Tajik | 
- | [anaconda]({{< ref "/f10/package/anaconda.md" >}}) | 964 | 10416 | 9.3 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
- | [firstboot]({{< ref "/f10/package/firstboot.md" >}}) | 53 | 604 | 8.8 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
- | [kcoloredit]({{< ref "/f10/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Tajik | 
+ | [kmid](/f10/package/kmid) | 522 | 535 | 97.6 | <tajik> | 
+ | [konq-plugins](/f10/package/konq-plugins) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
+ | [kiconedit](/f10/package/kiconedit) | 678 | 726 | 93.4 | Tajik | 
+ | [ksig](/f10/package/ksig) | 68 | 85 | 80.0 | Tajik | 
+ | [xmms](/f10/package/xmms) | 2590 | 3443 | 75.2 | Tajik | 
+ | [chkconfig](/f10/package/chkconfig) | 189 | 430 | 44.0 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [audacity](/f10/package/audacity) | 4579 | 10633 | 43.1 | Tajik Language | 
+ | [aspell](/f10/package/aspell) | 600 | 1726 | 34.8 | Tajik | 
+ | [webkitkde](/f10/package/webkitkde) | 128 | 384 | 33.3 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [kdiff3](/f10/package/kdiff3) | 1072 | 3410 | 31.4 | Tajik | 
+ | [usermode](/f10/package/usermode) | 123 | 562 | 21.9 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [kaffeine](/f10/package/kaffeine) | 468 | 2354 | 19.9 | Tajik Language | 
+ | [yelp](/f10/package/yelp) | 92 | 606 | 15.2 | Tajik | 
+ | [anaconda](/f10/package/anaconda) | 964 | 10416 | 9.3 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [firstboot](/f10/package/firstboot) | 53 | 604 | 8.8 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [kcoloredit](/f10/package/kcoloredit) | 8 | 278 | 2.9 | Tajik | 
 {.sortable}
 
 

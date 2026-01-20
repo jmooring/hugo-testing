@@ -18,7 +18,7 @@ The package m17n-db (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 107 | 507 | 21.1 | /mnt/stockage/packages/f7/m17n-db/po/ja.po | 
+ | [ja](/f7/language/ja) | 107 | 507 | 21.1 | /mnt/stockage/packages/f7/m17n-db/po/ja.po | 
 {.sortable}
 
 

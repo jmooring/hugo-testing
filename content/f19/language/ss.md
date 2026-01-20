@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 42722 | 95207 | 44.9 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f19/package/libreoffice) | 42722 | 95207 | 44.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package rapid-photo-downloader (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/es.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/pl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/sv.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1472 | 1488 | 98.9 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/fr.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 1386 | 1410 | 98.3 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/fi.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 385 | 1488 | 25.9 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/sk.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 77 | 1410 | 5.5 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/en_GB.po | 
- | [en_AU]({{< ref "/f11/language/en_AU.md" >}}) | 10 | 1256 | 0.8 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/en_AU.po | 
+ | [cs](/f11/language/cs) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/cs.po | 
+ | [de](/f11/language/de) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/de.po | 
+ | [es](/f11/language/es) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/es.po | 
+ | [hu](/f11/language/hu) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/hu.po | 
+ | [it](/f11/language/it) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/it.po | 
+ | [pl](/f11/language/pl) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/pl.po | 
+ | [ru](/f11/language/ru) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/ru.po | 
+ | [sv](/f11/language/sv) | 1488 | 1488 | 100.0 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/sv.po | 
+ | [fr](/f11/language/fr) | 1472 | 1488 | 98.9 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/fr.po | 
+ | [fi](/f11/language/fi) | 1386 | 1410 | 98.3 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/fi.po | 
+ | [sk](/f11/language/sk) | 385 | 1488 | 25.9 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/sk.po | 
+ | [en_GB](/f11/language/en_GB) | 77 | 1410 | 5.5 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/en_GB.po | 
+ | [en_AU](/f11/language/en_AU) | 10 | 1256 | 0.8 | /mnt/stockage/packages/f11/rapid-photo-downloader/po/en_AU.po | 
 {.sortable}
 
 

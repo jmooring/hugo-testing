@@ -18,49 +18,49 @@ The package gtk-vnc (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/bs.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ca.po/mnt/stockage/packages/f26/gtk-vnc/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/el.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/en_GB.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/eo.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/fur.po | 
- | [gd]({{< ref "/f26/language/gd.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/gd.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/gl.po | 
- | [guc]({{< ref "/f26/language/guc.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/guc.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/he.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ja.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/lv.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/nb.po | 
- | [nds]({{< ref "/f26/language/nds.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/nds.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/oc.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sr.po/mnt/stockage/packages/f26/gtk-vnc/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sv.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/te.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/tg.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 150 | 162 | 92.6 | /mnt/stockage/packages/f26/gtk-vnc/po/zh_HK.po/mnt/stockage/packages/f26/gtk-vnc/po/zh_TW.po | 
+ | [bs](/f26/language/bs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/bs.po | 
+ | [ca](/f26/language/ca) | 89 | 89 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ca.po/mnt/stockage/packages/f26/gtk-vnc/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/cs.po | 
+ | [da](/f26/language/da) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/da.po | 
+ | [de](/f26/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/de.po | 
+ | [el](/f26/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/el.po | 
+ | [en_GB](/f26/language/en_GB) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/en_GB.po | 
+ | [eo](/f26/language/eo) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/eo.po | 
+ | [es](/f26/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/es.po | 
+ | [eu](/f26/language/eu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/eu.po | 
+ | [fr](/f26/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/fr.po | 
+ | [fur](/f26/language/fur) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/fur.po | 
+ | [gd](/f26/language/gd) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/gd.po | 
+ | [gl](/f26/language/gl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/gl.po | 
+ | [guc](/f26/language/guc) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/guc.po | 
+ | [he](/f26/language/he) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/he.po | 
+ | [hu](/f26/language/hu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/hu.po | 
+ | [id](/f26/language/id) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/id.po | 
+ | [it](/f26/language/it) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/it.po | 
+ | [ja](/f26/language/ja) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ja.po | 
+ | [ko](/f26/language/ko) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ko.po | 
+ | [lt](/f26/language/lt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/lt.po | 
+ | [lv](/f26/language/lv) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/lv.po | 
+ | [nb_NO](/f26/language/nb_NO) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/nb.po | 
+ | [nds](/f26/language/nds) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/nds.po | 
+ | [oc](/f26/language/oc) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/oc.po | 
+ | [pa](/f26/language/pa) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pa.po | 
+ | [pl](/f26/language/pl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pl.po | 
+ | [pt](/f26/language/pt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ro.po | 
+ | [ru](/f26/language/ru) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/ru.po | 
+ | [sk](/f26/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sk.po | 
+ | [sl](/f26/language/sl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sl.po | 
+ | [sr](/f26/language/sr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sr.po/mnt/stockage/packages/f26/gtk-vnc/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/sv.po | 
+ | [te](/f26/language/te) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/te.po | 
+ | [tg](/f26/language/tg) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/tg.po | 
+ | [th](/f26/language/th) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/th.po | 
+ | [tr](/f26/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/tr.po | 
+ | [uk](/f26/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 81 | 81 | 100.0 | /mnt/stockage/packages/f26/gtk-vnc/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 150 | 162 | 92.6 | /mnt/stockage/packages/f26/gtk-vnc/po/zh_HK.po/mnt/stockage/packages/f26/gtk-vnc/po/zh_TW.po | 
 {.sortable}
 
 

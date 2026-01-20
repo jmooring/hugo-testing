@@ -18,7 +18,7 @@ The package openclonk (version 8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 46781 | 70544 | 66.3 | /mnt/stockage/packages/f38/openclonk/docs/de.po | 
+ | [de](/f38/language/de) | 46781 | 70544 | 66.3 | /mnt/stockage/packages/f38/openclonk/docs/de.po | 
 {.sortable}
 
 

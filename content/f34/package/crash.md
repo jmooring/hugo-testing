@@ -18,25 +18,25 @@ The package crash (version 7.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/es.po/mnt/stockage/packages/f34/crash/opcodes/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/fi.po/mnt/stockage/packages/f34/crash/opcodes/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 9740 | 9740 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/fr.po/mnt/stockage/packages/f34/crash/opcodes/po/fr.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/ga.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/id.po/mnt/stockage/packages/f34/crash/opcodes/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/ro.po/mnt/stockage/packages/f34/crash/opcodes/po/ro.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/ru.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/sv.po/mnt/stockage/packages/f34/crash/opcodes/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/tr.po/mnt/stockage/packages/f34/crash/opcodes/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/uk.po/mnt/stockage/packages/f34/crash/opcodes/po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/vi.po/mnt/stockage/packages/f34/crash/opcodes/po/vi.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f34/crash/bfd/po/da.po/mnt/stockage/packages/f34/crash/opcodes/po/da.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f34/crash/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f34/crash/bfd/po/zh_CN.po/mnt/stockage/packages/f34/crash/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f34/crash/bfd/po/rw.po | 
+ | [de](/f34/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/de.po | 
+ | [es](/f34/language/es) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/es.po/mnt/stockage/packages/f34/crash/opcodes/po/es.po | 
+ | [fi](/f34/language/fi) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/fi.po/mnt/stockage/packages/f34/crash/opcodes/po/fi.po | 
+ | [fr](/f34/language/fr) | 9740 | 9740 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/fr.po/mnt/stockage/packages/f34/crash/opcodes/po/fr.po | 
+ | [ga](/f34/language/ga) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/ga.po | 
+ | [id](/f34/language/id) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/id.po/mnt/stockage/packages/f34/crash/opcodes/po/id.po | 
+ | [it](/f34/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/it.po | 
+ | [nl](/f34/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/nl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f34/crash/opcodes/po/pt_BR.po | 
+ | [ro](/f34/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/ro.po/mnt/stockage/packages/f34/crash/opcodes/po/ro.po | 
+ | [ru](/f34/language/ru) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/ru.po | 
+ | [sv](/f34/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/sv.po/mnt/stockage/packages/f34/crash/opcodes/po/sv.po | 
+ | [tr](/f34/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/tr.po/mnt/stockage/packages/f34/crash/opcodes/po/tr.po | 
+ | [uk](/f34/language/uk) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/uk.po/mnt/stockage/packages/f34/crash/opcodes/po/uk.po | 
+ | [vi](/f34/language/vi) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f34/crash/bfd/po/vi.po/mnt/stockage/packages/f34/crash/opcodes/po/vi.po | 
+ | [da](/f34/language/da) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f34/crash/bfd/po/da.po/mnt/stockage/packages/f34/crash/opcodes/po/da.po | 
+ | [ja](/f34/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f34/crash/bfd/po/ja.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f34/crash/bfd/po/zh_CN.po/mnt/stockage/packages/f34/crash/opcodes/po/zh_CN.po | 
+ | [rw](/f34/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f34/crash/bfd/po/rw.po | 
 {.sortable}
 
 

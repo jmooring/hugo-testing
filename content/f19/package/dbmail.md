@@ -18,20 +18,20 @@ The package dbmail (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/gl.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/it.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/ml.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/nl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/pt.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/ta.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 47 | 457 | 10.3 | /mnt/stockage/packages/f19/dbmail/debian/po/ja.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 47 | 457 | 10.3 | /mnt/stockage/packages/f19/dbmail/debian/po/pt_BR.po | 
+ | [cs](/f19/language/cs) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/cs.po | 
+ | [de](/f19/language/de) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/de.po | 
+ | [es](/f19/language/es) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/es.po | 
+ | [fr](/f19/language/fr) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/fr.po | 
+ | [gl](/f19/language/gl) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/gl.po | 
+ | [it](/f19/language/it) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/it.po | 
+ | [ml](/f19/language/ml) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/ml.po | 
+ | [nl](/f19/language/nl) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/nl.po | 
+ | [pt](/f19/language/pt) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/pt.po | 
+ | [ru](/f19/language/ru) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/ru.po | 
+ | [sv](/f19/language/sv) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/sv.po | 
+ | [ta](/f19/language/ta) | 443 | 457 | 96.9 | /mnt/stockage/packages/f19/dbmail/debian/po/ta.po | 
+ | [ja](/f19/language/ja) | 47 | 457 | 10.3 | /mnt/stockage/packages/f19/dbmail/debian/po/ja.po | 
+ | [pt_BR](/f19/language/pt_BR) | 47 | 457 | 10.3 | /mnt/stockage/packages/f19/dbmail/debian/po/pt_BR.po | 
 {.sortable}
 
 

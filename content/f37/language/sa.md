@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [inkscape]({{< ref "/f37/package/inkscape.md" >}}) | 20469 | 40929 | 50.0 | Hindi <Indlinux> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 66 | 211 | 31.3 | Sanskrit <sa@li.org> | 
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 50400 | 168400 | 29.9 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f37/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 |  | 
- | [avogadro2]({{< ref "/f37/package/avogadro2.md" >}}) | 35 | 374 | 9.4 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadroapp/sa/> | 
- | [onboard]({{< ref "/f37/package/onboard.md" >}}) | 7 | 2318 | 0.3 | Sanskrit <sa@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 3 | 6968 | 0.0 | Sanskrit <sa@li.org> | 
- | [avogadro2-libs]({{< ref "/f37/package/avogadro2-libs.md" >}}) | 1 | 4612 | 0.0 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sa/> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [inkscape](/f37/package/inkscape) | 20469 | 40929 | 50.0 | Hindi <Indlinux> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 66 | 211 | 31.3 | Sanskrit <sa@li.org> | 
+ | [libreoffice](/f37/package/libreoffice) | 50400 | 168400 | 29.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f37/package/tuxpaint) | 1120 | 3763 | 29.8 |  | 
+ | [avogadro2](/f37/package/avogadro2) | 35 | 374 | 9.4 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadroapp/sa/> | 
+ | [onboard](/f37/package/onboard) | 7 | 2318 | 0.3 | Sanskrit <sa@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 3 | 6968 | 0.0 | Sanskrit <sa@li.org> | 
+ | [avogadro2-libs](/f37/package/avogadro2-libs) | 1 | 4612 | 0.0 | Sanskrit <https://hosted.weblate.org/projects/avogadro/avogadrolibs/sa/> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

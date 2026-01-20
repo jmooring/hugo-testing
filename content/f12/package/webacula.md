@@ -18,12 +18,12 @@ The package webacula (version 3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f12/webacula/languages/fr/webacula_fr.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 970 | 983 | 98.7 | /mnt/stockage/packages/f12/webacula/languages/ru/webacula_ru.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 940 | 983 | 95.6 | /mnt/stockage/packages/f12/webacula/languages/it/webacula_it.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 843 | 983 | 85.8 | /mnt/stockage/packages/f12/webacula/languages/de/webacula_de.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 738 | 983 | 75.1 | /mnt/stockage/packages/f12/webacula/languages/pt/webacula_pt_BR.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 5 | 983 | 0.5 | /mnt/stockage/packages/f12/webacula/languages/en/webacula_en.po | 
+ | [fr](/f12/language/fr) | 983 | 983 | 100.0 | /mnt/stockage/packages/f12/webacula/languages/fr/webacula_fr.po | 
+ | [ru](/f12/language/ru) | 970 | 983 | 98.7 | /mnt/stockage/packages/f12/webacula/languages/ru/webacula_ru.po | 
+ | [it](/f12/language/it) | 940 | 983 | 95.6 | /mnt/stockage/packages/f12/webacula/languages/it/webacula_it.po | 
+ | [de](/f12/language/de) | 843 | 983 | 85.8 | /mnt/stockage/packages/f12/webacula/languages/de/webacula_de.po | 
+ | [pt](/f12/language/pt) | 738 | 983 | 75.1 | /mnt/stockage/packages/f12/webacula/languages/pt/webacula_pt_BR.po | 
+ | [en](/f12/language/en) | 5 | 983 | 0.5 | /mnt/stockage/packages/f12/webacula/languages/en/webacula_en.po | 
 {.sortable}
 
 

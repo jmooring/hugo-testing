@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xapps]({{< ref "/f38/package/xapps.md" >}}) | 21 | 73 | 28.8 | Berber (Other) <ber@li.org> | 
- | [xreader]({{< ref "/f38/package/xreader.md" >}}) | 77 | 1625 | 4.7 | Berber (Other) <ber@li.org> | 
- | [lightdm-settings]({{< ref "/f38/package/lightdm-settings.md" >}}) | 16 | 355 | 4.5 | Berber (Other) <ber@li.org> | 
- | [shutter]({{< ref "/f38/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 30 | 8013 | 0.4 | Berber (Other) <ber@li.org> | 
- | [remmina]({{< ref "/f38/package/remmina.md" >}}) | 3 | 5396 | 0.1 | Berber <https://hosted.weblate.org/projects/remmina/remmina/ber/> | 
- | [cpu-x]({{< ref "/f38/package/cpu-x.md" >}}) | 0 | 1483 | 0.0 | none | 
+ | [xapps](/f38/package/xapps) | 21 | 73 | 28.8 | Berber (Other) <ber@li.org> | 
+ | [xreader](/f38/package/xreader) | 77 | 1625 | 4.7 | Berber (Other) <ber@li.org> | 
+ | [lightdm-settings](/f38/package/lightdm-settings) | 16 | 355 | 4.5 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f38/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 30 | 8013 | 0.4 | Berber (Other) <ber@li.org> | 
+ | [remmina](/f38/package/remmina) | 3 | 5396 | 0.1 | Berber <https://hosted.weblate.org/projects/remmina/remmina/ber/> | 
+ | [cpu-x](/f38/package/cpu-x) | 0 | 1483 | 0.0 | none | 
 {.sortable}
 
 

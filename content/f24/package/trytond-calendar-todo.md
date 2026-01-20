@@ -18,16 +18,16 @@ The package trytond-calendar-todo (version 2.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/ca_ES.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/de_DE.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/es_ES.po | 
- | [es_AR]({{< ref "/f24/language/es_AR.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/es_AR.po | 
- | [es_CO]({{< ref "/f24/language/es_CO.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/es_CO.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/fr_FR.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 197 | 202 | 97.5 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/bg_BG.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 112 | 202 | 55.4 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/ru_RU.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/cs_CZ.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/nl_NL.po | 
+ | [ca](/f24/language/ca) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/ca_ES.po | 
+ | [de](/f24/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/de_DE.po | 
+ | [es](/f24/language/es) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/es_ES.po | 
+ | [es_AR](/f24/language/es_AR) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/es_AR.po | 
+ | [es_CO](/f24/language/es_CO) | 203 | 203 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/es_CO.po | 
+ | [fr](/f24/language/fr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/fr_FR.po | 
+ | [bg](/f24/language/bg) | 197 | 202 | 97.5 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/bg_BG.po | 
+ | [ru](/f24/language/ru) | 112 | 202 | 55.4 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/ru_RU.po | 
+ | [cs](/f24/language/cs) | 0 | 202 | 0.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/cs_CZ.po | 
+ | [nl](/f24/language/nl) | 0 | 202 | 0.0 | /mnt/stockage/packages/f24/trytond-calendar-todo/locale/nl_NL.po | 
 {.sortable}
 
 

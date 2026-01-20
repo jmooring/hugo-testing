@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f35/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 310 | 599 | 51.8 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f35/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 63 | 121 | 52.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 310 | 599 | 51.8 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

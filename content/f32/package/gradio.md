@@ -18,35 +18,35 @@ The package gradio (version 7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/be.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/it.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/ka.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/pt_PT.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sk.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sr@latin.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/uk.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 139 | 309 | 45.0 | /mnt/stockage/packages/f32/gradio/po/ga.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 45 | 309 | 14.6 | /mnt/stockage/packages/f32/gradio/po/hi.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 8 | 309 | 2.6 | /mnt/stockage/packages/f32/gradio/po/ja.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 5 | 309 | 1.6 | /mnt/stockage/packages/f32/gradio/po/cmn.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 0 | 309 | 0.0 | /mnt/stockage/packages/f32/gradio/po/ko.po | 
+ | [be](/f32/language/be) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/be.po | 
+ | [ca](/f32/language/ca) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/ca.po | 
+ | [cs](/f32/language/cs) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/cs.po | 
+ | [de](/f32/language/de) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/de.po | 
+ | [es](/f32/language/es) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/es.po | 
+ | [fi](/f32/language/fi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/fi.po | 
+ | [fr](/f32/language/fr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/fr.po | 
+ | [hr](/f32/language/hr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/hr.po | 
+ | [hu](/f32/language/hu) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/hu.po | 
+ | [id](/f32/language/id) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/id.po | 
+ | [it](/f32/language/it) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/it.po | 
+ | [ka](/f32/language/ka) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/ka.po | 
+ | [nb_NO](/f32/language/nb_NO) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/nb.po | 
+ | [nl](/f32/language/nl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/nl.po | 
+ | [pl](/f32/language/pl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/pt_BR.po | 
+ | [pt_PT](/f32/language/pt_PT) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/pt_PT.po | 
+ | [ru](/f32/language/ru) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/ru.po | 
+ | [sk](/f32/language/sk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sk.po | 
+ | [sr](/f32/language/sr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sr@latin.po | 
+ | [sv](/f32/language/sv) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/sv.po | 
+ | [tr](/f32/language/tr) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/tr.po | 
+ | [uk](/f32/language/uk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f32/gradio/po/uk.po | 
+ | [ga](/f32/language/ga) | 139 | 309 | 45.0 | /mnt/stockage/packages/f32/gradio/po/ga.po | 
+ | [hi](/f32/language/hi) | 45 | 309 | 14.6 | /mnt/stockage/packages/f32/gradio/po/hi.po | 
+ | [ja](/f32/language/ja) | 8 | 309 | 2.6 | /mnt/stockage/packages/f32/gradio/po/ja.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 5 | 309 | 1.6 | /mnt/stockage/packages/f32/gradio/po/cmn.po | 
+ | [ko](/f32/language/ko) | 0 | 309 | 0.0 | /mnt/stockage/packages/f32/gradio/po/ko.po | 
 {.sortable}
 
 

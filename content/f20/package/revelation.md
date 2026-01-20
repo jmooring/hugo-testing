@@ -18,20 +18,20 @@ The package revelation (version 0.4.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1945 | 1945 | 100.0 | /mnt/stockage/packages/f20/revelation/po/ca.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1945 | 1945 | 100.0 | /mnt/stockage/packages/f20/revelation/po/de.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 1945 | 1945 | 100.0 | /mnt/stockage/packages/f20/revelation/po/eu.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1943 | 1945 | 99.9 | /mnt/stockage/packages/f20/revelation/po/ru.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1829 | 1945 | 94.0 | /mnt/stockage/packages/f20/revelation/po/fr.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1829 | 1945 | 94.0 | /mnt/stockage/packages/f20/revelation/po/sv.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1755 | 1945 | 90.2 | /mnt/stockage/packages/f20/revelation/po/zh.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1222 | 1945 | 62.8 | /mnt/stockage/packages/f20/revelation/po/cs.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 910 | 1945 | 46.8 | /mnt/stockage/packages/f20/revelation/po/pt_BR.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 865 | 1945 | 44.5 | /mnt/stockage/packages/f20/revelation/po/fi.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 767 | 1945 | 39.4 | /mnt/stockage/packages/f20/revelation/po/lt.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 709 | 1945 | 36.5 | /mnt/stockage/packages/f20/revelation/po/es.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 620 | 1945 | 31.9 | /mnt/stockage/packages/f20/revelation/po/nl.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 581 | 1945 | 29.9 | /mnt/stockage/packages/f20/revelation/po/et.po | 
+ | [ca](/f20/language/ca) | 1945 | 1945 | 100.0 | /mnt/stockage/packages/f20/revelation/po/ca.po | 
+ | [de](/f20/language/de) | 1945 | 1945 | 100.0 | /mnt/stockage/packages/f20/revelation/po/de.po | 
+ | [eu](/f20/language/eu) | 1945 | 1945 | 100.0 | /mnt/stockage/packages/f20/revelation/po/eu.po | 
+ | [ru](/f20/language/ru) | 1943 | 1945 | 99.9 | /mnt/stockage/packages/f20/revelation/po/ru.po | 
+ | [fr](/f20/language/fr) | 1829 | 1945 | 94.0 | /mnt/stockage/packages/f20/revelation/po/fr.po | 
+ | [sv](/f20/language/sv) | 1829 | 1945 | 94.0 | /mnt/stockage/packages/f20/revelation/po/sv.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1755 | 1945 | 90.2 | /mnt/stockage/packages/f20/revelation/po/zh.po | 
+ | [cs](/f20/language/cs) | 1222 | 1945 | 62.8 | /mnt/stockage/packages/f20/revelation/po/cs.po | 
+ | [pt_BR](/f20/language/pt_BR) | 910 | 1945 | 46.8 | /mnt/stockage/packages/f20/revelation/po/pt_BR.po | 
+ | [fi](/f20/language/fi) | 865 | 1945 | 44.5 | /mnt/stockage/packages/f20/revelation/po/fi.po | 
+ | [lt](/f20/language/lt) | 767 | 1945 | 39.4 | /mnt/stockage/packages/f20/revelation/po/lt.po | 
+ | [es](/f20/language/es) | 709 | 1945 | 36.5 | /mnt/stockage/packages/f20/revelation/po/es.po | 
+ | [nl](/f20/language/nl) | 620 | 1945 | 31.9 | /mnt/stockage/packages/f20/revelation/po/nl.po | 
+ | [et](/f20/language/et) | 581 | 1945 | 29.9 | /mnt/stockage/packages/f20/revelation/po/et.po | 
 {.sortable}
 
 

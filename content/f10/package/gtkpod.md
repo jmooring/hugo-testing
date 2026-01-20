@@ -18,16 +18,16 @@ The package gtkpod (version 0.99.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 6737 | 6737 | 100.0 | /mnt/stockage/packages/f10/gtkpod/po/sv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 6724 | 6727 | 100.0 | /mnt/stockage/packages/f10/gtkpod/po/zh_CN.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 7703 | 7716 | 99.8 | /mnt/stockage/packages/f10/gtkpod/po/it.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 6723 | 6737 | 99.8 | /mnt/stockage/packages/f10/gtkpod/po/es.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 6622 | 6737 | 98.3 | /mnt/stockage/packages/f10/gtkpod/po/he.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 7173 | 7415 | 96.7 | /mnt/stockage/packages/f10/gtkpod/po/ro.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 5370 | 6737 | 79.7 | /mnt/stockage/packages/f10/gtkpod/po/de.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 4695 | 6737 | 69.7 | /mnt/stockage/packages/f10/gtkpod/po/ru.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 4688 | 6737 | 69.6 | /mnt/stockage/packages/f10/gtkpod/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 2853 | 6737 | 42.3 | /mnt/stockage/packages/f10/gtkpod/po/ja.po | 
+ | [sv](/f10/language/sv) | 6737 | 6737 | 100.0 | /mnt/stockage/packages/f10/gtkpod/po/sv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 6724 | 6727 | 100.0 | /mnt/stockage/packages/f10/gtkpod/po/zh_CN.po | 
+ | [it](/f10/language/it) | 7703 | 7716 | 99.8 | /mnt/stockage/packages/f10/gtkpod/po/it.po | 
+ | [es](/f10/language/es) | 6723 | 6737 | 99.8 | /mnt/stockage/packages/f10/gtkpod/po/es.po | 
+ | [he](/f10/language/he) | 6622 | 6737 | 98.3 | /mnt/stockage/packages/f10/gtkpod/po/he.po | 
+ | [ro](/f10/language/ro) | 7173 | 7415 | 96.7 | /mnt/stockage/packages/f10/gtkpod/po/ro.po | 
+ | [de](/f10/language/de) | 5370 | 6737 | 79.7 | /mnt/stockage/packages/f10/gtkpod/po/de.po | 
+ | [ru](/f10/language/ru) | 4695 | 6737 | 69.7 | /mnt/stockage/packages/f10/gtkpod/po/ru.po | 
+ | [fr](/f10/language/fr) | 4688 | 6737 | 69.6 | /mnt/stockage/packages/f10/gtkpod/po/fr.po | 
+ | [ja](/f10/language/ja) | 2853 | 6737 | 42.3 | /mnt/stockage/packages/f10/gtkpod/po/ja.po | 
 {.sortable}
 
 

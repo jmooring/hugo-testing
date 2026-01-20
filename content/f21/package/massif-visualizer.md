@@ -18,24 +18,24 @@ The package massif-visualizer (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/ca/massif-visualizer.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/da/massif-visualizer.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/de/massif-visualizer.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/en_GB/massif-visualizer.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/es/massif-visualizer.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/et/massif-visualizer.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/fi/massif-visualizer.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/fr/massif-visualizer.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/nl/massif-visualizer.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/pl/massif-visualizer.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/pt/massif-visualizer.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/pt_BR/massif-visualizer.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/sk/massif-visualizer.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/sv/massif-visualizer.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/tr/massif-visualizer.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/uk/massif-visualizer.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 377 | 385 | 97.9 | /mnt/stockage/packages/f21/massif-visualizer/po/it/massif-visualizer.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 301 | 385 | 78.2 | /mnt/stockage/packages/f21/massif-visualizer/po/nb/massif-visualizer.po | 
+ | [ca](/f21/language/ca) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/ca/massif-visualizer.po | 
+ | [da](/f21/language/da) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/da/massif-visualizer.po | 
+ | [de](/f21/language/de) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/de/massif-visualizer.po | 
+ | [en_GB](/f21/language/en_GB) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/en_GB/massif-visualizer.po | 
+ | [es](/f21/language/es) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/es/massif-visualizer.po | 
+ | [et](/f21/language/et) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/et/massif-visualizer.po | 
+ | [fi](/f21/language/fi) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/fi/massif-visualizer.po | 
+ | [fr](/f21/language/fr) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/fr/massif-visualizer.po | 
+ | [nl](/f21/language/nl) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/nl/massif-visualizer.po | 
+ | [pl](/f21/language/pl) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/pl/massif-visualizer.po | 
+ | [pt](/f21/language/pt) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/pt/massif-visualizer.po | 
+ | [pt_BR](/f21/language/pt_BR) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/pt_BR/massif-visualizer.po | 
+ | [sk](/f21/language/sk) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/sk/massif-visualizer.po | 
+ | [sv](/f21/language/sv) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/sv/massif-visualizer.po | 
+ | [tr](/f21/language/tr) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/tr/massif-visualizer.po | 
+ | [uk](/f21/language/uk) | 385 | 385 | 100.0 | /mnt/stockage/packages/f21/massif-visualizer/po/uk/massif-visualizer.po | 
+ | [it](/f21/language/it) | 377 | 385 | 97.9 | /mnt/stockage/packages/f21/massif-visualizer/po/it/massif-visualizer.po | 
+ | [nb_NO](/f21/language/nb_NO) | 301 | 385 | 78.2 | /mnt/stockage/packages/f21/massif-visualizer/po/nb/massif-visualizer.po | 
 {.sortable}
 
 

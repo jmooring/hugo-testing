@@ -18,24 +18,24 @@ The package komikku (version 1.36.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 5286 | 5286 | 100.0 | /mnt/stockage/packages/f40/komikku/po/fr.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4869 | 5286 | 92.1 | /mnt/stockage/packages/f40/komikku/po/es.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 4690 | 5286 | 88.7 | /mnt/stockage/packages/f40/komikku/po/pl.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 4520 | 5286 | 85.5 | /mnt/stockage/packages/f40/komikku/po/ca.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 4410 | 5286 | 83.4 | /mnt/stockage/packages/f40/komikku/po/pt_BR.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 4369 | 5286 | 82.7 | /mnt/stockage/packages/f40/komikku/po/pt.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 4154 | 5286 | 78.6 | /mnt/stockage/packages/f40/komikku/po/ru.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 3981 | 5286 | 75.3 | /mnt/stockage/packages/f40/komikku/po/de.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 3239 | 5286 | 61.3 | /mnt/stockage/packages/f40/komikku/po/zh_CN.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 3197 | 5286 | 60.5 | /mnt/stockage/packages/f40/komikku/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1777 | 5286 | 33.6 | /mnt/stockage/packages/f40/komikku/po/it.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1640 | 5286 | 31.0 | /mnt/stockage/packages/f40/komikku/po/tr.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1263 | 5286 | 23.9 | /mnt/stockage/packages/f40/komikku/po/nl.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1079 | 5286 | 20.4 | /mnt/stockage/packages/f40/komikku/po/uk.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 976 | 5286 | 18.5 | /mnt/stockage/packages/f40/komikku/po/fi.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 792 | 5286 | 15.0 | /mnt/stockage/packages/f40/komikku/po/ar.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 196 | 5286 | 3.7 | /mnt/stockage/packages/f40/komikku/po/ro.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 32 | 5286 | 0.6 | /mnt/stockage/packages/f40/komikku/po/zh_Hant.po | 
+ | [fr](/f40/language/fr) | 5286 | 5286 | 100.0 | /mnt/stockage/packages/f40/komikku/po/fr.po | 
+ | [es](/f40/language/es) | 4869 | 5286 | 92.1 | /mnt/stockage/packages/f40/komikku/po/es.po | 
+ | [pl](/f40/language/pl) | 4690 | 5286 | 88.7 | /mnt/stockage/packages/f40/komikku/po/pl.po | 
+ | [ca](/f40/language/ca) | 4520 | 5286 | 85.5 | /mnt/stockage/packages/f40/komikku/po/ca.po | 
+ | [pt_BR](/f40/language/pt_BR) | 4410 | 5286 | 83.4 | /mnt/stockage/packages/f40/komikku/po/pt_BR.po | 
+ | [pt](/f40/language/pt) | 4369 | 5286 | 82.7 | /mnt/stockage/packages/f40/komikku/po/pt.po | 
+ | [ru](/f40/language/ru) | 4154 | 5286 | 78.6 | /mnt/stockage/packages/f40/komikku/po/ru.po | 
+ | [de](/f40/language/de) | 3981 | 5286 | 75.3 | /mnt/stockage/packages/f40/komikku/po/de.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 3239 | 5286 | 61.3 | /mnt/stockage/packages/f40/komikku/po/zh_CN.po | 
+ | [id](/f40/language/id) | 3197 | 5286 | 60.5 | /mnt/stockage/packages/f40/komikku/po/id.po | 
+ | [it](/f40/language/it) | 1777 | 5286 | 33.6 | /mnt/stockage/packages/f40/komikku/po/it.po | 
+ | [tr](/f40/language/tr) | 1640 | 5286 | 31.0 | /mnt/stockage/packages/f40/komikku/po/tr.po | 
+ | [nl](/f40/language/nl) | 1263 | 5286 | 23.9 | /mnt/stockage/packages/f40/komikku/po/nl.po | 
+ | [uk](/f40/language/uk) | 1079 | 5286 | 20.4 | /mnt/stockage/packages/f40/komikku/po/uk.po | 
+ | [fi](/f40/language/fi) | 976 | 5286 | 18.5 | /mnt/stockage/packages/f40/komikku/po/fi.po | 
+ | [ar](/f40/language/ar) | 792 | 5286 | 15.0 | /mnt/stockage/packages/f40/komikku/po/ar.po | 
+ | [ro](/f40/language/ro) | 196 | 5286 | 3.7 | /mnt/stockage/packages/f40/komikku/po/ro.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 32 | 5286 | 0.6 | /mnt/stockage/packages/f40/komikku/po/zh_Hant.po | 
 {.sortable}
 
 

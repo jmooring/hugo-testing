@@ -18,8 +18,8 @@ The package autotrace (version 0.31.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f38/autotrace/po/de.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f38/autotrace/po/ja.po | 
+ | [de](/f38/language/de) | 349 | 349 | 100.0 | /mnt/stockage/packages/f38/autotrace/po/de.po | 
+ | [ja](/f38/language/ja) | 349 | 349 | 100.0 | /mnt/stockage/packages/f38/autotrace/po/ja.po | 
 {.sortable}
 
 

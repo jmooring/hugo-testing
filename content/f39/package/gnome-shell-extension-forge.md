@@ -18,11 +18,11 @@ The package gnome-shell-extension-forge (version 77):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f39/language/it.md" >}}) | 126 | 222 | 56.8 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/it.po | 
- | [fr_CA]({{< ref "/f39/language/fr_CA.md" >}}) | 119 | 222 | 53.6 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/fr.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 119 | 222 | 53.6 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/pt_BR.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 116 | 222 | 52.3 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/nl.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1 | 222 | 0.5 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/es.po | 
+ | [it](/f39/language/it) | 126 | 222 | 56.8 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/it.po | 
+ | [fr_CA](/f39/language/fr_CA) | 119 | 222 | 53.6 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/fr.po | 
+ | [pt_BR](/f39/language/pt_BR) | 119 | 222 | 53.6 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/pt_BR.po | 
+ | [nl](/f39/language/nl) | 116 | 222 | 52.3 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/nl.po | 
+ | [es](/f39/language/es) | 1 | 222 | 0.5 | /mnt/stockage/packages/f39/gnome-shell-extension-forge/po/es.po | 
 {.sortable}
 
 

@@ -38,44 +38,44 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcin]({{< ref "/f12/package/gcin.md" >}}) | 218 | 218 | 100.0 | LANGUAGE <LL@li.org> | 
- | [java-gnome]({{< ref "/f12/package/java-gnome.md" >}}) | 2 | 2 | 100.0 |  | 
- | [proftpd]({{< ref "/f12/package/proftpd.md" >}}) | 833 | 833 | 100.0 | none | 
- | [python-nevow]({{< ref "/f12/package/python-nevow.md" >}}) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f12/package/sugar-browse.md" >}}) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f12/package/sugar-calculator.md" >}}) | 565 | 565 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f12/package/sugar-chat.md" >}}) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f12/package/sugar-imageviewer.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f12/package/sugar-jukebox.md" >}}) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f12/package/sugar-log.md" >}}) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f12/package/sugar-read.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f12/package/sugar-terminal.md" >}}) | 6 | 6 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f12/package/sugar-write.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [wget]({{< ref "/f12/package/wget.md" >}}) | 2260 | 2260 | 100.0 | none | 
- | [sugar-turtleart]({{< ref "/f12/package/sugar-turtleart.md" >}}) | 77 | 78 | 98.7 | LANGUAGE <LL@li.org> | 
- | [gjots2]({{< ref "/f12/package/gjots2.md" >}}) | 837 | 906 | 92.4 | <en@li.org> | 
- | [gcalctool]({{< ref "/f12/package/gcalctool.md" >}}) | 842 | 915 | 92.0 |  | 
- | [jpoker]({{< ref "/f12/package/jpoker.md" >}}) | 256 | 279 | 91.8 | <pokersource-users@gna.org> | 
- | [poker-engine]({{< ref "/f12/package/poker-engine.md" >}}) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
- | [springlobby]({{< ref "/f12/package/springlobby.md" >}}) | 3894 | 4695 | 82.9 |  | 
- | [liblicense]({{< ref "/f12/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [gnubg]({{< ref "/f12/package/gnubg.md" >}}) | 10382 | 16575 | 62.6 | none | 
- | [listen]({{< ref "/f12/package/listen.md" >}}) | 617 | 1783 | 34.6 | English (United States) <en_US@li.org> | 
- | [poker-network]({{< ref "/f12/package/poker-network.md" >}}) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
- | [poker2d]({{< ref "/f12/package/poker2d.md" >}}) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
- | [gnomebaker]({{< ref "/f12/package/gnomebaker.md" >}}) | 271 | 1167 | 23.2 | English (United States) <en_US@li.org> | 
- | [gnubik]({{< ref "/f12/package/gnubik.md" >}}) | 39 | 217 | 18.0 | American <john@darrington.wattle.id.au> | 
- | [whaawmp]({{< ref "/f12/package/whaawmp.md" >}}) | 132 | 757 | 17.4 | English (United States) <en_US@li.org> | 
- | [sugar-pippy]({{< ref "/f12/package/sugar-pippy.md" >}}) | 1 | 40 | 2.5 | English | 
- | [e16]({{< ref "/f12/package/e16.md" >}}) | 9 | 2785 | 0.3 | American English <en@li.org> | 
- | [phpesp]({{< ref "/f12/package/phpesp.md" >}}) | 3 | 2230 | 0.1 | en_US <jflemer@alum.rpi.edu> | 
- | [zarafa]({{< ref "/f12/package/zarafa.md" >}}) | 2 | 4172 | 0.0 | en_US <en@li.org> | 
- | [PyXML]({{< ref "/f12/package/PyXML.md" >}}) | 0 | 115 | 0.0 | English <en@translate.freefriends.org> | 
- | [compiz]({{< ref "/f12/package/compiz.md" >}}) | 0 | 3279 | 0.0 | English <i18n@suse.de> | 
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wxPython]({{< ref "/f12/package/wxPython.md" >}}) | 0 | 2251 | 0.0 | LANGUAGE <LL@li.org> | 
- | [xine-lib]({{< ref "/f12/package/xine-lib.md" >}}) | 0 | 11725 | 0.0 | en_US <none> | 
- | [xmlcopyeditor]({{< ref "/f12/package/xmlcopyeditor.md" >}}) | 0 | 1354 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gcin](/f12/package/gcin) | 218 | 218 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [java-gnome](/f12/package/java-gnome) | 2 | 2 | 100.0 |  | 
+ | [proftpd](/f12/package/proftpd) | 833 | 833 | 100.0 | none | 
+ | [python-nevow](/f12/package/python-nevow) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f12/package/sugar-browse) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f12/package/sugar-calculator) | 565 | 565 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f12/package/sugar-chat) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f12/package/sugar-imageviewer) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f12/package/sugar-jukebox) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f12/package/sugar-log) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f12/package/sugar-read) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f12/package/sugar-terminal) | 6 | 6 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f12/package/sugar-write) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [wget](/f12/package/wget) | 2260 | 2260 | 100.0 | none | 
+ | [sugar-turtleart](/f12/package/sugar-turtleart) | 77 | 78 | 98.7 | LANGUAGE <LL@li.org> | 
+ | [gjots2](/f12/package/gjots2) | 837 | 906 | 92.4 | <en@li.org> | 
+ | [gcalctool](/f12/package/gcalctool) | 842 | 915 | 92.0 |  | 
+ | [jpoker](/f12/package/jpoker) | 256 | 279 | 91.8 | <pokersource-users@gna.org> | 
+ | [poker-engine](/f12/package/poker-engine) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
+ | [springlobby](/f12/package/springlobby) | 3894 | 4695 | 82.9 |  | 
+ | [liblicense](/f12/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [gnubg](/f12/package/gnubg) | 10382 | 16575 | 62.6 | none | 
+ | [listen](/f12/package/listen) | 617 | 1783 | 34.6 | English (United States) <en_US@li.org> | 
+ | [poker-network](/f12/package/poker-network) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
+ | [poker2d](/f12/package/poker2d) | 268 | 913 | 29.4 | <pokersource-users@gna.org> | 
+ | [gnomebaker](/f12/package/gnomebaker) | 271 | 1167 | 23.2 | English (United States) <en_US@li.org> | 
+ | [gnubik](/f12/package/gnubik) | 39 | 217 | 18.0 | American <john@darrington.wattle.id.au> | 
+ | [whaawmp](/f12/package/whaawmp) | 132 | 757 | 17.4 | English (United States) <en_US@li.org> | 
+ | [sugar-pippy](/f12/package/sugar-pippy) | 1 | 40 | 2.5 | English | 
+ | [e16](/f12/package/e16) | 9 | 2785 | 0.3 | American English <en@li.org> | 
+ | [phpesp](/f12/package/phpesp) | 3 | 2230 | 0.1 | en_US <jflemer@alum.rpi.edu> | 
+ | [zarafa](/f12/package/zarafa) | 2 | 4172 | 0.0 | en_US <en@li.org> | 
+ | [PyXML](/f12/package/PyXML) | 0 | 115 | 0.0 | English <en@translate.freefriends.org> | 
+ | [compiz](/f12/package/compiz) | 0 | 3279 | 0.0 | English <i18n@suse.de> | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wxPython](/f12/package/wxPython) | 0 | 2251 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [xine-lib](/f12/package/xine-lib) | 0 | 11725 | 0.0 | en_US <none> | 
+ | [xmlcopyeditor](/f12/package/xmlcopyeditor) | 0 | 1354 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -87,7 +87,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [springlobby]({{< ref "/f12/package/springlobby.md" >}}) | /mnt/stockage/packages/f12/springlobby/po/en_US.po | error-unicode |  | 
+ | [springlobby](/f12/package/springlobby) | /mnt/stockage/packages/f12/springlobby/po/en_US.po | error-unicode |  | 
 {.sortable}
 
 

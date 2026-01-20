@@ -18,12 +18,12 @@ The package uget (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 422 | 457 | 92.3 | /mnt/stockage/packages/f10/uget/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 57 | 457 | 12.5 | /mnt/stockage/packages/f10/uget/po/zh_CN.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 48 | 457 | 10.5 | /mnt/stockage/packages/f10/uget/po/ru.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 47 | 457 | 10.3 | /mnt/stockage/packages/f10/uget/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 46 | 457 | 10.1 | /mnt/stockage/packages/f10/uget/po/pl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 36 | 457 | 7.9 | /mnt/stockage/packages/f10/uget/po/it.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 422 | 457 | 92.3 | /mnt/stockage/packages/f10/uget/po/zh_TW.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 57 | 457 | 12.5 | /mnt/stockage/packages/f10/uget/po/zh_CN.po | 
+ | [ru](/f10/language/ru) | 48 | 457 | 10.5 | /mnt/stockage/packages/f10/uget/po/ru.po | 
+ | [fr](/f10/language/fr) | 47 | 457 | 10.3 | /mnt/stockage/packages/f10/uget/po/fr.po | 
+ | [pl](/f10/language/pl) | 46 | 457 | 10.1 | /mnt/stockage/packages/f10/uget/po/pl.po | 
+ | [it](/f10/language/it) | 36 | 457 | 7.9 | /mnt/stockage/packages/f10/uget/po/it.po | 
 {.sortable}
 
 

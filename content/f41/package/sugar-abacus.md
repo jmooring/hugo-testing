@@ -18,81 +18,81 @@ The package sugar-abacus (version 61):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f41/language/ach.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ach.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/am.po | 
- | [an]({{< ref "/f41/language/an.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/an.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ar.po | 
- | [ayc]({{< ref "/f41/language/ayc.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ayc.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/bn.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/el.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/en.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/en_GB.po | 
- | [en_US]({{< ref "/f41/language/en_US.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/en_US.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pbs.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/es.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/fa.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/fr.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/fy.po | 
- | [gn]({{< ref "/f41/language/gn.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/gn.po | 
- | [gug]({{< ref "/f41/language/gug.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/gug.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hr.po | 
- | [ht]({{< ref "/f41/language/ht.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ht.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hu.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hy.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/id.po | 
- | [ig]({{< ref "/f41/language/ig.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ibo.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/it.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/lt.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ml.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ms.po | 
- | [nah]({{< ref "/f41/language/nah.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/nah.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/nl.po | 
- | [pap]({{< ref "/f41/language/pap.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pap.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sk.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sq.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sv.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ta.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/uk.po | 
- | [yo]({{< ref "/f41/language/yo.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/yo.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/zh_TW.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/bg.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/ja.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/sl.po | 
- | [son]({{< ref "/f41/language/son.md" >}}) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/son.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/vi.po | 
- | [hus]({{< ref "/f41/language/hus.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/hus.po | 
- | [mg]({{< ref "/f41/language/mg.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/mg.po | 
- | [mi]({{< ref "/f41/language/mi.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/mi.po | 
- | [qu]({{< ref "/f41/language/qu.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/quz.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/rw.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/sr.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/th.po | 
- | [sw]({{< ref "/f41/language/sw.md" >}}) | 21 | 28 | 75.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sw.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 20 | 28 | 71.4 | /mnt/stockage/packages/f41/sugar-abacus/po/mn.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 15 | 28 | 53.6 | /mnt/stockage/packages/f41/sugar-abacus/po/si.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 13 | 28 | 46.4 | /mnt/stockage/packages/f41/sugar-abacus/po/km.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 11 | 28 | 39.3 | /mnt/stockage/packages/f41/sugar-abacus/po/af.po | 
- | [to]({{< ref "/f41/language/to.md" >}}) | 11 | 28 | 39.3 | /mnt/stockage/packages/f41/sugar-abacus/po/to.po | 
- | [ay]({{< ref "/f41/language/ay.md" >}}) | 7 | 29 | 24.1 | /mnt/stockage/packages/f41/sugar-abacus/po/aym.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 3 | 28 | 10.7 | /mnt/stockage/packages/f41/sugar-abacus/po/kab.po | 
- | [tzm]({{< ref "/f41/language/tzm.md" >}}) | 3 | 28 | 10.7 | /mnt/stockage/packages/f41/sugar-abacus/po/tzm.po | 
- | [sm]({{< ref "/f41/language/sm.md" >}}) | 3 | 34 | 8.8 | /mnt/stockage/packages/f41/sugar-abacus/po/sm.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1 | 28 | 3.6 | /mnt/stockage/packages/f41/sugar-abacus/po/fi.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 0 | 28 | 0.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ur.po | 
+ | [ach](/f41/language/ach) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ach.po | 
+ | [am](/f41/language/am) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/am.po | 
+ | [an](/f41/language/an) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/an.po | 
+ | [ar](/f41/language/ar) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ar.po | 
+ | [ayc](/f41/language/ayc) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ayc.po | 
+ | [bn](/f41/language/bn) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/bn.po | 
+ | [ca](/f41/language/ca) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ca.po | 
+ | [cs](/f41/language/cs) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/cs.po | 
+ | [da](/f41/language/da) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/da.po | 
+ | [de](/f41/language/de) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/de.po | 
+ | [el](/f41/language/el) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/el.po | 
+ | [en](/f41/language/en) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/en.po | 
+ | [en_GB](/f41/language/en_GB) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/en_GB.po | 
+ | [en_US](/f41/language/en_US) | 34 | 34 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/en_US.po | 
+ | [error](/f41/language/error) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pbs.po | 
+ | [es](/f41/language/es) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/es.po | 
+ | [fa](/f41/language/fa) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/fa.po | 
+ | [fr](/f41/language/fr) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/fr.po | 
+ | [fy](/f41/language/fy) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/fy.po | 
+ | [gn](/f41/language/gn) | 34 | 34 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/gn.po | 
+ | [gug](/f41/language/gug) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/gug.po | 
+ | [he](/f41/language/he) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/he.po | 
+ | [hi](/f41/language/hi) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hi.po | 
+ | [hr](/f41/language/hr) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hr.po | 
+ | [ht](/f41/language/ht) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ht.po | 
+ | [hu](/f41/language/hu) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hu.po | 
+ | [hy](/f41/language/hy) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/hy.po | 
+ | [id](/f41/language/id) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/id.po | 
+ | [ig](/f41/language/ig) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ibo.po | 
+ | [it](/f41/language/it) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/it.po | 
+ | [ko](/f41/language/ko) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ko.po | 
+ | [lt](/f41/language/lt) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/lt.po | 
+ | [ml](/f41/language/ml) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ml.po | 
+ | [ms](/f41/language/ms) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ms.po | 
+ | [nah](/f41/language/nah) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/nah.po | 
+ | [ne](/f41/language/ne) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ne.po | 
+ | [nl](/f41/language/nl) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/nl.po | 
+ | [pap](/f41/language/pap) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pap.po | 
+ | [pl](/f41/language/pl) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pl.po | 
+ | [pt](/f41/language/pt) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ro.po | 
+ | [ru](/f41/language/ru) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ru.po | 
+ | [sk](/f41/language/sk) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sk.po | 
+ | [sq](/f41/language/sq) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sq.po | 
+ | [sv](/f41/language/sv) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sv.po | 
+ | [ta](/f41/language/ta) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ta.po | 
+ | [uk](/f41/language/uk) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/uk.po | 
+ | [yo](/f41/language/yo) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/yo.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 28 | 28 | 100.0 | /mnt/stockage/packages/f41/sugar-abacus/po/zh_TW.po | 
+ | [bg](/f41/language/bg) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/bg.po | 
+ | [ja](/f41/language/ja) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/ja.po | 
+ | [sl](/f41/language/sl) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/sl.po | 
+ | [son](/f41/language/son) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/son.po | 
+ | [vi](/f41/language/vi) | 23 | 28 | 82.1 | /mnt/stockage/packages/f41/sugar-abacus/po/vi.po | 
+ | [hus](/f41/language/hus) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/hus.po | 
+ | [mg](/f41/language/mg) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/mg.po | 
+ | [mi](/f41/language/mi) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/mi.po | 
+ | [qu](/f41/language/qu) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/quz.po | 
+ | [rw](/f41/language/rw) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/rw.po | 
+ | [sr](/f41/language/sr) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/sr.po | 
+ | [th](/f41/language/th) | 22 | 28 | 78.6 | /mnt/stockage/packages/f41/sugar-abacus/po/th.po | 
+ | [sw](/f41/language/sw) | 21 | 28 | 75.0 | /mnt/stockage/packages/f41/sugar-abacus/po/sw.po | 
+ | [mn](/f41/language/mn) | 20 | 28 | 71.4 | /mnt/stockage/packages/f41/sugar-abacus/po/mn.po | 
+ | [si](/f41/language/si) | 15 | 28 | 53.6 | /mnt/stockage/packages/f41/sugar-abacus/po/si.po | 
+ | [km](/f41/language/km) | 13 | 28 | 46.4 | /mnt/stockage/packages/f41/sugar-abacus/po/km.po | 
+ | [af](/f41/language/af) | 11 | 28 | 39.3 | /mnt/stockage/packages/f41/sugar-abacus/po/af.po | 
+ | [to](/f41/language/to) | 11 | 28 | 39.3 | /mnt/stockage/packages/f41/sugar-abacus/po/to.po | 
+ | [ay](/f41/language/ay) | 7 | 29 | 24.1 | /mnt/stockage/packages/f41/sugar-abacus/po/aym.po | 
+ | [kab](/f41/language/kab) | 3 | 28 | 10.7 | /mnt/stockage/packages/f41/sugar-abacus/po/kab.po | 
+ | [tzm](/f41/language/tzm) | 3 | 28 | 10.7 | /mnt/stockage/packages/f41/sugar-abacus/po/tzm.po | 
+ | [sm](/f41/language/sm) | 3 | 34 | 8.8 | /mnt/stockage/packages/f41/sugar-abacus/po/sm.po | 
+ | [fi](/f41/language/fi) | 1 | 28 | 3.6 | /mnt/stockage/packages/f41/sugar-abacus/po/fi.po | 
+ | [ur](/f41/language/ur) | 0 | 28 | 0.0 | /mnt/stockage/packages/f41/sugar-abacus/po/ur.po | 
 {.sortable}
 
 

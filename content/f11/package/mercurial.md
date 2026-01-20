@@ -18,16 +18,16 @@ The package mercurial (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 25817 | 25817 | 100.0 | /mnt/stockage/packages/f11/mercurial/i18n/pt_BR.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 20349 | 25190 | 80.8 | /mnt/stockage/packages/f11/mercurial/i18n/ja.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 16354 | 24036 | 68.0 | /mnt/stockage/packages/f11/mercurial/i18n/de.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 12647 | 25904 | 48.8 | /mnt/stockage/packages/f11/mercurial/i18n/da.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 8992 | 25535 | 35.2 | /mnt/stockage/packages/f11/mercurial/i18n/sv.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 4891 | 23489 | 20.8 | /mnt/stockage/packages/f11/mercurial/i18n/it.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 2811 | 23489 | 12.0 | /mnt/stockage/packages/f11/mercurial/i18n/zh_TW.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 2481 | 24071 | 10.3 | /mnt/stockage/packages/f11/mercurial/i18n/el.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2321 | 23489 | 9.9 | /mnt/stockage/packages/f11/mercurial/i18n/fr.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 1590 | 23875 | 6.7 | /mnt/stockage/packages/f11/mercurial/i18n/zh_CN.po | 
+ | [pt_BR](/f11/language/pt_BR) | 25817 | 25817 | 100.0 | /mnt/stockage/packages/f11/mercurial/i18n/pt_BR.po | 
+ | [ja](/f11/language/ja) | 20349 | 25190 | 80.8 | /mnt/stockage/packages/f11/mercurial/i18n/ja.po | 
+ | [de](/f11/language/de) | 16354 | 24036 | 68.0 | /mnt/stockage/packages/f11/mercurial/i18n/de.po | 
+ | [da](/f11/language/da) | 12647 | 25904 | 48.8 | /mnt/stockage/packages/f11/mercurial/i18n/da.po | 
+ | [sv](/f11/language/sv) | 8992 | 25535 | 35.2 | /mnt/stockage/packages/f11/mercurial/i18n/sv.po | 
+ | [it](/f11/language/it) | 4891 | 23489 | 20.8 | /mnt/stockage/packages/f11/mercurial/i18n/it.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 2811 | 23489 | 12.0 | /mnt/stockage/packages/f11/mercurial/i18n/zh_TW.po | 
+ | [el](/f11/language/el) | 2481 | 24071 | 10.3 | /mnt/stockage/packages/f11/mercurial/i18n/el.po | 
+ | [fr](/f11/language/fr) | 2321 | 23489 | 9.9 | /mnt/stockage/packages/f11/mercurial/i18n/fr.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 1590 | 23875 | 6.7 | /mnt/stockage/packages/f11/mercurial/i18n/zh_CN.po | 
 {.sortable}
 
 

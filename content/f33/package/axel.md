@@ -18,15 +18,15 @@ The package axel (version 2.17.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 576 | 576 | 100.0 | /mnt/stockage/packages/f33/axel/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 576 | 576 | 100.0 | /mnt/stockage/packages/f33/axel/po/es.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 576 | 576 | 100.0 | /mnt/stockage/packages/f33/axel/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 562 | 576 | 97.6 | /mnt/stockage/packages/f33/axel/po/zh_CN.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 427 | 576 | 74.1 | /mnt/stockage/packages/f33/axel/po/nl.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 340 | 576 | 59.0 | /mnt/stockage/packages/f33/axel/po/it.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 277 | 576 | 48.1 | /mnt/stockage/packages/f33/axel/po/id_ID.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 268 | 576 | 46.5 | /mnt/stockage/packages/f33/axel/po/ja.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 266 | 576 | 46.2 | /mnt/stockage/packages/f33/axel/po/ru.po | 
+ | [de](/f33/language/de) | 576 | 576 | 100.0 | /mnt/stockage/packages/f33/axel/po/de.po | 
+ | [es](/f33/language/es) | 576 | 576 | 100.0 | /mnt/stockage/packages/f33/axel/po/es.po | 
+ | [pt_BR](/f33/language/pt_BR) | 576 | 576 | 100.0 | /mnt/stockage/packages/f33/axel/po/pt_BR.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 562 | 576 | 97.6 | /mnt/stockage/packages/f33/axel/po/zh_CN.po | 
+ | [nl](/f33/language/nl) | 427 | 576 | 74.1 | /mnt/stockage/packages/f33/axel/po/nl.po | 
+ | [it](/f33/language/it) | 340 | 576 | 59.0 | /mnt/stockage/packages/f33/axel/po/it.po | 
+ | [id](/f33/language/id) | 277 | 576 | 48.1 | /mnt/stockage/packages/f33/axel/po/id_ID.po | 
+ | [ja](/f33/language/ja) | 268 | 576 | 46.5 | /mnt/stockage/packages/f33/axel/po/ja.po | 
+ | [ru](/f33/language/ru) | 266 | 576 | 46.2 | /mnt/stockage/packages/f33/axel/po/ru.po | 
 {.sortable}
 
 

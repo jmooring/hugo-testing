@@ -18,7 +18,7 @@ The package cups-filters (version 1.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f24/cups-filters/filter/braille/drivers/common/fr-braille.po | 
+ | [fr](/f24/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f24/cups-filters/filter/braille/drivers/common/fr-braille.po | 
 {.sortable}
 
 

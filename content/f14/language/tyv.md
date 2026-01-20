@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [terminator]({{< ref "/f14/package/terminator.md" >}}) | 9 | 339 | 2.7 | Tuvinian <tyv@li.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
- | [sugar-clock]({{< ref "/f14/package/sugar-clock.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f14/package/sugar-moon.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [terminator](/f14/package/terminator) | 9 | 339 | 2.7 | Tuvinian <tyv@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
+ | [sugar-clock](/f14/package/sugar-clock) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f14/package/sugar-moon) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

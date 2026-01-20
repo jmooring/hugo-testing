@@ -18,14 +18,14 @@ The package kgtk (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/cs.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/de.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/de.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/en_GB.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/es.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/fr.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/fr.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/pt_BR.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/ru.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/ru.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/zh_CN.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/zh_CN.po | 
+ | [cs](/f10/language/cs) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/cs.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/cs.po | 
+ | [de](/f10/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/de.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/de.po | 
+ | [en_GB](/f10/language/en_GB) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/en_GB.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/en_GB.po | 
+ | [es](/f10/language/es) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/es.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/es.po | 
+ | [fr](/f10/language/fr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/fr.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/fr.po | 
+ | [pt_BR](/f10/language/pt_BR) | 82 | 82 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/pt_BR.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/ru.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/ru.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 90 | 90 | 100.0 | /mnt/stockage/packages/f10/kgtk/kdialogd3/po/zh_CN.po/mnt/stockage/packages/f10/kgtk/kdialogd4/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package csound (version 6.03.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f25/language/error.md" >}}) | 18062 | 92070 | 19.6 | /mnt/stockage/packages/f25/csound/po/american.po/mnt/stockage/packages/f25/csound/po/french.po/mnt/stockage/packages/f25/csound/po/csound.po/mnt/stockage/packages/f25/csound/po/russian.po/mnt/stockage/packages/f25/csound/po/german.po/mnt/stockage/packages/f25/csound/po/romanian.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 2953 | 15345 | 19.2 | /mnt/stockage/packages/f25/csound/po/italian.po | 
- | [es_CO]({{< ref "/f25/language/es_CO.md" >}}) | 2694 | 15345 | 17.6 | /mnt/stockage/packages/f25/csound/po/es_CO.po | 
+ | [error](/f25/language/error) | 18062 | 92070 | 19.6 | /mnt/stockage/packages/f25/csound/po/american.po/mnt/stockage/packages/f25/csound/po/french.po/mnt/stockage/packages/f25/csound/po/csound.po/mnt/stockage/packages/f25/csound/po/russian.po/mnt/stockage/packages/f25/csound/po/german.po/mnt/stockage/packages/f25/csound/po/romanian.po | 
+ | [it](/f25/language/it) | 2953 | 15345 | 19.2 | /mnt/stockage/packages/f25/csound/po/italian.po | 
+ | [es_CO](/f25/language/es_CO) | 2694 | 15345 | 17.6 | /mnt/stockage/packages/f25/csound/po/es_CO.po | 
 {.sortable}
 
 

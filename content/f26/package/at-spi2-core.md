@@ -18,76 +18,76 @@ The package at-spi2-core (version 2.24.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f26/language/an.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/an.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/as.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ast.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/bg.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/bn_IN.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/bs.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ca.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/en_CA.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/en_GB.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/eo.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/eu.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fa.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fur.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ga.po | 
- | [gd]({{< ref "/f26/language/gd.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/gd.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/gl.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/gu.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/hi.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ja.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/kk.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/km.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/kn.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/lv.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ml.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/mr.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/nl.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/oc.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/or.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sl.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sq.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sv.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/te.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/tg.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/uk.po | 
- | [uz]({{< ref "/f26/language/uz.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/zh_HK.po | 
+ | [an](/f26/language/an) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/an.po | 
+ | [as](/f26/language/as) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/as.po | 
+ | [ast](/f26/language/ast) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ast.po | 
+ | [be](/f26/language/be) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/be.po | 
+ | [bg](/f26/language/bg) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/bg.po | 
+ | [bn_IN](/f26/language/bn_IN) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/bn_IN.po | 
+ | [bs](/f26/language/bs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/bs.po | 
+ | [ca](/f26/language/ca) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ca.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/cs.po | 
+ | [da](/f26/language/da) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/da.po | 
+ | [de](/f26/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/de.po | 
+ | [el](/f26/language/el) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/en_CA.po | 
+ | [en_GB](/f26/language/en_GB) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/en_GB.po | 
+ | [eo](/f26/language/eo) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/eo.po | 
+ | [es](/f26/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/es.po | 
+ | [et](/f26/language/et) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/et.po | 
+ | [eu](/f26/language/eu) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/eu.po | 
+ | [fa](/f26/language/fa) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fa.po | 
+ | [fi](/f26/language/fi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fi.po | 
+ | [fr](/f26/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fr.po | 
+ | [fur](/f26/language/fur) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/fur.po | 
+ | [ga](/f26/language/ga) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ga.po | 
+ | [gd](/f26/language/gd) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/gd.po | 
+ | [gl](/f26/language/gl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/gl.po | 
+ | [gu](/f26/language/gu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/gu.po | 
+ | [he](/f26/language/he) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/he.po | 
+ | [hi](/f26/language/hi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/hi.po | 
+ | [hr](/f26/language/hr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/hr.po | 
+ | [hu](/f26/language/hu) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/hu.po | 
+ | [id](/f26/language/id) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/id.po | 
+ | [it](/f26/language/it) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/it.po | 
+ | [ja](/f26/language/ja) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ja.po | 
+ | [kk](/f26/language/kk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/kk.po | 
+ | [km](/f26/language/km) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/km.po | 
+ | [kn](/f26/language/kn) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/kn.po | 
+ | [ko](/f26/language/ko) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ko.po | 
+ | [lt](/f26/language/lt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/lt.po | 
+ | [lv](/f26/language/lv) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/lv.po | 
+ | [ml](/f26/language/ml) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ml.po | 
+ | [mr](/f26/language/mr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/mr.po | 
+ | [ms](/f26/language/ms) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/nb.po | 
+ | [nl](/f26/language/nl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/nl.po | 
+ | [oc](/f26/language/oc) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/oc.po | 
+ | [or](/f26/language/or) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/or.po | 
+ | [pa](/f26/language/pa) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pa.po | 
+ | [pl](/f26/language/pl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pl.po | 
+ | [pt](/f26/language/pt) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ro.po | 
+ | [ru](/f26/language/ru) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ru.po | 
+ | [sk](/f26/language/sk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sk.po | 
+ | [sl](/f26/language/sl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sl.po | 
+ | [sq](/f26/language/sq) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sq.po | 
+ | [sr](/f26/language/sr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/sv.po | 
+ | [ta](/f26/language/ta) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ta.po | 
+ | [te](/f26/language/te) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/te.po | 
+ | [tg](/f26/language/tg) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/tg.po | 
+ | [tr](/f26/language/tr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/tr.po | 
+ | [ug](/f26/language/ug) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/ug.po | 
+ | [uk](/f26/language/uk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/uk.po | 
+ | [uz](/f26/language/uz) | 5 | 5 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/uz@cyrillic.po | 
+ | [vi](/f26/language/vi) | 96 | 96 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 10 | 10 | 100.0 | /mnt/stockage/packages/f26/at-spi2-core/po/zh_HK.po | 
 {.sortable}
 
 

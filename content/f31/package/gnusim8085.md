@@ -18,18 +18,18 @@ The package gnusim8085 (version 1.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f31/gnusim8085/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f31/gnusim8085/po/es.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 568 | 568 | 100.0 | /mnt/stockage/packages/f31/gnusim8085/po/pt_BR.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 534 | 568 | 94.0 | /mnt/stockage/packages/f31/gnusim8085/po/gu.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 534 | 568 | 94.0 | /mnt/stockage/packages/f31/gnusim8085/po/kn.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 523 | 568 | 92.1 | /mnt/stockage/packages/f31/gnusim8085/po/fr.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 486 | 568 | 85.6 | /mnt/stockage/packages/f31/gnusim8085/po/el.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 286 | 568 | 50.4 | /mnt/stockage/packages/f31/gnusim8085/po/it.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 238 | 568 | 41.9 | /mnt/stockage/packages/f31/gnusim8085/po/eo.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 235 | 568 | 41.4 | /mnt/stockage/packages/f31/gnusim8085/po/ast.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 193 | 568 | 34.0 | /mnt/stockage/packages/f31/gnusim8085/po/ar.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 172 | 568 | 30.3 | /mnt/stockage/packages/f31/gnusim8085/po/ta.po | 
+ | [de](/f31/language/de) | 568 | 568 | 100.0 | /mnt/stockage/packages/f31/gnusim8085/po/de.po | 
+ | [es](/f31/language/es) | 568 | 568 | 100.0 | /mnt/stockage/packages/f31/gnusim8085/po/es.po | 
+ | [pt_BR](/f31/language/pt_BR) | 568 | 568 | 100.0 | /mnt/stockage/packages/f31/gnusim8085/po/pt_BR.po | 
+ | [gu](/f31/language/gu) | 534 | 568 | 94.0 | /mnt/stockage/packages/f31/gnusim8085/po/gu.po | 
+ | [kn](/f31/language/kn) | 534 | 568 | 94.0 | /mnt/stockage/packages/f31/gnusim8085/po/kn.po | 
+ | [fr](/f31/language/fr) | 523 | 568 | 92.1 | /mnt/stockage/packages/f31/gnusim8085/po/fr.po | 
+ | [el](/f31/language/el) | 486 | 568 | 85.6 | /mnt/stockage/packages/f31/gnusim8085/po/el.po | 
+ | [it](/f31/language/it) | 286 | 568 | 50.4 | /mnt/stockage/packages/f31/gnusim8085/po/it.po | 
+ | [eo](/f31/language/eo) | 238 | 568 | 41.9 | /mnt/stockage/packages/f31/gnusim8085/po/eo.po | 
+ | [ast](/f31/language/ast) | 235 | 568 | 41.4 | /mnt/stockage/packages/f31/gnusim8085/po/ast.po | 
+ | [ar](/f31/language/ar) | 193 | 568 | 34.0 | /mnt/stockage/packages/f31/gnusim8085/po/ar.po | 
+ | [ta](/f31/language/ta) | 172 | 568 | 30.3 | /mnt/stockage/packages/f31/gnusim8085/po/ta.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package edgar (version 1.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/de.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/en_GB.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/en_US.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/ru.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/uk.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f40/edgar/locale/cs.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 4356 | 11474 | 38.0 | /mnt/stockage/packages/f40/edgar/locale/pl.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f40/edgar/locale/zh_CN.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f40/edgar/locale/sk.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f40/edgar/locale/pt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f40/edgar/locale/ro.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f40/edgar/locale/fa.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 714 | 11474 | 6.2 | /mnt/stockage/packages/f40/edgar/locale/eo.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f40/edgar/locale/el.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f40/edgar/locale/id.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f40/edgar/locale/ms.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 8 | 11474 | 0.1 | /mnt/stockage/packages/f40/edgar/locale/lv.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/da.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/tr.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/hi.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/sr.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ar.po | 
- | [jv]({{< ref "/f40/language/jv.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/jv.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ko.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ta.po | 
- | [ur]({{< ref "/f40/language/ur.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ur.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/vi.po | 
+ | [de](/f40/language/de) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/de.po | 
+ | [en_GB](/f40/language/en_GB) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/en_GB.po | 
+ | [en_US](/f40/language/en_US) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/en_US.po | 
+ | [es](/f40/language/es) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/es.po | 
+ | [fr](/f40/language/fr) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/fr.po | 
+ | [it](/f40/language/it) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/it.po | 
+ | [ja](/f40/language/ja) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/ja.po | 
+ | [nl](/f40/language/nl) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/pt_BR.po | 
+ | [ru](/f40/language/ru) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/ru.po | 
+ | [uk](/f40/language/uk) | 11474 | 11474 | 100.0 | /mnt/stockage/packages/f40/edgar/locale/uk.po | 
+ | [cs](/f40/language/cs) | 11364 | 11474 | 99.0 | /mnt/stockage/packages/f40/edgar/locale/cs.po | 
+ | [pl](/f40/language/pl) | 4356 | 11474 | 38.0 | /mnt/stockage/packages/f40/edgar/locale/pl.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 3636 | 11474 | 31.7 | /mnt/stockage/packages/f40/edgar/locale/zh_CN.po | 
+ | [sk](/f40/language/sk) | 2245 | 11474 | 19.6 | /mnt/stockage/packages/f40/edgar/locale/sk.po | 
+ | [pt](/f40/language/pt) | 960 | 11474 | 8.4 | /mnt/stockage/packages/f40/edgar/locale/pt.po | 
+ | [ro](/f40/language/ro) | 860 | 11474 | 7.5 | /mnt/stockage/packages/f40/edgar/locale/ro.po | 
+ | [fa](/f40/language/fa) | 792 | 11474 | 6.9 | /mnt/stockage/packages/f40/edgar/locale/fa.po | 
+ | [eo](/f40/language/eo) | 714 | 11474 | 6.2 | /mnt/stockage/packages/f40/edgar/locale/eo.po | 
+ | [el](/f40/language/el) | 436 | 11474 | 3.8 | /mnt/stockage/packages/f40/edgar/locale/el.po | 
+ | [id](/f40/language/id) | 333 | 11474 | 2.9 | /mnt/stockage/packages/f40/edgar/locale/id.po | 
+ | [ms](/f40/language/ms) | 200 | 11474 | 1.7 | /mnt/stockage/packages/f40/edgar/locale/ms.po | 
+ | [lv](/f40/language/lv) | 8 | 11474 | 0.1 | /mnt/stockage/packages/f40/edgar/locale/lv.po | 
+ | [da](/f40/language/da) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/da.po | 
+ | [sv](/f40/language/sv) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/sv.po | 
+ | [tr](/f40/language/tr) | 4 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/tr.po | 
+ | [hi](/f40/language/hi) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/hi.po | 
+ | [sr](/f40/language/sr) | 2 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/sr.po | 
+ | [ar](/f40/language/ar) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ar.po | 
+ | [jv](/f40/language/jv) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/jv.po | 
+ | [ko](/f40/language/ko) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ko.po | 
+ | [ta](/f40/language/ta) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ta.po | 
+ | [ur](/f40/language/ur) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/ur.po | 
+ | [vi](/f40/language/vi) | 1 | 11474 | 0.0 | /mnt/stockage/packages/f40/edgar/locale/vi.po | 
 {.sortable}
 
 

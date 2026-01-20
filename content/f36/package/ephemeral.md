@@ -18,19 +18,19 @@ The package ephemeral (version 7.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/es.po/mnt/stockage/packages/f36/ephemeral/po/extra/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1923 | 1923 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/fr.po/mnt/stockage/packages/f36/ephemeral/po/extra/fr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/it.po/mnt/stockage/packages/f36/ephemeral/po/extra/it.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/nl.po/mnt/stockage/packages/f36/ephemeral/po/extra/nl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/tr.po/mnt/stockage/packages/f36/ephemeral/po/extra/tr.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 1392 | 1864 | 74.7 | /mnt/stockage/packages/f36/ephemeral/po/ca.po/mnt/stockage/packages/f36/ephemeral/po/extra/ca.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 1514 | 2049 | 73.9 | /mnt/stockage/packages/f36/ephemeral/po/uk.po/mnt/stockage/packages/f36/ephemeral/po/extra/uk.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1054 | 1864 | 56.5 | /mnt/stockage/packages/f36/ephemeral/po/pl.po/mnt/stockage/packages/f36/ephemeral/po/extra/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 825 | 2116 | 39.0 | /mnt/stockage/packages/f36/ephemeral/po/pt.po/mnt/stockage/packages/f36/ephemeral/po/extra/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 675 | 1864 | 36.2 | /mnt/stockage/packages/f36/ephemeral/po/ru.po/mnt/stockage/packages/f36/ephemeral/po/extra/ru.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 553 | 1864 | 29.7 | /mnt/stockage/packages/f36/ephemeral/po/pt_BR.po/mnt/stockage/packages/f36/ephemeral/po/extra/pt_BR.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 533 | 1864 | 28.6 | /mnt/stockage/packages/f36/ephemeral/po/de.po/mnt/stockage/packages/f36/ephemeral/po/extra/de.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 1864 | 0.0 | /mnt/stockage/packages/f36/ephemeral/po/lt.po/mnt/stockage/packages/f36/ephemeral/po/extra/lt.po | 
+ | [es](/f36/language/es) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/es.po/mnt/stockage/packages/f36/ephemeral/po/extra/es.po | 
+ | [fr](/f36/language/fr) | 1923 | 1923 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/fr.po/mnt/stockage/packages/f36/ephemeral/po/extra/fr.po | 
+ | [it](/f36/language/it) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/it.po/mnt/stockage/packages/f36/ephemeral/po/extra/it.po | 
+ | [nl](/f36/language/nl) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/nl.po/mnt/stockage/packages/f36/ephemeral/po/extra/nl.po | 
+ | [tr](/f36/language/tr) | 1929 | 1929 | 100.0 | /mnt/stockage/packages/f36/ephemeral/po/tr.po/mnt/stockage/packages/f36/ephemeral/po/extra/tr.po | 
+ | [ca](/f36/language/ca) | 1392 | 1864 | 74.7 | /mnt/stockage/packages/f36/ephemeral/po/ca.po/mnt/stockage/packages/f36/ephemeral/po/extra/ca.po | 
+ | [uk](/f36/language/uk) | 1514 | 2049 | 73.9 | /mnt/stockage/packages/f36/ephemeral/po/uk.po/mnt/stockage/packages/f36/ephemeral/po/extra/uk.po | 
+ | [pl](/f36/language/pl) | 1054 | 1864 | 56.5 | /mnt/stockage/packages/f36/ephemeral/po/pl.po/mnt/stockage/packages/f36/ephemeral/po/extra/pl.po | 
+ | [pt](/f36/language/pt) | 825 | 2116 | 39.0 | /mnt/stockage/packages/f36/ephemeral/po/pt.po/mnt/stockage/packages/f36/ephemeral/po/extra/pt.po | 
+ | [ru](/f36/language/ru) | 675 | 1864 | 36.2 | /mnt/stockage/packages/f36/ephemeral/po/ru.po/mnt/stockage/packages/f36/ephemeral/po/extra/ru.po | 
+ | [pt_BR](/f36/language/pt_BR) | 553 | 1864 | 29.7 | /mnt/stockage/packages/f36/ephemeral/po/pt_BR.po/mnt/stockage/packages/f36/ephemeral/po/extra/pt_BR.po | 
+ | [de](/f36/language/de) | 533 | 1864 | 28.6 | /mnt/stockage/packages/f36/ephemeral/po/de.po/mnt/stockage/packages/f36/ephemeral/po/extra/de.po | 
+ | [lt](/f36/language/lt) | 0 | 1864 | 0.0 | /mnt/stockage/packages/f36/ephemeral/po/lt.po/mnt/stockage/packages/f36/ephemeral/po/extra/lt.po | 
 {.sortable}
 
 

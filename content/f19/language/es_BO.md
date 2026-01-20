@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp7]({{< ref "/f19/package/openerp7.md" >}}) | 41 | 22614 | 0.2 | Spanish (Bolivia) <es_BO@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | Spanish (Bolivia) (http://www.transifex.com/projects/p/owncloud/language/es_BO/) | 
+ | [openerp7](/f19/package/openerp7) | 41 | 22614 | 0.2 | Spanish (Bolivia) <es_BO@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | Spanish (Bolivia) (http://www.transifex.com/projects/p/owncloud/language/es_BO/) | 
 {.sortable}
 
 

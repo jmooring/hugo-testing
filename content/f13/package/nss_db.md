@@ -18,8 +18,8 @@ The package nss_db (version 2.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f13/nss_db/po/de.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f13/nss_db/po/nl.po | 
+ | [de](/f13/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f13/nss_db/po/de.po | 
+ | [nl](/f13/language/nl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f13/nss_db/po/nl.po | 
 {.sortable}
 
 

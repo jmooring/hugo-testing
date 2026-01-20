@@ -18,20 +18,20 @@ The package gmusicbrowser (version 1.1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 4685 | 4718 | 99.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/pt.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 4683 | 4718 | 99.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/ko.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 4668 | 4718 | 98.9 | /mnt/stockage/packages/f17/gmusicbrowser/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 4641 | 4718 | 98.4 | /mnt/stockage/packages/f17/gmusicbrowser/po/it.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 4637 | 4718 | 98.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/de.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 4627 | 4718 | 98.1 | /mnt/stockage/packages/f17/gmusicbrowser/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 4621 | 4718 | 97.9 | /mnt/stockage/packages/f17/gmusicbrowser/po/ru.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 3546 | 4718 | 75.2 | /mnt/stockage/packages/f17/gmusicbrowser/po/cs.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 3088 | 4718 | 65.5 | /mnt/stockage/packages/f17/gmusicbrowser/po/sv.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 2921 | 4718 | 61.9 | /mnt/stockage/packages/f17/gmusicbrowser/po/es.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 2689 | 4718 | 57.0 | /mnt/stockage/packages/f17/gmusicbrowser/po/nl.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2247 | 4718 | 47.6 | /mnt/stockage/packages/f17/gmusicbrowser/po/zh_CN.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 2043 | 4718 | 43.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/pl.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 878 | 4718 | 18.6 | /mnt/stockage/packages/f17/gmusicbrowser/po/hu.po | 
+ | [pt](/f17/language/pt) | 4685 | 4718 | 99.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/pt.po | 
+ | [ko](/f17/language/ko) | 4683 | 4718 | 99.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/ko.po | 
+ | [fr](/f17/language/fr) | 4668 | 4718 | 98.9 | /mnt/stockage/packages/f17/gmusicbrowser/po/fr.po | 
+ | [it](/f17/language/it) | 4641 | 4718 | 98.4 | /mnt/stockage/packages/f17/gmusicbrowser/po/it.po | 
+ | [de](/f17/language/de) | 4637 | 4718 | 98.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/de.po | 
+ | [pt_BR](/f17/language/pt_BR) | 4627 | 4718 | 98.1 | /mnt/stockage/packages/f17/gmusicbrowser/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 4621 | 4718 | 97.9 | /mnt/stockage/packages/f17/gmusicbrowser/po/ru.po | 
+ | [cs](/f17/language/cs) | 3546 | 4718 | 75.2 | /mnt/stockage/packages/f17/gmusicbrowser/po/cs.po | 
+ | [sv](/f17/language/sv) | 3088 | 4718 | 65.5 | /mnt/stockage/packages/f17/gmusicbrowser/po/sv.po | 
+ | [es](/f17/language/es) | 2921 | 4718 | 61.9 | /mnt/stockage/packages/f17/gmusicbrowser/po/es.po | 
+ | [nl](/f17/language/nl) | 2689 | 4718 | 57.0 | /mnt/stockage/packages/f17/gmusicbrowser/po/nl.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2247 | 4718 | 47.6 | /mnt/stockage/packages/f17/gmusicbrowser/po/zh_CN.po | 
+ | [pl](/f17/language/pl) | 2043 | 4718 | 43.3 | /mnt/stockage/packages/f17/gmusicbrowser/po/pl.po | 
+ | [hu](/f17/language/hu) | 878 | 4718 | 18.6 | /mnt/stockage/packages/f17/gmusicbrowser/po/hu.po | 
 {.sortable}
 
 

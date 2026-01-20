@@ -18,21 +18,21 @@ The package gnome-shell-extension-caffeine (version 39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/nl/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 148 | 182 | 81.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/de/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/hu/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/it_IT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_BR/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ru/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sv/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/tr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/zh_CN/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 42 | 182 | 23.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/es/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 28 | 182 | 15.4 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ja/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/fr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pl/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [pt_PT]({{< ref "/f35/language/pt_PT.md" >}}) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_PT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sk/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [nl](/f35/language/nl) | 182 | 182 | 100.0 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/nl/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [de](/f35/language/de) | 148 | 182 | 81.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/de/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [hu](/f35/language/hu) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/hu/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [it](/f35/language/it) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/it_IT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [pt_BR](/f35/language/pt_BR) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_BR/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [ru](/f35/language/ru) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ru/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [sv](/f35/language/sv) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sv/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [tr](/f35/language/tr) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/tr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 53 | 182 | 29.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/zh_CN/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [es](/f35/language/es) | 42 | 182 | 23.1 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/es/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [ja](/f35/language/ja) | 28 | 182 | 15.4 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/ja/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [fr](/f35/language/fr) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/fr/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [pl](/f35/language/pl) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pl/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [pt_PT](/f35/language/pt_PT) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/pt_PT/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
+ | [sk](/f35/language/sk) | 17 | 182 | 9.3 | /mnt/stockage/packages/f35/gnome-shell-extension-caffeine/caffeine@patapon.info/locale/sk/LC_MESSAGES/gnome-shell-extension-caffeine.po | 
 {.sortable}
 
 

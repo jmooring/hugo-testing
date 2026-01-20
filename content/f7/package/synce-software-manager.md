@@ -18,8 +18,8 @@ The package synce-software-manager (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f7/synce-software-manager/po/sv.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 133 | 134 | 99.3 | /mnt/stockage/packages/f7/synce-software-manager/po/ru.po | 
+ | [sv](/f7/language/sv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f7/synce-software-manager/po/sv.po | 
+ | [ru](/f7/language/ru) | 133 | 134 | 99.3 | /mnt/stockage/packages/f7/synce-software-manager/po/ru.po | 
 {.sortable}
 
 

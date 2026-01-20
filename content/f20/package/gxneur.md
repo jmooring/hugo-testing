@@ -18,13 +18,13 @@ The package gxneur (version 0.17.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 915 | 915 | 100.0 | /mnt/stockage/packages/f20/gxneur/po/ru.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 373 | 915 | 40.8 | /mnt/stockage/packages/f20/gxneur/po/uk.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 318 | 915 | 34.8 | /mnt/stockage/packages/f20/gxneur/po/he.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 297 | 915 | 32.5 | /mnt/stockage/packages/f20/gxneur/po/de.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 291 | 915 | 31.8 | /mnt/stockage/packages/f20/gxneur/po/be.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 99 | 915 | 10.8 | /mnt/stockage/packages/f20/gxneur/po/ro.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 76 | 915 | 8.3 | /mnt/stockage/packages/f20/gxneur/po/es.po | 
+ | [ru](/f20/language/ru) | 915 | 915 | 100.0 | /mnt/stockage/packages/f20/gxneur/po/ru.po | 
+ | [uk](/f20/language/uk) | 373 | 915 | 40.8 | /mnt/stockage/packages/f20/gxneur/po/uk.po | 
+ | [he](/f20/language/he) | 318 | 915 | 34.8 | /mnt/stockage/packages/f20/gxneur/po/he.po | 
+ | [de](/f20/language/de) | 297 | 915 | 32.5 | /mnt/stockage/packages/f20/gxneur/po/de.po | 
+ | [be](/f20/language/be) | 291 | 915 | 31.8 | /mnt/stockage/packages/f20/gxneur/po/be.po | 
+ | [ro](/f20/language/ro) | 99 | 915 | 10.8 | /mnt/stockage/packages/f20/gxneur/po/ro.po | 
+ | [es](/f20/language/es) | 76 | 915 | 8.3 | /mnt/stockage/packages/f20/gxneur/po/es.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package kf6-ktexttemplate (version 6.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 19 | 27 | 70.4 | /mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/de_DE.po/mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/themes/gettext/dopey/de_DE/LC_MESSAGES/dopey.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 19 | 27 | 70.4 | /mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/fr_FR.po/mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/themes/gettext/dopey/fr_FR/LC_MESSAGES/dopey.po | 
+ | [de](/f40/language/de) | 19 | 27 | 70.4 | /mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/de_DE.po/mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/themes/gettext/dopey/de_DE/LC_MESSAGES/dopey.po | 
+ | [fr](/f40/language/fr) | 19 | 27 | 70.4 | /mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/fr_FR.po/mnt/stockage/packages/f40/kf6-ktexttemplate/examples/contacts/themes/gettext/dopey/fr_FR/LC_MESSAGES/dopey.po | 
 {.sortable}
 
 

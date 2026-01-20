@@ -18,7 +18,7 @@ The package openstack-ironic (version 2014.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/openstack-ironic/ironic/locale/fr/LC_MESSAGES/ironic-log-critical.po | 
+ | [fr](/f22/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/openstack-ironic/ironic/locale/fr/LC_MESSAGES/ironic-log-critical.po | 
 {.sortable}
 
 

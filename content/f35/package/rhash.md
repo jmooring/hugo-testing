@@ -18,16 +18,16 @@ The package rhash (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 465 | 465 | 100.0 | /mnt/stockage/packages/f35/rhash/po/ru.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 380 | 465 | 81.7 | /mnt/stockage/packages/f35/rhash/po/en_AU.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 380 | 465 | 81.7 | /mnt/stockage/packages/f35/rhash/po/uk.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 355 | 465 | 76.3 | /mnt/stockage/packages/f35/rhash/po/de.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 322 | 465 | 69.2 | /mnt/stockage/packages/f35/rhash/po/it.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 313 | 465 | 67.3 | /mnt/stockage/packages/f35/rhash/po/es.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 216 | 465 | 46.5 | /mnt/stockage/packages/f35/rhash/po/gl.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 205 | 465 | 44.1 | /mnt/stockage/packages/f35/rhash/po/ca.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 198 | 465 | 42.6 | /mnt/stockage/packages/f35/rhash/po/ro.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 134 | 465 | 28.8 | /mnt/stockage/packages/f35/rhash/po/fr.po | 
+ | [ru](/f35/language/ru) | 465 | 465 | 100.0 | /mnt/stockage/packages/f35/rhash/po/ru.po | 
+ | [en](/f35/language/en) | 380 | 465 | 81.7 | /mnt/stockage/packages/f35/rhash/po/en_AU.po | 
+ | [uk](/f35/language/uk) | 380 | 465 | 81.7 | /mnt/stockage/packages/f35/rhash/po/uk.po | 
+ | [de](/f35/language/de) | 355 | 465 | 76.3 | /mnt/stockage/packages/f35/rhash/po/de.po | 
+ | [it](/f35/language/it) | 322 | 465 | 69.2 | /mnt/stockage/packages/f35/rhash/po/it.po | 
+ | [es](/f35/language/es) | 313 | 465 | 67.3 | /mnt/stockage/packages/f35/rhash/po/es.po | 
+ | [gl](/f35/language/gl) | 216 | 465 | 46.5 | /mnt/stockage/packages/f35/rhash/po/gl.po | 
+ | [ca](/f35/language/ca) | 205 | 465 | 44.1 | /mnt/stockage/packages/f35/rhash/po/ca.po | 
+ | [ro](/f35/language/ro) | 198 | 465 | 42.6 | /mnt/stockage/packages/f35/rhash/po/ro.po | 
+ | [fr](/f35/language/fr) | 134 | 465 | 28.8 | /mnt/stockage/packages/f35/rhash/po/fr.po | 
 {.sortable}
 
 

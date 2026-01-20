@@ -18,61 +18,61 @@ The package shared-mime-info (version 0.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f16/language/be.md" >}}) | 1387 | 1387 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/be@latin.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/fr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/hu.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ko.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/lv.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/pl.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ru.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/sl.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/uk.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1656 | 1659 | 99.8 | /mnt/stockage/packages/f16/shared-mime-info/po/it.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1637 | 1659 | 98.7 | /mnt/stockage/packages/f16/shared-mime-info/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1607 | 1659 | 96.9 | /mnt/stockage/packages/f16/shared-mime-info/po/zh_CN.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 1596 | 1659 | 96.2 | /mnt/stockage/packages/f16/shared-mime-info/po/id.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/da.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/he.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/kk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/sv.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 1565 | 1659 | 94.3 | /mnt/stockage/packages/f16/shared-mime-info/po/ja.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 1565 | 1659 | 94.3 | /mnt/stockage/packages/f16/shared-mime-info/po/ro.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 1560 | 1659 | 94.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ga.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 1555 | 1659 | 93.7 | /mnt/stockage/packages/f16/shared-mime-info/po/ar.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1555 | 1659 | 93.7 | /mnt/stockage/packages/f16/shared-mime-info/po/lt.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 1545 | 1659 | 93.1 | /mnt/stockage/packages/f16/shared-mime-info/po/sk.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 1534 | 1659 | 92.5 | /mnt/stockage/packages/f16/shared-mime-info/po/eu.po | 
- | [fo]({{< ref "/f16/language/fo.md" >}}) | 1516 | 1659 | 91.4 | /mnt/stockage/packages/f16/shared-mime-info/po/fo.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 1509 | 1659 | 91.0 | /mnt/stockage/packages/f16/shared-mime-info/po/fi.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 1435 | 1659 | 86.5 | /mnt/stockage/packages/f16/shared-mime-info/po/pt_BR.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1432 | 1659 | 86.3 | /mnt/stockage/packages/f16/shared-mime-info/po/nl.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 1432 | 1659 | 86.3 | /mnt/stockage/packages/f16/shared-mime-info/po/vi.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 1377 | 1659 | 83.0 | /mnt/stockage/packages/f16/shared-mime-info/po/nn.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 1377 | 1659 | 83.0 | /mnt/stockage/packages/f16/shared-mime-info/po/sq.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 1313 | 1659 | 79.1 | /mnt/stockage/packages/f16/shared-mime-info/po/nb.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 994 | 1659 | 59.9 | /mnt/stockage/packages/f16/shared-mime-info/po/eo.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 860 | 1659 | 51.8 | /mnt/stockage/packages/f16/shared-mime-info/po/gl.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 829 | 1659 | 50.0 | /mnt/stockage/packages/f16/shared-mime-info/po/en_GB.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 1584 | 3318 | 47.7 | /mnt/stockage/packages/f16/shared-mime-info/po/bg_BG.po/mnt/stockage/packages/f16/shared-mime-info/po/bg.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 646 | 1659 | 38.9 | /mnt/stockage/packages/f16/shared-mime-info/po/ms.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 645 | 1659 | 38.9 | /mnt/stockage/packages/f16/shared-mime-info/po/sr.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 641 | 1659 | 38.6 | /mnt/stockage/packages/f16/shared-mime-info/po/el.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 637 | 1659 | 38.4 | /mnt/stockage/packages/f16/shared-mime-info/po/pt.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 359 | 1659 | 21.6 | /mnt/stockage/packages/f16/shared-mime-info/po/cy.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 333 | 1659 | 20.1 | /mnt/stockage/packages/f16/shared-mime-info/po/az.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f16/language/ca@valencia.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ca@valencia.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/fa_IR.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/hi.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/pa.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/rw.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/sr@latin.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/tr.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/wa.po | 
+ | [be](/f16/language/be) | 1387 | 1387 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/be@latin.po | 
+ | [ca](/f16/language/ca) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ca.po | 
+ | [cs](/f16/language/cs) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/cs.po | 
+ | [de](/f16/language/de) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/de.po | 
+ | [es](/f16/language/es) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/es.po | 
+ | [fr](/f16/language/fr) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/fr.po | 
+ | [hu](/f16/language/hu) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/hu.po | 
+ | [ko](/f16/language/ko) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ko.po | 
+ | [lv](/f16/language/lv) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/lv.po | 
+ | [pl](/f16/language/pl) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/pl.po | 
+ | [ru](/f16/language/ru) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ru.po | 
+ | [sl](/f16/language/sl) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/sl.po | 
+ | [uk](/f16/language/uk) | 1659 | 1659 | 100.0 | /mnt/stockage/packages/f16/shared-mime-info/po/uk.po | 
+ | [it](/f16/language/it) | 1656 | 1659 | 99.8 | /mnt/stockage/packages/f16/shared-mime-info/po/it.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 1637 | 1659 | 98.7 | /mnt/stockage/packages/f16/shared-mime-info/po/zh_TW.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1607 | 1659 | 96.9 | /mnt/stockage/packages/f16/shared-mime-info/po/zh_CN.po | 
+ | [id](/f16/language/id) | 1596 | 1659 | 96.2 | /mnt/stockage/packages/f16/shared-mime-info/po/id.po | 
+ | [da](/f16/language/da) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/da.po | 
+ | [he](/f16/language/he) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/he.po | 
+ | [kk](/f16/language/kk) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/kk.po | 
+ | [sv](/f16/language/sv) | 1584 | 1659 | 95.5 | /mnt/stockage/packages/f16/shared-mime-info/po/sv.po | 
+ | [ja](/f16/language/ja) | 1565 | 1659 | 94.3 | /mnt/stockage/packages/f16/shared-mime-info/po/ja.po | 
+ | [ro](/f16/language/ro) | 1565 | 1659 | 94.3 | /mnt/stockage/packages/f16/shared-mime-info/po/ro.po | 
+ | [ga](/f16/language/ga) | 1560 | 1659 | 94.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ga.po | 
+ | [ar](/f16/language/ar) | 1555 | 1659 | 93.7 | /mnt/stockage/packages/f16/shared-mime-info/po/ar.po | 
+ | [lt](/f16/language/lt) | 1555 | 1659 | 93.7 | /mnt/stockage/packages/f16/shared-mime-info/po/lt.po | 
+ | [sk](/f16/language/sk) | 1545 | 1659 | 93.1 | /mnt/stockage/packages/f16/shared-mime-info/po/sk.po | 
+ | [eu](/f16/language/eu) | 1534 | 1659 | 92.5 | /mnt/stockage/packages/f16/shared-mime-info/po/eu.po | 
+ | [fo](/f16/language/fo) | 1516 | 1659 | 91.4 | /mnt/stockage/packages/f16/shared-mime-info/po/fo.po | 
+ | [fi](/f16/language/fi) | 1509 | 1659 | 91.0 | /mnt/stockage/packages/f16/shared-mime-info/po/fi.po | 
+ | [pt_BR](/f16/language/pt_BR) | 1435 | 1659 | 86.5 | /mnt/stockage/packages/f16/shared-mime-info/po/pt_BR.po | 
+ | [nl](/f16/language/nl) | 1432 | 1659 | 86.3 | /mnt/stockage/packages/f16/shared-mime-info/po/nl.po | 
+ | [vi](/f16/language/vi) | 1432 | 1659 | 86.3 | /mnt/stockage/packages/f16/shared-mime-info/po/vi.po | 
+ | [nn](/f16/language/nn) | 1377 | 1659 | 83.0 | /mnt/stockage/packages/f16/shared-mime-info/po/nn.po | 
+ | [sq](/f16/language/sq) | 1377 | 1659 | 83.0 | /mnt/stockage/packages/f16/shared-mime-info/po/sq.po | 
+ | [nb_NO](/f16/language/nb_NO) | 1313 | 1659 | 79.1 | /mnt/stockage/packages/f16/shared-mime-info/po/nb.po | 
+ | [eo](/f16/language/eo) | 994 | 1659 | 59.9 | /mnt/stockage/packages/f16/shared-mime-info/po/eo.po | 
+ | [gl](/f16/language/gl) | 860 | 1659 | 51.8 | /mnt/stockage/packages/f16/shared-mime-info/po/gl.po | 
+ | [en_GB](/f16/language/en_GB) | 829 | 1659 | 50.0 | /mnt/stockage/packages/f16/shared-mime-info/po/en_GB.po | 
+ | [bg](/f16/language/bg) | 1584 | 3318 | 47.7 | /mnt/stockage/packages/f16/shared-mime-info/po/bg_BG.po/mnt/stockage/packages/f16/shared-mime-info/po/bg.po | 
+ | [ms](/f16/language/ms) | 646 | 1659 | 38.9 | /mnt/stockage/packages/f16/shared-mime-info/po/ms.po | 
+ | [sr](/f16/language/sr) | 645 | 1659 | 38.9 | /mnt/stockage/packages/f16/shared-mime-info/po/sr.po | 
+ | [el](/f16/language/el) | 641 | 1659 | 38.6 | /mnt/stockage/packages/f16/shared-mime-info/po/el.po | 
+ | [pt](/f16/language/pt) | 637 | 1659 | 38.4 | /mnt/stockage/packages/f16/shared-mime-info/po/pt.po | 
+ | [cy](/f16/language/cy) | 359 | 1659 | 21.6 | /mnt/stockage/packages/f16/shared-mime-info/po/cy.po | 
+ | [az](/f16/language/az) | 333 | 1659 | 20.1 | /mnt/stockage/packages/f16/shared-mime-info/po/az.po | 
+ | [bn_IN](/f16/language/bn_IN) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/bn_IN.po | 
+ | [ca@valencia](/f16/language/ca@valencia) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/ca@valencia.po | 
+ | [fa](/f16/language/fa) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/fa_IR.po | 
+ | [hi](/f16/language/hi) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/hi.po | 
+ | [pa](/f16/language/pa) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/pa.po | 
+ | [rw](/f16/language/rw) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/rw.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/sr@latin.po | 
+ | [tr](/f16/language/tr) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/tr.po | 
+ | [wa](/f16/language/wa) | 0 | 1659 | 0.0 | /mnt/stockage/packages/f16/shared-mime-info/po/wa.po | 
 {.sortable}
 
 

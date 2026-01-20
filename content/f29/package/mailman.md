@@ -18,45 +18,45 @@ The package mailman (version 2.1.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 24274 | 24274 | 100.0 | /mnt/stockage/packages/f29/mailman/messages/ja/LC_MESSAGES/mailman.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 23973 | 24274 | 98.8 | /mnt/stockage/packages/f29/mailman/messages/ru/LC_MESSAGES/mailman.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 23826 | 24274 | 98.2 | /mnt/stockage/packages/f29/mailman/messages/de/LC_MESSAGES/mailman.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 23826 | 24274 | 98.2 | /mnt/stockage/packages/f29/mailman/messages/pt_BR/LC_MESSAGES/mailman.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 21269 | 24274 | 87.6 | /mnt/stockage/packages/f29/mailman/messages/da/LC_MESSAGES/mailman.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 20629 | 24274 | 85.0 | /mnt/stockage/packages/f29/mailman/messages/it/LC_MESSAGES/mailman.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 20629 | 24274 | 85.0 | /mnt/stockage/packages/f29/mailman/messages/vi/LC_MESSAGES/mailman.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 20450 | 24274 | 84.2 | /mnt/stockage/packages/f29/mailman/messages/fr/LC_MESSAGES/mailman.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 20145 | 24274 | 83.0 | /mnt/stockage/packages/f29/mailman/messages/ast/LC_MESSAGES/mailman.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 19800 | 24274 | 81.6 | /mnt/stockage/packages/f29/mailman/messages/he/LC_MESSAGES/mailman.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 19554 | 24274 | 80.6 | /mnt/stockage/packages/f29/mailman/messages/es/LC_MESSAGES/mailman.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 19331 | 24274 | 79.6 | /mnt/stockage/packages/f29/mailman/messages/ca/LC_MESSAGES/mailman.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 19151 | 24274 | 78.9 | /mnt/stockage/packages/f29/mailman/messages/fi/LC_MESSAGES/mailman.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 19131 | 24274 | 78.8 | /mnt/stockage/packages/f29/mailman/messages/uk/LC_MESSAGES/mailman.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 19002 | 24274 | 78.3 | /mnt/stockage/packages/f29/mailman/messages/zh_CN/LC_MESSAGES/mailman.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 18288 | 24274 | 75.3 | /mnt/stockage/packages/f29/mailman/messages/el/LC_MESSAGES/mailman.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 18223 | 24274 | 75.1 | /mnt/stockage/packages/f29/mailman/messages/hu/LC_MESSAGES/mailman.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 17924 | 24274 | 73.8 | /mnt/stockage/packages/f29/mailman/messages/et/LC_MESSAGES/mailman.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 17753 | 24274 | 73.1 | /mnt/stockage/packages/f29/mailman/messages/no/LC_MESSAGES/mailman.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 17727 | 24274 | 73.0 | /mnt/stockage/packages/f29/mailman/messages/sl/LC_MESSAGES/mailman.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 17464 | 24274 | 71.9 | /mnt/stockage/packages/f29/mailman/messages/eu/LC_MESSAGES/mailman.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 15753 | 24274 | 64.9 | /mnt/stockage/packages/f29/mailman/messages/gl/LC_MESSAGES/mailman.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 15699 | 24274 | 64.7 | /mnt/stockage/packages/f29/mailman/messages/ia/LC_MESSAGES/mailman.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 15537 | 24274 | 64.0 | /mnt/stockage/packages/f29/mailman/messages/sk/LC_MESSAGES/mailman.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 15420 | 24274 | 63.5 | /mnt/stockage/packages/f29/mailman/messages/ro/LC_MESSAGES/mailman.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 14929 | 24274 | 61.5 | /mnt/stockage/packages/f29/mailman/messages/pl/LC_MESSAGES/mailman.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 14233 | 24274 | 58.6 | /mnt/stockage/packages/f29/mailman/messages/sv/LC_MESSAGES/mailman.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 14012 | 24274 | 57.7 | /mnt/stockage/packages/f29/mailman/messages/nl/LC_MESSAGES/mailman.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 13853 | 24274 | 57.1 | /mnt/stockage/packages/f29/mailman/messages/cs/LC_MESSAGES/mailman.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 13006 | 24274 | 53.6 | /mnt/stockage/packages/f29/mailman/messages/ar/LC_MESSAGES/mailman.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 12843 | 24274 | 52.9 | /mnt/stockage/packages/f29/mailman/messages/hr/LC_MESSAGES/mailman.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 12451 | 24274 | 51.3 | /mnt/stockage/packages/f29/mailman/messages/tr/LC_MESSAGES/mailman.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 11939 | 24274 | 49.2 | /mnt/stockage/packages/f29/mailman/messages/pt/LC_MESSAGES/mailman.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 9915 | 24274 | 40.8 | /mnt/stockage/packages/f29/mailman/messages/zh_TW/LC_MESSAGES/mailman.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 9134 | 24274 | 37.6 | /mnt/stockage/packages/f29/mailman/messages/ko/LC_MESSAGES/mailman.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 4952 | 24274 | 20.4 | /mnt/stockage/packages/f29/mailman/messages/eo/LC_MESSAGES/mailman.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 4612 | 24274 | 19.0 | /mnt/stockage/packages/f29/mailman/messages/fa/LC_MESSAGES/mailman.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 2822 | 24274 | 11.6 | /mnt/stockage/packages/f29/mailman/messages/sr/LC_MESSAGES/mailman.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1909 | 24274 | 7.9 | /mnt/stockage/packages/f29/mailman/messages/lt/LC_MESSAGES/mailman.po | 
+ | [ja](/f29/language/ja) | 24274 | 24274 | 100.0 | /mnt/stockage/packages/f29/mailman/messages/ja/LC_MESSAGES/mailman.po | 
+ | [ru](/f29/language/ru) | 23973 | 24274 | 98.8 | /mnt/stockage/packages/f29/mailman/messages/ru/LC_MESSAGES/mailman.po | 
+ | [de](/f29/language/de) | 23826 | 24274 | 98.2 | /mnt/stockage/packages/f29/mailman/messages/de/LC_MESSAGES/mailman.po | 
+ | [pt_BR](/f29/language/pt_BR) | 23826 | 24274 | 98.2 | /mnt/stockage/packages/f29/mailman/messages/pt_BR/LC_MESSAGES/mailman.po | 
+ | [da](/f29/language/da) | 21269 | 24274 | 87.6 | /mnt/stockage/packages/f29/mailman/messages/da/LC_MESSAGES/mailman.po | 
+ | [it](/f29/language/it) | 20629 | 24274 | 85.0 | /mnt/stockage/packages/f29/mailman/messages/it/LC_MESSAGES/mailman.po | 
+ | [vi](/f29/language/vi) | 20629 | 24274 | 85.0 | /mnt/stockage/packages/f29/mailman/messages/vi/LC_MESSAGES/mailman.po | 
+ | [fr](/f29/language/fr) | 20450 | 24274 | 84.2 | /mnt/stockage/packages/f29/mailman/messages/fr/LC_MESSAGES/mailman.po | 
+ | [ast](/f29/language/ast) | 20145 | 24274 | 83.0 | /mnt/stockage/packages/f29/mailman/messages/ast/LC_MESSAGES/mailman.po | 
+ | [he](/f29/language/he) | 19800 | 24274 | 81.6 | /mnt/stockage/packages/f29/mailman/messages/he/LC_MESSAGES/mailman.po | 
+ | [es](/f29/language/es) | 19554 | 24274 | 80.6 | /mnt/stockage/packages/f29/mailman/messages/es/LC_MESSAGES/mailman.po | 
+ | [ca](/f29/language/ca) | 19331 | 24274 | 79.6 | /mnt/stockage/packages/f29/mailman/messages/ca/LC_MESSAGES/mailman.po | 
+ | [fi](/f29/language/fi) | 19151 | 24274 | 78.9 | /mnt/stockage/packages/f29/mailman/messages/fi/LC_MESSAGES/mailman.po | 
+ | [uk](/f29/language/uk) | 19131 | 24274 | 78.8 | /mnt/stockage/packages/f29/mailman/messages/uk/LC_MESSAGES/mailman.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 19002 | 24274 | 78.3 | /mnt/stockage/packages/f29/mailman/messages/zh_CN/LC_MESSAGES/mailman.po | 
+ | [el](/f29/language/el) | 18288 | 24274 | 75.3 | /mnt/stockage/packages/f29/mailman/messages/el/LC_MESSAGES/mailman.po | 
+ | [hu](/f29/language/hu) | 18223 | 24274 | 75.1 | /mnt/stockage/packages/f29/mailman/messages/hu/LC_MESSAGES/mailman.po | 
+ | [et](/f29/language/et) | 17924 | 24274 | 73.8 | /mnt/stockage/packages/f29/mailman/messages/et/LC_MESSAGES/mailman.po | 
+ | [nb_NO](/f29/language/nb_NO) | 17753 | 24274 | 73.1 | /mnt/stockage/packages/f29/mailman/messages/no/LC_MESSAGES/mailman.po | 
+ | [sl](/f29/language/sl) | 17727 | 24274 | 73.0 | /mnt/stockage/packages/f29/mailman/messages/sl/LC_MESSAGES/mailman.po | 
+ | [eu](/f29/language/eu) | 17464 | 24274 | 71.9 | /mnt/stockage/packages/f29/mailman/messages/eu/LC_MESSAGES/mailman.po | 
+ | [gl](/f29/language/gl) | 15753 | 24274 | 64.9 | /mnt/stockage/packages/f29/mailman/messages/gl/LC_MESSAGES/mailman.po | 
+ | [ia](/f29/language/ia) | 15699 | 24274 | 64.7 | /mnt/stockage/packages/f29/mailman/messages/ia/LC_MESSAGES/mailman.po | 
+ | [sk](/f29/language/sk) | 15537 | 24274 | 64.0 | /mnt/stockage/packages/f29/mailman/messages/sk/LC_MESSAGES/mailman.po | 
+ | [ro](/f29/language/ro) | 15420 | 24274 | 63.5 | /mnt/stockage/packages/f29/mailman/messages/ro/LC_MESSAGES/mailman.po | 
+ | [pl](/f29/language/pl) | 14929 | 24274 | 61.5 | /mnt/stockage/packages/f29/mailman/messages/pl/LC_MESSAGES/mailman.po | 
+ | [sv](/f29/language/sv) | 14233 | 24274 | 58.6 | /mnt/stockage/packages/f29/mailman/messages/sv/LC_MESSAGES/mailman.po | 
+ | [nl](/f29/language/nl) | 14012 | 24274 | 57.7 | /mnt/stockage/packages/f29/mailman/messages/nl/LC_MESSAGES/mailman.po | 
+ | [cs](/f29/language/cs) | 13853 | 24274 | 57.1 | /mnt/stockage/packages/f29/mailman/messages/cs/LC_MESSAGES/mailman.po | 
+ | [ar](/f29/language/ar) | 13006 | 24274 | 53.6 | /mnt/stockage/packages/f29/mailman/messages/ar/LC_MESSAGES/mailman.po | 
+ | [hr](/f29/language/hr) | 12843 | 24274 | 52.9 | /mnt/stockage/packages/f29/mailman/messages/hr/LC_MESSAGES/mailman.po | 
+ | [tr](/f29/language/tr) | 12451 | 24274 | 51.3 | /mnt/stockage/packages/f29/mailman/messages/tr/LC_MESSAGES/mailman.po | 
+ | [pt](/f29/language/pt) | 11939 | 24274 | 49.2 | /mnt/stockage/packages/f29/mailman/messages/pt/LC_MESSAGES/mailman.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 9915 | 24274 | 40.8 | /mnt/stockage/packages/f29/mailman/messages/zh_TW/LC_MESSAGES/mailman.po | 
+ | [ko](/f29/language/ko) | 9134 | 24274 | 37.6 | /mnt/stockage/packages/f29/mailman/messages/ko/LC_MESSAGES/mailman.po | 
+ | [eo](/f29/language/eo) | 4952 | 24274 | 20.4 | /mnt/stockage/packages/f29/mailman/messages/eo/LC_MESSAGES/mailman.po | 
+ | [fa](/f29/language/fa) | 4612 | 24274 | 19.0 | /mnt/stockage/packages/f29/mailman/messages/fa/LC_MESSAGES/mailman.po | 
+ | [sr](/f29/language/sr) | 2822 | 24274 | 11.6 | /mnt/stockage/packages/f29/mailman/messages/sr/LC_MESSAGES/mailman.po | 
+ | [lt](/f29/language/lt) | 1909 | 24274 | 7.9 | /mnt/stockage/packages/f29/mailman/messages/lt/LC_MESSAGES/mailman.po | 
 {.sortable}
 
 

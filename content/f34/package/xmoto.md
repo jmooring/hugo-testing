@@ -18,29 +18,29 @@ The package xmoto (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 3843 | 3846 | 99.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/ru.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 3743 | 3846 | 97.3 | /mnt/stockage/packages/f34/xmoto/i18n/po/fr.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 3733 | 3846 | 97.1 | /mnt/stockage/packages/f34/xmoto/i18n/po/pt.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/da_DK.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/de.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/gl_ES.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/hu.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/it.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/pt_BR.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/sk.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 3671 | 3846 | 95.4 | /mnt/stockage/packages/f34/xmoto/i18n/po/tr.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 3389 | 3846 | 88.1 | /mnt/stockage/packages/f34/xmoto/i18n/po/fi.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 3354 | 3846 | 87.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/lt.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 3263 | 3846 | 84.8 | /mnt/stockage/packages/f34/xmoto/i18n/po/sv_SE.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 3236 | 3846 | 84.1 | /mnt/stockage/packages/f34/xmoto/i18n/po/zh_TW.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 3228 | 3846 | 83.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/nl.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 3208 | 3846 | 83.4 | /mnt/stockage/packages/f34/xmoto/i18n/po/ca_ES.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 3208 | 3846 | 83.4 | /mnt/stockage/packages/f34/xmoto/i18n/po/es.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 2893 | 3846 | 75.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/cs_CZ.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 2677 | 3846 | 69.6 | /mnt/stockage/packages/f34/xmoto/i18n/po/lv.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 2646 | 3846 | 68.8 | /mnt/stockage/packages/f34/xmoto/i18n/po/pl.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 1765 | 3846 | 45.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/nb_NO.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 1765 | 3846 | 45.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/nn_NO.po | 
+ | [ru](/f34/language/ru) | 3843 | 3846 | 99.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/ru.po | 
+ | [fr](/f34/language/fr) | 3743 | 3846 | 97.3 | /mnt/stockage/packages/f34/xmoto/i18n/po/fr.po | 
+ | [pt](/f34/language/pt) | 3733 | 3846 | 97.1 | /mnt/stockage/packages/f34/xmoto/i18n/po/pt.po | 
+ | [da](/f34/language/da) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/da_DK.po | 
+ | [de](/f34/language/de) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/de.po | 
+ | [gl](/f34/language/gl) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/gl_ES.po | 
+ | [hu](/f34/language/hu) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/hu.po | 
+ | [it](/f34/language/it) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/it.po | 
+ | [pt_BR](/f34/language/pt_BR) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/pt_BR.po | 
+ | [sk](/f34/language/sk) | 3698 | 3846 | 96.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/sk.po | 
+ | [tr](/f34/language/tr) | 3671 | 3846 | 95.4 | /mnt/stockage/packages/f34/xmoto/i18n/po/tr.po | 
+ | [fi](/f34/language/fi) | 3389 | 3846 | 88.1 | /mnt/stockage/packages/f34/xmoto/i18n/po/fi.po | 
+ | [lt](/f34/language/lt) | 3354 | 3846 | 87.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/lt.po | 
+ | [sv](/f34/language/sv) | 3263 | 3846 | 84.8 | /mnt/stockage/packages/f34/xmoto/i18n/po/sv_SE.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 3236 | 3846 | 84.1 | /mnt/stockage/packages/f34/xmoto/i18n/po/zh_TW.po | 
+ | [nl](/f34/language/nl) | 3228 | 3846 | 83.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/nl.po | 
+ | [ca](/f34/language/ca) | 3208 | 3846 | 83.4 | /mnt/stockage/packages/f34/xmoto/i18n/po/ca_ES.po | 
+ | [es](/f34/language/es) | 3208 | 3846 | 83.4 | /mnt/stockage/packages/f34/xmoto/i18n/po/es.po | 
+ | [cs](/f34/language/cs) | 2893 | 3846 | 75.2 | /mnt/stockage/packages/f34/xmoto/i18n/po/cs_CZ.po | 
+ | [lv](/f34/language/lv) | 2677 | 3846 | 69.6 | /mnt/stockage/packages/f34/xmoto/i18n/po/lv.po | 
+ | [pl](/f34/language/pl) | 2646 | 3846 | 68.8 | /mnt/stockage/packages/f34/xmoto/i18n/po/pl.po | 
+ | [nb_NO](/f34/language/nb_NO) | 1765 | 3846 | 45.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/nb_NO.po | 
+ | [nn](/f34/language/nn) | 1765 | 3846 | 45.9 | /mnt/stockage/packages/f34/xmoto/i18n/po/nn_NO.po | 
 {.sortable}
 
 

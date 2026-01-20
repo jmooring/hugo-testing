@@ -18,20 +18,20 @@ The package yakuake (version 2.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/de/yakuake.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/es/yakuake.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/et/yakuake.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/ja/yakuake.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/nl/yakuake.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/pt/yakuake.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/sv/yakuake.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 514 | 551 | 93.3 | /mnt/stockage/packages/f7/yakuake/po/fr/yakuake.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/el/yakuake.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/hu/yakuake.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/it/yakuake.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/pt_BR/yakuake.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/tr/yakuake.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 450 | 551 | 81.7 | /mnt/stockage/packages/f7/yakuake/po/pl/yakuake.po | 
+ | [de](/f7/language/de) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/de/yakuake.po | 
+ | [es](/f7/language/es) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/es/yakuake.po | 
+ | [et](/f7/language/et) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/et/yakuake.po | 
+ | [ja](/f7/language/ja) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/ja/yakuake.po | 
+ | [nl](/f7/language/nl) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/nl/yakuake.po | 
+ | [pt](/f7/language/pt) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/pt/yakuake.po | 
+ | [sv](/f7/language/sv) | 551 | 551 | 100.0 | /mnt/stockage/packages/f7/yakuake/po/sv/yakuake.po | 
+ | [fr](/f7/language/fr) | 514 | 551 | 93.3 | /mnt/stockage/packages/f7/yakuake/po/fr/yakuake.po | 
+ | [el](/f7/language/el) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/el/yakuake.po | 
+ | [hu](/f7/language/hu) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/hu/yakuake.po | 
+ | [it](/f7/language/it) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/it/yakuake.po | 
+ | [pt_BR](/f7/language/pt_BR) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/pt_BR/yakuake.po | 
+ | [tr](/f7/language/tr) | 455 | 551 | 82.6 | /mnt/stockage/packages/f7/yakuake/po/tr/yakuake.po | 
+ | [pl](/f7/language/pl) | 450 | 551 | 81.7 | /mnt/stockage/packages/f7/yakuake/po/pl/yakuake.po | 
 {.sortable}
 
 

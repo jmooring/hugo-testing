@@ -18,26 +18,26 @@ The package tilda (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 887 | 914 | 97.0 | /mnt/stockage/packages/f20/tilda/po/lt.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 880 | 914 | 96.3 | /mnt/stockage/packages/f20/tilda/po/es.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 854 | 914 | 93.4 | /mnt/stockage/packages/f20/tilda/po/de.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 660 | 914 | 72.2 | /mnt/stockage/packages/f20/tilda/po/it.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 367 | 914 | 40.2 | /mnt/stockage/packages/f20/tilda/po/fr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/hu.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/pt.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 321 | 914 | 35.1 | /mnt/stockage/packages/f20/tilda/po/pt_BR.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 319 | 914 | 34.9 | /mnt/stockage/packages/f20/tilda/po/bg.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 319 | 914 | 34.9 | /mnt/stockage/packages/f20/tilda/po/cs.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 269 | 914 | 29.4 | /mnt/stockage/packages/f20/tilda/po/pl.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 267 | 914 | 29.2 | /mnt/stockage/packages/f20/tilda/po/en_GB.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 168 | 914 | 18.4 | /mnt/stockage/packages/f20/tilda/po/sk.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 168 | 914 | 18.4 | /mnt/stockage/packages/f20/tilda/po/sv.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 112 | 914 | 12.3 | /mnt/stockage/packages/f20/tilda/po/ca.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 75 | 914 | 8.2 | /mnt/stockage/packages/f20/tilda/po/sl.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 4 | 914 | 0.4 | /mnt/stockage/packages/f20/tilda/po/el.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 0 | 914 | 0.0 | /mnt/stockage/packages/f20/tilda/po/tr.po | 
+ | [lt](/f20/language/lt) | 887 | 914 | 97.0 | /mnt/stockage/packages/f20/tilda/po/lt.po | 
+ | [es](/f20/language/es) | 880 | 914 | 96.3 | /mnt/stockage/packages/f20/tilda/po/es.po | 
+ | [de](/f20/language/de) | 854 | 914 | 93.4 | /mnt/stockage/packages/f20/tilda/po/de.po | 
+ | [it](/f20/language/it) | 660 | 914 | 72.2 | /mnt/stockage/packages/f20/tilda/po/it.po | 
+ | [fr](/f20/language/fr) | 367 | 914 | 40.2 | /mnt/stockage/packages/f20/tilda/po/fr.po | 
+ | [hu](/f20/language/hu) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/hu.po | 
+ | [pt](/f20/language/pt) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/pt.po | 
+ | [ru](/f20/language/ru) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 324 | 914 | 35.4 | /mnt/stockage/packages/f20/tilda/po/zh_CN.po | 
+ | [pt_BR](/f20/language/pt_BR) | 321 | 914 | 35.1 | /mnt/stockage/packages/f20/tilda/po/pt_BR.po | 
+ | [bg](/f20/language/bg) | 319 | 914 | 34.9 | /mnt/stockage/packages/f20/tilda/po/bg.po | 
+ | [cs](/f20/language/cs) | 319 | 914 | 34.9 | /mnt/stockage/packages/f20/tilda/po/cs.po | 
+ | [pl](/f20/language/pl) | 269 | 914 | 29.4 | /mnt/stockage/packages/f20/tilda/po/pl.po | 
+ | [en_GB](/f20/language/en_GB) | 267 | 914 | 29.2 | /mnt/stockage/packages/f20/tilda/po/en_GB.po | 
+ | [sk](/f20/language/sk) | 168 | 914 | 18.4 | /mnt/stockage/packages/f20/tilda/po/sk.po | 
+ | [sv](/f20/language/sv) | 168 | 914 | 18.4 | /mnt/stockage/packages/f20/tilda/po/sv.po | 
+ | [ca](/f20/language/ca) | 112 | 914 | 12.3 | /mnt/stockage/packages/f20/tilda/po/ca.po | 
+ | [sl](/f20/language/sl) | 75 | 914 | 8.2 | /mnt/stockage/packages/f20/tilda/po/sl.po | 
+ | [el](/f20/language/el) | 4 | 914 | 0.4 | /mnt/stockage/packages/f20/tilda/po/el.po | 
+ | [tr](/f20/language/tr) | 0 | 914 | 0.0 | /mnt/stockage/packages/f20/tilda/po/tr.po | 
 {.sortable}
 
 

@@ -18,44 +18,44 @@ The package gnome-taquin (version 3.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f25/language/an.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/an.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/bg.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/cs/cs.po/mnt/stockage/packages/f25/gnome-taquin/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/de/de.po/mnt/stockage/packages/f25/gnome-taquin/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/el/el.po/mnt/stockage/packages/f25/gnome-taquin/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/gl.po/mnt/stockage/packages/f25/gnome-taquin/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/es/es.po/mnt/stockage/packages/f25/gnome-taquin/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/fa.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/fr/fr.po/mnt/stockage/packages/f25/gnome-taquin/po/fr.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/fur.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/hu/hu.po/mnt/stockage/packages/f25/gnome-taquin/po/hu.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/it.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/lv.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/nb.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/oc.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/sr@latin.po/mnt/stockage/packages/f25/gnome-taquin/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/sv/sv.po/mnt/stockage/packages/f25/gnome-taquin/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/vi.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/zh_TW.po/mnt/stockage/packages/f25/gnome-taquin/po/zh_HK.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 171 | 223 | 76.7 | /mnt/stockage/packages/f25/gnome-taquin/po/id.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 159 | 236 | 67.4 | /mnt/stockage/packages/f25/gnome-taquin/po/eo.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 121 | 223 | 54.3 | /mnt/stockage/packages/f25/gnome-taquin/po/pa.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 94 | 219 | 42.9 | /mnt/stockage/packages/f25/gnome-taquin/po/tr.po | 
+ | [an](/f25/language/an) | 223 | 223 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/an.po | 
+ | [bg](/f25/language/bg) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/bg.po | 
+ | [bs](/f25/language/bs) | 229 | 229 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/bs.po | 
+ | [ca](/f25/language/ca) | 229 | 229 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/ca.po | 
+ | [cs](/f25/language/cs) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/cs/cs.po/mnt/stockage/packages/f25/gnome-taquin/po/cs.po | 
+ | [da](/f25/language/da) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/da.po | 
+ | [de](/f25/language/de) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/de/de.po/mnt/stockage/packages/f25/gnome-taquin/po/de.po | 
+ | [el](/f25/language/el) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/el/el.po/mnt/stockage/packages/f25/gnome-taquin/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 464 | 464 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/gl.po/mnt/stockage/packages/f25/gnome-taquin/po/en_GB.po | 
+ | [es](/f25/language/es) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/es/es.po/mnt/stockage/packages/f25/gnome-taquin/po/es.po | 
+ | [eu](/f25/language/eu) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/eu.po | 
+ | [fa](/f25/language/fa) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/fa.po | 
+ | [fi](/f25/language/fi) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/fi.po | 
+ | [fr](/f25/language/fr) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/fr/fr.po/mnt/stockage/packages/f25/gnome-taquin/po/fr.po | 
+ | [fur](/f25/language/fur) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/fur.po | 
+ | [he](/f25/language/he) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/he.po | 
+ | [hu](/f25/language/hu) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/hu/hu.po/mnt/stockage/packages/f25/gnome-taquin/po/hu.po | 
+ | [it](/f25/language/it) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/it.po | 
+ | [ko](/f25/language/ko) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/ko.po | 
+ | [lt](/f25/language/lt) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/lt.po | 
+ | [lv](/f25/language/lv) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/lv.po | 
+ | [nb_NO](/f25/language/nb_NO) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/nb.po | 
+ | [oc](/f25/language/oc) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/oc.po | 
+ | [pl](/f25/language/pl) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/pl.po | 
+ | [pt](/f25/language/pt) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/ru.po | 
+ | [sk](/f25/language/sk) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/sk.po | 
+ | [sl](/f25/language/sl) | 232 | 232 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/sl.po | 
+ | [sr](/f25/language/sr) | 464 | 464 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/sr@latin.po/mnt/stockage/packages/f25/gnome-taquin/po/sr.po | 
+ | [sv](/f25/language/sv) | 1037 | 1037 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/help/sv/sv.po/mnt/stockage/packages/f25/gnome-taquin/po/sv.po | 
+ | [uk](/f25/language/uk) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/uk.po | 
+ | [vi](/f25/language/vi) | 224 | 224 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/vi.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 443 | 443 | 100.0 | /mnt/stockage/packages/f25/gnome-taquin/po/zh_TW.po/mnt/stockage/packages/f25/gnome-taquin/po/zh_HK.po | 
+ | [id](/f25/language/id) | 171 | 223 | 76.7 | /mnt/stockage/packages/f25/gnome-taquin/po/id.po | 
+ | [eo](/f25/language/eo) | 159 | 236 | 67.4 | /mnt/stockage/packages/f25/gnome-taquin/po/eo.po | 
+ | [pa](/f25/language/pa) | 121 | 223 | 54.3 | /mnt/stockage/packages/f25/gnome-taquin/po/pa.po | 
+ | [tr](/f25/language/tr) | 94 | 219 | 42.9 | /mnt/stockage/packages/f25/gnome-taquin/po/tr.po | 
 {.sortable}
 
 

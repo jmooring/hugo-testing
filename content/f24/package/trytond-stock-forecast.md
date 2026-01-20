@@ -18,16 +18,16 @@ The package trytond-stock-forecast (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/bg_BG.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/ca_ES.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/de_DE.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/es_ES.po | 
- | [es_AR]({{< ref "/f24/language/es_AR.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/es_AR.po | 
- | [es_CO]({{< ref "/f24/language/es_CO.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/es_CO.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/fr_FR.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/cs_CZ.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/nl_NL.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 174 | 0.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/ru_RU.po | 
+ | [bg](/f24/language/bg) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/bg_BG.po | 
+ | [ca](/f24/language/ca) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/ca_ES.po | 
+ | [de](/f24/language/de) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/de_DE.po | 
+ | [es](/f24/language/es) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/es_ES.po | 
+ | [es_AR](/f24/language/es_AR) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/es_AR.po | 
+ | [es_CO](/f24/language/es_CO) | 174 | 174 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/es_CO.po | 
+ | [fr](/f24/language/fr) | 249 | 249 | 100.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/fr_FR.po | 
+ | [cs](/f24/language/cs) | 0 | 174 | 0.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/cs_CZ.po | 
+ | [nl](/f24/language/nl) | 0 | 174 | 0.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/nl_NL.po | 
+ | [ru](/f24/language/ru) | 0 | 174 | 0.0 | /mnt/stockage/packages/f24/trytond-stock-forecast/locale/ru_RU.po | 
 {.sortable}
 
 

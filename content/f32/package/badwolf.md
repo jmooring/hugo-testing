@@ -18,10 +18,10 @@ The package badwolf (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 238 | 239 | 99.6 | /mnt/stockage/packages/f32/badwolf/po/fr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 238 | 239 | 99.6 | /mnt/stockage/packages/f32/badwolf/po/tr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 226 | 239 | 94.6 | /mnt/stockage/packages/f32/badwolf/po/pt_BR.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 189 | 239 | 79.1 | /mnt/stockage/packages/f32/badwolf/po/de.po | 
+ | [fr](/f32/language/fr) | 238 | 239 | 99.6 | /mnt/stockage/packages/f32/badwolf/po/fr.po | 
+ | [tr](/f32/language/tr) | 238 | 239 | 99.6 | /mnt/stockage/packages/f32/badwolf/po/tr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 226 | 239 | 94.6 | /mnt/stockage/packages/f32/badwolf/po/pt_BR.po | 
+ | [de](/f32/language/de) | 189 | 239 | 79.1 | /mnt/stockage/packages/f32/badwolf/po/de.po | 
 {.sortable}
 
 

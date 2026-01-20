@@ -18,15 +18,15 @@ The package teg (version 0.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 1586 | 1734 | 91.5 | /mnt/stockage/packages/f43/teg/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/fr.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/gl.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/it.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1468 | 1734 | 84.7 | /mnt/stockage/packages/f43/teg/po/pt_BR.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1459 | 1734 | 84.1 | /mnt/stockage/packages/f43/teg/po/hu_HU.po | 
+ | [de](/f43/language/de) | 1586 | 1734 | 91.5 | /mnt/stockage/packages/f43/teg/po/de.po | 
+ | [es](/f43/language/es) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/es.po | 
+ | [fr](/f43/language/fr) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/fr.po | 
+ | [gl](/f43/language/gl) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/gl.po | 
+ | [it](/f43/language/it) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/it.po | 
+ | [pl](/f43/language/pl) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/pl.po | 
+ | [pt](/f43/language/pt) | 1546 | 1734 | 89.2 | /mnt/stockage/packages/f43/teg/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1468 | 1734 | 84.7 | /mnt/stockage/packages/f43/teg/po/pt_BR.po | 
+ | [hu](/f43/language/hu) | 1459 | 1734 | 84.1 | /mnt/stockage/packages/f43/teg/po/hu_HU.po | 
 {.sortable}
 
 

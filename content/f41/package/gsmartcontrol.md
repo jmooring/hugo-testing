@@ -18,8 +18,8 @@ The package gsmartcontrol (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f41/gsmartcontrol/po/cs.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f41/gsmartcontrol/po/ka.po | 
+ | [cs](/f41/language/cs) | 161 | 161 | 100.0 | /mnt/stockage/packages/f41/gsmartcontrol/po/cs.po | 
+ | [ka](/f41/language/ka) | 7 | 7 | 100.0 | /mnt/stockage/packages/f41/gsmartcontrol/po/ka.po | 
 {.sortable}
 
 

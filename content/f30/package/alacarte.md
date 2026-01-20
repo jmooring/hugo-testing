@@ -18,100 +18,100 @@ The package alacarte (version 3.11.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f30/language/af.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/af.po | 
- | [an]({{< ref "/f30/language/an.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/an.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ar.po | 
- | [as]({{< ref "/f30/language/as.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/as.po | 
- | [ast]({{< ref "/f30/language/ast.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ast.po | 
- | [be]({{< ref "/f30/language/be.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/be.po | 
- | [be_Latn]({{< ref "/f30/language/be_Latn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/be@latin.po | 
- | [bem]({{< ref "/f30/language/bem.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bem.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bg.po | 
- | [bn]({{< ref "/f30/language/bn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bn.po | 
- | [bn_IN]({{< ref "/f30/language/bn_IN.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bn_IN.po | 
- | [br]({{< ref "/f30/language/br.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/br.po | 
- | [brx]({{< ref "/f30/language/brx.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/brx.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ca.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ca@valencia.po | 
- | [crh]({{< ref "/f30/language/crh.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/crh.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/cs.po | 
- | [cy]({{< ref "/f30/language/cy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/cy.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/de.po | 
- | [dz]({{< ref "/f30/language/dz.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/dz.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/el.po | 
- | [en_CA]({{< ref "/f30/language/en_CA.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/en_CA.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/en_GB.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/eo.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/en@shaw.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/es.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/et.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/eu.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fa.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fr.po | 
- | [fur]({{< ref "/f30/language/fur.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fur.po | 
- | [fy]({{< ref "/f30/language/fy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fy.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ga.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/gl.po | 
- | [gu]({{< ref "/f30/language/gu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/gu.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/he.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hi.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hu.po | 
- | [hy]({{< ref "/f30/language/hy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hy.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/id.po | 
- | [io]({{< ref "/f30/language/io.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/io.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ja.po | 
- | [ka]({{< ref "/f30/language/ka.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ka.po | 
- | [kg]({{< ref "/f30/language/kg.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/kg.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/kk.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/km.po | 
- | [kn]({{< ref "/f30/language/kn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/kn.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ko.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/lt.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/lv.po | 
- | [mai]({{< ref "/f30/language/mai.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mai.po | 
- | [mg]({{< ref "/f30/language/mg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mg.po | 
- | [mk]({{< ref "/f30/language/mk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mk.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ml.po | 
- | [mn]({{< ref "/f30/language/mn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mn.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mr.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ms.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nb.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nds.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nl.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nn.po | 
- | [oc]({{< ref "/f30/language/oc.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/oc.po | 
- | [or]({{< ref "/f30/language/or.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/or.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/pa.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/pl.po | 
- | [ps]({{< ref "/f30/language/ps.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ps.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/pt_BR.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ro.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ru.po | 
- | [si]({{< ref "/f30/language/si.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/si.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sk.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sl.po | 
- | [sq]({{< ref "/f30/language/sq.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sq.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sr@latin.po/mnt/stockage/packages/f30/alacarte/po/sr.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sv.po | 
- | [sw]({{< ref "/f30/language/sw.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sw.po | 
- | [ta]({{< ref "/f30/language/ta.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ta.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/te.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/th.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/tr.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ug.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/uk.po | 
- | [uz]({{< ref "/f30/language/uz.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/vi.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f30/language/zh_Hant_HK.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zh_HK.po | 
- | [zu]({{< ref "/f30/language/zu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zu.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 43 | 45 | 95.6 | /mnt/stockage/packages/f30/alacarte/po/pt.po | 
- | [ku]({{< ref "/f30/language/ku.md" >}}) | 28 | 42 | 66.7 | /mnt/stockage/packages/f30/alacarte/po/ku.po | 
+ | [af](/f30/language/af) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/af.po | 
+ | [an](/f30/language/an) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/an.po | 
+ | [ar](/f30/language/ar) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ar.po | 
+ | [as](/f30/language/as) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/as.po | 
+ | [ast](/f30/language/ast) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ast.po | 
+ | [be](/f30/language/be) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/be.po | 
+ | [be_Latn](/f30/language/be_Latn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/be@latin.po | 
+ | [bem](/f30/language/bem) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bem.po | 
+ | [bg](/f30/language/bg) | 41 | 41 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bg.po | 
+ | [bn](/f30/language/bn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bn.po | 
+ | [bn_IN](/f30/language/bn_IN) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/bn_IN.po | 
+ | [br](/f30/language/br) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/br.po | 
+ | [brx](/f30/language/brx) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/brx.po | 
+ | [ca](/f30/language/ca) | 41 | 41 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ca.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 41 | 41 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ca@valencia.po | 
+ | [crh](/f30/language/crh) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/crh.po | 
+ | [cs](/f30/language/cs) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/cs.po | 
+ | [cy](/f30/language/cy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/cy.po | 
+ | [da](/f30/language/da) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/da.po | 
+ | [de](/f30/language/de) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/de.po | 
+ | [dz](/f30/language/dz) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/dz.po | 
+ | [el](/f30/language/el) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/el.po | 
+ | [en_CA](/f30/language/en_CA) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/en_CA.po | 
+ | [en_GB](/f30/language/en_GB) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/en_GB.po | 
+ | [eo](/f30/language/eo) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/eo.po | 
+ | [error](/f30/language/error) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/en@shaw.po | 
+ | [es](/f30/language/es) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/es.po | 
+ | [et](/f30/language/et) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/et.po | 
+ | [eu](/f30/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/eu.po | 
+ | [fa](/f30/language/fa) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fa.po | 
+ | [fi](/f30/language/fi) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fi.po | 
+ | [fr](/f30/language/fr) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fr.po | 
+ | [fur](/f30/language/fur) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fur.po | 
+ | [fy](/f30/language/fy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/fy.po | 
+ | [ga](/f30/language/ga) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ga.po | 
+ | [gl](/f30/language/gl) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/gl.po | 
+ | [gu](/f30/language/gu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/gu.po | 
+ | [he](/f30/language/he) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/he.po | 
+ | [hi](/f30/language/hi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hi.po | 
+ | [hr](/f30/language/hr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hr.po | 
+ | [hu](/f30/language/hu) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hu.po | 
+ | [hy](/f30/language/hy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/hy.po | 
+ | [id](/f30/language/id) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/id.po | 
+ | [io](/f30/language/io) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/io.po | 
+ | [it](/f30/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/it.po | 
+ | [ja](/f30/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ja.po | 
+ | [ka](/f30/language/ka) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ka.po | 
+ | [kg](/f30/language/kg) | 74 | 74 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/kg.po | 
+ | [kk](/f30/language/kk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/kk.po | 
+ | [km](/f30/language/km) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/km.po | 
+ | [kn](/f30/language/kn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/kn.po | 
+ | [ko](/f30/language/ko) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ko.po | 
+ | [lt](/f30/language/lt) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/lt.po | 
+ | [lv](/f30/language/lv) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/lv.po | 
+ | [mai](/f30/language/mai) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mai.po | 
+ | [mg](/f30/language/mg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mg.po | 
+ | [mk](/f30/language/mk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mk.po | 
+ | [ml](/f30/language/ml) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ml.po | 
+ | [mn](/f30/language/mn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mn.po | 
+ | [mr](/f30/language/mr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/mr.po | 
+ | [ms](/f30/language/ms) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ms.po | 
+ | [nb_NO](/f30/language/nb_NO) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nb.po | 
+ | [nds](/f30/language/nds) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nds.po | 
+ | [nl](/f30/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nl.po | 
+ | [nn](/f30/language/nn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/nn.po | 
+ | [oc](/f30/language/oc) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/oc.po | 
+ | [or](/f30/language/or) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/or.po | 
+ | [pa](/f30/language/pa) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/pa.po | 
+ | [pl](/f30/language/pl) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/pl.po | 
+ | [ps](/f30/language/ps) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ps.po | 
+ | [pt_BR](/f30/language/pt_BR) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/pt_BR.po | 
+ | [ro](/f30/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ro.po | 
+ | [ru](/f30/language/ru) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ru.po | 
+ | [si](/f30/language/si) | 74 | 74 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/si.po | 
+ | [sk](/f30/language/sk) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sk.po | 
+ | [sl](/f30/language/sl) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sl.po | 
+ | [sq](/f30/language/sq) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sq.po | 
+ | [sr](/f30/language/sr) | 90 | 90 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sr@latin.po/mnt/stockage/packages/f30/alacarte/po/sr.po | 
+ | [sv](/f30/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sv.po | 
+ | [sw](/f30/language/sw) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/sw.po | 
+ | [ta](/f30/language/ta) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ta.po | 
+ | [te](/f30/language/te) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/te.po | 
+ | [th](/f30/language/th) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/th.po | 
+ | [tr](/f30/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/tr.po | 
+ | [ug](/f30/language/ug) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/ug.po | 
+ | [uk](/f30/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/uk.po | 
+ | [uz](/f30/language/uz) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/uz@cyrillic.po | 
+ | [vi](/f30/language/vi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/vi.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 45 | 45 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zh_TW.po | 
+ | [zh_Hant_HK](/f30/language/zh_Hant_HK) | 31 | 31 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zh_HK.po | 
+ | [zu](/f30/language/zu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f30/alacarte/po/zu.po | 
+ | [pt](/f30/language/pt) | 43 | 45 | 95.6 | /mnt/stockage/packages/f30/alacarte/po/pt.po | 
+ | [ku](/f30/language/ku) | 28 | 42 | 66.7 | /mnt/stockage/packages/f30/alacarte/po/ku.po | 
 {.sortable}
 
 

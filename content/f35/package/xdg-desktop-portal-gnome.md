@@ -18,40 +18,40 @@ The package xdg-desktop-portal-gnome (version 41.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/fa.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/id.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/it.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/lt.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/zh_CN.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 179 | 204 | 87.7 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ja.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 89 | 203 | 43.8 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/da.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 86 | 203 | 42.4 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/zh_TW.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 17 | 203 | 8.4 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/fr.po | 
+ | [ca](/f35/language/ca) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ca.po | 
+ | [cs](/f35/language/cs) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/cs.po | 
+ | [de](/f35/language/de) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/de.po | 
+ | [el](/f35/language/el) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/en_GB.po | 
+ | [es](/f35/language/es) | 209 | 209 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/es.po | 
+ | [eu](/f35/language/eu) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/eu.po | 
+ | [fa](/f35/language/fa) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/fa.po | 
+ | [gl](/f35/language/gl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/gl.po | 
+ | [he](/f35/language/he) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/he.po | 
+ | [hr](/f35/language/hr) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/hr.po | 
+ | [hu](/f35/language/hu) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/hu.po | 
+ | [id](/f35/language/id) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/id.po | 
+ | [is](/f35/language/is) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/is.po | 
+ | [it](/f35/language/it) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/it.po | 
+ | [ko](/f35/language/ko) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ko.po | 
+ | [lt](/f35/language/lt) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/lt.po | 
+ | [oc](/f35/language/oc) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/oc.po | 
+ | [pl](/f35/language/pl) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/pl.po | 
+ | [pt](/f35/language/pt) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ro.po | 
+ | [ru](/f35/language/ru) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ru.po | 
+ | [sk](/f35/language/sk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sk.po | 
+ | [sl](/f35/language/sl) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sl.po | 
+ | [sr](/f35/language/sr) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sr.po | 
+ | [sv](/f35/language/sv) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/sv.po | 
+ | [tr](/f35/language/tr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/tr.po | 
+ | [uk](/f35/language/uk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 204 | 204 | 100.0 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/zh_CN.po | 
+ | [ja](/f35/language/ja) | 179 | 204 | 87.7 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/ja.po | 
+ | [da](/f35/language/da) | 89 | 203 | 43.8 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/da.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 86 | 203 | 42.4 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/zh_TW.po | 
+ | [fr](/f35/language/fr) | 17 | 203 | 8.4 | /mnt/stockage/packages/f35/xdg-desktop-portal-gnome/po/fr.po | 
 {.sortable}
 
 

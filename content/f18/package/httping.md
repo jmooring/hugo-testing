@@ -18,7 +18,7 @@ The package httping (version 2.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1306 | 1307 | 99.9 | /mnt/stockage/packages/f18/httping/nl.po | 
+ | [nl](/f18/language/nl) | 1306 | 1307 | 99.9 | /mnt/stockage/packages/f18/httping/nl.po | 
 {.sortable}
 
 

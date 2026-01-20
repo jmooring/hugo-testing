@@ -189,44 +189,44 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [celestia]({{< ref "/f9/package/celestia.md" >}}) | 102 | 102 | 100.0 | English | 
- | [clisp]({{< ref "/f9/package/clisp.md" >}}) | 14442 | 14442 | 100.0 | English <en@li.org> | 
- | [cook]({{< ref "/f9/package/cook.md" >}}) | 997 | 997 | 100.0 |  | 
- | [gambas]({{< ref "/f9/package/gambas.md" >}}) | 415 | 415 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gambas2]({{< ref "/f9/package/gambas2.md" >}}) | 428 | 428 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gauche]({{< ref "/f9/package/gauche.md" >}}) | 82 | 82 | 100.0 |  | 
- | [gtklp]({{< ref "/f9/package/gtklp.md" >}}) | 591 | 591 | 100.0 | Nils Philippsen <nils@redhat.de> | 
- | [kernel-xen-2.6]({{< ref "/f9/package/kernel-xen-2.6.md" >}}) | 22 | 22 | 100.0 | xen-devel <xen-devel@lists.xensource.com> | 
- | [po4a]({{< ref "/f9/package/po4a.md" >}}) | 91 | 91 | 100.0 | LANGUAGE <LL@li.org> | 
- | [qt3]({{< ref "/f9/package/qt3.md" >}}) | 482 | 482 | 100.0 |  | 
- | [quarry]({{< ref "/f9/package/quarry.md" >}}) | 1807 | 1807 | 100.0 |  | 
- | [rt3]({{< ref "/f9/package/rt3.md" >}}) | 23 | 23 | 100.0 | rt-devel <rt-devel@lists.bestpractical.com> | 
- | [xen]({{< ref "/f9/package/xen.md" >}}) | 22 | 22 | 100.0 | xen-devel <xen-devel@lists.xensource.com> | 
- | [xmms]({{< ref "/f9/package/xmms.md" >}}) | 3245 | 3245 | 100.0 | English | 
- | [stellarium]({{< ref "/f9/package/stellarium.md" >}}) | 1141 | 1147 | 99.5 | English | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 3967 | 6228 | 63.7 | English | 
- | [fish]({{< ref "/f9/package/fish.md" >}}) | 5291 | 8912 | 59.4 | English <fish-users@lists.sf.net> | 
- | [python-nevow]({{< ref "/f9/package/python-nevow.md" >}}) | 4 | 14 | 28.6 | LANGUAGE <LL@li.org> | 
- | [calcurse]({{< ref "/f9/package/calcurse.md" >}}) | 838 | 3549 | 23.6 | English/GB <en_GB@li.org> | 
- | [wdm]({{< ref "/f9/package/wdm.md" >}}) | 3 | 38 | 7.9 |  | 
- | [ruby-gettext-package]({{< ref "/f9/package/ruby-gettext-package.md" >}}) | 2 | 45 | 4.4 | English | 
- | [gnomebaker]({{< ref "/f9/package/gnomebaker.md" >}}) | 20 | 1186 | 1.7 | English <en@li.org> | 
- | [Django]({{< ref "/f9/package/Django.md" >}}) | 6 | 2069 | 0.3 | LANGUAGE <LL@li.org> | 
- | [R]({{< ref "/f9/package/R.md" >}}) | 25 | 9463 | 0.3 | R-core <R-core@R-project.org> | 
- | [moin]({{< ref "/f9/package/moin.md" >}}) | 4 | 3742 | 0.1 | German <moin-devel@lists.sourceforge.net> | 
- | [icewm]({{< ref "/f9/package/icewm.md" >}}) | 1 | 1376 | 0.1 | English | 
- | [TurboGears]({{< ref "/f9/package/TurboGears.md" >}}) | 0 | 9 | 0.0 | LANGUAGE <LL@li.org> | 
- | [boinc-client]({{< ref "/f9/package/boinc-client.md" >}}) | 0 | 0 | 0.0 |  | 
- | [gnomecatalog]({{< ref "/f9/package/gnomecatalog.md" >}}) | 0 | 127 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f9/package/gourmet.md" >}}) | 0 | 3526 | 0.0 | English <en@li.org> | 
- | [gridengine]({{< ref "/f9/package/gridengine.md" >}}) | 0 | 16517 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pmount]({{< ref "/f9/package/pmount.md" >}}) | 0 | 723 | 0.0 | English <en@li.org> | 
- | [rosegarden4]({{< ref "/f9/package/rosegarden4.md" >}}) | 0 | 10592 | 0.0 | none> | 
- | [roundup]({{< ref "/f9/package/roundup.md" >}}) | 0 | 0 | 0.0 | English | 
- | [sos]({{< ref "/f9/package/sos.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f9/package/sugar.md" >}}) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-journal]({{< ref "/f9/package/sugar-journal.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wxGlade]({{< ref "/f9/package/wxGlade.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [celestia](/f9/package/celestia) | 102 | 102 | 100.0 | English | 
+ | [clisp](/f9/package/clisp) | 14442 | 14442 | 100.0 | English <en@li.org> | 
+ | [cook](/f9/package/cook) | 997 | 997 | 100.0 |  | 
+ | [gambas](/f9/package/gambas) | 415 | 415 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gambas2](/f9/package/gambas2) | 428 | 428 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gauche](/f9/package/gauche) | 82 | 82 | 100.0 |  | 
+ | [gtklp](/f9/package/gtklp) | 591 | 591 | 100.0 | Nils Philippsen <nils@redhat.de> | 
+ | [kernel-xen-2.6](/f9/package/kernel-xen-2.6) | 22 | 22 | 100.0 | xen-devel <xen-devel@lists.xensource.com> | 
+ | [po4a](/f9/package/po4a) | 91 | 91 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [qt3](/f9/package/qt3) | 482 | 482 | 100.0 |  | 
+ | [quarry](/f9/package/quarry) | 1807 | 1807 | 100.0 |  | 
+ | [rt3](/f9/package/rt3) | 23 | 23 | 100.0 | rt-devel <rt-devel@lists.bestpractical.com> | 
+ | [xen](/f9/package/xen) | 22 | 22 | 100.0 | xen-devel <xen-devel@lists.xensource.com> | 
+ | [xmms](/f9/package/xmms) | 3245 | 3245 | 100.0 | English | 
+ | [stellarium](/f9/package/stellarium) | 1141 | 1147 | 99.5 | English | 
+ | [iso-codes](/f9/package/iso-codes) | 3967 | 6228 | 63.7 | English | 
+ | [fish](/f9/package/fish) | 5291 | 8912 | 59.4 | English <fish-users@lists.sf.net> | 
+ | [python-nevow](/f9/package/python-nevow) | 4 | 14 | 28.6 | LANGUAGE <LL@li.org> | 
+ | [calcurse](/f9/package/calcurse) | 838 | 3549 | 23.6 | English/GB <en_GB@li.org> | 
+ | [wdm](/f9/package/wdm) | 3 | 38 | 7.9 |  | 
+ | [ruby-gettext-package](/f9/package/ruby-gettext-package) | 2 | 45 | 4.4 | English | 
+ | [gnomebaker](/f9/package/gnomebaker) | 20 | 1186 | 1.7 | English <en@li.org> | 
+ | [Django](/f9/package/Django) | 6 | 2069 | 0.3 | LANGUAGE <LL@li.org> | 
+ | [R](/f9/package/R) | 25 | 9463 | 0.3 | R-core <R-core@R-project.org> | 
+ | [moin](/f9/package/moin) | 4 | 3742 | 0.1 | German <moin-devel@lists.sourceforge.net> | 
+ | [icewm](/f9/package/icewm) | 1 | 1376 | 0.1 | English | 
+ | [TurboGears](/f9/package/TurboGears) | 0 | 9 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [boinc-client](/f9/package/boinc-client) | 0 | 0 | 0.0 |  | 
+ | [gnomecatalog](/f9/package/gnomecatalog) | 0 | 127 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f9/package/gourmet) | 0 | 3526 | 0.0 | English <en@li.org> | 
+ | [gridengine](/f9/package/gridengine) | 0 | 16517 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pmount](/f9/package/pmount) | 0 | 723 | 0.0 | English <en@li.org> | 
+ | [rosegarden4](/f9/package/rosegarden4) | 0 | 10592 | 0.0 | none> | 
+ | [roundup](/f9/package/roundup) | 0 | 0 | 0.0 | English | 
+ | [sos](/f9/package/sos) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f9/package/sugar) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-journal](/f9/package/sugar-journal) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wxGlade](/f9/package/wxGlade) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -238,7 +238,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [qt3]({{< ref "/f9/package/qt3.md" >}}) | /mnt/stockage/packages/f9/qt3/examples/demo/i18n/en.po | error-os |  | 
+ | [qt3](/f9/package/qt3) | /mnt/stockage/packages/f9/qt3/examples/demo/i18n/en.po | error-os |  | 
 {.sortable}
 
 
@@ -249,7 +249,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [boinc-client]({{< ref "/f9/package/boinc-client.md" >}}) | /mnt/stockage/packages/f9/boinc-client/languages/translations/en.po |  | 
+ | [boinc-client](/f9/package/boinc-client) | /mnt/stockage/packages/f9/boinc-client/languages/translations/en.po |  | 
 {.sortable}
 
 

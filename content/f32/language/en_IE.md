@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lollypop]({{< ref "/f32/package/lollypop.md" >}}) | 139 | 1433 | 9.7 | English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/> | 
- | [cinnamon-translations]({{< ref "/f32/package/cinnamon-translations.md" >}}) | 4 | 6751 | 0.1 | English (Ireland) <en_IE@li.org> | 
+ | [lollypop](/f32/package/lollypop) | 139 | 1433 | 9.7 | English (Ireland) <https://hosted.weblate.org/projects/gnumdk/lollypop/en_IE/> | 
+ | [cinnamon-translations](/f32/package/cinnamon-translations) | 4 | 6751 | 0.1 | English (Ireland) <en_IE@li.org> | 
 {.sortable}
 
 

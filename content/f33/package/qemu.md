@@ -18,15 +18,15 @@ The package qemu (version 5.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/qemu/po/bg.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/qemu/po/sv.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/qemu/po/zh_CN.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/qemu/po/fr_FR.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/qemu/po/it.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/qemu/po/hu.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/qemu/po/tr.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f33/qemu/po/messages.po | 
+ | [bg](/f33/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/qemu/po/bg.po | 
+ | [sv](/f33/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/qemu/po/sv.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f33/qemu/po/zh_CN.po | 
+ | [de](/f33/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/qemu/po/de_DE.po | 
+ | [fr](/f33/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/qemu/po/fr_FR.po | 
+ | [it](/f33/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f33/qemu/po/it.po | 
+ | [hu](/f33/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/qemu/po/hu.po | 
+ | [tr](/f33/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f33/qemu/po/tr.po | 
+ | [error](/f33/language/error) | 0 | 35 | 0.0 | /mnt/stockage/packages/f33/qemu/po/messages.po | 
 {.sortable}
 
 

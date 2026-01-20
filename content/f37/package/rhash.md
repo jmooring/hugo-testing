@@ -18,16 +18,16 @@ The package rhash (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f37/language/en.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f37/rhash/po/en_AU.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f37/rhash/po/ru.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 455 | 462 | 98.5 | /mnt/stockage/packages/f37/rhash/po/uk.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 362 | 462 | 78.4 | /mnt/stockage/packages/f37/rhash/po/de.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 316 | 462 | 68.4 | /mnt/stockage/packages/f37/rhash/po/it.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 307 | 462 | 66.5 | /mnt/stockage/packages/f37/rhash/po/es.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 210 | 462 | 45.5 | /mnt/stockage/packages/f37/rhash/po/gl.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 199 | 462 | 43.1 | /mnt/stockage/packages/f37/rhash/po/ca.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 192 | 462 | 41.6 | /mnt/stockage/packages/f37/rhash/po/ro.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 129 | 462 | 27.9 | /mnt/stockage/packages/f37/rhash/po/fr.po | 
+ | [en](/f37/language/en) | 459 | 462 | 99.4 | /mnt/stockage/packages/f37/rhash/po/en_AU.po | 
+ | [ru](/f37/language/ru) | 459 | 462 | 99.4 | /mnt/stockage/packages/f37/rhash/po/ru.po | 
+ | [uk](/f37/language/uk) | 455 | 462 | 98.5 | /mnt/stockage/packages/f37/rhash/po/uk.po | 
+ | [de](/f37/language/de) | 362 | 462 | 78.4 | /mnt/stockage/packages/f37/rhash/po/de.po | 
+ | [it](/f37/language/it) | 316 | 462 | 68.4 | /mnt/stockage/packages/f37/rhash/po/it.po | 
+ | [es](/f37/language/es) | 307 | 462 | 66.5 | /mnt/stockage/packages/f37/rhash/po/es.po | 
+ | [gl](/f37/language/gl) | 210 | 462 | 45.5 | /mnt/stockage/packages/f37/rhash/po/gl.po | 
+ | [ca](/f37/language/ca) | 199 | 462 | 43.1 | /mnt/stockage/packages/f37/rhash/po/ca.po | 
+ | [ro](/f37/language/ro) | 192 | 462 | 41.6 | /mnt/stockage/packages/f37/rhash/po/ro.po | 
+ | [fr](/f37/language/fr) | 129 | 462 | 27.9 | /mnt/stockage/packages/f37/rhash/po/fr.po | 
 {.sortable}
 
 

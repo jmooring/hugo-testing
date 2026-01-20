@@ -18,23 +18,23 @@ The package apt-cacher-ng (version 3.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/eu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/ja.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/ru.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/sv.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 34 | 394 | 8.6 | /mnt/stockage/packages/f38/apt-cacher-ng/po/fi.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 34 | 394 | 8.6 | /mnt/stockage/packages/f38/apt-cacher-ng/po/gl.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 34 | 394 | 8.6 | /mnt/stockage/packages/f38/apt-cacher-ng/po/vi.po | 
+ | [cs](/f38/language/cs) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/cs.po | 
+ | [da](/f38/language/da) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/da.po | 
+ | [de](/f38/language/de) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/de.po | 
+ | [es](/f38/language/es) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/es.po | 
+ | [eu](/f38/language/eu) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/eu.po | 
+ | [fr](/f38/language/fr) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/fr.po | 
+ | [it](/f38/language/it) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/it.po | 
+ | [ja](/f38/language/ja) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/ja.po | 
+ | [nl](/f38/language/nl) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/nl.po | 
+ | [pl](/f38/language/pl) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/pl.po | 
+ | [pt](/f38/language/pt) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/ru.po | 
+ | [sv](/f38/language/sv) | 394 | 394 | 100.0 | /mnt/stockage/packages/f38/apt-cacher-ng/po/sv.po | 
+ | [fi](/f38/language/fi) | 34 | 394 | 8.6 | /mnt/stockage/packages/f38/apt-cacher-ng/po/fi.po | 
+ | [gl](/f38/language/gl) | 34 | 394 | 8.6 | /mnt/stockage/packages/f38/apt-cacher-ng/po/gl.po | 
+ | [vi](/f38/language/vi) | 34 | 394 | 8.6 | /mnt/stockage/packages/f38/apt-cacher-ng/po/vi.po | 
 {.sortable}
 
 

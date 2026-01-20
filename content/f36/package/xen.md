@@ -18,17 +18,17 @@ The package xen (version 4.16.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/bg.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/13 yelp/help/es/es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/6 gettext/po/fi.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/6 gettext/po/ru.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/sv.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/zh_CN.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 36 | 38 | 94.7 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/6 gettext/po/de.po/mnt/stockage/packages/f36/xen/tools/qemu-xen/po/de_DE.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/fr_FR.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/it.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/hu.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/tr.po | 
+ | [bg](/f36/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/bg.po | 
+ | [es](/f36/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/13 yelp/help/es/es.po | 
+ | [fi](/f36/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/6 gettext/po/fi.po | 
+ | [ru](/f36/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/6 gettext/po/ru.po | 
+ | [sv](/f36/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/sv.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/zh_CN.po | 
+ | [de](/f36/language/de) | 36 | 38 | 94.7 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f36/xen/tools/qemu-xen/meson/test cases/frameworks/6 gettext/po/de.po/mnt/stockage/packages/f36/xen/tools/qemu-xen/po/de_DE.po | 
+ | [fr](/f36/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/fr_FR.po | 
+ | [it](/f36/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/it.po | 
+ | [hu](/f36/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/hu.po | 
+ | [tr](/f36/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f36/xen/tools/qemu-xen/po/tr.po | 
 {.sortable}
 
 

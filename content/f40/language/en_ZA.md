@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f40/package/libreoffice.md" >}}) | 316710 | 760093 | 41.7 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 2 | 57 | 3.5 | none | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 4 | 7243 | 0.1 | English (South Africa) <en_ZA@li.org> | 
- | [elementary-calendar]({{< ref "/f40/package/elementary-calendar.md" >}}) | 0 | 652 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 0 | 281 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 | none | 
+ | [libreoffice](/f40/package/libreoffice) | 316710 | 760093 | 41.7 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f40/package/wingpanel) | 2 | 57 | 3.5 | none | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 4 | 7243 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [elementary-calendar](/f40/package/elementary-calendar) | 0 | 652 | 0.0 | none | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f40/package/gala) | 0 | 281 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 | none | 
 {.sortable}
 
 

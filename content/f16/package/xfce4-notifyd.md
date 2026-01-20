@@ -18,43 +18,43 @@ The package xfce4-notifyd (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ar.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ja.po | 
- | [kk]({{< ref "/f16/language/kk.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/kk.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/sk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/sv.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/zh_TW.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 84 | 94 | 89.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/tr.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ast.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/lv.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pa.po | 
- | [pt_PT]({{< ref "/f16/language/pt_PT.md" >}}) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pt_PT.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/sq.po | 
- | [ug]({{< ref "/f16/language/ug.md" >}}) | 53 | 88 | 60.2 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ug.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 1 | 88 | 1.1 | /mnt/stockage/packages/f16/xfce4-notifyd/po/si.po | 
+ | [ar](/f16/language/ar) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ar.po | 
+ | [ca](/f16/language/ca) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ca.po | 
+ | [cs](/f16/language/cs) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/cs.po | 
+ | [da](/f16/language/da) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/da.po | 
+ | [de](/f16/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/de.po | 
+ | [el](/f16/language/el) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/en_GB.po | 
+ | [es](/f16/language/es) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/es.po | 
+ | [eu](/f16/language/eu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/eu.po | 
+ | [fi](/f16/language/fi) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/fi.po | 
+ | [fr](/f16/language/fr) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/fr.po | 
+ | [gl](/f16/language/gl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/gl.po | 
+ | [hu](/f16/language/hu) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/hu.po | 
+ | [id](/f16/language/id) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/id.po | 
+ | [it](/f16/language/it) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/it.po | 
+ | [ja](/f16/language/ja) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ja.po | 
+ | [kk](/f16/language/kk) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/kk.po | 
+ | [nb_NO](/f16/language/nb_NO) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/nb.po | 
+ | [nl](/f16/language/nl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/nl.po | 
+ | [pl](/f16/language/pl) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pl.po | 
+ | [pt](/f16/language/pt) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ro.po | 
+ | [ru](/f16/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ru.po | 
+ | [sk](/f16/language/sk) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/sk.po | 
+ | [sv](/f16/language/sv) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/sv.po | 
+ | [uk](/f16/language/uk) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 98 | 98 | 100.0 | /mnt/stockage/packages/f16/xfce4-notifyd/po/zh_TW.po | 
+ | [tr](/f16/language/tr) | 84 | 94 | 89.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/tr.po | 
+ | [ast](/f16/language/ast) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ast.po | 
+ | [lv](/f16/language/lv) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/lv.po | 
+ | [pa](/f16/language/pa) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pa.po | 
+ | [pt_PT](/f16/language/pt_PT) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/pt_PT.po | 
+ | [sq](/f16/language/sq) | 69 | 88 | 78.4 | /mnt/stockage/packages/f16/xfce4-notifyd/po/sq.po | 
+ | [ug](/f16/language/ug) | 53 | 88 | 60.2 | /mnt/stockage/packages/f16/xfce4-notifyd/po/ug.po | 
+ | [si](/f16/language/si) | 1 | 88 | 1.1 | /mnt/stockage/packages/f16/xfce4-notifyd/po/si.po | 
 {.sortable}
 
 

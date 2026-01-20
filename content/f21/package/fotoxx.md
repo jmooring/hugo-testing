@@ -18,15 +18,15 @@ The package fotoxx (version 14.05.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 3051 | 3051 | 100.0 | /mnt/stockage/packages/f21/fotoxx/locales/translate-de.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 3051 | 3051 | 100.0 | /mnt/stockage/packages/f21/fotoxx/locales/translate-en.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 3051 | 3051 | 100.0 | /mnt/stockage/packages/f21/fotoxx/locales/translate-es.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 3037 | 3051 | 99.5 | /mnt/stockage/packages/f21/fotoxx/locales/translate-ca.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 3015 | 3051 | 98.8 | /mnt/stockage/packages/f21/fotoxx/locales/translate-it.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2980 | 3051 | 97.7 | /mnt/stockage/packages/f21/fotoxx/locales/translate-fr.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 2980 | 3051 | 97.7 | /mnt/stockage/packages/f21/fotoxx/locales/translate-pt.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 2903 | 3051 | 95.1 | /mnt/stockage/packages/f21/fotoxx/locales/translate-nl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 2819 | 3051 | 92.4 | /mnt/stockage/packages/f21/fotoxx/locales/translate-ru.po | 
+ | [de](/f21/language/de) | 3051 | 3051 | 100.0 | /mnt/stockage/packages/f21/fotoxx/locales/translate-de.po | 
+ | [en](/f21/language/en) | 3051 | 3051 | 100.0 | /mnt/stockage/packages/f21/fotoxx/locales/translate-en.po | 
+ | [es](/f21/language/es) | 3051 | 3051 | 100.0 | /mnt/stockage/packages/f21/fotoxx/locales/translate-es.po | 
+ | [ca](/f21/language/ca) | 3037 | 3051 | 99.5 | /mnt/stockage/packages/f21/fotoxx/locales/translate-ca.po | 
+ | [it](/f21/language/it) | 3015 | 3051 | 98.8 | /mnt/stockage/packages/f21/fotoxx/locales/translate-it.po | 
+ | [fr](/f21/language/fr) | 2980 | 3051 | 97.7 | /mnt/stockage/packages/f21/fotoxx/locales/translate-fr.po | 
+ | [pt](/f21/language/pt) | 2980 | 3051 | 97.7 | /mnt/stockage/packages/f21/fotoxx/locales/translate-pt.po | 
+ | [nl](/f21/language/nl) | 2903 | 3051 | 95.1 | /mnt/stockage/packages/f21/fotoxx/locales/translate-nl.po | 
+ | [ru](/f21/language/ru) | 2819 | 3051 | 92.4 | /mnt/stockage/packages/f21/fotoxx/locales/translate-ru.po | 
 {.sortable}
 
 

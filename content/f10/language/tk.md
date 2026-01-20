@@ -40,27 +40,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mag]({{< ref "/f10/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 348 | 370 | 94.1 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtranslator]({{< ref "/f10/package/gtranslator.md" >}}) | 1291 | 1422 | 90.8 | Turkmen <kakilikgroup@yahoo.com> | 
- | [file-roller]({{< ref "/f10/package/file-roller.md" >}}) | 702 | 971 | 72.3 | Turkmen <kakilikgroup@yahoo.com> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 5001 | 6976 | 71.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-mime-data]({{< ref "/f10/package/gnome-mime-data.md" >}}) | 625 | 887 | 70.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-icon-theme]({{< ref "/f10/package/gnome-icon-theme.md" >}}) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 722 | 1077 | 67.0 | Turkmen <kakilikgroup@yahoo.com> | 
- | [epiphany]({{< ref "/f10/package/epiphany.md" >}}) | 1702 | 2782 | 61.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gedit]({{< ref "/f10/package/gedit.md" >}}) | 2502 | 4206 | 59.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [dasher]({{< ref "/f10/package/dasher.md" >}}) | 141 | 423 | 33.3 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gcalctool]({{< ref "/f10/package/gcalctool.md" >}}) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 443 | 1419 | 31.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gnome-media]({{< ref "/f10/package/gnome-media.md" >}}) | 470 | 1795 | 26.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [eog]({{< ref "/f10/package/eog.md" >}}) | 143 | 557 | 25.7 | Turkmne <kakilikgroup@yahoo.com> | 
- | [gnome-session]({{< ref "/f10/package/gnome-session.md" >}}) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 285 | 12760 | 2.2 | Turkmen <kakilikgroup@yahoo.com> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 216 | 12400 | 1.7 | Turkmen <kakilikgroup@yahoo.com> | 
- | [metacity]({{< ref "/f10/package/metacity.md" >}}) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-mag](/f10/package/gnome-mag) | 5 | 5 | 100.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [atk](/f10/package/atk) | 348 | 370 | 94.1 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 348 | 375 | 92.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 291 | 320 | 90.9 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtranslator](/f10/package/gtranslator) | 1291 | 1422 | 90.8 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [file-roller](/f10/package/file-roller) | 702 | 971 | 72.3 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [nautilus](/f10/package/nautilus) | 5001 | 6976 | 71.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-mime-data](/f10/package/gnome-mime-data) | 625 | 887 | 70.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-icon-theme](/f10/package/gnome-icon-theme) | 36 | 52 | 69.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [iso-codes](/f10/package/iso-codes) | 722 | 1077 | 67.0 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [epiphany](/f10/package/epiphany) | 1702 | 2782 | 61.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gedit](/f10/package/gedit) | 2502 | 4206 | 59.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [dasher](/f10/package/dasher) | 141 | 423 | 33.3 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gcalctool](/f10/package/gcalctool) | 294 | 915 | 32.1 | Tuekmen <kakilikgroup@yahoo.com> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 443 | 1419 | 31.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gnome-media](/f10/package/gnome-media) | 470 | 1795 | 26.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [eog](/f10/package/eog) | 143 | 557 | 25.7 | Turkmne <kakilikgroup@yahoo.com> | 
+ | [gnome-session](/f10/package/gnome-session) | 44 | 516 | 8.5 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [gtk2](/f10/package/gtk2) | 285 | 12760 | 2.2 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 216 | 12400 | 1.7 | Turkmen <kakilikgroup@yahoo.com> | 
+ | [metacity](/f10/package/metacity) | 49 | 6919 | 0.7 | Turkmen <kakilikgroup@yahoo.com> | 
 {.sortable}
 
 

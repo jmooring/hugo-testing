@@ -18,39 +18,39 @@ The package lagrange (version 1.19.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 1845 | 1845 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 1906 | 1906 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/de.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/en.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 2371 | 2371 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/es.po | 
- | [es_MX]({{< ref "/f41/language/es_MX.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/es_MX.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1996 | 1996 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/gl.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 1700 | 1700 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/hu.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 1965 | 1965 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ia.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 2355 | 2355 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ie.po | 
- | [isv]({{< ref "/f41/language/isv.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/isv.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 2325 | 2325 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/it.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/lt.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 1671 | 1671 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/pl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 2371 | 2371 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ru.po | 
- | [sgs]({{< ref "/f41/language/sgs.md" >}}) | 2095 | 2095 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sgs.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 220 | 220 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sk.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/zh_Hans.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/zh_Hant.po | 
- | [tok]({{< ref "/f41/language/tok.md" >}}) | 1951 | 1965 | 99.3 | /mnt/stockage/packages/f41/lagrange/po/tok.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 2352 | 2371 | 99.2 | /mnt/stockage/packages/f41/lagrange/po/eu.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 2352 | 2371 | 99.2 | /mnt/stockage/packages/f41/lagrange/po/ja.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 1492 | 1563 | 95.5 | /mnt/stockage/packages/f41/lagrange/po/ar.po | 
+ | [ca](/f41/language/ca) | 896 | 896 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ca.po | 
+ | [cs](/f41/language/cs) | 1845 | 1845 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/cs.po | 
+ | [de](/f41/language/de) | 1906 | 1906 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/de.po | 
+ | [en](/f41/language/en) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/en.po | 
+ | [eo](/f41/language/eo) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/eo.po | 
+ | [es](/f41/language/es) | 2371 | 2371 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/es.po | 
+ | [es_MX](/f41/language/es_MX) | 912 | 912 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/es_MX.po | 
+ | [fi](/f41/language/fi) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/fi.po | 
+ | [fr](/f41/language/fr) | 1996 | 1996 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/fr.po | 
+ | [gl](/f41/language/gl) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/gl.po | 
+ | [hu](/f41/language/hu) | 1700 | 1700 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/hu.po | 
+ | [ia](/f41/language/ia) | 1965 | 1965 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ia.po | 
+ | [ie](/f41/language/ie) | 2355 | 2355 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ie.po | 
+ | [isv](/f41/language/isv) | 335 | 335 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/isv.po | 
+ | [it](/f41/language/it) | 2325 | 2325 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/it.po | 
+ | [lt](/f41/language/lt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/lt.po | 
+ | [nl](/f41/language/nl) | 1718 | 1718 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/nl.po | 
+ | [pl](/f41/language/pl) | 1671 | 1671 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/pl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 399 | 399 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ro.po | 
+ | [ru](/f41/language/ru) | 2371 | 2371 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/ru.po | 
+ | [sgs](/f41/language/sgs) | 2095 | 2095 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sgs.po | 
+ | [sk](/f41/language/sk) | 220 | 220 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sk.po | 
+ | [sr](/f41/language/sr) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sr.po | 
+ | [sv](/f41/language/sv) | 204 | 204 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/sv.po | 
+ | [tr](/f41/language/tr) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/tr.po | 
+ | [uk](/f41/language/uk) | 2449 | 2449 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/zh_Hans.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 2011 | 2011 | 100.0 | /mnt/stockage/packages/f41/lagrange/po/zh_Hant.po | 
+ | [tok](/f41/language/tok) | 1951 | 1965 | 99.3 | /mnt/stockage/packages/f41/lagrange/po/tok.po | 
+ | [eu](/f41/language/eu) | 2352 | 2371 | 99.2 | /mnt/stockage/packages/f41/lagrange/po/eu.po | 
+ | [ja](/f41/language/ja) | 2352 | 2371 | 99.2 | /mnt/stockage/packages/f41/lagrange/po/ja.po | 
+ | [ar](/f41/language/ar) | 1492 | 1563 | 95.5 | /mnt/stockage/packages/f41/lagrange/po/ar.po | 
 {.sortable}
 
 

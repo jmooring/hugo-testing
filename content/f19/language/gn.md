@@ -40,23 +40,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lxmenu-data]({{< ref "/f19/package/lxmenu-data.md" >}}) | 53 | 97 | 54.6 |  | 
- | [gnome-menus]({{< ref "/f19/package/gnome-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [mate-menus]({{< ref "/f19/package/mate-menus.md" >}}) | 71 | 133 | 53.4 |  | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 20 | 11181 | 0.2 | Guarani <gn@li.org> | 
- | [sugar-abacus]({{< ref "/f19/package/sugar-abacus.md" >}}) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f19/package/sugar-browse.md" >}}) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f19/package/sugar-clock.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f19/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f19/package/sugar-fototoon.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f19/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f19/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f19/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f19/package/sugar-memorize.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f19/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f19/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f19/package/sugar-ruler.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f19/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f19/package/lxmenu-data) | 53 | 97 | 54.6 |  | 
+ | [gnome-menus](/f19/package/gnome-menus) | 71 | 133 | 53.4 |  | 
+ | [mate-menus](/f19/package/mate-menus) | 71 | 133 | 53.4 |  | 
+ | [stellarium](/f19/package/stellarium) | 20 | 11181 | 0.2 | Guarani <gn@li.org> | 
+ | [sugar-abacus](/f19/package/sugar-abacus) | 0 | 34 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f19/package/sugar-browse) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f19/package/sugar-clock) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f19/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f19/package/sugar-fototoon) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f19/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f19/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f19/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f19/package/sugar-memorize) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f19/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f19/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f19/package/sugar-ruler) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f19/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [im-chooser]({{< ref "/f15/package/im-chooser.md" >}}) | 54 | 226 | 23.9 | LANGUAGE <LL@li.org> | 
- | [wine]({{< ref "/f15/package/wine.md" >}}) | 2228 | 13794 | 16.2 | none | 
- | [imsettings]({{< ref "/f15/package/imsettings.md" >}}) | 60 | 404 | 14.9 | LANGUAGE <LL@li.org> | 
+ | [im-chooser](/f15/package/im-chooser) | 54 | 226 | 23.9 | LANGUAGE <LL@li.org> | 
+ | [wine](/f15/package/wine) | 2228 | 13794 | 16.2 | none | 
+ | [imsettings](/f15/package/imsettings) | 60 | 404 | 14.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

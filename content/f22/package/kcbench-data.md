@@ -18,11 +18,11 @@ The package kcbench-data (version 0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/fr.po | 
+ | [de](/f22/language/de) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/de.po | 
+ | [it](/f22/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/it.po | 
+ | [pt](/f22/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/pt.po | 
+ | [cs](/f22/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/cs.po | 
+ | [fr](/f22/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f22/kcbench-data/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

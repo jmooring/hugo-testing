@@ -18,25 +18,25 @@ The package python-django-extensions (version 1.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/de/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/el/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/fr/LC_MESSAGES/django.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/hu/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/it/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/ja/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/pl/LC_MESSAGES/django.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/pt/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/ro/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/ru/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 19 | 42 | 45.2 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/da/LC_MESSAGES/django.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/et/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/cs/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/en/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/sk/LC_MESSAGES/django.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/tr/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [de](/f26/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/de/LC_MESSAGES/django.po | 
+ | [el](/f26/language/el) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/el/LC_MESSAGES/django.po | 
+ | [es](/f26/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f26/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/fr/LC_MESSAGES/django.po | 
+ | [hu](/f26/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/hu/LC_MESSAGES/django.po | 
+ | [it](/f26/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/it/LC_MESSAGES/django.po | 
+ | [ja](/f26/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/ja/LC_MESSAGES/django.po | 
+ | [pl](/f26/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/pl/LC_MESSAGES/django.po | 
+ | [pt](/f26/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/pt/LC_MESSAGES/django.po | 
+ | [pt_BR](/f26/language/pt_BR) | 37 | 37 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ro](/f26/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/ro/LC_MESSAGES/django.po | 
+ | [ru](/f26/language/ru) | 37 | 37 | 100.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/ru/LC_MESSAGES/django.po | 
+ | [da](/f26/language/da) | 19 | 42 | 45.2 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/da/LC_MESSAGES/django.po | 
+ | [et](/f26/language/et) | 1 | 42 | 2.4 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/et/LC_MESSAGES/django.po | 
+ | [cs](/f26/language/cs) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/cs/LC_MESSAGES/django.po | 
+ | [en](/f26/language/en) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/en/LC_MESSAGES/django.po | 
+ | [sk](/f26/language/sk) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/sk/LC_MESSAGES/django.po | 
+ | [tr](/f26/language/tr) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/tr/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 0 | 42 | 0.0 | /mnt/stockage/packages/f26/python-django-extensions/django_extensions/locale/zh_CN/LC_MESSAGES/django.po | 
 {.sortable}
 
 

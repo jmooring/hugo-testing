@@ -18,18 +18,18 @@ The package xfce4-taskmanager (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/de.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/hu.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/ja.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/pt_BR.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/ru.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/vi.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/zh_TW.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 13 | 23 | 56.5 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/gl.po | 
+ | [de](/f9/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/de.po | 
+ | [eu](/f9/language/eu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/eu.po | 
+ | [fi](/f9/language/fi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/fi.po | 
+ | [fr](/f9/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/fr.po | 
+ | [hu](/f9/language/hu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/hu.po | 
+ | [ja](/f9/language/ja) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/ja.po | 
+ | [pl](/f9/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/pt_BR.po | 
+ | [ru](/f9/language/ru) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/ru.po | 
+ | [vi](/f9/language/vi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/vi.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/zh_TW.po | 
+ | [gl](/f9/language/gl) | 13 | 23 | 56.5 | /mnt/stockage/packages/f9/xfce4-taskmanager/po/gl.po | 
 {.sortable}
 
 

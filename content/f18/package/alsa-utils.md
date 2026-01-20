@@ -18,10 +18,10 @@ The package alsa-utils (version 1.0.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 1382 | 1647 | 83.9 | /mnt/stockage/packages/f18/alsa-utils/po/de.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 1739 | 2185 | 79.6 | /mnt/stockage/packages/f18/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f18/alsa-utils/po/ja.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1266 | 1647 | 76.9 | /mnt/stockage/packages/f18/alsa-utils/po/fr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f18/alsa-utils/alsaconf/po/ru.po | 
+ | [de](/f18/language/de) | 1382 | 1647 | 83.9 | /mnt/stockage/packages/f18/alsa-utils/po/de.po | 
+ | [ja](/f18/language/ja) | 1739 | 2185 | 79.6 | /mnt/stockage/packages/f18/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f18/alsa-utils/po/ja.po | 
+ | [fr](/f18/language/fr) | 1266 | 1647 | 76.9 | /mnt/stockage/packages/f18/alsa-utils/po/fr.po | 
+ | [ru](/f18/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f18/alsa-utils/alsaconf/po/ru.po | 
 {.sortable}
 
 

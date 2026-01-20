@@ -18,17 +18,17 @@ The package specto (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 851 | 935 | 91.0 | /mnt/stockage/packages/f26/specto/po/fr.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 836 | 935 | 89.4 | /mnt/stockage/packages/f26/specto/po/es.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 835 | 935 | 89.3 | /mnt/stockage/packages/f26/specto/po/ru.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 704 | 935 | 75.3 | /mnt/stockage/packages/f26/specto/po/zh_CN.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 555 | 935 | 59.4 | /mnt/stockage/packages/f26/specto/po/de.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/cs.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/it.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/pt_BR.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 203 | 935 | 21.7 | /mnt/stockage/packages/f26/specto/po/tr.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 117 | 935 | 12.5 | /mnt/stockage/packages/f26/specto/po/ro.po | 
+ | [fr](/f26/language/fr) | 851 | 935 | 91.0 | /mnt/stockage/packages/f26/specto/po/fr.po | 
+ | [es](/f26/language/es) | 836 | 935 | 89.4 | /mnt/stockage/packages/f26/specto/po/es.po | 
+ | [ru](/f26/language/ru) | 835 | 935 | 89.3 | /mnt/stockage/packages/f26/specto/po/ru.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 704 | 935 | 75.3 | /mnt/stockage/packages/f26/specto/po/zh_CN.po | 
+ | [de](/f26/language/de) | 555 | 935 | 59.4 | /mnt/stockage/packages/f26/specto/po/de.po | 
+ | [cs](/f26/language/cs) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/cs.po | 
+ | [it](/f26/language/it) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/it.po | 
+ | [pt_BR](/f26/language/pt_BR) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/pt_BR.po | 
+ | [sv](/f26/language/sv) | 219 | 935 | 23.4 | /mnt/stockage/packages/f26/specto/po/sv.po | 
+ | [tr](/f26/language/tr) | 203 | 935 | 21.7 | /mnt/stockage/packages/f26/specto/po/tr.po | 
+ | [ro](/f26/language/ro) | 117 | 935 | 12.5 | /mnt/stockage/packages/f26/specto/po/ro.po | 
 {.sortable}
 
 

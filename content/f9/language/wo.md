@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f9/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 1076 | 1082 | 99.4 | Wolof | 
- | [ccsm]({{< ref "/f9/package/ccsm.md" >}}) | 418 | 532 | 78.6 | Wolof | 
+ | [newt](/f9/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [iso-codes](/f9/package/iso-codes) | 1076 | 1082 | 99.4 | Wolof | 
+ | [ccsm](/f9/package/ccsm) | 418 | 532 | 78.6 | Wolof | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package glabels (version 2.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f14/glabels/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 7388 | 7388 | 100.0 | /mnt/stockage/packages/f14/glabels/help/cs/cs.po/mnt/stockage/packages/f14/glabels/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f14/glabels/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 7388 | 7388 | 100.0 | /mnt/stockage/packages/f14/glabels/help/de/de.po/mnt/stockage/packages/f14/glabels/po/de.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f14/glabels/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f14/glabels/po/ko.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1856 | 1856 | 100.0 | /mnt/stockage/packages/f14/glabels/po/pt.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 1856 | 1856 | 100.0 | /mnt/stockage/packages/f14/glabels/po/sl.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 7382 | 7388 | 99.9 | /mnt/stockage/packages/f14/glabels/help/fr/fr.po/mnt/stockage/packages/f14/glabels/po/fr.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1821 | 1829 | 99.6 | /mnt/stockage/packages/f14/glabels/po/zh_CN.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 1497 | 1662 | 90.1 | /mnt/stockage/packages/f14/glabels/po/eo.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1643 | 1849 | 88.9 | /mnt/stockage/packages/f14/glabels/po/ru.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1040 | 1662 | 62.6 | /mnt/stockage/packages/f14/glabels/po/it.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 874 | 1756 | 49.8 | /mnt/stockage/packages/f14/glabels/po/pt_BR.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 782 | 1849 | 42.3 | /mnt/stockage/packages/f14/glabels/po/sv.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2529 | 7388 | 34.2 | /mnt/stockage/packages/f14/glabels/help/es/es.po/mnt/stockage/packages/f14/glabels/po/es.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 285 | 1756 | 16.2 | /mnt/stockage/packages/f14/glabels/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 227 | 1834 | 12.4 | /mnt/stockage/packages/f14/glabels/po/nb.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 146 | 1820 | 8.0 | /mnt/stockage/packages/f14/glabels/po/pl.po | 
+ | [ca](/f14/language/ca) | 1825 | 1825 | 100.0 | /mnt/stockage/packages/f14/glabels/po/ca.po | 
+ | [cs](/f14/language/cs) | 7388 | 7388 | 100.0 | /mnt/stockage/packages/f14/glabels/help/cs/cs.po/mnt/stockage/packages/f14/glabels/po/cs.po | 
+ | [da](/f14/language/da) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f14/glabels/po/da.po | 
+ | [de](/f14/language/de) | 7388 | 7388 | 100.0 | /mnt/stockage/packages/f14/glabels/help/de/de.po/mnt/stockage/packages/f14/glabels/po/de.po | 
+ | [ja](/f14/language/ja) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f14/glabels/po/ja.po | 
+ | [ko](/f14/language/ko) | 1756 | 1756 | 100.0 | /mnt/stockage/packages/f14/glabels/po/ko.po | 
+ | [pt](/f14/language/pt) | 1856 | 1856 | 100.0 | /mnt/stockage/packages/f14/glabels/po/pt.po | 
+ | [sl](/f14/language/sl) | 1856 | 1856 | 100.0 | /mnt/stockage/packages/f14/glabels/po/sl.po | 
+ | [fr](/f14/language/fr) | 7382 | 7388 | 99.9 | /mnt/stockage/packages/f14/glabels/help/fr/fr.po/mnt/stockage/packages/f14/glabels/po/fr.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1821 | 1829 | 99.6 | /mnt/stockage/packages/f14/glabels/po/zh_CN.po | 
+ | [eo](/f14/language/eo) | 1497 | 1662 | 90.1 | /mnt/stockage/packages/f14/glabels/po/eo.po | 
+ | [ru](/f14/language/ru) | 1643 | 1849 | 88.9 | /mnt/stockage/packages/f14/glabels/po/ru.po | 
+ | [it](/f14/language/it) | 1040 | 1662 | 62.6 | /mnt/stockage/packages/f14/glabels/po/it.po | 
+ | [pt_BR](/f14/language/pt_BR) | 874 | 1756 | 49.8 | /mnt/stockage/packages/f14/glabels/po/pt_BR.po | 
+ | [sv](/f14/language/sv) | 782 | 1849 | 42.3 | /mnt/stockage/packages/f14/glabels/po/sv.po | 
+ | [es](/f14/language/es) | 2529 | 7388 | 34.2 | /mnt/stockage/packages/f14/glabels/help/es/es.po/mnt/stockage/packages/f14/glabels/po/es.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 285 | 1756 | 16.2 | /mnt/stockage/packages/f14/glabels/po/zh_TW.po | 
+ | [nb_NO](/f14/language/nb_NO) | 227 | 1834 | 12.4 | /mnt/stockage/packages/f14/glabels/po/nb.po | 
+ | [pl](/f14/language/pl) | 146 | 1820 | 8.0 | /mnt/stockage/packages/f14/glabels/po/pl.po | 
 {.sortable}
 
 

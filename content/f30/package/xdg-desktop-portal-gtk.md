@@ -18,25 +18,25 @@ The package xdg-desktop-portal-gtk (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f30/language/da.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/da.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/pl.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/it.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/lt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/pt_BR.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/uk.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 172 | 184 | 93.5 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/cs.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/tr.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/zh_TW.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 169 | 184 | 91.8 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 155 | 184 | 84.2 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/es.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 139 | 184 | 75.5 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/gl.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 103 | 184 | 56.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/sk.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 51 | 184 | 27.7 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/fr.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 22 | 184 | 12.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/sr.po | 
+ | [da](/f30/language/da) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/da.po | 
+ | [pl](/f30/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/pl.po | 
+ | [hu](/f30/language/hu) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/hu.po | 
+ | [id](/f30/language/id) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/id.po | 
+ | [it](/f30/language/it) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/it.po | 
+ | [lt](/f30/language/lt) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/lt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/pt_BR.po | 
+ | [uk](/f30/language/uk) | 173 | 184 | 94.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/uk.po | 
+ | [cs](/f30/language/cs) | 172 | 184 | 93.5 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/cs.po | 
+ | [sv](/f30/language/sv) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/sv.po | 
+ | [tr](/f30/language/tr) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/tr.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 170 | 184 | 92.4 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/zh_TW.po | 
+ | [de](/f30/language/de) | 169 | 184 | 91.8 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/de.po | 
+ | [es](/f30/language/es) | 155 | 184 | 84.2 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/es.po | 
+ | [gl](/f30/language/gl) | 139 | 184 | 75.5 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/gl.po | 
+ | [sk](/f30/language/sk) | 103 | 184 | 56.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/sk.po | 
+ | [fr](/f30/language/fr) | 51 | 184 | 27.7 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/fr.po | 
+ | [sr](/f30/language/sr) | 22 | 184 | 12.0 | /mnt/stockage/packages/f30/xdg-desktop-portal-gtk/po/sr.po | 
 {.sortable}
 
 

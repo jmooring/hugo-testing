@@ -18,43 +18,43 @@ The package glom (version 1.28.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 9108 | 9108 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/cs/cs.po/mnt/stockage/packages/f22/glom/po/cs.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 2545 | 2545 | 100.0 | /mnt/stockage/packages/f22/glom/po/dz.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 9107 | 9107 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/el/el.po/mnt/stockage/packages/f22/glom/po/el.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 1217 | 1217 | 100.0 | /mnt/stockage/packages/f22/glom/po/en_CA.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 7654 | 7654 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/en_GB/en_GB.po/mnt/stockage/packages/f22/glom/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 9108 | 9108 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/es/es.po/mnt/stockage/packages/f22/glom/po/es.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/glom/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/glom/po/id.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f22/glom/po/ne.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f22/glom/po/nl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 4068 | 4068 | 100.0 | /mnt/stockage/packages/f22/glom/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/glom/po/pt_BR.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f22/glom/po/sq.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 9814 | 9814 | 100.0 | /mnt/stockage/packages/f22/glom/po/sr.po/mnt/stockage/packages/f22/glom/po/sr@latin.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f22/glom/po/vi.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 4904 | 4907 | 99.9 | /mnt/stockage/packages/f22/glom/po/eu.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 8971 | 9031 | 99.3 | /mnt/stockage/packages/f22/glom/docs/user-guide/de/de.po/mnt/stockage/packages/f22/glom/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 8822 | 8882 | 99.3 | /mnt/stockage/packages/f22/glom/docs/user-guide/fr/fr.po/mnt/stockage/packages/f22/glom/po/fr.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 4396 | 4757 | 92.4 | /mnt/stockage/packages/f22/glom/po/da.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 3995 | 4661 | 85.7 | /mnt/stockage/packages/f22/glom/po/zh_CN.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 2589 | 4229 | 61.2 | /mnt/stockage/packages/f22/glom/po/ca@valencia.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 159 | 275 | 57.8 | /mnt/stockage/packages/f22/glom/po/gu.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 159 | 275 | 57.8 | /mnt/stockage/packages/f22/glom/po/tr.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 4971 | 8974 | 55.4 | /mnt/stockage/packages/f22/glom/docs/user-guide/sl/sl.po/mnt/stockage/packages/f22/glom/po/sl.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 2155 | 3891 | 55.4 | /mnt/stockage/packages/f22/glom/po/gl.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 2649 | 4907 | 54.0 | /mnt/stockage/packages/f22/glom/po/ca.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 2222 | 4888 | 45.5 | /mnt/stockage/packages/f22/glom/po/fi.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 2247 | 6405 | 35.1 | /mnt/stockage/packages/f22/glom/docs/user-guide/sv/sv.po/mnt/stockage/packages/f22/glom/po/sv.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 1349 | 4759 | 28.3 | /mnt/stockage/packages/f22/glom/po/nb.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 61 | 275 | 22.2 | /mnt/stockage/packages/f22/glom/po/pa.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 896 | 4082 | 22.0 | /mnt/stockage/packages/f22/glom/po/ru.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 24 | 363 | 6.6 | /mnt/stockage/packages/f22/glom/po/rw.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 215 | 4732 | 4.5 | /mnt/stockage/packages/f22/glom/po/eo.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 209 | 6208 | 3.4 | /mnt/stockage/packages/f22/glom/docs/user-guide/oc/oc.po/mnt/stockage/packages/f22/glom/po/oc.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 6 | 275 | 2.2 | /mnt/stockage/packages/f22/glom/po/it.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 69 | 3311 | 2.1 | /mnt/stockage/packages/f22/glom/po/ar.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 36 | 4757 | 0.8 | /mnt/stockage/packages/f22/glom/po/lv.po | 
+ | [cs](/f22/language/cs) | 9108 | 9108 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/cs/cs.po/mnt/stockage/packages/f22/glom/po/cs.po | 
+ | [dz](/f22/language/dz) | 2545 | 2545 | 100.0 | /mnt/stockage/packages/f22/glom/po/dz.po | 
+ | [el](/f22/language/el) | 9107 | 9107 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/el/el.po/mnt/stockage/packages/f22/glom/po/el.po | 
+ | [en_CA](/f22/language/en_CA) | 1217 | 1217 | 100.0 | /mnt/stockage/packages/f22/glom/po/en_CA.po | 
+ | [en_GB](/f22/language/en_GB) | 7654 | 7654 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/en_GB/en_GB.po/mnt/stockage/packages/f22/glom/po/en_GB.po | 
+ | [es](/f22/language/es) | 9108 | 9108 | 100.0 | /mnt/stockage/packages/f22/glom/docs/user-guide/es/es.po/mnt/stockage/packages/f22/glom/po/es.po | 
+ | [hu](/f22/language/hu) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/glom/po/hu.po | 
+ | [id](/f22/language/id) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/glom/po/id.po | 
+ | [ne](/f22/language/ne) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f22/glom/po/ne.po | 
+ | [nl](/f22/language/nl) | 275 | 275 | 100.0 | /mnt/stockage/packages/f22/glom/po/nl.po | 
+ | [pt](/f22/language/pt) | 4068 | 4068 | 100.0 | /mnt/stockage/packages/f22/glom/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 4907 | 4907 | 100.0 | /mnt/stockage/packages/f22/glom/po/pt_BR.po | 
+ | [sq](/f22/language/sq) | 275 | 275 | 100.0 | /mnt/stockage/packages/f22/glom/po/sq.po | 
+ | [sr](/f22/language/sr) | 9814 | 9814 | 100.0 | /mnt/stockage/packages/f22/glom/po/sr.po/mnt/stockage/packages/f22/glom/po/sr@latin.po | 
+ | [vi](/f22/language/vi) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f22/glom/po/vi.po | 
+ | [eu](/f22/language/eu) | 4904 | 4907 | 99.9 | /mnt/stockage/packages/f22/glom/po/eu.po | 
+ | [de](/f22/language/de) | 8971 | 9031 | 99.3 | /mnt/stockage/packages/f22/glom/docs/user-guide/de/de.po/mnt/stockage/packages/f22/glom/po/de.po | 
+ | [fr](/f22/language/fr) | 8822 | 8882 | 99.3 | /mnt/stockage/packages/f22/glom/docs/user-guide/fr/fr.po/mnt/stockage/packages/f22/glom/po/fr.po | 
+ | [da](/f22/language/da) | 4396 | 4757 | 92.4 | /mnt/stockage/packages/f22/glom/po/da.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 3995 | 4661 | 85.7 | /mnt/stockage/packages/f22/glom/po/zh_CN.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 2589 | 4229 | 61.2 | /mnt/stockage/packages/f22/glom/po/ca@valencia.po | 
+ | [gu](/f22/language/gu) | 159 | 275 | 57.8 | /mnt/stockage/packages/f22/glom/po/gu.po | 
+ | [tr](/f22/language/tr) | 159 | 275 | 57.8 | /mnt/stockage/packages/f22/glom/po/tr.po | 
+ | [sl](/f22/language/sl) | 4971 | 8974 | 55.4 | /mnt/stockage/packages/f22/glom/docs/user-guide/sl/sl.po/mnt/stockage/packages/f22/glom/po/sl.po | 
+ | [gl](/f22/language/gl) | 2155 | 3891 | 55.4 | /mnt/stockage/packages/f22/glom/po/gl.po | 
+ | [ca](/f22/language/ca) | 2649 | 4907 | 54.0 | /mnt/stockage/packages/f22/glom/po/ca.po | 
+ | [fi](/f22/language/fi) | 2222 | 4888 | 45.5 | /mnt/stockage/packages/f22/glom/po/fi.po | 
+ | [sv](/f22/language/sv) | 2247 | 6405 | 35.1 | /mnt/stockage/packages/f22/glom/docs/user-guide/sv/sv.po/mnt/stockage/packages/f22/glom/po/sv.po | 
+ | [nb_NO](/f22/language/nb_NO) | 1349 | 4759 | 28.3 | /mnt/stockage/packages/f22/glom/po/nb.po | 
+ | [pa](/f22/language/pa) | 61 | 275 | 22.2 | /mnt/stockage/packages/f22/glom/po/pa.po | 
+ | [ru](/f22/language/ru) | 896 | 4082 | 22.0 | /mnt/stockage/packages/f22/glom/po/ru.po | 
+ | [rw](/f22/language/rw) | 24 | 363 | 6.6 | /mnt/stockage/packages/f22/glom/po/rw.po | 
+ | [eo](/f22/language/eo) | 215 | 4732 | 4.5 | /mnt/stockage/packages/f22/glom/po/eo.po | 
+ | [oc](/f22/language/oc) | 209 | 6208 | 3.4 | /mnt/stockage/packages/f22/glom/docs/user-guide/oc/oc.po/mnt/stockage/packages/f22/glom/po/oc.po | 
+ | [it](/f22/language/it) | 6 | 275 | 2.2 | /mnt/stockage/packages/f22/glom/po/it.po | 
+ | [ar](/f22/language/ar) | 69 | 3311 | 2.1 | /mnt/stockage/packages/f22/glom/po/ar.po | 
+ | [lv](/f22/language/lv) | 36 | 4757 | 0.8 | /mnt/stockage/packages/f22/glom/po/lv.po | 
 {.sortable}
 
 

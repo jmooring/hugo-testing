@@ -18,10 +18,10 @@ The package kcm-fcitx (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/de.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/ja.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/zh_TW.po | 
+ | [de](/f18/language/de) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/de.po | 
+ | [ja](/f18/language/ja) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/ja.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 260 | 260 | 100.0 | /mnt/stockage/packages/f18/kcm-fcitx/po/zh_TW.po | 
 {.sortable}
 
 

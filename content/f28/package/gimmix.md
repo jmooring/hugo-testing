@@ -18,12 +18,12 @@ The package gimmix (version 0.5.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/fr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/tr.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/zh_TW.po | 
+ | [cs](/f28/language/cs) | 534 | 534 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/cs.po | 
+ | [de](/f28/language/de) | 533 | 533 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/de.po | 
+ | [fr](/f28/language/fr) | 521 | 521 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/fr.po | 
+ | [sv](/f28/language/sv) | 534 | 534 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/sv.po | 
+ | [tr](/f28/language/tr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/tr.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 678 | 678 | 100.0 | /mnt/stockage/packages/f28/gimmix/po/zh_TW.po | 
 {.sortable}
 
 

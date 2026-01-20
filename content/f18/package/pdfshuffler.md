@@ -18,14 +18,14 @@ The package pdfshuffler (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/el.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/fr.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/zh_CN.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 106 | 108 | 98.1 | /mnt/stockage/packages/f18/pdfshuffler/po/ja.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 62 | 108 | 57.4 | /mnt/stockage/packages/f18/pdfshuffler/po/it.po | 
+ | [cs](/f18/language/cs) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/cs.po | 
+ | [de](/f18/language/de) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/de.po | 
+ | [el](/f18/language/el) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/el.po | 
+ | [es](/f18/language/es) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/es.po | 
+ | [fr](/f18/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/fr.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 108 | 108 | 100.0 | /mnt/stockage/packages/f18/pdfshuffler/po/zh_CN.po | 
+ | [ja](/f18/language/ja) | 106 | 108 | 98.1 | /mnt/stockage/packages/f18/pdfshuffler/po/ja.po | 
+ | [it](/f18/language/it) | 62 | 108 | 57.4 | /mnt/stockage/packages/f18/pdfshuffler/po/it.po | 
 {.sortable}
 
 

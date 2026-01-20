@@ -18,10 +18,10 @@ The package gnome-shell-extension-vertical-workspaces (version 49.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 4147 | 4147 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 4034 | 4147 | 97.3 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/it.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 4029 | 4147 | 97.2 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/cs.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 486 | 4147 | 11.7 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/nl.po | 
+ | [fr](/f43/language/fr) | 4147 | 4147 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/fr.po | 
+ | [it](/f43/language/it) | 4034 | 4147 | 97.3 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/it.po | 
+ | [cs](/f43/language/cs) | 4029 | 4147 | 97.2 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/cs.po | 
+ | [nl](/f43/language/nl) | 486 | 4147 | 11.7 | /mnt/stockage/packages/f43/gnome-shell-extension-vertical-workspaces/po/nl.po | 
 {.sortable}
 
 

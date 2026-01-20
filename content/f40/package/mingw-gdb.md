@@ -18,29 +18,29 @@ The package mingw-gdb (version 14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 2814 | 2814 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 14088 | 14088 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/es.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/fi.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/fi.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/ga.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/id.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/it.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/nl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 12465 | 12465 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 2950 | 2950 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 15838 | 15838 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ro.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 13024 | 13024 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 15838 | 15838 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/sr.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 12105 | 12105 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/sv.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/tr.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 15838 | 15838 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/uk.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/uk.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/vi.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/vi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 15941 | 15974 | 99.8 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/fr.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/fr.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 10087 | 10490 | 96.2 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/da.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/da.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 2127 | 11264 | 18.9 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/zh_CN.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 195 | 8369 | 2.3 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/hr.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 127 | 12887 | 1.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ka.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/rw.po | 
+ | [de](/f40/language/de) | 2814 | 2814 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/de.po | 
+ | [es](/f40/language/es) | 14088 | 14088 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/es.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/es.po | 
+ | [fi](/f40/language/fi) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/fi.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/fi.po | 
+ | [ga](/f40/language/ga) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/ga.po | 
+ | [id](/f40/language/id) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/id.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/id.po | 
+ | [it](/f40/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/it.po | 
+ | [nl](/f40/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/nl.po | 
+ | [pt](/f40/language/pt) | 12465 | 12465 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 2950 | 2950 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/opcodes/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 15838 | 15838 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ro.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/ro.po | 
+ | [ru](/f40/language/ru) | 13024 | 13024 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ru.po | 
+ | [sr](/f40/language/sr) | 15838 | 15838 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/sr.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/sr.po | 
+ | [sv](/f40/language/sv) | 12105 | 12105 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/sv.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/sv.po | 
+ | [tr](/f40/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/tr.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/tr.po | 
+ | [uk](/f40/language/uk) | 15838 | 15838 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/uk.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/uk.po | 
+ | [vi](/f40/language/vi) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/vi.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/vi.po | 
+ | [fr](/f40/language/fr) | 15941 | 15974 | 99.8 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/fr.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/fr.po | 
+ | [da](/f40/language/da) | 10087 | 10490 | 96.2 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/da.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/da.po | 
+ | [ja](/f40/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ja.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 2127 | 11264 | 18.9 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f40/mingw-gdb/opcodes/po/zh_CN.po | 
+ | [hr](/f40/language/hr) | 195 | 8369 | 2.3 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/hr.po | 
+ | [ka](/f40/language/ka) | 127 | 12887 | 1.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/ka.po | 
+ | [rw](/f40/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f40/mingw-gdb/bfd/po/rw.po | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package lekhonee-gnome (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f14/language/da.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/da.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/es.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/pl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/uk.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f14/lekhonee-gnome/po/bn_IN.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 90 | 112 | 80.4 | /mnt/stockage/packages/f14/lekhonee-gnome/po/pt_BR.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 52 | 112 | 46.4 | /mnt/stockage/packages/f14/lekhonee-gnome/po/de.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/bb.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/fr.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/nl.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/ps.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/ru.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/zh_TW.po | 
+ | [da](/f14/language/da) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/da.po | 
+ | [es](/f14/language/es) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/es.po | 
+ | [pl](/f14/language/pl) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/pl.po | 
+ | [uk](/f14/language/uk) | 112 | 112 | 100.0 | /mnt/stockage/packages/f14/lekhonee-gnome/po/uk.po | 
+ | [en](/f14/language/en) | 90 | 112 | 80.4 | /mnt/stockage/packages/f14/lekhonee-gnome/po/bn_IN.po | 
+ | [pt_BR](/f14/language/pt_BR) | 90 | 112 | 80.4 | /mnt/stockage/packages/f14/lekhonee-gnome/po/pt_BR.po | 
+ | [de](/f14/language/de) | 52 | 112 | 46.4 | /mnt/stockage/packages/f14/lekhonee-gnome/po/de.po | 
+ | [error](/f14/language/error) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/bb.po | 
+ | [fr](/f14/language/fr) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/fr.po | 
+ | [hi](/f14/language/hi) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/hi.po | 
+ | [hu](/f14/language/hu) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/hu.po | 
+ | [it](/f14/language/it) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/it.po | 
+ | [nl](/f14/language/nl) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/nl.po | 
+ | [ps](/f14/language/ps) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/ps.po | 
+ | [ru](/f14/language/ru) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/ru.po | 
+ | [sr](/f14/language/sr) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/sr@latin.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 21 | 112 | 18.8 | /mnt/stockage/packages/f14/lekhonee-gnome/po/zh_TW.po | 
 {.sortable}
 
 

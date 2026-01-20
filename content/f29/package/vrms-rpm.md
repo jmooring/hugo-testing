@@ -18,18 +18,18 @@ The package vrms-rpm (version 2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/el.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 55 | 55 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/pt.po/mnt/stockage/packages/f29/vrms-rpm/lang/en.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/it.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/pl.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/ru.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/tr.po | 
+ | [cs](/f29/language/cs) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/cs.po | 
+ | [da](/f29/language/da) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/da.po | 
+ | [de](/f29/language/de) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/de.po | 
+ | [el](/f29/language/el) | 28 | 28 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/el.po | 
+ | [en](/f29/language/en) | 55 | 55 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/pt.po/mnt/stockage/packages/f29/vrms-rpm/lang/en.po | 
+ | [es](/f29/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/es.po | 
+ | [fr](/f29/language/fr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/fr.po | 
+ | [it](/f29/language/it) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/it.po | 
+ | [nl](/f29/language/nl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/nl.po | 
+ | [pl](/f29/language/pl) | 28 | 28 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/pl.po | 
+ | [ru](/f29/language/ru) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/ru.po | 
+ | [tr](/f29/language/tr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f29/vrms-rpm/lang/tr.po | 
 {.sortable}
 
 

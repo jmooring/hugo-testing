@@ -18,18 +18,18 @@ The package kanatest (version 0.4.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 428 | 428 | 100.0 | /mnt/stockage/packages/f39/kanatest/po/hu.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 426 | 428 | 99.5 | /mnt/stockage/packages/f39/kanatest/po/el.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 426 | 428 | 99.5 | /mnt/stockage/packages/f39/kanatest/po/hr.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 418 | 428 | 97.7 | /mnt/stockage/packages/f39/kanatest/po/ru.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/es.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/fi.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/pl.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/zh_CN.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 401 | 428 | 93.7 | /mnt/stockage/packages/f39/kanatest/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 400 | 428 | 93.5 | /mnt/stockage/packages/f39/kanatest/po/it.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 326 | 428 | 76.2 | /mnt/stockage/packages/f39/kanatest/po/pt.po | 
+ | [hu](/f39/language/hu) | 428 | 428 | 100.0 | /mnt/stockage/packages/f39/kanatest/po/hu.po | 
+ | [el](/f39/language/el) | 426 | 428 | 99.5 | /mnt/stockage/packages/f39/kanatest/po/el.po | 
+ | [hr](/f39/language/hr) | 426 | 428 | 99.5 | /mnt/stockage/packages/f39/kanatest/po/hr.po | 
+ | [ru](/f39/language/ru) | 418 | 428 | 97.7 | /mnt/stockage/packages/f39/kanatest/po/ru.po | 
+ | [de](/f39/language/de) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/de.po | 
+ | [es](/f39/language/es) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/es.po | 
+ | [fi](/f39/language/fi) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/fi.po | 
+ | [pl](/f39/language/pl) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/pl.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 406 | 428 | 94.9 | /mnt/stockage/packages/f39/kanatest/po/zh_CN.po | 
+ | [fr](/f39/language/fr) | 401 | 428 | 93.7 | /mnt/stockage/packages/f39/kanatest/po/fr.po | 
+ | [it](/f39/language/it) | 400 | 428 | 93.5 | /mnt/stockage/packages/f39/kanatest/po/it.po | 
+ | [pt](/f39/language/pt) | 326 | 428 | 76.2 | /mnt/stockage/packages/f39/kanatest/po/pt.po | 
 {.sortable}
 
 

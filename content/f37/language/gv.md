@@ -38,27 +38,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-shell-frippery]({{< ref "/f37/package/gnome-shell-frippery.md" >}}) | 4 | 4 | 100.0 |  | 
- | [epiphany]({{< ref "/f37/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [nautilus]({{< ref "/f37/package/nautilus.md" >}}) | 7497 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f37/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [gnome-panel]({{< ref "/f37/package/gnome-panel.md" >}}) | 2875 | 3520 | 81.7 | Manx <gv@li.org> | 
- | [mate-menu]({{< ref "/f37/package/mate-menu.md" >}}) | 229 | 308 | 74.4 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f37/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f37/package/gdm.md" >}}) | 206 | 650 | 31.7 | Manx <gv@li.org> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 253 | 986 | 25.7 | Manx <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gv/> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 725 | 3609 | 20.1 | Manx <gv@li.org> | 
- | [fragments]({{< ref "/f37/package/fragments.md" >}}) | 27 | 2006 | 1.3 | Manx <gv@li.org> | 
- | [isomaster]({{< ref "/f37/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [transmission]({{< ref "/f37/package/transmission.md" >}}) | 25 | 2441 | 1.0 | Manx <gv@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [gnome-shell-frippery](/f37/package/gnome-shell-frippery) | 4 | 4 | 100.0 |  | 
+ | [epiphany](/f37/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [nautilus](/f37/package/nautilus) | 7497 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f37/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [gnome-panel](/f37/package/gnome-panel) | 2875 | 3520 | 81.7 | Manx <gv@li.org> | 
+ | [mate-menu](/f37/package/mate-menu) | 229 | 308 | 74.4 | Manx <gv@li.org> | 
+ | [gnome-menus](/f37/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gdm](/f37/package/gdm) | 206 | 650 | 31.7 | Manx <gv@li.org> | 
+ | [iso-codes](/f37/package/iso-codes) | 253 | 986 | 25.7 | Manx <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/gv/> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 725 | 3609 | 20.1 | Manx <gv@li.org> | 
+ | [fragments](/f37/package/fragments) | 27 | 2006 | 1.3 | Manx <gv@li.org> | 
+ | [isomaster](/f37/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [transmission](/f37/package/transmission) | 25 | 2441 | 1.0 | Manx <gv@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

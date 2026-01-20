@@ -18,36 +18,36 @@ The package wget2 (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/es.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/hr.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/id.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/pl.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 2523 | 2724 | 92.6 | /mnt/stockage/packages/f40/wget2/po/zh_CN.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1978 | 2724 | 72.6 | /mnt/stockage/packages/f40/wget2/po/fr.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 1052 | 2724 | 38.6 | /mnt/stockage/packages/f40/wget2/po/ka.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 931 | 2724 | 34.2 | /mnt/stockage/packages/f40/wget2/po/nb.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 434 | 2724 | 15.9 | /mnt/stockage/packages/f40/wget2/po/sk.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 378 | 2724 | 13.9 | /mnt/stockage/packages/f40/wget2/po/pt_BR.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/cs.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/eo.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/et.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/ga.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/hu.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/it.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/tr.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/vi.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 159 | 2724 | 5.8 | /mnt/stockage/packages/f40/wget2/po/fi.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 159 | 2724 | 5.8 | /mnt/stockage/packages/f40/wget2/po/nl.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 143 | 2724 | 5.2 | /mnt/stockage/packages/f40/wget2/po/ca.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 125 | 2724 | 4.6 | /mnt/stockage/packages/f40/wget2/po/ms.po | 
+ | [de](/f40/language/de) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/de.po | 
+ | [es](/f40/language/es) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/es.po | 
+ | [hr](/f40/language/hr) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/hr.po | 
+ | [id](/f40/language/id) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/id.po | 
+ | [ja](/f40/language/ja) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ja.po | 
+ | [ko](/f40/language/ko) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ko.po | 
+ | [pl](/f40/language/pl) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/pl.po | 
+ | [ro](/f40/language/ro) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ro.po | 
+ | [ru](/f40/language/ru) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/ru.po | 
+ | [sr](/f40/language/sr) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/sr.po | 
+ | [sv](/f40/language/sv) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/sv.po | 
+ | [uk](/f40/language/uk) | 2584 | 2724 | 94.9 | /mnt/stockage/packages/f40/wget2/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 2523 | 2724 | 92.6 | /mnt/stockage/packages/f40/wget2/po/zh_CN.po | 
+ | [fr](/f40/language/fr) | 1978 | 2724 | 72.6 | /mnt/stockage/packages/f40/wget2/po/fr.po | 
+ | [ka](/f40/language/ka) | 1052 | 2724 | 38.6 | /mnt/stockage/packages/f40/wget2/po/ka.po | 
+ | [nb_NO](/f40/language/nb_NO) | 931 | 2724 | 34.2 | /mnt/stockage/packages/f40/wget2/po/nb.po | 
+ | [sk](/f40/language/sk) | 434 | 2724 | 15.9 | /mnt/stockage/packages/f40/wget2/po/sk.po | 
+ | [pt_BR](/f40/language/pt_BR) | 378 | 2724 | 13.9 | /mnt/stockage/packages/f40/wget2/po/pt_BR.po | 
+ | [cs](/f40/language/cs) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/cs.po | 
+ | [eo](/f40/language/eo) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/eo.po | 
+ | [et](/f40/language/et) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/et.po | 
+ | [ga](/f40/language/ga) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/ga.po | 
+ | [hu](/f40/language/hu) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/hu.po | 
+ | [it](/f40/language/it) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/it.po | 
+ | [tr](/f40/language/tr) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/tr.po | 
+ | [vi](/f40/language/vi) | 170 | 2724 | 6.2 | /mnt/stockage/packages/f40/wget2/po/vi.po | 
+ | [fi](/f40/language/fi) | 159 | 2724 | 5.8 | /mnt/stockage/packages/f40/wget2/po/fi.po | 
+ | [nl](/f40/language/nl) | 159 | 2724 | 5.8 | /mnt/stockage/packages/f40/wget2/po/nl.po | 
+ | [ca](/f40/language/ca) | 143 | 2724 | 5.2 | /mnt/stockage/packages/f40/wget2/po/ca.po | 
+ | [ms](/f40/language/ms) | 125 | 2724 | 4.6 | /mnt/stockage/packages/f40/wget2/po/ms.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package powertop (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 467 | 495 | 94.3 | /mnt/stockage/packages/f20/powertop/po/de_DE.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 450 | 495 | 90.9 | /mnt/stockage/packages/f20/powertop/po/id_ID.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 450 | 495 | 90.9 | /mnt/stockage/packages/f20/powertop/po/zh_TW.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 447 | 495 | 90.3 | /mnt/stockage/packages/f20/powertop/po/cs_CZ.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 431 | 495 | 87.1 | /mnt/stockage/packages/f20/powertop/po/hu_HU.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 260 | 495 | 52.5 | /mnt/stockage/packages/f20/powertop/po/es_ES.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 258 | 495 | 52.1 | /mnt/stockage/packages/f20/powertop/po/ca.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 245 | 495 | 49.5 | /mnt/stockage/packages/f20/powertop/po/en_US.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 84 | 495 | 17.0 | /mnt/stockage/packages/f20/powertop/po/en_GB.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 59 | 495 | 11.9 | /mnt/stockage/packages/f20/powertop/po/nl_NL.po | 
+ | [de](/f20/language/de) | 467 | 495 | 94.3 | /mnt/stockage/packages/f20/powertop/po/de_DE.po | 
+ | [id](/f20/language/id) | 450 | 495 | 90.9 | /mnt/stockage/packages/f20/powertop/po/id_ID.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 450 | 495 | 90.9 | /mnt/stockage/packages/f20/powertop/po/zh_TW.po | 
+ | [cs](/f20/language/cs) | 447 | 495 | 90.3 | /mnt/stockage/packages/f20/powertop/po/cs_CZ.po | 
+ | [hu](/f20/language/hu) | 431 | 495 | 87.1 | /mnt/stockage/packages/f20/powertop/po/hu_HU.po | 
+ | [es](/f20/language/es) | 260 | 495 | 52.5 | /mnt/stockage/packages/f20/powertop/po/es_ES.po | 
+ | [ca](/f20/language/ca) | 258 | 495 | 52.1 | /mnt/stockage/packages/f20/powertop/po/ca.po | 
+ | [en_US](/f20/language/en_US) | 245 | 495 | 49.5 | /mnt/stockage/packages/f20/powertop/po/en_US.po | 
+ | [en_GB](/f20/language/en_GB) | 84 | 495 | 17.0 | /mnt/stockage/packages/f20/powertop/po/en_GB.po | 
+ | [nl](/f20/language/nl) | 59 | 495 | 11.9 | /mnt/stockage/packages/f20/powertop/po/nl_NL.po | 
 {.sortable}
 
 

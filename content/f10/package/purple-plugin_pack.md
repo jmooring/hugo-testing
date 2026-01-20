@@ -18,9 +18,9 @@ The package purple-plugin_pack (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2341 | 2606 | 89.8 | /mnt/stockage/packages/f10/purple-plugin_pack/po/fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 502 | 2606 | 19.3 | /mnt/stockage/packages/f10/purple-plugin_pack/po/es_ES.po | 
- | [en_AU]({{< ref "/f10/language/en_AU.md" >}}) | 0 | 2606 | 0.0 | /mnt/stockage/packages/f10/purple-plugin_pack/po/en_AU.po | 
+ | [fr](/f10/language/fr) | 2341 | 2606 | 89.8 | /mnt/stockage/packages/f10/purple-plugin_pack/po/fr.po | 
+ | [es](/f10/language/es) | 502 | 2606 | 19.3 | /mnt/stockage/packages/f10/purple-plugin_pack/po/es_ES.po | 
+ | [en_AU](/f10/language/en_AU) | 0 | 2606 | 0.0 | /mnt/stockage/packages/f10/purple-plugin_pack/po/en_AU.po | 
 {.sortable}
 
 

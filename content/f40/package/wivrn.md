@@ -18,12 +18,12 @@ The package wivrn (version 0.24.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f40/language/es.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/es/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/es/wivrn.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/fr/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/fr/wivrn.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/it/wivrn.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/ja/wivrn.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/pt_BR/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/pt_BR/wivrn.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/zh_TW/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/zh_TW/wivrn.po | 
+ | [es](/f40/language/es) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/es/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/es/wivrn.po | 
+ | [fr](/f40/language/fr) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/fr/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/fr/wivrn.po | 
+ | [it](/f40/language/it) | 270 | 270 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/it/wivrn.po | 
+ | [ja](/f40/language/ja) | 270 | 270 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/ja/wivrn.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/pt_BR/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/pt_BR/wivrn.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 1112 | 1112 | 100.0 | /mnt/stockage/packages/f40/wivrn/locale/zh_TW/wivrn-dashboard.po/mnt/stockage/packages/f40/wivrn/locale/zh_TW/wivrn.po | 
 {.sortable}
 
 

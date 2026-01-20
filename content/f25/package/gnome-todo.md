@@ -18,48 +18,48 @@ The package gnome-todo (version 3.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ar.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/da.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/fa.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/it.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/kk.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/lv.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 958 | 958 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sr.po/mnt/stockage/packages/f25/gnome-todo/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sv.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/tr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/vi.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/zh_TW.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 475 | 479 | 99.2 | /mnt/stockage/packages/f25/gnome-todo/po/de.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 358 | 374 | 95.7 | /mnt/stockage/packages/f25/gnome-todo/po/oc.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 356 | 374 | 95.2 | /mnt/stockage/packages/f25/gnome-todo/po/zh_CN.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 403 | 436 | 92.4 | /mnt/stockage/packages/f25/gnome-todo/po/fur.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 334 | 374 | 89.3 | /mnt/stockage/packages/f25/gnome-todo/po/nb.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 408 | 479 | 85.2 | /mnt/stockage/packages/f25/gnome-todo/po/fi.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 183 | 338 | 54.1 | /mnt/stockage/packages/f25/gnome-todo/po/eo.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 178 | 374 | 47.6 | /mnt/stockage/packages/f25/gnome-todo/po/is.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 375 | 949 | 39.5 | /mnt/stockage/packages/f25/gnome-todo/po/pa.po | 
+ | [ar](/f25/language/ar) | 338 | 338 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ar.po | 
+ | [ca](/f25/language/ca) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ca.po | 
+ | [cs](/f25/language/cs) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/cs.po | 
+ | [da](/f25/language/da) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/da.po | 
+ | [el](/f25/language/el) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/en_GB.po | 
+ | [es](/f25/language/es) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/es.po | 
+ | [eu](/f25/language/eu) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/eu.po | 
+ | [fa](/f25/language/fa) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/fa.po | 
+ | [fr](/f25/language/fr) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/fr.po | 
+ | [gl](/f25/language/gl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/gl.po | 
+ | [he](/f25/language/he) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/he.po | 
+ | [hu](/f25/language/hu) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/hu.po | 
+ | [id](/f25/language/id) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/id.po | 
+ | [it](/f25/language/it) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/it.po | 
+ | [kk](/f25/language/kk) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/kk.po | 
+ | [ko](/f25/language/ko) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ko.po | 
+ | [lt](/f25/language/lt) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/lt.po | 
+ | [lv](/f25/language/lv) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/lv.po | 
+ | [nl](/f25/language/nl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/nl.po | 
+ | [pl](/f25/language/pl) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/pl.po | 
+ | [pt](/f25/language/pt) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 338 | 338 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ro.po | 
+ | [ru](/f25/language/ru) | 339 | 339 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/ru.po | 
+ | [sk](/f25/language/sk) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sk.po | 
+ | [sl](/f25/language/sl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sl.po | 
+ | [sr](/f25/language/sr) | 958 | 958 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sr.po/mnt/stockage/packages/f25/gnome-todo/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 479 | 479 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/sv.po | 
+ | [tr](/f25/language/tr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/tr.po | 
+ | [uk](/f25/language/uk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/uk.po | 
+ | [vi](/f25/language/vi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/vi.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 374 | 374 | 100.0 | /mnt/stockage/packages/f25/gnome-todo/po/zh_TW.po | 
+ | [de](/f25/language/de) | 475 | 479 | 99.2 | /mnt/stockage/packages/f25/gnome-todo/po/de.po | 
+ | [oc](/f25/language/oc) | 358 | 374 | 95.7 | /mnt/stockage/packages/f25/gnome-todo/po/oc.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 356 | 374 | 95.2 | /mnt/stockage/packages/f25/gnome-todo/po/zh_CN.po | 
+ | [fur](/f25/language/fur) | 403 | 436 | 92.4 | /mnt/stockage/packages/f25/gnome-todo/po/fur.po | 
+ | [nb_NO](/f25/language/nb_NO) | 334 | 374 | 89.3 | /mnt/stockage/packages/f25/gnome-todo/po/nb.po | 
+ | [fi](/f25/language/fi) | 408 | 479 | 85.2 | /mnt/stockage/packages/f25/gnome-todo/po/fi.po | 
+ | [eo](/f25/language/eo) | 183 | 338 | 54.1 | /mnt/stockage/packages/f25/gnome-todo/po/eo.po | 
+ | [is](/f25/language/is) | 178 | 374 | 47.6 | /mnt/stockage/packages/f25/gnome-todo/po/is.po | 
+ | [pa](/f25/language/pa) | 375 | 949 | 39.5 | /mnt/stockage/packages/f25/gnome-todo/po/pa.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package wxMaxima (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 2824 | 2833 | 99.7 | /mnt/stockage/packages/f12/wxMaxima/locales/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 2773 | 2833 | 97.9 | /mnt/stockage/packages/f12/wxMaxima/locales/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 2707 | 2833 | 95.6 | /mnt/stockage/packages/f12/wxMaxima/locales/es.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 2698 | 2833 | 95.2 | /mnt/stockage/packages/f12/wxMaxima/locales/._cs.po/mnt/stockage/packages/f12/wxMaxima/locales/cs.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2622 | 2833 | 92.6 | /mnt/stockage/packages/f12/wxMaxima/locales/pt_BR.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 2422 | 2833 | 85.5 | /mnt/stockage/packages/f12/wxMaxima/locales/pl.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 2312 | 2833 | 81.6 | /mnt/stockage/packages/f12/wxMaxima/locales/da.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1690 | 2833 | 59.7 | /mnt/stockage/packages/f12/wxMaxima/locales/._fr.po/mnt/stockage/packages/f12/wxMaxima/locales/fr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1509 | 2833 | 53.3 | /mnt/stockage/packages/f12/wxMaxima/locales/ja.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1163 | 2833 | 41.1 | /mnt/stockage/packages/f12/wxMaxima/locales/ru.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1081 | 2833 | 38.2 | /mnt/stockage/packages/f12/wxMaxima/locales/it.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 1081 | 2833 | 38.2 | /mnt/stockage/packages/f12/wxMaxima/locales/zh_TW.po | 
+ | [de](/f12/language/de) | 2824 | 2833 | 99.7 | /mnt/stockage/packages/f12/wxMaxima/locales/de.po | 
+ | [el](/f12/language/el) | 2773 | 2833 | 97.9 | /mnt/stockage/packages/f12/wxMaxima/locales/el.po | 
+ | [es](/f12/language/es) | 2707 | 2833 | 95.6 | /mnt/stockage/packages/f12/wxMaxima/locales/es.po | 
+ | [cs](/f12/language/cs) | 2698 | 2833 | 95.2 | /mnt/stockage/packages/f12/wxMaxima/locales/._cs.po/mnt/stockage/packages/f12/wxMaxima/locales/cs.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2622 | 2833 | 92.6 | /mnt/stockage/packages/f12/wxMaxima/locales/pt_BR.po | 
+ | [pl](/f12/language/pl) | 2422 | 2833 | 85.5 | /mnt/stockage/packages/f12/wxMaxima/locales/pl.po | 
+ | [da](/f12/language/da) | 2312 | 2833 | 81.6 | /mnt/stockage/packages/f12/wxMaxima/locales/da.po | 
+ | [fr](/f12/language/fr) | 1690 | 2833 | 59.7 | /mnt/stockage/packages/f12/wxMaxima/locales/._fr.po/mnt/stockage/packages/f12/wxMaxima/locales/fr.po | 
+ | [ja](/f12/language/ja) | 1509 | 2833 | 53.3 | /mnt/stockage/packages/f12/wxMaxima/locales/ja.po | 
+ | [ru](/f12/language/ru) | 1163 | 2833 | 41.1 | /mnt/stockage/packages/f12/wxMaxima/locales/ru.po | 
+ | [it](/f12/language/it) | 1081 | 2833 | 38.2 | /mnt/stockage/packages/f12/wxMaxima/locales/it.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 1081 | 2833 | 38.2 | /mnt/stockage/packages/f12/wxMaxima/locales/zh_TW.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package fedocal (version 0.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 998 | 998 | 100.0 | /mnt/stockage/packages/f27/fedocal/fedocal/translations/fr/LC_MESSAGES/messages.po | 
+ | [fr](/f27/language/fr) | 998 | 998 | 100.0 | /mnt/stockage/packages/f27/fedocal/fedocal/translations/fr/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

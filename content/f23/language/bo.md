@@ -40,43 +40,43 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [nautilus]({{< ref "/f23/package/nautilus.md" >}}) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
- | [libreoffice]({{< ref "/f23/package/libreoffice.md" >}}) | 372912 | 545183 | 68.4 | LANGUAGE <LL@li.org> | 
- | [simple-scan]({{< ref "/f23/package/simple-scan.md" >}}) | 380 | 639 | 59.5 | Tibetan <bo@li.org> | 
- | [console-setup]({{< ref "/f23/package/console-setup.md" >}}) | 501 | 983 | 51.0 | bo <translation-team-bo@lists.sourceforge.net> | 
- | [librfm]({{< ref "/f23/package/librfm.md" >}}) | 131 | 2396 | 5.5 | Tibetan <bo@li.org> | 
- | [tuxpaint]({{< ref "/f23/package/tuxpaint.md" >}}) | 61 | 1591 | 3.8 | LANGUAGE <LL@li.org> | 
- | [rodent]({{< ref "/f23/package/rodent.md" >}}) | 93 | 9634 | 1.0 | Tibetan <bo@li.org> | 
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 11 | 17182 | 0.1 | Tibetan <bo@li.org> | 
- | [abrt]({{< ref "/f23/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora-abrt/language/bo/) | 
- | [blivet-gui]({{< ref "/f23/package/blivet-gui.md" >}}) | 0 | 713 | 0.0 | Tibetan | 
- | [certmonger]({{< ref "/f23/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Tibetan (http://www.transifex.com/projects/p/certmonger/language/bo/) | 
- | [deja-dup]({{< ref "/f23/package/deja-dup.md" >}}) | 0 | 2011 | 0.0 | Tibetan <bo@li.org> | 
- | [dnf-plugin-system-upgrade]({{< ref "/f23/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Tibetan | 
- | [dnf-plugins-extras]({{< ref "/f23/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Tibetan | 
- | [entangle]({{< ref "/f23/package/entangle.md" >}}) | 0 | 934 | 0.0 | Tibetan | 
- | [gnomebaker]({{< ref "/f23/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [initial-setup]({{< ref "/f23/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Tibetan | 
- | [initscripts]({{< ref "/f23/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [libosinfo]({{< ref "/f23/package/libosinfo.md" >}}) | 0 | 1871 | 0.0 | Tibetan | 
- | [libreport]({{< ref "/f23/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libreport/language/bo/) | 
- | [libvirt-glib]({{< ref "/f23/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
- | [libvirt-sandbox]({{< ref "/f23/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [lightdm]({{< ref "/f23/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
- | [lightdm-gtk]({{< ref "/f23/package/lightdm-gtk.md" >}}) | 0 | 84 | 0.0 | Tibetan <bo@li.org> | 
- | [mingw-libvirt-glib]({{< ref "/f23/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
- | [oscap-anaconda-addon]({{< ref "/f23/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Tibetan (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bo/) | 
- | [policycoreutils]({{< ref "/f23/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f23/package/pykickstart.md" >}}) | 0 | 1276 | 0.0 | Tibetan | 
- | [python-blivet]({{< ref "/f23/package/python-blivet.md" >}}) | 0 | 696 | 0.0 | Tibetan | 
- | [python-fedora]({{< ref "/f23/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Tibetan | 
- | [python-meh]({{< ref "/f23/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Tibetan | 
- | [setroubleshoot]({{< ref "/f23/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [setroubleshoot-plugins]({{< ref "/f23/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
- | [system-config-kickstart]({{< ref "/f23/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Tibetan (http://www.transifex.com/projects/p/system-config-kickstart/language/bo/) | 
- | [transmission]({{< ref "/f23/package/transmission.md" >}}) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
- | [vidalia]({{< ref "/f23/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f23/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Tibetan | 
+ | [nautilus](/f23/package/nautilus) | 6259 | 7403 | 84.5 | Tibetan <bo@li.org> | 
+ | [libreoffice](/f23/package/libreoffice) | 372912 | 545183 | 68.4 | LANGUAGE <LL@li.org> | 
+ | [simple-scan](/f23/package/simple-scan) | 380 | 639 | 59.5 | Tibetan <bo@li.org> | 
+ | [console-setup](/f23/package/console-setup) | 501 | 983 | 51.0 | bo <translation-team-bo@lists.sourceforge.net> | 
+ | [librfm](/f23/package/librfm) | 131 | 2396 | 5.5 | Tibetan <bo@li.org> | 
+ | [tuxpaint](/f23/package/tuxpaint) | 61 | 1591 | 3.8 | LANGUAGE <LL@li.org> | 
+ | [rodent](/f23/package/rodent) | 93 | 9634 | 1.0 | Tibetan <bo@li.org> | 
+ | [stellarium](/f23/package/stellarium) | 11 | 17182 | 0.1 | Tibetan <bo@li.org> | 
+ | [abrt](/f23/package/abrt) | 0 | 3230 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora-abrt/language/bo/) | 
+ | [blivet-gui](/f23/package/blivet-gui) | 0 | 713 | 0.0 | Tibetan | 
+ | [certmonger](/f23/package/certmonger) | 0 | 2478 | 0.0 | Tibetan (http://www.transifex.com/projects/p/certmonger/language/bo/) | 
+ | [deja-dup](/f23/package/deja-dup) | 0 | 2011 | 0.0 | Tibetan <bo@li.org> | 
+ | [dnf-plugin-system-upgrade](/f23/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Tibetan | 
+ | [dnf-plugins-extras](/f23/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Tibetan | 
+ | [entangle](/f23/package/entangle) | 0 | 934 | 0.0 | Tibetan | 
+ | [gnomebaker](/f23/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [initial-setup](/f23/package/initial-setup) | 0 | 33 | 0.0 | Tibetan | 
+ | [initscripts](/f23/package/initscripts) | 0 | 1003 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [libosinfo](/f23/package/libosinfo) | 0 | 1871 | 0.0 | Tibetan | 
+ | [libreport](/f23/package/libreport) | 0 | 3501 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libreport/language/bo/) | 
+ | [libvirt-glib](/f23/package/libvirt-glib) | 0 | 138 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
+ | [libvirt-sandbox](/f23/package/libvirt-sandbox) | 0 | 617 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [lightdm](/f23/package/lightdm) | 0 | 79 | 0.0 | Tibetan <bo@li.org> | 
+ | [lightdm-gtk](/f23/package/lightdm-gtk) | 0 | 84 | 0.0 | Tibetan <bo@li.org> | 
+ | [mingw-libvirt-glib](/f23/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Tibetan (http://www.transifex.com/projects/p/libvirt-glib/language/bo/) | 
+ | [oscap-anaconda-addon](/f23/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Tibetan (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bo/) | 
+ | [policycoreutils](/f23/package/policycoreutils) | 0 | 7678 | 0.0 | Tibetan <trans-bo@lists.fedoraproject.org> | 
+ | [pykickstart](/f23/package/pykickstart) | 0 | 1276 | 0.0 | Tibetan | 
+ | [python-blivet](/f23/package/python-blivet) | 0 | 696 | 0.0 | Tibetan | 
+ | [python-fedora](/f23/package/python-fedora) | 0 | 214 | 0.0 | Tibetan | 
+ | [python-meh](/f23/package/python-meh) | 0 | 109 | 0.0 | Tibetan | 
+ | [setroubleshoot](/f23/package/setroubleshoot) | 0 | 656 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [setroubleshoot-plugins](/f23/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Tibetan (http://www.transifex.com/projects/p/fedora/language/bo/) | 
+ | [system-config-kickstart](/f23/package/system-config-kickstart) | 0 | 1144 | 0.0 | Tibetan (http://www.transifex.com/projects/p/system-config-kickstart/language/bo/) | 
+ | [transmission](/f23/package/transmission) | 0 | 1809 | 0.0 | Tibetan <bo@li.org> | 
+ | [vidalia](/f23/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f23/package/virt-viewer) | 0 | 692 | 0.0 | Tibetan | 
 {.sortable}
 
 

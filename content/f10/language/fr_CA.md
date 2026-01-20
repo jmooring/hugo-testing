@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f10/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [filezilla]({{< ref "/f10/package/filezilla.md" >}}) | 7350 | 7359 | 99.9 | milliWHAT? | 
- | [poker-engine]({{< ref "/f10/package/poker-engine.md" >}}) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
- | [gnubiff]({{< ref "/f10/package/gnubiff.md" >}}) | 1032 | 1181 | 87.4 | Français <fr@li.org> | 
- | [poker-network]({{< ref "/f10/package/poker-network.md" >}}) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
- | [poker2d]({{< ref "/f10/package/poker2d.md" >}}) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [notecase]({{< ref "/f10/package/notecase.md" >}}) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
+ | [dopewars](/f10/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [filezilla](/f10/package/filezilla) | 7350 | 7359 | 99.9 | milliWHAT? | 
+ | [poker-engine](/f10/package/poker-engine) | 166 | 187 | 88.8 | <pokersource-users@gna.org> | 
+ | [gnubiff](/f10/package/gnubiff) | 1032 | 1181 | 87.4 | Français <fr@li.org> | 
+ | [poker-network](/f10/package/poker-network) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
+ | [poker2d](/f10/package/poker2d) | 771 | 913 | 84.4 | <pokersource-users@gna.org> | 
+ | [liblicense](/f10/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [notecase](/f10/package/notecase) | 410 | 1156 | 35.5 | Catherine Beauchemin <cbeau@users.sourceforge.net> | 
 {.sortable}
 
 

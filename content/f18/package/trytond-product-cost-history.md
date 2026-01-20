@@ -18,16 +18,16 @@ The package trytond-product-cost-history (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/bg_BG.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/fr_FR.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 17 | 26 | 65.4 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/es_CO.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 17 | 26 | 65.4 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/ru_RU.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/ca_ES.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/cs_CZ.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/nl_NL.po | 
+ | [bg](/f18/language/bg) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/bg_BG.po | 
+ | [de](/f18/language/de) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/de_DE.po | 
+ | [es](/f18/language/es) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 26 | 26 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/fr_FR.po | 
+ | [es_CO](/f18/language/es_CO) | 17 | 26 | 65.4 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/es_CO.po | 
+ | [ru](/f18/language/ru) | 17 | 26 | 65.4 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/ru_RU.po | 
+ | [ca](/f18/language/ca) | 0 | 26 | 0.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/ca_ES.po | 
+ | [cs](/f18/language/cs) | 0 | 26 | 0.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/cs_CZ.po | 
+ | [nl](/f18/language/nl) | 0 | 26 | 0.0 | /mnt/stockage/packages/f18/trytond-product-cost-history/locale/nl_NL.po | 
 {.sortable}
 
 

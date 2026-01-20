@@ -18,18 +18,18 @@ The package gnome-getting-started-docs (version 3.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/de/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 2583 | 2583 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/el/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2532 | 2532 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/es/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/gl/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 2583 | 2583 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/hu/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 1445 | 1445 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/id/id.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/pl/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2583 | 2583 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/pt_BR/pt_BR.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1709 | 2493 | 68.6 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/it/it.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 1369 | 2583 | 53.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/pa/pa.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 982 | 2532 | 38.8 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/ca/ca.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 453 | 2493 | 18.2 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/cs/cs.po | 
+ | [de](/f19/language/de) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/de/de.po | 
+ | [el](/f19/language/el) | 2583 | 2583 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/el/el.po | 
+ | [es](/f19/language/es) | 2532 | 2532 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/es/es.po | 
+ | [gl](/f19/language/gl) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/gl/gl.po | 
+ | [hu](/f19/language/hu) | 2583 | 2583 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/hu/hu.po | 
+ | [id](/f19/language/id) | 1445 | 1445 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/id/id.po | 
+ | [pl](/f19/language/pl) | 2493 | 2493 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/pl/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2583 | 2583 | 100.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/pt_BR/pt_BR.po | 
+ | [it](/f19/language/it) | 1709 | 2493 | 68.6 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/it/it.po | 
+ | [pa](/f19/language/pa) | 1369 | 2583 | 53.0 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/pa/pa.po | 
+ | [ca](/f19/language/ca) | 982 | 2532 | 38.8 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/ca/ca.po | 
+ | [cs](/f19/language/cs) | 453 | 2493 | 18.2 | /mnt/stockage/packages/f19/gnome-getting-started-docs/gnome-help/cs/cs.po | 
 {.sortable}
 
 

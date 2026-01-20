@@ -18,10 +18,10 @@ The package purple-discord (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f38/purple-discord/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 212 | 214 | 99.1 | /mnt/stockage/packages/f38/purple-discord/po/it.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 226 | 230 | 98.3 | /mnt/stockage/packages/f38/purple-discord/po/es.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 168 | 214 | 78.5 | /mnt/stockage/packages/f38/purple-discord/po/ru.po | 
+ | [fr](/f38/language/fr) | 212 | 214 | 99.1 | /mnt/stockage/packages/f38/purple-discord/po/fr.po | 
+ | [it](/f38/language/it) | 212 | 214 | 99.1 | /mnt/stockage/packages/f38/purple-discord/po/it.po | 
+ | [es](/f38/language/es) | 226 | 230 | 98.3 | /mnt/stockage/packages/f38/purple-discord/po/es.po | 
+ | [ru](/f38/language/ru) | 168 | 214 | 78.5 | /mnt/stockage/packages/f38/purple-discord/po/ru.po | 
 {.sortable}
 
 

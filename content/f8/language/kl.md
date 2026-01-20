@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 1 | 12174 | 0.0 | Greenlandic | 
- | [apcupsd]({{< ref "/f8/package/apcupsd.md" >}}) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 1 | 12174 | 0.0 | Greenlandic | 
+ | [apcupsd](/f8/package/apcupsd) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

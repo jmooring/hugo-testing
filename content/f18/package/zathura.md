@@ -18,19 +18,19 @@ The package zathura (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f18/zathura/po/fr.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 358 | 374 | 95.7 | /mnt/stockage/packages/f18/zathura/po/es.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 350 | 374 | 93.6 | /mnt/stockage/packages/f18/zathura/po/de.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 304 | 374 | 81.3 | /mnt/stockage/packages/f18/zathura/po/pl.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 286 | 374 | 76.5 | /mnt/stockage/packages/f18/zathura/po/cs.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 268 | 374 | 71.7 | /mnt/stockage/packages/f18/zathura/po/tr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 250 | 374 | 66.8 | /mnt/stockage/packages/f18/zathura/po/ru.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 249 | 374 | 66.6 | /mnt/stockage/packages/f18/zathura/po/eo.po | 
- | [es_CL]({{< ref "/f18/language/es_CL.md" >}}) | 244 | 374 | 65.2 | /mnt/stockage/packages/f18/zathura/po/es_CL.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 239 | 374 | 63.9 | /mnt/stockage/packages/f18/zathura/po/uk_UA.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 206 | 374 | 55.1 | /mnt/stockage/packages/f18/zathura/po/it.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 124 | 374 | 33.2 | /mnt/stockage/packages/f18/zathura/po/ta_IN.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 49 | 374 | 13.1 | /mnt/stockage/packages/f18/zathura/po/et.po | 
+ | [fr](/f18/language/fr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f18/zathura/po/fr.po | 
+ | [es](/f18/language/es) | 358 | 374 | 95.7 | /mnt/stockage/packages/f18/zathura/po/es.po | 
+ | [de](/f18/language/de) | 350 | 374 | 93.6 | /mnt/stockage/packages/f18/zathura/po/de.po | 
+ | [pl](/f18/language/pl) | 304 | 374 | 81.3 | /mnt/stockage/packages/f18/zathura/po/pl.po | 
+ | [cs](/f18/language/cs) | 286 | 374 | 76.5 | /mnt/stockage/packages/f18/zathura/po/cs.po | 
+ | [tr](/f18/language/tr) | 268 | 374 | 71.7 | /mnt/stockage/packages/f18/zathura/po/tr.po | 
+ | [ru](/f18/language/ru) | 250 | 374 | 66.8 | /mnt/stockage/packages/f18/zathura/po/ru.po | 
+ | [eo](/f18/language/eo) | 249 | 374 | 66.6 | /mnt/stockage/packages/f18/zathura/po/eo.po | 
+ | [es_CL](/f18/language/es_CL) | 244 | 374 | 65.2 | /mnt/stockage/packages/f18/zathura/po/es_CL.po | 
+ | [uk](/f18/language/uk) | 239 | 374 | 63.9 | /mnt/stockage/packages/f18/zathura/po/uk_UA.po | 
+ | [it](/f18/language/it) | 206 | 374 | 55.1 | /mnt/stockage/packages/f18/zathura/po/it.po | 
+ | [ta](/f18/language/ta) | 124 | 374 | 33.2 | /mnt/stockage/packages/f18/zathura/po/ta_IN.po | 
+ | [et](/f18/language/et) | 49 | 374 | 13.1 | /mnt/stockage/packages/f18/zathura/po/et.po | 
 {.sortable}
 
 

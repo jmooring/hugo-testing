@@ -18,75 +18,75 @@ The package gnome-shell-extensions (version 3.34.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f31/language/af.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/af.po | 
- | [an]({{< ref "/f31/language/an.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/an.po | 
- | [as]({{< ref "/f31/language/as.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/as.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/bg.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/bn_IN.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ca.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ca@valencia.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/eu.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fa.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fr.po | 
- | [fur]({{< ref "/f31/language/fur.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fur.po | 
- | [gd]({{< ref "/f31/language/gd.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/gd.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/gl.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 352 | 352 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/gu.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/hi.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/id.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/is.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/it.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/kk.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/km.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/kn.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/lt.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/lv.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ml.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/mr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ms.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/nl.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/oc.po | 
- | [or]({{< ref "/f31/language/or.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/or.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pa.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sr@latin.po/mnt/stockage/packages/f31/gnome-shell-extensions/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sv.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ta.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/te.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/tg.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 369 | 369 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/uk.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/vi.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/zh_HK.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 262 | 266 | 98.5 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ja.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 221 | 251 | 88.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/eo.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 211 | 251 | 84.1 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/et.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 267 | 338 | 79.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/th.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 209 | 266 | 78.6 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fi.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 221 | 384 | 57.6 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ar.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 99 | 358 | 27.7 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ne.po | 
- | [mjw]({{< ref "/f31/language/mjw.md" >}}) | 68 | 249 | 27.3 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/mjw.po | 
+ | [af](/f31/language/af) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/af.po | 
+ | [an](/f31/language/an) | 380 | 380 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/an.po | 
+ | [as](/f31/language/as) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/as.po | 
+ | [be](/f31/language/be) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/be.po | 
+ | [bg](/f31/language/bg) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/bg.po | 
+ | [bn_IN](/f31/language/bn_IN) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/bn_IN.po | 
+ | [bs](/f31/language/bs) | 380 | 380 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/bs.po | 
+ | [ca](/f31/language/ca) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ca.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ca@valencia.po | 
+ | [cs](/f31/language/cs) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/cs.po | 
+ | [da](/f31/language/da) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/da.po | 
+ | [de](/f31/language/de) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/de.po | 
+ | [el](/f31/language/el) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/en_GB.po | 
+ | [es](/f31/language/es) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/es.po | 
+ | [eu](/f31/language/eu) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/eu.po | 
+ | [fa](/f31/language/fa) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fa.po | 
+ | [fr](/f31/language/fr) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fr.po | 
+ | [fur](/f31/language/fur) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fur.po | 
+ | [gd](/f31/language/gd) | 323 | 323 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/gd.po | 
+ | [gl](/f31/language/gl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/gl.po | 
+ | [gu](/f31/language/gu) | 352 | 352 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/gu.po | 
+ | [he](/f31/language/he) | 380 | 380 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/he.po | 
+ | [hi](/f31/language/hi) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/hi.po | 
+ | [hr](/f31/language/hr) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/hr.po | 
+ | [hu](/f31/language/hu) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/hu.po | 
+ | [id](/f31/language/id) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/id.po | 
+ | [is](/f31/language/is) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/is.po | 
+ | [it](/f31/language/it) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/it.po | 
+ | [kk](/f31/language/kk) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/kk.po | 
+ | [km](/f31/language/km) | 338 | 338 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/km.po | 
+ | [kn](/f31/language/kn) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/kn.po | 
+ | [ko](/f31/language/ko) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ko.po | 
+ | [lt](/f31/language/lt) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/lt.po | 
+ | [lv](/f31/language/lv) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/lv.po | 
+ | [ml](/f31/language/ml) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ml.po | 
+ | [mr](/f31/language/mr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/mr.po | 
+ | [ms](/f31/language/ms) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ms.po | 
+ | [nb_NO](/f31/language/nb_NO) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/nb.po | 
+ | [nl](/f31/language/nl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/nl.po | 
+ | [oc](/f31/language/oc) | 378 | 378 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/oc.po | 
+ | [or](/f31/language/or) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/or.po | 
+ | [pa](/f31/language/pa) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pa.po | 
+ | [pl](/f31/language/pl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pl.po | 
+ | [pt](/f31/language/pt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ro.po | 
+ | [ru](/f31/language/ru) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ru.po | 
+ | [sk](/f31/language/sk) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sk.po | 
+ | [sl](/f31/language/sl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sl.po | 
+ | [sr](/f31/language/sr) | 654 | 654 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sr@latin.po/mnt/stockage/packages/f31/gnome-shell-extensions/po/sr.po | 
+ | [sv](/f31/language/sv) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/sv.po | 
+ | [ta](/f31/language/ta) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ta.po | 
+ | [te](/f31/language/te) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/te.po | 
+ | [tg](/f31/language/tg) | 251 | 251 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/tg.po | 
+ | [tr](/f31/language/tr) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/tr.po | 
+ | [uk](/f31/language/uk) | 369 | 369 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/uk.po | 
+ | [vi](/f31/language/vi) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/vi.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 388 | 388 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 266 | 266 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 358 | 358 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/zh_HK.po | 
+ | [ja](/f31/language/ja) | 262 | 266 | 98.5 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ja.po | 
+ | [eo](/f31/language/eo) | 221 | 251 | 88.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/eo.po | 
+ | [et](/f31/language/et) | 211 | 251 | 84.1 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/et.po | 
+ | [th](/f31/language/th) | 267 | 338 | 79.0 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/th.po | 
+ | [fi](/f31/language/fi) | 209 | 266 | 78.6 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/fi.po | 
+ | [ar](/f31/language/ar) | 221 | 384 | 57.6 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ar.po | 
+ | [ne](/f31/language/ne) | 99 | 358 | 27.7 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/ne.po | 
+ | [mjw](/f31/language/mjw) | 68 | 249 | 27.3 | /mnt/stockage/packages/f31/gnome-shell-extensions/po/mjw.po | 
 {.sortable}
 
 

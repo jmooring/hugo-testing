@@ -18,7 +18,7 @@ The package kbiof (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f8/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/kbiof/po/it.po | 
+ | [it](/f8/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f8/kbiof/po/it.po | 
 {.sortable}
 
 

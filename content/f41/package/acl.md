@@ -18,14 +18,14 @@ The package acl (version 2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f41/acl/po/de.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f41/acl/po/en@boldquot.po/mnt/stockage/packages/f41/acl/po/en@quot.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f41/acl/po/ka.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f41/acl/po/pl.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 412 | 506 | 81.4 | /mnt/stockage/packages/f41/acl/po/fr.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f41/acl/po/es.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f41/acl/po/gl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f41/acl/po/sv.po | 
+ | [de](/f41/language/de) | 506 | 506 | 100.0 | /mnt/stockage/packages/f41/acl/po/de.po | 
+ | [error](/f41/language/error) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f41/acl/po/en@boldquot.po/mnt/stockage/packages/f41/acl/po/en@quot.po | 
+ | [ka](/f41/language/ka) | 506 | 506 | 100.0 | /mnt/stockage/packages/f41/acl/po/ka.po | 
+ | [pl](/f41/language/pl) | 506 | 506 | 100.0 | /mnt/stockage/packages/f41/acl/po/pl.po | 
+ | [fr](/f41/language/fr) | 412 | 506 | 81.4 | /mnt/stockage/packages/f41/acl/po/fr.po | 
+ | [es](/f41/language/es) | 395 | 506 | 78.1 | /mnt/stockage/packages/f41/acl/po/es.po | 
+ | [gl](/f41/language/gl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f41/acl/po/gl.po | 
+ | [sv](/f41/language/sv) | 395 | 506 | 78.1 | /mnt/stockage/packages/f41/acl/po/sv.po | 
 {.sortable}
 
 

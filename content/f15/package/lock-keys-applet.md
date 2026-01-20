@@ -18,9 +18,9 @@ The package lock-keys-applet (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/lock-keys-applet/po/de.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 17 | 54 | 31.5 | /mnt/stockage/packages/f15/lock-keys-applet/po/hu.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 17 | 54 | 31.5 | /mnt/stockage/packages/f15/lock-keys-applet/po/sv.po | 
+ | [de](/f15/language/de) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/lock-keys-applet/po/de.po | 
+ | [hu](/f15/language/hu) | 17 | 54 | 31.5 | /mnt/stockage/packages/f15/lock-keys-applet/po/hu.po | 
+ | [sv](/f15/language/sv) | 17 | 54 | 31.5 | /mnt/stockage/packages/f15/lock-keys-applet/po/sv.po | 
 {.sortable}
 
 

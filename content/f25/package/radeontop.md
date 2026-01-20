@@ -18,7 +18,7 @@ The package radeontop (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f25/radeontop/translations/ru.po | 
+ | [ru](/f25/language/ru) | 168 | 168 | 100.0 | /mnt/stockage/packages/f25/radeontop/translations/ru.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f32/package/iso-codes.md" >}}) | 738 | 771 | 95.7 | Tamil <gnome-tamil-translation@googlegroups.com> | 
- | [tuxpaint]({{< ref "/f32/package/tuxpaint.md" >}}) | 583 | 1662 | 35.1 | English (South African) <en_za@li.org> | 
- | [cinnamon-translations]({{< ref "/f32/package/cinnamon-translations.md" >}}) | 4 | 6751 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [iso-codes](/f32/package/iso-codes) | 738 | 771 | 95.7 | Tamil <gnome-tamil-translation@googlegroups.com> | 
+ | [tuxpaint](/f32/package/tuxpaint) | 583 | 1662 | 35.1 | English (South African) <en_za@li.org> | 
+ | [cinnamon-translations](/f32/package/cinnamon-translations) | 4 | 6751 | 0.1 | English (South Africa) <en_ZA@li.org> | 
 {.sortable}
 
 

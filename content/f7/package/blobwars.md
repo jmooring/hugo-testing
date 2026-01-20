@@ -18,8 +18,8 @@ The package blobwars (version 1.06):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f7/blobwars/locale/ca.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f7/blobwars/locale/nl.po | 
+ | [ca](/f7/language/ca) | 1163 | 1163 | 100.0 | /mnt/stockage/packages/f7/blobwars/locale/ca.po | 
+ | [nl](/f7/language/nl) | 1164 | 1164 | 100.0 | /mnt/stockage/packages/f7/blobwars/locale/nl.po | 
 {.sortable}
 
 

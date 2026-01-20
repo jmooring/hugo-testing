@@ -18,11 +18,11 @@ The package mcrypt (version 2.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f8/language/el.md" >}}) | 956 | 965 | 99.1 | /mnt/stockage/packages/f8/mcrypt/po/el.po | 
- | [es_AR]({{< ref "/f8/language/es_AR.md" >}}) | 956 | 965 | 99.1 | /mnt/stockage/packages/f8/mcrypt/po/es_AR.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 735 | 965 | 76.2 | /mnt/stockage/packages/f8/mcrypt/po/de.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 308 | 965 | 31.9 | /mnt/stockage/packages/f8/mcrypt/po/cs.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 162 | 965 | 16.8 | /mnt/stockage/packages/f8/mcrypt/po/pl.po | 
+ | [el](/f8/language/el) | 956 | 965 | 99.1 | /mnt/stockage/packages/f8/mcrypt/po/el.po | 
+ | [es_AR](/f8/language/es_AR) | 956 | 965 | 99.1 | /mnt/stockage/packages/f8/mcrypt/po/es_AR.po | 
+ | [de](/f8/language/de) | 735 | 965 | 76.2 | /mnt/stockage/packages/f8/mcrypt/po/de.po | 
+ | [cs](/f8/language/cs) | 308 | 965 | 31.9 | /mnt/stockage/packages/f8/mcrypt/po/cs.po | 
+ | [pl](/f8/language/pl) | 162 | 965 | 16.8 | /mnt/stockage/packages/f8/mcrypt/po/pl.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package torbrowser-launcher (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f32/torbrowser-launcher/po/fr.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f32/torbrowser-launcher/po/ru.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 170 | 228 | 74.6 | /mnt/stockage/packages/f32/torbrowser-launcher/po/cs.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 164 | 228 | 71.9 | /mnt/stockage/packages/f32/torbrowser-launcher/po/hu.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 58 | 228 | 25.4 | /mnt/stockage/packages/f32/torbrowser-launcher/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 44 | 228 | 19.3 | /mnt/stockage/packages/f32/torbrowser-launcher/po/pl.po | 
+ | [fr](/f32/language/fr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f32/torbrowser-launcher/po/fr.po | 
+ | [ru](/f32/language/ru) | 228 | 228 | 100.0 | /mnt/stockage/packages/f32/torbrowser-launcher/po/ru.po | 
+ | [cs](/f32/language/cs) | 170 | 228 | 74.6 | /mnt/stockage/packages/f32/torbrowser-launcher/po/cs.po | 
+ | [hu](/f32/language/hu) | 164 | 228 | 71.9 | /mnt/stockage/packages/f32/torbrowser-launcher/po/hu.po | 
+ | [nl](/f32/language/nl) | 58 | 228 | 25.4 | /mnt/stockage/packages/f32/torbrowser-launcher/po/nl.po | 
+ | [pl](/f32/language/pl) | 44 | 228 | 19.3 | /mnt/stockage/packages/f32/torbrowser-launcher/po/pl.po | 
 {.sortable}
 
 

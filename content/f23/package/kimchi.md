@@ -18,17 +18,17 @@ The package kimchi (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 3648 | 3648 | 100.0 | /mnt/stockage/packages/f23/kimchi/plugins/sample/po/pt_BR.po/mnt/stockage/packages/f23/kimchi/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 3571 | 3648 | 97.9 | /mnt/stockage/packages/f23/kimchi/plugins/sample/po/zh_CN.po/mnt/stockage/packages/f23/kimchi/po/zh_CN.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3103 | 3647 | 85.1 | /mnt/stockage/packages/f23/kimchi/po/fr_FR.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 2572 | 3647 | 70.5 | /mnt/stockage/packages/f23/kimchi/po/de_DE.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 2568 | 3647 | 70.4 | /mnt/stockage/packages/f23/kimchi/po/es_ES.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 2568 | 3647 | 70.4 | /mnt/stockage/packages/f23/kimchi/po/it_IT.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 2531 | 3647 | 69.4 | /mnt/stockage/packages/f23/kimchi/po/ru_RU.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 2529 | 3647 | 69.3 | /mnt/stockage/packages/f23/kimchi/po/ko_KR.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 2529 | 3647 | 69.3 | /mnt/stockage/packages/f23/kimchi/po/zh_TW.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 2524 | 3647 | 69.2 | /mnt/stockage/packages/f23/kimchi/po/ja_JP.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 1 | 3648 | 0.0 | /mnt/stockage/packages/f23/kimchi/plugins/sample/po/en_US.po/mnt/stockage/packages/f23/kimchi/po/en_US.po | 
+ | [pt_BR](/f23/language/pt_BR) | 3648 | 3648 | 100.0 | /mnt/stockage/packages/f23/kimchi/plugins/sample/po/pt_BR.po/mnt/stockage/packages/f23/kimchi/po/pt_BR.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 3571 | 3648 | 97.9 | /mnt/stockage/packages/f23/kimchi/plugins/sample/po/zh_CN.po/mnt/stockage/packages/f23/kimchi/po/zh_CN.po | 
+ | [fr](/f23/language/fr) | 3103 | 3647 | 85.1 | /mnt/stockage/packages/f23/kimchi/po/fr_FR.po | 
+ | [de](/f23/language/de) | 2572 | 3647 | 70.5 | /mnt/stockage/packages/f23/kimchi/po/de_DE.po | 
+ | [es](/f23/language/es) | 2568 | 3647 | 70.4 | /mnt/stockage/packages/f23/kimchi/po/es_ES.po | 
+ | [it](/f23/language/it) | 2568 | 3647 | 70.4 | /mnt/stockage/packages/f23/kimchi/po/it_IT.po | 
+ | [ru](/f23/language/ru) | 2531 | 3647 | 69.4 | /mnt/stockage/packages/f23/kimchi/po/ru_RU.po | 
+ | [ko](/f23/language/ko) | 2529 | 3647 | 69.3 | /mnt/stockage/packages/f23/kimchi/po/ko_KR.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 2529 | 3647 | 69.3 | /mnt/stockage/packages/f23/kimchi/po/zh_TW.po | 
+ | [ja](/f23/language/ja) | 2524 | 3647 | 69.2 | /mnt/stockage/packages/f23/kimchi/po/ja_JP.po | 
+ | [en_US](/f23/language/en_US) | 1 | 3648 | 0.0 | /mnt/stockage/packages/f23/kimchi/plugins/sample/po/en_US.po/mnt/stockage/packages/f23/kimchi/po/en_US.po | 
 {.sortable}
 
 

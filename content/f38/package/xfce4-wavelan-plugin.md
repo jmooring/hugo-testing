@@ -18,58 +18,58 @@ The package xfce4-wavelan-plugin (version 0.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/bg.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/es.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/et.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/fr.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/he.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ja.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/lt.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/pt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sl.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sq.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sr.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/zh_TW.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 77 | 80 | 96.2 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sv.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 62 | 67 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ast.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/be.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/da.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/el.po | 
- | [en_AU]({{< ref "/f38/language/en_AU.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/en_AU.po | 
- | [en_CA]({{< ref "/f38/language/en_CA.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/en_CA.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/eu.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/fi.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/gl.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hu.po | 
- | [hy]({{< ref "/f38/language/hy.md" >}}) | 148 | 160 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hye.po/mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hy_AM.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/id.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/is.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ko.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/oc.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/pt_BR.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/th.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/en_GB.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/lv.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ug.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f38/language/ur_PK.md" >}}) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ur_PK.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 47 | 80 | 58.8 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ar.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 47 | 80 | 58.8 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/kk.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 10 | 51 | 19.6 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/vi.po | 
+ | [bg](/f38/language/bg) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/bg.po | 
+ | [de](/f38/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/de.po | 
+ | [es](/f38/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/es.po | 
+ | [et](/f38/language/et) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/et.po | 
+ | [fr](/f38/language/fr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/fr.po | 
+ | [he](/f38/language/he) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/he.po | 
+ | [it](/f38/language/it) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/it.po | 
+ | [ja](/f38/language/ja) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ja.po | 
+ | [lt](/f38/language/lt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/lt.po | 
+ | [ms](/f38/language/ms) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ms.po | 
+ | [nb_NO](/f38/language/nb_NO) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/nb.po | 
+ | [nl](/f38/language/nl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/nl.po | 
+ | [pl](/f38/language/pl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/pl.po | 
+ | [pt](/f38/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/pt.po | 
+ | [ru](/f38/language/ru) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ru.po | 
+ | [sk](/f38/language/sk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sk.po | 
+ | [sl](/f38/language/sl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sl.po | 
+ | [sq](/f38/language/sq) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sq.po | 
+ | [sr](/f38/language/sr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sr.po | 
+ | [tr](/f38/language/tr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/tr.po | 
+ | [uk](/f38/language/uk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 80 | 80 | 100.0 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/zh_TW.po | 
+ | [sv](/f38/language/sv) | 77 | 80 | 96.2 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/sv.po | 
+ | [ast](/f38/language/ast) | 62 | 67 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ast.po | 
+ | [be](/f38/language/be) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/be.po | 
+ | [ca](/f38/language/ca) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ca.po | 
+ | [cs](/f38/language/cs) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/cs.po | 
+ | [da](/f38/language/da) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/da.po | 
+ | [el](/f38/language/el) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/el.po | 
+ | [en_AU](/f38/language/en_AU) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/en_AU.po | 
+ | [en_CA](/f38/language/en_CA) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/en_CA.po | 
+ | [eu](/f38/language/eu) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/eu.po | 
+ | [fi](/f38/language/fi) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/fi.po | 
+ | [gl](/f38/language/gl) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/gl.po | 
+ | [hr](/f38/language/hr) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hr.po | 
+ | [hu](/f38/language/hu) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hu.po | 
+ | [hy](/f38/language/hy) | 148 | 160 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hye.po/mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/hy_AM.po | 
+ | [id](/f38/language/id) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/id.po | 
+ | [is](/f38/language/is) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/is.po | 
+ | [ko](/f38/language/ko) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ko.po | 
+ | [oc](/f38/language/oc) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/oc.po | 
+ | [pt_BR](/f38/language/pt_BR) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/pt_BR.po | 
+ | [th](/f38/language/th) | 74 | 80 | 92.5 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/th.po | 
+ | [en_GB](/f38/language/en_GB) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/en_GB.po | 
+ | [lv](/f38/language/lv) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/lv.po | 
+ | [ug](/f38/language/ug) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ug.po | 
+ | [ur](/f38/language/ur) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ur.po | 
+ | [ur_PK](/f38/language/ur_PK) | 40 | 67 | 59.7 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ur_PK.po | 
+ | [ar](/f38/language/ar) | 47 | 80 | 58.8 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/ar.po | 
+ | [kk](/f38/language/kk) | 47 | 80 | 58.8 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/kk.po | 
+ | [vi](/f38/language/vi) | 10 | 51 | 19.6 | /mnt/stockage/packages/f38/xfce4-wavelan-plugin/po/vi.po | 
 {.sortable}
 
 

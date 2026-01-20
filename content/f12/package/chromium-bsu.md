@@ -18,9 +18,9 @@ The package chromium-bsu (version 0.9.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 1011 | 1015 | 99.6 | /mnt/stockage/packages/f12/chromium-bsu/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 941 | 1015 | 92.7 | /mnt/stockage/packages/f12/chromium-bsu/po/es.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 652 | 1015 | 64.2 | /mnt/stockage/packages/f12/chromium-bsu/po/bg.po | 
+ | [de](/f12/language/de) | 1011 | 1015 | 99.6 | /mnt/stockage/packages/f12/chromium-bsu/po/de.po | 
+ | [es](/f12/language/es) | 941 | 1015 | 92.7 | /mnt/stockage/packages/f12/chromium-bsu/po/es.po | 
+ | [bg](/f12/language/bg) | 652 | 1015 | 64.2 | /mnt/stockage/packages/f12/chromium-bsu/po/bg.po | 
 {.sortable}
 
 

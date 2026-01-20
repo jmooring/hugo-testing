@@ -18,15 +18,15 @@ The package kde-plasma-smooth-tasks (version 0.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/de.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 578 | 601 | 96.2 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/pl.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/fr.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/ru.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/zh_CN.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 871 | 1005 | 86.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/cs.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 496 | 942 | 52.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/tr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 138 | 1005 | 13.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/hu.po | 
+ | [de](/f20/language/de) | 1014 | 1014 | 100.0 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/de.po | 
+ | [pl](/f20/language/pl) | 578 | 601 | 96.2 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/pl.po | 
+ | [fr](/f20/language/fr) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/fr.po | 
+ | [ru](/f20/language/ru) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/ru.po | 
+ | [uk](/f20/language/uk) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/uk_UA.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 942 | 1005 | 93.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/zh_CN.po | 
+ | [cs](/f20/language/cs) | 871 | 1005 | 86.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/cs.po | 
+ | [tr](/f20/language/tr) | 496 | 942 | 52.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/tr.po | 
+ | [hu](/f20/language/hu) | 138 | 1005 | 13.7 | /mnt/stockage/packages/f20/kde-plasma-smooth-tasks/po/hu.po | 
 {.sortable}
 
 

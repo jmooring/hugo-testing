@@ -18,74 +18,74 @@ The package supertuxkart (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/bg.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ca.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/de.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/en.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/fr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/id.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ml.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/nn.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/sv.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/zh_TW.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 5891 | 5918 | 99.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/cs.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 5861 | 5918 | 99.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/gd.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 5861 | 5918 | 99.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/it.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 5861 | 5918 | 99.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/sr.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 5854 | 5918 | 98.9 | /mnt/stockage/packages/f35/supertuxkart/data/po/el.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 5820 | 5918 | 98.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/he.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 5766 | 5918 | 97.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/fi.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 5720 | 5918 | 96.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/pt.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 5697 | 5918 | 96.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/tr.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 5683 | 5918 | 96.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ko.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 5582 | 5918 | 94.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/ar.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 5549 | 5918 | 93.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/hu.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 5357 | 5918 | 90.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/be.po | 
- | [szl]({{< ref "/f35/language/szl.md" >}}) | 5310 | 5918 | 89.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/szl.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 5294 | 5918 | 89.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/ja.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 5140 | 5918 | 86.9 | /mnt/stockage/packages/f35/supertuxkart/data/po/eu.po | 
- | [sw]({{< ref "/f35/language/sw.md" >}}) | 4262 | 5918 | 72.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/sw.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3944 | 5918 | 66.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/sk.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 3751 | 5918 | 63.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/th.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 3465 | 5918 | 58.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/bs.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 3362 | 5918 | 56.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/br.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 3214 | 5918 | 54.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/uk.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 2674 | 5918 | 45.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/nb.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 2514 | 5918 | 42.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/sl.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 2474 | 5918 | 41.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/eo.po | 
- | [krl]({{< ref "/f35/language/krl.md" >}}) | 2417 | 5918 | 40.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/krl.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 2381 | 5918 | 40.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/lt.po | 
- | [tt]({{< ref "/f35/language/tt.md" >}}) | 2095 | 5918 | 35.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/tt.po | 
- | [la]({{< ref "/f35/language/la.md" >}}) | 2073 | 5918 | 35.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/la.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 2072 | 5918 | 35.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/gl.po | 
- | [kw]({{< ref "/f35/language/kw.md" >}}) | 1816 | 5918 | 30.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/kw.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 1631 | 5918 | 27.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/lv.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 998 | 5918 | 16.9 | /mnt/stockage/packages/f35/supertuxkart/data/po/hr.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 951 | 5918 | 16.1 | /mnt/stockage/packages/f35/supertuxkart/data/po/ro.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 851 | 5918 | 14.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/et.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 718 | 5918 | 12.1 | /mnt/stockage/packages/f35/supertuxkart/data/po/vi.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 639 | 5918 | 10.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/oc.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 499 | 5918 | 8.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/ga.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 364 | 5918 | 6.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/ky.po | 
- | [jbo]({{< ref "/f35/language/jbo.md" >}}) | 255 | 5918 | 4.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/jbo.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 89 | 5918 | 1.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/sq.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 42 | 5918 | 0.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/is.po | 
- | [os]({{< ref "/f35/language/os.md" >}}) | 38 | 5918 | 0.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/os.po | 
- | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 35 | 5918 | 0.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/fr_CA.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 31 | 5918 | 0.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/fa.po | 
- | [sco]({{< ref "/f35/language/sco.md" >}}) | 14 | 5918 | 0.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/sco.po | 
- | [sc]({{< ref "/f35/language/sc.md" >}}) | 8 | 5918 | 0.1 | /mnt/stockage/packages/f35/supertuxkart/data/po/sc.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ia.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/mn_MN.po | 
- | [pms]({{< ref "/f35/language/pms.md" >}}) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/pms.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/uz.po | 
+ | [bg](/f35/language/bg) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/bg.po | 
+ | [ca](/f35/language/ca) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ca.po | 
+ | [da](/f35/language/da) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/da.po | 
+ | [de](/f35/language/de) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/de.po | 
+ | [en](/f35/language/en) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/en.po | 
+ | [es](/f35/language/es) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/es.po | 
+ | [fr](/f35/language/fr) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/fr.po | 
+ | [id](/f35/language/id) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/id.po | 
+ | [ml](/f35/language/ml) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ml.po | 
+ | [nl](/f35/language/nl) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/nl.po | 
+ | [nn](/f35/language/nn) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/nn.po | 
+ | [pl](/f35/language/pl) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ru.po | 
+ | [sv](/f35/language/sv) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/sv.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 5918 | 5918 | 100.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/zh_TW.po | 
+ | [cs](/f35/language/cs) | 5891 | 5918 | 99.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/cs.po | 
+ | [gd](/f35/language/gd) | 5861 | 5918 | 99.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/gd.po | 
+ | [it](/f35/language/it) | 5861 | 5918 | 99.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/it.po | 
+ | [sr](/f35/language/sr) | 5861 | 5918 | 99.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/sr.po | 
+ | [el](/f35/language/el) | 5854 | 5918 | 98.9 | /mnt/stockage/packages/f35/supertuxkart/data/po/el.po | 
+ | [he](/f35/language/he) | 5820 | 5918 | 98.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/he.po | 
+ | [fi](/f35/language/fi) | 5766 | 5918 | 97.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/fi.po | 
+ | [pt](/f35/language/pt) | 5720 | 5918 | 96.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/pt.po | 
+ | [tr](/f35/language/tr) | 5697 | 5918 | 96.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/tr.po | 
+ | [ko](/f35/language/ko) | 5683 | 5918 | 96.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ko.po | 
+ | [ar](/f35/language/ar) | 5582 | 5918 | 94.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/ar.po | 
+ | [hu](/f35/language/hu) | 5549 | 5918 | 93.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/hu.po | 
+ | [be](/f35/language/be) | 5357 | 5918 | 90.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/be.po | 
+ | [szl](/f35/language/szl) | 5310 | 5918 | 89.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/szl.po | 
+ | [ja](/f35/language/ja) | 5294 | 5918 | 89.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/ja.po | 
+ | [eu](/f35/language/eu) | 5140 | 5918 | 86.9 | /mnt/stockage/packages/f35/supertuxkart/data/po/eu.po | 
+ | [sw](/f35/language/sw) | 4262 | 5918 | 72.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/sw.po | 
+ | [sk](/f35/language/sk) | 3944 | 5918 | 66.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/sk.po | 
+ | [th](/f35/language/th) | 3751 | 5918 | 63.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/th.po | 
+ | [bs](/f35/language/bs) | 3465 | 5918 | 58.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/bs.po | 
+ | [br](/f35/language/br) | 3362 | 5918 | 56.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/br.po | 
+ | [uk](/f35/language/uk) | 3214 | 5918 | 54.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/uk.po | 
+ | [nb_NO](/f35/language/nb_NO) | 2674 | 5918 | 45.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/nb.po | 
+ | [sl](/f35/language/sl) | 2514 | 5918 | 42.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/sl.po | 
+ | [eo](/f35/language/eo) | 2474 | 5918 | 41.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/eo.po | 
+ | [krl](/f35/language/krl) | 2417 | 5918 | 40.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/krl.po | 
+ | [lt](/f35/language/lt) | 2381 | 5918 | 40.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/lt.po | 
+ | [tt](/f35/language/tt) | 2095 | 5918 | 35.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/tt.po | 
+ | [la](/f35/language/la) | 2073 | 5918 | 35.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/la.po | 
+ | [gl](/f35/language/gl) | 2072 | 5918 | 35.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/gl.po | 
+ | [kw](/f35/language/kw) | 1816 | 5918 | 30.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/kw.po | 
+ | [lv](/f35/language/lv) | 1631 | 5918 | 27.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/lv.po | 
+ | [hr](/f35/language/hr) | 998 | 5918 | 16.9 | /mnt/stockage/packages/f35/supertuxkart/data/po/hr.po | 
+ | [ro](/f35/language/ro) | 951 | 5918 | 16.1 | /mnt/stockage/packages/f35/supertuxkart/data/po/ro.po | 
+ | [et](/f35/language/et) | 851 | 5918 | 14.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/et.po | 
+ | [vi](/f35/language/vi) | 718 | 5918 | 12.1 | /mnt/stockage/packages/f35/supertuxkart/data/po/vi.po | 
+ | [oc](/f35/language/oc) | 639 | 5918 | 10.8 | /mnt/stockage/packages/f35/supertuxkart/data/po/oc.po | 
+ | [ga](/f35/language/ga) | 499 | 5918 | 8.4 | /mnt/stockage/packages/f35/supertuxkart/data/po/ga.po | 
+ | [ky](/f35/language/ky) | 364 | 5918 | 6.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/ky.po | 
+ | [jbo](/f35/language/jbo) | 255 | 5918 | 4.3 | /mnt/stockage/packages/f35/supertuxkart/data/po/jbo.po | 
+ | [sq](/f35/language/sq) | 89 | 5918 | 1.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/sq.po | 
+ | [is](/f35/language/is) | 42 | 5918 | 0.7 | /mnt/stockage/packages/f35/supertuxkart/data/po/is.po | 
+ | [os](/f35/language/os) | 38 | 5918 | 0.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/os.po | 
+ | [fr_CA](/f35/language/fr_CA) | 35 | 5918 | 0.6 | /mnt/stockage/packages/f35/supertuxkart/data/po/fr_CA.po | 
+ | [fa](/f35/language/fa) | 31 | 5918 | 0.5 | /mnt/stockage/packages/f35/supertuxkart/data/po/fa.po | 
+ | [sco](/f35/language/sco) | 14 | 5918 | 0.2 | /mnt/stockage/packages/f35/supertuxkart/data/po/sco.po | 
+ | [sc](/f35/language/sc) | 8 | 5918 | 0.1 | /mnt/stockage/packages/f35/supertuxkart/data/po/sc.po | 
+ | [ia](/f35/language/ia) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/ia.po | 
+ | [mn](/f35/language/mn) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/mn_MN.po | 
+ | [pms](/f35/language/pms) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/pms.po | 
+ | [uz](/f35/language/uz) | 1 | 5918 | 0.0 | /mnt/stockage/packages/f35/supertuxkart/data/po/uz.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package gnome-network-displays (version 0.90.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 115 | 118 | 97.5 | /mnt/stockage/packages/f30/gnome-network-displays/po/de.po | 
+ | [de](/f30/language/de) | 115 | 118 | 97.5 | /mnt/stockage/packages/f30/gnome-network-displays/po/de.po | 
 {.sortable}
 
 

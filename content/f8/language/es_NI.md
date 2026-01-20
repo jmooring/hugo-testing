@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [gnucash]({{< ref "/f8/package/gnucash.md" >}}) | 3136 | 24173 | 13.0 | Spanish es@li.org" | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [gnucash](/f8/package/gnucash) | 3136 | 24173 | 13.0 | Spanish es@li.org" | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-ovirt]({{< ref "/f19/package/publican-ovirt.md" >}}) | 288 | 288 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
- | [publican-redhat]({{< ref "/f19/package/publican-redhat.md" >}}) | 220 | 220 | 100.0 | Gujarati | 
- | [publican-jboss]({{< ref "/f19/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Gujarati | 
- | [pgadmin3]({{< ref "/f19/package/pgadmin3.md" >}}) | 2 | 16742 | 0.0 | LANGUAGE <LL@li.org> | 
- | [publican-fedora]({{< ref "/f19/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [publican-ovirt](/f19/package/publican-ovirt) | 288 | 288 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
+ | [publican-redhat](/f19/package/publican-redhat) | 220 | 220 | 100.0 | Gujarati | 
+ | [publican-jboss](/f19/package/publican-jboss) | 120 | 232 | 51.7 | Gujarati | 
+ | [pgadmin3](/f19/package/pgadmin3) | 2 | 16742 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [publican-fedora](/f19/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

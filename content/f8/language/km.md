@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f8/package/amarok.md" >}}) | 13192 | 13192 | 100.0 | khmer <en@li.org> | 
- | [gimp]({{< ref "/f8/package/gimp.md" >}}) | 25383 | 25383 | 100.0 | Khmer <support@khmeros.info> | 
- | [imp]({{< ref "/f8/package/imp.md" >}}) | 5647 | 5647 | 100.0 | Khmer <support@khmeros.info> | 
- | [inkscape]({{< ref "/f8/package/inkscape.md" >}}) | 10517 | 10517 | 100.0 | English <support@khmeros.info> | 
- | [kpowersave]({{< ref "/f8/package/kpowersave.md" >}}) | 1699 | 1699 | 100.0 | Khmer <support@khmeros.info> | 
- | [newt]({{< ref "/f8/package/newt.md" >}}) | 4 | 4 | 100.0 | Khmer <support@khmeros.info> | 
- | [k3b]({{< ref "/f8/package/k3b.md" >}}) | 20622 | 20630 | 100.0 | khmer <support@khmeros.info> | 
- | [kaffeine]({{< ref "/f8/package/kaffeine.md" >}}) | 2108 | 2354 | 89.5 | Khmer <support@khmeros.info> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 939 | 1076 | 87.3 | Khmer | 
- | [shadow-utils]({{< ref "/f8/package/shadow-utils.md" >}}) | 2533 | 2915 | 86.9 | Khmer <support@khmeros.info> | 
- | [pam]({{< ref "/f8/package/pam.md" >}}) | 379 | 537 | 70.6 | Khmer <support@khmeros.info> | 
- | [kerry]({{< ref "/f8/package/kerry.md" >}}) | 265 | 486 | 54.5 | Khmer <support@khmeros.info> | 
- | [horde]({{< ref "/f8/package/horde.md" >}}) | 872 | 7095 | 12.3 | Khmer <support@khmeros.info> | 
- | [filezilla]({{< ref "/f8/package/filezilla.md" >}}) | 98 | 3460 | 2.8 | Khmer <phireak@gmail.com> | 
- | [nautilus]({{< ref "/f8/package/nautilus.md" >}}) | 42 | 6771 | 0.6 | Khmer <support@khmeros.info> | 
- | [compiz]({{< ref "/f8/package/compiz.md" >}}) | 3 | 2357 | 0.1 | Khmer <i18n@suse.de> | 
+ | [amarok](/f8/package/amarok) | 13192 | 13192 | 100.0 | khmer <en@li.org> | 
+ | [gimp](/f8/package/gimp) | 25383 | 25383 | 100.0 | Khmer <support@khmeros.info> | 
+ | [imp](/f8/package/imp) | 5647 | 5647 | 100.0 | Khmer <support@khmeros.info> | 
+ | [inkscape](/f8/package/inkscape) | 10517 | 10517 | 100.0 | English <support@khmeros.info> | 
+ | [kpowersave](/f8/package/kpowersave) | 1699 | 1699 | 100.0 | Khmer <support@khmeros.info> | 
+ | [newt](/f8/package/newt) | 4 | 4 | 100.0 | Khmer <support@khmeros.info> | 
+ | [k3b](/f8/package/k3b) | 20622 | 20630 | 100.0 | khmer <support@khmeros.info> | 
+ | [kaffeine](/f8/package/kaffeine) | 2108 | 2354 | 89.5 | Khmer <support@khmeros.info> | 
+ | [iso-codes](/f8/package/iso-codes) | 939 | 1076 | 87.3 | Khmer | 
+ | [shadow-utils](/f8/package/shadow-utils) | 2533 | 2915 | 86.9 | Khmer <support@khmeros.info> | 
+ | [pam](/f8/package/pam) | 379 | 537 | 70.6 | Khmer <support@khmeros.info> | 
+ | [kerry](/f8/package/kerry) | 265 | 486 | 54.5 | Khmer <support@khmeros.info> | 
+ | [horde](/f8/package/horde) | 872 | 7095 | 12.3 | Khmer <support@khmeros.info> | 
+ | [filezilla](/f8/package/filezilla) | 98 | 3460 | 2.8 | Khmer <phireak@gmail.com> | 
+ | [nautilus](/f8/package/nautilus) | 42 | 6771 | 0.6 | Khmer <support@khmeros.info> | 
+ | [compiz](/f8/package/compiz) | 3 | 2357 | 0.1 | Khmer <i18n@suse.de> | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package xcowsay (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 202 | 210 | 96.2 | /mnt/stockage/packages/f32/xcowsay/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 185 | 210 | 88.1 | /mnt/stockage/packages/f32/xcowsay/po/ru.po | 
+ | [pt_BR](/f32/language/pt_BR) | 202 | 210 | 96.2 | /mnt/stockage/packages/f32/xcowsay/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 185 | 210 | 88.1 | /mnt/stockage/packages/f32/xcowsay/po/ru.po | 
 {.sortable}
 
 

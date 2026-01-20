@@ -18,30 +18,30 @@ The package clipit (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/ca.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f31/clipit/po/fr_FR.po/mnt/stockage/packages/f31/clipit/po/fr.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/is.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/pt_BR.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/sv.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/de.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/it.po | 
- | [pt_PT]({{< ref "/f31/language/pt_PT.md" >}}) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/pt_PT.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/cs.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/et.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/gl_ES.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/ja.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/lt.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/ru.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 180 | 218 | 82.6 | /mnt/stockage/packages/f31/clipit/po/bg.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 167 | 218 | 76.6 | /mnt/stockage/packages/f31/clipit/po/fi.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 325 | 436 | 74.5 | /mnt/stockage/packages/f31/clipit/po/es_ES.po/mnt/stockage/packages/f31/clipit/po/es.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 137 | 218 | 62.8 | /mnt/stockage/packages/f31/clipit/po/zh_CN.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 115 | 218 | 52.8 | /mnt/stockage/packages/f31/clipit/po/da.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 115 | 218 | 52.8 | /mnt/stockage/packages/f31/clipit/po/pl.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 88 | 218 | 40.4 | /mnt/stockage/packages/f31/clipit/po/nb.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 49 | 218 | 22.5 | /mnt/stockage/packages/f31/clipit/po/tr.po | 
+ | [ca](/f31/language/ca) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/ca.po | 
+ | [fr](/f31/language/fr) | 436 | 436 | 100.0 | /mnt/stockage/packages/f31/clipit/po/fr_FR.po/mnt/stockage/packages/f31/clipit/po/fr.po | 
+ | [is](/f31/language/is) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/is.po | 
+ | [pt_BR](/f31/language/pt_BR) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/pt_BR.po | 
+ | [sv](/f31/language/sv) | 218 | 218 | 100.0 | /mnt/stockage/packages/f31/clipit/po/sv.po | 
+ | [de](/f31/language/de) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/de.po | 
+ | [hu](/f31/language/hu) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/hu.po | 
+ | [it](/f31/language/it) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/it.po | 
+ | [pt_PT](/f31/language/pt_PT) | 217 | 218 | 99.5 | /mnt/stockage/packages/f31/clipit/po/pt_PT.po | 
+ | [cs](/f31/language/cs) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/cs.po | 
+ | [et](/f31/language/et) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/et.po | 
+ | [gl](/f31/language/gl) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/gl_ES.po | 
+ | [ja](/f31/language/ja) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/ja.po | 
+ | [lt](/f31/language/lt) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/lt.po | 
+ | [ro](/f31/language/ro) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/ro.po | 
+ | [ru](/f31/language/ru) | 210 | 218 | 96.3 | /mnt/stockage/packages/f31/clipit/po/ru.po | 
+ | [bg](/f31/language/bg) | 180 | 218 | 82.6 | /mnt/stockage/packages/f31/clipit/po/bg.po | 
+ | [fi](/f31/language/fi) | 167 | 218 | 76.6 | /mnt/stockage/packages/f31/clipit/po/fi.po | 
+ | [es](/f31/language/es) | 325 | 436 | 74.5 | /mnt/stockage/packages/f31/clipit/po/es_ES.po/mnt/stockage/packages/f31/clipit/po/es.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 137 | 218 | 62.8 | /mnt/stockage/packages/f31/clipit/po/zh_CN.po | 
+ | [da](/f31/language/da) | 115 | 218 | 52.8 | /mnt/stockage/packages/f31/clipit/po/da.po | 
+ | [pl](/f31/language/pl) | 115 | 218 | 52.8 | /mnt/stockage/packages/f31/clipit/po/pl.po | 
+ | [nb_NO](/f31/language/nb_NO) | 88 | 218 | 40.4 | /mnt/stockage/packages/f31/clipit/po/nb.po | 
+ | [tr](/f31/language/tr) | 49 | 218 | 22.5 | /mnt/stockage/packages/f31/clipit/po/tr.po | 
 {.sortable}
 
 

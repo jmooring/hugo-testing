@@ -18,34 +18,34 @@ The package xkeyboard-config (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f9/language/af.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/af.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/az.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/bg.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/cs.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/da.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1337 | 1337 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1459 | 1459 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/hu.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/ka.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/ko.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 2029 | 2029 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/nl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/ru.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 2029 | 2029 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 1259 | 1259 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sv.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 2029 | 2029 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/vi.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/zh_TW.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 1997 | 2029 | 98.4 | /mnt/stockage/packages/f9/xkeyboard-config/po/fi.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 1913 | 1952 | 98.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sk.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 1146 | 1195 | 95.9 | /mnt/stockage/packages/f9/xkeyboard-config/po/sr@Latn.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 1040 | 1195 | 87.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/en_GB.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1711 | 2111 | 81.1 | /mnt/stockage/packages/f9/xkeyboard-config/po/it.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 228 | 1137 | 20.1 | /mnt/stockage/packages/f9/xkeyboard-config/po/el.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 81 | 1137 | 7.1 | /mnt/stockage/packages/f9/xkeyboard-config/po/rw.po | 
+ | [af](/f9/language/af) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/af.po | 
+ | [az](/f9/language/az) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/az.po | 
+ | [bg](/f9/language/bg) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/bg.po | 
+ | [cs](/f9/language/cs) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/cs.po | 
+ | [da](/f9/language/da) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/da.po | 
+ | [es](/f9/language/es) | 1337 | 1337 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/es.po | 
+ | [fr](/f9/language/fr) | 1459 | 1459 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/fr.po | 
+ | [hu](/f9/language/hu) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/hu.po | 
+ | [ka](/f9/language/ka) | 1388 | 1388 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/ka.po | 
+ | [ko](/f9/language/ko) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/ko.po | 
+ | [nl](/f9/language/nl) | 2029 | 2029 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/nl.po | 
+ | [ru](/f9/language/ru) | 1792 | 1792 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/ru.po | 
+ | [sl](/f9/language/sl) | 2029 | 2029 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sl.po | 
+ | [sq](/f9/language/sq) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sq.po | 
+ | [sr](/f9/language/sr) | 1259 | 1259 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sr.po | 
+ | [sv](/f9/language/sv) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sv.po | 
+ | [tr](/f9/language/tr) | 1952 | 1952 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/tr.po | 
+ | [uk](/f9/language/uk) | 2029 | 2029 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/uk.po | 
+ | [vi](/f9/language/vi) | 2111 | 2111 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/vi.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 896 | 896 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1156 | 1156 | 100.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/zh_TW.po | 
+ | [fi](/f9/language/fi) | 1997 | 2029 | 98.4 | /mnt/stockage/packages/f9/xkeyboard-config/po/fi.po | 
+ | [sk](/f9/language/sk) | 1913 | 1952 | 98.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/sk.po | 
+ | [error](/f9/language/error) | 1146 | 1195 | 95.9 | /mnt/stockage/packages/f9/xkeyboard-config/po/sr@Latn.po | 
+ | [en_GB](/f9/language/en_GB) | 1040 | 1195 | 87.0 | /mnt/stockage/packages/f9/xkeyboard-config/po/en_GB.po | 
+ | [it](/f9/language/it) | 1711 | 2111 | 81.1 | /mnt/stockage/packages/f9/xkeyboard-config/po/it.po | 
+ | [el](/f9/language/el) | 228 | 1137 | 20.1 | /mnt/stockage/packages/f9/xkeyboard-config/po/el.po | 
+ | [rw](/f9/language/rw) | 81 | 1137 | 7.1 | /mnt/stockage/packages/f9/xkeyboard-config/po/rw.po | 
 {.sortable}
 
 

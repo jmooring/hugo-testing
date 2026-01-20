@@ -18,17 +18,17 @@ The package flaw (version 1.3.2a):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/cs.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/fr.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/ja.po | 
- | [lb]({{< ref "/f21/language/lb.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/lb.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/ru.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/zh_CN.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 74 | 84 | 88.1 | /mnt/stockage/packages/f21/flaw/po/nl.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 71 | 84 | 84.5 | /mnt/stockage/packages/f21/flaw/po/de.po | 
+ | [ca](/f21/language/ca) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/ca.po | 
+ | [cs](/f21/language/cs) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/cs.po | 
+ | [es](/f21/language/es) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/es.po | 
+ | [fr](/f21/language/fr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/fr.po | 
+ | [ja](/f21/language/ja) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/ja.po | 
+ | [lb](/f21/language/lb) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/lb.po | 
+ | [pt_BR](/f21/language/pt_BR) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/ru.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f21/flaw/po/zh_CN.po | 
+ | [nl](/f21/language/nl) | 74 | 84 | 88.1 | /mnt/stockage/packages/f21/flaw/po/nl.po | 
+ | [de](/f21/language/de) | 71 | 84 | 84.5 | /mnt/stockage/packages/f21/flaw/po/de.po | 
 {.sortable}
 
 

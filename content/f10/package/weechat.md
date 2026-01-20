@@ -18,13 +18,13 @@ The package weechat (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 9989 | 9989 | 100.0 | /mnt/stockage/packages/f10/weechat/po/cs.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 9989 | 9989 | 100.0 | /mnt/stockage/packages/f10/weechat/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 9989 | 9989 | 100.0 | /mnt/stockage/packages/f10/weechat/po/pl.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 4978 | 9989 | 49.8 | /mnt/stockage/packages/f10/weechat/po/es.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 3280 | 9989 | 32.8 | /mnt/stockage/packages/f10/weechat/po/de.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1396 | 9989 | 14.0 | /mnt/stockage/packages/f10/weechat/po/ru.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 1347 | 9989 | 13.5 | /mnt/stockage/packages/f10/weechat/po/hu.po | 
+ | [cs](/f10/language/cs) | 9989 | 9989 | 100.0 | /mnt/stockage/packages/f10/weechat/po/cs.po | 
+ | [fr](/f10/language/fr) | 9989 | 9989 | 100.0 | /mnt/stockage/packages/f10/weechat/po/fr.po | 
+ | [pl](/f10/language/pl) | 9989 | 9989 | 100.0 | /mnt/stockage/packages/f10/weechat/po/pl.po | 
+ | [es](/f10/language/es) | 4978 | 9989 | 49.8 | /mnt/stockage/packages/f10/weechat/po/es.po | 
+ | [de](/f10/language/de) | 3280 | 9989 | 32.8 | /mnt/stockage/packages/f10/weechat/po/de.po | 
+ | [ru](/f10/language/ru) | 1396 | 9989 | 14.0 | /mnt/stockage/packages/f10/weechat/po/ru.po | 
+ | [hu](/f10/language/hu) | 1347 | 9989 | 13.5 | /mnt/stockage/packages/f10/weechat/po/hu.po | 
 {.sortable}
 
 

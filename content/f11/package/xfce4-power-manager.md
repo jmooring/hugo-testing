@@ -18,34 +18,34 @@ The package xfce4-power-manager (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f11/language/ast.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ast.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/da.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/el.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/eu.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 693 | 693 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ja.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/pt.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ru.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/zh_CN.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 688 | 694 | 99.1 | /mnt/stockage/packages/f11/xfce4-power-manager/po/fr.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 671 | 694 | 96.7 | /mnt/stockage/packages/f11/xfce4-power-manager/po/tr.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 653 | 694 | 94.1 | /mnt/stockage/packages/f11/xfce4-power-manager/po/de.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 650 | 694 | 93.7 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ur.po | 
- | [ur_PK]({{< ref "/f11/language/ur_PK.md" >}}) | 650 | 694 | 93.7 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ur_PK.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 555 | 694 | 80.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/gl.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 515 | 694 | 74.2 | /mnt/stockage/packages/f11/xfce4-power-manager/po/sk.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 258 | 694 | 37.2 | /mnt/stockage/packages/f11/xfce4-power-manager/po/sv.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 172 | 694 | 24.8 | /mnt/stockage/packages/f11/xfce4-power-manager/po/nl.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/et.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/fi.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/nb.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/pt_BR.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/uk.po | 
+ | [ast](/f11/language/ast) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ast.po | 
+ | [ca](/f11/language/ca) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ca.po | 
+ | [cs](/f11/language/cs) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/cs.po | 
+ | [da](/f11/language/da) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/da.po | 
+ | [el](/f11/language/el) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/el.po | 
+ | [es](/f11/language/es) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/es.po | 
+ | [eu](/f11/language/eu) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/eu.po | 
+ | [hu](/f11/language/hu) | 693 | 693 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/hu.po | 
+ | [id](/f11/language/id) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/id.po | 
+ | [it](/f11/language/it) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/it.po | 
+ | [ja](/f11/language/ja) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ja.po | 
+ | [pt](/f11/language/pt) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/pt.po | 
+ | [ru](/f11/language/ru) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ru.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 694 | 694 | 100.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/zh_CN.po | 
+ | [fr](/f11/language/fr) | 688 | 694 | 99.1 | /mnt/stockage/packages/f11/xfce4-power-manager/po/fr.po | 
+ | [tr](/f11/language/tr) | 671 | 694 | 96.7 | /mnt/stockage/packages/f11/xfce4-power-manager/po/tr.po | 
+ | [de](/f11/language/de) | 653 | 694 | 94.1 | /mnt/stockage/packages/f11/xfce4-power-manager/po/de.po | 
+ | [ur](/f11/language/ur) | 650 | 694 | 93.7 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ur.po | 
+ | [ur_PK](/f11/language/ur_PK) | 650 | 694 | 93.7 | /mnt/stockage/packages/f11/xfce4-power-manager/po/ur_PK.po | 
+ | [gl](/f11/language/gl) | 555 | 694 | 80.0 | /mnt/stockage/packages/f11/xfce4-power-manager/po/gl.po | 
+ | [sk](/f11/language/sk) | 515 | 694 | 74.2 | /mnt/stockage/packages/f11/xfce4-power-manager/po/sk.po | 
+ | [sv](/f11/language/sv) | 258 | 694 | 37.2 | /mnt/stockage/packages/f11/xfce4-power-manager/po/sv.po | 
+ | [nl](/f11/language/nl) | 172 | 694 | 24.8 | /mnt/stockage/packages/f11/xfce4-power-manager/po/nl.po | 
+ | [et](/f11/language/et) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/et.po | 
+ | [fi](/f11/language/fi) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/fi.po | 
+ | [nb_NO](/f11/language/nb_NO) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/nb.po | 
+ | [pt_BR](/f11/language/pt_BR) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/pt_BR.po | 
+ | [uk](/f11/language/uk) | 164 | 694 | 23.6 | /mnt/stockage/packages/f11/xfce4-power-manager/po/uk.po | 
 {.sortable}
 
 

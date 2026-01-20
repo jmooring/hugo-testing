@@ -18,20 +18,20 @@ The package torbrowser-launcher (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f38/language/be.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/be.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/fr.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/hr.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/ru.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/tr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/zh_TW.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 164 | 228 | 71.9 | /mnt/stockage/packages/f38/torbrowser-launcher/po/hu.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 58 | 228 | 25.4 | /mnt/stockage/packages/f38/torbrowser-launcher/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 44 | 228 | 19.3 | /mnt/stockage/packages/f38/torbrowser-launcher/po/pl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/pt_BR.po | 
+ | [be](/f38/language/be) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/be.po | 
+ | [cs](/f38/language/cs) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/cs.po | 
+ | [da](/f38/language/da) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/da.po | 
+ | [de](/f38/language/de) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/de.po | 
+ | [fr](/f38/language/fr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/fr.po | 
+ | [hr](/f38/language/hr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/hr.po | 
+ | [ru](/f38/language/ru) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/ru.po | 
+ | [sv](/f38/language/sv) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/sv.po | 
+ | [tr](/f38/language/tr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/tr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/zh_TW.po | 
+ | [hu](/f38/language/hu) | 164 | 228 | 71.9 | /mnt/stockage/packages/f38/torbrowser-launcher/po/hu.po | 
+ | [nl](/f38/language/nl) | 58 | 228 | 25.4 | /mnt/stockage/packages/f38/torbrowser-launcher/po/nl.po | 
+ | [pl](/f38/language/pl) | 44 | 228 | 19.3 | /mnt/stockage/packages/f38/torbrowser-launcher/po/pl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/torbrowser-launcher/po/pt_BR.po | 
 {.sortable}
 
 

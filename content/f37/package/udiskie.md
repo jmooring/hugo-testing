@@ -18,13 +18,13 @@ The package udiskie (version 2.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f37/udiskie/lang/de.po | 
- | [en_US]({{< ref "/f37/language/en_US.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f37/udiskie/lang/en_US.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f37/udiskie/lang/tr_TR.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 573 | 613 | 93.5 | /mnt/stockage/packages/f37/udiskie/lang/it_IT.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 468 | 613 | 76.3 | /mnt/stockage/packages/f37/udiskie/lang/ru_RU.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 374 | 613 | 61.0 | /mnt/stockage/packages/f37/udiskie/lang/sk_SK.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 224 | 613 | 36.5 | /mnt/stockage/packages/f37/udiskie/lang/es_ES.po | 
+ | [de](/f37/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f37/udiskie/lang/de.po | 
+ | [en_US](/f37/language/en_US) | 613 | 613 | 100.0 | /mnt/stockage/packages/f37/udiskie/lang/en_US.po | 
+ | [tr](/f37/language/tr) | 613 | 613 | 100.0 | /mnt/stockage/packages/f37/udiskie/lang/tr_TR.po | 
+ | [it](/f37/language/it) | 573 | 613 | 93.5 | /mnt/stockage/packages/f37/udiskie/lang/it_IT.po | 
+ | [ru](/f37/language/ru) | 468 | 613 | 76.3 | /mnt/stockage/packages/f37/udiskie/lang/ru_RU.po | 
+ | [sk](/f37/language/sk) | 374 | 613 | 61.0 | /mnt/stockage/packages/f37/udiskie/lang/sk_SK.po | 
+ | [es](/f37/language/es) | 224 | 613 | 36.5 | /mnt/stockage/packages/f37/udiskie/lang/es_ES.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package polkit (version 0.101):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f15/polkit/po/da.po | 
+ | [da](/f15/language/da) | 67 | 67 | 100.0 | /mnt/stockage/packages/f15/polkit/po/da.po | 
 {.sortable}
 
 

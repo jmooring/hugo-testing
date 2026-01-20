@@ -18,22 +18,22 @@ The package gtklp (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1182 | 1182 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/ca_ES.po/mnt/stockage/packages/f8/gtklp/po/ca.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/de.po | 
- | [en]({{< ref "/f8/language/en.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/en.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/pl.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 589 | 591 | 99.7 | /mnt/stockage/packages/f8/gtklp/po/uk_UA.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1174 | 1182 | 99.3 | /mnt/stockage/packages/f8/gtklp/po/zh_TW.po/mnt/stockage/packages/f8/gtklp/po/cht.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 582 | 591 | 98.5 | /mnt/stockage/packages/f8/gtklp/po/it.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 582 | 591 | 98.5 | /mnt/stockage/packages/f8/gtklp/po/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 576 | 591 | 97.5 | /mnt/stockage/packages/f8/gtklp/po/hu.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1140 | 1182 | 96.4 | /mnt/stockage/packages/f8/gtklp/po/chs.po/mnt/stockage/packages/f8/gtklp/po/zh_CN.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 554 | 591 | 93.7 | /mnt/stockage/packages/f8/gtklp/po/es.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 532 | 591 | 90.0 | /mnt/stockage/packages/f8/gtklp/po/pt_BR.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 520 | 591 | 88.0 | /mnt/stockage/packages/f8/gtklp/po/ja.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 223 | 591 | 37.7 | /mnt/stockage/packages/f8/gtklp/po/cz.po | 
+ | [ca](/f8/language/ca) | 1182 | 1182 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/ca_ES.po/mnt/stockage/packages/f8/gtklp/po/ca.po | 
+ | [de](/f8/language/de) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/de.po | 
+ | [en](/f8/language/en) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/en.po | 
+ | [fr](/f8/language/fr) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/fr.po | 
+ | [nl](/f8/language/nl) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/nl.po | 
+ | [pl](/f8/language/pl) | 591 | 591 | 100.0 | /mnt/stockage/packages/f8/gtklp/po/pl.po | 
+ | [uk](/f8/language/uk) | 589 | 591 | 99.7 | /mnt/stockage/packages/f8/gtklp/po/uk_UA.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1174 | 1182 | 99.3 | /mnt/stockage/packages/f8/gtklp/po/zh_TW.po/mnt/stockage/packages/f8/gtklp/po/cht.po | 
+ | [it](/f8/language/it) | 582 | 591 | 98.5 | /mnt/stockage/packages/f8/gtklp/po/it.po | 
+ | [ru](/f8/language/ru) | 582 | 591 | 98.5 | /mnt/stockage/packages/f8/gtklp/po/ru.po | 
+ | [hu](/f8/language/hu) | 576 | 591 | 97.5 | /mnt/stockage/packages/f8/gtklp/po/hu.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1140 | 1182 | 96.4 | /mnt/stockage/packages/f8/gtklp/po/chs.po/mnt/stockage/packages/f8/gtklp/po/zh_CN.po | 
+ | [es](/f8/language/es) | 554 | 591 | 93.7 | /mnt/stockage/packages/f8/gtklp/po/es.po | 
+ | [pt_BR](/f8/language/pt_BR) | 532 | 591 | 90.0 | /mnt/stockage/packages/f8/gtklp/po/pt_BR.po | 
+ | [ja](/f8/language/ja) | 520 | 591 | 88.0 | /mnt/stockage/packages/f8/gtklp/po/ja.po | 
+ | [cs](/f8/language/cs) | 223 | 591 | 37.7 | /mnt/stockage/packages/f8/gtklp/po/cz.po | 
 {.sortable}
 
 

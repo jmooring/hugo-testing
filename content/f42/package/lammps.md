@@ -18,7 +18,7 @@ The package lammps (version 20250722):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f42/language/en.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f42/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [en](/f42/language/en) | 0 | 99 | 0.0 | /mnt/stockage/packages/f42/lammps/doc/utils/sphinx-config/_themes/lammps_theme/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

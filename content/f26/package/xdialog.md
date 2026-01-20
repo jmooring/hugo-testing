@@ -18,19 +18,19 @@ The package xdialog (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/ca.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/fr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/it.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/no_NO.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/pl.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/es.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/ru.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/sv_SE.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 17 | 21 | 81.0 | /mnt/stockage/packages/f26/xdialog/po/nl.po | 
+ | [ca](/f26/language/ca) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/ca.po | 
+ | [fr](/f26/language/fr) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/fr.po | 
+ | [hu](/f26/language/hu) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/hu.po | 
+ | [id](/f26/language/id) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/id.po | 
+ | [it](/f26/language/it) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/it.po | 
+ | [nb_NO](/f26/language/nb_NO) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/no_NO.po | 
+ | [pl](/f26/language/pl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f26/xdialog/po/pl.po | 
+ | [de](/f26/language/de) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/de.po | 
+ | [es](/f26/language/es) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/es.po | 
+ | [pt_BR](/f26/language/pt_BR) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/ru.po | 
+ | [sv](/f26/language/sv) | 20 | 21 | 95.2 | /mnt/stockage/packages/f26/xdialog/po/sv_SE.po | 
+ | [nl](/f26/language/nl) | 17 | 21 | 81.0 | /mnt/stockage/packages/f26/xdialog/po/nl.po | 
 {.sortable}
 
 

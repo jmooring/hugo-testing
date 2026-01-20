@@ -18,10 +18,10 @@ The package gsequencer (version 3.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 575 | 667 | 86.2 | /mnt/stockage/packages/f35/gsequencer/po/pl.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 564 | 667 | 84.6 | /mnt/stockage/packages/f35/gsequencer/po/fr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 558 | 667 | 83.7 | /mnt/stockage/packages/f35/gsequencer/po/de.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 0 | 667 | 0.0 | /mnt/stockage/packages/f35/gsequencer/po/it.po | 
+ | [pl](/f35/language/pl) | 575 | 667 | 86.2 | /mnt/stockage/packages/f35/gsequencer/po/pl.po | 
+ | [fr](/f35/language/fr) | 564 | 667 | 84.6 | /mnt/stockage/packages/f35/gsequencer/po/fr.po | 
+ | [de](/f35/language/de) | 558 | 667 | 83.7 | /mnt/stockage/packages/f35/gsequencer/po/de.po | 
+ | [it](/f35/language/it) | 0 | 667 | 0.0 | /mnt/stockage/packages/f35/gsequencer/po/it.po | 
 {.sortable}
 
 

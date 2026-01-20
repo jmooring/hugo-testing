@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [konq-plugins]({{< ref "/f16/package/konq-plugins.md" >}}) | 1300 | 1598 | 81.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kiconedit]({{< ref "/f16/package/kiconedit.md" >}}) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kcoloredit]({{< ref "/f16/package/kcoloredit.md" >}}) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kgrab]({{< ref "/f16/package/kgrab.md" >}}) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [rsibreak]({{< ref "/f16/package/rsibreak.md" >}}) | 382 | 1304 | 29.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kphotoalbum]({{< ref "/f16/package/kphotoalbum.md" >}}) | 1798 | 6333 | 28.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [k3b]({{< ref "/f16/package/k3b.md" >}}) | 5589 | 20423 | 27.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kopete-cryptography]({{< ref "/f16/package/kopete-cryptography.md" >}}) | 55 | 408 | 13.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [konq-plugins](/f16/package/konq-plugins) | 1300 | 1598 | 81.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kiconedit](/f16/package/kiconedit) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kcoloredit](/f16/package/kcoloredit) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kgrab](/f16/package/kgrab) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [rsibreak](/f16/package/rsibreak) | 382 | 1304 | 29.3 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kphotoalbum](/f16/package/kphotoalbum) | 1798 | 6333 | 28.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [k3b](/f16/package/k3b) | 5589 | 20423 | 27.4 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kopete-cryptography](/f16/package/kopete-cryptography) | 55 | 408 | 13.5 | Hindi <kde-i18n-doc@lists.kde.org> | 
 {.sortable}
 
 

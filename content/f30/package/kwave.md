@@ -18,35 +18,35 @@ The package kwave (version 19.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/ca/kwave.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/ca@valencia/kwave.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/de/kwave.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/el/kwave.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/en_GB/kwave.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/es/kwave.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/eu/kwave.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/fi/kwave.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/fr/kwave.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/gl/kwave.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/it/kwave.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/nl/kwave.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/pl/kwave.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/pt/kwave.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/pt_BR/kwave.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/sv/kwave.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/uk/kwave.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 5721 | 5799 | 98.7 | /mnt/stockage/packages/f30/kwave/po/ru/kwave.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 5683 | 5799 | 98.0 | /mnt/stockage/packages/f30/kwave/po/tr/kwave.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 5614 | 5799 | 96.8 | /mnt/stockage/packages/f30/kwave/po/cs/kwave.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 5381 | 5799 | 92.8 | /mnt/stockage/packages/f30/kwave/po/et/kwave.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 3520 | 5799 | 60.7 | /mnt/stockage/packages/f30/kwave/po/zh_CN/kwave.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 1864 | 5799 | 32.1 | /mnt/stockage/packages/f30/kwave/po/da/kwave.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 1300 | 5799 | 22.4 | /mnt/stockage/packages/f30/kwave/po/sk/kwave.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 827 | 5799 | 14.3 | /mnt/stockage/packages/f30/kwave/po/bs/kwave.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 780 | 5799 | 13.5 | /mnt/stockage/packages/f30/kwave/po/ia/kwave.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 723 | 5799 | 12.5 | /mnt/stockage/packages/f30/kwave/po/zh_TW/kwave.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 0 | 5799 | 0.0 | /mnt/stockage/packages/f30/kwave/po/ja/kwave.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 0 | 5799 | 0.0 | /mnt/stockage/packages/f30/kwave/po/lt/kwave.po | 
+ | [ca](/f30/language/ca) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/ca/kwave.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/ca@valencia/kwave.po | 
+ | [de](/f30/language/de) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/de/kwave.po | 
+ | [el](/f30/language/el) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/el/kwave.po | 
+ | [en_GB](/f30/language/en_GB) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/en_GB/kwave.po | 
+ | [es](/f30/language/es) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/es/kwave.po | 
+ | [eu](/f30/language/eu) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/eu/kwave.po | 
+ | [fi](/f30/language/fi) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/fi/kwave.po | 
+ | [fr](/f30/language/fr) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/fr/kwave.po | 
+ | [gl](/f30/language/gl) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/gl/kwave.po | 
+ | [it](/f30/language/it) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/it/kwave.po | 
+ | [nl](/f30/language/nl) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/nl/kwave.po | 
+ | [pl](/f30/language/pl) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/pl/kwave.po | 
+ | [pt](/f30/language/pt) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/pt/kwave.po | 
+ | [pt_BR](/f30/language/pt_BR) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/pt_BR/kwave.po | 
+ | [sv](/f30/language/sv) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/sv/kwave.po | 
+ | [uk](/f30/language/uk) | 5799 | 5799 | 100.0 | /mnt/stockage/packages/f30/kwave/po/uk/kwave.po | 
+ | [ru](/f30/language/ru) | 5721 | 5799 | 98.7 | /mnt/stockage/packages/f30/kwave/po/ru/kwave.po | 
+ | [tr](/f30/language/tr) | 5683 | 5799 | 98.0 | /mnt/stockage/packages/f30/kwave/po/tr/kwave.po | 
+ | [cs](/f30/language/cs) | 5614 | 5799 | 96.8 | /mnt/stockage/packages/f30/kwave/po/cs/kwave.po | 
+ | [et](/f30/language/et) | 5381 | 5799 | 92.8 | /mnt/stockage/packages/f30/kwave/po/et/kwave.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 3520 | 5799 | 60.7 | /mnt/stockage/packages/f30/kwave/po/zh_CN/kwave.po | 
+ | [da](/f30/language/da) | 1864 | 5799 | 32.1 | /mnt/stockage/packages/f30/kwave/po/da/kwave.po | 
+ | [sk](/f30/language/sk) | 1300 | 5799 | 22.4 | /mnt/stockage/packages/f30/kwave/po/sk/kwave.po | 
+ | [bs](/f30/language/bs) | 827 | 5799 | 14.3 | /mnt/stockage/packages/f30/kwave/po/bs/kwave.po | 
+ | [ia](/f30/language/ia) | 780 | 5799 | 13.5 | /mnt/stockage/packages/f30/kwave/po/ia/kwave.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 723 | 5799 | 12.5 | /mnt/stockage/packages/f30/kwave/po/zh_TW/kwave.po | 
+ | [ja](/f30/language/ja) | 0 | 5799 | 0.0 | /mnt/stockage/packages/f30/kwave/po/ja/kwave.po | 
+ | [lt](/f30/language/lt) | 0 | 5799 | 0.0 | /mnt/stockage/packages/f30/kwave/po/lt/kwave.po | 
 {.sortable}
 
 

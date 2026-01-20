@@ -18,12 +18,12 @@ The package tigervnc (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/tigervnc/po/de.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/tigervnc/po/sv.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 179 | 222 | 80.6 | /mnt/stockage/packages/f16/tigervnc/po/pl.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 177 | 222 | 79.7 | /mnt/stockage/packages/f16/tigervnc/po/sk.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 176 | 222 | 79.3 | /mnt/stockage/packages/f16/tigervnc/po/fr.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 147 | 222 | 66.2 | /mnt/stockage/packages/f16/tigervnc/po/ru.po | 
+ | [de](/f16/language/de) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/tigervnc/po/de.po | 
+ | [sv](/f16/language/sv) | 222 | 222 | 100.0 | /mnt/stockage/packages/f16/tigervnc/po/sv.po | 
+ | [pl](/f16/language/pl) | 179 | 222 | 80.6 | /mnt/stockage/packages/f16/tigervnc/po/pl.po | 
+ | [sk](/f16/language/sk) | 177 | 222 | 79.7 | /mnt/stockage/packages/f16/tigervnc/po/sk.po | 
+ | [fr](/f16/language/fr) | 176 | 222 | 79.3 | /mnt/stockage/packages/f16/tigervnc/po/fr.po | 
+ | [ru](/f16/language/ru) | 147 | 222 | 66.2 | /mnt/stockage/packages/f16/tigervnc/po/ru.po | 
 {.sortable}
 
 

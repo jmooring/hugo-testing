@@ -18,26 +18,26 @@ The package uget (version 1.10.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/ar.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/be.po | 
- | [bn_BD]({{< ref "/f20/language/bn_BD.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/bn_BD.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/de.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/it.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/ka_GE.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/pl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/pt_BR.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/tr.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 673 | 682 | 98.7 | /mnt/stockage/packages/f20/uget/po/cs.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 655 | 682 | 96.0 | /mnt/stockage/packages/f20/uget/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 655 | 682 | 96.0 | /mnt/stockage/packages/f20/uget/po/zh_TW.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 649 | 682 | 95.2 | /mnt/stockage/packages/f20/uget/po/hu.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 639 | 682 | 93.7 | /mnt/stockage/packages/f20/uget/po/uk.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 621 | 682 | 91.1 | /mnt/stockage/packages/f20/uget/po/ru.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 621 | 682 | 91.1 | /mnt/stockage/packages/f20/uget/po/vi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 602 | 682 | 88.3 | /mnt/stockage/packages/f20/uget/po/fr.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 587 | 682 | 86.1 | /mnt/stockage/packages/f20/uget/po/id.po | 
+ | [ar](/f20/language/ar) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/ar.po | 
+ | [be](/f20/language/be) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/be.po | 
+ | [bn_BD](/f20/language/bn_BD) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/bn_BD.po | 
+ | [da](/f20/language/da) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/da.po | 
+ | [de](/f20/language/de) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/de.po | 
+ | [es](/f20/language/es) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/es.po | 
+ | [it](/f20/language/it) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/it.po | 
+ | [ka](/f20/language/ka) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/ka_GE.po | 
+ | [pl](/f20/language/pl) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/pl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/pt_BR.po | 
+ | [tr](/f20/language/tr) | 675 | 682 | 99.0 | /mnt/stockage/packages/f20/uget/po/tr.po | 
+ | [cs](/f20/language/cs) | 673 | 682 | 98.7 | /mnt/stockage/packages/f20/uget/po/cs.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 655 | 682 | 96.0 | /mnt/stockage/packages/f20/uget/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 655 | 682 | 96.0 | /mnt/stockage/packages/f20/uget/po/zh_TW.po | 
+ | [hu](/f20/language/hu) | 649 | 682 | 95.2 | /mnt/stockage/packages/f20/uget/po/hu.po | 
+ | [uk](/f20/language/uk) | 639 | 682 | 93.7 | /mnt/stockage/packages/f20/uget/po/uk.po | 
+ | [ru](/f20/language/ru) | 621 | 682 | 91.1 | /mnt/stockage/packages/f20/uget/po/ru.po | 
+ | [vi](/f20/language/vi) | 621 | 682 | 91.1 | /mnt/stockage/packages/f20/uget/po/vi.po | 
+ | [fr](/f20/language/fr) | 602 | 682 | 88.3 | /mnt/stockage/packages/f20/uget/po/fr.po | 
+ | [id](/f20/language/id) | 587 | 682 | 86.1 | /mnt/stockage/packages/f20/uget/po/id.po | 
 {.sortable}
 
 

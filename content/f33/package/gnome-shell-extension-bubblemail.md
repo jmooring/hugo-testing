@@ -18,25 +18,25 @@ The package gnome-shell-extension-bubblemail (version 14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 819 | 882 | 92.9 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/zh_TW.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/zh_CN.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ru.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/pt_BR.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/pt.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/it.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/fr.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/es.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/de.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ar.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/be.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/da.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/et.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/gl.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/hu.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ja.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/lt.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/nl_NL.po | 
- | [nl_BE]({{< ref "/f33/language/nl_BE.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/nl_BE.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/pl.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/sk.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/sr.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/sr@latin.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/uk.po | 
+ | [fr](/f33/language/fr) | 819 | 882 | 92.9 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/zh_TW.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/zh_CN.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ru.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/pt_BR.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/pt.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/it.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/fr.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/es.po/mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/de.po | 
+ | [ar](/f33/language/ar) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ar.po | 
+ | [be](/f33/language/be) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/be.po | 
+ | [ca](/f33/language/ca) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ca.po | 
+ | [cs](/f33/language/cs) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/cs.po | 
+ | [da](/f33/language/da) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/da.po | 
+ | [et](/f33/language/et) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/et.po | 
+ | [gl](/f33/language/gl) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/gl.po | 
+ | [hu](/f33/language/hu) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/hu.po | 
+ | [ja](/f33/language/ja) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/ja.po | 
+ | [lt](/f33/language/lt) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/lt.po | 
+ | [nl](/f33/language/nl) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/nl_NL.po | 
+ | [nl_BE](/f33/language/nl_BE) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/nl_BE.po | 
+ | [pl](/f33/language/pl) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/pl.po | 
+ | [sk](/f33/language/sk) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/sk.po | 
+ | [sr](/f33/language/sr) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/sr.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/sr@latin.po | 
+ | [tr](/f33/language/tr) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/tr.po | 
+ | [uk](/f33/language/uk) | 0 | 98 | 0.0 | /mnt/stockage/packages/f33/gnome-shell-extension-bubblemail/po/uk.po | 
 {.sortable}
 
 

@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f32/package/tuxpaint.md" >}}) | 1137 | 1662 | 68.4 | LANGUAGE <LL@li.org> | 
- | [gnucash]({{< ref "/f32/package/gnucash.md" >}}) | 25212 | 37229 | 67.7 | Manipuri (MM) <gistlrc@gmail.com> | 
- | [inkscape]({{< ref "/f32/package/inkscape.md" >}}) | 20469 | 40929 | 50.0 | gist | 
+ | [tuxpaint](/f32/package/tuxpaint) | 1137 | 1662 | 68.4 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f32/package/gnucash) | 25212 | 37229 | 67.7 | Manipuri (MM) <gistlrc@gmail.com> | 
+ | [inkscape](/f32/package/inkscape) | 20469 | 40929 | 50.0 | gist | 
 {.sortable}
 
 

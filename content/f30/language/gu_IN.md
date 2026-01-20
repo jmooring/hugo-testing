@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-jboss]({{< ref "/f30/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Gujarati | 
- | [publican-fedora]({{< ref "/f30/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [publican-jboss](/f30/package/publican-jboss) | 120 | 232 | 51.7 | Gujarati | 
+ | [publican-fedora](/f30/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

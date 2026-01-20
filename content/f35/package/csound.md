@@ -18,12 +18,12 @@ The package csound (version 6.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 19265 | 19271 | 100.0 | /mnt/stockage/packages/f35/csound/po/french.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 12002 | 19271 | 62.3 | /mnt/stockage/packages/f35/csound/po/italian.po | 
- | [es_CO]({{< ref "/f35/language/es_CO.md" >}}) | 2441 | 19271 | 12.7 | /mnt/stockage/packages/f35/csound/po/es_CO.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1538 | 19271 | 8.0 | /mnt/stockage/packages/f35/csound/po/german.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 2542 | 57813 | 4.4 | /mnt/stockage/packages/f35/csound/po/spanish.po/mnt/stockage/packages/f35/csound/po/csound.po/mnt/stockage/packages/f35/csound/po/american.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 58 | 38542 | 0.2 | /mnt/stockage/packages/f35/csound/po/russian.po/mnt/stockage/packages/f35/csound/po/romanian.po | 
+ | [fr](/f35/language/fr) | 19265 | 19271 | 100.0 | /mnt/stockage/packages/f35/csound/po/french.po | 
+ | [it](/f35/language/it) | 12002 | 19271 | 62.3 | /mnt/stockage/packages/f35/csound/po/italian.po | 
+ | [es_CO](/f35/language/es_CO) | 2441 | 19271 | 12.7 | /mnt/stockage/packages/f35/csound/po/es_CO.po | 
+ | [de](/f35/language/de) | 1538 | 19271 | 8.0 | /mnt/stockage/packages/f35/csound/po/german.po | 
+ | [en_GB](/f35/language/en_GB) | 2542 | 57813 | 4.4 | /mnt/stockage/packages/f35/csound/po/spanish.po/mnt/stockage/packages/f35/csound/po/csound.po/mnt/stockage/packages/f35/csound/po/american.po | 
+ | [error](/f35/language/error) | 58 | 38542 | 0.2 | /mnt/stockage/packages/f35/csound/po/russian.po/mnt/stockage/packages/f35/csound/po/romanian.po | 
 {.sortable}
 
 

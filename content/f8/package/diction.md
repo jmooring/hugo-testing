@@ -18,8 +18,8 @@ The package diction (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f8/diction/de.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 457 | 457 | 100.0 | /mnt/stockage/packages/f8/diction/en_GB.po | 
+ | [de](/f8/language/de) | 457 | 457 | 100.0 | /mnt/stockage/packages/f8/diction/de.po | 
+ | [en_GB](/f8/language/en_GB) | 457 | 457 | 100.0 | /mnt/stockage/packages/f8/diction/en_GB.po | 
 {.sortable}
 
 

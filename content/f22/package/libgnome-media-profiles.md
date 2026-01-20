@@ -18,86 +18,86 @@ The package libgnome-media-profiles (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ar.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bg.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ca@valencia.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 1298 | 1298 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/da/da.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/de/de.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1298 | 1298 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/el/el.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/es/es.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/eu.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/fr/fr.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/gl.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ja.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/lv.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nl.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/sk.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 920 | 920 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/sr.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/sr@latin.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ug.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1298 | 1298 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/zh_CN/zh_CN.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/zh_HK.po | 
- | [as]({{< ref "/f22/language/as.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/as.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ast.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bn.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bn_IN.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/fi.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/gu.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/kn.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ml.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mr.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nn.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/or.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 432 | 460 | 93.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/vi.po | 
- | [be_Latn]({{< ref "/f22/language/be_Latn.md" >}}) | 389 | 460 | 84.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/be@latin.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/be.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/dz.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mk.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ne.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/sq.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 740 | 920 | 80.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/hi.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/mai.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 958 | 1298 | 73.8 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/sv/sv.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/sv.po | 
- | [cy]({{< ref "/f22/language/cy.md" >}}) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/cy.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/en_CA.po | 
- | [mg]({{< ref "/f22/language/mg.md" >}}) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mg.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mn.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 286 | 460 | 62.2 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/hr.po | 
- | [az]({{< ref "/f22/language/az.md" >}}) | 232 | 460 | 50.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/az.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 232 | 460 | 50.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bs.po | 
- | [xh]({{< ref "/f22/language/xh.md" >}}) | 232 | 460 | 50.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/xh.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 202 | 460 | 43.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/fa.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 184 | 460 | 40.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/en@shaw.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 172 | 460 | 37.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ms.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 474 | 1297 | 36.5 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/sl/sl.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/sl.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 138 | 460 | 30.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/af.po | 
- | [wa]({{< ref "/f22/language/wa.md" >}}) | 119 | 460 | 25.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/wa.po | 
- | [ku]({{< ref "/f22/language/ku.md" >}}) | 112 | 460 | 24.3 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ku.po | 
- | [br]({{< ref "/f22/language/br.md" >}}) | 91 | 460 | 19.8 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/br.po | 
- | [nds]({{< ref "/f22/language/nds.md" >}}) | 84 | 460 | 18.3 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nds.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 48 | 460 | 10.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/si.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 31 | 460 | 6.7 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/oc.po | 
- | [ga]({{< ref "/f22/language/ga.md" >}}) | 13 | 460 | 2.8 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ga.po | 
+ | [ar](/f22/language/ar) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ar.po | 
+ | [bg](/f22/language/bg) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bg.po | 
+ | [ca](/f22/language/ca) | 920 | 920 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ca@valencia.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/ca.po | 
+ | [cs](/f22/language/cs) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/cs.po | 
+ | [da](/f22/language/da) | 1298 | 1298 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/da/da.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/da.po | 
+ | [de](/f22/language/de) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/de/de.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/de.po | 
+ | [el](/f22/language/el) | 1298 | 1298 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/el/el.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/en_GB.po | 
+ | [es](/f22/language/es) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/es/es.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/es.po | 
+ | [et](/f22/language/et) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/et.po | 
+ | [eu](/f22/language/eu) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/eu.po | 
+ | [fr](/f22/language/fr) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/fr/fr.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/fr.po | 
+ | [gl](/f22/language/gl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/gl.po | 
+ | [he](/f22/language/he) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/he.po | 
+ | [hu](/f22/language/hu) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/hu.po | 
+ | [id](/f22/language/id) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/id.po | 
+ | [it](/f22/language/it) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/it.po | 
+ | [ja](/f22/language/ja) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ja.po | 
+ | [ko](/f22/language/ko) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ko.po | 
+ | [lt](/f22/language/lt) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/lt.po | 
+ | [lv](/f22/language/lv) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/lv.po | 
+ | [nb_NO](/f22/language/nb_NO) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nb.po | 
+ | [nl](/f22/language/nl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nl.po | 
+ | [pa](/f22/language/pa) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pa.po | 
+ | [pl](/f22/language/pl) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pl.po | 
+ | [pt](/f22/language/pt) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ro.po | 
+ | [ru](/f22/language/ru) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ru.po | 
+ | [sk](/f22/language/sk) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/sk.po | 
+ | [sr](/f22/language/sr) | 920 | 920 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/sr.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/sr@latin.po | 
+ | [ug](/f22/language/ug) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ug.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1298 | 1298 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/zh_CN/zh_CN.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 460 | 460 | 100.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/zh_HK.po | 
+ | [as](/f22/language/as) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/as.po | 
+ | [ast](/f22/language/ast) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ast.po | 
+ | [bn](/f22/language/bn) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bn.po | 
+ | [bn_IN](/f22/language/bn_IN) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bn_IN.po | 
+ | [fi](/f22/language/fi) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/fi.po | 
+ | [gu](/f22/language/gu) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/gu.po | 
+ | [kn](/f22/language/kn) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/kn.po | 
+ | [ml](/f22/language/ml) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ml.po | 
+ | [mr](/f22/language/mr) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mr.po | 
+ | [nn](/f22/language/nn) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nn.po | 
+ | [or](/f22/language/or) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/or.po | 
+ | [ta](/f22/language/ta) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ta.po | 
+ | [te](/f22/language/te) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/te.po | 
+ | [th](/f22/language/th) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/th.po | 
+ | [tr](/f22/language/tr) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/tr.po | 
+ | [uk](/f22/language/uk) | 446 | 460 | 97.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/uk.po | 
+ | [vi](/f22/language/vi) | 432 | 460 | 93.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/vi.po | 
+ | [be_Latn](/f22/language/be_Latn) | 389 | 460 | 84.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/be@latin.po | 
+ | [be](/f22/language/be) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/be.po | 
+ | [dz](/f22/language/dz) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/dz.po | 
+ | [mk](/f22/language/mk) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mk.po | 
+ | [ne](/f22/language/ne) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ne.po | 
+ | [sq](/f22/language/sq) | 386 | 460 | 83.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/sq.po | 
+ | [hi](/f22/language/hi) | 740 | 920 | 80.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/hi.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/mai.po | 
+ | [sv](/f22/language/sv) | 958 | 1298 | 73.8 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/sv/sv.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/sv.po | 
+ | [cy](/f22/language/cy) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/cy.po | 
+ | [en_CA](/f22/language/en_CA) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/en_CA.po | 
+ | [mg](/f22/language/mg) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mg.po | 
+ | [mn](/f22/language/mn) | 288 | 460 | 62.6 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/mn.po | 
+ | [hr](/f22/language/hr) | 286 | 460 | 62.2 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/hr.po | 
+ | [az](/f22/language/az) | 232 | 460 | 50.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/az.po | 
+ | [bs](/f22/language/bs) | 232 | 460 | 50.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/bs.po | 
+ | [xh](/f22/language/xh) | 232 | 460 | 50.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/xh.po | 
+ | [fa](/f22/language/fa) | 202 | 460 | 43.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/fa.po | 
+ | [error](/f22/language/error) | 184 | 460 | 40.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/en@shaw.po | 
+ | [ms](/f22/language/ms) | 172 | 460 | 37.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ms.po | 
+ | [sl](/f22/language/sl) | 474 | 1297 | 36.5 | /mnt/stockage/packages/f22/libgnome-media-profiles/help/sl/sl.po/mnt/stockage/packages/f22/libgnome-media-profiles/po/sl.po | 
+ | [af](/f22/language/af) | 138 | 460 | 30.0 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/af.po | 
+ | [wa](/f22/language/wa) | 119 | 460 | 25.9 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/wa.po | 
+ | [ku](/f22/language/ku) | 112 | 460 | 24.3 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ku.po | 
+ | [br](/f22/language/br) | 91 | 460 | 19.8 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/br.po | 
+ | [nds](/f22/language/nds) | 84 | 460 | 18.3 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/nds.po | 
+ | [si](/f22/language/si) | 48 | 460 | 10.4 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/si.po | 
+ | [oc](/f22/language/oc) | 31 | 460 | 6.7 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/oc.po | 
+ | [ga](/f22/language/ga) | 13 | 460 | 2.8 | /mnt/stockage/packages/f22/libgnome-media-profiles/po/ga.po | 
 {.sortable}
 
 

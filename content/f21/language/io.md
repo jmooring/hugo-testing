@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f21/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
- | [mozo]({{< ref "/f21/package/mozo.md" >}}) | 42 | 42 | 100.0 | Ido <mate-ido@lists.mterry.name> | 
- | [lxmenu-data]({{< ref "/f21/package/lxmenu-data.md" >}}) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [gnome-menus]({{< ref "/f21/package/gnome-menus.md" >}}) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
- | [mate-menus]({{< ref "/f21/package/mate-menus.md" >}}) | 86 | 165 | 52.1 | Ido <mate-ido@lists.mterry.name> | 
- | [gwibber]({{< ref "/f21/package/gwibber.md" >}}) | 175 | 769 | 22.8 | Ido <io@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f21/package/gdk-pixbuf2.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gdk-pixbuf]({{< ref "/f21/package/mingw-gdk-pixbuf.md" >}}) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
- | [caja]({{< ref "/f21/package/caja.md" >}}) | 1293 | 7454 | 17.3 | Ido <mate-ido@lists.mterry.name> | 
- | [nautilus]({{< ref "/f21/package/nautilus.md" >}}) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk2]({{< ref "/f21/package/gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk2]({{< ref "/f21/package/mingw-gtk2.md" >}}) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
- | [gtk3]({{< ref "/f21/package/gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [mingw-gtk3]({{< ref "/f21/package/mingw-gtk3.md" >}}) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
- | [librfm]({{< ref "/f21/package/librfm.md" >}}) | 64 | 2397 | 2.7 | Ido <gnome-ido@lists.mterry.name> | 
- | [duplicity]({{< ref "/f21/package/duplicity.md" >}}) | 68 | 3402 | 2.0 | Ido | 
- | [deja-dup]({{< ref "/f21/package/deja-dup.md" >}}) | 31 | 1824 | 1.7 | Ido <io@li.org> | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [rodent]({{< ref "/f21/package/rodent.md" >}}) | 71 | 9634 | 0.7 | Ido <gnome-ido@lists.mterry.name> | 
+ | [alacarte](/f21/package/alacarte) | 42 | 42 | 100.0 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mozo](/f21/package/mozo) | 42 | 42 | 100.0 | Ido <mate-ido@lists.mterry.name> | 
+ | [lxmenu-data](/f21/package/lxmenu-data) | 52 | 97 | 53.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gnome-menus](/f21/package/gnome-menus) | 86 | 165 | 52.1 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mate-menus](/f21/package/mate-menus) | 86 | 165 | 52.1 | Ido <mate-ido@lists.mterry.name> | 
+ | [gwibber](/f21/package/gwibber) | 175 | 769 | 22.8 | Ido <io@li.org> | 
+ | [gdk-pixbuf2](/f21/package/gdk-pixbuf2) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gdk-pixbuf](/f21/package/mingw-gdk-pixbuf) | 299 | 1348 | 22.2 | Ido <gnome-ido@lists.mterry.name> | 
+ | [caja](/f21/package/caja) | 1293 | 7454 | 17.3 | Ido <mate-ido@lists.mterry.name> | 
+ | [nautilus](/f21/package/nautilus) | 1293 | 7454 | 17.3 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk2](/f21/package/gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk2](/f21/package/mingw-gtk2) | 1168 | 13704 | 8.5 | Ido <gnome-ido@lists.mterry.name> | 
+ | [gtk3](/f21/package/gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [mingw-gtk3](/f21/package/mingw-gtk3) | 782 | 11853 | 6.6 | Ido <gnome-ido@lists.mterry.name> | 
+ | [librfm](/f21/package/librfm) | 64 | 2397 | 2.7 | Ido <gnome-ido@lists.mterry.name> | 
+ | [duplicity](/f21/package/duplicity) | 68 | 3402 | 2.0 | Ido | 
+ | [deja-dup](/f21/package/deja-dup) | 31 | 1824 | 1.7 | Ido <io@li.org> | 
+ | [isomaster](/f21/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [rodent](/f21/package/rodent) | 71 | 9634 | 0.7 | Ido <gnome-ido@lists.mterry.name> | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package fcitx-keyboard (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f18/fcitx-keyboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f18/fcitx-keyboard/po/zh_TW.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 91 | 91 | 100.0 | /mnt/stockage/packages/f18/fcitx-keyboard/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 91 | 91 | 100.0 | /mnt/stockage/packages/f18/fcitx-keyboard/po/zh_TW.po | 
 {.sortable}
 
 

@@ -38,22 +38,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libkexif]({{< ref "/f9/package/libkexif.md" >}}) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
- | [libkipi]({{< ref "/f9/package/libkipi.md" >}}) | 69 | 83 | 83.1 | Maltese <mt@li.org> | 
- | [ksynaptics]({{< ref "/f9/package/ksynaptics.md" >}}) | 472 | 655 | 72.1 | Maltese <mt@li.org> | 
- | [stellarium]({{< ref "/f9/package/stellarium.md" >}}) | 810 | 1147 | 70.6 | Maltese <mt@li.org> | 
- | [kipi-plugins]({{< ref "/f9/package/kipi-plugins.md" >}}) | 859 | 9211 | 9.3 | Maltese <mt@li.org> | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 814 | 12339 | 6.6 | Maltese <mt@li.org> | 
- | [showimg]({{< ref "/f9/package/showimg.md" >}}) | 6 | 4305 | 0.1 | Maltese <mt@li.org> | 
- | [kst]({{< ref "/f9/package/kst.md" >}}) | 1 | 6817 | 0.0 | Maltese <mt@li.org> | 
- | [digikam]({{< ref "/f9/package/digikam.md" >}}) | 0 | 16526 | 0.0 | <en@li.org> | 
- | [kdebluetooth]({{< ref "/f9/package/kdebluetooth.md" >}}) | 0 | 1517 | 0.0 | <en@li.org> | 
- | [kdetv]({{< ref "/f9/package/kdetv.md" >}}) | 0 | 2206 | 0.0 | <en@li.org> | 
- | [kile]({{< ref "/f9/package/kile.md" >}}) | 0 | 10421 | 0.0 | Maltese <mt@li.org> | 
- | [kiosktool]({{< ref "/f9/package/kiosktool.md" >}}) | 0 | 2289 | 0.0 | <en@li.org> | 
- | [kmplayer]({{< ref "/f9/package/kmplayer.md" >}}) | 0 | 1251 | 0.0 | Maltese <mt@li.org> | 
- | [kphotoalbum]({{< ref "/f9/package/kphotoalbum.md" >}}) | 0 | 6028 | 0.0 | Maltese <mt@li.org> | 
- | [krecipes]({{< ref "/f9/package/krecipes.md" >}}) | 0 | 2940 | 0.0 | <en@li.org> | 
+ | [libkexif](/f9/package/libkexif) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
+ | [libkipi](/f9/package/libkipi) | 69 | 83 | 83.1 | Maltese <mt@li.org> | 
+ | [ksynaptics](/f9/package/ksynaptics) | 472 | 655 | 72.1 | Maltese <mt@li.org> | 
+ | [stellarium](/f9/package/stellarium) | 810 | 1147 | 70.6 | Maltese <mt@li.org> | 
+ | [kipi-plugins](/f9/package/kipi-plugins) | 859 | 9211 | 9.3 | Maltese <mt@li.org> | 
+ | [iso-codes](/f9/package/iso-codes) | 814 | 12339 | 6.6 | Maltese <mt@li.org> | 
+ | [showimg](/f9/package/showimg) | 6 | 4305 | 0.1 | Maltese <mt@li.org> | 
+ | [kst](/f9/package/kst) | 1 | 6817 | 0.0 | Maltese <mt@li.org> | 
+ | [digikam](/f9/package/digikam) | 0 | 16526 | 0.0 | <en@li.org> | 
+ | [kdebluetooth](/f9/package/kdebluetooth) | 0 | 1517 | 0.0 | <en@li.org> | 
+ | [kdetv](/f9/package/kdetv) | 0 | 2206 | 0.0 | <en@li.org> | 
+ | [kile](/f9/package/kile) | 0 | 10421 | 0.0 | Maltese <mt@li.org> | 
+ | [kiosktool](/f9/package/kiosktool) | 0 | 2289 | 0.0 | <en@li.org> | 
+ | [kmplayer](/f9/package/kmplayer) | 0 | 1251 | 0.0 | Maltese <mt@li.org> | 
+ | [kphotoalbum](/f9/package/kphotoalbum) | 0 | 6028 | 0.0 | Maltese <mt@li.org> | 
+ | [krecipes](/f9/package/krecipes) | 0 | 2940 | 0.0 | <en@li.org> | 
 {.sortable}
 
 

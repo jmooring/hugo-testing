@@ -18,12 +18,12 @@ The package gimp-help (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f9/language/it.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/it.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 529 | 529 | 100.0 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/sv.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 527 | 529 | 99.6 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 518 | 529 | 97.9 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 476 | 529 | 90.0 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/ru.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 430 | 529 | 81.3 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/de.po | 
+ | [it](/f9/language/it) | 529 | 529 | 100.0 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/it.po | 
+ | [sv](/f9/language/sv) | 529 | 529 | 100.0 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/sv.po | 
+ | [es](/f9/language/es) | 527 | 529 | 99.6 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/es.po | 
+ | [fr](/f9/language/fr) | 518 | 529 | 97.9 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/fr.po | 
+ | [ru](/f9/language/ru) | 476 | 529 | 90.0 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/ru.po | 
+ | [de](/f9/language/de) | 430 | 529 | 81.3 | /mnt/stockage/packages/f9/gimp-help/quickreference/po/de.po | 
 {.sortable}
 
 

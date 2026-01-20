@@ -18,42 +18,42 @@ The package tortoisehg (version 4.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 13143 | 13143 | 100.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/fr.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 13143 | 13143 | 100.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/pt_BR.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 13088 | 13143 | 99.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/en_GB.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 12781 | 13143 | 97.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ru.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 12458 | 13143 | 94.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/cs.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 11910 | 13143 | 90.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/uk.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 11747 | 13143 | 89.4 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/th.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 11714 | 13143 | 89.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/de.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 9886 | 13143 | 75.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/nl.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 9310 | 13143 | 70.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/zh_CN.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 8639 | 13143 | 65.7 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ja.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 5835 | 13143 | 44.4 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/zh_TW.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 4262 | 13143 | 32.4 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/da.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 4237 | 13143 | 32.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 3567 | 13143 | 27.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/pt.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 2919 | 13143 | 22.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/it.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 2071 | 13143 | 15.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/en_AU.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1788 | 13143 | 13.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/es.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 864 | 13143 | 6.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/id.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 791 | 13143 | 6.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/hu.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 637 | 13143 | 4.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ko.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 465 | 13143 | 3.5 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/hr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 271 | 13143 | 2.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/sv.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 140 | 13143 | 1.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/oc.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 128 | 13143 | 1.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/bg.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 106 | 13143 | 0.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/tr.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 90 | 13143 | 0.7 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/et.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 67 | 13143 | 0.5 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ar.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 63 | 13143 | 0.5 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ca.po | 
- | [jv]({{< ref "/f29/language/jv.md" >}}) | 30 | 13143 | 0.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/jv.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 18 | 13143 | 0.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/fa.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 14 | 13143 | 0.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/nb.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 9 | 13143 | 0.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/he.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 6 | 13143 | 0.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/lv.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 0 | 13143 | 0.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/nn.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 0 | 13143 | 0.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/sr.po | 
+ | [fr](/f29/language/fr) | 13143 | 13143 | 100.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/fr.po | 
+ | [pt_BR](/f29/language/pt_BR) | 13143 | 13143 | 100.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/pt_BR.po | 
+ | [en_GB](/f29/language/en_GB) | 13088 | 13143 | 99.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/en_GB.po | 
+ | [ru](/f29/language/ru) | 12781 | 13143 | 97.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ru.po | 
+ | [cs](/f29/language/cs) | 12458 | 13143 | 94.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/cs.po | 
+ | [uk](/f29/language/uk) | 11910 | 13143 | 90.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/uk.po | 
+ | [th](/f29/language/th) | 11747 | 13143 | 89.4 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/th.po | 
+ | [de](/f29/language/de) | 11714 | 13143 | 89.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/de.po | 
+ | [nl](/f29/language/nl) | 9886 | 13143 | 75.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/nl.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 9310 | 13143 | 70.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/zh_CN.po | 
+ | [ja](/f29/language/ja) | 8639 | 13143 | 65.7 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ja.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 5835 | 13143 | 44.4 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/zh_TW.po | 
+ | [da](/f29/language/da) | 4262 | 13143 | 32.4 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/da.po | 
+ | [pl](/f29/language/pl) | 4237 | 13143 | 32.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/pl.po | 
+ | [pt](/f29/language/pt) | 3567 | 13143 | 27.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/pt.po | 
+ | [it](/f29/language/it) | 2919 | 13143 | 22.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/it.po | 
+ | [en_AU](/f29/language/en_AU) | 2071 | 13143 | 15.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/en_AU.po | 
+ | [es](/f29/language/es) | 1788 | 13143 | 13.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/es.po | 
+ | [id](/f29/language/id) | 864 | 13143 | 6.6 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/id.po | 
+ | [hu](/f29/language/hu) | 791 | 13143 | 6.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/hu.po | 
+ | [ko](/f29/language/ko) | 637 | 13143 | 4.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ko.po | 
+ | [hr](/f29/language/hr) | 465 | 13143 | 3.5 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/hr.po | 
+ | [sv](/f29/language/sv) | 271 | 13143 | 2.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/sv.po | 
+ | [oc](/f29/language/oc) | 140 | 13143 | 1.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/oc.po | 
+ | [bg](/f29/language/bg) | 128 | 13143 | 1.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/bg.po | 
+ | [tr](/f29/language/tr) | 106 | 13143 | 0.8 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/tr.po | 
+ | [et](/f29/language/et) | 90 | 13143 | 0.7 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/et.po | 
+ | [ar](/f29/language/ar) | 67 | 13143 | 0.5 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ar.po | 
+ | [ca](/f29/language/ca) | 63 | 13143 | 0.5 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/ca.po | 
+ | [jv](/f29/language/jv) | 30 | 13143 | 0.2 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/jv.po | 
+ | [fa](/f29/language/fa) | 18 | 13143 | 0.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/fa.po | 
+ | [nb_NO](/f29/language/nb_NO) | 14 | 13143 | 0.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/nb.po | 
+ | [he](/f29/language/he) | 9 | 13143 | 0.1 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/he.po | 
+ | [lv](/f29/language/lv) | 6 | 13143 | 0.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/lv.po | 
+ | [nn](/f29/language/nn) | 0 | 13143 | 0.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/nn.po | 
+ | [sr](/f29/language/sr) | 0 | 13143 | 0.0 | /mnt/stockage/packages/f29/tortoisehg/i18n/tortoisehg/sr.po | 
 {.sortable}
 
 

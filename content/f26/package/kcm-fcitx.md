@@ -18,13 +18,13 @@ The package kcm-fcitx (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/ca.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/de.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/ru.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/zh_TW.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 226 | 260 | 86.9 | /mnt/stockage/packages/f26/kcm-fcitx/po/ja.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 69 | 260 | 26.5 | /mnt/stockage/packages/f26/kcm-fcitx/po/vi.po | 
+ | [ca](/f26/language/ca) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/ca.po | 
+ | [de](/f26/language/de) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/de.po | 
+ | [ru](/f26/language/ru) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/ru.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 260 | 260 | 100.0 | /mnt/stockage/packages/f26/kcm-fcitx/po/zh_TW.po | 
+ | [ja](/f26/language/ja) | 226 | 260 | 86.9 | /mnt/stockage/packages/f26/kcm-fcitx/po/ja.po | 
+ | [vi](/f26/language/vi) | 69 | 260 | 26.5 | /mnt/stockage/packages/f26/kcm-fcitx/po/vi.po | 
 {.sortable}
 
 

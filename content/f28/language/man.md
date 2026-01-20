@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f28/package/davfs2.md" >}}) | 5656 | 5656 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f28/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [man-db]({{< ref "/f28/package/man-db.md" >}}) | 2635 | 8338 | 31.6 | Danish <dansk@dansk-gruppen.dk> | 
- | [shadow-utils]({{< ref "/f28/package/shadow-utils.md" >}}) | 2133 | 16788 | 12.7 | Danish <debian-l10n-danish@lists.debian.org> | 
- | [po4a]({{< ref "/f28/package/po4a.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f28/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f28/package/davfs2) | 5656 | 5656 | 100.0 |  | 
+ | [kde-i18n](/f28/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [man-db](/f28/package/man-db) | 2635 | 8338 | 31.6 | Danish <dansk@dansk-gruppen.dk> | 
+ | [shadow-utils](/f28/package/shadow-utils) | 2133 | 16788 | 12.7 | Danish <debian-l10n-danish@lists.debian.org> | 
+ | [po4a](/f28/package/po4a) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f28/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

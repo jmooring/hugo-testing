@@ -18,30 +18,30 @@ The package ptyxis (version 47.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/en_GB.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/fr.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/hi.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/ja.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1446 | 1446 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/nl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 1642 | 1642 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/ru.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/sl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/zh_CN.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 1643 | 1644 | 99.9 | /mnt/stockage/packages/f41/ptyxis/po/cs.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 1524 | 1601 | 95.2 | /mnt/stockage/packages/f41/ptyxis/po/eu.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 1389 | 1644 | 84.5 | /mnt/stockage/packages/f41/ptyxis/po/be.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1345 | 1644 | 81.8 | /mnt/stockage/packages/f41/ptyxis/po/fi.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 810 | 1642 | 49.3 | /mnt/stockage/packages/f41/ptyxis/po/he.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 386 | 1644 | 23.5 | /mnt/stockage/packages/f41/ptyxis/po/ka.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 201 | 1644 | 12.2 | /mnt/stockage/packages/f41/ptyxis/po/fa.po | 
+ | [de](/f41/language/de) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/en_GB.po | 
+ | [es](/f41/language/es) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/es.po | 
+ | [fr](/f41/language/fr) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/fr.po | 
+ | [hi](/f41/language/hi) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/hi.po | 
+ | [id](/f41/language/id) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/id.po | 
+ | [it](/f41/language/it) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/it.po | 
+ | [ja](/f41/language/ja) | 1472 | 1472 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/ja.po | 
+ | [nb_NO](/f41/language/nb_NO) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/nb.po | 
+ | [nl](/f41/language/nl) | 1446 | 1446 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/nl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 1642 | 1642 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/ru.po | 
+ | [sl](/f41/language/sl) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/sl.po | 
+ | [sv](/f41/language/sv) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/sv.po | 
+ | [tr](/f41/language/tr) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/tr.po | 
+ | [uk](/f41/language/uk) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1644 | 1644 | 100.0 | /mnt/stockage/packages/f41/ptyxis/po/zh_CN.po | 
+ | [cs](/f41/language/cs) | 1643 | 1644 | 99.9 | /mnt/stockage/packages/f41/ptyxis/po/cs.po | 
+ | [eu](/f41/language/eu) | 1524 | 1601 | 95.2 | /mnt/stockage/packages/f41/ptyxis/po/eu.po | 
+ | [be](/f41/language/be) | 1389 | 1644 | 84.5 | /mnt/stockage/packages/f41/ptyxis/po/be.po | 
+ | [fi](/f41/language/fi) | 1345 | 1644 | 81.8 | /mnt/stockage/packages/f41/ptyxis/po/fi.po | 
+ | [he](/f41/language/he) | 810 | 1642 | 49.3 | /mnt/stockage/packages/f41/ptyxis/po/he.po | 
+ | [ka](/f41/language/ka) | 386 | 1644 | 23.5 | /mnt/stockage/packages/f41/ptyxis/po/ka.po | 
+ | [fa](/f41/language/fa) | 201 | 1644 | 12.2 | /mnt/stockage/packages/f41/ptyxis/po/fa.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package gcal (version 4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 4998 | 5006 | 99.8 | /mnt/stockage/packages/f40/gcal/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 4998 | 5006 | 99.8 | /mnt/stockage/packages/f40/gcal/po/fr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 4998 | 5006 | 99.8 | /mnt/stockage/packages/f40/gcal/po/sv.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 4918 | 5006 | 98.2 | /mnt/stockage/packages/f40/gcal/po/es.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 4918 | 5006 | 98.2 | /mnt/stockage/packages/f40/gcal/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 4902 | 5006 | 97.9 | /mnt/stockage/packages/f40/gcal/po/zh_CN.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 4873 | 5006 | 97.3 | /mnt/stockage/packages/f40/gcal/po/ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 2872 | 5006 | 57.4 | /mnt/stockage/packages/f40/gcal/po/da.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1795 | 5006 | 35.9 | /mnt/stockage/packages/f40/gcal/po/nl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1641 | 5006 | 32.8 | /mnt/stockage/packages/f40/gcal/po/ru.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1611 | 5006 | 32.2 | /mnt/stockage/packages/f40/gcal/po/it.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1544 | 5006 | 30.8 | /mnt/stockage/packages/f40/gcal/po/pl.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 225 | 5006 | 4.5 | /mnt/stockage/packages/f40/gcal/po/lt.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 37 | 5006 | 0.7 | /mnt/stockage/packages/f40/gcal/po/rw.po | 
+ | [de](/f40/language/de) | 4998 | 5006 | 99.8 | /mnt/stockage/packages/f40/gcal/po/de.po | 
+ | [fr](/f40/language/fr) | 4998 | 5006 | 99.8 | /mnt/stockage/packages/f40/gcal/po/fr.po | 
+ | [sv](/f40/language/sv) | 4998 | 5006 | 99.8 | /mnt/stockage/packages/f40/gcal/po/sv.po | 
+ | [es](/f40/language/es) | 4918 | 5006 | 98.2 | /mnt/stockage/packages/f40/gcal/po/es.po | 
+ | [tr](/f40/language/tr) | 4918 | 5006 | 98.2 | /mnt/stockage/packages/f40/gcal/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 4902 | 5006 | 97.9 | /mnt/stockage/packages/f40/gcal/po/zh_CN.po | 
+ | [ca](/f40/language/ca) | 4873 | 5006 | 97.3 | /mnt/stockage/packages/f40/gcal/po/ca.po | 
+ | [da](/f40/language/da) | 2872 | 5006 | 57.4 | /mnt/stockage/packages/f40/gcal/po/da.po | 
+ | [nl](/f40/language/nl) | 1795 | 5006 | 35.9 | /mnt/stockage/packages/f40/gcal/po/nl.po | 
+ | [ru](/f40/language/ru) | 1641 | 5006 | 32.8 | /mnt/stockage/packages/f40/gcal/po/ru.po | 
+ | [it](/f40/language/it) | 1611 | 5006 | 32.2 | /mnt/stockage/packages/f40/gcal/po/it.po | 
+ | [pl](/f40/language/pl) | 1544 | 5006 | 30.8 | /mnt/stockage/packages/f40/gcal/po/pl.po | 
+ | [lt](/f40/language/lt) | 225 | 5006 | 4.5 | /mnt/stockage/packages/f40/gcal/po/lt.po | 
+ | [rw](/f40/language/rw) | 37 | 5006 | 0.7 | /mnt/stockage/packages/f40/gcal/po/rw.po | 
 {.sortable}
 
 

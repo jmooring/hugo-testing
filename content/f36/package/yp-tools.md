@@ -18,8 +18,8 @@ The package yp-tools (version 4.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 782 | 905 | 86.4 | /mnt/stockage/packages/f36/yp-tools/po/de.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 782 | 905 | 86.4 | /mnt/stockage/packages/f36/yp-tools/po/sv.po | 
+ | [de](/f36/language/de) | 782 | 905 | 86.4 | /mnt/stockage/packages/f36/yp-tools/po/de.po | 
+ | [sv](/f36/language/sv) | 782 | 905 | 86.4 | /mnt/stockage/packages/f36/yp-tools/po/sv.po | 
 {.sortable}
 
 

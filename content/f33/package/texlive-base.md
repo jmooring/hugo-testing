@@ -18,9 +18,9 @@ The package texlive-base (version 20200327):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/de/cweb-tl.po/mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/de/cweb.po/mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/de/web2c-help.po/mnt/stockage/packages/f33/texlive-base/texmf-dist/doc/support/latex-git-log/po/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 578 | 578 | 100.0 | /mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/it/cweb.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f33/texlive-base/utils/asymptote/GUI/locale/th/LC_MESSAGES/base.po | 
+ | [de](/f33/language/de) | 811 | 811 | 100.0 | /mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/de/cweb-tl.po/mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/de/cweb.po/mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/de/web2c-help.po/mnt/stockage/packages/f33/texlive-base/texmf-dist/doc/support/latex-git-log/po/de.po | 
+ | [it](/f33/language/it) | 578 | 578 | 100.0 | /mnt/stockage/packages/f33/texlive-base/texk/web2c/cwebdir/po/it/cweb.po | 
+ | [th](/f33/language/th) | 1 | 1 | 100.0 | /mnt/stockage/packages/f33/texlive-base/utils/asymptote/GUI/locale/th/LC_MESSAGES/base.po | 
 {.sortable}
 
 

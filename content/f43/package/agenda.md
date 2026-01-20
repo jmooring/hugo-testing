@@ -18,44 +18,44 @@ The package agenda (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f43/agenda/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f43/agenda/po/it.po/mnt/stockage/packages/f43/agenda/po/extra/it.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 214 | 261 | 82.0 | /mnt/stockage/packages/f43/agenda/po/nl.po/mnt/stockage/packages/f43/agenda/po/extra/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 214 | 261 | 82.0 | /mnt/stockage/packages/f43/agenda/po/pt.po/mnt/stockage/packages/f43/agenda/po/extra/pt.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 168 | 261 | 64.4 | /mnt/stockage/packages/f43/agenda/po/ja.po/mnt/stockage/packages/f43/agenda/po/extra/ja.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 93 | 261 | 35.6 | /mnt/stockage/packages/f43/agenda/po/oc.po/mnt/stockage/packages/f43/agenda/po/extra/oc.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/es.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/lt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/pt_BR.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/sr.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/tr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/zh_CN.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/ca.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/gl.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/ka.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/ms.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/nn.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 7 | 64 | 10.9 | /mnt/stockage/packages/f43/agenda/po/ur.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/da.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/en_GB.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/et.po | 
- | [fr_CA]({{< ref "/f43/language/fr_CA.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/fr_CA.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/km.po | 
- | [la]({{< ref "/f43/language/la.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/la.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/nb.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/sr@latin.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/sv.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/ug.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 17 | 261 | 6.5 | /mnt/stockage/packages/f43/agenda/po/ru.po/mnt/stockage/packages/f43/agenda/po/extra/ru.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 11 | 261 | 4.2 | /mnt/stockage/packages/f43/agenda/po/pl.po/mnt/stockage/packages/f43/agenda/po/extra/pl.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/eo.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/fi.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/he.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/id.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f43/agenda/po/af.po | 
+ | [fr](/f43/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f43/agenda/po/fr.po | 
+ | [it](/f43/language/it) | 261 | 261 | 100.0 | /mnt/stockage/packages/f43/agenda/po/it.po/mnt/stockage/packages/f43/agenda/po/extra/it.po | 
+ | [nl](/f43/language/nl) | 214 | 261 | 82.0 | /mnt/stockage/packages/f43/agenda/po/nl.po/mnt/stockage/packages/f43/agenda/po/extra/nl.po | 
+ | [pt](/f43/language/pt) | 214 | 261 | 82.0 | /mnt/stockage/packages/f43/agenda/po/pt.po/mnt/stockage/packages/f43/agenda/po/extra/pt.po | 
+ | [ja](/f43/language/ja) | 168 | 261 | 64.4 | /mnt/stockage/packages/f43/agenda/po/ja.po/mnt/stockage/packages/f43/agenda/po/extra/ja.po | 
+ | [oc](/f43/language/oc) | 93 | 261 | 35.6 | /mnt/stockage/packages/f43/agenda/po/oc.po/mnt/stockage/packages/f43/agenda/po/extra/oc.po | 
+ | [de](/f43/language/de) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/de.po | 
+ | [es](/f43/language/es) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/es.po | 
+ | [ko](/f43/language/ko) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/ko.po | 
+ | [lt](/f43/language/lt) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/lt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/pt_BR.po | 
+ | [sr](/f43/language/sr) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/sr.po | 
+ | [tr](/f43/language/tr) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/tr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 10 | 64 | 15.6 | /mnt/stockage/packages/f43/agenda/po/zh_CN.po | 
+ | [ca](/f43/language/ca) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/ca.po | 
+ | [gl](/f43/language/gl) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/gl.po | 
+ | [ka](/f43/language/ka) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/ka.po | 
+ | [ms](/f43/language/ms) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/ms.po | 
+ | [nn](/f43/language/nn) | 8 | 64 | 12.5 | /mnt/stockage/packages/f43/agenda/po/nn.po | 
+ | [ur](/f43/language/ur) | 7 | 64 | 10.9 | /mnt/stockage/packages/f43/agenda/po/ur.po | 
+ | [da](/f43/language/da) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/da.po | 
+ | [el](/f43/language/el) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/en_GB.po | 
+ | [et](/f43/language/et) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/et.po | 
+ | [fr_CA](/f43/language/fr_CA) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/fr_CA.po | 
+ | [km](/f43/language/km) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/km.po | 
+ | [la](/f43/language/la) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/la.po | 
+ | [nb_NO](/f43/language/nb_NO) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/nb.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/sr@latin.po | 
+ | [sv](/f43/language/sv) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/sv.po | 
+ | [ug](/f43/language/ug) | 5 | 64 | 7.8 | /mnt/stockage/packages/f43/agenda/po/ug.po | 
+ | [ru](/f43/language/ru) | 17 | 261 | 6.5 | /mnt/stockage/packages/f43/agenda/po/ru.po/mnt/stockage/packages/f43/agenda/po/extra/ru.po | 
+ | [pl](/f43/language/pl) | 11 | 261 | 4.2 | /mnt/stockage/packages/f43/agenda/po/pl.po/mnt/stockage/packages/f43/agenda/po/extra/pl.po | 
+ | [eo](/f43/language/eo) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/eo.po | 
+ | [fi](/f43/language/fi) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/fi.po | 
+ | [he](/f43/language/he) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/he.po | 
+ | [id](/f43/language/id) | 2 | 64 | 3.1 | /mnt/stockage/packages/f43/agenda/po/id.po | 
+ | [af](/f43/language/af) | 0 | 64 | 0.0 | /mnt/stockage/packages/f43/agenda/po/af.po | 
 {.sortable}
 
 

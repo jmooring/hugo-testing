@@ -18,12 +18,12 @@ The package procps-ng (version 3.3.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 9634 | 9772 | 98.6 | /mnt/stockage/packages/f28/procps-ng/man-po/fr.po/mnt/stockage/packages/f28/procps-ng/po/fr.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 9634 | 9772 | 98.6 | /mnt/stockage/packages/f28/procps-ng/man-po/pl.po/mnt/stockage/packages/f28/procps-ng/po/pl.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 9634 | 9772 | 98.6 | /mnt/stockage/packages/f28/procps-ng/man-po/uk.po/mnt/stockage/packages/f28/procps-ng/po/uk.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 4423 | 4561 | 97.0 | /mnt/stockage/packages/f28/procps-ng/po/vi.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 8324 | 9772 | 85.2 | /mnt/stockage/packages/f28/procps-ng/man-po/de.po/mnt/stockage/packages/f28/procps-ng/po/de.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 151 | 9772 | 1.5 | /mnt/stockage/packages/f28/procps-ng/man-po/zh_CN.po/mnt/stockage/packages/f28/procps-ng/po/zh_CN.po | 
+ | [fr](/f28/language/fr) | 9634 | 9772 | 98.6 | /mnt/stockage/packages/f28/procps-ng/man-po/fr.po/mnt/stockage/packages/f28/procps-ng/po/fr.po | 
+ | [pl](/f28/language/pl) | 9634 | 9772 | 98.6 | /mnt/stockage/packages/f28/procps-ng/man-po/pl.po/mnt/stockage/packages/f28/procps-ng/po/pl.po | 
+ | [uk](/f28/language/uk) | 9634 | 9772 | 98.6 | /mnt/stockage/packages/f28/procps-ng/man-po/uk.po/mnt/stockage/packages/f28/procps-ng/po/uk.po | 
+ | [vi](/f28/language/vi) | 4423 | 4561 | 97.0 | /mnt/stockage/packages/f28/procps-ng/po/vi.po | 
+ | [de](/f28/language/de) | 8324 | 9772 | 85.2 | /mnt/stockage/packages/f28/procps-ng/man-po/de.po/mnt/stockage/packages/f28/procps-ng/po/de.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 151 | 9772 | 1.5 | /mnt/stockage/packages/f28/procps-ng/man-po/zh_CN.po/mnt/stockage/packages/f28/procps-ng/po/zh_CN.po | 
 {.sortable}
 
 

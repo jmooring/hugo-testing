@@ -18,9 +18,9 @@ The package pidgin-privacy-please (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f17/pidgin-privacy-please/po/de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f17/pidgin-privacy-please/po/pl.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f17/pidgin-privacy-please/po/ru.po | 
+ | [de](/f17/language/de) | 178 | 178 | 100.0 | /mnt/stockage/packages/f17/pidgin-privacy-please/po/de.po | 
+ | [pl](/f17/language/pl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f17/pidgin-privacy-please/po/pl.po | 
+ | [ru](/f17/language/ru) | 178 | 178 | 100.0 | /mnt/stockage/packages/f17/pidgin-privacy-please/po/ru.po | 
 {.sortable}
 
 

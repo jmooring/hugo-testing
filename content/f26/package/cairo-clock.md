@@ -18,24 +18,24 @@ The package cairo-clock (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/de.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/es.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/fr.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/it.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/nn.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/pl.po | 
- | [pt_PT]({{< ref "/f26/language/pt_PT.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/pt_PT.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/ru.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/sl.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/tr.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/zh_CN.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 270 | 2761 | 9.8 | /mnt/stockage/packages/f26/cairo-clock/po/ja.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 270 | 2761 | 9.8 | /mnt/stockage/packages/f26/cairo-clock/po/zh_TW.po | 
+ | [da](/f26/language/da) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/da.po | 
+ | [de](/f26/language/de) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/de.po | 
+ | [en_GB](/f26/language/en_GB) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/en_GB.po | 
+ | [es](/f26/language/es) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/es.po | 
+ | [fi](/f26/language/fi) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/fi.po | 
+ | [fr](/f26/language/fr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/fr.po | 
+ | [it](/f26/language/it) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/it.po | 
+ | [nl](/f26/language/nl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/nl.po | 
+ | [nn](/f26/language/nn) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/nn.po | 
+ | [pl](/f26/language/pl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/pl.po | 
+ | [pt_PT](/f26/language/pt_PT) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/pt_PT.po | 
+ | [ru](/f26/language/ru) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/ru.po | 
+ | [sl](/f26/language/sl) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/sl.po | 
+ | [sv](/f26/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/sv.po | 
+ | [tr](/f26/language/tr) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/tr.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 270 | 270 | 100.0 | /mnt/stockage/packages/f26/cairo-clock/po/zh_CN.po | 
+ | [ja](/f26/language/ja) | 270 | 2761 | 9.8 | /mnt/stockage/packages/f26/cairo-clock/po/ja.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 270 | 2761 | 9.8 | /mnt/stockage/packages/f26/cairo-clock/po/zh_TW.po | 
 {.sortable}
 
 

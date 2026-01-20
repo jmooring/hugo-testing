@@ -18,16 +18,16 @@ The package trytond-product-price-list (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/bg_BG.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/ca_ES.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/de_DE.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/es_ES.po | 
- | [es_AR]({{< ref "/f22/language/es_AR.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/es_AR.po | 
- | [es_CO]({{< ref "/f22/language/es_CO.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/es_CO.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/fr_FR.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/cs_CZ.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/nl_NL.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/ru_RU.po | 
+ | [bg](/f22/language/bg) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/bg_BG.po | 
+ | [ca](/f22/language/ca) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/ca_ES.po | 
+ | [de](/f22/language/de) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/de_DE.po | 
+ | [es](/f22/language/es) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/es_ES.po | 
+ | [es_AR](/f22/language/es_AR) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/es_AR.po | 
+ | [es_CO](/f22/language/es_CO) | 68 | 68 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/es_CO.po | 
+ | [fr](/f22/language/fr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/fr_FR.po | 
+ | [cs](/f22/language/cs) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/cs_CZ.po | 
+ | [nl](/f22/language/nl) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/nl_NL.po | 
+ | [ru](/f22/language/ru) | 0 | 68 | 0.0 | /mnt/stockage/packages/f22/trytond-product-price-list/locale/ru_RU.po | 
 {.sortable}
 
 

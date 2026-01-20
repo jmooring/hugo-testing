@@ -18,8 +18,8 @@ The package nabi (version 0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 185 | 191 | 96.9 | /mnt/stockage/packages/f8/nabi/po/ko.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 157 | 191 | 82.2 | /mnt/stockage/packages/f8/nabi/po/de.po | 
+ | [ko](/f8/language/ko) | 185 | 191 | 96.9 | /mnt/stockage/packages/f8/nabi/po/ko.po | 
+ | [de](/f8/language/de) | 157 | 191 | 82.2 | /mnt/stockage/packages/f8/nabi/po/de.po | 
 {.sortable}
 
 

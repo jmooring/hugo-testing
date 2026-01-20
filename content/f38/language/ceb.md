@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [transmission]({{< ref "/f38/package/transmission.md" >}}) | 19 | 2441 | 0.8 | Cebuano (https://app.transifex.com/transmissionbt/teams/33778/ceb/) | 
+ | [transmission](/f38/package/transmission) | 19 | 2441 | 0.8 | Cebuano (https://app.transifex.com/transmissionbt/teams/33778/ceb/) | 
 {.sortable}
 
 

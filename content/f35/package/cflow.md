@@ -18,23 +18,23 @@ The package cflow (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/de.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/pt_BR.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/uk.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/da.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/fr.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/ga.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/nl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/sv.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/zh_CN.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 271 | 846 | 32.0 | /mnt/stockage/packages/f35/cflow/po/hr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 271 | 846 | 32.0 | /mnt/stockage/packages/f35/cflow/po/id.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 271 | 846 | 32.0 | /mnt/stockage/packages/f35/cflow/po/vi.po | 
+ | [de](/f35/language/de) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/de.po | 
+ | [pl](/f35/language/pl) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/pt_BR.po | 
+ | [uk](/f35/language/uk) | 722 | 846 | 85.3 | /mnt/stockage/packages/f35/cflow/po/uk.po | 
+ | [da](/f35/language/da) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/da.po | 
+ | [eo](/f35/language/eo) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/eo.po | 
+ | [es](/f35/language/es) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/es.po | 
+ | [fi](/f35/language/fi) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/fi.po | 
+ | [fr](/f35/language/fr) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/fr.po | 
+ | [ga](/f35/language/ga) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/ga.po | 
+ | [nl](/f35/language/nl) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/nl.po | 
+ | [sr](/f35/language/sr) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/sr.po | 
+ | [sv](/f35/language/sv) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/sv.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 297 | 846 | 35.1 | /mnt/stockage/packages/f35/cflow/po/zh_CN.po | 
+ | [hr](/f35/language/hr) | 271 | 846 | 32.0 | /mnt/stockage/packages/f35/cflow/po/hr.po | 
+ | [id](/f35/language/id) | 271 | 846 | 32.0 | /mnt/stockage/packages/f35/cflow/po/id.po | 
+ | [vi](/f35/language/vi) | 271 | 846 | 32.0 | /mnt/stockage/packages/f35/cflow/po/vi.po | 
 {.sortable}
 
 

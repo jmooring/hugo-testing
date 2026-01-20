@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 64212 | 95203 | 67.4 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f19/package/iok.md" >}}) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
+ | [libreoffice](/f19/package/libreoffice) | 64212 | 95203 | 67.4 | LANGUAGE <LL@li.org> | 
+ | [iok](/f19/package/iok) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
 {.sortable}
 
 

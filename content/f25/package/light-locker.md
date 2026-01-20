@@ -18,96 +18,96 @@ The package light-locker (version 1.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/de.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/fi.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/lt.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/nb.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/pl.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/zh_TW.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 207 | 260 | 79.6 | /mnt/stockage/packages/f25/light-locker/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 207 | 260 | 79.6 | /mnt/stockage/packages/f25/light-locker/po/da.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 197 | 260 | 75.8 | /mnt/stockage/packages/f25/light-locker/po/es.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 193 | 260 | 74.2 | /mnt/stockage/packages/f25/light-locker/po/it.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 119 | 260 | 45.8 | /mnt/stockage/packages/f25/light-locker/po/gl.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 234 | 520 | 45.0 | /mnt/stockage/packages/f25/light-locker/po/fr.po/mnt/stockage/packages/f25/light-locker/po/fr_FR.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/hi.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/nl.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/or.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/pt.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/ru.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 64 | 260 | 24.6 | /mnt/stockage/packages/f25/light-locker/po/en@shaw.po | 
- | [be_Latn]({{< ref "/f25/language/be_Latn.md" >}}) | 58 | 260 | 22.3 | /mnt/stockage/packages/f25/light-locker/po/be@latin.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 56 | 260 | 21.5 | /mnt/stockage/packages/f25/light-locker/po/pt_BR.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/ca.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/en_GB.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/gu.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/hu.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/ja.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/kk.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/tr.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 23 | 260 | 8.8 | /mnt/stockage/packages/f25/light-locker/po/zh_HK.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 9 | 260 | 3.5 | /mnt/stockage/packages/f25/light-locker/po/fa.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/af.po | 
- | [an]({{< ref "/f25/language/an.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/an.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/as.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ast.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/bg.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/bn.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/bn_IN.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/br.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ca@valencia.po | 
- | [crh]({{< ref "/f25/language/crh.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/crh.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/cy.po | 
- | [dz]({{< ref "/f25/language/dz.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/dz.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/el.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/en_CA.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/eo.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/eu.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/fur.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ga.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/he.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/hr.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/id.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/is.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ka.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/km.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ko.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ku.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/lv.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mai.po | 
- | [mg]({{< ref "/f25/language/mg.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mg.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ml.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ms.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/nds.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ne.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/nn.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/pa.po | 
- | [ps]({{< ref "/f25/language/ps.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ps.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ro.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/si.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sl.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sr.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/te.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/th.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/vi.po | 
- | [xh]({{< ref "/f25/language/xh.md" >}}) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/xh.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 4 | 260 | 1.5 | /mnt/stockage/packages/f25/light-locker/po/oc.po | 
- | [my]({{< ref "/f25/language/my.md" >}}) | 0 | 260 | 0.0 | /mnt/stockage/packages/f25/light-locker/po/my.po | 
+ | [de](/f25/language/de) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/de.po | 
+ | [fi](/f25/language/fi) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/fi.po | 
+ | [lt](/f25/language/lt) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/lt.po | 
+ | [nb_NO](/f25/language/nb_NO) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/nb.po | 
+ | [pl](/f25/language/pl) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/pl.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 234 | 260 | 90.0 | /mnt/stockage/packages/f25/light-locker/po/zh_TW.po | 
+ | [cs](/f25/language/cs) | 207 | 260 | 79.6 | /mnt/stockage/packages/f25/light-locker/po/cs.po | 
+ | [da](/f25/language/da) | 207 | 260 | 79.6 | /mnt/stockage/packages/f25/light-locker/po/da.po | 
+ | [es](/f25/language/es) | 197 | 260 | 75.8 | /mnt/stockage/packages/f25/light-locker/po/es.po | 
+ | [it](/f25/language/it) | 193 | 260 | 74.2 | /mnt/stockage/packages/f25/light-locker/po/it.po | 
+ | [gl](/f25/language/gl) | 119 | 260 | 45.8 | /mnt/stockage/packages/f25/light-locker/po/gl.po | 
+ | [fr](/f25/language/fr) | 234 | 520 | 45.0 | /mnt/stockage/packages/f25/light-locker/po/fr.po/mnt/stockage/packages/f25/light-locker/po/fr_FR.po | 
+ | [hi](/f25/language/hi) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/hi.po | 
+ | [nl](/f25/language/nl) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/nl.po | 
+ | [or](/f25/language/or) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/or.po | 
+ | [pt](/f25/language/pt) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/pt.po | 
+ | [ru](/f25/language/ru) | 68 | 260 | 26.2 | /mnt/stockage/packages/f25/light-locker/po/ru.po | 
+ | [error](/f25/language/error) | 64 | 260 | 24.6 | /mnt/stockage/packages/f25/light-locker/po/en@shaw.po | 
+ | [be_Latn](/f25/language/be_Latn) | 58 | 260 | 22.3 | /mnt/stockage/packages/f25/light-locker/po/be@latin.po | 
+ | [pt_BR](/f25/language/pt_BR) | 56 | 260 | 21.5 | /mnt/stockage/packages/f25/light-locker/po/pt_BR.po | 
+ | [ca](/f25/language/ca) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/ca.po | 
+ | [en_GB](/f25/language/en_GB) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/en_GB.po | 
+ | [gu](/f25/language/gu) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/gu.po | 
+ | [hu](/f25/language/hu) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/hu.po | 
+ | [ja](/f25/language/ja) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/ja.po | 
+ | [kk](/f25/language/kk) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/kk.po | 
+ | [tr](/f25/language/tr) | 44 | 260 | 16.9 | /mnt/stockage/packages/f25/light-locker/po/tr.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 23 | 260 | 8.8 | /mnt/stockage/packages/f25/light-locker/po/zh_HK.po | 
+ | [fa](/f25/language/fa) | 9 | 260 | 3.5 | /mnt/stockage/packages/f25/light-locker/po/fa.po | 
+ | [af](/f25/language/af) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/af.po | 
+ | [an](/f25/language/an) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/an.po | 
+ | [ar](/f25/language/ar) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ar.po | 
+ | [as](/f25/language/as) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/as.po | 
+ | [ast](/f25/language/ast) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ast.po | 
+ | [be](/f25/language/be) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/be.po | 
+ | [bg](/f25/language/bg) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/bg.po | 
+ | [bn](/f25/language/bn) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/bn.po | 
+ | [bn_IN](/f25/language/bn_IN) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/bn_IN.po | 
+ | [br](/f25/language/br) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/br.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ca@valencia.po | 
+ | [crh](/f25/language/crh) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/crh.po | 
+ | [cy](/f25/language/cy) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/cy.po | 
+ | [dz](/f25/language/dz) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/dz.po | 
+ | [el](/f25/language/el) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/el.po | 
+ | [en_CA](/f25/language/en_CA) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/en_CA.po | 
+ | [eo](/f25/language/eo) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/eo.po | 
+ | [et](/f25/language/et) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/et.po | 
+ | [eu](/f25/language/eu) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/eu.po | 
+ | [fur](/f25/language/fur) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/fur.po | 
+ | [ga](/f25/language/ga) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ga.po | 
+ | [he](/f25/language/he) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/he.po | 
+ | [hr](/f25/language/hr) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/hr.po | 
+ | [id](/f25/language/id) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/id.po | 
+ | [is](/f25/language/is) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/is.po | 
+ | [ka](/f25/language/ka) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ka.po | 
+ | [km](/f25/language/km) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/km.po | 
+ | [kn](/f25/language/kn) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/kn.po | 
+ | [ko](/f25/language/ko) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ko.po | 
+ | [ku](/f25/language/ku) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ku.po | 
+ | [lv](/f25/language/lv) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/lv.po | 
+ | [mai](/f25/language/mai) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mai.po | 
+ | [mg](/f25/language/mg) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mg.po | 
+ | [mk](/f25/language/mk) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mk.po | 
+ | [ml](/f25/language/ml) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ml.po | 
+ | [mn](/f25/language/mn) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mn.po | 
+ | [mr](/f25/language/mr) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/mr.po | 
+ | [ms](/f25/language/ms) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ms.po | 
+ | [nds](/f25/language/nds) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/nds.po | 
+ | [ne](/f25/language/ne) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ne.po | 
+ | [nn](/f25/language/nn) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/nn.po | 
+ | [pa](/f25/language/pa) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/pa.po | 
+ | [ps](/f25/language/ps) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ps.po | 
+ | [ro](/f25/language/ro) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ro.po | 
+ | [si](/f25/language/si) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/si.po | 
+ | [sk](/f25/language/sk) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sk.po | 
+ | [sl](/f25/language/sl) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sl.po | 
+ | [sq](/f25/language/sq) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sq.po | 
+ | [sr](/f25/language/sr) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sr.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/sv.po | 
+ | [ta](/f25/language/ta) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ta.po | 
+ | [te](/f25/language/te) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/te.po | 
+ | [th](/f25/language/th) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/th.po | 
+ | [ug](/f25/language/ug) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/ug.po | 
+ | [uk](/f25/language/uk) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/uk.po | 
+ | [vi](/f25/language/vi) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/vi.po | 
+ | [xh](/f25/language/xh) | 7 | 260 | 2.7 | /mnt/stockage/packages/f25/light-locker/po/xh.po | 
+ | [oc](/f25/language/oc) | 4 | 260 | 1.5 | /mnt/stockage/packages/f25/light-locker/po/oc.po | 
+ | [my](/f25/language/my) | 0 | 260 | 0.0 | /mnt/stockage/packages/f25/light-locker/po/my.po | 
 {.sortable}
 
 

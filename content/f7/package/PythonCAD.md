@@ -18,7 +18,7 @@ The package PythonCAD (version 0.1.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 1527 | 1554 | 98.3 | /mnt/stockage/packages/f7/PythonCAD/po/PythonCAD.es.po | 
+ | [es](/f7/language/es) | 1527 | 1554 | 98.3 | /mnt/stockage/packages/f7/PythonCAD/po/PythonCAD.es.po | 
 {.sortable}
 
 

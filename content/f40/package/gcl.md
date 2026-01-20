@@ -18,21 +18,21 @@ The package gcl (version 2.6.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/fr.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/gl.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/nl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/sv.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/vi.po | 
+ | [cs](/f40/language/cs) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/cs.po | 
+ | [da](/f40/language/da) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/da.po | 
+ | [de](/f40/language/de) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/de.po | 
+ | [es](/f40/language/es) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/es.po | 
+ | [fi](/f40/language/fi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/fi.po | 
+ | [fr](/f40/language/fr) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/fr.po | 
+ | [gl](/f40/language/gl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/gl.po | 
+ | [it](/f40/language/it) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/it.po | 
+ | [ja](/f40/language/ja) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/ja.po | 
+ | [nl](/f40/language/nl) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/nl.po | 
+ | [pt](/f40/language/pt) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/ru.po | 
+ | [sv](/f40/language/sv) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/sv.po | 
+ | [vi](/f40/language/vi) | 177 | 177 | 100.0 | /mnt/stockage/packages/f40/gcl/debian/po/vi.po | 
 {.sortable}
 
 

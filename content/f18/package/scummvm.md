@@ -18,25 +18,25 @@ The package scummvm (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f18/language/be.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/be_BY.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/ca_ES.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/cs_CZ.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/da_DA.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/de_DE.po | 
- | [error]({{< ref "/f18/language/error.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/se_SE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/es_ES.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/fr_FR.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/gl_ES.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/hu_HU.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/it_IT.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/pl_PL.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/uk_UA.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 2816 | 2863 | 98.4 | /mnt/stockage/packages/f18/scummvm/po/nb_NO.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2806 | 2863 | 98.0 | /mnt/stockage/packages/f18/scummvm/po/ru_RU.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 2669 | 2863 | 93.2 | /mnt/stockage/packages/f18/scummvm/po/fi_FI.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 2432 | 2863 | 84.9 | /mnt/stockage/packages/f18/scummvm/po/eu.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 2336 | 2863 | 81.6 | /mnt/stockage/packages/f18/scummvm/po/pt_BR.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 1302 | 2863 | 45.5 | /mnt/stockage/packages/f18/scummvm/po/nn_NO.po | 
+ | [be](/f18/language/be) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/be_BY.po | 
+ | [ca](/f18/language/ca) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/ca_ES.po | 
+ | [cs](/f18/language/cs) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/cs_CZ.po | 
+ | [da](/f18/language/da) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/da_DA.po | 
+ | [de](/f18/language/de) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/de_DE.po | 
+ | [error](/f18/language/error) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/se_SE.po | 
+ | [es](/f18/language/es) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/es_ES.po | 
+ | [fr](/f18/language/fr) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/fr_FR.po | 
+ | [gl](/f18/language/gl) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/gl_ES.po | 
+ | [hu](/f18/language/hu) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/hu_HU.po | 
+ | [it](/f18/language/it) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/it_IT.po | 
+ | [pl](/f18/language/pl) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/pl_PL.po | 
+ | [uk](/f18/language/uk) | 2863 | 2863 | 100.0 | /mnt/stockage/packages/f18/scummvm/po/uk_UA.po | 
+ | [nb_NO](/f18/language/nb_NO) | 2816 | 2863 | 98.4 | /mnt/stockage/packages/f18/scummvm/po/nb_NO.po | 
+ | [ru](/f18/language/ru) | 2806 | 2863 | 98.0 | /mnt/stockage/packages/f18/scummvm/po/ru_RU.po | 
+ | [fi](/f18/language/fi) | 2669 | 2863 | 93.2 | /mnt/stockage/packages/f18/scummvm/po/fi_FI.po | 
+ | [eu](/f18/language/eu) | 2432 | 2863 | 84.9 | /mnt/stockage/packages/f18/scummvm/po/eu.po | 
+ | [pt_BR](/f18/language/pt_BR) | 2336 | 2863 | 81.6 | /mnt/stockage/packages/f18/scummvm/po/pt_BR.po | 
+ | [nn](/f18/language/nn) | 1302 | 2863 | 45.5 | /mnt/stockage/packages/f18/scummvm/po/nn_NO.po | 
 {.sortable}
 
 

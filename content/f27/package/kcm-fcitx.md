@@ -18,16 +18,16 @@ The package kcm-fcitx (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/ca.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/de.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/ko.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 248 | 251 | 98.8 | /mnt/stockage/packages/f27/kcm-fcitx/po/zh_TW.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 239 | 251 | 95.2 | /mnt/stockage/packages/f27/kcm-fcitx/po/ru.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 205 | 251 | 81.7 | /mnt/stockage/packages/f27/kcm-fcitx/po/ja.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 194 | 251 | 77.3 | /mnt/stockage/packages/f27/kcm-fcitx/po/tr.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 57 | 251 | 22.7 | /mnt/stockage/packages/f27/kcm-fcitx/po/vi.po | 
+ | [ca](/f27/language/ca) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/ca.po | 
+ | [da](/f27/language/da) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/da.po | 
+ | [de](/f27/language/de) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/de.po | 
+ | [ko](/f27/language/ko) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/ko.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 251 | 251 | 100.0 | /mnt/stockage/packages/f27/kcm-fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 248 | 251 | 98.8 | /mnt/stockage/packages/f27/kcm-fcitx/po/zh_TW.po | 
+ | [ru](/f27/language/ru) | 239 | 251 | 95.2 | /mnt/stockage/packages/f27/kcm-fcitx/po/ru.po | 
+ | [ja](/f27/language/ja) | 205 | 251 | 81.7 | /mnt/stockage/packages/f27/kcm-fcitx/po/ja.po | 
+ | [tr](/f27/language/tr) | 194 | 251 | 77.3 | /mnt/stockage/packages/f27/kcm-fcitx/po/tr.po | 
+ | [vi](/f27/language/vi) | 57 | 251 | 22.7 | /mnt/stockage/packages/f27/kcm-fcitx/po/vi.po | 
 {.sortable}
 
 

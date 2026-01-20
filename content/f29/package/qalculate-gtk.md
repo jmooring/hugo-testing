@@ -18,8 +18,8 @@ The package qalculate-gtk (version 2.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 3292 | 3402 | 96.8 | /mnt/stockage/packages/f29/qalculate-gtk/po/sv.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 2023 | 3334 | 60.7 | /mnt/stockage/packages/f29/qalculate-gtk/po/nl.po | 
+ | [sv](/f29/language/sv) | 3292 | 3402 | 96.8 | /mnt/stockage/packages/f29/qalculate-gtk/po/sv.po | 
+ | [nl](/f29/language/nl) | 2023 | 3334 | 60.7 | /mnt/stockage/packages/f29/qalculate-gtk/po/nl.po | 
 {.sortable}
 
 

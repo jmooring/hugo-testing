@@ -18,14 +18,14 @@ The package trytond-account-invoice-history (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/bg_BG.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/de_DE.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/es_CO.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/fr_FR.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/ru_RU.po | 
+ | [bg](/f17/language/bg) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/bg_BG.po | 
+ | [de](/f17/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/de_DE.po | 
+ | [es](/f17/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/es_CO.po | 
+ | [fr](/f17/language/fr) | 2 | 2 | 100.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/fr_FR.po | 
+ | [cs](/f17/language/cs) | 0 | 2 | 0.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 0 | 2 | 0.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 0 | 2 | 0.0 | /mnt/stockage/packages/f17/trytond-account-invoice-history/locale/ru_RU.po | 
 {.sortable}
 
 

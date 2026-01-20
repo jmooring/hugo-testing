@@ -18,7 +18,7 @@ The package dosfstools (version 3.0.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 0 | 1970 | 0.0 | /mnt/stockage/packages/f21/dosfstools/manpages/po/de/fatlabel.8.po/mnt/stockage/packages/f21/dosfstools/manpages/po/de/fsck.fat.8.po/mnt/stockage/packages/f21/dosfstools/manpages/po/de/mkfs.fat.8.po | 
+ | [de](/f21/language/de) | 0 | 1970 | 0.0 | /mnt/stockage/packages/f21/dosfstools/manpages/po/de/fatlabel.8.po/mnt/stockage/packages/f21/dosfstools/manpages/po/de/fsck.fat.8.po/mnt/stockage/packages/f21/dosfstools/manpages/po/de/mkfs.fat.8.po | 
 {.sortable}
 
 

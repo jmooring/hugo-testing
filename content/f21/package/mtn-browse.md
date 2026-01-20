@@ -18,7 +18,7 @@ The package mtn-browse (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 2750 | 2774 | 99.1 | /mnt/stockage/packages/f21/mtn-browse/mtn-browse-1.10/locale/de.po | 
+ | [de](/f21/language/de) | 2750 | 2774 | 99.1 | /mnt/stockage/packages/f21/mtn-browse/mtn-browse-1.10/locale/de.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package etherape (version 0.9.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 1062 | 1147 | 92.6 | /mnt/stockage/packages/f34/etherape/po/ru.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1020 | 1147 | 88.9 | /mnt/stockage/packages/f34/etherape/po/it.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 921 | 1147 | 80.3 | /mnt/stockage/packages/f34/etherape/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 665 | 1147 | 58.0 | /mnt/stockage/packages/f34/etherape/po/es.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 292 | 1147 | 25.5 | /mnt/stockage/packages/f34/etherape/po/sv.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 280 | 1147 | 24.4 | /mnt/stockage/packages/f34/etherape/po/nl.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 150 | 1147 | 13.1 | /mnt/stockage/packages/f34/etherape/po/tr.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 97 | 1147 | 8.5 | /mnt/stockage/packages/f34/etherape/po/fr.po | 
+ | [ru](/f34/language/ru) | 1062 | 1147 | 92.6 | /mnt/stockage/packages/f34/etherape/po/ru.po | 
+ | [it](/f34/language/it) | 1020 | 1147 | 88.9 | /mnt/stockage/packages/f34/etherape/po/it.po | 
+ | [de](/f34/language/de) | 921 | 1147 | 80.3 | /mnt/stockage/packages/f34/etherape/po/de.po | 
+ | [es](/f34/language/es) | 665 | 1147 | 58.0 | /mnt/stockage/packages/f34/etherape/po/es.po | 
+ | [sv](/f34/language/sv) | 292 | 1147 | 25.5 | /mnt/stockage/packages/f34/etherape/po/sv.po | 
+ | [nl](/f34/language/nl) | 280 | 1147 | 24.4 | /mnt/stockage/packages/f34/etherape/po/nl.po | 
+ | [tr](/f34/language/tr) | 150 | 1147 | 13.1 | /mnt/stockage/packages/f34/etherape/po/tr.po | 
+ | [fr](/f34/language/fr) | 97 | 1147 | 8.5 | /mnt/stockage/packages/f34/etherape/po/fr.po | 
 {.sortable}
 
 

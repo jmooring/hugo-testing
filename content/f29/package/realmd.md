@@ -18,74 +18,74 @@ The package realmd (version 0.16.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/ko.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/ru.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/uk.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/es.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/gl.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/id.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/sl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/tr.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 712 | 789 | 90.2 | /mnt/stockage/packages/f29/realmd/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 683 | 789 | 86.6 | /mnt/stockage/packages/f29/realmd/po/de.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 511 | 789 | 64.8 | /mnt/stockage/packages/f29/realmd/po/zh_CN.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 129 | 789 | 16.3 | /mnt/stockage/packages/f29/realmd/po/hu.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 110 | 789 | 13.9 | /mnt/stockage/packages/f29/realmd/po/fr.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 60 | 789 | 7.6 | /mnt/stockage/packages/f29/realmd/po/ja.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ar.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/as.po | 
- | [az]({{< ref "/f29/language/az.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/az.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/bg.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/bn_IN.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ca.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/cs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/cy.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/eo.po | 
- | [es_CL]({{< ref "/f29/language/es_CL.md" >}}) | 0 | 778 | 0.0 | /mnt/stockage/packages/f29/realmd/po/es_CL.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/eu.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/fi.po | 
- | [fo]({{< ref "/f29/language/fo.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/fo.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ga.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/hr.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ia.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/it.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ka.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/kk.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/kn.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/lv.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/mr.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ms.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/nn.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/oc.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/pa.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/pt.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ro.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/sk.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/sq.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/sr@latin.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/th.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/vi.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/wa.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/zh_HK.po | 
+ | [ko](/f29/language/ko) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/ko.po | 
+ | [pl](/f29/language/pl) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/ru.po | 
+ | [uk](/f29/language/uk) | 789 | 789 | 100.0 | /mnt/stockage/packages/f29/realmd/po/uk.po | 
+ | [el](/f29/language/el) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/en_GB.po | 
+ | [es](/f29/language/es) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/es.po | 
+ | [gl](/f29/language/gl) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/gl.po | 
+ | [id](/f29/language/id) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/id.po | 
+ | [sl](/f29/language/sl) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/sl.po | 
+ | [sv](/f29/language/sv) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/sv.po | 
+ | [tr](/f29/language/tr) | 778 | 789 | 98.6 | /mnt/stockage/packages/f29/realmd/po/tr.po | 
+ | [da](/f29/language/da) | 712 | 789 | 90.2 | /mnt/stockage/packages/f29/realmd/po/da.po | 
+ | [de](/f29/language/de) | 683 | 789 | 86.6 | /mnt/stockage/packages/f29/realmd/po/de.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 511 | 789 | 64.8 | /mnt/stockage/packages/f29/realmd/po/zh_CN.po | 
+ | [hu](/f29/language/hu) | 129 | 789 | 16.3 | /mnt/stockage/packages/f29/realmd/po/hu.po | 
+ | [fr](/f29/language/fr) | 110 | 789 | 13.9 | /mnt/stockage/packages/f29/realmd/po/fr.po | 
+ | [ja](/f29/language/ja) | 60 | 789 | 7.6 | /mnt/stockage/packages/f29/realmd/po/ja.po | 
+ | [ar](/f29/language/ar) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ar.po | 
+ | [as](/f29/language/as) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/as.po | 
+ | [az](/f29/language/az) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/az.po | 
+ | [bg](/f29/language/bg) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/bg.po | 
+ | [bn_IN](/f29/language/bn_IN) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/bn_IN.po | 
+ | [ca](/f29/language/ca) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ca.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/cs.po | 
+ | [cy](/f29/language/cy) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/cy.po | 
+ | [eo](/f29/language/eo) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/eo.po | 
+ | [es_CL](/f29/language/es_CL) | 0 | 778 | 0.0 | /mnt/stockage/packages/f29/realmd/po/es_CL.po | 
+ | [et](/f29/language/et) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/et.po | 
+ | [eu](/f29/language/eu) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/eu.po | 
+ | [fa](/f29/language/fa) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/fa.po | 
+ | [fi](/f29/language/fi) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/fi.po | 
+ | [fo](/f29/language/fo) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/fo.po | 
+ | [ga](/f29/language/ga) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ga.po | 
+ | [gu](/f29/language/gu) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/gu.po | 
+ | [he](/f29/language/he) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/he.po | 
+ | [hi](/f29/language/hi) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/hi.po | 
+ | [hr](/f29/language/hr) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/hr.po | 
+ | [ia](/f29/language/ia) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ia.po | 
+ | [it](/f29/language/it) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/it.po | 
+ | [ka](/f29/language/ka) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ka.po | 
+ | [kk](/f29/language/kk) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/kk.po | 
+ | [kn](/f29/language/kn) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/kn.po | 
+ | [lt](/f29/language/lt) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/lt.po | 
+ | [lv](/f29/language/lv) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/lv.po | 
+ | [ml](/f29/language/ml) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ml.po | 
+ | [mr](/f29/language/mr) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/mr.po | 
+ | [ms](/f29/language/ms) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ms.po | 
+ | [nb_NO](/f29/language/nb_NO) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/nb.po | 
+ | [nl](/f29/language/nl) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/nl.po | 
+ | [nn](/f29/language/nn) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/nn.po | 
+ | [oc](/f29/language/oc) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/oc.po | 
+ | [or](/f29/language/or) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/or.po | 
+ | [pa](/f29/language/pa) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/pa.po | 
+ | [pt](/f29/language/pt) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/pt.po | 
+ | [ro](/f29/language/ro) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ro.po | 
+ | [sk](/f29/language/sk) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/sk.po | 
+ | [sq](/f29/language/sq) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/sq.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/sr@latin.po | 
+ | [ta](/f29/language/ta) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/ta.po | 
+ | [te](/f29/language/te) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/te.po | 
+ | [th](/f29/language/th) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/th.po | 
+ | [vi](/f29/language/vi) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/vi.po | 
+ | [wa](/f29/language/wa) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/wa.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 0 | 789 | 0.0 | /mnt/stockage/packages/f29/realmd/po/zh_HK.po | 
 {.sortable}
 
 

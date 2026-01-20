@@ -18,8 +18,8 @@ The package repsnapper (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 1122 | 1257 | 89.3 | /mnt/stockage/packages/f18/repsnapper/po/de_DE.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 0 | 1257 | 0.0 | /mnt/stockage/packages/f18/repsnapper/po/en_GB.po | 
+ | [de](/f18/language/de) | 1122 | 1257 | 89.3 | /mnt/stockage/packages/f18/repsnapper/po/de_DE.po | 
+ | [en_GB](/f18/language/en_GB) | 0 | 1257 | 0.0 | /mnt/stockage/packages/f18/repsnapper/po/en_GB.po | 
 {.sortable}
 
 

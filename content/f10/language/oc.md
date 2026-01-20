@@ -39,190 +39,190 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f10/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [at-spi]({{< ref "/f10/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [bug-buddy]({{< ref "/f10/package/bug-buddy.md" >}}) | 913 | 913 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [ggz-client-libs]({{< ref "/f10/package/ggz-client-libs.md" >}}) | 9 | 9 | 100.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [ggz-gtk-client]({{< ref "/f10/package/ggz-gtk-client.md" >}}) | 58 | 58 | 100.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [pessulus]({{< ref "/f10/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [sabayon]({{< ref "/f10/package/sabayon.md" >}}) | 1178 | 1178 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [bakery]({{< ref "/f10/package/bakery.md" >}}) | 57 | 58 | 98.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 7557 | 7712 | 98.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [obby]({{< ref "/f10/package/obby.md" >}}) | 150 | 159 | 94.3 | Occitan (post 1500) <oc@li.org> | 
- | [libgnomecups]({{< ref "/f10/package/libgnomecups.md" >}}) | 10 | 11 | 90.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 138 | 157 | 87.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 78 | 97 | 80.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-icon-theme]({{< ref "/f10/package/gnome-icon-theme.md" >}}) | 16 | 20 | 80.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 906 | 1309 | 69.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-backgrounds]({{< ref "/f10/package/gnome-backgrounds.md" >}}) | 12 | 18 | 66.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [homebank]({{< ref "/f10/package/homebank.md" >}}) | 839 | 1365 | 61.5 | Occitan (post 1500) <oc@li.org> | 
- | [yelp]({{< ref "/f10/package/yelp.md" >}}) | 605 | 1035 | 58.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-session]({{< ref "/f10/package/gnome-session.md" >}}) | 511 | 899 | 56.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgnomeprint22]({{< ref "/f10/package/libgnomeprint22.md" >}}) | 91 | 168 | 54.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [muine]({{< ref "/f10/package/muine.md" >}}) | 199 | 489 | 40.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [eel2]({{< ref "/f10/package/eel2.md" >}}) | 59 | 161 | 36.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 529 | 1598 | 33.1 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [NetworkManager]({{< ref "/f10/package/NetworkManager.md" >}}) | 395 | 1272 | 31.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [planner]({{< ref "/f10/package/planner.md" >}}) | 546 | 1795 | 30.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [eog]({{< ref "/f10/package/eog.md" >}}) | 1354 | 4461 | 30.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [nautilus-open-terminal]({{< ref "/f10/package/nautilus-open-terminal.md" >}}) | 24 | 82 | 29.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [avant-window-navigator]({{< ref "/f10/package/avant-window-navigator.md" >}}) | 173 | 593 | 29.2 | Occitan (post 1500) <oc@li.org> | 
- | [fantasdic]({{< ref "/f10/package/fantasdic.md" >}}) | 113 | 398 | 28.4 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [pybliographer]({{< ref "/f10/package/pybliographer.md" >}}) | 264 | 971 | 27.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [nautilus-cd-burner]({{< ref "/f10/package/nautilus-cd-burner.md" >}}) | 353 | 1315 | 26.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [nautilus-sendto]({{< ref "/f10/package/nautilus-sendto.md" >}}) | 78 | 292 | 26.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [nautilus-actions]({{< ref "/f10/package/nautilus-actions.md" >}}) | 415 | 1558 | 26.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [devhelp]({{< ref "/f10/package/devhelp.md" >}}) | 94 | 364 | 25.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-bluetooth]({{< ref "/f10/package/gnome-bluetooth.md" >}}) | 94 | 366 | 25.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libbonoboui]({{< ref "/f10/package/libbonoboui.md" >}}) | 94 | 368 | 25.5 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 1641 | 6553 | 25.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgnomeprintui22]({{< ref "/f10/package/libgnomeprintui22.md" >}}) | 120 | 481 | 24.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f10/package/xdg-user-dirs-gtk.md" >}}) | 20 | 81 | 24.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gtkhtml3]({{< ref "/f10/package/gtkhtml3.md" >}}) | 300 | 1237 | 24.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-pilot-conduits]({{< ref "/f10/package/gnome-pilot-conduits.md" >}}) | 48 | 209 | 23.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gimmie]({{< ref "/f10/package/gimmie.md" >}}) | 140 | 627 | 22.3 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-vfs2]({{< ref "/f10/package/gnome-vfs2.md" >}}) | 324 | 1508 | 21.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [control-center]({{< ref "/f10/package/control-center.md" >}}) | 719 | 3390 | 21.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [file-roller]({{< ref "/f10/package/file-roller.md" >}}) | 1407 | 6684 | 21.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-applet-netspeed]({{< ref "/f10/package/gnome-applet-netspeed.md" >}}) | 30 | 144 | 20.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgnome]({{< ref "/f10/package/libgnome.md" >}}) | 351 | 1690 | 20.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [cheese]({{< ref "/f10/package/cheese.md" >}}) | 485 | 2396 | 20.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-applets]({{< ref "/f10/package/gnome-applets.md" >}}) | 3668 | 18153 | 20.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [vino]({{< ref "/f10/package/vino.md" >}}) | 197 | 983 | 20.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [blam]({{< ref "/f10/package/blam.md" >}}) | 66 | 336 | 19.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [marlin]({{< ref "/f10/package/marlin.md" >}}) | 295 | 1508 | 19.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [pan]({{< ref "/f10/package/pan.md" >}}) | 431 | 2268 | 19.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [tracker]({{< ref "/f10/package/tracker.md" >}}) | 239 | 1336 | 17.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [zenity]({{< ref "/f10/package/zenity.md" >}}) | 512 | 2907 | 17.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-netstatus]({{< ref "/f10/package/gnome-netstatus.md" >}}) | 212 | 1224 | 17.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [orca]({{< ref "/f10/package/orca.md" >}}) | 588 | 3468 | 17.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-doc-utils]({{< ref "/f10/package/gnome-doc-utils.md" >}}) | 40 | 238 | 16.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-scan]({{< ref "/f10/package/gnome-scan.md" >}}) | 40 | 240 | 16.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [ksig]({{< ref "/f10/package/ksig.md" >}}) | 14 | 85 | 16.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [tuxmath]({{< ref "/f10/package/tuxmath.md" >}}) | 160 | 972 | 16.5 | Occitan (post 1500) <oc@li.org> | 
- | [libgnomekbd]({{< ref "/f10/package/libgnomekbd.md" >}}) | 45 | 277 | 16.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-phone-manager]({{< ref "/f10/package/gnome-phone-manager.md" >}}) | 82 | 513 | 16.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [xchat-gnome]({{< ref "/f10/package/xchat-gnome.md" >}}) | 967 | 6131 | 15.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [galeon]({{< ref "/f10/package/galeon.md" >}}) | 926 | 5974 | 15.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [evolution-exchange]({{< ref "/f10/package/evolution-exchange.md" >}}) | 196 | 1324 | 14.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-nettool]({{< ref "/f10/package/gnome-nettool.md" >}}) | 157 | 1069 | 14.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [beagle]({{< ref "/f10/package/beagle.md" >}}) | 165 | 1134 | 14.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [audacity]({{< ref "/f10/package/audacity.md" >}}) | 1521 | 10633 | 14.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gtk2-engines]({{< ref "/f10/package/gtk2-engines.md" >}}) | 14 | 99 | 14.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 365 | 2661 | 13.7 | Occitan (post 1500) <oc@li.org> | 
- | [libgtop2]({{< ref "/f10/package/libgtop2.md" >}}) | 17 | 126 | 13.5 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [empathy]({{< ref "/f10/package/empathy.md" >}}) | 199 | 1493 | 13.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [oggconvert]({{< ref "/f10/package/oggconvert.md" >}}) | 20 | 152 | 13.2 | Occitan (post 1500) <oc@li.org> | 
- | [deskbar-applet]({{< ref "/f10/package/deskbar-applet.md" >}}) | 337 | 2577 | 13.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 48 | 370 | 13.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [evolution]({{< ref "/f10/package/evolution.md" >}}) | 7372 | 57073 | 12.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 48 | 375 | 12.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [vinagre]({{< ref "/f10/package/vinagre.md" >}}) | 231 | 1823 | 12.7 | Español <<gnome-es-list@gnome.org> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 1611 | 12760 | 12.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [evolution-data-server]({{< ref "/f10/package/evolution-data-server.md" >}}) | 635 | 5062 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [banshee]({{< ref "/f10/package/banshee.md" >}}) | 400 | 3190 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [evolution-webcal]({{< ref "/f10/package/evolution-webcal.md" >}}) | 23 | 184 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [totem-pl-parser]({{< ref "/f10/package/totem-pl-parser.md" >}}) | 246 | 1970 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libwnck]({{< ref "/f10/package/libwnck.md" >}}) | 137 | 1124 | 12.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [drivel]({{< ref "/f10/package/drivel.md" >}}) | 116 | 952 | 12.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [pitivi]({{< ref "/f10/package/pitivi.md" >}}) | 118 | 988 | 11.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-pilot]({{< ref "/f10/package/gnome-pilot.md" >}}) | 207 | 1748 | 11.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gedit-plugins]({{< ref "/f10/package/gedit-plugins.md" >}}) | 23 | 198 | 11.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-keyring-manager]({{< ref "/f10/package/gnome-keyring-manager.md" >}}) | 85 | 742 | 11.5 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-media]({{< ref "/f10/package/gnome-media.md" >}}) | 707 | 6184 | 11.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-mount]({{< ref "/f10/package/gnome-mount.md" >}}) | 90 | 792 | 11.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-volume-manager]({{< ref "/f10/package/gnome-volume-manager.md" >}}) | 137 | 1221 | 11.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 85 | 761 | 11.2 | Occitan (post 1500) <oc@li.org> | 
- | [evince]({{< ref "/f10/package/evince.md" >}}) | 309 | 2769 | 11.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [conduit]({{< ref "/f10/package/conduit.md" >}}) | 63 | 580 | 10.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 1308 | 12400 | 10.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [rhythmbox]({{< ref "/f10/package/rhythmbox.md" >}}) | 931 | 9070 | 10.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libbtctl]({{< ref "/f10/package/libbtctl.md" >}}) | 4 | 40 | 10.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gparted]({{< ref "/f10/package/gparted.md" >}}) | 126 | 1274 | 9.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-settings-daemon]({{< ref "/f10/package/gnome-settings-daemon.md" >}}) | 99 | 1034 | 9.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [glade3]({{< ref "/f10/package/glade3.md" >}}) | 440 | 4882 | 9.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-screensaver]({{< ref "/f10/package/gnome-screensaver.md" >}}) | 87 | 966 | 9.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [exaile]({{< ref "/f10/package/exaile.md" >}}) | 237 | 2663 | 8.9 | Occitan (post 1500) <oc@li.org> | 
- | [dia]({{< ref "/f10/package/dia.md" >}}) | 544 | 6255 | 8.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gtksourceview2]({{< ref "/f10/package/gtksourceview2.md" >}}) | 86 | 994 | 8.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [nemiver]({{< ref "/f10/package/nemiver.md" >}}) | 236 | 2754 | 8.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgweather]({{< ref "/f10/package/libgweather.md" >}}) | 586 | 6851 | 8.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [glade2]({{< ref "/f10/package/glade2.md" >}}) | 502 | 5910 | 8.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gcompris]({{< ref "/f10/package/gcompris.md" >}}) | 853 | 10249 | 8.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [ghex]({{< ref "/f10/package/ghex.md" >}}) | 259 | 3148 | 8.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [totem]({{< ref "/f10/package/totem.md" >}}) | 407 | 4950 | 8.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [kipi-plugins]({{< ref "/f10/package/kipi-plugins.md" >}}) | 487 | 5954 | 8.2 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-utils]({{< ref "/f10/package/gnome-utils.md" >}}) | 843 | 10319 | 8.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [tomboy]({{< ref "/f10/package/tomboy.md" >}}) | 495 | 6243 | 7.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gconf-editor]({{< ref "/f10/package/gconf-editor.md" >}}) | 214 | 2837 | 7.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [meld]({{< ref "/f10/package/meld.md" >}}) | 155 | 2074 | 7.5 | <traductores@es.gnome.org> | 
- | [libgnomecanvas]({{< ref "/f10/package/libgnomecanvas.md" >}}) | 28 | 378 | 7.4 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [vte]({{< ref "/f10/package/vte.md" >}}) | 8 | 108 | 7.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-commander]({{< ref "/f10/package/gnome-commander.md" >}}) | 602 | 8206 | 7.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [kiconedit]({{< ref "/f10/package/kiconedit.md" >}}) | 51 | 726 | 7.0 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gedit]({{< ref "/f10/package/gedit.md" >}}) | 895 | 12766 | 7.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gcalctool]({{< ref "/f10/package/gcalctool.md" >}}) | 534 | 7666 | 7.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [epiphany]({{< ref "/f10/package/epiphany.md" >}}) | 706 | 10150 | 7.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [balsa]({{< ref "/f10/package/balsa.md" >}}) | 395 | 5966 | 6.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-subtitles]({{< ref "/f10/package/gnome-subtitles.md" >}}) | 161 | 2456 | 6.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [seahorse]({{< ref "/f10/package/seahorse.md" >}}) | 427 | 6804 | 6.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gok]({{< ref "/f10/package/gok.md" >}}) | 119 | 1942 | 6.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [seahorse-plugins]({{< ref "/f10/package/seahorse-plugins.md" >}}) | 489 | 8292 | 5.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [f-spot]({{< ref "/f10/package/f-spot.md" >}}) | 349 | 6092 | 5.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gucharmap]({{< ref "/f10/package/gucharmap.md" >}}) | 137 | 2403 | 5.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-applet-timer]({{< ref "/f10/package/gnome-applet-timer.md" >}}) | 16 | 283 | 5.7 | Occitan (post 1500) <oc@li.org> | 
- | [epiphany-extensions]({{< ref "/f10/package/epiphany-extensions.md" >}}) | 230 | 4135 | 5.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-build]({{< ref "/f10/package/gnome-build.md" >}}) | 31 | 577 | 5.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [goffice]({{< ref "/f10/package/goffice.md" >}}) | 212 | 3990 | 5.3 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [almanah]({{< ref "/f10/package/almanah.md" >}}) | 17 | 333 | 5.1 | GNOME French Team <gnomefr@traduc.org> | 
- | [metacity]({{< ref "/f10/package/metacity.md" >}}) | 410 | 8049 | 5.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [goffice04]({{< ref "/f10/package/goffice04.md" >}}) | 203 | 3990 | 5.1 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-mag]({{< ref "/f10/package/gnome-mag.md" >}}) | 15 | 298 | 5.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-system-monitor]({{< ref "/f10/package/gnome-system-monitor.md" >}}) | 187 | 3754 | 5.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [kmid]({{< ref "/f10/package/kmid.md" >}}) | 26 | 535 | 4.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gimp]({{< ref "/f10/package/gimp.md" >}}) | 1208 | 24952 | 4.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-terminal]({{< ref "/f10/package/gnome-terminal.md" >}}) | 338 | 7077 | 4.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [GConf2]({{< ref "/f10/package/GConf2.md" >}}) | 188 | 3955 | 4.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnomeradio]({{< ref "/f10/package/gnomeradio.md" >}}) | 104 | 2212 | 4.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [kcoloredit]({{< ref "/f10/package/kcoloredit.md" >}}) | 13 | 278 | 4.7 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-user-share]({{< ref "/f10/package/gnome-user-share.md" >}}) | 12 | 257 | 4.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gossip]({{< ref "/f10/package/gossip.md" >}}) | 233 | 5061 | 4.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [brasero]({{< ref "/f10/package/brasero.md" >}}) | 243 | 5296 | 4.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [cowbell]({{< ref "/f10/package/cowbell.md" >}}) | 27 | 638 | 4.2 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-packagekit]({{< ref "/f10/package/gnome-packagekit.md" >}}) | 186 | 4434 | 4.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [anjuta]({{< ref "/f10/package/anjuta.md" >}}) | 738 | 19235 | 3.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-schedule]({{< ref "/f10/package/gnome-schedule.md" >}}) | 130 | 3410 | 3.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 370 | 9859 | 3.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgnomedb]({{< ref "/f10/package/libgnomedb.md" >}}) | 82 | 2298 | 3.6 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-games]({{< ref "/f10/package/gnome-games.md" >}}) | 1874 | 53195 | 3.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [sound-juicer]({{< ref "/f10/package/sound-juicer.md" >}}) | 214 | 6135 | 3.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [pidgin]({{< ref "/f10/package/pidgin.md" >}}) | 589 | 17989 | 3.3 | fr <fr@li.org> | 
- | [libgdl]({{< ref "/f10/package/libgdl.md" >}}) | 19 | 613 | 3.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [ktorrent]({{< ref "/f10/package/ktorrent.md" >}}) | 186 | 6795 | 2.7 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [dasher]({{< ref "/f10/package/dasher.md" >}}) | 174 | 6382 | 2.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [mousetweaks]({{< ref "/f10/package/mousetweaks.md" >}}) | 84 | 3305 | 2.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [rsibreak]({{< ref "/f10/package/rsibreak.md" >}}) | 30 | 1223 | 2.5 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-power-manager]({{< ref "/f10/package/gnome-power-manager.md" >}}) | 175 | 7617 | 2.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [ekiga]({{< ref "/f10/package/ekiga.md" >}}) | 211 | 9652 | 2.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-themes]({{< ref "/f10/package/gnome-themes.md" >}}) | 2 | 96 | 2.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-user-docs]({{< ref "/f10/package/gnome-user-docs.md" >}}) | 1390 | 76735 | 1.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgda]({{< ref "/f10/package/libgda.md" >}}) | 77 | 4344 | 1.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 36 | 2197 | 1.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [bluez-gnome]({{< ref "/f10/package/bluez-gnome.md" >}}) | 10 | 631 | 1.6 | Occitan (post 1500) <oc@li.org> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 36 | 2325 | 1.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [tuxpaint-stamps]({{< ref "/f10/package/tuxpaint-stamps.md" >}}) | 39 | 2617 | 1.5 | Occitan (post 1500) <oc@li.org> | 
- | [libbonobo]({{< ref "/f10/package/libbonobo.md" >}}) | 8 | 543 | 1.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [kopete-cryptography]({{< ref "/f10/package/kopete-cryptography.md" >}}) | 6 | 408 | 1.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gdesklets]({{< ref "/f10/package/gdesklets.md" >}}) | 19 | 1380 | 1.4 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnome-devel-docs]({{< ref "/f10/package/gnome-devel-docs.md" >}}) | 139 | 10715 | 1.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [gnumeric]({{< ref "/f10/package/gnumeric.md" >}}) | 533 | 46374 | 1.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 135 | 12368 | 1.1 | Occitan <laborde@crpp.u-bordeaux.fr> | 
- | [gnome-keyring]({{< ref "/f10/package/gnome-keyring.md" >}}) | 11 | 1025 | 1.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [genius]({{< ref "/f10/package/genius.md" >}}) | 59 | 6602 | 0.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [po4a]({{< ref "/f10/package/po4a.md" >}}) | 14 | 1613 | 0.9 | Occitan (post 1500) <oc@li.org> | 
- | [ntfs-config]({{< ref "/f10/package/ntfs-config.md" >}}) | 3 | 357 | 0.8 | Occitan (post 1500) <oc@li.org> | 
- | [gdm]({{< ref "/f10/package/gdm.md" >}}) | 54 | 32506 | 0.2 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
- | [libgsf]({{< ref "/f10/package/libgsf.md" >}}) | 0 | 77 | 0.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [alacarte](/f10/package/alacarte) | 42 | 42 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [at-spi](/f10/package/at-spi) | 4 | 4 | 100.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [bug-buddy](/f10/package/bug-buddy) | 913 | 913 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [ggz-client-libs](/f10/package/ggz-client-libs) | 9 | 9 | 100.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [ggz-gtk-client](/f10/package/ggz-gtk-client) | 58 | 58 | 100.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [pessulus](/f10/package/pessulus) | 88 | 88 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [sabayon](/f10/package/sabayon) | 1178 | 1178 | 100.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [bakery](/f10/package/bakery) | 57 | 58 | 98.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [nautilus](/f10/package/nautilus) | 7557 | 7712 | 98.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [obby](/f10/package/obby) | 150 | 159 | 94.3 | Occitan (post 1500) <oc@li.org> | 
+ | [libgnomecups](/f10/package/libgnomecups) | 10 | 11 | 90.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-menus](/f10/package/gnome-menus) | 138 | 157 | 87.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [lxmenu-data](/f10/package/lxmenu-data) | 78 | 97 | 80.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-icon-theme](/f10/package/gnome-icon-theme) | 16 | 20 | 80.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 906 | 1309 | 69.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-backgrounds](/f10/package/gnome-backgrounds) | 12 | 18 | 66.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [homebank](/f10/package/homebank) | 839 | 1365 | 61.5 | Occitan (post 1500) <oc@li.org> | 
+ | [yelp](/f10/package/yelp) | 605 | 1035 | 58.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-session](/f10/package/gnome-session) | 511 | 899 | 56.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgnomeprint22](/f10/package/libgnomeprint22) | 91 | 168 | 54.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [muine](/f10/package/muine) | 199 | 489 | 40.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [eel2](/f10/package/eel2) | 59 | 161 | 36.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [konq-plugins](/f10/package/konq-plugins) | 529 | 1598 | 33.1 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [NetworkManager](/f10/package/NetworkManager) | 395 | 1272 | 31.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [planner](/f10/package/planner) | 546 | 1795 | 30.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [eog](/f10/package/eog) | 1354 | 4461 | 30.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [nautilus-open-terminal](/f10/package/nautilus-open-terminal) | 24 | 82 | 29.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [avant-window-navigator](/f10/package/avant-window-navigator) | 173 | 593 | 29.2 | Occitan (post 1500) <oc@li.org> | 
+ | [fantasdic](/f10/package/fantasdic) | 113 | 398 | 28.4 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [pybliographer](/f10/package/pybliographer) | 264 | 971 | 27.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [nautilus-cd-burner](/f10/package/nautilus-cd-burner) | 353 | 1315 | 26.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [nautilus-sendto](/f10/package/nautilus-sendto) | 78 | 292 | 26.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [nautilus-actions](/f10/package/nautilus-actions) | 415 | 1558 | 26.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [devhelp](/f10/package/devhelp) | 94 | 364 | 25.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-bluetooth](/f10/package/gnome-bluetooth) | 94 | 366 | 25.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libbonoboui](/f10/package/libbonoboui) | 94 | 368 | 25.5 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 1641 | 6553 | 25.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgnomeprintui22](/f10/package/libgnomeprintui22) | 120 | 481 | 24.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [xdg-user-dirs-gtk](/f10/package/xdg-user-dirs-gtk) | 20 | 81 | 24.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gtkhtml3](/f10/package/gtkhtml3) | 300 | 1237 | 24.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-pilot-conduits](/f10/package/gnome-pilot-conduits) | 48 | 209 | 23.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gimmie](/f10/package/gimmie) | 140 | 627 | 22.3 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-vfs2](/f10/package/gnome-vfs2) | 324 | 1508 | 21.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [control-center](/f10/package/control-center) | 719 | 3390 | 21.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [file-roller](/f10/package/file-roller) | 1407 | 6684 | 21.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-applet-netspeed](/f10/package/gnome-applet-netspeed) | 30 | 144 | 20.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgnome](/f10/package/libgnome) | 351 | 1690 | 20.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [cheese](/f10/package/cheese) | 485 | 2396 | 20.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-applets](/f10/package/gnome-applets) | 3668 | 18153 | 20.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [vino](/f10/package/vino) | 197 | 983 | 20.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [blam](/f10/package/blam) | 66 | 336 | 19.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [marlin](/f10/package/marlin) | 295 | 1508 | 19.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [pan](/f10/package/pan) | 431 | 2268 | 19.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [tracker](/f10/package/tracker) | 239 | 1336 | 17.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [zenity](/f10/package/zenity) | 512 | 2907 | 17.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-netstatus](/f10/package/gnome-netstatus) | 212 | 1224 | 17.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [orca](/f10/package/orca) | 588 | 3468 | 17.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-doc-utils](/f10/package/gnome-doc-utils) | 40 | 238 | 16.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-scan](/f10/package/gnome-scan) | 40 | 240 | 16.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [ksig](/f10/package/ksig) | 14 | 85 | 16.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [tuxmath](/f10/package/tuxmath) | 160 | 972 | 16.5 | Occitan (post 1500) <oc@li.org> | 
+ | [libgnomekbd](/f10/package/libgnomekbd) | 45 | 277 | 16.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-phone-manager](/f10/package/gnome-phone-manager) | 82 | 513 | 16.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [xchat-gnome](/f10/package/xchat-gnome) | 967 | 6131 | 15.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [galeon](/f10/package/galeon) | 926 | 5974 | 15.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [evolution-exchange](/f10/package/evolution-exchange) | 196 | 1324 | 14.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-nettool](/f10/package/gnome-nettool) | 157 | 1069 | 14.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [beagle](/f10/package/beagle) | 165 | 1134 | 14.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [audacity](/f10/package/audacity) | 1521 | 10633 | 14.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gtk2-engines](/f10/package/gtk2-engines) | 14 | 99 | 14.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [Miro](/f10/package/Miro) | 365 | 2661 | 13.7 | Occitan (post 1500) <oc@li.org> | 
+ | [libgtop2](/f10/package/libgtop2) | 17 | 126 | 13.5 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [empathy](/f10/package/empathy) | 199 | 1493 | 13.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [oggconvert](/f10/package/oggconvert) | 20 | 152 | 13.2 | Occitan (post 1500) <oc@li.org> | 
+ | [deskbar-applet](/f10/package/deskbar-applet) | 337 | 2577 | 13.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [atk](/f10/package/atk) | 48 | 370 | 13.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [evolution](/f10/package/evolution) | 7372 | 57073 | 12.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 48 | 375 | 12.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [vinagre](/f10/package/vinagre) | 231 | 1823 | 12.7 | Español <<gnome-es-list@gnome.org> | 
+ | [gtk2](/f10/package/gtk2) | 1611 | 12760 | 12.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [evolution-data-server](/f10/package/evolution-data-server) | 635 | 5062 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [banshee](/f10/package/banshee) | 400 | 3190 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [evolution-webcal](/f10/package/evolution-webcal) | 23 | 184 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [totem-pl-parser](/f10/package/totem-pl-parser) | 246 | 1970 | 12.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libwnck](/f10/package/libwnck) | 137 | 1124 | 12.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [drivel](/f10/package/drivel) | 116 | 952 | 12.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [pitivi](/f10/package/pitivi) | 118 | 988 | 11.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-pilot](/f10/package/gnome-pilot) | 207 | 1748 | 11.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gedit-plugins](/f10/package/gedit-plugins) | 23 | 198 | 11.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-keyring-manager](/f10/package/gnome-keyring-manager) | 85 | 742 | 11.5 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-media](/f10/package/gnome-media) | 707 | 6184 | 11.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-mount](/f10/package/gnome-mount) | 90 | 792 | 11.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-volume-manager](/f10/package/gnome-volume-manager) | 137 | 1221 | 11.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 85 | 761 | 11.2 | Occitan (post 1500) <oc@li.org> | 
+ | [evince](/f10/package/evince) | 309 | 2769 | 11.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [conduit](/f10/package/conduit) | 63 | 580 | 10.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 1308 | 12400 | 10.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [rhythmbox](/f10/package/rhythmbox) | 931 | 9070 | 10.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libbtctl](/f10/package/libbtctl) | 4 | 40 | 10.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gparted](/f10/package/gparted) | 126 | 1274 | 9.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-settings-daemon](/f10/package/gnome-settings-daemon) | 99 | 1034 | 9.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [glade3](/f10/package/glade3) | 440 | 4882 | 9.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-screensaver](/f10/package/gnome-screensaver) | 87 | 966 | 9.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [exaile](/f10/package/exaile) | 237 | 2663 | 8.9 | Occitan (post 1500) <oc@li.org> | 
+ | [dia](/f10/package/dia) | 544 | 6255 | 8.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gtksourceview2](/f10/package/gtksourceview2) | 86 | 994 | 8.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [nemiver](/f10/package/nemiver) | 236 | 2754 | 8.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgweather](/f10/package/libgweather) | 586 | 6851 | 8.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [glade2](/f10/package/glade2) | 502 | 5910 | 8.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gcompris](/f10/package/gcompris) | 853 | 10249 | 8.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [ghex](/f10/package/ghex) | 259 | 3148 | 8.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [totem](/f10/package/totem) | 407 | 4950 | 8.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [kipi-plugins](/f10/package/kipi-plugins) | 487 | 5954 | 8.2 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-utils](/f10/package/gnome-utils) | 843 | 10319 | 8.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [tomboy](/f10/package/tomboy) | 495 | 6243 | 7.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gconf-editor](/f10/package/gconf-editor) | 214 | 2837 | 7.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [meld](/f10/package/meld) | 155 | 2074 | 7.5 | <traductores@es.gnome.org> | 
+ | [libgnomecanvas](/f10/package/libgnomecanvas) | 28 | 378 | 7.4 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [vte](/f10/package/vte) | 8 | 108 | 7.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-commander](/f10/package/gnome-commander) | 602 | 8206 | 7.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [kiconedit](/f10/package/kiconedit) | 51 | 726 | 7.0 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gedit](/f10/package/gedit) | 895 | 12766 | 7.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gcalctool](/f10/package/gcalctool) | 534 | 7666 | 7.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [epiphany](/f10/package/epiphany) | 706 | 10150 | 7.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [balsa](/f10/package/balsa) | 395 | 5966 | 6.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-subtitles](/f10/package/gnome-subtitles) | 161 | 2456 | 6.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [seahorse](/f10/package/seahorse) | 427 | 6804 | 6.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gok](/f10/package/gok) | 119 | 1942 | 6.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [seahorse-plugins](/f10/package/seahorse-plugins) | 489 | 8292 | 5.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [f-spot](/f10/package/f-spot) | 349 | 6092 | 5.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gucharmap](/f10/package/gucharmap) | 137 | 2403 | 5.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-applet-timer](/f10/package/gnome-applet-timer) | 16 | 283 | 5.7 | Occitan (post 1500) <oc@li.org> | 
+ | [epiphany-extensions](/f10/package/epiphany-extensions) | 230 | 4135 | 5.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-build](/f10/package/gnome-build) | 31 | 577 | 5.4 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [goffice](/f10/package/goffice) | 212 | 3990 | 5.3 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [almanah](/f10/package/almanah) | 17 | 333 | 5.1 | GNOME French Team <gnomefr@traduc.org> | 
+ | [metacity](/f10/package/metacity) | 410 | 8049 | 5.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [goffice04](/f10/package/goffice04) | 203 | 3990 | 5.1 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-mag](/f10/package/gnome-mag) | 15 | 298 | 5.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-system-monitor](/f10/package/gnome-system-monitor) | 187 | 3754 | 5.0 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [kmid](/f10/package/kmid) | 26 | 535 | 4.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gimp](/f10/package/gimp) | 1208 | 24952 | 4.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-terminal](/f10/package/gnome-terminal) | 338 | 7077 | 4.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [GConf2](/f10/package/GConf2) | 188 | 3955 | 4.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnomeradio](/f10/package/gnomeradio) | 104 | 2212 | 4.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [kcoloredit](/f10/package/kcoloredit) | 13 | 278 | 4.7 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-user-share](/f10/package/gnome-user-share) | 12 | 257 | 4.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gossip](/f10/package/gossip) | 233 | 5061 | 4.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [brasero](/f10/package/brasero) | 243 | 5296 | 4.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [cowbell](/f10/package/cowbell) | 27 | 638 | 4.2 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-packagekit](/f10/package/gnome-packagekit) | 186 | 4434 | 4.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [anjuta](/f10/package/anjuta) | 738 | 19235 | 3.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-schedule](/f10/package/gnome-schedule) | 130 | 3410 | 3.8 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 370 | 9859 | 3.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgnomedb](/f10/package/libgnomedb) | 82 | 2298 | 3.6 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-games](/f10/package/gnome-games) | 1874 | 53195 | 3.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [sound-juicer](/f10/package/sound-juicer) | 214 | 6135 | 3.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [pidgin](/f10/package/pidgin) | 589 | 17989 | 3.3 | fr <fr@li.org> | 
+ | [libgdl](/f10/package/libgdl) | 19 | 613 | 3.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [ktorrent](/f10/package/ktorrent) | 186 | 6795 | 2.7 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [dasher](/f10/package/dasher) | 174 | 6382 | 2.7 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [mousetweaks](/f10/package/mousetweaks) | 84 | 3305 | 2.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [rsibreak](/f10/package/rsibreak) | 30 | 1223 | 2.5 | Occitan (lengadocian) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-power-manager](/f10/package/gnome-power-manager) | 175 | 7617 | 2.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [ekiga](/f10/package/ekiga) | 211 | 9652 | 2.2 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-themes](/f10/package/gnome-themes) | 2 | 96 | 2.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-user-docs](/f10/package/gnome-user-docs) | 1390 | 76735 | 1.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgda](/f10/package/libgda) | 77 | 4344 | 1.8 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [glib2](/f10/package/glib2) | 36 | 2197 | 1.6 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [bluez-gnome](/f10/package/bluez-gnome) | 10 | 631 | 1.6 | Occitan (post 1500) <oc@li.org> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 36 | 2325 | 1.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [tuxpaint-stamps](/f10/package/tuxpaint-stamps) | 39 | 2617 | 1.5 | Occitan (post 1500) <oc@li.org> | 
+ | [libbonobo](/f10/package/libbonobo) | 8 | 543 | 1.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [kopete-cryptography](/f10/package/kopete-cryptography) | 6 | 408 | 1.5 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gdesklets](/f10/package/gdesklets) | 19 | 1380 | 1.4 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnome-devel-docs](/f10/package/gnome-devel-docs) | 139 | 10715 | 1.3 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [gnumeric](/f10/package/gnumeric) | 533 | 46374 | 1.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [iso-codes](/f10/package/iso-codes) | 135 | 12368 | 1.1 | Occitan <laborde@crpp.u-bordeaux.fr> | 
+ | [gnome-keyring](/f10/package/gnome-keyring) | 11 | 1025 | 1.1 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [genius](/f10/package/genius) | 59 | 6602 | 0.9 | Occitan <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [po4a](/f10/package/po4a) | 14 | 1613 | 0.9 | Occitan (post 1500) <oc@li.org> | 
+ | [ntfs-config](/f10/package/ntfs-config) | 3 | 357 | 0.8 | Occitan (post 1500) <oc@li.org> | 
+ | [gdm](/f10/package/gdm) | 54 | 32506 | 0.2 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
+ | [libgsf](/f10/package/libgsf) | 0 | 77 | 0.0 | Occitan (post 1500) <ubuntu-l10n-oci@lists.ubuntu.com> | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f14/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f14/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 39 | 1744 | 2.2 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f14/package/picard.md" >}}) | 29 | 1311 | 2.2 | Scots <sco@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 2 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [gnomad2](/f14/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [pyroom](/f14/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [stellarium](/f14/package/stellarium) | 39 | 1744 | 2.2 | Scots <sco@li.org> | 
+ | [picard](/f14/package/picard) | 29 | 1311 | 2.2 | Scots <sco@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 2 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

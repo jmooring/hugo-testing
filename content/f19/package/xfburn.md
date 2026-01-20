@@ -18,45 +18,45 @@ The package xfburn (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/ca.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/de.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/en_GB.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/eu.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/fr.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/ja.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/pt_BR.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/ast.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/cs.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/gl.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/id.po | 
- | [kk]({{< ref "/f19/language/kk.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/kk.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/lv.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/ru.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/zh_CN.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 1228 | 1300 | 94.5 | /mnt/stockage/packages/f19/xfburn/po/tr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1209 | 1300 | 93.0 | /mnt/stockage/packages/f19/xfburn/po/sv.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 1161 | 1300 | 89.3 | /mnt/stockage/packages/f19/xfburn/po/uk.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 1128 | 1300 | 86.8 | /mnt/stockage/packages/f19/xfburn/po/nb.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 1122 | 1300 | 86.3 | /mnt/stockage/packages/f19/xfburn/po/el.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 616 | 1300 | 47.4 | /mnt/stockage/packages/f19/xfburn/po/pl.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 562 | 1300 | 43.2 | /mnt/stockage/packages/f19/xfburn/po/et.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 306 | 1300 | 23.5 | /mnt/stockage/packages/f19/xfburn/po/ar.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 294 | 1300 | 22.6 | /mnt/stockage/packages/f19/xfburn/po/ko.po | 
- | [ur]({{< ref "/f19/language/ur.md" >}}) | 294 | 1300 | 22.6 | /mnt/stockage/packages/f19/xfburn/po/ur.po | 
- | [ur_PK]({{< ref "/f19/language/ur_PK.md" >}}) | 294 | 1300 | 22.6 | /mnt/stockage/packages/f19/xfburn/po/ur_PK.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 281 | 1300 | 21.6 | /mnt/stockage/packages/f19/xfburn/po/sq.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 222 | 1300 | 17.1 | /mnt/stockage/packages/f19/xfburn/po/he.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 222 | 1300 | 17.1 | /mnt/stockage/packages/f19/xfburn/po/pa.po | 
- | [dz]({{< ref "/f19/language/dz.md" >}}) | 215 | 1300 | 16.5 | /mnt/stockage/packages/f19/xfburn/po/dz.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 215 | 1300 | 16.5 | /mnt/stockage/packages/f19/xfburn/po/nl.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 215 | 1300 | 16.5 | /mnt/stockage/packages/f19/xfburn/po/zh_TW.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 0 | 1300 | 0.0 | /mnt/stockage/packages/f19/xfburn/po/lt.po | 
+ | [ca](/f19/language/ca) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/ca.po | 
+ | [da](/f19/language/da) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/da.po | 
+ | [de](/f19/language/de) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/de.po | 
+ | [en_GB](/f19/language/en_GB) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/en_GB.po | 
+ | [eu](/f19/language/eu) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/eu.po | 
+ | [fi](/f19/language/fi) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/fi.po | 
+ | [fr](/f19/language/fr) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/fr.po | 
+ | [hu](/f19/language/hu) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/hu.po | 
+ | [it](/f19/language/it) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/it.po | 
+ | [ja](/f19/language/ja) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/ja.po | 
+ | [pt](/f19/language/pt) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 1300 | 1300 | 100.0 | /mnt/stockage/packages/f19/xfburn/po/pt_BR.po | 
+ | [ast](/f19/language/ast) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/ast.po | 
+ | [cs](/f19/language/cs) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/cs.po | 
+ | [es](/f19/language/es) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/es.po | 
+ | [gl](/f19/language/gl) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/gl.po | 
+ | [id](/f19/language/id) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/id.po | 
+ | [kk](/f19/language/kk) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/kk.po | 
+ | [lv](/f19/language/lv) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/lv.po | 
+ | [ru](/f19/language/ru) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/ru.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 1285 | 1300 | 98.8 | /mnt/stockage/packages/f19/xfburn/po/zh_CN.po | 
+ | [tr](/f19/language/tr) | 1228 | 1300 | 94.5 | /mnt/stockage/packages/f19/xfburn/po/tr.po | 
+ | [sv](/f19/language/sv) | 1209 | 1300 | 93.0 | /mnt/stockage/packages/f19/xfburn/po/sv.po | 
+ | [uk](/f19/language/uk) | 1161 | 1300 | 89.3 | /mnt/stockage/packages/f19/xfburn/po/uk.po | 
+ | [nb_NO](/f19/language/nb_NO) | 1128 | 1300 | 86.8 | /mnt/stockage/packages/f19/xfburn/po/nb.po | 
+ | [el](/f19/language/el) | 1122 | 1300 | 86.3 | /mnt/stockage/packages/f19/xfburn/po/el.po | 
+ | [pl](/f19/language/pl) | 616 | 1300 | 47.4 | /mnt/stockage/packages/f19/xfburn/po/pl.po | 
+ | [et](/f19/language/et) | 562 | 1300 | 43.2 | /mnt/stockage/packages/f19/xfburn/po/et.po | 
+ | [ar](/f19/language/ar) | 306 | 1300 | 23.5 | /mnt/stockage/packages/f19/xfburn/po/ar.po | 
+ | [ko](/f19/language/ko) | 294 | 1300 | 22.6 | /mnt/stockage/packages/f19/xfburn/po/ko.po | 
+ | [ur](/f19/language/ur) | 294 | 1300 | 22.6 | /mnt/stockage/packages/f19/xfburn/po/ur.po | 
+ | [ur_PK](/f19/language/ur_PK) | 294 | 1300 | 22.6 | /mnt/stockage/packages/f19/xfburn/po/ur_PK.po | 
+ | [sq](/f19/language/sq) | 281 | 1300 | 21.6 | /mnt/stockage/packages/f19/xfburn/po/sq.po | 
+ | [he](/f19/language/he) | 222 | 1300 | 17.1 | /mnt/stockage/packages/f19/xfburn/po/he.po | 
+ | [pa](/f19/language/pa) | 222 | 1300 | 17.1 | /mnt/stockage/packages/f19/xfburn/po/pa.po | 
+ | [dz](/f19/language/dz) | 215 | 1300 | 16.5 | /mnt/stockage/packages/f19/xfburn/po/dz.po | 
+ | [nl](/f19/language/nl) | 215 | 1300 | 16.5 | /mnt/stockage/packages/f19/xfburn/po/nl.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 215 | 1300 | 16.5 | /mnt/stockage/packages/f19/xfburn/po/zh_TW.po | 
+ | [lt](/f19/language/lt) | 0 | 1300 | 0.0 | /mnt/stockage/packages/f19/xfburn/po/lt.po | 
 {.sortable}
 
 

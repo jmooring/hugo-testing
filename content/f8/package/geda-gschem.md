@@ -18,14 +18,14 @@ The package geda-gschem (version 20070902):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 1647 | 1693 | 97.3 | /mnt/stockage/packages/f8/geda-gschem/po/de_DE.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1647 | 1693 | 97.3 | /mnt/stockage/packages/f8/geda-gschem/po/es_ES.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1495 | 1693 | 88.3 | /mnt/stockage/packages/f8/geda-gschem/po/fr_FR.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1353 | 1693 | 79.9 | /mnt/stockage/packages/f8/geda-gschem/po/it_IT.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1266 | 1693 | 74.8 | /mnt/stockage/packages/f8/geda-gschem/po/ru.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1183 | 1693 | 69.9 | /mnt/stockage/packages/f8/geda-gschem/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1069 | 1693 | 63.1 | /mnt/stockage/packages/f8/geda-gschem/po/pt_BR.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 859 | 1693 | 50.7 | /mnt/stockage/packages/f8/geda-gschem/po/ja_JP.po | 
+ | [de](/f8/language/de) | 1647 | 1693 | 97.3 | /mnt/stockage/packages/f8/geda-gschem/po/de_DE.po | 
+ | [es](/f8/language/es) | 1647 | 1693 | 97.3 | /mnt/stockage/packages/f8/geda-gschem/po/es_ES.po | 
+ | [fr](/f8/language/fr) | 1495 | 1693 | 88.3 | /mnt/stockage/packages/f8/geda-gschem/po/fr_FR.po | 
+ | [it](/f8/language/it) | 1353 | 1693 | 79.9 | /mnt/stockage/packages/f8/geda-gschem/po/it_IT.po | 
+ | [ru](/f8/language/ru) | 1266 | 1693 | 74.8 | /mnt/stockage/packages/f8/geda-gschem/po/ru.po | 
+ | [nl](/f8/language/nl) | 1183 | 1693 | 69.9 | /mnt/stockage/packages/f8/geda-gschem/po/nl_NL.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1069 | 1693 | 63.1 | /mnt/stockage/packages/f8/geda-gschem/po/pt_BR.po | 
+ | [ja](/f8/language/ja) | 859 | 1693 | 50.7 | /mnt/stockage/packages/f8/geda-gschem/po/ja_JP.po | 
 {.sortable}
 
 

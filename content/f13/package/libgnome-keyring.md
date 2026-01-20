@@ -18,53 +18,53 @@ The package libgnome-keyring (version 2.30.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ar.po | 
- | [ast]({{< ref "/f13/language/ast.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ast.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/bg.po | 
- | [bn]({{< ref "/f13/language/bn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/bn.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ca.po | 
- | [ca@valencia]({{< ref "/f13/language/ca@valencia.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ca@valencia.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/cs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/de.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/el.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/es.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/et.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/eu.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/fi.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/gl.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/hu.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ja.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ko.po | 
- | [lt]({{< ref "/f13/language/lt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/lt.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/lv.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ml.po | 
- | [mn]({{< ref "/f13/language/mn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/mn.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nb.po | 
- | [nds]({{< ref "/f13/language/nds.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nds.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nl.po | 
- | [nn]({{< ref "/f13/language/nn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nn.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pa.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pt_BR.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ro.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ru.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sk.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sl.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sr.po | 
- | [sr_Latn]({{< ref "/f13/language/sr_Latn.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sr@latin.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sv.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ta.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/th.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/uk.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f13/language/zh_Hant_HK.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/zh_HK.po | 
+ | [ar](/f13/language/ar) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ar.po | 
+ | [ast](/f13/language/ast) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ast.po | 
+ | [bg](/f13/language/bg) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/bg.po | 
+ | [bn](/f13/language/bn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/bn.po | 
+ | [ca](/f13/language/ca) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ca.po | 
+ | [ca@valencia](/f13/language/ca@valencia) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ca@valencia.po | 
+ | [cs](/f13/language/cs) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/cs.po | 
+ | [da](/f13/language/da) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/da.po | 
+ | [de](/f13/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/de.po | 
+ | [el](/f13/language/el) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/el.po | 
+ | [en_GB](/f13/language/en_GB) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/en_GB.po | 
+ | [es](/f13/language/es) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/es.po | 
+ | [et](/f13/language/et) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/et.po | 
+ | [eu](/f13/language/eu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/eu.po | 
+ | [fi](/f13/language/fi) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/fi.po | 
+ | [fr](/f13/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/fr.po | 
+ | [gl](/f13/language/gl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/gl.po | 
+ | [hu](/f13/language/hu) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/hu.po | 
+ | [id](/f13/language/id) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/id.po | 
+ | [it](/f13/language/it) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/it.po | 
+ | [ja](/f13/language/ja) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ja.po | 
+ | [ko](/f13/language/ko) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ko.po | 
+ | [lt](/f13/language/lt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/lt.po | 
+ | [lv](/f13/language/lv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/lv.po | 
+ | [ml](/f13/language/ml) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ml.po | 
+ | [mn](/f13/language/mn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/mn.po | 
+ | [nb_NO](/f13/language/nb_NO) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nb.po | 
+ | [nds](/f13/language/nds) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nds.po | 
+ | [nl](/f13/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nl.po | 
+ | [nn](/f13/language/nn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/nn.po | 
+ | [pa](/f13/language/pa) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pa.po | 
+ | [pl](/f13/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pl.po | 
+ | [pt](/f13/language/pt) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/pt_BR.po | 
+ | [ro](/f13/language/ro) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ro.po | 
+ | [ru](/f13/language/ru) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ru.po | 
+ | [sk](/f13/language/sk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sk.po | 
+ | [sl](/f13/language/sl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sl.po | 
+ | [sr](/f13/language/sr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sr.po | 
+ | [sr_Latn](/f13/language/sr_Latn) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sr@latin.po | 
+ | [sv](/f13/language/sv) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/sv.po | 
+ | [ta](/f13/language/ta) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/ta.po | 
+ | [th](/f13/language/th) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/th.po | 
+ | [uk](/f13/language/uk) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/uk.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/zh_TW.po | 
+ | [zh_Hant_HK](/f13/language/zh_Hant_HK) | 44 | 44 | 100.0 | /mnt/stockage/packages/f13/libgnome-keyring/po/zh_HK.po | 
 {.sortable}
 
 

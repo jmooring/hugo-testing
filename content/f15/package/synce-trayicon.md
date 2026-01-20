@@ -18,8 +18,8 @@ The package synce-trayicon (version 0.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 153 | 155 | 98.7 | /mnt/stockage/packages/f15/synce-trayicon/po/sv.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 144 | 155 | 92.9 | /mnt/stockage/packages/f15/synce-trayicon/po/ru.po | 
+ | [sv](/f15/language/sv) | 153 | 155 | 98.7 | /mnt/stockage/packages/f15/synce-trayicon/po/sv.po | 
+ | [ru](/f15/language/ru) | 144 | 155 | 92.9 | /mnt/stockage/packages/f15/synce-trayicon/po/ru.po | 
 {.sortable}
 
 

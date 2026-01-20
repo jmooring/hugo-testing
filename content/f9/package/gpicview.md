@@ -18,17 +18,17 @@ The package gpicview (version 0.1.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f9/gpicview/po/zh_TW.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/cs.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/nl.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/pl.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/sk.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/zh_CN.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 100 | 152 | 65.8 | /mnt/stockage/packages/f9/gpicview/po/fr.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 85 | 152 | 55.9 | /mnt/stockage/packages/f9/gpicview/po/pt_BR.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 84 | 152 | 55.3 | /mnt/stockage/packages/f9/gpicview/po/de_DE.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 84 | 152 | 55.3 | /mnt/stockage/packages/f9/gpicview/po/es.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 84 | 152 | 55.3 | /mnt/stockage/packages/f9/gpicview/po/gl.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 152 | 152 | 100.0 | /mnt/stockage/packages/f9/gpicview/po/zh_TW.po | 
+ | [cs](/f9/language/cs) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/cs.po | 
+ | [nl](/f9/language/nl) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/nl.po | 
+ | [pl](/f9/language/pl) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/pl.po | 
+ | [sk](/f9/language/sk) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/sk.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 115 | 152 | 75.7 | /mnt/stockage/packages/f9/gpicview/po/zh_CN.po | 
+ | [fr](/f9/language/fr) | 100 | 152 | 65.8 | /mnt/stockage/packages/f9/gpicview/po/fr.po | 
+ | [pt_BR](/f9/language/pt_BR) | 85 | 152 | 55.9 | /mnt/stockage/packages/f9/gpicview/po/pt_BR.po | 
+ | [de](/f9/language/de) | 84 | 152 | 55.3 | /mnt/stockage/packages/f9/gpicview/po/de_DE.po | 
+ | [es](/f9/language/es) | 84 | 152 | 55.3 | /mnt/stockage/packages/f9/gpicview/po/es.po | 
+ | [gl](/f9/language/gl) | 84 | 152 | 55.3 | /mnt/stockage/packages/f9/gpicview/po/gl.po | 
 {.sortable}
 
 

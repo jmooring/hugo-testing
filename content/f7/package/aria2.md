@@ -18,16 +18,16 @@ The package aria2 (version 0.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2561 | 2561 | 100.0 | /mnt/stockage/packages/f7/aria2/po/ja.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 2191 | 2561 | 85.6 | /mnt/stockage/packages/f7/aria2/po/ca.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2191 | 2561 | 85.6 | /mnt/stockage/packages/f7/aria2/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1679 | 2561 | 65.6 | /mnt/stockage/packages/f7/aria2/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1043 | 2561 | 40.7 | /mnt/stockage/packages/f7/aria2/po/de.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 684 | 2561 | 26.7 | /mnt/stockage/packages/f7/aria2/po/it.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 684 | 2561 | 26.7 | /mnt/stockage/packages/f7/aria2/po/sv.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 679 | 2561 | 26.5 | /mnt/stockage/packages/f7/aria2/po/nl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 668 | 2561 | 26.1 | /mnt/stockage/packages/f7/aria2/po/ru.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 315 | 2561 | 12.3 | /mnt/stockage/packages/f7/aria2/po/pt_BR.po | 
+ | [ja](/f7/language/ja) | 2561 | 2561 | 100.0 | /mnt/stockage/packages/f7/aria2/po/ja.po | 
+ | [ca](/f7/language/ca) | 2191 | 2561 | 85.6 | /mnt/stockage/packages/f7/aria2/po/ca.po | 
+ | [es](/f7/language/es) | 2191 | 2561 | 85.6 | /mnt/stockage/packages/f7/aria2/po/es.po | 
+ | [fr](/f7/language/fr) | 1679 | 2561 | 65.6 | /mnt/stockage/packages/f7/aria2/po/fr.po | 
+ | [de](/f7/language/de) | 1043 | 2561 | 40.7 | /mnt/stockage/packages/f7/aria2/po/de.po | 
+ | [it](/f7/language/it) | 684 | 2561 | 26.7 | /mnt/stockage/packages/f7/aria2/po/it.po | 
+ | [sv](/f7/language/sv) | 684 | 2561 | 26.7 | /mnt/stockage/packages/f7/aria2/po/sv.po | 
+ | [nl](/f7/language/nl) | 679 | 2561 | 26.5 | /mnt/stockage/packages/f7/aria2/po/nl.po | 
+ | [ru](/f7/language/ru) | 668 | 2561 | 26.1 | /mnt/stockage/packages/f7/aria2/po/ru.po | 
+ | [pt_BR](/f7/language/pt_BR) | 315 | 2561 | 12.3 | /mnt/stockage/packages/f7/aria2/po/pt_BR.po | 
 {.sortable}
 
 

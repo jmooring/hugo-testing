@@ -18,51 +18,51 @@ The package plasma-milou (version 5.12.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ca/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ca/plasma_applet_org.kde.milou.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ca@valencia/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ca@valencia/plasma_applet_org.kde.milou.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/da/milou.po/mnt/stockage/packages/f27/plasma-milou/po/da/plasma_applet_org.kde.milou.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/de/milou.po/mnt/stockage/packages/f27/plasma-milou/po/de/plasma_applet_org.kde.milou.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/en_GB/milou.po/mnt/stockage/packages/f27/plasma-milou/po/en_GB/plasma_applet_org.kde.milou.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/es/milou.po/mnt/stockage/packages/f27/plasma-milou/po/es/plasma_applet_org.kde.milou.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/eu/milou.po/mnt/stockage/packages/f27/plasma-milou/po/eu/plasma_applet_org.kde.milou.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/fi/milou.po/mnt/stockage/packages/f27/plasma-milou/po/fi/plasma_applet_org.kde.milou.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/fr/milou.po/mnt/stockage/packages/f27/plasma-milou/po/fr/plasma_applet_org.kde.milou.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/gl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/gl/plasma_applet_org.kde.milou.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/id/milou.po/mnt/stockage/packages/f27/plasma-milou/po/id/plasma_applet_org.kde.milou.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/it/milou.po/mnt/stockage/packages/f27/plasma-milou/po/it/plasma_applet_org.kde.milou.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ko/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ko/plasma_applet_org.kde.milou.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/nl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nl/plasma_applet_org.kde.milou.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/nn/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nn/plasma_applet_org.kde.milou.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/pl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pl/plasma_applet_org.kde.milou.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/pt/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pt/plasma_applet_org.kde.milou.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/pt_BR/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pt_BR/plasma_applet_org.kde.milou.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ru/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ru/plasma_applet_org.kde.milou.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sk/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sk/plasma_applet_org.kde.milou.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sl/plasma_applet_org.kde.milou.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr/plasma_applet_org.kde.milou.po | 
- | [sr@ijekavian]({{< ref "/f27/language/sr@ijekavian.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavian/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavian/plasma_applet_org.kde.milou.po | 
- | [sr@ijekavian_Latn]({{< ref "/f27/language/sr@ijekavian_Latn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavianlatin/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavianlatin/plasma_applet_org.kde.milou.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr@latin/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr@latin/plasma_applet_org.kde.milou.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sv/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sv/plasma_applet_org.kde.milou.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/tr/milou.po/mnt/stockage/packages/f27/plasma-milou/po/tr/plasma_applet_org.kde.milou.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/uk/milou.po/mnt/stockage/packages/f27/plasma-milou/po/uk/plasma_applet_org.kde.milou.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/zh_CN/milou.po/mnt/stockage/packages/f27/plasma-milou/po/zh_CN/plasma_applet_org.kde.milou.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/zh_TW/milou.po/mnt/stockage/packages/f27/plasma-milou/po/zh_TW/plasma_applet_org.kde.milou.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 40 | 42 | 95.2 | /mnt/stockage/packages/f27/plasma-milou/po/cs/milou.po/mnt/stockage/packages/f27/plasma-milou/po/cs/plasma_applet_org.kde.milou.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 35 | 42 | 83.3 | /mnt/stockage/packages/f27/plasma-milou/po/el/milou.po/mnt/stockage/packages/f27/plasma-milou/po/el/plasma_applet_org.kde.milou.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 35 | 42 | 83.3 | /mnt/stockage/packages/f27/plasma-milou/po/he/milou.po/mnt/stockage/packages/f27/plasma-milou/po/he/plasma_applet_org.kde.milou.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 35 | 42 | 83.3 | /mnt/stockage/packages/f27/plasma-milou/po/hu/milou.po/mnt/stockage/packages/f27/plasma-milou/po/hu/plasma_applet_org.kde.milou.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/ar/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ar/plasma_applet_org.kde.milou.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/bs/milou.po/mnt/stockage/packages/f27/plasma-milou/po/bs/plasma_applet_org.kde.milou.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/et/milou.po/mnt/stockage/packages/f27/plasma-milou/po/et/plasma_applet_org.kde.milou.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/nb/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nb/plasma_applet_org.kde.milou.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/nds/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nds/plasma_applet_org.kde.milou.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/ro/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ro/plasma_applet_org.kde.milou.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 13 | 42 | 31.0 | /mnt/stockage/packages/f27/plasma-milou/po/lt/milou.po/mnt/stockage/packages/f27/plasma-milou/po/lt/plasma_applet_org.kde.milou.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 12 | 42 | 28.6 | /mnt/stockage/packages/f27/plasma-milou/po/ia/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ia/plasma_applet_org.kde.milou.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 11 | 42 | 26.2 | /mnt/stockage/packages/f27/plasma-milou/po/pa/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pa/plasma_applet_org.kde.milou.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 3 | 42 | 7.1 | /mnt/stockage/packages/f27/plasma-milou/po/ast/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ast/plasma_applet_org.kde.milou.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 42 | 0.0 | /mnt/stockage/packages/f27/plasma-milou/po/ja/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ja/plasma_applet_org.kde.milou.po | 
+ | [ca](/f27/language/ca) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ca/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ca/plasma_applet_org.kde.milou.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ca@valencia/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ca@valencia/plasma_applet_org.kde.milou.po | 
+ | [da](/f27/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/da/milou.po/mnt/stockage/packages/f27/plasma-milou/po/da/plasma_applet_org.kde.milou.po | 
+ | [de](/f27/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/de/milou.po/mnt/stockage/packages/f27/plasma-milou/po/de/plasma_applet_org.kde.milou.po | 
+ | [en_GB](/f27/language/en_GB) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/en_GB/milou.po/mnt/stockage/packages/f27/plasma-milou/po/en_GB/plasma_applet_org.kde.milou.po | 
+ | [es](/f27/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/es/milou.po/mnt/stockage/packages/f27/plasma-milou/po/es/plasma_applet_org.kde.milou.po | 
+ | [eu](/f27/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/eu/milou.po/mnt/stockage/packages/f27/plasma-milou/po/eu/plasma_applet_org.kde.milou.po | 
+ | [fi](/f27/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/fi/milou.po/mnt/stockage/packages/f27/plasma-milou/po/fi/plasma_applet_org.kde.milou.po | 
+ | [fr](/f27/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/fr/milou.po/mnt/stockage/packages/f27/plasma-milou/po/fr/plasma_applet_org.kde.milou.po | 
+ | [gl](/f27/language/gl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/gl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/gl/plasma_applet_org.kde.milou.po | 
+ | [id](/f27/language/id) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/id/milou.po/mnt/stockage/packages/f27/plasma-milou/po/id/plasma_applet_org.kde.milou.po | 
+ | [it](/f27/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/it/milou.po/mnt/stockage/packages/f27/plasma-milou/po/it/plasma_applet_org.kde.milou.po | 
+ | [ko](/f27/language/ko) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ko/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ko/plasma_applet_org.kde.milou.po | 
+ | [nl](/f27/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/nl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nl/plasma_applet_org.kde.milou.po | 
+ | [nn](/f27/language/nn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/nn/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nn/plasma_applet_org.kde.milou.po | 
+ | [pl](/f27/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/pl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pl/plasma_applet_org.kde.milou.po | 
+ | [pt](/f27/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/pt/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pt/plasma_applet_org.kde.milou.po | 
+ | [pt_BR](/f27/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/pt_BR/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pt_BR/plasma_applet_org.kde.milou.po | 
+ | [ru](/f27/language/ru) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/ru/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ru/plasma_applet_org.kde.milou.po | 
+ | [sk](/f27/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sk/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sk/plasma_applet_org.kde.milou.po | 
+ | [sl](/f27/language/sl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sl/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sl/plasma_applet_org.kde.milou.po | 
+ | [sr](/f27/language/sr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr/plasma_applet_org.kde.milou.po | 
+ | [sr@ijekavian](/f27/language/sr@ijekavian) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavian/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavian/plasma_applet_org.kde.milou.po | 
+ | [sr@ijekavian_Latn](/f27/language/sr@ijekavian_Latn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavianlatin/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr@ijekavianlatin/plasma_applet_org.kde.milou.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sr@latin/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sr@latin/plasma_applet_org.kde.milou.po | 
+ | [sv](/f27/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/sv/milou.po/mnt/stockage/packages/f27/plasma-milou/po/sv/plasma_applet_org.kde.milou.po | 
+ | [tr](/f27/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/tr/milou.po/mnt/stockage/packages/f27/plasma-milou/po/tr/plasma_applet_org.kde.milou.po | 
+ | [uk](/f27/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/uk/milou.po/mnt/stockage/packages/f27/plasma-milou/po/uk/plasma_applet_org.kde.milou.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/zh_CN/milou.po/mnt/stockage/packages/f27/plasma-milou/po/zh_CN/plasma_applet_org.kde.milou.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f27/plasma-milou/po/zh_TW/milou.po/mnt/stockage/packages/f27/plasma-milou/po/zh_TW/plasma_applet_org.kde.milou.po | 
+ | [cs](/f27/language/cs) | 40 | 42 | 95.2 | /mnt/stockage/packages/f27/plasma-milou/po/cs/milou.po/mnt/stockage/packages/f27/plasma-milou/po/cs/plasma_applet_org.kde.milou.po | 
+ | [el](/f27/language/el) | 35 | 42 | 83.3 | /mnt/stockage/packages/f27/plasma-milou/po/el/milou.po/mnt/stockage/packages/f27/plasma-milou/po/el/plasma_applet_org.kde.milou.po | 
+ | [he](/f27/language/he) | 35 | 42 | 83.3 | /mnt/stockage/packages/f27/plasma-milou/po/he/milou.po/mnt/stockage/packages/f27/plasma-milou/po/he/plasma_applet_org.kde.milou.po | 
+ | [hu](/f27/language/hu) | 35 | 42 | 83.3 | /mnt/stockage/packages/f27/plasma-milou/po/hu/milou.po/mnt/stockage/packages/f27/plasma-milou/po/hu/plasma_applet_org.kde.milou.po | 
+ | [ar](/f27/language/ar) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/ar/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ar/plasma_applet_org.kde.milou.po | 
+ | [bs](/f27/language/bs) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/bs/milou.po/mnt/stockage/packages/f27/plasma-milou/po/bs/plasma_applet_org.kde.milou.po | 
+ | [et](/f27/language/et) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/et/milou.po/mnt/stockage/packages/f27/plasma-milou/po/et/plasma_applet_org.kde.milou.po | 
+ | [nb_NO](/f27/language/nb_NO) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/nb/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nb/plasma_applet_org.kde.milou.po | 
+ | [nds](/f27/language/nds) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/nds/milou.po/mnt/stockage/packages/f27/plasma-milou/po/nds/plasma_applet_org.kde.milou.po | 
+ | [ro](/f27/language/ro) | 33 | 42 | 78.6 | /mnt/stockage/packages/f27/plasma-milou/po/ro/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ro/plasma_applet_org.kde.milou.po | 
+ | [lt](/f27/language/lt) | 13 | 42 | 31.0 | /mnt/stockage/packages/f27/plasma-milou/po/lt/milou.po/mnt/stockage/packages/f27/plasma-milou/po/lt/plasma_applet_org.kde.milou.po | 
+ | [ia](/f27/language/ia) | 12 | 42 | 28.6 | /mnt/stockage/packages/f27/plasma-milou/po/ia/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ia/plasma_applet_org.kde.milou.po | 
+ | [pa](/f27/language/pa) | 11 | 42 | 26.2 | /mnt/stockage/packages/f27/plasma-milou/po/pa/milou.po/mnt/stockage/packages/f27/plasma-milou/po/pa/plasma_applet_org.kde.milou.po | 
+ | [ast](/f27/language/ast) | 3 | 42 | 7.1 | /mnt/stockage/packages/f27/plasma-milou/po/ast/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ast/plasma_applet_org.kde.milou.po | 
+ | [ja](/f27/language/ja) | 0 | 42 | 0.0 | /mnt/stockage/packages/f27/plasma-milou/po/ja/milou.po/mnt/stockage/packages/f27/plasma-milou/po/ja/plasma_applet_org.kde.milou.po | 
 {.sortable}
 
 

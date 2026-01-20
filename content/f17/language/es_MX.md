@@ -38,33 +38,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [audacious]({{< ref "/f17/package/audacious.md" >}}) | 716 | 716 | 100.0 | Spanish (Mexican) | 
- | [audacious-plugins]({{< ref "/f17/package/audacious-plugins.md" >}}) | 3092 | 3092 | 100.0 | Spanish (Mexican) | 
- | [bisho]({{< ref "/f17/package/bisho.md" >}}) | 164 | 164 | 100.0 |  | 
- | [gnome-applets]({{< ref "/f17/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libmx]({{< ref "/f17/package/libmx.md" >}}) | 40 | 40 | 100.0 |  | 
- | [python-django-helpdesk]({{< ref "/f17/package/python-django-helpdesk.md" >}}) | 2945 | 2945 | 100.0 | Spanish (Mexican) (http://www.transifex.net/projects/p/django-helpdesk/team/es_MX/) | 
- | [Django]({{< ref "/f17/package/Django.md" >}}) | 5051 | 5056 | 99.9 | Spanish (Mexico) (http://www.transifex.net/projects/p/django/language/es_MX/) | 
- | [libgweather]({{< ref "/f17/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [gnomebaker]({{< ref "/f17/package/gnomebaker.md" >}}) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
- | [libmateweather]({{< ref "/f17/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [wicd]({{< ref "/f17/package/wicd.md" >}}) | 851 | 1058 | 80.4 | es_MX <LL@li.org> | 
- | [mate-applets]({{< ref "/f17/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [gallery2]({{< ref "/f17/package/gallery2.md" >}}) | 7731 | 10481 | 73.8 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
- | [gentoo]({{< ref "/f17/package/gentoo.md" >}}) | 1467 | 2251 | 65.2 | Language es-MX | 
- | [radiotray]({{< ref "/f17/package/radiotray.md" >}}) | 66 | 117 | 56.4 | Spanish (Mexican) (http://www.transifex.net/projects/p/radiotray/team/es_MX/) | 
- | [tuxpaint]({{< ref "/f17/package/tuxpaint.md" >}}) | 594 | 1247 | 47.6 | Español <ggabriel@internet.com.uy> | 
- | [imsettings]({{< ref "/f17/package/imsettings.md" >}}) | 178 | 404 | 44.1 | LANGUAGE <LL@li.org> | 
- | [lilyterm]({{< ref "/f17/package/lilyterm.md" >}}) | 473 | 1336 | 35.4 | lilyterm | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 18282 | 55047 | 33.2 | Spanish (Mexico) <es_MX@li.org> | 
- | [hotot]({{< ref "/f17/package/hotot.md" >}}) | 23 | 95 | 24.2 | ktrionix-labs <ktrionixlabs@gmail.com> | 
- | [galculator]({{< ref "/f17/package/galculator.md" >}}) | 101 | 798 | 12.7 | Spanish <es@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f17/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
- | [gnue-common]({{< ref "/f17/package/gnue-common.md" >}}) | 153 | 2132 | 7.2 | Espa~ol/Mexico | 
- | [pulsecaster]({{< ref "/f17/package/pulsecaster.md" >}}) | 7 | 147 | 4.8 | es_MX <LL@li.org> | 
- | [inkscape]({{< ref "/f17/package/inkscape.md" >}}) | 716 | 26528 | 2.7 | none <none> | 
- | [im-chooser]({{< ref "/f17/package/im-chooser.md" >}}) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
- | [openconnect]({{< ref "/f17/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Spanish (Mexican) (http://www.transifex.net/projects/p/meego/team/es_MX/) | 
+ | [audacious](/f17/package/audacious) | 716 | 716 | 100.0 | Spanish (Mexican) | 
+ | [audacious-plugins](/f17/package/audacious-plugins) | 3092 | 3092 | 100.0 | Spanish (Mexican) | 
+ | [bisho](/f17/package/bisho) | 164 | 164 | 100.0 |  | 
+ | [gnome-applets](/f17/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libmx](/f17/package/libmx) | 40 | 40 | 100.0 |  | 
+ | [python-django-helpdesk](/f17/package/python-django-helpdesk) | 2945 | 2945 | 100.0 | Spanish (Mexican) (http://www.transifex.net/projects/p/django-helpdesk/team/es_MX/) | 
+ | [Django](/f17/package/Django) | 5051 | 5056 | 99.9 | Spanish (Mexico) (http://www.transifex.net/projects/p/django/language/es_MX/) | 
+ | [libgweather](/f17/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [gnomebaker](/f17/package/gnomebaker) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
+ | [libmateweather](/f17/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [wicd](/f17/package/wicd) | 851 | 1058 | 80.4 | es_MX <LL@li.org> | 
+ | [mate-applets](/f17/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [gallery2](/f17/package/gallery2) | 7731 | 10481 | 73.8 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [gentoo](/f17/package/gentoo) | 1467 | 2251 | 65.2 | Language es-MX | 
+ | [radiotray](/f17/package/radiotray) | 66 | 117 | 56.4 | Spanish (Mexican) (http://www.transifex.net/projects/p/radiotray/team/es_MX/) | 
+ | [tuxpaint](/f17/package/tuxpaint) | 594 | 1247 | 47.6 | Español <ggabriel@internet.com.uy> | 
+ | [imsettings](/f17/package/imsettings) | 178 | 404 | 44.1 | LANGUAGE <LL@li.org> | 
+ | [lilyterm](/f17/package/lilyterm) | 473 | 1336 | 35.4 | lilyterm | 
+ | [openerp](/f17/package/openerp) | 18282 | 55047 | 33.2 | Spanish (Mexico) <es_MX@li.org> | 
+ | [hotot](/f17/package/hotot) | 23 | 95 | 24.2 | ktrionix-labs <ktrionixlabs@gmail.com> | 
+ | [galculator](/f17/package/galculator) | 101 | 798 | 12.7 | Spanish <es@li.org> | 
+ | [xfce4-eyes-plugin](/f17/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
+ | [gnue-common](/f17/package/gnue-common) | 153 | 2132 | 7.2 | Espa~ol/Mexico | 
+ | [pulsecaster](/f17/package/pulsecaster) | 7 | 147 | 4.8 | es_MX <LL@li.org> | 
+ | [inkscape](/f17/package/inkscape) | 716 | 26528 | 2.7 | none <none> | 
+ | [im-chooser](/f17/package/im-chooser) | 0 | 226 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [openconnect](/f17/package/openconnect) | 0 | 2573 | 0.0 | Spanish (Mexican) (http://www.transifex.net/projects/p/meego/team/es_MX/) | 
 {.sortable}
 
 

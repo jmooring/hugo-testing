@@ -18,60 +18,60 @@ The package libfilezilla (version 0.53.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f43/language/an.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/an.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 447 | 447 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ar.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/az.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ca.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ca_ES@valencia.po | 
- | [co]({{< ref "/f43/language/co.md" >}}) | 1065 | 1065 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/co.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/cs_CZ.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/cy.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/el.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/es.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/et.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/fa_IR.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/fi_FI.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/gl_ES.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/he_IL.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/hu_HU.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/hy.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/id_ID.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/is.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/it.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/kab.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ko_KR.po | 
- | [ky]({{< ref "/f43/language/ky.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ky.po | 
- | [lo]({{< ref "/f43/language/lo.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/lo_LA.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/lt_LT.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/lv_LV.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/mk_MK.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/nb_NO.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ne.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/nn_NO.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/oc.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/pl_PL.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/pt_BR.po | 
- | [pt_PT]({{< ref "/f43/language/pt_PT.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/pt_PT.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ro_RO.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sk_SK.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sl_SI.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sv.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/th_TH.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/tr.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 307 | 307 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/zh_TW.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 414 | 447 | 92.6 | /mnt/stockage/packages/f43/libfilezilla/locales/fr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 414 | 447 | 92.6 | /mnt/stockage/packages/f43/libfilezilla/locales/uk_UA.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 402 | 447 | 89.9 | /mnt/stockage/packages/f43/libfilezilla/locales/nl.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 402 | 447 | 89.9 | /mnt/stockage/packages/f43/libfilezilla/locales/vi_VN.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 934 | 1065 | 87.7 | /mnt/stockage/packages/f43/libfilezilla/locales/ja_JP.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 686 | 1065 | 64.4 | /mnt/stockage/packages/f43/libfilezilla/locales/bg_BG.po | 
+ | [an](/f43/language/an) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/an.po | 
+ | [ar](/f43/language/ar) | 447 | 447 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ar.po | 
+ | [az](/f43/language/az) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/az.po | 
+ | [ca](/f43/language/ca) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ca.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ca_ES@valencia.po | 
+ | [co](/f43/language/co) | 1065 | 1065 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/co.po | 
+ | [cs](/f43/language/cs) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/cs_CZ.po | 
+ | [cy](/f43/language/cy) | 304 | 304 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/cy.po | 
+ | [da](/f43/language/da) | 410 | 410 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/da.po | 
+ | [de](/f43/language/de) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/de.po | 
+ | [el](/f43/language/el) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/el.po | 
+ | [es](/f43/language/es) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/es.po | 
+ | [et](/f43/language/et) | 23 | 23 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/et.po | 
+ | [eu](/f43/language/eu) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/eu.po | 
+ | [fa](/f43/language/fa) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/fa_IR.po | 
+ | [fi](/f43/language/fi) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/fi_FI.po | 
+ | [gl](/f43/language/gl) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/gl_ES.po | 
+ | [he](/f43/language/he) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/he_IL.po | 
+ | [hr](/f43/language/hr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/hr.po | 
+ | [hu](/f43/language/hu) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/hu_HU.po | 
+ | [hy](/f43/language/hy) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/hy.po | 
+ | [id](/f43/language/id) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/id_ID.po | 
+ | [is](/f43/language/is) | 9 | 9 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/is.po | 
+ | [it](/f43/language/it) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/it.po | 
+ | [kab](/f43/language/kab) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/kab.po | 
+ | [ko](/f43/language/ko) | 308 | 308 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ko_KR.po | 
+ | [ky](/f43/language/ky) | 7 | 7 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ky.po | 
+ | [lo](/f43/language/lo) | 125 | 125 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/lo_LA.po | 
+ | [lt](/f43/language/lt) | 140 | 140 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/lt_LT.po | 
+ | [lv](/f43/language/lv) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/lv_LV.po | 
+ | [mk](/f43/language/mk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/mk_MK.po | 
+ | [nb_NO](/f43/language/nb_NO) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/nb_NO.po | 
+ | [ne](/f43/language/ne) | 6 | 6 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ne.po | 
+ | [nn](/f43/language/nn) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/nn_NO.po | 
+ | [oc](/f43/language/oc) | 20 | 20 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/oc.po | 
+ | [pl](/f43/language/pl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/pl_PL.po | 
+ | [pt](/f43/language/pt) | 307 | 307 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/pt_BR.po | 
+ | [pt_PT](/f43/language/pt_PT) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/pt_PT.po | 
+ | [ro](/f43/language/ro) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ro_RO.po | 
+ | [ru](/f43/language/ru) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/ru.po | 
+ | [sk](/f43/language/sk) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sk_SK.po | 
+ | [sl](/f43/language/sl) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sl_SI.po | 
+ | [sr](/f43/language/sr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sr.po | 
+ | [sv](/f43/language/sv) | 383 | 383 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/sv.po | 
+ | [th](/f43/language/th) | 197 | 197 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/th_TH.po | 
+ | [tr](/f43/language/tr) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/tr.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 402 | 402 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 307 | 307 | 100.0 | /mnt/stockage/packages/f43/libfilezilla/locales/zh_TW.po | 
+ | [fr](/f43/language/fr) | 414 | 447 | 92.6 | /mnt/stockage/packages/f43/libfilezilla/locales/fr.po | 
+ | [uk](/f43/language/uk) | 414 | 447 | 92.6 | /mnt/stockage/packages/f43/libfilezilla/locales/uk_UA.po | 
+ | [nl](/f43/language/nl) | 402 | 447 | 89.9 | /mnt/stockage/packages/f43/libfilezilla/locales/nl.po | 
+ | [vi](/f43/language/vi) | 402 | 447 | 89.9 | /mnt/stockage/packages/f43/libfilezilla/locales/vi_VN.po | 
+ | [ja](/f43/language/ja) | 934 | 1065 | 87.7 | /mnt/stockage/packages/f43/libfilezilla/locales/ja_JP.po | 
+ | [bg](/f43/language/bg) | 686 | 1065 | 64.4 | /mnt/stockage/packages/f43/libfilezilla/locales/bg_BG.po | 
 {.sortable}
 
 

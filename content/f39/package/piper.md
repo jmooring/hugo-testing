@@ -18,20 +18,20 @@ The package piper (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f39/language/be.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f39/piper/po/be.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/bg.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/es.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/hr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/it.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/pl.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f39/piper/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f39/piper/po/uk_UA.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 471 | 489 | 96.3 | /mnt/stockage/packages/f39/piper/po/pt_BR.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 417 | 465 | 89.7 | /mnt/stockage/packages/f39/piper/po/fr.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 419 | 492 | 85.2 | /mnt/stockage/packages/f39/piper/po/de.po | 
+ | [be](/f39/language/be) | 481 | 481 | 100.0 | /mnt/stockage/packages/f39/piper/po/be.po | 
+ | [bg](/f39/language/bg) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/bg.po | 
+ | [es](/f39/language/es) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/es.po | 
+ | [hr](/f39/language/hr) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/hr.po | 
+ | [it](/f39/language/it) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/it.po | 
+ | [nl](/f39/language/nl) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/nl.po | 
+ | [pl](/f39/language/pl) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/pl.po | 
+ | [ru](/f39/language/ru) | 484 | 484 | 100.0 | /mnt/stockage/packages/f39/piper/po/ru.po | 
+ | [sv](/f39/language/sv) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/sv.po | 
+ | [uk](/f39/language/uk) | 481 | 481 | 100.0 | /mnt/stockage/packages/f39/piper/po/uk_UA.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 492 | 492 | 100.0 | /mnt/stockage/packages/f39/piper/po/zh_TW.po | 
+ | [pt_BR](/f39/language/pt_BR) | 471 | 489 | 96.3 | /mnt/stockage/packages/f39/piper/po/pt_BR.po | 
+ | [fr](/f39/language/fr) | 417 | 465 | 89.7 | /mnt/stockage/packages/f39/piper/po/fr.po | 
+ | [de](/f39/language/de) | 419 | 492 | 85.2 | /mnt/stockage/packages/f39/piper/po/de.po | 
 {.sortable}
 
 

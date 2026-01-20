@@ -18,14 +18,14 @@ The package giac (version 1.4.9.45):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 6376 | 7732 | 82.5 | /mnt/stockage/packages/f26/giac/po/fr.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 3396 | 7732 | 43.9 | /mnt/stockage/packages/f26/giac/po/el.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 3019 | 7732 | 39.0 | /mnt/stockage/packages/f26/giac/po/de.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 3019 | 7732 | 39.0 | /mnt/stockage/packages/f26/giac/po/en.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1176 | 7732 | 15.2 | /mnt/stockage/packages/f26/giac/po/zh.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 263 | 7732 | 3.4 | /mnt/stockage/packages/f26/giac/po/es.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 1 | 7732 | 0.0 | /mnt/stockage/packages/f26/giac/po/pt.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 0 | 7732 | 0.0 | /mnt/stockage/packages/f26/giac/po/it.po | 
+ | [fr](/f26/language/fr) | 6376 | 7732 | 82.5 | /mnt/stockage/packages/f26/giac/po/fr.po | 
+ | [el](/f26/language/el) | 3396 | 7732 | 43.9 | /mnt/stockage/packages/f26/giac/po/el.po | 
+ | [de](/f26/language/de) | 3019 | 7732 | 39.0 | /mnt/stockage/packages/f26/giac/po/de.po | 
+ | [en](/f26/language/en) | 3019 | 7732 | 39.0 | /mnt/stockage/packages/f26/giac/po/en.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1176 | 7732 | 15.2 | /mnt/stockage/packages/f26/giac/po/zh.po | 
+ | [es](/f26/language/es) | 263 | 7732 | 3.4 | /mnt/stockage/packages/f26/giac/po/es.po | 
+ | [pt](/f26/language/pt) | 1 | 7732 | 0.0 | /mnt/stockage/packages/f26/giac/po/pt.po | 
+ | [it](/f26/language/it) | 0 | 7732 | 0.0 | /mnt/stockage/packages/f26/giac/po/it.po | 
 {.sortable}
 
 

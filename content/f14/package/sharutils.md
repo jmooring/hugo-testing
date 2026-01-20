@@ -18,33 +18,33 @@ The package sharutils (version 4.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/bg.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/fr.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/ga.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/tr.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/vi.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 646 | 1048 | 61.6 | /mnt/stockage/packages/f14/sharutils/po/nl.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 601 | 1048 | 57.3 | /mnt/stockage/packages/f14/sharutils/po/et.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 601 | 1048 | 57.3 | /mnt/stockage/packages/f14/sharutils/po/sr.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 581 | 1048 | 55.4 | /mnt/stockage/packages/f14/sharutils/po/fi.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 568 | 1048 | 54.2 | /mnt/stockage/packages/f14/sharutils/po/de.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 547 | 1048 | 52.2 | /mnt/stockage/packages/f14/sharutils/po/ca.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 547 | 1048 | 52.2 | /mnt/stockage/packages/f14/sharutils/po/da.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 524 | 1048 | 50.0 | /mnt/stockage/packages/f14/sharutils/po/hu.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 514 | 1048 | 49.0 | /mnt/stockage/packages/f14/sharutils/po/zh_TW.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 470 | 1048 | 44.8 | /mnt/stockage/packages/f14/sharutils/po/cs.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 470 | 1048 | 44.8 | /mnt/stockage/packages/f14/sharutils/po/el.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 462 | 1048 | 44.1 | /mnt/stockage/packages/f14/sharutils/po/gl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 178 | 1048 | 17.0 | /mnt/stockage/packages/f14/sharutils/po/pt.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 5 | 1048 | 0.5 | /mnt/stockage/packages/f14/sharutils/po/nb.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 3 | 1048 | 0.3 | /mnt/stockage/packages/f14/sharutils/po/rw.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 0 | 1048 | 0.0 | /mnt/stockage/packages/f14/sharutils/po/nn.po | 
+ | [bg](/f14/language/bg) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/bg.po | 
+ | [es](/f14/language/es) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/es.po | 
+ | [fr](/f14/language/fr) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/fr.po | 
+ | [ga](/f14/language/ga) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/ga.po | 
+ | [it](/f14/language/it) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/it.po | 
+ | [ja](/f14/language/ja) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/ja.po | 
+ | [pl](/f14/language/pl) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/pl.po | 
+ | [ru](/f14/language/ru) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/ru.po | 
+ | [sv](/f14/language/sv) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/sv.po | 
+ | [tr](/f14/language/tr) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/tr.po | 
+ | [vi](/f14/language/vi) | 652 | 1048 | 62.2 | /mnt/stockage/packages/f14/sharutils/po/vi.po | 
+ | [nl](/f14/language/nl) | 646 | 1048 | 61.6 | /mnt/stockage/packages/f14/sharutils/po/nl.po | 
+ | [et](/f14/language/et) | 601 | 1048 | 57.3 | /mnt/stockage/packages/f14/sharutils/po/et.po | 
+ | [sr](/f14/language/sr) | 601 | 1048 | 57.3 | /mnt/stockage/packages/f14/sharutils/po/sr.po | 
+ | [fi](/f14/language/fi) | 581 | 1048 | 55.4 | /mnt/stockage/packages/f14/sharutils/po/fi.po | 
+ | [de](/f14/language/de) | 568 | 1048 | 54.2 | /mnt/stockage/packages/f14/sharutils/po/de.po | 
+ | [ca](/f14/language/ca) | 547 | 1048 | 52.2 | /mnt/stockage/packages/f14/sharutils/po/ca.po | 
+ | [da](/f14/language/da) | 547 | 1048 | 52.2 | /mnt/stockage/packages/f14/sharutils/po/da.po | 
+ | [hu](/f14/language/hu) | 524 | 1048 | 50.0 | /mnt/stockage/packages/f14/sharutils/po/hu.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 514 | 1048 | 49.0 | /mnt/stockage/packages/f14/sharutils/po/zh_TW.po | 
+ | [cs](/f14/language/cs) | 470 | 1048 | 44.8 | /mnt/stockage/packages/f14/sharutils/po/cs.po | 
+ | [el](/f14/language/el) | 470 | 1048 | 44.8 | /mnt/stockage/packages/f14/sharutils/po/el.po | 
+ | [gl](/f14/language/gl) | 462 | 1048 | 44.1 | /mnt/stockage/packages/f14/sharutils/po/gl.po | 
+ | [pt](/f14/language/pt) | 178 | 1048 | 17.0 | /mnt/stockage/packages/f14/sharutils/po/pt.po | 
+ | [nb_NO](/f14/language/nb_NO) | 5 | 1048 | 0.5 | /mnt/stockage/packages/f14/sharutils/po/nb.po | 
+ | [rw](/f14/language/rw) | 3 | 1048 | 0.3 | /mnt/stockage/packages/f14/sharutils/po/rw.po | 
+ | [nn](/f14/language/nn) | 0 | 1048 | 0.0 | /mnt/stockage/packages/f14/sharutils/po/nn.po | 
 {.sortable}
 
 

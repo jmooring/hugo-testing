@@ -18,22 +18,22 @@ The package unixcw (version 3.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/fr.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/ja.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/pl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/ru.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/sk.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/sv.po | 
- | [ast]({{< ref "/f30/language/ast.md" >}}) | 0 | 85 | 0.0 | /mnt/stockage/packages/f30/unixcw/debian/po/ast.po | 
+ | [cs](/f30/language/cs) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/cs.po | 
+ | [da](/f30/language/da) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/da.po | 
+ | [de](/f30/language/de) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/de.po | 
+ | [es](/f30/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/es.po | 
+ | [fr](/f30/language/fr) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/fr.po | 
+ | [id](/f30/language/id) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/id.po | 
+ | [it](/f30/language/it) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/it.po | 
+ | [ja](/f30/language/ja) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/ja.po | 
+ | [nl](/f30/language/nl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/nl.po | 
+ | [pl](/f30/language/pl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/pl.po | 
+ | [pt](/f30/language/pt) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/ru.po | 
+ | [sk](/f30/language/sk) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/sk.po | 
+ | [sv](/f30/language/sv) | 85 | 85 | 100.0 | /mnt/stockage/packages/f30/unixcw/debian/po/sv.po | 
+ | [ast](/f30/language/ast) | 0 | 85 | 0.0 | /mnt/stockage/packages/f30/unixcw/debian/po/ast.po | 
 {.sortable}
 
 

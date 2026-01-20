@@ -18,29 +18,29 @@ The package gegl03 (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 6792 | 6792 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/bs.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 7007 | 7007 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/el.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 4867 | 4867 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/eu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 6935 | 6935 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/it.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 4867 | 4867 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 7144 | 7144 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 4683 | 5397 | 86.8 | /mnt/stockage/packages/f22/gegl03/po/pt_BR.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 5753 | 6949 | 82.8 | /mnt/stockage/packages/f22/gegl03/po/sl.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 5686 | 7005 | 81.2 | /mnt/stockage/packages/f22/gegl03/po/fr.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 5258 | 6792 | 77.4 | /mnt/stockage/packages/f22/gegl03/po/ca.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 4149 | 5397 | 76.9 | /mnt/stockage/packages/f22/gegl03/po/zh_CN.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 3616 | 5397 | 67.0 | /mnt/stockage/packages/f22/gegl03/po/lv.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 3578 | 5397 | 66.3 | /mnt/stockage/packages/f22/gegl03/po/en_GB.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 3047 | 5397 | 56.5 | /mnt/stockage/packages/f22/gegl03/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3845 | 6972 | 55.1 | /mnt/stockage/packages/f22/gegl03/po/es.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 7520 | 13911 | 54.1 | /mnt/stockage/packages/f22/gegl03/po/oc.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 2379 | 6935 | 34.3 | /mnt/stockage/packages/f22/gegl03/po/tr.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1070 | 7051 | 15.2 | /mnt/stockage/packages/f22/gegl03/po/ru.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 345 | 5397 | 6.4 | /mnt/stockage/packages/f22/gegl03/po/ko.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 283 | 5397 | 5.2 | /mnt/stockage/packages/f22/gegl03/po/gl.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 115 | 5397 | 2.1 | /mnt/stockage/packages/f22/gegl03/po/id.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 105 | 5397 | 1.9 | /mnt/stockage/packages/f22/gegl03/po/sv.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 67 | 5397 | 1.2 | /mnt/stockage/packages/f22/gegl03/po/eo.po | 
+ | [bs](/f22/language/bs) | 6792 | 6792 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/bs.po | 
+ | [el](/f22/language/el) | 7007 | 7007 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/el.po | 
+ | [eu](/f22/language/eu) | 4867 | 4867 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/eu.po | 
+ | [it](/f22/language/it) | 6935 | 6935 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/it.po | 
+ | [pl](/f22/language/pl) | 4867 | 4867 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/pl.po | 
+ | [pt](/f22/language/pt) | 7144 | 7144 | 100.0 | /mnt/stockage/packages/f22/gegl03/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 4683 | 5397 | 86.8 | /mnt/stockage/packages/f22/gegl03/po/pt_BR.po | 
+ | [sl](/f22/language/sl) | 5753 | 6949 | 82.8 | /mnt/stockage/packages/f22/gegl03/po/sl.po | 
+ | [fr](/f22/language/fr) | 5686 | 7005 | 81.2 | /mnt/stockage/packages/f22/gegl03/po/fr.po | 
+ | [ca](/f22/language/ca) | 5258 | 6792 | 77.4 | /mnt/stockage/packages/f22/gegl03/po/ca.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 4149 | 5397 | 76.9 | /mnt/stockage/packages/f22/gegl03/po/zh_CN.po | 
+ | [lv](/f22/language/lv) | 3616 | 5397 | 67.0 | /mnt/stockage/packages/f22/gegl03/po/lv.po | 
+ | [en_GB](/f22/language/en_GB) | 3578 | 5397 | 66.3 | /mnt/stockage/packages/f22/gegl03/po/en_GB.po | 
+ | [de](/f22/language/de) | 3047 | 5397 | 56.5 | /mnt/stockage/packages/f22/gegl03/po/de.po | 
+ | [es](/f22/language/es) | 3845 | 6972 | 55.1 | /mnt/stockage/packages/f22/gegl03/po/es.po | 
+ | [oc](/f22/language/oc) | 7520 | 13911 | 54.1 | /mnt/stockage/packages/f22/gegl03/po/oc.po | 
+ | [tr](/f22/language/tr) | 2379 | 6935 | 34.3 | /mnt/stockage/packages/f22/gegl03/po/tr.po | 
+ | [ru](/f22/language/ru) | 1070 | 7051 | 15.2 | /mnt/stockage/packages/f22/gegl03/po/ru.po | 
+ | [ko](/f22/language/ko) | 345 | 5397 | 6.4 | /mnt/stockage/packages/f22/gegl03/po/ko.po | 
+ | [gl](/f22/language/gl) | 283 | 5397 | 5.2 | /mnt/stockage/packages/f22/gegl03/po/gl.po | 
+ | [id](/f22/language/id) | 115 | 5397 | 2.1 | /mnt/stockage/packages/f22/gegl03/po/id.po | 
+ | [sv](/f22/language/sv) | 105 | 5397 | 1.9 | /mnt/stockage/packages/f22/gegl03/po/sv.po | 
+ | [eo](/f22/language/eo) | 67 | 5397 | 1.2 | /mnt/stockage/packages/f22/gegl03/po/eo.po | 
 {.sortable}
 
 

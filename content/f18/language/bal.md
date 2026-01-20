@@ -41,29 +41,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f18/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [pessulus]({{< ref "/f18/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
- | [setuptool]({{< ref "/f18/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-switch-mail]({{< ref "/f18/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f18/package/chkconfig.md" >}}) | 423 | 487 | 86.9 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [authconfig]({{< ref "/f18/package/authconfig.md" >}}) | 925 | 1638 | 56.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [anaconda]({{< ref "/f18/package/anaconda.md" >}}) | 1 | 5370 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [transifex]({{< ref "/f18/package/transifex.md" >}}) | 1 | 6018 | 0.0 | LANGUAGE <LL@li.org> | 
- | [firstboot]({{< ref "/f18/package/firstboot.md" >}}) | 0 | 571 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [preupgrade]({{< ref "/f18/package/preupgrade.md" >}}) | 0 | 768 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [python-meh]({{< ref "/f18/package/python-meh.md" >}}) | 0 | 64 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [rhnsd]({{< ref "/f18/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [spacewalk-backend]({{< ref "/f18/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date]({{< ref "/f18/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date-docs]({{< ref "/f18/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f18/package/system-config-kickstart.md" >}}) | 0 | 1148 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-network]({{< ref "/f18/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-nfs-docs]({{< ref "/f18/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f18/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f18/package/system-config-services.md" >}}) | 0 | 518 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-services-docs]({{< ref "/f18/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f18/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-users-docs]({{< ref "/f18/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f18/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [pessulus](/f18/package/pessulus) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
+ | [setuptool](/f18/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-switch-mail](/f18/package/system-switch-mail) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f18/package/chkconfig) | 423 | 487 | 86.9 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [authconfig](/f18/package/authconfig) | 925 | 1638 | 56.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [anaconda](/f18/package/anaconda) | 1 | 5370 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [transifex](/f18/package/transifex) | 1 | 6018 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [firstboot](/f18/package/firstboot) | 0 | 571 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [preupgrade](/f18/package/preupgrade) | 0 | 768 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [python-meh](/f18/package/python-meh) | 0 | 64 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [rhnsd](/f18/package/rhnsd) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [spacewalk-backend](/f18/package/spacewalk-backend) | 0 | 1895 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date](/f18/package/system-config-date) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date-docs](/f18/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f18/package/system-config-kickstart) | 0 | 1148 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-network](/f18/package/system-config-network) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-nfs-docs](/f18/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f18/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f18/package/system-config-services) | 0 | 518 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-services-docs](/f18/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f18/package/system-config-users) | 0 | 1452 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-users-docs](/f18/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f41/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [ceph]({{< ref "/f41/package/ceph.md" >}}) | 1 | 1 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f41/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [postgresql15]({{< ref "/f41/package/postgresql15.md" >}}) | 271 | 271 | 100.0 |  | 
- | [libecpg]({{< ref "/f41/package/libecpg.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [libpq]({{< ref "/f41/package/libpq.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [mingw-postgresql]({{< ref "/f41/package/mingw-postgresql.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [postgresql16]({{< ref "/f41/package/postgresql16.md" >}}) | 9124 | 9143 | 99.8 |  | 
- | [poedit]({{< ref "/f41/package/poedit.md" >}}) | 3279 | 3331 | 98.4 | Hebrew | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f41/package/gnome-shell-extension-gsconnect.md" >}}) | 818 | 902 | 90.7 | Hebrew | 
- | [python-flask-admin]({{< ref "/f41/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Hebrew | 
- | [coolreader]({{< ref "/f41/package/coolreader.md" >}}) | 545 | 701 | 77.7 | Hebrew | 
- | [electrum]({{< ref "/f41/package/electrum.md" >}}) | 6418 | 13041 | 49.2 | Hebrew | 
- | [visualboyadvance-m]({{< ref "/f41/package/visualboyadvance-m.md" >}}) | 1509 | 3293 | 45.8 | Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/) | 
- | [xournalpp]({{< ref "/f41/package/xournalpp.md" >}}) | 1408 | 4758 | 29.6 | Hebrew | 
- | [clapper]({{< ref "/f41/package/clapper.md" >}}) | 75 | 294 | 25.5 | Hebrew | 
- | [warzone2100]({{< ref "/f41/package/warzone2100.md" >}}) | 2477 | 17218 | 14.4 | Hebrew | 
- | [duplicity]({{< ref "/f41/package/duplicity.md" >}}) | 19 | 2377 | 0.8 | Hebrew | 
- | [clementine]({{< ref "/f41/package/clementine.md" >}}) | 0 | 3803 | 0.0 | Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/) | 
- | [python-django-rest-framework]({{< ref "/f41/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
+ | [boost](/f41/package/boost) | 1 | 1 | 100.0 |  | 
+ | [ceph](/f41/package/ceph) | 1 | 1 | 100.0 |  | 
+ | [mingw-boost](/f41/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [postgresql15](/f41/package/postgresql15) | 271 | 271 | 100.0 |  | 
+ | [libecpg](/f41/package/libecpg) | 9124 | 9143 | 99.8 |  | 
+ | [libpq](/f41/package/libpq) | 9124 | 9143 | 99.8 |  | 
+ | [mingw-postgresql](/f41/package/mingw-postgresql) | 9124 | 9143 | 99.8 |  | 
+ | [postgresql16](/f41/package/postgresql16) | 9124 | 9143 | 99.8 |  | 
+ | [poedit](/f41/package/poedit) | 3279 | 3331 | 98.4 | Hebrew | 
+ | [gnome-shell-extension-gsconnect](/f41/package/gnome-shell-extension-gsconnect) | 818 | 902 | 90.7 | Hebrew | 
+ | [python-flask-admin](/f41/package/python-flask-admin) | 320 | 367 | 87.2 | Hebrew | 
+ | [coolreader](/f41/package/coolreader) | 545 | 701 | 77.7 | Hebrew | 
+ | [electrum](/f41/package/electrum) | 6418 | 13041 | 49.2 | Hebrew | 
+ | [visualboyadvance-m](/f41/package/visualboyadvance-m) | 1509 | 3293 | 45.8 | Hebrew (Israel) (http://app.transifex.com/bgk/vba-m/language/he_IL/) | 
+ | [xournalpp](/f41/package/xournalpp) | 1408 | 4758 | 29.6 | Hebrew | 
+ | [clapper](/f41/package/clapper) | 75 | 294 | 25.5 | Hebrew | 
+ | [warzone2100](/f41/package/warzone2100) | 2477 | 17218 | 14.4 | Hebrew | 
+ | [duplicity](/f41/package/duplicity) | 19 | 2377 | 0.8 | Hebrew | 
+ | [clementine](/f41/package/clementine) | 0 | 3803 | 0.0 | Hebrew (Israel) (http://app.transifex.com/davidsansome/clementine/language/he_IL/) | 
+ | [python-django-rest-framework](/f41/package/python-django-rest-framework) | 0 | 582 | 0.0 | Hebrew (Israel) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/he_IL/) | 
 {.sortable}
 
 

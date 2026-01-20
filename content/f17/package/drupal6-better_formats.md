@@ -18,7 +18,7 @@ The package drupal6-better_formats (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f17/drupal6-better_formats/translations/uk.po | 
+ | [uk](/f17/language/uk) | 323 | 323 | 100.0 | /mnt/stockage/packages/f17/drupal6-better_formats/translations/uk.po | 
 {.sortable}
 
 

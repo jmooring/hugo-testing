@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [redhat-menus]({{< ref "/f17/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [anaconda]({{< ref "/f17/package/anaconda.md" >}}) | 2025 | 8297 | 24.4 | LANGUAGE <LL@li.org> | 
- | [switchdesk]({{< ref "/f17/package/switchdesk.md" >}}) | 30 | 137 | 21.9 |  | 
- | [firstboot]({{< ref "/f17/package/firstboot.md" >}}) | 124 | 571 | 21.7 | LANGUAGE <LL@li.org> | 
- | [control-center]({{< ref "/f17/package/control-center.md" >}}) | 0 | 1313 | 0.0 |  | 
- | [sos]({{< ref "/f17/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [system-config-date]({{< ref "/f17/package/system-config-date.md" >}}) | 0 | 1347 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f17/package/system-config-date-docs.md" >}}) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f17/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f17/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f17/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f17/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [redhat-menus](/f17/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [anaconda](/f17/package/anaconda) | 2025 | 8297 | 24.4 | LANGUAGE <LL@li.org> | 
+ | [switchdesk](/f17/package/switchdesk) | 30 | 137 | 21.9 |  | 
+ | [firstboot](/f17/package/firstboot) | 124 | 571 | 21.7 | LANGUAGE <LL@li.org> | 
+ | [control-center](/f17/package/control-center) | 0 | 1313 | 0.0 |  | 
+ | [sos](/f17/package/sos) | 0 | 267 | 0.0 | none | 
+ | [system-config-date](/f17/package/system-config-date) | 0 | 1347 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f17/package/system-config-date-docs) | 0 | 739 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f17/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f17/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f17/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f17/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

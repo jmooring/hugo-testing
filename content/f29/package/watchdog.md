@@ -18,21 +18,21 @@ The package watchdog (version 5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/ja.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/ru.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/cs.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/es.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/fi.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/gl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/pt.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/sv.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/vi.po | 
+ | [da](/f29/language/da) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/da.po | 
+ | [de](/f29/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/de.po | 
+ | [fr](/f29/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/fr.po | 
+ | [it](/f29/language/it) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/it.po | 
+ | [ja](/f29/language/ja) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/ja.po | 
+ | [nl](/f29/language/nl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/nl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f29/watchdog/debian/po/ru.po | 
+ | [cs](/f29/language/cs) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/cs.po | 
+ | [es](/f29/language/es) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/es.po | 
+ | [fi](/f29/language/fi) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/fi.po | 
+ | [gl](/f29/language/gl) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/gl.po | 
+ | [pt](/f29/language/pt) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/pt.po | 
+ | [sv](/f29/language/sv) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/sv.po | 
+ | [vi](/f29/language/vi) | 97 | 125 | 77.6 | /mnt/stockage/packages/f29/watchdog/debian/po/vi.po | 
 {.sortable}
 
 

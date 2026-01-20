@@ -18,8 +18,8 @@ The package normalize (version 0.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 670 | 670 | 100.0 | /mnt/stockage/packages/f41/normalize/po/fr.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 226 | 670 | 33.7 | /mnt/stockage/packages/f41/normalize/po/en_GB.po | 
+ | [fr](/f41/language/fr) | 670 | 670 | 100.0 | /mnt/stockage/packages/f41/normalize/po/fr.po | 
+ | [en_GB](/f41/language/en_GB) | 226 | 670 | 33.7 | /mnt/stockage/packages/f41/normalize/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package colord-gtk (version 0.1.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f20/colord-gtk/po/en_GB.po | 
+ | [en_GB](/f20/language/en_GB) | 0 | 5 | 0.0 | /mnt/stockage/packages/f20/colord-gtk/po/en_GB.po | 
 {.sortable}
 
 

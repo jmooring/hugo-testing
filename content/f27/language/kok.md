@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f27/package/tuxpaint.md" >}}) | 1515 | 1515 | 100.0 |  | 
- | [gnucash]({{< ref "/f27/package/gnucash.md" >}}) | 29203 | 29737 | 98.2 | NONE | 
- | [inkscape]({{< ref "/f27/package/inkscape.md" >}}) | 23017 | 38214 | 60.2 | Konkani | 
- | [libreoffice]({{< ref "/f27/package/libreoffice.md" >}}) | 47904 | 96519 | 49.6 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f27/package/iso-codes.md" >}}) | 247 | 14619 | 1.7 | Konkani | 
+ | [tuxpaint](/f27/package/tuxpaint) | 1515 | 1515 | 100.0 |  | 
+ | [gnucash](/f27/package/gnucash) | 29203 | 29737 | 98.2 | NONE | 
+ | [inkscape](/f27/package/inkscape) | 23017 | 38214 | 60.2 | Konkani | 
+ | [libreoffice](/f27/package/libreoffice) | 47904 | 96519 | 49.6 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f27/package/iso-codes) | 247 | 14619 | 1.7 | Konkani | 
 {.sortable}
 
 

@@ -18,49 +18,49 @@ The package flatpak-kcm (version 6.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ar/kcm_flatpak.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ca/kcm_flatpak.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ca@valencia/kcm_flatpak.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/da/kcm_flatpak.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/de/kcm_flatpak.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/en_GB/kcm_flatpak.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/eo/kcm_flatpak.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/es/kcm_flatpak.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/eu/kcm_flatpak.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/fi/kcm_flatpak.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/fr/kcm_flatpak.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/gl/kcm_flatpak.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/he/kcm_flatpak.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/hi/kcm_flatpak.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/hu/kcm_flatpak.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ia/kcm_flatpak.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/it/kcm_flatpak.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ka/kcm_flatpak.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ko/kcm_flatpak.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/lt/kcm_flatpak.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/lv/kcm_flatpak.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/nl/kcm_flatpak.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/nn/kcm_flatpak.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/pl/kcm_flatpak.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/pt_BR/kcm_flatpak.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ru/kcm_flatpak.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/sa/kcm_flatpak.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/sl/kcm_flatpak.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/sv/kcm_flatpak.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/tr/kcm_flatpak.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/uk/kcm_flatpak.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/zh_CN/kcm_flatpak.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/zh_TW/kcm_flatpak.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 178 | 200 | 89.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/cs/kcm_flatpak.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/id/kcm_flatpak.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/is/kcm_flatpak.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/ja/kcm_flatpak.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/ro/kcm_flatpak.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/sk/kcm_flatpak.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 99 | 200 | 49.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/pt/kcm_flatpak.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 37 | 200 | 18.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/pa/kcm_flatpak.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 33 | 200 | 16.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/ta/kcm_flatpak.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 0 | 200 | 0.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ast/kcm_flatpak.po | 
+ | [ar](/f40/language/ar) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ar/kcm_flatpak.po | 
+ | [ca](/f40/language/ca) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ca/kcm_flatpak.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ca@valencia/kcm_flatpak.po | 
+ | [da](/f40/language/da) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/da/kcm_flatpak.po | 
+ | [de](/f40/language/de) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/de/kcm_flatpak.po | 
+ | [en_GB](/f40/language/en_GB) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/en_GB/kcm_flatpak.po | 
+ | [eo](/f40/language/eo) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/eo/kcm_flatpak.po | 
+ | [es](/f40/language/es) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/es/kcm_flatpak.po | 
+ | [eu](/f40/language/eu) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/eu/kcm_flatpak.po | 
+ | [fi](/f40/language/fi) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/fi/kcm_flatpak.po | 
+ | [fr](/f40/language/fr) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/fr/kcm_flatpak.po | 
+ | [gl](/f40/language/gl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/gl/kcm_flatpak.po | 
+ | [he](/f40/language/he) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/he/kcm_flatpak.po | 
+ | [hi](/f40/language/hi) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/hi/kcm_flatpak.po | 
+ | [hu](/f40/language/hu) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/hu/kcm_flatpak.po | 
+ | [ia](/f40/language/ia) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ia/kcm_flatpak.po | 
+ | [it](/f40/language/it) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/it/kcm_flatpak.po | 
+ | [ka](/f40/language/ka) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ka/kcm_flatpak.po | 
+ | [ko](/f40/language/ko) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ko/kcm_flatpak.po | 
+ | [lt](/f40/language/lt) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/lt/kcm_flatpak.po | 
+ | [lv](/f40/language/lv) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/lv/kcm_flatpak.po | 
+ | [nl](/f40/language/nl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/nl/kcm_flatpak.po | 
+ | [nn](/f40/language/nn) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/nn/kcm_flatpak.po | 
+ | [pl](/f40/language/pl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/pl/kcm_flatpak.po | 
+ | [pt_BR](/f40/language/pt_BR) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/pt_BR/kcm_flatpak.po | 
+ | [ru](/f40/language/ru) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ru/kcm_flatpak.po | 
+ | [sa](/f40/language/sa) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/sa/kcm_flatpak.po | 
+ | [sl](/f40/language/sl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/sl/kcm_flatpak.po | 
+ | [sv](/f40/language/sv) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/sv/kcm_flatpak.po | 
+ | [tr](/f40/language/tr) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/tr/kcm_flatpak.po | 
+ | [uk](/f40/language/uk) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/uk/kcm_flatpak.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/zh_CN/kcm_flatpak.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 200 | 200 | 100.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/zh_TW/kcm_flatpak.po | 
+ | [cs](/f40/language/cs) | 178 | 200 | 89.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/cs/kcm_flatpak.po | 
+ | [id](/f40/language/id) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/id/kcm_flatpak.po | 
+ | [is](/f40/language/is) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/is/kcm_flatpak.po | 
+ | [ja](/f40/language/ja) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/ja/kcm_flatpak.po | 
+ | [ro](/f40/language/ro) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/ro/kcm_flatpak.po | 
+ | [sk](/f40/language/sk) | 119 | 200 | 59.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/sk/kcm_flatpak.po | 
+ | [pt](/f40/language/pt) | 99 | 200 | 49.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/pt/kcm_flatpak.po | 
+ | [pa](/f40/language/pa) | 37 | 200 | 18.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/pa/kcm_flatpak.po | 
+ | [ta](/f40/language/ta) | 33 | 200 | 16.5 | /mnt/stockage/packages/f40/flatpak-kcm/po/ta/kcm_flatpak.po | 
+ | [ast](/f40/language/ast) | 0 | 200 | 0.0 | /mnt/stockage/packages/f40/flatpak-kcm/po/ast/kcm_flatpak.po | 
 {.sortable}
 
 

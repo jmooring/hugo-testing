@@ -40,24 +40,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bug-buddy]({{< ref "/f7/package/bug-buddy.md" >}}) | 1231 | 1231 | 100.0 | Kirghiz <ky-li@mail.ru> | 
- | [dasher]({{< ref "/f7/package/dasher.md" >}}) | 471 | 471 | 100.0 |  | 
- | [evolution-webcal]({{< ref "/f7/package/evolution-webcal.md" >}}) | 180 | 180 | 100.0 | Kirghiz | 
- | [gnome-backgrounds]({{< ref "/f7/package/gnome-backgrounds.md" >}}) | 35 | 35 | 100.0 | Kirghiz | 
- | [gnome-desktop]({{< ref "/f7/package/gnome-desktop.md" >}}) | 323 | 323 | 100.0 | Kirghiz | 
- | [gnome-mag]({{< ref "/f7/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Kirghiz <ztimur@gmail.com> | 
- | [gnome-menus]({{< ref "/f7/package/gnome-menus.md" >}}) | 133 | 133 | 100.0 | Kirghiz | 
- | [gnome-panel]({{< ref "/f7/package/gnome-panel.md" >}}) | 3974 | 3974 | 100.0 | Kirghiz | 
- | [poedit]({{< ref "/f7/package/poedit.md" >}}) | 1154 | 1154 | 100.0 | kyrgyz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [vte]({{< ref "/f7/package/vte.md" >}}) | 96 | 96 | 100.0 | Kirghiz | 
- | [yelp]({{< ref "/f7/package/yelp.md" >}}) | 597 | 600 | 99.5 | <ru@li.org> | 
- | [libgtop2]({{< ref "/f7/package/libgtop2.md" >}}) | 132 | 134 | 98.5 | Kitghiz | 
- | [eel2]({{< ref "/f7/package/eel2.md" >}}) | 231 | 235 | 98.3 | Kirghiz <ztimur@gmail.com> | 
- | [libwnck]({{< ref "/f7/package/libwnck.md" >}}) | 69 | 73 | 94.5 | Kirghiz | 
- | [gnome-themes]({{< ref "/f7/package/gnome-themes.md" >}}) | 87 | 104 | 83.7 | Kirghiz | 
- | [libgnomeprint22]({{< ref "/f7/package/libgnomeprint22.md" >}}) | 121 | 168 | 72.0 | Kirghiz | 
- | [gnome-applets]({{< ref "/f7/package/gnome-applets.md" >}}) | 1082 | 4046 | 26.7 |  | 
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 3 | 12020 | 0.0 | Kirghiz | 
+ | [bug-buddy](/f7/package/bug-buddy) | 1231 | 1231 | 100.0 | Kirghiz <ky-li@mail.ru> | 
+ | [dasher](/f7/package/dasher) | 471 | 471 | 100.0 |  | 
+ | [evolution-webcal](/f7/package/evolution-webcal) | 180 | 180 | 100.0 | Kirghiz | 
+ | [gnome-backgrounds](/f7/package/gnome-backgrounds) | 35 | 35 | 100.0 | Kirghiz | 
+ | [gnome-desktop](/f7/package/gnome-desktop) | 323 | 323 | 100.0 | Kirghiz | 
+ | [gnome-mag](/f7/package/gnome-mag) | 5 | 5 | 100.0 | Kirghiz <ztimur@gmail.com> | 
+ | [gnome-menus](/f7/package/gnome-menus) | 133 | 133 | 100.0 | Kirghiz | 
+ | [gnome-panel](/f7/package/gnome-panel) | 3974 | 3974 | 100.0 | Kirghiz | 
+ | [poedit](/f7/package/poedit) | 1154 | 1154 | 100.0 | kyrgyz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [vte](/f7/package/vte) | 96 | 96 | 100.0 | Kirghiz | 
+ | [yelp](/f7/package/yelp) | 597 | 600 | 99.5 | <ru@li.org> | 
+ | [libgtop2](/f7/package/libgtop2) | 132 | 134 | 98.5 | Kitghiz | 
+ | [eel2](/f7/package/eel2) | 231 | 235 | 98.3 | Kirghiz <ztimur@gmail.com> | 
+ | [libwnck](/f7/package/libwnck) | 69 | 73 | 94.5 | Kirghiz | 
+ | [gnome-themes](/f7/package/gnome-themes) | 87 | 104 | 83.7 | Kirghiz | 
+ | [libgnomeprint22](/f7/package/libgnomeprint22) | 121 | 168 | 72.0 | Kirghiz | 
+ | [gnome-applets](/f7/package/gnome-applets) | 1082 | 4046 | 26.7 |  | 
+ | [iso-codes](/f7/package/iso-codes) | 3 | 12020 | 0.0 | Kirghiz | 
 {.sortable}
 
 

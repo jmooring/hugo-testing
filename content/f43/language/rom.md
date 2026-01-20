@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [appstream]({{< ref "/f43/package/appstream.md" >}}) | 2 | 7085 | 0.0 | Romany <https://hosted.weblate.org/projects/appstream/translations/rom/> | 
+ | [appstream](/f43/package/appstream) | 2 | 7085 | 0.0 | Romany <https://hosted.weblate.org/projects/appstream/translations/rom/> | 
 {.sortable}
 
 

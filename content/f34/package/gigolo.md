@@ -18,59 +18,59 @@ The package gigolo (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f34/language/be.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/bg.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/de.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/en_AU.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/gl.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/he.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/hu.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/hy_AM.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/is.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ko.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/lt.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ms.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ru.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/sq.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/sv.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/th.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/uk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/zh_TW.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/ar.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/ast.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/el.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/eu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/id.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/oc.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/sl.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/sr.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/ug.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 454 | 467 | 97.2 | /mnt/stockage/packages/f34/gigolo/po/en_CA.po | 
- | [ie]({{< ref "/f34/language/ie.md" >}}) | 435 | 467 | 93.1 | /mnt/stockage/packages/f34/gigolo/po/ie.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 382 | 467 | 81.8 | /mnt/stockage/packages/f34/gigolo/po/lv.po | 
- | [ur]({{< ref "/f34/language/ur.md" >}}) | 333 | 467 | 71.3 | /mnt/stockage/packages/f34/gigolo/po/ur.po | 
- | [ur_PK]({{< ref "/f34/language/ur_PK.md" >}}) | 333 | 467 | 71.3 | /mnt/stockage/packages/f34/gigolo/po/ur_PK.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 143 | 467 | 30.6 | /mnt/stockage/packages/f34/gigolo/po/te.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 121 | 467 | 25.9 | /mnt/stockage/packages/f34/gigolo/po/kk.po | 
- | [am]({{< ref "/f34/language/am.md" >}}) | 100 | 467 | 21.4 | /mnt/stockage/packages/f34/gigolo/po/am.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 51 | 493 | 10.3 | /mnt/stockage/packages/f34/gigolo/po/eo.po | 
+ | [be](/f34/language/be) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/be.po | 
+ | [bg](/f34/language/bg) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/bg.po | 
+ | [ca](/f34/language/ca) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ca.po | 
+ | [cs](/f34/language/cs) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/cs.po | 
+ | [da](/f34/language/da) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/da.po | 
+ | [de](/f34/language/de) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/de.po | 
+ | [en_AU](/f34/language/en_AU) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/en_AU.po | 
+ | [es](/f34/language/es) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/es.po | 
+ | [fi](/f34/language/fi) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/fi.po | 
+ | [fr](/f34/language/fr) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/fr.po | 
+ | [gl](/f34/language/gl) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/gl.po | 
+ | [he](/f34/language/he) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/he.po | 
+ | [hr](/f34/language/hr) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/hr.po | 
+ | [hu](/f34/language/hu) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/hu.po | 
+ | [hy](/f34/language/hy) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/hy_AM.po | 
+ | [is](/f34/language/is) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/is.po | 
+ | [it](/f34/language/it) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/it.po | 
+ | [ja](/f34/language/ja) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ja.po | 
+ | [ko](/f34/language/ko) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ko.po | 
+ | [lt](/f34/language/lt) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/lt.po | 
+ | [ms](/f34/language/ms) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ms.po | 
+ | [nb_NO](/f34/language/nb_NO) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/nb.po | 
+ | [nl](/f34/language/nl) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/nl.po | 
+ | [pl](/f34/language/pl) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/pl.po | 
+ | [pt](/f34/language/pt) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/ru.po | 
+ | [sq](/f34/language/sq) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/sq.po | 
+ | [sv](/f34/language/sv) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/sv.po | 
+ | [th](/f34/language/th) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/th.po | 
+ | [tr](/f34/language/tr) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/tr.po | 
+ | [uk](/f34/language/uk) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/uk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 467 | 467 | 100.0 | /mnt/stockage/packages/f34/gigolo/po/zh_TW.po | 
+ | [ar](/f34/language/ar) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/ar.po | 
+ | [ast](/f34/language/ast) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/ast.po | 
+ | [el](/f34/language/el) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/el.po | 
+ | [eu](/f34/language/eu) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/eu.po | 
+ | [id](/f34/language/id) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/id.po | 
+ | [oc](/f34/language/oc) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/oc.po | 
+ | [sk](/f34/language/sk) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/sk.po | 
+ | [sl](/f34/language/sl) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/sl.po | 
+ | [sr](/f34/language/sr) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/sr.po | 
+ | [ug](/f34/language/ug) | 455 | 467 | 97.4 | /mnt/stockage/packages/f34/gigolo/po/ug.po | 
+ | [en_CA](/f34/language/en_CA) | 454 | 467 | 97.2 | /mnt/stockage/packages/f34/gigolo/po/en_CA.po | 
+ | [ie](/f34/language/ie) | 435 | 467 | 93.1 | /mnt/stockage/packages/f34/gigolo/po/ie.po | 
+ | [lv](/f34/language/lv) | 382 | 467 | 81.8 | /mnt/stockage/packages/f34/gigolo/po/lv.po | 
+ | [ur](/f34/language/ur) | 333 | 467 | 71.3 | /mnt/stockage/packages/f34/gigolo/po/ur.po | 
+ | [ur_PK](/f34/language/ur_PK) | 333 | 467 | 71.3 | /mnt/stockage/packages/f34/gigolo/po/ur_PK.po | 
+ | [te](/f34/language/te) | 143 | 467 | 30.6 | /mnt/stockage/packages/f34/gigolo/po/te.po | 
+ | [kk](/f34/language/kk) | 121 | 467 | 25.9 | /mnt/stockage/packages/f34/gigolo/po/kk.po | 
+ | [am](/f34/language/am) | 100 | 467 | 21.4 | /mnt/stockage/packages/f34/gigolo/po/am.po | 
+ | [eo](/f34/language/eo) | 51 | 493 | 10.3 | /mnt/stockage/packages/f34/gigolo/po/eo.po | 
 {.sortable}
 
 

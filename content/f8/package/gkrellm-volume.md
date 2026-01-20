@@ -18,12 +18,12 @@ The package gkrellm-volume (version 2.1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/pl.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 244 | 248 | 98.4 | /mnt/stockage/packages/f8/gkrellm-volume/po/ru.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 224 | 248 | 90.3 | /mnt/stockage/packages/f8/gkrellm-volume/po/nl.po | 
+ | [de](/f8/language/de) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/de.po | 
+ | [es](/f8/language/es) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/es.po | 
+ | [fr](/f8/language/fr) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/fr.po | 
+ | [pl](/f8/language/pl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f8/gkrellm-volume/po/pl.po | 
+ | [ru](/f8/language/ru) | 244 | 248 | 98.4 | /mnt/stockage/packages/f8/gkrellm-volume/po/ru.po | 
+ | [nl](/f8/language/nl) | 224 | 248 | 90.3 | /mnt/stockage/packages/f8/gkrellm-volume/po/nl.po | 
 {.sortable}
 
 

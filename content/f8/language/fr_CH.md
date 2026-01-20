@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
 {.sortable}
 
 

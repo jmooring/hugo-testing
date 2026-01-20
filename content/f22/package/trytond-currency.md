@@ -18,16 +18,16 @@ The package trytond-currency (version 2.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/ca_ES.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/de_DE.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/es_ES.po | 
- | [es_AR]({{< ref "/f22/language/es_AR.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/es_AR.po | 
- | [es_CO]({{< ref "/f22/language/es_CO.md" >}}) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/es_CO.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 495 | 495 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/fr_FR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 436 | 469 | 93.0 | /mnt/stockage/packages/f22/trytond-currency/locale/ru_RU.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 426 | 469 | 90.8 | /mnt/stockage/packages/f22/trytond-currency/locale/bg_BG.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f22/trytond-currency/locale/cs_CZ.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 356 | 469 | 75.9 | /mnt/stockage/packages/f22/trytond-currency/locale/nl_NL.po | 
+ | [ca](/f22/language/ca) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/ca_ES.po | 
+ | [de](/f22/language/de) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/de_DE.po | 
+ | [es](/f22/language/es) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/es_ES.po | 
+ | [es_AR](/f22/language/es_AR) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/es_AR.po | 
+ | [es_CO](/f22/language/es_CO) | 469 | 469 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/es_CO.po | 
+ | [fr](/f22/language/fr) | 495 | 495 | 100.0 | /mnt/stockage/packages/f22/trytond-currency/locale/fr_FR.po | 
+ | [ru](/f22/language/ru) | 436 | 469 | 93.0 | /mnt/stockage/packages/f22/trytond-currency/locale/ru_RU.po | 
+ | [bg](/f22/language/bg) | 426 | 469 | 90.8 | /mnt/stockage/packages/f22/trytond-currency/locale/bg_BG.po | 
+ | [cs](/f22/language/cs) | 356 | 469 | 75.9 | /mnt/stockage/packages/f22/trytond-currency/locale/cs_CZ.po | 
+ | [nl](/f22/language/nl) | 356 | 469 | 75.9 | /mnt/stockage/packages/f22/trytond-currency/locale/nl_NL.po | 
 {.sortable}
 
 

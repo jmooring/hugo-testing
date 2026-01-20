@@ -18,18 +18,18 @@ The package gnome-shell-extension-gamemode (version 8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/ca.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/it.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pl.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/zh_CN.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/cs.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pt_PT.po | 
+ | [ca](/f39/language/ca) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/ca.po | 
+ | [de](/f39/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/de.po | 
+ | [es](/f39/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/es.po | 
+ | [fr](/f39/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/fr.po | 
+ | [it](/f39/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/it.po | 
+ | [nl](/f39/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/nl.po | 
+ | [pl](/f39/language/pl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pl.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 73 | 73 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/zh_CN.po | 
+ | [cs](/f39/language/cs) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/cs.po | 
+ | [pt](/f39/language/pt) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pt_BR.po | 
+ | [pt_PT](/f39/language/pt_PT) | 0 | 73 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-gamemode/po/pt_PT.po | 
 {.sortable}
 
 

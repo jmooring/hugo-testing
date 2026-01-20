@@ -18,8 +18,8 @@ The package csound (version 5.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_CO]({{< ref "/f13/language/es_CO.md" >}}) | 3314 | 13139 | 25.2 | /mnt/stockage/packages/f13/csound/po/es_CO.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 15692 | 91973 | 17.1 | /mnt/stockage/packages/f13/csound/po/russian.po/mnt/stockage/packages/f13/csound/po/romanian.po/mnt/stockage/packages/f13/csound/po/italian.po/mnt/stockage/packages/f13/csound/po/german.po/mnt/stockage/packages/f13/csound/po/french.po/mnt/stockage/packages/f13/csound/po/csound.po/mnt/stockage/packages/f13/csound/po/american.po | 
+ | [es_CO](/f13/language/es_CO) | 3314 | 13139 | 25.2 | /mnt/stockage/packages/f13/csound/po/es_CO.po | 
+ | [error](/f13/language/error) | 15692 | 91973 | 17.1 | /mnt/stockage/packages/f13/csound/po/russian.po/mnt/stockage/packages/f13/csound/po/romanian.po/mnt/stockage/packages/f13/csound/po/italian.po/mnt/stockage/packages/f13/csound/po/german.po/mnt/stockage/packages/f13/csound/po/french.po/mnt/stockage/packages/f13/csound/po/csound.po/mnt/stockage/packages/f13/csound/po/american.po | 
 {.sortable}
 
 

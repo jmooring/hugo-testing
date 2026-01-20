@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-backgrounds]({{< ref "/f9/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Friulian <massimo.furlani@libero.it> | 
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 288 | 288 | 100.0 | Friulian <massimo.furlani@libero.it> | 
- | [gnome-icon-theme]({{< ref "/f9/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | FRIULIAN <massimo.furlani@libero.it> | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | FRIULIAN <massimo.furlani@libero.it> | 
- | [gnome-themes]({{< ref "/f9/package/gnome-themes.md" >}}) | 85 | 85 | 100.0 | Friulian <massimo.furlani@libero.it> | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Friulian <massimo.furlani@libero.it> | 
- | [gnome-session]({{< ref "/f9/package/gnome-session.md" >}}) | 897 | 899 | 99.8 | Friulian <massimo.furlani@libero.it> | 
- | [poedit]({{< ref "/f9/package/poedit.md" >}}) | 1082 | 1154 | 93.8 | Klenje <adecorte@fastwebnet.it> | 
- | [gnome-terminal]({{< ref "/f9/package/gnome-terminal.md" >}}) | 3987 | 4659 | 85.6 | Friulian <massimo.furlani@libero.it> | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 3319 | 4722 | 70.3 | FRIULIAN <massimo.furlani@libero.it> | 
- | [libgnome]({{< ref "/f9/package/libgnome.md" >}}) | 1082 | 1654 | 65.4 | FRIULIAN <massimo.furlani@libero.it> | 
- | [gdm]({{< ref "/f9/package/gdm.md" >}}) | 154 | 1297 | 11.9 | FRIULIAN <massimo.furlani@libero.it> | 
+ | [gnome-backgrounds](/f9/package/gnome-backgrounds) | 18 | 18 | 100.0 | Friulian <massimo.furlani@libero.it> | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 288 | 288 | 100.0 | Friulian <massimo.furlani@libero.it> | 
+ | [gnome-icon-theme](/f9/package/gnome-icon-theme) | 43 | 43 | 100.0 | FRIULIAN <massimo.furlani@libero.it> | 
+ | [gnome-menus](/f9/package/gnome-menus) | 165 | 165 | 100.0 | FRIULIAN <massimo.furlani@libero.it> | 
+ | [gnome-themes](/f9/package/gnome-themes) | 85 | 85 | 100.0 | Friulian <massimo.furlani@libero.it> | 
+ | [libgnomeui](/f9/package/libgnomeui) | 1309 | 1309 | 100.0 | Friulian <massimo.furlani@libero.it> | 
+ | [gnome-session](/f9/package/gnome-session) | 897 | 899 | 99.8 | Friulian <massimo.furlani@libero.it> | 
+ | [poedit](/f9/package/poedit) | 1082 | 1154 | 93.8 | Klenje <adecorte@fastwebnet.it> | 
+ | [gnome-terminal](/f9/package/gnome-terminal) | 3987 | 4659 | 85.6 | Friulian <massimo.furlani@libero.it> | 
+ | [gnome-panel](/f9/package/gnome-panel) | 3319 | 4722 | 70.3 | FRIULIAN <massimo.furlani@libero.it> | 
+ | [libgnome](/f9/package/libgnome) | 1082 | 1654 | 65.4 | FRIULIAN <massimo.furlani@libero.it> | 
+ | [gdm](/f9/package/gdm) | 154 | 1297 | 11.9 | FRIULIAN <massimo.furlani@libero.it> | 
 {.sortable}
 
 

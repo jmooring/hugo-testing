@@ -18,16 +18,16 @@ The package tin (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f23/language/et.md" >}}) | 11155 | 11155 | 100.0 | /mnt/stockage/packages/f23/tin/po/et.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 11155 | 11155 | 100.0 | /mnt/stockage/packages/f23/tin/po/fr.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 10918 | 11155 | 97.9 | /mnt/stockage/packages/f23/tin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 10918 | 11155 | 97.9 | /mnt/stockage/packages/f23/tin/po/zh_TW.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 9018 | 11155 | 80.8 | /mnt/stockage/packages/f23/tin/po/da.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 23815 | 34448 | 69.1 | /mnt/stockage/packages/f23/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f23/tin/po/en_GB.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 7051 | 11155 | 63.2 | /mnt/stockage/packages/f23/tin/po/ru.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 18517 | 34448 | 53.8 | /mnt/stockage/packages/f23/tin/doc/l10n/de.po/mnt/stockage/packages/f23/tin/po/de.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1047 | 11155 | 9.4 | /mnt/stockage/packages/f23/tin/po/sv.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 202 | 11155 | 1.8 | /mnt/stockage/packages/f23/tin/po/tr.po | 
+ | [et](/f23/language/et) | 11155 | 11155 | 100.0 | /mnt/stockage/packages/f23/tin/po/et.po | 
+ | [fr](/f23/language/fr) | 11155 | 11155 | 100.0 | /mnt/stockage/packages/f23/tin/po/fr.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 10918 | 11155 | 97.9 | /mnt/stockage/packages/f23/tin/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 10918 | 11155 | 97.9 | /mnt/stockage/packages/f23/tin/po/zh_TW.po | 
+ | [da](/f23/language/da) | 9018 | 11155 | 80.8 | /mnt/stockage/packages/f23/tin/po/da.po | 
+ | [en_GB](/f23/language/en_GB) | 23815 | 34448 | 69.1 | /mnt/stockage/packages/f23/tin/doc/l10n/en_GB.po/mnt/stockage/packages/f23/tin/po/en_GB.po | 
+ | [ru](/f23/language/ru) | 7051 | 11155 | 63.2 | /mnt/stockage/packages/f23/tin/po/ru.po | 
+ | [de](/f23/language/de) | 18517 | 34448 | 53.8 | /mnt/stockage/packages/f23/tin/doc/l10n/de.po/mnt/stockage/packages/f23/tin/po/de.po | 
+ | [sv](/f23/language/sv) | 1047 | 11155 | 9.4 | /mnt/stockage/packages/f23/tin/po/sv.po | 
+ | [tr](/f23/language/tr) | 202 | 11155 | 1.8 | /mnt/stockage/packages/f23/tin/po/tr.po | 
 {.sortable}
 
 

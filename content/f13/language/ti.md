@@ -40,8 +40,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f13/package/iso-codes.md" >}}) | 394 | 12357 | 3.2 | Tigrinya | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [iso-codes](/f13/package/iso-codes) | 394 | 12357 | 3.2 | Tigrinya | 
+ | [vidalia](/f13/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

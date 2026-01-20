@@ -18,14 +18,14 @@ The package cherrytree (version 0.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/it.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/pl.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 4348 | 4348 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/ru.po/mnt/stockage/packages/f16/cherrytree/locale/uk.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2126 | 2174 | 97.8 | /mnt/stockage/packages/f16/cherrytree/locale/es.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 2126 | 2174 | 97.8 | /mnt/stockage/packages/f16/cherrytree/locale/zh_CN.po | 
+ | [cs](/f16/language/cs) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/cs.po | 
+ | [de](/f16/language/de) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/de.po | 
+ | [fr](/f16/language/fr) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/fr.po | 
+ | [it](/f16/language/it) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/it.po | 
+ | [pl](/f16/language/pl) | 2174 | 2174 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/pl.po | 
+ | [ru](/f16/language/ru) | 4348 | 4348 | 100.0 | /mnt/stockage/packages/f16/cherrytree/locale/ru.po/mnt/stockage/packages/f16/cherrytree/locale/uk.po | 
+ | [es](/f16/language/es) | 2126 | 2174 | 97.8 | /mnt/stockage/packages/f16/cherrytree/locale/es.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 2126 | 2174 | 97.8 | /mnt/stockage/packages/f16/cherrytree/locale/zh_CN.po | 
 {.sortable}
 
 

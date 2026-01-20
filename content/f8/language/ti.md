@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 398 | 12174 | 3.3 | Tigrinya | 
+ | [iso-codes](/f8/package/iso-codes) | 398 | 12174 | 3.3 | Tigrinya | 
 {.sortable}
 
 

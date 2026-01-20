@@ -18,30 +18,30 @@ The package plasma-disks (version 5.20.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ca/plasma_disks.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ca@valencia/plasma_disks.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/da/plasma_disks.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/el/plasma_disks.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/en_GB/plasma_disks.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/es/plasma_disks.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/et/plasma_disks.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/eu/plasma_disks.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/fi/plasma_disks.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/fr/plasma_disks.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/hu/plasma_disks.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/it/plasma_disks.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ko/plasma_disks.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/nl/plasma_disks.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/nn/plasma_disks.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/pl/plasma_disks.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/pt_BR/plasma_disks.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ro/plasma_disks.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/sk/plasma_disks.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/sl/plasma_disks.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/sv/plasma_disks.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/uk/plasma_disks.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 17 | 102 | 16.7 | /mnt/stockage/packages/f33/plasma-disks/po/cs/plasma_disks.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 13 | 102 | 12.7 | /mnt/stockage/packages/f33/plasma-disks/po/de/plasma_disks.po | 
+ | [ca](/f33/language/ca) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ca/plasma_disks.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ca@valencia/plasma_disks.po | 
+ | [da](/f33/language/da) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/da/plasma_disks.po | 
+ | [el](/f33/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/el/plasma_disks.po | 
+ | [en_GB](/f33/language/en_GB) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/en_GB/plasma_disks.po | 
+ | [es](/f33/language/es) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/es/plasma_disks.po | 
+ | [et](/f33/language/et) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/et/plasma_disks.po | 
+ | [eu](/f33/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/eu/plasma_disks.po | 
+ | [fi](/f33/language/fi) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/fi/plasma_disks.po | 
+ | [fr](/f33/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/fr/plasma_disks.po | 
+ | [hu](/f33/language/hu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/hu/plasma_disks.po | 
+ | [it](/f33/language/it) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/it/plasma_disks.po | 
+ | [ko](/f33/language/ko) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ko/plasma_disks.po | 
+ | [nl](/f33/language/nl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/nl/plasma_disks.po | 
+ | [nn](/f33/language/nn) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/nn/plasma_disks.po | 
+ | [pl](/f33/language/pl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/pl/plasma_disks.po | 
+ | [pt_BR](/f33/language/pt_BR) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/pt_BR/plasma_disks.po | 
+ | [ro](/f33/language/ro) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/ro/plasma_disks.po | 
+ | [sk](/f33/language/sk) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/sk/plasma_disks.po | 
+ | [sl](/f33/language/sl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/sl/plasma_disks.po | 
+ | [sv](/f33/language/sv) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/sv/plasma_disks.po | 
+ | [uk](/f33/language/uk) | 102 | 102 | 100.0 | /mnt/stockage/packages/f33/plasma-disks/po/uk/plasma_disks.po | 
+ | [cs](/f33/language/cs) | 17 | 102 | 16.7 | /mnt/stockage/packages/f33/plasma-disks/po/cs/plasma_disks.po | 
+ | [de](/f33/language/de) | 13 | 102 | 12.7 | /mnt/stockage/packages/f33/plasma-disks/po/de/plasma_disks.po | 
 {.sortable}
 
 

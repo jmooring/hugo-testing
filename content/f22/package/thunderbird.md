@@ -18,7 +18,7 @@ The package thunderbird (version 45.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f22/thunderbird/thunderbird-45.0/mozilla/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f22/language/en_US) | 6 | 6 | 100.0 | /mnt/stockage/packages/f22/thunderbird/thunderbird-45.0/mozilla/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

@@ -18,48 +18,48 @@ The package grep (version 2.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/cs.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/fi.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/pl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/sk.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/th.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/vi.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/da.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/eo.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/ga.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/id.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/it.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/sl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/sv.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 395 | 827 | 47.8 | /mnt/stockage/packages/f11/grep/po/pt_BR.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 305 | 827 | 36.9 | /mnt/stockage/packages/f11/grep/gnulib-tests/locale/fr/LC_MESSAGES/test-quotearg.po/mnt/stockage/packages/f11/grep/po/fr.po | 
- | [ky]({{< ref "/f11/language/ky.md" >}}) | 305 | 827 | 36.9 | /mnt/stockage/packages/f11/grep/po/ky.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 305 | 827 | 36.9 | /mnt/stockage/packages/f11/grep/po/lt.po | 
- | [af]({{< ref "/f11/language/af.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/af.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/be.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/bg.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/ca.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/el.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/es.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/et.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/eu.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/gl.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/he.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/hr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/ja.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/nb.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/pt.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/ro.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/sr.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/tr.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/zh_TW.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 57 | 827 | 6.9 | /mnt/stockage/packages/f11/grep/po/uk.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 25 | 827 | 3.0 | /mnt/stockage/packages/f11/grep/po/ko.po | 
+ | [cs](/f11/language/cs) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/cs.po | 
+ | [fi](/f11/language/fi) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/fi.po | 
+ | [nl](/f11/language/nl) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/nl.po | 
+ | [pl](/f11/language/pl) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/pl.po | 
+ | [ru](/f11/language/ru) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/ru.po | 
+ | [sk](/f11/language/sk) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/sk.po | 
+ | [th](/f11/language/th) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/th.po | 
+ | [vi](/f11/language/vi) | 827 | 827 | 100.0 | /mnt/stockage/packages/f11/grep/po/vi.po | 
+ | [da](/f11/language/da) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/da.po | 
+ | [eo](/f11/language/eo) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/eo.po | 
+ | [ga](/f11/language/ga) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/ga.po | 
+ | [hu](/f11/language/hu) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/hu.po | 
+ | [id](/f11/language/id) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/id.po | 
+ | [it](/f11/language/it) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/it.po | 
+ | [sl](/f11/language/sl) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/sl.po | 
+ | [sv](/f11/language/sv) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/sv.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 408 | 827 | 49.3 | /mnt/stockage/packages/f11/grep/po/zh_CN.po | 
+ | [pt_BR](/f11/language/pt_BR) | 395 | 827 | 47.8 | /mnt/stockage/packages/f11/grep/po/pt_BR.po | 
+ | [fr](/f11/language/fr) | 305 | 827 | 36.9 | /mnt/stockage/packages/f11/grep/gnulib-tests/locale/fr/LC_MESSAGES/test-quotearg.po/mnt/stockage/packages/f11/grep/po/fr.po | 
+ | [ky](/f11/language/ky) | 305 | 827 | 36.9 | /mnt/stockage/packages/f11/grep/po/ky.po | 
+ | [lt](/f11/language/lt) | 305 | 827 | 36.9 | /mnt/stockage/packages/f11/grep/po/lt.po | 
+ | [af](/f11/language/af) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/af.po | 
+ | [be](/f11/language/be) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/be.po | 
+ | [bg](/f11/language/bg) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/bg.po | 
+ | [ca](/f11/language/ca) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/ca.po | 
+ | [de](/f11/language/de) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/de.po | 
+ | [el](/f11/language/el) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/el.po | 
+ | [es](/f11/language/es) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/es.po | 
+ | [et](/f11/language/et) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/et.po | 
+ | [eu](/f11/language/eu) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/eu.po | 
+ | [gl](/f11/language/gl) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/gl.po | 
+ | [he](/f11/language/he) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/he.po | 
+ | [hr](/f11/language/hr) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/hr.po | 
+ | [ja](/f11/language/ja) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/ja.po | 
+ | [nb_NO](/f11/language/nb_NO) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/nb.po | 
+ | [pt](/f11/language/pt) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/pt.po | 
+ | [ro](/f11/language/ro) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/ro.po | 
+ | [sr](/f11/language/sr) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/sr.po | 
+ | [tr](/f11/language/tr) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/tr.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 63 | 827 | 7.6 | /mnt/stockage/packages/f11/grep/po/zh_TW.po | 
+ | [uk](/f11/language/uk) | 57 | 827 | 6.9 | /mnt/stockage/packages/f11/grep/po/uk.po | 
+ | [ko](/f11/language/ko) | 25 | 827 | 3.0 | /mnt/stockage/packages/f11/grep/po/ko.po | 
 {.sortable}
 
 

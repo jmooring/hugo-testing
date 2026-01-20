@@ -18,28 +18,28 @@ The package fcitx-table-other (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ca.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/de.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ja.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ko.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ru.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/zh_TW.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f27/fcitx-table-other/po/bn.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f27/fcitx-table-other/po/pa.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f27/fcitx-table-other/po/ta.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/gu.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/hi.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/kn.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/ml.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/ne.po | 
- | [am]({{< ref "/f27/language/am.md" >}}) | 1 | 24 | 4.2 | /mnt/stockage/packages/f27/fcitx-table-other/po/am.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 1 | 24 | 4.2 | /mnt/stockage/packages/f27/fcitx-table-other/po/ar.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 1 | 24 | 4.2 | /mnt/stockage/packages/f27/fcitx-table-other/po/te.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/th.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/vi.po | 
+ | [ca](/f27/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ca.po | 
+ | [da](/f27/language/da) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/da.po | 
+ | [de](/f27/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/de.po | 
+ | [ja](/f27/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ja.po | 
+ | [ko](/f27/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ko.po | 
+ | [ru](/f27/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/ru.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/zh_TW.po | 
+ | [bn](/f27/language/bn) | 3 | 24 | 12.5 | /mnt/stockage/packages/f27/fcitx-table-other/po/bn.po | 
+ | [pa](/f27/language/pa) | 3 | 24 | 12.5 | /mnt/stockage/packages/f27/fcitx-table-other/po/pa.po | 
+ | [ta](/f27/language/ta) | 3 | 24 | 12.5 | /mnt/stockage/packages/f27/fcitx-table-other/po/ta.po | 
+ | [gu](/f27/language/gu) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/gu.po | 
+ | [hi](/f27/language/hi) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/hi.po | 
+ | [kn](/f27/language/kn) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/kn.po | 
+ | [ml](/f27/language/ml) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/ml.po | 
+ | [ne](/f27/language/ne) | 2 | 24 | 8.3 | /mnt/stockage/packages/f27/fcitx-table-other/po/ne.po | 
+ | [am](/f27/language/am) | 1 | 24 | 4.2 | /mnt/stockage/packages/f27/fcitx-table-other/po/am.po | 
+ | [ar](/f27/language/ar) | 1 | 24 | 4.2 | /mnt/stockage/packages/f27/fcitx-table-other/po/ar.po | 
+ | [te](/f27/language/te) | 1 | 24 | 4.2 | /mnt/stockage/packages/f27/fcitx-table-other/po/te.po | 
+ | [th](/f27/language/th) | 0 | 24 | 0.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/th.po | 
+ | [uk](/f27/language/uk) | 0 | 24 | 0.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/uk.po | 
+ | [vi](/f27/language/vi) | 0 | 24 | 0.0 | /mnt/stockage/packages/f27/fcitx-table-other/po/vi.po | 
 {.sortable}
 
 

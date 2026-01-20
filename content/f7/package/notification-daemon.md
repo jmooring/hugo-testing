@@ -18,9 +18,9 @@ The package notification-daemon (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f7/notification-daemon/po/sv.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 17 | 31 | 54.8 | /mnt/stockage/packages/f7/notification-daemon/po/de.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 8 | 31 | 25.8 | /mnt/stockage/packages/f7/notification-daemon/po/nl.po | 
+ | [sv](/f7/language/sv) | 31 | 31 | 100.0 | /mnt/stockage/packages/f7/notification-daemon/po/sv.po | 
+ | [de](/f7/language/de) | 17 | 31 | 54.8 | /mnt/stockage/packages/f7/notification-daemon/po/de.po | 
+ | [nl](/f7/language/nl) | 8 | 31 | 25.8 | /mnt/stockage/packages/f7/notification-daemon/po/nl.po | 
 {.sortable}
 
 

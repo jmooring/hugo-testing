@@ -18,42 +18,42 @@ The package isomaster (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/cs.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/el.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/et.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/id.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sq.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/zh_TW.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 666 | 672 | 99.1 | /mnt/stockage/packages/f10/isomaster/po/es.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 666 | 672 | 99.1 | /mnt/stockage/packages/f10/isomaster/po/uk.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/sr@Latn.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/nb.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/nn.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/sr@latin.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/tr.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 628 | 672 | 93.5 | /mnt/stockage/packages/f10/isomaster/po/hr.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/be@latin.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/de.po | 
- | [fo]({{< ref "/f10/language/fo.md" >}}) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/fo.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/it.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 475 | 672 | 70.7 | /mnt/stockage/packages/f10/isomaster/po/ro.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 472 | 672 | 70.2 | /mnt/stockage/packages/f10/isomaster/po/he.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 449 | 672 | 66.8 | /mnt/stockage/packages/f10/isomaster/po/pt.po | 
+ | [bg](/f10/language/bg) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/bg.po | 
+ | [ca](/f10/language/ca) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/ca.po | 
+ | [cs](/f10/language/cs) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/cs.po | 
+ | [el](/f10/language/el) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/el.po | 
+ | [et](/f10/language/et) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/et.po | 
+ | [fi](/f10/language/fi) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/fi.po | 
+ | [fr](/f10/language/fr) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/fr.po | 
+ | [hu](/f10/language/hu) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/hu.po | 
+ | [id](/f10/language/id) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/id.po | 
+ | [nl](/f10/language/nl) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/nl.po | 
+ | [pl](/f10/language/pl) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/ru.po | 
+ | [sk](/f10/language/sk) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sk.po | 
+ | [sl](/f10/language/sl) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sl.po | 
+ | [sq](/f10/language/sq) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sq.po | 
+ | [sv](/f10/language/sv) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/sv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 672 | 672 | 100.0 | /mnt/stockage/packages/f10/isomaster/po/zh_TW.po | 
+ | [es](/f10/language/es) | 666 | 672 | 99.1 | /mnt/stockage/packages/f10/isomaster/po/es.po | 
+ | [uk](/f10/language/uk) | 666 | 672 | 99.1 | /mnt/stockage/packages/f10/isomaster/po/uk.po | 
+ | [error](/f10/language/error) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/sr@Latn.po | 
+ | [nb_NO](/f10/language/nb_NO) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/nb.po | 
+ | [nn](/f10/language/nn) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/nn.po | 
+ | [sr](/f10/language/sr) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/sr@latin.po | 
+ | [tr](/f10/language/tr) | 654 | 672 | 97.3 | /mnt/stockage/packages/f10/isomaster/po/tr.po | 
+ | [hr](/f10/language/hr) | 628 | 672 | 93.5 | /mnt/stockage/packages/f10/isomaster/po/hr.po | 
+ | [be_Latn](/f10/language/be_Latn) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/be@latin.po | 
+ | [da](/f10/language/da) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/da.po | 
+ | [de](/f10/language/de) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/de.po | 
+ | [fo](/f10/language/fo) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/fo.po | 
+ | [it](/f10/language/it) | 495 | 672 | 73.7 | /mnt/stockage/packages/f10/isomaster/po/it.po | 
+ | [ro](/f10/language/ro) | 475 | 672 | 70.7 | /mnt/stockage/packages/f10/isomaster/po/ro.po | 
+ | [he](/f10/language/he) | 472 | 672 | 70.2 | /mnt/stockage/packages/f10/isomaster/po/he.po | 
+ | [pt](/f10/language/pt) | 449 | 672 | 66.8 | /mnt/stockage/packages/f10/isomaster/po/pt.po | 
 {.sortable}
 
 

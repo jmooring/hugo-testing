@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gscan2pdf]({{< ref "/f12/package/gscan2pdf.md" >}}) | 0 | 1368 | 0.0 | Abkhazian <ab@li.org> | 
+ | [gscan2pdf](/f12/package/gscan2pdf) | 0 | 1368 | 0.0 | Abkhazian <ab@li.org> | 
 {.sortable}
 
 

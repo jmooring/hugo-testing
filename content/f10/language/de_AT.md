@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gdeskcal]({{< ref "/f10/package/gdeskcal.md" >}}) | 85 | 85 | 100.0 |  | 
- | [ganyremote]({{< ref "/f10/package/ganyremote.md" >}}) | 490 | 492 | 99.6 | Austrian | 
- | [kanyremote]({{< ref "/f10/package/kanyremote.md" >}}) | 469 | 472 | 99.4 | Austrian | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [liblicense]({{< ref "/f10/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f10/package/gourmet.md" >}}) | 1448 | 3526 | 41.1 | German (Austria) <de_AT@li.org> | 
- | [gpsdrive]({{< ref "/f10/package/gpsdrive.md" >}}) | 673 | 2377 | 28.3 | german <de@li.org> | 
- | [perl-libintl]({{< ref "/f10/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [texlive]({{< ref "/f10/package/texlive.md" >}}) | 1 | 4382 | 0.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f10/package/texinfo.md" >}}) | 1 | 4625 | 0.0 | German <de@li.org> | 
+ | [gdeskcal](/f10/package/gdeskcal) | 85 | 85 | 100.0 |  | 
+ | [ganyremote](/f10/package/ganyremote) | 490 | 492 | 99.6 | Austrian | 
+ | [kanyremote](/f10/package/kanyremote) | 469 | 472 | 99.4 | Austrian | 
+ | [gnomebaker](/f10/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [liblicense](/f10/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f10/package/gourmet) | 1448 | 3526 | 41.1 | German (Austria) <de_AT@li.org> | 
+ | [gpsdrive](/f10/package/gpsdrive) | 673 | 2377 | 28.3 | german <de@li.org> | 
+ | [perl-libintl](/f10/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [texlive](/f10/package/texlive) | 1 | 4382 | 0.0 | German <de@li.org> | 
+ | [texinfo](/f10/package/texinfo) | 1 | 4625 | 0.0 | German <de@li.org> | 
 {.sortable}
 
 

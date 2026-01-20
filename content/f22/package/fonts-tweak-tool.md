@@ -18,84 +18,84 @@ The package fonts-tweak-tool (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/zh_TW.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/af.po | 
- | [am]({{< ref "/f22/language/am.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/am.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ar.po | 
- | [as]({{< ref "/f22/language/as.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/as.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ast.po | 
- | [az]({{< ref "/f22/language/az.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/az.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bg.po | 
- | [bn_BD]({{< ref "/f22/language/bn_BD.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bn.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bn_IN.po | 
- | [brx]({{< ref "/f22/language/brx.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/brx.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/cs.po | 
- | [cy]({{< ref "/f22/language/cy.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/cy.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/de.po | 
- | [de_CH]({{< ref "/f22/language/de_CH.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/de_CH.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/en_GB.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/eo.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/es.po | 
- | [es_MX]({{< ref "/f22/language/es_MX.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/es_MX.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/eu_ES.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/fr.po | 
- | [ga]({{< ref "/f22/language/ga.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ga.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/gl.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/gu.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/he.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/hi.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/hr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/id.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/is.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ja.po | 
- | [ka]({{< ref "/f22/language/ka.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ka.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ko.po | 
- | [ky]({{< ref "/f22/language/ky.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ky.po | 
- | [la]({{< ref "/f22/language/la.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/la.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/lv.po | 
- | [mai]({{< ref "/f22/language/mai.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/mai.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ml.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/mn.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/mr.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ms.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nb.po | 
- | [nds]({{< ref "/f22/language/nds.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nds.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nl.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nn.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/or.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pa.po | 
- | [pt_PT]({{< ref "/f22/language/pt_PT.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pt.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ru.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/si.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sl.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sq.po | 
- | [sr_Cyrl]({{< ref "/f22/language/sr_Cyrl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sr.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/th.po | 
- | [tl]({{< ref "/f22/language/tl.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/tl.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/vi.po | 
- | [xh]({{< ref "/f22/language/xh.md" >}}) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/xh.po | 
+ | [pl](/f22/language/pl) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pt_BR.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 21 | 164 | 12.8 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/zh_TW.po | 
+ | [af](/f22/language/af) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/af.po | 
+ | [am](/f22/language/am) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/am.po | 
+ | [ar](/f22/language/ar) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ar.po | 
+ | [as](/f22/language/as) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/as.po | 
+ | [ast](/f22/language/ast) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ast.po | 
+ | [az](/f22/language/az) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/az.po | 
+ | [bg](/f22/language/bg) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bg.po | 
+ | [bn_BD](/f22/language/bn_BD) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bn.po | 
+ | [bn_IN](/f22/language/bn_IN) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bn_IN.po | 
+ | [brx](/f22/language/brx) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/brx.po | 
+ | [bs](/f22/language/bs) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/bs.po | 
+ | [ca](/f22/language/ca) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ca.po | 
+ | [cs](/f22/language/cs) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/cs.po | 
+ | [cy](/f22/language/cy) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/cy.po | 
+ | [da](/f22/language/da) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/da.po | 
+ | [de](/f22/language/de) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/de.po | 
+ | [de_CH](/f22/language/de_CH) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/de_CH.po | 
+ | [el](/f22/language/el) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/en_GB.po | 
+ | [eo](/f22/language/eo) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/eo.po | 
+ | [es](/f22/language/es) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/es.po | 
+ | [es_MX](/f22/language/es_MX) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/es_MX.po | 
+ | [et](/f22/language/et) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/et.po | 
+ | [eu](/f22/language/eu) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/eu_ES.po | 
+ | [fa](/f22/language/fa) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/fa.po | 
+ | [fi](/f22/language/fi) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/fi.po | 
+ | [fr](/f22/language/fr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/fr.po | 
+ | [ga](/f22/language/ga) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ga.po | 
+ | [gl](/f22/language/gl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/gl.po | 
+ | [gu](/f22/language/gu) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/gu.po | 
+ | [he](/f22/language/he) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/he.po | 
+ | [hi](/f22/language/hi) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/hi.po | 
+ | [hr](/f22/language/hr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/hr.po | 
+ | [hu](/f22/language/hu) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/hu.po | 
+ | [id](/f22/language/id) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/id.po | 
+ | [is](/f22/language/is) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/is.po | 
+ | [it](/f22/language/it) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/it.po | 
+ | [ja](/f22/language/ja) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ja.po | 
+ | [ka](/f22/language/ka) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ka.po | 
+ | [kn](/f22/language/kn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/kn.po | 
+ | [ko](/f22/language/ko) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ko.po | 
+ | [ky](/f22/language/ky) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ky.po | 
+ | [la](/f22/language/la) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/la.po | 
+ | [lt](/f22/language/lt) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/lt.po | 
+ | [lv](/f22/language/lv) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/lv.po | 
+ | [mai](/f22/language/mai) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/mai.po | 
+ | [ml](/f22/language/ml) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ml.po | 
+ | [mn](/f22/language/mn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/mn.po | 
+ | [mr](/f22/language/mr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/mr.po | 
+ | [ms](/f22/language/ms) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ms.po | 
+ | [nb_NO](/f22/language/nb_NO) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nb.po | 
+ | [nds](/f22/language/nds) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nds.po | 
+ | [nl](/f22/language/nl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nl.po | 
+ | [nn](/f22/language/nn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/nn.po | 
+ | [or](/f22/language/or) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/or.po | 
+ | [pa](/f22/language/pa) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pa.po | 
+ | [pt_PT](/f22/language/pt_PT) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/pt.po | 
+ | [ro](/f22/language/ro) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ro.po | 
+ | [ru](/f22/language/ru) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ru.po | 
+ | [si](/f22/language/si) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/si.po | 
+ | [sk](/f22/language/sk) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sk.po | 
+ | [sl](/f22/language/sl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sl.po | 
+ | [sq](/f22/language/sq) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sq.po | 
+ | [sr_Cyrl](/f22/language/sr_Cyrl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sr.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/sv.po | 
+ | [ta](/f22/language/ta) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/ta.po | 
+ | [te](/f22/language/te) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/te.po | 
+ | [th](/f22/language/th) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/th.po | 
+ | [tl](/f22/language/tl) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/tl.po | 
+ | [tr](/f22/language/tr) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/tr.po | 
+ | [uk](/f22/language/uk) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/uk.po | 
+ | [vi](/f22/language/vi) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/vi.po | 
+ | [xh](/f22/language/xh) | 0 | 164 | 0.0 | /mnt/stockage/packages/f22/fonts-tweak-tool/po/xh.po | 
 {.sortable}
 
 

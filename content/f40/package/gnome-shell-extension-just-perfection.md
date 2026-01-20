@@ -18,24 +18,24 @@ The package gnome-shell-extension-just-perfection (version 29.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f40/language/af.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/af.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ar.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/be.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/bg.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/fr.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/gl.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/sv.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/zh_TW.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 588 | 590 | 99.7 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ne.po | 
+ | [af](/f40/language/af) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/af.po | 
+ | [ar](/f40/language/ar) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ar.po | 
+ | [be](/f40/language/be) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/be.po | 
+ | [bg](/f40/language/bg) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/bg.po | 
+ | [ca](/f40/language/ca) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ca.po | 
+ | [de](/f40/language/de) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/de.po | 
+ | [es](/f40/language/es) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/es.po | 
+ | [fr](/f40/language/fr) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/fr.po | 
+ | [gl](/f40/language/gl) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/gl.po | 
+ | [it](/f40/language/it) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/it.po | 
+ | [ja](/f40/language/ja) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ja.po | 
+ | [nl](/f40/language/nl) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ru.po | 
+ | [sv](/f40/language/sv) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/sv.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 590 | 590 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/zh_TW.po | 
+ | [ne](/f40/language/ne) | 588 | 590 | 99.7 | /mnt/stockage/packages/f40/gnome-shell-extension-just-perfection/po/ne.po | 
 {.sortable}
 
 

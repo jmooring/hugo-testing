@@ -18,31 +18,31 @@ The package libexif (version 0.6.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/da.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/pl.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/sk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/vi.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 6976 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/de.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/bs.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/en_AU.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/en_GB.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/nl.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 5092 | 6977 | 73.0 | /mnt/stockage/packages/f22/libexif/po/it.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 3700 | 6977 | 53.0 | /mnt/stockage/packages/f22/libexif/po/sr.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 3546 | 6977 | 50.8 | /mnt/stockage/packages/f22/libexif/po/ru.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 3309 | 6977 | 47.4 | /mnt/stockage/packages/f22/libexif/po/cs.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2517 | 6977 | 36.1 | /mnt/stockage/packages/f22/libexif/po/es.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1894 | 6977 | 27.1 | /mnt/stockage/packages/f22/libexif/po/ja.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1746 | 6977 | 25.0 | /mnt/stockage/packages/f22/libexif/po/pt_BR.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1540 | 6977 | 22.1 | /mnt/stockage/packages/f22/libexif/po/sv.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1243 | 6977 | 17.8 | /mnt/stockage/packages/f22/libexif/po/uk.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1220 | 6977 | 17.5 | /mnt/stockage/packages/f22/libexif/po/fr.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 999 | 6977 | 14.3 | /mnt/stockage/packages/f22/libexif/po/zh_CN.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 997 | 6977 | 14.3 | /mnt/stockage/packages/f22/libexif/po/tr.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 705 | 6977 | 10.1 | /mnt/stockage/packages/f22/libexif/po/en_CA.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 610 | 6977 | 8.7 | /mnt/stockage/packages/f22/libexif/po/be.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 458 | 6977 | 6.6 | /mnt/stockage/packages/f22/libexif/po/sq.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 420 | 6977 | 6.0 | /mnt/stockage/packages/f22/libexif/po/pt.po | 
+ | [da](/f22/language/da) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/da.po | 
+ | [pl](/f22/language/pl) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/pl.po | 
+ | [sk](/f22/language/sk) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/sk.po | 
+ | [vi](/f22/language/vi) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/vi.po | 
+ | [de](/f22/language/de) | 6976 | 6977 | 100.0 | /mnt/stockage/packages/f22/libexif/po/de.po | 
+ | [bs](/f22/language/bs) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/bs.po | 
+ | [en_AU](/f22/language/en_AU) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/en_AU.po | 
+ | [en_GB](/f22/language/en_GB) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/en_GB.po | 
+ | [nl](/f22/language/nl) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f22/libexif/po/nl.po | 
+ | [it](/f22/language/it) | 5092 | 6977 | 73.0 | /mnt/stockage/packages/f22/libexif/po/it.po | 
+ | [sr](/f22/language/sr) | 3700 | 6977 | 53.0 | /mnt/stockage/packages/f22/libexif/po/sr.po | 
+ | [ru](/f22/language/ru) | 3546 | 6977 | 50.8 | /mnt/stockage/packages/f22/libexif/po/ru.po | 
+ | [cs](/f22/language/cs) | 3309 | 6977 | 47.4 | /mnt/stockage/packages/f22/libexif/po/cs.po | 
+ | [es](/f22/language/es) | 2517 | 6977 | 36.1 | /mnt/stockage/packages/f22/libexif/po/es.po | 
+ | [ja](/f22/language/ja) | 1894 | 6977 | 27.1 | /mnt/stockage/packages/f22/libexif/po/ja.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1746 | 6977 | 25.0 | /mnt/stockage/packages/f22/libexif/po/pt_BR.po | 
+ | [sv](/f22/language/sv) | 1540 | 6977 | 22.1 | /mnt/stockage/packages/f22/libexif/po/sv.po | 
+ | [uk](/f22/language/uk) | 1243 | 6977 | 17.8 | /mnt/stockage/packages/f22/libexif/po/uk.po | 
+ | [fr](/f22/language/fr) | 1220 | 6977 | 17.5 | /mnt/stockage/packages/f22/libexif/po/fr.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 999 | 6977 | 14.3 | /mnt/stockage/packages/f22/libexif/po/zh_CN.po | 
+ | [tr](/f22/language/tr) | 997 | 6977 | 14.3 | /mnt/stockage/packages/f22/libexif/po/tr.po | 
+ | [en_CA](/f22/language/en_CA) | 705 | 6977 | 10.1 | /mnt/stockage/packages/f22/libexif/po/en_CA.po | 
+ | [be](/f22/language/be) | 610 | 6977 | 8.7 | /mnt/stockage/packages/f22/libexif/po/be.po | 
+ | [sq](/f22/language/sq) | 458 | 6977 | 6.6 | /mnt/stockage/packages/f22/libexif/po/sq.po | 
+ | [pt](/f22/language/pt) | 420 | 6977 | 6.0 | /mnt/stockage/packages/f22/libexif/po/pt.po | 
 {.sortable}
 
 

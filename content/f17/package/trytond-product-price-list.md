@@ -18,14 +18,14 @@ The package trytond-product-price-list (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/bg_BG.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/de_DE.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/es_ES.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/fr_FR.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 10 | 50 | 20.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/es_CO.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/ru_RU.po | 
+ | [bg](/f17/language/bg) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/bg_BG.po | 
+ | [de](/f17/language/de) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/de_DE.po | 
+ | [es](/f17/language/es) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/es_ES.po | 
+ | [fr](/f17/language/fr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/fr_FR.po | 
+ | [es_CO](/f17/language/es_CO) | 10 | 50 | 20.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/es_CO.po | 
+ | [cs](/f17/language/cs) | 0 | 50 | 0.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 0 | 50 | 0.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 0 | 50 | 0.0 | /mnt/stockage/packages/f17/trytond-product-price-list/locale/ru_RU.po | 
 {.sortable}
 
 

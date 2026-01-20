@@ -18,48 +18,48 @@ The package kalk (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ar/kalk.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ca/kalk.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ca@valencia/kalk.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/de/kalk.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/es/kalk.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/eu/kalk.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/fi/kalk.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/fr/kalk.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/gl/kalk.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/he/kalk.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/hu/kalk.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ia/kalk.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/it/kalk.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ka/kalk.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ko/kalk.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/lv/kalk.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/nl/kalk.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/nn/kalk.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/pl/kalk.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/pt_BR/kalk.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ru/kalk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/sl/kalk.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/sv/kalk.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/tr/kalk.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/uk/kalk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/zh_CN/kalk.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/zh_TW/kalk.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 67 | 68 | 98.5 | /mnt/stockage/packages/f42/kalk/po/cs/kalk.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 66 | 68 | 97.1 | /mnt/stockage/packages/f42/kalk/po/eo/kalk.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 66 | 68 | 97.1 | /mnt/stockage/packages/f42/kalk/po/sa/kalk.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 63 | 68 | 92.6 | /mnt/stockage/packages/f42/kalk/po/da/kalk.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 63 | 68 | 92.6 | /mnt/stockage/packages/f42/kalk/po/en_GB/kalk.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 29 | 68 | 42.6 | /mnt/stockage/packages/f42/kalk/po/ast/kalk.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 17 | 68 | 25.0 | /mnt/stockage/packages/f42/kalk/po/az/kalk.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 17 | 68 | 25.0 | /mnt/stockage/packages/f42/kalk/po/el/kalk.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 17 | 68 | 25.0 | /mnt/stockage/packages/f42/kalk/po/pt/kalk.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 13 | 68 | 19.1 | /mnt/stockage/packages/f42/kalk/po/hi/kalk.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 13 | 68 | 19.1 | /mnt/stockage/packages/f42/kalk/po/sk/kalk.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 11 | 68 | 16.2 | /mnt/stockage/packages/f42/kalk/po/pa/kalk.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f42/kalk/po/ga/kalk.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f42/kalk/po/ja/kalk.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 68 | 0.0 | /mnt/stockage/packages/f42/kalk/po/lt/kalk.po | 
+ | [ar](/f42/language/ar) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ar/kalk.po | 
+ | [ca](/f42/language/ca) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ca/kalk.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ca@valencia/kalk.po | 
+ | [de](/f42/language/de) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/de/kalk.po | 
+ | [es](/f42/language/es) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/es/kalk.po | 
+ | [eu](/f42/language/eu) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/eu/kalk.po | 
+ | [fi](/f42/language/fi) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/fi/kalk.po | 
+ | [fr](/f42/language/fr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/fr/kalk.po | 
+ | [gl](/f42/language/gl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/gl/kalk.po | 
+ | [he](/f42/language/he) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/he/kalk.po | 
+ | [hu](/f42/language/hu) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/hu/kalk.po | 
+ | [ia](/f42/language/ia) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ia/kalk.po | 
+ | [it](/f42/language/it) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/it/kalk.po | 
+ | [ka](/f42/language/ka) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ka/kalk.po | 
+ | [ko](/f42/language/ko) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ko/kalk.po | 
+ | [lv](/f42/language/lv) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/lv/kalk.po | 
+ | [nl](/f42/language/nl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/nl/kalk.po | 
+ | [nn](/f42/language/nn) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/nn/kalk.po | 
+ | [pl](/f42/language/pl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/pl/kalk.po | 
+ | [pt_BR](/f42/language/pt_BR) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/pt_BR/kalk.po | 
+ | [ru](/f42/language/ru) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/ru/kalk.po | 
+ | [sl](/f42/language/sl) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/sl/kalk.po | 
+ | [sv](/f42/language/sv) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/sv/kalk.po | 
+ | [tr](/f42/language/tr) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/tr/kalk.po | 
+ | [uk](/f42/language/uk) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/uk/kalk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/zh_CN/kalk.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 68 | 68 | 100.0 | /mnt/stockage/packages/f42/kalk/po/zh_TW/kalk.po | 
+ | [cs](/f42/language/cs) | 67 | 68 | 98.5 | /mnt/stockage/packages/f42/kalk/po/cs/kalk.po | 
+ | [eo](/f42/language/eo) | 66 | 68 | 97.1 | /mnt/stockage/packages/f42/kalk/po/eo/kalk.po | 
+ | [sa](/f42/language/sa) | 66 | 68 | 97.1 | /mnt/stockage/packages/f42/kalk/po/sa/kalk.po | 
+ | [da](/f42/language/da) | 63 | 68 | 92.6 | /mnt/stockage/packages/f42/kalk/po/da/kalk.po | 
+ | [en_GB](/f42/language/en_GB) | 63 | 68 | 92.6 | /mnt/stockage/packages/f42/kalk/po/en_GB/kalk.po | 
+ | [ast](/f42/language/ast) | 29 | 68 | 42.6 | /mnt/stockage/packages/f42/kalk/po/ast/kalk.po | 
+ | [az](/f42/language/az) | 17 | 68 | 25.0 | /mnt/stockage/packages/f42/kalk/po/az/kalk.po | 
+ | [el](/f42/language/el) | 17 | 68 | 25.0 | /mnt/stockage/packages/f42/kalk/po/el/kalk.po | 
+ | [pt](/f42/language/pt) | 17 | 68 | 25.0 | /mnt/stockage/packages/f42/kalk/po/pt/kalk.po | 
+ | [hi](/f42/language/hi) | 13 | 68 | 19.1 | /mnt/stockage/packages/f42/kalk/po/hi/kalk.po | 
+ | [sk](/f42/language/sk) | 13 | 68 | 19.1 | /mnt/stockage/packages/f42/kalk/po/sk/kalk.po | 
+ | [pa](/f42/language/pa) | 11 | 68 | 16.2 | /mnt/stockage/packages/f42/kalk/po/pa/kalk.po | 
+ | [ga](/f42/language/ga) | 0 | 68 | 0.0 | /mnt/stockage/packages/f42/kalk/po/ga/kalk.po | 
+ | [ja](/f42/language/ja) | 0 | 68 | 0.0 | /mnt/stockage/packages/f42/kalk/po/ja/kalk.po | 
+ | [lt](/f42/language/lt) | 0 | 68 | 0.0 | /mnt/stockage/packages/f42/kalk/po/lt/kalk.po | 
 {.sortable}
 
 

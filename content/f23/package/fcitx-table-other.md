@@ -18,25 +18,25 @@ The package fcitx-table-other (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/ja.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/zh_CN.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 20 | 24 | 83.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/de.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 19 | 24 | 79.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/zh_TW.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f23/fcitx-table-other/po/bn.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f23/fcitx-table-other/po/pa.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 3 | 24 | 12.5 | /mnt/stockage/packages/f23/fcitx-table-other/po/ta.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/gu.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/hi.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/kn.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/ml.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/ne.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 1 | 24 | 4.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/am.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 1 | 24 | 4.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/ar.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 1 | 24 | 4.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/te.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/ru.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/th.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/vi.po | 
+ | [ja](/f23/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/ja.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/zh_CN.po | 
+ | [de](/f23/language/de) | 20 | 24 | 83.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/de.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 19 | 24 | 79.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/zh_TW.po | 
+ | [bn](/f23/language/bn) | 3 | 24 | 12.5 | /mnt/stockage/packages/f23/fcitx-table-other/po/bn.po | 
+ | [pa](/f23/language/pa) | 3 | 24 | 12.5 | /mnt/stockage/packages/f23/fcitx-table-other/po/pa.po | 
+ | [ta](/f23/language/ta) | 3 | 24 | 12.5 | /mnt/stockage/packages/f23/fcitx-table-other/po/ta.po | 
+ | [gu](/f23/language/gu) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/gu.po | 
+ | [hi](/f23/language/hi) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/hi.po | 
+ | [kn](/f23/language/kn) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/kn.po | 
+ | [ml](/f23/language/ml) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/ml.po | 
+ | [ne](/f23/language/ne) | 2 | 24 | 8.3 | /mnt/stockage/packages/f23/fcitx-table-other/po/ne.po | 
+ | [am](/f23/language/am) | 1 | 24 | 4.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/am.po | 
+ | [ar](/f23/language/ar) | 1 | 24 | 4.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/ar.po | 
+ | [te](/f23/language/te) | 1 | 24 | 4.2 | /mnt/stockage/packages/f23/fcitx-table-other/po/te.po | 
+ | [ru](/f23/language/ru) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/ru.po | 
+ | [th](/f23/language/th) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/th.po | 
+ | [uk](/f23/language/uk) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/uk.po | 
+ | [vi](/f23/language/vi) | 0 | 24 | 0.0 | /mnt/stockage/packages/f23/fcitx-table-other/po/vi.po | 
 {.sortable}
 
 

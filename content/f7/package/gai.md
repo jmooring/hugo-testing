@@ -18,7 +18,7 @@ The package gai (version 0.5.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 371 | 533 | 69.6 | /mnt/stockage/packages/f7/gai/examples/gai-pref/po/de.po/mnt/stockage/packages/f7/gai/po/de.po | 
+ | [de](/f7/language/de) | 371 | 533 | 69.6 | /mnt/stockage/packages/f7/gai/examples/gai-pref/po/de.po/mnt/stockage/packages/f7/gai/po/de.po | 
 {.sortable}
 
 

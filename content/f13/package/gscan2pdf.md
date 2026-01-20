@@ -18,38 +18,38 @@ The package gscan2pdf (version 0.9.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-de.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-es.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-pt_BR.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-uk.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 1351 | 1368 | 98.8 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-sk.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1332 | 1368 | 97.4 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-cs.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1325 | 1368 | 96.9 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-it.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 1320 | 1368 | 96.5 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-da.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1300 | 1368 | 95.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-sv.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1294 | 1368 | 94.6 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-fr.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 1279 | 1368 | 93.5 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-nb.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 1264 | 1368 | 92.4 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-sl.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1178 | 1368 | 86.1 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1023 | 1368 | 74.8 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-zh_CN.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 872 | 1368 | 63.7 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-pl.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 802 | 1368 | 58.6 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-bg.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 792 | 1368 | 57.9 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-el.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 619 | 1368 | 45.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-he.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 554 | 1368 | 40.5 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ko.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 545 | 1368 | 39.8 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-pt.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 377 | 1368 | 27.6 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-hr.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 210 | 1368 | 15.4 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-hu.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 182 | 1368 | 13.3 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-be.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 182 | 1368 | 13.3 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-zh_TW.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 58 | 1368 | 4.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ca.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 53 | 1368 | 3.9 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-oc.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 30 | 1368 | 2.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-fa.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 30 | 1368 | 2.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ja.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 13 | 1368 | 1.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-tr.po | 
- | [ab]({{< ref "/f13/language/ab.md" >}}) | 0 | 1368 | 0.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ab.po | 
+ | [de](/f13/language/de) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-de.po | 
+ | [en_GB](/f13/language/en_GB) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-en_GB.po | 
+ | [es](/f13/language/es) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-es.po | 
+ | [nl](/f13/language/nl) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-pt_BR.po | 
+ | [uk](/f13/language/uk) | 1368 | 1368 | 100.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-uk.po | 
+ | [sk](/f13/language/sk) | 1351 | 1368 | 98.8 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-sk.po | 
+ | [cs](/f13/language/cs) | 1332 | 1368 | 97.4 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-cs.po | 
+ | [it](/f13/language/it) | 1325 | 1368 | 96.9 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-it.po | 
+ | [da](/f13/language/da) | 1320 | 1368 | 96.5 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-da.po | 
+ | [sv](/f13/language/sv) | 1300 | 1368 | 95.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-sv.po | 
+ | [fr](/f13/language/fr) | 1294 | 1368 | 94.6 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-fr.po | 
+ | [nb_NO](/f13/language/nb_NO) | 1279 | 1368 | 93.5 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-nb.po | 
+ | [sl](/f13/language/sl) | 1264 | 1368 | 92.4 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-sl.po | 
+ | [ru](/f13/language/ru) | 1178 | 1368 | 86.1 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1023 | 1368 | 74.8 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-zh_CN.po | 
+ | [pl](/f13/language/pl) | 872 | 1368 | 63.7 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-pl.po | 
+ | [bg](/f13/language/bg) | 802 | 1368 | 58.6 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-bg.po | 
+ | [el](/f13/language/el) | 792 | 1368 | 57.9 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-el.po | 
+ | [he](/f13/language/he) | 619 | 1368 | 45.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-he.po | 
+ | [ko](/f13/language/ko) | 554 | 1368 | 40.5 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ko.po | 
+ | [pt](/f13/language/pt) | 545 | 1368 | 39.8 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-pt.po | 
+ | [hr](/f13/language/hr) | 377 | 1368 | 27.6 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-hr.po | 
+ | [hu](/f13/language/hu) | 210 | 1368 | 15.4 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-hu.po | 
+ | [be](/f13/language/be) | 182 | 1368 | 13.3 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-be.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 182 | 1368 | 13.3 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-zh_TW.po | 
+ | [ca](/f13/language/ca) | 58 | 1368 | 4.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ca.po | 
+ | [oc](/f13/language/oc) | 53 | 1368 | 3.9 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-oc.po | 
+ | [fa](/f13/language/fa) | 30 | 1368 | 2.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-fa.po | 
+ | [ja](/f13/language/ja) | 30 | 1368 | 2.2 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ja.po | 
+ | [tr](/f13/language/tr) | 13 | 1368 | 1.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-tr.po | 
+ | [ab](/f13/language/ab) | 0 | 1368 | 0.0 | /mnt/stockage/packages/f13/gscan2pdf/po/gscan2pdf-ab.po | 
 {.sortable}
 
 

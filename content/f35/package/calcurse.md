@@ -18,13 +18,13 @@ The package calcurse (version 4.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2186 | 2873 | 76.1 | /mnt/stockage/packages/f35/calcurse/po/fr.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1981 | 2873 | 69.0 | /mnt/stockage/packages/f35/calcurse/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1915 | 2873 | 66.7 | /mnt/stockage/packages/f35/calcurse/po/ru.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1807 | 2873 | 62.9 | /mnt/stockage/packages/f35/calcurse/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1802 | 2873 | 62.7 | /mnt/stockage/packages/f35/calcurse/po/es.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 745 | 2873 | 25.9 | /mnt/stockage/packages/f35/calcurse/po/nl.po | 
- | [en]({{< ref "/f35/language/en.md" >}}) | 81 | 2873 | 2.8 | /mnt/stockage/packages/f35/calcurse/po/en.po | 
+ | [fr](/f35/language/fr) | 2186 | 2873 | 76.1 | /mnt/stockage/packages/f35/calcurse/po/fr.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1981 | 2873 | 69.0 | /mnt/stockage/packages/f35/calcurse/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 1915 | 2873 | 66.7 | /mnt/stockage/packages/f35/calcurse/po/ru.po | 
+ | [de](/f35/language/de) | 1807 | 2873 | 62.9 | /mnt/stockage/packages/f35/calcurse/po/de.po | 
+ | [es](/f35/language/es) | 1802 | 2873 | 62.7 | /mnt/stockage/packages/f35/calcurse/po/es.po | 
+ | [nl](/f35/language/nl) | 745 | 2873 | 25.9 | /mnt/stockage/packages/f35/calcurse/po/nl.po | 
+ | [en](/f35/language/en) | 81 | 2873 | 2.8 | /mnt/stockage/packages/f35/calcurse/po/en.po | 
 {.sortable}
 
 

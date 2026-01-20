@@ -18,14 +18,14 @@ The package sensible-utils (version 0.0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 232 | 306 | 75.8 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/fr.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 40 | 306 | 13.1 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/de.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 40 | 306 | 13.1 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/pt.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/cs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/es.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/ja.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/pl.po | 
+ | [fr](/f34/language/fr) | 232 | 306 | 75.8 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/fr.po | 
+ | [de](/f34/language/de) | 40 | 306 | 13.1 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/de.po | 
+ | [pt](/f34/language/pt) | 40 | 306 | 13.1 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/pt.po | 
+ | [cs](/f34/language/cs) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/cs.po | 
+ | [es](/f34/language/es) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/es.po | 
+ | [it](/f34/language/it) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/it.po | 
+ | [ja](/f34/language/ja) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/ja.po | 
+ | [pl](/f34/language/pl) | 13 | 306 | 4.2 | /mnt/stockage/packages/f34/sensible-utils/man/po4a/pl.po | 
 {.sortable}
 
 

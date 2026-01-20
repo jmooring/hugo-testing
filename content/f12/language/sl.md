@@ -41,414 +41,414 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Django]({{< ref "/f12/package/Django.md" >}}) | 3715 | 3715 | 100.0 | <sl@li.org> | 
- | [GConf2]({{< ref "/f12/package/GConf2.md" >}}) | 4035 | 4035 | 100.0 | Slovenian <sl@li.org> | 
- | [NetworkManager]({{< ref "/f12/package/NetworkManager.md" >}}) | 2442 | 2442 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [NetworkManager-openconnect]({{< ref "/f12/package/NetworkManager-openconnect.md" >}}) | 53 | 53 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [NetworkManager-openvpn]({{< ref "/f12/package/NetworkManager-openvpn.md" >}}) | 238 | 238 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [NetworkManager-pptp]({{< ref "/f12/package/NetworkManager-pptp.md" >}}) | 144 | 144 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [NetworkManager-vpnc]({{< ref "/f12/package/NetworkManager-vpnc.md" >}}) | 143 | 143 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [TurboGears]({{< ref "/f12/package/TurboGears.md" >}}) | 21 | 21 | 100.0 | Slovenian <matej.baric@gmail.com> | 
- | [alacarte]({{< ref "/f12/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [alleyoop]({{< ref "/f12/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [anjuta]({{< ref "/f12/package/anjuta.md" >}}) | 7818 | 7818 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [at-spi]({{< ref "/f12/package/at-spi.md" >}}) | 24 | 24 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [atk]({{< ref "/f12/package/atk.md" >}}) | 375 | 375 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [atomix]({{< ref "/f12/package/atomix.md" >}}) | 125 | 125 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [bakery]({{< ref "/f12/package/bakery.md" >}}) | 72 | 72 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [banshee]({{< ref "/f12/package/banshee.md" >}}) | 5391 | 5391 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [bibus]({{< ref "/f12/package/bibus.md" >}}) | 2063 | 2063 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
- | [bison]({{< ref "/f12/package/bison.md" >}}) | 52 | 52 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [blam]({{< ref "/f12/package/blam.md" >}}) | 341 | 341 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [brasero]({{< ref "/f12/package/brasero.md" >}}) | 5509 | 5509 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [cairo-clock]({{< ref "/f12/package/cairo-clock.md" >}}) | 270 | 270 | 100.0 | Slovenian | 
- | [camorama]({{< ref "/f12/package/camorama.md" >}}) | 564 | 564 | 100.0 | Slovenian <sl@li.org> | 
- | [cheese]({{< ref "/f12/package/cheese.md" >}}) | 659 | 659 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [clamtk]({{< ref "/f12/package/clamtk.md" >}}) | 892 | 892 | 100.0 |  | 
- | [conduit]({{< ref "/f12/package/conduit.md" >}}) | 709 | 709 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [contact-lookup-applet]({{< ref "/f12/package/contact-lookup-applet.md" >}}) | 259 | 259 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [control-center]({{< ref "/f12/package/control-center.md" >}}) | 3245 | 3245 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [cracklib]({{< ref "/f12/package/cracklib.md" >}}) | 93 | 93 | 100.0 | Slovenščina <sl@li.org> | 
- | [dasher]({{< ref "/f12/package/dasher.md" >}}) | 528 | 528 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [deskbar-applet]({{< ref "/f12/package/deskbar-applet.md" >}}) | 1670 | 1670 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [devhelp]({{< ref "/f12/package/devhelp.md" >}}) | 404 | 404 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [dia]({{< ref "/f12/package/dia.md" >}}) | 6258 | 6258 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [eel2]({{< ref "/f12/package/eel2.md" >}}) | 161 | 161 | 100.0 | Slovenian <sl@li.org> | 
- | [ekiga]({{< ref "/f12/package/ekiga.md" >}}) | 4048 | 4048 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [emerillon]({{< ref "/f12/package/emerillon.md" >}}) | 359 | 359 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [empathy]({{< ref "/f12/package/empathy.md" >}}) | 2709 | 2709 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [eog]({{< ref "/f12/package/eog.md" >}}) | 1454 | 1454 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [eog-plugins]({{< ref "/f12/package/eog-plugins.md" >}}) | 80 | 80 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [epiphany]({{< ref "/f12/package/epiphany.md" >}}) | 3033 | 3033 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [evince]({{< ref "/f12/package/evince.md" >}}) | 1260 | 1260 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [evolution]({{< ref "/f12/package/evolution.md" >}}) | 22319 | 22319 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [evolution-couchdb]({{< ref "/f12/package/evolution-couchdb.md" >}}) | 9 | 9 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [evolution-data-server]({{< ref "/f12/package/evolution-data-server.md" >}}) | 5099 | 5099 | 100.0 | Slovenian <sl@li.org> | 
- | [evolution-exchange]({{< ref "/f12/package/evolution-exchange.md" >}}) | 1347 | 1347 | 100.0 | Slovenian | 
- | [evolution-mapi]({{< ref "/f12/package/evolution-mapi.md" >}}) | 333 | 333 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [file-roller]({{< ref "/f12/package/file-roller.md" >}}) | 1277 | 1277 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [freedink]({{< ref "/f12/package/freedink.md" >}}) | 79 | 79 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [galeon]({{< ref "/f12/package/galeon.md" >}}) | 5996 | 5996 | 100.0 | Slovenian <sl@li.org> | 
- | [gcalctool]({{< ref "/f12/package/gcalctool.md" >}}) | 1677 | 1677 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gconf-editor]({{< ref "/f12/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Slovenian <sl@li.org> | 
- | [gdm]({{< ref "/f12/package/gdm.md" >}}) | 1308 | 1308 | 100.0 | Slovenian | 
- | [gedit]({{< ref "/f12/package/gedit.md" >}}) | 4966 | 4966 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gedit-plugins]({{< ref "/f12/package/gedit-plugins.md" >}}) | 3628 | 3628 | 100.0 | Slovenian <sl@li.org> | 
- | [gettext]({{< ref "/f12/package/gettext.md" >}}) | 6844 | 6844 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [ggz-gtk-client]({{< ref "/f12/package/ggz-gtk-client.md" >}}) | 7 | 7 | 100.0 | slovenian <sl@li.org> | 
- | [ghex]({{< ref "/f12/package/ghex.md" >}}) | 966 | 966 | 100.0 | Jaka Mocnik <jaka@gnu.org> | 
- | [gimp]({{< ref "/f12/package/gimp.md" >}}) | 26056 | 26056 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
- | [glade3]({{< ref "/f12/package/glade3.md" >}}) | 4613 | 4613 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [glib2]({{< ref "/f12/package/glib2.md" >}}) | 2453 | 2453 | 100.0 | Slovenian <sl@li.org> | 
- | [glom]({{< ref "/f12/package/glom.md" >}}) | 4064 | 4064 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gmpc]({{< ref "/f12/package/gmpc.md" >}}) | 4 | 4 | 100.0 | Slovenian <sl@li.org> | 
- | [gnome-applet-netspeed]({{< ref "/f12/package/gnome-applet-netspeed.md" >}}) | 143 | 143 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-applets]({{< ref "/f12/package/gnome-applets.md" >}}) | 3367 | 3367 | 100.0 | Slovenian | 
- | [gnome-backgrounds]({{< ref "/f12/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Slovenian | 
- | [gnome-bluetooth]({{< ref "/f12/package/gnome-bluetooth.md" >}}) | 593 | 593 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-commander]({{< ref "/f12/package/gnome-commander.md" >}}) | 8353 | 8353 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-desktop]({{< ref "/f12/package/gnome-desktop.md" >}}) | 351 | 351 | 100.0 | Slovenian <sl@li.org> | 
- | [gnome-disk-utility]({{< ref "/f12/package/gnome-disk-utility.md" >}}) | 4044 | 4044 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-doc-utils]({{< ref "/f12/package/gnome-doc-utils.md" >}}) | 249 | 249 | 100.0 | Slovenian | 
- | [gnome-games]({{< ref "/f12/package/gnome-games.md" >}}) | 8518 | 8518 | 100.0 | slovenian <sl@li.org> | 
- | [gnome-icon-theme]({{< ref "/f12/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Slovenian <sl@li.org> | 
- | [gnome-keyring]({{< ref "/f12/package/gnome-keyring.md" >}}) | 1823 | 1823 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-lirc-properties]({{< ref "/f12/package/gnome-lirc-properties.md" >}}) | 782 | 782 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-mag]({{< ref "/f12/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-media]({{< ref "/f12/package/gnome-media.md" >}}) | 1190 | 1190 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f12/package/gnome-menus.md" >}}) | 161 | 161 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-mime-data]({{< ref "/f12/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Slovenian <sl@li.org> | 
- | [gnome-netstatus]({{< ref "/f12/package/gnome-netstatus.md" >}}) | 418 | 418 | 100.0 |  | 
- | [gnome-nettool]({{< ref "/f12/package/gnome-nettool.md" >}}) | 523 | 523 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-panel]({{< ref "/f12/package/gnome-panel.md" >}}) | 4476 | 4476 | 100.0 | slovenian <sl@li.org> | 
- | [gnome-power-manager]({{< ref "/f12/package/gnome-power-manager.md" >}}) | 2786 | 2786 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-screensaver]({{< ref "/f12/package/gnome-screensaver.md" >}}) | 989 | 989 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-session]({{< ref "/f12/package/gnome-session.md" >}}) | 638 | 638 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-settings-daemon]({{< ref "/f12/package/gnome-settings-daemon.md" >}}) | 1624 | 1624 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-shell]({{< ref "/f12/package/gnome-shell.md" >}}) | 91 | 91 | 100.0 | Slovenian <gnome-si@googlegroups.com> | 
- | [gnome-subtitles]({{< ref "/f12/package/gnome-subtitles.md" >}}) | 757 | 757 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-system-monitor]({{< ref "/f12/package/gnome-system-monitor.md" >}}) | 933 | 933 | 100.0 | slovenian <sl@li.org> | 
- | [gnome-terminal]({{< ref "/f12/package/gnome-terminal.md" >}}) | 3928 | 3928 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-themes]({{< ref "/f12/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-user-share]({{< ref "/f12/package/gnome-user-share.md" >}}) | 288 | 288 | 100.0 | Slovenian <sl@li.org> | 
- | [gnome-utils]({{< ref "/f12/package/gnome-utils.md" >}}) | 3905 | 3905 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnome-vfs2]({{< ref "/f12/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gnote]({{< ref "/f12/package/gnote.md" >}}) | 2074 | 2074 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gok]({{< ref "/f12/package/gok.md" >}}) | 1937 | 1937 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gpicview]({{< ref "/f12/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [gpointing-device-settings]({{< ref "/f12/package/gpointing-device-settings.md" >}}) | 184 | 184 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gthumb]({{< ref "/f12/package/gthumb.md" >}}) | 3134 | 3134 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gtk+]({{< ref "/f12/package/gtk+.md" >}}) | 202 | 202 | 100.0 | slovenian <sl@li.org> | 
- | [gtk2]({{< ref "/f12/package/gtk2.md" >}}) | 13358 | 13358 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gtk2-engines]({{< ref "/f12/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gtkhtml3]({{< ref "/f12/package/gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Slovenian <sl@li.org> | 
- | [gtksourceview]({{< ref "/f12/package/gtksourceview.md" >}}) | 849 | 849 | 100.0 | Slovenian <SL@li.org> | 
- | [gtksourceview2]({{< ref "/f12/package/gtksourceview2.md" >}}) | 1120 | 1120 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gtkspell]({{< ref "/f12/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [gucharmap]({{< ref "/f12/package/gucharmap.md" >}}) | 803 | 803 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gvfs]({{< ref "/f12/package/gvfs.md" >}}) | 1858 | 1858 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [hamster-applet]({{< ref "/f12/package/hamster-applet.md" >}}) | 553 | 553 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [homebank]({{< ref "/f12/package/homebank.md" >}}) | 1507 | 1507 | 100.0 |  | 
- | [hotssh]({{< ref "/f12/package/hotssh.md" >}}) | 150 | 150 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [hwbrowser]({{< ref "/f12/package/hwbrowser.md" >}}) | 116 | 116 | 100.0 | Slovenian <sl@li.org> | 
- | [imp]({{< ref "/f12/package/imp.md" >}}) | 5683 | 5683 | 100.0 | sl_SI <duck@obala.net> | 
- | [ingo]({{< ref "/f12/package/ingo.md" >}}) | 863 | 863 | 100.0 | Slovene <sl@li.org> | 
- | [isomaster]({{< ref "/f12/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Slovenian <sl@li.org> | 
- | [leafpad]({{< ref "/f12/package/leafpad.md" >}}) | 125 | 125 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [libbonobo]({{< ref "/f12/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libbonoboui]({{< ref "/f12/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Slovenian GNOME Translation Team <gnome-si@gmail.com> | 
- | [libgdl]({{< ref "/f12/package/libgdl.md" >}}) | 613 | 613 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgnome]({{< ref "/f12/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgnomecanvas]({{< ref "/f12/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgnomecups]({{< ref "/f12/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgnomekbd]({{< ref "/f12/package/libgnomekbd.md" >}}) | 246 | 246 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgnomeprint22]({{< ref "/f12/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Slovenian <sl@li.org> | 
- | [libgnomeprintui22]({{< ref "/f12/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgnomeui]({{< ref "/f12/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [libgtop2]({{< ref "/f12/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Slovenian <sl@li.org> | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 6107 | 6107 | 100.0 | Slovenian | 
- | [libktorrent]({{< ref "/f12/package/libktorrent.md" >}}) | 417 | 417 | 100.0 | Slovenian <lugos-slo@lugos.si> | 
- | [libwnck]({{< ref "/f12/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | slovenian <sl@li.org> | 
- | [lxinput]({{< ref "/f12/package/lxinput.md" >}}) | 60 | 60 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxlauncher]({{< ref "/f12/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxmusic]({{< ref "/f12/package/lxmusic.md" >}}) | 196 | 196 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxpanel]({{< ref "/f12/package/lxpanel.md" >}}) | 895 | 895 | 100.0 | / <paxmanpwnz@gmail.com> | 
- | [lxrandr]({{< ref "/f12/package/lxrandr.md" >}}) | 102 | 102 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxsession-edit]({{< ref "/f12/package/lxsession-edit.md" >}}) | 58 | 58 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxshortcut]({{< ref "/f12/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxtask]({{< ref "/f12/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
- | [metacity]({{< ref "/f12/package/metacity.md" >}}) | 3821 | 3821 | 100.0 | Slovenian <sl@li.org> | 
- | [mingw32-atk]({{< ref "/f12/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [mingw32-gettext]({{< ref "/f12/package/mingw32-gettext.md" >}}) | 6844 | 6844 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [mingw32-glib2]({{< ref "/f12/package/mingw32-glib2.md" >}}) | 2463 | 2463 | 100.0 | Slovenian <sl@li.org> | 
- | [mingw32-gtkhtml3]({{< ref "/f12/package/mingw32-gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Slovenian <sl@li.org> | 
- | [moserial]({{< ref "/f12/package/moserial.md" >}}) | 525 | 525 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [mousepad]({{< ref "/f12/package/mousepad.md" >}}) | 135 | 135 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [mousetweaks]({{< ref "/f12/package/mousetweaks.md" >}}) | 715 | 715 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [mutter]({{< ref "/f12/package/mutter.md" >}}) | 3864 | 3864 | 100.0 | Slovenian <sl@li.org> | 
- | [nautilus]({{< ref "/f12/package/nautilus.md" >}}) | 8620 | 8620 | 100.0 | Slovenian <sl@li.org> | 
- | [nautilus-actions]({{< ref "/f12/package/nautilus-actions.md" >}}) | 4032 | 4032 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [nautilus-open-terminal]({{< ref "/f12/package/nautilus-open-terminal.md" >}}) | 158 | 158 | 100.0 | Slovenian <sl@li.org> | 
- | [nautilus-sendto]({{< ref "/f12/package/nautilus-sendto.md" >}}) | 316 | 316 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [newt]({{< ref "/f12/package/newt.md" >}}) | 4 | 4 | 100.0 | Slovenian <sl@li.org> | 
- | [orca]({{< ref "/f12/package/orca.md" >}}) | 3809 | 3809 | 100.0 | Slovenian <sl@li.org> | 
- | [paperbox]({{< ref "/f12/package/paperbox.md" >}}) | 78 | 78 | 100.0 | Slovenian | 
- | [pessulus]({{< ref "/f12/package/pessulus.md" >}}) | 130 | 130 | 100.0 | Slovenian | 
- | [planner]({{< ref "/f12/package/planner.md" >}}) | 1796 | 1796 | 100.0 |  | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 2424 | 2424 | 100.0 | Slovenščina <users@sl.openoffice.org> | 
- | [pybliographer]({{< ref "/f12/package/pybliographer.md" >}}) | 965 | 965 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [python-sphinx]({{< ref "/f12/package/python-sphinx.md" >}}) | 397 | 397 | 100.0 | Rok Garbas <rok.garbas@gmail.com> | 
- | [radiotray]({{< ref "/f12/package/radiotray.md" >}}) | 49 | 49 | 100.0 |  | 
- | [regexxer]({{< ref "/f12/package/regexxer.md" >}}) | 467 | 467 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [rhpl]({{< ref "/f12/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Slovenian <sl@li.org> | 
- | [rhythmbox]({{< ref "/f12/package/rhythmbox.md" >}}) | 4645 | 4645 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [sabayon]({{< ref "/f12/package/sabayon.md" >}}) | 743 | 743 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [seahorse]({{< ref "/f12/package/seahorse.md" >}}) | 3042 | 3042 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [seahorse-plugins]({{< ref "/f12/package/seahorse-plugins.md" >}}) | 1163 | 1163 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [snownews]({{< ref "/f12/package/snownews.md" >}}) | 560 | 560 | 100.0 |  | 
- | [sound-juicer]({{< ref "/f12/package/sound-juicer.md" >}}) | 1022 | 1022 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [sugar]({{< ref "/f12/package/sugar.md" >}}) | 776 | 776 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f12/package/sugar-base.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f12/package/sugar-browse.md" >}}) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f12/package/sugar-chat.md" >}}) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f12/package/sugar-connect.md" >}}) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f12/package/sugar-distance.md" >}}) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f12/package/sugar-imageviewer.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f12/package/sugar-jukebox.md" >}}) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f12/package/sugar-log.md" >}}) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f12/package/sugar-memorize.md" >}}) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f12/package/sugar-pippy.md" >}}) | 52 | 52 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f12/package/sugar-read.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f12/package/sugar-record.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f12/package/sugar-terminal.md" >}}) | 6 | 6 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f12/package/sugar-toolkit.md" >}}) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f12/package/sugar-write.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [swfdec-gnome]({{< ref "/f12/package/swfdec-gnome.md" >}}) | 101 | 101 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [switchdesk]({{< ref "/f12/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [system-config-httpd]({{< ref "/f12/package/system-config-httpd.md" >}}) | 858 | 858 | 100.0 | Slovenian <sl@li.org> | 
- | [system-switch-mail]({{< ref "/f12/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [tasque]({{< ref "/f12/package/tasque.md" >}}) | 245 | 245 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [tomboy]({{< ref "/f12/package/tomboy.md" >}}) | 2870 | 2870 | 100.0 | Slovenian <sl@li.org> | 
- | [totem]({{< ref "/f12/package/totem.md" >}}) | 2699 | 2699 | 100.0 | Slovenian | 
- | [totem-pl-parser]({{< ref "/f12/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [tracker]({{< ref "/f12/package/tracker.md" >}}) | 2127 | 2127 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [transmission]({{< ref "/f12/package/transmission.md" >}}) | 1642 | 1642 | 100.0 | Slovenian <sl@li.org> | 
- | [vinagre]({{< ref "/f12/package/vinagre.md" >}}) | 1164 | 1164 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [vino]({{< ref "/f12/package/vino.md" >}}) | 1215 | 1215 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [vte]({{< ref "/f12/package/vte.md" >}}) | 108 | 108 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [wxGTK]({{< ref "/f12/package/wxGTK.md" >}}) | 6679 | 6679 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
- | [xdg-user-dirs-gtk]({{< ref "/f12/package/xdg-user-dirs-gtk.md" >}}) | 52 | 52 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [xkeyboard-config]({{< ref "/f12/package/xkeyboard-config.md" >}}) | 2029 | 2029 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [yelp]({{< ref "/f12/package/yelp.md" >}}) | 1094 | 1094 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [zenity]({{< ref "/f12/package/zenity.md" >}}) | 582 | 582 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [inkscape]({{< ref "/f12/package/inkscape.md" >}}) | 24031 | 24035 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
- | [ktorrent]({{< ref "/f12/package/ktorrent.md" >}}) | 7559 | 7562 | 100.0 | Slovenian <lugos-slo@lugos.si> | 
- | [exaile]({{< ref "/f12/package/exaile.md" >}}) | 2424 | 2425 | 100.0 | Slovenian <sl@li.org> | 
- | [kronolith]({{< ref "/f12/package/kronolith.md" >}}) | 1720 | 1721 | 99.9 | sl_SI <duck@obala.net> | 
- | [moin]({{< ref "/f12/package/moin.md" >}}) | 4523 | 4526 | 99.9 |  | 
- | [kicad]({{< ref "/f12/package/kicad.md" >}}) | 4522 | 4527 | 99.9 |  | 
- | [mingw32-gtk2]({{< ref "/f12/package/mingw32-gtk2.md" >}}) | 13326 | 13351 | 99.8 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [wormux]({{< ref "/f12/package/wormux.md" >}}) | 1911 | 1916 | 99.7 | <sl@li.org> | 
- | [krename]({{< ref "/f12/package/krename.md" >}}) | 1598 | 1603 | 99.7 | Slovenian | 
- | [pychess]({{< ref "/f12/package/pychess.md" >}}) | 2294 | 2303 | 99.6 | slovensko <lugos-slo@lugos.si> | 
- | [supertuxkart]({{< ref "/f12/package/supertuxkart.md" >}}) | 820 | 824 | 99.5 | Andrej Znidarsic <andrej.znidarsic@gmail.com> | 
- | [clementine]({{< ref "/f12/package/clementine.md" >}}) | 2099 | 2111 | 99.4 | Slovenian <sl@li.org> | 
- | [f-spot]({{< ref "/f12/package/f-spot.md" >}}) | 7575 | 7620 | 99.4 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [pidgin]({{< ref "/f12/package/pidgin.md" >}}) | 18527 | 18654 | 99.3 | Martin Srebotnjak <miles@filmsi.net> | 
- | [horde]({{< ref "/f12/package/horde.md" >}}) | 6616 | 6668 | 99.2 | sl_SI <duck@obala.net> | 
- | [turba]({{< ref "/f12/package/turba.md" >}}) | 1471 | 1485 | 99.1 | Slovene <sl@li.org> | 
- | [aspell]({{< ref "/f12/package/aspell.md" >}}) | 1707 | 1726 | 98.9 | Lugos <miles@filmsi.net> | 
- | [poedit]({{< ref "/f12/package/poedit.md" >}}) | 1148 | 1162 | 98.8 | Martin Srebotnjak <miles@filmsi.net> | 
- | [coreutils]({{< ref "/f12/package/coreutils.md" >}}) | 18036 | 18344 | 98.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [vdr]({{< ref "/f12/package/vdr.md" >}}) | 793 | 807 | 98.3 | Slovenian | 
- | [shutter]({{< ref "/f12/package/shutter.md" >}}) | 2706 | 2763 | 97.9 | Slovenian <sl@li.org> | 
- | [kmid]({{< ref "/f12/package/kmid.md" >}}) | 523 | 535 | 97.8 | Slovenian <sl@li.org> | 
- | [audacity]({{< ref "/f12/package/audacity.md" >}}) | 9398 | 9628 | 97.6 | Martin Srebotnjak <miles@filmsi.net> | 
- | [gallery2]({{< ref "/f12/package/gallery2.md" >}}) | 9138 | 9375 | 97.5 | Srpski <gallery-translations@lists.sourceforge.net> | 
- | [passwd]({{< ref "/f12/package/passwd.md" >}}) | 291 | 299 | 97.3 | Slovenian <sl@li.org> | 
- | [childsplay]({{< ref "/f12/package/childsplay.md" >}}) | 1193 | 1226 | 97.3 | Slovenian <r@aufbix.org> | 
- | [stellarium]({{< ref "/f12/package/stellarium.md" >}}) | 2340 | 2407 | 97.2 | Slovenian <sl@li.org> | 
- | [sugar-finance]({{< ref "/f12/package/sugar-finance.md" >}}) | 138 | 142 | 97.2 | LANGUAGE <LL@li.org> | 
- | [sonata]({{< ref "/f12/package/sonata.md" >}}) | 1102 | 1136 | 97.0 | Slovenian <sl@li.org> | 
- | [boinc-client]({{< ref "/f12/package/boinc-client.md" >}}) | 7359 | 7593 | 96.9 | LANGUAGE <LL@li.org> | 
- | [filezilla]({{< ref "/f12/package/filezilla.md" >}}) | 8819 | 9102 | 96.9 | Martin Srebotnjak <miles@filmsi.net> | 
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [gambas]({{< ref "/f12/package/gambas.md" >}}) | 1836 | 1901 | 96.6 | LANGUAGE <LL@li.org> | 
- | [geany]({{< ref "/f12/package/geany.md" >}}) | 5015 | 5203 | 96.4 | Slovenian <> | 
- | [balsa]({{< ref "/f12/package/balsa.md" >}}) | 5616 | 5838 | 96.2 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gtranslator]({{< ref "/f12/package/gtranslator.md" >}}) | 1182 | 1230 | 96.1 | Slovenian | 
- | [xmms]({{< ref "/f12/package/xmms.md" >}}) | 3269 | 3443 | 94.9 | Slovenian <sl@li.org> | 
- | [lxappearance]({{< ref "/f12/package/lxappearance.md" >}}) | 91 | 96 | 94.8 | Slovenian <paxmanpwnz@gmail.com> | 
- | [kdevplatform]({{< ref "/f12/package/kdevplatform.md" >}}) | 3170 | 3356 | 94.5 | Slovenian <lugos-slo@lugos.si> | 
- | [chkconfig]({{< ref "/f12/package/chkconfig.md" >}}) | 423 | 448 | 94.4 | Slovenian <sl@li.org> | 
- | [pcmanfm]({{< ref "/f12/package/pcmanfm.md" >}}) | 1430 | 1520 | 94.1 | Slovenian <paxmanpwnz@gmail.com> | 
- | [kiconedit]({{< ref "/f12/package/kiconedit.md" >}}) | 682 | 726 | 93.9 | Slovenian <sl@li.org> | 
- | [kflickr]({{< ref "/f12/package/kflickr.md" >}}) | 280 | 299 | 93.6 | Slovenian <sl@li.org> | 
- | [libepc]({{< ref "/f12/package/libepc.md" >}}) | 136 | 146 | 93.2 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f12/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Slovene <translation-team-sl@lists.sourceforge.net> | 
- | [krusader]({{< ref "/f12/package/krusader.md" >}}) | 7037 | 7580 | 92.8 | Slovenian <lugos-slo@lugos.si> | 
- | [gscan2pdf]({{< ref "/f12/package/gscan2pdf.md" >}}) | 1264 | 1368 | 92.4 | Slovenian <sl@li.org> | 
- | [libuser]({{< ref "/f12/package/libuser.md" >}}) | 1026 | 1114 | 92.1 | Slovenian <sl@li.org> | 
- | [redhat-menus]({{< ref "/f12/package/redhat-menus.md" >}}) | 240 | 261 | 92.0 | Slovenian <sl@li.org> | 
- | [gnome-libs]({{< ref "/f12/package/gnome-libs.md" >}}) | 988 | 1085 | 91.1 | Slovenian <sl@li.org> | 
- | [lxdm]({{< ref "/f12/package/lxdm.md" >}}) | 10 | 11 | 90.9 | LANGUAGE <LL@li.org> | 
- | [system-config-keyboard]({{< ref "/f12/package/system-config-keyboard.md" >}}) | 169 | 187 | 90.4 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [mingw32-iconv]({{< ref "/f12/package/mingw32-iconv.md" >}}) | 303 | 336 | 90.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [asunder]({{< ref "/f12/package/asunder.md" >}}) | 403 | 450 | 89.6 | Slovenian <sl@li.org> | 
- | [system-config-kickstart]({{< ref "/f12/package/system-config-kickstart.md" >}}) | 927 | 1039 | 89.2 | Slovenian <sl@li.org> | 
- | [lxsession]({{< ref "/f12/package/lxsession.md" >}}) | 33 | 37 | 89.2 | Slovenian <paxmanpwnz@gmail.com> | 
- | [lxterminal]({{< ref "/f12/package/lxterminal.md" >}}) | 115 | 129 | 89.1 | Slovenian <paxmanpwnz@gmail.com> | 
- | [gkrellm]({{< ref "/f12/package/gkrellm.md" >}}) | 3325 | 3783 | 87.9 | <en@li.org> | 
- | [amarok]({{< ref "/f12/package/amarok.md" >}}) | 10530 | 12039 | 87.5 | Slovenian <lugos-slo@lugos.si> | 
- | [picard]({{< ref "/f12/package/picard.md" >}}) | 1144 | 1310 | 87.3 | Slovenian <sl@li.org> | 
- | [webkitgtk]({{< ref "/f12/package/webkitgtk.md" >}}) | 948 | 1093 | 86.7 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [pidgin-libnotify]({{< ref "/f12/package/pidgin-libnotify.md" >}}) | 31 | 36 | 86.1 | Slovenian <LL@li.org> | 
- | [supertux]({{< ref "/f12/package/supertux.md" >}}) | 1165 | 1361 | 85.6 | <sl@li.org> | 
- | [setuptool]({{< ref "/f12/package/setuptool.md" >}}) | 47 | 55 | 85.5 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [workrave]({{< ref "/f12/package/workrave.md" >}}) | 998 | 1175 | 84.9 | Slovenian <sl@li.org> | 
- | [sed]({{< ref "/f12/package/sed.md" >}}) | 490 | 581 | 84.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [ksig]({{< ref "/f12/package/ksig.md" >}}) | 71 | 85 | 83.5 | Slovenian <sl@li.org> | 
- | [wxPython]({{< ref "/f12/package/wxPython.md" >}}) | 7411 | 8930 | 83.0 | Martin Srebotnjak <miles@filmsi.net> | 
- | [mailman]({{< ref "/f12/package/mailman.md" >}}) | 17958 | 21904 | 82.0 | Slovenščina <sl@li.org> | 
- | [jokosher]({{< ref "/f12/package/jokosher.md" >}}) | 1682 | 2059 | 81.7 | Slovenian <sl@li.org> | 
- | [frozen-bubble]({{< ref "/f12/package/frozen-bubble.md" >}}) | 567 | 698 | 81.2 | <sl@li.org> | 
- | [recode]({{< ref "/f12/package/recode.md" >}}) | 672 | 829 | 81.1 | Slovenian <sl@li.org> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 2686 | 3336 | 80.5 | Slovenian <sl@li.org> | 
- | [quassel]({{< ref "/f12/package/quassel.md" >}}) | 3348 | 4165 | 80.4 | Slovenian <lugos-slo@lugos.si> | 
- | [usermode]({{< ref "/f12/package/usermode.md" >}}) | 459 | 579 | 79.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [xfmpc]({{< ref "/f12/package/xfmpc.md" >}}) | 103 | 130 | 79.2 | Slovenian | 
- | [pykickstart]({{< ref "/f12/package/pykickstart.md" >}}) | 225 | 284 | 79.2 | Slovenian <sl@li.org> | 
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | 76 | 97 | 78.4 | Slovenian <paxmanpwnz@gmail.com> | 
- | [authconfig]({{< ref "/f12/package/authconfig.md" >}}) | 1048 | 1357 | 77.2 | Slovenian <sl@li.org> | 
- | [system-config-network]({{< ref "/f12/package/system-config-network.md" >}}) | 2324 | 3022 | 76.9 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [beagle]({{< ref "/f12/package/beagle.md" >}}) | 981 | 1276 | 76.9 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [gramps]({{< ref "/f12/package/gramps.md" >}}) | 19381 | 25851 | 75.0 | lugos slovenizacija <lugos-slo at lugos.si> | 
- | [konq-plugins]({{< ref "/f12/package/konq-plugins.md" >}}) | 1198 | 1598 | 75.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [bittorrent]({{< ref "/f12/package/bittorrent.md" >}}) | 2891 | 3904 | 74.1 | Slovenian <lugos-slo (at) lugos (dot) si> | 
- | [warzone2100]({{< ref "/f12/package/warzone2100.md" >}}) | 9412 | 12738 | 73.9 | Slovenian <sl@li.org> | 
- | [xsane]({{< ref "/f12/package/xsane.md" >}}) | 2358 | 3224 | 73.1 | slovenščina <sl@li.org> | 
- | [findutils]({{< ref "/f12/package/findutils.md" >}}) | 1538 | 2105 | 73.1 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [initscripts]({{< ref "/f12/package/initscripts.md" >}}) | 3094 | 4243 | 72.9 | Slovenian <sl@li.org> | 
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 552 | 761 | 72.5 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [wget]({{< ref "/f12/package/wget.md" >}}) | 1631 | 2260 | 72.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [synaptic]({{< ref "/f12/package/synaptic.md" >}}) | 2305 | 3231 | 71.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [soundtracker]({{< ref "/f12/package/soundtracker.md" >}}) | 1140 | 1648 | 69.2 | slovenian <sl@li.org> | 
- | [util-linux-ng]({{< ref "/f12/package/util-linux-ng.md" >}}) | 9520 | 13804 | 69.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [system-config-netboot]({{< ref "/f12/package/system-config-netboot.md" >}}) | 741 | 1103 | 67.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [hugin]({{< ref "/f12/package/hugin.md" >}}) | 3572 | 5329 | 67.0 | Zoran Mesec <zoran.mesec@gmail.com> | 
- | [tar]({{< ref "/f12/package/tar.md" >}}) | 2169 | 3247 | 66.8 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [xiphos]({{< ref "/f12/package/xiphos.md" >}}) | 2534 | 3815 | 66.4 | Slovenščina (Slovene) <gnomesword-developers@lists.sourceforge.net> | 
- | [xchat-gnome]({{< ref "/f12/package/xchat-gnome.md" >}}) | 2578 | 3901 | 66.1 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [system-config-display]({{< ref "/f12/package/system-config-display.md" >}}) | 272 | 415 | 65.5 | Slovenian <sl@li.org> | 
- | [liblicense]({{< ref "/f12/package/liblicense.md" >}}) | 43 | 66 | 65.2 | LANGUAGE <LL@li.org> | 
- | [python-formencode]({{< ref "/f12/package/python-formencode.md" >}}) | 498 | 765 | 65.1 | Matej Barič <matej.baric@gmail.com> | 
- | [pyroom]({{< ref "/f12/package/pyroom.md" >}}) | 266 | 411 | 64.7 | Slovenian <sl@li.org> | 
- | [icewm]({{< ref "/f12/package/icewm.md" >}}) | 870 | 1376 | 63.2 | Slovenian <translator-team-sl@lists.sourceforge.net> | 
- | [a2ps]({{< ref "/f12/package/a2ps.md" >}}) | 937 | 1512 | 62.0 | Slovenian <sl@li.org> | 
- | [anaconda]({{< ref "/f12/package/anaconda.md" >}}) | 5097 | 8877 | 57.4 | Slovenian <sl@li.org> | 
- | [sylpheed]({{< ref "/f12/package/sylpheed.md" >}}) | 3621 | 6326 | 57.2 | Slovenian <translator-team-sl@lists.sourceforge.net> | 
- | [gnome-applet-window-picker]({{< ref "/f12/package/gnome-applet-window-picker.md" >}}) | 16 | 29 | 55.2 | Slovenian | 
- | [hello]({{< ref "/f12/package/hello.md" >}}) | 95 | 174 | 54.6 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [gourmet]({{< ref "/f12/package/gourmet.md" >}}) | 1974 | 3647 | 54.1 | Slovenian <sl@li.org> | 
- | [gcompris]({{< ref "/f12/package/gcompris.md" >}}) | 5752 | 10756 | 53.5 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [drgeo]({{< ref "/f12/package/drgeo.md" >}}) | 1041 | 1985 | 52.4 | Slovenian <sl@li.org> | 
- | [pgadmin3]({{< ref "/f12/package/pgadmin3.md" >}}) | 4501 | 9006 | 50.0 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [viking]({{< ref "/f12/package/viking.md" >}}) | 863 | 1743 | 49.5 | Slovenian <sl@li.org> | 
- | [grep]({{< ref "/f12/package/grep.md" >}}) | 408 | 827 | 49.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [terminator]({{< ref "/f12/package/terminator.md" >}}) | 105 | 218 | 48.2 | Slovenian <sl@li.org> | 
- | [squirrelmail]({{< ref "/f12/package/squirrelmail.md" >}}) | 3255 | 6878 | 47.3 | slovenščina <C@li.org> | 
- | [kexec-tools]({{< ref "/f12/package/kexec-tools.md" >}}) | 95 | 206 | 46.1 | Slovenian <sl@li.org> | 
- | [system-config-samba]({{< ref "/f12/package/system-config-samba.md" >}}) | 246 | 535 | 46.0 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [krecipes]({{< ref "/f12/package/krecipes.md" >}}) | 1417 | 3087 | 45.9 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [gnome-schedule]({{< ref "/f12/package/gnome-schedule.md" >}}) | 515 | 1156 | 44.6 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [phatch]({{< ref "/f12/package/phatch.md" >}}) | 1127 | 2553 | 44.1 | Slovenian <sl@li.org> | 
- | [system-config-date]({{< ref "/f12/package/system-config-date.md" >}}) | 765 | 1750 | 43.7 | Slovenian <sl@li.org> | 
- | [system-config-kdump]({{< ref "/f12/package/system-config-kdump.md" >}}) | 166 | 383 | 43.3 | Slovenian <sl@li.org> | 
- | [desktop-effects]({{< ref "/f12/package/desktop-effects.md" >}}) | 63 | 148 | 42.6 | <en@li.org> | 
- | [kBuild]({{< ref "/f12/package/kBuild.md" >}}) | 204 | 505 | 40.4 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [dc3dd]({{< ref "/f12/package/dc3dd.md" >}}) | 375 | 932 | 40.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [gwibber]({{< ref "/f12/package/gwibber.md" >}}) | 18 | 45 | 40.0 | Slovenian <sl@li.org> | 
- | [gambas2]({{< ref "/f12/package/gambas2.md" >}}) | 902 | 2282 | 39.5 | LANGUAGE <LL@li.org> | 
- | [notecase]({{< ref "/f12/package/notecase.md" >}}) | 410 | 1156 | 35.5 | NoteCase team | 
- | [firstboot]({{< ref "/f12/package/firstboot.md" >}}) | 231 | 654 | 35.3 | Slovenian <sl@li.org> | 
- | [system-config-users]({{< ref "/f12/package/system-config-users.md" >}}) | 483 | 1370 | 35.3 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [lynx]({{< ref "/f12/package/lynx.md" >}}) | 2739 | 7931 | 34.5 | Slovenian <sl@li.org> | 
- | [system-config-boot]({{< ref "/f12/package/system-config-boot.md" >}}) | 41 | 119 | 34.5 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [kpilot]({{< ref "/f12/package/kpilot.md" >}}) | 2383 | 7156 | 33.3 | Slovenian <lugos-slo@lugos.si> | 
- | [enlightenment]({{< ref "/f12/package/enlightenment.md" >}}) | 1962 | 5982 | 32.8 | <pithlit@gmail.com> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 5882 | 19375 | 30.4 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [gparted]({{< ref "/f12/package/gparted.md" >}}) | 1814 | 5982 | 30.3 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [backintime]({{< ref "/f12/package/backintime.md" >}}) | 129 | 441 | 29.3 | <cvelbar@gmail.com> | 
- | [gqview]({{< ref "/f12/package/gqview.md" >}}) | 481 | 1721 | 27.9 | slovene <sl@li.org> | 
- | [sugar-calculator]({{< ref "/f12/package/sugar-calculator.md" >}}) | 154 | 565 | 27.3 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f12/package/tuxpaint-stamps.md" >}}) | 710 | 2617 | 27.1 | slovenscina <users@sl.openoffice.org> | 
- | [calibre]({{< ref "/f12/package/calibre.md" >}}) | 2732 | 10238 | 26.7 | sl | 
- | [deluge]({{< ref "/f12/package/deluge.md" >}}) | 530 | 1998 | 26.5 | Slovenian <sl@li.org> | 
- | [tuxmath]({{< ref "/f12/package/tuxmath.md" >}}) | 278 | 1051 | 26.5 | Slovenian <sl@li.org> | 
- | [gnokii]({{< ref "/f12/package/gnokii.md" >}}) | 1306 | 5326 | 24.5 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [rpm]({{< ref "/f12/package/rpm.md" >}}) | 898 | 3898 | 23.0 | Slovenian <sl@li.org> | 
- | [enscript]({{< ref "/f12/package/enscript.md" >}}) | 414 | 1828 | 22.6 | Slovenian <sl@li.org> | 
- | [pidgin-musictracker]({{< ref "/f12/package/pidgin-musictracker.md" >}}) | 65 | 333 | 19.5 | Slovenian <sl@li.org> | 
- | [tilda]({{< ref "/f12/package/tilda.md" >}}) | 75 | 396 | 18.9 | Slovenian <sl@li.org> | 
- | [system-config-nfs]({{< ref "/f12/package/system-config-nfs.md" >}}) | 62 | 332 | 18.7 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [cinepaint]({{< ref "/f12/package/cinepaint.md" >}}) | 1217 | 7405 | 16.4 | Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [geeqie]({{< ref "/f12/package/geeqie.md" >}}) | 448 | 2909 | 15.4 | slovene <sl@li.org> | 
- | [gtg]({{< ref "/f12/package/gtg.md" >}}) | 195 | 1389 | 14.0 | Slovenian <sl@li.org> | 
- | [monodevelop]({{< ref "/f12/package/monodevelop.md" >}}) | 2058 | 15619 | 13.2 | Slovene | 
- | [rhn-client-tools]({{< ref "/f12/package/rhn-client-tools.md" >}}) | 630 | 4820 | 13.1 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [system-config-rootpassword]({{< ref "/f12/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [digikam]({{< ref "/f12/package/digikam.md" >}}) | 2647 | 23446 | 11.3 | Slovenian <lugos-slo@lugos.si> | 
- | [system-config-language]({{< ref "/f12/package/system-config-language.md" >}}) | 36 | 323 | 11.1 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [popt]({{< ref "/f12/package/popt.md" >}}) | 8 | 75 | 10.7 | Slovenian <sl@li.org> | 
- | [wesnoth]({{< ref "/f12/package/wesnoth.md" >}}) | 22622 | 212636 | 10.6 | Slovenian | 
- | [grass]({{< ref "/f12/package/grass.md" >}}) | 4486 | 44639 | 10.0 | Slovenščina <grass-translations@lists.osgeo.org> | 
- | [me-tv]({{< ref "/f12/package/me-tv.md" >}}) | 179 | 1961 | 9.1 | Slovenian <sl@li.org> | 
- | [compat-libgda]({{< ref "/f12/package/compat-libgda.md" >}}) | 189 | 2287 | 8.3 | Slovenian <sl@li.org> | 
- | [pan]({{< ref "/f12/package/pan.md" >}}) | 156 | 2288 | 6.8 | Slovenian <sl@li.org> | 
- | [im-chooser]({{< ref "/f12/package/im-chooser.md" >}}) | 10 | 152 | 6.6 | Slovenian <sl@li.org> | 
- | [gnotime]({{< ref "/f12/package/gnotime.md" >}}) | 127 | 2008 | 6.3 | Slovenian <sl@li.org> | 
- | [compiz]({{< ref "/f12/package/compiz.md" >}}) | 186 | 3279 | 5.7 | Slovenian | 
- | [libvirt]({{< ref "/f12/package/libvirt.md" >}}) | 1103 | 20183 | 5.5 | none | 
- | [decibel-audio-player]({{< ref "/f12/package/decibel-audio-player.md" >}}) | 74 | 1494 | 5.0 | Slovenian <sl@li.org> | 
- | [gnomebaker]({{< ref "/f12/package/gnomebaker.md" >}}) | 55 | 1186 | 4.6 | Slovenian <sl@li.org> | 
- | [system-config-services]({{< ref "/f12/package/system-config-services.md" >}}) | 12 | 404 | 3.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
- | [kcoloredit]({{< ref "/f12/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Slovenian <sl@li.org> | 
- | [po4a]({{< ref "/f12/package/po4a.md" >}}) | 44 | 1726 | 2.5 | Slovenian <sl@li.org> | 
- | [system-config-firewall]({{< ref "/f12/package/system-config-firewall.md" >}}) | 59 | 2630 | 2.2 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [jmol]({{< ref "/f12/package/jmol.md" >}}) | 22 | 1135 | 1.9 | Slovenian <sl@li.org> | 
- | [sugar-turtleart]({{< ref "/f12/package/sugar-turtleart.md" >}}) | 2 | 123 | 1.6 | LANGUAGE <walter@sugarlabs.org> | 
- | [libxfce4util]({{< ref "/f12/package/libxfce4util.md" >}}) | 5 | 413 | 1.2 | Slovenian | 
- | [kde-plasma-yawp]({{< ref "/f12/package/kde-plasma-yawp.md" >}}) | 32 | 3982 | 0.8 | Slovenian <kde-i18n-doc@lists.kde.org> | 
- | [blueman]({{< ref "/f12/package/blueman.md" >}}) | 9 | 1376 | 0.7 | Slovenian <sl@li.org> | 
- | [specspo]({{< ref "/f12/package/specspo.md" >}}) | 1852 | 305294 | 0.6 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [system-config-printer]({{< ref "/f12/package/system-config-printer.md" >}}) | 16 | 3027 | 0.5 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [libgda]({{< ref "/f12/package/libgda.md" >}}) | 17 | 5237 | 0.3 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
- | [vdr-epgsearch]({{< ref "/f12/package/vdr-epgsearch.md" >}}) | 5 | 2281 | 0.2 | <vdr@linuxtv.org> | 
- | [system-config-bind]({{< ref "/f12/package/system-config-bind.md" >}}) | 18 | 9419 | 0.2 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 1 | 9112 | 0.0 | LANGUAGE <LL@li.org> | 
- | [ailurus]({{< ref "/f12/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [avant-window-navigator]({{< ref "/f12/package/avant-window-navigator.md" >}}) | 0 | 1655 | 0.0 | Slovenian <sl@li.org> | 
- | [gnome-do]({{< ref "/f12/package/gnome-do.md" >}}) | 0 | 470 | 0.0 | Slovenian <sl@li.org> | 
- | [imsettings]({{< ref "/f12/package/imsettings.md" >}}) | 0 | 979 | 0.0 | Slovenian <sl@li.org> | 
- | [libgxim]({{< ref "/f12/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f12/package/policycoreutils.md" >}}) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
- | [qbzr]({{< ref "/f12/package/qbzr.md" >}}) | 0 | 1281 | 0.0 | Slovenian <sl@li.org> | 
- | [revisor]({{< ref "/f12/package/revisor.md" >}}) | 0 | 4171 | 0.0 |  | 
- | [rhnsd]({{< ref "/f12/package/rhnsd.md" >}}) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot]({{< ref "/f12/package/setroubleshoot.md" >}}) | 0 | 606 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f12/package/setroubleshoot-plugins.md" >}}) | 0 | 8755 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sos]({{< ref "/f12/package/sos.md" >}}) | 0 | 267 | 0.0 | none | 
- | [sugar-infoslicer]({{< ref "/f12/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f12/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f12/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f12/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f12/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f12/package/system-config-date-docs.md" >}}) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f12/package/system-config-nfs-docs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f12/package/system-config-samba-docs.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f12/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f12/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f12/package/yum-rhn-plugin.md" >}}) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [Django](/f12/package/Django) | 3715 | 3715 | 100.0 | <sl@li.org> | 
+ | [GConf2](/f12/package/GConf2) | 4035 | 4035 | 100.0 | Slovenian <sl@li.org> | 
+ | [NetworkManager](/f12/package/NetworkManager) | 2442 | 2442 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [NetworkManager-openconnect](/f12/package/NetworkManager-openconnect) | 53 | 53 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [NetworkManager-openvpn](/f12/package/NetworkManager-openvpn) | 238 | 238 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [NetworkManager-pptp](/f12/package/NetworkManager-pptp) | 144 | 144 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [NetworkManager-vpnc](/f12/package/NetworkManager-vpnc) | 143 | 143 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [TurboGears](/f12/package/TurboGears) | 21 | 21 | 100.0 | Slovenian <matej.baric@gmail.com> | 
+ | [alacarte](/f12/package/alacarte) | 42 | 42 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [alleyoop](/f12/package/alleyoop) | 351 | 351 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [anjuta](/f12/package/anjuta) | 7818 | 7818 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [at-spi](/f12/package/at-spi) | 24 | 24 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [atk](/f12/package/atk) | 375 | 375 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [atomix](/f12/package/atomix) | 125 | 125 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [bakery](/f12/package/bakery) | 72 | 72 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [banshee](/f12/package/banshee) | 5391 | 5391 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [bibus](/f12/package/bibus) | 2063 | 2063 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [bison](/f12/package/bison) | 52 | 52 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [blam](/f12/package/blam) | 341 | 341 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [brasero](/f12/package/brasero) | 5509 | 5509 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [cairo-clock](/f12/package/cairo-clock) | 270 | 270 | 100.0 | Slovenian | 
+ | [camorama](/f12/package/camorama) | 564 | 564 | 100.0 | Slovenian <sl@li.org> | 
+ | [cheese](/f12/package/cheese) | 659 | 659 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [clamtk](/f12/package/clamtk) | 892 | 892 | 100.0 |  | 
+ | [conduit](/f12/package/conduit) | 709 | 709 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [contact-lookup-applet](/f12/package/contact-lookup-applet) | 259 | 259 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [control-center](/f12/package/control-center) | 3245 | 3245 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [cracklib](/f12/package/cracklib) | 93 | 93 | 100.0 | Slovenščina <sl@li.org> | 
+ | [dasher](/f12/package/dasher) | 528 | 528 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [deskbar-applet](/f12/package/deskbar-applet) | 1670 | 1670 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [devhelp](/f12/package/devhelp) | 404 | 404 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [dia](/f12/package/dia) | 6258 | 6258 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [eel2](/f12/package/eel2) | 161 | 161 | 100.0 | Slovenian <sl@li.org> | 
+ | [ekiga](/f12/package/ekiga) | 4048 | 4048 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [emerillon](/f12/package/emerillon) | 359 | 359 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [empathy](/f12/package/empathy) | 2709 | 2709 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [eog](/f12/package/eog) | 1454 | 1454 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [eog-plugins](/f12/package/eog-plugins) | 80 | 80 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [epiphany](/f12/package/epiphany) | 3033 | 3033 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [evince](/f12/package/evince) | 1260 | 1260 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [evolution](/f12/package/evolution) | 22319 | 22319 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [evolution-couchdb](/f12/package/evolution-couchdb) | 9 | 9 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [evolution-data-server](/f12/package/evolution-data-server) | 5099 | 5099 | 100.0 | Slovenian <sl@li.org> | 
+ | [evolution-exchange](/f12/package/evolution-exchange) | 1347 | 1347 | 100.0 | Slovenian | 
+ | [evolution-mapi](/f12/package/evolution-mapi) | 333 | 333 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [file-roller](/f12/package/file-roller) | 1277 | 1277 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [freedink](/f12/package/freedink) | 79 | 79 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [galeon](/f12/package/galeon) | 5996 | 5996 | 100.0 | Slovenian <sl@li.org> | 
+ | [gcalctool](/f12/package/gcalctool) | 1677 | 1677 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gconf-editor](/f12/package/gconf-editor) | 336 | 336 | 100.0 | Slovenian <sl@li.org> | 
+ | [gdm](/f12/package/gdm) | 1308 | 1308 | 100.0 | Slovenian | 
+ | [gedit](/f12/package/gedit) | 4966 | 4966 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gedit-plugins](/f12/package/gedit-plugins) | 3628 | 3628 | 100.0 | Slovenian <sl@li.org> | 
+ | [gettext](/f12/package/gettext) | 6844 | 6844 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [ggz-gtk-client](/f12/package/ggz-gtk-client) | 7 | 7 | 100.0 | slovenian <sl@li.org> | 
+ | [ghex](/f12/package/ghex) | 966 | 966 | 100.0 | Jaka Mocnik <jaka@gnu.org> | 
+ | [gimp](/f12/package/gimp) | 26056 | 26056 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [glade3](/f12/package/glade3) | 4613 | 4613 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [glib2](/f12/package/glib2) | 2453 | 2453 | 100.0 | Slovenian <sl@li.org> | 
+ | [glom](/f12/package/glom) | 4064 | 4064 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gmpc](/f12/package/gmpc) | 4 | 4 | 100.0 | Slovenian <sl@li.org> | 
+ | [gnome-applet-netspeed](/f12/package/gnome-applet-netspeed) | 143 | 143 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-applets](/f12/package/gnome-applets) | 3367 | 3367 | 100.0 | Slovenian | 
+ | [gnome-backgrounds](/f12/package/gnome-backgrounds) | 23 | 23 | 100.0 | Slovenian | 
+ | [gnome-bluetooth](/f12/package/gnome-bluetooth) | 593 | 593 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-commander](/f12/package/gnome-commander) | 8353 | 8353 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-desktop](/f12/package/gnome-desktop) | 351 | 351 | 100.0 | Slovenian <sl@li.org> | 
+ | [gnome-disk-utility](/f12/package/gnome-disk-utility) | 4044 | 4044 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-doc-utils](/f12/package/gnome-doc-utils) | 249 | 249 | 100.0 | Slovenian | 
+ | [gnome-games](/f12/package/gnome-games) | 8518 | 8518 | 100.0 | slovenian <sl@li.org> | 
+ | [gnome-icon-theme](/f12/package/gnome-icon-theme) | 43 | 43 | 100.0 | Slovenian <sl@li.org> | 
+ | [gnome-keyring](/f12/package/gnome-keyring) | 1823 | 1823 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-lirc-properties](/f12/package/gnome-lirc-properties) | 782 | 782 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-mag](/f12/package/gnome-mag) | 298 | 298 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-media](/f12/package/gnome-media) | 1190 | 1190 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-menus](/f12/package/gnome-menus) | 161 | 161 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-mime-data](/f12/package/gnome-mime-data) | 887 | 887 | 100.0 | Slovenian <sl@li.org> | 
+ | [gnome-netstatus](/f12/package/gnome-netstatus) | 418 | 418 | 100.0 |  | 
+ | [gnome-nettool](/f12/package/gnome-nettool) | 523 | 523 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-panel](/f12/package/gnome-panel) | 4476 | 4476 | 100.0 | slovenian <sl@li.org> | 
+ | [gnome-power-manager](/f12/package/gnome-power-manager) | 2786 | 2786 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-screensaver](/f12/package/gnome-screensaver) | 989 | 989 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-session](/f12/package/gnome-session) | 638 | 638 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-settings-daemon](/f12/package/gnome-settings-daemon) | 1624 | 1624 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-shell](/f12/package/gnome-shell) | 91 | 91 | 100.0 | Slovenian <gnome-si@googlegroups.com> | 
+ | [gnome-subtitles](/f12/package/gnome-subtitles) | 757 | 757 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-system-monitor](/f12/package/gnome-system-monitor) | 933 | 933 | 100.0 | slovenian <sl@li.org> | 
+ | [gnome-terminal](/f12/package/gnome-terminal) | 3928 | 3928 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-themes](/f12/package/gnome-themes) | 109 | 109 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-user-share](/f12/package/gnome-user-share) | 288 | 288 | 100.0 | Slovenian <sl@li.org> | 
+ | [gnome-utils](/f12/package/gnome-utils) | 3905 | 3905 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnome-vfs2](/f12/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gnote](/f12/package/gnote) | 2074 | 2074 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gok](/f12/package/gok) | 1937 | 1937 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gpicview](/f12/package/gpicview) | 219 | 219 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [gpointing-device-settings](/f12/package/gpointing-device-settings) | 184 | 184 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gthumb](/f12/package/gthumb) | 3134 | 3134 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gtk+](/f12/package/gtk+) | 202 | 202 | 100.0 | slovenian <sl@li.org> | 
+ | [gtk2](/f12/package/gtk2) | 13358 | 13358 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gtk2-engines](/f12/package/gtk2-engines) | 119 | 119 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gtkhtml3](/f12/package/gtkhtml3) | 695 | 695 | 100.0 | Slovenian <sl@li.org> | 
+ | [gtksourceview](/f12/package/gtksourceview) | 849 | 849 | 100.0 | Slovenian <SL@li.org> | 
+ | [gtksourceview2](/f12/package/gtksourceview2) | 1120 | 1120 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gtkspell](/f12/package/gtkspell) | 11 | 11 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [gucharmap](/f12/package/gucharmap) | 803 | 803 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gvfs](/f12/package/gvfs) | 1858 | 1858 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [hamster-applet](/f12/package/hamster-applet) | 553 | 553 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [homebank](/f12/package/homebank) | 1507 | 1507 | 100.0 |  | 
+ | [hotssh](/f12/package/hotssh) | 150 | 150 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [hwbrowser](/f12/package/hwbrowser) | 116 | 116 | 100.0 | Slovenian <sl@li.org> | 
+ | [imp](/f12/package/imp) | 5683 | 5683 | 100.0 | sl_SI <duck@obala.net> | 
+ | [ingo](/f12/package/ingo) | 863 | 863 | 100.0 | Slovene <sl@li.org> | 
+ | [isomaster](/f12/package/isomaster) | 674 | 674 | 100.0 | Slovenian <sl@li.org> | 
+ | [leafpad](/f12/package/leafpad) | 125 | 125 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [libbonobo](/f12/package/libbonobo) | 543 | 543 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libbonoboui](/f12/package/libbonoboui) | 368 | 368 | 100.0 | Slovenian GNOME Translation Team <gnome-si@gmail.com> | 
+ | [libgdl](/f12/package/libgdl) | 613 | 613 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgnome](/f12/package/libgnome) | 1772 | 1772 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgnomecanvas](/f12/package/libgnomecanvas) | 378 | 378 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgnomecups](/f12/package/libgnomecups) | 11 | 11 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgnomekbd](/f12/package/libgnomekbd) | 246 | 246 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgnomeprint22](/f12/package/libgnomeprint22) | 168 | 168 | 100.0 | Slovenian <sl@li.org> | 
+ | [libgnomeprintui22](/f12/package/libgnomeprintui22) | 481 | 481 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgnomeui](/f12/package/libgnomeui) | 1309 | 1309 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [libgtop2](/f12/package/libgtop2) | 126 | 126 | 100.0 | Slovenian <sl@li.org> | 
+ | [libgweather](/f12/package/libgweather) | 6107 | 6107 | 100.0 | Slovenian | 
+ | [libktorrent](/f12/package/libktorrent) | 417 | 417 | 100.0 | Slovenian <lugos-slo@lugos.si> | 
+ | [libwnck](/f12/package/libwnck) | 1124 | 1124 | 100.0 | slovenian <sl@li.org> | 
+ | [lxinput](/f12/package/lxinput) | 60 | 60 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxlauncher](/f12/package/lxlauncher) | 51 | 51 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxmusic](/f12/package/lxmusic) | 196 | 196 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxpanel](/f12/package/lxpanel) | 895 | 895 | 100.0 | / <paxmanpwnz@gmail.com> | 
+ | [lxrandr](/f12/package/lxrandr) | 102 | 102 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxsession-edit](/f12/package/lxsession-edit) | 58 | 58 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxshortcut](/f12/package/lxshortcut) | 43 | 43 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxtask](/f12/package/lxtask) | 122 | 122 | 100.0 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [metacity](/f12/package/metacity) | 3821 | 3821 | 100.0 | Slovenian <sl@li.org> | 
+ | [mingw32-atk](/f12/package/mingw32-atk) | 375 | 375 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [mingw32-gettext](/f12/package/mingw32-gettext) | 6844 | 6844 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [mingw32-glib2](/f12/package/mingw32-glib2) | 2463 | 2463 | 100.0 | Slovenian <sl@li.org> | 
+ | [mingw32-gtkhtml3](/f12/package/mingw32-gtkhtml3) | 695 | 695 | 100.0 | Slovenian <sl@li.org> | 
+ | [moserial](/f12/package/moserial) | 525 | 525 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [mousepad](/f12/package/mousepad) | 135 | 135 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [mousetweaks](/f12/package/mousetweaks) | 715 | 715 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [mutter](/f12/package/mutter) | 3864 | 3864 | 100.0 | Slovenian <sl@li.org> | 
+ | [nautilus](/f12/package/nautilus) | 8620 | 8620 | 100.0 | Slovenian <sl@li.org> | 
+ | [nautilus-actions](/f12/package/nautilus-actions) | 4032 | 4032 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [nautilus-open-terminal](/f12/package/nautilus-open-terminal) | 158 | 158 | 100.0 | Slovenian <sl@li.org> | 
+ | [nautilus-sendto](/f12/package/nautilus-sendto) | 316 | 316 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [newt](/f12/package/newt) | 4 | 4 | 100.0 | Slovenian <sl@li.org> | 
+ | [orca](/f12/package/orca) | 3809 | 3809 | 100.0 | Slovenian <sl@li.org> | 
+ | [paperbox](/f12/package/paperbox) | 78 | 78 | 100.0 | Slovenian | 
+ | [pessulus](/f12/package/pessulus) | 130 | 130 | 100.0 | Slovenian | 
+ | [planner](/f12/package/planner) | 1796 | 1796 | 100.0 |  | 
+ | [pootle](/f12/package/pootle) | 2424 | 2424 | 100.0 | Slovenščina <users@sl.openoffice.org> | 
+ | [pybliographer](/f12/package/pybliographer) | 965 | 965 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [python-sphinx](/f12/package/python-sphinx) | 397 | 397 | 100.0 | Rok Garbas <rok.garbas@gmail.com> | 
+ | [radiotray](/f12/package/radiotray) | 49 | 49 | 100.0 |  | 
+ | [regexxer](/f12/package/regexxer) | 467 | 467 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [rhpl](/f12/package/rhpl) | 185 | 185 | 100.0 | Slovenian <sl@li.org> | 
+ | [rhythmbox](/f12/package/rhythmbox) | 4645 | 4645 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [sabayon](/f12/package/sabayon) | 743 | 743 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [seahorse](/f12/package/seahorse) | 3042 | 3042 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [seahorse-plugins](/f12/package/seahorse-plugins) | 1163 | 1163 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [snownews](/f12/package/snownews) | 560 | 560 | 100.0 |  | 
+ | [sound-juicer](/f12/package/sound-juicer) | 1022 | 1022 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [sugar](/f12/package/sugar) | 776 | 776 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f12/package/sugar-base) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f12/package/sugar-browse) | 55 | 55 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f12/package/sugar-chat) | 26 | 26 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f12/package/sugar-connect) | 36 | 36 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f12/package/sugar-distance) | 76 | 76 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f12/package/sugar-imageviewer) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f12/package/sugar-jukebox) | 10 | 10 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f12/package/sugar-log) | 100 | 100 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f12/package/sugar-memorize) | 50 | 50 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f12/package/sugar-pippy) | 52 | 52 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f12/package/sugar-read) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f12/package/sugar-record) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f12/package/sugar-terminal) | 6 | 6 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f12/package/sugar-toolkit) | 71 | 71 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f12/package/sugar-write) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [swfdec-gnome](/f12/package/swfdec-gnome) | 101 | 101 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [switchdesk](/f12/package/switchdesk) | 137 | 137 | 100.0 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [system-config-httpd](/f12/package/system-config-httpd) | 858 | 858 | 100.0 | Slovenian <sl@li.org> | 
+ | [system-switch-mail](/f12/package/system-switch-mail) | 134 | 134 | 100.0 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [tasque](/f12/package/tasque) | 245 | 245 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [tomboy](/f12/package/tomboy) | 2870 | 2870 | 100.0 | Slovenian <sl@li.org> | 
+ | [totem](/f12/package/totem) | 2699 | 2699 | 100.0 | Slovenian | 
+ | [totem-pl-parser](/f12/package/totem-pl-parser) | 28 | 28 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [tracker](/f12/package/tracker) | 2127 | 2127 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [transmission](/f12/package/transmission) | 1642 | 1642 | 100.0 | Slovenian <sl@li.org> | 
+ | [vinagre](/f12/package/vinagre) | 1164 | 1164 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [vino](/f12/package/vino) | 1215 | 1215 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [vte](/f12/package/vte) | 108 | 108 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [wxGTK](/f12/package/wxGTK) | 6679 | 6679 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [xdg-user-dirs-gtk](/f12/package/xdg-user-dirs-gtk) | 52 | 52 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [xkeyboard-config](/f12/package/xkeyboard-config) | 2029 | 2029 | 100.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [yelp](/f12/package/yelp) | 1094 | 1094 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [zenity](/f12/package/zenity) | 582 | 582 | 100.0 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [inkscape](/f12/package/inkscape) | 24031 | 24035 | 100.0 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [ktorrent](/f12/package/ktorrent) | 7559 | 7562 | 100.0 | Slovenian <lugos-slo@lugos.si> | 
+ | [exaile](/f12/package/exaile) | 2424 | 2425 | 100.0 | Slovenian <sl@li.org> | 
+ | [kronolith](/f12/package/kronolith) | 1720 | 1721 | 99.9 | sl_SI <duck@obala.net> | 
+ | [moin](/f12/package/moin) | 4523 | 4526 | 99.9 |  | 
+ | [kicad](/f12/package/kicad) | 4522 | 4527 | 99.9 |  | 
+ | [mingw32-gtk2](/f12/package/mingw32-gtk2) | 13326 | 13351 | 99.8 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [wormux](/f12/package/wormux) | 1911 | 1916 | 99.7 | <sl@li.org> | 
+ | [krename](/f12/package/krename) | 1598 | 1603 | 99.7 | Slovenian | 
+ | [pychess](/f12/package/pychess) | 2294 | 2303 | 99.6 | slovensko <lugos-slo@lugos.si> | 
+ | [supertuxkart](/f12/package/supertuxkart) | 820 | 824 | 99.5 | Andrej Znidarsic <andrej.znidarsic@gmail.com> | 
+ | [clementine](/f12/package/clementine) | 2099 | 2111 | 99.4 | Slovenian <sl@li.org> | 
+ | [f-spot](/f12/package/f-spot) | 7575 | 7620 | 99.4 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [pidgin](/f12/package/pidgin) | 18527 | 18654 | 99.3 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [horde](/f12/package/horde) | 6616 | 6668 | 99.2 | sl_SI <duck@obala.net> | 
+ | [turba](/f12/package/turba) | 1471 | 1485 | 99.1 | Slovene <sl@li.org> | 
+ | [aspell](/f12/package/aspell) | 1707 | 1726 | 98.9 | Lugos <miles@filmsi.net> | 
+ | [poedit](/f12/package/poedit) | 1148 | 1162 | 98.8 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [coreutils](/f12/package/coreutils) | 18036 | 18344 | 98.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [vdr](/f12/package/vdr) | 793 | 807 | 98.3 | Slovenian | 
+ | [shutter](/f12/package/shutter) | 2706 | 2763 | 97.9 | Slovenian <sl@li.org> | 
+ | [kmid](/f12/package/kmid) | 523 | 535 | 97.8 | Slovenian <sl@li.org> | 
+ | [audacity](/f12/package/audacity) | 9398 | 9628 | 97.6 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [gallery2](/f12/package/gallery2) | 9138 | 9375 | 97.5 | Srpski <gallery-translations@lists.sourceforge.net> | 
+ | [passwd](/f12/package/passwd) | 291 | 299 | 97.3 | Slovenian <sl@li.org> | 
+ | [childsplay](/f12/package/childsplay) | 1193 | 1226 | 97.3 | Slovenian <r@aufbix.org> | 
+ | [stellarium](/f12/package/stellarium) | 2340 | 2407 | 97.2 | Slovenian <sl@li.org> | 
+ | [sugar-finance](/f12/package/sugar-finance) | 138 | 142 | 97.2 | LANGUAGE <LL@li.org> | 
+ | [sonata](/f12/package/sonata) | 1102 | 1136 | 97.0 | Slovenian <sl@li.org> | 
+ | [boinc-client](/f12/package/boinc-client) | 7359 | 7593 | 96.9 | LANGUAGE <LL@li.org> | 
+ | [filezilla](/f12/package/filezilla) | 8819 | 9102 | 96.9 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [gambas](/f12/package/gambas) | 1836 | 1901 | 96.6 | LANGUAGE <LL@li.org> | 
+ | [geany](/f12/package/geany) | 5015 | 5203 | 96.4 | Slovenian <> | 
+ | [balsa](/f12/package/balsa) | 5616 | 5838 | 96.2 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gtranslator](/f12/package/gtranslator) | 1182 | 1230 | 96.1 | Slovenian | 
+ | [xmms](/f12/package/xmms) | 3269 | 3443 | 94.9 | Slovenian <sl@li.org> | 
+ | [lxappearance](/f12/package/lxappearance) | 91 | 96 | 94.8 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [kdevplatform](/f12/package/kdevplatform) | 3170 | 3356 | 94.5 | Slovenian <lugos-slo@lugos.si> | 
+ | [chkconfig](/f12/package/chkconfig) | 423 | 448 | 94.4 | Slovenian <sl@li.org> | 
+ | [pcmanfm](/f12/package/pcmanfm) | 1430 | 1520 | 94.1 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [kiconedit](/f12/package/kiconedit) | 682 | 726 | 93.9 | Slovenian <sl@li.org> | 
+ | [kflickr](/f12/package/kflickr) | 280 | 299 | 93.6 | Slovenian <sl@li.org> | 
+ | [libepc](/f12/package/libepc) | 136 | 146 | 93.2 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [xdg-user-dirs](/f12/package/xdg-user-dirs) | 26 | 28 | 92.9 | Slovene <translation-team-sl@lists.sourceforge.net> | 
+ | [krusader](/f12/package/krusader) | 7037 | 7580 | 92.8 | Slovenian <lugos-slo@lugos.si> | 
+ | [gscan2pdf](/f12/package/gscan2pdf) | 1264 | 1368 | 92.4 | Slovenian <sl@li.org> | 
+ | [libuser](/f12/package/libuser) | 1026 | 1114 | 92.1 | Slovenian <sl@li.org> | 
+ | [redhat-menus](/f12/package/redhat-menus) | 240 | 261 | 92.0 | Slovenian <sl@li.org> | 
+ | [gnome-libs](/f12/package/gnome-libs) | 988 | 1085 | 91.1 | Slovenian <sl@li.org> | 
+ | [lxdm](/f12/package/lxdm) | 10 | 11 | 90.9 | LANGUAGE <LL@li.org> | 
+ | [system-config-keyboard](/f12/package/system-config-keyboard) | 169 | 187 | 90.4 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [mingw32-iconv](/f12/package/mingw32-iconv) | 303 | 336 | 90.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [asunder](/f12/package/asunder) | 403 | 450 | 89.6 | Slovenian <sl@li.org> | 
+ | [system-config-kickstart](/f12/package/system-config-kickstart) | 927 | 1039 | 89.2 | Slovenian <sl@li.org> | 
+ | [lxsession](/f12/package/lxsession) | 33 | 37 | 89.2 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [lxterminal](/f12/package/lxterminal) | 115 | 129 | 89.1 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [gkrellm](/f12/package/gkrellm) | 3325 | 3783 | 87.9 | <en@li.org> | 
+ | [amarok](/f12/package/amarok) | 10530 | 12039 | 87.5 | Slovenian <lugos-slo@lugos.si> | 
+ | [picard](/f12/package/picard) | 1144 | 1310 | 87.3 | Slovenian <sl@li.org> | 
+ | [webkitgtk](/f12/package/webkitgtk) | 948 | 1093 | 86.7 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [pidgin-libnotify](/f12/package/pidgin-libnotify) | 31 | 36 | 86.1 | Slovenian <LL@li.org> | 
+ | [supertux](/f12/package/supertux) | 1165 | 1361 | 85.6 | <sl@li.org> | 
+ | [setuptool](/f12/package/setuptool) | 47 | 55 | 85.5 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [workrave](/f12/package/workrave) | 998 | 1175 | 84.9 | Slovenian <sl@li.org> | 
+ | [sed](/f12/package/sed) | 490 | 581 | 84.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [ksig](/f12/package/ksig) | 71 | 85 | 83.5 | Slovenian <sl@li.org> | 
+ | [wxPython](/f12/package/wxPython) | 7411 | 8930 | 83.0 | Martin Srebotnjak <miles@filmsi.net> | 
+ | [mailman](/f12/package/mailman) | 17958 | 21904 | 82.0 | Slovenščina <sl@li.org> | 
+ | [jokosher](/f12/package/jokosher) | 1682 | 2059 | 81.7 | Slovenian <sl@li.org> | 
+ | [frozen-bubble](/f12/package/frozen-bubble) | 567 | 698 | 81.2 | <sl@li.org> | 
+ | [recode](/f12/package/recode) | 672 | 829 | 81.1 | Slovenian <sl@li.org> | 
+ | [Miro](/f12/package/Miro) | 2686 | 3336 | 80.5 | Slovenian <sl@li.org> | 
+ | [quassel](/f12/package/quassel) | 3348 | 4165 | 80.4 | Slovenian <lugos-slo@lugos.si> | 
+ | [usermode](/f12/package/usermode) | 459 | 579 | 79.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [xfmpc](/f12/package/xfmpc) | 103 | 130 | 79.2 | Slovenian | 
+ | [pykickstart](/f12/package/pykickstart) | 225 | 284 | 79.2 | Slovenian <sl@li.org> | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | 76 | 97 | 78.4 | Slovenian <paxmanpwnz@gmail.com> | 
+ | [authconfig](/f12/package/authconfig) | 1048 | 1357 | 77.2 | Slovenian <sl@li.org> | 
+ | [system-config-network](/f12/package/system-config-network) | 2324 | 3022 | 76.9 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [beagle](/f12/package/beagle) | 981 | 1276 | 76.9 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [gramps](/f12/package/gramps) | 19381 | 25851 | 75.0 | lugos slovenizacija <lugos-slo at lugos.si> | 
+ | [konq-plugins](/f12/package/konq-plugins) | 1198 | 1598 | 75.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [bittorrent](/f12/package/bittorrent) | 2891 | 3904 | 74.1 | Slovenian <lugos-slo (at) lugos (dot) si> | 
+ | [warzone2100](/f12/package/warzone2100) | 9412 | 12738 | 73.9 | Slovenian <sl@li.org> | 
+ | [xsane](/f12/package/xsane) | 2358 | 3224 | 73.1 | slovenščina <sl@li.org> | 
+ | [findutils](/f12/package/findutils) | 1538 | 2105 | 73.1 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [initscripts](/f12/package/initscripts) | 3094 | 4243 | 72.9 | Slovenian <sl@li.org> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 552 | 761 | 72.5 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [wget](/f12/package/wget) | 1631 | 2260 | 72.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [synaptic](/f12/package/synaptic) | 2305 | 3231 | 71.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [soundtracker](/f12/package/soundtracker) | 1140 | 1648 | 69.2 | slovenian <sl@li.org> | 
+ | [util-linux-ng](/f12/package/util-linux-ng) | 9520 | 13804 | 69.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [system-config-netboot](/f12/package/system-config-netboot) | 741 | 1103 | 67.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [hugin](/f12/package/hugin) | 3572 | 5329 | 67.0 | Zoran Mesec <zoran.mesec@gmail.com> | 
+ | [tar](/f12/package/tar) | 2169 | 3247 | 66.8 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [xiphos](/f12/package/xiphos) | 2534 | 3815 | 66.4 | Slovenščina (Slovene) <gnomesword-developers@lists.sourceforge.net> | 
+ | [xchat-gnome](/f12/package/xchat-gnome) | 2578 | 3901 | 66.1 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [system-config-display](/f12/package/system-config-display) | 272 | 415 | 65.5 | Slovenian <sl@li.org> | 
+ | [liblicense](/f12/package/liblicense) | 43 | 66 | 65.2 | LANGUAGE <LL@li.org> | 
+ | [python-formencode](/f12/package/python-formencode) | 498 | 765 | 65.1 | Matej Barič <matej.baric@gmail.com> | 
+ | [pyroom](/f12/package/pyroom) | 266 | 411 | 64.7 | Slovenian <sl@li.org> | 
+ | [icewm](/f12/package/icewm) | 870 | 1376 | 63.2 | Slovenian <translator-team-sl@lists.sourceforge.net> | 
+ | [a2ps](/f12/package/a2ps) | 937 | 1512 | 62.0 | Slovenian <sl@li.org> | 
+ | [anaconda](/f12/package/anaconda) | 5097 | 8877 | 57.4 | Slovenian <sl@li.org> | 
+ | [sylpheed](/f12/package/sylpheed) | 3621 | 6326 | 57.2 | Slovenian <translator-team-sl@lists.sourceforge.net> | 
+ | [gnome-applet-window-picker](/f12/package/gnome-applet-window-picker) | 16 | 29 | 55.2 | Slovenian | 
+ | [hello](/f12/package/hello) | 95 | 174 | 54.6 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [gourmet](/f12/package/gourmet) | 1974 | 3647 | 54.1 | Slovenian <sl@li.org> | 
+ | [gcompris](/f12/package/gcompris) | 5752 | 10756 | 53.5 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [drgeo](/f12/package/drgeo) | 1041 | 1985 | 52.4 | Slovenian <sl@li.org> | 
+ | [pgadmin3](/f12/package/pgadmin3) | 4501 | 9006 | 50.0 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [viking](/f12/package/viking) | 863 | 1743 | 49.5 | Slovenian <sl@li.org> | 
+ | [grep](/f12/package/grep) | 408 | 827 | 49.3 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [terminator](/f12/package/terminator) | 105 | 218 | 48.2 | Slovenian <sl@li.org> | 
+ | [squirrelmail](/f12/package/squirrelmail) | 3255 | 6878 | 47.3 | slovenščina <C@li.org> | 
+ | [kexec-tools](/f12/package/kexec-tools) | 95 | 206 | 46.1 | Slovenian <sl@li.org> | 
+ | [system-config-samba](/f12/package/system-config-samba) | 246 | 535 | 46.0 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [krecipes](/f12/package/krecipes) | 1417 | 3087 | 45.9 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [gnome-schedule](/f12/package/gnome-schedule) | 515 | 1156 | 44.6 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [phatch](/f12/package/phatch) | 1127 | 2553 | 44.1 | Slovenian <sl@li.org> | 
+ | [system-config-date](/f12/package/system-config-date) | 765 | 1750 | 43.7 | Slovenian <sl@li.org> | 
+ | [system-config-kdump](/f12/package/system-config-kdump) | 166 | 383 | 43.3 | Slovenian <sl@li.org> | 
+ | [desktop-effects](/f12/package/desktop-effects) | 63 | 148 | 42.6 | <en@li.org> | 
+ | [kBuild](/f12/package/kBuild) | 204 | 505 | 40.4 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [dc3dd](/f12/package/dc3dd) | 375 | 932 | 40.2 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [gwibber](/f12/package/gwibber) | 18 | 45 | 40.0 | Slovenian <sl@li.org> | 
+ | [gambas2](/f12/package/gambas2) | 902 | 2282 | 39.5 | LANGUAGE <LL@li.org> | 
+ | [notecase](/f12/package/notecase) | 410 | 1156 | 35.5 | NoteCase team | 
+ | [firstboot](/f12/package/firstboot) | 231 | 654 | 35.3 | Slovenian <sl@li.org> | 
+ | [system-config-users](/f12/package/system-config-users) | 483 | 1370 | 35.3 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [lynx](/f12/package/lynx) | 2739 | 7931 | 34.5 | Slovenian <sl@li.org> | 
+ | [system-config-boot](/f12/package/system-config-boot) | 41 | 119 | 34.5 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [kpilot](/f12/package/kpilot) | 2383 | 7156 | 33.3 | Slovenian <lugos-slo@lugos.si> | 
+ | [enlightenment](/f12/package/enlightenment) | 1962 | 5982 | 32.8 | <pithlit@gmail.com> | 
+ | [iso-codes](/f12/package/iso-codes) | 5882 | 19375 | 30.4 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [gparted](/f12/package/gparted) | 1814 | 5982 | 30.3 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [backintime](/f12/package/backintime) | 129 | 441 | 29.3 | <cvelbar@gmail.com> | 
+ | [gqview](/f12/package/gqview) | 481 | 1721 | 27.9 | slovene <sl@li.org> | 
+ | [sugar-calculator](/f12/package/sugar-calculator) | 154 | 565 | 27.3 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f12/package/tuxpaint-stamps) | 710 | 2617 | 27.1 | slovenscina <users@sl.openoffice.org> | 
+ | [calibre](/f12/package/calibre) | 2732 | 10238 | 26.7 | sl | 
+ | [deluge](/f12/package/deluge) | 530 | 1998 | 26.5 | Slovenian <sl@li.org> | 
+ | [tuxmath](/f12/package/tuxmath) | 278 | 1051 | 26.5 | Slovenian <sl@li.org> | 
+ | [gnokii](/f12/package/gnokii) | 1306 | 5326 | 24.5 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [rpm](/f12/package/rpm) | 898 | 3898 | 23.0 | Slovenian <sl@li.org> | 
+ | [enscript](/f12/package/enscript) | 414 | 1828 | 22.6 | Slovenian <sl@li.org> | 
+ | [pidgin-musictracker](/f12/package/pidgin-musictracker) | 65 | 333 | 19.5 | Slovenian <sl@li.org> | 
+ | [tilda](/f12/package/tilda) | 75 | 396 | 18.9 | Slovenian <sl@li.org> | 
+ | [system-config-nfs](/f12/package/system-config-nfs) | 62 | 332 | 18.7 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [cinepaint](/f12/package/cinepaint) | 1217 | 7405 | 16.4 | Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [geeqie](/f12/package/geeqie) | 448 | 2909 | 15.4 | slovene <sl@li.org> | 
+ | [gtg](/f12/package/gtg) | 195 | 1389 | 14.0 | Slovenian <sl@li.org> | 
+ | [monodevelop](/f12/package/monodevelop) | 2058 | 15619 | 13.2 | Slovene | 
+ | [rhn-client-tools](/f12/package/rhn-client-tools) | 630 | 4820 | 13.1 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [system-config-rootpassword](/f12/package/system-config-rootpassword) | 15 | 116 | 12.9 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [digikam](/f12/package/digikam) | 2647 | 23446 | 11.3 | Slovenian <lugos-slo@lugos.si> | 
+ | [system-config-language](/f12/package/system-config-language) | 36 | 323 | 11.1 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [popt](/f12/package/popt) | 8 | 75 | 10.7 | Slovenian <sl@li.org> | 
+ | [wesnoth](/f12/package/wesnoth) | 22622 | 212636 | 10.6 | Slovenian | 
+ | [grass](/f12/package/grass) | 4486 | 44639 | 10.0 | Slovenščina <grass-translations@lists.osgeo.org> | 
+ | [me-tv](/f12/package/me-tv) | 179 | 1961 | 9.1 | Slovenian <sl@li.org> | 
+ | [compat-libgda](/f12/package/compat-libgda) | 189 | 2287 | 8.3 | Slovenian <sl@li.org> | 
+ | [pan](/f12/package/pan) | 156 | 2288 | 6.8 | Slovenian <sl@li.org> | 
+ | [im-chooser](/f12/package/im-chooser) | 10 | 152 | 6.6 | Slovenian <sl@li.org> | 
+ | [gnotime](/f12/package/gnotime) | 127 | 2008 | 6.3 | Slovenian <sl@li.org> | 
+ | [compiz](/f12/package/compiz) | 186 | 3279 | 5.7 | Slovenian | 
+ | [libvirt](/f12/package/libvirt) | 1103 | 20183 | 5.5 | none | 
+ | [decibel-audio-player](/f12/package/decibel-audio-player) | 74 | 1494 | 5.0 | Slovenian <sl@li.org> | 
+ | [gnomebaker](/f12/package/gnomebaker) | 55 | 1186 | 4.6 | Slovenian <sl@li.org> | 
+ | [system-config-services](/f12/package/system-config-services) | 12 | 404 | 3.0 | Slovenian <translation-team-sl@lists.sourceforge.net> | 
+ | [kcoloredit](/f12/package/kcoloredit) | 8 | 278 | 2.9 | Slovenian <sl@li.org> | 
+ | [po4a](/f12/package/po4a) | 44 | 1726 | 2.5 | Slovenian <sl@li.org> | 
+ | [system-config-firewall](/f12/package/system-config-firewall) | 59 | 2630 | 2.2 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [jmol](/f12/package/jmol) | 22 | 1135 | 1.9 | Slovenian <sl@li.org> | 
+ | [sugar-turtleart](/f12/package/sugar-turtleart) | 2 | 123 | 1.6 | LANGUAGE <walter@sugarlabs.org> | 
+ | [libxfce4util](/f12/package/libxfce4util) | 5 | 413 | 1.2 | Slovenian | 
+ | [kde-plasma-yawp](/f12/package/kde-plasma-yawp) | 32 | 3982 | 0.8 | Slovenian <kde-i18n-doc@lists.kde.org> | 
+ | [blueman](/f12/package/blueman) | 9 | 1376 | 0.7 | Slovenian <sl@li.org> | 
+ | [specspo](/f12/package/specspo) | 1852 | 305294 | 0.6 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [system-config-printer](/f12/package/system-config-printer) | 16 | 3027 | 0.5 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [libgda](/f12/package/libgda) | 17 | 5237 | 0.3 | Slovenian GNOME Translation Team <gnome-si@googlegroups.com> | 
+ | [vdr-epgsearch](/f12/package/vdr-epgsearch) | 5 | 2281 | 0.2 | <vdr@linuxtv.org> | 
+ | [system-config-bind](/f12/package/system-config-bind) | 18 | 9419 | 0.2 | slovenščina <translation-team-sl@lists.sourceforge.net> | 
+ | [vidalia](/f12/package/vidalia) | 1 | 9112 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [ailurus](/f12/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [avant-window-navigator](/f12/package/avant-window-navigator) | 0 | 1655 | 0.0 | Slovenian <sl@li.org> | 
+ | [gnome-do](/f12/package/gnome-do) | 0 | 470 | 0.0 | Slovenian <sl@li.org> | 
+ | [imsettings](/f12/package/imsettings) | 0 | 979 | 0.0 | Slovenian <sl@li.org> | 
+ | [libgxim](/f12/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [policycoreutils](/f12/package/policycoreutils) | 0 | 1470 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [qbzr](/f12/package/qbzr) | 0 | 1281 | 0.0 | Slovenian <sl@li.org> | 
+ | [revisor](/f12/package/revisor) | 0 | 4171 | 0.0 |  | 
+ | [rhnsd](/f12/package/rhnsd) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot](/f12/package/setroubleshoot) | 0 | 606 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f12/package/setroubleshoot-plugins) | 0 | 8755 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sos](/f12/package/sos) | 0 | 267 | 0.0 | none | 
+ | [sugar-infoslicer](/f12/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f12/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f12/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f12/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f12/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f12/package/system-config-date-docs) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f12/package/system-config-nfs-docs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f12/package/system-config-samba-docs) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f12/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f12/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [yum-rhn-plugin](/f12/package/yum-rhn-plugin) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -460,10 +460,10 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [kicad]({{< ref "/f12/package/kicad.md" >}}) | /mnt/stockage/packages/f12/kicad/internat/sl/kicad.po | error-os |  | 
- | [moin]({{< ref "/f12/package/moin.md" >}}) | /mnt/stockage/packages/f12/moin/MoinMoin/i18n/sl.MoinMoin.po | error-os |  | 
- | [planner]({{< ref "/f12/package/planner.md" >}}) | /mnt/stockage/packages/f12/planner/po/sl.po | error-os |  | 
- | [snownews]({{< ref "/f12/package/snownews.md" >}}) | /mnt/stockage/packages/f12/snownews/po/sl.po | error-os |  | 
+ | [kicad](/f12/package/kicad) | /mnt/stockage/packages/f12/kicad/internat/sl/kicad.po | error-os |  | 
+ | [moin](/f12/package/moin) | /mnt/stockage/packages/f12/moin/MoinMoin/i18n/sl.MoinMoin.po | error-os |  | 
+ | [planner](/f12/package/planner) | /mnt/stockage/packages/f12/planner/po/sl.po | error-os |  | 
+ | [snownews](/f12/package/snownews) | /mnt/stockage/packages/f12/snownews/po/sl.po | error-os |  | 
 {.sortable}
 
 

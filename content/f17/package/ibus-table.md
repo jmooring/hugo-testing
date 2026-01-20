@@ -18,10 +18,10 @@ The package ibus-table (version 1.5.0.20130419):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f17/ibus-table/po/de.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f17/ibus-table/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 129 | 131 | 98.5 | /mnt/stockage/packages/f17/ibus-table/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 78 | 131 | 59.5 | /mnt/stockage/packages/f17/ibus-table/po/zh_HK.po | 
+ | [de](/f17/language/de) | 131 | 131 | 100.0 | /mnt/stockage/packages/f17/ibus-table/po/de.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 131 | 131 | 100.0 | /mnt/stockage/packages/f17/ibus-table/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 129 | 131 | 98.5 | /mnt/stockage/packages/f17/ibus-table/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 78 | 131 | 59.5 | /mnt/stockage/packages/f17/ibus-table/po/zh_HK.po | 
 {.sortable}
 
 

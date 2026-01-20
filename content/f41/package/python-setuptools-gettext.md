@@ -18,7 +18,7 @@ The package python-setuptools-gettext (version 0.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f41/python-setuptools-gettext/example/po/nl.po | 
+ | [nl](/f41/language/nl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f41/python-setuptools-gettext/example/po/nl.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package python-plumbum (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 186 | 204 | 91.2 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/ru.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 178 | 204 | 87.3 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 178 | 204 | 87.3 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/fr.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 178 | 204 | 87.3 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/nl.po | 
+ | [ru](/f40/language/ru) | 186 | 204 | 91.2 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/ru.po | 
+ | [de](/f40/language/de) | 178 | 204 | 87.3 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/de.po | 
+ | [fr](/f40/language/fr) | 178 | 204 | 87.3 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/fr.po | 
+ | [nl](/f40/language/nl) | 178 | 204 | 87.3 | /mnt/stockage/packages/f40/python-plumbum/plumbum/cli/i18n/nl.po | 
 {.sortable}
 
 

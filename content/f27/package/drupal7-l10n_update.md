@@ -18,9 +18,9 @@ The package drupal7-l10n_update (version 2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f27/drupal7-l10n_update/tests/test.de.po/mnt/stockage/packages/f27/drupal7-l10n_update/tests/modules/l10n_update_test_translate/translations/l10n_update_test_translate.de.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f27/drupal7-l10n_update/tests/modules/l10n_update_test_translate/translations/l10n_update_test_translate.xx.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f27/drupal7-l10n_update/tests/modules/l10n_update_test_translate/translations/l10n_update_test_translate.nl.po | 
+ | [de](/f27/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f27/drupal7-l10n_update/tests/test.de.po/mnt/stockage/packages/f27/drupal7-l10n_update/tests/modules/l10n_update_test_translate/translations/l10n_update_test_translate.de.po | 
+ | [error](/f27/language/error) | 21 | 21 | 100.0 | /mnt/stockage/packages/f27/drupal7-l10n_update/tests/modules/l10n_update_test_translate/translations/l10n_update_test_translate.xx.po | 
+ | [nl](/f27/language/nl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f27/drupal7-l10n_update/tests/modules/l10n_update_test_translate/translations/l10n_update_test_translate.nl.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package drupal6-flag (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f18/drupal6-flag/translations/da.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2433 | 2433 | 100.0 | /mnt/stockage/packages/f18/drupal6-flag/translations/fr.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2054 | 2055 | 100.0 | /mnt/stockage/packages/f18/drupal6-flag/translations/de.po | 
+ | [da](/f18/language/da) | 2444 | 2444 | 100.0 | /mnt/stockage/packages/f18/drupal6-flag/translations/da.po | 
+ | [fr](/f18/language/fr) | 2433 | 2433 | 100.0 | /mnt/stockage/packages/f18/drupal6-flag/translations/fr.po | 
+ | [de](/f18/language/de) | 2054 | 2055 | 100.0 | /mnt/stockage/packages/f18/drupal6-flag/translations/de.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package xfce4-cellmodem-plugin (version 0.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f28/xfce4-cellmodem-plugin/po/cs.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 166 | 179 | 92.7 | /mnt/stockage/packages/f28/xfce4-cellmodem-plugin/po/pt.po | 
+ | [cs](/f28/language/cs) | 179 | 179 | 100.0 | /mnt/stockage/packages/f28/xfce4-cellmodem-plugin/po/cs.po | 
+ | [pt](/f28/language/pt) | 166 | 179 | 92.7 | /mnt/stockage/packages/f28/xfce4-cellmodem-plugin/po/pt.po | 
 {.sortable}
 
 

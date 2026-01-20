@@ -18,7 +18,7 @@ The package libskk (version 0.0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f17/libskk/po/ja.po | 
+ | [ja](/f17/language/ja) | 32 | 32 | 100.0 | /mnt/stockage/packages/f17/libskk/po/ja.po | 
 {.sortable}
 
 

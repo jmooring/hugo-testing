@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f29/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [uget]({{< ref "/f29/package/uget.md" >}}) | 591 | 1085 | 54.5 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
- | [modem-manager-gui]({{< ref "/f29/package/modem-manager-gui.md" >}}) | 827 | 3308 | 25.0 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
- | [calibre]({{< ref "/f29/package/calibre.md" >}}) | 479 | 159002 | 0.3 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
- | [fonts-tweak-tool]({{< ref "/f29/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Bengali (Bangladesh) | 
- | [policycoreutils]({{< ref "/f29/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
- | [rhn-client-tools]({{< ref "/f29/package/rhn-client-tools.md" >}}) | 0 | 4057 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f29/package/rhnsd.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f29/package/yum-rhn-plugin.md" >}}) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f29/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [uget](/f29/package/uget) | 591 | 1085 | 54.5 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
+ | [modem-manager-gui](/f29/package/modem-manager-gui) | 827 | 3308 | 25.0 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
+ | [calibre](/f29/package/calibre) | 479 | 159002 | 0.3 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
+ | [fonts-tweak-tool](/f29/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Bengali (Bangladesh) | 
+ | [policycoreutils](/f29/package/policycoreutils) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [rhn-client-tools](/f29/package/rhn-client-tools) | 0 | 4057 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f29/package/rhnsd) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [yum-rhn-plugin](/f29/package/yum-rhn-plugin) | 0 | 147 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

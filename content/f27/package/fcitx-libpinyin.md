@@ -18,14 +18,14 @@ The package fcitx-libpinyin (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 261 | 261 | 100.0 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ca.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/de.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ko.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ru.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/zh_CN.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 211 | 261 | 80.8 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ja.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 118 | 261 | 45.2 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/zh_TW.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 0 | 261 | 0.0 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/da.po | 
+ | [ca](/f27/language/ca) | 261 | 261 | 100.0 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ca.po | 
+ | [de](/f27/language/de) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/de.po | 
+ | [ko](/f27/language/ko) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ko.po | 
+ | [ru](/f27/language/ru) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ru.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 246 | 261 | 94.3 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/zh_CN.po | 
+ | [ja](/f27/language/ja) | 211 | 261 | 80.8 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/ja.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 118 | 261 | 45.2 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/zh_TW.po | 
+ | [da](/f27/language/da) | 0 | 261 | 0.0 | /mnt/stockage/packages/f27/fcitx-libpinyin/po/da.po | 
 {.sortable}
 
 

@@ -18,41 +18,41 @@ The package php-horde-nag (version 4.2.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 353 | 353 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ar/LC_MESSAGES/nag.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 560 | 560 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/bg/LC_MESSAGES/nag.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 1601 | 1601 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/da/LC_MESSAGES/nag.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1637 | 1637 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/de/LC_MESSAGES/nag.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 1632 | 1632 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/el/LC_MESSAGES/nag.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1628 | 1628 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/es/LC_MESSAGES/nag.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 1366 | 1366 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/et/LC_MESSAGES/nag.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 1637 | 1637 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/eu/LC_MESSAGES/nag.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 1459 | 1459 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/fi/LC_MESSAGES/nag.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1626 | 1626 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/fr/LC_MESSAGES/nag.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 1421 | 1421 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/hr/LC_MESSAGES/nag.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1626 | 1626 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/hu/LC_MESSAGES/nag.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/id/LC_MESSAGES/nag.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1632 | 1632 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/it/LC_MESSAGES/nag.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1618 | 1618 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ja/LC_MESSAGES/nag.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1356 | 1356 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/lt/LC_MESSAGES/nag.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 1356 | 1356 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/lv/LC_MESSAGES/nag.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/nb/LC_MESSAGES/nag.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/nl/LC_MESSAGES/nag.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/nn/LC_MESSAGES/nag.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1601 | 1601 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/pl/LC_MESSAGES/nag.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 756 | 756 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/pt/LC_MESSAGES/nag.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1637 | 1637 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/pt_BR/LC_MESSAGES/nag.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ro/LC_MESSAGES/nag.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 1356 | 1356 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/sk/LC_MESSAGES/nag.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/sl/LC_MESSAGES/nag.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1421 | 1421 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/sv/LC_MESSAGES/nag.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1421 | 1421 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/tr/LC_MESSAGES/nag.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 364 | 364 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/zh_CN/LC_MESSAGES/nag.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/zh_TW/LC_MESSAGES/nag.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1623 | 1632 | 99.4 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ca/LC_MESSAGES/nag.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 1323 | 1458 | 90.7 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/uk/LC_MESSAGES/nag.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1340 | 1626 | 82.4 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/cs/LC_MESSAGES/nag.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 522 | 703 | 74.3 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ru/LC_MESSAGES/nag.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 635 | 1601 | 39.7 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ko/LC_MESSAGES/nag.po | 
+ | [ar](/f29/language/ar) | 353 | 353 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ar/LC_MESSAGES/nag.po | 
+ | [bg](/f29/language/bg) | 560 | 560 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/bg/LC_MESSAGES/nag.po | 
+ | [da](/f29/language/da) | 1601 | 1601 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/da/LC_MESSAGES/nag.po | 
+ | [de](/f29/language/de) | 1637 | 1637 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/de/LC_MESSAGES/nag.po | 
+ | [el](/f29/language/el) | 1632 | 1632 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/el/LC_MESSAGES/nag.po | 
+ | [es](/f29/language/es) | 1628 | 1628 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/es/LC_MESSAGES/nag.po | 
+ | [et](/f29/language/et) | 1366 | 1366 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/et/LC_MESSAGES/nag.po | 
+ | [eu](/f29/language/eu) | 1637 | 1637 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/eu/LC_MESSAGES/nag.po | 
+ | [fi](/f29/language/fi) | 1459 | 1459 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/fi/LC_MESSAGES/nag.po | 
+ | [fr](/f29/language/fr) | 1626 | 1626 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/fr/LC_MESSAGES/nag.po | 
+ | [hr](/f29/language/hr) | 1421 | 1421 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/hr/LC_MESSAGES/nag.po | 
+ | [hu](/f29/language/hu) | 1626 | 1626 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/hu/LC_MESSAGES/nag.po | 
+ | [id](/f29/language/id) | 444 | 444 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/id/LC_MESSAGES/nag.po | 
+ | [it](/f29/language/it) | 1632 | 1632 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/it/LC_MESSAGES/nag.po | 
+ | [ja](/f29/language/ja) | 1618 | 1618 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ja/LC_MESSAGES/nag.po | 
+ | [lt](/f29/language/lt) | 1356 | 1356 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/lt/LC_MESSAGES/nag.po | 
+ | [lv](/f29/language/lv) | 1356 | 1356 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/lv/LC_MESSAGES/nag.po | 
+ | [nb_NO](/f29/language/nb_NO) | 360 | 360 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/nb/LC_MESSAGES/nag.po | 
+ | [nl](/f29/language/nl) | 1510 | 1510 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/nl/LC_MESSAGES/nag.po | 
+ | [nn](/f29/language/nn) | 364 | 364 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/nn/LC_MESSAGES/nag.po | 
+ | [pl](/f29/language/pl) | 1601 | 1601 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/pl/LC_MESSAGES/nag.po | 
+ | [pt](/f29/language/pt) | 756 | 756 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/pt/LC_MESSAGES/nag.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1637 | 1637 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/pt_BR/LC_MESSAGES/nag.po | 
+ | [ro](/f29/language/ro) | 444 | 444 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ro/LC_MESSAGES/nag.po | 
+ | [sk](/f29/language/sk) | 1356 | 1356 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/sk/LC_MESSAGES/nag.po | 
+ | [sl](/f29/language/sl) | 814 | 814 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/sl/LC_MESSAGES/nag.po | 
+ | [sv](/f29/language/sv) | 1421 | 1421 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/sv/LC_MESSAGES/nag.po | 
+ | [tr](/f29/language/tr) | 1421 | 1421 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/tr/LC_MESSAGES/nag.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 364 | 364 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/zh_CN/LC_MESSAGES/nag.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1035 | 1035 | 100.0 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/zh_TW/LC_MESSAGES/nag.po | 
+ | [ca](/f29/language/ca) | 1623 | 1632 | 99.4 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ca/LC_MESSAGES/nag.po | 
+ | [uk](/f29/language/uk) | 1323 | 1458 | 90.7 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/uk/LC_MESSAGES/nag.po | 
+ | [cs](/f29/language/cs) | 1340 | 1626 | 82.4 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/cs/LC_MESSAGES/nag.po | 
+ | [ru](/f29/language/ru) | 522 | 703 | 74.3 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ru/LC_MESSAGES/nag.po | 
+ | [ko](/f29/language/ko) | 635 | 1601 | 39.7 | /mnt/stockage/packages/f29/php-horde-nag/nag-4.2.19/locale/ko/LC_MESSAGES/nag.po | 
 {.sortable}
 
 

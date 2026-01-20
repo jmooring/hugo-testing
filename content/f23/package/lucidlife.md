@@ -18,7 +18,7 @@ The package lucidlife (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f23/lucidlife/po/en_GB.po | 
+ | [en_GB](/f23/language/en_GB) | 39 | 39 | 100.0 | /mnt/stockage/packages/f23/lucidlife/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package smarteiffel (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/library/fr_FR/LC_MESSAGES/library_example_library.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/library/fr_FR/LC_MESSAGES/library_example_program.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/simple/fr_FR/LC_MESSAGES/simple_example.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/vision/fr_FR/LC_MESSAGES/vision_example.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/vision/fr_FR/LC_MESSAGES/vision_example_unicode.po | 
+ | [fr](/f10/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/library/fr_FR/LC_MESSAGES/library_example_library.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/library/fr_FR/LC_MESSAGES/library_example_program.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/simple/fr_FR/LC_MESSAGES/simple_example.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/vision/fr_FR/LC_MESSAGES/vision_example.po/mnt/stockage/packages/f10/smarteiffel/tutorial/get_text/vision/fr_FR/LC_MESSAGES/vision_example_unicode.po | 
 {.sortable}
 
 

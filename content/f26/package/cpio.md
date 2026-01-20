@@ -18,31 +18,31 @@ The package cpio (version 2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/de.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/fr.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/ja.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/pl.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/ru.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/vi.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1598 | 1902 | 84.0 | /mnt/stockage/packages/f26/cpio/po/es.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 1101 | 1902 | 57.9 | /mnt/stockage/packages/f26/cpio/po/ga.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1101 | 1902 | 57.9 | /mnt/stockage/packages/f26/cpio/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 899 | 1902 | 47.3 | /mnt/stockage/packages/f26/cpio/po/zh_TW.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 567 | 1902 | 29.8 | /mnt/stockage/packages/f26/cpio/po/gl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 197 | 1902 | 10.4 | /mnt/stockage/packages/f26/cpio/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 197 | 1902 | 10.4 | /mnt/stockage/packages/f26/cpio/po/ro.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 174 | 1902 | 9.1 | /mnt/stockage/packages/f26/cpio/po/ko.po | 
+ | [da](/f26/language/da) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/da.po | 
+ | [de](/f26/language/de) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/de.po | 
+ | [fi](/f26/language/fi) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/fi.po | 
+ | [fr](/f26/language/fr) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/fr.po | 
+ | [hr](/f26/language/hr) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/hr.po | 
+ | [hu](/f26/language/hu) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/hu.po | 
+ | [id](/f26/language/id) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/id.po | 
+ | [it](/f26/language/it) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/it.po | 
+ | [ja](/f26/language/ja) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/ja.po | 
+ | [nl](/f26/language/nl) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/nl.po | 
+ | [pl](/f26/language/pl) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/pl.po | 
+ | [ru](/f26/language/ru) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/ru.po | 
+ | [sr](/f26/language/sr) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/sr.po | 
+ | [sv](/f26/language/sv) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/sv.po | 
+ | [tr](/f26/language/tr) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/tr.po | 
+ | [uk](/f26/language/uk) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/uk.po | 
+ | [vi](/f26/language/vi) | 1795 | 1902 | 94.4 | /mnt/stockage/packages/f26/cpio/po/vi.po | 
+ | [es](/f26/language/es) | 1598 | 1902 | 84.0 | /mnt/stockage/packages/f26/cpio/po/es.po | 
+ | [ga](/f26/language/ga) | 1101 | 1902 | 57.9 | /mnt/stockage/packages/f26/cpio/po/ga.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1101 | 1902 | 57.9 | /mnt/stockage/packages/f26/cpio/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 899 | 1902 | 47.3 | /mnt/stockage/packages/f26/cpio/po/zh_TW.po | 
+ | [gl](/f26/language/gl) | 567 | 1902 | 29.8 | /mnt/stockage/packages/f26/cpio/po/gl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 197 | 1902 | 10.4 | /mnt/stockage/packages/f26/cpio/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 197 | 1902 | 10.4 | /mnt/stockage/packages/f26/cpio/po/ro.po | 
+ | [ko](/f26/language/ko) | 174 | 1902 | 9.1 | /mnt/stockage/packages/f26/cpio/po/ko.po | 
 {.sortable}
 
 

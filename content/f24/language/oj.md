@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f24/package/tuxpaint.md" >}}) | 179 | 1591 | 11.3 | Ed <edm@rocketmail.com> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 33 | 23546 | 0.1 | Ojibwe <oj@li.org> | 
+ | [tuxpaint](/f24/package/tuxpaint) | 179 | 1591 | 11.3 | Ed <edm@rocketmail.com> | 
+ | [stellarium](/f24/package/stellarium) | 33 | 23546 | 0.1 | Ojibwe <oj@li.org> | 
 {.sortable}
 
 

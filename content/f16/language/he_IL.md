@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f16/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f16/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f16/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [publican]({{< ref "/f16/package/publican.md" >}}) | 0 | 191 | 0.0 | None | 
- | [publican-fedora]({{< ref "/f16/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [squirrelmail](/f16/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f16/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f16/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [publican](/f16/package/publican) | 0 | 191 | 0.0 | None | 
+ | [publican-fedora](/f16/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

@@ -41,16 +41,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f9/package/abiword.md" >}}) | 4644 | 4644 | 100.0 | Pathanisation.pakhtosoft.com <admin@pakhtosoft.com> | 
- | [kde-i18n]({{< ref "/f9/package/kde-i18n.md" >}}) | 7 | 7 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [minbar]({{< ref "/f9/package/minbar.md" >}}) | 418 | 418 | 100.0 | Pashto | 
- | [sugar-journal]({{< ref "/f9/package/sugar-journal.md" >}}) | 39 | 39 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 868 | 1309 | 66.3 | Pashto <pakhtosoft@gmail.com> | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 2097 | 4673 | 44.9 | Pashto <pp@pathanisation.pakhtosoft.com> | 
- | [gnome-screensaver]({{< ref "/f9/package/gnome-screensaver.md" >}}) | 376 | 955 | 39.4 | Pashto <pakhtosoft@gmail.com> | 
- | [rhythmbox]({{< ref "/f9/package/rhythmbox.md" >}}) | 1298 | 4019 | 32.3 | Pashto <pakhtosoft@gmail.com> | 
- | [pidgin]({{< ref "/f9/package/pidgin.md" >}}) | 2141 | 15654 | 13.7 | Pashto | 
- | [iso-codes]({{< ref "/f9/package/iso-codes.md" >}}) | 120 | 12339 | 1.0 | Pushto | 
+ | [abiword](/f9/package/abiword) | 4644 | 4644 | 100.0 | Pathanisation.pakhtosoft.com <admin@pakhtosoft.com> | 
+ | [kde-i18n](/f9/package/kde-i18n) | 7 | 7 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [minbar](/f9/package/minbar) | 418 | 418 | 100.0 | Pashto | 
+ | [sugar-journal](/f9/package/sugar-journal) | 39 | 39 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgnomeui](/f9/package/libgnomeui) | 868 | 1309 | 66.3 | Pashto <pakhtosoft@gmail.com> | 
+ | [gnome-panel](/f9/package/gnome-panel) | 2097 | 4673 | 44.9 | Pashto <pp@pathanisation.pakhtosoft.com> | 
+ | [gnome-screensaver](/f9/package/gnome-screensaver) | 376 | 955 | 39.4 | Pashto <pakhtosoft@gmail.com> | 
+ | [rhythmbox](/f9/package/rhythmbox) | 1298 | 4019 | 32.3 | Pashto <pakhtosoft@gmail.com> | 
+ | [pidgin](/f9/package/pidgin) | 2141 | 15654 | 13.7 | Pashto | 
+ | [iso-codes](/f9/package/iso-codes) | 120 | 12339 | 1.0 | Pushto | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package cockpit-podman (version 119.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/ar.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/es.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/ka.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/ko.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/pt_BR.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/zh_Hant.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1105 | 1121 | 98.6 | /mnt/stockage/packages/f43/cockpit-podman/po/ja.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1048 | 1121 | 93.5 | /mnt/stockage/packages/f43/cockpit-podman/po/pl.po | 
+ | [ar](/f43/language/ar) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/ar.po | 
+ | [cs](/f43/language/cs) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/cs.po | 
+ | [de](/f43/language/de) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/de.po | 
+ | [es](/f43/language/es) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/es.po | 
+ | [fi](/f43/language/fi) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/fi.po | 
+ | [fr](/f43/language/fr) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/fr.po | 
+ | [it](/f43/language/it) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/it.po | 
+ | [ka](/f43/language/ka) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/ka.po | 
+ | [ko](/f43/language/ko) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/ko.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/pt_BR.po | 
+ | [sv](/f43/language/sv) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/sv.po | 
+ | [tr](/f43/language/tr) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/tr.po | 
+ | [uk](/f43/language/uk) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f43/cockpit-podman/po/zh_Hant.po | 
+ | [ja](/f43/language/ja) | 1105 | 1121 | 98.6 | /mnt/stockage/packages/f43/cockpit-podman/po/ja.po | 
+ | [pl](/f43/language/pl) | 1048 | 1121 | 93.5 | /mnt/stockage/packages/f43/cockpit-podman/po/pl.po | 
 {.sortable}
 
 

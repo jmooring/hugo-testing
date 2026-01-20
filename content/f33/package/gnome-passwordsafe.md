@@ -18,34 +18,34 @@ The package gnome-passwordsafe (version 5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/fr.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 1004 | 1004 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/it.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 542 | 542 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/nb.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1010 | 1010 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1010 | 1010 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 762 | 762 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/ru.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 803 | 804 | 99.9 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/zh_CN.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 793 | 795 | 99.7 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/eu.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 1013 | 1049 | 96.6 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/ca.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 983 | 1047 | 93.9 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 952 | 1054 | 90.3 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/fi.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 884 | 1050 | 84.2 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pa.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 172 | 803 | 21.4 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/sl.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 146 | 715 | 20.4 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/el.po | 
+ | [cs](/f33/language/cs) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/cs.po | 
+ | [da](/f33/language/da) | 795 | 795 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/da.po | 
+ | [de](/f33/language/de) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/de.po | 
+ | [fr](/f33/language/fr) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/fr.po | 
+ | [hr](/f33/language/hr) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/hr.po | 
+ | [hu](/f33/language/hu) | 804 | 804 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/hu.po | 
+ | [id](/f33/language/id) | 1004 | 1004 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/id.po | 
+ | [it](/f33/language/it) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/it.po | 
+ | [nb_NO](/f33/language/nb_NO) | 542 | 542 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/nb.po | 
+ | [nl](/f33/language/nl) | 1010 | 1010 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/nl.po | 
+ | [pl](/f33/language/pl) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pl.po | 
+ | [pt](/f33/language/pt) | 1010 | 1010 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/ro.po | 
+ | [ru](/f33/language/ru) | 762 | 762 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/ru.po | 
+ | [sr](/f33/language/sr) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/sr.po | 
+ | [sv](/f33/language/sv) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/sv.po | 
+ | [tr](/f33/language/tr) | 805 | 805 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/tr.po | 
+ | [uk](/f33/language/uk) | 1047 | 1047 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/uk.po | 
+ | [vi](/f33/language/vi) | 1050 | 1050 | 100.0 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 803 | 804 | 99.9 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/zh_CN.po | 
+ | [eu](/f33/language/eu) | 793 | 795 | 99.7 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/eu.po | 
+ | [ca](/f33/language/ca) | 1013 | 1049 | 96.6 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/ca.po | 
+ | [es](/f33/language/es) | 983 | 1047 | 93.9 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/es.po | 
+ | [fi](/f33/language/fi) | 952 | 1054 | 90.3 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/fi.po | 
+ | [pa](/f33/language/pa) | 884 | 1050 | 84.2 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/pa.po | 
+ | [sl](/f33/language/sl) | 172 | 803 | 21.4 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/sl.po | 
+ | [el](/f33/language/el) | 146 | 715 | 20.4 | /mnt/stockage/packages/f33/gnome-passwordsafe/po/el.po | 
 {.sortable}
 
 

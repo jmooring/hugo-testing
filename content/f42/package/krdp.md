@@ -18,45 +18,45 @@ The package krdp (version 6.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ar/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ar/krdpserver.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/bg/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/bg/krdpserver.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ca/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ca/krdpserver.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ca@valencia/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ca@valencia/krdpserver.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/de/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/de/krdpserver.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/es/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/es/krdpserver.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/eu/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/eu/krdpserver.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/fi/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/fi/krdpserver.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/fr/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/fr/krdpserver.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/he/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/he/krdpserver.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/hu/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/hu/krdpserver.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/it/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/it/krdpserver.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ka/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ka/krdpserver.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ko/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ko/krdpserver.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/lt/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/lt/krdpserver.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/nl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/nl/krdpserver.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/pl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/pl/krdpserver.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/pt_BR/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/pt_BR/krdpserver.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ru/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ru/krdpserver.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/sl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sl/krdpserver.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/sv/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sv/krdpserver.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/tr/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/tr/krdpserver.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/uk/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/uk/krdpserver.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/zh_CN/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/zh_CN/krdpserver.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/zh_TW/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/zh_TW/krdpserver.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 293 | 322 | 91.0 | /mnt/stockage/packages/f42/krdp/po/lv/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/lv/krdpserver.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 287 | 322 | 89.1 | /mnt/stockage/packages/f42/krdp/po/is/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/is/krdpserver.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 285 | 322 | 88.5 | /mnt/stockage/packages/f42/krdp/po/az/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/az/krdpserver.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 285 | 322 | 88.5 | /mnt/stockage/packages/f42/krdp/po/gl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/gl/krdpserver.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 285 | 322 | 88.5 | /mnt/stockage/packages/f42/krdp/po/ia/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ia/krdpserver.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 282 | 322 | 87.6 | /mnt/stockage/packages/f42/krdp/po/eo/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/eo/krdpserver.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/en_GB/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/en_GB/krdpserver.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/hi/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/hi/krdpserver.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/nn/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/nn/krdpserver.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/sa/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sa/krdpserver.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 68 | 322 | 21.1 | /mnt/stockage/packages/f42/krdp/po/cs/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/cs/krdpserver.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 65 | 322 | 20.2 | /mnt/stockage/packages/f42/krdp/po/pa/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/pa/krdpserver.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 23 | 322 | 7.1 | /mnt/stockage/packages/f42/krdp/po/sk/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sk/krdpserver.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f42/krdp/po/ga/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ga/krdpserver.po | 
+ | [ar](/f42/language/ar) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ar/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ar/krdpserver.po | 
+ | [bg](/f42/language/bg) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/bg/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/bg/krdpserver.po | 
+ | [ca](/f42/language/ca) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ca/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ca/krdpserver.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ca@valencia/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ca@valencia/krdpserver.po | 
+ | [de](/f42/language/de) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/de/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/de/krdpserver.po | 
+ | [es](/f42/language/es) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/es/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/es/krdpserver.po | 
+ | [eu](/f42/language/eu) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/eu/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/eu/krdpserver.po | 
+ | [fi](/f42/language/fi) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/fi/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/fi/krdpserver.po | 
+ | [fr](/f42/language/fr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/fr/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/fr/krdpserver.po | 
+ | [he](/f42/language/he) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/he/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/he/krdpserver.po | 
+ | [hu](/f42/language/hu) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/hu/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/hu/krdpserver.po | 
+ | [it](/f42/language/it) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/it/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/it/krdpserver.po | 
+ | [ka](/f42/language/ka) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ka/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ka/krdpserver.po | 
+ | [ko](/f42/language/ko) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ko/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ko/krdpserver.po | 
+ | [lt](/f42/language/lt) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/lt/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/lt/krdpserver.po | 
+ | [nl](/f42/language/nl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/nl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/nl/krdpserver.po | 
+ | [pl](/f42/language/pl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/pl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/pl/krdpserver.po | 
+ | [pt_BR](/f42/language/pt_BR) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/pt_BR/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/pt_BR/krdpserver.po | 
+ | [ru](/f42/language/ru) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/ru/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ru/krdpserver.po | 
+ | [sl](/f42/language/sl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/sl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sl/krdpserver.po | 
+ | [sv](/f42/language/sv) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/sv/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sv/krdpserver.po | 
+ | [tr](/f42/language/tr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/tr/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/tr/krdpserver.po | 
+ | [uk](/f42/language/uk) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/uk/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/uk/krdpserver.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/zh_CN/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/zh_CN/krdpserver.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 322 | 322 | 100.0 | /mnt/stockage/packages/f42/krdp/po/zh_TW/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/zh_TW/krdpserver.po | 
+ | [lv](/f42/language/lv) | 293 | 322 | 91.0 | /mnt/stockage/packages/f42/krdp/po/lv/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/lv/krdpserver.po | 
+ | [is](/f42/language/is) | 287 | 322 | 89.1 | /mnt/stockage/packages/f42/krdp/po/is/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/is/krdpserver.po | 
+ | [az](/f42/language/az) | 285 | 322 | 88.5 | /mnt/stockage/packages/f42/krdp/po/az/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/az/krdpserver.po | 
+ | [gl](/f42/language/gl) | 285 | 322 | 88.5 | /mnt/stockage/packages/f42/krdp/po/gl/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/gl/krdpserver.po | 
+ | [ia](/f42/language/ia) | 285 | 322 | 88.5 | /mnt/stockage/packages/f42/krdp/po/ia/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ia/krdpserver.po | 
+ | [eo](/f42/language/eo) | 282 | 322 | 87.6 | /mnt/stockage/packages/f42/krdp/po/eo/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/eo/krdpserver.po | 
+ | [en_GB](/f42/language/en_GB) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/en_GB/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/en_GB/krdpserver.po | 
+ | [hi](/f42/language/hi) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/hi/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/hi/krdpserver.po | 
+ | [nn](/f42/language/nn) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/nn/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/nn/krdpserver.po | 
+ | [sa](/f42/language/sa) | 265 | 322 | 82.3 | /mnt/stockage/packages/f42/krdp/po/sa/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sa/krdpserver.po | 
+ | [cs](/f42/language/cs) | 68 | 322 | 21.1 | /mnt/stockage/packages/f42/krdp/po/cs/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/cs/krdpserver.po | 
+ | [pa](/f42/language/pa) | 65 | 322 | 20.2 | /mnt/stockage/packages/f42/krdp/po/pa/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/pa/krdpserver.po | 
+ | [sk](/f42/language/sk) | 23 | 322 | 7.1 | /mnt/stockage/packages/f42/krdp/po/sk/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/sk/krdpserver.po | 
+ | [ga](/f42/language/ga) | 0 | 322 | 0.0 | /mnt/stockage/packages/f42/krdp/po/ga/kcm_krdpserver.po/mnt/stockage/packages/f42/krdp/po/ga/krdpserver.po | 
 {.sortable}
 
 

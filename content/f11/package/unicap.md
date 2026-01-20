@@ -18,9 +18,9 @@ The package unicap (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 99 | 100 | 99.0 | /mnt/stockage/packages/f11/unicap/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 97 | 98 | 99.0 | /mnt/stockage/packages/f11/unicap/po/fr.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 147 | 156 | 94.2 | /mnt/stockage/packages/f11/unicap/po/ru.po | 
+ | [de](/f11/language/de) | 99 | 100 | 99.0 | /mnt/stockage/packages/f11/unicap/po/de.po | 
+ | [fr](/f11/language/fr) | 97 | 98 | 99.0 | /mnt/stockage/packages/f11/unicap/po/fr.po | 
+ | [ru](/f11/language/ru) | 147 | 156 | 94.2 | /mnt/stockage/packages/f11/unicap/po/ru.po | 
 {.sortable}
 
 

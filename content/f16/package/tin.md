@@ -18,14 +18,14 @@ The package tin (version 1.8.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f16/language/et.md" >}}) | 9698 | 9698 | 100.0 | /mnt/stockage/packages/f16/tin/po/et.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 9599 | 9698 | 99.0 | /mnt/stockage/packages/f16/tin/po/de.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 9474 | 9698 | 97.7 | /mnt/stockage/packages/f16/tin/po/fr.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 7537 | 9698 | 77.7 | /mnt/stockage/packages/f16/tin/po/ru.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1081 | 9698 | 11.1 | /mnt/stockage/packages/f16/tin/po/sv.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 424 | 9698 | 4.4 | /mnt/stockage/packages/f16/tin/po/en_GB.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 235 | 9698 | 2.4 | /mnt/stockage/packages/f16/tin/po/tr.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 49 | 9698 | 0.5 | /mnt/stockage/packages/f16/tin/po/rw.po | 
+ | [et](/f16/language/et) | 9698 | 9698 | 100.0 | /mnt/stockage/packages/f16/tin/po/et.po | 
+ | [de](/f16/language/de) | 9599 | 9698 | 99.0 | /mnt/stockage/packages/f16/tin/po/de.po | 
+ | [fr](/f16/language/fr) | 9474 | 9698 | 97.7 | /mnt/stockage/packages/f16/tin/po/fr.po | 
+ | [ru](/f16/language/ru) | 7537 | 9698 | 77.7 | /mnt/stockage/packages/f16/tin/po/ru.po | 
+ | [sv](/f16/language/sv) | 1081 | 9698 | 11.1 | /mnt/stockage/packages/f16/tin/po/sv.po | 
+ | [en_GB](/f16/language/en_GB) | 424 | 9698 | 4.4 | /mnt/stockage/packages/f16/tin/po/en_GB.po | 
+ | [tr](/f16/language/tr) | 235 | 9698 | 2.4 | /mnt/stockage/packages/f16/tin/po/tr.po | 
+ | [rw](/f16/language/rw) | 49 | 9698 | 0.5 | /mnt/stockage/packages/f16/tin/po/rw.po | 
 {.sortable}
 
 

@@ -45,11 +45,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [rhythmbox-alternative-toolbar]({{< ref "/f43/package/rhythmbox-alternative-toolbar.md" >}}) | 291 | 291 | 100.0 | Mon <mnw@li.org> | 
- | [gnome-online-accounts-gtk]({{< ref "/f43/package/gnome-online-accounts-gtk.md" >}}) | 16 | 36 | 44.4 | Mon <mnw@li.org> | 
- | [deja-dup]({{< ref "/f43/package/deja-dup.md" >}}) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
- | [snapd]({{< ref "/f43/package/snapd.md" >}}) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 7 | 7533 | 0.1 | Mon <mnw@li.org> | 
+ | [rhythmbox-alternative-toolbar](/f43/package/rhythmbox-alternative-toolbar) | 291 | 291 | 100.0 | Mon <mnw@li.org> | 
+ | [gnome-online-accounts-gtk](/f43/package/gnome-online-accounts-gtk) | 16 | 36 | 44.4 | Mon <mnw@li.org> | 
+ | [deja-dup](/f43/package/deja-dup) | 246 | 1623 | 15.2 | Mon <mnw@li.org> | 
+ | [snapd](/f43/package/snapd) | 48 | 4307 | 1.1 | Mon <mnw@li.org> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 7 | 7533 | 0.1 | Mon <mnw@li.org> | 
 {.sortable}
 
 

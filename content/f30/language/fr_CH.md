@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [enlightenment]({{< ref "/f30/package/enlightenment.md" >}}) | 1591 | 8687 | 18.3 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
- | [gnomebaker]({{< ref "/f30/package/gnomebaker.md" >}}) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
- | [calamares]({{< ref "/f30/package/calamares.md" >}}) | 0 | 443 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
+ | [enlightenment](/f30/package/enlightenment) | 1591 | 8687 | 18.3 | Enlightenment i18n French <enlightenment-intl@lists.sourceforge.net> | 
+ | [gnomebaker](/f30/package/gnomebaker) | 41 | 1186 | 3.5 | French (Switzerland) <fr_CH@li.org> | 
+ | [calamares](/f30/package/calamares) | 0 | 443 | 0.0 | French (Switzerland) (https://www.transifex.com/calamares/teams/20061/fr_CH/) | 
 {.sortable}
 
 

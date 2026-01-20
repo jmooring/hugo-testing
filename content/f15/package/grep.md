@@ -18,48 +18,48 @@ The package grep (version 2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/ga.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/pt_BR.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/zh_CN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/da.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/es.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/et.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/fr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/ja.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/sk.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/sv.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/th.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/vi.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 324 | 955 | 33.9 | /mnt/stockage/packages/f15/grep/po/eo.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 324 | 955 | 33.9 | /mnt/stockage/packages/f15/grep/po/id.po | 
- | [ky]({{< ref "/f15/language/ky.md" >}}) | 261 | 955 | 27.3 | /mnt/stockage/packages/f15/grep/po/ky.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 261 | 955 | 27.3 | /mnt/stockage/packages/f15/grep/po/lt.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/af.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/be.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/bg.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/el.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/eu.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/he.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/hr.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/nb.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/pt.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/ro.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/sr.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/tr.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/zh_TW.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 25 | 955 | 2.6 | /mnt/stockage/packages/f15/grep/po/ko.po | 
+ | [ga](/f15/language/ga) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/ga.po | 
+ | [pt_BR](/f15/language/pt_BR) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/pt_BR.po | 
+ | [uk](/f15/language/uk) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 945 | 955 | 99.0 | /mnt/stockage/packages/f15/grep/po/zh_CN.po | 
+ | [ca](/f15/language/ca) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/ca.po | 
+ | [cs](/f15/language/cs) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/cs.po | 
+ | [da](/f15/language/da) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/da.po | 
+ | [es](/f15/language/es) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/es.po | 
+ | [et](/f15/language/et) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/et.po | 
+ | [fi](/f15/language/fi) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/fi.po | 
+ | [fr](/f15/language/fr) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/fr.po | 
+ | [hu](/f15/language/hu) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/hu.po | 
+ | [it](/f15/language/it) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/it.po | 
+ | [ja](/f15/language/ja) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/ja.po | 
+ | [nl](/f15/language/nl) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/nl.po | 
+ | [pl](/f15/language/pl) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/pl.po | 
+ | [ru](/f15/language/ru) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/ru.po | 
+ | [sk](/f15/language/sk) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/sk.po | 
+ | [sl](/f15/language/sl) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/sl.po | 
+ | [sv](/f15/language/sv) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/sv.po | 
+ | [th](/f15/language/th) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/th.po | 
+ | [vi](/f15/language/vi) | 909 | 955 | 95.2 | /mnt/stockage/packages/f15/grep/po/vi.po | 
+ | [eo](/f15/language/eo) | 324 | 955 | 33.9 | /mnt/stockage/packages/f15/grep/po/eo.po | 
+ | [id](/f15/language/id) | 324 | 955 | 33.9 | /mnt/stockage/packages/f15/grep/po/id.po | 
+ | [ky](/f15/language/ky) | 261 | 955 | 27.3 | /mnt/stockage/packages/f15/grep/po/ky.po | 
+ | [lt](/f15/language/lt) | 261 | 955 | 27.3 | /mnt/stockage/packages/f15/grep/po/lt.po | 
+ | [af](/f15/language/af) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/af.po | 
+ | [be](/f15/language/be) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/be.po | 
+ | [bg](/f15/language/bg) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/bg.po | 
+ | [de](/f15/language/de) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/de.po | 
+ | [el](/f15/language/el) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/el.po | 
+ | [eu](/f15/language/eu) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/eu.po | 
+ | [gl](/f15/language/gl) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/gl.po | 
+ | [he](/f15/language/he) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/he.po | 
+ | [hr](/f15/language/hr) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/hr.po | 
+ | [nb_NO](/f15/language/nb_NO) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/nb.po | 
+ | [pt](/f15/language/pt) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/pt.po | 
+ | [ro](/f15/language/ro) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/ro.po | 
+ | [sr](/f15/language/sr) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/sr.po | 
+ | [tr](/f15/language/tr) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/tr.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 57 | 955 | 6.0 | /mnt/stockage/packages/f15/grep/po/zh_TW.po | 
+ | [ko](/f15/language/ko) | 25 | 955 | 2.6 | /mnt/stockage/packages/f15/grep/po/ko.po | 
 {.sortable}
 
 

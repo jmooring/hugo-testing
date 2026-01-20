@@ -38,50 +38,50 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dialect]({{< ref "/f41/package/dialect.md" >}}) | 704 | 969 | 72.7 |  | 
- | [mate-menu]({{< ref "/f41/package/mate-menu.md" >}}) | 125 | 308 | 40.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
- | [mozo]({{< ref "/f41/package/mozo.md" >}}) | 16 | 46 | 34.8 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-menus]({{< ref "/f41/package/mate-menus.md" >}}) | 34 | 103 | 33.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-icon-theme]({{< ref "/f41/package/mate-icon-theme.md" >}}) | 1 | 4 | 25.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [libmateweather]({{< ref "/f41/package/libmateweather.md" >}}) | 124 | 500 | 24.8 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [python-caja]({{< ref "/f41/package/python-caja.md" >}}) | 1 | 6 | 16.7 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [libmatemixer]({{< ref "/f41/package/libmatemixer.md" >}}) | 27 | 242 | 11.2 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-media]({{< ref "/f41/package/mate-media.md" >}}) | 27 | 244 | 11.1 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [libmatekbd]({{< ref "/f41/package/libmatekbd.md" >}}) | 28 | 308 | 9.1 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-calc]({{< ref "/f41/package/mate-calc.md" >}}) | 301 | 3327 | 9.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [caja]({{< ref "/f41/package/caja.md" >}}) | 856 | 10156 | 8.4 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [vlc]({{< ref "/f41/package/vlc.md" >}}) | 2830 | 34779 | 8.1 | Kurdish (Iraq) (https://app.transifex.com/yaron/teams/16553/ku_IQ/) | 
- | [mate-session-manager]({{< ref "/f41/package/mate-session-manager.md" >}}) | 53 | 717 | 7.4 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [eom]({{< ref "/f41/package/eom.md" >}}) | 124 | 1779 | 7.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [atril]({{< ref "/f41/package/atril.md" >}}) | 290 | 4364 | 6.6 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-notification-daemon]({{< ref "/f41/package/mate-notification-daemon.md" >}}) | 12 | 186 | 6.5 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [engrampa]({{< ref "/f41/package/engrampa.md" >}}) | 128 | 2026 | 6.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [iso-codes]({{< ref "/f41/package/iso-codes.md" >}}) | 932 | 15032 | 6.2 | Kurdish (Northern) <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kmr/> | 
- | [caja-extensions]({{< ref "/f41/package/caja-extensions.md" >}}) | 37 | 845 | 4.4 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-backgrounds]({{< ref "/f41/package/mate-backgrounds.md" >}}) | 2 | 55 | 3.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-polkit]({{< ref "/f41/package/mate-polkit.md" >}}) | 4 | 123 | 3.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-screensaver]({{< ref "/f41/package/mate-screensaver.md" >}}) | 33 | 1101 | 3.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-panel]({{< ref "/f41/package/mate-panel.md" >}}) | 151 | 5590 | 2.7 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [pluma]({{< ref "/f41/package/pluma.md" >}}) | 356 | 13379 | 2.7 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-terminal]({{< ref "/f41/package/mate-terminal.md" >}}) | 212 | 8238 | 2.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-control-center]({{< ref "/f41/package/mate-control-center.md" >}}) | 212 | 8260 | 2.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-desktop]({{< ref "/f41/package/mate-desktop.md" >}}) | 60 | 2412 | 2.5 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-utils]({{< ref "/f41/package/mate-utils.md" >}}) | 215 | 9901 | 2.2 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-sensors-applet]({{< ref "/f41/package/mate-sensors-applet.md" >}}) | 44 | 2160 | 2.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-user-admin]({{< ref "/f41/package/mate-user-admin.md" >}}) | 10 | 605 | 1.7 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-settings-daemon]({{< ref "/f41/package/mate-settings-daemon.md" >}}) | 35 | 2203 | 1.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-system-monitor]({{< ref "/f41/package/mate-system-monitor.md" >}}) | 72 | 4894 | 1.5 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-applets]({{< ref "/f41/package/mate-applets.md" >}}) | 210 | 16106 | 1.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-power-manager]({{< ref "/f41/package/mate-power-manager.md" >}}) | 65 | 5123 | 1.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [pidgin]({{< ref "/f41/package/pidgin.md" >}}) | 122 | 13994 | 0.9 | Kurdish (Iraq) (http://app.transifex.com/pidgin/pidgin/language/ku_IQ/) | 
- | [deepin-daemon]({{< ref "/f41/package/deepin-daemon.md" >}}) | 10 | 1222 | 0.8 | Kurdish (Iraq) (https://app.transifex.com/linuxdeepin/teams/3617/ku_IQ/) | 
- | [marco]({{< ref "/f41/package/marco.md" >}}) | 32 | 4171 | 0.8 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [minetest]({{< ref "/f41/package/minetest.md" >}}) | 54 | 10452 | 0.5 | Kurdish (Northern) <https://hosted.weblate.org/projects/minetest/minetest/kmr/> | 
- | [cpu-x]({{< ref "/f41/package/cpu-x.md" >}}) | 8 | 1711 | 0.5 | Kurdish (Northern) <https://hosted.weblate.org/projects/cpu-x/translations/kmr/> | 
- | [pluma-plugins]({{< ref "/f41/package/pluma-plugins.md" >}}) | 2 | 631 | 0.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [caja-actions]({{< ref "/f41/package/caja-actions.md" >}}) | 50 | 18812 | 0.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-user-guide]({{< ref "/f41/package/mate-user-guide.md" >}}) | 70 | 40822 | 0.2 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
- | [mate-themes]({{< ref "/f41/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Kurdish (Iraq) (http://app.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [dialect](/f41/package/dialect) | 704 | 969 | 72.7 |  | 
+ | [mate-menu](/f41/package/mate-menu) | 125 | 308 | 40.6 | Kurdish (Iraq) (http://www.transifex.com/mate/MATE/language/ku_IQ/) | 
+ | [mozo](/f41/package/mozo) | 16 | 46 | 34.8 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-menus](/f41/package/mate-menus) | 34 | 103 | 33.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-icon-theme](/f41/package/mate-icon-theme) | 1 | 4 | 25.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [libmateweather](/f41/package/libmateweather) | 124 | 500 | 24.8 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [python-caja](/f41/package/python-caja) | 1 | 6 | 16.7 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [libmatemixer](/f41/package/libmatemixer) | 27 | 242 | 11.2 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-media](/f41/package/mate-media) | 27 | 244 | 11.1 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [libmatekbd](/f41/package/libmatekbd) | 28 | 308 | 9.1 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-calc](/f41/package/mate-calc) | 301 | 3327 | 9.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [caja](/f41/package/caja) | 856 | 10156 | 8.4 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [vlc](/f41/package/vlc) | 2830 | 34779 | 8.1 | Kurdish (Iraq) (https://app.transifex.com/yaron/teams/16553/ku_IQ/) | 
+ | [mate-session-manager](/f41/package/mate-session-manager) | 53 | 717 | 7.4 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [eom](/f41/package/eom) | 124 | 1779 | 7.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [atril](/f41/package/atril) | 290 | 4364 | 6.6 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-notification-daemon](/f41/package/mate-notification-daemon) | 12 | 186 | 6.5 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [engrampa](/f41/package/engrampa) | 128 | 2026 | 6.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [iso-codes](/f41/package/iso-codes) | 932 | 15032 | 6.2 | Kurdish (Northern) <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kmr/> | 
+ | [caja-extensions](/f41/package/caja-extensions) | 37 | 845 | 4.4 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-backgrounds](/f41/package/mate-backgrounds) | 2 | 55 | 3.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-polkit](/f41/package/mate-polkit) | 4 | 123 | 3.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-screensaver](/f41/package/mate-screensaver) | 33 | 1101 | 3.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-panel](/f41/package/mate-panel) | 151 | 5590 | 2.7 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [pluma](/f41/package/pluma) | 356 | 13379 | 2.7 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-terminal](/f41/package/mate-terminal) | 212 | 8238 | 2.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-control-center](/f41/package/mate-control-center) | 212 | 8260 | 2.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-desktop](/f41/package/mate-desktop) | 60 | 2412 | 2.5 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-utils](/f41/package/mate-utils) | 215 | 9901 | 2.2 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-sensors-applet](/f41/package/mate-sensors-applet) | 44 | 2160 | 2.0 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-user-admin](/f41/package/mate-user-admin) | 10 | 605 | 1.7 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-settings-daemon](/f41/package/mate-settings-daemon) | 35 | 2203 | 1.6 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-system-monitor](/f41/package/mate-system-monitor) | 72 | 4894 | 1.5 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-applets](/f41/package/mate-applets) | 210 | 16106 | 1.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-power-manager](/f41/package/mate-power-manager) | 65 | 5123 | 1.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [pidgin](/f41/package/pidgin) | 122 | 13994 | 0.9 | Kurdish (Iraq) (http://app.transifex.com/pidgin/pidgin/language/ku_IQ/) | 
+ | [deepin-daemon](/f41/package/deepin-daemon) | 10 | 1222 | 0.8 | Kurdish (Iraq) (https://app.transifex.com/linuxdeepin/teams/3617/ku_IQ/) | 
+ | [marco](/f41/package/marco) | 32 | 4171 | 0.8 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [minetest](/f41/package/minetest) | 54 | 10452 | 0.5 | Kurdish (Northern) <https://hosted.weblate.org/projects/minetest/minetest/kmr/> | 
+ | [cpu-x](/f41/package/cpu-x) | 8 | 1711 | 0.5 | Kurdish (Northern) <https://hosted.weblate.org/projects/cpu-x/translations/kmr/> | 
+ | [pluma-plugins](/f41/package/pluma-plugins) | 2 | 631 | 0.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [caja-actions](/f41/package/caja-actions) | 50 | 18812 | 0.3 | Kurdish (Iraq) (https://app.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-user-guide](/f41/package/mate-user-guide) | 70 | 40822 | 0.2 | Kurdish (Iraq) (https://www.transifex.com/mate/teams/13566/ku_IQ/) | 
+ | [mate-themes](/f41/package/mate-themes) | 0 | 74 | 0.0 | Kurdish (Iraq) (http://app.transifex.com/mate/MATE/language/ku_IQ/) | 
 {.sortable}
 
 

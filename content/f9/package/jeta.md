@@ -18,12 +18,12 @@ The package jeta (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 202 | 202 | 100.0 | /mnt/stockage/packages/f9/jeta/po/de_DE.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/cs_CZ.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/es_ES.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/fi_FI.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/ro_RO.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/zh_TW.po | 
+ | [de](/f9/language/de) | 202 | 202 | 100.0 | /mnt/stockage/packages/f9/jeta/po/de_DE.po | 
+ | [cs](/f9/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/cs_CZ.po | 
+ | [es](/f9/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/es_ES.po | 
+ | [fi](/f9/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/fi_FI.po | 
+ | [ro](/f9/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/ro_RO.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/jeta/po/zh_TW.po | 
 {.sortable}
 
 

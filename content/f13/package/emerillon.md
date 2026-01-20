@@ -18,18 +18,18 @@ The package emerillon (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/ar.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/da.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/fr.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/id.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/ja.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/pt_BR.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/sl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/sv.po | 
- | [lv]({{< ref "/f13/language/lv.md" >}}) | 246 | 359 | 68.5 | /mnt/stockage/packages/f13/emerillon/po/lv.po | 
- | [is]({{< ref "/f13/language/is.md" >}}) | 133 | 339 | 39.2 | /mnt/stockage/packages/f13/emerillon/po/is.po | 
+ | [ar](/f13/language/ar) | 339 | 339 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/ar.po | 
+ | [da](/f13/language/da) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/da.po | 
+ | [de](/f13/language/de) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/de.po | 
+ | [es](/f13/language/es) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/es.po | 
+ | [fr](/f13/language/fr) | 339 | 339 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/fr.po | 
+ | [id](/f13/language/id) | 339 | 339 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/id.po | 
+ | [ja](/f13/language/ja) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/ja.po | 
+ | [pt_BR](/f13/language/pt_BR) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/pt_BR.po | 
+ | [sl](/f13/language/sl) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/sl.po | 
+ | [sv](/f13/language/sv) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/emerillon/po/sv.po | 
+ | [lv](/f13/language/lv) | 246 | 359 | 68.5 | /mnt/stockage/packages/f13/emerillon/po/lv.po | 
+ | [is](/f13/language/is) | 133 | 339 | 39.2 | /mnt/stockage/packages/f13/emerillon/po/is.po | 
 {.sortable}
 
 

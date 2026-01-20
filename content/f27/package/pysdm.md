@@ -18,7 +18,7 @@ The package pysdm (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 516 | 526 | 98.1 | /mnt/stockage/packages/f27/pysdm/po/es.po | 
+ | [es](/f27/language/es) | 516 | 526 | 98.1 | /mnt/stockage/packages/f27/pysdm/po/es.po | 
 {.sortable}
 
 

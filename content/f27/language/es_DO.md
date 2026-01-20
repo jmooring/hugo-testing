@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f27/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f27/package/libmateweather.md" >}}) | 433 | 499 | 86.8 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-applets]({{< ref "/f27/package/mate-applets.md" >}}) | 1665 | 2489 | 66.9 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [openerp]({{< ref "/f27/package/openerp.md" >}}) | 7207 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [mate-sensors-applet]({{< ref "/f27/package/mate-sensors-applet.md" >}}) | 9 | 306 | 2.9 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-settings-daemon]({{< ref "/f27/package/mate-settings-daemon.md" >}}) | 43 | 1764 | 2.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-media]({{< ref "/f27/package/mate-media.md" >}}) | 4 | 226 | 1.8 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-system-monitor]({{< ref "/f27/package/mate-system-monitor.md" >}}) | 14 | 1333 | 1.1 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-panel]({{< ref "/f27/package/mate-panel.md" >}}) | 32 | 4364 | 0.7 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-control-center]({{< ref "/f27/package/mate-control-center.md" >}}) | 18 | 2658 | 0.7 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [eom]({{< ref "/f27/package/eom.md" >}}) | 10 | 1717 | 0.6 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [atril]({{< ref "/f27/package/atril.md" >}}) | 8 | 1792 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-session-manager]({{< ref "/f27/package/mate-session-manager.md" >}}) | 3 | 681 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [libmatekbd]({{< ref "/f27/package/libmatekbd.md" >}}) | 1 | 251 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-power-manager]({{< ref "/f27/package/mate-power-manager.md" >}}) | 10 | 2724 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [engrampa]({{< ref "/f27/package/engrampa.md" >}}) | 6 | 1945 | 0.3 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
- | [mate-menu]({{< ref "/f27/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
+ | [libgweather](/f27/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f27/package/libmateweather) | 433 | 499 | 86.8 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-applets](/f27/package/mate-applets) | 1665 | 2489 | 66.9 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [openerp7](/f27/package/openerp7) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [openerp](/f27/package/openerp) | 7207 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [mate-sensors-applet](/f27/package/mate-sensors-applet) | 9 | 306 | 2.9 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-settings-daemon](/f27/package/mate-settings-daemon) | 43 | 1764 | 2.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-media](/f27/package/mate-media) | 4 | 226 | 1.8 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-system-monitor](/f27/package/mate-system-monitor) | 14 | 1333 | 1.1 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-panel](/f27/package/mate-panel) | 32 | 4364 | 0.7 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-control-center](/f27/package/mate-control-center) | 18 | 2658 | 0.7 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [eom](/f27/package/eom) | 10 | 1717 | 0.6 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [atril](/f27/package/atril) | 8 | 1792 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-session-manager](/f27/package/mate-session-manager) | 3 | 681 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [libmatekbd](/f27/package/libmatekbd) | 1 | 251 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-power-manager](/f27/package/mate-power-manager) | 10 | 2724 | 0.4 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [engrampa](/f27/package/engrampa) | 6 | 1945 | 0.3 | Spanish (Dominican Republic) (https://www.transifex.com/mate/teams/13566/es_DO/) | 
+ | [mate-menu](/f27/package/mate-menu) | 0 | 316 | 0.0 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package gimp-resynthesizer (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f37/gimp-resynthesizer/po/fr.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 329 | 472 | 69.7 | /mnt/stockage/packages/f37/gimp-resynthesizer/po/ru.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 25 | 472 | 5.3 | /mnt/stockage/packages/f37/gimp-resynthesizer/po/es.po | 
+ | [fr](/f37/language/fr) | 472 | 472 | 100.0 | /mnt/stockage/packages/f37/gimp-resynthesizer/po/fr.po | 
+ | [ru](/f37/language/ru) | 329 | 472 | 69.7 | /mnt/stockage/packages/f37/gimp-resynthesizer/po/ru.po | 
+ | [es](/f37/language/es) | 25 | 472 | 5.3 | /mnt/stockage/packages/f37/gimp-resynthesizer/po/es.po | 
 {.sortable}
 
 

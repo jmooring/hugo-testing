@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f13/package/tuxpaint.md" >}}) | 489 | 1247 | 39.2 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f13/package/koffice-kivio.md" >}}) | 1896 | 8417 | 22.5 | <en@li.org> | 
- | [iso-codes]({{< ref "/f13/package/iso-codes.md" >}}) | 321 | 18496 | 1.7 | Venda <venda@translate.org.za> | 
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 24 | 2424 | 1.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [tuxpaint](/f13/package/tuxpaint) | 489 | 1247 | 39.2 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f13/package/koffice-kivio) | 1896 | 8417 | 22.5 | <en@li.org> | 
+ | [iso-codes](/f13/package/iso-codes) | 321 | 18496 | 1.7 | Venda <venda@translate.org.za> | 
+ | [pootle](/f13/package/pootle) | 24 | 2424 | 1.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

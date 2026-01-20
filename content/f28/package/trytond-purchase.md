@@ -18,26 +18,26 @@ The package trytond-purchase (version 4.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/ca_ES.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/de_DE.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_ES.po | 
- | [es_AR]({{< ref "/f28/language/es_AR.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_AR.po | 
- | [es_CO]({{< ref "/f28/language/es_CO.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_CO.po | 
- | [es_EC]({{< ref "/f28/language/es_EC.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_EC.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/fr_FR.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/sl_SI.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 552 | 571 | 96.7 | /mnt/stockage/packages/f28/trytond-purchase/locale/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 524 | 571 | 91.8 | /mnt/stockage/packages/f28/trytond-purchase/locale/ru_RU.po | 
- | [es_MX]({{< ref "/f28/language/es_MX.md" >}}) | 476 | 571 | 83.4 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_MX.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 453 | 571 | 79.3 | /mnt/stockage/packages/f28/trytond-purchase/locale/bg_BG.po | 
- | [lo]({{< ref "/f28/language/lo.md" >}}) | 65 | 571 | 11.4 | /mnt/stockage/packages/f28/trytond-purchase/locale/lo_LA.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/cs_CZ.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/hu_HU.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/it_IT.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/ja_JP.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/lt_LT.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/zh_CN.po | 
+ | [ca](/f28/language/ca) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/ca_ES.po | 
+ | [de](/f28/language/de) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/de_DE.po | 
+ | [es](/f28/language/es) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_ES.po | 
+ | [es_AR](/f28/language/es_AR) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_AR.po | 
+ | [es_CO](/f28/language/es_CO) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_CO.po | 
+ | [es_EC](/f28/language/es_EC) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_EC.po | 
+ | [fr](/f28/language/fr) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/fr_FR.po | 
+ | [sl](/f28/language/sl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/sl_SI.po | 
+ | [pt_BR](/f28/language/pt_BR) | 552 | 571 | 96.7 | /mnt/stockage/packages/f28/trytond-purchase/locale/pt_BR.po | 
+ | [ru](/f28/language/ru) | 524 | 571 | 91.8 | /mnt/stockage/packages/f28/trytond-purchase/locale/ru_RU.po | 
+ | [es_MX](/f28/language/es_MX) | 476 | 571 | 83.4 | /mnt/stockage/packages/f28/trytond-purchase/locale/es_MX.po | 
+ | [bg](/f28/language/bg) | 453 | 571 | 79.3 | /mnt/stockage/packages/f28/trytond-purchase/locale/bg_BG.po | 
+ | [lo](/f28/language/lo) | 65 | 571 | 11.4 | /mnt/stockage/packages/f28/trytond-purchase/locale/lo_LA.po | 
+ | [cs](/f28/language/cs) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/cs_CZ.po | 
+ | [hu](/f28/language/hu) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/hu_HU.po | 
+ | [it](/f28/language/it) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/it_IT.po | 
+ | [ja](/f28/language/ja) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/ja_JP.po | 
+ | [lt](/f28/language/lt) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/lt_LT.po | 
+ | [nl](/f28/language/nl) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/nl_NL.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 0 | 571 | 0.0 | /mnt/stockage/packages/f28/trytond-purchase/locale/zh_CN.po | 
 {.sortable}
 
 

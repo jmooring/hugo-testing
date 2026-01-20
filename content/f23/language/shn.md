@@ -39,13 +39,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [shutter]({{< ref "/f23/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 15 | 1923 | 0.8 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f23/package/cinnamon-translations.md" >}}) | 15 | 13441 | 0.1 | Shan <shn@li.org> | 
- | [deja-dup]({{< ref "/f23/package/deja-dup.md" >}}) | 0 | 2011 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f23/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
- | [remmina]({{< ref "/f23/package/remmina.md" >}}) | 0 | 1150 | 0.0 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f23/package/simple-scan.md" >}}) | 0 | 639 | 0.0 | Shan <shn@li.org> | 
+ | [shutter](/f23/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [mintmenu](/f23/package/mintmenu) | 15 | 1923 | 0.8 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f23/package/cinnamon-translations) | 15 | 13441 | 0.1 | Shan <shn@li.org> | 
+ | [deja-dup](/f23/package/deja-dup) | 0 | 2011 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f23/package/lightdm) | 0 | 79 | 0.0 | Shan <shn@li.org> | 
+ | [remmina](/f23/package/remmina) | 0 | 1150 | 0.0 | Shan <shn@li.org> | 
+ | [simple-scan](/f23/package/simple-scan) | 0 | 639 | 0.0 | Shan <shn@li.org> | 
 {.sortable}
 
 

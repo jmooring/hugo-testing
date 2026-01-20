@@ -18,15 +18,15 @@ The package davix (version 0.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 674 | 686 | 98.3 | /mnt/stockage/packages/f38/davix/deps/libneon/po/pl.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 488 | 686 | 71.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/zh_CN.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/cs.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/de.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/nn.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/tr.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 32 | 686 | 4.7 | /mnt/stockage/packages/f38/davix/deps/libneon/po/ja.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 0 | 686 | 0.0 | /mnt/stockage/packages/f38/davix/deps/libneon/po/fr.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 0 | 686 | 0.0 | /mnt/stockage/packages/f38/davix/deps/libneon/po/ru.po | 
+ | [pl](/f38/language/pl) | 674 | 686 | 98.3 | /mnt/stockage/packages/f38/davix/deps/libneon/po/pl.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 488 | 686 | 71.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/zh_CN.po | 
+ | [cs](/f38/language/cs) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/cs.po | 
+ | [de](/f38/language/de) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/de.po | 
+ | [nn](/f38/language/nn) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/nn.po | 
+ | [tr](/f38/language/tr) | 76 | 686 | 11.1 | /mnt/stockage/packages/f38/davix/deps/libneon/po/tr.po | 
+ | [ja](/f38/language/ja) | 32 | 686 | 4.7 | /mnt/stockage/packages/f38/davix/deps/libneon/po/ja.po | 
+ | [fr](/f38/language/fr) | 0 | 686 | 0.0 | /mnt/stockage/packages/f38/davix/deps/libneon/po/fr.po | 
+ | [ru](/f38/language/ru) | 0 | 686 | 0.0 | /mnt/stockage/packages/f38/davix/deps/libneon/po/ru.po | 
 {.sortable}
 
 

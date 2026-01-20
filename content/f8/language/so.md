@@ -43,8 +43,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcompris]({{< ref "/f8/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 130 | 12408 | 1.0 | Somali | 
+ | [gcompris](/f8/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f8/package/iso-codes) | 130 | 12408 | 1.0 | Somali | 
 {.sortable}
 
 

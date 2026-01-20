@@ -18,12 +18,12 @@ The package appeditor (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 206 | 206 | 100.0 | /mnt/stockage/packages/f27/appeditor/po/pt_BR.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 324 | 328 | 98.8 | /mnt/stockage/packages/f27/appeditor/po/ja.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 249 | 296 | 84.1 | /mnt/stockage/packages/f27/appeditor/po/ru.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 194 | 296 | 65.5 | /mnt/stockage/packages/f27/appeditor/po/es.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 188 | 296 | 63.5 | /mnt/stockage/packages/f27/appeditor/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 176 | 296 | 59.5 | /mnt/stockage/packages/f27/appeditor/po/fr.po | 
+ | [pt_BR](/f27/language/pt_BR) | 206 | 206 | 100.0 | /mnt/stockage/packages/f27/appeditor/po/pt_BR.po | 
+ | [ja](/f27/language/ja) | 324 | 328 | 98.8 | /mnt/stockage/packages/f27/appeditor/po/ja.po | 
+ | [ru](/f27/language/ru) | 249 | 296 | 84.1 | /mnt/stockage/packages/f27/appeditor/po/ru.po | 
+ | [es](/f27/language/es) | 194 | 296 | 65.5 | /mnt/stockage/packages/f27/appeditor/po/es.po | 
+ | [de](/f27/language/de) | 188 | 296 | 63.5 | /mnt/stockage/packages/f27/appeditor/po/de.po | 
+ | [fr](/f27/language/fr) | 176 | 296 | 59.5 | /mnt/stockage/packages/f27/appeditor/po/fr.po | 
 {.sortable}
 
 

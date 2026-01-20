@@ -18,8 +18,8 @@ The package python-zope-i18n (version 3.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/de-default.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale/de/LC_MESSAGES/zope-i18n.po | 
- | [en]({{< ref "/f16/language/en.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/en-default.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/en-alt.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale/en/LC_MESSAGES/zope-i18n.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale2/en/LC_MESSAGES/zope-i18n.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale3/en/LC_MESSAGES/zope-i18n.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale3/en/LC_MESSAGES/zope-i18n2.po | 
+ | [de](/f16/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/de-default.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale/de/LC_MESSAGES/zope-i18n.po | 
+ | [en](/f16/language/en) | 20 | 20 | 100.0 | /mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/en-default.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/en-alt.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale/en/LC_MESSAGES/zope-i18n.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale2/en/LC_MESSAGES/zope-i18n.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale3/en/LC_MESSAGES/zope-i18n.po/mnt/stockage/packages/f16/python-zope-i18n/src/zope/i18n/tests/locale3/en/LC_MESSAGES/zope-i18n2.po | 
 {.sortable}
 
 

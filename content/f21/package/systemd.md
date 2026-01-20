@@ -18,13 +18,13 @@ The package systemd (version 216):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/el.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 671 | 671 | 100.0 | /mnt/stockage/packages/f21/systemd/po/fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/it.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 671 | 671 | 100.0 | /mnt/stockage/packages/f21/systemd/po/pl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 671 | 671 | 100.0 | /mnt/stockage/packages/f21/systemd/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/uk.po | 
+ | [de](/f21/language/de) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/de.po | 
+ | [el](/f21/language/el) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/el.po | 
+ | [fr](/f21/language/fr) | 671 | 671 | 100.0 | /mnt/stockage/packages/f21/systemd/po/fr.po | 
+ | [it](/f21/language/it) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/it.po | 
+ | [pl](/f21/language/pl) | 671 | 671 | 100.0 | /mnt/stockage/packages/f21/systemd/po/pl.po | 
+ | [ru](/f21/language/ru) | 671 | 671 | 100.0 | /mnt/stockage/packages/f21/systemd/po/ru.po | 
+ | [uk](/f21/language/uk) | 629 | 629 | 100.0 | /mnt/stockage/packages/f21/systemd/po/uk.po | 
 {.sortable}
 
 

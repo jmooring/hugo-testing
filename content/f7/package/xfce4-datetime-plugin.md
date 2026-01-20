@@ -18,8 +18,8 @@ The package xfce4-datetime-plugin (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f7/xfce4-datetime-plugin/po/nl.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 34 | 48 | 70.8 | /mnt/stockage/packages/f7/xfce4-datetime-plugin/po/hu.po | 
+ | [nl](/f7/language/nl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f7/xfce4-datetime-plugin/po/nl.po | 
+ | [hu](/f7/language/hu) | 34 | 48 | 70.8 | /mnt/stockage/packages/f7/xfce4-datetime-plugin/po/hu.po | 
 {.sortable}
 
 

@@ -39,13 +39,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f10/package/davfs2.md" >}}) | 5280 | 5280 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f10/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [kde-l10n]({{< ref "/f10/package/kde-l10n.md" >}}) | 183 | 183 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
- | [pida]({{< ref "/f10/package/pida.md" >}}) | 7 | 7 | 100.0 |  | 
- | [shadow-utils]({{< ref "/f10/package/shadow-utils.md" >}}) | 8994 | 13223 | 68.0 | debian-l10n-german <http://lists.debian.org/debian-l10n-german/> | 
- | [po4a]({{< ref "/f10/package/po4a.md" >}}) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f10/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f10/package/davfs2) | 5280 | 5280 | 100.0 |  | 
+ | [kde-i18n](/f10/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [kde-l10n](/f10/package/kde-l10n) | 183 | 183 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [pida](/f10/package/pida) | 7 | 7 | 100.0 |  | 
+ | [shadow-utils](/f10/package/shadow-utils) | 8994 | 13223 | 68.0 | debian-l10n-german <http://lists.debian.org/debian-l10n-german/> | 
+ | [po4a](/f10/package/po4a) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f10/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

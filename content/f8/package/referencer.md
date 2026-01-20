@@ -18,11 +18,11 @@ The package referencer (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f8/language/it.md" >}}) | 607 | 607 | 100.0 | /mnt/stockage/packages/f8/referencer/po/it.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 604 | 607 | 99.5 | /mnt/stockage/packages/f8/referencer/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 604 | 607 | 99.5 | /mnt/stockage/packages/f8/referencer/po/es.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 27 | 607 | 4.4 | /mnt/stockage/packages/f8/referencer/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 22 | 607 | 3.6 | /mnt/stockage/packages/f8/referencer/po/pt_BR.po | 
+ | [it](/f8/language/it) | 607 | 607 | 100.0 | /mnt/stockage/packages/f8/referencer/po/it.po | 
+ | [de](/f8/language/de) | 604 | 607 | 99.5 | /mnt/stockage/packages/f8/referencer/po/de.po | 
+ | [es](/f8/language/es) | 604 | 607 | 99.5 | /mnt/stockage/packages/f8/referencer/po/es.po | 
+ | [pt](/f8/language/pt) | 27 | 607 | 4.4 | /mnt/stockage/packages/f8/referencer/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 22 | 607 | 3.6 | /mnt/stockage/packages/f8/referencer/po/pt_BR.po | 
 {.sortable}
 
 

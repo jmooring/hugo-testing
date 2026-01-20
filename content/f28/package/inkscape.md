@@ -18,87 +18,87 @@ The package inkscape (version 0.92.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/fr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/hu.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/uk.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 37943 | 38214 | 99.3 | /mnt/stockage/packages/f28/inkscape/po/ko.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 37873 | 38214 | 99.1 | /mnt/stockage/packages/f28/inkscape/po/en_GB.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 37222 | 38214 | 97.4 | /mnt/stockage/packages/f28/inkscape/po/lv.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 36824 | 38214 | 96.4 | /mnt/stockage/packages/f28/inkscape/po/sk.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 36817 | 38214 | 96.3 | /mnt/stockage/packages/f28/inkscape/po/nl.po | 
- | [pt_PT]({{< ref "/f28/language/pt_PT.md" >}}) | 36817 | 38214 | 96.3 | /mnt/stockage/packages/f28/inkscape/po/pt.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 35228 | 38214 | 92.2 | /mnt/stockage/packages/f28/inkscape/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 34905 | 38214 | 91.3 | /mnt/stockage/packages/f28/inkscape/po/zh_CN.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 34851 | 38214 | 91.2 | /mnt/stockage/packages/f28/inkscape/po/el.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 33890 | 38214 | 88.7 | /mnt/stockage/packages/f28/inkscape/po/it.po | 
- | [br]({{< ref "/f28/language/br.md" >}}) | 33592 | 38214 | 87.9 | /mnt/stockage/packages/f28/inkscape/po/br.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 32683 | 38214 | 85.5 | /mnt/stockage/packages/f28/inkscape/po/eu.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 31749 | 38214 | 83.1 | /mnt/stockage/packages/f28/inkscape/po/ja.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 58641 | 76428 | 76.7 | /mnt/stockage/packages/f28/inkscape/po/ca@valencia.po/mnt/stockage/packages/f28/inkscape/po/ca.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 27561 | 38214 | 72.1 | /mnt/stockage/packages/f28/inkscape/po/is.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 25937 | 38214 | 67.9 | /mnt/stockage/packages/f28/inkscape/po/ru.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 25083 | 38214 | 65.6 | /mnt/stockage/packages/f28/inkscape/po/sl.po | 
- | [as]({{< ref "/f28/language/as.md" >}}) | 24394 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/as.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 24394 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/hi.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 24394 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/or.po | 
- | [kn]({{< ref "/f28/language/kn.md" >}}) | 24392 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/kn.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 24392 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/ta.po | 
- | [mai]({{< ref "/f28/language/mai.md" >}}) | 24379 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/mai.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 23910 | 38214 | 62.6 | /mnt/stockage/packages/f28/inkscape/po/km.po | 
- | [sa]({{< ref "/f28/language/sa.md" >}}) | 23515 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/sa.po | 
- | [mni]({{< ref "/f28/language/mni.md" >}}) | 23509 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/mni.po | 
- | [sd]({{< ref "/f28/language/sd.md" >}}) | 23508 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/sd.po | 
- | [brx]({{< ref "/f28/language/brx.md" >}}) | 23504 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/brx.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 23503 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/mr.po | 
- | [ml]({{< ref "/f28/language/ml.md" >}}) | 23373 | 38214 | 61.2 | /mnt/stockage/packages/f28/inkscape/po/ml.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 23244 | 38214 | 60.8 | /mnt/stockage/packages/f28/inkscape/po/gu.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 23216 | 38214 | 60.8 | /mnt/stockage/packages/f28/inkscape/po/pl.po | 
- | [kok]({{< ref "/f28/language/kok.md" >}}) | 23017 | 38214 | 60.2 | /mnt/stockage/packages/f28/inkscape/po/kok.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 22912 | 38214 | 60.0 | /mnt/stockage/packages/f28/inkscape/po/he.po | 
- | [error]({{< ref "/f28/language/error.md" >}}) | 153274 | 267498 | 57.3 | /mnt/stockage/packages/f28/inkscape/po/sd@deva.po/mnt/stockage/packages/f28/inkscape/po/sat@deva.po/mnt/stockage/packages/f28/inkscape/po/mni@beng.po/mnt/stockage/packages/f28/inkscape/po/ks@deva.po/mnt/stockage/packages/f28/inkscape/po/ks@aran.po/mnt/stockage/packages/f28/inkscape/po/kok@latin.po/mnt/stockage/packages/f28/inkscape/po/en_US@piglatin.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 21266 | 38214 | 55.6 | /mnt/stockage/packages/f28/inkscape/po/be.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 21644 | 38966 | 55.5 | /mnt/stockage/packages/f28/inkscape/po/pt_BR.po | 
- | [doi]({{< ref "/f28/language/doi.md" >}}) | 21173 | 38214 | 55.4 | /mnt/stockage/packages/f28/inkscape/po/doi.po | 
- | [ur]({{< ref "/f28/language/ur.md" >}}) | 21173 | 38214 | 55.4 | /mnt/stockage/packages/f28/inkscape/po/ur.po | 
- | [sat]({{< ref "/f28/language/sat.md" >}}) | 21155 | 38214 | 55.4 | /mnt/stockage/packages/f28/inkscape/po/sat.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 20626 | 38214 | 54.0 | /mnt/stockage/packages/f28/inkscape/po/vi.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 20021 | 38214 | 52.4 | /mnt/stockage/packages/f28/inkscape/po/id.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 35351 | 76428 | 46.3 | /mnt/stockage/packages/f28/inkscape/po/sr@latin.po/mnt/stockage/packages/f28/inkscape/po/sr.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 16754 | 38214 | 43.8 | /mnt/stockage/packages/f28/inkscape/po/cs.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 16518 | 38214 | 43.2 | /mnt/stockage/packages/f28/inkscape/po/gl.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 16258 | 38214 | 42.5 | /mnt/stockage/packages/f28/inkscape/po/ro.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 15071 | 38214 | 39.4 | /mnt/stockage/packages/f28/inkscape/po/sv.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 14924 | 38214 | 39.1 | /mnt/stockage/packages/f28/inkscape/po/fi.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 14693 | 38214 | 38.4 | /mnt/stockage/packages/f28/inkscape/po/ar.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 13405 | 38214 | 35.1 | /mnt/stockage/packages/f28/inkscape/po/eo.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 26572 | 76428 | 34.8 | /mnt/stockage/packages/f28/inkscape/po/bn_BD.po/mnt/stockage/packages/f28/inkscape/po/bn.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 11039 | 38214 | 28.9 | /mnt/stockage/packages/f28/inkscape/po/et.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 10495 | 38214 | 27.5 | /mnt/stockage/packages/f28/inkscape/po/nb.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 10201 | 38214 | 26.7 | /mnt/stockage/packages/f28/inkscape/po/hr.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 9868 | 38214 | 25.8 | /mnt/stockage/packages/f28/inkscape/po/bg.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 8073 | 38214 | 21.1 | /mnt/stockage/packages/f28/inkscape/po/lt.po | 
- | [dz]({{< ref "/f28/language/dz.md" >}}) | 7898 | 38214 | 20.7 | /mnt/stockage/packages/f28/inkscape/po/dz.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 7681 | 38214 | 20.1 | /mnt/stockage/packages/f28/inkscape/po/da.po | 
- | [ne]({{< ref "/f28/language/ne.md" >}}) | 6381 | 38214 | 16.7 | /mnt/stockage/packages/f28/inkscape/po/ne.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 5548 | 38214 | 14.5 | /mnt/stockage/packages/f28/inkscape/po/tr.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 5237 | 38214 | 13.7 | /mnt/stockage/packages/f28/inkscape/po/nn.po | 
- | [en_AU]({{< ref "/f28/language/en_AU.md" >}}) | 5010 | 38214 | 13.1 | /mnt/stockage/packages/f28/inkscape/po/en_AU.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 3011 | 38214 | 7.9 | /mnt/stockage/packages/f28/inkscape/po/th.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 2681 | 38214 | 7.0 | /mnt/stockage/packages/f28/inkscape/po/fa.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 1837 | 38214 | 4.8 | /mnt/stockage/packages/f28/inkscape/po/pa.po | 
- | [hy]({{< ref "/f28/language/hy.md" >}}) | 1280 | 38214 | 3.3 | /mnt/stockage/packages/f28/inkscape/po/hy.po | 
- | [te]({{< ref "/f28/language/te.md" >}}) | 680 | 38214 | 1.8 | /mnt/stockage/packages/f28/inkscape/po/te.po | 
- | [es_MX]({{< ref "/f28/language/es_MX.md" >}}) | 638 | 38214 | 1.7 | /mnt/stockage/packages/f28/inkscape/po/es_MX.po | 
- | [en_CA]({{< ref "/f28/language/en_CA.md" >}}) | 291 | 38214 | 0.8 | /mnt/stockage/packages/f28/inkscape/po/en_CA.po | 
- | [mn]({{< ref "/f28/language/mn.md" >}}) | 290 | 38214 | 0.8 | /mnt/stockage/packages/f28/inkscape/po/mn.po | 
- | [az]({{< ref "/f28/language/az.md" >}}) | 276 | 38214 | 0.7 | /mnt/stockage/packages/f28/inkscape/po/az.po | 
- | [sq]({{< ref "/f28/language/sq.md" >}}) | 65 | 38214 | 0.2 | /mnt/stockage/packages/f28/inkscape/po/sq.po | 
- | [rw]({{< ref "/f28/language/rw.md" >}}) | 63 | 38214 | 0.2 | /mnt/stockage/packages/f28/inkscape/po/rw.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 51 | 38214 | 0.1 | /mnt/stockage/packages/f28/inkscape/po/ga.po | 
- | [am]({{< ref "/f28/language/am.md" >}}) | 0 | 38214 | 0.0 | /mnt/stockage/packages/f28/inkscape/po/am.po | 
- | [mk]({{< ref "/f28/language/mk.md" >}}) | 0 | 38214 | 0.0 | /mnt/stockage/packages/f28/inkscape/po/mk.po | 
+ | [de](/f28/language/de) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/de.po | 
+ | [es](/f28/language/es) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/es.po | 
+ | [fr](/f28/language/fr) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/fr.po | 
+ | [hu](/f28/language/hu) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/hu.po | 
+ | [uk](/f28/language/uk) | 38214 | 38214 | 100.0 | /mnt/stockage/packages/f28/inkscape/po/uk.po | 
+ | [ko](/f28/language/ko) | 37943 | 38214 | 99.3 | /mnt/stockage/packages/f28/inkscape/po/ko.po | 
+ | [en_GB](/f28/language/en_GB) | 37873 | 38214 | 99.1 | /mnt/stockage/packages/f28/inkscape/po/en_GB.po | 
+ | [lv](/f28/language/lv) | 37222 | 38214 | 97.4 | /mnt/stockage/packages/f28/inkscape/po/lv.po | 
+ | [sk](/f28/language/sk) | 36824 | 38214 | 96.4 | /mnt/stockage/packages/f28/inkscape/po/sk.po | 
+ | [nl](/f28/language/nl) | 36817 | 38214 | 96.3 | /mnt/stockage/packages/f28/inkscape/po/nl.po | 
+ | [pt_PT](/f28/language/pt_PT) | 36817 | 38214 | 96.3 | /mnt/stockage/packages/f28/inkscape/po/pt.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 35228 | 38214 | 92.2 | /mnt/stockage/packages/f28/inkscape/po/zh_TW.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 34905 | 38214 | 91.3 | /mnt/stockage/packages/f28/inkscape/po/zh_CN.po | 
+ | [el](/f28/language/el) | 34851 | 38214 | 91.2 | /mnt/stockage/packages/f28/inkscape/po/el.po | 
+ | [it](/f28/language/it) | 33890 | 38214 | 88.7 | /mnt/stockage/packages/f28/inkscape/po/it.po | 
+ | [br](/f28/language/br) | 33592 | 38214 | 87.9 | /mnt/stockage/packages/f28/inkscape/po/br.po | 
+ | [eu](/f28/language/eu) | 32683 | 38214 | 85.5 | /mnt/stockage/packages/f28/inkscape/po/eu.po | 
+ | [ja](/f28/language/ja) | 31749 | 38214 | 83.1 | /mnt/stockage/packages/f28/inkscape/po/ja.po | 
+ | [ca](/f28/language/ca) | 58641 | 76428 | 76.7 | /mnt/stockage/packages/f28/inkscape/po/ca@valencia.po/mnt/stockage/packages/f28/inkscape/po/ca.po | 
+ | [is](/f28/language/is) | 27561 | 38214 | 72.1 | /mnt/stockage/packages/f28/inkscape/po/is.po | 
+ | [ru](/f28/language/ru) | 25937 | 38214 | 67.9 | /mnt/stockage/packages/f28/inkscape/po/ru.po | 
+ | [sl](/f28/language/sl) | 25083 | 38214 | 65.6 | /mnt/stockage/packages/f28/inkscape/po/sl.po | 
+ | [as](/f28/language/as) | 24394 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/as.po | 
+ | [hi](/f28/language/hi) | 24394 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/hi.po | 
+ | [or](/f28/language/or) | 24394 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/or.po | 
+ | [kn](/f28/language/kn) | 24392 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/kn.po | 
+ | [ta](/f28/language/ta) | 24392 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/ta.po | 
+ | [mai](/f28/language/mai) | 24379 | 38214 | 63.8 | /mnt/stockage/packages/f28/inkscape/po/mai.po | 
+ | [km](/f28/language/km) | 23910 | 38214 | 62.6 | /mnt/stockage/packages/f28/inkscape/po/km.po | 
+ | [sa](/f28/language/sa) | 23515 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/sa.po | 
+ | [mni](/f28/language/mni) | 23509 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/mni.po | 
+ | [sd](/f28/language/sd) | 23508 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/sd.po | 
+ | [brx](/f28/language/brx) | 23504 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/brx.po | 
+ | [mr](/f28/language/mr) | 23503 | 38214 | 61.5 | /mnt/stockage/packages/f28/inkscape/po/mr.po | 
+ | [ml](/f28/language/ml) | 23373 | 38214 | 61.2 | /mnt/stockage/packages/f28/inkscape/po/ml.po | 
+ | [gu](/f28/language/gu) | 23244 | 38214 | 60.8 | /mnt/stockage/packages/f28/inkscape/po/gu.po | 
+ | [pl](/f28/language/pl) | 23216 | 38214 | 60.8 | /mnt/stockage/packages/f28/inkscape/po/pl.po | 
+ | [kok](/f28/language/kok) | 23017 | 38214 | 60.2 | /mnt/stockage/packages/f28/inkscape/po/kok.po | 
+ | [he](/f28/language/he) | 22912 | 38214 | 60.0 | /mnt/stockage/packages/f28/inkscape/po/he.po | 
+ | [error](/f28/language/error) | 153274 | 267498 | 57.3 | /mnt/stockage/packages/f28/inkscape/po/sd@deva.po/mnt/stockage/packages/f28/inkscape/po/sat@deva.po/mnt/stockage/packages/f28/inkscape/po/mni@beng.po/mnt/stockage/packages/f28/inkscape/po/ks@deva.po/mnt/stockage/packages/f28/inkscape/po/ks@aran.po/mnt/stockage/packages/f28/inkscape/po/kok@latin.po/mnt/stockage/packages/f28/inkscape/po/en_US@piglatin.po | 
+ | [be](/f28/language/be) | 21266 | 38214 | 55.6 | /mnt/stockage/packages/f28/inkscape/po/be.po | 
+ | [pt_BR](/f28/language/pt_BR) | 21644 | 38966 | 55.5 | /mnt/stockage/packages/f28/inkscape/po/pt_BR.po | 
+ | [doi](/f28/language/doi) | 21173 | 38214 | 55.4 | /mnt/stockage/packages/f28/inkscape/po/doi.po | 
+ | [ur](/f28/language/ur) | 21173 | 38214 | 55.4 | /mnt/stockage/packages/f28/inkscape/po/ur.po | 
+ | [sat](/f28/language/sat) | 21155 | 38214 | 55.4 | /mnt/stockage/packages/f28/inkscape/po/sat.po | 
+ | [vi](/f28/language/vi) | 20626 | 38214 | 54.0 | /mnt/stockage/packages/f28/inkscape/po/vi.po | 
+ | [id](/f28/language/id) | 20021 | 38214 | 52.4 | /mnt/stockage/packages/f28/inkscape/po/id.po | 
+ | [sr](/f28/language/sr) | 35351 | 76428 | 46.3 | /mnt/stockage/packages/f28/inkscape/po/sr@latin.po/mnt/stockage/packages/f28/inkscape/po/sr.po | 
+ | [cs](/f28/language/cs) | 16754 | 38214 | 43.8 | /mnt/stockage/packages/f28/inkscape/po/cs.po | 
+ | [gl](/f28/language/gl) | 16518 | 38214 | 43.2 | /mnt/stockage/packages/f28/inkscape/po/gl.po | 
+ | [ro](/f28/language/ro) | 16258 | 38214 | 42.5 | /mnt/stockage/packages/f28/inkscape/po/ro.po | 
+ | [sv](/f28/language/sv) | 15071 | 38214 | 39.4 | /mnt/stockage/packages/f28/inkscape/po/sv.po | 
+ | [fi](/f28/language/fi) | 14924 | 38214 | 39.1 | /mnt/stockage/packages/f28/inkscape/po/fi.po | 
+ | [ar](/f28/language/ar) | 14693 | 38214 | 38.4 | /mnt/stockage/packages/f28/inkscape/po/ar.po | 
+ | [eo](/f28/language/eo) | 13405 | 38214 | 35.1 | /mnt/stockage/packages/f28/inkscape/po/eo.po | 
+ | [bn](/f28/language/bn) | 26572 | 76428 | 34.8 | /mnt/stockage/packages/f28/inkscape/po/bn_BD.po/mnt/stockage/packages/f28/inkscape/po/bn.po | 
+ | [et](/f28/language/et) | 11039 | 38214 | 28.9 | /mnt/stockage/packages/f28/inkscape/po/et.po | 
+ | [nb_NO](/f28/language/nb_NO) | 10495 | 38214 | 27.5 | /mnt/stockage/packages/f28/inkscape/po/nb.po | 
+ | [hr](/f28/language/hr) | 10201 | 38214 | 26.7 | /mnt/stockage/packages/f28/inkscape/po/hr.po | 
+ | [bg](/f28/language/bg) | 9868 | 38214 | 25.8 | /mnt/stockage/packages/f28/inkscape/po/bg.po | 
+ | [lt](/f28/language/lt) | 8073 | 38214 | 21.1 | /mnt/stockage/packages/f28/inkscape/po/lt.po | 
+ | [dz](/f28/language/dz) | 7898 | 38214 | 20.7 | /mnt/stockage/packages/f28/inkscape/po/dz.po | 
+ | [da](/f28/language/da) | 7681 | 38214 | 20.1 | /mnt/stockage/packages/f28/inkscape/po/da.po | 
+ | [ne](/f28/language/ne) | 6381 | 38214 | 16.7 | /mnt/stockage/packages/f28/inkscape/po/ne.po | 
+ | [tr](/f28/language/tr) | 5548 | 38214 | 14.5 | /mnt/stockage/packages/f28/inkscape/po/tr.po | 
+ | [nn](/f28/language/nn) | 5237 | 38214 | 13.7 | /mnt/stockage/packages/f28/inkscape/po/nn.po | 
+ | [en_AU](/f28/language/en_AU) | 5010 | 38214 | 13.1 | /mnt/stockage/packages/f28/inkscape/po/en_AU.po | 
+ | [th](/f28/language/th) | 3011 | 38214 | 7.9 | /mnt/stockage/packages/f28/inkscape/po/th.po | 
+ | [fa](/f28/language/fa) | 2681 | 38214 | 7.0 | /mnt/stockage/packages/f28/inkscape/po/fa.po | 
+ | [pa](/f28/language/pa) | 1837 | 38214 | 4.8 | /mnt/stockage/packages/f28/inkscape/po/pa.po | 
+ | [hy](/f28/language/hy) | 1280 | 38214 | 3.3 | /mnt/stockage/packages/f28/inkscape/po/hy.po | 
+ | [te](/f28/language/te) | 680 | 38214 | 1.8 | /mnt/stockage/packages/f28/inkscape/po/te.po | 
+ | [es_MX](/f28/language/es_MX) | 638 | 38214 | 1.7 | /mnt/stockage/packages/f28/inkscape/po/es_MX.po | 
+ | [en_CA](/f28/language/en_CA) | 291 | 38214 | 0.8 | /mnt/stockage/packages/f28/inkscape/po/en_CA.po | 
+ | [mn](/f28/language/mn) | 290 | 38214 | 0.8 | /mnt/stockage/packages/f28/inkscape/po/mn.po | 
+ | [az](/f28/language/az) | 276 | 38214 | 0.7 | /mnt/stockage/packages/f28/inkscape/po/az.po | 
+ | [sq](/f28/language/sq) | 65 | 38214 | 0.2 | /mnt/stockage/packages/f28/inkscape/po/sq.po | 
+ | [rw](/f28/language/rw) | 63 | 38214 | 0.2 | /mnt/stockage/packages/f28/inkscape/po/rw.po | 
+ | [ga](/f28/language/ga) | 51 | 38214 | 0.1 | /mnt/stockage/packages/f28/inkscape/po/ga.po | 
+ | [am](/f28/language/am) | 0 | 38214 | 0.0 | /mnt/stockage/packages/f28/inkscape/po/am.po | 
+ | [mk](/f28/language/mk) | 0 | 38214 | 0.0 | /mnt/stockage/packages/f28/inkscape/po/mk.po | 
 {.sortable}
 
 

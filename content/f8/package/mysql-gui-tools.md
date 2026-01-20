@@ -18,12 +18,12 @@ The package mysql-gui-tools (version 5.0r12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 19503 | 20341 | 95.9 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/pl.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/pl.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 12650 | 20341 | 62.2 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/de.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/de.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/de.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 8060 | 20341 | 39.6 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/el_GR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/el_GR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/el_GR.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 101 | 18975 | 0.5 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/ja.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/ja.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 25 | 20341 | 0.1 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/pt_BR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/pt_BR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/pt_BR.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 0 | 20341 | 0.0 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/mysql-administrator-template.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/mysql-gui-common-template.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/mysql-query-browser-template.po | 
+ | [pl](/f8/language/pl) | 19503 | 20341 | 95.9 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/pl.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/pl.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/pl.po | 
+ | [de](/f8/language/de) | 12650 | 20341 | 62.2 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/de.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/de.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/de.po | 
+ | [el](/f8/language/el) | 8060 | 20341 | 39.6 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/el_GR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/el_GR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/el_GR.po | 
+ | [ja](/f8/language/ja) | 101 | 18975 | 0.5 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/ja.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/ja.po | 
+ | [pt_BR](/f8/language/pt_BR) | 25 | 20341 | 0.1 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/pt_BR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/pt_BR.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/pt_BR.po | 
+ | [error](/f8/language/error) | 0 | 20341 | 0.0 | /mnt/stockage/packages/f8/mysql-gui-tools/mysql-administrator/po/mysql-administrator-template.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-gui-common/po/mysql-gui-common-template.po/mnt/stockage/packages/f8/mysql-gui-tools/mysql-query-browser/po/mysql-query-browser-template.po | 
 {.sortable}
 
 

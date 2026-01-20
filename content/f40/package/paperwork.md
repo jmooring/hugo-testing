@@ -18,14 +18,14 @@ The package paperwork (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 5382 | 5402 | 99.6 | /mnt/stockage/packages/f40/paperwork/l10n/de.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 606 | 684 | 88.6 | /mnt/stockage/packages/f40/paperwork/l10n/es.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 3218 | 5339 | 60.3 | /mnt/stockage/packages/f40/paperwork/l10n/ca.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/ca.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1545 | 5402 | 28.6 | /mnt/stockage/packages/f40/paperwork/l10n/fr.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/fr.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 946 | 5402 | 17.5 | /mnt/stockage/packages/f40/paperwork/l10n/oc.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/oc.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 619 | 5253 | 11.8 | /mnt/stockage/packages/f40/paperwork/l10n/zh_Hans.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/zh_Hans.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 556 | 5253 | 10.6 | /mnt/stockage/packages/f40/paperwork/l10n/sv.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 0 | 684 | 0.0 | /mnt/stockage/packages/f40/paperwork/l10n/uk.po | 
+ | [de](/f40/language/de) | 5382 | 5402 | 99.6 | /mnt/stockage/packages/f40/paperwork/l10n/de.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/de.po | 
+ | [es](/f40/language/es) | 606 | 684 | 88.6 | /mnt/stockage/packages/f40/paperwork/l10n/es.po | 
+ | [ca](/f40/language/ca) | 3218 | 5339 | 60.3 | /mnt/stockage/packages/f40/paperwork/l10n/ca.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/ca.po | 
+ | [fr](/f40/language/fr) | 1545 | 5402 | 28.6 | /mnt/stockage/packages/f40/paperwork/l10n/fr.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/fr.po | 
+ | [oc](/f40/language/oc) | 946 | 5402 | 17.5 | /mnt/stockage/packages/f40/paperwork/l10n/oc.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/oc.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 619 | 5253 | 11.8 | /mnt/stockage/packages/f40/paperwork/l10n/zh_Hans.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/zh_Hans.po | 
+ | [sv](/f40/language/sv) | 556 | 5253 | 10.6 | /mnt/stockage/packages/f40/paperwork/l10n/sv.po/mnt/stockage/packages/f40/paperwork/src/paperwork_gtk/model/help/data/l10n/sv.po | 
+ | [uk](/f40/language/uk) | 0 | 684 | 0.0 | /mnt/stockage/packages/f40/paperwork/l10n/uk.po | 
 {.sortable}
 
 

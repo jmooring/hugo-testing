@@ -18,19 +18,19 @@ The package cockpit-podman (version 33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/cs.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/fr.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/ko.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/pl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/uk.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/zh_CN.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 448 | 494 | 90.7 | /mnt/stockage/packages/f33/cockpit-podman/po/pt_PT.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 345 | 494 | 69.8 | /mnt/stockage/packages/f33/cockpit-podman/po/sk.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 332 | 494 | 67.2 | /mnt/stockage/packages/f33/cockpit-podman/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 238 | 494 | 48.2 | /mnt/stockage/packages/f33/cockpit-podman/po/es.po | 
+ | [cs](/f33/language/cs) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/cs.po | 
+ | [fr](/f33/language/fr) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/fr.po | 
+ | [ja](/f33/language/ja) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/ja.po | 
+ | [ko](/f33/language/ko) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/ko.po | 
+ | [pl](/f33/language/pl) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/pl.po | 
+ | [sv](/f33/language/sv) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/sv.po | 
+ | [tr](/f33/language/tr) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/tr.po | 
+ | [uk](/f33/language/uk) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/uk.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 494 | 494 | 100.0 | /mnt/stockage/packages/f33/cockpit-podman/po/zh_CN.po | 
+ | [pt_PT](/f33/language/pt_PT) | 448 | 494 | 90.7 | /mnt/stockage/packages/f33/cockpit-podman/po/pt_PT.po | 
+ | [sk](/f33/language/sk) | 345 | 494 | 69.8 | /mnt/stockage/packages/f33/cockpit-podman/po/sk.po | 
+ | [de](/f33/language/de) | 332 | 494 | 67.2 | /mnt/stockage/packages/f33/cockpit-podman/po/de.po | 
+ | [es](/f33/language/es) | 238 | 494 | 48.2 | /mnt/stockage/packages/f33/cockpit-podman/po/es.po | 
 {.sortable}
 
 

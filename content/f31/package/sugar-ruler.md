@@ -18,106 +18,106 @@ The package sugar-ruler (version 33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f31/language/ayc.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ayc.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/da.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/en.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/en_GB.po | 
- | [en_US]({{< ref "/f31/language/en_US.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/en_US.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fr.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/hy.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ne.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pt.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/zh_CN.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/el.po | 
- | [mi]({{< ref "/f31/language/mi.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/mi.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/pl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/sr.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/ta.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/th.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/zh_TW.po | 
- | [error]({{< ref "/f31/language/error.md" >}}) | 29 | 116 | 25.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tzo.po/mnt/stockage/packages/f31/sugar-ruler/po/quy.po/mnt/stockage/packages/f31/sugar-ruler/po/pbs.po/mnt/stockage/packages/f31/sugar-ruler/po/mvo.po | 
- | [hus]({{< ref "/f31/language/hus.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/hus.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/ja.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/km.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/si.po | 
- | [sw]({{< ref "/f31/language/sw.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/sw.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 1 | 29 | 3.4 | /mnt/stockage/packages/f31/sugar-ruler/po/ar.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1 | 29 | 3.4 | /mnt/stockage/packages/f31/sugar-ruler/po/ru.po | 
- | [sm]({{< ref "/f31/language/sm.md" >}}) | 1 | 29 | 3.4 | /mnt/stockage/packages/f31/sugar-ruler/po/sm.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/af.po | 
- | [ak]({{< ref "/f31/language/ak.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ak.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/am.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bg.po | 
- | [bi]({{< ref "/f31/language/bi.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bi.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bn.po | 
- | [bn_IN]({{< ref "/f31/language/bn_IN.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bn_IN.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ca.po | 
- | [cpp]({{< ref "/f31/language/cpp.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/cpp.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/dz.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fa.po | 
- | [ff]({{< ref "/f31/language/ff.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ff.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fi.po | 
- | [fil]({{< ref "/f31/language/fil.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fil.po | 
- | [gn]({{< ref "/f31/language/gn.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/gn.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/gu.po | 
- | [ha]({{< ref "/f31/language/ha.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ha.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/hi.po | 
- | [ht]({{< ref "/f31/language/ht.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ht.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/id.po | 
- | [ig]({{< ref "/f31/language/ig.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ig.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/is.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/kn.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ko.po | 
- | [kos]({{< ref "/f31/language/kos.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/kos.po | 
- | [ku]({{< ref "/f31/language/ku.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ku.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/lt.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/lv.po | 
- | [mg]({{< ref "/f31/language/mg.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mg.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mk.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ml.po | 
- | [mn]({{< ref "/f31/language/mn.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mn.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ms.po | 
- | [na]({{< ref "/f31/language/na.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/na.po | 
- | [nah]({{< ref "/f31/language/nah.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nah.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nb.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nn.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pa.po | 
- | [pap]({{< ref "/f31/language/pap.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pap.po | 
- | [prs]({{< ref "/f31/language/prs.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fa_AF.po | 
- | [ps]({{< ref "/f31/language/ps.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ps.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pt_BR.po | 
- | [qu]({{< ref "/f31/language/qu.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/quz.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ro.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/rw.po | 
- | [sd]({{< ref "/f31/language/sd.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sd.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sl.po | 
- | [son]({{< ref "/f31/language/son.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/son.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sq.po | 
- | [st]({{< ref "/f31/language/st.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/st.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sv.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/te.po | 
- | [to]({{< ref "/f31/language/to.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/to.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tr.po | 
- | [tvl]({{< ref "/f31/language/tvl.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tvl.po | 
- | [tyv]({{< ref "/f31/language/tyv.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tyv.po | 
- | [tzm]({{< ref "/f31/language/tzm.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tzm.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ug.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/uk.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ur.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/vi.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/wa.po | 
- | [yo]({{< ref "/f31/language/yo.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/zh_HK.po | 
+ | [ayc](/f31/language/ayc) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ayc.po | 
+ | [da](/f31/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/da.po | 
+ | [en](/f31/language/en) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/en.po | 
+ | [en_GB](/f31/language/en_GB) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/en_GB.po | 
+ | [en_US](/f31/language/en_US) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/en_US.po | 
+ | [es](/f31/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/es.po | 
+ | [fr](/f31/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fr.po | 
+ | [hy](/f31/language/hy) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/hy.po | 
+ | [ne](/f31/language/ne) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ne.po | 
+ | [nl](/f31/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nl.po | 
+ | [pt](/f31/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pt.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f31/sugar-ruler/po/zh_CN.po | 
+ | [cs](/f31/language/cs) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/cs.po | 
+ | [de](/f31/language/de) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/de.po | 
+ | [el](/f31/language/el) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/el.po | 
+ | [mi](/f31/language/mi) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/mi.po | 
+ | [pl](/f31/language/pl) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/pl.po | 
+ | [sr](/f31/language/sr) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/sr.po | 
+ | [ta](/f31/language/ta) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/ta.po | 
+ | [th](/f31/language/th) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/th.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 14 | 29 | 48.3 | /mnt/stockage/packages/f31/sugar-ruler/po/zh_TW.po | 
+ | [error](/f31/language/error) | 29 | 116 | 25.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tzo.po/mnt/stockage/packages/f31/sugar-ruler/po/quy.po/mnt/stockage/packages/f31/sugar-ruler/po/pbs.po/mnt/stockage/packages/f31/sugar-ruler/po/mvo.po | 
+ | [hus](/f31/language/hus) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/hus.po | 
+ | [it](/f31/language/it) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/it.po | 
+ | [ja](/f31/language/ja) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/ja.po | 
+ | [km](/f31/language/km) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/km.po | 
+ | [si](/f31/language/si) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/si.po | 
+ | [sw](/f31/language/sw) | 4 | 29 | 13.8 | /mnt/stockage/packages/f31/sugar-ruler/po/sw.po | 
+ | [ar](/f31/language/ar) | 1 | 29 | 3.4 | /mnt/stockage/packages/f31/sugar-ruler/po/ar.po | 
+ | [ru](/f31/language/ru) | 1 | 29 | 3.4 | /mnt/stockage/packages/f31/sugar-ruler/po/ru.po | 
+ | [sm](/f31/language/sm) | 1 | 29 | 3.4 | /mnt/stockage/packages/f31/sugar-ruler/po/sm.po | 
+ | [af](/f31/language/af) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/af.po | 
+ | [ak](/f31/language/ak) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ak.po | 
+ | [am](/f31/language/am) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/am.po | 
+ | [bg](/f31/language/bg) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bg.po | 
+ | [bi](/f31/language/bi) | 0 | 5 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bi.po | 
+ | [bn](/f31/language/bn) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bn.po | 
+ | [bn_IN](/f31/language/bn_IN) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bn_IN.po | 
+ | [bs](/f31/language/bs) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/bs.po | 
+ | [ca](/f31/language/ca) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ca.po | 
+ | [cpp](/f31/language/cpp) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/cpp.po | 
+ | [dz](/f31/language/dz) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/dz.po | 
+ | [fa](/f31/language/fa) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fa.po | 
+ | [ff](/f31/language/ff) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ff.po | 
+ | [fi](/f31/language/fi) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fi.po | 
+ | [fil](/f31/language/fil) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fil.po | 
+ | [gn](/f31/language/gn) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/gn.po | 
+ | [gu](/f31/language/gu) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/gu.po | 
+ | [ha](/f31/language/ha) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ha.po | 
+ | [he](/f31/language/he) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/he.po | 
+ | [hi](/f31/language/hi) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/hi.po | 
+ | [ht](/f31/language/ht) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ht.po | 
+ | [hu](/f31/language/hu) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/hu.po | 
+ | [id](/f31/language/id) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/id.po | 
+ | [ig](/f31/language/ig) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ig.po | 
+ | [is](/f31/language/is) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/is.po | 
+ | [kn](/f31/language/kn) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/kn.po | 
+ | [ko](/f31/language/ko) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ko.po | 
+ | [kos](/f31/language/kos) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/kos.po | 
+ | [ku](/f31/language/ku) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ku.po | 
+ | [lt](/f31/language/lt) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/lt.po | 
+ | [lv](/f31/language/lv) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/lv.po | 
+ | [mg](/f31/language/mg) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mg.po | 
+ | [mk](/f31/language/mk) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mk.po | 
+ | [ml](/f31/language/ml) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ml.po | 
+ | [mn](/f31/language/mn) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mn.po | 
+ | [mr](/f31/language/mr) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/mr.po | 
+ | [ms](/f31/language/ms) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ms.po | 
+ | [na](/f31/language/na) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/na.po | 
+ | [nah](/f31/language/nah) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nah.po | 
+ | [nb_NO](/f31/language/nb_NO) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nb.po | 
+ | [nn](/f31/language/nn) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/nn.po | 
+ | [pa](/f31/language/pa) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pa.po | 
+ | [pap](/f31/language/pap) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pap.po | 
+ | [prs](/f31/language/prs) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/fa_AF.po | 
+ | [ps](/f31/language/ps) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ps.po | 
+ | [pt_BR](/f31/language/pt_BR) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/pt_BR.po | 
+ | [qu](/f31/language/qu) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/quz.po | 
+ | [ro](/f31/language/ro) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ro.po | 
+ | [rw](/f31/language/rw) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/rw.po | 
+ | [sd](/f31/language/sd) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sd.po | 
+ | [sk](/f31/language/sk) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sk.po | 
+ | [sl](/f31/language/sl) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sl.po | 
+ | [son](/f31/language/son) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/son.po | 
+ | [sq](/f31/language/sq) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sq.po | 
+ | [st](/f31/language/st) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/st.po | 
+ | [sv](/f31/language/sv) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/sv.po | 
+ | [te](/f31/language/te) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/te.po | 
+ | [to](/f31/language/to) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/to.po | 
+ | [tr](/f31/language/tr) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tr.po | 
+ | [tvl](/f31/language/tvl) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tvl.po | 
+ | [tyv](/f31/language/tyv) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tyv.po | 
+ | [tzm](/f31/language/tzm) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/tzm.po | 
+ | [ug](/f31/language/ug) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ug.po | 
+ | [uk](/f31/language/uk) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/uk.po | 
+ | [ur](/f31/language/ur) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/ur.po | 
+ | [vi](/f31/language/vi) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/vi.po | 
+ | [wa](/f31/language/wa) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/wa.po | 
+ | [yo](/f31/language/yo) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/yo.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 0 | 29 | 0.0 | /mnt/stockage/packages/f31/sugar-ruler/po/zh_HK.po | 
 {.sortable}
 
 

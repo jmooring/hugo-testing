@@ -18,48 +18,48 @@ The package php-horde-horde (version 5.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 3512 | 3512 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ca/LC_MESSAGES/horde.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 3441 | 3441 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/da/LC_MESSAGES/horde.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 3478 | 3478 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/de/LC_MESSAGES/horde.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 3473 | 3473 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/es/LC_MESSAGES/horde.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 3586 | 3586 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/et/LC_MESSAGES/horde.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/eu/LC_MESSAGES/horde.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/fi/LC_MESSAGES/horde.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 3297 | 3297 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/fr/LC_MESSAGES/horde.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 3572 | 3572 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/hr/LC_MESSAGES/horde.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 3474 | 3474 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/hu/LC_MESSAGES/horde.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 3473 | 3473 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ja/LC_MESSAGES/horde.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 3522 | 3522 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/lt/LC_MESSAGES/horde.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 3297 | 3297 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/lv/LC_MESSAGES/horde.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 3354 | 3354 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/nl/LC_MESSAGES/horde.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 3441 | 3441 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/pl/LC_MESSAGES/horde.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 3480 | 3480 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/pt_BR/LC_MESSAGES/horde.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 3617 | 3623 | 99.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/sv/LC_MESSAGES/horde.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 3535 | 3563 | 99.2 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/it/LC_MESSAGES/horde.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 3324 | 3470 | 95.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/sk/LC_MESSAGES/horde.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 3127 | 3474 | 90.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/cs/LC_MESSAGES/horde.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 2645 | 3262 | 81.1 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/tr/LC_MESSAGES/horde.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 2615 | 3321 | 78.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/uk/LC_MESSAGES/horde.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 2592 | 3474 | 74.6 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/zh_TW/LC_MESSAGES/horde.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 5497 | 8369 | 65.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/gl/LC_MESSAGES/horde.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 2086 | 3474 | 60.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/zh_CN/LC_MESSAGES/horde.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 2068 | 3474 | 59.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/sl/LC_MESSAGES/horde.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1959 | 3474 | 56.4 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/pt/LC_MESSAGES/horde.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 1600 | 3474 | 46.1 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/id/LC_MESSAGES/horde.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 1590 | 3474 | 45.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/fa/LC_MESSAGES/horde.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1234 | 3474 | 35.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/el/LC_MESSAGES/horde.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 1074 | 3474 | 30.9 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/nb/LC_MESSAGES/horde.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1000 | 3474 | 28.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ru/LC_MESSAGES/horde.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 618 | 3441 | 18.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ko/LC_MESSAGES/horde.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 427 | 3474 | 12.3 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/bs/LC_MESSAGES/horde.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 259 | 3474 | 7.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/bg/LC_MESSAGES/horde.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 242 | 3474 | 7.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/nn/LC_MESSAGES/horde.po | 
- | [km]({{< ref "/f21/language/km.md" >}}) | 190 | 3474 | 5.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/km/LC_MESSAGES/horde.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 144 | 3474 | 4.1 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/mk/LC_MESSAGES/horde.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 127 | 3474 | 3.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ar/LC_MESSAGES/horde.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 116 | 3474 | 3.3 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ro/LC_MESSAGES/horde.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 79 | 3474 | 2.3 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/is/LC_MESSAGES/horde.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 23 | 3474 | 0.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/he/LC_MESSAGES/horde.po | 
+ | [ca](/f21/language/ca) | 3512 | 3512 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ca/LC_MESSAGES/horde.po | 
+ | [da](/f21/language/da) | 3441 | 3441 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/da/LC_MESSAGES/horde.po | 
+ | [de](/f21/language/de) | 3478 | 3478 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/de/LC_MESSAGES/horde.po | 
+ | [es](/f21/language/es) | 3473 | 3473 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/es/LC_MESSAGES/horde.po | 
+ | [et](/f21/language/et) | 3586 | 3586 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/et/LC_MESSAGES/horde.po | 
+ | [eu](/f21/language/eu) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/eu/LC_MESSAGES/horde.po | 
+ | [fi](/f21/language/fi) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/fi/LC_MESSAGES/horde.po | 
+ | [fr](/f21/language/fr) | 3297 | 3297 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/fr/LC_MESSAGES/horde.po | 
+ | [hr](/f21/language/hr) | 3572 | 3572 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/hr/LC_MESSAGES/horde.po | 
+ | [hu](/f21/language/hu) | 3474 | 3474 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/hu/LC_MESSAGES/horde.po | 
+ | [ja](/f21/language/ja) | 3473 | 3473 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ja/LC_MESSAGES/horde.po | 
+ | [lt](/f21/language/lt) | 3522 | 3522 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/lt/LC_MESSAGES/horde.po | 
+ | [lv](/f21/language/lv) | 3297 | 3297 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/lv/LC_MESSAGES/horde.po | 
+ | [nl](/f21/language/nl) | 3354 | 3354 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/nl/LC_MESSAGES/horde.po | 
+ | [pl](/f21/language/pl) | 3441 | 3441 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/pl/LC_MESSAGES/horde.po | 
+ | [pt_BR](/f21/language/pt_BR) | 3480 | 3480 | 100.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/pt_BR/LC_MESSAGES/horde.po | 
+ | [sv](/f21/language/sv) | 3617 | 3623 | 99.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/sv/LC_MESSAGES/horde.po | 
+ | [it](/f21/language/it) | 3535 | 3563 | 99.2 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/it/LC_MESSAGES/horde.po | 
+ | [sk](/f21/language/sk) | 3324 | 3470 | 95.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/sk/LC_MESSAGES/horde.po | 
+ | [cs](/f21/language/cs) | 3127 | 3474 | 90.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/cs/LC_MESSAGES/horde.po | 
+ | [tr](/f21/language/tr) | 2645 | 3262 | 81.1 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/tr/LC_MESSAGES/horde.po | 
+ | [uk](/f21/language/uk) | 2615 | 3321 | 78.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/uk/LC_MESSAGES/horde.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 2592 | 3474 | 74.6 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/zh_TW/LC_MESSAGES/horde.po | 
+ | [gl](/f21/language/gl) | 5497 | 8369 | 65.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/gl/LC_MESSAGES/horde.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 2086 | 3474 | 60.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/zh_CN/LC_MESSAGES/horde.po | 
+ | [sl](/f21/language/sl) | 2068 | 3474 | 59.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/sl/LC_MESSAGES/horde.po | 
+ | [pt](/f21/language/pt) | 1959 | 3474 | 56.4 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/pt/LC_MESSAGES/horde.po | 
+ | [id](/f21/language/id) | 1600 | 3474 | 46.1 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/id/LC_MESSAGES/horde.po | 
+ | [fa](/f21/language/fa) | 1590 | 3474 | 45.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/fa/LC_MESSAGES/horde.po | 
+ | [el](/f21/language/el) | 1234 | 3474 | 35.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/el/LC_MESSAGES/horde.po | 
+ | [nb_NO](/f21/language/nb_NO) | 1074 | 3474 | 30.9 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/nb/LC_MESSAGES/horde.po | 
+ | [ru](/f21/language/ru) | 1000 | 3474 | 28.8 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ru/LC_MESSAGES/horde.po | 
+ | [ko](/f21/language/ko) | 618 | 3441 | 18.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ko/LC_MESSAGES/horde.po | 
+ | [bs](/f21/language/bs) | 427 | 3474 | 12.3 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/bs/LC_MESSAGES/horde.po | 
+ | [bg](/f21/language/bg) | 259 | 3474 | 7.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/bg/LC_MESSAGES/horde.po | 
+ | [nn](/f21/language/nn) | 242 | 3474 | 7.0 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/nn/LC_MESSAGES/horde.po | 
+ | [km](/f21/language/km) | 190 | 3474 | 5.5 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/km/LC_MESSAGES/horde.po | 
+ | [mk](/f21/language/mk) | 144 | 3474 | 4.1 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/mk/LC_MESSAGES/horde.po | 
+ | [ar](/f21/language/ar) | 127 | 3474 | 3.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ar/LC_MESSAGES/horde.po | 
+ | [ro](/f21/language/ro) | 116 | 3474 | 3.3 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/ro/LC_MESSAGES/horde.po | 
+ | [is](/f21/language/is) | 79 | 3474 | 2.3 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/is/LC_MESSAGES/horde.po | 
+ | [he](/f21/language/he) | 23 | 3474 | 0.7 | /mnt/stockage/packages/f21/php-horde-horde/horde-5.2.8/locale/he/LC_MESSAGES/horde.po | 
 {.sortable}
 
 

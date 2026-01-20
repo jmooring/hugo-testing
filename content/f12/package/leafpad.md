@@ -18,42 +18,42 @@ The package leafpad (version 0.8.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f12/language/br.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/br.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/eu.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/fr.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/ga.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/ja.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/lv.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/nl.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/nn.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/pt_BR.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/sl.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/sr.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/zh_TW.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/bg.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/el.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/fi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/hu.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/uk.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/he.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/sk.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/sv.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/tr.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/cs.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/ru.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 94 | 125 | 75.2 | /mnt/stockage/packages/f12/leafpad/po/ko.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 92 | 125 | 73.6 | /mnt/stockage/packages/f12/leafpad/po/ta.po | 
+ | [br](/f12/language/br) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/br.po | 
+ | [da](/f12/language/da) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/da.po | 
+ | [de](/f12/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/de.po | 
+ | [es](/f12/language/es) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/es.po | 
+ | [eu](/f12/language/eu) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/eu.po | 
+ | [fr](/f12/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/fr.po | 
+ | [ga](/f12/language/ga) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/ga.po | 
+ | [id](/f12/language/id) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/id.po | 
+ | [it](/f12/language/it) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/it.po | 
+ | [ja](/f12/language/ja) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/ja.po | 
+ | [lt](/f12/language/lt) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/lt.po | 
+ | [lv](/f12/language/lv) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/lv.po | 
+ | [nl](/f12/language/nl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/nl.po | 
+ | [nn](/f12/language/nn) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/nn.po | 
+ | [pl](/f12/language/pl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/pt_BR.po | 
+ | [sl](/f12/language/sl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/sl.po | 
+ | [sr](/f12/language/sr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/sr.po | 
+ | [vi](/f12/language/vi) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 125 | 125 | 100.0 | /mnt/stockage/packages/f12/leafpad/po/zh_TW.po | 
+ | [bg](/f12/language/bg) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/bg.po | 
+ | [el](/f12/language/el) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/el.po | 
+ | [fi](/f12/language/fi) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/fi.po | 
+ | [hu](/f12/language/hu) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/hu.po | 
+ | [uk](/f12/language/uk) | 123 | 125 | 98.4 | /mnt/stockage/packages/f12/leafpad/po/uk.po | 
+ | [he](/f12/language/he) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/he.po | 
+ | [sk](/f12/language/sk) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/sk.po | 
+ | [sv](/f12/language/sv) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/sv.po | 
+ | [tr](/f12/language/tr) | 121 | 125 | 96.8 | /mnt/stockage/packages/f12/leafpad/po/tr.po | 
+ | [ca](/f12/language/ca) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/ca.po | 
+ | [cs](/f12/language/cs) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/cs.po | 
+ | [pt](/f12/language/pt) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/pt.po | 
+ | [ru](/f12/language/ru) | 103 | 125 | 82.4 | /mnt/stockage/packages/f12/leafpad/po/ru.po | 
+ | [ko](/f12/language/ko) | 94 | 125 | 75.2 | /mnt/stockage/packages/f12/leafpad/po/ko.po | 
+ | [ta](/f12/language/ta) | 92 | 125 | 73.6 | /mnt/stockage/packages/f12/leafpad/po/ta.po | 
 {.sortable}
 
 

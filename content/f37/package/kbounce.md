@@ -18,83 +18,83 @@ The package kbounce (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ar/kbounce.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/bg/kbounce.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ca/kbounce.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ca@valencia/kbounce.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/cs/kbounce.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/da/kbounce.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/de/kbounce.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/el/kbounce.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/en_GB/kbounce.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/es/kbounce.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/eu/kbounce.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/fi/kbounce.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/fr/kbounce.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/gl/kbounce.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/it/kbounce.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ka/kbounce.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ko/kbounce.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/nl/kbounce.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/nn/kbounce.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/pl/kbounce.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/pt/kbounce.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/pt_BR/kbounce.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ru/kbounce.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sl/kbounce.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr/kbounce.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr@ijekavian/kbounce.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr@ijekavianlatin/kbounce.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr@latin/kbounce.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sv/kbounce.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/tr/kbounce.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/uk/kbounce.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 144 | 156 | 92.3 | /mnt/stockage/packages/f37/kbounce/po/ro/kbounce.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 144 | 156 | 92.3 | /mnt/stockage/packages/f37/kbounce/po/sk/kbounce.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 144 | 156 | 92.3 | /mnt/stockage/packages/f37/kbounce/po/zh_CN/kbounce.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/bs/kbounce.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/et/kbounce.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/hu/kbounce.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/id/kbounce.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/kk/kbounce.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/nb/kbounce.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/nds/kbounce.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/zh_TW/kbounce.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/ga/kbounce.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/km/kbounce.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/lt/kbounce.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/lv/kbounce.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 124 | 156 | 79.5 | /mnt/stockage/packages/f37/kbounce/po/th/kbounce.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f37/kbounce/po/ja/kbounce.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 101 | 156 | 64.7 | /mnt/stockage/packages/f37/kbounce/po/sq/kbounce.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 94 | 156 | 60.3 | /mnt/stockage/packages/f37/kbounce/po/fa/kbounce.po | 
- | [hne]({{< ref "/f37/language/hne.md" >}}) | 94 | 156 | 60.3 | /mnt/stockage/packages/f37/kbounce/po/hne/kbounce.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 94 | 156 | 60.3 | /mnt/stockage/packages/f37/kbounce/po/ml/kbounce.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 88 | 156 | 56.4 | /mnt/stockage/packages/f37/kbounce/po/eo/kbounce.po | 
- | [csb]({{< ref "/f37/language/csb.md" >}}) | 86 | 156 | 55.1 | /mnt/stockage/packages/f37/kbounce/po/csb/kbounce.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 81 | 156 | 51.9 | /mnt/stockage/packages/f37/kbounce/po/ne/kbounce.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 77 | 156 | 49.4 | /mnt/stockage/packages/f37/kbounce/po/hi/kbounce.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 65 | 156 | 41.7 | /mnt/stockage/packages/f37/kbounce/po/be/kbounce.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 65 | 156 | 41.7 | /mnt/stockage/packages/f37/kbounce/po/pa/kbounce.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 46 | 156 | 29.5 | /mnt/stockage/packages/f37/kbounce/po/ms/kbounce.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 33 | 156 | 21.2 | /mnt/stockage/packages/f37/kbounce/po/ta/kbounce.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 33 | 156 | 21.2 | /mnt/stockage/packages/f37/kbounce/po/ug/kbounce.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 32 | 156 | 20.5 | /mnt/stockage/packages/f37/kbounce/po/mr/kbounce.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 32 | 156 | 20.5 | /mnt/stockage/packages/f37/kbounce/po/se/kbounce.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/bn/kbounce.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/cy/kbounce.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/he/kbounce.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/hr/kbounce.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/is/kbounce.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/mk/kbounce.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/tg/kbounce.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 29 | 156 | 18.6 | /mnt/stockage/packages/f37/kbounce/po/af/kbounce.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 29 | 156 | 18.6 | /mnt/stockage/packages/f37/kbounce/po/xh/kbounce.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 26 | 156 | 16.7 | /mnt/stockage/packages/f37/kbounce/po/te/kbounce.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 23 | 156 | 14.7 | /mnt/stockage/packages/f37/kbounce/po/br/kbounce.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 17 | 156 | 10.9 | /mnt/stockage/packages/f37/kbounce/po/vi/kbounce.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 15 | 156 | 9.6 | /mnt/stockage/packages/f37/kbounce/po/mai/kbounce.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 12 | 156 | 7.7 | /mnt/stockage/packages/f37/kbounce/po/oc/kbounce.po | 
+ | [ar](/f37/language/ar) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ar/kbounce.po | 
+ | [bg](/f37/language/bg) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/bg/kbounce.po | 
+ | [ca](/f37/language/ca) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ca/kbounce.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ca@valencia/kbounce.po | 
+ | [cs](/f37/language/cs) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/cs/kbounce.po | 
+ | [da](/f37/language/da) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/da/kbounce.po | 
+ | [de](/f37/language/de) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/de/kbounce.po | 
+ | [el](/f37/language/el) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/el/kbounce.po | 
+ | [en_GB](/f37/language/en_GB) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/en_GB/kbounce.po | 
+ | [es](/f37/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/es/kbounce.po | 
+ | [eu](/f37/language/eu) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/eu/kbounce.po | 
+ | [fi](/f37/language/fi) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/fi/kbounce.po | 
+ | [fr](/f37/language/fr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/fr/kbounce.po | 
+ | [gl](/f37/language/gl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/gl/kbounce.po | 
+ | [it](/f37/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/it/kbounce.po | 
+ | [ka](/f37/language/ka) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ka/kbounce.po | 
+ | [ko](/f37/language/ko) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ko/kbounce.po | 
+ | [nl](/f37/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/nl/kbounce.po | 
+ | [nn](/f37/language/nn) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/nn/kbounce.po | 
+ | [pl](/f37/language/pl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/pl/kbounce.po | 
+ | [pt](/f37/language/pt) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/pt/kbounce.po | 
+ | [pt_BR](/f37/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/pt_BR/kbounce.po | 
+ | [ru](/f37/language/ru) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/ru/kbounce.po | 
+ | [sl](/f37/language/sl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sl/kbounce.po | 
+ | [sr](/f37/language/sr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr/kbounce.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr@ijekavian/kbounce.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr@ijekavianlatin/kbounce.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 154 | 154 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sr@latin/kbounce.po | 
+ | [sv](/f37/language/sv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/sv/kbounce.po | 
+ | [tr](/f37/language/tr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/tr/kbounce.po | 
+ | [uk](/f37/language/uk) | 156 | 156 | 100.0 | /mnt/stockage/packages/f37/kbounce/po/uk/kbounce.po | 
+ | [ro](/f37/language/ro) | 144 | 156 | 92.3 | /mnt/stockage/packages/f37/kbounce/po/ro/kbounce.po | 
+ | [sk](/f37/language/sk) | 144 | 156 | 92.3 | /mnt/stockage/packages/f37/kbounce/po/sk/kbounce.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 144 | 156 | 92.3 | /mnt/stockage/packages/f37/kbounce/po/zh_CN/kbounce.po | 
+ | [bs](/f37/language/bs) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/bs/kbounce.po | 
+ | [et](/f37/language/et) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/et/kbounce.po | 
+ | [hu](/f37/language/hu) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/hu/kbounce.po | 
+ | [id](/f37/language/id) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/id/kbounce.po | 
+ | [kk](/f37/language/kk) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/kk/kbounce.po | 
+ | [nb_NO](/f37/language/nb_NO) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/nb/kbounce.po | 
+ | [nds](/f37/language/nds) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/nds/kbounce.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 141 | 156 | 90.4 | /mnt/stockage/packages/f37/kbounce/po/zh_TW/kbounce.po | 
+ | [ga](/f37/language/ga) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/ga/kbounce.po | 
+ | [km](/f37/language/km) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/km/kbounce.po | 
+ | [lt](/f37/language/lt) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/lt/kbounce.po | 
+ | [lv](/f37/language/lv) | 137 | 156 | 87.8 | /mnt/stockage/packages/f37/kbounce/po/lv/kbounce.po | 
+ | [th](/f37/language/th) | 124 | 156 | 79.5 | /mnt/stockage/packages/f37/kbounce/po/th/kbounce.po | 
+ | [ja](/f37/language/ja) | 108 | 156 | 69.2 | /mnt/stockage/packages/f37/kbounce/po/ja/kbounce.po | 
+ | [sq](/f37/language/sq) | 101 | 156 | 64.7 | /mnt/stockage/packages/f37/kbounce/po/sq/kbounce.po | 
+ | [fa](/f37/language/fa) | 94 | 156 | 60.3 | /mnt/stockage/packages/f37/kbounce/po/fa/kbounce.po | 
+ | [hne](/f37/language/hne) | 94 | 156 | 60.3 | /mnt/stockage/packages/f37/kbounce/po/hne/kbounce.po | 
+ | [ml](/f37/language/ml) | 94 | 156 | 60.3 | /mnt/stockage/packages/f37/kbounce/po/ml/kbounce.po | 
+ | [eo](/f37/language/eo) | 88 | 156 | 56.4 | /mnt/stockage/packages/f37/kbounce/po/eo/kbounce.po | 
+ | [csb](/f37/language/csb) | 86 | 156 | 55.1 | /mnt/stockage/packages/f37/kbounce/po/csb/kbounce.po | 
+ | [ne](/f37/language/ne) | 81 | 156 | 51.9 | /mnt/stockage/packages/f37/kbounce/po/ne/kbounce.po | 
+ | [hi](/f37/language/hi) | 77 | 156 | 49.4 | /mnt/stockage/packages/f37/kbounce/po/hi/kbounce.po | 
+ | [be](/f37/language/be) | 65 | 156 | 41.7 | /mnt/stockage/packages/f37/kbounce/po/be/kbounce.po | 
+ | [pa](/f37/language/pa) | 65 | 156 | 41.7 | /mnt/stockage/packages/f37/kbounce/po/pa/kbounce.po | 
+ | [ms](/f37/language/ms) | 46 | 156 | 29.5 | /mnt/stockage/packages/f37/kbounce/po/ms/kbounce.po | 
+ | [ta](/f37/language/ta) | 33 | 156 | 21.2 | /mnt/stockage/packages/f37/kbounce/po/ta/kbounce.po | 
+ | [ug](/f37/language/ug) | 33 | 156 | 21.2 | /mnt/stockage/packages/f37/kbounce/po/ug/kbounce.po | 
+ | [mr](/f37/language/mr) | 32 | 156 | 20.5 | /mnt/stockage/packages/f37/kbounce/po/mr/kbounce.po | 
+ | [se](/f37/language/se) | 32 | 156 | 20.5 | /mnt/stockage/packages/f37/kbounce/po/se/kbounce.po | 
+ | [bn](/f37/language/bn) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/bn/kbounce.po | 
+ | [cy](/f37/language/cy) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/cy/kbounce.po | 
+ | [he](/f37/language/he) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/he/kbounce.po | 
+ | [hr](/f37/language/hr) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/hr/kbounce.po | 
+ | [is](/f37/language/is) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/is/kbounce.po | 
+ | [mk](/f37/language/mk) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/mk/kbounce.po | 
+ | [tg](/f37/language/tg) | 31 | 156 | 19.9 | /mnt/stockage/packages/f37/kbounce/po/tg/kbounce.po | 
+ | [af](/f37/language/af) | 29 | 156 | 18.6 | /mnt/stockage/packages/f37/kbounce/po/af/kbounce.po | 
+ | [xh](/f37/language/xh) | 29 | 156 | 18.6 | /mnt/stockage/packages/f37/kbounce/po/xh/kbounce.po | 
+ | [te](/f37/language/te) | 26 | 156 | 16.7 | /mnt/stockage/packages/f37/kbounce/po/te/kbounce.po | 
+ | [br](/f37/language/br) | 23 | 156 | 14.7 | /mnt/stockage/packages/f37/kbounce/po/br/kbounce.po | 
+ | [vi](/f37/language/vi) | 17 | 156 | 10.9 | /mnt/stockage/packages/f37/kbounce/po/vi/kbounce.po | 
+ | [mai](/f37/language/mai) | 15 | 156 | 9.6 | /mnt/stockage/packages/f37/kbounce/po/mai/kbounce.po | 
+ | [oc](/f37/language/oc) | 12 | 156 | 7.7 | /mnt/stockage/packages/f37/kbounce/po/oc/kbounce.po | 
 {.sortable}
 
 

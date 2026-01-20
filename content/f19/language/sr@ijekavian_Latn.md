@@ -45,39 +45,39 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [amarok]({{< ref "/f19/package/amarok.md" >}}) | 15808 | 15808 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [bluedevil]({{< ref "/f19/package/bluedevil.md" >}}) | 617 | 617 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [k3b]({{< ref "/f19/package/k3b.md" >}}) | 20429 | 20429 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kde-l10n]({{< ref "/f19/package/kde-l10n.md" >}}) | 299371 | 299371 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f19/package/kde-plasma-networkmanagement.md" >}}) | 3730 | 3730 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [knemo]({{< ref "/f19/package/knemo.md" >}}) | 1186 | 1186 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [knights]({{< ref "/f19/package/knights.md" >}}) | 757 | 757 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [konversation]({{< ref "/f19/package/konversation.md" >}}) | 10922 | 10922 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [krusader]({{< ref "/f19/package/krusader.md" >}}) | 7956 | 7956 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktorrent]({{< ref "/f19/package/ktorrent.md" >}}) | 7739 | 7739 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-accounts-kcm]({{< ref "/f19/package/ktp-accounts-kcm.md" >}}) | 1037 | 1037 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-approver]({{< ref "/f19/package/ktp-approver.md" >}}) | 71 | 71 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-auth-handler]({{< ref "/f19/package/ktp-auth-handler.md" >}}) | 74 | 74 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-call-ui]({{< ref "/f19/package/ktp-call-ui.md" >}}) | 225 | 225 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-common-internals]({{< ref "/f19/package/ktp-common-internals.md" >}}) | 884 | 884 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-contact-list]({{< ref "/f19/package/ktp-contact-list.md" >}}) | 434 | 434 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-contact-runner]({{< ref "/f19/package/ktp-contact-runner.md" >}}) | 177 | 177 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-desktop-applets]({{< ref "/f19/package/ktp-desktop-applets.md" >}}) | 35 | 35 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f19/package/ktp-filetransfer-handler.md" >}}) | 141 | 141 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-kded-integration-module]({{< ref "/f19/package/ktp-kded-integration-module.md" >}}) | 285 | 285 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-send-file]({{< ref "/f19/package/ktp-send-file.md" >}}) | 59 | 59 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [ktp-text-ui]({{< ref "/f19/package/ktp-text-ui.md" >}}) | 547 | 547 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kwebkitpart]({{< ref "/f19/package/kwebkitpart.md" >}}) | 624 | 624 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [libktorrent]({{< ref "/f19/package/libktorrent.md" >}}) | 519 | 519 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [polkit-kde]({{< ref "/f19/package/polkit-kde.md" >}}) | 88 | 88 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [rekonq]({{< ref "/f19/package/rekonq.md" >}}) | 2202 | 2202 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [yakuake]({{< ref "/f19/package/yakuake.md" >}}) | 1520 | 1520 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
- | [kaudiocreator]({{< ref "/f19/package/kaudiocreator.md" >}}) | 1123 | 1136 | 98.9 | Serbian <kde-i18n-sr@kde.org> | 
- | [kmid2]({{< ref "/f19/package/kmid2.md" >}}) | 923 | 1022 | 90.3 | Serbian <kde-i18n-sr@kde.org> | 
- | [kid3]({{< ref "/f19/package/kid3.md" >}}) | 1252 | 1423 | 88.0 | Serbian <kde-i18n-sr@lists.kde.org> | 
- | [kaffeine]({{< ref "/f19/package/kaffeine.md" >}}) | 448 | 590 | 75.9 | Serbian <kde-i18n-sr@kde.org> | 
- | [kde-plasma-nm]({{< ref "/f19/package/kde-plasma-nm.md" >}}) | 489 | 900 | 54.3 | Serbian <kde-i18n-sr@kde.org> | 
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 29 | 3350 | 0.9 | Serbian Ijekavian Latin <sr@ijekavianlatin@li.org> | 
+ | [amarok](/f19/package/amarok) | 15808 | 15808 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [bluedevil](/f19/package/bluedevil) | 617 | 617 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [k3b](/f19/package/k3b) | 20429 | 20429 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kde-l10n](/f19/package/kde-l10n) | 299371 | 299371 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kde-plasma-networkmanagement](/f19/package/kde-plasma-networkmanagement) | 3730 | 3730 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [knemo](/f19/package/knemo) | 1186 | 1186 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [knights](/f19/package/knights) | 757 | 757 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [konversation](/f19/package/konversation) | 10922 | 10922 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [krusader](/f19/package/krusader) | 7956 | 7956 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktorrent](/f19/package/ktorrent) | 7739 | 7739 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-accounts-kcm](/f19/package/ktp-accounts-kcm) | 1037 | 1037 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-approver](/f19/package/ktp-approver) | 71 | 71 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-auth-handler](/f19/package/ktp-auth-handler) | 74 | 74 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-call-ui](/f19/package/ktp-call-ui) | 225 | 225 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-common-internals](/f19/package/ktp-common-internals) | 884 | 884 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-contact-list](/f19/package/ktp-contact-list) | 434 | 434 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-contact-runner](/f19/package/ktp-contact-runner) | 177 | 177 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-desktop-applets](/f19/package/ktp-desktop-applets) | 35 | 35 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-filetransfer-handler](/f19/package/ktp-filetransfer-handler) | 141 | 141 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-kded-integration-module](/f19/package/ktp-kded-integration-module) | 285 | 285 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-send-file](/f19/package/ktp-send-file) | 59 | 59 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [ktp-text-ui](/f19/package/ktp-text-ui) | 547 | 547 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kwebkitpart](/f19/package/kwebkitpart) | 624 | 624 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [libktorrent](/f19/package/libktorrent) | 519 | 519 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [polkit-kde](/f19/package/polkit-kde) | 88 | 88 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [rekonq](/f19/package/rekonq) | 2202 | 2202 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [yakuake](/f19/package/yakuake) | 1520 | 1520 | 100.0 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kaudiocreator](/f19/package/kaudiocreator) | 1123 | 1136 | 98.9 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kmid2](/f19/package/kmid2) | 923 | 1022 | 90.3 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kid3](/f19/package/kid3) | 1252 | 1423 | 88.0 | Serbian <kde-i18n-sr@lists.kde.org> | 
+ | [kaffeine](/f19/package/kaffeine) | 448 | 590 | 75.9 | Serbian <kde-i18n-sr@kde.org> | 
+ | [kde-plasma-nm](/f19/package/kde-plasma-nm) | 489 | 900 | 54.3 | Serbian <kde-i18n-sr@kde.org> | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 29 | 3350 | 0.9 | Serbian Ijekavian Latin <sr@ijekavianlatin@li.org> | 
 {.sortable}
 
 

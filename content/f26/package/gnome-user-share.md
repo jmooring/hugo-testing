@@ -18,87 +18,87 @@ The package gnome-user-share (version 3.18.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f26/language/an.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/an.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ar.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/as.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ast.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bg.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bn.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bn_IN.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/br.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bs.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ca.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/de.po | 
- | [dz]({{< ref "/f26/language/dz.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/dz.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/en_CA.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/en_GB.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/eo.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/en@shaw.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/eu.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fa.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fur.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ga.po | 
- | [gd]({{< ref "/f26/language/gd.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/gd.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/gl.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/gu.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/id.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/is.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ja.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/kk.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/km.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/kn.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ko.po | 
- | [ln]({{< ref "/f26/language/ln.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ln.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/lv.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/mk.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ml.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/mr.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/nn.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/oc.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/or.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 333 | 333 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sl.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sq.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sv.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ta.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/te.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/tg.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/zh_HK.po | 
- | [af]({{< ref "/f26/language/af.md" >}}) | 109 | 247 | 44.1 | /mnt/stockage/packages/f26/gnome-user-share/po/af.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 63 | 160 | 39.4 | /mnt/stockage/packages/f26/gnome-user-share/po/ne.po | 
- | [rw]({{< ref "/f26/language/rw.md" >}}) | 2 | 61 | 3.3 | /mnt/stockage/packages/f26/gnome-user-share/po/rw.po | 
- | [mai]({{< ref "/f26/language/mai.md" >}}) | 8 | 288 | 2.8 | /mnt/stockage/packages/f26/gnome-user-share/po/mai.po | 
+ | [an](/f26/language/an) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/an.po | 
+ | [ar](/f26/language/ar) | 247 | 247 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ar.po | 
+ | [as](/f26/language/as) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/as.po | 
+ | [ast](/f26/language/ast) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ast.po | 
+ | [be](/f26/language/be) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/be.po | 
+ | [bg](/f26/language/bg) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bg.po | 
+ | [bn](/f26/language/bn) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bn.po | 
+ | [bn_IN](/f26/language/bn_IN) | 316 | 316 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bn_IN.po | 
+ | [br](/f26/language/br) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/br.po | 
+ | [bs](/f26/language/bs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/bs.po | 
+ | [ca](/f26/language/ca) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ca.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/cs.po | 
+ | [da](/f26/language/da) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/da.po | 
+ | [de](/f26/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/de.po | 
+ | [dz](/f26/language/dz) | 75 | 75 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/dz.po | 
+ | [el](/f26/language/el) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 70 | 70 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/en_CA.po | 
+ | [en_GB](/f26/language/en_GB) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/en_GB.po | 
+ | [eo](/f26/language/eo) | 247 | 247 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/eo.po | 
+ | [error](/f26/language/error) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/en@shaw.po | 
+ | [es](/f26/language/es) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/es.po | 
+ | [et](/f26/language/et) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/et.po | 
+ | [eu](/f26/language/eu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/eu.po | 
+ | [fa](/f26/language/fa) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fa.po | 
+ | [fi](/f26/language/fi) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fi.po | 
+ | [fr](/f26/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fr.po | 
+ | [fur](/f26/language/fur) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/fur.po | 
+ | [ga](/f26/language/ga) | 288 | 288 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ga.po | 
+ | [gd](/f26/language/gd) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/gd.po | 
+ | [gl](/f26/language/gl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/gl.po | 
+ | [gu](/f26/language/gu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/gu.po | 
+ | [he](/f26/language/he) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/he.po | 
+ | [hi](/f26/language/hi) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/hi.po | 
+ | [hu](/f26/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/hu.po | 
+ | [id](/f26/language/id) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/id.po | 
+ | [is](/f26/language/is) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/is.po | 
+ | [it](/f26/language/it) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/it.po | 
+ | [ja](/f26/language/ja) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ja.po | 
+ | [kk](/f26/language/kk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/kk.po | 
+ | [km](/f26/language/km) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/km.po | 
+ | [kn](/f26/language/kn) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/kn.po | 
+ | [ko](/f26/language/ko) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ko.po | 
+ | [ln](/f26/language/ln) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ln.po | 
+ | [lt](/f26/language/lt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/lt.po | 
+ | [lv](/f26/language/lv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/lv.po | 
+ | [mk](/f26/language/mk) | 61 | 61 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/mk.po | 
+ | [ml](/f26/language/ml) | 184 | 184 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ml.po | 
+ | [mr](/f26/language/mr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/mr.po | 
+ | [nb_NO](/f26/language/nb_NO) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/nb.po | 
+ | [nl](/f26/language/nl) | 247 | 247 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/nl.po | 
+ | [nn](/f26/language/nn) | 326 | 326 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/nn.po | 
+ | [oc](/f26/language/oc) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/oc.po | 
+ | [or](/f26/language/or) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/or.po | 
+ | [pa](/f26/language/pa) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pa.po | 
+ | [pl](/f26/language/pl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pl.po | 
+ | [pt](/f26/language/pt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 333 | 333 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ro.po | 
+ | [ru](/f26/language/ru) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ru.po | 
+ | [sk](/f26/language/sk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sk.po | 
+ | [sl](/f26/language/sl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sl.po | 
+ | [sq](/f26/language/sq) | 61 | 61 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sq.po | 
+ | [sr](/f26/language/sr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/sv.po | 
+ | [ta](/f26/language/ta) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ta.po | 
+ | [te](/f26/language/te) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/te.po | 
+ | [tg](/f26/language/tg) | 136 | 136 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/tg.po | 
+ | [th](/f26/language/th) | 316 | 316 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/th.po | 
+ | [tr](/f26/language/tr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/tr.po | 
+ | [ug](/f26/language/ug) | 224 | 224 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/ug.po | 
+ | [uk](/f26/language/uk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/uk.po | 
+ | [vi](/f26/language/vi) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 52 | 52 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 160 | 160 | 100.0 | /mnt/stockage/packages/f26/gnome-user-share/po/zh_HK.po | 
+ | [af](/f26/language/af) | 109 | 247 | 44.1 | /mnt/stockage/packages/f26/gnome-user-share/po/af.po | 
+ | [ne](/f26/language/ne) | 63 | 160 | 39.4 | /mnt/stockage/packages/f26/gnome-user-share/po/ne.po | 
+ | [rw](/f26/language/rw) | 2 | 61 | 3.3 | /mnt/stockage/packages/f26/gnome-user-share/po/rw.po | 
+ | [mai](/f26/language/mai) | 8 | 288 | 2.8 | /mnt/stockage/packages/f26/gnome-user-share/po/mai.po | 
 {.sortable}
 
 

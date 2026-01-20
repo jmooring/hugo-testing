@@ -18,17 +18,17 @@ The package gawk (version 4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f19/language/da.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/es.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/pl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/sv.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/vi.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 2746 | 2895 | 94.9 | /mnt/stockage/packages/f19/gawk/po/ja.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2605 | 2895 | 90.0 | /mnt/stockage/packages/f19/gawk/po/it.po | 
+ | [da](/f19/language/da) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/da.po | 
+ | [de](/f19/language/de) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/de.po | 
+ | [es](/f19/language/es) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/es.po | 
+ | [fi](/f19/language/fi) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/fi.po | 
+ | [fr](/f19/language/fr) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/fr.po | 
+ | [nl](/f19/language/nl) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/nl.po | 
+ | [pl](/f19/language/pl) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/pl.po | 
+ | [sv](/f19/language/sv) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/sv.po | 
+ | [vi](/f19/language/vi) | 2773 | 2895 | 95.8 | /mnt/stockage/packages/f19/gawk/po/vi.po | 
+ | [ja](/f19/language/ja) | 2746 | 2895 | 94.9 | /mnt/stockage/packages/f19/gawk/po/ja.po | 
+ | [it](/f19/language/it) | 2605 | 2895 | 90.0 | /mnt/stockage/packages/f19/gawk/po/it.po | 
 {.sortable}
 
 

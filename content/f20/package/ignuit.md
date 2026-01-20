@@ -18,9 +18,9 @@ The package ignuit (version 2.24.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 857 | 877 | 97.7 | /mnt/stockage/packages/f20/ignuit/po/ru.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 762 | 784 | 97.2 | /mnt/stockage/packages/f20/ignuit/po/de.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 16 | 789 | 2.0 | /mnt/stockage/packages/f20/ignuit/po/en_US.po | 
+ | [ru](/f20/language/ru) | 857 | 877 | 97.7 | /mnt/stockage/packages/f20/ignuit/po/ru.po | 
+ | [de](/f20/language/de) | 762 | 784 | 97.2 | /mnt/stockage/packages/f20/ignuit/po/de.po | 
+ | [en_US](/f20/language/en_US) | 16 | 789 | 2.0 | /mnt/stockage/packages/f20/ignuit/po/en_US.po | 
 {.sortable}
 
 

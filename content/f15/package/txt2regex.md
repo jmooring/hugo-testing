@@ -18,14 +18,14 @@ The package txt2regex (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/es_ES.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/it_IT.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/ro_RO.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 170 | 277 | 61.4 | /mnt/stockage/packages/f15/txt2regex/po/de_DE.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 170 | 277 | 61.4 | /mnt/stockage/packages/f15/txt2regex/po/id_ID.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 170 | 277 | 61.4 | /mnt/stockage/packages/f15/txt2regex/po/pl_PL.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 115 | 277 | 41.5 | /mnt/stockage/packages/f15/txt2regex/po/ja.po | 
+ | [es](/f15/language/es) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/es_ES.po | 
+ | [it](/f15/language/it) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/it_IT.po | 
+ | [pt_BR](/f15/language/pt_BR) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 277 | 277 | 100.0 | /mnt/stockage/packages/f15/txt2regex/po/ro_RO.po | 
+ | [de](/f15/language/de) | 170 | 277 | 61.4 | /mnt/stockage/packages/f15/txt2regex/po/de_DE.po | 
+ | [id](/f15/language/id) | 170 | 277 | 61.4 | /mnt/stockage/packages/f15/txt2regex/po/id_ID.po | 
+ | [pl](/f15/language/pl) | 170 | 277 | 61.4 | /mnt/stockage/packages/f15/txt2regex/po/pl_PL.po | 
+ | [ja](/f15/language/ja) | 115 | 277 | 41.5 | /mnt/stockage/packages/f15/txt2regex/po/ja.po | 
 {.sortable}
 
 

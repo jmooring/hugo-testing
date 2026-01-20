@@ -18,12 +18,12 @@ The package vdr-screenshot (version 0.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/de_DE.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/fi_FI.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/it_IT.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/tr_TR.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f35/vdr-screenshot/po/ca_ES.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 27 | 35 | 77.1 | /mnt/stockage/packages/f35/vdr-screenshot/po/es_ES.po | 
+ | [de](/f35/language/de) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/de_DE.po | 
+ | [fi](/f35/language/fi) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/fi_FI.po | 
+ | [it](/f35/language/it) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/it_IT.po | 
+ | [tr](/f35/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f35/vdr-screenshot/po/tr_TR.po | 
+ | [ca](/f35/language/ca) | 27 | 35 | 77.1 | /mnt/stockage/packages/f35/vdr-screenshot/po/ca_ES.po | 
+ | [es](/f35/language/es) | 27 | 35 | 77.1 | /mnt/stockage/packages/f35/vdr-screenshot/po/es_ES.po | 
 {.sortable}
 
 

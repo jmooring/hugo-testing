@@ -18,9 +18,9 @@ The package opencc (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/opencc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/opencc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/opencc/po/zh_HK.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/opencc/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/opencc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/opencc/po/zh_HK.po | 
 {.sortable}
 
 

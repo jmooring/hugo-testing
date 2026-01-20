@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 475 | 1591 | 29.9 |  | 
- | [dnf-plugin-system-upgrade]({{< ref "/f22/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Twi | 
- | [entangle]({{< ref "/f22/package/entangle.md" >}}) | 0 | 934 | 0.0 | Twi | 
- | [libosinfo]({{< ref "/f22/package/libosinfo.md" >}}) | 0 | 1871 | 0.0 | Twi | 
- | [libvirt-glib]({{< ref "/f22/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Twi | 
- | [libvirt-sandbox]({{< ref "/f22/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Twi | 
- | [python-fedora]({{< ref "/f22/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Twi | 
- | [python-meh]({{< ref "/f22/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Twi | 
+ | [tuxpaint](/f22/package/tuxpaint) | 475 | 1591 | 29.9 |  | 
+ | [dnf-plugin-system-upgrade](/f22/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Twi | 
+ | [entangle](/f22/package/entangle) | 0 | 934 | 0.0 | Twi | 
+ | [libosinfo](/f22/package/libosinfo) | 0 | 1871 | 0.0 | Twi | 
+ | [libvirt-glib](/f22/package/libvirt-glib) | 0 | 138 | 0.0 | Twi | 
+ | [libvirt-sandbox](/f22/package/libvirt-sandbox) | 0 | 617 | 0.0 | Twi | 
+ | [python-fedora](/f22/package/python-fedora) | 0 | 214 | 0.0 | Twi | 
+ | [python-meh](/f22/package/python-meh) | 0 | 109 | 0.0 | Twi | 
 {.sortable}
 
 

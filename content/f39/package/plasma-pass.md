@@ -18,40 +18,40 @@ The package plasma-pass (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/ca/plasma_applet_org.kde.plasma.pass.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/ca@valencia/plasma_applet_org.kde.plasma.pass.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/en_GB/plasma_applet_org.kde.plasma.pass.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/es/plasma_applet_org.kde.plasma.pass.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/nl/plasma_applet_org.kde.plasma.pass.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/pl/plasma_applet_org.kde.plasma.pass.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/sv/plasma_applet_org.kde.plasma.pass.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/uk/plasma_applet_org.kde.plasma.pass.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ast/plasma_applet_org.kde.plasma.pass.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/az/plasma_applet_org.kde.plasma.pass.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/cs/plasma_applet_org.kde.plasma.pass.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/da/plasma_applet_org.kde.plasma.pass.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/de/plasma_applet_org.kde.plasma.pass.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/el/plasma_applet_org.kde.plasma.pass.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/et/plasma_applet_org.kde.plasma.pass.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/eu/plasma_applet_org.kde.plasma.pass.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/fi/plasma_applet_org.kde.plasma.pass.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/fr/plasma_applet_org.kde.plasma.pass.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/gl/plasma_applet_org.kde.plasma.pass.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/hi/plasma_applet_org.kde.plasma.pass.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/hu/plasma_applet_org.kde.plasma.pass.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ia/plasma_applet_org.kde.plasma.pass.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/it/plasma_applet_org.kde.plasma.pass.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ko/plasma_applet_org.kde.plasma.pass.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/lt/plasma_applet_org.kde.plasma.pass.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/nn/plasma_applet_org.kde.plasma.pass.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/pa/plasma_applet_org.kde.plasma.pass.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/pt/plasma_applet_org.kde.plasma.pass.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/pt_BR/plasma_applet_org.kde.plasma.pass.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ro/plasma_applet_org.kde.plasma.pass.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ru/plasma_applet_org.kde.plasma.pass.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/sk/plasma_applet_org.kde.plasma.pass.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/sl/plasma_applet_org.kde.plasma.pass.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/zh_TW/plasma_applet_org.kde.plasma.pass.po | 
+ | [ca](/f39/language/ca) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/ca/plasma_applet_org.kde.plasma.pass.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/ca@valencia/plasma_applet_org.kde.plasma.pass.po | 
+ | [en_GB](/f39/language/en_GB) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/en_GB/plasma_applet_org.kde.plasma.pass.po | 
+ | [es](/f39/language/es) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/es/plasma_applet_org.kde.plasma.pass.po | 
+ | [nl](/f39/language/nl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/nl/plasma_applet_org.kde.plasma.pass.po | 
+ | [pl](/f39/language/pl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/pl/plasma_applet_org.kde.plasma.pass.po | 
+ | [sv](/f39/language/sv) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/sv/plasma_applet_org.kde.plasma.pass.po | 
+ | [uk](/f39/language/uk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f39/plasma-pass/po/uk/plasma_applet_org.kde.plasma.pass.po | 
+ | [ast](/f39/language/ast) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ast/plasma_applet_org.kde.plasma.pass.po | 
+ | [az](/f39/language/az) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/az/plasma_applet_org.kde.plasma.pass.po | 
+ | [cs](/f39/language/cs) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/cs/plasma_applet_org.kde.plasma.pass.po | 
+ | [da](/f39/language/da) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/da/plasma_applet_org.kde.plasma.pass.po | 
+ | [de](/f39/language/de) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/de/plasma_applet_org.kde.plasma.pass.po | 
+ | [el](/f39/language/el) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/el/plasma_applet_org.kde.plasma.pass.po | 
+ | [et](/f39/language/et) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/et/plasma_applet_org.kde.plasma.pass.po | 
+ | [eu](/f39/language/eu) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/eu/plasma_applet_org.kde.plasma.pass.po | 
+ | [fi](/f39/language/fi) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/fi/plasma_applet_org.kde.plasma.pass.po | 
+ | [fr](/f39/language/fr) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/fr/plasma_applet_org.kde.plasma.pass.po | 
+ | [gl](/f39/language/gl) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/gl/plasma_applet_org.kde.plasma.pass.po | 
+ | [hi](/f39/language/hi) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/hi/plasma_applet_org.kde.plasma.pass.po | 
+ | [hu](/f39/language/hu) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/hu/plasma_applet_org.kde.plasma.pass.po | 
+ | [ia](/f39/language/ia) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ia/plasma_applet_org.kde.plasma.pass.po | 
+ | [it](/f39/language/it) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/it/plasma_applet_org.kde.plasma.pass.po | 
+ | [ko](/f39/language/ko) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ko/plasma_applet_org.kde.plasma.pass.po | 
+ | [lt](/f39/language/lt) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/lt/plasma_applet_org.kde.plasma.pass.po | 
+ | [nn](/f39/language/nn) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/nn/plasma_applet_org.kde.plasma.pass.po | 
+ | [pa](/f39/language/pa) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/pa/plasma_applet_org.kde.plasma.pass.po | 
+ | [pt](/f39/language/pt) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/pt/plasma_applet_org.kde.plasma.pass.po | 
+ | [pt_BR](/f39/language/pt_BR) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/pt_BR/plasma_applet_org.kde.plasma.pass.po | 
+ | [ro](/f39/language/ro) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ro/plasma_applet_org.kde.plasma.pass.po | 
+ | [ru](/f39/language/ru) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/ru/plasma_applet_org.kde.plasma.pass.po | 
+ | [sk](/f39/language/sk) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/sk/plasma_applet_org.kde.plasma.pass.po | 
+ | [sl](/f39/language/sl) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/sl/plasma_applet_org.kde.plasma.pass.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 26 | 30 | 86.7 | /mnt/stockage/packages/f39/plasma-pass/po/zh_TW/plasma_applet_org.kde.plasma.pass.po | 
 {.sortable}
 
 

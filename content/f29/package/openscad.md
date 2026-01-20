@@ -18,11 +18,11 @@ The package openscad (version 2015.03.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f29/openscad/locale/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f29/openscad/locale/fr.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f29/openscad/locale/ru.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 604 | 624 | 96.8 | /mnt/stockage/packages/f29/openscad/locale/cs.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 515 | 622 | 82.8 | /mnt/stockage/packages/f29/openscad/locale/es.po | 
+ | [de](/f29/language/de) | 624 | 624 | 100.0 | /mnt/stockage/packages/f29/openscad/locale/de.po | 
+ | [fr](/f29/language/fr) | 624 | 624 | 100.0 | /mnt/stockage/packages/f29/openscad/locale/fr.po | 
+ | [ru](/f29/language/ru) | 624 | 624 | 100.0 | /mnt/stockage/packages/f29/openscad/locale/ru.po | 
+ | [cs](/f29/language/cs) | 604 | 624 | 96.8 | /mnt/stockage/packages/f29/openscad/locale/cs.po | 
+ | [es](/f29/language/es) | 515 | 622 | 82.8 | /mnt/stockage/packages/f29/openscad/locale/es.po | 
 {.sortable}
 
 

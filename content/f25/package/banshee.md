@@ -18,58 +18,58 @@ The package banshee (version 2.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 17422 | 17422 | 100.0 | /mnt/stockage/packages/f25/banshee/help/cs/cs.po/mnt/stockage/packages/f25/banshee/po/cs.po/mnt/stockage/packages/f25/banshee/po/ast.po | 
- | [dz]({{< ref "/f25/language/dz.md" >}}) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f25/banshee/po/dz.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 11347 | 11347 | 100.0 | /mnt/stockage/packages/f25/banshee/help/el/el.po/mnt/stockage/packages/f25/banshee/po/el.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 2133 | 2133 | 100.0 | /mnt/stockage/packages/f25/banshee/po/en_CA.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 11120 | 11120 | 100.0 | /mnt/stockage/packages/f25/banshee/help/en_GB/en_GB.po/mnt/stockage/packages/f25/banshee/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 11390 | 11390 | 100.0 | /mnt/stockage/packages/f25/banshee/help/es/es.po/mnt/stockage/packages/f25/banshee/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 5947 | 5947 | 100.0 | /mnt/stockage/packages/f25/banshee/po/eu.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 11157 | 11157 | 100.0 | /mnt/stockage/packages/f25/banshee/help/fr/fr.po/mnt/stockage/packages/f25/banshee/po/fr.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 5792 | 5792 | 100.0 | /mnt/stockage/packages/f25/banshee/po/he.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 11200 | 11200 | 100.0 | /mnt/stockage/packages/f25/banshee/help/hu/hu.po/mnt/stockage/packages/f25/banshee/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/it.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 6066 | 6066 | 100.0 | /mnt/stockage/packages/f25/banshee/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/lv.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 5801 | 5801 | 100.0 | /mnt/stockage/packages/f25/banshee/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 11779 | 11779 | 100.0 | /mnt/stockage/packages/f25/banshee/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/banshee/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 5879 | 5879 | 100.0 | /mnt/stockage/packages/f25/banshee/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 11200 | 11200 | 100.0 | /mnt/stockage/packages/f25/banshee/help/sl/sl.po/mnt/stockage/packages/f25/banshee/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 12002 | 12002 | 100.0 | /mnt/stockage/packages/f25/banshee/po/sr@latin.po/mnt/stockage/packages/f25/banshee/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 5218 | 5218 | 100.0 | /mnt/stockage/packages/f25/banshee/po/sv.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 5961 | 5961 | 100.0 | /mnt/stockage/packages/f25/banshee/po/tr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 10874 | 10874 | 100.0 | /mnt/stockage/packages/f25/banshee/help/uk/uk.po/mnt/stockage/packages/f25/banshee/po/uk.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/zh_HK.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 5803 | 5811 | 99.9 | /mnt/stockage/packages/f25/banshee/po/nn.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 11069 | 11120 | 99.5 | /mnt/stockage/packages/f25/banshee/help/ca/ca.po/mnt/stockage/packages/f25/banshee/po/ca.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 5987 | 6032 | 99.3 | /mnt/stockage/packages/f25/banshee/po/fi.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 5846 | 5890 | 99.3 | /mnt/stockage/packages/f25/banshee/po/ro.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 5840 | 5892 | 99.1 | /mnt/stockage/packages/f25/banshee/po/ca@valencia.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 11212 | 11388 | 98.5 | /mnt/stockage/packages/f25/banshee/help/de/de.po/mnt/stockage/packages/f25/banshee/po/de.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 10976 | 11160 | 98.4 | /mnt/stockage/packages/f25/banshee/help/ja/ja.po/mnt/stockage/packages/f25/banshee/po/ja.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 5725 | 5890 | 97.2 | /mnt/stockage/packages/f25/banshee/po/vi.po | 
- | [be_Latn]({{< ref "/f25/language/be_Latn.md" >}}) | 2035 | 2100 | 96.9 | /mnt/stockage/packages/f25/banshee/po/be@latin.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 5662 | 5874 | 96.4 | /mnt/stockage/packages/f25/banshee/po/eo.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 3493 | 4367 | 80.0 | /mnt/stockage/packages/f25/banshee/po/mk.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 4405 | 5838 | 75.5 | /mnt/stockage/packages/f25/banshee/po/pa.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 7289 | 11056 | 65.9 | /mnt/stockage/packages/f25/banshee/help/da/da.po/mnt/stockage/packages/f25/banshee/po/da.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 2758 | 4232 | 65.2 | /mnt/stockage/packages/f25/banshee/po/gu.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 7240 | 11123 | 65.1 | /mnt/stockage/packages/f25/banshee/help/zh_CN/zh_CN.po/mnt/stockage/packages/f25/banshee/po/zh_CN.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 3433 | 5947 | 57.7 | /mnt/stockage/packages/f25/banshee/po/th.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 6019 | 11116 | 54.1 | /mnt/stockage/packages/f25/banshee/help/gl/gl.po/mnt/stockage/packages/f25/banshee/po/gl.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 3173 | 5871 | 54.0 | /mnt/stockage/packages/f25/banshee/po/sk.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 2183 | 4240 | 51.5 | /mnt/stockage/packages/f25/banshee/po/bg.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 2888 | 5958 | 48.5 | /mnt/stockage/packages/f25/banshee/po/te.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 1056 | 3389 | 31.2 | /mnt/stockage/packages/f25/banshee/po/ar.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 1228 | 4232 | 29.0 | /mnt/stockage/packages/f25/banshee/po/ky.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 1159 | 4202 | 27.6 | /mnt/stockage/packages/f25/banshee/po/br.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 1202 | 5726 | 21.0 | /mnt/stockage/packages/f25/banshee/po/nb.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 400 | 3190 | 12.5 | /mnt/stockage/packages/f25/banshee/po/oc.po | 
+ | [cs](/f25/language/cs) | 17422 | 17422 | 100.0 | /mnt/stockage/packages/f25/banshee/help/cs/cs.po/mnt/stockage/packages/f25/banshee/po/cs.po/mnt/stockage/packages/f25/banshee/po/ast.po | 
+ | [dz](/f25/language/dz) | 4439 | 4439 | 100.0 | /mnt/stockage/packages/f25/banshee/po/dz.po | 
+ | [el](/f25/language/el) | 11347 | 11347 | 100.0 | /mnt/stockage/packages/f25/banshee/help/el/el.po/mnt/stockage/packages/f25/banshee/po/el.po | 
+ | [en_CA](/f25/language/en_CA) | 2133 | 2133 | 100.0 | /mnt/stockage/packages/f25/banshee/po/en_CA.po | 
+ | [en_GB](/f25/language/en_GB) | 11120 | 11120 | 100.0 | /mnt/stockage/packages/f25/banshee/help/en_GB/en_GB.po/mnt/stockage/packages/f25/banshee/po/en_GB.po | 
+ | [es](/f25/language/es) | 11390 | 11390 | 100.0 | /mnt/stockage/packages/f25/banshee/help/es/es.po/mnt/stockage/packages/f25/banshee/po/es.po | 
+ | [eu](/f25/language/eu) | 5947 | 5947 | 100.0 | /mnt/stockage/packages/f25/banshee/po/eu.po | 
+ | [fr](/f25/language/fr) | 11157 | 11157 | 100.0 | /mnt/stockage/packages/f25/banshee/help/fr/fr.po/mnt/stockage/packages/f25/banshee/po/fr.po | 
+ | [he](/f25/language/he) | 5792 | 5792 | 100.0 | /mnt/stockage/packages/f25/banshee/po/he.po | 
+ | [hu](/f25/language/hu) | 11200 | 11200 | 100.0 | /mnt/stockage/packages/f25/banshee/help/hu/hu.po/mnt/stockage/packages/f25/banshee/po/hu.po | 
+ | [id](/f25/language/id) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/id.po | 
+ | [it](/f25/language/it) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/it.po | 
+ | [ko](/f25/language/ko) | 6066 | 6066 | 100.0 | /mnt/stockage/packages/f25/banshee/po/ko.po | 
+ | [lt](/f25/language/lt) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/lt.po | 
+ | [lv](/f25/language/lv) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/lv.po | 
+ | [nl](/f25/language/nl) | 5801 | 5801 | 100.0 | /mnt/stockage/packages/f25/banshee/po/nl.po | 
+ | [pl](/f25/language/pl) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f25/banshee/po/pl.po | 
+ | [pt](/f25/language/pt) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 11779 | 11779 | 100.0 | /mnt/stockage/packages/f25/banshee/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/banshee/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 5879 | 5879 | 100.0 | /mnt/stockage/packages/f25/banshee/po/ru.po | 
+ | [sl](/f25/language/sl) | 11200 | 11200 | 100.0 | /mnt/stockage/packages/f25/banshee/help/sl/sl.po/mnt/stockage/packages/f25/banshee/po/sl.po | 
+ | [sr](/f25/language/sr) | 12002 | 12002 | 100.0 | /mnt/stockage/packages/f25/banshee/po/sr@latin.po/mnt/stockage/packages/f25/banshee/po/sr.po | 
+ | [sv](/f25/language/sv) | 5218 | 5218 | 100.0 | /mnt/stockage/packages/f25/banshee/po/sv.po | 
+ | [tr](/f25/language/tr) | 5961 | 5961 | 100.0 | /mnt/stockage/packages/f25/banshee/po/tr.po | 
+ | [uk](/f25/language/uk) | 10874 | 10874 | 100.0 | /mnt/stockage/packages/f25/banshee/help/uk/uk.po/mnt/stockage/packages/f25/banshee/po/uk.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 5958 | 5958 | 100.0 | /mnt/stockage/packages/f25/banshee/po/zh_HK.po | 
+ | [nn](/f25/language/nn) | 5803 | 5811 | 99.9 | /mnt/stockage/packages/f25/banshee/po/nn.po | 
+ | [ca](/f25/language/ca) | 11069 | 11120 | 99.5 | /mnt/stockage/packages/f25/banshee/help/ca/ca.po/mnt/stockage/packages/f25/banshee/po/ca.po | 
+ | [fi](/f25/language/fi) | 5987 | 6032 | 99.3 | /mnt/stockage/packages/f25/banshee/po/fi.po | 
+ | [ro](/f25/language/ro) | 5846 | 5890 | 99.3 | /mnt/stockage/packages/f25/banshee/po/ro.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 5840 | 5892 | 99.1 | /mnt/stockage/packages/f25/banshee/po/ca@valencia.po | 
+ | [de](/f25/language/de) | 11212 | 11388 | 98.5 | /mnt/stockage/packages/f25/banshee/help/de/de.po/mnt/stockage/packages/f25/banshee/po/de.po | 
+ | [ja](/f25/language/ja) | 10976 | 11160 | 98.4 | /mnt/stockage/packages/f25/banshee/help/ja/ja.po/mnt/stockage/packages/f25/banshee/po/ja.po | 
+ | [vi](/f25/language/vi) | 5725 | 5890 | 97.2 | /mnt/stockage/packages/f25/banshee/po/vi.po | 
+ | [be_Latn](/f25/language/be_Latn) | 2035 | 2100 | 96.9 | /mnt/stockage/packages/f25/banshee/po/be@latin.po | 
+ | [eo](/f25/language/eo) | 5662 | 5874 | 96.4 | /mnt/stockage/packages/f25/banshee/po/eo.po | 
+ | [mk](/f25/language/mk) | 3493 | 4367 | 80.0 | /mnt/stockage/packages/f25/banshee/po/mk.po | 
+ | [pa](/f25/language/pa) | 4405 | 5838 | 75.5 | /mnt/stockage/packages/f25/banshee/po/pa.po | 
+ | [da](/f25/language/da) | 7289 | 11056 | 65.9 | /mnt/stockage/packages/f25/banshee/help/da/da.po/mnt/stockage/packages/f25/banshee/po/da.po | 
+ | [gu](/f25/language/gu) | 2758 | 4232 | 65.2 | /mnt/stockage/packages/f25/banshee/po/gu.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 7240 | 11123 | 65.1 | /mnt/stockage/packages/f25/banshee/help/zh_CN/zh_CN.po/mnt/stockage/packages/f25/banshee/po/zh_CN.po | 
+ | [th](/f25/language/th) | 3433 | 5947 | 57.7 | /mnt/stockage/packages/f25/banshee/po/th.po | 
+ | [gl](/f25/language/gl) | 6019 | 11116 | 54.1 | /mnt/stockage/packages/f25/banshee/help/gl/gl.po/mnt/stockage/packages/f25/banshee/po/gl.po | 
+ | [sk](/f25/language/sk) | 3173 | 5871 | 54.0 | /mnt/stockage/packages/f25/banshee/po/sk.po | 
+ | [bg](/f25/language/bg) | 2183 | 4240 | 51.5 | /mnt/stockage/packages/f25/banshee/po/bg.po | 
+ | [te](/f25/language/te) | 2888 | 5958 | 48.5 | /mnt/stockage/packages/f25/banshee/po/te.po | 
+ | [ar](/f25/language/ar) | 1056 | 3389 | 31.2 | /mnt/stockage/packages/f25/banshee/po/ar.po | 
+ | [ky](/f25/language/ky) | 1228 | 4232 | 29.0 | /mnt/stockage/packages/f25/banshee/po/ky.po | 
+ | [br](/f25/language/br) | 1159 | 4202 | 27.6 | /mnt/stockage/packages/f25/banshee/po/br.po | 
+ | [nb_NO](/f25/language/nb_NO) | 1202 | 5726 | 21.0 | /mnt/stockage/packages/f25/banshee/po/nb.po | 
+ | [oc](/f25/language/oc) | 400 | 3190 | 12.5 | /mnt/stockage/packages/f25/banshee/po/oc.po | 
 {.sortable}
 
 

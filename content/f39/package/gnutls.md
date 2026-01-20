@@ -18,24 +18,24 @@ The package gnutls (version 3.8.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/de.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/eo.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/it.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/ka.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/ms.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/ro.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/uk.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/fi.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/nl.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/vi.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/zh_CN.po | 
+ | [cs](/f39/language/cs) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/cs.po | 
+ | [de](/f39/language/de) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/de.po | 
+ | [eo](/f39/language/eo) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/eo.po | 
+ | [es](/f39/language/es) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/es.po | 
+ | [fr](/f39/language/fr) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/fr.po | 
+ | [it](/f39/language/it) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/it.po | 
+ | [ka](/f39/language/ka) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/ka.po | 
+ | [ms](/f39/language/ms) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/ms.po | 
+ | [pl](/f39/language/pl) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/ro.po | 
+ | [sr](/f39/language/sr) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/sr.po | 
+ | [sv](/f39/language/sv) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/sv.po | 
+ | [uk](/f39/language/uk) | 1784 | 2007 | 88.9 | /mnt/stockage/packages/f39/gnutls/po/uk.po | 
+ | [fi](/f39/language/fi) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/fi.po | 
+ | [nl](/f39/language/nl) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/nl.po | 
+ | [vi](/f39/language/vi) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/vi.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1244 | 2007 | 62.0 | /mnt/stockage/packages/f39/gnutls/po/zh_CN.po | 
 {.sortable}
 
 

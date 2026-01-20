@@ -18,9 +18,9 @@ The package libvisual (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 1041 | 1053 | 98.9 | /mnt/stockage/packages/f42/libvisual/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 300 | 1053 | 28.5 | /mnt/stockage/packages/f42/libvisual/po/es_ES.po | 
- | [es_AR]({{< ref "/f42/language/es_AR.md" >}}) | 300 | 1053 | 28.5 | /mnt/stockage/packages/f42/libvisual/po/es_AR.po | 
+ | [de](/f42/language/de) | 1041 | 1053 | 98.9 | /mnt/stockage/packages/f42/libvisual/po/de.po | 
+ | [es](/f42/language/es) | 300 | 1053 | 28.5 | /mnt/stockage/packages/f42/libvisual/po/es_ES.po | 
+ | [es_AR](/f42/language/es_AR) | 300 | 1053 | 28.5 | /mnt/stockage/packages/f42/libvisual/po/es_AR.po | 
 {.sortable}
 
 

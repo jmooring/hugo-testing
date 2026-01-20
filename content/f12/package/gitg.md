@@ -18,13 +18,13 @@ The package gitg (version 0.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f12/gitg/po/nl.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 226 | 1042 | 21.7 | /mnt/stockage/packages/f12/gitg/po/da.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 197 | 1042 | 18.9 | /mnt/stockage/packages/f12/gitg/po/sv.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 148 | 1042 | 14.2 | /mnt/stockage/packages/f12/gitg/po/es.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 124 | 1042 | 11.9 | /mnt/stockage/packages/f12/gitg/po/pa.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 106 | 1042 | 10.2 | /mnt/stockage/packages/f12/gitg/po/gl.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 105 | 1042 | 10.1 | /mnt/stockage/packages/f12/gitg/po/fr.po | 
+ | [nl](/f12/language/nl) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f12/gitg/po/nl.po | 
+ | [da](/f12/language/da) | 226 | 1042 | 21.7 | /mnt/stockage/packages/f12/gitg/po/da.po | 
+ | [sv](/f12/language/sv) | 197 | 1042 | 18.9 | /mnt/stockage/packages/f12/gitg/po/sv.po | 
+ | [es](/f12/language/es) | 148 | 1042 | 14.2 | /mnt/stockage/packages/f12/gitg/po/es.po | 
+ | [pa](/f12/language/pa) | 124 | 1042 | 11.9 | /mnt/stockage/packages/f12/gitg/po/pa.po | 
+ | [gl](/f12/language/gl) | 106 | 1042 | 10.2 | /mnt/stockage/packages/f12/gitg/po/gl.po | 
+ | [fr](/f12/language/fr) | 105 | 1042 | 10.1 | /mnt/stockage/packages/f12/gitg/po/fr.po | 
 {.sortable}
 
 

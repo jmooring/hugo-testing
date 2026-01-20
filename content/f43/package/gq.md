@@ -18,10 +18,10 @@ The package gq (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 2634 | 2660 | 99.0 | /mnt/stockage/packages/f43/gq/po/ja.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1976 | 2961 | 66.7 | /mnt/stockage/packages/f43/gq/help/gq-manual/de/de.po/mnt/stockage/packages/f43/gq/po/de.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 854 | 1937 | 44.1 | /mnt/stockage/packages/f43/gq/po/zh_CN.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 461 | 1937 | 23.8 | /mnt/stockage/packages/f43/gq/po/cs.po | 
+ | [ja](/f43/language/ja) | 2634 | 2660 | 99.0 | /mnt/stockage/packages/f43/gq/po/ja.po | 
+ | [de](/f43/language/de) | 1976 | 2961 | 66.7 | /mnt/stockage/packages/f43/gq/help/gq-manual/de/de.po/mnt/stockage/packages/f43/gq/po/de.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 854 | 1937 | 44.1 | /mnt/stockage/packages/f43/gq/po/zh_CN.po | 
+ | [cs](/f43/language/cs) | 461 | 1937 | 23.8 | /mnt/stockage/packages/f43/gq/po/cs.po | 
 {.sortable}
 
 

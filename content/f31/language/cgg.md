@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f31/package/tuxpaint.md" >}}) | 1501 | 1591 | 94.3 | none | 
- | [sugar]({{< ref "/f31/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f31/package/sugar-toolkit-gtk3.md" >}}) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f31/package/tuxpaint) | 1501 | 1591 | 94.3 | none | 
+ | [sugar](/f31/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f31/package/sugar-toolkit-gtk3) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

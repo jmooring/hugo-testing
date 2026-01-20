@@ -18,38 +18,38 @@ The package rekonq (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f19/language/da.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/da/rekonq.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/de/rekonq.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/el/rekonq.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/es/rekonq.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/fi/rekonq.po | 
- | [ia]({{< ref "/f19/language/ia.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/ia/rekonq.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/nl/rekonq.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/pt/rekonq.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/pt_BR/rekonq.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sk/rekonq.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sl/rekonq.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr/rekonq.po | 
- | [sr@ijekavian]({{< ref "/f19/language/sr@ijekavian.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr@ijekavian/rekonq.po | 
- | [sr@ijekavian_Latn]({{< ref "/f19/language/sr@ijekavian_Latn.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr@ijekavianlatin/rekonq.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr@latin/rekonq.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sv/rekonq.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/tr/rekonq.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/uk/rekonq.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2196 | 2202 | 99.7 | /mnt/stockage/packages/f19/rekonq/po/fr/rekonq.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 2196 | 2202 | 99.7 | /mnt/stockage/packages/f19/rekonq/po/gl/rekonq.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 2189 | 2202 | 99.4 | /mnt/stockage/packages/f19/rekonq/po/hu/rekonq.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 2189 | 2202 | 99.4 | /mnt/stockage/packages/f19/rekonq/po/zh_TW/rekonq.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 2187 | 2202 | 99.3 | /mnt/stockage/packages/f19/rekonq/po/eu/rekonq.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2184 | 2202 | 99.2 | /mnt/stockage/packages/f19/rekonq/po/it/rekonq.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 2147 | 2202 | 97.5 | /mnt/stockage/packages/f19/rekonq/po/zh_CN/rekonq.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 1871 | 2202 | 85.0 | /mnt/stockage/packages/f19/rekonq/po/lt/rekonq.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1871 | 2202 | 85.0 | /mnt/stockage/packages/f19/rekonq/po/pl/rekonq.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 1802 | 2202 | 81.8 | /mnt/stockage/packages/f19/rekonq/po/et/rekonq.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 1801 | 2202 | 81.8 | /mnt/stockage/packages/f19/rekonq/po/nb/rekonq.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1729 | 2202 | 78.5 | /mnt/stockage/packages/f19/rekonq/po/cs/rekonq.po | 
- | [km]({{< ref "/f19/language/km.md" >}}) | 1606 | 2202 | 72.9 | /mnt/stockage/packages/f19/rekonq/po/km/rekonq.po | 
- | [en_US]({{< ref "/f19/language/en_US.md" >}}) | 1385 | 2202 | 62.9 | /mnt/stockage/packages/f19/rekonq/po/mr/rekonq.po | 
+ | [da](/f19/language/da) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/da/rekonq.po | 
+ | [de](/f19/language/de) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/de/rekonq.po | 
+ | [el](/f19/language/el) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/el/rekonq.po | 
+ | [es](/f19/language/es) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/es/rekonq.po | 
+ | [fi](/f19/language/fi) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/fi/rekonq.po | 
+ | [ia](/f19/language/ia) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/ia/rekonq.po | 
+ | [nl](/f19/language/nl) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/nl/rekonq.po | 
+ | [pt](/f19/language/pt) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/pt/rekonq.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/pt_BR/rekonq.po | 
+ | [sk](/f19/language/sk) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sk/rekonq.po | 
+ | [sl](/f19/language/sl) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sl/rekonq.po | 
+ | [sr](/f19/language/sr) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr/rekonq.po | 
+ | [sr@ijekavian](/f19/language/sr@ijekavian) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr@ijekavian/rekonq.po | 
+ | [sr@ijekavian_Latn](/f19/language/sr@ijekavian_Latn) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr@ijekavianlatin/rekonq.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sr@latin/rekonq.po | 
+ | [sv](/f19/language/sv) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/sv/rekonq.po | 
+ | [tr](/f19/language/tr) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/tr/rekonq.po | 
+ | [uk](/f19/language/uk) | 2202 | 2202 | 100.0 | /mnt/stockage/packages/f19/rekonq/po/uk/rekonq.po | 
+ | [fr](/f19/language/fr) | 2196 | 2202 | 99.7 | /mnt/stockage/packages/f19/rekonq/po/fr/rekonq.po | 
+ | [gl](/f19/language/gl) | 2196 | 2202 | 99.7 | /mnt/stockage/packages/f19/rekonq/po/gl/rekonq.po | 
+ | [hu](/f19/language/hu) | 2189 | 2202 | 99.4 | /mnt/stockage/packages/f19/rekonq/po/hu/rekonq.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 2189 | 2202 | 99.4 | /mnt/stockage/packages/f19/rekonq/po/zh_TW/rekonq.po | 
+ | [eu](/f19/language/eu) | 2187 | 2202 | 99.3 | /mnt/stockage/packages/f19/rekonq/po/eu/rekonq.po | 
+ | [it](/f19/language/it) | 2184 | 2202 | 99.2 | /mnt/stockage/packages/f19/rekonq/po/it/rekonq.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 2147 | 2202 | 97.5 | /mnt/stockage/packages/f19/rekonq/po/zh_CN/rekonq.po | 
+ | [lt](/f19/language/lt) | 1871 | 2202 | 85.0 | /mnt/stockage/packages/f19/rekonq/po/lt/rekonq.po | 
+ | [pl](/f19/language/pl) | 1871 | 2202 | 85.0 | /mnt/stockage/packages/f19/rekonq/po/pl/rekonq.po | 
+ | [et](/f19/language/et) | 1802 | 2202 | 81.8 | /mnt/stockage/packages/f19/rekonq/po/et/rekonq.po | 
+ | [nb_NO](/f19/language/nb_NO) | 1801 | 2202 | 81.8 | /mnt/stockage/packages/f19/rekonq/po/nb/rekonq.po | 
+ | [cs](/f19/language/cs) | 1729 | 2202 | 78.5 | /mnt/stockage/packages/f19/rekonq/po/cs/rekonq.po | 
+ | [km](/f19/language/km) | 1606 | 2202 | 72.9 | /mnt/stockage/packages/f19/rekonq/po/km/rekonq.po | 
+ | [en_US](/f19/language/en_US) | 1385 | 2202 | 62.9 | /mnt/stockage/packages/f19/rekonq/po/mr/rekonq.po | 
 {.sortable}
 
 

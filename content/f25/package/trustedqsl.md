@@ -18,15 +18,15 @@ The package trustedqsl (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/de/tqslapp.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/es/tqslapp.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 4010 | 4010 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/fi/tqslapp.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/fr/tqslapp.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/it/tqslapp.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/ja/tqslapp.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/ru/tqslapp.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/zh/tqslapp.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 3999 | 4004 | 99.9 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/pt/tqslapp.po | 
+ | [de](/f25/language/de) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/de/tqslapp.po | 
+ | [es](/f25/language/es) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/es/tqslapp.po | 
+ | [fi](/f25/language/fi) | 4010 | 4010 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/fi/tqslapp.po | 
+ | [fr](/f25/language/fr) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/fr/tqslapp.po | 
+ | [it](/f25/language/it) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/it/tqslapp.po | 
+ | [ja](/f25/language/ja) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/ja/tqslapp.po | 
+ | [ru](/f25/language/ru) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/ru/tqslapp.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 4004 | 4004 | 100.0 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/zh/tqslapp.po | 
+ | [pt](/f25/language/pt) | 3999 | 4004 | 99.9 | /mnt/stockage/packages/f25/trustedqsl/apps/lang/pt/tqslapp.po | 
 {.sortable}
 
 

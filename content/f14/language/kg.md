@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bzflag]({{< ref "/f14/package/bzflag.md" >}}) | 97 | 97 | 100.0 |  | 
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 39 | 2424 | 1.6 | LANGUAGE <LL@li.org> | 
+ | [bzflag](/f14/package/bzflag) | 97 | 97 | 100.0 |  | 
+ | [pootle](/f14/package/pootle) | 39 | 2424 | 1.6 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -51,7 +51,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [bzflag]({{< ref "/f14/package/bzflag.md" >}}) | /mnt/stockage/packages/f14/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
+ | [bzflag](/f14/package/bzflag) | /mnt/stockage/packages/f14/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
 {.sortable}
 
 

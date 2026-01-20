@@ -18,55 +18,55 @@ The package xfce4-datetime-plugin (version 0.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f25/language/am.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/am.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ar.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ast.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/bg.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/el.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/es.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/eu.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/he.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/id.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/is.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ja.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/kk.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/lv.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/nb.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/nl.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/oc.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pa.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sv.po/mnt/stockage/packages/f25/xfce4-datetime-plugin/po/nn.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/zh_TW.po | 
- | [ur]({{< ref "/f25/language/ur.md" >}}) | 51 | 52 | 98.1 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f25/language/ur_PK.md" >}}) | 51 | 52 | 98.1 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ur_PK.po | 
- | [uz]({{< ref "/f25/language/uz.md" >}}) | 28 | 52 | 53.8 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/uz.po | 
+ | [am](/f25/language/am) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/am.po | 
+ | [ar](/f25/language/ar) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ar.po | 
+ | [ast](/f25/language/ast) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ast.po | 
+ | [bg](/f25/language/bg) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/bg.po | 
+ | [ca](/f25/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ca.po | 
+ | [cs](/f25/language/cs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/cs.po | 
+ | [da](/f25/language/da) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/da.po | 
+ | [de](/f25/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/de.po | 
+ | [el](/f25/language/el) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/el.po | 
+ | [en_AU](/f25/language/en_AU) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/en_AU.po | 
+ | [en_GB](/f25/language/en_GB) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/en_GB.po | 
+ | [es](/f25/language/es) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/es.po | 
+ | [eu](/f25/language/eu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/eu.po | 
+ | [fr](/f25/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/fr.po | 
+ | [gl](/f25/language/gl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/gl.po | 
+ | [he](/f25/language/he) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/he.po | 
+ | [hr](/f25/language/hr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/hr.po | 
+ | [hu](/f25/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/hu.po | 
+ | [id](/f25/language/id) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/id.po | 
+ | [is](/f25/language/is) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/is.po | 
+ | [it](/f25/language/it) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/it.po | 
+ | [ja](/f25/language/ja) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ja.po | 
+ | [kk](/f25/language/kk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/kk.po | 
+ | [ko](/f25/language/ko) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ko.po | 
+ | [lt](/f25/language/lt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/lt.po | 
+ | [lv](/f25/language/lv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/lv.po | 
+ | [ms](/f25/language/ms) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ms.po | 
+ | [nb_NO](/f25/language/nb_NO) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/nb.po | 
+ | [nl](/f25/language/nl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/nl.po | 
+ | [oc](/f25/language/oc) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/oc.po | 
+ | [pa](/f25/language/pa) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pa.po | 
+ | [pl](/f25/language/pl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pl.po | 
+ | [pt](/f25/language/pt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ro.po | 
+ | [ru](/f25/language/ru) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ru.po | 
+ | [sk](/f25/language/sk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sk.po | 
+ | [sl](/f25/language/sl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sl.po | 
+ | [sr](/f25/language/sr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sr.po | 
+ | [sv](/f25/language/sv) | 104 | 104 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/sv.po/mnt/stockage/packages/f25/xfce4-datetime-plugin/po/nn.po | 
+ | [th](/f25/language/th) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/th.po | 
+ | [tr](/f25/language/tr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/tr.po | 
+ | [ug](/f25/language/ug) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ug.po | 
+ | [uk](/f25/language/uk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 52 | 52 | 100.0 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/zh_TW.po | 
+ | [ur](/f25/language/ur) | 51 | 52 | 98.1 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ur.po | 
+ | [ur_PK](/f25/language/ur_PK) | 51 | 52 | 98.1 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/ur_PK.po | 
+ | [uz](/f25/language/uz) | 28 | 52 | 53.8 | /mnt/stockage/packages/f25/xfce4-datetime-plugin/po/uz.po | 
 {.sortable}
 
 

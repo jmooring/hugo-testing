@@ -18,14 +18,14 @@ The package kde-plasma-smooth-tasks (version 0.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/ru.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/zh_CN.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 578 | 601 | 96.2 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/pl.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 868 | 942 | 92.1 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/cs.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 138 | 942 | 14.6 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/hu.po | 
+ | [de](/f13/language/de) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/de.po | 
+ | [fr](/f13/language/fr) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/fr.po | 
+ | [ru](/f13/language/ru) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/ru.po | 
+ | [uk](/f13/language/uk) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/uk_UA.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 942 | 942 | 100.0 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/zh_CN.po | 
+ | [pl](/f13/language/pl) | 578 | 601 | 96.2 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/pl.po | 
+ | [cs](/f13/language/cs) | 868 | 942 | 92.1 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/cs.po | 
+ | [hu](/f13/language/hu) | 138 | 942 | 14.6 | /mnt/stockage/packages/f13/kde-plasma-smooth-tasks/po/hu.po | 
 {.sortable}
 
 

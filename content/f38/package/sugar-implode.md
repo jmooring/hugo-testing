@@ -18,109 +18,109 @@ The package sugar-implode (version 20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f38/language/ach.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ach.po | 
- | [ayc]({{< ref "/f38/language/ayc.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ayc.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/el.po | 
- | [en]({{< ref "/f38/language/en.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/en.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/en_GB.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/en_US.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/es.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/fa.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/fr.po | 
- | [gug]({{< ref "/f38/language/gug.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/gug.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/hi.po | 
- | [hus]({{< ref "/f38/language/hus.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/hus.po | 
- | [hy]({{< ref "/f38/language/hy.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/hy.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/it.po | 
- | [mi]({{< ref "/f38/language/mi.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/mi.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ms.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ne.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/nl.po | 
- | [pap]({{< ref "/f38/language/pap.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pap.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pt_BR.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/sq.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/sv.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ta.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/th.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/uk.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/vi.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/zh_TW.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 22 | 77 | 28.6 | /mnt/stockage/packages/f38/sugar-implode/po/id.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 77 | 308 | 25.0 | /mnt/stockage/packages/f38/sugar-implode/po/tzo.po/mnt/stockage/packages/f38/sugar-implode/po/quy.po/mnt/stockage/packages/f38/sugar-implode/po/pbs.po/mnt/stockage/packages/f38/sugar-implode/po/mvo.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 13 | 77 | 16.9 | /mnt/stockage/packages/f38/sugar-implode/po/km.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 8 | 77 | 10.4 | /mnt/stockage/packages/f38/sugar-implode/po/ar.po | 
- | [am]({{< ref "/f38/language/am.md" >}}) | 7 | 77 | 9.1 | /mnt/stockage/packages/f38/sugar-implode/po/am.po | 
- | [ay]({{< ref "/f38/language/ay.md" >}}) | 6 | 77 | 7.8 | /mnt/stockage/packages/f38/sugar-implode/po/aym.po | 
- | [rw]({{< ref "/f38/language/rw.md" >}}) | 5 | 77 | 6.5 | /mnt/stockage/packages/f38/sugar-implode/po/rw.po | 
- | [qu]({{< ref "/f38/language/qu.md" >}}) | 4 | 77 | 5.2 | /mnt/stockage/packages/f38/sugar-implode/po/quz.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 3 | 77 | 3.9 | /mnt/stockage/packages/f38/sugar-implode/po/sk.po | 
- | [sm]({{< ref "/f38/language/sm.md" >}}) | 3 | 77 | 3.9 | /mnt/stockage/packages/f38/sugar-implode/po/sm.po | 
- | [ps]({{< ref "/f38/language/ps.md" >}}) | 2 | 77 | 2.6 | /mnt/stockage/packages/f38/sugar-implode/po/ps.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 1 | 77 | 1.3 | /mnt/stockage/packages/f38/sugar-implode/po/hu.po | 
- | [sw]({{< ref "/f38/language/sw.md" >}}) | 1 | 77 | 1.3 | /mnt/stockage/packages/f38/sugar-implode/po/sw.po | 
- | [tzm]({{< ref "/f38/language/tzm.md" >}}) | 1 | 77 | 1.3 | /mnt/stockage/packages/f38/sugar-implode/po/tzm.po | 
- | [af]({{< ref "/f38/language/af.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/af.po | 
- | [ak]({{< ref "/f38/language/ak.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ak.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bg.po | 
- | [bi]({{< ref "/f38/language/bi.md" >}}) | 0 | 78 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bi.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bn.po | 
- | [bn_IN]({{< ref "/f38/language/bn_IN.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bn_IN.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bs.po | 
- | [cpp]({{< ref "/f38/language/cpp.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/cpp.po | 
- | [dz]({{< ref "/f38/language/dz.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/dz.po | 
- | [ff]({{< ref "/f38/language/ff.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ff.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/fi.po | 
- | [fil]({{< ref "/f38/language/fil.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/fil.po | 
- | [gn]({{< ref "/f38/language/gn.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/gn.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/gu.po | 
- | [ha]({{< ref "/f38/language/ha.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ha.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/he.po | 
- | [ht]({{< ref "/f38/language/ht.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ht.po | 
- | [ig]({{< ref "/f38/language/ig.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ig.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/is.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ja.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/kn.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ko.po | 
- | [kos]({{< ref "/f38/language/kos.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/kos.po | 
- | [ku]({{< ref "/f38/language/ku.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ku.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/lv.po | 
- | [mg]({{< ref "/f38/language/mg.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mg.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mk.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ml.po | 
- | [mn]({{< ref "/f38/language/mn.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mn.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mr.po | 
- | [na]({{< ref "/f38/language/na.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/na.po | 
- | [nah]({{< ref "/f38/language/nah.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/nah.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/nb.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/nn.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/pa.po | 
- | [prs]({{< ref "/f38/language/prs.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/fa_AF.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ru.po | 
- | [sd]({{< ref "/f38/language/sd.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/sd.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/si.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/sl.po | 
- | [son]({{< ref "/f38/language/son.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/son.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/sr.po | 
- | [st]({{< ref "/f38/language/st.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/st.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/te.po | 
- | [to]({{< ref "/f38/language/to.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/to.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/tr.po | 
- | [tvl]({{< ref "/f38/language/tvl.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/tvl.po | 
- | [tyv]({{< ref "/f38/language/tyv.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/tyv.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ug.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ur.po | 
- | [wa]({{< ref "/f38/language/wa.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/wa.po | 
- | [yo]({{< ref "/f38/language/yo.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/zh_HK.po | 
+ | [ach](/f38/language/ach) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ach.po | 
+ | [ayc](/f38/language/ayc) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ayc.po | 
+ | [ca](/f38/language/ca) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ca.po | 
+ | [cs](/f38/language/cs) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/cs.po | 
+ | [da](/f38/language/da) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/da.po | 
+ | [de](/f38/language/de) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/de.po | 
+ | [el](/f38/language/el) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/el.po | 
+ | [en](/f38/language/en) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/en.po | 
+ | [en_GB](/f38/language/en_GB) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/en_GB.po | 
+ | [en_US](/f38/language/en_US) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/en_US.po | 
+ | [es](/f38/language/es) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/es.po | 
+ | [fa](/f38/language/fa) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/fa.po | 
+ | [fr](/f38/language/fr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/fr.po | 
+ | [gug](/f38/language/gug) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/gug.po | 
+ | [hi](/f38/language/hi) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/hi.po | 
+ | [hus](/f38/language/hus) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/hus.po | 
+ | [hy](/f38/language/hy) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/hy.po | 
+ | [it](/f38/language/it) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/it.po | 
+ | [mi](/f38/language/mi) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/mi.po | 
+ | [ms](/f38/language/ms) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ms.po | 
+ | [ne](/f38/language/ne) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ne.po | 
+ | [nl](/f38/language/nl) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/nl.po | 
+ | [pap](/f38/language/pap) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pap.po | 
+ | [pl](/f38/language/pl) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pl.po | 
+ | [pt](/f38/language/pt) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/pt_BR.po | 
+ | [sq](/f38/language/sq) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/sq.po | 
+ | [sv](/f38/language/sv) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/sv.po | 
+ | [ta](/f38/language/ta) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/ta.po | 
+ | [th](/f38/language/th) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/th.po | 
+ | [uk](/f38/language/uk) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/uk.po | 
+ | [vi](/f38/language/vi) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/vi.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 77 | 77 | 100.0 | /mnt/stockage/packages/f38/sugar-implode/po/zh_TW.po | 
+ | [id](/f38/language/id) | 22 | 77 | 28.6 | /mnt/stockage/packages/f38/sugar-implode/po/id.po | 
+ | [error](/f38/language/error) | 77 | 308 | 25.0 | /mnt/stockage/packages/f38/sugar-implode/po/tzo.po/mnt/stockage/packages/f38/sugar-implode/po/quy.po/mnt/stockage/packages/f38/sugar-implode/po/pbs.po/mnt/stockage/packages/f38/sugar-implode/po/mvo.po | 
+ | [km](/f38/language/km) | 13 | 77 | 16.9 | /mnt/stockage/packages/f38/sugar-implode/po/km.po | 
+ | [ar](/f38/language/ar) | 8 | 77 | 10.4 | /mnt/stockage/packages/f38/sugar-implode/po/ar.po | 
+ | [am](/f38/language/am) | 7 | 77 | 9.1 | /mnt/stockage/packages/f38/sugar-implode/po/am.po | 
+ | [ay](/f38/language/ay) | 6 | 77 | 7.8 | /mnt/stockage/packages/f38/sugar-implode/po/aym.po | 
+ | [rw](/f38/language/rw) | 5 | 77 | 6.5 | /mnt/stockage/packages/f38/sugar-implode/po/rw.po | 
+ | [qu](/f38/language/qu) | 4 | 77 | 5.2 | /mnt/stockage/packages/f38/sugar-implode/po/quz.po | 
+ | [sk](/f38/language/sk) | 3 | 77 | 3.9 | /mnt/stockage/packages/f38/sugar-implode/po/sk.po | 
+ | [sm](/f38/language/sm) | 3 | 77 | 3.9 | /mnt/stockage/packages/f38/sugar-implode/po/sm.po | 
+ | [ps](/f38/language/ps) | 2 | 77 | 2.6 | /mnt/stockage/packages/f38/sugar-implode/po/ps.po | 
+ | [hu](/f38/language/hu) | 1 | 77 | 1.3 | /mnt/stockage/packages/f38/sugar-implode/po/hu.po | 
+ | [sw](/f38/language/sw) | 1 | 77 | 1.3 | /mnt/stockage/packages/f38/sugar-implode/po/sw.po | 
+ | [tzm](/f38/language/tzm) | 1 | 77 | 1.3 | /mnt/stockage/packages/f38/sugar-implode/po/tzm.po | 
+ | [af](/f38/language/af) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/af.po | 
+ | [ak](/f38/language/ak) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ak.po | 
+ | [bg](/f38/language/bg) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bg.po | 
+ | [bi](/f38/language/bi) | 0 | 78 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bi.po | 
+ | [bn](/f38/language/bn) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bn.po | 
+ | [bn_IN](/f38/language/bn_IN) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bn_IN.po | 
+ | [bs](/f38/language/bs) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/bs.po | 
+ | [cpp](/f38/language/cpp) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/cpp.po | 
+ | [dz](/f38/language/dz) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/dz.po | 
+ | [ff](/f38/language/ff) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ff.po | 
+ | [fi](/f38/language/fi) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/fi.po | 
+ | [fil](/f38/language/fil) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/fil.po | 
+ | [gn](/f38/language/gn) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/gn.po | 
+ | [gu](/f38/language/gu) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/gu.po | 
+ | [ha](/f38/language/ha) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ha.po | 
+ | [he](/f38/language/he) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/he.po | 
+ | [ht](/f38/language/ht) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ht.po | 
+ | [ig](/f38/language/ig) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ig.po | 
+ | [is](/f38/language/is) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/is.po | 
+ | [ja](/f38/language/ja) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ja.po | 
+ | [kn](/f38/language/kn) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/kn.po | 
+ | [ko](/f38/language/ko) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ko.po | 
+ | [kos](/f38/language/kos) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/kos.po | 
+ | [ku](/f38/language/ku) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ku.po | 
+ | [lt](/f38/language/lt) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/lt.po | 
+ | [lv](/f38/language/lv) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/lv.po | 
+ | [mg](/f38/language/mg) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mg.po | 
+ | [mk](/f38/language/mk) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mk.po | 
+ | [ml](/f38/language/ml) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ml.po | 
+ | [mn](/f38/language/mn) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mn.po | 
+ | [mr](/f38/language/mr) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/mr.po | 
+ | [na](/f38/language/na) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/na.po | 
+ | [nah](/f38/language/nah) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/nah.po | 
+ | [nb_NO](/f38/language/nb_NO) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/nb.po | 
+ | [nn](/f38/language/nn) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/nn.po | 
+ | [pa](/f38/language/pa) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/pa.po | 
+ | [prs](/f38/language/prs) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/fa_AF.po | 
+ | [ro](/f38/language/ro) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ro.po | 
+ | [ru](/f38/language/ru) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ru.po | 
+ | [sd](/f38/language/sd) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/sd.po | 
+ | [si](/f38/language/si) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/si.po | 
+ | [sl](/f38/language/sl) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/sl.po | 
+ | [son](/f38/language/son) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/son.po | 
+ | [sr](/f38/language/sr) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/sr.po | 
+ | [st](/f38/language/st) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/st.po | 
+ | [te](/f38/language/te) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/te.po | 
+ | [to](/f38/language/to) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/to.po | 
+ | [tr](/f38/language/tr) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/tr.po | 
+ | [tvl](/f38/language/tvl) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/tvl.po | 
+ | [tyv](/f38/language/tyv) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/tyv.po | 
+ | [ug](/f38/language/ug) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ug.po | 
+ | [ur](/f38/language/ur) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/ur.po | 
+ | [wa](/f38/language/wa) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/wa.po | 
+ | [yo](/f38/language/yo) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/yo.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 0 | 77 | 0.0 | /mnt/stockage/packages/f38/sugar-implode/po/zh_HK.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package dnsmasq (version 2.41):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 1284 | 1705 | 75.3 | /mnt/stockage/packages/f9/dnsmasq/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1081 | 1705 | 63.4 | /mnt/stockage/packages/f9/dnsmasq/po/fr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 877 | 1705 | 51.4 | /mnt/stockage/packages/f9/dnsmasq/po/no.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 877 | 1705 | 51.4 | /mnt/stockage/packages/f9/dnsmasq/po/ro.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 865 | 1705 | 50.7 | /mnt/stockage/packages/f9/dnsmasq/po/id.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 834 | 1705 | 48.9 | /mnt/stockage/packages/f9/dnsmasq/po/pl.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 126 | 1705 | 7.4 | /mnt/stockage/packages/f9/dnsmasq/po/de.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 0 | 1705 | 0.0 | /mnt/stockage/packages/f9/dnsmasq/po/fi.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 0 | 1705 | 0.0 | /mnt/stockage/packages/f9/dnsmasq/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 0 | 1705 | 0.0 | /mnt/stockage/packages/f9/dnsmasq/po/pt_BR.po | 
+ | [es](/f9/language/es) | 1284 | 1705 | 75.3 | /mnt/stockage/packages/f9/dnsmasq/po/es.po | 
+ | [fr](/f9/language/fr) | 1081 | 1705 | 63.4 | /mnt/stockage/packages/f9/dnsmasq/po/fr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 877 | 1705 | 51.4 | /mnt/stockage/packages/f9/dnsmasq/po/no.po | 
+ | [ro](/f9/language/ro) | 877 | 1705 | 51.4 | /mnt/stockage/packages/f9/dnsmasq/po/ro.po | 
+ | [id](/f9/language/id) | 865 | 1705 | 50.7 | /mnt/stockage/packages/f9/dnsmasq/po/id.po | 
+ | [pl](/f9/language/pl) | 834 | 1705 | 48.9 | /mnt/stockage/packages/f9/dnsmasq/po/pl.po | 
+ | [de](/f9/language/de) | 126 | 1705 | 7.4 | /mnt/stockage/packages/f9/dnsmasq/po/de.po | 
+ | [fi](/f9/language/fi) | 0 | 1705 | 0.0 | /mnt/stockage/packages/f9/dnsmasq/po/fi.po | 
+ | [it](/f9/language/it) | 0 | 1705 | 0.0 | /mnt/stockage/packages/f9/dnsmasq/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 0 | 1705 | 0.0 | /mnt/stockage/packages/f9/dnsmasq/po/pt_BR.po | 
 {.sortable}
 
 

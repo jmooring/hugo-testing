@@ -18,36 +18,36 @@ The package almanah (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f25/almanah/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 727 | 727 | 100.0 | /mnt/stockage/packages/f25/almanah/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f25/almanah/po/gl.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/id.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f25/almanah/po/lv.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 785 | 785 | 100.0 | /mnt/stockage/packages/f25/almanah/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 720 | 720 | 100.0 | /mnt/stockage/packages/f25/almanah/po/ru.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f25/almanah/po/sr.po/mnt/stockage/packages/f25/almanah/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 722 | 722 | 100.0 | /mnt/stockage/packages/f25/almanah/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/zh_CN.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 578 | 679 | 85.1 | /mnt/stockage/packages/f25/almanah/po/eu.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 621 | 828 | 75.0 | /mnt/stockage/packages/f25/almanah/po/tr.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 241 | 415 | 58.1 | /mnt/stockage/packages/f25/almanah/po/fi.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 155 | 415 | 37.3 | /mnt/stockage/packages/f25/almanah/po/th.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 167 | 692 | 24.1 | /mnt/stockage/packages/f25/almanah/po/eo.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 43 | 403 | 10.7 | /mnt/stockage/packages/f25/almanah/po/ar.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 33 | 415 | 8.0 | /mnt/stockage/packages/f25/almanah/po/nb.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 17 | 333 | 5.1 | /mnt/stockage/packages/f25/almanah/po/oc.po | 
+ | [ca](/f25/language/ca) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/ca.po | 
+ | [cs](/f25/language/cs) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/cs.po | 
+ | [da](/f25/language/da) | 786 | 786 | 100.0 | /mnt/stockage/packages/f25/almanah/po/da.po | 
+ | [de](/f25/language/de) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/de.po | 
+ | [el](/f25/language/el) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 727 | 727 | 100.0 | /mnt/stockage/packages/f25/almanah/po/en_GB.po | 
+ | [es](/f25/language/es) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/es.po | 
+ | [fr](/f25/language/fr) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/fr.po | 
+ | [gl](/f25/language/gl) | 786 | 786 | 100.0 | /mnt/stockage/packages/f25/almanah/po/gl.po | 
+ | [hu](/f25/language/hu) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/hu.po | 
+ | [id](/f25/language/id) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/id.po | 
+ | [lv](/f25/language/lv) | 786 | 786 | 100.0 | /mnt/stockage/packages/f25/almanah/po/lv.po | 
+ | [nl](/f25/language/nl) | 785 | 785 | 100.0 | /mnt/stockage/packages/f25/almanah/po/nl.po | 
+ | [pl](/f25/language/pl) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/ro.po | 
+ | [ru](/f25/language/ru) | 720 | 720 | 100.0 | /mnt/stockage/packages/f25/almanah/po/ru.po | 
+ | [sl](/f25/language/sl) | 828 | 828 | 100.0 | /mnt/stockage/packages/f25/almanah/po/sl.po | 
+ | [sr](/f25/language/sr) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f25/almanah/po/sr.po/mnt/stockage/packages/f25/almanah/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/sv.po | 
+ | [uk](/f25/language/uk) | 722 | 722 | 100.0 | /mnt/stockage/packages/f25/almanah/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 772 | 772 | 100.0 | /mnt/stockage/packages/f25/almanah/po/zh_CN.po | 
+ | [eu](/f25/language/eu) | 578 | 679 | 85.1 | /mnt/stockage/packages/f25/almanah/po/eu.po | 
+ | [tr](/f25/language/tr) | 621 | 828 | 75.0 | /mnt/stockage/packages/f25/almanah/po/tr.po | 
+ | [fi](/f25/language/fi) | 241 | 415 | 58.1 | /mnt/stockage/packages/f25/almanah/po/fi.po | 
+ | [th](/f25/language/th) | 155 | 415 | 37.3 | /mnt/stockage/packages/f25/almanah/po/th.po | 
+ | [eo](/f25/language/eo) | 167 | 692 | 24.1 | /mnt/stockage/packages/f25/almanah/po/eo.po | 
+ | [ar](/f25/language/ar) | 43 | 403 | 10.7 | /mnt/stockage/packages/f25/almanah/po/ar.po | 
+ | [nb_NO](/f25/language/nb_NO) | 33 | 415 | 8.0 | /mnt/stockage/packages/f25/almanah/po/nb.po | 
+ | [oc](/f25/language/oc) | 17 | 333 | 5.1 | /mnt/stockage/packages/f25/almanah/po/oc.po | 
 {.sortable}
 
 

@@ -18,54 +18,54 @@ The package libuser (version 0.56.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/bg.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/bn_IN.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/de.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/fr.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/gu.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/hi.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/hr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/id.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ja.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ml.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ms.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/nb.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/nl.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/or.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pt_BR.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ta.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/uk.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/bn.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/bs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/cy.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/is.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/ko.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/zh_TW.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 985 | 1039 | 94.8 | /mnt/stockage/packages/f7/libuser/po/ar.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 983 | 1039 | 94.6 | /mnt/stockage/packages/f7/libuser/po/en_GB.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 983 | 1039 | 94.6 | /mnt/stockage/packages/f7/libuser/po/et.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 957 | 1039 | 92.1 | /mnt/stockage/packages/f7/libuser/po/mk.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 936 | 1039 | 90.1 | /mnt/stockage/packages/f7/libuser/po/fi.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 732 | 1039 | 70.5 | /mnt/stockage/packages/f7/libuser/po/tr.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 732 | 1039 | 70.5 | /mnt/stockage/packages/f7/libuser/po/vi.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 599 | 1039 | 57.7 | /mnt/stockage/packages/f7/libuser/po/el.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 0 | 1039 | 0.0 | /mnt/stockage/packages/f7/libuser/po/mr.po | 
+ | [bg](/f7/language/bg) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/bg.po | 
+ | [bn_IN](/f7/language/bn_IN) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/bn_IN.po | 
+ | [ca](/f7/language/ca) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ca.po | 
+ | [cs](/f7/language/cs) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/cs.po | 
+ | [da](/f7/language/da) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/da.po | 
+ | [de](/f7/language/de) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/de.po | 
+ | [error](/f7/language/error) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/es.po | 
+ | [fr](/f7/language/fr) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/fr.po | 
+ | [gu](/f7/language/gu) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/gu.po | 
+ | [hi](/f7/language/hi) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/hi.po | 
+ | [hr](/f7/language/hr) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/hr.po | 
+ | [hu](/f7/language/hu) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/hu.po | 
+ | [id](/f7/language/id) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/id.po | 
+ | [it](/f7/language/it) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/it.po | 
+ | [ja](/f7/language/ja) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ja.po | 
+ | [ml](/f7/language/ml) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ml.po | 
+ | [ms](/f7/language/ms) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ms.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/nb.po | 
+ | [nl](/f7/language/nl) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/nl.po | 
+ | [or](/f7/language/or) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/or.po | 
+ | [pa](/f7/language/pa) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pa.po | 
+ | [pl](/f7/language/pl) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pl.po | 
+ | [pt](/f7/language/pt) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/pt_BR.po | 
+ | [ru](/f7/language/ru) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ru.po | 
+ | [sk](/f7/language/sk) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sk.po | 
+ | [sl](/f7/language/sl) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sl.po | 
+ | [sr](/f7/language/sr) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sr.po | 
+ | [sv](/f7/language/sv) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/sv.po | 
+ | [ta](/f7/language/ta) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/ta.po | 
+ | [uk](/f7/language/uk) | 1039 | 1039 | 100.0 | /mnt/stockage/packages/f7/libuser/po/uk.po | 
+ | [bn](/f7/language/bn) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/bn.po | 
+ | [bs](/f7/language/bs) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/bs.po | 
+ | [cy](/f7/language/cy) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/cy.po | 
+ | [is](/f7/language/is) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/is.po | 
+ | [ko](/f7/language/ko) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/ko.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1024 | 1039 | 98.6 | /mnt/stockage/packages/f7/libuser/po/zh_TW.po | 
+ | [ar](/f7/language/ar) | 985 | 1039 | 94.8 | /mnt/stockage/packages/f7/libuser/po/ar.po | 
+ | [en_GB](/f7/language/en_GB) | 983 | 1039 | 94.6 | /mnt/stockage/packages/f7/libuser/po/en_GB.po | 
+ | [et](/f7/language/et) | 983 | 1039 | 94.6 | /mnt/stockage/packages/f7/libuser/po/et.po | 
+ | [mk](/f7/language/mk) | 957 | 1039 | 92.1 | /mnt/stockage/packages/f7/libuser/po/mk.po | 
+ | [fi](/f7/language/fi) | 936 | 1039 | 90.1 | /mnt/stockage/packages/f7/libuser/po/fi.po | 
+ | [tr](/f7/language/tr) | 732 | 1039 | 70.5 | /mnt/stockage/packages/f7/libuser/po/tr.po | 
+ | [vi](/f7/language/vi) | 732 | 1039 | 70.5 | /mnt/stockage/packages/f7/libuser/po/vi.po | 
+ | [el](/f7/language/el) | 599 | 1039 | 57.7 | /mnt/stockage/packages/f7/libuser/po/el.po | 
+ | [mr](/f7/language/mr) | 0 | 1039 | 0.0 | /mnt/stockage/packages/f7/libuser/po/mr.po | 
 {.sortable}
 
 

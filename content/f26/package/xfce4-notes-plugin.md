@@ -18,53 +18,53 @@ The package xfce4-notes-plugin (version 1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ar.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ast.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/bg.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/el.po | 
- | [en_AU]({{< ref "/f26/language/en_AU.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/en_AU.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/eu.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/gl.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ja.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/lt.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/nl.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/oc.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sv.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/zh_TW.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 109 | 163 | 66.9 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/lv.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 97 | 163 | 59.5 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ro.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 194 | 326 | 59.5 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ur_PK.po/mnt/stockage/packages/f26/xfce4-notes-plugin/po/ur.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 92 | 163 | 56.4 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/is.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 92 | 163 | 56.4 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/vi.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 17 | 163 | 10.4 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sq.po | 
+ | [ar](/f26/language/ar) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ar.po | 
+ | [ast](/f26/language/ast) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ast.po | 
+ | [bg](/f26/language/bg) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/bg.po | 
+ | [ca](/f26/language/ca) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ca.po | 
+ | [cs](/f26/language/cs) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/cs.po | 
+ | [da](/f26/language/da) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/da.po | 
+ | [de](/f26/language/de) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/de.po | 
+ | [el](/f26/language/el) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/el.po | 
+ | [en_AU](/f26/language/en_AU) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/en_AU.po | 
+ | [en_GB](/f26/language/en_GB) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/en_GB.po | 
+ | [es](/f26/language/es) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/es.po | 
+ | [eu](/f26/language/eu) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/eu.po | 
+ | [fi](/f26/language/fi) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/fi.po | 
+ | [fr](/f26/language/fr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/fr.po | 
+ | [gl](/f26/language/gl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/gl.po | 
+ | [hr](/f26/language/hr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/hr.po | 
+ | [hu](/f26/language/hu) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/hu.po | 
+ | [id](/f26/language/id) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/id.po | 
+ | [it](/f26/language/it) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/it.po | 
+ | [ja](/f26/language/ja) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ja.po | 
+ | [kk](/f26/language/kk) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/kk.po | 
+ | [ko](/f26/language/ko) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ko.po | 
+ | [lt](/f26/language/lt) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/lt.po | 
+ | [ms](/f26/language/ms) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/nb.po | 
+ | [nl](/f26/language/nl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/nl.po | 
+ | [oc](/f26/language/oc) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/oc.po | 
+ | [pl](/f26/language/pl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/pl.po | 
+ | [pt](/f26/language/pt) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ru.po | 
+ | [sk](/f26/language/sk) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sk.po | 
+ | [sl](/f26/language/sl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sl.po | 
+ | [sr](/f26/language/sr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sr.po | 
+ | [sv](/f26/language/sv) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sv.po | 
+ | [th](/f26/language/th) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/th.po | 
+ | [tr](/f26/language/tr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/tr.po | 
+ | [ug](/f26/language/ug) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ug.po | 
+ | [uk](/f26/language/uk) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 163 | 163 | 100.0 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/zh_TW.po | 
+ | [lv](/f26/language/lv) | 109 | 163 | 66.9 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/lv.po | 
+ | [ro](/f26/language/ro) | 97 | 163 | 59.5 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ro.po | 
+ | [ur](/f26/language/ur) | 194 | 326 | 59.5 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/ur_PK.po/mnt/stockage/packages/f26/xfce4-notes-plugin/po/ur.po | 
+ | [is](/f26/language/is) | 92 | 163 | 56.4 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/is.po | 
+ | [vi](/f26/language/vi) | 92 | 163 | 56.4 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/vi.po | 
+ | [sq](/f26/language/sq) | 17 | 163 | 10.4 | /mnt/stockage/packages/f26/xfce4-notes-plugin/po/sq.po | 
 {.sortable}
 
 

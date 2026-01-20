@@ -18,19 +18,19 @@ The package fcitx5-configtool (version 5.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ja.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ja.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ru.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/zh_CN.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/zh_TW.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/zh_TW.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 778 | 877 | 88.7 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/fr.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/fr.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 767 | 877 | 87.5 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ko.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ko.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 645 | 877 | 73.5 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/da.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 415 | 877 | 47.3 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/de.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/de.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 198 | 877 | 22.6 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/tr.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/tr.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 55 | 289 | 19.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/es.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 147 | 877 | 16.8 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ca.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ca.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 57 | 877 | 6.5 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/he.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/he.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 14 | 877 | 1.6 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/vi.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/vi.po | 
+ | [ja](/f38/language/ja) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ja.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ja.po | 
+ | [ru](/f38/language/ru) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ru.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/zh_CN.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 877 | 877 | 100.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/zh_TW.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/zh_TW.po | 
+ | [fr](/f38/language/fr) | 778 | 877 | 88.7 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/fr.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/fr.po | 
+ | [ko](/f38/language/ko) | 767 | 877 | 87.5 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ko.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ko.po | 
+ | [da](/f38/language/da) | 645 | 877 | 73.5 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/da.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/da.po | 
+ | [de](/f38/language/de) | 415 | 877 | 47.3 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/de.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/de.po | 
+ | [tr](/f38/language/tr) | 198 | 877 | 22.6 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/tr.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/tr.po | 
+ | [es](/f38/language/es) | 55 | 289 | 19.0 | /mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/es.po | 
+ | [ca](/f38/language/ca) | 147 | 877 | 16.8 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/ca.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/ca.po | 
+ | [he](/f38/language/he) | 57 | 877 | 6.5 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/he.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/he.po | 
+ | [vi](/f38/language/vi) | 14 | 877 | 1.6 | /mnt/stockage/packages/f38/fcitx5-configtool/po/fcitx5-configtool/vi.po/mnt/stockage/packages/f38/fcitx5-configtool/po/kcm_fcitx5/vi.po | 
 {.sortable}
 
 

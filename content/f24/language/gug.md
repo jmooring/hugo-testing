@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-calculator]({{< ref "/f24/package/sugar-calculator.md" >}}) | 871 | 871 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f24/package/sugar-chat.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f24/package/sugar-clock.md" >}}) | 66 | 66 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f24/package/sugar-jukebox.md" >}}) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f24/package/sugar-log.md" >}}) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f24/package/sugar-physics.md" >}}) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f24/package/sugar-read.md" >}}) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f24/package/sugar-terminal.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f24/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f24/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f24/package/sugar-imageviewer.md" >}}) | 54 | 58 | 93.1 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f24/package/libreoffice.md" >}}) | 64113 | 97235 | 65.9 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f24/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f24/package/sugar-calculator) | 871 | 871 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f24/package/sugar-chat) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f24/package/sugar-clock) | 66 | 66 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f24/package/sugar-jukebox) | 69 | 69 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f24/package/sugar-log) | 98 | 98 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f24/package/sugar-physics) | 48 | 48 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f24/package/sugar-read) | 137 | 137 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f24/package/sugar-terminal) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f24/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f24/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f24/package/sugar-imageviewer) | 54 | 58 | 93.1 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f24/package/libreoffice) | 64113 | 97235 | 65.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f24/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

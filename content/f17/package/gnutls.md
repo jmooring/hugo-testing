@@ -18,17 +18,17 @@ The package gnutls (version 2.12.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f17/language/en.md" >}}) | 2454 | 2454 | 100.0 | /mnt/stockage/packages/f17/gnutls/lib/po/en@quot.po/mnt/stockage/packages/f17/gnutls/lib/po/en@boldquot.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/cs.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/fr.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/it.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/pl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/sv.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 876 | 1227 | 71.4 | /mnt/stockage/packages/f17/gnutls/lib/po/zh_CN.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 852 | 1227 | 69.4 | /mnt/stockage/packages/f17/gnutls/lib/po/ms.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 561 | 1227 | 45.7 | /mnt/stockage/packages/f17/gnutls/lib/po/de.po | 
+ | [en](/f17/language/en) | 2454 | 2454 | 100.0 | /mnt/stockage/packages/f17/gnutls/lib/po/en@quot.po/mnt/stockage/packages/f17/gnutls/lib/po/en@boldquot.po | 
+ | [cs](/f17/language/cs) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/cs.po | 
+ | [fr](/f17/language/fr) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/fr.po | 
+ | [it](/f17/language/it) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/it.po | 
+ | [nl](/f17/language/nl) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/nl.po | 
+ | [pl](/f17/language/pl) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/pl.po | 
+ | [sv](/f17/language/sv) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/sv.po | 
+ | [vi](/f17/language/vi) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f17/gnutls/lib/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 876 | 1227 | 71.4 | /mnt/stockage/packages/f17/gnutls/lib/po/zh_CN.po | 
+ | [ms](/f17/language/ms) | 852 | 1227 | 69.4 | /mnt/stockage/packages/f17/gnutls/lib/po/ms.po | 
+ | [de](/f17/language/de) | 561 | 1227 | 45.7 | /mnt/stockage/packages/f17/gnutls/lib/po/de.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package sugar-xoeditor (version 11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f18/language/ayc.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/ayc.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/da.po | 
- | [en]({{< ref "/f18/language/en.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/en.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/en_GB.po | 
- | [en_US]({{< ref "/f18/language/en_US.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/en_US.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/fr.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/pt.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/zh_CN.po | 
- | [hy]({{< ref "/f18/language/hy.md" >}}) | 23 | 29 | 79.3 | /mnt/stockage/packages/f18/sugar-xoeditor/po/hy.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 13 | 23 | 56.5 | /mnt/stockage/packages/f18/sugar-xoeditor/po/de.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 13 | 23 | 56.5 | /mnt/stockage/packages/f18/sugar-xoeditor/po/th.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 0 | 23 | 0.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/rw.po | 
+ | [ayc](/f18/language/ayc) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/ayc.po | 
+ | [da](/f18/language/da) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/da.po | 
+ | [en](/f18/language/en) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/en.po | 
+ | [en_GB](/f18/language/en_GB) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/en_GB.po | 
+ | [en_US](/f18/language/en_US) | 29 | 29 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/en_US.po | 
+ | [es](/f18/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/es.po | 
+ | [fr](/f18/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/fr.po | 
+ | [nl](/f18/language/nl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/nl.po | 
+ | [pl](/f18/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/pl.po | 
+ | [pt](/f18/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/pt.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 23 | 23 | 100.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/zh_CN.po | 
+ | [hy](/f18/language/hy) | 23 | 29 | 79.3 | /mnt/stockage/packages/f18/sugar-xoeditor/po/hy.po | 
+ | [de](/f18/language/de) | 13 | 23 | 56.5 | /mnt/stockage/packages/f18/sugar-xoeditor/po/de.po | 
+ | [th](/f18/language/th) | 13 | 23 | 56.5 | /mnt/stockage/packages/f18/sugar-xoeditor/po/th.po | 
+ | [rw](/f18/language/rw) | 0 | 23 | 0.0 | /mnt/stockage/packages/f18/sugar-xoeditor/po/rw.po | 
 {.sortable}
 
 

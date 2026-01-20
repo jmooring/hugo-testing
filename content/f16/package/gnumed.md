@@ -18,18 +18,18 @@ The package gnumed (version 1.1.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 19620 | 19890 | 98.6 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/ru.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 19420 | 19813 | 98.0 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 18788 | 19813 | 94.8 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/es.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 9071 | 19813 | 45.8 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/nl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 8533 | 19813 | 43.1 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/pt_BR.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 8114 | 19813 | 41.0 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/pt.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 7325 | 19813 | 37.0 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 5632 | 19813 | 28.4 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/it.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 2946 | 19813 | 14.9 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/el.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1503 | 19813 | 7.6 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/pl.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 1013 | 19813 | 5.1 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/ca.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 78 | 19813 | 0.4 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/nb.po | 
+ | [ru](/f16/language/ru) | 19620 | 19890 | 98.6 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/ru.po | 
+ | [de](/f16/language/de) | 19420 | 19813 | 98.0 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/de.po | 
+ | [es](/f16/language/es) | 18788 | 19813 | 94.8 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/es.po | 
+ | [nl](/f16/language/nl) | 9071 | 19813 | 45.8 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/nl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 8533 | 19813 | 43.1 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/pt_BR.po | 
+ | [pt](/f16/language/pt) | 8114 | 19813 | 41.0 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/pt.po | 
+ | [fr](/f16/language/fr) | 7325 | 19813 | 37.0 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/fr.po | 
+ | [it](/f16/language/it) | 5632 | 19813 | 28.4 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/it.po | 
+ | [el](/f16/language/el) | 2946 | 19813 | 14.9 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/el.po | 
+ | [pl](/f16/language/pl) | 1503 | 19813 | 7.6 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/pl.po | 
+ | [ca](/f16/language/ca) | 1013 | 19813 | 5.1 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/ca.po | 
+ | [nb_NO](/f16/language/nb_NO) | 78 | 19813 | 0.4 | /mnt/stockage/packages/f16/gnumed/gnumed-client.1.1.14/client/po/nb.po | 
 {.sortable}
 
 

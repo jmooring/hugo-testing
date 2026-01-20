@@ -18,81 +18,81 @@ The package nautilus-cd-burner (version 2.18.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ar.po | 
- | [az]({{< ref "/f7/language/az.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/az.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/be.po | 
- | [be_Latn]({{< ref "/f7/language/be_Latn.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/be@latin.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bg.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bn.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bn_IN.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bs.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/cs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/cy.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/dz.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/el.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/es.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/et.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/eu.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/fa.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/gl.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/gu.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/he.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/id.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ja.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ka.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ko.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/lt.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/lv.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/mk.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ml.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ms.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/nb.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 751 | 751 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ne.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/nl.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/nn.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1238 | 1238 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sl.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sq.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ta.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/th.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/vi.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/zh_HK.po | 
- | [xh]({{< ref "/f7/language/xh.md" >}}) | 654 | 768 | 85.2 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/xh.po | 
- | [mg]({{< ref "/f7/language/mg.md" >}}) | 1074 | 1267 | 84.8 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/mg.po | 
- | [ug]({{< ref "/f7/language/ug.md" >}}) | 658 | 887 | 74.2 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ug.po | 
- | [mn]({{< ref "/f7/language/mn.md" >}}) | 930 | 1267 | 73.4 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/mn.po | 
- | [hy]({{< ref "/f7/language/hy.md" >}}) | 826 | 1238 | 66.7 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hy.po | 
- | [te]({{< ref "/f7/language/te.md" >}}) | 602 | 1238 | 48.6 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/te.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 268 | 587 | 45.7 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hr.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 245 | 587 | 41.7 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/is.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 410 | 1267 | 32.4 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/or.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 52 | 587 | 8.9 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ga.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 35 | 1272 | 2.8 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ku.po | 
- | [am]({{< ref "/f7/language/am.md" >}}) | 6 | 587 | 1.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/am.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 5 | 773 | 0.6 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/rw.po | 
+ | [ar](/f7/language/ar) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ar.po | 
+ | [az](/f7/language/az) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/az.po | 
+ | [be](/f7/language/be) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/be.po | 
+ | [be_Latn](/f7/language/be_Latn) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/be@latin.po | 
+ | [bg](/f7/language/bg) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bg.po | 
+ | [bn](/f7/language/bn) | 890 | 890 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bn.po | 
+ | [bn_IN](/f7/language/bn_IN) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bn_IN.po | 
+ | [bs](/f7/language/bs) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/bs.po | 
+ | [ca](/f7/language/ca) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ca.po | 
+ | [cs](/f7/language/cs) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/cs.po | 
+ | [cy](/f7/language/cy) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/cy.po | 
+ | [da](/f7/language/da) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/da.po | 
+ | [de](/f7/language/de) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/de.po | 
+ | [dz](/f7/language/dz) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/dz.po | 
+ | [el](/f7/language/el) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/el.po | 
+ | [en_CA](/f7/language/en_CA) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/en_GB.po | 
+ | [error](/f7/language/error) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/es.po | 
+ | [et](/f7/language/et) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/et.po | 
+ | [eu](/f7/language/eu) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/eu.po | 
+ | [fa](/f7/language/fa) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/fa.po | 
+ | [fi](/f7/language/fi) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/fi.po | 
+ | [fr](/f7/language/fr) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/fr.po | 
+ | [gl](/f7/language/gl) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/gl.po | 
+ | [gu](/f7/language/gu) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/gu.po | 
+ | [he](/f7/language/he) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/he.po | 
+ | [hi](/f7/language/hi) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hi.po | 
+ | [hu](/f7/language/hu) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hu.po | 
+ | [id](/f7/language/id) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/id.po | 
+ | [it](/f7/language/it) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/it.po | 
+ | [ja](/f7/language/ja) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ja.po | 
+ | [ka](/f7/language/ka) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ka.po | 
+ | [ko](/f7/language/ko) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ko.po | 
+ | [lt](/f7/language/lt) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/lt.po | 
+ | [lv](/f7/language/lv) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/lv.po | 
+ | [mk](/f7/language/mk) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/mk.po | 
+ | [ml](/f7/language/ml) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ml.po | 
+ | [ms](/f7/language/ms) | 567 | 567 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ms.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/nb.po | 
+ | [ne](/f7/language/ne) | 751 | 751 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ne.po | 
+ | [nl](/f7/language/nl) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/nl.po | 
+ | [nn](/f7/language/nn) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/nn.po | 
+ | [pa](/f7/language/pa) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pa.po | 
+ | [pl](/f7/language/pl) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pl.po | 
+ | [pt](/f7/language/pt) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ro.po | 
+ | [ru](/f7/language/ru) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ru.po | 
+ | [sk](/f7/language/sk) | 1238 | 1238 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sk.po | 
+ | [sl](/f7/language/sl) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sl.po | 
+ | [sq](/f7/language/sq) | 1247 | 1247 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sq.po | 
+ | [sr](/f7/language/sr) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sr.po | 
+ | [sv](/f7/language/sv) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/sv.po | 
+ | [ta](/f7/language/ta) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ta.po | 
+ | [th](/f7/language/th) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/th.po | 
+ | [tr](/f7/language/tr) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/tr.po | 
+ | [uk](/f7/language/uk) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/uk.po | 
+ | [vi](/f7/language/vi) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/vi.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/zh_HK.po | 
+ | [xh](/f7/language/xh) | 654 | 768 | 85.2 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/xh.po | 
+ | [mg](/f7/language/mg) | 1074 | 1267 | 84.8 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/mg.po | 
+ | [ug](/f7/language/ug) | 658 | 887 | 74.2 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ug.po | 
+ | [mn](/f7/language/mn) | 930 | 1267 | 73.4 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/mn.po | 
+ | [hy](/f7/language/hy) | 826 | 1238 | 66.7 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hy.po | 
+ | [te](/f7/language/te) | 602 | 1238 | 48.6 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/te.po | 
+ | [hr](/f7/language/hr) | 268 | 587 | 45.7 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/hr.po | 
+ | [is](/f7/language/is) | 245 | 587 | 41.7 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/is.po | 
+ | [or](/f7/language/or) | 410 | 1267 | 32.4 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/or.po | 
+ | [ga](/f7/language/ga) | 52 | 587 | 8.9 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ga.po | 
+ | [ku](/f7/language/ku) | 35 | 1272 | 2.8 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/ku.po | 
+ | [am](/f7/language/am) | 6 | 587 | 1.0 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/am.po | 
+ | [rw](/f7/language/rw) | 5 | 773 | 0.6 | /mnt/stockage/packages/f7/nautilus-cd-burner/po/rw.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f12/package/stellarium.md" >}}) | 129 | 2407 | 5.4 | English <en@translate.freefriends.org> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 22 | 1092 | 2.0 | Hawaiian | 
+ | [stellarium](/f12/package/stellarium) | 129 | 2407 | 5.4 | English <en@translate.freefriends.org> | 
+ | [iso-codes](/f12/package/iso-codes) | 22 | 1092 | 2.0 | Hawaiian | 
 {.sortable}
 
 

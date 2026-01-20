@@ -18,27 +18,27 @@ The package kapow (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/el.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/it.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/lt.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/no.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/nl.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/pt.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/sv.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 100 | 102 | 98.0 | /mnt/stockage/packages/f37/kapow/icons/po/uk.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 12 | 102 | 11.8 | /mnt/stockage/packages/f37/kapow/icons/po/es.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 12 | 102 | 11.8 | /mnt/stockage/packages/f37/kapow/icons/po/pt_BR.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 12 | 102 | 11.8 | /mnt/stockage/packages/f37/kapow/icons/po/tr.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 0 | 102 | 0.0 | /mnt/stockage/packages/f37/kapow/icons/po/ar.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 0 | 102 | 0.0 | /mnt/stockage/packages/f37/kapow/icons/po/bg.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 0 | 102 | 0.0 | /mnt/stockage/packages/f37/kapow/icons/po/he.po | 
+ | [cs](/f37/language/cs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/cs.po | 
+ | [da](/f37/language/da) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/da.po | 
+ | [de](/f37/language/de) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/de.po | 
+ | [el](/f37/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/el.po | 
+ | [fr](/f37/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/fr.po | 
+ | [it](/f37/language/it) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/it.po | 
+ | [lt](/f37/language/lt) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/lt.po | 
+ | [nb_NO](/f37/language/nb_NO) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/no.po | 
+ | [nl](/f37/language/nl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/nl.po | 
+ | [pl](/f37/language/pl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/pl.po | 
+ | [pt](/f37/language/pt) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/pt.po | 
+ | [ro](/f37/language/ro) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/ro.po | 
+ | [ru](/f37/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/ru.po | 
+ | [sv](/f37/language/sv) | 102 | 102 | 100.0 | /mnt/stockage/packages/f37/kapow/icons/po/sv.po | 
+ | [uk](/f37/language/uk) | 100 | 102 | 98.0 | /mnt/stockage/packages/f37/kapow/icons/po/uk.po | 
+ | [es](/f37/language/es) | 12 | 102 | 11.8 | /mnt/stockage/packages/f37/kapow/icons/po/es.po | 
+ | [pt_BR](/f37/language/pt_BR) | 12 | 102 | 11.8 | /mnt/stockage/packages/f37/kapow/icons/po/pt_BR.po | 
+ | [tr](/f37/language/tr) | 12 | 102 | 11.8 | /mnt/stockage/packages/f37/kapow/icons/po/tr.po | 
+ | [ar](/f37/language/ar) | 0 | 102 | 0.0 | /mnt/stockage/packages/f37/kapow/icons/po/ar.po | 
+ | [bg](/f37/language/bg) | 0 | 102 | 0.0 | /mnt/stockage/packages/f37/kapow/icons/po/bg.po | 
+ | [he](/f37/language/he) | 0 | 102 | 0.0 | /mnt/stockage/packages/f37/kapow/icons/po/he.po | 
 {.sortable}
 
 

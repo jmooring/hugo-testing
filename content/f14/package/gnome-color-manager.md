@@ -18,39 +18,39 @@ The package gnome-color-manager (version 2.32.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 4301 | 4301 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/help/cs/cs.po/mnt/stockage/packages/f14/gnome-color-manager/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/da.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 4301 | 4301 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/help/el/el.po/mnt/stockage/packages/f14/gnome-color-manager/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 4301 | 4301 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/help/es/es.po/mnt/stockage/packages/f14/gnome-color-manager/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/et.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/gl.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/he.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/ko.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/lt.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/pt_BR.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/sl.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/sr@latin.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 2169 | 2169 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/ta.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 3966 | 4002 | 99.1 | /mnt/stockage/packages/f14/gnome-color-manager/help/de/de.po/mnt/stockage/packages/f14/gnome-color-manager/po/de.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 2341 | 2405 | 97.3 | /mnt/stockage/packages/f14/gnome-color-manager/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 2341 | 2405 | 97.3 | /mnt/stockage/packages/f14/gnome-color-manager/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 2295 | 2413 | 95.1 | /mnt/stockage/packages/f14/gnome-color-manager/po/zh_CN.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 1942 | 2413 | 80.5 | /mnt/stockage/packages/f14/gnome-color-manager/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 3055 | 4312 | 70.8 | /mnt/stockage/packages/f14/gnome-color-manager/help/ru/ru.po/mnt/stockage/packages/f14/gnome-color-manager/po/ru.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 1882 | 3210 | 58.6 | /mnt/stockage/packages/f14/gnome-color-manager/help/id/id.po/mnt/stockage/packages/f14/gnome-color-manager/po/id.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 1264 | 2413 | 52.4 | /mnt/stockage/packages/f14/gnome-color-manager/po/nb.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 958 | 2169 | 44.2 | /mnt/stockage/packages/f14/gnome-color-manager/po/pa.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 498 | 1722 | 28.9 | /mnt/stockage/packages/f14/gnome-color-manager/po/sv.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 304 | 2413 | 12.6 | /mnt/stockage/packages/f14/gnome-color-manager/po/ar.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 28 | 742 | 3.8 | /mnt/stockage/packages/f14/gnome-color-manager/po/th.po | 
+ | [cs](/f14/language/cs) | 4301 | 4301 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/help/cs/cs.po/mnt/stockage/packages/f14/gnome-color-manager/po/cs.po | 
+ | [da](/f14/language/da) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/da.po | 
+ | [el](/f14/language/el) | 4301 | 4301 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/help/el/el.po/mnt/stockage/packages/f14/gnome-color-manager/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/en_GB.po | 
+ | [es](/f14/language/es) | 4301 | 4301 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/help/es/es.po/mnt/stockage/packages/f14/gnome-color-manager/po/es.po | 
+ | [et](/f14/language/et) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/et.po | 
+ | [fr](/f14/language/fr) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/fr.po | 
+ | [gl](/f14/language/gl) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/gl.po | 
+ | [he](/f14/language/he) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/he.po | 
+ | [hu](/f14/language/hu) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/hu.po | 
+ | [it](/f14/language/it) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/it.po | 
+ | [ja](/f14/language/ja) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/ja.po | 
+ | [ko](/f14/language/ko) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/ko.po | 
+ | [lt](/f14/language/lt) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/lt.po | 
+ | [pl](/f14/language/pl) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/pl.po | 
+ | [pt](/f14/language/pt) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/pt_BR.po | 
+ | [sl](/f14/language/sl) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/sl.po | 
+ | [sr](/f14/language/sr) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 2405 | 2405 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/sr@latin.po | 
+ | [ta](/f14/language/ta) | 2169 | 2169 | 100.0 | /mnt/stockage/packages/f14/gnome-color-manager/po/ta.po | 
+ | [de](/f14/language/de) | 3966 | 4002 | 99.1 | /mnt/stockage/packages/f14/gnome-color-manager/help/de/de.po/mnt/stockage/packages/f14/gnome-color-manager/po/de.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 2341 | 2405 | 97.3 | /mnt/stockage/packages/f14/gnome-color-manager/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 2341 | 2405 | 97.3 | /mnt/stockage/packages/f14/gnome-color-manager/po/zh_HK.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 2295 | 2413 | 95.1 | /mnt/stockage/packages/f14/gnome-color-manager/po/zh_CN.po | 
+ | [ro](/f14/language/ro) | 1942 | 2413 | 80.5 | /mnt/stockage/packages/f14/gnome-color-manager/po/ro.po | 
+ | [ru](/f14/language/ru) | 3055 | 4312 | 70.8 | /mnt/stockage/packages/f14/gnome-color-manager/help/ru/ru.po/mnt/stockage/packages/f14/gnome-color-manager/po/ru.po | 
+ | [id](/f14/language/id) | 1882 | 3210 | 58.6 | /mnt/stockage/packages/f14/gnome-color-manager/help/id/id.po/mnt/stockage/packages/f14/gnome-color-manager/po/id.po | 
+ | [nb_NO](/f14/language/nb_NO) | 1264 | 2413 | 52.4 | /mnt/stockage/packages/f14/gnome-color-manager/po/nb.po | 
+ | [pa](/f14/language/pa) | 958 | 2169 | 44.2 | /mnt/stockage/packages/f14/gnome-color-manager/po/pa.po | 
+ | [sv](/f14/language/sv) | 498 | 1722 | 28.9 | /mnt/stockage/packages/f14/gnome-color-manager/po/sv.po | 
+ | [ar](/f14/language/ar) | 304 | 2413 | 12.6 | /mnt/stockage/packages/f14/gnome-color-manager/po/ar.po | 
+ | [th](/f14/language/th) | 28 | 742 | 3.8 | /mnt/stockage/packages/f14/gnome-color-manager/po/th.po | 
 {.sortable}
 
 

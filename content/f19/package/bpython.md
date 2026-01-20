@@ -18,10 +18,10 @@ The package bpython (version 0.13.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 93 | 203 | 45.8 | /mnt/stockage/packages/f19/bpython/bpython/translations/de/LC_MESSAGES/bpython.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 44 | 203 | 21.7 | /mnt/stockage/packages/f19/bpython/bpython/translations/nl_NL/LC_MESSAGES/bpython.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 40 | 203 | 19.7 | /mnt/stockage/packages/f19/bpython/bpython/translations/it_IT/LC_MESSAGES/bpython.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 26 | 203 | 12.8 | /mnt/stockage/packages/f19/bpython/bpython/translations/es_ES/LC_MESSAGES/bpython.po | 
+ | [de](/f19/language/de) | 93 | 203 | 45.8 | /mnt/stockage/packages/f19/bpython/bpython/translations/de/LC_MESSAGES/bpython.po | 
+ | [nl](/f19/language/nl) | 44 | 203 | 21.7 | /mnt/stockage/packages/f19/bpython/bpython/translations/nl_NL/LC_MESSAGES/bpython.po | 
+ | [it](/f19/language/it) | 40 | 203 | 19.7 | /mnt/stockage/packages/f19/bpython/bpython/translations/it_IT/LC_MESSAGES/bpython.po | 
+ | [es](/f19/language/es) | 26 | 203 | 12.8 | /mnt/stockage/packages/f19/bpython/bpython/translations/es_ES/LC_MESSAGES/bpython.po | 
 {.sortable}
 
 

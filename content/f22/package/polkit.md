@@ -18,8 +18,8 @@ The package polkit (version 0.113):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f22/polkit/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f22/polkit/po/da.po | 
+ | [cs](/f22/language/cs) | 228 | 228 | 100.0 | /mnt/stockage/packages/f22/polkit/po/cs.po | 
+ | [da](/f22/language/da) | 67 | 67 | 100.0 | /mnt/stockage/packages/f22/polkit/po/da.po | 
 {.sortable}
 
 

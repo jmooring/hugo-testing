@@ -18,23 +18,23 @@ The package net6 (version 1.3.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/es.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/he.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/nl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/ru.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/sv.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/zh_CN.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 284 | 304 | 93.4 | /mnt/stockage/packages/f16/net6/po/fr.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 275 | 304 | 90.5 | /mnt/stockage/packages/f16/net6/po/pt.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 255 | 304 | 83.9 | /mnt/stockage/packages/f16/net6/po/ko.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 196 | 304 | 64.5 | /mnt/stockage/packages/f16/net6/po/nb.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 141 | 304 | 46.4 | /mnt/stockage/packages/f16/net6/po/sk.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 68 | 304 | 22.4 | /mnt/stockage/packages/f16/net6/po/ast.po | 
+ | [de](/f16/language/de) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/en_GB.po | 
+ | [es](/f16/language/es) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/es.po | 
+ | [he](/f16/language/he) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/he.po | 
+ | [it](/f16/language/it) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/it.po | 
+ | [nl](/f16/language/nl) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/nl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/ru.po | 
+ | [sv](/f16/language/sv) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/sv.po | 
+ | [uk](/f16/language/uk) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 304 | 304 | 100.0 | /mnt/stockage/packages/f16/net6/po/zh_CN.po | 
+ | [fr](/f16/language/fr) | 284 | 304 | 93.4 | /mnt/stockage/packages/f16/net6/po/fr.po | 
+ | [pt](/f16/language/pt) | 275 | 304 | 90.5 | /mnt/stockage/packages/f16/net6/po/pt.po | 
+ | [ko](/f16/language/ko) | 255 | 304 | 83.9 | /mnt/stockage/packages/f16/net6/po/ko.po | 
+ | [nb_NO](/f16/language/nb_NO) | 196 | 304 | 64.5 | /mnt/stockage/packages/f16/net6/po/nb.po | 
+ | [sk](/f16/language/sk) | 141 | 304 | 46.4 | /mnt/stockage/packages/f16/net6/po/sk.po | 
+ | [ast](/f16/language/ast) | 68 | 304 | 22.4 | /mnt/stockage/packages/f16/net6/po/ast.po | 
 {.sortable}
 
 

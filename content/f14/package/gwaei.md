@@ -18,13 +18,13 @@ The package gwaei (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/de.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/en@boldquot.po/mnt/stockage/packages/f14/gwaei/po/en@quot.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/fr.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1116 | 1169 | 95.5 | /mnt/stockage/packages/f14/gwaei/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1046 | 1169 | 89.5 | /mnt/stockage/packages/f14/gwaei/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 558 | 1169 | 47.7 | /mnt/stockage/packages/f14/gwaei/po/ja.po | 
+ | [cs](/f14/language/cs) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/cs.po | 
+ | [de](/f14/language/de) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/de.po | 
+ | [error](/f14/language/error) | 2338 | 2338 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/en@boldquot.po/mnt/stockage/packages/f14/gwaei/po/en@quot.po | 
+ | [fr](/f14/language/fr) | 1169 | 1169 | 100.0 | /mnt/stockage/packages/f14/gwaei/po/fr.po | 
+ | [es](/f14/language/es) | 1116 | 1169 | 95.5 | /mnt/stockage/packages/f14/gwaei/po/es.po | 
+ | [it](/f14/language/it) | 1046 | 1169 | 89.5 | /mnt/stockage/packages/f14/gwaei/po/it.po | 
+ | [ja](/f14/language/ja) | 558 | 1169 | 47.7 | /mnt/stockage/packages/f14/gwaei/po/ja.po | 
 {.sortable}
 
 

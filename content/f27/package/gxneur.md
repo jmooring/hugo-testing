@@ -18,13 +18,13 @@ The package gxneur (version 0.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 929 | 929 | 100.0 | /mnt/stockage/packages/f27/gxneur/po/ru.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 363 | 929 | 39.1 | /mnt/stockage/packages/f27/gxneur/po/uk.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 314 | 929 | 33.8 | /mnt/stockage/packages/f27/gxneur/po/he.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 287 | 929 | 30.9 | /mnt/stockage/packages/f27/gxneur/po/de.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 281 | 929 | 30.2 | /mnt/stockage/packages/f27/gxneur/po/be.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 89 | 929 | 9.6 | /mnt/stockage/packages/f27/gxneur/po/ro.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 76 | 929 | 8.2 | /mnt/stockage/packages/f27/gxneur/po/es.po | 
+ | [ru](/f27/language/ru) | 929 | 929 | 100.0 | /mnt/stockage/packages/f27/gxneur/po/ru.po | 
+ | [uk](/f27/language/uk) | 363 | 929 | 39.1 | /mnt/stockage/packages/f27/gxneur/po/uk.po | 
+ | [he](/f27/language/he) | 314 | 929 | 33.8 | /mnt/stockage/packages/f27/gxneur/po/he.po | 
+ | [de](/f27/language/de) | 287 | 929 | 30.9 | /mnt/stockage/packages/f27/gxneur/po/de.po | 
+ | [be](/f27/language/be) | 281 | 929 | 30.2 | /mnt/stockage/packages/f27/gxneur/po/be.po | 
+ | [ro](/f27/language/ro) | 89 | 929 | 9.6 | /mnt/stockage/packages/f27/gxneur/po/ro.po | 
+ | [es](/f27/language/es) | 76 | 929 | 8.2 | /mnt/stockage/packages/f27/gxneur/po/es.po | 
 {.sortable}
 
 

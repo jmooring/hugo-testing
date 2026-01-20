@@ -18,35 +18,35 @@ The package gpaste (version 45.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f40/language/es.md" >}}) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/es.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/ru.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/ta.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1473 | 1481 | 99.5 | /mnt/stockage/packages/f40/gpaste/po/zh_CN.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1453 | 1481 | 98.1 | /mnt/stockage/packages/f40/gpaste/po/de.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1390 | 1481 | 93.9 | /mnt/stockage/packages/f40/gpaste/po/it.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1285 | 1481 | 86.8 | /mnt/stockage/packages/f40/gpaste/po/pt_BR.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1241 | 1481 | 83.8 | /mnt/stockage/packages/f40/gpaste/po/fr.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1198 | 1481 | 80.9 | /mnt/stockage/packages/f40/gpaste/po/pl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 940 | 1481 | 63.5 | /mnt/stockage/packages/f40/gpaste/po/sv.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 935 | 1481 | 63.1 | /mnt/stockage/packages/f40/gpaste/po/nl_NL.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 899 | 1481 | 60.7 | /mnt/stockage/packages/f40/gpaste/po/is.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 848 | 1481 | 57.3 | /mnt/stockage/packages/f40/gpaste/po/da.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 640 | 1481 | 43.2 | /mnt/stockage/packages/f40/gpaste/po/nb_NO.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 416 | 1481 | 28.1 | /mnt/stockage/packages/f40/gpaste/po/ja.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 221 | 1481 | 14.9 | /mnt/stockage/packages/f40/gpaste/po/zh_Hant.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 168 | 1481 | 11.3 | /mnt/stockage/packages/f40/gpaste/po/cs.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 150 | 1481 | 10.1 | /mnt/stockage/packages/f40/gpaste/po/ko.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 146 | 1481 | 9.9 | /mnt/stockage/packages/f40/gpaste/po/gl.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 134 | 1481 | 9.0 | /mnt/stockage/packages/f40/gpaste/po/oc.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 98 | 1481 | 6.6 | /mnt/stockage/packages/f40/gpaste/po/vi.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 92 | 1481 | 6.2 | /mnt/stockage/packages/f40/gpaste/po/fi.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 86 | 1481 | 5.8 | /mnt/stockage/packages/f40/gpaste/po/sl.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 35 | 1481 | 2.4 | /mnt/stockage/packages/f40/gpaste/po/ka.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 0 | 1481 | 0.0 | /mnt/stockage/packages/f40/gpaste/po/ar.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 0 | 1481 | 0.0 | /mnt/stockage/packages/f40/gpaste/po/fa.po | 
- | [tok]({{< ref "/f40/language/tok.md" >}}) | 0 | 1481 | 0.0 | /mnt/stockage/packages/f40/gpaste/po/tok.po | 
+ | [es](/f40/language/es) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/es.po | 
+ | [ru](/f40/language/ru) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/ru.po | 
+ | [ta](/f40/language/ta) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/ta.po | 
+ | [tr](/f40/language/tr) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/tr.po | 
+ | [uk](/f40/language/uk) | 1477 | 1481 | 99.7 | /mnt/stockage/packages/f40/gpaste/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1473 | 1481 | 99.5 | /mnt/stockage/packages/f40/gpaste/po/zh_CN.po | 
+ | [de](/f40/language/de) | 1453 | 1481 | 98.1 | /mnt/stockage/packages/f40/gpaste/po/de.po | 
+ | [it](/f40/language/it) | 1390 | 1481 | 93.9 | /mnt/stockage/packages/f40/gpaste/po/it.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1285 | 1481 | 86.8 | /mnt/stockage/packages/f40/gpaste/po/pt_BR.po | 
+ | [fr](/f40/language/fr) | 1241 | 1481 | 83.8 | /mnt/stockage/packages/f40/gpaste/po/fr.po | 
+ | [pl](/f40/language/pl) | 1198 | 1481 | 80.9 | /mnt/stockage/packages/f40/gpaste/po/pl.po | 
+ | [sv](/f40/language/sv) | 940 | 1481 | 63.5 | /mnt/stockage/packages/f40/gpaste/po/sv.po | 
+ | [nl](/f40/language/nl) | 935 | 1481 | 63.1 | /mnt/stockage/packages/f40/gpaste/po/nl_NL.po | 
+ | [is](/f40/language/is) | 899 | 1481 | 60.7 | /mnt/stockage/packages/f40/gpaste/po/is.po | 
+ | [da](/f40/language/da) | 848 | 1481 | 57.3 | /mnt/stockage/packages/f40/gpaste/po/da.po | 
+ | [nb_NO](/f40/language/nb_NO) | 640 | 1481 | 43.2 | /mnt/stockage/packages/f40/gpaste/po/nb_NO.po | 
+ | [ja](/f40/language/ja) | 416 | 1481 | 28.1 | /mnt/stockage/packages/f40/gpaste/po/ja.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 221 | 1481 | 14.9 | /mnt/stockage/packages/f40/gpaste/po/zh_Hant.po | 
+ | [cs](/f40/language/cs) | 168 | 1481 | 11.3 | /mnt/stockage/packages/f40/gpaste/po/cs.po | 
+ | [ko](/f40/language/ko) | 150 | 1481 | 10.1 | /mnt/stockage/packages/f40/gpaste/po/ko.po | 
+ | [gl](/f40/language/gl) | 146 | 1481 | 9.9 | /mnt/stockage/packages/f40/gpaste/po/gl.po | 
+ | [oc](/f40/language/oc) | 134 | 1481 | 9.0 | /mnt/stockage/packages/f40/gpaste/po/oc.po | 
+ | [vi](/f40/language/vi) | 98 | 1481 | 6.6 | /mnt/stockage/packages/f40/gpaste/po/vi.po | 
+ | [fi](/f40/language/fi) | 92 | 1481 | 6.2 | /mnt/stockage/packages/f40/gpaste/po/fi.po | 
+ | [sl](/f40/language/sl) | 86 | 1481 | 5.8 | /mnt/stockage/packages/f40/gpaste/po/sl.po | 
+ | [ka](/f40/language/ka) | 35 | 1481 | 2.4 | /mnt/stockage/packages/f40/gpaste/po/ka.po | 
+ | [ar](/f40/language/ar) | 0 | 1481 | 0.0 | /mnt/stockage/packages/f40/gpaste/po/ar.po | 
+ | [fa](/f40/language/fa) | 0 | 1481 | 0.0 | /mnt/stockage/packages/f40/gpaste/po/fa.po | 
+ | [tok](/f40/language/tok) | 0 | 1481 | 0.0 | /mnt/stockage/packages/f40/gpaste/po/tok.po | 
 {.sortable}
 
 

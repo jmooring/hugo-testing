@@ -18,15 +18,15 @@ The package pioneers (version 0.11.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/ja.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/nl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/sv.po | 
- | [af]({{< ref "/f7/language/af.md" >}}) | 2291 | 2448 | 93.6 | /mnt/stockage/packages/f7/pioneers/po/af.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2241 | 2448 | 91.5 | /mnt/stockage/packages/f7/pioneers/po/es.po | 
+ | [de](/f7/language/de) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/de.po | 
+ | [fr](/f7/language/fr) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/fr.po | 
+ | [hu](/f7/language/hu) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/hu.po | 
+ | [it](/f7/language/it) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/it.po | 
+ | [ja](/f7/language/ja) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/ja.po | 
+ | [nl](/f7/language/nl) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/nl.po | 
+ | [sv](/f7/language/sv) | 2448 | 2448 | 100.0 | /mnt/stockage/packages/f7/pioneers/po/sv.po | 
+ | [af](/f7/language/af) | 2291 | 2448 | 93.6 | /mnt/stockage/packages/f7/pioneers/po/af.po | 
+ | [es](/f7/language/es) | 2241 | 2448 | 91.5 | /mnt/stockage/packages/f7/pioneers/po/es.po | 
 {.sortable}
 
 

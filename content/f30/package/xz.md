@@ -18,12 +18,12 @@ The package xz (version 5.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f30/xz/po/de.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f30/xz/po/it.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f30/xz/po/pl.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f30/xz/po/vi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f30/xz/po/fr.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f30/xz/po/cs.po | 
+ | [de](/f30/language/de) | 1378 | 1392 | 99.0 | /mnt/stockage/packages/f30/xz/po/de.po | 
+ | [it](/f30/language/it) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f30/xz/po/it.po | 
+ | [pl](/f30/language/pl) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f30/xz/po/pl.po | 
+ | [vi](/f30/language/vi) | 1360 | 1392 | 97.7 | /mnt/stockage/packages/f30/xz/po/vi.po | 
+ | [fr](/f30/language/fr) | 1259 | 1392 | 90.4 | /mnt/stockage/packages/f30/xz/po/fr.po | 
+ | [cs](/f30/language/cs) | 1130 | 1392 | 81.2 | /mnt/stockage/packages/f30/xz/po/cs.po | 
 {.sortable}
 
 

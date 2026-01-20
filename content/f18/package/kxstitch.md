@@ -18,11 +18,11 @@ The package kxstitch (version 0.8.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 794 | 794 | 100.0 | /mnt/stockage/packages/f18/kxstitch/po/cs.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 781 | 781 | 100.0 | /mnt/stockage/packages/f18/kxstitch/po/nl.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 780 | 781 | 99.9 | /mnt/stockage/packages/f18/kxstitch/po/ca.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 780 | 781 | 99.9 | /mnt/stockage/packages/f18/kxstitch/po/en_GB.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1441 | 1450 | 99.4 | /mnt/stockage/packages/f18/kxstitch/po/ru.po | 
+ | [cs](/f18/language/cs) | 794 | 794 | 100.0 | /mnt/stockage/packages/f18/kxstitch/po/cs.po | 
+ | [nl](/f18/language/nl) | 781 | 781 | 100.0 | /mnt/stockage/packages/f18/kxstitch/po/nl.po | 
+ | [ca](/f18/language/ca) | 780 | 781 | 99.9 | /mnt/stockage/packages/f18/kxstitch/po/ca.po | 
+ | [en_GB](/f18/language/en_GB) | 780 | 781 | 99.9 | /mnt/stockage/packages/f18/kxstitch/po/en_GB.po | 
+ | [ru](/f18/language/ru) | 1441 | 1450 | 99.4 | /mnt/stockage/packages/f18/kxstitch/po/ru.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package sugar-recall (version 6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f32/language/ayc.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/ayc.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/da.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/en.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/en_GB.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/en_US.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/es.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/hy.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/nl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/zh_CN.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 29 | 47 | 61.7 | /mnt/stockage/packages/f32/sugar-recall/po/pl.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 28 | 47 | 59.6 | /mnt/stockage/packages/f32/sugar-recall/po/cs.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 0 | 47 | 0.0 | /mnt/stockage/packages/f32/sugar-recall/po/hu.po | 
- | [mi]({{< ref "/f32/language/mi.md" >}}) | 0 | 47 | 0.0 | /mnt/stockage/packages/f32/sugar-recall/po/mi.po | 
+ | [ayc](/f32/language/ayc) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/ayc.po | 
+ | [da](/f32/language/da) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/da.po | 
+ | [en](/f32/language/en) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/en.po | 
+ | [en_GB](/f32/language/en_GB) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/en_GB.po | 
+ | [en_US](/f32/language/en_US) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/en_US.po | 
+ | [es](/f32/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/es.po | 
+ | [hy](/f32/language/hy) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/hy.po | 
+ | [nl](/f32/language/nl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/nl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 47 | 47 | 100.0 | /mnt/stockage/packages/f32/sugar-recall/po/zh_CN.po | 
+ | [pl](/f32/language/pl) | 29 | 47 | 61.7 | /mnt/stockage/packages/f32/sugar-recall/po/pl.po | 
+ | [cs](/f32/language/cs) | 28 | 47 | 59.6 | /mnt/stockage/packages/f32/sugar-recall/po/cs.po | 
+ | [hu](/f32/language/hu) | 0 | 47 | 0.0 | /mnt/stockage/packages/f32/sugar-recall/po/hu.po | 
+ | [mi](/f32/language/mi) | 0 | 47 | 0.0 | /mnt/stockage/packages/f32/sugar-recall/po/mi.po | 
 {.sortable}
 
 

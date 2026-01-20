@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tigervnc]({{< ref "/f42/package/tigervnc.md" >}}) | 1047 | 1047 | 100.0 | Russian <gnu@d07.ru> | 
- | [skychart]({{< ref "/f42/package/skychart.md" >}}) | 5053 | 5093 | 99.2 | Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua> | 
- | [debconf]({{< ref "/f42/package/debconf.md" >}}) | 659 | 671 | 98.2 | Russian <debian-l10n-russian@lists.debian.org> | 
- | [duplicity]({{< ref "/f42/package/duplicity.md" >}}) | 2215 | 2377 | 93.2 | Rսssian, Սkraine | 
+ | [tigervnc](/f42/package/tigervnc) | 1047 | 1047 | 100.0 | Russian <gnu@d07.ru> | 
+ | [skychart](/f42/package/skychart) | 5053 | 5093 | 99.2 | Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua> | 
+ | [debconf](/f42/package/debconf) | 659 | 671 | 98.2 | Russian <debian-l10n-russian@lists.debian.org> | 
+ | [duplicity](/f42/package/duplicity) | 2215 | 2377 | 93.2 | Rսssian, Սkraine | 
 {.sortable}
 
 

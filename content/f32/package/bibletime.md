@@ -18,39 +18,39 @@ The package bibletime (version 2.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 9720 | 9720 | 100.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-es.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-es.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 9720 | 9720 | 100.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ko.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ko.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 7986 | 9720 | 82.2 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-it.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 6537 | 9720 | 67.3 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-pt_BR.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-pt_BR.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 6264 | 9720 | 64.4 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-de.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-de.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 6122 | 9720 | 63.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-hu.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-hu.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 6095 | 9720 | 62.7 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ar.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ar.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 4735 | 9720 | 48.7 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-cs.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-cs.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 2914 | 9720 | 30.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-lt.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-lt.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2911 | 9720 | 29.9 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-fi.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 2562 | 9720 | 26.4 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-fr.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-fr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 2019 | 9720 | 20.8 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-nl.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-nl.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1514 | 9720 | 15.6 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ja.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ja.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1227 | 9720 | 12.6 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ru.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ru.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 1178 | 9720 | 12.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-da.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-da.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 802 | 9720 | 8.3 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-bg.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-bg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 413 | 9720 | 4.2 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-th.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 104 | 9720 | 1.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-tr.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-tr.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 103 | 9720 | 1.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-et.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-et.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 81 | 9720 | 0.8 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-lv.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-lv.po | 
- | [my]({{< ref "/f32/language/my.md" >}}) | 51 | 9720 | 0.5 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-my.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-my.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 46 | 9720 | 0.5 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-pt.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-pt.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 28 | 9720 | 0.3 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-pl.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-pl.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 11 | 9720 | 0.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-en_GB.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-en_GB.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 11 | 9720 | 0.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-sk.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-sk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 11 | 9720 | 0.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-zh_TW.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-zh_TW.po | 
- | [ceb]({{< ref "/f32/language/ceb.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ceb.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ceb.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-el.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-el.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-fil_PH.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-fil_PH.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-hy.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-hy.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-sr_RS.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-sr_RS.po | 
- | [ti]({{< ref "/f32/language/ti.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ti.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ti.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-uk.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-uk.po | 
+ | [es](/f32/language/es) | 9720 | 9720 | 100.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-es.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-es.po | 
+ | [ko](/f32/language/ko) | 9720 | 9720 | 100.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ko.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ko.po | 
+ | [it](/f32/language/it) | 7986 | 9720 | 82.2 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-it.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 6537 | 9720 | 67.3 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-pt_BR.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-pt_BR.po | 
+ | [de](/f32/language/de) | 6264 | 9720 | 64.4 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-de.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-de.po | 
+ | [hu](/f32/language/hu) | 6122 | 9720 | 63.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-hu.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-hu.po | 
+ | [ar](/f32/language/ar) | 6095 | 9720 | 62.7 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ar.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ar.po | 
+ | [cs](/f32/language/cs) | 4735 | 9720 | 48.7 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-cs.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-cs.po | 
+ | [lt](/f32/language/lt) | 2914 | 9720 | 30.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-lt.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-lt.po | 
+ | [fi](/f32/language/fi) | 2911 | 9720 | 29.9 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-fi.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-fi.po | 
+ | [fr](/f32/language/fr) | 2562 | 9720 | 26.4 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-fr.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-fr.po | 
+ | [nl](/f32/language/nl) | 2019 | 9720 | 20.8 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-nl.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-nl.po | 
+ | [ja](/f32/language/ja) | 1514 | 9720 | 15.6 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ja.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ja.po | 
+ | [ru](/f32/language/ru) | 1227 | 9720 | 12.6 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ru.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ru.po | 
+ | [da](/f32/language/da) | 1178 | 9720 | 12.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-da.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-da.po | 
+ | [bg](/f32/language/bg) | 802 | 9720 | 8.3 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-bg.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-bg.po | 
+ | [th](/f32/language/th) | 413 | 9720 | 4.2 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-th.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-th.po | 
+ | [tr](/f32/language/tr) | 104 | 9720 | 1.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-tr.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-tr.po | 
+ | [et](/f32/language/et) | 103 | 9720 | 1.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-et.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-et.po | 
+ | [lv](/f32/language/lv) | 81 | 9720 | 0.8 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-lv.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-lv.po | 
+ | [my](/f32/language/my) | 51 | 9720 | 0.5 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-my.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-my.po | 
+ | [pt](/f32/language/pt) | 46 | 9720 | 0.5 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-pt.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-pt.po | 
+ | [pl](/f32/language/pl) | 28 | 9720 | 0.3 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-pl.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-pl.po | 
+ | [en_GB](/f32/language/en_GB) | 11 | 9720 | 0.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-en_GB.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-en_GB.po | 
+ | [sk](/f32/language/sk) | 11 | 9720 | 0.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-sk.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-sk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 11 | 9720 | 0.1 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-zh_TW.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-zh_TW.po | 
+ | [ceb](/f32/language/ceb) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ceb.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ceb.po | 
+ | [el](/f32/language/el) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-el.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-el.po | 
+ | [error](/f32/language/error) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-fil_PH.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-fil_PH.po | 
+ | [hy](/f32/language/hy) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-hy.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-hy.po | 
+ | [sr](/f32/language/sr) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-sr_RS.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-sr_RS.po | 
+ | [ti](/f32/language/ti) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-ti.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-ti.po | 
+ | [uk](/f32/language/uk) | 0 | 9720 | 0.0 | /mnt/stockage/packages/f32/bibletime/i18n/handbook/handbook-uk.po/mnt/stockage/packages/f32/bibletime/i18n/howto/howto-uk.po | 
 {.sortable}
 
 

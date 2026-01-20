@@ -18,7 +18,7 @@ The package 389-ds-base (version 2.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f38/389-ds-base/src/cockpit/389-console/po/de.po | 
+ | [de](/f38/language/de) | 19 | 19 | 100.0 | /mnt/stockage/packages/f38/389-ds-base/src/cockpit/389-console/po/de.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package gentoo (version 0.11.56):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f9/gentoo/po/sv.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1930 | 2042 | 94.5 | /mnt/stockage/packages/f9/gentoo/po/pl.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1899 | 2042 | 93.0 | /mnt/stockage/packages/f9/gentoo/po/it.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 11990 | 14294 | 83.9 | /mnt/stockage/packages/f9/gentoo/po/ru_RU.koi8r.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.UTF-8.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.cp1251.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.CP1251.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.utf8.po/mnt/stockage/packages/f9/gentoo/po/ja_JP.UTF-8.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.KOI8-R.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1662 | 2042 | 81.4 | /mnt/stockage/packages/f9/gentoo/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1352 | 2042 | 66.2 | /mnt/stockage/packages/f9/gentoo/po/fr.po | 
+ | [sv](/f9/language/sv) | 2042 | 2042 | 100.0 | /mnt/stockage/packages/f9/gentoo/po/sv.po | 
+ | [pl](/f9/language/pl) | 1930 | 2042 | 94.5 | /mnt/stockage/packages/f9/gentoo/po/pl.po | 
+ | [it](/f9/language/it) | 1899 | 2042 | 93.0 | /mnt/stockage/packages/f9/gentoo/po/it.po | 
+ | [error](/f9/language/error) | 11990 | 14294 | 83.9 | /mnt/stockage/packages/f9/gentoo/po/ru_RU.koi8r.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.UTF-8.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.cp1251.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.CP1251.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.utf8.po/mnt/stockage/packages/f9/gentoo/po/ja_JP.UTF-8.po/mnt/stockage/packages/f9/gentoo/po/ru_RU.KOI8-R.po | 
+ | [de](/f9/language/de) | 1662 | 2042 | 81.4 | /mnt/stockage/packages/f9/gentoo/po/de.po | 
+ | [fr](/f9/language/fr) | 1352 | 2042 | 66.2 | /mnt/stockage/packages/f9/gentoo/po/fr.po | 
 {.sortable}
 
 

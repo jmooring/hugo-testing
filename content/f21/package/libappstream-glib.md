@@ -18,7 +18,7 @@ The package libappstream-glib (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 270 | 294 | 91.8 | /mnt/stockage/packages/f21/libappstream-glib/po/ru.po | 
+ | [ru](/f21/language/ru) | 270 | 294 | 91.8 | /mnt/stockage/packages/f21/libappstream-glib/po/ru.po | 
 {.sortable}
 
 

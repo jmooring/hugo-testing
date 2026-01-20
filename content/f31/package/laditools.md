@@ -18,9 +18,9 @@ The package laditools (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f31/language/it.md" >}}) | 175 | 376 | 46.5 | /mnt/stockage/packages/f31/laditools/po/it.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 122 | 375 | 32.5 | /mnt/stockage/packages/f31/laditools/po/es.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 5 | 375 | 1.3 | /mnt/stockage/packages/f31/laditools/po/pt.po | 
+ | [it](/f31/language/it) | 175 | 376 | 46.5 | /mnt/stockage/packages/f31/laditools/po/it.po | 
+ | [es](/f31/language/es) | 122 | 375 | 32.5 | /mnt/stockage/packages/f31/laditools/po/es.po | 
+ | [pt](/f31/language/pt) | 5 | 375 | 1.3 | /mnt/stockage/packages/f31/laditools/po/pt.po | 
 {.sortable}
 
 

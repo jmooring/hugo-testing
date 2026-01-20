@@ -18,80 +18,80 @@ The package lskat (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ar/lskat.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ca/lskat.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ca@valencia/lskat.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/cs/lskat.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/de/lskat.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/en_GB/lskat.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/eo/lskat.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/es/lskat.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/eu/lskat.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/fi/lskat.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/fr/lskat.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/gl/lskat.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/he/lskat.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/hu/lskat.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/it/lskat.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ka/lskat.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ko/lskat.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/lv/lskat.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/nl/lskat.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/nn/lskat.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/pl/lskat.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/pt_BR/lskat.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ru/lskat.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/sa/lskat.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/sl/lskat.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/sv/lskat.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/tr/lskat.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/uk/lskat.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/zh_TW/lskat.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 233 | 266 | 87.6 | /mnt/stockage/packages/f43/lskat/po/el/lskat.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 233 | 266 | 87.6 | /mnt/stockage/packages/f43/lskat/po/zh_CN/lskat.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 212 | 266 | 79.7 | /mnt/stockage/packages/f43/lskat/po/sk/lskat.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/bs/lskat.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/da/lskat.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/et/lskat.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/ga/lskat.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/id/lskat.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/kk/lskat.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/km/lskat.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/nb/lskat.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/nds/lskat.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/pt/lskat.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr/lskat.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr@ijekavian/lskat.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr@ijekavianlatin/lskat.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr@latin/lskat.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 200 | 266 | 75.2 | /mnt/stockage/packages/f43/lskat/po/ja/lskat.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 200 | 266 | 75.2 | /mnt/stockage/packages/f43/lskat/po/ro/lskat.po | 
- | [hne]({{< ref "/f43/language/hne.md" >}}) | 179 | 266 | 67.3 | /mnt/stockage/packages/f43/lskat/po/hne/lskat.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 152 | 266 | 57.1 | /mnt/stockage/packages/f43/lskat/po/ne/lskat.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 148 | 266 | 55.6 | /mnt/stockage/packages/f43/lskat/po/fa/lskat.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 128 | 266 | 48.1 | /mnt/stockage/packages/f43/lskat/po/hi/lskat.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 83 | 266 | 31.2 | /mnt/stockage/packages/f43/lskat/po/ug/lskat.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 63 | 266 | 23.7 | /mnt/stockage/packages/f43/lskat/po/ms/lskat.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/af/lskat.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/cy/lskat.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/hr/lskat.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/is/lskat.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/mk/lskat.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/ta/lskat.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/tg/lskat.po | 
- | [xh]({{< ref "/f43/language/xh.md" >}}) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/xh/lskat.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 56 | 266 | 21.1 | /mnt/stockage/packages/f43/lskat/po/bg/lskat.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 55 | 266 | 20.7 | /mnt/stockage/packages/f43/lskat/po/be/lskat.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 55 | 266 | 20.7 | /mnt/stockage/packages/f43/lskat/po/mr/lskat.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 54 | 266 | 20.3 | /mnt/stockage/packages/f43/lskat/po/sq/lskat.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 52 | 266 | 19.5 | /mnt/stockage/packages/f43/lskat/po/lt/lskat.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 21 | 266 | 7.9 | /mnt/stockage/packages/f43/lskat/po/oc/lskat.po | 
- | [mai]({{< ref "/f43/language/mai.md" >}}) | 20 | 266 | 7.5 | /mnt/stockage/packages/f43/lskat/po/mai/lskat.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 19 | 266 | 7.1 | /mnt/stockage/packages/f43/lskat/po/br/lskat.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 15 | 266 | 5.6 | /mnt/stockage/packages/f43/lskat/po/pa/lskat.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 4 | 266 | 1.5 | /mnt/stockage/packages/f43/lskat/po/ast/lskat.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 2 | 266 | 0.8 | /mnt/stockage/packages/f43/lskat/po/ml/lskat.po | 
- | [se]({{< ref "/f43/language/se.md" >}}) | 0 | 266 | 0.0 | /mnt/stockage/packages/f43/lskat/po/se/lskat.po | 
+ | [ar](/f43/language/ar) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ar/lskat.po | 
+ | [ca](/f43/language/ca) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ca/lskat.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ca@valencia/lskat.po | 
+ | [cs](/f43/language/cs) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/cs/lskat.po | 
+ | [de](/f43/language/de) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/de/lskat.po | 
+ | [en_GB](/f43/language/en_GB) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/en_GB/lskat.po | 
+ | [eo](/f43/language/eo) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/eo/lskat.po | 
+ | [es](/f43/language/es) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/es/lskat.po | 
+ | [eu](/f43/language/eu) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/eu/lskat.po | 
+ | [fi](/f43/language/fi) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/fi/lskat.po | 
+ | [fr](/f43/language/fr) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/fr/lskat.po | 
+ | [gl](/f43/language/gl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/gl/lskat.po | 
+ | [he](/f43/language/he) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/he/lskat.po | 
+ | [hu](/f43/language/hu) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/hu/lskat.po | 
+ | [it](/f43/language/it) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/it/lskat.po | 
+ | [ka](/f43/language/ka) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ka/lskat.po | 
+ | [ko](/f43/language/ko) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ko/lskat.po | 
+ | [lv](/f43/language/lv) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/lv/lskat.po | 
+ | [nl](/f43/language/nl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/nl/lskat.po | 
+ | [nn](/f43/language/nn) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/nn/lskat.po | 
+ | [pl](/f43/language/pl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/pl/lskat.po | 
+ | [pt_BR](/f43/language/pt_BR) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/pt_BR/lskat.po | 
+ | [ru](/f43/language/ru) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/ru/lskat.po | 
+ | [sa](/f43/language/sa) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/sa/lskat.po | 
+ | [sl](/f43/language/sl) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/sl/lskat.po | 
+ | [sv](/f43/language/sv) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/sv/lskat.po | 
+ | [tr](/f43/language/tr) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/tr/lskat.po | 
+ | [uk](/f43/language/uk) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/uk/lskat.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 266 | 266 | 100.0 | /mnt/stockage/packages/f43/lskat/po/zh_TW/lskat.po | 
+ | [el](/f43/language/el) | 233 | 266 | 87.6 | /mnt/stockage/packages/f43/lskat/po/el/lskat.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 233 | 266 | 87.6 | /mnt/stockage/packages/f43/lskat/po/zh_CN/lskat.po | 
+ | [sk](/f43/language/sk) | 212 | 266 | 79.7 | /mnt/stockage/packages/f43/lskat/po/sk/lskat.po | 
+ | [bs](/f43/language/bs) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/bs/lskat.po | 
+ | [da](/f43/language/da) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/da/lskat.po | 
+ | [et](/f43/language/et) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/et/lskat.po | 
+ | [ga](/f43/language/ga) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/ga/lskat.po | 
+ | [id](/f43/language/id) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/id/lskat.po | 
+ | [kk](/f43/language/kk) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/kk/lskat.po | 
+ | [km](/f43/language/km) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/km/lskat.po | 
+ | [nb_NO](/f43/language/nb_NO) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/nb/lskat.po | 
+ | [nds](/f43/language/nds) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/nds/lskat.po | 
+ | [pt](/f43/language/pt) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/pt/lskat.po | 
+ | [sr](/f43/language/sr) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr/lskat.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr@ijekavian/lskat.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr@ijekavianlatin/lskat.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 205 | 266 | 77.1 | /mnt/stockage/packages/f43/lskat/po/sr@latin/lskat.po | 
+ | [ja](/f43/language/ja) | 200 | 266 | 75.2 | /mnt/stockage/packages/f43/lskat/po/ja/lskat.po | 
+ | [ro](/f43/language/ro) | 200 | 266 | 75.2 | /mnt/stockage/packages/f43/lskat/po/ro/lskat.po | 
+ | [hne](/f43/language/hne) | 179 | 266 | 67.3 | /mnt/stockage/packages/f43/lskat/po/hne/lskat.po | 
+ | [ne](/f43/language/ne) | 152 | 266 | 57.1 | /mnt/stockage/packages/f43/lskat/po/ne/lskat.po | 
+ | [fa](/f43/language/fa) | 148 | 266 | 55.6 | /mnt/stockage/packages/f43/lskat/po/fa/lskat.po | 
+ | [hi](/f43/language/hi) | 128 | 266 | 48.1 | /mnt/stockage/packages/f43/lskat/po/hi/lskat.po | 
+ | [ug](/f43/language/ug) | 83 | 266 | 31.2 | /mnt/stockage/packages/f43/lskat/po/ug/lskat.po | 
+ | [ms](/f43/language/ms) | 63 | 266 | 23.7 | /mnt/stockage/packages/f43/lskat/po/ms/lskat.po | 
+ | [af](/f43/language/af) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/af/lskat.po | 
+ | [cy](/f43/language/cy) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/cy/lskat.po | 
+ | [hr](/f43/language/hr) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/hr/lskat.po | 
+ | [is](/f43/language/is) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/is/lskat.po | 
+ | [mk](/f43/language/mk) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/mk/lskat.po | 
+ | [ta](/f43/language/ta) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/ta/lskat.po | 
+ | [tg](/f43/language/tg) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/tg/lskat.po | 
+ | [xh](/f43/language/xh) | 60 | 266 | 22.6 | /mnt/stockage/packages/f43/lskat/po/xh/lskat.po | 
+ | [bg](/f43/language/bg) | 56 | 266 | 21.1 | /mnt/stockage/packages/f43/lskat/po/bg/lskat.po | 
+ | [be](/f43/language/be) | 55 | 266 | 20.7 | /mnt/stockage/packages/f43/lskat/po/be/lskat.po | 
+ | [mr](/f43/language/mr) | 55 | 266 | 20.7 | /mnt/stockage/packages/f43/lskat/po/mr/lskat.po | 
+ | [sq](/f43/language/sq) | 54 | 266 | 20.3 | /mnt/stockage/packages/f43/lskat/po/sq/lskat.po | 
+ | [lt](/f43/language/lt) | 52 | 266 | 19.5 | /mnt/stockage/packages/f43/lskat/po/lt/lskat.po | 
+ | [oc](/f43/language/oc) | 21 | 266 | 7.9 | /mnt/stockage/packages/f43/lskat/po/oc/lskat.po | 
+ | [mai](/f43/language/mai) | 20 | 266 | 7.5 | /mnt/stockage/packages/f43/lskat/po/mai/lskat.po | 
+ | [br](/f43/language/br) | 19 | 266 | 7.1 | /mnt/stockage/packages/f43/lskat/po/br/lskat.po | 
+ | [pa](/f43/language/pa) | 15 | 266 | 5.6 | /mnt/stockage/packages/f43/lskat/po/pa/lskat.po | 
+ | [ast](/f43/language/ast) | 4 | 266 | 1.5 | /mnt/stockage/packages/f43/lskat/po/ast/lskat.po | 
+ | [ml](/f43/language/ml) | 2 | 266 | 0.8 | /mnt/stockage/packages/f43/lskat/po/ml/lskat.po | 
+ | [se](/f43/language/se) | 0 | 266 | 0.0 | /mnt/stockage/packages/f43/lskat/po/se/lskat.po | 
 {.sortable}
 
 

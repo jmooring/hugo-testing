@@ -18,12 +18,12 @@ The package python-nevow (version 0.9.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f8/language/en_US.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/en-us/LC_MESSAGES/test.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/fi/LC_MESSAGES/test.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/de/LC_MESSAGES/test.po | 
- | [en]({{< ref "/f8/language/en.md" >}}) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/en/LC_MESSAGES/test.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/fr/LC_MESSAGES/test.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/it/LC_MESSAGES/test.po | 
+ | [en_US](/f8/language/en_US) | 14 | 14 | 100.0 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/en-us/LC_MESSAGES/test.po | 
+ | [fi](/f8/language/fi) | 14 | 14 | 100.0 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/fi/LC_MESSAGES/test.po | 
+ | [de](/f8/language/de) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/de/LC_MESSAGES/test.po | 
+ | [en](/f8/language/en) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/en/LC_MESSAGES/test.po | 
+ | [fr](/f8/language/fr) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/fr/LC_MESSAGES/test.po | 
+ | [it](/f8/language/it) | 4 | 14 | 28.6 | /mnt/stockage/packages/f8/python-nevow/examples/i18n/locale/it/LC_MESSAGES/test.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package fcitx5-hangul (version 5.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/da.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ko.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ru.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/zh_TW.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 45 | 54 | 83.3 | /mnt/stockage/packages/f34/fcitx5-hangul/po/de.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 37 | 54 | 68.5 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ca.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 13 | 54 | 24.1 | /mnt/stockage/packages/f34/fcitx5-hangul/po/he.po | 
+ | [da](/f34/language/da) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/da.po | 
+ | [ja](/f34/language/ja) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ja.po | 
+ | [ko](/f34/language/ko) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ko.po | 
+ | [ru](/f34/language/ru) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ru.po | 
+ | [tr](/f34/language/tr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 54 | 54 | 100.0 | /mnt/stockage/packages/f34/fcitx5-hangul/po/zh_TW.po | 
+ | [de](/f34/language/de) | 45 | 54 | 83.3 | /mnt/stockage/packages/f34/fcitx5-hangul/po/de.po | 
+ | [ca](/f34/language/ca) | 37 | 54 | 68.5 | /mnt/stockage/packages/f34/fcitx5-hangul/po/ca.po | 
+ | [he](/f34/language/he) | 13 | 54 | 24.1 | /mnt/stockage/packages/f34/fcitx5-hangul/po/he.po | 
 {.sortable}
 
 

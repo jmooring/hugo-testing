@@ -18,25 +18,25 @@ The package darktable (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 6141 | 6141 | 100.0 | /mnt/stockage/packages/f16/darktable/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 6141 | 6141 | 100.0 | /mnt/stockage/packages/f16/darktable/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 6183 | 6183 | 100.0 | /mnt/stockage/packages/f16/darktable/po/fr.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 6223 | 6223 | 100.0 | /mnt/stockage/packages/f16/darktable/po/nl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 6131 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f16/language/pt_PT.md" >}}) | 6131 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/pt_PT.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 6141 | 6141 | 100.0 | /mnt/stockage/packages/f16/darktable/po/sv.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 6130 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/it.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 6123 | 6124 | 100.0 | /mnt/stockage/packages/f16/darktable/po/cs.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 6129 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/ja.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 6142 | 6145 | 100.0 | /mnt/stockage/packages/f16/darktable/po/pl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 4218 | 6131 | 68.8 | /mnt/stockage/packages/f16/darktable/po/zh_CN.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 4037 | 6131 | 65.8 | /mnt/stockage/packages/f16/darktable/po/sq.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 3831 | 6131 | 62.5 | /mnt/stockage/packages/f16/darktable/po/ru.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 2835 | 6131 | 46.2 | /mnt/stockage/packages/f16/darktable/po/ro.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 2390 | 6131 | 39.0 | /mnt/stockage/packages/f16/darktable/po/fi.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 1424 | 6131 | 23.2 | /mnt/stockage/packages/f16/darktable/po/gl.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 663 | 6131 | 10.8 | /mnt/stockage/packages/f16/darktable/po/ca.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 569 | 6131 | 9.3 | /mnt/stockage/packages/f16/darktable/po/th.po | 
+ | [de](/f16/language/de) | 6141 | 6141 | 100.0 | /mnt/stockage/packages/f16/darktable/po/de.po | 
+ | [es](/f16/language/es) | 6141 | 6141 | 100.0 | /mnt/stockage/packages/f16/darktable/po/es.po | 
+ | [fr](/f16/language/fr) | 6183 | 6183 | 100.0 | /mnt/stockage/packages/f16/darktable/po/fr.po | 
+ | [nl](/f16/language/nl) | 6223 | 6223 | 100.0 | /mnt/stockage/packages/f16/darktable/po/nl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 6131 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/pt_BR.po | 
+ | [pt_PT](/f16/language/pt_PT) | 6131 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/pt_PT.po | 
+ | [sv](/f16/language/sv) | 6141 | 6141 | 100.0 | /mnt/stockage/packages/f16/darktable/po/sv.po | 
+ | [it](/f16/language/it) | 6130 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/it.po | 
+ | [cs](/f16/language/cs) | 6123 | 6124 | 100.0 | /mnt/stockage/packages/f16/darktable/po/cs.po | 
+ | [ja](/f16/language/ja) | 6129 | 6131 | 100.0 | /mnt/stockage/packages/f16/darktable/po/ja.po | 
+ | [pl](/f16/language/pl) | 6142 | 6145 | 100.0 | /mnt/stockage/packages/f16/darktable/po/pl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 4218 | 6131 | 68.8 | /mnt/stockage/packages/f16/darktable/po/zh_CN.po | 
+ | [sq](/f16/language/sq) | 4037 | 6131 | 65.8 | /mnt/stockage/packages/f16/darktable/po/sq.po | 
+ | [ru](/f16/language/ru) | 3831 | 6131 | 62.5 | /mnt/stockage/packages/f16/darktable/po/ru.po | 
+ | [ro](/f16/language/ro) | 2835 | 6131 | 46.2 | /mnt/stockage/packages/f16/darktable/po/ro.po | 
+ | [fi](/f16/language/fi) | 2390 | 6131 | 39.0 | /mnt/stockage/packages/f16/darktable/po/fi.po | 
+ | [gl](/f16/language/gl) | 1424 | 6131 | 23.2 | /mnt/stockage/packages/f16/darktable/po/gl.po | 
+ | [ca](/f16/language/ca) | 663 | 6131 | 10.8 | /mnt/stockage/packages/f16/darktable/po/ca.po | 
+ | [th](/f16/language/th) | 569 | 6131 | 9.3 | /mnt/stockage/packages/f16/darktable/po/th.po | 
 {.sortable}
 
 

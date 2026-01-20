@@ -18,10 +18,10 @@ The package goocanvas2 (version 1.90.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 1234 | 1716 | 71.9 | /mnt/stockage/packages/f15/goocanvas2/po/ja.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 866 | 1716 | 50.5 | /mnt/stockage/packages/f15/goocanvas2/po/es.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 27 | 1716 | 1.6 | /mnt/stockage/packages/f15/goocanvas2/po/sv.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 0 | 1716 | 0.0 | /mnt/stockage/packages/f15/goocanvas2/po/en_GB.po | 
+ | [ja](/f15/language/ja) | 1234 | 1716 | 71.9 | /mnt/stockage/packages/f15/goocanvas2/po/ja.po | 
+ | [es](/f15/language/es) | 866 | 1716 | 50.5 | /mnt/stockage/packages/f15/goocanvas2/po/es.po | 
+ | [sv](/f15/language/sv) | 27 | 1716 | 1.6 | /mnt/stockage/packages/f15/goocanvas2/po/sv.po | 
+ | [en_GB](/f15/language/en_GB) | 0 | 1716 | 0.0 | /mnt/stockage/packages/f15/goocanvas2/po/en_GB.po | 
 {.sortable}
 
 

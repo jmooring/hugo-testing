@@ -44,8 +44,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django5]({{< ref "/f43/package/python-django5.md" >}}) | 3915 | 3915 | 100.0 | Lower Sorbian (http://app.transifex.com/django/django/language/dsb/) | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 522773 | 780917 | 66.9 | Lower Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/dsb/> | 
+ | [python-django5](/f43/package/python-django5) | 3915 | 3915 | 100.0 | Lower Sorbian (http://app.transifex.com/django/django/language/dsb/) | 
+ | [libreoffice](/f43/package/libreoffice) | 522773 | 780917 | 66.9 | Lower Sorbian <https://translations.documentfoundation.org/projects/libo_ui-master/avmediamessages/dsb/> | 
 {.sortable}
 
 

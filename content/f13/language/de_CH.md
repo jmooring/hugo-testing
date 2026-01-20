@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [desktop-effects]({{< ref "/f13/package/desktop-effects.md" >}}) | 66 | 66 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [iok]({{< ref "/f13/package/iok.md" >}}) | 134 | 134 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [php-gettext]({{< ref "/f13/package/php-gettext.md" >}}) | 18 | 18 | 100.0 |  | 
- | [pykickstart]({{< ref "/f13/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [sectool]({{< ref "/f13/package/sectool.md" >}}) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [system-config-users-docs]({{< ref "/f13/package/system-config-users-docs.md" >}}) | 1054 | 1054 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [usermode]({{< ref "/f13/package/usermode.md" >}}) | 562 | 562 | 100.0 | German <fedora-trans-de@redhat.com> | 
- | [publican-fedora]({{< ref "/f13/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | <de@li.org> | 
- | [libuser]({{< ref "/f13/package/libuser.md" >}}) | 1078 | 1114 | 96.8 | German <fedora-trans-de@redhat.com> | 
- | [fuse-encfs]({{< ref "/f13/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Switzerland) <de_CH@li.org> | 
- | [pulseaudio]({{< ref "/f13/package/pulseaudio.md" >}}) | 2041 | 2849 | 71.6 | German <fedora-trans-de@redhat.com> | 
- | [system-config-samba]({{< ref "/f13/package/system-config-samba.md" >}}) | 379 | 535 | 70.8 | German <fedora-trans-de@redhat.com> | 
- | [liblicense]({{< ref "/f13/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f13/package/anaconda.md" >}}) | 6451 | 9752 | 66.2 | German <fedora-trans-de@redhat.com> | 
- | [sos]({{< ref "/f13/package/sos.md" >}}) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
- | [publican]({{< ref "/f13/package/publican.md" >}}) | 354 | 1094 | 32.4 | <fedora-trans-de@redhat.com> | 
- | [volume_key]({{< ref "/f13/package/volume_key.md" >}}) | 186 | 726 | 25.6 | German <fedora-trans-de@redhat.com> | 
- | [gnomebaker]({{< ref "/f13/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [pgadmin3]({{< ref "/f13/package/pgadmin3.md" >}}) | 2152 | 9676 | 22.2 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 4657 | 0.0 | translations@vidalia-project.net | 
+ | [desktop-effects](/f13/package/desktop-effects) | 66 | 66 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [iok](/f13/package/iok) | 134 | 134 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [php-gettext](/f13/package/php-gettext) | 18 | 18 | 100.0 |  | 
+ | [pykickstart](/f13/package/pykickstart) | 284 | 284 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [sectool](/f13/package/sectool) | 2411 | 2411 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-users-docs](/f13/package/system-config-users-docs) | 1054 | 1054 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [usermode](/f13/package/usermode) | 562 | 562 | 100.0 | German <fedora-trans-de@redhat.com> | 
+ | [publican-fedora](/f13/package/publican-fedora) | 106 | 107 | 99.1 | <de@li.org> | 
+ | [libuser](/f13/package/libuser) | 1078 | 1114 | 96.8 | German <fedora-trans-de@redhat.com> | 
+ | [fuse-encfs](/f13/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Switzerland) <de_CH@li.org> | 
+ | [pulseaudio](/f13/package/pulseaudio) | 2041 | 2849 | 71.6 | German <fedora-trans-de@redhat.com> | 
+ | [system-config-samba](/f13/package/system-config-samba) | 379 | 535 | 70.8 | German <fedora-trans-de@redhat.com> | 
+ | [liblicense](/f13/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f13/package/anaconda) | 6451 | 9752 | 66.2 | German <fedora-trans-de@redhat.com> | 
+ | [sos](/f13/package/sos) | 174 | 267 | 65.2 | German <fedora-trans-de@redhat.com> | 
+ | [publican](/f13/package/publican) | 354 | 1094 | 32.4 | <fedora-trans-de@redhat.com> | 
+ | [volume_key](/f13/package/volume_key) | 186 | 726 | 25.6 | German <fedora-trans-de@redhat.com> | 
+ | [gnomebaker](/f13/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [pgadmin3](/f13/package/pgadmin3) | 2152 | 9676 | 22.2 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 4657 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 
@@ -69,7 +69,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [php-gettext]({{< ref "/f13/package/php-gettext.md" >}}) | /mnt/stockage/packages/f13/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
+ | [php-gettext](/f13/package/php-gettext) | /mnt/stockage/packages/f13/php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

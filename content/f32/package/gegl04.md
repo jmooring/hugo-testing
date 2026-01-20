@@ -18,39 +18,39 @@ The package gegl04 (version 0.4.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 6792 | 6792 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/bs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 9921 | 9921 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/da.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 9718 | 9718 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/el.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 9477 | 9477 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 9549 | 9549 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/fr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 9477 | 9477 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/pl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 7291 | 7291 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/sr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 9197 | 9197 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 8483 | 8485 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/pt_BR.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 9612 | 9718 | 98.9 | /mnt/stockage/packages/f32/gegl04/po/hr.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 7265 | 7388 | 98.3 | /mnt/stockage/packages/f32/gegl04/po/pt.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 9322 | 9549 | 97.6 | /mnt/stockage/packages/f32/gegl04/po/sv.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 9582 | 9952 | 96.3 | /mnt/stockage/packages/f32/gegl04/po/eu.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 8295 | 9412 | 88.1 | /mnt/stockage/packages/f32/gegl04/po/tr.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 5922 | 7220 | 82.0 | /mnt/stockage/packages/f32/gegl04/po/oc.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 7823 | 9952 | 78.6 | /mnt/stockage/packages/f32/gegl04/po/de.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 7484 | 9549 | 78.4 | /mnt/stockage/packages/f32/gegl04/po/sl.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 6617 | 8455 | 78.3 | /mnt/stockage/packages/f32/gegl04/po/mr.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 5684 | 8405 | 67.6 | /mnt/stockage/packages/f32/gegl04/po/lv.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3406 | 9952 | 34.2 | /mnt/stockage/packages/f32/gegl04/po/ru.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 1436 | 9137 | 15.7 | /mnt/stockage/packages/f32/gegl04/po/is.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 345 | 5397 | 6.4 | /mnt/stockage/packages/f32/gegl04/po/ko.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 520 | 9477 | 5.5 | /mnt/stockage/packages/f32/gegl04/po/ne.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 283 | 5397 | 5.2 | /mnt/stockage/packages/f32/gegl04/po/gl.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 187 | 7238 | 2.6 | /mnt/stockage/packages/f32/gegl04/po/nb.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 178 | 8096 | 2.2 | /mnt/stockage/packages/f32/gegl04/po/eo.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 115 | 5397 | 2.1 | /mnt/stockage/packages/f32/gegl04/po/id.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 151 | 7169 | 2.1 | /mnt/stockage/packages/f32/gegl04/po/sk.po | 
+ | [bs](/f32/language/bs) | 6792 | 6792 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/bs.po | 
+ | [ca](/f32/language/ca) | 9921 | 9921 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/ca.po | 
+ | [da](/f32/language/da) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/da.po | 
+ | [el](/f32/language/el) | 9718 | 9718 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/el.po | 
+ | [en_GB](/f32/language/en_GB) | 9477 | 9477 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/en_GB.po | 
+ | [es](/f32/language/es) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/es.po | 
+ | [fr](/f32/language/fr) | 9549 | 9549 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/fr.po | 
+ | [it](/f32/language/it) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/it.po | 
+ | [nl](/f32/language/nl) | 9477 | 9477 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/nl.po | 
+ | [pl](/f32/language/pl) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/pl.po | 
+ | [sr](/f32/language/sr) | 7291 | 7291 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/sr.po | 
+ | [uk](/f32/language/uk) | 9952 | 9952 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 9197 | 9197 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/zh_CN.po | 
+ | [pt_BR](/f32/language/pt_BR) | 8483 | 8485 | 100.0 | /mnt/stockage/packages/f32/gegl04/po/pt_BR.po | 
+ | [hr](/f32/language/hr) | 9612 | 9718 | 98.9 | /mnt/stockage/packages/f32/gegl04/po/hr.po | 
+ | [pt](/f32/language/pt) | 7265 | 7388 | 98.3 | /mnt/stockage/packages/f32/gegl04/po/pt.po | 
+ | [sv](/f32/language/sv) | 9322 | 9549 | 97.6 | /mnt/stockage/packages/f32/gegl04/po/sv.po | 
+ | [eu](/f32/language/eu) | 9582 | 9952 | 96.3 | /mnt/stockage/packages/f32/gegl04/po/eu.po | 
+ | [tr](/f32/language/tr) | 8295 | 9412 | 88.1 | /mnt/stockage/packages/f32/gegl04/po/tr.po | 
+ | [oc](/f32/language/oc) | 5922 | 7220 | 82.0 | /mnt/stockage/packages/f32/gegl04/po/oc.po | 
+ | [de](/f32/language/de) | 7823 | 9952 | 78.6 | /mnt/stockage/packages/f32/gegl04/po/de.po | 
+ | [sl](/f32/language/sl) | 7484 | 9549 | 78.4 | /mnt/stockage/packages/f32/gegl04/po/sl.po | 
+ | [mr](/f32/language/mr) | 6617 | 8455 | 78.3 | /mnt/stockage/packages/f32/gegl04/po/mr.po | 
+ | [lv](/f32/language/lv) | 5684 | 8405 | 67.6 | /mnt/stockage/packages/f32/gegl04/po/lv.po | 
+ | [ru](/f32/language/ru) | 3406 | 9952 | 34.2 | /mnt/stockage/packages/f32/gegl04/po/ru.po | 
+ | [is](/f32/language/is) | 1436 | 9137 | 15.7 | /mnt/stockage/packages/f32/gegl04/po/is.po | 
+ | [ko](/f32/language/ko) | 345 | 5397 | 6.4 | /mnt/stockage/packages/f32/gegl04/po/ko.po | 
+ | [ne](/f32/language/ne) | 520 | 9477 | 5.5 | /mnt/stockage/packages/f32/gegl04/po/ne.po | 
+ | [gl](/f32/language/gl) | 283 | 5397 | 5.2 | /mnt/stockage/packages/f32/gegl04/po/gl.po | 
+ | [nb_NO](/f32/language/nb_NO) | 187 | 7238 | 2.6 | /mnt/stockage/packages/f32/gegl04/po/nb.po | 
+ | [eo](/f32/language/eo) | 178 | 8096 | 2.2 | /mnt/stockage/packages/f32/gegl04/po/eo.po | 
+ | [id](/f32/language/id) | 115 | 5397 | 2.1 | /mnt/stockage/packages/f32/gegl04/po/id.po | 
+ | [sk](/f32/language/sk) | 151 | 7169 | 2.1 | /mnt/stockage/packages/f32/gegl04/po/sk.po | 
 {.sortable}
 
 

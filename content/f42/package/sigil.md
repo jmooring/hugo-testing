@@ -18,54 +18,54 @@ The package sigil (version 2.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f42/language/an.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/an.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ar.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/el.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/fr.po | 
- | [fy]({{< ref "/f42/language/fy.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/fy.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/gl.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/hu.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ka.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/nl.po | 
- | [nl_BE]({{< ref "/f42/language/nl_BE.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/nl_BE.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pt_PT.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/sl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/sv.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/tg.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/uk.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/uz.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/zh_Hans.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 549 | 613 | 89.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/nb_NO.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 465 | 613 | 75.9 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ie.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 346 | 613 | 56.4 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/kab.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 224 | 613 | 36.5 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/oc.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 162 | 613 | 26.4 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/is.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 101 | 613 | 16.5 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pa.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 42 | 613 | 6.9 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/zh_Hant.po | 
- | [ckb]({{< ref "/f42/language/ckb.md" >}}) | 40 | 613 | 6.5 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ckb.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 39 | 613 | 6.4 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/lt.po | 
- | [ky]({{< ref "/f42/language/ky.md" >}}) | 26 | 613 | 4.2 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ky.po | 
- | [tt]({{< ref "/f42/language/tt.md" >}}) | 12 | 613 | 2.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/tt.po | 
- | [hy]({{< ref "/f42/language/hy.md" >}}) | 10 | 613 | 1.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/hy.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 8 | 613 | 1.3 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/si.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 8 | 613 | 1.3 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ta.po | 
- | [de_CH]({{< ref "/f42/language/de_CH.md" >}}) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/de_CH.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/es_EU.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/fa.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/mk.po | 
+ | [an](/f42/language/an) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/an.po | 
+ | [ar](/f42/language/ar) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ar.po | 
+ | [ca](/f42/language/ca) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ca.po | 
+ | [cs](/f42/language/cs) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/cs.po | 
+ | [da](/f42/language/da) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/da.po | 
+ | [de](/f42/language/de) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/de.po | 
+ | [el](/f42/language/el) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/el.po | 
+ | [eo](/f42/language/eo) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/eo.po | 
+ | [es](/f42/language/es) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/es.po | 
+ | [fr](/f42/language/fr) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/fr.po | 
+ | [fy](/f42/language/fy) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/fy.po | 
+ | [gl](/f42/language/gl) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/gl.po | 
+ | [hr](/f42/language/hr) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/hr.po | 
+ | [hu](/f42/language/hu) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/hu.po | 
+ | [it](/f42/language/it) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/it.po | 
+ | [ka](/f42/language/ka) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ka.po | 
+ | [nl](/f42/language/nl) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/nl.po | 
+ | [nl_BE](/f42/language/nl_BE) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/nl_BE.po | 
+ | [pl](/f42/language/pl) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pl.po | 
+ | [pt](/f42/language/pt) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pt_BR.po | 
+ | [pt_PT](/f42/language/pt_PT) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pt_PT.po | 
+ | [ru](/f42/language/ru) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ru.po | 
+ | [sl](/f42/language/sl) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/sl.po | 
+ | [sv](/f42/language/sv) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/sv.po | 
+ | [tg](/f42/language/tg) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/tg.po | 
+ | [tr](/f42/language/tr) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/tr.po | 
+ | [uk](/f42/language/uk) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/uk.po | 
+ | [uz](/f42/language/uz) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/uz.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 592 | 613 | 96.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/zh_Hans.po | 
+ | [nb_NO](/f42/language/nb_NO) | 549 | 613 | 89.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/nb_NO.po | 
+ | [ie](/f42/language/ie) | 465 | 613 | 75.9 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ie.po | 
+ | [kab](/f42/language/kab) | 346 | 613 | 56.4 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/kab.po | 
+ | [oc](/f42/language/oc) | 224 | 613 | 36.5 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/oc.po | 
+ | [is](/f42/language/is) | 162 | 613 | 26.4 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/is.po | 
+ | [pa](/f42/language/pa) | 101 | 613 | 16.5 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/pa.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 42 | 613 | 6.9 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/zh_Hant.po | 
+ | [ckb](/f42/language/ckb) | 40 | 613 | 6.5 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ckb.po | 
+ | [lt](/f42/language/lt) | 39 | 613 | 6.4 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/lt.po | 
+ | [ky](/f42/language/ky) | 26 | 613 | 4.2 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ky.po | 
+ | [tt](/f42/language/tt) | 12 | 613 | 2.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/tt.po | 
+ | [hy](/f42/language/hy) | 10 | 613 | 1.6 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/hy.po | 
+ | [si](/f42/language/si) | 8 | 613 | 1.3 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/si.po | 
+ | [ta](/f42/language/ta) | 8 | 613 | 1.3 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/ta.po | 
+ | [de_CH](/f42/language/de_CH) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/de_CH.po | 
+ | [eu](/f42/language/eu) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/es_EU.po | 
+ | [fa](/f42/language/fa) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/fa.po | 
+ | [mk](/f42/language/mk) | 0 | 613 | 0.0 | /mnt/stockage/packages/f42/sigil/3rdparty/hunspell/po/mk.po | 
 {.sortable}
 
 

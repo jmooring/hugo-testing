@@ -18,14 +18,14 @@ The package wdm (version 1.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/cs.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/cy.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/es.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/ja.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/ru.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 35 | 38 | 92.1 | /mnt/stockage/packages/f8/wdm/po/fr_FR.po | 
- | [en]({{< ref "/f8/language/en.md" >}}) | 3 | 38 | 7.9 | /mnt/stockage/packages/f8/wdm/po/en.po | 
+ | [cs](/f8/language/cs) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/cs.po | 
+ | [cy](/f8/language/cy) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/cy.po | 
+ | [de](/f8/language/de) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/de.po | 
+ | [es](/f8/language/es) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/es.po | 
+ | [ja](/f8/language/ja) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/ja.po | 
+ | [ru](/f8/language/ru) | 38 | 38 | 100.0 | /mnt/stockage/packages/f8/wdm/po/ru.po | 
+ | [fr](/f8/language/fr) | 35 | 38 | 92.1 | /mnt/stockage/packages/f8/wdm/po/fr_FR.po | 
+ | [en](/f8/language/en) | 3 | 38 | 7.9 | /mnt/stockage/packages/f8/wdm/po/en.po | 
 {.sortable}
 
 

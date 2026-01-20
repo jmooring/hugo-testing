@@ -39,19 +39,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 761 | 761 | 100.0 | Faroese <morshus@morshus.com> | 
- | [squirrelmail]({{< ref "/f12/package/squirrelmail.md" >}}) | 8037 | 8039 | 100.0 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 2296 | 2424 | 94.7 | LANGUAGE <LL@li.org> | 
- | [rednotebook]({{< ref "/f12/package/rednotebook.md" >}}) | 909 | 1044 | 87.1 | Faroese <fo@li.org> | 
- | [isomaster]({{< ref "/f12/package/isomaster.md" >}}) | 495 | 674 | 73.4 | <LL@li.org> | 
- | [gnome-applet-alarm-clock]({{< ref "/f12/package/gnome-applet-alarm-clock.md" >}}) | 195 | 390 | 50.0 | Faroese <fo@li.org> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 149 | 1092 | 13.6 | Faroese | 
- | [transmission]({{< ref "/f12/package/transmission.md" >}}) | 125 | 1642 | 7.6 | Faroese <fo@li.org> | 
- | [jmol]({{< ref "/f12/package/jmol.md" >}}) | 70 | 1031 | 6.8 | Faroese <fo@li.org> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 40 | 3336 | 1.2 | Faroese <fo@li.org> | 
- | [shutter]({{< ref "/f12/package/shutter.md" >}}) | 19 | 2243 | 0.8 | Faroese <fo@li.org> | 
- | [ailurus]({{< ref "/f12/package/ailurus.md" >}}) | 54 | 8278 | 0.7 | none | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 761 | 761 | 100.0 | Faroese <morshus@morshus.com> | 
+ | [squirrelmail](/f12/package/squirrelmail) | 8037 | 8039 | 100.0 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [pootle](/f12/package/pootle) | 2296 | 2424 | 94.7 | LANGUAGE <LL@li.org> | 
+ | [rednotebook](/f12/package/rednotebook) | 909 | 1044 | 87.1 | Faroese <fo@li.org> | 
+ | [isomaster](/f12/package/isomaster) | 495 | 674 | 73.4 | <LL@li.org> | 
+ | [gnome-applet-alarm-clock](/f12/package/gnome-applet-alarm-clock) | 195 | 390 | 50.0 | Faroese <fo@li.org> | 
+ | [iso-codes](/f12/package/iso-codes) | 149 | 1092 | 13.6 | Faroese | 
+ | [transmission](/f12/package/transmission) | 125 | 1642 | 7.6 | Faroese <fo@li.org> | 
+ | [jmol](/f12/package/jmol) | 70 | 1031 | 6.8 | Faroese <fo@li.org> | 
+ | [Miro](/f12/package/Miro) | 40 | 3336 | 1.2 | Faroese <fo@li.org> | 
+ | [shutter](/f12/package/shutter) | 19 | 2243 | 0.8 | Faroese <fo@li.org> | 
+ | [ailurus](/f12/package/ailurus) | 54 | 8278 | 0.7 | none | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

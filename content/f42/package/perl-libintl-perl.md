@@ -18,18 +18,18 @@ The package perl-libintl-perl (version 1.35):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/cs.po | 
- | [de_AT]({{< ref "/f42/language/de_AT.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.de_AT.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.de_AT.po | 
- | [error]({{< ref "/f42/language/error.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.xy_XY.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.xy.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.xy_XY.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.xy.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/fr.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ga.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/it.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/nl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ru.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 31 | 38 | 81.6 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ar_SA.po/mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ar.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 59 | 76 | 77.6 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/de.po/mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.de.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.de.po | 
+ | [cs](/f42/language/cs) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/cs.po | 
+ | [de_AT](/f42/language/de_AT) | 3 | 3 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.de_AT.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.de_AT.po | 
+ | [error](/f42/language/error) | 41 | 41 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.xy_XY.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.xy.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.xy_XY.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.xy.po | 
+ | [fr](/f42/language/fr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/fr.po | 
+ | [ga](/f42/language/ga) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ga.po | 
+ | [it](/f42/language/it) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/it.po | 
+ | [nl](/f42/language/nl) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/nl.po | 
+ | [pt](/f42/language/pt) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ru.po | 
+ | [ar](/f42/language/ar) | 31 | 38 | 81.6 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ar_SA.po/mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/ar.po | 
+ | [de](/f42/language/de) | 59 | 76 | 77.6 | /mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/de.po/mnt/stockage/packages/f42/perl-libintl-perl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/additional.de.po/mnt/stockage/packages/f42/perl-libintl-perl/tests/po/existing.de.po | 
 {.sortable}
 
 

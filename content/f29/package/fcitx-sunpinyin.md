@@ -18,15 +18,15 @@ The package fcitx-sunpinyin (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ca.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/de.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ko.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ru.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/tr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/zh_TW.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 87 | 104 | 83.7 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ja.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 0 | 104 | 0.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/da.po | 
+ | [ca](/f29/language/ca) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ca.po | 
+ | [de](/f29/language/de) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/de.po | 
+ | [ko](/f29/language/ko) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ko.po | 
+ | [ru](/f29/language/ru) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ru.po | 
+ | [tr](/f29/language/tr) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/tr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 104 | 104 | 100.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/zh_TW.po | 
+ | [ja](/f29/language/ja) | 87 | 104 | 83.7 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/ja.po | 
+ | [da](/f29/language/da) | 0 | 104 | 0.0 | /mnt/stockage/packages/f29/fcitx-sunpinyin/po/da.po | 
 {.sortable}
 
 

@@ -41,38 +41,38 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f20/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [pessulus]({{< ref "/f20/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
- | [setuptool]({{< ref "/f20/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-switch-mail]({{< ref "/f20/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f20/package/chkconfig.md" >}}) | 423 | 513 | 82.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [authconfig]({{< ref "/f20/package/authconfig.md" >}}) | 925 | 1638 | 56.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [anaconda]({{< ref "/f20/package/anaconda.md" >}}) | 1 | 5160 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [transifex]({{< ref "/f20/package/transifex.md" >}}) | 1 | 6018 | 0.0 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f20/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [certmonger]({{< ref "/f20/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
- | [entangle]({{< ref "/f20/package/entangle.md" >}}) | 0 | 916 | 0.0 | Balochi (http://www.transifex.com/projects/p/entangle/language/bal/) | 
- | [initial-setup]({{< ref "/f20/package/initial-setup.md" >}}) | 0 | 29 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [initscripts]({{< ref "/f20/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [libreport]({{< ref "/f20/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [libvirt-sandbox]({{< ref "/f20/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [liveusb-creator]({{< ref "/f20/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [pam]({{< ref "/f20/package/pam.md" >}}) | 0 | 606 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [policycoreutils]({{< ref "/f20/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f20/package/pykickstart.md" >}}) | 0 | 383 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [python-meh]({{< ref "/f20/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [rhnsd]({{< ref "/f20/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [spacewalk-backend]({{< ref "/f20/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date]({{< ref "/f20/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date-docs]({{< ref "/f20/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f20/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-network]({{< ref "/f20/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-nfs-docs]({{< ref "/f20/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f20/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f20/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [system-config-services-docs]({{< ref "/f20/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f20/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f20/package/virt-viewer.md" >}}) | 0 | 615 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [newt](/f20/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [pessulus](/f20/package/pessulus) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
+ | [setuptool](/f20/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-switch-mail](/f20/package/system-switch-mail) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f20/package/chkconfig) | 423 | 513 | 82.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [authconfig](/f20/package/authconfig) | 925 | 1638 | 56.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [anaconda](/f20/package/anaconda) | 1 | 5160 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [transifex](/f20/package/transifex) | 1 | 6018 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f20/package/abrt) | 0 | 2722 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [certmonger](/f20/package/certmonger) | 0 | 1669 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
+ | [entangle](/f20/package/entangle) | 0 | 916 | 0.0 | Balochi (http://www.transifex.com/projects/p/entangle/language/bal/) | 
+ | [initial-setup](/f20/package/initial-setup) | 0 | 29 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [initscripts](/f20/package/initscripts) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [libreport](/f20/package/libreport) | 0 | 3139 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [libvirt-sandbox](/f20/package/libvirt-sandbox) | 0 | 583 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [liveusb-creator](/f20/package/liveusb-creator) | 0 | 480 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [pam](/f20/package/pam) | 0 | 606 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [policycoreutils](/f20/package/policycoreutils) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [pykickstart](/f20/package/pykickstart) | 0 | 383 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [python-meh](/f20/package/python-meh) | 0 | 109 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [rhnsd](/f20/package/rhnsd) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [spacewalk-backend](/f20/package/spacewalk-backend) | 0 | 1895 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date](/f20/package/system-config-date) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date-docs](/f20/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f20/package/system-config-kickstart) | 0 | 1144 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-network](/f20/package/system-config-network) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-nfs-docs](/f20/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f20/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f20/package/system-config-services) | 0 | 534 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [system-config-services-docs](/f20/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f20/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f20/package/virt-viewer) | 0 | 615 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
 {.sortable}
 
 

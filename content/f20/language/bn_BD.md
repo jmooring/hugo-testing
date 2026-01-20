@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f20/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [uget]({{< ref "/f20/package/uget.md" >}}) | 675 | 682 | 99.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/uget/language/bn_BD/) | 
- | [modem-manager-gui]({{< ref "/f20/package/modem-manager-gui.md" >}}) | 350 | 1047 | 33.4 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/modem-manager-gui/language/bn_BD/) | 
- | [system-config-language]({{< ref "/f20/package/system-config-language.md" >}}) | 22 | 198 | 11.1 | Arabic <support@arabeyes.org> | 
- | [fonts-tweak-tool]({{< ref "/f20/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Bengali (Bangladesh) | 
- | [im-chooser]({{< ref "/f20/package/im-chooser.md" >}}) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f20/package/imsettings.md" >}}) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libvirt-sandbox]({{< ref "/f20/package/libvirt-sandbox.md" >}}) | 0 | 583 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
- | [policycoreutils]({{< ref "/f20/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
- | [rhn-client-tools]({{< ref "/f20/package/rhn-client-tools.md" >}}) | 0 | 4194 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f20/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [spacewalk-backend]({{< ref "/f20/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f20/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f20/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/) | 
- | [yum-rhn-plugin]({{< ref "/f20/package/yum-rhn-plugin.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [squirrelmail](/f20/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [uget](/f20/package/uget) | 675 | 682 | 99.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/uget/language/bn_BD/) | 
+ | [modem-manager-gui](/f20/package/modem-manager-gui) | 350 | 1047 | 33.4 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/modem-manager-gui/language/bn_BD/) | 
+ | [system-config-language](/f20/package/system-config-language) | 22 | 198 | 11.1 | Arabic <support@arabeyes.org> | 
+ | [fonts-tweak-tool](/f20/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Bengali (Bangladesh) | 
+ | [im-chooser](/f20/package/im-chooser) | 0 | 237 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f20/package/imsettings) | 0 | 440 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libvirt-sandbox](/f20/package/libvirt-sandbox) | 0 | 583 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [policycoreutils](/f20/package/policycoreutils) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [rhn-client-tools](/f20/package/rhn-client-tools) | 0 | 4194 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f20/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [spacewalk-backend](/f20/package/spacewalk-backend) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f20/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f20/package/system-config-services) | 0 | 534 | 0.0 | Bengali (Bangladesh) (http://www.transifex.net/projects/p/fedora/team/bn_BD/) | 
+ | [yum-rhn-plugin](/f20/package/yum-rhn-plugin) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

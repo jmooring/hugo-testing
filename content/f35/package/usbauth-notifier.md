@@ -18,8 +18,8 @@ The package usbauth-notifier (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f35/usbauth-notifier/po/de.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f35/usbauth-notifier/po/zh_TW.po | 
+ | [de](/f35/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f35/usbauth-notifier/po/de.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f35/usbauth-notifier/po/zh_TW.po | 
 {.sortable}
 
 

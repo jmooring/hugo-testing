@@ -18,78 +18,78 @@ The package python-caja (version 1.24.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/da.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/en_GB.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/gl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/it.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/nl.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/zh_TW.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 13 | 14 | 92.9 | /mnt/stockage/packages/f32/python-caja/po/es_ES.po/mnt/stockage/packages/f32/python-caja/po/es.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/am.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ar.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ast.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/bg.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/br.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/bs.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ca@valencia.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/cs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/cy.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/el.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/en_AU.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/eo.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/es_AR.po | 
- | [es_CL]({{< ref "/f32/language/es_CL.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/es_CL.po | 
- | [es_CO]({{< ref "/f32/language/es_CO.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/es_CO.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/et.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/eu.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fa.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fr.po | 
- | [fy]({{< ref "/f32/language/fy.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fy.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/gu.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/he.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/id.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ie.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/is.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ja.po | 
- | [jv]({{< ref "/f32/language/jv.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/jv.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ko.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/nds.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pl.po | 
- | [pms]({{< ref "/f32/language/pms.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pms.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/uk.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/uz.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/zh_HK.po | 
- | [fr_CA]({{< ref "/f32/language/fr_CA.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/fr_CA.po | 
- | [frp]({{< ref "/f32/language/frp.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/frp.po | 
- | [kmr]({{< ref "/f32/language/kmr.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/ku_IQ.po | 
- | [la]({{< ref "/f32/language/la.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/la.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/ne.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/oc.po | 
+ | [ca](/f32/language/ca) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/ca.po | 
+ | [da](/f32/language/da) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/da.po | 
+ | [en_GB](/f32/language/en_GB) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/en_GB.po | 
+ | [gl](/f32/language/gl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/gl.po | 
+ | [it](/f32/language/it) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/it.po | 
+ | [lt](/f32/language/lt) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/lt.po | 
+ | [ms](/f32/language/ms) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/nb.po | 
+ | [nl](/f32/language/nl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/nl.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 7 | 7 | 100.0 | /mnt/stockage/packages/f32/python-caja/po/zh_TW.po | 
+ | [es](/f32/language/es) | 13 | 14 | 92.9 | /mnt/stockage/packages/f32/python-caja/po/es_ES.po/mnt/stockage/packages/f32/python-caja/po/es.po | 
+ | [am](/f32/language/am) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/am.po | 
+ | [ar](/f32/language/ar) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ar.po | 
+ | [ast](/f32/language/ast) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ast.po | 
+ | [be](/f32/language/be) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/be.po | 
+ | [bg](/f32/language/bg) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/bg.po | 
+ | [br](/f32/language/br) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/br.po | 
+ | [bs](/f32/language/bs) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/bs.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ca@valencia.po | 
+ | [cs](/f32/language/cs) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/cs.po | 
+ | [cy](/f32/language/cy) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/cy.po | 
+ | [de](/f32/language/de) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/de.po | 
+ | [el](/f32/language/el) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/el.po | 
+ | [en_AU](/f32/language/en_AU) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/en_AU.po | 
+ | [eo](/f32/language/eo) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/eo.po | 
+ | [es_AR](/f32/language/es_AR) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/es_AR.po | 
+ | [es_CL](/f32/language/es_CL) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/es_CL.po | 
+ | [es_CO](/f32/language/es_CO) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/es_CO.po | 
+ | [et](/f32/language/et) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/et.po | 
+ | [eu](/f32/language/eu) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/eu.po | 
+ | [fa](/f32/language/fa) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fa.po | 
+ | [fi](/f32/language/fi) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fi.po | 
+ | [fr](/f32/language/fr) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fr.po | 
+ | [fy](/f32/language/fy) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/fy.po | 
+ | [gu](/f32/language/gu) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/gu.po | 
+ | [he](/f32/language/he) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/he.po | 
+ | [hi](/f32/language/hi) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hi.po | 
+ | [hr](/f32/language/hr) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hr.po | 
+ | [hu](/f32/language/hu) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hu.po | 
+ | [hy](/f32/language/hy) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/hy.po | 
+ | [id](/f32/language/id) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/id.po | 
+ | [ie](/f32/language/ie) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ie.po | 
+ | [is](/f32/language/is) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/is.po | 
+ | [ja](/f32/language/ja) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ja.po | 
+ | [jv](/f32/language/jv) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/jv.po | 
+ | [kk](/f32/language/kk) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/kk.po | 
+ | [ko](/f32/language/ko) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ko.po | 
+ | [nds](/f32/language/nds) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/nds.po | 
+ | [pl](/f32/language/pl) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pl.po | 
+ | [pms](/f32/language/pms) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pms.po | 
+ | [pt](/f32/language/pt) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ro.po | 
+ | [ru](/f32/language/ru) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/ru.po | 
+ | [sk](/f32/language/sk) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sk.po | 
+ | [sl](/f32/language/sl) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sl.po | 
+ | [sq](/f32/language/sq) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sq.po | 
+ | [sr](/f32/language/sr) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sr.po | 
+ | [sv](/f32/language/sv) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/sv.po | 
+ | [th](/f32/language/th) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/th.po | 
+ | [tr](/f32/language/tr) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/tr.po | 
+ | [uk](/f32/language/uk) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/uk.po | 
+ | [uz](/f32/language/uz) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/uz.po | 
+ | [vi](/f32/language/vi) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/zh_CN.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 6 | 7 | 85.7 | /mnt/stockage/packages/f32/python-caja/po/zh_HK.po | 
+ | [fr_CA](/f32/language/fr_CA) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/fr_CA.po | 
+ | [frp](/f32/language/frp) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/frp.po | 
+ | [kmr](/f32/language/kmr) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/ku_IQ.po | 
+ | [la](/f32/language/la) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/la.po | 
+ | [ne](/f32/language/ne) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/ne.po | 
+ | [oc](/f32/language/oc) | 1 | 7 | 14.3 | /mnt/stockage/packages/f32/python-caja/po/oc.po | 
 {.sortable}
 
 

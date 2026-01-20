@@ -18,85 +18,85 @@ The package network-manager-applet (version 1.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f22/language/as.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/as.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 2491 | 2491 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ast.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/bg.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 2707 | 2707 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/bn_IN.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 3137 | 3137 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ca.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ca@valencia.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/da.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 731 | 731 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/dz.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 3283 | 3283 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/el.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 918 | 918 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/en_CA.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 2917 | 2917 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/eu.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 2609 | 2609 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/fa.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/fr.po | 
- | [gd]({{< ref "/f22/language/gd.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/gd.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/gl.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/hi.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/hr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/it.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 3302 | 3302 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/km.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 2707 | 2707 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/lv.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 2502 | 2502 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/mk.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 2910 | 2910 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ml.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/mr.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 2512 | 2512 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ms.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 731 | 731 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ne.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/nl.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 2561 | 2561 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/nn.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 2707 | 2707 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/or.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/pt.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 2477 | 2477 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ro.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 6602 | 6602 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/sr.po/mnt/stockage/packages/f22/network-manager-applet/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 2521 | 2521 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 2609 | 2609 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/th.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 2548 | 2548 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/uk.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 2082 | 2082 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ur.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 6608 | 6608 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/zh_TW.po/mnt/stockage/packages/f22/network-manager-applet/po/zh_HK.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 3716 | 3720 | 99.9 | /mnt/stockage/packages/f22/network-manager-applet/po/pt_BR.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 3279 | 3283 | 99.9 | /mnt/stockage/packages/f22/network-manager-applet/po/sk.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 3279 | 3283 | 99.9 | /mnt/stockage/packages/f22/network-manager-applet/po/tr.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 2882 | 2887 | 99.8 | /mnt/stockage/packages/f22/network-manager-applet/po/be.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 2844 | 2887 | 98.5 | /mnt/stockage/packages/f22/network-manager-applet/po/ug.po | 
- | [be_Latn]({{< ref "/f22/language/be_Latn.md" >}}) | 1446 | 1471 | 98.3 | /mnt/stockage/packages/f22/network-manager-applet/po/be@latin.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 2980 | 3038 | 98.1 | /mnt/stockage/packages/f22/network-manager-applet/po/sl.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 3239 | 3304 | 98.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ja.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 3183 | 3283 | 97.0 | /mnt/stockage/packages/f22/network-manager-applet/po/nb.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 3177 | 3301 | 96.2 | /mnt/stockage/packages/f22/network-manager-applet/po/ru.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 3537 | 3708 | 95.4 | /mnt/stockage/packages/f22/network-manager-applet/po/de.po | 
- | [crh]({{< ref "/f22/language/crh.md" >}}) | 2703 | 2910 | 92.9 | /mnt/stockage/packages/f22/network-manager-applet/po/crh.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 3017 | 3302 | 91.4 | /mnt/stockage/packages/f22/network-manager-applet/po/he.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 2830 | 3308 | 85.6 | /mnt/stockage/packages/f22/network-manager-applet/po/oc.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 3125 | 3709 | 84.3 | /mnt/stockage/packages/f22/network-manager-applet/po/fi.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 2764 | 3304 | 83.7 | /mnt/stockage/packages/f22/network-manager-applet/po/gu.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 2954 | 3709 | 79.6 | /mnt/stockage/packages/f22/network-manager-applet/po/is.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 1953 | 2500 | 78.1 | /mnt/stockage/packages/f22/network-manager-applet/po/ar.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 2362 | 3302 | 71.5 | /mnt/stockage/packages/f22/network-manager-applet/po/eo.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 2103 | 3038 | 69.2 | /mnt/stockage/packages/f22/network-manager-applet/po/kk.po | 
- | [an]({{< ref "/f22/language/an.md" >}}) | 1456 | 2609 | 55.8 | /mnt/stockage/packages/f22/network-manager-applet/po/an.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 1111 | 2476 | 44.9 | /mnt/stockage/packages/f22/network-manager-applet/po/af.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 1127 | 3177 | 35.5 | /mnt/stockage/packages/f22/network-manager-applet/po/tg.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 32 | 112 | 28.6 | /mnt/stockage/packages/f22/network-manager-applet/po/sq.po | 
- | [wa]({{< ref "/f22/language/wa.md" >}}) | 32 | 112 | 28.6 | /mnt/stockage/packages/f22/network-manager-applet/po/wa.po | 
- | [ku]({{< ref "/f22/language/ku.md" >}}) | 456 | 2512 | 18.2 | /mnt/stockage/packages/f22/network-manager-applet/po/ku.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 3 | 374 | 0.8 | /mnt/stockage/packages/f22/network-manager-applet/po/rw.po | 
+ | [as](/f22/language/as) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/as.po | 
+ | [ast](/f22/language/ast) | 2491 | 2491 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ast.po | 
+ | [bg](/f22/language/bg) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/bg.po | 
+ | [bn_IN](/f22/language/bn_IN) | 2707 | 2707 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/bn_IN.po | 
+ | [bs](/f22/language/bs) | 3137 | 3137 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/bs.po | 
+ | [ca](/f22/language/ca) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ca.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ca@valencia.po | 
+ | [cs](/f22/language/cs) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/cs.po | 
+ | [da](/f22/language/da) | 3298 | 3298 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/da.po | 
+ | [dz](/f22/language/dz) | 731 | 731 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/dz.po | 
+ | [el](/f22/language/el) | 3283 | 3283 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/el.po | 
+ | [en_CA](/f22/language/en_CA) | 918 | 918 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/en_CA.po | 
+ | [en_GB](/f22/language/en_GB) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/en_GB.po | 
+ | [es](/f22/language/es) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/es.po | 
+ | [et](/f22/language/et) | 2917 | 2917 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/et.po | 
+ | [eu](/f22/language/eu) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/eu.po | 
+ | [fa](/f22/language/fa) | 2609 | 2609 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/fa.po | 
+ | [fr](/f22/language/fr) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/fr.po | 
+ | [gd](/f22/language/gd) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/gd.po | 
+ | [gl](/f22/language/gl) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/gl.po | 
+ | [hi](/f22/language/hi) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/hi.po | 
+ | [hr](/f22/language/hr) | 193 | 193 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/hr.po | 
+ | [hu](/f22/language/hu) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/hu.po | 
+ | [id](/f22/language/id) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/id.po | 
+ | [it](/f22/language/it) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/it.po | 
+ | [km](/f22/language/km) | 3302 | 3302 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/km.po | 
+ | [kn](/f22/language/kn) | 2707 | 2707 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/kn.po | 
+ | [ko](/f22/language/ko) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ko.po | 
+ | [lt](/f22/language/lt) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/lt.po | 
+ | [lv](/f22/language/lv) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/lv.po | 
+ | [mk](/f22/language/mk) | 2502 | 2502 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/mk.po | 
+ | [ml](/f22/language/ml) | 2910 | 2910 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ml.po | 
+ | [mr](/f22/language/mr) | 2476 | 2476 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/mr.po | 
+ | [ms](/f22/language/ms) | 2512 | 2512 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ms.po | 
+ | [ne](/f22/language/ne) | 731 | 731 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ne.po | 
+ | [nl](/f22/language/nl) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/nl.po | 
+ | [nn](/f22/language/nn) | 2561 | 2561 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/nn.po | 
+ | [or](/f22/language/or) | 2707 | 2707 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/or.po | 
+ | [pa](/f22/language/pa) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/pa.po | 
+ | [pl](/f22/language/pl) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/pl.po | 
+ | [pt](/f22/language/pt) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/pt.po | 
+ | [ro](/f22/language/ro) | 2477 | 2477 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ro.po | 
+ | [sr](/f22/language/sr) | 6602 | 6602 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/sr.po/mnt/stockage/packages/f22/network-manager-applet/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 3709 | 3709 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/sv.po | 
+ | [ta](/f22/language/ta) | 2521 | 2521 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ta.po | 
+ | [te](/f22/language/te) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/te.po | 
+ | [th](/f22/language/th) | 2609 | 2609 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/th.po | 
+ | [uk](/f22/language/uk) | 2548 | 2548 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/uk.po | 
+ | [ur](/f22/language/ur) | 2082 | 2082 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ur.po | 
+ | [vi](/f22/language/vi) | 3301 | 3301 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 3304 | 3304 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 6608 | 6608 | 100.0 | /mnt/stockage/packages/f22/network-manager-applet/po/zh_TW.po/mnt/stockage/packages/f22/network-manager-applet/po/zh_HK.po | 
+ | [pt_BR](/f22/language/pt_BR) | 3716 | 3720 | 99.9 | /mnt/stockage/packages/f22/network-manager-applet/po/pt_BR.po | 
+ | [sk](/f22/language/sk) | 3279 | 3283 | 99.9 | /mnt/stockage/packages/f22/network-manager-applet/po/sk.po | 
+ | [tr](/f22/language/tr) | 3279 | 3283 | 99.9 | /mnt/stockage/packages/f22/network-manager-applet/po/tr.po | 
+ | [be](/f22/language/be) | 2882 | 2887 | 99.8 | /mnt/stockage/packages/f22/network-manager-applet/po/be.po | 
+ | [ug](/f22/language/ug) | 2844 | 2887 | 98.5 | /mnt/stockage/packages/f22/network-manager-applet/po/ug.po | 
+ | [be_Latn](/f22/language/be_Latn) | 1446 | 1471 | 98.3 | /mnt/stockage/packages/f22/network-manager-applet/po/be@latin.po | 
+ | [sl](/f22/language/sl) | 2980 | 3038 | 98.1 | /mnt/stockage/packages/f22/network-manager-applet/po/sl.po | 
+ | [ja](/f22/language/ja) | 3239 | 3304 | 98.0 | /mnt/stockage/packages/f22/network-manager-applet/po/ja.po | 
+ | [nb_NO](/f22/language/nb_NO) | 3183 | 3283 | 97.0 | /mnt/stockage/packages/f22/network-manager-applet/po/nb.po | 
+ | [ru](/f22/language/ru) | 3177 | 3301 | 96.2 | /mnt/stockage/packages/f22/network-manager-applet/po/ru.po | 
+ | [de](/f22/language/de) | 3537 | 3708 | 95.4 | /mnt/stockage/packages/f22/network-manager-applet/po/de.po | 
+ | [crh](/f22/language/crh) | 2703 | 2910 | 92.9 | /mnt/stockage/packages/f22/network-manager-applet/po/crh.po | 
+ | [he](/f22/language/he) | 3017 | 3302 | 91.4 | /mnt/stockage/packages/f22/network-manager-applet/po/he.po | 
+ | [oc](/f22/language/oc) | 2830 | 3308 | 85.6 | /mnt/stockage/packages/f22/network-manager-applet/po/oc.po | 
+ | [fi](/f22/language/fi) | 3125 | 3709 | 84.3 | /mnt/stockage/packages/f22/network-manager-applet/po/fi.po | 
+ | [gu](/f22/language/gu) | 2764 | 3304 | 83.7 | /mnt/stockage/packages/f22/network-manager-applet/po/gu.po | 
+ | [is](/f22/language/is) | 2954 | 3709 | 79.6 | /mnt/stockage/packages/f22/network-manager-applet/po/is.po | 
+ | [ar](/f22/language/ar) | 1953 | 2500 | 78.1 | /mnt/stockage/packages/f22/network-manager-applet/po/ar.po | 
+ | [eo](/f22/language/eo) | 2362 | 3302 | 71.5 | /mnt/stockage/packages/f22/network-manager-applet/po/eo.po | 
+ | [kk](/f22/language/kk) | 2103 | 3038 | 69.2 | /mnt/stockage/packages/f22/network-manager-applet/po/kk.po | 
+ | [an](/f22/language/an) | 1456 | 2609 | 55.8 | /mnt/stockage/packages/f22/network-manager-applet/po/an.po | 
+ | [af](/f22/language/af) | 1111 | 2476 | 44.9 | /mnt/stockage/packages/f22/network-manager-applet/po/af.po | 
+ | [tg](/f22/language/tg) | 1127 | 3177 | 35.5 | /mnt/stockage/packages/f22/network-manager-applet/po/tg.po | 
+ | [sq](/f22/language/sq) | 32 | 112 | 28.6 | /mnt/stockage/packages/f22/network-manager-applet/po/sq.po | 
+ | [wa](/f22/language/wa) | 32 | 112 | 28.6 | /mnt/stockage/packages/f22/network-manager-applet/po/wa.po | 
+ | [ku](/f22/language/ku) | 456 | 2512 | 18.2 | /mnt/stockage/packages/f22/network-manager-applet/po/ku.po | 
+ | [rw](/f22/language/rw) | 3 | 374 | 0.8 | /mnt/stockage/packages/f22/network-manager-applet/po/rw.po | 
 {.sortable}
 
 

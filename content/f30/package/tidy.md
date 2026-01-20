@@ -18,12 +18,12 @@ The package tidy (version 5.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 6847 | 7339 | 93.3 | /mnt/stockage/packages/f30/tidy/localize/translations/language_pt_br.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 6740 | 7339 | 91.8 | /mnt/stockage/packages/f30/tidy/localize/translations/language_fr.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 569 | 7339 | 7.8 | /mnt/stockage/packages/f30/tidy/localize/translations/language_en_gb.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 284 | 7339 | 3.9 | /mnt/stockage/packages/f30/tidy/localize/translations/language_es.po | 
- | [es_MX]({{< ref "/f30/language/es_MX.md" >}}) | 28 | 7339 | 0.4 | /mnt/stockage/packages/f30/tidy/localize/translations/language_es_mx.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 22 | 7339 | 0.3 | /mnt/stockage/packages/f30/tidy/localize/translations/language_zh_cn.po | 
+ | [pt_BR](/f30/language/pt_BR) | 6847 | 7339 | 93.3 | /mnt/stockage/packages/f30/tidy/localize/translations/language_pt_br.po | 
+ | [fr](/f30/language/fr) | 6740 | 7339 | 91.8 | /mnt/stockage/packages/f30/tidy/localize/translations/language_fr.po | 
+ | [en_GB](/f30/language/en_GB) | 569 | 7339 | 7.8 | /mnt/stockage/packages/f30/tidy/localize/translations/language_en_gb.po | 
+ | [es](/f30/language/es) | 284 | 7339 | 3.9 | /mnt/stockage/packages/f30/tidy/localize/translations/language_es.po | 
+ | [es_MX](/f30/language/es_MX) | 28 | 7339 | 0.4 | /mnt/stockage/packages/f30/tidy/localize/translations/language_es_mx.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 22 | 7339 | 0.3 | /mnt/stockage/packages/f30/tidy/localize/translations/language_zh_cn.po | 
 {.sortable}
 
 

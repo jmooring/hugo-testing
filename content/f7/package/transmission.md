@@ -18,15 +18,15 @@ The package transmission (version 0.72):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f7/transmission/gtk/po/pl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f7/transmission/gtk/po/sv.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 551 | 553 | 99.6 | /mnt/stockage/packages/f7/transmission/gtk/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 550 | 553 | 99.5 | /mnt/stockage/packages/f7/transmission/gtk/po/ru.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 546 | 553 | 98.7 | /mnt/stockage/packages/f7/transmission/gtk/po/fi.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 538 | 553 | 97.3 | /mnt/stockage/packages/f7/transmission/gtk/po/it.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 527 | 553 | 95.3 | /mnt/stockage/packages/f7/transmission/gtk/po/es.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 527 | 553 | 95.3 | /mnt/stockage/packages/f7/transmission/gtk/po/ro.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 526 | 553 | 95.1 | /mnt/stockage/packages/f7/transmission/gtk/po/bg.po | 
+ | [pl](/f7/language/pl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f7/transmission/gtk/po/pl.po | 
+ | [sv](/f7/language/sv) | 553 | 553 | 100.0 | /mnt/stockage/packages/f7/transmission/gtk/po/sv.po | 
+ | [fr](/f7/language/fr) | 551 | 553 | 99.6 | /mnt/stockage/packages/f7/transmission/gtk/po/fr.po | 
+ | [ru](/f7/language/ru) | 550 | 553 | 99.5 | /mnt/stockage/packages/f7/transmission/gtk/po/ru.po | 
+ | [fi](/f7/language/fi) | 546 | 553 | 98.7 | /mnt/stockage/packages/f7/transmission/gtk/po/fi.po | 
+ | [it](/f7/language/it) | 538 | 553 | 97.3 | /mnt/stockage/packages/f7/transmission/gtk/po/it.po | 
+ | [es](/f7/language/es) | 527 | 553 | 95.3 | /mnt/stockage/packages/f7/transmission/gtk/po/es.po | 
+ | [ro](/f7/language/ro) | 527 | 553 | 95.3 | /mnt/stockage/packages/f7/transmission/gtk/po/ro.po | 
+ | [bg](/f7/language/bg) | 526 | 553 | 95.1 | /mnt/stockage/packages/f7/transmission/gtk/po/bg.po | 
 {.sortable}
 
 

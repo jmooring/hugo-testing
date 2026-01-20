@@ -18,11 +18,11 @@ The package xneur (version 0.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1970 | 1970 | 100.0 | /mnt/stockage/packages/f32/xneur/po/ru.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 349 | 1970 | 17.7 | /mnt/stockage/packages/f32/xneur/po/uk.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 197 | 1970 | 10.0 | /mnt/stockage/packages/f32/xneur/po/be.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 16 | 1970 | 0.8 | /mnt/stockage/packages/f32/xneur/po/ro.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3 | 1970 | 0.2 | /mnt/stockage/packages/f32/xneur/po/de.po | 
+ | [ru](/f32/language/ru) | 1970 | 1970 | 100.0 | /mnt/stockage/packages/f32/xneur/po/ru.po | 
+ | [uk](/f32/language/uk) | 349 | 1970 | 17.7 | /mnt/stockage/packages/f32/xneur/po/uk.po | 
+ | [be](/f32/language/be) | 197 | 1970 | 10.0 | /mnt/stockage/packages/f32/xneur/po/be.po | 
+ | [ro](/f32/language/ro) | 16 | 1970 | 0.8 | /mnt/stockage/packages/f32/xneur/po/ro.po | 
+ | [de](/f32/language/de) | 3 | 1970 | 0.2 | /mnt/stockage/packages/f32/xneur/po/de.po | 
 {.sortable}
 
 

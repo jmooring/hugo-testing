@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f12/package/exaile.md" >}}) | 1956 | 2425 | 80.7 | Kashubian <csb@li.org> | 
- | [awn-extras-applets]({{< ref "/f12/package/awn-extras-applets.md" >}}) | 283 | 7205 | 3.9 | Kashubian <csb@li.org> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 44 | 3336 | 1.3 | Kashubian <csb@li.org> | 
- | [avant-window-navigator]({{< ref "/f12/package/avant-window-navigator.md" >}}) | 21 | 1655 | 1.3 | Kashubian <csb@li.org> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f12/package/exaile) | 1956 | 2425 | 80.7 | Kashubian <csb@li.org> | 
+ | [awn-extras-applets](/f12/package/awn-extras-applets) | 283 | 7205 | 3.9 | Kashubian <csb@li.org> | 
+ | [Miro](/f12/package/Miro) | 44 | 3336 | 1.3 | Kashubian <csb@li.org> | 
+ | [avant-window-navigator](/f12/package/avant-window-navigator) | 21 | 1655 | 1.3 | Kashubian <csb@li.org> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

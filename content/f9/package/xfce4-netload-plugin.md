@@ -18,13 +18,13 @@ The package xfce4-netload-plugin (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/fr.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 60 | 61 | 98.4 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/ko.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 58 | 61 | 95.1 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/de.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 42 | 61 | 68.9 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/ca.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 42 | 61 | 68.9 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/uk.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 41 | 61 | 67.2 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/pl.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 14 | 61 | 23.0 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/lt.po | 
+ | [fr](/f9/language/fr) | 61 | 61 | 100.0 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/fr.po | 
+ | [ko](/f9/language/ko) | 60 | 61 | 98.4 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/ko.po | 
+ | [de](/f9/language/de) | 58 | 61 | 95.1 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/de.po | 
+ | [ca](/f9/language/ca) | 42 | 61 | 68.9 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/ca.po | 
+ | [uk](/f9/language/uk) | 42 | 61 | 68.9 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/uk.po | 
+ | [pl](/f9/language/pl) | 41 | 61 | 67.2 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/pl.po | 
+ | [lt](/f9/language/lt) | 14 | 61 | 23.0 | /mnt/stockage/packages/f9/xfce4-netload-plugin/po/lt.po | 
 {.sortable}
 
 

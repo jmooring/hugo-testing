@@ -18,30 +18,30 @@ The package guvcview (version 2.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f39/language/es.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f39/guvcview/po/es.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/es.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1587 | 3300 | 48.1 | /mnt/stockage/packages/f39/guvcview/po/pt.po/mnt/stockage/packages/f39/guvcview/po/fr.po/mnt/stockage/packages/f39/guvcview/po/de.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/pt.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/fr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/de.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/pt_BR.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 487 | 1052 | 46.3 | /mnt/stockage/packages/f39/guvcview/po/tr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/tr.po | 
- | [en_AU]({{< ref "/f39/language/en_AU.md" >}}) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/en_AU.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/en_AU.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/it.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/it.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/nl.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/nl.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/si.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/si.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/sr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/sr.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 445 | 1052 | 42.3 | /mnt/stockage/packages/f39/guvcview/po/ru.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/ru.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 435 | 1052 | 41.3 | /mnt/stockage/packages/f39/guvcview/po/cs.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/cs.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 371 | 908 | 40.9 | /mnt/stockage/packages/f39/guvcview/po/pt_BR.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 416 | 1052 | 39.5 | /mnt/stockage/packages/f39/guvcview/po/lv.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/lv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 404 | 1052 | 38.4 | /mnt/stockage/packages/f39/guvcview/po/uk.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/uk.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 400 | 1052 | 38.0 | /mnt/stockage/packages/f39/guvcview/po/zh_TW.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/zh_TW.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 337 | 1052 | 32.0 | /mnt/stockage/packages/f39/guvcview/po/pl.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/pl.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 264 | 1052 | 25.1 | /mnt/stockage/packages/f39/guvcview/po/he.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/he.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 219 | 1052 | 20.8 | /mnt/stockage/packages/f39/guvcview/po/hr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/hr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 192 | 1052 | 18.3 | /mnt/stockage/packages/f39/guvcview/po/ja.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/ja.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 182 | 1052 | 17.3 | /mnt/stockage/packages/f39/guvcview/po/gl.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/gl.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 124 | 1052 | 11.8 | /mnt/stockage/packages/f39/guvcview/po/da.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/da.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 97 | 1052 | 9.2 | /mnt/stockage/packages/f39/guvcview/po/eu.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/eu.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 3 | 1052 | 0.3 | /mnt/stockage/packages/f39/guvcview/po/bs.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/bs.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 0 | 1052 | 0.0 | /mnt/stockage/packages/f39/guvcview/po/bg.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/bg.po | 
- | [fo]({{< ref "/f39/language/fo.md" >}}) | 0 | 1052 | 0.0 | /mnt/stockage/packages/f39/guvcview/po/fo.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/fo.po | 
+ | [es](/f39/language/es) | 144 | 144 | 100.0 | /mnt/stockage/packages/f39/guvcview/po/es.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/es.po | 
+ | [pt](/f39/language/pt) | 1587 | 3300 | 48.1 | /mnt/stockage/packages/f39/guvcview/po/pt.po/mnt/stockage/packages/f39/guvcview/po/fr.po/mnt/stockage/packages/f39/guvcview/po/de.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/pt.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/fr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/de.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/pt_BR.po | 
+ | [tr](/f39/language/tr) | 487 | 1052 | 46.3 | /mnt/stockage/packages/f39/guvcview/po/tr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/tr.po | 
+ | [en_AU](/f39/language/en_AU) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/en_AU.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/en_AU.po | 
+ | [it](/f39/language/it) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/it.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/it.po | 
+ | [nl](/f39/language/nl) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/nl.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/nl.po | 
+ | [si](/f39/language/si) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/si.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/si.po | 
+ | [sr](/f39/language/sr) | 482 | 1052 | 45.8 | /mnt/stockage/packages/f39/guvcview/po/sr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/sr.po | 
+ | [ru](/f39/language/ru) | 445 | 1052 | 42.3 | /mnt/stockage/packages/f39/guvcview/po/ru.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/ru.po | 
+ | [cs](/f39/language/cs) | 435 | 1052 | 41.3 | /mnt/stockage/packages/f39/guvcview/po/cs.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/cs.po | 
+ | [pt_BR](/f39/language/pt_BR) | 371 | 908 | 40.9 | /mnt/stockage/packages/f39/guvcview/po/pt_BR.po | 
+ | [lv](/f39/language/lv) | 416 | 1052 | 39.5 | /mnt/stockage/packages/f39/guvcview/po/lv.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/lv.po | 
+ | [uk](/f39/language/uk) | 404 | 1052 | 38.4 | /mnt/stockage/packages/f39/guvcview/po/uk.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/uk.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 400 | 1052 | 38.0 | /mnt/stockage/packages/f39/guvcview/po/zh_TW.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/zh_TW.po | 
+ | [pl](/f39/language/pl) | 337 | 1052 | 32.0 | /mnt/stockage/packages/f39/guvcview/po/pl.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/pl.po | 
+ | [he](/f39/language/he) | 264 | 1052 | 25.1 | /mnt/stockage/packages/f39/guvcview/po/he.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/he.po | 
+ | [hr](/f39/language/hr) | 219 | 1052 | 20.8 | /mnt/stockage/packages/f39/guvcview/po/hr.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/hr.po | 
+ | [ja](/f39/language/ja) | 192 | 1052 | 18.3 | /mnt/stockage/packages/f39/guvcview/po/ja.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/ja.po | 
+ | [gl](/f39/language/gl) | 182 | 1052 | 17.3 | /mnt/stockage/packages/f39/guvcview/po/gl.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/gl.po | 
+ | [da](/f39/language/da) | 124 | 1052 | 11.8 | /mnt/stockage/packages/f39/guvcview/po/da.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/da.po | 
+ | [eu](/f39/language/eu) | 97 | 1052 | 9.2 | /mnt/stockage/packages/f39/guvcview/po/eu.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/eu.po | 
+ | [bs](/f39/language/bs) | 3 | 1052 | 0.3 | /mnt/stockage/packages/f39/guvcview/po/bs.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/bs.po | 
+ | [bg](/f39/language/bg) | 0 | 1052 | 0.0 | /mnt/stockage/packages/f39/guvcview/po/bg.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/bg.po | 
+ | [fo](/f39/language/fo) | 0 | 1052 | 0.0 | /mnt/stockage/packages/f39/guvcview/po/fo.po/mnt/stockage/packages/f39/guvcview/po/gview_v4l2core/fo.po | 
 {.sortable}
 
 

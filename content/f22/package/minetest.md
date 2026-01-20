@@ -18,29 +18,29 @@ The package minetest (version 0.4.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 633 | 633 | 100.0 | /mnt/stockage/packages/f22/minetest/po/cs/minetest.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 464 | 464 | 100.0 | /mnt/stockage/packages/f22/minetest/po/ja/minetest.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 694 | 698 | 99.4 | /mnt/stockage/packages/f22/minetest/po/es/minetest.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 506 | 513 | 98.6 | /mnt/stockage/packages/f22/minetest/po/de/minetest.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 500 | 513 | 97.5 | /mnt/stockage/packages/f22/minetest/po/fr/minetest.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/id/minetest.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/it/minetest.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/nl/minetest.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/pt_BR/minetest.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/ro/minetest.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/ru/minetest.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/zh_CN/minetest.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 360 | 513 | 70.2 | /mnt/stockage/packages/f22/minetest/po/pl/minetest.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 343 | 513 | 66.9 | /mnt/stockage/packages/f22/minetest/po/pt/minetest.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 272 | 513 | 53.0 | /mnt/stockage/packages/f22/minetest/po/et/minetest.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 237 | 513 | 46.2 | /mnt/stockage/packages/f22/minetest/po/hu/minetest.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 233 | 513 | 45.4 | /mnt/stockage/packages/f22/minetest/po/da/minetest.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 217 | 513 | 42.3 | /mnt/stockage/packages/f22/minetest/po/uk/minetest.po | 
- | [ky]({{< ref "/f22/language/ky.md" >}}) | 190 | 513 | 37.0 | /mnt/stockage/packages/f22/minetest/po/ky/minetest.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 153 | 513 | 29.8 | /mnt/stockage/packages/f22/minetest/po/lt/minetest.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 9 | 513 | 1.8 | /mnt/stockage/packages/f22/minetest/po/nb/minetest.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1 | 513 | 0.2 | /mnt/stockage/packages/f22/minetest/po/ko/minetest.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 0 | 513 | 0.0 | /mnt/stockage/packages/f22/minetest/po/be/minetest.po | 
+ | [cs](/f22/language/cs) | 633 | 633 | 100.0 | /mnt/stockage/packages/f22/minetest/po/cs/minetest.po | 
+ | [ja](/f22/language/ja) | 464 | 464 | 100.0 | /mnt/stockage/packages/f22/minetest/po/ja/minetest.po | 
+ | [es](/f22/language/es) | 694 | 698 | 99.4 | /mnt/stockage/packages/f22/minetest/po/es/minetest.po | 
+ | [de](/f22/language/de) | 506 | 513 | 98.6 | /mnt/stockage/packages/f22/minetest/po/de/minetest.po | 
+ | [fr](/f22/language/fr) | 500 | 513 | 97.5 | /mnt/stockage/packages/f22/minetest/po/fr/minetest.po | 
+ | [id](/f22/language/id) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/id/minetest.po | 
+ | [it](/f22/language/it) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/it/minetest.po | 
+ | [nl](/f22/language/nl) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/nl/minetest.po | 
+ | [pt_BR](/f22/language/pt_BR) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/pt_BR/minetest.po | 
+ | [ro](/f22/language/ro) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/ro/minetest.po | 
+ | [ru](/f22/language/ru) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/ru/minetest.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 394 | 513 | 76.8 | /mnt/stockage/packages/f22/minetest/po/zh_CN/minetest.po | 
+ | [pl](/f22/language/pl) | 360 | 513 | 70.2 | /mnt/stockage/packages/f22/minetest/po/pl/minetest.po | 
+ | [pt](/f22/language/pt) | 343 | 513 | 66.9 | /mnt/stockage/packages/f22/minetest/po/pt/minetest.po | 
+ | [et](/f22/language/et) | 272 | 513 | 53.0 | /mnt/stockage/packages/f22/minetest/po/et/minetest.po | 
+ | [hu](/f22/language/hu) | 237 | 513 | 46.2 | /mnt/stockage/packages/f22/minetest/po/hu/minetest.po | 
+ | [da](/f22/language/da) | 233 | 513 | 45.4 | /mnt/stockage/packages/f22/minetest/po/da/minetest.po | 
+ | [uk](/f22/language/uk) | 217 | 513 | 42.3 | /mnt/stockage/packages/f22/minetest/po/uk/minetest.po | 
+ | [ky](/f22/language/ky) | 190 | 513 | 37.0 | /mnt/stockage/packages/f22/minetest/po/ky/minetest.po | 
+ | [lt](/f22/language/lt) | 153 | 513 | 29.8 | /mnt/stockage/packages/f22/minetest/po/lt/minetest.po | 
+ | [nb_NO](/f22/language/nb_NO) | 9 | 513 | 1.8 | /mnt/stockage/packages/f22/minetest/po/nb/minetest.po | 
+ | [ko](/f22/language/ko) | 1 | 513 | 0.2 | /mnt/stockage/packages/f22/minetest/po/ko/minetest.po | 
+ | [be](/f22/language/be) | 0 | 513 | 0.0 | /mnt/stockage/packages/f22/minetest/po/be/minetest.po | 
 {.sortable}
 
 

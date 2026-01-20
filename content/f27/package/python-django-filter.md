@@ -18,13 +18,13 @@ The package python-django-filter (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/es_ES/LC_MESSAGES/django.po | 
- | [es_AR]({{< ref "/f27/language/es_AR.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/es_AR/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/pl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/ru/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [de](/f27/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f27/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/es_ES/LC_MESSAGES/django.po | 
+ | [es_AR](/f27/language/es_AR) | 16 | 16 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/es_AR/LC_MESSAGES/django.po | 
+ | [fr](/f27/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
+ | [pl](/f27/language/pl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/pl/LC_MESSAGES/django.po | 
+ | [ru](/f27/language/ru) | 13 | 13 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/ru/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 21 | 21 | 100.0 | /mnt/stockage/packages/f27/python-django-filter/django_filters/locale/zh_CN/LC_MESSAGES/django.po | 
 {.sortable}
 
 

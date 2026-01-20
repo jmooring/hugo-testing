@@ -18,12 +18,12 @@ The package kid3 (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/es_qt.po/mnt/stockage/packages/f9/kid3/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/fr_qt.po/mnt/stockage/packages/f9/kid3/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/it_qt.po/mnt/stockage/packages/f9/kid3/po/it.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/ru_qt.po/mnt/stockage/packages/f9/kid3/po/ru.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1124 | 1128 | 99.6 | /mnt/stockage/packages/f9/kid3/kid3/de_qt.po/mnt/stockage/packages/f9/kid3/po/de.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1014 | 1128 | 89.9 | /mnt/stockage/packages/f9/kid3/kid3/pl_qt.po/mnt/stockage/packages/f9/kid3/po/pl.po | 
+ | [es](/f9/language/es) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/es_qt.po/mnt/stockage/packages/f9/kid3/po/es.po | 
+ | [fr](/f9/language/fr) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/fr_qt.po/mnt/stockage/packages/f9/kid3/po/fr.po | 
+ | [it](/f9/language/it) | 1128 | 1128 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/it_qt.po/mnt/stockage/packages/f9/kid3/po/it.po | 
+ | [ru](/f9/language/ru) | 1129 | 1129 | 100.0 | /mnt/stockage/packages/f9/kid3/kid3/ru_qt.po/mnt/stockage/packages/f9/kid3/po/ru.po | 
+ | [de](/f9/language/de) | 1124 | 1128 | 99.6 | /mnt/stockage/packages/f9/kid3/kid3/de_qt.po/mnt/stockage/packages/f9/kid3/po/de.po | 
+ | [pl](/f9/language/pl) | 1014 | 1128 | 89.9 | /mnt/stockage/packages/f9/kid3/kid3/pl_qt.po/mnt/stockage/packages/f9/kid3/po/pl.po | 
 {.sortable}
 
 

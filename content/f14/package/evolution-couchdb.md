@@ -18,25 +18,25 @@ The package evolution-couchdb (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/ca.po | 
- | [ca@valencia]({{< ref "/f14/language/ca@valencia.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/ca@valencia.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/eu.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/hu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/ja.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/nds.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/pt_BR.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 9 | 46 | 19.6 | /mnt/stockage/packages/f14/evolution-couchdb/po/nb.po | 
+ | [ca](/f14/language/ca) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/ca.po | 
+ | [ca@valencia](/f14/language/ca@valencia) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/ca@valencia.po | 
+ | [cs](/f14/language/cs) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/cs.po | 
+ | [da](/f14/language/da) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/da.po | 
+ | [de](/f14/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/de.po | 
+ | [el](/f14/language/el) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/el.po | 
+ | [es](/f14/language/es) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/es.po | 
+ | [eu](/f14/language/eu) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/eu.po | 
+ | [fr](/f14/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/fr.po | 
+ | [gl](/f14/language/gl) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/gl.po | 
+ | [hu](/f14/language/hu) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/hu.po | 
+ | [ja](/f14/language/ja) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/ja.po | 
+ | [nds](/f14/language/nds) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/nds.po | 
+ | [pt](/f14/language/pt) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/pt_BR.po | 
+ | [sl](/f14/language/sl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/sl.po | 
+ | [sv](/f14/language/sv) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/evolution-couchdb/po/zh_CN.po | 
+ | [nb_NO](/f14/language/nb_NO) | 9 | 46 | 19.6 | /mnt/stockage/packages/f14/evolution-couchdb/po/nb.po | 
 {.sortable}
 
 

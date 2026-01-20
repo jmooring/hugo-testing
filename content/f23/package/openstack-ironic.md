@@ -18,10 +18,10 @@ The package openstack-ironic (version 2015.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/fr/LC_MESSAGES/ironic-log-critical.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/ja/LC_MESSAGES/ironic-log-critical.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/ko_KR/LC_MESSAGES/ironic-log-critical.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/pt_BR/LC_MESSAGES/ironic-log-critical.po | 
+ | [fr](/f23/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/fr/LC_MESSAGES/ironic-log-critical.po | 
+ | [ja](/f23/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/ja/LC_MESSAGES/ironic-log-critical.po | 
+ | [ko](/f23/language/ko) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/ko_KR/LC_MESSAGES/ironic-log-critical.po | 
+ | [pt_BR](/f23/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f23/openstack-ironic/ironic/locale/pt_BR/LC_MESSAGES/ironic-log-critical.po | 
 {.sortable}
 
 

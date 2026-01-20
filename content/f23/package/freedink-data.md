@@ -18,17 +18,17 @@ The package freedink-data (version 1.08.20140901):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/ca.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/da.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/eo.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/fr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/hu.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/nl.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 13629 | 13770 | 99.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/es.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 13438 | 13758 | 97.7 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/de.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 2611 | 13758 | 19.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/mk.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 2302 | 13758 | 16.7 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/hr.po | 
+ | [ca](/f23/language/ca) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/ca.po | 
+ | [da](/f23/language/da) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/da.po | 
+ | [eo](/f23/language/eo) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/eo.po | 
+ | [fi](/f23/language/fi) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/fi.po | 
+ | [fr](/f23/language/fr) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/fr.po | 
+ | [hu](/f23/language/hu) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/hu.po | 
+ | [nl](/f23/language/nl) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/nl.po | 
+ | [es](/f23/language/es) | 13629 | 13770 | 99.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/es.po | 
+ | [de](/f23/language/de) | 13438 | 13758 | 97.7 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/de.po | 
+ | [mk](/f23/language/mk) | 2611 | 13758 | 19.0 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/mk.po | 
+ | [hr](/f23/language/hr) | 2302 | 13758 | 16.7 | /mnt/stockage/packages/f23/freedink-data/dink/l10n/hr.po | 
 {.sortable}
 
 

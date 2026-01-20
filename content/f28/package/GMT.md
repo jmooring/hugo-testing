@@ -18,7 +18,7 @@ The package GMT (version 5.4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f28/language/en.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f28/GMT/doc/rst/source/locale/en/LC_MESSAGES/sphinx.po | 
+ | [en](/f28/language/en) | 10 | 10 | 100.0 | /mnt/stockage/packages/f28/GMT/doc/rst/source/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

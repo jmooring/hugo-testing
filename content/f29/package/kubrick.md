@@ -18,51 +18,51 @@ The package kubrick (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/ca/kubrick.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/ca@valencia/kubrick.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/cs/kubrick.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/da/kubrick.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/de/kubrick.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/en_GB/kubrick.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/es/kubrick.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/fr/kubrick.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/gl/kubrick.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/nl/kubrick.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/nn/kubrick.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/pl/kubrick.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/pt/kubrick.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/pt_BR/kubrick.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sk/kubrick.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sl/kubrick.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sr/kubrick.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sv/kubrick.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/tr/kubrick.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/uk/kubrick.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/zh_TW/kubrick.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/bs/kubrick.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/el/kubrick.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/et/kubrick.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/fi/kubrick.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/hu/kubrick.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/it/kubrick.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/kk/kubrick.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/km/kubrick.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/nb/kubrick.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/nds/kubrick.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/ru/kubrick.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 1181 | 1203 | 98.2 | /mnt/stockage/packages/f29/kubrick/po/lv/kubrick.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1108 | 1203 | 92.1 | /mnt/stockage/packages/f29/kubrick/po/zh_CN/kubrick.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 1072 | 1203 | 89.1 | /mnt/stockage/packages/f29/kubrick/po/ja/kubrick.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 497 | 1203 | 41.3 | /mnt/stockage/packages/f29/kubrick/po/ko/kubrick.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 372 | 1203 | 30.9 | /mnt/stockage/packages/f29/kubrick/po/ga/kubrick.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 351 | 1203 | 29.2 | /mnt/stockage/packages/f29/kubrick/po/eu/kubrick.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 182 | 1203 | 15.1 | /mnt/stockage/packages/f29/kubrick/po/ro/kubrick.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 26 | 1203 | 2.2 | /mnt/stockage/packages/f29/kubrick/po/ug/kubrick.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 21 | 1203 | 1.7 | /mnt/stockage/packages/f29/kubrick/po/mr/kubrick.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 11 | 1203 | 0.9 | /mnt/stockage/packages/f29/kubrick/po/eo/kubrick.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 10 | 1203 | 0.8 | /mnt/stockage/packages/f29/kubrick/po/lt/kubrick.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 4 | 1203 | 0.3 | /mnt/stockage/packages/f29/kubrick/po/hr/kubrick.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 1203 | 0.0 | /mnt/stockage/packages/f29/kubrick/po/is/kubrick.po | 
+ | [ca](/f29/language/ca) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/ca/kubrick.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/ca@valencia/kubrick.po | 
+ | [cs](/f29/language/cs) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/cs/kubrick.po | 
+ | [da](/f29/language/da) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/da/kubrick.po | 
+ | [de](/f29/language/de) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/de/kubrick.po | 
+ | [en_GB](/f29/language/en_GB) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/en_GB/kubrick.po | 
+ | [es](/f29/language/es) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/es/kubrick.po | 
+ | [fr](/f29/language/fr) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/fr/kubrick.po | 
+ | [gl](/f29/language/gl) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/gl/kubrick.po | 
+ | [nl](/f29/language/nl) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/nl/kubrick.po | 
+ | [nn](/f29/language/nn) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/nn/kubrick.po | 
+ | [pl](/f29/language/pl) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/pl/kubrick.po | 
+ | [pt](/f29/language/pt) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/pt/kubrick.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/pt_BR/kubrick.po | 
+ | [sk](/f29/language/sk) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sk/kubrick.po | 
+ | [sl](/f29/language/sl) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sl/kubrick.po | 
+ | [sr](/f29/language/sr) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sr/kubrick.po | 
+ | [sv](/f29/language/sv) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/sv/kubrick.po | 
+ | [tr](/f29/language/tr) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/tr/kubrick.po | 
+ | [uk](/f29/language/uk) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/uk/kubrick.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1203 | 1203 | 100.0 | /mnt/stockage/packages/f29/kubrick/po/zh_TW/kubrick.po | 
+ | [bs](/f29/language/bs) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/bs/kubrick.po | 
+ | [el](/f29/language/el) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/el/kubrick.po | 
+ | [et](/f29/language/et) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/et/kubrick.po | 
+ | [fi](/f29/language/fi) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/fi/kubrick.po | 
+ | [hu](/f29/language/hu) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/hu/kubrick.po | 
+ | [it](/f29/language/it) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/it/kubrick.po | 
+ | [kk](/f29/language/kk) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/kk/kubrick.po | 
+ | [km](/f29/language/km) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/km/kubrick.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/nb/kubrick.po | 
+ | [nds](/f29/language/nds) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/nds/kubrick.po | 
+ | [ru](/f29/language/ru) | 1186 | 1203 | 98.6 | /mnt/stockage/packages/f29/kubrick/po/ru/kubrick.po | 
+ | [lv](/f29/language/lv) | 1181 | 1203 | 98.2 | /mnt/stockage/packages/f29/kubrick/po/lv/kubrick.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1108 | 1203 | 92.1 | /mnt/stockage/packages/f29/kubrick/po/zh_CN/kubrick.po | 
+ | [ja](/f29/language/ja) | 1072 | 1203 | 89.1 | /mnt/stockage/packages/f29/kubrick/po/ja/kubrick.po | 
+ | [ko](/f29/language/ko) | 497 | 1203 | 41.3 | /mnt/stockage/packages/f29/kubrick/po/ko/kubrick.po | 
+ | [ga](/f29/language/ga) | 372 | 1203 | 30.9 | /mnt/stockage/packages/f29/kubrick/po/ga/kubrick.po | 
+ | [eu](/f29/language/eu) | 351 | 1203 | 29.2 | /mnt/stockage/packages/f29/kubrick/po/eu/kubrick.po | 
+ | [ro](/f29/language/ro) | 182 | 1203 | 15.1 | /mnt/stockage/packages/f29/kubrick/po/ro/kubrick.po | 
+ | [ug](/f29/language/ug) | 26 | 1203 | 2.2 | /mnt/stockage/packages/f29/kubrick/po/ug/kubrick.po | 
+ | [mr](/f29/language/mr) | 21 | 1203 | 1.7 | /mnt/stockage/packages/f29/kubrick/po/mr/kubrick.po | 
+ | [eo](/f29/language/eo) | 11 | 1203 | 0.9 | /mnt/stockage/packages/f29/kubrick/po/eo/kubrick.po | 
+ | [lt](/f29/language/lt) | 10 | 1203 | 0.8 | /mnt/stockage/packages/f29/kubrick/po/lt/kubrick.po | 
+ | [hr](/f29/language/hr) | 4 | 1203 | 0.3 | /mnt/stockage/packages/f29/kubrick/po/hr/kubrick.po | 
+ | [is](/f29/language/is) | 0 | 1203 | 0.0 | /mnt/stockage/packages/f29/kubrick/po/is/kubrick.po | 
 {.sortable}
 
 

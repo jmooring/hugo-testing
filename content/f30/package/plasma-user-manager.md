@@ -18,51 +18,51 @@ The package plasma-user-manager (version 5.15.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ca/user_manager.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ca@valencia/user_manager.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/da/user_manager.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/de/user_manager.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/en_GB/user_manager.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/es/user_manager.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/eu/user_manager.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/fi/user_manager.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/fr/user_manager.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/gl/user_manager.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/hu/user_manager.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/id/user_manager.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/it/user_manager.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ko/user_manager.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/nl/user_manager.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/nn/user_manager.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/pl/user_manager.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/pt/user_manager.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/pt_BR/user_manager.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ru/user_manager.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sk/user_manager.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sl/user_manager.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr/user_manager.po | 
- | [sr@ijekavian]({{< ref "/f30/language/sr@ijekavian.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr@ijekavian/user_manager.po | 
- | [sr@ijekavian_Latn]({{< ref "/f30/language/sr@ijekavian_Latn.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr@ijekavianlatin/user_manager.po | 
- | [sr_Latn]({{< ref "/f30/language/sr_Latn.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr@latin/user_manager.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sv/user_manager.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/uk/user_manager.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/zh_CN/user_manager.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/zh_TW/user_manager.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/el/user_manager.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/et/user_manager.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/lt/user_manager.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/tr/user_manager.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 283 | 295 | 95.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/nb/user_manager.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 276 | 295 | 93.6 | /mnt/stockage/packages/f30/plasma-user-manager/po/bs/user_manager.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 276 | 295 | 93.6 | /mnt/stockage/packages/f30/plasma-user-manager/po/ro/user_manager.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 270 | 295 | 91.5 | /mnt/stockage/packages/f30/plasma-user-manager/po/ar/user_manager.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 232 | 295 | 78.6 | /mnt/stockage/packages/f30/plasma-user-manager/po/he/user_manager.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 81 | 295 | 27.5 | /mnt/stockage/packages/f30/plasma-user-manager/po/cs/user_manager.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 61 | 295 | 20.7 | /mnt/stockage/packages/f30/plasma-user-manager/po/pa/user_manager.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 24 | 295 | 8.1 | /mnt/stockage/packages/f30/plasma-user-manager/po/ia/user_manager.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 22 | 295 | 7.5 | /mnt/stockage/packages/f30/plasma-user-manager/po/ug/user_manager.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 13 | 295 | 4.4 | /mnt/stockage/packages/f30/plasma-user-manager/po/mr/user_manager.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 0 | 295 | 0.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ja/user_manager.po | 
+ | [ca](/f30/language/ca) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ca/user_manager.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ca@valencia/user_manager.po | 
+ | [da](/f30/language/da) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/da/user_manager.po | 
+ | [de](/f30/language/de) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/de/user_manager.po | 
+ | [en_GB](/f30/language/en_GB) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/en_GB/user_manager.po | 
+ | [es](/f30/language/es) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/es/user_manager.po | 
+ | [eu](/f30/language/eu) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/eu/user_manager.po | 
+ | [fi](/f30/language/fi) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/fi/user_manager.po | 
+ | [fr](/f30/language/fr) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/fr/user_manager.po | 
+ | [gl](/f30/language/gl) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/gl/user_manager.po | 
+ | [hu](/f30/language/hu) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/hu/user_manager.po | 
+ | [id](/f30/language/id) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/id/user_manager.po | 
+ | [it](/f30/language/it) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/it/user_manager.po | 
+ | [ko](/f30/language/ko) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ko/user_manager.po | 
+ | [nl](/f30/language/nl) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/nl/user_manager.po | 
+ | [nn](/f30/language/nn) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/nn/user_manager.po | 
+ | [pl](/f30/language/pl) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/pl/user_manager.po | 
+ | [pt](/f30/language/pt) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/pt/user_manager.po | 
+ | [pt_BR](/f30/language/pt_BR) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/pt_BR/user_manager.po | 
+ | [ru](/f30/language/ru) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ru/user_manager.po | 
+ | [sk](/f30/language/sk) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sk/user_manager.po | 
+ | [sl](/f30/language/sl) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sl/user_manager.po | 
+ | [sr](/f30/language/sr) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr/user_manager.po | 
+ | [sr@ijekavian](/f30/language/sr@ijekavian) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr@ijekavian/user_manager.po | 
+ | [sr@ijekavian_Latn](/f30/language/sr@ijekavian_Latn) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr@ijekavianlatin/user_manager.po | 
+ | [sr_Latn](/f30/language/sr_Latn) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sr@latin/user_manager.po | 
+ | [sv](/f30/language/sv) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/sv/user_manager.po | 
+ | [uk](/f30/language/uk) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/uk/user_manager.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/zh_CN/user_manager.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 295 | 295 | 100.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/zh_TW/user_manager.po | 
+ | [el](/f30/language/el) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/el/user_manager.po | 
+ | [et](/f30/language/et) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/et/user_manager.po | 
+ | [lt](/f30/language/lt) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/lt/user_manager.po | 
+ | [tr](/f30/language/tr) | 286 | 295 | 96.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/tr/user_manager.po | 
+ | [nb_NO](/f30/language/nb_NO) | 283 | 295 | 95.9 | /mnt/stockage/packages/f30/plasma-user-manager/po/nb/user_manager.po | 
+ | [bs](/f30/language/bs) | 276 | 295 | 93.6 | /mnt/stockage/packages/f30/plasma-user-manager/po/bs/user_manager.po | 
+ | [ro](/f30/language/ro) | 276 | 295 | 93.6 | /mnt/stockage/packages/f30/plasma-user-manager/po/ro/user_manager.po | 
+ | [ar](/f30/language/ar) | 270 | 295 | 91.5 | /mnt/stockage/packages/f30/plasma-user-manager/po/ar/user_manager.po | 
+ | [he](/f30/language/he) | 232 | 295 | 78.6 | /mnt/stockage/packages/f30/plasma-user-manager/po/he/user_manager.po | 
+ | [cs](/f30/language/cs) | 81 | 295 | 27.5 | /mnt/stockage/packages/f30/plasma-user-manager/po/cs/user_manager.po | 
+ | [pa](/f30/language/pa) | 61 | 295 | 20.7 | /mnt/stockage/packages/f30/plasma-user-manager/po/pa/user_manager.po | 
+ | [ia](/f30/language/ia) | 24 | 295 | 8.1 | /mnt/stockage/packages/f30/plasma-user-manager/po/ia/user_manager.po | 
+ | [ug](/f30/language/ug) | 22 | 295 | 7.5 | /mnt/stockage/packages/f30/plasma-user-manager/po/ug/user_manager.po | 
+ | [mr](/f30/language/mr) | 13 | 295 | 4.4 | /mnt/stockage/packages/f30/plasma-user-manager/po/mr/user_manager.po | 
+ | [ja](/f30/language/ja) | 0 | 295 | 0.0 | /mnt/stockage/packages/f30/plasma-user-manager/po/ja/user_manager.po | 
 {.sortable}
 
 

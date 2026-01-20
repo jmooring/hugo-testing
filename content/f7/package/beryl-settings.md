@@ -18,20 +18,20 @@ The package beryl-settings (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/es.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/ko.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/pl.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/pt_PT.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 88 | 89 | 98.9 | /mnt/stockage/packages/f7/beryl-settings/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 88 | 89 | 98.9 | /mnt/stockage/packages/f7/beryl-settings/po/it.po | 
- | [es_AR]({{< ref "/f7/language/es_AR.md" >}}) | 131 | 136 | 96.3 | /mnt/stockage/packages/f7/beryl-settings/po/es_AR.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 57 | 60 | 95.0 | /mnt/stockage/packages/f7/beryl-settings/po/ca.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/beryl-settings/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/beryl-settings/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/beryl-settings/po/zh_HK.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 35 | 136 | 25.7 | /mnt/stockage/packages/f7/beryl-settings/po/hu_HU.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/beryl-settings/po/nl.po | 
+ | [es](/f7/language/es) | 60 | 60 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/es.po | 
+ | [ja](/f7/language/ja) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/ja.po | 
+ | [ko](/f7/language/ko) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/ko.po | 
+ | [pl](/f7/language/pl) | 89 | 89 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/pl.po | 
+ | [pt_PT](/f7/language/pt_PT) | 89 | 89 | 100.0 | /mnt/stockage/packages/f7/beryl-settings/po/pt_PT.po | 
+ | [fr](/f7/language/fr) | 88 | 89 | 98.9 | /mnt/stockage/packages/f7/beryl-settings/po/fr.po | 
+ | [it](/f7/language/it) | 88 | 89 | 98.9 | /mnt/stockage/packages/f7/beryl-settings/po/it.po | 
+ | [es_AR](/f7/language/es_AR) | 131 | 136 | 96.3 | /mnt/stockage/packages/f7/beryl-settings/po/es_AR.po | 
+ | [ca](/f7/language/ca) | 57 | 60 | 95.0 | /mnt/stockage/packages/f7/beryl-settings/po/ca.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/beryl-settings/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/beryl-settings/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 102 | 136 | 75.0 | /mnt/stockage/packages/f7/beryl-settings/po/zh_HK.po | 
+ | [hu](/f7/language/hu) | 35 | 136 | 25.7 | /mnt/stockage/packages/f7/beryl-settings/po/hu_HU.po | 
+ | [nl](/f7/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/beryl-settings/po/nl.po | 
 {.sortable}
 
 

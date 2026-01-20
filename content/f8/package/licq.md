@@ -18,17 +18,17 @@ The package licq (version 1.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f8/language/be.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/be.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/cs.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/fr.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/ro.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/sk.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/sv.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 3582 | 3583 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/de.po/mnt/stockage/packages/f8/licq/po/de.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 29 | 30 | 96.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 29 | 30 | 96.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 29 | 30 | 96.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/ru.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/es.po | 
+ | [be](/f8/language/be) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/be.po | 
+ | [cs](/f8/language/cs) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/cs.po | 
+ | [fr](/f8/language/fr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/fr.po | 
+ | [ro](/f8/language/ro) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/ro.po | 
+ | [sk](/f8/language/sk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/sk.po | 
+ | [sv](/f8/language/sv) | 30 | 30 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/sv.po | 
+ | [de](/f8/language/de) | 3582 | 3583 | 100.0 | /mnt/stockage/packages/f8/licq/plugins/osd/po/de.po/mnt/stockage/packages/f8/licq/po/de.po | 
+ | [pt](/f8/language/pt) | 29 | 30 | 96.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 29 | 30 | 96.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 29 | 30 | 96.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/ru.po | 
+ | [es](/f8/language/es) | 26 | 30 | 86.7 | /mnt/stockage/packages/f8/licq/plugins/osd/po/es.po | 
 {.sortable}
 
 

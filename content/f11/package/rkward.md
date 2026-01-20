@@ -18,17 +18,17 @@ The package rkward (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 3887 | 4011 | 96.9 | /mnt/stockage/packages/f11/rkward/po/cs.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 3874 | 4011 | 96.6 | /mnt/stockage/packages/f11/rkward/po/es.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 2982 | 4011 | 74.3 | /mnt/stockage/packages/f11/rkward/po/el.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 2913 | 4011 | 72.6 | /mnt/stockage/packages/f11/rkward/po/da.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2913 | 4011 | 72.6 | /mnt/stockage/packages/f11/rkward/po/zh_CN.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2786 | 4011 | 69.5 | /mnt/stockage/packages/f11/rkward/po/de.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 2446 | 4011 | 61.0 | /mnt/stockage/packages/f11/rkward/po/ca.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 2299 | 4011 | 57.3 | /mnt/stockage/packages/f11/rkward/po/tr.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2188 | 4011 | 54.5 | /mnt/stockage/packages/f11/rkward/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 461 | 4011 | 11.5 | /mnt/stockage/packages/f11/rkward/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 222 | 4011 | 5.5 | /mnt/stockage/packages/f11/rkward/po/pl.po | 
+ | [cs](/f11/language/cs) | 3887 | 4011 | 96.9 | /mnt/stockage/packages/f11/rkward/po/cs.po | 
+ | [es](/f11/language/es) | 3874 | 4011 | 96.6 | /mnt/stockage/packages/f11/rkward/po/es.po | 
+ | [el](/f11/language/el) | 2982 | 4011 | 74.3 | /mnt/stockage/packages/f11/rkward/po/el.po | 
+ | [da](/f11/language/da) | 2913 | 4011 | 72.6 | /mnt/stockage/packages/f11/rkward/po/da.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2913 | 4011 | 72.6 | /mnt/stockage/packages/f11/rkward/po/zh_CN.po | 
+ | [de](/f11/language/de) | 2786 | 4011 | 69.5 | /mnt/stockage/packages/f11/rkward/po/de.po | 
+ | [ca](/f11/language/ca) | 2446 | 4011 | 61.0 | /mnt/stockage/packages/f11/rkward/po/ca.po | 
+ | [tr](/f11/language/tr) | 2299 | 4011 | 57.3 | /mnt/stockage/packages/f11/rkward/po/tr.po | 
+ | [fr](/f11/language/fr) | 2188 | 4011 | 54.5 | /mnt/stockage/packages/f11/rkward/po/fr.po | 
+ | [it](/f11/language/it) | 461 | 4011 | 11.5 | /mnt/stockage/packages/f11/rkward/po/it.po | 
+ | [pl](/f11/language/pl) | 222 | 4011 | 5.5 | /mnt/stockage/packages/f11/rkward/po/pl.po | 
 {.sortable}
 
 

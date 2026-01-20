@@ -18,25 +18,25 @@ The package mingw-libgovirt (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/bs.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/el.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/es.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/eu.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/fr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/id.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/lt.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/oc.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/pt_BR.po/mnt/stockage/packages/f31/mingw-libgovirt/po/pt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/sl.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/sr.po/mnt/stockage/packages/f31/mingw-libgovirt/po/sr@latin.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/zh_CN.po | 
+ | [bs](/f31/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/bs.po | 
+ | [cs](/f31/language/cs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/cs.po | 
+ | [de](/f31/language/de) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/de.po | 
+ | [el](/f31/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/el.po | 
+ | [es](/f31/language/es) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/es.po | 
+ | [eu](/f31/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/eu.po | 
+ | [fr](/f31/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/fr.po | 
+ | [hu](/f31/language/hu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/hu.po | 
+ | [id](/f31/language/id) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/id.po | 
+ | [lt](/f31/language/lt) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/lt.po | 
+ | [oc](/f31/language/oc) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/oc.po | 
+ | [pl](/f31/language/pl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 204 | 204 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/pt_BR.po/mnt/stockage/packages/f31/mingw-libgovirt/po/pt.po | 
+ | [ru](/f31/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/ru.po | 
+ | [sl](/f31/language/sl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/sl.po | 
+ | [sr](/f31/language/sr) | 204 | 204 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/sr.po/mnt/stockage/packages/f31/mingw-libgovirt/po/sr@latin.po | 
+ | [sv](/f31/language/sv) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/sv.po | 
+ | [tr](/f31/language/tr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 102 | 102 | 100.0 | /mnt/stockage/packages/f31/mingw-libgovirt/po/zh_CN.po | 
 {.sortable}
 
 

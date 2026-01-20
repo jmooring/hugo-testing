@@ -18,70 +18,70 @@ The package spacewalk-backend (version 1.6.66):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1797 | 1895 | 94.8 | /mnt/stockage/packages/f17/spacewalk-backend/po/sv.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1143 | 1895 | 60.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/de.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1807 | 3790 | 47.7 | /mnt/stockage/packages/f17/spacewalk-backend/po/ja_JP.po/mnt/stockage/packages/f17/spacewalk-backend/po/ja.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 877 | 1895 | 46.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/fr.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1045 | 3790 | 27.6 | /mnt/stockage/packages/f17/spacewalk-backend/po/cs_CZ.po/mnt/stockage/packages/f17/spacewalk-backend/po/cs.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 163 | 3790 | 4.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/ru_RU.po/mnt/stockage/packages/f17/spacewalk-backend/po/ru.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 15 | 1895 | 0.8 | /mnt/stockage/packages/f17/spacewalk-backend/po/en.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 5 | 1895 | 0.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/ro.po | 
- | [aln]({{< ref "/f17/language/aln.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/aln.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ar.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/as.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ast.po | 
- | [bal]({{< ref "/f17/language/bal.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bal.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bg.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bn.po | 
- | [bn_BD]({{< ref "/f17/language/bn_BD.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bn_BD.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bn_IN.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bs.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ca.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/da.po | 
- | [de_CH]({{< ref "/f17/language/de_CH.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/de_CH.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/el.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/es_ES.po/mnt/stockage/packages/f17/spacewalk-backend/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/et.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/fa_IR.po/mnt/stockage/packages/f17/spacewalk-backend/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/fi.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/gu.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/he.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/hi.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/id.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/is.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/it.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/lt_LT.po/mnt/stockage/packages/f17/spacewalk-backend/po/lt.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/mai.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ml.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/mr.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nb.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nds.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nl.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nn.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pt_BR.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/si.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sk.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sl.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sq.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sr.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ta_IN.po/mnt/stockage/packages/f17/spacewalk-backend/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/te.po | 
- | [tg]({{< ref "/f17/language/tg.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/tg.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/uk.po | 
- | [ur]({{< ref "/f17/language/ur.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ur.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/vi_VN.po/mnt/stockage/packages/f17/spacewalk-backend/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/zh_HK.po | 
+ | [sv](/f17/language/sv) | 1797 | 1895 | 94.8 | /mnt/stockage/packages/f17/spacewalk-backend/po/sv.po | 
+ | [de](/f17/language/de) | 1143 | 1895 | 60.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/de.po | 
+ | [ja](/f17/language/ja) | 1807 | 3790 | 47.7 | /mnt/stockage/packages/f17/spacewalk-backend/po/ja_JP.po/mnt/stockage/packages/f17/spacewalk-backend/po/ja.po | 
+ | [fr](/f17/language/fr) | 877 | 1895 | 46.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/fr.po | 
+ | [cs](/f17/language/cs) | 1045 | 3790 | 27.6 | /mnt/stockage/packages/f17/spacewalk-backend/po/cs_CZ.po/mnt/stockage/packages/f17/spacewalk-backend/po/cs.po | 
+ | [ru](/f17/language/ru) | 163 | 3790 | 4.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/ru_RU.po/mnt/stockage/packages/f17/spacewalk-backend/po/ru.po | 
+ | [en](/f17/language/en) | 15 | 1895 | 0.8 | /mnt/stockage/packages/f17/spacewalk-backend/po/en.po | 
+ | [ro](/f17/language/ro) | 5 | 1895 | 0.3 | /mnt/stockage/packages/f17/spacewalk-backend/po/ro.po | 
+ | [aln](/f17/language/aln) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/aln.po | 
+ | [ar](/f17/language/ar) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ar.po | 
+ | [as](/f17/language/as) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/as.po | 
+ | [ast](/f17/language/ast) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ast.po | 
+ | [bal](/f17/language/bal) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bal.po | 
+ | [bg](/f17/language/bg) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bg.po | 
+ | [bn](/f17/language/bn) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bn.po | 
+ | [bn_BD](/f17/language/bn_BD) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bn_BD.po | 
+ | [bn_IN](/f17/language/bn_IN) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bn_IN.po | 
+ | [bs](/f17/language/bs) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/bs.po | 
+ | [ca](/f17/language/ca) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ca.po | 
+ | [da](/f17/language/da) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/da.po | 
+ | [de_CH](/f17/language/de_CH) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/de_CH.po | 
+ | [el](/f17/language/el) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/el.po | 
+ | [en_GB](/f17/language/en_GB) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/en_GB.po | 
+ | [es](/f17/language/es) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/es_ES.po/mnt/stockage/packages/f17/spacewalk-backend/po/es.po | 
+ | [et](/f17/language/et) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/et.po | 
+ | [fa](/f17/language/fa) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/fa_IR.po/mnt/stockage/packages/f17/spacewalk-backend/po/fa.po | 
+ | [fi](/f17/language/fi) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/fi.po | 
+ | [gu](/f17/language/gu) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/gu.po | 
+ | [he](/f17/language/he) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/he.po | 
+ | [hi](/f17/language/hi) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/hi.po | 
+ | [hu](/f17/language/hu) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/hu.po | 
+ | [id](/f17/language/id) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/id.po | 
+ | [is](/f17/language/is) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/is.po | 
+ | [it](/f17/language/it) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/it.po | 
+ | [kn](/f17/language/kn) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/kn.po | 
+ | [ko](/f17/language/ko) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ko.po | 
+ | [lt](/f17/language/lt) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/lt_LT.po/mnt/stockage/packages/f17/spacewalk-backend/po/lt.po | 
+ | [mai](/f17/language/mai) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/mai.po | 
+ | [ml](/f17/language/ml) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ml.po | 
+ | [mr](/f17/language/mr) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/mr.po | 
+ | [nb_NO](/f17/language/nb_NO) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nb.po | 
+ | [nds](/f17/language/nds) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nds.po | 
+ | [nl](/f17/language/nl) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nl.po | 
+ | [nn](/f17/language/nn) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/nn.po | 
+ | [or](/f17/language/or) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/or.po | 
+ | [pa](/f17/language/pa) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pa.po | 
+ | [pl](/f17/language/pl) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pl.po | 
+ | [pt](/f17/language/pt) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/pt_BR.po | 
+ | [si](/f17/language/si) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/si.po | 
+ | [sk](/f17/language/sk) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sk.po | 
+ | [sl](/f17/language/sl) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sl.po | 
+ | [sq](/f17/language/sq) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sq.po | 
+ | [sr](/f17/language/sr) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/sr.po | 
+ | [ta](/f17/language/ta) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ta_IN.po/mnt/stockage/packages/f17/spacewalk-backend/po/ta.po | 
+ | [te](/f17/language/te) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/te.po | 
+ | [tg](/f17/language/tg) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/tg.po | 
+ | [tr](/f17/language/tr) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/tr.po | 
+ | [uk](/f17/language/uk) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/uk.po | 
+ | [ur](/f17/language/ur) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/ur.po | 
+ | [vi](/f17/language/vi) | 0 | 3790 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/vi_VN.po/mnt/stockage/packages/f17/spacewalk-backend/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 0 | 1895 | 0.0 | /mnt/stockage/packages/f17/spacewalk-backend/po/zh_HK.po | 
 {.sortable}
 
 

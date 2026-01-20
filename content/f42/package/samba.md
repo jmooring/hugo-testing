@@ -18,26 +18,26 @@ The package samba (version 4.22.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/fr.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ja.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 519 | 524 | 99.0 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/tr.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 252 | 524 | 48.1 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ru.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/da.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/fi.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 212 | 524 | 40.5 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/nb.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ar.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/cs.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/es.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/hu.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/it.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ko.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/pt_BR.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/zh_TW.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 5187 | 16777 | 30.9 | /mnt/stockage/packages/f42/samba/source3/locale/net/de.po/mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1750206208/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1765328384/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1980176640/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-969269760/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err1859794432/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err35224064/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err36150272/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err39525376/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err43787520/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err569856/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_krb5/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_kuser/de.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 454 | 3515 | 12.9 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/sv.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1765328384/sv_SE.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_krb5/sv_SE.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_kuser/sv_SE.po | 
+ | [fr](/f42/language/fr) | 524 | 524 | 100.0 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/fr.po | 
+ | [ja](/f42/language/ja) | 524 | 524 | 100.0 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ja.po | 
+ | [tr](/f42/language/tr) | 519 | 524 | 99.0 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/tr.po | 
+ | [ru](/f42/language/ru) | 252 | 524 | 48.1 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ru.po | 
+ | [da](/f42/language/da) | 212 | 524 | 40.5 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/da.po | 
+ | [fi](/f42/language/fi) | 212 | 524 | 40.5 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/fi.po | 
+ | [nb_NO](/f42/language/nb_NO) | 212 | 524 | 40.5 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/nb.po | 
+ | [ar](/f42/language/ar) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ar.po | 
+ | [cs](/f42/language/cs) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/cs.po | 
+ | [es](/f42/language/es) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/es.po | 
+ | [hu](/f42/language/hu) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/hu.po | 
+ | [it](/f42/language/it) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/it.po | 
+ | [ko](/f42/language/ko) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/ko.po | 
+ | [nl](/f42/language/nl) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/nl.po | 
+ | [pl](/f42/language/pl) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/pt_BR.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 187 | 524 | 35.7 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/zh_TW.po | 
+ | [de](/f42/language/de) | 5187 | 16777 | 30.9 | /mnt/stockage/packages/f42/samba/source3/locale/net/de.po/mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1750206208/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1765328384/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1980176640/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-969269760/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err1859794432/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err35224064/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err36150272/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err39525376/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err43787520/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err569856/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_krb5/de.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_kuser/de.po | 
+ | [sv](/f42/language/sv) | 454 | 3515 | 12.9 | /mnt/stockage/packages/f42/samba/source3/locale/pam_winbind/sv.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heim_com_err-1765328384/sv_SE.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_krb5/sv_SE.po/mnt/stockage/packages/f42/samba/third_party/heimdal/po/heimdal_kuser/sv_SE.po | 
 {.sortable}
 
 

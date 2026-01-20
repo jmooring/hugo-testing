@@ -18,15 +18,15 @@ The package ORBit (version 0.5.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/cs.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/el.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/zh_CN.GB2312.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/gl.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/ro.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/sk.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/uk.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/wa.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/ORBit/popt/po/da.po | 
+ | [cs](/f24/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/cs.po | 
+ | [el](/f24/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/el.po | 
+ | [error](/f24/language/error) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/zh_CN.GB2312.po | 
+ | [gl](/f24/language/gl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/gl.po | 
+ | [ro](/f24/language/ro) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/ro.po | 
+ | [sk](/f24/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/sk.po | 
+ | [uk](/f24/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/uk.po | 
+ | [wa](/f24/language/wa) | 8 | 8 | 100.0 | /mnt/stockage/packages/f24/ORBit/popt/po/wa.po | 
+ | [da](/f24/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/ORBit/popt/po/da.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package lazygal (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 416 | 416 | 100.0 | /mnt/stockage/packages/f13/lazygal/locale/cs_CZ.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 385 | 416 | 92.5 | /mnt/stockage/packages/f13/lazygal/locale/fr_FR.po | 
+ | [cs](/f13/language/cs) | 416 | 416 | 100.0 | /mnt/stockage/packages/f13/lazygal/locale/cs_CZ.po | 
+ | [fr](/f13/language/fr) | 385 | 416 | 92.5 | /mnt/stockage/packages/f13/lazygal/locale/fr_FR.po | 
 {.sortable}
 
 

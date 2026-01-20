@@ -18,16 +18,16 @@ The package axel (version 2.17.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 344 | 599 | 57.4 | /mnt/stockage/packages/f34/axel/po/de.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 344 | 599 | 57.4 | /mnt/stockage/packages/f34/axel/po/es.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 344 | 599 | 57.4 | /mnt/stockage/packages/f34/axel/po/it.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 339 | 599 | 56.6 | /mnt/stockage/packages/f34/axel/po/pt_BR.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 335 | 599 | 55.9 | /mnt/stockage/packages/f34/axel/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 321 | 599 | 53.6 | /mnt/stockage/packages/f34/axel/po/zh_CN.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 272 | 599 | 45.4 | /mnt/stockage/packages/f34/axel/po/id_ID.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 265 | 599 | 44.2 | /mnt/stockage/packages/f34/axel/po/ja.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 261 | 599 | 43.6 | /mnt/stockage/packages/f34/axel/po/ru.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 191 | 599 | 31.9 | /mnt/stockage/packages/f34/axel/po/nl.po | 
+ | [de](/f34/language/de) | 344 | 599 | 57.4 | /mnt/stockage/packages/f34/axel/po/de.po | 
+ | [es](/f34/language/es) | 344 | 599 | 57.4 | /mnt/stockage/packages/f34/axel/po/es.po | 
+ | [it](/f34/language/it) | 344 | 599 | 57.4 | /mnt/stockage/packages/f34/axel/po/it.po | 
+ | [pt_BR](/f34/language/pt_BR) | 339 | 599 | 56.6 | /mnt/stockage/packages/f34/axel/po/pt_BR.po | 
+ | [tr](/f34/language/tr) | 335 | 599 | 55.9 | /mnt/stockage/packages/f34/axel/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 321 | 599 | 53.6 | /mnt/stockage/packages/f34/axel/po/zh_CN.po | 
+ | [id](/f34/language/id) | 272 | 599 | 45.4 | /mnt/stockage/packages/f34/axel/po/id_ID.po | 
+ | [ja](/f34/language/ja) | 265 | 599 | 44.2 | /mnt/stockage/packages/f34/axel/po/ja.po | 
+ | [ru](/f34/language/ru) | 261 | 599 | 43.6 | /mnt/stockage/packages/f34/axel/po/ru.po | 
+ | [nl](/f34/language/nl) | 191 | 599 | 31.9 | /mnt/stockage/packages/f34/axel/po/nl.po | 
 {.sortable}
 
 

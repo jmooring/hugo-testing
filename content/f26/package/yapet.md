@@ -18,7 +18,7 @@ The package yapet (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f26/yapet/libyacurs/po/de.po/mnt/stockage/packages/f26/yapet/po/de.po | 
+ | [de](/f26/language/de) | 957 | 957 | 100.0 | /mnt/stockage/packages/f26/yapet/libyacurs/po/de.po/mnt/stockage/packages/f26/yapet/po/de.po | 
 {.sortable}
 
 

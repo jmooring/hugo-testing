@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mozo]({{< ref "/f42/package/mozo.md" >}}) | 6 | 46 | 13.0 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-media]({{< ref "/f42/package/mate-media.md" >}}) | 4 | 244 | 1.6 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-utils]({{< ref "/f42/package/mate-utils.md" >}}) | 66 | 6811 | 1.0 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-panel]({{< ref "/f42/package/mate-panel.md" >}}) | 52 | 5590 | 0.9 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [eom]({{< ref "/f42/package/eom.md" >}}) | 16 | 1779 | 0.9 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-polkit]({{< ref "/f42/package/mate-polkit.md" >}}) | 1 | 123 | 0.8 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [caja-extensions]({{< ref "/f42/package/caja-extensions.md" >}}) | 6 | 845 | 0.7 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-applets]({{< ref "/f42/package/mate-applets.md" >}}) | 22 | 8528 | 0.3 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [gnome-do]({{< ref "/f42/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [mozo](/f42/package/mozo) | 6 | 46 | 13.0 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-media](/f42/package/mate-media) | 4 | 244 | 1.6 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-utils](/f42/package/mate-utils) | 66 | 6811 | 1.0 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-panel](/f42/package/mate-panel) | 52 | 5590 | 0.9 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [eom](/f42/package/eom) | 16 | 1779 | 0.9 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-polkit](/f42/package/mate-polkit) | 1 | 123 | 0.8 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [caja-extensions](/f42/package/caja-extensions) | 6 | 845 | 0.7 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-applets](/f42/package/mate-applets) | 22 | 8528 | 0.3 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [gnome-do](/f42/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package gnome-passwordsafe (version 3.99.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/fr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/hu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/it.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/pl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/ru.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/tr.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 793 | 795 | 99.7 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 645 | 795 | 81.1 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/fi.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 146 | 715 | 20.4 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/el.po | 
+ | [cs](/f31/language/cs) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/cs.po | 
+ | [da](/f31/language/da) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/da.po | 
+ | [de](/f31/language/de) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/de.po | 
+ | [es](/f31/language/es) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/es.po | 
+ | [fr](/f31/language/fr) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/fr.po | 
+ | [hu](/f31/language/hu) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/hu.po | 
+ | [id](/f31/language/id) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/id.po | 
+ | [it](/f31/language/it) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/it.po | 
+ | [nl](/f31/language/nl) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/nl.po | 
+ | [pl](/f31/language/pl) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/pl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 762 | 762 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/ru.po | 
+ | [sr](/f31/language/sr) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/sr.po | 
+ | [sv](/f31/language/sv) | 804 | 804 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/sv.po | 
+ | [tr](/f31/language/tr) | 795 | 795 | 100.0 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/tr.po | 
+ | [eu](/f31/language/eu) | 793 | 795 | 99.7 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/eu.po | 
+ | [fi](/f31/language/fi) | 645 | 795 | 81.1 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/fi.po | 
+ | [el](/f31/language/el) | 146 | 715 | 20.4 | /mnt/stockage/packages/f31/gnome-passwordsafe/po/el.po | 
 {.sortable}
 
 

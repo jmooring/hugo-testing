@@ -18,75 +18,75 @@ The package python-meh (version 0.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/fr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/hu.po | 
- | [ia]({{< ref "/f18/language/ia.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/ia.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/ja.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/pl.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/tr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/uk.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/bg.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/da.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/sv.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/zh_CN.po | 
- | [bn]({{< ref "/f18/language/bn.md" >}}) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/bn.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/fi.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/it.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 6 | 64 | 9.4 | /mnt/stockage/packages/f18/python-meh/po/pt_BR.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 4 | 64 | 6.2 | /mnt/stockage/packages/f18/python-meh/po/ast.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ar.po | 
- | [as]({{< ref "/f18/language/as.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/as.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/bn_IN.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/bs.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ca.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/el.po | 
- | [gu]({{< ref "/f18/language/gu.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/gu.po | 
- | [hi]({{< ref "/f18/language/hi.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/hi.po | 
- | [kn]({{< ref "/f18/language/kn.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/kn.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ko.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/lv.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ml.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/mr.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/nds.po | 
- | [or]({{< ref "/f18/language/or.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/or.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/pa.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/pt.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/sr.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/sr@latin.po | 
- | [ta]({{< ref "/f18/language/ta.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ta.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/te.po | 
- | [bal]({{< ref "/f18/language/bal.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/bal.po | 
- | [br]({{< ref "/f18/language/br.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/br.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/en_GB.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/et.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/eu.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/fa.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ga.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/he.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/id.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/is.po | 
- | [ka]({{< ref "/f18/language/ka.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ka.po | 
- | [kk]({{< ref "/f18/language/kk.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/kk.po | 
- | [ks]({{< ref "/f18/language/ks.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ks.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/lt.po | 
- | [mai]({{< ref "/f18/language/mai.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/mai.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/nb.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/nn.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ro.po | 
- | [si]({{< ref "/f18/language/si.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/si.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/sk.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/sq.po | 
- | [tg]({{< ref "/f18/language/tg.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/tg.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ur.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f18/language/zh_Hant_HK.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/zh_HK.po | 
+ | [cs](/f18/language/cs) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/cs.po | 
+ | [de](/f18/language/de) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/de.po | 
+ | [es](/f18/language/es) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/es.po | 
+ | [fr](/f18/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/fr.po | 
+ | [hu](/f18/language/hu) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/hu.po | 
+ | [ia](/f18/language/ia) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/ia.po | 
+ | [ja](/f18/language/ja) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/ja.po | 
+ | [nl](/f18/language/nl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/nl.po | 
+ | [pl](/f18/language/pl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/pl.po | 
+ | [tr](/f18/language/tr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/tr.po | 
+ | [uk](/f18/language/uk) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/python-meh/po/uk.po | 
+ | [bg](/f18/language/bg) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/bg.po | 
+ | [da](/f18/language/da) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/da.po | 
+ | [ru](/f18/language/ru) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/ru.po | 
+ | [sv](/f18/language/sv) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/sv.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 42 | 64 | 65.6 | /mnt/stockage/packages/f18/python-meh/po/zh_CN.po | 
+ | [bn](/f18/language/bn) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/bn.po | 
+ | [fi](/f18/language/fi) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/fi.po | 
+ | [it](/f18/language/it) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/it.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 7 | 64 | 10.9 | /mnt/stockage/packages/f18/python-meh/po/zh_TW.po | 
+ | [pt_BR](/f18/language/pt_BR) | 6 | 64 | 9.4 | /mnt/stockage/packages/f18/python-meh/po/pt_BR.po | 
+ | [ast](/f18/language/ast) | 4 | 64 | 6.2 | /mnt/stockage/packages/f18/python-meh/po/ast.po | 
+ | [ar](/f18/language/ar) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ar.po | 
+ | [as](/f18/language/as) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/as.po | 
+ | [bn_IN](/f18/language/bn_IN) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/bn_IN.po | 
+ | [bs](/f18/language/bs) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/bs.po | 
+ | [ca](/f18/language/ca) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ca.po | 
+ | [el](/f18/language/el) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/el.po | 
+ | [gu](/f18/language/gu) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/gu.po | 
+ | [hi](/f18/language/hi) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/hi.po | 
+ | [kn](/f18/language/kn) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/kn.po | 
+ | [ko](/f18/language/ko) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ko.po | 
+ | [lv](/f18/language/lv) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/lv.po | 
+ | [ml](/f18/language/ml) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ml.po | 
+ | [mr](/f18/language/mr) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/mr.po | 
+ | [nds](/f18/language/nds) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/nds.po | 
+ | [or](/f18/language/or) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/or.po | 
+ | [pa](/f18/language/pa) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/pa.po | 
+ | [pt](/f18/language/pt) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/pt.po | 
+ | [sr](/f18/language/sr) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/sr.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/sr@latin.po | 
+ | [ta](/f18/language/ta) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/ta.po | 
+ | [te](/f18/language/te) | 2 | 64 | 3.1 | /mnt/stockage/packages/f18/python-meh/po/te.po | 
+ | [bal](/f18/language/bal) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/bal.po | 
+ | [br](/f18/language/br) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/br.po | 
+ | [en_GB](/f18/language/en_GB) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/en_GB.po | 
+ | [et](/f18/language/et) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/et.po | 
+ | [eu](/f18/language/eu) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/eu.po | 
+ | [fa](/f18/language/fa) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/fa.po | 
+ | [ga](/f18/language/ga) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ga.po | 
+ | [gl](/f18/language/gl) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/gl.po | 
+ | [he](/f18/language/he) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/he.po | 
+ | [id](/f18/language/id) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/id.po | 
+ | [is](/f18/language/is) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/is.po | 
+ | [ka](/f18/language/ka) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ka.po | 
+ | [kk](/f18/language/kk) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/kk.po | 
+ | [ks](/f18/language/ks) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ks.po | 
+ | [lt](/f18/language/lt) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/lt.po | 
+ | [mai](/f18/language/mai) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/mai.po | 
+ | [nb_NO](/f18/language/nb_NO) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/nb.po | 
+ | [nn](/f18/language/nn) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/nn.po | 
+ | [ro](/f18/language/ro) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ro.po | 
+ | [si](/f18/language/si) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/si.po | 
+ | [sk](/f18/language/sk) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/sk.po | 
+ | [sq](/f18/language/sq) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/sq.po | 
+ | [tg](/f18/language/tg) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/tg.po | 
+ | [ur](/f18/language/ur) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/ur.po | 
+ | [vi](/f18/language/vi) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/vi.po | 
+ | [zh_Hant_HK](/f18/language/zh_Hant_HK) | 0 | 64 | 0.0 | /mnt/stockage/packages/f18/python-meh/po/zh_HK.po | 
 {.sortable}
 
 

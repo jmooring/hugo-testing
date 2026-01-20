@@ -18,7 +18,7 @@ The package kerneloops (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f9/kerneloops/po/nl.po | 
+ | [nl](/f9/language/nl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f9/kerneloops/po/nl.po | 
 {.sortable}
 
 

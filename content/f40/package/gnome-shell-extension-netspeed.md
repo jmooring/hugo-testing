@@ -18,21 +18,21 @@ The package gnome-shell-extension-netspeed (version 48):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/ka.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 56 | 60 | 93.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/nl_NL.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 52 | 56 | 92.9 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/hu.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 44 | 60 | 73.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/it.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 33 | 60 | 55.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/ca.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/es_ES.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/fa.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/ru.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/zh_TW.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 21 | 60 | 35.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/de.po | 
- | [en_CA]({{< ref "/f40/language/en_CA.md" >}}) | 21 | 60 | 35.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/en_CA.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 21 | 60 | 35.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/fr.po | 
+ | [ka](/f40/language/ka) | 56 | 56 | 100.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/ka.po | 
+ | [nl](/f40/language/nl) | 56 | 60 | 93.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/nl_NL.po | 
+ | [hu](/f40/language/hu) | 52 | 56 | 92.9 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/hu.po | 
+ | [it](/f40/language/it) | 44 | 60 | 73.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/it.po | 
+ | [ca](/f40/language/ca) | 33 | 60 | 55.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/ca.po | 
+ | [es](/f40/language/es) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/es_ES.po | 
+ | [fa](/f40/language/fa) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/fa.po | 
+ | [pt_BR](/f40/language/pt_BR) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/pt_BR.po | 
+ | [ru](/f40/language/ru) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/ru.po | 
+ | [tr](/f40/language/tr) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 26 | 60 | 43.3 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/zh_TW.po | 
+ | [de](/f40/language/de) | 21 | 60 | 35.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/de.po | 
+ | [en_CA](/f40/language/en_CA) | 21 | 60 | 35.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/en_CA.po | 
+ | [fr](/f40/language/fr) | 21 | 60 | 35.0 | /mnt/stockage/packages/f40/gnome-shell-extension-netspeed/locale/fr.po | 
 {.sortable}
 
 

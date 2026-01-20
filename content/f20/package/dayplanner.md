@@ -18,15 +18,15 @@ The package dayplanner (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1082 | 1096 | 98.7 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/nl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1082 | 1096 | 98.7 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/sv.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1070 | 1096 | 97.6 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/es.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 1024 | 1096 | 93.4 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/nn.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 691 | 1096 | 63.0 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/it.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 691 | 1096 | 63.0 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/nb.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 679 | 1096 | 62.0 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/de.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 224 | 1096 | 20.4 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/sk.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 74 | 1096 | 6.8 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/cs.po | 
+ | [nl](/f20/language/nl) | 1082 | 1096 | 98.7 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/nl.po | 
+ | [sv](/f20/language/sv) | 1082 | 1096 | 98.7 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/sv.po | 
+ | [es](/f20/language/es) | 1070 | 1096 | 97.6 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/es.po | 
+ | [nn](/f20/language/nn) | 1024 | 1096 | 93.4 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/nn.po | 
+ | [it](/f20/language/it) | 691 | 1096 | 63.0 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/it.po | 
+ | [nb_NO](/f20/language/nb_NO) | 691 | 1096 | 63.0 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/nb.po | 
+ | [de](/f20/language/de) | 679 | 1096 | 62.0 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/de.po | 
+ | [sk](/f20/language/sk) | 224 | 1096 | 20.4 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/sk.po | 
+ | [cs](/f20/language/cs) | 74 | 1096 | 6.8 | /mnt/stockage/packages/f20/dayplanner/dayplanner-0.11/po/cs.po | 
 {.sortable}
 
 

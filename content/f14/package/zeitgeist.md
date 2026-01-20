@@ -18,18 +18,18 @@ The package zeitgeist (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f14/zeitgeist/po/fi.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 52 | 66 | 78.8 | /mnt/stockage/packages/f14/zeitgeist/po/pt.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/fr.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/nb.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/pt_BR.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/sv.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/uk.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 14 | 66 | 21.2 | /mnt/stockage/packages/f14/zeitgeist/po/cs.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 9 | 66 | 13.6 | /mnt/stockage/packages/f14/zeitgeist/po/nn.po | 
+ | [fi](/f14/language/fi) | 66 | 66 | 100.0 | /mnt/stockage/packages/f14/zeitgeist/po/fi.po | 
+ | [pt](/f14/language/pt) | 52 | 66 | 78.8 | /mnt/stockage/packages/f14/zeitgeist/po/pt.po | 
+ | [ca](/f14/language/ca) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/ca.po | 
+ | [de](/f14/language/de) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/de.po | 
+ | [es](/f14/language/es) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/es.po | 
+ | [fr](/f14/language/fr) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/fr.po | 
+ | [nb_NO](/f14/language/nb_NO) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/nb.po | 
+ | [pt_BR](/f14/language/pt_BR) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/pt_BR.po | 
+ | [sv](/f14/language/sv) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/sv.po | 
+ | [uk](/f14/language/uk) | 37 | 66 | 56.1 | /mnt/stockage/packages/f14/zeitgeist/po/uk.po | 
+ | [cs](/f14/language/cs) | 14 | 66 | 21.2 | /mnt/stockage/packages/f14/zeitgeist/po/cs.po | 
+ | [nn](/f14/language/nn) | 9 | 66 | 13.6 | /mnt/stockage/packages/f14/zeitgeist/po/nn.po | 
 {.sortable}
 
 

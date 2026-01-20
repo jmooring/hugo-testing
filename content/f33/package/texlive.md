@@ -18,23 +18,23 @@ The package texlive (version 2020):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/fr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/ja.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/sr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/zh_TW.po | 
+ | [cs](/f33/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/cs.po | 
+ | [de](/f33/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/de.po | 
+ | [es](/f33/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/es.po | 
+ | [fr](/f33/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/fr.po | 
+ | [it](/f33/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/it.po | 
+ | [ja](/f33/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/ja.po | 
+ | [nl](/f33/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/nl.po | 
+ | [pl](/f33/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/pt_BR.po | 
+ | [ru](/f33/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/ru.po | 
+ | [sk](/f33/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/sk.po | 
+ | [sl](/f33/language/sl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/sl.po | 
+ | [sr](/f33/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/sr.po | 
+ | [uk](/f33/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/uk.po | 
+ | [vi](/f33/language/vi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/texlive/translations/zh_TW.po | 
 {.sortable}
 
 

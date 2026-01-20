@@ -18,7 +18,7 @@ The package mingw-spice-gtk (version 0.30):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f23/mingw-spice-gtk/po/fr.po | 
+ | [fr](/f23/language/fr) | 140 | 140 | 100.0 | /mnt/stockage/packages/f23/mingw-spice-gtk/po/fr.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [midori]({{< ref "/f23/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f23/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [deluge]({{< ref "/f23/package/deluge.md" >}}) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
- | [vidalia]({{< ref "/f23/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [midori](/f23/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f23/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [deluge](/f23/package/deluge) | 82 | 2728 | 3.0 | Neapolitan <nap@li.org> | 
+ | [vidalia](/f23/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

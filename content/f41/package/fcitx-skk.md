@@ -18,16 +18,16 @@ The package fcitx-skk (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ca.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/de.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ko.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ru.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/tr.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/zh_TW.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 6 | 84 | 7.1 | /mnt/stockage/packages/f41/fcitx-skk/po/vi.po | 
+ | [ca](/f41/language/ca) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ca.po | 
+ | [da](/f41/language/da) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/da.po | 
+ | [de](/f41/language/de) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/de.po | 
+ | [ja](/f41/language/ja) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ja.po | 
+ | [ko](/f41/language/ko) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ko.po | 
+ | [ru](/f41/language/ru) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/ru.po | 
+ | [tr](/f41/language/tr) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/tr.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 84 | 84 | 100.0 | /mnt/stockage/packages/f41/fcitx-skk/po/zh_TW.po | 
+ | [vi](/f41/language/vi) | 6 | 84 | 7.1 | /mnt/stockage/packages/f41/fcitx-skk/po/vi.po | 
 {.sortable}
 
 

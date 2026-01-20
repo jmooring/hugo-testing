@@ -18,13 +18,13 @@ The package flumotion (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 3680 | 3680 | 100.0 | /mnt/stockage/packages/f13/flumotion/po/ca.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 3680 | 3680 | 100.0 | /mnt/stockage/packages/f13/flumotion/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 3352 | 3690 | 90.8 | /mnt/stockage/packages/f13/flumotion/po/fr.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1772 | 3391 | 52.3 | /mnt/stockage/packages/f13/flumotion/po/sv.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1641 | 3653 | 44.9 | /mnt/stockage/packages/f13/flumotion/po/nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 488 | 3391 | 14.4 | /mnt/stockage/packages/f13/flumotion/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 255 | 3467 | 7.4 | /mnt/stockage/packages/f13/flumotion/po/nb.po | 
+ | [ca](/f13/language/ca) | 3680 | 3680 | 100.0 | /mnt/stockage/packages/f13/flumotion/po/ca.po | 
+ | [es](/f13/language/es) | 3680 | 3680 | 100.0 | /mnt/stockage/packages/f13/flumotion/po/es.po | 
+ | [fr](/f13/language/fr) | 3352 | 3690 | 90.8 | /mnt/stockage/packages/f13/flumotion/po/fr.po | 
+ | [sv](/f13/language/sv) | 1772 | 3391 | 52.3 | /mnt/stockage/packages/f13/flumotion/po/sv.po | 
+ | [nl](/f13/language/nl) | 1641 | 3653 | 44.9 | /mnt/stockage/packages/f13/flumotion/po/nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 488 | 3391 | 14.4 | /mnt/stockage/packages/f13/flumotion/po/pt_BR.po | 
+ | [nb_NO](/f13/language/nb_NO) | 255 | 3467 | 7.4 | /mnt/stockage/packages/f13/flumotion/po/nb.po | 
 {.sortable}
 
 

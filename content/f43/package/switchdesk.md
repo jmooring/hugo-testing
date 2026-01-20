@@ -18,75 +18,75 @@ The package switchdesk (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f43/switchdesk/po/de.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 114 | 122 | 93.4 | /mnt/stockage/packages/f43/switchdesk/po/ar.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 104 | 122 | 85.2 | /mnt/stockage/packages/f43/switchdesk/po/zh_CN.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 102 | 122 | 83.6 | /mnt/stockage/packages/f43/switchdesk/po/as.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 102 | 122 | 83.6 | /mnt/stockage/packages/f43/switchdesk/po/ja.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 102 | 122 | 83.6 | /mnt/stockage/packages/f43/switchdesk/po/ko.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 101 | 122 | 82.8 | /mnt/stockage/packages/f43/switchdesk/po/fr.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 99 | 122 | 81.1 | /mnt/stockage/packages/f43/switchdesk/po/vi.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 93 | 122 | 76.2 | /mnt/stockage/packages/f43/switchdesk/po/zh_TW.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/bn.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/ca.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/cy.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/et.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/pt.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/sl.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/bg.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/bn_IN.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/bs.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/da.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/es.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/fi.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/gl.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/gu.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/hi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/id.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/is.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/it.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ka.po | 
- | [kn]({{< ref "/f43/language/kn.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/kn.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/lv.po | 
- | [mai]({{< ref "/f43/language/mai.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/mai.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/mk.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ml.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/mr.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ms.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/nb.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/or.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/pa.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/sk.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/sv.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ta.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/te.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/uk.po | 
- | [ilo]({{< ref "/f43/language/ilo.md" >}}) | 10 | 122 | 8.2 | /mnt/stockage/packages/f43/switchdesk/po/ilo.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 3 | 122 | 2.5 | /mnt/stockage/packages/f43/switchdesk/po/nn.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/eu_ES.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/hy.po | 
- | [ku]({{< ref "/f43/language/ku.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/ku.po | 
- | [lo]({{< ref "/f43/language/lo.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/lo.po | 
- | [my]({{< ref "/f43/language/my.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/my.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/si.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/sq.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/ur.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/wa.po | 
+ | [de](/f43/language/de) | 122 | 122 | 100.0 | /mnt/stockage/packages/f43/switchdesk/po/de.po | 
+ | [ar](/f43/language/ar) | 114 | 122 | 93.4 | /mnt/stockage/packages/f43/switchdesk/po/ar.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 104 | 122 | 85.2 | /mnt/stockage/packages/f43/switchdesk/po/zh_CN.po | 
+ | [as](/f43/language/as) | 102 | 122 | 83.6 | /mnt/stockage/packages/f43/switchdesk/po/as.po | 
+ | [ja](/f43/language/ja) | 102 | 122 | 83.6 | /mnt/stockage/packages/f43/switchdesk/po/ja.po | 
+ | [ko](/f43/language/ko) | 102 | 122 | 83.6 | /mnt/stockage/packages/f43/switchdesk/po/ko.po | 
+ | [fr](/f43/language/fr) | 101 | 122 | 82.8 | /mnt/stockage/packages/f43/switchdesk/po/fr.po | 
+ | [vi](/f43/language/vi) | 99 | 122 | 81.1 | /mnt/stockage/packages/f43/switchdesk/po/vi.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 93 | 122 | 76.2 | /mnt/stockage/packages/f43/switchdesk/po/zh_TW.po | 
+ | [bn](/f43/language/bn) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/bn.po | 
+ | [ca](/f43/language/ca) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/ca.po | 
+ | [cy](/f43/language/cy) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/cy.po | 
+ | [et](/f43/language/et) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/et.po | 
+ | [nl](/f43/language/nl) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/nl.po | 
+ | [pt](/f43/language/pt) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/pt.po | 
+ | [sl](/f43/language/sl) | 17 | 122 | 13.9 | /mnt/stockage/packages/f43/switchdesk/po/sl.po | 
+ | [be](/f43/language/be) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/be.po | 
+ | [bg](/f43/language/bg) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/bg.po | 
+ | [bn_IN](/f43/language/bn_IN) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/bn_IN.po | 
+ | [bs](/f43/language/bs) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/bs.po | 
+ | [cs](/f43/language/cs) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/cs.po | 
+ | [da](/f43/language/da) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/da.po | 
+ | [el](/f43/language/el) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/en_GB.po | 
+ | [es](/f43/language/es) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/es.po | 
+ | [fi](/f43/language/fi) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/fi.po | 
+ | [gl](/f43/language/gl) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/gl.po | 
+ | [gu](/f43/language/gu) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/gu.po | 
+ | [he](/f43/language/he) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/he.po | 
+ | [hi](/f43/language/hi) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/hi.po | 
+ | [hr](/f43/language/hr) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/hr.po | 
+ | [hu](/f43/language/hu) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/hu.po | 
+ | [id](/f43/language/id) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/id.po | 
+ | [is](/f43/language/is) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/is.po | 
+ | [it](/f43/language/it) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/it.po | 
+ | [ka](/f43/language/ka) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ka.po | 
+ | [kn](/f43/language/kn) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/kn.po | 
+ | [lt](/f43/language/lt) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/lt.po | 
+ | [lv](/f43/language/lv) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/lv.po | 
+ | [mai](/f43/language/mai) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/mai.po | 
+ | [mk](/f43/language/mk) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/mk.po | 
+ | [ml](/f43/language/ml) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ml.po | 
+ | [mr](/f43/language/mr) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/mr.po | 
+ | [ms](/f43/language/ms) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ms.po | 
+ | [nb_NO](/f43/language/nb_NO) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/nb.po | 
+ | [or](/f43/language/or) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/or.po | 
+ | [pa](/f43/language/pa) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/pa.po | 
+ | [pl](/f43/language/pl) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ro.po | 
+ | [ru](/f43/language/ru) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ru.po | 
+ | [sk](/f43/language/sk) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/sk.po | 
+ | [sr](/f43/language/sr) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/sr.po | 
+ | [sv](/f43/language/sv) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/sv.po | 
+ | [ta](/f43/language/ta) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/ta.po | 
+ | [te](/f43/language/te) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/te.po | 
+ | [tr](/f43/language/tr) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/tr.po | 
+ | [uk](/f43/language/uk) | 16 | 122 | 13.1 | /mnt/stockage/packages/f43/switchdesk/po/uk.po | 
+ | [ilo](/f43/language/ilo) | 10 | 122 | 8.2 | /mnt/stockage/packages/f43/switchdesk/po/ilo.po | 
+ | [nn](/f43/language/nn) | 3 | 122 | 2.5 | /mnt/stockage/packages/f43/switchdesk/po/nn.po | 
+ | [eu](/f43/language/eu) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/eu_ES.po | 
+ | [hy](/f43/language/hy) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/hy.po | 
+ | [ku](/f43/language/ku) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/ku.po | 
+ | [lo](/f43/language/lo) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/lo.po | 
+ | [my](/f43/language/my) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/my.po | 
+ | [si](/f43/language/si) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/si.po | 
+ | [sq](/f43/language/sq) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/sq.po | 
+ | [ur](/f43/language/ur) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/ur.po | 
+ | [wa](/f43/language/wa) | 0 | 122 | 0.0 | /mnt/stockage/packages/f43/switchdesk/po/wa.po | 
 {.sortable}
 
 

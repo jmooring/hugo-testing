@@ -18,42 +18,42 @@ The package gnome-applet-alarm-clock (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ast.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/he.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/hu.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/nb.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ru.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/zh_TW.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 392 | 417 | 94.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ka.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 391 | 417 | 93.8 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/pl.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ar.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/be.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ca.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/de.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ms.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 364 | 417 | 87.3 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ja.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 296 | 417 | 71.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/nl.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 285 | 417 | 68.3 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/id.po | 
- | [fo]({{< ref "/f16/language/fo.md" >}}) | 249 | 417 | 59.7 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/fo.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 191 | 417 | 45.8 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/hi.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 190 | 417 | 45.6 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/fi.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 165 | 417 | 39.6 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/nn.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 101 | 417 | 24.2 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/et.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 89 | 417 | 21.3 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/bg.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 73 | 417 | 17.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/cs.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 48 | 417 | 11.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/pt.po | 
- | [la]({{< ref "/f16/language/la.md" >}}) | 25 | 417 | 6.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/la.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 0 | 417 | 0.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/it.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 0 | 417 | 0.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/si.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 0 | 417 | 0.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/sv.po | 
+ | [ast](/f16/language/ast) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ast.po | 
+ | [es](/f16/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/es.po | 
+ | [fr](/f16/language/fr) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/fr.po | 
+ | [gl](/f16/language/gl) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/gl.po | 
+ | [he](/f16/language/he) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/he.po | 
+ | [hu](/f16/language/hu) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/hu.po | 
+ | [nb_NO](/f16/language/nb_NO) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/nb.po | 
+ | [pt_BR](/f16/language/pt_BR) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ru.po | 
+ | [tr](/f16/language/tr) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/tr.po | 
+ | [uk](/f16/language/uk) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 417 | 417 | 100.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/zh_TW.po | 
+ | [ka](/f16/language/ka) | 392 | 417 | 94.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ka.po | 
+ | [pl](/f16/language/pl) | 391 | 417 | 93.8 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/pl.po | 
+ | [ar](/f16/language/ar) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ar.po | 
+ | [be](/f16/language/be) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/be.po | 
+ | [ca](/f16/language/ca) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ca.po | 
+ | [da](/f16/language/da) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/da.po | 
+ | [de](/f16/language/de) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/de.po | 
+ | [ms](/f16/language/ms) | 390 | 417 | 93.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ms.po | 
+ | [ja](/f16/language/ja) | 364 | 417 | 87.3 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/ja.po | 
+ | [nl](/f16/language/nl) | 296 | 417 | 71.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/nl.po | 
+ | [id](/f16/language/id) | 285 | 417 | 68.3 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/id.po | 
+ | [fo](/f16/language/fo) | 249 | 417 | 59.7 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/fo.po | 
+ | [hi](/f16/language/hi) | 191 | 417 | 45.8 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/hi.po | 
+ | [fi](/f16/language/fi) | 190 | 417 | 45.6 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/fi.po | 
+ | [nn](/f16/language/nn) | 165 | 417 | 39.6 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/nn.po | 
+ | [et](/f16/language/et) | 101 | 417 | 24.2 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/et.po | 
+ | [bg](/f16/language/bg) | 89 | 417 | 21.3 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/bg.po | 
+ | [cs](/f16/language/cs) | 73 | 417 | 17.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/cs.po | 
+ | [pt](/f16/language/pt) | 48 | 417 | 11.5 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/pt.po | 
+ | [la](/f16/language/la) | 25 | 417 | 6.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/la.po | 
+ | [it](/f16/language/it) | 0 | 417 | 0.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/it.po | 
+ | [si](/f16/language/si) | 0 | 417 | 0.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/si.po | 
+ | [sv](/f16/language/sv) | 0 | 417 | 0.0 | /mnt/stockage/packages/f16/gnome-applet-alarm-clock/po/sv.po | 
 {.sortable}
 
 

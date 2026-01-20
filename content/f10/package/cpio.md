@@ -18,25 +18,25 @@ The package cpio (version 2.9.90):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 1337 | 1913 | 69.9 | /mnt/stockage/packages/f10/cpio/po/uk.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/ga.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/pl.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/tr.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/vi.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 873 | 1913 | 45.6 | /mnt/stockage/packages/f10/cpio/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 873 | 1913 | 45.6 | /mnt/stockage/packages/f10/cpio/po/fr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 873 | 1913 | 45.6 | /mnt/stockage/packages/f10/cpio/po/sv.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 866 | 1913 | 45.3 | /mnt/stockage/packages/f10/cpio/po/ru.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/de.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/gl.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/hu.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/ro.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 221 | 1913 | 11.6 | /mnt/stockage/packages/f10/cpio/po/ko.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 206 | 1913 | 10.8 | /mnt/stockage/packages/f10/cpio/po/zh_CN.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 1 | 1913 | 0.1 | /mnt/stockage/packages/f10/cpio/po/rw.po | 
+ | [uk](/f10/language/uk) | 1337 | 1913 | 69.9 | /mnt/stockage/packages/f10/cpio/po/uk.po | 
+ | [ga](/f10/language/ga) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/ga.po | 
+ | [nl](/f10/language/nl) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/nl.po | 
+ | [pl](/f10/language/pl) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/pl.po | 
+ | [tr](/f10/language/tr) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/tr.po | 
+ | [vi](/f10/language/vi) | 1210 | 1913 | 63.3 | /mnt/stockage/packages/f10/cpio/po/vi.po | 
+ | [es](/f10/language/es) | 873 | 1913 | 45.6 | /mnt/stockage/packages/f10/cpio/po/es.po | 
+ | [fr](/f10/language/fr) | 873 | 1913 | 45.6 | /mnt/stockage/packages/f10/cpio/po/fr.po | 
+ | [sv](/f10/language/sv) | 873 | 1913 | 45.6 | /mnt/stockage/packages/f10/cpio/po/sv.po | 
+ | [ru](/f10/language/ru) | 866 | 1913 | 45.3 | /mnt/stockage/packages/f10/cpio/po/ru.po | 
+ | [da](/f10/language/da) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/da.po | 
+ | [de](/f10/language/de) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/de.po | 
+ | [gl](/f10/language/gl) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/gl.po | 
+ | [hu](/f10/language/hu) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/hu.po | 
+ | [pt_BR](/f10/language/pt_BR) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 237 | 1913 | 12.4 | /mnt/stockage/packages/f10/cpio/po/ro.po | 
+ | [ko](/f10/language/ko) | 221 | 1913 | 11.6 | /mnt/stockage/packages/f10/cpio/po/ko.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 206 | 1913 | 10.8 | /mnt/stockage/packages/f10/cpio/po/zh_CN.po | 
+ | [rw](/f10/language/rw) | 1 | 1913 | 0.1 | /mnt/stockage/packages/f10/cpio/po/rw.po | 
 {.sortable}
 
 

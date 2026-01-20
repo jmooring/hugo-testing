@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 575 | 599 | 96.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 112 | 121 | 92.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 575 | 599 | 96.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 112 | 121 | 92.6 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package emelfm2 (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 5844 | 5888 | 99.3 | /mnt/stockage/packages/f8/emelfm2/po/fr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 5410 | 5512 | 98.1 | /mnt/stockage/packages/f8/emelfm2/po/de.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 5539 | 5710 | 97.0 | /mnt/stockage/packages/f8/emelfm2/po/ru.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 4121 | 5881 | 70.1 | /mnt/stockage/packages/f8/emelfm2/po/ja.po | 
+ | [fr](/f8/language/fr) | 5844 | 5888 | 99.3 | /mnt/stockage/packages/f8/emelfm2/po/fr.po | 
+ | [de](/f8/language/de) | 5410 | 5512 | 98.1 | /mnt/stockage/packages/f8/emelfm2/po/de.po | 
+ | [ru](/f8/language/ru) | 5539 | 5710 | 97.0 | /mnt/stockage/packages/f8/emelfm2/po/ru.po | 
+ | [ja](/f8/language/ja) | 4121 | 5881 | 70.1 | /mnt/stockage/packages/f8/emelfm2/po/ja.po | 
 {.sortable}
 
 

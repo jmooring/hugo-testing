@@ -18,25 +18,25 @@ The package lilypond (version 2.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f17/language/el.md" >}}) | 4081 | 4081 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/el.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 4766 | 4766 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/eo.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 2513 | 2513 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/fi.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 3515 | 3515 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/vi.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 12451 | 13072 | 95.2 | /mnt/stockage/packages/f17/lilypond/Documentation/po/es.po/mnt/stockage/packages/f17/lilypond/po/es.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 12128 | 12806 | 94.7 | /mnt/stockage/packages/f17/lilypond/Documentation/po/de.po/mnt/stockage/packages/f17/lilypond/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 11274 | 12166 | 92.7 | /mnt/stockage/packages/f17/lilypond/Documentation/po/fr.po/mnt/stockage/packages/f17/lilypond/po/fr.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 10757 | 12700 | 84.7 | /mnt/stockage/packages/f17/lilypond/Documentation/po/cs.po/mnt/stockage/packages/f17/lilypond/po/cs.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 4752 | 12784 | 37.2 | /mnt/stockage/packages/f17/lilypond/Documentation/po/it.po/mnt/stockage/packages/f17/lilypond/po/it.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 807 | 2414 | 33.4 | /mnt/stockage/packages/f17/lilypond/po/uk.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 734 | 2513 | 29.2 | /mnt/stockage/packages/f17/lilypond/po/zh_TW.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 631 | 2513 | 25.1 | /mnt/stockage/packages/f17/lilypond/po/tr.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 2902 | 12355 | 23.5 | /mnt/stockage/packages/f17/lilypond/Documentation/po/nl.po/mnt/stockage/packages/f17/lilypond/po/nl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 396 | 2513 | 15.8 | /mnt/stockage/packages/f17/lilypond/po/sv.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1370 | 12671 | 10.8 | /mnt/stockage/packages/f17/lilypond/Documentation/po/ja.po/mnt/stockage/packages/f17/lilypond/po/ja.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 226 | 2513 | 9.0 | /mnt/stockage/packages/f17/lilypond/po/da.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 548 | 8040 | 6.8 | /mnt/stockage/packages/f17/lilypond/Documentation/po/hu.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 470 | 8040 | 5.8 | /mnt/stockage/packages/f17/lilypond/Documentation/po/zh.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 143 | 2513 | 5.7 | /mnt/stockage/packages/f17/lilypond/po/ru.po | 
+ | [el](/f17/language/el) | 4081 | 4081 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/el.po | 
+ | [eo](/f17/language/eo) | 4766 | 4766 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/eo.po | 
+ | [fi](/f17/language/fi) | 2513 | 2513 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/fi.po | 
+ | [vi](/f17/language/vi) | 3515 | 3515 | 100.0 | /mnt/stockage/packages/f17/lilypond/po/vi.po | 
+ | [es](/f17/language/es) | 12451 | 13072 | 95.2 | /mnt/stockage/packages/f17/lilypond/Documentation/po/es.po/mnt/stockage/packages/f17/lilypond/po/es.po | 
+ | [de](/f17/language/de) | 12128 | 12806 | 94.7 | /mnt/stockage/packages/f17/lilypond/Documentation/po/de.po/mnt/stockage/packages/f17/lilypond/po/de.po | 
+ | [fr](/f17/language/fr) | 11274 | 12166 | 92.7 | /mnt/stockage/packages/f17/lilypond/Documentation/po/fr.po/mnt/stockage/packages/f17/lilypond/po/fr.po | 
+ | [cs](/f17/language/cs) | 10757 | 12700 | 84.7 | /mnt/stockage/packages/f17/lilypond/Documentation/po/cs.po/mnt/stockage/packages/f17/lilypond/po/cs.po | 
+ | [it](/f17/language/it) | 4752 | 12784 | 37.2 | /mnt/stockage/packages/f17/lilypond/Documentation/po/it.po/mnt/stockage/packages/f17/lilypond/po/it.po | 
+ | [uk](/f17/language/uk) | 807 | 2414 | 33.4 | /mnt/stockage/packages/f17/lilypond/po/uk.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 734 | 2513 | 29.2 | /mnt/stockage/packages/f17/lilypond/po/zh_TW.po | 
+ | [tr](/f17/language/tr) | 631 | 2513 | 25.1 | /mnt/stockage/packages/f17/lilypond/po/tr.po | 
+ | [nl](/f17/language/nl) | 2902 | 12355 | 23.5 | /mnt/stockage/packages/f17/lilypond/Documentation/po/nl.po/mnt/stockage/packages/f17/lilypond/po/nl.po | 
+ | [sv](/f17/language/sv) | 396 | 2513 | 15.8 | /mnt/stockage/packages/f17/lilypond/po/sv.po | 
+ | [ja](/f17/language/ja) | 1370 | 12671 | 10.8 | /mnt/stockage/packages/f17/lilypond/Documentation/po/ja.po/mnt/stockage/packages/f17/lilypond/po/ja.po | 
+ | [da](/f17/language/da) | 226 | 2513 | 9.0 | /mnt/stockage/packages/f17/lilypond/po/da.po | 
+ | [hu](/f17/language/hu) | 548 | 8040 | 6.8 | /mnt/stockage/packages/f17/lilypond/Documentation/po/hu.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 470 | 8040 | 5.8 | /mnt/stockage/packages/f17/lilypond/Documentation/po/zh.po | 
+ | [ru](/f17/language/ru) | 143 | 2513 | 5.7 | /mnt/stockage/packages/f17/lilypond/po/ru.po | 
 {.sortable}
 
 

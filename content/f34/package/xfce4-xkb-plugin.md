@@ -18,62 +18,62 @@ The package xfce4-xkb-plugin (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f34/language/be.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/bg.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/el.po | 
- | [en_AU]({{< ref "/f34/language/en_AU.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/en_AU.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/en_CA.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/es.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/et.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/gl.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/he.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hu.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hy_AM.po/mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hye.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/id.po | 
- | [ie]({{< ref "/f34/language/ie.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ie.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/is.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ja.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/kk.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ko.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/lt.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sl.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sq.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sv.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/th.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/zh_TW.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 37 | 57 | 64.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ka.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 35 | 57 | 61.4 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ar.po | 
- | [oc]({{< ref "/f34/language/oc.md" >}}) | 35 | 57 | 61.4 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/oc.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 34 | 57 | 59.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/eu.po | 
- | [uz]({{< ref "/f34/language/uz.md" >}}) | 34 | 57 | 59.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/uz.po | 
- | [uz_Latn]({{< ref "/f34/language/uz_Latn.md" >}}) | 34 | 57 | 59.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/uz@Latn.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/en_GB.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/lv.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ro.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ug.po | 
- | [ur]({{< ref "/f34/language/ur.md" >}}) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f34/language/ur_PK.md" >}}) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ur_PK.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 26 | 57 | 45.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ast.po | 
+ | [be](/f34/language/be) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/be.po | 
+ | [bg](/f34/language/bg) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/bg.po | 
+ | [ca](/f34/language/ca) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ca.po | 
+ | [cs](/f34/language/cs) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/cs.po | 
+ | [da](/f34/language/da) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/da.po | 
+ | [de](/f34/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/de.po | 
+ | [el](/f34/language/el) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/el.po | 
+ | [en_AU](/f34/language/en_AU) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/en_AU.po | 
+ | [en_CA](/f34/language/en_CA) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/en_CA.po | 
+ | [es](/f34/language/es) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/es.po | 
+ | [et](/f34/language/et) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/et.po | 
+ | [fi](/f34/language/fi) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/fi.po | 
+ | [fr](/f34/language/fr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/fr.po | 
+ | [gl](/f34/language/gl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/gl.po | 
+ | [he](/f34/language/he) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/he.po | 
+ | [hr](/f34/language/hr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hr.po | 
+ | [hu](/f34/language/hu) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hu.po | 
+ | [hy](/f34/language/hy) | 114 | 114 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hy_AM.po/mnt/stockage/packages/f34/xfce4-xkb-plugin/po/hye.po | 
+ | [id](/f34/language/id) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/id.po | 
+ | [ie](/f34/language/ie) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ie.po | 
+ | [is](/f34/language/is) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/is.po | 
+ | [it](/f34/language/it) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/it.po | 
+ | [ja](/f34/language/ja) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ja.po | 
+ | [kk](/f34/language/kk) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/kk.po | 
+ | [ko](/f34/language/ko) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ko.po | 
+ | [lt](/f34/language/lt) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/lt.po | 
+ | [ms](/f34/language/ms) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ms.po | 
+ | [nb_NO](/f34/language/nb_NO) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/nb.po | 
+ | [nl](/f34/language/nl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/nl.po | 
+ | [pl](/f34/language/pl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/pl.po | 
+ | [pt](/f34/language/pt) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ru.po | 
+ | [sk](/f34/language/sk) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sk.po | 
+ | [sl](/f34/language/sl) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sl.po | 
+ | [sq](/f34/language/sq) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sq.po | 
+ | [sr](/f34/language/sr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sr.po | 
+ | [sv](/f34/language/sv) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/sv.po | 
+ | [th](/f34/language/th) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/th.po | 
+ | [tr](/f34/language/tr) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/tr.po | 
+ | [uk](/f34/language/uk) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/uk.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 57 | 57 | 100.0 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/zh_TW.po | 
+ | [ka](/f34/language/ka) | 37 | 57 | 64.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ka.po | 
+ | [ar](/f34/language/ar) | 35 | 57 | 61.4 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ar.po | 
+ | [oc](/f34/language/oc) | 35 | 57 | 61.4 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/oc.po | 
+ | [eu](/f34/language/eu) | 34 | 57 | 59.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/eu.po | 
+ | [uz](/f34/language/uz) | 34 | 57 | 59.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/uz.po | 
+ | [uz_Latn](/f34/language/uz_Latn) | 34 | 57 | 59.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/uz@Latn.po | 
+ | [en_GB](/f34/language/en_GB) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/en_GB.po | 
+ | [lv](/f34/language/lv) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/lv.po | 
+ | [ro](/f34/language/ro) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ro.po | 
+ | [ug](/f34/language/ug) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ug.po | 
+ | [ur](/f34/language/ur) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ur.po | 
+ | [ur_PK](/f34/language/ur_PK) | 33 | 57 | 57.9 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ur_PK.po | 
+ | [ast](/f34/language/ast) | 26 | 57 | 45.6 | /mnt/stockage/packages/f34/xfce4-xkb-plugin/po/ast.po | 
 {.sortable}
 
 

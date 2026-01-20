@@ -18,10 +18,10 @@ The package scmxx (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f8/scmxx/po/de.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1270 | 1691 | 75.1 | /mnt/stockage/packages/f8/scmxx/po/it.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 972 | 1691 | 57.5 | /mnt/stockage/packages/f8/scmxx/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 235 | 1691 | 13.9 | /mnt/stockage/packages/f8/scmxx/po/ru.po | 
+ | [de](/f8/language/de) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f8/scmxx/po/de.po | 
+ | [it](/f8/language/it) | 1270 | 1691 | 75.1 | /mnt/stockage/packages/f8/scmxx/po/it.po | 
+ | [fr](/f8/language/fr) | 972 | 1691 | 57.5 | /mnt/stockage/packages/f8/scmxx/po/fr.po | 
+ | [ru](/f8/language/ru) | 235 | 1691 | 13.9 | /mnt/stockage/packages/f8/scmxx/po/ru.po | 
 {.sortable}
 
 

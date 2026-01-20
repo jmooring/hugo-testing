@@ -40,7 +40,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iok]({{< ref "/f29/package/iok.md" >}}) | 137 | 206 | 66.5 | Bhojpuri <LL@li.org> | 
+ | [iok](/f29/package/iok) | 137 | 206 | 66.5 | Bhojpuri <LL@li.org> | 
 {.sortable}
 
 

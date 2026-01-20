@@ -18,67 +18,67 @@ The package garcon (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f32/language/am.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/am.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/bg.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/cs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/cy.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/el.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/en_AU.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/en_GB.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f32/garcon/po/hy_AM.po/mnt/stockage/packages/f32/garcon/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/id.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ie.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/is.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ko.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/nl.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/nn.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/uk.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/zh_TW.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/ar.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/ast.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/et.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/oc.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/te.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/ug.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/uz.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/zh_HK.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 107 | 122 | 87.7 | /mnt/stockage/packages/f32/garcon/po/eo.po | 
- | [uz_Latn]({{< ref "/f32/language/uz_Latn.md" >}}) | 106 | 122 | 86.9 | /mnt/stockage/packages/f32/garcon/po/uz@Latn.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 99 | 122 | 81.1 | /mnt/stockage/packages/f32/garcon/po/bn.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 43 | 122 | 35.2 | /mnt/stockage/packages/f32/garcon/po/hi.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 17 | 89 | 19.1 | /mnt/stockage/packages/f32/garcon/po/lv.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 17 | 89 | 19.1 | /mnt/stockage/packages/f32/garcon/po/pa.po | 
+ | [am](/f32/language/am) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/am.po | 
+ | [be](/f32/language/be) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/be.po | 
+ | [bg](/f32/language/bg) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/bg.po | 
+ | [ca](/f32/language/ca) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ca.po | 
+ | [cs](/f32/language/cs) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/cs.po | 
+ | [cy](/f32/language/cy) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/cy.po | 
+ | [da](/f32/language/da) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/da.po | 
+ | [de](/f32/language/de) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/de.po | 
+ | [el](/f32/language/el) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/el.po | 
+ | [en_AU](/f32/language/en_AU) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/en_AU.po | 
+ | [en_GB](/f32/language/en_GB) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/en_GB.po | 
+ | [es](/f32/language/es) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/es.po | 
+ | [eu](/f32/language/eu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/eu.po | 
+ | [fi](/f32/language/fi) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/fi.po | 
+ | [fr](/f32/language/fr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/fr.po | 
+ | [gl](/f32/language/gl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/gl.po | 
+ | [he](/f32/language/he) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/he.po | 
+ | [hr](/f32/language/hr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/hr.po | 
+ | [hu](/f32/language/hu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/hu.po | 
+ | [hy](/f32/language/hy) | 244 | 244 | 100.0 | /mnt/stockage/packages/f32/garcon/po/hy_AM.po/mnt/stockage/packages/f32/garcon/po/hy.po | 
+ | [id](/f32/language/id) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/id.po | 
+ | [ie](/f32/language/ie) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ie.po | 
+ | [is](/f32/language/is) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/is.po | 
+ | [it](/f32/language/it) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/it.po | 
+ | [ja](/f32/language/ja) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ja.po | 
+ | [kk](/f32/language/kk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/kk.po | 
+ | [ko](/f32/language/ko) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ko.po | 
+ | [lt](/f32/language/lt) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/lt.po | 
+ | [ms](/f32/language/ms) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/nb.po | 
+ | [nl](/f32/language/nl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/nl.po | 
+ | [nn](/f32/language/nn) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/nn.po | 
+ | [pl](/f32/language/pl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/pl.po | 
+ | [pt](/f32/language/pt) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ro.po | 
+ | [ru](/f32/language/ru) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/ru.po | 
+ | [sk](/f32/language/sk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sk.po | 
+ | [sl](/f32/language/sl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sl.po | 
+ | [sq](/f32/language/sq) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sq.po | 
+ | [sr](/f32/language/sr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sr.po | 
+ | [sv](/f32/language/sv) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/sv.po | 
+ | [th](/f32/language/th) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/th.po | 
+ | [tr](/f32/language/tr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/tr.po | 
+ | [uk](/f32/language/uk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/uk.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 122 | 122 | 100.0 | /mnt/stockage/packages/f32/garcon/po/zh_TW.po | 
+ | [ar](/f32/language/ar) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/ar.po | 
+ | [ast](/f32/language/ast) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/ast.po | 
+ | [et](/f32/language/et) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/et.po | 
+ | [oc](/f32/language/oc) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/oc.po | 
+ | [te](/f32/language/te) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/te.po | 
+ | [ug](/f32/language/ug) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/ug.po | 
+ | [uz](/f32/language/uz) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/uz.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 109 | 122 | 89.3 | /mnt/stockage/packages/f32/garcon/po/zh_HK.po | 
+ | [eo](/f32/language/eo) | 107 | 122 | 87.7 | /mnt/stockage/packages/f32/garcon/po/eo.po | 
+ | [uz_Latn](/f32/language/uz_Latn) | 106 | 122 | 86.9 | /mnt/stockage/packages/f32/garcon/po/uz@Latn.po | 
+ | [bn](/f32/language/bn) | 99 | 122 | 81.1 | /mnt/stockage/packages/f32/garcon/po/bn.po | 
+ | [hi](/f32/language/hi) | 43 | 122 | 35.2 | /mnt/stockage/packages/f32/garcon/po/hi.po | 
+ | [lv](/f32/language/lv) | 17 | 89 | 19.1 | /mnt/stockage/packages/f32/garcon/po/lv.po | 
+ | [pa](/f32/language/pa) | 17 | 89 | 19.1 | /mnt/stockage/packages/f32/garcon/po/pa.po | 
 {.sortable}
 
 

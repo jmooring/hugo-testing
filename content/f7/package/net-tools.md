@@ -18,11 +18,11 @@ The package net-tools (version 1.60):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f7/language/et.md" >}}) | 2439 | 2439 | 100.0 | /mnt/stockage/packages/f7/net-tools/po/et_EE.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2228 | 2228 | 100.0 | /mnt/stockage/packages/f7/net-tools/po/pt_BR.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2171 | 2228 | 97.4 | /mnt/stockage/packages/f7/net-tools/po/de.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 2123 | 2228 | 95.3 | /mnt/stockage/packages/f7/net-tools/po/cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1862 | 2228 | 83.6 | /mnt/stockage/packages/f7/net-tools/po/fr.po | 
+ | [et](/f7/language/et) | 2439 | 2439 | 100.0 | /mnt/stockage/packages/f7/net-tools/po/et_EE.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2228 | 2228 | 100.0 | /mnt/stockage/packages/f7/net-tools/po/pt_BR.po | 
+ | [de](/f7/language/de) | 2171 | 2228 | 97.4 | /mnt/stockage/packages/f7/net-tools/po/de.po | 
+ | [cs](/f7/language/cs) | 2123 | 2228 | 95.3 | /mnt/stockage/packages/f7/net-tools/po/cs.po | 
+ | [fr](/f7/language/fr) | 1862 | 2228 | 83.6 | /mnt/stockage/packages/f7/net-tools/po/fr.po | 
 {.sortable}
 
 

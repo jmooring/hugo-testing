@@ -18,32 +18,32 @@ The package LabPlot (version 1.6.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 16684 | 16684 | 100.0 | /mnt/stockage/packages/f14/LabPlot/doc/de/doc.po/mnt/stockage/packages/f14/LabPlot/po/de.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 16716 | 16716 | 100.0 | /mnt/stockage/packages/f14/LabPlot/doc/sv/doc.po/mnt/stockage/packages/f14/LabPlot/po/sv.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 3007 | 3250 | 92.5 | /mnt/stockage/packages/f14/LabPlot/po/zh.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2932 | 3250 | 90.2 | /mnt/stockage/packages/f14/LabPlot/po/es.po | 
- | [br]({{< ref "/f14/language/br.md" >}}) | 14953 | 16684 | 89.6 | /mnt/stockage/packages/f14/LabPlot/doc/br/doc.po/mnt/stockage/packages/f14/LabPlot/po/br.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 14953 | 16684 | 89.6 | /mnt/stockage/packages/f14/LabPlot/doc/nl/doc.po/mnt/stockage/packages/f14/LabPlot/po/nl.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 14891 | 16684 | 89.3 | /mnt/stockage/packages/f14/LabPlot/doc/fr/doc.po/mnt/stockage/packages/f14/LabPlot/po/fr.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1552 | 3250 | 47.8 | /mnt/stockage/packages/f14/LabPlot/po/ru.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 1490 | 3250 | 45.8 | /mnt/stockage/packages/f14/LabPlot/po/lt.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 2970 | 16684 | 17.8 | /mnt/stockage/packages/f14/LabPlot/doc/it/doc.po/mnt/stockage/packages/f14/LabPlot/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 2369 | 16684 | 14.2 | /mnt/stockage/packages/f14/LabPlot/doc/pl/doc.po/mnt/stockage/packages/f14/LabPlot/po/pl.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/cs.po | 
- | [cy]({{< ref "/f14/language/cy.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/cy.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/da.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 0 | 3273 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/custom.po/mnt/stockage/packages/f14/LabPlot/po/messages.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/et.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ga.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/is.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ja.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/pt.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ro.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/sr.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ta.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/uk.po | 
+ | [de](/f14/language/de) | 16684 | 16684 | 100.0 | /mnt/stockage/packages/f14/LabPlot/doc/de/doc.po/mnt/stockage/packages/f14/LabPlot/po/de.po | 
+ | [sv](/f14/language/sv) | 16716 | 16716 | 100.0 | /mnt/stockage/packages/f14/LabPlot/doc/sv/doc.po/mnt/stockage/packages/f14/LabPlot/po/sv.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 3007 | 3250 | 92.5 | /mnt/stockage/packages/f14/LabPlot/po/zh.po | 
+ | [es](/f14/language/es) | 2932 | 3250 | 90.2 | /mnt/stockage/packages/f14/LabPlot/po/es.po | 
+ | [br](/f14/language/br) | 14953 | 16684 | 89.6 | /mnt/stockage/packages/f14/LabPlot/doc/br/doc.po/mnt/stockage/packages/f14/LabPlot/po/br.po | 
+ | [nl](/f14/language/nl) | 14953 | 16684 | 89.6 | /mnt/stockage/packages/f14/LabPlot/doc/nl/doc.po/mnt/stockage/packages/f14/LabPlot/po/nl.po | 
+ | [fr](/f14/language/fr) | 14891 | 16684 | 89.3 | /mnt/stockage/packages/f14/LabPlot/doc/fr/doc.po/mnt/stockage/packages/f14/LabPlot/po/fr.po | 
+ | [ru](/f14/language/ru) | 1552 | 3250 | 47.8 | /mnt/stockage/packages/f14/LabPlot/po/ru.po | 
+ | [lt](/f14/language/lt) | 1490 | 3250 | 45.8 | /mnt/stockage/packages/f14/LabPlot/po/lt.po | 
+ | [it](/f14/language/it) | 2970 | 16684 | 17.8 | /mnt/stockage/packages/f14/LabPlot/doc/it/doc.po/mnt/stockage/packages/f14/LabPlot/po/it.po | 
+ | [pl](/f14/language/pl) | 2369 | 16684 | 14.2 | /mnt/stockage/packages/f14/LabPlot/doc/pl/doc.po/mnt/stockage/packages/f14/LabPlot/po/pl.po | 
+ | [ca](/f14/language/ca) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ca.po | 
+ | [cs](/f14/language/cs) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/cs.po | 
+ | [cy](/f14/language/cy) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/cy.po | 
+ | [da](/f14/language/da) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/da.po | 
+ | [error](/f14/language/error) | 0 | 3273 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/custom.po/mnt/stockage/packages/f14/LabPlot/po/messages.po | 
+ | [et](/f14/language/et) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/et.po | 
+ | [ga](/f14/language/ga) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ga.po | 
+ | [is](/f14/language/is) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/is.po | 
+ | [ja](/f14/language/ja) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ja.po | 
+ | [pt](/f14/language/pt) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/pt.po | 
+ | [ro](/f14/language/ro) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ro.po | 
+ | [sr](/f14/language/sr) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/sr.po | 
+ | [ta](/f14/language/ta) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/ta.po | 
+ | [tr](/f14/language/tr) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/tr.po | 
+ | [uk](/f14/language/uk) | 0 | 3250 | 0.0 | /mnt/stockage/packages/f14/LabPlot/po/uk.po | 
 {.sortable}
 
 

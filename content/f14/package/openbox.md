@@ -18,39 +18,39 @@ The package openbox (version 3.4.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/ca.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/de.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 1008 | 1008 | 100.0 | /mnt/stockage/packages/f14/openbox/po/en@quot.po/mnt/stockage/packages/f14/openbox/po/en@boldquot.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/et.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/ja.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/lv.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/nl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/pt_BR.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/sv.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/cs.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/eu.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/hr.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/lt.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/no.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/pl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/ru.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/zh_TW.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 397 | 504 | 78.8 | /mnt/stockage/packages/f14/openbox/po/sk.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 332 | 504 | 65.9 | /mnt/stockage/packages/f14/openbox/po/ar.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 332 | 504 | 65.9 | /mnt/stockage/packages/f14/openbox/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/ca.po | 
+ | [da](/f14/language/da) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/da.po | 
+ | [de](/f14/language/de) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/de.po | 
+ | [error](/f14/language/error) | 1008 | 1008 | 100.0 | /mnt/stockage/packages/f14/openbox/po/en@quot.po/mnt/stockage/packages/f14/openbox/po/en@boldquot.po | 
+ | [es](/f14/language/es) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/es.po | 
+ | [et](/f14/language/et) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/et.po | 
+ | [fi](/f14/language/fi) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/fi.po | 
+ | [fr](/f14/language/fr) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/fr.po | 
+ | [hu](/f14/language/hu) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/hu.po | 
+ | [it](/f14/language/it) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/it.po | 
+ | [ja](/f14/language/ja) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/ja.po | 
+ | [lv](/f14/language/lv) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/lv.po | 
+ | [nl](/f14/language/nl) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/nl.po | 
+ | [pt](/f14/language/pt) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/pt_BR.po | 
+ | [sr](/f14/language/sr) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 504 | 504 | 100.0 | /mnt/stockage/packages/f14/openbox/po/sv.po | 
+ | [cs](/f14/language/cs) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/cs.po | 
+ | [eu](/f14/language/eu) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/eu.po | 
+ | [hr](/f14/language/hr) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/hr.po | 
+ | [lt](/f14/language/lt) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/lt.po | 
+ | [nb_NO](/f14/language/nb_NO) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/no.po | 
+ | [pl](/f14/language/pl) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/pl.po | 
+ | [ru](/f14/language/ru) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/ru.po | 
+ | [tr](/f14/language/tr) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/tr.po | 
+ | [uk](/f14/language/uk) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/uk.po | 
+ | [vi](/f14/language/vi) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 474 | 504 | 94.0 | /mnt/stockage/packages/f14/openbox/po/zh_TW.po | 
+ | [sk](/f14/language/sk) | 397 | 504 | 78.8 | /mnt/stockage/packages/f14/openbox/po/sk.po | 
+ | [ar](/f14/language/ar) | 332 | 504 | 65.9 | /mnt/stockage/packages/f14/openbox/po/ar.po | 
+ | [bn_IN](/f14/language/bn_IN) | 332 | 504 | 65.9 | /mnt/stockage/packages/f14/openbox/po/bn_IN.po | 
 {.sortable}
 
 

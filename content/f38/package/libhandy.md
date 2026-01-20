@@ -18,35 +18,35 @@ The package libhandy (version 1.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 1351 | 1351 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/eu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/fr.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/id.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/ko.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/ru.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/sv.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/zh_CN.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 1384 | 1408 | 98.3 | /mnt/stockage/packages/f38/libhandy/po/fi.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 933 | 964 | 96.8 | /mnt/stockage/packages/f38/libhandy/po/ca.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 908 | 1119 | 81.1 | /mnt/stockage/packages/f38/libhandy/po/fur.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 1023 | 1408 | 72.7 | /mnt/stockage/packages/f38/libhandy/po/sl.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 487 | 1408 | 34.6 | /mnt/stockage/packages/f38/libhandy/po/cs.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 362 | 1408 | 25.7 | /mnt/stockage/packages/f38/libhandy/po/fa.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 336 | 1351 | 24.9 | /mnt/stockage/packages/f38/libhandy/po/oc.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 286 | 1374 | 20.8 | /mnt/stockage/packages/f38/libhandy/po/gl.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 75 | 1408 | 5.3 | /mnt/stockage/packages/f38/libhandy/po/tr.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 64 | 1408 | 4.5 | /mnt/stockage/packages/f38/libhandy/po/ka.po | 
+ | [de](/f38/language/de) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 1351 | 1351 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/en_GB.po | 
+ | [es](/f38/language/es) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/es.po | 
+ | [eu](/f38/language/eu) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/eu.po | 
+ | [fr](/f38/language/fr) | 964 | 964 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/fr.po | 
+ | [hr](/f38/language/hr) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/hr.po | 
+ | [hu](/f38/language/hu) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/hu.po | 
+ | [id](/f38/language/id) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/id.po | 
+ | [ko](/f38/language/ko) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/ko.po | 
+ | [nl](/f38/language/nl) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/nl.po | 
+ | [pl](/f38/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/pl.po | 
+ | [pt](/f38/language/pt) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/ro.po | 
+ | [ru](/f38/language/ru) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/ru.po | 
+ | [sr](/f38/language/sr) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/sr.po | 
+ | [sv](/f38/language/sv) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/sv.po | 
+ | [uk](/f38/language/uk) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f38/libhandy/po/zh_CN.po | 
+ | [fi](/f38/language/fi) | 1384 | 1408 | 98.3 | /mnt/stockage/packages/f38/libhandy/po/fi.po | 
+ | [ca](/f38/language/ca) | 933 | 964 | 96.8 | /mnt/stockage/packages/f38/libhandy/po/ca.po | 
+ | [fur](/f38/language/fur) | 908 | 1119 | 81.1 | /mnt/stockage/packages/f38/libhandy/po/fur.po | 
+ | [sl](/f38/language/sl) | 1023 | 1408 | 72.7 | /mnt/stockage/packages/f38/libhandy/po/sl.po | 
+ | [cs](/f38/language/cs) | 487 | 1408 | 34.6 | /mnt/stockage/packages/f38/libhandy/po/cs.po | 
+ | [fa](/f38/language/fa) | 362 | 1408 | 25.7 | /mnt/stockage/packages/f38/libhandy/po/fa.po | 
+ | [oc](/f38/language/oc) | 336 | 1351 | 24.9 | /mnt/stockage/packages/f38/libhandy/po/oc.po | 
+ | [gl](/f38/language/gl) | 286 | 1374 | 20.8 | /mnt/stockage/packages/f38/libhandy/po/gl.po | 
+ | [tr](/f38/language/tr) | 75 | 1408 | 5.3 | /mnt/stockage/packages/f38/libhandy/po/tr.po | 
+ | [ka](/f38/language/ka) | 64 | 1408 | 4.5 | /mnt/stockage/packages/f38/libhandy/po/ka.po | 
 {.sortable}
 
 

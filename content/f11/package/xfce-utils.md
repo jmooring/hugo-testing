@@ -18,64 +18,64 @@ The package xfce-utils (version 4.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/id.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/ja.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/nb.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/pt_BR.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/uk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/zh_CN.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 126 | 131 | 96.2 | /mnt/stockage/packages/f11/xfce-utils/po/be.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 126 | 131 | 96.2 | /mnt/stockage/packages/f11/xfce-utils/po/si.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 121 | 131 | 92.4 | /mnt/stockage/packages/f11/xfce-utils/po/gl.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 121 | 131 | 92.4 | /mnt/stockage/packages/f11/xfce-utils/po/nl.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/am.po | 
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/dz.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/en_GB.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/eo.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/he.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ko.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/lv.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/mk.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/pa.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ru.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ur.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/vi.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 112 | 131 | 85.5 | /mnt/stockage/packages/f11/xfce-utils/po/lt.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 109 | 131 | 83.2 | /mnt/stockage/packages/f11/xfce-utils/po/sq.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 109 | 131 | 83.2 | /mnt/stockage/packages/f11/xfce-utils/po/zh_TW.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 71 | 131 | 54.2 | /mnt/stockage/packages/f11/xfce-utils/po/et.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 71 | 131 | 54.2 | /mnt/stockage/packages/f11/xfce-utils/po/sk.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 63 | 131 | 48.1 | /mnt/stockage/packages/f11/xfce-utils/po/gu.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 61 | 131 | 46.6 | /mnt/stockage/packages/f11/xfce-utils/po/ar.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 27 | 131 | 20.6 | /mnt/stockage/packages/f11/xfce-utils/po/it.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 21 | 131 | 16.0 | /mnt/stockage/packages/f11/xfce-utils/po/ku.po | 
- | [af]({{< ref "/f11/language/af.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/af.po | 
- | [az]({{< ref "/f11/language/az.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/az.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/bn_IN.po | 
- | [es_MX]({{< ref "/f11/language/es_MX.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/es_MX.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/fa.po | 
- | [hy]({{< ref "/f11/language/hy.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/hy.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/mr.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 12 | 131 | 9.2 | /mnt/stockage/packages/f11/xfce-utils/po/bg.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 12 | 131 | 9.2 | /mnt/stockage/packages/f11/xfce-utils/po/hi.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 12 | 131 | 9.2 | /mnt/stockage/packages/f11/xfce-utils/po/ms.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 9 | 131 | 6.9 | /mnt/stockage/packages/f11/xfce-utils/po/ta.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 7 | 131 | 5.3 | /mnt/stockage/packages/f11/xfce-utils/po/ka.po | 
+ | [ca](/f11/language/ca) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/ca.po | 
+ | [cs](/f11/language/cs) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/cs.po | 
+ | [da](/f11/language/da) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/da.po | 
+ | [de](/f11/language/de) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/de.po | 
+ | [es](/f11/language/es) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/es.po | 
+ | [eu](/f11/language/eu) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/eu.po | 
+ | [fi](/f11/language/fi) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/fi.po | 
+ | [fr](/f11/language/fr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/fr.po | 
+ | [hu](/f11/language/hu) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/hu.po | 
+ | [id](/f11/language/id) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/id.po | 
+ | [ja](/f11/language/ja) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/ja.po | 
+ | [nb_NO](/f11/language/nb_NO) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/nb.po | 
+ | [pl](/f11/language/pl) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/pl.po | 
+ | [pt](/f11/language/pt) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/pt_BR.po | 
+ | [sv](/f11/language/sv) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/sv.po | 
+ | [tr](/f11/language/tr) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/tr.po | 
+ | [uk](/f11/language/uk) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/uk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 131 | 131 | 100.0 | /mnt/stockage/packages/f11/xfce-utils/po/zh_CN.po | 
+ | [be](/f11/language/be) | 126 | 131 | 96.2 | /mnt/stockage/packages/f11/xfce-utils/po/be.po | 
+ | [si](/f11/language/si) | 126 | 131 | 96.2 | /mnt/stockage/packages/f11/xfce-utils/po/si.po | 
+ | [gl](/f11/language/gl) | 121 | 131 | 92.4 | /mnt/stockage/packages/f11/xfce-utils/po/gl.po | 
+ | [nl](/f11/language/nl) | 121 | 131 | 92.4 | /mnt/stockage/packages/f11/xfce-utils/po/nl.po | 
+ | [am](/f11/language/am) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/am.po | 
+ | [dz](/f11/language/dz) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/dz.po | 
+ | [el](/f11/language/el) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/el.po | 
+ | [en_GB](/f11/language/en_GB) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/en_GB.po | 
+ | [eo](/f11/language/eo) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/eo.po | 
+ | [he](/f11/language/he) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/he.po | 
+ | [ko](/f11/language/ko) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ko.po | 
+ | [lv](/f11/language/lv) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/lv.po | 
+ | [mk](/f11/language/mk) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/mk.po | 
+ | [pa](/f11/language/pa) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/pa.po | 
+ | [ro](/f11/language/ro) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ro.po | 
+ | [ru](/f11/language/ru) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ru.po | 
+ | [ur](/f11/language/ur) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/ur.po | 
+ | [vi](/f11/language/vi) | 114 | 131 | 87.0 | /mnt/stockage/packages/f11/xfce-utils/po/vi.po | 
+ | [lt](/f11/language/lt) | 112 | 131 | 85.5 | /mnt/stockage/packages/f11/xfce-utils/po/lt.po | 
+ | [sq](/f11/language/sq) | 109 | 131 | 83.2 | /mnt/stockage/packages/f11/xfce-utils/po/sq.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 109 | 131 | 83.2 | /mnt/stockage/packages/f11/xfce-utils/po/zh_TW.po | 
+ | [et](/f11/language/et) | 71 | 131 | 54.2 | /mnt/stockage/packages/f11/xfce-utils/po/et.po | 
+ | [sk](/f11/language/sk) | 71 | 131 | 54.2 | /mnt/stockage/packages/f11/xfce-utils/po/sk.po | 
+ | [gu](/f11/language/gu) | 63 | 131 | 48.1 | /mnt/stockage/packages/f11/xfce-utils/po/gu.po | 
+ | [ar](/f11/language/ar) | 61 | 131 | 46.6 | /mnt/stockage/packages/f11/xfce-utils/po/ar.po | 
+ | [it](/f11/language/it) | 27 | 131 | 20.6 | /mnt/stockage/packages/f11/xfce-utils/po/it.po | 
+ | [ku](/f11/language/ku) | 21 | 131 | 16.0 | /mnt/stockage/packages/f11/xfce-utils/po/ku.po | 
+ | [af](/f11/language/af) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/af.po | 
+ | [az](/f11/language/az) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/az.po | 
+ | [bn_IN](/f11/language/bn_IN) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/bn_IN.po | 
+ | [es_MX](/f11/language/es_MX) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/es_MX.po | 
+ | [fa](/f11/language/fa) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/fa.po | 
+ | [hy](/f11/language/hy) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/hy.po | 
+ | [mr](/f11/language/mr) | 20 | 131 | 15.3 | /mnt/stockage/packages/f11/xfce-utils/po/mr.po | 
+ | [bg](/f11/language/bg) | 12 | 131 | 9.2 | /mnt/stockage/packages/f11/xfce-utils/po/bg.po | 
+ | [hi](/f11/language/hi) | 12 | 131 | 9.2 | /mnt/stockage/packages/f11/xfce-utils/po/hi.po | 
+ | [ms](/f11/language/ms) | 12 | 131 | 9.2 | /mnt/stockage/packages/f11/xfce-utils/po/ms.po | 
+ | [ta](/f11/language/ta) | 9 | 131 | 6.9 | /mnt/stockage/packages/f11/xfce-utils/po/ta.po | 
+ | [ka](/f11/language/ka) | 7 | 131 | 5.3 | /mnt/stockage/packages/f11/xfce-utils/po/ka.po | 
 {.sortable}
 
 

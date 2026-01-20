@@ -18,8 +18,8 @@ The package sugar-implode (version 5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f11/sugar-implode/po/ar.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1 | 9 | 11.1 | /mnt/stockage/packages/f11/sugar-implode/po/es.po | 
+ | [ar](/f11/language/ar) | 9 | 9 | 100.0 | /mnt/stockage/packages/f11/sugar-implode/po/ar.po | 
+ | [es](/f11/language/es) | 1 | 9 | 11.1 | /mnt/stockage/packages/f11/sugar-implode/po/es.po | 
 {.sortable}
 
 

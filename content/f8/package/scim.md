@@ -18,18 +18,18 @@ The package scim (version 1.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f8/scim/po/fr.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f8/scim/po/zh_TW.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1169 | 1173 | 99.7 | /mnt/stockage/packages/f8/scim/po/nl.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/de.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/ja.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/pa.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/sv.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 1167 | 1173 | 99.5 | /mnt/stockage/packages/f8/scim/po/fi.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 1162 | 1173 | 99.1 | /mnt/stockage/packages/f8/scim/po/ko.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1027 | 1173 | 87.6 | /mnt/stockage/packages/f8/scim/po/zh_CN.po | 
+ | [fr](/f8/language/fr) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f8/scim/po/fr.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f8/scim/po/zh_TW.po | 
+ | [nl](/f8/language/nl) | 1169 | 1173 | 99.7 | /mnt/stockage/packages/f8/scim/po/nl.po | 
+ | [cs](/f8/language/cs) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/cs.po | 
+ | [de](/f8/language/de) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/de.po | 
+ | [it](/f8/language/it) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/it.po | 
+ | [ja](/f8/language/ja) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/ja.po | 
+ | [pa](/f8/language/pa) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/pa.po | 
+ | [sv](/f8/language/sv) | 1168 | 1173 | 99.6 | /mnt/stockage/packages/f8/scim/po/sv.po | 
+ | [fi](/f8/language/fi) | 1167 | 1173 | 99.5 | /mnt/stockage/packages/f8/scim/po/fi.po | 
+ | [ko](/f8/language/ko) | 1162 | 1173 | 99.1 | /mnt/stockage/packages/f8/scim/po/ko.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1027 | 1173 | 87.6 | /mnt/stockage/packages/f8/scim/po/zh_CN.po | 
 {.sortable}
 
 

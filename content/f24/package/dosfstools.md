@@ -18,7 +18,7 @@ The package dosfstools (version 3.0.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 0 | 1964 | 0.0 | /mnt/stockage/packages/f24/dosfstools/manpages/po/de/fatlabel.8.po/mnt/stockage/packages/f24/dosfstools/manpages/po/de/fsck.fat.8.po/mnt/stockage/packages/f24/dosfstools/manpages/po/de/mkfs.fat.8.po | 
+ | [de](/f24/language/de) | 0 | 1964 | 0.0 | /mnt/stockage/packages/f24/dosfstools/manpages/po/de/fatlabel.8.po/mnt/stockage/packages/f24/dosfstools/manpages/po/de/fsck.fat.8.po/mnt/stockage/packages/f24/dosfstools/manpages/po/de/mkfs.fat.8.po | 
 {.sortable}
 
 

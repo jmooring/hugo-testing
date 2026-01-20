@@ -18,11 +18,11 @@ The package kickpim (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f7/language/it.md" >}}) | 429 | 467 | 91.9 | /mnt/stockage/packages/f7/kickpim/po/it.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 422 | 467 | 90.4 | /mnt/stockage/packages/f7/kickpim/po/fr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 422 | 467 | 90.4 | /mnt/stockage/packages/f7/kickpim/po/pl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 421 | 467 | 90.1 | /mnt/stockage/packages/f7/kickpim/po/de.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 104 | 467 | 22.3 | /mnt/stockage/packages/f7/kickpim/po/nl.po | 
+ | [it](/f7/language/it) | 429 | 467 | 91.9 | /mnt/stockage/packages/f7/kickpim/po/it.po | 
+ | [fr](/f7/language/fr) | 422 | 467 | 90.4 | /mnt/stockage/packages/f7/kickpim/po/fr.po | 
+ | [pl](/f7/language/pl) | 422 | 467 | 90.4 | /mnt/stockage/packages/f7/kickpim/po/pl.po | 
+ | [de](/f7/language/de) | 421 | 467 | 90.1 | /mnt/stockage/packages/f7/kickpim/po/de.po | 
+ | [nl](/f7/language/nl) | 104 | 467 | 22.3 | /mnt/stockage/packages/f7/kickpim/po/nl.po | 
 {.sortable}
 
 

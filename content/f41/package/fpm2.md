@@ -18,16 +18,16 @@ The package fpm2 (version 0.90):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 1459 | 1612 | 90.5 | /mnt/stockage/packages/f41/fpm2/po/cs.po/mnt/stockage/packages/f41/fpm2/po/ru.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/eu.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/it.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/pl.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 704 | 806 | 87.3 | /mnt/stockage/packages/f41/fpm2/po/de.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 702 | 806 | 87.1 | /mnt/stockage/packages/f41/fpm2/po/he.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 698 | 806 | 86.6 | /mnt/stockage/packages/f41/fpm2/po/fr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 665 | 806 | 82.5 | /mnt/stockage/packages/f41/fpm2/po/hu.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 497 | 806 | 61.7 | /mnt/stockage/packages/f41/fpm2/po/bg.po | 
+ | [cs](/f41/language/cs) | 1459 | 1612 | 90.5 | /mnt/stockage/packages/f41/fpm2/po/cs.po/mnt/stockage/packages/f41/fpm2/po/ru.po | 
+ | [es](/f41/language/es) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/es.po | 
+ | [eu](/f41/language/eu) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/eu.po | 
+ | [it](/f41/language/it) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/it.po | 
+ | [pl](/f41/language/pl) | 708 | 806 | 87.8 | /mnt/stockage/packages/f41/fpm2/po/pl.po | 
+ | [de](/f41/language/de) | 704 | 806 | 87.3 | /mnt/stockage/packages/f41/fpm2/po/de.po | 
+ | [he](/f41/language/he) | 702 | 806 | 87.1 | /mnt/stockage/packages/f41/fpm2/po/he.po | 
+ | [fr](/f41/language/fr) | 698 | 806 | 86.6 | /mnt/stockage/packages/f41/fpm2/po/fr.po | 
+ | [hu](/f41/language/hu) | 665 | 806 | 82.5 | /mnt/stockage/packages/f41/fpm2/po/hu.po | 
+ | [bg](/f41/language/bg) | 497 | 806 | 61.7 | /mnt/stockage/packages/f41/fpm2/po/bg.po | 
 {.sortable}
 
 

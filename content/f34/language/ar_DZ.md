@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f34/package/python-django.md" >}}) | 3766 | 3781 | 99.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
- | [gnome-shell-extension-dash-to-dock]({{< ref "/f34/package/gnome-shell-extension-dash-to-dock.md" >}}) | 357 | 423 | 84.4 | Faissal Chamekh <chamfay@gmail.com> | 
- | [siril]({{< ref "/f34/package/siril.md" >}}) | 7664 | 11214 | 68.3 |  | 
+ | [python-django](/f34/package/python-django) | 3766 | 3781 | 99.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
+ | [gnome-shell-extension-dash-to-dock](/f34/package/gnome-shell-extension-dash-to-dock) | 357 | 423 | 84.4 | Faissal Chamekh <chamfay@gmail.com> | 
+ | [siril](/f34/package/siril) | 7664 | 11214 | 68.3 |  | 
 {.sortable}
 
 

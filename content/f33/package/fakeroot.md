@@ -18,12 +18,12 @@ The package fakeroot (version 1.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/pt.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/sv.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/fr.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1467 | 1543 | 95.1 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/nl.po | 
+ | [pt](/f33/language/pt) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/pt.po | 
+ | [sv](/f33/language/sv) | 1472 | 1543 | 95.4 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/sv.po | 
+ | [de](/f33/language/de) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/de.po | 
+ | [es](/f33/language/es) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/es.po | 
+ | [fr](/f33/language/fr) | 1469 | 1543 | 95.2 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/fr.po | 
+ | [nl](/f33/language/nl) | 1467 | 1543 | 95.1 | /mnt/stockage/packages/f33/fakeroot/doc/po4a/po/nl.po | 
 {.sortable}
 
 

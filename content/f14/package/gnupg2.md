@@ -18,34 +18,34 @@ The package gnupg2 (version 2.0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 10491 | 10491 | 100.0 | /mnt/stockage/packages/f14/gnupg2/po/de.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 20982 | 20982 | 100.0 | /mnt/stockage/packages/f14/gnupg2/po/en@quot.po/mnt/stockage/packages/f14/gnupg2/po/en@boldquot.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/cs.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/pl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/sv.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/zh_TW.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 10004 | 10491 | 95.4 | /mnt/stockage/packages/f14/gnupg2/po/es.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 10000 | 10491 | 95.3 | /mnt/stockage/packages/f14/gnupg2/po/tr.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 9177 | 10491 | 87.5 | /mnt/stockage/packages/f14/gnupg2/po/ru.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 6846 | 10491 | 65.3 | /mnt/stockage/packages/f14/gnupg2/po/zh_CN.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 6398 | 10491 | 61.0 | /mnt/stockage/packages/f14/gnupg2/po/fr.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 6390 | 10491 | 60.9 | /mnt/stockage/packages/f14/gnupg2/po/ro.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 5826 | 10491 | 55.5 | /mnt/stockage/packages/f14/gnupg2/po/ja.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 4699 | 10491 | 44.8 | /mnt/stockage/packages/f14/gnupg2/po/nb.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/el.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/et.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/fi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/it.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/sk.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 3254 | 10491 | 31.0 | /mnt/stockage/packages/f14/gnupg2/po/ca.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 3237 | 10491 | 30.9 | /mnt/stockage/packages/f14/gnupg2/po/gl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 2770 | 10491 | 26.4 | /mnt/stockage/packages/f14/gnupg2/po/pt.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 2263 | 10491 | 21.6 | /mnt/stockage/packages/f14/gnupg2/po/eo.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1574 | 10491 | 15.0 | /mnt/stockage/packages/f14/gnupg2/po/pt_BR.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 747 | 10491 | 7.1 | /mnt/stockage/packages/f14/gnupg2/po/da.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 337 | 10491 | 3.2 | /mnt/stockage/packages/f14/gnupg2/po/be.po | 
+ | [de](/f14/language/de) | 10491 | 10491 | 100.0 | /mnt/stockage/packages/f14/gnupg2/po/de.po | 
+ | [error](/f14/language/error) | 20982 | 20982 | 100.0 | /mnt/stockage/packages/f14/gnupg2/po/en@quot.po/mnt/stockage/packages/f14/gnupg2/po/en@boldquot.po | 
+ | [cs](/f14/language/cs) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/cs.po | 
+ | [pl](/f14/language/pl) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/pl.po | 
+ | [sv](/f14/language/sv) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/sv.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 10449 | 10491 | 99.6 | /mnt/stockage/packages/f14/gnupg2/po/zh_TW.po | 
+ | [es](/f14/language/es) | 10004 | 10491 | 95.4 | /mnt/stockage/packages/f14/gnupg2/po/es.po | 
+ | [tr](/f14/language/tr) | 10000 | 10491 | 95.3 | /mnt/stockage/packages/f14/gnupg2/po/tr.po | 
+ | [ru](/f14/language/ru) | 9177 | 10491 | 87.5 | /mnt/stockage/packages/f14/gnupg2/po/ru.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 6846 | 10491 | 65.3 | /mnt/stockage/packages/f14/gnupg2/po/zh_CN.po | 
+ | [fr](/f14/language/fr) | 6398 | 10491 | 61.0 | /mnt/stockage/packages/f14/gnupg2/po/fr.po | 
+ | [ro](/f14/language/ro) | 6390 | 10491 | 60.9 | /mnt/stockage/packages/f14/gnupg2/po/ro.po | 
+ | [ja](/f14/language/ja) | 5826 | 10491 | 55.5 | /mnt/stockage/packages/f14/gnupg2/po/ja.po | 
+ | [nb_NO](/f14/language/nb_NO) | 4699 | 10491 | 44.8 | /mnt/stockage/packages/f14/gnupg2/po/nb.po | 
+ | [el](/f14/language/el) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/el.po | 
+ | [et](/f14/language/et) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/et.po | 
+ | [fi](/f14/language/fi) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/fi.po | 
+ | [hu](/f14/language/hu) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/hu.po | 
+ | [id](/f14/language/id) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/id.po | 
+ | [it](/f14/language/it) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/it.po | 
+ | [sk](/f14/language/sk) | 3265 | 10491 | 31.1 | /mnt/stockage/packages/f14/gnupg2/po/sk.po | 
+ | [ca](/f14/language/ca) | 3254 | 10491 | 31.0 | /mnt/stockage/packages/f14/gnupg2/po/ca.po | 
+ | [gl](/f14/language/gl) | 3237 | 10491 | 30.9 | /mnt/stockage/packages/f14/gnupg2/po/gl.po | 
+ | [pt](/f14/language/pt) | 2770 | 10491 | 26.4 | /mnt/stockage/packages/f14/gnupg2/po/pt.po | 
+ | [eo](/f14/language/eo) | 2263 | 10491 | 21.6 | /mnt/stockage/packages/f14/gnupg2/po/eo.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1574 | 10491 | 15.0 | /mnt/stockage/packages/f14/gnupg2/po/pt_BR.po | 
+ | [da](/f14/language/da) | 747 | 10491 | 7.1 | /mnt/stockage/packages/f14/gnupg2/po/da.po | 
+ | [be](/f14/language/be) | 337 | 10491 | 3.2 | /mnt/stockage/packages/f14/gnupg2/po/be.po | 
 {.sortable}
 
 

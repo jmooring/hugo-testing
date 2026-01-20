@@ -18,9 +18,9 @@ The package texlive-base (version 20190410):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 811 | 811 | 100.0 | /mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/de/cweb-tl.po/mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/de/cweb.po/mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/de/web2c-help.po/mnt/stockage/packages/f31/texlive-base/texmf-dist/doc/support/latex-git-log/po/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 578 | 578 | 100.0 | /mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/it/cweb.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f31/texlive-base/utils/asymptote/GUI/locale/th/LC_MESSAGES/base.po | 
+ | [de](/f31/language/de) | 811 | 811 | 100.0 | /mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/de/cweb-tl.po/mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/de/cweb.po/mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/de/web2c-help.po/mnt/stockage/packages/f31/texlive-base/texmf-dist/doc/support/latex-git-log/po/de.po | 
+ | [it](/f31/language/it) | 578 | 578 | 100.0 | /mnt/stockage/packages/f31/texlive-base/texk/web2c/cwebdir/po/it/cweb.po | 
+ | [th](/f31/language/th) | 1 | 1 | 100.0 | /mnt/stockage/packages/f31/texlive-base/utils/asymptote/GUI/locale/th/LC_MESSAGES/base.po | 
 {.sortable}
 
 

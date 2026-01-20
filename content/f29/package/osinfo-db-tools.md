@@ -18,98 +18,98 @@ The package osinfo-db-tools (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/fr.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/id.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ja.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pl.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/uk.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 2 | 202 | 1.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pt_BR.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/af.po | 
- | [am]({{< ref "/f29/language/am.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/am.po | 
- | [anp]({{< ref "/f29/language/anp.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/anp.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ar.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ast.po | 
- | [bal]({{< ref "/f29/language/bal.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bal.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/be.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bn_IN.po | 
- | [bo]({{< ref "/f29/language/bo.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bo.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/br.po | 
- | [brx]({{< ref "/f29/language/brx.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/brx.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/cy.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/da.po | 
- | [de_CH]({{< ref "/f29/language/de_CH.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/de_CH.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/en_GB.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/eo.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 0 | 606 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kw@kkcor.po/mnt/stockage/packages/f29/osinfo-db-tools/po/wba.po/mnt/stockage/packages/f29/osinfo-db-tools/po/kw@uccor.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/eu.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/fi.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/gu.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/hu.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ia.po | 
- | [ilo]({{< ref "/f29/language/ilo.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ilo.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/it.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ka.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kk.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/km.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ko.po | 
- | [kw]({{< ref "/f29/language/kw.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kw_GB.po/mnt/stockage/packages/f29/osinfo-db-tools/po/kw.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ky.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/lv.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mai.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ml.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mn.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mr.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ms.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nb.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nds.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ne.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nl.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nn.po | 
- | [nso]({{< ref "/f29/language/nso.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nso.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pa.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pt.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ru.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/si.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sl.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sq.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/te.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/tg.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/tr.po | 
- | [tw]({{< ref "/f29/language/tw.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/tw.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ur.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/vi.po | 
- | [yo]({{< ref "/f29/language/yo.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/yo.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zh_HK.po | 
- | [zu]({{< ref "/f29/language/zu.md" >}}) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zu.po | 
+ | [ca](/f29/language/ca) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ca.po | 
+ | [cs](/f29/language/cs) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/cs.po | 
+ | [de](/f29/language/de) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/de.po | 
+ | [es](/f29/language/es) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/es.po | 
+ | [fr](/f29/language/fr) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/fr.po | 
+ | [id](/f29/language/id) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/id.po | 
+ | [ja](/f29/language/ja) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ja.po | 
+ | [pl](/f29/language/pl) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pl.po | 
+ | [uk](/f29/language/uk) | 54 | 202 | 26.7 | /mnt/stockage/packages/f29/osinfo-db-tools/po/uk.po | 
+ | [pt_BR](/f29/language/pt_BR) | 2 | 202 | 1.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pt_BR.po | 
+ | [af](/f29/language/af) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/af.po | 
+ | [am](/f29/language/am) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/am.po | 
+ | [anp](/f29/language/anp) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/anp.po | 
+ | [ar](/f29/language/ar) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ar.po | 
+ | [as](/f29/language/as) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/as.po | 
+ | [ast](/f29/language/ast) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ast.po | 
+ | [bal](/f29/language/bal) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bal.po | 
+ | [be](/f29/language/be) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/be.po | 
+ | [bg](/f29/language/bg) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bg.po | 
+ | [bn](/f29/language/bn) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bn_IN.po | 
+ | [bo](/f29/language/bo) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bo.po | 
+ | [br](/f29/language/br) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/br.po | 
+ | [brx](/f29/language/brx) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/brx.po | 
+ | [bs](/f29/language/bs) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/bs.po | 
+ | [cy](/f29/language/cy) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/cy.po | 
+ | [da](/f29/language/da) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/da.po | 
+ | [de_CH](/f29/language/de_CH) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/de_CH.po | 
+ | [el](/f29/language/el) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/en_GB.po | 
+ | [eo](/f29/language/eo) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/eo.po | 
+ | [error](/f29/language/error) | 0 | 606 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kw@kkcor.po/mnt/stockage/packages/f29/osinfo-db-tools/po/wba.po/mnt/stockage/packages/f29/osinfo-db-tools/po/kw@uccor.po | 
+ | [et](/f29/language/et) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/et.po | 
+ | [eu](/f29/language/eu) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/eu.po | 
+ | [fa](/f29/language/fa) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/fa.po | 
+ | [fi](/f29/language/fi) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/fi.po | 
+ | [gl](/f29/language/gl) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/gl.po | 
+ | [gu](/f29/language/gu) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/gu.po | 
+ | [he](/f29/language/he) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/he.po | 
+ | [hi](/f29/language/hi) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/hi.po | 
+ | [hr](/f29/language/hr) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/hr.po | 
+ | [hu](/f29/language/hu) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/hu.po | 
+ | [ia](/f29/language/ia) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ia.po | 
+ | [ilo](/f29/language/ilo) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ilo.po | 
+ | [is](/f29/language/is) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/is.po | 
+ | [it](/f29/language/it) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/it.po | 
+ | [ka](/f29/language/ka) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ka.po | 
+ | [kk](/f29/language/kk) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kk.po | 
+ | [km](/f29/language/km) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/km.po | 
+ | [kn](/f29/language/kn) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kn.po | 
+ | [ko](/f29/language/ko) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ko.po | 
+ | [kw](/f29/language/kw) | 0 | 404 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/kw_GB.po/mnt/stockage/packages/f29/osinfo-db-tools/po/kw.po | 
+ | [ky](/f29/language/ky) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ky.po | 
+ | [lt](/f29/language/lt) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/lt.po | 
+ | [lv](/f29/language/lv) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/lv.po | 
+ | [mai](/f29/language/mai) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mai.po | 
+ | [mk](/f29/language/mk) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mk.po | 
+ | [ml](/f29/language/ml) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ml.po | 
+ | [mn](/f29/language/mn) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mn.po | 
+ | [mr](/f29/language/mr) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/mr.po | 
+ | [ms](/f29/language/ms) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ms.po | 
+ | [nb_NO](/f29/language/nb_NO) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nb.po | 
+ | [nds](/f29/language/nds) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nds.po | 
+ | [ne](/f29/language/ne) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ne.po | 
+ | [nl](/f29/language/nl) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nl.po | 
+ | [nn](/f29/language/nn) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nn.po | 
+ | [nso](/f29/language/nso) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/nso.po | 
+ | [or](/f29/language/or) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/or.po | 
+ | [pa](/f29/language/pa) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pa.po | 
+ | [pt](/f29/language/pt) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/pt.po | 
+ | [ro](/f29/language/ro) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ro.po | 
+ | [ru](/f29/language/ru) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ru.po | 
+ | [si](/f29/language/si) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/si.po | 
+ | [sk](/f29/language/sk) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sk.po | 
+ | [sl](/f29/language/sl) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sl.po | 
+ | [sq](/f29/language/sq) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sq.po | 
+ | [sr](/f29/language/sr) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/sv.po | 
+ | [ta](/f29/language/ta) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ta.po | 
+ | [te](/f29/language/te) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/te.po | 
+ | [tg](/f29/language/tg) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/tg.po | 
+ | [th](/f29/language/th) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/th.po | 
+ | [tr](/f29/language/tr) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/tr.po | 
+ | [tw](/f29/language/tw) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/tw.po | 
+ | [ur](/f29/language/ur) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/ur.po | 
+ | [vi](/f29/language/vi) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/vi.po | 
+ | [yo](/f29/language/yo) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/yo.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zh_HK.po | 
+ | [zu](/f29/language/zu) | 0 | 202 | 0.0 | /mnt/stockage/packages/f29/osinfo-db-tools/po/zu.po | 
 {.sortable}
 
 

@@ -18,59 +18,59 @@ The package sushi (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f17/language/an.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/an.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ar.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/as.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ast.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/be.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/bg.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ca@valencia.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/en_GB.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/eo.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/eu.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/gl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/he.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/hi.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/hu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ja.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ko.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/lv.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ml.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/nb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/nl.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ru.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f17/sushi/po/sr.po/mnt/stockage/packages/f17/sushi/po/sr@latin.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ta.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/te.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/uk.po | 
- | [uz]({{< ref "/f17/language/uz.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/zh_HK.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 13 | 15 | 86.7 | /mnt/stockage/packages/f17/sushi/po/el.po | 
+ | [an](/f17/language/an) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/an.po | 
+ | [ar](/f17/language/ar) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ar.po | 
+ | [as](/f17/language/as) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/as.po | 
+ | [ast](/f17/language/ast) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ast.po | 
+ | [be](/f17/language/be) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/be.po | 
+ | [bg](/f17/language/bg) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/bg.po | 
+ | [ca](/f17/language/ca) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ca@valencia.po | 
+ | [cs](/f17/language/cs) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/cs.po | 
+ | [da](/f17/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/da.po | 
+ | [de](/f17/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/de.po | 
+ | [en_GB](/f17/language/en_GB) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/en_GB.po | 
+ | [eo](/f17/language/eo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/eo.po | 
+ | [es](/f17/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/es.po | 
+ | [et](/f17/language/et) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/et.po | 
+ | [eu](/f17/language/eu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/eu.po | 
+ | [fa](/f17/language/fa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/fa.po | 
+ | [fi](/f17/language/fi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/fi.po | 
+ | [fr](/f17/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/fr.po | 
+ | [gl](/f17/language/gl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/gl.po | 
+ | [he](/f17/language/he) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/he.po | 
+ | [hi](/f17/language/hi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/hi.po | 
+ | [hu](/f17/language/hu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/hu.po | 
+ | [id](/f17/language/id) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/id.po | 
+ | [it](/f17/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/it.po | 
+ | [ja](/f17/language/ja) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ja.po | 
+ | [ko](/f17/language/ko) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ko.po | 
+ | [lt](/f17/language/lt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/lt.po | 
+ | [lv](/f17/language/lv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/lv.po | 
+ | [ml](/f17/language/ml) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ml.po | 
+ | [nb_NO](/f17/language/nb_NO) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/nb.po | 
+ | [nl](/f17/language/nl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/nl.po | 
+ | [or](/f17/language/or) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/or.po | 
+ | [pa](/f17/language/pa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pa.po | 
+ | [pl](/f17/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pl.po | 
+ | [pt](/f17/language/pt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ru.po | 
+ | [sl](/f17/language/sl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/sl.po | 
+ | [sr](/f17/language/sr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f17/sushi/po/sr.po/mnt/stockage/packages/f17/sushi/po/sr@latin.po | 
+ | [sv](/f17/language/sv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/sv.po | 
+ | [ta](/f17/language/ta) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ta.po | 
+ | [te](/f17/language/te) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/te.po | 
+ | [th](/f17/language/th) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/th.po | 
+ | [tr](/f17/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/tr.po | 
+ | [ug](/f17/language/ug) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/ug.po | 
+ | [uk](/f17/language/uk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/uk.po | 
+ | [uz](/f17/language/uz) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/uz@cyrillic.po | 
+ | [vi](/f17/language/vi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 15 | 15 | 100.0 | /mnt/stockage/packages/f17/sushi/po/zh_HK.po | 
+ | [el](/f17/language/el) | 13 | 15 | 86.7 | /mnt/stockage/packages/f17/sushi/po/el.po | 
 {.sortable}
 
 

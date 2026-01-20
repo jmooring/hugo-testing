@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Django]({{< ref "/f8/package/Django.md" >}}) | 2273 | 2273 | 100.0 | Spanish <es@li.org> | 
- | [exaile]({{< ref "/f8/package/exaile.md" >}}) | 664 | 664 | 100.0 | Argentine Spanish <pablitens@gmail.com> | 
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [kmymoney2]({{< ref "/f8/package/kmymoney2.md" >}}) | 10978 | 11008 | 99.7 | Español (Argentina) <es@li.org> | 
- | [mcrypt]({{< ref "/f8/package/mcrypt.md" >}}) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
- | [emerald]({{< ref "/f8/package/emerald.md" >}}) | 693 | 762 | 90.9 | Spanish <es@li.org> | 
- | [gnomebaker]({{< ref "/f8/package/gnomebaker.md" >}}) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
- | [gallery2]({{< ref "/f8/package/gallery2.md" >}}) | 7931 | 10022 | 79.1 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
- | [libvisual-plugins]({{< ref "/f8/package/libvisual-plugins.md" >}}) | 354 | 600 | 59.0 | Spanish <es@li.org> | 
- | [libvisual]({{< ref "/f8/package/libvisual.md" >}}) | 303 | 1055 | 28.7 | Spanish | 
- | [bazaar]({{< ref "/f8/package/bazaar.md" >}}) | 39 | 6524 | 0.6 | Spanish (Argentina) <es_AR@li.org> | 
- | [bacula]({{< ref "/f8/package/bacula.md" >}}) | 0 | 18155 | 0.0 | Spanish | 
+ | [Django](/f8/package/Django) | 2273 | 2273 | 100.0 | Spanish <es@li.org> | 
+ | [exaile](/f8/package/exaile) | 664 | 664 | 100.0 | Argentine Spanish <pablitens@gmail.com> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [kmymoney2](/f8/package/kmymoney2) | 10978 | 11008 | 99.7 | Español (Argentina) <es@li.org> | 
+ | [mcrypt](/f8/package/mcrypt) | 956 | 965 | 99.1 | Argentinian <translation-es-AR@lists.sourceforge.net> | 
+ | [emerald](/f8/package/emerald) | 693 | 762 | 90.9 | Spanish <es@li.org> | 
+ | [gnomebaker](/f8/package/gnomebaker) | 1069 | 1186 | 90.1 | Spanish (Argentina) <es_AR@li.org> | 
+ | [gallery2](/f8/package/gallery2) | 7931 | 10022 | 79.1 | Argentine Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [libvisual-plugins](/f8/package/libvisual-plugins) | 354 | 600 | 59.0 | Spanish <es@li.org> | 
+ | [libvisual](/f8/package/libvisual) | 303 | 1055 | 28.7 | Spanish | 
+ | [bazaar](/f8/package/bazaar) | 39 | 6524 | 0.6 | Spanish (Argentina) <es_AR@li.org> | 
+ | [bacula](/f8/package/bacula) | 0 | 18155 | 0.0 | Spanish | 
 {.sortable}
 
 

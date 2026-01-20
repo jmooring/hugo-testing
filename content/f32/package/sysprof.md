@@ -18,27 +18,27 @@ The package sysprof (version 3.36.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1460 | 1460 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/cs/cs.po/mnt/stockage/packages/f32/sysprof/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 685 | 685 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1448 | 1448 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/de/de.po/mnt/stockage/packages/f32/sysprof/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/es/es.po/mnt/stockage/packages/f32/sysprof/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 790 | 790 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/eu.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 804 | 804 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/pl/pl.po/mnt/stockage/packages/f32/sysprof/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f32/sysprof/po/pt_BR.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/ro.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 435 | 435 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1698 | 1698 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/sv/sv.po/mnt/stockage/packages/f32/sysprof/po/sv.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 327 | 396 | 82.6 | /mnt/stockage/packages/f32/sysprof/po/fur.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 273 | 413 | 66.1 | /mnt/stockage/packages/f32/sysprof/po/fi.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 245 | 740 | 33.1 | /mnt/stockage/packages/f32/sysprof/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 57 | 290 | 19.7 | /mnt/stockage/packages/f32/sysprof/po/sl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 34 | 290 | 11.7 | /mnt/stockage/packages/f32/sysprof/po/pt.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 127 | 1404 | 9.0 | /mnt/stockage/packages/f32/sysprof/help/el/el.po/mnt/stockage/packages/f32/sysprof/po/el.po | 
+ | [cs](/f32/language/cs) | 1460 | 1460 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/cs/cs.po/mnt/stockage/packages/f32/sysprof/po/cs.po | 
+ | [da](/f32/language/da) | 685 | 685 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/da.po | 
+ | [de](/f32/language/de) | 1448 | 1448 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/de/de.po/mnt/stockage/packages/f32/sysprof/po/de.po | 
+ | [es](/f32/language/es) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/es/es.po/mnt/stockage/packages/f32/sysprof/po/es.po | 
+ | [eu](/f32/language/eu) | 790 | 790 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/eu.po | 
+ | [fr](/f32/language/fr) | 290 | 290 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/fr.po | 
+ | [hu](/f32/language/hu) | 804 | 804 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/hu.po | 
+ | [id](/f32/language/id) | 804 | 804 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/id.po | 
+ | [it](/f32/language/it) | 449 | 449 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/it.po | 
+ | [nl](/f32/language/nl) | 449 | 449 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/nl.po | 
+ | [pl](/f32/language/pl) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/pl/pl.po/mnt/stockage/packages/f32/sysprof/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1817 | 1817 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/pt_BR/pt_BR.po/mnt/stockage/packages/f32/sysprof/po/pt_BR.po | 
+ | [ro](/f32/language/ro) | 446 | 446 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/ro.po | 
+ | [sr](/f32/language/sr) | 435 | 435 | 100.0 | /mnt/stockage/packages/f32/sysprof/po/sr.po | 
+ | [sv](/f32/language/sv) | 1698 | 1698 | 100.0 | /mnt/stockage/packages/f32/sysprof/help/sv/sv.po/mnt/stockage/packages/f32/sysprof/po/sv.po | 
+ | [fur](/f32/language/fur) | 327 | 396 | 82.6 | /mnt/stockage/packages/f32/sysprof/po/fur.po | 
+ | [fi](/f32/language/fi) | 273 | 413 | 66.1 | /mnt/stockage/packages/f32/sysprof/po/fi.po | 
+ | [sk](/f32/language/sk) | 245 | 740 | 33.1 | /mnt/stockage/packages/f32/sysprof/po/sk.po | 
+ | [sl](/f32/language/sl) | 57 | 290 | 19.7 | /mnt/stockage/packages/f32/sysprof/po/sl.po | 
+ | [pt](/f32/language/pt) | 34 | 290 | 11.7 | /mnt/stockage/packages/f32/sysprof/po/pt.po | 
+ | [el](/f32/language/el) | 127 | 1404 | 9.0 | /mnt/stockage/packages/f32/sysprof/help/el/el.po/mnt/stockage/packages/f32/sysprof/po/el.po | 
 {.sortable}
 
 

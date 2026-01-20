@@ -39,20 +39,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 60 | 211 | 28.4 | Shan <shn@li.org> | 
- | [shutter]({{< ref "/f37/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 2 | 172 | 1.2 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f37/package/simple-scan.md" >}}) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 48 | 18728 | 0.3 | Shan <shn@li.org> | 
- | [fragments]({{< ref "/f37/package/fragments.md" >}}) | 4 | 2006 | 0.2 | Shan <shn@li.org> | 
- | [transmission]({{< ref "/f37/package/transmission.md" >}}) | 4 | 2441 | 0.2 | Shan <shn@li.org> | 
- | [remmina]({{< ref "/f37/package/remmina.md" >}}) | 3 | 5396 | 0.1 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
- | [deja-dup]({{< ref "/f37/package/deja-dup.md" >}}) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f37/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
- | [onboard]({{< ref "/f37/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Shan <shn@li.org> | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 60 | 211 | 28.4 | Shan <shn@li.org> | 
+ | [shutter](/f37/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [blueberry](/f37/package/blueberry) | 2 | 172 | 1.2 | Shan <shn@li.org> | 
+ | [simple-scan](/f37/package/simple-scan) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 48 | 18728 | 0.3 | Shan <shn@li.org> | 
+ | [fragments](/f37/package/fragments) | 4 | 2006 | 0.2 | Shan <shn@li.org> | 
+ | [transmission](/f37/package/transmission) | 4 | 2441 | 0.2 | Shan <shn@li.org> | 
+ | [remmina](/f37/package/remmina) | 3 | 5396 | 0.1 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
+ | [deja-dup](/f37/package/deja-dup) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f37/package/lightdm) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
+ | [onboard](/f37/package/onboard) | 0 | 2318 | 0.0 | Shan <shn@li.org> | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

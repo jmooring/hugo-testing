@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 548 | 761 | 72.0 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 321 | 18526 | 1.7 | Venda <venda@translate.org.za> | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 24 | 2424 | 1.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 548 | 761 | 72.0 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f12/package/iso-codes) | 321 | 18526 | 1.7 | Venda <venda@translate.org.za> | 
+ | [pootle](/f12/package/pootle) | 24 | 2424 | 1.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

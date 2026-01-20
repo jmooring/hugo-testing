@@ -18,7 +18,7 @@ The package ibus-m17n (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f13/ibus-m17n/po/zh_CN.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 0 | 1 | 0.0 | /mnt/stockage/packages/f13/ibus-m17n/po/zh_CN.po | 
 {.sortable}
 
 

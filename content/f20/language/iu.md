@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f20/package/openerp.md" >}}) | 2 | 633 | 0.3 | Inuktitut <iu@li.org> | 
- | [deluge]({{< ref "/f20/package/deluge.md" >}}) | 0 | 2644 | 0.0 | Inuktitut <iu@li.org> | 
- | [gnome-do]({{< ref "/f20/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
- | [openerp-client]({{< ref "/f20/package/openerp-client.md" >}}) | 0 | 7729 | 0.0 | Inuktitut <iu@li.org> | 
+ | [openerp](/f20/package/openerp) | 2 | 633 | 0.3 | Inuktitut <iu@li.org> | 
+ | [deluge](/f20/package/deluge) | 0 | 2644 | 0.0 | Inuktitut <iu@li.org> | 
+ | [gnome-do](/f20/package/gnome-do) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
+ | [openerp-client](/f20/package/openerp-client) | 0 | 7729 | 0.0 | Inuktitut <iu@li.org> | 
 {.sortable}
 
 

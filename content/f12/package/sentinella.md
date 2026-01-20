@@ -18,12 +18,12 @@ The package sentinella (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/it.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/nl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 420 | 421 | 99.8 | /mnt/stockage/packages/f12/sentinella/po/ru.po | 
+ | [es](/f12/language/es) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/es.po | 
+ | [fr](/f12/language/fr) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/fr.po | 
+ | [it](/f12/language/it) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/it.po | 
+ | [nl](/f12/language/nl) | 421 | 421 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/nl.po | 
+ | [pt](/f12/language/pt) | 413 | 413 | 100.0 | /mnt/stockage/packages/f12/sentinella/po/pt.po | 
+ | [ru](/f12/language/ru) | 420 | 421 | 99.8 | /mnt/stockage/packages/f12/sentinella/po/ru.po | 
 {.sortable}
 
 

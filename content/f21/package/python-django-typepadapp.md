@@ -18,8 +18,8 @@ The package python-django-typepadapp (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f21/python-django-typepadapp/typepadapp/conf/locale/fr/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f21/python-django-typepadapp/typepadapp/conf/locale/en/LC_MESSAGES/django.po | 
+ | [fr](/f21/language/fr) | 74 | 74 | 100.0 | /mnt/stockage/packages/f21/python-django-typepadapp/typepadapp/conf/locale/fr/LC_MESSAGES/django.po | 
+ | [en](/f21/language/en) | 0 | 74 | 0.0 | /mnt/stockage/packages/f21/python-django-typepadapp/typepadapp/conf/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package upstart (version 0.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f11/language/error.md" >}}) | 3250 | 3250 | 100.0 | /mnt/stockage/packages/f11/upstart/po/en@boldquot.po/mnt/stockage/packages/f11/upstart/po/en@quot.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 148 | 1625 | 9.1 | /mnt/stockage/packages/f11/upstart/po/ca.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 70 | 1625 | 4.3 | /mnt/stockage/packages/f11/upstart/po/fr.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 6 | 1625 | 0.4 | /mnt/stockage/packages/f11/upstart/po/sv.po | 
+ | [error](/f11/language/error) | 3250 | 3250 | 100.0 | /mnt/stockage/packages/f11/upstart/po/en@boldquot.po/mnt/stockage/packages/f11/upstart/po/en@quot.po | 
+ | [ca](/f11/language/ca) | 148 | 1625 | 9.1 | /mnt/stockage/packages/f11/upstart/po/ca.po | 
+ | [fr](/f11/language/fr) | 70 | 1625 | 4.3 | /mnt/stockage/packages/f11/upstart/po/fr.po | 
+ | [sv](/f11/language/sv) | 6 | 1625 | 0.4 | /mnt/stockage/packages/f11/upstart/po/sv.po | 
 {.sortable}
 
 

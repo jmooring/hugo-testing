@@ -18,21 +18,21 @@ The package xboard (version 4.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/fr.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/nl.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 2482 | 2573 | 96.5 | /mnt/stockage/packages/f31/xboard/po/zh_CN.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 2398 | 2573 | 93.2 | /mnt/stockage/packages/f31/xboard/po/sr.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 2224 | 2573 | 86.4 | /mnt/stockage/packages/f31/xboard/po/ru.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 2145 | 2573 | 83.4 | /mnt/stockage/packages/f31/xboard/po/pl.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 1912 | 2573 | 74.3 | /mnt/stockage/packages/f31/xboard/po/da.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 876 | 2573 | 34.0 | /mnt/stockage/packages/f31/xboard/po/it.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 873 | 2573 | 33.9 | /mnt/stockage/packages/f31/xboard/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 873 | 2573 | 33.9 | /mnt/stockage/packages/f31/xboard/po/zh_HK.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 118 | 2573 | 4.6 | /mnt/stockage/packages/f31/xboard/po/vi.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 84 | 2573 | 3.3 | /mnt/stockage/packages/f31/xboard/po/tr.po | 
+ | [de](/f31/language/de) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/de.po | 
+ | [es](/f31/language/es) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/es.po | 
+ | [fr](/f31/language/fr) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/fr.po | 
+ | [nl](/f31/language/nl) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/nl.po | 
+ | [uk](/f31/language/uk) | 2553 | 2573 | 99.2 | /mnt/stockage/packages/f31/xboard/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 2482 | 2573 | 96.5 | /mnt/stockage/packages/f31/xboard/po/zh_CN.po | 
+ | [sr](/f31/language/sr) | 2398 | 2573 | 93.2 | /mnt/stockage/packages/f31/xboard/po/sr.po | 
+ | [ru](/f31/language/ru) | 2224 | 2573 | 86.4 | /mnt/stockage/packages/f31/xboard/po/ru.po | 
+ | [pl](/f31/language/pl) | 2145 | 2573 | 83.4 | /mnt/stockage/packages/f31/xboard/po/pl.po | 
+ | [da](/f31/language/da) | 1912 | 2573 | 74.3 | /mnt/stockage/packages/f31/xboard/po/da.po | 
+ | [it](/f31/language/it) | 876 | 2573 | 34.0 | /mnt/stockage/packages/f31/xboard/po/it.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 873 | 2573 | 33.9 | /mnt/stockage/packages/f31/xboard/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 873 | 2573 | 33.9 | /mnt/stockage/packages/f31/xboard/po/zh_HK.po | 
+ | [vi](/f31/language/vi) | 118 | 2573 | 4.6 | /mnt/stockage/packages/f31/xboard/po/vi.po | 
+ | [tr](/f31/language/tr) | 84 | 2573 | 3.3 | /mnt/stockage/packages/f31/xboard/po/tr.po | 
 {.sortable}
 
 

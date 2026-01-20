@@ -18,23 +18,23 @@ The package xfce4-datetime-plugin (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/da.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 58 | 58 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/es.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/eu.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/fr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/hu.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/ja.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/lv.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/nl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f16/language/pt_PT.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/pt_PT.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/uk.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/ur.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 21 | 53 | 39.6 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/gl.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 0 | 53 | 0.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/ar.po | 
+ | [da](/f16/language/da) | 58 | 58 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/da.po | 
+ | [el](/f16/language/el) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/en_GB.po | 
+ | [es](/f16/language/es) | 58 | 58 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/es.po | 
+ | [eu](/f16/language/eu) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/eu.po | 
+ | [fr](/f16/language/fr) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/fr.po | 
+ | [hu](/f16/language/hu) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/hu.po | 
+ | [ja](/f16/language/ja) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/ja.po | 
+ | [lv](/f16/language/lv) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/lv.po | 
+ | [nl](/f16/language/nl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/nl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/pt_BR.po | 
+ | [pt_PT](/f16/language/pt_PT) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/pt_PT.po | 
+ | [tr](/f16/language/tr) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/tr.po | 
+ | [uk](/f16/language/uk) | 53 | 53 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/uk.po | 
+ | [ur](/f16/language/ur) | 48 | 48 | 100.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/ur.po | 
+ | [gl](/f16/language/gl) | 21 | 53 | 39.6 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/gl.po | 
+ | [ar](/f16/language/ar) | 0 | 53 | 0.0 | /mnt/stockage/packages/f16/xfce4-datetime-plugin/po/ar.po | 
 {.sortable}
 
 

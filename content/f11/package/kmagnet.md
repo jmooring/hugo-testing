@@ -18,7 +18,7 @@ The package kmagnet (version 0.07):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f11/kmagnet/po/ca/kMagnet.po | 
+ | [ca](/f11/language/ca) | 78 | 78 | 100.0 | /mnt/stockage/packages/f11/kmagnet/po/ca/kMagnet.po | 
 {.sortable}
 
 

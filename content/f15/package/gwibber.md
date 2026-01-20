@@ -18,63 +18,63 @@ The package gwibber (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/bg.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/bn.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/de.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 482 | 482 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/en_CA.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/fi.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/pt_BR.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/sk.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 41 | 45 | 91.1 | /mnt/stockage/packages/f15/gwibber/po/ar.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 41 | 45 | 91.1 | /mnt/stockage/packages/f15/gwibber/po/nl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 26 | 45 | 57.8 | /mnt/stockage/packages/f15/gwibber/po/ru.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ast.po | 
- | [bs]({{< ref "/f15/language/bs.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/bs.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/cs.po | 
- | [cy]({{< ref "/f15/language/cy.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/cy.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/da.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/el.po | 
- | [en_AU]({{< ref "/f15/language/en_AU.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/en_AU.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/en_GB.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/eo.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/gl.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/gu.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/hi.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/hr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/id.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/is.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ja.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/kn.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/lv.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ml.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/nb.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/pt.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/si.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/sv.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/th.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/zh_TW.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 19 | 45 | 42.2 | /mnt/stockage/packages/f15/gwibber/po/te.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 18 | 45 | 40.0 | /mnt/stockage/packages/f15/gwibber/po/ko.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 18 | 45 | 40.0 | /mnt/stockage/packages/f15/gwibber/po/sl.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 18 | 45 | 40.0 | /mnt/stockage/packages/f15/gwibber/po/sr.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 16 | 45 | 35.6 | /mnt/stockage/packages/f15/gwibber/po/ms.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 16 | 45 | 35.6 | /mnt/stockage/packages/f15/gwibber/po/nn.po | 
- | [fil]({{< ref "/f15/language/fil.md" >}}) | 9 | 45 | 20.0 | /mnt/stockage/packages/f15/gwibber/po/fil.po | 
- | [lo]({{< ref "/f15/language/lo.md" >}}) | 7 | 45 | 15.6 | /mnt/stockage/packages/f15/gwibber/po/lo.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 6 | 45 | 13.3 | /mnt/stockage/packages/f15/gwibber/po/ro.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 0 | 45 | 0.0 | /mnt/stockage/packages/f15/gwibber/po/ga.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 0 | 45 | 0.0 | /mnt/stockage/packages/f15/gwibber/po/sq.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 0 | 45 | 0.0 | /mnt/stockage/packages/f15/gwibber/po/zh_HK.po | 
+ | [bg](/f15/language/bg) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/bg.po | 
+ | [bn](/f15/language/bn) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/bn.po | 
+ | [de](/f15/language/de) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/de.po | 
+ | [en_CA](/f15/language/en_CA) | 482 | 482 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/en_CA.po | 
+ | [fi](/f15/language/fi) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/fi.po | 
+ | [pl](/f15/language/pl) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/pt_BR.po | 
+ | [sk](/f15/language/sk) | 45 | 45 | 100.0 | /mnt/stockage/packages/f15/gwibber/po/sk.po | 
+ | [ar](/f15/language/ar) | 41 | 45 | 91.1 | /mnt/stockage/packages/f15/gwibber/po/ar.po | 
+ | [nl](/f15/language/nl) | 41 | 45 | 91.1 | /mnt/stockage/packages/f15/gwibber/po/nl.po | 
+ | [ru](/f15/language/ru) | 26 | 45 | 57.8 | /mnt/stockage/packages/f15/gwibber/po/ru.po | 
+ | [ast](/f15/language/ast) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ast.po | 
+ | [bs](/f15/language/bs) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/bs.po | 
+ | [ca](/f15/language/ca) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ca.po | 
+ | [cs](/f15/language/cs) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/cs.po | 
+ | [cy](/f15/language/cy) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/cy.po | 
+ | [da](/f15/language/da) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/da.po | 
+ | [el](/f15/language/el) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/el.po | 
+ | [en_AU](/f15/language/en_AU) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/en_AU.po | 
+ | [en_GB](/f15/language/en_GB) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/en_GB.po | 
+ | [eo](/f15/language/eo) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/eo.po | 
+ | [es](/f15/language/es) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/es.po | 
+ | [eu](/f15/language/eu) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/eu.po | 
+ | [fr](/f15/language/fr) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/fr.po | 
+ | [gl](/f15/language/gl) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/gl.po | 
+ | [gu](/f15/language/gu) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/gu.po | 
+ | [hi](/f15/language/hi) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/hi.po | 
+ | [hr](/f15/language/hr) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/hr.po | 
+ | [hu](/f15/language/hu) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/hu.po | 
+ | [id](/f15/language/id) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/id.po | 
+ | [is](/f15/language/is) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/is.po | 
+ | [it](/f15/language/it) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/it.po | 
+ | [ja](/f15/language/ja) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ja.po | 
+ | [kn](/f15/language/kn) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/kn.po | 
+ | [lv](/f15/language/lv) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/lv.po | 
+ | [ml](/f15/language/ml) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/ml.po | 
+ | [nb_NO](/f15/language/nb_NO) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/nb.po | 
+ | [pt](/f15/language/pt) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/pt.po | 
+ | [si](/f15/language/si) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/si.po | 
+ | [sv](/f15/language/sv) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/sv.po | 
+ | [th](/f15/language/th) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/th.po | 
+ | [tr](/f15/language/tr) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/tr.po | 
+ | [uk](/f15/language/uk) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 22 | 45 | 48.9 | /mnt/stockage/packages/f15/gwibber/po/zh_TW.po | 
+ | [te](/f15/language/te) | 19 | 45 | 42.2 | /mnt/stockage/packages/f15/gwibber/po/te.po | 
+ | [ko](/f15/language/ko) | 18 | 45 | 40.0 | /mnt/stockage/packages/f15/gwibber/po/ko.po | 
+ | [sl](/f15/language/sl) | 18 | 45 | 40.0 | /mnt/stockage/packages/f15/gwibber/po/sl.po | 
+ | [sr](/f15/language/sr) | 18 | 45 | 40.0 | /mnt/stockage/packages/f15/gwibber/po/sr.po | 
+ | [ms](/f15/language/ms) | 16 | 45 | 35.6 | /mnt/stockage/packages/f15/gwibber/po/ms.po | 
+ | [nn](/f15/language/nn) | 16 | 45 | 35.6 | /mnt/stockage/packages/f15/gwibber/po/nn.po | 
+ | [fil](/f15/language/fil) | 9 | 45 | 20.0 | /mnt/stockage/packages/f15/gwibber/po/fil.po | 
+ | [lo](/f15/language/lo) | 7 | 45 | 15.6 | /mnt/stockage/packages/f15/gwibber/po/lo.po | 
+ | [ro](/f15/language/ro) | 6 | 45 | 13.3 | /mnt/stockage/packages/f15/gwibber/po/ro.po | 
+ | [ga](/f15/language/ga) | 0 | 45 | 0.0 | /mnt/stockage/packages/f15/gwibber/po/ga.po | 
+ | [sq](/f15/language/sq) | 0 | 45 | 0.0 | /mnt/stockage/packages/f15/gwibber/po/sq.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 0 | 45 | 0.0 | /mnt/stockage/packages/f15/gwibber/po/zh_HK.po | 
 {.sortable}
 
 

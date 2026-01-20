@@ -18,7 +18,7 @@ The package chromium (version 81.0.4044.138):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f30/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f30/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 913 | 913 | 100.0 | /mnt/stockage/packages/f30/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f30/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
 {.sortable}
 
 

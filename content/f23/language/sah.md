@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 132 | 17305 | 0.8 | Yakut <sah@li.org> | 
- | [libreoffice]({{< ref "/f23/package/libreoffice.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f23/package/stellarium) | 132 | 17305 | 0.8 | Yakut <sah@li.org> | 
+ | [libreoffice](/f23/package/libreoffice) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

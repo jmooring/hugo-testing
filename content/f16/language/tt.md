@@ -38,38 +38,38 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgnomecanvas]({{< ref "/f16/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
- | [lxappearance]({{< ref "/f16/package/lxappearance.md" >}}) | 212 | 212 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxappearance-obconf]({{< ref "/f16/package/lxappearance-obconf.md" >}}) | 184 | 184 | 100.0 | Tatar <> | 
- | [lxinput]({{< ref "/f16/package/lxinput.md" >}}) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxpolkit]({{< ref "/f16/package/lxpolkit.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxsession-edit]({{< ref "/f16/package/lxsession-edit.md" >}}) | 64 | 64 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f16/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f16/package/lxterminal.md" >}}) | 144 | 144 | 100.0 | LANGUAGE <LL@li.org> | 
- | [atk]({{< ref "/f16/package/atk.md" >}}) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-atk]({{< ref "/f16/package/mingw32-atk.md" >}}) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [lxpanel]({{< ref "/f16/package/lxpanel.md" >}}) | 910 | 957 | 95.1 | Tatar <> | 
- | [libmatecanvas]({{< ref "/f16/package/libmatecanvas.md" >}}) | 353 | 378 | 93.4 | LANGUAGE <LL@li.org> | 
- | [lxrandr]({{< ref "/f16/package/lxrandr.md" >}}) | 111 | 122 | 91.0 | LANGUAGE <LL@li.org> | 
- | [poedit]({{< ref "/f16/package/poedit.md" >}}) | 1017 | 1162 | 87.5 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libfm]({{< ref "/f16/package/libfm.md" >}}) | 568 | 859 | 66.1 |  | 
- | [libgnomeui]({{< ref "/f16/package/libgnomeui.md" >}}) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [pcmanfm]({{< ref "/f16/package/pcmanfm.md" >}}) | 293 | 799 | 36.7 |  | 
- | [stardict]({{< ref "/f16/package/stardict.md" >}}) | 860 | 2638 | 32.6 | tt <tatarish.l10n@gmail.com> | 
- | [gdk-pixbuf2]({{< ref "/f16/package/gdk-pixbuf2.md" >}}) | 388 | 1313 | 29.6 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-gdk-pixbuf]({{< ref "/f16/package/mingw32-gdk-pixbuf.md" >}}) | 388 | 1313 | 29.6 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gimp]({{< ref "/f16/package/gimp.md" >}}) | 1781 | 9929 | 17.9 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libgnome]({{< ref "/f16/package/libgnome.md" >}}) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
- | [iso-codes]({{< ref "/f16/package/iso-codes.md" >}}) | 1049 | 12366 | 8.5 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gtk2]({{< ref "/f16/package/gtk2.md" >}}) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-gtk2]({{< ref "/f16/package/mingw32-gtk2.md" >}}) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libmate]({{< ref "/f16/package/libmate.md" >}}) | 147 | 1773 | 8.3 | LANGUAGE <LL@li.org> | 
- | [glib2]({{< ref "/f16/package/glib2.md" >}}) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-glib2]({{< ref "/f16/package/mingw32-glib2.md" >}}) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gtk3]({{< ref "/f16/package/gtk3.md" >}}) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw-gtk3]({{< ref "/f16/package/mingw-gtk3.md" >}}) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
- | [calibre]({{< ref "/f16/package/calibre.md" >}}) | 157 | 10496 | 1.5 | Tatarish | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 0 | 7138 | 0.0 | Tatar <tt@li.org> | 
+ | [libgnomecanvas](/f16/package/libgnomecanvas) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [lxappearance](/f16/package/lxappearance) | 212 | 212 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxappearance-obconf](/f16/package/lxappearance-obconf) | 184 | 184 | 100.0 | Tatar <> | 
+ | [lxinput](/f16/package/lxinput) | 72 | 72 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxpolkit](/f16/package/lxpolkit) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxsession-edit](/f16/package/lxsession-edit) | 64 | 64 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f16/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f16/package/lxterminal) | 144 | 144 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [atk](/f16/package/atk) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-atk](/f16/package/mingw32-atk) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [lxpanel](/f16/package/lxpanel) | 910 | 957 | 95.1 | Tatar <> | 
+ | [libmatecanvas](/f16/package/libmatecanvas) | 353 | 378 | 93.4 | LANGUAGE <LL@li.org> | 
+ | [lxrandr](/f16/package/lxrandr) | 111 | 122 | 91.0 | LANGUAGE <LL@li.org> | 
+ | [poedit](/f16/package/poedit) | 1017 | 1162 | 87.5 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libfm](/f16/package/libfm) | 568 | 859 | 66.1 |  | 
+ | [libgnomeui](/f16/package/libgnomeui) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [pcmanfm](/f16/package/pcmanfm) | 293 | 799 | 36.7 |  | 
+ | [stardict](/f16/package/stardict) | 860 | 2638 | 32.6 | tt <tatarish.l10n@gmail.com> | 
+ | [gdk-pixbuf2](/f16/package/gdk-pixbuf2) | 388 | 1313 | 29.6 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-gdk-pixbuf](/f16/package/mingw32-gdk-pixbuf) | 388 | 1313 | 29.6 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gimp](/f16/package/gimp) | 1781 | 9929 | 17.9 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnome](/f16/package/libgnome) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [iso-codes](/f16/package/iso-codes) | 1049 | 12366 | 8.5 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gtk2](/f16/package/gtk2) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-gtk2](/f16/package/mingw32-gtk2) | 1141 | 13704 | 8.3 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libmate](/f16/package/libmate) | 147 | 1773 | 8.3 | LANGUAGE <LL@li.org> | 
+ | [glib2](/f16/package/glib2) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-glib2](/f16/package/mingw32-glib2) | 345 | 4777 | 7.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gtk3](/f16/package/gtk3) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw-gtk3](/f16/package/mingw-gtk3) | 695 | 11853 | 5.9 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [calibre](/f16/package/calibre) | 157 | 10496 | 1.5 | Tatarish | 
+ | [stellarium](/f16/package/stellarium) | 0 | 7138 | 0.0 | Tatar <tt@li.org> | 
 {.sortable}
 
 

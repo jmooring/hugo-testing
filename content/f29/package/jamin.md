@@ -18,8 +18,8 @@ The package jamin (version 0.97.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 2453 | 3352 | 73.2 | /mnt/stockage/packages/f29/jamin/po/ru.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 773 | 3832 | 20.2 | /mnt/stockage/packages/f29/jamin/po/fr.po | 
+ | [ru](/f29/language/ru) | 2453 | 3352 | 73.2 | /mnt/stockage/packages/f29/jamin/po/ru.po | 
+ | [fr](/f29/language/fr) | 773 | 3832 | 20.2 | /mnt/stockage/packages/f29/jamin/po/fr.po | 
 {.sortable}
 
 

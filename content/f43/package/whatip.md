@@ -18,16 +18,16 @@ The package whatip (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f43/whatip/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f43/whatip/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/whatip/po/es.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 275 | 275 | 100.0 | /mnt/stockage/packages/f43/whatip/po/ka.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f43/whatip/po/nl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f43/whatip/po/pt_BR.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f43/whatip/po/sk.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f43/whatip/po/sv.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 307 | 309 | 99.4 | /mnt/stockage/packages/f43/whatip/po/fr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 278 | 311 | 89.4 | /mnt/stockage/packages/f43/whatip/po/it.po | 
+ | [cs](/f43/language/cs) | 316 | 316 | 100.0 | /mnt/stockage/packages/f43/whatip/po/cs.po | 
+ | [de](/f43/language/de) | 316 | 316 | 100.0 | /mnt/stockage/packages/f43/whatip/po/de.po | 
+ | [es](/f43/language/es) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/whatip/po/es.po | 
+ | [ka](/f43/language/ka) | 275 | 275 | 100.0 | /mnt/stockage/packages/f43/whatip/po/ka.po | 
+ | [nl](/f43/language/nl) | 311 | 311 | 100.0 | /mnt/stockage/packages/f43/whatip/po/nl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 316 | 316 | 100.0 | /mnt/stockage/packages/f43/whatip/po/pt_BR.po | 
+ | [sk](/f43/language/sk) | 253 | 253 | 100.0 | /mnt/stockage/packages/f43/whatip/po/sk.po | 
+ | [sv](/f43/language/sv) | 222 | 222 | 100.0 | /mnt/stockage/packages/f43/whatip/po/sv.po | 
+ | [fr](/f43/language/fr) | 307 | 309 | 99.4 | /mnt/stockage/packages/f43/whatip/po/fr.po | 
+ | [it](/f43/language/it) | 278 | 311 | 89.4 | /mnt/stockage/packages/f43/whatip/po/it.po | 
 {.sortable}
 
 

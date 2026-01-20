@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gdm]({{< ref "/f24/package/gdm.md" >}}) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
- | [nemo-extensions]({{< ref "/f24/package/nemo-extensions.md" >}}) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
- | [poedit]({{< ref "/f24/package/poedit.md" >}}) | 2528 | 2529 | 100.0 | Kabyle | 
- | [filezilla]({{< ref "/f24/package/filezilla.md" >}}) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
- | [blueberry]({{< ref "/f24/package/blueberry.md" >}}) | 138 | 141 | 97.9 | Kabyle <kab@li.org> | 
- | [pix]({{< ref "/f24/package/pix.md" >}}) | 991 | 3723 | 26.6 | Kabyle <kab@li.org> | 
- | [xed]({{< ref "/f24/package/xed.md" >}}) | 1157 | 4463 | 25.9 | Kabyle <kab@li.org> | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 3462 | 13551 | 25.5 | Kabyle <kab@li.org> | 
- | [xreader]({{< ref "/f24/package/xreader.md" >}}) | 412 | 1637 | 25.2 | Kabyle <kab@li.org> | 
- | [xviewer]({{< ref "/f24/package/xviewer.md" >}}) | 251 | 1677 | 15.0 | Kabyle <kab@li.org> | 
- | [xplayer]({{< ref "/f24/package/xplayer.md" >}}) | 237 | 1986 | 11.9 | Kabyle <kab@li.org> | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 17 | 1881 | 0.9 | Kabyle <kab@li.org> | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp7]({{< ref "/f24/package/openerp7.md" >}}) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
+ | [gdm](/f24/package/gdm) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
+ | [nemo-extensions](/f24/package/nemo-extensions) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
+ | [poedit](/f24/package/poedit) | 2528 | 2529 | 100.0 | Kabyle | 
+ | [filezilla](/f24/package/filezilla) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
+ | [blueberry](/f24/package/blueberry) | 138 | 141 | 97.9 | Kabyle <kab@li.org> | 
+ | [pix](/f24/package/pix) | 991 | 3723 | 26.6 | Kabyle <kab@li.org> | 
+ | [xed](/f24/package/xed) | 1157 | 4463 | 25.9 | Kabyle <kab@li.org> | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 3462 | 13551 | 25.5 | Kabyle <kab@li.org> | 
+ | [xreader](/f24/package/xreader) | 412 | 1637 | 25.2 | Kabyle <kab@li.org> | 
+ | [xviewer](/f24/package/xviewer) | 251 | 1677 | 15.0 | Kabyle <kab@li.org> | 
+ | [xplayer](/f24/package/xplayer) | 237 | 1986 | 11.9 | Kabyle <kab@li.org> | 
+ | [mintmenu](/f24/package/mintmenu) | 17 | 1881 | 0.9 | Kabyle <kab@li.org> | 
+ | [openerp](/f24/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp7](/f24/package/openerp7) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

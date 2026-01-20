@@ -18,21 +18,21 @@ The package whois (version 5.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/cs.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/it.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/ru.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/fi.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 163 | 459 | 35.5 | /mnt/stockage/packages/f15/whois/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 149 | 459 | 32.5 | /mnt/stockage/packages/f15/whois/po/zh_CN.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 123 | 459 | 26.8 | /mnt/stockage/packages/f15/whois/po/el.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 123 | 459 | 26.8 | /mnt/stockage/packages/f15/whois/po/ja.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 101 | 459 | 22.0 | /mnt/stockage/packages/f15/whois/po/eu.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 15 | 459 | 3.3 | /mnt/stockage/packages/f15/whois/po/no.po | 
+ | [cs](/f15/language/cs) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/cs.po | 
+ | [fr](/f15/language/fr) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/fr.po | 
+ | [it](/f15/language/it) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/it.po | 
+ | [ru](/f15/language/ru) | 459 | 459 | 100.0 | /mnt/stockage/packages/f15/whois/po/ru.po | 
+ | [da](/f15/language/da) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/da.po | 
+ | [de](/f15/language/de) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/de.po | 
+ | [es](/f15/language/es) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/es.po | 
+ | [fi](/f15/language/fi) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/fi.po | 
+ | [pl](/f15/language/pl) | 271 | 459 | 59.0 | /mnt/stockage/packages/f15/whois/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 163 | 459 | 35.5 | /mnt/stockage/packages/f15/whois/po/pt_BR.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 149 | 459 | 32.5 | /mnt/stockage/packages/f15/whois/po/zh_CN.po | 
+ | [el](/f15/language/el) | 123 | 459 | 26.8 | /mnt/stockage/packages/f15/whois/po/el.po | 
+ | [ja](/f15/language/ja) | 123 | 459 | 26.8 | /mnt/stockage/packages/f15/whois/po/ja.po | 
+ | [eu](/f15/language/eu) | 101 | 459 | 22.0 | /mnt/stockage/packages/f15/whois/po/eu.po | 
+ | [nb_NO](/f15/language/nb_NO) | 15 | 459 | 3.3 | /mnt/stockage/packages/f15/whois/po/no.po | 
 {.sortable}
 
 

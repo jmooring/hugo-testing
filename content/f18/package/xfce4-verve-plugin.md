@@ -18,43 +18,43 @@ The package xfce4-verve-plugin (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ar.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ast.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/en_GB.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/eo.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/es.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/eu.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/gl.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ja.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/nb.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/nl.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pa.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ru.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/sq.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/uk.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f18/language/ur_PK.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/zh_TW.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 12 | 47 | 25.5 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/vi.po | 
+ | [ar](/f18/language/ar) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ar.po | 
+ | [ast](/f18/language/ast) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ast.po | 
+ | [ca](/f18/language/ca) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ca.po | 
+ | [cs](/f18/language/cs) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/cs.po | 
+ | [da](/f18/language/da) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/da.po | 
+ | [de](/f18/language/de) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/de.po | 
+ | [el](/f18/language/el) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/en_GB.po | 
+ | [eo](/f18/language/eo) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/eo.po | 
+ | [es](/f18/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/es.po | 
+ | [eu](/f18/language/eu) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/eu.po | 
+ | [fi](/f18/language/fi) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/fi.po | 
+ | [fr](/f18/language/fr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/fr.po | 
+ | [gl](/f18/language/gl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/gl.po | 
+ | [hu](/f18/language/hu) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/hu.po | 
+ | [id](/f18/language/id) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/id.po | 
+ | [it](/f18/language/it) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/it.po | 
+ | [ja](/f18/language/ja) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ja.po | 
+ | [lv](/f18/language/lv) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/lv.po | 
+ | [nb_NO](/f18/language/nb_NO) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/nb.po | 
+ | [nl](/f18/language/nl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/nl.po | 
+ | [pa](/f18/language/pa) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pa.po | 
+ | [pl](/f18/language/pl) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pl.po | 
+ | [pt](/f18/language/pt) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ro.po | 
+ | [ru](/f18/language/ru) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ru.po | 
+ | [sq](/f18/language/sq) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/sq.po | 
+ | [sv](/f18/language/sv) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/sv.po | 
+ | [tr](/f18/language/tr) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/tr.po | 
+ | [ug](/f18/language/ug) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ug.po | 
+ | [uk](/f18/language/uk) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/uk.po | 
+ | [ur](/f18/language/ur) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ur.po | 
+ | [ur_PK](/f18/language/ur_PK) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/ur_PK.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 47 | 47 | 100.0 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/zh_TW.po | 
+ | [vi](/f18/language/vi) | 12 | 47 | 25.5 | /mnt/stockage/packages/f18/xfce4-verve-plugin/po/vi.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package golang-github-leonelquinteros-gotext (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/ar/categories.po/mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/ar/no_plural_header.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 84 | 92 | 91.3 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/de/default.po/mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/de_DE/LC_MESSAGES/default.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 42 | 46 | 91.3 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/fr/LC_MESSAGES/default.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 74 | 82 | 90.2 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/en_US/default.po/mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/en_AU/default.po | 
+ | [ar](/f38/language/ar) | 3 | 3 | 100.0 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/ar/categories.po/mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/ar/no_plural_header.po | 
+ | [de](/f38/language/de) | 84 | 92 | 91.3 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/de/default.po/mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/de_DE/LC_MESSAGES/default.po | 
+ | [fr](/f38/language/fr) | 42 | 46 | 91.3 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/fr/LC_MESSAGES/default.po | 
+ | [en_US](/f38/language/en_US) | 74 | 82 | 90.2 | /mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/en_US/default.po/mnt/stockage/packages/f38/golang-github-leonelquinteros-gotext/fixtures/en_AU/default.po | 
 {.sortable}
 
 

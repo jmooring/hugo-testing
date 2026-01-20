@@ -18,15 +18,15 @@ The package qalculate-gtk (version 3.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 4344 | 4374 | 99.3 | /mnt/stockage/packages/f34/qalculate-gtk/po/ru.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 4340 | 4374 | 99.2 | /mnt/stockage/packages/f34/qalculate-gtk/po/de.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 4303 | 4374 | 98.4 | /mnt/stockage/packages/f34/qalculate-gtk/po/zh_CN.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 4287 | 4374 | 98.0 | /mnt/stockage/packages/f34/qalculate-gtk/po/sv.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 4146 | 4374 | 94.8 | /mnt/stockage/packages/f34/qalculate-gtk/po/pt_BR.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 4121 | 4374 | 94.2 | /mnt/stockage/packages/f34/qalculate-gtk/po/es.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 4119 | 4374 | 94.2 | /mnt/stockage/packages/f34/qalculate-gtk/po/sl.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 3450 | 4374 | 78.9 | /mnt/stockage/packages/f34/qalculate-gtk/po/fr.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 2225 | 4374 | 50.9 | /mnt/stockage/packages/f34/qalculate-gtk/po/nl.po | 
+ | [ru](/f34/language/ru) | 4344 | 4374 | 99.3 | /mnt/stockage/packages/f34/qalculate-gtk/po/ru.po | 
+ | [de](/f34/language/de) | 4340 | 4374 | 99.2 | /mnt/stockage/packages/f34/qalculate-gtk/po/de.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 4303 | 4374 | 98.4 | /mnt/stockage/packages/f34/qalculate-gtk/po/zh_CN.po | 
+ | [sv](/f34/language/sv) | 4287 | 4374 | 98.0 | /mnt/stockage/packages/f34/qalculate-gtk/po/sv.po | 
+ | [pt_BR](/f34/language/pt_BR) | 4146 | 4374 | 94.8 | /mnt/stockage/packages/f34/qalculate-gtk/po/pt_BR.po | 
+ | [es](/f34/language/es) | 4121 | 4374 | 94.2 | /mnt/stockage/packages/f34/qalculate-gtk/po/es.po | 
+ | [sl](/f34/language/sl) | 4119 | 4374 | 94.2 | /mnt/stockage/packages/f34/qalculate-gtk/po/sl.po | 
+ | [fr](/f34/language/fr) | 3450 | 4374 | 78.9 | /mnt/stockage/packages/f34/qalculate-gtk/po/fr.po | 
+ | [nl](/f34/language/nl) | 2225 | 4374 | 50.9 | /mnt/stockage/packages/f34/qalculate-gtk/po/nl.po | 
 {.sortable}
 
 

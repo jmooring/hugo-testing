@@ -18,57 +18,57 @@ The package knavalbattle (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ca/knavalbattle.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ca@valencia/knavalbattle.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/da/knavalbattle.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/de/knavalbattle.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/en_GB/knavalbattle.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/es/knavalbattle.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/fi/knavalbattle.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/fr/knavalbattle.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/gl/knavalbattle.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/it/knavalbattle.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ko/knavalbattle.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/nl/knavalbattle.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/nn/knavalbattle.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/pl/knavalbattle.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/pt/knavalbattle.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/pt_BR/knavalbattle.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ru/knavalbattle.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sk/knavalbattle.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sl/knavalbattle.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sr/knavalbattle.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sv/knavalbattle.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/tr/knavalbattle.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/uk/knavalbattle.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/zh_CN/knavalbattle.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/zh_TW/knavalbattle.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/bs/knavalbattle.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/et/knavalbattle.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/hu/knavalbattle.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/nds/knavalbattle.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 355 | 399 | 89.0 | /mnt/stockage/packages/f29/knavalbattle/po/cs/knavalbattle.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 304 | 399 | 76.2 | /mnt/stockage/packages/f29/knavalbattle/po/nb/knavalbattle.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 302 | 399 | 75.7 | /mnt/stockage/packages/f29/knavalbattle/po/el/knavalbattle.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 302 | 399 | 75.7 | /mnt/stockage/packages/f29/knavalbattle/po/kk/knavalbattle.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 302 | 399 | 75.7 | /mnt/stockage/packages/f29/knavalbattle/po/ro/knavalbattle.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 267 | 399 | 66.9 | /mnt/stockage/packages/f29/knavalbattle/po/ga/knavalbattle.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 267 | 399 | 66.9 | /mnt/stockage/packages/f29/knavalbattle/po/km/knavalbattle.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/bg/knavalbattle.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/is/knavalbattle.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/lt/knavalbattle.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/lv/knavalbattle.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 241 | 399 | 60.4 | /mnt/stockage/packages/f29/knavalbattle/po/eu/knavalbattle.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 241 | 399 | 60.4 | /mnt/stockage/packages/f29/knavalbattle/po/ja/knavalbattle.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 228 | 399 | 57.1 | /mnt/stockage/packages/f29/knavalbattle/po/fa/knavalbattle.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 196 | 399 | 49.1 | /mnt/stockage/packages/f29/knavalbattle/po/hi/knavalbattle.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 66 | 399 | 16.5 | /mnt/stockage/packages/f29/knavalbattle/po/eo/knavalbattle.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 59 | 399 | 14.8 | /mnt/stockage/packages/f29/knavalbattle/po/ug/knavalbattle.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 31 | 399 | 7.8 | /mnt/stockage/packages/f29/knavalbattle/po/he/knavalbattle.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 31 | 399 | 7.8 | /mnt/stockage/packages/f29/knavalbattle/po/hr/knavalbattle.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 25 | 399 | 6.3 | /mnt/stockage/packages/f29/knavalbattle/po/ar/knavalbattle.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 24 | 399 | 6.0 | /mnt/stockage/packages/f29/knavalbattle/po/mr/knavalbattle.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 11 | 399 | 2.8 | /mnt/stockage/packages/f29/knavalbattle/po/pa/knavalbattle.po | 
+ | [ca](/f29/language/ca) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ca/knavalbattle.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ca@valencia/knavalbattle.po | 
+ | [da](/f29/language/da) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/da/knavalbattle.po | 
+ | [de](/f29/language/de) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/de/knavalbattle.po | 
+ | [en_GB](/f29/language/en_GB) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/en_GB/knavalbattle.po | 
+ | [es](/f29/language/es) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/es/knavalbattle.po | 
+ | [fi](/f29/language/fi) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/fi/knavalbattle.po | 
+ | [fr](/f29/language/fr) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/fr/knavalbattle.po | 
+ | [gl](/f29/language/gl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/gl/knavalbattle.po | 
+ | [it](/f29/language/it) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/it/knavalbattle.po | 
+ | [ko](/f29/language/ko) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ko/knavalbattle.po | 
+ | [nl](/f29/language/nl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/nl/knavalbattle.po | 
+ | [nn](/f29/language/nn) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/nn/knavalbattle.po | 
+ | [pl](/f29/language/pl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/pl/knavalbattle.po | 
+ | [pt](/f29/language/pt) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/pt/knavalbattle.po | 
+ | [pt_BR](/f29/language/pt_BR) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/pt_BR/knavalbattle.po | 
+ | [ru](/f29/language/ru) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/ru/knavalbattle.po | 
+ | [sk](/f29/language/sk) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sk/knavalbattle.po | 
+ | [sl](/f29/language/sl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sl/knavalbattle.po | 
+ | [sr](/f29/language/sr) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sr/knavalbattle.po | 
+ | [sv](/f29/language/sv) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/sv/knavalbattle.po | 
+ | [tr](/f29/language/tr) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/tr/knavalbattle.po | 
+ | [uk](/f29/language/uk) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/uk/knavalbattle.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/zh_CN/knavalbattle.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 399 | 399 | 100.0 | /mnt/stockage/packages/f29/knavalbattle/po/zh_TW/knavalbattle.po | 
+ | [bs](/f29/language/bs) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/bs/knavalbattle.po | 
+ | [et](/f29/language/et) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/et/knavalbattle.po | 
+ | [hu](/f29/language/hu) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/hu/knavalbattle.po | 
+ | [nds](/f29/language/nds) | 398 | 399 | 99.7 | /mnt/stockage/packages/f29/knavalbattle/po/nds/knavalbattle.po | 
+ | [cs](/f29/language/cs) | 355 | 399 | 89.0 | /mnt/stockage/packages/f29/knavalbattle/po/cs/knavalbattle.po | 
+ | [nb_NO](/f29/language/nb_NO) | 304 | 399 | 76.2 | /mnt/stockage/packages/f29/knavalbattle/po/nb/knavalbattle.po | 
+ | [el](/f29/language/el) | 302 | 399 | 75.7 | /mnt/stockage/packages/f29/knavalbattle/po/el/knavalbattle.po | 
+ | [kk](/f29/language/kk) | 302 | 399 | 75.7 | /mnt/stockage/packages/f29/knavalbattle/po/kk/knavalbattle.po | 
+ | [ro](/f29/language/ro) | 302 | 399 | 75.7 | /mnt/stockage/packages/f29/knavalbattle/po/ro/knavalbattle.po | 
+ | [ga](/f29/language/ga) | 267 | 399 | 66.9 | /mnt/stockage/packages/f29/knavalbattle/po/ga/knavalbattle.po | 
+ | [km](/f29/language/km) | 267 | 399 | 66.9 | /mnt/stockage/packages/f29/knavalbattle/po/km/knavalbattle.po | 
+ | [bg](/f29/language/bg) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/bg/knavalbattle.po | 
+ | [is](/f29/language/is) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/is/knavalbattle.po | 
+ | [lt](/f29/language/lt) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/lt/knavalbattle.po | 
+ | [lv](/f29/language/lv) | 260 | 399 | 65.2 | /mnt/stockage/packages/f29/knavalbattle/po/lv/knavalbattle.po | 
+ | [eu](/f29/language/eu) | 241 | 399 | 60.4 | /mnt/stockage/packages/f29/knavalbattle/po/eu/knavalbattle.po | 
+ | [ja](/f29/language/ja) | 241 | 399 | 60.4 | /mnt/stockage/packages/f29/knavalbattle/po/ja/knavalbattle.po | 
+ | [fa](/f29/language/fa) | 228 | 399 | 57.1 | /mnt/stockage/packages/f29/knavalbattle/po/fa/knavalbattle.po | 
+ | [hi](/f29/language/hi) | 196 | 399 | 49.1 | /mnt/stockage/packages/f29/knavalbattle/po/hi/knavalbattle.po | 
+ | [eo](/f29/language/eo) | 66 | 399 | 16.5 | /mnt/stockage/packages/f29/knavalbattle/po/eo/knavalbattle.po | 
+ | [ug](/f29/language/ug) | 59 | 399 | 14.8 | /mnt/stockage/packages/f29/knavalbattle/po/ug/knavalbattle.po | 
+ | [he](/f29/language/he) | 31 | 399 | 7.8 | /mnt/stockage/packages/f29/knavalbattle/po/he/knavalbattle.po | 
+ | [hr](/f29/language/hr) | 31 | 399 | 7.8 | /mnt/stockage/packages/f29/knavalbattle/po/hr/knavalbattle.po | 
+ | [ar](/f29/language/ar) | 25 | 399 | 6.3 | /mnt/stockage/packages/f29/knavalbattle/po/ar/knavalbattle.po | 
+ | [mr](/f29/language/mr) | 24 | 399 | 6.0 | /mnt/stockage/packages/f29/knavalbattle/po/mr/knavalbattle.po | 
+ | [pa](/f29/language/pa) | 11 | 399 | 2.8 | /mnt/stockage/packages/f29/knavalbattle/po/pa/knavalbattle.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package fcitx-sunpinyin (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 104 | 104 | 100.0 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/zh_TW.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 97 | 104 | 93.3 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/de.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 87 | 104 | 83.7 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/ja.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 104 | 104 | 100.0 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 104 | 104 | 100.0 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/zh_TW.po | 
+ | [de](/f25/language/de) | 97 | 104 | 93.3 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/de.po | 
+ | [ja](/f25/language/ja) | 87 | 104 | 83.7 | /mnt/stockage/packages/f25/fcitx-sunpinyin/po/ja.po | 
 {.sortable}
 
 

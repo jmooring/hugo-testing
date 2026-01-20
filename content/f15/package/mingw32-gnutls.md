@@ -18,17 +18,17 @@ The package mingw32-gnutls (version 2.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f15/language/en.md" >}}) | 2188 | 2188 | 100.0 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/en@boldquot.po/mnt/stockage/packages/f15/mingw32-gnutls/lib/po/en@quot.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/cs.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/pl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 876 | 1094 | 80.1 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/zh_CN.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 852 | 1094 | 77.9 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/ms.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 561 | 1094 | 51.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/de.po | 
+ | [en](/f15/language/en) | 2188 | 2188 | 100.0 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/en@boldquot.po/mnt/stockage/packages/f15/mingw32-gnutls/lib/po/en@quot.po | 
+ | [cs](/f15/language/cs) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/cs.po | 
+ | [fr](/f15/language/fr) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/fr.po | 
+ | [it](/f15/language/it) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/it.po | 
+ | [nl](/f15/language/nl) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/nl.po | 
+ | [pl](/f15/language/pl) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/pl.po | 
+ | [sv](/f15/language/sv) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/sv.po | 
+ | [vi](/f15/language/vi) | 1053 | 1094 | 96.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 876 | 1094 | 80.1 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/zh_CN.po | 
+ | [ms](/f15/language/ms) | 852 | 1094 | 77.9 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/ms.po | 
+ | [de](/f15/language/de) | 561 | 1094 | 51.3 | /mnt/stockage/packages/f15/mingw32-gnutls/lib/po/de.po | 
 {.sortable}
 
 

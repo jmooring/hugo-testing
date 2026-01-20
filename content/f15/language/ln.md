@@ -41,8 +41,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f15/package/pootle.md" >}}) | 1362 | 5451 | 25.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [pootle](/f15/package/pootle) | 1362 | 5451 | 25.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f15/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

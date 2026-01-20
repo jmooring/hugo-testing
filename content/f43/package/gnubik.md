@@ -18,37 +18,37 @@ The package gnubik (version 2.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f43/language/da.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/da.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/eo.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/fr.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/nb.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/nl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/pt_BR.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/uk.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/vi.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/de.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/hr.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/it.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/pl.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/sl.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 256 | 279 | 91.8 | /mnt/stockage/packages/f43/gnubik/po/zh_CN.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 223 | 279 | 79.9 | /mnt/stockage/packages/f43/gnubik/po/ar.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 200 | 279 | 71.7 | /mnt/stockage/packages/f43/gnubik/po/gl.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 100 | 279 | 35.8 | /mnt/stockage/packages/f43/gnubik/po/bg.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 96 | 279 | 34.4 | /mnt/stockage/packages/f43/gnubik/po/pt.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 84 | 279 | 30.1 | /mnt/stockage/packages/f43/gnubik/po/el.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 84 | 279 | 30.1 | /mnt/stockage/packages/f43/gnubik/po/eu.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 84 | 279 | 30.1 | /mnt/stockage/packages/f43/gnubik/po/ru.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/ca.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/es.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/he.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/ms.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/ro.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/tr.po | 
- | [en_US]({{< ref "/f43/language/en_US.md" >}}) | 35 | 279 | 12.5 | /mnt/stockage/packages/f43/gnubik/po/en_US.po | 
+ | [da](/f43/language/da) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/da.po | 
+ | [eo](/f43/language/eo) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/eo.po | 
+ | [fi](/f43/language/fi) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/fi.po | 
+ | [fr](/f43/language/fr) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/fr.po | 
+ | [nb_NO](/f43/language/nb_NO) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/nb.po | 
+ | [nl](/f43/language/nl) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/nl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/pt_BR.po | 
+ | [sr](/f43/language/sr) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/sr.po | 
+ | [sv](/f43/language/sv) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/sv.po | 
+ | [uk](/f43/language/uk) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/uk.po | 
+ | [vi](/f43/language/vi) | 266 | 279 | 95.3 | /mnt/stockage/packages/f43/gnubik/po/vi.po | 
+ | [de](/f43/language/de) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/de.po | 
+ | [hr](/f43/language/hr) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/hr.po | 
+ | [it](/f43/language/it) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/it.po | 
+ | [pl](/f43/language/pl) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/pl.po | 
+ | [sl](/f43/language/sl) | 265 | 279 | 95.0 | /mnt/stockage/packages/f43/gnubik/po/sl.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 256 | 279 | 91.8 | /mnt/stockage/packages/f43/gnubik/po/zh_CN.po | 
+ | [ar](/f43/language/ar) | 223 | 279 | 79.9 | /mnt/stockage/packages/f43/gnubik/po/ar.po | 
+ | [gl](/f43/language/gl) | 200 | 279 | 71.7 | /mnt/stockage/packages/f43/gnubik/po/gl.po | 
+ | [bg](/f43/language/bg) | 100 | 279 | 35.8 | /mnt/stockage/packages/f43/gnubik/po/bg.po | 
+ | [pt](/f43/language/pt) | 96 | 279 | 34.4 | /mnt/stockage/packages/f43/gnubik/po/pt.po | 
+ | [el](/f43/language/el) | 84 | 279 | 30.1 | /mnt/stockage/packages/f43/gnubik/po/el.po | 
+ | [eu](/f43/language/eu) | 84 | 279 | 30.1 | /mnt/stockage/packages/f43/gnubik/po/eu.po | 
+ | [ru](/f43/language/ru) | 84 | 279 | 30.1 | /mnt/stockage/packages/f43/gnubik/po/ru.po | 
+ | [ca](/f43/language/ca) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/ca.po | 
+ | [es](/f43/language/es) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/es.po | 
+ | [he](/f43/language/he) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/he.po | 
+ | [ms](/f43/language/ms) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/ms.po | 
+ | [ro](/f43/language/ro) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/ro.po | 
+ | [tr](/f43/language/tr) | 45 | 279 | 16.1 | /mnt/stockage/packages/f43/gnubik/po/tr.po | 
+ | [en_US](/f43/language/en_US) | 35 | 279 | 12.5 | /mnt/stockage/packages/f43/gnubik/po/en_US.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package fswatch (version 1.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f35/fswatch/po/es.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 537 | 537 | 100.0 | /mnt/stockage/packages/f35/fswatch/po/it.po | 
+ | [es](/f35/language/es) | 537 | 537 | 100.0 | /mnt/stockage/packages/f35/fswatch/po/es.po | 
+ | [it](/f35/language/it) | 537 | 537 | 100.0 | /mnt/stockage/packages/f35/fswatch/po/it.po | 
 {.sortable}
 
 

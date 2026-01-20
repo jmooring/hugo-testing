@@ -18,14 +18,14 @@ The package qemu (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/bg.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/fr_FR.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/it.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/zh_CN.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f30/qemu/po/hu.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f30/qemu/po/tr.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/qemu/po/messages.po | 
+ | [bg](/f30/language/bg) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/bg.po | 
+ | [de](/f30/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/de_DE.po | 
+ | [fr](/f30/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/fr_FR.po | 
+ | [it](/f30/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/it.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 33 | 35 | 94.3 | /mnt/stockage/packages/f30/qemu/po/zh_CN.po | 
+ | [hu](/f30/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f30/qemu/po/hu.po | 
+ | [tr](/f30/language/tr) | 22 | 35 | 62.9 | /mnt/stockage/packages/f30/qemu/po/tr.po | 
+ | [error](/f30/language/error) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/qemu/po/messages.po | 
 {.sortable}
 
 

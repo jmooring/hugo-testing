@@ -18,17 +18,17 @@ The package kid3 (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1282 | 1282 | 100.0 | /mnt/stockage/packages/f13/kid3/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/de_qt.po/mnt/stockage/packages/f13/kid3/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/es_qt.po/mnt/stockage/packages/f13/kid3/po/es.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/et_qt.po/mnt/stockage/packages/f13/kid3/po/et.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/fr_qt.po/mnt/stockage/packages/f13/kid3/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/it_qt.po/mnt/stockage/packages/f13/kid3/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1284 | 1297 | 99.0 | /mnt/stockage/packages/f13/kid3/kid3/ru_qt.po/mnt/stockage/packages/f13/kid3/po/ru.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 1268 | 1282 | 98.9 | /mnt/stockage/packages/f13/kid3/po/fi.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1189 | 1297 | 91.7 | /mnt/stockage/packages/f13/kid3/kid3/pl_qt.po/mnt/stockage/packages/f13/kid3/po/pl.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 1103 | 1282 | 86.0 | /mnt/stockage/packages/f13/kid3/po/tr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 997 | 1297 | 76.9 | /mnt/stockage/packages/f13/kid3/kid3/nl_qt.po/mnt/stockage/packages/f13/kid3/po/nl.po | 
+ | [cs](/f13/language/cs) | 1282 | 1282 | 100.0 | /mnt/stockage/packages/f13/kid3/po/cs.po | 
+ | [de](/f13/language/de) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/de_qt.po/mnt/stockage/packages/f13/kid3/po/de.po | 
+ | [es](/f13/language/es) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/es_qt.po/mnt/stockage/packages/f13/kid3/po/es.po | 
+ | [et](/f13/language/et) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/et_qt.po/mnt/stockage/packages/f13/kid3/po/et.po | 
+ | [fr](/f13/language/fr) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/fr_qt.po/mnt/stockage/packages/f13/kid3/po/fr.po | 
+ | [it](/f13/language/it) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f13/kid3/kid3/it_qt.po/mnt/stockage/packages/f13/kid3/po/it.po | 
+ | [ru](/f13/language/ru) | 1284 | 1297 | 99.0 | /mnt/stockage/packages/f13/kid3/kid3/ru_qt.po/mnt/stockage/packages/f13/kid3/po/ru.po | 
+ | [fi](/f13/language/fi) | 1268 | 1282 | 98.9 | /mnt/stockage/packages/f13/kid3/po/fi.po | 
+ | [pl](/f13/language/pl) | 1189 | 1297 | 91.7 | /mnt/stockage/packages/f13/kid3/kid3/pl_qt.po/mnt/stockage/packages/f13/kid3/po/pl.po | 
+ | [tr](/f13/language/tr) | 1103 | 1282 | 86.0 | /mnt/stockage/packages/f13/kid3/po/tr.po | 
+ | [nl](/f13/language/nl) | 997 | 1297 | 76.9 | /mnt/stockage/packages/f13/kid3/kid3/nl_qt.po/mnt/stockage/packages/f13/kid3/po/nl.po | 
 {.sortable}
 
 

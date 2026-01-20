@@ -18,13 +18,13 @@ The package scim-hangul (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f40/scim-hangul/po/ko.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f40/scim-hangul/po/nl.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/fr.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/ja.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/pa.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 43 | 186 | 23.1 | /mnt/stockage/packages/f40/scim-hangul/po/zh_CN.po | 
+ | [ko](/f40/language/ko) | 186 | 186 | 100.0 | /mnt/stockage/packages/f40/scim-hangul/po/ko.po | 
+ | [nl](/f40/language/nl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f40/scim-hangul/po/nl.po | 
+ | [de](/f40/language/de) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/de.po | 
+ | [fr](/f40/language/fr) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/fr.po | 
+ | [ja](/f40/language/ja) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/ja.po | 
+ | [pa](/f40/language/pa) | 47 | 186 | 25.3 | /mnt/stockage/packages/f40/scim-hangul/po/pa.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 43 | 186 | 23.1 | /mnt/stockage/packages/f40/scim-hangul/po/zh_CN.po | 
 {.sortable}
 
 

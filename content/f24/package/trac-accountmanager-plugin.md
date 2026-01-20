@@ -18,26 +18,26 @@ The package trac-accountmanager-plugin (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 1208 | 1208 | 100.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/de/LC_MESSAGES/acct_mgr.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1208 | 1208 | 100.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/ja/LC_MESSAGES/acct_mgr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 894 | 1208 | 74.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/it/LC_MESSAGES/acct_mgr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 893 | 1208 | 73.9 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/sv/LC_MESSAGES/acct_mgr.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 881 | 1208 | 72.9 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/he/LC_MESSAGES/acct_mgr.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 875 | 1208 | 72.4 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/ru/LC_MESSAGES/acct_mgr.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 771 | 1208 | 63.8 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/cs/LC_MESSAGES/acct_mgr.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 671 | 1208 | 55.5 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/tr/LC_MESSAGES/acct_mgr.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 628 | 1208 | 52.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/pt_BR/LC_MESSAGES/acct_mgr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 488 | 1208 | 40.4 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/nl/LC_MESSAGES/acct_mgr.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 479 | 1208 | 39.7 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/es/LC_MESSAGES/acct_mgr.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 290 | 1208 | 24.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/fr/LC_MESSAGES/acct_mgr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 192 | 1208 | 15.9 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/zh_CN/LC_MESSAGES/acct_mgr.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 85 | 1208 | 7.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/te/LC_MESSAGES/acct_mgr.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 66 | 1208 | 5.5 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/pl/LC_MESSAGES/acct_mgr.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/et/LC_MESSAGES/acct_mgr.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/fi/LC_MESSAGES/acct_mgr.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/id_ID/LC_MESSAGES/acct_mgr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/uk/LC_MESSAGES/acct_mgr.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/zh_TW/LC_MESSAGES/acct_mgr.po | 
+ | [de](/f24/language/de) | 1208 | 1208 | 100.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/de/LC_MESSAGES/acct_mgr.po | 
+ | [ja](/f24/language/ja) | 1208 | 1208 | 100.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/ja/LC_MESSAGES/acct_mgr.po | 
+ | [it](/f24/language/it) | 894 | 1208 | 74.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/it/LC_MESSAGES/acct_mgr.po | 
+ | [sv](/f24/language/sv) | 893 | 1208 | 73.9 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/sv/LC_MESSAGES/acct_mgr.po | 
+ | [he](/f24/language/he) | 881 | 1208 | 72.9 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/he/LC_MESSAGES/acct_mgr.po | 
+ | [ru](/f24/language/ru) | 875 | 1208 | 72.4 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/ru/LC_MESSAGES/acct_mgr.po | 
+ | [cs](/f24/language/cs) | 771 | 1208 | 63.8 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/cs/LC_MESSAGES/acct_mgr.po | 
+ | [tr](/f24/language/tr) | 671 | 1208 | 55.5 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/tr/LC_MESSAGES/acct_mgr.po | 
+ | [pt_BR](/f24/language/pt_BR) | 628 | 1208 | 52.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/pt_BR/LC_MESSAGES/acct_mgr.po | 
+ | [nl](/f24/language/nl) | 488 | 1208 | 40.4 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/nl/LC_MESSAGES/acct_mgr.po | 
+ | [es](/f24/language/es) | 479 | 1208 | 39.7 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/es/LC_MESSAGES/acct_mgr.po | 
+ | [fr](/f24/language/fr) | 290 | 1208 | 24.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/fr/LC_MESSAGES/acct_mgr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 192 | 1208 | 15.9 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/zh_CN/LC_MESSAGES/acct_mgr.po | 
+ | [te](/f24/language/te) | 85 | 1208 | 7.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/te/LC_MESSAGES/acct_mgr.po | 
+ | [pl](/f24/language/pl) | 66 | 1208 | 5.5 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/pl/LC_MESSAGES/acct_mgr.po | 
+ | [et](/f24/language/et) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/et/LC_MESSAGES/acct_mgr.po | 
+ | [fi](/f24/language/fi) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/fi/LC_MESSAGES/acct_mgr.po | 
+ | [id](/f24/language/id) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/id_ID/LC_MESSAGES/acct_mgr.po | 
+ | [uk](/f24/language/uk) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/uk/LC_MESSAGES/acct_mgr.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 0 | 1208 | 0.0 | /mnt/stockage/packages/f24/trac-accountmanager-plugin/acct_mgr/locale/zh_TW/LC_MESSAGES/acct_mgr.po | 
 {.sortable}
 
 

@@ -18,38 +18,38 @@ The package trac (version 0.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/ca/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/ca/LC_MESSAGES/messages.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/de/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/de/LC_MESSAGES/messages.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/en_GB/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/en_GB/LC_MESSAGES/messages.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/eo/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/eo/LC_MESSAGES/messages.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/es/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/es/LC_MESSAGES/messages.po | 
- | [es_AR]({{< ref "/f15/language/es_AR.md" >}}) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/es_AR/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/es_AR/LC_MESSAGES/messages.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/fr/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/fr/LC_MESSAGES/messages.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 5602 | 5602 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/he/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/he/LC_MESSAGES/messages.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/hu/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/hu/LC_MESSAGES/messages.po | 
- | [hy]({{< ref "/f15/language/hy.md" >}}) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/hy/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/hy/LC_MESSAGES/messages.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 5585 | 5585 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/it/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/it/LC_MESSAGES/messages.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/ja/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/ja/LC_MESSAGES/messages.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/nl/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/nl/LC_MESSAGES/messages.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 5621 | 5621 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/pt_BR/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/pt_BR/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/ru/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/ru/LC_MESSAGES/messages.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/sl/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/sl/LC_MESSAGES/messages.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/sv/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/sv/LC_MESSAGES/messages.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 5585 | 5585 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/tr/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/tr/LC_MESSAGES/messages.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/zh_CN/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/zh_CN/LC_MESSAGES/messages.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 5579 | 5602 | 99.6 | /mnt/stockage/packages/f15/trac/trac/locale/cs/LC_MESSAGES/messages.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 3992 | 4055 | 98.4 | /mnt/stockage/packages/f15/trac/trac/locale/gl/LC_MESSAGES/messages.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 2767 | 2822 | 98.1 | /mnt/stockage/packages/f15/trac/trac/locale/vi/LC_MESSAGES/messages.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 5212 | 5503 | 94.7 | /mnt/stockage/packages/f15/trac/trac/locale/nb/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/nb/LC_MESSAGES/messages.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 2785 | 2987 | 93.2 | /mnt/stockage/packages/f15/trac/trac/locale/el/LC_MESSAGES/messages.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 5228 | 5667 | 92.3 | /mnt/stockage/packages/f15/trac/trac/locale/zh_TW/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/zh_TW/LC_MESSAGES/messages.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 4573 | 5245 | 87.2 | /mnt/stockage/packages/f15/trac/trac/locale/pl/LC_MESSAGES/messages.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 2399 | 2809 | 85.4 | /mnt/stockage/packages/f15/trac/trac/locale/fa/LC_MESSAGES/messages.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 4613 | 5602 | 82.3 | /mnt/stockage/packages/f15/trac/trac/locale/fi/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/fi/LC_MESSAGES/messages.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 3499 | 5245 | 66.7 | /mnt/stockage/packages/f15/trac/trac/locale/ko/LC_MESSAGES/messages.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1849 | 3548 | 52.1 | /mnt/stockage/packages/f15/trac/trac/locale/pt/LC_MESSAGES/messages.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1442 | 3470 | 41.6 | /mnt/stockage/packages/f15/trac/trac/locale/ro/LC_MESSAGES/messages.po | 
- | [en_US]({{< ref "/f15/language/en_US.md" >}}) | 0 | 5503 | 0.0 | /mnt/stockage/packages/f15/trac/trac/locale/en_US/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/en_US/LC_MESSAGES/messages.po | 
+ | [ca](/f15/language/ca) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/ca/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/ca/LC_MESSAGES/messages.po | 
+ | [de](/f15/language/de) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/de/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/de/LC_MESSAGES/messages.po | 
+ | [en_GB](/f15/language/en_GB) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/en_GB/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/en_GB/LC_MESSAGES/messages.po | 
+ | [eo](/f15/language/eo) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/eo/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/eo/LC_MESSAGES/messages.po | 
+ | [es](/f15/language/es) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/es/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/es/LC_MESSAGES/messages.po | 
+ | [es_AR](/f15/language/es_AR) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/es_AR/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/es_AR/LC_MESSAGES/messages.po | 
+ | [fr](/f15/language/fr) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/fr/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/fr/LC_MESSAGES/messages.po | 
+ | [he](/f15/language/he) | 5602 | 5602 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/he/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/he/LC_MESSAGES/messages.po | 
+ | [hu](/f15/language/hu) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/hu/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/hu/LC_MESSAGES/messages.po | 
+ | [hy](/f15/language/hy) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/hy/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/hy/LC_MESSAGES/messages.po | 
+ | [it](/f15/language/it) | 5585 | 5585 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/it/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/it/LC_MESSAGES/messages.po | 
+ | [ja](/f15/language/ja) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/ja/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/ja/LC_MESSAGES/messages.po | 
+ | [nl](/f15/language/nl) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/nl/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/nl/LC_MESSAGES/messages.po | 
+ | [pt_BR](/f15/language/pt_BR) | 5621 | 5621 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/pt_BR/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/pt_BR/LC_MESSAGES/messages.po | 
+ | [ru](/f15/language/ru) | 5667 | 5667 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/ru/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/ru/LC_MESSAGES/messages.po | 
+ | [sl](/f15/language/sl) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/sl/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/sl/LC_MESSAGES/messages.po | 
+ | [sv](/f15/language/sv) | 5685 | 5685 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/sv/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/sv/LC_MESSAGES/messages.po | 
+ | [tr](/f15/language/tr) | 5585 | 5585 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/tr/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/tr/LC_MESSAGES/messages.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 5503 | 5503 | 100.0 | /mnt/stockage/packages/f15/trac/trac/locale/zh_CN/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/zh_CN/LC_MESSAGES/messages.po | 
+ | [cs](/f15/language/cs) | 5579 | 5602 | 99.6 | /mnt/stockage/packages/f15/trac/trac/locale/cs/LC_MESSAGES/messages.po | 
+ | [gl](/f15/language/gl) | 3992 | 4055 | 98.4 | /mnt/stockage/packages/f15/trac/trac/locale/gl/LC_MESSAGES/messages.po | 
+ | [vi](/f15/language/vi) | 2767 | 2822 | 98.1 | /mnt/stockage/packages/f15/trac/trac/locale/vi/LC_MESSAGES/messages.po | 
+ | [nb_NO](/f15/language/nb_NO) | 5212 | 5503 | 94.7 | /mnt/stockage/packages/f15/trac/trac/locale/nb/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/nb/LC_MESSAGES/messages.po | 
+ | [el](/f15/language/el) | 2785 | 2987 | 93.2 | /mnt/stockage/packages/f15/trac/trac/locale/el/LC_MESSAGES/messages.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 5228 | 5667 | 92.3 | /mnt/stockage/packages/f15/trac/trac/locale/zh_TW/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/zh_TW/LC_MESSAGES/messages.po | 
+ | [pl](/f15/language/pl) | 4573 | 5245 | 87.2 | /mnt/stockage/packages/f15/trac/trac/locale/pl/LC_MESSAGES/messages.po | 
+ | [fa](/f15/language/fa) | 2399 | 2809 | 85.4 | /mnt/stockage/packages/f15/trac/trac/locale/fa/LC_MESSAGES/messages.po | 
+ | [fi](/f15/language/fi) | 4613 | 5602 | 82.3 | /mnt/stockage/packages/f15/trac/trac/locale/fi/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/fi/LC_MESSAGES/messages.po | 
+ | [ko](/f15/language/ko) | 3499 | 5245 | 66.7 | /mnt/stockage/packages/f15/trac/trac/locale/ko/LC_MESSAGES/messages.po | 
+ | [pt](/f15/language/pt) | 1849 | 3548 | 52.1 | /mnt/stockage/packages/f15/trac/trac/locale/pt/LC_MESSAGES/messages.po | 
+ | [ro](/f15/language/ro) | 1442 | 3470 | 41.6 | /mnt/stockage/packages/f15/trac/trac/locale/ro/LC_MESSAGES/messages.po | 
+ | [en_US](/f15/language/en_US) | 0 | 5503 | 0.0 | /mnt/stockage/packages/f15/trac/trac/locale/en_US/LC_MESSAGES/messages-js.po/mnt/stockage/packages/f15/trac/trac/locale/en_US/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

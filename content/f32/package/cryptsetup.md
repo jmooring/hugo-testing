@@ -18,24 +18,24 @@ The package cryptsetup (version 2.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/fr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/ja.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/ru.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/uk.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 5823 | 5929 | 98.2 | /mnt/stockage/packages/f32/cryptsetup/po/es.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 5823 | 5929 | 98.2 | /mnt/stockage/packages/f32/cryptsetup/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 5823 | 5929 | 98.2 | /mnt/stockage/packages/f32/cryptsetup/po/sv.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 5365 | 5929 | 90.5 | /mnt/stockage/packages/f32/cryptsetup/po/da.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 3995 | 5929 | 67.4 | /mnt/stockage/packages/f32/cryptsetup/po/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 3995 | 5929 | 67.4 | /mnt/stockage/packages/f32/cryptsetup/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 2354 | 5929 | 39.7 | /mnt/stockage/packages/f32/cryptsetup/po/zh_CN.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 2112 | 5929 | 35.6 | /mnt/stockage/packages/f32/cryptsetup/po/nl.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 816 | 5929 | 13.8 | /mnt/stockage/packages/f32/cryptsetup/po/vi.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 785 | 5929 | 13.2 | /mnt/stockage/packages/f32/cryptsetup/po/fi.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 340 | 5929 | 5.7 | /mnt/stockage/packages/f32/cryptsetup/po/id.po | 
+ | [cs](/f32/language/cs) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/cs.po | 
+ | [de](/f32/language/de) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/de.po | 
+ | [fr](/f32/language/fr) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/fr.po | 
+ | [ja](/f32/language/ja) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/ja.po | 
+ | [pl](/f32/language/pl) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/pl.po | 
+ | [ru](/f32/language/ru) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/ru.po | 
+ | [uk](/f32/language/uk) | 5929 | 5929 | 100.0 | /mnt/stockage/packages/f32/cryptsetup/po/uk.po | 
+ | [es](/f32/language/es) | 5823 | 5929 | 98.2 | /mnt/stockage/packages/f32/cryptsetup/po/es.po | 
+ | [sr](/f32/language/sr) | 5823 | 5929 | 98.2 | /mnt/stockage/packages/f32/cryptsetup/po/sr.po | 
+ | [sv](/f32/language/sv) | 5823 | 5929 | 98.2 | /mnt/stockage/packages/f32/cryptsetup/po/sv.po | 
+ | [da](/f32/language/da) | 5365 | 5929 | 90.5 | /mnt/stockage/packages/f32/cryptsetup/po/da.po | 
+ | [it](/f32/language/it) | 3995 | 5929 | 67.4 | /mnt/stockage/packages/f32/cryptsetup/po/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 3995 | 5929 | 67.4 | /mnt/stockage/packages/f32/cryptsetup/po/pt_BR.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 2354 | 5929 | 39.7 | /mnt/stockage/packages/f32/cryptsetup/po/zh_CN.po | 
+ | [nl](/f32/language/nl) | 2112 | 5929 | 35.6 | /mnt/stockage/packages/f32/cryptsetup/po/nl.po | 
+ | [vi](/f32/language/vi) | 816 | 5929 | 13.8 | /mnt/stockage/packages/f32/cryptsetup/po/vi.po | 
+ | [fi](/f32/language/fi) | 785 | 5929 | 13.2 | /mnt/stockage/packages/f32/cryptsetup/po/fi.po | 
+ | [id](/f32/language/id) | 340 | 5929 | 5.7 | /mnt/stockage/packages/f32/cryptsetup/po/id.po | 
 {.sortable}
 
 

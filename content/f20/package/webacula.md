@@ -18,13 +18,13 @@ The package webacula (version 5.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f20/webacula/languages/es/webacula_es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 983 | 983 | 100.0 | /mnt/stockage/packages/f20/webacula/languages/fr/webacula_fr.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 981 | 983 | 99.8 | /mnt/stockage/packages/f20/webacula/languages/pt/webacula_pt_BR.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 940 | 983 | 95.6 | /mnt/stockage/packages/f20/webacula/languages/it/webacula_it.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 992 | 1055 | 94.0 | /mnt/stockage/packages/f20/webacula/languages/ru/webacula_ru.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 843 | 983 | 85.8 | /mnt/stockage/packages/f20/webacula/languages/de/webacula_de.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 5 | 983 | 0.5 | /mnt/stockage/packages/f20/webacula/languages/en/webacula_en.po | 
+ | [es](/f20/language/es) | 983 | 983 | 100.0 | /mnt/stockage/packages/f20/webacula/languages/es/webacula_es.po | 
+ | [fr](/f20/language/fr) | 983 | 983 | 100.0 | /mnt/stockage/packages/f20/webacula/languages/fr/webacula_fr.po | 
+ | [pt](/f20/language/pt) | 981 | 983 | 99.8 | /mnt/stockage/packages/f20/webacula/languages/pt/webacula_pt_BR.po | 
+ | [it](/f20/language/it) | 940 | 983 | 95.6 | /mnt/stockage/packages/f20/webacula/languages/it/webacula_it.po | 
+ | [ru](/f20/language/ru) | 992 | 1055 | 94.0 | /mnt/stockage/packages/f20/webacula/languages/ru/webacula_ru.po | 
+ | [de](/f20/language/de) | 843 | 983 | 85.8 | /mnt/stockage/packages/f20/webacula/languages/de/webacula_de.po | 
+ | [en](/f20/language/en) | 5 | 983 | 0.5 | /mnt/stockage/packages/f20/webacula/languages/en/webacula_en.po | 
 {.sortable}
 
 

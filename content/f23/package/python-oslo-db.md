@@ -18,8 +18,8 @@ The package python-oslo-db (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/fr/LC_MESSAGES/oslo.db-log-error.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/fr/LC_MESSAGES/oslo.db-log-info.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/fr/LC_MESSAGES/oslo.db-log-warning.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 213 | 215 | 99.1 | /mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-error.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-info.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-warning.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db.po | 
+ | [fr](/f23/language/fr) | 91 | 91 | 100.0 | /mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/fr/LC_MESSAGES/oslo.db-log-error.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/fr/LC_MESSAGES/oslo.db-log-info.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/fr/LC_MESSAGES/oslo.db-log-warning.po | 
+ | [en_GB](/f23/language/en_GB) | 213 | 215 | 99.1 | /mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-error.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-info.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db-log-warning.po/mnt/stockage/packages/f23/python-oslo-db/oslo.db/locale/en_GB/LC_MESSAGES/oslo.db.po | 
 {.sortable}
 
 

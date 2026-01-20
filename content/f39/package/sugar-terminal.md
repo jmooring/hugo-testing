@@ -18,116 +18,116 @@ The package sugar-terminal (version 47):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f39/language/ach.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ach.po | 
- | [an]({{< ref "/f39/language/an.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/an.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ca.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/de.po | 
- | [en]({{< ref "/f39/language/en.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/en.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/en_GB.po | 
- | [en_US]({{< ref "/f39/language/en_US.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/en_US.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fr.po | 
- | [fy]({{< ref "/f39/language/fy.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fy.po | 
- | [gug]({{< ref "/f39/language/gug.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gug.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/he.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/it.po | 
- | [kab]({{< ref "/f39/language/kab.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kab.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/lt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pt_BR.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sq.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/uk.po | 
- | [yo]({{< ref "/f39/language/yo.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/yo.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 116 | 121 | 95.9 | /mnt/stockage/packages/f39/sugar-terminal/po/zh_CN.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 102 | 121 | 84.3 | /mnt/stockage/packages/f39/sugar-terminal/po/eo.po | 
- | [prs]({{< ref "/f39/language/prs.md" >}}) | 11 | 15 | 73.3 | /mnt/stockage/packages/f39/sugar-terminal/po/fa_AF.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 67 | 121 | 55.4 | /mnt/stockage/packages/f39/sugar-terminal/po/ru.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 25 | 121 | 20.7 | /mnt/stockage/packages/f39/sugar-terminal/po/az.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 22 | 121 | 18.2 | /mnt/stockage/packages/f39/sugar-terminal/po/sk.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 7 | 121 | 5.8 | /mnt/stockage/packages/f39/sugar-terminal/po/te.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/af.po | 
- | [am]({{< ref "/f39/language/am.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/am.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ar.po | 
- | [ayc]({{< ref "/f39/language/ayc.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ayc.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bg.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bn.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/cs.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/el.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fa.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fi.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gl.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gu.po | 
- | [ht]({{< ref "/f39/language/ht.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ht.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hu.po | 
- | [hus]({{< ref "/f39/language/hus.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hus.po | 
- | [hy]({{< ref "/f39/language/hy.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hy.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/id.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/is.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ja.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/km.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ko.po | 
- | [mg]({{< ref "/f39/language/mg.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mg.po | 
- | [mi]({{< ref "/f39/language/mi.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mi.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ml.po | 
- | [mn]({{< ref "/f39/language/mn.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mn.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ms.po | 
- | [nah]({{< ref "/f39/language/nah.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/nah.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/nb.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ne.po | 
- | [pap]({{< ref "/f39/language/pap.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pap.po | 
- | [ps]({{< ref "/f39/language/ps.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ps.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pt.po | 
- | [qu]({{< ref "/f39/language/qu.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/quz.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ro.po | 
- | [rw]({{< ref "/f39/language/rw.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/rw.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/si.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sl.po | 
- | [sw]({{< ref "/f39/language/sw.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sw.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ta.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/th.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/tr.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/vi.po | 
- | [ig]({{< ref "/f39/language/ig.md" >}}) | 6 | 136 | 4.4 | /mnt/stockage/packages/f39/sugar-terminal/po/ig.po/mnt/stockage/packages/f39/sugar-terminal/po/ibo.po | 
- | [ff]({{< ref "/f39/language/ff.md" >}}) | 5 | 121 | 4.1 | /mnt/stockage/packages/f39/sugar-terminal/po/ff.po | 
- | [ha]({{< ref "/f39/language/ha.md" >}}) | 4 | 121 | 3.3 | /mnt/stockage/packages/f39/sugar-terminal/po/ha.po | 
- | [bn_IN]({{< ref "/f39/language/bn_IN.md" >}}) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/bn_IN.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/dz.po | 
- | [fil]({{< ref "/f39/language/fil.md" >}}) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/fil.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/mr.po | 
- | [ur]({{< ref "/f39/language/ur.md" >}}) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/ur.po | 
- | [error]({{< ref "/f39/language/error.md" >}}) | 6 | 732 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/tzo.po/mnt/stockage/packages/f39/sugar-terminal/po/quy.po/mnt/stockage/packages/f39/sugar-terminal/po/pseudo.po/mnt/stockage/packages/f39/sugar-terminal/po/pbs.po/mnt/stockage/packages/f39/sugar-terminal/po/mvo.po/mnt/stockage/packages/f39/sugar-terminal/po/miq.po/mnt/stockage/packages/f39/sugar-terminal/po/agr.po | 
- | [ak]({{< ref "/f39/language/ak.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ak.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ast.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/be.po | 
- | [bi]({{< ref "/f39/language/bi.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bi.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/br.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bs.po | 
- | [cpp]({{< ref "/f39/language/cpp.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/cpp.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/et.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/eu.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ga.po | 
- | [gn]({{< ref "/f39/language/gn.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gn.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ka.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kk.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kn.po | 
- | [kos]({{< ref "/f39/language/kos.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kos.po | 
- | [ku]({{< ref "/f39/language/ku.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ku.po | 
- | [kw]({{< ref "/f39/language/kw.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kw.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/lv.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mk.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pa.po | 
- | [sd]({{< ref "/f39/language/sd.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sd.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sr.po | 
- | [tvl]({{< ref "/f39/language/tvl.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/tvl.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ug.po | 
- | [wa]({{< ref "/f39/language/wa.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/zh_HK.po | 
+ | [ach](/f39/language/ach) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ach.po | 
+ | [an](/f39/language/an) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/an.po | 
+ | [ca](/f39/language/ca) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ca.po | 
+ | [da](/f39/language/da) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/da.po | 
+ | [de](/f39/language/de) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/de.po | 
+ | [en](/f39/language/en) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/en.po | 
+ | [en_GB](/f39/language/en_GB) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/en_GB.po | 
+ | [en_US](/f39/language/en_US) | 15 | 15 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/en_US.po | 
+ | [es](/f39/language/es) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/es.po | 
+ | [fr](/f39/language/fr) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fr.po | 
+ | [fy](/f39/language/fy) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fy.po | 
+ | [gug](/f39/language/gug) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gug.po | 
+ | [he](/f39/language/he) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/he.po | 
+ | [hi](/f39/language/hi) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hi.po | 
+ | [hr](/f39/language/hr) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hr.po | 
+ | [it](/f39/language/it) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/it.po | 
+ | [kab](/f39/language/kab) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kab.po | 
+ | [lt](/f39/language/lt) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/lt.po | 
+ | [nl](/f39/language/nl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/nl.po | 
+ | [pl](/f39/language/pl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pt_BR.po | 
+ | [sq](/f39/language/sq) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sq.po | 
+ | [sv](/f39/language/sv) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sv.po | 
+ | [uk](/f39/language/uk) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/uk.po | 
+ | [yo](/f39/language/yo) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/yo.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/sugar-terminal/po/zh_TW.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 116 | 121 | 95.9 | /mnt/stockage/packages/f39/sugar-terminal/po/zh_CN.po | 
+ | [eo](/f39/language/eo) | 102 | 121 | 84.3 | /mnt/stockage/packages/f39/sugar-terminal/po/eo.po | 
+ | [prs](/f39/language/prs) | 11 | 15 | 73.3 | /mnt/stockage/packages/f39/sugar-terminal/po/fa_AF.po | 
+ | [ru](/f39/language/ru) | 67 | 121 | 55.4 | /mnt/stockage/packages/f39/sugar-terminal/po/ru.po | 
+ | [az](/f39/language/az) | 25 | 121 | 20.7 | /mnt/stockage/packages/f39/sugar-terminal/po/az.po | 
+ | [sk](/f39/language/sk) | 22 | 121 | 18.2 | /mnt/stockage/packages/f39/sugar-terminal/po/sk.po | 
+ | [te](/f39/language/te) | 7 | 121 | 5.8 | /mnt/stockage/packages/f39/sugar-terminal/po/te.po | 
+ | [af](/f39/language/af) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/af.po | 
+ | [am](/f39/language/am) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/am.po | 
+ | [ar](/f39/language/ar) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ar.po | 
+ | [ayc](/f39/language/ayc) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ayc.po | 
+ | [bg](/f39/language/bg) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bg.po | 
+ | [bn](/f39/language/bn) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bn.po | 
+ | [cs](/f39/language/cs) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/cs.po | 
+ | [el](/f39/language/el) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/el.po | 
+ | [fa](/f39/language/fa) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fa.po | 
+ | [fi](/f39/language/fi) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/fi.po | 
+ | [gl](/f39/language/gl) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gl.po | 
+ | [gu](/f39/language/gu) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gu.po | 
+ | [ht](/f39/language/ht) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ht.po | 
+ | [hu](/f39/language/hu) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hu.po | 
+ | [hus](/f39/language/hus) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hus.po | 
+ | [hy](/f39/language/hy) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/hy.po | 
+ | [id](/f39/language/id) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/id.po | 
+ | [is](/f39/language/is) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/is.po | 
+ | [ja](/f39/language/ja) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ja.po | 
+ | [km](/f39/language/km) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/km.po | 
+ | [ko](/f39/language/ko) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ko.po | 
+ | [mg](/f39/language/mg) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mg.po | 
+ | [mi](/f39/language/mi) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mi.po | 
+ | [ml](/f39/language/ml) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ml.po | 
+ | [mn](/f39/language/mn) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mn.po | 
+ | [ms](/f39/language/ms) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ms.po | 
+ | [nah](/f39/language/nah) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/nah.po | 
+ | [nb_NO](/f39/language/nb_NO) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/nb.po | 
+ | [ne](/f39/language/ne) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ne.po | 
+ | [pap](/f39/language/pap) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pap.po | 
+ | [ps](/f39/language/ps) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ps.po | 
+ | [pt](/f39/language/pt) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pt.po | 
+ | [qu](/f39/language/qu) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/quz.po | 
+ | [ro](/f39/language/ro) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ro.po | 
+ | [rw](/f39/language/rw) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/rw.po | 
+ | [si](/f39/language/si) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/si.po | 
+ | [sl](/f39/language/sl) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sl.po | 
+ | [sw](/f39/language/sw) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sw.po | 
+ | [ta](/f39/language/ta) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ta.po | 
+ | [th](/f39/language/th) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/th.po | 
+ | [tr](/f39/language/tr) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/tr.po | 
+ | [vi](/f39/language/vi) | 6 | 121 | 5.0 | /mnt/stockage/packages/f39/sugar-terminal/po/vi.po | 
+ | [ig](/f39/language/ig) | 6 | 136 | 4.4 | /mnt/stockage/packages/f39/sugar-terminal/po/ig.po/mnt/stockage/packages/f39/sugar-terminal/po/ibo.po | 
+ | [ff](/f39/language/ff) | 5 | 121 | 4.1 | /mnt/stockage/packages/f39/sugar-terminal/po/ff.po | 
+ | [ha](/f39/language/ha) | 4 | 121 | 3.3 | /mnt/stockage/packages/f39/sugar-terminal/po/ha.po | 
+ | [bn_IN](/f39/language/bn_IN) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/bn_IN.po | 
+ | [dz](/f39/language/dz) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/dz.po | 
+ | [fil](/f39/language/fil) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/fil.po | 
+ | [mr](/f39/language/mr) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/mr.po | 
+ | [ur](/f39/language/ur) | 1 | 121 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/ur.po | 
+ | [error](/f39/language/error) | 6 | 732 | 0.8 | /mnt/stockage/packages/f39/sugar-terminal/po/tzo.po/mnt/stockage/packages/f39/sugar-terminal/po/quy.po/mnt/stockage/packages/f39/sugar-terminal/po/pseudo.po/mnt/stockage/packages/f39/sugar-terminal/po/pbs.po/mnt/stockage/packages/f39/sugar-terminal/po/mvo.po/mnt/stockage/packages/f39/sugar-terminal/po/miq.po/mnt/stockage/packages/f39/sugar-terminal/po/agr.po | 
+ | [ak](/f39/language/ak) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ak.po | 
+ | [ast](/f39/language/ast) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ast.po | 
+ | [be](/f39/language/be) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/be.po | 
+ | [bi](/f39/language/bi) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bi.po | 
+ | [br](/f39/language/br) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/br.po | 
+ | [bs](/f39/language/bs) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/bs.po | 
+ | [cpp](/f39/language/cpp) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/cpp.po | 
+ | [et](/f39/language/et) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/et.po | 
+ | [eu](/f39/language/eu) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/eu.po | 
+ | [ga](/f39/language/ga) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ga.po | 
+ | [gn](/f39/language/gn) | 0 | 15 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/gn.po | 
+ | [ka](/f39/language/ka) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ka.po | 
+ | [kk](/f39/language/kk) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kk.po | 
+ | [kn](/f39/language/kn) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kn.po | 
+ | [kos](/f39/language/kos) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kos.po | 
+ | [ku](/f39/language/ku) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ku.po | 
+ | [kw](/f39/language/kw) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/kw.po | 
+ | [lv](/f39/language/lv) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/lv.po | 
+ | [mk](/f39/language/mk) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/mk.po | 
+ | [pa](/f39/language/pa) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/pa.po | 
+ | [sd](/f39/language/sd) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sd.po | 
+ | [sr](/f39/language/sr) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/sr.po | 
+ | [tvl](/f39/language/tvl) | 0 | 15 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/tvl.po | 
+ | [ug](/f39/language/ug) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/ug.po | 
+ | [wa](/f39/language/wa) | 0 | 15 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/wa.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 0 | 121 | 0.0 | /mnt/stockage/packages/f39/sugar-terminal/po/zh_HK.po | 
 {.sortable}
 
 

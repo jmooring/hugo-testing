@@ -18,14 +18,14 @@ The package k4dirstat (version 3.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/ca.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/it.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/lt.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/nl.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 530 | 547 | 96.9 | /mnt/stockage/packages/f25/k4dirstat/po/de.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 412 | 547 | 75.3 | /mnt/stockage/packages/f25/k4dirstat/po/fr.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 369 | 547 | 67.5 | /mnt/stockage/packages/f25/k4dirstat/po/ja.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 193 | 547 | 35.3 | /mnt/stockage/packages/f25/k4dirstat/po/hu.po | 
+ | [ca](/f25/language/ca) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/ca.po | 
+ | [it](/f25/language/it) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/it.po | 
+ | [lt](/f25/language/lt) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/lt.po | 
+ | [nl](/f25/language/nl) | 547 | 547 | 100.0 | /mnt/stockage/packages/f25/k4dirstat/po/nl.po | 
+ | [de](/f25/language/de) | 530 | 547 | 96.9 | /mnt/stockage/packages/f25/k4dirstat/po/de.po | 
+ | [fr](/f25/language/fr) | 412 | 547 | 75.3 | /mnt/stockage/packages/f25/k4dirstat/po/fr.po | 
+ | [ja](/f25/language/ja) | 369 | 547 | 67.5 | /mnt/stockage/packages/f25/k4dirstat/po/ja.po | 
+ | [hu](/f25/language/hu) | 193 | 547 | 35.3 | /mnt/stockage/packages/f25/k4dirstat/po/hu.po | 
 {.sortable}
 
 

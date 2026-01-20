@@ -18,7 +18,7 @@ The package mpdris2 (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f21/mpdris2/po/fr.po | 
+ | [fr](/f21/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f21/mpdris2/po/fr.po | 
 {.sortable}
 
 

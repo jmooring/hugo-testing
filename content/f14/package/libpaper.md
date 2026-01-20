@@ -18,27 +18,27 @@ The package libpaper (version 1.1.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/gl.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/ja.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/nl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/sk.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/sv.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/vi.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 44 | 73 | 60.3 | /mnt/stockage/packages/f14/libpaper/debian/po/da.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 29 | 73 | 39.7 | /mnt/stockage/packages/f14/libpaper/debian/po/hu.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/libpaper/debian/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/libpaper/debian/po/uk.po | 
+ | [ca](/f14/language/ca) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/ca.po | 
+ | [cs](/f14/language/cs) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/cs.po | 
+ | [de](/f14/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/de.po | 
+ | [es](/f14/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/es.po | 
+ | [eu](/f14/language/eu) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/eu.po | 
+ | [fi](/f14/language/fi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/fi.po | 
+ | [fr](/f14/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/fr.po | 
+ | [gl](/f14/language/gl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/gl.po | 
+ | [it](/f14/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/it.po | 
+ | [ja](/f14/language/ja) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/ja.po | 
+ | [nl](/f14/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/nl.po | 
+ | [pt](/f14/language/pt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/ru.po | 
+ | [sk](/f14/language/sk) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/sk.po | 
+ | [sv](/f14/language/sv) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/sv.po | 
+ | [vi](/f14/language/vi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f14/libpaper/debian/po/vi.po | 
+ | [da](/f14/language/da) | 44 | 73 | 60.3 | /mnt/stockage/packages/f14/libpaper/debian/po/da.po | 
+ | [hu](/f14/language/hu) | 29 | 73 | 39.7 | /mnt/stockage/packages/f14/libpaper/debian/po/hu.po | 
+ | [tr](/f14/language/tr) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/libpaper/debian/po/tr.po | 
+ | [uk](/f14/language/uk) | 0 | 73 | 0.0 | /mnt/stockage/packages/f14/libpaper/debian/po/uk.po | 
 {.sortable}
 
 

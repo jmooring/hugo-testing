@@ -18,21 +18,21 @@ The package agave (version 0.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f11/agave/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1454 | 1454 | 100.0 | /mnt/stockage/packages/f11/agave/help/cs/cs.po/mnt/stockage/packages/f11/agave/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f11/agave/help/de/de.po/mnt/stockage/packages/f11/agave/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f11/agave/po/es_ES.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f11/agave/po/gl_ES.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f11/agave/po/ja.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f11/agave/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f11/agave/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f11/agave/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f11/agave/po/sv.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/zh_TW.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 82 | 85 | 96.5 | /mnt/stockage/packages/f11/agave/po/bg.po | 
+ | [ca](/f11/language/ca) | 108 | 108 | 100.0 | /mnt/stockage/packages/f11/agave/po/ca.po | 
+ | [cs](/f11/language/cs) | 1454 | 1454 | 100.0 | /mnt/stockage/packages/f11/agave/help/cs/cs.po/mnt/stockage/packages/f11/agave/po/cs.po | 
+ | [de](/f11/language/de) | 1076 | 1076 | 100.0 | /mnt/stockage/packages/f11/agave/help/de/de.po/mnt/stockage/packages/f11/agave/po/de.po | 
+ | [es](/f11/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f11/agave/po/es_ES.po | 
+ | [fr](/f11/language/fr) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/fr.po | 
+ | [gl](/f11/language/gl) | 85 | 85 | 100.0 | /mnt/stockage/packages/f11/agave/po/gl_ES.po | 
+ | [it](/f11/language/it) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/it.po | 
+ | [ja](/f11/language/ja) | 283 | 283 | 100.0 | /mnt/stockage/packages/f11/agave/po/ja.po | 
+ | [nl](/f11/language/nl) | 283 | 283 | 100.0 | /mnt/stockage/packages/f11/agave/po/nl.po | 
+ | [pl](/f11/language/pl) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f11/agave/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 87 | 87 | 100.0 | /mnt/stockage/packages/f11/agave/po/ru.po | 
+ | [sv](/f11/language/sv) | 283 | 283 | 100.0 | /mnt/stockage/packages/f11/agave/po/sv.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 115 | 115 | 100.0 | /mnt/stockage/packages/f11/agave/po/zh_TW.po | 
+ | [bg](/f11/language/bg) | 82 | 85 | 96.5 | /mnt/stockage/packages/f11/agave/po/bg.po | 
 {.sortable}
 
 

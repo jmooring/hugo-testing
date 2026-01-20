@@ -18,61 +18,61 @@ The package keditbookmarks (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ca/keditbookmarks.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ca@valencia/keditbookmarks.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/cs/keditbookmarks.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/da/keditbookmarks.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/de/keditbookmarks.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/el/keditbookmarks.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/en_GB/keditbookmarks.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/es/keditbookmarks.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/eu/keditbookmarks.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/fi/keditbookmarks.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/fr/keditbookmarks.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/gl/keditbookmarks.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/hu/keditbookmarks.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ia/keditbookmarks.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/is/keditbookmarks.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/it/keditbookmarks.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ko/keditbookmarks.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/nl/keditbookmarks.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/nn/keditbookmarks.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/pl/keditbookmarks.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/pt/keditbookmarks.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/pt_BR/keditbookmarks.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ru/keditbookmarks.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sk/keditbookmarks.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sl/keditbookmarks.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sr/keditbookmarks.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sv/keditbookmarks.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/tr/keditbookmarks.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/uk/keditbookmarks.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/zh_CN/keditbookmarks.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/zh_TW/keditbookmarks.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 462 | 466 | 99.1 | /mnt/stockage/packages/f29/keditbookmarks/po/et/keditbookmarks.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/bg/keditbookmarks.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/bs/keditbookmarks.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/ga/keditbookmarks.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/id/keditbookmarks.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/ja/keditbookmarks.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/kk/keditbookmarks.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/km/keditbookmarks.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/lt/keditbookmarks.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/lv/keditbookmarks.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/nb/keditbookmarks.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/nds/keditbookmarks.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/ro/keditbookmarks.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/wa/keditbookmarks.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 405 | 466 | 86.9 | /mnt/stockage/packages/f29/keditbookmarks/po/ar/keditbookmarks.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 388 | 466 | 83.3 | /mnt/stockage/packages/f29/keditbookmarks/po/mr/keditbookmarks.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 377 | 466 | 80.9 | /mnt/stockage/packages/f29/keditbookmarks/po/eo/keditbookmarks.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 373 | 466 | 80.0 | /mnt/stockage/packages/f29/keditbookmarks/po/hr/keditbookmarks.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 344 | 466 | 73.8 | /mnt/stockage/packages/f29/keditbookmarks/po/he/keditbookmarks.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 341 | 466 | 73.2 | /mnt/stockage/packages/f29/keditbookmarks/po/pa/keditbookmarks.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 312 | 466 | 67.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ast/keditbookmarks.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 304 | 466 | 65.2 | /mnt/stockage/packages/f29/keditbookmarks/po/hi/keditbookmarks.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 216 | 466 | 46.4 | /mnt/stockage/packages/f29/keditbookmarks/po/ug/keditbookmarks.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 0 | 466 | 0.0 | /mnt/stockage/packages/f29/keditbookmarks/po/fa/keditbookmarks.po | 
+ | [ca](/f29/language/ca) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ca/keditbookmarks.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ca@valencia/keditbookmarks.po | 
+ | [cs](/f29/language/cs) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/cs/keditbookmarks.po | 
+ | [da](/f29/language/da) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/da/keditbookmarks.po | 
+ | [de](/f29/language/de) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/de/keditbookmarks.po | 
+ | [el](/f29/language/el) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/el/keditbookmarks.po | 
+ | [en_GB](/f29/language/en_GB) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/en_GB/keditbookmarks.po | 
+ | [es](/f29/language/es) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/es/keditbookmarks.po | 
+ | [eu](/f29/language/eu) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/eu/keditbookmarks.po | 
+ | [fi](/f29/language/fi) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/fi/keditbookmarks.po | 
+ | [fr](/f29/language/fr) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/fr/keditbookmarks.po | 
+ | [gl](/f29/language/gl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/gl/keditbookmarks.po | 
+ | [hu](/f29/language/hu) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/hu/keditbookmarks.po | 
+ | [ia](/f29/language/ia) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ia/keditbookmarks.po | 
+ | [is](/f29/language/is) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/is/keditbookmarks.po | 
+ | [it](/f29/language/it) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/it/keditbookmarks.po | 
+ | [ko](/f29/language/ko) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ko/keditbookmarks.po | 
+ | [nl](/f29/language/nl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/nl/keditbookmarks.po | 
+ | [nn](/f29/language/nn) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/nn/keditbookmarks.po | 
+ | [pl](/f29/language/pl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/pl/keditbookmarks.po | 
+ | [pt](/f29/language/pt) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/pt/keditbookmarks.po | 
+ | [pt_BR](/f29/language/pt_BR) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/pt_BR/keditbookmarks.po | 
+ | [ru](/f29/language/ru) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ru/keditbookmarks.po | 
+ | [sk](/f29/language/sk) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sk/keditbookmarks.po | 
+ | [sl](/f29/language/sl) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sl/keditbookmarks.po | 
+ | [sr](/f29/language/sr) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sr/keditbookmarks.po | 
+ | [sv](/f29/language/sv) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/sv/keditbookmarks.po | 
+ | [tr](/f29/language/tr) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/tr/keditbookmarks.po | 
+ | [uk](/f29/language/uk) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/uk/keditbookmarks.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/zh_CN/keditbookmarks.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 466 | 466 | 100.0 | /mnt/stockage/packages/f29/keditbookmarks/po/zh_TW/keditbookmarks.po | 
+ | [et](/f29/language/et) | 462 | 466 | 99.1 | /mnt/stockage/packages/f29/keditbookmarks/po/et/keditbookmarks.po | 
+ | [bg](/f29/language/bg) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/bg/keditbookmarks.po | 
+ | [bs](/f29/language/bs) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/bs/keditbookmarks.po | 
+ | [ga](/f29/language/ga) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/ga/keditbookmarks.po | 
+ | [id](/f29/language/id) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/id/keditbookmarks.po | 
+ | [ja](/f29/language/ja) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/ja/keditbookmarks.po | 
+ | [kk](/f29/language/kk) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/kk/keditbookmarks.po | 
+ | [km](/f29/language/km) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/km/keditbookmarks.po | 
+ | [lt](/f29/language/lt) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/lt/keditbookmarks.po | 
+ | [lv](/f29/language/lv) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/lv/keditbookmarks.po | 
+ | [nb_NO](/f29/language/nb_NO) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/nb/keditbookmarks.po | 
+ | [nds](/f29/language/nds) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/nds/keditbookmarks.po | 
+ | [ro](/f29/language/ro) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/ro/keditbookmarks.po | 
+ | [wa](/f29/language/wa) | 418 | 466 | 89.7 | /mnt/stockage/packages/f29/keditbookmarks/po/wa/keditbookmarks.po | 
+ | [ar](/f29/language/ar) | 405 | 466 | 86.9 | /mnt/stockage/packages/f29/keditbookmarks/po/ar/keditbookmarks.po | 
+ | [mr](/f29/language/mr) | 388 | 466 | 83.3 | /mnt/stockage/packages/f29/keditbookmarks/po/mr/keditbookmarks.po | 
+ | [eo](/f29/language/eo) | 377 | 466 | 80.9 | /mnt/stockage/packages/f29/keditbookmarks/po/eo/keditbookmarks.po | 
+ | [hr](/f29/language/hr) | 373 | 466 | 80.0 | /mnt/stockage/packages/f29/keditbookmarks/po/hr/keditbookmarks.po | 
+ | [he](/f29/language/he) | 344 | 466 | 73.8 | /mnt/stockage/packages/f29/keditbookmarks/po/he/keditbookmarks.po | 
+ | [pa](/f29/language/pa) | 341 | 466 | 73.2 | /mnt/stockage/packages/f29/keditbookmarks/po/pa/keditbookmarks.po | 
+ | [ast](/f29/language/ast) | 312 | 466 | 67.0 | /mnt/stockage/packages/f29/keditbookmarks/po/ast/keditbookmarks.po | 
+ | [hi](/f29/language/hi) | 304 | 466 | 65.2 | /mnt/stockage/packages/f29/keditbookmarks/po/hi/keditbookmarks.po | 
+ | [ug](/f29/language/ug) | 216 | 466 | 46.4 | /mnt/stockage/packages/f29/keditbookmarks/po/ug/keditbookmarks.po | 
+ | [fa](/f29/language/fa) | 0 | 466 | 0.0 | /mnt/stockage/packages/f29/keditbookmarks/po/fa/keditbookmarks.po | 
 {.sortable}
 
 

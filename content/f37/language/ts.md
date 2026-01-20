@@ -40,26 +40,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f37/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f37/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 29075 | 168400 | 17.3 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 318 | 7361 | 4.3 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
- | [mate-menu]({{< ref "/f37/package/mate-menu.md" >}}) | 13 | 308 | 4.2 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
- | [mate-menus]({{< ref "/f37/package/mate-menus.md" >}}) | 1 | 103 | 1.0 | Tsonga (https://app.transifex.com/mate/teams/13566/ts/) | 
- | [isomaster]({{< ref "/f37/package/isomaster.md" >}}) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
- | [mate-applets]({{< ref "/f37/package/mate-applets.md" >}}) | 1 | 812 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
- | [mate-panel]({{< ref "/f37/package/mate-panel.md" >}}) | 1 | 942 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
- | [exaile]({{< ref "/f37/package/exaile.md" >}}) | 1 | 4168 | 0.0 | Tsonga <ts@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [libmatekbd]({{< ref "/f37/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
- | [mate-themes]({{< ref "/f37/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Tsonga (http://app.transifex.com/mate/MATE/language/ts/) | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [eog](/f37/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f37/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f37/package/libreoffice) | 29075 | 168400 | 17.3 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 318 | 7361 | 4.3 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
+ | [mate-menu](/f37/package/mate-menu) | 13 | 308 | 4.2 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
+ | [mate-menus](/f37/package/mate-menus) | 1 | 103 | 1.0 | Tsonga (https://app.transifex.com/mate/teams/13566/ts/) | 
+ | [isomaster](/f37/package/isomaster) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
+ | [mate-applets](/f37/package/mate-applets) | 1 | 812 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
+ | [mate-panel](/f37/package/mate-panel) | 1 | 942 | 0.1 | Tsonga (https://www.transifex.com/mate/teams/13566/ts/) | 
+ | [exaile](/f37/package/exaile) | 1 | 4168 | 0.0 | Tsonga <ts@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [libmatekbd](/f37/package/libmatekbd) | 0 | 308 | 0.0 | Tsonga (http://www.transifex.com/mate/MATE/language/ts/) | 
+ | [mate-themes](/f37/package/mate-themes) | 0 | 74 | 0.0 | Tsonga (http://app.transifex.com/mate/MATE/language/ts/) | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

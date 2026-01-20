@@ -18,16 +18,16 @@ The package kchildlock (version 0.91.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/el.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/fr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/sk.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/uk.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 682 | 806 | 84.6 | /mnt/stockage/packages/f32/kchildlock/po/bg.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 682 | 806 | 84.6 | /mnt/stockage/packages/f32/kchildlock/po/es.po | 
+ | [cs](/f32/language/cs) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/cs.po | 
+ | [de](/f32/language/de) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/de.po | 
+ | [el](/f32/language/el) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/el.po | 
+ | [fr](/f32/language/fr) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/fr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/ru.po | 
+ | [sk](/f32/language/sk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/sk.po | 
+ | [uk](/f32/language/uk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f32/kchildlock/po/uk.po | 
+ | [bg](/f32/language/bg) | 682 | 806 | 84.6 | /mnt/stockage/packages/f32/kchildlock/po/bg.po | 
+ | [es](/f32/language/es) | 682 | 806 | 84.6 | /mnt/stockage/packages/f32/kchildlock/po/es.po | 
 {.sortable}
 
 

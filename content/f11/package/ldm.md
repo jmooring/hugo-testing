@@ -18,20 +18,20 @@ The package ldm (version 2.0.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f11/ldm/po/fr.po/mnt/stockage/packages/f11/ldm/po/rc.d/fr.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 176 | 184 | 95.7 | /mnt/stockage/packages/f11/ldm/po/el.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/es.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/fi.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/ja.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/nb.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/pt.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/sv.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/vi.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 63 | 184 | 34.2 | /mnt/stockage/packages/f11/ldm/po/hu.po | 
+ | [fr](/f11/language/fr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f11/ldm/po/fr.po/mnt/stockage/packages/f11/ldm/po/rc.d/fr.po | 
+ | [el](/f11/language/el) | 176 | 184 | 95.7 | /mnt/stockage/packages/f11/ldm/po/el.po | 
+ | [de](/f11/language/de) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/de.po | 
+ | [es](/f11/language/es) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/es.po | 
+ | [eu](/f11/language/eu) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/eu.po | 
+ | [fi](/f11/language/fi) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/fi.po | 
+ | [ja](/f11/language/ja) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/ja.po | 
+ | [nb_NO](/f11/language/nb_NO) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/nb.po | 
+ | [pl](/f11/language/pl) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/pl.po | 
+ | [pt](/f11/language/pt) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/pt.po | 
+ | [ru](/f11/language/ru) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/ru.po | 
+ | [sv](/f11/language/sv) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/sv.po | 
+ | [vi](/f11/language/vi) | 70 | 184 | 38.0 | /mnt/stockage/packages/f11/ldm/po/vi.po | 
+ | [hu](/f11/language/hu) | 63 | 184 | 34.2 | /mnt/stockage/packages/f11/ldm/po/hu.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package alsa-utils (version 1.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f28/alsa-utils/alsaconf/po/ru.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1260 | 1788 | 70.5 | /mnt/stockage/packages/f28/alsa-utils/po/de.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1617 | 2326 | 69.5 | /mnt/stockage/packages/f28/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f28/alsa-utils/po/ja.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1144 | 1788 | 64.0 | /mnt/stockage/packages/f28/alsa-utils/po/fr.po | 
+ | [ru](/f28/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f28/alsa-utils/alsaconf/po/ru.po | 
+ | [de](/f28/language/de) | 1260 | 1788 | 70.5 | /mnt/stockage/packages/f28/alsa-utils/po/de.po | 
+ | [ja](/f28/language/ja) | 1617 | 2326 | 69.5 | /mnt/stockage/packages/f28/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f28/alsa-utils/po/ja.po | 
+ | [fr](/f28/language/fr) | 1144 | 1788 | 64.0 | /mnt/stockage/packages/f28/alsa-utils/po/fr.po | 
 {.sortable}
 
 

@@ -18,99 +18,99 @@ The package mate-utils (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ar.po | 
- | [be_Latn]({{< ref "/f17/language/be_Latn.md" >}}) | 4174 | 4174 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/be@latin.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/bg.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/bn.po | 
- | [bn_IN]({{< ref "/f17/language/bn_IN.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/bn_IN.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 10065 | 10065 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/logview/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/po/ca.po | 
- | [ca@valencia]({{< ref "/f17/language/ca@valencia.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ca@valencia.po | 
- | [crh]({{< ref "/f17/language/crh.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/crh.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/logview/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 7006 | 7006 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/da/da.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/da/da.po/mnt/stockage/packages/f17/mate-utils/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/de/de.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/de/de.po/mnt/stockage/packages/f17/mate-utils/logview/help/de/de.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/de/de.po/mnt/stockage/packages/f17/mate-utils/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/el/el.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/el/el.po/mnt/stockage/packages/f17/mate-utils/logview/help/el/el.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/el/el.po/mnt/stockage/packages/f17/mate-utils/po/el.po | 
- | [en_AU]({{< ref "/f17/language/en_AU.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/en_AU.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 10065 | 10065 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/logview/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/po/en_GB.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/es/es.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/es/es.po/mnt/stockage/packages/f17/mate-utils/logview/help/es/es.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/es/es.po/mnt/stockage/packages/f17/mate-utils/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 9508 | 9508 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/logview/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/po/eu.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/logview/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/logview/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/gl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/he.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/hu.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 10064 | 10064 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/it/it.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/it/it.po/mnt/stockage/packages/f17/mate-utils/logview/help/it/it.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/it/it.po/mnt/stockage/packages/f17/mate-utils/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ja.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/lt.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/lv.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/nb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/nl.po | 
- | [or]({{< ref "/f17/language/or.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/or.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/pa.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/pl/pl.po/mnt/stockage/packages/f17/mate-utils/po/pl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ro.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/sl.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/sr.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/sr@latin.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 10065 | 10065 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/logview/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/po/sv.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ta.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 10067 | 10067 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/logview/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/po/uk.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/logview/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/po/zh_CN.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 9642 | 9646 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/logview/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/po/ru.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 3914 | 3921 | 99.8 | /mnt/stockage/packages/f17/mate-utils/po/ug.po | 
- | [br]({{< ref "/f17/language/br.md" >}}) | 3913 | 3921 | 99.8 | /mnt/stockage/packages/f17/mate-utils/po/br.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 3912 | 3921 | 99.8 | /mnt/stockage/packages/f17/mate-utils/po/sk.po | 
- | [as]({{< ref "/f17/language/as.md" >}}) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/as.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/gu.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/hi.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/ml.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/mr.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/te.po | 
- | [ms]({{< ref "/f17/language/ms.md" >}}) | 3855 | 3921 | 98.3 | /mnt/stockage/packages/f17/mate-utils/po/ms.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 3802 | 3921 | 97.0 | /mnt/stockage/packages/f17/mate-utils/po/kn.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 5208 | 5782 | 90.1 | /mnt/stockage/packages/f17/mate-utils/baobab/help/zh_TW/zh_TW.po/mnt/stockage/packages/f17/mate-utils/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 5208 | 5782 | 90.1 | /mnt/stockage/packages/f17/mate-utils/baobab/help/zh_HK/zh_HK.po/mnt/stockage/packages/f17/mate-utils/po/zh_HK.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 3529 | 3921 | 90.0 | /mnt/stockage/packages/f17/mate-utils/po/ast.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 3529 | 3921 | 90.0 | /mnt/stockage/packages/f17/mate-utils/po/vi.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 3313 | 3921 | 84.5 | /mnt/stockage/packages/f17/mate-utils/po/mk.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 3232 | 3921 | 82.4 | /mnt/stockage/packages/f17/mate-utils/po/nn.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 3171 | 3921 | 80.9 | /mnt/stockage/packages/f17/mate-utils/po/ne.po | 
- | [error]({{< ref "/f17/language/error.md" >}}) | 3153 | 3921 | 80.4 | /mnt/stockage/packages/f17/mate-utils/po/en@shaw.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 3117 | 3921 | 79.5 | /mnt/stockage/packages/f17/mate-utils/po/dz.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 3026 | 3921 | 77.2 | /mnt/stockage/packages/f17/mate-utils/po/mai.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 2864 | 3921 | 73.0 | /mnt/stockage/packages/f17/mate-utils/po/fa.po | 
- | [cy]({{< ref "/f17/language/cy.md" >}}) | 2703 | 3921 | 68.9 | /mnt/stockage/packages/f17/mate-utils/po/cy.po | 
- | [mg]({{< ref "/f17/language/mg.md" >}}) | 2657 | 3921 | 67.8 | /mnt/stockage/packages/f17/mate-utils/po/mg.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 2526 | 3921 | 64.4 | /mnt/stockage/packages/f17/mate-utils/po/hr.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 4479 | 6981 | 64.2 | /mnt/stockage/packages/f17/mate-utils/gsearchtool/help/ko/ko.po/mnt/stockage/packages/f17/mate-utils/logview/help/ko/ko.po/mnt/stockage/packages/f17/mate-utils/po/ko.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 2495 | 3921 | 63.6 | /mnt/stockage/packages/f17/mate-utils/po/ka.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 2476 | 3921 | 63.1 | /mnt/stockage/packages/f17/mate-utils/po/en_CA.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 3921 | 7842 | 50.0 | /mnt/stockage/packages/f17/mate-utils/po/id_ID.po/mnt/stockage/packages/f17/mate-utils/po/id.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 1947 | 3921 | 49.7 | /mnt/stockage/packages/f17/mate-utils/po/si.po | 
- | [ps]({{< ref "/f17/language/ps.md" >}}) | 1505 | 3921 | 38.4 | /mnt/stockage/packages/f17/mate-utils/po/ps.po | 
- | [af]({{< ref "/f17/language/af.md" >}}) | 1301 | 3921 | 33.2 | /mnt/stockage/packages/f17/mate-utils/po/af.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 1228 | 3921 | 31.3 | /mnt/stockage/packages/f17/mate-utils/po/sq.po | 
- | [xh]({{< ref "/f17/language/xh.md" >}}) | 1169 | 3921 | 29.8 | /mnt/stockage/packages/f17/mate-utils/po/xh.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 812 | 3921 | 20.7 | /mnt/stockage/packages/f17/mate-utils/po/ku.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 787 | 3921 | 20.1 | /mnt/stockage/packages/f17/mate-utils/po/ga.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 727 | 3921 | 18.5 | /mnt/stockage/packages/f17/mate-utils/po/eo.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 706 | 3921 | 18.0 | /mnt/stockage/packages/f17/mate-utils/po/pt.po | 
- | [am]({{< ref "/f17/language/am.md" >}}) | 584 | 3921 | 14.9 | /mnt/stockage/packages/f17/mate-utils/po/am.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 395 | 3921 | 10.1 | /mnt/stockage/packages/f17/mate-utils/po/bs.po | 
- | [mn]({{< ref "/f17/language/mn.md" >}}) | 350 | 3921 | 8.9 | /mnt/stockage/packages/f17/mate-utils/po/mn.po | 
- | [az]({{< ref "/f17/language/az.md" >}}) | 347 | 3921 | 8.8 | /mnt/stockage/packages/f17/mate-utils/po/az.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 340 | 3921 | 8.7 | /mnt/stockage/packages/f17/mate-utils/po/nds.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 304 | 3921 | 7.8 | /mnt/stockage/packages/f17/mate-utils/po/be.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 736 | 10068 | 7.3 | /mnt/stockage/packages/f17/mate-utils/baobab/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/logview/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/po/oc.po | 
- | [wa]({{< ref "/f17/language/wa.md" >}}) | 53 | 3921 | 1.4 | /mnt/stockage/packages/f17/mate-utils/po/wa.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 13 | 3921 | 0.3 | /mnt/stockage/packages/f17/mate-utils/po/rw.po | 
- | [es_CL]({{< ref "/f17/language/es_CL.md" >}}) | 0 | 3921 | 0.0 | /mnt/stockage/packages/f17/mate-utils/po/es_CL.po | 
- | [ia]({{< ref "/f17/language/ia.md" >}}) | 0 | 3921 | 0.0 | /mnt/stockage/packages/f17/mate-utils/po/ia.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 0 | 3921 | 0.0 | /mnt/stockage/packages/f17/mate-utils/po/is.po | 
+ | [ar](/f17/language/ar) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ar.po | 
+ | [be_Latn](/f17/language/be_Latn) | 4174 | 4174 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/be@latin.po | 
+ | [bg](/f17/language/bg) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/bg.po | 
+ | [bn](/f17/language/bn) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/bn.po | 
+ | [bn_IN](/f17/language/bn_IN) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/bn_IN.po | 
+ | [ca](/f17/language/ca) | 10065 | 10065 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/logview/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/ca/ca.po/mnt/stockage/packages/f17/mate-utils/po/ca.po | 
+ | [ca@valencia](/f17/language/ca@valencia) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ca@valencia.po | 
+ | [crh](/f17/language/crh) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/crh.po | 
+ | [cs](/f17/language/cs) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/logview/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/cs/cs.po/mnt/stockage/packages/f17/mate-utils/po/cs.po | 
+ | [da](/f17/language/da) | 7006 | 7006 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/da/da.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/da/da.po/mnt/stockage/packages/f17/mate-utils/po/da.po | 
+ | [de](/f17/language/de) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/de/de.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/de/de.po/mnt/stockage/packages/f17/mate-utils/logview/help/de/de.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/de/de.po/mnt/stockage/packages/f17/mate-utils/po/de.po | 
+ | [el](/f17/language/el) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/el/el.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/el/el.po/mnt/stockage/packages/f17/mate-utils/logview/help/el/el.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/el/el.po/mnt/stockage/packages/f17/mate-utils/po/el.po | 
+ | [en_AU](/f17/language/en_AU) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/en_AU.po | 
+ | [en_GB](/f17/language/en_GB) | 10065 | 10065 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/logview/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/en_GB/en_GB.po/mnt/stockage/packages/f17/mate-utils/po/en_GB.po | 
+ | [es](/f17/language/es) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/es/es.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/es/es.po/mnt/stockage/packages/f17/mate-utils/logview/help/es/es.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/es/es.po/mnt/stockage/packages/f17/mate-utils/po/es.po | 
+ | [et](/f17/language/et) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/et.po | 
+ | [eu](/f17/language/eu) | 9508 | 9508 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/logview/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/eu/eu.po/mnt/stockage/packages/f17/mate-utils/po/eu.po | 
+ | [fi](/f17/language/fi) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/logview/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/fi/fi.po/mnt/stockage/packages/f17/mate-utils/po/fi.po | 
+ | [fr](/f17/language/fr) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/logview/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/fr/fr.po/mnt/stockage/packages/f17/mate-utils/po/fr.po | 
+ | [gl](/f17/language/gl) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/gl.po | 
+ | [he](/f17/language/he) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/he.po | 
+ | [hu](/f17/language/hu) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/hu.po | 
+ | [it](/f17/language/it) | 10064 | 10064 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/it/it.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/it/it.po/mnt/stockage/packages/f17/mate-utils/logview/help/it/it.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/it/it.po/mnt/stockage/packages/f17/mate-utils/po/it.po | 
+ | [ja](/f17/language/ja) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ja.po | 
+ | [lt](/f17/language/lt) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/lt.po | 
+ | [lv](/f17/language/lv) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/lv.po | 
+ | [nb_NO](/f17/language/nb_NO) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/nb.po | 
+ | [nl](/f17/language/nl) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/nl.po | 
+ | [or](/f17/language/or) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/or.po | 
+ | [pa](/f17/language/pa) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/pa.po | 
+ | [pl](/f17/language/pl) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/pl/pl.po/mnt/stockage/packages/f17/mate-utils/po/pl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ro.po | 
+ | [sl](/f17/language/sl) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/sl.po | 
+ | [sr](/f17/language/sr) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/sr.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/sr@latin.po | 
+ | [sv](/f17/language/sv) | 10065 | 10065 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/logview/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/sv/sv.po/mnt/stockage/packages/f17/mate-utils/po/sv.po | 
+ | [ta](/f17/language/ta) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/ta.po | 
+ | [th](/f17/language/th) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/th.po | 
+ | [tr](/f17/language/tr) | 3921 | 3921 | 100.0 | /mnt/stockage/packages/f17/mate-utils/po/tr.po | 
+ | [uk](/f17/language/uk) | 10067 | 10067 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/logview/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/uk/uk.po/mnt/stockage/packages/f17/mate-utils/po/uk.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 9987 | 9987 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/logview/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/zh_CN/zh_CN.po/mnt/stockage/packages/f17/mate-utils/po/zh_CN.po | 
+ | [ru](/f17/language/ru) | 9642 | 9646 | 100.0 | /mnt/stockage/packages/f17/mate-utils/baobab/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/logview/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/ru/ru.po/mnt/stockage/packages/f17/mate-utils/po/ru.po | 
+ | [ug](/f17/language/ug) | 3914 | 3921 | 99.8 | /mnt/stockage/packages/f17/mate-utils/po/ug.po | 
+ | [br](/f17/language/br) | 3913 | 3921 | 99.8 | /mnt/stockage/packages/f17/mate-utils/po/br.po | 
+ | [sk](/f17/language/sk) | 3912 | 3921 | 99.8 | /mnt/stockage/packages/f17/mate-utils/po/sk.po | 
+ | [as](/f17/language/as) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/as.po | 
+ | [gu](/f17/language/gu) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/gu.po | 
+ | [hi](/f17/language/hi) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/hi.po | 
+ | [ml](/f17/language/ml) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/ml.po | 
+ | [mr](/f17/language/mr) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/mr.po | 
+ | [te](/f17/language/te) | 3868 | 3921 | 98.6 | /mnt/stockage/packages/f17/mate-utils/po/te.po | 
+ | [ms](/f17/language/ms) | 3855 | 3921 | 98.3 | /mnt/stockage/packages/f17/mate-utils/po/ms.po | 
+ | [kn](/f17/language/kn) | 3802 | 3921 | 97.0 | /mnt/stockage/packages/f17/mate-utils/po/kn.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 5208 | 5782 | 90.1 | /mnt/stockage/packages/f17/mate-utils/baobab/help/zh_TW/zh_TW.po/mnt/stockage/packages/f17/mate-utils/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 5208 | 5782 | 90.1 | /mnt/stockage/packages/f17/mate-utils/baobab/help/zh_HK/zh_HK.po/mnt/stockage/packages/f17/mate-utils/po/zh_HK.po | 
+ | [ast](/f17/language/ast) | 3529 | 3921 | 90.0 | /mnt/stockage/packages/f17/mate-utils/po/ast.po | 
+ | [vi](/f17/language/vi) | 3529 | 3921 | 90.0 | /mnt/stockage/packages/f17/mate-utils/po/vi.po | 
+ | [mk](/f17/language/mk) | 3313 | 3921 | 84.5 | /mnt/stockage/packages/f17/mate-utils/po/mk.po | 
+ | [nn](/f17/language/nn) | 3232 | 3921 | 82.4 | /mnt/stockage/packages/f17/mate-utils/po/nn.po | 
+ | [ne](/f17/language/ne) | 3171 | 3921 | 80.9 | /mnt/stockage/packages/f17/mate-utils/po/ne.po | 
+ | [error](/f17/language/error) | 3153 | 3921 | 80.4 | /mnt/stockage/packages/f17/mate-utils/po/en@shaw.po | 
+ | [dz](/f17/language/dz) | 3117 | 3921 | 79.5 | /mnt/stockage/packages/f17/mate-utils/po/dz.po | 
+ | [mai](/f17/language/mai) | 3026 | 3921 | 77.2 | /mnt/stockage/packages/f17/mate-utils/po/mai.po | 
+ | [fa](/f17/language/fa) | 2864 | 3921 | 73.0 | /mnt/stockage/packages/f17/mate-utils/po/fa.po | 
+ | [cy](/f17/language/cy) | 2703 | 3921 | 68.9 | /mnt/stockage/packages/f17/mate-utils/po/cy.po | 
+ | [mg](/f17/language/mg) | 2657 | 3921 | 67.8 | /mnt/stockage/packages/f17/mate-utils/po/mg.po | 
+ | [hr](/f17/language/hr) | 2526 | 3921 | 64.4 | /mnt/stockage/packages/f17/mate-utils/po/hr.po | 
+ | [ko](/f17/language/ko) | 4479 | 6981 | 64.2 | /mnt/stockage/packages/f17/mate-utils/gsearchtool/help/ko/ko.po/mnt/stockage/packages/f17/mate-utils/logview/help/ko/ko.po/mnt/stockage/packages/f17/mate-utils/po/ko.po | 
+ | [ka](/f17/language/ka) | 2495 | 3921 | 63.6 | /mnt/stockage/packages/f17/mate-utils/po/ka.po | 
+ | [en_CA](/f17/language/en_CA) | 2476 | 3921 | 63.1 | /mnt/stockage/packages/f17/mate-utils/po/en_CA.po | 
+ | [id](/f17/language/id) | 3921 | 7842 | 50.0 | /mnt/stockage/packages/f17/mate-utils/po/id_ID.po/mnt/stockage/packages/f17/mate-utils/po/id.po | 
+ | [si](/f17/language/si) | 1947 | 3921 | 49.7 | /mnt/stockage/packages/f17/mate-utils/po/si.po | 
+ | [ps](/f17/language/ps) | 1505 | 3921 | 38.4 | /mnt/stockage/packages/f17/mate-utils/po/ps.po | 
+ | [af](/f17/language/af) | 1301 | 3921 | 33.2 | /mnt/stockage/packages/f17/mate-utils/po/af.po | 
+ | [sq](/f17/language/sq) | 1228 | 3921 | 31.3 | /mnt/stockage/packages/f17/mate-utils/po/sq.po | 
+ | [xh](/f17/language/xh) | 1169 | 3921 | 29.8 | /mnt/stockage/packages/f17/mate-utils/po/xh.po | 
+ | [ku](/f17/language/ku) | 812 | 3921 | 20.7 | /mnt/stockage/packages/f17/mate-utils/po/ku.po | 
+ | [ga](/f17/language/ga) | 787 | 3921 | 20.1 | /mnt/stockage/packages/f17/mate-utils/po/ga.po | 
+ | [eo](/f17/language/eo) | 727 | 3921 | 18.5 | /mnt/stockage/packages/f17/mate-utils/po/eo.po | 
+ | [pt](/f17/language/pt) | 706 | 3921 | 18.0 | /mnt/stockage/packages/f17/mate-utils/po/pt.po | 
+ | [am](/f17/language/am) | 584 | 3921 | 14.9 | /mnt/stockage/packages/f17/mate-utils/po/am.po | 
+ | [bs](/f17/language/bs) | 395 | 3921 | 10.1 | /mnt/stockage/packages/f17/mate-utils/po/bs.po | 
+ | [mn](/f17/language/mn) | 350 | 3921 | 8.9 | /mnt/stockage/packages/f17/mate-utils/po/mn.po | 
+ | [az](/f17/language/az) | 347 | 3921 | 8.8 | /mnt/stockage/packages/f17/mate-utils/po/az.po | 
+ | [nds](/f17/language/nds) | 340 | 3921 | 8.7 | /mnt/stockage/packages/f17/mate-utils/po/nds.po | 
+ | [be](/f17/language/be) | 304 | 3921 | 7.8 | /mnt/stockage/packages/f17/mate-utils/po/be.po | 
+ | [oc](/f17/language/oc) | 736 | 10068 | 7.3 | /mnt/stockage/packages/f17/mate-utils/baobab/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/gsearchtool/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/logview/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/mate-dictionary/help/oc/oc.po/mnt/stockage/packages/f17/mate-utils/po/oc.po | 
+ | [wa](/f17/language/wa) | 53 | 3921 | 1.4 | /mnt/stockage/packages/f17/mate-utils/po/wa.po | 
+ | [rw](/f17/language/rw) | 13 | 3921 | 0.3 | /mnt/stockage/packages/f17/mate-utils/po/rw.po | 
+ | [es_CL](/f17/language/es_CL) | 0 | 3921 | 0.0 | /mnt/stockage/packages/f17/mate-utils/po/es_CL.po | 
+ | [ia](/f17/language/ia) | 0 | 3921 | 0.0 | /mnt/stockage/packages/f17/mate-utils/po/ia.po | 
+ | [is](/f17/language/is) | 0 | 3921 | 0.0 | /mnt/stockage/packages/f17/mate-utils/po/is.po | 
 {.sortable}
 
 

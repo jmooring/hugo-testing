@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 13 | 7243 | 0.2 | Lombard <lmo@li.org> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 13 | 7243 | 0.2 | Lombard <lmo@li.org> | 
 {.sortable}
 
 

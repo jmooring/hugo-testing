@@ -18,14 +18,14 @@ The package gimp-wavelet-denoise-plugin (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/de.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/et.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/it.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/sr.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/sr@latin.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 281 | 305 | 92.1 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/pt.po | 
+ | [de](/f40/language/de) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/de.po | 
+ | [et](/f40/language/et) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/et.po | 
+ | [it](/f40/language/it) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/it.po | 
+ | [pl](/f40/language/pl) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/pl.po | 
+ | [ru](/f40/language/ru) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/ru.po | 
+ | [sr](/f40/language/sr) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/sr.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 305 | 305 | 100.0 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/sr@latin.po | 
+ | [pt](/f40/language/pt) | 281 | 305 | 92.1 | /mnt/stockage/packages/f40/gimp-wavelet-denoise-plugin/po/pt.po | 
 {.sortable}
 
 

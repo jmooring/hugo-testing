@@ -18,8 +18,8 @@ The package cdcollect (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 1193 | 1193 | 100.0 | /mnt/stockage/packages/f19/cdcollect/po/es.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1200 | 1228 | 97.7 | /mnt/stockage/packages/f19/cdcollect/po/cs.po | 
+ | [es](/f19/language/es) | 1193 | 1193 | 100.0 | /mnt/stockage/packages/f19/cdcollect/po/es.po | 
+ | [cs](/f19/language/cs) | 1200 | 1228 | 97.7 | /mnt/stockage/packages/f19/cdcollect/po/cs.po | 
 {.sortable}
 
 

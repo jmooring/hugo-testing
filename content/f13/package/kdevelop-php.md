@@ -18,23 +18,23 @@ The package kdevelop-php (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/kdevelop-php/po/es/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/es/kdevphpdocs.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 714 | 718 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/ca/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/ca@valencia/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/ca/kdevphpdocs.po/mnt/stockage/packages/f13/kdevelop-php/po/ca@valencia/kdevphpdocs.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/da/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/da/kdevphpdocs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/de/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/de/kdevphpdocs.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/en_GB/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/en_GB/kdevphpdocs.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/et/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/et/kdevphpdocs.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/it/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/it/kdevphpdocs.po | 
- | [nds]({{< ref "/f13/language/nds.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/nds/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/nds/kdevphpdocs.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/nl/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/nl/kdevphpdocs.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/pt/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/pt/kdevphpdocs.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/pt_BR/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/pt_BR/kdevphpdocs.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/sv/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/sv/kdevphpdocs.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/uk/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/uk/kdevphpdocs.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/zh_TW/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/zh_TW/kdevphpdocs.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 125 | 127 | 98.4 | /mnt/stockage/packages/f13/kdevelop-php/po/gl/kdevphpdocs.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 204 | 232 | 87.9 | /mnt/stockage/packages/f13/kdevelop-php/po/th/kdevphp.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 174 | 232 | 75.0 | /mnt/stockage/packages/f13/kdevelop-php/po/zh_CN/kdevphp.po | 
+ | [es](/f13/language/es) | 359 | 359 | 100.0 | /mnt/stockage/packages/f13/kdevelop-php/po/es/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/es/kdevphpdocs.po | 
+ | [ca](/f13/language/ca) | 714 | 718 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/ca/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/ca@valencia/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/ca/kdevphpdocs.po/mnt/stockage/packages/f13/kdevelop-php/po/ca@valencia/kdevphpdocs.po | 
+ | [da](/f13/language/da) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/da/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/da/kdevphpdocs.po | 
+ | [de](/f13/language/de) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/de/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/de/kdevphpdocs.po | 
+ | [en_GB](/f13/language/en_GB) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/en_GB/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/en_GB/kdevphpdocs.po | 
+ | [et](/f13/language/et) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/et/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/et/kdevphpdocs.po | 
+ | [it](/f13/language/it) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/it/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/it/kdevphpdocs.po | 
+ | [nds](/f13/language/nds) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/nds/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/nds/kdevphpdocs.po | 
+ | [nl](/f13/language/nl) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/nl/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/nl/kdevphpdocs.po | 
+ | [pt](/f13/language/pt) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/pt/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/pt/kdevphpdocs.po | 
+ | [pt_BR](/f13/language/pt_BR) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/pt_BR/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/pt_BR/kdevphpdocs.po | 
+ | [sv](/f13/language/sv) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/sv/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/sv/kdevphpdocs.po | 
+ | [uk](/f13/language/uk) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/uk/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/uk/kdevphpdocs.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 357 | 359 | 99.4 | /mnt/stockage/packages/f13/kdevelop-php/po/zh_TW/kdevphp.po/mnt/stockage/packages/f13/kdevelop-php/po/zh_TW/kdevphpdocs.po | 
+ | [gl](/f13/language/gl) | 125 | 127 | 98.4 | /mnt/stockage/packages/f13/kdevelop-php/po/gl/kdevphpdocs.po | 
+ | [th](/f13/language/th) | 204 | 232 | 87.9 | /mnt/stockage/packages/f13/kdevelop-php/po/th/kdevphp.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 174 | 232 | 75.0 | /mnt/stockage/packages/f13/kdevelop-php/po/zh_CN/kdevphp.po | 
 {.sortable}
 
 

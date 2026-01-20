@@ -18,15 +18,15 @@ The package fcitx5-anthy (version 5.0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ko.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ru.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/zh_TW.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 380 | 381 | 99.7 | /mnt/stockage/packages/f37/fcitx5-anthy/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 358 | 381 | 94.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/de.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 309 | 381 | 81.1 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ca.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 9 | 381 | 2.4 | /mnt/stockage/packages/f37/fcitx5-anthy/po/he.po | 
+ | [ja](/f37/language/ja) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ja.po | 
+ | [ko](/f37/language/ko) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ko.po | 
+ | [ru](/f37/language/ru) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ru.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 381 | 381 | 100.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/zh_TW.po | 
+ | [da](/f37/language/da) | 380 | 381 | 99.7 | /mnt/stockage/packages/f37/fcitx5-anthy/po/da.po | 
+ | [de](/f37/language/de) | 358 | 381 | 94.0 | /mnt/stockage/packages/f37/fcitx5-anthy/po/de.po | 
+ | [ca](/f37/language/ca) | 309 | 381 | 81.1 | /mnt/stockage/packages/f37/fcitx5-anthy/po/ca.po | 
+ | [he](/f37/language/he) | 9 | 381 | 2.4 | /mnt/stockage/packages/f37/fcitx5-anthy/po/he.po | 
 {.sortable}
 
 

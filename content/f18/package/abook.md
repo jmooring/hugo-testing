@@ -18,11 +18,11 @@ The package abook (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 721 | 727 | 99.2 | /mnt/stockage/packages/f18/abook/po/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 715 | 727 | 98.3 | /mnt/stockage/packages/f18/abook/po/it.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 600 | 727 | 82.5 | /mnt/stockage/packages/f18/abook/po/de.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 578 | 727 | 79.5 | /mnt/stockage/packages/f18/abook/po/ja.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 535 | 727 | 73.6 | /mnt/stockage/packages/f18/abook/po/sv.po | 
+ | [fr](/f18/language/fr) | 721 | 727 | 99.2 | /mnt/stockage/packages/f18/abook/po/fr.po | 
+ | [it](/f18/language/it) | 715 | 727 | 98.3 | /mnt/stockage/packages/f18/abook/po/it.po | 
+ | [de](/f18/language/de) | 600 | 727 | 82.5 | /mnt/stockage/packages/f18/abook/po/de.po | 
+ | [ja](/f18/language/ja) | 578 | 727 | 79.5 | /mnt/stockage/packages/f18/abook/po/ja.po | 
+ | [sv](/f18/language/sv) | 535 | 727 | 73.6 | /mnt/stockage/packages/f18/abook/po/sv.po | 
 {.sortable}
 
 

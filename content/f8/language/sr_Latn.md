@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [anaconda]({{< ref "/f8/package/anaconda.md" >}}) | 10203 | 10203 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [firstboot]({{< ref "/f8/package/firstboot.md" >}}) | 598 | 598 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [isomaster]({{< ref "/f8/package/isomaster.md" >}}) | 655 | 655 | 100.0 |  | 
- | [kudzu]({{< ref "/f8/package/kudzu.md" >}}) | 73 | 73 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [pirut]({{< ref "/f8/package/pirut.md" >}}) | 1618 | 1618 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [pykickstart]({{< ref "/f8/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
- | [rhpl]({{< ref "/f8/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
- | [wesnoth]({{< ref "/f8/package/wesnoth.md" >}}) | 119063 | 119067 | 100.0 | Serbian | 
- | [pidgin]({{< ref "/f8/package/pidgin.md" >}}) | 15667 | 15731 | 99.6 | Serbian <gnome@prevod.org> | 
+ | [anaconda](/f8/package/anaconda) | 10203 | 10203 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [firstboot](/f8/package/firstboot) | 598 | 598 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [isomaster](/f8/package/isomaster) | 655 | 655 | 100.0 |  | 
+ | [kudzu](/f8/package/kudzu) | 73 | 73 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [pirut](/f8/package/pirut) | 1618 | 1618 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [pykickstart](/f8/package/pykickstart) | 284 | 284 | 100.0 | Serbian (sr) <fedora-trans-sr@redhat.com> | 
+ | [rhpl](/f8/package/rhpl) | 185 | 185 | 100.0 | Serbian (sr) <fedora@prevod.org> | 
+ | [wesnoth](/f8/package/wesnoth) | 119063 | 119067 | 100.0 | Serbian | 
+ | [pidgin](/f8/package/pidgin) | 15667 | 15731 | 99.6 | Serbian <gnome@prevod.org> | 
 {.sortable}
 
 

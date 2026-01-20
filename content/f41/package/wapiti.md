@@ -18,14 +18,14 @@ The package wapiti (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f41/language/en.md" >}}) | 1580 | 1580 | 100.0 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/en.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/sav_en.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1430 | 1557 | 91.8 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/fr.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 1366 | 1592 | 85.8 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/es.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 1322 | 1583 | 83.5 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/pt.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1317 | 1583 | 83.2 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/zh.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 757 | 1589 | 47.6 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/de.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 728 | 1592 | 45.7 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/ms.po | 
+ | [en](/f41/language/en) | 1580 | 1580 | 100.0 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/en.po | 
+ | [error](/f41/language/error) | 729 | 729 | 100.0 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/sav_en.po | 
+ | [fr](/f41/language/fr) | 1430 | 1557 | 91.8 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/fr.po | 
+ | [es](/f41/language/es) | 1366 | 1592 | 85.8 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/es.po | 
+ | [pt](/f41/language/pt) | 1322 | 1583 | 83.5 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/pt.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1317 | 1583 | 83.2 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/zh.po | 
+ | [de](/f41/language/de) | 757 | 1589 | 47.6 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/de.po | 
+ | [ms](/f41/language/ms) | 728 | 1592 | 45.7 | /mnt/stockage/packages/f41/wapiti/wapitiCore/language_sources/ms.po | 
 {.sortable}
 
 

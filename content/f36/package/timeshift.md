@@ -18,58 +18,58 @@ The package timeshift (version 22.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f36/language/be.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-be.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-cs.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-cy.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-de.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-eo.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-eu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-fr.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-he.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-hu.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ko.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ru.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sk.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-tr.po | 
- | [uz]({{< ref "/f36/language/uz.md" >}}) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-uz.po | 
- | [ar_EG]({{< ref "/f36/language/ar_EG.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ar.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-bg.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-en_GB.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ia.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-lt.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-zh_CN.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 2033 | 2870 | 70.8 | /mnt/stockage/packages/f36/timeshift/po/timeshift-am.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 1906 | 2870 | 66.4 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sl.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 1638 | 2870 | 57.1 | /mnt/stockage/packages/f36/timeshift/po/timeshift-is.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1415 | 2870 | 49.3 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ro.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 624 | 2870 | 21.7 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ca@valencia.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 799 | 5740 | 13.9 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sr@latin.po/mnt/stockage/packages/f36/timeshift/po/timeshift-sr.po | 
- | [kab]({{< ref "/f36/language/kab.md" >}}) | 284 | 2870 | 9.9 | /mnt/stockage/packages/f36/timeshift/po/timeshift-kab.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 266 | 2870 | 9.3 | /mnt/stockage/packages/f36/timeshift/po/timeshift-nb.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 259 | 2870 | 9.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-el.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 115 | 2870 | 4.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-id.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 48 | 2870 | 1.7 | /mnt/stockage/packages/f36/timeshift/po/timeshift-et.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 44 | 2870 | 1.5 | /mnt/stockage/packages/f36/timeshift/po/timeshift-vi.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 27 | 2870 | 0.9 | /mnt/stockage/packages/f36/timeshift/po/timeshift-oc.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 7 | 2870 | 0.2 | /mnt/stockage/packages/f36/timeshift/po/timeshift-zh_TW.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-az.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-fa.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-hi.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ne.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-tg.po | 
+ | [be](/f36/language/be) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-be.po | 
+ | [ca](/f36/language/ca) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ca.po | 
+ | [cs](/f36/language/cs) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-cs.po | 
+ | [cy](/f36/language/cy) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-cy.po | 
+ | [da](/f36/language/da) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-da.po | 
+ | [de](/f36/language/de) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-de.po | 
+ | [eo](/f36/language/eo) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-eo.po | 
+ | [es](/f36/language/es) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-es.po | 
+ | [eu](/f36/language/eu) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-eu.po | 
+ | [fi](/f36/language/fi) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-fi.po | 
+ | [fr](/f36/language/fr) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-fr.po | 
+ | [he](/f36/language/he) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-he.po | 
+ | [hr](/f36/language/hr) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-hr.po | 
+ | [hu](/f36/language/hu) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-hu.po | 
+ | [it](/f36/language/it) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-it.po | 
+ | [ja](/f36/language/ja) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ja.po | 
+ | [ko](/f36/language/ko) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ko.po | 
+ | [nl](/f36/language/nl) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-nl.po | 
+ | [pl](/f36/language/pl) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-pl.po | 
+ | [pt](/f36/language/pt) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-pt_BR.po | 
+ | [ru](/f36/language/ru) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ru.po | 
+ | [sk](/f36/language/sk) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sk.po | 
+ | [sv](/f36/language/sv) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sv.po | 
+ | [tr](/f36/language/tr) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-tr.po | 
+ | [uz](/f36/language/uz) | 2870 | 2870 | 100.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-uz.po | 
+ | [ar_EG](/f36/language/ar_EG) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ar.po | 
+ | [bg](/f36/language/bg) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-bg.po | 
+ | [en_GB](/f36/language/en_GB) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-en_GB.po | 
+ | [ia](/f36/language/ia) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ia.po | 
+ | [lt](/f36/language/lt) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-lt.po | 
+ | [uk](/f36/language/uk) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 2630 | 2870 | 91.6 | /mnt/stockage/packages/f36/timeshift/po/timeshift-zh_CN.po | 
+ | [am](/f36/language/am) | 2033 | 2870 | 70.8 | /mnt/stockage/packages/f36/timeshift/po/timeshift-am.po | 
+ | [sl](/f36/language/sl) | 1906 | 2870 | 66.4 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sl.po | 
+ | [is](/f36/language/is) | 1638 | 2870 | 57.1 | /mnt/stockage/packages/f36/timeshift/po/timeshift-is.po | 
+ | [ro](/f36/language/ro) | 1415 | 2870 | 49.3 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ro.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 624 | 2870 | 21.7 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ca@valencia.po | 
+ | [sr](/f36/language/sr) | 799 | 5740 | 13.9 | /mnt/stockage/packages/f36/timeshift/po/timeshift-sr@latin.po/mnt/stockage/packages/f36/timeshift/po/timeshift-sr.po | 
+ | [kab](/f36/language/kab) | 284 | 2870 | 9.9 | /mnt/stockage/packages/f36/timeshift/po/timeshift-kab.po | 
+ | [nb_NO](/f36/language/nb_NO) | 266 | 2870 | 9.3 | /mnt/stockage/packages/f36/timeshift/po/timeshift-nb.po | 
+ | [el](/f36/language/el) | 259 | 2870 | 9.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-el.po | 
+ | [id](/f36/language/id) | 115 | 2870 | 4.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-id.po | 
+ | [et](/f36/language/et) | 48 | 2870 | 1.7 | /mnt/stockage/packages/f36/timeshift/po/timeshift-et.po | 
+ | [vi](/f36/language/vi) | 44 | 2870 | 1.5 | /mnt/stockage/packages/f36/timeshift/po/timeshift-vi.po | 
+ | [oc](/f36/language/oc) | 27 | 2870 | 0.9 | /mnt/stockage/packages/f36/timeshift/po/timeshift-oc.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 7 | 2870 | 0.2 | /mnt/stockage/packages/f36/timeshift/po/timeshift-zh_TW.po | 
+ | [az](/f36/language/az) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-az.po | 
+ | [fa](/f36/language/fa) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-fa.po | 
+ | [hi](/f36/language/hi) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-hi.po | 
+ | [ne](/f36/language/ne) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-ne.po | 
+ | [tg](/f36/language/tg) | 0 | 2870 | 0.0 | /mnt/stockage/packages/f36/timeshift/po/timeshift-tg.po | 
 {.sortable}
 
 

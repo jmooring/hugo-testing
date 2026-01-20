@@ -18,19 +18,19 @@ The package terminology (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f24/terminology/po/it.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 785 | 796 | 98.6 | /mnt/stockage/packages/f24/terminology/po/ca.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 774 | 796 | 97.2 | /mnt/stockage/packages/f24/terminology/po/es.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 759 | 796 | 95.4 | /mnt/stockage/packages/f24/terminology/po/sr.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 715 | 796 | 89.8 | /mnt/stockage/packages/f24/terminology/po/fi.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 667 | 796 | 83.8 | /mnt/stockage/packages/f24/terminology/po/el.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 527 | 796 | 66.2 | /mnt/stockage/packages/f24/terminology/po/hi.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 403 | 796 | 50.6 | /mnt/stockage/packages/f24/terminology/po/ms.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 344 | 796 | 43.2 | /mnt/stockage/packages/f24/terminology/po/ko.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 201 | 796 | 25.3 | /mnt/stockage/packages/f24/terminology/po/fr.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 166 | 796 | 20.9 | /mnt/stockage/packages/f24/terminology/po/eo.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 74 | 796 | 9.3 | /mnt/stockage/packages/f24/terminology/po/tr.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 6 | 796 | 0.8 | /mnt/stockage/packages/f24/terminology/po/de.po | 
+ | [it](/f24/language/it) | 796 | 796 | 100.0 | /mnt/stockage/packages/f24/terminology/po/it.po | 
+ | [ca](/f24/language/ca) | 785 | 796 | 98.6 | /mnt/stockage/packages/f24/terminology/po/ca.po | 
+ | [es](/f24/language/es) | 774 | 796 | 97.2 | /mnt/stockage/packages/f24/terminology/po/es.po | 
+ | [sr](/f24/language/sr) | 759 | 796 | 95.4 | /mnt/stockage/packages/f24/terminology/po/sr.po | 
+ | [fi](/f24/language/fi) | 715 | 796 | 89.8 | /mnt/stockage/packages/f24/terminology/po/fi.po | 
+ | [el](/f24/language/el) | 667 | 796 | 83.8 | /mnt/stockage/packages/f24/terminology/po/el.po | 
+ | [hi](/f24/language/hi) | 527 | 796 | 66.2 | /mnt/stockage/packages/f24/terminology/po/hi.po | 
+ | [ms](/f24/language/ms) | 403 | 796 | 50.6 | /mnt/stockage/packages/f24/terminology/po/ms.po | 
+ | [ko](/f24/language/ko) | 344 | 796 | 43.2 | /mnt/stockage/packages/f24/terminology/po/ko.po | 
+ | [fr](/f24/language/fr) | 201 | 796 | 25.3 | /mnt/stockage/packages/f24/terminology/po/fr.po | 
+ | [eo](/f24/language/eo) | 166 | 796 | 20.9 | /mnt/stockage/packages/f24/terminology/po/eo.po | 
+ | [tr](/f24/language/tr) | 74 | 796 | 9.3 | /mnt/stockage/packages/f24/terminology/po/tr.po | 
+ | [de](/f24/language/de) | 6 | 796 | 0.8 | /mnt/stockage/packages/f24/terminology/po/de.po | 
 {.sortable}
 
 

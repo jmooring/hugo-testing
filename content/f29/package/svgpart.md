@@ -18,55 +18,55 @@ The package svgpart (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ar/svgpart.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/bg/svgpart.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/bs/svgpart.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ca/svgpart.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ca@valencia/svgpart.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/cs/svgpart.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/da/svgpart.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/de/svgpart.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/el/svgpart.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/en_GB/svgpart.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/mr/svgpart.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/eo/svgpart.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/es/svgpart.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/et/svgpart.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/eu/svgpart.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/fi/svgpart.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/fr/svgpart.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ga/svgpart.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/gl/svgpart.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/hr/svgpart.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/hu/svgpart.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ia/svgpart.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/is/svgpart.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/it/svgpart.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ja/svgpart.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/kk/svgpart.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/km/svgpart.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ko/svgpart.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/lt/svgpart.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/lv/svgpart.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nb/svgpart.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nds/svgpart.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nl/svgpart.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nn/svgpart.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pa/svgpart.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pl/svgpart.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pt/svgpart.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pt_BR/svgpart.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ro/svgpart.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ru/svgpart.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/sk/svgpart.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/sl/svgpart.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/sv/svgpart.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/tr/svgpart.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ug/svgpart.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/uk/svgpart.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/wa/svgpart.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/zh_CN/svgpart.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/zh_TW/svgpart.po | 
+ | [ar](/f29/language/ar) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ar/svgpart.po | 
+ | [bg](/f29/language/bg) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/bg/svgpart.po | 
+ | [bs](/f29/language/bs) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/bs/svgpart.po | 
+ | [ca](/f29/language/ca) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ca/svgpart.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ca@valencia/svgpart.po | 
+ | [cs](/f29/language/cs) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/cs/svgpart.po | 
+ | [da](/f29/language/da) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/da/svgpart.po | 
+ | [de](/f29/language/de) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/de/svgpart.po | 
+ | [el](/f29/language/el) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/el/svgpart.po | 
+ | [en_GB](/f29/language/en_GB) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/en_GB/svgpart.po | 
+ | [en_US](/f29/language/en_US) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/mr/svgpart.po | 
+ | [eo](/f29/language/eo) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/eo/svgpart.po | 
+ | [es](/f29/language/es) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/es/svgpart.po | 
+ | [et](/f29/language/et) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/et/svgpart.po | 
+ | [eu](/f29/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/eu/svgpart.po | 
+ | [fi](/f29/language/fi) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/fi/svgpart.po | 
+ | [fr](/f29/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/fr/svgpart.po | 
+ | [ga](/f29/language/ga) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ga/svgpart.po | 
+ | [gl](/f29/language/gl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/gl/svgpart.po | 
+ | [hr](/f29/language/hr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/hr/svgpart.po | 
+ | [hu](/f29/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/hu/svgpart.po | 
+ | [ia](/f29/language/ia) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ia/svgpart.po | 
+ | [is](/f29/language/is) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/is/svgpart.po | 
+ | [it](/f29/language/it) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/it/svgpart.po | 
+ | [ja](/f29/language/ja) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ja/svgpart.po | 
+ | [kk](/f29/language/kk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/kk/svgpart.po | 
+ | [km](/f29/language/km) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/km/svgpart.po | 
+ | [ko](/f29/language/ko) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ko/svgpart.po | 
+ | [lt](/f29/language/lt) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/lt/svgpart.po | 
+ | [lv](/f29/language/lv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/lv/svgpart.po | 
+ | [nb_NO](/f29/language/nb_NO) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nb/svgpart.po | 
+ | [nds](/f29/language/nds) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nds/svgpart.po | 
+ | [nl](/f29/language/nl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nl/svgpart.po | 
+ | [nn](/f29/language/nn) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/nn/svgpart.po | 
+ | [pa](/f29/language/pa) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pa/svgpart.po | 
+ | [pl](/f29/language/pl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pl/svgpart.po | 
+ | [pt](/f29/language/pt) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pt/svgpart.po | 
+ | [pt_BR](/f29/language/pt_BR) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/pt_BR/svgpart.po | 
+ | [ro](/f29/language/ro) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ro/svgpart.po | 
+ | [ru](/f29/language/ru) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ru/svgpart.po | 
+ | [sk](/f29/language/sk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/sk/svgpart.po | 
+ | [sl](/f29/language/sl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/sl/svgpart.po | 
+ | [sv](/f29/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/sv/svgpart.po | 
+ | [tr](/f29/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/tr/svgpart.po | 
+ | [ug](/f29/language/ug) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/ug/svgpart.po | 
+ | [uk](/f29/language/uk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/uk/svgpart.po | 
+ | [wa](/f29/language/wa) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/wa/svgpart.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/zh_CN/svgpart.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 22 | 22 | 100.0 | /mnt/stockage/packages/f29/svgpart/po/zh_TW/svgpart.po | 
 {.sortable}
 
 

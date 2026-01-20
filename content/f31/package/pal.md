@@ -18,11 +18,11 @@ The package pal (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f31/pal/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f31/pal/po/es.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f31/pal/po/sv.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1133 | 1151 | 98.4 | /mnt/stockage/packages/f31/pal/po/pl.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 138 | 1151 | 12.0 | /mnt/stockage/packages/f31/pal/po/tr.po | 
+ | [de](/f31/language/de) | 1215 | 1215 | 100.0 | /mnt/stockage/packages/f31/pal/po/de.po | 
+ | [es](/f31/language/es) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f31/pal/po/es.po | 
+ | [sv](/f31/language/sv) | 1151 | 1151 | 100.0 | /mnt/stockage/packages/f31/pal/po/sv.po | 
+ | [pl](/f31/language/pl) | 1133 | 1151 | 98.4 | /mnt/stockage/packages/f31/pal/po/pl.po | 
+ | [tr](/f31/language/tr) | 138 | 1151 | 12.0 | /mnt/stockage/packages/f31/pal/po/tr.po | 
 {.sortable}
 
 

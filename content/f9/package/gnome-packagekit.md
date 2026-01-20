@@ -18,30 +18,30 @@ The package gnome-packagekit (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 2915 | 2915 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/cs.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 2776 | 2776 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/fi.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 4742 | 4742 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/help/pl/pl.po/mnt/stockage/packages/f9/gnome-packagekit/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2812 | 2812 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/pt_BR.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 2472 | 2473 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/hu.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 4794 | 4801 | 99.9 | /mnt/stockage/packages/f9/gnome-packagekit/help/es/es.po/mnt/stockage/packages/f9/gnome-packagekit/po/es.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 1645 | 1930 | 85.2 | /mnt/stockage/packages/f9/gnome-packagekit/po/en_GB.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1645 | 1930 | 85.2 | /mnt/stockage/packages/f9/gnome-packagekit/po/fr.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 2169 | 2612 | 83.0 | /mnt/stockage/packages/f9/gnome-packagekit/help/el/el.po/mnt/stockage/packages/f9/gnome-packagekit/po/el.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 2093 | 2776 | 75.4 | /mnt/stockage/packages/f9/gnome-packagekit/po/he.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1965 | 2776 | 70.8 | /mnt/stockage/packages/f9/gnome-packagekit/po/ru.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1263 | 2154 | 58.6 | /mnt/stockage/packages/f9/gnome-packagekit/po/de.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 1416 | 2812 | 50.4 | /mnt/stockage/packages/f9/gnome-packagekit/po/nb.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 942 | 1930 | 48.8 | /mnt/stockage/packages/f9/gnome-packagekit/po/tr.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 1100 | 2839 | 38.7 | /mnt/stockage/packages/f9/gnome-packagekit/po/ca.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 739 | 1930 | 38.3 | /mnt/stockage/packages/f9/gnome-packagekit/po/it.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 685 | 1930 | 35.5 | /mnt/stockage/packages/f9/gnome-packagekit/po/gl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 801 | 2545 | 31.5 | /mnt/stockage/packages/f9/gnome-packagekit/help/sv/sv.po/mnt/stockage/packages/f9/gnome-packagekit/po/sv.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 385 | 2310 | 16.7 | /mnt/stockage/packages/f9/gnome-packagekit/po/pa.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 302 | 1930 | 15.6 | /mnt/stockage/packages/f9/gnome-packagekit/po/cy.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 205 | 1930 | 10.6 | /mnt/stockage/packages/f9/gnome-packagekit/po/nl.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 180 | 1930 | 9.3 | /mnt/stockage/packages/f9/gnome-packagekit/po/ar.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 158 | 2545 | 6.2 | /mnt/stockage/packages/f9/gnome-packagekit/help/oc/oc.po/mnt/stockage/packages/f9/gnome-packagekit/po/oc.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 53 | 1930 | 2.7 | /mnt/stockage/packages/f9/gnome-packagekit/po/ja.po | 
+ | [cs](/f9/language/cs) | 2915 | 2915 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/cs.po | 
+ | [fi](/f9/language/fi) | 2776 | 2776 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/fi.po | 
+ | [pl](/f9/language/pl) | 4742 | 4742 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/help/pl/pl.po/mnt/stockage/packages/f9/gnome-packagekit/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2812 | 2812 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/pt_BR.po | 
+ | [hu](/f9/language/hu) | 2472 | 2473 | 100.0 | /mnt/stockage/packages/f9/gnome-packagekit/po/hu.po | 
+ | [es](/f9/language/es) | 4794 | 4801 | 99.9 | /mnt/stockage/packages/f9/gnome-packagekit/help/es/es.po/mnt/stockage/packages/f9/gnome-packagekit/po/es.po | 
+ | [en_GB](/f9/language/en_GB) | 1645 | 1930 | 85.2 | /mnt/stockage/packages/f9/gnome-packagekit/po/en_GB.po | 
+ | [fr](/f9/language/fr) | 1645 | 1930 | 85.2 | /mnt/stockage/packages/f9/gnome-packagekit/po/fr.po | 
+ | [el](/f9/language/el) | 2169 | 2612 | 83.0 | /mnt/stockage/packages/f9/gnome-packagekit/help/el/el.po/mnt/stockage/packages/f9/gnome-packagekit/po/el.po | 
+ | [he](/f9/language/he) | 2093 | 2776 | 75.4 | /mnt/stockage/packages/f9/gnome-packagekit/po/he.po | 
+ | [ru](/f9/language/ru) | 1965 | 2776 | 70.8 | /mnt/stockage/packages/f9/gnome-packagekit/po/ru.po | 
+ | [de](/f9/language/de) | 1263 | 2154 | 58.6 | /mnt/stockage/packages/f9/gnome-packagekit/po/de.po | 
+ | [nb_NO](/f9/language/nb_NO) | 1416 | 2812 | 50.4 | /mnt/stockage/packages/f9/gnome-packagekit/po/nb.po | 
+ | [tr](/f9/language/tr) | 942 | 1930 | 48.8 | /mnt/stockage/packages/f9/gnome-packagekit/po/tr.po | 
+ | [ca](/f9/language/ca) | 1100 | 2839 | 38.7 | /mnt/stockage/packages/f9/gnome-packagekit/po/ca.po | 
+ | [it](/f9/language/it) | 739 | 1930 | 38.3 | /mnt/stockage/packages/f9/gnome-packagekit/po/it.po | 
+ | [gl](/f9/language/gl) | 685 | 1930 | 35.5 | /mnt/stockage/packages/f9/gnome-packagekit/po/gl.po | 
+ | [sv](/f9/language/sv) | 801 | 2545 | 31.5 | /mnt/stockage/packages/f9/gnome-packagekit/help/sv/sv.po/mnt/stockage/packages/f9/gnome-packagekit/po/sv.po | 
+ | [pa](/f9/language/pa) | 385 | 2310 | 16.7 | /mnt/stockage/packages/f9/gnome-packagekit/po/pa.po | 
+ | [cy](/f9/language/cy) | 302 | 1930 | 15.6 | /mnt/stockage/packages/f9/gnome-packagekit/po/cy.po | 
+ | [nl](/f9/language/nl) | 205 | 1930 | 10.6 | /mnt/stockage/packages/f9/gnome-packagekit/po/nl.po | 
+ | [ar](/f9/language/ar) | 180 | 1930 | 9.3 | /mnt/stockage/packages/f9/gnome-packagekit/po/ar.po | 
+ | [oc](/f9/language/oc) | 158 | 2545 | 6.2 | /mnt/stockage/packages/f9/gnome-packagekit/help/oc/oc.po/mnt/stockage/packages/f9/gnome-packagekit/po/oc.po | 
+ | [ja](/f9/language/ja) | 53 | 1930 | 2.7 | /mnt/stockage/packages/f9/gnome-packagekit/po/ja.po | 
 {.sortable}
 
 

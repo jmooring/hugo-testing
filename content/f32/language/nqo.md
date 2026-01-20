@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-sensors-applet]({{< ref "/f32/package/mate-sensors-applet.md" >}}) | 2 | 313 | 0.6 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [atril]({{< ref "/f32/package/atril.md" >}}) | 7 | 1807 | 0.4 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [eom]({{< ref "/f32/package/eom.md" >}}) | 6 | 1769 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-menu]({{< ref "/f32/package/mate-menu.md" >}}) | 1 | 308 | 0.3 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [mate-terminal]({{< ref "/f32/package/mate-terminal.md" >}}) | 9 | 4705 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [libmatekbd]({{< ref "/f32/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [mate-themes]({{< ref "/f32/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [sugar]({{< ref "/f32/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f32/package/sugar-toolkit-gtk3.md" >}}) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-sensors-applet](/f32/package/mate-sensors-applet) | 2 | 313 | 0.6 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [atril](/f32/package/atril) | 7 | 1807 | 0.4 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [eom](/f32/package/eom) | 6 | 1769 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-menu](/f32/package/mate-menu) | 1 | 308 | 0.3 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [mate-terminal](/f32/package/mate-terminal) | 9 | 4705 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [libmatekbd](/f32/package/libmatekbd) | 0 | 308 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [mate-themes](/f32/package/mate-themes) | 0 | 74 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [sugar](/f32/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f32/package/sugar-toolkit-gtk3) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

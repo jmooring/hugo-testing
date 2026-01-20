@@ -18,15 +18,15 @@ The package fvwm3 (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 707 | 715 | 98.9 | /mnt/stockage/packages/f40/fvwm3/po/zh_TW.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 290 | 715 | 40.6 | /mnt/stockage/packages/f40/fvwm3/po/fr.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 289 | 715 | 40.4 | /mnt/stockage/packages/f40/fvwm3/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 289 | 715 | 40.4 | /mnt/stockage/packages/f40/fvwm3/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 121 | 715 | 16.9 | /mnt/stockage/packages/f40/fvwm3/po/es.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 77 | 715 | 10.8 | /mnt/stockage/packages/f40/fvwm3/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 77 | 715 | 10.8 | /mnt/stockage/packages/f40/fvwm3/po/sv_SE.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 76 | 715 | 10.6 | /mnt/stockage/packages/f40/fvwm3/po/zh_CN.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 9 | 715 | 1.3 | /mnt/stockage/packages/f40/fvwm3/po/ar.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 707 | 715 | 98.9 | /mnt/stockage/packages/f40/fvwm3/po/zh_TW.po | 
+ | [fr](/f40/language/fr) | 290 | 715 | 40.6 | /mnt/stockage/packages/f40/fvwm3/po/fr.po | 
+ | [da](/f40/language/da) | 289 | 715 | 40.4 | /mnt/stockage/packages/f40/fvwm3/po/da.po | 
+ | [de](/f40/language/de) | 289 | 715 | 40.4 | /mnt/stockage/packages/f40/fvwm3/po/de.po | 
+ | [es](/f40/language/es) | 121 | 715 | 16.9 | /mnt/stockage/packages/f40/fvwm3/po/es.po | 
+ | [ru](/f40/language/ru) | 77 | 715 | 10.8 | /mnt/stockage/packages/f40/fvwm3/po/ru.po | 
+ | [sv](/f40/language/sv) | 77 | 715 | 10.8 | /mnt/stockage/packages/f40/fvwm3/po/sv_SE.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 76 | 715 | 10.6 | /mnt/stockage/packages/f40/fvwm3/po/zh_CN.po | 
+ | [ar](/f40/language/ar) | 9 | 715 | 1.3 | /mnt/stockage/packages/f40/fvwm3/po/ar.po | 
 {.sortable}
 
 

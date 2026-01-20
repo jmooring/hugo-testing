@@ -18,14 +18,14 @@ The package input-pad (version 1.0.99.20140916):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2220 | 2220 | 100.0 | /mnt/stockage/packages/f24/input-pad/po/uk.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 862 | 1839 | 46.9 | /mnt/stockage/packages/f24/input-pad/po/fr.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 921 | 2220 | 41.5 | /mnt/stockage/packages/f24/input-pad/po/ja.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 462 | 1839 | 25.1 | /mnt/stockage/packages/f24/input-pad/po/ca.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 423 | 1839 | 23.0 | /mnt/stockage/packages/f24/input-pad/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 196 | 1839 | 10.7 | /mnt/stockage/packages/f24/input-pad/po/zh_CN.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 104 | 1839 | 5.7 | /mnt/stockage/packages/f24/input-pad/po/eu.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 87 | 1839 | 4.7 | /mnt/stockage/packages/f24/input-pad/po/hu.po | 
+ | [uk](/f24/language/uk) | 2220 | 2220 | 100.0 | /mnt/stockage/packages/f24/input-pad/po/uk.po | 
+ | [fr](/f24/language/fr) | 862 | 1839 | 46.9 | /mnt/stockage/packages/f24/input-pad/po/fr.po | 
+ | [ja](/f24/language/ja) | 921 | 2220 | 41.5 | /mnt/stockage/packages/f24/input-pad/po/ja.po | 
+ | [ca](/f24/language/ca) | 462 | 1839 | 25.1 | /mnt/stockage/packages/f24/input-pad/po/ca.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 423 | 1839 | 23.0 | /mnt/stockage/packages/f24/input-pad/po/zh_TW.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 196 | 1839 | 10.7 | /mnt/stockage/packages/f24/input-pad/po/zh_CN.po | 
+ | [eu](/f24/language/eu) | 104 | 1839 | 5.7 | /mnt/stockage/packages/f24/input-pad/po/eu.po | 
+ | [hu](/f24/language/hu) | 87 | 1839 | 4.7 | /mnt/stockage/packages/f24/input-pad/po/hu.po | 
 {.sortable}
 
 

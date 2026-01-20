@@ -18,37 +18,37 @@ The package gigolo (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/ja.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/lv.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/pt.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/ru.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/tr.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 436 | 444 | 98.2 | /mnt/stockage/packages/f14/gigolo/po/pt_BR.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 428 | 444 | 96.4 | /mnt/stockage/packages/f14/gigolo/po/uk.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 421 | 444 | 94.8 | /mnt/stockage/packages/f14/gigolo/po/nl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 402 | 444 | 90.5 | /mnt/stockage/packages/f14/gigolo/po/sv.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 398 | 444 | 89.6 | /mnt/stockage/packages/f14/gigolo/po/ast.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 796 | 888 | 89.6 | /mnt/stockage/packages/f14/gigolo/po/ur_PK.po/mnt/stockage/packages/f14/gigolo/po/ur.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 350 | 444 | 78.8 | /mnt/stockage/packages/f14/gigolo/po/hr.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 327 | 444 | 73.6 | /mnt/stockage/packages/f14/gigolo/po/ug.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 315 | 444 | 70.9 | /mnt/stockage/packages/f14/gigolo/po/bg.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 314 | 444 | 70.7 | /mnt/stockage/packages/f14/gigolo/po/sk.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 270 | 444 | 60.8 | /mnt/stockage/packages/f14/gigolo/po/pl.po | 
- | [kk]({{< ref "/f14/language/kk.md" >}}) | 55 | 444 | 12.4 | /mnt/stockage/packages/f14/gigolo/po/kk.po | 
+ | [ca](/f14/language/ca) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/ca.po | 
+ | [cs](/f14/language/cs) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/cs.po | 
+ | [da](/f14/language/da) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/da.po | 
+ | [de](/f14/language/de) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/de.po | 
+ | [el](/f14/language/el) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/el.po | 
+ | [es](/f14/language/es) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/es.po | 
+ | [eu](/f14/language/eu) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/eu.po | 
+ | [fi](/f14/language/fi) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/fi.po | 
+ | [fr](/f14/language/fr) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/fr.po | 
+ | [gl](/f14/language/gl) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/gl.po | 
+ | [hu](/f14/language/hu) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/hu.po | 
+ | [id](/f14/language/id) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/id.po | 
+ | [it](/f14/language/it) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/it.po | 
+ | [ja](/f14/language/ja) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/ja.po | 
+ | [lv](/f14/language/lv) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/lv.po | 
+ | [pt](/f14/language/pt) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/pt.po | 
+ | [ru](/f14/language/ru) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/ru.po | 
+ | [tr](/f14/language/tr) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/tr.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 444 | 444 | 100.0 | /mnt/stockage/packages/f14/gigolo/po/zh_CN.po | 
+ | [pt_BR](/f14/language/pt_BR) | 436 | 444 | 98.2 | /mnt/stockage/packages/f14/gigolo/po/pt_BR.po | 
+ | [uk](/f14/language/uk) | 428 | 444 | 96.4 | /mnt/stockage/packages/f14/gigolo/po/uk.po | 
+ | [nl](/f14/language/nl) | 421 | 444 | 94.8 | /mnt/stockage/packages/f14/gigolo/po/nl.po | 
+ | [sv](/f14/language/sv) | 402 | 444 | 90.5 | /mnt/stockage/packages/f14/gigolo/po/sv.po | 
+ | [ast](/f14/language/ast) | 398 | 444 | 89.6 | /mnt/stockage/packages/f14/gigolo/po/ast.po | 
+ | [ur](/f14/language/ur) | 796 | 888 | 89.6 | /mnt/stockage/packages/f14/gigolo/po/ur_PK.po/mnt/stockage/packages/f14/gigolo/po/ur.po | 
+ | [hr](/f14/language/hr) | 350 | 444 | 78.8 | /mnt/stockage/packages/f14/gigolo/po/hr.po | 
+ | [ug](/f14/language/ug) | 327 | 444 | 73.6 | /mnt/stockage/packages/f14/gigolo/po/ug.po | 
+ | [bg](/f14/language/bg) | 315 | 444 | 70.9 | /mnt/stockage/packages/f14/gigolo/po/bg.po | 
+ | [sk](/f14/language/sk) | 314 | 444 | 70.7 | /mnt/stockage/packages/f14/gigolo/po/sk.po | 
+ | [pl](/f14/language/pl) | 270 | 444 | 60.8 | /mnt/stockage/packages/f14/gigolo/po/pl.po | 
+ | [kk](/f14/language/kk) | 55 | 444 | 12.4 | /mnt/stockage/packages/f14/gigolo/po/kk.po | 
 {.sortable}
 
 

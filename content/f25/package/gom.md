@@ -18,18 +18,18 @@ The package gom (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f25/gom/po/bs.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/cs.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f25/gom/po/el.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/es.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f25/gom/po/id.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f25/gom/po/pt_BR.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f25/gom/po/sr@latin.po/mnt/stockage/packages/f25/gom/po/sr.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 77 | 164 | 47.0 | /mnt/stockage/packages/f25/gom/po/de.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 40 | 170 | 23.5 | /mnt/stockage/packages/f25/gom/po/sl.po | 
+ | [bs](/f25/language/bs) | 175 | 175 | 100.0 | /mnt/stockage/packages/f25/gom/po/bs.po | 
+ | [cs](/f25/language/cs) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/cs.po | 
+ | [el](/f25/language/el) | 170 | 170 | 100.0 | /mnt/stockage/packages/f25/gom/po/el.po | 
+ | [es](/f25/language/es) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/es.po | 
+ | [hu](/f25/language/hu) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/hu.po | 
+ | [id](/f25/language/id) | 165 | 165 | 100.0 | /mnt/stockage/packages/f25/gom/po/id.po | 
+ | [pl](/f25/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/pl.po | 
+ | [pt](/f25/language/pt) | 184 | 184 | 100.0 | /mnt/stockage/packages/f25/gom/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 175 | 175 | 100.0 | /mnt/stockage/packages/f25/gom/po/pt_BR.po | 
+ | [sr](/f25/language/sr) | 350 | 350 | 100.0 | /mnt/stockage/packages/f25/gom/po/sr@latin.po/mnt/stockage/packages/f25/gom/po/sr.po | 
+ | [de](/f25/language/de) | 77 | 164 | 47.0 | /mnt/stockage/packages/f25/gom/po/de.po | 
+ | [sl](/f25/language/sl) | 40 | 170 | 23.5 | /mnt/stockage/packages/f25/gom/po/sl.po | 
 {.sortable}
 
 

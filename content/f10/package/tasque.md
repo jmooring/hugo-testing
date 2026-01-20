@@ -18,21 +18,21 @@ The package tasque (version 0.1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f10/tasque/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f10/tasque/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f10/tasque/po/ja.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f10/tasque/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f10/tasque/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f10/tasque/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f10/tasque/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f10/tasque/po/sv.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/tr_TR.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f10/tasque/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/zh_TW.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 132 | 142 | 93.0 | /mnt/stockage/packages/f10/tasque/po/da.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/tasque/po/fi.po | 
+ | [de](/f10/language/de) | 135 | 135 | 100.0 | /mnt/stockage/packages/f10/tasque/po/de.po | 
+ | [es](/f10/language/es) | 160 | 160 | 100.0 | /mnt/stockage/packages/f10/tasque/po/es.po | 
+ | [fr](/f10/language/fr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/fr.po | 
+ | [it](/f10/language/it) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/it.po | 
+ | [ja](/f10/language/ja) | 160 | 160 | 100.0 | /mnt/stockage/packages/f10/tasque/po/ja.po | 
+ | [nl](/f10/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f10/tasque/po/nl.po | 
+ | [pl](/f10/language/pl) | 185 | 185 | 100.0 | /mnt/stockage/packages/f10/tasque/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 185 | 185 | 100.0 | /mnt/stockage/packages/f10/tasque/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 135 | 135 | 100.0 | /mnt/stockage/packages/f10/tasque/po/ru.po | 
+ | [sv](/f10/language/sv) | 160 | 160 | 100.0 | /mnt/stockage/packages/f10/tasque/po/sv.po | 
+ | [tr](/f10/language/tr) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/tr_TR.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 185 | 185 | 100.0 | /mnt/stockage/packages/f10/tasque/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 142 | 142 | 100.0 | /mnt/stockage/packages/f10/tasque/po/zh_TW.po | 
+ | [da](/f10/language/da) | 132 | 142 | 93.0 | /mnt/stockage/packages/f10/tasque/po/da.po | 
+ | [fi](/f10/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/tasque/po/fi.po | 
 {.sortable}
 
 

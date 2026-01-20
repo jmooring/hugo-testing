@@ -18,105 +18,105 @@ The package epiphany (version 3.22.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f25/language/an.md" >}}) | 1757 | 1757 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/an.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 2592 | 2592 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/as.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 3073 | 3073 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ast.po | 
- | [az]({{< ref "/f25/language/az.md" >}}) | 2782 | 2782 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/az.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/be.po | 
- | [be_Latn]({{< ref "/f25/language/be_Latn.md" >}}) | 4246 | 4246 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/be@latin.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 2291 | 2291 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/bn_IN.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 2615 | 2615 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/bs.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 2592 | 2592 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ca@valencia.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/cs/cs.po/mnt/stockage/packages/f25/epiphany/po/cs.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 3788 | 3788 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/cy.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/de/de.po/mnt/stockage/packages/f25/epiphany/po/de.po | 
- | [dz]({{< ref "/f25/language/dz.md" >}}) | 4246 | 4246 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/dz.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/el/el.po/mnt/stockage/packages/f25/epiphany/po/el.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 2291 | 2291 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/en_CA.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/es/es.po/mnt/stockage/packages/f25/epiphany/po/es.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 1758 | 1758 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/fa.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/fr/fr.po/mnt/stockage/packages/f25/epiphany/po/fr.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/fur.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/gl.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/he.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 2461 | 2461 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/hi.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/hu/hu.po/mnt/stockage/packages/f25/epiphany/po/hu.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 2749 | 2749 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ja.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/kn.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/lv.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 2199 | 2199 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/mk.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 3054 | 3054 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/mn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/mr.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/nb.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 4071 | 4071 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ne.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/nl.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 3006 | 3006 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/nn.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/pl.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 2267 | 2267 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ro.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/sk.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 3011 | 3011 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 5746 | 5746 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/sr.po/mnt/stockage/packages/f25/epiphany/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/sv/sv.po/mnt/stockage/packages/f25/epiphany/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 2461 | 2461 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/te.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 2618 | 2618 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 2461 | 2461 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/uk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 1757 | 1757 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 2874 | 2874 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 2564 | 2564 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/zh_HK.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 3010 | 3047 | 98.8 | /mnt/stockage/packages/f25/epiphany/po/ka.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 2826 | 2873 | 98.4 | /mnt/stockage/packages/f25/epiphany/po/pt.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 2158 | 2199 | 98.1 | /mnt/stockage/packages/f25/epiphany/po/km.po | 
- | [mg]({{< ref "/f25/language/mg.md" >}}) | 3684 | 3798 | 97.0 | /mnt/stockage/packages/f25/epiphany/po/mg.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 2666 | 2749 | 97.0 | /mnt/stockage/packages/f25/epiphany/po/sl.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 2698 | 2787 | 96.8 | /mnt/stockage/packages/f25/epiphany/po/bg.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 2350 | 2448 | 96.0 | /mnt/stockage/packages/f25/epiphany/po/ml.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 2756 | 2871 | 96.0 | /mnt/stockage/packages/f25/epiphany/po/id.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 2629 | 2755 | 95.4 | /mnt/stockage/packages/f25/epiphany/po/oc.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 2578 | 2755 | 93.6 | /mnt/stockage/packages/f25/epiphany/po/ca.po | 
- | [gv]({{< ref "/f25/language/gv.md" >}}) | 2764 | 3044 | 90.8 | /mnt/stockage/packages/f25/epiphany/po/gv.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 2650 | 3001 | 88.3 | /mnt/stockage/packages/f25/epiphany/po/hr.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 2528 | 2873 | 88.0 | /mnt/stockage/packages/f25/epiphany/po/fi.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 2644 | 3052 | 86.6 | /mnt/stockage/packages/f25/epiphany/po/en@shaw.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 2328 | 2782 | 83.7 | /mnt/stockage/packages/f25/epiphany/po/ar.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 2530 | 3031 | 83.5 | /mnt/stockage/packages/f25/epiphany/po/mai.po | 
- | [uz]({{< ref "/f25/language/uz.md" >}}) | 4822 | 6008 | 80.3 | /mnt/stockage/packages/f25/epiphany/po/uz.po/mnt/stockage/packages/f25/epiphany/po/uz@cyrillic.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 4718 | 5927 | 79.6 | /mnt/stockage/packages/f25/epiphany/help/ko/ko.po/mnt/stockage/packages/f25/epiphany/po/ko.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 2013 | 2871 | 70.1 | /mnt/stockage/packages/f25/epiphany/po/pa.po | 
- | [yo]({{< ref "/f25/language/yo.md" >}}) | 1553 | 2362 | 65.7 | /mnt/stockage/packages/f25/epiphany/po/yo.po | 
- | [ig]({{< ref "/f25/language/ig.md" >}}) | 1949 | 3004 | 64.9 | /mnt/stockage/packages/f25/epiphany/po/ig.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 3307 | 5253 | 63.0 | /mnt/stockage/packages/f25/epiphany/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/epiphany/po/pt_BR.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 3441 | 5508 | 62.5 | /mnt/stockage/packages/f25/epiphany/help/ru/ru.po/mnt/stockage/packages/f25/epiphany/po/ru.po | 
- | [tk]({{< ref "/f25/language/tk.md" >}}) | 1702 | 2782 | 61.2 | /mnt/stockage/packages/f25/epiphany/po/tk.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 1566 | 2618 | 59.8 | /mnt/stockage/packages/f25/epiphany/po/eo.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 1495 | 2539 | 58.9 | /mnt/stockage/packages/f25/epiphany/po/or.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 1751 | 3001 | 58.3 | /mnt/stockage/packages/f25/epiphany/po/br.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 1423 | 2564 | 55.5 | /mnt/stockage/packages/f25/epiphany/po/gu.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 1537 | 3073 | 50.0 | /mnt/stockage/packages/f25/epiphany/po/ms.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 1132 | 2589 | 43.7 | /mnt/stockage/packages/f25/epiphany/po/bn.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 1062 | 2495 | 42.6 | /mnt/stockage/packages/f25/epiphany/po/ga.po | 
- | [wa]({{< ref "/f25/language/wa.md" >}}) | 1137 | 2732 | 41.6 | /mnt/stockage/packages/f25/epiphany/po/wa.po | 
- | [hy]({{< ref "/f25/language/hy.md" >}}) | 1241 | 3001 | 41.4 | /mnt/stockage/packages/f25/epiphany/po/hy.po | 
- | [li]({{< ref "/f25/language/li.md" >}}) | 1057 | 2732 | 38.7 | /mnt/stockage/packages/f25/epiphany/po/li.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 1078 | 3005 | 35.9 | /mnt/stockage/packages/f25/epiphany/po/ku.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 1047 | 3053 | 34.3 | /mnt/stockage/packages/f25/epiphany/po/nds.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 888 | 2873 | 30.9 | /mnt/stockage/packages/f25/epiphany/po/kk.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 518 | 2589 | 20.0 | /mnt/stockage/packages/f25/epiphany/po/is.po | 
- | [ps]({{< ref "/f25/language/ps.md" >}}) | 401 | 2882 | 13.9 | /mnt/stockage/packages/f25/epiphany/po/ps.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 265 | 2494 | 10.6 | /mnt/stockage/packages/f25/epiphany/po/tg.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 288 | 2732 | 10.5 | /mnt/stockage/packages/f25/epiphany/po/am.po | 
- | [rw]({{< ref "/f25/language/rw.md" >}}) | 251 | 3220 | 7.8 | /mnt/stockage/packages/f25/epiphany/po/rw.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 197 | 4061 | 4.9 | /mnt/stockage/packages/f25/epiphany/po/si.po | 
- | [mi]({{< ref "/f25/language/mi.md" >}}) | 114 | 2732 | 4.2 | /mnt/stockage/packages/f25/epiphany/po/mi.po | 
+ | [an](/f25/language/an) | 1757 | 1757 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/an.po | 
+ | [as](/f25/language/as) | 2592 | 2592 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/as.po | 
+ | [ast](/f25/language/ast) | 3073 | 3073 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ast.po | 
+ | [az](/f25/language/az) | 2782 | 2782 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/az.po | 
+ | [be](/f25/language/be) | 2494 | 2494 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/be.po | 
+ | [be_Latn](/f25/language/be_Latn) | 4246 | 4246 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/be@latin.po | 
+ | [bn_IN](/f25/language/bn_IN) | 2291 | 2291 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/bn_IN.po | 
+ | [bs](/f25/language/bs) | 2615 | 2615 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/bs.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 2592 | 2592 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ca@valencia.po | 
+ | [cs](/f25/language/cs) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/cs/cs.po/mnt/stockage/packages/f25/epiphany/po/cs.po | 
+ | [cy](/f25/language/cy) | 3788 | 3788 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/cy.po | 
+ | [da](/f25/language/da) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/da.po | 
+ | [de](/f25/language/de) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/de/de.po/mnt/stockage/packages/f25/epiphany/po/de.po | 
+ | [dz](/f25/language/dz) | 4246 | 4246 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/dz.po | 
+ | [el](/f25/language/el) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/el/el.po/mnt/stockage/packages/f25/epiphany/po/el.po | 
+ | [en_CA](/f25/language/en_CA) | 2291 | 2291 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/en_CA.po | 
+ | [en_GB](/f25/language/en_GB) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/en_GB.po | 
+ | [es](/f25/language/es) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/es/es.po/mnt/stockage/packages/f25/epiphany/po/es.po | 
+ | [et](/f25/language/et) | 1758 | 1758 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/et.po | 
+ | [eu](/f25/language/eu) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/eu.po | 
+ | [fa](/f25/language/fa) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/fa.po | 
+ | [fr](/f25/language/fr) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/fr/fr.po/mnt/stockage/packages/f25/epiphany/po/fr.po | 
+ | [fur](/f25/language/fur) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/fur.po | 
+ | [gl](/f25/language/gl) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/gl.po | 
+ | [he](/f25/language/he) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/he.po | 
+ | [hi](/f25/language/hi) | 2461 | 2461 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/hi.po | 
+ | [hu](/f25/language/hu) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/hu/hu.po/mnt/stockage/packages/f25/epiphany/po/hu.po | 
+ | [it](/f25/language/it) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/it.po | 
+ | [ja](/f25/language/ja) | 2749 | 2749 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ja.po | 
+ | [kn](/f25/language/kn) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/kn.po | 
+ | [lt](/f25/language/lt) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/lt.po | 
+ | [lv](/f25/language/lv) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/lv.po | 
+ | [mk](/f25/language/mk) | 2199 | 2199 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/mk.po | 
+ | [mn](/f25/language/mn) | 3054 | 3054 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/mn.po | 
+ | [mr](/f25/language/mr) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/mr.po | 
+ | [nb_NO](/f25/language/nb_NO) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/nb.po | 
+ | [ne](/f25/language/ne) | 4071 | 4071 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ne.po | 
+ | [nl](/f25/language/nl) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/nl.po | 
+ | [nn](/f25/language/nn) | 3006 | 3006 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/nn.po | 
+ | [pl](/f25/language/pl) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/pl.po | 
+ | [ro](/f25/language/ro) | 2267 | 2267 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ro.po | 
+ | [sk](/f25/language/sk) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/sk.po | 
+ | [sq](/f25/language/sq) | 3011 | 3011 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/sq.po | 
+ | [sr](/f25/language/sr) | 5746 | 5746 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/sr.po/mnt/stockage/packages/f25/epiphany/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 5927 | 5927 | 100.0 | /mnt/stockage/packages/f25/epiphany/help/sv/sv.po/mnt/stockage/packages/f25/epiphany/po/sv.po | 
+ | [ta](/f25/language/ta) | 2461 | 2461 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ta.po | 
+ | [te](/f25/language/te) | 2413 | 2413 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/te.po | 
+ | [th](/f25/language/th) | 2618 | 2618 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/th.po | 
+ | [tr](/f25/language/tr) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/tr.po | 
+ | [ug](/f25/language/ug) | 2461 | 2461 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/ug.po | 
+ | [uk](/f25/language/uk) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/uk.po | 
+ | [vi](/f25/language/vi) | 1757 | 1757 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 2873 | 2873 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 2874 | 2874 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 2564 | 2564 | 100.0 | /mnt/stockage/packages/f25/epiphany/po/zh_HK.po | 
+ | [ka](/f25/language/ka) | 3010 | 3047 | 98.8 | /mnt/stockage/packages/f25/epiphany/po/ka.po | 
+ | [pt](/f25/language/pt) | 2826 | 2873 | 98.4 | /mnt/stockage/packages/f25/epiphany/po/pt.po | 
+ | [km](/f25/language/km) | 2158 | 2199 | 98.1 | /mnt/stockage/packages/f25/epiphany/po/km.po | 
+ | [mg](/f25/language/mg) | 3684 | 3798 | 97.0 | /mnt/stockage/packages/f25/epiphany/po/mg.po | 
+ | [sl](/f25/language/sl) | 2666 | 2749 | 97.0 | /mnt/stockage/packages/f25/epiphany/po/sl.po | 
+ | [bg](/f25/language/bg) | 2698 | 2787 | 96.8 | /mnt/stockage/packages/f25/epiphany/po/bg.po | 
+ | [ml](/f25/language/ml) | 2350 | 2448 | 96.0 | /mnt/stockage/packages/f25/epiphany/po/ml.po | 
+ | [id](/f25/language/id) | 2756 | 2871 | 96.0 | /mnt/stockage/packages/f25/epiphany/po/id.po | 
+ | [oc](/f25/language/oc) | 2629 | 2755 | 95.4 | /mnt/stockage/packages/f25/epiphany/po/oc.po | 
+ | [ca](/f25/language/ca) | 2578 | 2755 | 93.6 | /mnt/stockage/packages/f25/epiphany/po/ca.po | 
+ | [gv](/f25/language/gv) | 2764 | 3044 | 90.8 | /mnt/stockage/packages/f25/epiphany/po/gv.po | 
+ | [hr](/f25/language/hr) | 2650 | 3001 | 88.3 | /mnt/stockage/packages/f25/epiphany/po/hr.po | 
+ | [fi](/f25/language/fi) | 2528 | 2873 | 88.0 | /mnt/stockage/packages/f25/epiphany/po/fi.po | 
+ | [error](/f25/language/error) | 2644 | 3052 | 86.6 | /mnt/stockage/packages/f25/epiphany/po/en@shaw.po | 
+ | [ar](/f25/language/ar) | 2328 | 2782 | 83.7 | /mnt/stockage/packages/f25/epiphany/po/ar.po | 
+ | [mai](/f25/language/mai) | 2530 | 3031 | 83.5 | /mnt/stockage/packages/f25/epiphany/po/mai.po | 
+ | [uz](/f25/language/uz) | 4822 | 6008 | 80.3 | /mnt/stockage/packages/f25/epiphany/po/uz.po/mnt/stockage/packages/f25/epiphany/po/uz@cyrillic.po | 
+ | [ko](/f25/language/ko) | 4718 | 5927 | 79.6 | /mnt/stockage/packages/f25/epiphany/help/ko/ko.po/mnt/stockage/packages/f25/epiphany/po/ko.po | 
+ | [pa](/f25/language/pa) | 2013 | 2871 | 70.1 | /mnt/stockage/packages/f25/epiphany/po/pa.po | 
+ | [yo](/f25/language/yo) | 1553 | 2362 | 65.7 | /mnt/stockage/packages/f25/epiphany/po/yo.po | 
+ | [ig](/f25/language/ig) | 1949 | 3004 | 64.9 | /mnt/stockage/packages/f25/epiphany/po/ig.po | 
+ | [pt_BR](/f25/language/pt_BR) | 3307 | 5253 | 63.0 | /mnt/stockage/packages/f25/epiphany/help/pt_BR/pt_BR.po/mnt/stockage/packages/f25/epiphany/po/pt_BR.po | 
+ | [ru](/f25/language/ru) | 3441 | 5508 | 62.5 | /mnt/stockage/packages/f25/epiphany/help/ru/ru.po/mnt/stockage/packages/f25/epiphany/po/ru.po | 
+ | [tk](/f25/language/tk) | 1702 | 2782 | 61.2 | /mnt/stockage/packages/f25/epiphany/po/tk.po | 
+ | [eo](/f25/language/eo) | 1566 | 2618 | 59.8 | /mnt/stockage/packages/f25/epiphany/po/eo.po | 
+ | [or](/f25/language/or) | 1495 | 2539 | 58.9 | /mnt/stockage/packages/f25/epiphany/po/or.po | 
+ | [br](/f25/language/br) | 1751 | 3001 | 58.3 | /mnt/stockage/packages/f25/epiphany/po/br.po | 
+ | [gu](/f25/language/gu) | 1423 | 2564 | 55.5 | /mnt/stockage/packages/f25/epiphany/po/gu.po | 
+ | [ms](/f25/language/ms) | 1537 | 3073 | 50.0 | /mnt/stockage/packages/f25/epiphany/po/ms.po | 
+ | [bn](/f25/language/bn) | 1132 | 2589 | 43.7 | /mnt/stockage/packages/f25/epiphany/po/bn.po | 
+ | [ga](/f25/language/ga) | 1062 | 2495 | 42.6 | /mnt/stockage/packages/f25/epiphany/po/ga.po | 
+ | [wa](/f25/language/wa) | 1137 | 2732 | 41.6 | /mnt/stockage/packages/f25/epiphany/po/wa.po | 
+ | [hy](/f25/language/hy) | 1241 | 3001 | 41.4 | /mnt/stockage/packages/f25/epiphany/po/hy.po | 
+ | [li](/f25/language/li) | 1057 | 2732 | 38.7 | /mnt/stockage/packages/f25/epiphany/po/li.po | 
+ | [ku](/f25/language/ku) | 1078 | 3005 | 35.9 | /mnt/stockage/packages/f25/epiphany/po/ku.po | 
+ | [nds](/f25/language/nds) | 1047 | 3053 | 34.3 | /mnt/stockage/packages/f25/epiphany/po/nds.po | 
+ | [kk](/f25/language/kk) | 888 | 2873 | 30.9 | /mnt/stockage/packages/f25/epiphany/po/kk.po | 
+ | [is](/f25/language/is) | 518 | 2589 | 20.0 | /mnt/stockage/packages/f25/epiphany/po/is.po | 
+ | [ps](/f25/language/ps) | 401 | 2882 | 13.9 | /mnt/stockage/packages/f25/epiphany/po/ps.po | 
+ | [tg](/f25/language/tg) | 265 | 2494 | 10.6 | /mnt/stockage/packages/f25/epiphany/po/tg.po | 
+ | [am](/f25/language/am) | 288 | 2732 | 10.5 | /mnt/stockage/packages/f25/epiphany/po/am.po | 
+ | [rw](/f25/language/rw) | 251 | 3220 | 7.8 | /mnt/stockage/packages/f25/epiphany/po/rw.po | 
+ | [si](/f25/language/si) | 197 | 4061 | 4.9 | /mnt/stockage/packages/f25/epiphany/po/si.po | 
+ | [mi](/f25/language/mi) | 114 | 2732 | 4.2 | /mnt/stockage/packages/f25/epiphany/po/mi.po | 
 {.sortable}
 
 

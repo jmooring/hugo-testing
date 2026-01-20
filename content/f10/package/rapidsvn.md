@@ -18,15 +18,15 @@ The package rapidsvn (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 1411 | 1411 | 100.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/de/rapidsvn.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1391 | 1411 | 98.6 | /mnt/stockage/packages/f10/rapidsvn/src/locale/ja/rapidsvn.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1356 | 1411 | 96.1 | /mnt/stockage/packages/f10/rapidsvn/src/locale/fr/rapidsvn.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1199 | 1411 | 85.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/it_IT/rapidsvn.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1196 | 1411 | 84.8 | /mnt/stockage/packages/f10/rapidsvn/src/locale/es/rapidsvn.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1196 | 1411 | 84.8 | /mnt/stockage/packages/f10/rapidsvn/src/locale/zh_CN/rapidsvn.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1143 | 1411 | 81.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/pt_BR/rapidsvn.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1143 | 1411 | 81.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/ru/rapidsvn.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 1143 | 1411 | 81.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/uk/rapidsvn.po | 
+ | [de](/f10/language/de) | 1411 | 1411 | 100.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/de/rapidsvn.po | 
+ | [ja](/f10/language/ja) | 1391 | 1411 | 98.6 | /mnt/stockage/packages/f10/rapidsvn/src/locale/ja/rapidsvn.po | 
+ | [fr](/f10/language/fr) | 1356 | 1411 | 96.1 | /mnt/stockage/packages/f10/rapidsvn/src/locale/fr/rapidsvn.po | 
+ | [it](/f10/language/it) | 1199 | 1411 | 85.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/it_IT/rapidsvn.po | 
+ | [es](/f10/language/es) | 1196 | 1411 | 84.8 | /mnt/stockage/packages/f10/rapidsvn/src/locale/es/rapidsvn.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1196 | 1411 | 84.8 | /mnt/stockage/packages/f10/rapidsvn/src/locale/zh_CN/rapidsvn.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1143 | 1411 | 81.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/pt_BR/rapidsvn.po | 
+ | [ru](/f10/language/ru) | 1143 | 1411 | 81.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/ru/rapidsvn.po | 
+ | [uk](/f10/language/uk) | 1143 | 1411 | 81.0 | /mnt/stockage/packages/f10/rapidsvn/src/locale/uk/rapidsvn.po | 
 {.sortable}
 
 

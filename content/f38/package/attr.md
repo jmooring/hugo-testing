@@ -18,15 +18,15 @@ The package attr (version 2.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f38/language/error.md" >}}) | 708 | 708 | 100.0 | /mnt/stockage/packages/f38/attr/po/en@quot.po/mnt/stockage/packages/f38/attr/po/en@boldquot.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 352 | 354 | 99.4 | /mnt/stockage/packages/f38/attr/po/de.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/cs.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/es.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/gl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/pl.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 127 | 354 | 35.9 | /mnt/stockage/packages/f38/attr/po/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 127 | 354 | 35.9 | /mnt/stockage/packages/f38/attr/po/nl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 127 | 354 | 35.9 | /mnt/stockage/packages/f38/attr/po/sv.po | 
+ | [error](/f38/language/error) | 708 | 708 | 100.0 | /mnt/stockage/packages/f38/attr/po/en@quot.po/mnt/stockage/packages/f38/attr/po/en@boldquot.po | 
+ | [de](/f38/language/de) | 352 | 354 | 99.4 | /mnt/stockage/packages/f38/attr/po/de.po | 
+ | [cs](/f38/language/cs) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/cs.po | 
+ | [es](/f38/language/es) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/es.po | 
+ | [gl](/f38/language/gl) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/gl.po | 
+ | [pl](/f38/language/pl) | 212 | 354 | 59.9 | /mnt/stockage/packages/f38/attr/po/pl.po | 
+ | [fr](/f38/language/fr) | 127 | 354 | 35.9 | /mnt/stockage/packages/f38/attr/po/fr.po | 
+ | [nl](/f38/language/nl) | 127 | 354 | 35.9 | /mnt/stockage/packages/f38/attr/po/nl.po | 
+ | [sv](/f38/language/sv) | 127 | 354 | 35.9 | /mnt/stockage/packages/f38/attr/po/sv.po | 
 {.sortable}
 
 

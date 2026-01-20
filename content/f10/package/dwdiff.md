@@ -18,8 +18,8 @@ The package dwdiff (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f10/dwdiff/po/nl.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/dwdiff/po/de.po | 
+ | [nl](/f10/language/nl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f10/dwdiff/po/nl.po | 
+ | [de](/f10/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/dwdiff/po/de.po | 
 {.sortable}
 
 

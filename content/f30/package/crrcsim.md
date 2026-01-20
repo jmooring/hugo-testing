@@ -18,11 +18,11 @@ The package crrcsim (version 0.9.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f30/crrcsim/locale/cs/LC_MESSAGES/crrcsim.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 603 | 603 | 100.0 | /mnt/stockage/packages/f30/crrcsim/locale/de/LC_MESSAGES/crrcsim.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 756 | 756 | 100.0 | /mnt/stockage/packages/f30/crrcsim/locale/it/LC_MESSAGES/crrcsim.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 644 | 654 | 98.5 | /mnt/stockage/packages/f30/crrcsim/locale/fr/LC_MESSAGES/crrcsim.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 0 | 727 | 0.0 | /mnt/stockage/packages/f30/crrcsim/locale/xx/LC_MESSAGES/crrcsim.po | 
+ | [cs](/f30/language/cs) | 654 | 654 | 100.0 | /mnt/stockage/packages/f30/crrcsim/locale/cs/LC_MESSAGES/crrcsim.po | 
+ | [de](/f30/language/de) | 603 | 603 | 100.0 | /mnt/stockage/packages/f30/crrcsim/locale/de/LC_MESSAGES/crrcsim.po | 
+ | [it](/f30/language/it) | 756 | 756 | 100.0 | /mnt/stockage/packages/f30/crrcsim/locale/it/LC_MESSAGES/crrcsim.po | 
+ | [fr](/f30/language/fr) | 644 | 654 | 98.5 | /mnt/stockage/packages/f30/crrcsim/locale/fr/LC_MESSAGES/crrcsim.po | 
+ | [error](/f30/language/error) | 0 | 727 | 0.0 | /mnt/stockage/packages/f30/crrcsim/locale/xx/LC_MESSAGES/crrcsim.po | 
 {.sortable}
 
 

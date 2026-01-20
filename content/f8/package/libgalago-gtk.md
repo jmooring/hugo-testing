@@ -18,8 +18,8 @@ The package libgalago-gtk (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 15 | 28 | 53.6 | /mnt/stockage/packages/f8/libgalago-gtk/po/pt_BR.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 13 | 28 | 46.4 | /mnt/stockage/packages/f8/libgalago-gtk/po/fr.po | 
+ | [pt_BR](/f8/language/pt_BR) | 15 | 28 | 53.6 | /mnt/stockage/packages/f8/libgalago-gtk/po/pt_BR.po | 
+ | [fr](/f8/language/fr) | 13 | 28 | 46.4 | /mnt/stockage/packages/f8/libgalago-gtk/po/fr.po | 
 {.sortable}
 
 

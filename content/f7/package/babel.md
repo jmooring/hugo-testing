@@ -18,7 +18,7 @@ The package babel (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 0 | 3 | 0.0 | /mnt/stockage/packages/f7/babel/babel/messages/tests/data/project/i18n/de_DE/LC_MESSAGES/messages.po | 
+ | [de](/f7/language/de) | 0 | 3 | 0.0 | /mnt/stockage/packages/f7/babel/babel/messages/tests/data/project/i18n/de_DE/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

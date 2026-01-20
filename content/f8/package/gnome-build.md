@@ -18,44 +18,44 @@ The package gnome-build (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f8/language/az.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/az.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/de.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/en_CA.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/en_GB.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sr@Latn.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/es.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/gl.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/hr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/hu.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/ja.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/mk.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/nb.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/ne.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/nl.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pa.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pt_BR.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sk.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sr.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sv.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/uk.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/vi.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/zh_CN.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 191 | 193 | 99.0 | /mnt/stockage/packages/f8/gnome-build/po/ms.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 159 | 176 | 90.3 | /mnt/stockage/packages/f8/gnome-build/po/ml.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 130 | 176 | 73.9 | /mnt/stockage/packages/f8/gnome-build/po/ru.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 103 | 176 | 58.5 | /mnt/stockage/packages/f8/gnome-build/po/it.po | 
- | [be]({{< ref "/f8/language/be.md" >}}) | 72 | 176 | 40.9 | /mnt/stockage/packages/f8/gnome-build/po/be.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 72 | 176 | 40.9 | /mnt/stockage/packages/f8/gnome-build/po/el.po | 
- | [lv]({{< ref "/f8/language/lv.md" >}}) | 72 | 176 | 40.9 | /mnt/stockage/packages/f8/gnome-build/po/lv.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 52 | 203 | 25.6 | /mnt/stockage/packages/f8/gnome-build/po/sq.po | 
- | [am]({{< ref "/f8/language/am.md" >}}) | 18 | 176 | 10.2 | /mnt/stockage/packages/f8/gnome-build/po/am.po | 
- | [rw]({{< ref "/f8/language/rw.md" >}}) | 12 | 203 | 5.9 | /mnt/stockage/packages/f8/gnome-build/po/rw.po | 
+ | [az](/f8/language/az) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/az.po | 
+ | [ca](/f8/language/ca) | 193 | 193 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/ca.po | 
+ | [cs](/f8/language/cs) | 246 | 246 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/cs.po | 
+ | [de](/f8/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/de.po | 
+ | [en_CA](/f8/language/en_CA) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/en_CA.po | 
+ | [en_GB](/f8/language/en_GB) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/en_GB.po | 
+ | [error](/f8/language/error) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sr@Latn.po | 
+ | [es](/f8/language/es) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/es.po | 
+ | [fi](/f8/language/fi) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/fi.po | 
+ | [fr](/f8/language/fr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/fr.po | 
+ | [gl](/f8/language/gl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/gl.po | 
+ | [hr](/f8/language/hr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/hr.po | 
+ | [hu](/f8/language/hu) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/hu.po | 
+ | [ja](/f8/language/ja) | 211 | 211 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/ja.po | 
+ | [mk](/f8/language/mk) | 176 | 176 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/mk.po | 
+ | [nb_NO](/f8/language/nb_NO) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/nb.po | 
+ | [ne](/f8/language/ne) | 288 | 288 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/ne.po | 
+ | [nl](/f8/language/nl) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/nl.po | 
+ | [pa](/f8/language/pa) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pa.po | 
+ | [pl](/f8/language/pl) | 176 | 176 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pl.po | 
+ | [pt](/f8/language/pt) | 194 | 194 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/pt_BR.po | 
+ | [sk](/f8/language/sk) | 231 | 231 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sk.po | 
+ | [sr](/f8/language/sr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sr.po | 
+ | [sv](/f8/language/sv) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/sv.po | 
+ | [uk](/f8/language/uk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/uk.po | 
+ | [vi](/f8/language/vi) | 274 | 274 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/vi.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 176 | 176 | 100.0 | /mnt/stockage/packages/f8/gnome-build/po/zh_CN.po | 
+ | [ms](/f8/language/ms) | 191 | 193 | 99.0 | /mnt/stockage/packages/f8/gnome-build/po/ms.po | 
+ | [ml](/f8/language/ml) | 159 | 176 | 90.3 | /mnt/stockage/packages/f8/gnome-build/po/ml.po | 
+ | [ru](/f8/language/ru) | 130 | 176 | 73.9 | /mnt/stockage/packages/f8/gnome-build/po/ru.po | 
+ | [it](/f8/language/it) | 103 | 176 | 58.5 | /mnt/stockage/packages/f8/gnome-build/po/it.po | 
+ | [be](/f8/language/be) | 72 | 176 | 40.9 | /mnt/stockage/packages/f8/gnome-build/po/be.po | 
+ | [el](/f8/language/el) | 72 | 176 | 40.9 | /mnt/stockage/packages/f8/gnome-build/po/el.po | 
+ | [lv](/f8/language/lv) | 72 | 176 | 40.9 | /mnt/stockage/packages/f8/gnome-build/po/lv.po | 
+ | [sq](/f8/language/sq) | 52 | 203 | 25.6 | /mnt/stockage/packages/f8/gnome-build/po/sq.po | 
+ | [am](/f8/language/am) | 18 | 176 | 10.2 | /mnt/stockage/packages/f8/gnome-build/po/am.po | 
+ | [rw](/f8/language/rw) | 12 | 203 | 5.9 | /mnt/stockage/packages/f8/gnome-build/po/rw.po | 
 {.sortable}
 
 

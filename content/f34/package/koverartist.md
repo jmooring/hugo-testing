@@ -18,15 +18,15 @@ The package koverartist (version 0.7.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 763 | 763 | 100.0 | /mnt/stockage/packages/f34/koverartist/po/koverartist_cs.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f34/koverartist/po/koverartist_nl.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 582 | 763 | 76.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_de.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 582 | 763 | 76.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_fr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 573 | 763 | 75.1 | /mnt/stockage/packages/f34/koverartist/po/koverartist_it.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 552 | 763 | 72.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_ru.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 519 | 763 | 68.0 | /mnt/stockage/packages/f34/koverartist/po/koverartist_pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 441 | 763 | 57.8 | /mnt/stockage/packages/f34/koverartist/po/koverartist_pt.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 300 | 763 | 39.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_es.po | 
+ | [cs](/f34/language/cs) | 763 | 763 | 100.0 | /mnt/stockage/packages/f34/koverartist/po/koverartist_cs.po | 
+ | [nl](/f34/language/nl) | 659 | 659 | 100.0 | /mnt/stockage/packages/f34/koverartist/po/koverartist_nl.po | 
+ | [de](/f34/language/de) | 582 | 763 | 76.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_de.po | 
+ | [fr](/f34/language/fr) | 582 | 763 | 76.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_fr.po | 
+ | [it](/f34/language/it) | 573 | 763 | 75.1 | /mnt/stockage/packages/f34/koverartist/po/koverartist_it.po | 
+ | [ru](/f34/language/ru) | 552 | 763 | 72.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_ru.po | 
+ | [pl](/f34/language/pl) | 519 | 763 | 68.0 | /mnt/stockage/packages/f34/koverartist/po/koverartist_pl.po | 
+ | [pt](/f34/language/pt) | 441 | 763 | 57.8 | /mnt/stockage/packages/f34/koverartist/po/koverartist_pt.po | 
+ | [es](/f34/language/es) | 300 | 763 | 39.3 | /mnt/stockage/packages/f34/koverartist/po/koverartist_es.po | 
 {.sortable}
 
 

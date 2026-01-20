@@ -18,17 +18,17 @@ The package goaccess (version 1.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1021 | 1269 | 80.5 | /mnt/stockage/packages/f42/goaccess/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 991 | 1269 | 78.1 | /mnt/stockage/packages/f42/goaccess/po/ko.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 989 | 1269 | 77.9 | /mnt/stockage/packages/f42/goaccess/po/sv.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 986 | 1269 | 77.7 | /mnt/stockage/packages/f42/goaccess/po/de.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 985 | 1269 | 77.6 | /mnt/stockage/packages/f42/goaccess/po/it.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 982 | 1269 | 77.4 | /mnt/stockage/packages/f42/goaccess/po/zh_CN.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 979 | 1269 | 77.1 | /mnt/stockage/packages/f42/goaccess/po/ru.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 979 | 1269 | 77.1 | /mnt/stockage/packages/f42/goaccess/po/uk.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 944 | 1269 | 74.4 | /mnt/stockage/packages/f42/goaccess/po/fr.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 928 | 1269 | 73.1 | /mnt/stockage/packages/f42/goaccess/po/pt_BR.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 922 | 1269 | 72.7 | /mnt/stockage/packages/f42/goaccess/po/es.po | 
+ | [ja](/f42/language/ja) | 1021 | 1269 | 80.5 | /mnt/stockage/packages/f42/goaccess/po/ja.po | 
+ | [ko](/f42/language/ko) | 991 | 1269 | 78.1 | /mnt/stockage/packages/f42/goaccess/po/ko.po | 
+ | [sv](/f42/language/sv) | 989 | 1269 | 77.9 | /mnt/stockage/packages/f42/goaccess/po/sv.po | 
+ | [de](/f42/language/de) | 986 | 1269 | 77.7 | /mnt/stockage/packages/f42/goaccess/po/de.po | 
+ | [it](/f42/language/it) | 985 | 1269 | 77.6 | /mnt/stockage/packages/f42/goaccess/po/it.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 982 | 1269 | 77.4 | /mnt/stockage/packages/f42/goaccess/po/zh_CN.po | 
+ | [ru](/f42/language/ru) | 979 | 1269 | 77.1 | /mnt/stockage/packages/f42/goaccess/po/ru.po | 
+ | [uk](/f42/language/uk) | 979 | 1269 | 77.1 | /mnt/stockage/packages/f42/goaccess/po/uk.po | 
+ | [fr](/f42/language/fr) | 944 | 1269 | 74.4 | /mnt/stockage/packages/f42/goaccess/po/fr.po | 
+ | [pt_BR](/f42/language/pt_BR) | 928 | 1269 | 73.1 | /mnt/stockage/packages/f42/goaccess/po/pt_BR.po | 
+ | [es](/f42/language/es) | 922 | 1269 | 72.7 | /mnt/stockage/packages/f42/goaccess/po/es.po | 
 {.sortable}
 
 

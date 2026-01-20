@@ -18,10 +18,10 @@ The package eiciel (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 137 | 137 | 100.0 | /mnt/stockage/packages/f14/eiciel/po/de.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 132 | 137 | 96.4 | /mnt/stockage/packages/f14/eiciel/po/ca.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 132 | 137 | 96.4 | /mnt/stockage/packages/f14/eiciel/po/es.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 116 | 137 | 84.7 | /mnt/stockage/packages/f14/eiciel/po/sv.po | 
+ | [de](/f14/language/de) | 137 | 137 | 100.0 | /mnt/stockage/packages/f14/eiciel/po/de.po | 
+ | [ca](/f14/language/ca) | 132 | 137 | 96.4 | /mnt/stockage/packages/f14/eiciel/po/ca.po | 
+ | [es](/f14/language/es) | 132 | 137 | 96.4 | /mnt/stockage/packages/f14/eiciel/po/es.po | 
+ | [sv](/f14/language/sv) | 116 | 137 | 84.7 | /mnt/stockage/packages/f14/eiciel/po/sv.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package ganyremote (version 6.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/bg.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/de_DE.po | 
- | [de_AT]({{< ref "/f23/language/de_AT.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/de_AT.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/el_GR.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/es_ES.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/fr_FR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/ru_RU.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 499 | 500 | 99.8 | /mnt/stockage/packages/f23/ganyremote/po/sk_SK.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 490 | 500 | 98.0 | /mnt/stockage/packages/f23/ganyremote/po/hu_HU.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 490 | 500 | 98.0 | /mnt/stockage/packages/f23/ganyremote/po/it_IT.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 490 | 500 | 98.0 | /mnt/stockage/packages/f23/ganyremote/po/pl_PL.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 485 | 500 | 97.0 | /mnt/stockage/packages/f23/ganyremote/po/sv_SE.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 465 | 500 | 93.0 | /mnt/stockage/packages/f23/ganyremote/po/fi_FI.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 456 | 500 | 91.2 | /mnt/stockage/packages/f23/ganyremote/po/cs_CZ.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 443 | 500 | 88.6 | /mnt/stockage/packages/f23/ganyremote/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 394 | 500 | 78.8 | /mnt/stockage/packages/f23/ganyremote/po/pt_BR.po | 
+ | [bg](/f23/language/bg) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/bg.po | 
+ | [de](/f23/language/de) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/de_DE.po | 
+ | [de_AT](/f23/language/de_AT) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/de_AT.po | 
+ | [el](/f23/language/el) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/el_GR.po | 
+ | [es](/f23/language/es) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/es_ES.po | 
+ | [fr](/f23/language/fr) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/fr_FR.po | 
+ | [ru](/f23/language/ru) | 500 | 500 | 100.0 | /mnt/stockage/packages/f23/ganyremote/po/ru_RU.po | 
+ | [sk](/f23/language/sk) | 499 | 500 | 99.8 | /mnt/stockage/packages/f23/ganyremote/po/sk_SK.po | 
+ | [hu](/f23/language/hu) | 490 | 500 | 98.0 | /mnt/stockage/packages/f23/ganyremote/po/hu_HU.po | 
+ | [it](/f23/language/it) | 490 | 500 | 98.0 | /mnt/stockage/packages/f23/ganyremote/po/it_IT.po | 
+ | [pl](/f23/language/pl) | 490 | 500 | 98.0 | /mnt/stockage/packages/f23/ganyremote/po/pl_PL.po | 
+ | [sv](/f23/language/sv) | 485 | 500 | 97.0 | /mnt/stockage/packages/f23/ganyremote/po/sv_SE.po | 
+ | [fi](/f23/language/fi) | 465 | 500 | 93.0 | /mnt/stockage/packages/f23/ganyremote/po/fi_FI.po | 
+ | [cs](/f23/language/cs) | 456 | 500 | 91.2 | /mnt/stockage/packages/f23/ganyremote/po/cs_CZ.po | 
+ | [nl](/f23/language/nl) | 443 | 500 | 88.6 | /mnt/stockage/packages/f23/ganyremote/po/nl_NL.po | 
+ | [pt_BR](/f23/language/pt_BR) | 394 | 500 | 78.8 | /mnt/stockage/packages/f23/ganyremote/po/pt_BR.po | 
 {.sortable}
 
 

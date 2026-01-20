@@ -18,15 +18,15 @@ The package neon (version 0.32.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 662 | 749 | 88.4 | /mnt/stockage/packages/f35/neon/po/pl.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 476 | 749 | 63.6 | /mnt/stockage/packages/f35/neon/po/zh_CN.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/de.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/nn.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/tr.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 32 | 749 | 4.3 | /mnt/stockage/packages/f35/neon/po/ja.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 0 | 749 | 0.0 | /mnt/stockage/packages/f35/neon/po/fr.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 0 | 749 | 0.0 | /mnt/stockage/packages/f35/neon/po/ru.po | 
+ | [pl](/f35/language/pl) | 662 | 749 | 88.4 | /mnt/stockage/packages/f35/neon/po/pl.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 476 | 749 | 63.6 | /mnt/stockage/packages/f35/neon/po/zh_CN.po | 
+ | [cs](/f35/language/cs) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/cs.po | 
+ | [de](/f35/language/de) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/de.po | 
+ | [nn](/f35/language/nn) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/nn.po | 
+ | [tr](/f35/language/tr) | 76 | 749 | 10.1 | /mnt/stockage/packages/f35/neon/po/tr.po | 
+ | [ja](/f35/language/ja) | 32 | 749 | 4.3 | /mnt/stockage/packages/f35/neon/po/ja.po | 
+ | [fr](/f35/language/fr) | 0 | 749 | 0.0 | /mnt/stockage/packages/f35/neon/po/fr.po | 
+ | [ru](/f35/language/ru) | 0 | 749 | 0.0 | /mnt/stockage/packages/f35/neon/po/ru.po | 
 {.sortable}
 
 

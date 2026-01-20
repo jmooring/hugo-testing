@@ -18,25 +18,25 @@ The package soundkonverter (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/de.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/et.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/it.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/ru.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/sv.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 4003 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/fr.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 4003 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/nl.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 4003 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/zh_CN.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 4002 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/sl.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 3940 | 4062 | 97.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/hu.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 3604 | 4062 | 88.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/ca.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 3604 | 4062 | 88.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/pt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 2832 | 4062 | 69.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/es.po | 
- | [es_AR]({{< ref "/f42/language/es_AR.md" >}}) | 2546 | 4062 | 62.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/es_AR.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 2278 | 4062 | 56.1 | /mnt/stockage/packages/f42/soundkonverter/src/po/zh_TW.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 2149 | 4062 | 52.9 | /mnt/stockage/packages/f42/soundkonverter/src/po/ro.po | 
+ | [cs](/f42/language/cs) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/cs.po | 
+ | [de](/f42/language/de) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/de.po | 
+ | [et](/f42/language/et) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/et.po | 
+ | [it](/f42/language/it) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/it.po | 
+ | [pl](/f42/language/pl) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/ru.po | 
+ | [sv](/f42/language/sv) | 4062 | 4062 | 100.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/sv.po | 
+ | [fr](/f42/language/fr) | 4003 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/fr.po | 
+ | [nl](/f42/language/nl) | 4003 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/nl.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 4003 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/zh_CN.po | 
+ | [sl](/f42/language/sl) | 4002 | 4062 | 98.5 | /mnt/stockage/packages/f42/soundkonverter/src/po/sl.po | 
+ | [hu](/f42/language/hu) | 3940 | 4062 | 97.0 | /mnt/stockage/packages/f42/soundkonverter/src/po/hu.po | 
+ | [ca](/f42/language/ca) | 3604 | 4062 | 88.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/ca.po | 
+ | [pt](/f42/language/pt) | 3604 | 4062 | 88.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/pt.po | 
+ | [es](/f42/language/es) | 2832 | 4062 | 69.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/es.po | 
+ | [es_AR](/f42/language/es_AR) | 2546 | 4062 | 62.7 | /mnt/stockage/packages/f42/soundkonverter/src/po/es_AR.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 2278 | 4062 | 56.1 | /mnt/stockage/packages/f42/soundkonverter/src/po/zh_TW.po | 
+ | [ro](/f42/language/ro) | 2149 | 4062 | 52.9 | /mnt/stockage/packages/f42/soundkonverter/src/po/ro.po | 
 {.sortable}
 
 

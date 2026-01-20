@@ -18,51 +18,51 @@ The package gtkspell (version 2.0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f32/language/af.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/af.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/be.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/el.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/fr.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ga.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/gl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/hu.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/hy.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ja.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ky.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/lt.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/lv.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/mn.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/pt_BR.po | 
- | [rm]({{< ref "/f32/language/rm.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/rm.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ro.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ru.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sk.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sl.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sv.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/th.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/vi.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/wa.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/zh_HK.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 3 | 11 | 27.3 | /mnt/stockage/packages/f32/gtkspell/po/rw.po | 
+ | [af](/f32/language/af) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/af.po | 
+ | [be](/f32/language/be) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/be.po | 
+ | [cs](/f32/language/cs) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/cs.po | 
+ | [da](/f32/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/da.po | 
+ | [de](/f32/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/de.po | 
+ | [el](/f32/language/el) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/el.po | 
+ | [eo](/f32/language/eo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/eo.po | 
+ | [es](/f32/language/es) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/es.po | 
+ | [eu](/f32/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/eu.po | 
+ | [fi](/f32/language/fi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/fi.po | 
+ | [fr](/f32/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/fr.po | 
+ | [ga](/f32/language/ga) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ga.po | 
+ | [gl](/f32/language/gl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/gl.po | 
+ | [hu](/f32/language/hu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/hu.po | 
+ | [hy](/f32/language/hy) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/hy.po | 
+ | [id](/f32/language/id) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/id.po | 
+ | [it](/f32/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/it.po | 
+ | [ja](/f32/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ja.po | 
+ | [ky](/f32/language/ky) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ky.po | 
+ | [lt](/f32/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/lt.po | 
+ | [lv](/f32/language/lv) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/lv.po | 
+ | [mn](/f32/language/mn) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/mn.po | 
+ | [ms](/f32/language/ms) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/nb.po | 
+ | [nl](/f32/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/nl.po | 
+ | [pl](/f32/language/pl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/pl.po | 
+ | [pt](/f32/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/pt_BR.po | 
+ | [rm](/f32/language/rm) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/rm.po | 
+ | [ro](/f32/language/ro) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ro.po | 
+ | [ru](/f32/language/ru) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/ru.po | 
+ | [sk](/f32/language/sk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sk.po | 
+ | [sl](/f32/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sl.po | 
+ | [sq](/f32/language/sq) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sq.po | 
+ | [sr](/f32/language/sr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sr.po | 
+ | [sv](/f32/language/sv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/sv.po | 
+ | [th](/f32/language/th) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/th.po | 
+ | [tr](/f32/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/tr.po | 
+ | [uk](/f32/language/uk) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/uk.po | 
+ | [vi](/f32/language/vi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/vi.po | 
+ | [wa](/f32/language/wa) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/wa.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 15 | 15 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/zh_TW.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 11 | 11 | 100.0 | /mnt/stockage/packages/f32/gtkspell/po/zh_HK.po | 
+ | [rw](/f32/language/rw) | 3 | 11 | 27.3 | /mnt/stockage/packages/f32/gtkspell/po/rw.po | 
 {.sortable}
 
 

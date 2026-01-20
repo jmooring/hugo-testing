@@ -38,401 +38,401 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f41/package/GConf2.md" >}}) | 4024 | 4024 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [NetworkManager-vpnc]({{< ref "/f41/package/NetworkManager-vpnc.md" >}}) | 139 | 139 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [PackageKit]({{< ref "/f41/package/PackageKit.md" >}}) | 863 | 863 | 100.0 | Bengali (India) (http://app.transifex.com/freedesktop/packagekit/language/bn_IN/) | 
- | [abattis-cantarell-fonts]({{< ref "/f41/package/abattis-cantarell-fonts.md" >}}) | 27 | 27 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [accerciser]({{< ref "/f41/package/accerciser.md" >}}) | 363 | 363 | 100.0 | Bengali INDIA | 
- | [alacarte]({{< ref "/f41/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bengali India | 
- | [at-spi2-core]({{< ref "/f41/package/at-spi2-core.md" >}}) | 520 | 520 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [baobab]({{< ref "/f41/package/baobab.md" >}}) | 210 | 210 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [brasero]({{< ref "/f41/package/brasero.md" >}}) | 5546 | 5546 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [budgie-screensaver]({{< ref "/f41/package/budgie-screensaver.md" >}}) | 270 | 270 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [budgie-session]({{< ref "/f41/package/budgie-session.md" >}}) | 432 | 432 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [caribou]({{< ref "/f41/package/caribou.md" >}}) | 171 | 171 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [cheese]({{< ref "/f41/package/cheese.md" >}}) | 613 | 613 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [cosmic-store]({{< ref "/f41/package/cosmic-store.md" >}}) | 863 | 863 | 100.0 | Bengali (India) (http://app.transifex.com/freedesktop/packagekit/language/bn_IN/) | 
- | [cracklib]({{< ref "/f41/package/cracklib.md" >}}) | 90 | 90 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [dasher]({{< ref "/f41/package/dasher.md" >}}) | 615 | 615 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [devhelp]({{< ref "/f41/package/devhelp.md" >}}) | 360 | 360 | 100.0 | Bengali (India) <discuss@ankur.co.in> | 
- | [eog]({{< ref "/f41/package/eog.md" >}}) | 1566 | 1566 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [epiphany]({{< ref "/f41/package/epiphany.md" >}}) | 2291 | 2291 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [evince]({{< ref "/f41/package/evince.md" >}}) | 1525 | 1525 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [evolution]({{< ref "/f41/package/evolution.md" >}}) | 21066 | 21066 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [evolution-data-server]({{< ref "/f41/package/evolution-data-server.md" >}}) | 5398 | 5398 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [evolution-ews]({{< ref "/f41/package/evolution-ews.md" >}}) | 1165 | 1165 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [evolution-mapi]({{< ref "/f41/package/evolution-mapi.md" >}}) | 1036 | 1036 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [file-roller]({{< ref "/f41/package/file-roller.md" >}}) | 1195 | 1195 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [freeipa]({{< ref "/f41/package/freeipa.md" >}}) | 34 | 34 | 100.0 | Bengali (India) | 
- | [gconf-editor]({{< ref "/f41/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gdm]({{< ref "/f41/package/gdm.md" >}}) | 629 | 629 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gedit]({{< ref "/f41/package/gedit.md" >}}) | 3924 | 3924 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [gftp]({{< ref "/f41/package/gftp.md" >}}) | 3334 | 3334 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [glib-networking]({{< ref "/f41/package/glib-networking.md" >}}) | 86 | 86 | 100.0 | Bengali (India) <bn_IN@li.org> | 
- | [glib2]({{< ref "/f41/package/glib2.md" >}}) | 5750 | 5750 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-applets]({{< ref "/f41/package/gnome-applets.md" >}}) | 3367 | 3367 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gnome-bluetooth]({{< ref "/f41/package/gnome-bluetooth.md" >}}) | 303 | 303 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-bluetooth3.34]({{< ref "/f41/package/gnome-bluetooth3.34.md" >}}) | 303 | 303 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-boxes]({{< ref "/f41/package/gnome-boxes.md" >}}) | 753 | 753 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-calculator]({{< ref "/f41/package/gnome-calculator.md" >}}) | 1337 | 1337 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-clocks]({{< ref "/f41/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-color-manager]({{< ref "/f41/package/gnome-color-manager.md" >}}) | 1792 | 1792 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-contacts]({{< ref "/f41/package/gnome-contacts.md" >}}) | 405 | 405 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-control-center]({{< ref "/f41/package/gnome-control-center.md" >}}) | 7324 | 7324 | 100.0 | Bengali India <anubad@lists.ankur.org.in> | 
- | [gnome-desktop3]({{< ref "/f41/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-dictionary]({{< ref "/f41/package/gnome-dictionary.md" >}}) | 841 | 841 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-disk-utility]({{< ref "/f41/package/gnome-disk-utility.md" >}}) | 3423 | 3423 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [gnome-doc-utils]({{< ref "/f41/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-extensions-app]({{< ref "/f41/package/gnome-extensions-app.md" >}}) | 2667 | 2667 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [gnome-font-viewer]({{< ref "/f41/package/gnome-font-viewer.md" >}}) | 109 | 109 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-icon-theme]({{< ref "/f41/package/gnome-icon-theme.md" >}}) | 51 | 51 | 100.0 | Bengali (India) <en@li.org> | 
- | [gnome-initial-setup]({{< ref "/f41/package/gnome-initial-setup.md" >}}) | 364 | 364 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-keyring]({{< ref "/f41/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-menus]({{< ref "/f41/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-nettool]({{< ref "/f41/package/gnome-nettool.md" >}}) | 644 | 644 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-online-accounts]({{< ref "/f41/package/gnome-online-accounts.md" >}}) | 634 | 634 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-packagekit]({{< ref "/f41/package/gnome-packagekit.md" >}}) | 4390 | 4390 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-panel]({{< ref "/f41/package/gnome-panel.md" >}}) | 3520 | 3520 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-power-manager]({{< ref "/f41/package/gnome-power-manager.md" >}}) | 480 | 480 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-screenshot]({{< ref "/f41/package/gnome-screenshot.md" >}}) | 354 | 354 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-session]({{< ref "/f41/package/gnome-session.md" >}}) | 432 | 432 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [gnome-settings-daemon]({{< ref "/f41/package/gnome-settings-daemon.md" >}}) | 2607 | 2607 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-shell]({{< ref "/f41/package/gnome-shell.md" >}}) | 2667 | 2667 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [gnome-shell-extensions]({{< ref "/f41/package/gnome-shell-extensions.md" >}}) | 220 | 220 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-shell-frippery]({{< ref "/f41/package/gnome-shell-frippery.md" >}}) | 17 | 17 | 100.0 |  | 
- | [gnome-system-log]({{< ref "/f41/package/gnome-system-log.md" >}}) | 419 | 419 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-system-monitor]({{< ref "/f41/package/gnome-system-monitor.md" >}}) | 1289 | 1289 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gnome-terminal]({{< ref "/f41/package/gnome-terminal.md" >}}) | 2499 | 2499 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [gnome-themes-extra]({{< ref "/f41/package/gnome-themes-extra.md" >}}) | 12 | 12 | 100.0 | Bengali (India) <bn_IN@li.org> | 
- | [gnome-user-share]({{< ref "/f41/package/gnome-user-share.md" >}}) | 316 | 316 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-vfs2]({{< ref "/f41/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gnome-weather]({{< ref "/f41/package/gnome-weather.md" >}}) | 195 | 195 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [gnote]({{< ref "/f41/package/gnote.md" >}}) | 2975 | 2975 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gtk2-engines]({{< ref "/f41/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
- | [gtk4]({{< ref "/f41/package/gtk4.md" >}}) | 2772 | 2772 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gtkhtml3]({{< ref "/f41/package/gtkhtml3.md" >}}) | 1261 | 1261 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
- | [gtksourceview2]({{< ref "/f41/package/gtksourceview2.md" >}}) | 1120 | 1120 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gtksourceview4]({{< ref "/f41/package/gtksourceview4.md" >}}) | 1124 | 1124 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gtksourceview5]({{< ref "/f41/package/gtksourceview5.md" >}}) | 1124 | 1124 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gucharmap]({{< ref "/f41/package/gucharmap.md" >}}) | 1205 | 1205 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [gvfs]({{< ref "/f41/package/gvfs.md" >}}) | 2704 | 2704 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [isomaster]({{< ref "/f41/package/isomaster.md" >}}) | 674 | 674 | 100.0 | Rajib Lochan Dhibar <rajib.lochan.dhibar@gmail.com> | 
- | [kf5-kpty]({{< ref "/f41/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-knotifyconfig]({{< ref "/f41/package/kf6-knotifyconfig.md" >}}) | 19 | 19 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kpty]({{< ref "/f41/package/kf6-kpty.md" >}}) | 15 | 15 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libbonobo]({{< ref "/f41/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Bengali India | 
- | [libbonoboui]({{< ref "/f41/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [libbytesize]({{< ref "/f41/package/libbytesize.md" >}}) | 17 | 17 | 100.0 | Bengali (India) <https://translate.fedoraproject.org/projects/blivet/libbytesize/bn_IN/> | 
- | [libcryptui]({{< ref "/f41/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [libgdata]({{< ref "/f41/package/libgdata.md" >}}) | 552 | 552 | 100.0 | Bengali (India) <bn_IN@li.org> | 
- | [libgnome]({{< ref "/f41/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
- | [libgnomecanvas]({{< ref "/f41/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libgnomekbd]({{< ref "/f41/package/libgnomekbd.md" >}}) | 187 | 187 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [libgnomeui]({{< ref "/f41/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Bengali INDIA <discuss@ankur.co.in> | 
- | [libgtop2]({{< ref "/f41/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Bengali INDIA | 
- | [libgweather]({{< ref "/f41/package/libgweather.md" >}}) | 6107 | 6107 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [libpeas]({{< ref "/f41/package/libpeas.md" >}}) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [libpeas1]({{< ref "/f41/package/libpeas1.md" >}}) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [libsoup]({{< ref "/f41/package/libsoup.md" >}}) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [libsoup3]({{< ref "/f41/package/libsoup3.md" >}}) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [libwnck]({{< ref "/f41/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
- | [lxmenu-data]({{< ref "/f41/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Bengali (India) <en@li.org> | 
- | [lxshortcut]({{< ref "/f41/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [magpie]({{< ref "/f41/package/magpie.md" >}}) | 829 | 829 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mate-icon-theme]({{< ref "/f41/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [metacity]({{< ref "/f41/package/metacity.md" >}}) | 3821 | 3821 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mingw-GConf2]({{< ref "/f41/package/mingw-GConf2.md" >}}) | 4024 | 4024 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mingw-atk]({{< ref "/f41/package/mingw-atk.md" >}}) | 398 | 398 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mingw-glib-networking]({{< ref "/f41/package/mingw-glib-networking.md" >}}) | 86 | 86 | 100.0 | Bengali (India) <bn_IN@li.org> | 
- | [mingw-glib2]({{< ref "/f41/package/mingw-glib2.md" >}}) | 5750 | 5750 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [mingw-gtk4]({{< ref "/f41/package/mingw-gtk4.md" >}}) | 2772 | 2772 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mingw-libsoup]({{< ref "/f41/package/mingw-libsoup.md" >}}) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [mousetweaks]({{< ref "/f41/package/mousetweaks.md" >}}) | 715 | 715 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
- | [muffin]({{< ref "/f41/package/muffin.md" >}}) | 1829 | 1829 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [multimedia-menus]({{< ref "/f41/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mutter]({{< ref "/f41/package/mutter.md" >}}) | 829 | 829 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [nautilus]({{< ref "/f41/package/nautilus.md" >}}) | 5476 | 5476 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
- | [newt]({{< ref "/f41/package/newt.md" >}}) | 4 | 4 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [papers]({{< ref "/f41/package/papers.md" >}}) | 1525 | 1525 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [redhat-menus]({{< ref "/f41/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Bengali <en@li.org> | 
- | [rygel]({{< ref "/f41/package/rygel.md" >}}) | 556 | 556 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [seahorse]({{< ref "/f41/package/seahorse.md" >}}) | 3012 | 3012 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [setuptool]({{< ref "/f41/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sound-juicer]({{< ref "/f41/package/sound-juicer.md" >}}) | 1003 | 1003 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sushi]({{< ref "/f41/package/sushi.md" >}}) | 24 | 24 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [system-config-rootpassword]({{< ref "/f41/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Bengali INDIA | 
- | [system-switch-java]({{< ref "/f41/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [totem]({{< ref "/f41/package/totem.md" >}}) | 1446 | 1446 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [totem-pl-parser]({{< ref "/f41/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [usermode]({{< ref "/f41/package/usermode.md" >}}) | 573 | 573 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [vinagre]({{< ref "/f41/package/vinagre.md" >}}) | 1507 | 1507 | 100.0 | American English <kde-i18n-doc@kde.org> | 
- | [vte]({{< ref "/f41/package/vte.md" >}}) | 84 | 84 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [vte291]({{< ref "/f41/package/vte291.md" >}}) | 84 | 84 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [wireplumber]({{< ref "/f41/package/wireplumber.md" >}}) | 3 | 3 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [xdg-user-dirs]({{< ref "/f41/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Bengali (India) <discuss@lists.ankur.org.in> | 
- | [xdg-user-dirs-gtk]({{< ref "/f41/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [yelp]({{< ref "/f41/package/yelp.md" >}}) | 452 | 452 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [yelp-xsl]({{< ref "/f41/package/yelp-xsl.md" >}}) | 249 | 249 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [zenity]({{< ref "/f41/package/zenity.md" >}}) | 674 | 674 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gtk2]({{< ref "/f41/package/gtk2.md" >}}) | 13677 | 13704 | 99.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mingw-gtk2]({{< ref "/f41/package/mingw-gtk2.md" >}}) | 13677 | 13704 | 99.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [iso-codes]({{< ref "/f41/package/iso-codes.md" >}}) | 1085 | 1093 | 99.3 | Bengali (India) <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bn_IN/> | 
- | [cinnamon-desktop]({{< ref "/f41/package/cinnamon-desktop.md" >}}) | 231 | 234 | 98.7 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [libwnck3]({{< ref "/f41/package/libwnck3.md" >}}) | 1068 | 1086 | 98.3 | American English <kde-i18n-doc@kde.org> | 
- | [seahorse-caja]({{< ref "/f41/package/seahorse-caja.md" >}}) | 411 | 421 | 97.6 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [seahorse-nautilus]({{< ref "/f41/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [eog-plugins]({{< ref "/f41/package/eog-plugins.md" >}}) | 78 | 80 | 97.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libmateweather]({{< ref "/f41/package/libmateweather.md" >}}) | 5947 | 6143 | 96.8 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [libpwquality]({{< ref "/f41/package/libpwquality.md" >}}) | 333 | 345 | 96.5 | Bengali (India) (http://www.transifex.com/projects/p/libpwquality/language/bn_IN/) | 
- | [gtk3]({{< ref "/f41/package/gtk3.md" >}}) | 11729 | 12193 | 96.2 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mingw-gtk3]({{< ref "/f41/package/mingw-gtk3.md" >}}) | 11729 | 12193 | 96.2 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [paprefs]({{< ref "/f41/package/paprefs.md" >}}) | 131 | 137 | 95.6 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gdk-pixbuf2]({{< ref "/f41/package/gdk-pixbuf2.md" >}}) | 1288 | 1348 | 95.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gdk-pixbuf2-modules-extra]({{< ref "/f41/package/gdk-pixbuf2-modules-extra.md" >}}) | 1288 | 1348 | 95.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mingw-gdk-pixbuf]({{< ref "/f41/package/mingw-gdk-pixbuf.md" >}}) | 1288 | 1348 | 95.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mate-menus]({{< ref "/f41/package/mate-menus.md" >}}) | 98 | 103 | 95.1 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [emerald]({{< ref "/f41/package/emerald.md" >}}) | 652 | 696 | 93.7 | Indian Bangla <bn_IN@li.org> | 
- | [mozo]({{< ref "/f41/package/mozo.md" >}}) | 43 | 46 | 93.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [volume_key]({{< ref "/f41/package/volume_key.md" >}}) | 707 | 763 | 92.7 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [python-blivet]({{< ref "/f41/package/python-blivet.md" >}}) | 558 | 605 | 92.2 | Bengali (India) <https://translate.fedoraproject.org/projects/blivet/blivet-master/bn_IN/> | 
- | [pidgin]({{< ref "/f41/package/pidgin.md" >}}) | 12556 | 13994 | 89.7 | Bengali (India) (http://app.transifex.com/pidgin/pidgin/language/bn_IN/) | 
- | [imsettings]({{< ref "/f41/package/imsettings.md" >}}) | 440 | 500 | 88.0 | Bengali (India) (http://www.transifex.net/projects/p/imsettings/team/bn_IN/) | 
- | [asunder]({{< ref "/f41/package/asunder.md" >}}) | 431 | 493 | 87.4 | Rajib Lochan Dhibar <rajib.lochan.dhibar@gmail.com> | 
- | [im-chooser]({{< ref "/f41/package/im-chooser.md" >}}) | 229 | 262 | 87.4 | Bengali (India) (http://www.transifex.net/projects/p/im-chooser/team/bn_IN/) | 
- | [kf5-kjsembed]({{< ref "/f41/package/kf5-kjsembed.md" >}}) | 214 | 248 | 86.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [lxlauncher]({{< ref "/f41/package/lxlauncher.md" >}}) | 50 | 58 | 86.2 | LANGUAGE <LL@li.org> | 
- | [system-config-printer]({{< ref "/f41/package/system-config-printer.md" >}}) | 3021 | 3514 | 86.0 | Bengali (India) (http://www.transifex.com/projects/p/system-config-printer/language/bn_IN/) | 
- | [budgie-control-center]({{< ref "/f41/package/budgie-control-center.md" >}}) | 6733 | 7914 | 85.1 | Bengali (India) (https://app.transifex.com/buddiesofbudgie/teams/129844/bn_IN/) | 
- | [ccsm]({{< ref "/f41/package/ccsm.md" >}}) | 502 | 591 | 84.9 | gist bengali team <info.gist@cdac.in> | 
- | [lxinput]({{< ref "/f41/package/lxinput.md" >}}) | 70 | 83 | 84.3 | LANGUAGE <LL@li.org> | 
- | [android-tools]({{< ref "/f41/package/android-tools.md" >}}) | 5033 | 6028 | 83.5 | Bengali (India) | 
- | [kf5-kross]({{< ref "/f41/package/kf5-kross.md" >}}) | 82 | 100 | 82.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [setroubleshoot]({{< ref "/f41/package/setroubleshoot.md" >}}) | 522 | 640 | 81.6 | Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/) | 
- | [policycoreutils]({{< ref "/f41/package/policycoreutils.md" >}}) | 4894 | 6117 | 80.0 | Bengali (India) | 
- | [mate-polkit]({{< ref "/f41/package/mate-polkit.md" >}}) | 97 | 123 | 78.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [mate-screensaver]({{< ref "/f41/package/mate-screensaver.md" >}}) | 868 | 1101 | 78.8 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [aisleriot]({{< ref "/f41/package/aisleriot.md" >}}) | 1565 | 1987 | 78.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [xed]({{< ref "/f41/package/xed.md" >}}) | 2952 | 3775 | 78.2 | Bengali (India) (http://www.transifex.com/projects/p/MATE/language/bn_IN/) | 
- | [gedit-plugins]({{< ref "/f41/package/gedit-plugins.md" >}}) | 939 | 1205 | 77.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [chkconfig]({{< ref "/f41/package/chkconfig.md" >}}) | 454 | 597 | 76.0 | Bengali (India) <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bn_IN/> | 
- | [marco]({{< ref "/f41/package/marco.md" >}}) | 3133 | 4171 | 75.1 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [vlc]({{< ref "/f41/package/vlc.md" >}}) | 25382 | 34779 | 73.0 | Bengali (India) (https://app.transifex.com/yaron/teams/16553/bn_IN/) | 
- | [libuser]({{< ref "/f41/package/libuser.md" >}}) | 996 | 1437 | 69.3 | Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/) | 
- | [caja]({{< ref "/f41/package/caja.md" >}}) | 6955 | 10156 | 68.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [kf5-kparts]({{< ref "/f41/package/kf5-kparts.md" >}}) | 93 | 138 | 67.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kinit]({{< ref "/f41/package/kf5-kinit.md" >}}) | 78 | 116 | 67.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [firewalld]({{< ref "/f41/package/firewalld.md" >}}) | 1486 | 2217 | 67.0 | Bengali (India) (http://www.transifex.com/projects/p/firewalld/language/bn_IN/) | 
- | [gnome-robots]({{< ref "/f41/package/gnome-robots.md" >}}) | 384 | 597 | 64.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [keditbookmarks]({{< ref "/f41/package/keditbookmarks.md" >}}) | 301 | 470 | 64.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [pam]({{< ref "/f41/package/pam.md" >}}) | 347 | 544 | 63.8 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [khelpcenter]({{< ref "/f41/package/khelpcenter.md" >}}) | 138 | 221 | 62.4 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [initscripts]({{< ref "/f41/package/initscripts.md" >}}) | 720 | 1162 | 62.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [openbox]({{< ref "/f41/package/openbox.md" >}}) | 313 | 506 | 61.9 | Bengali (India) <en@li.org> | 
- | [kf6-kparts]({{< ref "/f41/package/kf6-kparts.md" >}}) | 35 | 57 | 61.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mate-session-manager]({{< ref "/f41/package/mate-session-manager.md" >}}) | 437 | 717 | 60.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [kf5-kcmutils]({{< ref "/f41/package/kf5-kcmutils.md" >}}) | 161 | 266 | 60.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [pipewire-media-session]({{< ref "/f41/package/pipewire-media-session.md" >}}) | 3 | 5 | 60.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [lxdm]({{< ref "/f41/package/lxdm.md" >}}) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
- | [kf5-ktextwidgets]({{< ref "/f41/package/kf5-ktextwidgets.md" >}}) | 275 | 473 | 58.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [abrt]({{< ref "/f41/package/abrt.md" >}}) | 2108 | 3676 | 57.3 | Bengali (India) (http://www.transifex.com/projects/p/fedora-abrt/language/bn_IN/) | 
- | [kf6-ktextwidgets]({{< ref "/f41/package/kf6-ktextwidgets.md" >}}) | 268 | 473 | 56.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [tali]({{< ref "/f41/package/tali.md" >}}) | 238 | 421 | 56.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libmatekbd]({{< ref "/f41/package/libmatekbd.md" >}}) | 174 | 308 | 56.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [five-or-more]({{< ref "/f41/package/five-or-more.md" >}}) | 159 | 282 | 56.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [rhythmbox]({{< ref "/f41/package/rhythmbox.md" >}}) | 2502 | 4545 | 55.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sugar-distance]({{< ref "/f41/package/sugar-distance.md" >}}) | 54 | 99 | 54.5 | LANGUAGE <LL@li.org> | 
- | [mate-panel]({{< ref "/f41/package/mate-panel.md" >}}) | 3620 | 6753 | 53.6 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [quadrapassel]({{< ref "/f41/package/quadrapassel.md" >}}) | 228 | 428 | 53.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [powertop]({{< ref "/f41/package/powertop.md" >}}) | 371 | 698 | 53.2 | Bengali (India) (http://www.transifex.com/projects/p/PowerTOP/language/bn_IN/) | 
- | [xreader]({{< ref "/f41/package/xreader.md" >}}) | 834 | 1625 | 51.3 | Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/) | 
- | [mate-media]({{< ref "/f41/package/mate-media.md" >}}) | 120 | 244 | 49.2 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [mate-settings-daemon]({{< ref "/f41/package/mate-settings-daemon.md" >}}) | 1078 | 2203 | 48.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [sugar-write]({{< ref "/f41/package/sugar-write.md" >}}) | 59 | 121 | 48.8 | discuss@lists.ankur.org.in | 
- | [virt-manager]({{< ref "/f41/package/virt-manager.md" >}}) | 3577 | 7355 | 48.6 | Bengali (India) (http://www.transifex.com/projects/p/virt-manager/language/bn_IN/) | 
- | [mate-terminal]({{< ref "/f41/package/mate-terminal.md" >}}) | 3982 | 8238 | 48.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [anaconda]({{< ref "/f41/package/anaconda.md" >}}) | 3933 | 8266 | 47.6 | Bengali (India) <https://translate.fedoraproject.org/projects/anaconda/master/bn_IN/> | 
- | [mate-backgrounds]({{< ref "/f41/package/mate-backgrounds.md" >}}) | 26 | 55 | 47.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [compiz]({{< ref "/f41/package/compiz.md" >}}) | 2065 | 4385 | 47.1 | gist bengali team <info.gist@cdac.in> | 
- | [mate-desktop]({{< ref "/f41/package/mate-desktop.md" >}}) | 1115 | 2412 | 46.2 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [sos]({{< ref "/f41/package/sos.md" >}}) | 54 | 123 | 43.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gnome-abrt]({{< ref "/f41/package/gnome-abrt.md" >}}) | 96 | 221 | 43.4 | Bengali (India) (http://www.transifex.com/projects/p/gnome-abrt/language/bn_IN/) | 
- | [kmenuedit]({{< ref "/f41/package/kmenuedit.md" >}}) | 135 | 313 | 43.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [subscription-manager]({{< ref "/f41/package/subscription-manager.md" >}}) | 1482 | 3445 | 43.0 | Bengali (India) | 
- | [kdump-anaconda-addon]({{< ref "/f41/package/kdump-anaconda-addon.md" >}}) | 83 | 194 | 42.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [four-in-a-row]({{< ref "/f41/package/four-in-a-row.md" >}}) | 109 | 256 | 42.6 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gnome-video-effects]({{< ref "/f41/package/gnome-video-effects.md" >}}) | 11 | 26 | 42.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-khtml]({{< ref "/f41/package/kf5-khtml.md" >}}) | 678 | 1667 | 40.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libreoffice]({{< ref "/f41/package/libreoffice.md" >}}) | 306296 | 768388 | 39.9 | LANGUAGE <LL@li.org> | 
- | [kdialog]({{< ref "/f41/package/kdialog.md" >}}) | 157 | 403 | 39.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [kf5-kconfigwidgets]({{< ref "/f41/package/kf5-kconfigwidgets.md" >}}) | 129 | 342 | 37.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [setroubleshoot-plugins]({{< ref "/f41/package/setroubleshoot-plugins.md" >}}) | 2254 | 6248 | 36.1 | Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/) | 
- | [pulseaudio]({{< ref "/f41/package/pulseaudio.md" >}}) | 1358 | 3786 | 35.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kfind]({{< ref "/f41/package/kfind.md" >}}) | 185 | 517 | 35.8 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [sugar-toolkit-gtk3]({{< ref "/f41/package/sugar-toolkit-gtk3.md" >}}) | 76 | 213 | 35.7 | Sugar Labs | 
- | [pluma]({{< ref "/f41/package/pluma.md" >}}) | 4504 | 13113 | 34.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [ibus]({{< ref "/f41/package/ibus.md" >}}) | 902 | 2649 | 34.1 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [kf5-ki18n]({{< ref "/f41/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-ki18n]({{< ref "/f41/package/kf6-ki18n.md" >}}) | 42 | 124 | 33.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [virt-viewer]({{< ref "/f41/package/virt-viewer.md" >}}) | 251 | 746 | 33.6 | Bengali (India) (http://www.transifex.com/projects/p/virt-viewer/language/bn_IN/) | 
- | [kf5-knotifyconfig]({{< ref "/f41/package/kf5-knotifyconfig.md" >}}) | 43 | 129 | 33.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [publican]({{< ref "/f41/package/publican.md" >}}) | 1749 | 5443 | 32.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mate-utils]({{< ref "/f41/package/mate-utils.md" >}}) | 3139 | 9901 | 31.7 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [cinnamon-translations]({{< ref "/f41/package/cinnamon-translations.md" >}}) | 1067 | 3404 | 31.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [plasma-sdk]({{< ref "/f41/package/plasma-sdk.md" >}}) | 116 | 371 | 31.3 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [initial-setup]({{< ref "/f41/package/initial-setup.md" >}}) | 33 | 106 | 31.1 | Bengali (India) (http://www.transifex.com/projects/p/initial-setup/language/bn_IN/) | 
- | [gnome-klotski]({{< ref "/f41/package/gnome-klotski.md" >}}) | 59 | 194 | 30.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [shotwell]({{< ref "/f41/package/shotwell.md" >}}) | 1378 | 4553 | 30.3 | Bengali (India) (http://www.transifex.com/projects/p/shotwell/language/bn_IN/) | 
- | [mate-control-center]({{< ref "/f41/package/mate-control-center.md" >}}) | 2476 | 8260 | 30.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [kf6-kwallet]({{< ref "/f41/package/kf6-kwallet.md" >}}) | 317 | 1060 | 29.9 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [elementary-photos]({{< ref "/f41/package/elementary-photos.md" >}}) | 841 | 2862 | 29.4 | Bengali (India) (http://www.transifex.com/projects/p/shotwell/language/bn_IN/) | 
- | [gtksourceview3]({{< ref "/f41/package/gtksourceview3.md" >}}) | 94 | 322 | 29.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mingw-gtksourceview3]({{< ref "/f41/package/mingw-gtksourceview3.md" >}}) | 94 | 322 | 29.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libgedit-gtksourceview]({{< ref "/f41/package/libgedit-gtksourceview.md" >}}) | 93 | 319 | 29.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kservice]({{< ref "/f41/package/kf5-kservice.md" >}}) | 50 | 173 | 28.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gnome-nibbles]({{< ref "/f41/package/gnome-nibbles.md" >}}) | 129 | 447 | 28.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [system-config-language]({{< ref "/f41/package/system-config-language.md" >}}) | 61 | 215 | 28.4 | American English <kde-i18n-doc@kde.org> | 
- | [sugar-imageviewer]({{< ref "/f41/package/sugar-imageviewer.md" >}}) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
- | [mate-power-manager]({{< ref "/f41/package/mate-power-manager.md" >}}) | 1345 | 5123 | 26.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [kde-cli-tools]({{< ref "/f41/package/kde-cli-tools.md" >}}) | 420 | 1603 | 26.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [blivet-gui]({{< ref "/f41/package/blivet-gui.md" >}}) | 290 | 1111 | 26.1 | Bengali (India) <https://translate.fedoraproject.org/projects/blivet/blivet-gui/bn_IN/> | 
- | [kf5-kwallet]({{< ref "/f41/package/kf5-kwallet.md" >}}) | 348 | 1335 | 26.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [kf6-kconfigwidgets]({{< ref "/f41/package/kf6-kconfigwidgets.md" >}}) | 81 | 312 | 26.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kio-extras]({{< ref "/f41/package/kio-extras.md" >}}) | 239 | 929 | 25.7 | Bengali INDIA <discuss@ankur.org.in> | 
- | [plasma-desktop]({{< ref "/f41/package/plasma-desktop.md" >}}) | 868 | 3376 | 25.7 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [kio-extras-kf5]({{< ref "/f41/package/kio-extras-kf5.md" >}}) | 239 | 931 | 25.7 | Bengali INDIA <discuss@ankur.org.in> | 
- | [libreport]({{< ref "/f41/package/libreport.md" >}}) | 1198 | 4928 | 24.3 | Bengali (India) (http://www.transifex.com/projects/p/libreport/language/bn_IN/) | 
- | [konqueror]({{< ref "/f41/package/konqueror.md" >}}) | 1369 | 5928 | 23.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [libnma]({{< ref "/f41/package/libnma.md" >}}) | 185 | 807 | 22.9 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [kf6-kxmlgui]({{< ref "/f41/package/kf6-kxmlgui.md" >}}) | 294 | 1289 | 22.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kxmlgui]({{< ref "/f41/package/kf5-kxmlgui.md" >}}) | 350 | 1574 | 22.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sugar]({{< ref "/f41/package/sugar.md" >}}) | 507 | 2305 | 22.0 | Bengali <core@bengalinux.org> | 
- | [sugar-chat]({{< ref "/f41/package/sugar-chat.md" >}}) | 30 | 137 | 21.9 | Bengali (India) <discuss@ankur.org.in> | 
- | [orca]({{< ref "/f41/package/orca.md" >}}) | 277 | 1304 | 21.2 | Bangla <gnome-translation@bengalinux.org> | 
- | [pavucontrol]({{< ref "/f41/package/pavucontrol.md" >}}) | 179 | 866 | 20.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [eom]({{< ref "/f41/package/eom.md" >}}) | 1014 | 4958 | 20.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [atril]({{< ref "/f41/package/atril.md" >}}) | 883 | 4364 | 20.2 | Bengali (India) (https://www.transifex.com/mate/teams/13566/bn_IN/) | 
- | [kf5-kdelibs4support]({{< ref "/f41/package/kf5-kdelibs4support.md" >}}) | 1064 | 5353 | 19.9 | Bengali INDIA <discuss@lists.ankur.org.in> | 
- | [mate-menu]({{< ref "/f41/package/mate-menu.md" >}}) | 61 | 308 | 19.8 | Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/) | 
- | [sugar-record]({{< ref "/f41/package/sugar-record.md" >}}) | 12 | 62 | 19.4 | Bengali <core@bengalinux.org> | 
- | [gnome-mahjongg]({{< ref "/f41/package/gnome-mahjongg.md" >}}) | 58 | 304 | 19.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gcr]({{< ref "/f41/package/gcr.md" >}}) | 115 | 622 | 18.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gcr3]({{< ref "/f41/package/gcr3.md" >}}) | 115 | 622 | 18.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [network-manager-applet]({{< ref "/f41/package/network-manager-applet.md" >}}) | 819 | 4439 | 18.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [gnome-mines]({{< ref "/f41/package/gnome-mines.md" >}}) | 62 | 344 | 18.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mate-calc]({{< ref "/f41/package/mate-calc.md" >}}) | 594 | 3327 | 17.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [caja-extensions]({{< ref "/f41/package/caja-extensions.md" >}}) | 144 | 845 | 17.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [pipewire]({{< ref "/f41/package/pipewire.md" >}}) | 104 | 647 | 16.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libvirt]({{< ref "/f41/package/libvirt.md" >}}) | 10705 | 69965 | 15.3 | Bengali (India) <https://translate.fedoraproject.org/projects/libvirt/libvirt/bn_IN/> | 
- | [plasma-workspace]({{< ref "/f41/package/plasma-workspace.md" >}}) | 1155 | 7689 | 15.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [plasma-workspace-x11]({{< ref "/f41/package/plasma-workspace-x11.md" >}}) | 1155 | 7689 | 15.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [NetworkManager]({{< ref "/f41/package/NetworkManager.md" >}}) | 4351 | 29194 | 14.9 | Bengali (India) <kde-i18n-doc@kde.org> | 
- | [engrampa]({{< ref "/f41/package/engrampa.md" >}}) | 1110 | 7899 | 14.1 | Bengali (India) (https://www.transifex.com/mate/teams/13566/bn_IN/) | 
- | [swell-foop]({{< ref "/f41/package/swell-foop.md" >}}) | 37 | 266 | 13.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [pluma-plugins]({{< ref "/f41/package/pluma-plugins.md" >}}) | 188 | 1405 | 13.4 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [switchdesk]({{< ref "/f41/package/switchdesk.md" >}}) | 16 | 122 | 13.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [gtk-doc]({{< ref "/f41/package/gtk-doc.md" >}}) | 948 | 7277 | 13.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [NetworkManager-pptp]({{< ref "/f41/package/NetworkManager-pptp.md" >}}) | 66 | 529 | 12.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sugar-pippy]({{< ref "/f41/package/sugar-pippy.md" >}}) | 34 | 275 | 12.4 | Bengali <core@bengalinux.org> | 
- | [gnome-tetravex]({{< ref "/f41/package/gnome-tetravex.md" >}}) | 27 | 220 | 12.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sugar-log]({{< ref "/f41/package/sugar-log.md" >}}) | 12 | 98 | 12.2 | Bengali (India) <discuss@ankur.org.in> | 
- | [mate-themes]({{< ref "/f41/package/mate-themes.md" >}}) | 9 | 74 | 12.2 | Bengali (India) (http://app.transifex.com/mate/MATE/language/bn_IN/) | 
- | [kinfocenter]({{< ref "/f41/package/kinfocenter.md" >}}) | 19 | 162 | 11.7 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [mate-applets]({{< ref "/f41/package/mate-applets.md" >}}) | 1845 | 16106 | 11.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [pykickstart]({{< ref "/f41/package/pykickstart.md" >}}) | 186 | 1638 | 11.4 | Bengali (India) (http://www.transifex.com/projects/p/pykickstart/language/bn_IN/) | 
- | [sugar-memorize]({{< ref "/f41/package/sugar-memorize.md" >}}) | 16 | 142 | 11.3 | LANGUAGE <LL@li.org> | 
- | [mate-system-monitor]({{< ref "/f41/package/mate-system-monitor.md" >}}) | 548 | 4894 | 11.2 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [lightsoff]({{< ref "/f41/package/lightsoff.md" >}}) | 10 | 97 | 10.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sugar-read]({{< ref "/f41/package/sugar-read.md" >}}) | 13 | 137 | 9.5 | LANGUAGE <LL@li.org> | 
- | [kf5-knewstuff]({{< ref "/f41/package/kf5-knewstuff.md" >}}) | 151 | 1631 | 9.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [gnome-chess]({{< ref "/f41/package/gnome-chess.md" >}}) | 125 | 1390 | 9.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kcmutils]({{< ref "/f41/package/kf6-kcmutils.md" >}}) | 11 | 123 | 8.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [system-switch-mail]({{< ref "/f41/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [kf6-kservice]({{< ref "/f41/package/kf6-kservice.md" >}}) | 4 | 45 | 8.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [dconf-editor]({{< ref "/f41/package/dconf-editor.md" >}}) | 129 | 1463 | 8.8 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [konsole5]({{< ref "/f41/package/konsole5.md" >}}) | 352 | 3996 | 8.8 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [kf5-kdeclarative]({{< ref "/f41/package/kf5-kdeclarative.md" >}}) | 14 | 161 | 8.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [sugar-browse]({{< ref "/f41/package/sugar-browse.md" >}}) | 28 | 334 | 8.4 | discuss@lists.ankur.org.in | 
- | [konsole]({{< ref "/f41/package/konsole.md" >}}) | 344 | 4299 | 8.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [iagno]({{< ref "/f41/package/iagno.md" >}}) | 25 | 322 | 7.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kwin-x11]({{< ref "/f41/package/kwin-x11.md" >}}) | 386 | 5272 | 7.3 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [NetworkManager-sstp]({{< ref "/f41/package/NetworkManager-sstp.md" >}}) | 61 | 878 | 6.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [colord]({{< ref "/f41/package/colord.md" >}}) | 25 | 388 | 6.4 | Bengali (India) (http://www.transifex.net/projects/p/freedesktop/team/bn_IN/) | 
- | [mingw-colord]({{< ref "/f41/package/mingw-colord.md" >}}) | 25 | 388 | 6.4 | Bengali (India) (http://www.transifex.net/projects/p/freedesktop/team/bn_IN/) | 
- | [kwin]({{< ref "/f41/package/kwin.md" >}}) | 337 | 5620 | 6.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [NetworkManager-l2tp]({{< ref "/f41/package/NetworkManager-l2tp.md" >}}) | 73 | 1294 | 5.6 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [plasma-systemsettings]({{< ref "/f41/package/plasma-systemsettings.md" >}}) | 7 | 130 | 5.4 | Bengali (India) <discuss@ankur.co.in> | 
- | [kf6-kdeclarative]({{< ref "/f41/package/kf6-kdeclarative.md" >}}) | 9 | 169 | 5.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [glade]({{< ref "/f41/package/glade.md" >}}) | 166 | 3120 | 5.3 | Bengali (India) <en@li.org> | 
- | [libksysguard]({{< ref "/f41/package/libksysguard.md" >}}) | 30 | 602 | 5.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [libmatemixer]({{< ref "/f41/package/libmatemixer.md" >}}) | 12 | 242 | 5.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [dolphin]({{< ref "/f41/package/dolphin.md" >}}) | 302 | 6277 | 4.8 | Bengali (India) <fedora-trans-bn_IN@redhat.com> | 
- | [mate-notification-daemon]({{< ref "/f41/package/mate-notification-daemon.md" >}}) | 8 | 186 | 4.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [subscription-manager-cockpit]({{< ref "/f41/package/subscription-manager-cockpit.md" >}}) | 21 | 511 | 4.1 | Bengali (India) | 
- | [spacefm]({{< ref "/f41/package/spacefm.md" >}}) | 353 | 8722 | 4.0 | Bengali (India) (http://www.transifex.com/projects/p/spacefm/language/bn_IN/) | 
- | [gnome-sudoku]({{< ref "/f41/package/gnome-sudoku.md" >}}) | 14 | 399 | 3.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [light-locker]({{< ref "/f41/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Bengali (India) (http://www.transifex.com/the_cavalry/light-locker/language/bn_IN/) | 
- | [sugar-calculator]({{< ref "/f41/package/sugar-calculator.md" >}}) | 23 | 866 | 2.7 | Bengali <core@bengalinux.org> | 
- | [sugar-turtleart]({{< ref "/f41/package/sugar-turtleart.md" >}}) | 36 | 1574 | 2.3 | discuss@lists.ankur.org.in | 
- | [mate-user-admin]({{< ref "/f41/package/mate-user-admin.md" >}}) | 13 | 605 | 2.1 | Bengali (India) (https://www.transifex.com/mate/teams/13566/bn_IN/) | 
- | [NetworkManager-fortisslvpn]({{< ref "/f41/package/NetworkManager-fortisslvpn.md" >}}) | 6 | 321 | 1.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [anaconda-webui]({{< ref "/f41/package/anaconda-webui.md" >}}) | 18 | 1187 | 1.5 | Bengali (India) <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/bn_IN/> | 
- | [calibre]({{< ref "/f41/package/calibre.md" >}}) | 2106 | 173253 | 1.2 | Bengali (India) (http://www.transifex.com/calibre/calibre/language/bn_IN/) | 
- | [NetworkManager-openconnect]({{< ref "/f41/package/NetworkManager-openconnect.md" >}}) | 34 | 3241 | 1.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [mate-sensors-applet]({{< ref "/f41/package/mate-sensors-applet.md" >}}) | 22 | 2160 | 1.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [kf6-knewstuff]({{< ref "/f41/package/kf6-knewstuff.md" >}}) | 10 | 1034 | 1.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [python-meh]({{< ref "/f41/package/python-meh.md" >}}) | 1 | 109 | 0.9 | Bengali (India) (http://www.transifex.com/projects/p/python-meh/language/bn_IN/) | 
- | [sugar-terminal]({{< ref "/f41/package/sugar-terminal.md" >}}) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
- | [caja-actions]({{< ref "/f41/package/caja-actions.md" >}}) | 135 | 18812 | 0.7 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [plasma-oxygen]({{< ref "/f41/package/plasma-oxygen.md" >}}) | 4 | 615 | 0.7 | Bengali INDIA <discuss@ankur.org.in> | 
- | [powerdevil]({{< ref "/f41/package/powerdevil.md" >}}) | 4 | 789 | 0.5 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [sugar-speak]({{< ref "/f41/package/sugar-speak.md" >}}) | 1 | 227 | 0.4 | LANGUAGE <LL@li.org> | 
- | [mate-user-guide]({{< ref "/f41/package/mate-user-guide.md" >}}) | 141 | 42973 | 0.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
- | [plasma-drkonqi]({{< ref "/f41/package/plasma-drkonqi.md" >}}) | 4 | 1980 | 0.2 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [rpm-ostree]({{< ref "/f41/package/rpm-ostree.md" >}}) | 2 | 1480 | 0.1 | Bengali (India) | 
- | [libdnf]({{< ref "/f41/package/libdnf.md" >}}) | 2 | 1664 | 0.1 | Bengali (India) | 
- | [accountsservice]({{< ref "/f41/package/accountsservice.md" >}}) | 0 | 59 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/accountsservice/language/bn_IN/) | 
- | [dnf]({{< ref "/f41/package/dnf.md" >}}) | 0 | 3887 | 0.0 | Bengali (India) (http://www.transifex.com/projects/p/dnf/language/bn_IN/) | 
- | [fonts-tweak-tool]({{< ref "/f41/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Bengali (India) | 
- | [fprintd]({{< ref "/f41/package/fprintd.md" >}}) | 0 | 433 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/fprintd/language/bn_IN/) | 
- | [kf5-kauth]({{< ref "/f41/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kcodecs]({{< ref "/f41/package/kf5-kcodecs.md" >}}) | 0 | 370 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kcompletion]({{< ref "/f41/package/kf5-kcompletion.md" >}}) | 0 | 18 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kconfig]({{< ref "/f41/package/kf5-kconfig.md" >}}) | 0 | 289 | 0.0 | Bengali INDIA <discuss@ankur.org.in> | 
- | [kf5-kcoreaddons]({{< ref "/f41/package/kf5-kcoreaddons.md" >}}) | 0 | 382 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kdesignerplugin]({{< ref "/f41/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kdnssd]({{< ref "/f41/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kglobalaccel]({{< ref "/f41/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kitemviews]({{< ref "/f41/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kjobwidgets]({{< ref "/f41/package/kf5-kjobwidgets.md" >}}) | 0 | 133 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-knotifications]({{< ref "/f41/package/kf5-knotifications.md" >}}) | 0 | 21 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kwidgetsaddons]({{< ref "/f41/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1293 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-kwindowsystem]({{< ref "/f41/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf5-sonnet]({{< ref "/f41/package/kf5-sonnet.md" >}}) | 0 | 683 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kauth]({{< ref "/f41/package/kf6-kauth.md" >}}) | 0 | 73 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kcodecs]({{< ref "/f41/package/kf6-kcodecs.md" >}}) | 0 | 370 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kcompletion]({{< ref "/f41/package/kf6-kcompletion.md" >}}) | 0 | 18 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kconfig]({{< ref "/f41/package/kf6-kconfig.md" >}}) | 0 | 550 | 0.0 | Bengali INDIA <discuss@ankur.org.in> | 
- | [kf6-kcoreaddons]({{< ref "/f41/package/kf6-kcoreaddons.md" >}}) | 0 | 474 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kdnssd]({{< ref "/f41/package/kf6-kdnssd.md" >}}) | 0 | 3 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kglobalaccel]({{< ref "/f41/package/kf6-kglobalaccel.md" >}}) | 0 | 34 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kitemviews]({{< ref "/f41/package/kf6-kitemviews.md" >}}) | 0 | 6 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kjobwidgets]({{< ref "/f41/package/kf6-kjobwidgets.md" >}}) | 0 | 139 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-knotifications]({{< ref "/f41/package/kf6-knotifications.md" >}}) | 0 | 0 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kwidgetsaddons]({{< ref "/f41/package/kf6-kwidgetsaddons.md" >}}) | 0 | 1277 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-kwindowsystem]({{< ref "/f41/package/kf6-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [kf6-sonnet]({{< ref "/f41/package/kf6-sonnet.md" >}}) | 0 | 684 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
- | [libgxim]({{< ref "/f41/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libvirt-sandbox]({{< ref "/f41/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
- | [mingw-p11-kit]({{< ref "/f41/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/p11-kit/language/bn_IN/) | 
- | [p11-kit]({{< ref "/f41/package/p11-kit.md" >}}) | 0 | 1764 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/p11-kit/language/bn_IN/) | 
- | [phonon]({{< ref "/f41/package/phonon.md" >}}) | 0 | 235 | 0.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
- | [python-fedora]({{< ref "/f41/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Bengali (India) | 
- | [realmd]({{< ref "/f41/package/realmd.md" >}}) | 0 | 833 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/realmd/language/bn_IN/) | 
- | [retrace-server]({{< ref "/f41/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | Bengali | 
- | [shared-mime-info]({{< ref "/f41/package/shared-mime-info.md" >}}) | 0 | 2266 | 0.0 | Bengali (India) (http://app.transifex.com/freedesktop/shared-mime-info/language/bn_IN/) | 
- | [sugar-clock]({{< ref "/f41/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f41/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [udisks2]({{< ref "/f41/package/udisks2.md" >}}) | 0 | 1929 | 0.0 |  | 
+ | [GConf2](/f41/package/GConf2) | 4024 | 4024 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [NetworkManager-vpnc](/f41/package/NetworkManager-vpnc) | 139 | 139 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [PackageKit](/f41/package/PackageKit) | 863 | 863 | 100.0 | Bengali (India) (http://app.transifex.com/freedesktop/packagekit/language/bn_IN/) | 
+ | [abattis-cantarell-fonts](/f41/package/abattis-cantarell-fonts) | 27 | 27 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [accerciser](/f41/package/accerciser) | 363 | 363 | 100.0 | Bengali INDIA | 
+ | [alacarte](/f41/package/alacarte) | 42 | 42 | 100.0 | Bengali India | 
+ | [at-spi2-core](/f41/package/at-spi2-core) | 520 | 520 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [baobab](/f41/package/baobab) | 210 | 210 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [brasero](/f41/package/brasero) | 5546 | 5546 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [budgie-screensaver](/f41/package/budgie-screensaver) | 270 | 270 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [budgie-session](/f41/package/budgie-session) | 432 | 432 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [caribou](/f41/package/caribou) | 171 | 171 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [cheese](/f41/package/cheese) | 613 | 613 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [cosmic-store](/f41/package/cosmic-store) | 863 | 863 | 100.0 | Bengali (India) (http://app.transifex.com/freedesktop/packagekit/language/bn_IN/) | 
+ | [cracklib](/f41/package/cracklib) | 90 | 90 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [dasher](/f41/package/dasher) | 615 | 615 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [devhelp](/f41/package/devhelp) | 360 | 360 | 100.0 | Bengali (India) <discuss@ankur.co.in> | 
+ | [eog](/f41/package/eog) | 1566 | 1566 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [epiphany](/f41/package/epiphany) | 2291 | 2291 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [evince](/f41/package/evince) | 1525 | 1525 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [evolution](/f41/package/evolution) | 21066 | 21066 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [evolution-data-server](/f41/package/evolution-data-server) | 5398 | 5398 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [evolution-ews](/f41/package/evolution-ews) | 1165 | 1165 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [evolution-mapi](/f41/package/evolution-mapi) | 1036 | 1036 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [file-roller](/f41/package/file-roller) | 1195 | 1195 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [freeipa](/f41/package/freeipa) | 34 | 34 | 100.0 | Bengali (India) | 
+ | [gconf-editor](/f41/package/gconf-editor) | 336 | 336 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gdm](/f41/package/gdm) | 629 | 629 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gedit](/f41/package/gedit) | 3924 | 3924 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [gftp](/f41/package/gftp) | 3334 | 3334 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [glib-networking](/f41/package/glib-networking) | 86 | 86 | 100.0 | Bengali (India) <bn_IN@li.org> | 
+ | [glib2](/f41/package/glib2) | 5750 | 5750 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-applets](/f41/package/gnome-applets) | 3367 | 3367 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gnome-bluetooth](/f41/package/gnome-bluetooth) | 303 | 303 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-bluetooth3.34](/f41/package/gnome-bluetooth3.34) | 303 | 303 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-boxes](/f41/package/gnome-boxes) | 753 | 753 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-calculator](/f41/package/gnome-calculator) | 1337 | 1337 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-clocks](/f41/package/gnome-clocks) | 223 | 223 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-color-manager](/f41/package/gnome-color-manager) | 1792 | 1792 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-contacts](/f41/package/gnome-contacts) | 405 | 405 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-control-center](/f41/package/gnome-control-center) | 7324 | 7324 | 100.0 | Bengali India <anubad@lists.ankur.org.in> | 
+ | [gnome-desktop3](/f41/package/gnome-desktop3) | 146 | 146 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-dictionary](/f41/package/gnome-dictionary) | 841 | 841 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-disk-utility](/f41/package/gnome-disk-utility) | 3423 | 3423 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [gnome-doc-utils](/f41/package/gnome-doc-utils) | 251 | 251 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-extensions-app](/f41/package/gnome-extensions-app) | 2667 | 2667 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [gnome-font-viewer](/f41/package/gnome-font-viewer) | 109 | 109 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-icon-theme](/f41/package/gnome-icon-theme) | 51 | 51 | 100.0 | Bengali (India) <en@li.org> | 
+ | [gnome-initial-setup](/f41/package/gnome-initial-setup) | 364 | 364 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-keyring](/f41/package/gnome-keyring) | 553 | 553 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-menus](/f41/package/gnome-menus) | 70 | 70 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-nettool](/f41/package/gnome-nettool) | 644 | 644 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-online-accounts](/f41/package/gnome-online-accounts) | 634 | 634 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-packagekit](/f41/package/gnome-packagekit) | 4390 | 4390 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-panel](/f41/package/gnome-panel) | 3520 | 3520 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-power-manager](/f41/package/gnome-power-manager) | 480 | 480 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-screenshot](/f41/package/gnome-screenshot) | 354 | 354 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-session](/f41/package/gnome-session) | 432 | 432 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [gnome-settings-daemon](/f41/package/gnome-settings-daemon) | 2607 | 2607 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-shell](/f41/package/gnome-shell) | 2667 | 2667 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [gnome-shell-extensions](/f41/package/gnome-shell-extensions) | 220 | 220 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-shell-frippery](/f41/package/gnome-shell-frippery) | 17 | 17 | 100.0 |  | 
+ | [gnome-system-log](/f41/package/gnome-system-log) | 419 | 419 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-system-monitor](/f41/package/gnome-system-monitor) | 1289 | 1289 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gnome-terminal](/f41/package/gnome-terminal) | 2499 | 2499 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [gnome-themes-extra](/f41/package/gnome-themes-extra) | 12 | 12 | 100.0 | Bengali (India) <bn_IN@li.org> | 
+ | [gnome-user-share](/f41/package/gnome-user-share) | 316 | 316 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-vfs2](/f41/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gnome-weather](/f41/package/gnome-weather) | 195 | 195 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [gnote](/f41/package/gnote) | 2975 | 2975 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gtk2-engines](/f41/package/gtk2-engines) | 119 | 119 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
+ | [gtk4](/f41/package/gtk4) | 2772 | 2772 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gtkhtml3](/f41/package/gtkhtml3) | 1261 | 1261 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
+ | [gtksourceview2](/f41/package/gtksourceview2) | 1120 | 1120 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gtksourceview4](/f41/package/gtksourceview4) | 1124 | 1124 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gtksourceview5](/f41/package/gtksourceview5) | 1124 | 1124 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gucharmap](/f41/package/gucharmap) | 1205 | 1205 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [gvfs](/f41/package/gvfs) | 2704 | 2704 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [isomaster](/f41/package/isomaster) | 674 | 674 | 100.0 | Rajib Lochan Dhibar <rajib.lochan.dhibar@gmail.com> | 
+ | [kf5-kpty](/f41/package/kf5-kpty) | 15 | 15 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-knotifyconfig](/f41/package/kf6-knotifyconfig) | 19 | 19 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kpty](/f41/package/kf6-kpty) | 15 | 15 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libbonobo](/f41/package/libbonobo) | 547 | 547 | 100.0 | Bengali India | 
+ | [libbonoboui](/f41/package/libbonoboui) | 368 | 368 | 100.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [libbytesize](/f41/package/libbytesize) | 17 | 17 | 100.0 | Bengali (India) <https://translate.fedoraproject.org/projects/blivet/libbytesize/bn_IN/> | 
+ | [libcryptui](/f41/package/libcryptui) | 3012 | 3012 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [libgdata](/f41/package/libgdata) | 552 | 552 | 100.0 | Bengali (India) <bn_IN@li.org> | 
+ | [libgnome](/f41/package/libgnome) | 1772 | 1772 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
+ | [libgnomecanvas](/f41/package/libgnomecanvas) | 378 | 378 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libgnomekbd](/f41/package/libgnomekbd) | 187 | 187 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [libgnomeui](/f41/package/libgnomeui) | 1309 | 1309 | 100.0 | Bengali INDIA <discuss@ankur.co.in> | 
+ | [libgtop2](/f41/package/libgtop2) | 126 | 126 | 100.0 | Bengali INDIA | 
+ | [libgweather](/f41/package/libgweather) | 6107 | 6107 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [libpeas](/f41/package/libpeas) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [libpeas1](/f41/package/libpeas1) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [libsoup](/f41/package/libsoup) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [libsoup3](/f41/package/libsoup3) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [libwnck](/f41/package/libwnck) | 1124 | 1124 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
+ | [lxmenu-data](/f41/package/lxmenu-data) | 97 | 97 | 100.0 | Bengali (India) <en@li.org> | 
+ | [lxshortcut](/f41/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [magpie](/f41/package/magpie) | 829 | 829 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mate-icon-theme](/f41/package/mate-icon-theme) | 4 | 4 | 100.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [metacity](/f41/package/metacity) | 3821 | 3821 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mingw-GConf2](/f41/package/mingw-GConf2) | 4024 | 4024 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mingw-atk](/f41/package/mingw-atk) | 398 | 398 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mingw-glib-networking](/f41/package/mingw-glib-networking) | 86 | 86 | 100.0 | Bengali (India) <bn_IN@li.org> | 
+ | [mingw-glib2](/f41/package/mingw-glib2) | 5750 | 5750 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [mingw-gtk4](/f41/package/mingw-gtk4) | 2772 | 2772 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mingw-libsoup](/f41/package/mingw-libsoup) | 110 | 110 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [mousetweaks](/f41/package/mousetweaks) | 715 | 715 | 100.0 | Bengali INDIA <discuss@lists.ankur.org.in> | 
+ | [muffin](/f41/package/muffin) | 1829 | 1829 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [multimedia-menus](/f41/package/multimedia-menus) | 56 | 56 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mutter](/f41/package/mutter) | 829 | 829 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [nautilus](/f41/package/nautilus) | 5476 | 5476 | 100.0 | Bengali <anubad@lists.ankur.org.in> | 
+ | [newt](/f41/package/newt) | 4 | 4 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [papers](/f41/package/papers) | 1525 | 1525 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [redhat-menus](/f41/package/redhat-menus) | 261 | 261 | 100.0 | Bengali <en@li.org> | 
+ | [rygel](/f41/package/rygel) | 556 | 556 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [seahorse](/f41/package/seahorse) | 3012 | 3012 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [setuptool](/f41/package/setuptool) | 55 | 55 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sound-juicer](/f41/package/sound-juicer) | 1003 | 1003 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sushi](/f41/package/sushi) | 24 | 24 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [system-config-rootpassword](/f41/package/system-config-rootpassword) | 116 | 116 | 100.0 | Bengali INDIA | 
+ | [system-switch-java](/f41/package/system-switch-java) | 81 | 81 | 100.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [totem](/f41/package/totem) | 1446 | 1446 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [totem-pl-parser](/f41/package/totem-pl-parser) | 28 | 28 | 100.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [usermode](/f41/package/usermode) | 573 | 573 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [vinagre](/f41/package/vinagre) | 1507 | 1507 | 100.0 | American English <kde-i18n-doc@kde.org> | 
+ | [vte](/f41/package/vte) | 84 | 84 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [vte291](/f41/package/vte291) | 84 | 84 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [wireplumber](/f41/package/wireplumber) | 3 | 3 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [xdg-user-dirs](/f41/package/xdg-user-dirs) | 28 | 28 | 100.0 | Bengali (India) <discuss@lists.ankur.org.in> | 
+ | [xdg-user-dirs-gtk](/f41/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [yelp](/f41/package/yelp) | 452 | 452 | 100.0 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [yelp-xsl](/f41/package/yelp-xsl) | 249 | 249 | 100.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [zenity](/f41/package/zenity) | 674 | 674 | 100.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gtk2](/f41/package/gtk2) | 13677 | 13704 | 99.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mingw-gtk2](/f41/package/mingw-gtk2) | 13677 | 13704 | 99.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [iso-codes](/f41/package/iso-codes) | 1085 | 1093 | 99.3 | Bengali (India) <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/bn_IN/> | 
+ | [cinnamon-desktop](/f41/package/cinnamon-desktop) | 231 | 234 | 98.7 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [libwnck3](/f41/package/libwnck3) | 1068 | 1086 | 98.3 | American English <kde-i18n-doc@kde.org> | 
+ | [seahorse-caja](/f41/package/seahorse-caja) | 411 | 421 | 97.6 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [seahorse-nautilus](/f41/package/seahorse-nautilus) | 411 | 421 | 97.6 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [eog-plugins](/f41/package/eog-plugins) | 78 | 80 | 97.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libmateweather](/f41/package/libmateweather) | 5947 | 6143 | 96.8 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [libpwquality](/f41/package/libpwquality) | 333 | 345 | 96.5 | Bengali (India) (http://www.transifex.com/projects/p/libpwquality/language/bn_IN/) | 
+ | [gtk3](/f41/package/gtk3) | 11729 | 12193 | 96.2 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mingw-gtk3](/f41/package/mingw-gtk3) | 11729 | 12193 | 96.2 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [paprefs](/f41/package/paprefs) | 131 | 137 | 95.6 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gdk-pixbuf2](/f41/package/gdk-pixbuf2) | 1288 | 1348 | 95.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gdk-pixbuf2-modules-extra](/f41/package/gdk-pixbuf2-modules-extra) | 1288 | 1348 | 95.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mingw-gdk-pixbuf](/f41/package/mingw-gdk-pixbuf) | 1288 | 1348 | 95.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mate-menus](/f41/package/mate-menus) | 98 | 103 | 95.1 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [emerald](/f41/package/emerald) | 652 | 696 | 93.7 | Indian Bangla <bn_IN@li.org> | 
+ | [mozo](/f41/package/mozo) | 43 | 46 | 93.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [volume_key](/f41/package/volume_key) | 707 | 763 | 92.7 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [python-blivet](/f41/package/python-blivet) | 558 | 605 | 92.2 | Bengali (India) <https://translate.fedoraproject.org/projects/blivet/blivet-master/bn_IN/> | 
+ | [pidgin](/f41/package/pidgin) | 12556 | 13994 | 89.7 | Bengali (India) (http://app.transifex.com/pidgin/pidgin/language/bn_IN/) | 
+ | [imsettings](/f41/package/imsettings) | 440 | 500 | 88.0 | Bengali (India) (http://www.transifex.net/projects/p/imsettings/team/bn_IN/) | 
+ | [asunder](/f41/package/asunder) | 431 | 493 | 87.4 | Rajib Lochan Dhibar <rajib.lochan.dhibar@gmail.com> | 
+ | [im-chooser](/f41/package/im-chooser) | 229 | 262 | 87.4 | Bengali (India) (http://www.transifex.net/projects/p/im-chooser/team/bn_IN/) | 
+ | [kf5-kjsembed](/f41/package/kf5-kjsembed) | 214 | 248 | 86.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [lxlauncher](/f41/package/lxlauncher) | 50 | 58 | 86.2 | LANGUAGE <LL@li.org> | 
+ | [system-config-printer](/f41/package/system-config-printer) | 3021 | 3514 | 86.0 | Bengali (India) (http://www.transifex.com/projects/p/system-config-printer/language/bn_IN/) | 
+ | [budgie-control-center](/f41/package/budgie-control-center) | 6733 | 7914 | 85.1 | Bengali (India) (https://app.transifex.com/buddiesofbudgie/teams/129844/bn_IN/) | 
+ | [ccsm](/f41/package/ccsm) | 502 | 591 | 84.9 | gist bengali team <info.gist@cdac.in> | 
+ | [lxinput](/f41/package/lxinput) | 70 | 83 | 84.3 | LANGUAGE <LL@li.org> | 
+ | [android-tools](/f41/package/android-tools) | 5033 | 6028 | 83.5 | Bengali (India) | 
+ | [kf5-kross](/f41/package/kf5-kross) | 82 | 100 | 82.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [setroubleshoot](/f41/package/setroubleshoot) | 522 | 640 | 81.6 | Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/) | 
+ | [policycoreutils](/f41/package/policycoreutils) | 4894 | 6117 | 80.0 | Bengali (India) | 
+ | [mate-polkit](/f41/package/mate-polkit) | 97 | 123 | 78.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [mate-screensaver](/f41/package/mate-screensaver) | 868 | 1101 | 78.8 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [aisleriot](/f41/package/aisleriot) | 1565 | 1987 | 78.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [xed](/f41/package/xed) | 2952 | 3775 | 78.2 | Bengali (India) (http://www.transifex.com/projects/p/MATE/language/bn_IN/) | 
+ | [gedit-plugins](/f41/package/gedit-plugins) | 939 | 1205 | 77.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [chkconfig](/f41/package/chkconfig) | 454 | 597 | 76.0 | Bengali (India) <https://translate.fedoraproject.org/projects/fedora-sysv/chkconfig/bn_IN/> | 
+ | [marco](/f41/package/marco) | 3133 | 4171 | 75.1 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [vlc](/f41/package/vlc) | 25382 | 34779 | 73.0 | Bengali (India) (https://app.transifex.com/yaron/teams/16553/bn_IN/) | 
+ | [libuser](/f41/package/libuser) | 996 | 1437 | 69.3 | Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/) | 
+ | [caja](/f41/package/caja) | 6955 | 10156 | 68.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [kf5-kparts](/f41/package/kf5-kparts) | 93 | 138 | 67.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kinit](/f41/package/kf5-kinit) | 78 | 116 | 67.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [firewalld](/f41/package/firewalld) | 1486 | 2217 | 67.0 | Bengali (India) (http://www.transifex.com/projects/p/firewalld/language/bn_IN/) | 
+ | [gnome-robots](/f41/package/gnome-robots) | 384 | 597 | 64.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [keditbookmarks](/f41/package/keditbookmarks) | 301 | 470 | 64.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [pam](/f41/package/pam) | 347 | 544 | 63.8 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [khelpcenter](/f41/package/khelpcenter) | 138 | 221 | 62.4 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [initscripts](/f41/package/initscripts) | 720 | 1162 | 62.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [openbox](/f41/package/openbox) | 313 | 506 | 61.9 | Bengali (India) <en@li.org> | 
+ | [kf6-kparts](/f41/package/kf6-kparts) | 35 | 57 | 61.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mate-session-manager](/f41/package/mate-session-manager) | 437 | 717 | 60.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [kf5-kcmutils](/f41/package/kf5-kcmutils) | 161 | 266 | 60.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [pipewire-media-session](/f41/package/pipewire-media-session) | 3 | 5 | 60.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [lxdm](/f41/package/lxdm) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [kf5-ktextwidgets](/f41/package/kf5-ktextwidgets) | 275 | 473 | 58.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [abrt](/f41/package/abrt) | 2108 | 3676 | 57.3 | Bengali (India) (http://www.transifex.com/projects/p/fedora-abrt/language/bn_IN/) | 
+ | [kf6-ktextwidgets](/f41/package/kf6-ktextwidgets) | 268 | 473 | 56.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [tali](/f41/package/tali) | 238 | 421 | 56.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libmatekbd](/f41/package/libmatekbd) | 174 | 308 | 56.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [five-or-more](/f41/package/five-or-more) | 159 | 282 | 56.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [rhythmbox](/f41/package/rhythmbox) | 2502 | 4545 | 55.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sugar-distance](/f41/package/sugar-distance) | 54 | 99 | 54.5 | LANGUAGE <LL@li.org> | 
+ | [mate-panel](/f41/package/mate-panel) | 3620 | 6753 | 53.6 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [quadrapassel](/f41/package/quadrapassel) | 228 | 428 | 53.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [powertop](/f41/package/powertop) | 371 | 698 | 53.2 | Bengali (India) (http://www.transifex.com/projects/p/PowerTOP/language/bn_IN/) | 
+ | [xreader](/f41/package/xreader) | 834 | 1625 | 51.3 | Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/) | 
+ | [mate-media](/f41/package/mate-media) | 120 | 244 | 49.2 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [mate-settings-daemon](/f41/package/mate-settings-daemon) | 1078 | 2203 | 48.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [sugar-write](/f41/package/sugar-write) | 59 | 121 | 48.8 | discuss@lists.ankur.org.in | 
+ | [virt-manager](/f41/package/virt-manager) | 3577 | 7355 | 48.6 | Bengali (India) (http://www.transifex.com/projects/p/virt-manager/language/bn_IN/) | 
+ | [mate-terminal](/f41/package/mate-terminal) | 3982 | 8238 | 48.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [anaconda](/f41/package/anaconda) | 3933 | 8266 | 47.6 | Bengali (India) <https://translate.fedoraproject.org/projects/anaconda/master/bn_IN/> | 
+ | [mate-backgrounds](/f41/package/mate-backgrounds) | 26 | 55 | 47.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [compiz](/f41/package/compiz) | 2065 | 4385 | 47.1 | gist bengali team <info.gist@cdac.in> | 
+ | [mate-desktop](/f41/package/mate-desktop) | 1115 | 2412 | 46.2 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [sos](/f41/package/sos) | 54 | 123 | 43.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gnome-abrt](/f41/package/gnome-abrt) | 96 | 221 | 43.4 | Bengali (India) (http://www.transifex.com/projects/p/gnome-abrt/language/bn_IN/) | 
+ | [kmenuedit](/f41/package/kmenuedit) | 135 | 313 | 43.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [subscription-manager](/f41/package/subscription-manager) | 1482 | 3445 | 43.0 | Bengali (India) | 
+ | [kdump-anaconda-addon](/f41/package/kdump-anaconda-addon) | 83 | 194 | 42.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [four-in-a-row](/f41/package/four-in-a-row) | 109 | 256 | 42.6 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gnome-video-effects](/f41/package/gnome-video-effects) | 11 | 26 | 42.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-khtml](/f41/package/kf5-khtml) | 678 | 1667 | 40.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libreoffice](/f41/package/libreoffice) | 306296 | 768388 | 39.9 | LANGUAGE <LL@li.org> | 
+ | [kdialog](/f41/package/kdialog) | 157 | 403 | 39.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [kf5-kconfigwidgets](/f41/package/kf5-kconfigwidgets) | 129 | 342 | 37.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [setroubleshoot-plugins](/f41/package/setroubleshoot-plugins) | 2254 | 6248 | 36.1 | Bengali (India) (http://www.transifex.com/projects/p/fedora/language/bn_IN/) | 
+ | [pulseaudio](/f41/package/pulseaudio) | 1358 | 3786 | 35.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kfind](/f41/package/kfind) | 185 | 517 | 35.8 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [sugar-toolkit-gtk3](/f41/package/sugar-toolkit-gtk3) | 76 | 213 | 35.7 | Sugar Labs | 
+ | [pluma](/f41/package/pluma) | 4504 | 13113 | 34.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [ibus](/f41/package/ibus) | 902 | 2649 | 34.1 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [kf5-ki18n](/f41/package/kf5-ki18n) | 42 | 124 | 33.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-ki18n](/f41/package/kf6-ki18n) | 42 | 124 | 33.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [virt-viewer](/f41/package/virt-viewer) | 251 | 746 | 33.6 | Bengali (India) (http://www.transifex.com/projects/p/virt-viewer/language/bn_IN/) | 
+ | [kf5-knotifyconfig](/f41/package/kf5-knotifyconfig) | 43 | 129 | 33.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [publican](/f41/package/publican) | 1749 | 5443 | 32.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mate-utils](/f41/package/mate-utils) | 3139 | 9901 | 31.7 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [cinnamon-translations](/f41/package/cinnamon-translations) | 1067 | 3404 | 31.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [plasma-sdk](/f41/package/plasma-sdk) | 116 | 371 | 31.3 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [initial-setup](/f41/package/initial-setup) | 33 | 106 | 31.1 | Bengali (India) (http://www.transifex.com/projects/p/initial-setup/language/bn_IN/) | 
+ | [gnome-klotski](/f41/package/gnome-klotski) | 59 | 194 | 30.4 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [shotwell](/f41/package/shotwell) | 1378 | 4553 | 30.3 | Bengali (India) (http://www.transifex.com/projects/p/shotwell/language/bn_IN/) | 
+ | [mate-control-center](/f41/package/mate-control-center) | 2476 | 8260 | 30.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [kf6-kwallet](/f41/package/kf6-kwallet) | 317 | 1060 | 29.9 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [elementary-photos](/f41/package/elementary-photos) | 841 | 2862 | 29.4 | Bengali (India) (http://www.transifex.com/projects/p/shotwell/language/bn_IN/) | 
+ | [gtksourceview3](/f41/package/gtksourceview3) | 94 | 322 | 29.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mingw-gtksourceview3](/f41/package/mingw-gtksourceview3) | 94 | 322 | 29.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libgedit-gtksourceview](/f41/package/libgedit-gtksourceview) | 93 | 319 | 29.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kservice](/f41/package/kf5-kservice) | 50 | 173 | 28.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gnome-nibbles](/f41/package/gnome-nibbles) | 129 | 447 | 28.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [system-config-language](/f41/package/system-config-language) | 61 | 215 | 28.4 | American English <kde-i18n-doc@kde.org> | 
+ | [sugar-imageviewer](/f41/package/sugar-imageviewer) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
+ | [mate-power-manager](/f41/package/mate-power-manager) | 1345 | 5123 | 26.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [kde-cli-tools](/f41/package/kde-cli-tools) | 420 | 1603 | 26.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [blivet-gui](/f41/package/blivet-gui) | 290 | 1111 | 26.1 | Bengali (India) <https://translate.fedoraproject.org/projects/blivet/blivet-gui/bn_IN/> | 
+ | [kf5-kwallet](/f41/package/kf5-kwallet) | 348 | 1335 | 26.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [kf6-kconfigwidgets](/f41/package/kf6-kconfigwidgets) | 81 | 312 | 26.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kio-extras](/f41/package/kio-extras) | 239 | 929 | 25.7 | Bengali INDIA <discuss@ankur.org.in> | 
+ | [plasma-desktop](/f41/package/plasma-desktop) | 868 | 3376 | 25.7 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [kio-extras-kf5](/f41/package/kio-extras-kf5) | 239 | 931 | 25.7 | Bengali INDIA <discuss@ankur.org.in> | 
+ | [libreport](/f41/package/libreport) | 1198 | 4928 | 24.3 | Bengali (India) (http://www.transifex.com/projects/p/libreport/language/bn_IN/) | 
+ | [konqueror](/f41/package/konqueror) | 1369 | 5928 | 23.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [libnma](/f41/package/libnma) | 185 | 807 | 22.9 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [kf6-kxmlgui](/f41/package/kf6-kxmlgui) | 294 | 1289 | 22.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kxmlgui](/f41/package/kf5-kxmlgui) | 350 | 1574 | 22.2 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sugar](/f41/package/sugar) | 507 | 2305 | 22.0 | Bengali <core@bengalinux.org> | 
+ | [sugar-chat](/f41/package/sugar-chat) | 30 | 137 | 21.9 | Bengali (India) <discuss@ankur.org.in> | 
+ | [orca](/f41/package/orca) | 277 | 1304 | 21.2 | Bangla <gnome-translation@bengalinux.org> | 
+ | [pavucontrol](/f41/package/pavucontrol) | 179 | 866 | 20.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [eom](/f41/package/eom) | 1014 | 4958 | 20.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [atril](/f41/package/atril) | 883 | 4364 | 20.2 | Bengali (India) (https://www.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [kf5-kdelibs4support](/f41/package/kf5-kdelibs4support) | 1064 | 5353 | 19.9 | Bengali INDIA <discuss@lists.ankur.org.in> | 
+ | [mate-menu](/f41/package/mate-menu) | 61 | 308 | 19.8 | Bengali (India) (http://www.transifex.com/mate/MATE/language/bn_IN/) | 
+ | [sugar-record](/f41/package/sugar-record) | 12 | 62 | 19.4 | Bengali <core@bengalinux.org> | 
+ | [gnome-mahjongg](/f41/package/gnome-mahjongg) | 58 | 304 | 19.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gcr](/f41/package/gcr) | 115 | 622 | 18.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gcr3](/f41/package/gcr3) | 115 | 622 | 18.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [network-manager-applet](/f41/package/network-manager-applet) | 819 | 4439 | 18.5 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [gnome-mines](/f41/package/gnome-mines) | 62 | 344 | 18.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mate-calc](/f41/package/mate-calc) | 594 | 3327 | 17.9 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [caja-extensions](/f41/package/caja-extensions) | 144 | 845 | 17.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [pipewire](/f41/package/pipewire) | 104 | 647 | 16.1 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libvirt](/f41/package/libvirt) | 10705 | 69965 | 15.3 | Bengali (India) <https://translate.fedoraproject.org/projects/libvirt/libvirt/bn_IN/> | 
+ | [plasma-workspace](/f41/package/plasma-workspace) | 1155 | 7689 | 15.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [plasma-workspace-x11](/f41/package/plasma-workspace-x11) | 1155 | 7689 | 15.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [NetworkManager](/f41/package/NetworkManager) | 4351 | 29194 | 14.9 | Bengali (India) <kde-i18n-doc@kde.org> | 
+ | [engrampa](/f41/package/engrampa) | 1110 | 7899 | 14.1 | Bengali (India) (https://www.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [swell-foop](/f41/package/swell-foop) | 37 | 266 | 13.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [pluma-plugins](/f41/package/pluma-plugins) | 188 | 1405 | 13.4 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [switchdesk](/f41/package/switchdesk) | 16 | 122 | 13.1 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [gtk-doc](/f41/package/gtk-doc) | 948 | 7277 | 13.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [NetworkManager-pptp](/f41/package/NetworkManager-pptp) | 66 | 529 | 12.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sugar-pippy](/f41/package/sugar-pippy) | 34 | 275 | 12.4 | Bengali <core@bengalinux.org> | 
+ | [gnome-tetravex](/f41/package/gnome-tetravex) | 27 | 220 | 12.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sugar-log](/f41/package/sugar-log) | 12 | 98 | 12.2 | Bengali (India) <discuss@ankur.org.in> | 
+ | [mate-themes](/f41/package/mate-themes) | 9 | 74 | 12.2 | Bengali (India) (http://app.transifex.com/mate/MATE/language/bn_IN/) | 
+ | [kinfocenter](/f41/package/kinfocenter) | 19 | 162 | 11.7 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [mate-applets](/f41/package/mate-applets) | 1845 | 16106 | 11.5 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [pykickstart](/f41/package/pykickstart) | 186 | 1638 | 11.4 | Bengali (India) (http://www.transifex.com/projects/p/pykickstart/language/bn_IN/) | 
+ | [sugar-memorize](/f41/package/sugar-memorize) | 16 | 142 | 11.3 | LANGUAGE <LL@li.org> | 
+ | [mate-system-monitor](/f41/package/mate-system-monitor) | 548 | 4894 | 11.2 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [lightsoff](/f41/package/lightsoff) | 10 | 97 | 10.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sugar-read](/f41/package/sugar-read) | 13 | 137 | 9.5 | LANGUAGE <LL@li.org> | 
+ | [kf5-knewstuff](/f41/package/kf5-knewstuff) | 151 | 1631 | 9.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [gnome-chess](/f41/package/gnome-chess) | 125 | 1390 | 9.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kcmutils](/f41/package/kf6-kcmutils) | 11 | 123 | 8.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [system-switch-mail](/f41/package/system-switch-mail) | 9 | 101 | 8.9 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [kf6-kservice](/f41/package/kf6-kservice) | 4 | 45 | 8.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [dconf-editor](/f41/package/dconf-editor) | 129 | 1463 | 8.8 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [konsole5](/f41/package/konsole5) | 352 | 3996 | 8.8 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [kf5-kdeclarative](/f41/package/kf5-kdeclarative) | 14 | 161 | 8.7 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [sugar-browse](/f41/package/sugar-browse) | 28 | 334 | 8.4 | discuss@lists.ankur.org.in | 
+ | [konsole](/f41/package/konsole) | 344 | 4299 | 8.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [iagno](/f41/package/iagno) | 25 | 322 | 7.8 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kwin-x11](/f41/package/kwin-x11) | 386 | 5272 | 7.3 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [NetworkManager-sstp](/f41/package/NetworkManager-sstp) | 61 | 878 | 6.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [colord](/f41/package/colord) | 25 | 388 | 6.4 | Bengali (India) (http://www.transifex.net/projects/p/freedesktop/team/bn_IN/) | 
+ | [mingw-colord](/f41/package/mingw-colord) | 25 | 388 | 6.4 | Bengali (India) (http://www.transifex.net/projects/p/freedesktop/team/bn_IN/) | 
+ | [kwin](/f41/package/kwin) | 337 | 5620 | 6.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [NetworkManager-l2tp](/f41/package/NetworkManager-l2tp) | 73 | 1294 | 5.6 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [plasma-systemsettings](/f41/package/plasma-systemsettings) | 7 | 130 | 5.4 | Bengali (India) <discuss@ankur.co.in> | 
+ | [kf6-kdeclarative](/f41/package/kf6-kdeclarative) | 9 | 169 | 5.3 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [glade](/f41/package/glade) | 166 | 3120 | 5.3 | Bengali (India) <en@li.org> | 
+ | [libksysguard](/f41/package/libksysguard) | 30 | 602 | 5.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [libmatemixer](/f41/package/libmatemixer) | 12 | 242 | 5.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [dolphin](/f41/package/dolphin) | 302 | 6277 | 4.8 | Bengali (India) <fedora-trans-bn_IN@redhat.com> | 
+ | [mate-notification-daemon](/f41/package/mate-notification-daemon) | 8 | 186 | 4.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [subscription-manager-cockpit](/f41/package/subscription-manager-cockpit) | 21 | 511 | 4.1 | Bengali (India) | 
+ | [spacefm](/f41/package/spacefm) | 353 | 8722 | 4.0 | Bengali (India) (http://www.transifex.com/projects/p/spacefm/language/bn_IN/) | 
+ | [gnome-sudoku](/f41/package/gnome-sudoku) | 14 | 399 | 3.5 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [light-locker](/f41/package/light-locker) | 7 | 260 | 2.7 | Bengali (India) (http://www.transifex.com/the_cavalry/light-locker/language/bn_IN/) | 
+ | [sugar-calculator](/f41/package/sugar-calculator) | 23 | 866 | 2.7 | Bengali <core@bengalinux.org> | 
+ | [sugar-turtleart](/f41/package/sugar-turtleart) | 36 | 1574 | 2.3 | discuss@lists.ankur.org.in | 
+ | [mate-user-admin](/f41/package/mate-user-admin) | 13 | 605 | 2.1 | Bengali (India) (https://www.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [NetworkManager-fortisslvpn](/f41/package/NetworkManager-fortisslvpn) | 6 | 321 | 1.9 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [anaconda-webui](/f41/package/anaconda-webui) | 18 | 1187 | 1.5 | Bengali (India) <https://translate.fedoraproject.org/projects/anaconda-webui/anaconda-webui/bn_IN/> | 
+ | [calibre](/f41/package/calibre) | 2106 | 173253 | 1.2 | Bengali (India) (http://www.transifex.com/calibre/calibre/language/bn_IN/) | 
+ | [NetworkManager-openconnect](/f41/package/NetworkManager-openconnect) | 34 | 3241 | 1.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [mate-sensors-applet](/f41/package/mate-sensors-applet) | 22 | 2160 | 1.0 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [kf6-knewstuff](/f41/package/kf6-knewstuff) | 10 | 1034 | 1.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [python-meh](/f41/package/python-meh) | 1 | 109 | 0.9 | Bengali (India) (http://www.transifex.com/projects/p/python-meh/language/bn_IN/) | 
+ | [sugar-terminal](/f41/package/sugar-terminal) | 1 | 121 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [caja-actions](/f41/package/caja-actions) | 135 | 18812 | 0.7 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [plasma-oxygen](/f41/package/plasma-oxygen) | 4 | 615 | 0.7 | Bengali INDIA <discuss@ankur.org.in> | 
+ | [powerdevil](/f41/package/powerdevil) | 4 | 789 | 0.5 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [sugar-speak](/f41/package/sugar-speak) | 1 | 227 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [mate-user-guide](/f41/package/mate-user-guide) | 141 | 42973 | 0.3 | Bengali (India) (https://app.transifex.com/mate/teams/13566/bn_IN/) | 
+ | [plasma-drkonqi](/f41/package/plasma-drkonqi) | 4 | 1980 | 0.2 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [rpm-ostree](/f41/package/rpm-ostree) | 2 | 1480 | 0.1 | Bengali (India) | 
+ | [libdnf](/f41/package/libdnf) | 2 | 1664 | 0.1 | Bengali (India) | 
+ | [accountsservice](/f41/package/accountsservice) | 0 | 59 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/accountsservice/language/bn_IN/) | 
+ | [dnf](/f41/package/dnf) | 0 | 3887 | 0.0 | Bengali (India) (http://www.transifex.com/projects/p/dnf/language/bn_IN/) | 
+ | [fonts-tweak-tool](/f41/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Bengali (India) | 
+ | [fprintd](/f41/package/fprintd) | 0 | 433 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/fprintd/language/bn_IN/) | 
+ | [kf5-kauth](/f41/package/kf5-kauth) | 0 | 73 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kcodecs](/f41/package/kf5-kcodecs) | 0 | 370 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kcompletion](/f41/package/kf5-kcompletion) | 0 | 18 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kconfig](/f41/package/kf5-kconfig) | 0 | 289 | 0.0 | Bengali INDIA <discuss@ankur.org.in> | 
+ | [kf5-kcoreaddons](/f41/package/kf5-kcoreaddons) | 0 | 382 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kdesignerplugin](/f41/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kdnssd](/f41/package/kf5-kdnssd) | 0 | 3 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kglobalaccel](/f41/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kitemviews](/f41/package/kf5-kitemviews) | 0 | 7 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kjobwidgets](/f41/package/kf5-kjobwidgets) | 0 | 133 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-knotifications](/f41/package/kf5-knotifications) | 0 | 21 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kwidgetsaddons](/f41/package/kf5-kwidgetsaddons) | 0 | 1293 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-kwindowsystem](/f41/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf5-sonnet](/f41/package/kf5-sonnet) | 0 | 683 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kauth](/f41/package/kf6-kauth) | 0 | 73 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kcodecs](/f41/package/kf6-kcodecs) | 0 | 370 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kcompletion](/f41/package/kf6-kcompletion) | 0 | 18 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kconfig](/f41/package/kf6-kconfig) | 0 | 550 | 0.0 | Bengali INDIA <discuss@ankur.org.in> | 
+ | [kf6-kcoreaddons](/f41/package/kf6-kcoreaddons) | 0 | 474 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kdnssd](/f41/package/kf6-kdnssd) | 0 | 3 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kglobalaccel](/f41/package/kf6-kglobalaccel) | 0 | 34 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kitemviews](/f41/package/kf6-kitemviews) | 0 | 6 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kjobwidgets](/f41/package/kf6-kjobwidgets) | 0 | 139 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-knotifications](/f41/package/kf6-knotifications) | 0 | 0 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kwidgetsaddons](/f41/package/kf6-kwidgetsaddons) | 0 | 1277 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-kwindowsystem](/f41/package/kf6-kwindowsystem) | 0 | 2 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [kf6-sonnet](/f41/package/kf6-sonnet) | 0 | 684 | 0.0 | Bengali INDIA <anubad@lists.ankur.org.in> | 
+ | [libgxim](/f41/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libvirt-sandbox](/f41/package/libvirt-sandbox) | 0 | 617 | 0.0 | Bengali (India) <anubad@lists.ankur.org.in> | 
+ | [mingw-p11-kit](/f41/package/mingw-p11-kit) | 0 | 476 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/p11-kit/language/bn_IN/) | 
+ | [p11-kit](/f41/package/p11-kit) | 0 | 1764 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/p11-kit/language/bn_IN/) | 
+ | [phonon](/f41/package/phonon) | 0 | 235 | 0.0 | Bengali INDIA <fedora-trans-bn_IN@redhat.com> | 
+ | [python-fedora](/f41/package/python-fedora) | 0 | 214 | 0.0 | Bengali (India) | 
+ | [realmd](/f41/package/realmd) | 0 | 833 | 0.0 | Bengali (India) (http://www.transifex.com/freedesktop/realmd/language/bn_IN/) | 
+ | [retrace-server](/f41/package/retrace-server) | 0 | 433 | 0.0 | Bengali | 
+ | [shared-mime-info](/f41/package/shared-mime-info) | 0 | 2266 | 0.0 | Bengali (India) (http://app.transifex.com/freedesktop/shared-mime-info/language/bn_IN/) | 
+ | [sugar-clock](/f41/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f41/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [udisks2](/f41/package/udisks2) | 0 | 1929 | 0.0 |  | 
 {.sortable}
 
 

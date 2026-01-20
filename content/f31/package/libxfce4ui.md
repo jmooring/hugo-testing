@@ -18,66 +18,66 @@ The package libxfce4ui (version 4.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/bg.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/de.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/en_AU.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/es.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/he.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/hr.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/hu.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 1852 | 1852 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/hy_AM.po/mnt/stockage/packages/f31/libxfce4ui/po/hy.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/is.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ja.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/kk.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/lt.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ms.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ru.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/sq.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/sr.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 912 | 912 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/zh_TW.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 861 | 926 | 93.0 | /mnt/stockage/packages/f31/libxfce4ui/po/uk.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/en_GB.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/eu.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/id.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/ko.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/nn.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/oc.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/sl.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/sv.po | 
- | [cy]({{< ref "/f31/language/cy.md" >}}) | 752 | 912 | 82.5 | /mnt/stockage/packages/f31/libxfce4ui/po/cy.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 734 | 912 | 80.5 | /mnt/stockage/packages/f31/libxfce4ui/po/ro.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 733 | 912 | 80.4 | /mnt/stockage/packages/f31/libxfce4ui/po/ast.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 720 | 912 | 78.9 | /mnt/stockage/packages/f31/libxfce4ui/po/ar.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 718 | 912 | 78.7 | /mnt/stockage/packages/f31/libxfce4ui/po/ug.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 718 | 912 | 78.7 | /mnt/stockage/packages/f31/libxfce4ui/po/zh_HK.po | 
- | [ie]({{< ref "/f31/language/ie.md" >}}) | 660 | 926 | 71.3 | /mnt/stockage/packages/f31/libxfce4ui/po/ie.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 361 | 912 | 39.6 | /mnt/stockage/packages/f31/libxfce4ui/po/te.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 335 | 912 | 36.7 | /mnt/stockage/packages/f31/libxfce4ui/po/bn.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 299 | 854 | 35.0 | /mnt/stockage/packages/f31/libxfce4ui/po/vi.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 308 | 912 | 33.8 | /mnt/stockage/packages/f31/libxfce4ui/po/lv.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 293 | 912 | 32.1 | /mnt/stockage/packages/f31/libxfce4ui/po/am.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 281 | 912 | 30.8 | /mnt/stockage/packages/f31/libxfce4ui/po/ur.po | 
- | [ur_PK]({{< ref "/f31/language/ur_PK.md" >}}) | 281 | 912 | 30.8 | /mnt/stockage/packages/f31/libxfce4ui/po/ur_PK.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 163 | 850 | 19.2 | /mnt/stockage/packages/f31/libxfce4ui/po/si.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 144 | 855 | 16.8 | /mnt/stockage/packages/f31/libxfce4ui/po/pa.po | 
+ | [be](/f31/language/be) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/be.po | 
+ | [bg](/f31/language/bg) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/bg.po | 
+ | [ca](/f31/language/ca) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ca.po | 
+ | [cs](/f31/language/cs) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/cs.po | 
+ | [da](/f31/language/da) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/da.po | 
+ | [de](/f31/language/de) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/de.po | 
+ | [en_AU](/f31/language/en_AU) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/en_AU.po | 
+ | [es](/f31/language/es) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/es.po | 
+ | [fi](/f31/language/fi) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/fi.po | 
+ | [fr](/f31/language/fr) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/fr.po | 
+ | [gl](/f31/language/gl) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/gl.po | 
+ | [he](/f31/language/he) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/he.po | 
+ | [hr](/f31/language/hr) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/hr.po | 
+ | [hu](/f31/language/hu) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/hu.po | 
+ | [hy](/f31/language/hy) | 1852 | 1852 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/hy_AM.po/mnt/stockage/packages/f31/libxfce4ui/po/hy.po | 
+ | [is](/f31/language/is) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/is.po | 
+ | [it](/f31/language/it) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/it.po | 
+ | [ja](/f31/language/ja) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ja.po | 
+ | [kk](/f31/language/kk) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/kk.po | 
+ | [lt](/f31/language/lt) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/lt.po | 
+ | [ms](/f31/language/ms) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ms.po | 
+ | [nb_NO](/f31/language/nb_NO) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/nb.po | 
+ | [nl](/f31/language/nl) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/nl.po | 
+ | [pl](/f31/language/pl) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/pl.po | 
+ | [pt](/f31/language/pt) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/ru.po | 
+ | [sq](/f31/language/sq) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/sq.po | 
+ | [sr](/f31/language/sr) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/sr.po | 
+ | [th](/f31/language/th) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/th.po | 
+ | [tr](/f31/language/tr) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 926 | 926 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 912 | 912 | 100.0 | /mnt/stockage/packages/f31/libxfce4ui/po/zh_TW.po | 
+ | [uk](/f31/language/uk) | 861 | 926 | 93.0 | /mnt/stockage/packages/f31/libxfce4ui/po/uk.po | 
+ | [el](/f31/language/el) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/en_GB.po | 
+ | [eu](/f31/language/eu) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/eu.po | 
+ | [id](/f31/language/id) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/id.po | 
+ | [ko](/f31/language/ko) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/ko.po | 
+ | [nn](/f31/language/nn) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/nn.po | 
+ | [oc](/f31/language/oc) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/oc.po | 
+ | [sk](/f31/language/sk) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/sk.po | 
+ | [sl](/f31/language/sl) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/sl.po | 
+ | [sv](/f31/language/sv) | 754 | 912 | 82.7 | /mnt/stockage/packages/f31/libxfce4ui/po/sv.po | 
+ | [cy](/f31/language/cy) | 752 | 912 | 82.5 | /mnt/stockage/packages/f31/libxfce4ui/po/cy.po | 
+ | [ro](/f31/language/ro) | 734 | 912 | 80.5 | /mnt/stockage/packages/f31/libxfce4ui/po/ro.po | 
+ | [ast](/f31/language/ast) | 733 | 912 | 80.4 | /mnt/stockage/packages/f31/libxfce4ui/po/ast.po | 
+ | [ar](/f31/language/ar) | 720 | 912 | 78.9 | /mnt/stockage/packages/f31/libxfce4ui/po/ar.po | 
+ | [ug](/f31/language/ug) | 718 | 912 | 78.7 | /mnt/stockage/packages/f31/libxfce4ui/po/ug.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 718 | 912 | 78.7 | /mnt/stockage/packages/f31/libxfce4ui/po/zh_HK.po | 
+ | [ie](/f31/language/ie) | 660 | 926 | 71.3 | /mnt/stockage/packages/f31/libxfce4ui/po/ie.po | 
+ | [te](/f31/language/te) | 361 | 912 | 39.6 | /mnt/stockage/packages/f31/libxfce4ui/po/te.po | 
+ | [bn](/f31/language/bn) | 335 | 912 | 36.7 | /mnt/stockage/packages/f31/libxfce4ui/po/bn.po | 
+ | [vi](/f31/language/vi) | 299 | 854 | 35.0 | /mnt/stockage/packages/f31/libxfce4ui/po/vi.po | 
+ | [lv](/f31/language/lv) | 308 | 912 | 33.8 | /mnt/stockage/packages/f31/libxfce4ui/po/lv.po | 
+ | [am](/f31/language/am) | 293 | 912 | 32.1 | /mnt/stockage/packages/f31/libxfce4ui/po/am.po | 
+ | [ur](/f31/language/ur) | 281 | 912 | 30.8 | /mnt/stockage/packages/f31/libxfce4ui/po/ur.po | 
+ | [ur_PK](/f31/language/ur_PK) | 281 | 912 | 30.8 | /mnt/stockage/packages/f31/libxfce4ui/po/ur_PK.po | 
+ | [si](/f31/language/si) | 163 | 850 | 19.2 | /mnt/stockage/packages/f31/libxfce4ui/po/si.po | 
+ | [pa](/f31/language/pa) | 144 | 855 | 16.8 | /mnt/stockage/packages/f31/libxfce4ui/po/pa.po | 
 {.sortable}
 
 

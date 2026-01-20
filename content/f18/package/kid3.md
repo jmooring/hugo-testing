@@ -18,22 +18,22 @@ The package kid3 (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/it.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/nl.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1307 | 1310 | 99.8 | /mnt/stockage/packages/f18/kid3/po/fi.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 1303 | 1310 | 99.5 | /mnt/stockage/packages/f18/kid3/po/et.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1264 | 1310 | 96.5 | /mnt/stockage/packages/f18/kid3/po/ru.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1198 | 1310 | 91.5 | /mnt/stockage/packages/f18/kid3/po/pl.po | 
- | [sr@ijekavian]({{< ref "/f18/language/sr@ijekavian.md" >}}) | 1176 | 1310 | 89.8 | /mnt/stockage/packages/f18/kid3/po/sr@ijekavian.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 1175 | 1310 | 89.7 | /mnt/stockage/packages/f18/kid3/po/sr.po | 
- | [sr@ijekavian_Latn]({{< ref "/f18/language/sr@ijekavian_Latn.md" >}}) | 1175 | 1310 | 89.7 | /mnt/stockage/packages/f18/kid3/po/sr@ijekavianlatin.po | 
- | [sr_Latn]({{< ref "/f18/language/sr_Latn.md" >}}) | 1175 | 1310 | 89.7 | /mnt/stockage/packages/f18/kid3/po/sr@latin.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 1144 | 1310 | 87.3 | /mnt/stockage/packages/f18/kid3/po/tr.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 1115 | 1310 | 85.1 | /mnt/stockage/packages/f18/kid3/po/zh_TW.po | 
+ | [cs](/f18/language/cs) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/cs.po | 
+ | [de](/f18/language/de) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/de.po | 
+ | [es](/f18/language/es) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/es.po | 
+ | [fr](/f18/language/fr) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/fr.po | 
+ | [it](/f18/language/it) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/it.po | 
+ | [nl](/f18/language/nl) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f18/kid3/po/nl.po | 
+ | [fi](/f18/language/fi) | 1307 | 1310 | 99.8 | /mnt/stockage/packages/f18/kid3/po/fi.po | 
+ | [et](/f18/language/et) | 1303 | 1310 | 99.5 | /mnt/stockage/packages/f18/kid3/po/et.po | 
+ | [ru](/f18/language/ru) | 1264 | 1310 | 96.5 | /mnt/stockage/packages/f18/kid3/po/ru.po | 
+ | [pl](/f18/language/pl) | 1198 | 1310 | 91.5 | /mnt/stockage/packages/f18/kid3/po/pl.po | 
+ | [sr@ijekavian](/f18/language/sr@ijekavian) | 1176 | 1310 | 89.8 | /mnt/stockage/packages/f18/kid3/po/sr@ijekavian.po | 
+ | [sr](/f18/language/sr) | 1175 | 1310 | 89.7 | /mnt/stockage/packages/f18/kid3/po/sr.po | 
+ | [sr@ijekavian_Latn](/f18/language/sr@ijekavian_Latn) | 1175 | 1310 | 89.7 | /mnt/stockage/packages/f18/kid3/po/sr@ijekavianlatin.po | 
+ | [sr_Latn](/f18/language/sr_Latn) | 1175 | 1310 | 89.7 | /mnt/stockage/packages/f18/kid3/po/sr@latin.po | 
+ | [tr](/f18/language/tr) | 1144 | 1310 | 87.3 | /mnt/stockage/packages/f18/kid3/po/tr.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 1115 | 1310 | 85.1 | /mnt/stockage/packages/f18/kid3/po/zh_TW.po | 
 {.sortable}
 
 

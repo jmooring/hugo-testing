@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f21/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [lxinput]({{< ref "/f21/package/lxinput.md" >}}) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
- | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
- | [wicd]({{< ref "/f21/package/wicd.md" >}}) | 851 | 1138 | 74.8 | es_VE <LL@li.org> | 
- | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
- | [glpi]({{< ref "/f21/package/glpi.md" >}}) | 4199 | 9435 | 44.5 | Spanish (Venezuela) (http://www.transifex.com/projects/p/GLPI/language/es_VE/) | 
- | [openerp]({{< ref "/f21/package/openerp.md" >}}) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
- | [lxdm]({{< ref "/f21/package/lxdm.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 16650 | 49560 | 33.6 | Spanish (Venezuela) <es_VE@li.org> | 
- | [python-django]({{< ref "/f21/package/python-django.md" >}}) | 223 | 1061 | 21.0 | Spanish (Venezuela) (http://www.transifex.com/projects/p/django/language/es_VE/) | 
- | [lxpolkit]({{< ref "/f21/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | Spanish | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
+ | [libgweather](/f21/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f21/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [lxinput](/f21/package/lxinput) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [mate-applets](/f21/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
+ | [wicd](/f21/package/wicd) | 851 | 1138 | 74.8 | es_VE <LL@li.org> | 
+ | [libmateweather](/f21/package/libmateweather) | 361 | 487 | 74.1 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
+ | [glpi](/f21/package/glpi) | 4199 | 9435 | 44.5 | Spanish (Venezuela) (http://www.transifex.com/projects/p/GLPI/language/es_VE/) | 
+ | [openerp](/f21/package/openerp) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [lxdm](/f21/package/lxdm) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [openerp7](/f21/package/openerp7) | 16650 | 49560 | 33.6 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [python-django](/f21/package/python-django) | 223 | 1061 | 21.0 | Spanish (Venezuela) (http://www.transifex.com/projects/p/django/language/es_VE/) | 
+ | [lxpolkit](/f21/package/lxpolkit) | 0 | 15 | 0.0 | Spanish | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
 {.sortable}
 
 

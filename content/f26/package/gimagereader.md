@@ -18,22 +18,22 @@ The package gimagereader (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/de.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/es_ES.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/fr.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/it.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/cs.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/el.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/pl.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/ru.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/sl.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/tr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1088 | 1144 | 95.1 | /mnt/stockage/packages/f26/gimagereader/po/sv.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1080 | 1144 | 94.4 | /mnt/stockage/packages/f26/gimagereader/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 1080 | 1144 | 94.4 | /mnt/stockage/packages/f26/gimagereader/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 1080 | 1144 | 94.4 | /mnt/stockage/packages/f26/gimagereader/po/zh_HK.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 791 | 1144 | 69.1 | /mnt/stockage/packages/f26/gimagereader/po/uk.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 705 | 1144 | 61.6 | /mnt/stockage/packages/f26/gimagereader/po/pt_BR.po | 
+ | [de](/f26/language/de) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/de.po | 
+ | [en_US](/f26/language/en_US) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/es_ES.po | 
+ | [fr](/f26/language/fr) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/fr.po | 
+ | [it](/f26/language/it) | 1144 | 1144 | 100.0 | /mnt/stockage/packages/f26/gimagereader/po/it.po | 
+ | [cs](/f26/language/cs) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/cs.po | 
+ | [el](/f26/language/el) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/el.po | 
+ | [pl](/f26/language/pl) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/pl.po | 
+ | [ru](/f26/language/ru) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/ru.po | 
+ | [sl](/f26/language/sl) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/sl.po | 
+ | [tr](/f26/language/tr) | 1127 | 1144 | 98.5 | /mnt/stockage/packages/f26/gimagereader/po/tr.po | 
+ | [sv](/f26/language/sv) | 1088 | 1144 | 95.1 | /mnt/stockage/packages/f26/gimagereader/po/sv.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1080 | 1144 | 94.4 | /mnt/stockage/packages/f26/gimagereader/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 1080 | 1144 | 94.4 | /mnt/stockage/packages/f26/gimagereader/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 1080 | 1144 | 94.4 | /mnt/stockage/packages/f26/gimagereader/po/zh_HK.po | 
+ | [uk](/f26/language/uk) | 791 | 1144 | 69.1 | /mnt/stockage/packages/f26/gimagereader/po/uk.po | 
+ | [pt_BR](/f26/language/pt_BR) | 705 | 1144 | 61.6 | /mnt/stockage/packages/f26/gimagereader/po/pt_BR.po | 
 {.sortable}
 
 

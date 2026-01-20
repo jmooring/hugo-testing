@@ -18,15 +18,15 @@ The package fotoxx (version 14.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-ca.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-de.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-en.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-es.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-pt.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3310 | 3346 | 98.9 | /mnt/stockage/packages/f22/fotoxx/locales/translate-fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3307 | 3346 | 98.8 | /mnt/stockage/packages/f22/fotoxx/locales/translate-it.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 3303 | 3346 | 98.7 | /mnt/stockage/packages/f22/fotoxx/locales/translate-nl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 3296 | 3346 | 98.5 | /mnt/stockage/packages/f22/fotoxx/locales/translate-ru.po | 
+ | [ca](/f22/language/ca) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-ca.po | 
+ | [de](/f22/language/de) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-de.po | 
+ | [en](/f22/language/en) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-en.po | 
+ | [es](/f22/language/es) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-es.po | 
+ | [pt](/f22/language/pt) | 3346 | 3346 | 100.0 | /mnt/stockage/packages/f22/fotoxx/locales/translate-pt.po | 
+ | [fr](/f22/language/fr) | 3310 | 3346 | 98.9 | /mnt/stockage/packages/f22/fotoxx/locales/translate-fr.po | 
+ | [it](/f22/language/it) | 3307 | 3346 | 98.8 | /mnt/stockage/packages/f22/fotoxx/locales/translate-it.po | 
+ | [nl](/f22/language/nl) | 3303 | 3346 | 98.7 | /mnt/stockage/packages/f22/fotoxx/locales/translate-nl.po | 
+ | [ru](/f22/language/ru) | 3296 | 3346 | 98.5 | /mnt/stockage/packages/f22/fotoxx/locales/translate-ru.po | 
 {.sortable}
 
 

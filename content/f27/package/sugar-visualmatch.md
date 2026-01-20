@@ -18,108 +18,108 @@ The package sugar-visualmatch (version 49):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f27/language/ayc.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ayc.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/da.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/el.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/en.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/en_GB.po | 
- | [en_US]({{< ref "/f27/language/en_US.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/en_US.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fr.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hy.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/id.po | 
- | [mi]({{< ref "/f27/language/mi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mi.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nl.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/zh_TW.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 158 | 161 | 98.1 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 135 | 158 | 85.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pt.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/de.po | 
- | [hus]({{< ref "/f27/language/hus.md" >}}) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hus.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/it.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ne.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/si.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ta.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 118 | 158 | 74.7 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hi.po | 
- | [pap]({{< ref "/f27/language/pap.md" >}}) | 118 | 158 | 74.7 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pap.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 114 | 158 | 72.2 | /mnt/stockage/packages/f27/sugar-visualmatch/po/vi.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 111 | 158 | 70.3 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sv.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 109 | 158 | 69.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sq.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 97 | 158 | 61.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/th.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 63 | 158 | 39.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/he.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 47 | 158 | 29.7 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sr.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 46 | 158 | 29.1 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ca.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 37 | 158 | 23.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pt_BR.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 27 | 158 | 17.1 | /mnt/stockage/packages/f27/sugar-visualmatch/po/km.po | 
- | [qu]({{< ref "/f27/language/qu.md" >}}) | 7 | 158 | 4.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/quz.po | 
- | [nah]({{< ref "/f27/language/nah.md" >}}) | 4 | 158 | 2.5 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nah.po | 
- | [sm]({{< ref "/f27/language/sm.md" >}}) | 4 | 158 | 2.5 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sm.po | 
- | [am]({{< ref "/f27/language/am.md" >}}) | 3 | 158 | 1.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/am.po | 
- | [ay]({{< ref "/f27/language/ay.md" >}}) | 2 | 158 | 1.3 | /mnt/stockage/packages/f27/sugar-visualmatch/po/aym.po | 
- | [rw]({{< ref "/f27/language/rw.md" >}}) | 2 | 158 | 1.3 | /mnt/stockage/packages/f27/sugar-visualmatch/po/rw.po | 
- | [mn]({{< ref "/f27/language/mn.md" >}}) | 1 | 158 | 0.6 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mn.po | 
- | [tzm]({{< ref "/f27/language/tzm.md" >}}) | 1 | 158 | 0.6 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tzm.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/af.po | 
- | [ak]({{< ref "/f27/language/ak.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ak.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ar.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bg.po | 
- | [bi]({{< ref "/f27/language/bi.md" >}}) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bi.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bn.po | 
- | [bn_IN]({{< ref "/f27/language/bn_IN.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bn_IN.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bs.po | 
- | [cpp]({{< ref "/f27/language/cpp.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/cpp.po | 
- | [dz]({{< ref "/f27/language/dz.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/dz.po | 
- | [error]({{< ref "/f27/language/error.md" >}}) | 0 | 763 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tzo.po/mnt/stockage/packages/f27/sugar-visualmatch/po/quy.po/mnt/stockage/packages/f27/sugar-visualmatch/po/pis.po/mnt/stockage/packages/f27/sugar-visualmatch/po/pbs.po/mnt/stockage/packages/f27/sugar-visualmatch/po/mvo.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fa.po | 
- | [ff]({{< ref "/f27/language/ff.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ff.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fi.po | 
- | [fil]({{< ref "/f27/language/fil.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fil.po | 
- | [gn]({{< ref "/f27/language/gn.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/gn.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/gu.po | 
- | [ha]({{< ref "/f27/language/ha.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ha.po | 
- | [ht]({{< ref "/f27/language/ht.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ht.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hu.po | 
- | [ig]({{< ref "/f27/language/ig.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ig.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/is.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ja.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/kn.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ko.po | 
- | [kos]({{< ref "/f27/language/kos.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/kos.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ku.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/lt.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/lv.po | 
- | [mg]({{< ref "/f27/language/mg.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mg.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mk.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ml.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mr.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ms.po | 
- | [na]({{< ref "/f27/language/na.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/na.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nb.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nn.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pa.po | 
- | [prs]({{< ref "/f27/language/prs.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fa_AF.po | 
- | [ps]({{< ref "/f27/language/ps.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ps.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ru.po | 
- | [sd]({{< ref "/f27/language/sd.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sd.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sl.po | 
- | [son]({{< ref "/f27/language/son.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/son.po | 
- | [st]({{< ref "/f27/language/st.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/st.po | 
- | [sw]({{< ref "/f27/language/sw.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sw.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/te.po | 
- | [to]({{< ref "/f27/language/to.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/to.po | 
- | [tpi]({{< ref "/f27/language/tpi.md" >}}) | 0 | 131 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tpi.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tr.po | 
- | [tvl]({{< ref "/f27/language/tvl.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tvl.po | 
- | [tyv]({{< ref "/f27/language/tyv.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tyv.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ug.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/uk.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ur.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/wa.po | 
- | [yo]({{< ref "/f27/language/yo.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/zh_HK.po | 
+ | [ayc](/f27/language/ayc) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ayc.po | 
+ | [cs](/f27/language/cs) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/cs.po | 
+ | [da](/f27/language/da) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/da.po | 
+ | [el](/f27/language/el) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/el.po | 
+ | [en](/f27/language/en) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/en.po | 
+ | [en_GB](/f27/language/en_GB) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/en_GB.po | 
+ | [en_US](/f27/language/en_US) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/en_US.po | 
+ | [es](/f27/language/es) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/es.po | 
+ | [fr](/f27/language/fr) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fr.po | 
+ | [hy](/f27/language/hy) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hy.po | 
+ | [id](/f27/language/id) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/id.po | 
+ | [mi](/f27/language/mi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mi.po | 
+ | [nl](/f27/language/nl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nl.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 158 | 158 | 100.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/zh_TW.po | 
+ | [pl](/f27/language/pl) | 158 | 161 | 98.1 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pl.po | 
+ | [pt](/f27/language/pt) | 135 | 158 | 85.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pt.po | 
+ | [de](/f27/language/de) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/de.po | 
+ | [hus](/f27/language/hus) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hus.po | 
+ | [it](/f27/language/it) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/it.po | 
+ | [ne](/f27/language/ne) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ne.po | 
+ | [si](/f27/language/si) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/si.po | 
+ | [ta](/f27/language/ta) | 131 | 158 | 82.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ta.po | 
+ | [hi](/f27/language/hi) | 118 | 158 | 74.7 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hi.po | 
+ | [pap](/f27/language/pap) | 118 | 158 | 74.7 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pap.po | 
+ | [vi](/f27/language/vi) | 114 | 158 | 72.2 | /mnt/stockage/packages/f27/sugar-visualmatch/po/vi.po | 
+ | [sv](/f27/language/sv) | 111 | 158 | 70.3 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sv.po | 
+ | [sq](/f27/language/sq) | 109 | 158 | 69.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sq.po | 
+ | [th](/f27/language/th) | 97 | 158 | 61.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/th.po | 
+ | [he](/f27/language/he) | 63 | 158 | 39.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/he.po | 
+ | [sr](/f27/language/sr) | 47 | 158 | 29.7 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sr.po | 
+ | [ca](/f27/language/ca) | 46 | 158 | 29.1 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ca.po | 
+ | [pt_BR](/f27/language/pt_BR) | 37 | 158 | 23.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pt_BR.po | 
+ | [km](/f27/language/km) | 27 | 158 | 17.1 | /mnt/stockage/packages/f27/sugar-visualmatch/po/km.po | 
+ | [qu](/f27/language/qu) | 7 | 158 | 4.4 | /mnt/stockage/packages/f27/sugar-visualmatch/po/quz.po | 
+ | [nah](/f27/language/nah) | 4 | 158 | 2.5 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nah.po | 
+ | [sm](/f27/language/sm) | 4 | 158 | 2.5 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sm.po | 
+ | [am](/f27/language/am) | 3 | 158 | 1.9 | /mnt/stockage/packages/f27/sugar-visualmatch/po/am.po | 
+ | [ay](/f27/language/ay) | 2 | 158 | 1.3 | /mnt/stockage/packages/f27/sugar-visualmatch/po/aym.po | 
+ | [rw](/f27/language/rw) | 2 | 158 | 1.3 | /mnt/stockage/packages/f27/sugar-visualmatch/po/rw.po | 
+ | [mn](/f27/language/mn) | 1 | 158 | 0.6 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mn.po | 
+ | [tzm](/f27/language/tzm) | 1 | 158 | 0.6 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tzm.po | 
+ | [af](/f27/language/af) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/af.po | 
+ | [ak](/f27/language/ak) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ak.po | 
+ | [ar](/f27/language/ar) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ar.po | 
+ | [bg](/f27/language/bg) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bg.po | 
+ | [bi](/f27/language/bi) | 0 | 141 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bi.po | 
+ | [bn](/f27/language/bn) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bn.po | 
+ | [bn_IN](/f27/language/bn_IN) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bn_IN.po | 
+ | [bs](/f27/language/bs) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/bs.po | 
+ | [cpp](/f27/language/cpp) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/cpp.po | 
+ | [dz](/f27/language/dz) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/dz.po | 
+ | [error](/f27/language/error) | 0 | 763 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tzo.po/mnt/stockage/packages/f27/sugar-visualmatch/po/quy.po/mnt/stockage/packages/f27/sugar-visualmatch/po/pis.po/mnt/stockage/packages/f27/sugar-visualmatch/po/pbs.po/mnt/stockage/packages/f27/sugar-visualmatch/po/mvo.po | 
+ | [fa](/f27/language/fa) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fa.po | 
+ | [ff](/f27/language/ff) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ff.po | 
+ | [fi](/f27/language/fi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fi.po | 
+ | [fil](/f27/language/fil) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fil.po | 
+ | [gn](/f27/language/gn) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/gn.po | 
+ | [gu](/f27/language/gu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/gu.po | 
+ | [ha](/f27/language/ha) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ha.po | 
+ | [ht](/f27/language/ht) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ht.po | 
+ | [hu](/f27/language/hu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/hu.po | 
+ | [ig](/f27/language/ig) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ig.po | 
+ | [is](/f27/language/is) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/is.po | 
+ | [ja](/f27/language/ja) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ja.po | 
+ | [kn](/f27/language/kn) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/kn.po | 
+ | [ko](/f27/language/ko) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ko.po | 
+ | [kos](/f27/language/kos) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/kos.po | 
+ | [ku](/f27/language/ku) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ku.po | 
+ | [lt](/f27/language/lt) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/lt.po | 
+ | [lv](/f27/language/lv) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/lv.po | 
+ | [mg](/f27/language/mg) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mg.po | 
+ | [mk](/f27/language/mk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mk.po | 
+ | [ml](/f27/language/ml) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ml.po | 
+ | [mr](/f27/language/mr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/mr.po | 
+ | [ms](/f27/language/ms) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ms.po | 
+ | [na](/f27/language/na) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/na.po | 
+ | [nb_NO](/f27/language/nb_NO) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nb.po | 
+ | [nn](/f27/language/nn) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/nn.po | 
+ | [pa](/f27/language/pa) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/pa.po | 
+ | [prs](/f27/language/prs) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/fa_AF.po | 
+ | [ps](/f27/language/ps) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ps.po | 
+ | [ro](/f27/language/ro) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ro.po | 
+ | [ru](/f27/language/ru) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ru.po | 
+ | [sd](/f27/language/sd) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sd.po | 
+ | [sk](/f27/language/sk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sk.po | 
+ | [sl](/f27/language/sl) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sl.po | 
+ | [son](/f27/language/son) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/son.po | 
+ | [st](/f27/language/st) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/st.po | 
+ | [sw](/f27/language/sw) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/sw.po | 
+ | [te](/f27/language/te) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/te.po | 
+ | [to](/f27/language/to) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/to.po | 
+ | [tpi](/f27/language/tpi) | 0 | 131 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tpi.po | 
+ | [tr](/f27/language/tr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tr.po | 
+ | [tvl](/f27/language/tvl) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tvl.po | 
+ | [tyv](/f27/language/tyv) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/tyv.po | 
+ | [ug](/f27/language/ug) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ug.po | 
+ | [uk](/f27/language/uk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/uk.po | 
+ | [ur](/f27/language/ur) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/ur.po | 
+ | [wa](/f27/language/wa) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/wa.po | 
+ | [yo](/f27/language/yo) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/yo.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 0 | 158 | 0.0 | /mnt/stockage/packages/f27/sugar-visualmatch/po/zh_HK.po | 
 {.sortable}
 
 

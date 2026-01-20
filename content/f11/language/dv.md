@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f11/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [gnome-menus](/f11/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
 {.sortable}
 
 

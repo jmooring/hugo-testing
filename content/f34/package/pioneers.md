@@ -18,23 +18,23 @@ The package pioneers (version 15.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 3004 | 3004 | 100.0 | /mnt/stockage/packages/f34/pioneers/po/en_GB.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 3004 | 3004 | 100.0 | /mnt/stockage/packages/f34/pioneers/po/nl.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 2952 | 3004 | 98.3 | /mnt/stockage/packages/f34/pioneers/po/ca.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 2952 | 3004 | 98.3 | /mnt/stockage/packages/f34/pioneers/po/fr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 2952 | 3004 | 98.3 | /mnt/stockage/packages/f34/pioneers/po/it.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 2934 | 3004 | 97.7 | /mnt/stockage/packages/f34/pioneers/po/af.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 2934 | 3004 | 97.7 | /mnt/stockage/packages/f34/pioneers/po/ja.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 2934 | 3004 | 97.7 | /mnt/stockage/packages/f34/pioneers/po/zh_CN.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 2680 | 3004 | 89.2 | /mnt/stockage/packages/f34/pioneers/po/de.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 2553 | 3004 | 85.0 | /mnt/stockage/packages/f34/pioneers/po/pt.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 2520 | 3004 | 83.9 | /mnt/stockage/packages/f34/pioneers/po/sk.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 2517 | 3004 | 83.8 | /mnt/stockage/packages/f34/pioneers/po/es.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 2266 | 3004 | 75.4 | /mnt/stockage/packages/f34/pioneers/po/sv.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 2234 | 3004 | 74.4 | /mnt/stockage/packages/f34/pioneers/po/gl.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 2227 | 3004 | 74.1 | /mnt/stockage/packages/f34/pioneers/po/hu.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 2188 | 3004 | 72.8 | /mnt/stockage/packages/f34/pioneers/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 2140 | 3004 | 71.2 | /mnt/stockage/packages/f34/pioneers/po/da.po | 
+ | [en_GB](/f34/language/en_GB) | 3004 | 3004 | 100.0 | /mnt/stockage/packages/f34/pioneers/po/en_GB.po | 
+ | [nl](/f34/language/nl) | 3004 | 3004 | 100.0 | /mnt/stockage/packages/f34/pioneers/po/nl.po | 
+ | [ca](/f34/language/ca) | 2952 | 3004 | 98.3 | /mnt/stockage/packages/f34/pioneers/po/ca.po | 
+ | [fr](/f34/language/fr) | 2952 | 3004 | 98.3 | /mnt/stockage/packages/f34/pioneers/po/fr.po | 
+ | [it](/f34/language/it) | 2952 | 3004 | 98.3 | /mnt/stockage/packages/f34/pioneers/po/it.po | 
+ | [af](/f34/language/af) | 2934 | 3004 | 97.7 | /mnt/stockage/packages/f34/pioneers/po/af.po | 
+ | [ja](/f34/language/ja) | 2934 | 3004 | 97.7 | /mnt/stockage/packages/f34/pioneers/po/ja.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 2934 | 3004 | 97.7 | /mnt/stockage/packages/f34/pioneers/po/zh_CN.po | 
+ | [de](/f34/language/de) | 2680 | 3004 | 89.2 | /mnt/stockage/packages/f34/pioneers/po/de.po | 
+ | [pt](/f34/language/pt) | 2553 | 3004 | 85.0 | /mnt/stockage/packages/f34/pioneers/po/pt.po | 
+ | [sk](/f34/language/sk) | 2520 | 3004 | 83.9 | /mnt/stockage/packages/f34/pioneers/po/sk.po | 
+ | [es](/f34/language/es) | 2517 | 3004 | 83.8 | /mnt/stockage/packages/f34/pioneers/po/es.po | 
+ | [sv](/f34/language/sv) | 2266 | 3004 | 75.4 | /mnt/stockage/packages/f34/pioneers/po/sv.po | 
+ | [gl](/f34/language/gl) | 2234 | 3004 | 74.4 | /mnt/stockage/packages/f34/pioneers/po/gl.po | 
+ | [hu](/f34/language/hu) | 2227 | 3004 | 74.1 | /mnt/stockage/packages/f34/pioneers/po/hu.po | 
+ | [cs](/f34/language/cs) | 2188 | 3004 | 72.8 | /mnt/stockage/packages/f34/pioneers/po/cs.po | 
+ | [da](/f34/language/da) | 2140 | 3004 | 71.2 | /mnt/stockage/packages/f34/pioneers/po/da.po | 
 {.sortable}
 
 

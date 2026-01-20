@@ -42,8 +42,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f40/package/slick-greeter.md" >}}) | 211 | 216 | 97.7 | Venetian <vec@li.org> | 
- | [libreoffice]({{< ref "/f40/package/libreoffice.md" >}}) | 95305 | 171085 | 55.7 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/> | 
+ | [slick-greeter](/f40/package/slick-greeter) | 211 | 216 | 97.7 | Venetian <vec@li.org> | 
+ | [libreoffice](/f40/package/libreoffice) | 95305 | 171085 | 55.7 | Venetian <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/vec/> | 
 {.sortable}
 
 

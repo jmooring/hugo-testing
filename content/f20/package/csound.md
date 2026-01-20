@@ -18,9 +18,9 @@ The package csound (version 5.19.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f20/language/it.md" >}}) | 3975 | 14010 | 28.4 | /mnt/stockage/packages/f20/csound/po/italian.po | 
- | [es_CO]({{< ref "/f20/language/es_CO.md" >}}) | 3339 | 14010 | 23.8 | /mnt/stockage/packages/f20/csound/po/es_CO.po | 
- | [error]({{< ref "/f20/language/error.md" >}}) | 16201 | 84060 | 19.3 | /mnt/stockage/packages/f20/csound/po/american.po/mnt/stockage/packages/f20/csound/po/french.po/mnt/stockage/packages/f20/csound/po/csound.po/mnt/stockage/packages/f20/csound/po/russian.po/mnt/stockage/packages/f20/csound/po/german.po/mnt/stockage/packages/f20/csound/po/romanian.po | 
+ | [it](/f20/language/it) | 3975 | 14010 | 28.4 | /mnt/stockage/packages/f20/csound/po/italian.po | 
+ | [es_CO](/f20/language/es_CO) | 3339 | 14010 | 23.8 | /mnt/stockage/packages/f20/csound/po/es_CO.po | 
+ | [error](/f20/language/error) | 16201 | 84060 | 19.3 | /mnt/stockage/packages/f20/csound/po/american.po/mnt/stockage/packages/f20/csound/po/french.po/mnt/stockage/packages/f20/csound/po/csound.po/mnt/stockage/packages/f20/csound/po/russian.po/mnt/stockage/packages/f20/csound/po/german.po/mnt/stockage/packages/f20/csound/po/romanian.po | 
 {.sortable}
 
 

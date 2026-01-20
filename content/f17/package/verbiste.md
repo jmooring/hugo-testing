@@ -18,10 +18,10 @@ The package verbiste (version 0.1.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f17/language/da.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/el.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/fr.po | 
+ | [da](/f17/language/da) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/da.po | 
+ | [de](/f17/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/de.po | 
+ | [el](/f17/language/el) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/el.po | 
+ | [fr](/f17/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f17/verbiste/po/fr.po | 
 {.sortable}
 
 

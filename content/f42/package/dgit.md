@@ -18,11 +18,11 @@ The package dgit (version 13.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 19337 | 19530 | 99.0 | /mnt/stockage/packages/f42/dgit/po4a/dgit-downstream-dsc_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-bpo_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-debrebase_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-gbp_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-merge_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-native_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-nmu-simple_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-sponsorship_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-user_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/git-deborig_1.pt.po/mnt/stockage/packages/f42/dgit/po4a/git-debrebase_1.pt.po/mnt/stockage/packages/f42/dgit/po4a/git-debrebase_5.pt.po/mnt/stockage/packages/f42/dgit/po4a/tag2upload_5.pt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 6998 | 7089 | 98.7 | /mnt/stockage/packages/f42/dgit/po/nl.po/mnt/stockage/packages/f42/dgit/po4a/dgit-user_7.nl.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 259 | 266 | 97.4 | /mnt/stockage/packages/f42/dgit/po4a/git-deborig_1.fr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 217 | 266 | 81.6 | /mnt/stockage/packages/f42/dgit/po4a/git-deborig_1.de.po | 
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 10 | 5168 | 0.2 | /mnt/stockage/packages/f42/dgit/po/en_US.po | 
+ | [pt](/f42/language/pt) | 19337 | 19530 | 99.0 | /mnt/stockage/packages/f42/dgit/po4a/dgit-downstream-dsc_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-bpo_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-debrebase_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-gbp_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-merge_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-maint-native_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-nmu-simple_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-sponsorship_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/dgit-user_7.pt.po/mnt/stockage/packages/f42/dgit/po4a/git-deborig_1.pt.po/mnt/stockage/packages/f42/dgit/po4a/git-debrebase_1.pt.po/mnt/stockage/packages/f42/dgit/po4a/git-debrebase_5.pt.po/mnt/stockage/packages/f42/dgit/po4a/tag2upload_5.pt.po | 
+ | [nl](/f42/language/nl) | 6998 | 7089 | 98.7 | /mnt/stockage/packages/f42/dgit/po/nl.po/mnt/stockage/packages/f42/dgit/po4a/dgit-user_7.nl.po | 
+ | [fr](/f42/language/fr) | 259 | 266 | 97.4 | /mnt/stockage/packages/f42/dgit/po4a/git-deborig_1.fr.po | 
+ | [de](/f42/language/de) | 217 | 266 | 81.6 | /mnt/stockage/packages/f42/dgit/po4a/git-deborig_1.de.po | 
+ | [en_US](/f42/language/en_US) | 10 | 5168 | 0.2 | /mnt/stockage/packages/f42/dgit/po/en_US.po | 
 {.sortable}
 
 

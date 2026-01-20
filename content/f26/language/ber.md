@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f26/package/blueberry.md" >}}) | 13 | 141 | 9.2 | Berber (Other) <ber@li.org> | 
- | [shutter]({{< ref "/f26/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 4 | 545 | 0.7 | Berber (Other) <ber@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 4 | 656 | 0.6 | Berber (Other) <ber@li.org> | 
- | [mate-menu]({{< ref "/f26/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Berber (Other) <ber@li.org> | 
- | [stellarium]({{< ref "/f26/package/stellarium.md" >}}) | 0 | 18842 | 0.0 | Berber (Other) <ber@li.org> | 
+ | [blueberry](/f26/package/blueberry) | 13 | 141 | 9.2 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f26/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 4 | 545 | 0.7 | Berber (Other) <ber@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 4 | 656 | 0.6 | Berber (Other) <ber@li.org> | 
+ | [mate-menu](/f26/package/mate-menu) | 0 | 300 | 0.0 | Berber (Other) <ber@li.org> | 
+ | [stellarium](/f26/package/stellarium) | 0 | 18842 | 0.0 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

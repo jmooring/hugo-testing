@@ -18,15 +18,15 @@ The package qemu (version 8.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/bg.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/zh_CN.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f39/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f39/qemu/po/fr_FR.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 33 | 35 | 94.3 | /mnt/stockage/packages/f39/qemu/po/it.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 22 | 35 | 62.9 | /mnt/stockage/packages/f39/qemu/po/hu.po | 
+ | [bg](/f39/language/bg) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/bg.po | 
+ | [sv](/f39/language/sv) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/sv.po | 
+ | [tr](/f39/language/tr) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/tr.po | 
+ | [uk](/f39/language/uk) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 35 | 35 | 100.0 | /mnt/stockage/packages/f39/qemu/po/zh_CN.po | 
+ | [de](/f39/language/de) | 33 | 35 | 94.3 | /mnt/stockage/packages/f39/qemu/po/de_DE.po | 
+ | [fr](/f39/language/fr) | 33 | 35 | 94.3 | /mnt/stockage/packages/f39/qemu/po/fr_FR.po | 
+ | [it](/f39/language/it) | 33 | 35 | 94.3 | /mnt/stockage/packages/f39/qemu/po/it.po | 
+ | [hu](/f39/language/hu) | 22 | 35 | 62.9 | /mnt/stockage/packages/f39/qemu/po/hu.po | 
 {.sortable}
 
 

@@ -18,32 +18,32 @@ The package g4music (version 3.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f40/language/be.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/be.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/es.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/eu.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/fa.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/fi.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/hi.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f40/g4music/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f40/g4music/po/ja.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/oc.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/ru.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/sl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f40/g4music/po/zh_TW.po/mnt/stockage/packages/f40/g4music/po/zh_CN.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 158 | 166 | 95.2 | /mnt/stockage/packages/f40/g4music/po/fr.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 99 | 158 | 62.7 | /mnt/stockage/packages/f40/g4music/po/et.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 99 | 158 | 62.7 | /mnt/stockage/packages/f40/g4music/po/nl.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 189 | 309 | 61.2 | /mnt/stockage/packages/f40/g4music/po/ka.po | 
+ | [be](/f40/language/be) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/be.po | 
+ | [da](/f40/language/da) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/da.po | 
+ | [de](/f40/language/de) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/de.po | 
+ | [es](/f40/language/es) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/es.po | 
+ | [eu](/f40/language/eu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/eu.po | 
+ | [fa](/f40/language/fa) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/fa.po | 
+ | [fi](/f40/language/fi) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/fi.po | 
+ | [he](/f40/language/he) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/he.po | 
+ | [hi](/f40/language/hi) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/hi.po | 
+ | [hu](/f40/language/hu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/hu.po | 
+ | [id](/f40/language/id) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/id.po | 
+ | [it](/f40/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f40/g4music/po/it.po | 
+ | [ja](/f40/language/ja) | 158 | 158 | 100.0 | /mnt/stockage/packages/f40/g4music/po/ja.po | 
+ | [oc](/f40/language/oc) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/oc.po | 
+ | [pt_BR](/f40/language/pt_BR) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/ro.po | 
+ | [ru](/f40/language/ru) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/ru.po | 
+ | [sl](/f40/language/sl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/sl.po | 
+ | [sv](/f40/language/sv) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/sv.po | 
+ | [tr](/f40/language/tr) | 169 | 169 | 100.0 | /mnt/stockage/packages/f40/g4music/po/tr.po | 
+ | [uk](/f40/language/uk) | 309 | 309 | 100.0 | /mnt/stockage/packages/f40/g4music/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 616 | 616 | 100.0 | /mnt/stockage/packages/f40/g4music/po/zh_TW.po/mnt/stockage/packages/f40/g4music/po/zh_CN.po | 
+ | [fr](/f40/language/fr) | 158 | 166 | 95.2 | /mnt/stockage/packages/f40/g4music/po/fr.po | 
+ | [et](/f40/language/et) | 99 | 158 | 62.7 | /mnt/stockage/packages/f40/g4music/po/et.po | 
+ | [nl](/f40/language/nl) | 99 | 158 | 62.7 | /mnt/stockage/packages/f40/g4music/po/nl.po | 
+ | [ka](/f40/language/ka) | 189 | 309 | 61.2 | /mnt/stockage/packages/f40/g4music/po/ka.po | 
 {.sortable}
 
 

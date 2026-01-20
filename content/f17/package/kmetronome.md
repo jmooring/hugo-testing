@@ -18,10 +18,10 @@ The package kmetronome (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 671 | 671 | 100.0 | /mnt/stockage/packages/f17/kmetronome/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 671 | 671 | 100.0 | /mnt/stockage/packages/f17/kmetronome/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 671 | 671 | 100.0 | /mnt/stockage/packages/f17/kmetronome/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 670 | 671 | 99.9 | /mnt/stockage/packages/f17/kmetronome/po/fr.po | 
+ | [cs](/f17/language/cs) | 671 | 671 | 100.0 | /mnt/stockage/packages/f17/kmetronome/po/cs.po | 
+ | [de](/f17/language/de) | 671 | 671 | 100.0 | /mnt/stockage/packages/f17/kmetronome/po/de.po | 
+ | [es](/f17/language/es) | 671 | 671 | 100.0 | /mnt/stockage/packages/f17/kmetronome/po/es.po | 
+ | [fr](/f17/language/fr) | 670 | 671 | 99.9 | /mnt/stockage/packages/f17/kmetronome/po/fr.po | 
 {.sortable}
 
 

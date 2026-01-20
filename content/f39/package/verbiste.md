@@ -18,11 +18,11 @@ The package verbiste (version 0.1.49):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f39/verbiste/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f39/verbiste/po/it.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 81 | 82 | 98.8 | /mnt/stockage/packages/f39/verbiste/po/de.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 73 | 82 | 89.0 | /mnt/stockage/packages/f39/verbiste/po/da.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 73 | 82 | 89.0 | /mnt/stockage/packages/f39/verbiste/po/el.po | 
+ | [fr](/f39/language/fr) | 82 | 82 | 100.0 | /mnt/stockage/packages/f39/verbiste/po/fr.po | 
+ | [it](/f39/language/it) | 82 | 82 | 100.0 | /mnt/stockage/packages/f39/verbiste/po/it.po | 
+ | [de](/f39/language/de) | 81 | 82 | 98.8 | /mnt/stockage/packages/f39/verbiste/po/de.po | 
+ | [da](/f39/language/da) | 73 | 82 | 89.0 | /mnt/stockage/packages/f39/verbiste/po/da.po | 
+ | [el](/f39/language/el) | 73 | 82 | 89.0 | /mnt/stockage/packages/f39/verbiste/po/el.po | 
 {.sortable}
 
 

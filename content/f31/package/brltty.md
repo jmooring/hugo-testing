@@ -18,10 +18,10 @@ The package brltty (version 6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2636 | 2636 | 100.0 | /mnt/stockage/packages/f31/brltty/Messages/fr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 2496 | 2530 | 98.7 | /mnt/stockage/packages/f31/brltty/Messages/zh.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 2533 | 2703 | 93.7 | /mnt/stockage/packages/f31/brltty/Messages/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 194 | 2636 | 7.4 | /mnt/stockage/packages/f31/brltty/Messages/it.po | 
+ | [fr](/f31/language/fr) | 2636 | 2636 | 100.0 | /mnt/stockage/packages/f31/brltty/Messages/fr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 2496 | 2530 | 98.7 | /mnt/stockage/packages/f31/brltty/Messages/zh.po | 
+ | [de](/f31/language/de) | 2533 | 2703 | 93.7 | /mnt/stockage/packages/f31/brltty/Messages/de.po | 
+ | [it](/f31/language/it) | 194 | 2636 | 7.4 | /mnt/stockage/packages/f31/brltty/Messages/it.po | 
 {.sortable}
 
 

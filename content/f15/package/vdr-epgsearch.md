@@ -18,29 +18,29 @@ The package vdr-epgsearch (version 0.9.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 2425 | 2425 | 100.0 | /mnt/stockage/packages/f15/vdr-epgsearch/po/fi_FI.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2401 | 2425 | 99.0 | /mnt/stockage/packages/f15/vdr-epgsearch/po/de_DE.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 2326 | 2425 | 95.9 | /mnt/stockage/packages/f15/vdr-epgsearch/po/it_IT.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 2326 | 2425 | 95.9 | /mnt/stockage/packages/f15/vdr-epgsearch/po/lt_LT.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2281 | 2425 | 94.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/es_ES.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 2259 | 2425 | 93.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/sk_SK.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 2210 | 2425 | 91.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/nl_NL.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1857 | 2425 | 76.6 | /mnt/stockage/packages/f15/vdr-epgsearch/po/fr_FR.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 38 | 2425 | 1.6 | /mnt/stockage/packages/f15/vdr-epgsearch/po/pt_PT.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 6 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/pl_PL.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 5 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/hu_HU.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 5 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/sl_SI.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 4 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/nn_NO.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 4 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/sv_SE.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/ca_ES.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/cs_CZ.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/da_DK.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/el_GR.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/et_EE.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/hr_HR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/ro_RO.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/ru_RU.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 0 | 2425 | 0.0 | /mnt/stockage/packages/f15/vdr-epgsearch/po/tr_TR.po | 
+ | [fi](/f15/language/fi) | 2425 | 2425 | 100.0 | /mnt/stockage/packages/f15/vdr-epgsearch/po/fi_FI.po | 
+ | [de](/f15/language/de) | 2401 | 2425 | 99.0 | /mnt/stockage/packages/f15/vdr-epgsearch/po/de_DE.po | 
+ | [it](/f15/language/it) | 2326 | 2425 | 95.9 | /mnt/stockage/packages/f15/vdr-epgsearch/po/it_IT.po | 
+ | [lt](/f15/language/lt) | 2326 | 2425 | 95.9 | /mnt/stockage/packages/f15/vdr-epgsearch/po/lt_LT.po | 
+ | [es](/f15/language/es) | 2281 | 2425 | 94.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/es_ES.po | 
+ | [sk](/f15/language/sk) | 2259 | 2425 | 93.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/sk_SK.po | 
+ | [nl](/f15/language/nl) | 2210 | 2425 | 91.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/nl_NL.po | 
+ | [fr](/f15/language/fr) | 1857 | 2425 | 76.6 | /mnt/stockage/packages/f15/vdr-epgsearch/po/fr_FR.po | 
+ | [pt](/f15/language/pt) | 38 | 2425 | 1.6 | /mnt/stockage/packages/f15/vdr-epgsearch/po/pt_PT.po | 
+ | [pl](/f15/language/pl) | 6 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/pl_PL.po | 
+ | [hu](/f15/language/hu) | 5 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/hu_HU.po | 
+ | [sl](/f15/language/sl) | 5 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/sl_SI.po | 
+ | [nn](/f15/language/nn) | 4 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/nn_NO.po | 
+ | [sv](/f15/language/sv) | 4 | 2425 | 0.2 | /mnt/stockage/packages/f15/vdr-epgsearch/po/sv_SE.po | 
+ | [ca](/f15/language/ca) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/ca_ES.po | 
+ | [cs](/f15/language/cs) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/cs_CZ.po | 
+ | [da](/f15/language/da) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/da_DK.po | 
+ | [el](/f15/language/el) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/el_GR.po | 
+ | [et](/f15/language/et) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/et_EE.po | 
+ | [hr](/f15/language/hr) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/hr_HR.po | 
+ | [ro](/f15/language/ro) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/ro_RO.po | 
+ | [ru](/f15/language/ru) | 3 | 2425 | 0.1 | /mnt/stockage/packages/f15/vdr-epgsearch/po/ru_RU.po | 
+ | [tr](/f15/language/tr) | 0 | 2425 | 0.0 | /mnt/stockage/packages/f15/vdr-epgsearch/po/tr_TR.po | 
 {.sortable}
 
 

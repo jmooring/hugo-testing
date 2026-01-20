@@ -18,117 +18,117 @@ The package initial-setup (version 0.3.97):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f38/language/af.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/af.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/be.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/eu.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/fur.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ja.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ka.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/kk.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ko.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/nl.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/nn.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pa.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pt_BR.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/sk.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/uk.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 106 | 139 | 76.3 | /mnt/stockage/packages/f38/initial-setup/po/ru_RU.po/mnt/stockage/packages/f38/initial-setup/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 106 | 139 | 76.3 | /mnt/stockage/packages/f38/initial-setup/po/zh_CN.po/mnt/stockage/packages/f38/initial-setup/po/zh_CN.GB2312.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 106 | 139 | 76.3 | /mnt/stockage/packages/f38/initial-setup/po/zh_TW.po/mnt/stockage/packages/f38/initial-setup/po/zh_TW.Big5.po | 
- | [as]({{< ref "/f38/language/as.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/as.po | 
- | [bn_IN]({{< ref "/f38/language/bn_IN.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/bn_IN.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/gl.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/gu.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/hi.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/km.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/kn.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/ml.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/mr.po | 
- | [or]({{< ref "/f38/language/or.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/or.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/ro.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/sq.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/sr.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/ta.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/te.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/th.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 20 | 106 | 18.9 | /mnt/stockage/packages/f38/initial-setup/po/ia.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 20 | 139 | 14.4 | /mnt/stockage/packages/f38/initial-setup/po/no.po/mnt/stockage/packages/f38/initial-setup/po/nb.po | 
- | [kab]({{< ref "/f38/language/kab.md" >}}) | 10 | 106 | 9.4 | /mnt/stockage/packages/f38/initial-setup/po/kab.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 3 | 106 | 2.8 | /mnt/stockage/packages/f38/initial-setup/po/si.po | 
- | [ach]({{< ref "/f38/language/ach.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ach.po | 
- | [aln]({{< ref "/f38/language/aln.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/aln.po | 
- | [am]({{< ref "/f38/language/am.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/am.po | 
- | [anp]({{< ref "/f38/language/anp.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/anp.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ar.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ast.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/az.po | 
- | [bal]({{< ref "/f38/language/bal.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bal.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bg.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bn.po | 
- | [bo]({{< ref "/f38/language/bo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bo.po | 
- | [br]({{< ref "/f38/language/br.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/br.po | 
- | [brx]({{< ref "/f38/language/brx.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/brx.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bs.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/cy.po | 
- | [de_CH]({{< ref "/f38/language/de_CH.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/de_CH.po | 
- | [dz]({{< ref "/f38/language/dz.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/dz.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 0 | 106 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/el.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/en_GB.po | 
- | [en_US]({{< ref "/f38/language/en_US.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/en_US.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/eo.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/wba.po/mnt/stockage/packages/f38/initial-setup/po/kw@uccor.po/mnt/stockage/packages/f38/initial-setup/po/kw@kkcor.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/et.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/fa.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ga.po | 
- | [hy]({{< ref "/f38/language/hy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/hy.po | 
- | [ilo]({{< ref "/f38/language/ilo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ilo.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/is.po | 
- | [ks]({{< ref "/f38/language/ks.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ks.po | 
- | [ku]({{< ref "/f38/language/ku.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ku.po | 
- | [kw]({{< ref "/f38/language/kw.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/kw_GB.po/mnt/stockage/packages/f38/initial-setup/po/kw.po | 
- | [ky]({{< ref "/f38/language/ky.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ky.po | 
- | [la]({{< ref "/f38/language/la.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/la.po | 
- | [lo]({{< ref "/f38/language/lo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/lo.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/lv.po | 
- | [mai]({{< ref "/f38/language/mai.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mai.po | 
- | [mg]({{< ref "/f38/language/mg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mg.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mk.po | 
- | [mn]({{< ref "/f38/language/mn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mn.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ms.po | 
- | [my]({{< ref "/f38/language/my.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/my.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/nds.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ne.po | 
- | [nso]({{< ref "/f38/language/nso.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/nso.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/sl.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/sr@latin.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/tg.po | 
- | [tl]({{< ref "/f38/language/tl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/tl.po | 
- | [tw]({{< ref "/f38/language/tw.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/tw.po | 
- | [ur]({{< ref "/f38/language/ur.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ur.po | 
- | [uz]({{< ref "/f38/language/uz.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/uz.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/vi.po | 
- | [wo]({{< ref "/f38/language/wo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/wo.po | 
- | [xh]({{< ref "/f38/language/xh.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/xh.po | 
- | [yo]({{< ref "/f38/language/yo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/zh_HK.po | 
- | [zu]({{< ref "/f38/language/zu.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/zu.po | 
+ | [af](/f38/language/af) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/af.po | 
+ | [be](/f38/language/be) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/be.po | 
+ | [ca](/f38/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ca.po | 
+ | [cs](/f38/language/cs) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/cs.po | 
+ | [da](/f38/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/da.po | 
+ | [de](/f38/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/de.po | 
+ | [es](/f38/language/es) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/es.po | 
+ | [eu](/f38/language/eu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/eu.po | 
+ | [fi](/f38/language/fi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/fi.po | 
+ | [fr](/f38/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/fr.po | 
+ | [fur](/f38/language/fur) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/fur.po | 
+ | [he](/f38/language/he) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/he.po | 
+ | [hr](/f38/language/hr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/hr.po | 
+ | [hu](/f38/language/hu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/hu.po | 
+ | [id](/f38/language/id) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/id.po | 
+ | [it](/f38/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/it.po | 
+ | [ja](/f38/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ja.po | 
+ | [ka](/f38/language/ka) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ka.po | 
+ | [kk](/f38/language/kk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/kk.po | 
+ | [ko](/f38/language/ko) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/ko.po | 
+ | [nl](/f38/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/nl.po | 
+ | [nn](/f38/language/nn) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/nn.po | 
+ | [pa](/f38/language/pa) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pa.po | 
+ | [pl](/f38/language/pl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pl.po | 
+ | [pt](/f38/language/pt) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/pt_BR.po | 
+ | [sk](/f38/language/sk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/sk.po | 
+ | [sv](/f38/language/sv) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/sv.po | 
+ | [tr](/f38/language/tr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/tr.po | 
+ | [uk](/f38/language/uk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f38/initial-setup/po/uk.po | 
+ | [ru](/f38/language/ru) | 106 | 139 | 76.3 | /mnt/stockage/packages/f38/initial-setup/po/ru_RU.po/mnt/stockage/packages/f38/initial-setup/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 106 | 139 | 76.3 | /mnt/stockage/packages/f38/initial-setup/po/zh_CN.po/mnt/stockage/packages/f38/initial-setup/po/zh_CN.GB2312.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 106 | 139 | 76.3 | /mnt/stockage/packages/f38/initial-setup/po/zh_TW.po/mnt/stockage/packages/f38/initial-setup/po/zh_TW.Big5.po | 
+ | [as](/f38/language/as) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/as.po | 
+ | [bn_IN](/f38/language/bn_IN) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/bn_IN.po | 
+ | [gl](/f38/language/gl) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/gl.po | 
+ | [gu](/f38/language/gu) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/gu.po | 
+ | [hi](/f38/language/hi) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/hi.po | 
+ | [km](/f38/language/km) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/km.po | 
+ | [kn](/f38/language/kn) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/kn.po | 
+ | [ml](/f38/language/ml) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/ml.po | 
+ | [mr](/f38/language/mr) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/mr.po | 
+ | [or](/f38/language/or) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/or.po | 
+ | [ro](/f38/language/ro) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/ro.po | 
+ | [sq](/f38/language/sq) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/sq.po | 
+ | [sr](/f38/language/sr) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/sr.po | 
+ | [ta](/f38/language/ta) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/ta.po | 
+ | [te](/f38/language/te) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/te.po | 
+ | [th](/f38/language/th) | 33 | 106 | 31.1 | /mnt/stockage/packages/f38/initial-setup/po/th.po | 
+ | [ia](/f38/language/ia) | 20 | 106 | 18.9 | /mnt/stockage/packages/f38/initial-setup/po/ia.po | 
+ | [nb_NO](/f38/language/nb_NO) | 20 | 139 | 14.4 | /mnt/stockage/packages/f38/initial-setup/po/no.po/mnt/stockage/packages/f38/initial-setup/po/nb.po | 
+ | [kab](/f38/language/kab) | 10 | 106 | 9.4 | /mnt/stockage/packages/f38/initial-setup/po/kab.po | 
+ | [si](/f38/language/si) | 3 | 106 | 2.8 | /mnt/stockage/packages/f38/initial-setup/po/si.po | 
+ | [ach](/f38/language/ach) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ach.po | 
+ | [aln](/f38/language/aln) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/aln.po | 
+ | [am](/f38/language/am) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/am.po | 
+ | [anp](/f38/language/anp) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/anp.po | 
+ | [ar](/f38/language/ar) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ar.po | 
+ | [ast](/f38/language/ast) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ast.po | 
+ | [az](/f38/language/az) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/az.po | 
+ | [bal](/f38/language/bal) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bal.po | 
+ | [bg](/f38/language/bg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bg.po | 
+ | [bn](/f38/language/bn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bn.po | 
+ | [bo](/f38/language/bo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bo.po | 
+ | [br](/f38/language/br) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/br.po | 
+ | [brx](/f38/language/brx) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/brx.po | 
+ | [bs](/f38/language/bs) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/bs.po | 
+ | [cy](/f38/language/cy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/cy.po | 
+ | [de_CH](/f38/language/de_CH) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/de_CH.po | 
+ | [dz](/f38/language/dz) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/dz.po | 
+ | [el](/f38/language/el) | 0 | 106 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/el.po | 
+ | [en_GB](/f38/language/en_GB) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/en_GB.po | 
+ | [en_US](/f38/language/en_US) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/en_US.po | 
+ | [eo](/f38/language/eo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/eo.po | 
+ | [error](/f38/language/error) | 0 | 99 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/wba.po/mnt/stockage/packages/f38/initial-setup/po/kw@uccor.po/mnt/stockage/packages/f38/initial-setup/po/kw@kkcor.po | 
+ | [et](/f38/language/et) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/et.po | 
+ | [fa](/f38/language/fa) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/fa.po | 
+ | [ga](/f38/language/ga) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ga.po | 
+ | [hy](/f38/language/hy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/hy.po | 
+ | [ilo](/f38/language/ilo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ilo.po | 
+ | [is](/f38/language/is) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/is.po | 
+ | [ks](/f38/language/ks) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ks.po | 
+ | [ku](/f38/language/ku) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ku.po | 
+ | [kw](/f38/language/kw) | 0 | 66 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/kw_GB.po/mnt/stockage/packages/f38/initial-setup/po/kw.po | 
+ | [ky](/f38/language/ky) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ky.po | 
+ | [la](/f38/language/la) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/la.po | 
+ | [lo](/f38/language/lo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/lo.po | 
+ | [lt](/f38/language/lt) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/lt.po | 
+ | [lv](/f38/language/lv) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/lv.po | 
+ | [mai](/f38/language/mai) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mai.po | 
+ | [mg](/f38/language/mg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mg.po | 
+ | [mk](/f38/language/mk) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mk.po | 
+ | [mn](/f38/language/mn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/mn.po | 
+ | [ms](/f38/language/ms) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ms.po | 
+ | [my](/f38/language/my) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/my.po | 
+ | [nds](/f38/language/nds) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/nds.po | 
+ | [ne](/f38/language/ne) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ne.po | 
+ | [nso](/f38/language/nso) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/nso.po | 
+ | [sl](/f38/language/sl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/sl.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/sr@latin.po | 
+ | [tg](/f38/language/tg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/tg.po | 
+ | [tl](/f38/language/tl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/tl.po | 
+ | [tw](/f38/language/tw) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/tw.po | 
+ | [ur](/f38/language/ur) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/ur.po | 
+ | [uz](/f38/language/uz) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/uz.po | 
+ | [vi](/f38/language/vi) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/vi.po | 
+ | [wo](/f38/language/wo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/wo.po | 
+ | [xh](/f38/language/xh) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/xh.po | 
+ | [yo](/f38/language/yo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/yo.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/zh_HK.po | 
+ | [zu](/f38/language/zu) | 0 | 33 | 0.0 | /mnt/stockage/packages/f38/initial-setup/po/zu.po | 
 {.sortable}
 
 

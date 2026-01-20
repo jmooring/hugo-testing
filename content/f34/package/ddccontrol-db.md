@@ -18,11 +18,11 @@ The package ddccontrol-db (version 20220414):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f34/ddccontrol-db/po/es.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f34/ddccontrol-db/po/fr.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 368 | 380 | 96.8 | /mnt/stockage/packages/f34/ddccontrol-db/po/pl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 304 | 380 | 80.0 | /mnt/stockage/packages/f34/ddccontrol-db/po/ru.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 294 | 380 | 77.4 | /mnt/stockage/packages/f34/ddccontrol-db/po/zh_CN.po | 
+ | [es](/f34/language/es) | 394 | 394 | 100.0 | /mnt/stockage/packages/f34/ddccontrol-db/po/es.po | 
+ | [fr](/f34/language/fr) | 380 | 380 | 100.0 | /mnt/stockage/packages/f34/ddccontrol-db/po/fr.po | 
+ | [pl](/f34/language/pl) | 368 | 380 | 96.8 | /mnt/stockage/packages/f34/ddccontrol-db/po/pl.po | 
+ | [ru](/f34/language/ru) | 304 | 380 | 80.0 | /mnt/stockage/packages/f34/ddccontrol-db/po/ru.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 294 | 380 | 77.4 | /mnt/stockage/packages/f34/ddccontrol-db/po/zh_CN.po | 
 {.sortable}
 
 

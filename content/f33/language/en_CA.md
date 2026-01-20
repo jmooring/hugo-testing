@@ -38,302 +38,302 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f33/package/GConf2.md" >}}) | 4032 | 4032 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [aisleriot]({{< ref "/f33/package/aisleriot.md" >}}) | 2292 | 2292 | 100.0 | Canadian English | 
- | [alacarte]({{< ref "/f33/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [alleyoop]({{< ref "/f33/package/alleyoop.md" >}}) | 351 | 351 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [anjuta]({{< ref "/f33/package/anjuta.md" >}}) | 7910 | 7910 | 100.0 | Canadian English | 
- | [at-spi2-core]({{< ref "/f33/package/at-spi2-core.md" >}}) | 5 | 5 | 100.0 | English | 
- | [atomix]({{< ref "/f33/package/atomix.md" >}}) | 146 | 146 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [balsa]({{< ref "/f33/package/balsa.md" >}}) | 5802 | 5802 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [banshee]({{< ref "/f33/package/banshee.md" >}}) | 2133 | 2133 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [brasero]({{< ref "/f33/package/brasero.md" >}}) | 5493 | 5493 | 100.0 | English | 
- | [clamtk]({{< ref "/f33/package/clamtk.md" >}}) | 551 | 551 | 100.0 | English (Canada) <en_CA@li.org> | 
- | [coin]({{< ref "/f33/package/coin.md" >}}) | 252 | 252 | 100.0 | none | 
- | [dasher]({{< ref "/f33/package/dasher.md" >}}) | 443 | 443 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [deepin-terminal]({{< ref "/f33/package/deepin-terminal.md" >}}) | 108 | 108 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [devhelp]({{< ref "/f33/package/devhelp.md" >}}) | 456 | 456 | 100.0 | Canadian English | 
- | [drgeo]({{< ref "/f33/package/drgeo.md" >}}) | 1985 | 1985 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [ekiga]({{< ref "/f33/package/ekiga.md" >}}) | 5103 | 5103 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [elementary-notifications]({{< ref "/f33/package/elementary-notifications.md" >}}) | 3 | 3 | 100.0 | none | 
- | [eog]({{< ref "/f33/package/eog.md" >}}) | 1607 | 1607 | 100.0 | Canadian English | 
- | [epiphany]({{< ref "/f33/package/epiphany.md" >}}) | 2291 | 2291 | 100.0 | Canadian English | 
- | [evince]({{< ref "/f33/package/evince.md" >}}) | 1437 | 1437 | 100.0 | Canadian English | 
- | [evolution-data-server]({{< ref "/f33/package/evolution-data-server.md" >}}) | 5044 | 5044 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [file-roller]({{< ref "/f33/package/file-roller.md" >}}) | 1084 | 1084 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gconf-editor]({{< ref "/f33/package/gconf-editor.md" >}}) | 329 | 329 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gedit]({{< ref "/f33/package/gedit.md" >}}) | 4339 | 4339 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [genius]({{< ref "/f33/package/genius.md" >}}) | 5927 | 5927 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [ghex]({{< ref "/f33/package/ghex.md" >}}) | 966 | 966 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [glade]({{< ref "/f33/package/glade.md" >}}) | 3197 | 3197 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [glade2]({{< ref "/f33/package/glade2.md" >}}) | 5902 | 5902 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [glib-networking]({{< ref "/f33/package/glib-networking.md" >}}) | 4 | 4 | 100.0 | Canadian English <nicolasd@git.gnome.org> | 
- | [glib2]({{< ref "/f33/package/glib2.md" >}}) | 4801 | 4801 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [glom]({{< ref "/f33/package/glom.md" >}}) | 1217 | 1217 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gmpc]({{< ref "/f33/package/gmpc.md" >}}) | 18 | 18 | 100.0 | English (Canada) <en_CA@li.org> | 
- | [gnome-calculator]({{< ref "/f33/package/gnome-calculator.md" >}}) | 1399 | 1399 | 100.0 | Canadian English | 
- | [gnome-contacts]({{< ref "/f33/package/gnome-contacts.md" >}}) | 309 | 309 | 100.0 | English | 
- | [gnome-control-center]({{< ref "/f33/package/gnome-control-center.md" >}}) | 3477 | 3477 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-desktop]({{< ref "/f33/package/gnome-desktop.md" >}}) | 330 | 330 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-desktop3]({{< ref "/f33/package/gnome-desktop3.md" >}}) | 330 | 330 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-do]({{< ref "/f33/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | English (Canada) <en_CA@li.org> | 
- | [gnome-doc-utils]({{< ref "/f33/package/gnome-doc-utils.md" >}}) | 238 | 238 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-icon-theme]({{< ref "/f33/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-menus]({{< ref "/f33/package/gnome-menus.md" >}}) | 136 | 136 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-mime-data]({{< ref "/f33/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-phone-manager]({{< ref "/f33/package/gnome-phone-manager.md" >}}) | 502 | 502 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-session]({{< ref "/f33/package/gnome-session.md" >}}) | 888 | 888 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-system-monitor]({{< ref "/f33/package/gnome-system-monitor.md" >}}) | 645 | 645 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-terminal]({{< ref "/f33/package/gnome-terminal.md" >}}) | 4597 | 4597 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-themes-extra]({{< ref "/f33/package/gnome-themes-extra.md" >}}) | 24 | 24 | 100.0 | Canadian English | 
- | [gnome-user-share]({{< ref "/f33/package/gnome-user-share.md" >}}) | 70 | 70 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-vfs2]({{< ref "/f33/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gparted]({{< ref "/f33/package/gparted.md" >}}) | 2074 | 2074 | 100.0 | Canadian English | 
- | [gthumb]({{< ref "/f33/package/gthumb.md" >}}) | 2578 | 2578 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gtkhtml3]({{< ref "/f33/package/gtkhtml3.md" >}}) | 915 | 915 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gtksourceview2]({{< ref "/f33/package/gtksourceview2.md" >}}) | 863 | 863 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gtksourceview4]({{< ref "/f33/package/gtksourceview4.md" >}}) | 863 | 863 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gtranslator]({{< ref "/f33/package/gtranslator.md" >}}) | 1225 | 1225 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gucharmap]({{< ref "/f33/package/gucharmap.md" >}}) | 555 | 555 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [harvey]({{< ref "/f33/package/harvey.md" >}}) | 57 | 57 | 100.0 | none | 
- | [libbonobo]({{< ref "/f33/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libbonoboui]({{< ref "/f33/package/libbonoboui.md" >}}) | 361 | 361 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libcryptui]({{< ref "/f33/package/libcryptui.md" >}}) | 3327 | 3327 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libgdl]({{< ref "/f33/package/libgdl.md" >}}) | 686 | 686 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libgnome]({{< ref "/f33/package/libgnome.md" >}}) | 1656 | 1656 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libgnomecanvas]({{< ref "/f33/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libgnomeui]({{< ref "/f33/package/libgnomeui.md" >}}) | 1290 | 1290 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libgtop2]({{< ref "/f33/package/libgtop2.md" >}}) | 134 | 134 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libgweather]({{< ref "/f33/package/libgweather.md" >}}) | 6763 | 6763 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libwnck]({{< ref "/f33/package/libwnck.md" >}}) | 88 | 88 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [libwnck3]({{< ref "/f33/package/libwnck3.md" >}}) | 88 | 88 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [mate-icon-theme]({{< ref "/f33/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [meld]({{< ref "/f33/package/meld.md" >}}) | 871 | 871 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [metacity]({{< ref "/f33/package/metacity.md" >}}) | 8059 | 8059 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [midori]({{< ref "/f33/package/midori.md" >}}) | 3541 | 3541 | 100.0 | English (Canada) <en_CA@li.org> | 
- | [mingw-GConf2]({{< ref "/f33/package/mingw-GConf2.md" >}}) | 4032 | 4032 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [mingw-glib-networking]({{< ref "/f33/package/mingw-glib-networking.md" >}}) | 4 | 4 | 100.0 | Canadian English <nicolasd@git.gnome.org> | 
- | [mingw-glib2]({{< ref "/f33/package/mingw-glib2.md" >}}) | 4801 | 4801 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [muffin]({{< ref "/f33/package/muffin.md" >}}) | 8059 | 8059 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [mutter]({{< ref "/f33/package/mutter.md" >}}) | 8059 | 8059 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [nautilus]({{< ref "/f33/package/nautilus.md" >}}) | 7325 | 7325 | 100.0 | English | 
- | [nautilus-sendto]({{< ref "/f33/package/nautilus-sendto.md" >}}) | 173 | 173 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [pinta]({{< ref "/f33/package/pinta.md" >}}) | 1686 | 1686 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [python-django]({{< ref "/f33/package/python-django.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [rhythmbox]({{< ref "/f33/package/rhythmbox.md" >}}) | 3889 | 3889 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [seahorse]({{< ref "/f33/package/seahorse.md" >}}) | 3327 | 3327 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [shutter]({{< ref "/f33/package/shutter.md" >}}) | 3093 | 3093 | 100.0 | English (Canada) <en_CA@li.org> | 
- | [sound-juicer]({{< ref "/f33/package/sound-juicer.md" >}}) | 702 | 702 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [system-switch-java]({{< ref "/f33/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Canadian English | 
- | [tomboy]({{< ref "/f33/package/tomboy.md" >}}) | 3278 | 3278 | 100.0 | English | 
- | [totem]({{< ref "/f33/package/totem.md" >}}) | 2453 | 2453 | 100.0 | Canadian English | 
- | [totem-pl-parser]({{< ref "/f33/package/totem-pl-parser.md" >}}) | 1795 | 1795 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [trader]({{< ref "/f33/package/trader.md" >}}) | 2036 | 2036 | 100.0 | English (Canadian) <(nothing)> | 
- | [vino]({{< ref "/f33/package/vino.md" >}}) | 544 | 544 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [vte]({{< ref "/f33/package/vte.md" >}}) | 108 | 108 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [vte291]({{< ref "/f33/package/vte291.md" >}}) | 108 | 108 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [xfce4-hardware-monitor-plugin]({{< ref "/f33/package/xfce4-hardware-monitor-plugin.md" >}}) | 363 | 363 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [xfce4-settings]({{< ref "/f33/package/xfce4-settings.md" >}}) | 1940 | 1940 | 100.0 | English (Canada) (https://www.transifex.com/xfce/teams/16840/en_CA/) | 
- | [xfce4-time-out-plugin]({{< ref "/f33/package/xfce4-time-out-plugin.md" >}}) | 106 | 106 | 100.0 | English (Canada) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_CA/) | 
- | [xfconf]({{< ref "/f33/package/xfconf.md" >}}) | 458 | 458 | 100.0 | English (Canada) (http://www.transifex.com/xfce/xfconf/language/en_CA/) | 
- | [xfdesktop]({{< ref "/f33/package/xfdesktop.md" >}}) | 1037 | 1037 | 100.0 | English (Canada) (https://www.transifex.com/xfce/teams/16840/en_CA/) | 
- | [xfwm4]({{< ref "/f33/package/xfwm4.md" >}}) | 632 | 632 | 100.0 | English (Canada) (https://www.transifex.com/xfce/teams/16840/en_CA/) | 
- | [yelp]({{< ref "/f33/package/yelp.md" >}}) | 792 | 792 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [yelp-xsl]({{< ref "/f33/package/yelp-xsl.md" >}}) | 238 | 238 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [zenity]({{< ref "/f33/package/zenity.md" >}}) | 559 | 559 | 100.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-applets]({{< ref "/f33/package/gnome-applets.md" >}}) | 3762 | 3769 | 99.8 | Canadian English <adamw@gnome.org> | 
- | [regexxer]({{< ref "/f33/package/regexxer.md" >}}) | 466 | 467 | 99.8 | Canadian English <adamw@gnome.org> | 
- | [pyhoca-gui]({{< ref "/f33/package/pyhoca-gui.md" >}}) | 1859 | 1865 | 99.7 | none | 
- | [evolution]({{< ref "/f33/package/evolution.md" >}}) | 18293 | 18362 | 99.6 | Canadian English <adamw@gnome.org> | 
- | [atk]({{< ref "/f33/package/atk.md" >}}) | 370 | 375 | 98.7 | Canadian English <adamw@gnome.org> | 
- | [mingw-atk]({{< ref "/f33/package/mingw-atk.md" >}}) | 370 | 375 | 98.7 | Canadian English <adamw@gnome.org> | 
- | [mozo]({{< ref "/f33/package/mozo.md" >}}) | 42 | 43 | 97.7 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gigolo]({{< ref "/f33/package/gigolo.md" >}}) | 454 | 467 | 97.2 | English (Canada) (http://www.transifex.com/xfce/xfce-apps/language/en_CA/) | 
- | [switchboard-plug-notifications]({{< ref "/f33/package/switchboard-plug-notifications.md" >}}) | 138 | 142 | 97.2 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/en_CA/> | 
- | [switchboard-plug-sharing]({{< ref "/f33/package/switchboard-plug-sharing.md" >}}) | 136 | 140 | 97.1 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/en_CA/> | 
- | [gnome-nettool]({{< ref "/f33/package/gnome-nettool.md" >}}) | 501 | 520 | 96.3 | Canadian English <adamw@gnome.org> | 
- | [dippi]({{< ref "/f33/package/dippi.md" >}}) | 381 | 397 | 96.0 | none | 
- | [dia]({{< ref "/f33/package/dia.md" >}}) | 5368 | 5711 | 94.0 | Canadian English <adamw@gnome.org> | 
- | [switchboard-plug-printers]({{< ref "/f33/package/switchboard-plug-printers.md" >}}) | 338 | 362 | 93.4 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/en_CA/> | 
- | [wingpanel-indicator-power]({{< ref "/f33/package/wingpanel-indicator-power.md" >}}) | 109 | 117 | 93.2 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/en_CA/> | 
- | [slick-greeter]({{< ref "/f33/package/slick-greeter.md" >}}) | 195 | 211 | 92.4 | English (Canada) <en_CA@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f33/package/wingpanel-indicator-network.md" >}}) | 89 | 97 | 91.8 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/en_CA/> | 
- | [gftp]({{< ref "/f33/package/gftp.md" >}}) | 3096 | 3375 | 91.7 | Canadian English <adamw@gnome.org> | 
- | [wingpanel-indicator-session]({{< ref "/f33/package/wingpanel-indicator-session.md" >}}) | 72 | 81 | 88.9 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/en_CA/> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f33/package/switchboard-plug-onlineaccounts.md" >}}) | 141 | 160 | 88.1 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/en_CA/> | 
- | [wingpanel-indicator-notifications]({{< ref "/f33/package/wingpanel-indicator-notifications.md" >}}) | 33 | 38 | 86.8 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/en_CA/> | 
- | [gdk-pixbuf2]({{< ref "/f33/package/gdk-pixbuf2.md" >}}) | 1166 | 1348 | 86.5 | Canadian English <adamw@gnome.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f33/package/mingw-gdk-pixbuf.md" >}}) | 1166 | 1348 | 86.5 | Canadian English <adamw@gnome.org> | 
- | [gnome-search-tool]({{< ref "/f33/package/gnome-search-tool.md" >}}) | 1167 | 1359 | 85.9 | Canadian English <adamw@gnome.org> | 
- | [wingpanel]({{< ref "/f33/package/wingpanel.md" >}}) | 16 | 19 | 84.2 | LANGUAGE <LL@li.org> | 
- | [caja-actions]({{< ref "/f33/package/caja-actions.md" >}}) | 1303 | 1554 | 83.8 | Canadian English <adamw@gnome.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f33/package/elementary-shortcut-overlay.md" >}}) | 79 | 95 | 83.2 | English (Canada) <https://weblate.elementary.io/projects/desktop/shortcut-overlay/en_CA/> | 
- | [elementary-camera]({{< ref "/f33/package/elementary-camera.md" >}}) | 54 | 65 | 83.1 | English (Canada) <https://weblate.elementary.io/projects/camera/camera/en_CA/> | 
- | [gtk2]({{< ref "/f33/package/gtk2.md" >}}) | 11354 | 13704 | 82.9 | Canadian English <adamw@gnome.org> | 
- | [mingw-gtk2]({{< ref "/f33/package/mingw-gtk2.md" >}}) | 11354 | 13704 | 82.9 | Canadian English <adamw@gnome.org> | 
- | [switchboard-plug-about]({{< ref "/f33/package/switchboard-plug-about.md" >}}) | 78 | 96 | 81.2 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/en_CA/> | 
- | [fragments]({{< ref "/f33/package/fragments.md" >}}) | 1622 | 2006 | 80.9 | English (Canada) (https://www.transifex.com/transmissionbt/teams/33778/en_CA/) | 
- | [transmission]({{< ref "/f33/package/transmission.md" >}}) | 1615 | 1998 | 80.8 | English (Canada) (https://www.transifex.com/transmissionbt/teams/33778/en_CA/) | 
- | [elementary-photos]({{< ref "/f33/package/elementary-photos.md" >}}) | 3141 | 3910 | 80.3 | English (Canada) <https://weblate.elementary.io/projects/photos/photos/en_CA/> | 
- | [wingpanel-applications-menu]({{< ref "/f33/package/wingpanel-applications-menu.md" >}}) | 236 | 294 | 80.3 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_CA/> | 
- | [chromium]({{< ref "/f33/package/chromium.md" >}}) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
- | [gtk3]({{< ref "/f33/package/gtk3.md" >}}) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
- | [gtk4]({{< ref "/f33/package/gtk4.md" >}}) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
- | [mingw-gtk3]({{< ref "/f33/package/mingw-gtk3.md" >}}) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
- | [switchboard-plug-a11y]({{< ref "/f33/package/switchboard-plug-a11y.md" >}}) | 97 | 125 | 77.6 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/en_CA/> | 
- | [deluge]({{< ref "/f33/package/deluge.md" >}}) | 2026 | 2616 | 77.4 | English (Canada) <en_CA@li.org> | 
- | [elementary-music]({{< ref "/f33/package/elementary-music.md" >}}) | 1008 | 1308 | 77.1 | English (Canada) <https://weblate.elementary.io/projects/music/music/en_CA/> | 
- | [gnome-dictionary]({{< ref "/f33/package/gnome-dictionary.md" >}}) | 633 | 833 | 76.0 | Canadian English <adamw@gnome.org> | 
- | [switchboard-plug-applications]({{< ref "/f33/package/switchboard-plug-applications.md" >}}) | 71 | 95 | 74.7 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/en_CA/> | 
- | [gimp]({{< ref "/f33/package/gimp.md" >}}) | 20036 | 26833 | 74.7 | Canadian English <adamw@gnome.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f33/package/switchboard-plug-pantheon-shell.md" >}}) | 135 | 181 | 74.6 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/en_CA/> | 
- | [tali]({{< ref "/f33/package/tali.md" >}}) | 314 | 421 | 74.6 | Canadian English | 
- | [gnome-robots]({{< ref "/f33/package/gnome-robots.md" >}}) | 435 | 597 | 72.9 | Canadian English | 
- | [switchboard-plug-keyboard]({{< ref "/f33/package/switchboard-plug-keyboard.md" >}}) | 383 | 530 | 72.3 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/en_CA/> | 
- | [tuxpaint]({{< ref "/f33/package/tuxpaint.md" >}}) | 1198 | 1662 | 72.1 |  | 
- | [switchboard-plug-display]({{< ref "/f33/package/switchboard-plug-display.md" >}}) | 100 | 139 | 71.9 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/en_CA/> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f33/package/wingpanel-indicator-bluetooth.md" >}}) | 21 | 30 | 70.0 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/en_CA/> | 
- | [switchboard-plug-networking]({{< ref "/f33/package/switchboard-plug-networking.md" >}}) | 325 | 474 | 68.6 | English (Canada) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/en_CA/> | 
- | [elementary-screenshot-tool]({{< ref "/f33/package/elementary-screenshot-tool.md" >}}) | 141 | 212 | 66.5 | English (Canada) <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/en_CA/> | 
- | [gnome-chess]({{< ref "/f33/package/gnome-chess.md" >}}) | 913 | 1390 | 65.7 | Canadian English | 
- | [avogadro]({{< ref "/f33/package/avogadro.md" >}}) | 4316 | 6607 | 65.3 | English (Canada) <en_CA@li.org> | 
- | [camorama]({{< ref "/f33/package/camorama.md" >}}) | 501 | 775 | 64.6 | Canadian English <adamw@gnome.org> | 
- | [gedit-plugins]({{< ref "/f33/package/gedit-plugins.md" >}}) | 751 | 1205 | 62.3 | Canadian English <adamw@gnome.org> | 
- | [mate-menus]({{< ref "/f33/package/mate-menus.md" >}}) | 60 | 97 | 61.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gnome-panel]({{< ref "/f33/package/gnome-panel.md" >}}) | 2167 | 3520 | 61.6 | Canadian English <adamw@gnome.org> | 
- | [lxmenu-data]({{< ref "/f33/package/lxmenu-data.md" >}}) | 59 | 97 | 60.8 | Canadian English <adamw@gnome.org> | 
- | [quadrapassel]({{< ref "/f33/package/quadrapassel.md" >}}) | 256 | 428 | 59.8 | Canadian English | 
- | [elementary-calculator]({{< ref "/f33/package/elementary-calculator.md" >}}) | 76 | 130 | 58.5 | LANGUAGE <LL@li.org> | 
- | [elementary-code]({{< ref "/f33/package/elementary-code.md" >}}) | 671 | 1151 | 58.3 | English (Canada) <https://weblate.elementary.io/projects/code/code/en_CA/> | 
- | [marco]({{< ref "/f33/package/marco.md" >}}) | 2479 | 4339 | 57.1 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [webkit2gtk3]({{< ref "/f33/package/webkit2gtk3.md" >}}) | 1441 | 2621 | 55.0 | Canadian English | 
- | [five-or-more]({{< ref "/f33/package/five-or-more.md" >}}) | 155 | 282 | 55.0 | Canadian English | 
- | [switchboard-plug-sound]({{< ref "/f33/package/switchboard-plug-sound.md" >}}) | 83 | 152 | 54.6 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/en_CA/> | 
- | [orca]({{< ref "/f33/package/orca.md" >}}) | 708 | 1304 | 54.3 | Canadian English <adamw@gnome.org> | 
- | [libmateweather]({{< ref "/f33/package/libmateweather.md" >}}) | 3334 | 6142 | 54.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [pan]({{< ref "/f33/package/pan.md" >}}) | 1670 | 3168 | 52.7 | Canadian English <adamw@gnome.org> | 
- | [wingpanel-indicator-nightlight]({{< ref "/f33/package/wingpanel-indicator-nightlight.md" >}}) | 16 | 31 | 51.6 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/en_CA/> | 
- | [seahorse-caja]({{< ref "/f33/package/seahorse-caja.md" >}}) | 216 | 421 | 51.3 | Canadian English <adamw@gnome.org> | 
- | [seahorse-nautilus]({{< ref "/f33/package/seahorse-nautilus.md" >}}) | 216 | 421 | 51.3 | Canadian English <adamw@gnome.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f33/package/wingpanel-indicator-keyboard.md" >}}) | 19 | 38 | 50.0 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/en_CA/> | 
- | [wingpanel-indicator-sound]({{< ref "/f33/package/wingpanel-indicator-sound.md" >}}) | 26 | 53 | 49.1 | LANGUAGE <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f33/package/elementary-calendar.md" >}}) | 335 | 703 | 47.7 | English (Canada) <https://l10n.elementary.io/projects/calendar/calendar/en_CA/> | 
- | [wingpanel-indicator-datetime]({{< ref "/f33/package/wingpanel-indicator-datetime.md" >}}) | 60 | 128 | 46.9 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f33/package/switchboard.md" >}}) | 58 | 124 | 46.8 | English (Canada) <en_CA@li.org> | 
- | [granite]({{< ref "/f33/package/granite.md" >}}) | 123 | 269 | 45.7 | English (Canada) <https://weblate.elementary.io/projects/desktop/granite/en_CA/> | 
- | [pantheon-agent-geoclue2]({{< ref "/f33/package/pantheon-agent-geoclue2.md" >}}) | 46 | 101 | 45.5 | English (Canada) <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/en_CA/> | 
- | [mate-screensaver]({{< ref "/f33/package/mate-screensaver.md" >}}) | 458 | 1020 | 44.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [mate-panel]({{< ref "/f33/package/mate-panel.md" >}}) | 2902 | 6727 | 43.1 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [four-in-a-row]({{< ref "/f33/package/four-in-a-row.md" >}}) | 110 | 256 | 43.0 | Canadian English | 
- | [elementary-files]({{< ref "/f33/package/elementary-files.md" >}}) | 1247 | 2911 | 42.8 | English (Canada) <https://weblate.elementary.io/projects/files/files/en_CA/> | 
- | [elementary-videos]({{< ref "/f33/package/elementary-videos.md" >}}) | 148 | 346 | 42.8 | English (Canada) <https://weblate.elementary.io/projects/videos/videos/en_CA/> | 
- | [caja]({{< ref "/f33/package/caja.md" >}}) | 4083 | 9625 | 42.4 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gnome-system-log]({{< ref "/f33/package/gnome-system-log.md" >}}) | 220 | 522 | 42.1 | Canadian English <adamw@gnome.org> | 
- | [clementine]({{< ref "/f33/package/clementine.md" >}}) | 2206 | 5251 | 42.0 | English (Canada) (http://www.transifex.com/davidsansome/clementine/language/en_CA/) | 
- | [xed]({{< ref "/f33/package/xed.md" >}}) | 1946 | 4642 | 41.9 | English (Canada) (http://www.transifex.com/projects/p/MATE/language/en_CA/) | 
- | [mate-calc]({{< ref "/f33/package/mate-calc.md" >}}) | 1313 | 3178 | 41.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [deja-dup]({{< ref "/f33/package/deja-dup.md" >}}) | 665 | 1623 | 41.0 | English (Canada) <en_CA@li.org> | 
- | [lightdm-gtk]({{< ref "/f33/package/lightdm-gtk.md" >}}) | 35 | 87 | 40.2 | English (Canada) <en_CA@li.org> | 
- | [bleachbit]({{< ref "/f33/package/bleachbit.md" >}}) | 721 | 1808 | 39.9 | English (Canada) <en_CA@li.org> | 
- | [elementary-capnet-assist]({{< ref "/f33/package/elementary-capnet-assist.md" >}}) | 32 | 82 | 39.0 | English (Canada) <https://weblate.elementary.io/projects/desktop/capnet-assist/en_CA/> | 
- | [gnome-settings-daemon]({{< ref "/f33/package/gnome-settings-daemon.md" >}}) | 398 | 1034 | 38.5 | Canadian English <adamw@gnome.org> | 
- | [gnome-shell-extension-netspeed]({{< ref "/f33/package/gnome-shell-extension-netspeed.md" >}}) | 21 | 56 | 37.5 | English | 
- | [switchboard-plug-bluetooth]({{< ref "/f33/package/switchboard-plug-bluetooth.md" >}}) | 70 | 188 | 37.2 | English (Canada) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/en_CA/> | 
- | [sawfish]({{< ref "/f33/package/sawfish.md" >}}) | 2370 | 6443 | 36.8 | Canadian English <adamw@gnome.org> | 
- | [geary]({{< ref "/f33/package/geary.md" >}}) | 398 | 1101 | 36.1 | English (Canada) (http://www.transifex.com/projects/p/geary/language/en_CA/) | 
- | [mate-terminal]({{< ref "/f33/package/mate-terminal.md" >}}) | 2996 | 8372 | 35.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [elementary-terminal]({{< ref "/f33/package/elementary-terminal.md" >}}) | 158 | 442 | 35.7 | English (Canada) <https://weblate.elementary.io/projects/terminal/terminal/en_CA/> | 
- | [xreader]({{< ref "/f33/package/xreader.md" >}}) | 583 | 1693 | 34.4 | English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/) | 
- | [pantheon-agent-polkit]({{< ref "/f33/package/pantheon-agent-polkit.md" >}}) | 16 | 48 | 33.3 | English (Canada) <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/en_CA/> | 
- | [gnome-klotski]({{< ref "/f33/package/gnome-klotski.md" >}}) | 64 | 194 | 33.0 | Canadian English | 
- | [swell-foop]({{< ref "/f33/package/swell-foop.md" >}}) | 79 | 266 | 29.7 | Canadian English | 
- | [goffice]({{< ref "/f33/package/goffice.md" >}}) | 1810 | 6201 | 29.2 | English/Canada <adamw@FreeBSD.org> | 
- | [gnome-nibbles]({{< ref "/f33/package/gnome-nibbles.md" >}}) | 129 | 447 | 28.9 | Canadian English | 
- | [gnome-mines]({{< ref "/f33/package/gnome-mines.md" >}}) | 98 | 344 | 28.5 | Canadian English | 
- | [avogadro2]({{< ref "/f33/package/avogadro2.md" >}}) | 129 | 462 | 27.9 | English (Canada) <en_CA@li.org> | 
- | [gnumeric]({{< ref "/f33/package/gnumeric.md" >}}) | 9681 | 35046 | 27.6 | Canadian English <adamw@gnome.org> | 
- | [gnome-mahjongg]({{< ref "/f33/package/gnome-mahjongg.md" >}}) | 83 | 304 | 27.3 | Canadian English | 
- | [elementary-sideload]({{< ref "/f33/package/elementary-sideload.md" >}}) | 61 | 224 | 27.2 | none | 
- | [stellarium]({{< ref "/f33/package/stellarium.md" >}}) | 38189 | 141404 | 27.0 | English (Canada) (https://www.transifex.com/stellarium/teams/80998/en_CA/) | 
- | [mate-desktop]({{< ref "/f33/package/mate-desktop.md" >}}) | 583 | 2224 | 26.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gala]({{< ref "/f33/package/gala.md" >}}) | 51 | 197 | 25.9 | English (Canada) <https://weblate.elementary.io/projects/desktop/gala/en_CA/> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f33/package/switchboard-plug-mouse-touchpad.md" >}}) | 59 | 232 | 25.4 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/en_CA/> | 
- | [optimizer]({{< ref "/f33/package/optimizer.md" >}}) | 69 | 282 | 24.5 | none | 
- | [exaile]({{< ref "/f33/package/exaile.md" >}}) | 964 | 4067 | 23.7 | English (Canada) <https://hosted.weblate.org/projects/exaile/master/en_CA/> | 
- | [gtksourceview3]({{< ref "/f33/package/gtksourceview3.md" >}}) | 72 | 322 | 22.4 | Canadian English <adamw@gnome.org> | 
- | [mingw-gtksourceview3]({{< ref "/f33/package/mingw-gtksourceview3.md" >}}) | 72 | 322 | 22.4 | Canadian English <adamw@gnome.org> | 
- | [mate-utils]({{< ref "/f33/package/mate-utils.md" >}}) | 2220 | 10304 | 21.5 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gnome-tetravex]({{< ref "/f33/package/gnome-tetravex.md" >}}) | 46 | 220 | 20.9 | Canadian English | 
- | [mate-session-manager]({{< ref "/f33/package/mate-session-manager.md" >}}) | 144 | 712 | 20.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [quodlibet]({{< ref "/f33/package/quodlibet.md" >}}) | 1142 | 5716 | 20.0 | Joe Wreschnig <piman@sacredchao.net> | 
- | [elementary-planner]({{< ref "/f33/package/elementary-planner.md" >}}) | 593 | 3023 | 19.6 | LANGUAGE <LL@li.org> | 
- | [pluma]({{< ref "/f33/package/pluma.md" >}}) | 2464 | 13120 | 18.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [homebank]({{< ref "/f33/package/homebank.md" >}}) | 518 | 2792 | 18.6 | English (Canada) <en_CA@li.org> | 
- | [atril]({{< ref "/f33/package/atril.md" >}}) | 674 | 3846 | 17.5 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gnome-screenshot]({{< ref "/f33/package/gnome-screenshot.md" >}}) | 55 | 319 | 17.2 | Canadian English <adamw@gnome.org> | 
- | [terminator]({{< ref "/f33/package/terminator.md" >}}) | 250 | 1450 | 17.2 | English (Canada) (https://www.transifex.com/terminator/teams/109338/en_CA/) | 
- | [mate-menu]({{< ref "/f33/package/mate-menu.md" >}}) | 52 | 308 | 16.9 | English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/) | 
- | [backintime]({{< ref "/f33/package/backintime.md" >}}) | 312 | 1972 | 15.8 | English (Canada) <en_CA@li.org> | 
- | [libmypaint]({{< ref "/f33/package/libmypaint.md" >}}) | 346 | 2303 | 15.0 | English (Canada) <https://hosted.weblate.org/projects/mypaint/libmypaint/en_CA/> | 
- | [libmypaint2]({{< ref "/f33/package/libmypaint2.md" >}}) | 346 | 2311 | 15.0 | English (Canada) <https://hosted.weblate.org/projects/mypaint/libmypaint/en_CA/> | 
- | [mypaint]({{< ref "/f33/package/mypaint.md" >}}) | 980 | 6573 | 14.9 | English (Canada) <https://hosted.weblate.org/projects/mypaint/mypaint/en_CA/> | 
- | [eom]({{< ref "/f33/package/eom.md" >}}) | 732 | 4951 | 14.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [mate-settings-daemon]({{< ref "/f33/package/mate-settings-daemon.md" >}}) | 320 | 2197 | 14.6 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [blueberry]({{< ref "/f33/package/blueberry.md" >}}) | 24 | 166 | 14.5 | English (Canada) <en_CA@li.org> | 
- | [onboard]({{< ref "/f33/package/onboard.md" >}}) | 332 | 2318 | 14.3 | English (Canada) <en_CA@li.org> | 
- | [caja-extensions]({{< ref "/f33/package/caja-extensions.md" >}}) | 95 | 671 | 14.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [gnome-commander]({{< ref "/f33/package/gnome-commander.md" >}}) | 1068 | 7896 | 13.5 | Canadian English <adamw@gnome.org> | 
- | [nemo-extensions]({{< ref "/f33/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | English (Canada) <en_CA@li.org> | 
- | [lightsoff]({{< ref "/f33/package/lightsoff.md" >}}) | 12 | 97 | 12.4 | Canadian English | 
- | [mate-power-manager]({{< ref "/f33/package/mate-power-manager.md" >}}) | 628 | 5139 | 12.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [plank]({{< ref "/f33/package/plank.md" >}}) | 23 | 189 | 12.2 | English (Canada) <en_CA@li.org> | 
- | [mate-themes]({{< ref "/f33/package/mate-themes.md" >}}) | 9 | 74 | 12.2 | English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/) | 
- | [engrampa]({{< ref "/f33/package/engrampa.md" >}}) | 929 | 7817 | 11.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [mate-applets]({{< ref "/f33/package/mate-applets.md" >}}) | 1684 | 15853 | 10.6 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [libexif]({{< ref "/f33/package/libexif.md" >}}) | 705 | 7005 | 10.1 | none | 
- | [iagno]({{< ref "/f33/package/iagno.md" >}}) | 32 | 322 | 9.9 | Canadian English | 
- | [avogadro2-libs]({{< ref "/f33/package/avogadro2-libs.md" >}}) | 307 | 3466 | 8.9 | English (Canada) <en_CA@li.org> | 
- | [gxmessage]({{< ref "/f33/package/gxmessage.md" >}}) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
- | [taxi]({{< ref "/f33/package/taxi.md" >}}) | 5 | 62 | 8.1 | LANGUAGE <LL@li.org> | 
- | [mate-media]({{< ref "/f33/package/mate-media.md" >}}) | 19 | 239 | 7.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [mate-system-monitor]({{< ref "/f33/package/mate-system-monitor.md" >}}) | 384 | 4911 | 7.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [mate-control-center]({{< ref "/f33/package/mate-control-center.md" >}}) | 672 | 8602 | 7.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 1345 | 19510 | 6.9 | English (Canada) <en_CA@li.org> | 
- | [mate-backgrounds]({{< ref "/f33/package/mate-backgrounds.md" >}}) | 4 | 65 | 6.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [picard]({{< ref "/f33/package/picard.md" >}}) | 671 | 11040 | 6.1 | English (Canada) (http://www.transifex.com/musicbrainz/musicbrainz/language/en_CA/) | 
- | [gnome-keyring]({{< ref "/f33/package/gnome-keyring.md" >}}) | 28 | 490 | 5.7 | Canadian English <adamw@gnome.org> | 
- | [gnome-sudoku]({{< ref "/f33/package/gnome-sudoku.md" >}}) | 22 | 399 | 5.5 | Canadian English | 
- | [gdm]({{< ref "/f33/package/gdm.md" >}}) | 30 | 650 | 4.6 | Canadian English <adamw@gnome.org> | 
- | [gnome-power-manager]({{< ref "/f33/package/gnome-power-manager.md" >}}) | 18 | 432 | 4.2 | Canadian English <adamw@gnome.org> | 
- | [cogl]({{< ref "/f33/package/cogl.md" >}}) | 15 | 361 | 4.2 | Canadian English | 
- | [baobab]({{< ref "/f33/package/baobab.md" >}}) | 22 | 540 | 4.1 | Canadian English <adamw@gnome.org> | 
- | [elementary-greeter]({{< ref "/f33/package/elementary-greeter.md" >}}) | 6 | 166 | 3.6 | English (Canada) <https://weblate.elementary.io/projects/desktop/greeter/en_CA/> | 
- | [libmatekbd]({{< ref "/f33/package/libmatekbd.md" >}}) | 10 | 308 | 3.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [light-locker]({{< ref "/f33/package/light-locker.md" >}}) | 7 | 260 | 2.7 | English (Canada) (http://www.transifex.com/the_cavalry/light-locker/language/en_CA/) | 
- | [mate-polkit]({{< ref "/f33/package/mate-polkit.md" >}}) | 3 | 123 | 2.4 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [libmatemixer]({{< ref "/f33/package/libmatemixer.md" >}}) | 5 | 242 | 2.1 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [libgda]({{< ref "/f33/package/libgda.md" >}}) | 222 | 11142 | 2.0 | Canadian English <adamw@gnome.org> | 
- | [pidgin]({{< ref "/f33/package/pidgin.md" >}}) | 277 | 15835 | 1.7 | English (Canada) (http://www.transifex.com/pidgin/pidgin/language/en_CA/) | 
- | [python-apt]({{< ref "/f33/package/python-apt.md" >}}) | 8 | 544 | 1.5 | Canadian English <adamw@gnome.org> | 
- | [mate-notification-daemon]({{< ref "/f33/package/mate-notification-daemon.md" >}}) | 2 | 152 | 1.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [mate-user-admin]({{< ref "/f33/package/mate-user-admin.md" >}}) | 8 | 628 | 1.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [network-manager-applet]({{< ref "/f33/package/network-manager-applet.md" >}}) | 53 | 4478 | 1.2 | Canadian English <adamw@gnome.org> | 
- | [mate-sensors-applet]({{< ref "/f33/package/mate-sensors-applet.md" >}}) | 18 | 2160 | 0.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [calibre]({{< ref "/f33/package/calibre.md" >}}) | 1338 | 161062 | 0.8 | English (Canada) (http://www.transifex.com/calibre/calibre/language/en_CA/) | 
- | [inkscape]({{< ref "/f33/package/inkscape.md" >}}) | 248 | 40929 | 0.6 | Canadian English <adamw@gnome.org> | 
- | [libnma]({{< ref "/f33/package/libnma.md" >}}) | 5 | 917 | 0.5 | Canadian English <adamw@gnome.org> | 
- | [mate-user-guide]({{< ref "/f33/package/mate-user-guide.md" >}}) | 94 | 44680 | 0.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
- | [avahi]({{< ref "/f33/package/avahi.md" >}}) | 1 | 868 | 0.1 |  | 
- | [NetworkManager]({{< ref "/f33/package/NetworkManager.md" >}}) | 5 | 26763 | 0.0 | Canadian English <adamw@gnome.org> | 
- | [bookworm]({{< ref "/f33/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [cinnamon-desktop]({{< ref "/f33/package/cinnamon-desktop.md" >}}) | 0 | 234 | 0.0 | Canadian English <adamw@gnome.org> | 
- | [feedreader]({{< ref "/f33/package/feedreader.md" >}}) | 0 | 1374 | 0.0 |  | 
- | [gcr]({{< ref "/f33/package/gcr.md" >}}) | 0 | 622 | 0.0 | Canadian English <adamw@gnome.org> | 
- | [gnome-font-viewer]({{< ref "/f33/package/gnome-font-viewer.md" >}}) | 0 | 32 | 0.0 | Canadian English <adamw@gnome.org> | 
- | [lightdm]({{< ref "/f33/package/lightdm.md" >}}) | 0 | 163 | 0.0 | English (Canada) <en_CA@li.org> | 
- | [nutty]({{< ref "/f33/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [python-django-rest-framework]({{< ref "/f33/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | English (Canada) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en_CA/) | 
- | [soundconverter]({{< ref "/f33/package/soundconverter.md" >}}) | 0 | 507 | 0.0 | English (Canada) <en_CA@li.org> | 
+ | [GConf2](/f33/package/GConf2) | 4032 | 4032 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [aisleriot](/f33/package/aisleriot) | 2292 | 2292 | 100.0 | Canadian English | 
+ | [alacarte](/f33/package/alacarte) | 42 | 42 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [alleyoop](/f33/package/alleyoop) | 351 | 351 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [anjuta](/f33/package/anjuta) | 7910 | 7910 | 100.0 | Canadian English | 
+ | [at-spi2-core](/f33/package/at-spi2-core) | 5 | 5 | 100.0 | English | 
+ | [atomix](/f33/package/atomix) | 146 | 146 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [balsa](/f33/package/balsa) | 5802 | 5802 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [banshee](/f33/package/banshee) | 2133 | 2133 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [brasero](/f33/package/brasero) | 5493 | 5493 | 100.0 | English | 
+ | [clamtk](/f33/package/clamtk) | 551 | 551 | 100.0 | English (Canada) <en_CA@li.org> | 
+ | [coin](/f33/package/coin) | 252 | 252 | 100.0 | none | 
+ | [dasher](/f33/package/dasher) | 443 | 443 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [deepin-terminal](/f33/package/deepin-terminal) | 108 | 108 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [devhelp](/f33/package/devhelp) | 456 | 456 | 100.0 | Canadian English | 
+ | [drgeo](/f33/package/drgeo) | 1985 | 1985 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [ekiga](/f33/package/ekiga) | 5103 | 5103 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [elementary-notifications](/f33/package/elementary-notifications) | 3 | 3 | 100.0 | none | 
+ | [eog](/f33/package/eog) | 1607 | 1607 | 100.0 | Canadian English | 
+ | [epiphany](/f33/package/epiphany) | 2291 | 2291 | 100.0 | Canadian English | 
+ | [evince](/f33/package/evince) | 1437 | 1437 | 100.0 | Canadian English | 
+ | [evolution-data-server](/f33/package/evolution-data-server) | 5044 | 5044 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [file-roller](/f33/package/file-roller) | 1084 | 1084 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gconf-editor](/f33/package/gconf-editor) | 329 | 329 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gedit](/f33/package/gedit) | 4339 | 4339 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [genius](/f33/package/genius) | 5927 | 5927 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [ghex](/f33/package/ghex) | 966 | 966 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [glade](/f33/package/glade) | 3197 | 3197 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [glade2](/f33/package/glade2) | 5902 | 5902 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [glib-networking](/f33/package/glib-networking) | 4 | 4 | 100.0 | Canadian English <nicolasd@git.gnome.org> | 
+ | [glib2](/f33/package/glib2) | 4801 | 4801 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [glom](/f33/package/glom) | 1217 | 1217 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gmpc](/f33/package/gmpc) | 18 | 18 | 100.0 | English (Canada) <en_CA@li.org> | 
+ | [gnome-calculator](/f33/package/gnome-calculator) | 1399 | 1399 | 100.0 | Canadian English | 
+ | [gnome-contacts](/f33/package/gnome-contacts) | 309 | 309 | 100.0 | English | 
+ | [gnome-control-center](/f33/package/gnome-control-center) | 3477 | 3477 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-desktop](/f33/package/gnome-desktop) | 330 | 330 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-desktop3](/f33/package/gnome-desktop3) | 330 | 330 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-do](/f33/package/gnome-do) | 612 | 612 | 100.0 | English (Canada) <en_CA@li.org> | 
+ | [gnome-doc-utils](/f33/package/gnome-doc-utils) | 238 | 238 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-icon-theme](/f33/package/gnome-icon-theme) | 43 | 43 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-menus](/f33/package/gnome-menus) | 136 | 136 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-mime-data](/f33/package/gnome-mime-data) | 887 | 887 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-phone-manager](/f33/package/gnome-phone-manager) | 502 | 502 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-session](/f33/package/gnome-session) | 888 | 888 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-system-monitor](/f33/package/gnome-system-monitor) | 645 | 645 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-terminal](/f33/package/gnome-terminal) | 4597 | 4597 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-themes-extra](/f33/package/gnome-themes-extra) | 24 | 24 | 100.0 | Canadian English | 
+ | [gnome-user-share](/f33/package/gnome-user-share) | 70 | 70 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-vfs2](/f33/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gparted](/f33/package/gparted) | 2074 | 2074 | 100.0 | Canadian English | 
+ | [gthumb](/f33/package/gthumb) | 2578 | 2578 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gtkhtml3](/f33/package/gtkhtml3) | 915 | 915 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gtksourceview2](/f33/package/gtksourceview2) | 863 | 863 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gtksourceview4](/f33/package/gtksourceview4) | 863 | 863 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gtranslator](/f33/package/gtranslator) | 1225 | 1225 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gucharmap](/f33/package/gucharmap) | 555 | 555 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [harvey](/f33/package/harvey) | 57 | 57 | 100.0 | none | 
+ | [libbonobo](/f33/package/libbonobo) | 547 | 547 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libbonoboui](/f33/package/libbonoboui) | 361 | 361 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libcryptui](/f33/package/libcryptui) | 3327 | 3327 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libgdl](/f33/package/libgdl) | 686 | 686 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libgnome](/f33/package/libgnome) | 1656 | 1656 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libgnomecanvas](/f33/package/libgnomecanvas) | 378 | 378 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libgnomeui](/f33/package/libgnomeui) | 1290 | 1290 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libgtop2](/f33/package/libgtop2) | 134 | 134 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libgweather](/f33/package/libgweather) | 6763 | 6763 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libwnck](/f33/package/libwnck) | 88 | 88 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [libwnck3](/f33/package/libwnck3) | 88 | 88 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [mate-icon-theme](/f33/package/mate-icon-theme) | 4 | 4 | 100.0 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [meld](/f33/package/meld) | 871 | 871 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [metacity](/f33/package/metacity) | 8059 | 8059 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [midori](/f33/package/midori) | 3541 | 3541 | 100.0 | English (Canada) <en_CA@li.org> | 
+ | [mingw-GConf2](/f33/package/mingw-GConf2) | 4032 | 4032 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [mingw-glib-networking](/f33/package/mingw-glib-networking) | 4 | 4 | 100.0 | Canadian English <nicolasd@git.gnome.org> | 
+ | [mingw-glib2](/f33/package/mingw-glib2) | 4801 | 4801 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [muffin](/f33/package/muffin) | 8059 | 8059 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [mutter](/f33/package/mutter) | 8059 | 8059 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [nautilus](/f33/package/nautilus) | 7325 | 7325 | 100.0 | English | 
+ | [nautilus-sendto](/f33/package/nautilus-sendto) | 173 | 173 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [pinta](/f33/package/pinta) | 1686 | 1686 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [python-django](/f33/package/python-django) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [rhythmbox](/f33/package/rhythmbox) | 3889 | 3889 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [seahorse](/f33/package/seahorse) | 3327 | 3327 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [shutter](/f33/package/shutter) | 3093 | 3093 | 100.0 | English (Canada) <en_CA@li.org> | 
+ | [sound-juicer](/f33/package/sound-juicer) | 702 | 702 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [system-switch-java](/f33/package/system-switch-java) | 81 | 81 | 100.0 | Canadian English | 
+ | [tomboy](/f33/package/tomboy) | 3278 | 3278 | 100.0 | English | 
+ | [totem](/f33/package/totem) | 2453 | 2453 | 100.0 | Canadian English | 
+ | [totem-pl-parser](/f33/package/totem-pl-parser) | 1795 | 1795 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [trader](/f33/package/trader) | 2036 | 2036 | 100.0 | English (Canadian) <(nothing)> | 
+ | [vino](/f33/package/vino) | 544 | 544 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [vte](/f33/package/vte) | 108 | 108 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [vte291](/f33/package/vte291) | 108 | 108 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [xfce4-hardware-monitor-plugin](/f33/package/xfce4-hardware-monitor-plugin) | 363 | 363 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [xfce4-settings](/f33/package/xfce4-settings) | 1940 | 1940 | 100.0 | English (Canada) (https://www.transifex.com/xfce/teams/16840/en_CA/) | 
+ | [xfce4-time-out-plugin](/f33/package/xfce4-time-out-plugin) | 106 | 106 | 100.0 | English (Canada) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_CA/) | 
+ | [xfconf](/f33/package/xfconf) | 458 | 458 | 100.0 | English (Canada) (http://www.transifex.com/xfce/xfconf/language/en_CA/) | 
+ | [xfdesktop](/f33/package/xfdesktop) | 1037 | 1037 | 100.0 | English (Canada) (https://www.transifex.com/xfce/teams/16840/en_CA/) | 
+ | [xfwm4](/f33/package/xfwm4) | 632 | 632 | 100.0 | English (Canada) (https://www.transifex.com/xfce/teams/16840/en_CA/) | 
+ | [yelp](/f33/package/yelp) | 792 | 792 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [yelp-xsl](/f33/package/yelp-xsl) | 238 | 238 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [zenity](/f33/package/zenity) | 559 | 559 | 100.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-applets](/f33/package/gnome-applets) | 3762 | 3769 | 99.8 | Canadian English <adamw@gnome.org> | 
+ | [regexxer](/f33/package/regexxer) | 466 | 467 | 99.8 | Canadian English <adamw@gnome.org> | 
+ | [pyhoca-gui](/f33/package/pyhoca-gui) | 1859 | 1865 | 99.7 | none | 
+ | [evolution](/f33/package/evolution) | 18293 | 18362 | 99.6 | Canadian English <adamw@gnome.org> | 
+ | [atk](/f33/package/atk) | 370 | 375 | 98.7 | Canadian English <adamw@gnome.org> | 
+ | [mingw-atk](/f33/package/mingw-atk) | 370 | 375 | 98.7 | Canadian English <adamw@gnome.org> | 
+ | [mozo](/f33/package/mozo) | 42 | 43 | 97.7 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gigolo](/f33/package/gigolo) | 454 | 467 | 97.2 | English (Canada) (http://www.transifex.com/xfce/xfce-apps/language/en_CA/) | 
+ | [switchboard-plug-notifications](/f33/package/switchboard-plug-notifications) | 138 | 142 | 97.2 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-notifications/en_CA/> | 
+ | [switchboard-plug-sharing](/f33/package/switchboard-plug-sharing) | 136 | 140 | 97.1 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sharing/en_CA/> | 
+ | [gnome-nettool](/f33/package/gnome-nettool) | 501 | 520 | 96.3 | Canadian English <adamw@gnome.org> | 
+ | [dippi](/f33/package/dippi) | 381 | 397 | 96.0 | none | 
+ | [dia](/f33/package/dia) | 5368 | 5711 | 94.0 | Canadian English <adamw@gnome.org> | 
+ | [switchboard-plug-printers](/f33/package/switchboard-plug-printers) | 338 | 362 | 93.4 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-printers/en_CA/> | 
+ | [wingpanel-indicator-power](/f33/package/wingpanel-indicator-power) | 109 | 117 | 93.2 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-power/en_CA/> | 
+ | [slick-greeter](/f33/package/slick-greeter) | 195 | 211 | 92.4 | English (Canada) <en_CA@li.org> | 
+ | [wingpanel-indicator-network](/f33/package/wingpanel-indicator-network) | 89 | 97 | 91.8 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-network/en_CA/> | 
+ | [gftp](/f33/package/gftp) | 3096 | 3375 | 91.7 | Canadian English <adamw@gnome.org> | 
+ | [wingpanel-indicator-session](/f33/package/wingpanel-indicator-session) | 72 | 81 | 88.9 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/en_CA/> | 
+ | [switchboard-plug-onlineaccounts](/f33/package/switchboard-plug-onlineaccounts) | 141 | 160 | 88.1 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-onlineaccounts/en_CA/> | 
+ | [wingpanel-indicator-notifications](/f33/package/wingpanel-indicator-notifications) | 33 | 38 | 86.8 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-notifications/en_CA/> | 
+ | [gdk-pixbuf2](/f33/package/gdk-pixbuf2) | 1166 | 1348 | 86.5 | Canadian English <adamw@gnome.org> | 
+ | [mingw-gdk-pixbuf](/f33/package/mingw-gdk-pixbuf) | 1166 | 1348 | 86.5 | Canadian English <adamw@gnome.org> | 
+ | [gnome-search-tool](/f33/package/gnome-search-tool) | 1167 | 1359 | 85.9 | Canadian English <adamw@gnome.org> | 
+ | [wingpanel](/f33/package/wingpanel) | 16 | 19 | 84.2 | LANGUAGE <LL@li.org> | 
+ | [caja-actions](/f33/package/caja-actions) | 1303 | 1554 | 83.8 | Canadian English <adamw@gnome.org> | 
+ | [elementary-shortcut-overlay](/f33/package/elementary-shortcut-overlay) | 79 | 95 | 83.2 | English (Canada) <https://weblate.elementary.io/projects/desktop/shortcut-overlay/en_CA/> | 
+ | [elementary-camera](/f33/package/elementary-camera) | 54 | 65 | 83.1 | English (Canada) <https://weblate.elementary.io/projects/camera/camera/en_CA/> | 
+ | [gtk2](/f33/package/gtk2) | 11354 | 13704 | 82.9 | Canadian English <adamw@gnome.org> | 
+ | [mingw-gtk2](/f33/package/mingw-gtk2) | 11354 | 13704 | 82.9 | Canadian English <adamw@gnome.org> | 
+ | [switchboard-plug-about](/f33/package/switchboard-plug-about) | 78 | 96 | 81.2 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-about/en_CA/> | 
+ | [fragments](/f33/package/fragments) | 1622 | 2006 | 80.9 | English (Canada) (https://www.transifex.com/transmissionbt/teams/33778/en_CA/) | 
+ | [transmission](/f33/package/transmission) | 1615 | 1998 | 80.8 | English (Canada) (https://www.transifex.com/transmissionbt/teams/33778/en_CA/) | 
+ | [elementary-photos](/f33/package/elementary-photos) | 3141 | 3910 | 80.3 | English (Canada) <https://weblate.elementary.io/projects/photos/photos/en_CA/> | 
+ | [wingpanel-applications-menu](/f33/package/wingpanel-applications-menu) | 236 | 294 | 80.3 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_CA/> | 
+ | [chromium](/f33/package/chromium) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
+ | [gtk3](/f33/package/gtk3) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
+ | [gtk4](/f33/package/gtk4) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
+ | [mingw-gtk3](/f33/package/mingw-gtk3) | 9202 | 11853 | 77.6 | Canadian English <adamw@gnome.org> | 
+ | [switchboard-plug-a11y](/f33/package/switchboard-plug-a11y) | 97 | 125 | 77.6 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-a11y/en_CA/> | 
+ | [deluge](/f33/package/deluge) | 2026 | 2616 | 77.4 | English (Canada) <en_CA@li.org> | 
+ | [elementary-music](/f33/package/elementary-music) | 1008 | 1308 | 77.1 | English (Canada) <https://weblate.elementary.io/projects/music/music/en_CA/> | 
+ | [gnome-dictionary](/f33/package/gnome-dictionary) | 633 | 833 | 76.0 | Canadian English <adamw@gnome.org> | 
+ | [switchboard-plug-applications](/f33/package/switchboard-plug-applications) | 71 | 95 | 74.7 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-applications/en_CA/> | 
+ | [gimp](/f33/package/gimp) | 20036 | 26833 | 74.7 | Canadian English <adamw@gnome.org> | 
+ | [switchboard-plug-pantheon-shell](/f33/package/switchboard-plug-pantheon-shell) | 135 | 181 | 74.6 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-pantheon-shell/en_CA/> | 
+ | [tali](/f33/package/tali) | 314 | 421 | 74.6 | Canadian English | 
+ | [gnome-robots](/f33/package/gnome-robots) | 435 | 597 | 72.9 | Canadian English | 
+ | [switchboard-plug-keyboard](/f33/package/switchboard-plug-keyboard) | 383 | 530 | 72.3 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-keyboard/en_CA/> | 
+ | [tuxpaint](/f33/package/tuxpaint) | 1198 | 1662 | 72.1 |  | 
+ | [switchboard-plug-display](/f33/package/switchboard-plug-display) | 100 | 139 | 71.9 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-display/en_CA/> | 
+ | [wingpanel-indicator-bluetooth](/f33/package/wingpanel-indicator-bluetooth) | 21 | 30 | 70.0 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/en_CA/> | 
+ | [switchboard-plug-networking](/f33/package/switchboard-plug-networking) | 325 | 474 | 68.6 | English (Canada) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/en_CA/> | 
+ | [elementary-screenshot-tool](/f33/package/elementary-screenshot-tool) | 141 | 212 | 66.5 | English (Canada) <https://weblate.elementary.io/projects/screenshot-tool/screenshot-tool/en_CA/> | 
+ | [gnome-chess](/f33/package/gnome-chess) | 913 | 1390 | 65.7 | Canadian English | 
+ | [avogadro](/f33/package/avogadro) | 4316 | 6607 | 65.3 | English (Canada) <en_CA@li.org> | 
+ | [camorama](/f33/package/camorama) | 501 | 775 | 64.6 | Canadian English <adamw@gnome.org> | 
+ | [gedit-plugins](/f33/package/gedit-plugins) | 751 | 1205 | 62.3 | Canadian English <adamw@gnome.org> | 
+ | [mate-menus](/f33/package/mate-menus) | 60 | 97 | 61.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gnome-panel](/f33/package/gnome-panel) | 2167 | 3520 | 61.6 | Canadian English <adamw@gnome.org> | 
+ | [lxmenu-data](/f33/package/lxmenu-data) | 59 | 97 | 60.8 | Canadian English <adamw@gnome.org> | 
+ | [quadrapassel](/f33/package/quadrapassel) | 256 | 428 | 59.8 | Canadian English | 
+ | [elementary-calculator](/f33/package/elementary-calculator) | 76 | 130 | 58.5 | LANGUAGE <LL@li.org> | 
+ | [elementary-code](/f33/package/elementary-code) | 671 | 1151 | 58.3 | English (Canada) <https://weblate.elementary.io/projects/code/code/en_CA/> | 
+ | [marco](/f33/package/marco) | 2479 | 4339 | 57.1 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [webkit2gtk3](/f33/package/webkit2gtk3) | 1441 | 2621 | 55.0 | Canadian English | 
+ | [five-or-more](/f33/package/five-or-more) | 155 | 282 | 55.0 | Canadian English | 
+ | [switchboard-plug-sound](/f33/package/switchboard-plug-sound) | 83 | 152 | 54.6 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-sound/en_CA/> | 
+ | [orca](/f33/package/orca) | 708 | 1304 | 54.3 | Canadian English <adamw@gnome.org> | 
+ | [libmateweather](/f33/package/libmateweather) | 3334 | 6142 | 54.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [pan](/f33/package/pan) | 1670 | 3168 | 52.7 | Canadian English <adamw@gnome.org> | 
+ | [wingpanel-indicator-nightlight](/f33/package/wingpanel-indicator-nightlight) | 16 | 31 | 51.6 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/en_CA/> | 
+ | [seahorse-caja](/f33/package/seahorse-caja) | 216 | 421 | 51.3 | Canadian English <adamw@gnome.org> | 
+ | [seahorse-nautilus](/f33/package/seahorse-nautilus) | 216 | 421 | 51.3 | Canadian English <adamw@gnome.org> | 
+ | [wingpanel-indicator-keyboard](/f33/package/wingpanel-indicator-keyboard) | 19 | 38 | 50.0 | English (Canada) <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/en_CA/> | 
+ | [wingpanel-indicator-sound](/f33/package/wingpanel-indicator-sound) | 26 | 53 | 49.1 | LANGUAGE <LL@li.org> | 
+ | [elementary-calendar](/f33/package/elementary-calendar) | 335 | 703 | 47.7 | English (Canada) <https://l10n.elementary.io/projects/calendar/calendar/en_CA/> | 
+ | [wingpanel-indicator-datetime](/f33/package/wingpanel-indicator-datetime) | 60 | 128 | 46.9 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f33/package/switchboard) | 58 | 124 | 46.8 | English (Canada) <en_CA@li.org> | 
+ | [granite](/f33/package/granite) | 123 | 269 | 45.7 | English (Canada) <https://weblate.elementary.io/projects/desktop/granite/en_CA/> | 
+ | [pantheon-agent-geoclue2](/f33/package/pantheon-agent-geoclue2) | 46 | 101 | 45.5 | English (Canada) <https://weblate.elementary.io/projects/desktop/pantheon-agent-geoclue2/en_CA/> | 
+ | [mate-screensaver](/f33/package/mate-screensaver) | 458 | 1020 | 44.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [mate-panel](/f33/package/mate-panel) | 2902 | 6727 | 43.1 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [four-in-a-row](/f33/package/four-in-a-row) | 110 | 256 | 43.0 | Canadian English | 
+ | [elementary-files](/f33/package/elementary-files) | 1247 | 2911 | 42.8 | English (Canada) <https://weblate.elementary.io/projects/files/files/en_CA/> | 
+ | [elementary-videos](/f33/package/elementary-videos) | 148 | 346 | 42.8 | English (Canada) <https://weblate.elementary.io/projects/videos/videos/en_CA/> | 
+ | [caja](/f33/package/caja) | 4083 | 9625 | 42.4 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gnome-system-log](/f33/package/gnome-system-log) | 220 | 522 | 42.1 | Canadian English <adamw@gnome.org> | 
+ | [clementine](/f33/package/clementine) | 2206 | 5251 | 42.0 | English (Canada) (http://www.transifex.com/davidsansome/clementine/language/en_CA/) | 
+ | [xed](/f33/package/xed) | 1946 | 4642 | 41.9 | English (Canada) (http://www.transifex.com/projects/p/MATE/language/en_CA/) | 
+ | [mate-calc](/f33/package/mate-calc) | 1313 | 3178 | 41.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [deja-dup](/f33/package/deja-dup) | 665 | 1623 | 41.0 | English (Canada) <en_CA@li.org> | 
+ | [lightdm-gtk](/f33/package/lightdm-gtk) | 35 | 87 | 40.2 | English (Canada) <en_CA@li.org> | 
+ | [bleachbit](/f33/package/bleachbit) | 721 | 1808 | 39.9 | English (Canada) <en_CA@li.org> | 
+ | [elementary-capnet-assist](/f33/package/elementary-capnet-assist) | 32 | 82 | 39.0 | English (Canada) <https://weblate.elementary.io/projects/desktop/capnet-assist/en_CA/> | 
+ | [gnome-settings-daemon](/f33/package/gnome-settings-daemon) | 398 | 1034 | 38.5 | Canadian English <adamw@gnome.org> | 
+ | [gnome-shell-extension-netspeed](/f33/package/gnome-shell-extension-netspeed) | 21 | 56 | 37.5 | English | 
+ | [switchboard-plug-bluetooth](/f33/package/switchboard-plug-bluetooth) | 70 | 188 | 37.2 | English (Canada) <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/en_CA/> | 
+ | [sawfish](/f33/package/sawfish) | 2370 | 6443 | 36.8 | Canadian English <adamw@gnome.org> | 
+ | [geary](/f33/package/geary) | 398 | 1101 | 36.1 | English (Canada) (http://www.transifex.com/projects/p/geary/language/en_CA/) | 
+ | [mate-terminal](/f33/package/mate-terminal) | 2996 | 8372 | 35.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [elementary-terminal](/f33/package/elementary-terminal) | 158 | 442 | 35.7 | English (Canada) <https://weblate.elementary.io/projects/terminal/terminal/en_CA/> | 
+ | [xreader](/f33/package/xreader) | 583 | 1693 | 34.4 | English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/) | 
+ | [pantheon-agent-polkit](/f33/package/pantheon-agent-polkit) | 16 | 48 | 33.3 | English (Canada) <https://weblate.elementary.io/projects/desktop/pantheon-agent-polkit/en_CA/> | 
+ | [gnome-klotski](/f33/package/gnome-klotski) | 64 | 194 | 33.0 | Canadian English | 
+ | [swell-foop](/f33/package/swell-foop) | 79 | 266 | 29.7 | Canadian English | 
+ | [goffice](/f33/package/goffice) | 1810 | 6201 | 29.2 | English/Canada <adamw@FreeBSD.org> | 
+ | [gnome-nibbles](/f33/package/gnome-nibbles) | 129 | 447 | 28.9 | Canadian English | 
+ | [gnome-mines](/f33/package/gnome-mines) | 98 | 344 | 28.5 | Canadian English | 
+ | [avogadro2](/f33/package/avogadro2) | 129 | 462 | 27.9 | English (Canada) <en_CA@li.org> | 
+ | [gnumeric](/f33/package/gnumeric) | 9681 | 35046 | 27.6 | Canadian English <adamw@gnome.org> | 
+ | [gnome-mahjongg](/f33/package/gnome-mahjongg) | 83 | 304 | 27.3 | Canadian English | 
+ | [elementary-sideload](/f33/package/elementary-sideload) | 61 | 224 | 27.2 | none | 
+ | [stellarium](/f33/package/stellarium) | 38189 | 141404 | 27.0 | English (Canada) (https://www.transifex.com/stellarium/teams/80998/en_CA/) | 
+ | [mate-desktop](/f33/package/mate-desktop) | 583 | 2224 | 26.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gala](/f33/package/gala) | 51 | 197 | 25.9 | English (Canada) <https://weblate.elementary.io/projects/desktop/gala/en_CA/> | 
+ | [switchboard-plug-mouse-touchpad](/f33/package/switchboard-plug-mouse-touchpad) | 59 | 232 | 25.4 | English (Canada) <https://weblate.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/en_CA/> | 
+ | [optimizer](/f33/package/optimizer) | 69 | 282 | 24.5 | none | 
+ | [exaile](/f33/package/exaile) | 964 | 4067 | 23.7 | English (Canada) <https://hosted.weblate.org/projects/exaile/master/en_CA/> | 
+ | [gtksourceview3](/f33/package/gtksourceview3) | 72 | 322 | 22.4 | Canadian English <adamw@gnome.org> | 
+ | [mingw-gtksourceview3](/f33/package/mingw-gtksourceview3) | 72 | 322 | 22.4 | Canadian English <adamw@gnome.org> | 
+ | [mate-utils](/f33/package/mate-utils) | 2220 | 10304 | 21.5 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gnome-tetravex](/f33/package/gnome-tetravex) | 46 | 220 | 20.9 | Canadian English | 
+ | [mate-session-manager](/f33/package/mate-session-manager) | 144 | 712 | 20.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [quodlibet](/f33/package/quodlibet) | 1142 | 5716 | 20.0 | Joe Wreschnig <piman@sacredchao.net> | 
+ | [elementary-planner](/f33/package/elementary-planner) | 593 | 3023 | 19.6 | LANGUAGE <LL@li.org> | 
+ | [pluma](/f33/package/pluma) | 2464 | 13120 | 18.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [homebank](/f33/package/homebank) | 518 | 2792 | 18.6 | English (Canada) <en_CA@li.org> | 
+ | [atril](/f33/package/atril) | 674 | 3846 | 17.5 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gnome-screenshot](/f33/package/gnome-screenshot) | 55 | 319 | 17.2 | Canadian English <adamw@gnome.org> | 
+ | [terminator](/f33/package/terminator) | 250 | 1450 | 17.2 | English (Canada) (https://www.transifex.com/terminator/teams/109338/en_CA/) | 
+ | [mate-menu](/f33/package/mate-menu) | 52 | 308 | 16.9 | English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/) | 
+ | [backintime](/f33/package/backintime) | 312 | 1972 | 15.8 | English (Canada) <en_CA@li.org> | 
+ | [libmypaint](/f33/package/libmypaint) | 346 | 2303 | 15.0 | English (Canada) <https://hosted.weblate.org/projects/mypaint/libmypaint/en_CA/> | 
+ | [libmypaint2](/f33/package/libmypaint2) | 346 | 2311 | 15.0 | English (Canada) <https://hosted.weblate.org/projects/mypaint/libmypaint/en_CA/> | 
+ | [mypaint](/f33/package/mypaint) | 980 | 6573 | 14.9 | English (Canada) <https://hosted.weblate.org/projects/mypaint/mypaint/en_CA/> | 
+ | [eom](/f33/package/eom) | 732 | 4951 | 14.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [mate-settings-daemon](/f33/package/mate-settings-daemon) | 320 | 2197 | 14.6 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [blueberry](/f33/package/blueberry) | 24 | 166 | 14.5 | English (Canada) <en_CA@li.org> | 
+ | [onboard](/f33/package/onboard) | 332 | 2318 | 14.3 | English (Canada) <en_CA@li.org> | 
+ | [caja-extensions](/f33/package/caja-extensions) | 95 | 671 | 14.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [gnome-commander](/f33/package/gnome-commander) | 1068 | 7896 | 13.5 | Canadian English <adamw@gnome.org> | 
+ | [nemo-extensions](/f33/package/nemo-extensions) | 1 | 8 | 12.5 | English (Canada) <en_CA@li.org> | 
+ | [lightsoff](/f33/package/lightsoff) | 12 | 97 | 12.4 | Canadian English | 
+ | [mate-power-manager](/f33/package/mate-power-manager) | 628 | 5139 | 12.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [plank](/f33/package/plank) | 23 | 189 | 12.2 | English (Canada) <en_CA@li.org> | 
+ | [mate-themes](/f33/package/mate-themes) | 9 | 74 | 12.2 | English (Canada) (http://www.transifex.com/mate/MATE/language/en_CA/) | 
+ | [engrampa](/f33/package/engrampa) | 929 | 7817 | 11.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [mate-applets](/f33/package/mate-applets) | 1684 | 15853 | 10.6 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [libexif](/f33/package/libexif) | 705 | 7005 | 10.1 | none | 
+ | [iagno](/f33/package/iagno) | 32 | 322 | 9.9 | Canadian English | 
+ | [avogadro2-libs](/f33/package/avogadro2-libs) | 307 | 3466 | 8.9 | English (Canada) <en_CA@li.org> | 
+ | [gxmessage](/f33/package/gxmessage) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
+ | [taxi](/f33/package/taxi) | 5 | 62 | 8.1 | LANGUAGE <LL@li.org> | 
+ | [mate-media](/f33/package/mate-media) | 19 | 239 | 7.9 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [mate-system-monitor](/f33/package/mate-system-monitor) | 384 | 4911 | 7.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [mate-control-center](/f33/package/mate-control-center) | 672 | 8602 | 7.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 1345 | 19510 | 6.9 | English (Canada) <en_CA@li.org> | 
+ | [mate-backgrounds](/f33/package/mate-backgrounds) | 4 | 65 | 6.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [picard](/f33/package/picard) | 671 | 11040 | 6.1 | English (Canada) (http://www.transifex.com/musicbrainz/musicbrainz/language/en_CA/) | 
+ | [gnome-keyring](/f33/package/gnome-keyring) | 28 | 490 | 5.7 | Canadian English <adamw@gnome.org> | 
+ | [gnome-sudoku](/f33/package/gnome-sudoku) | 22 | 399 | 5.5 | Canadian English | 
+ | [gdm](/f33/package/gdm) | 30 | 650 | 4.6 | Canadian English <adamw@gnome.org> | 
+ | [gnome-power-manager](/f33/package/gnome-power-manager) | 18 | 432 | 4.2 | Canadian English <adamw@gnome.org> | 
+ | [cogl](/f33/package/cogl) | 15 | 361 | 4.2 | Canadian English | 
+ | [baobab](/f33/package/baobab) | 22 | 540 | 4.1 | Canadian English <adamw@gnome.org> | 
+ | [elementary-greeter](/f33/package/elementary-greeter) | 6 | 166 | 3.6 | English (Canada) <https://weblate.elementary.io/projects/desktop/greeter/en_CA/> | 
+ | [libmatekbd](/f33/package/libmatekbd) | 10 | 308 | 3.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [light-locker](/f33/package/light-locker) | 7 | 260 | 2.7 | English (Canada) (http://www.transifex.com/the_cavalry/light-locker/language/en_CA/) | 
+ | [mate-polkit](/f33/package/mate-polkit) | 3 | 123 | 2.4 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [libmatemixer](/f33/package/libmatemixer) | 5 | 242 | 2.1 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [libgda](/f33/package/libgda) | 222 | 11142 | 2.0 | Canadian English <adamw@gnome.org> | 
+ | [pidgin](/f33/package/pidgin) | 277 | 15835 | 1.7 | English (Canada) (http://www.transifex.com/pidgin/pidgin/language/en_CA/) | 
+ | [python-apt](/f33/package/python-apt) | 8 | 544 | 1.5 | Canadian English <adamw@gnome.org> | 
+ | [mate-notification-daemon](/f33/package/mate-notification-daemon) | 2 | 152 | 1.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [mate-user-admin](/f33/package/mate-user-admin) | 8 | 628 | 1.3 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [network-manager-applet](/f33/package/network-manager-applet) | 53 | 4478 | 1.2 | Canadian English <adamw@gnome.org> | 
+ | [mate-sensors-applet](/f33/package/mate-sensors-applet) | 18 | 2160 | 0.8 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [calibre](/f33/package/calibre) | 1338 | 161062 | 0.8 | English (Canada) (http://www.transifex.com/calibre/calibre/language/en_CA/) | 
+ | [inkscape](/f33/package/inkscape) | 248 | 40929 | 0.6 | Canadian English <adamw@gnome.org> | 
+ | [libnma](/f33/package/libnma) | 5 | 917 | 0.5 | Canadian English <adamw@gnome.org> | 
+ | [mate-user-guide](/f33/package/mate-user-guide) | 94 | 44680 | 0.2 | English (Canada) (https://www.transifex.com/mate/teams/13566/en_CA/) | 
+ | [avahi](/f33/package/avahi) | 1 | 868 | 0.1 |  | 
+ | [NetworkManager](/f33/package/NetworkManager) | 5 | 26763 | 0.0 | Canadian English <adamw@gnome.org> | 
+ | [bookworm](/f33/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [cinnamon-desktop](/f33/package/cinnamon-desktop) | 0 | 234 | 0.0 | Canadian English <adamw@gnome.org> | 
+ | [feedreader](/f33/package/feedreader) | 0 | 1374 | 0.0 |  | 
+ | [gcr](/f33/package/gcr) | 0 | 622 | 0.0 | Canadian English <adamw@gnome.org> | 
+ | [gnome-font-viewer](/f33/package/gnome-font-viewer) | 0 | 32 | 0.0 | Canadian English <adamw@gnome.org> | 
+ | [lightdm](/f33/package/lightdm) | 0 | 163 | 0.0 | English (Canada) <en_CA@li.org> | 
+ | [nutty](/f33/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [python-django-rest-framework](/f33/package/python-django-rest-framework) | 0 | 582 | 0.0 | English (Canada) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en_CA/) | 
+ | [soundconverter](/f33/package/soundconverter) | 0 | 507 | 0.0 | English (Canada) <en_CA@li.org> | 
 {.sortable}
 
 

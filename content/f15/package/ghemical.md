@@ -18,10 +18,10 @@ The package ghemical (version 2.99.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 2161 | 2178 | 99.2 | /mnt/stockage/packages/f15/ghemical/po/pt_BR.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f15/ghemical/po/mk.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f15/ghemical/po/sq.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 1710 | 2178 | 78.5 | /mnt/stockage/packages/f15/ghemical/po/fi.po | 
+ | [pt_BR](/f15/language/pt_BR) | 2161 | 2178 | 99.2 | /mnt/stockage/packages/f15/ghemical/po/pt_BR.po | 
+ | [mk](/f15/language/mk) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f15/ghemical/po/mk.po | 
+ | [sq](/f15/language/sq) | 1864 | 2178 | 85.6 | /mnt/stockage/packages/f15/ghemical/po/sq.po | 
+ | [fi](/f15/language/fi) | 1710 | 2178 | 78.5 | /mnt/stockage/packages/f15/ghemical/po/fi.po | 
 {.sortable}
 
 

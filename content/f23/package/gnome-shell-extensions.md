@@ -18,70 +18,70 @@ The package gnome-shell-extensions (version 3.18.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f23/language/an.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/an.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/bg.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/bn_IN.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/bs.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ca.po | 
- | [ca@valencia]({{< ref "/f23/language/ca@valencia.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ca@valencia.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/el.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/en_GB.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/as.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/eo.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/es.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/eu.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fa.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fr.po | 
- | [fur]({{< ref "/f23/language/fur.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fur.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/gl.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/gu.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/he.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/hi.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ja.po | 
- | [kk]({{< ref "/f23/language/kk.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/kk.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/km.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/kn.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ko.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/lt.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/lv.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/mr.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ms.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/nl.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/oc.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/or.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pa.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pt_BR.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ro.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ru.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 760 | 760 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sr.po/mnt/stockage/packages/f23/gnome-shell-extensions/po/sr@latin.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/te.po | 
- | [tg]({{< ref "/f23/language/tg.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/tg.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/vi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 736 | 736 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/zh_TW.po/mnt/stockage/packages/f23/gnome-shell-extensions/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 375 | 378 | 99.2 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/zh_CN.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 267 | 338 | 79.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/th.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 260 | 380 | 68.4 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fi.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 184 | 380 | 48.4 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/is.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 163 | 341 | 47.8 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ml.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 148 | 378 | 39.2 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ar.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 130 | 338 | 38.5 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/af.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 99 | 358 | 27.7 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ne.po | 
+ | [an](/f23/language/an) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/an.po | 
+ | [bg](/f23/language/bg) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/bg.po | 
+ | [bn_IN](/f23/language/bn_IN) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/bn_IN.po | 
+ | [bs](/f23/language/bs) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/bs.po | 
+ | [ca](/f23/language/ca) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ca.po | 
+ | [ca@valencia](/f23/language/ca@valencia) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ca@valencia.po | 
+ | [cs](/f23/language/cs) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/cs.po | 
+ | [da](/f23/language/da) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/da.po | 
+ | [de](/f23/language/de) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/de.po | 
+ | [el](/f23/language/el) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/el.po | 
+ | [en_GB](/f23/language/en_GB) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/en_GB.po | 
+ | [en_US](/f23/language/en_US) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/as.po | 
+ | [eo](/f23/language/eo) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/eo.po | 
+ | [es](/f23/language/es) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/es.po | 
+ | [et](/f23/language/et) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/et.po | 
+ | [eu](/f23/language/eu) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/eu.po | 
+ | [fa](/f23/language/fa) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fa.po | 
+ | [fr](/f23/language/fr) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fr.po | 
+ | [fur](/f23/language/fur) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fur.po | 
+ | [gl](/f23/language/gl) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/gl.po | 
+ | [gu](/f23/language/gu) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/gu.po | 
+ | [he](/f23/language/he) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/he.po | 
+ | [hi](/f23/language/hi) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/hi.po | 
+ | [hu](/f23/language/hu) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/hu.po | 
+ | [id](/f23/language/id) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/id.po | 
+ | [it](/f23/language/it) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/it.po | 
+ | [ja](/f23/language/ja) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ja.po | 
+ | [kk](/f23/language/kk) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/kk.po | 
+ | [km](/f23/language/km) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/km.po | 
+ | [kn](/f23/language/kn) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/kn.po | 
+ | [ko](/f23/language/ko) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ko.po | 
+ | [lt](/f23/language/lt) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/lt.po | 
+ | [lv](/f23/language/lv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/lv.po | 
+ | [mr](/f23/language/mr) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/mr.po | 
+ | [ms](/f23/language/ms) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ms.po | 
+ | [nb_NO](/f23/language/nb_NO) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/nb.po | 
+ | [nl](/f23/language/nl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/nl.po | 
+ | [oc](/f23/language/oc) | 338 | 338 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/oc.po | 
+ | [or](/f23/language/or) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/or.po | 
+ | [pa](/f23/language/pa) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pa.po | 
+ | [pl](/f23/language/pl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pl.po | 
+ | [pt](/f23/language/pt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/pt_BR.po | 
+ | [ro](/f23/language/ro) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ro.po | 
+ | [ru](/f23/language/ru) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ru.po | 
+ | [sk](/f23/language/sk) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sk.po | 
+ | [sl](/f23/language/sl) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sl.po | 
+ | [sr](/f23/language/sr) | 760 | 760 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sr.po/mnt/stockage/packages/f23/gnome-shell-extensions/po/sr@latin.po | 
+ | [sv](/f23/language/sv) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/sv.po | 
+ | [ta](/f23/language/ta) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ta.po | 
+ | [te](/f23/language/te) | 358 | 358 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/te.po | 
+ | [tg](/f23/language/tg) | 378 | 378 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/tg.po | 
+ | [tr](/f23/language/tr) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/tr.po | 
+ | [uk](/f23/language/uk) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/uk.po | 
+ | [vi](/f23/language/vi) | 380 | 380 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/vi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 736 | 736 | 100.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/zh_TW.po/mnt/stockage/packages/f23/gnome-shell-extensions/po/zh_HK.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 375 | 378 | 99.2 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/zh_CN.po | 
+ | [th](/f23/language/th) | 267 | 338 | 79.0 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/th.po | 
+ | [fi](/f23/language/fi) | 260 | 380 | 68.4 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/fi.po | 
+ | [is](/f23/language/is) | 184 | 380 | 48.4 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/is.po | 
+ | [ml](/f23/language/ml) | 163 | 341 | 47.8 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ml.po | 
+ | [ar](/f23/language/ar) | 148 | 378 | 39.2 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ar.po | 
+ | [af](/f23/language/af) | 130 | 338 | 38.5 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/af.po | 
+ | [ne](/f23/language/ne) | 99 | 358 | 27.7 | /mnt/stockage/packages/f23/gnome-shell-extensions/po/ne.po | 
 {.sortable}
 
 

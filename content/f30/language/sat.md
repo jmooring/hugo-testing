@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f30/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 | none | 
- | [iok]({{< ref "/f30/package/iok.md" >}}) | 137 | 206 | 66.5 | Santali <LL@li.org> | 
- | [libreoffice]({{< ref "/f30/package/libreoffice.md" >}}) | 57872 | 99378 | 58.2 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f30/package/tuxpaint) | 1591 | 1591 | 100.0 | none | 
+ | [iok](/f30/package/iok) | 137 | 206 | 66.5 | Santali <LL@li.org> | 
+ | [libreoffice](/f30/package/libreoffice) | 57872 | 99378 | 58.2 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package swatchbooker (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/fr.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/ru.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/uk.po | 
+ | [de](/f30/language/de) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/de.po | 
+ | [es](/f30/language/es) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/es.po | 
+ | [fr](/f30/language/fr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/fr.po | 
+ | [pl](/f30/language/pl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/pt_BR.po | 
+ | [ru](/f30/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/ru.po | 
+ | [uk](/f30/language/uk) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/swatchbooker/translations/uk.po | 
 {.sortable}
 
 

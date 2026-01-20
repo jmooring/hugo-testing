@@ -38,33 +38,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f32/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [libmateweather]({{< ref "/f32/package/libmateweather.md" >}}) | 375 | 499 | 75.2 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-icon-theme]({{< ref "/f32/package/mate-icon-theme.md" >}}) | 1 | 4 | 25.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-user-guide]({{< ref "/f32/package/mate-user-guide.md" >}}) | 1 | 7 | 14.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-applets]({{< ref "/f32/package/mate-applets.md" >}}) | 1659 | 13557 | 12.2 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-menu]({{< ref "/f32/package/mate-menu.md" >}}) | 16 | 308 | 5.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-media]({{< ref "/f32/package/mate-media.md" >}}) | 12 | 239 | 5.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-menus]({{< ref "/f32/package/mate-menus.md" >}}) | 3 | 97 | 3.1 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mozo]({{< ref "/f32/package/mozo.md" >}}) | 1 | 43 | 2.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-settings-daemon]({{< ref "/f32/package/mate-settings-daemon.md" >}}) | 44 | 2197 | 2.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [atril]({{< ref "/f32/package/atril.md" >}}) | 33 | 1807 | 1.8 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-control-center]({{< ref "/f32/package/mate-control-center.md" >}}) | 36 | 3290 | 1.1 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [eom]({{< ref "/f32/package/eom.md" >}}) | 19 | 1769 | 1.1 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-panel]({{< ref "/f32/package/mate-panel.md" >}}) | 64 | 6727 | 1.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-session-manager]({{< ref "/f32/package/mate-session-manager.md" >}}) | 6 | 712 | 0.8 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-calc]({{< ref "/f32/package/mate-calc.md" >}}) | 10 | 1554 | 0.6 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [engrampa]({{< ref "/f32/package/engrampa.md" >}}) | 12 | 2035 | 0.6 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-system-monitor]({{< ref "/f32/package/mate-system-monitor.md" >}}) | 26 | 4524 | 0.6 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-sensors-applet]({{< ref "/f32/package/mate-sensors-applet.md" >}}) | 12 | 2222 | 0.5 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [libmatekbd]({{< ref "/f32/package/libmatekbd.md" >}}) | 1 | 308 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [caja]({{< ref "/f32/package/caja.md" >}}) | 30 | 9625 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-utils]({{< ref "/f32/package/mate-utils.md" >}}) | 25 | 8360 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-power-manager]({{< ref "/f32/package/mate-power-manager.md" >}}) | 13 | 5139 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [mate-terminal]({{< ref "/f32/package/mate-terminal.md" >}}) | 14 | 8509 | 0.2 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
- | [marco]({{< ref "/f32/package/marco.md" >}}) | 5 | 4339 | 0.1 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [calamares]({{< ref "/f32/package/calamares.md" >}}) | 0 | 443 | 0.0 | Spanish (Puerto Rico) (https://www.transifex.com/calamares/teams/20061/es_PR/) | 
- | [mate-themes]({{< ref "/f32/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [libgweather](/f32/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [libmateweather](/f32/package/libmateweather) | 375 | 499 | 75.2 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-icon-theme](/f32/package/mate-icon-theme) | 1 | 4 | 25.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-user-guide](/f32/package/mate-user-guide) | 1 | 7 | 14.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-applets](/f32/package/mate-applets) | 1659 | 13557 | 12.2 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-menu](/f32/package/mate-menu) | 16 | 308 | 5.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-media](/f32/package/mate-media) | 12 | 239 | 5.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-menus](/f32/package/mate-menus) | 3 | 97 | 3.1 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mozo](/f32/package/mozo) | 1 | 43 | 2.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-settings-daemon](/f32/package/mate-settings-daemon) | 44 | 2197 | 2.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [atril](/f32/package/atril) | 33 | 1807 | 1.8 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-control-center](/f32/package/mate-control-center) | 36 | 3290 | 1.1 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [eom](/f32/package/eom) | 19 | 1769 | 1.1 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-panel](/f32/package/mate-panel) | 64 | 6727 | 1.0 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-session-manager](/f32/package/mate-session-manager) | 6 | 712 | 0.8 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-calc](/f32/package/mate-calc) | 10 | 1554 | 0.6 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [engrampa](/f32/package/engrampa) | 12 | 2035 | 0.6 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-system-monitor](/f32/package/mate-system-monitor) | 26 | 4524 | 0.6 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-sensors-applet](/f32/package/mate-sensors-applet) | 12 | 2222 | 0.5 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [libmatekbd](/f32/package/libmatekbd) | 1 | 308 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [caja](/f32/package/caja) | 30 | 9625 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-utils](/f32/package/mate-utils) | 25 | 8360 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-power-manager](/f32/package/mate-power-manager) | 13 | 5139 | 0.3 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [mate-terminal](/f32/package/mate-terminal) | 14 | 8509 | 0.2 | Spanish (Puerto Rico) (https://www.transifex.com/mate/teams/13566/es_PR/) | 
+ | [marco](/f32/package/marco) | 5 | 4339 | 0.1 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [calamares](/f32/package/calamares) | 0 | 443 | 0.0 | Spanish (Puerto Rico) (https://www.transifex.com/calamares/teams/20061/es_PR/) | 
+ | [mate-themes](/f32/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
 {.sortable}
 
 

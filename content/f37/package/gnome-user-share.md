@@ -18,93 +18,93 @@ The package gnome-user-share (version 43.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f37/language/af.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/af.po | 
- | [an]({{< ref "/f37/language/an.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/an.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ar.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/as.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ast.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bg.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bn.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bn_IN.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/br.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bs.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ca@valencia.po | 
- | [ckb]({{< ref "/f37/language/ckb.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ckb.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/de.po | 
- | [dz]({{< ref "/f37/language/dz.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/dz.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/el.po | 
- | [en_CA]({{< ref "/f37/language/en_CA.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/en_CA.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/en_GB.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/eo.po | 
- | [error]({{< ref "/f37/language/error.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/en@shaw.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/es.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/et.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fa.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fur.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ga.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/gd.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/gl.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/gu.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/he.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/hi.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/id.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/is.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ja.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ka.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/kk.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/km.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/kn.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ko.po | 
- | [ln]({{< ref "/f37/language/ln.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ln.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/lv.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/mk.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ml.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/mr.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ms.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/nb.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ne.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/nl.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/nn.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/oc.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/or.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pa.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pt_BR.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sl.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sq.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sr.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sr@latin.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sv.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ta.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/te.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/tg.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/th.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/tr.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ug.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/uk.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/zh_HK.po | 
- | [ab]({{< ref "/f37/language/ab.md" >}}) | 41 | 49 | 83.7 | /mnt/stockage/packages/f37/gnome-user-share/po/ab.po | 
- | [mjw]({{< ref "/f37/language/mjw.md" >}}) | 15 | 49 | 30.6 | /mnt/stockage/packages/f37/gnome-user-share/po/mjw.po | 
- | [rw]({{< ref "/f37/language/rw.md" >}}) | 2 | 61 | 3.3 | /mnt/stockage/packages/f37/gnome-user-share/po/rw.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 8 | 288 | 2.8 | /mnt/stockage/packages/f37/gnome-user-share/po/mai.po | 
+ | [af](/f37/language/af) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/af.po | 
+ | [an](/f37/language/an) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/an.po | 
+ | [ar](/f37/language/ar) | 247 | 247 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ar.po | 
+ | [as](/f37/language/as) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/as.po | 
+ | [ast](/f37/language/ast) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ast.po | 
+ | [be](/f37/language/be) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/be.po | 
+ | [bg](/f37/language/bg) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bg.po | 
+ | [bn](/f37/language/bn) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bn.po | 
+ | [bn_IN](/f37/language/bn_IN) | 316 | 316 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bn_IN.po | 
+ | [br](/f37/language/br) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/br.po | 
+ | [bs](/f37/language/bs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/bs.po | 
+ | [ca](/f37/language/ca) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ca@valencia.po | 
+ | [ckb](/f37/language/ckb) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ckb.po | 
+ | [cs](/f37/language/cs) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/cs.po | 
+ | [da](/f37/language/da) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/da.po | 
+ | [de](/f37/language/de) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/de.po | 
+ | [dz](/f37/language/dz) | 75 | 75 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/dz.po | 
+ | [el](/f37/language/el) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/el.po | 
+ | [en_CA](/f37/language/en_CA) | 70 | 70 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/en_CA.po | 
+ | [en_GB](/f37/language/en_GB) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/en_GB.po | 
+ | [eo](/f37/language/eo) | 51 | 51 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/eo.po | 
+ | [error](/f37/language/error) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/en@shaw.po | 
+ | [es](/f37/language/es) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/es.po | 
+ | [et](/f37/language/et) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/et.po | 
+ | [eu](/f37/language/eu) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/eu.po | 
+ | [fa](/f37/language/fa) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fa.po | 
+ | [fi](/f37/language/fi) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fi.po | 
+ | [fr](/f37/language/fr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fr.po | 
+ | [fur](/f37/language/fur) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/fur.po | 
+ | [ga](/f37/language/ga) | 288 | 288 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ga.po | 
+ | [gd](/f37/language/gd) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/gd.po | 
+ | [gl](/f37/language/gl) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/gl.po | 
+ | [gu](/f37/language/gu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/gu.po | 
+ | [he](/f37/language/he) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/he.po | 
+ | [hi](/f37/language/hi) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/hi.po | 
+ | [hr](/f37/language/hr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/hr.po | 
+ | [hu](/f37/language/hu) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/hu.po | 
+ | [id](/f37/language/id) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/id.po | 
+ | [is](/f37/language/is) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/is.po | 
+ | [it](/f37/language/it) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/it.po | 
+ | [ja](/f37/language/ja) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ja.po | 
+ | [ka](/f37/language/ka) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ka.po | 
+ | [kk](/f37/language/kk) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/kk.po | 
+ | [km](/f37/language/km) | 184 | 184 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/km.po | 
+ | [kn](/f37/language/kn) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/kn.po | 
+ | [ko](/f37/language/ko) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ko.po | 
+ | [ln](/f37/language/ln) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ln.po | 
+ | [lt](/f37/language/lt) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/lt.po | 
+ | [lv](/f37/language/lv) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/lv.po | 
+ | [mk](/f37/language/mk) | 61 | 61 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/mk.po | 
+ | [ml](/f37/language/ml) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ml.po | 
+ | [mr](/f37/language/mr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/mr.po | 
+ | [ms](/f37/language/ms) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ms.po | 
+ | [nb_NO](/f37/language/nb_NO) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/nb.po | 
+ | [ne](/f37/language/ne) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ne.po | 
+ | [nl](/f37/language/nl) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/nl.po | 
+ | [nn](/f37/language/nn) | 326 | 326 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/nn.po | 
+ | [oc](/f37/language/oc) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/oc.po | 
+ | [or](/f37/language/or) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/or.po | 
+ | [pa](/f37/language/pa) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pa.po | 
+ | [pl](/f37/language/pl) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pl.po | 
+ | [pt](/f37/language/pt) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/pt_BR.po | 
+ | [ro](/f37/language/ro) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ro.po | 
+ | [ru](/f37/language/ru) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ru.po | 
+ | [sk](/f37/language/sk) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sk.po | 
+ | [sl](/f37/language/sl) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sl.po | 
+ | [sq](/f37/language/sq) | 61 | 61 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sq.po | 
+ | [sr](/f37/language/sr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sr.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 52 | 52 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sr@latin.po | 
+ | [sv](/f37/language/sv) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/sv.po | 
+ | [ta](/f37/language/ta) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ta.po | 
+ | [te](/f37/language/te) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/te.po | 
+ | [tg](/f37/language/tg) | 136 | 136 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/tg.po | 
+ | [th](/f37/language/th) | 316 | 316 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/th.po | 
+ | [tr](/f37/language/tr) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/tr.po | 
+ | [ug](/f37/language/ug) | 224 | 224 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/ug.po | 
+ | [uk](/f37/language/uk) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/uk.po | 
+ | [vi](/f37/language/vi) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 49 | 49 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/zh_TW.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/gnome-user-share/po/zh_HK.po | 
+ | [ab](/f37/language/ab) | 41 | 49 | 83.7 | /mnt/stockage/packages/f37/gnome-user-share/po/ab.po | 
+ | [mjw](/f37/language/mjw) | 15 | 49 | 30.6 | /mnt/stockage/packages/f37/gnome-user-share/po/mjw.po | 
+ | [rw](/f37/language/rw) | 2 | 61 | 3.3 | /mnt/stockage/packages/f37/gnome-user-share/po/rw.po | 
+ | [mai](/f37/language/mai) | 8 | 288 | 2.8 | /mnt/stockage/packages/f37/gnome-user-share/po/mai.po | 
 {.sortable}
 
 

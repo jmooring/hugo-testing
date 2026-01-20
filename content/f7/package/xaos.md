@@ -18,12 +18,12 @@ The package xaos (version 3.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 863 | 865 | 99.8 | /mnt/stockage/packages/f7/xaos/src/i18n/ro.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 833 | 865 | 96.3 | /mnt/stockage/packages/f7/xaos/src/i18n/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 824 | 865 | 95.3 | /mnt/stockage/packages/f7/xaos/src/i18n/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 680 | 865 | 78.6 | /mnt/stockage/packages/f7/xaos/src/i18n/hu.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 396 | 865 | 45.8 | /mnt/stockage/packages/f7/xaos/src/i18n/cs.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 387 | 865 | 44.7 | /mnt/stockage/packages/f7/xaos/src/i18n/es.po | 
+ | [ro](/f7/language/ro) | 863 | 865 | 99.8 | /mnt/stockage/packages/f7/xaos/src/i18n/ro.po | 
+ | [de](/f7/language/de) | 833 | 865 | 96.3 | /mnt/stockage/packages/f7/xaos/src/i18n/de.po | 
+ | [fr](/f7/language/fr) | 824 | 865 | 95.3 | /mnt/stockage/packages/f7/xaos/src/i18n/fr.po | 
+ | [hu](/f7/language/hu) | 680 | 865 | 78.6 | /mnt/stockage/packages/f7/xaos/src/i18n/hu.po | 
+ | [cs](/f7/language/cs) | 396 | 865 | 45.8 | /mnt/stockage/packages/f7/xaos/src/i18n/cs.po | 
+ | [es](/f7/language/es) | 387 | 865 | 44.7 | /mnt/stockage/packages/f7/xaos/src/i18n/es.po | 
 {.sortable}
 
 

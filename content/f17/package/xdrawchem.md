@@ -18,12 +18,12 @@ The package xdrawchem (version 1.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-de.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 2404 | 2404 | 100.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-pl.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 1753 | 2409 | 72.8 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-da.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1747 | 2409 | 72.5 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-it.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 940 | 2409 | 39.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-ru.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 0 | 2406 | 0.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-fr.po | 
+ | [de](/f17/language/de) | 2460 | 2460 | 100.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-de.po | 
+ | [pl](/f17/language/pl) | 2404 | 2404 | 100.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-pl.po | 
+ | [da](/f17/language/da) | 1753 | 2409 | 72.8 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-da.po | 
+ | [it](/f17/language/it) | 1747 | 2409 | 72.5 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-it.po | 
+ | [ru](/f17/language/ru) | 940 | 2409 | 39.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-ru.po | 
+ | [fr](/f17/language/fr) | 0 | 2406 | 0.0 | /mnt/stockage/packages/f17/xdrawchem/translation/xdrawchem-fr.po | 
 {.sortable}
 
 

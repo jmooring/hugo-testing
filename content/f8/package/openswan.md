@@ -18,12 +18,12 @@ The package openswan (version 2.4.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/cs.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/pt_BR.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/vi.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1169 | 1243 | 94.0 | /mnt/stockage/packages/f8/openswan/debian/po/ja.po | 
+ | [cs](/f8/language/cs) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/cs.po | 
+ | [fr](/f8/language/fr) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/fr.po | 
+ | [nl](/f8/language/nl) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/nl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/pt_BR.po | 
+ | [vi](/f8/language/vi) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f8/openswan/debian/po/vi.po | 
+ | [ja](/f8/language/ja) | 1169 | 1243 | 94.0 | /mnt/stockage/packages/f8/openswan/debian/po/ja.po | 
 {.sortable}
 
 

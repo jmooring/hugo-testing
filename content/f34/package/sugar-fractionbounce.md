@@ -18,33 +18,33 @@ The package sugar-fractionbounce (version 28.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/da.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/en.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/en_GB.po | 
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 68 | 68 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/en_US.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/es.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ru.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/uk.po | 
- | [ach]({{< ref "/f34/language/ach.md" >}}) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ach.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ca.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/fr.po | 
- | [gug]({{< ref "/f34/language/gug.md" >}}) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/gug.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/sv.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 95 | 142 | 66.9 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/fa.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 91 | 142 | 64.1 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/sq.po | 
- | [ayc]({{< ref "/f34/language/ayc.md" >}}) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ayc.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/el.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/th.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/zh_CN.po | 
- | [hy]({{< ref "/f34/language/hy.md" >}}) | 63 | 142 | 44.4 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/hy.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 62 | 142 | 43.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ms.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 22 | 142 | 15.5 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/de.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 4 | 142 | 2.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/cs.po | 
- | [mn]({{< ref "/f34/language/mn.md" >}}) | 1 | 142 | 0.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/mn.po | 
+ | [da](/f34/language/da) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/da.po | 
+ | [en](/f34/language/en) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/en.po | 
+ | [en_GB](/f34/language/en_GB) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/en_GB.po | 
+ | [en_US](/f34/language/en_US) | 68 | 68 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/en_US.po | 
+ | [es](/f34/language/es) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/es.po | 
+ | [nl](/f34/language/nl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/nl.po | 
+ | [pl](/f34/language/pl) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/pl.po | 
+ | [pt](/f34/language/pt) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ru.po | 
+ | [uk](/f34/language/uk) | 142 | 142 | 100.0 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/uk.po | 
+ | [ach](/f34/language/ach) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ach.po | 
+ | [ca](/f34/language/ca) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ca.po | 
+ | [fr](/f34/language/fr) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/fr.po | 
+ | [gug](/f34/language/gug) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/gug.po | 
+ | [sv](/f34/language/sv) | 126 | 142 | 88.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/sv.po | 
+ | [fa](/f34/language/fa) | 95 | 142 | 66.9 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/fa.po | 
+ | [sq](/f34/language/sq) | 91 | 142 | 64.1 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/sq.po | 
+ | [ayc](/f34/language/ayc) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ayc.po | 
+ | [el](/f34/language/el) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/el.po | 
+ | [th](/f34/language/th) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/th.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 65 | 142 | 45.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/zh_CN.po | 
+ | [hy](/f34/language/hy) | 63 | 142 | 44.4 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/hy.po | 
+ | [ms](/f34/language/ms) | 62 | 142 | 43.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/ms.po | 
+ | [de](/f34/language/de) | 22 | 142 | 15.5 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/de.po | 
+ | [cs](/f34/language/cs) | 4 | 142 | 2.8 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/cs.po | 
+ | [mn](/f34/language/mn) | 1 | 142 | 0.7 | /mnt/stockage/packages/f34/sugar-fractionbounce/po/mn.po | 
 {.sortable}
 
 

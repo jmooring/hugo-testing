@@ -18,9 +18,9 @@ The package acheck (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f10/acheck/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f10/acheck/po/pl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f10/acheck/po/sv.po | 
+ | [fr](/f10/language/fr) | 274 | 274 | 100.0 | /mnt/stockage/packages/f10/acheck/po/fr.po | 
+ | [pl](/f10/language/pl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f10/acheck/po/pl.po | 
+ | [sv](/f10/language/sv) | 274 | 274 | 100.0 | /mnt/stockage/packages/f10/acheck/po/sv.po | 
 {.sortable}
 
 

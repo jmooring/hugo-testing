@@ -18,8 +18,8 @@ The package python-oslo-service (version 1.19.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-error.po/mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-info.po/mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-warning.po/mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f28/python-oslo-service/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f28/language/en_GB) | 350 | 350 | 100.0 | /mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-error.po/mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-info.po/mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service-log-warning.po/mnt/stockage/packages/f28/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po | 
+ | [fr](/f28/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f28/python-oslo-service/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

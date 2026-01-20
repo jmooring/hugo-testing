@@ -18,14 +18,14 @@ The package gurlchecker (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2083 | 2083 | 100.0 | /mnt/stockage/packages/f12/gurlchecker/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 2076 | 2083 | 99.7 | /mnt/stockage/packages/f12/gurlchecker/po/it.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 1333 | 2083 | 64.0 | /mnt/stockage/packages/f12/gurlchecker/po/sk.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1218 | 2083 | 58.5 | /mnt/stockage/packages/f12/gurlchecker/po/de.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 1074 | 2083 | 51.6 | /mnt/stockage/packages/f12/gurlchecker/po/da.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 843 | 2083 | 40.5 | /mnt/stockage/packages/f12/gurlchecker/po/es.po | 
- | [eo]({{< ref "/f12/language/eo.md" >}}) | 603 | 2083 | 28.9 | /mnt/stockage/packages/f12/gurlchecker/po/eo.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 603 | 2083 | 28.9 | /mnt/stockage/packages/f12/gurlchecker/po/ja.po | 
+ | [fr](/f12/language/fr) | 2083 | 2083 | 100.0 | /mnt/stockage/packages/f12/gurlchecker/po/fr.po | 
+ | [it](/f12/language/it) | 2076 | 2083 | 99.7 | /mnt/stockage/packages/f12/gurlchecker/po/it.po | 
+ | [sk](/f12/language/sk) | 1333 | 2083 | 64.0 | /mnt/stockage/packages/f12/gurlchecker/po/sk.po | 
+ | [de](/f12/language/de) | 1218 | 2083 | 58.5 | /mnt/stockage/packages/f12/gurlchecker/po/de.po | 
+ | [da](/f12/language/da) | 1074 | 2083 | 51.6 | /mnt/stockage/packages/f12/gurlchecker/po/da.po | 
+ | [es](/f12/language/es) | 843 | 2083 | 40.5 | /mnt/stockage/packages/f12/gurlchecker/po/es.po | 
+ | [eo](/f12/language/eo) | 603 | 2083 | 28.9 | /mnt/stockage/packages/f12/gurlchecker/po/eo.po | 
+ | [ja](/f12/language/ja) | 603 | 2083 | 28.9 | /mnt/stockage/packages/f12/gurlchecker/po/ja.po | 
 {.sortable}
 
 

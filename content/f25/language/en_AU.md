@@ -38,207 +38,207 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Thunar]({{< ref "/f25/package/Thunar.md" >}}) | 4200 | 4200 | 100.0 | English (Australia) (http://www.transifex.com/xfce/thunar/language/en_AU/) | 
- | [atril]({{< ref "/f25/package/atril.md" >}}) | 1724 | 1724 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [bijiben]({{< ref "/f25/package/bijiben.md" >}}) | 309 | 309 | 100.0 | Australian English en_AU | 
- | [bleachbit]({{< ref "/f25/package/bleachbit.md" >}}) | 1178 | 1178 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [bzr]({{< ref "/f25/package/bzr.md" >}}) | 33249 | 33249 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [caja-extensions]({{< ref "/f25/package/caja-extensions.md" >}}) | 556 | 556 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [clamtk]({{< ref "/f25/package/clamtk.md" >}}) | 472 | 472 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [eom]({{< ref "/f25/package/eom.md" >}}) | 1717 | 1717 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [exo]({{< ref "/f25/package/exo.md" >}}) | 1414 | 1414 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/exo/language/en_AU/) | 
- | [galculator]({{< ref "/f25/package/galculator.md" >}}) | 935 | 935 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [garcon]({{< ref "/f25/package/garcon.md" >}}) | 109 | 109 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [gigolo]({{< ref "/f25/package/gigolo.md" >}}) | 521 | 521 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [gnome-do]({{< ref "/f25/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 251 | 251 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [libmatemixer]({{< ref "/f25/package/libmatemixer.md" >}}) | 242 | 242 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 499 | 499 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [libxfce4ui]({{< ref "/f25/package/libxfce4ui.md" >}}) | 850 | 850 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/libxfce4ui/language/en_AU/) | 
- | [libxfce4util]({{< ref "/f25/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [lightdm-gtk]({{< ref "/f25/package/lightdm-gtk.md" >}}) | 84 | 84 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [mate-backgrounds]({{< ref "/f25/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-icon-theme]({{< ref "/f25/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-menus]({{< ref "/f25/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-notification-daemon]({{< ref "/f25/package/mate-notification-daemon.md" >}}) | 139 | 139 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-polkit]({{< ref "/f25/package/mate-polkit.md" >}}) | 313 | 313 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-screensaver]({{< ref "/f25/package/mate-screensaver.md" >}}) | 983 | 983 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-sensors-applet]({{< ref "/f25/package/mate-sensors-applet.md" >}}) | 304 | 304 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-session-manager]({{< ref "/f25/package/mate-session-manager.md" >}}) | 681 | 681 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-system-monitor]({{< ref "/f25/package/mate-system-monitor.md" >}}) | 1307 | 1307 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-user-guide]({{< ref "/f25/package/mate-user-guide.md" >}}) | 5 | 5 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-utils]({{< ref "/f25/package/mate-utils.md" >}}) | 3677 | 3677 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [midori]({{< ref "/f25/package/midori.md" >}}) | 3541 | 3541 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [mousepad]({{< ref "/f25/package/mousepad.md" >}}) | 1088 | 1088 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
- | [mozo]({{< ref "/f25/package/mozo.md" >}}) | 42 | 42 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [orage]({{< ref "/f25/package/orage.md" >}}) | 2931 | 2931 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
- | [parole]({{< ref "/f25/package/parole.md" >}}) | 929 | 929 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
- | [pastebinit]({{< ref "/f25/package/pastebinit.md" >}}) | 183 | 183 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [pidgin-musictracker]({{< ref "/f25/package/pidgin-musictracker.md" >}}) | 333 | 333 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [pmount]({{< ref "/f25/package/pmount.md" >}}) | 723 | 723 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [python-caja]({{< ref "/f25/package/python-caja.md" >}}) | 6 | 6 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [python-django-openstack-auth]({{< ref "/f25/package/python-django-openstack-auth.md" >}}) | 75 | 75 | 100.0 | English (Australia) | 
- | [python-oslo-versionedobjects]({{< ref "/f25/package/python-oslo-versionedobjects.md" >}}) | 18 | 18 | 100.0 | English (Australia) | 
- | [rhythmbox-alternative-toolbar]({{< ref "/f25/package/rhythmbox-alternative-toolbar.md" >}}) | 310 | 310 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [ristretto]({{< ref "/f25/package/ristretto.md" >}}) | 756 | 756 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
- | [shutter]({{< ref "/f25/package/shutter.md" >}}) | 166 | 166 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [slingshot-launcher]({{< ref "/f25/package/slingshot-launcher.md" >}}) | 217 | 217 | 100.0 | English (Australia) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_AU/> | 
- | [snap-photobooth]({{< ref "/f25/package/snap-photobooth.md" >}}) | 25 | 25 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [thunar-vcs-plugin]({{< ref "/f25/package/thunar-vcs-plugin.md" >}}) | 595 | 595 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/thunar-plugins/language/en_AU/) | 
- | [thunar-volman]({{< ref "/f25/package/thunar-volman.md" >}}) | 487 | 487 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [trader]({{< ref "/f25/package/trader.md" >}}) | 1843 | 1843 | 100.0 | English (Australian) <(nothing)> | 
- | [transmission]({{< ref "/f25/package/transmission.md" >}}) | 1809 | 1809 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [tumbler]({{< ref "/f25/package/tumbler.md" >}}) | 278 | 278 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [tuxpaint]({{< ref "/f25/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 | none | 
- | [ufw]({{< ref "/f25/package/ufw.md" >}}) | 879 | 879 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [wingpanel]({{< ref "/f25/package/wingpanel.md" >}}) | 8 | 8 | 100.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-datetime]({{< ref "/f25/package/wingpanel-indicator-datetime.md" >}}) | 20 | 20 | 100.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-sound]({{< ref "/f25/package/wingpanel-indicator-sound.md" >}}) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
- | [xfburn]({{< ref "/f25/package/xfburn.md" >}}) | 1375 | 1375 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-appfinder]({{< ref "/f25/package/xfce4-appfinder.md" >}}) | 322 | 322 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce4-appfinder/language/en_AU/) | 
- | [xfce4-battery-plugin]({{< ref "/f25/package/xfce4-battery-plugin.md" >}}) | 147 | 147 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-clipman-plugin]({{< ref "/f25/package/xfce4-clipman-plugin.md" >}}) | 478 | 478 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-cpufreq-plugin]({{< ref "/f25/package/xfce4-cpufreq-plugin.md" >}}) | 140 | 140 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-datetime-plugin]({{< ref "/f25/package/xfce4-datetime-plugin.md" >}}) | 52 | 52 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-dict]({{< ref "/f25/package/xfce4-dict.md" >}}) | 519 | 519 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
- | [xfce4-diskperf-plugin]({{< ref "/f25/package/xfce4-diskperf-plugin.md" >}}) | 183 | 183 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-embed-plugin]({{< ref "/f25/package/xfce4-embed-plugin.md" >}}) | 219 | 219 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-eyes-plugin]({{< ref "/f25/package/xfce4-eyes-plugin.md" >}}) | 15 | 15 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f25/package/xfce4-fsguard-plugin.md" >}}) | 71 | 71 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-mailwatch-plugin]({{< ref "/f25/package/xfce4-mailwatch-plugin.md" >}}) | 685 | 685 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-mpc-plugin]({{< ref "/f25/package/xfce4-mpc-plugin.md" >}}) | 76 | 76 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-netload-plugin]({{< ref "/f25/package/xfce4-netload-plugin.md" >}}) | 92 | 92 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-notes-plugin]({{< ref "/f25/package/xfce4-notes-plugin.md" >}}) | 163 | 163 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-notifyd]({{< ref "/f25/package/xfce4-notifyd.md" >}}) | 107 | 107 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
- | [xfce4-panel]({{< ref "/f25/package/xfce4-panel.md" >}}) | 1705 | 1705 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce4-panel/language/en_AU/) | 
- | [xfce4-places-plugin]({{< ref "/f25/package/xfce4-places-plugin.md" >}}) | 157 | 157 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-power-manager]({{< ref "/f25/package/xfce4-power-manager.md" >}}) | 1017 | 1017 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce4-power-manager/language/en_AU/) | 
- | [xfce4-screenshooter]({{< ref "/f25/package/xfce4-screenshooter.md" >}}) | 550 | 550 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
- | [xfce4-sensors-plugin]({{< ref "/f25/package/xfce4-sensors-plugin.md" >}}) | 358 | 358 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-session]({{< ref "/f25/package/xfce4-session.md" >}}) | 1066 | 1066 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-settings]({{< ref "/f25/package/xfce4-settings.md" >}}) | 1617 | 1617 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce4-settings/language/en_AU/) | 
- | [xfce4-smartbookmark-plugin]({{< ref "/f25/package/xfce4-smartbookmark-plugin.md" >}}) | 22 | 22 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-systemload-plugin]({{< ref "/f25/package/xfce4-systemload-plugin.md" >}}) | 75 | 75 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-taskmanager]({{< ref "/f25/package/xfce4-taskmanager.md" >}}) | 214 | 214 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfce4-terminal]({{< ref "/f25/package/xfce4-terminal.md" >}}) | 1208 | 1208 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
- | [xfce4-time-out-plugin]({{< ref "/f25/package/xfce4-time-out-plugin.md" >}}) | 89 | 89 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-verve-plugin]({{< ref "/f25/package/xfce4-verve-plugin.md" >}}) | 103 | 103 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-wavelan-plugin]({{< ref "/f25/package/xfce4-wavelan-plugin.md" >}}) | 67 | 67 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-weather-plugin]({{< ref "/f25/package/xfce4-weather-plugin.md" >}}) | 3668 | 3668 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [xfce4-xkb-plugin]({{< ref "/f25/package/xfce4-xkb-plugin.md" >}}) | 43 | 43 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
- | [xfconf]({{< ref "/f25/package/xfconf.md" >}}) | 452 | 452 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfconf/language/en_AU/) | 
- | [xfdesktop]({{< ref "/f25/package/xfdesktop.md" >}}) | 979 | 979 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfdesktop/language/en_AU/) | 
- | [xfwm4]({{< ref "/f25/package/xfwm4.md" >}}) | 664 | 664 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfwm4/language/en_AU/) | 
- | [pinta]({{< ref "/f25/package/pinta.md" >}}) | 1617 | 1618 | 99.9 | English (Australia) <en_AU@li.org> | 
- | [mate-power-manager]({{< ref "/f25/package/mate-power-manager.md" >}}) | 2720 | 2724 | 99.9 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-desktop]({{< ref "/f25/package/mate-desktop.md" >}}) | 2341 | 2346 | 99.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [marco]({{< ref "/f25/package/marco.md" >}}) | 4068 | 4089 | 99.5 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 2603 | 2618 | 99.4 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [libexif]({{< ref "/f25/package/libexif.md" >}}) | 6930 | 6977 | 99.3 | English (Australia) <en_AU@li.org> | 
- | [duplicity]({{< ref "/f25/package/duplicity.md" >}}) | 3602 | 3632 | 99.2 | English (Australia) <en_AU@li.org> | 
- | [mate-media]({{< ref "/f25/package/mate-media.md" >}}) | 224 | 226 | 99.1 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 297 | 300 | 99.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-control-center]({{< ref "/f25/package/mate-control-center.md" >}}) | 2692 | 2722 | 98.9 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [engrampa]({{< ref "/f25/package/engrampa.md" >}}) | 1917 | 1940 | 98.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [pidgin]({{< ref "/f25/package/pidgin.md" >}}) | 15539 | 15756 | 98.6 | English (Australia) (http://www.transifex.com/pidgin/pidgin/language/en_AU/) | 
- | [mate-terminal]({{< ref "/f25/package/mate-terminal.md" >}}) | 4377 | 4439 | 98.6 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [blueman]({{< ref "/f25/package/blueman.md" >}}) | 1414 | 1446 | 97.8 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-panel]({{< ref "/f25/package/mate-panel.md" >}}) | 4256 | 4353 | 97.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [xfce4-timer-plugin]({{< ref "/f25/package/xfce4-timer-plugin.md" >}}) | 131 | 134 | 97.8 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
- | [caja]({{< ref "/f25/package/caja.md" >}}) | 9073 | 9313 | 97.4 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [deluge]({{< ref "/f25/package/deluge.md" >}}) | 2645 | 2728 | 97.0 | English (Australia) <en_AU@li.org> | 
- | [mate-settings-daemon]({{< ref "/f25/package/mate-settings-daemon.md" >}}) | 1704 | 1764 | 96.6 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [xfce4-pulseaudio-plugin]({{< ref "/f25/package/xfce4-pulseaudio-plugin.md" >}}) | 104 | 108 | 96.3 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 2381 | 2487 | 95.7 | English (Australia) <en_AU@li.org> | 
- | [mate-calc]({{< ref "/f25/package/mate-calc.md" >}}) | 1302 | 1372 | 94.9 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [mate-themes]({{< ref "/f25/package/mate-themes.md" >}}) | 55 | 58 | 94.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [slick-greeter]({{< ref "/f25/package/slick-greeter.md" >}}) | 199 | 211 | 94.3 | English (Australia) <en_AU@li.org> | 
- | [xchat-gnome]({{< ref "/f25/package/xchat-gnome.md" >}}) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 1215 | 1322 | 91.9 | LANGUAGE <LL@li.org> | 
- | [pluma]({{< ref "/f25/package/pluma.md" >}}) | 4598 | 5038 | 91.3 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [steadyflow]({{< ref "/f25/package/steadyflow.md" >}}) | 423 | 470 | 90.0 | English (Australia) <en_AU@li.org> | 
- | [onboard]({{< ref "/f25/package/onboard.md" >}}) | 2076 | 2318 | 89.6 | English (Australia) <en_AU@li.org> | 
- | [pidgin-guifications]({{< ref "/f25/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
- | [xreader]({{< ref "/f25/package/xreader.md" >}}) | 1432 | 1653 | 86.6 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
- | [catfish]({{< ref "/f25/package/catfish.md" >}}) | 550 | 650 | 84.6 | English (Australia) <en_AU@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 14 | 17 | 82.4 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 706 | 890 | 79.3 | English (Australia) <en_AU@li.org> | 
- | [xed]({{< ref "/f25/package/xed.md" >}}) | 3448 | 4508 | 76.5 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [wingpanel-indicator-power]({{< ref "/f25/package/wingpanel-indicator-power.md" >}}) | 64 | 89 | 71.9 | LANGUAGE <LL@li.org> | 
- | [exaile]({{< ref "/f25/package/exaile.md" >}}) | 2761 | 4006 | 68.9 | English (Australia) <https://hosted.weblate.org/projects/exaile/master/en_AU/> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 72 | 106 | 67.9 | English (Australia) <en_AU@li.org> | 
- | [avogadro]({{< ref "/f25/package/avogadro.md" >}}) | 4285 | 6607 | 64.9 | English (Australia) <en_AU@li.org> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 93 | 146 | 63.7 | English (Australia) <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/en_AU/> | 
- | [homebank]({{< ref "/f25/package/homebank.md" >}}) | 1357 | 2283 | 59.4 | English (Australia) <en_AU@li.org> | 
- | [openteacher]({{< ref "/f25/package/openteacher.md" >}}) | 24 | 41 | 58.5 | English (Australia) <en_AU@li.org> | 
- | [remmina]({{< ref "/f25/package/remmina.md" >}}) | 809 | 1579 | 51.2 | English (Australia) <en_AU@li.org> | 
- | [granite]({{< ref "/f25/package/granite.md" >}}) | 78 | 156 | 50.0 | English (Australia) <en_AU@li.org> | 
- | [lightdm]({{< ref "/f25/package/lightdm.md" >}}) | 79 | 163 | 48.5 | English (Australia) <en_AU@li.org> | 
- | [deja-dup]({{< ref "/f25/package/deja-dup.md" >}}) | 1864 | 4100 | 45.5 | English (Australia) <en_AU@li.org> | 
- | [soundconverter]({{< ref "/f25/package/soundconverter.md" >}}) | 174 | 388 | 44.8 | English (Australia) <en_AU@li.org> | 
- | [pantheon-greeter]({{< ref "/f25/package/pantheon-greeter.md" >}}) | 11 | 29 | 37.9 | English (Australia) <en_AU@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f25/package/tuxpaint-stamps.md" >}}) | 1015 | 2711 | 37.4 | English (Australia) <en_AU@li.org> | 
- | [python-django]({{< ref "/f25/package/python-django.md" >}}) | 1231 | 3460 | 35.6 | English (Australia) (http://www.transifex.com/django/django/language/en_AU/) | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 131 | 394 | 33.2 | English (Australia) <en_AU@li.org> | 
- | [mintmenu]({{< ref "/f25/package/mintmenu.md" >}}) | 2068 | 6770 | 30.5 | English (Australia) <en_AU@li.org> | 
- | [terminator]({{< ref "/f25/package/terminator.md" >}}) | 366 | 1410 | 26.0 | English (Australia) <en_AU@li.org> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 13 | 52 | 25.0 | English (Australia) <https://weblate.elementary.io/projects/calculator/calculator/en_AU/> | 
- | [corebird]({{< ref "/f25/package/corebird.md" >}}) | 103 | 548 | 18.8 | English (Australia) (http://www.transifex.com/corebird/corebird/language/en_AU/) | 
- | [plank]({{< ref "/f25/package/plank.md" >}}) | 33 | 189 | 17.5 | English (Australia) <en_AU@li.org> | 
- | [tortoisehg]({{< ref "/f25/package/tortoisehg.md" >}}) | 2078 | 12223 | 17.0 | English (Australia) <en_AU@li.org> | 
- | [inkscape]({{< ref "/f25/package/inkscape.md" >}}) | 5010 | 37939 | 13.2 | English (Australia) | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 5 | 41 | 12.2 | English (Australia) <en_AU@li.org> | 
- | [cinnamon-translations]({{< ref "/f25/package/cinnamon-translations.md" >}}) | 2228 | 18992 | 11.7 | English (Australia) <en_AU@li.org> | 
- | [stellarium]({{< ref "/f25/package/stellarium.md" >}}) | 2513 | 23532 | 10.7 | English (Australia) <en_AU@li.org> | 
- | [gxmessage]({{< ref "/f25/package/gxmessage.md" >}}) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
- | [ailurus]({{< ref "/f25/package/ailurus.md" >}}) | 683 | 8506 | 8.0 | none | 
- | [menulibre]({{< ref "/f25/package/menulibre.md" >}}) | 56 | 701 | 8.0 | English (Australia) <en_AU@li.org> | 
- | [jmol]({{< ref "/f25/package/jmol.md" >}}) | 113 | 1448 | 7.8 | English (Australia) <en_AU@li.org> | 
- | [xpad]({{< ref "/f25/package/xpad.md" >}}) | 21 | 406 | 5.2 | English (Australia) <en_AU@li.org> | 
- | [evolution-data-server]({{< ref "/f25/package/evolution-data-server.md" >}}) | 166 | 4504 | 3.7 |  | 
- | [openerp-client]({{< ref "/f25/package/openerp-client.md" >}}) | 219 | 7729 | 2.8 | English (Australia) <en_AU@li.org> | 
- | [gdesklets]({{< ref "/f25/package/gdesklets.md" >}}) | 41 | 1528 | 2.7 | English (Australia) <en_AU@li.org> | 
- | [gnomebaker]({{< ref "/f25/package/gnomebaker.md" >}}) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 12 | 837 | 1.4 | English (Australia) <en_AU@li.org> | 
- | [librfm]({{< ref "/f25/package/librfm.md" >}}) | 26 | 2397 | 1.1 |  | 
- | [rapid-photo-downloader]({{< ref "/f25/package/rapid-photo-downloader.md" >}}) | 10 | 1256 | 0.8 | English (Australia) <en_AU@li.org> | 
- | [gnumed]({{< ref "/f25/package/gnumed.md" >}}) | 221 | 29401 | 0.8 | LANGUAGE <LL@li.org> | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 5 | 681 | 0.7 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f25/package/supertuxkart.md" >}}) | 22 | 3180 | 0.7 | English (Australia) (http://www.transifex.com/supertuxkart/supertuxkart/language/en_AU/) | 
- | [switchboard-plug-networking]({{< ref "/f25/package/switchboard-plug-networking.md" >}}) | 2 | 432 | 0.5 | English (Australia) <en_AU@li.org> | 
- | [evolution]({{< ref "/f25/package/evolution.md" >}}) | 65 | 17202 | 0.4 |  | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 12 | 4446 | 0.3 | English (Australia) <en_AU@li.org> | 
- | [rodent]({{< ref "/f25/package/rodent.md" >}}) | 25 | 9634 | 0.3 |  | 
- | [avahi]({{< ref "/f25/package/avahi.md" >}}) | 2 | 868 | 0.2 | English (Australia) (http://www.transifex.com/lennart/avahi/language/en_AU/) | 
- | [gourmet]({{< ref "/f25/package/gourmet.md" >}}) | 8 | 3939 | 0.2 | English (Australia) <en_AU@li.org> | 
- | [calibre]({{< ref "/f25/package/calibre.md" >}}) | 192 | 152264 | 0.1 | English (Australia) (http://www.transifex.com/calibre/calibre/language/en_AU/) | 
- | [sweep]({{< ref "/f25/package/sweep.md" >}}) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
- | [blueberry]({{< ref "/f25/package/blueberry.md" >}}) | 0 | 141 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [evolution-rspam]({{< ref "/f25/package/evolution-rspam.md" >}}) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
- | [evolution-rss]({{< ref "/f25/package/evolution-rss.md" >}}) | 0 | 589 | 0.0 | LANGUAGE <LL@li.org> | 
- | [feedreader]({{< ref "/f25/package/feedreader.md" >}}) | 0 | 926 | 0.0 |  | 
- | [gnome-activity-journal]({{< ref "/f25/package/gnome-activity-journal.md" >}}) | 0 | 316 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [ldm]({{< ref "/f25/package/ldm.md" >}}) | 0 | 55 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [purple-plugin_pack]({{< ref "/f25/package/purple-plugin_pack.md" >}}) | 0 | 5008 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
- | [python-django-rest-framework]({{< ref "/f25/package/python-django-rest-framework.md" >}}) | 0 | 562 | 0.0 | English (Australia) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en_AU/) | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f25/package/switchboard-plug-applications.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-bluetooth]({{< ref "/f25/package/switchboard-plug-bluetooth.md" >}}) | 0 | 39 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f25/package/switchboard-plug-keyboard.md" >}}) | 0 | 0 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f25/package/switchboard-plug-notifications.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f25/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [widelands]({{< ref "/f25/package/widelands.md" >}}) | 0 | 1448 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f25/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f25/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-network]({{< ref "/f25/package/wingpanel-indicator-network.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-notifications]({{< ref "/f25/package/wingpanel-indicator-notifications.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel-indicator-session]({{< ref "/f25/package/wingpanel-indicator-session.md" >}}) | 0 | 54 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [Thunar](/f25/package/Thunar) | 4200 | 4200 | 100.0 | English (Australia) (http://www.transifex.com/xfce/thunar/language/en_AU/) | 
+ | [atril](/f25/package/atril) | 1724 | 1724 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [bijiben](/f25/package/bijiben) | 309 | 309 | 100.0 | Australian English en_AU | 
+ | [bleachbit](/f25/package/bleachbit) | 1178 | 1178 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [bzr](/f25/package/bzr) | 33249 | 33249 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [caja-extensions](/f25/package/caja-extensions) | 556 | 556 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [clamtk](/f25/package/clamtk) | 472 | 472 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [eom](/f25/package/eom) | 1717 | 1717 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [exo](/f25/package/exo) | 1414 | 1414 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/exo/language/en_AU/) | 
+ | [galculator](/f25/package/galculator) | 935 | 935 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [garcon](/f25/package/garcon) | 109 | 109 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [gigolo](/f25/package/gigolo) | 521 | 521 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [gnome-do](/f25/package/gnome-do) | 612 | 612 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 251 | 251 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [libmatemixer](/f25/package/libmatemixer) | 242 | 242 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [libmateweather](/f25/package/libmateweather) | 499 | 499 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [libxfce4ui](/f25/package/libxfce4ui) | 850 | 850 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/libxfce4ui/language/en_AU/) | 
+ | [libxfce4util](/f25/package/libxfce4util) | 424 | 424 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [lightdm-gtk](/f25/package/lightdm-gtk) | 84 | 84 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [mate-backgrounds](/f25/package/mate-backgrounds) | 30 | 30 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-icon-theme](/f25/package/mate-icon-theme) | 4 | 4 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-menus](/f25/package/mate-menus) | 97 | 97 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-notification-daemon](/f25/package/mate-notification-daemon) | 139 | 139 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-polkit](/f25/package/mate-polkit) | 313 | 313 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-screensaver](/f25/package/mate-screensaver) | 983 | 983 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-sensors-applet](/f25/package/mate-sensors-applet) | 304 | 304 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-session-manager](/f25/package/mate-session-manager) | 681 | 681 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-system-monitor](/f25/package/mate-system-monitor) | 1307 | 1307 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-user-guide](/f25/package/mate-user-guide) | 5 | 5 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-utils](/f25/package/mate-utils) | 3677 | 3677 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [midori](/f25/package/midori) | 3541 | 3541 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [mousepad](/f25/package/mousepad) | 1088 | 1088 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
+ | [mozo](/f25/package/mozo) | 42 | 42 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [orage](/f25/package/orage) | 2931 | 2931 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
+ | [parole](/f25/package/parole) | 929 | 929 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
+ | [pastebinit](/f25/package/pastebinit) | 183 | 183 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-musictracker](/f25/package/pidgin-musictracker) | 333 | 333 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [pmount](/f25/package/pmount) | 723 | 723 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [python-caja](/f25/package/python-caja) | 6 | 6 | 100.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [python-django-openstack-auth](/f25/package/python-django-openstack-auth) | 75 | 75 | 100.0 | English (Australia) | 
+ | [python-oslo-versionedobjects](/f25/package/python-oslo-versionedobjects) | 18 | 18 | 100.0 | English (Australia) | 
+ | [rhythmbox-alternative-toolbar](/f25/package/rhythmbox-alternative-toolbar) | 310 | 310 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [ristretto](/f25/package/ristretto) | 756 | 756 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
+ | [shutter](/f25/package/shutter) | 166 | 166 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [slingshot-launcher](/f25/package/slingshot-launcher) | 217 | 217 | 100.0 | English (Australia) <https://weblate.elementary.io/projects/wingpanel/applications-menu/en_AU/> | 
+ | [snap-photobooth](/f25/package/snap-photobooth) | 25 | 25 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [thunar-vcs-plugin](/f25/package/thunar-vcs-plugin) | 595 | 595 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/thunar-plugins/language/en_AU/) | 
+ | [thunar-volman](/f25/package/thunar-volman) | 487 | 487 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [trader](/f25/package/trader) | 1843 | 1843 | 100.0 | English (Australian) <(nothing)> | 
+ | [transmission](/f25/package/transmission) | 1809 | 1809 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [tumbler](/f25/package/tumbler) | 278 | 278 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [tuxpaint](/f25/package/tuxpaint) | 1591 | 1591 | 100.0 | none | 
+ | [ufw](/f25/package/ufw) | 879 | 879 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [wingpanel](/f25/package/wingpanel) | 8 | 8 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-datetime](/f25/package/wingpanel-indicator-datetime) | 20 | 20 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-sound](/f25/package/wingpanel-indicator-sound) | 15 | 15 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [xfburn](/f25/package/xfburn) | 1375 | 1375 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-appfinder](/f25/package/xfce4-appfinder) | 322 | 322 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce4-appfinder/language/en_AU/) | 
+ | [xfce4-battery-plugin](/f25/package/xfce4-battery-plugin) | 147 | 147 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-clipman-plugin](/f25/package/xfce4-clipman-plugin) | 478 | 478 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-cpufreq-plugin](/f25/package/xfce4-cpufreq-plugin) | 140 | 140 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-datetime-plugin](/f25/package/xfce4-datetime-plugin) | 52 | 52 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-dict](/f25/package/xfce4-dict) | 519 | 519 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
+ | [xfce4-diskperf-plugin](/f25/package/xfce4-diskperf-plugin) | 183 | 183 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-embed-plugin](/f25/package/xfce4-embed-plugin) | 219 | 219 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-eyes-plugin](/f25/package/xfce4-eyes-plugin) | 15 | 15 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-fsguard-plugin](/f25/package/xfce4-fsguard-plugin) | 71 | 71 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-mailwatch-plugin](/f25/package/xfce4-mailwatch-plugin) | 685 | 685 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-mpc-plugin](/f25/package/xfce4-mpc-plugin) | 76 | 76 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-netload-plugin](/f25/package/xfce4-netload-plugin) | 92 | 92 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-notes-plugin](/f25/package/xfce4-notes-plugin) | 163 | 163 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-notifyd](/f25/package/xfce4-notifyd) | 107 | 107 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
+ | [xfce4-panel](/f25/package/xfce4-panel) | 1705 | 1705 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce4-panel/language/en_AU/) | 
+ | [xfce4-places-plugin](/f25/package/xfce4-places-plugin) | 157 | 157 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-power-manager](/f25/package/xfce4-power-manager) | 1017 | 1017 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce4-power-manager/language/en_AU/) | 
+ | [xfce4-screenshooter](/f25/package/xfce4-screenshooter) | 550 | 550 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-apps/language/en_AU/) | 
+ | [xfce4-sensors-plugin](/f25/package/xfce4-sensors-plugin) | 358 | 358 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-session](/f25/package/xfce4-session) | 1066 | 1066 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-settings](/f25/package/xfce4-settings) | 1617 | 1617 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce4-settings/language/en_AU/) | 
+ | [xfce4-smartbookmark-plugin](/f25/package/xfce4-smartbookmark-plugin) | 22 | 22 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-systemload-plugin](/f25/package/xfce4-systemload-plugin) | 75 | 75 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-taskmanager](/f25/package/xfce4-taskmanager) | 214 | 214 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfce4-terminal](/f25/package/xfce4-terminal) | 1208 | 1208 | 100.0 | English (Australia) (http://www.transifex.com/xfce/xfce-apps/language/en_AU/) | 
+ | [xfce4-time-out-plugin](/f25/package/xfce4-time-out-plugin) | 89 | 89 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-verve-plugin](/f25/package/xfce4-verve-plugin) | 103 | 103 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-wavelan-plugin](/f25/package/xfce4-wavelan-plugin) | 67 | 67 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-weather-plugin](/f25/package/xfce4-weather-plugin) | 3668 | 3668 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [xfce4-xkb-plugin](/f25/package/xfce4-xkb-plugin) | 43 | 43 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfce/language/en_AU/) | 
+ | [xfconf](/f25/package/xfconf) | 452 | 452 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfconf/language/en_AU/) | 
+ | [xfdesktop](/f25/package/xfdesktop) | 979 | 979 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfdesktop/language/en_AU/) | 
+ | [xfwm4](/f25/package/xfwm4) | 664 | 664 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/xfwm4/language/en_AU/) | 
+ | [pinta](/f25/package/pinta) | 1617 | 1618 | 99.9 | English (Australia) <en_AU@li.org> | 
+ | [mate-power-manager](/f25/package/mate-power-manager) | 2720 | 2724 | 99.9 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-desktop](/f25/package/mate-desktop) | 2341 | 2346 | 99.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [marco](/f25/package/marco) | 4068 | 4089 | 99.5 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-applets](/f25/package/mate-applets) | 2603 | 2618 | 99.4 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [libexif](/f25/package/libexif) | 6930 | 6977 | 99.3 | English (Australia) <en_AU@li.org> | 
+ | [duplicity](/f25/package/duplicity) | 3602 | 3632 | 99.2 | English (Australia) <en_AU@li.org> | 
+ | [mate-media](/f25/package/mate-media) | 224 | 226 | 99.1 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-menu](/f25/package/mate-menu) | 297 | 300 | 99.0 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-control-center](/f25/package/mate-control-center) | 2692 | 2722 | 98.9 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [engrampa](/f25/package/engrampa) | 1917 | 1940 | 98.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [pidgin](/f25/package/pidgin) | 15539 | 15756 | 98.6 | English (Australia) (http://www.transifex.com/pidgin/pidgin/language/en_AU/) | 
+ | [mate-terminal](/f25/package/mate-terminal) | 4377 | 4439 | 98.6 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [blueman](/f25/package/blueman) | 1414 | 1446 | 97.8 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-panel](/f25/package/mate-panel) | 4256 | 4353 | 97.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [xfce4-timer-plugin](/f25/package/xfce4-timer-plugin) | 131 | 134 | 97.8 | English (Australia) (http://www.transifex.com/projects/p/xfce-panel-plugins/language/en_AU/) | 
+ | [caja](/f25/package/caja) | 9073 | 9313 | 97.4 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [deluge](/f25/package/deluge) | 2645 | 2728 | 97.0 | English (Australia) <en_AU@li.org> | 
+ | [mate-settings-daemon](/f25/package/mate-settings-daemon) | 1704 | 1764 | 96.6 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [xfce4-pulseaudio-plugin](/f25/package/xfce4-pulseaudio-plugin) | 104 | 108 | 96.3 | English (Australia) (http://www.transifex.com/xfce/xfce-panel-plugins/language/en_AU/) | 
+ | [pantheon-files](/f25/package/pantheon-files) | 2381 | 2487 | 95.7 | English (Australia) <en_AU@li.org> | 
+ | [mate-calc](/f25/package/mate-calc) | 1302 | 1372 | 94.9 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [mate-themes](/f25/package/mate-themes) | 55 | 58 | 94.8 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [slick-greeter](/f25/package/slick-greeter) | 199 | 211 | 94.3 | English (Australia) <en_AU@li.org> | 
+ | [xchat-gnome](/f25/package/xchat-gnome) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
+ | [noise](/f25/package/noise) | 1215 | 1322 | 91.9 | LANGUAGE <LL@li.org> | 
+ | [pluma](/f25/package/pluma) | 4598 | 5038 | 91.3 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [steadyflow](/f25/package/steadyflow) | 423 | 470 | 90.0 | English (Australia) <en_AU@li.org> | 
+ | [onboard](/f25/package/onboard) | 2076 | 2318 | 89.6 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-guifications](/f25/package/pidgin-guifications) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
+ | [xreader](/f25/package/xreader) | 1432 | 1653 | 86.6 | English (Australia) (http://www.transifex.com/mate/MATE/language/en_AU/) | 
+ | [catfish](/f25/package/catfish) | 550 | 650 | 84.6 | English (Australia) <en_AU@li.org> | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 14 | 17 | 82.4 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 706 | 890 | 79.3 | English (Australia) <en_AU@li.org> | 
+ | [xed](/f25/package/xed) | 3448 | 4508 | 76.5 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [wingpanel-indicator-power](/f25/package/wingpanel-indicator-power) | 64 | 89 | 71.9 | LANGUAGE <LL@li.org> | 
+ | [exaile](/f25/package/exaile) | 2761 | 4006 | 68.9 | English (Australia) <https://hosted.weblate.org/projects/exaile/master/en_AU/> | 
+ | [audience](/f25/package/audience) | 72 | 106 | 67.9 | English (Australia) <en_AU@li.org> | 
+ | [avogadro](/f25/package/avogadro) | 4285 | 6607 | 64.9 | English (Australia) <en_AU@li.org> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 93 | 146 | 63.7 | English (Australia) <https://l10n.elementary.io/projects/screenshot-tool/screenshot-tool/en_AU/> | 
+ | [homebank](/f25/package/homebank) | 1357 | 2283 | 59.4 | English (Australia) <en_AU@li.org> | 
+ | [openteacher](/f25/package/openteacher) | 24 | 41 | 58.5 | English (Australia) <en_AU@li.org> | 
+ | [remmina](/f25/package/remmina) | 809 | 1579 | 51.2 | English (Australia) <en_AU@li.org> | 
+ | [granite](/f25/package/granite) | 78 | 156 | 50.0 | English (Australia) <en_AU@li.org> | 
+ | [lightdm](/f25/package/lightdm) | 79 | 163 | 48.5 | English (Australia) <en_AU@li.org> | 
+ | [deja-dup](/f25/package/deja-dup) | 1864 | 4100 | 45.5 | English (Australia) <en_AU@li.org> | 
+ | [soundconverter](/f25/package/soundconverter) | 174 | 388 | 44.8 | English (Australia) <en_AU@li.org> | 
+ | [pantheon-greeter](/f25/package/pantheon-greeter) | 11 | 29 | 37.9 | English (Australia) <en_AU@li.org> | 
+ | [tuxpaint-stamps](/f25/package/tuxpaint-stamps) | 1015 | 2711 | 37.4 | English (Australia) <en_AU@li.org> | 
+ | [python-django](/f25/package/python-django) | 1231 | 3460 | 35.6 | English (Australia) (http://www.transifex.com/django/django/language/en_AU/) | 
+ | [maya-calendar](/f25/package/maya-calendar) | 131 | 394 | 33.2 | English (Australia) <en_AU@li.org> | 
+ | [mintmenu](/f25/package/mintmenu) | 2068 | 6770 | 30.5 | English (Australia) <en_AU@li.org> | 
+ | [terminator](/f25/package/terminator) | 366 | 1410 | 26.0 | English (Australia) <en_AU@li.org> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 13 | 52 | 25.0 | English (Australia) <https://weblate.elementary.io/projects/calculator/calculator/en_AU/> | 
+ | [corebird](/f25/package/corebird) | 103 | 548 | 18.8 | English (Australia) (http://www.transifex.com/corebird/corebird/language/en_AU/) | 
+ | [plank](/f25/package/plank) | 33 | 189 | 17.5 | English (Australia) <en_AU@li.org> | 
+ | [tortoisehg](/f25/package/tortoisehg) | 2078 | 12223 | 17.0 | English (Australia) <en_AU@li.org> | 
+ | [inkscape](/f25/package/inkscape) | 5010 | 37939 | 13.2 | English (Australia) | 
+ | [switchboard](/f25/package/switchboard) | 5 | 41 | 12.2 | English (Australia) <en_AU@li.org> | 
+ | [cinnamon-translations](/f25/package/cinnamon-translations) | 2228 | 18992 | 11.7 | English (Australia) <en_AU@li.org> | 
+ | [stellarium](/f25/package/stellarium) | 2513 | 23532 | 10.7 | English (Australia) <en_AU@li.org> | 
+ | [gxmessage](/f25/package/gxmessage) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
+ | [ailurus](/f25/package/ailurus) | 683 | 8506 | 8.0 | none | 
+ | [menulibre](/f25/package/menulibre) | 56 | 701 | 8.0 | English (Australia) <en_AU@li.org> | 
+ | [jmol](/f25/package/jmol) | 113 | 1448 | 7.8 | English (Australia) <en_AU@li.org> | 
+ | [xpad](/f25/package/xpad) | 21 | 406 | 5.2 | English (Australia) <en_AU@li.org> | 
+ | [evolution-data-server](/f25/package/evolution-data-server) | 166 | 4504 | 3.7 |  | 
+ | [openerp-client](/f25/package/openerp-client) | 219 | 7729 | 2.8 | English (Australia) <en_AU@li.org> | 
+ | [gdesklets](/f25/package/gdesklets) | 41 | 1528 | 2.7 | English (Australia) <en_AU@li.org> | 
+ | [gnomebaker](/f25/package/gnomebaker) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
+ | [openerp7](/f25/package/openerp7) | 12 | 837 | 1.4 | English (Australia) <en_AU@li.org> | 
+ | [librfm](/f25/package/librfm) | 26 | 2397 | 1.1 |  | 
+ | [rapid-photo-downloader](/f25/package/rapid-photo-downloader) | 10 | 1256 | 0.8 | English (Australia) <en_AU@li.org> | 
+ | [gnumed](/f25/package/gnumed) | 221 | 29401 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [appcenter](/f25/package/appcenter) | 5 | 681 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f25/package/supertuxkart) | 22 | 3180 | 0.7 | English (Australia) (http://www.transifex.com/supertuxkart/supertuxkart/language/en_AU/) | 
+ | [switchboard-plug-networking](/f25/package/switchboard-plug-networking) | 2 | 432 | 0.5 | English (Australia) <en_AU@li.org> | 
+ | [evolution](/f25/package/evolution) | 65 | 17202 | 0.4 |  | 
+ | [openerp](/f25/package/openerp) | 12 | 4446 | 0.3 | English (Australia) <en_AU@li.org> | 
+ | [rodent](/f25/package/rodent) | 25 | 9634 | 0.3 |  | 
+ | [avahi](/f25/package/avahi) | 2 | 868 | 0.2 | English (Australia) (http://www.transifex.com/lennart/avahi/language/en_AU/) | 
+ | [gourmet](/f25/package/gourmet) | 8 | 3939 | 0.2 | English (Australia) <en_AU@li.org> | 
+ | [calibre](/f25/package/calibre) | 192 | 152264 | 0.1 | English (Australia) (http://www.transifex.com/calibre/calibre/language/en_AU/) | 
+ | [sweep](/f25/package/sweep) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
+ | [blueberry](/f25/package/blueberry) | 0 | 141 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [evolution-rspam](/f25/package/evolution-rspam) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [evolution-rss](/f25/package/evolution-rss) | 0 | 589 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [feedreader](/f25/package/feedreader) | 0 | 926 | 0.0 |  | 
+ | [gnome-activity-journal](/f25/package/gnome-activity-journal) | 0 | 316 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [ldm](/f25/package/ldm) | 0 | 55 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [purple-plugin_pack](/f25/package/purple-plugin_pack) | 0 | 5008 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
+ | [python-django-rest-framework](/f25/package/python-django-rest-framework) | 0 | 562 | 0.0 | English (Australia) (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en_AU/) | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f25/package/switchboard-plug-applications) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-bluetooth](/f25/package/switchboard-plug-bluetooth) | 0 | 39 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [switchboard-plug-keyboard](/f25/package/switchboard-plug-keyboard) | 0 | 0 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f25/package/switchboard-plug-notifications) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-onlineaccounts](/f25/package/switchboard-plug-onlineaccounts) | 0 | 161 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [widelands](/f25/package/widelands) | 0 | 1448 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [wingpanel-indicator-bluetooth](/f25/package/wingpanel-indicator-bluetooth) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-keyboard](/f25/package/wingpanel-indicator-keyboard) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-network](/f25/package/wingpanel-indicator-network) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-notifications](/f25/package/wingpanel-indicator-notifications) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel-indicator-session](/f25/package/wingpanel-indicator-session) | 0 | 54 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

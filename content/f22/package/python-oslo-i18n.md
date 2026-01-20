@@ -18,13 +18,13 @@ The package python-oslo-i18n (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/de/LC_MESSAGES/oslo.i18n.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/en_GB/LC_MESSAGES/oslo.i18n.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/fr/LC_MESSAGES/oslo.i18n.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/it/LC_MESSAGES/oslo.i18n.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/ko_KR/LC_MESSAGES/oslo.i18n.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/pl_PL/LC_MESSAGES/oslo.i18n.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/zh_CN/LC_MESSAGES/oslo.i18n.po | 
+ | [de](/f22/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/de/LC_MESSAGES/oslo.i18n.po | 
+ | [en_GB](/f22/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/en_GB/LC_MESSAGES/oslo.i18n.po | 
+ | [fr](/f22/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/fr/LC_MESSAGES/oslo.i18n.po | 
+ | [it](/f22/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/it/LC_MESSAGES/oslo.i18n.po | 
+ | [ko](/f22/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/ko_KR/LC_MESSAGES/oslo.i18n.po | 
+ | [pl](/f22/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/pl_PL/LC_MESSAGES/oslo.i18n.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f22/python-oslo-i18n/oslo.i18n/locale/zh_CN/LC_MESSAGES/oslo.i18n.po | 
 {.sortable}
 
 

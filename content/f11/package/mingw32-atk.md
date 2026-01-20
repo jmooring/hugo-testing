@@ -18,93 +18,93 @@ The package mingw32-atk (version 1.25.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 375 | 375 | 100.0 | /mnt/stockage/packages/f11/mingw32-atk/po/es.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/bn.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/cs.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/cy.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/fi.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/he.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/pt_BR.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ar.po | 
- | [as]({{< ref "/f11/language/as.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/as.po | 
- | [be_Latn]({{< ref "/f11/language/be_Latn.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/be@latin.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/bg.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/bn_IN.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/de.po | 
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/dz.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/el.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/en_CA.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/en_GB.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/et.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/eu.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/gl.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/gu.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/hi.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/hr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ja.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ka.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ko.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/lt.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/lv.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/mk.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ml.po | 
- | [mn]({{< ref "/f11/language/mn.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/mn.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/mr.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/nb.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/nl.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/nn.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/pl.po | 
- | [ps]({{< ref "/f11/language/ps.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ps.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sk.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sl.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sq.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/te.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/uk.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/vi.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/zh_HK.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 369 | 375 | 98.4 | /mnt/stockage/packages/f11/mingw32-atk/po/be.po | 
- | [ne]({{< ref "/f11/language/ne.md" >}}) | 369 | 375 | 98.4 | /mnt/stockage/packages/f11/mingw32-atk/po/ne.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 365 | 375 | 97.3 | /mnt/stockage/packages/f11/mingw32-atk/po/id.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 364 | 375 | 97.1 | /mnt/stockage/packages/f11/mingw32-atk/po/th.po | 
- | [az]({{< ref "/f11/language/az.md" >}}) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/az.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/bs.po | 
- | [sr@ijekavian]({{< ref "/f11/language/sr@ijekavian.md" >}}) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sr@ije.po | 
- | [tt]({{< ref "/f11/language/tt.md" >}}) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/tt.po | 
- | [xh]({{< ref "/f11/language/xh.md" >}}) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/xh.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 349 | 375 | 93.1 | /mnt/stockage/packages/f11/mingw32-atk/po/fa.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 348 | 375 | 92.8 | /mnt/stockage/packages/f11/mingw32-atk/po/ku.po | 
- | [tk]({{< ref "/f11/language/tk.md" >}}) | 348 | 375 | 92.8 | /mnt/stockage/packages/f11/mingw32-atk/po/tk.po | 
- | [af]({{< ref "/f11/language/af.md" >}}) | 334 | 375 | 89.1 | /mnt/stockage/packages/f11/mingw32-atk/po/af.po | 
- | [ug]({{< ref "/f11/language/ug.md" >}}) | 319 | 375 | 85.1 | /mnt/stockage/packages/f11/mingw32-atk/po/ug.po | 
- | [wa]({{< ref "/f11/language/wa.md" >}}) | 142 | 375 | 37.9 | /mnt/stockage/packages/f11/mingw32-atk/po/wa.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 121 | 375 | 32.3 | /mnt/stockage/packages/f11/mingw32-atk/po/ms.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 48 | 375 | 12.8 | /mnt/stockage/packages/f11/mingw32-atk/po/oc.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 38 | 375 | 10.1 | /mnt/stockage/packages/f11/mingw32-atk/po/si.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/eo.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/is.po | 
- | [li]({{< ref "/f11/language/li.md" >}}) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/li.po | 
- | [yi]({{< ref "/f11/language/yi.md" >}}) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/yi.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 25 | 375 | 6.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ga.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 24 | 375 | 6.4 | /mnt/stockage/packages/f11/mingw32-atk/po/am.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 5 | 375 | 1.3 | /mnt/stockage/packages/f11/mingw32-atk/po/rw.po | 
+ | [es](/f11/language/es) | 375 | 375 | 100.0 | /mnt/stockage/packages/f11/mingw32-atk/po/es.po | 
+ | [bn](/f11/language/bn) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/bn.po | 
+ | [ca](/f11/language/ca) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/ca.po | 
+ | [cs](/f11/language/cs) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/cs.po | 
+ | [cy](/f11/language/cy) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/cy.po | 
+ | [fi](/f11/language/fi) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/fi.po | 
+ | [he](/f11/language/he) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/he.po | 
+ | [pt](/f11/language/pt) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 371 | 375 | 98.9 | /mnt/stockage/packages/f11/mingw32-atk/po/pt_BR.po | 
+ | [ar](/f11/language/ar) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ar.po | 
+ | [as](/f11/language/as) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/as.po | 
+ | [be_Latn](/f11/language/be_Latn) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/be@latin.po | 
+ | [bg](/f11/language/bg) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/bg.po | 
+ | [bn_IN](/f11/language/bn_IN) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/bn_IN.po | 
+ | [da](/f11/language/da) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/da.po | 
+ | [de](/f11/language/de) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/de.po | 
+ | [dz](/f11/language/dz) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/dz.po | 
+ | [el](/f11/language/el) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/el.po | 
+ | [en_CA](/f11/language/en_CA) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/en_CA.po | 
+ | [en_GB](/f11/language/en_GB) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/en_GB.po | 
+ | [et](/f11/language/et) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/et.po | 
+ | [eu](/f11/language/eu) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/eu.po | 
+ | [fr](/f11/language/fr) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/fr.po | 
+ | [gl](/f11/language/gl) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/gl.po | 
+ | [gu](/f11/language/gu) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/gu.po | 
+ | [hi](/f11/language/hi) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/hi.po | 
+ | [hr](/f11/language/hr) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/hr.po | 
+ | [hu](/f11/language/hu) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/hu.po | 
+ | [it](/f11/language/it) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/it.po | 
+ | [ja](/f11/language/ja) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ja.po | 
+ | [ka](/f11/language/ka) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ka.po | 
+ | [kn](/f11/language/kn) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/kn.po | 
+ | [ko](/f11/language/ko) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ko.po | 
+ | [lt](/f11/language/lt) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/lt.po | 
+ | [lv](/f11/language/lv) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/lv.po | 
+ | [mk](/f11/language/mk) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/mk.po | 
+ | [ml](/f11/language/ml) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ml.po | 
+ | [mn](/f11/language/mn) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/mn.po | 
+ | [mr](/f11/language/mr) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/mr.po | 
+ | [nb_NO](/f11/language/nb_NO) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/nb.po | 
+ | [nl](/f11/language/nl) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/nl.po | 
+ | [nn](/f11/language/nn) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/nn.po | 
+ | [or](/f11/language/or) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/or.po | 
+ | [pa](/f11/language/pa) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/pa.po | 
+ | [pl](/f11/language/pl) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/pl.po | 
+ | [ps](/f11/language/ps) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ps.po | 
+ | [ro](/f11/language/ro) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ro.po | 
+ | [ru](/f11/language/ru) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ru.po | 
+ | [sk](/f11/language/sk) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sk.po | 
+ | [sl](/f11/language/sl) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sl.po | 
+ | [sq](/f11/language/sq) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sq.po | 
+ | [sr](/f11/language/sr) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sv.po | 
+ | [ta](/f11/language/ta) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ta.po | 
+ | [te](/f11/language/te) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/te.po | 
+ | [tr](/f11/language/tr) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/tr.po | 
+ | [uk](/f11/language/uk) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/uk.po | 
+ | [vi](/f11/language/vi) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/vi.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 370 | 375 | 98.7 | /mnt/stockage/packages/f11/mingw32-atk/po/zh_HK.po | 
+ | [be](/f11/language/be) | 369 | 375 | 98.4 | /mnt/stockage/packages/f11/mingw32-atk/po/be.po | 
+ | [ne](/f11/language/ne) | 369 | 375 | 98.4 | /mnt/stockage/packages/f11/mingw32-atk/po/ne.po | 
+ | [id](/f11/language/id) | 365 | 375 | 97.3 | /mnt/stockage/packages/f11/mingw32-atk/po/id.po | 
+ | [th](/f11/language/th) | 364 | 375 | 97.1 | /mnt/stockage/packages/f11/mingw32-atk/po/th.po | 
+ | [az](/f11/language/az) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/az.po | 
+ | [bs](/f11/language/bs) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/bs.po | 
+ | [sr@ijekavian](/f11/language/sr@ijekavian) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/sr@ije.po | 
+ | [tt](/f11/language/tt) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/tt.po | 
+ | [xh](/f11/language/xh) | 359 | 375 | 95.7 | /mnt/stockage/packages/f11/mingw32-atk/po/xh.po | 
+ | [fa](/f11/language/fa) | 349 | 375 | 93.1 | /mnt/stockage/packages/f11/mingw32-atk/po/fa.po | 
+ | [ku](/f11/language/ku) | 348 | 375 | 92.8 | /mnt/stockage/packages/f11/mingw32-atk/po/ku.po | 
+ | [tk](/f11/language/tk) | 348 | 375 | 92.8 | /mnt/stockage/packages/f11/mingw32-atk/po/tk.po | 
+ | [af](/f11/language/af) | 334 | 375 | 89.1 | /mnt/stockage/packages/f11/mingw32-atk/po/af.po | 
+ | [ug](/f11/language/ug) | 319 | 375 | 85.1 | /mnt/stockage/packages/f11/mingw32-atk/po/ug.po | 
+ | [wa](/f11/language/wa) | 142 | 375 | 37.9 | /mnt/stockage/packages/f11/mingw32-atk/po/wa.po | 
+ | [ms](/f11/language/ms) | 121 | 375 | 32.3 | /mnt/stockage/packages/f11/mingw32-atk/po/ms.po | 
+ | [oc](/f11/language/oc) | 48 | 375 | 12.8 | /mnt/stockage/packages/f11/mingw32-atk/po/oc.po | 
+ | [si](/f11/language/si) | 38 | 375 | 10.1 | /mnt/stockage/packages/f11/mingw32-atk/po/si.po | 
+ | [eo](/f11/language/eo) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/eo.po | 
+ | [is](/f11/language/is) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/is.po | 
+ | [li](/f11/language/li) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/li.po | 
+ | [yi](/f11/language/yi) | 31 | 375 | 8.3 | /mnt/stockage/packages/f11/mingw32-atk/po/yi.po | 
+ | [ga](/f11/language/ga) | 25 | 375 | 6.7 | /mnt/stockage/packages/f11/mingw32-atk/po/ga.po | 
+ | [am](/f11/language/am) | 24 | 375 | 6.4 | /mnt/stockage/packages/f11/mingw32-atk/po/am.po | 
+ | [rw](/f11/language/rw) | 5 | 375 | 1.3 | /mnt/stockage/packages/f11/mingw32-atk/po/rw.po | 
 {.sortable}
 
 

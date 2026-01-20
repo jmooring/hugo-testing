@@ -18,14 +18,14 @@ The package zaz (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/hu.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/it.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/pl.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/tr.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 193 | 229 | 84.3 | /mnt/stockage/packages/f33/zaz/po/ru.po | 
+ | [de](/f33/language/de) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/de.po | 
+ | [es](/f33/language/es) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/es.po | 
+ | [fr](/f33/language/fr) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/fr.po | 
+ | [hu](/f33/language/hu) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/hu.po | 
+ | [it](/f33/language/it) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/it.po | 
+ | [pl](/f33/language/pl) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/pl.po | 
+ | [tr](/f33/language/tr) | 229 | 229 | 100.0 | /mnt/stockage/packages/f33/zaz/po/tr.po | 
+ | [ru](/f33/language/ru) | 193 | 229 | 84.3 | /mnt/stockage/packages/f33/zaz/po/ru.po | 
 {.sortable}
 
 

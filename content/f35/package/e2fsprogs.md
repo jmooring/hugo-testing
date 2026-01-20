@@ -18,27 +18,27 @@ The package e2fsprogs (version 1.46.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/cs.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/fr.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/pt.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/sv.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 10359 | 10359 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/vi.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 10166 | 10482 | 97.0 | /mnt/stockage/packages/f35/e2fsprogs/po/nl.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 9903 | 10359 | 95.6 | /mnt/stockage/packages/f35/e2fsprogs/po/zh_CN.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 9796 | 10260 | 95.5 | /mnt/stockage/packages/f35/e2fsprogs/po/hu.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 9689 | 10359 | 93.5 | /mnt/stockage/packages/f35/e2fsprogs/po/de.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 8206 | 10260 | 80.0 | /mnt/stockage/packages/f35/e2fsprogs/po/da.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 7784 | 10260 | 75.9 | /mnt/stockage/packages/f35/e2fsprogs/po/ca.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 5210 | 10260 | 50.8 | /mnt/stockage/packages/f35/e2fsprogs/po/eo.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 4875 | 10260 | 47.5 | /mnt/stockage/packages/f35/e2fsprogs/po/id.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 3766 | 10260 | 36.7 | /mnt/stockage/packages/f35/e2fsprogs/po/tr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 3115 | 10260 | 30.4 | /mnt/stockage/packages/f35/e2fsprogs/po/it.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 1419 | 10482 | 13.5 | /mnt/stockage/packages/f35/e2fsprogs/po/ms.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1074 | 10260 | 10.5 | /mnt/stockage/packages/f35/e2fsprogs/po/fi.po | 
+ | [cs](/f35/language/cs) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/cs.po | 
+ | [es](/f35/language/es) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/es.po | 
+ | [fr](/f35/language/fr) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/fr.po | 
+ | [pl](/f35/language/pl) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/pl.po | 
+ | [pt](/f35/language/pt) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/pt.po | 
+ | [sr](/f35/language/sr) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/sr.po | 
+ | [sv](/f35/language/sv) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/sv.po | 
+ | [uk](/f35/language/uk) | 10482 | 10482 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/uk.po | 
+ | [vi](/f35/language/vi) | 10359 | 10359 | 100.0 | /mnt/stockage/packages/f35/e2fsprogs/po/vi.po | 
+ | [nl](/f35/language/nl) | 10166 | 10482 | 97.0 | /mnt/stockage/packages/f35/e2fsprogs/po/nl.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 9903 | 10359 | 95.6 | /mnt/stockage/packages/f35/e2fsprogs/po/zh_CN.po | 
+ | [hu](/f35/language/hu) | 9796 | 10260 | 95.5 | /mnt/stockage/packages/f35/e2fsprogs/po/hu.po | 
+ | [de](/f35/language/de) | 9689 | 10359 | 93.5 | /mnt/stockage/packages/f35/e2fsprogs/po/de.po | 
+ | [da](/f35/language/da) | 8206 | 10260 | 80.0 | /mnt/stockage/packages/f35/e2fsprogs/po/da.po | 
+ | [ca](/f35/language/ca) | 7784 | 10260 | 75.9 | /mnt/stockage/packages/f35/e2fsprogs/po/ca.po | 
+ | [eo](/f35/language/eo) | 5210 | 10260 | 50.8 | /mnt/stockage/packages/f35/e2fsprogs/po/eo.po | 
+ | [id](/f35/language/id) | 4875 | 10260 | 47.5 | /mnt/stockage/packages/f35/e2fsprogs/po/id.po | 
+ | [tr](/f35/language/tr) | 3766 | 10260 | 36.7 | /mnt/stockage/packages/f35/e2fsprogs/po/tr.po | 
+ | [it](/f35/language/it) | 3115 | 10260 | 30.4 | /mnt/stockage/packages/f35/e2fsprogs/po/it.po | 
+ | [ms](/f35/language/ms) | 1419 | 10482 | 13.5 | /mnt/stockage/packages/f35/e2fsprogs/po/ms.po | 
+ | [fi](/f35/language/fi) | 1074 | 10260 | 10.5 | /mnt/stockage/packages/f35/e2fsprogs/po/fi.po | 
 {.sortable}
 
 

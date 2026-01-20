@@ -18,7 +18,7 @@ The package ruby-gnome2 (version 0.90.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f20/ruby-gnome2/libglade/sample/po/ja/l10n.po | 
+ | [ja](/f20/language/ja) | 7 | 7 | 100.0 | /mnt/stockage/packages/f20/ruby-gnome2/libglade/sample/po/ja/l10n.po | 
 {.sortable}
 
 

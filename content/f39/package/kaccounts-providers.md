@@ -18,50 +18,50 @@ The package kaccounts-providers (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ar/kaccounts-providers.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/az/kaccounts-providers.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/bg/kaccounts-providers.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ca/kaccounts-providers.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ca@valencia/kaccounts-providers.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/de/kaccounts-providers.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/el/kaccounts-providers.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/en_GB/kaccounts-providers.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/es/kaccounts-providers.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/eu/kaccounts-providers.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/fi/kaccounts-providers.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/fr/kaccounts-providers.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/gl/kaccounts-providers.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/hu/kaccounts-providers.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ia/kaccounts-providers.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/id/kaccounts-providers.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/it/kaccounts-providers.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ka/kaccounts-providers.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ko/kaccounts-providers.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/nl/kaccounts-providers.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/nn/kaccounts-providers.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/pl/kaccounts-providers.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/pt/kaccounts-providers.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/pt_BR/kaccounts-providers.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ro/kaccounts-providers.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ru/kaccounts-providers.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/sl/kaccounts-providers.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/sv/kaccounts-providers.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/tr/kaccounts-providers.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/uk/kaccounts-providers.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/zh_CN/kaccounts-providers.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/zh_TW/kaccounts-providers.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 82 | 101 | 81.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/da/kaccounts-providers.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 82 | 101 | 81.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/et/kaccounts-providers.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 82 | 101 | 81.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sk/kaccounts-providers.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr/kaccounts-providers.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr@ijekavian/kaccounts-providers.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr@ijekavianlatin/kaccounts-providers.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr@latin/kaccounts-providers.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 66 | 101 | 65.3 | /mnt/stockage/packages/f39/kaccounts-providers/po/cs/kaccounts-providers.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 47 | 101 | 46.5 | /mnt/stockage/packages/f39/kaccounts-providers/po/pa/kaccounts-providers.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 0 | 101 | 0.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/bs/kaccounts-providers.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 101 | 0.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ja/kaccounts-providers.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 101 | 0.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/lt/kaccounts-providers.po | 
+ | [ar](/f39/language/ar) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ar/kaccounts-providers.po | 
+ | [az](/f39/language/az) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/az/kaccounts-providers.po | 
+ | [bg](/f39/language/bg) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/bg/kaccounts-providers.po | 
+ | [ca](/f39/language/ca) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ca/kaccounts-providers.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ca@valencia/kaccounts-providers.po | 
+ | [de](/f39/language/de) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/de/kaccounts-providers.po | 
+ | [el](/f39/language/el) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/el/kaccounts-providers.po | 
+ | [en_GB](/f39/language/en_GB) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/en_GB/kaccounts-providers.po | 
+ | [es](/f39/language/es) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/es/kaccounts-providers.po | 
+ | [eu](/f39/language/eu) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/eu/kaccounts-providers.po | 
+ | [fi](/f39/language/fi) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/fi/kaccounts-providers.po | 
+ | [fr](/f39/language/fr) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/fr/kaccounts-providers.po | 
+ | [gl](/f39/language/gl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/gl/kaccounts-providers.po | 
+ | [hu](/f39/language/hu) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/hu/kaccounts-providers.po | 
+ | [ia](/f39/language/ia) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ia/kaccounts-providers.po | 
+ | [id](/f39/language/id) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/id/kaccounts-providers.po | 
+ | [it](/f39/language/it) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/it/kaccounts-providers.po | 
+ | [ka](/f39/language/ka) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ka/kaccounts-providers.po | 
+ | [ko](/f39/language/ko) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ko/kaccounts-providers.po | 
+ | [nl](/f39/language/nl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/nl/kaccounts-providers.po | 
+ | [nn](/f39/language/nn) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/nn/kaccounts-providers.po | 
+ | [pl](/f39/language/pl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/pl/kaccounts-providers.po | 
+ | [pt](/f39/language/pt) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/pt/kaccounts-providers.po | 
+ | [pt_BR](/f39/language/pt_BR) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/pt_BR/kaccounts-providers.po | 
+ | [ro](/f39/language/ro) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ro/kaccounts-providers.po | 
+ | [ru](/f39/language/ru) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ru/kaccounts-providers.po | 
+ | [sl](/f39/language/sl) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/sl/kaccounts-providers.po | 
+ | [sv](/f39/language/sv) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/sv/kaccounts-providers.po | 
+ | [tr](/f39/language/tr) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/tr/kaccounts-providers.po | 
+ | [uk](/f39/language/uk) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/uk/kaccounts-providers.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/zh_CN/kaccounts-providers.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 101 | 101 | 100.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/zh_TW/kaccounts-providers.po | 
+ | [da](/f39/language/da) | 82 | 101 | 81.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/da/kaccounts-providers.po | 
+ | [et](/f39/language/et) | 82 | 101 | 81.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/et/kaccounts-providers.po | 
+ | [sk](/f39/language/sk) | 82 | 101 | 81.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sk/kaccounts-providers.po | 
+ | [sr](/f39/language/sr) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr/kaccounts-providers.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr@ijekavian/kaccounts-providers.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr@ijekavianlatin/kaccounts-providers.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 60 | 82 | 73.2 | /mnt/stockage/packages/f39/kaccounts-providers/po/sr@latin/kaccounts-providers.po | 
+ | [cs](/f39/language/cs) | 66 | 101 | 65.3 | /mnt/stockage/packages/f39/kaccounts-providers/po/cs/kaccounts-providers.po | 
+ | [pa](/f39/language/pa) | 47 | 101 | 46.5 | /mnt/stockage/packages/f39/kaccounts-providers/po/pa/kaccounts-providers.po | 
+ | [bs](/f39/language/bs) | 0 | 101 | 0.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/bs/kaccounts-providers.po | 
+ | [ja](/f39/language/ja) | 0 | 101 | 0.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/ja/kaccounts-providers.po | 
+ | [lt](/f39/language/lt) | 0 | 101 | 0.0 | /mnt/stockage/packages/f39/kaccounts-providers/po/lt/kaccounts-providers.po | 
 {.sortable}
 
 

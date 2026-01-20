@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f21/package/libreoffice.md" >}}) | 77122 | 98141 | 78.6 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f21/package/iok.md" >}}) | 137 | 206 | 66.5 | Santali <LL@li.org> | 
+ | [libreoffice](/f21/package/libreoffice) | 77122 | 98141 | 78.6 | LANGUAGE <LL@li.org> | 
+ | [iok](/f21/package/iok) | 137 | 206 | 66.5 | Santali <LL@li.org> | 
 {.sortable}
 
 

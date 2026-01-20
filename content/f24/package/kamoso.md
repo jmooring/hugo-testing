@@ -18,52 +18,52 @@ The package kamoso (version 3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/ca/kamoso.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/ca@valencia/kamoso.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/da/kamoso.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/es/kamoso.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/fi/kamoso.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/fr/kamoso.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/gl/kamoso.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/it/kamoso.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/nl/kamoso.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/pl/kamoso.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/pt/kamoso.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/pt_BR/kamoso.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/sl/kamoso.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/sv/kamoso.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/uk/kamoso.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 88 | 119 | 73.9 | /mnt/stockage/packages/f24/kamoso/po/de/kamoso.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/en_GB/kamoso.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/et/kamoso.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/ru/kamoso.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/sk/kamoso.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/zh_CN/kamoso.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/zh_TW/kamoso.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 74 | 119 | 62.2 | /mnt/stockage/packages/f24/kamoso/po/ko/kamoso.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 73 | 119 | 61.3 | /mnt/stockage/packages/f24/kamoso/po/ast/kamoso.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 73 | 119 | 61.3 | /mnt/stockage/packages/f24/kamoso/po/tr/kamoso.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 62 | 119 | 52.1 | /mnt/stockage/packages/f24/kamoso/po/cs/kamoso.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 44 | 119 | 37.0 | /mnt/stockage/packages/f24/kamoso/po/el/kamoso.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f24/kamoso/po/id/kamoso.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 41 | 119 | 34.5 | /mnt/stockage/packages/f24/kamoso/po/lt/kamoso.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 39 | 119 | 32.8 | /mnt/stockage/packages/f24/kamoso/po/ar/kamoso.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 31 | 119 | 26.1 | /mnt/stockage/packages/f24/kamoso/po/nb/kamoso.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/bs/kamoso.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/mr/kamoso.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/eu/kamoso.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/hu/kamoso.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/ja/kamoso.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/kk/kamoso.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/lv/kamoso.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/nds/kamoso.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/ro/kamoso.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 12 | 119 | 10.1 | /mnt/stockage/packages/f24/kamoso/po/pa/kamoso.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 8 | 119 | 6.7 | /mnt/stockage/packages/f24/kamoso/po/ga/kamoso.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 8 | 119 | 6.7 | /mnt/stockage/packages/f24/kamoso/po/ug/kamoso.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 7 | 119 | 5.9 | /mnt/stockage/packages/f24/kamoso/po/mai/kamoso.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 0 | 119 | 0.0 | /mnt/stockage/packages/f24/kamoso/po/eo/kamoso.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 0 | 119 | 0.0 | /mnt/stockage/packages/f24/kamoso/po/is/kamoso.po | 
+ | [ca](/f24/language/ca) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/ca/kamoso.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/ca@valencia/kamoso.po | 
+ | [da](/f24/language/da) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/da/kamoso.po | 
+ | [es](/f24/language/es) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/es/kamoso.po | 
+ | [fi](/f24/language/fi) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/fi/kamoso.po | 
+ | [fr](/f24/language/fr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/fr/kamoso.po | 
+ | [gl](/f24/language/gl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/gl/kamoso.po | 
+ | [it](/f24/language/it) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/it/kamoso.po | 
+ | [nl](/f24/language/nl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/nl/kamoso.po | 
+ | [pl](/f24/language/pl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/pl/kamoso.po | 
+ | [pt](/f24/language/pt) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/pt/kamoso.po | 
+ | [pt_BR](/f24/language/pt_BR) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/pt_BR/kamoso.po | 
+ | [sl](/f24/language/sl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/sl/kamoso.po | 
+ | [sv](/f24/language/sv) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/sv/kamoso.po | 
+ | [uk](/f24/language/uk) | 119 | 119 | 100.0 | /mnt/stockage/packages/f24/kamoso/po/uk/kamoso.po | 
+ | [de](/f24/language/de) | 88 | 119 | 73.9 | /mnt/stockage/packages/f24/kamoso/po/de/kamoso.po | 
+ | [en_GB](/f24/language/en_GB) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/en_GB/kamoso.po | 
+ | [et](/f24/language/et) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/et/kamoso.po | 
+ | [ru](/f24/language/ru) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/ru/kamoso.po | 
+ | [sk](/f24/language/sk) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/sk/kamoso.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/zh_CN/kamoso.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 85 | 119 | 71.4 | /mnt/stockage/packages/f24/kamoso/po/zh_TW/kamoso.po | 
+ | [ko](/f24/language/ko) | 74 | 119 | 62.2 | /mnt/stockage/packages/f24/kamoso/po/ko/kamoso.po | 
+ | [ast](/f24/language/ast) | 73 | 119 | 61.3 | /mnt/stockage/packages/f24/kamoso/po/ast/kamoso.po | 
+ | [tr](/f24/language/tr) | 73 | 119 | 61.3 | /mnt/stockage/packages/f24/kamoso/po/tr/kamoso.po | 
+ | [cs](/f24/language/cs) | 62 | 119 | 52.1 | /mnt/stockage/packages/f24/kamoso/po/cs/kamoso.po | 
+ | [el](/f24/language/el) | 44 | 119 | 37.0 | /mnt/stockage/packages/f24/kamoso/po/el/kamoso.po | 
+ | [id](/f24/language/id) | 41 | 119 | 34.5 | /mnt/stockage/packages/f24/kamoso/po/id/kamoso.po | 
+ | [lt](/f24/language/lt) | 41 | 119 | 34.5 | /mnt/stockage/packages/f24/kamoso/po/lt/kamoso.po | 
+ | [ar](/f24/language/ar) | 39 | 119 | 32.8 | /mnt/stockage/packages/f24/kamoso/po/ar/kamoso.po | 
+ | [nb_NO](/f24/language/nb_NO) | 31 | 119 | 26.1 | /mnt/stockage/packages/f24/kamoso/po/nb/kamoso.po | 
+ | [bs](/f24/language/bs) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/bs/kamoso.po | 
+ | [en_US](/f24/language/en_US) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/mr/kamoso.po | 
+ | [eu](/f24/language/eu) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/eu/kamoso.po | 
+ | [hu](/f24/language/hu) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/hu/kamoso.po | 
+ | [ja](/f24/language/ja) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/ja/kamoso.po | 
+ | [kk](/f24/language/kk) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/kk/kamoso.po | 
+ | [lv](/f24/language/lv) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/lv/kamoso.po | 
+ | [nds](/f24/language/nds) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/nds/kamoso.po | 
+ | [ro](/f24/language/ro) | 19 | 119 | 16.0 | /mnt/stockage/packages/f24/kamoso/po/ro/kamoso.po | 
+ | [pa](/f24/language/pa) | 12 | 119 | 10.1 | /mnt/stockage/packages/f24/kamoso/po/pa/kamoso.po | 
+ | [ga](/f24/language/ga) | 8 | 119 | 6.7 | /mnt/stockage/packages/f24/kamoso/po/ga/kamoso.po | 
+ | [ug](/f24/language/ug) | 8 | 119 | 6.7 | /mnt/stockage/packages/f24/kamoso/po/ug/kamoso.po | 
+ | [mai](/f24/language/mai) | 7 | 119 | 5.9 | /mnt/stockage/packages/f24/kamoso/po/mai/kamoso.po | 
+ | [eo](/f24/language/eo) | 0 | 119 | 0.0 | /mnt/stockage/packages/f24/kamoso/po/eo/kamoso.po | 
+ | [is](/f24/language/is) | 0 | 119 | 0.0 | /mnt/stockage/packages/f24/kamoso/po/is/kamoso.po | 
 {.sortable}
 
 

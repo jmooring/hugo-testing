@@ -18,203 +18,203 @@ The package switchboard-plug-sound (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ca.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ca.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cs.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cs.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fr.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/he.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/he.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hu.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ja.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ja.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ru.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ru.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sk.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/uk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/uk.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 167 | 193 | 86.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tr.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 165 | 193 | 85.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/en_GB.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/en_GB.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 162 | 193 | 83.9 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/de.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/de.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 142 | 193 | 73.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fi.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 127 | 193 | 65.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nl.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 125 | 193 | 64.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/es.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/es.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 125 | 193 | 64.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mr.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 125 | 193 | 64.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 120 | 193 | 62.2 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/it.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/it.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 118 | 193 | 61.1 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pt_BR.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pt_BR.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 114 | 193 | 59.1 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/eo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/eo.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 109 | 193 | 56.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/da.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/da.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 107 | 193 | 55.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sl.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bs.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bs.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ko.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ko.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lt.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nn.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 88 | 193 | 45.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ar.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ar.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 164 | 386 | 42.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zh_CN.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/zh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh_CN.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 65 | 193 | 33.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/id.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/id.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 65 | 193 | 33.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zh_TW.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh_TW.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 63 | 193 | 32.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sv.po | 
- | [en_CA]({{< ref "/f36/language/en_CA.md" >}}) | 56 | 193 | 29.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/en_CA.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/en_CA.po | 
- | [ro_MD]({{< ref "/f36/language/ro_MD.md" >}}) | 56 | 193 | 29.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mo.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 102 | 386 | 26.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/no.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/nb.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/no.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nb.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 45 | 193 | 23.3 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hr.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 41 | 193 | 21.2 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bg.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 25 | 193 | 13.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/el.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/el.po | 
- | [en_AU]({{< ref "/f36/language/en_AU.md" >}}) | 11 | 193 | 5.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/en_AU.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/en_AU.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 11 | 193 | 5.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gl.po | 
- | [ku]({{< ref "/f36/language/ku.md" >}}) | 4 | 193 | 2.1 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ku.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ku.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 3 | 193 | 1.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/et.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/et.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 3 | 193 | 1.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/th.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/th.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 3 | 193 | 1.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ug.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ug.po | 
- | [ak]({{< ref "/f36/language/ak.md" >}}) | 2 | 193 | 1.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ak.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ak.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 2 | 193 | 1.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bn.po | 
- | [tl]({{< ref "/f36/language/tl.md" >}}) | 2 | 193 | 1.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tl.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 1 | 193 | 0.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ms.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ms.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1 | 193 | 0.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ro.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ro.po | 
- | [aa]({{< ref "/f36/language/aa.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/aa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/aa.po | 
- | [ab]({{< ref "/f36/language/ab.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ab.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ab.po | 
- | [ae]({{< ref "/f36/language/ae.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ae.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ae.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/af.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/af.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/am.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/am.po | 
- | [an]({{< ref "/f36/language/an.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/an.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/an.po | 
- | [as]({{< ref "/f36/language/as.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/as.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/as.po | 
- | [ast]({{< ref "/f36/language/ast.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ast.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ast.po | 
- | [av]({{< ref "/f36/language/av.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/av.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/av.po | 
- | [ay]({{< ref "/f36/language/ay.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ay.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ay.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/az.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/az.po | 
- | [ba]({{< ref "/f36/language/ba.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ba.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ba.po | 
- | [be]({{< ref "/f36/language/be.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/be.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/be.po | 
- | [bh]({{< ref "/f36/language/bh.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bh.po | 
- | [bi]({{< ref "/f36/language/bi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bi.po | 
- | [bm]({{< ref "/f36/language/bm.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bm.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bm.po | 
- | [bo]({{< ref "/f36/language/bo.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bo.po | 
- | [br]({{< ref "/f36/language/br.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/br.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/br.po | 
- | [ce]({{< ref "/f36/language/ce.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ce.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ce.po | 
- | [ch]({{< ref "/f36/language/ch.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ch.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ch.po | 
- | [ckb]({{< ref "/f36/language/ckb.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ckb.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ckb.po | 
- | [co]({{< ref "/f36/language/co.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/co.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/co.po | 
- | [cr]({{< ref "/f36/language/cr.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cr.po | 
- | [cu]({{< ref "/f36/language/cu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cu.po | 
- | [cv]({{< ref "/f36/language/cv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cv.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cy.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cy.po | 
- | [dv]({{< ref "/f36/language/dv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/dv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/dv.po | 
- | [dz]({{< ref "/f36/language/dz.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/dz.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/dz.po | 
- | [ee]({{< ref "/f36/language/ee.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ee.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ee.po | 
- | [error]({{< ref "/f36/language/error.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/btk.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/eu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/eu.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fa.po | 
- | [ff]({{< ref "/f36/language/ff.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ff.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ff.po | 
- | [fj]({{< ref "/f36/language/fj.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fj.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fj.po | 
- | [fo]({{< ref "/f36/language/fo.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fo.po | 
- | [fr_CA]({{< ref "/f36/language/fr_CA.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fr_CA.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fr_CA.po | 
- | [fy]({{< ref "/f36/language/fy.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fy.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fy.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ga.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ga.po | 
- | [gd]({{< ref "/f36/language/gd.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gd.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gd.po | 
- | [gn]({{< ref "/f36/language/gn.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gn.po | 
- | [gu]({{< ref "/f36/language/gu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gu.po | 
- | [gv]({{< ref "/f36/language/gv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gv.po | 
- | [ha]({{< ref "/f36/language/ha.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ha.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ha.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hi.po | 
- | [ho]({{< ref "/f36/language/ho.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ho.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ho.po | 
- | [ht]({{< ref "/f36/language/ht.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ht.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ht.po | 
- | [hy]({{< ref "/f36/language/hy.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hy.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hy.po | 
- | [hz]({{< ref "/f36/language/hz.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hz.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hz.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ia.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ia.po | 
- | [ie]({{< ref "/f36/language/ie.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ie.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ie.po | 
- | [ig]({{< ref "/f36/language/ig.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ig.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ig.po | 
- | [ii]({{< ref "/f36/language/ii.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ii.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ii.po | 
- | [ik]({{< ref "/f36/language/ik.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ik.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ik.po | 
- | [io]({{< ref "/f36/language/io.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/io.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/io.po | 
- | [is]({{< ref "/f36/language/is.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/is.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/is.po | 
- | [iu]({{< ref "/f36/language/iu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/iu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/iu.po | 
- | [jv]({{< ref "/f36/language/jv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/jv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/jv.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ka.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ka.po | 
- | [kg]({{< ref "/f36/language/kg.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kg.po | 
- | [ki]({{< ref "/f36/language/ki.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ki.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ki.po | 
- | [kj]({{< ref "/f36/language/kj.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kj.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kj.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kk.po | 
- | [kl]({{< ref "/f36/language/kl.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kl.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/km.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/km.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kn.po | 
- | [kr]({{< ref "/f36/language/kr.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kr.po | 
- | [ks]({{< ref "/f36/language/ks.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ks.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ks.po | 
- | [kv]({{< ref "/f36/language/kv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kv.po | 
- | [kw]({{< ref "/f36/language/kw.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kw.po | 
- | [ky]({{< ref "/f36/language/ky.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ky.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ky.po | 
- | [la]({{< ref "/f36/language/la.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/la.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/la.po | 
- | [lb]({{< ref "/f36/language/lb.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lb.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lb.po | 
- | [lg]({{< ref "/f36/language/lg.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lg.po | 
- | [li]({{< ref "/f36/language/li.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/li.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/li.po | 
- | [ln]({{< ref "/f36/language/ln.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ln.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ln.po | 
- | [lo]({{< ref "/f36/language/lo.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lo.po | 
- | [lu]({{< ref "/f36/language/lu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lu.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lv.po | 
- | [mg]({{< ref "/f36/language/mg.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mg.po | 
- | [mh]({{< ref "/f36/language/mh.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mh.po | 
- | [mi]({{< ref "/f36/language/mi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mi.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mk.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ml.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ml.po | 
- | [mn]({{< ref "/f36/language/mn.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mn.po | 
- | [mt]({{< ref "/f36/language/mt.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mt.po | 
- | [my]({{< ref "/f36/language/my.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/my.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/my.po | 
- | [na]({{< ref "/f36/language/na.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/na.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/na.po | 
- | [nd]({{< ref "/f36/language/nd.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nd.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nd.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ne.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ne.po | 
- | [ng]({{< ref "/f36/language/ng.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ng.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ng.po | 
- | [nr]({{< ref "/f36/language/nr.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nr.po | 
- | [nv]({{< ref "/f36/language/nv.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nv.po | 
- | [ny]({{< ref "/f36/language/ny.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ny.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ny.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/oc.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/oc.po | 
- | [oj]({{< ref "/f36/language/oj.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/oj.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/oj.po | 
- | [om]({{< ref "/f36/language/om.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/om.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/om.po | 
- | [or]({{< ref "/f36/language/or.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/or.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/or.po | 
- | [os]({{< ref "/f36/language/os.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/os.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/os.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pa.po | 
- | [pi]({{< ref "/f36/language/pi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pi.po | 
- | [ps]({{< ref "/f36/language/ps.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ps.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ps.po | 
- | [qu]({{< ref "/f36/language/qu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/qu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/qu.po | 
- | [rm]({{< ref "/f36/language/rm.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rm.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rm.po | 
- | [rn]({{< ref "/f36/language/rn.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rn.po | 
- | [rue]({{< ref "/f36/language/rue.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rue.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rue.po | 
- | [rw]({{< ref "/f36/language/rw.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rw.po | 
- | [sa]({{< ref "/f36/language/sa.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sa.po | 
- | [sc]({{< ref "/f36/language/sc.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sc.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sc.po | 
- | [sd]({{< ref "/f36/language/sd.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sd.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sd.po | 
- | [se]({{< ref "/f36/language/se.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/se.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/se.po | 
- | [sg]({{< ref "/f36/language/sg.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sg.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/si.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/si.po | 
- | [sm]({{< ref "/f36/language/sm.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sm.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sm.po | 
- | [sma]({{< ref "/f36/language/sma.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sma.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sma.po | 
- | [sn]({{< ref "/f36/language/sn.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sn.po | 
- | [so]({{< ref "/f36/language/so.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/so.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/so.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sq.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sq.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sr@latin.po | 
- | [ss]({{< ref "/f36/language/ss.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ss.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ss.po | 
- | [st]({{< ref "/f36/language/st.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/st.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/st.po | 
- | [su]({{< ref "/f36/language/su.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/su.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/su.po | 
- | [sw]({{< ref "/f36/language/sw.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sw.po | 
- | [szl]({{< ref "/f36/language/szl.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/szl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/szl.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ta.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ta.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/te.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/te.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tg.po | 
- | [ti]({{< ref "/f36/language/ti.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ti.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ti.po | 
- | [tk]({{< ref "/f36/language/tk.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tk.po | 
- | [tn]({{< ref "/f36/language/tn.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tn.po | 
- | [to]({{< ref "/f36/language/to.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/to.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/to.po | 
- | [ts]({{< ref "/f36/language/ts.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ts.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ts.po | 
- | [tt]({{< ref "/f36/language/tt.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tt.po | 
- | [tw]({{< ref "/f36/language/tw.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tw.po | 
- | [ty]({{< ref "/f36/language/ty.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ty.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ty.po | 
- | [ur]({{< ref "/f36/language/ur.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ur.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ur.po | 
- | [uz]({{< ref "/f36/language/uz.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/uz.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/uz.po | 
- | [ve]({{< ref "/f36/language/ve.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ve.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ve.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/vi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/vi.po | 
- | [vo]({{< ref "/f36/language/vo.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/vo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/vo.po | 
- | [wa]({{< ref "/f36/language/wa.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/wa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/wa.po | 
- | [wo]({{< ref "/f36/language/wo.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/wo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/wo.po | 
- | [xh]({{< ref "/f36/language/xh.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/xh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/xh.po | 
- | [yi]({{< ref "/f36/language/yi.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/yi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/yi.po | 
- | [yo]({{< ref "/f36/language/yo.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/yo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/yo.po | 
- | [za]({{< ref "/f36/language/za.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/za.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/za.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zh_HK.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh_HK.po | 
- | [zu]({{< ref "/f36/language/zu.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zu.po | 
+ | [ca](/f36/language/ca) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ca.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ca.po | 
+ | [cs](/f36/language/cs) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cs.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cs.po | 
+ | [fr](/f36/language/fr) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fr.po | 
+ | [he](/f36/language/he) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/he.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/he.po | 
+ | [hu](/f36/language/hu) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hu.po | 
+ | [ja](/f36/language/ja) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ja.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ja.po | 
+ | [pl](/f36/language/pl) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pl.po | 
+ | [pt](/f36/language/pt) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pt.po | 
+ | [ru](/f36/language/ru) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ru.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ru.po | 
+ | [sk](/f36/language/sk) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sk.po | 
+ | [uk](/f36/language/uk) | 173 | 193 | 89.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/uk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/uk.po | 
+ | [tr](/f36/language/tr) | 167 | 193 | 86.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tr.po | 
+ | [en_GB](/f36/language/en_GB) | 165 | 193 | 85.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/en_GB.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/en_GB.po | 
+ | [de](/f36/language/de) | 162 | 193 | 83.9 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/de.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/de.po | 
+ | [fi](/f36/language/fi) | 142 | 193 | 73.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fi.po | 
+ | [nl](/f36/language/nl) | 127 | 193 | 65.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nl.po | 
+ | [es](/f36/language/es) | 125 | 193 | 64.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/es.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/es.po | 
+ | [mr](/f36/language/mr) | 125 | 193 | 64.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mr.po | 
+ | [sr](/f36/language/sr) | 125 | 193 | 64.8 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sr.po | 
+ | [it](/f36/language/it) | 120 | 193 | 62.2 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/it.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/it.po | 
+ | [pt_BR](/f36/language/pt_BR) | 118 | 193 | 61.1 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pt_BR.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pt_BR.po | 
+ | [eo](/f36/language/eo) | 114 | 193 | 59.1 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/eo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/eo.po | 
+ | [da](/f36/language/da) | 109 | 193 | 56.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/da.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/da.po | 
+ | [sl](/f36/language/sl) | 107 | 193 | 55.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sl.po | 
+ | [bs](/f36/language/bs) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bs.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bs.po | 
+ | [ko](/f36/language/ko) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ko.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ko.po | 
+ | [lt](/f36/language/lt) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lt.po | 
+ | [nn](/f36/language/nn) | 105 | 193 | 54.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nn.po | 
+ | [ar](/f36/language/ar) | 88 | 193 | 45.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ar.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ar.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 164 | 386 | 42.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zh_CN.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/zh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh_CN.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh.po | 
+ | [id](/f36/language/id) | 65 | 193 | 33.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/id.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/id.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 65 | 193 | 33.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zh_TW.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh_TW.po | 
+ | [sv](/f36/language/sv) | 63 | 193 | 32.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sv.po | 
+ | [en_CA](/f36/language/en_CA) | 56 | 193 | 29.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/en_CA.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/en_CA.po | 
+ | [ro_MD](/f36/language/ro_MD) | 56 | 193 | 29.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mo.po | 
+ | [nb_NO](/f36/language/nb_NO) | 102 | 386 | 26.4 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/no.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/nb.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/no.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nb.po | 
+ | [hr](/f36/language/hr) | 45 | 193 | 23.3 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hr.po | 
+ | [bg](/f36/language/bg) | 41 | 193 | 21.2 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bg.po | 
+ | [el](/f36/language/el) | 25 | 193 | 13.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/el.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/el.po | 
+ | [en_AU](/f36/language/en_AU) | 11 | 193 | 5.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/en_AU.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/en_AU.po | 
+ | [gl](/f36/language/gl) | 11 | 193 | 5.7 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gl.po | 
+ | [ku](/f36/language/ku) | 4 | 193 | 2.1 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ku.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ku.po | 
+ | [et](/f36/language/et) | 3 | 193 | 1.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/et.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/et.po | 
+ | [th](/f36/language/th) | 3 | 193 | 1.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/th.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/th.po | 
+ | [ug](/f36/language/ug) | 3 | 193 | 1.6 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ug.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ug.po | 
+ | [ak](/f36/language/ak) | 2 | 193 | 1.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ak.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ak.po | 
+ | [bn](/f36/language/bn) | 2 | 193 | 1.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bn.po | 
+ | [tl](/f36/language/tl) | 2 | 193 | 1.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tl.po | 
+ | [ms](/f36/language/ms) | 1 | 193 | 0.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ms.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ms.po | 
+ | [ro](/f36/language/ro) | 1 | 193 | 0.5 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ro.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ro.po | 
+ | [aa](/f36/language/aa) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/aa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/aa.po | 
+ | [ab](/f36/language/ab) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ab.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ab.po | 
+ | [ae](/f36/language/ae) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ae.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ae.po | 
+ | [af](/f36/language/af) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/af.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/af.po | 
+ | [am](/f36/language/am) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/am.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/am.po | 
+ | [an](/f36/language/an) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/an.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/an.po | 
+ | [as](/f36/language/as) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/as.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/as.po | 
+ | [ast](/f36/language/ast) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ast.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ast.po | 
+ | [av](/f36/language/av) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/av.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/av.po | 
+ | [ay](/f36/language/ay) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ay.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ay.po | 
+ | [az](/f36/language/az) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/az.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/az.po | 
+ | [ba](/f36/language/ba) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ba.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ba.po | 
+ | [be](/f36/language/be) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/be.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/be.po | 
+ | [bh](/f36/language/bh) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bh.po | 
+ | [bi](/f36/language/bi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bi.po | 
+ | [bm](/f36/language/bm) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bm.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bm.po | 
+ | [bo](/f36/language/bo) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/bo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/bo.po | 
+ | [br](/f36/language/br) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/br.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/br.po | 
+ | [ce](/f36/language/ce) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ce.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ce.po | 
+ | [ch](/f36/language/ch) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ch.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ch.po | 
+ | [ckb](/f36/language/ckb) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ckb.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ckb.po | 
+ | [co](/f36/language/co) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/co.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/co.po | 
+ | [cr](/f36/language/cr) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cr.po | 
+ | [cu](/f36/language/cu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cu.po | 
+ | [cv](/f36/language/cv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cv.po | 
+ | [cy](/f36/language/cy) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/cy.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/cy.po | 
+ | [dv](/f36/language/dv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/dv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/dv.po | 
+ | [dz](/f36/language/dz) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/dz.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/dz.po | 
+ | [ee](/f36/language/ee) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ee.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ee.po | 
+ | [error](/f36/language/error) | 0 | 129 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/btk.po | 
+ | [eu](/f36/language/eu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/eu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/eu.po | 
+ | [fa](/f36/language/fa) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fa.po | 
+ | [ff](/f36/language/ff) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ff.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ff.po | 
+ | [fj](/f36/language/fj) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fj.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fj.po | 
+ | [fo](/f36/language/fo) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fo.po | 
+ | [fr_CA](/f36/language/fr_CA) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fr_CA.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fr_CA.po | 
+ | [fy](/f36/language/fy) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/fy.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/fy.po | 
+ | [ga](/f36/language/ga) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ga.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ga.po | 
+ | [gd](/f36/language/gd) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gd.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gd.po | 
+ | [gn](/f36/language/gn) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gn.po | 
+ | [gu](/f36/language/gu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gu.po | 
+ | [gv](/f36/language/gv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/gv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/gv.po | 
+ | [ha](/f36/language/ha) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ha.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ha.po | 
+ | [hi](/f36/language/hi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hi.po | 
+ | [ho](/f36/language/ho) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ho.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ho.po | 
+ | [ht](/f36/language/ht) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ht.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ht.po | 
+ | [hy](/f36/language/hy) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hy.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hy.po | 
+ | [hz](/f36/language/hz) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/hz.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/hz.po | 
+ | [ia](/f36/language/ia) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ia.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ia.po | 
+ | [ie](/f36/language/ie) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ie.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ie.po | 
+ | [ig](/f36/language/ig) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ig.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ig.po | 
+ | [ii](/f36/language/ii) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ii.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ii.po | 
+ | [ik](/f36/language/ik) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ik.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ik.po | 
+ | [io](/f36/language/io) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/io.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/io.po | 
+ | [is](/f36/language/is) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/is.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/is.po | 
+ | [iu](/f36/language/iu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/iu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/iu.po | 
+ | [jv](/f36/language/jv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/jv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/jv.po | 
+ | [ka](/f36/language/ka) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ka.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ka.po | 
+ | [kg](/f36/language/kg) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kg.po | 
+ | [ki](/f36/language/ki) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ki.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ki.po | 
+ | [kj](/f36/language/kj) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kj.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kj.po | 
+ | [kk](/f36/language/kk) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kk.po | 
+ | [kl](/f36/language/kl) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kl.po | 
+ | [km](/f36/language/km) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/km.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/km.po | 
+ | [kn](/f36/language/kn) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kn.po | 
+ | [kr](/f36/language/kr) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kr.po | 
+ | [ks](/f36/language/ks) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ks.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ks.po | 
+ | [kv](/f36/language/kv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kv.po | 
+ | [kw](/f36/language/kw) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/kw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/kw.po | 
+ | [ky](/f36/language/ky) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ky.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ky.po | 
+ | [la](/f36/language/la) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/la.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/la.po | 
+ | [lb](/f36/language/lb) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lb.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lb.po | 
+ | [lg](/f36/language/lg) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lg.po | 
+ | [li](/f36/language/li) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/li.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/li.po | 
+ | [ln](/f36/language/ln) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ln.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ln.po | 
+ | [lo](/f36/language/lo) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lo.po | 
+ | [lu](/f36/language/lu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lu.po | 
+ | [lv](/f36/language/lv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/lv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/lv.po | 
+ | [mg](/f36/language/mg) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mg.po | 
+ | [mh](/f36/language/mh) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mh.po | 
+ | [mi](/f36/language/mi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mi.po | 
+ | [mk](/f36/language/mk) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mk.po | 
+ | [ml](/f36/language/ml) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ml.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ml.po | 
+ | [mn](/f36/language/mn) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mn.po | 
+ | [mt](/f36/language/mt) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/mt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/mt.po | 
+ | [my](/f36/language/my) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/my.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/my.po | 
+ | [na](/f36/language/na) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/na.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/na.po | 
+ | [nd](/f36/language/nd) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nd.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nd.po | 
+ | [ne](/f36/language/ne) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ne.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ne.po | 
+ | [ng](/f36/language/ng) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ng.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ng.po | 
+ | [nr](/f36/language/nr) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nr.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nr.po | 
+ | [nv](/f36/language/nv) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/nv.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/nv.po | 
+ | [ny](/f36/language/ny) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ny.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ny.po | 
+ | [oc](/f36/language/oc) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/oc.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/oc.po | 
+ | [oj](/f36/language/oj) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/oj.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/oj.po | 
+ | [om](/f36/language/om) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/om.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/om.po | 
+ | [or](/f36/language/or) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/or.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/or.po | 
+ | [os](/f36/language/os) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/os.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/os.po | 
+ | [pa](/f36/language/pa) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pa.po | 
+ | [pi](/f36/language/pi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/pi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/pi.po | 
+ | [ps](/f36/language/ps) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ps.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ps.po | 
+ | [qu](/f36/language/qu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/qu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/qu.po | 
+ | [rm](/f36/language/rm) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rm.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rm.po | 
+ | [rn](/f36/language/rn) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rn.po | 
+ | [rue](/f36/language/rue) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rue.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rue.po | 
+ | [rw](/f36/language/rw) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/rw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/rw.po | 
+ | [sa](/f36/language/sa) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sa.po | 
+ | [sc](/f36/language/sc) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sc.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sc.po | 
+ | [sd](/f36/language/sd) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sd.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sd.po | 
+ | [se](/f36/language/se) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/se.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/se.po | 
+ | [sg](/f36/language/sg) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sg.po | 
+ | [si](/f36/language/si) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/si.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/si.po | 
+ | [sm](/f36/language/sm) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sm.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sm.po | 
+ | [sma](/f36/language/sma) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sma.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sma.po | 
+ | [sn](/f36/language/sn) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sn.po | 
+ | [so](/f36/language/so) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/so.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/so.po | 
+ | [sq](/f36/language/sq) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sq.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sq.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 0 | 129 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sr@latin.po | 
+ | [ss](/f36/language/ss) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ss.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ss.po | 
+ | [st](/f36/language/st) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/st.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/st.po | 
+ | [su](/f36/language/su) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/su.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/su.po | 
+ | [sw](/f36/language/sw) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/sw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/sw.po | 
+ | [szl](/f36/language/szl) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/szl.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/szl.po | 
+ | [ta](/f36/language/ta) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ta.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ta.po | 
+ | [te](/f36/language/te) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/te.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/te.po | 
+ | [tg](/f36/language/tg) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tg.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tg.po | 
+ | [ti](/f36/language/ti) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ti.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ti.po | 
+ | [tk](/f36/language/tk) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tk.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tk.po | 
+ | [tn](/f36/language/tn) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tn.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tn.po | 
+ | [to](/f36/language/to) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/to.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/to.po | 
+ | [ts](/f36/language/ts) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ts.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ts.po | 
+ | [tt](/f36/language/tt) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tt.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tt.po | 
+ | [tw](/f36/language/tw) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/tw.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/tw.po | 
+ | [ty](/f36/language/ty) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ty.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ty.po | 
+ | [ur](/f36/language/ur) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ur.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ur.po | 
+ | [uz](/f36/language/uz) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/uz.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/uz.po | 
+ | [ve](/f36/language/ve) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/ve.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/ve.po | 
+ | [vi](/f36/language/vi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/vi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/vi.po | 
+ | [vo](/f36/language/vo) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/vo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/vo.po | 
+ | [wa](/f36/language/wa) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/wa.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/wa.po | 
+ | [wo](/f36/language/wo) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/wo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/wo.po | 
+ | [xh](/f36/language/xh) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/xh.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/xh.po | 
+ | [yi](/f36/language/yi) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/yi.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/yi.po | 
+ | [yo](/f36/language/yo) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/yo.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/yo.po | 
+ | [za](/f36/language/za) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/za.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/za.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zh_HK.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zh_HK.po | 
+ | [zu](/f36/language/zu) | 0 | 193 | 0.0 | /mnt/stockage/packages/f36/switchboard-plug-sound/po/zu.po/mnt/stockage/packages/f36/switchboard-plug-sound/po/extra/zu.po | 
 {.sortable}
 
 

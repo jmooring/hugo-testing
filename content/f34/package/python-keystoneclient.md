@@ -18,7 +18,7 @@ The package python-keystoneclient (version 4.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/python-keystoneclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f34/language/fr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f34/python-keystoneclient/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

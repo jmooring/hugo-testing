@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
- | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
- | [fuse-encfs]({{< ref "/f21/package/fuse-encfs.md" >}}) | 134 | 1315 | 10.2 | Spanish (Peru) <es_PE@li.org> | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 214 | 34312 | 0.6 | Spanish (Peru) <es_PE@li.org> | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
+ | [libgweather](/f21/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f21/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
+ | [libmateweather](/f21/package/libmateweather) | 361 | 487 | 74.1 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
+ | [fuse-encfs](/f21/package/fuse-encfs) | 134 | 1315 | 10.2 | Spanish (Peru) <es_PE@li.org> | 
+ | [openerp7](/f21/package/openerp7) | 214 | 34312 | 0.6 | Spanish (Peru) <es_PE@li.org> | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
 {.sortable}
 
 

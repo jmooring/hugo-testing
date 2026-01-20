@@ -18,14 +18,14 @@ The package trytond-stock-location-sequence (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/bg_BG.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/de_DE.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/es_CO.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/fr_FR.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/ru_RU.po | 
+ | [bg](/f17/language/bg) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/bg_BG.po | 
+ | [de](/f17/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/de_DE.po | 
+ | [es](/f17/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/es_CO.po | 
+ | [fr](/f17/language/fr) | 1 | 1 | 100.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/fr_FR.po | 
+ | [cs](/f17/language/cs) | 0 | 1 | 0.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 0 | 1 | 0.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 0 | 1 | 0.0 | /mnt/stockage/packages/f17/trytond-stock-location-sequence/locale/ru_RU.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package folks (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 115 | 642 | 17.9 | /mnt/stockage/packages/f15/folks/po/de.po | 
+ | [de](/f15/language/de) | 115 | 642 | 17.9 | /mnt/stockage/packages/f15/folks/po/de.po | 
 {.sortable}
 
 

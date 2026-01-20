@@ -18,10 +18,10 @@ The package fcitx5-lua (version 5.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f32/language/da.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/da.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/ko.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/zh_TW.po | 
+ | [da](/f32/language/da) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/da.po | 
+ | [ko](/f32/language/ko) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/ko.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 13 | 13 | 100.0 | /mnt/stockage/packages/f32/fcitx5-lua/po/zh_TW.po | 
 {.sortable}
 
 

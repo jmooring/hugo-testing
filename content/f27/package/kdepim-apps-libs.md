@@ -18,45 +18,45 @@ The package kdepim-apps-libs (version 17.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ca/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ca/libsendlater.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ca@valencia/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ca@valencia/libsendlater.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/da/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/da/libsendlater.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/de/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/de/libsendlater.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/en_GB/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/en_GB/libsendlater.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/es/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/es/libsendlater.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/et/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/et/libsendlater.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/fi/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/fi/libsendlater.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/fr/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/fr/libsendlater.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/gl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/gl/libsendlater.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/hu/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/hu/libsendlater.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/it/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/it/libsendlater.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ko/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ko/libsendlater.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/lt/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/lt/libsendlater.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/nb/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/nb/libsendlater.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/nds/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/nds/libsendlater.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/nl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/nl/libsendlater.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/pl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/pl/libsendlater.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/pt/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/pt/libsendlater.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/pt_BR/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/pt_BR/libsendlater.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ru/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ru/libsendlater.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sk/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sk/libsendlater.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sl/libsendlater.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sr/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sr/libsendlater.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sv/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sv/libsendlater.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/tr/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/tr/libsendlater.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/uk/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/uk/libsendlater.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_CN/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_CN/libsendlater.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_TW/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_TW/libsendlater.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 57 | 59 | 96.6 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ar/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ar/libsendlater.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ia/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ia/libsendlater.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 51 | 59 | 86.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/bs/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/bs/libsendlater.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 49 | 59 | 83.1 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/cs/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/cs/libsendlater.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 19 | 23 | 82.6 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/el/libsendlater.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 48 | 59 | 81.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/kk/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/kk/libsendlater.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 34 | 59 | 57.6 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ro/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ro/libsendlater.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 4 | 23 | 17.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ug/libsendlater.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 2 | 59 | 3.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ast/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ast/libsendlater.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 0 | 59 | 0.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ja/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ja/libsendlater.po | 
+ | [ca](/f27/language/ca) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ca/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ca/libsendlater.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ca@valencia/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ca@valencia/libsendlater.po | 
+ | [da](/f27/language/da) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/da/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/da/libsendlater.po | 
+ | [de](/f27/language/de) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/de/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/de/libsendlater.po | 
+ | [en_GB](/f27/language/en_GB) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/en_GB/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/en_GB/libsendlater.po | 
+ | [es](/f27/language/es) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/es/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/es/libsendlater.po | 
+ | [et](/f27/language/et) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/et/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/et/libsendlater.po | 
+ | [fi](/f27/language/fi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/fi/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/fi/libsendlater.po | 
+ | [fr](/f27/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/fr/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/fr/libsendlater.po | 
+ | [gl](/f27/language/gl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/gl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/gl/libsendlater.po | 
+ | [hu](/f27/language/hu) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/hu/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/hu/libsendlater.po | 
+ | [it](/f27/language/it) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/it/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/it/libsendlater.po | 
+ | [ko](/f27/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ko/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ko/libsendlater.po | 
+ | [lt](/f27/language/lt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/lt/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/lt/libsendlater.po | 
+ | [nb_NO](/f27/language/nb_NO) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/nb/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/nb/libsendlater.po | 
+ | [nds](/f27/language/nds) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/nds/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/nds/libsendlater.po | 
+ | [nl](/f27/language/nl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/nl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/nl/libsendlater.po | 
+ | [pl](/f27/language/pl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/pl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/pl/libsendlater.po | 
+ | [pt](/f27/language/pt) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/pt/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/pt/libsendlater.po | 
+ | [pt_BR](/f27/language/pt_BR) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/pt_BR/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/pt_BR/libsendlater.po | 
+ | [ru](/f27/language/ru) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ru/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ru/libsendlater.po | 
+ | [sk](/f27/language/sk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sk/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sk/libsendlater.po | 
+ | [sl](/f27/language/sl) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sl/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sl/libsendlater.po | 
+ | [sr](/f27/language/sr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sr/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sr/libsendlater.po | 
+ | [sv](/f27/language/sv) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/sv/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/sv/libsendlater.po | 
+ | [tr](/f27/language/tr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/tr/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/tr/libsendlater.po | 
+ | [uk](/f27/language/uk) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/uk/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/uk/libsendlater.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_CN/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_CN/libsendlater.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 59 | 59 | 100.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_TW/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/zh_TW/libsendlater.po | 
+ | [ar](/f27/language/ar) | 57 | 59 | 96.6 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ar/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ar/libsendlater.po | 
+ | [ia](/f27/language/ia) | 54 | 59 | 91.5 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ia/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ia/libsendlater.po | 
+ | [bs](/f27/language/bs) | 51 | 59 | 86.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/bs/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/bs/libsendlater.po | 
+ | [cs](/f27/language/cs) | 49 | 59 | 83.1 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/cs/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/cs/libsendlater.po | 
+ | [el](/f27/language/el) | 19 | 23 | 82.6 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/el/libsendlater.po | 
+ | [kk](/f27/language/kk) | 48 | 59 | 81.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/kk/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/kk/libsendlater.po | 
+ | [ro](/f27/language/ro) | 34 | 59 | 57.6 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ro/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ro/libsendlater.po | 
+ | [ug](/f27/language/ug) | 4 | 23 | 17.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ug/libsendlater.po | 
+ | [ast](/f27/language/ast) | 2 | 59 | 3.4 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ast/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ast/libsendlater.po | 
+ | [ja](/f27/language/ja) | 0 | 59 | 0.0 | /mnt/stockage/packages/f27/kdepim-apps-libs/po/ja/libkaddressbookgrantlee.po/mnt/stockage/packages/f27/kdepim-apps-libs/po/ja/libsendlater.po | 
 {.sortable}
 
 

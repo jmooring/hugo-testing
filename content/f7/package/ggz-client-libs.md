@@ -18,7 +18,7 @@ The package ggz-client-libs (version 0.0.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f7/ggz-client-libs/po/ggz-config/de.po/mnt/stockage/packages/f7/ggz-client-libs/po/ggzcore/de.po | 
+ | [de](/f7/language/de) | 446 | 446 | 100.0 | /mnt/stockage/packages/f7/ggz-client-libs/po/ggz-config/de.po/mnt/stockage/packages/f7/ggz-client-libs/po/ggzcore/de.po | 
 {.sortable}
 
 

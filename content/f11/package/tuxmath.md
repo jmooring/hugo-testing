@@ -18,35 +18,35 @@ The package tuxmath (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f11/language/ast.md" >}}) | 1037 | 1051 | 98.7 | /mnt/stockage/packages/f11/tuxmath/po/ast.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f11/tuxmath/po/en_GB.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f11/tuxmath/po/nn.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f11/tuxmath/po/pt.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 929 | 1051 | 88.4 | /mnt/stockage/packages/f11/tuxmath/po/es.po | 
- | [error]({{< ref "/f11/language/error.md" >}}) | 2585 | 3153 | 82.0 | /mnt/stockage/packages/f11/tuxmath/po/zam.po/mnt/stockage/packages/f11/tuxmath/po/en@boldquot.po/mnt/stockage/packages/f11/tuxmath/po/en@quot.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 812 | 1051 | 77.3 | /mnt/stockage/packages/f11/tuxmath/po/zh_CN.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 559 | 1051 | 53.2 | /mnt/stockage/packages/f11/tuxmath/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 540 | 1051 | 51.4 | /mnt/stockage/packages/f11/tuxmath/po/tr.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 414 | 1051 | 39.4 | /mnt/stockage/packages/f11/tuxmath/po/nb.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f11/tuxmath/po/ga.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f11/tuxmath/po/he.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 397 | 1051 | 37.8 | /mnt/stockage/packages/f11/tuxmath/po/ku.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f11/tuxmath/po/ar.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f11/tuxmath/po/de.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f11/tuxmath/po/hu.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/fr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/ja.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/nl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/sk.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 278 | 1051 | 26.5 | /mnt/stockage/packages/f11/tuxmath/po/sl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 269 | 1051 | 25.6 | /mnt/stockage/packages/f11/tuxmath/po/pl.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 268 | 1051 | 25.5 | /mnt/stockage/packages/f11/tuxmath/po/it.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 182 | 1051 | 17.3 | /mnt/stockage/packages/f11/tuxmath/po/fi.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 158 | 1051 | 15.0 | /mnt/stockage/packages/f11/tuxmath/po/oc.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 46 | 1051 | 4.4 | /mnt/stockage/packages/f11/tuxmath/po/vi.po | 
+ | [ast](/f11/language/ast) | 1037 | 1051 | 98.7 | /mnt/stockage/packages/f11/tuxmath/po/ast.po | 
+ | [en_GB](/f11/language/en_GB) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f11/tuxmath/po/en_GB.po | 
+ | [nn](/f11/language/nn) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f11/tuxmath/po/nn.po | 
+ | [pt](/f11/language/pt) | 935 | 1051 | 89.0 | /mnt/stockage/packages/f11/tuxmath/po/pt.po | 
+ | [es](/f11/language/es) | 929 | 1051 | 88.4 | /mnt/stockage/packages/f11/tuxmath/po/es.po | 
+ | [error](/f11/language/error) | 2585 | 3153 | 82.0 | /mnt/stockage/packages/f11/tuxmath/po/zam.po/mnt/stockage/packages/f11/tuxmath/po/en@boldquot.po/mnt/stockage/packages/f11/tuxmath/po/en@quot.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 812 | 1051 | 77.3 | /mnt/stockage/packages/f11/tuxmath/po/zh_CN.po | 
+ | [sv](/f11/language/sv) | 559 | 1051 | 53.2 | /mnt/stockage/packages/f11/tuxmath/po/sv.po | 
+ | [tr](/f11/language/tr) | 540 | 1051 | 51.4 | /mnt/stockage/packages/f11/tuxmath/po/tr.po | 
+ | [nb_NO](/f11/language/nb_NO) | 414 | 1051 | 39.4 | /mnt/stockage/packages/f11/tuxmath/po/nb.po | 
+ | [ga](/f11/language/ga) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f11/tuxmath/po/ga.po | 
+ | [he](/f11/language/he) | 402 | 1051 | 38.2 | /mnt/stockage/packages/f11/tuxmath/po/he.po | 
+ | [ku](/f11/language/ku) | 397 | 1051 | 37.8 | /mnt/stockage/packages/f11/tuxmath/po/ku.po | 
+ | [ar](/f11/language/ar) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f11/tuxmath/po/ar.po | 
+ | [de](/f11/language/de) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f11/tuxmath/po/de.po | 
+ | [hu](/f11/language/hu) | 396 | 1051 | 37.7 | /mnt/stockage/packages/f11/tuxmath/po/hu.po | 
+ | [cs](/f11/language/cs) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/cs.po | 
+ | [fr](/f11/language/fr) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/fr.po | 
+ | [ja](/f11/language/ja) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/ja.po | 
+ | [nl](/f11/language/nl) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/nl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/ru.po | 
+ | [sk](/f11/language/sk) | 288 | 1051 | 27.4 | /mnt/stockage/packages/f11/tuxmath/po/sk.po | 
+ | [sl](/f11/language/sl) | 278 | 1051 | 26.5 | /mnt/stockage/packages/f11/tuxmath/po/sl.po | 
+ | [pl](/f11/language/pl) | 269 | 1051 | 25.6 | /mnt/stockage/packages/f11/tuxmath/po/pl.po | 
+ | [it](/f11/language/it) | 268 | 1051 | 25.5 | /mnt/stockage/packages/f11/tuxmath/po/it.po | 
+ | [fi](/f11/language/fi) | 182 | 1051 | 17.3 | /mnt/stockage/packages/f11/tuxmath/po/fi.po | 
+ | [oc](/f11/language/oc) | 158 | 1051 | 15.0 | /mnt/stockage/packages/f11/tuxmath/po/oc.po | 
+ | [vi](/f11/language/vi) | 46 | 1051 | 4.4 | /mnt/stockage/packages/f11/tuxmath/po/vi.po | 
 {.sortable}
 
 

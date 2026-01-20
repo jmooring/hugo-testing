@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 1178 | 2286 | 51.5 | none | 
- | [inkscape]({{< ref "/f35/package/inkscape.md" >}}) | 17847 | 43605 | 40.9 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f35/package/libreoffice.md" >}}) | 55862 | 165978 | 33.7 | LANGUAGE <LL@li.org> | 
- | [gimagereader]({{< ref "/f35/package/gimagereader.md" >}}) | 183 | 1817 | 10.1 | Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/> | 
+ | [tuxpaint](/f35/package/tuxpaint) | 1178 | 2286 | 51.5 | none | 
+ | [inkscape](/f35/package/inkscape) | 17847 | 43605 | 40.9 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f35/package/libreoffice) | 55862 | 165978 | 33.7 | LANGUAGE <LL@li.org> | 
+ | [gimagereader](/f35/package/gimagereader) | 183 | 1817 | 10.1 | Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/> | 
 {.sortable}
 
 

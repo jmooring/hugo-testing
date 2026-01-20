@@ -18,106 +18,106 @@ The package mozo (version 1.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f25/language/af.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/af.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/am.po | 
- | [an]({{< ref "/f25/language/an.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/an.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/as.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ast.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bg.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bn.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bn_IN.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/br.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bs.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ca.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ca@valencia.po | 
- | [crh]({{< ref "/f25/language/crh.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/crh.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/cs.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/cy.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/de.po | 
- | [dz]({{< ref "/f25/language/dz.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/dz.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/el.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/en_AU.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/en_CA.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/en_GB.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/eo.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es.po | 
- | [es_CL]({{< ref "/f25/language/es_CL.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es_CL.po | 
- | [es_CO]({{< ref "/f25/language/es_CO.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es_CO.po | 
- | [es_MX]({{< ref "/f25/language/es_MX.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es_MX.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fa.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fr.po | 
- | [fur]({{< ref "/f25/language/fur.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fur.po | 
- | [fy]({{< ref "/f25/language/fy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fy.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ga.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/gl.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/gu.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/he.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hi.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hu.po | 
- | [hy]({{< ref "/f25/language/hy.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hy.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/id.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/is.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ja.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ka.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/kk.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ko.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ky.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/lv.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mai.po | 
- | [mg]({{< ref "/f25/language/mg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mg.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ml.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ms.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nb.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nds.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nl.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nn.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/oc.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/or.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pa.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pl.po | 
- | [ps]({{< ref "/f25/language/ps.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ps.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sl.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sr.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/te.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/uk.po | 
- | [uz]({{< ref "/f25/language/uz.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/uz.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/vi.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/mozo/po/zh_CN.po/mnt/stockage/packages/f25/mozo/po/cmn.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/zh_HK.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 31 | 42 | 73.8 | /mnt/stockage/packages/f25/mozo/po/si.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 28 | 42 | 66.7 | /mnt/stockage/packages/f25/mozo/po/ku.po | 
- | [es_VE]({{< ref "/f25/language/es_VE.md" >}}) | 17 | 42 | 40.5 | /mnt/stockage/packages/f25/mozo/po/es_VE.po | 
- | [kmr]({{< ref "/f25/language/kmr.md" >}}) | 14 | 42 | 33.3 | /mnt/stockage/packages/f25/mozo/po/ku_IQ.po | 
- | [fr_CA]({{< ref "/f25/language/fr_CA.md" >}}) | 5 | 42 | 11.9 | /mnt/stockage/packages/f25/mozo/po/fr_CA.po | 
- | [frp]({{< ref "/f25/language/frp.md" >}}) | 5 | 42 | 11.9 | /mnt/stockage/packages/f25/mozo/po/frp.po | 
- | [pms]({{< ref "/f25/language/pms.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f25/mozo/po/pms.po | 
- | [es_AR]({{< ref "/f25/language/es_AR.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f25/mozo/po/es_AR.po | 
+ | [af](/f25/language/af) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/af.po | 
+ | [am](/f25/language/am) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/am.po | 
+ | [an](/f25/language/an) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/an.po | 
+ | [ar](/f25/language/ar) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ar.po | 
+ | [as](/f25/language/as) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/as.po | 
+ | [ast](/f25/language/ast) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ast.po | 
+ | [be](/f25/language/be) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/be.po | 
+ | [bg](/f25/language/bg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bg.po | 
+ | [bn](/f25/language/bn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bn.po | 
+ | [bn_IN](/f25/language/bn_IN) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bn_IN.po | 
+ | [br](/f25/language/br) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/br.po | 
+ | [bs](/f25/language/bs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/bs.po | 
+ | [ca](/f25/language/ca) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ca.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ca@valencia.po | 
+ | [crh](/f25/language/crh) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/crh.po | 
+ | [cs](/f25/language/cs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/cs.po | 
+ | [cy](/f25/language/cy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/cy.po | 
+ | [da](/f25/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/da.po | 
+ | [de](/f25/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/de.po | 
+ | [dz](/f25/language/dz) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/dz.po | 
+ | [el](/f25/language/el) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/el.po | 
+ | [en_AU](/f25/language/en_AU) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/en_AU.po | 
+ | [en_CA](/f25/language/en_CA) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/en_CA.po | 
+ | [en_GB](/f25/language/en_GB) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/en_GB.po | 
+ | [eo](/f25/language/eo) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/eo.po | 
+ | [es](/f25/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es.po | 
+ | [es_CL](/f25/language/es_CL) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es_CL.po | 
+ | [es_CO](/f25/language/es_CO) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es_CO.po | 
+ | [es_MX](/f25/language/es_MX) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/es_MX.po | 
+ | [et](/f25/language/et) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/et.po | 
+ | [eu](/f25/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/eu.po | 
+ | [fa](/f25/language/fa) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fa.po | 
+ | [fi](/f25/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fi.po | 
+ | [fr](/f25/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fr.po | 
+ | [fur](/f25/language/fur) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fur.po | 
+ | [fy](/f25/language/fy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/fy.po | 
+ | [ga](/f25/language/ga) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ga.po | 
+ | [gl](/f25/language/gl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/gl.po | 
+ | [gu](/f25/language/gu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/gu.po | 
+ | [he](/f25/language/he) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/he.po | 
+ | [hi](/f25/language/hi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hi.po | 
+ | [hr](/f25/language/hr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hr.po | 
+ | [hu](/f25/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hu.po | 
+ | [hy](/f25/language/hy) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/hy.po | 
+ | [id](/f25/language/id) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/id.po | 
+ | [is](/f25/language/is) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/is.po | 
+ | [it](/f25/language/it) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/it.po | 
+ | [ja](/f25/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ja.po | 
+ | [ka](/f25/language/ka) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ka.po | 
+ | [kk](/f25/language/kk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/kk.po | 
+ | [kn](/f25/language/kn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/kn.po | 
+ | [ko](/f25/language/ko) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ko.po | 
+ | [ky](/f25/language/ky) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ky.po | 
+ | [lt](/f25/language/lt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/lt.po | 
+ | [lv](/f25/language/lv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/lv.po | 
+ | [mai](/f25/language/mai) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mai.po | 
+ | [mg](/f25/language/mg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mg.po | 
+ | [mk](/f25/language/mk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mk.po | 
+ | [ml](/f25/language/ml) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ml.po | 
+ | [mn](/f25/language/mn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mn.po | 
+ | [mr](/f25/language/mr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/mr.po | 
+ | [ms](/f25/language/ms) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ms.po | 
+ | [nb_NO](/f25/language/nb_NO) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nb.po | 
+ | [nds](/f25/language/nds) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nds.po | 
+ | [nl](/f25/language/nl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nl.po | 
+ | [nn](/f25/language/nn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/nn.po | 
+ | [oc](/f25/language/oc) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/oc.po | 
+ | [or](/f25/language/or) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/or.po | 
+ | [pa](/f25/language/pa) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pa.po | 
+ | [pl](/f25/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pl.po | 
+ | [ps](/f25/language/ps) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ps.po | 
+ | [pt](/f25/language/pt) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ro.po | 
+ | [ru](/f25/language/ru) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ru.po | 
+ | [sk](/f25/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sk.po | 
+ | [sl](/f25/language/sl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sl.po | 
+ | [sq](/f25/language/sq) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sq.po | 
+ | [sr](/f25/language/sr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sr.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/sv.po | 
+ | [ta](/f25/language/ta) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ta.po | 
+ | [te](/f25/language/te) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/te.po | 
+ | [th](/f25/language/th) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/th.po | 
+ | [tr](/f25/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/tr.po | 
+ | [ug](/f25/language/ug) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/ug.po | 
+ | [uk](/f25/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/uk.po | 
+ | [uz](/f25/language/uz) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/uz.po | 
+ | [vi](/f25/language/vi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/vi.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f25/mozo/po/zh_CN.po/mnt/stockage/packages/f25/mozo/po/cmn.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 42 | 42 | 100.0 | /mnt/stockage/packages/f25/mozo/po/zh_HK.po | 
+ | [si](/f25/language/si) | 31 | 42 | 73.8 | /mnt/stockage/packages/f25/mozo/po/si.po | 
+ | [ku](/f25/language/ku) | 28 | 42 | 66.7 | /mnt/stockage/packages/f25/mozo/po/ku.po | 
+ | [es_VE](/f25/language/es_VE) | 17 | 42 | 40.5 | /mnt/stockage/packages/f25/mozo/po/es_VE.po | 
+ | [kmr](/f25/language/kmr) | 14 | 42 | 33.3 | /mnt/stockage/packages/f25/mozo/po/ku_IQ.po | 
+ | [fr_CA](/f25/language/fr_CA) | 5 | 42 | 11.9 | /mnt/stockage/packages/f25/mozo/po/fr_CA.po | 
+ | [frp](/f25/language/frp) | 5 | 42 | 11.9 | /mnt/stockage/packages/f25/mozo/po/frp.po | 
+ | [pms](/f25/language/pms) | 2 | 42 | 4.8 | /mnt/stockage/packages/f25/mozo/po/pms.po | 
+ | [es_AR](/f25/language/es_AR) | 1 | 42 | 2.4 | /mnt/stockage/packages/f25/mozo/po/es_AR.po | 
 {.sortable}
 
 

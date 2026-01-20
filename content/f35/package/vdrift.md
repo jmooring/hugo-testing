@@ -18,16 +18,16 @@ The package vdrift (version 20141020):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/fr.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/gd.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/hu_HU.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/pl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/uk.po | 
+ | [de](/f35/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/de.po | 
+ | [fr](/f35/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/fr.po | 
+ | [gd](/f35/language/gd) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/gd.po | 
+ | [hu](/f35/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/hu_HU.po | 
+ | [pl](/f35/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/pl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/pt_BR.po | 
+ | [ro](/f35/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/ro.po | 
+ | [ru](/f35/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/ru.po | 
+ | [tr](/f35/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/tr.po | 
+ | [uk](/f35/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/vdrift/locale/uk.po | 
 {.sortable}
 
 

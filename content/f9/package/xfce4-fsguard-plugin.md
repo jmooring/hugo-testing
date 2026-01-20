@@ -18,28 +18,28 @@ The package xfce4-fsguard-plugin (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/fr.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/pt_BR.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/cs.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 62 | 64 | 96.9 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/nb_NO.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 58 | 64 | 90.6 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/hu.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ca.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/eu.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ja.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ko.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/pl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/sq.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/uk.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/zh_TW.po | 
- | [pt_PT]({{< ref "/f9/language/pt_PT.md" >}}) | 49 | 64 | 76.6 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/pt_PT.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 47 | 64 | 73.4 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 47 | 64 | 73.4 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/vi.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 44 | 64 | 68.8 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/en_GB.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 43 | 64 | 67.2 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/lt.po | 
- | [ur]({{< ref "/f9/language/ur.md" >}}) | 16 | 64 | 25.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ur.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/gl.po | 
+ | [de](/f9/language/de) | 64 | 64 | 100.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/de.po | 
+ | [fr](/f9/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/fr.po | 
+ | [pt_BR](/f9/language/pt_BR) | 64 | 64 | 100.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/pt_BR.po | 
+ | [cs](/f9/language/cs) | 62 | 64 | 96.9 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/cs.po | 
+ | [lv](/f9/language/lv) | 62 | 64 | 96.9 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/lv.po | 
+ | [nb_NO](/f9/language/nb_NO) | 62 | 64 | 96.9 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/nb_NO.po | 
+ | [hu](/f9/language/hu) | 58 | 64 | 90.6 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/hu.po | 
+ | [ca](/f9/language/ca) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ca.po | 
+ | [eu](/f9/language/eu) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/eu.po | 
+ | [ja](/f9/language/ja) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ja.po | 
+ | [ko](/f9/language/ko) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ko.po | 
+ | [pl](/f9/language/pl) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/pl.po | 
+ | [sq](/f9/language/sq) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/sq.po | 
+ | [uk](/f9/language/uk) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/uk.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 51 | 64 | 79.7 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/zh_TW.po | 
+ | [pt_PT](/f9/language/pt_PT) | 49 | 64 | 76.6 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/pt_PT.po | 
+ | [sv](/f9/language/sv) | 47 | 64 | 73.4 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/sv.po | 
+ | [vi](/f9/language/vi) | 47 | 64 | 73.4 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/vi.po | 
+ | [en_GB](/f9/language/en_GB) | 44 | 64 | 68.8 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/en_GB.po | 
+ | [lt](/f9/language/lt) | 43 | 64 | 67.2 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/lt.po | 
+ | [ur](/f9/language/ur) | 16 | 64 | 25.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/ur.po | 
+ | [gl](/f9/language/gl) | 0 | 64 | 0.0 | /mnt/stockage/packages/f9/xfce4-fsguard-plugin/po/gl.po | 
 {.sortable}
 
 

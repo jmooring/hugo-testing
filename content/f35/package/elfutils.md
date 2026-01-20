@@ -18,12 +18,12 @@ The package elfutils (version 0.187):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f35/language/error.md" >}}) | 18396 | 18396 | 100.0 | /mnt/stockage/packages/f35/elfutils/po/en@boldquot.po/mnt/stockage/packages/f35/elfutils/po/en@quot.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 9149 | 9198 | 99.5 | /mnt/stockage/packages/f35/elfutils/po/pl.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 8277 | 9198 | 90.0 | /mnt/stockage/packages/f35/elfutils/po/uk.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 5742 | 9198 | 62.4 | /mnt/stockage/packages/f35/elfutils/po/es.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 4474 | 9198 | 48.6 | /mnt/stockage/packages/f35/elfutils/po/ja.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 866 | 9198 | 9.4 | /mnt/stockage/packages/f35/elfutils/po/de.po | 
+ | [error](/f35/language/error) | 18396 | 18396 | 100.0 | /mnt/stockage/packages/f35/elfutils/po/en@boldquot.po/mnt/stockage/packages/f35/elfutils/po/en@quot.po | 
+ | [pl](/f35/language/pl) | 9149 | 9198 | 99.5 | /mnt/stockage/packages/f35/elfutils/po/pl.po | 
+ | [uk](/f35/language/uk) | 8277 | 9198 | 90.0 | /mnt/stockage/packages/f35/elfutils/po/uk.po | 
+ | [es](/f35/language/es) | 5742 | 9198 | 62.4 | /mnt/stockage/packages/f35/elfutils/po/es.po | 
+ | [ja](/f35/language/ja) | 4474 | 9198 | 48.6 | /mnt/stockage/packages/f35/elfutils/po/ja.po | 
+ | [de](/f35/language/de) | 866 | 9198 | 9.4 | /mnt/stockage/packages/f35/elfutils/po/de.po | 
 {.sortable}
 
 

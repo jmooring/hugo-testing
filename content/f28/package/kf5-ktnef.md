@@ -18,53 +18,53 @@ The package kf5-ktnef (version 18.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/bs/libktnef5.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ca/libktnef5.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ca@valencia/libktnef5.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/da/libktnef5.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/de/libktnef5.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/el/libktnef5.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/en_GB/libktnef5.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/es/libktnef5.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/et/libktnef5.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/fi/libktnef5.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/fr/libktnef5.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ga/libktnef5.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/gl/libktnef5.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/hu/libktnef5.po | 
- | [ia]({{< ref "/f28/language/ia.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ia/libktnef5.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/it/libktnef5.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ja/libktnef5.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/kk/libktnef5.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/km/libktnef5.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ko/libktnef5.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/nb/libktnef5.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/nds/libktnef5.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/nl/libktnef5.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/pl/libktnef5.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/pt/libktnef5.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/pt_BR/libktnef5.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ru/libktnef5.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sk/libktnef5.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sl/libktnef5.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sr/libktnef5.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sv/libktnef5.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/tr/libktnef5.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/uk/libktnef5.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/zh_CN/libktnef5.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/zh_TW/libktnef5.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/ar/libktnef5.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/hi/libktnef5.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/lv/libktnef5.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/nn/libktnef5.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 298 | 355 | 83.9 | /mnt/stockage/packages/f28/kf5-ktnef/po/cs/libktnef5.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 172 | 355 | 48.5 | /mnt/stockage/packages/f28/kf5-ktnef/po/pa/libktnef5.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 135 | 355 | 38.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ro/libktnef5.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 75 | 355 | 21.1 | /mnt/stockage/packages/f28/kf5-ktnef/po/lt/libktnef5.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 50 | 355 | 14.1 | /mnt/stockage/packages/f28/kf5-ktnef/po/ug/libktnef5.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 17 | 355 | 4.8 | /mnt/stockage/packages/f28/kf5-ktnef/po/eo/libktnef5.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 13 | 355 | 3.7 | /mnt/stockage/packages/f28/kf5-ktnef/po/mr/libktnef5.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 1 | 355 | 0.3 | /mnt/stockage/packages/f28/kf5-ktnef/po/ast/libktnef5.po | 
+ | [bs](/f28/language/bs) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/bs/libktnef5.po | 
+ | [ca](/f28/language/ca) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ca/libktnef5.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ca@valencia/libktnef5.po | 
+ | [da](/f28/language/da) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/da/libktnef5.po | 
+ | [de](/f28/language/de) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/de/libktnef5.po | 
+ | [el](/f28/language/el) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/el/libktnef5.po | 
+ | [en_GB](/f28/language/en_GB) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/en_GB/libktnef5.po | 
+ | [es](/f28/language/es) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/es/libktnef5.po | 
+ | [et](/f28/language/et) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/et/libktnef5.po | 
+ | [fi](/f28/language/fi) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/fi/libktnef5.po | 
+ | [fr](/f28/language/fr) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/fr/libktnef5.po | 
+ | [ga](/f28/language/ga) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ga/libktnef5.po | 
+ | [gl](/f28/language/gl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/gl/libktnef5.po | 
+ | [hu](/f28/language/hu) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/hu/libktnef5.po | 
+ | [ia](/f28/language/ia) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ia/libktnef5.po | 
+ | [it](/f28/language/it) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/it/libktnef5.po | 
+ | [ja](/f28/language/ja) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ja/libktnef5.po | 
+ | [kk](/f28/language/kk) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/kk/libktnef5.po | 
+ | [km](/f28/language/km) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/km/libktnef5.po | 
+ | [ko](/f28/language/ko) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ko/libktnef5.po | 
+ | [nb_NO](/f28/language/nb_NO) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/nb/libktnef5.po | 
+ | [nds](/f28/language/nds) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/nds/libktnef5.po | 
+ | [nl](/f28/language/nl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/nl/libktnef5.po | 
+ | [pl](/f28/language/pl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/pl/libktnef5.po | 
+ | [pt](/f28/language/pt) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/pt/libktnef5.po | 
+ | [pt_BR](/f28/language/pt_BR) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/pt_BR/libktnef5.po | 
+ | [ru](/f28/language/ru) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ru/libktnef5.po | 
+ | [sk](/f28/language/sk) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sk/libktnef5.po | 
+ | [sl](/f28/language/sl) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sl/libktnef5.po | 
+ | [sr](/f28/language/sr) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sr/libktnef5.po | 
+ | [sv](/f28/language/sv) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/sv/libktnef5.po | 
+ | [tr](/f28/language/tr) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/tr/libktnef5.po | 
+ | [uk](/f28/language/uk) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/uk/libktnef5.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/zh_CN/libktnef5.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 355 | 355 | 100.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/zh_TW/libktnef5.po | 
+ | [ar](/f28/language/ar) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/ar/libktnef5.po | 
+ | [hi](/f28/language/hi) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/hi/libktnef5.po | 
+ | [lv](/f28/language/lv) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/lv/libktnef5.po | 
+ | [nn](/f28/language/nn) | 353 | 355 | 99.4 | /mnt/stockage/packages/f28/kf5-ktnef/po/nn/libktnef5.po | 
+ | [cs](/f28/language/cs) | 298 | 355 | 83.9 | /mnt/stockage/packages/f28/kf5-ktnef/po/cs/libktnef5.po | 
+ | [pa](/f28/language/pa) | 172 | 355 | 48.5 | /mnt/stockage/packages/f28/kf5-ktnef/po/pa/libktnef5.po | 
+ | [ro](/f28/language/ro) | 135 | 355 | 38.0 | /mnt/stockage/packages/f28/kf5-ktnef/po/ro/libktnef5.po | 
+ | [lt](/f28/language/lt) | 75 | 355 | 21.1 | /mnt/stockage/packages/f28/kf5-ktnef/po/lt/libktnef5.po | 
+ | [ug](/f28/language/ug) | 50 | 355 | 14.1 | /mnt/stockage/packages/f28/kf5-ktnef/po/ug/libktnef5.po | 
+ | [eo](/f28/language/eo) | 17 | 355 | 4.8 | /mnt/stockage/packages/f28/kf5-ktnef/po/eo/libktnef5.po | 
+ | [mr](/f28/language/mr) | 13 | 355 | 3.7 | /mnt/stockage/packages/f28/kf5-ktnef/po/mr/libktnef5.po | 
+ | [ast](/f28/language/ast) | 1 | 355 | 0.3 | /mnt/stockage/packages/f28/kf5-ktnef/po/ast/libktnef5.po | 
 {.sortable}
 
 

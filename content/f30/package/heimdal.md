@@ -18,7 +18,7 @@ The package heimdal (version 7.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 181 | 2676 | 6.8 | /mnt/stockage/packages/f30/heimdal/po/heim_com_err-1765328384/sv_SE.po/mnt/stockage/packages/f30/heimdal/po/heimdal_krb5/sv_SE.po | 
+ | [sv](/f30/language/sv) | 181 | 2676 | 6.8 | /mnt/stockage/packages/f30/heimdal/po/heim_com_err-1765328384/sv_SE.po/mnt/stockage/packages/f30/heimdal/po/heimdal_krb5/sv_SE.po | 
 {.sortable}
 
 

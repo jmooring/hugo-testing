@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f27/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 | none | 
- | [iok]({{< ref "/f27/package/iok.md" >}}) | 137 | 206 | 66.5 | Santali <LL@li.org> | 
- | [libreoffice]({{< ref "/f27/package/libreoffice.md" >}}) | 58832 | 96529 | 60.9 | LANGUAGE <LL@li.org> | 
- | [inkscape]({{< ref "/f27/package/inkscape.md" >}}) | 21155 | 38214 | 55.4 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f27/package/tuxpaint) | 1591 | 1591 | 100.0 | none | 
+ | [iok](/f27/package/iok) | 137 | 206 | 66.5 | Santali <LL@li.org> | 
+ | [libreoffice](/f27/package/libreoffice) | 58832 | 96529 | 60.9 | LANGUAGE <LL@li.org> | 
+ | [inkscape](/f27/package/inkscape) | 21155 | 38214 | 55.4 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

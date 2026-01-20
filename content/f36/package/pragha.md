@@ -18,29 +18,29 @@ The package pragha (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f36/pragha/po/es.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/bg.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/de.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/ko_KR.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/pt.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/uk.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 873 | 890 | 98.1 | /mnt/stockage/packages/f36/pragha/po/ru.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 830 | 890 | 93.3 | /mnt/stockage/packages/f36/pragha/po/fr.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 750 | 890 | 84.3 | /mnt/stockage/packages/f36/pragha/po/nl.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 733 | 890 | 82.4 | /mnt/stockage/packages/f36/pragha/po/lt.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 695 | 890 | 78.1 | /mnt/stockage/packages/f36/pragha/po/ca_ES.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 653 | 890 | 73.4 | /mnt/stockage/packages/f36/pragha/po/tr.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 585 | 890 | 65.7 | /mnt/stockage/packages/f36/pragha/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 569 | 890 | 63.9 | /mnt/stockage/packages/f36/pragha/po/zh_CN.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 564 | 890 | 63.4 | /mnt/stockage/packages/f36/pragha/po/it.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 554 | 890 | 62.2 | /mnt/stockage/packages/f36/pragha/po/hu.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 322 | 890 | 36.2 | /mnt/stockage/packages/f36/pragha/po/el.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 288 | 890 | 32.4 | /mnt/stockage/packages/f36/pragha/po/sv.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 285 | 890 | 32.0 | /mnt/stockage/packages/f36/pragha/po/vi.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 268 | 890 | 30.1 | /mnt/stockage/packages/f36/pragha/po/pl.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 211 | 890 | 23.7 | /mnt/stockage/packages/f36/pragha/po/ja.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 174 | 890 | 19.6 | /mnt/stockage/packages/f36/pragha/po/no.po | 
+ | [es](/f36/language/es) | 890 | 890 | 100.0 | /mnt/stockage/packages/f36/pragha/po/es.po | 
+ | [bg](/f36/language/bg) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/bg.po | 
+ | [cs](/f36/language/cs) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/cs.po | 
+ | [de](/f36/language/de) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/de.po | 
+ | [ko](/f36/language/ko) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/ko_KR.po | 
+ | [pt](/f36/language/pt) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/pt.po | 
+ | [uk](/f36/language/uk) | 878 | 890 | 98.7 | /mnt/stockage/packages/f36/pragha/po/uk.po | 
+ | [ru](/f36/language/ru) | 873 | 890 | 98.1 | /mnt/stockage/packages/f36/pragha/po/ru.po | 
+ | [fr](/f36/language/fr) | 830 | 890 | 93.3 | /mnt/stockage/packages/f36/pragha/po/fr.po | 
+ | [nl](/f36/language/nl) | 750 | 890 | 84.3 | /mnt/stockage/packages/f36/pragha/po/nl.po | 
+ | [lt](/f36/language/lt) | 733 | 890 | 82.4 | /mnt/stockage/packages/f36/pragha/po/lt.po | 
+ | [ca](/f36/language/ca) | 695 | 890 | 78.1 | /mnt/stockage/packages/f36/pragha/po/ca_ES.po | 
+ | [tr](/f36/language/tr) | 653 | 890 | 73.4 | /mnt/stockage/packages/f36/pragha/po/tr.po | 
+ | [pt_BR](/f36/language/pt_BR) | 585 | 890 | 65.7 | /mnt/stockage/packages/f36/pragha/po/pt_BR.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 569 | 890 | 63.9 | /mnt/stockage/packages/f36/pragha/po/zh_CN.po | 
+ | [it](/f36/language/it) | 564 | 890 | 63.4 | /mnt/stockage/packages/f36/pragha/po/it.po | 
+ | [hu](/f36/language/hu) | 554 | 890 | 62.2 | /mnt/stockage/packages/f36/pragha/po/hu.po | 
+ | [el](/f36/language/el) | 322 | 890 | 36.2 | /mnt/stockage/packages/f36/pragha/po/el.po | 
+ | [sv](/f36/language/sv) | 288 | 890 | 32.4 | /mnt/stockage/packages/f36/pragha/po/sv.po | 
+ | [vi](/f36/language/vi) | 285 | 890 | 32.0 | /mnt/stockage/packages/f36/pragha/po/vi.po | 
+ | [pl](/f36/language/pl) | 268 | 890 | 30.1 | /mnt/stockage/packages/f36/pragha/po/pl.po | 
+ | [ja](/f36/language/ja) | 211 | 890 | 23.7 | /mnt/stockage/packages/f36/pragha/po/ja.po | 
+ | [nb_NO](/f36/language/nb_NO) | 174 | 890 | 19.6 | /mnt/stockage/packages/f36/pragha/po/no.po | 
 {.sortable}
 
 

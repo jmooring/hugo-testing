@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f26/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Kabyle <kab@li.org> | 
- | [gdm]({{< ref "/f26/package/gdm.md" >}}) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
- | [nemo-extensions]({{< ref "/f26/package/nemo-extensions.md" >}}) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
- | [poedit]({{< ref "/f26/package/poedit.md" >}}) | 2639 | 2639 | 100.0 | Kabyle | 
- | [filezilla]({{< ref "/f26/package/filezilla.md" >}}) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 7608 | 21367 | 35.6 | Kabyle <kab@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 2231 | 7472 | 29.9 | Kabyle <kab@li.org> | 
- | [pix]({{< ref "/f26/package/pix.md" >}}) | 977 | 3718 | 26.3 | Kabyle <kab@li.org> | 
- | [xed]({{< ref "/f26/package/xed.md" >}}) | 1157 | 4508 | 25.7 | Kabyle <kab@li.org> | 
- | [xreader]({{< ref "/f26/package/xreader.md" >}}) | 412 | 1653 | 24.9 | Kabyle <kab@li.org> | 
- | [xviewer]({{< ref "/f26/package/xviewer.md" >}}) | 260 | 1677 | 15.5 | Kabyle <kab@li.org> | 
- | [lightdm-settings]({{< ref "/f26/package/lightdm-settings.md" >}}) | 36 | 251 | 14.3 | Kabyle <kab@li.org> | 
- | [xplayer]({{< ref "/f26/package/xplayer.md" >}}) | 208 | 1957 | 10.6 | Kabyle <kab@li.org> | 
- | [pantheon-calculator]({{< ref "/f26/package/pantheon-calculator.md" >}}) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
- | [stellarium]({{< ref "/f26/package/stellarium.md" >}}) | 26 | 18856 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp]({{< ref "/f26/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [openerp7]({{< ref "/f26/package/openerp7.md" >}}) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
+ | [blueberry](/f26/package/blueberry) | 141 | 141 | 100.0 | Kabyle <kab@li.org> | 
+ | [gdm](/f26/package/gdm) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
+ | [nemo-extensions](/f26/package/nemo-extensions) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
+ | [poedit](/f26/package/poedit) | 2639 | 2639 | 100.0 | Kabyle | 
+ | [filezilla](/f26/package/filezilla) | 9713 | 9908 | 98.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 7608 | 21367 | 35.6 | Kabyle <kab@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 2231 | 7472 | 29.9 | Kabyle <kab@li.org> | 
+ | [pix](/f26/package/pix) | 977 | 3718 | 26.3 | Kabyle <kab@li.org> | 
+ | [xed](/f26/package/xed) | 1157 | 4508 | 25.7 | Kabyle <kab@li.org> | 
+ | [xreader](/f26/package/xreader) | 412 | 1653 | 24.9 | Kabyle <kab@li.org> | 
+ | [xviewer](/f26/package/xviewer) | 260 | 1677 | 15.5 | Kabyle <kab@li.org> | 
+ | [lightdm-settings](/f26/package/lightdm-settings) | 36 | 251 | 14.3 | Kabyle <kab@li.org> | 
+ | [xplayer](/f26/package/xplayer) | 208 | 1957 | 10.6 | Kabyle <kab@li.org> | 
+ | [pantheon-calculator](/f26/package/pantheon-calculator) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
+ | [stellarium](/f26/package/stellarium) | 26 | 18856 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp](/f26/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [openerp7](/f26/package/openerp7) | 5 | 10657 | 0.0 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

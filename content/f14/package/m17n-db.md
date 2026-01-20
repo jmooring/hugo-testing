@@ -18,9 +18,9 @@ The package m17n-db (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f14/m17n-db/po/de.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 130 | 1009 | 12.9 | /mnt/stockage/packages/f14/m17n-db/po/vi.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 107 | 1009 | 10.6 | /mnt/stockage/packages/f14/m17n-db/po/ja.po | 
+ | [de](/f14/language/de) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f14/m17n-db/po/de.po | 
+ | [vi](/f14/language/vi) | 130 | 1009 | 12.9 | /mnt/stockage/packages/f14/m17n-db/po/vi.po | 
+ | [ja](/f14/language/ja) | 107 | 1009 | 10.6 | /mnt/stockage/packages/f14/m17n-db/po/ja.po | 
 {.sortable}
 
 

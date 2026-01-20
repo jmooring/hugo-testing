@@ -18,16 +18,16 @@ The package trytond-account-stock-anglo-saxon (version 2.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/ca_ES.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/de_DE.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/es_ES.po | 
- | [es_AR]({{< ref "/f20/language/es_AR.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/es_AR.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/fr_FR.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/bg_BG.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/cs_CZ.po | 
- | [es_CO]({{< ref "/f20/language/es_CO.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/es_CO.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/nl_NL.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/ru_RU.po | 
+ | [ca](/f20/language/ca) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/ca_ES.po | 
+ | [de](/f20/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/de_DE.po | 
+ | [es](/f20/language/es) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/es_ES.po | 
+ | [es_AR](/f20/language/es_AR) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/es_AR.po | 
+ | [fr](/f20/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/fr_FR.po | 
+ | [bg](/f20/language/bg) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/bg_BG.po | 
+ | [cs](/f20/language/cs) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/cs_CZ.po | 
+ | [es_CO](/f20/language/es_CO) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/es_CO.po | 
+ | [nl](/f20/language/nl) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/nl_NL.po | 
+ | [ru](/f20/language/ru) | 0 | 46 | 0.0 | /mnt/stockage/packages/f20/trytond-account-stock-anglo-saxon/locale/ru_RU.po | 
 {.sortable}
 
 

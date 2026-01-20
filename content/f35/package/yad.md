@@ -18,14 +18,14 @@ The package yad (version 9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1676 | 1676 | 100.0 | /mnt/stockage/packages/f35/yad/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f35/yad/po/ru.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f35/yad/po/uk.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1231 | 1329 | 92.6 | /mnt/stockage/packages/f35/yad/po/sk.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1209 | 1329 | 91.0 | /mnt/stockage/packages/f35/yad/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2193 | 2658 | 82.5 | /mnt/stockage/packages/f35/yad/po/fr.po/mnt/stockage/packages/f35/yad/po/it.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 1081 | 1329 | 81.3 | /mnt/stockage/packages/f35/yad/po/zh_TW.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 388 | 1329 | 29.2 | /mnt/stockage/packages/f35/yad/po/de.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1676 | 1676 | 100.0 | /mnt/stockage/packages/f35/yad/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f35/yad/po/ru.po | 
+ | [uk](/f35/language/uk) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f35/yad/po/uk.po | 
+ | [sk](/f35/language/sk) | 1231 | 1329 | 92.6 | /mnt/stockage/packages/f35/yad/po/sk.po | 
+ | [es](/f35/language/es) | 1209 | 1329 | 91.0 | /mnt/stockage/packages/f35/yad/po/es.po | 
+ | [fr](/f35/language/fr) | 2193 | 2658 | 82.5 | /mnt/stockage/packages/f35/yad/po/fr.po/mnt/stockage/packages/f35/yad/po/it.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 1081 | 1329 | 81.3 | /mnt/stockage/packages/f35/yad/po/zh_TW.po | 
+ | [de](/f35/language/de) | 388 | 1329 | 29.2 | /mnt/stockage/packages/f35/yad/po/de.po | 
 {.sortable}
 
 

@@ -18,86 +18,86 @@ The package gnome-keyring (version 2.28.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ar.po | 
- | [as]({{< ref "/f12/language/as.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/as.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/be.po | 
- | [be_Latn]({{< ref "/f12/language/be_Latn.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/be@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/bg.po | 
- | [bn]({{< ref "/f12/language/bn.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/bn.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ca.po | 
- | [ca@valencia]({{< ref "/f12/language/ca@valencia.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ca@valencia.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/de.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/dz.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/el.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/en_GB.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 1695 | 1695 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/en@shaw.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/gu.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/hi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ja.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/kn.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ko.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/lv.po | 
- | [mg]({{< ref "/f12/language/mg.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mg.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mk.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ml.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mn.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/nb.po | 
- | [ne]({{< ref "/f12/language/ne.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ne.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/nl.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/nn.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sl.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sq.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sr.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sr@latin.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/te.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 1964 | 1964 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/zh_HK.po | 
- | [cy]({{< ref "/f12/language/cy.md" >}}) | 533 | 711 | 75.0 | /mnt/stockage/packages/f12/gnome-keyring/po/cy.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/az.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/bs.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/fa.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/id.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/ms.po | 
- | [xh]({{< ref "/f12/language/xh.md" >}}) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/xh.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 1215 | 1709 | 71.1 | /mnt/stockage/packages/f12/gnome-keyring/po/he.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 961 | 1735 | 55.4 | /mnt/stockage/packages/f12/gnome-keyring/po/ast.po | 
- | [si]({{< ref "/f12/language/si.md" >}}) | 340 | 711 | 47.8 | /mnt/stockage/packages/f12/gnome-keyring/po/si.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 652 | 1717 | 38.0 | /mnt/stockage/packages/f12/gnome-keyring/po/hr.po | 
- | [mai]({{< ref "/f12/language/mai.md" >}}) | 567 | 1823 | 31.1 | /mnt/stockage/packages/f12/gnome-keyring/po/mai.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 359 | 1769 | 20.3 | /mnt/stockage/packages/f12/gnome-keyring/po/ga.po | 
- | [ka]({{< ref "/f12/language/ka.md" >}}) | 124 | 711 | 17.4 | /mnt/stockage/packages/f12/gnome-keyring/po/ka.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 11 | 1025 | 1.1 | /mnt/stockage/packages/f12/gnome-keyring/po/oc.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 7 | 711 | 1.0 | /mnt/stockage/packages/f12/gnome-keyring/po/is.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 0 | 711 | 0.0 | /mnt/stockage/packages/f12/gnome-keyring/po/rw.po | 
+ | [ar](/f12/language/ar) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ar.po | 
+ | [as](/f12/language/as) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/as.po | 
+ | [be](/f12/language/be) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/be.po | 
+ | [be_Latn](/f12/language/be_Latn) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/be@latin.po | 
+ | [bg](/f12/language/bg) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/bg.po | 
+ | [bn](/f12/language/bn) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/bn.po | 
+ | [bn_IN](/f12/language/bn_IN) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ca.po | 
+ | [ca@valencia](/f12/language/ca@valencia) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ca@valencia.po | 
+ | [cs](/f12/language/cs) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/cs.po | 
+ | [da](/f12/language/da) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/da.po | 
+ | [de](/f12/language/de) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/de.po | 
+ | [dz](/f12/language/dz) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/dz.po | 
+ | [el](/f12/language/el) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/el.po | 
+ | [en_CA](/f12/language/en_CA) | 661 | 661 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/en_GB.po | 
+ | [error](/f12/language/error) | 1695 | 1695 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/en@shaw.po | 
+ | [es](/f12/language/es) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/es.po | 
+ | [et](/f12/language/et) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/et.po | 
+ | [eu](/f12/language/eu) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/eu.po | 
+ | [fi](/f12/language/fi) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/fi.po | 
+ | [fr](/f12/language/fr) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/fr.po | 
+ | [gl](/f12/language/gl) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/gl.po | 
+ | [gu](/f12/language/gu) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/gu.po | 
+ | [hi](/f12/language/hi) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/hi.po | 
+ | [hu](/f12/language/hu) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/hu.po | 
+ | [it](/f12/language/it) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/it.po | 
+ | [ja](/f12/language/ja) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ja.po | 
+ | [kn](/f12/language/kn) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/kn.po | 
+ | [ko](/f12/language/ko) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ko.po | 
+ | [lt](/f12/language/lt) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/lt.po | 
+ | [lv](/f12/language/lv) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/lv.po | 
+ | [mg](/f12/language/mg) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mg.po | 
+ | [mk](/f12/language/mk) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mk.po | 
+ | [ml](/f12/language/ml) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ml.po | 
+ | [mn](/f12/language/mn) | 711 | 711 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mn.po | 
+ | [mr](/f12/language/mr) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/mr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/nb.po | 
+ | [ne](/f12/language/ne) | 661 | 661 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ne.po | 
+ | [nl](/f12/language/nl) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/nl.po | 
+ | [nn](/f12/language/nn) | 1025 | 1025 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/nn.po | 
+ | [or](/f12/language/or) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/or.po | 
+ | [pa](/f12/language/pa) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pa.po | 
+ | [pl](/f12/language/pl) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pl.po | 
+ | [pt](/f12/language/pt) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ro.po | 
+ | [ru](/f12/language/ru) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ru.po | 
+ | [sk](/f12/language/sk) | 661 | 661 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sk.po | 
+ | [sl](/f12/language/sl) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sl.po | 
+ | [sq](/f12/language/sq) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sq.po | 
+ | [sr](/f12/language/sr) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sr.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sr@latin.po | 
+ | [sv](/f12/language/sv) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/sv.po | 
+ | [ta](/f12/language/ta) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/ta.po | 
+ | [te](/f12/language/te) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/te.po | 
+ | [th](/f12/language/th) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/th.po | 
+ | [tr](/f12/language/tr) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/tr.po | 
+ | [uk](/f12/language/uk) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/uk.po | 
+ | [vi](/f12/language/vi) | 1964 | 1964 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 1769 | 1769 | 100.0 | /mnt/stockage/packages/f12/gnome-keyring/po/zh_HK.po | 
+ | [cy](/f12/language/cy) | 533 | 711 | 75.0 | /mnt/stockage/packages/f12/gnome-keyring/po/cy.po | 
+ | [az](/f12/language/az) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/az.po | 
+ | [bs](/f12/language/bs) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/bs.po | 
+ | [fa](/f12/language/fa) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/fa.po | 
+ | [id](/f12/language/id) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/id.po | 
+ | [ms](/f12/language/ms) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/ms.po | 
+ | [xh](/f12/language/xh) | 524 | 711 | 73.7 | /mnt/stockage/packages/f12/gnome-keyring/po/xh.po | 
+ | [he](/f12/language/he) | 1215 | 1709 | 71.1 | /mnt/stockage/packages/f12/gnome-keyring/po/he.po | 
+ | [ast](/f12/language/ast) | 961 | 1735 | 55.4 | /mnt/stockage/packages/f12/gnome-keyring/po/ast.po | 
+ | [si](/f12/language/si) | 340 | 711 | 47.8 | /mnt/stockage/packages/f12/gnome-keyring/po/si.po | 
+ | [hr](/f12/language/hr) | 652 | 1717 | 38.0 | /mnt/stockage/packages/f12/gnome-keyring/po/hr.po | 
+ | [mai](/f12/language/mai) | 567 | 1823 | 31.1 | /mnt/stockage/packages/f12/gnome-keyring/po/mai.po | 
+ | [ga](/f12/language/ga) | 359 | 1769 | 20.3 | /mnt/stockage/packages/f12/gnome-keyring/po/ga.po | 
+ | [ka](/f12/language/ka) | 124 | 711 | 17.4 | /mnt/stockage/packages/f12/gnome-keyring/po/ka.po | 
+ | [oc](/f12/language/oc) | 11 | 1025 | 1.1 | /mnt/stockage/packages/f12/gnome-keyring/po/oc.po | 
+ | [is](/f12/language/is) | 7 | 711 | 1.0 | /mnt/stockage/packages/f12/gnome-keyring/po/is.po | 
+ | [rw](/f12/language/rw) | 0 | 711 | 0.0 | /mnt/stockage/packages/f12/gnome-keyring/po/rw.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package libappstream-glib (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 270 | 294 | 91.8 | /mnt/stockage/packages/f20/libappstream-glib/po/ru.po | 
+ | [ru](/f20/language/ru) | 270 | 294 | 91.8 | /mnt/stockage/packages/f20/libappstream-glib/po/ru.po | 
 {.sortable}
 
 

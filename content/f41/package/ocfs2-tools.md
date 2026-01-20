@@ -18,15 +18,15 @@ The package ocfs2-tools (version 1.8.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/cs.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/fr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/ru.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/vi.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/de.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/pt_BR.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/sv.po | 
+ | [cs](/f41/language/cs) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/cs.po | 
+ | [es](/f41/language/es) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/es.po | 
+ | [fr](/f41/language/fr) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/fr.po | 
+ | [ru](/f41/language/ru) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/ru.po | 
+ | [vi](/f41/language/vi) | 186 | 186 | 100.0 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/vi.po | 
+ | [de](/f41/language/de) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/de.po | 
+ | [nl](/f41/language/nl) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/nl.po | 
+ | [pt_BR](/f41/language/pt_BR) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/pt_BR.po | 
+ | [sv](/f41/language/sv) | 87 | 186 | 46.8 | /mnt/stockage/packages/f41/ocfs2-tools/debian/po/sv.po | 
 {.sortable}
 
 

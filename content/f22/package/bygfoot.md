@@ -18,21 +18,21 @@ The package bygfoot (version 2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/da.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/el.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/it.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/nl.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/ro.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/zh.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 3707 | 3720 | 99.7 | /mnt/stockage/packages/f22/bygfoot/po/de.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 3707 | 3720 | 99.7 | /mnt/stockage/packages/f22/bygfoot/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 3707 | 3720 | 99.7 | /mnt/stockage/packages/f22/bygfoot/po/tr.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/fr.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f22/language/pt_PT.md" >}}) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/pt_PT.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 3287 | 3720 | 88.4 | /mnt/stockage/packages/f22/bygfoot/po/bg.po | 
+ | [da](/f22/language/da) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/da.po | 
+ | [el](/f22/language/el) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/el.po | 
+ | [it](/f22/language/it) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/it.po | 
+ | [nl](/f22/language/nl) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/nl.po | 
+ | [ro](/f22/language/ro) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/ro.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 3720 | 3720 | 100.0 | /mnt/stockage/packages/f22/bygfoot/po/zh.po | 
+ | [de](/f22/language/de) | 3707 | 3720 | 99.7 | /mnt/stockage/packages/f22/bygfoot/po/de.po | 
+ | [sv](/f22/language/sv) | 3707 | 3720 | 99.7 | /mnt/stockage/packages/f22/bygfoot/po/sv.po | 
+ | [tr](/f22/language/tr) | 3707 | 3720 | 99.7 | /mnt/stockage/packages/f22/bygfoot/po/tr.po | 
+ | [es](/f22/language/es) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/es.po | 
+ | [fr](/f22/language/fr) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/fr.po | 
+ | [pl](/f22/language/pl) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/pt_BR.po | 
+ | [pt_PT](/f22/language/pt_PT) | 3623 | 3720 | 97.4 | /mnt/stockage/packages/f22/bygfoot/po/pt_PT.po | 
+ | [bg](/f22/language/bg) | 3287 | 3720 | 88.4 | /mnt/stockage/packages/f22/bygfoot/po/bg.po | 
 {.sortable}
 
 

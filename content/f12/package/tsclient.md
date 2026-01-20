@@ -18,15 +18,15 @@ The package tsclient (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/ko.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/nl.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/zh_TW.po | 
+ | [de](/f12/language/de) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/de.po | 
+ | [es](/f12/language/es) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/es.po | 
+ | [fr](/f12/language/fr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/fr.po | 
+ | [it](/f12/language/it) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/it.po | 
+ | [ja](/f12/language/ja) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/ja.po | 
+ | [ko](/f12/language/ko) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/ko.po | 
+ | [nl](/f12/language/nl) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/nl.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 342 | 342 | 100.0 | /mnt/stockage/packages/f12/tsclient/po/zh_TW.po | 
 {.sortable}
 
 

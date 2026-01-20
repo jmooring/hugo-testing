@@ -18,10 +18,10 @@ The package python-django-angular (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/cs/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/fr/LC_MESSAGES/django.po | 
+ | [cs](/f26/language/cs) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f26/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f26/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f26/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f26/python-django-angular/djng/locale/fr/LC_MESSAGES/django.po | 
 {.sortable}
 
 

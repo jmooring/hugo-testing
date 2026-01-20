@@ -18,22 +18,22 @@ The package etckeeper (version 0.62):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/ja.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/vi.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 23 | 64 | 35.9 | /mnt/stockage/packages/f15/etckeeper/debian/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 23 | 64 | 35.9 | /mnt/stockage/packages/f15/etckeeper/debian/po/fi.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 23 | 64 | 35.9 | /mnt/stockage/packages/f15/etckeeper/debian/po/gl.po | 
+ | [cs](/f15/language/cs) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/cs.po | 
+ | [da](/f15/language/da) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/da.po | 
+ | [de](/f15/language/de) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/de.po | 
+ | [es](/f15/language/es) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/es.po | 
+ | [fr](/f15/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/fr.po | 
+ | [it](/f15/language/it) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/it.po | 
+ | [ja](/f15/language/ja) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/ja.po | 
+ | [nl](/f15/language/nl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/nl.po | 
+ | [pl](/f15/language/pl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/pl.po | 
+ | [pt](/f15/language/pt) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/pt.po | 
+ | [ru](/f15/language/ru) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/ru.po | 
+ | [sv](/f15/language/sv) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/sv.po | 
+ | [vi](/f15/language/vi) | 64 | 64 | 100.0 | /mnt/stockage/packages/f15/etckeeper/debian/po/vi.po | 
+ | [eu](/f15/language/eu) | 23 | 64 | 35.9 | /mnt/stockage/packages/f15/etckeeper/debian/po/eu.po | 
+ | [fi](/f15/language/fi) | 23 | 64 | 35.9 | /mnt/stockage/packages/f15/etckeeper/debian/po/fi.po | 
+ | [gl](/f15/language/gl) | 23 | 64 | 35.9 | /mnt/stockage/packages/f15/etckeeper/debian/po/gl.po | 
 {.sortable}
 
 

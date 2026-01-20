@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f22/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
- | [mozo]({{< ref "/f22/package/mozo.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [alacarte](/f22/package/alacarte) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [mozo](/f22/package/mozo) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
 {.sortable}
 
 

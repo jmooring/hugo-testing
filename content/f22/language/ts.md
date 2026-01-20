@@ -40,14 +40,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f22/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f22/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f22/package/libreoffice.md" >}}) | 31965 | 98165 | 32.6 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 352 | 4946 | 7.1 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 17 | 382 | 4.5 | Tsonga <ts@li.org> | 
- | [isomaster]({{< ref "/f22/package/isomaster.md" >}}) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
- | [exaile]({{< ref "/f22/package/exaile.md" >}}) | 1 | 4006 | 0.0 | Tsonga <ts@li.org> | 
- | [mate-desktop]({{< ref "/f22/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Tsonga (http://www.transifex.com/projects/p/MATE/language/ts/) | 
+ | [eog](/f22/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f22/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f22/package/libreoffice) | 31965 | 98165 | 32.6 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 352 | 4946 | 7.1 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
+ | [mintmenu](/f22/package/mintmenu) | 17 | 382 | 4.5 | Tsonga <ts@li.org> | 
+ | [isomaster](/f22/package/isomaster) | 6 | 674 | 0.9 | http://littlesvr.ca/ostd/ | 
+ | [exaile](/f22/package/exaile) | 1 | 4006 | 0.0 | Tsonga <ts@li.org> | 
+ | [mate-desktop](/f22/package/mate-desktop) | 0 | 2288 | 0.0 | Tsonga (http://www.transifex.com/projects/p/MATE/language/ts/) | 
 {.sortable}
 
 

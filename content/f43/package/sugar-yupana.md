@@ -18,31 +18,31 @@ The package sugar-yupana (version 19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f43/language/ach.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ach.po | 
- | [ayc]({{< ref "/f43/language/ayc.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ayc.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ca.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/da.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/en.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/en_GB.po | 
- | [en_US]({{< ref "/f43/language/en_US.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/en_US.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/es.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/fa.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/fr.po | 
- | [gug]({{< ref "/f43/language/gug.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/gug.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/hi.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/hy.po | 
- | [ig]({{< ref "/f43/language/ig.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ibo.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/pt_BR.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/zh_CN.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 28 | 30 | 93.3 | /mnt/stockage/packages/f43/sugar-yupana/po/sq.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 26 | 30 | 86.7 | /mnt/stockage/packages/f43/sugar-yupana/po/pt.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 14 | 30 | 46.7 | /mnt/stockage/packages/f43/sugar-yupana/po/it.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 12 | 30 | 40.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ru.po | 
- | [mi]({{< ref "/f43/language/mi.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f43/sugar-yupana/po/mi.po | 
+ | [ach](/f43/language/ach) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ach.po | 
+ | [ayc](/f43/language/ayc) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ayc.po | 
+ | [ca](/f43/language/ca) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ca.po | 
+ | [da](/f43/language/da) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/da.po | 
+ | [en](/f43/language/en) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/en.po | 
+ | [en_GB](/f43/language/en_GB) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/en_GB.po | 
+ | [en_US](/f43/language/en_US) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/en_US.po | 
+ | [es](/f43/language/es) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/es.po | 
+ | [fa](/f43/language/fa) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/fa.po | 
+ | [fr](/f43/language/fr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/fr.po | 
+ | [gug](/f43/language/gug) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/gug.po | 
+ | [hi](/f43/language/hi) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/hi.po | 
+ | [hy](/f43/language/hy) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/hy.po | 
+ | [ig](/f43/language/ig) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ibo.po | 
+ | [nl](/f43/language/nl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/nl.po | 
+ | [pl](/f43/language/pl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/pt_BR.po | 
+ | [sv](/f43/language/sv) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/sv.po | 
+ | [uk](/f43/language/uk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 30 | 30 | 100.0 | /mnt/stockage/packages/f43/sugar-yupana/po/zh_CN.po | 
+ | [sq](/f43/language/sq) | 28 | 30 | 93.3 | /mnt/stockage/packages/f43/sugar-yupana/po/sq.po | 
+ | [pt](/f43/language/pt) | 26 | 30 | 86.7 | /mnt/stockage/packages/f43/sugar-yupana/po/pt.po | 
+ | [it](/f43/language/it) | 14 | 30 | 46.7 | /mnt/stockage/packages/f43/sugar-yupana/po/it.po | 
+ | [ru](/f43/language/ru) | 12 | 30 | 40.0 | /mnt/stockage/packages/f43/sugar-yupana/po/ru.po | 
+ | [mi](/f43/language/mi) | 0 | 30 | 0.0 | /mnt/stockage/packages/f43/sugar-yupana/po/mi.po | 
 {.sortable}
 
 

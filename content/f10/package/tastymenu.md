@@ -18,16 +18,16 @@ The package tastymenu (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 612 | 612 | 100.0 | /mnt/stockage/packages/f10/tastymenu/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 618 | 618 | 100.0 | /mnt/stockage/packages/f10/tastymenu/po/pt_BR.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 609 | 618 | 98.5 | /mnt/stockage/packages/f10/tastymenu/po/sl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 587 | 618 | 95.0 | /mnt/stockage/packages/f10/tastymenu/po/it.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 574 | 618 | 92.9 | /mnt/stockage/packages/f10/tastymenu/po/de.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 574 | 618 | 92.9 | /mnt/stockage/packages/f10/tastymenu/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 574 | 618 | 92.9 | /mnt/stockage/packages/f10/tastymenu/po/fr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 573 | 618 | 92.7 | /mnt/stockage/packages/f10/tastymenu/po/uk.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 557 | 618 | 90.1 | /mnt/stockage/packages/f10/tastymenu/po/ru.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 529 | 618 | 85.6 | /mnt/stockage/packages/f10/tastymenu/po/es.po | 
+ | [pl](/f10/language/pl) | 612 | 612 | 100.0 | /mnt/stockage/packages/f10/tastymenu/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 618 | 618 | 100.0 | /mnt/stockage/packages/f10/tastymenu/po/pt_BR.po | 
+ | [sl](/f10/language/sl) | 609 | 618 | 98.5 | /mnt/stockage/packages/f10/tastymenu/po/sl.po | 
+ | [it](/f10/language/it) | 587 | 618 | 95.0 | /mnt/stockage/packages/f10/tastymenu/po/it.po | 
+ | [de](/f10/language/de) | 574 | 618 | 92.9 | /mnt/stockage/packages/f10/tastymenu/po/de.po | 
+ | [fi](/f10/language/fi) | 574 | 618 | 92.9 | /mnt/stockage/packages/f10/tastymenu/po/fi.po | 
+ | [fr](/f10/language/fr) | 574 | 618 | 92.9 | /mnt/stockage/packages/f10/tastymenu/po/fr.po | 
+ | [uk](/f10/language/uk) | 573 | 618 | 92.7 | /mnt/stockage/packages/f10/tastymenu/po/uk.po | 
+ | [ru](/f10/language/ru) | 557 | 618 | 90.1 | /mnt/stockage/packages/f10/tastymenu/po/ru.po | 
+ | [es](/f10/language/es) | 529 | 618 | 85.6 | /mnt/stockage/packages/f10/tastymenu/po/es.po | 
 {.sortable}
 
 

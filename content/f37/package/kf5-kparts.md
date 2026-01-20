@@ -18,106 +18,106 @@ The package kf5-kparts (version 5.108.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ar/kparts5.po | 
- | [az]({{< ref "/f37/language/az.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/az/kparts5.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/bg/kparts5.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ca/kparts5.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ca@valencia/kparts5.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/de/kparts5.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/en_GB/kparts5.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/eo/kparts5.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/es/kparts5.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/eu/kparts5.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/fi/kparts5.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/fr/kparts5.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/gl/kparts5.po | 
- | [ia]({{< ref "/f37/language/ia.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ia/kparts5.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/is/kparts5.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/it/kparts5.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ka/kparts5.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ko/kparts5.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/nl/kparts5.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/nn/kparts5.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/pl/kparts5.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/pt/kparts5.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/pt_BR/kparts5.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ru/kparts5.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/sl/kparts5.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/tr/kparts5.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/uk/kparts5.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/vi/kparts5.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/zh_CN/kparts5.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 131 | 138 | 94.9 | /mnt/stockage/packages/f37/kf5-kparts/po/ta/kparts5.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 131 | 138 | 94.9 | /mnt/stockage/packages/f37/kf5-kparts/po/zh_TW/kparts5.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/cs/kparts5.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/da/kparts5.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/el/kparts5.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/et/kparts5.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/hi/kparts5.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/hu/kparts5.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/id/kparts5.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/lt/kparts5.po | 
- | [my]({{< ref "/f37/language/my.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/my/kparts5.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/ro/kparts5.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/sk/kparts5.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/sv/kparts5.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr/kparts5.po | 
- | [sr@ijekavian]({{< ref "/f37/language/sr@ijekavian.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr@ijekavian/kparts5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f37/language/sr@ijekavian_Latn.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr@ijekavianlatin/kparts5.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr@latin/kparts5.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/bn/kparts5.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/bs/kparts5.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ga/kparts5.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/gd/kparts5.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/he/kparts5.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hr/kparts5.po | 
- | [hy]({{< ref "/f37/language/hy.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hy/kparts5.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ja/kparts5.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/kk/kparts5.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/km/kparts5.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/kn/kparts5.po | 
- | [ku]({{< ref "/f37/language/ku.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ku/kparts5.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/lv/kparts5.po | 
- | [mk]({{< ref "/f37/language/mk.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/mk/kparts5.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/mr/kparts5.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/nb/kparts5.po | 
- | [nds]({{< ref "/f37/language/nds.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/nds/kparts5.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/pa/kparts5.po | 
- | [se]({{< ref "/f37/language/se.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/se/kparts5.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/te/kparts5.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/tg/kparts5.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/th/kparts5.po | 
- | [tt]({{< ref "/f37/language/tt.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/tt/kparts5.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ug/kparts5.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 95 | 138 | 68.8 | /mnt/stockage/packages/f37/kf5-kparts/po/fy/kparts5.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 93 | 138 | 67.4 | /mnt/stockage/packages/f37/kf5-kparts/po/bn_IN/kparts5.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/fa/kparts5.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/gu/kparts5.po | 
- | [mai]({{< ref "/f37/language/mai.md" >}}) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/mai/kparts5.po | 
- | [wa]({{< ref "/f37/language/wa.md" >}}) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/wa/kparts5.po | 
- | [si]({{< ref "/f37/language/si.md" >}}) | 85 | 138 | 61.6 | /mnt/stockage/packages/f37/kf5-kparts/po/si/kparts5.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 83 | 138 | 60.1 | /mnt/stockage/packages/f37/kf5-kparts/po/ms/kparts5.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 82 | 138 | 59.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ml/kparts5.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/be/kparts5.po | 
- | [be_Latn]({{< ref "/f37/language/be_Latn.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/be@latin/kparts5.po | 
- | [csb]({{< ref "/f37/language/csb.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/csb/kparts5.po | 
- | [hne]({{< ref "/f37/language/hne.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hne/kparts5.po | 
- | [hsb]({{< ref "/f37/language/hsb.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hsb/kparts5.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ne/kparts5.po | 
- | [ps]({{< ref "/f37/language/ps.md" >}}) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ps/kparts5.po | 
- | [crh]({{< ref "/f37/language/crh.md" >}}) | 69 | 138 | 50.0 | /mnt/stockage/packages/f37/kf5-kparts/po/crh/kparts5.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 60 | 138 | 43.5 | /mnt/stockage/packages/f37/kf5-kparts/po/as/kparts5.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 60 | 138 | 43.5 | /mnt/stockage/packages/f37/kf5-kparts/po/or/kparts5.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 108 | 276 | 39.1 | /mnt/stockage/packages/f37/kf5-kparts/po/uz@cyrillic/kparts5.po/mnt/stockage/packages/f37/kf5-kparts/po/uz/kparts5.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/af/kparts5.po | 
- | [cy]({{< ref "/f37/language/cy.md" >}}) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/cy/kparts5.po | 
- | [lb]({{< ref "/f37/language/lb.md" >}}) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/lb/kparts5.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/zh_HK/kparts5.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 43 | 138 | 31.2 | /mnt/stockage/packages/f37/kf5-kparts/po/oc/kparts5.po | 
- | [sq]({{< ref "/f37/language/sq.md" >}}) | 40 | 138 | 29.0 | /mnt/stockage/packages/f37/kf5-kparts/po/sq/kparts5.po | 
- | [br]({{< ref "/f37/language/br.md" >}}) | 33 | 138 | 23.9 | /mnt/stockage/packages/f37/kf5-kparts/po/br/kparts5.po | 
- | [xh]({{< ref "/f37/language/xh.md" >}}) | 16 | 138 | 11.6 | /mnt/stockage/packages/f37/kf5-kparts/po/xh/kparts5.po | 
- | [ha]({{< ref "/f37/language/ha.md" >}}) | 4 | 138 | 2.9 | /mnt/stockage/packages/f37/kf5-kparts/po/ha/kparts5.po | 
+ | [ar](/f37/language/ar) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ar/kparts5.po | 
+ | [az](/f37/language/az) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/az/kparts5.po | 
+ | [bg](/f37/language/bg) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/bg/kparts5.po | 
+ | [ca](/f37/language/ca) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ca/kparts5.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ca@valencia/kparts5.po | 
+ | [de](/f37/language/de) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/de/kparts5.po | 
+ | [en_GB](/f37/language/en_GB) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/en_GB/kparts5.po | 
+ | [eo](/f37/language/eo) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/eo/kparts5.po | 
+ | [es](/f37/language/es) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/es/kparts5.po | 
+ | [eu](/f37/language/eu) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/eu/kparts5.po | 
+ | [fi](/f37/language/fi) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/fi/kparts5.po | 
+ | [fr](/f37/language/fr) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/fr/kparts5.po | 
+ | [gl](/f37/language/gl) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/gl/kparts5.po | 
+ | [ia](/f37/language/ia) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ia/kparts5.po | 
+ | [is](/f37/language/is) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/is/kparts5.po | 
+ | [it](/f37/language/it) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/it/kparts5.po | 
+ | [ka](/f37/language/ka) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ka/kparts5.po | 
+ | [ko](/f37/language/ko) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ko/kparts5.po | 
+ | [nl](/f37/language/nl) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/nl/kparts5.po | 
+ | [nn](/f37/language/nn) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/nn/kparts5.po | 
+ | [pl](/f37/language/pl) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/pl/kparts5.po | 
+ | [pt](/f37/language/pt) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/pt/kparts5.po | 
+ | [pt_BR](/f37/language/pt_BR) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/pt_BR/kparts5.po | 
+ | [ru](/f37/language/ru) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/ru/kparts5.po | 
+ | [sl](/f37/language/sl) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/sl/kparts5.po | 
+ | [tr](/f37/language/tr) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/tr/kparts5.po | 
+ | [uk](/f37/language/uk) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/uk/kparts5.po | 
+ | [vi](/f37/language/vi) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/vi/kparts5.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 138 | 138 | 100.0 | /mnt/stockage/packages/f37/kf5-kparts/po/zh_CN/kparts5.po | 
+ | [ta](/f37/language/ta) | 131 | 138 | 94.9 | /mnt/stockage/packages/f37/kf5-kparts/po/ta/kparts5.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 131 | 138 | 94.9 | /mnt/stockage/packages/f37/kf5-kparts/po/zh_TW/kparts5.po | 
+ | [cs](/f37/language/cs) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/cs/kparts5.po | 
+ | [da](/f37/language/da) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/da/kparts5.po | 
+ | [el](/f37/language/el) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/el/kparts5.po | 
+ | [et](/f37/language/et) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/et/kparts5.po | 
+ | [hi](/f37/language/hi) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/hi/kparts5.po | 
+ | [hu](/f37/language/hu) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/hu/kparts5.po | 
+ | [id](/f37/language/id) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/id/kparts5.po | 
+ | [lt](/f37/language/lt) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/lt/kparts5.po | 
+ | [my](/f37/language/my) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/my/kparts5.po | 
+ | [ro](/f37/language/ro) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/ro/kparts5.po | 
+ | [sk](/f37/language/sk) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/sk/kparts5.po | 
+ | [sv](/f37/language/sv) | 123 | 138 | 89.1 | /mnt/stockage/packages/f37/kf5-kparts/po/sv/kparts5.po | 
+ | [sr](/f37/language/sr) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr/kparts5.po | 
+ | [sr@ijekavian](/f37/language/sr@ijekavian) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr@ijekavian/kparts5.po | 
+ | [sr@ijekavian_Latn](/f37/language/sr@ijekavian_Latn) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr@ijekavianlatin/kparts5.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 104 | 123 | 84.6 | /mnt/stockage/packages/f37/kf5-kparts/po/sr@latin/kparts5.po | 
+ | [bn](/f37/language/bn) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/bn/kparts5.po | 
+ | [bs](/f37/language/bs) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/bs/kparts5.po | 
+ | [ga](/f37/language/ga) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ga/kparts5.po | 
+ | [gd](/f37/language/gd) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/gd/kparts5.po | 
+ | [he](/f37/language/he) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/he/kparts5.po | 
+ | [hr](/f37/language/hr) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hr/kparts5.po | 
+ | [hy](/f37/language/hy) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hy/kparts5.po | 
+ | [ja](/f37/language/ja) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ja/kparts5.po | 
+ | [kk](/f37/language/kk) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/kk/kparts5.po | 
+ | [km](/f37/language/km) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/km/kparts5.po | 
+ | [kn](/f37/language/kn) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/kn/kparts5.po | 
+ | [ku](/f37/language/ku) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ku/kparts5.po | 
+ | [lv](/f37/language/lv) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/lv/kparts5.po | 
+ | [mk](/f37/language/mk) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/mk/kparts5.po | 
+ | [mr](/f37/language/mr) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/mr/kparts5.po | 
+ | [nb_NO](/f37/language/nb_NO) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/nb/kparts5.po | 
+ | [nds](/f37/language/nds) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/nds/kparts5.po | 
+ | [pa](/f37/language/pa) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/pa/kparts5.po | 
+ | [se](/f37/language/se) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/se/kparts5.po | 
+ | [te](/f37/language/te) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/te/kparts5.po | 
+ | [tg](/f37/language/tg) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/tg/kparts5.po | 
+ | [th](/f37/language/th) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/th/kparts5.po | 
+ | [tt](/f37/language/tt) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/tt/kparts5.po | 
+ | [ug](/f37/language/ug) | 104 | 138 | 75.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ug/kparts5.po | 
+ | [fy](/f37/language/fy) | 95 | 138 | 68.8 | /mnt/stockage/packages/f37/kf5-kparts/po/fy/kparts5.po | 
+ | [bn_IN](/f37/language/bn_IN) | 93 | 138 | 67.4 | /mnt/stockage/packages/f37/kf5-kparts/po/bn_IN/kparts5.po | 
+ | [fa](/f37/language/fa) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/fa/kparts5.po | 
+ | [gu](/f37/language/gu) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/gu/kparts5.po | 
+ | [mai](/f37/language/mai) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/mai/kparts5.po | 
+ | [wa](/f37/language/wa) | 88 | 138 | 63.8 | /mnt/stockage/packages/f37/kf5-kparts/po/wa/kparts5.po | 
+ | [si](/f37/language/si) | 85 | 138 | 61.6 | /mnt/stockage/packages/f37/kf5-kparts/po/si/kparts5.po | 
+ | [ms](/f37/language/ms) | 83 | 138 | 60.1 | /mnt/stockage/packages/f37/kf5-kparts/po/ms/kparts5.po | 
+ | [ml](/f37/language/ml) | 82 | 138 | 59.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ml/kparts5.po | 
+ | [be](/f37/language/be) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/be/kparts5.po | 
+ | [be_Latn](/f37/language/be_Latn) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/be@latin/kparts5.po | 
+ | [csb](/f37/language/csb) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/csb/kparts5.po | 
+ | [hne](/f37/language/hne) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hne/kparts5.po | 
+ | [hsb](/f37/language/hsb) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/hsb/kparts5.po | 
+ | [ne](/f37/language/ne) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ne/kparts5.po | 
+ | [ps](/f37/language/ps) | 71 | 138 | 51.4 | /mnt/stockage/packages/f37/kf5-kparts/po/ps/kparts5.po | 
+ | [crh](/f37/language/crh) | 69 | 138 | 50.0 | /mnt/stockage/packages/f37/kf5-kparts/po/crh/kparts5.po | 
+ | [as](/f37/language/as) | 60 | 138 | 43.5 | /mnt/stockage/packages/f37/kf5-kparts/po/as/kparts5.po | 
+ | [or](/f37/language/or) | 60 | 138 | 43.5 | /mnt/stockage/packages/f37/kf5-kparts/po/or/kparts5.po | 
+ | [uz](/f37/language/uz) | 108 | 276 | 39.1 | /mnt/stockage/packages/f37/kf5-kparts/po/uz@cyrillic/kparts5.po/mnt/stockage/packages/f37/kf5-kparts/po/uz/kparts5.po | 
+ | [af](/f37/language/af) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/af/kparts5.po | 
+ | [cy](/f37/language/cy) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/cy/kparts5.po | 
+ | [lb](/f37/language/lb) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/lb/kparts5.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 44 | 138 | 31.9 | /mnt/stockage/packages/f37/kf5-kparts/po/zh_HK/kparts5.po | 
+ | [oc](/f37/language/oc) | 43 | 138 | 31.2 | /mnt/stockage/packages/f37/kf5-kparts/po/oc/kparts5.po | 
+ | [sq](/f37/language/sq) | 40 | 138 | 29.0 | /mnt/stockage/packages/f37/kf5-kparts/po/sq/kparts5.po | 
+ | [br](/f37/language/br) | 33 | 138 | 23.9 | /mnt/stockage/packages/f37/kf5-kparts/po/br/kparts5.po | 
+ | [xh](/f37/language/xh) | 16 | 138 | 11.6 | /mnt/stockage/packages/f37/kf5-kparts/po/xh/kparts5.po | 
+ | [ha](/f37/language/ha) | 4 | 138 | 2.9 | /mnt/stockage/packages/f37/kf5-kparts/po/ha/kparts5.po | 
 {.sortable}
 
 

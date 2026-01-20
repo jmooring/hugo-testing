@@ -18,40 +18,40 @@ The package plasma-welcome (version 5.27.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/bg/plasma-welcome.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ca/plasma-welcome.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ca@valencia/plasma-welcome.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/cs/plasma-welcome.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/de/plasma-welcome.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/en_GB/plasma-welcome.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/es/plasma-welcome.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/eu/plasma-welcome.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/fi/plasma-welcome.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/fr/plasma-welcome.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/gl/plasma-welcome.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ia/plasma-welcome.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/it/plasma-welcome.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ja/plasma-welcome.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ka/plasma-welcome.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ko/plasma-welcome.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/nl/plasma-welcome.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/nn/plasma-welcome.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/pl/plasma-welcome.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/pt_BR/plasma-welcome.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ru/plasma-welcome.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/sl/plasma-welcome.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/sv/plasma-welcome.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/tr/plasma-welcome.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/uk/plasma-welcome.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/zh_CN/plasma-welcome.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 951 | 1054 | 90.2 | /mnt/stockage/packages/f39/plasma-welcome/po/ar/plasma-welcome.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 939 | 1054 | 89.1 | /mnt/stockage/packages/f39/plasma-welcome/po/id/plasma-welcome.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 852 | 1054 | 80.8 | /mnt/stockage/packages/f39/plasma-welcome/po/pt/plasma-welcome.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 852 | 1054 | 80.8 | /mnt/stockage/packages/f39/plasma-welcome/po/zh_TW/plasma-welcome.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 693 | 1054 | 65.7 | /mnt/stockage/packages/f39/plasma-welcome/po/sk/plasma-welcome.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 194 | 1054 | 18.4 | /mnt/stockage/packages/f39/plasma-welcome/po/ro/plasma-welcome.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 98 | 1054 | 9.3 | /mnt/stockage/packages/f39/plasma-welcome/po/is/plasma-welcome.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 69 | 1054 | 6.5 | /mnt/stockage/packages/f39/plasma-welcome/po/pa/plasma-welcome.po | 
+ | [bg](/f39/language/bg) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/bg/plasma-welcome.po | 
+ | [ca](/f39/language/ca) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ca/plasma-welcome.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ca@valencia/plasma-welcome.po | 
+ | [cs](/f39/language/cs) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/cs/plasma-welcome.po | 
+ | [de](/f39/language/de) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/de/plasma-welcome.po | 
+ | [en_GB](/f39/language/en_GB) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/en_GB/plasma-welcome.po | 
+ | [es](/f39/language/es) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/es/plasma-welcome.po | 
+ | [eu](/f39/language/eu) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/eu/plasma-welcome.po | 
+ | [fi](/f39/language/fi) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/fi/plasma-welcome.po | 
+ | [fr](/f39/language/fr) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/fr/plasma-welcome.po | 
+ | [gl](/f39/language/gl) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/gl/plasma-welcome.po | 
+ | [ia](/f39/language/ia) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ia/plasma-welcome.po | 
+ | [it](/f39/language/it) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/it/plasma-welcome.po | 
+ | [ja](/f39/language/ja) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ja/plasma-welcome.po | 
+ | [ka](/f39/language/ka) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ka/plasma-welcome.po | 
+ | [ko](/f39/language/ko) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ko/plasma-welcome.po | 
+ | [nl](/f39/language/nl) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/nl/plasma-welcome.po | 
+ | [nn](/f39/language/nn) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/nn/plasma-welcome.po | 
+ | [pl](/f39/language/pl) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/pl/plasma-welcome.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/pt_BR/plasma-welcome.po | 
+ | [ru](/f39/language/ru) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/ru/plasma-welcome.po | 
+ | [sl](/f39/language/sl) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/sl/plasma-welcome.po | 
+ | [sv](/f39/language/sv) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/sv/plasma-welcome.po | 
+ | [tr](/f39/language/tr) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/tr/plasma-welcome.po | 
+ | [uk](/f39/language/uk) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/uk/plasma-welcome.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1054 | 1054 | 100.0 | /mnt/stockage/packages/f39/plasma-welcome/po/zh_CN/plasma-welcome.po | 
+ | [ar](/f39/language/ar) | 951 | 1054 | 90.2 | /mnt/stockage/packages/f39/plasma-welcome/po/ar/plasma-welcome.po | 
+ | [id](/f39/language/id) | 939 | 1054 | 89.1 | /mnt/stockage/packages/f39/plasma-welcome/po/id/plasma-welcome.po | 
+ | [pt](/f39/language/pt) | 852 | 1054 | 80.8 | /mnt/stockage/packages/f39/plasma-welcome/po/pt/plasma-welcome.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 852 | 1054 | 80.8 | /mnt/stockage/packages/f39/plasma-welcome/po/zh_TW/plasma-welcome.po | 
+ | [sk](/f39/language/sk) | 693 | 1054 | 65.7 | /mnt/stockage/packages/f39/plasma-welcome/po/sk/plasma-welcome.po | 
+ | [ro](/f39/language/ro) | 194 | 1054 | 18.4 | /mnt/stockage/packages/f39/plasma-welcome/po/ro/plasma-welcome.po | 
+ | [is](/f39/language/is) | 98 | 1054 | 9.3 | /mnt/stockage/packages/f39/plasma-welcome/po/is/plasma-welcome.po | 
+ | [pa](/f39/language/pa) | 69 | 1054 | 6.5 | /mnt/stockage/packages/f39/plasma-welcome/po/pa/plasma-welcome.po | 
 {.sortable}
 
 

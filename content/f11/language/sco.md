@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f11/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f11/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f11/package/picard.md" >}}) | 29 | 1310 | 2.2 | Scots <sco@li.org> | 
+ | [gnomad2](/f11/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [pyroom](/f11/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [picard](/f11/package/picard) | 29 | 1310 | 2.2 | Scots <sco@li.org> | 
 {.sortable}
 
 

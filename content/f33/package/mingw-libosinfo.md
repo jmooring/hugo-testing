@@ -18,20 +18,20 @@ The package mingw-libosinfo (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f33/language/id.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/id.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/pl.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/uk.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 777 | 787 | 98.7 | /mnt/stockage/packages/f33/mingw-libosinfo/po/fr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 742 | 787 | 94.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/it.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 677 | 787 | 86.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/cs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 657 | 787 | 83.5 | /mnt/stockage/packages/f33/mingw-libosinfo/po/ca.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 427 | 787 | 54.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/de.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 427 | 787 | 54.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/ja.po | 
- | [pt_PT]({{< ref "/f33/language/pt_PT.md" >}}) | 388 | 787 | 49.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/pt_PT.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 60 | 787 | 7.6 | /mnt/stockage/packages/f33/mingw-libosinfo/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 60 | 787 | 7.6 | /mnt/stockage/packages/f33/mingw-libosinfo/po/fi.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 23 | 787 | 2.9 | /mnt/stockage/packages/f33/mingw-libosinfo/po/pt_BR.po | 
+ | [id](/f33/language/id) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/id.po | 
+ | [pl](/f33/language/pl) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/pl.po | 
+ | [tr](/f33/language/tr) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/tr.po | 
+ | [uk](/f33/language/uk) | 787 | 787 | 100.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/uk.po | 
+ | [fr](/f33/language/fr) | 777 | 787 | 98.7 | /mnt/stockage/packages/f33/mingw-libosinfo/po/fr.po | 
+ | [it](/f33/language/it) | 742 | 787 | 94.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/it.po | 
+ | [cs](/f33/language/cs) | 677 | 787 | 86.0 | /mnt/stockage/packages/f33/mingw-libosinfo/po/cs.po | 
+ | [ca](/f33/language/ca) | 657 | 787 | 83.5 | /mnt/stockage/packages/f33/mingw-libosinfo/po/ca.po | 
+ | [de](/f33/language/de) | 427 | 787 | 54.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/de.po | 
+ | [ja](/f33/language/ja) | 427 | 787 | 54.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/ja.po | 
+ | [pt_PT](/f33/language/pt_PT) | 388 | 787 | 49.3 | /mnt/stockage/packages/f33/mingw-libosinfo/po/pt_PT.po | 
+ | [es](/f33/language/es) | 60 | 787 | 7.6 | /mnt/stockage/packages/f33/mingw-libosinfo/po/es.po | 
+ | [fi](/f33/language/fi) | 60 | 787 | 7.6 | /mnt/stockage/packages/f33/mingw-libosinfo/po/fi.po | 
+ | [pt_BR](/f33/language/pt_BR) | 23 | 787 | 2.9 | /mnt/stockage/packages/f33/mingw-libosinfo/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package powertop (version 1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f14/powertop/po/id.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f14/powertop/po/ja.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/ro.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f14/powertop/po/zh_TW.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 943 | 1041 | 90.6 | /mnt/stockage/packages/f14/powertop/po/fi.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 858 | 1041 | 82.4 | /mnt/stockage/packages/f14/powertop/po/it.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 683 | 1041 | 65.6 | /mnt/stockage/packages/f14/powertop/po/ru.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 63 | 1184 | 5.3 | /mnt/stockage/packages/f14/powertop/po/nl.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 31 | 1041 | 3.0 | /mnt/stockage/packages/f14/powertop/po/zh_CN.po | 
+ | [de](/f14/language/de) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/de.po | 
+ | [es](/f14/language/es) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/es.po | 
+ | [fr](/f14/language/fr) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/fr.po | 
+ | [hu](/f14/language/hu) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/hu.po | 
+ | [id](/f14/language/id) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f14/powertop/po/id.po | 
+ | [ja](/f14/language/ja) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f14/powertop/po/ja.po | 
+ | [pl](/f14/language/pl) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 1041 | 1041 | 100.0 | /mnt/stockage/packages/f14/powertop/po/ro.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f14/powertop/po/zh_TW.po | 
+ | [fi](/f14/language/fi) | 943 | 1041 | 90.6 | /mnt/stockage/packages/f14/powertop/po/fi.po | 
+ | [it](/f14/language/it) | 858 | 1041 | 82.4 | /mnt/stockage/packages/f14/powertop/po/it.po | 
+ | [ru](/f14/language/ru) | 683 | 1041 | 65.6 | /mnt/stockage/packages/f14/powertop/po/ru.po | 
+ | [nl](/f14/language/nl) | 63 | 1184 | 5.3 | /mnt/stockage/packages/f14/powertop/po/nl.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 31 | 1041 | 3.0 | /mnt/stockage/packages/f14/powertop/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package gtypist (version 2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 547 | 556 | 98.4 | /mnt/stockage/packages/f15/gtypist/po/de.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 482 | 556 | 86.7 | /mnt/stockage/packages/f15/gtypist/po/tr.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 443 | 556 | 79.7 | /mnt/stockage/packages/f15/gtypist/po/eu.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 443 | 556 | 79.7 | /mnt/stockage/packages/f15/gtypist/po/pl.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/cs.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/fr.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 291 | 556 | 52.3 | /mnt/stockage/packages/f15/gtypist/po/zh_TW.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 285 | 556 | 51.3 | /mnt/stockage/packages/f15/gtypist/po/nl.po | 
+ | [de](/f15/language/de) | 547 | 556 | 98.4 | /mnt/stockage/packages/f15/gtypist/po/de.po | 
+ | [tr](/f15/language/tr) | 482 | 556 | 86.7 | /mnt/stockage/packages/f15/gtypist/po/tr.po | 
+ | [eu](/f15/language/eu) | 443 | 556 | 79.7 | /mnt/stockage/packages/f15/gtypist/po/eu.po | 
+ | [pl](/f15/language/pl) | 443 | 556 | 79.7 | /mnt/stockage/packages/f15/gtypist/po/pl.po | 
+ | [cs](/f15/language/cs) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/cs.po | 
+ | [es](/f15/language/es) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/es.po | 
+ | [fi](/f15/language/fi) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/fi.po | 
+ | [fr](/f15/language/fr) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/fr.po | 
+ | [ru](/f15/language/ru) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 419 | 556 | 75.4 | /mnt/stockage/packages/f15/gtypist/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 291 | 556 | 52.3 | /mnt/stockage/packages/f15/gtypist/po/zh_TW.po | 
+ | [nl](/f15/language/nl) | 285 | 556 | 51.3 | /mnt/stockage/packages/f15/gtypist/po/nl.po | 
 {.sortable}
 
 

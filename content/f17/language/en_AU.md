@@ -38,82 +38,82 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f17/package/gnome-do.md" >}}) | 612 | 612 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [gwibber]({{< ref "/f17/package/gwibber.md" >}}) | 769 | 769 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [libmatekbd]({{< ref "/f17/package/libmatekbd.md" >}}) | 292 | 292 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [libmatekeyring]({{< ref "/f17/package/libmatekeyring.md" >}}) | 44 | 44 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [libmatewnck]({{< ref "/f17/package/libmatewnck.md" >}}) | 1082 | 1082 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [lightdm]({{< ref "/f17/package/lightdm.md" >}}) | 79 | 79 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [lightdm-gtk]({{< ref "/f17/package/lightdm-gtk.md" >}}) | 56 | 56 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [mate-bluetooth]({{< ref "/f17/package/mate-bluetooth.md" >}}) | 656 | 656 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-desktop]({{< ref "/f17/package/mate-desktop.md" >}}) | 1678 | 1678 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-dialogs]({{< ref "/f17/package/mate-dialogs.md" >}}) | 631 | 631 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-doc-utils]({{< ref "/f17/package/mate-doc-utils.md" >}}) | 251 | 251 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-document-viewer]({{< ref "/f17/package/mate-document-viewer.md" >}}) | 1493 | 1493 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-image-viewer]({{< ref "/f17/package/mate-image-viewer.md" >}}) | 1623 | 1623 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-keyring]({{< ref "/f17/package/mate-keyring.md" >}}) | 1173 | 1173 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-menus]({{< ref "/f17/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-polkit]({{< ref "/f17/package/mate-polkit.md" >}}) | 289 | 289 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-screensaver]({{< ref "/f17/package/mate-screensaver.md" >}}) | 989 | 989 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-terminal]({{< ref "/f17/package/mate-terminal.md" >}}) | 4204 | 4204 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-utils]({{< ref "/f17/package/mate-utils.md" >}}) | 3921 | 3921 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [pastebinit]({{< ref "/f17/package/pastebinit.md" >}}) | 183 | 183 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [pidgin-musictracker]({{< ref "/f17/package/pidgin-musictracker.md" >}}) | 333 | 333 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [pmount]({{< ref "/f17/package/pmount.md" >}}) | 723 | 723 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [transmission]({{< ref "/f17/package/transmission.md" >}}) | 1809 | 1809 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [mate-file-manager]({{< ref "/f17/package/mate-file-manager.md" >}}) | 9066 | 9086 | 99.8 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [duplicity]({{< ref "/f17/package/duplicity.md" >}}) | 3390 | 3402 | 99.6 | English (Australia) <en_AU@li.org> | 
- | [mate-text-editor]({{< ref "/f17/package/mate-text-editor.md" >}}) | 4955 | 4986 | 99.4 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [libexif]({{< ref "/f17/package/libexif.md" >}}) | 6930 | 6977 | 99.3 | English (Australia) <en_AU@li.org> | 
- | [mate-control-center]({{< ref "/f17/package/mate-control-center.md" >}}) | 2592 | 2610 | 99.3 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-window-manager]({{< ref "/f17/package/mate-window-manager.md" >}}) | 2093 | 2116 | 98.9 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [fuse-encfs]({{< ref "/f17/package/fuse-encfs.md" >}}) | 1294 | 1315 | 98.4 | English (Australia) <en_AU@li.org> | 
- | [mate-netspeed]({{< ref "/f17/package/mate-netspeed.md" >}}) | 134 | 137 | 97.8 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [quassel]({{< ref "/f17/package/quassel.md" >}}) | 4518 | 4663 | 96.9 |  | 
- | [avogadro]({{< ref "/f17/package/avogadro.md" >}}) | 4120 | 4262 | 96.7 | English (Australia) <en_AU@li.org> | 
- | [mate-settings-daemon]({{< ref "/f17/package/mate-settings-daemon.md" >}}) | 1650 | 1735 | 95.1 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [mate-panel]({{< ref "/f17/package/mate-panel.md" >}}) | 3993 | 4237 | 94.2 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [xchat-gnome]({{< ref "/f17/package/xchat-gnome.md" >}}) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
- | [bzr-explorer]({{< ref "/f17/package/bzr-explorer.md" >}}) | 1509 | 1656 | 91.1 | English (Australia) <en_AU@li.org> | 
- | [steadyflow]({{< ref "/f17/package/steadyflow.md" >}}) | 423 | 470 | 90.0 | English (Australia) <en_AU@li.org> | 
- | [pidgin-guifications]({{< ref "/f17/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
- | [openteacher]({{< ref "/f17/package/openteacher.md" >}}) | 26 | 31 | 83.9 | English (Australia) <en_AU@li.org> | 
- | [pinta]({{< ref "/f17/package/pinta.md" >}}) | 1074 | 1311 | 81.9 | English (Australia) <en_AU@li.org> | 
- | [mate-power-manager]({{< ref "/f17/package/mate-power-manager.md" >}}) | 2232 | 2758 | 80.9 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
- | [soundconverter]({{< ref "/f17/package/soundconverter.md" >}}) | 231 | 462 | 50.0 | English (Australia) <en_AU@li.org> | 
- | [terminator]({{< ref "/f17/package/terminator.md" >}}) | 326 | 726 | 44.9 | English (Australia) <en_AU@li.org> | 
- | [deja-dup]({{< ref "/f17/package/deja-dup.md" >}}) | 1667 | 3748 | 44.5 | English (Australia) <en_AU@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f17/package/tuxpaint-stamps.md" >}}) | 1015 | 2711 | 37.4 | English (Australia) <en_AU@li.org> | 
- | [tuxpaint]({{< ref "/f17/package/tuxpaint.md" >}}) | 445 | 1247 | 35.7 | English (Australia) <en_AU@li.org> | 
- | [pidgin]({{< ref "/f17/package/pidgin.md" >}}) | 6277 | 18356 | 34.2 | English/AU <trans@six-by-nine.com.au> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 2935 | 9286 | 31.6 | English (Australia) <en_AU@li.org> | 
- | [tortoisehg]({{< ref "/f17/package/tortoisehg.md" >}}) | 2395 | 10495 | 22.8 | English (Australia) <en_AU@li.org> | 
- | [inkscape]({{< ref "/f17/package/inkscape.md" >}}) | 5782 | 26528 | 21.8 | English (Australia) | 
- | [openstack-nova]({{< ref "/f17/package/openstack-nova.md" >}}) | 1369 | 8907 | 15.4 | English (Australia) <en_AU@li.org> | 
- | [homebank]({{< ref "/f17/package/homebank.md" >}}) | 193 | 1509 | 12.8 | English (Australia) <en_AU@li.org> | 
- | [gxmessage]({{< ref "/f17/package/gxmessage.md" >}}) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
- | [ntfs-config]({{< ref "/f17/package/ntfs-config.md" >}}) | 29 | 357 | 8.1 | English (Australia) <en_AU@li.org> | 
- | [ailurus]({{< ref "/f17/package/ailurus.md" >}}) | 683 | 8506 | 8.0 | none | 
- | [bzr]({{< ref "/f17/package/bzr.md" >}}) | 1677 | 33099 | 5.1 | English (Australia) <en_AU@li.org> | 
- | [evolution-data-server]({{< ref "/f17/package/evolution-data-server.md" >}}) | 166 | 4504 | 3.7 |  | 
- | [gourmet]({{< ref "/f17/package/gourmet.md" >}}) | 107 | 3647 | 2.9 | English (Australia) <en_AU@li.org> | 
- | [openerp-client]({{< ref "/f17/package/openerp-client.md" >}}) | 219 | 7729 | 2.8 | English (Australia) <en_AU@li.org> | 
- | [gdesklets]({{< ref "/f17/package/gdesklets.md" >}}) | 41 | 1528 | 2.7 | English (Australia) <en_AU@li.org> | 
- | [gnomebaker]({{< ref "/f17/package/gnomebaker.md" >}}) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
- | [gnome-do-plugins]({{< ref "/f17/package/gnome-do-plugins.md" >}}) | 34 | 2323 | 1.5 | English (Australia) <en_AU@li.org> | 
- | [rapid-photo-downloader]({{< ref "/f17/package/rapid-photo-downloader.md" >}}) | 10 | 1256 | 0.8 | English (Australia) <en_AU@li.org> | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 190 | 39559 | 0.5 | English (Australia) <en_AU@li.org> | 
- | [evolution]({{< ref "/f17/package/evolution.md" >}}) | 65 | 17202 | 0.4 |  | 
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 12 | 4446 | 0.3 | English (Australia) <en_AU@li.org> | 
- | [avahi]({{< ref "/f17/package/avahi.md" >}}) | 2 | 865 | 0.2 |  | 
- | [orage]({{< ref "/f17/package/orage.md" >}}) | 3 | 2392 | 0.1 | Austrilian English <en_gb@li.org> | 
- | [sweep]({{< ref "/f17/package/sweep.md" >}}) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 1 | 1696 | 0.1 | English (Australia) <en_AU@li.org> | 
- | [evolution-rspam]({{< ref "/f17/package/evolution-rspam.md" >}}) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
- | [evolution-rss]({{< ref "/f17/package/evolution-rss.md" >}}) | 0 | 589 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gnome-activity-journal]({{< ref "/f17/package/gnome-activity-journal.md" >}}) | 0 | 316 | 0.0 | English (Australia) <en_AU@li.org> | 
- | [purple-plugin_pack]({{< ref "/f17/package/purple-plugin_pack.md" >}}) | 0 | 5008 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
- | [widelands]({{< ref "/f17/package/widelands.md" >}}) | 0 | 1448 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [gnome-do](/f17/package/gnome-do) | 612 | 612 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [gwibber](/f17/package/gwibber) | 769 | 769 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [libmatekbd](/f17/package/libmatekbd) | 292 | 292 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [libmatekeyring](/f17/package/libmatekeyring) | 44 | 44 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [libmatewnck](/f17/package/libmatewnck) | 1082 | 1082 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [lightdm](/f17/package/lightdm) | 79 | 79 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [lightdm-gtk](/f17/package/lightdm-gtk) | 56 | 56 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [mate-bluetooth](/f17/package/mate-bluetooth) | 656 | 656 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-desktop](/f17/package/mate-desktop) | 1678 | 1678 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-dialogs](/f17/package/mate-dialogs) | 631 | 631 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-doc-utils](/f17/package/mate-doc-utils) | 251 | 251 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-document-viewer](/f17/package/mate-document-viewer) | 1493 | 1493 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-image-viewer](/f17/package/mate-image-viewer) | 1623 | 1623 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-keyring](/f17/package/mate-keyring) | 1173 | 1173 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-menus](/f17/package/mate-menus) | 97 | 97 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-polkit](/f17/package/mate-polkit) | 289 | 289 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-screensaver](/f17/package/mate-screensaver) | 989 | 989 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-terminal](/f17/package/mate-terminal) | 4204 | 4204 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-utils](/f17/package/mate-utils) | 3921 | 3921 | 100.0 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [pastebinit](/f17/package/pastebinit) | 183 | 183 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-musictracker](/f17/package/pidgin-musictracker) | 333 | 333 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [pmount](/f17/package/pmount) | 723 | 723 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [transmission](/f17/package/transmission) | 1809 | 1809 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [mate-file-manager](/f17/package/mate-file-manager) | 9066 | 9086 | 99.8 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [duplicity](/f17/package/duplicity) | 3390 | 3402 | 99.6 | English (Australia) <en_AU@li.org> | 
+ | [mate-text-editor](/f17/package/mate-text-editor) | 4955 | 4986 | 99.4 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [libexif](/f17/package/libexif) | 6930 | 6977 | 99.3 | English (Australia) <en_AU@li.org> | 
+ | [mate-control-center](/f17/package/mate-control-center) | 2592 | 2610 | 99.3 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-window-manager](/f17/package/mate-window-manager) | 2093 | 2116 | 98.9 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [fuse-encfs](/f17/package/fuse-encfs) | 1294 | 1315 | 98.4 | English (Australia) <en_AU@li.org> | 
+ | [mate-netspeed](/f17/package/mate-netspeed) | 134 | 137 | 97.8 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [quassel](/f17/package/quassel) | 4518 | 4663 | 96.9 |  | 
+ | [avogadro](/f17/package/avogadro) | 4120 | 4262 | 96.7 | English (Australia) <en_AU@li.org> | 
+ | [mate-settings-daemon](/f17/package/mate-settings-daemon) | 1650 | 1735 | 95.1 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [mate-panel](/f17/package/mate-panel) | 3993 | 4237 | 94.2 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [xchat-gnome](/f17/package/xchat-gnome) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
+ | [bzr-explorer](/f17/package/bzr-explorer) | 1509 | 1656 | 91.1 | English (Australia) <en_AU@li.org> | 
+ | [steadyflow](/f17/package/steadyflow) | 423 | 470 | 90.0 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-guifications](/f17/package/pidgin-guifications) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
+ | [openteacher](/f17/package/openteacher) | 26 | 31 | 83.9 | English (Australia) <en_AU@li.org> | 
+ | [pinta](/f17/package/pinta) | 1074 | 1311 | 81.9 | English (Australia) <en_AU@li.org> | 
+ | [mate-power-manager](/f17/package/mate-power-manager) | 2232 | 2758 | 80.9 | English (Australia) (http://www.transifex.com/projects/p/MATE/language/en_AU/) | 
+ | [soundconverter](/f17/package/soundconverter) | 231 | 462 | 50.0 | English (Australia) <en_AU@li.org> | 
+ | [terminator](/f17/package/terminator) | 326 | 726 | 44.9 | English (Australia) <en_AU@li.org> | 
+ | [deja-dup](/f17/package/deja-dup) | 1667 | 3748 | 44.5 | English (Australia) <en_AU@li.org> | 
+ | [tuxpaint-stamps](/f17/package/tuxpaint-stamps) | 1015 | 2711 | 37.4 | English (Australia) <en_AU@li.org> | 
+ | [tuxpaint](/f17/package/tuxpaint) | 445 | 1247 | 35.7 | English (Australia) <en_AU@li.org> | 
+ | [pidgin](/f17/package/pidgin) | 6277 | 18356 | 34.2 | English/AU <trans@six-by-nine.com.au> | 
+ | [stellarium](/f17/package/stellarium) | 2935 | 9286 | 31.6 | English (Australia) <en_AU@li.org> | 
+ | [tortoisehg](/f17/package/tortoisehg) | 2395 | 10495 | 22.8 | English (Australia) <en_AU@li.org> | 
+ | [inkscape](/f17/package/inkscape) | 5782 | 26528 | 21.8 | English (Australia) | 
+ | [openstack-nova](/f17/package/openstack-nova) | 1369 | 8907 | 15.4 | English (Australia) <en_AU@li.org> | 
+ | [homebank](/f17/package/homebank) | 193 | 1509 | 12.8 | English (Australia) <en_AU@li.org> | 
+ | [gxmessage](/f17/package/gxmessage) | 22 | 267 | 8.2 | LANGUAGE <LL@li.org> | 
+ | [ntfs-config](/f17/package/ntfs-config) | 29 | 357 | 8.1 | English (Australia) <en_AU@li.org> | 
+ | [ailurus](/f17/package/ailurus) | 683 | 8506 | 8.0 | none | 
+ | [bzr](/f17/package/bzr) | 1677 | 33099 | 5.1 | English (Australia) <en_AU@li.org> | 
+ | [evolution-data-server](/f17/package/evolution-data-server) | 166 | 4504 | 3.7 |  | 
+ | [gourmet](/f17/package/gourmet) | 107 | 3647 | 2.9 | English (Australia) <en_AU@li.org> | 
+ | [openerp-client](/f17/package/openerp-client) | 219 | 7729 | 2.8 | English (Australia) <en_AU@li.org> | 
+ | [gdesklets](/f17/package/gdesklets) | 41 | 1528 | 2.7 | English (Australia) <en_AU@li.org> | 
+ | [gnomebaker](/f17/package/gnomebaker) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
+ | [gnome-do-plugins](/f17/package/gnome-do-plugins) | 34 | 2323 | 1.5 | English (Australia) <en_AU@li.org> | 
+ | [rapid-photo-downloader](/f17/package/rapid-photo-downloader) | 10 | 1256 | 0.8 | English (Australia) <en_AU@li.org> | 
+ | [calibre](/f17/package/calibre) | 190 | 39559 | 0.5 | English (Australia) <en_AU@li.org> | 
+ | [evolution](/f17/package/evolution) | 65 | 17202 | 0.4 |  | 
+ | [openerp](/f17/package/openerp) | 12 | 4446 | 0.3 | English (Australia) <en_AU@li.org> | 
+ | [avahi](/f17/package/avahi) | 2 | 865 | 0.2 |  | 
+ | [orage](/f17/package/orage) | 3 | 2392 | 0.1 | Austrilian English <en_gb@li.org> | 
+ | [sweep](/f17/package/sweep) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
+ | [cinnamon](/f17/package/cinnamon) | 1 | 1696 | 0.1 | English (Australia) <en_AU@li.org> | 
+ | [evolution-rspam](/f17/package/evolution-rspam) | 0 | 194 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [evolution-rss](/f17/package/evolution-rss) | 0 | 589 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-activity-journal](/f17/package/gnome-activity-journal) | 0 | 316 | 0.0 | English (Australia) <en_AU@li.org> | 
+ | [purple-plugin_pack](/f17/package/purple-plugin_pack) | 0 | 5008 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
+ | [widelands](/f17/package/widelands) | 0 | 1448 | 0.0 | English (Australia) <en_AU@li.org> | 
 {.sortable}
 
 

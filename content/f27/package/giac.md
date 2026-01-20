@@ -18,14 +18,14 @@ The package giac (version 1.4.9.59):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 7537 | 8069 | 93.4 | /mnt/stockage/packages/f27/giac/po/fr.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 3396 | 8069 | 42.1 | /mnt/stockage/packages/f27/giac/po/el.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 3019 | 8069 | 37.4 | /mnt/stockage/packages/f27/giac/po/de.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 3019 | 8069 | 37.4 | /mnt/stockage/packages/f27/giac/po/en.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1176 | 8069 | 14.6 | /mnt/stockage/packages/f27/giac/po/zh.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 263 | 8069 | 3.3 | /mnt/stockage/packages/f27/giac/po/es.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 1 | 8069 | 0.0 | /mnt/stockage/packages/f27/giac/po/pt.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 0 | 8069 | 0.0 | /mnt/stockage/packages/f27/giac/po/it.po | 
+ | [fr](/f27/language/fr) | 7537 | 8069 | 93.4 | /mnt/stockage/packages/f27/giac/po/fr.po | 
+ | [el](/f27/language/el) | 3396 | 8069 | 42.1 | /mnt/stockage/packages/f27/giac/po/el.po | 
+ | [de](/f27/language/de) | 3019 | 8069 | 37.4 | /mnt/stockage/packages/f27/giac/po/de.po | 
+ | [en](/f27/language/en) | 3019 | 8069 | 37.4 | /mnt/stockage/packages/f27/giac/po/en.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1176 | 8069 | 14.6 | /mnt/stockage/packages/f27/giac/po/zh.po | 
+ | [es](/f27/language/es) | 263 | 8069 | 3.3 | /mnt/stockage/packages/f27/giac/po/es.po | 
+ | [pt](/f27/language/pt) | 1 | 8069 | 0.0 | /mnt/stockage/packages/f27/giac/po/pt.po | 
+ | [it](/f27/language/it) | 0 | 8069 | 0.0 | /mnt/stockage/packages/f27/giac/po/it.po | 
 {.sortable}
 
 

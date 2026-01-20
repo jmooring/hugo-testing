@@ -18,23 +18,23 @@ The package gnome-web-photo (version 0.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/el.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/he.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/ja.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/pt_BR.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/sv.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/zh_CN.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 102 | 168 | 60.7 | /mnt/stockage/packages/f16/gnome-web-photo/po/pa.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 19 | 168 | 11.3 | /mnt/stockage/packages/f16/gnome-web-photo/po/nb.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/oc.po | 
+ | [cs](/f16/language/cs) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/cs.po | 
+ | [da](/f16/language/da) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/da.po | 
+ | [de](/f16/language/de) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/de.po | 
+ | [el](/f16/language/el) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/el.po | 
+ | [es](/f16/language/es) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/es.po | 
+ | [fr](/f16/language/fr) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/fr.po | 
+ | [gl](/f16/language/gl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/gl.po | 
+ | [he](/f16/language/he) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/he.po | 
+ | [ja](/f16/language/ja) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/ja.po | 
+ | [pl](/f16/language/pl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/pt_BR.po | 
+ | [sl](/f16/language/sl) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/sl.po | 
+ | [sv](/f16/language/sv) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/sv.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 330 | 330 | 100.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/zh_CN.po | 
+ | [pa](/f16/language/pa) | 102 | 168 | 60.7 | /mnt/stockage/packages/f16/gnome-web-photo/po/pa.po | 
+ | [nb_NO](/f16/language/nb_NO) | 19 | 168 | 11.3 | /mnt/stockage/packages/f16/gnome-web-photo/po/nb.po | 
+ | [oc](/f16/language/oc) | 0 | 26 | 0.0 | /mnt/stockage/packages/f16/gnome-web-photo/po/oc.po | 
 {.sortable}
 
 

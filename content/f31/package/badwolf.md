@@ -18,9 +18,9 @@ The package badwolf (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 170 | 171 | 99.4 | /mnt/stockage/packages/f31/badwolf/po/pt_BR.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 170 | 171 | 99.4 | /mnt/stockage/packages/f31/badwolf/po/tr.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 154 | 171 | 90.1 | /mnt/stockage/packages/f31/badwolf/po/fr.po | 
+ | [pt_BR](/f31/language/pt_BR) | 170 | 171 | 99.4 | /mnt/stockage/packages/f31/badwolf/po/pt_BR.po | 
+ | [tr](/f31/language/tr) | 170 | 171 | 99.4 | /mnt/stockage/packages/f31/badwolf/po/tr.po | 
+ | [fr](/f31/language/fr) | 154 | 171 | 90.1 | /mnt/stockage/packages/f31/badwolf/po/fr.po | 
 {.sortable}
 
 

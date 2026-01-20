@@ -18,19 +18,19 @@ The package linphone (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1381 | 1440 | 95.9 | /mnt/stockage/packages/f13/linphone/po/cs.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1217 | 1440 | 84.5 | /mnt/stockage/packages/f13/linphone/po/it.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1153 | 1440 | 80.1 | /mnt/stockage/packages/f13/linphone/po/sv.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 830 | 1440 | 57.6 | /mnt/stockage/packages/f13/linphone/po/zh_CN.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 689 | 1440 | 47.8 | /mnt/stockage/packages/f13/linphone/po/fr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 616 | 1440 | 42.8 | /mnt/stockage/packages/f13/linphone/po/ru.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 316 | 1440 | 21.9 | /mnt/stockage/packages/f13/linphone/po/hu.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 305 | 1440 | 21.2 | /mnt/stockage/packages/f13/linphone/po/nl.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 304 | 1440 | 21.1 | /mnt/stockage/packages/f13/linphone/po/de.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 166 | 1440 | 11.5 | /mnt/stockage/packages/f13/linphone/po/ja.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 161 | 1440 | 11.2 | /mnt/stockage/packages/f13/linphone/po/pl.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 158 | 1440 | 11.0 | /mnt/stockage/packages/f13/linphone/po/es.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 106 | 1440 | 7.4 | /mnt/stockage/packages/f13/linphone/po/pt_BR.po | 
+ | [cs](/f13/language/cs) | 1381 | 1440 | 95.9 | /mnt/stockage/packages/f13/linphone/po/cs.po | 
+ | [it](/f13/language/it) | 1217 | 1440 | 84.5 | /mnt/stockage/packages/f13/linphone/po/it.po | 
+ | [sv](/f13/language/sv) | 1153 | 1440 | 80.1 | /mnt/stockage/packages/f13/linphone/po/sv.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 830 | 1440 | 57.6 | /mnt/stockage/packages/f13/linphone/po/zh_CN.po | 
+ | [fr](/f13/language/fr) | 689 | 1440 | 47.8 | /mnt/stockage/packages/f13/linphone/po/fr.po | 
+ | [ru](/f13/language/ru) | 616 | 1440 | 42.8 | /mnt/stockage/packages/f13/linphone/po/ru.po | 
+ | [hu](/f13/language/hu) | 316 | 1440 | 21.9 | /mnt/stockage/packages/f13/linphone/po/hu.po | 
+ | [nl](/f13/language/nl) | 305 | 1440 | 21.2 | /mnt/stockage/packages/f13/linphone/po/nl.po | 
+ | [de](/f13/language/de) | 304 | 1440 | 21.1 | /mnt/stockage/packages/f13/linphone/po/de.po | 
+ | [ja](/f13/language/ja) | 166 | 1440 | 11.5 | /mnt/stockage/packages/f13/linphone/po/ja.po | 
+ | [pl](/f13/language/pl) | 161 | 1440 | 11.2 | /mnt/stockage/packages/f13/linphone/po/pl.po | 
+ | [es](/f13/language/es) | 158 | 1440 | 11.0 | /mnt/stockage/packages/f13/linphone/po/es.po | 
+ | [pt_BR](/f13/language/pt_BR) | 106 | 1440 | 7.4 | /mnt/stockage/packages/f13/linphone/po/pt_BR.po | 
 {.sortable}
 
 

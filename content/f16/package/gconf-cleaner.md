@@ -18,10 +18,10 @@ The package gconf-cleaner (version 0.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f16/gconf-cleaner/po/de.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f16/gconf-cleaner/po/ja.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f16/gconf-cleaner/po/sv.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 174 | 208 | 83.7 | /mnt/stockage/packages/f16/gconf-cleaner/po/fr.po | 
+ | [de](/f16/language/de) | 208 | 208 | 100.0 | /mnt/stockage/packages/f16/gconf-cleaner/po/de.po | 
+ | [ja](/f16/language/ja) | 208 | 208 | 100.0 | /mnt/stockage/packages/f16/gconf-cleaner/po/ja.po | 
+ | [sv](/f16/language/sv) | 208 | 208 | 100.0 | /mnt/stockage/packages/f16/gconf-cleaner/po/sv.po | 
+ | [fr](/f16/language/fr) | 174 | 208 | 83.7 | /mnt/stockage/packages/f16/gconf-cleaner/po/fr.po | 
 {.sortable}
 
 

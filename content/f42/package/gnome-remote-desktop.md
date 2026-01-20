@@ -18,57 +18,57 @@ The package gnome-remote-desktop (version 48.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f42/language/be.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/be.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/bg.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/de.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/el.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/en_GB.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/es.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/eu.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fa.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fur.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/gl.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/he.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/hi.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 835 | 835 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ka.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 820 | 820 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/kab.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ko.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/lt.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/lv.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/uk.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/uz.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 164 | 164 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/vi.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/zh_TW.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 660 | 853 | 77.4 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ne.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 635 | 853 | 74.4 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/oc.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 394 | 853 | 46.2 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pa.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 371 | 853 | 43.5 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fi.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 232 | 569 | 40.8 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/is.po | 
- | [ab]({{< ref "/f42/language/ab.md" >}}) | 180 | 569 | 31.6 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ab.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 171 | 820 | 20.9 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/kk.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 102 | 569 | 17.9 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ie.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 38 | 445 | 8.5 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/nb.po | 
+ | [be](/f42/language/be) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/be.po | 
+ | [bg](/f42/language/bg) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/bg.po | 
+ | [ca](/f42/language/ca) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ca.po | 
+ | [cs](/f42/language/cs) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/cs.po | 
+ | [da](/f42/language/da) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/da.po | 
+ | [de](/f42/language/de) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/de.po | 
+ | [el](/f42/language/el) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/el.po | 
+ | [en_GB](/f42/language/en_GB) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/en_GB.po | 
+ | [eo](/f42/language/eo) | 569 | 569 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/eo.po | 
+ | [es](/f42/language/es) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/es.po | 
+ | [eu](/f42/language/eu) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/eu.po | 
+ | [fa](/f42/language/fa) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fa.po | 
+ | [fr](/f42/language/fr) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fr.po | 
+ | [fur](/f42/language/fur) | 820 | 820 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fur.po | 
+ | [gl](/f42/language/gl) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/gl.po | 
+ | [he](/f42/language/he) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/he.po | 
+ | [hi](/f42/language/hi) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/hi.po | 
+ | [hr](/f42/language/hr) | 569 | 569 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/hr.po | 
+ | [hu](/f42/language/hu) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/hu.po | 
+ | [id](/f42/language/id) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/id.po | 
+ | [it](/f42/language/it) | 835 | 835 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/it.po | 
+ | [ka](/f42/language/ka) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ka.po | 
+ | [kab](/f42/language/kab) | 820 | 820 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/kab.po | 
+ | [ko](/f42/language/ko) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ko.po | 
+ | [lt](/f42/language/lt) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/lt.po | 
+ | [lv](/f42/language/lv) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/lv.po | 
+ | [nl](/f42/language/nl) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/nl.po | 
+ | [pl](/f42/language/pl) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pl.po | 
+ | [pt](/f42/language/pt) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ro.po | 
+ | [ru](/f42/language/ru) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ru.po | 
+ | [sk](/f42/language/sk) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sk.po | 
+ | [sl](/f42/language/sl) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sl.po | 
+ | [sr](/f42/language/sr) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sr.po | 
+ | [sv](/f42/language/sv) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/sv.po | 
+ | [tr](/f42/language/tr) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/tr.po | 
+ | [uk](/f42/language/uk) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/uk.po | 
+ | [uz](/f42/language/uz) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/uz.po | 
+ | [vi](/f42/language/vi) | 164 | 164 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/vi.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 853 | 853 | 100.0 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/zh_TW.po | 
+ | [ne](/f42/language/ne) | 660 | 853 | 77.4 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ne.po | 
+ | [oc](/f42/language/oc) | 635 | 853 | 74.4 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/oc.po | 
+ | [pa](/f42/language/pa) | 394 | 853 | 46.2 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/pa.po | 
+ | [fi](/f42/language/fi) | 371 | 853 | 43.5 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/fi.po | 
+ | [is](/f42/language/is) | 232 | 569 | 40.8 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/is.po | 
+ | [ab](/f42/language/ab) | 180 | 569 | 31.6 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ab.po | 
+ | [kk](/f42/language/kk) | 171 | 820 | 20.9 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/kk.po | 
+ | [ie](/f42/language/ie) | 102 | 569 | 17.9 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/ie.po | 
+ | [nb_NO](/f42/language/nb_NO) | 38 | 445 | 8.5 | /mnt/stockage/packages/f42/gnome-remote-desktop/po/nb.po | 
 {.sortable}
 
 

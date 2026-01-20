@@ -18,13 +18,13 @@ The package printoxx (version 2.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f16/printoxx/locales/de/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/de/zfuncs.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f16/printoxx/locales/nl/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/nl/zfuncs.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f16/printoxx/locales/ru/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/ru/zfuncs.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 179 | 193 | 92.7 | /mnt/stockage/packages/f16/printoxx/locales/fr/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/fr/zfuncs.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 173 | 193 | 89.6 | /mnt/stockage/packages/f16/printoxx/locales/zh_CN/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/zh_CN/zfuncs.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 165 | 193 | 85.5 | /mnt/stockage/packages/f16/printoxx/locales/es/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/es/zfuncs.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 165 | 193 | 85.5 | /mnt/stockage/packages/f16/printoxx/locales/gl/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/gl/zfuncs.po | 
+ | [de](/f16/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f16/printoxx/locales/de/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/de/zfuncs.po | 
+ | [nl](/f16/language/nl) | 193 | 193 | 100.0 | /mnt/stockage/packages/f16/printoxx/locales/nl/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/nl/zfuncs.po | 
+ | [ru](/f16/language/ru) | 193 | 193 | 100.0 | /mnt/stockage/packages/f16/printoxx/locales/ru/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/ru/zfuncs.po | 
+ | [fr](/f16/language/fr) | 179 | 193 | 92.7 | /mnt/stockage/packages/f16/printoxx/locales/fr/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/fr/zfuncs.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 173 | 193 | 89.6 | /mnt/stockage/packages/f16/printoxx/locales/zh_CN/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/zh_CN/zfuncs.po | 
+ | [es](/f16/language/es) | 165 | 193 | 85.5 | /mnt/stockage/packages/f16/printoxx/locales/es/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/es/zfuncs.po | 
+ | [gl](/f16/language/gl) | 165 | 193 | 85.5 | /mnt/stockage/packages/f16/printoxx/locales/gl/printoxx.po/mnt/stockage/packages/f16/printoxx/locales/gl/zfuncs.po | 
 {.sortable}
 
 

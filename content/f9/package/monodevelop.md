@@ -18,27 +18,27 @@ The package monodevelop (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 10126 | 10126 | 100.0 | /mnt/stockage/packages/f9/monodevelop/po/de.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 10126 | 10126 | 100.0 | /mnt/stockage/packages/f9/monodevelop/po/nl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 9909 | 10126 | 97.9 | /mnt/stockage/packages/f9/monodevelop/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 9049 | 10126 | 89.4 | /mnt/stockage/packages/f9/monodevelop/po/ja.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 8542 | 10126 | 84.4 | /mnt/stockage/packages/f9/monodevelop/po/cs.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 8454 | 10126 | 83.5 | /mnt/stockage/packages/f9/monodevelop/po/pt_BR.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 8425 | 10126 | 83.2 | /mnt/stockage/packages/f9/monodevelop/po/it.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 8353 | 10126 | 82.5 | /mnt/stockage/packages/f9/monodevelop/po/id.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 8254 | 10126 | 81.5 | /mnt/stockage/packages/f9/monodevelop/po/hu.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 6601 | 10126 | 65.2 | /mnt/stockage/packages/f9/monodevelop/po/zh_TW.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 6575 | 10126 | 64.9 | /mnt/stockage/packages/f9/monodevelop/po/ru.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 5888 | 10126 | 58.1 | /mnt/stockage/packages/f9/monodevelop/po/gl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 5604 | 10126 | 55.3 | /mnt/stockage/packages/f9/monodevelop/po/pt.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 3570 | 10126 | 35.3 | /mnt/stockage/packages/f9/monodevelop/po/ca.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 3549 | 10126 | 35.0 | /mnt/stockage/packages/f9/monodevelop/po/sv.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 3377 | 10126 | 33.3 | /mnt/stockage/packages/f9/monodevelop/po/zh_CN.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 3165 | 10126 | 31.3 | /mnt/stockage/packages/f9/monodevelop/po/pl.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 2774 | 10126 | 27.4 | /mnt/stockage/packages/f9/monodevelop/po/sl.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 1638 | 10126 | 16.2 | /mnt/stockage/packages/f9/monodevelop/po/da.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 1052 | 10126 | 10.4 | /mnt/stockage/packages/f9/monodevelop/po/tr.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/monodevelop/po/es.po | 
+ | [de](/f9/language/de) | 10126 | 10126 | 100.0 | /mnt/stockage/packages/f9/monodevelop/po/de.po | 
+ | [nl](/f9/language/nl) | 10126 | 10126 | 100.0 | /mnt/stockage/packages/f9/monodevelop/po/nl.po | 
+ | [fr](/f9/language/fr) | 9909 | 10126 | 97.9 | /mnt/stockage/packages/f9/monodevelop/po/fr.po | 
+ | [ja](/f9/language/ja) | 9049 | 10126 | 89.4 | /mnt/stockage/packages/f9/monodevelop/po/ja.po | 
+ | [cs](/f9/language/cs) | 8542 | 10126 | 84.4 | /mnt/stockage/packages/f9/monodevelop/po/cs.po | 
+ | [pt_BR](/f9/language/pt_BR) | 8454 | 10126 | 83.5 | /mnt/stockage/packages/f9/monodevelop/po/pt_BR.po | 
+ | [it](/f9/language/it) | 8425 | 10126 | 83.2 | /mnt/stockage/packages/f9/monodevelop/po/it.po | 
+ | [id](/f9/language/id) | 8353 | 10126 | 82.5 | /mnt/stockage/packages/f9/monodevelop/po/id.po | 
+ | [hu](/f9/language/hu) | 8254 | 10126 | 81.5 | /mnt/stockage/packages/f9/monodevelop/po/hu.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 6601 | 10126 | 65.2 | /mnt/stockage/packages/f9/monodevelop/po/zh_TW.po | 
+ | [ru](/f9/language/ru) | 6575 | 10126 | 64.9 | /mnt/stockage/packages/f9/monodevelop/po/ru.po | 
+ | [gl](/f9/language/gl) | 5888 | 10126 | 58.1 | /mnt/stockage/packages/f9/monodevelop/po/gl.po | 
+ | [pt](/f9/language/pt) | 5604 | 10126 | 55.3 | /mnt/stockage/packages/f9/monodevelop/po/pt.po | 
+ | [ca](/f9/language/ca) | 3570 | 10126 | 35.3 | /mnt/stockage/packages/f9/monodevelop/po/ca.po | 
+ | [sv](/f9/language/sv) | 3549 | 10126 | 35.0 | /mnt/stockage/packages/f9/monodevelop/po/sv.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 3377 | 10126 | 33.3 | /mnt/stockage/packages/f9/monodevelop/po/zh_CN.po | 
+ | [pl](/f9/language/pl) | 3165 | 10126 | 31.3 | /mnt/stockage/packages/f9/monodevelop/po/pl.po | 
+ | [sl](/f9/language/sl) | 2774 | 10126 | 27.4 | /mnt/stockage/packages/f9/monodevelop/po/sl.po | 
+ | [da](/f9/language/da) | 1638 | 10126 | 16.2 | /mnt/stockage/packages/f9/monodevelop/po/da.po | 
+ | [tr](/f9/language/tr) | 1052 | 10126 | 10.4 | /mnt/stockage/packages/f9/monodevelop/po/tr.po | 
+ | [es](/f9/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f9/monodevelop/po/es.po | 
 {.sortable}
 
 

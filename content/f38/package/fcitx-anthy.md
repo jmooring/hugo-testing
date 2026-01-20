@@ -18,14 +18,14 @@ The package fcitx-anthy (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ca.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ja.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ko.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/zh_CN.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 339 | 365 | 92.9 | /mnt/stockage/packages/f38/fcitx-anthy/po/de.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 293 | 365 | 80.3 | /mnt/stockage/packages/f38/fcitx-anthy/po/zh_TW.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 0 | 365 | 0.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/da.po | 
+ | [ca](/f38/language/ca) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ca.po | 
+ | [ja](/f38/language/ja) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ja.po | 
+ | [ko](/f38/language/ko) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ko.po | 
+ | [ru](/f38/language/ru) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 365 | 365 | 100.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/zh_CN.po | 
+ | [de](/f38/language/de) | 339 | 365 | 92.9 | /mnt/stockage/packages/f38/fcitx-anthy/po/de.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 293 | 365 | 80.3 | /mnt/stockage/packages/f38/fcitx-anthy/po/zh_TW.po | 
+ | [da](/f38/language/da) | 0 | 365 | 0.0 | /mnt/stockage/packages/f38/fcitx-anthy/po/da.po | 
 {.sortable}
 
 

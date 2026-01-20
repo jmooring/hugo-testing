@@ -18,64 +18,64 @@ The package kpimtextedit (version 25.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ar/libkpimtextedit6.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/bg/libkpimtextedit6.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ca/libkpimtextedit6.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ca@valencia/libkpimtextedit6.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/de/libkpimtextedit6.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/en_GB/libkpimtextedit6.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/eo/libkpimtextedit6.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/es/libkpimtextedit6.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/eu/libkpimtextedit6.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/fi/libkpimtextedit6.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/fr/libkpimtextedit6.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/gl/libkpimtextedit6.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/he/libkpimtextedit6.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/hi/libkpimtextedit6.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/hu/libkpimtextedit6.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ia/libkpimtextedit6.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/it/libkpimtextedit6.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ka/libkpimtextedit6.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ko/libkpimtextedit6.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/lv/libkpimtextedit6.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/nl/libkpimtextedit6.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/pl/libkpimtextedit6.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ru/libkpimtextedit6.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/sa/libkpimtextedit6.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/sl/libkpimtextedit6.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/sv/libkpimtextedit6.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/tr/libkpimtextedit6.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/uk/libkpimtextedit6.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/zh_TW/libkpimtextedit6.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 271 | 274 | 98.9 | /mnt/stockage/packages/f40/kpimtextedit/po/zh_CN/libkpimtextedit6.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 257 | 274 | 93.8 | /mnt/stockage/packages/f40/kpimtextedit/po/ta/libkpimtextedit6.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 216 | 274 | 78.8 | /mnt/stockage/packages/f40/kpimtextedit/po/cs/libkpimtextedit6.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 190 | 274 | 69.3 | /mnt/stockage/packages/f40/kpimtextedit/po/pt_BR/libkpimtextedit6.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/az/libkpimtextedit6.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/da/libkpimtextedit6.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/et/libkpimtextedit6.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/nn/libkpimtextedit6.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/pt/libkpimtextedit6.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 164 | 274 | 59.9 | /mnt/stockage/packages/f40/kpimtextedit/po/sk/libkpimtextedit6.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr/libkpimtextedit6.po | 
- | [sr@ijekavian]({{< ref "/f40/language/sr@ijekavian.md" >}}) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr@ijekavian/libkpimtextedit6.po | 
- | [sr@ijekavian_Latn]({{< ref "/f40/language/sr@ijekavian_Latn.md" >}}) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr@ijekavianlatin/libkpimtextedit6.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr@latin/libkpimtextedit6.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 134 | 274 | 48.9 | /mnt/stockage/packages/f40/kpimtextedit/po/nb/libkpimtextedit6.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 122 | 274 | 44.5 | /mnt/stockage/packages/f40/kpimtextedit/po/el/libkpimtextedit6.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/bs/libkpimtextedit6.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/kk/libkpimtextedit6.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/lt/libkpimtextedit6.po | 
- | [nds]({{< ref "/f40/language/nds.md" >}}) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/nds/libkpimtextedit6.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/ro/libkpimtextedit6.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 23 | 274 | 8.4 | /mnt/stockage/packages/f40/kpimtextedit/po/ug/libkpimtextedit6.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 21 | 274 | 7.7 | /mnt/stockage/packages/f40/kpimtextedit/po/ga/libkpimtextedit6.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 20 | 274 | 7.3 | /mnt/stockage/packages/f40/kpimtextedit/po/mr/libkpimtextedit6.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 8 | 274 | 2.9 | /mnt/stockage/packages/f40/kpimtextedit/po/ja/libkpimtextedit6.po | 
- | [km]({{< ref "/f40/language/km.md" >}}) | 8 | 274 | 2.9 | /mnt/stockage/packages/f40/kpimtextedit/po/km/libkpimtextedit6.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 8 | 274 | 2.9 | /mnt/stockage/packages/f40/kpimtextedit/po/sq/libkpimtextedit6.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 3 | 274 | 1.1 | /mnt/stockage/packages/f40/kpimtextedit/po/pa/libkpimtextedit6.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 1 | 274 | 0.4 | /mnt/stockage/packages/f40/kpimtextedit/po/ast/libkpimtextedit6.po | 
+ | [ar](/f40/language/ar) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ar/libkpimtextedit6.po | 
+ | [bg](/f40/language/bg) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/bg/libkpimtextedit6.po | 
+ | [ca](/f40/language/ca) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ca/libkpimtextedit6.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ca@valencia/libkpimtextedit6.po | 
+ | [de](/f40/language/de) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/de/libkpimtextedit6.po | 
+ | [en_GB](/f40/language/en_GB) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/en_GB/libkpimtextedit6.po | 
+ | [eo](/f40/language/eo) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/eo/libkpimtextedit6.po | 
+ | [es](/f40/language/es) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/es/libkpimtextedit6.po | 
+ | [eu](/f40/language/eu) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/eu/libkpimtextedit6.po | 
+ | [fi](/f40/language/fi) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/fi/libkpimtextedit6.po | 
+ | [fr](/f40/language/fr) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/fr/libkpimtextedit6.po | 
+ | [gl](/f40/language/gl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/gl/libkpimtextedit6.po | 
+ | [he](/f40/language/he) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/he/libkpimtextedit6.po | 
+ | [hi](/f40/language/hi) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/hi/libkpimtextedit6.po | 
+ | [hu](/f40/language/hu) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/hu/libkpimtextedit6.po | 
+ | [ia](/f40/language/ia) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ia/libkpimtextedit6.po | 
+ | [it](/f40/language/it) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/it/libkpimtextedit6.po | 
+ | [ka](/f40/language/ka) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ka/libkpimtextedit6.po | 
+ | [ko](/f40/language/ko) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ko/libkpimtextedit6.po | 
+ | [lv](/f40/language/lv) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/lv/libkpimtextedit6.po | 
+ | [nl](/f40/language/nl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/nl/libkpimtextedit6.po | 
+ | [pl](/f40/language/pl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/pl/libkpimtextedit6.po | 
+ | [ru](/f40/language/ru) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/ru/libkpimtextedit6.po | 
+ | [sa](/f40/language/sa) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/sa/libkpimtextedit6.po | 
+ | [sl](/f40/language/sl) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/sl/libkpimtextedit6.po | 
+ | [sv](/f40/language/sv) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/sv/libkpimtextedit6.po | 
+ | [tr](/f40/language/tr) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/tr/libkpimtextedit6.po | 
+ | [uk](/f40/language/uk) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/uk/libkpimtextedit6.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 274 | 274 | 100.0 | /mnt/stockage/packages/f40/kpimtextedit/po/zh_TW/libkpimtextedit6.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 271 | 274 | 98.9 | /mnt/stockage/packages/f40/kpimtextedit/po/zh_CN/libkpimtextedit6.po | 
+ | [ta](/f40/language/ta) | 257 | 274 | 93.8 | /mnt/stockage/packages/f40/kpimtextedit/po/ta/libkpimtextedit6.po | 
+ | [cs](/f40/language/cs) | 216 | 274 | 78.8 | /mnt/stockage/packages/f40/kpimtextedit/po/cs/libkpimtextedit6.po | 
+ | [pt_BR](/f40/language/pt_BR) | 190 | 274 | 69.3 | /mnt/stockage/packages/f40/kpimtextedit/po/pt_BR/libkpimtextedit6.po | 
+ | [az](/f40/language/az) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/az/libkpimtextedit6.po | 
+ | [da](/f40/language/da) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/da/libkpimtextedit6.po | 
+ | [et](/f40/language/et) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/et/libkpimtextedit6.po | 
+ | [nn](/f40/language/nn) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/nn/libkpimtextedit6.po | 
+ | [pt](/f40/language/pt) | 187 | 274 | 68.2 | /mnt/stockage/packages/f40/kpimtextedit/po/pt/libkpimtextedit6.po | 
+ | [sk](/f40/language/sk) | 164 | 274 | 59.9 | /mnt/stockage/packages/f40/kpimtextedit/po/sk/libkpimtextedit6.po | 
+ | [sr](/f40/language/sr) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr/libkpimtextedit6.po | 
+ | [sr@ijekavian](/f40/language/sr@ijekavian) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr@ijekavian/libkpimtextedit6.po | 
+ | [sr@ijekavian_Latn](/f40/language/sr@ijekavian_Latn) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr@ijekavianlatin/libkpimtextedit6.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 158 | 274 | 57.7 | /mnt/stockage/packages/f40/kpimtextedit/po/sr@latin/libkpimtextedit6.po | 
+ | [nb_NO](/f40/language/nb_NO) | 134 | 274 | 48.9 | /mnt/stockage/packages/f40/kpimtextedit/po/nb/libkpimtextedit6.po | 
+ | [el](/f40/language/el) | 122 | 274 | 44.5 | /mnt/stockage/packages/f40/kpimtextedit/po/el/libkpimtextedit6.po | 
+ | [bs](/f40/language/bs) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/bs/libkpimtextedit6.po | 
+ | [kk](/f40/language/kk) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/kk/libkpimtextedit6.po | 
+ | [lt](/f40/language/lt) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/lt/libkpimtextedit6.po | 
+ | [nds](/f40/language/nds) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/nds/libkpimtextedit6.po | 
+ | [ro](/f40/language/ro) | 43 | 274 | 15.7 | /mnt/stockage/packages/f40/kpimtextedit/po/ro/libkpimtextedit6.po | 
+ | [ug](/f40/language/ug) | 23 | 274 | 8.4 | /mnt/stockage/packages/f40/kpimtextedit/po/ug/libkpimtextedit6.po | 
+ | [ga](/f40/language/ga) | 21 | 274 | 7.7 | /mnt/stockage/packages/f40/kpimtextedit/po/ga/libkpimtextedit6.po | 
+ | [mr](/f40/language/mr) | 20 | 274 | 7.3 | /mnt/stockage/packages/f40/kpimtextedit/po/mr/libkpimtextedit6.po | 
+ | [ja](/f40/language/ja) | 8 | 274 | 2.9 | /mnt/stockage/packages/f40/kpimtextedit/po/ja/libkpimtextedit6.po | 
+ | [km](/f40/language/km) | 8 | 274 | 2.9 | /mnt/stockage/packages/f40/kpimtextedit/po/km/libkpimtextedit6.po | 
+ | [sq](/f40/language/sq) | 8 | 274 | 2.9 | /mnt/stockage/packages/f40/kpimtextedit/po/sq/libkpimtextedit6.po | 
+ | [pa](/f40/language/pa) | 3 | 274 | 1.1 | /mnt/stockage/packages/f40/kpimtextedit/po/pa/libkpimtextedit6.po | 
+ | [ast](/f40/language/ast) | 1 | 274 | 0.4 | /mnt/stockage/packages/f40/kpimtextedit/po/ast/libkpimtextedit6.po | 
 {.sortable}
 
 

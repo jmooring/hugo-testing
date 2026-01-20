@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp-client]({{< ref "/f21/package/openerp-client.md" >}}) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [openerp]({{< ref "/f21/package/openerp.md" >}}) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [libgweather]({{< ref "/f21/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f21/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
- | [libmateweather]({{< ref "/f21/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
- | [openerp7]({{< ref "/f21/package/openerp7.md" >}}) | 21021 | 50054 | 42.0 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [gnomebaker]({{< ref "/f21/package/gnomebaker.md" >}}) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
- | [mate-desktop]({{< ref "/f21/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
+ | [openerp-client](/f21/package/openerp-client) | 7729 | 7729 | 100.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [openerp](/f21/package/openerp) | 57419 | 57798 | 99.3 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [libgweather](/f21/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f21/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
+ | [libmateweather](/f21/package/libmateweather) | 361 | 487 | 74.1 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
+ | [openerp7](/f21/package/openerp7) | 21021 | 50054 | 42.0 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [gnomebaker](/f21/package/gnomebaker) | 159 | 1186 | 13.4 | Spanish (Costa Rica) <es_CR@li.org> | 
+ | [mate-desktop](/f21/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Costa Rica) (http://www.transifex.com/projects/p/MATE/language/es_CR/) | 
 {.sortable}
 
 

@@ -18,31 +18,31 @@ The package tepl (version 6.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/da.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/en_GB.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/eu.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/fr.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/tepl/po/fur.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/id.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ru.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/zh_CN.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 343 | 346 | 99.1 | /mnt/stockage/packages/f39/tepl/po/de.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 306 | 346 | 88.4 | /mnt/stockage/packages/f39/tepl/po/tr.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 115 | 228 | 50.4 | /mnt/stockage/packages/f39/tepl/po/el.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 169 | 338 | 50.0 | /mnt/stockage/packages/f39/tepl/po/sl.po | 
+ | [ca](/f39/language/ca) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ca.po | 
+ | [cs](/f39/language/cs) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/cs.po | 
+ | [da](/f39/language/da) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/da.po | 
+ | [en_GB](/f39/language/en_GB) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/en_GB.po | 
+ | [es](/f39/language/es) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/es.po | 
+ | [eu](/f39/language/eu) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/eu.po | 
+ | [fr](/f39/language/fr) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/fr.po | 
+ | [fur](/f39/language/fur) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/tepl/po/fur.po | 
+ | [hr](/f39/language/hr) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/hr.po | 
+ | [hu](/f39/language/hu) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/hu.po | 
+ | [id](/f39/language/id) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/id.po | 
+ | [ja](/f39/language/ja) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ja.po | 
+ | [nl](/f39/language/nl) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/nl.po | 
+ | [pl](/f39/language/pl) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ro.po | 
+ | [ru](/f39/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/tepl/po/ru.po | 
+ | [sr](/f39/language/sr) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/sr.po | 
+ | [sv](/f39/language/sv) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/sv.po | 
+ | [uk](/f39/language/uk) | 346 | 346 | 100.0 | /mnt/stockage/packages/f39/tepl/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 294 | 294 | 100.0 | /mnt/stockage/packages/f39/tepl/po/zh_CN.po | 
+ | [de](/f39/language/de) | 343 | 346 | 99.1 | /mnt/stockage/packages/f39/tepl/po/de.po | 
+ | [tr](/f39/language/tr) | 306 | 346 | 88.4 | /mnt/stockage/packages/f39/tepl/po/tr.po | 
+ | [el](/f39/language/el) | 115 | 228 | 50.4 | /mnt/stockage/packages/f39/tepl/po/el.po | 
+ | [sl](/f39/language/sl) | 169 | 338 | 50.0 | /mnt/stockage/packages/f39/tepl/po/sl.po | 
 {.sortable}
 
 

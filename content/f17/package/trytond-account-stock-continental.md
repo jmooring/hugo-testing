@@ -18,14 +18,14 @@ The package trytond-account-stock-continental (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/de_DE.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/fr_FR.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/bg_BG.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/cs_CZ.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/es_CO.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/ru_RU.po | 
+ | [de](/f17/language/de) | 181 | 181 | 100.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/de_DE.po | 
+ | [fr](/f17/language/fr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/fr_FR.po | 
+ | [bg](/f17/language/bg) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/bg_BG.po | 
+ | [cs](/f17/language/cs) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/cs_CZ.po | 
+ | [es](/f17/language/es) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/es_CO.po | 
+ | [nl](/f17/language/nl) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 0 | 181 | 0.0 | /mnt/stockage/packages/f17/trytond-account-stock-continental/locale/ru_RU.po | 
 {.sortable}
 
 

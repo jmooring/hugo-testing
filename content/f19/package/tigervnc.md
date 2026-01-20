@@ -18,12 +18,12 @@ The package tigervnc (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f19/tigervnc/po/sv.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 158 | 327 | 48.3 | /mnt/stockage/packages/f19/tigervnc/po/de.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 119 | 327 | 36.4 | /mnt/stockage/packages/f19/tigervnc/po/pl.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 117 | 327 | 35.8 | /mnt/stockage/packages/f19/tigervnc/po/sk.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 116 | 327 | 35.5 | /mnt/stockage/packages/f19/tigervnc/po/fr.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 114 | 327 | 34.9 | /mnt/stockage/packages/f19/tigervnc/po/ru.po | 
+ | [sv](/f19/language/sv) | 327 | 327 | 100.0 | /mnt/stockage/packages/f19/tigervnc/po/sv.po | 
+ | [de](/f19/language/de) | 158 | 327 | 48.3 | /mnt/stockage/packages/f19/tigervnc/po/de.po | 
+ | [pl](/f19/language/pl) | 119 | 327 | 36.4 | /mnt/stockage/packages/f19/tigervnc/po/pl.po | 
+ | [sk](/f19/language/sk) | 117 | 327 | 35.8 | /mnt/stockage/packages/f19/tigervnc/po/sk.po | 
+ | [fr](/f19/language/fr) | 116 | 327 | 35.5 | /mnt/stockage/packages/f19/tigervnc/po/fr.po | 
+ | [ru](/f19/language/ru) | 114 | 327 | 34.9 | /mnt/stockage/packages/f19/tigervnc/po/ru.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package idjc (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f18/language/it.md" >}}) | 5636 | 5636 | 100.0 | /mnt/stockage/packages/f18/idjc/po/it.po | 
+ | [it](/f18/language/it) | 5636 | 5636 | 100.0 | /mnt/stockage/packages/f18/idjc/po/it.po | 
 {.sortable}
 
 

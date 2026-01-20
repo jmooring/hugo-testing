@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [avant-window-navigator]({{< ref "/f11/package/avant-window-navigator.md" >}}) | 6 | 593 | 1.0 | Kabyle <kab@li.org> | 
+ | [avant-window-navigator](/f11/package/avant-window-navigator) | 6 | 593 | 1.0 | Kabyle <kab@li.org> | 
 {.sortable}
 
 

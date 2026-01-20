@@ -18,20 +18,20 @@ The package mingw-gnutls (version 3.1.26):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f20/language/error.md" >}}) | 2792 | 2792 | 100.0 | /mnt/stockage/packages/f20/mingw-gnutls/po/en@boldquot.po/mnt/stockage/packages/f20/mingw-gnutls/po/en@quot.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1396 | 1396 | 100.0 | /mnt/stockage/packages/f20/mingw-gnutls/po/pl.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/cs.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/eo.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/fi.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/nl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/sv.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/vi.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1135 | 1396 | 81.3 | /mnt/stockage/packages/f20/mingw-gnutls/po/de.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 957 | 1396 | 68.6 | /mnt/stockage/packages/f20/mingw-gnutls/po/fr.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 814 | 1396 | 58.3 | /mnt/stockage/packages/f20/mingw-gnutls/po/zh_CN.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 785 | 1396 | 56.2 | /mnt/stockage/packages/f20/mingw-gnutls/po/ms.po | 
+ | [error](/f20/language/error) | 2792 | 2792 | 100.0 | /mnt/stockage/packages/f20/mingw-gnutls/po/en@boldquot.po/mnt/stockage/packages/f20/mingw-gnutls/po/en@quot.po | 
+ | [pl](/f20/language/pl) | 1396 | 1396 | 100.0 | /mnt/stockage/packages/f20/mingw-gnutls/po/pl.po | 
+ | [cs](/f20/language/cs) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/cs.po | 
+ | [eo](/f20/language/eo) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/eo.po | 
+ | [fi](/f20/language/fi) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/fi.po | 
+ | [it](/f20/language/it) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/it.po | 
+ | [nl](/f20/language/nl) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/nl.po | 
+ | [sv](/f20/language/sv) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/sv.po | 
+ | [uk](/f20/language/uk) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/uk.po | 
+ | [vi](/f20/language/vi) | 1236 | 1396 | 88.5 | /mnt/stockage/packages/f20/mingw-gnutls/po/vi.po | 
+ | [de](/f20/language/de) | 1135 | 1396 | 81.3 | /mnt/stockage/packages/f20/mingw-gnutls/po/de.po | 
+ | [fr](/f20/language/fr) | 957 | 1396 | 68.6 | /mnt/stockage/packages/f20/mingw-gnutls/po/fr.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 814 | 1396 | 58.3 | /mnt/stockage/packages/f20/mingw-gnutls/po/zh_CN.po | 
+ | [ms](/f20/language/ms) | 785 | 1396 | 56.2 | /mnt/stockage/packages/f20/mingw-gnutls/po/ms.po | 
 {.sortable}
 
 

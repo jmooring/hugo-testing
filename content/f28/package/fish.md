@@ -18,15 +18,15 @@ The package fish (version 2.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f28/language/en.md" >}}) | 9614 | 11146 | 86.3 | /mnt/stockage/packages/f28/fish/po/en.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 10345 | 91111 | 11.4 | /mnt/stockage/packages/f28/fish/po/fr.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 8602 | 91053 | 9.4 | /mnt/stockage/packages/f28/fish/po/de.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 8266 | 91033 | 9.1 | /mnt/stockage/packages/f28/fish/po/pt_BR.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1035 | 90986 | 1.1 | /mnt/stockage/packages/f28/fish/po/pl.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 499 | 90974 | 0.5 | /mnt/stockage/packages/f28/fish/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 8 | 91111 | 0.0 | /mnt/stockage/packages/f28/fish/po/nb.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 8 | 91111 | 0.0 | /mnt/stockage/packages/f28/fish/po/nn.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 0 | 91111 | 0.0 | /mnt/stockage/packages/f28/fish/po/sv.po | 
+ | [en](/f28/language/en) | 9614 | 11146 | 86.3 | /mnt/stockage/packages/f28/fish/po/en.po | 
+ | [fr](/f28/language/fr) | 10345 | 91111 | 11.4 | /mnt/stockage/packages/f28/fish/po/fr.po | 
+ | [de](/f28/language/de) | 8602 | 91053 | 9.4 | /mnt/stockage/packages/f28/fish/po/de.po | 
+ | [pt_BR](/f28/language/pt_BR) | 8266 | 91033 | 9.1 | /mnt/stockage/packages/f28/fish/po/pt_BR.po | 
+ | [pl](/f28/language/pl) | 1035 | 90986 | 1.1 | /mnt/stockage/packages/f28/fish/po/pl.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 499 | 90974 | 0.5 | /mnt/stockage/packages/f28/fish/po/zh_CN.po | 
+ | [nb_NO](/f28/language/nb_NO) | 8 | 91111 | 0.0 | /mnt/stockage/packages/f28/fish/po/nb.po | 
+ | [nn](/f28/language/nn) | 8 | 91111 | 0.0 | /mnt/stockage/packages/f28/fish/po/nn.po | 
+ | [sv](/f28/language/sv) | 0 | 91111 | 0.0 | /mnt/stockage/packages/f28/fish/po/sv.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [modem-manager-gui]({{< ref "/f21/package/modem-manager-gui.md" >}}) | 1333 | 2416 | 55.2 | Uzbek (Latin) (http://www.transifex.com/projects/p/modem-manager-gui/language/uz@Latn/) | 
- | [calibre]({{< ref "/f21/package/calibre.md" >}}) | 0 | 144413 | 0.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/calibre/language/uz@Latn/) | 
+ | [modem-manager-gui](/f21/package/modem-manager-gui) | 1333 | 2416 | 55.2 | Uzbek (Latin) (http://www.transifex.com/projects/p/modem-manager-gui/language/uz@Latn/) | 
+ | [calibre](/f21/package/calibre) | 0 | 144413 | 0.0 | Uzbek (Latin) (http://www.transifex.com/projects/p/calibre/language/uz@Latn/) | 
 {.sortable}
 
 

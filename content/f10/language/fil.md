@@ -41,10 +41,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [phatch]({{< ref "/f10/package/phatch.md" >}}) | 765 | 1493 | 51.2 | Filipino <fil@li.org> | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 573 | 2409 | 23.8 | Filipino <fil@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 79 | 2661 | 3.0 | Filipino <fil@li.org> | 
- | [sugar-update-control]({{< ref "/f10/package/sugar-update-control.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [phatch](/f10/package/phatch) | 765 | 1493 | 51.2 | Filipino <fil@li.org> | 
+ | [stellarium](/f10/package/stellarium) | 573 | 2409 | 23.8 | Filipino <fil@li.org> | 
+ | [Miro](/f10/package/Miro) | 79 | 2661 | 3.0 | Filipino <fil@li.org> | 
+ | [sugar-update-control](/f10/package/sugar-update-control) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

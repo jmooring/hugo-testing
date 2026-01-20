@@ -38,114 +38,114 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f24/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Frisian <fy@li.org> | 
- | [cinnamon-session]({{< ref "/f24/package/cinnamon-session.md" >}}) | 377 | 377 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [gnome-backgrounds]({{< ref "/f24/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [gnome-icon-theme]({{< ref "/f24/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Frisian <fy@li.org> | 
- | [gnome-menus]({{< ref "/f24/package/gnome-menus.md" >}}) | 95 | 95 | 100.0 | Frisian <fy@li.org> | 
- | [gnome-session]({{< ref "/f24/package/gnome-session.md" >}}) | 448 | 448 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [gnome-themes-standard]({{< ref "/f24/package/gnome-themes-standard.md" >}}) | 24 | 24 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [kf5-kdoctools]({{< ref "/f24/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | <nl@li.org> | 
- | [kf5-kpty]({{< ref "/f24/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [koffice-kivio]({{< ref "/f24/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [ksig]({{< ref "/f24/package/ksig.md" >}}) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [libgnome-keyring]({{< ref "/f24/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [libwnck3]({{< ref "/f24/package/libwnck3.md" >}}) | 1082 | 1082 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [mate-icon-theme]({{< ref "/f24/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [mate-menus]({{< ref "/f24/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [mozo]({{< ref "/f24/package/mozo.md" >}}) | 42 | 42 | 100.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [squirrelmail]({{< ref "/f24/package/squirrelmail.md" >}}) | 16391 | 16391 | 100.0 | <kde-i18n-nl@kde.org> | 
- | [plasma-systemsettings]({{< ref "/f24/package/plasma-systemsettings.md" >}}) | 184 | 186 | 98.9 | Frysk <kde-i18n-fry@kde.org> | 
- | [khotkeys]({{< ref "/f24/package/khotkeys.md" >}}) | 425 | 436 | 97.5 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-ktextwidgets]({{< ref "/f24/package/kf5-ktextwidgets.md" >}}) | 449 | 462 | 97.2 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kiconthemes]({{< ref "/f24/package/kf5-kiconthemes.md" >}}) | 34 | 35 | 97.1 | <nl@li.org> | 
- | [kgamma]({{< ref "/f24/package/kgamma.md" >}}) | 126 | 130 | 96.9 | Nederlands <kde-i18n-nl@kde.org> | 
- | [kf5-kcmutils]({{< ref "/f24/package/kf5-kcmutils.md" >}}) | 541 | 563 | 96.1 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjsembed]({{< ref "/f24/package/kf5-kjsembed.md" >}}) | 236 | 248 | 95.2 | nl <kde-i18n-doc@lists.kde.org> | 
- | [openteacher]({{< ref "/f24/package/openteacher.md" >}}) | 1089 | 1165 | 93.5 | Frisian <fy@li.org> | 
- | [kmenuedit]({{< ref "/f24/package/kmenuedit.md" >}}) | 254 | 277 | 91.7 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kparts]({{< ref "/f24/package/kf5-kparts.md" >}}) | 95 | 104 | 91.3 | nl <kde-i18n-doc@lists.kde.org> | 
- | [WindowMaker]({{< ref "/f24/package/WindowMaker.md" >}}) | 6289 | 7015 | 89.7 | Western Frisian | 
- | [kf5-khtml]({{< ref "/f24/package/kf5-khtml.md" >}}) | 1530 | 1721 | 88.9 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kde-cli-tools]({{< ref "/f24/package/kde-cli-tools.md" >}}) | 1853 | 2088 | 88.7 | Frysk <kde-i18n-fry@kde.org> | 
- | [plasma-desktop]({{< ref "/f24/package/plasma-desktop.md" >}}) | 8197 | 9979 | 82.1 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kross]({{< ref "/f24/package/kf5-kross.md" >}}) | 82 | 100 | 82.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [ksysguard]({{< ref "/f24/package/ksysguard.md" >}}) | 878 | 1081 | 81.2 | Frysk <kde-i18n-fry@kde.org> | 
- | [mate-backgrounds]({{< ref "/f24/package/mate-backgrounds.md" >}}) | 23 | 30 | 76.7 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [kpilot]({{< ref "/f24/package/kpilot.md" >}}) | 5392 | 7156 | 75.3 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f24/package/kf5-kxmlgui.md" >}}) | 1194 | 1598 | 74.7 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kinit]({{< ref "/f24/package/kf5-kinit.md" >}}) | 96 | 134 | 71.6 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kinfocenter]({{< ref "/f24/package/kinfocenter.md" >}}) | 1759 | 2532 | 69.5 | Frysk <kde-i18n-fry@kde.org> | 
- | [mate-session-manager]({{< ref "/f24/package/mate-session-manager.md" >}}) | 428 | 681 | 62.8 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [plasma-oxygen]({{< ref "/f24/package/plasma-oxygen.md" >}}) | 363 | 613 | 59.2 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kio]({{< ref "/f24/package/kf5-kio.md" >}}) | 6577 | 11899 | 55.3 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-knewstuff]({{< ref "/f24/package/kf5-knewstuff.md" >}}) | 367 | 681 | 53.9 | nl <kde-i18n-doc@lists.kde.org> | 
- | [plasma-sdk]({{< ref "/f24/package/plasma-sdk.md" >}}) | 218 | 425 | 51.3 | Frysk <kde-i18n-fry@kde.org> | 
- | [gnome-desktop3]({{< ref "/f24/package/gnome-desktop3.md" >}}) | 209 | 438 | 47.7 | Frisian <gnome-fy-list@gnome.org> | 
- | [kf5-kconfigwidgets]({{< ref "/f24/package/kf5-kconfigwidgets.md" >}}) | 143 | 325 | 44.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kwin]({{< ref "/f24/package/kwin.md" >}}) | 2625 | 5990 | 43.8 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f24/package/kf5-kdeclarative.md" >}}) | 45 | 109 | 41.3 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f24/package/kf5-ktexteditor.md" >}}) | 3432 | 8323 | 41.2 | Frysk <kde-i18n-fry@kde.org> | 
- | [plasma-workspace]({{< ref "/f24/package/plasma-workspace.md" >}}) | 3568 | 8677 | 41.1 | Frysk <kde-i18n-fry@kde.org> | 
- | [lightdm-gtk]({{< ref "/f24/package/lightdm-gtk.md" >}}) | 34 | 84 | 40.5 | Frisian <fy@li.org> | 
- | [kf5-kservice]({{< ref "/f24/package/kf5-kservice.md" >}}) | 64 | 170 | 37.6 | nl <kde-i18n-doc@lists.kde.org> | 
- | [file-roller]({{< ref "/f24/package/file-roller.md" >}}) | 470 | 1383 | 34.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [kf5-ki18n]({{< ref "/f24/package/kf5-ki18n.md" >}}) | 42 | 124 | 33.9 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifyconfig]({{< ref "/f24/package/kf5-knotifyconfig.md" >}}) | 43 | 129 | 33.3 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdelibs4support]({{< ref "/f24/package/kf5-kdelibs4support.md" >}}) | 1480 | 4813 | 30.8 | nl <kde-i18n-doc@lists.kde.org> | 
- | [deluge]({{< ref "/f24/package/deluge.md" >}}) | 757 | 2644 | 28.6 | Frisian <fy@li.org> | 
- | [mate-panel]({{< ref "/f24/package/mate-panel.md" >}}) | 1115 | 4387 | 25.4 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 678 | 2740 | 24.7 | Frisian <fy@li.org> | 
- | [engrampa]({{< ref "/f24/package/engrampa.md" >}}) | 447 | 1935 | 23.1 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 136 | 612 | 22.2 | Frisian <fy@li.org> | 
- | [blueberry]({{< ref "/f24/package/blueberry.md" >}}) | 24 | 141 | 17.0 | Frisian <fy@li.org> | 
- | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 351 | 2397 | 14.6 | Frisian <fy@li.org> | 
- | [gdm]({{< ref "/f24/package/gdm.md" >}}) | 93 | 650 | 14.3 | Frisian <gnome-fy-list@gnome.org> | 
- | [eog]({{< ref "/f24/package/eog.md" >}}) | 210 | 1605 | 13.1 | Frisian <gnome-fy-list@gnome.org> | 
- | [nemo-extensions]({{< ref "/f24/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Frisian <fy@li.org> | 
- | [cinnamon-desktop]({{< ref "/f24/package/cinnamon-desktop.md" >}}) | 26 | 231 | 11.3 | Frisian <gnome-fy-list@gnome.org> | 
- | [nautilus]({{< ref "/f24/package/nautilus.md" >}}) | 946 | 8884 | 10.6 | Frisian <gnome-fy-list@gnome.org> | 
- | [caja]({{< ref "/f24/package/caja.md" >}}) | 885 | 9198 | 9.6 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [xviewer]({{< ref "/f24/package/xviewer.md" >}}) | 148 | 1677 | 8.8 | Frisian <gnome-fy-list@gnome.org> | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 1061 | 12128 | 8.7 | Frisian <fy@li.org> | 
- | [phatch]({{< ref "/f24/package/phatch.md" >}}) | 172 | 2553 | 6.7 | Frisian <fy@li.org> | 
- | [arduino]({{< ref "/f24/package/arduino.md" >}}) | 136 | 2566 | 5.3 | Western Frisian (http://www.transifex.com/projects/p/arduino-ide-15/language/fy/) | 
- | [exaile]({{< ref "/f24/package/exaile.md" >}}) | 192 | 4006 | 4.8 | Frisian <https://hosted.weblate.org/projects/exaile/master/fy/> | 
- | [powerdevil]({{< ref "/f24/package/powerdevil.md" >}}) | 18 | 397 | 4.5 | Frysk <kde-i18n-fry@kde.org> | 
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 419 | 9802 | 4.3 |  | 
- | [python-django]({{< ref "/f24/package/python-django.md" >}}) | 132 | 3343 | 3.9 | Western Frisian (http://www.transifex.com/django/django/language/fy/) | 
- | [warzone2100]({{< ref "/f24/package/warzone2100.md" >}}) | 504 | 13244 | 3.8 | Frisian <fy@li.org> | 
- | [gnome-bluetooth]({{< ref "/f24/package/gnome-bluetooth.md" >}}) | 15 | 514 | 2.9 | Frisian <fy@li.org> | 
- | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 14 | 674 | 2.1 | http://littlesvr.ca/ostd/ | 
- | [picard]({{< ref "/f24/package/picard.md" >}}) | 32 | 1625 | 2.0 | Western Frisian (http://www.transifex.com/projects/p/musicbrainz/language/fy/) | 
- | [libksysguard]({{< ref "/f24/package/libksysguard.md" >}}) | 44 | 2810 | 1.6 | Frysk <kde-i18n-fry@kde.org> | 
- | [asunder]({{< ref "/f24/package/asunder.md" >}}) | 7 | 480 | 1.5 | http://littlesvr.ca/ostd/ | 
- | [deja-dup]({{< ref "/f24/package/deja-dup.md" >}}) | 28 | 2011 | 1.4 | Frisian <fy@li.org> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 311 | 23532 | 1.3 | Frisian <fy@li.org> | 
- | [menulibre]({{< ref "/f24/package/menulibre.md" >}}) | 9 | 701 | 1.3 | Frisian <fy@li.org> | 
- | [terminator]({{< ref "/f24/package/terminator.md" >}}) | 5 | 1410 | 0.4 | Frisian <fy@li.org> | 
- | [jmol]({{< ref "/f24/package/jmol.md" >}}) | 1 | 1718 | 0.1 | Frisian <fy@li.org> | 
- | [kf5-kauth]({{< ref "/f24/package/kf5-kauth.md" >}}) | 0 | 73 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kbookmarks]({{< ref "/f24/package/kf5-kbookmarks.md" >}}) | 0 | 218 | 0.0 | <nl@li.org> | 
- | [kf5-kcodecs]({{< ref "/f24/package/kf5-kcodecs.md" >}}) | 0 | 348 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kcompletion]({{< ref "/f24/package/kf5-kcompletion.md" >}}) | 0 | 20 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kconfig]({{< ref "/f24/package/kf5-kconfig.md" >}}) | 0 | 262 | 0.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kcoreaddons]({{< ref "/f24/package/kf5-kcoreaddons.md" >}}) | 0 | 291 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f24/package/kf5-kdesignerplugin.md" >}}) | 0 | 54 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kdnssd]({{< ref "/f24/package/kf5-kdnssd.md" >}}) | 0 | 3 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kglobalaccel]({{< ref "/f24/package/kf5-kglobalaccel.md" >}}) | 0 | 71 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kitemviews]({{< ref "/f24/package/kf5-kitemviews.md" >}}) | 0 | 7 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kjobwidgets]({{< ref "/f24/package/kf5-kjobwidgets.md" >}}) | 0 | 141 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-knotifications]({{< ref "/f24/package/kf5-knotifications.md" >}}) | 0 | 18 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwallet]({{< ref "/f24/package/kf5-kwallet.md" >}}) | 0 | 1498 | 0.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [kf5-kwidgetsaddons]({{< ref "/f24/package/kf5-kwidgetsaddons.md" >}}) | 0 | 1315 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f24/package/kf5-kwindowsystem.md" >}}) | 0 | 2 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-sonnet]({{< ref "/f24/package/kf5-sonnet.md" >}}) | 0 | 663 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
- | [kf5-syntax-highlighting]({{< ref "/f24/package/kf5-syntax-highlighting.md" >}}) | 0 | 435 | 0.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [lightdm]({{< ref "/f24/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Frisian <fy@li.org> | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f24/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 222 | 0.0 | Frisian <https://hosted.weblate.org/projects/phpmyadmin/master/fy/> | 
+ | [alacarte](/f24/package/alacarte) | 42 | 42 | 100.0 | Frisian <fy@li.org> | 
+ | [cinnamon-session](/f24/package/cinnamon-session) | 377 | 377 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gnome-backgrounds](/f24/package/gnome-backgrounds) | 23 | 23 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gnome-icon-theme](/f24/package/gnome-icon-theme) | 4 | 4 | 100.0 | Frisian <fy@li.org> | 
+ | [gnome-menus](/f24/package/gnome-menus) | 95 | 95 | 100.0 | Frisian <fy@li.org> | 
+ | [gnome-session](/f24/package/gnome-session) | 448 | 448 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gnome-themes-standard](/f24/package/gnome-themes-standard) | 24 | 24 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [kf5-kdoctools](/f24/package/kf5-kdoctools) | 8 | 8 | 100.0 | <nl@li.org> | 
+ | [kf5-kpty](/f24/package/kf5-kpty) | 15 | 15 | 100.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [koffice-kivio](/f24/package/koffice-kivio) | 8417 | 8417 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [ksig](/f24/package/ksig) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [libgnome-keyring](/f24/package/libgnome-keyring) | 44 | 44 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [libwnck3](/f24/package/libwnck3) | 1082 | 1082 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [mate-icon-theme](/f24/package/mate-icon-theme) | 4 | 4 | 100.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [mate-menus](/f24/package/mate-menus) | 97 | 97 | 100.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [mozo](/f24/package/mozo) | 42 | 42 | 100.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [squirrelmail](/f24/package/squirrelmail) | 16391 | 16391 | 100.0 | <kde-i18n-nl@kde.org> | 
+ | [plasma-systemsettings](/f24/package/plasma-systemsettings) | 184 | 186 | 98.9 | Frysk <kde-i18n-fry@kde.org> | 
+ | [khotkeys](/f24/package/khotkeys) | 425 | 436 | 97.5 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-ktextwidgets](/f24/package/kf5-ktextwidgets) | 449 | 462 | 97.2 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kiconthemes](/f24/package/kf5-kiconthemes) | 34 | 35 | 97.1 | <nl@li.org> | 
+ | [kgamma](/f24/package/kgamma) | 126 | 130 | 96.9 | Nederlands <kde-i18n-nl@kde.org> | 
+ | [kf5-kcmutils](/f24/package/kf5-kcmutils) | 541 | 563 | 96.1 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjsembed](/f24/package/kf5-kjsembed) | 236 | 248 | 95.2 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [openteacher](/f24/package/openteacher) | 1089 | 1165 | 93.5 | Frisian <fy@li.org> | 
+ | [kmenuedit](/f24/package/kmenuedit) | 254 | 277 | 91.7 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kparts](/f24/package/kf5-kparts) | 95 | 104 | 91.3 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [WindowMaker](/f24/package/WindowMaker) | 6289 | 7015 | 89.7 | Western Frisian | 
+ | [kf5-khtml](/f24/package/kf5-khtml) | 1530 | 1721 | 88.9 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kde-cli-tools](/f24/package/kde-cli-tools) | 1853 | 2088 | 88.7 | Frysk <kde-i18n-fry@kde.org> | 
+ | [plasma-desktop](/f24/package/plasma-desktop) | 8197 | 9979 | 82.1 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kross](/f24/package/kf5-kross) | 82 | 100 | 82.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [ksysguard](/f24/package/ksysguard) | 878 | 1081 | 81.2 | Frysk <kde-i18n-fry@kde.org> | 
+ | [mate-backgrounds](/f24/package/mate-backgrounds) | 23 | 30 | 76.7 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [kpilot](/f24/package/kpilot) | 5392 | 7156 | 75.3 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kxmlgui](/f24/package/kf5-kxmlgui) | 1194 | 1598 | 74.7 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kinit](/f24/package/kf5-kinit) | 96 | 134 | 71.6 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kinfocenter](/f24/package/kinfocenter) | 1759 | 2532 | 69.5 | Frysk <kde-i18n-fry@kde.org> | 
+ | [mate-session-manager](/f24/package/mate-session-manager) | 428 | 681 | 62.8 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [plasma-oxygen](/f24/package/plasma-oxygen) | 363 | 613 | 59.2 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kio](/f24/package/kf5-kio) | 6577 | 11899 | 55.3 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-knewstuff](/f24/package/kf5-knewstuff) | 367 | 681 | 53.9 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [plasma-sdk](/f24/package/plasma-sdk) | 218 | 425 | 51.3 | Frysk <kde-i18n-fry@kde.org> | 
+ | [gnome-desktop3](/f24/package/gnome-desktop3) | 209 | 438 | 47.7 | Frisian <gnome-fy-list@gnome.org> | 
+ | [kf5-kconfigwidgets](/f24/package/kf5-kconfigwidgets) | 143 | 325 | 44.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kwin](/f24/package/kwin) | 2625 | 5990 | 43.8 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kdeclarative](/f24/package/kf5-kdeclarative) | 45 | 109 | 41.3 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-ktexteditor](/f24/package/kf5-ktexteditor) | 3432 | 8323 | 41.2 | Frysk <kde-i18n-fry@kde.org> | 
+ | [plasma-workspace](/f24/package/plasma-workspace) | 3568 | 8677 | 41.1 | Frysk <kde-i18n-fry@kde.org> | 
+ | [lightdm-gtk](/f24/package/lightdm-gtk) | 34 | 84 | 40.5 | Frisian <fy@li.org> | 
+ | [kf5-kservice](/f24/package/kf5-kservice) | 64 | 170 | 37.6 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [file-roller](/f24/package/file-roller) | 470 | 1383 | 34.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [kf5-ki18n](/f24/package/kf5-ki18n) | 42 | 124 | 33.9 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifyconfig](/f24/package/kf5-knotifyconfig) | 43 | 129 | 33.3 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdelibs4support](/f24/package/kf5-kdelibs4support) | 1480 | 4813 | 30.8 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [deluge](/f24/package/deluge) | 757 | 2644 | 28.6 | Frisian <fy@li.org> | 
+ | [mate-panel](/f24/package/mate-panel) | 1115 | 4387 | 25.4 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [mintmenu](/f24/package/mintmenu) | 678 | 2740 | 24.7 | Frisian <fy@li.org> | 
+ | [engrampa](/f24/package/engrampa) | 447 | 1935 | 23.1 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [gnome-do](/f24/package/gnome-do) | 136 | 612 | 22.2 | Frisian <fy@li.org> | 
+ | [blueberry](/f24/package/blueberry) | 24 | 141 | 17.0 | Frisian <fy@li.org> | 
+ | [librfm](/f24/package/librfm) | 351 | 2397 | 14.6 | Frisian <fy@li.org> | 
+ | [gdm](/f24/package/gdm) | 93 | 650 | 14.3 | Frisian <gnome-fy-list@gnome.org> | 
+ | [eog](/f24/package/eog) | 210 | 1605 | 13.1 | Frisian <gnome-fy-list@gnome.org> | 
+ | [nemo-extensions](/f24/package/nemo-extensions) | 1 | 8 | 12.5 | Frisian <fy@li.org> | 
+ | [cinnamon-desktop](/f24/package/cinnamon-desktop) | 26 | 231 | 11.3 | Frisian <gnome-fy-list@gnome.org> | 
+ | [nautilus](/f24/package/nautilus) | 946 | 8884 | 10.6 | Frisian <gnome-fy-list@gnome.org> | 
+ | [caja](/f24/package/caja) | 885 | 9198 | 9.6 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [xviewer](/f24/package/xviewer) | 148 | 1677 | 8.8 | Frisian <gnome-fy-list@gnome.org> | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 1061 | 12128 | 8.7 | Frisian <fy@li.org> | 
+ | [phatch](/f24/package/phatch) | 172 | 2553 | 6.7 | Frisian <fy@li.org> | 
+ | [arduino](/f24/package/arduino) | 136 | 2566 | 5.3 | Western Frisian (http://www.transifex.com/projects/p/arduino-ide-15/language/fy/) | 
+ | [exaile](/f24/package/exaile) | 192 | 4006 | 4.8 | Frisian <https://hosted.weblate.org/projects/exaile/master/fy/> | 
+ | [powerdevil](/f24/package/powerdevil) | 18 | 397 | 4.5 | Frysk <kde-i18n-fry@kde.org> | 
+ | [rodent](/f24/package/rodent) | 419 | 9802 | 4.3 |  | 
+ | [python-django](/f24/package/python-django) | 132 | 3343 | 3.9 | Western Frisian (http://www.transifex.com/django/django/language/fy/) | 
+ | [warzone2100](/f24/package/warzone2100) | 504 | 13244 | 3.8 | Frisian <fy@li.org> | 
+ | [gnome-bluetooth](/f24/package/gnome-bluetooth) | 15 | 514 | 2.9 | Frisian <fy@li.org> | 
+ | [isomaster](/f24/package/isomaster) | 14 | 674 | 2.1 | http://littlesvr.ca/ostd/ | 
+ | [picard](/f24/package/picard) | 32 | 1625 | 2.0 | Western Frisian (http://www.transifex.com/projects/p/musicbrainz/language/fy/) | 
+ | [libksysguard](/f24/package/libksysguard) | 44 | 2810 | 1.6 | Frysk <kde-i18n-fry@kde.org> | 
+ | [asunder](/f24/package/asunder) | 7 | 480 | 1.5 | http://littlesvr.ca/ostd/ | 
+ | [deja-dup](/f24/package/deja-dup) | 28 | 2011 | 1.4 | Frisian <fy@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 311 | 23532 | 1.3 | Frisian <fy@li.org> | 
+ | [menulibre](/f24/package/menulibre) | 9 | 701 | 1.3 | Frisian <fy@li.org> | 
+ | [terminator](/f24/package/terminator) | 5 | 1410 | 0.4 | Frisian <fy@li.org> | 
+ | [jmol](/f24/package/jmol) | 1 | 1718 | 0.1 | Frisian <fy@li.org> | 
+ | [kf5-kauth](/f24/package/kf5-kauth) | 0 | 73 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kbookmarks](/f24/package/kf5-kbookmarks) | 0 | 218 | 0.0 | <nl@li.org> | 
+ | [kf5-kcodecs](/f24/package/kf5-kcodecs) | 0 | 348 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kcompletion](/f24/package/kf5-kcompletion) | 0 | 20 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kconfig](/f24/package/kf5-kconfig) | 0 | 262 | 0.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kcoreaddons](/f24/package/kf5-kcoreaddons) | 0 | 291 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdesignerplugin](/f24/package/kf5-kdesignerplugin) | 0 | 54 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kdnssd](/f24/package/kf5-kdnssd) | 0 | 3 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kglobalaccel](/f24/package/kf5-kglobalaccel) | 0 | 71 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kitemviews](/f24/package/kf5-kitemviews) | 0 | 7 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kjobwidgets](/f24/package/kf5-kjobwidgets) | 0 | 141 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-knotifications](/f24/package/kf5-knotifications) | 0 | 18 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwallet](/f24/package/kf5-kwallet) | 0 | 1498 | 0.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kf5-kwidgetsaddons](/f24/package/kf5-kwidgetsaddons) | 0 | 1315 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-kwindowsystem](/f24/package/kf5-kwindowsystem) | 0 | 2 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-sonnet](/f24/package/kf5-sonnet) | 0 | 663 | 0.0 | nl <kde-i18n-doc@lists.kde.org> | 
+ | [kf5-syntax-highlighting](/f24/package/kf5-syntax-highlighting) | 0 | 435 | 0.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [lightdm](/f24/package/lightdm) | 0 | 79 | 0.0 | Frisian <fy@li.org> | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Western Frisian (http://www.transifex.com/mate/MATE/language/fy/) | 
+ | [php-phpmyadmin-sql-parser](/f24/package/php-phpmyadmin-sql-parser) | 0 | 222 | 0.0 | Frisian <https://hosted.weblate.org/projects/phpmyadmin/master/fy/> | 
 {.sortable}
 
 
@@ -157,7 +157,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | /mnt/stockage/packages/f24/rodent/apps/fgr/po/fy.po | error-unicode |  | 
+ | [rodent](/f24/package/rodent) | /mnt/stockage/packages/f24/rodent/apps/fgr/po/fy.po | error-unicode |  | 
 {.sortable}
 
 

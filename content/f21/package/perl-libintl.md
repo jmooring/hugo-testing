@@ -18,17 +18,17 @@ The package perl-libintl (version 1.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ar.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 57 | 57 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/de.po/mnt/stockage/packages/f21/perl-libintl/tests/po/additional.de.po/mnt/stockage/packages/f21/perl-libintl/tests/po/existing.de.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/fr.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ga.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/it.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/nl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ru.po | 
- | [ar_SA]({{< ref "/f21/language/ar_SA.md" >}}) | 12 | 19 | 63.2 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ar_SA.po | 
- | [de_AT]({{< ref "/f21/language/de_AT.md" >}}) | 5 | 22 | 22.7 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f21/perl-libintl/tests/po/additional.de_AT.po/mnt/stockage/packages/f21/perl-libintl/tests/po/existing.de_AT.po | 
+ | [ar](/f21/language/ar) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ar.po | 
+ | [de](/f21/language/de) | 57 | 57 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/de.po/mnt/stockage/packages/f21/perl-libintl/tests/po/additional.de.po/mnt/stockage/packages/f21/perl-libintl/tests/po/existing.de.po | 
+ | [fr](/f21/language/fr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/fr.po | 
+ | [ga](/f21/language/ga) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ga.po | 
+ | [it](/f21/language/it) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/it.po | 
+ | [nl](/f21/language/nl) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/nl.po | 
+ | [pt](/f21/language/pt) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 19 | 19 | 100.0 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ru.po | 
+ | [ar_SA](/f21/language/ar_SA) | 12 | 19 | 63.2 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/ar_SA.po | 
+ | [de_AT](/f21/language/de_AT) | 5 | 22 | 22.7 | /mnt/stockage/packages/f21/perl-libintl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f21/perl-libintl/tests/po/additional.de_AT.po/mnt/stockage/packages/f21/perl-libintl/tests/po/existing.de_AT.po | 
 {.sortable}
 
 

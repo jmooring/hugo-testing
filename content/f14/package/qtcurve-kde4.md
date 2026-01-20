@@ -18,11 +18,11 @@ The package qtcurve-kde4 (version 1.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 5818 | 5818 | 100.0 | /mnt/stockage/packages/f14/qtcurve-kde4/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 5738 | 5818 | 98.6 | /mnt/stockage/packages/f14/qtcurve-kde4/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 5738 | 5818 | 98.6 | /mnt/stockage/packages/f14/qtcurve-kde4/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 5738 | 5818 | 98.6 | /mnt/stockage/packages/f14/qtcurve-kde4/po/zh_HK.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 417 | 5818 | 7.2 | /mnt/stockage/packages/f14/qtcurve-kde4/po/tr.po | 
+ | [uk](/f14/language/uk) | 5818 | 5818 | 100.0 | /mnt/stockage/packages/f14/qtcurve-kde4/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 5738 | 5818 | 98.6 | /mnt/stockage/packages/f14/qtcurve-kde4/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 5738 | 5818 | 98.6 | /mnt/stockage/packages/f14/qtcurve-kde4/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 5738 | 5818 | 98.6 | /mnt/stockage/packages/f14/qtcurve-kde4/po/zh_HK.po | 
+ | [tr](/f14/language/tr) | 417 | 5818 | 7.2 | /mnt/stockage/packages/f14/qtcurve-kde4/po/tr.po | 
 {.sortable}
 
 

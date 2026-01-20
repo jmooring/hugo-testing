@@ -18,29 +18,29 @@ The package lynx (version 2.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 8310 | 8310 | 100.0 | /mnt/stockage/packages/f43/lynx/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 8354 | 8354 | 100.0 | /mnt/stockage/packages/f43/lynx/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 8348 | 8348 | 100.0 | /mnt/stockage/packages/f43/lynx/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/de.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/eo.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/et.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/fr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/id.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/nl.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/ro.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/tr.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 8354 | 8354 | 100.0 | /mnt/stockage/packages/f43/lynx/po/vi.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 8049 | 8053 | 100.0 | /mnt/stockage/packages/f43/lynx/po/it.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 7687 | 8049 | 95.5 | /mnt/stockage/packages/f43/lynx/po/hu.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 7433 | 8049 | 92.3 | /mnt/stockage/packages/f43/lynx/po/ja.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 7370 | 8178 | 90.1 | /mnt/stockage/packages/f43/lynx/po/ru.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 6665 | 8178 | 81.5 | /mnt/stockage/packages/f43/lynx/po/pt_BR.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 5450 | 8310 | 65.6 | /mnt/stockage/packages/f43/lynx/po/fi.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 4723 | 8049 | 58.7 | /mnt/stockage/packages/f43/lynx/po/uk.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 3148 | 8049 | 39.1 | /mnt/stockage/packages/f43/lynx/po/zh_TW.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 2512 | 8178 | 30.7 | /mnt/stockage/packages/f43/lynx/po/sl.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1906 | 7646 | 24.9 | /mnt/stockage/packages/f43/lynx/po/zh_CN.po | 
+ | [ca](/f43/language/ca) | 8310 | 8310 | 100.0 | /mnt/stockage/packages/f43/lynx/po/ca.po | 
+ | [cs](/f43/language/cs) | 8354 | 8354 | 100.0 | /mnt/stockage/packages/f43/lynx/po/cs.po | 
+ | [da](/f43/language/da) | 8348 | 8348 | 100.0 | /mnt/stockage/packages/f43/lynx/po/da.po | 
+ | [de](/f43/language/de) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/de.po | 
+ | [eo](/f43/language/eo) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/eo.po | 
+ | [et](/f43/language/et) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/et.po | 
+ | [fr](/f43/language/fr) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/fr.po | 
+ | [id](/f43/language/id) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/id.po | 
+ | [nl](/f43/language/nl) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/nl.po | 
+ | [ro](/f43/language/ro) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/ro.po | 
+ | [sv](/f43/language/sv) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/sv.po | 
+ | [tr](/f43/language/tr) | 8411 | 8411 | 100.0 | /mnt/stockage/packages/f43/lynx/po/tr.po | 
+ | [vi](/f43/language/vi) | 8354 | 8354 | 100.0 | /mnt/stockage/packages/f43/lynx/po/vi.po | 
+ | [it](/f43/language/it) | 8049 | 8053 | 100.0 | /mnt/stockage/packages/f43/lynx/po/it.po | 
+ | [hu](/f43/language/hu) | 7687 | 8049 | 95.5 | /mnt/stockage/packages/f43/lynx/po/hu.po | 
+ | [ja](/f43/language/ja) | 7433 | 8049 | 92.3 | /mnt/stockage/packages/f43/lynx/po/ja.po | 
+ | [ru](/f43/language/ru) | 7370 | 8178 | 90.1 | /mnt/stockage/packages/f43/lynx/po/ru.po | 
+ | [pt_BR](/f43/language/pt_BR) | 6665 | 8178 | 81.5 | /mnt/stockage/packages/f43/lynx/po/pt_BR.po | 
+ | [fi](/f43/language/fi) | 5450 | 8310 | 65.6 | /mnt/stockage/packages/f43/lynx/po/fi.po | 
+ | [uk](/f43/language/uk) | 4723 | 8049 | 58.7 | /mnt/stockage/packages/f43/lynx/po/uk.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 3148 | 8049 | 39.1 | /mnt/stockage/packages/f43/lynx/po/zh_TW.po | 
+ | [sl](/f43/language/sl) | 2512 | 8178 | 30.7 | /mnt/stockage/packages/f43/lynx/po/sl.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1906 | 7646 | 24.9 | /mnt/stockage/packages/f43/lynx/po/zh_CN.po | 
 {.sortable}
 
 

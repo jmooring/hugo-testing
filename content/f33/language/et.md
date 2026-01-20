@@ -39,938 +39,938 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [NetworkManager-pptp]({{< ref "/f33/package/NetworkManager-pptp.md" >}}) | 144 | 144 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [NetworkManager-sstp]({{< ref "/f33/package/NetworkManager-sstp.md" >}}) | 144 | 144 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [NetworkManager-vpnc]({{< ref "/f33/package/NetworkManager-vpnc.md" >}}) | 156 | 156 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [akonadi-calendar-tools]({{< ref "/f33/package/akonadi-calendar-tools.md" >}}) | 785 | 785 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [akonadi-import-wizard]({{< ref "/f33/package/akonadi-import-wizard.md" >}}) | 394 | 394 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [akregator]({{< ref "/f33/package/akregator.md" >}}) | 1807 | 1807 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [alacarte]({{< ref "/f33/package/alacarte.md" >}}) | 31 | 31 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [analitza]({{< ref "/f33/package/analitza.md" >}}) | 992 | 992 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [arandr]({{< ref "/f33/package/arandr.md" >}}) | 173 | 173 | 100.0 | Estonian <https://hosted.weblate.org/projects/arandr/translations/et/> | 
- | [artikulate]({{< ref "/f33/package/artikulate.md" >}}) | 338 | 338 | 100.0 | Estonian <> | 
- | [at-spi2-core]({{< ref "/f33/package/at-spi2-core.md" >}}) | 10 | 10 | 100.0 | Estonian <> | 
- | [atk]({{< ref "/f33/package/atk.md" >}}) | 398 | 398 | 100.0 | Estonian <> | 
- | [atomix]({{< ref "/f33/package/atomix.md" >}}) | 146 | 146 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [baloo-widgets]({{< ref "/f33/package/baloo-widgets.md" >}}) | 52 | 52 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [baobab]({{< ref "/f33/package/baobab.md" >}}) | 210 | 210 | 100.0 | Estonian <> | 
- | [bijiben]({{< ref "/f33/package/bijiben.md" >}}) | 203 | 203 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [blinken]({{< ref "/f33/package/blinken.md" >}}) | 133 | 133 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [blueberry]({{< ref "/f33/package/blueberry.md" >}}) | 166 | 166 | 100.0 | Estonian <et@li.org> | 
- | [bluedevil]({{< ref "/f33/package/bluedevil.md" >}}) | 494 | 494 | 100.0 | Estonian <> | 
- | [bomber]({{< ref "/f33/package/bomber.md" >}}) | 110 | 110 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [bookworm]({{< ref "/f33/package/bookworm.md" >}}) | 795 | 795 | 100.0 | Estonian <https://hosted.weblate.org/projects/bookworm/bookworm/et/> | 
- | [bovo]({{< ref "/f33/package/bovo.md" >}}) | 81 | 81 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [brasero]({{< ref "/f33/package/brasero.md" >}}) | 5546 | 5546 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [caribou]({{< ref "/f33/package/caribou.md" >}}) | 169 | 169 | 100.0 | Estonian <> | 
- | [cervisia]({{< ref "/f33/package/cervisia.md" >}}) | 1619 | 1619 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [cheese]({{< ref "/f33/package/cheese.md" >}}) | 614 | 614 | 100.0 | Estonian <> | 
- | [cinnamon-desktop]({{< ref "/f33/package/cinnamon-desktop.md" >}}) | 234 | 234 | 100.0 | Estonian <> | 
- | [console-setup]({{< ref "/f33/package/console-setup.md" >}}) | 1001 | 1001 | 100.0 | Estonian <> | 
- | [dasher]({{< ref "/f33/package/dasher.md" >}}) | 634 | 634 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [deepin-terminal]({{< ref "/f33/package/deepin-terminal.md" >}}) | 80 | 80 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [devhelp]({{< ref "/f33/package/devhelp.md" >}}) | 415 | 415 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [dnfdragora]({{< ref "/f33/package/dnfdragora.md" >}}) | 1771 | 1771 | 100.0 | Estonian (https://www.transifex.com/MageiaLinux/teams/9361/et/) | 
- | [dolphin-plugins]({{< ref "/f33/package/dolphin-plugins.md" >}}) | 1405 | 1405 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ekiga]({{< ref "/f33/package/ekiga.md" >}}) | 4264 | 4264 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [eog]({{< ref "/f33/package/eog.md" >}}) | 1502 | 1502 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [epiphany]({{< ref "/f33/package/epiphany.md" >}}) | 1758 | 1758 | 100.0 | Estonian <> | 
- | [evince]({{< ref "/f33/package/evince.md" >}}) | 1589 | 1589 | 100.0 | Estonian <> | 
- | [evolution]({{< ref "/f33/package/evolution.md" >}}) | 23205 | 23205 | 100.0 | Estonian <> | 
- | [evolution-data-server]({{< ref "/f33/package/evolution-data-server.md" >}}) | 4681 | 4681 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [evolution-mapi]({{< ref "/f33/package/evolution-mapi.md" >}}) | 516 | 516 | 100.0 | Estonian <et@li.org> | 
- | [file-roller]({{< ref "/f33/package/file-roller.md" >}}) | 1201 | 1201 | 100.0 | Estonian <> | 
- | [filelight]({{< ref "/f33/package/filelight.md" >}}) | 419 | 419 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [filezilla]({{< ref "/f33/package/filezilla.md" >}}) | 7329 | 7329 | 100.0 |  | 
- | [five-or-more]({{< ref "/f33/package/five-or-more.md" >}}) | 462 | 462 | 100.0 | Estonian <> | 
- | [four-in-a-row]({{< ref "/f33/package/four-in-a-row.md" >}}) | 427 | 427 | 100.0 | Estonian <> | 
- | [gammu]({{< ref "/f33/package/gammu.md" >}}) | 4017 | 4017 | 100.0 | Estonian <https://hosted.weblate.org/projects/gammu/gammu-docs/et/> | 
- | [ganglia]({{< ref "/f33/package/ganglia.md" >}}) | 59 | 59 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [gconf-editor]({{< ref "/f33/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gdk-pixbuf2]({{< ref "/f33/package/gdk-pixbuf2.md" >}}) | 1360 | 1360 | 100.0 | Estonian <> | 
- | [gdm]({{< ref "/f33/package/gdm.md" >}}) | 629 | 629 | 100.0 | Estonian <> | 
- | [gedit]({{< ref "/f33/package/gedit.md" >}}) | 4276 | 4276 | 100.0 | Estonian <> | 
- | [ggz-base-libs]({{< ref "/f33/package/ggz-base-libs.md" >}}) | 64 | 64 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [ghex]({{< ref "/f33/package/ghex.md" >}}) | 977 | 977 | 100.0 | Estonian <> | 
- | [gimp-wavelet-denoise-plugin]({{< ref "/f33/package/gimp-wavelet-denoise-plugin.md" >}}) | 305 | 305 | 100.0 | Estonian | 
- | [glib-networking]({{< ref "/f33/package/glib-networking.md" >}}) | 161 | 161 | 100.0 | Estonian <> | 
- | [gnome-applets]({{< ref "/f33/package/gnome-applets.md" >}}) | 3068 | 3068 | 100.0 | Estonian <> | 
- | [gnome-bluetooth]({{< ref "/f33/package/gnome-bluetooth.md" >}}) | 310 | 310 | 100.0 | Estonian <> | 
- | [gnome-books]({{< ref "/f33/package/gnome-books.md" >}}) | 435 | 435 | 100.0 | Estonian <> | 
- | [gnome-boxes]({{< ref "/f33/package/gnome-boxes.md" >}}) | 856 | 856 | 100.0 | Estonian <> | 
- | [gnome-calculator]({{< ref "/f33/package/gnome-calculator.md" >}}) | 1078 | 1078 | 100.0 | Estonian <> | 
- | [gnome-calendar]({{< ref "/f33/package/gnome-calendar.md" >}}) | 668 | 668 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-chess]({{< ref "/f33/package/gnome-chess.md" >}}) | 1284 | 1284 | 100.0 | Estonian <> | 
- | [gnome-clocks]({{< ref "/f33/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-color-manager]({{< ref "/f33/package/gnome-color-manager.md" >}}) | 1793 | 1793 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [gnome-contacts]({{< ref "/f33/package/gnome-contacts.md" >}}) | 331 | 331 | 100.0 | Estonian <> | 
- | [gnome-desktop]({{< ref "/f33/package/gnome-desktop.md" >}}) | 438 | 438 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-desktop3]({{< ref "/f33/package/gnome-desktop3.md" >}}) | 146 | 146 | 100.0 | Estonian <> | 
- | [gnome-dictionary]({{< ref "/f33/package/gnome-dictionary.md" >}}) | 841 | 841 | 100.0 | Estonian <> | 
- | [gnome-disk-utility]({{< ref "/f33/package/gnome-disk-utility.md" >}}) | 3026 | 3026 | 100.0 | Estonian <> | 
- | [gnome-doc-utils]({{< ref "/f33/package/gnome-doc-utils.md" >}}) | 251 | 251 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-documents]({{< ref "/f33/package/gnome-documents.md" >}}) | 435 | 435 | 100.0 | Estonian <> | 
- | [gnome-font-viewer]({{< ref "/f33/package/gnome-font-viewer.md" >}}) | 47 | 47 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-icon-theme]({{< ref "/f33/package/gnome-icon-theme.md" >}}) | 51 | 51 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-initial-setup]({{< ref "/f33/package/gnome-initial-setup.md" >}}) | 372 | 372 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-keyring]({{< ref "/f33/package/gnome-keyring.md" >}}) | 553 | 553 | 100.0 | Estonian <> | 
- | [gnome-klotski]({{< ref "/f33/package/gnome-klotski.md" >}}) | 120 | 120 | 100.0 | Estonian <> | 
- | [gnome-mahjongg]({{< ref "/f33/package/gnome-mahjongg.md" >}}) | 170 | 170 | 100.0 | Estonian <> | 
- | [gnome-maps]({{< ref "/f33/package/gnome-maps.md" >}}) | 180 | 180 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-menus]({{< ref "/f33/package/gnome-menus.md" >}}) | 70 | 70 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-mime-data]({{< ref "/f33/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-mines]({{< ref "/f33/package/gnome-mines.md" >}}) | 261 | 261 | 100.0 | Estonian <> | 
- | [gnome-music]({{< ref "/f33/package/gnome-music.md" >}}) | 348 | 348 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-nettool]({{< ref "/f33/package/gnome-nettool.md" >}}) | 664 | 664 | 100.0 | Estonian <> | 
- | [gnome-nibbles]({{< ref "/f33/package/gnome-nibbles.md" >}}) | 526 | 526 | 100.0 | Estonian <> | 
- | [gnome-packagekit]({{< ref "/f33/package/gnome-packagekit.md" >}}) | 5035 | 5035 | 100.0 | Estonian <> | 
- | [gnome-photos]({{< ref "/f33/package/gnome-photos.md" >}}) | 301 | 301 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-power-manager]({{< ref "/f33/package/gnome-power-manager.md" >}}) | 432 | 432 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-robots]({{< ref "/f33/package/gnome-robots.md" >}}) | 823 | 823 | 100.0 | Estonian <> | 
- | [gnome-screenshot]({{< ref "/f33/package/gnome-screenshot.md" >}}) | 351 | 351 | 100.0 | Estonian <> | 
- | [gnome-search-tool]({{< ref "/f33/package/gnome-search-tool.md" >}}) | 1249 | 1249 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-session]({{< ref "/f33/package/gnome-session.md" >}}) | 299 | 299 | 100.0 | Estonian <> | 
- | [gnome-settings-daemon]({{< ref "/f33/package/gnome-settings-daemon.md" >}}) | 1913 | 1913 | 100.0 | Estonian <> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f33/package/gnome-shell-extension-gsconnect.md" >}}) | 651 | 651 | 100.0 | Estonian | 
- | [gnome-sudoku]({{< ref "/f33/package/gnome-sudoku.md" >}}) | 462 | 462 | 100.0 | Estonian <> | 
- | [gnome-system-log]({{< ref "/f33/package/gnome-system-log.md" >}}) | 420 | 420 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-system-monitor]({{< ref "/f33/package/gnome-system-monitor.md" >}}) | 1289 | 1289 | 100.0 | Estonian <> | 
- | [gnome-terminal]({{< ref "/f33/package/gnome-terminal.md" >}}) | 2157 | 2157 | 100.0 | Estonian <> | 
- | [gnome-tetravex]({{< ref "/f33/package/gnome-tetravex.md" >}}) | 108 | 108 | 100.0 | Estonian <> | 
- | [gnome-themes-extra]({{< ref "/f33/package/gnome-themes-extra.md" >}}) | 24 | 24 | 100.0 | Estonian <et@li.org> | 
- | [gnome-todo]({{< ref "/f33/package/gnome-todo.md" >}}) | 684 | 684 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gnome-user-share]({{< ref "/f33/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Estonian <et@li.org> | 
- | [gnome-vfs2]({{< ref "/f33/package/gnome-vfs2.md" >}}) | 1519 | 1519 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-video-effects]({{< ref "/f33/package/gnome-video-effects.md" >}}) | 256 | 256 | 100.0 | Estonian <> | 
- | [gnome-weather]({{< ref "/f33/package/gnome-weather.md" >}}) | 195 | 195 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [gpicview]({{< ref "/f33/package/gpicview.md" >}}) | 236 | 236 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [granatier]({{< ref "/f33/package/granatier.md" >}}) | 247 | 247 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [grantlee-editor]({{< ref "/f33/package/grantlee-editor.md" >}}) | 530 | 530 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [gtk+]({{< ref "/f33/package/gtk+.md" >}}) | 202 | 202 | 100.0 | Estonian | 
- | [gtkhtml3]({{< ref "/f33/package/gtkhtml3.md" >}}) | 488 | 488 | 100.0 | Estonian <> | 
- | [gtranslator]({{< ref "/f33/package/gtranslator.md" >}}) | 1672 | 1672 | 100.0 | Estonian <> | 
- | [gucharmap]({{< ref "/f33/package/gucharmap.md" >}}) | 1071 | 1071 | 100.0 | Estonian <> | 
- | [gvfs]({{< ref "/f33/package/gvfs.md" >}}) | 2555 | 2555 | 100.0 | Estonian <> | 
- | [ikona]({{< ref "/f33/package/ikona.md" >}}) | 156 | 156 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [indent]({{< ref "/f33/package/indent.md" >}}) | 261 | 261 | 100.0 | Estonian <https://hosted.weblate.org/projects/indent/translations/et/> | 
- | [json-glib]({{< ref "/f33/package/json-glib.md" >}}) | 226 | 226 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [juk]({{< ref "/f33/package/juk.md" >}}) | 1484 | 1484 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [k3b]({{< ref "/f33/package/k3b.md" >}}) | 20180 | 20180 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kaccounts-providers]({{< ref "/f33/package/kaccounts-providers.md" >}}) | 82 | 82 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kactivitymanagerd]({{< ref "/f33/package/kactivitymanagerd.md" >}}) | 7 | 7 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kaddressbook]({{< ref "/f33/package/kaddressbook.md" >}}) | 783 | 783 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kajongg]({{< ref "/f33/package/kajongg.md" >}}) | 2444 | 2444 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kalgebra]({{< ref "/f33/package/kalgebra.md" >}}) | 240 | 240 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kalzium]({{< ref "/f33/package/kalzium.md" >}}) | 10484 | 10484 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kamera]({{< ref "/f33/package/kamera.md" >}}) | 347 | 347 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kamoso]({{< ref "/f33/package/kamoso.md" >}}) | 142 | 142 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kanagram]({{< ref "/f33/package/kanagram.md" >}}) | 528 | 528 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kapman]({{< ref "/f33/package/kapman.md" >}}) | 114 | 114 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [katomic]({{< ref "/f33/package/katomic.md" >}}) | 185 | 185 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kaudiocreator]({{< ref "/f33/package/kaudiocreator.md" >}}) | 1136 | 1136 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kbackup]({{< ref "/f33/package/kbackup.md" >}}) | 689 | 689 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kblackbox]({{< ref "/f33/package/kblackbox.md" >}}) | 1364 | 1364 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kblocks]({{< ref "/f33/package/kblocks.md" >}}) | 159 | 159 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kbounce]({{< ref "/f33/package/kbounce.md" >}}) | 154 | 154 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kbruch]({{< ref "/f33/package/kbruch.md" >}}) | 1347 | 1347 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kcachegrind]({{< ref "/f33/package/kcachegrind.md" >}}) | 4372 | 4372 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kcalc]({{< ref "/f33/package/kcalc.md" >}}) | 1026 | 1026 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kcharselect]({{< ref "/f33/package/kcharselect.md" >}}) | 88 | 88 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kcolorchooser]({{< ref "/f33/package/kcolorchooser.md" >}}) | 29 | 29 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kcoloredit]({{< ref "/f33/package/kcoloredit.md" >}}) | 278 | 278 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kcron]({{< ref "/f33/package/kcron.md" >}}) | 534 | 534 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kde-cli-tools]({{< ref "/f33/package/kde-cli-tools.md" >}}) | 2206 | 2206 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kde-dev-utils]({{< ref "/f33/package/kde-dev-utils.md" >}}) | 96 | 96 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kde-partitionmanager]({{< ref "/f33/package/kde-partitionmanager.md" >}}) | 2214 | 2214 | 100.0 | Estonian <> | 
- | [kde-style-breeze]({{< ref "/f33/package/kde-style-breeze.md" >}}) | 266 | 266 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdebugsettings]({{< ref "/f33/package/kdebugsettings.md" >}}) | 206 | 206 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdecoration]({{< ref "/f33/package/kdecoration.md" >}}) | 27 | 27 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdenetwork-filesharing]({{< ref "/f33/package/kdenetwork-filesharing.md" >}}) | 63 | 63 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdepim-apps-libs]({{< ref "/f33/package/kdepim-apps-libs.md" >}}) | 334 | 334 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdepim-runtime]({{< ref "/f33/package/kdepim-runtime.md" >}}) | 7817 | 7817 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kdeplasma-addons]({{< ref "/f33/package/kdeplasma-addons.md" >}}) | 1694 | 1694 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdesdk-kioslaves]({{< ref "/f33/package/kdesdk-kioslaves.md" >}}) | 82 | 82 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kdesdk-thumbnailers]({{< ref "/f33/package/kdesdk-thumbnailers.md" >}}) | 4 | 4 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kdevelop-python]({{< ref "/f33/package/kdevelop-python.md" >}}) | 582 | 582 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdf]({{< ref "/f33/package/kdf.md" >}}) | 181 | 181 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kdiagram]({{< ref "/f33/package/kdiagram.md" >}}) | 66 | 66 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kdialog]({{< ref "/f33/package/kdialog.md" >}}) | 382 | 382 | 100.0 | Estonian <> | 
- | [kdiamond]({{< ref "/f33/package/kdiamond.md" >}}) | 122 | 122 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kdnssd]({{< ref "/f33/package/kdnssd.md" >}}) | 30 | 30 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [keditbookmarks]({{< ref "/f33/package/keditbookmarks.md" >}}) | 466 | 466 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-akonadi-calendar]({{< ref "/f33/package/kf5-akonadi-calendar.md" >}}) | 1867 | 1867 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-akonadi-contacts]({{< ref "/f33/package/kf5-akonadi-contacts.md" >}}) | 1587 | 1587 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-akonadi-mime]({{< ref "/f33/package/kf5-akonadi-mime.md" >}}) | 567 | 567 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-akonadi-notes]({{< ref "/f33/package/kf5-akonadi-notes.md" >}}) | 2 | 2 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-akonadi-search]({{< ref "/f33/package/kf5-akonadi-search.md" >}}) | 48 | 48 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-akonadi-server]({{< ref "/f33/package/kf5-akonadi-server.md" >}}) | 2540 | 2540 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-audiocd-kio]({{< ref "/f33/package/kf5-audiocd-kio.md" >}}) | 997 | 997 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-baloo]({{< ref "/f33/package/kf5-baloo.md" >}}) | 907 | 907 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-calendarsupport]({{< ref "/f33/package/kf5-calendarsupport.md" >}}) | 2986 | 2986 | 100.0 | Estonian <> | 
- | [kf5-eventviews]({{< ref "/f33/package/kf5-eventviews.md" >}}) | 2954 | 2954 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-grantleetheme]({{< ref "/f33/package/kf5-grantleetheme.md" >}}) | 14 | 14 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-incidenceeditor]({{< ref "/f33/package/kf5-incidenceeditor.md" >}}) | 2528 | 2528 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kauth]({{< ref "/f33/package/kf5-kauth.md" >}}) | 73 | 73 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kblog]({{< ref "/f33/package/kf5-kblog.md" >}}) | 243 | 243 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kbookmarks]({{< ref "/f33/package/kf5-kbookmarks.md" >}}) | 230 | 230 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kcalendarutils]({{< ref "/f33/package/kf5-kcalendarutils.md" >}}) | 1475 | 1475 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kcmutils]({{< ref "/f33/package/kf5-kcmutils.md" >}}) | 566 | 566 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kcodecs]({{< ref "/f33/package/kf5-kcodecs.md" >}}) | 372 | 372 | 100.0 | Estonian <> | 
- | [kf5-kcompletion]({{< ref "/f33/package/kf5-kcompletion.md" >}}) | 18 | 18 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kconfig]({{< ref "/f33/package/kf5-kconfig.md" >}}) | 271 | 271 | 100.0 | Estonian <> | 
- | [kf5-kconfigwidgets]({{< ref "/f33/package/kf5-kconfigwidgets.md" >}}) | 324 | 324 | 100.0 | Estonian <> | 
- | [kf5-kcontacts]({{< ref "/f33/package/kf5-kcontacts.md" >}}) | 177 | 177 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kdav]({{< ref "/f33/package/kf5-kdav.md" >}}) | 185 | 185 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kdbusaddons]({{< ref "/f33/package/kf5-kdbusaddons.md" >}}) | 48 | 48 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kdeclarative]({{< ref "/f33/package/kf5-kdeclarative.md" >}}) | 104 | 104 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kdelibs4support]({{< ref "/f33/package/kf5-kdelibs4support.md" >}}) | 4813 | 4813 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kdesignerplugin]({{< ref "/f33/package/kf5-kdesignerplugin.md" >}}) | 54 | 54 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kdesu]({{< ref "/f33/package/kf5-kdesu.md" >}}) | 19 | 19 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kdnssd]({{< ref "/f33/package/kf5-kdnssd.md" >}}) | 3 | 3 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kdoctools]({{< ref "/f33/package/kf5-kdoctools.md" >}}) | 8 | 8 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kfilemetadata]({{< ref "/f33/package/kf5-kfilemetadata.md" >}}) | 302 | 302 | 100.0 | Estonian <> | 
- | [kf5-kglobalaccel]({{< ref "/f33/package/kf5-kglobalaccel.md" >}}) | 71 | 71 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kholidays]({{< ref "/f33/package/kf5-kholidays.md" >}}) | 139 | 139 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-khtml]({{< ref "/f33/package/kf5-khtml.md" >}}) | 1721 | 1721 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-ki18n]({{< ref "/f33/package/kf5-ki18n.md" >}}) | 124 | 124 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kiconthemes]({{< ref "/f33/package/kf5-kiconthemes.md" >}}) | 37 | 37 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kidentitymanagement]({{< ref "/f33/package/kf5-kidentitymanagement.md" >}}) | 181 | 181 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kimap]({{< ref "/f33/package/kf5-kimap.md" >}}) | 110 | 110 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kinit]({{< ref "/f33/package/kf5-kinit.md" >}}) | 134 | 134 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kipi-plugins]({{< ref "/f33/package/kf5-kipi-plugins.md" >}}) | 5695 | 5695 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kitemviews]({{< ref "/f33/package/kf5-kitemviews.md" >}}) | 7 | 7 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kitinerary]({{< ref "/f33/package/kf5-kitinerary.md" >}}) | 111 | 111 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kjobwidgets]({{< ref "/f33/package/kf5-kjobwidgets.md" >}}) | 133 | 133 | 100.0 | Estonian <> | 
- | [kf5-kjsembed]({{< ref "/f33/package/kf5-kjsembed.md" >}}) | 248 | 248 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kldap]({{< ref "/f33/package/kf5-kldap.md" >}}) | 229 | 229 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kmailtransport]({{< ref "/f33/package/kf5-kmailtransport.md" >}}) | 654 | 654 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kmime]({{< ref "/f33/package/kf5-kmime.md" >}}) | 159 | 159 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-knotifications]({{< ref "/f33/package/kf5-knotifications.md" >}}) | 20 | 20 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-knotifyconfig]({{< ref "/f33/package/kf5-knotifyconfig.md" >}}) | 129 | 129 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kontactinterface]({{< ref "/f33/package/kf5-kontactinterface.md" >}}) | 4 | 4 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kparts]({{< ref "/f33/package/kf5-kparts.md" >}}) | 123 | 123 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kpeople]({{< ref "/f33/package/kf5-kpeople.md" >}}) | 21 | 21 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kpimtextedit]({{< ref "/f33/package/kf5-kpimtextedit.md" >}}) | 408 | 408 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kpty]({{< ref "/f33/package/kf5-kpty.md" >}}) | 15 | 15 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-kross]({{< ref "/f33/package/kf5-kross.md" >}}) | 100 | 100 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kservice]({{< ref "/f33/package/kf5-kservice.md" >}}) | 167 | 167 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-ksmtp]({{< ref "/f33/package/kf5-ksmtp.md" >}}) | 97 | 97 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-ktextwidgets]({{< ref "/f33/package/kf5-ktextwidgets.md" >}}) | 473 | 473 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-ktnef]({{< ref "/f33/package/kf5-ktnef.md" >}}) | 355 | 355 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kunitconversion]({{< ref "/f33/package/kf5-kunitconversion.md" >}}) | 5735 | 5735 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kwallet]({{< ref "/f33/package/kf5-kwallet.md" >}}) | 1462 | 1462 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kwindowsystem]({{< ref "/f33/package/kf5-kwindowsystem.md" >}}) | 2 | 2 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-kxmlgui]({{< ref "/f33/package/kf5-kxmlgui.md" >}}) | 1533 | 1533 | 100.0 | Estonian <> | 
- | [kf5-kxmlrpcclient]({{< ref "/f33/package/kf5-kxmlrpcclient.md" >}}) | 13 | 13 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-libgravatar]({{< ref "/f33/package/kf5-libgravatar.md" >}}) | 27 | 27 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-libkcddb]({{< ref "/f33/package/kf5-libkcddb.md" >}}) | 476 | 476 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-libkcompactdisc]({{< ref "/f33/package/kf5-libkcompactdisc.md" >}}) | 15 | 15 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-libkdepim]({{< ref "/f33/package/kf5-libkdepim.md" >}}) | 59 | 59 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-libkgeomap]({{< ref "/f33/package/kf5-libkgeomap.md" >}}) | 139 | 139 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-libkleo]({{< ref "/f33/package/kf5-libkleo.md" >}}) | 1325 | 1325 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-libksieve]({{< ref "/f33/package/kf5-libksieve.md" >}}) | 3368 | 3368 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-libktorrent]({{< ref "/f33/package/kf5-libktorrent.md" >}}) | 471 | 471 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kf5-mailcommon]({{< ref "/f33/package/kf5-mailcommon.md" >}}) | 2923 | 2923 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-mailimporter]({{< ref "/f33/package/kf5-mailimporter.md" >}}) | 1408 | 1408 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-solid]({{< ref "/f33/package/kf5-solid.md" >}}) | 686 | 686 | 100.0 | Estonian <> | 
- | [kf5-sonnet]({{< ref "/f33/package/kf5-sonnet.md" >}}) | 667 | 667 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kfind]({{< ref "/f33/package/kfind.md" >}}) | 505 | 505 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kfloppy]({{< ref "/f33/package/kfloppy.md" >}}) | 641 | 641 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kfourinline]({{< ref "/f33/package/kfourinline.md" >}}) | 392 | 392 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kgamma]({{< ref "/f33/package/kgamma.md" >}}) | 130 | 130 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kget]({{< ref "/f33/package/kget.md" >}}) | 2946 | 2946 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kgoldrunner]({{< ref "/f33/package/kgoldrunner.md" >}}) | 23556 | 23556 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kgpg]({{< ref "/f33/package/kgpg.md" >}}) | 5268 | 5268 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kgrab]({{< ref "/f33/package/kgrab.md" >}}) | 370 | 370 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [khangman]({{< ref "/f33/package/khangman.md" >}}) | 476 | 476 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [khelpcenter]({{< ref "/f33/package/khelpcenter.md" >}}) | 265 | 265 | 100.0 | Estonian <> | 
- | [khotkeys]({{< ref "/f33/package/khotkeys.md" >}}) | 437 | 437 | 100.0 | Estonian <> | 
- | [kiconedit]({{< ref "/f33/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kig]({{< ref "/f33/package/kig.md" >}}) | 7855 | 7855 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kigo]({{< ref "/f33/package/kigo.md" >}}) | 500 | 500 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kinfocenter]({{< ref "/f33/package/kinfocenter.md" >}}) | 2571 | 2571 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kio-gdrive]({{< ref "/f33/package/kio-gdrive.md" >}}) | 52 | 52 | 100.0 | Estonian <> | 
- | [kio_gopher]({{< ref "/f33/package/kio_gopher.md" >}}) | 17 | 17 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kiriki]({{< ref "/f33/package/kiriki.md" >}}) | 144 | 144 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kjumpingcube]({{< ref "/f33/package/kjumpingcube.md" >}}) | 412 | 412 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kleopatra]({{< ref "/f33/package/kleopatra.md" >}}) | 8658 | 8658 | 100.0 | Estonian <> | 
- | [klettres]({{< ref "/f33/package/klettres.md" >}}) | 438 | 438 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [klickety]({{< ref "/f33/package/klickety.md" >}}) | 178 | 178 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [klines]({{< ref "/f33/package/klines.md" >}}) | 99 | 99 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmag]({{< ref "/f33/package/kmag.md" >}}) | 432 | 432 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmahjongg]({{< ref "/f33/package/kmahjongg.md" >}}) | 355 | 355 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmenuedit]({{< ref "/f33/package/kmenuedit.md" >}}) | 273 | 273 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmines]({{< ref "/f33/package/kmines.md" >}}) | 119 | 119 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmousetool]({{< ref "/f33/package/kmousetool.md" >}}) | 147 | 147 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmouth]({{< ref "/f33/package/kmouth.md" >}}) | 1515 | 1515 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kmplot]({{< ref "/f33/package/kmplot.md" >}}) | 2493 | 2493 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [knavalbattle]({{< ref "/f33/package/knavalbattle.md" >}}) | 399 | 399 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [knetwalk]({{< ref "/f33/package/knetwalk.md" >}}) | 230 | 230 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [knotes]({{< ref "/f33/package/knotes.md" >}}) | 781 | 781 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [koffice-kivio]({{< ref "/f33/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kolf]({{< ref "/f33/package/kolf.md" >}}) | 401 | 401 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kollision]({{< ref "/f33/package/kollision.md" >}}) | 109 | 109 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [konquest]({{< ref "/f33/package/konquest.md" >}}) | 246 | 246 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kontact]({{< ref "/f33/package/kontact.md" >}}) | 600 | 600 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [konversation]({{< ref "/f33/package/konversation.md" >}}) | 10294 | 10294 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [korganizer]({{< ref "/f33/package/korganizer.md" >}}) | 7392 | 7392 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kpat]({{< ref "/f33/package/kpat.md" >}}) | 477 | 477 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kpilot]({{< ref "/f33/package/kpilot.md" >}}) | 7156 | 7156 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [krdc]({{< ref "/f33/package/krdc.md" >}}) | 1147 | 1147 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kreversi]({{< ref "/f33/package/kreversi.md" >}}) | 429 | 429 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [krfb]({{< ref "/f33/package/krfb.md" >}}) | 676 | 676 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kruler]({{< ref "/f33/package/kruler.md" >}}) | 184 | 184 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kscreen]({{< ref "/f33/package/kscreen.md" >}}) | 256 | 256 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kscreenlocker]({{< ref "/f33/package/kscreenlocker.md" >}}) | 220 | 220 | 100.0 | Estonian <> | 
- | [kshisen]({{< ref "/f33/package/kshisen.md" >}}) | 568 | 568 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ksig]({{< ref "/f33/package/ksig.md" >}}) | 85 | 85 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ksirk]({{< ref "/f33/package/ksirk.md" >}}) | 5763 | 5763 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kspaceduel]({{< ref "/f33/package/kspaceduel.md" >}}) | 165 | 165 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ksquares]({{< ref "/f33/package/ksquares.md" >}}) | 257 | 257 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ksshaskpass]({{< ref "/f33/package/ksshaskpass.md" >}}) | 50 | 50 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ksudoku]({{< ref "/f33/package/ksudoku.md" >}}) | 1746 | 1746 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ksysguard]({{< ref "/f33/package/ksysguard.md" >}}) | 1093 | 1093 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ksystemlog]({{< ref "/f33/package/ksystemlog.md" >}}) | 3034 | 3034 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kteatime]({{< ref "/f33/package/kteatime.md" >}}) | 203 | 203 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ktimer]({{< ref "/f33/package/ktimer.md" >}}) | 258 | 258 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ktorrent]({{< ref "/f33/package/ktorrent.md" >}}) | 7574 | 7574 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ktouch]({{< ref "/f33/package/ktouch.md" >}}) | 948 | 948 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ktp-accounts-kcm]({{< ref "/f33/package/ktp-accounts-kcm.md" >}}) | 1100 | 1100 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ktp-approver]({{< ref "/f33/package/ktp-approver.md" >}}) | 71 | 71 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ktp-auth-handler]({{< ref "/f33/package/ktp-auth-handler.md" >}}) | 83 | 83 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ktp-common-internals]({{< ref "/f33/package/ktp-common-internals.md" >}}) | 989 | 989 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ktp-contact-runner]({{< ref "/f33/package/ktp-contact-runner.md" >}}) | 208 | 208 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [ktp-desktop-applets]({{< ref "/f33/package/ktp-desktop-applets.md" >}}) | 75 | 75 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [ktp-filetransfer-handler]({{< ref "/f33/package/ktp-filetransfer-handler.md" >}}) | 141 | 141 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ktp-send-file]({{< ref "/f33/package/ktp-send-file.md" >}}) | 60 | 60 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [ktp-text-ui]({{< ref "/f33/package/ktp-text-ui.md" >}}) | 1441 | 1441 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [kturtle]({{< ref "/f33/package/kturtle.md" >}}) | 1531 | 1531 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kubrick]({{< ref "/f33/package/kubrick.md" >}}) | 1205 | 1205 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kwalletmanager5]({{< ref "/f33/package/kwalletmanager5.md" >}}) | 800 | 800 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [kwave]({{< ref "/f33/package/kwave.md" >}}) | 5798 | 5798 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kwin]({{< ref "/f33/package/kwin.md" >}}) | 6090 | 6090 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kwordquiz]({{< ref "/f33/package/kwordquiz.md" >}}) | 2026 | 2026 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [l3afpad]({{< ref "/f33/package/l3afpad.md" >}}) | 130 | 130 | 100.0 | Eesti <> | 
- | [lammps]({{< ref "/f33/package/lammps.md" >}}) | 81 | 81 | 100.0 | Estonian (https://www.transifex.com/readthedocs/teams/101354/et/) | 
- | [libbonobo]({{< ref "/f33/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libbonoboui]({{< ref "/f33/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libcryptui]({{< ref "/f33/package/libcryptui.md" >}}) | 3012 | 3012 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libfilezilla]({{< ref "/f33/package/libfilezilla.md" >}}) | 23 | 23 | 100.0 |  | 
- | [libgdata]({{< ref "/f33/package/libgdata.md" >}}) | 695 | 695 | 100.0 | Estonian <> | 
- | [libgnome]({{< ref "/f33/package/libgnome.md" >}}) | 1773 | 1773 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libgnome-keyring]({{< ref "/f33/package/libgnome-keyring.md" >}}) | 44 | 44 | 100.0 | Estonian <et@li.org> | 
- | [libgnomecanvas]({{< ref "/f33/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libgnomekbd]({{< ref "/f33/package/libgnomekbd.md" >}}) | 242 | 242 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libgnomeui]({{< ref "/f33/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libgtop2]({{< ref "/f33/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libgweather]({{< ref "/f33/package/libgweather.md" >}}) | 6108 | 6108 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libkdegames]({{< ref "/f33/package/libkdegames.md" >}}) | 370 | 370 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [libkeduvocdocument]({{< ref "/f33/package/libkeduvocdocument.md" >}}) | 171 | 171 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [libkfbapi]({{< ref "/f33/package/libkfbapi.md" >}}) | 42 | 42 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [libkgapi]({{< ref "/f33/package/libkgapi.md" >}}) | 360 | 360 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [libkmahjongg]({{< ref "/f33/package/libkmahjongg.md" >}}) | 7 | 7 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [libmatemixer]({{< ref "/f33/package/libmatemixer.md" >}}) | 242 | 242 | 100.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [libpeas]({{< ref "/f33/package/libpeas.md" >}}) | 105 | 105 | 100.0 | Estonian <> | 
- | [libsoup]({{< ref "/f33/package/libsoup.md" >}}) | 158 | 158 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [libwnck]({{< ref "/f33/package/libwnck.md" >}}) | 1082 | 1082 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [libwnck3]({{< ref "/f33/package/libwnck3.md" >}}) | 1084 | 1084 | 100.0 | Estonian <> | 
- | [libxfce4util]({{< ref "/f33/package/libxfce4util.md" >}}) | 424 | 424 | 100.0 | Estonian (http://www.transifex.com/xfce/libxfce4util/language/et/) | 
- | [lightsoff]({{< ref "/f33/package/lightsoff.md" >}}) | 39 | 39 | 100.0 | Estonian <> | 
- | [lokalize]({{< ref "/f33/package/lokalize.md" >}}) | 4085 | 4085 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [lskat]({{< ref "/f33/package/lskat.md" >}}) | 254 | 254 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [lxappearance-obconf]({{< ref "/f33/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f33/package/lxdm.md" >}}) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f33/package/lxinput.md" >}}) | 83 | 83 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [lxlauncher]({{< ref "/f33/package/lxlauncher.md" >}}) | 58 | 58 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
- | [lxmenu-data]({{< ref "/f33/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [lxmusic]({{< ref "/f33/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
- | [lxrandr]({{< ref "/f33/package/lxrandr.md" >}}) | 167 | 167 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [lxshortcut]({{< ref "/f33/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
- | [lxtask]({{< ref "/f33/package/lxtask.md" >}}) | 130 | 130 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
- | [lynx]({{< ref "/f33/package/lynx.md" >}}) | 8348 | 8348 | 100.0 | Estonian <linux-ee@lists.eenet.ee> | 
- | [massif-visualizer]({{< ref "/f33/package/massif-visualizer.md" >}}) | 357 | 357 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [mate-icon-theme]({{< ref "/f33/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [mate-menus]({{< ref "/f33/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [mbox-importer]({{< ref "/f33/package/mbox-importer.md" >}}) | 40 | 40 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [metacity]({{< ref "/f33/package/metacity.md" >}}) | 2040 | 2040 | 100.0 | Estonian <> | 
- | [midori]({{< ref "/f33/package/midori.md" >}}) | 3541 | 3541 | 100.0 |  | 
- | [mingw-atk]({{< ref "/f33/package/mingw-atk.md" >}}) | 398 | 398 | 100.0 | Estonian <> | 
- | [mingw-gdk-pixbuf]({{< ref "/f33/package/mingw-gdk-pixbuf.md" >}}) | 1360 | 1360 | 100.0 | Estonian <> | 
- | [mingw-glib-networking]({{< ref "/f33/package/mingw-glib-networking.md" >}}) | 161 | 161 | 100.0 | Estonian <> | 
- | [mingw-json-glib]({{< ref "/f33/package/mingw-json-glib.md" >}}) | 226 | 226 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [mingw-libsoup]({{< ref "/f33/package/mingw-libsoup.md" >}}) | 158 | 158 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [moodle]({{< ref "/f33/package/moodle.md" >}}) | 52 | 52 | 100.0 | i18n@lists.horde.org | 
- | [mousetweaks]({{< ref "/f33/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | Estonian <> | 
- | [muffin]({{< ref "/f33/package/muffin.md" >}}) | 2071 | 2071 | 100.0 | Estonian <> | 
- | [nautilus-sendto]({{< ref "/f33/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Estonian <> | 
- | [newt]({{< ref "/f33/package/newt.md" >}}) | 4 | 4 | 100.0 | ESTONIAN <linuxiabi@hot.ee> | 
- | [nghttp2]({{< ref "/f33/package/nghttp2.md" >}}) | 81 | 81 | 100.0 | Estonian (https://www.transifex.com/readthedocs/teams/101354/et/) | 
- | [notification-daemon]({{< ref "/f33/package/notification-daemon.md" >}}) | 17 | 17 | 100.0 | Estonian <et@li.org> | 
- | [palapeli]({{< ref "/f33/package/palapeli.md" >}}) | 1512 | 1512 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [parley]({{< ref "/f33/package/parley.md" >}}) | 3850 | 3850 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [pdfmod]({{< ref "/f33/package/pdfmod.md" >}}) | 316 | 316 | 100.0 | Estonian <et@li.org> | 
- | [php-horde-Horde-Alarm]({{< ref "/f33/package/php-horde-Horde-Alarm.md" >}}) | 13 | 13 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Argv]({{< ref "/f33/package/php-horde-Horde-Argv.md" >}}) | 60 | 60 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Auth]({{< ref "/f33/package/php-horde-Horde-Auth.md" >}}) | 173 | 173 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Browser]({{< ref "/f33/package/php-horde-Horde-Browser.md" >}}) | 66 | 66 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Cli]({{< ref "/f33/package/php-horde-Horde-Cli.md" >}}) | 11 | 11 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Compress]({{< ref "/f33/package/php-horde-Horde-Compress.md" >}}) | 25 | 25 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Core]({{< ref "/f33/package/php-horde-Horde-Core.md" >}}) | 845 | 845 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Crypt]({{< ref "/f33/package/php-horde-Horde-Crypt.md" >}}) | 399 | 399 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Data]({{< ref "/f33/package/php-horde-Horde-Data.md" >}}) | 7 | 7 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Date]({{< ref "/f33/package/php-horde-Horde-Date.md" >}}) | 42 | 42 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Exception]({{< ref "/f33/package/php-horde-Horde-Exception.md" >}}) | 4 | 4 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Form]({{< ref "/f33/package/php-horde-Horde-Form.md" >}}) | 557 | 557 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Icalendar]({{< ref "/f33/package/php-horde-Horde-Icalendar.md" >}}) | 3 | 3 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Imsp]({{< ref "/f33/package/php-horde-Horde-Imsp.md" >}}) | 3 | 3 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Itip]({{< ref "/f33/package/php-horde-Horde-Itip.md" >}}) | 56 | 56 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Kolab-Storage]({{< ref "/f33/package/php-horde-Horde-Kolab-Storage.md" >}}) | 456 | 456 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-LoginTasks]({{< ref "/f33/package/php-horde-Horde-LoginTasks.md" >}}) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime]({{< ref "/f33/package/php-horde-Horde-Mime.md" >}}) | 48 | 48 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Mime-Viewer]({{< ref "/f33/package/php-horde-Horde-Mime-Viewer.md" >}}) | 47 | 47 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Nls]({{< ref "/f33/package/php-horde-Horde-Nls.md" >}}) | 668 | 668 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Perms]({{< ref "/f33/package/php-horde-Horde-Perms.md" >}}) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Rpc]({{< ref "/f33/package/php-horde-Horde-Rpc.md" >}}) | 48 | 48 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-SyncMl]({{< ref "/f33/package/php-horde-Horde-SyncMl.md" >}}) | 3 | 3 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Text-Filter]({{< ref "/f33/package/php-horde-Horde-Text-Filter.md" >}}) | 1 | 1 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Token]({{< ref "/f33/package/php-horde-Horde-Token.md" >}}) | 39 | 39 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-Horde-Vfs]({{< ref "/f33/package/php-horde-Horde-Vfs.md" >}}) | 10 | 10 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-horde]({{< ref "/f33/package/php-horde-horde.md" >}}) | 3586 | 3586 | 100.0 | Estonian <dev@lists.horde.org> | 
- | [php-horde-imp]({{< ref "/f33/package/php-horde-imp.md" >}}) | 6722 | 6722 | 100.0 | Estonian <dev@lists.horde.org> | 
- | [php-horde-ingo]({{< ref "/f33/package/php-horde-ingo.md" >}}) | 909 | 909 | 100.0 | Estonian <i18n@lists.horde.org> | 
- | [php-horde-kronolith]({{< ref "/f33/package/php-horde-kronolith.md" >}}) | 3633 | 3633 | 100.0 |  | 
- | [php-horde-mnemo]({{< ref "/f33/package/php-horde-mnemo.md" >}}) | 536 | 536 | 100.0 | i18n@lists.horde.org | 
- | [php-horde-nag]({{< ref "/f33/package/php-horde-nag.md" >}}) | 1366 | 1366 | 100.0 |  | 
- | [php-horde-passwd]({{< ref "/f33/package/php-horde-passwd.md" >}}) | 326 | 326 | 100.0 | Estonian <i18n@lists.horde.org> | 
- | [php-horde-turba]({{< ref "/f33/package/php-horde-turba.md" >}}) | 1750 | 1750 | 100.0 | Estonian <dev@lists.horde.org> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f33/package/php-phpmyadmin-sql-parser5.md" >}}) | 268 | 268 | 100.0 | Estonian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/et/> | 
- | [picmi]({{< ref "/f33/package/picmi.md" >}}) | 200 | 200 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [pim-sieve-editor]({{< ref "/f33/package/pim-sieve-editor.md" >}}) | 441 | 441 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [pitivi]({{< ref "/f33/package/pitivi.md" >}}) | 1706 | 1706 | 100.0 | Estonian <et@li.org> | 
- | [plank]({{< ref "/f33/package/plank.md" >}}) | 189 | 189 | 100.0 | Estonian <et@li.org> | 
- | [plasma-breeze]({{< ref "/f33/package/plasma-breeze.md" >}}) | 254 | 254 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-browser-integration]({{< ref "/f33/package/plasma-browser-integration.md" >}}) | 632 | 632 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-discover]({{< ref "/f33/package/plasma-discover.md" >}}) | 1532 | 1532 | 100.0 | Estonian <> | 
- | [plasma-disks]({{< ref "/f33/package/plasma-disks.md" >}}) | 102 | 102 | 100.0 | Estonian <> | 
- | [plasma-drkonqi]({{< ref "/f33/package/plasma-drkonqi.md" >}}) | 3966 | 3966 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-integration]({{< ref "/f33/package/plasma-integration.md" >}}) | 58 | 58 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [plasma-mediacenter]({{< ref "/f33/package/plasma-mediacenter.md" >}}) | 172 | 172 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [plasma-milou]({{< ref "/f33/package/plasma-milou.md" >}}) | 20 | 20 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-nm]({{< ref "/f33/package/plasma-nm.md" >}}) | 5275 | 5275 | 100.0 | Estonian <> | 
- | [plasma-oxygen]({{< ref "/f33/package/plasma-oxygen.md" >}}) | 805 | 805 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-pa]({{< ref "/f33/package/plasma-pa.md" >}}) | 256 | 256 | 100.0 | Estonian <> | 
- | [plasma-sdk]({{< ref "/f33/package/plasma-sdk.md" >}}) | 883 | 883 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-systemsettings]({{< ref "/f33/package/plasma-systemsettings.md" >}}) | 231 | 231 | 100.0 | Estonian <> | 
- | [plasma-thunderbolt]({{< ref "/f33/package/plasma-thunderbolt.md" >}}) | 178 | 178 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-user-manager]({{< ref "/f33/package/plasma-user-manager.md" >}}) | 146 | 146 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-vault]({{< ref "/f33/package/plasma-vault.md" >}}) | 824 | 824 | 100.0 | Estonian <> | 
- | [plasma-workspace]({{< ref "/f33/package/plasma-workspace.md" >}}) | 10788 | 10788 | 100.0 | Estonian <> | 
- | [plymouth-kcm]({{< ref "/f33/package/plymouth-kcm.md" >}}) | 117 | 117 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [poedit]({{< ref "/f33/package/poedit.md" >}}) | 2916 | 2916 | 100.0 | Estonian | 
- | [polari]({{< ref "/f33/package/polari.md" >}}) | 806 | 806 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
- | [polkit-kde]({{< ref "/f33/package/polkit-kde.md" >}}) | 95 | 95 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [powerdevil]({{< ref "/f33/package/powerdevil.md" >}}) | 636 | 636 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [python-django]({{< ref "/f33/package/python-django.md" >}}) | 3771 | 3771 | 100.0 | Estonian (http://www.transifex.com/django/django/language/et/) | 
- | [python-django-contrib-comments]({{< ref "/f33/package/python-django-contrib-comments.md" >}}) | 250 | 250 | 100.0 | Estonian (http://www.transifex.com/django/django-contrib-comments/language/et/) | 
- | [qdigidoc]({{< ref "/f33/package/qdigidoc.md" >}}) | 28 | 28 | 100.0 | Estonian | 
- | [quadrapassel]({{< ref "/f33/package/quadrapassel.md" >}}) | 325 | 325 | 100.0 | Estonian <> | 
- | [redhat-menus]({{< ref "/f33/package/redhat-menus.md" >}}) | 253 | 253 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [rsibreak]({{< ref "/f33/package/rsibreak.md" >}}) | 1175 | 1175 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [rygel]({{< ref "/f33/package/rygel.md" >}}) | 669 | 669 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [sddm-kcm]({{< ref "/f33/package/sddm-kcm.md" >}}) | 143 | 143 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [seahorse]({{< ref "/f33/package/seahorse.md" >}}) | 2486 | 2486 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [sed]({{< ref "/f33/package/sed.md" >}}) | 830 | 830 | 100.0 | Estonian <linux-ee@lists.eenet.ee> | 
- | [skanlite]({{< ref "/f33/package/skanlite.md" >}}) | 183 | 183 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [slick-greeter]({{< ref "/f33/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Estonian <et@li.org> | 
- | [snapper]({{< ref "/f33/package/snapper.md" >}}) | 861 | 861 | 100.0 | Estonian <https://l10n.opensuse.org/projects/snapper/master/et/> | 
- | [sound-juicer]({{< ref "/f33/package/sound-juicer.md" >}}) | 1134 | 1134 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [soundkonverter]({{< ref "/f33/package/soundkonverter.md" >}}) | 4062 | 4062 | 100.0 | Estonian <> | 
- | [spectacle]({{< ref "/f33/package/spectacle.md" >}}) | 855 | 855 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [sushi]({{< ref "/f33/package/sushi.md" >}}) | 24 | 24 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [svgpart]({{< ref "/f33/package/svgpart.md" >}}) | 22 | 22 | 100.0 | Estonian <kde-et@linux.ee> | 
- | [sweeper]({{< ref "/f33/package/sweeper.md" >}}) | 228 | 228 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [swell-foop]({{< ref "/f33/package/swell-foop.md" >}}) | 139 | 139 | 100.0 | Estonian <> | 
- | [thonny]({{< ref "/f33/package/thonny.md" >}}) | 1490 | 1490 | 100.0 |  | 
- | [tomboy]({{< ref "/f33/package/tomboy.md" >}}) | 3318 | 3318 | 100.0 | Estonian <> | 
- | [totem]({{< ref "/f33/package/totem.md" >}}) | 1327 | 1327 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [totem-pl-parser]({{< ref "/f33/package/totem-pl-parser.md" >}}) | 29 | 29 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [vinagre]({{< ref "/f33/package/vinagre.md" >}}) | 1445 | 1445 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [vino]({{< ref "/f33/package/vino.md" >}}) | 1228 | 1228 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [vte]({{< ref "/f33/package/vte.md" >}}) | 80 | 80 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [vte291]({{< ref "/f33/package/vte291.md" >}}) | 80 | 80 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [xdg-desktop-portal-kde]({{< ref "/f33/package/xdg-desktop-portal-kde.md" >}}) | 141 | 141 | 100.0 | Estonian <> | 
- | [xdg-user-dirs]({{< ref "/f33/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Estonian <linux-ee@lists.eenet.ee> | 
- | [xdg-user-dirs-gtk]({{< ref "/f33/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [xfce4-dict]({{< ref "/f33/package/xfce4-dict.md" >}}) | 529 | 529 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
- | [xfce4-eyes-plugin]({{< ref "/f33/package/xfce4-eyes-plugin.md" >}}) | 16 | 16 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-panel-plugins/language/et/) | 
- | [xfce4-notifyd]({{< ref "/f33/package/xfce4-notifyd.md" >}}) | 325 | 325 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
- | [xfce4-terminal]({{< ref "/f33/package/xfce4-terminal.md" >}}) | 1725 | 1725 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
- | [xfce4-time-out-plugin]({{< ref "/f33/package/xfce4-time-out-plugin.md" >}}) | 106 | 106 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-panel-plugins/language/et/) | 
- | [xfdesktop]({{< ref "/f33/package/xfdesktop.md" >}}) | 1037 | 1037 | 100.0 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
- | [yakuake]({{< ref "/f33/package/yakuake.md" >}}) | 1614 | 1614 | 100.0 | Estonian <> | 
- | [yelp]({{< ref "/f33/package/yelp.md" >}}) | 507 | 507 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [yelp-xsl]({{< ref "/f33/package/yelp-xsl.md" >}}) | 81 | 81 | 100.0 | Estonian <> | 
- | [zanshin]({{< ref "/f33/package/zanshin.md" >}}) | 507 | 507 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
- | [zenity]({{< ref "/f33/package/zenity.md" >}}) | 783 | 783 | 100.0 | Estonian <gnome-et@linux.ee> | 
- | [xed]({{< ref "/f33/package/xed.md" >}}) | 4640 | 4642 | 100.0 | Estonian (http://www.transifex.com/projects/p/MATE/language/et/) | 
- | [kid3]({{< ref "/f33/package/kid3.md" >}}) | 3132 | 3134 | 99.9 | Estonian <> | 
- | [dolphin]({{< ref "/f33/package/dolphin.md" >}}) | 4536 | 4539 | 99.9 | Estonian <> | 
- | [kmplayer]({{< ref "/f33/package/kmplayer.md" >}}) | 1248 | 1249 | 99.9 | Estonian <kde-et@linux.ee> | 
- | [kde-l10n]({{< ref "/f33/package/kde-l10n.md" >}}) | 105071 | 105160 | 99.9 | Estonian <kde-et@linux.ee> | 
- | [kgeography]({{< ref "/f33/package/kgeography.md" >}}) | 9660 | 9670 | 99.9 | Estonian <kde-et@lists.linux.ee> | 
- | [nautilus]({{< ref "/f33/package/nautilus.md" >}}) | 6236 | 6243 | 99.9 | Estonian <gnome-et@linux.ee> | 
- | [kalarm]({{< ref "/f33/package/kalarm.md" >}}) | 7829 | 7838 | 99.9 | Estonian <kde-et@lists.linux.ee> | 
- | [kopete]({{< ref "/f33/package/kopete.md" >}}) | 18405 | 18427 | 99.9 | Estonian <kde-et@linux.ee> | 
- | [arduino]({{< ref "/f33/package/arduino.md" >}}) | 3197 | 3204 | 99.8 | Estonian (http://www.transifex.com/mbanzi/arduino-ide-15/language/et/) | 
- | [kolourpaint]({{< ref "/f33/package/kolourpaint.md" >}}) | 2558 | 2564 | 99.8 | Estonian <kde-et@lists.linux.ee> | 
- | [plasma-desktop]({{< ref "/f33/package/plasma-desktop.md" >}}) | 8281 | 8303 | 99.7 | Estonian <kde-et@lists.linux.ee> | 
- | [okteta]({{< ref "/f33/package/okteta.md" >}}) | 2531 | 2538 | 99.7 | Estonian <kde-et@linux.ee> | 
- | [blogilo]({{< ref "/f33/package/blogilo.md" >}}) | 1388 | 1392 | 99.7 | Estonian <kde-et@linux.ee> | 
- | [isomaster]({{< ref "/f33/package/isomaster.md" >}}) | 672 | 674 | 99.7 | Edmund Laugasson <edmund.laugasson@eesti.ee> | 
- | [tin]({{< ref "/f33/package/tin.md" >}}) | 11227 | 11261 | 99.7 | Estonian <linux-ee@lists.eenet.ee> | 
- | [kdepim-addons]({{< ref "/f33/package/kdepim-addons.md" >}}) | 4381 | 4396 | 99.7 | Estonian <kde-et@linux.ee> | 
- | [krecipes]({{< ref "/f33/package/krecipes.md" >}}) | 3633 | 3646 | 99.6 | Estonian <kde-et@linux.ee> | 
- | [scratch]({{< ref "/f33/package/scratch.md" >}}) | 1464 | 1470 | 99.6 | LANGUAGE <LL@li.org> | 
- | [net-tools]({{< ref "/f33/package/net-tools.md" >}}) | 2439 | 2449 | 99.6 | Estonian <linux-ee@eenet.ee> | 
- | [kbibtex]({{< ref "/f33/package/kbibtex.md" >}}) | 2470 | 2481 | 99.6 | Estonian <kde-et@linux.ee> | 
- | [kio-extras]({{< ref "/f33/package/kio-extras.md" >}}) | 1070 | 1075 | 99.5 | Estonian <kde-et@linux.ee> | 
- | [kdiff3]({{< ref "/f33/package/kdiff3.md" >}}) | 3585 | 3602 | 99.5 | Estonian <> | 
- | [xfce4-settings]({{< ref "/f33/package/xfce4-settings.md" >}}) | 1929 | 1940 | 99.4 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
- | [kde-connect]({{< ref "/f33/package/kde-connect.md" >}}) | 1203 | 1210 | 99.4 | Estonian <kde-et@lists.linux.ee> | 
- | [libksysguard]({{< ref "/f33/package/libksysguard.md" >}}) | 4043 | 4067 | 99.4 | Estonian <> | 
- | [kBuild]({{< ref "/f33/package/kBuild.md" >}}) | 502 | 505 | 99.4 | Estonian <et@li.org> | 
- | [kuserfeedback]({{< ref "/f33/package/kuserfeedback.md" >}}) | 1141 | 1148 | 99.4 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kwidgetsaddons]({{< ref "/f33/package/kf5-kwidgetsaddons.md" >}}) | 1273 | 1282 | 99.3 | Estonian <> | 
- | [marble]({{< ref "/f33/package/marble.md" >}}) | 11394 | 11476 | 99.3 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-plasma]({{< ref "/f33/package/kf5-plasma.md" >}}) | 507 | 511 | 99.2 | Estonian <> | 
- | [kde-print-manager]({{< ref "/f33/package/kde-print-manager.md" >}}) | 982 | 990 | 99.2 | Estonian <kde-et@lists.linux.ee> | 
- | [ark]({{< ref "/f33/package/ark.md" >}}) | 1901 | 1917 | 99.2 | Estonian <kde-et@lists.linux.ee> | 
- | [libmateweather]({{< ref "/f33/package/libmateweather.md" >}}) | 6086 | 6142 | 99.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [kmail]({{< ref "/f33/package/kmail.md" >}}) | 8879 | 8961 | 99.1 | Estonian <kde-et@lists.linux.ee> | 
- | [calligra]({{< ref "/f33/package/calligra.md" >}}) | 35607 | 35952 | 99.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kio]({{< ref "/f33/package/kf5-kio.md" >}}) | 12349 | 12470 | 99.0 | Estonian <> | 
- | [kmail-account-wizard]({{< ref "/f33/package/kmail-account-wizard.md" >}}) | 808 | 816 | 99.0 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-kpackage]({{< ref "/f33/package/kf5-kpackage.md" >}}) | 499 | 504 | 99.0 | Estonian <> | 
- | [debconf]({{< ref "/f33/package/debconf.md" >}}) | 189 | 191 | 99.0 | Eesti | 
- | [python-nikola]({{< ref "/f33/package/python-nikola.md" >}}) | 93 | 94 | 98.9 | Estonian (http://www.transifex.com/ralsina/nikola/language/et/) | 
- | [rocs]({{< ref "/f33/package/rocs.md" >}}) | 1435 | 1452 | 98.8 | Estonian <kde-et@lists.linux.ee> | 
- | [clementine]({{< ref "/f33/package/clementine.md" >}}) | 5188 | 5251 | 98.8 | Estonian (http://www.transifex.com/davidsansome/clementine/language/et/) | 
- | [smb4k]({{< ref "/f33/package/smb4k.md" >}}) | 5970 | 6046 | 98.7 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-messagelib]({{< ref "/f33/package/kf5-messagelib.md" >}}) | 8001 | 8105 | 98.7 | Estonian <kde-et@lists.linux.ee> | 
- | [kdevelop-php]({{< ref "/f33/package/kdevelop-php.md" >}}) | 522 | 529 | 98.7 | Estonian <kde-et@lists.linux.ee> | 
- | [konsole5]({{< ref "/f33/package/konsole5.md" >}}) | 2999 | 3042 | 98.6 | Estonian <> | 
- | [xreader]({{< ref "/f33/package/xreader.md" >}}) | 1668 | 1693 | 98.5 | Estonian (http://www.transifex.com/mate/MATE/language/et/) | 
- | [kf5-kalarmcal]({{< ref "/f33/package/kf5-kalarmcal.md" >}}) | 198 | 201 | 98.5 | Estonian <kde-et@lists.linux.ee> | 
- | [kate]({{< ref "/f33/package/kate.md" >}}) | 5940 | 6039 | 98.4 | Estonian <kde-i18n-doc@kde.org> | 
- | [kf5-ktexteditor]({{< ref "/f33/package/kf5-ktexteditor.md" >}}) | 8608 | 8772 | 98.1 | Estonian <> | 
- | [rhythmbox]({{< ref "/f33/package/rhythmbox.md" >}}) | 5003 | 5108 | 97.9 | Estonian <gnome-et@linux.ee> | 
- | [gnome-panel]({{< ref "/f33/package/gnome-panel.md" >}}) | 3447 | 3520 | 97.9 | Estonian <> | 
- | [kf5-kirigami2]({{< ref "/f33/package/kf5-kirigami2.md" >}}) | 46 | 47 | 97.9 | Estonian <> | 
- | [tellico]({{< ref "/f33/package/tellico.md" >}}) | 5732 | 5858 | 97.8 | Estonian <kde-et@lists.linux.ee> | 
- | [gwenview]({{< ref "/f33/package/gwenview.md" >}}) | 1524 | 1559 | 97.8 | Estonian <kde-et@lists.linux.ee> | 
- | [mozo]({{< ref "/f33/package/mozo.md" >}}) | 42 | 43 | 97.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [seahorse-caja]({{< ref "/f33/package/seahorse-caja.md" >}}) | 411 | 421 | 97.6 | Estonian <gnome-et@linux.ee> | 
- | [seahorse-nautilus]({{< ref "/f33/package/seahorse-nautilus.md" >}}) | 411 | 421 | 97.6 | Estonian <gnome-et@linux.ee> | 
- | [kxstitch]({{< ref "/f33/package/kxstitch.md" >}}) | 1966 | 2014 | 97.6 | Estonian <kde-i18n-doc@kde.org> | 
- | [ksnakeduel]({{< ref "/f33/package/ksnakeduel.md" >}}) | 231 | 237 | 97.5 | Estonian <kde-et@linux.ee> | 
- | [kmymoney]({{< ref "/f33/package/kmymoney.md" >}}) | 21242 | 21824 | 97.3 | Estonian <kde-et@lists.linux.ee> | 
- | [lxsession]({{< ref "/f33/package/lxsession.md" >}}) | 734 | 755 | 97.2 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
- | [kphotoalbum]({{< ref "/f33/package/kphotoalbum.md" >}}) | 9201 | 9473 | 97.1 | Estonian <kde-et@lists.linux.ee> | 
- | [wget]({{< ref "/f33/package/wget.md" >}}) | 3948 | 4070 | 97.0 | Estonian <linux-ee@lists.eenet.ee> | 
- | [kf5-purpose]({{< ref "/f33/package/kf5-purpose.md" >}}) | 254 | 262 | 96.9 | Estonian <kde-et@lists.linux.ee> | 
- | [kmix]({{< ref "/f33/package/kmix.md" >}}) | 895 | 924 | 96.9 | Estonian <kde-et@lists.linux.ee> | 
- | [mate-screensaver]({{< ref "/f33/package/mate-screensaver.md" >}}) | 986 | 1020 | 96.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [nemo-extensions]({{< ref "/f33/package/nemo-extensions.md" >}}) | 285 | 295 | 96.6 | eesti <et@li.org> | 
- | [wdiff]({{< ref "/f33/package/wdiff.md" >}}) | 959 | 993 | 96.6 | Estonian <linux-ee@lists.eenet.ee> | 
- | [lightdm-settings]({{< ref "/f33/package/lightdm-settings.md" >}}) | 310 | 321 | 96.6 | Estonian <et@li.org> | 
- | [choqok]({{< ref "/f33/package/choqok.md" >}}) | 2265 | 2350 | 96.4 | Estonian <kde-et@lists.linux.ee> | 
- | [clipit]({{< ref "/f33/package/clipit.md" >}}) | 210 | 218 | 96.3 | Estonian (Estonia) (http://www.transifex.net/projects/p/clipit/language/et_EE/) | 
- | [grep]({{< ref "/f33/package/grep.md" >}}) | 834 | 866 | 96.3 | Estonian <linux-ee@lists.eenet.ee> | 
- | [kbrickbuster]({{< ref "/f33/package/kbrickbuster.md" >}}) | 146 | 152 | 96.1 | Estonian <kde-et@linux.ee> | 
- | [mc]({{< ref "/f33/package/mc.md" >}}) | 4109 | 4289 | 95.8 | Estonian (http://www.transifex.com/mc/mc/language/et/) | 
- | [tar]({{< ref "/f33/package/tar.md" >}}) | 3484 | 3656 | 95.3 | Estonian <linux-ee@lists.eenet.ee> | 
- | [kiten]({{< ref "/f33/package/kiten.md" >}}) | 622 | 653 | 95.3 | Estonian <kde-et@lists.linux.ee> | 
- | [gthumb]({{< ref "/f33/package/gthumb.md" >}}) | 3521 | 3697 | 95.2 | Estonian <gnome-et@linux.ee> | 
- | [kf5-libksane]({{< ref "/f33/package/kf5-libksane.md" >}}) | 276 | 290 | 95.2 | Estonian <kde-et@lists.linux.ee> | 
- | [konqueror]({{< ref "/f33/package/konqueror.md" >}}) | 7911 | 8327 | 95.0 | Estonian <kde-i18n-doc@kde.org> | 
- | [skrooge]({{< ref "/f33/package/skrooge.md" >}}) | 11452 | 12058 | 95.0 | Estonian <kde-et@lists.linux.ee> | 
- | [pim-data-exporter]({{< ref "/f33/package/pim-data-exporter.md" >}}) | 772 | 813 | 95.0 | Estonian <kde-et@lists.linux.ee> | 
- | [openbox]({{< ref "/f33/package/openbox.md" >}}) | 479 | 506 | 94.7 | Estonian <et@li.org> | 
- | [bison]({{< ref "/f33/package/bison.md" >}}) | 1606 | 1697 | 94.6 | Estonian <linux-ee@lists.eenet.ee> | 
- | [kile]({{< ref "/f33/package/kile.md" >}}) | 12292 | 12994 | 94.6 | Estonian <kde-et@linux.ee> | 
- | [xapps]({{< ref "/f33/package/xapps.md" >}}) | 69 | 73 | 94.5 | Estonian <et@li.org> | 
- | [sharutils]({{< ref "/f33/package/sharutils.md" >}}) | 2974 | 3147 | 94.5 | Estonian <linux-ee@lists.eenet.ee> | 
- | [kapptemplate]({{< ref "/f33/package/kapptemplate.md" >}}) | 257 | 272 | 94.5 | Estonian <kde-et@lists.linux.ee> | 
- | [okular]({{< ref "/f33/package/okular.md" >}}) | 5047 | 5344 | 94.4 | Estonian <kde-et@lists.linux.ee> | 
- | [kf5-syntax-highlighting]({{< ref "/f33/package/kf5-syntax-highlighting.md" >}}) | 568 | 604 | 94.0 | Estonian <> | 
- | [coreutils]({{< ref "/f33/package/coreutils.md" >}}) | 19924 | 21194 | 94.0 | Estonian <linux-ee@lists.eenet.ee> | 
- | [shotwell]({{< ref "/f33/package/shotwell.md" >}}) | 4278 | 4553 | 94.0 | Estonian (http://www.transifex.com/projects/p/shotwell/language/et/) | 
- | [mate-media]({{< ref "/f33/package/mate-media.md" >}}) | 224 | 239 | 93.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [pyhoca-gui]({{< ref "/f33/package/pyhoca-gui.md" >}}) | 1745 | 1865 | 93.6 | Estonia <x2go-i18n@lists.x2go.org> | 
- | [python-flask-admin]({{< ref "/f33/package/python-flask-admin.md" >}}) | 343 | 367 | 93.5 | Estonian | 
- | [kwebkitpart]({{< ref "/f33/package/kwebkitpart.md" >}}) | 624 | 669 | 93.3 | Estonian <kde-et@linux.ee> | 
- | [obconf]({{< ref "/f33/package/obconf.md" >}}) | 686 | 738 | 93.0 | Estonian <et@li.org> | 
- | [lxappearance]({{< ref "/f33/package/lxappearance.md" >}}) | 217 | 234 | 92.7 | LANGUAGE <LL@li.org> | 
- | [xmms]({{< ref "/f33/package/xmms.md" >}}) | 3177 | 3443 | 92.3 | Estonian <kde-et@linux.ee> | 
- | [qtwebkit]({{< ref "/f33/package/qtwebkit.md" >}}) | 991 | 1074 | 92.3 | Estonian <gnome-et@linux.ee> | 
- | [tracker]({{< ref "/f33/package/tracker.md" >}}) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
- | [tracker-miners]({{< ref "/f33/package/tracker-miners.md" >}}) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
- | [tracker3]({{< ref "/f33/package/tracker3.md" >}}) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
- | [tracker3-miners]({{< ref "/f33/package/tracker3-miners.md" >}}) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
- | [calligraplan]({{< ref "/f33/package/calligraplan.md" >}}) | 9097 | 9943 | 91.5 | Estonian <kde-et@lists.linux.ee> | 
- | [python-wtforms]({{< ref "/f33/package/python-wtforms.md" >}}) | 183 | 202 | 90.6 | Estonian <kde-i18n-doc@kde.org> | 
- | [kpmcore]({{< ref "/f33/package/kpmcore.md" >}}) | 2921 | 3226 | 90.5 | Estonian <kde-et@lists.linux.ee> | 
- | [xfce4-panel]({{< ref "/f33/package/xfce4-panel.md" >}}) | 1529 | 1691 | 90.4 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
- | [mingw-libcharset]({{< ref "/f33/package/mingw-libcharset.md" >}}) | 303 | 336 | 90.2 | Estonian <linux-ee@lists.eenet.ee> | 
- | [switchboard-plug-notifications]({{< ref "/f33/package/switchboard-plug-notifications.md" >}}) | 128 | 142 | 90.1 | LANGUAGE <LL@li.org> | 
- | [exo]({{< ref "/f33/package/exo.md" >}}) | 1306 | 1454 | 89.8 | Estonian (http://www.transifex.com/xfce/exo/language/et/) | 
- | [audacious]({{< ref "/f33/package/audacious.md" >}}) | 769 | 859 | 89.5 | Estonian (http://www.transifex.com/audacious/audacious/language/et/) | 
- | [krita]({{< ref "/f33/package/krita.md" >}}) | 24914 | 27841 | 89.5 | Estonian <kde-et@lists.linux.ee> | 
- | [caja-extensions]({{< ref "/f33/package/caja-extensions.md" >}}) | 600 | 671 | 89.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [garcon]({{< ref "/f33/package/garcon.md" >}}) | 109 | 122 | 89.3 | Estonian (http://www.transifex.com/xfce/garcon/language/et/) | 
- | [libkomparediff2]({{< ref "/f33/package/libkomparediff2.md" >}}) | 127 | 143 | 88.8 | Estonian <kde-et@lists.linux.ee> | 
- | [switchboard-plug-sharing]({{< ref "/f33/package/switchboard-plug-sharing.md" >}}) | 124 | 140 | 88.6 | Estonian <et@li.org> | 
- | [caja]({{< ref "/f33/package/caja.md" >}}) | 8504 | 9625 | 88.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 20328 | 23046 | 88.2 | Estonian <et@li.org> | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f33/package/switchboard-plug-onlineaccounts.md" >}}) | 141 | 160 | 88.1 | Estonian <et@li.org> | 
- | [digikam]({{< ref "/f33/package/digikam.md" >}}) | 45138 | 51358 | 87.9 | Estonian <kde-et@lists.linux.ee> | 
- | [bleachbit]({{< ref "/f33/package/bleachbit.md" >}}) | 973 | 1112 | 87.5 | Estonian <et@li.org> | 
- | [system-config-printer]({{< ref "/f33/package/system-config-printer.md" >}}) | 3030 | 3465 | 87.4 | Estonian (http://www.transifex.com/projects/p/system-config-printer/language/et/) | 
- | [gnome-control-center]({{< ref "/f33/package/gnome-control-center.md" >}}) | 5427 | 6219 | 87.3 | Estonian | 
- | [libzypp]({{< ref "/f33/package/libzypp.md" >}}) | 2358 | 2714 | 86.9 | Estonian <https://l10n.opensuse.org/projects/libzypp/master/et/> | 
- | [mate-notification-daemon]({{< ref "/f33/package/mate-notification-daemon.md" >}}) | 132 | 152 | 86.8 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [gnome-extensions-app]({{< ref "/f33/package/gnome-extensions-app.md" >}}) | 1691 | 1950 | 86.7 | Estonian <> | 
- | [gnome-shell]({{< ref "/f33/package/gnome-shell.md" >}}) | 1691 | 1950 | 86.7 | Estonian <> | 
- | [plasma-pass]({{< ref "/f33/package/plasma-pass.md" >}}) | 26 | 30 | 86.7 | Estonian <kde-et@lists.linux.ee> | 
- | [thunar-vfs]({{< ref "/f33/package/thunar-vfs.md" >}}) | 335 | 387 | 86.6 | Estonian <xfce-18n@xfce.org> | 
- | [tryton]({{< ref "/f33/package/tryton.md" >}}) | 719 | 835 | 86.1 |  | 
- | [python-caja]({{< ref "/f33/package/python-caja.md" >}}) | 6 | 7 | 85.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [kf5-knewstuff]({{< ref "/f33/package/kf5-knewstuff.md" >}}) | 1401 | 1636 | 85.6 | Estonian <> | 
- | [setuptool]({{< ref "/f33/package/setuptool.md" >}}) | 47 | 55 | 85.5 | Eesti | 
- | [amarok]({{< ref "/f33/package/amarok.md" >}}) | 13466 | 15819 | 85.1 | Estonian <kde-et@linux.ee> | 
- | [mate-polkit]({{< ref "/f33/package/mate-polkit.md" >}}) | 104 | 123 | 84.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [gnome-shell-extensions]({{< ref "/f33/package/gnome-shell-extensions.md" >}}) | 211 | 251 | 84.1 | Estonian <gnome-et-list@gnome.org> | 
- | [python-django-rest-framework]({{< ref "/f33/package/python-django-rest-framework.md" >}}) | 489 | 582 | 84.0 | Estonian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/et/) | 
- | [chkconfig]({{< ref "/f33/package/chkconfig.md" >}}) | 479 | 573 | 83.6 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [python-sphinxcontrib-devhelp]({{< ref "/f33/package/python-sphinxcontrib-devhelp.md" >}}) | 15 | 18 | 83.3 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
- | [kf5-pimcommon]({{< ref "/f33/package/kf5-pimcommon.md" >}}) | 1044 | 1255 | 83.2 | Estonian <kde-et@lists.linux.ee> | 
- | [libmatekbd]({{< ref "/f33/package/libmatekbd.md" >}}) | 256 | 308 | 83.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [findutils]({{< ref "/f33/package/findutils.md" >}}) | 2163 | 2634 | 82.1 | Estonian <linux-ee@lists.eenet.ee> | 
- | [rekonq]({{< ref "/f33/package/rekonq.md" >}}) | 1802 | 2202 | 81.8 | Estonian <kde-et@linux.ee> | 
- | [mate-settings-daemon]({{< ref "/f33/package/mate-settings-daemon.md" >}}) | 1786 | 2197 | 81.3 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [fragments]({{< ref "/f33/package/fragments.md" >}}) | 1622 | 2006 | 80.9 | Estonian (https://www.transifex.com/transmissionbt/teams/33778/et/) | 
- | [transmission]({{< ref "/f33/package/transmission.md" >}}) | 1615 | 1998 | 80.8 | Estonian (https://www.transifex.com/transmissionbt/teams/33778/et/) | 
- | [gtk2-engines]({{< ref "/f33/package/gtk2-engines.md" >}}) | 80 | 99 | 80.8 | Estonian <gnome-et@linux.ee> | 
- | [gtksourceview2]({{< ref "/f33/package/gtksourceview2.md" >}}) | 1121 | 1413 | 79.3 | Estonian <gnome-et@linux.ee> | 
- | [libreoffice]({{< ref "/f33/package/libreoffice.md" >}}) | 466776 | 590651 | 79.0 | LANGUAGE <LL@li.org> | 
- | [gparted]({{< ref "/f33/package/gparted.md" >}}) | 1416 | 1801 | 78.6 | Estonian <et@li.org> | 
- | [marco]({{< ref "/f33/package/marco.md" >}}) | 3410 | 4339 | 78.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [mate-backgrounds]({{< ref "/f33/package/mate-backgrounds.md" >}}) | 51 | 65 | 78.5 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [kstars]({{< ref "/f33/package/kstars.md" >}}) | 48870 | 62342 | 78.4 | Estonian <kde-et@lists.linux.ee> | 
- | [aisleriot]({{< ref "/f33/package/aisleriot.md" >}}) | 1557 | 1987 | 78.4 | Estonian <gnome-et@linux.ee> | 
- | [lightdm-gtk]({{< ref "/f33/package/lightdm-gtk.md" >}}) | 68 | 87 | 78.2 | Estonian <et@li.org> | 
- | [gtksourceview4]({{< ref "/f33/package/gtksourceview4.md" >}}) | 1155 | 1485 | 77.8 | Estonian <gnome-et@linux.ee> | 
- | [gnome-do]({{< ref "/f33/package/gnome-do.md" >}}) | 473 | 612 | 77.3 | Estonian <et@li.org> | 
- | [tali]({{< ref "/f33/package/tali.md" >}}) | 323 | 421 | 76.7 | Estonian <> | 
- | [mate-session-manager]({{< ref "/f33/package/mate-session-manager.md" >}}) | 545 | 712 | 76.5 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [rkward]({{< ref "/f33/package/rkward.md" >}}) | 27524 | 36057 | 76.3 | Estonian <kde-et@lists.linux.ee> | 
- | [warzone2100]({{< ref "/f33/package/warzone2100.md" >}}) | 10275 | 13461 | 76.3 | Estonian <ee@li.org> | 
- | [cantor]({{< ref "/f33/package/cantor.md" >}}) | 2776 | 3640 | 76.3 | Estonian <kde-et@lists.linux.ee> | 
- | [mate-desktop]({{< ref "/f33/package/mate-desktop.md" >}}) | 1689 | 2224 | 75.9 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [gedit-plugins]({{< ref "/f33/package/gedit-plugins.md" >}}) | 908 | 1205 | 75.4 | Estonian <gnome-et linux.ee> | 
- | [krusader]({{< ref "/f33/package/krusader.md" >}}) | 5964 | 7929 | 75.2 | Estonian <kde-et@linux.ee> | 
- | [gimp]({{< ref "/f33/package/gimp.md" >}}) | 20230 | 26963 | 75.0 | Estonian <gnome-et@linux.ee> | 
- | [xfwm4]({{< ref "/f33/package/xfwm4.md" >}}) | 474 | 632 | 75.0 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
- | [kgraphviewer]({{< ref "/f33/package/kgraphviewer.md" >}}) | 902 | 1205 | 74.9 | Estonian <kde-et@linux.ee> | 
- | [deluge]({{< ref "/f33/package/deluge.md" >}}) | 1950 | 2616 | 74.5 | Estonian <et@li.org> | 
- | [colord-kde]({{< ref "/f33/package/colord-kde.md" >}}) | 273 | 369 | 74.0 | Estonian <kde-et@linux.ee> | 
- | [po4a]({{< ref "/f33/package/po4a.md" >}}) | 1734 | 2346 | 73.9 | Estonian <https://hosted.weblate.org/projects/po4a/po4a/et/> | 
- | [workrave]({{< ref "/f33/package/workrave.md" >}}) | 1030 | 1398 | 73.7 | Marko Väljaots <aatomik@hotmail.com> | 
- | [wingpanel-indicator-power]({{< ref "/f33/package/wingpanel-indicator-power.md" >}}) | 86 | 117 | 73.5 | LANGUAGE <LL@li.org> | 
- | [mate-menu]({{< ref "/f33/package/mate-menu.md" >}}) | 226 | 308 | 73.4 | Estonian (http://www.transifex.com/mate/MATE/language/et/) | 
- | [mailman]({{< ref "/f33/package/mailman.md" >}}) | 17923 | 24451 | 73.3 | Estonian <et@li.org> | 
- | [kjots]({{< ref "/f33/package/kjots.md" >}}) | 476 | 651 | 73.1 | Estonian <kde-et@lists.linux.ee> | 
- | [freedink]({{< ref "/f33/package/freedink.md" >}}) | 51 | 70 | 72.9 | Estonian <linux-ee@lists.eenet.ee> | 
- | [man-db]({{< ref "/f33/package/man-db.md" >}}) | 150 | 206 | 72.8 | Estonian <linux-ee@lists.eenet.ee> | 
- | [switchboard-plug-a11y]({{< ref "/f33/package/switchboard-plug-a11y.md" >}}) | 91 | 125 | 72.8 | LANGUAGE <LL@li.org> | 
- | [elementary-music]({{< ref "/f33/package/elementary-music.md" >}}) | 951 | 1308 | 72.7 | Estonian <et@li.org> | 
- | [renameutils]({{< ref "/f33/package/renameutils.md" >}}) | 191 | 265 | 72.1 | Estonian <linux-ee@lists.eenet.ee> | 
- | [pidgin]({{< ref "/f33/package/pidgin.md" >}}) | 11334 | 15835 | 71.6 | Estonian (http://www.transifex.com/pidgin/pidgin/language/et/) | 
- | [gnome-online-accounts]({{< ref "/f33/package/gnome-online-accounts.md" >}}) | 445 | 628 | 70.9 | Estonian <> | 
- | [ktuberling]({{< ref "/f33/package/ktuberling.md" >}}) | 111 | 158 | 70.3 | Estonian <kde-et@lists.linux.ee> | 
- | [elisa-player]({{< ref "/f33/package/elisa-player.md" >}}) | 323 | 463 | 69.8 | Estonian <> | 
- | [killbots]({{< ref "/f33/package/killbots.md" >}}) | 444 | 637 | 69.7 | Estonian <kde-et@lists.linux.ee> | 
- | [audex]({{< ref "/f33/package/audex.md" >}}) | 2328 | 3347 | 69.6 | Estonian <kde-et@linux.ee> | 
- | [php-horde-Horde-Prefs]({{< ref "/f33/package/php-horde-Horde-Prefs.md" >}}) | 22 | 32 | 68.8 | i18n@lists.horde.org | 
- | [dragon]({{< ref "/f33/package/dragon.md" >}}) | 192 | 281 | 68.3 | Estonian <kde-et@lists.linux.ee> | 
- | [GConf2]({{< ref "/f33/package/GConf2.md" >}}) | 2728 | 4014 | 68.0 | Estonian <gnome-et@linux.ee> | 
- | [mingw-GConf2]({{< ref "/f33/package/mingw-GConf2.md" >}}) | 2728 | 4014 | 68.0 | Estonian <gnome-et@linux.ee> | 
- | [gmpc]({{< ref "/f33/package/gmpc.md" >}}) | 1002 | 1478 | 67.8 | Estonian <et@li.org> | 
- | [wingpanel-applications-menu]({{< ref "/f33/package/wingpanel-applications-menu.md" >}}) | 199 | 294 | 67.7 | Estonian <https://weblate.elementary.io/projects/wingpanel/applications-menu/et/> | 
- | [wingpanel-indicator-session]({{< ref "/f33/package/wingpanel-indicator-session.md" >}}) | 54 | 81 | 66.7 | Estonian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/et/> | 
- | [kf5-kcoreaddons]({{< ref "/f33/package/kf5-kcoreaddons.md" >}}) | 328 | 495 | 66.3 | Estonian <kde-et@lists.linux.ee> | 
- | [hello]({{< ref "/f33/package/hello.md" >}}) | 123 | 186 | 66.1 | Estonian <linux-ee@lists.eenet.ee> | 
- | [python-formencode]({{< ref "/f33/package/python-formencode.md" >}}) | 534 | 813 | 65.7 | ESTONIAN <ET@li.org> | 
- | [trac]({{< ref "/f33/package/trac.md" >}}) | 5350 | 8152 | 65.6 | Estonian (http://www.transifex.com/projects/p/trac/language/et/) | 
- | [elementary-photos]({{< ref "/f33/package/elementary-photos.md" >}}) | 2549 | 3910 | 65.2 | Estonian (http://www.transifex.com/projects/p/shotwell/language/et/) | 
- | [step]({{< ref "/f33/package/step.md" >}}) | 2488 | 3817 | 65.2 | Estonian <kde-et@lists.linux.ee> | 
- | [orage]({{< ref "/f33/package/orage.md" >}}) | 1689 | 2601 | 64.9 | Estonian (http://www.transifex.com/projects/p/xfce/language/et/) | 
- | [libuser]({{< ref "/f33/package/libuser.md" >}}) | 923 | 1437 | 64.2 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [switchboard-plug-networking]({{< ref "/f33/package/switchboard-plug-networking.md" >}}) | 303 | 474 | 63.9 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/et/> | 
- | [ktp-contact-list]({{< ref "/f33/package/ktp-contact-list.md" >}}) | 428 | 680 | 62.9 | Estonian <kde-et@lists.linux.ee> | 
- | [elementary-screenshot-tool]({{< ref "/f33/package/elementary-screenshot-tool.md" >}}) | 132 | 212 | 62.3 | Estonian <et@li.org> | 
- | [mate-panel]({{< ref "/f33/package/mate-panel.md" >}}) | 4175 | 6727 | 62.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [picard]({{< ref "/f33/package/picard.md" >}}) | 6828 | 11040 | 61.8 | Estonian (http://www.transifex.com/musicbrainz/musicbrainz/language/et/) | 
- | [initscripts]({{< ref "/f33/package/initscripts.md" >}}) | 670 | 1118 | 59.9 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [simple-scan]({{< ref "/f33/package/simple-scan.md" >}}) | 349 | 589 | 59.3 | Estonian <et@li.org> | 
- | [mutter]({{< ref "/f33/package/mutter.md" >}}) | 627 | 1085 | 57.8 | Estonian <> | 
- | [blueman]({{< ref "/f33/package/blueman.md" >}}) | 1073 | 1857 | 57.8 | Estonian <https://hosted.weblate.org/projects/blueman/2-2/et/> | 
- | [elementary-calculator]({{< ref "/f33/package/elementary-calculator.md" >}}) | 75 | 130 | 57.7 | LANGUAGE <LL@li.org> | 
- | [kexi]({{< ref "/f33/package/kexi.md" >}}) | 4249 | 7365 | 57.7 | Estonian <kde-et@linux.ee> | 
- | [tuxpaint]({{< ref "/f33/package/tuxpaint.md" >}}) | 955 | 1662 | 57.5 | Estonian (http://www.transifex.com/projects/p/doudoulinux/language/et/) | 
- | [geary]({{< ref "/f33/package/geary.md" >}}) | 626 | 1101 | 56.9 | Estonian (http://www.transifex.com/projects/p/geary/language/et/) | 
- | [wesnoth]({{< ref "/f33/package/wesnoth.md" >}}) | 168767 | 299283 | 56.4 | Kaido Kikkas <kakk@kakupesa.net> | 
- | [kdevelop]({{< ref "/f33/package/kdevelop.md" >}}) | 8606 | 15296 | 56.3 | Estonian <kde-et@lists.linux.ee> | 
- | [switchboard-plug-printers]({{< ref "/f33/package/switchboard-plug-printers.md" >}}) | 202 | 362 | 55.8 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/et/> | 
- | [avahi]({{< ref "/f33/package/avahi.md" >}}) | 477 | 868 | 55.0 | Estonian (http://www.transifex.com/lennart/avahi/language/et/) | 
- | [squirrelmail]({{< ref "/f33/package/squirrelmail.md" >}}) | 3169 | 5770 | 54.9 | Estonian <squirrelmail-i18n@lists.sourceforge.net> | 
- | [mate-terminal]({{< ref "/f33/package/mate-terminal.md" >}}) | 4572 | 8372 | 54.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f33/package/switchboard-plug-pantheon-shell.md" >}}) | 98 | 181 | 54.1 | Estonian <et@li.org> | 
- | [gtk2]({{< ref "/f33/package/gtk2.md" >}}) | 6595 | 12379 | 53.3 | Estonian <gnome-et@linux.ee> | 
- | [mingw-gtk2]({{< ref "/f33/package/mingw-gtk2.md" >}}) | 6595 | 12379 | 53.3 | Estonian <gnome-et@linux.ee> | 
- | [chrome-gnome-shell]({{< ref "/f33/package/chrome-gnome-shell.md" >}}) | 162 | 313 | 51.8 | Estonian <gnome-et-list@gnome.org> | 
- | [gnupg1]({{< ref "/f33/package/gnupg1.md" >}}) | 4440 | 8640 | 51.4 | Estonian <et@li.org> | 
- | [mutt]({{< ref "/f33/package/mutt.md" >}}) | 3330 | 6561 | 50.8 | Estonian <et@li.org> | 
- | [gtk-murrine-engine]({{< ref "/f33/package/gtk-murrine-engine.md" >}}) | 68 | 134 | 50.7 | Estonian <gnome-et@linux.ee> | 
- | [hexchat]({{< ref "/f33/package/hexchat.md" >}}) | 2996 | 5971 | 50.2 | Estonian (http://www.transifex.com/hexchat/hexchat/language/et/) | 
- | [python-django-formtools]({{< ref "/f33/package/python-django-formtools.md" >}}) | 16 | 32 | 50.0 | Estonian (http://www.transifex.com/projects/p/django-formtools/language/et/) | 
- | [minuet]({{< ref "/f33/package/minuet.md" >}}) | 205 | 412 | 49.8 | Estonian <kde-et@lists.linux.ee> | 
- | [xfce4-power-manager]({{< ref "/f33/package/xfce4-power-manager.md" >}}) | 514 | 1046 | 49.1 | Estonian (http://www.transifex.com/xfce/xfce4-power-manager/language/et/) | 
- | [mate-themes]({{< ref "/f33/package/mate-themes.md" >}}) | 36 | 74 | 48.6 | Estonian (http://www.transifex.com/mate/MATE/language/et/) | 
- | [ktp-kded-integration-module]({{< ref "/f33/package/ktp-kded-integration-module.md" >}}) | 238 | 490 | 48.6 | Estonian <kde-et@lists.linux.ee> | 
- | [catfish]({{< ref "/f33/package/catfish.md" >}}) | 508 | 1047 | 48.5 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
- | [sylpheed]({{< ref "/f33/package/sylpheed.md" >}}) | 3478 | 7214 | 48.2 | Estonian <et@li.org> | 
- | [elementary-calendar]({{< ref "/f33/package/elementary-calendar.md" >}}) | 335 | 703 | 47.7 | Estonian <et@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f33/package/switchboard-plug-keyboard.md" >}}) | 251 | 530 | 47.4 | Estonian <et@li.org> | 
- | [geany]({{< ref "/f33/package/geany.md" >}}) | 2851 | 6069 | 47.0 | Estonian | 
- | [mlocate]({{< ref "/f33/package/mlocate.md" >}}) | 270 | 581 | 46.5 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [wingpanel-indicator-network]({{< ref "/f33/package/wingpanel-indicator-network.md" >}}) | 45 | 97 | 46.4 | Estonian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/et/> | 
- | [audacious-plugins]({{< ref "/f33/package/audacious-plugins.md" >}}) | 1971 | 4254 | 46.3 | Estonian (http://www.transifex.com/audacious/audacious/language/et/) | 
- | [warmux]({{< ref "/f33/package/warmux.md" >}}) | 1271 | 2744 | 46.3 | Estonian <et@li.org> | 
- | [xpad]({{< ref "/f33/package/xpad.md" >}}) | 191 | 413 | 46.2 | Estonian <et@li.org> | 
- | [exaile]({{< ref "/f33/package/exaile.md" >}}) | 1875 | 4067 | 46.1 | Estonian <https://hosted.weblate.org/projects/exaile/master/et/> | 
- | [balsa]({{< ref "/f33/package/balsa.md" >}}) | 2376 | 5348 | 44.4 | <gnome-et@linux.ee> | 
- | [libnma]({{< ref "/f33/package/libnma.md" >}}) | 402 | 917 | 43.8 | Estonian <> | 
- | [kirigami-gallery]({{< ref "/f33/package/kirigami-gallery.md" >}}) | 375 | 856 | 43.8 | Estonian <kde-et@lists.linux.ee> | 
- | [switchboard-plug-about]({{< ref "/f33/package/switchboard-plug-about.md" >}}) | 41 | 96 | 42.7 | Estonian <et@li.org> | 
- | [shutter]({{< ref "/f33/package/shutter.md" >}}) | 1319 | 3093 | 42.6 | Estonian <et@li.org> | 
- | [mate-power-manager]({{< ref "/f33/package/mate-power-manager.md" >}}) | 2190 | 5139 | 42.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [mate-calc]({{< ref "/f33/package/mate-calc.md" >}}) | 1349 | 3178 | 42.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [wingpanel-indicator-notifications]({{< ref "/f33/package/wingpanel-indicator-notifications.md" >}}) | 16 | 38 | 42.1 | LANGUAGE <LL@li.org> | 
- | [soundconverter]({{< ref "/f33/package/soundconverter.md" >}}) | 212 | 507 | 41.8 | Estonian <et@li.org> | 
- | [elementary-files]({{< ref "/f33/package/elementary-files.md" >}}) | 1198 | 2911 | 41.2 | Estonian <et@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f33/package/switchboard-plug-applications.md" >}}) | 39 | 95 | 41.1 | LANGUAGE <LL@li.org> | 
- | [playonlinux]({{< ref "/f33/package/playonlinux.md" >}}) | 1116 | 2728 | 40.9 | Estonian <et@li.org> | 
- | [kaccounts-integration]({{< ref "/f33/package/kaccounts-integration.md" >}}) | 67 | 165 | 40.6 | Estonian <kde-et@lists.linux.ee> | 
- | [glib2]({{< ref "/f33/package/glib2.md" >}}) | 2825 | 7036 | 40.2 | Estonian <gnome-et@linux.ee> | 
- | [mingw-glib2]({{< ref "/f33/package/mingw-glib2.md" >}}) | 2825 | 7036 | 40.2 | Estonian <gnome-et@linux.ee> | 
- | [xfce4-appfinder]({{< ref "/f33/package/xfce4-appfinder.md" >}}) | 163 | 406 | 40.1 | Estonian (http://www.transifex.com/xfce/xfce4-appfinder/language/et/) | 
- | [sugar-stopwatch]({{< ref "/f33/package/sugar-stopwatch.md" >}}) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
- | [rt]({{< ref "/f33/package/rt.md" >}}) | 4727 | 11843 | 39.9 | Estonian <et@li.org> | 
- | [cinnamon-control-center]({{< ref "/f33/package/cinnamon-control-center.md" >}}) | 521 | 1313 | 39.7 | Estonian | 
- | [kompare]({{< ref "/f33/package/kompare.md" >}}) | 566 | 1430 | 39.6 | Estonian <kde-et@lists.linux.ee> | 
- | [atril]({{< ref "/f33/package/atril.md" >}}) | 1515 | 3846 | 39.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [wingpanel-indicator-nightlight]({{< ref "/f33/package/wingpanel-indicator-nightlight.md" >}}) | 12 | 31 | 38.7 | Estonian <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/et/> | 
- | [chromium]({{< ref "/f33/package/chromium.md" >}}) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
- | [gtk3]({{< ref "/f33/package/gtk3.md" >}}) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
- | [gtk4]({{< ref "/f33/package/gtk4.md" >}}) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
- | [mingw-gtk3]({{< ref "/f33/package/mingw-gtk3.md" >}}) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
- | [python-sphinx]({{< ref "/f33/package/python-sphinx.md" >}}) | 1762 | 4581 | 38.5 | Estonian (http://www.transifex.com/sphinx-doc/sphinx-1/language/et/) | 
- | [xfce4-screenshooter]({{< ref "/f33/package/xfce4-screenshooter.md" >}}) | 170 | 443 | 38.4 |  | 
- | [sugar-toolkit-gtk3]({{< ref "/f33/package/sugar-toolkit-gtk3.md" >}}) | 81 | 213 | 38.0 | LANGUAGE <LL@li.org> | 
- | [php-horde-Horde-Share]({{< ref "/f33/package/php-horde-Horde-Share.md" >}}) | 18 | 48 | 37.5 | i18n@lists.horde.org | 
- | [webkit2gtk3]({{< ref "/f33/package/webkit2gtk3.md" >}}) | 969 | 2623 | 36.9 | Estonian <gnome-et@linux.ee> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f33/package/wingpanel-indicator-bluetooth.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [glade]({{< ref "/f33/package/glade.md" >}}) | 1469 | 4039 | 36.4 | Estonian <gnome-et@linux.ee> | 
- | [switchboard]({{< ref "/f33/package/switchboard.md" >}}) | 45 | 124 | 36.3 | Estonian <et@li.org> | 
- | [dialog]({{< ref "/f33/package/dialog.md" >}}) | 9 | 25 | 36.0 | Estonian <et@li.org> | 
- | [synapse]({{< ref "/f33/package/synapse.md" >}}) | 304 | 856 | 35.5 | Estonian <et@li.org> | 
- | [pluma]({{< ref "/f33/package/pluma.md" >}}) | 4650 | 13120 | 35.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [xfburn]({{< ref "/f33/package/xfburn.md" >}}) | 500 | 1413 | 35.4 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
- | [mate-utils]({{< ref "/f33/package/mate-utils.md" >}}) | 3617 | 10304 | 35.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [mate-control-center]({{< ref "/f33/package/mate-control-center.md" >}}) | 2991 | 8602 | 34.8 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [elementary-videos]({{< ref "/f33/package/elementary-videos.md" >}}) | 119 | 346 | 34.4 | Estonian <https://l10n.elementary.io/projects/videos/videos/et/> | 
- | [xfce4-session]({{< ref "/f33/package/xfce4-session.md" >}}) | 387 | 1132 | 34.2 | Estonian <et@li.org> | 
- | [xfce4-whiskermenu-plugin]({{< ref "/f33/package/xfce4-whiskermenu-plugin.md" >}}) | 129 | 386 | 33.4 | Estonian (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/et/) | 
- | [elementary-capnet-assist]({{< ref "/f33/package/elementary-capnet-assist.md" >}}) | 27 | 82 | 32.9 | Estonian <et@li.org> | 
- | [gtksourceview3]({{< ref "/f33/package/gtksourceview3.md" >}}) | 106 | 322 | 32.9 | Estonian <gnome-et@linux.ee> | 
- | [mingw-gtksourceview3]({{< ref "/f33/package/mingw-gtksourceview3.md" >}}) | 106 | 322 | 32.9 | Estonian <gnome-et@linux.ee> | 
- | [eom]({{< ref "/f33/package/eom.md" >}}) | 1626 | 4951 | 32.8 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [calibre]({{< ref "/f33/package/calibre.md" >}}) | 52662 | 161062 | 32.7 | Estonian (http://www.transifex.com/calibre/calibre/language/et/) | 
- | [elementary-camera]({{< ref "/f33/package/elementary-camera.md" >}}) | 21 | 65 | 32.3 | Estonian <et@li.org> | 
- | [elementary-terminal]({{< ref "/f33/package/elementary-terminal.md" >}}) | 142 | 442 | 32.1 | Estonian <et@li.org> | 
- | [wingpanel]({{< ref "/f33/package/wingpanel.md" >}}) | 6 | 19 | 31.6 | LANGUAGE <LL@li.org> | 
- | [granite]({{< ref "/f33/package/granite.md" >}}) | 84 | 269 | 31.2 | Estonian <https://weblate.elementary.io/projects/desktop/granite/et/> | 
- | [libgdl]({{< ref "/f33/package/libgdl.md" >}}) | 187 | 604 | 31.0 | Estonian <gnome-et@linux.ee> | 
- | [sympa]({{< ref "/f33/package/sympa.md" >}}) | 11143 | 37229 | 29.9 | Eesti | 
- | [agenda]({{< ref "/f33/package/agenda.md" >}}) | 5 | 17 | 29.4 | Estonian <et@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f33/package/pantheon-agent-polkit.md" >}}) | 14 | 48 | 29.2 | Estonian <https://l10n.elementary.io/projects/desktop/pantheon-agent-polkit/et/> | 
- | [network-manager-applet]({{< ref "/f33/package/network-manager-applet.md" >}}) | 1290 | 4478 | 28.8 | Estonian <> | 
- | [gcr]({{< ref "/f33/package/gcr.md" >}}) | 178 | 622 | 28.6 | Estonian <gnome-et@linux.ee> | 
- | [kflickr]({{< ref "/f33/package/kflickr.md" >}}) | 91 | 332 | 27.4 | Estonian <et@li.org> | 
- | [elementary-code]({{< ref "/f33/package/elementary-code.md" >}}) | 312 | 1151 | 27.1 | Estonian <et@li.org> | 
- | [xfce4-weather-plugin]({{< ref "/f33/package/xfce4-weather-plugin.md" >}}) | 972 | 3676 | 26.4 | Estonian (http://www.transifex.com/xfce/xfce-panel-plugins/language/et/) | 
- | [lightdm]({{< ref "/f33/package/lightdm.md" >}}) | 42 | 163 | 25.8 | Estonian <et@li.org> | 
- | [calamares]({{< ref "/f33/package/calamares.md" >}}) | 109 | 443 | 24.6 | Estonian (https://www.transifex.com/calamares/teams/20061/et/) | 
- | [stellarium]({{< ref "/f33/package/stellarium.md" >}}) | 34649 | 141404 | 24.5 | Estonian (https://www.transifex.com/stellarium/teams/80998/et/) | 
- | [inkscape]({{< ref "/f33/package/inkscape.md" >}}) | 9880 | 40929 | 24.1 | Estonian <gnome-et@linux.ee> | 
- | [switchboard-plug-display]({{< ref "/f33/package/switchboard-plug-display.md" >}}) | 32 | 139 | 23.0 | Estonian <et@li.org> | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f33/package/switchboard-plug-mouse-touchpad.md" >}}) | 51 | 232 | 22.0 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/et/> | 
- | [jmol]({{< ref "/f33/package/jmol.md" >}}) | 679 | 3166 | 21.4 | Estonian <Jmol-developers@lists.sf.net> | 
- | [trojita]({{< ref "/f33/package/trojita.md" >}}) | 1019 | 4772 | 21.4 | Estonian <kde-et@linux.ee> | 
- | [python-sphinxcontrib-qthelp]({{< ref "/f33/package/python-sphinxcontrib-qthelp.md" >}}) | 7 | 33 | 21.2 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
- | [gala]({{< ref "/f33/package/gala.md" >}}) | 41 | 197 | 20.8 | Estonian <https://l10n.elementary.io/projects/desktop/gala/et/> | 
- | [revelation]({{< ref "/f33/package/revelation.md" >}}) | 500 | 2427 | 20.6 | Estonian (http://www.transifex.com/hey_neken/revelation/language/et/) | 
- | [goffice]({{< ref "/f33/package/goffice.md" >}}) | 1272 | 6201 | 20.5 | Estonian <gnome-et@linux.ee> | 
- | [pam]({{< ref "/f33/package/pam.md" >}}) | 129 | 638 | 20.2 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [cairo-dock-plug-ins]({{< ref "/f33/package/cairo-dock-plug-ins.md" >}}) | 2028 | 10203 | 19.9 | Estonian <et@li.org> | 
- | [NetworkManager-openvpn]({{< ref "/f33/package/NetworkManager-openvpn.md" >}}) | 207 | 1049 | 19.7 | Estonian <gnome-et@linux.ee> | 
- | [engrampa]({{< ref "/f33/package/engrampa.md" >}}) | 1501 | 7817 | 19.2 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [pinta]({{< ref "/f33/package/pinta.md" >}}) | 322 | 1686 | 19.1 | Estonian <et@li.org> | 
- | [gnupg2]({{< ref "/f33/package/gnupg2.md" >}}) | 2524 | 13568 | 18.6 | Estonian <et@li.org> | 
- | [deja-dup]({{< ref "/f33/package/deja-dup.md" >}}) | 293 | 1623 | 18.1 | Estonian <et@li.org> | 
- | [mate-system-monitor]({{< ref "/f33/package/mate-system-monitor.md" >}}) | 885 | 4911 | 18.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [terminator]({{< ref "/f33/package/terminator.md" >}}) | 254 | 1450 | 17.5 | Estonian (https://www.transifex.com/terminator/teams/109338/et/) | 
- | [kcm_wacomtablet]({{< ref "/f33/package/kcm_wacomtablet.md" >}}) | 183 | 1064 | 17.2 | Estonian <kde-et@linux.ee> | 
- | [dpkg]({{< ref "/f33/package/dpkg.md" >}}) | 1998 | 11722 | 17.0 | Estonian <et@li.org> | 
- | [minetest]({{< ref "/f33/package/minetest.md" >}}) | 1617 | 9649 | 16.8 | Estonian <https://hosted.weblate.org/projects/minetest/minetest/et/> | 
- | [orca]({{< ref "/f33/package/orca.md" >}}) | 729 | 4400 | 16.6 | Estonian <gnome-et@linux.ee> | 
- | [iagno]({{< ref "/f33/package/iagno.md" >}}) | 53 | 322 | 16.5 | Estonian <> | 
- | [iso-codes]({{< ref "/f33/package/iso-codes.md" >}}) | 3828 | 23492 | 16.3 | Estonian <https://hosted.weblate.org/projects/iso-codes/iso-15924/et/> | 
- | [gnumeric]({{< ref "/f33/package/gnumeric.md" >}}) | 5437 | 35046 | 15.5 | Estonian <linux-ee@lists.eenet.ee> | 
- | [backintime]({{< ref "/f33/package/backintime.md" >}}) | 302 | 1972 | 15.3 | Estonian <et@li.org> | 
- | [mate-applets]({{< ref "/f33/package/mate-applets.md" >}}) | 2363 | 15853 | 14.9 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [sawfish]({{< ref "/f33/package/sawfish.md" >}}) | 939 | 6443 | 14.6 | Estonian <gnome-et@linux.ee> | 
- | [mate-sensors-applet]({{< ref "/f33/package/mate-sensors-applet.md" >}}) | 312 | 2160 | 14.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [switchdesk]({{< ref "/f33/package/switchdesk.md" >}}) | 17 | 122 | 13.9 | Estonian <Eesti> | 
- | [NetworkManager-l2tp]({{< ref "/f33/package/NetworkManager-l2tp.md" >}}) | 173 | 1243 | 13.9 | Estonian <gnome-et@linux.ee> | 
- | [godot]({{< ref "/f33/package/godot.md" >}}) | 1805 | 13216 | 13.7 | Estonian <https://hosted.weblate.org/projects/godot-engine/godot/et/> | 
- | [NetworkManager-ssh]({{< ref "/f33/package/NetworkManager-ssh.md" >}}) | 39 | 286 | 13.6 | Estonian <gnome-et@linux.ee> | 
- | [python-sphinxcontrib-applehelp]({{< ref "/f33/package/python-sphinxcontrib-applehelp.md" >}}) | 12 | 89 | 13.5 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
- | [wingpanel-indicator-sound]({{< ref "/f33/package/wingpanel-indicator-sound.md" >}}) | 7 | 53 | 13.2 | Estonian <et@li.org> | 
- | [freeciv]({{< ref "/f33/package/freeciv.md" >}}) | 13991 | 106305 | 13.2 | eesti | 
- | [wingpanel-indicator-keyboard]({{< ref "/f33/package/wingpanel-indicator-keyboard.md" >}}) | 5 | 38 | 13.2 | Estonian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/et/> | 
- | [system-config-rootpassword]({{< ref "/f33/package/system-config-rootpassword.md" >}}) | 15 | 116 | 12.9 | Eesti | 
- | [python-sphinxcontrib-htmlhelp]({{< ref "/f33/package/python-sphinxcontrib-htmlhelp.md" >}}) | 3 | 25 | 12.0 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
- | [homebank]({{< ref "/f33/package/homebank.md" >}}) | 312 | 2792 | 11.2 | Estonian <et@li.org> | 
- | [supertux]({{< ref "/f33/package/supertux.md" >}}) | 313 | 2866 | 10.9 | Estonian (http://www.transifex.com/arctic-games/supertux/language/et/) | 
- | [dvdbackup]({{< ref "/f33/package/dvdbackup.md" >}}) | 111 | 1024 | 10.8 | Estonian <et@li.org> | 
- | [pychess]({{< ref "/f33/package/pychess.md" >}}) | 477 | 4455 | 10.7 | Estonian (http://www.transifex.com/gbtami/pychess/language/et/) | 
- | [remmina]({{< ref "/f33/package/remmina.md" >}}) | 420 | 4279 | 9.8 | Estonian <https://hosted.weblate.org/projects/remmina/remmina/et/> | 
- | [firewalld]({{< ref "/f33/package/firewalld.md" >}}) | 216 | 2217 | 9.7 | Estonian (http://www.transifex.com/projects/p/firewalld/language/et/) | 
- | [elementary-greeter]({{< ref "/f33/package/elementary-greeter.md" >}}) | 16 | 166 | 9.6 | Estonian <https://l10n.elementary.io/projects/desktop/greeter/et/> | 
- | [wingpanel-indicator-datetime]({{< ref "/f33/package/wingpanel-indicator-datetime.md" >}}) | 12 | 128 | 9.4 | LANGUAGE <LL@li.org> | 
- | [python-blivet]({{< ref "/f33/package/python-blivet.md" >}}) | 52 | 558 | 9.3 | Estonian (http://www.transifex.com/projects/p/blivet/language/et/) | 
- | [dconf-editor]({{< ref "/f33/package/dconf-editor.md" >}}) | 131 | 1464 | 8.9 | Estonian <gnome-et-list@gnome.org> | 
- | [system-switch-mail]({{< ref "/f33/package/system-switch-mail.md" >}}) | 9 | 101 | 8.9 | Estonian <Eesti> | 
- | [avogadro]({{< ref "/f33/package/avogadro.md" >}}) | 547 | 6607 | 8.3 | Estonian <et@li.org> | 
- | [cairo-dock]({{< ref "/f33/package/cairo-dock.md" >}}) | 606 | 7464 | 8.1 | Estonian <et@li.org> | 
- | [pan]({{< ref "/f33/package/pan.md" >}}) | 251 | 3168 | 7.9 | Estonian <gnome-et@linux.ee> | 
- | [geeqie]({{< ref "/f33/package/geeqie.md" >}}) | 333 | 4348 | 7.7 | Estonian <gnome-et@linux.ee> | 
- | [zypper]({{< ref "/f33/package/zypper.md" >}}) | 666 | 9243 | 7.2 | Estonian <https://l10n.opensuse.org/projects/zypper/master/et/> | 
- | [avogadro2]({{< ref "/f33/package/avogadro2.md" >}}) | 32 | 462 | 6.9 | Estonian <et@li.org> | 
- | [anaconda]({{< ref "/f33/package/anaconda.md" >}}) | 554 | 8030 | 6.9 | Estonian (http://www.transifex.com/projects/p/anaconda/language/et/) | 
- | [zathura]({{< ref "/f33/package/zathura.md" >}}) | 49 | 747 | 6.6 | Estonian (http://www.transifex.com/pwmt/zathura/language/et/) | 
- | [gnome-gmail]({{< ref "/f33/package/gnome-gmail.md" >}}) | 12 | 187 | 6.4 | Estonian <et@li.org> | 
- | [bash]({{< ref "/f33/package/bash.md" >}}) | 660 | 11507 | 5.7 | Estonian <et@li.org> | 
- | [spacefm]({{< ref "/f33/package/spacefm.md" >}}) | 465 | 8722 | 5.3 | Estonian (http://www.transifex.com/projects/p/spacefm/language/et/) | 
- | [supertuxkart]({{< ref "/f33/package/supertuxkart.md" >}}) | 272 | 5556 | 4.9 | Estonian (http://www.transifex.com/supertuxkart/supertuxkart/language/et/) | 
- | [mingw-gettext]({{< ref "/f33/package/mingw-gettext.md" >}}) | 350 | 7184 | 4.9 | Estonian <et@li.org> | 
- | [gettext]({{< ref "/f33/package/gettext.md" >}}) | 350 | 7683 | 4.6 | Estonian <et@li.org> | 
- | [onboard]({{< ref "/f33/package/onboard.md" >}}) | 100 | 2318 | 4.3 | Estonian <et@li.org> | 
- | [NetworkManager-openconnect]({{< ref "/f33/package/NetworkManager-openconnect.md" >}}) | 139 | 3241 | 4.3 | Estonian <> | 
- | [switchboard-plug-bluetooth]({{< ref "/f33/package/switchboard-plug-bluetooth.md" >}}) | 8 | 188 | 4.3 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/et/> | 
- | [avogadro2-libs]({{< ref "/f33/package/avogadro2-libs.md" >}}) | 142 | 3466 | 4.1 | Estonian <et@li.org> | 
- | [xfce4-places-plugin]({{< ref "/f33/package/xfce4-places-plugin.md" >}}) | 6 | 157 | 3.8 |  | 
- | [php-horde-Horde-Image]({{< ref "/f33/package/php-horde-Horde-Image.md" >}}) | 22 | 581 | 3.8 | i18n@lists.horde.org | 
- | [gnucash]({{< ref "/f33/package/gnucash.md" >}}) | 1344 | 36666 | 3.7 | Estonian <linux-ee@lists.eenet.ee> | 
- | [fuse-encfs]({{< ref "/f33/package/fuse-encfs.md" >}}) | 42 | 1289 | 3.3 | Estonian <et@li.org> | 
- | [mate-user-admin]({{< ref "/f33/package/mate-user-admin.md" >}}) | 20 | 628 | 3.2 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [gnome-abrt]({{< ref "/f33/package/gnome-abrt.md" >}}) | 7 | 221 | 3.2 | Estonian (http://www.transifex.com/projects/p/gnome-abrt/language/et/) | 
- | [feedreader]({{< ref "/f33/package/feedreader.md" >}}) | 43 | 1374 | 3.1 | Estonian <https://hosted.weblate.org/projects/feedreader/translations/et/> | 
- | [ibus]({{< ref "/f33/package/ibus.md" >}}) | 70 | 2241 | 3.1 | Estonian <trans-et@lists.fedoraproject.org> | 
- | [NetworkManager-libreswan]({{< ref "/f33/package/NetworkManager-libreswan.md" >}}) | 14 | 465 | 3.0 | Estonian <gnome-et@linux.ee> | 
- | [elinks]({{< ref "/f33/package/elinks.md" >}}) | 357 | 12245 | 2.9 | Estonian <et@li.org> | 
- | [light-locker]({{< ref "/f33/package/light-locker.md" >}}) | 7 | 260 | 2.7 | Estonian (http://www.transifex.com/the_cavalry/light-locker/language/et/) | 
- | [pastebinit]({{< ref "/f33/package/pastebinit.md" >}}) | 4 | 195 | 2.1 | Estonian <et@li.org> | 
- | [switchboard-plug-sound]({{< ref "/f33/package/switchboard-plug-sound.md" >}}) | 3 | 152 | 2.0 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/et/> | 
- | [NetworkManager-fortisslvpn]({{< ref "/f33/package/NetworkManager-fortisslvpn.md" >}}) | 6 | 323 | 1.9 | Estonian <gnome-et@linux.ee> | 
- | [4Pane]({{< ref "/f33/package/4Pane.md" >}}) | 198 | 12684 | 1.6 | Estonian (http://www.transifex.com/davidgh/4Pane/language/et/) | 
- | [xscreensaver]({{< ref "/f33/package/xscreensaver.md" >}}) | 128 | 11190 | 1.1 | Estonian <gnome-et@linux.ee> | 
- | [quassel]({{< ref "/f33/package/quassel.md" >}}) | 86 | 7778 | 1.1 | Estonian (http://www.transifex.com/quassel/quassel/language/et/) | 
- | [mingw-colorhug-client]({{< ref "/f33/package/mingw-colorhug-client.md" >}}) | 15 | 1409 | 1.1 | Estonian (http://www.transifex.com/projects/p/colorhug-client/language/et/) | 
- | [colorhug-client]({{< ref "/f33/package/colorhug-client.md" >}}) | 15 | 1432 | 1.0 | Estonian (http://www.transifex.com/hughsie/colorhug-client/language/et/) | 
- | [rapid-photo-downloader]({{< ref "/f33/package/rapid-photo-downloader.md" >}}) | 61 | 7736 | 0.8 | Estonian <et@li.org> | 
- | [policycoreutils]({{< ref "/f33/package/policycoreutils.md" >}}) | 31 | 4493 | 0.7 | Estonian | 
- | [tortoisehg]({{< ref "/f33/package/tortoisehg.md" >}}) | 90 | 13243 | 0.7 | Estonian <et@li.org> | 
- | [NetworkManager]({{< ref "/f33/package/NetworkManager.md" >}}) | 156 | 26763 | 0.6 | Estonian <gnome-et@linux.ee> | 
- | [gammastep]({{< ref "/f33/package/gammastep.md" >}}) | 5 | 945 | 0.5 | Estonian <et@li.org> | 
- | [redshift]({{< ref "/f33/package/redshift.md" >}}) | 5 | 1028 | 0.5 | Estonian <et@li.org> | 
- | [elementary-sideload]({{< ref "/f33/package/elementary-sideload.md" >}}) | 1 | 224 | 0.4 | Estonian <https://l10n.elementary.io/projects/desktop/sideload/et/> | 
- | [mypaint]({{< ref "/f33/package/mypaint.md" >}}) | 24 | 6573 | 0.4 | Estonian <https://hosted.weblate.org/projects/mypaint/mypaint/et/> | 
- | [mate-user-guide]({{< ref "/f33/package/mate-user-guide.md" >}}) | 150 | 42970 | 0.3 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
- | [libmypaint]({{< ref "/f33/package/libmypaint.md" >}}) | 4 | 2303 | 0.2 | Estonian <https://hosted.weblate.org/projects/mypaint/libmypaint/et/> | 
- | [libmypaint2]({{< ref "/f33/package/libmypaint2.md" >}}) | 4 | 2311 | 0.2 | Estonian <https://hosted.weblate.org/projects/mypaint/libmypaint/et/> | 
- | [compiz]({{< ref "/f33/package/compiz.md" >}}) | 6 | 4385 | 0.1 | Estonian <opensuse-translation@opensuse.org> | 
- | [enlightenment]({{< ref "/f33/package/enlightenment.md" >}}) | 6 | 9053 | 0.1 | Estonian <et@li.org> | 
- | [android-tools]({{< ref "/f33/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [bubblemail]({{< ref "/f33/package/bubblemail.md" >}}) | 0 | 472 | 0.0 | none | 
- | [coin]({{< ref "/f33/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f33/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f33/package/elementary-notifications.md" >}}) | 0 | 3 | 0.0 | none | 
- | [elementary-planner]({{< ref "/f33/package/elementary-planner.md" >}}) | 0 | 3023 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f33/package/elementary-shortcut-overlay.md" >}}) | 0 | 95 | 0.0 | none | 
- | [entangle]({{< ref "/f33/package/entangle.md" >}}) | 0 | 953 | 0.0 | Estonian | 
- | [fonts-tweak-tool]({{< ref "/f33/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Estonian | 
- | [fprintd]({{< ref "/f33/package/fprintd.md" >}}) | 0 | 419 | 0.0 | Estonian (http://www.transifex.com/freedesktop/fprintd/language/et/) | 
- | [glade2]({{< ref "/f33/package/glade2.md" >}}) | 0 | 2949 | 0.0 | Estonian <gnome-et@linux.ee> | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f33/package/gnome-shell-extension-bubblemail.md" >}}) | 0 | 98 | 0.0 | none | 
- | [grub-customizer]({{< ref "/f33/package/grub-customizer.md" >}}) | 0 | 1295 | 0.0 | Estonian <et@li.org> | 
- | [harvey]({{< ref "/f33/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [im-chooser]({{< ref "/f33/package/im-chooser.md" >}}) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f33/package/imsettings.md" >}}) | 0 | 485 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f33/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Estonian | 
- | [kdump-anaconda-addon]({{< ref "/f33/package/kdump-anaconda-addon.md" >}}) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kreport]({{< ref "/f33/package/kreport.md" >}}) | 0 | 455 | 0.0 | Estonian <kde-et@linux.ee> | 
- | [libgxim]({{< ref "/f33/package/libgxim.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libreport]({{< ref "/f33/package/libreport.md" >}}) | 0 | 4928 | 0.0 | none | 
- | [libvirt-glib]({{< ref "/f33/package/libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Estonian (http://www.transifex.com/projects/p/libvirt-glib/language/et/) | 
- | [libvirt-sandbox]({{< ref "/f33/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [mingw-libvirt-glib]({{< ref "/f33/package/mingw-libvirt-glib.md" >}}) | 0 | 158 | 0.0 | Estonian (http://www.transifex.com/projects/p/libvirt-glib/language/et/) | 
- | [mingw-p11-kit]({{< ref "/f33/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Estonian (http://www.transifex.com/freedesktop/p11-kit/language/et/) | 
- | [nutty]({{< ref "/f33/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [olpc-switch-desktop]({{< ref "/f33/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f33/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [p11-kit]({{< ref "/f33/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Estonian (http://www.transifex.com/freedesktop/p11-kit/language/et/) | 
- | [pantheon-agent-geoclue2]({{< ref "/f33/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [passwd]({{< ref "/f33/package/passwd.md" >}}) | 0 | 336 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [phonon-backend-gstreamer]({{< ref "/f33/package/phonon-backend-gstreamer.md" >}}) | 0 | 104 | 0.0 | Estonian <kde-et@linux.ee> | 
- | [pmount]({{< ref "/f33/package/pmount.md" >}}) | 0 | 723 | 0.0 | Estonian <et@li.org> | 
- | [python-fedora]({{< ref "/f33/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Estonian | 
- | [python-meh]({{< ref "/f33/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Estonian | 
- | [python-sphinxcontrib-serializinghtml]({{< ref "/f33/package/python-sphinxcontrib-serializinghtml.md" >}}) | 0 | 18 | 0.0 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
- | [realmd]({{< ref "/f33/package/realmd.md" >}}) | 0 | 789 | 0.0 | Estonian (http://www.transifex.com/freedesktop/realmd/language/et/) | 
- | [retrace-server]({{< ref "/f33/package/retrace-server.md" >}}) | 0 | 433 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f33/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
- | [shared-mime-info]({{< ref "/f33/package/shared-mime-info.md" >}}) | 0 | 1991 | 0.0 | Estonian (http://www.transifex.com/freedesktop/shared-mime-info/language/et/) | 
- | [sos]({{< ref "/f33/package/sos.md" >}}) | 0 | 122 | 0.0 | none | 
- | [speedcrunch]({{< ref "/f33/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Estonian (Estonia) (http://www.transifex.com/heldercorreia/speedcrunch/language/et_EE/) | 
- | [sugar]({{< ref "/f33/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f33/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [taxi]({{< ref "/f33/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [timeshift]({{< ref "/f33/package/timeshift.md" >}}) | 0 | 3005 | 0.0 | Estonian <et@li.org> | 
- | [trac-accountmanager-plugin]({{< ref "/f33/package/trac-accountmanager-plugin.md" >}}) | 0 | 1208 | 0.0 | Estonian <trac-dev@googlegroups.com> | 
- | [virt-viewer]({{< ref "/f33/package/virt-viewer.md" >}}) | 0 | 854 | 0.0 | Estonian | 
+ | [NetworkManager-pptp](/f33/package/NetworkManager-pptp) | 144 | 144 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [NetworkManager-sstp](/f33/package/NetworkManager-sstp) | 144 | 144 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [NetworkManager-vpnc](/f33/package/NetworkManager-vpnc) | 156 | 156 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [akonadi-calendar-tools](/f33/package/akonadi-calendar-tools) | 785 | 785 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [akonadi-import-wizard](/f33/package/akonadi-import-wizard) | 394 | 394 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [akregator](/f33/package/akregator) | 1807 | 1807 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [alacarte](/f33/package/alacarte) | 31 | 31 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [analitza](/f33/package/analitza) | 992 | 992 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [arandr](/f33/package/arandr) | 173 | 173 | 100.0 | Estonian <https://hosted.weblate.org/projects/arandr/translations/et/> | 
+ | [artikulate](/f33/package/artikulate) | 338 | 338 | 100.0 | Estonian <> | 
+ | [at-spi2-core](/f33/package/at-spi2-core) | 10 | 10 | 100.0 | Estonian <> | 
+ | [atk](/f33/package/atk) | 398 | 398 | 100.0 | Estonian <> | 
+ | [atomix](/f33/package/atomix) | 146 | 146 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [baloo-widgets](/f33/package/baloo-widgets) | 52 | 52 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [baobab](/f33/package/baobab) | 210 | 210 | 100.0 | Estonian <> | 
+ | [bijiben](/f33/package/bijiben) | 203 | 203 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [blinken](/f33/package/blinken) | 133 | 133 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [blueberry](/f33/package/blueberry) | 166 | 166 | 100.0 | Estonian <et@li.org> | 
+ | [bluedevil](/f33/package/bluedevil) | 494 | 494 | 100.0 | Estonian <> | 
+ | [bomber](/f33/package/bomber) | 110 | 110 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [bookworm](/f33/package/bookworm) | 795 | 795 | 100.0 | Estonian <https://hosted.weblate.org/projects/bookworm/bookworm/et/> | 
+ | [bovo](/f33/package/bovo) | 81 | 81 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [brasero](/f33/package/brasero) | 5546 | 5546 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [caribou](/f33/package/caribou) | 169 | 169 | 100.0 | Estonian <> | 
+ | [cervisia](/f33/package/cervisia) | 1619 | 1619 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [cheese](/f33/package/cheese) | 614 | 614 | 100.0 | Estonian <> | 
+ | [cinnamon-desktop](/f33/package/cinnamon-desktop) | 234 | 234 | 100.0 | Estonian <> | 
+ | [console-setup](/f33/package/console-setup) | 1001 | 1001 | 100.0 | Estonian <> | 
+ | [dasher](/f33/package/dasher) | 634 | 634 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [deepin-terminal](/f33/package/deepin-terminal) | 80 | 80 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [devhelp](/f33/package/devhelp) | 415 | 415 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [dnfdragora](/f33/package/dnfdragora) | 1771 | 1771 | 100.0 | Estonian (https://www.transifex.com/MageiaLinux/teams/9361/et/) | 
+ | [dolphin-plugins](/f33/package/dolphin-plugins) | 1405 | 1405 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ekiga](/f33/package/ekiga) | 4264 | 4264 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [eog](/f33/package/eog) | 1502 | 1502 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [epiphany](/f33/package/epiphany) | 1758 | 1758 | 100.0 | Estonian <> | 
+ | [evince](/f33/package/evince) | 1589 | 1589 | 100.0 | Estonian <> | 
+ | [evolution](/f33/package/evolution) | 23205 | 23205 | 100.0 | Estonian <> | 
+ | [evolution-data-server](/f33/package/evolution-data-server) | 4681 | 4681 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [evolution-mapi](/f33/package/evolution-mapi) | 516 | 516 | 100.0 | Estonian <et@li.org> | 
+ | [file-roller](/f33/package/file-roller) | 1201 | 1201 | 100.0 | Estonian <> | 
+ | [filelight](/f33/package/filelight) | 419 | 419 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [filezilla](/f33/package/filezilla) | 7329 | 7329 | 100.0 |  | 
+ | [five-or-more](/f33/package/five-or-more) | 462 | 462 | 100.0 | Estonian <> | 
+ | [four-in-a-row](/f33/package/four-in-a-row) | 427 | 427 | 100.0 | Estonian <> | 
+ | [gammu](/f33/package/gammu) | 4017 | 4017 | 100.0 | Estonian <https://hosted.weblate.org/projects/gammu/gammu-docs/et/> | 
+ | [ganglia](/f33/package/ganglia) | 59 | 59 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [gconf-editor](/f33/package/gconf-editor) | 336 | 336 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gdk-pixbuf2](/f33/package/gdk-pixbuf2) | 1360 | 1360 | 100.0 | Estonian <> | 
+ | [gdm](/f33/package/gdm) | 629 | 629 | 100.0 | Estonian <> | 
+ | [gedit](/f33/package/gedit) | 4276 | 4276 | 100.0 | Estonian <> | 
+ | [ggz-base-libs](/f33/package/ggz-base-libs) | 64 | 64 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [ghex](/f33/package/ghex) | 977 | 977 | 100.0 | Estonian <> | 
+ | [gimp-wavelet-denoise-plugin](/f33/package/gimp-wavelet-denoise-plugin) | 305 | 305 | 100.0 | Estonian | 
+ | [glib-networking](/f33/package/glib-networking) | 161 | 161 | 100.0 | Estonian <> | 
+ | [gnome-applets](/f33/package/gnome-applets) | 3068 | 3068 | 100.0 | Estonian <> | 
+ | [gnome-bluetooth](/f33/package/gnome-bluetooth) | 310 | 310 | 100.0 | Estonian <> | 
+ | [gnome-books](/f33/package/gnome-books) | 435 | 435 | 100.0 | Estonian <> | 
+ | [gnome-boxes](/f33/package/gnome-boxes) | 856 | 856 | 100.0 | Estonian <> | 
+ | [gnome-calculator](/f33/package/gnome-calculator) | 1078 | 1078 | 100.0 | Estonian <> | 
+ | [gnome-calendar](/f33/package/gnome-calendar) | 668 | 668 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-chess](/f33/package/gnome-chess) | 1284 | 1284 | 100.0 | Estonian <> | 
+ | [gnome-clocks](/f33/package/gnome-clocks) | 223 | 223 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-color-manager](/f33/package/gnome-color-manager) | 1793 | 1793 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [gnome-contacts](/f33/package/gnome-contacts) | 331 | 331 | 100.0 | Estonian <> | 
+ | [gnome-desktop](/f33/package/gnome-desktop) | 438 | 438 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-desktop3](/f33/package/gnome-desktop3) | 146 | 146 | 100.0 | Estonian <> | 
+ | [gnome-dictionary](/f33/package/gnome-dictionary) | 841 | 841 | 100.0 | Estonian <> | 
+ | [gnome-disk-utility](/f33/package/gnome-disk-utility) | 3026 | 3026 | 100.0 | Estonian <> | 
+ | [gnome-doc-utils](/f33/package/gnome-doc-utils) | 251 | 251 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-documents](/f33/package/gnome-documents) | 435 | 435 | 100.0 | Estonian <> | 
+ | [gnome-font-viewer](/f33/package/gnome-font-viewer) | 47 | 47 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-icon-theme](/f33/package/gnome-icon-theme) | 51 | 51 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-initial-setup](/f33/package/gnome-initial-setup) | 372 | 372 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-keyring](/f33/package/gnome-keyring) | 553 | 553 | 100.0 | Estonian <> | 
+ | [gnome-klotski](/f33/package/gnome-klotski) | 120 | 120 | 100.0 | Estonian <> | 
+ | [gnome-mahjongg](/f33/package/gnome-mahjongg) | 170 | 170 | 100.0 | Estonian <> | 
+ | [gnome-maps](/f33/package/gnome-maps) | 180 | 180 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-menus](/f33/package/gnome-menus) | 70 | 70 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-mime-data](/f33/package/gnome-mime-data) | 887 | 887 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-mines](/f33/package/gnome-mines) | 261 | 261 | 100.0 | Estonian <> | 
+ | [gnome-music](/f33/package/gnome-music) | 348 | 348 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-nettool](/f33/package/gnome-nettool) | 664 | 664 | 100.0 | Estonian <> | 
+ | [gnome-nibbles](/f33/package/gnome-nibbles) | 526 | 526 | 100.0 | Estonian <> | 
+ | [gnome-packagekit](/f33/package/gnome-packagekit) | 5035 | 5035 | 100.0 | Estonian <> | 
+ | [gnome-photos](/f33/package/gnome-photos) | 301 | 301 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-power-manager](/f33/package/gnome-power-manager) | 432 | 432 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-robots](/f33/package/gnome-robots) | 823 | 823 | 100.0 | Estonian <> | 
+ | [gnome-screenshot](/f33/package/gnome-screenshot) | 351 | 351 | 100.0 | Estonian <> | 
+ | [gnome-search-tool](/f33/package/gnome-search-tool) | 1249 | 1249 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-session](/f33/package/gnome-session) | 299 | 299 | 100.0 | Estonian <> | 
+ | [gnome-settings-daemon](/f33/package/gnome-settings-daemon) | 1913 | 1913 | 100.0 | Estonian <> | 
+ | [gnome-shell-extension-gsconnect](/f33/package/gnome-shell-extension-gsconnect) | 651 | 651 | 100.0 | Estonian | 
+ | [gnome-sudoku](/f33/package/gnome-sudoku) | 462 | 462 | 100.0 | Estonian <> | 
+ | [gnome-system-log](/f33/package/gnome-system-log) | 420 | 420 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-system-monitor](/f33/package/gnome-system-monitor) | 1289 | 1289 | 100.0 | Estonian <> | 
+ | [gnome-terminal](/f33/package/gnome-terminal) | 2157 | 2157 | 100.0 | Estonian <> | 
+ | [gnome-tetravex](/f33/package/gnome-tetravex) | 108 | 108 | 100.0 | Estonian <> | 
+ | [gnome-themes-extra](/f33/package/gnome-themes-extra) | 24 | 24 | 100.0 | Estonian <et@li.org> | 
+ | [gnome-todo](/f33/package/gnome-todo) | 684 | 684 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnome-user-share](/f33/package/gnome-user-share) | 52 | 52 | 100.0 | Estonian <et@li.org> | 
+ | [gnome-vfs2](/f33/package/gnome-vfs2) | 1519 | 1519 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-video-effects](/f33/package/gnome-video-effects) | 256 | 256 | 100.0 | Estonian <> | 
+ | [gnome-weather](/f33/package/gnome-weather) | 195 | 195 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [gpicview](/f33/package/gpicview) | 236 | 236 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [granatier](/f33/package/granatier) | 247 | 247 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [grantlee-editor](/f33/package/grantlee-editor) | 530 | 530 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [gtk+](/f33/package/gtk+) | 202 | 202 | 100.0 | Estonian | 
+ | [gtkhtml3](/f33/package/gtkhtml3) | 488 | 488 | 100.0 | Estonian <> | 
+ | [gtranslator](/f33/package/gtranslator) | 1672 | 1672 | 100.0 | Estonian <> | 
+ | [gucharmap](/f33/package/gucharmap) | 1071 | 1071 | 100.0 | Estonian <> | 
+ | [gvfs](/f33/package/gvfs) | 2555 | 2555 | 100.0 | Estonian <> | 
+ | [ikona](/f33/package/ikona) | 156 | 156 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [indent](/f33/package/indent) | 261 | 261 | 100.0 | Estonian <https://hosted.weblate.org/projects/indent/translations/et/> | 
+ | [json-glib](/f33/package/json-glib) | 226 | 226 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [juk](/f33/package/juk) | 1484 | 1484 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [k3b](/f33/package/k3b) | 20180 | 20180 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kaccounts-providers](/f33/package/kaccounts-providers) | 82 | 82 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kactivitymanagerd](/f33/package/kactivitymanagerd) | 7 | 7 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kaddressbook](/f33/package/kaddressbook) | 783 | 783 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kajongg](/f33/package/kajongg) | 2444 | 2444 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kalgebra](/f33/package/kalgebra) | 240 | 240 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kalzium](/f33/package/kalzium) | 10484 | 10484 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kamera](/f33/package/kamera) | 347 | 347 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kamoso](/f33/package/kamoso) | 142 | 142 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kanagram](/f33/package/kanagram) | 528 | 528 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kapman](/f33/package/kapman) | 114 | 114 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [katomic](/f33/package/katomic) | 185 | 185 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kaudiocreator](/f33/package/kaudiocreator) | 1136 | 1136 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kbackup](/f33/package/kbackup) | 689 | 689 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kblackbox](/f33/package/kblackbox) | 1364 | 1364 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kblocks](/f33/package/kblocks) | 159 | 159 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kbounce](/f33/package/kbounce) | 154 | 154 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kbruch](/f33/package/kbruch) | 1347 | 1347 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kcachegrind](/f33/package/kcachegrind) | 4372 | 4372 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kcalc](/f33/package/kcalc) | 1026 | 1026 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kcharselect](/f33/package/kcharselect) | 88 | 88 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kcolorchooser](/f33/package/kcolorchooser) | 29 | 29 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kcoloredit](/f33/package/kcoloredit) | 278 | 278 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kcron](/f33/package/kcron) | 534 | 534 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kde-cli-tools](/f33/package/kde-cli-tools) | 2206 | 2206 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kde-dev-utils](/f33/package/kde-dev-utils) | 96 | 96 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kde-partitionmanager](/f33/package/kde-partitionmanager) | 2214 | 2214 | 100.0 | Estonian <> | 
+ | [kde-style-breeze](/f33/package/kde-style-breeze) | 266 | 266 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdebugsettings](/f33/package/kdebugsettings) | 206 | 206 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdecoration](/f33/package/kdecoration) | 27 | 27 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdenetwork-filesharing](/f33/package/kdenetwork-filesharing) | 63 | 63 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdepim-apps-libs](/f33/package/kdepim-apps-libs) | 334 | 334 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdepim-runtime](/f33/package/kdepim-runtime) | 7817 | 7817 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kdeplasma-addons](/f33/package/kdeplasma-addons) | 1694 | 1694 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdesdk-kioslaves](/f33/package/kdesdk-kioslaves) | 82 | 82 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kdesdk-thumbnailers](/f33/package/kdesdk-thumbnailers) | 4 | 4 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kdevelop-python](/f33/package/kdevelop-python) | 582 | 582 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdf](/f33/package/kdf) | 181 | 181 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kdiagram](/f33/package/kdiagram) | 66 | 66 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdialog](/f33/package/kdialog) | 382 | 382 | 100.0 | Estonian <> | 
+ | [kdiamond](/f33/package/kdiamond) | 122 | 122 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kdnssd](/f33/package/kdnssd) | 30 | 30 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [keditbookmarks](/f33/package/keditbookmarks) | 466 | 466 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-akonadi-calendar](/f33/package/kf5-akonadi-calendar) | 1867 | 1867 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-akonadi-contacts](/f33/package/kf5-akonadi-contacts) | 1587 | 1587 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-akonadi-mime](/f33/package/kf5-akonadi-mime) | 567 | 567 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-akonadi-notes](/f33/package/kf5-akonadi-notes) | 2 | 2 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-akonadi-search](/f33/package/kf5-akonadi-search) | 48 | 48 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-akonadi-server](/f33/package/kf5-akonadi-server) | 2540 | 2540 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-audiocd-kio](/f33/package/kf5-audiocd-kio) | 997 | 997 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-baloo](/f33/package/kf5-baloo) | 907 | 907 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-calendarsupport](/f33/package/kf5-calendarsupport) | 2986 | 2986 | 100.0 | Estonian <> | 
+ | [kf5-eventviews](/f33/package/kf5-eventviews) | 2954 | 2954 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-grantleetheme](/f33/package/kf5-grantleetheme) | 14 | 14 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-incidenceeditor](/f33/package/kf5-incidenceeditor) | 2528 | 2528 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kauth](/f33/package/kf5-kauth) | 73 | 73 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kblog](/f33/package/kf5-kblog) | 243 | 243 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kbookmarks](/f33/package/kf5-kbookmarks) | 230 | 230 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kcalendarutils](/f33/package/kf5-kcalendarutils) | 1475 | 1475 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kcmutils](/f33/package/kf5-kcmutils) | 566 | 566 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kcodecs](/f33/package/kf5-kcodecs) | 372 | 372 | 100.0 | Estonian <> | 
+ | [kf5-kcompletion](/f33/package/kf5-kcompletion) | 18 | 18 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kconfig](/f33/package/kf5-kconfig) | 271 | 271 | 100.0 | Estonian <> | 
+ | [kf5-kconfigwidgets](/f33/package/kf5-kconfigwidgets) | 324 | 324 | 100.0 | Estonian <> | 
+ | [kf5-kcontacts](/f33/package/kf5-kcontacts) | 177 | 177 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kdav](/f33/package/kf5-kdav) | 185 | 185 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kdbusaddons](/f33/package/kf5-kdbusaddons) | 48 | 48 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kdeclarative](/f33/package/kf5-kdeclarative) | 104 | 104 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kdelibs4support](/f33/package/kf5-kdelibs4support) | 4813 | 4813 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesignerplugin](/f33/package/kf5-kdesignerplugin) | 54 | 54 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kdesu](/f33/package/kf5-kdesu) | 19 | 19 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kdnssd](/f33/package/kf5-kdnssd) | 3 | 3 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kdoctools](/f33/package/kf5-kdoctools) | 8 | 8 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kfilemetadata](/f33/package/kf5-kfilemetadata) | 302 | 302 | 100.0 | Estonian <> | 
+ | [kf5-kglobalaccel](/f33/package/kf5-kglobalaccel) | 71 | 71 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kholidays](/f33/package/kf5-kholidays) | 139 | 139 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-khtml](/f33/package/kf5-khtml) | 1721 | 1721 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-ki18n](/f33/package/kf5-ki18n) | 124 | 124 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kiconthemes](/f33/package/kf5-kiconthemes) | 37 | 37 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kidentitymanagement](/f33/package/kf5-kidentitymanagement) | 181 | 181 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kimap](/f33/package/kf5-kimap) | 110 | 110 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kinit](/f33/package/kf5-kinit) | 134 | 134 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kipi-plugins](/f33/package/kf5-kipi-plugins) | 5695 | 5695 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kitemviews](/f33/package/kf5-kitemviews) | 7 | 7 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kitinerary](/f33/package/kf5-kitinerary) | 111 | 111 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kjobwidgets](/f33/package/kf5-kjobwidgets) | 133 | 133 | 100.0 | Estonian <> | 
+ | [kf5-kjsembed](/f33/package/kf5-kjsembed) | 248 | 248 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kldap](/f33/package/kf5-kldap) | 229 | 229 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kmailtransport](/f33/package/kf5-kmailtransport) | 654 | 654 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kmime](/f33/package/kf5-kmime) | 159 | 159 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-knotifications](/f33/package/kf5-knotifications) | 20 | 20 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-knotifyconfig](/f33/package/kf5-knotifyconfig) | 129 | 129 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kontactinterface](/f33/package/kf5-kontactinterface) | 4 | 4 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kparts](/f33/package/kf5-kparts) | 123 | 123 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kpeople](/f33/package/kf5-kpeople) | 21 | 21 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kpimtextedit](/f33/package/kf5-kpimtextedit) | 408 | 408 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kpty](/f33/package/kf5-kpty) | 15 | 15 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-kross](/f33/package/kf5-kross) | 100 | 100 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kservice](/f33/package/kf5-kservice) | 167 | 167 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-ksmtp](/f33/package/kf5-ksmtp) | 97 | 97 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-ktextwidgets](/f33/package/kf5-ktextwidgets) | 473 | 473 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-ktnef](/f33/package/kf5-ktnef) | 355 | 355 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kunitconversion](/f33/package/kf5-kunitconversion) | 5735 | 5735 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kwallet](/f33/package/kf5-kwallet) | 1462 | 1462 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kwindowsystem](/f33/package/kf5-kwindowsystem) | 2 | 2 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-kxmlgui](/f33/package/kf5-kxmlgui) | 1533 | 1533 | 100.0 | Estonian <> | 
+ | [kf5-kxmlrpcclient](/f33/package/kf5-kxmlrpcclient) | 13 | 13 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-libgravatar](/f33/package/kf5-libgravatar) | 27 | 27 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-libkcddb](/f33/package/kf5-libkcddb) | 476 | 476 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-libkcompactdisc](/f33/package/kf5-libkcompactdisc) | 15 | 15 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-libkdepim](/f33/package/kf5-libkdepim) | 59 | 59 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-libkgeomap](/f33/package/kf5-libkgeomap) | 139 | 139 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-libkleo](/f33/package/kf5-libkleo) | 1325 | 1325 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-libksieve](/f33/package/kf5-libksieve) | 3368 | 3368 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-libktorrent](/f33/package/kf5-libktorrent) | 471 | 471 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kf5-mailcommon](/f33/package/kf5-mailcommon) | 2923 | 2923 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-mailimporter](/f33/package/kf5-mailimporter) | 1408 | 1408 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-solid](/f33/package/kf5-solid) | 686 | 686 | 100.0 | Estonian <> | 
+ | [kf5-sonnet](/f33/package/kf5-sonnet) | 667 | 667 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kfind](/f33/package/kfind) | 505 | 505 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kfloppy](/f33/package/kfloppy) | 641 | 641 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kfourinline](/f33/package/kfourinline) | 392 | 392 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kgamma](/f33/package/kgamma) | 130 | 130 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kget](/f33/package/kget) | 2946 | 2946 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kgoldrunner](/f33/package/kgoldrunner) | 23556 | 23556 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kgpg](/f33/package/kgpg) | 5268 | 5268 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kgrab](/f33/package/kgrab) | 370 | 370 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [khangman](/f33/package/khangman) | 476 | 476 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [khelpcenter](/f33/package/khelpcenter) | 265 | 265 | 100.0 | Estonian <> | 
+ | [khotkeys](/f33/package/khotkeys) | 437 | 437 | 100.0 | Estonian <> | 
+ | [kiconedit](/f33/package/kiconedit) | 726 | 726 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kig](/f33/package/kig) | 7855 | 7855 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kigo](/f33/package/kigo) | 500 | 500 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kinfocenter](/f33/package/kinfocenter) | 2571 | 2571 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kio-gdrive](/f33/package/kio-gdrive) | 52 | 52 | 100.0 | Estonian <> | 
+ | [kio_gopher](/f33/package/kio_gopher) | 17 | 17 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kiriki](/f33/package/kiriki) | 144 | 144 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kjumpingcube](/f33/package/kjumpingcube) | 412 | 412 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kleopatra](/f33/package/kleopatra) | 8658 | 8658 | 100.0 | Estonian <> | 
+ | [klettres](/f33/package/klettres) | 438 | 438 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [klickety](/f33/package/klickety) | 178 | 178 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [klines](/f33/package/klines) | 99 | 99 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmag](/f33/package/kmag) | 432 | 432 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmahjongg](/f33/package/kmahjongg) | 355 | 355 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmenuedit](/f33/package/kmenuedit) | 273 | 273 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmines](/f33/package/kmines) | 119 | 119 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmousetool](/f33/package/kmousetool) | 147 | 147 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmouth](/f33/package/kmouth) | 1515 | 1515 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmplot](/f33/package/kmplot) | 2493 | 2493 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [knavalbattle](/f33/package/knavalbattle) | 399 | 399 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [knetwalk](/f33/package/knetwalk) | 230 | 230 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [knotes](/f33/package/knotes) | 781 | 781 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [koffice-kivio](/f33/package/koffice-kivio) | 8417 | 8417 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kolf](/f33/package/kolf) | 401 | 401 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kollision](/f33/package/kollision) | 109 | 109 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [konquest](/f33/package/konquest) | 246 | 246 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kontact](/f33/package/kontact) | 600 | 600 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [konversation](/f33/package/konversation) | 10294 | 10294 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [korganizer](/f33/package/korganizer) | 7392 | 7392 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kpat](/f33/package/kpat) | 477 | 477 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kpilot](/f33/package/kpilot) | 7156 | 7156 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [krdc](/f33/package/krdc) | 1147 | 1147 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kreversi](/f33/package/kreversi) | 429 | 429 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [krfb](/f33/package/krfb) | 676 | 676 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kruler](/f33/package/kruler) | 184 | 184 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kscreen](/f33/package/kscreen) | 256 | 256 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kscreenlocker](/f33/package/kscreenlocker) | 220 | 220 | 100.0 | Estonian <> | 
+ | [kshisen](/f33/package/kshisen) | 568 | 568 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ksig](/f33/package/ksig) | 85 | 85 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ksirk](/f33/package/ksirk) | 5763 | 5763 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kspaceduel](/f33/package/kspaceduel) | 165 | 165 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ksquares](/f33/package/ksquares) | 257 | 257 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ksshaskpass](/f33/package/ksshaskpass) | 50 | 50 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ksudoku](/f33/package/ksudoku) | 1746 | 1746 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ksysguard](/f33/package/ksysguard) | 1093 | 1093 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ksystemlog](/f33/package/ksystemlog) | 3034 | 3034 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kteatime](/f33/package/kteatime) | 203 | 203 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ktimer](/f33/package/ktimer) | 258 | 258 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ktorrent](/f33/package/ktorrent) | 7574 | 7574 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ktouch](/f33/package/ktouch) | 948 | 948 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ktp-accounts-kcm](/f33/package/ktp-accounts-kcm) | 1100 | 1100 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ktp-approver](/f33/package/ktp-approver) | 71 | 71 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ktp-auth-handler](/f33/package/ktp-auth-handler) | 83 | 83 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ktp-common-internals](/f33/package/ktp-common-internals) | 989 | 989 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ktp-contact-runner](/f33/package/ktp-contact-runner) | 208 | 208 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [ktp-desktop-applets](/f33/package/ktp-desktop-applets) | 75 | 75 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [ktp-filetransfer-handler](/f33/package/ktp-filetransfer-handler) | 141 | 141 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ktp-send-file](/f33/package/ktp-send-file) | 60 | 60 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [ktp-text-ui](/f33/package/ktp-text-ui) | 1441 | 1441 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [kturtle](/f33/package/kturtle) | 1531 | 1531 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kubrick](/f33/package/kubrick) | 1205 | 1205 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kwalletmanager5](/f33/package/kwalletmanager5) | 800 | 800 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kwave](/f33/package/kwave) | 5798 | 5798 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kwin](/f33/package/kwin) | 6090 | 6090 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kwordquiz](/f33/package/kwordquiz) | 2026 | 2026 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [l3afpad](/f33/package/l3afpad) | 130 | 130 | 100.0 | Eesti <> | 
+ | [lammps](/f33/package/lammps) | 81 | 81 | 100.0 | Estonian (https://www.transifex.com/readthedocs/teams/101354/et/) | 
+ | [libbonobo](/f33/package/libbonobo) | 543 | 543 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libbonoboui](/f33/package/libbonoboui) | 368 | 368 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libcryptui](/f33/package/libcryptui) | 3012 | 3012 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libfilezilla](/f33/package/libfilezilla) | 23 | 23 | 100.0 |  | 
+ | [libgdata](/f33/package/libgdata) | 695 | 695 | 100.0 | Estonian <> | 
+ | [libgnome](/f33/package/libgnome) | 1773 | 1773 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libgnome-keyring](/f33/package/libgnome-keyring) | 44 | 44 | 100.0 | Estonian <et@li.org> | 
+ | [libgnomecanvas](/f33/package/libgnomecanvas) | 378 | 378 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libgnomekbd](/f33/package/libgnomekbd) | 242 | 242 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libgnomeui](/f33/package/libgnomeui) | 1226 | 1226 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libgtop2](/f33/package/libgtop2) | 126 | 126 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libgweather](/f33/package/libgweather) | 6108 | 6108 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libkdegames](/f33/package/libkdegames) | 370 | 370 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [libkeduvocdocument](/f33/package/libkeduvocdocument) | 171 | 171 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [libkfbapi](/f33/package/libkfbapi) | 42 | 42 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [libkgapi](/f33/package/libkgapi) | 360 | 360 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [libkmahjongg](/f33/package/libkmahjongg) | 7 | 7 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [libmatemixer](/f33/package/libmatemixer) | 242 | 242 | 100.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [libpeas](/f33/package/libpeas) | 105 | 105 | 100.0 | Estonian <> | 
+ | [libsoup](/f33/package/libsoup) | 158 | 158 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [libwnck](/f33/package/libwnck) | 1082 | 1082 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [libwnck3](/f33/package/libwnck3) | 1084 | 1084 | 100.0 | Estonian <> | 
+ | [libxfce4util](/f33/package/libxfce4util) | 424 | 424 | 100.0 | Estonian (http://www.transifex.com/xfce/libxfce4util/language/et/) | 
+ | [lightsoff](/f33/package/lightsoff) | 39 | 39 | 100.0 | Estonian <> | 
+ | [lokalize](/f33/package/lokalize) | 4085 | 4085 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [lskat](/f33/package/lskat) | 254 | 254 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [lxappearance-obconf](/f33/package/lxappearance-obconf) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f33/package/lxdm) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f33/package/lxinput) | 83 | 83 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [lxlauncher](/f33/package/lxlauncher) | 58 | 58 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
+ | [lxmenu-data](/f33/package/lxmenu-data) | 97 | 97 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [lxmusic](/f33/package/lxmusic) | 203 | 203 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
+ | [lxrandr](/f33/package/lxrandr) | 167 | 167 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [lxshortcut](/f33/package/lxshortcut) | 43 | 43 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
+ | [lxtask](/f33/package/lxtask) | 130 | 130 | 100.0 | Gnome Estonian Translation Team <gnome-et linux ee> | 
+ | [lynx](/f33/package/lynx) | 8348 | 8348 | 100.0 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [massif-visualizer](/f33/package/massif-visualizer) | 357 | 357 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [mate-icon-theme](/f33/package/mate-icon-theme) | 4 | 4 | 100.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [mate-menus](/f33/package/mate-menus) | 97 | 97 | 100.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [mbox-importer](/f33/package/mbox-importer) | 40 | 40 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [metacity](/f33/package/metacity) | 2040 | 2040 | 100.0 | Estonian <> | 
+ | [midori](/f33/package/midori) | 3541 | 3541 | 100.0 |  | 
+ | [mingw-atk](/f33/package/mingw-atk) | 398 | 398 | 100.0 | Estonian <> | 
+ | [mingw-gdk-pixbuf](/f33/package/mingw-gdk-pixbuf) | 1360 | 1360 | 100.0 | Estonian <> | 
+ | [mingw-glib-networking](/f33/package/mingw-glib-networking) | 161 | 161 | 100.0 | Estonian <> | 
+ | [mingw-json-glib](/f33/package/mingw-json-glib) | 226 | 226 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [mingw-libsoup](/f33/package/mingw-libsoup) | 158 | 158 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [moodle](/f33/package/moodle) | 52 | 52 | 100.0 | i18n@lists.horde.org | 
+ | [mousetweaks](/f33/package/mousetweaks) | 114 | 114 | 100.0 | Estonian <> | 
+ | [muffin](/f33/package/muffin) | 2071 | 2071 | 100.0 | Estonian <> | 
+ | [nautilus-sendto](/f33/package/nautilus-sendto) | 45 | 45 | 100.0 | Estonian <> | 
+ | [newt](/f33/package/newt) | 4 | 4 | 100.0 | ESTONIAN <linuxiabi@hot.ee> | 
+ | [nghttp2](/f33/package/nghttp2) | 81 | 81 | 100.0 | Estonian (https://www.transifex.com/readthedocs/teams/101354/et/) | 
+ | [notification-daemon](/f33/package/notification-daemon) | 17 | 17 | 100.0 | Estonian <et@li.org> | 
+ | [palapeli](/f33/package/palapeli) | 1512 | 1512 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [parley](/f33/package/parley) | 3850 | 3850 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [pdfmod](/f33/package/pdfmod) | 316 | 316 | 100.0 | Estonian <et@li.org> | 
+ | [php-horde-Horde-Alarm](/f33/package/php-horde-Horde-Alarm) | 13 | 13 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Argv](/f33/package/php-horde-Horde-Argv) | 60 | 60 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Auth](/f33/package/php-horde-Horde-Auth) | 173 | 173 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Browser](/f33/package/php-horde-Horde-Browser) | 66 | 66 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Cli](/f33/package/php-horde-Horde-Cli) | 11 | 11 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Compress](/f33/package/php-horde-Horde-Compress) | 25 | 25 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Core](/f33/package/php-horde-Horde-Core) | 845 | 845 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Crypt](/f33/package/php-horde-Horde-Crypt) | 399 | 399 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Data](/f33/package/php-horde-Horde-Data) | 7 | 7 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Date](/f33/package/php-horde-Horde-Date) | 42 | 42 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Exception](/f33/package/php-horde-Horde-Exception) | 4 | 4 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Form](/f33/package/php-horde-Horde-Form) | 557 | 557 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Icalendar](/f33/package/php-horde-Horde-Icalendar) | 3 | 3 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Imsp](/f33/package/php-horde-Horde-Imsp) | 3 | 3 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Itip](/f33/package/php-horde-Horde-Itip) | 56 | 56 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Kolab-Storage](/f33/package/php-horde-Horde-Kolab-Storage) | 456 | 456 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-LoginTasks](/f33/package/php-horde-Horde-LoginTasks) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime](/f33/package/php-horde-Horde-Mime) | 48 | 48 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Mime-Viewer](/f33/package/php-horde-Horde-Mime-Viewer) | 47 | 47 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Nls](/f33/package/php-horde-Horde-Nls) | 668 | 668 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Perms](/f33/package/php-horde-Horde-Perms) | 6 | 6 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Rpc](/f33/package/php-horde-Horde-Rpc) | 48 | 48 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-SyncMl](/f33/package/php-horde-Horde-SyncMl) | 3 | 3 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Text-Filter](/f33/package/php-horde-Horde-Text-Filter) | 1 | 1 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Token](/f33/package/php-horde-Horde-Token) | 39 | 39 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-Horde-Vfs](/f33/package/php-horde-Horde-Vfs) | 10 | 10 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-horde](/f33/package/php-horde-horde) | 3586 | 3586 | 100.0 | Estonian <dev@lists.horde.org> | 
+ | [php-horde-imp](/f33/package/php-horde-imp) | 6722 | 6722 | 100.0 | Estonian <dev@lists.horde.org> | 
+ | [php-horde-ingo](/f33/package/php-horde-ingo) | 909 | 909 | 100.0 | Estonian <i18n@lists.horde.org> | 
+ | [php-horde-kronolith](/f33/package/php-horde-kronolith) | 3633 | 3633 | 100.0 |  | 
+ | [php-horde-mnemo](/f33/package/php-horde-mnemo) | 536 | 536 | 100.0 | i18n@lists.horde.org | 
+ | [php-horde-nag](/f33/package/php-horde-nag) | 1366 | 1366 | 100.0 |  | 
+ | [php-horde-passwd](/f33/package/php-horde-passwd) | 326 | 326 | 100.0 | Estonian <i18n@lists.horde.org> | 
+ | [php-horde-turba](/f33/package/php-horde-turba) | 1750 | 1750 | 100.0 | Estonian <dev@lists.horde.org> | 
+ | [php-phpmyadmin-sql-parser5](/f33/package/php-phpmyadmin-sql-parser5) | 268 | 268 | 100.0 | Estonian <https://hosted.weblate.org/projects/phpmyadmin/sql-parser/et/> | 
+ | [picmi](/f33/package/picmi) | 200 | 200 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [pim-sieve-editor](/f33/package/pim-sieve-editor) | 441 | 441 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [pitivi](/f33/package/pitivi) | 1706 | 1706 | 100.0 | Estonian <et@li.org> | 
+ | [plank](/f33/package/plank) | 189 | 189 | 100.0 | Estonian <et@li.org> | 
+ | [plasma-breeze](/f33/package/plasma-breeze) | 254 | 254 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-browser-integration](/f33/package/plasma-browser-integration) | 632 | 632 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-discover](/f33/package/plasma-discover) | 1532 | 1532 | 100.0 | Estonian <> | 
+ | [plasma-disks](/f33/package/plasma-disks) | 102 | 102 | 100.0 | Estonian <> | 
+ | [plasma-drkonqi](/f33/package/plasma-drkonqi) | 3966 | 3966 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-integration](/f33/package/plasma-integration) | 58 | 58 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [plasma-mediacenter](/f33/package/plasma-mediacenter) | 172 | 172 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [plasma-milou](/f33/package/plasma-milou) | 20 | 20 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-nm](/f33/package/plasma-nm) | 5275 | 5275 | 100.0 | Estonian <> | 
+ | [plasma-oxygen](/f33/package/plasma-oxygen) | 805 | 805 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-pa](/f33/package/plasma-pa) | 256 | 256 | 100.0 | Estonian <> | 
+ | [plasma-sdk](/f33/package/plasma-sdk) | 883 | 883 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-systemsettings](/f33/package/plasma-systemsettings) | 231 | 231 | 100.0 | Estonian <> | 
+ | [plasma-thunderbolt](/f33/package/plasma-thunderbolt) | 178 | 178 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-user-manager](/f33/package/plasma-user-manager) | 146 | 146 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-vault](/f33/package/plasma-vault) | 824 | 824 | 100.0 | Estonian <> | 
+ | [plasma-workspace](/f33/package/plasma-workspace) | 10788 | 10788 | 100.0 | Estonian <> | 
+ | [plymouth-kcm](/f33/package/plymouth-kcm) | 117 | 117 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [poedit](/f33/package/poedit) | 2916 | 2916 | 100.0 | Estonian | 
+ | [polari](/f33/package/polari) | 806 | 806 | 100.0 | Estonian <gnome-et-list@gnome.org> | 
+ | [polkit-kde](/f33/package/polkit-kde) | 95 | 95 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [powerdevil](/f33/package/powerdevil) | 636 | 636 | 100.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [python-django](/f33/package/python-django) | 3771 | 3771 | 100.0 | Estonian (http://www.transifex.com/django/django/language/et/) | 
+ | [python-django-contrib-comments](/f33/package/python-django-contrib-comments) | 250 | 250 | 100.0 | Estonian (http://www.transifex.com/django/django-contrib-comments/language/et/) | 
+ | [qdigidoc](/f33/package/qdigidoc) | 28 | 28 | 100.0 | Estonian | 
+ | [quadrapassel](/f33/package/quadrapassel) | 325 | 325 | 100.0 | Estonian <> | 
+ | [redhat-menus](/f33/package/redhat-menus) | 253 | 253 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [rsibreak](/f33/package/rsibreak) | 1175 | 1175 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [rygel](/f33/package/rygel) | 669 | 669 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [sddm-kcm](/f33/package/sddm-kcm) | 143 | 143 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [seahorse](/f33/package/seahorse) | 2486 | 2486 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [sed](/f33/package/sed) | 830 | 830 | 100.0 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [skanlite](/f33/package/skanlite) | 183 | 183 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [slick-greeter](/f33/package/slick-greeter) | 211 | 211 | 100.0 | Estonian <et@li.org> | 
+ | [snapper](/f33/package/snapper) | 861 | 861 | 100.0 | Estonian <https://l10n.opensuse.org/projects/snapper/master/et/> | 
+ | [sound-juicer](/f33/package/sound-juicer) | 1134 | 1134 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [soundkonverter](/f33/package/soundkonverter) | 4062 | 4062 | 100.0 | Estonian <> | 
+ | [spectacle](/f33/package/spectacle) | 855 | 855 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [sushi](/f33/package/sushi) | 24 | 24 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [svgpart](/f33/package/svgpart) | 22 | 22 | 100.0 | Estonian <kde-et@linux.ee> | 
+ | [sweeper](/f33/package/sweeper) | 228 | 228 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [swell-foop](/f33/package/swell-foop) | 139 | 139 | 100.0 | Estonian <> | 
+ | [thonny](/f33/package/thonny) | 1490 | 1490 | 100.0 |  | 
+ | [tomboy](/f33/package/tomboy) | 3318 | 3318 | 100.0 | Estonian <> | 
+ | [totem](/f33/package/totem) | 1327 | 1327 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [totem-pl-parser](/f33/package/totem-pl-parser) | 29 | 29 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [vinagre](/f33/package/vinagre) | 1445 | 1445 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [vino](/f33/package/vino) | 1228 | 1228 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [vte](/f33/package/vte) | 80 | 80 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [vte291](/f33/package/vte291) | 80 | 80 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [xdg-desktop-portal-kde](/f33/package/xdg-desktop-portal-kde) | 141 | 141 | 100.0 | Estonian <> | 
+ | [xdg-user-dirs](/f33/package/xdg-user-dirs) | 28 | 28 | 100.0 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [xdg-user-dirs-gtk](/f33/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [xfce4-dict](/f33/package/xfce4-dict) | 529 | 529 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
+ | [xfce4-eyes-plugin](/f33/package/xfce4-eyes-plugin) | 16 | 16 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-panel-plugins/language/et/) | 
+ | [xfce4-notifyd](/f33/package/xfce4-notifyd) | 325 | 325 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
+ | [xfce4-terminal](/f33/package/xfce4-terminal) | 1725 | 1725 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
+ | [xfce4-time-out-plugin](/f33/package/xfce4-time-out-plugin) | 106 | 106 | 100.0 | Estonian (http://www.transifex.com/xfce/xfce-panel-plugins/language/et/) | 
+ | [xfdesktop](/f33/package/xfdesktop) | 1037 | 1037 | 100.0 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
+ | [yakuake](/f33/package/yakuake) | 1614 | 1614 | 100.0 | Estonian <> | 
+ | [yelp](/f33/package/yelp) | 507 | 507 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [yelp-xsl](/f33/package/yelp-xsl) | 81 | 81 | 100.0 | Estonian <> | 
+ | [zanshin](/f33/package/zanshin) | 507 | 507 | 100.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [zenity](/f33/package/zenity) | 783 | 783 | 100.0 | Estonian <gnome-et@linux.ee> | 
+ | [xed](/f33/package/xed) | 4640 | 4642 | 100.0 | Estonian (http://www.transifex.com/projects/p/MATE/language/et/) | 
+ | [kid3](/f33/package/kid3) | 3132 | 3134 | 99.9 | Estonian <> | 
+ | [dolphin](/f33/package/dolphin) | 4536 | 4539 | 99.9 | Estonian <> | 
+ | [kmplayer](/f33/package/kmplayer) | 1248 | 1249 | 99.9 | Estonian <kde-et@linux.ee> | 
+ | [kde-l10n](/f33/package/kde-l10n) | 105071 | 105160 | 99.9 | Estonian <kde-et@linux.ee> | 
+ | [kgeography](/f33/package/kgeography) | 9660 | 9670 | 99.9 | Estonian <kde-et@lists.linux.ee> | 
+ | [nautilus](/f33/package/nautilus) | 6236 | 6243 | 99.9 | Estonian <gnome-et@linux.ee> | 
+ | [kalarm](/f33/package/kalarm) | 7829 | 7838 | 99.9 | Estonian <kde-et@lists.linux.ee> | 
+ | [kopete](/f33/package/kopete) | 18405 | 18427 | 99.9 | Estonian <kde-et@linux.ee> | 
+ | [arduino](/f33/package/arduino) | 3197 | 3204 | 99.8 | Estonian (http://www.transifex.com/mbanzi/arduino-ide-15/language/et/) | 
+ | [kolourpaint](/f33/package/kolourpaint) | 2558 | 2564 | 99.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [plasma-desktop](/f33/package/plasma-desktop) | 8281 | 8303 | 99.7 | Estonian <kde-et@lists.linux.ee> | 
+ | [okteta](/f33/package/okteta) | 2531 | 2538 | 99.7 | Estonian <kde-et@linux.ee> | 
+ | [blogilo](/f33/package/blogilo) | 1388 | 1392 | 99.7 | Estonian <kde-et@linux.ee> | 
+ | [isomaster](/f33/package/isomaster) | 672 | 674 | 99.7 | Edmund Laugasson <edmund.laugasson@eesti.ee> | 
+ | [tin](/f33/package/tin) | 11227 | 11261 | 99.7 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [kdepim-addons](/f33/package/kdepim-addons) | 4381 | 4396 | 99.7 | Estonian <kde-et@linux.ee> | 
+ | [krecipes](/f33/package/krecipes) | 3633 | 3646 | 99.6 | Estonian <kde-et@linux.ee> | 
+ | [scratch](/f33/package/scratch) | 1464 | 1470 | 99.6 | LANGUAGE <LL@li.org> | 
+ | [net-tools](/f33/package/net-tools) | 2439 | 2449 | 99.6 | Estonian <linux-ee@eenet.ee> | 
+ | [kbibtex](/f33/package/kbibtex) | 2470 | 2481 | 99.6 | Estonian <kde-et@linux.ee> | 
+ | [kio-extras](/f33/package/kio-extras) | 1070 | 1075 | 99.5 | Estonian <kde-et@linux.ee> | 
+ | [kdiff3](/f33/package/kdiff3) | 3585 | 3602 | 99.5 | Estonian <> | 
+ | [xfce4-settings](/f33/package/xfce4-settings) | 1929 | 1940 | 99.4 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
+ | [kde-connect](/f33/package/kde-connect) | 1203 | 1210 | 99.4 | Estonian <kde-et@lists.linux.ee> | 
+ | [libksysguard](/f33/package/libksysguard) | 4043 | 4067 | 99.4 | Estonian <> | 
+ | [kBuild](/f33/package/kBuild) | 502 | 505 | 99.4 | Estonian <et@li.org> | 
+ | [kuserfeedback](/f33/package/kuserfeedback) | 1141 | 1148 | 99.4 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kwidgetsaddons](/f33/package/kf5-kwidgetsaddons) | 1273 | 1282 | 99.3 | Estonian <> | 
+ | [marble](/f33/package/marble) | 11394 | 11476 | 99.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-plasma](/f33/package/kf5-plasma) | 507 | 511 | 99.2 | Estonian <> | 
+ | [kde-print-manager](/f33/package/kde-print-manager) | 982 | 990 | 99.2 | Estonian <kde-et@lists.linux.ee> | 
+ | [ark](/f33/package/ark) | 1901 | 1917 | 99.2 | Estonian <kde-et@lists.linux.ee> | 
+ | [libmateweather](/f33/package/libmateweather) | 6086 | 6142 | 99.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [kmail](/f33/package/kmail) | 8879 | 8961 | 99.1 | Estonian <kde-et@lists.linux.ee> | 
+ | [calligra](/f33/package/calligra) | 35607 | 35952 | 99.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kio](/f33/package/kf5-kio) | 12349 | 12470 | 99.0 | Estonian <> | 
+ | [kmail-account-wizard](/f33/package/kmail-account-wizard) | 808 | 816 | 99.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-kpackage](/f33/package/kf5-kpackage) | 499 | 504 | 99.0 | Estonian <> | 
+ | [debconf](/f33/package/debconf) | 189 | 191 | 99.0 | Eesti | 
+ | [python-nikola](/f33/package/python-nikola) | 93 | 94 | 98.9 | Estonian (http://www.transifex.com/ralsina/nikola/language/et/) | 
+ | [rocs](/f33/package/rocs) | 1435 | 1452 | 98.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [clementine](/f33/package/clementine) | 5188 | 5251 | 98.8 | Estonian (http://www.transifex.com/davidsansome/clementine/language/et/) | 
+ | [smb4k](/f33/package/smb4k) | 5970 | 6046 | 98.7 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-messagelib](/f33/package/kf5-messagelib) | 8001 | 8105 | 98.7 | Estonian <kde-et@lists.linux.ee> | 
+ | [kdevelop-php](/f33/package/kdevelop-php) | 522 | 529 | 98.7 | Estonian <kde-et@lists.linux.ee> | 
+ | [konsole5](/f33/package/konsole5) | 2999 | 3042 | 98.6 | Estonian <> | 
+ | [xreader](/f33/package/xreader) | 1668 | 1693 | 98.5 | Estonian (http://www.transifex.com/mate/MATE/language/et/) | 
+ | [kf5-kalarmcal](/f33/package/kf5-kalarmcal) | 198 | 201 | 98.5 | Estonian <kde-et@lists.linux.ee> | 
+ | [kate](/f33/package/kate) | 5940 | 6039 | 98.4 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kf5-ktexteditor](/f33/package/kf5-ktexteditor) | 8608 | 8772 | 98.1 | Estonian <> | 
+ | [rhythmbox](/f33/package/rhythmbox) | 5003 | 5108 | 97.9 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-panel](/f33/package/gnome-panel) | 3447 | 3520 | 97.9 | Estonian <> | 
+ | [kf5-kirigami2](/f33/package/kf5-kirigami2) | 46 | 47 | 97.9 | Estonian <> | 
+ | [tellico](/f33/package/tellico) | 5732 | 5858 | 97.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [gwenview](/f33/package/gwenview) | 1524 | 1559 | 97.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [mozo](/f33/package/mozo) | 42 | 43 | 97.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [seahorse-caja](/f33/package/seahorse-caja) | 411 | 421 | 97.6 | Estonian <gnome-et@linux.ee> | 
+ | [seahorse-nautilus](/f33/package/seahorse-nautilus) | 411 | 421 | 97.6 | Estonian <gnome-et@linux.ee> | 
+ | [kxstitch](/f33/package/kxstitch) | 1966 | 2014 | 97.6 | Estonian <kde-i18n-doc@kde.org> | 
+ | [ksnakeduel](/f33/package/ksnakeduel) | 231 | 237 | 97.5 | Estonian <kde-et@linux.ee> | 
+ | [kmymoney](/f33/package/kmymoney) | 21242 | 21824 | 97.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [lxsession](/f33/package/lxsession) | 734 | 755 | 97.2 | Gnome Estonian Translation Team <gnome-et@linux.ee> | 
+ | [kphotoalbum](/f33/package/kphotoalbum) | 9201 | 9473 | 97.1 | Estonian <kde-et@lists.linux.ee> | 
+ | [wget](/f33/package/wget) | 3948 | 4070 | 97.0 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [kf5-purpose](/f33/package/kf5-purpose) | 254 | 262 | 96.9 | Estonian <kde-et@lists.linux.ee> | 
+ | [kmix](/f33/package/kmix) | 895 | 924 | 96.9 | Estonian <kde-et@lists.linux.ee> | 
+ | [mate-screensaver](/f33/package/mate-screensaver) | 986 | 1020 | 96.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [nemo-extensions](/f33/package/nemo-extensions) | 285 | 295 | 96.6 | eesti <et@li.org> | 
+ | [wdiff](/f33/package/wdiff) | 959 | 993 | 96.6 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [lightdm-settings](/f33/package/lightdm-settings) | 310 | 321 | 96.6 | Estonian <et@li.org> | 
+ | [choqok](/f33/package/choqok) | 2265 | 2350 | 96.4 | Estonian <kde-et@lists.linux.ee> | 
+ | [clipit](/f33/package/clipit) | 210 | 218 | 96.3 | Estonian (Estonia) (http://www.transifex.net/projects/p/clipit/language/et_EE/) | 
+ | [grep](/f33/package/grep) | 834 | 866 | 96.3 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [kbrickbuster](/f33/package/kbrickbuster) | 146 | 152 | 96.1 | Estonian <kde-et@linux.ee> | 
+ | [mc](/f33/package/mc) | 4109 | 4289 | 95.8 | Estonian (http://www.transifex.com/mc/mc/language/et/) | 
+ | [tar](/f33/package/tar) | 3484 | 3656 | 95.3 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [kiten](/f33/package/kiten) | 622 | 653 | 95.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [gthumb](/f33/package/gthumb) | 3521 | 3697 | 95.2 | Estonian <gnome-et@linux.ee> | 
+ | [kf5-libksane](/f33/package/kf5-libksane) | 276 | 290 | 95.2 | Estonian <kde-et@lists.linux.ee> | 
+ | [konqueror](/f33/package/konqueror) | 7911 | 8327 | 95.0 | Estonian <kde-i18n-doc@kde.org> | 
+ | [skrooge](/f33/package/skrooge) | 11452 | 12058 | 95.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [pim-data-exporter](/f33/package/pim-data-exporter) | 772 | 813 | 95.0 | Estonian <kde-et@lists.linux.ee> | 
+ | [openbox](/f33/package/openbox) | 479 | 506 | 94.7 | Estonian <et@li.org> | 
+ | [bison](/f33/package/bison) | 1606 | 1697 | 94.6 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [kile](/f33/package/kile) | 12292 | 12994 | 94.6 | Estonian <kde-et@linux.ee> | 
+ | [xapps](/f33/package/xapps) | 69 | 73 | 94.5 | Estonian <et@li.org> | 
+ | [sharutils](/f33/package/sharutils) | 2974 | 3147 | 94.5 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [kapptemplate](/f33/package/kapptemplate) | 257 | 272 | 94.5 | Estonian <kde-et@lists.linux.ee> | 
+ | [okular](/f33/package/okular) | 5047 | 5344 | 94.4 | Estonian <kde-et@lists.linux.ee> | 
+ | [kf5-syntax-highlighting](/f33/package/kf5-syntax-highlighting) | 568 | 604 | 94.0 | Estonian <> | 
+ | [coreutils](/f33/package/coreutils) | 19924 | 21194 | 94.0 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [shotwell](/f33/package/shotwell) | 4278 | 4553 | 94.0 | Estonian (http://www.transifex.com/projects/p/shotwell/language/et/) | 
+ | [mate-media](/f33/package/mate-media) | 224 | 239 | 93.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [pyhoca-gui](/f33/package/pyhoca-gui) | 1745 | 1865 | 93.6 | Estonia <x2go-i18n@lists.x2go.org> | 
+ | [python-flask-admin](/f33/package/python-flask-admin) | 343 | 367 | 93.5 | Estonian | 
+ | [kwebkitpart](/f33/package/kwebkitpart) | 624 | 669 | 93.3 | Estonian <kde-et@linux.ee> | 
+ | [obconf](/f33/package/obconf) | 686 | 738 | 93.0 | Estonian <et@li.org> | 
+ | [lxappearance](/f33/package/lxappearance) | 217 | 234 | 92.7 | LANGUAGE <LL@li.org> | 
+ | [xmms](/f33/package/xmms) | 3177 | 3443 | 92.3 | Estonian <kde-et@linux.ee> | 
+ | [qtwebkit](/f33/package/qtwebkit) | 991 | 1074 | 92.3 | Estonian <gnome-et@linux.ee> | 
+ | [tracker](/f33/package/tracker) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
+ | [tracker-miners](/f33/package/tracker-miners) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
+ | [tracker3](/f33/package/tracker3) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
+ | [tracker3-miners](/f33/package/tracker3-miners) | 1959 | 2126 | 92.1 | Estonian <gnome-et@linux.ee> | 
+ | [calligraplan](/f33/package/calligraplan) | 9097 | 9943 | 91.5 | Estonian <kde-et@lists.linux.ee> | 
+ | [python-wtforms](/f33/package/python-wtforms) | 183 | 202 | 90.6 | Estonian <kde-i18n-doc@kde.org> | 
+ | [kpmcore](/f33/package/kpmcore) | 2921 | 3226 | 90.5 | Estonian <kde-et@lists.linux.ee> | 
+ | [xfce4-panel](/f33/package/xfce4-panel) | 1529 | 1691 | 90.4 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
+ | [mingw-libcharset](/f33/package/mingw-libcharset) | 303 | 336 | 90.2 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [switchboard-plug-notifications](/f33/package/switchboard-plug-notifications) | 128 | 142 | 90.1 | LANGUAGE <LL@li.org> | 
+ | [exo](/f33/package/exo) | 1306 | 1454 | 89.8 | Estonian (http://www.transifex.com/xfce/exo/language/et/) | 
+ | [audacious](/f33/package/audacious) | 769 | 859 | 89.5 | Estonian (http://www.transifex.com/audacious/audacious/language/et/) | 
+ | [krita](/f33/package/krita) | 24914 | 27841 | 89.5 | Estonian <kde-et@lists.linux.ee> | 
+ | [caja-extensions](/f33/package/caja-extensions) | 600 | 671 | 89.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [garcon](/f33/package/garcon) | 109 | 122 | 89.3 | Estonian (http://www.transifex.com/xfce/garcon/language/et/) | 
+ | [libkomparediff2](/f33/package/libkomparediff2) | 127 | 143 | 88.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [switchboard-plug-sharing](/f33/package/switchboard-plug-sharing) | 124 | 140 | 88.6 | Estonian <et@li.org> | 
+ | [caja](/f33/package/caja) | 8504 | 9625 | 88.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 20328 | 23046 | 88.2 | Estonian <et@li.org> | 
+ | [switchboard-plug-onlineaccounts](/f33/package/switchboard-plug-onlineaccounts) | 141 | 160 | 88.1 | Estonian <et@li.org> | 
+ | [digikam](/f33/package/digikam) | 45138 | 51358 | 87.9 | Estonian <kde-et@lists.linux.ee> | 
+ | [bleachbit](/f33/package/bleachbit) | 973 | 1112 | 87.5 | Estonian <et@li.org> | 
+ | [system-config-printer](/f33/package/system-config-printer) | 3030 | 3465 | 87.4 | Estonian (http://www.transifex.com/projects/p/system-config-printer/language/et/) | 
+ | [gnome-control-center](/f33/package/gnome-control-center) | 5427 | 6219 | 87.3 | Estonian | 
+ | [libzypp](/f33/package/libzypp) | 2358 | 2714 | 86.9 | Estonian <https://l10n.opensuse.org/projects/libzypp/master/et/> | 
+ | [mate-notification-daemon](/f33/package/mate-notification-daemon) | 132 | 152 | 86.8 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [gnome-extensions-app](/f33/package/gnome-extensions-app) | 1691 | 1950 | 86.7 | Estonian <> | 
+ | [gnome-shell](/f33/package/gnome-shell) | 1691 | 1950 | 86.7 | Estonian <> | 
+ | [plasma-pass](/f33/package/plasma-pass) | 26 | 30 | 86.7 | Estonian <kde-et@lists.linux.ee> | 
+ | [thunar-vfs](/f33/package/thunar-vfs) | 335 | 387 | 86.6 | Estonian <xfce-18n@xfce.org> | 
+ | [tryton](/f33/package/tryton) | 719 | 835 | 86.1 |  | 
+ | [python-caja](/f33/package/python-caja) | 6 | 7 | 85.7 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [kf5-knewstuff](/f33/package/kf5-knewstuff) | 1401 | 1636 | 85.6 | Estonian <> | 
+ | [setuptool](/f33/package/setuptool) | 47 | 55 | 85.5 | Eesti | 
+ | [amarok](/f33/package/amarok) | 13466 | 15819 | 85.1 | Estonian <kde-et@linux.ee> | 
+ | [mate-polkit](/f33/package/mate-polkit) | 104 | 123 | 84.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [gnome-shell-extensions](/f33/package/gnome-shell-extensions) | 211 | 251 | 84.1 | Estonian <gnome-et-list@gnome.org> | 
+ | [python-django-rest-framework](/f33/package/python-django-rest-framework) | 489 | 582 | 84.0 | Estonian (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/et/) | 
+ | [chkconfig](/f33/package/chkconfig) | 479 | 573 | 83.6 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [python-sphinxcontrib-devhelp](/f33/package/python-sphinxcontrib-devhelp) | 15 | 18 | 83.3 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
+ | [kf5-pimcommon](/f33/package/kf5-pimcommon) | 1044 | 1255 | 83.2 | Estonian <kde-et@lists.linux.ee> | 
+ | [libmatekbd](/f33/package/libmatekbd) | 256 | 308 | 83.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [findutils](/f33/package/findutils) | 2163 | 2634 | 82.1 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [rekonq](/f33/package/rekonq) | 1802 | 2202 | 81.8 | Estonian <kde-et@linux.ee> | 
+ | [mate-settings-daemon](/f33/package/mate-settings-daemon) | 1786 | 2197 | 81.3 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [fragments](/f33/package/fragments) | 1622 | 2006 | 80.9 | Estonian (https://www.transifex.com/transmissionbt/teams/33778/et/) | 
+ | [transmission](/f33/package/transmission) | 1615 | 1998 | 80.8 | Estonian (https://www.transifex.com/transmissionbt/teams/33778/et/) | 
+ | [gtk2-engines](/f33/package/gtk2-engines) | 80 | 99 | 80.8 | Estonian <gnome-et@linux.ee> | 
+ | [gtksourceview2](/f33/package/gtksourceview2) | 1121 | 1413 | 79.3 | Estonian <gnome-et@linux.ee> | 
+ | [libreoffice](/f33/package/libreoffice) | 466776 | 590651 | 79.0 | LANGUAGE <LL@li.org> | 
+ | [gparted](/f33/package/gparted) | 1416 | 1801 | 78.6 | Estonian <et@li.org> | 
+ | [marco](/f33/package/marco) | 3410 | 4339 | 78.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [mate-backgrounds](/f33/package/mate-backgrounds) | 51 | 65 | 78.5 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [kstars](/f33/package/kstars) | 48870 | 62342 | 78.4 | Estonian <kde-et@lists.linux.ee> | 
+ | [aisleriot](/f33/package/aisleriot) | 1557 | 1987 | 78.4 | Estonian <gnome-et@linux.ee> | 
+ | [lightdm-gtk](/f33/package/lightdm-gtk) | 68 | 87 | 78.2 | Estonian <et@li.org> | 
+ | [gtksourceview4](/f33/package/gtksourceview4) | 1155 | 1485 | 77.8 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-do](/f33/package/gnome-do) | 473 | 612 | 77.3 | Estonian <et@li.org> | 
+ | [tali](/f33/package/tali) | 323 | 421 | 76.7 | Estonian <> | 
+ | [mate-session-manager](/f33/package/mate-session-manager) | 545 | 712 | 76.5 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [rkward](/f33/package/rkward) | 27524 | 36057 | 76.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [warzone2100](/f33/package/warzone2100) | 10275 | 13461 | 76.3 | Estonian <ee@li.org> | 
+ | [cantor](/f33/package/cantor) | 2776 | 3640 | 76.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [mate-desktop](/f33/package/mate-desktop) | 1689 | 2224 | 75.9 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [gedit-plugins](/f33/package/gedit-plugins) | 908 | 1205 | 75.4 | Estonian <gnome-et linux.ee> | 
+ | [krusader](/f33/package/krusader) | 5964 | 7929 | 75.2 | Estonian <kde-et@linux.ee> | 
+ | [gimp](/f33/package/gimp) | 20230 | 26963 | 75.0 | Estonian <gnome-et@linux.ee> | 
+ | [xfwm4](/f33/package/xfwm4) | 474 | 632 | 75.0 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
+ | [kgraphviewer](/f33/package/kgraphviewer) | 902 | 1205 | 74.9 | Estonian <kde-et@linux.ee> | 
+ | [deluge](/f33/package/deluge) | 1950 | 2616 | 74.5 | Estonian <et@li.org> | 
+ | [colord-kde](/f33/package/colord-kde) | 273 | 369 | 74.0 | Estonian <kde-et@linux.ee> | 
+ | [po4a](/f33/package/po4a) | 1734 | 2346 | 73.9 | Estonian <https://hosted.weblate.org/projects/po4a/po4a/et/> | 
+ | [workrave](/f33/package/workrave) | 1030 | 1398 | 73.7 | Marko Väljaots <aatomik@hotmail.com> | 
+ | [wingpanel-indicator-power](/f33/package/wingpanel-indicator-power) | 86 | 117 | 73.5 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f33/package/mate-menu) | 226 | 308 | 73.4 | Estonian (http://www.transifex.com/mate/MATE/language/et/) | 
+ | [mailman](/f33/package/mailman) | 17923 | 24451 | 73.3 | Estonian <et@li.org> | 
+ | [kjots](/f33/package/kjots) | 476 | 651 | 73.1 | Estonian <kde-et@lists.linux.ee> | 
+ | [freedink](/f33/package/freedink) | 51 | 70 | 72.9 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [man-db](/f33/package/man-db) | 150 | 206 | 72.8 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [switchboard-plug-a11y](/f33/package/switchboard-plug-a11y) | 91 | 125 | 72.8 | LANGUAGE <LL@li.org> | 
+ | [elementary-music](/f33/package/elementary-music) | 951 | 1308 | 72.7 | Estonian <et@li.org> | 
+ | [renameutils](/f33/package/renameutils) | 191 | 265 | 72.1 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [pidgin](/f33/package/pidgin) | 11334 | 15835 | 71.6 | Estonian (http://www.transifex.com/pidgin/pidgin/language/et/) | 
+ | [gnome-online-accounts](/f33/package/gnome-online-accounts) | 445 | 628 | 70.9 | Estonian <> | 
+ | [ktuberling](/f33/package/ktuberling) | 111 | 158 | 70.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [elisa-player](/f33/package/elisa-player) | 323 | 463 | 69.8 | Estonian <> | 
+ | [killbots](/f33/package/killbots) | 444 | 637 | 69.7 | Estonian <kde-et@lists.linux.ee> | 
+ | [audex](/f33/package/audex) | 2328 | 3347 | 69.6 | Estonian <kde-et@linux.ee> | 
+ | [php-horde-Horde-Prefs](/f33/package/php-horde-Horde-Prefs) | 22 | 32 | 68.8 | i18n@lists.horde.org | 
+ | [dragon](/f33/package/dragon) | 192 | 281 | 68.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [GConf2](/f33/package/GConf2) | 2728 | 4014 | 68.0 | Estonian <gnome-et@linux.ee> | 
+ | [mingw-GConf2](/f33/package/mingw-GConf2) | 2728 | 4014 | 68.0 | Estonian <gnome-et@linux.ee> | 
+ | [gmpc](/f33/package/gmpc) | 1002 | 1478 | 67.8 | Estonian <et@li.org> | 
+ | [wingpanel-applications-menu](/f33/package/wingpanel-applications-menu) | 199 | 294 | 67.7 | Estonian <https://weblate.elementary.io/projects/wingpanel/applications-menu/et/> | 
+ | [wingpanel-indicator-session](/f33/package/wingpanel-indicator-session) | 54 | 81 | 66.7 | Estonian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-session/et/> | 
+ | [kf5-kcoreaddons](/f33/package/kf5-kcoreaddons) | 328 | 495 | 66.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [hello](/f33/package/hello) | 123 | 186 | 66.1 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [python-formencode](/f33/package/python-formencode) | 534 | 813 | 65.7 | ESTONIAN <ET@li.org> | 
+ | [trac](/f33/package/trac) | 5350 | 8152 | 65.6 | Estonian (http://www.transifex.com/projects/p/trac/language/et/) | 
+ | [elementary-photos](/f33/package/elementary-photos) | 2549 | 3910 | 65.2 | Estonian (http://www.transifex.com/projects/p/shotwell/language/et/) | 
+ | [step](/f33/package/step) | 2488 | 3817 | 65.2 | Estonian <kde-et@lists.linux.ee> | 
+ | [orage](/f33/package/orage) | 1689 | 2601 | 64.9 | Estonian (http://www.transifex.com/projects/p/xfce/language/et/) | 
+ | [libuser](/f33/package/libuser) | 923 | 1437 | 64.2 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [switchboard-plug-networking](/f33/package/switchboard-plug-networking) | 303 | 474 | 63.9 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-networking/et/> | 
+ | [ktp-contact-list](/f33/package/ktp-contact-list) | 428 | 680 | 62.9 | Estonian <kde-et@lists.linux.ee> | 
+ | [elementary-screenshot-tool](/f33/package/elementary-screenshot-tool) | 132 | 212 | 62.3 | Estonian <et@li.org> | 
+ | [mate-panel](/f33/package/mate-panel) | 4175 | 6727 | 62.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [picard](/f33/package/picard) | 6828 | 11040 | 61.8 | Estonian (http://www.transifex.com/musicbrainz/musicbrainz/language/et/) | 
+ | [initscripts](/f33/package/initscripts) | 670 | 1118 | 59.9 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [simple-scan](/f33/package/simple-scan) | 349 | 589 | 59.3 | Estonian <et@li.org> | 
+ | [mutter](/f33/package/mutter) | 627 | 1085 | 57.8 | Estonian <> | 
+ | [blueman](/f33/package/blueman) | 1073 | 1857 | 57.8 | Estonian <https://hosted.weblate.org/projects/blueman/2-2/et/> | 
+ | [elementary-calculator](/f33/package/elementary-calculator) | 75 | 130 | 57.7 | LANGUAGE <LL@li.org> | 
+ | [kexi](/f33/package/kexi) | 4249 | 7365 | 57.7 | Estonian <kde-et@linux.ee> | 
+ | [tuxpaint](/f33/package/tuxpaint) | 955 | 1662 | 57.5 | Estonian (http://www.transifex.com/projects/p/doudoulinux/language/et/) | 
+ | [geary](/f33/package/geary) | 626 | 1101 | 56.9 | Estonian (http://www.transifex.com/projects/p/geary/language/et/) | 
+ | [wesnoth](/f33/package/wesnoth) | 168767 | 299283 | 56.4 | Kaido Kikkas <kakk@kakupesa.net> | 
+ | [kdevelop](/f33/package/kdevelop) | 8606 | 15296 | 56.3 | Estonian <kde-et@lists.linux.ee> | 
+ | [switchboard-plug-printers](/f33/package/switchboard-plug-printers) | 202 | 362 | 55.8 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-printers/et/> | 
+ | [avahi](/f33/package/avahi) | 477 | 868 | 55.0 | Estonian (http://www.transifex.com/lennart/avahi/language/et/) | 
+ | [squirrelmail](/f33/package/squirrelmail) | 3169 | 5770 | 54.9 | Estonian <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [mate-terminal](/f33/package/mate-terminal) | 4572 | 8372 | 54.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [switchboard-plug-pantheon-shell](/f33/package/switchboard-plug-pantheon-shell) | 98 | 181 | 54.1 | Estonian <et@li.org> | 
+ | [gtk2](/f33/package/gtk2) | 6595 | 12379 | 53.3 | Estonian <gnome-et@linux.ee> | 
+ | [mingw-gtk2](/f33/package/mingw-gtk2) | 6595 | 12379 | 53.3 | Estonian <gnome-et@linux.ee> | 
+ | [chrome-gnome-shell](/f33/package/chrome-gnome-shell) | 162 | 313 | 51.8 | Estonian <gnome-et-list@gnome.org> | 
+ | [gnupg1](/f33/package/gnupg1) | 4440 | 8640 | 51.4 | Estonian <et@li.org> | 
+ | [mutt](/f33/package/mutt) | 3330 | 6561 | 50.8 | Estonian <et@li.org> | 
+ | [gtk-murrine-engine](/f33/package/gtk-murrine-engine) | 68 | 134 | 50.7 | Estonian <gnome-et@linux.ee> | 
+ | [hexchat](/f33/package/hexchat) | 2996 | 5971 | 50.2 | Estonian (http://www.transifex.com/hexchat/hexchat/language/et/) | 
+ | [python-django-formtools](/f33/package/python-django-formtools) | 16 | 32 | 50.0 | Estonian (http://www.transifex.com/projects/p/django-formtools/language/et/) | 
+ | [minuet](/f33/package/minuet) | 205 | 412 | 49.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [xfce4-power-manager](/f33/package/xfce4-power-manager) | 514 | 1046 | 49.1 | Estonian (http://www.transifex.com/xfce/xfce4-power-manager/language/et/) | 
+ | [mate-themes](/f33/package/mate-themes) | 36 | 74 | 48.6 | Estonian (http://www.transifex.com/mate/MATE/language/et/) | 
+ | [ktp-kded-integration-module](/f33/package/ktp-kded-integration-module) | 238 | 490 | 48.6 | Estonian <kde-et@lists.linux.ee> | 
+ | [catfish](/f33/package/catfish) | 508 | 1047 | 48.5 | Estonian (https://www.transifex.com/xfce/teams/16840/et/) | 
+ | [sylpheed](/f33/package/sylpheed) | 3478 | 7214 | 48.2 | Estonian <et@li.org> | 
+ | [elementary-calendar](/f33/package/elementary-calendar) | 335 | 703 | 47.7 | Estonian <et@li.org> | 
+ | [switchboard-plug-keyboard](/f33/package/switchboard-plug-keyboard) | 251 | 530 | 47.4 | Estonian <et@li.org> | 
+ | [geany](/f33/package/geany) | 2851 | 6069 | 47.0 | Estonian | 
+ | [mlocate](/f33/package/mlocate) | 270 | 581 | 46.5 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [wingpanel-indicator-network](/f33/package/wingpanel-indicator-network) | 45 | 97 | 46.4 | Estonian <https://l10n.elementary.io/projects/wingpanel/wingpanel-indicator-network/et/> | 
+ | [audacious-plugins](/f33/package/audacious-plugins) | 1971 | 4254 | 46.3 | Estonian (http://www.transifex.com/audacious/audacious/language/et/) | 
+ | [warmux](/f33/package/warmux) | 1271 | 2744 | 46.3 | Estonian <et@li.org> | 
+ | [xpad](/f33/package/xpad) | 191 | 413 | 46.2 | Estonian <et@li.org> | 
+ | [exaile](/f33/package/exaile) | 1875 | 4067 | 46.1 | Estonian <https://hosted.weblate.org/projects/exaile/master/et/> | 
+ | [balsa](/f33/package/balsa) | 2376 | 5348 | 44.4 | <gnome-et@linux.ee> | 
+ | [libnma](/f33/package/libnma) | 402 | 917 | 43.8 | Estonian <> | 
+ | [kirigami-gallery](/f33/package/kirigami-gallery) | 375 | 856 | 43.8 | Estonian <kde-et@lists.linux.ee> | 
+ | [switchboard-plug-about](/f33/package/switchboard-plug-about) | 41 | 96 | 42.7 | Estonian <et@li.org> | 
+ | [shutter](/f33/package/shutter) | 1319 | 3093 | 42.6 | Estonian <et@li.org> | 
+ | [mate-power-manager](/f33/package/mate-power-manager) | 2190 | 5139 | 42.6 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [mate-calc](/f33/package/mate-calc) | 1349 | 3178 | 42.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [wingpanel-indicator-notifications](/f33/package/wingpanel-indicator-notifications) | 16 | 38 | 42.1 | LANGUAGE <LL@li.org> | 
+ | [soundconverter](/f33/package/soundconverter) | 212 | 507 | 41.8 | Estonian <et@li.org> | 
+ | [elementary-files](/f33/package/elementary-files) | 1198 | 2911 | 41.2 | Estonian <et@li.org> | 
+ | [switchboard-plug-applications](/f33/package/switchboard-plug-applications) | 39 | 95 | 41.1 | LANGUAGE <LL@li.org> | 
+ | [playonlinux](/f33/package/playonlinux) | 1116 | 2728 | 40.9 | Estonian <et@li.org> | 
+ | [kaccounts-integration](/f33/package/kaccounts-integration) | 67 | 165 | 40.6 | Estonian <kde-et@lists.linux.ee> | 
+ | [glib2](/f33/package/glib2) | 2825 | 7036 | 40.2 | Estonian <gnome-et@linux.ee> | 
+ | [mingw-glib2](/f33/package/mingw-glib2) | 2825 | 7036 | 40.2 | Estonian <gnome-et@linux.ee> | 
+ | [xfce4-appfinder](/f33/package/xfce4-appfinder) | 163 | 406 | 40.1 | Estonian (http://www.transifex.com/xfce/xfce4-appfinder/language/et/) | 
+ | [sugar-stopwatch](/f33/package/sugar-stopwatch) | 2 | 5 | 40.0 | LANGUAGE <LL@li.org> | 
+ | [rt](/f33/package/rt) | 4727 | 11843 | 39.9 | Estonian <et@li.org> | 
+ | [cinnamon-control-center](/f33/package/cinnamon-control-center) | 521 | 1313 | 39.7 | Estonian | 
+ | [kompare](/f33/package/kompare) | 566 | 1430 | 39.6 | Estonian <kde-et@lists.linux.ee> | 
+ | [atril](/f33/package/atril) | 1515 | 3846 | 39.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [wingpanel-indicator-nightlight](/f33/package/wingpanel-indicator-nightlight) | 12 | 31 | 38.7 | Estonian <https://weblate.elementary.io/projects/wingpanel/indicator-nightlight/et/> | 
+ | [chromium](/f33/package/chromium) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
+ | [gtk3](/f33/package/gtk3) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
+ | [gtk4](/f33/package/gtk4) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
+ | [mingw-gtk3](/f33/package/mingw-gtk3) | 6186 | 16036 | 38.6 | Estonian <gnome-et@linux.ee> | 
+ | [python-sphinx](/f33/package/python-sphinx) | 1762 | 4581 | 38.5 | Estonian (http://www.transifex.com/sphinx-doc/sphinx-1/language/et/) | 
+ | [xfce4-screenshooter](/f33/package/xfce4-screenshooter) | 170 | 443 | 38.4 |  | 
+ | [sugar-toolkit-gtk3](/f33/package/sugar-toolkit-gtk3) | 81 | 213 | 38.0 | LANGUAGE <LL@li.org> | 
+ | [php-horde-Horde-Share](/f33/package/php-horde-Horde-Share) | 18 | 48 | 37.5 | i18n@lists.horde.org | 
+ | [webkit2gtk3](/f33/package/webkit2gtk3) | 969 | 2623 | 36.9 | Estonian <gnome-et@linux.ee> | 
+ | [wingpanel-indicator-bluetooth](/f33/package/wingpanel-indicator-bluetooth) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [glade](/f33/package/glade) | 1469 | 4039 | 36.4 | Estonian <gnome-et@linux.ee> | 
+ | [switchboard](/f33/package/switchboard) | 45 | 124 | 36.3 | Estonian <et@li.org> | 
+ | [dialog](/f33/package/dialog) | 9 | 25 | 36.0 | Estonian <et@li.org> | 
+ | [synapse](/f33/package/synapse) | 304 | 856 | 35.5 | Estonian <et@li.org> | 
+ | [pluma](/f33/package/pluma) | 4650 | 13120 | 35.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [xfburn](/f33/package/xfburn) | 500 | 1413 | 35.4 | Estonian (http://www.transifex.com/xfce/xfce-apps/language/et/) | 
+ | [mate-utils](/f33/package/mate-utils) | 3617 | 10304 | 35.1 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [mate-control-center](/f33/package/mate-control-center) | 2991 | 8602 | 34.8 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [elementary-videos](/f33/package/elementary-videos) | 119 | 346 | 34.4 | Estonian <https://l10n.elementary.io/projects/videos/videos/et/> | 
+ | [xfce4-session](/f33/package/xfce4-session) | 387 | 1132 | 34.2 | Estonian <et@li.org> | 
+ | [xfce4-whiskermenu-plugin](/f33/package/xfce4-whiskermenu-plugin) | 129 | 386 | 33.4 | Estonian (http://www.transifex.com/projects/p/xfce4-whiskermenu-plugin/language/et/) | 
+ | [elementary-capnet-assist](/f33/package/elementary-capnet-assist) | 27 | 82 | 32.9 | Estonian <et@li.org> | 
+ | [gtksourceview3](/f33/package/gtksourceview3) | 106 | 322 | 32.9 | Estonian <gnome-et@linux.ee> | 
+ | [mingw-gtksourceview3](/f33/package/mingw-gtksourceview3) | 106 | 322 | 32.9 | Estonian <gnome-et@linux.ee> | 
+ | [eom](/f33/package/eom) | 1626 | 4951 | 32.8 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [calibre](/f33/package/calibre) | 52662 | 161062 | 32.7 | Estonian (http://www.transifex.com/calibre/calibre/language/et/) | 
+ | [elementary-camera](/f33/package/elementary-camera) | 21 | 65 | 32.3 | Estonian <et@li.org> | 
+ | [elementary-terminal](/f33/package/elementary-terminal) | 142 | 442 | 32.1 | Estonian <et@li.org> | 
+ | [wingpanel](/f33/package/wingpanel) | 6 | 19 | 31.6 | LANGUAGE <LL@li.org> | 
+ | [granite](/f33/package/granite) | 84 | 269 | 31.2 | Estonian <https://weblate.elementary.io/projects/desktop/granite/et/> | 
+ | [libgdl](/f33/package/libgdl) | 187 | 604 | 31.0 | Estonian <gnome-et@linux.ee> | 
+ | [sympa](/f33/package/sympa) | 11143 | 37229 | 29.9 | Eesti | 
+ | [agenda](/f33/package/agenda) | 5 | 17 | 29.4 | Estonian <et@li.org> | 
+ | [pantheon-agent-polkit](/f33/package/pantheon-agent-polkit) | 14 | 48 | 29.2 | Estonian <https://l10n.elementary.io/projects/desktop/pantheon-agent-polkit/et/> | 
+ | [network-manager-applet](/f33/package/network-manager-applet) | 1290 | 4478 | 28.8 | Estonian <> | 
+ | [gcr](/f33/package/gcr) | 178 | 622 | 28.6 | Estonian <gnome-et@linux.ee> | 
+ | [kflickr](/f33/package/kflickr) | 91 | 332 | 27.4 | Estonian <et@li.org> | 
+ | [elementary-code](/f33/package/elementary-code) | 312 | 1151 | 27.1 | Estonian <et@li.org> | 
+ | [xfce4-weather-plugin](/f33/package/xfce4-weather-plugin) | 972 | 3676 | 26.4 | Estonian (http://www.transifex.com/xfce/xfce-panel-plugins/language/et/) | 
+ | [lightdm](/f33/package/lightdm) | 42 | 163 | 25.8 | Estonian <et@li.org> | 
+ | [calamares](/f33/package/calamares) | 109 | 443 | 24.6 | Estonian (https://www.transifex.com/calamares/teams/20061/et/) | 
+ | [stellarium](/f33/package/stellarium) | 34649 | 141404 | 24.5 | Estonian (https://www.transifex.com/stellarium/teams/80998/et/) | 
+ | [inkscape](/f33/package/inkscape) | 9880 | 40929 | 24.1 | Estonian <gnome-et@linux.ee> | 
+ | [switchboard-plug-display](/f33/package/switchboard-plug-display) | 32 | 139 | 23.0 | Estonian <et@li.org> | 
+ | [switchboard-plug-mouse-touchpad](/f33/package/switchboard-plug-mouse-touchpad) | 51 | 232 | 22.0 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-mouse-touchpad/et/> | 
+ | [jmol](/f33/package/jmol) | 679 | 3166 | 21.4 | Estonian <Jmol-developers@lists.sf.net> | 
+ | [trojita](/f33/package/trojita) | 1019 | 4772 | 21.4 | Estonian <kde-et@linux.ee> | 
+ | [python-sphinxcontrib-qthelp](/f33/package/python-sphinxcontrib-qthelp) | 7 | 33 | 21.2 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
+ | [gala](/f33/package/gala) | 41 | 197 | 20.8 | Estonian <https://l10n.elementary.io/projects/desktop/gala/et/> | 
+ | [revelation](/f33/package/revelation) | 500 | 2427 | 20.6 | Estonian (http://www.transifex.com/hey_neken/revelation/language/et/) | 
+ | [goffice](/f33/package/goffice) | 1272 | 6201 | 20.5 | Estonian <gnome-et@linux.ee> | 
+ | [pam](/f33/package/pam) | 129 | 638 | 20.2 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [cairo-dock-plug-ins](/f33/package/cairo-dock-plug-ins) | 2028 | 10203 | 19.9 | Estonian <et@li.org> | 
+ | [NetworkManager-openvpn](/f33/package/NetworkManager-openvpn) | 207 | 1049 | 19.7 | Estonian <gnome-et@linux.ee> | 
+ | [engrampa](/f33/package/engrampa) | 1501 | 7817 | 19.2 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [pinta](/f33/package/pinta) | 322 | 1686 | 19.1 | Estonian <et@li.org> | 
+ | [gnupg2](/f33/package/gnupg2) | 2524 | 13568 | 18.6 | Estonian <et@li.org> | 
+ | [deja-dup](/f33/package/deja-dup) | 293 | 1623 | 18.1 | Estonian <et@li.org> | 
+ | [mate-system-monitor](/f33/package/mate-system-monitor) | 885 | 4911 | 18.0 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [terminator](/f33/package/terminator) | 254 | 1450 | 17.5 | Estonian (https://www.transifex.com/terminator/teams/109338/et/) | 
+ | [kcm_wacomtablet](/f33/package/kcm_wacomtablet) | 183 | 1064 | 17.2 | Estonian <kde-et@linux.ee> | 
+ | [dpkg](/f33/package/dpkg) | 1998 | 11722 | 17.0 | Estonian <et@li.org> | 
+ | [minetest](/f33/package/minetest) | 1617 | 9649 | 16.8 | Estonian <https://hosted.weblate.org/projects/minetest/minetest/et/> | 
+ | [orca](/f33/package/orca) | 729 | 4400 | 16.6 | Estonian <gnome-et@linux.ee> | 
+ | [iagno](/f33/package/iagno) | 53 | 322 | 16.5 | Estonian <> | 
+ | [iso-codes](/f33/package/iso-codes) | 3828 | 23492 | 16.3 | Estonian <https://hosted.weblate.org/projects/iso-codes/iso-15924/et/> | 
+ | [gnumeric](/f33/package/gnumeric) | 5437 | 35046 | 15.5 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [backintime](/f33/package/backintime) | 302 | 1972 | 15.3 | Estonian <et@li.org> | 
+ | [mate-applets](/f33/package/mate-applets) | 2363 | 15853 | 14.9 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [sawfish](/f33/package/sawfish) | 939 | 6443 | 14.6 | Estonian <gnome-et@linux.ee> | 
+ | [mate-sensors-applet](/f33/package/mate-sensors-applet) | 312 | 2160 | 14.4 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [switchdesk](/f33/package/switchdesk) | 17 | 122 | 13.9 | Estonian <Eesti> | 
+ | [NetworkManager-l2tp](/f33/package/NetworkManager-l2tp) | 173 | 1243 | 13.9 | Estonian <gnome-et@linux.ee> | 
+ | [godot](/f33/package/godot) | 1805 | 13216 | 13.7 | Estonian <https://hosted.weblate.org/projects/godot-engine/godot/et/> | 
+ | [NetworkManager-ssh](/f33/package/NetworkManager-ssh) | 39 | 286 | 13.6 | Estonian <gnome-et@linux.ee> | 
+ | [python-sphinxcontrib-applehelp](/f33/package/python-sphinxcontrib-applehelp) | 12 | 89 | 13.5 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
+ | [wingpanel-indicator-sound](/f33/package/wingpanel-indicator-sound) | 7 | 53 | 13.2 | Estonian <et@li.org> | 
+ | [freeciv](/f33/package/freeciv) | 13991 | 106305 | 13.2 | eesti | 
+ | [wingpanel-indicator-keyboard](/f33/package/wingpanel-indicator-keyboard) | 5 | 38 | 13.2 | Estonian <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/et/> | 
+ | [system-config-rootpassword](/f33/package/system-config-rootpassword) | 15 | 116 | 12.9 | Eesti | 
+ | [python-sphinxcontrib-htmlhelp](/f33/package/python-sphinxcontrib-htmlhelp) | 3 | 25 | 12.0 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
+ | [homebank](/f33/package/homebank) | 312 | 2792 | 11.2 | Estonian <et@li.org> | 
+ | [supertux](/f33/package/supertux) | 313 | 2866 | 10.9 | Estonian (http://www.transifex.com/arctic-games/supertux/language/et/) | 
+ | [dvdbackup](/f33/package/dvdbackup) | 111 | 1024 | 10.8 | Estonian <et@li.org> | 
+ | [pychess](/f33/package/pychess) | 477 | 4455 | 10.7 | Estonian (http://www.transifex.com/gbtami/pychess/language/et/) | 
+ | [remmina](/f33/package/remmina) | 420 | 4279 | 9.8 | Estonian <https://hosted.weblate.org/projects/remmina/remmina/et/> | 
+ | [firewalld](/f33/package/firewalld) | 216 | 2217 | 9.7 | Estonian (http://www.transifex.com/projects/p/firewalld/language/et/) | 
+ | [elementary-greeter](/f33/package/elementary-greeter) | 16 | 166 | 9.6 | Estonian <https://l10n.elementary.io/projects/desktop/greeter/et/> | 
+ | [wingpanel-indicator-datetime](/f33/package/wingpanel-indicator-datetime) | 12 | 128 | 9.4 | LANGUAGE <LL@li.org> | 
+ | [python-blivet](/f33/package/python-blivet) | 52 | 558 | 9.3 | Estonian (http://www.transifex.com/projects/p/blivet/language/et/) | 
+ | [dconf-editor](/f33/package/dconf-editor) | 131 | 1464 | 8.9 | Estonian <gnome-et-list@gnome.org> | 
+ | [system-switch-mail](/f33/package/system-switch-mail) | 9 | 101 | 8.9 | Estonian <Eesti> | 
+ | [avogadro](/f33/package/avogadro) | 547 | 6607 | 8.3 | Estonian <et@li.org> | 
+ | [cairo-dock](/f33/package/cairo-dock) | 606 | 7464 | 8.1 | Estonian <et@li.org> | 
+ | [pan](/f33/package/pan) | 251 | 3168 | 7.9 | Estonian <gnome-et@linux.ee> | 
+ | [geeqie](/f33/package/geeqie) | 333 | 4348 | 7.7 | Estonian <gnome-et@linux.ee> | 
+ | [zypper](/f33/package/zypper) | 666 | 9243 | 7.2 | Estonian <https://l10n.opensuse.org/projects/zypper/master/et/> | 
+ | [avogadro2](/f33/package/avogadro2) | 32 | 462 | 6.9 | Estonian <et@li.org> | 
+ | [anaconda](/f33/package/anaconda) | 554 | 8030 | 6.9 | Estonian (http://www.transifex.com/projects/p/anaconda/language/et/) | 
+ | [zathura](/f33/package/zathura) | 49 | 747 | 6.6 | Estonian (http://www.transifex.com/pwmt/zathura/language/et/) | 
+ | [gnome-gmail](/f33/package/gnome-gmail) | 12 | 187 | 6.4 | Estonian <et@li.org> | 
+ | [bash](/f33/package/bash) | 660 | 11507 | 5.7 | Estonian <et@li.org> | 
+ | [spacefm](/f33/package/spacefm) | 465 | 8722 | 5.3 | Estonian (http://www.transifex.com/projects/p/spacefm/language/et/) | 
+ | [supertuxkart](/f33/package/supertuxkart) | 272 | 5556 | 4.9 | Estonian (http://www.transifex.com/supertuxkart/supertuxkart/language/et/) | 
+ | [mingw-gettext](/f33/package/mingw-gettext) | 350 | 7184 | 4.9 | Estonian <et@li.org> | 
+ | [gettext](/f33/package/gettext) | 350 | 7683 | 4.6 | Estonian <et@li.org> | 
+ | [onboard](/f33/package/onboard) | 100 | 2318 | 4.3 | Estonian <et@li.org> | 
+ | [NetworkManager-openconnect](/f33/package/NetworkManager-openconnect) | 139 | 3241 | 4.3 | Estonian <> | 
+ | [switchboard-plug-bluetooth](/f33/package/switchboard-plug-bluetooth) | 8 | 188 | 4.3 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-bluetooth/et/> | 
+ | [avogadro2-libs](/f33/package/avogadro2-libs) | 142 | 3466 | 4.1 | Estonian <et@li.org> | 
+ | [xfce4-places-plugin](/f33/package/xfce4-places-plugin) | 6 | 157 | 3.8 |  | 
+ | [php-horde-Horde-Image](/f33/package/php-horde-Horde-Image) | 22 | 581 | 3.8 | i18n@lists.horde.org | 
+ | [gnucash](/f33/package/gnucash) | 1344 | 36666 | 3.7 | Estonian <linux-ee@lists.eenet.ee> | 
+ | [fuse-encfs](/f33/package/fuse-encfs) | 42 | 1289 | 3.3 | Estonian <et@li.org> | 
+ | [mate-user-admin](/f33/package/mate-user-admin) | 20 | 628 | 3.2 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [gnome-abrt](/f33/package/gnome-abrt) | 7 | 221 | 3.2 | Estonian (http://www.transifex.com/projects/p/gnome-abrt/language/et/) | 
+ | [feedreader](/f33/package/feedreader) | 43 | 1374 | 3.1 | Estonian <https://hosted.weblate.org/projects/feedreader/translations/et/> | 
+ | [ibus](/f33/package/ibus) | 70 | 2241 | 3.1 | Estonian <trans-et@lists.fedoraproject.org> | 
+ | [NetworkManager-libreswan](/f33/package/NetworkManager-libreswan) | 14 | 465 | 3.0 | Estonian <gnome-et@linux.ee> | 
+ | [elinks](/f33/package/elinks) | 357 | 12245 | 2.9 | Estonian <et@li.org> | 
+ | [light-locker](/f33/package/light-locker) | 7 | 260 | 2.7 | Estonian (http://www.transifex.com/the_cavalry/light-locker/language/et/) | 
+ | [pastebinit](/f33/package/pastebinit) | 4 | 195 | 2.1 | Estonian <et@li.org> | 
+ | [switchboard-plug-sound](/f33/package/switchboard-plug-sound) | 3 | 152 | 2.0 | Estonian <https://l10n.elementary.io/projects/switchboard/switchboard-plug-sound/et/> | 
+ | [NetworkManager-fortisslvpn](/f33/package/NetworkManager-fortisslvpn) | 6 | 323 | 1.9 | Estonian <gnome-et@linux.ee> | 
+ | [4Pane](/f33/package/4Pane) | 198 | 12684 | 1.6 | Estonian (http://www.transifex.com/davidgh/4Pane/language/et/) | 
+ | [xscreensaver](/f33/package/xscreensaver) | 128 | 11190 | 1.1 | Estonian <gnome-et@linux.ee> | 
+ | [quassel](/f33/package/quassel) | 86 | 7778 | 1.1 | Estonian (http://www.transifex.com/quassel/quassel/language/et/) | 
+ | [mingw-colorhug-client](/f33/package/mingw-colorhug-client) | 15 | 1409 | 1.1 | Estonian (http://www.transifex.com/projects/p/colorhug-client/language/et/) | 
+ | [colorhug-client](/f33/package/colorhug-client) | 15 | 1432 | 1.0 | Estonian (http://www.transifex.com/hughsie/colorhug-client/language/et/) | 
+ | [rapid-photo-downloader](/f33/package/rapid-photo-downloader) | 61 | 7736 | 0.8 | Estonian <et@li.org> | 
+ | [policycoreutils](/f33/package/policycoreutils) | 31 | 4493 | 0.7 | Estonian | 
+ | [tortoisehg](/f33/package/tortoisehg) | 90 | 13243 | 0.7 | Estonian <et@li.org> | 
+ | [NetworkManager](/f33/package/NetworkManager) | 156 | 26763 | 0.6 | Estonian <gnome-et@linux.ee> | 
+ | [gammastep](/f33/package/gammastep) | 5 | 945 | 0.5 | Estonian <et@li.org> | 
+ | [redshift](/f33/package/redshift) | 5 | 1028 | 0.5 | Estonian <et@li.org> | 
+ | [elementary-sideload](/f33/package/elementary-sideload) | 1 | 224 | 0.4 | Estonian <https://l10n.elementary.io/projects/desktop/sideload/et/> | 
+ | [mypaint](/f33/package/mypaint) | 24 | 6573 | 0.4 | Estonian <https://hosted.weblate.org/projects/mypaint/mypaint/et/> | 
+ | [mate-user-guide](/f33/package/mate-user-guide) | 150 | 42970 | 0.3 | Estonian (https://www.transifex.com/mate/teams/13566/et/) | 
+ | [libmypaint](/f33/package/libmypaint) | 4 | 2303 | 0.2 | Estonian <https://hosted.weblate.org/projects/mypaint/libmypaint/et/> | 
+ | [libmypaint2](/f33/package/libmypaint2) | 4 | 2311 | 0.2 | Estonian <https://hosted.weblate.org/projects/mypaint/libmypaint/et/> | 
+ | [compiz](/f33/package/compiz) | 6 | 4385 | 0.1 | Estonian <opensuse-translation@opensuse.org> | 
+ | [enlightenment](/f33/package/enlightenment) | 6 | 9053 | 0.1 | Estonian <et@li.org> | 
+ | [android-tools](/f33/package/android-tools) | 0 | 7678 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [bubblemail](/f33/package/bubblemail) | 0 | 472 | 0.0 | none | 
+ | [coin](/f33/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f33/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-notifications](/f33/package/elementary-notifications) | 0 | 3 | 0.0 | none | 
+ | [elementary-planner](/f33/package/elementary-planner) | 0 | 3023 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f33/package/elementary-shortcut-overlay) | 0 | 95 | 0.0 | none | 
+ | [entangle](/f33/package/entangle) | 0 | 953 | 0.0 | Estonian | 
+ | [fonts-tweak-tool](/f33/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Estonian | 
+ | [fprintd](/f33/package/fprintd) | 0 | 419 | 0.0 | Estonian (http://www.transifex.com/freedesktop/fprintd/language/et/) | 
+ | [glade2](/f33/package/glade2) | 0 | 2949 | 0.0 | Estonian <gnome-et@linux.ee> | 
+ | [gnome-shell-extension-bubblemail](/f33/package/gnome-shell-extension-bubblemail) | 0 | 98 | 0.0 | none | 
+ | [grub-customizer](/f33/package/grub-customizer) | 0 | 1295 | 0.0 | Estonian <et@li.org> | 
+ | [harvey](/f33/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [im-chooser](/f33/package/im-chooser) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f33/package/imsettings) | 0 | 485 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f33/package/initial-setup) | 0 | 33 | 0.0 | Estonian | 
+ | [kdump-anaconda-addon](/f33/package/kdump-anaconda-addon) | 0 | 83 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kreport](/f33/package/kreport) | 0 | 455 | 0.0 | Estonian <kde-et@linux.ee> | 
+ | [libgxim](/f33/package/libgxim) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libreport](/f33/package/libreport) | 0 | 4928 | 0.0 | none | 
+ | [libvirt-glib](/f33/package/libvirt-glib) | 0 | 158 | 0.0 | Estonian (http://www.transifex.com/projects/p/libvirt-glib/language/et/) | 
+ | [libvirt-sandbox](/f33/package/libvirt-sandbox) | 0 | 617 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [mingw-libvirt-glib](/f33/package/mingw-libvirt-glib) | 0 | 158 | 0.0 | Estonian (http://www.transifex.com/projects/p/libvirt-glib/language/et/) | 
+ | [mingw-p11-kit](/f33/package/mingw-p11-kit) | 0 | 476 | 0.0 | Estonian (http://www.transifex.com/freedesktop/p11-kit/language/et/) | 
+ | [nutty](/f33/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [olpc-switch-desktop](/f33/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f33/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [p11-kit](/f33/package/p11-kit) | 0 | 476 | 0.0 | Estonian (http://www.transifex.com/freedesktop/p11-kit/language/et/) | 
+ | [pantheon-agent-geoclue2](/f33/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [passwd](/f33/package/passwd) | 0 | 336 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [phonon-backend-gstreamer](/f33/package/phonon-backend-gstreamer) | 0 | 104 | 0.0 | Estonian <kde-et@linux.ee> | 
+ | [pmount](/f33/package/pmount) | 0 | 723 | 0.0 | Estonian <et@li.org> | 
+ | [python-fedora](/f33/package/python-fedora) | 0 | 214 | 0.0 | Estonian | 
+ | [python-meh](/f33/package/python-meh) | 0 | 109 | 0.0 | Estonian | 
+ | [python-sphinxcontrib-serializinghtml](/f33/package/python-sphinxcontrib-serializinghtml) | 0 | 18 | 0.0 | Estonian (https://www.transifex.com/sphinx-doc/teams/36659/et/) | 
+ | [realmd](/f33/package/realmd) | 0 | 789 | 0.0 | Estonian (http://www.transifex.com/freedesktop/realmd/language/et/) | 
+ | [retrace-server](/f33/package/retrace-server) | 0 | 433 | 0.0 | none | 
+ | [setroubleshoot](/f33/package/setroubleshoot) | 0 | 660 | 0.0 | Estonian (http://www.transifex.com/projects/p/fedora/language/et/) | 
+ | [shared-mime-info](/f33/package/shared-mime-info) | 0 | 1991 | 0.0 | Estonian (http://www.transifex.com/freedesktop/shared-mime-info/language/et/) | 
+ | [sos](/f33/package/sos) | 0 | 122 | 0.0 | none | 
+ | [speedcrunch](/f33/package/speedcrunch) | 0 | 93 | 0.0 | Estonian (Estonia) (http://www.transifex.com/heldercorreia/speedcrunch/language/et_EE/) | 
+ | [sugar](/f33/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f33/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [taxi](/f33/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [timeshift](/f33/package/timeshift) | 0 | 3005 | 0.0 | Estonian <et@li.org> | 
+ | [trac-accountmanager-plugin](/f33/package/trac-accountmanager-plugin) | 0 | 1208 | 0.0 | Estonian <trac-dev@googlegroups.com> | 
+ | [virt-viewer](/f33/package/virt-viewer) | 0 | 854 | 0.0 | Estonian | 
 {.sortable}
 
 

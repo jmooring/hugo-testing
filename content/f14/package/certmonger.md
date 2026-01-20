@@ -18,12 +18,12 @@ The package certmonger (version 0.44):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 889 | 961 | 92.5 | /mnt/stockage/packages/f14/certmonger/po/es.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 889 | 961 | 92.5 | /mnt/stockage/packages/f14/certmonger/po/pl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 889 | 961 | 92.5 | /mnt/stockage/packages/f14/certmonger/po/uk.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 799 | 961 | 83.1 | /mnt/stockage/packages/f14/certmonger/po/id.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 37 | 961 | 3.9 | /mnt/stockage/packages/f14/certmonger/po/de.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 0 | 961 | 0.0 | /mnt/stockage/packages/f14/certmonger/po/ru.po | 
+ | [es](/f14/language/es) | 889 | 961 | 92.5 | /mnt/stockage/packages/f14/certmonger/po/es.po | 
+ | [pl](/f14/language/pl) | 889 | 961 | 92.5 | /mnt/stockage/packages/f14/certmonger/po/pl.po | 
+ | [uk](/f14/language/uk) | 889 | 961 | 92.5 | /mnt/stockage/packages/f14/certmonger/po/uk.po | 
+ | [id](/f14/language/id) | 799 | 961 | 83.1 | /mnt/stockage/packages/f14/certmonger/po/id.po | 
+ | [de](/f14/language/de) | 37 | 961 | 3.9 | /mnt/stockage/packages/f14/certmonger/po/de.po | 
+ | [ru](/f14/language/ru) | 0 | 961 | 0.0 | /mnt/stockage/packages/f14/certmonger/po/ru.po | 
 {.sortable}
 
 

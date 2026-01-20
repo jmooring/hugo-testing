@@ -18,15 +18,15 @@ The package fish (version 3.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 56464 | 98035 | 57.6 | /mnt/stockage/packages/f32/fish/po/fr.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 16828 | 97822 | 17.2 | /mnt/stockage/packages/f32/fish/po/en.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 8436 | 97818 | 8.6 | /mnt/stockage/packages/f32/fish/po/de.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 8222 | 97795 | 8.4 | /mnt/stockage/packages/f32/fish/po/pt_BR.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 5114 | 93579 | 5.5 | /mnt/stockage/packages/f32/fish/po/sv.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1003 | 97822 | 1.0 | /mnt/stockage/packages/f32/fish/po/pl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 488 | 97822 | 0.5 | /mnt/stockage/packages/f32/fish/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 8 | 97822 | 0.0 | /mnt/stockage/packages/f32/fish/po/nb.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 8 | 97822 | 0.0 | /mnt/stockage/packages/f32/fish/po/nn.po | 
+ | [fr](/f32/language/fr) | 56464 | 98035 | 57.6 | /mnt/stockage/packages/f32/fish/po/fr.po | 
+ | [en](/f32/language/en) | 16828 | 97822 | 17.2 | /mnt/stockage/packages/f32/fish/po/en.po | 
+ | [de](/f32/language/de) | 8436 | 97818 | 8.6 | /mnt/stockage/packages/f32/fish/po/de.po | 
+ | [pt_BR](/f32/language/pt_BR) | 8222 | 97795 | 8.4 | /mnt/stockage/packages/f32/fish/po/pt_BR.po | 
+ | [sv](/f32/language/sv) | 5114 | 93579 | 5.5 | /mnt/stockage/packages/f32/fish/po/sv.po | 
+ | [pl](/f32/language/pl) | 1003 | 97822 | 1.0 | /mnt/stockage/packages/f32/fish/po/pl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 488 | 97822 | 0.5 | /mnt/stockage/packages/f32/fish/po/zh_CN.po | 
+ | [nb_NO](/f32/language/nb_NO) | 8 | 97822 | 0.0 | /mnt/stockage/packages/f32/fish/po/nb.po | 
+ | [nn](/f32/language/nn) | 8 | 97822 | 0.0 | /mnt/stockage/packages/f32/fish/po/nn.po | 
 {.sortable}
 
 

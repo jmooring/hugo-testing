@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [php-phpmyadmin-sql-parser]({{< ref "/f30/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 227 | 0.0 | Colognian <https://hosted.weblate.org/projects/phpmyadmin/master/ksh/> | 
- | [php-phpmyadmin-sql-parser5]({{< ref "/f30/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 268 | 0.0 | Colognian <https://hosted.weblate.org/projects/phpmyadmin/master/ksh/> | 
+ | [php-phpmyadmin-sql-parser](/f30/package/php-phpmyadmin-sql-parser) | 0 | 227 | 0.0 | Colognian <https://hosted.weblate.org/projects/phpmyadmin/master/ksh/> | 
+ | [php-phpmyadmin-sql-parser5](/f30/package/php-phpmyadmin-sql-parser5) | 0 | 268 | 0.0 | Colognian <https://hosted.weblate.org/projects/phpmyadmin/master/ksh/> | 
 {.sortable}
 
 

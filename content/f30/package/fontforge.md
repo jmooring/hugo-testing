@@ -18,24 +18,24 @@ The package fontforge (version 20170731):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 2141 | 2141 | 100.0 | /mnt/stockage/packages/f30/fontforge/po/en_GB.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 41323 | 41324 | 100.0 | /mnt/stockage/packages/f30/fontforge/po/uk.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 41403 | 41405 | 100.0 | /mnt/stockage/packages/f30/fontforge/po/fr.po/mnt/stockage/packages/f30/fontforge/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 41243 | 41277 | 99.9 | /mnt/stockage/packages/f30/fontforge/po/pl.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 1190 | 1194 | 99.7 | /mnt/stockage/packages/f30/fontforge/mackeys/en.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 35890 | 41704 | 86.1 | /mnt/stockage/packages/f30/fontforge/po/vi.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 25648 | 41704 | 61.5 | /mnt/stockage/packages/f30/fontforge/po/zh_TW.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 20110 | 41704 | 48.2 | /mnt/stockage/packages/f30/fontforge/po/ja.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 16157 | 41283 | 39.1 | /mnt/stockage/packages/f30/fontforge/po/ko.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 14778 | 41704 | 35.4 | /mnt/stockage/packages/f30/fontforge/po/zh_CN.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 14329 | 41704 | 34.4 | /mnt/stockage/packages/f30/fontforge/po/ca.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 10311 | 41286 | 25.0 | /mnt/stockage/packages/f30/fontforge/po/ru.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 8120 | 41704 | 19.5 | /mnt/stockage/packages/f30/fontforge/po/es.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 4390 | 41704 | 10.5 | /mnt/stockage/packages/f30/fontforge/po/it.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 1452 | 41704 | 3.5 | /mnt/stockage/packages/f30/fontforge/po/el.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 902 | 41692 | 2.2 | /mnt/stockage/packages/f30/fontforge/po/de.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 786 | 41704 | 1.9 | /mnt/stockage/packages/f30/fontforge/po/pt.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 25 | 41704 | 0.1 | /mnt/stockage/packages/f30/fontforge/po/ml.po | 
+ | [en_GB](/f30/language/en_GB) | 2141 | 2141 | 100.0 | /mnt/stockage/packages/f30/fontforge/po/en_GB.po | 
+ | [uk](/f30/language/uk) | 41323 | 41324 | 100.0 | /mnt/stockage/packages/f30/fontforge/po/uk.po | 
+ | [fr](/f30/language/fr) | 41403 | 41405 | 100.0 | /mnt/stockage/packages/f30/fontforge/po/fr.po/mnt/stockage/packages/f30/fontforge/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
+ | [pl](/f30/language/pl) | 41243 | 41277 | 99.9 | /mnt/stockage/packages/f30/fontforge/po/pl.po | 
+ | [en](/f30/language/en) | 1190 | 1194 | 99.7 | /mnt/stockage/packages/f30/fontforge/mackeys/en.po | 
+ | [vi](/f30/language/vi) | 35890 | 41704 | 86.1 | /mnt/stockage/packages/f30/fontforge/po/vi.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 25648 | 41704 | 61.5 | /mnt/stockage/packages/f30/fontforge/po/zh_TW.po | 
+ | [ja](/f30/language/ja) | 20110 | 41704 | 48.2 | /mnt/stockage/packages/f30/fontforge/po/ja.po | 
+ | [ko](/f30/language/ko) | 16157 | 41283 | 39.1 | /mnt/stockage/packages/f30/fontforge/po/ko.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 14778 | 41704 | 35.4 | /mnt/stockage/packages/f30/fontforge/po/zh_CN.po | 
+ | [ca](/f30/language/ca) | 14329 | 41704 | 34.4 | /mnt/stockage/packages/f30/fontforge/po/ca.po | 
+ | [ru](/f30/language/ru) | 10311 | 41286 | 25.0 | /mnt/stockage/packages/f30/fontforge/po/ru.po | 
+ | [es](/f30/language/es) | 8120 | 41704 | 19.5 | /mnt/stockage/packages/f30/fontforge/po/es.po | 
+ | [it](/f30/language/it) | 4390 | 41704 | 10.5 | /mnt/stockage/packages/f30/fontforge/po/it.po | 
+ | [el](/f30/language/el) | 1452 | 41704 | 3.5 | /mnt/stockage/packages/f30/fontforge/po/el.po | 
+ | [de](/f30/language/de) | 902 | 41692 | 2.2 | /mnt/stockage/packages/f30/fontforge/po/de.po | 
+ | [pt](/f30/language/pt) | 786 | 41704 | 1.9 | /mnt/stockage/packages/f30/fontforge/po/pt.po | 
+ | [ml](/f30/language/ml) | 25 | 41704 | 0.1 | /mnt/stockage/packages/f30/fontforge/po/ml.po | 
 {.sortable}
 
 

@@ -18,27 +18,27 @@ The package moblin-panel-myzone (version 0.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/ja.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/ko.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/nl.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/ro.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/sv.po | 
- | [th]({{< ref "/f12/language/th.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/th.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/uk.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/wa.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/zh_TW.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 63 | 66 | 95.5 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/id.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/hu.po | 
+ | [de](/f12/language/de) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/de.po | 
+ | [es](/f12/language/es) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/es.po | 
+ | [fi](/f12/language/fi) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/fi.po | 
+ | [fr](/f12/language/fr) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/fr.po | 
+ | [it](/f12/language/it) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/it.po | 
+ | [ja](/f12/language/ja) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/ja.po | 
+ | [ko](/f12/language/ko) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/ko.po | 
+ | [nl](/f12/language/nl) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/nl.po | 
+ | [pa](/f12/language/pa) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/pa.po | 
+ | [pl](/f12/language/pl) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/ro.po | 
+ | [sv](/f12/language/sv) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/sv.po | 
+ | [th](/f12/language/th) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/th.po | 
+ | [tr](/f12/language/tr) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/tr.po | 
+ | [uk](/f12/language/uk) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/uk.po | 
+ | [wa](/f12/language/wa) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/wa.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 66 | 66 | 100.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/zh_TW.po | 
+ | [id](/f12/language/id) | 63 | 66 | 95.5 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/id.po | 
+ | [hu](/f12/language/hu) | 0 | 66 | 0.0 | /mnt/stockage/packages/f12/moblin-panel-myzone/po/hu.po | 
 {.sortable}
 
 

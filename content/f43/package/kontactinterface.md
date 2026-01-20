@@ -18,67 +18,67 @@ The package kontactinterface (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ar/kontactinterfaces6.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ast/kontactinterfaces6.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/az/kontactinterfaces6.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/bg/kontactinterfaces6.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/bs/kontactinterfaces6.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ca/kontactinterfaces6.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ca@valencia/kontactinterfaces6.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/cs/kontactinterfaces6.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/da/kontactinterfaces6.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/de/kontactinterfaces6.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/el/kontactinterfaces6.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/en_GB/kontactinterfaces6.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/eo/kontactinterfaces6.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/es/kontactinterfaces6.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/et/kontactinterfaces6.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/eu/kontactinterfaces6.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/fa/kontactinterfaces6.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/fi/kontactinterfaces6.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/fr/kontactinterfaces6.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ga/kontactinterfaces6.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/gl/kontactinterfaces6.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/he/kontactinterfaces6.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/hi/kontactinterfaces6.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/hu/kontactinterfaces6.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ia/kontactinterfaces6.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/is/kontactinterfaces6.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/it/kontactinterfaces6.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ja/kontactinterfaces6.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ka/kontactinterfaces6.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/kk/kontactinterfaces6.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/km/kontactinterfaces6.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ko/kontactinterfaces6.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/lt/kontactinterfaces6.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/lv/kontactinterfaces6.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/mr/kontactinterfaces6.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nb/kontactinterfaces6.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nds/kontactinterfaces6.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nl/kontactinterfaces6.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nn/kontactinterfaces6.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pa/kontactinterfaces6.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pl/kontactinterfaces6.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pt/kontactinterfaces6.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pt_BR/kontactinterfaces6.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ro/kontactinterfaces6.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ru/kontactinterfaces6.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sa/kontactinterfaces6.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sk/kontactinterfaces6.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sl/kontactinterfaces6.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sq/kontactinterfaces6.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr/kontactinterfaces6.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr@ijekavian/kontactinterfaces6.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr@ijekavianlatin/kontactinterfaces6.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr@latin/kontactinterfaces6.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sv/kontactinterfaces6.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/tr/kontactinterfaces6.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ug/kontactinterfaces6.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/uk/kontactinterfaces6.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/vi/kontactinterfaces6.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/wa/kontactinterfaces6.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/zh_CN/kontactinterfaces6.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/zh_TW/kontactinterfaces6.po | 
+ | [ar](/f43/language/ar) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ar/kontactinterfaces6.po | 
+ | [ast](/f43/language/ast) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ast/kontactinterfaces6.po | 
+ | [az](/f43/language/az) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/az/kontactinterfaces6.po | 
+ | [bg](/f43/language/bg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/bg/kontactinterfaces6.po | 
+ | [bs](/f43/language/bs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/bs/kontactinterfaces6.po | 
+ | [ca](/f43/language/ca) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ca/kontactinterfaces6.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ca@valencia/kontactinterfaces6.po | 
+ | [cs](/f43/language/cs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/cs/kontactinterfaces6.po | 
+ | [da](/f43/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/da/kontactinterfaces6.po | 
+ | [de](/f43/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/de/kontactinterfaces6.po | 
+ | [el](/f43/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/el/kontactinterfaces6.po | 
+ | [en_GB](/f43/language/en_GB) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/en_GB/kontactinterfaces6.po | 
+ | [eo](/f43/language/eo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/eo/kontactinterfaces6.po | 
+ | [es](/f43/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/es/kontactinterfaces6.po | 
+ | [et](/f43/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/et/kontactinterfaces6.po | 
+ | [eu](/f43/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/eu/kontactinterfaces6.po | 
+ | [fa](/f43/language/fa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/fa/kontactinterfaces6.po | 
+ | [fi](/f43/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/fi/kontactinterfaces6.po | 
+ | [fr](/f43/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/fr/kontactinterfaces6.po | 
+ | [ga](/f43/language/ga) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ga/kontactinterfaces6.po | 
+ | [gl](/f43/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/gl/kontactinterfaces6.po | 
+ | [he](/f43/language/he) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/he/kontactinterfaces6.po | 
+ | [hi](/f43/language/hi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/hi/kontactinterfaces6.po | 
+ | [hu](/f43/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/hu/kontactinterfaces6.po | 
+ | [ia](/f43/language/ia) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ia/kontactinterfaces6.po | 
+ | [is](/f43/language/is) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/is/kontactinterfaces6.po | 
+ | [it](/f43/language/it) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/it/kontactinterfaces6.po | 
+ | [ja](/f43/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ja/kontactinterfaces6.po | 
+ | [ka](/f43/language/ka) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ka/kontactinterfaces6.po | 
+ | [kk](/f43/language/kk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/kk/kontactinterfaces6.po | 
+ | [km](/f43/language/km) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/km/kontactinterfaces6.po | 
+ | [ko](/f43/language/ko) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ko/kontactinterfaces6.po | 
+ | [lt](/f43/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/lt/kontactinterfaces6.po | 
+ | [lv](/f43/language/lv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/lv/kontactinterfaces6.po | 
+ | [mr](/f43/language/mr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/mr/kontactinterfaces6.po | 
+ | [nb_NO](/f43/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nb/kontactinterfaces6.po | 
+ | [nds](/f43/language/nds) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nds/kontactinterfaces6.po | 
+ | [nl](/f43/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nl/kontactinterfaces6.po | 
+ | [nn](/f43/language/nn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/nn/kontactinterfaces6.po | 
+ | [pa](/f43/language/pa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pa/kontactinterfaces6.po | 
+ | [pl](/f43/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pl/kontactinterfaces6.po | 
+ | [pt](/f43/language/pt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pt/kontactinterfaces6.po | 
+ | [pt_BR](/f43/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/pt_BR/kontactinterfaces6.po | 
+ | [ro](/f43/language/ro) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ro/kontactinterfaces6.po | 
+ | [ru](/f43/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ru/kontactinterfaces6.po | 
+ | [sa](/f43/language/sa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sa/kontactinterfaces6.po | 
+ | [sk](/f43/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sk/kontactinterfaces6.po | 
+ | [sl](/f43/language/sl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sl/kontactinterfaces6.po | 
+ | [sq](/f43/language/sq) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sq/kontactinterfaces6.po | 
+ | [sr](/f43/language/sr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr/kontactinterfaces6.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr@ijekavian/kontactinterfaces6.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr@ijekavianlatin/kontactinterfaces6.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sr@latin/kontactinterfaces6.po | 
+ | [sv](/f43/language/sv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/sv/kontactinterfaces6.po | 
+ | [tr](/f43/language/tr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/tr/kontactinterfaces6.po | 
+ | [ug](/f43/language/ug) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/ug/kontactinterfaces6.po | 
+ | [uk](/f43/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/uk/kontactinterfaces6.po | 
+ | [vi](/f43/language/vi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/vi/kontactinterfaces6.po | 
+ | [wa](/f43/language/wa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/wa/kontactinterfaces6.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/zh_CN/kontactinterfaces6.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 4 | 4 | 100.0 | /mnt/stockage/packages/f43/kontactinterface/po/zh_TW/kontactinterfaces6.po | 
 {.sortable}
 
 

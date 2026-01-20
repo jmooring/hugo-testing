@@ -18,11 +18,11 @@ The package ibus-libpinyin (version 1.4.93):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/fr.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f17/language/zh_Hant_HK.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/zh_HK.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 63 | 157 | 40.1 | /mnt/stockage/packages/f17/ibus-libpinyin/po/ru.po | 
+ | [fr](/f17/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/fr.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 168 | 168 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 168 | 168 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f17/language/zh_Hant_HK) | 168 | 168 | 100.0 | /mnt/stockage/packages/f17/ibus-libpinyin/po/zh_HK.po | 
+ | [ru](/f17/language/ru) | 63 | 157 | 40.1 | /mnt/stockage/packages/f17/ibus-libpinyin/po/ru.po | 
 {.sortable}
 
 

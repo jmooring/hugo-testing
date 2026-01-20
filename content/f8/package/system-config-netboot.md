@@ -18,63 +18,63 @@ The package system-config-netboot (version 0.1.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/de.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/sr@Latn.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/gu.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/hr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/ja.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/pt_BR.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/sr.po | 
- | [bn_IN]({{< ref "/f8/language/bn_IN.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/bn_IN.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/cs.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/es.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/fr.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/hi.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/it.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ko.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ml.po | 
- | [mr]({{< ref "/f8/language/mr.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/mr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/nl.po | 
- | [or]({{< ref "/f8/language/or.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/or.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/pa.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ru.po | 
- | [si]({{< ref "/f8/language/si.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/si.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/sv.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ta.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/zh_TW.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/bg.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/bs.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/da.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/en_GB.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/hu.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/id.po | 
- | [is]({{< ref "/f8/language/is.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/is.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/ms.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/sk.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/uk.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 906 | 1088 | 83.3 | /mnt/stockage/packages/f8/system-config-netboot/po/mk.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 868 | 1088 | 79.8 | /mnt/stockage/packages/f8/system-config-netboot/po/cy.po | 
- | [bn]({{< ref "/f8/language/bn.md" >}}) | 838 | 1088 | 77.0 | /mnt/stockage/packages/f8/system-config-netboot/po/bn.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/ar.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/et.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/sl.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/tr.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 1105 | 2176 | 50.8 | /mnt/stockage/packages/f8/system-config-netboot/po/no.po/mnt/stockage/packages/f8/system-config-netboot/po/nb.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 100 | 1088 | 9.2 | /mnt/stockage/packages/f8/system-config-netboot/po/el.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 61 | 1088 | 5.6 | /mnt/stockage/packages/f8/system-config-netboot/po/vi.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/he.po | 
- | [hy]({{< ref "/f8/language/hy.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/hy.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/ka.po | 
- | [ku]({{< ref "/f8/language/ku.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/ku.po | 
- | [lo]({{< ref "/f8/language/lo.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/lo.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/sq.po | 
- | [ur]({{< ref "/f8/language/ur.md" >}}) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/ur.po | 
- | [my]({{< ref "/f8/language/my.md" >}}) | 0 | 1088 | 0.0 | /mnt/stockage/packages/f8/system-config-netboot/po/my.po | 
+ | [de](/f8/language/de) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/de.po | 
+ | [error](/f8/language/error) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/sr@Latn.po | 
+ | [gu](/f8/language/gu) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/gu.po | 
+ | [hr](/f8/language/hr) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/hr.po | 
+ | [ja](/f8/language/ja) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/ja.po | 
+ | [pl](/f8/language/pl) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/pl.po | 
+ | [pt](/f8/language/pt) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/pt_BR.po | 
+ | [sr](/f8/language/sr) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f8/system-config-netboot/po/sr.po | 
+ | [bn_IN](/f8/language/bn_IN) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/bn_IN.po | 
+ | [ca](/f8/language/ca) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ca.po | 
+ | [cs](/f8/language/cs) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/cs.po | 
+ | [es](/f8/language/es) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/es.po | 
+ | [fi](/f8/language/fi) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/fi.po | 
+ | [fr](/f8/language/fr) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/fr.po | 
+ | [hi](/f8/language/hi) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/hi.po | 
+ | [it](/f8/language/it) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/it.po | 
+ | [ko](/f8/language/ko) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ko.po | 
+ | [ml](/f8/language/ml) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ml.po | 
+ | [mr](/f8/language/mr) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/mr.po | 
+ | [nl](/f8/language/nl) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/nl.po | 
+ | [or](/f8/language/or) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/or.po | 
+ | [pa](/f8/language/pa) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/pa.po | 
+ | [ru](/f8/language/ru) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ru.po | 
+ | [si](/f8/language/si) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/si.po | 
+ | [sv](/f8/language/sv) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/sv.po | 
+ | [ta](/f8/language/ta) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/ta.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1018 | 1088 | 93.6 | /mnt/stockage/packages/f8/system-config-netboot/po/zh_TW.po | 
+ | [bg](/f8/language/bg) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/bg.po | 
+ | [bs](/f8/language/bs) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/bs.po | 
+ | [da](/f8/language/da) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/da.po | 
+ | [en_GB](/f8/language/en_GB) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/en_GB.po | 
+ | [hu](/f8/language/hu) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/hu.po | 
+ | [id](/f8/language/id) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/id.po | 
+ | [is](/f8/language/is) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/is.po | 
+ | [ms](/f8/language/ms) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/ms.po | 
+ | [sk](/f8/language/sk) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/sk.po | 
+ | [uk](/f8/language/uk) | 918 | 1088 | 84.4 | /mnt/stockage/packages/f8/system-config-netboot/po/uk.po | 
+ | [mk](/f8/language/mk) | 906 | 1088 | 83.3 | /mnt/stockage/packages/f8/system-config-netboot/po/mk.po | 
+ | [cy](/f8/language/cy) | 868 | 1088 | 79.8 | /mnt/stockage/packages/f8/system-config-netboot/po/cy.po | 
+ | [bn](/f8/language/bn) | 838 | 1088 | 77.0 | /mnt/stockage/packages/f8/system-config-netboot/po/bn.po | 
+ | [ar](/f8/language/ar) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/ar.po | 
+ | [et](/f8/language/et) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/et.po | 
+ | [sl](/f8/language/sl) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/sl.po | 
+ | [tr](/f8/language/tr) | 765 | 1088 | 70.3 | /mnt/stockage/packages/f8/system-config-netboot/po/tr.po | 
+ | [nb_NO](/f8/language/nb_NO) | 1105 | 2176 | 50.8 | /mnt/stockage/packages/f8/system-config-netboot/po/no.po/mnt/stockage/packages/f8/system-config-netboot/po/nb.po | 
+ | [el](/f8/language/el) | 100 | 1088 | 9.2 | /mnt/stockage/packages/f8/system-config-netboot/po/el.po | 
+ | [vi](/f8/language/vi) | 61 | 1088 | 5.6 | /mnt/stockage/packages/f8/system-config-netboot/po/vi.po | 
+ | [he](/f8/language/he) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/he.po | 
+ | [hy](/f8/language/hy) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/hy.po | 
+ | [ka](/f8/language/ka) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/ka.po | 
+ | [ku](/f8/language/ku) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/ku.po | 
+ | [lo](/f8/language/lo) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/lo.po | 
+ | [sq](/f8/language/sq) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/sq.po | 
+ | [ur](/f8/language/ur) | 10 | 1088 | 0.9 | /mnt/stockage/packages/f8/system-config-netboot/po/ur.po | 
+ | [my](/f8/language/my) | 0 | 1088 | 0.0 | /mnt/stockage/packages/f8/system-config-netboot/po/my.po | 
 {.sortable}
 
 

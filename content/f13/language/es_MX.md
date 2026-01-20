@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [entertrack]({{< ref "/f13/package/entertrack.md" >}}) | 2545 | 2545 | 100.0 |  | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libmx]({{< ref "/f13/package/libmx.md" >}}) | 40 | 40 | 100.0 |  | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [bittorrent]({{< ref "/f13/package/bittorrent.md" >}}) | 3614 | 3904 | 92.6 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f13/package/gnomebaker.md" >}}) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
- | [gentoo]({{< ref "/f13/package/gentoo.md" >}}) | 1828 | 2107 | 86.8 | Language es-MX | 
- | [gallery2]({{< ref "/f13/package/gallery2.md" >}}) | 7731 | 10481 | 73.8 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
- | [liblicense]({{< ref "/f13/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f13/package/tuxpaint.md" >}}) | 594 | 1247 | 47.6 | Español <ggabriel@internet.com.uy> | 
- | [xfprint]({{< ref "/f13/package/xfprint.md" >}}) | 144 | 322 | 44.7 | Spanish <es@li.org> | 
- | [radiotray]({{< ref "/f13/package/radiotray.md" >}}) | 28 | 95 | 29.5 | Spanish (Mexican) <None> | 
- | [xfce4-session]({{< ref "/f13/package/xfce4-session.md" >}}) | 271 | 990 | 27.4 | Spanish <es@li.org> | 
- | [xfce-utils]({{< ref "/f13/package/xfce-utils.md" >}}) | 20 | 131 | 15.3 | Spanish <es@li.org> | 
- | [galculator]({{< ref "/f13/package/galculator.md" >}}) | 101 | 798 | 12.7 | Spanish <es@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f13/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
- | [xfwm4]({{< ref "/f13/package/xfwm4.md" >}}) | 87 | 797 | 10.9 | Spanish <es@li.org> | 
- | [gnue-common]({{< ref "/f13/package/gnue-common.md" >}}) | 153 | 2132 | 7.2 | Espa~ol/Mexico | 
- | [xfdesktop]({{< ref "/f13/package/xfdesktop.md" >}}) | 56 | 1004 | 5.6 | Spanish <es@li.org> | 
- | [xfce4-panel]({{< ref "/f13/package/xfce4-panel.md" >}}) | 19 | 540 | 3.5 | Spanish <es@li.org> | 
- | [inkscape]({{< ref "/f13/package/inkscape.md" >}}) | 724 | 24035 | 3.0 | none <none> | 
- | [xfce4-appfinder]({{< ref "/f13/package/xfce4-appfinder.md" >}}) | 2 | 84 | 2.4 | Spanish <es@li.org> | 
+ | [entertrack](/f13/package/entertrack) | 2545 | 2545 | 100.0 |  | 
+ | [gnome-applets](/f13/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libmx](/f13/package/libmx) | 40 | 40 | 100.0 |  | 
+ | [libgweather](/f13/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [bittorrent](/f13/package/bittorrent) | 3614 | 3904 | 92.6 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f13/package/gnomebaker) | 1059 | 1186 | 89.3 | Spanish (Mexico) <es_MX@li.org> | 
+ | [gentoo](/f13/package/gentoo) | 1828 | 2107 | 86.8 | Language es-MX | 
+ | [gallery2](/f13/package/gallery2) | 7731 | 10481 | 73.8 | Mexican Spanish <gallery-devel@lists.sourceforge.net> | 
+ | [liblicense](/f13/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f13/package/tuxpaint) | 594 | 1247 | 47.6 | Español <ggabriel@internet.com.uy> | 
+ | [xfprint](/f13/package/xfprint) | 144 | 322 | 44.7 | Spanish <es@li.org> | 
+ | [radiotray](/f13/package/radiotray) | 28 | 95 | 29.5 | Spanish (Mexican) <None> | 
+ | [xfce4-session](/f13/package/xfce4-session) | 271 | 990 | 27.4 | Spanish <es@li.org> | 
+ | [xfce-utils](/f13/package/xfce-utils) | 20 | 131 | 15.3 | Spanish <es@li.org> | 
+ | [galculator](/f13/package/galculator) | 101 | 798 | 12.7 | Spanish <es@li.org> | 
+ | [xfce4-eyes-plugin](/f13/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Spanish <es@li.org> | 
+ | [xfwm4](/f13/package/xfwm4) | 87 | 797 | 10.9 | Spanish <es@li.org> | 
+ | [gnue-common](/f13/package/gnue-common) | 153 | 2132 | 7.2 | Espa~ol/Mexico | 
+ | [xfdesktop](/f13/package/xfdesktop) | 56 | 1004 | 5.6 | Spanish <es@li.org> | 
+ | [xfce4-panel](/f13/package/xfce4-panel) | 19 | 540 | 3.5 | Spanish <es@li.org> | 
+ | [inkscape](/f13/package/inkscape) | 724 | 24035 | 3.0 | none <none> | 
+ | [xfce4-appfinder](/f13/package/xfce4-appfinder) | 2 | 84 | 2.4 | Spanish <es@li.org> | 
 {.sortable}
 
 
@@ -71,7 +71,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [entertrack]({{< ref "/f13/package/entertrack.md" >}}) | /mnt/stockage/packages/f13/entertrack/locale/es_MX/LC_MESSAGES/messages.po | error-os |  | 
+ | [entertrack](/f13/package/entertrack) | /mnt/stockage/packages/f13/entertrack/locale/es_MX/LC_MESSAGES/messages.po | error-os |  | 
 {.sortable}
 
 

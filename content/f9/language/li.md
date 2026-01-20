@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mime-data]({{< ref "/f9/package/gnome-mime-data.md" >}}) | 850 | 850 | 100.0 | Limburgish <li.org> | 
- | [ruby-gettext-package]({{< ref "/f9/package/ruby-gettext-package.md" >}}) | 2 | 2 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgnomecanvas]({{< ref "/f9/package/libgnomecanvas.md" >}}) | 339 | 357 | 95.0 | Limburgish <li@li.org> | 
- | [gnome-themes]({{< ref "/f9/package/gnome-themes.md" >}}) | 95 | 101 | 94.1 | Limburgish | 
- | [libbonobo]({{< ref "/f9/package/libbonobo.md" >}}) | 464 | 524 | 88.5 | Limburgish | 
- | [libbonoboui]({{< ref "/f9/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Limburgish <li@li.org> | 
- | [vte]({{< ref "/f9/package/vte.md" >}}) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 1136 | 1419 | 80.1 | Limburgish <li.org> | 
- | [gnome-system-monitor]({{< ref "/f9/package/gnome-system-monitor.md" >}}) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
- | [libgnomeprintui22]({{< ref "/f9/package/libgnomeprintui22.md" >}}) | 259 | 427 | 60.7 | Limburgish | 
- | [nautilus]({{< ref "/f9/package/nautilus.md" >}}) | 3352 | 6976 | 48.1 | Limburgish <li@li.org> | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 5334 | 12092 | 44.1 | Limburgish <li.org> | 
- | [gnome-icon-theme]({{< ref "/f9/package/gnome-icon-theme.md" >}}) | 22 | 52 | 42.3 | Limburgish | 
- | [eel2]({{< ref "/f9/package/eel2.md" >}}) | 98 | 235 | 41.7 | Limburgish | 
- | [libwnck]({{< ref "/f9/package/libwnck.md" >}}) | 30 | 73 | 41.1 | Limburgish | 
- | [epiphany]({{< ref "/f9/package/epiphany.md" >}}) | 1057 | 2732 | 38.7 | Dutch <vertaling@nl.linux.org> | 
- | [gconf-editor]({{< ref "/f9/package/gconf-editor.md" >}}) | 101 | 320 | 31.6 | Limburgish | 
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 96 | 320 | 30.0 | Limburgish <li.org> | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 703 | 3937 | 17.9 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-vfs2]({{< ref "/f9/package/gnome-vfs2.md" >}}) | 225 | 1282 | 17.6 | Limburgish | 
- | [yelp]({{< ref "/f9/package/yelp.md" >}}) | 51 | 606 | 8.4 | Limburgish <li.org> | 
- | [atk]({{< ref "/f9/package/atk.md" >}}) | 30 | 370 | 8.1 | Limburgish | 
+ | [gnome-mime-data](/f9/package/gnome-mime-data) | 850 | 850 | 100.0 | Limburgish <li.org> | 
+ | [ruby-gettext-package](/f9/package/ruby-gettext-package) | 2 | 2 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgnomecanvas](/f9/package/libgnomecanvas) | 339 | 357 | 95.0 | Limburgish <li@li.org> | 
+ | [gnome-themes](/f9/package/gnome-themes) | 95 | 101 | 94.1 | Limburgish | 
+ | [libbonobo](/f9/package/libbonobo) | 464 | 524 | 88.5 | Limburgish | 
+ | [libbonoboui](/f9/package/libbonoboui) | 314 | 360 | 87.2 | Limburgish <li@li.org> | 
+ | [vte](/f9/package/vte) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
+ | [libgnomeui](/f9/package/libgnomeui) | 1136 | 1419 | 80.1 | Limburgish <li.org> | 
+ | [gnome-system-monitor](/f9/package/gnome-system-monitor) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
+ | [libgnomeprintui22](/f9/package/libgnomeprintui22) | 259 | 427 | 60.7 | Limburgish | 
+ | [nautilus](/f9/package/nautilus) | 3352 | 6976 | 48.1 | Limburgish <li@li.org> | 
+ | [gtk2](/f9/package/gtk2) | 5334 | 12092 | 44.1 | Limburgish <li.org> | 
+ | [gnome-icon-theme](/f9/package/gnome-icon-theme) | 22 | 52 | 42.3 | Limburgish | 
+ | [eel2](/f9/package/eel2) | 98 | 235 | 41.7 | Limburgish | 
+ | [libwnck](/f9/package/libwnck) | 30 | 73 | 41.1 | Limburgish | 
+ | [epiphany](/f9/package/epiphany) | 1057 | 2732 | 38.7 | Dutch <vertaling@nl.linux.org> | 
+ | [gconf-editor](/f9/package/gconf-editor) | 101 | 320 | 31.6 | Limburgish | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 96 | 320 | 30.0 | Limburgish <li.org> | 
+ | [gnome-panel](/f9/package/gnome-panel) | 703 | 3937 | 17.9 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-vfs2](/f9/package/gnome-vfs2) | 225 | 1282 | 17.6 | Limburgish | 
+ | [yelp](/f9/package/yelp) | 51 | 606 | 8.4 | Limburgish <li.org> | 
+ | [atk](/f9/package/atk) | 30 | 370 | 8.1 | Limburgish | 
 {.sortable}
 
 

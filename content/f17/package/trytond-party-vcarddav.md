@@ -18,14 +18,14 @@ The package trytond-party-vcarddav (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/bg_BG.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/de_DE.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/es_CO.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/fr_FR.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/nl_NL.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 0 | 14 | 0.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/ru_RU.po | 
+ | [bg](/f17/language/bg) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/bg_BG.po | 
+ | [de](/f17/language/de) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/de_DE.po | 
+ | [es](/f17/language/es) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/es_CO.po | 
+ | [fr](/f17/language/fr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/fr_FR.po | 
+ | [cs](/f17/language/cs) | 0 | 14 | 0.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 0 | 14 | 0.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/nl_NL.po | 
+ | [ru](/f17/language/ru) | 0 | 14 | 0.0 | /mnt/stockage/packages/f17/trytond-party-vcarddav/locale/ru_RU.po | 
 {.sortable}
 
 

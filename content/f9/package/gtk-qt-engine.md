@@ -18,16 +18,16 @@ The package gtk-qt-engine (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/bg.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/de.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/nn.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/ru.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/sv.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 176 | 181 | 97.2 | /mnt/stockage/packages/f9/gtk-qt-engine/po/tr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 211 | 219 | 96.3 | /mnt/stockage/packages/f9/gtk-qt-engine/po/it.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f9/gtk-qt-engine/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f9/gtk-qt-engine/po/fr.po | 
+ | [bg](/f9/language/bg) | 181 | 181 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/bg.po | 
+ | [cs](/f9/language/cs) | 306 | 306 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/cs.po | 
+ | [de](/f9/language/de) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/de.po | 
+ | [nn](/f9/language/nn) | 155 | 155 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/nn.po | 
+ | [ru](/f9/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/ru.po | 
+ | [sv](/f9/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f9/gtk-qt-engine/po/sv.po | 
+ | [tr](/f9/language/tr) | 176 | 181 | 97.2 | /mnt/stockage/packages/f9/gtk-qt-engine/po/tr.po | 
+ | [it](/f9/language/it) | 211 | 219 | 96.3 | /mnt/stockage/packages/f9/gtk-qt-engine/po/it.po | 
+ | [es](/f9/language/es) | 139 | 155 | 89.7 | /mnt/stockage/packages/f9/gtk-qt-engine/po/es.po | 
+ | [fr](/f9/language/fr) | 139 | 155 | 89.7 | /mnt/stockage/packages/f9/gtk-qt-engine/po/fr.po | 
 {.sortable}
 
 

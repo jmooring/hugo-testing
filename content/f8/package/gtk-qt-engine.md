@@ -18,15 +18,15 @@ The package gtk-qt-engine (version 0.70):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/bg.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/de.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/nn.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/sv.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 176 | 181 | 97.2 | /mnt/stockage/packages/f8/gtk-qt-engine/po/tr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 148 | 156 | 94.9 | /mnt/stockage/packages/f8/gtk-qt-engine/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f8/gtk-qt-engine/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f8/gtk-qt-engine/po/fr.po | 
+ | [bg](/f8/language/bg) | 181 | 181 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/bg.po | 
+ | [de](/f8/language/de) | 181 | 181 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/de.po | 
+ | [nn](/f8/language/nn) | 155 | 155 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/nn.po | 
+ | [ru](/f8/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/ru.po | 
+ | [sv](/f8/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f8/gtk-qt-engine/po/sv.po | 
+ | [tr](/f8/language/tr) | 176 | 181 | 97.2 | /mnt/stockage/packages/f8/gtk-qt-engine/po/tr.po | 
+ | [it](/f8/language/it) | 148 | 156 | 94.9 | /mnt/stockage/packages/f8/gtk-qt-engine/po/it.po | 
+ | [es](/f8/language/es) | 139 | 155 | 89.7 | /mnt/stockage/packages/f8/gtk-qt-engine/po/es.po | 
+ | [fr](/f8/language/fr) | 139 | 155 | 89.7 | /mnt/stockage/packages/f8/gtk-qt-engine/po/fr.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package rEFInd (version 0.13.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/fr.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/nl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/ru.po | 
+ | [de](/f38/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/de.po | 
+ | [es](/f38/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/es.po | 
+ | [fr](/f38/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/fr.po | 
+ | [nl](/f38/language/nl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/nl.po | 
+ | [pt](/f38/language/pt) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f38/rEFInd/debian/po/ru.po | 
 {.sortable}
 
 

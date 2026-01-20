@@ -38,24 +38,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f27/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f27/package/libmateweather.md" >}}) | 362 | 499 | 72.5 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-applets]({{< ref "/f27/package/mate-applets.md" >}}) | 1651 | 2489 | 66.3 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [fuse-encfs]({{< ref "/f27/package/fuse-encfs.md" >}}) | 127 | 1289 | 9.9 | Spanish (Peru) <es_PE@li.org> | 
- | [mate-sensors-applet]({{< ref "/f27/package/mate-sensors-applet.md" >}}) | 9 | 306 | 2.9 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-settings-daemon]({{< ref "/f27/package/mate-settings-daemon.md" >}}) | 43 | 1764 | 2.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-media]({{< ref "/f27/package/mate-media.md" >}}) | 4 | 226 | 1.8 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-system-monitor]({{< ref "/f27/package/mate-system-monitor.md" >}}) | 14 | 1333 | 1.1 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-panel]({{< ref "/f27/package/mate-panel.md" >}}) | 32 | 4364 | 0.7 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-control-center]({{< ref "/f27/package/mate-control-center.md" >}}) | 17 | 2658 | 0.6 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 214 | 34312 | 0.6 | Spanish (Peru) <es_PE@li.org> | 
- | [eom]({{< ref "/f27/package/eom.md" >}}) | 10 | 1717 | 0.6 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [atril]({{< ref "/f27/package/atril.md" >}}) | 8 | 1792 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-session-manager]({{< ref "/f27/package/mate-session-manager.md" >}}) | 3 | 681 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [libmatekbd]({{< ref "/f27/package/libmatekbd.md" >}}) | 1 | 251 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-power-manager]({{< ref "/f27/package/mate-power-manager.md" >}}) | 10 | 2724 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [engrampa]({{< ref "/f27/package/engrampa.md" >}}) | 6 | 1945 | 0.3 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
- | [mate-menu]({{< ref "/f27/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
+ | [libgweather](/f27/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f27/package/libmateweather) | 362 | 499 | 72.5 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-applets](/f27/package/mate-applets) | 1651 | 2489 | 66.3 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [fuse-encfs](/f27/package/fuse-encfs) | 127 | 1289 | 9.9 | Spanish (Peru) <es_PE@li.org> | 
+ | [mate-sensors-applet](/f27/package/mate-sensors-applet) | 9 | 306 | 2.9 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-settings-daemon](/f27/package/mate-settings-daemon) | 43 | 1764 | 2.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-media](/f27/package/mate-media) | 4 | 226 | 1.8 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-system-monitor](/f27/package/mate-system-monitor) | 14 | 1333 | 1.1 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-panel](/f27/package/mate-panel) | 32 | 4364 | 0.7 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-control-center](/f27/package/mate-control-center) | 17 | 2658 | 0.6 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [openerp7](/f27/package/openerp7) | 214 | 34312 | 0.6 | Spanish (Peru) <es_PE@li.org> | 
+ | [eom](/f27/package/eom) | 10 | 1717 | 0.6 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [atril](/f27/package/atril) | 8 | 1792 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-session-manager](/f27/package/mate-session-manager) | 3 | 681 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [libmatekbd](/f27/package/libmatekbd) | 1 | 251 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-power-manager](/f27/package/mate-power-manager) | 10 | 2724 | 0.4 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [engrampa](/f27/package/engrampa) | 6 | 1945 | 0.3 | Spanish (Peru) (https://www.transifex.com/mate/teams/13566/es_PE/) | 
+ | [mate-menu](/f27/package/mate-menu) | 0 | 316 | 0.0 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
 {.sortable}
 
 

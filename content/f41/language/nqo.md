@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mozo]({{< ref "/f41/package/mozo.md" >}}) | 1 | 46 | 2.2 | N'ko (https://app.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-sensors-applet]({{< ref "/f41/package/mate-sensors-applet.md" >}}) | 2 | 313 | 0.6 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [eom]({{< ref "/f41/package/eom.md" >}}) | 6 | 1779 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-menu]({{< ref "/f41/package/mate-menu.md" >}}) | 1 | 308 | 0.3 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [atril]({{< ref "/f41/package/atril.md" >}}) | 7 | 2325 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [mate-terminal]({{< ref "/f41/package/mate-terminal.md" >}}) | 9 | 4724 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
- | [libmatekbd]({{< ref "/f41/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [mate-themes]({{< ref "/f41/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | N'ko (http://app.transifex.com/mate/MATE/language/nqo/) | 
+ | [mozo](/f41/package/mozo) | 1 | 46 | 2.2 | N'ko (https://app.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-sensors-applet](/f41/package/mate-sensors-applet) | 2 | 313 | 0.6 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [eom](/f41/package/eom) | 6 | 1779 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-menu](/f41/package/mate-menu) | 1 | 308 | 0.3 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [atril](/f41/package/atril) | 7 | 2325 | 0.3 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [mate-terminal](/f41/package/mate-terminal) | 9 | 4724 | 0.2 | N'ko (https://www.transifex.com/mate/teams/13566/nqo/) | 
+ | [libmatekbd](/f41/package/libmatekbd) | 0 | 308 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [mate-themes](/f41/package/mate-themes) | 0 | 74 | 0.0 | N'ko (http://app.transifex.com/mate/MATE/language/nqo/) | 
 {.sortable}
 
 

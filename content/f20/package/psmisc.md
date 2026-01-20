@@ -18,34 +18,34 @@ The package psmisc (version 22.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/de.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/eo.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/fr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/hu.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/ru.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/vi.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 756 | 904 | 83.6 | /mnt/stockage/packages/f20/psmisc/po/sr.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/da.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/eu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/it.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/pt_BR.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 531 | 904 | 58.7 | /mnt/stockage/packages/f20/psmisc/po/sv.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 282 | 904 | 31.2 | /mnt/stockage/packages/f20/psmisc/po/el.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 282 | 904 | 31.2 | /mnt/stockage/packages/f20/psmisc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 282 | 904 | 31.2 | /mnt/stockage/packages/f20/psmisc/po/zh_TW.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 212 | 904 | 23.5 | /mnt/stockage/packages/f20/psmisc/po/bg.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 212 | 904 | 23.5 | /mnt/stockage/packages/f20/psmisc/po/ja.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 212 | 904 | 23.5 | /mnt/stockage/packages/f20/psmisc/po/nb.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 165 | 904 | 18.3 | /mnt/stockage/packages/f20/psmisc/po/hr.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 81 | 904 | 9.0 | /mnt/stockage/packages/f20/psmisc/po/ca.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 81 | 904 | 9.0 | /mnt/stockage/packages/f20/psmisc/po/ro.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 10 | 904 | 1.1 | /mnt/stockage/packages/f20/psmisc/po/pt.po | 
+ | [cs](/f20/language/cs) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/cs.po | 
+ | [de](/f20/language/de) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/de.po | 
+ | [eo](/f20/language/eo) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/eo.po | 
+ | [fi](/f20/language/fi) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/fi.po | 
+ | [fr](/f20/language/fr) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/fr.po | 
+ | [hu](/f20/language/hu) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/hu.po | 
+ | [nl](/f20/language/nl) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/nl.po | 
+ | [pl](/f20/language/pl) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/pl.po | 
+ | [ru](/f20/language/ru) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/ru.po | 
+ | [uk](/f20/language/uk) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/uk.po | 
+ | [vi](/f20/language/vi) | 904 | 904 | 100.0 | /mnt/stockage/packages/f20/psmisc/po/vi.po | 
+ | [sr](/f20/language/sr) | 756 | 904 | 83.6 | /mnt/stockage/packages/f20/psmisc/po/sr.po | 
+ | [da](/f20/language/da) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/da.po | 
+ | [eu](/f20/language/eu) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/eu.po | 
+ | [id](/f20/language/id) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/id.po | 
+ | [it](/f20/language/it) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/it.po | 
+ | [pt_BR](/f20/language/pt_BR) | 633 | 904 | 70.0 | /mnt/stockage/packages/f20/psmisc/po/pt_BR.po | 
+ | [sv](/f20/language/sv) | 531 | 904 | 58.7 | /mnt/stockage/packages/f20/psmisc/po/sv.po | 
+ | [el](/f20/language/el) | 282 | 904 | 31.2 | /mnt/stockage/packages/f20/psmisc/po/el.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 282 | 904 | 31.2 | /mnt/stockage/packages/f20/psmisc/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 282 | 904 | 31.2 | /mnt/stockage/packages/f20/psmisc/po/zh_TW.po | 
+ | [bg](/f20/language/bg) | 212 | 904 | 23.5 | /mnt/stockage/packages/f20/psmisc/po/bg.po | 
+ | [ja](/f20/language/ja) | 212 | 904 | 23.5 | /mnt/stockage/packages/f20/psmisc/po/ja.po | 
+ | [nb_NO](/f20/language/nb_NO) | 212 | 904 | 23.5 | /mnt/stockage/packages/f20/psmisc/po/nb.po | 
+ | [hr](/f20/language/hr) | 165 | 904 | 18.3 | /mnt/stockage/packages/f20/psmisc/po/hr.po | 
+ | [ca](/f20/language/ca) | 81 | 904 | 9.0 | /mnt/stockage/packages/f20/psmisc/po/ca.po | 
+ | [ro](/f20/language/ro) | 81 | 904 | 9.0 | /mnt/stockage/packages/f20/psmisc/po/ro.po | 
+ | [pt](/f20/language/pt) | 10 | 904 | 1.1 | /mnt/stockage/packages/f20/psmisc/po/pt.po | 
 {.sortable}
 
 

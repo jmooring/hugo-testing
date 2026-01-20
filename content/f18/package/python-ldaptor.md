@@ -18,8 +18,8 @@ The package python-ldaptor (version 0.0.44):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/python-ldaptor/po/ldaptor-webui/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/python-ldaptor/po/ldaptor-webui/fr.po | 
+ | [fi](/f18/language/fi) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/python-ldaptor/po/ldaptor-webui/fi.po | 
+ | [fr](/f18/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f18/python-ldaptor/po/ldaptor-webui/fr.po | 
 {.sortable}
 
 

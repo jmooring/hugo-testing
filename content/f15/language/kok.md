@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f15/package/iso-codes.md" >}}) | 252 | 11262 | 2.2 | Konkani | 
+ | [iso-codes](/f15/package/iso-codes) | 252 | 11262 | 2.2 | Konkani | 
 {.sortable}
 
 

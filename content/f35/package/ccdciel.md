@@ -18,16 +18,16 @@ The package ccdciel (version 0.9.80):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 6648 | 6651 | 100.0 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.fr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 6602 | 6651 | 99.3 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.zh_CN.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.zh_CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 6519 | 6651 | 98.0 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.de.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 6470 | 6651 | 97.3 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.cs.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 6270 | 6651 | 94.3 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.ru.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 5818 | 6651 | 87.5 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 5679 | 6651 | 85.4 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.es.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1736 | 6651 | 26.1 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.it.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 475 | 5447 | 8.7 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.da.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 38 | 5447 | 0.7 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.ku.po | 
+ | [fr](/f35/language/fr) | 6648 | 6651 | 100.0 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.fr.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.fr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 6602 | 6651 | 99.3 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.zh_CN.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.zh_CN.po | 
+ | [de](/f35/language/de) | 6519 | 6651 | 98.0 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.de.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.de.po | 
+ | [cs](/f35/language/cs) | 6470 | 6651 | 97.3 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.cs.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.cs.po | 
+ | [ru](/f35/language/ru) | 6270 | 6651 | 94.3 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.ru.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.ru.po | 
+ | [en_GB](/f35/language/en_GB) | 5818 | 6651 | 87.5 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.en_GB.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.en_GB.po | 
+ | [es](/f35/language/es) | 5679 | 6651 | 85.4 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.es.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.es.po | 
+ | [it](/f35/language/it) | 1736 | 6651 | 26.1 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.it.po/mnt/stockage/packages/f35/ccdciel/data/language/ccdciel_hints.it.po | 
+ | [da](/f35/language/da) | 475 | 5447 | 8.7 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.da.po | 
+ | [ku](/f35/language/ku) | 38 | 5447 | 0.7 | /mnt/stockage/packages/f35/ccdciel/data/language/ccdciel.ku.po | 
 {.sortable}
 
 

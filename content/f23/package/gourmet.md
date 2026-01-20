@@ -18,59 +18,59 @@ The package gourmet (version 0.17.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/it.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/nl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/sr.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 3581 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/fi.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 3514 | 3939 | 89.2 | /mnt/stockage/packages/f23/gourmet/po/bg.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 3507 | 3939 | 89.0 | /mnt/stockage/packages/f23/gourmet/po/hu.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 3475 | 3939 | 88.2 | /mnt/stockage/packages/f23/gourmet/po/da.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 3427 | 3939 | 87.0 | /mnt/stockage/packages/f23/gourmet/po/pl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2772 | 3939 | 70.4 | /mnt/stockage/packages/f23/gourmet/po/pt_BR.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 2711 | 3939 | 68.8 | /mnt/stockage/packages/f23/gourmet/po/sl.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 2710 | 3939 | 68.8 | /mnt/stockage/packages/f23/gourmet/po/sv.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 2632 | 3939 | 66.8 | /mnt/stockage/packages/f23/gourmet/po/cs.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 2632 | 3939 | 66.8 | /mnt/stockage/packages/f23/gourmet/po/en_GB.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 2623 | 3939 | 66.6 | /mnt/stockage/packages/f23/gourmet/po/ar.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 2579 | 3939 | 65.5 | /mnt/stockage/packages/f23/gourmet/po/sk.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 4370 | 7878 | 55.5 | /mnt/stockage/packages/f23/gourmet/po/uk.po/mnt/stockage/packages/f23/gourmet/po/ru.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 1788 | 3939 | 45.4 | /mnt/stockage/packages/f23/gourmet/po/af.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 1731 | 3939 | 43.9 | /mnt/stockage/packages/f23/gourmet/po/ca.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1651 | 3939 | 41.9 | /mnt/stockage/packages/f23/gourmet/po/pt.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 1498 | 3939 | 38.0 | /mnt/stockage/packages/f23/gourmet/po/zh_HK.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 1408 | 3939 | 35.7 | /mnt/stockage/packages/f23/gourmet/po/he.po | 
- | [oc]({{< ref "/f23/language/oc.md" >}}) | 870 | 3939 | 22.1 | /mnt/stockage/packages/f23/gourmet/po/oc.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 815 | 3939 | 20.7 | /mnt/stockage/packages/f23/gourmet/po/tr.po | 
- | [nl_BE]({{< ref "/f23/language/nl_BE.md" >}}) | 660 | 3939 | 16.8 | /mnt/stockage/packages/f23/gourmet/po/nl_BE.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 577 | 3939 | 14.6 | /mnt/stockage/packages/f23/gourmet/po/ga.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 561 | 3939 | 14.2 | /mnt/stockage/packages/f23/gourmet/po/id.po | 
- | [de_AT]({{< ref "/f23/language/de_AT.md" >}}) | 554 | 3939 | 14.1 | /mnt/stockage/packages/f23/gourmet/po/de_AT.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 439 | 3939 | 11.1 | /mnt/stockage/packages/f23/gourmet/po/gl.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 780 | 7878 | 9.9 | /mnt/stockage/packages/f23/gourmet/po/zh_CN.po/mnt/stockage/packages/f23/gourmet/po/zh.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 388 | 3939 | 9.9 | /mnt/stockage/packages/f23/gourmet/po/bs.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 222 | 3939 | 5.6 | /mnt/stockage/packages/f23/gourmet/po/lt.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 48 | 3939 | 1.2 | /mnt/stockage/packages/f23/gourmet/po/ro.po | 
- | [en_CA]({{< ref "/f23/language/en_CA.md" >}}) | 40 | 3939 | 1.0 | /mnt/stockage/packages/f23/gourmet/po/en_CA.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 35 | 3939 | 0.9 | /mnt/stockage/packages/f23/gourmet/po/eo.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 35 | 3939 | 0.9 | /mnt/stockage/packages/f23/gourmet/po/et.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 33 | 3939 | 0.8 | /mnt/stockage/packages/f23/gourmet/po/ja.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 29 | 3939 | 0.7 | /mnt/stockage/packages/f23/gourmet/po/th.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 27 | 3939 | 0.7 | /mnt/stockage/packages/f23/gourmet/po/ms.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 20 | 3939 | 0.5 | /mnt/stockage/packages/f23/gourmet/po/hr.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 19 | 3939 | 0.5 | /mnt/stockage/packages/f23/gourmet/po/mk.po | 
- | [az]({{< ref "/f23/language/az.md" >}}) | 14 | 3939 | 0.4 | /mnt/stockage/packages/f23/gourmet/po/az.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 13 | 3939 | 0.3 | /mnt/stockage/packages/f23/gourmet/po/fa.po | 
- | [en_AU]({{< ref "/f23/language/en_AU.md" >}}) | 8 | 3939 | 0.2 | /mnt/stockage/packages/f23/gourmet/po/en_AU.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 8 | 3939 | 0.2 | /mnt/stockage/packages/f23/gourmet/po/lv.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 4 | 3939 | 0.1 | /mnt/stockage/packages/f23/gourmet/po/hi.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 1 | 3939 | 0.0 | /mnt/stockage/packages/f23/gourmet/po/is.po | 
- | [yi]({{< ref "/f23/language/yi.md" >}}) | 1 | 3939 | 0.0 | /mnt/stockage/packages/f23/gourmet/po/yi.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 1 | 3939 | 0.0 | /mnt/stockage/packages/f23/gourmet/po/zh_TW.po | 
+ | [de](/f23/language/de) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/de.po | 
+ | [el](/f23/language/el) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/el.po | 
+ | [es](/f23/language/es) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/es.po | 
+ | [fr](/f23/language/fr) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/fr.po | 
+ | [it](/f23/language/it) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/it.po | 
+ | [nb_NO](/f23/language/nb_NO) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/nb.po | 
+ | [nl](/f23/language/nl) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/nl.po | 
+ | [sr](/f23/language/sr) | 3582 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/sr.po | 
+ | [fi](/f23/language/fi) | 3581 | 3939 | 90.9 | /mnt/stockage/packages/f23/gourmet/po/fi.po | 
+ | [bg](/f23/language/bg) | 3514 | 3939 | 89.2 | /mnt/stockage/packages/f23/gourmet/po/bg.po | 
+ | [hu](/f23/language/hu) | 3507 | 3939 | 89.0 | /mnt/stockage/packages/f23/gourmet/po/hu.po | 
+ | [da](/f23/language/da) | 3475 | 3939 | 88.2 | /mnt/stockage/packages/f23/gourmet/po/da.po | 
+ | [pl](/f23/language/pl) | 3427 | 3939 | 87.0 | /mnt/stockage/packages/f23/gourmet/po/pl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2772 | 3939 | 70.4 | /mnt/stockage/packages/f23/gourmet/po/pt_BR.po | 
+ | [sl](/f23/language/sl) | 2711 | 3939 | 68.8 | /mnt/stockage/packages/f23/gourmet/po/sl.po | 
+ | [sv](/f23/language/sv) | 2710 | 3939 | 68.8 | /mnt/stockage/packages/f23/gourmet/po/sv.po | 
+ | [cs](/f23/language/cs) | 2632 | 3939 | 66.8 | /mnt/stockage/packages/f23/gourmet/po/cs.po | 
+ | [en_GB](/f23/language/en_GB) | 2632 | 3939 | 66.8 | /mnt/stockage/packages/f23/gourmet/po/en_GB.po | 
+ | [ar](/f23/language/ar) | 2623 | 3939 | 66.6 | /mnt/stockage/packages/f23/gourmet/po/ar.po | 
+ | [sk](/f23/language/sk) | 2579 | 3939 | 65.5 | /mnt/stockage/packages/f23/gourmet/po/sk.po | 
+ | [ru](/f23/language/ru) | 4370 | 7878 | 55.5 | /mnt/stockage/packages/f23/gourmet/po/uk.po/mnt/stockage/packages/f23/gourmet/po/ru.po | 
+ | [af](/f23/language/af) | 1788 | 3939 | 45.4 | /mnt/stockage/packages/f23/gourmet/po/af.po | 
+ | [ca](/f23/language/ca) | 1731 | 3939 | 43.9 | /mnt/stockage/packages/f23/gourmet/po/ca.po | 
+ | [pt](/f23/language/pt) | 1651 | 3939 | 41.9 | /mnt/stockage/packages/f23/gourmet/po/pt.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 1498 | 3939 | 38.0 | /mnt/stockage/packages/f23/gourmet/po/zh_HK.po | 
+ | [he](/f23/language/he) | 1408 | 3939 | 35.7 | /mnt/stockage/packages/f23/gourmet/po/he.po | 
+ | [oc](/f23/language/oc) | 870 | 3939 | 22.1 | /mnt/stockage/packages/f23/gourmet/po/oc.po | 
+ | [tr](/f23/language/tr) | 815 | 3939 | 20.7 | /mnt/stockage/packages/f23/gourmet/po/tr.po | 
+ | [nl_BE](/f23/language/nl_BE) | 660 | 3939 | 16.8 | /mnt/stockage/packages/f23/gourmet/po/nl_BE.po | 
+ | [ga](/f23/language/ga) | 577 | 3939 | 14.6 | /mnt/stockage/packages/f23/gourmet/po/ga.po | 
+ | [id](/f23/language/id) | 561 | 3939 | 14.2 | /mnt/stockage/packages/f23/gourmet/po/id.po | 
+ | [de_AT](/f23/language/de_AT) | 554 | 3939 | 14.1 | /mnt/stockage/packages/f23/gourmet/po/de_AT.po | 
+ | [gl](/f23/language/gl) | 439 | 3939 | 11.1 | /mnt/stockage/packages/f23/gourmet/po/gl.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 780 | 7878 | 9.9 | /mnt/stockage/packages/f23/gourmet/po/zh_CN.po/mnt/stockage/packages/f23/gourmet/po/zh.po | 
+ | [bs](/f23/language/bs) | 388 | 3939 | 9.9 | /mnt/stockage/packages/f23/gourmet/po/bs.po | 
+ | [lt](/f23/language/lt) | 222 | 3939 | 5.6 | /mnt/stockage/packages/f23/gourmet/po/lt.po | 
+ | [ro](/f23/language/ro) | 48 | 3939 | 1.2 | /mnt/stockage/packages/f23/gourmet/po/ro.po | 
+ | [en_CA](/f23/language/en_CA) | 40 | 3939 | 1.0 | /mnt/stockage/packages/f23/gourmet/po/en_CA.po | 
+ | [eo](/f23/language/eo) | 35 | 3939 | 0.9 | /mnt/stockage/packages/f23/gourmet/po/eo.po | 
+ | [et](/f23/language/et) | 35 | 3939 | 0.9 | /mnt/stockage/packages/f23/gourmet/po/et.po | 
+ | [ja](/f23/language/ja) | 33 | 3939 | 0.8 | /mnt/stockage/packages/f23/gourmet/po/ja.po | 
+ | [th](/f23/language/th) | 29 | 3939 | 0.7 | /mnt/stockage/packages/f23/gourmet/po/th.po | 
+ | [ms](/f23/language/ms) | 27 | 3939 | 0.7 | /mnt/stockage/packages/f23/gourmet/po/ms.po | 
+ | [hr](/f23/language/hr) | 20 | 3939 | 0.5 | /mnt/stockage/packages/f23/gourmet/po/hr.po | 
+ | [mk](/f23/language/mk) | 19 | 3939 | 0.5 | /mnt/stockage/packages/f23/gourmet/po/mk.po | 
+ | [az](/f23/language/az) | 14 | 3939 | 0.4 | /mnt/stockage/packages/f23/gourmet/po/az.po | 
+ | [fa](/f23/language/fa) | 13 | 3939 | 0.3 | /mnt/stockage/packages/f23/gourmet/po/fa.po | 
+ | [en_AU](/f23/language/en_AU) | 8 | 3939 | 0.2 | /mnt/stockage/packages/f23/gourmet/po/en_AU.po | 
+ | [lv](/f23/language/lv) | 8 | 3939 | 0.2 | /mnt/stockage/packages/f23/gourmet/po/lv.po | 
+ | [hi](/f23/language/hi) | 4 | 3939 | 0.1 | /mnt/stockage/packages/f23/gourmet/po/hi.po | 
+ | [is](/f23/language/is) | 1 | 3939 | 0.0 | /mnt/stockage/packages/f23/gourmet/po/is.po | 
+ | [yi](/f23/language/yi) | 1 | 3939 | 0.0 | /mnt/stockage/packages/f23/gourmet/po/yi.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 1 | 3939 | 0.0 | /mnt/stockage/packages/f23/gourmet/po/zh_TW.po | 
 {.sortable}
 
 

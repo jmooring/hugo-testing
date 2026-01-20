@@ -18,16 +18,16 @@ The package trytond-calendar (version 2.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 490 | 490 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 489 | 489 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 632 | 632 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/fr_FR.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 477 | 489 | 97.5 | /mnt/stockage/packages/f18/trytond-calendar/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 314 | 489 | 64.2 | /mnt/stockage/packages/f18/trytond-calendar/locale/ca_ES.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 285 | 489 | 58.3 | /mnt/stockage/packages/f18/trytond-calendar/locale/ru_RU.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 224 | 490 | 45.7 | /mnt/stockage/packages/f18/trytond-calendar/locale/es_CO.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 489 | 0.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/cs_CZ.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 489 | 0.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/nl_NL.po | 
+ | [de](/f18/language/de) | 490 | 490 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/de_DE.po | 
+ | [es](/f18/language/es) | 489 | 489 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 489 | 489 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 632 | 632 | 100.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/fr_FR.po | 
+ | [bg](/f18/language/bg) | 477 | 489 | 97.5 | /mnt/stockage/packages/f18/trytond-calendar/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 314 | 489 | 64.2 | /mnt/stockage/packages/f18/trytond-calendar/locale/ca_ES.po | 
+ | [ru](/f18/language/ru) | 285 | 489 | 58.3 | /mnt/stockage/packages/f18/trytond-calendar/locale/ru_RU.po | 
+ | [es_CO](/f18/language/es_CO) | 224 | 490 | 45.7 | /mnt/stockage/packages/f18/trytond-calendar/locale/es_CO.po | 
+ | [cs](/f18/language/cs) | 0 | 489 | 0.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/cs_CZ.po | 
+ | [nl](/f18/language/nl) | 0 | 489 | 0.0 | /mnt/stockage/packages/f18/trytond-calendar/locale/nl_NL.po | 
 {.sortable}
 
 

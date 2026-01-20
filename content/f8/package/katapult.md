@@ -18,32 +18,32 @@ The package katapult (version 0.3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/bg/katapult.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/da/katapult.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/de/katapult.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/el/katapult.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/es/katapult.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/et/katapult.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/gl/katapult.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/hu/katapult.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/it/katapult.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/ja/katapult.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/nb/katapult.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/nl/katapult.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/pt/katapult.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/pt_BR/katapult.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/sv/katapult.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 426 | 427 | 99.8 | /mnt/stockage/packages/f8/katapult/po/fr/katapult.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 352 | 427 | 82.4 | /mnt/stockage/packages/f8/katapult/po/tr/katapult.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 238 | 427 | 55.7 | /mnt/stockage/packages/f8/katapult/po/ru/katapult.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 185 | 427 | 43.3 | /mnt/stockage/packages/f8/katapult/po/pl/katapult.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 102 | 427 | 23.9 | /mnt/stockage/packages/f8/katapult/po/uk/katapult.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 75 | 427 | 17.6 | /mnt/stockage/packages/f8/katapult/po/ga/katapult.po | 
- | [br]({{< ref "/f8/language/br.md" >}}) | 62 | 427 | 14.5 | /mnt/stockage/packages/f8/katapult/po/br/katapult.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 54 | 427 | 12.6 | /mnt/stockage/packages/f8/katapult/po/ca/katapult.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 35 | 427 | 8.2 | /mnt/stockage/packages/f8/katapult/po/cs/katapult.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 23 | 427 | 5.4 | /mnt/stockage/packages/f8/katapult/po/ar/katapult.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 0 | 427 | 0.0 | /mnt/stockage/packages/f8/katapult/po/sk/katapult.po | 
+ | [bg](/f8/language/bg) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/bg/katapult.po | 
+ | [da](/f8/language/da) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/da/katapult.po | 
+ | [de](/f8/language/de) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/de/katapult.po | 
+ | [el](/f8/language/el) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/el/katapult.po | 
+ | [es](/f8/language/es) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/es/katapult.po | 
+ | [et](/f8/language/et) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/et/katapult.po | 
+ | [gl](/f8/language/gl) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/gl/katapult.po | 
+ | [hu](/f8/language/hu) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/hu/katapult.po | 
+ | [it](/f8/language/it) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/it/katapult.po | 
+ | [ja](/f8/language/ja) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/ja/katapult.po | 
+ | [nb_NO](/f8/language/nb_NO) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/nb/katapult.po | 
+ | [nl](/f8/language/nl) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/nl/katapult.po | 
+ | [pt](/f8/language/pt) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/pt/katapult.po | 
+ | [pt_BR](/f8/language/pt_BR) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/pt_BR/katapult.po | 
+ | [sv](/f8/language/sv) | 427 | 427 | 100.0 | /mnt/stockage/packages/f8/katapult/po/sv/katapult.po | 
+ | [fr](/f8/language/fr) | 426 | 427 | 99.8 | /mnt/stockage/packages/f8/katapult/po/fr/katapult.po | 
+ | [tr](/f8/language/tr) | 352 | 427 | 82.4 | /mnt/stockage/packages/f8/katapult/po/tr/katapult.po | 
+ | [ru](/f8/language/ru) | 238 | 427 | 55.7 | /mnt/stockage/packages/f8/katapult/po/ru/katapult.po | 
+ | [pl](/f8/language/pl) | 185 | 427 | 43.3 | /mnt/stockage/packages/f8/katapult/po/pl/katapult.po | 
+ | [uk](/f8/language/uk) | 102 | 427 | 23.9 | /mnt/stockage/packages/f8/katapult/po/uk/katapult.po | 
+ | [ga](/f8/language/ga) | 75 | 427 | 17.6 | /mnt/stockage/packages/f8/katapult/po/ga/katapult.po | 
+ | [br](/f8/language/br) | 62 | 427 | 14.5 | /mnt/stockage/packages/f8/katapult/po/br/katapult.po | 
+ | [ca](/f8/language/ca) | 54 | 427 | 12.6 | /mnt/stockage/packages/f8/katapult/po/ca/katapult.po | 
+ | [cs](/f8/language/cs) | 35 | 427 | 8.2 | /mnt/stockage/packages/f8/katapult/po/cs/katapult.po | 
+ | [ar](/f8/language/ar) | 23 | 427 | 5.4 | /mnt/stockage/packages/f8/katapult/po/ar/katapult.po | 
+ | [sk](/f8/language/sk) | 0 | 427 | 0.0 | /mnt/stockage/packages/f8/katapult/po/sk/katapult.po | 
 {.sortable}
 
 

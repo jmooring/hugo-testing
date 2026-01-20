@@ -18,18 +18,18 @@ The package agave (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f10/agave/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f10/agave/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/agave/po/es_ES.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f10/agave/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f10/agave/po/it.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f10/agave/po/nl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/agave/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f10/agave/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f10/agave/po/sv.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f10/agave/po/zh_TW.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 114 | 115 | 99.1 | /mnt/stockage/packages/f10/agave/po/cs.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 82 | 85 | 96.5 | /mnt/stockage/packages/f10/agave/po/bg.po | 
+ | [ca](/f10/language/ca) | 108 | 108 | 100.0 | /mnt/stockage/packages/f10/agave/po/ca.po | 
+ | [de](/f10/language/de) | 283 | 283 | 100.0 | /mnt/stockage/packages/f10/agave/po/de.po | 
+ | [es](/f10/language/es) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/agave/po/es_ES.po | 
+ | [fr](/f10/language/fr) | 115 | 115 | 100.0 | /mnt/stockage/packages/f10/agave/po/fr.po | 
+ | [it](/f10/language/it) | 115 | 115 | 100.0 | /mnt/stockage/packages/f10/agave/po/it.po | 
+ | [nl](/f10/language/nl) | 283 | 283 | 100.0 | /mnt/stockage/packages/f10/agave/po/nl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 85 | 85 | 100.0 | /mnt/stockage/packages/f10/agave/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 87 | 87 | 100.0 | /mnt/stockage/packages/f10/agave/po/ru.po | 
+ | [sv](/f10/language/sv) | 283 | 283 | 100.0 | /mnt/stockage/packages/f10/agave/po/sv.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 115 | 115 | 100.0 | /mnt/stockage/packages/f10/agave/po/zh_TW.po | 
+ | [cs](/f10/language/cs) | 114 | 115 | 99.1 | /mnt/stockage/packages/f10/agave/po/cs.po | 
+ | [bg](/f10/language/bg) | 82 | 85 | 96.5 | /mnt/stockage/packages/f10/agave/po/bg.po | 
 {.sortable}
 
 

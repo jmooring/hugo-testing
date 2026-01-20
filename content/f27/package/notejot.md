@@ -18,14 +18,14 @@ The package notejot (version 1.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/ca.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f27/notejot/po/fr.po/mnt/stockage/packages/f27/notejot/po/es.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/ja.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/lt.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/nl_NL.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/pl.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/tr_TR.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 5 | 14 | 35.7 | /mnt/stockage/packages/f27/notejot/po/pt_BR.po | 
+ | [ca](/f27/language/ca) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/ca.po | 
+ | [es](/f27/language/es) | 28 | 28 | 100.0 | /mnt/stockage/packages/f27/notejot/po/fr.po/mnt/stockage/packages/f27/notejot/po/es.po | 
+ | [ja](/f27/language/ja) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/ja.po | 
+ | [lt](/f27/language/lt) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/lt.po | 
+ | [nl](/f27/language/nl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/nl_NL.po | 
+ | [pl](/f27/language/pl) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/pl.po | 
+ | [tr](/f27/language/tr) | 14 | 14 | 100.0 | /mnt/stockage/packages/f27/notejot/po/tr_TR.po | 
+ | [pt_BR](/f27/language/pt_BR) | 5 | 14 | 35.7 | /mnt/stockage/packages/f27/notejot/po/pt_BR.po | 
 {.sortable}
 
 

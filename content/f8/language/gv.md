@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 4 | 12174 | 0.0 | Manx Gaelic | 
+ | [iso-codes](/f8/package/iso-codes) | 4 | 12174 | 0.0 | Manx Gaelic | 
 {.sortable}
 
 

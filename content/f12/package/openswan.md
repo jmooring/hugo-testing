@@ -18,19 +18,19 @@ The package openswan (version 2.6.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/fr.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/vi.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/fi.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/gl.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/ja.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/nl.po | 
+ | [cs](/f12/language/cs) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/cs.po | 
+ | [de](/f12/language/de) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/de.po | 
+ | [es](/f12/language/es) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/es.po | 
+ | [fr](/f12/language/fr) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/fr.po | 
+ | [pt](/f12/language/pt) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/ru.po | 
+ | [sv](/f12/language/sv) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/sv.po | 
+ | [vi](/f12/language/vi) | 974 | 974 | 100.0 | /mnt/stockage/packages/f12/openswan/debian/po/vi.po | 
+ | [fi](/f12/language/fi) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/fi.po | 
+ | [gl](/f12/language/gl) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/gl.po | 
+ | [ja](/f12/language/ja) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/ja.po | 
+ | [nl](/f12/language/nl) | 0 | 974 | 0.0 | /mnt/stockage/packages/f12/openswan/debian/po/nl.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package gnome-firmware (version 42.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/cs.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/hr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/it.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/tr.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/gnome-firmware/po/en_GB.po | 
+ | [cs](/f35/language/cs) | 214 | 214 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/cs.po | 
+ | [hr](/f35/language/hr) | 279 | 279 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/hr.po | 
+ | [it](/f35/language/it) | 214 | 214 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/it.po | 
+ | [tr](/f35/language/tr) | 214 | 214 | 100.0 | /mnt/stockage/packages/f35/gnome-firmware/po/tr.po | 
+ | [en_GB](/f35/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/gnome-firmware/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package qt6-qtwebengine (version 6.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 913 | 913 | 100.0 | /mnt/stockage/packages/f37/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f37/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 913 | 913 | 100.0 | /mnt/stockage/packages/f37/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po/zh_CN.po/mnt/stockage/packages/f37/qt6-qtwebengine/src/3rdparty/chromium/third_party/fontconfig/src/po-conf/zh_CN.po | 
 {.sortable}
 
 

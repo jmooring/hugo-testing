@@ -18,27 +18,27 @@ The package goodvibes (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/ca.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/hr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/nl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/pt_PT.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/te.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/tr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 322 | 334 | 96.4 | /mnt/stockage/packages/f32/goodvibes/po/nb_NO.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 182 | 334 | 54.5 | /mnt/stockage/packages/f32/goodvibes/po/ru.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 129 | 334 | 38.6 | /mnt/stockage/packages/f32/goodvibes/po/it.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 75 | 334 | 22.5 | /mnt/stockage/packages/f32/goodvibes/po/cs.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 50 | 334 | 15.0 | /mnt/stockage/packages/f32/goodvibes/po/sk.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 49 | 334 | 14.7 | /mnt/stockage/packages/f32/goodvibes/po/en_US.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 19 | 334 | 5.7 | /mnt/stockage/packages/f32/goodvibes/po/id.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 18 | 334 | 5.4 | /mnt/stockage/packages/f32/goodvibes/po/pl.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 3 | 334 | 0.9 | /mnt/stockage/packages/f32/goodvibes/po/hu.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 0 | 334 | 0.0 | /mnt/stockage/packages/f32/goodvibes/po/mr.po | 
+ | [ca](/f32/language/ca) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/ca.po | 
+ | [de](/f32/language/de) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/de.po | 
+ | [es](/f32/language/es) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/es.po | 
+ | [fr](/f32/language/fr) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/fr.po | 
+ | [hr](/f32/language/hr) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/hr.po | 
+ | [nl](/f32/language/nl) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/nl.po | 
+ | [pt](/f32/language/pt) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/pt_BR.po | 
+ | [pt_PT](/f32/language/pt_PT) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/pt_PT.po | 
+ | [te](/f32/language/te) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/te.po | 
+ | [tr](/f32/language/tr) | 334 | 334 | 100.0 | /mnt/stockage/packages/f32/goodvibes/po/tr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 322 | 334 | 96.4 | /mnt/stockage/packages/f32/goodvibes/po/nb_NO.po | 
+ | [ru](/f32/language/ru) | 182 | 334 | 54.5 | /mnt/stockage/packages/f32/goodvibes/po/ru.po | 
+ | [it](/f32/language/it) | 129 | 334 | 38.6 | /mnt/stockage/packages/f32/goodvibes/po/it.po | 
+ | [cs](/f32/language/cs) | 75 | 334 | 22.5 | /mnt/stockage/packages/f32/goodvibes/po/cs.po | 
+ | [sk](/f32/language/sk) | 50 | 334 | 15.0 | /mnt/stockage/packages/f32/goodvibes/po/sk.po | 
+ | [en_US](/f32/language/en_US) | 49 | 334 | 14.7 | /mnt/stockage/packages/f32/goodvibes/po/en_US.po | 
+ | [id](/f32/language/id) | 19 | 334 | 5.7 | /mnt/stockage/packages/f32/goodvibes/po/id.po | 
+ | [pl](/f32/language/pl) | 18 | 334 | 5.4 | /mnt/stockage/packages/f32/goodvibes/po/pl.po | 
+ | [hu](/f32/language/hu) | 3 | 334 | 0.9 | /mnt/stockage/packages/f32/goodvibes/po/hu.po | 
+ | [mr](/f32/language/mr) | 0 | 334 | 0.0 | /mnt/stockage/packages/f32/goodvibes/po/mr.po | 
 {.sortable}
 
 

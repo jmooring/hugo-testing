@@ -18,13 +18,13 @@ The package nudoku (version 6.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 185 | 185 | 100.0 | /mnt/stockage/packages/f43/nudoku/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 179 | 185 | 96.8 | /mnt/stockage/packages/f43/nudoku/po/uk.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 124 | 185 | 67.0 | /mnt/stockage/packages/f43/nudoku/po/es.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 124 | 185 | 67.0 | /mnt/stockage/packages/f43/nudoku/po/ja.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 93 | 185 | 50.3 | /mnt/stockage/packages/f43/nudoku/po/de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 93 | 185 | 50.3 | /mnt/stockage/packages/f43/nudoku/po/fr.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 90 | 185 | 48.6 | /mnt/stockage/packages/f43/nudoku/po/ru.po | 
+ | [tr](/f43/language/tr) | 185 | 185 | 100.0 | /mnt/stockage/packages/f43/nudoku/po/tr.po | 
+ | [uk](/f43/language/uk) | 179 | 185 | 96.8 | /mnt/stockage/packages/f43/nudoku/po/uk.po | 
+ | [es](/f43/language/es) | 124 | 185 | 67.0 | /mnt/stockage/packages/f43/nudoku/po/es.po | 
+ | [ja](/f43/language/ja) | 124 | 185 | 67.0 | /mnt/stockage/packages/f43/nudoku/po/ja.po | 
+ | [de](/f43/language/de) | 93 | 185 | 50.3 | /mnt/stockage/packages/f43/nudoku/po/de.po | 
+ | [fr](/f43/language/fr) | 93 | 185 | 50.3 | /mnt/stockage/packages/f43/nudoku/po/fr.po | 
+ | [ru](/f43/language/ru) | 90 | 185 | 48.6 | /mnt/stockage/packages/f43/nudoku/po/ru.po | 
 {.sortable}
 
 

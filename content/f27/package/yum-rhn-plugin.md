@@ -18,77 +18,77 @@ The package yum-rhn-plugin (version 2.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ca.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pl.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/uk.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/fr.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hu.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ia.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/nl.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bg.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bn.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/de.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pt_BR.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sv.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/zh_TW.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 97 | 294 | 33.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/it_IT.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/it.po | 
- | [bn_IN]({{< ref "/f27/language/bn_IN.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bn_IN.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/cs.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/es.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/gu.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hi.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/kn.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ko.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ml.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/mr.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/or.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pa.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ru.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ta.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/te.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/as.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hr.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/is.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/mk.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/nb.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pt.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ro.po | 
- | [si]({{< ref "/f27/language/si.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/si.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sr.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 70 | 294 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sr@latin.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/sr@Latn.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 31 | 147 | 21.1 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/tr.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 60 | 294 | 20.4 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ja_JP.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/ja.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 28 | 147 | 19.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/lv.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 45 | 294 | 15.3 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/fa_IR.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/fa.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 3 | 147 | 2.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/eu.po | 
- | [aln]({{< ref "/f27/language/aln.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/aln.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ar.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ast.po | 
- | [bn_BD]({{< ref "/f27/language/bn_BD.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bn_BD.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bs.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/cy.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/da.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/el.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/en_GB.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/et.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/fi.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/he.po | 
- | [hy]({{< ref "/f27/language/hy.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hy.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/id.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ka.po | 
- | [ku]({{< ref "/f27/language/ku.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ku.po | 
- | [lo]({{< ref "/f27/language/lo.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/lo.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/lt.po | 
- | [my]({{< ref "/f27/language/my.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/my.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/nn.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sl.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sq.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/tg.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ur.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/vi.po | 
+ | [ca](/f27/language/ca) | 147 | 147 | 100.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ca.po | 
+ | [pl](/f27/language/pl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pl.po | 
+ | [uk](/f27/language/uk) | 147 | 147 | 100.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/uk.po | 
+ | [fr](/f27/language/fr) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/fr.po | 
+ | [hu](/f27/language/hu) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hu.po | 
+ | [ia](/f27/language/ia) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ia.po | 
+ | [nl](/f27/language/nl) | 66 | 147 | 44.9 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/nl.po | 
+ | [bg](/f27/language/bg) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bg.po | 
+ | [bn](/f27/language/bn) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bn.po | 
+ | [de](/f27/language/de) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/de.po | 
+ | [pt_BR](/f27/language/pt_BR) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pt_BR.po | 
+ | [sv](/f27/language/sv) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sv.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 60 | 147 | 40.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/zh_TW.po | 
+ | [it](/f27/language/it) | 97 | 294 | 33.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/it_IT.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/it.po | 
+ | [bn_IN](/f27/language/bn_IN) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bn_IN.po | 
+ | [cs](/f27/language/cs) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/cs.po | 
+ | [es](/f27/language/es) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/es.po | 
+ | [gu](/f27/language/gu) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/gu.po | 
+ | [hi](/f27/language/hi) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hi.po | 
+ | [kn](/f27/language/kn) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/kn.po | 
+ | [ko](/f27/language/ko) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ko.po | 
+ | [ml](/f27/language/ml) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ml.po | 
+ | [mr](/f27/language/mr) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/mr.po | 
+ | [or](/f27/language/or) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/or.po | 
+ | [pa](/f27/language/pa) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pa.po | 
+ | [ru](/f27/language/ru) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ru.po | 
+ | [ta](/f27/language/ta) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ta.po | 
+ | [te](/f27/language/te) | 45 | 147 | 30.6 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/te.po | 
+ | [as](/f27/language/as) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/as.po | 
+ | [hr](/f27/language/hr) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hr.po | 
+ | [is](/f27/language/is) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/is.po | 
+ | [mk](/f27/language/mk) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/mk.po | 
+ | [ms](/f27/language/ms) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ms.po | 
+ | [nb_NO](/f27/language/nb_NO) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/nb.po | 
+ | [pt](/f27/language/pt) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/pt.po | 
+ | [ro](/f27/language/ro) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ro.po | 
+ | [si](/f27/language/si) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/si.po | 
+ | [sr](/f27/language/sr) | 35 | 147 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sr.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 70 | 294 | 23.8 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sr@latin.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/sr@Latn.po | 
+ | [tr](/f27/language/tr) | 31 | 147 | 21.1 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/tr.po | 
+ | [ja](/f27/language/ja) | 60 | 294 | 20.4 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ja_JP.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/ja.po | 
+ | [lv](/f27/language/lv) | 28 | 147 | 19.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/lv.po | 
+ | [fa](/f27/language/fa) | 45 | 294 | 15.3 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/fa_IR.po/mnt/stockage/packages/f27/yum-rhn-plugin/po/fa.po | 
+ | [eu](/f27/language/eu) | 3 | 147 | 2.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/eu.po | 
+ | [aln](/f27/language/aln) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/aln.po | 
+ | [ar](/f27/language/ar) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ar.po | 
+ | [ast](/f27/language/ast) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ast.po | 
+ | [bn_BD](/f27/language/bn_BD) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bn_BD.po | 
+ | [bs](/f27/language/bs) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/bs.po | 
+ | [cy](/f27/language/cy) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/cy.po | 
+ | [da](/f27/language/da) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/da.po | 
+ | [el](/f27/language/el) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/el.po | 
+ | [en_GB](/f27/language/en_GB) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/en_GB.po | 
+ | [et](/f27/language/et) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/et.po | 
+ | [fi](/f27/language/fi) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/fi.po | 
+ | [he](/f27/language/he) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/he.po | 
+ | [hy](/f27/language/hy) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/hy.po | 
+ | [id](/f27/language/id) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/id.po | 
+ | [ka](/f27/language/ka) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ka.po | 
+ | [ku](/f27/language/ku) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ku.po | 
+ | [lo](/f27/language/lo) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/lo.po | 
+ | [lt](/f27/language/lt) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/lt.po | 
+ | [my](/f27/language/my) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/my.po | 
+ | [nn](/f27/language/nn) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/nn.po | 
+ | [sk](/f27/language/sk) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sk.po | 
+ | [sl](/f27/language/sl) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sl.po | 
+ | [sq](/f27/language/sq) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/sq.po | 
+ | [tg](/f27/language/tg) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/tg.po | 
+ | [ur](/f27/language/ur) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/ur.po | 
+ | [vi](/f27/language/vi) | 0 | 147 | 0.0 | /mnt/stockage/packages/f27/yum-rhn-plugin/po/vi.po | 
 {.sortable}
 
 

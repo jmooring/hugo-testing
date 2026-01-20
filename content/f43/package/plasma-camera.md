@@ -18,51 +18,51 @@ The package plasma-camera (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ar/plasma-camera.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/bg/plasma-camera.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ca/plasma-camera.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ca@valencia/plasma-camera.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/de/plasma-camera.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/es/plasma-camera.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/fr/plasma-camera.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/he/plasma-camera.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/is/plasma-camera.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ka/plasma-camera.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/nl/plasma-camera.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/pl/plasma-camera.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/pt_BR/plasma-camera.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/sl/plasma-camera.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/tr/plasma-camera.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/uk/plasma-camera.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/zh_CN/plasma-camera.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/zh_TW/plasma-camera.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 128 | 133 | 96.2 | /mnt/stockage/packages/f43/plasma-camera/po/it/plasma-camera.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/eu/plasma-camera.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/fi/plasma-camera.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/ko/plasma-camera.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/lv/plasma-camera.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/sv/plasma-camera.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 79 | 133 | 59.4 | /mnt/stockage/packages/f43/plasma-camera/po/lt/plasma-camera.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 67 | 133 | 50.4 | /mnt/stockage/packages/f43/plasma-camera/po/da/plasma-camera.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 59 | 133 | 44.4 | /mnt/stockage/packages/f43/plasma-camera/po/ru/plasma-camera.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/az/plasma-camera.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/en_GB/plasma-camera.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/eo/plasma-camera.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/gl/plasma-camera.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/hi/plasma-camera.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/hu/plasma-camera.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/ia/plasma-camera.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/id/plasma-camera.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/nn/plasma-camera.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/ro/plasma-camera.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/sa/plasma-camera.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/el/plasma-camera.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/et/plasma-camera.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/pa/plasma-camera.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/pt/plasma-camera.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/sk/plasma-camera.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 35 | 133 | 26.3 | /mnt/stockage/packages/f43/plasma-camera/po/cs/plasma-camera.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f43/plasma-camera/po/ja/plasma-camera.po | 
+ | [ar](/f43/language/ar) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ar/plasma-camera.po | 
+ | [bg](/f43/language/bg) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/bg/plasma-camera.po | 
+ | [ca](/f43/language/ca) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ca/plasma-camera.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ca@valencia/plasma-camera.po | 
+ | [de](/f43/language/de) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/de/plasma-camera.po | 
+ | [es](/f43/language/es) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/es/plasma-camera.po | 
+ | [fr](/f43/language/fr) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/fr/plasma-camera.po | 
+ | [he](/f43/language/he) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/he/plasma-camera.po | 
+ | [is](/f43/language/is) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/is/plasma-camera.po | 
+ | [ka](/f43/language/ka) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/ka/plasma-camera.po | 
+ | [nl](/f43/language/nl) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/nl/plasma-camera.po | 
+ | [pl](/f43/language/pl) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/pl/plasma-camera.po | 
+ | [pt_BR](/f43/language/pt_BR) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/pt_BR/plasma-camera.po | 
+ | [sl](/f43/language/sl) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/sl/plasma-camera.po | 
+ | [tr](/f43/language/tr) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/tr/plasma-camera.po | 
+ | [uk](/f43/language/uk) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/uk/plasma-camera.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/zh_CN/plasma-camera.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 133 | 133 | 100.0 | /mnt/stockage/packages/f43/plasma-camera/po/zh_TW/plasma-camera.po | 
+ | [it](/f43/language/it) | 128 | 133 | 96.2 | /mnt/stockage/packages/f43/plasma-camera/po/it/plasma-camera.po | 
+ | [eu](/f43/language/eu) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/eu/plasma-camera.po | 
+ | [fi](/f43/language/fi) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/fi/plasma-camera.po | 
+ | [ko](/f43/language/ko) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/ko/plasma-camera.po | 
+ | [lv](/f43/language/lv) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/lv/plasma-camera.po | 
+ | [sv](/f43/language/sv) | 126 | 133 | 94.7 | /mnt/stockage/packages/f43/plasma-camera/po/sv/plasma-camera.po | 
+ | [lt](/f43/language/lt) | 79 | 133 | 59.4 | /mnt/stockage/packages/f43/plasma-camera/po/lt/plasma-camera.po | 
+ | [da](/f43/language/da) | 67 | 133 | 50.4 | /mnt/stockage/packages/f43/plasma-camera/po/da/plasma-camera.po | 
+ | [ru](/f43/language/ru) | 59 | 133 | 44.4 | /mnt/stockage/packages/f43/plasma-camera/po/ru/plasma-camera.po | 
+ | [az](/f43/language/az) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/az/plasma-camera.po | 
+ | [en_GB](/f43/language/en_GB) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/en_GB/plasma-camera.po | 
+ | [eo](/f43/language/eo) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/eo/plasma-camera.po | 
+ | [gl](/f43/language/gl) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/gl/plasma-camera.po | 
+ | [hi](/f43/language/hi) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/hi/plasma-camera.po | 
+ | [hu](/f43/language/hu) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/hu/plasma-camera.po | 
+ | [ia](/f43/language/ia) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/ia/plasma-camera.po | 
+ | [id](/f43/language/id) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/id/plasma-camera.po | 
+ | [nn](/f43/language/nn) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/nn/plasma-camera.po | 
+ | [ro](/f43/language/ro) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/ro/plasma-camera.po | 
+ | [sa](/f43/language/sa) | 55 | 133 | 41.4 | /mnt/stockage/packages/f43/plasma-camera/po/sa/plasma-camera.po | 
+ | [el](/f43/language/el) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/el/plasma-camera.po | 
+ | [et](/f43/language/et) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/et/plasma-camera.po | 
+ | [pa](/f43/language/pa) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/pa/plasma-camera.po | 
+ | [pt](/f43/language/pt) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/pt/plasma-camera.po | 
+ | [sk](/f43/language/sk) | 53 | 133 | 39.8 | /mnt/stockage/packages/f43/plasma-camera/po/sk/plasma-camera.po | 
+ | [cs](/f43/language/cs) | 35 | 133 | 26.3 | /mnt/stockage/packages/f43/plasma-camera/po/cs/plasma-camera.po | 
+ | [ja](/f43/language/ja) | 0 | 133 | 0.0 | /mnt/stockage/packages/f43/plasma-camera/po/ja/plasma-camera.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package rmlint (version 2.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1017 | 1266 | 80.3 | /mnt/stockage/packages/f35/rmlint/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 837 | 1266 | 66.1 | /mnt/stockage/packages/f35/rmlint/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 739 | 1266 | 58.4 | /mnt/stockage/packages/f35/rmlint/po/fr.po | 
+ | [de](/f35/language/de) | 1017 | 1266 | 80.3 | /mnt/stockage/packages/f35/rmlint/po/de.po | 
+ | [es](/f35/language/es) | 837 | 1266 | 66.1 | /mnt/stockage/packages/f35/rmlint/po/es.po | 
+ | [fr](/f35/language/fr) | 739 | 1266 | 58.4 | /mnt/stockage/packages/f35/rmlint/po/fr.po | 
 {.sortable}
 
 

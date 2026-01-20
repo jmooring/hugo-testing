@@ -18,8 +18,8 @@ The package alsa-utils (version 1.0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1501 | 1737 | 86.4 | /mnt/stockage/packages/f8/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f8/alsa-utils/po/ja.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f8/alsa-utils/alsaconf/po/ru.po | 
+ | [ja](/f8/language/ja) | 1501 | 1737 | 86.4 | /mnt/stockage/packages/f8/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f8/alsa-utils/po/ja.po | 
+ | [ru](/f8/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f8/alsa-utils/alsaconf/po/ru.po | 
 {.sortable}
 
 

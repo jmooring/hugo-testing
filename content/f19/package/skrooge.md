@@ -18,45 +18,45 @@ The package skrooge (version 1.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/en_GB/skrooge.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/fr/skrooge.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/pl/skrooge.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/pt/skrooge.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/pt_BR/skrooge.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/sv/skrooge.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/uk/skrooge.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 8945 | 8972 | 99.7 | /mnt/stockage/packages/f19/skrooge/po/de/skrooge.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 8866 | 8972 | 98.8 | /mnt/stockage/packages/f19/skrooge/po/da/skrooge.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 8866 | 8972 | 98.8 | /mnt/stockage/packages/f19/skrooge/po/es/skrooge.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 8863 | 8972 | 98.8 | /mnt/stockage/packages/f19/skrooge/po/it/skrooge.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 8710 | 8972 | 97.1 | /mnt/stockage/packages/f19/skrooge/po/ru/skrooge.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 8634 | 8972 | 96.2 | /mnt/stockage/packages/f19/skrooge/po/gl/skrooge.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 8490 | 8972 | 94.6 | /mnt/stockage/packages/f19/skrooge/po/cs/skrooge.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 8489 | 8972 | 94.6 | /mnt/stockage/packages/f19/skrooge/po/bs/skrooge.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 7933 | 8972 | 88.4 | /mnt/stockage/packages/f19/skrooge/po/nl/skrooge.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 7757 | 8972 | 86.5 | /mnt/stockage/packages/f19/skrooge/po/et/skrooge.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 7464 | 8972 | 83.2 | /mnt/stockage/packages/f19/skrooge/po/el/skrooge.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 7300 | 8972 | 81.4 | /mnt/stockage/packages/f19/skrooge/po/hu/skrooge.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 6722 | 8972 | 74.9 | /mnt/stockage/packages/f19/skrooge/po/lt/skrooge.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 6491 | 8926 | 72.7 | /mnt/stockage/packages/f19/skrooge/po/nb/skrooge.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 3277 | 8972 | 36.5 | /mnt/stockage/packages/f19/skrooge/po/fi/skrooge.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 2914 | 8972 | 32.5 | /mnt/stockage/packages/f19/skrooge/po/ca/skrooge.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 2914 | 8972 | 32.5 | /mnt/stockage/packages/f19/skrooge/po/ca@valencia/skrooge.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 2893 | 8972 | 32.2 | /mnt/stockage/packages/f19/skrooge/po/ko/skrooge.po | 
- | [nds]({{< ref "/f19/language/nds.md" >}}) | 2395 | 8972 | 26.7 | /mnt/stockage/packages/f19/skrooge/po/nds/skrooge.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 1114 | 8972 | 12.4 | /mnt/stockage/packages/f19/skrooge/po/tr/skrooge.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 876 | 8972 | 9.8 | /mnt/stockage/packages/f19/skrooge/po/sk/skrooge.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 758 | 8972 | 8.4 | /mnt/stockage/packages/f19/skrooge/po/zh_TW/skrooge.po | 
- | [ia]({{< ref "/f19/language/ia.md" >}}) | 617 | 8972 | 6.9 | /mnt/stockage/packages/f19/skrooge/po/ia/skrooge.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 611 | 8972 | 6.8 | /mnt/stockage/packages/f19/skrooge/po/zh_CN/skrooge.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 557 | 8972 | 6.2 | /mnt/stockage/packages/f19/skrooge/po/ug/skrooge.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 347 | 8972 | 3.9 | /mnt/stockage/packages/f19/skrooge/po/ga/skrooge.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 219 | 8972 | 2.4 | /mnt/stockage/packages/f19/skrooge/po/mr/skrooge.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 79 | 8972 | 0.9 | /mnt/stockage/packages/f19/skrooge/po/bg/skrooge.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 50 | 8972 | 0.6 | /mnt/stockage/packages/f19/skrooge/po/eo/skrooge.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 36 | 8972 | 0.4 | /mnt/stockage/packages/f19/skrooge/po/ro/skrooge.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 6 | 8972 | 0.1 | /mnt/stockage/packages/f19/skrooge/po/ms/skrooge.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 8972 | 0.0 | /mnt/stockage/packages/f19/skrooge/po/ja/skrooge.po | 
+ | [en_GB](/f19/language/en_GB) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/en_GB/skrooge.po | 
+ | [fr](/f19/language/fr) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/fr/skrooge.po | 
+ | [pl](/f19/language/pl) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/pl/skrooge.po | 
+ | [pt](/f19/language/pt) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/pt/skrooge.po | 
+ | [pt_BR](/f19/language/pt_BR) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/pt_BR/skrooge.po | 
+ | [sv](/f19/language/sv) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/sv/skrooge.po | 
+ | [uk](/f19/language/uk) | 8972 | 8972 | 100.0 | /mnt/stockage/packages/f19/skrooge/po/uk/skrooge.po | 
+ | [de](/f19/language/de) | 8945 | 8972 | 99.7 | /mnt/stockage/packages/f19/skrooge/po/de/skrooge.po | 
+ | [da](/f19/language/da) | 8866 | 8972 | 98.8 | /mnt/stockage/packages/f19/skrooge/po/da/skrooge.po | 
+ | [es](/f19/language/es) | 8866 | 8972 | 98.8 | /mnt/stockage/packages/f19/skrooge/po/es/skrooge.po | 
+ | [it](/f19/language/it) | 8863 | 8972 | 98.8 | /mnt/stockage/packages/f19/skrooge/po/it/skrooge.po | 
+ | [ru](/f19/language/ru) | 8710 | 8972 | 97.1 | /mnt/stockage/packages/f19/skrooge/po/ru/skrooge.po | 
+ | [gl](/f19/language/gl) | 8634 | 8972 | 96.2 | /mnt/stockage/packages/f19/skrooge/po/gl/skrooge.po | 
+ | [cs](/f19/language/cs) | 8490 | 8972 | 94.6 | /mnt/stockage/packages/f19/skrooge/po/cs/skrooge.po | 
+ | [bs](/f19/language/bs) | 8489 | 8972 | 94.6 | /mnt/stockage/packages/f19/skrooge/po/bs/skrooge.po | 
+ | [nl](/f19/language/nl) | 7933 | 8972 | 88.4 | /mnt/stockage/packages/f19/skrooge/po/nl/skrooge.po | 
+ | [et](/f19/language/et) | 7757 | 8972 | 86.5 | /mnt/stockage/packages/f19/skrooge/po/et/skrooge.po | 
+ | [el](/f19/language/el) | 7464 | 8972 | 83.2 | /mnt/stockage/packages/f19/skrooge/po/el/skrooge.po | 
+ | [hu](/f19/language/hu) | 7300 | 8972 | 81.4 | /mnt/stockage/packages/f19/skrooge/po/hu/skrooge.po | 
+ | [lt](/f19/language/lt) | 6722 | 8972 | 74.9 | /mnt/stockage/packages/f19/skrooge/po/lt/skrooge.po | 
+ | [nb_NO](/f19/language/nb_NO) | 6491 | 8926 | 72.7 | /mnt/stockage/packages/f19/skrooge/po/nb/skrooge.po | 
+ | [fi](/f19/language/fi) | 3277 | 8972 | 36.5 | /mnt/stockage/packages/f19/skrooge/po/fi/skrooge.po | 
+ | [ca](/f19/language/ca) | 2914 | 8972 | 32.5 | /mnt/stockage/packages/f19/skrooge/po/ca/skrooge.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 2914 | 8972 | 32.5 | /mnt/stockage/packages/f19/skrooge/po/ca@valencia/skrooge.po | 
+ | [ko](/f19/language/ko) | 2893 | 8972 | 32.2 | /mnt/stockage/packages/f19/skrooge/po/ko/skrooge.po | 
+ | [nds](/f19/language/nds) | 2395 | 8972 | 26.7 | /mnt/stockage/packages/f19/skrooge/po/nds/skrooge.po | 
+ | [tr](/f19/language/tr) | 1114 | 8972 | 12.4 | /mnt/stockage/packages/f19/skrooge/po/tr/skrooge.po | 
+ | [sk](/f19/language/sk) | 876 | 8972 | 9.8 | /mnt/stockage/packages/f19/skrooge/po/sk/skrooge.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 758 | 8972 | 8.4 | /mnt/stockage/packages/f19/skrooge/po/zh_TW/skrooge.po | 
+ | [ia](/f19/language/ia) | 617 | 8972 | 6.9 | /mnt/stockage/packages/f19/skrooge/po/ia/skrooge.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 611 | 8972 | 6.8 | /mnt/stockage/packages/f19/skrooge/po/zh_CN/skrooge.po | 
+ | [ug](/f19/language/ug) | 557 | 8972 | 6.2 | /mnt/stockage/packages/f19/skrooge/po/ug/skrooge.po | 
+ | [ga](/f19/language/ga) | 347 | 8972 | 3.9 | /mnt/stockage/packages/f19/skrooge/po/ga/skrooge.po | 
+ | [mr](/f19/language/mr) | 219 | 8972 | 2.4 | /mnt/stockage/packages/f19/skrooge/po/mr/skrooge.po | 
+ | [bg](/f19/language/bg) | 79 | 8972 | 0.9 | /mnt/stockage/packages/f19/skrooge/po/bg/skrooge.po | 
+ | [eo](/f19/language/eo) | 50 | 8972 | 0.6 | /mnt/stockage/packages/f19/skrooge/po/eo/skrooge.po | 
+ | [ro](/f19/language/ro) | 36 | 8972 | 0.4 | /mnt/stockage/packages/f19/skrooge/po/ro/skrooge.po | 
+ | [ms](/f19/language/ms) | 6 | 8972 | 0.1 | /mnt/stockage/packages/f19/skrooge/po/ms/skrooge.po | 
+ | [ja](/f19/language/ja) | 0 | 8972 | 0.0 | /mnt/stockage/packages/f19/skrooge/po/ja/skrooge.po | 
 {.sortable}
 
 

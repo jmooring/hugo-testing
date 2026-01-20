@@ -18,10 +18,10 @@ The package m17n-db (version 1.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 1120 | 1390 | 80.6 | /mnt/stockage/packages/f31/m17n-db/po/de.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 130 | 1390 | 9.4 | /mnt/stockage/packages/f31/m17n-db/po/vi.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 107 | 1390 | 7.7 | /mnt/stockage/packages/f31/m17n-db/po/ja.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 44 | 1390 | 3.2 | /mnt/stockage/packages/f31/m17n-db/po/eo.po | 
+ | [de](/f31/language/de) | 1120 | 1390 | 80.6 | /mnt/stockage/packages/f31/m17n-db/po/de.po | 
+ | [vi](/f31/language/vi) | 130 | 1390 | 9.4 | /mnt/stockage/packages/f31/m17n-db/po/vi.po | 
+ | [ja](/f31/language/ja) | 107 | 1390 | 7.7 | /mnt/stockage/packages/f31/m17n-db/po/ja.po | 
+ | [eo](/f31/language/eo) | 44 | 1390 | 3.2 | /mnt/stockage/packages/f31/m17n-db/po/eo.po | 
 {.sortable}
 
 

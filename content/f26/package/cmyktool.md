@@ -18,11 +18,11 @@ The package cmyktool (version 0.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f26/language/es.md" >}}) | 856 | 861 | 99.4 | /mnt/stockage/packages/f26/cmyktool/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 856 | 861 | 99.4 | /mnt/stockage/packages/f26/cmyktool/po/fr.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 853 | 861 | 99.1 | /mnt/stockage/packages/f26/cmyktool/po/ru.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 830 | 861 | 96.4 | /mnt/stockage/packages/f26/cmyktool/po/pt_BR.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 489 | 861 | 56.8 | /mnt/stockage/packages/f26/cmyktool/po/ja.po | 
+ | [es](/f26/language/es) | 856 | 861 | 99.4 | /mnt/stockage/packages/f26/cmyktool/po/es.po | 
+ | [fr](/f26/language/fr) | 856 | 861 | 99.4 | /mnt/stockage/packages/f26/cmyktool/po/fr.po | 
+ | [ru](/f26/language/ru) | 853 | 861 | 99.1 | /mnt/stockage/packages/f26/cmyktool/po/ru.po | 
+ | [pt_BR](/f26/language/pt_BR) | 830 | 861 | 96.4 | /mnt/stockage/packages/f26/cmyktool/po/pt_BR.po | 
+ | [ja](/f26/language/ja) | 489 | 861 | 56.8 | /mnt/stockage/packages/f26/cmyktool/po/ja.po | 
 {.sortable}
 
 

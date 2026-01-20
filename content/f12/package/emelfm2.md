@@ -18,11 +18,11 @@ The package emelfm2 (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 5910 | 5926 | 99.7 | /mnt/stockage/packages/f12/emelfm2/po/fr.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 5898 | 5926 | 99.5 | /mnt/stockage/packages/f12/emelfm2/po/de.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 5788 | 5926 | 97.7 | /mnt/stockage/packages/f12/emelfm2/po/ru.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 5734 | 5926 | 96.8 | /mnt/stockage/packages/f12/emelfm2/po/pl.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 4598 | 5926 | 77.6 | /mnt/stockage/packages/f12/emelfm2/po/ja.po | 
+ | [fr](/f12/language/fr) | 5910 | 5926 | 99.7 | /mnt/stockage/packages/f12/emelfm2/po/fr.po | 
+ | [de](/f12/language/de) | 5898 | 5926 | 99.5 | /mnt/stockage/packages/f12/emelfm2/po/de.po | 
+ | [ru](/f12/language/ru) | 5788 | 5926 | 97.7 | /mnt/stockage/packages/f12/emelfm2/po/ru.po | 
+ | [pl](/f12/language/pl) | 5734 | 5926 | 96.8 | /mnt/stockage/packages/f12/emelfm2/po/pl.po | 
+ | [ja](/f12/language/ja) | 4598 | 5926 | 77.6 | /mnt/stockage/packages/f12/emelfm2/po/ja.po | 
 {.sortable}
 
 

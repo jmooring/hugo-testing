@@ -18,15 +18,15 @@ The package attr (version 2.4.48):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f29/language/error.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f29/attr/po/en@boldquot.po/mnt/stockage/packages/f29/attr/po/en@quot.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/cs.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/es.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/gl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/pl.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 208 | 348 | 59.8 | /mnt/stockage/packages/f29/attr/po/fr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 208 | 348 | 59.8 | /mnt/stockage/packages/f29/attr/po/nl.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 208 | 348 | 59.8 | /mnt/stockage/packages/f29/attr/po/sv.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 197 | 348 | 56.6 | /mnt/stockage/packages/f29/attr/po/de.po | 
+ | [error](/f29/language/error) | 696 | 696 | 100.0 | /mnt/stockage/packages/f29/attr/po/en@boldquot.po/mnt/stockage/packages/f29/attr/po/en@quot.po | 
+ | [cs](/f29/language/cs) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/cs.po | 
+ | [es](/f29/language/es) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/es.po | 
+ | [gl](/f29/language/gl) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/gl.po | 
+ | [pl](/f29/language/pl) | 293 | 348 | 84.2 | /mnt/stockage/packages/f29/attr/po/pl.po | 
+ | [fr](/f29/language/fr) | 208 | 348 | 59.8 | /mnt/stockage/packages/f29/attr/po/fr.po | 
+ | [nl](/f29/language/nl) | 208 | 348 | 59.8 | /mnt/stockage/packages/f29/attr/po/nl.po | 
+ | [sv](/f29/language/sv) | 208 | 348 | 59.8 | /mnt/stockage/packages/f29/attr/po/sv.po | 
+ | [de](/f29/language/de) | 197 | 348 | 56.6 | /mnt/stockage/packages/f29/attr/po/de.po | 
 {.sortable}
 
 

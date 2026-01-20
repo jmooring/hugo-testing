@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f14/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-backgrounds]({{< ref "/f14/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f14/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
- | [xdg-user-dirs]({{< ref "/f14/package/xdg-user-dirs.md" >}}) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
- | [gnome-desktop]({{< ref "/f14/package/gnome-desktop.md" >}}) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
- | [epiphany]({{< ref "/f14/package/epiphany.md" >}}) | 503 | 3054 | 16.5 | Aragonese <softaragones@googlegroups.com> | 
- | [transmission]({{< ref "/f14/package/transmission.md" >}}) | 243 | 1508 | 16.1 | Aragonese <an@li.org> | 
- | [empathy]({{< ref "/f14/package/empathy.md" >}}) | 437 | 3620 | 12.1 | Aragonese <softaragones@googlegroups.com> | 
+ | [alacarte](/f14/package/alacarte) | 42 | 42 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-backgrounds](/f14/package/gnome-backgrounds) | 23 | 23 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-menus](/f14/package/gnome-menus) | 125 | 125 | 100.0 | Aragonés <softaragones@googlegroups.com> | 
+ | [xdg-user-dirs](/f14/package/xdg-user-dirs) | 28 | 28 | 100.0 | Aragonese <softaragones@googlegroups.com> | 
+ | [gnome-desktop](/f14/package/gnome-desktop) | 366 | 438 | 83.6 | Aragonés <softaragones@googlegroups.com> | 
+ | [epiphany](/f14/package/epiphany) | 503 | 3054 | 16.5 | Aragonese <softaragones@googlegroups.com> | 
+ | [transmission](/f14/package/transmission) | 243 | 1508 | 16.1 | Aragonese <an@li.org> | 
+ | [empathy](/f14/package/empathy) | 437 | 3620 | 12.1 | Aragonese <softaragones@googlegroups.com> | 
 {.sortable}
 
 

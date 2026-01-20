@@ -18,57 +18,57 @@ The package bittorrent (version 4.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f8/language/af.md" >}}) | 3906 | 3906 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/af.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/bg.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/ca.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/da.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 3906 | 3906 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/hu.po | 
- | [is]({{< ref "/f8/language/is.md" >}}) | 3906 | 3906 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/is.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/it.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/nb_NO.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/nl.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/sv.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/vi.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/zh_CN.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 3647 | 3904 | 93.4 | /mnt/stockage/packages/f8/bittorrent/po/de.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 3640 | 3904 | 93.2 | /mnt/stockage/packages/f8/bittorrent/po/pt.po | 
- | [es_MX]({{< ref "/f8/language/es_MX.md" >}}) | 3614 | 3904 | 92.6 | /mnt/stockage/packages/f8/bittorrent/po/es_MX.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 3430 | 3904 | 87.9 | /mnt/stockage/packages/f8/bittorrent/po/zh_TW.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 3195 | 3904 | 81.8 | /mnt/stockage/packages/f8/bittorrent/po/tr.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 3100 | 3904 | 79.4 | /mnt/stockage/packages/f8/bittorrent/po/cs.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 2891 | 3904 | 74.1 | /mnt/stockage/packages/f8/bittorrent/po/sl.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 2832 | 3904 | 72.5 | /mnt/stockage/packages/f8/bittorrent/po/fi.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 2707 | 3904 | 69.3 | /mnt/stockage/packages/f8/bittorrent/po/he.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 2394 | 3906 | 61.3 | /mnt/stockage/packages/f8/bittorrent/po/sk.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 2222 | 3904 | 56.9 | /mnt/stockage/packages/f8/bittorrent/po/ko.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 2177 | 3904 | 55.8 | /mnt/stockage/packages/f8/bittorrent/po/ja.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 1669 | 3908 | 42.7 | /mnt/stockage/packages/f8/bittorrent/po/el.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 1041 | 3427 | 30.4 | /mnt/stockage/packages/f8/bittorrent/po/piglatin.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 954 | 3906 | 24.4 | /mnt/stockage/packages/f8/bittorrent/po/ms.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 795 | 3906 | 20.4 | /mnt/stockage/packages/f8/bittorrent/po/hr.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 751 | 3906 | 19.2 | /mnt/stockage/packages/f8/bittorrent/po/eo.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 606 | 3906 | 15.5 | /mnt/stockage/packages/f8/bittorrent/po/ar.po | 
- | [th]({{< ref "/f8/language/th.md" >}}) | 487 | 3906 | 12.5 | /mnt/stockage/packages/f8/bittorrent/po/th.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 479 | 3906 | 12.3 | /mnt/stockage/packages/f8/bittorrent/po/gl.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 463 | 3906 | 11.9 | /mnt/stockage/packages/f8/bittorrent/po/sq.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 372 | 3906 | 9.5 | /mnt/stockage/packages/f8/bittorrent/po/uk.po | 
- | [fa]({{< ref "/f8/language/fa.md" >}}) | 371 | 3906 | 9.5 | /mnt/stockage/packages/f8/bittorrent/po/fa.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 363 | 3906 | 9.3 | /mnt/stockage/packages/f8/bittorrent/po/et.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 298 | 3906 | 7.6 | /mnt/stockage/packages/f8/bittorrent/po/lt.po | 
- | [hy]({{< ref "/f8/language/hy.md" >}}) | 228 | 3906 | 5.8 | /mnt/stockage/packages/f8/bittorrent/po/hy.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 146 | 3906 | 3.7 | /mnt/stockage/packages/f8/bittorrent/po/bs.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 81 | 3906 | 2.1 | /mnt/stockage/packages/f8/bittorrent/po/ga.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 56 | 3906 | 1.4 | /mnt/stockage/packages/f8/bittorrent/po/ka.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 37 | 3906 | 0.9 | /mnt/stockage/packages/f8/bittorrent/po/nn_NO.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 23 | 3906 | 0.6 | /mnt/stockage/packages/f8/bittorrent/po/eu.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 17 | 3906 | 0.4 | /mnt/stockage/packages/f8/bittorrent/po/ml.po | 
- | [tlh]({{< ref "/f8/language/tlh.md" >}}) | 13 | 3906 | 0.3 | /mnt/stockage/packages/f8/bittorrent/po/tlh.po | 
+ | [af](/f8/language/af) | 3906 | 3906 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/af.po | 
+ | [bg](/f8/language/bg) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/bg.po | 
+ | [ca](/f8/language/ca) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/ca.po | 
+ | [da](/f8/language/da) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/da.po | 
+ | [es](/f8/language/es) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/es.po | 
+ | [fr](/f8/language/fr) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/fr.po | 
+ | [hu](/f8/language/hu) | 3906 | 3906 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/hu.po | 
+ | [is](/f8/language/is) | 3906 | 3906 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/is.po | 
+ | [it](/f8/language/it) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/it.po | 
+ | [nb_NO](/f8/language/nb_NO) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/nb_NO.po | 
+ | [nl](/f8/language/nl) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/nl.po | 
+ | [pl](/f8/language/pl) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/ro.po | 
+ | [ru](/f8/language/ru) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/ru.po | 
+ | [sv](/f8/language/sv) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/sv.po | 
+ | [vi](/f8/language/vi) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/vi.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 3904 | 3904 | 100.0 | /mnt/stockage/packages/f8/bittorrent/po/zh_CN.po | 
+ | [de](/f8/language/de) | 3647 | 3904 | 93.4 | /mnt/stockage/packages/f8/bittorrent/po/de.po | 
+ | [pt](/f8/language/pt) | 3640 | 3904 | 93.2 | /mnt/stockage/packages/f8/bittorrent/po/pt.po | 
+ | [es_MX](/f8/language/es_MX) | 3614 | 3904 | 92.6 | /mnt/stockage/packages/f8/bittorrent/po/es_MX.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 3430 | 3904 | 87.9 | /mnt/stockage/packages/f8/bittorrent/po/zh_TW.po | 
+ | [tr](/f8/language/tr) | 3195 | 3904 | 81.8 | /mnt/stockage/packages/f8/bittorrent/po/tr.po | 
+ | [cs](/f8/language/cs) | 3100 | 3904 | 79.4 | /mnt/stockage/packages/f8/bittorrent/po/cs.po | 
+ | [sl](/f8/language/sl) | 2891 | 3904 | 74.1 | /mnt/stockage/packages/f8/bittorrent/po/sl.po | 
+ | [fi](/f8/language/fi) | 2832 | 3904 | 72.5 | /mnt/stockage/packages/f8/bittorrent/po/fi.po | 
+ | [he](/f8/language/he) | 2707 | 3904 | 69.3 | /mnt/stockage/packages/f8/bittorrent/po/he.po | 
+ | [sk](/f8/language/sk) | 2394 | 3906 | 61.3 | /mnt/stockage/packages/f8/bittorrent/po/sk.po | 
+ | [ko](/f8/language/ko) | 2222 | 3904 | 56.9 | /mnt/stockage/packages/f8/bittorrent/po/ko.po | 
+ | [ja](/f8/language/ja) | 2177 | 3904 | 55.8 | /mnt/stockage/packages/f8/bittorrent/po/ja.po | 
+ | [el](/f8/language/el) | 1669 | 3908 | 42.7 | /mnt/stockage/packages/f8/bittorrent/po/el.po | 
+ | [error](/f8/language/error) | 1041 | 3427 | 30.4 | /mnt/stockage/packages/f8/bittorrent/po/piglatin.po | 
+ | [ms](/f8/language/ms) | 954 | 3906 | 24.4 | /mnt/stockage/packages/f8/bittorrent/po/ms.po | 
+ | [hr](/f8/language/hr) | 795 | 3906 | 20.4 | /mnt/stockage/packages/f8/bittorrent/po/hr.po | 
+ | [eo](/f8/language/eo) | 751 | 3906 | 19.2 | /mnt/stockage/packages/f8/bittorrent/po/eo.po | 
+ | [ar](/f8/language/ar) | 606 | 3906 | 15.5 | /mnt/stockage/packages/f8/bittorrent/po/ar.po | 
+ | [th](/f8/language/th) | 487 | 3906 | 12.5 | /mnt/stockage/packages/f8/bittorrent/po/th.po | 
+ | [gl](/f8/language/gl) | 479 | 3906 | 12.3 | /mnt/stockage/packages/f8/bittorrent/po/gl.po | 
+ | [sq](/f8/language/sq) | 463 | 3906 | 11.9 | /mnt/stockage/packages/f8/bittorrent/po/sq.po | 
+ | [uk](/f8/language/uk) | 372 | 3906 | 9.5 | /mnt/stockage/packages/f8/bittorrent/po/uk.po | 
+ | [fa](/f8/language/fa) | 371 | 3906 | 9.5 | /mnt/stockage/packages/f8/bittorrent/po/fa.po | 
+ | [et](/f8/language/et) | 363 | 3906 | 9.3 | /mnt/stockage/packages/f8/bittorrent/po/et.po | 
+ | [lt](/f8/language/lt) | 298 | 3906 | 7.6 | /mnt/stockage/packages/f8/bittorrent/po/lt.po | 
+ | [hy](/f8/language/hy) | 228 | 3906 | 5.8 | /mnt/stockage/packages/f8/bittorrent/po/hy.po | 
+ | [bs](/f8/language/bs) | 146 | 3906 | 3.7 | /mnt/stockage/packages/f8/bittorrent/po/bs.po | 
+ | [ga](/f8/language/ga) | 81 | 3906 | 2.1 | /mnt/stockage/packages/f8/bittorrent/po/ga.po | 
+ | [ka](/f8/language/ka) | 56 | 3906 | 1.4 | /mnt/stockage/packages/f8/bittorrent/po/ka.po | 
+ | [nn](/f8/language/nn) | 37 | 3906 | 0.9 | /mnt/stockage/packages/f8/bittorrent/po/nn_NO.po | 
+ | [eu](/f8/language/eu) | 23 | 3906 | 0.6 | /mnt/stockage/packages/f8/bittorrent/po/eu.po | 
+ | [ml](/f8/language/ml) | 17 | 3906 | 0.4 | /mnt/stockage/packages/f8/bittorrent/po/ml.po | 
+ | [tlh](/f8/language/tlh) | 13 | 3906 | 0.3 | /mnt/stockage/packages/f8/bittorrent/po/tlh.po | 
 {.sortable}
 
 

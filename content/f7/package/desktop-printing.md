@@ -18,44 +18,44 @@ The package desktop-printing (version 0.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/bg.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/de.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/es.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/fa.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/gl.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/gu.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/hi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/ja.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/lt.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/mk.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/nb.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/ne.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/nl.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/pa.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/pt_BR.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/sk.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/sv.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/th.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/vi.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 358 | 360 | 99.4 | /mnt/stockage/packages/f7/desktop-printing/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 358 | 360 | 99.4 | /mnt/stockage/packages/f7/desktop-printing/po/zh_HK.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 297 | 300 | 99.0 | /mnt/stockage/packages/f7/desktop-printing/po/ca.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 259 | 300 | 86.3 | /mnt/stockage/packages/f7/desktop-printing/po/pt.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 281 | 342 | 82.2 | /mnt/stockage/packages/f7/desktop-printing/po/zh_CN.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 55 | 327 | 16.8 | /mnt/stockage/packages/f7/desktop-printing/po/sq.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 30 | 360 | 8.3 | /mnt/stockage/packages/f7/desktop-printing/po/el.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 14 | 344 | 4.1 | /mnt/stockage/packages/f7/desktop-printing/po/rw.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 0 | 360 | 0.0 | /mnt/stockage/packages/f7/desktop-printing/po/ar.po | 
+ | [bg](/f7/language/bg) | 354 | 354 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/bg.po | 
+ | [cs](/f7/language/cs) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/cs.po | 
+ | [de](/f7/language/de) | 344 | 344 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/de.po | 
+ | [en_CA](/f7/language/en_CA) | 354 | 354 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/en_GB.po | 
+ | [es](/f7/language/es) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/es.po | 
+ | [fa](/f7/language/fa) | 349 | 349 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/fa.po | 
+ | [fi](/f7/language/fi) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/fi.po | 
+ | [fr](/f7/language/fr) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/fr.po | 
+ | [gl](/f7/language/gl) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/gl.po | 
+ | [gu](/f7/language/gu) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/gu.po | 
+ | [hi](/f7/language/hi) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/hi.po | 
+ | [hu](/f7/language/hu) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/hu.po | 
+ | [it](/f7/language/it) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/it.po | 
+ | [ja](/f7/language/ja) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/ja.po | 
+ | [lt](/f7/language/lt) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/lt.po | 
+ | [mk](/f7/language/mk) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/mk.po | 
+ | [nb_NO](/f7/language/nb_NO) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/nb.po | 
+ | [ne](/f7/language/ne) | 354 | 354 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/ne.po | 
+ | [nl](/f7/language/nl) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/nl.po | 
+ | [pa](/f7/language/pa) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/pa.po | 
+ | [pt_BR](/f7/language/pt_BR) | 335 | 335 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/pt_BR.po | 
+ | [ru](/f7/language/ru) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/ru.po | 
+ | [sk](/f7/language/sk) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/sk.po | 
+ | [sv](/f7/language/sv) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/sv.po | 
+ | [th](/f7/language/th) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/th.po | 
+ | [tr](/f7/language/tr) | 342 | 342 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/tr.po | 
+ | [uk](/f7/language/uk) | 327 | 327 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/uk.po | 
+ | [vi](/f7/language/vi) | 360 | 360 | 100.0 | /mnt/stockage/packages/f7/desktop-printing/po/vi.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 358 | 360 | 99.4 | /mnt/stockage/packages/f7/desktop-printing/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 358 | 360 | 99.4 | /mnt/stockage/packages/f7/desktop-printing/po/zh_HK.po | 
+ | [ca](/f7/language/ca) | 297 | 300 | 99.0 | /mnt/stockage/packages/f7/desktop-printing/po/ca.po | 
+ | [pt](/f7/language/pt) | 259 | 300 | 86.3 | /mnt/stockage/packages/f7/desktop-printing/po/pt.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 281 | 342 | 82.2 | /mnt/stockage/packages/f7/desktop-printing/po/zh_CN.po | 
+ | [sq](/f7/language/sq) | 55 | 327 | 16.8 | /mnt/stockage/packages/f7/desktop-printing/po/sq.po | 
+ | [el](/f7/language/el) | 30 | 360 | 8.3 | /mnt/stockage/packages/f7/desktop-printing/po/el.po | 
+ | [rw](/f7/language/rw) | 14 | 344 | 4.1 | /mnt/stockage/packages/f7/desktop-printing/po/rw.po | 
+ | [ar](/f7/language/ar) | 0 | 360 | 0.0 | /mnt/stockage/packages/f7/desktop-printing/po/ar.po | 
 {.sortable}
 
 

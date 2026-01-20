@@ -18,9 +18,9 @@ The package pybackpack (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f9/language/es.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f9/pybackpack/po/es_ES.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f9/pybackpack/po/sv.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1321 | 1352 | 97.7 | /mnt/stockage/packages/f9/pybackpack/po/fr.po | 
+ | [es](/f9/language/es) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f9/pybackpack/po/es_ES.po | 
+ | [sv](/f9/language/sv) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f9/pybackpack/po/sv.po | 
+ | [fr](/f9/language/fr) | 1321 | 1352 | 97.7 | /mnt/stockage/packages/f9/pybackpack/po/fr.po | 
 {.sortable}
 
 

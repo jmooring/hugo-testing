@@ -18,19 +18,19 @@ The package xfce4-remmina-plugin (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/bg.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/es.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/it.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/lt.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/ru.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/zh_CN.po | 
+ | [bg](/f12/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/bg.po | 
+ | [de](/f12/language/de) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/de.po | 
+ | [el](/f12/language/el) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/el.po | 
+ | [es](/f12/language/es) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/es.po | 
+ | [id](/f12/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/id.po | 
+ | [it](/f12/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/it.po | 
+ | [lt](/f12/language/lt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/lt.po | 
+ | [nl](/f12/language/nl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/nl.po | 
+ | [pl](/f12/language/pl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/ru.po | 
+ | [uk](/f12/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/uk.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 136 | 136 | 100.0 | /mnt/stockage/packages/f12/xfce4-remmina-plugin/po/zh_CN.po | 
 {.sortable}
 
 

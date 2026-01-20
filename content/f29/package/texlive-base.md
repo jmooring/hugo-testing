@@ -18,7 +18,7 @@ The package texlive-base (version 20180414):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/texlive-base/texmf-dist/doc/support/latex-git-log/po/de.po | 
+ | [de](/f29/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f29/texlive-base/texmf-dist/doc/support/latex-git-log/po/de.po | 
 {.sortable}
 
 

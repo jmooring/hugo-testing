@@ -18,50 +18,50 @@ The package epiphany-extensions (version 2.24.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 1006 | 1006 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ar.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/dz.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 4135 | 4135 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/help/es/es.po/mnt/stockage/packages/f10/epiphany-extensions/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 747 | 747 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 750 | 750 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/lt.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 747 | 747 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 806 | 806 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sk.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sq.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 4135 | 4135 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/help/sv/sv.po/mnt/stockage/packages/f10/epiphany-extensions/po/sv.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/th.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 737 | 737 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/vi.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 802 | 802 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/zh_HK.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 687 | 694 | 99.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/wa.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1034 | 1046 | 98.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/zh_CN.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 150 | 158 | 94.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/pa.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 116 | 127 | 91.3 | /mnt/stockage/packages/f10/epiphany-extensions/po/tr.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 146 | 178 | 82.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sr@Latn.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 146 | 178 | 82.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sr.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 819 | 1012 | 80.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/cs.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 742 | 1006 | 73.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/gl.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 66 | 178 | 37.1 | /mnt/stockage/packages/f10/epiphany-extensions/po/hr.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 313 | 1046 | 29.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/he.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 165 | 794 | 20.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/nb.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 123 | 734 | 16.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/el.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 54 | 694 | 7.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/rw.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 230 | 4135 | 5.6 | /mnt/stockage/packages/f10/epiphany-extensions/help/oc/oc.po/mnt/stockage/packages/f10/epiphany-extensions/po/oc.po | 
+ | [ar](/f10/language/ar) | 1006 | 1006 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ar.po | 
+ | [bg](/f10/language/bg) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/bg.po | 
+ | [ca](/f10/language/ca) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ca.po | 
+ | [da](/f10/language/da) | 329 | 329 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/da.po | 
+ | [de](/f10/language/de) | 729 | 729 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/de.po | 
+ | [dz](/f10/language/dz) | 1015 | 1015 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/dz.po | 
+ | [en_CA](/f10/language/en_CA) | 806 | 806 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/en_GB.po | 
+ | [es](/f10/language/es) | 4135 | 4135 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/help/es/es.po/mnt/stockage/packages/f10/epiphany-extensions/po/es.po | 
+ | [fi](/f10/language/fi) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/fi.po | 
+ | [fr](/f10/language/fr) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/fr.po | 
+ | [hu](/f10/language/hu) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/hu.po | 
+ | [it](/f10/language/it) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/it.po | 
+ | [ja](/f10/language/ja) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ja.po | 
+ | [ko](/f10/language/ko) | 747 | 747 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ko.po | 
+ | [lt](/f10/language/lt) | 750 | 750 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/lt.po | 
+ | [ne](/f10/language/ne) | 1049 | 1049 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ne.po | 
+ | [nl](/f10/language/nl) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/nl.po | 
+ | [pl](/f10/language/pl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/pl.po | 
+ | [pt](/f10/language/pt) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 747 | 747 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/ru.po | 
+ | [sk](/f10/language/sk) | 806 | 806 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sk.po | 
+ | [sq](/f10/language/sq) | 178 | 178 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sq.po | 
+ | [sv](/f10/language/sv) | 4135 | 4135 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/help/sv/sv.po/mnt/stockage/packages/f10/epiphany-extensions/po/sv.po | 
+ | [th](/f10/language/th) | 1046 | 1046 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/th.po | 
+ | [uk](/f10/language/uk) | 737 | 737 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/uk.po | 
+ | [vi](/f10/language/vi) | 734 | 734 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/vi.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 802 | 802 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 802 | 802 | 100.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/zh_HK.po | 
+ | [wa](/f10/language/wa) | 687 | 694 | 99.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/wa.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1034 | 1046 | 98.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/zh_CN.po | 
+ | [pa](/f10/language/pa) | 150 | 158 | 94.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/pa.po | 
+ | [tr](/f10/language/tr) | 116 | 127 | 91.3 | /mnt/stockage/packages/f10/epiphany-extensions/po/tr.po | 
+ | [error](/f10/language/error) | 146 | 178 | 82.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sr@Latn.po | 
+ | [sr](/f10/language/sr) | 146 | 178 | 82.0 | /mnt/stockage/packages/f10/epiphany-extensions/po/sr.po | 
+ | [cs](/f10/language/cs) | 819 | 1012 | 80.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/cs.po | 
+ | [gl](/f10/language/gl) | 742 | 1006 | 73.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/gl.po | 
+ | [hr](/f10/language/hr) | 66 | 178 | 37.1 | /mnt/stockage/packages/f10/epiphany-extensions/po/hr.po | 
+ | [he](/f10/language/he) | 313 | 1046 | 29.9 | /mnt/stockage/packages/f10/epiphany-extensions/po/he.po | 
+ | [nb_NO](/f10/language/nb_NO) | 165 | 794 | 20.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/nb.po | 
+ | [el](/f10/language/el) | 123 | 734 | 16.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/el.po | 
+ | [rw](/f10/language/rw) | 54 | 694 | 7.8 | /mnt/stockage/packages/f10/epiphany-extensions/po/rw.po | 
+ | [oc](/f10/language/oc) | 230 | 4135 | 5.6 | /mnt/stockage/packages/f10/epiphany-extensions/help/oc/oc.po/mnt/stockage/packages/f10/epiphany-extensions/po/oc.po | 
 {.sortable}
 
 

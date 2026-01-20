@@ -18,50 +18,50 @@ The package xfce4-whiskermenu-plugin (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/bg.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/es.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/fr.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/hr.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/id.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ja.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/kk.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/lt.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/nb.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ne.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/pt.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/tr.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/zh_TW.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 232 | 236 | 98.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/he.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 229 | 236 | 97.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ca.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 229 | 236 | 97.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/it.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 222 | 236 | 94.1 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ast.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 209 | 236 | 88.6 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/zh_CN.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/el.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ro.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/uk.po | 
- | [uz]({{< ref "/f22/language/uz.md" >}}) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/uz.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/en_GB.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/lv.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/pt_BR.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sr@latin.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/vi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 186 | 236 | 78.8 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/hu.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 162 | 236 | 68.6 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ar.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 46 | 236 | 19.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 14 | 236 | 5.9 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/eu.po | 
+ | [bg](/f22/language/bg) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/bg.po | 
+ | [cs](/f22/language/cs) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/cs.po | 
+ | [da](/f22/language/da) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/da.po | 
+ | [de](/f22/language/de) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/de.po | 
+ | [es](/f22/language/es) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/es.po | 
+ | [fa](/f22/language/fa) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/fa.po | 
+ | [fi](/f22/language/fi) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/fi.po | 
+ | [fr](/f22/language/fr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/fr.po | 
+ | [hr](/f22/language/hr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/hr.po | 
+ | [id](/f22/language/id) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/id.po | 
+ | [ja](/f22/language/ja) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ja.po | 
+ | [kk](/f22/language/kk) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/kk.po | 
+ | [lt](/f22/language/lt) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/lt.po | 
+ | [ms](/f22/language/ms) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ms.po | 
+ | [nb_NO](/f22/language/nb_NO) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/nb.po | 
+ | [ne](/f22/language/ne) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ne.po | 
+ | [nl](/f22/language/nl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/nl.po | 
+ | [pl](/f22/language/pl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/pl.po | 
+ | [pt](/f22/language/pt) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/pt.po | 
+ | [ru](/f22/language/ru) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ru.po | 
+ | [sk](/f22/language/sk) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sk.po | 
+ | [sl](/f22/language/sl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sl.po | 
+ | [sr](/f22/language/sr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sr.po | 
+ | [sv](/f22/language/sv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sv.po | 
+ | [tr](/f22/language/tr) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/tr.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 236 | 236 | 100.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/zh_TW.po | 
+ | [he](/f22/language/he) | 232 | 236 | 98.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/he.po | 
+ | [ca](/f22/language/ca) | 229 | 236 | 97.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ca.po | 
+ | [it](/f22/language/it) | 229 | 236 | 97.0 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/it.po | 
+ | [ast](/f22/language/ast) | 222 | 236 | 94.1 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ast.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 209 | 236 | 88.6 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/zh_CN.po | 
+ | [el](/f22/language/el) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/el.po | 
+ | [ro](/f22/language/ro) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ro.po | 
+ | [uk](/f22/language/uk) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/uk.po | 
+ | [uz](/f22/language/uz) | 206 | 236 | 87.3 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/uz.po | 
+ | [en_GB](/f22/language/en_GB) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/en_GB.po | 
+ | [lv](/f22/language/lv) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/lv.po | 
+ | [pt_BR](/f22/language/pt_BR) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/pt_BR.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/sr@latin.po | 
+ | [vi](/f22/language/vi) | 190 | 236 | 80.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/vi.po | 
+ | [hu](/f22/language/hu) | 186 | 236 | 78.8 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/hu.po | 
+ | [ar](/f22/language/ar) | 162 | 236 | 68.6 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/ar.po | 
+ | [et](/f22/language/et) | 46 | 236 | 19.5 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/et.po | 
+ | [eu](/f22/language/eu) | 14 | 236 | 5.9 | /mnt/stockage/packages/f22/xfce4-whiskermenu-plugin/po/eu.po | 
 {.sortable}
 
 

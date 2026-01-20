@@ -18,99 +18,99 @@ The package olpc-switch-desktop (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f29/language/am.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/am.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ar.po | 
- | [ay]({{< ref "/f29/language/ay.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/aym.po | 
- | [ayc]({{< ref "/f29/language/ayc.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ayc.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bn.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/el.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/en.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/en_US.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/es.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fa.po | 
- | [fil]({{< ref "/f29/language/fil.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fil.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fr.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hi.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hy.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ja.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ko.po | 
- | [mg]({{< ref "/f29/language/mg.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mg.po | 
- | [mi]({{< ref "/f29/language/mi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mi.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mr.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ms.po | 
- | [nah]({{< ref "/f29/language/nah.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/nah.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ne.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/nl.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pa.po | 
- | [pap]({{< ref "/f29/language/pap.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pap.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pl.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ps.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pt_BR.po | 
- | [qu]({{< ref "/f29/language/qu.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/quz.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ru.po | 
- | [rw]({{< ref "/f29/language/rw.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/rw.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/si.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ta.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/tr.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ug.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ur.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/vi.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/wa.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/zh_HK.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bg.po | 
- | [prs]({{< ref "/f29/language/prs.md" >}}) | 153 | 158 | 96.8 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fa_AF.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 69 | 158 | 43.7 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mn.po | 
- | [yo]({{< ref "/f29/language/yo.md" >}}) | 51 | 158 | 32.3 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/yo.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 39 | 158 | 24.7 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/km.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 21 | 158 | 13.3 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ro.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 17 | 158 | 10.8 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hu.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 4 | 158 | 2.5 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/nb.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/af.po | 
- | [bi]({{< ref "/f29/language/bi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bi.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bn_IN.po | 
- | [cpp]({{< ref "/f29/language/cpp.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/cpp.po | 
- | [dz]({{< ref "/f29/language/dz.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/dz.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mvo.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/eu.po | 
- | [ff]({{< ref "/f29/language/ff.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ff.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fi.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fur.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/gu.po | 
- | [ha]({{< ref "/f29/language/ha.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ha.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hr.po | 
- | [ht]({{< ref "/f29/language/ht.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ht.po | 
- | [ig]({{< ref "/f29/language/ig.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ig.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/is.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ka.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ml.po | 
- | [mt]({{< ref "/f29/language/mt.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mt.po | 
- | [na]({{< ref "/f29/language/na.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/na.po | 
- | [sd]({{< ref "/f29/language/sd.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sd.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sq.po | 
- | [st]({{< ref "/f29/language/st.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/st.po | 
- | [sw]({{< ref "/f29/language/sw.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sw.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/te.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/uk.po | 
- | [wo]({{< ref "/f29/language/wo.md" >}}) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/wo.po | 
+ | [am](/f29/language/am) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/am.po | 
+ | [ar](/f29/language/ar) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ar.po | 
+ | [ay](/f29/language/ay) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/aym.po | 
+ | [ayc](/f29/language/ayc) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ayc.po | 
+ | [bn](/f29/language/bn) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bn.po | 
+ | [ca](/f29/language/ca) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ca.po | 
+ | [cs](/f29/language/cs) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/cs.po | 
+ | [da](/f29/language/da) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/da.po | 
+ | [de](/f29/language/de) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/de.po | 
+ | [el](/f29/language/el) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/el.po | 
+ | [en](/f29/language/en) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/en.po | 
+ | [en_US](/f29/language/en_US) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/en_US.po | 
+ | [es](/f29/language/es) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/es.po | 
+ | [fa](/f29/language/fa) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fa.po | 
+ | [fil](/f29/language/fil) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fil.po | 
+ | [fr](/f29/language/fr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fr.po | 
+ | [he](/f29/language/he) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/he.po | 
+ | [hi](/f29/language/hi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hi.po | 
+ | [hy](/f29/language/hy) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hy.po | 
+ | [id](/f29/language/id) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/id.po | 
+ | [it](/f29/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/it.po | 
+ | [ja](/f29/language/ja) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ja.po | 
+ | [kn](/f29/language/kn) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/kn.po | 
+ | [ko](/f29/language/ko) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ko.po | 
+ | [mg](/f29/language/mg) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mg.po | 
+ | [mi](/f29/language/mi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mi.po | 
+ | [mr](/f29/language/mr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mr.po | 
+ | [ms](/f29/language/ms) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ms.po | 
+ | [nah](/f29/language/nah) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/nah.po | 
+ | [ne](/f29/language/ne) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ne.po | 
+ | [nl](/f29/language/nl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/nl.po | 
+ | [pa](/f29/language/pa) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pa.po | 
+ | [pap](/f29/language/pap) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pap.po | 
+ | [pl](/f29/language/pl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pl.po | 
+ | [ps](/f29/language/ps) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ps.po | 
+ | [pt](/f29/language/pt) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/pt_BR.po | 
+ | [qu](/f29/language/qu) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/quz.po | 
+ | [ru](/f29/language/ru) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ru.po | 
+ | [rw](/f29/language/rw) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/rw.po | 
+ | [si](/f29/language/si) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/si.po | 
+ | [sk](/f29/language/sk) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sk.po | 
+ | [sl](/f29/language/sl) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sl.po | 
+ | [sr](/f29/language/sr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sr.po | 
+ | [sv](/f29/language/sv) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sv.po | 
+ | [ta](/f29/language/ta) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ta.po | 
+ | [th](/f29/language/th) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/th.po | 
+ | [tr](/f29/language/tr) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/tr.po | 
+ | [ug](/f29/language/ug) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ug.po | 
+ | [ur](/f29/language/ur) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ur.po | 
+ | [vi](/f29/language/vi) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/vi.po | 
+ | [wa](/f29/language/wa) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/wa.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 158 | 158 | 100.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/zh_HK.po | 
+ | [bg](/f29/language/bg) | 153 | 158 | 96.8 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bg.po | 
+ | [prs](/f29/language/prs) | 153 | 158 | 96.8 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fa_AF.po | 
+ | [mn](/f29/language/mn) | 69 | 158 | 43.7 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mn.po | 
+ | [yo](/f29/language/yo) | 51 | 158 | 32.3 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/yo.po | 
+ | [km](/f29/language/km) | 39 | 158 | 24.7 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/km.po | 
+ | [ro](/f29/language/ro) | 21 | 158 | 13.3 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ro.po | 
+ | [hu](/f29/language/hu) | 17 | 158 | 10.8 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hu.po | 
+ | [nb_NO](/f29/language/nb_NO) | 4 | 158 | 2.5 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/nb.po | 
+ | [af](/f29/language/af) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/af.po | 
+ | [bi](/f29/language/bi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bi.po | 
+ | [bn_IN](/f29/language/bn_IN) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/bn_IN.po | 
+ | [cpp](/f29/language/cpp) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/cpp.po | 
+ | [dz](/f29/language/dz) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/dz.po | 
+ | [error](/f29/language/error) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mvo.po | 
+ | [et](/f29/language/et) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/et.po | 
+ | [eu](/f29/language/eu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/eu.po | 
+ | [ff](/f29/language/ff) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ff.po | 
+ | [fi](/f29/language/fi) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fi.po | 
+ | [fur](/f29/language/fur) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/fur.po | 
+ | [gl](/f29/language/gl) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/gl.po | 
+ | [gu](/f29/language/gu) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/gu.po | 
+ | [ha](/f29/language/ha) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ha.po | 
+ | [hr](/f29/language/hr) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/hr.po | 
+ | [ht](/f29/language/ht) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ht.po | 
+ | [ig](/f29/language/ig) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ig.po | 
+ | [is](/f29/language/is) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/is.po | 
+ | [ka](/f29/language/ka) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ka.po | 
+ | [mk](/f29/language/mk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mk.po | 
+ | [ml](/f29/language/ml) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/ml.po | 
+ | [mt](/f29/language/mt) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/mt.po | 
+ | [na](/f29/language/na) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/na.po | 
+ | [sd](/f29/language/sd) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sd.po | 
+ | [sq](/f29/language/sq) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sq.po | 
+ | [st](/f29/language/st) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/st.po | 
+ | [sw](/f29/language/sw) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/sw.po | 
+ | [te](/f29/language/te) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/te.po | 
+ | [uk](/f29/language/uk) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/uk.po | 
+ | [wo](/f29/language/wo) | 0 | 158 | 0.0 | /mnt/stockage/packages/f29/olpc-switch-desktop/po/wo.po | 
 {.sortable}
 
 

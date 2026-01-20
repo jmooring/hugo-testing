@@ -18,26 +18,26 @@ The package NetworkManager-iodine (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/bs.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/de.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/el.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/es.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/it.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/lt.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/lv.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pt_BR.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/sl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/sr.po/mnt/stockage/packages/f30/NetworkManager-iodine/po/sr@latin.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/tr.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 79 | 80 | 98.8 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/ja.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 63 | 77 | 81.8 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pa.po | 
+ | [bs](/f30/language/bs) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/bs.po | 
+ | [ca](/f30/language/ca) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/ca.po | 
+ | [cs](/f30/language/cs) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/cs.po | 
+ | [de](/f30/language/de) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/de.po | 
+ | [el](/f30/language/el) | 79 | 79 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/el.po | 
+ | [es](/f30/language/es) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/es.po | 
+ | [hu](/f30/language/hu) | 79 | 79 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/hu.po | 
+ | [id](/f30/language/id) | 79 | 79 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/id.po | 
+ | [it](/f30/language/it) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/it.po | 
+ | [lt](/f30/language/lt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/lt.po | 
+ | [lv](/f30/language/lv) | 77 | 77 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/lv.po | 
+ | [pl](/f30/language/pl) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pl.po | 
+ | [pt](/f30/language/pt) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pt_BR.po | 
+ | [sl](/f30/language/sl) | 80 | 80 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/sl.po | 
+ | [sr](/f30/language/sr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/sr.po/mnt/stockage/packages/f30/NetworkManager-iodine/po/sr@latin.po | 
+ | [sv](/f30/language/sv) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/sv.po | 
+ | [tr](/f30/language/tr) | 75 | 75 | 100.0 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/tr.po | 
+ | [ja](/f30/language/ja) | 79 | 80 | 98.8 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/ja.po | 
+ | [pa](/f30/language/pa) | 63 | 77 | 81.8 | /mnt/stockage/packages/f30/NetworkManager-iodine/po/pa.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package python-kiwi (version 1.9.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f9/language/it.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/python-kiwi/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/python-kiwi/po/pt_BR.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 200 | 209 | 95.7 | /mnt/stockage/packages/f9/python-kiwi/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 193 | 209 | 92.3 | /mnt/stockage/packages/f9/python-kiwi/po/sv.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 156 | 209 | 74.6 | /mnt/stockage/packages/f9/python-kiwi/po/fr.po | 
+ | [it](/f9/language/it) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/python-kiwi/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 209 | 209 | 100.0 | /mnt/stockage/packages/f9/python-kiwi/po/pt_BR.po | 
+ | [pl](/f9/language/pl) | 200 | 209 | 95.7 | /mnt/stockage/packages/f9/python-kiwi/po/pl.po | 
+ | [sv](/f9/language/sv) | 193 | 209 | 92.3 | /mnt/stockage/packages/f9/python-kiwi/po/sv.po | 
+ | [fr](/f9/language/fr) | 156 | 209 | 74.6 | /mnt/stockage/packages/f9/python-kiwi/po/fr.po | 
 {.sortable}
 
 

@@ -39,103 +39,103 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [islamic-menus]({{< ref "/f31/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
- | [mate-icon-theme]({{< ref "/f31/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [whaawmp]({{< ref "/f31/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
- | [python-caja]({{< ref "/f31/package/python-caja.md" >}}) | 6 | 7 | 85.7 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-user-guide]({{< ref "/f31/package/mate-user-guide.md" >}}) | 5 | 7 | 71.4 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-desktop]({{< ref "/f31/package/mate-desktop.md" >}}) | 407 | 2224 | 18.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [switchboard-plug-about]({{< ref "/f31/package/switchboard-plug-about.md" >}}) | 14 | 96 | 14.6 | Javanese <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/jv/> | 
- | [cinnamon-translations]({{< ref "/f31/package/cinnamon-translations.md" >}}) | 1708 | 16886 | 10.1 | Javanese <jv@li.org> | 
- | [jmol]({{< ref "/f31/package/jmol.md" >}}) | 155 | 1718 | 9.0 | Javanese <jv@li.org> | 
- | [elementary-calculator]({{< ref "/f31/package/elementary-calculator.md" >}}) | 9 | 105 | 8.6 | LANGUAGE <LL@li.org> | 
- | [visualboyadvance-m]({{< ref "/f31/package/visualboyadvance-m.md" >}}) | 168 | 2393 | 7.0 | Javanese (http://www.transifex.com/bgk/vba-m/language/jv/) | 
- | [gnome-do]({{< ref "/f31/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [mate-menu]({{< ref "/f31/package/mate-menu.md" >}}) | 13 | 308 | 4.2 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [mate-media]({{< ref "/f31/package/mate-media.md" >}}) | 10 | 239 | 4.2 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [elementary-code]({{< ref "/f31/package/elementary-code.md" >}}) | 31 | 1151 | 2.7 | Javanese <jv@li.org> | 
- | [libreoffice]({{< ref "/f31/package/libreoffice.md" >}}) | 2501 | 104207 | 2.4 | LANGUAGE <LL@li.org> | 
- | [mate-session-manager]({{< ref "/f31/package/mate-session-manager.md" >}}) | 15 | 712 | 2.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [elementary-calendar]({{< ref "/f31/package/elementary-calendar.md" >}}) | 13 | 703 | 1.8 | Javanese <https://weblate.elementary.io/projects/calendar/calendar/jv/> | 
- | [pychess]({{< ref "/f31/package/pychess.md" >}}) | 76 | 4455 | 1.7 | Javanese (http://www.transifex.com/gbtami/pychess/language/jv/) | 
- | [isomaster]({{< ref "/f31/package/isomaster.md" >}}) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [gmpc]({{< ref "/f31/package/gmpc.md" >}}) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
- | [mate-system-monitor]({{< ref "/f31/package/mate-system-monitor.md" >}}) | 20 | 1514 | 1.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [libmatemixer]({{< ref "/f31/package/libmatemixer.md" >}}) | 3 | 242 | 1.2 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [xreader]({{< ref "/f31/package/xreader.md" >}}) | 18 | 1669 | 1.1 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [atril]({{< ref "/f31/package/atril.md" >}}) | 19 | 1808 | 1.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-menus]({{< ref "/f31/package/mate-menus.md" >}}) | 1 | 97 | 1.0 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-control-center]({{< ref "/f31/package/mate-control-center.md" >}}) | 28 | 3290 | 0.9 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [backintime]({{< ref "/f31/package/backintime.md" >}}) | 13 | 1972 | 0.7 | Javanese <jv@li.org> | 
- | [libmatekbd]({{< ref "/f31/package/libmatekbd.md" >}}) | 2 | 308 | 0.6 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-panel]({{< ref "/f31/package/mate-panel.md" >}}) | 34 | 5501 | 0.6 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [engrampa]({{< ref "/f31/package/engrampa.md" >}}) | 12 | 2035 | 0.6 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [mate-terminal]({{< ref "/f31/package/mate-terminal.md" >}}) | 23 | 4705 | 0.5 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [libmateweather]({{< ref "/f31/package/libmateweather.md" >}}) | 2 | 499 | 0.4 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [stellarium]({{< ref "/f31/package/stellarium.md" >}}) | 435 | 127087 | 0.3 | Javanese (https://www.transifex.com/stellarium/teams/80998/jv/) | 
- | [eom]({{< ref "/f31/package/eom.md" >}}) | 6 | 1769 | 0.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-utils]({{< ref "/f31/package/mate-utils.md" >}}) | 19 | 7100 | 0.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [tortoisehg]({{< ref "/f31/package/tortoisehg.md" >}}) | 30 | 13243 | 0.2 | Javanese <jv@li.org> | 
- | [elementary-terminal]({{< ref "/f31/package/elementary-terminal.md" >}}) | 1 | 442 | 0.2 | Javanese <jv@li.org> | 
- | [mate-sensors-applet]({{< ref "/f31/package/mate-sensors-applet.md" >}}) | 5 | 2222 | 0.2 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [marco]({{< ref "/f31/package/marco.md" >}}) | 7 | 4339 | 0.2 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [mate-applets]({{< ref "/f31/package/mate-applets.md" >}}) | 13 | 8799 | 0.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [mate-power-manager]({{< ref "/f31/package/mate-power-manager.md" >}}) | 7 | 5133 | 0.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
- | [pluma]({{< ref "/f31/package/pluma.md" >}}) | 6 | 5663 | 0.1 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [calibre]({{< ref "/f31/package/calibre.md" >}}) | 87 | 160974 | 0.1 | Javanese (http://www.transifex.com/calibre/calibre/language/jv/) | 
- | [widelands]({{< ref "/f31/package/widelands.md" >}}) | 22 | 58939 | 0.0 | Javanese (http://www.transifex.com/widelands/widelands/language/jv/) | 
- | [edgar]({{< ref "/f31/package/edgar.md" >}}) | 1 | 11474 | 0.0 | Javanese <jv@li.org> | 
- | [bookworm]({{< ref "/f31/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f31/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f31/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-camera]({{< ref "/f31/package/elementary-camera.md" >}}) | 0 | 65 | 0.0 |  | 
- | [elementary-capnet-assist]({{< ref "/f31/package/elementary-capnet-assist.md" >}}) | 0 | 82 | 0.0 | none | 
- | [elementary-files]({{< ref "/f31/package/elementary-files.md" >}}) | 0 | 2911 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f31/package/elementary-greeter.md" >}}) | 0 | 166 | 0.0 |  | 
- | [elementary-music]({{< ref "/f31/package/elementary-music.md" >}}) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-photos]({{< ref "/f31/package/elementary-photos.md" >}}) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-planner]({{< ref "/f31/package/elementary-planner.md" >}}) | 0 | 2639 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f31/package/elementary-screenshot-tool.md" >}}) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f31/package/elementary-shortcut-overlay.md" >}}) | 0 | 95 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f31/package/elementary-sideload.md" >}}) | 0 | 224 | 0.0 | none | 
- | [elementary-videos]({{< ref "/f31/package/elementary-videos.md" >}}) | 0 | 346 | 0.0 |  | 
- | [gala]({{< ref "/f31/package/gala.md" >}}) | 0 | 140 | 0.0 | none | 
- | [granite]({{< ref "/f31/package/granite.md" >}}) | 0 | 269 | 0.0 |  | 
- | [harvey]({{< ref "/f31/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [lightdm]({{< ref "/f31/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Javanese <jv@li.org> | 
- | [mate-themes]({{< ref "/f31/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
- | [nutty]({{< ref "/f31/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f31/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f31/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f31/package/pantheon-agent-polkit.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f31/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f31/package/sugar-toolkit-gtk3.md" >}}) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f31/package/switchboard.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f31/package/switchboard-plug-a11y.md" >}}) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f31/package/switchboard-plug-applications.md" >}}) | 0 | 95 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f31/package/switchboard-plug-bluetooth.md" >}}) | 0 | 148 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f31/package/switchboard-plug-display.md" >}}) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f31/package/switchboard-plug-keyboard.md" >}}) | 0 | 530 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f31/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 232 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f31/package/switchboard-plug-networking.md" >}}) | 0 | 474 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f31/package/switchboard-plug-notifications.md" >}}) | 0 | 142 | 0.0 | none | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f31/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 160 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f31/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 181 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f31/package/switchboard-plug-printers.md" >}}) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f31/package/switchboard-plug-sharing.md" >}}) | 0 | 140 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f31/package/switchboard-plug-sound.md" >}}) | 0 | 152 | 0.0 |  | 
- | [vocal]({{< ref "/f31/package/vocal.md" >}}) | 0 | 377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f31/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f31/package/wingpanel-applications-menu.md" >}}) | 0 | 294 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f31/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 27 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f31/package/wingpanel-indicator-datetime.md" >}}) | 0 | 128 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f31/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 24 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f31/package/wingpanel-indicator-network.md" >}}) | 0 | 97 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f31/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 31 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f31/package/wingpanel-indicator-notifications.md" >}}) | 0 | 38 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f31/package/wingpanel-indicator-power.md" >}}) | 0 | 117 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f31/package/wingpanel-indicator-session.md" >}}) | 0 | 81 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f31/package/wingpanel-indicator-sound.md" >}}) | 0 | 45 | 0.0 | none | 
+ | [islamic-menus](/f31/package/islamic-menus) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
+ | [mate-icon-theme](/f31/package/mate-icon-theme) | 4 | 4 | 100.0 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [whaawmp](/f31/package/whaawmp) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
+ | [python-caja](/f31/package/python-caja) | 6 | 7 | 85.7 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-user-guide](/f31/package/mate-user-guide) | 5 | 7 | 71.4 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-desktop](/f31/package/mate-desktop) | 407 | 2224 | 18.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [switchboard-plug-about](/f31/package/switchboard-plug-about) | 14 | 96 | 14.6 | Javanese <https://l10n.elementary.io/projects/switchboard/switchboard-plug-about/jv/> | 
+ | [cinnamon-translations](/f31/package/cinnamon-translations) | 1708 | 16886 | 10.1 | Javanese <jv@li.org> | 
+ | [jmol](/f31/package/jmol) | 155 | 1718 | 9.0 | Javanese <jv@li.org> | 
+ | [elementary-calculator](/f31/package/elementary-calculator) | 9 | 105 | 8.6 | LANGUAGE <LL@li.org> | 
+ | [visualboyadvance-m](/f31/package/visualboyadvance-m) | 168 | 2393 | 7.0 | Javanese (http://www.transifex.com/bgk/vba-m/language/jv/) | 
+ | [gnome-do](/f31/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [mate-menu](/f31/package/mate-menu) | 13 | 308 | 4.2 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [mate-media](/f31/package/mate-media) | 10 | 239 | 4.2 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [elementary-code](/f31/package/elementary-code) | 31 | 1151 | 2.7 | Javanese <jv@li.org> | 
+ | [libreoffice](/f31/package/libreoffice) | 2501 | 104207 | 2.4 | LANGUAGE <LL@li.org> | 
+ | [mate-session-manager](/f31/package/mate-session-manager) | 15 | 712 | 2.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [elementary-calendar](/f31/package/elementary-calendar) | 13 | 703 | 1.8 | Javanese <https://weblate.elementary.io/projects/calendar/calendar/jv/> | 
+ | [pychess](/f31/package/pychess) | 76 | 4455 | 1.7 | Javanese (http://www.transifex.com/gbtami/pychess/language/jv/) | 
+ | [isomaster](/f31/package/isomaster) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [gmpc](/f31/package/gmpc) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
+ | [mate-system-monitor](/f31/package/mate-system-monitor) | 20 | 1514 | 1.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [libmatemixer](/f31/package/libmatemixer) | 3 | 242 | 1.2 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [xreader](/f31/package/xreader) | 18 | 1669 | 1.1 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [atril](/f31/package/atril) | 19 | 1808 | 1.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-menus](/f31/package/mate-menus) | 1 | 97 | 1.0 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-control-center](/f31/package/mate-control-center) | 28 | 3290 | 0.9 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [backintime](/f31/package/backintime) | 13 | 1972 | 0.7 | Javanese <jv@li.org> | 
+ | [libmatekbd](/f31/package/libmatekbd) | 2 | 308 | 0.6 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-panel](/f31/package/mate-panel) | 34 | 5501 | 0.6 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [engrampa](/f31/package/engrampa) | 12 | 2035 | 0.6 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [mate-terminal](/f31/package/mate-terminal) | 23 | 4705 | 0.5 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [libmateweather](/f31/package/libmateweather) | 2 | 499 | 0.4 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [stellarium](/f31/package/stellarium) | 435 | 127087 | 0.3 | Javanese (https://www.transifex.com/stellarium/teams/80998/jv/) | 
+ | [eom](/f31/package/eom) | 6 | 1769 | 0.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-utils](/f31/package/mate-utils) | 19 | 7100 | 0.3 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [tortoisehg](/f31/package/tortoisehg) | 30 | 13243 | 0.2 | Javanese <jv@li.org> | 
+ | [elementary-terminal](/f31/package/elementary-terminal) | 1 | 442 | 0.2 | Javanese <jv@li.org> | 
+ | [mate-sensors-applet](/f31/package/mate-sensors-applet) | 5 | 2222 | 0.2 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [marco](/f31/package/marco) | 7 | 4339 | 0.2 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [mate-applets](/f31/package/mate-applets) | 13 | 8799 | 0.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [mate-power-manager](/f31/package/mate-power-manager) | 7 | 5133 | 0.1 | Javanese (https://www.transifex.com/mate/teams/13566/jv/) | 
+ | [pluma](/f31/package/pluma) | 6 | 5663 | 0.1 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [calibre](/f31/package/calibre) | 87 | 160974 | 0.1 | Javanese (http://www.transifex.com/calibre/calibre/language/jv/) | 
+ | [widelands](/f31/package/widelands) | 22 | 58939 | 0.0 | Javanese (http://www.transifex.com/widelands/widelands/language/jv/) | 
+ | [edgar](/f31/package/edgar) | 1 | 11474 | 0.0 | Javanese <jv@li.org> | 
+ | [bookworm](/f31/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f31/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f31/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-camera](/f31/package/elementary-camera) | 0 | 65 | 0.0 |  | 
+ | [elementary-capnet-assist](/f31/package/elementary-capnet-assist) | 0 | 82 | 0.0 | none | 
+ | [elementary-files](/f31/package/elementary-files) | 0 | 2911 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f31/package/elementary-greeter) | 0 | 166 | 0.0 |  | 
+ | [elementary-music](/f31/package/elementary-music) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-photos](/f31/package/elementary-photos) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-planner](/f31/package/elementary-planner) | 0 | 2639 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f31/package/elementary-screenshot-tool) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f31/package/elementary-shortcut-overlay) | 0 | 95 | 0.0 | none | 
+ | [elementary-sideload](/f31/package/elementary-sideload) | 0 | 224 | 0.0 | none | 
+ | [elementary-videos](/f31/package/elementary-videos) | 0 | 346 | 0.0 |  | 
+ | [gala](/f31/package/gala) | 0 | 140 | 0.0 | none | 
+ | [granite](/f31/package/granite) | 0 | 269 | 0.0 |  | 
+ | [harvey](/f31/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [lightdm](/f31/package/lightdm) | 0 | 84 | 0.0 | Javanese <jv@li.org> | 
+ | [mate-themes](/f31/package/mate-themes) | 0 | 70 | 0.0 | Javanese (http://www.transifex.com/mate/MATE/language/jv/) | 
+ | [nutty](/f31/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f31/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f31/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f31/package/pantheon-agent-polkit) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f31/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f31/package/sugar-toolkit-gtk3) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f31/package/switchboard) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f31/package/switchboard-plug-a11y) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f31/package/switchboard-plug-applications) | 0 | 95 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f31/package/switchboard-plug-bluetooth) | 0 | 148 | 0.0 | none | 
+ | [switchboard-plug-display](/f31/package/switchboard-plug-display) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f31/package/switchboard-plug-keyboard) | 0 | 530 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f31/package/switchboard-plug-mouse-touchpad) | 0 | 232 | 0.0 | none | 
+ | [switchboard-plug-networking](/f31/package/switchboard-plug-networking) | 0 | 474 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f31/package/switchboard-plug-notifications) | 0 | 142 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts](/f31/package/switchboard-plug-onlineaccounts) | 0 | 160 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f31/package/switchboard-plug-pantheon-shell) | 0 | 181 | 0.0 |  | 
+ | [switchboard-plug-printers](/f31/package/switchboard-plug-printers) | 0 | 362 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f31/package/switchboard-plug-sharing) | 0 | 140 | 0.0 | none | 
+ | [switchboard-plug-sound](/f31/package/switchboard-plug-sound) | 0 | 152 | 0.0 |  | 
+ | [vocal](/f31/package/vocal) | 0 | 377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f31/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f31/package/wingpanel-applications-menu) | 0 | 294 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f31/package/wingpanel-indicator-bluetooth) | 0 | 27 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f31/package/wingpanel-indicator-datetime) | 0 | 128 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f31/package/wingpanel-indicator-keyboard) | 0 | 24 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f31/package/wingpanel-indicator-network) | 0 | 97 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f31/package/wingpanel-indicator-nightlight) | 0 | 31 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f31/package/wingpanel-indicator-notifications) | 0 | 38 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f31/package/wingpanel-indicator-power) | 0 | 117 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f31/package/wingpanel-indicator-session) | 0 | 81 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f31/package/wingpanel-indicator-sound) | 0 | 45 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,71 +18,71 @@ The package mingw-libsoup (version 2.71.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f33/language/an.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/an.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/as.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/be.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/bg.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/bn_IN.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/bs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ca.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/en_GB.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/es.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/et.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/fa.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/fur.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/gd.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/gl.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/gu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/hi.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ja.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/kn.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/lv.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ml.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/mr.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ms.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/nb.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ne.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/nl.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/oc.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/or.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pa.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sr@latin.po/mnt/stockage/packages/f33/mingw-libsoup/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sv.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ta.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/te.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/tg.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/th.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/tr.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ug.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/uk.po | 
- | [uz]({{< ref "/f33/language/uz.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f33/language/zh_Hant_HK.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/zh_HK.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 104 | 183 | 56.8 | /mnt/stockage/packages/f33/mingw-libsoup/po/fi.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 80 | 155 | 51.6 | /mnt/stockage/packages/f33/mingw-libsoup/po/eo.po | 
+ | [an](/f33/language/an) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/an.po | 
+ | [as](/f33/language/as) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/as.po | 
+ | [be](/f33/language/be) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/be.po | 
+ | [bg](/f33/language/bg) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/bg.po | 
+ | [bn_IN](/f33/language/bn_IN) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/bn_IN.po | 
+ | [bs](/f33/language/bs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/bs.po | 
+ | [ca](/f33/language/ca) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ca.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/cs.po | 
+ | [da](/f33/language/da) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/da.po | 
+ | [de](/f33/language/de) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/de.po | 
+ | [el](/f33/language/el) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/en_GB.po | 
+ | [es](/f33/language/es) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/es.po | 
+ | [et](/f33/language/et) | 158 | 158 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/et.po | 
+ | [eu](/f33/language/eu) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/eu.po | 
+ | [fa](/f33/language/fa) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/fa.po | 
+ | [fr](/f33/language/fr) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/fr.po | 
+ | [fur](/f33/language/fur) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/fur.po | 
+ | [gd](/f33/language/gd) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/gd.po | 
+ | [gl](/f33/language/gl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/gl.po | 
+ | [gu](/f33/language/gu) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/gu.po | 
+ | [he](/f33/language/he) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/he.po | 
+ | [hi](/f33/language/hi) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/hi.po | 
+ | [hr](/f33/language/hr) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/hr.po | 
+ | [hu](/f33/language/hu) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/hu.po | 
+ | [id](/f33/language/id) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/id.po | 
+ | [it](/f33/language/it) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/it.po | 
+ | [ja](/f33/language/ja) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ja.po | 
+ | [kn](/f33/language/kn) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/kn.po | 
+ | [ko](/f33/language/ko) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ko.po | 
+ | [lt](/f33/language/lt) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/lt.po | 
+ | [lv](/f33/language/lv) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/lv.po | 
+ | [ml](/f33/language/ml) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ml.po | 
+ | [mr](/f33/language/mr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/mr.po | 
+ | [ms](/f33/language/ms) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ms.po | 
+ | [nb_NO](/f33/language/nb_NO) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/nb.po | 
+ | [ne](/f33/language/ne) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ne.po | 
+ | [nl](/f33/language/nl) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/nl.po | 
+ | [oc](/f33/language/oc) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/oc.po | 
+ | [or](/f33/language/or) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/or.po | 
+ | [pa](/f33/language/pa) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pa.po | 
+ | [pl](/f33/language/pl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pl.po | 
+ | [pt](/f33/language/pt) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ro.po | 
+ | [ru](/f33/language/ru) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ru.po | 
+ | [sk](/f33/language/sk) | 162 | 162 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sk.po | 
+ | [sl](/f33/language/sl) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sl.po | 
+ | [sr](/f33/language/sr) | 341 | 341 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sr@latin.po/mnt/stockage/packages/f33/mingw-libsoup/po/sr.po | 
+ | [sv](/f33/language/sv) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/sv.po | 
+ | [ta](/f33/language/ta) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ta.po | 
+ | [te](/f33/language/te) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/te.po | 
+ | [tg](/f33/language/tg) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/tg.po | 
+ | [th](/f33/language/th) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/th.po | 
+ | [tr](/f33/language/tr) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/tr.po | 
+ | [ug](/f33/language/ug) | 79 | 79 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/ug.po | 
+ | [uk](/f33/language/uk) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/uk.po | 
+ | [uz](/f33/language/uz) | 51 | 51 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/uz@cyrillic.po | 
+ | [vi](/f33/language/vi) | 155 | 155 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 183 | 183 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 179 | 179 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/zh_TW.po | 
+ | [zh_Hant_HK](/f33/language/zh_Hant_HK) | 110 | 110 | 100.0 | /mnt/stockage/packages/f33/mingw-libsoup/po/zh_HK.po | 
+ | [fi](/f33/language/fi) | 104 | 183 | 56.8 | /mnt/stockage/packages/f33/mingw-libsoup/po/fi.po | 
+ | [eo](/f33/language/eo) | 80 | 155 | 51.6 | /mnt/stockage/packages/f33/mingw-libsoup/po/eo.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package intltool (version 0.51.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f24/language/az.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f24/intltool/tests/cases/az.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f24/intltool/tests/cases/fr_FR.po/mnt/stockage/packages/f24/intltool/tests/cases/fr.po | 
- | [fr_BE]({{< ref "/f24/language/fr_BE.md" >}}) | 9 | 10 | 90.0 | /mnt/stockage/packages/f24/intltool/tests/cases/fr_BE.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 238 | 303 | 78.5 | /mnt/stockage/packages/f24/intltool/tests/cases/schemasmerge2.po/mnt/stockage/packages/f24/intltool/tests/cases/extract9.po/mnt/stockage/packages/f24/intltool/tests/cases/test-quoted.po/mnt/stockage/packages/f24/intltool/tests/cases/schemasmerge1.po/mnt/stockage/packages/f24/intltool/tests/cases/spacepreserve.po/mnt/stockage/packages/f24/intltool/tests/cases/test.po/mnt/stockage/packages/f24/intltool/tests/cases/merge6.po | 
+ | [az](/f24/language/az) | 13 | 13 | 100.0 | /mnt/stockage/packages/f24/intltool/tests/cases/az.po | 
+ | [fr](/f24/language/fr) | 80 | 80 | 100.0 | /mnt/stockage/packages/f24/intltool/tests/cases/fr_FR.po/mnt/stockage/packages/f24/intltool/tests/cases/fr.po | 
+ | [fr_BE](/f24/language/fr_BE) | 9 | 10 | 90.0 | /mnt/stockage/packages/f24/intltool/tests/cases/fr_BE.po | 
+ | [error](/f24/language/error) | 238 | 303 | 78.5 | /mnt/stockage/packages/f24/intltool/tests/cases/schemasmerge2.po/mnt/stockage/packages/f24/intltool/tests/cases/extract9.po/mnt/stockage/packages/f24/intltool/tests/cases/test-quoted.po/mnt/stockage/packages/f24/intltool/tests/cases/schemasmerge1.po/mnt/stockage/packages/f24/intltool/tests/cases/spacepreserve.po/mnt/stockage/packages/f24/intltool/tests/cases/test.po/mnt/stockage/packages/f24/intltool/tests/cases/merge6.po | 
 {.sortable}
 
 

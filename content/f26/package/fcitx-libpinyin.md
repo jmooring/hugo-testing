@@ -18,12 +18,12 @@ The package fcitx-libpinyin (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/ca.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/ru.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/zh_CN.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 241 | 246 | 98.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/de.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 211 | 246 | 85.8 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/ja.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 118 | 246 | 48.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/zh_TW.po | 
+ | [ca](/f26/language/ca) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/ca.po | 
+ | [ru](/f26/language/ru) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/ru.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 246 | 246 | 100.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/zh_CN.po | 
+ | [de](/f26/language/de) | 241 | 246 | 98.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/de.po | 
+ | [ja](/f26/language/ja) | 211 | 246 | 85.8 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/ja.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 118 | 246 | 48.0 | /mnt/stockage/packages/f26/fcitx-libpinyin/po/zh_TW.po | 
 {.sortable}
 
 

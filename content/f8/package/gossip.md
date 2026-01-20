@@ -18,48 +18,48 @@ The package gossip (version 0.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 2191 | 2191 | 100.0 | /mnt/stockage/packages/f8/gossip/po/dz.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 2075 | 2075 | 100.0 | /mnt/stockage/packages/f8/gossip/po/en_GB.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 2154 | 2154 | 100.0 | /mnt/stockage/packages/f8/gossip/po/eu.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 2191 | 2191 | 100.0 | /mnt/stockage/packages/f8/gossip/po/hu.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1971 | 1971 | 100.0 | /mnt/stockage/packages/f8/gossip/po/nl.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 4685 | 4693 | 99.8 | /mnt/stockage/packages/f8/gossip/help/fr/fr.po/mnt/stockage/packages/f8/gossip/po/fr.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 1905 | 1966 | 96.9 | /mnt/stockage/packages/f8/gossip/po/lt.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 1714 | 1966 | 87.2 | /mnt/stockage/packages/f8/gossip/po/el.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 1658 | 1966 | 84.3 | /mnt/stockage/packages/f8/gossip/po/fi.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 1452 | 1966 | 73.9 | /mnt/stockage/packages/f8/gossip/po/vi.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 1345 | 1966 | 68.4 | /mnt/stockage/packages/f8/gossip/po/ca.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 2956 | 4875 | 60.6 | /mnt/stockage/packages/f8/gossip/help/sv/sv.po/mnt/stockage/packages/f8/gossip/po/sv.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 1116 | 1966 | 56.8 | /mnt/stockage/packages/f8/gossip/po/ru.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1097 | 1966 | 55.8 | /mnt/stockage/packages/f8/gossip/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f8/language/zh_Hant_HK.md" >}}) | 1097 | 1966 | 55.8 | /mnt/stockage/packages/f8/gossip/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 1204 | 2336 | 51.5 | /mnt/stockage/packages/f8/gossip/po/nb.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 2254 | 4600 | 49.0 | /mnt/stockage/packages/f8/gossip/help/es/es.po/mnt/stockage/packages/f8/gossip/po/es.po | 
- | [ne]({{< ref "/f8/language/ne.md" >}}) | 859 | 1966 | 43.7 | /mnt/stockage/packages/f8/gossip/po/ne.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 800 | 1966 | 40.7 | /mnt/stockage/packages/f8/gossip/po/da.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 750 | 1966 | 38.1 | /mnt/stockage/packages/f8/gossip/po/it.po | 
- | [en_CA]({{< ref "/f8/language/en_CA.md" >}}) | 555 | 1966 | 28.2 | /mnt/stockage/packages/f8/gossip/po/en_CA.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 302 | 1966 | 15.4 | /mnt/stockage/packages/f8/gossip/po/de.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 194 | 1966 | 9.9 | /mnt/stockage/packages/f8/gossip/po/bg.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 194 | 1966 | 9.9 | /mnt/stockage/packages/f8/gossip/po/cs.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 191 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/cy.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 191 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 191 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/pt_BR.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 190 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/pt.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 190 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/zh_CN.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 186 | 1966 | 9.5 | /mnt/stockage/packages/f8/gossip/po/sr@Latn.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 186 | 1966 | 9.5 | /mnt/stockage/packages/f8/gossip/po/sr.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 184 | 1966 | 9.4 | /mnt/stockage/packages/f8/gossip/po/eo.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 184 | 1966 | 9.4 | /mnt/stockage/packages/f8/gossip/po/uk.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 183 | 1971 | 9.3 | /mnt/stockage/packages/f8/gossip/po/ar.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 151 | 1966 | 7.7 | /mnt/stockage/packages/f8/gossip/po/ms.po | 
- | [oc]({{< ref "/f8/language/oc.md" >}}) | 125 | 2169 | 5.8 | /mnt/stockage/packages/f8/gossip/po/oc.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 72 | 1966 | 3.7 | /mnt/stockage/packages/f8/gossip/po/sq.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 60 | 1966 | 3.1 | /mnt/stockage/packages/f8/gossip/po/hr.po | 
- | [ga]({{< ref "/f8/language/ga.md" >}}) | 18 | 1966 | 0.9 | /mnt/stockage/packages/f8/gossip/po/ga.po | 
- | [az]({{< ref "/f8/language/az.md" >}}) | 9 | 1966 | 0.5 | /mnt/stockage/packages/f8/gossip/po/az.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 6 | 1966 | 0.3 | /mnt/stockage/packages/f8/gossip/po/ml.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f8/gossip/po/tr.po | 
+ | [dz](/f8/language/dz) | 2191 | 2191 | 100.0 | /mnt/stockage/packages/f8/gossip/po/dz.po | 
+ | [en_GB](/f8/language/en_GB) | 2075 | 2075 | 100.0 | /mnt/stockage/packages/f8/gossip/po/en_GB.po | 
+ | [eu](/f8/language/eu) | 2154 | 2154 | 100.0 | /mnt/stockage/packages/f8/gossip/po/eu.po | 
+ | [hu](/f8/language/hu) | 2191 | 2191 | 100.0 | /mnt/stockage/packages/f8/gossip/po/hu.po | 
+ | [nl](/f8/language/nl) | 1971 | 1971 | 100.0 | /mnt/stockage/packages/f8/gossip/po/nl.po | 
+ | [fr](/f8/language/fr) | 4685 | 4693 | 99.8 | /mnt/stockage/packages/f8/gossip/help/fr/fr.po/mnt/stockage/packages/f8/gossip/po/fr.po | 
+ | [lt](/f8/language/lt) | 1905 | 1966 | 96.9 | /mnt/stockage/packages/f8/gossip/po/lt.po | 
+ | [el](/f8/language/el) | 1714 | 1966 | 87.2 | /mnt/stockage/packages/f8/gossip/po/el.po | 
+ | [fi](/f8/language/fi) | 1658 | 1966 | 84.3 | /mnt/stockage/packages/f8/gossip/po/fi.po | 
+ | [vi](/f8/language/vi) | 1452 | 1966 | 73.9 | /mnt/stockage/packages/f8/gossip/po/vi.po | 
+ | [ca](/f8/language/ca) | 1345 | 1966 | 68.4 | /mnt/stockage/packages/f8/gossip/po/ca.po | 
+ | [sv](/f8/language/sv) | 2956 | 4875 | 60.6 | /mnt/stockage/packages/f8/gossip/help/sv/sv.po/mnt/stockage/packages/f8/gossip/po/sv.po | 
+ | [ru](/f8/language/ru) | 1116 | 1966 | 56.8 | /mnt/stockage/packages/f8/gossip/po/ru.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1097 | 1966 | 55.8 | /mnt/stockage/packages/f8/gossip/po/zh_TW.po | 
+ | [zh_Hant_HK](/f8/language/zh_Hant_HK) | 1097 | 1966 | 55.8 | /mnt/stockage/packages/f8/gossip/po/zh_HK.po | 
+ | [nb_NO](/f8/language/nb_NO) | 1204 | 2336 | 51.5 | /mnt/stockage/packages/f8/gossip/po/nb.po | 
+ | [es](/f8/language/es) | 2254 | 4600 | 49.0 | /mnt/stockage/packages/f8/gossip/help/es/es.po/mnt/stockage/packages/f8/gossip/po/es.po | 
+ | [ne](/f8/language/ne) | 859 | 1966 | 43.7 | /mnt/stockage/packages/f8/gossip/po/ne.po | 
+ | [da](/f8/language/da) | 800 | 1966 | 40.7 | /mnt/stockage/packages/f8/gossip/po/da.po | 
+ | [it](/f8/language/it) | 750 | 1966 | 38.1 | /mnt/stockage/packages/f8/gossip/po/it.po | 
+ | [en_CA](/f8/language/en_CA) | 555 | 1966 | 28.2 | /mnt/stockage/packages/f8/gossip/po/en_CA.po | 
+ | [de](/f8/language/de) | 302 | 1966 | 15.4 | /mnt/stockage/packages/f8/gossip/po/de.po | 
+ | [bg](/f8/language/bg) | 194 | 1966 | 9.9 | /mnt/stockage/packages/f8/gossip/po/bg.po | 
+ | [cs](/f8/language/cs) | 194 | 1966 | 9.9 | /mnt/stockage/packages/f8/gossip/po/cs.po | 
+ | [cy](/f8/language/cy) | 191 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/cy.po | 
+ | [pl](/f8/language/pl) | 191 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 191 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/pt_BR.po | 
+ | [pt](/f8/language/pt) | 190 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/pt.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 190 | 1966 | 9.7 | /mnt/stockage/packages/f8/gossip/po/zh_CN.po | 
+ | [error](/f8/language/error) | 186 | 1966 | 9.5 | /mnt/stockage/packages/f8/gossip/po/sr@Latn.po | 
+ | [sr](/f8/language/sr) | 186 | 1966 | 9.5 | /mnt/stockage/packages/f8/gossip/po/sr.po | 
+ | [eo](/f8/language/eo) | 184 | 1966 | 9.4 | /mnt/stockage/packages/f8/gossip/po/eo.po | 
+ | [uk](/f8/language/uk) | 184 | 1966 | 9.4 | /mnt/stockage/packages/f8/gossip/po/uk.po | 
+ | [ar](/f8/language/ar) | 183 | 1971 | 9.3 | /mnt/stockage/packages/f8/gossip/po/ar.po | 
+ | [ms](/f8/language/ms) | 151 | 1966 | 7.7 | /mnt/stockage/packages/f8/gossip/po/ms.po | 
+ | [oc](/f8/language/oc) | 125 | 2169 | 5.8 | /mnt/stockage/packages/f8/gossip/po/oc.po | 
+ | [sq](/f8/language/sq) | 72 | 1966 | 3.7 | /mnt/stockage/packages/f8/gossip/po/sq.po | 
+ | [hr](/f8/language/hr) | 60 | 1966 | 3.1 | /mnt/stockage/packages/f8/gossip/po/hr.po | 
+ | [ga](/f8/language/ga) | 18 | 1966 | 0.9 | /mnt/stockage/packages/f8/gossip/po/ga.po | 
+ | [az](/f8/language/az) | 9 | 1966 | 0.5 | /mnt/stockage/packages/f8/gossip/po/az.po | 
+ | [ml](/f8/language/ml) | 6 | 1966 | 0.3 | /mnt/stockage/packages/f8/gossip/po/ml.po | 
+ | [tr](/f8/language/tr) | 0 | 1966 | 0.0 | /mnt/stockage/packages/f8/gossip/po/tr.po | 
 {.sortable}
 
 

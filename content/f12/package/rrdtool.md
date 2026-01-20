@@ -18,7 +18,7 @@ The package rrdtool (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 0 | 503 | 0.0 | /mnt/stockage/packages/f12/rrdtool/po/de.po | 
+ | [de](/f12/language/de) | 0 | 503 | 0.0 | /mnt/stockage/packages/f12/rrdtool/po/de.po | 
 {.sortable}
 
 

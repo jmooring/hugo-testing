@@ -18,79 +18,79 @@ The package gnome-mime-data (version 2.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ar.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/az.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/be.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/bg.po | 
- | [bn]({{< ref "/f34/language/bn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/bn.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/bs.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/cs.po | 
- | [cy]({{< ref "/f34/language/cy.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/cy.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/el.po | 
- | [en_CA]({{< ref "/f34/language/en_CA.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/en_CA.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/en_GB.po | 
- | [error]({{< ref "/f34/language/error.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sr@Latn.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/es.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/et.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/eu.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/fr.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/gl.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/gu.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/he.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/hi.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/hu.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/it.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ko.po | 
- | [li]({{< ref "/f34/language/li.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/li.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/lt.po | 
- | [mk]({{< ref "/f34/language/mk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/mk.po | 
- | [mn]({{< ref "/f34/language/mn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/mn.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ms.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nl.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nn.po | 
- | [nso]({{< ref "/f34/language/nso.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nso.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pa.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pl.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pt_BR.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ro.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ru.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sk.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sl.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sq.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f34/language/sr@ijekavian.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sr@ije.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sv.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ta.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/uk.po | 
- | [xh]({{< ref "/f34/language/xh.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/xh.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/zh_TW.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 851 | 854 | 99.6 | /mnt/stockage/packages/f34/gnome-mime-data/po/eo.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 883 | 887 | 99.5 | /mnt/stockage/packages/f34/gnome-mime-data/po/af.po | 
- | [ne]({{< ref "/f34/language/ne.md" >}}) | 860 | 887 | 97.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ne.po | 
- | [th]({{< ref "/f34/language/th.md" >}}) | 860 | 887 | 97.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/th.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 845 | 873 | 96.8 | /mnt/stockage/packages/f34/gnome-mime-data/po/vi.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 857 | 887 | 96.6 | /mnt/stockage/packages/f34/gnome-mime-data/po/is.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 797 | 827 | 96.4 | /mnt/stockage/packages/f34/gnome-mime-data/po/lv.po | 
- | [zu]({{< ref "/f34/language/zu.md" >}}) | 834 | 887 | 94.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/zu.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 790 | 887 | 89.1 | /mnt/stockage/packages/f34/gnome-mime-data/po/wa.po | 
- | [tk]({{< ref "/f34/language/tk.md" >}}) | 625 | 887 | 70.5 | /mnt/stockage/packages/f34/gnome-mime-data/po/tk.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 573 | 877 | 65.3 | /mnt/stockage/packages/f34/gnome-mime-data/po/ga.po | 
- | [am]({{< ref "/f34/language/am.md" >}}) | 460 | 827 | 55.6 | /mnt/stockage/packages/f34/gnome-mime-data/po/am.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 355 | 827 | 42.9 | /mnt/stockage/packages/f34/gnome-mime-data/po/fa.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 18 | 850 | 2.1 | /mnt/stockage/packages/f34/gnome-mime-data/po/ml.po | 
- | [rw]({{< ref "/f34/language/rw.md" >}}) | 12 | 887 | 1.4 | /mnt/stockage/packages/f34/gnome-mime-data/po/rw.po | 
- | [yi]({{< ref "/f34/language/yi.md" >}}) | 1 | 827 | 0.1 | /mnt/stockage/packages/f34/gnome-mime-data/po/yi.po | 
+ | [ar](/f34/language/ar) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ar.po | 
+ | [az](/f34/language/az) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/az.po | 
+ | [be](/f34/language/be) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/be.po | 
+ | [bg](/f34/language/bg) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/bg.po | 
+ | [bn](/f34/language/bn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/bn.po | 
+ | [bs](/f34/language/bs) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/bs.po | 
+ | [ca](/f34/language/ca) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ca.po | 
+ | [cs](/f34/language/cs) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/cs.po | 
+ | [cy](/f34/language/cy) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/cy.po | 
+ | [da](/f34/language/da) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/da.po | 
+ | [de](/f34/language/de) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/de.po | 
+ | [el](/f34/language/el) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/el.po | 
+ | [en_CA](/f34/language/en_CA) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/en_CA.po | 
+ | [en_GB](/f34/language/en_GB) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/en_GB.po | 
+ | [error](/f34/language/error) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sr@Latn.po | 
+ | [es](/f34/language/es) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/es.po | 
+ | [et](/f34/language/et) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/et.po | 
+ | [eu](/f34/language/eu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/eu.po | 
+ | [fi](/f34/language/fi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/fi.po | 
+ | [fr](/f34/language/fr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/fr.po | 
+ | [gl](/f34/language/gl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/gl.po | 
+ | [gu](/f34/language/gu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/gu.po | 
+ | [he](/f34/language/he) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/he.po | 
+ | [hi](/f34/language/hi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/hi.po | 
+ | [hr](/f34/language/hr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/hr.po | 
+ | [hu](/f34/language/hu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/hu.po | 
+ | [id](/f34/language/id) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/id.po | 
+ | [it](/f34/language/it) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/it.po | 
+ | [ja](/f34/language/ja) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ja.po | 
+ | [ko](/f34/language/ko) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ko.po | 
+ | [li](/f34/language/li) | 850 | 850 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/li.po | 
+ | [lt](/f34/language/lt) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/lt.po | 
+ | [mk](/f34/language/mk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/mk.po | 
+ | [mn](/f34/language/mn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/mn.po | 
+ | [ms](/f34/language/ms) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ms.po | 
+ | [nb_NO](/f34/language/nb_NO) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nb.po | 
+ | [nl](/f34/language/nl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nl.po | 
+ | [nn](/f34/language/nn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nn.po | 
+ | [nso](/f34/language/nso) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/nso.po | 
+ | [pa](/f34/language/pa) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pa.po | 
+ | [pl](/f34/language/pl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pl.po | 
+ | [pt](/f34/language/pt) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/pt_BR.po | 
+ | [ro](/f34/language/ro) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ro.po | 
+ | [ru](/f34/language/ru) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ru.po | 
+ | [sk](/f34/language/sk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sk.po | 
+ | [sl](/f34/language/sl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sl.po | 
+ | [sq](/f34/language/sq) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sq.po | 
+ | [sr](/f34/language/sr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sr.po | 
+ | [sr@ijekavian](/f34/language/sr@ijekavian) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sr@ije.po | 
+ | [sv](/f34/language/sv) | 888 | 888 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/sv.po | 
+ | [ta](/f34/language/ta) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ta.po | 
+ | [tr](/f34/language/tr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/tr.po | 
+ | [uk](/f34/language/uk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/uk.po | 
+ | [xh](/f34/language/xh) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/xh.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 887 | 887 | 100.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/zh_TW.po | 
+ | [eo](/f34/language/eo) | 851 | 854 | 99.6 | /mnt/stockage/packages/f34/gnome-mime-data/po/eo.po | 
+ | [af](/f34/language/af) | 883 | 887 | 99.5 | /mnt/stockage/packages/f34/gnome-mime-data/po/af.po | 
+ | [ne](/f34/language/ne) | 860 | 887 | 97.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/ne.po | 
+ | [th](/f34/language/th) | 860 | 887 | 97.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/th.po | 
+ | [vi](/f34/language/vi) | 845 | 873 | 96.8 | /mnt/stockage/packages/f34/gnome-mime-data/po/vi.po | 
+ | [is](/f34/language/is) | 857 | 887 | 96.6 | /mnt/stockage/packages/f34/gnome-mime-data/po/is.po | 
+ | [lv](/f34/language/lv) | 797 | 827 | 96.4 | /mnt/stockage/packages/f34/gnome-mime-data/po/lv.po | 
+ | [zu](/f34/language/zu) | 834 | 887 | 94.0 | /mnt/stockage/packages/f34/gnome-mime-data/po/zu.po | 
+ | [wa](/f34/language/wa) | 790 | 887 | 89.1 | /mnt/stockage/packages/f34/gnome-mime-data/po/wa.po | 
+ | [tk](/f34/language/tk) | 625 | 887 | 70.5 | /mnt/stockage/packages/f34/gnome-mime-data/po/tk.po | 
+ | [ga](/f34/language/ga) | 573 | 877 | 65.3 | /mnt/stockage/packages/f34/gnome-mime-data/po/ga.po | 
+ | [am](/f34/language/am) | 460 | 827 | 55.6 | /mnt/stockage/packages/f34/gnome-mime-data/po/am.po | 
+ | [fa](/f34/language/fa) | 355 | 827 | 42.9 | /mnt/stockage/packages/f34/gnome-mime-data/po/fa.po | 
+ | [ml](/f34/language/ml) | 18 | 850 | 2.1 | /mnt/stockage/packages/f34/gnome-mime-data/po/ml.po | 
+ | [rw](/f34/language/rw) | 12 | 887 | 1.4 | /mnt/stockage/packages/f34/gnome-mime-data/po/rw.po | 
+ | [yi](/f34/language/yi) | 1 | 827 | 0.1 | /mnt/stockage/packages/f34/gnome-mime-data/po/yi.po | 
 {.sortable}
 
 

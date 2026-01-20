@@ -18,8 +18,8 @@ The package libusbauth-configparser (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f41/libusbauth-configparser/usbauth-notifier/po/de.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f41/libusbauth-configparser/usbauth-notifier/po/zh_TW.po | 
+ | [de](/f41/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f41/libusbauth-configparser/usbauth-notifier/po/de.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f41/libusbauth-configparser/usbauth-notifier/po/zh_TW.po | 
 {.sortable}
 
 

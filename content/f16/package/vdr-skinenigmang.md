@@ -18,27 +18,27 @@ The package vdr-skinenigmang (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/ca_ES.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/de_DE.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/it_IT.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 318 | 322 | 98.8 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/hu_HU.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/es_ES.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/fi_FI.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/fr_FR.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/nl_NL.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 126 | 322 | 39.1 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/ru_RU.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 29 | 322 | 9.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/et_EE.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 29 | 322 | 9.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/pl_PL.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 29 | 322 | 9.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/sv_SE.po | 
- | [pt_PT]({{< ref "/f16/language/pt_PT.md" >}}) | 1 | 322 | 0.3 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/pt_PT.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/cs_CZ.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/da_DK.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/el_GR.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/hr_HR.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/nn_NO.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/ro_RO.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/sl_SI.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/tr_TR.po | 
+ | [ca](/f16/language/ca) | 322 | 322 | 100.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/ca_ES.po | 
+ | [de](/f16/language/de) | 322 | 322 | 100.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/de_DE.po | 
+ | [it](/f16/language/it) | 322 | 322 | 100.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/it_IT.po | 
+ | [hu](/f16/language/hu) | 318 | 322 | 98.8 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/hu_HU.po | 
+ | [es](/f16/language/es) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/es_ES.po | 
+ | [fi](/f16/language/fi) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/fi_FI.po | 
+ | [fr](/f16/language/fr) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/fr_FR.po | 
+ | [nl](/f16/language/nl) | 267 | 322 | 82.9 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/nl_NL.po | 
+ | [ru](/f16/language/ru) | 126 | 322 | 39.1 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/ru_RU.po | 
+ | [et](/f16/language/et) | 29 | 322 | 9.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/et_EE.po | 
+ | [pl](/f16/language/pl) | 29 | 322 | 9.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/pl_PL.po | 
+ | [sv](/f16/language/sv) | 29 | 322 | 9.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/sv_SE.po | 
+ | [pt_PT](/f16/language/pt_PT) | 1 | 322 | 0.3 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/pt_PT.po | 
+ | [cs](/f16/language/cs) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/cs_CZ.po | 
+ | [da](/f16/language/da) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/da_DK.po | 
+ | [el](/f16/language/el) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/el_GR.po | 
+ | [hr](/f16/language/hr) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/hr_HR.po | 
+ | [nn](/f16/language/nn) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/nn_NO.po | 
+ | [ro](/f16/language/ro) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/ro_RO.po | 
+ | [sl](/f16/language/sl) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/sl_SI.po | 
+ | [tr](/f16/language/tr) | 0 | 322 | 0.0 | /mnt/stockage/packages/f16/vdr-skinenigmang/po/tr_TR.po | 
 {.sortable}
 
 

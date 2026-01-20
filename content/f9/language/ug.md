@@ -41,29 +41,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f9/package/at-spi.md" >}}) | 4 | 4 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [bug-buddy]({{< ref "/f9/package/bug-buddy.md" >}}) | 1228 | 1228 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gnome-doc-utils]({{< ref "/f9/package/gnome-doc-utils.md" >}}) | 199 | 199 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gnome-mag]({{< ref "/f9/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gnome-themes]({{< ref "/f9/package/gnome-themes.md" >}}) | 101 | 101 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [vino]({{< ref "/f9/package/vino.md" >}}) | 540 | 540 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [vte]({{< ref "/f9/package/vte.md" >}}) | 96 | 96 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [yelp]({{< ref "/f9/package/yelp.md" >}}) | 597 | 597 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gconf-editor]({{< ref "/f9/package/gconf-editor.md" >}}) | 327 | 334 | 97.9 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [eel2]({{< ref "/f9/package/eel2.md" >}}) | 224 | 235 | 95.3 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [zenity]({{< ref "/f9/package/zenity.md" >}}) | 359 | 394 | 91.1 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [atk]({{< ref "/f9/package/atk.md" >}}) | 319 | 370 | 86.2 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [evolution-webcal]({{< ref "/f9/package/evolution-webcal.md" >}}) | 152 | 180 | 84.4 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 106 | 133 | 79.7 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [dasher]({{< ref "/f9/package/dasher.md" >}}) | 327 | 423 | 77.3 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [nautilus-cd-burner]({{< ref "/f9/package/nautilus-cd-burner.md" >}}) | 658 | 887 | 74.2 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [eog]({{< ref "/f9/package/eog.md" >}}) | 431 | 709 | 60.8 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gnome-desktop]({{< ref "/f9/package/gnome-desktop.md" >}}) | 189 | 323 | 58.5 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [totem]({{< ref "/f9/package/totem.md" >}}) | 761 | 1565 | 48.6 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [totem-pl-parser]({{< ref "/f9/package/totem-pl-parser.md" >}}) | 761 | 1565 | 48.6 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [squirrelmail]({{< ref "/f9/package/squirrelmail.md" >}}) | 2776 | 7048 | 39.4 | XinJiang University / Uighur | 
- | [sound-juicer]({{< ref "/f9/package/sound-juicer.md" >}}) | 258 | 704 | 36.6 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
- | [gnome-system-monitor]({{< ref "/f9/package/gnome-system-monitor.md" >}}) | 175 | 680 | 25.7 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [at-spi](/f9/package/at-spi) | 4 | 4 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [bug-buddy](/f9/package/bug-buddy) | 1228 | 1228 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gnome-doc-utils](/f9/package/gnome-doc-utils) | 199 | 199 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gnome-mag](/f9/package/gnome-mag) | 5 | 5 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gnome-themes](/f9/package/gnome-themes) | 101 | 101 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [vino](/f9/package/vino) | 540 | 540 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [vte](/f9/package/vte) | 96 | 96 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [yelp](/f9/package/yelp) | 597 | 597 | 100.0 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gconf-editor](/f9/package/gconf-editor) | 327 | 334 | 97.9 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [eel2](/f9/package/eel2) | 224 | 235 | 95.3 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [zenity](/f9/package/zenity) | 359 | 394 | 91.1 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [atk](/f9/package/atk) | 319 | 370 | 86.2 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [evolution-webcal](/f9/package/evolution-webcal) | 152 | 180 | 84.4 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gnome-menus](/f9/package/gnome-menus) | 106 | 133 | 79.7 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [dasher](/f9/package/dasher) | 327 | 423 | 77.3 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [nautilus-cd-burner](/f9/package/nautilus-cd-burner) | 658 | 887 | 74.2 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [eog](/f9/package/eog) | 431 | 709 | 60.8 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gnome-desktop](/f9/package/gnome-desktop) | 189 | 323 | 58.5 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [totem](/f9/package/totem) | 761 | 1565 | 48.6 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [totem-pl-parser](/f9/package/totem-pl-parser) | 761 | 1565 | 48.6 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [squirrelmail](/f9/package/squirrelmail) | 2776 | 7048 | 39.4 | XinJiang University / Uighur | 
+ | [sound-juicer](/f9/package/sound-juicer) | 258 | 704 | 36.6 | GNOME Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
+ | [gnome-system-monitor](/f9/package/gnome-system-monitor) | 175 | 680 | 25.7 | Gnome Uighur Translation Project <gnome-uighur@yahoogroups.com> | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package partclone (version 0.3.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 228 | 269 | 84.8 | /mnt/stockage/packages/f37/partclone/po/de.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 228 | 269 | 84.8 | /mnt/stockage/packages/f37/partclone/po/fr_FR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 228 | 269 | 84.8 | /mnt/stockage/packages/f37/partclone/po/ru.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 219 | 269 | 81.4 | /mnt/stockage/packages/f37/partclone/po/pt_BR.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 208 | 269 | 77.3 | /mnt/stockage/packages/f37/partclone/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 173 | 269 | 64.3 | /mnt/stockage/packages/f37/partclone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 128 | 269 | 47.6 | /mnt/stockage/packages/f37/partclone/po/zh_TW.po | 
+ | [de](/f37/language/de) | 228 | 269 | 84.8 | /mnt/stockage/packages/f37/partclone/po/de.po | 
+ | [fr](/f37/language/fr) | 228 | 269 | 84.8 | /mnt/stockage/packages/f37/partclone/po/fr_FR.po | 
+ | [ru](/f37/language/ru) | 228 | 269 | 84.8 | /mnt/stockage/packages/f37/partclone/po/ru.po | 
+ | [pt_BR](/f37/language/pt_BR) | 219 | 269 | 81.4 | /mnt/stockage/packages/f37/partclone/po/pt_BR.po | 
+ | [vi](/f37/language/vi) | 208 | 269 | 77.3 | /mnt/stockage/packages/f37/partclone/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 173 | 269 | 64.3 | /mnt/stockage/packages/f37/partclone/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 128 | 269 | 47.6 | /mnt/stockage/packages/f37/partclone/po/zh_TW.po | 
 {.sortable}
 
 

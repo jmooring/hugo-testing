@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [exaile]({{< ref "/f11/package/exaile.md" >}}) | 1956 | 2425 | 80.7 | Kashubian <csb@li.org> | 
- | [avant-window-navigator]({{< ref "/f11/package/avant-window-navigator.md" >}}) | 173 | 593 | 29.2 | Kashubian <csb@li.org> | 
- | [Miro]({{< ref "/f11/package/Miro.md" >}}) | 47 | 2774 | 1.7 | Kashubian <csb@li.org> | 
+ | [exaile](/f11/package/exaile) | 1956 | 2425 | 80.7 | Kashubian <csb@li.org> | 
+ | [avant-window-navigator](/f11/package/avant-window-navigator) | 173 | 593 | 29.2 | Kashubian <csb@li.org> | 
+ | [Miro](/f11/package/Miro) | 47 | 2774 | 1.7 | Kashubian <csb@li.org> | 
 {.sortable}
 
 

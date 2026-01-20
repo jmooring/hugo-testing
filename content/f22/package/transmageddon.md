@@ -18,38 +18,38 @@ The package transmageddon (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 249 | 249 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/fr.po | 
- | [gd]({{< ref "/f22/language/gd.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/gd.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/gl.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/it.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/lv.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sr@latin.po/mnt/stockage/packages/f22/transmageddon/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sv.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 237 | 237 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/zh_CN.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 235 | 237 | 99.2 | /mnt/stockage/packages/f22/transmageddon/po/ca.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 320 | 327 | 97.9 | /mnt/stockage/packages/f22/transmageddon/po/fi.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 124 | 203 | 61.1 | /mnt/stockage/packages/f22/transmageddon/po/nb.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 70 | 203 | 34.5 | /mnt/stockage/packages/f22/transmageddon/po/eo.po | 
+ | [cs](/f22/language/cs) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/cs.po | 
+ | [da](/f22/language/da) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/da.po | 
+ | [de](/f22/language/de) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/de.po | 
+ | [el](/f22/language/el) | 249 | 249 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 208 | 208 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/en_GB.po | 
+ | [es](/f22/language/es) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/es.po | 
+ | [fr](/f22/language/fr) | 390 | 390 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/fr.po | 
+ | [gd](/f22/language/gd) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/gd.po | 
+ | [gl](/f22/language/gl) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/gl.po | 
+ | [he](/f22/language/he) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/he.po | 
+ | [hu](/f22/language/hu) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/hu.po | 
+ | [id](/f22/language/id) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/id.po | 
+ | [it](/f22/language/it) | 209 | 209 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/it.po | 
+ | [lt](/f22/language/lt) | 316 | 316 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/lt.po | 
+ | [lv](/f22/language/lv) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/lv.po | 
+ | [pl](/f22/language/pl) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/pl.po | 
+ | [pt](/f22/language/pt) | 194 | 194 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 316 | 316 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/ro.po | 
+ | [ru](/f22/language/ru) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/ru.po | 
+ | [sk](/f22/language/sk) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sk.po | 
+ | [sl](/f22/language/sl) | 250 | 250 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sl.po | 
+ | [sr](/f22/language/sr) | 654 | 654 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sr@latin.po/mnt/stockage/packages/f22/transmageddon/po/sr.po | 
+ | [sv](/f22/language/sv) | 203 | 203 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/sv.po | 
+ | [th](/f22/language/th) | 237 | 237 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/th.po | 
+ | [tr](/f22/language/tr) | 327 | 327 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/tr.po | 
+ | [uk](/f22/language/uk) | 210 | 210 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 248 | 248 | 100.0 | /mnt/stockage/packages/f22/transmageddon/po/zh_CN.po | 
+ | [ca](/f22/language/ca) | 235 | 237 | 99.2 | /mnt/stockage/packages/f22/transmageddon/po/ca.po | 
+ | [fi](/f22/language/fi) | 320 | 327 | 97.9 | /mnt/stockage/packages/f22/transmageddon/po/fi.po | 
+ | [nb_NO](/f22/language/nb_NO) | 124 | 203 | 61.1 | /mnt/stockage/packages/f22/transmageddon/po/nb.po | 
+ | [eo](/f22/language/eo) | 70 | 203 | 34.5 | /mnt/stockage/packages/f22/transmageddon/po/eo.po | 
 {.sortable}
 
 

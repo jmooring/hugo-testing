@@ -18,108 +18,108 @@ The package cinnamon-session (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f24/language/as.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/as.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/br.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/ca@valencia.po | 
- | [crh]({{< ref "/f24/language/crh.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/crh.po | 
- | [fy]({{< ref "/f24/language/fy.md" >}}) | 377 | 377 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/fy.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/hr.po | 
- | [km]({{< ref "/f24/language/km.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/km.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 667 | 678 | 98.4 | /mnt/stockage/packages/f24/cinnamon-session/po/ast.po | 
- | [csb]({{< ref "/f24/language/csb.md" >}}) | 379 | 404 | 93.8 | /mnt/stockage/packages/f24/cinnamon-session/po/csb.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 379 | 417 | 90.9 | /mnt/stockage/packages/f24/cinnamon-session/po/ug.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ar.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/be.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/bg.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/bn_IN.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/el.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/et.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/fa.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/gl.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/gu.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/hi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/lv.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/mr.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nb.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 708 | 802 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sr@latin.po/mnt/stockage/packages/f24/cinnamon-session/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/te.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/zh_HK.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 480 | 567 | 84.7 | /mnt/stockage/packages/f24/cinnamon-session/po/en@shaw.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/eo.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/eu.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nl.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nn.po | 
- | [af]({{< ref "/f24/language/af.md" >}}) | 287 | 401 | 71.6 | /mnt/stockage/packages/f24/cinnamon-session/po/af.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 287 | 401 | 71.6 | /mnt/stockage/packages/f24/cinnamon-session/po/bn.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 287 | 401 | 71.6 | /mnt/stockage/packages/f24/cinnamon-session/po/ro.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 266 | 401 | 66.3 | /mnt/stockage/packages/f24/cinnamon-session/po/or.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 231 | 401 | 57.6 | /mnt/stockage/packages/f24/cinnamon-session/po/kn.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 229 | 567 | 40.4 | /mnt/stockage/packages/f24/cinnamon-session/po/mai.po | 
- | [be_Latn]({{< ref "/f24/language/be_Latn.md" >}}) | 161 | 401 | 40.1 | /mnt/stockage/packages/f24/cinnamon-session/po/be@latin.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 161 | 401 | 40.1 | /mnt/stockage/packages/f24/cinnamon-session/po/mk.po | 
- | [ps]({{< ref "/f24/language/ps.md" >}}) | 208 | 627 | 33.2 | /mnt/stockage/packages/f24/cinnamon-session/po/ps.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 132 | 401 | 32.9 | /mnt/stockage/packages/f24/cinnamon-session/po/ga.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 166 | 567 | 29.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nds.po | 
- | [uz]({{< ref "/f24/language/uz.md" >}}) | 352 | 1318 | 26.7 | /mnt/stockage/packages/f24/cinnamon-session/po/uz@cyrillic.po/mnt/stockage/packages/f24/cinnamon-session/po/uz.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 97 | 401 | 24.2 | /mnt/stockage/packages/f24/cinnamon-session/po/ka.po | 
- | [ha]({{< ref "/f24/language/ha.md" >}}) | 100 | 678 | 14.7 | /mnt/stockage/packages/f24/cinnamon-session/po/ha.po | 
- | [ig]({{< ref "/f24/language/ig.md" >}}) | 100 | 678 | 14.7 | /mnt/stockage/packages/f24/cinnamon-session/po/ig.po | 
- | [yo]({{< ref "/f24/language/yo.md" >}}) | 100 | 678 | 14.7 | /mnt/stockage/packages/f24/cinnamon-session/po/yo.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 22 | 401 | 5.5 | /mnt/stockage/packages/f24/cinnamon-session/po/ku.po | 
- | [az]({{< ref "/f24/language/az.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/az.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/bs.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/cy.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/dz.po | 
- | [en_CA]({{< ref "/f24/language/en_CA.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/en_CA.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/fur.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/hy.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/is.po | 
- | [mg]({{< ref "/f24/language/mg.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/mg.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/mn.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/ms.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/ne.po | 
- | [nso]({{< ref "/f24/language/nso.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/nso.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/oc.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/si.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/sq.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/wa.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/xh.po | 
- | [zu]({{< ref "/f24/language/zu.md" >}}) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/zu.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 1 | 401 | 0.2 | /mnt/stockage/packages/f24/cinnamon-session/po/am.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 1 | 401 | 0.2 | /mnt/stockage/packages/f24/cinnamon-session/po/rw.po | 
- | [tk]({{< ref "/f24/language/tk.md" >}}) | 1 | 401 | 0.2 | /mnt/stockage/packages/f24/cinnamon-session/po/tk.po | 
- | [mi]({{< ref "/f24/language/mi.md" >}}) | 0 | 401 | 0.0 | /mnt/stockage/packages/f24/cinnamon-session/po/mi.po | 
+ | [as](/f24/language/as) | 410 | 410 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/as.po | 
+ | [br](/f24/language/br) | 604 | 604 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/br.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 410 | 410 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/ca@valencia.po | 
+ | [crh](/f24/language/crh) | 404 | 404 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/crh.po | 
+ | [fy](/f24/language/fy) | 377 | 377 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/fy.po | 
+ | [hr](/f24/language/hr) | 401 | 401 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/hr.po | 
+ | [km](/f24/language/km) | 410 | 410 | 100.0 | /mnt/stockage/packages/f24/cinnamon-session/po/km.po | 
+ | [ast](/f24/language/ast) | 667 | 678 | 98.4 | /mnt/stockage/packages/f24/cinnamon-session/po/ast.po | 
+ | [csb](/f24/language/csb) | 379 | 404 | 93.8 | /mnt/stockage/packages/f24/cinnamon-session/po/csb.po | 
+ | [ug](/f24/language/ug) | 379 | 417 | 90.9 | /mnt/stockage/packages/f24/cinnamon-session/po/ug.po | 
+ | [ar](/f24/language/ar) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ar.po | 
+ | [be](/f24/language/be) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/be.po | 
+ | [bg](/f24/language/bg) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/bg.po | 
+ | [bn_IN](/f24/language/bn_IN) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/bn_IN.po | 
+ | [ca](/f24/language/ca) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ca.po | 
+ | [cs](/f24/language/cs) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/cs.po | 
+ | [da](/f24/language/da) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/da.po | 
+ | [de](/f24/language/de) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/de.po | 
+ | [el](/f24/language/el) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/en_GB.po | 
+ | [es](/f24/language/es) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/es.po | 
+ | [et](/f24/language/et) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/et.po | 
+ | [fa](/f24/language/fa) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/fa.po | 
+ | [fi](/f24/language/fi) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/fi.po | 
+ | [fr](/f24/language/fr) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/fr.po | 
+ | [gl](/f24/language/gl) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/gl.po | 
+ | [gu](/f24/language/gu) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/gu.po | 
+ | [he](/f24/language/he) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/he.po | 
+ | [hi](/f24/language/hi) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/hi.po | 
+ | [hu](/f24/language/hu) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/hu.po | 
+ | [id](/f24/language/id) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/id.po | 
+ | [it](/f24/language/it) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/it.po | 
+ | [ja](/f24/language/ja) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ja.po | 
+ | [ko](/f24/language/ko) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ko.po | 
+ | [lt](/f24/language/lt) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/lt.po | 
+ | [lv](/f24/language/lv) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/lv.po | 
+ | [ml](/f24/language/ml) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ml.po | 
+ | [mr](/f24/language/mr) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/mr.po | 
+ | [nb_NO](/f24/language/nb_NO) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nb.po | 
+ | [pa](/f24/language/pa) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pa.po | 
+ | [pl](/f24/language/pl) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pl.po | 
+ | [pt](/f24/language/pt) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ru.po | 
+ | [sk](/f24/language/sk) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sk.po | 
+ | [sl](/f24/language/sl) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sl.po | 
+ | [sr](/f24/language/sr) | 708 | 802 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sr@latin.po/mnt/stockage/packages/f24/cinnamon-session/po/sr.po | 
+ | [sv](/f24/language/sv) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/sv.po | 
+ | [ta](/f24/language/ta) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/ta.po | 
+ | [te](/f24/language/te) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/te.po | 
+ | [th](/f24/language/th) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/th.po | 
+ | [tr](/f24/language/tr) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/tr.po | 
+ | [uk](/f24/language/uk) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/uk.po | 
+ | [vi](/f24/language/vi) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 354 | 401 | 88.3 | /mnt/stockage/packages/f24/cinnamon-session/po/zh_HK.po | 
+ | [error](/f24/language/error) | 480 | 567 | 84.7 | /mnt/stockage/packages/f24/cinnamon-session/po/en@shaw.po | 
+ | [eo](/f24/language/eo) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/eo.po | 
+ | [eu](/f24/language/eu) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/eu.po | 
+ | [nl](/f24/language/nl) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nl.po | 
+ | [nn](/f24/language/nn) | 314 | 401 | 78.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nn.po | 
+ | [af](/f24/language/af) | 287 | 401 | 71.6 | /mnt/stockage/packages/f24/cinnamon-session/po/af.po | 
+ | [bn](/f24/language/bn) | 287 | 401 | 71.6 | /mnt/stockage/packages/f24/cinnamon-session/po/bn.po | 
+ | [ro](/f24/language/ro) | 287 | 401 | 71.6 | /mnt/stockage/packages/f24/cinnamon-session/po/ro.po | 
+ | [or](/f24/language/or) | 266 | 401 | 66.3 | /mnt/stockage/packages/f24/cinnamon-session/po/or.po | 
+ | [kn](/f24/language/kn) | 231 | 401 | 57.6 | /mnt/stockage/packages/f24/cinnamon-session/po/kn.po | 
+ | [mai](/f24/language/mai) | 229 | 567 | 40.4 | /mnt/stockage/packages/f24/cinnamon-session/po/mai.po | 
+ | [be_Latn](/f24/language/be_Latn) | 161 | 401 | 40.1 | /mnt/stockage/packages/f24/cinnamon-session/po/be@latin.po | 
+ | [mk](/f24/language/mk) | 161 | 401 | 40.1 | /mnt/stockage/packages/f24/cinnamon-session/po/mk.po | 
+ | [ps](/f24/language/ps) | 208 | 627 | 33.2 | /mnt/stockage/packages/f24/cinnamon-session/po/ps.po | 
+ | [ga](/f24/language/ga) | 132 | 401 | 32.9 | /mnt/stockage/packages/f24/cinnamon-session/po/ga.po | 
+ | [nds](/f24/language/nds) | 166 | 567 | 29.3 | /mnt/stockage/packages/f24/cinnamon-session/po/nds.po | 
+ | [uz](/f24/language/uz) | 352 | 1318 | 26.7 | /mnt/stockage/packages/f24/cinnamon-session/po/uz@cyrillic.po/mnt/stockage/packages/f24/cinnamon-session/po/uz.po | 
+ | [ka](/f24/language/ka) | 97 | 401 | 24.2 | /mnt/stockage/packages/f24/cinnamon-session/po/ka.po | 
+ | [ha](/f24/language/ha) | 100 | 678 | 14.7 | /mnt/stockage/packages/f24/cinnamon-session/po/ha.po | 
+ | [ig](/f24/language/ig) | 100 | 678 | 14.7 | /mnt/stockage/packages/f24/cinnamon-session/po/ig.po | 
+ | [yo](/f24/language/yo) | 100 | 678 | 14.7 | /mnt/stockage/packages/f24/cinnamon-session/po/yo.po | 
+ | [ku](/f24/language/ku) | 22 | 401 | 5.5 | /mnt/stockage/packages/f24/cinnamon-session/po/ku.po | 
+ | [az](/f24/language/az) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/az.po | 
+ | [bs](/f24/language/bs) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/bs.po | 
+ | [cy](/f24/language/cy) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/cy.po | 
+ | [dz](/f24/language/dz) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/dz.po | 
+ | [en_CA](/f24/language/en_CA) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/en_CA.po | 
+ | [fur](/f24/language/fur) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/fur.po | 
+ | [hy](/f24/language/hy) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/hy.po | 
+ | [is](/f24/language/is) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/is.po | 
+ | [mg](/f24/language/mg) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/mg.po | 
+ | [mn](/f24/language/mn) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/mn.po | 
+ | [ms](/f24/language/ms) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/ms.po | 
+ | [ne](/f24/language/ne) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/ne.po | 
+ | [nso](/f24/language/nso) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/nso.po | 
+ | [oc](/f24/language/oc) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/oc.po | 
+ | [si](/f24/language/si) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/si.po | 
+ | [sq](/f24/language/sq) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/sq.po | 
+ | [wa](/f24/language/wa) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/wa.po | 
+ | [xh](/f24/language/xh) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/xh.po | 
+ | [zu](/f24/language/zu) | 8 | 401 | 2.0 | /mnt/stockage/packages/f24/cinnamon-session/po/zu.po | 
+ | [am](/f24/language/am) | 1 | 401 | 0.2 | /mnt/stockage/packages/f24/cinnamon-session/po/am.po | 
+ | [rw](/f24/language/rw) | 1 | 401 | 0.2 | /mnt/stockage/packages/f24/cinnamon-session/po/rw.po | 
+ | [tk](/f24/language/tk) | 1 | 401 | 0.2 | /mnt/stockage/packages/f24/cinnamon-session/po/tk.po | 
+ | [mi](/f24/language/mi) | 0 | 401 | 0.0 | /mnt/stockage/packages/f24/cinnamon-session/po/mi.po | 
 {.sortable}
 
 

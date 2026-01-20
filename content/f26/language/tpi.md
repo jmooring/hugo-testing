@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-menu]({{< ref "/f26/package/mate-menu.md" >}}) | 34 | 300 | 11.3 | Tok Pisin <tpi@li.org> | 
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 57 | 1740 | 3.3 | Tok Pisin <tpi@li.org> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 91 | 7858 | 1.2 | Tok Pisin <tpi@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f26/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f26/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f26/package/sugar-connect.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f26/package/sugar-memorize.md" >}}) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f26/package/sugar-paint.md" >}}) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f26/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f26/package/sugar-record.md" >}}) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f26/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f26/package/sugar-visualmatch.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f26/package/mate-menu) | 34 | 300 | 11.3 | Tok Pisin <tpi@li.org> | 
+ | [mintmenu](/f26/package/mintmenu) | 57 | 1740 | 3.3 | Tok Pisin <tpi@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 91 | 7858 | 1.2 | Tok Pisin <tpi@li.org> | 
+ | [olpc-switch-desktop](/f26/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f26/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f26/package/sugar-connect) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f26/package/sugar-memorize) | 0 | 114 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f26/package/sugar-paint) | 0 | 64 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f26/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f26/package/sugar-record) | 0 | 35 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f26/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f26/package/sugar-visualmatch) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

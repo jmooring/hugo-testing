@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f27/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [onboard]({{< ref "/f27/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [unetbootin]({{< ref "/f27/package/unetbootin.md" >}}) | 0 | 3159 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [gnome-do](/f27/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [onboard](/f27/package/onboard) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [unetbootin](/f27/package/unetbootin) | 0 | 3159 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

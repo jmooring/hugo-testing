@@ -18,12 +18,12 @@ The package gammu (version 1.18.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 3471 | 3793 | 91.5 | /mnt/stockage/packages/f9/gammu/locale/de/gammu.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1681 | 3793 | 44.3 | /mnt/stockage/packages/f9/gammu/locale/cs/gammu.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1551 | 3793 | 40.9 | /mnt/stockage/packages/f9/gammu/locale/es/gammu.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1281 | 3793 | 33.8 | /mnt/stockage/packages/f9/gammu/locale/ru/gammu.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 795 | 3793 | 21.0 | /mnt/stockage/packages/f9/gammu/locale/it/gammu.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 623 | 3793 | 16.4 | /mnt/stockage/packages/f9/gammu/locale/pl/gammu.po | 
+ | [de](/f9/language/de) | 3471 | 3793 | 91.5 | /mnt/stockage/packages/f9/gammu/locale/de/gammu.po | 
+ | [cs](/f9/language/cs) | 1681 | 3793 | 44.3 | /mnt/stockage/packages/f9/gammu/locale/cs/gammu.po | 
+ | [es](/f9/language/es) | 1551 | 3793 | 40.9 | /mnt/stockage/packages/f9/gammu/locale/es/gammu.po | 
+ | [ru](/f9/language/ru) | 1281 | 3793 | 33.8 | /mnt/stockage/packages/f9/gammu/locale/ru/gammu.po | 
+ | [it](/f9/language/it) | 795 | 3793 | 21.0 | /mnt/stockage/packages/f9/gammu/locale/it/gammu.po | 
+ | [pl](/f9/language/pl) | 623 | 3793 | 16.4 | /mnt/stockage/packages/f9/gammu/locale/pl/gammu.po | 
 {.sortable}
 
 

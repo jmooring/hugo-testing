@@ -18,9 +18,9 @@ The package meson (version 0.43.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f25/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f25/meson/test cases/frameworks/6 gettext/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f25/meson/test cases/frameworks/13 yelp/help/es/es.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/meson/test cases/frameworks/6 gettext/po/fi.po | 
+ | [de](/f25/language/de) | 3 | 3 | 100.0 | /mnt/stockage/packages/f25/meson/test cases/frameworks/13 yelp/help/de/de.po/mnt/stockage/packages/f25/meson/test cases/frameworks/6 gettext/po/de.po | 
+ | [es](/f25/language/es) | 1 | 1 | 100.0 | /mnt/stockage/packages/f25/meson/test cases/frameworks/13 yelp/help/es/es.po | 
+ | [fi](/f25/language/fi) | 2 | 2 | 100.0 | /mnt/stockage/packages/f25/meson/test cases/frameworks/6 gettext/po/fi.po | 
 {.sortable}
 
 

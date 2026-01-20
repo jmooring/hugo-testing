@@ -18,16 +18,16 @@ The package mingw-libgpg-error (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 766 | 769 | 99.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/de.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 761 | 769 | 99.0 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/pl.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 748 | 769 | 97.3 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/cs.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 743 | 769 | 96.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/it.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 743 | 769 | 96.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/sv.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 743 | 769 | 96.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 614 | 769 | 79.8 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/ro.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 612 | 769 | 79.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/fr.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 548 | 769 | 71.3 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/zh_CN.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 241 | 769 | 31.3 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/nl.po | 
+ | [de](/f18/language/de) | 766 | 769 | 99.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/de.po | 
+ | [pl](/f18/language/pl) | 761 | 769 | 99.0 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/pl.po | 
+ | [cs](/f18/language/cs) | 748 | 769 | 97.3 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/cs.po | 
+ | [it](/f18/language/it) | 743 | 769 | 96.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/it.po | 
+ | [sv](/f18/language/sv) | 743 | 769 | 96.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/sv.po | 
+ | [vi](/f18/language/vi) | 743 | 769 | 96.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/vi.po | 
+ | [ro](/f18/language/ro) | 614 | 769 | 79.8 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/ro.po | 
+ | [fr](/f18/language/fr) | 612 | 769 | 79.6 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/fr.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 548 | 769 | 71.3 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/zh_CN.po | 
+ | [nl](/f18/language/nl) | 241 | 769 | 31.3 | /mnt/stockage/packages/f18/mingw-libgpg-error/po/nl.po | 
 {.sortable}
 
 

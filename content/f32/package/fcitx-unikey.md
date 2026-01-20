@@ -18,16 +18,16 @@ The package fcitx-unikey (version 0.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/de.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/ko.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/ru.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/zh_CN.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 91 | 96 | 94.8 | /mnt/stockage/packages/f32/fcitx-unikey/po/vi.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 91 | 96 | 94.8 | /mnt/stockage/packages/f32/fcitx-unikey/po/zh_TW.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 54 | 96 | 56.2 | /mnt/stockage/packages/f32/fcitx-unikey/po/ja.po | 
+ | [ca](/f32/language/ca) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/ca.po | 
+ | [da](/f32/language/da) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/da.po | 
+ | [de](/f32/language/de) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/de.po | 
+ | [ko](/f32/language/ko) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/ko.po | 
+ | [ru](/f32/language/ru) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/ru.po | 
+ | [tr](/f32/language/tr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 96 | 96 | 100.0 | /mnt/stockage/packages/f32/fcitx-unikey/po/zh_CN.po | 
+ | [vi](/f32/language/vi) | 91 | 96 | 94.8 | /mnt/stockage/packages/f32/fcitx-unikey/po/vi.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 91 | 96 | 94.8 | /mnt/stockage/packages/f32/fcitx-unikey/po/zh_TW.po | 
+ | [ja](/f32/language/ja) | 54 | 96 | 56.2 | /mnt/stockage/packages/f32/fcitx-unikey/po/ja.po | 
 {.sortable}
 
 

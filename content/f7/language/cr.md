@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ruby-gettext-package]({{< ref "/f7/package/ruby-gettext-package.md" >}}) | 2 | 2 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [ruby-gettext-package](/f7/package/ruby-gettext-package) | 2 | 2 | 100.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

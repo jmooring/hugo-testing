@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-panel]({{< ref "/f15/package/gnome-panel.md" >}}) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
- | [epiphany]({{< ref "/f15/package/epiphany.md" >}}) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
- | [nautilus]({{< ref "/f15/package/nautilus.md" >}}) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
- | [totem]({{< ref "/f15/package/totem.md" >}}) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
- | [gnome-menus]({{< ref "/f15/package/gnome-menus.md" >}}) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
- | [gdm]({{< ref "/f15/package/gdm.md" >}}) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
- | [transmission]({{< ref "/f15/package/transmission.md" >}}) | 28 | 1528 | 1.8 | Manx <gv@li.org> | 
- | [stellarium]({{< ref "/f15/package/stellarium.md" >}}) | 2 | 1957 | 0.1 | Manx <gv@li.org> | 
+ | [gnome-panel](/f15/package/gnome-panel) | 4272 | 4504 | 94.8 | Manx <gv@li.org> | 
+ | [epiphany](/f15/package/epiphany) | 2764 | 3044 | 90.8 | Manx <reuben03@live.com> | 
+ | [nautilus](/f15/package/nautilus) | 7500 | 8884 | 84.4 | Manx <gv@li.org> | 
+ | [totem](/f15/package/totem) | 2169 | 2585 | 83.9 | Manx <gv@li.org> | 
+ | [gnome-menus](/f15/package/gnome-menus) | 84 | 125 | 67.2 | Manx <gv@li.org> | 
+ | [gdm](/f15/package/gdm) | 807 | 1306 | 61.8 | Manx <gv@li.org> | 
+ | [transmission](/f15/package/transmission) | 28 | 1528 | 1.8 | Manx <gv@li.org> | 
+ | [stellarium](/f15/package/stellarium) | 2 | 1957 | 0.1 | Manx <gv@li.org> | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f8/package/poedit.md" >}}) | 1108 | 1134 | 97.7 | Klenje <adecorte@fastwebnet.it> | 
+ | [poedit](/f8/package/poedit) | 1108 | 1134 | 97.7 | Klenje <adecorte@fastwebnet.it> | 
 {.sortable}
 
 

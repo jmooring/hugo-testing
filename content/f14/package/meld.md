@@ -18,42 +18,42 @@ The package meld (version 1.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 916 | 916 | 100.0 | /mnt/stockage/packages/f14/meld/po/bg.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 954 | 954 | 100.0 | /mnt/stockage/packages/f14/meld/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1126 | 1126 | 100.0 | /mnt/stockage/packages/f14/meld/po/cs.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f14/meld/po/dz.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f14/meld/po/en_CA.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f14/meld/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2468 | 2468 | 100.0 | /mnt/stockage/packages/f14/meld/help/es/es.po/mnt/stockage/packages/f14/meld/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 910 | 910 | 100.0 | /mnt/stockage/packages/f14/meld/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f14/meld/help/fr/fr.po/mnt/stockage/packages/f14/meld/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f14/meld/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 1120 | 1120 | 100.0 | /mnt/stockage/packages/f14/meld/po/hu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1120 | 1120 | 100.0 | /mnt/stockage/packages/f14/meld/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/meld/po/ko.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/meld/po/ne.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 883 | 883 | 100.0 | /mnt/stockage/packages/f14/meld/po/nl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 712 | 712 | 100.0 | /mnt/stockage/packages/f14/meld/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 974 | 974 | 100.0 | /mnt/stockage/packages/f14/meld/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f14/meld/po/ru.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f14/meld/po/sl.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f14/meld/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f14/meld/po/sr@latin.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 917 | 917 | 100.0 | /mnt/stockage/packages/f14/meld/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f14/meld/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f14/meld/po/zh_TW.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 858 | 865 | 99.2 | /mnt/stockage/packages/f14/meld/po/el.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 977 | 1014 | 96.4 | /mnt/stockage/packages/f14/meld/po/it.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1060 | 1167 | 90.8 | /mnt/stockage/packages/f14/meld/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1958 | 2613 | 74.9 | /mnt/stockage/packages/f14/meld/help/de/de.po/mnt/stockage/packages/f14/meld/po/de.po | 
- | [ca@valencia]({{< ref "/f14/language/ca@valencia.md" >}}) | 756 | 1041 | 72.6 | /mnt/stockage/packages/f14/meld/po/ca@valencia.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 673 | 974 | 69.1 | /mnt/stockage/packages/f14/meld/po/sq.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1117 | 2416 | 46.2 | /mnt/stockage/packages/f14/meld/help/sv/sv.po/mnt/stockage/packages/f14/meld/po/sv.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 254 | 763 | 33.3 | /mnt/stockage/packages/f14/meld/po/pa.po | 
- | [oc]({{< ref "/f14/language/oc.md" >}}) | 155 | 2074 | 7.5 | /mnt/stockage/packages/f14/meld/help/oc/oc.po/mnt/stockage/packages/f14/meld/po/oc.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 41 | 916 | 4.5 | /mnt/stockage/packages/f14/meld/po/ar.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 38 | 857 | 4.4 | /mnt/stockage/packages/f14/meld/po/nb.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 32 | 956 | 3.3 | /mnt/stockage/packages/f14/meld/po/rw.po | 
+ | [bg](/f14/language/bg) | 916 | 916 | 100.0 | /mnt/stockage/packages/f14/meld/po/bg.po | 
+ | [ca](/f14/language/ca) | 954 | 954 | 100.0 | /mnt/stockage/packages/f14/meld/po/ca.po | 
+ | [cs](/f14/language/cs) | 1126 | 1126 | 100.0 | /mnt/stockage/packages/f14/meld/po/cs.po | 
+ | [dz](/f14/language/dz) | 849 | 849 | 100.0 | /mnt/stockage/packages/f14/meld/po/dz.po | 
+ | [en_CA](/f14/language/en_CA) | 871 | 871 | 100.0 | /mnt/stockage/packages/f14/meld/po/en_CA.po | 
+ | [en_GB](/f14/language/en_GB) | 849 | 849 | 100.0 | /mnt/stockage/packages/f14/meld/po/en_GB.po | 
+ | [es](/f14/language/es) | 2468 | 2468 | 100.0 | /mnt/stockage/packages/f14/meld/help/es/es.po/mnt/stockage/packages/f14/meld/po/es.po | 
+ | [fi](/f14/language/fi) | 910 | 910 | 100.0 | /mnt/stockage/packages/f14/meld/po/fi.po | 
+ | [fr](/f14/language/fr) | 2416 | 2416 | 100.0 | /mnt/stockage/packages/f14/meld/help/fr/fr.po/mnt/stockage/packages/f14/meld/po/fr.po | 
+ | [gl](/f14/language/gl) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f14/meld/po/gl.po | 
+ | [hu](/f14/language/hu) | 1120 | 1120 | 100.0 | /mnt/stockage/packages/f14/meld/po/hu.po | 
+ | [ja](/f14/language/ja) | 1120 | 1120 | 100.0 | /mnt/stockage/packages/f14/meld/po/ja.po | 
+ | [ko](/f14/language/ko) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/meld/po/ko.po | 
+ | [ne](/f14/language/ne) | 865 | 865 | 100.0 | /mnt/stockage/packages/f14/meld/po/ne.po | 
+ | [nl](/f14/language/nl) | 883 | 883 | 100.0 | /mnt/stockage/packages/f14/meld/po/nl.po | 
+ | [pt](/f14/language/pt) | 712 | 712 | 100.0 | /mnt/stockage/packages/f14/meld/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 974 | 974 | 100.0 | /mnt/stockage/packages/f14/meld/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 857 | 857 | 100.0 | /mnt/stockage/packages/f14/meld/po/ru.po | 
+ | [sl](/f14/language/sl) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f14/meld/po/sl.po | 
+ | [sr](/f14/language/sr) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f14/meld/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 1251 | 1251 | 100.0 | /mnt/stockage/packages/f14/meld/po/sr@latin.po | 
+ | [vi](/f14/language/vi) | 917 | 917 | 100.0 | /mnt/stockage/packages/f14/meld/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1042 | 1042 | 100.0 | /mnt/stockage/packages/f14/meld/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 888 | 888 | 100.0 | /mnt/stockage/packages/f14/meld/po/zh_TW.po | 
+ | [el](/f14/language/el) | 858 | 865 | 99.2 | /mnt/stockage/packages/f14/meld/po/el.po | 
+ | [it](/f14/language/it) | 977 | 1014 | 96.4 | /mnt/stockage/packages/f14/meld/po/it.po | 
+ | [da](/f14/language/da) | 1060 | 1167 | 90.8 | /mnt/stockage/packages/f14/meld/po/da.po | 
+ | [de](/f14/language/de) | 1958 | 2613 | 74.9 | /mnt/stockage/packages/f14/meld/help/de/de.po/mnt/stockage/packages/f14/meld/po/de.po | 
+ | [ca@valencia](/f14/language/ca@valencia) | 756 | 1041 | 72.6 | /mnt/stockage/packages/f14/meld/po/ca@valencia.po | 
+ | [sq](/f14/language/sq) | 673 | 974 | 69.1 | /mnt/stockage/packages/f14/meld/po/sq.po | 
+ | [sv](/f14/language/sv) | 1117 | 2416 | 46.2 | /mnt/stockage/packages/f14/meld/help/sv/sv.po/mnt/stockage/packages/f14/meld/po/sv.po | 
+ | [pa](/f14/language/pa) | 254 | 763 | 33.3 | /mnt/stockage/packages/f14/meld/po/pa.po | 
+ | [oc](/f14/language/oc) | 155 | 2074 | 7.5 | /mnt/stockage/packages/f14/meld/help/oc/oc.po/mnt/stockage/packages/f14/meld/po/oc.po | 
+ | [ar](/f14/language/ar) | 41 | 916 | 4.5 | /mnt/stockage/packages/f14/meld/po/ar.po | 
+ | [nb_NO](/f14/language/nb_NO) | 38 | 857 | 4.4 | /mnt/stockage/packages/f14/meld/po/nb.po | 
+ | [rw](/f14/language/rw) | 32 | 956 | 3.3 | /mnt/stockage/packages/f14/meld/po/rw.po | 
 {.sortable}
 
 

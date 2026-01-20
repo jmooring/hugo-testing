@@ -18,15 +18,15 @@ The package gimagereader (version 3.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/es_ES.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/it.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/ru.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 698 | 741 | 94.2 | /mnt/stockage/packages/f21/gimagereader/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 698 | 741 | 94.2 | /mnt/stockage/packages/f21/gimagereader/po/zh_HK.po | 
+ | [cs](/f21/language/cs) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/cs.po | 
+ | [de](/f21/language/de) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/de.po | 
+ | [es](/f21/language/es) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/es_ES.po | 
+ | [fr](/f21/language/fr) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/fr.po | 
+ | [it](/f21/language/it) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/it.po | 
+ | [pt_BR](/f21/language/pt_BR) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 741 | 741 | 100.0 | /mnt/stockage/packages/f21/gimagereader/po/ru.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 698 | 741 | 94.2 | /mnt/stockage/packages/f21/gimagereader/po/zh_TW.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 698 | 741 | 94.2 | /mnt/stockage/packages/f21/gimagereader/po/zh_HK.po | 
 {.sortable}
 
 

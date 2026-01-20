@@ -18,62 +18,62 @@ The package parley (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/ca/parley.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/ca@valencia/parley.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/en_GB/parley.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/es/parley.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/fi/parley.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/fr/parley.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/nl/parley.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/pl/parley.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/pt/parley.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/pt_BR/parley.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/sl/parley.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/sv/parley.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/uk/parley.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 3308 | 3439 | 96.2 | /mnt/stockage/packages/f35/parley/po/de/parley.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 3308 | 3439 | 96.2 | /mnt/stockage/packages/f35/parley/po/el/parley.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/et/parley.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/gl/parley.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/sk/parley.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/zh_TW/parley.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 3293 | 3439 | 95.8 | /mnt/stockage/packages/f35/parley/po/tr/parley.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 3230 | 3439 | 93.9 | /mnt/stockage/packages/f35/parley/po/it/parley.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 3116 | 3439 | 90.6 | /mnt/stockage/packages/f35/parley/po/bs/parley.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 3116 | 3439 | 90.6 | /mnt/stockage/packages/f35/parley/po/nds/parley.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2486 | 3439 | 72.3 | /mnt/stockage/packages/f35/parley/po/hu/parley.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 2460 | 3439 | 71.5 | /mnt/stockage/packages/f35/parley/po/ru/parley.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 2451 | 3439 | 71.3 | /mnt/stockage/packages/f35/parley/po/da/parley.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 2384 | 3439 | 69.3 | /mnt/stockage/packages/f35/parley/po/nb/parley.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 2381 | 3439 | 69.2 | /mnt/stockage/packages/f35/parley/po/kk/parley.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 2316 | 3439 | 67.3 | /mnt/stockage/packages/f35/parley/po/zh_CN/parley.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 2309 | 3439 | 67.1 | /mnt/stockage/packages/f35/parley/po/lv/parley.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 2273 | 3439 | 66.1 | /mnt/stockage/packages/f35/parley/po/cs/parley.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 2137 | 3439 | 62.1 | /mnt/stockage/packages/f35/parley/po/ro/parley.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 2132 | 3439 | 62.0 | /mnt/stockage/packages/f35/parley/po/hr/parley.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 1795 | 3439 | 52.2 | /mnt/stockage/packages/f35/parley/po/lt/parley.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 1767 | 3439 | 51.4 | /mnt/stockage/packages/f35/parley/po/ja/parley.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 1688 | 3439 | 49.1 | /mnt/stockage/packages/f35/parley/po/eu/parley.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 1665 | 3439 | 48.4 | /mnt/stockage/packages/f35/parley/po/nn/parley.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 742 | 3439 | 21.6 | /mnt/stockage/packages/f35/parley/po/ga/parley.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 460 | 3439 | 13.4 | /mnt/stockage/packages/f35/parley/po/hi/parley.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 454 | 3439 | 13.2 | /mnt/stockage/packages/f35/parley/po/bg/parley.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 424 | 3439 | 12.3 | /mnt/stockage/packages/f35/parley/po/eo/parley.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 364 | 3439 | 10.6 | /mnt/stockage/packages/f35/parley/po/km/parley.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 362 | 3439 | 10.5 | /mnt/stockage/packages/f35/parley/po/ia/parley.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 341 | 3439 | 9.9 | /mnt/stockage/packages/f35/parley/po/ml/parley.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 337 | 3439 | 9.8 | /mnt/stockage/packages/f35/parley/po/fa/parley.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 235 | 3439 | 6.8 | /mnt/stockage/packages/f35/parley/po/he/parley.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 207 | 3439 | 6.0 | /mnt/stockage/packages/f35/parley/po/ug/parley.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 198 | 3439 | 5.8 | /mnt/stockage/packages/f35/parley/po/sq/parley.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 159 | 3439 | 4.6 | /mnt/stockage/packages/f35/parley/po/is/parley.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 159 | 3439 | 4.6 | /mnt/stockage/packages/f35/parley/po/ta/parley.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 158 | 3439 | 4.6 | /mnt/stockage/packages/f35/parley/po/tg/parley.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 131 | 3439 | 3.8 | /mnt/stockage/packages/f35/parley/po/pa/parley.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 73 | 3439 | 2.1 | /mnt/stockage/packages/f35/parley/po/mr/parley.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 29 | 3439 | 0.8 | /mnt/stockage/packages/f35/parley/po/be/parley.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 20 | 3439 | 0.6 | /mnt/stockage/packages/f35/parley/po/se/parley.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 0 | 3439 | 0.0 | /mnt/stockage/packages/f35/parley/po/ar/parley.po | 
+ | [ca](/f35/language/ca) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/ca/parley.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/ca@valencia/parley.po | 
+ | [en_GB](/f35/language/en_GB) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/en_GB/parley.po | 
+ | [es](/f35/language/es) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/es/parley.po | 
+ | [fi](/f35/language/fi) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/fi/parley.po | 
+ | [fr](/f35/language/fr) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/fr/parley.po | 
+ | [nl](/f35/language/nl) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/nl/parley.po | 
+ | [pl](/f35/language/pl) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/pl/parley.po | 
+ | [pt](/f35/language/pt) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/pt/parley.po | 
+ | [pt_BR](/f35/language/pt_BR) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/pt_BR/parley.po | 
+ | [sl](/f35/language/sl) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/sl/parley.po | 
+ | [sv](/f35/language/sv) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/sv/parley.po | 
+ | [uk](/f35/language/uk) | 3439 | 3439 | 100.0 | /mnt/stockage/packages/f35/parley/po/uk/parley.po | 
+ | [de](/f35/language/de) | 3308 | 3439 | 96.2 | /mnt/stockage/packages/f35/parley/po/de/parley.po | 
+ | [el](/f35/language/el) | 3308 | 3439 | 96.2 | /mnt/stockage/packages/f35/parley/po/el/parley.po | 
+ | [et](/f35/language/et) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/et/parley.po | 
+ | [gl](/f35/language/gl) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/gl/parley.po | 
+ | [sk](/f35/language/sk) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/sk/parley.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3302 | 3439 | 96.0 | /mnt/stockage/packages/f35/parley/po/zh_TW/parley.po | 
+ | [tr](/f35/language/tr) | 3293 | 3439 | 95.8 | /mnt/stockage/packages/f35/parley/po/tr/parley.po | 
+ | [it](/f35/language/it) | 3230 | 3439 | 93.9 | /mnt/stockage/packages/f35/parley/po/it/parley.po | 
+ | [bs](/f35/language/bs) | 3116 | 3439 | 90.6 | /mnt/stockage/packages/f35/parley/po/bs/parley.po | 
+ | [nds](/f35/language/nds) | 3116 | 3439 | 90.6 | /mnt/stockage/packages/f35/parley/po/nds/parley.po | 
+ | [hu](/f35/language/hu) | 2486 | 3439 | 72.3 | /mnt/stockage/packages/f35/parley/po/hu/parley.po | 
+ | [ru](/f35/language/ru) | 2460 | 3439 | 71.5 | /mnt/stockage/packages/f35/parley/po/ru/parley.po | 
+ | [da](/f35/language/da) | 2451 | 3439 | 71.3 | /mnt/stockage/packages/f35/parley/po/da/parley.po | 
+ | [nb_NO](/f35/language/nb_NO) | 2384 | 3439 | 69.3 | /mnt/stockage/packages/f35/parley/po/nb/parley.po | 
+ | [kk](/f35/language/kk) | 2381 | 3439 | 69.2 | /mnt/stockage/packages/f35/parley/po/kk/parley.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 2316 | 3439 | 67.3 | /mnt/stockage/packages/f35/parley/po/zh_CN/parley.po | 
+ | [lv](/f35/language/lv) | 2309 | 3439 | 67.1 | /mnt/stockage/packages/f35/parley/po/lv/parley.po | 
+ | [cs](/f35/language/cs) | 2273 | 3439 | 66.1 | /mnt/stockage/packages/f35/parley/po/cs/parley.po | 
+ | [ro](/f35/language/ro) | 2137 | 3439 | 62.1 | /mnt/stockage/packages/f35/parley/po/ro/parley.po | 
+ | [hr](/f35/language/hr) | 2132 | 3439 | 62.0 | /mnt/stockage/packages/f35/parley/po/hr/parley.po | 
+ | [lt](/f35/language/lt) | 1795 | 3439 | 52.2 | /mnt/stockage/packages/f35/parley/po/lt/parley.po | 
+ | [ja](/f35/language/ja) | 1767 | 3439 | 51.4 | /mnt/stockage/packages/f35/parley/po/ja/parley.po | 
+ | [eu](/f35/language/eu) | 1688 | 3439 | 49.1 | /mnt/stockage/packages/f35/parley/po/eu/parley.po | 
+ | [nn](/f35/language/nn) | 1665 | 3439 | 48.4 | /mnt/stockage/packages/f35/parley/po/nn/parley.po | 
+ | [ga](/f35/language/ga) | 742 | 3439 | 21.6 | /mnt/stockage/packages/f35/parley/po/ga/parley.po | 
+ | [hi](/f35/language/hi) | 460 | 3439 | 13.4 | /mnt/stockage/packages/f35/parley/po/hi/parley.po | 
+ | [bg](/f35/language/bg) | 454 | 3439 | 13.2 | /mnt/stockage/packages/f35/parley/po/bg/parley.po | 
+ | [eo](/f35/language/eo) | 424 | 3439 | 12.3 | /mnt/stockage/packages/f35/parley/po/eo/parley.po | 
+ | [km](/f35/language/km) | 364 | 3439 | 10.6 | /mnt/stockage/packages/f35/parley/po/km/parley.po | 
+ | [ia](/f35/language/ia) | 362 | 3439 | 10.5 | /mnt/stockage/packages/f35/parley/po/ia/parley.po | 
+ | [ml](/f35/language/ml) | 341 | 3439 | 9.9 | /mnt/stockage/packages/f35/parley/po/ml/parley.po | 
+ | [fa](/f35/language/fa) | 337 | 3439 | 9.8 | /mnt/stockage/packages/f35/parley/po/fa/parley.po | 
+ | [he](/f35/language/he) | 235 | 3439 | 6.8 | /mnt/stockage/packages/f35/parley/po/he/parley.po | 
+ | [ug](/f35/language/ug) | 207 | 3439 | 6.0 | /mnt/stockage/packages/f35/parley/po/ug/parley.po | 
+ | [sq](/f35/language/sq) | 198 | 3439 | 5.8 | /mnt/stockage/packages/f35/parley/po/sq/parley.po | 
+ | [is](/f35/language/is) | 159 | 3439 | 4.6 | /mnt/stockage/packages/f35/parley/po/is/parley.po | 
+ | [ta](/f35/language/ta) | 159 | 3439 | 4.6 | /mnt/stockage/packages/f35/parley/po/ta/parley.po | 
+ | [tg](/f35/language/tg) | 158 | 3439 | 4.6 | /mnt/stockage/packages/f35/parley/po/tg/parley.po | 
+ | [pa](/f35/language/pa) | 131 | 3439 | 3.8 | /mnt/stockage/packages/f35/parley/po/pa/parley.po | 
+ | [mr](/f35/language/mr) | 73 | 3439 | 2.1 | /mnt/stockage/packages/f35/parley/po/mr/parley.po | 
+ | [be](/f35/language/be) | 29 | 3439 | 0.8 | /mnt/stockage/packages/f35/parley/po/be/parley.po | 
+ | [se](/f35/language/se) | 20 | 3439 | 0.6 | /mnt/stockage/packages/f35/parley/po/se/parley.po | 
+ | [ar](/f35/language/ar) | 0 | 3439 | 0.0 | /mnt/stockage/packages/f35/parley/po/ar/parley.po | 
 {.sortable}
 
 

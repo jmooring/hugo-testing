@@ -18,26 +18,26 @@ The package gramps (version 2.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f8/language/da.md" >}}) | 18856 | 18856 | 100.0 | /mnt/stockage/packages/f8/gramps/po/da.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 18819 | 18819 | 100.0 | /mnt/stockage/packages/f8/gramps/po/sv.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 18852 | 18857 | 100.0 | /mnt/stockage/packages/f8/gramps/po/fi.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 18799 | 18819 | 99.9 | /mnt/stockage/packages/f8/gramps/po/lt.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 47026 | 47263 | 99.5 | /mnt/stockage/packages/f8/gramps/help/fr/fr.po/mnt/stockage/packages/f8/gramps/po/fr.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 46813 | 47263 | 99.0 | /mnt/stockage/packages/f8/gramps/help/sk/sk.po/mnt/stockage/packages/f8/gramps/po/sk.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 18548 | 18819 | 98.6 | /mnt/stockage/packages/f8/gramps/po/es.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 16385 | 18673 | 87.7 | /mnt/stockage/packages/f8/gramps/po/ru.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 15006 | 17852 | 84.1 | /mnt/stockage/packages/f8/gramps/po/hu.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 36077 | 46948 | 76.8 | /mnt/stockage/packages/f8/gramps/help/nl/nl.po/mnt/stockage/packages/f8/gramps/po/nl.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 13241 | 18664 | 70.9 | /mnt/stockage/packages/f8/gramps/po/cs.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 12497 | 18817 | 66.4 | /mnt/stockage/packages/f8/gramps/po/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 30588 | 47261 | 64.7 | /mnt/stockage/packages/f8/gramps/help/de/de.po/mnt/stockage/packages/f8/gramps/po/de.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 10944 | 17852 | 61.3 | /mnt/stockage/packages/f8/gramps/po/pt_BR.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 39319 | 66082 | 59.5 | /mnt/stockage/packages/f8/gramps/help/nb/nb.po/mnt/stockage/packages/f8/gramps/po/no.po/mnt/stockage/packages/f8/gramps/po/nb.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 2786 | 17852 | 15.6 | /mnt/stockage/packages/f8/gramps/po/it.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 2714 | 17852 | 15.2 | /mnt/stockage/packages/f8/gramps/po/eo.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 1986 | 17836 | 11.1 | /mnt/stockage/packages/f8/gramps/po/tr.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 1124 | 17852 | 6.3 | /mnt/stockage/packages/f8/gramps/po/ro.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 271 | 17852 | 1.5 | /mnt/stockage/packages/f8/gramps/po/zh_CN.po | 
+ | [da](/f8/language/da) | 18856 | 18856 | 100.0 | /mnt/stockage/packages/f8/gramps/po/da.po | 
+ | [sv](/f8/language/sv) | 18819 | 18819 | 100.0 | /mnt/stockage/packages/f8/gramps/po/sv.po | 
+ | [fi](/f8/language/fi) | 18852 | 18857 | 100.0 | /mnt/stockage/packages/f8/gramps/po/fi.po | 
+ | [lt](/f8/language/lt) | 18799 | 18819 | 99.9 | /mnt/stockage/packages/f8/gramps/po/lt.po | 
+ | [fr](/f8/language/fr) | 47026 | 47263 | 99.5 | /mnt/stockage/packages/f8/gramps/help/fr/fr.po/mnt/stockage/packages/f8/gramps/po/fr.po | 
+ | [sk](/f8/language/sk) | 46813 | 47263 | 99.0 | /mnt/stockage/packages/f8/gramps/help/sk/sk.po/mnt/stockage/packages/f8/gramps/po/sk.po | 
+ | [es](/f8/language/es) | 18548 | 18819 | 98.6 | /mnt/stockage/packages/f8/gramps/po/es.po | 
+ | [ru](/f8/language/ru) | 16385 | 18673 | 87.7 | /mnt/stockage/packages/f8/gramps/po/ru.po | 
+ | [hu](/f8/language/hu) | 15006 | 17852 | 84.1 | /mnt/stockage/packages/f8/gramps/po/hu.po | 
+ | [nl](/f8/language/nl) | 36077 | 46948 | 76.8 | /mnt/stockage/packages/f8/gramps/help/nl/nl.po/mnt/stockage/packages/f8/gramps/po/nl.po | 
+ | [cs](/f8/language/cs) | 13241 | 18664 | 70.9 | /mnt/stockage/packages/f8/gramps/po/cs.po | 
+ | [pl](/f8/language/pl) | 12497 | 18817 | 66.4 | /mnt/stockage/packages/f8/gramps/po/pl.po | 
+ | [de](/f8/language/de) | 30588 | 47261 | 64.7 | /mnt/stockage/packages/f8/gramps/help/de/de.po/mnt/stockage/packages/f8/gramps/po/de.po | 
+ | [pt_BR](/f8/language/pt_BR) | 10944 | 17852 | 61.3 | /mnt/stockage/packages/f8/gramps/po/pt_BR.po | 
+ | [nb_NO](/f8/language/nb_NO) | 39319 | 66082 | 59.5 | /mnt/stockage/packages/f8/gramps/help/nb/nb.po/mnt/stockage/packages/f8/gramps/po/no.po/mnt/stockage/packages/f8/gramps/po/nb.po | 
+ | [it](/f8/language/it) | 2786 | 17852 | 15.6 | /mnt/stockage/packages/f8/gramps/po/it.po | 
+ | [eo](/f8/language/eo) | 2714 | 17852 | 15.2 | /mnt/stockage/packages/f8/gramps/po/eo.po | 
+ | [tr](/f8/language/tr) | 1986 | 17836 | 11.1 | /mnt/stockage/packages/f8/gramps/po/tr.po | 
+ | [ro](/f8/language/ro) | 1124 | 17852 | 6.3 | /mnt/stockage/packages/f8/gramps/po/ro.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 271 | 17852 | 1.5 | /mnt/stockage/packages/f8/gramps/po/zh_CN.po | 
 {.sortable}
 
 

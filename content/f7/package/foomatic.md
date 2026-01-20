@@ -18,12 +18,12 @@ The package foomatic (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/ja.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/pt_BR.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 373 | 458 | 81.4 | /mnt/stockage/packages/f7/foomatic/debian/po/tr.po | 
+ | [de](/f7/language/de) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/de.po | 
+ | [fr](/f7/language/fr) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/fr.po | 
+ | [ja](/f7/language/ja) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/ja.po | 
+ | [nl](/f7/language/nl) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/nl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 458 | 458 | 100.0 | /mnt/stockage/packages/f7/foomatic/debian/po/pt_BR.po | 
+ | [tr](/f7/language/tr) | 373 | 458 | 81.4 | /mnt/stockage/packages/f7/foomatic/debian/po/tr.po | 
 {.sortable}
 
 

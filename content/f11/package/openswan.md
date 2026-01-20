@@ -18,12 +18,12 @@ The package openswan (version 2.6.25):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/fr.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/pt_BR.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/vi.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 1169 | 1243 | 94.0 | /mnt/stockage/packages/f11/openswan/debian/po/ja.po | 
+ | [cs](/f11/language/cs) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/cs.po | 
+ | [fr](/f11/language/fr) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/fr.po | 
+ | [nl](/f11/language/nl) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/nl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/pt_BR.po | 
+ | [vi](/f11/language/vi) | 1243 | 1243 | 100.0 | /mnt/stockage/packages/f11/openswan/debian/po/vi.po | 
+ | [ja](/f11/language/ja) | 1169 | 1243 | 94.0 | /mnt/stockage/packages/f11/openswan/debian/po/ja.po | 
 {.sortable}
 
 

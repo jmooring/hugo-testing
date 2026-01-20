@@ -18,70 +18,70 @@ The package dnfdragora (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/ca.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ca.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/es.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/es.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/ja.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ja.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/uk.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/uk.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 744 | 769 | 96.7 | /mnt/stockage/packages/f27/dnfdragora/po/da.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/de.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/de.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/hu.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/hu.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/nb.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/nb.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/sl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sl.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 656 | 769 | 85.3 | /mnt/stockage/packages/f27/dnfdragora/po/fr.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/fr.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 639 | 769 | 83.1 | /mnt/stockage/packages/f27/dnfdragora/po/pt_BR.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/pt_BR.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 635 | 769 | 82.6 | /mnt/stockage/packages/f27/dnfdragora/po/cs.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/cs.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 635 | 769 | 82.6 | /mnt/stockage/packages/f27/dnfdragora/po/et.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/eu.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/eu.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/nl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/nl.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/ru.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ru.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/tr.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/tr.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/zh_CN.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/zh_CN.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 480 | 769 | 62.4 | /mnt/stockage/packages/f27/dnfdragora/po/sv.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sv.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 341 | 769 | 44.3 | /mnt/stockage/packages/f27/dnfdragora/po/zh_TW.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/zh_TW.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 330 | 769 | 42.9 | /mnt/stockage/packages/f27/dnfdragora/po/el.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/el.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 330 | 769 | 42.9 | /mnt/stockage/packages/f27/dnfdragora/po/sq.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sq.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 283 | 769 | 36.8 | /mnt/stockage/packages/f27/dnfdragora/po/ro.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ro.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 14 | 39 | 35.9 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/ms.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 242 | 769 | 31.5 | /mnt/stockage/packages/f27/dnfdragora/po/pt.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/pt.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 217 | 769 | 28.2 | /mnt/stockage/packages/f27/dnfdragora/po/sk.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sk.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 216 | 769 | 28.1 | /mnt/stockage/packages/f27/dnfdragora/po/wa.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/wa.po | 
- | [cy]({{< ref "/f27/language/cy.md" >}}) | 214 | 769 | 27.8 | /mnt/stockage/packages/f27/dnfdragora/po/cy.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/cy.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 214 | 769 | 27.8 | /mnt/stockage/packages/f27/dnfdragora/po/pl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/pl.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 213 | 769 | 27.7 | /mnt/stockage/packages/f27/dnfdragora/po/id.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/id.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 212 | 769 | 27.6 | /mnt/stockage/packages/f27/dnfdragora/po/it.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/it.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 211 | 769 | 27.4 | /mnt/stockage/packages/f27/dnfdragora/po/ast.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ast.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 202 | 769 | 26.3 | /mnt/stockage/packages/f27/dnfdragora/po/gl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/gl.po | 
- | [br]({{< ref "/f27/language/br.md" >}}) | 195 | 769 | 25.4 | /mnt/stockage/packages/f27/dnfdragora/po/br.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/br.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 181 | 769 | 23.5 | /mnt/stockage/packages/f27/dnfdragora/po/hr.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/hr.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 178 | 769 | 23.1 | /mnt/stockage/packages/f27/dnfdragora/po/fi.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/fi.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 178 | 769 | 23.1 | /mnt/stockage/packages/f27/dnfdragora/po/nn.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/nn.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 177 | 769 | 23.0 | /mnt/stockage/packages/f27/dnfdragora/po/he.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/he.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 177 | 769 | 23.0 | /mnt/stockage/packages/f27/dnfdragora/po/is.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/is.po | 
- | [ky]({{< ref "/f27/language/ky.md" >}}) | 177 | 769 | 23.0 | /mnt/stockage/packages/f27/dnfdragora/po/ky.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ky.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 176 | 769 | 22.9 | /mnt/stockage/packages/f27/dnfdragora/po/ar.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ar.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 176 | 769 | 22.9 | /mnt/stockage/packages/f27/dnfdragora/po/eo.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/eo.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 169 | 769 | 22.0 | /mnt/stockage/packages/f27/dnfdragora/po/bg.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/bg.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 158 | 730 | 21.6 | /mnt/stockage/packages/f27/dnfdragora/po/sr.po | 
- | [mk]({{< ref "/f27/language/mk.md" >}}) | 165 | 769 | 21.5 | /mnt/stockage/packages/f27/dnfdragora/po/mk.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/mk.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 156 | 730 | 21.4 | /mnt/stockage/packages/f27/dnfdragora/po/bs.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 156 | 730 | 21.4 | /mnt/stockage/packages/f27/dnfdragora/po/sr@latin.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 164 | 769 | 21.3 | /mnt/stockage/packages/f27/dnfdragora/po/tg.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/tg.po | 
- | [uz]({{< ref "/f27/language/uz.md" >}}) | 164 | 769 | 21.3 | /mnt/stockage/packages/f27/dnfdragora/po/uz.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/uz.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 152 | 730 | 20.8 | /mnt/stockage/packages/f27/dnfdragora/po/af.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 150 | 730 | 20.5 | /mnt/stockage/packages/f27/dnfdragora/po/hi.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 149 | 730 | 20.4 | /mnt/stockage/packages/f27/dnfdragora/po/fa.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 155 | 769 | 20.2 | /mnt/stockage/packages/f27/dnfdragora/po/vi.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/vi.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 147 | 730 | 20.1 | /mnt/stockage/packages/f27/dnfdragora/po/az.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 147 | 730 | 20.1 | /mnt/stockage/packages/f27/dnfdragora/po/pa_IN.po | 
- | [tl]({{< ref "/f27/language/tl.md" >}}) | 147 | 730 | 20.1 | /mnt/stockage/packages/f27/dnfdragora/po/tl.po | 
- | [bn]({{< ref "/f27/language/bn.md" >}}) | 154 | 769 | 20.0 | /mnt/stockage/packages/f27/dnfdragora/po/bn.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/bn.po | 
- | [mt]({{< ref "/f27/language/mt.md" >}}) | 146 | 730 | 20.0 | /mnt/stockage/packages/f27/dnfdragora/po/mt.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 142 | 730 | 19.5 | /mnt/stockage/packages/f27/dnfdragora/po/lt.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/en_GB.po | 
- | [es_419]({{< ref "/f27/language/es_419.md" >}}) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/es_419.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/ko.po | 
- | [ltg]({{< ref "/f27/language/ltg.md" >}}) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/ltg.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/zh_HK.po | 
+ | [ca](/f27/language/ca) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/ca.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ca.po | 
+ | [es](/f27/language/es) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/es.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/es.po | 
+ | [ja](/f27/language/ja) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/ja.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ja.po | 
+ | [uk](/f27/language/uk) | 769 | 769 | 100.0 | /mnt/stockage/packages/f27/dnfdragora/po/uk.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/uk.po | 
+ | [da](/f27/language/da) | 744 | 769 | 96.7 | /mnt/stockage/packages/f27/dnfdragora/po/da.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/da.po | 
+ | [de](/f27/language/de) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/de.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/de.po | 
+ | [hu](/f27/language/hu) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/hu.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/hu.po | 
+ | [nb_NO](/f27/language/nb_NO) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/nb.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/nb.po | 
+ | [sl](/f27/language/sl) | 698 | 769 | 90.8 | /mnt/stockage/packages/f27/dnfdragora/po/sl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sl.po | 
+ | [fr](/f27/language/fr) | 656 | 769 | 85.3 | /mnt/stockage/packages/f27/dnfdragora/po/fr.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/fr.po | 
+ | [pt_BR](/f27/language/pt_BR) | 639 | 769 | 83.1 | /mnt/stockage/packages/f27/dnfdragora/po/pt_BR.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/pt_BR.po | 
+ | [cs](/f27/language/cs) | 635 | 769 | 82.6 | /mnt/stockage/packages/f27/dnfdragora/po/cs.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/cs.po | 
+ | [et](/f27/language/et) | 635 | 769 | 82.6 | /mnt/stockage/packages/f27/dnfdragora/po/et.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/et.po | 
+ | [eu](/f27/language/eu) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/eu.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/eu.po | 
+ | [nl](/f27/language/nl) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/nl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/nl.po | 
+ | [ru](/f27/language/ru) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/ru.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ru.po | 
+ | [tr](/f27/language/tr) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/tr.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/tr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 610 | 769 | 79.3 | /mnt/stockage/packages/f27/dnfdragora/po/zh_CN.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/zh_CN.po | 
+ | [sv](/f27/language/sv) | 480 | 769 | 62.4 | /mnt/stockage/packages/f27/dnfdragora/po/sv.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sv.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 341 | 769 | 44.3 | /mnt/stockage/packages/f27/dnfdragora/po/zh_TW.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/zh_TW.po | 
+ | [el](/f27/language/el) | 330 | 769 | 42.9 | /mnt/stockage/packages/f27/dnfdragora/po/el.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/el.po | 
+ | [sq](/f27/language/sq) | 330 | 769 | 42.9 | /mnt/stockage/packages/f27/dnfdragora/po/sq.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sq.po | 
+ | [ro](/f27/language/ro) | 283 | 769 | 36.8 | /mnt/stockage/packages/f27/dnfdragora/po/ro.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ro.po | 
+ | [ms](/f27/language/ms) | 14 | 39 | 35.9 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/ms.po | 
+ | [pt](/f27/language/pt) | 242 | 769 | 31.5 | /mnt/stockage/packages/f27/dnfdragora/po/pt.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/pt.po | 
+ | [sk](/f27/language/sk) | 217 | 769 | 28.2 | /mnt/stockage/packages/f27/dnfdragora/po/sk.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/sk.po | 
+ | [wa](/f27/language/wa) | 216 | 769 | 28.1 | /mnt/stockage/packages/f27/dnfdragora/po/wa.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/wa.po | 
+ | [cy](/f27/language/cy) | 214 | 769 | 27.8 | /mnt/stockage/packages/f27/dnfdragora/po/cy.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/cy.po | 
+ | [pl](/f27/language/pl) | 214 | 769 | 27.8 | /mnt/stockage/packages/f27/dnfdragora/po/pl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/pl.po | 
+ | [id](/f27/language/id) | 213 | 769 | 27.7 | /mnt/stockage/packages/f27/dnfdragora/po/id.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/id.po | 
+ | [it](/f27/language/it) | 212 | 769 | 27.6 | /mnt/stockage/packages/f27/dnfdragora/po/it.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/it.po | 
+ | [ast](/f27/language/ast) | 211 | 769 | 27.4 | /mnt/stockage/packages/f27/dnfdragora/po/ast.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ast.po | 
+ | [gl](/f27/language/gl) | 202 | 769 | 26.3 | /mnt/stockage/packages/f27/dnfdragora/po/gl.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/gl.po | 
+ | [br](/f27/language/br) | 195 | 769 | 25.4 | /mnt/stockage/packages/f27/dnfdragora/po/br.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/br.po | 
+ | [hr](/f27/language/hr) | 181 | 769 | 23.5 | /mnt/stockage/packages/f27/dnfdragora/po/hr.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/hr.po | 
+ | [fi](/f27/language/fi) | 178 | 769 | 23.1 | /mnt/stockage/packages/f27/dnfdragora/po/fi.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/fi.po | 
+ | [nn](/f27/language/nn) | 178 | 769 | 23.1 | /mnt/stockage/packages/f27/dnfdragora/po/nn.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/nn.po | 
+ | [he](/f27/language/he) | 177 | 769 | 23.0 | /mnt/stockage/packages/f27/dnfdragora/po/he.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/he.po | 
+ | [is](/f27/language/is) | 177 | 769 | 23.0 | /mnt/stockage/packages/f27/dnfdragora/po/is.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/is.po | 
+ | [ky](/f27/language/ky) | 177 | 769 | 23.0 | /mnt/stockage/packages/f27/dnfdragora/po/ky.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ky.po | 
+ | [ar](/f27/language/ar) | 176 | 769 | 22.9 | /mnt/stockage/packages/f27/dnfdragora/po/ar.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/ar.po | 
+ | [eo](/f27/language/eo) | 176 | 769 | 22.9 | /mnt/stockage/packages/f27/dnfdragora/po/eo.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/eo.po | 
+ | [bg](/f27/language/bg) | 169 | 769 | 22.0 | /mnt/stockage/packages/f27/dnfdragora/po/bg.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/bg.po | 
+ | [sr](/f27/language/sr) | 158 | 730 | 21.6 | /mnt/stockage/packages/f27/dnfdragora/po/sr.po | 
+ | [mk](/f27/language/mk) | 165 | 769 | 21.5 | /mnt/stockage/packages/f27/dnfdragora/po/mk.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/mk.po | 
+ | [bs](/f27/language/bs) | 156 | 730 | 21.4 | /mnt/stockage/packages/f27/dnfdragora/po/bs.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 156 | 730 | 21.4 | /mnt/stockage/packages/f27/dnfdragora/po/sr@latin.po | 
+ | [tg](/f27/language/tg) | 164 | 769 | 21.3 | /mnt/stockage/packages/f27/dnfdragora/po/tg.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/tg.po | 
+ | [uz](/f27/language/uz) | 164 | 769 | 21.3 | /mnt/stockage/packages/f27/dnfdragora/po/uz.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/uz.po | 
+ | [af](/f27/language/af) | 152 | 730 | 20.8 | /mnt/stockage/packages/f27/dnfdragora/po/af.po | 
+ | [hi](/f27/language/hi) | 150 | 730 | 20.5 | /mnt/stockage/packages/f27/dnfdragora/po/hi.po | 
+ | [fa](/f27/language/fa) | 149 | 730 | 20.4 | /mnt/stockage/packages/f27/dnfdragora/po/fa.po | 
+ | [vi](/f27/language/vi) | 155 | 769 | 20.2 | /mnt/stockage/packages/f27/dnfdragora/po/vi.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/vi.po | 
+ | [az](/f27/language/az) | 147 | 730 | 20.1 | /mnt/stockage/packages/f27/dnfdragora/po/az.po | 
+ | [pa](/f27/language/pa) | 147 | 730 | 20.1 | /mnt/stockage/packages/f27/dnfdragora/po/pa_IN.po | 
+ | [tl](/f27/language/tl) | 147 | 730 | 20.1 | /mnt/stockage/packages/f27/dnfdragora/po/tl.po | 
+ | [bn](/f27/language/bn) | 154 | 769 | 20.0 | /mnt/stockage/packages/f27/dnfdragora/po/bn.po/mnt/stockage/packages/f27/dnfdragora/po/desktop/bn.po | 
+ | [mt](/f27/language/mt) | 146 | 730 | 20.0 | /mnt/stockage/packages/f27/dnfdragora/po/mt.po | 
+ | [lt](/f27/language/lt) | 142 | 730 | 19.5 | /mnt/stockage/packages/f27/dnfdragora/po/lt.po | 
+ | [en_GB](/f27/language/en_GB) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/en_GB.po | 
+ | [es_419](/f27/language/es_419) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/es_419.po | 
+ | [ko](/f27/language/ko) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/ko.po | 
+ | [ltg](/f27/language/ltg) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/ltg.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 4 | 39 | 10.3 | /mnt/stockage/packages/f27/dnfdragora/po/desktop/zh_HK.po | 
 {.sortable}
 
 

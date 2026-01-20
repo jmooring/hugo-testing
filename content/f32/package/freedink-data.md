@@ -18,19 +18,19 @@ The package freedink-data (version 1.08.20190120):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/da.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/eo.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/hu.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/nl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 13758 | 13770 | 99.9 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/tr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 13698 | 13770 | 99.5 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/de.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 2611 | 13758 | 19.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/mk.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 2302 | 13758 | 16.7 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/hr.po | 
+ | [ca](/f32/language/ca) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/ca.po | 
+ | [da](/f32/language/da) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/da.po | 
+ | [eo](/f32/language/eo) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/eo.po | 
+ | [es](/f32/language/es) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/es.po | 
+ | [fi](/f32/language/fi) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/fi.po | 
+ | [fr](/f32/language/fr) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/fr.po | 
+ | [hu](/f32/language/hu) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/hu.po | 
+ | [nl](/f32/language/nl) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/nl.po | 
+ | [sv](/f32/language/sv) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/sv.po | 
+ | [tr](/f32/language/tr) | 13758 | 13770 | 99.9 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/tr.po | 
+ | [de](/f32/language/de) | 13698 | 13770 | 99.5 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/de.po | 
+ | [mk](/f32/language/mk) | 2611 | 13758 | 19.0 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/mk.po | 
+ | [hr](/f32/language/hr) | 2302 | 13758 | 16.7 | /mnt/stockage/packages/f32/freedink-data/dink/l10n/hr.po | 
 {.sortable}
 
 

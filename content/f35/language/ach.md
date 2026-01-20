@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f35/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f35/package/tuxpaint-stamps.md" >}}) | 3035 | 3249 | 93.4 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f35/package/tuxpaint.md" >}}) | 1124 | 2286 | 49.2 |  | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 261 | 982 | 26.6 | Acholi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ach/> | 
- | [avahi]({{< ref "/f35/package/avahi.md" >}}) | 0 | 868 | 0.0 | Acoli (http://www.transifex.com/lennart/avahi/language/ach/) | 
- | [initial-setup]({{< ref "/f35/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
- | [python-django-rest-framework]({{< ref "/f35/package/python-django-rest-framework.md" >}}) | 0 | 582 | 0.0 | Acoli (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ach/) | 
- | [python-meh]({{< ref "/f35/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
- | [supertux]({{< ref "/f35/package/supertux.md" >}}) | 0 | 63 | 0.0 | Acoli (https://www.transifex.com/arctic-games/teams/95/ach/) | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f35/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f35/package/tuxpaint-stamps) | 3035 | 3249 | 93.4 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f35/package/tuxpaint) | 1124 | 2286 | 49.2 |  | 
+ | [iso-codes](/f35/package/iso-codes) | 261 | 982 | 26.6 | Acholi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ach/> | 
+ | [avahi](/f35/package/avahi) | 0 | 868 | 0.0 | Acoli (http://www.transifex.com/lennart/avahi/language/ach/) | 
+ | [initial-setup](/f35/package/initial-setup) | 0 | 33 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
+ | [python-django-rest-framework](/f35/package/python-django-rest-framework) | 0 | 582 | 0.0 | Acoli (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/ach/) | 
+ | [python-meh](/f35/package/python-meh) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
+ | [supertux](/f35/package/supertux) | 0 | 63 | 0.0 | Acoli (https://www.transifex.com/arctic-games/teams/95/ach/) | 
 {.sortable}
 
 

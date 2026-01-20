@@ -18,11 +18,11 @@ The package python-flask-security (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f30/language/da.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/da_DK/LC_MESSAGES/flask_security.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/de_DE/LC_MESSAGES/flask_security.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/fr_FR/LC_MESSAGES/flask_security.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 336 | 336 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/nl_NL/LC_MESSAGES/messages.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/ru_RU/LC_MESSAGES/flask_security.po | 
+ | [da](/f30/language/da) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/da_DK/LC_MESSAGES/flask_security.po | 
+ | [de](/f30/language/de) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/de_DE/LC_MESSAGES/flask_security.po | 
+ | [fr](/f30/language/fr) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/fr_FR/LC_MESSAGES/flask_security.po | 
+ | [nl](/f30/language/nl) | 336 | 336 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/nl_NL/LC_MESSAGES/messages.po | 
+ | [ru](/f30/language/ru) | 337 | 337 | 100.0 | /mnt/stockage/packages/f30/python-flask-security/flask_security/translations/ru_RU/LC_MESSAGES/flask_security.po | 
 {.sortable}
 
 

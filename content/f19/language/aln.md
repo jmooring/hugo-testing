@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abrt]({{< ref "/f19/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [firstboot]({{< ref "/f19/package/firstboot.md" >}}) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libreport]({{< ref "/f19/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [liveusb-creator]({{< ref "/f19/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [rhn-client-tools]({{< ref "/f19/package/rhn-client-tools.md" >}}) | 0 | 4197 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhnsd]({{< ref "/f19/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
- | [spacewalk-backend]({{< ref "/f19/package/spacewalk-backend.md" >}}) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date]({{< ref "/f19/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
- | [yum-rhn-plugin]({{< ref "/f19/package/yum-rhn-plugin.md" >}}) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f19/package/abrt) | 0 | 2722 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [firstboot](/f19/package/firstboot) | 0 | 571 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libreport](/f19/package/libreport) | 0 | 3139 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [liveusb-creator](/f19/package/liveusb-creator) | 0 | 480 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [rhn-client-tools](/f19/package/rhn-client-tools) | 0 | 4197 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhnsd](/f19/package/rhnsd) | 0 | 37 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [spacewalk-backend](/f19/package/spacewalk-backend) | 0 | 1895 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f19/package/system-config-date) | 0 | 503 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [yum-rhn-plugin](/f19/package/yum-rhn-plugin) | 0 | 143 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

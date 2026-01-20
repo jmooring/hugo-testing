@@ -18,75 +18,75 @@ The package kf5-libkleo (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ca/libkleopatra.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ca@valencia/libkleopatra.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/de/libkleopatra.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/en_GB/libkleopatra.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/es/libkleopatra.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/eu/libkleopatra.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/fr/libkleopatra.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/gl/libkleopatra.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/it/libkleopatra.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ka/libkleopatra.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ko/libkleopatra.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/nl/libkleopatra.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/pl/libkleopatra.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/pt/libkleopatra.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ru/libkleopatra.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/sl/libkleopatra.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/sv/libkleopatra.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/tr/libkleopatra.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/uk/libkleopatra.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 2417 | 2423 | 99.8 | /mnt/stockage/packages/f38/kf5-libkleo/po/eo/libkleopatra.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 2410 | 2423 | 99.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/fi/libkleopatra.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 1749 | 2423 | 72.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/ja/libkleopatra.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1749 | 2423 | 72.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/zh_CN/libkleopatra.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1628 | 2423 | 67.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/pt_BR/libkleopatra.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr/libkleopatra.po | 
- | [sr@ijekavian]({{< ref "/f38/language/sr@ijekavian.md" >}}) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr@ijekavian/libkleopatra.po | 
- | [sr@ijekavian_Latn]({{< ref "/f38/language/sr@ijekavian_Latn.md" >}}) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr@ijekavianlatin/libkleopatra.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr@latin/libkleopatra.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 1096 | 2423 | 45.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/zh_TW/libkleopatra.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 1016 | 2423 | 41.9 | /mnt/stockage/packages/f38/kf5-libkleo/po/et/libkleopatra.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 995 | 2423 | 41.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/sk/libkleopatra.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 873 | 2423 | 36.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/cs/libkleopatra.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 717 | 2423 | 29.6 | /mnt/stockage/packages/f38/kf5-libkleo/po/da/libkleopatra.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 681 | 2423 | 28.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/nb/libkleopatra.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 617 | 2423 | 25.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/nn/libkleopatra.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 564 | 2423 | 23.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/lt/libkleopatra.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/bs/libkleopatra.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/el/libkleopatra.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/hu/libkleopatra.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/kk/libkleopatra.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/km/libkleopatra.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/nds/libkleopatra.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 453 | 2423 | 18.7 | /mnt/stockage/packages/f38/kf5-libkleo/po/ia/libkleopatra.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 415 | 2423 | 17.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/lv/libkleopatra.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 391 | 2423 | 16.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/bg/libkleopatra.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 352 | 2423 | 14.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/ar/libkleopatra.po | 
- | [hne]({{< ref "/f38/language/hne.md" >}}) | 275 | 2423 | 11.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/hne/libkleopatra.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 265 | 2423 | 10.9 | /mnt/stockage/packages/f38/kf5-libkleo/po/fa/libkleopatra.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 255 | 2423 | 10.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/mk/libkleopatra.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 251 | 2423 | 10.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/hi/libkleopatra.po | 
- | [fy]({{< ref "/f38/language/fy.md" >}}) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/fy/libkleopatra.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/is/libkleopatra.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ms/libkleopatra.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ne/libkleopatra.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ta/libkleopatra.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 247 | 2423 | 10.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/tg/libkleopatra.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 197 | 2423 | 8.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/ga/libkleopatra.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 196 | 2423 | 8.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/ie/libkleopatra.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 144 | 2423 | 5.9 | /mnt/stockage/packages/f38/kf5-libkleo/po/pa/libkleopatra.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 128 | 2423 | 5.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ug/libkleopatra.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 108 | 2423 | 4.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/ro/libkleopatra.po | 
- | [br]({{< ref "/f38/language/br.md" >}}) | 107 | 2423 | 4.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/br/libkleopatra.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 103 | 2423 | 4.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/cy/libkleopatra.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 54 | 2423 | 2.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sq/libkleopatra.po | 
- | [se]({{< ref "/f38/language/se.md" >}}) | 51 | 2423 | 2.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/se/libkleopatra.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 35 | 2423 | 1.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/mr/libkleopatra.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 30 | 2423 | 1.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/be/libkleopatra.po | 
- | [mai]({{< ref "/f38/language/mai.md" >}}) | 28 | 2423 | 1.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/mai/libkleopatra.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 1 | 2423 | 0.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/hr/libkleopatra.po | 
+ | [ca](/f38/language/ca) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ca/libkleopatra.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ca@valencia/libkleopatra.po | 
+ | [de](/f38/language/de) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/de/libkleopatra.po | 
+ | [en_GB](/f38/language/en_GB) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/en_GB/libkleopatra.po | 
+ | [es](/f38/language/es) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/es/libkleopatra.po | 
+ | [eu](/f38/language/eu) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/eu/libkleopatra.po | 
+ | [fr](/f38/language/fr) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/fr/libkleopatra.po | 
+ | [gl](/f38/language/gl) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/gl/libkleopatra.po | 
+ | [it](/f38/language/it) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/it/libkleopatra.po | 
+ | [ka](/f38/language/ka) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ka/libkleopatra.po | 
+ | [ko](/f38/language/ko) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ko/libkleopatra.po | 
+ | [nl](/f38/language/nl) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/nl/libkleopatra.po | 
+ | [pl](/f38/language/pl) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/pl/libkleopatra.po | 
+ | [pt](/f38/language/pt) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/pt/libkleopatra.po | 
+ | [ru](/f38/language/ru) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/ru/libkleopatra.po | 
+ | [sl](/f38/language/sl) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/sl/libkleopatra.po | 
+ | [sv](/f38/language/sv) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/sv/libkleopatra.po | 
+ | [tr](/f38/language/tr) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/tr/libkleopatra.po | 
+ | [uk](/f38/language/uk) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/uk/libkleopatra.po | 
+ | [eo](/f38/language/eo) | 2417 | 2423 | 99.8 | /mnt/stockage/packages/f38/kf5-libkleo/po/eo/libkleopatra.po | 
+ | [fi](/f38/language/fi) | 2410 | 2423 | 99.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/fi/libkleopatra.po | 
+ | [ja](/f38/language/ja) | 1749 | 2423 | 72.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/ja/libkleopatra.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1749 | 2423 | 72.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/zh_CN/libkleopatra.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1628 | 2423 | 67.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/pt_BR/libkleopatra.po | 
+ | [sr](/f38/language/sr) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr/libkleopatra.po | 
+ | [sr@ijekavian](/f38/language/sr@ijekavian) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr@ijekavian/libkleopatra.po | 
+ | [sr@ijekavian_Latn](/f38/language/sr@ijekavian_Latn) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr@ijekavianlatin/libkleopatra.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 705 | 1325 | 53.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sr@latin/libkleopatra.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 1096 | 2423 | 45.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/zh_TW/libkleopatra.po | 
+ | [et](/f38/language/et) | 1016 | 2423 | 41.9 | /mnt/stockage/packages/f38/kf5-libkleo/po/et/libkleopatra.po | 
+ | [sk](/f38/language/sk) | 995 | 2423 | 41.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/sk/libkleopatra.po | 
+ | [cs](/f38/language/cs) | 873 | 2423 | 36.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/cs/libkleopatra.po | 
+ | [da](/f38/language/da) | 717 | 2423 | 29.6 | /mnt/stockage/packages/f38/kf5-libkleo/po/da/libkleopatra.po | 
+ | [nb_NO](/f38/language/nb_NO) | 681 | 2423 | 28.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/nb/libkleopatra.po | 
+ | [nn](/f38/language/nn) | 617 | 2423 | 25.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/nn/libkleopatra.po | 
+ | [lt](/f38/language/lt) | 564 | 2423 | 23.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/lt/libkleopatra.po | 
+ | [bs](/f38/language/bs) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/bs/libkleopatra.po | 
+ | [el](/f38/language/el) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/el/libkleopatra.po | 
+ | [hu](/f38/language/hu) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/hu/libkleopatra.po | 
+ | [kk](/f38/language/kk) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/kk/libkleopatra.po | 
+ | [km](/f38/language/km) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/km/libkleopatra.po | 
+ | [nds](/f38/language/nds) | 471 | 2423 | 19.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/nds/libkleopatra.po | 
+ | [ia](/f38/language/ia) | 453 | 2423 | 18.7 | /mnt/stockage/packages/f38/kf5-libkleo/po/ia/libkleopatra.po | 
+ | [lv](/f38/language/lv) | 415 | 2423 | 17.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/lv/libkleopatra.po | 
+ | [bg](/f38/language/bg) | 391 | 2423 | 16.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/bg/libkleopatra.po | 
+ | [ar](/f38/language/ar) | 352 | 2423 | 14.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/ar/libkleopatra.po | 
+ | [hne](/f38/language/hne) | 275 | 2423 | 11.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/hne/libkleopatra.po | 
+ | [fa](/f38/language/fa) | 265 | 2423 | 10.9 | /mnt/stockage/packages/f38/kf5-libkleo/po/fa/libkleopatra.po | 
+ | [mk](/f38/language/mk) | 255 | 2423 | 10.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/mk/libkleopatra.po | 
+ | [hi](/f38/language/hi) | 251 | 2423 | 10.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/hi/libkleopatra.po | 
+ | [fy](/f38/language/fy) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/fy/libkleopatra.po | 
+ | [is](/f38/language/is) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/is/libkleopatra.po | 
+ | [ms](/f38/language/ms) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ms/libkleopatra.po | 
+ | [ne](/f38/language/ne) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ne/libkleopatra.po | 
+ | [ta](/f38/language/ta) | 249 | 2423 | 10.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ta/libkleopatra.po | 
+ | [tg](/f38/language/tg) | 247 | 2423 | 10.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/tg/libkleopatra.po | 
+ | [ga](/f38/language/ga) | 197 | 2423 | 8.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/ga/libkleopatra.po | 
+ | [ie](/f38/language/ie) | 196 | 2423 | 8.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/ie/libkleopatra.po | 
+ | [pa](/f38/language/pa) | 144 | 2423 | 5.9 | /mnt/stockage/packages/f38/kf5-libkleo/po/pa/libkleopatra.po | 
+ | [ug](/f38/language/ug) | 128 | 2423 | 5.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/ug/libkleopatra.po | 
+ | [ro](/f38/language/ro) | 108 | 2423 | 4.5 | /mnt/stockage/packages/f38/kf5-libkleo/po/ro/libkleopatra.po | 
+ | [br](/f38/language/br) | 107 | 2423 | 4.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/br/libkleopatra.po | 
+ | [cy](/f38/language/cy) | 103 | 2423 | 4.3 | /mnt/stockage/packages/f38/kf5-libkleo/po/cy/libkleopatra.po | 
+ | [sq](/f38/language/sq) | 54 | 2423 | 2.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/sq/libkleopatra.po | 
+ | [se](/f38/language/se) | 51 | 2423 | 2.1 | /mnt/stockage/packages/f38/kf5-libkleo/po/se/libkleopatra.po | 
+ | [mr](/f38/language/mr) | 35 | 2423 | 1.4 | /mnt/stockage/packages/f38/kf5-libkleo/po/mr/libkleopatra.po | 
+ | [be](/f38/language/be) | 30 | 2423 | 1.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/be/libkleopatra.po | 
+ | [mai](/f38/language/mai) | 28 | 2423 | 1.2 | /mnt/stockage/packages/f38/kf5-libkleo/po/mai/libkleopatra.po | 
+ | [hr](/f38/language/hr) | 1 | 2423 | 0.0 | /mnt/stockage/packages/f38/kf5-libkleo/po/hr/libkleopatra.po | 
 {.sortable}
 
 

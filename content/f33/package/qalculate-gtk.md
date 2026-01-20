@@ -18,13 +18,13 @@ The package qalculate-gtk (version 3.17.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 4291 | 4291 | 100.0 | /mnt/stockage/packages/f33/qalculate-gtk/po/zh_CN.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 4204 | 4291 | 98.0 | /mnt/stockage/packages/f33/qalculate-gtk/po/sv.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 4138 | 4291 | 96.4 | /mnt/stockage/packages/f33/qalculate-gtk/po/pt_BR.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 4113 | 4291 | 95.9 | /mnt/stockage/packages/f33/qalculate-gtk/po/es.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 4111 | 4291 | 95.8 | /mnt/stockage/packages/f33/qalculate-gtk/po/sl.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3442 | 4291 | 80.2 | /mnt/stockage/packages/f33/qalculate-gtk/po/fr.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 2251 | 4291 | 52.5 | /mnt/stockage/packages/f33/qalculate-gtk/po/nl.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 4291 | 4291 | 100.0 | /mnt/stockage/packages/f33/qalculate-gtk/po/zh_CN.po | 
+ | [sv](/f33/language/sv) | 4204 | 4291 | 98.0 | /mnt/stockage/packages/f33/qalculate-gtk/po/sv.po | 
+ | [pt_BR](/f33/language/pt_BR) | 4138 | 4291 | 96.4 | /mnt/stockage/packages/f33/qalculate-gtk/po/pt_BR.po | 
+ | [es](/f33/language/es) | 4113 | 4291 | 95.9 | /mnt/stockage/packages/f33/qalculate-gtk/po/es.po | 
+ | [sl](/f33/language/sl) | 4111 | 4291 | 95.8 | /mnt/stockage/packages/f33/qalculate-gtk/po/sl.po | 
+ | [fr](/f33/language/fr) | 3442 | 4291 | 80.2 | /mnt/stockage/packages/f33/qalculate-gtk/po/fr.po | 
+ | [nl](/f33/language/nl) | 2251 | 4291 | 52.5 | /mnt/stockage/packages/f33/qalculate-gtk/po/nl.po | 
 {.sortable}
 
 

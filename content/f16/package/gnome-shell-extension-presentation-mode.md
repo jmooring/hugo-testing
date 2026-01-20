@@ -18,7 +18,7 @@ The package gnome-shell-extension-presentation-mode (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/gnome-shell-extension-presentation-mode/presentationmode@ampad.de/locale/en/LC_MESSAGES/gnome-shell-extension-presentationmode.po/mnt/stockage/packages/f16/gnome-shell-extension-presentation-mode/presentationmode@ampad.de/locale/de/LC_MESSAGES/gnome-shell-extension-presentationmode.po | 
+ | [de](/f16/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/gnome-shell-extension-presentation-mode/presentationmode@ampad.de/locale/en/LC_MESSAGES/gnome-shell-extension-presentationmode.po/mnt/stockage/packages/f16/gnome-shell-extension-presentation-mode/presentationmode@ampad.de/locale/de/LC_MESSAGES/gnome-shell-extension-presentationmode.po | 
 {.sortable}
 
 

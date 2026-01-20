@@ -18,43 +18,43 @@ The package kwave (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ar/kwave.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ca/kwave.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ca@valencia/kwave.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/eo/kwave.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/es/kwave.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/eu/kwave.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/fi/kwave.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/fr/kwave.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/gl/kwave.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ia/kwave.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/it/kwave.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ka/kwave.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ko/kwave.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/nl/kwave.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/pl/kwave.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/pt_BR/kwave.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ru/kwave.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/sl/kwave.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/sv/kwave.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/tr/kwave.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/uk/kwave.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 5730 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/en_GB/kwave.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 5730 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/hi/kwave.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 5730 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/sa/kwave.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 5725 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/el/kwave.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/de/kwave.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/et/kwave.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/pt/kwave.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/sk/kwave.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 5569 | 5821 | 95.7 | /mnt/stockage/packages/f42/kwave/po/cs/kwave.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 3474 | 5821 | 59.7 | /mnt/stockage/packages/f42/kwave/po/zh_CN/kwave.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 3421 | 5821 | 58.8 | /mnt/stockage/packages/f42/kwave/po/zh_TW/kwave.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1907 | 5821 | 32.8 | /mnt/stockage/packages/f42/kwave/po/da/kwave.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 822 | 5821 | 14.1 | /mnt/stockage/packages/f42/kwave/po/bs/kwave.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 5821 | 0.0 | /mnt/stockage/packages/f42/kwave/po/ga/kwave.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 5821 | 0.0 | /mnt/stockage/packages/f42/kwave/po/ja/kwave.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 5821 | 0.0 | /mnt/stockage/packages/f42/kwave/po/lt/kwave.po | 
+ | [ar](/f42/language/ar) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ar/kwave.po | 
+ | [ca](/f42/language/ca) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ca/kwave.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ca@valencia/kwave.po | 
+ | [eo](/f42/language/eo) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/eo/kwave.po | 
+ | [es](/f42/language/es) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/es/kwave.po | 
+ | [eu](/f42/language/eu) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/eu/kwave.po | 
+ | [fi](/f42/language/fi) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/fi/kwave.po | 
+ | [fr](/f42/language/fr) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/fr/kwave.po | 
+ | [gl](/f42/language/gl) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/gl/kwave.po | 
+ | [ia](/f42/language/ia) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ia/kwave.po | 
+ | [it](/f42/language/it) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/it/kwave.po | 
+ | [ka](/f42/language/ka) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ka/kwave.po | 
+ | [ko](/f42/language/ko) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ko/kwave.po | 
+ | [nl](/f42/language/nl) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/nl/kwave.po | 
+ | [pl](/f42/language/pl) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/pl/kwave.po | 
+ | [pt_BR](/f42/language/pt_BR) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/pt_BR/kwave.po | 
+ | [ru](/f42/language/ru) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/ru/kwave.po | 
+ | [sl](/f42/language/sl) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/sl/kwave.po | 
+ | [sv](/f42/language/sv) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/sv/kwave.po | 
+ | [tr](/f42/language/tr) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/tr/kwave.po | 
+ | [uk](/f42/language/uk) | 5821 | 5821 | 100.0 | /mnt/stockage/packages/f42/kwave/po/uk/kwave.po | 
+ | [en_GB](/f42/language/en_GB) | 5730 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/en_GB/kwave.po | 
+ | [hi](/f42/language/hi) | 5730 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/hi/kwave.po | 
+ | [sa](/f42/language/sa) | 5730 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/sa/kwave.po | 
+ | [el](/f42/language/el) | 5725 | 5821 | 98.4 | /mnt/stockage/packages/f42/kwave/po/el/kwave.po | 
+ | [de](/f42/language/de) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/de/kwave.po | 
+ | [et](/f42/language/et) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/et/kwave.po | 
+ | [pt](/f42/language/pt) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/pt/kwave.po | 
+ | [sk](/f42/language/sk) | 5723 | 5821 | 98.3 | /mnt/stockage/packages/f42/kwave/po/sk/kwave.po | 
+ | [cs](/f42/language/cs) | 5569 | 5821 | 95.7 | /mnt/stockage/packages/f42/kwave/po/cs/kwave.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 3474 | 5821 | 59.7 | /mnt/stockage/packages/f42/kwave/po/zh_CN/kwave.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 3421 | 5821 | 58.8 | /mnt/stockage/packages/f42/kwave/po/zh_TW/kwave.po | 
+ | [da](/f42/language/da) | 1907 | 5821 | 32.8 | /mnt/stockage/packages/f42/kwave/po/da/kwave.po | 
+ | [bs](/f42/language/bs) | 822 | 5821 | 14.1 | /mnt/stockage/packages/f42/kwave/po/bs/kwave.po | 
+ | [ga](/f42/language/ga) | 0 | 5821 | 0.0 | /mnt/stockage/packages/f42/kwave/po/ga/kwave.po | 
+ | [ja](/f42/language/ja) | 0 | 5821 | 0.0 | /mnt/stockage/packages/f42/kwave/po/ja/kwave.po | 
+ | [lt](/f42/language/lt) | 0 | 5821 | 0.0 | /mnt/stockage/packages/f42/kwave/po/lt/kwave.po | 
 {.sortable}
 
 

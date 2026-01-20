@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gimagereader]({{< ref "/f39/package/gimagereader.md" >}}) | 1817 | 1817 | 100.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/gimagereader/translations/sr_Cyrl/> | 
- | [godot]({{< ref "/f39/package/godot.md" >}}) | 47 | 47 | 100.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/> | 
- | [po4a]({{< ref "/f39/package/po4a.md" >}}) | 28524 | 28548 | 99.9 | Serbian (cyrillic) <https://hosted.weblate.org/projects/po4a/po4a/sr_Cyrl/> | 
- | [publican]({{< ref "/f39/package/publican.md" >}}) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
- | [wine]({{< ref "/f39/package/wine.md" >}}) | 2179 | 19312 | 11.3 | Serbian (Cyrillic) | 
- | [minetest]({{< ref "/f39/package/minetest.md" >}}) | 994 | 9676 | 10.3 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
- | [godot3]({{< ref "/f39/package/godot3.md" >}}) | 2778 | 285145 | 1.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/sr_Cyrl/> | 
+ | [gimagereader](/f39/package/gimagereader) | 1817 | 1817 | 100.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/gimagereader/translations/sr_Cyrl/> | 
+ | [godot](/f39/package/godot) | 47 | 47 | 100.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot/sr_Cyrl/> | 
+ | [po4a](/f39/package/po4a) | 28524 | 28548 | 99.9 | Serbian (cyrillic) <https://hosted.weblate.org/projects/po4a/po4a/sr_Cyrl/> | 
+ | [publican](/f39/package/publican) | 1058 | 5443 | 19.4 | Serbian <trans-sr@lists.fedoraproject.org> | 
+ | [wine](/f39/package/wine) | 2179 | 19312 | 11.3 | Serbian (Cyrillic) | 
+ | [minetest](/f39/package/minetest) | 994 | 9676 | 10.3 | Serbian (cyrillic) <https://hosted.weblate.org/projects/minetest/minetest/sr_Cyrl/> | 
+ | [godot3](/f39/package/godot3) | 2778 | 285145 | 1.0 | Serbian (cyrillic) <https://hosted.weblate.org/projects/godot-engine/godot-class-reference/sr_Cyrl/> | 
 {.sortable}
 
 

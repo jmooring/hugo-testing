@@ -18,38 +18,38 @@ The package php-horde-ingo (version 3.2.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f26/language/da.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/da/LC_MESSAGES/ingo.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/de/LC_MESSAGES/ingo.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/el/LC_MESSAGES/ingo.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/nl/LC_MESSAGES/ingo.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1007 | 1007 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/es/LC_MESSAGES/ingo.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/et/LC_MESSAGES/ingo.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/eu/LC_MESSAGES/ingo.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/fi/LC_MESSAGES/ingo.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/hr/LC_MESSAGES/ingo.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/hu/LC_MESSAGES/ingo.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/it/LC_MESSAGES/ingo.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1007 | 1007 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ja/LC_MESSAGES/ingo.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/lt/LC_MESSAGES/ingo.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 976 | 976 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/lv/LC_MESSAGES/ingo.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/pl/LC_MESSAGES/ingo.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 767 | 767 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/pt/LC_MESSAGES/ingo.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/pt_BR/LC_MESSAGES/ingo.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ro/LC_MESSAGES/ingo.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 252 | 252 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ru/LC_MESSAGES/ingo.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/sl/LC_MESSAGES/ingo.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/tr/LC_MESSAGES/ingo.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 855 | 855 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/zh_CN/LC_MESSAGES/ingo.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 1011 | 1012 | 99.9 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ca/LC_MESSAGES/ingo.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1010 | 1011 | 99.9 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/fr/LC_MESSAGES/ingo.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 880 | 883 | 99.7 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/zh_TW/LC_MESSAGES/ingo.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 885 | 909 | 97.4 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/sv/LC_MESSAGES/ingo.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 954 | 1007 | 94.7 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/sk/LC_MESSAGES/ingo.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 831 | 1011 | 82.2 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/cs/LC_MESSAGES/ingo.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 397 | 498 | 79.7 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/nb/LC_MESSAGES/ingo.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 735 | 1009 | 72.8 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/uk/LC_MESSAGES/ingo.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 504 | 908 | 55.5 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/gl/LC_MESSAGES/ingo.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 505 | 1010 | 50.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ko/LC_MESSAGES/ingo.po | 
+ | [da](/f26/language/da) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/da/LC_MESSAGES/ingo.po | 
+ | [de](/f26/language/de) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/de/LC_MESSAGES/ingo.po | 
+ | [el](/f26/language/el) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/el/LC_MESSAGES/ingo.po | 
+ | [en_US](/f26/language/en_US) | 979 | 979 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/nl/LC_MESSAGES/ingo.po | 
+ | [es](/f26/language/es) | 1007 | 1007 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/es/LC_MESSAGES/ingo.po | 
+ | [et](/f26/language/et) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/et/LC_MESSAGES/ingo.po | 
+ | [eu](/f26/language/eu) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/eu/LC_MESSAGES/ingo.po | 
+ | [fi](/f26/language/fi) | 976 | 976 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/fi/LC_MESSAGES/ingo.po | 
+ | [hr](/f26/language/hr) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/hr/LC_MESSAGES/ingo.po | 
+ | [hu](/f26/language/hu) | 1011 | 1011 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/hu/LC_MESSAGES/ingo.po | 
+ | [it](/f26/language/it) | 1093 | 1093 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/it/LC_MESSAGES/ingo.po | 
+ | [ja](/f26/language/ja) | 1007 | 1007 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ja/LC_MESSAGES/ingo.po | 
+ | [lt](/f26/language/lt) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/lt/LC_MESSAGES/ingo.po | 
+ | [lv](/f26/language/lv) | 976 | 976 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/lv/LC_MESSAGES/ingo.po | 
+ | [pl](/f26/language/pl) | 1003 | 1003 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/pl/LC_MESSAGES/ingo.po | 
+ | [pt](/f26/language/pt) | 767 | 767 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/pt/LC_MESSAGES/ingo.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1017 | 1017 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/pt_BR/LC_MESSAGES/ingo.po | 
+ | [ro](/f26/language/ro) | 418 | 418 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ro/LC_MESSAGES/ingo.po | 
+ | [ru](/f26/language/ru) | 252 | 252 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ru/LC_MESSAGES/ingo.po | 
+ | [sl](/f26/language/sl) | 863 | 863 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/sl/LC_MESSAGES/ingo.po | 
+ | [tr](/f26/language/tr) | 909 | 909 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/tr/LC_MESSAGES/ingo.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 855 | 855 | 100.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/zh_CN/LC_MESSAGES/ingo.po | 
+ | [ca](/f26/language/ca) | 1011 | 1012 | 99.9 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ca/LC_MESSAGES/ingo.po | 
+ | [fr](/f26/language/fr) | 1010 | 1011 | 99.9 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/fr/LC_MESSAGES/ingo.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 880 | 883 | 99.7 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/zh_TW/LC_MESSAGES/ingo.po | 
+ | [sv](/f26/language/sv) | 885 | 909 | 97.4 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/sv/LC_MESSAGES/ingo.po | 
+ | [sk](/f26/language/sk) | 954 | 1007 | 94.7 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/sk/LC_MESSAGES/ingo.po | 
+ | [cs](/f26/language/cs) | 831 | 1011 | 82.2 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/cs/LC_MESSAGES/ingo.po | 
+ | [nb_NO](/f26/language/nb_NO) | 397 | 498 | 79.7 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/nb/LC_MESSAGES/ingo.po | 
+ | [uk](/f26/language/uk) | 735 | 1009 | 72.8 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/uk/LC_MESSAGES/ingo.po | 
+ | [gl](/f26/language/gl) | 504 | 908 | 55.5 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/gl/LC_MESSAGES/ingo.po | 
+ | [ko](/f26/language/ko) | 505 | 1010 | 50.0 | /mnt/stockage/packages/f26/php-horde-ingo/ingo-3.2.15/locale/ko/LC_MESSAGES/ingo.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [postgresql]({{< ref "/f7/package/postgresql.md" >}}) | 7055 | 9103 | 77.5 | <cs@li.org> | 
- | [tinyerp]({{< ref "/f7/package/tinyerp.md" >}}) | 2169 | 3031 | 71.6 | FR <i18n-info@tinyerp.org> | 
- | [wine-docs]({{< ref "/f7/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
- | [po4a]({{< ref "/f7/package/po4a.md" >}}) | 180 | 1613 | 11.2 | AF | 
+ | [postgresql](/f7/package/postgresql) | 7055 | 9103 | 77.5 | <cs@li.org> | 
+ | [tinyerp](/f7/package/tinyerp) | 2169 | 3031 | 71.6 | FR <i18n-info@tinyerp.org> | 
+ | [wine-docs](/f7/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
+ | [po4a](/f7/package/po4a) | 180 | 1613 | 11.2 | AF | 
 {.sortable}
 
 

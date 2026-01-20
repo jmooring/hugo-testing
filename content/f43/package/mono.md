@@ -18,11 +18,11 @@ The package mono (version 6.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 4641 | 8346 | 55.6 | /mnt/stockage/packages/f43/mono/po/mcs/pt_BR.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 17 | 36 | 47.2 | /mnt/stockage/packages/f43/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1113 | 8346 | 13.3 | /mnt/stockage/packages/f43/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 936 | 8346 | 11.2 | /mnt/stockage/packages/f43/mono/po/mcs/es.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 269 | 8346 | 3.2 | /mnt/stockage/packages/f43/mono/po/mcs/de.po | 
+ | [pt_BR](/f43/language/pt_BR) | 4641 | 8346 | 55.6 | /mnt/stockage/packages/f43/mono/po/mcs/pt_BR.po | 
+ | [en](/f43/language/en) | 17 | 36 | 47.2 | /mnt/stockage/packages/f43/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
+ | [ja](/f43/language/ja) | 1113 | 8346 | 13.3 | /mnt/stockage/packages/f43/mono/po/mcs/ja.po | 
+ | [es](/f43/language/es) | 936 | 8346 | 11.2 | /mnt/stockage/packages/f43/mono/po/mcs/es.po | 
+ | [de](/f43/language/de) | 269 | 8346 | 3.2 | /mnt/stockage/packages/f43/mono/po/mcs/de.po | 
 {.sortable}
 
 

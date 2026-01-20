@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [system-config-date]({{< ref "/f15/package/system-config-date.md" >}}) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users]({{< ref "/f15/package/system-config-users.md" >}}) | 0 | 1456 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date](/f15/package/system-config-date) | 0 | 466 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users](/f15/package/system-config-users) | 0 | 1456 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

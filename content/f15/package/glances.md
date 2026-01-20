@@ -18,8 +18,8 @@ The package glances (version 1.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 244 | 244 | 100.0 | /mnt/stockage/packages/f15/glances/i18n/fr/LC_MESSAGES/glances.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 225 | 244 | 92.2 | /mnt/stockage/packages/f15/glances/i18n/es/LC_MESSAGES/glances.po | 
+ | [fr](/f15/language/fr) | 244 | 244 | 100.0 | /mnt/stockage/packages/f15/glances/i18n/fr/LC_MESSAGES/glances.po | 
+ | [es](/f15/language/es) | 225 | 244 | 92.2 | /mnt/stockage/packages/f15/glances/i18n/es/LC_MESSAGES/glances.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package fcitx-hangul (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 35 | 37 | 94.6 | /mnt/stockage/packages/f18/fcitx-hangul/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 17 | 37 | 45.9 | /mnt/stockage/packages/f18/fcitx-hangul/po/zh_TW.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 16 | 37 | 43.2 | /mnt/stockage/packages/f18/fcitx-hangul/po/ko.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 35 | 37 | 94.6 | /mnt/stockage/packages/f18/fcitx-hangul/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 17 | 37 | 45.9 | /mnt/stockage/packages/f18/fcitx-hangul/po/zh_TW.po | 
+ | [ko](/f18/language/ko) | 16 | 37 | 43.2 | /mnt/stockage/packages/f18/fcitx-hangul/po/ko.po | 
 {.sortable}
 
 

@@ -18,55 +18,55 @@ The package catfish (version 1.4.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/bg.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/de.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f31/catfish/po/en_AU.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f31/catfish/po/he.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/hu.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f31/catfish/po/hy_AM.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 787 | 787 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ja.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/lt.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ms.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/pt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ru.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/sq.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/sr.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/tr.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/zh_TW.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 883 | 886 | 99.7 | /mnt/stockage/packages/f31/catfish/po/ca.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 784 | 787 | 99.6 | /mnt/stockage/packages/f31/catfish/po/sv.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 873 | 886 | 98.5 | /mnt/stockage/packages/f31/catfish/po/sl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 847 | 886 | 95.6 | /mnt/stockage/packages/f31/catfish/po/pt_BR.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 750 | 787 | 95.3 | /mnt/stockage/packages/f31/catfish/po/uk.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 715 | 787 | 90.9 | /mnt/stockage/packages/f31/catfish/po/el.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 709 | 869 | 81.6 | /mnt/stockage/packages/f31/catfish/po/eu.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 589 | 787 | 74.8 | /mnt/stockage/packages/f31/catfish/po/fi.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 493 | 886 | 55.6 | /mnt/stockage/packages/f31/catfish/po/hr.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 487 | 886 | 55.0 | /mnt/stockage/packages/f31/catfish/po/sk.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 407 | 787 | 51.7 | /mnt/stockage/packages/f31/catfish/po/is.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 401 | 787 | 51.0 | /mnt/stockage/packages/f31/catfish/po/nn.po | 
- | [ie]({{< ref "/f31/language/ie.md" >}}) | 436 | 886 | 49.2 | /mnt/stockage/packages/f31/catfish/po/ie.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 149 | 683 | 21.8 | /mnt/stockage/packages/f31/catfish/po/lv.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 160 | 787 | 20.3 | /mnt/stockage/packages/f31/catfish/po/si.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 150 | 806 | 18.6 | /mnt/stockage/packages/f31/catfish/po/id.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 135 | 787 | 17.2 | /mnt/stockage/packages/f31/catfish/po/ar.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 90 | 683 | 13.2 | /mnt/stockage/packages/f31/catfish/po/eo.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 36 | 683 | 5.3 | /mnt/stockage/packages/f31/catfish/po/af.po | 
- | [ku]({{< ref "/f31/language/ku.md" >}}) | 15 | 683 | 2.2 | /mnt/stockage/packages/f31/catfish/po/ku.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 13 | 683 | 1.9 | /mnt/stockage/packages/f31/catfish/po/ml.po | 
+ | [be](/f31/language/be) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/be.po | 
+ | [bg](/f31/language/bg) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/bg.po | 
+ | [cs](/f31/language/cs) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/cs.po | 
+ | [da](/f31/language/da) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/da.po | 
+ | [de](/f31/language/de) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/de.po | 
+ | [en_AU](/f31/language/en_AU) | 787 | 787 | 100.0 | /mnt/stockage/packages/f31/catfish/po/en_AU.po | 
+ | [es](/f31/language/es) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/es.po | 
+ | [fr](/f31/language/fr) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/fr.po | 
+ | [gl](/f31/language/gl) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/gl.po | 
+ | [he](/f31/language/he) | 787 | 787 | 100.0 | /mnt/stockage/packages/f31/catfish/po/he.po | 
+ | [hu](/f31/language/hu) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/hu.po | 
+ | [hy](/f31/language/hy) | 791 | 791 | 100.0 | /mnt/stockage/packages/f31/catfish/po/hy_AM.po | 
+ | [it](/f31/language/it) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/it.po | 
+ | [ja](/f31/language/ja) | 787 | 787 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ja.po | 
+ | [ko](/f31/language/ko) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ko.po | 
+ | [lt](/f31/language/lt) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/lt.po | 
+ | [ms](/f31/language/ms) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ms.po | 
+ | [nb_NO](/f31/language/nb_NO) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/nb.po | 
+ | [nl](/f31/language/nl) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/nl.po | 
+ | [pl](/f31/language/pl) | 869 | 869 | 100.0 | /mnt/stockage/packages/f31/catfish/po/pl.po | 
+ | [pt](/f31/language/pt) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/pt.po | 
+ | [ru](/f31/language/ru) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/ru.po | 
+ | [sq](/f31/language/sq) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/sq.po | 
+ | [sr](/f31/language/sr) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/sr.po | 
+ | [th](/f31/language/th) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/th.po | 
+ | [tr](/f31/language/tr) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/tr.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 886 | 886 | 100.0 | /mnt/stockage/packages/f31/catfish/po/zh_TW.po | 
+ | [ca](/f31/language/ca) | 883 | 886 | 99.7 | /mnt/stockage/packages/f31/catfish/po/ca.po | 
+ | [sv](/f31/language/sv) | 784 | 787 | 99.6 | /mnt/stockage/packages/f31/catfish/po/sv.po | 
+ | [sl](/f31/language/sl) | 873 | 886 | 98.5 | /mnt/stockage/packages/f31/catfish/po/sl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 847 | 886 | 95.6 | /mnt/stockage/packages/f31/catfish/po/pt_BR.po | 
+ | [uk](/f31/language/uk) | 750 | 787 | 95.3 | /mnt/stockage/packages/f31/catfish/po/uk.po | 
+ | [el](/f31/language/el) | 715 | 787 | 90.9 | /mnt/stockage/packages/f31/catfish/po/el.po | 
+ | [eu](/f31/language/eu) | 709 | 869 | 81.6 | /mnt/stockage/packages/f31/catfish/po/eu.po | 
+ | [fi](/f31/language/fi) | 589 | 787 | 74.8 | /mnt/stockage/packages/f31/catfish/po/fi.po | 
+ | [hr](/f31/language/hr) | 493 | 886 | 55.6 | /mnt/stockage/packages/f31/catfish/po/hr.po | 
+ | [sk](/f31/language/sk) | 487 | 886 | 55.0 | /mnt/stockage/packages/f31/catfish/po/sk.po | 
+ | [is](/f31/language/is) | 407 | 787 | 51.7 | /mnt/stockage/packages/f31/catfish/po/is.po | 
+ | [nn](/f31/language/nn) | 401 | 787 | 51.0 | /mnt/stockage/packages/f31/catfish/po/nn.po | 
+ | [ie](/f31/language/ie) | 436 | 886 | 49.2 | /mnt/stockage/packages/f31/catfish/po/ie.po | 
+ | [lv](/f31/language/lv) | 149 | 683 | 21.8 | /mnt/stockage/packages/f31/catfish/po/lv.po | 
+ | [si](/f31/language/si) | 160 | 787 | 20.3 | /mnt/stockage/packages/f31/catfish/po/si.po | 
+ | [id](/f31/language/id) | 150 | 806 | 18.6 | /mnt/stockage/packages/f31/catfish/po/id.po | 
+ | [ar](/f31/language/ar) | 135 | 787 | 17.2 | /mnt/stockage/packages/f31/catfish/po/ar.po | 
+ | [eo](/f31/language/eo) | 90 | 683 | 13.2 | /mnt/stockage/packages/f31/catfish/po/eo.po | 
+ | [af](/f31/language/af) | 36 | 683 | 5.3 | /mnt/stockage/packages/f31/catfish/po/af.po | 
+ | [ku](/f31/language/ku) | 15 | 683 | 2.2 | /mnt/stockage/packages/f31/catfish/po/ku.po | 
+ | [ml](/f31/language/ml) | 13 | 683 | 1.9 | /mnt/stockage/packages/f31/catfish/po/ml.po | 
 {.sortable}
 
 

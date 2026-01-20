@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [im-chooser]({{< ref "/f18/package/im-chooser.md" >}}) | 54 | 237 | 22.8 | LANGUAGE <LL@li.org> | 
- | [wine]({{< ref "/f18/package/wine.md" >}}) | 2219 | 14132 | 15.7 | none | 
- | [imsettings]({{< ref "/f18/package/imsettings.md" >}}) | 49 | 441 | 11.1 | LANGUAGE <LL@li.org> | 
- | [fonts-tweak-tool]({{< ref "/f18/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
+ | [im-chooser](/f18/package/im-chooser) | 54 | 237 | 22.8 | LANGUAGE <LL@li.org> | 
+ | [wine](/f18/package/wine) | 2219 | 14132 | 15.7 | none | 
+ | [imsettings](/f18/package/imsettings) | 49 | 441 | 11.1 | LANGUAGE <LL@li.org> | 
+ | [fonts-tweak-tool](/f18/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Serbian (Cyrillic) | 
 {.sortable}
 
 

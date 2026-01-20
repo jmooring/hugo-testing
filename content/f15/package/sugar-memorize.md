@@ -18,105 +18,105 @@ The package sugar-memorize (version 39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ar_SY.po/mnt/stockage/packages/f15/sugar-memorize/po/ar.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/bg.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ca.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/de.po | 
- | [en]({{< ref "/f15/language/en.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/en.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/en_GB.po | 
- | [en_US]({{< ref "/f15/language/en_US.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/en_US.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fr.po | 
- | [ht]({{< ref "/f15/language/ht.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ht.po | 
- | [hus]({{< ref "/f15/language/hus.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hus.po | 
- | [hy]({{< ref "/f15/language/hy.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hy.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/it.po | 
- | [km]({{< ref "/f15/language/km.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/km.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/mr.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ne.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nl.po | 
- | [pap]({{< ref "/f15/language/pap.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pap.po | 
- | [prs]({{< ref "/f15/language/prs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fa_AF.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pt_BR.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/rw.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sv.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/te.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tr.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ur.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/zh_TW.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 48 | 52 | 92.3 | /mnt/stockage/packages/f15/sugar-memorize/po/fa.po | 
- | [ps]({{< ref "/f15/language/ps.md" >}}) | 48 | 52 | 92.3 | /mnt/stockage/packages/f15/sugar-memorize/po/ps.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 78 | 90 | 86.7 | /mnt/stockage/packages/f15/sugar-memorize/po/mn.po | 
- | [ay]({{< ref "/f15/language/ay.md" >}}) | 42 | 50 | 84.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ay.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 41 | 52 | 78.8 | /mnt/stockage/packages/f15/sugar-memorize/po/bn_IN.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 35 | 50 | 70.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nb.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 57 | 90 | 63.3 | /mnt/stockage/packages/f15/sugar-memorize/po/ja.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 64 | 106 | 60.4 | /mnt/stockage/packages/f15/sugar-memorize/po/el.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 64 | 106 | 60.4 | /mnt/stockage/packages/f15/sugar-memorize/po/ta.po | 
- | [sm]({{< ref "/f15/language/sm.md" >}}) | 26 | 90 | 28.9 | /mnt/stockage/packages/f15/sugar-memorize/po/sm.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 22 | 90 | 24.4 | /mnt/stockage/packages/f15/sugar-memorize/po/sq.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 20 | 106 | 18.9 | /mnt/stockage/packages/f15/sugar-memorize/po/si.po | 
- | [bs]({{< ref "/f15/language/bs.md" >}}) | 11 | 90 | 12.2 | /mnt/stockage/packages/f15/sugar-memorize/po/bs.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 9 | 90 | 10.0 | /mnt/stockage/packages/f15/sugar-memorize/po/id.po | 
- | [kos]({{< ref "/f15/language/kos.md" >}}) | 1 | 90 | 1.1 | /mnt/stockage/packages/f15/sugar-memorize/po/kos.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/af.po | 
- | [ak]({{< ref "/f15/language/ak.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ak.po | 
- | [am]({{< ref "/f15/language/am.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/am.po | 
- | [bi]({{< ref "/f15/language/bi.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/bi.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/bn.po | 
- | [cpp]({{< ref "/f15/language/cpp.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/cpp.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/cs.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/dz.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 0 | 330 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tzo.po/mnt/stockage/packages/f15/sugar-memorize/po/templates.po/mnt/stockage/packages/f15/sugar-memorize/po/pseudo.po/mnt/stockage/packages/f15/sugar-memorize/po/pis.po/mnt/stockage/packages/f15/sugar-memorize/po/mvo.po | 
- | [ff]({{< ref "/f15/language/ff.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ff.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fi.po | 
- | [fil]({{< ref "/f15/language/fil.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fil.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/gu.po | 
- | [ha]({{< ref "/f15/language/ha.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ha.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/he.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hu.po | 
- | [ig]({{< ref "/f15/language/ig.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ig.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/is.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/kn.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ko.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ku.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/lt.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/lv.po | 
- | [mg]({{< ref "/f15/language/mg.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/mg.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ml.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ms.po | 
- | [na]({{< ref "/f15/language/na.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/na.po | 
- | [nah]({{< ref "/f15/language/nah.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nah.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nn.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pl.po | 
- | [qu]({{< ref "/f15/language/qu.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/qu.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ru.po | 
- | [sd]({{< ref "/f15/language/sd.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sd.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sk.po | 
- | [son]({{< ref "/f15/language/son.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/son.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sr.po | 
- | [st]({{< ref "/f15/language/st.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/st.po | 
- | [sw]({{< ref "/f15/language/sw.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sw.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/th.po | 
- | [to]({{< ref "/f15/language/to.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ton.po | 
- | [tpi]({{< ref "/f15/language/tpi.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tpi.po | 
- | [tvl]({{< ref "/f15/language/tvl.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tvl.po | 
- | [tyv]({{< ref "/f15/language/tyv.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tyv.po | 
- | [tzm]({{< ref "/f15/language/tzm.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tzm.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ug.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/uk.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/wa.po | 
- | [yo]({{< ref "/f15/language/yo.md" >}}) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/zh_HK.po | 
+ | [ar](/f15/language/ar) | 180 | 180 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ar_SY.po/mnt/stockage/packages/f15/sugar-memorize/po/ar.po | 
+ | [bg](/f15/language/bg) | 54 | 54 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/bg.po | 
+ | [ca](/f15/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ca.po | 
+ | [da](/f15/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/da.po | 
+ | [de](/f15/language/de) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/de.po | 
+ | [en](/f15/language/en) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/en.po | 
+ | [en_GB](/f15/language/en_GB) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/en_GB.po | 
+ | [en_US](/f15/language/en_US) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/en_US.po | 
+ | [es](/f15/language/es) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/es.po | 
+ | [fr](/f15/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fr.po | 
+ | [ht](/f15/language/ht) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ht.po | 
+ | [hus](/f15/language/hus) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hus.po | 
+ | [hy](/f15/language/hy) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hy.po | 
+ | [it](/f15/language/it) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/it.po | 
+ | [km](/f15/language/km) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/km.po | 
+ | [mr](/f15/language/mr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/mr.po | 
+ | [ne](/f15/language/ne) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ne.po | 
+ | [nl](/f15/language/nl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nl.po | 
+ | [pap](/f15/language/pap) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pap.po | 
+ | [prs](/f15/language/prs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fa_AF.po | 
+ | [pt](/f15/language/pt) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pt_BR.po | 
+ | [rw](/f15/language/rw) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/rw.po | 
+ | [sl](/f15/language/sl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sl.po | 
+ | [sv](/f15/language/sv) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sv.po | 
+ | [te](/f15/language/te) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/te.po | 
+ | [tr](/f15/language/tr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tr.po | 
+ | [ur](/f15/language/ur) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ur.po | 
+ | [vi](/f15/language/vi) | 90 | 90 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 50 | 50 | 100.0 | /mnt/stockage/packages/f15/sugar-memorize/po/zh_TW.po | 
+ | [fa](/f15/language/fa) | 48 | 52 | 92.3 | /mnt/stockage/packages/f15/sugar-memorize/po/fa.po | 
+ | [ps](/f15/language/ps) | 48 | 52 | 92.3 | /mnt/stockage/packages/f15/sugar-memorize/po/ps.po | 
+ | [mn](/f15/language/mn) | 78 | 90 | 86.7 | /mnt/stockage/packages/f15/sugar-memorize/po/mn.po | 
+ | [ay](/f15/language/ay) | 42 | 50 | 84.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ay.po | 
+ | [bn_IN](/f15/language/bn_IN) | 41 | 52 | 78.8 | /mnt/stockage/packages/f15/sugar-memorize/po/bn_IN.po | 
+ | [nb_NO](/f15/language/nb_NO) | 35 | 50 | 70.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nb.po | 
+ | [ja](/f15/language/ja) | 57 | 90 | 63.3 | /mnt/stockage/packages/f15/sugar-memorize/po/ja.po | 
+ | [el](/f15/language/el) | 64 | 106 | 60.4 | /mnt/stockage/packages/f15/sugar-memorize/po/el.po | 
+ | [ta](/f15/language/ta) | 64 | 106 | 60.4 | /mnt/stockage/packages/f15/sugar-memorize/po/ta.po | 
+ | [sm](/f15/language/sm) | 26 | 90 | 28.9 | /mnt/stockage/packages/f15/sugar-memorize/po/sm.po | 
+ | [sq](/f15/language/sq) | 22 | 90 | 24.4 | /mnt/stockage/packages/f15/sugar-memorize/po/sq.po | 
+ | [si](/f15/language/si) | 20 | 106 | 18.9 | /mnt/stockage/packages/f15/sugar-memorize/po/si.po | 
+ | [bs](/f15/language/bs) | 11 | 90 | 12.2 | /mnt/stockage/packages/f15/sugar-memorize/po/bs.po | 
+ | [id](/f15/language/id) | 9 | 90 | 10.0 | /mnt/stockage/packages/f15/sugar-memorize/po/id.po | 
+ | [kos](/f15/language/kos) | 1 | 90 | 1.1 | /mnt/stockage/packages/f15/sugar-memorize/po/kos.po | 
+ | [af](/f15/language/af) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/af.po | 
+ | [ak](/f15/language/ak) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ak.po | 
+ | [am](/f15/language/am) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/am.po | 
+ | [bi](/f15/language/bi) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/bi.po | 
+ | [bn](/f15/language/bn) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/bn.po | 
+ | [cpp](/f15/language/cpp) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/cpp.po | 
+ | [cs](/f15/language/cs) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/cs.po | 
+ | [dz](/f15/language/dz) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/dz.po | 
+ | [error](/f15/language/error) | 0 | 330 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tzo.po/mnt/stockage/packages/f15/sugar-memorize/po/templates.po/mnt/stockage/packages/f15/sugar-memorize/po/pseudo.po/mnt/stockage/packages/f15/sugar-memorize/po/pis.po/mnt/stockage/packages/f15/sugar-memorize/po/mvo.po | 
+ | [ff](/f15/language/ff) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ff.po | 
+ | [fi](/f15/language/fi) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fi.po | 
+ | [fil](/f15/language/fil) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/fil.po | 
+ | [gu](/f15/language/gu) | 0 | 54 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/gu.po | 
+ | [ha](/f15/language/ha) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ha.po | 
+ | [he](/f15/language/he) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/he.po | 
+ | [hi](/f15/language/hi) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hi.po | 
+ | [hu](/f15/language/hu) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/hu.po | 
+ | [ig](/f15/language/ig) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ig.po | 
+ | [is](/f15/language/is) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/is.po | 
+ | [kn](/f15/language/kn) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/kn.po | 
+ | [ko](/f15/language/ko) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ko.po | 
+ | [ku](/f15/language/ku) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ku.po | 
+ | [lt](/f15/language/lt) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/lt.po | 
+ | [lv](/f15/language/lv) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/lv.po | 
+ | [mg](/f15/language/mg) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/mg.po | 
+ | [mk](/f15/language/mk) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/mk.po | 
+ | [ml](/f15/language/ml) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ml.po | 
+ | [ms](/f15/language/ms) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ms.po | 
+ | [na](/f15/language/na) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/na.po | 
+ | [nah](/f15/language/nah) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nah.po | 
+ | [nn](/f15/language/nn) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/nn.po | 
+ | [pa](/f15/language/pa) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pa.po | 
+ | [pl](/f15/language/pl) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/pl.po | 
+ | [qu](/f15/language/qu) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/qu.po | 
+ | [ro](/f15/language/ro) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ro.po | 
+ | [ru](/f15/language/ru) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ru.po | 
+ | [sd](/f15/language/sd) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sd.po | 
+ | [sk](/f15/language/sk) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sk.po | 
+ | [son](/f15/language/son) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/son.po | 
+ | [sr](/f15/language/sr) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sr.po | 
+ | [st](/f15/language/st) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/st.po | 
+ | [sw](/f15/language/sw) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/sw.po | 
+ | [th](/f15/language/th) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/th.po | 
+ | [to](/f15/language/to) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ton.po | 
+ | [tpi](/f15/language/tpi) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tpi.po | 
+ | [tvl](/f15/language/tvl) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tvl.po | 
+ | [tyv](/f15/language/tyv) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tyv.po | 
+ | [tzm](/f15/language/tzm) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/tzm.po | 
+ | [ug](/f15/language/ug) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/ug.po | 
+ | [uk](/f15/language/uk) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/uk.po | 
+ | [wa](/f15/language/wa) | 0 | 50 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/wa.po | 
+ | [yo](/f15/language/yo) | 0 | 52 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/yo.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 0 | 90 | 0.0 | /mnt/stockage/packages/f15/sugar-memorize/po/zh_HK.po | 
 {.sortable}
 
 

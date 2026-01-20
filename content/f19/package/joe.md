@@ -18,10 +18,10 @@ The package joe (version 3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1462 | 1671 | 87.5 | /mnt/stockage/packages/f19/joe/po/de.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1403 | 1671 | 84.0 | /mnt/stockage/packages/f19/joe/po/ru.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 1403 | 1671 | 84.0 | /mnt/stockage/packages/f19/joe/po/uk.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 1204 | 1666 | 72.3 | /mnt/stockage/packages/f19/joe/po/fr.po | 
+ | [de](/f19/language/de) | 1462 | 1671 | 87.5 | /mnt/stockage/packages/f19/joe/po/de.po | 
+ | [ru](/f19/language/ru) | 1403 | 1671 | 84.0 | /mnt/stockage/packages/f19/joe/po/ru.po | 
+ | [uk](/f19/language/uk) | 1403 | 1671 | 84.0 | /mnt/stockage/packages/f19/joe/po/uk.po | 
+ | [fr](/f19/language/fr) | 1204 | 1666 | 72.3 | /mnt/stockage/packages/f19/joe/po/fr.po | 
 {.sortable}
 
 

@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican]({{< ref "/f11/package/publican.md" >}}) | 851 | 851 | 100.0 | Gujarati | 
- | [publican-fedora]({{< ref "/f11/package/publican-fedora.md" >}}) | 107 | 107 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
- | [publican-ovirt]({{< ref "/f11/package/publican-ovirt.md" >}}) | 288 | 288 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
- | [pgadmin3]({{< ref "/f11/package/pgadmin3.md" >}}) | 2 | 9006 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [publican](/f11/package/publican) | 851 | 851 | 100.0 | Gujarati | 
+ | [publican-fedora](/f11/package/publican-fedora) | 107 | 107 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
+ | [publican-ovirt](/f11/package/publican-ovirt) | 288 | 288 | 100.0 | Gujarati <fedora-trans-gu@redhat.com> | 
+ | [pgadmin3](/f11/package/pgadmin3) | 2 | 9006 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,56 +38,56 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gpicview]({{< ref "/f25/package/gpicview.md" >}}) | 236 | 236 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [libfm]({{< ref "/f25/package/libfm.md" >}}) | 1565 | 1565 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [lxappearance]({{< ref "/f25/package/lxappearance.md" >}}) | 234 | 234 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxappearance-obconf]({{< ref "/f25/package/lxappearance-obconf.md" >}}) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxde-common]({{< ref "/f25/package/lxde-common.md" >}}) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f25/package/lxdm.md" >}}) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f25/package/lxinput.md" >}}) | 83 | 83 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxlauncher]({{< ref "/f25/package/lxlauncher.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxmenu-data]({{< ref "/f25/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxmusic]({{< ref "/f25/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxrandr]({{< ref "/f25/package/lxrandr.md" >}}) | 167 | 167 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxshortcut]({{< ref "/f25/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxtask]({{< ref "/f25/package/lxtask.md" >}}) | 130 | 130 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
- | [pcmanfm]({{< ref "/f25/package/pcmanfm.md" >}}) | 1209 | 1210 | 99.9 | lg <kbirabwa@yahoo.co.uk> | 
- | [tuxpaint]({{< ref "/f25/package/tuxpaint.md" >}}) | 1515 | 1591 | 95.2 | LANGUAGE <LL@li.org> | 
- | [lxpanel]({{< ref "/f25/package/lxpanel.md" >}}) | 1283 | 1367 | 93.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [virtaal]({{< ref "/f25/package/virtaal.md" >}}) | 1422 | 1653 | 86.0 | LANGUAGE <LL@li.org> | 
- | [lxterminal]({{< ref "/f25/package/lxterminal.md" >}}) | 179 | 247 | 72.5 | lg <kbirabwa@yahoo.co.uk> | 
- | [gtkspell3]({{< ref "/f25/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Ganda <LL@li.org> | 
- | [mingw-gtkspell3]({{< ref "/f25/package/mingw-gtkspell3.md" >}}) | 10 | 16 | 62.5 | Ganda <LL@li.org> | 
- | [coreutils]({{< ref "/f25/package/coreutils.md" >}}) | 9870 | 20601 | 47.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [librfm]({{< ref "/f25/package/librfm.md" >}}) | 964 | 2397 | 40.2 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [lxsession]({{< ref "/f25/package/lxsession.md" >}}) | 295 | 755 | 39.1 | Deutsch <LL@li.org> | 
- | [libgnomeui]({{< ref "/f25/package/libgnomeui.md" >}}) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [gtk3]({{< ref "/f25/package/gtk3.md" >}}) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [mingw-gtk3]({{< ref "/f25/package/mingw-gtk3.md" >}}) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [pantheon-calculator]({{< ref "/f25/package/pantheon-calculator.md" >}}) | 5 | 52 | 9.6 | LANGUAGE <LL@li.org> | 
- | [findutils]({{< ref "/f25/package/findutils.md" >}}) | 103 | 2568 | 4.0 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [isomaster]({{< ref "/f25/package/isomaster.md" >}}) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
- | [asunder]({{< ref "/f25/package/asunder.md" >}}) | 8 | 480 | 1.7 | http://littlesvr.ca/ostd/ | 
- | [rodent]({{< ref "/f25/package/rodent.md" >}}) | 53 | 9634 | 0.6 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [sugar]({{< ref "/f25/package/sugar.md" >}}) | 4 | 1733 | 0.2 | LANGUAGE <LL@li.org> | 
- | [appcenter]({{< ref "/f25/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f25/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [maya-calendar]({{< ref "/f25/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f25/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f25/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f25/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f25/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f25/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f25/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f25/package/sugar-browse.md" >}}) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f25/package/sugar-toolkit-gtk3.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f25/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f25/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f25/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f25/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f25/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f25/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f25/package/vocal.md" >}}) | 0 | 377 | 0.0 | Ganda <lg@li.org> | 
+ | [gpicview](/f25/package/gpicview) | 236 | 236 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [libfm](/f25/package/libfm) | 1565 | 1565 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance](/f25/package/lxappearance) | 234 | 234 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxappearance-obconf](/f25/package/lxappearance-obconf) | 196 | 196 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxde-common](/f25/package/lxde-common) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f25/package/lxdm) | 47 | 47 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f25/package/lxinput) | 83 | 83 | 100.0 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxlauncher](/f25/package/lxlauncher) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmenu-data](/f25/package/lxmenu-data) | 97 | 97 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxmusic](/f25/package/lxmusic) | 203 | 203 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxrandr](/f25/package/lxrandr) | 167 | 167 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxshortcut](/f25/package/lxshortcut) | 43 | 43 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxtask](/f25/package/lxtask) | 130 | 130 | 100.0 | lg <kbirabwa@yahoo.co.uk> | 
+ | [pcmanfm](/f25/package/pcmanfm) | 1209 | 1210 | 99.9 | lg <kbirabwa@yahoo.co.uk> | 
+ | [tuxpaint](/f25/package/tuxpaint) | 1515 | 1591 | 95.2 | LANGUAGE <LL@li.org> | 
+ | [lxpanel](/f25/package/lxpanel) | 1283 | 1367 | 93.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [virtaal](/f25/package/virtaal) | 1422 | 1653 | 86.0 | LANGUAGE <LL@li.org> | 
+ | [lxterminal](/f25/package/lxterminal) | 179 | 247 | 72.5 | lg <kbirabwa@yahoo.co.uk> | 
+ | [gtkspell3](/f25/package/gtkspell3) | 10 | 16 | 62.5 | Ganda <LL@li.org> | 
+ | [mingw-gtkspell3](/f25/package/mingw-gtkspell3) | 10 | 16 | 62.5 | Ganda <LL@li.org> | 
+ | [coreutils](/f25/package/coreutils) | 9870 | 20601 | 47.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [librfm](/f25/package/librfm) | 964 | 2397 | 40.2 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [lxsession](/f25/package/lxsession) | 295 | 755 | 39.1 | Deutsch <LL@li.org> | 
+ | [libgnomeui](/f25/package/libgnomeui) | 332 | 1226 | 27.1 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [gtk3](/f25/package/gtk3) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [mingw-gtk3](/f25/package/mingw-gtk3) | 1889 | 12341 | 15.3 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [pantheon-calculator](/f25/package/pantheon-calculator) | 5 | 52 | 9.6 | LANGUAGE <LL@li.org> | 
+ | [findutils](/f25/package/findutils) | 103 | 2568 | 4.0 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [isomaster](/f25/package/isomaster) | 19 | 674 | 2.8 | http://littlesvr.ca/ostd/ | 
+ | [asunder](/f25/package/asunder) | 8 | 480 | 1.7 | http://littlesvr.ca/ostd/ | 
+ | [rodent](/f25/package/rodent) | 53 | 9634 | 0.6 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [sugar](/f25/package/sugar) | 4 | 1733 | 0.2 | LANGUAGE <LL@li.org> | 
+ | [appcenter](/f25/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f25/package/audience) | 0 | 106 | 0.0 |  | 
+ | [maya-calendar](/f25/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f25/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f25/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f25/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f25/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f25/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f25/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f25/package/sugar-browse) | 0 | 189 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f25/package/sugar-toolkit-gtk3) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f25/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f25/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f25/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f25/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f25/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f25/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f25/package/vocal) | 0 | 377 | 0.0 | Ganda <lg@li.org> | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package wastesedge (version 0.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f25/language/da.md" >}}) | 20074 | 20102 | 99.9 | /mnt/stockage/packages/f25/wastesedge/po/da.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 19922 | 20102 | 99.1 | /mnt/stockage/packages/f25/wastesedge/po/it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 19859 | 20102 | 98.8 | /mnt/stockage/packages/f25/wastesedge/po/nl.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 9484 | 20102 | 47.2 | /mnt/stockage/packages/f25/wastesedge/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 897 | 20102 | 4.5 | /mnt/stockage/packages/f25/wastesedge/po/fr.po | 
+ | [da](/f25/language/da) | 20074 | 20102 | 99.9 | /mnt/stockage/packages/f25/wastesedge/po/da.po | 
+ | [it](/f25/language/it) | 19922 | 20102 | 99.1 | /mnt/stockage/packages/f25/wastesedge/po/it.po | 
+ | [nl](/f25/language/nl) | 19859 | 20102 | 98.8 | /mnt/stockage/packages/f25/wastesedge/po/nl.po | 
+ | [es](/f25/language/es) | 9484 | 20102 | 47.2 | /mnt/stockage/packages/f25/wastesedge/po/es.po | 
+ | [fr](/f25/language/fr) | 897 | 20102 | 4.5 | /mnt/stockage/packages/f25/wastesedge/po/fr.po | 
 {.sortable}
 
 

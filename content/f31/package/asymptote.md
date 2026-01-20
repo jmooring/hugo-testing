@@ -18,7 +18,7 @@ The package asymptote (version 2.59):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [th]({{< ref "/f31/language/th.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f31/asymptote/GUI/locale/th/LC_MESSAGES/base.po | 
+ | [th](/f31/language/th) | 1 | 1 | 100.0 | /mnt/stockage/packages/f31/asymptote/GUI/locale/th/LC_MESSAGES/base.po | 
 {.sortable}
 
 

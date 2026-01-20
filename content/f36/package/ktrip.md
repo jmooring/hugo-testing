@@ -18,32 +18,32 @@ The package ktrip (version 23.01.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ca/ktrip.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ca@valencia/ktrip.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/de/ktrip.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/en_GB/ktrip.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/es/ktrip.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/fi/ktrip.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/fr/ktrip.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ia/ktrip.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/it/ktrip.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ka/ktrip.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ko/ktrip.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/nl/ktrip.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/nn/ktrip.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/pl/ktrip.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/pt/ktrip.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/pt_BR/ktrip.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/sl/ktrip.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/sv/ktrip.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/tr/ktrip.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/uk/ktrip.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 85 | 103 | 82.5 | /mnt/stockage/packages/f36/ktrip/po/et/ktrip.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 76 | 103 | 73.8 | /mnt/stockage/packages/f36/ktrip/po/cs/ktrip.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 18 | 103 | 17.5 | /mnt/stockage/packages/f36/ktrip/po/zh_TW/ktrip.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 12 | 103 | 11.7 | /mnt/stockage/packages/f36/ktrip/po/ru/ktrip.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 7 | 103 | 6.8 | /mnt/stockage/packages/f36/ktrip/po/sk/ktrip.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 3 | 103 | 2.9 | /mnt/stockage/packages/f36/ktrip/po/zh_CN/ktrip.po | 
+ | [ca](/f36/language/ca) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ca/ktrip.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ca@valencia/ktrip.po | 
+ | [de](/f36/language/de) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/de/ktrip.po | 
+ | [en_GB](/f36/language/en_GB) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/en_GB/ktrip.po | 
+ | [es](/f36/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/es/ktrip.po | 
+ | [fi](/f36/language/fi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/fi/ktrip.po | 
+ | [fr](/f36/language/fr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/fr/ktrip.po | 
+ | [ia](/f36/language/ia) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ia/ktrip.po | 
+ | [it](/f36/language/it) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/it/ktrip.po | 
+ | [ka](/f36/language/ka) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ka/ktrip.po | 
+ | [ko](/f36/language/ko) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/ko/ktrip.po | 
+ | [nl](/f36/language/nl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/nl/ktrip.po | 
+ | [nn](/f36/language/nn) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/nn/ktrip.po | 
+ | [pl](/f36/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/pl/ktrip.po | 
+ | [pt](/f36/language/pt) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/pt/ktrip.po | 
+ | [pt_BR](/f36/language/pt_BR) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/pt_BR/ktrip.po | 
+ | [sl](/f36/language/sl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/sl/ktrip.po | 
+ | [sv](/f36/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/sv/ktrip.po | 
+ | [tr](/f36/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/tr/ktrip.po | 
+ | [uk](/f36/language/uk) | 103 | 103 | 100.0 | /mnt/stockage/packages/f36/ktrip/po/uk/ktrip.po | 
+ | [et](/f36/language/et) | 85 | 103 | 82.5 | /mnt/stockage/packages/f36/ktrip/po/et/ktrip.po | 
+ | [cs](/f36/language/cs) | 76 | 103 | 73.8 | /mnt/stockage/packages/f36/ktrip/po/cs/ktrip.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 18 | 103 | 17.5 | /mnt/stockage/packages/f36/ktrip/po/zh_TW/ktrip.po | 
+ | [ru](/f36/language/ru) | 12 | 103 | 11.7 | /mnt/stockage/packages/f36/ktrip/po/ru/ktrip.po | 
+ | [sk](/f36/language/sk) | 7 | 103 | 6.8 | /mnt/stockage/packages/f36/ktrip/po/sk/ktrip.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 3 | 103 | 2.9 | /mnt/stockage/packages/f36/ktrip/po/zh_CN/ktrip.po | 
 {.sortable}
 
 

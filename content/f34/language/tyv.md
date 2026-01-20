@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f34/package/gnome-do.md" >}}) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
- | [terminator]({{< ref "/f34/package/terminator.md" >}}) | 9 | 1416 | 0.6 | Tuvinian <tyv@li.org> | 
- | [sugar-finance]({{< ref "/f34/package/sugar-finance.md" >}}) | 1 | 258 | 0.4 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f34/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f34/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-do](/f34/package/gnome-do) | 4 | 612 | 0.7 | Tuvinian <tyv@li.org> | 
+ | [terminator](/f34/package/terminator) | 9 | 1416 | 0.6 | Tuvinian <tyv@li.org> | 
+ | [sugar-finance](/f34/package/sugar-finance) | 1 | 258 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f34/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f34/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

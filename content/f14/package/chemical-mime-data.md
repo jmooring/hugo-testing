@@ -18,8 +18,8 @@ The package chemical-mime-data (version 0.1.94):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 279 | 320 | 87.2 | /mnt/stockage/packages/f14/chemical-mime-data/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 96 | 320 | 30.0 | /mnt/stockage/packages/f14/chemical-mime-data/po/fr.po | 
+ | [de](/f14/language/de) | 279 | 320 | 87.2 | /mnt/stockage/packages/f14/chemical-mime-data/po/de.po | 
+ | [fr](/f14/language/fr) | 96 | 320 | 30.0 | /mnt/stockage/packages/f14/chemical-mime-data/po/fr.po | 
 {.sortable}
 
 

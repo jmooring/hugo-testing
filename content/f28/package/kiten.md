@@ -18,53 +18,53 @@ The package kiten (version 18.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/bs/kiten.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/ca/kiten.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/ca@valencia/kiten.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/da/kiten.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/de/kiten.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/el/kiten.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/en_GB/kiten.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/es/kiten.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/et/kiten.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/fi/kiten.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/fr/kiten.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/gl/kiten.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/hu/kiten.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/it/kiten.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/kk/kiten.po | 
- | [km]({{< ref "/f28/language/km.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/km/kiten.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/lv/kiten.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/nb/kiten.po | 
- | [nds]({{< ref "/f28/language/nds.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/nds/kiten.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/nl/kiten.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/pl/kiten.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/pt/kiten.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/pt_BR/kiten.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/ru/kiten.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/sk/kiten.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/sl/kiten.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/sv/kiten.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/tr/kiten.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/uk/kiten.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/zh_CN/kiten.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/zh_TW/kiten.po | 
- | [ga]({{< ref "/f28/language/ga.md" >}}) | 471 | 641 | 73.5 | /mnt/stockage/packages/f28/kiten/po/ga/kiten.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 445 | 641 | 69.4 | /mnt/stockage/packages/f28/kiten/po/cs/kiten.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 412 | 641 | 64.3 | /mnt/stockage/packages/f28/kiten/po/lt/kiten.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 385 | 641 | 60.1 | /mnt/stockage/packages/f28/kiten/po/nn/kiten.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 371 | 641 | 57.9 | /mnt/stockage/packages/f28/kiten/po/eu/kiten.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 347 | 641 | 54.1 | /mnt/stockage/packages/f28/kiten/po/ro/kiten.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 327 | 641 | 51.0 | /mnt/stockage/packages/f28/kiten/po/ja/kiten.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 310 | 641 | 48.4 | /mnt/stockage/packages/f28/kiten/po/bg/kiten.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 296 | 641 | 46.2 | /mnt/stockage/packages/f28/kiten/po/eo/kiten.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 248 | 641 | 38.7 | /mnt/stockage/packages/f28/kiten/po/hi/kiten.po | 
- | [fa]({{< ref "/f28/language/fa.md" >}}) | 186 | 641 | 29.0 | /mnt/stockage/packages/f28/kiten/po/fa/kiten.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 111 | 641 | 17.3 | /mnt/stockage/packages/f28/kiten/po/is/kiten.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 76 | 641 | 11.9 | /mnt/stockage/packages/f28/kiten/po/ug/kiten.po | 
- | [mr]({{< ref "/f28/language/mr.md" >}}) | 27 | 641 | 4.2 | /mnt/stockage/packages/f28/kiten/po/mr/kiten.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 15 | 641 | 2.3 | /mnt/stockage/packages/f28/kiten/po/hr/kiten.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 0 | 641 | 0.0 | /mnt/stockage/packages/f28/kiten/po/ar/kiten.po | 
+ | [bs](/f28/language/bs) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/bs/kiten.po | 
+ | [ca](/f28/language/ca) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/ca/kiten.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/ca@valencia/kiten.po | 
+ | [da](/f28/language/da) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/da/kiten.po | 
+ | [de](/f28/language/de) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/de/kiten.po | 
+ | [el](/f28/language/el) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/el/kiten.po | 
+ | [en_GB](/f28/language/en_GB) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/en_GB/kiten.po | 
+ | [es](/f28/language/es) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/es/kiten.po | 
+ | [et](/f28/language/et) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/et/kiten.po | 
+ | [fi](/f28/language/fi) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/fi/kiten.po | 
+ | [fr](/f28/language/fr) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/fr/kiten.po | 
+ | [gl](/f28/language/gl) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/gl/kiten.po | 
+ | [hu](/f28/language/hu) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/hu/kiten.po | 
+ | [it](/f28/language/it) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/it/kiten.po | 
+ | [kk](/f28/language/kk) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/kk/kiten.po | 
+ | [km](/f28/language/km) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/km/kiten.po | 
+ | [lv](/f28/language/lv) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/lv/kiten.po | 
+ | [nb_NO](/f28/language/nb_NO) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/nb/kiten.po | 
+ | [nds](/f28/language/nds) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/nds/kiten.po | 
+ | [nl](/f28/language/nl) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/nl/kiten.po | 
+ | [pl](/f28/language/pl) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/pl/kiten.po | 
+ | [pt](/f28/language/pt) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/pt/kiten.po | 
+ | [pt_BR](/f28/language/pt_BR) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/pt_BR/kiten.po | 
+ | [ru](/f28/language/ru) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/ru/kiten.po | 
+ | [sk](/f28/language/sk) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/sk/kiten.po | 
+ | [sl](/f28/language/sl) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/sl/kiten.po | 
+ | [sv](/f28/language/sv) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/sv/kiten.po | 
+ | [tr](/f28/language/tr) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/tr/kiten.po | 
+ | [uk](/f28/language/uk) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/uk/kiten.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/zh_CN/kiten.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 641 | 641 | 100.0 | /mnt/stockage/packages/f28/kiten/po/zh_TW/kiten.po | 
+ | [ga](/f28/language/ga) | 471 | 641 | 73.5 | /mnt/stockage/packages/f28/kiten/po/ga/kiten.po | 
+ | [cs](/f28/language/cs) | 445 | 641 | 69.4 | /mnt/stockage/packages/f28/kiten/po/cs/kiten.po | 
+ | [lt](/f28/language/lt) | 412 | 641 | 64.3 | /mnt/stockage/packages/f28/kiten/po/lt/kiten.po | 
+ | [nn](/f28/language/nn) | 385 | 641 | 60.1 | /mnt/stockage/packages/f28/kiten/po/nn/kiten.po | 
+ | [eu](/f28/language/eu) | 371 | 641 | 57.9 | /mnt/stockage/packages/f28/kiten/po/eu/kiten.po | 
+ | [ro](/f28/language/ro) | 347 | 641 | 54.1 | /mnt/stockage/packages/f28/kiten/po/ro/kiten.po | 
+ | [ja](/f28/language/ja) | 327 | 641 | 51.0 | /mnt/stockage/packages/f28/kiten/po/ja/kiten.po | 
+ | [bg](/f28/language/bg) | 310 | 641 | 48.4 | /mnt/stockage/packages/f28/kiten/po/bg/kiten.po | 
+ | [eo](/f28/language/eo) | 296 | 641 | 46.2 | /mnt/stockage/packages/f28/kiten/po/eo/kiten.po | 
+ | [hi](/f28/language/hi) | 248 | 641 | 38.7 | /mnt/stockage/packages/f28/kiten/po/hi/kiten.po | 
+ | [fa](/f28/language/fa) | 186 | 641 | 29.0 | /mnt/stockage/packages/f28/kiten/po/fa/kiten.po | 
+ | [is](/f28/language/is) | 111 | 641 | 17.3 | /mnt/stockage/packages/f28/kiten/po/is/kiten.po | 
+ | [ug](/f28/language/ug) | 76 | 641 | 11.9 | /mnt/stockage/packages/f28/kiten/po/ug/kiten.po | 
+ | [mr](/f28/language/mr) | 27 | 641 | 4.2 | /mnt/stockage/packages/f28/kiten/po/mr/kiten.po | 
+ | [hr](/f28/language/hr) | 15 | 641 | 2.3 | /mnt/stockage/packages/f28/kiten/po/hr/kiten.po | 
+ | [ar](/f28/language/ar) | 0 | 641 | 0.0 | /mnt/stockage/packages/f28/kiten/po/ar/kiten.po | 
 {.sortable}
 
 

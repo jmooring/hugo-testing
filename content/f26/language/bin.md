@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wine-docs]({{< ref "/f26/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
- | [openerp-client]({{< ref "/f26/package/openerp-client.md" >}}) | 127 | 7729 | 1.6 | FR <i18n-info@tinyerp.org> | 
+ | [wine-docs](/f26/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
+ | [openerp-client](/f26/package/openerp-client) | 127 | 7729 | 1.6 | FR <i18n-info@tinyerp.org> | 
 {.sortable}
 
 

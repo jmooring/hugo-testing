@@ -18,13 +18,13 @@ The package nautilus-pastebin (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/nl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 66 | 73 | 90.4 | /mnt/stockage/packages/f11/nautilus-pastebin/po/ru.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 25 | 73 | 34.2 | /mnt/stockage/packages/f11/nautilus-pastebin/po/de.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 6 | 73 | 8.2 | /mnt/stockage/packages/f11/nautilus-pastebin/po/zh_CN.po | 
+ | [es](/f11/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/es.po | 
+ | [fr](/f11/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/fr.po | 
+ | [it](/f11/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/it.po | 
+ | [nl](/f11/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/nautilus-pastebin/po/nl.po | 
+ | [ru](/f11/language/ru) | 66 | 73 | 90.4 | /mnt/stockage/packages/f11/nautilus-pastebin/po/ru.po | 
+ | [de](/f11/language/de) | 25 | 73 | 34.2 | /mnt/stockage/packages/f11/nautilus-pastebin/po/de.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 6 | 73 | 8.2 | /mnt/stockage/packages/f11/nautilus-pastebin/po/zh_CN.po | 
 {.sortable}
 
 

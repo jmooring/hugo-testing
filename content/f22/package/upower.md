@@ -18,10 +18,10 @@ The package upower (version 0.99.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/upower/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f22/upower/po/it.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/upower/po/pl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f22/upower/po/sv.po | 
+ | [fr](/f22/language/fr) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/upower/po/fr.po | 
+ | [it](/f22/language/it) | 113 | 113 | 100.0 | /mnt/stockage/packages/f22/upower/po/it.po | 
+ | [pl](/f22/language/pl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f22/upower/po/pl.po | 
+ | [sv](/f22/language/sv) | 113 | 113 | 100.0 | /mnt/stockage/packages/f22/upower/po/sv.po | 
 {.sortable}
 
 

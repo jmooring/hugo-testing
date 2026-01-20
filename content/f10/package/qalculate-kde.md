@@ -18,9 +18,9 @@ The package qalculate-kde (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f10/qalculate-kde/po/nl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1385 | 1420 | 97.5 | /mnt/stockage/packages/f10/qalculate-kde/po/fr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1378 | 1420 | 97.0 | /mnt/stockage/packages/f10/qalculate-kde/po/sv.po | 
+ | [nl](/f10/language/nl) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f10/qalculate-kde/po/nl.po | 
+ | [fr](/f10/language/fr) | 1385 | 1420 | 97.5 | /mnt/stockage/packages/f10/qalculate-kde/po/fr.po | 
+ | [sv](/f10/language/sv) | 1378 | 1420 | 97.0 | /mnt/stockage/packages/f10/qalculate-kde/po/sv.po | 
 {.sortable}
 
 

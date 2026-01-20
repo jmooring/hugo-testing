@@ -18,11 +18,11 @@ The package nmap (version 6.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 3422 | 3498 | 97.8 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/fr.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1363 | 3498 | 39.0 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/de.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 1331 | 3498 | 38.1 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/hr.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1296 | 3498 | 37.0 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/ru.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 186 | 3498 | 5.3 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
+ | [fr](/f16/language/fr) | 3422 | 3498 | 97.8 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/fr.po | 
+ | [de](/f16/language/de) | 1363 | 3498 | 39.0 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/de.po | 
+ | [hr](/f16/language/hr) | 1331 | 3498 | 38.1 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/hr.po | 
+ | [ru](/f16/language/ru) | 1296 | 3498 | 37.0 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/ru.po | 
+ | [pt_BR](/f16/language/pt_BR) | 186 | 3498 | 5.3 | /mnt/stockage/packages/f16/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
 {.sortable}
 
 

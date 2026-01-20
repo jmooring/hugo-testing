@@ -18,7 +18,7 @@ The package xcftools (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 2103 | 2110 | 99.7 | /mnt/stockage/packages/f29/xcftools/manpo/da.po/mnt/stockage/packages/f29/xcftools/po/da.po | 
+ | [da](/f29/language/da) | 2103 | 2110 | 99.7 | /mnt/stockage/packages/f29/xcftools/manpo/da.po/mnt/stockage/packages/f29/xcftools/po/da.po | 
 {.sortable}
 
 

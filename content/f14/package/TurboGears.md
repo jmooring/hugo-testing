@@ -18,10 +18,10 @@ The package TurboGears (version 1.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/i18n/data/de/LC_MESSAGES/TurboGears.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/tests/locale/fi/LC_MESSAGES/messages.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/i18n/data/sl/LC_MESSAGES/TurboGears.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 9 | 0.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/tests/locale/en/LC_MESSAGES/messages.po | 
+ | [de](/f14/language/de) | 21 | 21 | 100.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/i18n/data/de/LC_MESSAGES/TurboGears.po | 
+ | [fi](/f14/language/fi) | 9 | 9 | 100.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/tests/locale/fi/LC_MESSAGES/messages.po | 
+ | [sl](/f14/language/sl) | 21 | 21 | 100.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/i18n/data/sl/LC_MESSAGES/TurboGears.po | 
+ | [en](/f14/language/en) | 0 | 9 | 0.0 | /mnt/stockage/packages/f14/TurboGears/turbogears/tests/locale/en/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

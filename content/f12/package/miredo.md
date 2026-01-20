@@ -18,9 +18,9 @@ The package miredo (version 1.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 583 | 583 | 100.0 | /mnt/stockage/packages/f12/miredo/po/fr.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 334 | 583 | 57.3 | /mnt/stockage/packages/f12/miredo/po/en_GB.po | 
- | [en]({{< ref "/f12/language/en.md" >}}) | 138 | 583 | 23.7 | /mnt/stockage/packages/f12/miredo/po/en.po | 
+ | [fr](/f12/language/fr) | 583 | 583 | 100.0 | /mnt/stockage/packages/f12/miredo/po/fr.po | 
+ | [en_GB](/f12/language/en_GB) | 334 | 583 | 57.3 | /mnt/stockage/packages/f12/miredo/po/en_GB.po | 
+ | [en](/f12/language/en) | 138 | 583 | 23.7 | /mnt/stockage/packages/f12/miredo/po/en.po | 
 {.sortable}
 
 

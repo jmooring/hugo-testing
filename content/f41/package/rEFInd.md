@@ -18,13 +18,13 @@ The package rEFInd (version 0.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/fr.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/nl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/ru.po | 
+ | [de](/f41/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/de.po | 
+ | [es](/f41/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/es.po | 
+ | [fr](/f41/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/fr.po | 
+ | [nl](/f41/language/nl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/nl.po | 
+ | [pt](/f41/language/pt) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/rEFInd/debian/po/ru.po | 
 {.sortable}
 
 

@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f30/package/squirrelmail.md" >}}) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
- | [uget]({{< ref "/f30/package/uget.md" >}}) | 591 | 1085 | 54.5 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
- | [modem-manager-gui]({{< ref "/f30/package/modem-manager-gui.md" >}}) | 827 | 3308 | 25.0 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
- | [calibre]({{< ref "/f30/package/calibre.md" >}}) | 479 | 159002 | 0.3 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
- | [fonts-tweak-tool]({{< ref "/f30/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Bengali (Bangladesh) | 
- | [policycoreutils]({{< ref "/f30/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
+ | [squirrelmail](/f30/package/squirrelmail) | 18710 | 18710 | 100.0 | Bengali <ankur-bd-l10n@googlegroups.com> | 
+ | [uget](/f30/package/uget) | 591 | 1085 | 54.5 | Bengali (Bangladesh) (http://www.transifex.com/uget/uget/language/bn_BD/) | 
+ | [modem-manager-gui](/f30/package/modem-manager-gui) | 827 | 3308 | 25.0 | Bengali (Bangladesh) (http://www.transifex.com/ethereal/modem-manager-gui/language/bn_BD/) | 
+ | [calibre](/f30/package/calibre) | 479 | 159002 | 0.3 | Bengali (Bangladesh) (http://www.transifex.com/calibre/calibre/language/bn_BD/) | 
+ | [fonts-tweak-tool](/f30/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Bengali (Bangladesh) | 
+ | [policycoreutils](/f30/package/policycoreutils) | 0 | 7678 | 0.0 | Bengali (Bangladesh) (http://www.transifex.com/projects/p/fedora/language/bn_BD/) | 
 {.sortable}
 
 

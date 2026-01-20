@@ -18,25 +18,25 @@ The package libgovirt (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/bs.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/cs.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/el.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/fr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/id.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/lt.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/oc.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/pl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/pt_BR.po/mnt/stockage/packages/f26/libgovirt/po/pt.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/ru.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/sr.po/mnt/stockage/packages/f26/libgovirt/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/sv.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/tr.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/zh_CN.po | 
+ | [bs](/f26/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/bs.po | 
+ | [cs](/f26/language/cs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/cs.po | 
+ | [de](/f26/language/de) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/de.po | 
+ | [el](/f26/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/el.po | 
+ | [es](/f26/language/es) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/es.po | 
+ | [eu](/f26/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/eu.po | 
+ | [fr](/f26/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/fr.po | 
+ | [hu](/f26/language/hu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/hu.po | 
+ | [id](/f26/language/id) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/id.po | 
+ | [lt](/f26/language/lt) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/lt.po | 
+ | [oc](/f26/language/oc) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/oc.po | 
+ | [pl](/f26/language/pl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/pl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 204 | 204 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/pt_BR.po/mnt/stockage/packages/f26/libgovirt/po/pt.po | 
+ | [ru](/f26/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/ru.po | 
+ | [sl](/f26/language/sl) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/sl.po | 
+ | [sr](/f26/language/sr) | 204 | 204 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/sr.po/mnt/stockage/packages/f26/libgovirt/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/sv.po | 
+ | [tr](/f26/language/tr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/tr.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 102 | 102 | 100.0 | /mnt/stockage/packages/f26/libgovirt/po/zh_CN.po | 
 {.sortable}
 
 

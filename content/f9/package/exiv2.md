@@ -18,12 +18,12 @@ The package exiv2 (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 11732 | 15742 | 74.5 | /mnt/stockage/packages/f9/exiv2/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 4763 | 15742 | 30.3 | /mnt/stockage/packages/f9/exiv2/po/fr.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 4035 | 15742 | 25.6 | /mnt/stockage/packages/f9/exiv2/po/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 3352 | 15742 | 21.3 | /mnt/stockage/packages/f9/exiv2/po/ru.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2221 | 15742 | 14.1 | /mnt/stockage/packages/f9/exiv2/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 40 | 15742 | 0.3 | /mnt/stockage/packages/f9/exiv2/po/fi.po | 
+ | [de](/f9/language/de) | 11732 | 15742 | 74.5 | /mnt/stockage/packages/f9/exiv2/po/de.po | 
+ | [fr](/f9/language/fr) | 4763 | 15742 | 30.3 | /mnt/stockage/packages/f9/exiv2/po/fr.po | 
+ | [pl](/f9/language/pl) | 4035 | 15742 | 25.6 | /mnt/stockage/packages/f9/exiv2/po/pl.po | 
+ | [ru](/f9/language/ru) | 3352 | 15742 | 21.3 | /mnt/stockage/packages/f9/exiv2/po/ru.po | 
+ | [es](/f9/language/es) | 2221 | 15742 | 14.1 | /mnt/stockage/packages/f9/exiv2/po/es.po | 
+ | [fi](/f9/language/fi) | 40 | 15742 | 0.3 | /mnt/stockage/packages/f9/exiv2/po/fi.po | 
 {.sortable}
 
 

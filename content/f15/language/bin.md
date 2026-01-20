@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [postgresql]({{< ref "/f15/package/postgresql.md" >}}) | 8931 | 8979 | 99.5 | Czech <kde-i18n-doc@kde.org> | 
- | [sepostgresql]({{< ref "/f15/package/sepostgresql.md" >}}) | 9284 | 12941 | 71.7 |  | 
- | [tinyerp]({{< ref "/f15/package/tinyerp.md" >}}) | 1416 | 2276 | 62.2 | FR <i18n-info@tinyerp.org> | 
- | [wine-docs]({{< ref "/f15/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
+ | [postgresql](/f15/package/postgresql) | 8931 | 8979 | 99.5 | Czech <kde-i18n-doc@kde.org> | 
+ | [sepostgresql](/f15/package/sepostgresql) | 9284 | 12941 | 71.7 |  | 
+ | [tinyerp](/f15/package/tinyerp) | 1416 | 2276 | 62.2 | FR <i18n-info@tinyerp.org> | 
+ | [wine-docs](/f15/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
 {.sortable}
 
 

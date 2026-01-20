@@ -18,77 +18,77 @@ The package blinken (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ar/blinken.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/bg/blinken.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ca/blinken.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ca@valencia/blinken.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/cs/blinken.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/da/blinken.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/de/blinken.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/el/blinken.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/en_GB/blinken.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/eo/blinken.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/es/blinken.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/eu/blinken.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/fi/blinken.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/fr/blinken.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/gl/blinken.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/he/blinken.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/hi/blinken.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/hu/blinken.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ia/blinken.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/is/blinken.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/it/blinken.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ka/blinken.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ko/blinken.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/lt/blinken.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/lv/blinken.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/nl/blinken.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/nn/blinken.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/pl/blinken.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/pt/blinken.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/pt_BR/blinken.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ro/blinken.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ru/blinken.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sa/blinken.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sk/blinken.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sl/blinken.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sv/blinken.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/tr/blinken.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/uk/blinken.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/zh_CN/blinken.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/zh_TW/blinken.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/bs/blinken.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/et/blinken.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/fa/blinken.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/ga/blinken.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/ja/blinken.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/kk/blinken.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/km/blinken.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/nb/blinken.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/nds/blinken.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/pa/blinken.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/ug/blinken.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/gu/blinken.po | 
- | [hne]({{< ref "/f43/language/hne.md" >}}) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/hne/blinken.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/hr/blinken.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/sq/blinken.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 118 | 134 | 88.1 | /mnt/stockage/packages/f43/blinken/po/ml/blinken.po | 
- | [csb]({{< ref "/f43/language/csb.md" >}}) | 116 | 134 | 86.6 | /mnt/stockage/packages/f43/blinken/po/csb/blinken.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 116 | 134 | 86.6 | /mnt/stockage/packages/f43/blinken/po/ne/blinken.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 109 | 134 | 81.3 | /mnt/stockage/packages/f43/blinken/po/be/blinken.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 104 | 134 | 77.6 | /mnt/stockage/packages/f43/blinken/po/si/blinken.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/bn/blinken.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/cy/blinken.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/mk/blinken.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/ms/blinken.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/vi/blinken.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 46 | 134 | 34.3 | /mnt/stockage/packages/f43/blinken/po/br/blinken.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 29 | 134 | 21.6 | /mnt/stockage/packages/f43/blinken/po/oc/blinken.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 27 | 134 | 20.1 | /mnt/stockage/packages/f43/blinken/po/mr/blinken.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 10 | 134 | 7.5 | /mnt/stockage/packages/f43/blinken/po/tg/blinken.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 4 | 134 | 3.0 | /mnt/stockage/packages/f43/blinken/po/ast/blinken.po | 
- | [se]({{< ref "/f43/language/se.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f43/blinken/po/se/blinken.po | 
+ | [ar](/f43/language/ar) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ar/blinken.po | 
+ | [bg](/f43/language/bg) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/bg/blinken.po | 
+ | [ca](/f43/language/ca) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ca/blinken.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ca@valencia/blinken.po | 
+ | [cs](/f43/language/cs) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/cs/blinken.po | 
+ | [da](/f43/language/da) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/da/blinken.po | 
+ | [de](/f43/language/de) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/de/blinken.po | 
+ | [el](/f43/language/el) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/el/blinken.po | 
+ | [en_GB](/f43/language/en_GB) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/en_GB/blinken.po | 
+ | [eo](/f43/language/eo) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/eo/blinken.po | 
+ | [es](/f43/language/es) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/es/blinken.po | 
+ | [eu](/f43/language/eu) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/eu/blinken.po | 
+ | [fi](/f43/language/fi) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/fi/blinken.po | 
+ | [fr](/f43/language/fr) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/fr/blinken.po | 
+ | [gl](/f43/language/gl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/gl/blinken.po | 
+ | [he](/f43/language/he) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/he/blinken.po | 
+ | [hi](/f43/language/hi) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/hi/blinken.po | 
+ | [hu](/f43/language/hu) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/hu/blinken.po | 
+ | [ia](/f43/language/ia) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ia/blinken.po | 
+ | [is](/f43/language/is) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/is/blinken.po | 
+ | [it](/f43/language/it) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/it/blinken.po | 
+ | [ka](/f43/language/ka) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ka/blinken.po | 
+ | [ko](/f43/language/ko) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ko/blinken.po | 
+ | [lt](/f43/language/lt) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/lt/blinken.po | 
+ | [lv](/f43/language/lv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/lv/blinken.po | 
+ | [nl](/f43/language/nl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/nl/blinken.po | 
+ | [nn](/f43/language/nn) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/nn/blinken.po | 
+ | [pl](/f43/language/pl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/pl/blinken.po | 
+ | [pt](/f43/language/pt) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/pt/blinken.po | 
+ | [pt_BR](/f43/language/pt_BR) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/pt_BR/blinken.po | 
+ | [ro](/f43/language/ro) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ro/blinken.po | 
+ | [ru](/f43/language/ru) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/ru/blinken.po | 
+ | [sa](/f43/language/sa) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sa/blinken.po | 
+ | [sk](/f43/language/sk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sk/blinken.po | 
+ | [sl](/f43/language/sl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sl/blinken.po | 
+ | [sv](/f43/language/sv) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/sv/blinken.po | 
+ | [tr](/f43/language/tr) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/tr/blinken.po | 
+ | [uk](/f43/language/uk) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/uk/blinken.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/zh_CN/blinken.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 134 | 134 | 100.0 | /mnt/stockage/packages/f43/blinken/po/zh_TW/blinken.po | 
+ | [bs](/f43/language/bs) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/bs/blinken.po | 
+ | [et](/f43/language/et) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/et/blinken.po | 
+ | [fa](/f43/language/fa) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/fa/blinken.po | 
+ | [ga](/f43/language/ga) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/ga/blinken.po | 
+ | [ja](/f43/language/ja) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/ja/blinken.po | 
+ | [kk](/f43/language/kk) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/kk/blinken.po | 
+ | [km](/f43/language/km) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/km/blinken.po | 
+ | [nb_NO](/f43/language/nb_NO) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/nb/blinken.po | 
+ | [nds](/f43/language/nds) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/nds/blinken.po | 
+ | [pa](/f43/language/pa) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/pa/blinken.po | 
+ | [ug](/f43/language/ug) | 126 | 134 | 94.0 | /mnt/stockage/packages/f43/blinken/po/ug/blinken.po | 
+ | [gu](/f43/language/gu) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/gu/blinken.po | 
+ | [hne](/f43/language/hne) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/hne/blinken.po | 
+ | [hr](/f43/language/hr) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/hr/blinken.po | 
+ | [sq](/f43/language/sq) | 121 | 134 | 90.3 | /mnt/stockage/packages/f43/blinken/po/sq/blinken.po | 
+ | [ml](/f43/language/ml) | 118 | 134 | 88.1 | /mnt/stockage/packages/f43/blinken/po/ml/blinken.po | 
+ | [csb](/f43/language/csb) | 116 | 134 | 86.6 | /mnt/stockage/packages/f43/blinken/po/csb/blinken.po | 
+ | [ne](/f43/language/ne) | 116 | 134 | 86.6 | /mnt/stockage/packages/f43/blinken/po/ne/blinken.po | 
+ | [be](/f43/language/be) | 109 | 134 | 81.3 | /mnt/stockage/packages/f43/blinken/po/be/blinken.po | 
+ | [si](/f43/language/si) | 104 | 134 | 77.6 | /mnt/stockage/packages/f43/blinken/po/si/blinken.po | 
+ | [bn](/f43/language/bn) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/bn/blinken.po | 
+ | [cy](/f43/language/cy) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/cy/blinken.po | 
+ | [mk](/f43/language/mk) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/mk/blinken.po | 
+ | [ms](/f43/language/ms) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/ms/blinken.po | 
+ | [vi](/f43/language/vi) | 94 | 134 | 70.1 | /mnt/stockage/packages/f43/blinken/po/vi/blinken.po | 
+ | [br](/f43/language/br) | 46 | 134 | 34.3 | /mnt/stockage/packages/f43/blinken/po/br/blinken.po | 
+ | [oc](/f43/language/oc) | 29 | 134 | 21.6 | /mnt/stockage/packages/f43/blinken/po/oc/blinken.po | 
+ | [mr](/f43/language/mr) | 27 | 134 | 20.1 | /mnt/stockage/packages/f43/blinken/po/mr/blinken.po | 
+ | [tg](/f43/language/tg) | 10 | 134 | 7.5 | /mnt/stockage/packages/f43/blinken/po/tg/blinken.po | 
+ | [ast](/f43/language/ast) | 4 | 134 | 3.0 | /mnt/stockage/packages/f43/blinken/po/ast/blinken.po | 
+ | [se](/f43/language/se) | 0 | 134 | 0.0 | /mnt/stockage/packages/f43/blinken/po/se/blinken.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package kte-collaborative (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/hu/kte-collaborative.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/nl/kte-collaborative.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/pt/kte-collaborative.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/pt_BR/kte-collaborative.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/sv/kte-collaborative.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/uk/kte-collaborative.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 432 | 711 | 60.8 | /mnt/stockage/packages/f21/kte-collaborative/po/de/kte-collaborative.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 232 | 711 | 32.6 | /mnt/stockage/packages/f21/kte-collaborative/po/pl/kte-collaborative.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 187 | 711 | 26.3 | /mnt/stockage/packages/f21/kte-collaborative/po/sk/kte-collaborative.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 180 | 711 | 25.3 | /mnt/stockage/packages/f21/kte-collaborative/po/fr/kte-collaborative.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 83 | 711 | 11.7 | /mnt/stockage/packages/f21/kte-collaborative/po/cs/kte-collaborative.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 23 | 711 | 3.2 | /mnt/stockage/packages/f21/kte-collaborative/po/ug/kte-collaborative.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 16 | 711 | 2.3 | /mnt/stockage/packages/f21/kte-collaborative/po/bs/kte-collaborative.po | 
+ | [hu](/f21/language/hu) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/hu/kte-collaborative.po | 
+ | [nl](/f21/language/nl) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/nl/kte-collaborative.po | 
+ | [pt](/f21/language/pt) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/pt/kte-collaborative.po | 
+ | [pt_BR](/f21/language/pt_BR) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/pt_BR/kte-collaborative.po | 
+ | [sv](/f21/language/sv) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/sv/kte-collaborative.po | 
+ | [uk](/f21/language/uk) | 711 | 711 | 100.0 | /mnt/stockage/packages/f21/kte-collaborative/po/uk/kte-collaborative.po | 
+ | [de](/f21/language/de) | 432 | 711 | 60.8 | /mnt/stockage/packages/f21/kte-collaborative/po/de/kte-collaborative.po | 
+ | [pl](/f21/language/pl) | 232 | 711 | 32.6 | /mnt/stockage/packages/f21/kte-collaborative/po/pl/kte-collaborative.po | 
+ | [sk](/f21/language/sk) | 187 | 711 | 26.3 | /mnt/stockage/packages/f21/kte-collaborative/po/sk/kte-collaborative.po | 
+ | [fr](/f21/language/fr) | 180 | 711 | 25.3 | /mnt/stockage/packages/f21/kte-collaborative/po/fr/kte-collaborative.po | 
+ | [cs](/f21/language/cs) | 83 | 711 | 11.7 | /mnt/stockage/packages/f21/kte-collaborative/po/cs/kte-collaborative.po | 
+ | [ug](/f21/language/ug) | 23 | 711 | 3.2 | /mnt/stockage/packages/f21/kte-collaborative/po/ug/kte-collaborative.po | 
+ | [bs](/f21/language/bs) | 16 | 711 | 2.3 | /mnt/stockage/packages/f21/kte-collaborative/po/bs/kte-collaborative.po | 
 {.sortable}
 
 

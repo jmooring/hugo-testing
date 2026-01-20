@@ -18,8 +18,8 @@ The package fldigi (version 3.11.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2417 | 2483 | 97.3 | /mnt/stockage/packages/f10/fldigi/po/cs.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 450 | 2483 | 18.1 | /mnt/stockage/packages/f10/fldigi/po/fr.po | 
+ | [cs](/f10/language/cs) | 2417 | 2483 | 97.3 | /mnt/stockage/packages/f10/fldigi/po/cs.po | 
+ | [fr](/f10/language/fr) | 450 | 2483 | 18.1 | /mnt/stockage/packages/f10/fldigi/po/fr.po | 
 {.sortable}
 
 

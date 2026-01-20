@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f29/package/supertux.md" >}}) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
- | [gala]({{< ref "/f29/package/gala.md" >}}) | 24 | 694 | 3.5 | Lojban <jbo@li.org> | 
- | [minetest]({{< ref "/f29/package/minetest.md" >}}) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
- | [appcenter]({{< ref "/f29/package/appcenter.md" >}}) | 0 | 779 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-files]({{< ref "/f29/package/elementary-files.md" >}}) | 0 | 2403 | 0.0 | Lojban <jbo@li.org> | 
- | [elementary-photos]({{< ref "/f29/package/elementary-photos.md" >}}) | 0 | 3775 | 0.0 | none | 
- | [switchboard]({{< ref "/f29/package/switchboard.md" >}}) | 0 | 61 | 0.0 | none | 
+ | [supertux](/f29/package/supertux) | 229 | 2980 | 7.7 | Lojban (http://www.transifex.com/arctic-games/supertux/language/jbo/) | 
+ | [gala](/f29/package/gala) | 24 | 694 | 3.5 | Lojban <jbo@li.org> | 
+ | [minetest](/f29/package/minetest) | 174 | 6406 | 2.7 | Lojban <https://hosted.weblate.org/projects/minetest/minetest/jbo/> | 
+ | [appcenter](/f29/package/appcenter) | 0 | 779 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-files](/f29/package/elementary-files) | 0 | 2403 | 0.0 | Lojban <jbo@li.org> | 
+ | [elementary-photos](/f29/package/elementary-photos) | 0 | 3775 | 0.0 | none | 
+ | [switchboard](/f29/package/switchboard) | 0 | 61 | 0.0 | none | 
 {.sortable}
 
 

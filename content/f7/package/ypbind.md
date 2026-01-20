@@ -18,7 +18,7 @@ The package ypbind (version 1.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 343 | 405 | 84.7 | /mnt/stockage/packages/f7/ypbind/po/de.po | 
+ | [de](/f7/language/de) | 343 | 405 | 84.7 | /mnt/stockage/packages/f7/ypbind/po/de.po | 
 {.sortable}
 
 

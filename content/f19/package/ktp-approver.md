@@ -18,47 +18,47 @@ The package ktp-approver (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/bs/kded_ktp_approver.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ca/kded_ktp_approver.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ca@valencia/kded_ktp_approver.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/cs/kded_ktp_approver.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/da/kded_ktp_approver.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/de/kded_ktp_approver.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/el/kded_ktp_approver.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/es/kded_ktp_approver.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/fi/kded_ktp_approver.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/fr/kded_ktp_approver.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/gl/kded_ktp_approver.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/hu/kded_ktp_approver.po | 
- | [ia]({{< ref "/f19/language/ia.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ia/kded_ktp_approver.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/it/kded_ktp_approver.po | 
- | [kk]({{< ref "/f19/language/kk.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/kk/kded_ktp_approver.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ko/kded_ktp_approver.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/nb/kded_ktp_approver.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/nl/kded_ktp_approver.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/pl/kded_ktp_approver.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/pt/kded_ktp_approver.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/pt_BR/kded_ktp_approver.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ru/kded_ktp_approver.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sk/kded_ktp_approver.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sl/kded_ktp_approver.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr/kded_ktp_approver.po | 
- | [sr@ijekavian]({{< ref "/f19/language/sr@ijekavian.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr@ijekavian/kded_ktp_approver.po | 
- | [sr@ijekavian_Latn]({{< ref "/f19/language/sr@ijekavian_Latn.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr@ijekavianlatin/kded_ktp_approver.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr@latin/kded_ktp_approver.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sv/kded_ktp_approver.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/tr/kded_ktp_approver.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/uk/kded_ktp_approver.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/zh_CN/kded_ktp_approver.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/zh_TW/kded_ktp_approver.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 70 | 71 | 98.6 | /mnt/stockage/packages/f19/ktp-approver/po/ro/kded_ktp_approver.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 58 | 71 | 81.7 | /mnt/stockage/packages/f19/ktp-approver/po/lt/kded_ktp_approver.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 53 | 71 | 74.6 | /mnt/stockage/packages/f19/ktp-approver/po/et/kded_ktp_approver.po | 
- | [km]({{< ref "/f19/language/km.md" >}}) | 53 | 71 | 74.6 | /mnt/stockage/packages/f19/ktp-approver/po/km/kded_ktp_approver.po | 
- | [nds]({{< ref "/f19/language/nds.md" >}}) | 13 | 71 | 18.3 | /mnt/stockage/packages/f19/ktp-approver/po/nds/kded_ktp_approver.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 12 | 71 | 16.9 | /mnt/stockage/packages/f19/ktp-approver/po/ga/kded_ktp_approver.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 10 | 71 | 14.1 | /mnt/stockage/packages/f19/ktp-approver/po/mr/kded_ktp_approver.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 71 | 0.0 | /mnt/stockage/packages/f19/ktp-approver/po/ja/kded_ktp_approver.po | 
+ | [bs](/f19/language/bs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/bs/kded_ktp_approver.po | 
+ | [ca](/f19/language/ca) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ca/kded_ktp_approver.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ca@valencia/kded_ktp_approver.po | 
+ | [cs](/f19/language/cs) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/cs/kded_ktp_approver.po | 
+ | [da](/f19/language/da) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/da/kded_ktp_approver.po | 
+ | [de](/f19/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/de/kded_ktp_approver.po | 
+ | [el](/f19/language/el) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/el/kded_ktp_approver.po | 
+ | [es](/f19/language/es) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/es/kded_ktp_approver.po | 
+ | [fi](/f19/language/fi) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/fi/kded_ktp_approver.po | 
+ | [fr](/f19/language/fr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/fr/kded_ktp_approver.po | 
+ | [gl](/f19/language/gl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/gl/kded_ktp_approver.po | 
+ | [hu](/f19/language/hu) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/hu/kded_ktp_approver.po | 
+ | [ia](/f19/language/ia) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ia/kded_ktp_approver.po | 
+ | [it](/f19/language/it) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/it/kded_ktp_approver.po | 
+ | [kk](/f19/language/kk) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/kk/kded_ktp_approver.po | 
+ | [ko](/f19/language/ko) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ko/kded_ktp_approver.po | 
+ | [nb_NO](/f19/language/nb_NO) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/nb/kded_ktp_approver.po | 
+ | [nl](/f19/language/nl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/nl/kded_ktp_approver.po | 
+ | [pl](/f19/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/pl/kded_ktp_approver.po | 
+ | [pt](/f19/language/pt) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/pt/kded_ktp_approver.po | 
+ | [pt_BR](/f19/language/pt_BR) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/pt_BR/kded_ktp_approver.po | 
+ | [ru](/f19/language/ru) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/ru/kded_ktp_approver.po | 
+ | [sk](/f19/language/sk) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sk/kded_ktp_approver.po | 
+ | [sl](/f19/language/sl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sl/kded_ktp_approver.po | 
+ | [sr](/f19/language/sr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr/kded_ktp_approver.po | 
+ | [sr@ijekavian](/f19/language/sr@ijekavian) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr@ijekavian/kded_ktp_approver.po | 
+ | [sr@ijekavian_Latn](/f19/language/sr@ijekavian_Latn) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr@ijekavianlatin/kded_ktp_approver.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sr@latin/kded_ktp_approver.po | 
+ | [sv](/f19/language/sv) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/sv/kded_ktp_approver.po | 
+ | [tr](/f19/language/tr) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/tr/kded_ktp_approver.po | 
+ | [uk](/f19/language/uk) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/uk/kded_ktp_approver.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/zh_CN/kded_ktp_approver.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 71 | 71 | 100.0 | /mnt/stockage/packages/f19/ktp-approver/po/zh_TW/kded_ktp_approver.po | 
+ | [ro](/f19/language/ro) | 70 | 71 | 98.6 | /mnt/stockage/packages/f19/ktp-approver/po/ro/kded_ktp_approver.po | 
+ | [lt](/f19/language/lt) | 58 | 71 | 81.7 | /mnt/stockage/packages/f19/ktp-approver/po/lt/kded_ktp_approver.po | 
+ | [et](/f19/language/et) | 53 | 71 | 74.6 | /mnt/stockage/packages/f19/ktp-approver/po/et/kded_ktp_approver.po | 
+ | [km](/f19/language/km) | 53 | 71 | 74.6 | /mnt/stockage/packages/f19/ktp-approver/po/km/kded_ktp_approver.po | 
+ | [nds](/f19/language/nds) | 13 | 71 | 18.3 | /mnt/stockage/packages/f19/ktp-approver/po/nds/kded_ktp_approver.po | 
+ | [ga](/f19/language/ga) | 12 | 71 | 16.9 | /mnt/stockage/packages/f19/ktp-approver/po/ga/kded_ktp_approver.po | 
+ | [mr](/f19/language/mr) | 10 | 71 | 14.1 | /mnt/stockage/packages/f19/ktp-approver/po/mr/kded_ktp_approver.po | 
+ | [ja](/f19/language/ja) | 0 | 71 | 0.0 | /mnt/stockage/packages/f19/ktp-approver/po/ja/kded_ktp_approver.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package watchdog (version 5.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f40/language/da.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/nl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/ru.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/cs.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/fi.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/gl.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/sv.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/vi.po | 
+ | [da](/f40/language/da) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/da.po | 
+ | [de](/f40/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/de.po | 
+ | [fr](/f40/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/fr.po | 
+ | [it](/f40/language/it) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/it.po | 
+ | [ja](/f40/language/ja) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/ja.po | 
+ | [nl](/f40/language/nl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/nl.po | 
+ | [pt](/f40/language/pt) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f40/watchdog/debian/po/ru.po | 
+ | [cs](/f40/language/cs) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/cs.po | 
+ | [es](/f40/language/es) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/es.po | 
+ | [fi](/f40/language/fi) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/fi.po | 
+ | [gl](/f40/language/gl) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/gl.po | 
+ | [sv](/f40/language/sv) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/sv.po | 
+ | [vi](/f40/language/vi) | 97 | 125 | 77.6 | /mnt/stockage/packages/f40/watchdog/debian/po/vi.po | 
 {.sortable}
 
 

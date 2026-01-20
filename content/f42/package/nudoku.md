@@ -18,13 +18,13 @@ The package nudoku (version 5.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 179 | 185 | 96.8 | /mnt/stockage/packages/f42/nudoku/po/uk.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 124 | 185 | 67.0 | /mnt/stockage/packages/f42/nudoku/po/es.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 124 | 185 | 67.0 | /mnt/stockage/packages/f42/nudoku/po/ja.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 124 | 185 | 67.0 | /mnt/stockage/packages/f42/nudoku/po/tr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 93 | 185 | 50.3 | /mnt/stockage/packages/f42/nudoku/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 93 | 185 | 50.3 | /mnt/stockage/packages/f42/nudoku/po/fr.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 90 | 185 | 48.6 | /mnt/stockage/packages/f42/nudoku/po/ru.po | 
+ | [uk](/f42/language/uk) | 179 | 185 | 96.8 | /mnt/stockage/packages/f42/nudoku/po/uk.po | 
+ | [es](/f42/language/es) | 124 | 185 | 67.0 | /mnt/stockage/packages/f42/nudoku/po/es.po | 
+ | [ja](/f42/language/ja) | 124 | 185 | 67.0 | /mnt/stockage/packages/f42/nudoku/po/ja.po | 
+ | [tr](/f42/language/tr) | 124 | 185 | 67.0 | /mnt/stockage/packages/f42/nudoku/po/tr.po | 
+ | [de](/f42/language/de) | 93 | 185 | 50.3 | /mnt/stockage/packages/f42/nudoku/po/de.po | 
+ | [fr](/f42/language/fr) | 93 | 185 | 50.3 | /mnt/stockage/packages/f42/nudoku/po/fr.po | 
+ | [ru](/f42/language/ru) | 90 | 185 | 48.6 | /mnt/stockage/packages/f42/nudoku/po/ru.po | 
 {.sortable}
 
 

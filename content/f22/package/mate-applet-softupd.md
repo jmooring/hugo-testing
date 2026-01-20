@@ -18,11 +18,11 @@ The package mate-applet-softupd (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/bg_BG.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/en_GB.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/en_US.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/fr_FR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/ru_RU.po | 
+ | [bg](/f22/language/bg) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/bg_BG.po | 
+ | [en_GB](/f22/language/en_GB) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/en_GB.po | 
+ | [en_US](/f22/language/en_US) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/en_US.po | 
+ | [fr](/f22/language/fr) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/fr_FR.po | 
+ | [ru](/f22/language/ru) | 37 | 40 | 92.5 | /mnt/stockage/packages/f22/mate-applet-softupd/po/ru_RU.po | 
 {.sortable}
 
 

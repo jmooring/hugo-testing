@@ -18,15 +18,15 @@ The package fldigi (version 4.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 7973 | 8425 | 94.6 | /mnt/stockage/packages/f43/fldigi/po/ca.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 7867 | 8425 | 93.4 | /mnt/stockage/packages/f43/fldigi/po/pl.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 6997 | 8425 | 83.1 | /mnt/stockage/packages/f43/fldigi/po/nl.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 5638 | 8425 | 66.9 | /mnt/stockage/packages/f43/fldigi/po/it.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 4891 | 8425 | 58.1 | /mnt/stockage/packages/f43/fldigi/po/ru.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 4403 | 8425 | 52.3 | /mnt/stockage/packages/f43/fldigi/po/el.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 4322 | 8425 | 51.3 | /mnt/stockage/packages/f43/fldigi/po/es.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 3199 | 8425 | 38.0 | /mnt/stockage/packages/f43/fldigi/po/de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1116 | 8425 | 13.2 | /mnt/stockage/packages/f43/fldigi/po/fr.po | 
+ | [ca](/f43/language/ca) | 7973 | 8425 | 94.6 | /mnt/stockage/packages/f43/fldigi/po/ca.po | 
+ | [pl](/f43/language/pl) | 7867 | 8425 | 93.4 | /mnt/stockage/packages/f43/fldigi/po/pl.po | 
+ | [nl](/f43/language/nl) | 6997 | 8425 | 83.1 | /mnt/stockage/packages/f43/fldigi/po/nl.po | 
+ | [it](/f43/language/it) | 5638 | 8425 | 66.9 | /mnt/stockage/packages/f43/fldigi/po/it.po | 
+ | [ru](/f43/language/ru) | 4891 | 8425 | 58.1 | /mnt/stockage/packages/f43/fldigi/po/ru.po | 
+ | [el](/f43/language/el) | 4403 | 8425 | 52.3 | /mnt/stockage/packages/f43/fldigi/po/el.po | 
+ | [es](/f43/language/es) | 4322 | 8425 | 51.3 | /mnt/stockage/packages/f43/fldigi/po/es.po | 
+ | [de](/f43/language/de) | 3199 | 8425 | 38.0 | /mnt/stockage/packages/f43/fldigi/po/de.po | 
+ | [fr](/f43/language/fr) | 1116 | 8425 | 13.2 | /mnt/stockage/packages/f43/fldigi/po/fr.po | 
 {.sortable}
 
 

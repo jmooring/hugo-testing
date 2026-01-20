@@ -18,16 +18,16 @@ The package gxine (version 0.5.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 2561 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/de.po/mnt/stockage/packages/f8/gxine/po/de.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 2561 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/sv.po/mnt/stockage/packages/f8/gxine/po/sv.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 2561 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/zh_CN.po/mnt/stockage/packages/f8/gxine/po/zh_CN.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 2560 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/ru.po/mnt/stockage/packages/f8/gxine/po/ru.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 2465 | 2592 | 95.1 | /mnt/stockage/packages/f8/gxine/misc/po/cs.po/mnt/stockage/packages/f8/gxine/po/cs.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 2331 | 2592 | 89.9 | /mnt/stockage/packages/f8/gxine/misc/po/uk.po/mnt/stockage/packages/f8/gxine/po/uk.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 2209 | 2592 | 85.2 | /mnt/stockage/packages/f8/gxine/misc/po/it.po/mnt/stockage/packages/f8/gxine/po/it.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 2181 | 2592 | 84.1 | /mnt/stockage/packages/f8/gxine/misc/po/fr.po/mnt/stockage/packages/f8/gxine/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1818 | 2592 | 70.1 | /mnt/stockage/packages/f8/gxine/misc/po/pl.po/mnt/stockage/packages/f8/gxine/po/pl.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1373 | 2592 | 53.0 | /mnt/stockage/packages/f8/gxine/misc/po/ja.po/mnt/stockage/packages/f8/gxine/po/ja.po | 
+ | [de](/f8/language/de) | 2561 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/de.po/mnt/stockage/packages/f8/gxine/po/de.po | 
+ | [sv](/f8/language/sv) | 2561 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/sv.po/mnt/stockage/packages/f8/gxine/po/sv.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 2561 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/zh_CN.po/mnt/stockage/packages/f8/gxine/po/zh_CN.po | 
+ | [ru](/f8/language/ru) | 2560 | 2592 | 98.8 | /mnt/stockage/packages/f8/gxine/misc/po/ru.po/mnt/stockage/packages/f8/gxine/po/ru.po | 
+ | [cs](/f8/language/cs) | 2465 | 2592 | 95.1 | /mnt/stockage/packages/f8/gxine/misc/po/cs.po/mnt/stockage/packages/f8/gxine/po/cs.po | 
+ | [uk](/f8/language/uk) | 2331 | 2592 | 89.9 | /mnt/stockage/packages/f8/gxine/misc/po/uk.po/mnt/stockage/packages/f8/gxine/po/uk.po | 
+ | [it](/f8/language/it) | 2209 | 2592 | 85.2 | /mnt/stockage/packages/f8/gxine/misc/po/it.po/mnt/stockage/packages/f8/gxine/po/it.po | 
+ | [fr](/f8/language/fr) | 2181 | 2592 | 84.1 | /mnt/stockage/packages/f8/gxine/misc/po/fr.po/mnt/stockage/packages/f8/gxine/po/fr.po | 
+ | [pl](/f8/language/pl) | 1818 | 2592 | 70.1 | /mnt/stockage/packages/f8/gxine/misc/po/pl.po/mnt/stockage/packages/f8/gxine/po/pl.po | 
+ | [ja](/f8/language/ja) | 1373 | 2592 | 53.0 | /mnt/stockage/packages/f8/gxine/misc/po/ja.po/mnt/stockage/packages/f8/gxine/po/ja.po | 
 {.sortable}
 
 

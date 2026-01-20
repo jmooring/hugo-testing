@@ -18,83 +18,83 @@ The package gok (version 2.30.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f15/language/as.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/as.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/bg.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/bn.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/bn_IN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ca.po | 
- | [ca@valencia]({{< ref "/f15/language/ca@valencia.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ca@valencia.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/cs.po | 
- | [cy]({{< ref "/f15/language/cy.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f15/gok/po/cy.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/de.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/dz.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/el.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/en_CA.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/gl.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/gu.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/hi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 1856 | 1856 | 100.0 | /mnt/stockage/packages/f15/gok/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ja.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/kn.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ko.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/lt.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f15/gok/po/lv.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f15/gok/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/ml.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/mr.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/nb.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/ne.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/nl.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/nn.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/or.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sl.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f15/gok/po/sq.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sr@latin.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ta.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/te.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 1956 | 1956 | 100.0 | /mnt/stockage/packages/f15/gok/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/zh_HK.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 1913 | 1915 | 99.9 | /mnt/stockage/packages/f15/gok/po/pa.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 1793 | 1915 | 93.6 | /mnt/stockage/packages/f15/gok/po/ar.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 1781 | 1915 | 93.0 | /mnt/stockage/packages/f15/gok/po/th.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 1639 | 1873 | 87.5 | /mnt/stockage/packages/f15/gok/po/fa.po | 
- | [mai]({{< ref "/f15/language/mai.md" >}}) | 1529 | 1960 | 78.0 | /mnt/stockage/packages/f15/gok/po/mai.po | 
- | [az]({{< ref "/f15/language/az.md" >}}) | 1347 | 1784 | 75.5 | /mnt/stockage/packages/f15/gok/po/az.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 1313 | 1784 | 73.6 | /mnt/stockage/packages/f15/gok/po/hr.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 1127 | 1784 | 63.2 | /mnt/stockage/packages/f15/gok/po/be.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 1096 | 1784 | 61.4 | /mnt/stockage/packages/f15/gok/po/mn.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 1085 | 1942 | 55.9 | /mnt/stockage/packages/f15/gok/po/sk.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 980 | 1915 | 51.2 | /mnt/stockage/packages/f15/gok/po/en@shaw.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 888 | 1950 | 45.5 | /mnt/stockage/packages/f15/gok/po/he.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 813 | 1942 | 41.9 | /mnt/stockage/packages/f15/gok/po/et.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 415 | 1784 | 23.3 | /mnt/stockage/packages/f15/gok/po/ms.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 244 | 1866 | 13.1 | /mnt/stockage/packages/f15/gok/po/ka.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 248 | 1937 | 12.8 | /mnt/stockage/packages/f15/gok/po/ga.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 119 | 1942 | 6.1 | /mnt/stockage/packages/f15/gok/po/oc.po | 
- | [am]({{< ref "/f15/language/am.md" >}}) | 108 | 1784 | 6.1 | /mnt/stockage/packages/f15/gok/po/am.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 88 | 1873 | 4.7 | /mnt/stockage/packages/f15/gok/po/rw.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 62 | 1942 | 3.2 | /mnt/stockage/packages/f15/gok/po/si.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 50 | 1856 | 2.7 | /mnt/stockage/packages/f15/gok/po/ku.po | 
- | [ang]({{< ref "/f15/language/ang.md" >}}) | 19 | 1781 | 1.1 | /mnt/stockage/packages/f15/gok/po/ang.po | 
+ | [as](/f15/language/as) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/as.po | 
+ | [bg](/f15/language/bg) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/bg.po | 
+ | [bn](/f15/language/bn) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/bn.po | 
+ | [bn_IN](/f15/language/bn_IN) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/bn_IN.po | 
+ | [ca](/f15/language/ca) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ca.po | 
+ | [ca@valencia](/f15/language/ca@valencia) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ca@valencia.po | 
+ | [cs](/f15/language/cs) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/cs.po | 
+ | [cy](/f15/language/cy) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f15/gok/po/cy.po | 
+ | [da](/f15/language/da) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/da.po | 
+ | [de](/f15/language/de) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/de.po | 
+ | [dz](/f15/language/dz) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/dz.po | 
+ | [el](/f15/language/el) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/el.po | 
+ | [en_CA](/f15/language/en_CA) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/en_CA.po | 
+ | [en_GB](/f15/language/en_GB) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/en_GB.po | 
+ | [es](/f15/language/es) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/es.po | 
+ | [eu](/f15/language/eu) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/eu.po | 
+ | [fi](/f15/language/fi) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/fi.po | 
+ | [fr](/f15/language/fr) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/fr.po | 
+ | [gl](/f15/language/gl) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/gl.po | 
+ | [gu](/f15/language/gu) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/gu.po | 
+ | [hi](/f15/language/hi) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/hi.po | 
+ | [hu](/f15/language/hu) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/hu.po | 
+ | [id](/f15/language/id) | 1856 | 1856 | 100.0 | /mnt/stockage/packages/f15/gok/po/id.po | 
+ | [it](/f15/language/it) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/it.po | 
+ | [ja](/f15/language/ja) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ja.po | 
+ | [kn](/f15/language/kn) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/kn.po | 
+ | [ko](/f15/language/ko) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ko.po | 
+ | [lt](/f15/language/lt) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/lt.po | 
+ | [lv](/f15/language/lv) | 1867 | 1867 | 100.0 | /mnt/stockage/packages/f15/gok/po/lv.po | 
+ | [mk](/f15/language/mk) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f15/gok/po/mk.po | 
+ | [ml](/f15/language/ml) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/ml.po | 
+ | [mr](/f15/language/mr) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/mr.po | 
+ | [nb_NO](/f15/language/nb_NO) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/nb.po | 
+ | [ne](/f15/language/ne) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/ne.po | 
+ | [nl](/f15/language/nl) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/nl.po | 
+ | [nn](/f15/language/nn) | 1942 | 1942 | 100.0 | /mnt/stockage/packages/f15/gok/po/nn.po | 
+ | [or](/f15/language/or) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/or.po | 
+ | [pl](/f15/language/pl) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/pl.po | 
+ | [pt](/f15/language/pt) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ro.po | 
+ | [ru](/f15/language/ru) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ru.po | 
+ | [sl](/f15/language/sl) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sl.po | 
+ | [sq](/f15/language/sq) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f15/gok/po/sq.po | 
+ | [sr](/f15/language/sr) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sr@latin.po | 
+ | [sv](/f15/language/sv) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/sv.po | 
+ | [ta](/f15/language/ta) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/ta.po | 
+ | [te](/f15/language/te) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/te.po | 
+ | [tr](/f15/language/tr) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f15/gok/po/tr.po | 
+ | [uk](/f15/language/uk) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/uk.po | 
+ | [vi](/f15/language/vi) | 1956 | 1956 | 100.0 | /mnt/stockage/packages/f15/gok/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/zh_TW.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 1915 | 1915 | 100.0 | /mnt/stockage/packages/f15/gok/po/zh_HK.po | 
+ | [pa](/f15/language/pa) | 1913 | 1915 | 99.9 | /mnt/stockage/packages/f15/gok/po/pa.po | 
+ | [ar](/f15/language/ar) | 1793 | 1915 | 93.6 | /mnt/stockage/packages/f15/gok/po/ar.po | 
+ | [th](/f15/language/th) | 1781 | 1915 | 93.0 | /mnt/stockage/packages/f15/gok/po/th.po | 
+ | [fa](/f15/language/fa) | 1639 | 1873 | 87.5 | /mnt/stockage/packages/f15/gok/po/fa.po | 
+ | [mai](/f15/language/mai) | 1529 | 1960 | 78.0 | /mnt/stockage/packages/f15/gok/po/mai.po | 
+ | [az](/f15/language/az) | 1347 | 1784 | 75.5 | /mnt/stockage/packages/f15/gok/po/az.po | 
+ | [hr](/f15/language/hr) | 1313 | 1784 | 73.6 | /mnt/stockage/packages/f15/gok/po/hr.po | 
+ | [be](/f15/language/be) | 1127 | 1784 | 63.2 | /mnt/stockage/packages/f15/gok/po/be.po | 
+ | [mn](/f15/language/mn) | 1096 | 1784 | 61.4 | /mnt/stockage/packages/f15/gok/po/mn.po | 
+ | [sk](/f15/language/sk) | 1085 | 1942 | 55.9 | /mnt/stockage/packages/f15/gok/po/sk.po | 
+ | [error](/f15/language/error) | 980 | 1915 | 51.2 | /mnt/stockage/packages/f15/gok/po/en@shaw.po | 
+ | [he](/f15/language/he) | 888 | 1950 | 45.5 | /mnt/stockage/packages/f15/gok/po/he.po | 
+ | [et](/f15/language/et) | 813 | 1942 | 41.9 | /mnt/stockage/packages/f15/gok/po/et.po | 
+ | [ms](/f15/language/ms) | 415 | 1784 | 23.3 | /mnt/stockage/packages/f15/gok/po/ms.po | 
+ | [ka](/f15/language/ka) | 244 | 1866 | 13.1 | /mnt/stockage/packages/f15/gok/po/ka.po | 
+ | [ga](/f15/language/ga) | 248 | 1937 | 12.8 | /mnt/stockage/packages/f15/gok/po/ga.po | 
+ | [oc](/f15/language/oc) | 119 | 1942 | 6.1 | /mnt/stockage/packages/f15/gok/po/oc.po | 
+ | [am](/f15/language/am) | 108 | 1784 | 6.1 | /mnt/stockage/packages/f15/gok/po/am.po | 
+ | [rw](/f15/language/rw) | 88 | 1873 | 4.7 | /mnt/stockage/packages/f15/gok/po/rw.po | 
+ | [si](/f15/language/si) | 62 | 1942 | 3.2 | /mnt/stockage/packages/f15/gok/po/si.po | 
+ | [ku](/f15/language/ku) | 50 | 1856 | 2.7 | /mnt/stockage/packages/f15/gok/po/ku.po | 
+ | [ang](/f15/language/ang) | 19 | 1781 | 1.1 | /mnt/stockage/packages/f15/gok/po/ang.po | 
 {.sortable}
 
 

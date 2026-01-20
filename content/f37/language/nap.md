@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f37/package/blueberry.md" >}}) | 138 | 172 | 80.2 | Neapolitan <nap@li.org> | 
- | [folder-color-switcher]({{< ref "/f37/package/folder-color-switcher.md" >}}) | 51 | 65 | 78.5 | Neapolitan <nap@li.org> | 
- | [cinnamon-translations]({{< ref "/f37/package/cinnamon-translations.md" >}}) | 2762 | 9246 | 29.9 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
- | [midori]({{< ref "/f37/package/midori.md" >}}) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f37/package/lightdm-settings.md" >}}) | 36 | 324 | 11.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f37/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [peek]({{< ref "/f37/package/peek.md" >}}) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
- | [deluge]({{< ref "/f37/package/deluge.md" >}}) | 62 | 4340 | 1.4 | Neapolitan <nap@li.org> | 
+ | [blueberry](/f37/package/blueberry) | 138 | 172 | 80.2 | Neapolitan <nap@li.org> | 
+ | [folder-color-switcher](/f37/package/folder-color-switcher) | 51 | 65 | 78.5 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f37/package/cinnamon-translations) | 2762 | 9246 | 29.9 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 35 | 211 | 16.6 | Neapolitan <nap@li.org> | 
+ | [midori](/f37/package/midori) | 429 | 3541 | 12.1 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f37/package/lightdm-settings) | 36 | 324 | 11.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f37/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [peek](/f37/package/peek) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
+ | [deluge](/f37/package/deluge) | 62 | 4340 | 1.4 | Neapolitan <nap@li.org> | 
 {.sortable}
 
 

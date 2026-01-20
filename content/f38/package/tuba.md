@@ -18,28 +18,28 @@ The package tuba (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f38/language/es.md" >}}) | 934 | 934 | 100.0 | /mnt/stockage/packages/f38/tuba/po/es.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 934 | 934 | 100.0 | /mnt/stockage/packages/f38/tuba/po/pl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 934 | 934 | 100.0 | /mnt/stockage/packages/f38/tuba/po/sv.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 874 | 934 | 93.6 | /mnt/stockage/packages/f38/tuba/po/eu.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 869 | 934 | 93.0 | /mnt/stockage/packages/f38/tuba/po/de_DE.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 869 | 934 | 93.0 | /mnt/stockage/packages/f38/tuba/po/nl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 787 | 934 | 84.3 | /mnt/stockage/packages/f38/tuba/po/pt_BR.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/fr.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/pt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/ru.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/uk.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 687 | 934 | 73.6 | /mnt/stockage/packages/f38/tuba/po/fa.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 662 | 934 | 70.9 | /mnt/stockage/packages/f38/tuba/po/zh_Hans.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 585 | 934 | 62.6 | /mnt/stockage/packages/f38/tuba/po/fi.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 579 | 934 | 62.0 | /mnt/stockage/packages/f38/tuba/po/ja.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 553 | 934 | 59.2 | /mnt/stockage/packages/f38/tuba/po/it.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 419 | 934 | 44.9 | /mnt/stockage/packages/f38/tuba/po/hu.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 195 | 934 | 20.9 | /mnt/stockage/packages/f38/tuba/po/ko.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 175 | 934 | 18.7 | /mnt/stockage/packages/f38/tuba/po/nb_NO.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 37 | 934 | 4.0 | /mnt/stockage/packages/f38/tuba/po/be.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 27 | 934 | 2.9 | /mnt/stockage/packages/f38/tuba/po/ar.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 3 | 934 | 0.3 | /mnt/stockage/packages/f38/tuba/po/tr.po | 
+ | [es](/f38/language/es) | 934 | 934 | 100.0 | /mnt/stockage/packages/f38/tuba/po/es.po | 
+ | [pl](/f38/language/pl) | 934 | 934 | 100.0 | /mnt/stockage/packages/f38/tuba/po/pl.po | 
+ | [sv](/f38/language/sv) | 934 | 934 | 100.0 | /mnt/stockage/packages/f38/tuba/po/sv.po | 
+ | [eu](/f38/language/eu) | 874 | 934 | 93.6 | /mnt/stockage/packages/f38/tuba/po/eu.po | 
+ | [de](/f38/language/de) | 869 | 934 | 93.0 | /mnt/stockage/packages/f38/tuba/po/de_DE.po | 
+ | [nl](/f38/language/nl) | 869 | 934 | 93.0 | /mnt/stockage/packages/f38/tuba/po/nl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 787 | 934 | 84.3 | /mnt/stockage/packages/f38/tuba/po/pt_BR.po | 
+ | [fr](/f38/language/fr) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/fr.po | 
+ | [pt](/f38/language/pt) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/pt.po | 
+ | [ru](/f38/language/ru) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/ru.po | 
+ | [uk](/f38/language/uk) | 749 | 934 | 80.2 | /mnt/stockage/packages/f38/tuba/po/uk.po | 
+ | [fa](/f38/language/fa) | 687 | 934 | 73.6 | /mnt/stockage/packages/f38/tuba/po/fa.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 662 | 934 | 70.9 | /mnt/stockage/packages/f38/tuba/po/zh_Hans.po | 
+ | [fi](/f38/language/fi) | 585 | 934 | 62.6 | /mnt/stockage/packages/f38/tuba/po/fi.po | 
+ | [ja](/f38/language/ja) | 579 | 934 | 62.0 | /mnt/stockage/packages/f38/tuba/po/ja.po | 
+ | [it](/f38/language/it) | 553 | 934 | 59.2 | /mnt/stockage/packages/f38/tuba/po/it.po | 
+ | [hu](/f38/language/hu) | 419 | 934 | 44.9 | /mnt/stockage/packages/f38/tuba/po/hu.po | 
+ | [ko](/f38/language/ko) | 195 | 934 | 20.9 | /mnt/stockage/packages/f38/tuba/po/ko.po | 
+ | [nb_NO](/f38/language/nb_NO) | 175 | 934 | 18.7 | /mnt/stockage/packages/f38/tuba/po/nb_NO.po | 
+ | [be](/f38/language/be) | 37 | 934 | 4.0 | /mnt/stockage/packages/f38/tuba/po/be.po | 
+ | [ar](/f38/language/ar) | 27 | 934 | 2.9 | /mnt/stockage/packages/f38/tuba/po/ar.po | 
+ | [tr](/f38/language/tr) | 3 | 934 | 0.3 | /mnt/stockage/packages/f38/tuba/po/tr.po | 
 {.sortable}
 
 

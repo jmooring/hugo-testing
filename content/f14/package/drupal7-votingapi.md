@@ -18,9 +18,9 @@ The package drupal7-votingapi (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f14/drupal7-votingapi/translations/ja.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f14/drupal7-votingapi/translations/nl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f14/drupal7-votingapi/translations/uk.po/mnt/stockage/packages/f14/drupal7-votingapi/translations/uk-ua.po | 
+ | [ja](/f14/language/ja) | 169 | 169 | 100.0 | /mnt/stockage/packages/f14/drupal7-votingapi/translations/ja.po | 
+ | [nl](/f14/language/nl) | 380 | 380 | 100.0 | /mnt/stockage/packages/f14/drupal7-votingapi/translations/nl.po | 
+ | [uk](/f14/language/uk) | 316 | 316 | 100.0 | /mnt/stockage/packages/f14/drupal7-votingapi/translations/uk.po/mnt/stockage/packages/f14/drupal7-votingapi/translations/uk-ua.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package reuse (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/de.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/eo.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1062 | 1062 | 100.0 | /mnt/stockage/packages/f39/reuse/po/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/gl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/it.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/nl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/pt.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/tr.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1029 | 1066 | 96.5 | /mnt/stockage/packages/f39/reuse/po/es.po | 
+ | [de](/f39/language/de) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/de.po | 
+ | [eo](/f39/language/eo) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/eo.po | 
+ | [fr](/f39/language/fr) | 1062 | 1062 | 100.0 | /mnt/stockage/packages/f39/reuse/po/fr.po | 
+ | [gl](/f39/language/gl) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/gl.po | 
+ | [it](/f39/language/it) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/it.po | 
+ | [nl](/f39/language/nl) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/nl.po | 
+ | [pt](/f39/language/pt) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/pt.po | 
+ | [tr](/f39/language/tr) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f39/reuse/po/tr.po | 
+ | [es](/f39/language/es) | 1029 | 1066 | 96.5 | /mnt/stockage/packages/f39/reuse/po/es.po | 
 {.sortable}
 
 

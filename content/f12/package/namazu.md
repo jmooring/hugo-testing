@@ -18,12 +18,12 @@ The package namazu (version 2.0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f12/language/error.md" >}}) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f12/namazu/po/ja_JP.SJIS.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f12/namazu/po/ja.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1044 | 1052 | 99.2 | /mnt/stockage/packages/f12/namazu/po/fr.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 983 | 1052 | 93.4 | /mnt/stockage/packages/f12/namazu/po/es.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f12/namazu/po/de.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f12/namazu/po/pl.po | 
+ | [error](/f12/language/error) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f12/namazu/po/ja_JP.SJIS.po | 
+ | [ja](/f12/language/ja) | 1052 | 1052 | 100.0 | /mnt/stockage/packages/f12/namazu/po/ja.po | 
+ | [fr](/f12/language/fr) | 1044 | 1052 | 99.2 | /mnt/stockage/packages/f12/namazu/po/fr.po | 
+ | [es](/f12/language/es) | 983 | 1052 | 93.4 | /mnt/stockage/packages/f12/namazu/po/es.po | 
+ | [de](/f12/language/de) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f12/namazu/po/de.po | 
+ | [pl](/f12/language/pl) | 1 | 1052 | 0.1 | /mnt/stockage/packages/f12/namazu/po/pl.po | 
 {.sortable}
 
 

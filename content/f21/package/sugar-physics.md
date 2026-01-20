@@ -18,107 +18,107 @@ The package sugar-physics (version 24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f21/language/ayc.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/ayc.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/da.po | 
- | [en]({{< ref "/f21/language/en.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/en.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/en_GB.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/en_US.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/fr.po | 
- | [hy]({{< ref "/f21/language/hy.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/hy.po | 
- | [ne]({{< ref "/f21/language/ne.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/ne.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/nl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/pt.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/zh_CN.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 46 | 48 | 95.8 | /mnt/stockage/packages/f21/sugar-physics/po/id.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/el.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/hi.po | 
- | [hus]({{< ref "/f21/language/hus.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/hus.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/ja.po | 
- | [mi]({{< ref "/f21/language/mi.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/mi.po | 
- | [pap]({{< ref "/f21/language/pap.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/pap.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/pt_BR.po | 
- | [qu]({{< ref "/f21/language/qu.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/quz.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/sq.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/sr.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/sv.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/ta.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/th.po | 
- | [ug]({{< ref "/f21/language/ug.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/ug.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/vi.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/zh_TW.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 27 | 48 | 56.2 | /mnt/stockage/packages/f21/sugar-physics/po/ca.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 86 | 230 | 37.4 | /mnt/stockage/packages/f21/sugar-physics/po/tzo.po/mnt/stockage/packages/f21/sugar-physics/po/quy.po/mnt/stockage/packages/f21/sugar-physics/po/pbs.po/mnt/stockage/packages/f21/sugar-physics/po/mvo.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 17 | 48 | 35.4 | /mnt/stockage/packages/f21/sugar-physics/po/ar.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 26 | 86 | 30.2 | /mnt/stockage/packages/f21/sugar-physics/po/it.po | 
- | [ay]({{< ref "/f21/language/ay.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/aym.po | 
- | [ht]({{< ref "/f21/language/ht.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/ht.po | 
- | [km]({{< ref "/f21/language/km.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/km.po | 
- | [mn]({{< ref "/f21/language/mn.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/mn.po | 
- | [prs]({{< ref "/f21/language/prs.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/fa_AF.po | 
- | [ps]({{< ref "/f21/language/ps.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/ps.po | 
- | [si]({{< ref "/f21/language/si.md" >}}) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/si.po | 
- | [nah]({{< ref "/f21/language/nah.md" >}}) | 22 | 86 | 25.6 | /mnt/stockage/packages/f21/sugar-physics/po/nah.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 10 | 48 | 20.8 | /mnt/stockage/packages/f21/sugar-physics/po/he.po | 
- | [bi]({{< ref "/f21/language/bi.md" >}}) | 5 | 28 | 17.9 | /mnt/stockage/packages/f21/sugar-physics/po/bi.po | 
- | [am]({{< ref "/f21/language/am.md" >}}) | 6 | 48 | 12.5 | /mnt/stockage/packages/f21/sugar-physics/po/am.po | 
- | [sm]({{< ref "/f21/language/sm.md" >}}) | 6 | 48 | 12.5 | /mnt/stockage/packages/f21/sugar-physics/po/sm.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/hu.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/nb.po | 
- | [rw]({{< ref "/f21/language/rw.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/rw.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/sk.po | 
- | [af]({{< ref "/f21/language/af.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/af.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/lv.po | 
- | [mg]({{< ref "/f21/language/mg.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/mg.po | 
- | [tzm]({{< ref "/f21/language/tzm.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/tzm.po | 
- | [kos]({{< ref "/f21/language/kos.md" >}}) | 1 | 48 | 2.1 | /mnt/stockage/packages/f21/sugar-physics/po/kos.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 1 | 48 | 2.1 | /mnt/stockage/packages/f21/sugar-physics/po/ur.po | 
- | [ak]({{< ref "/f21/language/ak.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ak.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bg.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bn.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bn_IN.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bs.po | 
- | [cpp]({{< ref "/f21/language/cpp.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/cpp.po | 
- | [dz]({{< ref "/f21/language/dz.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/dz.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/fa.po | 
- | [ff]({{< ref "/f21/language/ff.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ff.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/fi.po | 
- | [fil]({{< ref "/f21/language/fil.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/fil.po | 
- | [gn]({{< ref "/f21/language/gn.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/gn.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/gu.po | 
- | [ha]({{< ref "/f21/language/ha.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ha.po | 
- | [ig]({{< ref "/f21/language/ig.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ig.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/is.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/kn.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ko.po | 
- | [ku]({{< ref "/f21/language/ku.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ku.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/lt.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/mk.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ml.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/mr.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ms.po | 
- | [na]({{< ref "/f21/language/na.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/na.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/nn.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/pa.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ro.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ru.po | 
- | [sd]({{< ref "/f21/language/sd.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/sd.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/sl.po | 
- | [son]({{< ref "/f21/language/son.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/son.po | 
- | [st]({{< ref "/f21/language/st.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/st.po | 
- | [sw]({{< ref "/f21/language/sw.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/sw.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/te.po | 
- | [to]({{< ref "/f21/language/to.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/to.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/tr.po | 
- | [tvl]({{< ref "/f21/language/tvl.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/tvl.po | 
- | [tyv]({{< ref "/f21/language/tyv.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/tyv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/uk.po | 
- | [wa]({{< ref "/f21/language/wa.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/wa.po | 
- | [yo]({{< ref "/f21/language/yo.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/zh_HK.po | 
+ | [ayc](/f21/language/ayc) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/ayc.po | 
+ | [da](/f21/language/da) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/da.po | 
+ | [en](/f21/language/en) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/en.po | 
+ | [en_GB](/f21/language/en_GB) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/en_GB.po | 
+ | [en_US](/f21/language/en_US) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/en_US.po | 
+ | [es](/f21/language/es) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/es.po | 
+ | [fr](/f21/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/fr.po | 
+ | [hy](/f21/language/hy) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/hy.po | 
+ | [ne](/f21/language/ne) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/ne.po | 
+ | [nl](/f21/language/nl) | 86 | 86 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/nl.po | 
+ | [pt](/f21/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/pt.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 48 | 48 | 100.0 | /mnt/stockage/packages/f21/sugar-physics/po/zh_CN.po | 
+ | [id](/f21/language/id) | 46 | 48 | 95.8 | /mnt/stockage/packages/f21/sugar-physics/po/id.po | 
+ | [cs](/f21/language/cs) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/cs.po | 
+ | [de](/f21/language/de) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/de.po | 
+ | [el](/f21/language/el) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/el.po | 
+ | [hi](/f21/language/hi) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/hi.po | 
+ | [hus](/f21/language/hus) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/hus.po | 
+ | [ja](/f21/language/ja) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/ja.po | 
+ | [mi](/f21/language/mi) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/mi.po | 
+ | [pap](/f21/language/pap) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/pap.po | 
+ | [pl](/f21/language/pl) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/pt_BR.po | 
+ | [qu](/f21/language/qu) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/quz.po | 
+ | [sq](/f21/language/sq) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/sq.po | 
+ | [sr](/f21/language/sr) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/sr.po | 
+ | [sv](/f21/language/sv) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/sv.po | 
+ | [ta](/f21/language/ta) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/ta.po | 
+ | [th](/f21/language/th) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/th.po | 
+ | [ug](/f21/language/ug) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/ug.po | 
+ | [vi](/f21/language/vi) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/vi.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 28 | 48 | 58.3 | /mnt/stockage/packages/f21/sugar-physics/po/zh_TW.po | 
+ | [ca](/f21/language/ca) | 27 | 48 | 56.2 | /mnt/stockage/packages/f21/sugar-physics/po/ca.po | 
+ | [error](/f21/language/error) | 86 | 230 | 37.4 | /mnt/stockage/packages/f21/sugar-physics/po/tzo.po/mnt/stockage/packages/f21/sugar-physics/po/quy.po/mnt/stockage/packages/f21/sugar-physics/po/pbs.po/mnt/stockage/packages/f21/sugar-physics/po/mvo.po | 
+ | [ar](/f21/language/ar) | 17 | 48 | 35.4 | /mnt/stockage/packages/f21/sugar-physics/po/ar.po | 
+ | [it](/f21/language/it) | 26 | 86 | 30.2 | /mnt/stockage/packages/f21/sugar-physics/po/it.po | 
+ | [ay](/f21/language/ay) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/aym.po | 
+ | [ht](/f21/language/ht) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/ht.po | 
+ | [km](/f21/language/km) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/km.po | 
+ | [mn](/f21/language/mn) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/mn.po | 
+ | [prs](/f21/language/prs) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/fa_AF.po | 
+ | [ps](/f21/language/ps) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/ps.po | 
+ | [si](/f21/language/si) | 13 | 48 | 27.1 | /mnt/stockage/packages/f21/sugar-physics/po/si.po | 
+ | [nah](/f21/language/nah) | 22 | 86 | 25.6 | /mnt/stockage/packages/f21/sugar-physics/po/nah.po | 
+ | [he](/f21/language/he) | 10 | 48 | 20.8 | /mnt/stockage/packages/f21/sugar-physics/po/he.po | 
+ | [bi](/f21/language/bi) | 5 | 28 | 17.9 | /mnt/stockage/packages/f21/sugar-physics/po/bi.po | 
+ | [am](/f21/language/am) | 6 | 48 | 12.5 | /mnt/stockage/packages/f21/sugar-physics/po/am.po | 
+ | [sm](/f21/language/sm) | 6 | 48 | 12.5 | /mnt/stockage/packages/f21/sugar-physics/po/sm.po | 
+ | [hu](/f21/language/hu) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/hu.po | 
+ | [nb_NO](/f21/language/nb_NO) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/nb.po | 
+ | [rw](/f21/language/rw) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/rw.po | 
+ | [sk](/f21/language/sk) | 3 | 48 | 6.2 | /mnt/stockage/packages/f21/sugar-physics/po/sk.po | 
+ | [af](/f21/language/af) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/af.po | 
+ | [lv](/f21/language/lv) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/lv.po | 
+ | [mg](/f21/language/mg) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/mg.po | 
+ | [tzm](/f21/language/tzm) | 2 | 48 | 4.2 | /mnt/stockage/packages/f21/sugar-physics/po/tzm.po | 
+ | [kos](/f21/language/kos) | 1 | 48 | 2.1 | /mnt/stockage/packages/f21/sugar-physics/po/kos.po | 
+ | [ur](/f21/language/ur) | 1 | 48 | 2.1 | /mnt/stockage/packages/f21/sugar-physics/po/ur.po | 
+ | [ak](/f21/language/ak) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ak.po | 
+ | [bg](/f21/language/bg) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bg.po | 
+ | [bn](/f21/language/bn) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bn.po | 
+ | [bn_IN](/f21/language/bn_IN) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bn_IN.po | 
+ | [bs](/f21/language/bs) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/bs.po | 
+ | [cpp](/f21/language/cpp) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/cpp.po | 
+ | [dz](/f21/language/dz) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/dz.po | 
+ | [fa](/f21/language/fa) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/fa.po | 
+ | [ff](/f21/language/ff) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ff.po | 
+ | [fi](/f21/language/fi) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/fi.po | 
+ | [fil](/f21/language/fil) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/fil.po | 
+ | [gn](/f21/language/gn) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/gn.po | 
+ | [gu](/f21/language/gu) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/gu.po | 
+ | [ha](/f21/language/ha) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ha.po | 
+ | [ig](/f21/language/ig) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ig.po | 
+ | [is](/f21/language/is) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/is.po | 
+ | [kn](/f21/language/kn) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/kn.po | 
+ | [ko](/f21/language/ko) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ko.po | 
+ | [ku](/f21/language/ku) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ku.po | 
+ | [lt](/f21/language/lt) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/lt.po | 
+ | [mk](/f21/language/mk) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/mk.po | 
+ | [ml](/f21/language/ml) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ml.po | 
+ | [mr](/f21/language/mr) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/mr.po | 
+ | [ms](/f21/language/ms) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ms.po | 
+ | [na](/f21/language/na) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/na.po | 
+ | [nn](/f21/language/nn) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/nn.po | 
+ | [pa](/f21/language/pa) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/pa.po | 
+ | [ro](/f21/language/ro) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ro.po | 
+ | [ru](/f21/language/ru) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/ru.po | 
+ | [sd](/f21/language/sd) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/sd.po | 
+ | [sl](/f21/language/sl) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/sl.po | 
+ | [son](/f21/language/son) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/son.po | 
+ | [st](/f21/language/st) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/st.po | 
+ | [sw](/f21/language/sw) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/sw.po | 
+ | [te](/f21/language/te) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/te.po | 
+ | [to](/f21/language/to) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/to.po | 
+ | [tr](/f21/language/tr) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/tr.po | 
+ | [tvl](/f21/language/tvl) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/tvl.po | 
+ | [tyv](/f21/language/tyv) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/tyv.po | 
+ | [uk](/f21/language/uk) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/uk.po | 
+ | [wa](/f21/language/wa) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/wa.po | 
+ | [yo](/f21/language/yo) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/yo.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 0 | 48 | 0.0 | /mnt/stockage/packages/f21/sugar-physics/po/zh_HK.po | 
 {.sortable}
 
 

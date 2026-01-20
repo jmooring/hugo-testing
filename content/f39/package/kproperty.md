@@ -18,33 +18,33 @@ The package kproperty (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/ca/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ca/kpropertywidgets_qt.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/ca@valencia/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ca@valencia/kpropertywidgets_qt.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/de/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/de/kpropertywidgets_qt.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/en_GB/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/en_GB/kpropertywidgets_qt.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/es/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/es/kpropertywidgets_qt.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/fi/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/fi/kpropertywidgets_qt.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/fr/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/fr/kpropertywidgets_qt.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/gl/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/gl/kpropertywidgets_qt.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/it/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/it/kpropertywidgets_qt.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/ko/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ko/kpropertywidgets_qt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/nl/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/nl/kpropertywidgets_qt.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/nn/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/nn/kpropertywidgets_qt.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/pl/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/pl/kpropertywidgets_qt.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/pt/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/pt/kpropertywidgets_qt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/pt_BR/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/pt_BR/kpropertywidgets_qt.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/sv/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/sv/kpropertywidgets_qt.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/uk/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/uk/kpropertywidgets_qt.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 137 | 145 | 94.5 | /mnt/stockage/packages/f39/kproperty/po/sk/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/sk/kpropertywidgets_qt.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 137 | 145 | 94.5 | /mnt/stockage/packages/f39/kproperty/po/tr/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/tr/kpropertywidgets_qt.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 131 | 145 | 90.3 | /mnt/stockage/packages/f39/kproperty/po/cs/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/cs/kpropertywidgets_qt.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 120 | 145 | 82.8 | /mnt/stockage/packages/f39/kproperty/po/ia/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ia/kpropertywidgets_qt.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 102 | 145 | 70.3 | /mnt/stockage/packages/f39/kproperty/po/ru/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ru/kpropertywidgets_qt.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 69 | 145 | 47.6 | /mnt/stockage/packages/f39/kproperty/po/ast/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ast/kpropertywidgets_qt.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 59 | 145 | 40.7 | /mnt/stockage/packages/f39/kproperty/po/zh_CN/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/zh_CN/kpropertywidgets_qt.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 2 | 145 | 1.4 | /mnt/stockage/packages/f39/kproperty/po/zh_TW/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/zh_TW/kpropertywidgets_qt.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f39/kproperty/po/ja/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ja/kpropertywidgets_qt.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 145 | 0.0 | /mnt/stockage/packages/f39/kproperty/po/lt/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/lt/kpropertywidgets_qt.po | 
+ | [ca](/f39/language/ca) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/ca/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ca/kpropertywidgets_qt.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/ca@valencia/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ca@valencia/kpropertywidgets_qt.po | 
+ | [de](/f39/language/de) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/de/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/de/kpropertywidgets_qt.po | 
+ | [en_GB](/f39/language/en_GB) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/en_GB/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/en_GB/kpropertywidgets_qt.po | 
+ | [es](/f39/language/es) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/es/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/es/kpropertywidgets_qt.po | 
+ | [fi](/f39/language/fi) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/fi/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/fi/kpropertywidgets_qt.po | 
+ | [fr](/f39/language/fr) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/fr/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/fr/kpropertywidgets_qt.po | 
+ | [gl](/f39/language/gl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/gl/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/gl/kpropertywidgets_qt.po | 
+ | [it](/f39/language/it) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/it/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/it/kpropertywidgets_qt.po | 
+ | [ko](/f39/language/ko) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/ko/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ko/kpropertywidgets_qt.po | 
+ | [nl](/f39/language/nl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/nl/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/nl/kpropertywidgets_qt.po | 
+ | [nn](/f39/language/nn) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/nn/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/nn/kpropertywidgets_qt.po | 
+ | [pl](/f39/language/pl) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/pl/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/pl/kpropertywidgets_qt.po | 
+ | [pt](/f39/language/pt) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/pt/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/pt/kpropertywidgets_qt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/pt_BR/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/pt_BR/kpropertywidgets_qt.po | 
+ | [sv](/f39/language/sv) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/sv/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/sv/kpropertywidgets_qt.po | 
+ | [uk](/f39/language/uk) | 145 | 145 | 100.0 | /mnt/stockage/packages/f39/kproperty/po/uk/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/uk/kpropertywidgets_qt.po | 
+ | [sk](/f39/language/sk) | 137 | 145 | 94.5 | /mnt/stockage/packages/f39/kproperty/po/sk/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/sk/kpropertywidgets_qt.po | 
+ | [tr](/f39/language/tr) | 137 | 145 | 94.5 | /mnt/stockage/packages/f39/kproperty/po/tr/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/tr/kpropertywidgets_qt.po | 
+ | [cs](/f39/language/cs) | 131 | 145 | 90.3 | /mnt/stockage/packages/f39/kproperty/po/cs/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/cs/kpropertywidgets_qt.po | 
+ | [ia](/f39/language/ia) | 120 | 145 | 82.8 | /mnt/stockage/packages/f39/kproperty/po/ia/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ia/kpropertywidgets_qt.po | 
+ | [ru](/f39/language/ru) | 102 | 145 | 70.3 | /mnt/stockage/packages/f39/kproperty/po/ru/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ru/kpropertywidgets_qt.po | 
+ | [ast](/f39/language/ast) | 69 | 145 | 47.6 | /mnt/stockage/packages/f39/kproperty/po/ast/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ast/kpropertywidgets_qt.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 59 | 145 | 40.7 | /mnt/stockage/packages/f39/kproperty/po/zh_CN/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/zh_CN/kpropertywidgets_qt.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 2 | 145 | 1.4 | /mnt/stockage/packages/f39/kproperty/po/zh_TW/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/zh_TW/kpropertywidgets_qt.po | 
+ | [ja](/f39/language/ja) | 0 | 145 | 0.0 | /mnt/stockage/packages/f39/kproperty/po/ja/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/ja/kpropertywidgets_qt.po | 
+ | [lt](/f39/language/lt) | 0 | 145 | 0.0 | /mnt/stockage/packages/f39/kproperty/po/lt/kpropertycore_qt.po/mnt/stockage/packages/f39/kproperty/po/lt/kpropertywidgets_qt.po | 
 {.sortable}
 
 

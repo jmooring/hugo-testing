@@ -18,87 +18,87 @@ The package libgnome (version 2.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ar.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/az.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 1496 | 1496 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/be.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bg.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bn.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bn_IN.po | 
- | [bs]({{< ref "/f9/language/bs.md" >}}) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bs.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/cs.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 1653 | 1653 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/cy.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/dz.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/el.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/en_GB.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/eo.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sr@Latn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/es.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/gl.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/gu.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/he.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/hi.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/hu.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/id.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ja.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ka.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ko.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ku.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/lt.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/lv.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/mk.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ml.po | 
- | [mn]({{< ref "/f9/language/mn.md" >}}) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/mn.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/mr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/nb.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/nl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/nn.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 1653 | 1653 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/or.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f9/language/sr@ijekavian.md" >}}) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sr@ije.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sv.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/th.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/vi.po | 
- | [xh]({{< ref "/f9/language/xh.md" >}}) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/xh.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/zh_HK.po | 
- | [as]({{< ref "/f9/language/as.md" >}}) | 1638 | 1656 | 98.9 | /mnt/stockage/packages/f9/libgnome/po/as.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 1385 | 1407 | 98.4 | /mnt/stockage/packages/f9/libgnome/po/fa.po | 
- | [mg]({{< ref "/f9/language/mg.md" >}}) | 1490 | 1517 | 98.2 | /mnt/stockage/packages/f9/libgnome/po/mg.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 1352 | 1407 | 96.1 | /mnt/stockage/packages/f9/libgnome/po/hr.po | 
- | [is]({{< ref "/f9/language/is.md" >}}) | 1292 | 1407 | 91.8 | /mnt/stockage/packages/f9/libgnome/po/is.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 1513 | 1648 | 91.8 | /mnt/stockage/packages/f9/libgnome/po/ta.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 1110 | 1407 | 78.9 | /mnt/stockage/packages/f9/libgnome/po/ms.po | 
- | [fur]({{< ref "/f9/language/fur.md" >}}) | 1082 | 1654 | 65.4 | /mnt/stockage/packages/f9/libgnome/po/fur.po | 
- | [wa]({{< ref "/f9/language/wa.md" >}}) | 554 | 1407 | 39.4 | /mnt/stockage/packages/f9/libgnome/po/wa.po | 
- | [yi]({{< ref "/f9/language/yi.md" >}}) | 401 | 1407 | 28.5 | /mnt/stockage/packages/f9/libgnome/po/yi.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 351 | 1690 | 20.8 | /mnt/stockage/packages/f9/libgnome/po/oc.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 267 | 1654 | 16.1 | /mnt/stockage/packages/f9/libgnome/po/ga.po | 
- | [tt]({{< ref "/f9/language/tt.md" >}}) | 156 | 1494 | 10.4 | /mnt/stockage/packages/f9/libgnome/po/tt.po | 
- | [am]({{< ref "/f9/language/am.md" >}}) | 32 | 1407 | 2.3 | /mnt/stockage/packages/f9/libgnome/po/am.po | 
- | [si]({{< ref "/f9/language/si.md" >}}) | 16 | 1653 | 1.0 | /mnt/stockage/packages/f9/libgnome/po/si.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 4 | 1407 | 0.3 | /mnt/stockage/packages/f9/libgnome/po/rw.po | 
+ | [ar](/f9/language/ar) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ar.po | 
+ | [az](/f9/language/az) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/az.po | 
+ | [be](/f9/language/be) | 1496 | 1496 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/be.po | 
+ | [bg](/f9/language/bg) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bg.po | 
+ | [bn](/f9/language/bn) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bn.po | 
+ | [bn_IN](/f9/language/bn_IN) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bn_IN.po | 
+ | [bs](/f9/language/bs) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/bs.po | 
+ | [ca](/f9/language/ca) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ca.po | 
+ | [cs](/f9/language/cs) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/cs.po | 
+ | [cy](/f9/language/cy) | 1653 | 1653 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/cy.po | 
+ | [da](/f9/language/da) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/da.po | 
+ | [de](/f9/language/de) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/de.po | 
+ | [dz](/f9/language/dz) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/dz.po | 
+ | [el](/f9/language/el) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/el.po | 
+ | [en_CA](/f9/language/en_CA) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/en_GB.po | 
+ | [eo](/f9/language/eo) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/eo.po | 
+ | [error](/f9/language/error) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sr@Latn.po | 
+ | [es](/f9/language/es) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/es.po | 
+ | [et](/f9/language/et) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/et.po | 
+ | [eu](/f9/language/eu) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/eu.po | 
+ | [fi](/f9/language/fi) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/fi.po | 
+ | [fr](/f9/language/fr) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/fr.po | 
+ | [gl](/f9/language/gl) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/gl.po | 
+ | [gu](/f9/language/gu) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/gu.po | 
+ | [he](/f9/language/he) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/he.po | 
+ | [hi](/f9/language/hi) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/hi.po | 
+ | [hu](/f9/language/hu) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/hu.po | 
+ | [id](/f9/language/id) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/id.po | 
+ | [it](/f9/language/it) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/it.po | 
+ | [ja](/f9/language/ja) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ja.po | 
+ | [ka](/f9/language/ka) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ka.po | 
+ | [ko](/f9/language/ko) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ko.po | 
+ | [ku](/f9/language/ku) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ku.po | 
+ | [lt](/f9/language/lt) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/lt.po | 
+ | [lv](/f9/language/lv) | 1517 | 1517 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/lv.po | 
+ | [mk](/f9/language/mk) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/mk.po | 
+ | [ml](/f9/language/ml) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ml.po | 
+ | [mn](/f9/language/mn) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/mn.po | 
+ | [mr](/f9/language/mr) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/mr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/nb.po | 
+ | [ne](/f9/language/ne) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ne.po | 
+ | [nl](/f9/language/nl) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/nl.po | 
+ | [nn](/f9/language/nn) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/nn.po | 
+ | [or](/f9/language/or) | 1653 | 1653 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/or.po | 
+ | [pa](/f9/language/pa) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pa.po | 
+ | [pl](/f9/language/pl) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pl.po | 
+ | [pt](/f9/language/pt) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ro.po | 
+ | [ru](/f9/language/ru) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/ru.po | 
+ | [sk](/f9/language/sk) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sk.po | 
+ | [sl](/f9/language/sl) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sl.po | 
+ | [sq](/f9/language/sq) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sq.po | 
+ | [sr](/f9/language/sr) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sr.po | 
+ | [sr@ijekavian](/f9/language/sr@ijekavian) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sr@ije.po | 
+ | [sv](/f9/language/sv) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/sv.po | 
+ | [th](/f9/language/th) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/th.po | 
+ | [tr](/f9/language/tr) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/tr.po | 
+ | [uk](/f9/language/uk) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/uk.po | 
+ | [vi](/f9/language/vi) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/vi.po | 
+ | [xh](/f9/language/xh) | 1407 | 1407 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/xh.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1691 | 1691 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 1648 | 1648 | 100.0 | /mnt/stockage/packages/f9/libgnome/po/zh_HK.po | 
+ | [as](/f9/language/as) | 1638 | 1656 | 98.9 | /mnt/stockage/packages/f9/libgnome/po/as.po | 
+ | [fa](/f9/language/fa) | 1385 | 1407 | 98.4 | /mnt/stockage/packages/f9/libgnome/po/fa.po | 
+ | [mg](/f9/language/mg) | 1490 | 1517 | 98.2 | /mnt/stockage/packages/f9/libgnome/po/mg.po | 
+ | [hr](/f9/language/hr) | 1352 | 1407 | 96.1 | /mnt/stockage/packages/f9/libgnome/po/hr.po | 
+ | [is](/f9/language/is) | 1292 | 1407 | 91.8 | /mnt/stockage/packages/f9/libgnome/po/is.po | 
+ | [ta](/f9/language/ta) | 1513 | 1648 | 91.8 | /mnt/stockage/packages/f9/libgnome/po/ta.po | 
+ | [ms](/f9/language/ms) | 1110 | 1407 | 78.9 | /mnt/stockage/packages/f9/libgnome/po/ms.po | 
+ | [fur](/f9/language/fur) | 1082 | 1654 | 65.4 | /mnt/stockage/packages/f9/libgnome/po/fur.po | 
+ | [wa](/f9/language/wa) | 554 | 1407 | 39.4 | /mnt/stockage/packages/f9/libgnome/po/wa.po | 
+ | [yi](/f9/language/yi) | 401 | 1407 | 28.5 | /mnt/stockage/packages/f9/libgnome/po/yi.po | 
+ | [oc](/f9/language/oc) | 351 | 1690 | 20.8 | /mnt/stockage/packages/f9/libgnome/po/oc.po | 
+ | [ga](/f9/language/ga) | 267 | 1654 | 16.1 | /mnt/stockage/packages/f9/libgnome/po/ga.po | 
+ | [tt](/f9/language/tt) | 156 | 1494 | 10.4 | /mnt/stockage/packages/f9/libgnome/po/tt.po | 
+ | [am](/f9/language/am) | 32 | 1407 | 2.3 | /mnt/stockage/packages/f9/libgnome/po/am.po | 
+ | [si](/f9/language/si) | 16 | 1653 | 1.0 | /mnt/stockage/packages/f9/libgnome/po/si.po | 
+ | [rw](/f9/language/rw) | 4 | 1407 | 0.3 | /mnt/stockage/packages/f9/libgnome/po/rw.po | 
 {.sortable}
 
 

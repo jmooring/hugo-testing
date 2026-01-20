@@ -18,10 +18,10 @@ The package drupal6-geshifilter (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1460 | 1460 | 100.0 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/fr.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/ja.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 1460 | 1460 | 100.0 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/sk.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 668 | 1460 | 45.8 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/de.po | 
+ | [fr](/f16/language/fr) | 1460 | 1460 | 100.0 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/fr.po | 
+ | [ja](/f16/language/ja) | 1352 | 1352 | 100.0 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/ja.po | 
+ | [sk](/f16/language/sk) | 1460 | 1460 | 100.0 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/sk.po | 
+ | [de](/f16/language/de) | 668 | 1460 | 45.8 | /mnt/stockage/packages/f16/drupal6-geshifilter/translations/de.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package texlive (version 2014):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 1221 | 1221 | 100.0 | /mnt/stockage/packages/f23/texlive/texmf-dist/doc/support/latex-git-log/po/de.po/mnt/stockage/packages/f23/texlive/translations/de.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 1221 | 1221 | 100.0 | /mnt/stockage/packages/f23/texlive/translations/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1221 | 1221 | 100.0 | /mnt/stockage/packages/f23/texlive/translations/ru.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/cs.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/it.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/pl.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/sk.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/sr.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1101 | 1221 | 90.2 | /mnt/stockage/packages/f23/texlive/translations/fr.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 1101 | 1221 | 90.2 | /mnt/stockage/packages/f23/texlive/translations/nl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 1098 | 1221 | 89.9 | /mnt/stockage/packages/f23/texlive/translations/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 889 | 1221 | 72.8 | /mnt/stockage/packages/f23/texlive/translations/vi.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 851 | 1221 | 69.7 | /mnt/stockage/packages/f23/texlive/translations/ja.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 837 | 1221 | 68.6 | /mnt/stockage/packages/f23/texlive/translations/sl.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 594 | 1221 | 48.6 | /mnt/stockage/packages/f23/texlive/translations/zh_CN.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 585 | 1221 | 47.9 | /mnt/stockage/packages/f23/texlive/translations/es.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 177 | 1221 | 14.5 | /mnt/stockage/packages/f23/texlive/translations/zh_TW.po | 
+ | [de](/f23/language/de) | 1221 | 1221 | 100.0 | /mnt/stockage/packages/f23/texlive/texmf-dist/doc/support/latex-git-log/po/de.po/mnt/stockage/packages/f23/texlive/translations/de.po | 
+ | [pt_BR](/f23/language/pt_BR) | 1221 | 1221 | 100.0 | /mnt/stockage/packages/f23/texlive/translations/pt_BR.po | 
+ | [ru](/f23/language/ru) | 1221 | 1221 | 100.0 | /mnt/stockage/packages/f23/texlive/translations/ru.po | 
+ | [cs](/f23/language/cs) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/cs.po | 
+ | [it](/f23/language/it) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/it.po | 
+ | [pl](/f23/language/pl) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/pl.po | 
+ | [sk](/f23/language/sk) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/sk.po | 
+ | [sr](/f23/language/sr) | 1102 | 1221 | 90.3 | /mnt/stockage/packages/f23/texlive/translations/sr.po | 
+ | [fr](/f23/language/fr) | 1101 | 1221 | 90.2 | /mnt/stockage/packages/f23/texlive/translations/fr.po | 
+ | [nl](/f23/language/nl) | 1101 | 1221 | 90.2 | /mnt/stockage/packages/f23/texlive/translations/nl.po | 
+ | [uk](/f23/language/uk) | 1098 | 1221 | 89.9 | /mnt/stockage/packages/f23/texlive/translations/uk.po | 
+ | [vi](/f23/language/vi) | 889 | 1221 | 72.8 | /mnt/stockage/packages/f23/texlive/translations/vi.po | 
+ | [ja](/f23/language/ja) | 851 | 1221 | 69.7 | /mnt/stockage/packages/f23/texlive/translations/ja.po | 
+ | [sl](/f23/language/sl) | 837 | 1221 | 68.6 | /mnt/stockage/packages/f23/texlive/translations/sl.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 594 | 1221 | 48.6 | /mnt/stockage/packages/f23/texlive/translations/zh_CN.po | 
+ | [es](/f23/language/es) | 585 | 1221 | 47.9 | /mnt/stockage/packages/f23/texlive/translations/es.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 177 | 1221 | 14.5 | /mnt/stockage/packages/f23/texlive/translations/zh_TW.po | 
 {.sortable}
 
 

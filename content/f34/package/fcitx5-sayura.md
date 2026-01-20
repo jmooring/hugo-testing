@@ -18,17 +18,17 @@ The package fcitx5-sayura (version 5.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/da.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/he.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ja.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ru.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/zh_TW.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 9 | 12 | 75.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ko.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 8 | 12 | 66.7 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ca.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 8 | 12 | 66.7 | /mnt/stockage/packages/f34/fcitx5-sayura/po/de.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 8 | 12 | 66.7 | /mnt/stockage/packages/f34/fcitx5-sayura/po/vi.po | 
+ | [da](/f34/language/da) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/da.po | 
+ | [he](/f34/language/he) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/he.po | 
+ | [ja](/f34/language/ja) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ja.po | 
+ | [ru](/f34/language/ru) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ru.po | 
+ | [tr](/f34/language/tr) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 12 | 12 | 100.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/zh_TW.po | 
+ | [ko](/f34/language/ko) | 9 | 12 | 75.0 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ko.po | 
+ | [ca](/f34/language/ca) | 8 | 12 | 66.7 | /mnt/stockage/packages/f34/fcitx5-sayura/po/ca.po | 
+ | [de](/f34/language/de) | 8 | 12 | 66.7 | /mnt/stockage/packages/f34/fcitx5-sayura/po/de.po | 
+ | [vi](/f34/language/vi) | 8 | 12 | 66.7 | /mnt/stockage/packages/f34/fcitx5-sayura/po/vi.po | 
 {.sortable}
 
 

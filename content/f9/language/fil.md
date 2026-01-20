@@ -41,8 +41,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f9/package/stellarium.md" >}}) | 912 | 1147 | 79.5 | Filipino <fil@li.org> | 
- | [Miro]({{< ref "/f9/package/Miro.md" >}}) | 262 | 3616 | 7.2 |  | 
+ | [stellarium](/f9/package/stellarium) | 912 | 1147 | 79.5 | Filipino <fil@li.org> | 
+ | [Miro](/f9/package/Miro) | 262 | 3616 | 7.2 |  | 
 {.sortable}
 
 
@@ -54,7 +54,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [Miro]({{< ref "/f9/package/Miro.md" >}}) | /mnt/stockage/packages/f9/Miro/resources/locale/fil.po | error-os |  | 
+ | [Miro](/f9/package/Miro) | /mnt/stockage/packages/f9/Miro/resources/locale/fil.po | error-os |  | 
 {.sortable}
 
 

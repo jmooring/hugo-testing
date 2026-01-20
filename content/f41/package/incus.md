@@ -18,20 +18,20 @@ The package incus (version 6.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 14625 | 14625 | 100.0 | /mnt/stockage/packages/f41/incus/po/pt.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 7715 | 14625 | 52.8 | /mnt/stockage/packages/f41/incus/po/ja.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 4618 | 14625 | 31.6 | /mnt/stockage/packages/f41/incus/po/zh_Hans.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 3676 | 14625 | 25.1 | /mnt/stockage/packages/f41/incus/po/fr.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1735 | 14625 | 11.9 | /mnt/stockage/packages/f41/incus/po/nl.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 1410 | 14625 | 9.6 | /mnt/stockage/packages/f41/incus/po/de.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 573 | 14625 | 3.9 | /mnt/stockage/packages/f41/incus/po/id.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 519 | 14625 | 3.5 | /mnt/stockage/packages/f41/incus/po/pt_BR.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 236 | 14625 | 1.6 | /mnt/stockage/packages/f41/incus/po/es.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 157 | 14625 | 1.1 | /mnt/stockage/packages/f41/incus/po/zh_Hant.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 89 | 14625 | 0.6 | /mnt/stockage/packages/f41/incus/po/it.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 49 | 14625 | 0.3 | /mnt/stockage/packages/f41/incus/po/nb_NO.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 44 | 14625 | 0.3 | /mnt/stockage/packages/f41/incus/po/ru.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 0 | 14625 | 0.0 | /mnt/stockage/packages/f41/incus/po/ta.po | 
+ | [pt](/f41/language/pt) | 14625 | 14625 | 100.0 | /mnt/stockage/packages/f41/incus/po/pt.po | 
+ | [ja](/f41/language/ja) | 7715 | 14625 | 52.8 | /mnt/stockage/packages/f41/incus/po/ja.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 4618 | 14625 | 31.6 | /mnt/stockage/packages/f41/incus/po/zh_Hans.po | 
+ | [fr](/f41/language/fr) | 3676 | 14625 | 25.1 | /mnt/stockage/packages/f41/incus/po/fr.po | 
+ | [nl](/f41/language/nl) | 1735 | 14625 | 11.9 | /mnt/stockage/packages/f41/incus/po/nl.po | 
+ | [de](/f41/language/de) | 1410 | 14625 | 9.6 | /mnt/stockage/packages/f41/incus/po/de.po | 
+ | [id](/f41/language/id) | 573 | 14625 | 3.9 | /mnt/stockage/packages/f41/incus/po/id.po | 
+ | [pt_BR](/f41/language/pt_BR) | 519 | 14625 | 3.5 | /mnt/stockage/packages/f41/incus/po/pt_BR.po | 
+ | [es](/f41/language/es) | 236 | 14625 | 1.6 | /mnt/stockage/packages/f41/incus/po/es.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 157 | 14625 | 1.1 | /mnt/stockage/packages/f41/incus/po/zh_Hant.po | 
+ | [it](/f41/language/it) | 89 | 14625 | 0.6 | /mnt/stockage/packages/f41/incus/po/it.po | 
+ | [nb_NO](/f41/language/nb_NO) | 49 | 14625 | 0.3 | /mnt/stockage/packages/f41/incus/po/nb_NO.po | 
+ | [ru](/f41/language/ru) | 44 | 14625 | 0.3 | /mnt/stockage/packages/f41/incus/po/ru.po | 
+ | [ta](/f41/language/ta) | 0 | 14625 | 0.0 | /mnt/stockage/packages/f41/incus/po/ta.po | 
 {.sortable}
 
 

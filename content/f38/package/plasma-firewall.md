@@ -18,42 +18,42 @@ The package plasma-firewall (version 5.27.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ar/kcm_firewall.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/az/kcm_firewall.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/bg/kcm_firewall.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ca/kcm_firewall.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ca@valencia/kcm_firewall.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/en_GB/kcm_firewall.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/es/kcm_firewall.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/eu/kcm_firewall.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/fi/kcm_firewall.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/fr/kcm_firewall.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/hu/kcm_firewall.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ia/kcm_firewall.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/id/kcm_firewall.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/it/kcm_firewall.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ka/kcm_firewall.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ko/kcm_firewall.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/lt/kcm_firewall.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/nl/kcm_firewall.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/nn/kcm_firewall.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/pl/kcm_firewall.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/pt/kcm_firewall.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/pt_BR/kcm_firewall.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ru/kcm_firewall.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/sk/kcm_firewall.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/sl/kcm_firewall.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/sv/kcm_firewall.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/tr/kcm_firewall.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/uk/kcm_firewall.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/zh_CN/kcm_firewall.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 366 | 404 | 90.6 | /mnt/stockage/packages/f38/plasma-firewall/po/zh_TW/kcm_firewall.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 324 | 404 | 80.2 | /mnt/stockage/packages/f38/plasma-firewall/po/ro/kcm_firewall.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 310 | 404 | 76.7 | /mnt/stockage/packages/f38/plasma-firewall/po/da/kcm_firewall.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 258 | 404 | 63.9 | /mnt/stockage/packages/f38/plasma-firewall/po/et/kcm_firewall.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 223 | 404 | 55.2 | /mnt/stockage/packages/f38/plasma-firewall/po/de/kcm_firewall.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 205 | 404 | 50.7 | /mnt/stockage/packages/f38/plasma-firewall/po/cs/kcm_firewall.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ja/kcm_firewall.po | 
+ | [ar](/f38/language/ar) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ar/kcm_firewall.po | 
+ | [az](/f38/language/az) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/az/kcm_firewall.po | 
+ | [bg](/f38/language/bg) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/bg/kcm_firewall.po | 
+ | [ca](/f38/language/ca) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ca/kcm_firewall.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ca@valencia/kcm_firewall.po | 
+ | [en_GB](/f38/language/en_GB) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/en_GB/kcm_firewall.po | 
+ | [es](/f38/language/es) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/es/kcm_firewall.po | 
+ | [eu](/f38/language/eu) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/eu/kcm_firewall.po | 
+ | [fi](/f38/language/fi) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/fi/kcm_firewall.po | 
+ | [fr](/f38/language/fr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/fr/kcm_firewall.po | 
+ | [hu](/f38/language/hu) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/hu/kcm_firewall.po | 
+ | [ia](/f38/language/ia) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ia/kcm_firewall.po | 
+ | [id](/f38/language/id) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/id/kcm_firewall.po | 
+ | [it](/f38/language/it) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/it/kcm_firewall.po | 
+ | [ka](/f38/language/ka) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ka/kcm_firewall.po | 
+ | [ko](/f38/language/ko) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ko/kcm_firewall.po | 
+ | [lt](/f38/language/lt) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/lt/kcm_firewall.po | 
+ | [nl](/f38/language/nl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/nl/kcm_firewall.po | 
+ | [nn](/f38/language/nn) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/nn/kcm_firewall.po | 
+ | [pl](/f38/language/pl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/pl/kcm_firewall.po | 
+ | [pt](/f38/language/pt) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/pt/kcm_firewall.po | 
+ | [pt_BR](/f38/language/pt_BR) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/pt_BR/kcm_firewall.po | 
+ | [ru](/f38/language/ru) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ru/kcm_firewall.po | 
+ | [sk](/f38/language/sk) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/sk/kcm_firewall.po | 
+ | [sl](/f38/language/sl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/sl/kcm_firewall.po | 
+ | [sv](/f38/language/sv) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/sv/kcm_firewall.po | 
+ | [tr](/f38/language/tr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/tr/kcm_firewall.po | 
+ | [uk](/f38/language/uk) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/uk/kcm_firewall.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 404 | 404 | 100.0 | /mnt/stockage/packages/f38/plasma-firewall/po/zh_CN/kcm_firewall.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 366 | 404 | 90.6 | /mnt/stockage/packages/f38/plasma-firewall/po/zh_TW/kcm_firewall.po | 
+ | [ro](/f38/language/ro) | 324 | 404 | 80.2 | /mnt/stockage/packages/f38/plasma-firewall/po/ro/kcm_firewall.po | 
+ | [da](/f38/language/da) | 310 | 404 | 76.7 | /mnt/stockage/packages/f38/plasma-firewall/po/da/kcm_firewall.po | 
+ | [et](/f38/language/et) | 258 | 404 | 63.9 | /mnt/stockage/packages/f38/plasma-firewall/po/et/kcm_firewall.po | 
+ | [de](/f38/language/de) | 223 | 404 | 55.2 | /mnt/stockage/packages/f38/plasma-firewall/po/de/kcm_firewall.po | 
+ | [cs](/f38/language/cs) | 205 | 404 | 50.7 | /mnt/stockage/packages/f38/plasma-firewall/po/cs/kcm_firewall.po | 
+ | [ja](/f38/language/ja) | 0 | 404 | 0.0 | /mnt/stockage/packages/f38/plasma-firewall/po/ja/kcm_firewall.po | 
 {.sortable}
 
 

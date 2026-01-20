@@ -18,25 +18,25 @@ The package rt3 (version 3.6.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f7/language/en.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/en.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 5994 | 6125 | 97.9 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/ru.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 4219 | 4463 | 94.5 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 4269 | 4518 | 94.5 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 5508 | 5884 | 93.6 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/es.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 5369 | 6004 | 89.4 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/it.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 4262 | 4881 | 87.3 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/id.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 4990 | 5721 | 87.2 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/da.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 5992 | 6887 | 87.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/zh_cn.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 5992 | 6887 | 87.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/zh_tw.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 5003 | 6022 | 83.1 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/pl.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 4437 | 5639 | 78.7 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/cs.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 4282 | 5951 | 72.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/no.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 4221 | 5943 | 71.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/pt_br.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 3290 | 5644 | 58.3 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/fi.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 2458 | 4478 | 54.9 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/hu.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2542 | 5389 | 47.2 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/ja.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 917 | 4635 | 19.8 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/he.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/nl.po | 
+ | [en](/f7/language/en) | 23 | 23 | 100.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/en.po | 
+ | [ru](/f7/language/ru) | 5994 | 6125 | 97.9 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/ru.po | 
+ | [fr](/f7/language/fr) | 4219 | 4463 | 94.5 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/fr.po | 
+ | [de](/f7/language/de) | 4269 | 4518 | 94.5 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/de.po | 
+ | [es](/f7/language/es) | 5508 | 5884 | 93.6 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/es.po | 
+ | [it](/f7/language/it) | 5369 | 6004 | 89.4 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/it.po | 
+ | [id](/f7/language/id) | 4262 | 4881 | 87.3 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/id.po | 
+ | [da](/f7/language/da) | 4990 | 5721 | 87.2 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/da.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 5992 | 6887 | 87.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/zh_cn.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 5992 | 6887 | 87.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/zh_tw.po | 
+ | [pl](/f7/language/pl) | 5003 | 6022 | 83.1 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/pl.po | 
+ | [cs](/f7/language/cs) | 4437 | 5639 | 78.7 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/cs.po | 
+ | [nb_NO](/f7/language/nb_NO) | 4282 | 5951 | 72.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/no.po | 
+ | [pt_BR](/f7/language/pt_BR) | 4221 | 5943 | 71.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/pt_br.po | 
+ | [fi](/f7/language/fi) | 3290 | 5644 | 58.3 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/fi.po | 
+ | [hu](/f7/language/hu) | 2458 | 4478 | 54.9 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/hu.po | 
+ | [ja](/f7/language/ja) | 2542 | 5389 | 47.2 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/ja.po | 
+ | [he](/f7/language/he) | 917 | 4635 | 19.8 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/he.po | 
+ | [nl](/f7/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/rt3/lib/RT/I18N/nl.po | 
 {.sortable}
 
 

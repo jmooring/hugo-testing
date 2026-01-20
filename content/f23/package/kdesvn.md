@@ -18,18 +18,18 @@ The package kdesvn (version 1.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 4219 | 4219 | 100.0 | /mnt/stockage/packages/f23/kdesvn/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 4219 | 4219 | 100.0 | /mnt/stockage/packages/f23/kdesvn/po/de.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 4215 | 4219 | 99.9 | /mnt/stockage/packages/f23/kdesvn/po/ru.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 4213 | 4219 | 99.9 | /mnt/stockage/packages/f23/kdesvn/po/nl.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 4084 | 4219 | 96.8 | /mnt/stockage/packages/f23/kdesvn/po/es.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f23/kdesvn/po/ja.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f23/kdesvn/po/ro.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3310 | 4219 | 78.5 | /mnt/stockage/packages/f23/kdesvn/po/fr.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1566 | 4219 | 37.1 | /mnt/stockage/packages/f23/kdesvn/po/el.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1118 | 4219 | 26.5 | /mnt/stockage/packages/f23/kdesvn/po/it.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 990 | 4219 | 23.5 | /mnt/stockage/packages/f23/kdesvn/po/lt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 756 | 4219 | 17.9 | /mnt/stockage/packages/f23/kdesvn/po/pt_BR.po | 
+ | [cs](/f23/language/cs) | 4219 | 4219 | 100.0 | /mnt/stockage/packages/f23/kdesvn/po/cs.po | 
+ | [de](/f23/language/de) | 4219 | 4219 | 100.0 | /mnt/stockage/packages/f23/kdesvn/po/de.po | 
+ | [ru](/f23/language/ru) | 4215 | 4219 | 99.9 | /mnt/stockage/packages/f23/kdesvn/po/ru.po | 
+ | [nl](/f23/language/nl) | 4213 | 4219 | 99.9 | /mnt/stockage/packages/f23/kdesvn/po/nl.po | 
+ | [es](/f23/language/es) | 4084 | 4219 | 96.8 | /mnt/stockage/packages/f23/kdesvn/po/es.po | 
+ | [ja](/f23/language/ja) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f23/kdesvn/po/ja.po | 
+ | [ro](/f23/language/ro) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f23/kdesvn/po/ro.po | 
+ | [fr](/f23/language/fr) | 3310 | 4219 | 78.5 | /mnt/stockage/packages/f23/kdesvn/po/fr.po | 
+ | [el](/f23/language/el) | 1566 | 4219 | 37.1 | /mnt/stockage/packages/f23/kdesvn/po/el.po | 
+ | [it](/f23/language/it) | 1118 | 4219 | 26.5 | /mnt/stockage/packages/f23/kdesvn/po/it.po | 
+ | [lt](/f23/language/lt) | 990 | 4219 | 23.5 | /mnt/stockage/packages/f23/kdesvn/po/lt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 756 | 4219 | 17.9 | /mnt/stockage/packages/f23/kdesvn/po/pt_BR.po | 
 {.sortable}
 
 

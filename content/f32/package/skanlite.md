@@ -18,59 +18,59 @@ The package skanlite (version 2.1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ca/skanlite.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ca@valencia/skanlite.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/cs/skanlite.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/da/skanlite.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/de/skanlite.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/el/skanlite.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/en_GB/skanlite.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/es/skanlite.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ia/skanlite.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/id/skanlite.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/is/skanlite.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/it/skanlite.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/nl/skanlite.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/nn/skanlite.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/pl/skanlite.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/pt/skanlite.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ru/skanlite.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/sl/skanlite.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/sv/skanlite.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/tr/skanlite.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/uk/skanlite.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/zh_CN/skanlite.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/fi/skanlite.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/gl/skanlite.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/ko/skanlite.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/pt_BR/skanlite.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/sk/skanlite.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/bs/skanlite.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/fr/skanlite.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/hu/skanlite.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/nds/skanlite.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/ro/skanlite.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/zh_TW/skanlite.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/bg/skanlite.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/mr/skanlite.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/et/skanlite.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/nb/skanlite.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 149 | 186 | 80.1 | /mnt/stockage/packages/f32/skanlite/po/km/skanlite.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 132 | 186 | 71.0 | /mnt/stockage/packages/f32/skanlite/po/lt/skanlite.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 130 | 186 | 69.9 | /mnt/stockage/packages/f32/skanlite/po/ar/skanlite.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 124 | 186 | 66.7 | /mnt/stockage/packages/f32/skanlite/po/ja/skanlite.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 115 | 186 | 61.8 | /mnt/stockage/packages/f32/skanlite/po/ga/skanlite.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 101 | 186 | 54.3 | /mnt/stockage/packages/f32/skanlite/po/eu/skanlite.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 101 | 186 | 54.3 | /mnt/stockage/packages/f32/skanlite/po/wa/skanlite.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 87 | 186 | 46.8 | /mnt/stockage/packages/f32/skanlite/po/ug/skanlite.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 76 | 186 | 40.9 | /mnt/stockage/packages/f32/skanlite/po/pa/skanlite.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 76 | 186 | 40.9 | /mnt/stockage/packages/f32/skanlite/po/sq/skanlite.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 55 | 186 | 29.6 | /mnt/stockage/packages/f32/skanlite/po/lv/skanlite.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 41 | 186 | 22.0 | /mnt/stockage/packages/f32/skanlite/po/eo/skanlite.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 35 | 186 | 18.8 | /mnt/stockage/packages/f32/skanlite/po/mai/skanlite.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 4 | 186 | 2.2 | /mnt/stockage/packages/f32/skanlite/po/ast/skanlite.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 3 | 186 | 1.6 | /mnt/stockage/packages/f32/skanlite/po/be/skanlite.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 3 | 186 | 1.6 | /mnt/stockage/packages/f32/skanlite/po/hr/skanlite.po | 
+ | [ca](/f32/language/ca) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ca/skanlite.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ca@valencia/skanlite.po | 
+ | [cs](/f32/language/cs) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/cs/skanlite.po | 
+ | [da](/f32/language/da) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/da/skanlite.po | 
+ | [de](/f32/language/de) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/de/skanlite.po | 
+ | [el](/f32/language/el) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/el/skanlite.po | 
+ | [en_GB](/f32/language/en_GB) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/en_GB/skanlite.po | 
+ | [es](/f32/language/es) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/es/skanlite.po | 
+ | [ia](/f32/language/ia) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ia/skanlite.po | 
+ | [id](/f32/language/id) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/id/skanlite.po | 
+ | [is](/f32/language/is) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/is/skanlite.po | 
+ | [it](/f32/language/it) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/it/skanlite.po | 
+ | [nl](/f32/language/nl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/nl/skanlite.po | 
+ | [nn](/f32/language/nn) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/nn/skanlite.po | 
+ | [pl](/f32/language/pl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/pl/skanlite.po | 
+ | [pt](/f32/language/pt) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/pt/skanlite.po | 
+ | [ru](/f32/language/ru) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/ru/skanlite.po | 
+ | [sl](/f32/language/sl) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/sl/skanlite.po | 
+ | [sv](/f32/language/sv) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/sv/skanlite.po | 
+ | [tr](/f32/language/tr) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/tr/skanlite.po | 
+ | [uk](/f32/language/uk) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/uk/skanlite.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 186 | 186 | 100.0 | /mnt/stockage/packages/f32/skanlite/po/zh_CN/skanlite.po | 
+ | [fi](/f32/language/fi) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/fi/skanlite.po | 
+ | [gl](/f32/language/gl) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/gl/skanlite.po | 
+ | [ko](/f32/language/ko) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/ko/skanlite.po | 
+ | [pt_BR](/f32/language/pt_BR) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/pt_BR/skanlite.po | 
+ | [sk](/f32/language/sk) | 179 | 186 | 96.2 | /mnt/stockage/packages/f32/skanlite/po/sk/skanlite.po | 
+ | [bs](/f32/language/bs) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/bs/skanlite.po | 
+ | [fr](/f32/language/fr) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/fr/skanlite.po | 
+ | [hu](/f32/language/hu) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/hu/skanlite.po | 
+ | [nds](/f32/language/nds) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/nds/skanlite.po | 
+ | [ro](/f32/language/ro) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/ro/skanlite.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 163 | 186 | 87.6 | /mnt/stockage/packages/f32/skanlite/po/zh_TW/skanlite.po | 
+ | [bg](/f32/language/bg) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/bg/skanlite.po | 
+ | [en_US](/f32/language/en_US) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/mr/skanlite.po | 
+ | [et](/f32/language/et) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/et/skanlite.po | 
+ | [nb_NO](/f32/language/nb_NO) | 159 | 186 | 85.5 | /mnt/stockage/packages/f32/skanlite/po/nb/skanlite.po | 
+ | [km](/f32/language/km) | 149 | 186 | 80.1 | /mnt/stockage/packages/f32/skanlite/po/km/skanlite.po | 
+ | [lt](/f32/language/lt) | 132 | 186 | 71.0 | /mnt/stockage/packages/f32/skanlite/po/lt/skanlite.po | 
+ | [ar](/f32/language/ar) | 130 | 186 | 69.9 | /mnt/stockage/packages/f32/skanlite/po/ar/skanlite.po | 
+ | [ja](/f32/language/ja) | 124 | 186 | 66.7 | /mnt/stockage/packages/f32/skanlite/po/ja/skanlite.po | 
+ | [ga](/f32/language/ga) | 115 | 186 | 61.8 | /mnt/stockage/packages/f32/skanlite/po/ga/skanlite.po | 
+ | [eu](/f32/language/eu) | 101 | 186 | 54.3 | /mnt/stockage/packages/f32/skanlite/po/eu/skanlite.po | 
+ | [wa](/f32/language/wa) | 101 | 186 | 54.3 | /mnt/stockage/packages/f32/skanlite/po/wa/skanlite.po | 
+ | [ug](/f32/language/ug) | 87 | 186 | 46.8 | /mnt/stockage/packages/f32/skanlite/po/ug/skanlite.po | 
+ | [pa](/f32/language/pa) | 76 | 186 | 40.9 | /mnt/stockage/packages/f32/skanlite/po/pa/skanlite.po | 
+ | [sq](/f32/language/sq) | 76 | 186 | 40.9 | /mnt/stockage/packages/f32/skanlite/po/sq/skanlite.po | 
+ | [lv](/f32/language/lv) | 55 | 186 | 29.6 | /mnt/stockage/packages/f32/skanlite/po/lv/skanlite.po | 
+ | [eo](/f32/language/eo) | 41 | 186 | 22.0 | /mnt/stockage/packages/f32/skanlite/po/eo/skanlite.po | 
+ | [mai](/f32/language/mai) | 35 | 186 | 18.8 | /mnt/stockage/packages/f32/skanlite/po/mai/skanlite.po | 
+ | [ast](/f32/language/ast) | 4 | 186 | 2.2 | /mnt/stockage/packages/f32/skanlite/po/ast/skanlite.po | 
+ | [be](/f32/language/be) | 3 | 186 | 1.6 | /mnt/stockage/packages/f32/skanlite/po/be/skanlite.po | 
+ | [hr](/f32/language/hr) | 3 | 186 | 1.6 | /mnt/stockage/packages/f32/skanlite/po/hr/skanlite.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package trytond-account-stock-continental (version 2.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/ca_ES.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 209 | 209 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/de_DE.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/es_ES.po | 
- | [es_AR]({{< ref "/f19/language/es_AR.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/es_AR.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/fr_FR.po | 
- | [es_CO]({{< ref "/f19/language/es_CO.md" >}}) | 124 | 207 | 59.9 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/es_CO.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/bg_BG.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/cs_CZ.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/nl_NL.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/ru_RU.po | 
+ | [ca](/f19/language/ca) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/ca_ES.po | 
+ | [de](/f19/language/de) | 209 | 209 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/de_DE.po | 
+ | [es](/f19/language/es) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/es_ES.po | 
+ | [es_AR](/f19/language/es_AR) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/es_AR.po | 
+ | [fr](/f19/language/fr) | 207 | 207 | 100.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/fr_FR.po | 
+ | [es_CO](/f19/language/es_CO) | 124 | 207 | 59.9 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/es_CO.po | 
+ | [bg](/f19/language/bg) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/bg_BG.po | 
+ | [cs](/f19/language/cs) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/cs_CZ.po | 
+ | [nl](/f19/language/nl) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/nl_NL.po | 
+ | [ru](/f19/language/ru) | 0 | 207 | 0.0 | /mnt/stockage/packages/f19/trytond-account-stock-continental/locale/ru_RU.po | 
 {.sortable}
 
 

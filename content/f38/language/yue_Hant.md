@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [minetest]({{< ref "/f38/package/minetest.md" >}}) | 0 | 9523 | 0.0 | none | 
- | [python-sphinx]({{< ref "/f38/package/python-sphinx.md" >}}) | 0 | 4983 | 0.0 | Cantonese (http://www.transifex.com/sphinx-doc/sphinx-1/language/yue/) | 
+ | [minetest](/f38/package/minetest) | 0 | 9523 | 0.0 | none | 
+ | [python-sphinx](/f38/package/python-sphinx) | 0 | 4983 | 0.0 | Cantonese (http://www.transifex.com/sphinx-doc/sphinx-1/language/yue/) | 
 {.sortable}
 
 

@@ -18,52 +18,52 @@ The package kf5-pimcommon (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ar/libpimcommon.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ca/libpimcommon.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ca@valencia/libpimcommon.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/de/libpimcommon.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/en_GB/libpimcommon.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/eo/libpimcommon.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/es/libpimcommon.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/eu/libpimcommon.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/fi/libpimcommon.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/fr/libpimcommon.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/gl/libpimcommon.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ia/libpimcommon.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/it/libpimcommon.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ka/libpimcommon.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ko/libpimcommon.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/nl/libpimcommon.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/pl/libpimcommon.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/pt/libpimcommon.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/pt_BR/libpimcommon.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ru/libpimcommon.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sl/libpimcommon.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sv/libpimcommon.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/tr/libpimcommon.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/uk/libpimcommon.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 807 | 830 | 97.2 | /mnt/stockage/packages/f42/kf5-pimcommon/po/hu/libpimcommon.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 799 | 830 | 96.3 | /mnt/stockage/packages/f42/kf5-pimcommon/po/da/libpimcommon.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 778 | 830 | 93.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/cs/libpimcommon.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr/libpimcommon.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr@ijekavian/libpimcommon.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr@ijekavianlatin/libpimcommon.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr@latin/libpimcommon.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 638 | 830 | 76.9 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sk/libpimcommon.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 612 | 830 | 73.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/zh_CN/libpimcommon.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 588 | 830 | 70.8 | /mnt/stockage/packages/f42/kf5-pimcommon/po/et/libpimcommon.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 419 | 830 | 50.5 | /mnt/stockage/packages/f42/kf5-pimcommon/po/nb/libpimcommon.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 303 | 830 | 36.5 | /mnt/stockage/packages/f42/kf5-pimcommon/po/zh_TW/libpimcommon.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 252 | 830 | 30.4 | /mnt/stockage/packages/f42/kf5-pimcommon/po/el/libpimcommon.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 252 | 830 | 30.4 | /mnt/stockage/packages/f42/kf5-pimcommon/po/nds/libpimcommon.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 232 | 830 | 28.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/kk/libpimcommon.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 229 | 830 | 27.6 | /mnt/stockage/packages/f42/kf5-pimcommon/po/bs/libpimcommon.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 132 | 830 | 15.9 | /mnt/stockage/packages/f42/kf5-pimcommon/po/lt/libpimcommon.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 101 | 830 | 12.2 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ug/libpimcommon.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 98 | 830 | 11.8 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ro/libpimcommon.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 28 | 830 | 3.4 | /mnt/stockage/packages/f42/kf5-pimcommon/po/mr/libpimcommon.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 19 | 830 | 2.3 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ga/libpimcommon.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 830 | 0.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ja/libpimcommon.po | 
+ | [ar](/f42/language/ar) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ar/libpimcommon.po | 
+ | [ca](/f42/language/ca) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ca/libpimcommon.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ca@valencia/libpimcommon.po | 
+ | [de](/f42/language/de) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/de/libpimcommon.po | 
+ | [en_GB](/f42/language/en_GB) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/en_GB/libpimcommon.po | 
+ | [eo](/f42/language/eo) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/eo/libpimcommon.po | 
+ | [es](/f42/language/es) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/es/libpimcommon.po | 
+ | [eu](/f42/language/eu) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/eu/libpimcommon.po | 
+ | [fi](/f42/language/fi) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/fi/libpimcommon.po | 
+ | [fr](/f42/language/fr) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/fr/libpimcommon.po | 
+ | [gl](/f42/language/gl) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/gl/libpimcommon.po | 
+ | [ia](/f42/language/ia) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ia/libpimcommon.po | 
+ | [it](/f42/language/it) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/it/libpimcommon.po | 
+ | [ka](/f42/language/ka) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ka/libpimcommon.po | 
+ | [ko](/f42/language/ko) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ko/libpimcommon.po | 
+ | [nl](/f42/language/nl) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/nl/libpimcommon.po | 
+ | [pl](/f42/language/pl) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/pl/libpimcommon.po | 
+ | [pt](/f42/language/pt) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/pt/libpimcommon.po | 
+ | [pt_BR](/f42/language/pt_BR) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/pt_BR/libpimcommon.po | 
+ | [ru](/f42/language/ru) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ru/libpimcommon.po | 
+ | [sl](/f42/language/sl) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sl/libpimcommon.po | 
+ | [sv](/f42/language/sv) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sv/libpimcommon.po | 
+ | [tr](/f42/language/tr) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/tr/libpimcommon.po | 
+ | [uk](/f42/language/uk) | 830 | 830 | 100.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/uk/libpimcommon.po | 
+ | [hu](/f42/language/hu) | 807 | 830 | 97.2 | /mnt/stockage/packages/f42/kf5-pimcommon/po/hu/libpimcommon.po | 
+ | [da](/f42/language/da) | 799 | 830 | 96.3 | /mnt/stockage/packages/f42/kf5-pimcommon/po/da/libpimcommon.po | 
+ | [cs](/f42/language/cs) | 778 | 830 | 93.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/cs/libpimcommon.po | 
+ | [sr](/f42/language/sr) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr/libpimcommon.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr@ijekavian/libpimcommon.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr@ijekavianlatin/libpimcommon.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 988 | 1255 | 78.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sr@latin/libpimcommon.po | 
+ | [sk](/f42/language/sk) | 638 | 830 | 76.9 | /mnt/stockage/packages/f42/kf5-pimcommon/po/sk/libpimcommon.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 612 | 830 | 73.7 | /mnt/stockage/packages/f42/kf5-pimcommon/po/zh_CN/libpimcommon.po | 
+ | [et](/f42/language/et) | 588 | 830 | 70.8 | /mnt/stockage/packages/f42/kf5-pimcommon/po/et/libpimcommon.po | 
+ | [nb_NO](/f42/language/nb_NO) | 419 | 830 | 50.5 | /mnt/stockage/packages/f42/kf5-pimcommon/po/nb/libpimcommon.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 303 | 830 | 36.5 | /mnt/stockage/packages/f42/kf5-pimcommon/po/zh_TW/libpimcommon.po | 
+ | [el](/f42/language/el) | 252 | 830 | 30.4 | /mnt/stockage/packages/f42/kf5-pimcommon/po/el/libpimcommon.po | 
+ | [nds](/f42/language/nds) | 252 | 830 | 30.4 | /mnt/stockage/packages/f42/kf5-pimcommon/po/nds/libpimcommon.po | 
+ | [kk](/f42/language/kk) | 232 | 830 | 28.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/kk/libpimcommon.po | 
+ | [bs](/f42/language/bs) | 229 | 830 | 27.6 | /mnt/stockage/packages/f42/kf5-pimcommon/po/bs/libpimcommon.po | 
+ | [lt](/f42/language/lt) | 132 | 830 | 15.9 | /mnt/stockage/packages/f42/kf5-pimcommon/po/lt/libpimcommon.po | 
+ | [ug](/f42/language/ug) | 101 | 830 | 12.2 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ug/libpimcommon.po | 
+ | [ro](/f42/language/ro) | 98 | 830 | 11.8 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ro/libpimcommon.po | 
+ | [mr](/f42/language/mr) | 28 | 830 | 3.4 | /mnt/stockage/packages/f42/kf5-pimcommon/po/mr/libpimcommon.po | 
+ | [ga](/f42/language/ga) | 19 | 830 | 2.3 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ga/libpimcommon.po | 
+ | [ja](/f42/language/ja) | 0 | 830 | 0.0 | /mnt/stockage/packages/f42/kf5-pimcommon/po/ja/libpimcommon.po | 
 {.sortable}
 
 

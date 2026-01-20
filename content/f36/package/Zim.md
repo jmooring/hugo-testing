@@ -18,45 +18,45 @@ The package Zim (version 0.75.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f36/Zim/translations/de.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f36/Zim/translations/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f36/Zim/translations/hu.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 3365 | 3386 | 99.4 | /mnt/stockage/packages/f36/Zim/translations/it.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 3329 | 3386 | 98.3 | /mnt/stockage/packages/f36/Zim/translations/zh_CN.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 3256 | 3386 | 96.2 | /mnt/stockage/packages/f36/Zim/translations/eu.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 3241 | 3386 | 95.7 | /mnt/stockage/packages/f36/Zim/translations/fr.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 3241 | 3386 | 95.7 | /mnt/stockage/packages/f36/Zim/translations/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 3235 | 3386 | 95.5 | /mnt/stockage/packages/f36/Zim/translations/ru.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 3133 | 3386 | 92.5 | /mnt/stockage/packages/f36/Zim/translations/nl.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 3053 | 3386 | 90.2 | /mnt/stockage/packages/f36/Zim/translations/es.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 2929 | 3386 | 86.5 | /mnt/stockage/packages/f36/Zim/translations/he.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 2564 | 3386 | 75.7 | /mnt/stockage/packages/f36/Zim/translations/ja.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 2548 | 3386 | 75.3 | /mnt/stockage/packages/f36/Zim/translations/da.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 2538 | 3386 | 75.0 | /mnt/stockage/packages/f36/Zim/translations/en_GB.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 2534 | 3386 | 74.8 | /mnt/stockage/packages/f36/Zim/translations/cs.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 2499 | 3386 | 73.8 | /mnt/stockage/packages/f36/Zim/translations/pt_BR.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 2472 | 3386 | 73.0 | /mnt/stockage/packages/f36/Zim/translations/am.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 2463 | 3386 | 72.7 | /mnt/stockage/packages/f36/Zim/translations/ca.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 2453 | 3386 | 72.4 | /mnt/stockage/packages/f36/Zim/translations/sv.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 2449 | 3386 | 72.3 | /mnt/stockage/packages/f36/Zim/translations/id.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2381 | 3386 | 70.3 | /mnt/stockage/packages/f36/Zim/translations/uk.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 2366 | 3386 | 69.9 | /mnt/stockage/packages/f36/Zim/translations/ko.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 2199 | 3386 | 64.9 | /mnt/stockage/packages/f36/Zim/translations/ar.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 2083 | 3386 | 61.5 | /mnt/stockage/packages/f36/Zim/translations/ro.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 1978 | 3386 | 58.4 | /mnt/stockage/packages/f36/Zim/translations/el.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1926 | 3386 | 56.9 | /mnt/stockage/packages/f36/Zim/translations/pl.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1890 | 3386 | 55.8 | /mnt/stockage/packages/f36/Zim/translations/fi.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 1862 | 3386 | 55.0 | /mnt/stockage/packages/f36/Zim/translations/nb.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 1796 | 3386 | 53.0 | /mnt/stockage/packages/f36/Zim/translations/zh_TW.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 1755 | 3386 | 51.8 | /mnt/stockage/packages/f36/Zim/translations/sl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 1732 | 3386 | 51.2 | /mnt/stockage/packages/f36/Zim/translations/tr.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 1477 | 3386 | 43.6 | /mnt/stockage/packages/f36/Zim/translations/gl.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 1207 | 3386 | 35.6 | /mnt/stockage/packages/f36/Zim/translations/et.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 961 | 3386 | 28.4 | /mnt/stockage/packages/f36/Zim/translations/sk.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 787 | 3386 | 23.2 | /mnt/stockage/packages/f36/Zim/translations/sr.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 548 | 3386 | 16.2 | /mnt/stockage/packages/f36/Zim/translations/si.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 433 | 3386 | 12.8 | /mnt/stockage/packages/f36/Zim/translations/vi.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 0 | 3386 | 0.0 | /mnt/stockage/packages/f36/Zim/translations/sq.po | 
+ | [de](/f36/language/de) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f36/Zim/translations/de.po | 
+ | [hr](/f36/language/hr) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f36/Zim/translations/hr.po | 
+ | [hu](/f36/language/hu) | 3386 | 3386 | 100.0 | /mnt/stockage/packages/f36/Zim/translations/hu.po | 
+ | [it](/f36/language/it) | 3365 | 3386 | 99.4 | /mnt/stockage/packages/f36/Zim/translations/it.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 3329 | 3386 | 98.3 | /mnt/stockage/packages/f36/Zim/translations/zh_CN.po | 
+ | [eu](/f36/language/eu) | 3256 | 3386 | 96.2 | /mnt/stockage/packages/f36/Zim/translations/eu.po | 
+ | [fr](/f36/language/fr) | 3241 | 3386 | 95.7 | /mnt/stockage/packages/f36/Zim/translations/fr.po | 
+ | [pt](/f36/language/pt) | 3241 | 3386 | 95.7 | /mnt/stockage/packages/f36/Zim/translations/pt.po | 
+ | [ru](/f36/language/ru) | 3235 | 3386 | 95.5 | /mnt/stockage/packages/f36/Zim/translations/ru.po | 
+ | [nl](/f36/language/nl) | 3133 | 3386 | 92.5 | /mnt/stockage/packages/f36/Zim/translations/nl.po | 
+ | [es](/f36/language/es) | 3053 | 3386 | 90.2 | /mnt/stockage/packages/f36/Zim/translations/es.po | 
+ | [he](/f36/language/he) | 2929 | 3386 | 86.5 | /mnt/stockage/packages/f36/Zim/translations/he.po | 
+ | [ja](/f36/language/ja) | 2564 | 3386 | 75.7 | /mnt/stockage/packages/f36/Zim/translations/ja.po | 
+ | [da](/f36/language/da) | 2548 | 3386 | 75.3 | /mnt/stockage/packages/f36/Zim/translations/da.po | 
+ | [en_GB](/f36/language/en_GB) | 2538 | 3386 | 75.0 | /mnt/stockage/packages/f36/Zim/translations/en_GB.po | 
+ | [cs](/f36/language/cs) | 2534 | 3386 | 74.8 | /mnt/stockage/packages/f36/Zim/translations/cs.po | 
+ | [pt_BR](/f36/language/pt_BR) | 2499 | 3386 | 73.8 | /mnt/stockage/packages/f36/Zim/translations/pt_BR.po | 
+ | [am](/f36/language/am) | 2472 | 3386 | 73.0 | /mnt/stockage/packages/f36/Zim/translations/am.po | 
+ | [ca](/f36/language/ca) | 2463 | 3386 | 72.7 | /mnt/stockage/packages/f36/Zim/translations/ca.po | 
+ | [sv](/f36/language/sv) | 2453 | 3386 | 72.4 | /mnt/stockage/packages/f36/Zim/translations/sv.po | 
+ | [id](/f36/language/id) | 2449 | 3386 | 72.3 | /mnt/stockage/packages/f36/Zim/translations/id.po | 
+ | [uk](/f36/language/uk) | 2381 | 3386 | 70.3 | /mnt/stockage/packages/f36/Zim/translations/uk.po | 
+ | [ko](/f36/language/ko) | 2366 | 3386 | 69.9 | /mnt/stockage/packages/f36/Zim/translations/ko.po | 
+ | [ar](/f36/language/ar) | 2199 | 3386 | 64.9 | /mnt/stockage/packages/f36/Zim/translations/ar.po | 
+ | [ro](/f36/language/ro) | 2083 | 3386 | 61.5 | /mnt/stockage/packages/f36/Zim/translations/ro.po | 
+ | [el](/f36/language/el) | 1978 | 3386 | 58.4 | /mnt/stockage/packages/f36/Zim/translations/el.po | 
+ | [pl](/f36/language/pl) | 1926 | 3386 | 56.9 | /mnt/stockage/packages/f36/Zim/translations/pl.po | 
+ | [fi](/f36/language/fi) | 1890 | 3386 | 55.8 | /mnt/stockage/packages/f36/Zim/translations/fi.po | 
+ | [nb_NO](/f36/language/nb_NO) | 1862 | 3386 | 55.0 | /mnt/stockage/packages/f36/Zim/translations/nb.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 1796 | 3386 | 53.0 | /mnt/stockage/packages/f36/Zim/translations/zh_TW.po | 
+ | [sl](/f36/language/sl) | 1755 | 3386 | 51.8 | /mnt/stockage/packages/f36/Zim/translations/sl.po | 
+ | [tr](/f36/language/tr) | 1732 | 3386 | 51.2 | /mnt/stockage/packages/f36/Zim/translations/tr.po | 
+ | [gl](/f36/language/gl) | 1477 | 3386 | 43.6 | /mnt/stockage/packages/f36/Zim/translations/gl.po | 
+ | [et](/f36/language/et) | 1207 | 3386 | 35.6 | /mnt/stockage/packages/f36/Zim/translations/et.po | 
+ | [sk](/f36/language/sk) | 961 | 3386 | 28.4 | /mnt/stockage/packages/f36/Zim/translations/sk.po | 
+ | [sr](/f36/language/sr) | 787 | 3386 | 23.2 | /mnt/stockage/packages/f36/Zim/translations/sr.po | 
+ | [si](/f36/language/si) | 548 | 3386 | 16.2 | /mnt/stockage/packages/f36/Zim/translations/si.po | 
+ | [vi](/f36/language/vi) | 433 | 3386 | 12.8 | /mnt/stockage/packages/f36/Zim/translations/vi.po | 
+ | [sq](/f36/language/sq) | 0 | 3386 | 0.0 | /mnt/stockage/packages/f36/Zim/translations/sq.po | 
 {.sortable}
 
 

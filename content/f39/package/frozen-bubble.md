@@ -18,37 +18,37 @@ The package frozen-bubble (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/gl.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/it.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/nb.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/nn.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/tr.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/zh_CN.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/el.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/eo.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/fi.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/lt.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ru.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/sl.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 537 | 698 | 76.9 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/bg.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 447 | 698 | 64.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/fa.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 445 | 698 | 63.8 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ne.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 436 | 698 | 62.5 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ja.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 432 | 698 | 61.9 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ro.po | 
- | [af]({{< ref "/f39/language/af.md" >}}) | 210 | 698 | 30.1 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/af.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 210 | 698 | 30.1 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/nl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 210 | 698 | 30.1 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/pt.po | 
- | [br]({{< ref "/f39/language/br.md" >}}) | 96 | 698 | 13.8 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/br.po | 
+ | [ca](/f39/language/ca) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ca.po | 
+ | [cs](/f39/language/cs) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/cs.po | 
+ | [da](/f39/language/da) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/da.po | 
+ | [de](/f39/language/de) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/de.po | 
+ | [es](/f39/language/es) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/es.po | 
+ | [fr](/f39/language/fr) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/fr.po | 
+ | [gl](/f39/language/gl) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/gl.po | 
+ | [it](/f39/language/it) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/it.po | 
+ | [nb_NO](/f39/language/nb_NO) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/nb.po | 
+ | [nn](/f39/language/nn) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/nn.po | 
+ | [sk](/f39/language/sk) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/sk.po | 
+ | [sv](/f39/language/sv) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/sv.po | 
+ | [tr](/f39/language/tr) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/tr.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 698 | 698 | 100.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/zh_CN.po | 
+ | [el](/f39/language/el) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/el.po | 
+ | [eo](/f39/language/eo) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/eo.po | 
+ | [fi](/f39/language/fi) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/fi.po | 
+ | [lt](/f39/language/lt) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/lt.po | 
+ | [pl](/f39/language/pl) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/pt_BR.po | 
+ | [ru](/f39/language/ru) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ru.po | 
+ | [sl](/f39/language/sl) | 567 | 698 | 81.2 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/sl.po | 
+ | [bg](/f39/language/bg) | 537 | 698 | 76.9 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/bg.po | 
+ | [fa](/f39/language/fa) | 447 | 698 | 64.0 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/fa.po | 
+ | [ne](/f39/language/ne) | 445 | 698 | 63.8 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ne.po | 
+ | [ja](/f39/language/ja) | 436 | 698 | 62.5 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ja.po | 
+ | [ro](/f39/language/ro) | 432 | 698 | 61.9 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/ro.po | 
+ | [af](/f39/language/af) | 210 | 698 | 30.1 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/af.po | 
+ | [nl](/f39/language/nl) | 210 | 698 | 30.1 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/nl.po | 
+ | [pt](/f39/language/pt) | 210 | 698 | 30.1 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/pt.po | 
+ | [br](/f39/language/br) | 96 | 698 | 13.8 | /mnt/stockage/packages/f39/frozen-bubble/share/locale/br.po | 
 {.sortable}
 
 

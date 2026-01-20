@@ -18,12 +18,12 @@ The package fcitx (version 4.2.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 3347 | 3349 | 99.9 | /mnt/stockage/packages/f25/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 3271 | 3349 | 97.7 | /mnt/stockage/packages/f25/fcitx/po/zh_TW.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 3179 | 3349 | 94.9 | /mnt/stockage/packages/f25/fcitx/po/de.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 2889 | 3349 | 86.3 | /mnt/stockage/packages/f25/fcitx/po/ja.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 1225 | 3349 | 36.6 | /mnt/stockage/packages/f25/fcitx/po/ko.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 188 | 3349 | 5.6 | /mnt/stockage/packages/f25/fcitx/po/es.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 3347 | 3349 | 99.9 | /mnt/stockage/packages/f25/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 3271 | 3349 | 97.7 | /mnt/stockage/packages/f25/fcitx/po/zh_TW.po | 
+ | [de](/f25/language/de) | 3179 | 3349 | 94.9 | /mnt/stockage/packages/f25/fcitx/po/de.po | 
+ | [ja](/f25/language/ja) | 2889 | 3349 | 86.3 | /mnt/stockage/packages/f25/fcitx/po/ja.po | 
+ | [ko](/f25/language/ko) | 1225 | 3349 | 36.6 | /mnt/stockage/packages/f25/fcitx/po/ko.po | 
+ | [es](/f25/language/es) | 188 | 3349 | 5.6 | /mnt/stockage/packages/f25/fcitx/po/es.po | 
 {.sortable}
 
 

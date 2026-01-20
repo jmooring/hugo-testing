@@ -18,13 +18,13 @@ The package gnokii (version 0.6.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 5717 | 5717 | 100.0 | /mnt/stockage/packages/f34/gnokii/po/pl.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 5379 | 5717 | 94.1 | /mnt/stockage/packages/f34/gnokii/po/it.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 4100 | 5717 | 71.7 | /mnt/stockage/packages/f34/gnokii/po/de.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 3963 | 5717 | 69.3 | /mnt/stockage/packages/f34/gnokii/po/sv.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 3613 | 5717 | 63.2 | /mnt/stockage/packages/f34/gnokii/po/fr.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 1911 | 5717 | 33.4 | /mnt/stockage/packages/f34/gnokii/po/fi.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 915 | 5717 | 16.0 | /mnt/stockage/packages/f34/gnokii/po/pt.po | 
+ | [pl](/f34/language/pl) | 5717 | 5717 | 100.0 | /mnt/stockage/packages/f34/gnokii/po/pl.po | 
+ | [it](/f34/language/it) | 5379 | 5717 | 94.1 | /mnt/stockage/packages/f34/gnokii/po/it.po | 
+ | [de](/f34/language/de) | 4100 | 5717 | 71.7 | /mnt/stockage/packages/f34/gnokii/po/de.po | 
+ | [sv](/f34/language/sv) | 3963 | 5717 | 69.3 | /mnt/stockage/packages/f34/gnokii/po/sv.po | 
+ | [fr](/f34/language/fr) | 3613 | 5717 | 63.2 | /mnt/stockage/packages/f34/gnokii/po/fr.po | 
+ | [fi](/f34/language/fi) | 1911 | 5717 | 33.4 | /mnt/stockage/packages/f34/gnokii/po/fi.po | 
+ | [pt](/f34/language/pt) | 915 | 5717 | 16.0 | /mnt/stockage/packages/f34/gnokii/po/pt.po | 
 {.sortable}
 
 

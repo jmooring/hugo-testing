@@ -18,29 +18,29 @@ The package mingw-libidn (version 1.43):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/de.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/fr.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/id.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/ko.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/ro.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/sv.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/zh_CN.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/da.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/fi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/hu.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/it.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/vi.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 196 | 416 | 47.1 | /mnt/stockage/packages/f43/mingw-libidn/po/ka.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 135 | 416 | 32.5 | /mnt/stockage/packages/f43/mingw-libidn/po/ja.po | 
+ | [cs](/f43/language/cs) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/cs.po | 
+ | [de](/f43/language/de) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/de.po | 
+ | [eo](/f43/language/eo) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/eo.po | 
+ | [es](/f43/language/es) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/es.po | 
+ | [fr](/f43/language/fr) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/fr.po | 
+ | [id](/f43/language/id) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/id.po | 
+ | [ko](/f43/language/ko) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/ko.po | 
+ | [nl](/f43/language/nl) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/nl.po | 
+ | [pl](/f43/language/pl) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/ro.po | 
+ | [sr](/f43/language/sr) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/sr.po | 
+ | [sv](/f43/language/sv) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/sv.po | 
+ | [uk](/f43/language/uk) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 415 | 416 | 99.8 | /mnt/stockage/packages/f43/mingw-libidn/po/zh_CN.po | 
+ | [da](/f43/language/da) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/da.po | 
+ | [fi](/f43/language/fi) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/fi.po | 
+ | [hr](/f43/language/hr) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/hr.po | 
+ | [hu](/f43/language/hu) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/hu.po | 
+ | [it](/f43/language/it) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/it.po | 
+ | [vi](/f43/language/vi) | 289 | 416 | 69.5 | /mnt/stockage/packages/f43/mingw-libidn/po/vi.po | 
+ | [ka](/f43/language/ka) | 196 | 416 | 47.1 | /mnt/stockage/packages/f43/mingw-libidn/po/ka.po | 
+ | [ja](/f43/language/ja) | 135 | 416 | 32.5 | /mnt/stockage/packages/f43/mingw-libidn/po/ja.po | 
 {.sortable}
 
 

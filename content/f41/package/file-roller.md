@@ -18,110 +18,110 @@ The package file-roller (version 44.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f41/language/af.md" >}}) | 1201 | 1201 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/af.po | 
- | [an]({{< ref "/f41/language/an.md" >}}) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/an.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 1201 | 1201 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ar.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/as.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 1519 | 1519 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ast.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/be.po | 
- | [be_Latn]({{< ref "/f41/language/be_Latn.md" >}}) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/be@latin.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bg.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 1370 | 1370 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bn.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bn_IN.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bs.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ca/ca.po/mnt/stockage/packages/f41/file-roller/po/ca.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 1200 | 1200 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ca@valencia.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/cs/cs.po/mnt/stockage/packages/f41/file-roller/po/cs.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/cy.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/da/da.po/mnt/stockage/packages/f41/file-roller/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/de/de.po/mnt/stockage/packages/f41/file-roller/po/de.po | 
- | [dz]({{< ref "/f41/language/dz.md" >}}) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/dz.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 2954 | 2954 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/el/el.po/mnt/stockage/packages/f41/file-roller/po/el.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/en_CA.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/es/es.po/mnt/stockage/packages/f41/file-roller/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 1201 | 1201 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/et.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/fa.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/fr/fr.po/mnt/stockage/packages/f41/file-roller/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/fur.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 1200 | 1200 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/gd.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/gl/gl.po/mnt/stockage/packages/f41/file-roller/po/gl.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/gu.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/hu/hu.po/mnt/stockage/packages/f41/file-roller/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/id/id.po/mnt/stockage/packages/f41/file-roller/po/id.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ie.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 3121 | 3121 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ja/ja.po/mnt/stockage/packages/f41/file-roller/po/ja.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/kab.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/kk.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 1548 | 1548 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/km.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/kn.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 3044 | 3044 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ko/ko.po/mnt/stockage/packages/f41/file-roller/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/lv.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 1548 | 1548 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/mk.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 1325 | 1325 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ml.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/mr.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/nb.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 3044 | 3044 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/nl/nl.po/mnt/stockage/packages/f41/file-roller/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/oc.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/or.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/pl/pl.po/mnt/stockage/packages/f41/file-roller/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/pt_BR/pt_BR.po/mnt/stockage/packages/f41/file-roller/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ru/ru.po/mnt/stockage/packages/f41/file-roller/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 3137 | 3137 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/sl/sl.po/mnt/stockage/packages/f41/file-roller/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 2614 | 2614 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/sr@latin.po/mnt/stockage/packages/f41/file-roller/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/sv/sv.po/mnt/stockage/packages/f41/file-roller/po/sv.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ta.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/tg.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/tr/tr.po/mnt/stockage/packages/f41/file-roller/po/tr.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 1325 | 1325 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ug.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/uk/uk.po/mnt/stockage/packages/f41/file-roller/po/uk.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ur.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/zh_CN/zh_CN.po/mnt/stockage/packages/f41/file-roller/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 2502 | 2502 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/zh_TW.po/mnt/stockage/packages/f41/file-roller/po/zh_HK.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 1525 | 1526 | 99.9 | /mnt/stockage/packages/f41/file-roller/po/nn.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 955 | 958 | 99.7 | /mnt/stockage/packages/f41/file-roller/po/hy.po | 
- | [ps]({{< ref "/f41/language/ps.md" >}}) | 1200 | 1206 | 99.5 | /mnt/stockage/packages/f41/file-roller/po/ps.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 928 | 971 | 95.6 | /mnt/stockage/packages/f41/file-roller/po/xh.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 903 | 947 | 95.4 | /mnt/stockage/packages/f41/file-roller/po/ku.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 1387 | 1530 | 90.7 | /mnt/stockage/packages/f41/file-roller/help/te/te.po/mnt/stockage/packages/f41/file-roller/po/te.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 2653 | 2948 | 90.0 | /mnt/stockage/packages/f41/file-roller/help/fi/fi.po/mnt/stockage/packages/f41/file-roller/po/fi.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 872 | 971 | 89.8 | /mnt/stockage/packages/f41/file-roller/po/az.po | 
- | [zu]({{< ref "/f41/language/zu.md" >}}) | 1254 | 1519 | 82.6 | /mnt/stockage/packages/f41/file-roller/po/zu.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 799 | 971 | 82.3 | /mnt/stockage/packages/f41/file-roller/po/sr@ije.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 785 | 971 | 80.8 | /mnt/stockage/packages/f41/file-roller/po/mn.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 1007 | 1325 | 76.0 | /mnt/stockage/packages/f41/file-roller/po/br.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 1043 | 1378 | 75.7 | /mnt/stockage/packages/f41/file-roller/po/en@shaw.po | 
- | [mg]({{< ref "/f41/language/mg.md" >}}) | 886 | 1178 | 75.2 | /mnt/stockage/packages/f41/file-roller/po/mg.po | 
- | [my]({{< ref "/f41/language/my.md" >}}) | 1035 | 1383 | 74.8 | /mnt/stockage/packages/f41/file-roller/po/my.po | 
- | [tk]({{< ref "/f41/language/tk.md" >}}) | 702 | 971 | 72.3 | /mnt/stockage/packages/f41/file-roller/po/tk.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 898 | 1267 | 70.9 | /mnt/stockage/packages/f41/file-roller/po/mai.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 899 | 1307 | 68.8 | /mnt/stockage/packages/f41/file-roller/po/ka.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 651 | 1068 | 61.0 | /mnt/stockage/packages/f41/file-roller/po/si.po | 
- | [ckb]({{< ref "/f41/language/ckb.md" >}}) | 716 | 1207 | 59.3 | /mnt/stockage/packages/f41/file-roller/po/ckb.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 1740 | 3038 | 57.3 | /mnt/stockage/packages/f41/file-roller/help/eu/eu.po/mnt/stockage/packages/f41/file-roller/po/eu.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 470 | 1383 | 34.0 | /mnt/stockage/packages/f41/file-roller/po/fy.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 412 | 1325 | 31.1 | /mnt/stockage/packages/f41/file-roller/po/ga.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 352 | 1318 | 26.7 | /mnt/stockage/packages/f41/file-roller/po/nds.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 110 | 971 | 11.3 | /mnt/stockage/packages/f41/file-roller/po/am.po | 
- | [ab]({{< ref "/f41/language/ab.md" >}}) | 140 | 1313 | 10.7 | /mnt/stockage/packages/f41/file-roller/po/ab.po | 
- | [csb]({{< ref "/f41/language/csb.md" >}}) | 41 | 1555 | 2.6 | /mnt/stockage/packages/f41/file-roller/po/csb.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 20 | 971 | 2.1 | /mnt/stockage/packages/f41/file-roller/po/rw.po | 
+ | [af](/f41/language/af) | 1201 | 1201 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/af.po | 
+ | [an](/f41/language/an) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/an.po | 
+ | [ar](/f41/language/ar) | 1201 | 1201 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ar.po | 
+ | [as](/f41/language/as) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/as.po | 
+ | [ast](/f41/language/ast) | 1519 | 1519 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ast.po | 
+ | [be](/f41/language/be) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/be.po | 
+ | [be_Latn](/f41/language/be_Latn) | 1267 | 1267 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/be@latin.po | 
+ | [bg](/f41/language/bg) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bg.po | 
+ | [bn](/f41/language/bn) | 1370 | 1370 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bn.po | 
+ | [bn_IN](/f41/language/bn_IN) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bn_IN.po | 
+ | [bs](/f41/language/bs) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/bs.po | 
+ | [ca](/f41/language/ca) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ca/ca.po/mnt/stockage/packages/f41/file-roller/po/ca.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 1200 | 1200 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ca@valencia.po | 
+ | [cs](/f41/language/cs) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/cs/cs.po/mnt/stockage/packages/f41/file-roller/po/cs.po | 
+ | [cy](/f41/language/cy) | 957 | 957 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/cy.po | 
+ | [da](/f41/language/da) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/da/da.po/mnt/stockage/packages/f41/file-roller/po/da.po | 
+ | [de](/f41/language/de) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/de/de.po/mnt/stockage/packages/f41/file-roller/po/de.po | 
+ | [dz](/f41/language/dz) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/dz.po | 
+ | [el](/f41/language/el) | 2954 | 2954 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/el/el.po/mnt/stockage/packages/f41/file-roller/po/el.po | 
+ | [en_CA](/f41/language/en_CA) | 1084 | 1084 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/en_CA.po | 
+ | [en_GB](/f41/language/en_GB) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 1207 | 1207 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/eo.po | 
+ | [es](/f41/language/es) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/es/es.po/mnt/stockage/packages/f41/file-roller/po/es.po | 
+ | [et](/f41/language/et) | 1201 | 1201 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/et.po | 
+ | [fa](/f41/language/fa) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/fa.po | 
+ | [fr](/f41/language/fr) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/fr/fr.po/mnt/stockage/packages/f41/file-roller/po/fr.po | 
+ | [fur](/f41/language/fur) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/fur.po | 
+ | [gd](/f41/language/gd) | 1200 | 1200 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/gd.po | 
+ | [gl](/f41/language/gl) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/gl/gl.po/mnt/stockage/packages/f41/file-roller/po/gl.po | 
+ | [gu](/f41/language/gu) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/gu.po | 
+ | [he](/f41/language/he) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/he.po | 
+ | [hi](/f41/language/hi) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/hi.po | 
+ | [hr](/f41/language/hr) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/hr.po | 
+ | [hu](/f41/language/hu) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/hu/hu.po/mnt/stockage/packages/f41/file-roller/po/hu.po | 
+ | [id](/f41/language/id) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/id/id.po/mnt/stockage/packages/f41/file-roller/po/id.po | 
+ | [ie](/f41/language/ie) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ie.po | 
+ | [is](/f41/language/is) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/is.po | 
+ | [it](/f41/language/it) | 1309 | 1309 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/it.po | 
+ | [ja](/f41/language/ja) | 3121 | 3121 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ja/ja.po/mnt/stockage/packages/f41/file-roller/po/ja.po | 
+ | [kab](/f41/language/kab) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/kab.po | 
+ | [kk](/f41/language/kk) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/kk.po | 
+ | [km](/f41/language/km) | 1548 | 1548 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/km.po | 
+ | [kn](/f41/language/kn) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/kn.po | 
+ | [ko](/f41/language/ko) | 3044 | 3044 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ko/ko.po/mnt/stockage/packages/f41/file-roller/po/ko.po | 
+ | [lt](/f41/language/lt) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/lt.po | 
+ | [lv](/f41/language/lv) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/lv.po | 
+ | [mk](/f41/language/mk) | 1548 | 1548 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/mk.po | 
+ | [ml](/f41/language/ml) | 1325 | 1325 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ml.po | 
+ | [mr](/f41/language/mr) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/mr.po | 
+ | [ms](/f41/language/ms) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/nb.po | 
+ | [ne](/f41/language/ne) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ne.po | 
+ | [nl](/f41/language/nl) | 3044 | 3044 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/nl/nl.po/mnt/stockage/packages/f41/file-roller/po/nl.po | 
+ | [oc](/f41/language/oc) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/oc.po | 
+ | [or](/f41/language/or) | 1198 | 1198 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/or.po | 
+ | [pa](/f41/language/pa) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/pa.po | 
+ | [pl](/f41/language/pl) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/pl/pl.po/mnt/stockage/packages/f41/file-roller/po/pl.po | 
+ | [pt](/f41/language/pt) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/pt_BR/pt_BR.po/mnt/stockage/packages/f41/file-roller/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ro.po | 
+ | [ru](/f41/language/ru) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/ru/ru.po/mnt/stockage/packages/f41/file-roller/po/ru.po | 
+ | [sk](/f41/language/sk) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/sk.po | 
+ | [sl](/f41/language/sl) | 3137 | 3137 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/sl/sl.po/mnt/stockage/packages/f41/file-roller/po/sl.po | 
+ | [sq](/f41/language/sq) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/sq.po | 
+ | [sr](/f41/language/sr) | 2614 | 2614 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/sr@latin.po/mnt/stockage/packages/f41/file-roller/po/sr.po | 
+ | [sv](/f41/language/sv) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/sv/sv.po/mnt/stockage/packages/f41/file-roller/po/sv.po | 
+ | [ta](/f41/language/ta) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ta.po | 
+ | [tg](/f41/language/tg) | 1195 | 1195 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/tg.po | 
+ | [th](/f41/language/th) | 1307 | 1307 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/th.po | 
+ | [tr](/f41/language/tr) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/tr/tr.po/mnt/stockage/packages/f41/file-roller/po/tr.po | 
+ | [ug](/f41/language/ug) | 1325 | 1325 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ug.po | 
+ | [uk](/f41/language/uk) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/uk/uk.po/mnt/stockage/packages/f41/file-roller/po/uk.po | 
+ | [ur](/f41/language/ur) | 1159 | 1159 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/ur.po | 
+ | [vi](/f41/language/vi) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 3038 | 3038 | 100.0 | /mnt/stockage/packages/f41/file-roller/help/zh_CN/zh_CN.po/mnt/stockage/packages/f41/file-roller/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 2502 | 2502 | 100.0 | /mnt/stockage/packages/f41/file-roller/po/zh_TW.po/mnt/stockage/packages/f41/file-roller/po/zh_HK.po | 
+ | [nn](/f41/language/nn) | 1525 | 1526 | 99.9 | /mnt/stockage/packages/f41/file-roller/po/nn.po | 
+ | [hy](/f41/language/hy) | 955 | 958 | 99.7 | /mnt/stockage/packages/f41/file-roller/po/hy.po | 
+ | [ps](/f41/language/ps) | 1200 | 1206 | 99.5 | /mnt/stockage/packages/f41/file-roller/po/ps.po | 
+ | [xh](/f41/language/xh) | 928 | 971 | 95.6 | /mnt/stockage/packages/f41/file-roller/po/xh.po | 
+ | [ku](/f41/language/ku) | 903 | 947 | 95.4 | /mnt/stockage/packages/f41/file-roller/po/ku.po | 
+ | [te](/f41/language/te) | 1387 | 1530 | 90.7 | /mnt/stockage/packages/f41/file-roller/help/te/te.po/mnt/stockage/packages/f41/file-roller/po/te.po | 
+ | [fi](/f41/language/fi) | 2653 | 2948 | 90.0 | /mnt/stockage/packages/f41/file-roller/help/fi/fi.po/mnt/stockage/packages/f41/file-roller/po/fi.po | 
+ | [az](/f41/language/az) | 872 | 971 | 89.8 | /mnt/stockage/packages/f41/file-roller/po/az.po | 
+ | [zu](/f41/language/zu) | 1254 | 1519 | 82.6 | /mnt/stockage/packages/f41/file-roller/po/zu.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 799 | 971 | 82.3 | /mnt/stockage/packages/f41/file-roller/po/sr@ije.po | 
+ | [mn](/f41/language/mn) | 785 | 971 | 80.8 | /mnt/stockage/packages/f41/file-roller/po/mn.po | 
+ | [br](/f41/language/br) | 1007 | 1325 | 76.0 | /mnt/stockage/packages/f41/file-roller/po/br.po | 
+ | [error](/f41/language/error) | 1043 | 1378 | 75.7 | /mnt/stockage/packages/f41/file-roller/po/en@shaw.po | 
+ | [mg](/f41/language/mg) | 886 | 1178 | 75.2 | /mnt/stockage/packages/f41/file-roller/po/mg.po | 
+ | [my](/f41/language/my) | 1035 | 1383 | 74.8 | /mnt/stockage/packages/f41/file-roller/po/my.po | 
+ | [tk](/f41/language/tk) | 702 | 971 | 72.3 | /mnt/stockage/packages/f41/file-roller/po/tk.po | 
+ | [mai](/f41/language/mai) | 898 | 1267 | 70.9 | /mnt/stockage/packages/f41/file-roller/po/mai.po | 
+ | [ka](/f41/language/ka) | 899 | 1307 | 68.8 | /mnt/stockage/packages/f41/file-roller/po/ka.po | 
+ | [si](/f41/language/si) | 651 | 1068 | 61.0 | /mnt/stockage/packages/f41/file-roller/po/si.po | 
+ | [ckb](/f41/language/ckb) | 716 | 1207 | 59.3 | /mnt/stockage/packages/f41/file-roller/po/ckb.po | 
+ | [eu](/f41/language/eu) | 1740 | 3038 | 57.3 | /mnt/stockage/packages/f41/file-roller/help/eu/eu.po/mnt/stockage/packages/f41/file-roller/po/eu.po | 
+ | [fy](/f41/language/fy) | 470 | 1383 | 34.0 | /mnt/stockage/packages/f41/file-roller/po/fy.po | 
+ | [ga](/f41/language/ga) | 412 | 1325 | 31.1 | /mnt/stockage/packages/f41/file-roller/po/ga.po | 
+ | [nds](/f41/language/nds) | 352 | 1318 | 26.7 | /mnt/stockage/packages/f41/file-roller/po/nds.po | 
+ | [am](/f41/language/am) | 110 | 971 | 11.3 | /mnt/stockage/packages/f41/file-roller/po/am.po | 
+ | [ab](/f41/language/ab) | 140 | 1313 | 10.7 | /mnt/stockage/packages/f41/file-roller/po/ab.po | 
+ | [csb](/f41/language/csb) | 41 | 1555 | 2.6 | /mnt/stockage/packages/f41/file-roller/po/csb.po | 
+ | [rw](/f41/language/rw) | 20 | 971 | 2.1 | /mnt/stockage/packages/f41/file-roller/po/rw.po | 
 {.sortable}
 
 

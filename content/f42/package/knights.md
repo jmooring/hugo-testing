@@ -18,62 +18,62 @@ The package knights (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ar/knights.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/bg/knights.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ca/knights.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ca@valencia/knights.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/cs/knights.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/de/knights.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/eo/knights.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/es/knights.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/eu/knights.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/fi/knights.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/fr/knights.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/gl/knights.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/he/knights.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/hu/knights.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/it/knights.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ka/knights.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ko/knights.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/lv/knights.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/nl/knights.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/pl/knights.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/pt_BR/knights.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ru/knights.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/sa/knights.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/sl/knights.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/sv/knights.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/tr/knights.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/uk/knights.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/zh_TW/knights.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 792 | 797 | 99.4 | /mnt/stockage/packages/f42/knights/po/el/knights.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 792 | 797 | 99.4 | /mnt/stockage/packages/f42/knights/po/en_GB/knights.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 792 | 797 | 99.4 | /mnt/stockage/packages/f42/knights/po/hi/knights.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 776 | 797 | 97.4 | /mnt/stockage/packages/f42/knights/po/zh_CN/knights.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 716 | 797 | 89.8 | /mnt/stockage/packages/f42/knights/po/sk/knights.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 714 | 797 | 89.6 | /mnt/stockage/packages/f42/knights/po/da/knights.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 714 | 797 | 89.6 | /mnt/stockage/packages/f42/knights/po/nn/knights.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 714 | 797 | 89.6 | /mnt/stockage/packages/f42/knights/po/pt/knights.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 684 | 797 | 85.8 | /mnt/stockage/packages/f42/knights/po/et/knights.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 682 | 797 | 85.6 | /mnt/stockage/packages/f42/knights/po/id/knights.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr/knights.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr@ijekavian/knights.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr@ijekavianlatin/knights.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr@latin/knights.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/bs/knights.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/km/knights.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/lt/knights.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/nb/knights.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/nds/knights.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 303 | 797 | 38.0 | /mnt/stockage/packages/f42/knights/po/ia/knights.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 291 | 797 | 36.5 | /mnt/stockage/packages/f42/knights/po/ga/knights.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 210 | 797 | 26.3 | /mnt/stockage/packages/f42/knights/po/ug/knights.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 152 | 797 | 19.1 | /mnt/stockage/packages/f42/knights/po/ml/knights.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 110 | 797 | 13.8 | /mnt/stockage/packages/f42/knights/po/ro/knights.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 58 | 797 | 7.3 | /mnt/stockage/packages/f42/knights/po/mr/knights.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 54 | 797 | 6.8 | /mnt/stockage/packages/f42/knights/po/fa/knights.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 797 | 0.5 | /mnt/stockage/packages/f42/knights/po/ast/knights.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 797 | 0.0 | /mnt/stockage/packages/f42/knights/po/ja/knights.po | 
+ | [ar](/f42/language/ar) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ar/knights.po | 
+ | [bg](/f42/language/bg) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/bg/knights.po | 
+ | [ca](/f42/language/ca) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ca/knights.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ca@valencia/knights.po | 
+ | [cs](/f42/language/cs) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/cs/knights.po | 
+ | [de](/f42/language/de) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/de/knights.po | 
+ | [eo](/f42/language/eo) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/eo/knights.po | 
+ | [es](/f42/language/es) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/es/knights.po | 
+ | [eu](/f42/language/eu) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/eu/knights.po | 
+ | [fi](/f42/language/fi) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/fi/knights.po | 
+ | [fr](/f42/language/fr) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/fr/knights.po | 
+ | [gl](/f42/language/gl) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/gl/knights.po | 
+ | [he](/f42/language/he) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/he/knights.po | 
+ | [hu](/f42/language/hu) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/hu/knights.po | 
+ | [it](/f42/language/it) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/it/knights.po | 
+ | [ka](/f42/language/ka) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ka/knights.po | 
+ | [ko](/f42/language/ko) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ko/knights.po | 
+ | [lv](/f42/language/lv) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/lv/knights.po | 
+ | [nl](/f42/language/nl) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/nl/knights.po | 
+ | [pl](/f42/language/pl) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/pl/knights.po | 
+ | [pt_BR](/f42/language/pt_BR) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/pt_BR/knights.po | 
+ | [ru](/f42/language/ru) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/ru/knights.po | 
+ | [sa](/f42/language/sa) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/sa/knights.po | 
+ | [sl](/f42/language/sl) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/sl/knights.po | 
+ | [sv](/f42/language/sv) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/sv/knights.po | 
+ | [tr](/f42/language/tr) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/tr/knights.po | 
+ | [uk](/f42/language/uk) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/uk/knights.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 797 | 797 | 100.0 | /mnt/stockage/packages/f42/knights/po/zh_TW/knights.po | 
+ | [el](/f42/language/el) | 792 | 797 | 99.4 | /mnt/stockage/packages/f42/knights/po/el/knights.po | 
+ | [en_GB](/f42/language/en_GB) | 792 | 797 | 99.4 | /mnt/stockage/packages/f42/knights/po/en_GB/knights.po | 
+ | [hi](/f42/language/hi) | 792 | 797 | 99.4 | /mnt/stockage/packages/f42/knights/po/hi/knights.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 776 | 797 | 97.4 | /mnt/stockage/packages/f42/knights/po/zh_CN/knights.po | 
+ | [sk](/f42/language/sk) | 716 | 797 | 89.8 | /mnt/stockage/packages/f42/knights/po/sk/knights.po | 
+ | [da](/f42/language/da) | 714 | 797 | 89.6 | /mnt/stockage/packages/f42/knights/po/da/knights.po | 
+ | [nn](/f42/language/nn) | 714 | 797 | 89.6 | /mnt/stockage/packages/f42/knights/po/nn/knights.po | 
+ | [pt](/f42/language/pt) | 714 | 797 | 89.6 | /mnt/stockage/packages/f42/knights/po/pt/knights.po | 
+ | [et](/f42/language/et) | 684 | 797 | 85.8 | /mnt/stockage/packages/f42/knights/po/et/knights.po | 
+ | [id](/f42/language/id) | 682 | 797 | 85.6 | /mnt/stockage/packages/f42/knights/po/id/knights.po | 
+ | [sr](/f42/language/sr) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr/knights.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr@ijekavian/knights.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr@ijekavianlatin/knights.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 651 | 797 | 81.7 | /mnt/stockage/packages/f42/knights/po/sr@latin/knights.po | 
+ | [bs](/f42/language/bs) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/bs/knights.po | 
+ | [km](/f42/language/km) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/km/knights.po | 
+ | [lt](/f42/language/lt) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/lt/knights.po | 
+ | [nb_NO](/f42/language/nb_NO) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/nb/knights.po | 
+ | [nds](/f42/language/nds) | 582 | 797 | 73.0 | /mnt/stockage/packages/f42/knights/po/nds/knights.po | 
+ | [ia](/f42/language/ia) | 303 | 797 | 38.0 | /mnt/stockage/packages/f42/knights/po/ia/knights.po | 
+ | [ga](/f42/language/ga) | 291 | 797 | 36.5 | /mnt/stockage/packages/f42/knights/po/ga/knights.po | 
+ | [ug](/f42/language/ug) | 210 | 797 | 26.3 | /mnt/stockage/packages/f42/knights/po/ug/knights.po | 
+ | [ml](/f42/language/ml) | 152 | 797 | 19.1 | /mnt/stockage/packages/f42/knights/po/ml/knights.po | 
+ | [ro](/f42/language/ro) | 110 | 797 | 13.8 | /mnt/stockage/packages/f42/knights/po/ro/knights.po | 
+ | [mr](/f42/language/mr) | 58 | 797 | 7.3 | /mnt/stockage/packages/f42/knights/po/mr/knights.po | 
+ | [fa](/f42/language/fa) | 54 | 797 | 6.8 | /mnt/stockage/packages/f42/knights/po/fa/knights.po | 
+ | [ast](/f42/language/ast) | 4 | 797 | 0.5 | /mnt/stockage/packages/f42/knights/po/ast/knights.po | 
+ | [ja](/f42/language/ja) | 0 | 797 | 0.0 | /mnt/stockage/packages/f42/knights/po/ja/knights.po | 
 {.sortable}
 
 

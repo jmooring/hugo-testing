@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lazpaint]({{< ref "/f43/package/lazpaint.md" >}}) | 2924 | 7272 | 40.2 |  | 
+ | [lazpaint](/f43/package/lazpaint) | 2924 | 7272 | 40.2 |  | 
 {.sortable}
 
 

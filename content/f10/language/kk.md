@@ -43,19 +43,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 1998 | 1998 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
- | [gparted]({{< ref "/f10/package/gparted.md" >}}) | 1434 | 1434 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
- | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
- | [kmid]({{< ref "/f10/package/kmid.md" >}}) | 523 | 535 | 97.8 | Kazakh | 
- | [xfburn]({{< ref "/f10/package/xfburn.md" >}}) | 1168 | 1296 | 90.1 | Kazakh <kk_KZ@googlegroups.com> | 
- | [ksig]({{< ref "/f10/package/ksig.md" >}}) | 71 | 85 | 83.5 | Kazakh | 
- | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 1205 | 1598 | 75.4 | Kazakh | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 593 | 1077 | 55.1 | Kazakh | 
- | [blueman]({{< ref "/f10/package/blueman.md" >}}) | 32 | 1034 | 3.1 | Kazakh <kk@li.org> | 
- | [transmission]({{< ref "/f10/package/transmission.md" >}}) | 12 | 1111 | 1.1 | Kazakh <kk@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 14 | 2661 | 0.5 | Kazakh <kk@li.org> | 
- | [jokosher]({{< ref "/f10/package/jokosher.md" >}}) | 3 | 2151 | 0.1 | Kazakh <kk@li.org> | 
+ | [deluge](/f10/package/deluge) | 1998 | 1998 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [gnome-menus](/f10/package/gnome-menus) | 157 | 157 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
+ | [gparted](/f10/package/gparted) | 1434 | 1434 | 100.0 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [lxmenu-data](/f10/package/lxmenu-data) | 97 | 97 | 100.0 | Kazakh <gnome-cyr@gnome.org> | 
+ | [kmid](/f10/package/kmid) | 523 | 535 | 97.8 | Kazakh | 
+ | [xfburn](/f10/package/xfburn) | 1168 | 1296 | 90.1 | Kazakh <kk_KZ@googlegroups.com> | 
+ | [ksig](/f10/package/ksig) | 71 | 85 | 83.5 | Kazakh | 
+ | [konq-plugins](/f10/package/konq-plugins) | 1205 | 1598 | 75.4 | Kazakh | 
+ | [iso-codes](/f10/package/iso-codes) | 593 | 1077 | 55.1 | Kazakh | 
+ | [blueman](/f10/package/blueman) | 32 | 1034 | 3.1 | Kazakh <kk@li.org> | 
+ | [transmission](/f10/package/transmission) | 12 | 1111 | 1.1 | Kazakh <kk@li.org> | 
+ | [Miro](/f10/package/Miro) | 14 | 2661 | 0.5 | Kazakh <kk@li.org> | 
+ | [jokosher](/f10/package/jokosher) | 3 | 2151 | 0.1 | Kazakh <kk@li.org> | 
 {.sortable}
 
 

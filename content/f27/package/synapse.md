@@ -18,56 +18,56 @@ The package synapse (version 0.2.99.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 824 | 824 | 100.0 | /mnt/stockage/packages/f27/synapse/po/pl.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 821 | 824 | 99.6 | /mnt/stockage/packages/f27/synapse/po/es.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 800 | 824 | 97.1 | /mnt/stockage/packages/f27/synapse/po/sv.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 800 | 824 | 97.1 | /mnt/stockage/packages/f27/synapse/po/zh_CN.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 794 | 824 | 96.4 | /mnt/stockage/packages/f27/synapse/po/fr.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 780 | 824 | 94.7 | /mnt/stockage/packages/f27/synapse/po/ko.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 780 | 824 | 94.7 | /mnt/stockage/packages/f27/synapse/po/sr.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 779 | 824 | 94.5 | /mnt/stockage/packages/f27/synapse/po/id.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 761 | 824 | 92.4 | /mnt/stockage/packages/f27/synapse/po/pt_BR.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/de.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/gl.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/it.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/sl.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 741 | 824 | 89.9 | /mnt/stockage/packages/f27/synapse/po/cs.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 698 | 824 | 84.7 | /mnt/stockage/packages/f27/synapse/po/hr.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 698 | 824 | 84.7 | /mnt/stockage/packages/f27/synapse/po/pt.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 683 | 824 | 82.9 | /mnt/stockage/packages/f27/synapse/po/ca.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 618 | 824 | 75.0 | /mnt/stockage/packages/f27/synapse/po/fi.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 608 | 824 | 73.8 | /mnt/stockage/packages/f27/synapse/po/zh_TW.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 569 | 824 | 69.1 | /mnt/stockage/packages/f27/synapse/po/bg.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 567 | 824 | 68.8 | /mnt/stockage/packages/f27/synapse/po/ca@valencia.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 528 | 824 | 64.1 | /mnt/stockage/packages/f27/synapse/po/uk.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 497 | 824 | 60.3 | /mnt/stockage/packages/f27/synapse/po/eu.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 469 | 824 | 56.9 | /mnt/stockage/packages/f27/synapse/po/ar.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 422 | 824 | 51.2 | /mnt/stockage/packages/f27/synapse/po/nds.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 414 | 824 | 50.2 | /mnt/stockage/packages/f27/synapse/po/nl.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 402 | 824 | 48.8 | /mnt/stockage/packages/f27/synapse/po/ml.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 368 | 824 | 44.7 | /mnt/stockage/packages/f27/synapse/po/nb.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 352 | 824 | 42.7 | /mnt/stockage/packages/f27/synapse/po/nn.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 328 | 824 | 39.8 | /mnt/stockage/packages/f27/synapse/po/oc.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 321 | 824 | 39.0 | /mnt/stockage/packages/f27/synapse/po/hu.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 304 | 824 | 36.9 | /mnt/stockage/packages/f27/synapse/po/et.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 266 | 824 | 32.3 | /mnt/stockage/packages/f27/synapse/po/ja.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 262 | 824 | 31.8 | /mnt/stockage/packages/f27/synapse/po/da.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 239 | 824 | 29.0 | /mnt/stockage/packages/f27/synapse/po/tr.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 215 | 824 | 26.1 | /mnt/stockage/packages/f27/synapse/po/lv.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 185 | 824 | 22.5 | /mnt/stockage/packages/f27/synapse/po/be.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 116 | 824 | 14.1 | /mnt/stockage/packages/f27/synapse/po/hi.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 106 | 824 | 12.9 | /mnt/stockage/packages/f27/synapse/po/ka.po | 
- | [sw]({{< ref "/f27/language/sw.md" >}}) | 79 | 824 | 9.6 | /mnt/stockage/packages/f27/synapse/po/sw.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 67 | 824 | 8.1 | /mnt/stockage/packages/f27/synapse/po/en_GB.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 63 | 824 | 7.6 | /mnt/stockage/packages/f27/synapse/po/el.po | 
- | [la]({{< ref "/f27/language/la.md" >}}) | 61 | 824 | 7.4 | /mnt/stockage/packages/f27/synapse/po/la.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 21 | 824 | 2.5 | /mnt/stockage/packages/f27/synapse/po/te.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 12 | 824 | 1.5 | /mnt/stockage/packages/f27/synapse/po/ne.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 7 | 824 | 0.8 | /mnt/stockage/packages/f27/synapse/po/lt.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 2 | 824 | 0.2 | /mnt/stockage/packages/f27/synapse/po/eo.po | 
+ | [pl](/f27/language/pl) | 824 | 824 | 100.0 | /mnt/stockage/packages/f27/synapse/po/pl.po | 
+ | [es](/f27/language/es) | 821 | 824 | 99.6 | /mnt/stockage/packages/f27/synapse/po/es.po | 
+ | [sv](/f27/language/sv) | 800 | 824 | 97.1 | /mnt/stockage/packages/f27/synapse/po/sv.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 800 | 824 | 97.1 | /mnt/stockage/packages/f27/synapse/po/zh_CN.po | 
+ | [fr](/f27/language/fr) | 794 | 824 | 96.4 | /mnt/stockage/packages/f27/synapse/po/fr.po | 
+ | [ko](/f27/language/ko) | 780 | 824 | 94.7 | /mnt/stockage/packages/f27/synapse/po/ko.po | 
+ | [sr](/f27/language/sr) | 780 | 824 | 94.7 | /mnt/stockage/packages/f27/synapse/po/sr.po | 
+ | [id](/f27/language/id) | 779 | 824 | 94.5 | /mnt/stockage/packages/f27/synapse/po/id.po | 
+ | [pt_BR](/f27/language/pt_BR) | 761 | 824 | 92.4 | /mnt/stockage/packages/f27/synapse/po/pt_BR.po | 
+ | [de](/f27/language/de) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/de.po | 
+ | [gl](/f27/language/gl) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/gl.po | 
+ | [it](/f27/language/it) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/it.po | 
+ | [ro](/f27/language/ro) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/ro.po | 
+ | [ru](/f27/language/ru) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/ru.po | 
+ | [sk](/f27/language/sk) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/sk.po | 
+ | [sl](/f27/language/sl) | 751 | 824 | 91.1 | /mnt/stockage/packages/f27/synapse/po/sl.po | 
+ | [cs](/f27/language/cs) | 741 | 824 | 89.9 | /mnt/stockage/packages/f27/synapse/po/cs.po | 
+ | [hr](/f27/language/hr) | 698 | 824 | 84.7 | /mnt/stockage/packages/f27/synapse/po/hr.po | 
+ | [pt](/f27/language/pt) | 698 | 824 | 84.7 | /mnt/stockage/packages/f27/synapse/po/pt.po | 
+ | [ca](/f27/language/ca) | 683 | 824 | 82.9 | /mnt/stockage/packages/f27/synapse/po/ca.po | 
+ | [fi](/f27/language/fi) | 618 | 824 | 75.0 | /mnt/stockage/packages/f27/synapse/po/fi.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 608 | 824 | 73.8 | /mnt/stockage/packages/f27/synapse/po/zh_TW.po | 
+ | [bg](/f27/language/bg) | 569 | 824 | 69.1 | /mnt/stockage/packages/f27/synapse/po/bg.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 567 | 824 | 68.8 | /mnt/stockage/packages/f27/synapse/po/ca@valencia.po | 
+ | [uk](/f27/language/uk) | 528 | 824 | 64.1 | /mnt/stockage/packages/f27/synapse/po/uk.po | 
+ | [eu](/f27/language/eu) | 497 | 824 | 60.3 | /mnt/stockage/packages/f27/synapse/po/eu.po | 
+ | [ar](/f27/language/ar) | 469 | 824 | 56.9 | /mnt/stockage/packages/f27/synapse/po/ar.po | 
+ | [nds](/f27/language/nds) | 422 | 824 | 51.2 | /mnt/stockage/packages/f27/synapse/po/nds.po | 
+ | [nl](/f27/language/nl) | 414 | 824 | 50.2 | /mnt/stockage/packages/f27/synapse/po/nl.po | 
+ | [ml](/f27/language/ml) | 402 | 824 | 48.8 | /mnt/stockage/packages/f27/synapse/po/ml.po | 
+ | [nb_NO](/f27/language/nb_NO) | 368 | 824 | 44.7 | /mnt/stockage/packages/f27/synapse/po/nb.po | 
+ | [nn](/f27/language/nn) | 352 | 824 | 42.7 | /mnt/stockage/packages/f27/synapse/po/nn.po | 
+ | [oc](/f27/language/oc) | 328 | 824 | 39.8 | /mnt/stockage/packages/f27/synapse/po/oc.po | 
+ | [hu](/f27/language/hu) | 321 | 824 | 39.0 | /mnt/stockage/packages/f27/synapse/po/hu.po | 
+ | [et](/f27/language/et) | 304 | 824 | 36.9 | /mnt/stockage/packages/f27/synapse/po/et.po | 
+ | [ja](/f27/language/ja) | 266 | 824 | 32.3 | /mnt/stockage/packages/f27/synapse/po/ja.po | 
+ | [da](/f27/language/da) | 262 | 824 | 31.8 | /mnt/stockage/packages/f27/synapse/po/da.po | 
+ | [tr](/f27/language/tr) | 239 | 824 | 29.0 | /mnt/stockage/packages/f27/synapse/po/tr.po | 
+ | [lv](/f27/language/lv) | 215 | 824 | 26.1 | /mnt/stockage/packages/f27/synapse/po/lv.po | 
+ | [be](/f27/language/be) | 185 | 824 | 22.5 | /mnt/stockage/packages/f27/synapse/po/be.po | 
+ | [hi](/f27/language/hi) | 116 | 824 | 14.1 | /mnt/stockage/packages/f27/synapse/po/hi.po | 
+ | [ka](/f27/language/ka) | 106 | 824 | 12.9 | /mnt/stockage/packages/f27/synapse/po/ka.po | 
+ | [sw](/f27/language/sw) | 79 | 824 | 9.6 | /mnt/stockage/packages/f27/synapse/po/sw.po | 
+ | [en_GB](/f27/language/en_GB) | 67 | 824 | 8.1 | /mnt/stockage/packages/f27/synapse/po/en_GB.po | 
+ | [el](/f27/language/el) | 63 | 824 | 7.6 | /mnt/stockage/packages/f27/synapse/po/el.po | 
+ | [la](/f27/language/la) | 61 | 824 | 7.4 | /mnt/stockage/packages/f27/synapse/po/la.po | 
+ | [te](/f27/language/te) | 21 | 824 | 2.5 | /mnt/stockage/packages/f27/synapse/po/te.po | 
+ | [ne](/f27/language/ne) | 12 | 824 | 1.5 | /mnt/stockage/packages/f27/synapse/po/ne.po | 
+ | [lt](/f27/language/lt) | 7 | 824 | 0.8 | /mnt/stockage/packages/f27/synapse/po/lt.po | 
+ | [eo](/f27/language/eo) | 2 | 824 | 0.2 | /mnt/stockage/packages/f27/synapse/po/eo.po | 
 {.sortable}
 
 

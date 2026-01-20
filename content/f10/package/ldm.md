@@ -18,20 +18,20 @@ The package ldm (version 2.0.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/ldm/po/fr.po/mnt/stockage/packages/f10/ldm/po/rc.d/fr.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 176 | 184 | 95.7 | /mnt/stockage/packages/f10/ldm/po/el.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/fi.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/ja.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/nb.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/pt.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/sv.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/vi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 63 | 184 | 34.2 | /mnt/stockage/packages/f10/ldm/po/hu.po | 
+ | [fr](/f10/language/fr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f10/ldm/po/fr.po/mnt/stockage/packages/f10/ldm/po/rc.d/fr.po | 
+ | [el](/f10/language/el) | 176 | 184 | 95.7 | /mnt/stockage/packages/f10/ldm/po/el.po | 
+ | [de](/f10/language/de) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/de.po | 
+ | [es](/f10/language/es) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/es.po | 
+ | [eu](/f10/language/eu) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/eu.po | 
+ | [fi](/f10/language/fi) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/fi.po | 
+ | [ja](/f10/language/ja) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/ja.po | 
+ | [nb_NO](/f10/language/nb_NO) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/nb.po | 
+ | [pl](/f10/language/pl) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/pl.po | 
+ | [pt](/f10/language/pt) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/pt.po | 
+ | [ru](/f10/language/ru) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/ru.po | 
+ | [sv](/f10/language/sv) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/sv.po | 
+ | [vi](/f10/language/vi) | 70 | 184 | 38.0 | /mnt/stockage/packages/f10/ldm/po/vi.po | 
+ | [hu](/f10/language/hu) | 63 | 184 | 34.2 | /mnt/stockage/packages/f10/ldm/po/hu.po | 
 {.sortable}
 
 

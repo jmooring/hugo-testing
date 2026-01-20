@@ -18,26 +18,26 @@ The package grisbi (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 14496 | 14496 | 100.0 | /mnt/stockage/packages/f35/grisbi/po/fr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 14402 | 14496 | 99.4 | /mnt/stockage/packages/f35/grisbi/po/de.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 9144 | 14496 | 63.1 | /mnt/stockage/packages/f35/grisbi/po/cs.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 8791 | 14496 | 60.6 | /mnt/stockage/packages/f35/grisbi/po/lv.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 8537 | 14496 | 58.9 | /mnt/stockage/packages/f35/grisbi/po/es.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 6375 | 14496 | 44.0 | /mnt/stockage/packages/f35/grisbi/po/el.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 3552 | 14496 | 24.5 | /mnt/stockage/packages/f35/grisbi/po/ru.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1818 | 14496 | 12.5 | /mnt/stockage/packages/f35/grisbi/po/pt_BR.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1788 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/pl.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1786 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/nl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 1781 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/he.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 1778 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/ro.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1753 | 14496 | 12.1 | /mnt/stockage/packages/f35/grisbi/po/zh_CN.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1649 | 14496 | 11.4 | /mnt/stockage/packages/f35/grisbi/po/it.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 238 | 14496 | 1.6 | /mnt/stockage/packages/f35/grisbi/po/da.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 188 | 14496 | 1.3 | /mnt/stockage/packages/f35/grisbi/po/fa.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 3 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/eo.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 0 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/en_GB.po | 
- | [en_US]({{< ref "/f35/language/en_US.md" >}}) | 0 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/en_US.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 0 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/sv.po | 
+ | [fr](/f35/language/fr) | 14496 | 14496 | 100.0 | /mnt/stockage/packages/f35/grisbi/po/fr.po | 
+ | [de](/f35/language/de) | 14402 | 14496 | 99.4 | /mnt/stockage/packages/f35/grisbi/po/de.po | 
+ | [cs](/f35/language/cs) | 9144 | 14496 | 63.1 | /mnt/stockage/packages/f35/grisbi/po/cs.po | 
+ | [lv](/f35/language/lv) | 8791 | 14496 | 60.6 | /mnt/stockage/packages/f35/grisbi/po/lv.po | 
+ | [es](/f35/language/es) | 8537 | 14496 | 58.9 | /mnt/stockage/packages/f35/grisbi/po/es.po | 
+ | [el](/f35/language/el) | 6375 | 14496 | 44.0 | /mnt/stockage/packages/f35/grisbi/po/el.po | 
+ | [ru](/f35/language/ru) | 3552 | 14496 | 24.5 | /mnt/stockage/packages/f35/grisbi/po/ru.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1818 | 14496 | 12.5 | /mnt/stockage/packages/f35/grisbi/po/pt_BR.po | 
+ | [pl](/f35/language/pl) | 1788 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/pl.po | 
+ | [nl](/f35/language/nl) | 1786 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/nl.po | 
+ | [he](/f35/language/he) | 1781 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/he.po | 
+ | [ro](/f35/language/ro) | 1778 | 14496 | 12.3 | /mnt/stockage/packages/f35/grisbi/po/ro.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1753 | 14496 | 12.1 | /mnt/stockage/packages/f35/grisbi/po/zh_CN.po | 
+ | [it](/f35/language/it) | 1649 | 14496 | 11.4 | /mnt/stockage/packages/f35/grisbi/po/it.po | 
+ | [da](/f35/language/da) | 238 | 14496 | 1.6 | /mnt/stockage/packages/f35/grisbi/po/da.po | 
+ | [fa](/f35/language/fa) | 188 | 14496 | 1.3 | /mnt/stockage/packages/f35/grisbi/po/fa.po | 
+ | [eo](/f35/language/eo) | 3 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/eo.po | 
+ | [en_GB](/f35/language/en_GB) | 0 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/en_GB.po | 
+ | [en_US](/f35/language/en_US) | 0 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/en_US.po | 
+ | [sv](/f35/language/sv) | 0 | 14496 | 0.0 | /mnt/stockage/packages/f35/grisbi/po/sv.po | 
 {.sortable}
 
 

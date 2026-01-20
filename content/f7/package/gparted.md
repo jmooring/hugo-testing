@@ -18,43 +18,43 @@ The package gparted (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f7/gparted/po/bg.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f7/gparted/po/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 767 | 767 | 100.0 | /mnt/stockage/packages/f7/gparted/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/dz.po | 
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f7/gparted/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f7/gparted/po/en_GB.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f7/gparted/po/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/fi.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/gl.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 775 | 775 | 100.0 | /mnt/stockage/packages/f7/gparted/po/he.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 621 | 621 | 100.0 | /mnt/stockage/packages/f7/gparted/po/it.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 1142 | 1142 | 100.0 | /mnt/stockage/packages/f7/gparted/po/lt.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 919 | 919 | 100.0 | /mnt/stockage/packages/f7/gparted/po/lv.po | 
- | [ne]({{< ref "/f7/language/ne.md" >}}) | 1142 | 1142 | 100.0 | /mnt/stockage/packages/f7/gparted/po/ne.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f7/gparted/po/nl.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 852 | 852 | 100.0 | /mnt/stockage/packages/f7/gparted/po/pa.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 618 | 618 | 100.0 | /mnt/stockage/packages/f7/gparted/po/pt.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 618 | 618 | 100.0 | /mnt/stockage/packages/f7/gparted/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f7/gparted/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 767 | 767 | 100.0 | /mnt/stockage/packages/f7/gparted/po/uk.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1187 | 1187 | 100.0 | /mnt/stockage/packages/f7/gparted/po/vi.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1260 | 1266 | 99.5 | /mnt/stockage/packages/f7/gparted/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 1260 | 1266 | 99.5 | /mnt/stockage/packages/f7/gparted/po/zh_HK.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 1266 | 1274 | 99.4 | /mnt/stockage/packages/f7/gparted/po/sl.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 824 | 852 | 96.7 | /mnt/stockage/packages/f7/gparted/po/pt_BR.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 853 | 900 | 94.8 | /mnt/stockage/packages/f7/gparted/po/ja.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 1109 | 1252 | 88.6 | /mnt/stockage/packages/f7/gparted/po/mk.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 636 | 824 | 77.2 | /mnt/stockage/packages/f7/gparted/po/pl.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 831 | 1142 | 72.8 | /mnt/stockage/packages/f7/gparted/po/fr.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 393 | 1252 | 31.4 | /mnt/stockage/packages/f7/gparted/po/el.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 257 | 1260 | 20.4 | /mnt/stockage/packages/f7/gparted/po/nb.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 138 | 775 | 17.8 | /mnt/stockage/packages/f7/gparted/po/zh_CN.po | 
- | [rw]({{< ref "/f7/language/rw.md" >}}) | 16 | 767 | 2.1 | /mnt/stockage/packages/f7/gparted/po/rw.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 0 | 1260 | 0.0 | /mnt/stockage/packages/f7/gparted/po/ar.po | 
+ | [bg](/f7/language/bg) | 850 | 850 | 100.0 | /mnt/stockage/packages/f7/gparted/po/bg.po | 
+ | [ca](/f7/language/ca) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/ca.po | 
+ | [cs](/f7/language/cs) | 773 | 773 | 100.0 | /mnt/stockage/packages/f7/gparted/po/cs.po | 
+ | [de](/f7/language/de) | 767 | 767 | 100.0 | /mnt/stockage/packages/f7/gparted/po/de.po | 
+ | [dz](/f7/language/dz) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/dz.po | 
+ | [en_CA](/f7/language/en_CA) | 850 | 850 | 100.0 | /mnt/stockage/packages/f7/gparted/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 1253 | 1253 | 100.0 | /mnt/stockage/packages/f7/gparted/po/en_GB.po | 
+ | [es](/f7/language/es) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f7/gparted/po/es.po | 
+ | [fi](/f7/language/fi) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/fi.po | 
+ | [gl](/f7/language/gl) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/gl.po | 
+ | [he](/f7/language/he) | 775 | 775 | 100.0 | /mnt/stockage/packages/f7/gparted/po/he.po | 
+ | [hu](/f7/language/hu) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/hu.po | 
+ | [it](/f7/language/it) | 621 | 621 | 100.0 | /mnt/stockage/packages/f7/gparted/po/it.po | 
+ | [lt](/f7/language/lt) | 1142 | 1142 | 100.0 | /mnt/stockage/packages/f7/gparted/po/lt.po | 
+ | [lv](/f7/language/lv) | 919 | 919 | 100.0 | /mnt/stockage/packages/f7/gparted/po/lv.po | 
+ | [ne](/f7/language/ne) | 1142 | 1142 | 100.0 | /mnt/stockage/packages/f7/gparted/po/ne.po | 
+ | [nl](/f7/language/nl) | 1274 | 1274 | 100.0 | /mnt/stockage/packages/f7/gparted/po/nl.po | 
+ | [pa](/f7/language/pa) | 852 | 852 | 100.0 | /mnt/stockage/packages/f7/gparted/po/pa.po | 
+ | [pt](/f7/language/pt) | 618 | 618 | 100.0 | /mnt/stockage/packages/f7/gparted/po/pt.po | 
+ | [ru](/f7/language/ru) | 618 | 618 | 100.0 | /mnt/stockage/packages/f7/gparted/po/ru.po | 
+ | [sv](/f7/language/sv) | 1260 | 1260 | 100.0 | /mnt/stockage/packages/f7/gparted/po/sv.po | 
+ | [tr](/f7/language/tr) | 850 | 850 | 100.0 | /mnt/stockage/packages/f7/gparted/po/tr.po | 
+ | [uk](/f7/language/uk) | 767 | 767 | 100.0 | /mnt/stockage/packages/f7/gparted/po/uk.po | 
+ | [vi](/f7/language/vi) | 1187 | 1187 | 100.0 | /mnt/stockage/packages/f7/gparted/po/vi.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1260 | 1266 | 99.5 | /mnt/stockage/packages/f7/gparted/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 1260 | 1266 | 99.5 | /mnt/stockage/packages/f7/gparted/po/zh_HK.po | 
+ | [sl](/f7/language/sl) | 1266 | 1274 | 99.4 | /mnt/stockage/packages/f7/gparted/po/sl.po | 
+ | [pt_BR](/f7/language/pt_BR) | 824 | 852 | 96.7 | /mnt/stockage/packages/f7/gparted/po/pt_BR.po | 
+ | [ja](/f7/language/ja) | 853 | 900 | 94.8 | /mnt/stockage/packages/f7/gparted/po/ja.po | 
+ | [mk](/f7/language/mk) | 1109 | 1252 | 88.6 | /mnt/stockage/packages/f7/gparted/po/mk.po | 
+ | [pl](/f7/language/pl) | 636 | 824 | 77.2 | /mnt/stockage/packages/f7/gparted/po/pl.po | 
+ | [fr](/f7/language/fr) | 831 | 1142 | 72.8 | /mnt/stockage/packages/f7/gparted/po/fr.po | 
+ | [el](/f7/language/el) | 393 | 1252 | 31.4 | /mnt/stockage/packages/f7/gparted/po/el.po | 
+ | [nb_NO](/f7/language/nb_NO) | 257 | 1260 | 20.4 | /mnt/stockage/packages/f7/gparted/po/nb.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 138 | 775 | 17.8 | /mnt/stockage/packages/f7/gparted/po/zh_CN.po | 
+ | [rw](/f7/language/rw) | 16 | 767 | 2.1 | /mnt/stockage/packages/f7/gparted/po/rw.po | 
+ | [ar](/f7/language/ar) | 0 | 1260 | 0.0 | /mnt/stockage/packages/f7/gparted/po/ar.po | 
 {.sortable}
 
 

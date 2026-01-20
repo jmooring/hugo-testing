@@ -18,23 +18,23 @@ The package python-django-countries (version 2.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/cs/LC_MESSAGES/django.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/el/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/ja/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/nb/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/pl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/ru/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/sk/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 406 | 419 | 96.9 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 345 | 419 | 82.3 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/fr/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 345 | 419 | 82.3 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/nl/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 342 | 419 | 81.6 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/es/LC_MESSAGES/django.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 342 | 419 | 81.6 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/hr/LC_MESSAGES/django.po | 
- | [pt_PT]({{< ref "/f23/language/pt_PT.md" >}}) | 342 | 419 | 81.6 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/pt_PT/LC_MESSAGES/django.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 341 | 419 | 81.4 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/fi/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 341 | 419 | 81.4 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/pt_BR/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 332 | 419 | 79.2 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/it/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 0 | 419 | 0.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/en/LC_MESSAGES/django.po | 
+ | [cs](/f23/language/cs) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/cs/LC_MESSAGES/django.po | 
+ | [el](/f23/language/el) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/el/LC_MESSAGES/django.po | 
+ | [ja](/f23/language/ja) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/ja/LC_MESSAGES/django.po | 
+ | [nb_NO](/f23/language/nb_NO) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/nb/LC_MESSAGES/django.po | 
+ | [pl](/f23/language/pl) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/pl/LC_MESSAGES/django.po | 
+ | [ru](/f23/language/ru) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/ru/LC_MESSAGES/django.po | 
+ | [sk](/f23/language/sk) | 419 | 419 | 100.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/sk/LC_MESSAGES/django.po | 
+ | [de](/f23/language/de) | 406 | 419 | 96.9 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f23/language/fr) | 345 | 419 | 82.3 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/fr/LC_MESSAGES/django.po | 
+ | [nl](/f23/language/nl) | 345 | 419 | 82.3 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/nl/LC_MESSAGES/django.po | 
+ | [es](/f23/language/es) | 342 | 419 | 81.6 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/es/LC_MESSAGES/django.po | 
+ | [hr](/f23/language/hr) | 342 | 419 | 81.6 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/hr/LC_MESSAGES/django.po | 
+ | [pt_PT](/f23/language/pt_PT) | 342 | 419 | 81.6 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/pt_PT/LC_MESSAGES/django.po | 
+ | [fi](/f23/language/fi) | 341 | 419 | 81.4 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/fi/LC_MESSAGES/django.po | 
+ | [pt_BR](/f23/language/pt_BR) | 341 | 419 | 81.4 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [it](/f23/language/it) | 332 | 419 | 79.2 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/it/LC_MESSAGES/django.po | 
+ | [en](/f23/language/en) | 0 | 419 | 0.0 | /mnt/stockage/packages/f23/python-django-countries/django_countries/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

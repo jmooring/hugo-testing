@@ -18,10 +18,10 @@ The package ktechlab (version 0.3.70):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 3991 | 4334 | 92.1 | /mnt/stockage/packages/f13/ktechlab/po/fr.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 2163 | 3079 | 70.3 | /mnt/stockage/packages/f13/ktechlab/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 2489 | 4587 | 54.3 | /mnt/stockage/packages/f13/ktechlab/po/es.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 2312 | 4334 | 53.3 | /mnt/stockage/packages/f13/ktechlab/po/it.po | 
+ | [fr](/f13/language/fr) | 3991 | 4334 | 92.1 | /mnt/stockage/packages/f13/ktechlab/po/fr.po | 
+ | [de](/f13/language/de) | 2163 | 3079 | 70.3 | /mnt/stockage/packages/f13/ktechlab/po/de.po | 
+ | [es](/f13/language/es) | 2489 | 4587 | 54.3 | /mnt/stockage/packages/f13/ktechlab/po/es.po | 
+ | [it](/f13/language/it) | 2312 | 4334 | 53.3 | /mnt/stockage/packages/f13/ktechlab/po/it.po | 
 {.sortable}
 
 

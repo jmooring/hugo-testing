@@ -18,69 +18,69 @@ The package gnome-logs (version 43.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f38/language/an.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/an.po | 
- | [as]({{< ref "/f38/language/as.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/as.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/be.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/bg.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/bs.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/ca/ca.po/mnt/stockage/packages/f38/gnome-logs/po/ca.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ca@valencia.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/cs/cs.po/mnt/stockage/packages/f38/gnome-logs/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/da/da.po/mnt/stockage/packages/f38/gnome-logs/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/de/de.po/mnt/stockage/packages/f38/gnome-logs/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/el/el.po/mnt/stockage/packages/f38/gnome-logs/po/el.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/en_GB/en_GB.po/mnt/stockage/packages/f38/gnome-logs/po/en_GB.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/eo.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/es/es.po/mnt/stockage/packages/f38/gnome-logs/po/es.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/fa.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/fr/fr.po/mnt/stockage/packages/f38/gnome-logs/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/fur.po | 
- | [gd]({{< ref "/f38/language/gd.md" >}}) | 376 | 376 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/gd.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/gl/gl.po/mnt/stockage/packages/f38/gnome-logs/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/hu/hu.po/mnt/stockage/packages/f38/gnome-logs/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/id/id.po/mnt/stockage/packages/f38/gnome-logs/po/id.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/is.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/it/it.po/mnt/stockage/packages/f38/gnome-logs/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ja.po | 
- | [kab]({{< ref "/f38/language/kab.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/kab.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/kk.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/ko/ko.po/mnt/stockage/packages/f38/gnome-logs/po/ko.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/lv.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ml.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 380 | 380 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ms.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ne.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/nl/nl.po/mnt/stockage/packages/f38/gnome-logs/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/oc.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/pa.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/pl/pl.po/mnt/stockage/packages/f38/gnome-logs/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/pt/pt.po/mnt/stockage/packages/f38/gnome-logs/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/pt_BR/pt_BR.po/mnt/stockage/packages/f38/gnome-logs/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/ru/ru.po/mnt/stockage/packages/f38/gnome-logs/po/ru.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/sk.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 767 | 767 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/sr@latin.po/mnt/stockage/packages/f38/gnome-logs/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/sv/sv.po/mnt/stockage/packages/f38/gnome-logs/po/sv.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ta.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/te.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/tg.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/th.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 657 | 657 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/tr/tr.po/mnt/stockage/packages/f38/gnome-logs/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/uk/uk.po/mnt/stockage/packages/f38/gnome-logs/po/uk.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/vi.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/zh_CN/zh_CN.po/mnt/stockage/packages/f38/gnome-logs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/zh_HK.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 113 | 115 | 98.3 | /mnt/stockage/packages/f38/gnome-logs/po/ar.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 366 | 389 | 94.1 | /mnt/stockage/packages/f38/gnome-logs/po/nb.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 588 | 661 | 89.0 | /mnt/stockage/packages/f38/gnome-logs/help/eu/eu.po/mnt/stockage/packages/f38/gnome-logs/po/eu.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 212 | 387 | 54.8 | /mnt/stockage/packages/f38/gnome-logs/po/ka.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 46 | 153 | 30.1 | /mnt/stockage/packages/f38/gnome-logs/po/ga.po | 
- | [ab]({{< ref "/f38/language/ab.md" >}}) | 66 | 387 | 17.1 | /mnt/stockage/packages/f38/gnome-logs/po/ab.po | 
+ | [an](/f38/language/an) | 142 | 142 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/an.po | 
+ | [as](/f38/language/as) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/as.po | 
+ | [be](/f38/language/be) | 378 | 378 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/be.po | 
+ | [bg](/f38/language/bg) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/bg.po | 
+ | [bs](/f38/language/bs) | 140 | 140 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/bs.po | 
+ | [ca](/f38/language/ca) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/ca/ca.po/mnt/stockage/packages/f38/gnome-logs/po/ca.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 376 | 376 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ca@valencia.po | 
+ | [cs](/f38/language/cs) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/cs/cs.po/mnt/stockage/packages/f38/gnome-logs/po/cs.po | 
+ | [da](/f38/language/da) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/da/da.po/mnt/stockage/packages/f38/gnome-logs/po/da.po | 
+ | [de](/f38/language/de) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/de/de.po/mnt/stockage/packages/f38/gnome-logs/po/de.po | 
+ | [el](/f38/language/el) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/el/el.po/mnt/stockage/packages/f38/gnome-logs/po/el.po | 
+ | [en_GB](/f38/language/en_GB) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/en_GB/en_GB.po/mnt/stockage/packages/f38/gnome-logs/po/en_GB.po | 
+ | [eo](/f38/language/eo) | 331 | 331 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/eo.po | 
+ | [es](/f38/language/es) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/es/es.po/mnt/stockage/packages/f38/gnome-logs/po/es.po | 
+ | [fa](/f38/language/fa) | 383 | 383 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/fa.po | 
+ | [fi](/f38/language/fi) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/fi.po | 
+ | [fr](/f38/language/fr) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/fr/fr.po/mnt/stockage/packages/f38/gnome-logs/po/fr.po | 
+ | [fur](/f38/language/fur) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/fur.po | 
+ | [gd](/f38/language/gd) | 376 | 376 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/gd.po | 
+ | [gl](/f38/language/gl) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/gl/gl.po/mnt/stockage/packages/f38/gnome-logs/po/gl.po | 
+ | [he](/f38/language/he) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/he.po | 
+ | [hr](/f38/language/hr) | 387 | 387 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/hr.po | 
+ | [hu](/f38/language/hu) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/hu/hu.po/mnt/stockage/packages/f38/gnome-logs/po/hu.po | 
+ | [id](/f38/language/id) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/id/id.po/mnt/stockage/packages/f38/gnome-logs/po/id.po | 
+ | [is](/f38/language/is) | 387 | 387 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/is.po | 
+ | [it](/f38/language/it) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/it/it.po/mnt/stockage/packages/f38/gnome-logs/po/it.po | 
+ | [ja](/f38/language/ja) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ja.po | 
+ | [kab](/f38/language/kab) | 387 | 387 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/kab.po | 
+ | [kk](/f38/language/kk) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/kk.po | 
+ | [ko](/f38/language/ko) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/ko/ko.po/mnt/stockage/packages/f38/gnome-logs/po/ko.po | 
+ | [lt](/f38/language/lt) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/lt.po | 
+ | [lv](/f38/language/lv) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/lv.po | 
+ | [ml](/f38/language/ml) | 378 | 378 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ml.po | 
+ | [ms](/f38/language/ms) | 380 | 380 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ms.po | 
+ | [ne](/f38/language/ne) | 383 | 383 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ne.po | 
+ | [nl](/f38/language/nl) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/nl/nl.po/mnt/stockage/packages/f38/gnome-logs/po/nl.po | 
+ | [oc](/f38/language/oc) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/oc.po | 
+ | [pa](/f38/language/pa) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/pa.po | 
+ | [pl](/f38/language/pl) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/pl/pl.po/mnt/stockage/packages/f38/gnome-logs/po/pl.po | 
+ | [pt](/f38/language/pt) | 661 | 661 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/pt/pt.po/mnt/stockage/packages/f38/gnome-logs/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/pt_BR/pt_BR.po/mnt/stockage/packages/f38/gnome-logs/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ro.po | 
+ | [ru](/f38/language/ru) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/ru/ru.po/mnt/stockage/packages/f38/gnome-logs/po/ru.po | 
+ | [sk](/f38/language/sk) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/sk.po | 
+ | [sl](/f38/language/sl) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/sl.po | 
+ | [sr](/f38/language/sr) | 767 | 767 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/sr@latin.po/mnt/stockage/packages/f38/gnome-logs/po/sr.po | 
+ | [sv](/f38/language/sv) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/sv/sv.po/mnt/stockage/packages/f38/gnome-logs/po/sv.po | 
+ | [ta](/f38/language/ta) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/ta.po | 
+ | [te](/f38/language/te) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/te.po | 
+ | [tg](/f38/language/tg) | 141 | 141 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/tg.po | 
+ | [th](/f38/language/th) | 223 | 223 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/th.po | 
+ | [tr](/f38/language/tr) | 657 | 657 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/tr/tr.po/mnt/stockage/packages/f38/gnome-logs/po/tr.po | 
+ | [uk](/f38/language/uk) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/uk/uk.po/mnt/stockage/packages/f38/gnome-logs/po/uk.po | 
+ | [vi](/f38/language/vi) | 223 | 223 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/vi.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 663 | 663 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/help/zh_CN/zh_CN.po/mnt/stockage/packages/f38/gnome-logs/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 389 | 389 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/zh_TW.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 115 | 115 | 100.0 | /mnt/stockage/packages/f38/gnome-logs/po/zh_HK.po | 
+ | [ar](/f38/language/ar) | 113 | 115 | 98.3 | /mnt/stockage/packages/f38/gnome-logs/po/ar.po | 
+ | [nb_NO](/f38/language/nb_NO) | 366 | 389 | 94.1 | /mnt/stockage/packages/f38/gnome-logs/po/nb.po | 
+ | [eu](/f38/language/eu) | 588 | 661 | 89.0 | /mnt/stockage/packages/f38/gnome-logs/help/eu/eu.po/mnt/stockage/packages/f38/gnome-logs/po/eu.po | 
+ | [ka](/f38/language/ka) | 212 | 387 | 54.8 | /mnt/stockage/packages/f38/gnome-logs/po/ka.po | 
+ | [ga](/f38/language/ga) | 46 | 153 | 30.1 | /mnt/stockage/packages/f38/gnome-logs/po/ga.po | 
+ | [ab](/f38/language/ab) | 66 | 387 | 17.1 | /mnt/stockage/packages/f38/gnome-logs/po/ab.po | 
 {.sortable}
 
 

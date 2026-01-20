@@ -18,43 +18,43 @@ The package volume_key (version 0.3.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/as.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/bn.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/fr.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/gu.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/hi.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/hu.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ja.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ko.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/mr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/nl.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pt_BR.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/te.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/zh_TW.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 732 | 763 | 95.9 | /mnt/stockage/packages/f29/volume_key/po/ru.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 720 | 763 | 94.4 | /mnt/stockage/packages/f29/volume_key/po/en_GB.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 715 | 763 | 93.7 | /mnt/stockage/packages/f29/volume_key/po/bg.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 707 | 763 | 92.7 | /mnt/stockage/packages/f29/volume_key/po/bn_IN.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 427 | 763 | 56.0 | /mnt/stockage/packages/f29/volume_key/po/tr.po | 
- | [de_CH]({{< ref "/f29/language/de_CH.md" >}}) | 186 | 763 | 24.4 | /mnt/stockage/packages/f29/volume_key/po/de_CH.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 117 | 763 | 15.3 | /mnt/stockage/packages/f29/volume_key/po/eu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 40 | 763 | 5.2 | /mnt/stockage/packages/f29/volume_key/po/id.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 34 | 763 | 4.5 | /mnt/stockage/packages/f29/volume_key/po/sk.po | 
+ | [as](/f29/language/as) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/as.po | 
+ | [bn](/f29/language/bn) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/bn.po | 
+ | [ca](/f29/language/ca) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ca.po | 
+ | [cs](/f29/language/cs) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/cs.po | 
+ | [de](/f29/language/de) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/de.po | 
+ | [es](/f29/language/es) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/es.po | 
+ | [fr](/f29/language/fr) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/fr.po | 
+ | [gu](/f29/language/gu) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/gu.po | 
+ | [hi](/f29/language/hi) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/hi.po | 
+ | [hu](/f29/language/hu) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/hu.po | 
+ | [it](/f29/language/it) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/it.po | 
+ | [ja](/f29/language/ja) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ja.po | 
+ | [kn](/f29/language/kn) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/kn.po | 
+ | [ko](/f29/language/ko) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ko.po | 
+ | [ml](/f29/language/ml) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ml.po | 
+ | [mr](/f29/language/mr) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/mr.po | 
+ | [nl](/f29/language/nl) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/nl.po | 
+ | [or](/f29/language/or) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/or.po | 
+ | [pa](/f29/language/pa) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pa.po | 
+ | [pl](/f29/language/pl) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pl.po | 
+ | [pt](/f29/language/pt) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/pt_BR.po | 
+ | [sv](/f29/language/sv) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/sv.po | 
+ | [ta](/f29/language/ta) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/ta.po | 
+ | [te](/f29/language/te) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/te.po | 
+ | [uk](/f29/language/uk) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 745 | 763 | 97.6 | /mnt/stockage/packages/f29/volume_key/po/zh_TW.po | 
+ | [ru](/f29/language/ru) | 732 | 763 | 95.9 | /mnt/stockage/packages/f29/volume_key/po/ru.po | 
+ | [en_GB](/f29/language/en_GB) | 720 | 763 | 94.4 | /mnt/stockage/packages/f29/volume_key/po/en_GB.po | 
+ | [bg](/f29/language/bg) | 715 | 763 | 93.7 | /mnt/stockage/packages/f29/volume_key/po/bg.po | 
+ | [bn_IN](/f29/language/bn_IN) | 707 | 763 | 92.7 | /mnt/stockage/packages/f29/volume_key/po/bn_IN.po | 
+ | [tr](/f29/language/tr) | 427 | 763 | 56.0 | /mnt/stockage/packages/f29/volume_key/po/tr.po | 
+ | [de_CH](/f29/language/de_CH) | 186 | 763 | 24.4 | /mnt/stockage/packages/f29/volume_key/po/de_CH.po | 
+ | [eu](/f29/language/eu) | 117 | 763 | 15.3 | /mnt/stockage/packages/f29/volume_key/po/eu.po | 
+ | [id](/f29/language/id) | 40 | 763 | 5.2 | /mnt/stockage/packages/f29/volume_key/po/id.po | 
+ | [sk](/f29/language/sk) | 34 | 763 | 4.5 | /mnt/stockage/packages/f29/volume_key/po/sk.po | 
 {.sortable}
 
 

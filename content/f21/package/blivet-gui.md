@@ -18,7 +18,7 @@ The package blivet-gui (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 331 | 533 | 62.1 | /mnt/stockage/packages/f21/blivet-gui/po/cs.po | 
+ | [cs](/f21/language/cs) | 331 | 533 | 62.1 | /mnt/stockage/packages/f21/blivet-gui/po/cs.po | 
 {.sortable}
 
 

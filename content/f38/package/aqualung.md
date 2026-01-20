@@ -18,19 +18,19 @@ The package aqualung (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 3594 | 3594 | 100.0 | /mnt/stockage/packages/f38/aqualung/po/cs.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 3594 | 3594 | 100.0 | /mnt/stockage/packages/f38/aqualung/po/de.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 3536 | 3594 | 98.4 | /mnt/stockage/packages/f38/aqualung/po/ru.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 3536 | 3594 | 98.4 | /mnt/stockage/packages/f38/aqualung/po/uk.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 3535 | 3594 | 98.4 | /mnt/stockage/packages/f38/aqualung/po/nl.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 3509 | 3594 | 97.6 | /mnt/stockage/packages/f38/aqualung/po/es.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 3375 | 3594 | 93.9 | /mnt/stockage/packages/f38/aqualung/po/hu.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 3361 | 3594 | 93.5 | /mnt/stockage/packages/f38/aqualung/po/ja.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 3287 | 3594 | 91.5 | /mnt/stockage/packages/f38/aqualung/po/zh.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 3249 | 3594 | 90.4 | /mnt/stockage/packages/f38/aqualung/po/pl.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 3189 | 3594 | 88.7 | /mnt/stockage/packages/f38/aqualung/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 2928 | 3594 | 81.5 | /mnt/stockage/packages/f38/aqualung/po/it.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 2588 | 3594 | 72.0 | /mnt/stockage/packages/f38/aqualung/po/sv.po | 
+ | [cs](/f38/language/cs) | 3594 | 3594 | 100.0 | /mnt/stockage/packages/f38/aqualung/po/cs.po | 
+ | [de](/f38/language/de) | 3594 | 3594 | 100.0 | /mnt/stockage/packages/f38/aqualung/po/de.po | 
+ | [ru](/f38/language/ru) | 3536 | 3594 | 98.4 | /mnt/stockage/packages/f38/aqualung/po/ru.po | 
+ | [uk](/f38/language/uk) | 3536 | 3594 | 98.4 | /mnt/stockage/packages/f38/aqualung/po/uk.po | 
+ | [nl](/f38/language/nl) | 3535 | 3594 | 98.4 | /mnt/stockage/packages/f38/aqualung/po/nl.po | 
+ | [es](/f38/language/es) | 3509 | 3594 | 97.6 | /mnt/stockage/packages/f38/aqualung/po/es.po | 
+ | [hu](/f38/language/hu) | 3375 | 3594 | 93.9 | /mnt/stockage/packages/f38/aqualung/po/hu.po | 
+ | [ja](/f38/language/ja) | 3361 | 3594 | 93.5 | /mnt/stockage/packages/f38/aqualung/po/ja.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 3287 | 3594 | 91.5 | /mnt/stockage/packages/f38/aqualung/po/zh.po | 
+ | [pl](/f38/language/pl) | 3249 | 3594 | 90.4 | /mnt/stockage/packages/f38/aqualung/po/pl.po | 
+ | [fr](/f38/language/fr) | 3189 | 3594 | 88.7 | /mnt/stockage/packages/f38/aqualung/po/fr.po | 
+ | [it](/f38/language/it) | 2928 | 3594 | 81.5 | /mnt/stockage/packages/f38/aqualung/po/it.po | 
+ | [sv](/f38/language/sv) | 2588 | 3594 | 72.0 | /mnt/stockage/packages/f38/aqualung/po/sv.po | 
 {.sortable}
 
 

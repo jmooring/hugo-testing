@@ -18,145 +18,145 @@ The package mate-sensors-applet (version 1.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f41/language/da.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/da/da.po/mnt/stockage/packages/f41/mate-sensors-applet/po/da.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/en_GB/en_GB.po/mnt/stockage/packages/f41/mate-sensors-applet/po/en_GB.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/id/id.po/mnt/stockage/packages/f41/mate-sensors-applet/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/it/it.po/mnt/stockage/packages/f41/mate-sensors-applet/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ja/ja.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ja.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ru/ru.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ru.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sr/sr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sr.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 2127 | 2160 | 98.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ms/ms.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ms.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 2028 | 2160 | 93.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/tr/tr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/tr.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 895 | 2160 | 41.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ca/ca.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ca.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 813 | 2160 | 37.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ko/ko.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ko.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 789 | 2160 | 36.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/uk/uk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/uk.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 765 | 2160 | 35.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pt_BR/pt_BR.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pt_BR.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 758 | 2160 | 35.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pt/pt.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pt.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 748 | 2160 | 34.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/gl/gl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/gl.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 744 | 2160 | 34.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fr/fr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fr.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 744 | 2160 | 34.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/lt/lt.po/mnt/stockage/packages/f41/mate-sensors-applet/po/lt.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 744 | 2160 | 34.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pl/pl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pl.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ca@valencia.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/de/de.po/mnt/stockage/packages/f41/mate-sensors-applet/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/el/el.po/mnt/stockage/packages/f41/mate-sensors-applet/po/el.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hu/hu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hu.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sk/sk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sk.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 683 | 2160 | 31.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sv/sv.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sv.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 681 | 2160 | 31.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nl/nl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 596 | 2160 | 27.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/oc/oc.po/mnt/stockage/packages/f41/mate-sensors-applet/po/oc.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 569 | 2160 | 26.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/cs/cs.po/mnt/stockage/packages/f41/mate-sensors-applet/po/cs.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 555 | 2160 | 25.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/eu/eu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/eu.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1050 | 4320 | 24.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/cmn/cmn.po/mnt/stockage/packages/f41/mate-sensors-applet/help/zh_CN/zh_CN.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zh_CN.po/mnt/stockage/packages/f41/mate-sensors-applet/po/cmn.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 448 | 2160 | 20.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hr/hr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hr.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 766 | 4382 | 17.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es/es.po/mnt/stockage/packages/f41/mate-sensors-applet/help/es_ES/es_ES.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_ES.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 357 | 2160 | 16.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pa/pa.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pa.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 357 | 2160 | 16.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/th/th.po/mnt/stockage/packages/f41/mate-sensors-applet/po/th.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 336 | 2160 | 15.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nb/nb.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nb.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 324 | 2160 | 15.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sl/sl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sl.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 324 | 2160 | 15.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/zh_TW/zh_TW.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zh_TW.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 312 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bg/bg.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bg.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 312 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/et/et.po/mnt/stockage/packages/f41/mate-sensors-applet/po/et.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 310 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/am/am.po/mnt/stockage/packages/f41/mate-sensors-applet/po/am.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 310 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ro/ro.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ro.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 309 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ar/ar.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ar.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 308 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/be/be.po/mnt/stockage/packages/f41/mate-sensors-applet/po/be.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 308 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/en_AU/en_AU.po/mnt/stockage/packages/f41/mate-sensors-applet/po/en_AU.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 308 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hy/hy.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hy.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 302 | 2160 | 14.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mk/mk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mk.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 302 | 2160 | 14.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mr/mr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mr.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 236 | 2160 | 10.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/he/he.po/mnt/stockage/packages/f41/mate-sensors-applet/po/he.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 227 | 2160 | 10.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ie/ie.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ie.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 214 | 2160 | 9.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hi/hi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hi.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 192 | 2160 | 8.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/zh_HK/zh_HK.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zh_HK.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 183 | 2160 | 8.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/eo/eo.po/mnt/stockage/packages/f41/mate-sensors-applet/po/eo.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 182 | 2160 | 8.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fi/fi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fi.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 76 | 2160 | 3.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/uz/uz.po/mnt/stockage/packages/f41/mate-sensors-applet/po/uz.po | 
- | [es_VE]({{< ref "/f41/language/es_VE.md" >}}) | 11 | 313 | 3.5 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_VE.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 70 | 2160 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sq/sq.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sq.po | 
- | [es_CR]({{< ref "/f41/language/es_CR.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_CR.po | 
- | [es_DO]({{< ref "/f41/language/es_DO.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_DO.po | 
- | [es_EC]({{< ref "/f41/language/es_EC.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_EC.po | 
- | [es_NI]({{< ref "/f41/language/es_NI.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_NI.po | 
- | [es_PA]({{< ref "/f41/language/es_PA.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_PA.po | 
- | [es_PE]({{< ref "/f41/language/es_PE.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_PE.po | 
- | [es_SV]({{< ref "/f41/language/es_SV.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_SV.po | 
- | [es_UY]({{< ref "/f41/language/es_UY.md" >}}) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_UY.po | 
- | [pms]({{< ref "/f41/language/pms.md" >}}) | 8 | 313 | 2.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/pms.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 54 | 2160 | 2.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/te/te.po/mnt/stockage/packages/f41/mate-sensors-applet/po/te.po | 
- | [kmr]({{< ref "/f41/language/kmr.md" >}}) | 44 | 2160 | 2.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ku_IQ/ku_IQ.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ku_IQ.po | 
- | [sc]({{< ref "/f41/language/sc.md" >}}) | 6 | 313 | 1.9 | /mnt/stockage/packages/f41/mate-sensors-applet/po/sc.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 35 | 2160 | 1.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/kk/kk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/kk.po | 
- | [li]({{< ref "/f41/language/li.md" >}}) | 5 | 313 | 1.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/li.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 5 | 313 | 1.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/rw.po | 
- | [ky]({{< ref "/f41/language/ky.md" >}}) | 32 | 2160 | 1.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ky/ky.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ky.po | 
- | [ks]({{< ref "/f41/language/ks.md" >}}) | 4 | 313 | 1.3 | /mnt/stockage/packages/f41/mate-sensors-applet/po/ks.po | 
- | [es_CO]({{< ref "/f41/language/es_CO.md" >}}) | 25 | 2160 | 1.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_CO/es_CO.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_CO.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 24 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/gu/gu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/gu.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/as/as.po/mnt/stockage/packages/f41/mate-sensors-applet/po/as.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/kn/kn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/kn.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/lv/lv.po/mnt/stockage/packages/f41/mate-sensors-applet/po/lv.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ml/ml.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ml.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nn/nn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nn.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/or/or.po/mnt/stockage/packages/f41/mate-sensors-applet/po/or.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sr@latin/sr@latin.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sr@latin.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ta/ta.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ta.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ast/ast.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ast.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bn/bn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bn.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bn_IN/bn_IN.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bn_IN.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ug/ug.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ug.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ur/ur.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ur.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/vi/vi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/vi.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 21 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fa/fa.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fa.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 21 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ga/ga.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ga.po | 
- | [fr_CA]({{< ref "/f41/language/fr_CA.md" >}}) | 3 | 313 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/po/fr_CA.po | 
- | [tt]({{< ref "/f41/language/tt.md" >}}) | 3 | 313 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/po/tt.po | 
- | [yi]({{< ref "/f41/language/yi.md" >}}) | 3 | 313 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/po/yi.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 20 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/af/af.po/mnt/stockage/packages/f41/mate-sensors-applet/po/af.po | 
- | [dz]({{< ref "/f41/language/dz.md" >}}) | 20 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/dz/dz.po/mnt/stockage/packages/f41/mate-sensors-applet/po/dz.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 20 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mai/mai.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mai.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/br/br.po/mnt/stockage/packages/f41/mate-sensors-applet/po/br.po | 
- | [crh]({{< ref "/f41/language/crh.md" >}}) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/crh/crh.po/mnt/stockage/packages/f41/mate-sensors-applet/po/crh.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nds/nds.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nds.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ne/ne.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ne.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/en_CA/en_CA.po/mnt/stockage/packages/f41/mate-sensors-applet/po/en_CA.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/is/is.po/mnt/stockage/packages/f41/mate-sensors-applet/po/is.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ka/ka.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ka.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/si/si.po/mnt/stockage/packages/f41/mate-sensors-applet/po/si.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/az/az.po/mnt/stockage/packages/f41/mate-sensors-applet/po/az.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bs/bs.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bs.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/cy/cy.po/mnt/stockage/packages/f41/mate-sensors-applet/po/cy.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/xh/xh.po/mnt/stockage/packages/f41/mate-sensors-applet/po/xh.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 16 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ku/ku.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ku.po | 
- | [mg]({{< ref "/f41/language/mg.md" >}}) | 16 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mg/mg.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mg.po | 
- | [ps]({{< ref "/f41/language/ps.md" >}}) | 16 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ps/ps.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ps.po | 
- | [es_MX]({{< ref "/f41/language/es_MX.md" >}}) | 16 | 2222 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_MX/es_MX.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_MX.po | 
- | [es_CL]({{< ref "/f41/language/es_CL.md" >}}) | 15 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_CL/es_CL.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_CL.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 14 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mn/mn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mn.po | 
- | [csb]({{< ref "/f41/language/csb.md" >}}) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/csb.po | 
- | [lb]({{< ref "/f41/language/lb.md" >}}) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/lb.po | 
- | [nah]({{< ref "/f41/language/nah.md" >}}) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/nah.po | 
- | [nqo]({{< ref "/f41/language/nqo.md" >}}) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/nqo.po | 
- | [sw]({{< ref "/f41/language/sw.md" >}}) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/sw.po | 
- | [ur_PK]({{< ref "/f41/language/ur_PK.md" >}}) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/ur_PK.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 12 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fur/fur.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fur.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 12 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fy/fy.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fy.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 12 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/wa/wa.po/mnt/stockage/packages/f41/mate-sensors-applet/po/wa.po | 
- | [es_AR]({{< ref "/f41/language/es_AR.md" >}}) | 12 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_AR/es_AR.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_AR.po | 
- | [es_PR]({{< ref "/f41/language/es_PR.md" >}}) | 12 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_PR/es_PR.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_PR.po | 
- | [ha]({{< ref "/f41/language/ha.md" >}}) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ha/ha.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ha.po | 
- | [ig]({{< ref "/f41/language/ig.md" >}}) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ig/ig.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ig.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/kab/kab.po/mnt/stockage/packages/f41/mate-sensors-applet/po/kab.po | 
- | [yo]({{< ref "/f41/language/yo.md" >}}) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/yo/yo.po/mnt/stockage/packages/f41/mate-sensors-applet/po/yo.po | 
- | [nso]({{< ref "/f41/language/nso.md" >}}) | 10 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nso/nso.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nso.po | 
- | [zu]({{< ref "/f41/language/zu.md" >}}) | 10 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/zu/zu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zu.po | 
- | [frp]({{< ref "/f41/language/frp.md" >}}) | 8 | 2222 | 0.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/frp/frp.po/mnt/stockage/packages/f41/mate-sensors-applet/po/frp.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 8 | 2222 | 0.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/km/km.po/mnt/stockage/packages/f41/mate-sensors-applet/po/km.po | 
- | [tk]({{< ref "/f41/language/tk.md" >}}) | 8 | 2222 | 0.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/tk/tk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/tk.po | 
- | [mi]({{< ref "/f41/language/mi.md" >}}) | 7 | 2222 | 0.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mi/mi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mi.po | 
- | [jv]({{< ref "/f41/language/jv.md" >}}) | 5 | 2222 | 0.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/jv/jv.po/mnt/stockage/packages/f41/mate-sensors-applet/po/jv.po | 
- | [la]({{< ref "/f41/language/la.md" >}}) | 4 | 1847 | 0.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/la/la.po | 
- | [an]({{< ref "/f41/language/an.md" >}}) | 4 | 2222 | 0.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/an/an.po/mnt/stockage/packages/f41/mate-sensors-applet/po/an.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 3 | 2160 | 0.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ia/ia.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ia.po | 
+ | [da](/f41/language/da) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/da/da.po/mnt/stockage/packages/f41/mate-sensors-applet/po/da.po | 
+ | [en_GB](/f41/language/en_GB) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/en_GB/en_GB.po/mnt/stockage/packages/f41/mate-sensors-applet/po/en_GB.po | 
+ | [id](/f41/language/id) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/id/id.po/mnt/stockage/packages/f41/mate-sensors-applet/po/id.po | 
+ | [it](/f41/language/it) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/it/it.po/mnt/stockage/packages/f41/mate-sensors-applet/po/it.po | 
+ | [ja](/f41/language/ja) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ja/ja.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ja.po | 
+ | [ru](/f41/language/ru) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ru/ru.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ru.po | 
+ | [sr](/f41/language/sr) | 2160 | 2160 | 100.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sr/sr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sr.po | 
+ | [ms](/f41/language/ms) | 2127 | 2160 | 98.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ms/ms.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ms.po | 
+ | [tr](/f41/language/tr) | 2028 | 2160 | 93.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/tr/tr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/tr.po | 
+ | [ca](/f41/language/ca) | 895 | 2160 | 41.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ca/ca.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ca.po | 
+ | [ko](/f41/language/ko) | 813 | 2160 | 37.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ko/ko.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ko.po | 
+ | [uk](/f41/language/uk) | 789 | 2160 | 36.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/uk/uk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/uk.po | 
+ | [pt_BR](/f41/language/pt_BR) | 765 | 2160 | 35.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pt_BR/pt_BR.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pt_BR.po | 
+ | [pt](/f41/language/pt) | 758 | 2160 | 35.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pt/pt.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pt.po | 
+ | [gl](/f41/language/gl) | 748 | 2160 | 34.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/gl/gl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/gl.po | 
+ | [fr](/f41/language/fr) | 744 | 2160 | 34.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fr/fr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fr.po | 
+ | [lt](/f41/language/lt) | 744 | 2160 | 34.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/lt/lt.po/mnt/stockage/packages/f41/mate-sensors-applet/po/lt.po | 
+ | [pl](/f41/language/pl) | 744 | 2160 | 34.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pl/pl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pl.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ca@valencia/ca@valencia.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ca@valencia.po | 
+ | [de](/f41/language/de) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/de/de.po/mnt/stockage/packages/f41/mate-sensors-applet/po/de.po | 
+ | [el](/f41/language/el) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/el/el.po/mnt/stockage/packages/f41/mate-sensors-applet/po/el.po | 
+ | [hu](/f41/language/hu) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hu/hu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hu.po | 
+ | [sk](/f41/language/sk) | 732 | 2160 | 33.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sk/sk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sk.po | 
+ | [sv](/f41/language/sv) | 683 | 2160 | 31.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sv/sv.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sv.po | 
+ | [nl](/f41/language/nl) | 681 | 2160 | 31.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nl/nl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nl.po | 
+ | [oc](/f41/language/oc) | 596 | 2160 | 27.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/oc/oc.po/mnt/stockage/packages/f41/mate-sensors-applet/po/oc.po | 
+ | [cs](/f41/language/cs) | 569 | 2160 | 26.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/cs/cs.po/mnt/stockage/packages/f41/mate-sensors-applet/po/cs.po | 
+ | [eu](/f41/language/eu) | 555 | 2160 | 25.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/eu/eu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/eu.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1050 | 4320 | 24.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/cmn/cmn.po/mnt/stockage/packages/f41/mate-sensors-applet/help/zh_CN/zh_CN.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zh_CN.po/mnt/stockage/packages/f41/mate-sensors-applet/po/cmn.po | 
+ | [hr](/f41/language/hr) | 448 | 2160 | 20.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hr/hr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hr.po | 
+ | [es](/f41/language/es) | 766 | 4382 | 17.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es/es.po/mnt/stockage/packages/f41/mate-sensors-applet/help/es_ES/es_ES.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_ES.po | 
+ | [pa](/f41/language/pa) | 357 | 2160 | 16.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/pa/pa.po/mnt/stockage/packages/f41/mate-sensors-applet/po/pa.po | 
+ | [th](/f41/language/th) | 357 | 2160 | 16.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/th/th.po/mnt/stockage/packages/f41/mate-sensors-applet/po/th.po | 
+ | [nb_NO](/f41/language/nb_NO) | 336 | 2160 | 15.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nb/nb.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nb.po | 
+ | [sl](/f41/language/sl) | 324 | 2160 | 15.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sl/sl.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sl.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 324 | 2160 | 15.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/zh_TW/zh_TW.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zh_TW.po | 
+ | [bg](/f41/language/bg) | 312 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bg/bg.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bg.po | 
+ | [et](/f41/language/et) | 312 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/et/et.po/mnt/stockage/packages/f41/mate-sensors-applet/po/et.po | 
+ | [am](/f41/language/am) | 310 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/am/am.po/mnt/stockage/packages/f41/mate-sensors-applet/po/am.po | 
+ | [ro](/f41/language/ro) | 310 | 2160 | 14.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ro/ro.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ro.po | 
+ | [ar](/f41/language/ar) | 309 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ar/ar.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ar.po | 
+ | [be](/f41/language/be) | 308 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/be/be.po/mnt/stockage/packages/f41/mate-sensors-applet/po/be.po | 
+ | [en_AU](/f41/language/en_AU) | 308 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/en_AU/en_AU.po/mnt/stockage/packages/f41/mate-sensors-applet/po/en_AU.po | 
+ | [hy](/f41/language/hy) | 308 | 2160 | 14.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hy/hy.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hy.po | 
+ | [mk](/f41/language/mk) | 302 | 2160 | 14.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mk/mk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mk.po | 
+ | [mr](/f41/language/mr) | 302 | 2160 | 14.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mr/mr.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mr.po | 
+ | [he](/f41/language/he) | 236 | 2160 | 10.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/he/he.po/mnt/stockage/packages/f41/mate-sensors-applet/po/he.po | 
+ | [ie](/f41/language/ie) | 227 | 2160 | 10.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ie/ie.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ie.po | 
+ | [hi](/f41/language/hi) | 214 | 2160 | 9.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/hi/hi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/hi.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 192 | 2160 | 8.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/zh_HK/zh_HK.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zh_HK.po | 
+ | [eo](/f41/language/eo) | 183 | 2160 | 8.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/eo/eo.po/mnt/stockage/packages/f41/mate-sensors-applet/po/eo.po | 
+ | [fi](/f41/language/fi) | 182 | 2160 | 8.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fi/fi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fi.po | 
+ | [uz](/f41/language/uz) | 76 | 2160 | 3.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/uz/uz.po/mnt/stockage/packages/f41/mate-sensors-applet/po/uz.po | 
+ | [es_VE](/f41/language/es_VE) | 11 | 313 | 3.5 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_VE.po | 
+ | [sq](/f41/language/sq) | 70 | 2160 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sq/sq.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sq.po | 
+ | [es_CR](/f41/language/es_CR) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_CR.po | 
+ | [es_DO](/f41/language/es_DO) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_DO.po | 
+ | [es_EC](/f41/language/es_EC) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_EC.po | 
+ | [es_NI](/f41/language/es_NI) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_NI.po | 
+ | [es_PA](/f41/language/es_PA) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_PA.po | 
+ | [es_PE](/f41/language/es_PE) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_PE.po | 
+ | [es_SV](/f41/language/es_SV) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_SV.po | 
+ | [es_UY](/f41/language/es_UY) | 10 | 313 | 3.2 | /mnt/stockage/packages/f41/mate-sensors-applet/po/es_UY.po | 
+ | [pms](/f41/language/pms) | 8 | 313 | 2.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/pms.po | 
+ | [te](/f41/language/te) | 54 | 2160 | 2.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/te/te.po/mnt/stockage/packages/f41/mate-sensors-applet/po/te.po | 
+ | [kmr](/f41/language/kmr) | 44 | 2160 | 2.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ku_IQ/ku_IQ.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ku_IQ.po | 
+ | [sc](/f41/language/sc) | 6 | 313 | 1.9 | /mnt/stockage/packages/f41/mate-sensors-applet/po/sc.po | 
+ | [kk](/f41/language/kk) | 35 | 2160 | 1.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/kk/kk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/kk.po | 
+ | [li](/f41/language/li) | 5 | 313 | 1.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/li.po | 
+ | [rw](/f41/language/rw) | 5 | 313 | 1.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/rw.po | 
+ | [ky](/f41/language/ky) | 32 | 2160 | 1.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ky/ky.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ky.po | 
+ | [ks](/f41/language/ks) | 4 | 313 | 1.3 | /mnt/stockage/packages/f41/mate-sensors-applet/po/ks.po | 
+ | [es_CO](/f41/language/es_CO) | 25 | 2160 | 1.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_CO/es_CO.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_CO.po | 
+ | [gu](/f41/language/gu) | 24 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/gu/gu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/gu.po | 
+ | [as](/f41/language/as) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/as/as.po/mnt/stockage/packages/f41/mate-sensors-applet/po/as.po | 
+ | [kn](/f41/language/kn) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/kn/kn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/kn.po | 
+ | [lv](/f41/language/lv) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/lv/lv.po/mnt/stockage/packages/f41/mate-sensors-applet/po/lv.po | 
+ | [ml](/f41/language/ml) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ml/ml.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ml.po | 
+ | [nn](/f41/language/nn) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nn/nn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nn.po | 
+ | [or](/f41/language/or) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/or/or.po/mnt/stockage/packages/f41/mate-sensors-applet/po/or.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/sr@latin/sr@latin.po/mnt/stockage/packages/f41/mate-sensors-applet/po/sr@latin.po | 
+ | [ta](/f41/language/ta) | 23 | 2160 | 1.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ta/ta.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ta.po | 
+ | [ast](/f41/language/ast) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ast/ast.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ast.po | 
+ | [bn](/f41/language/bn) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bn/bn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bn.po | 
+ | [bn_IN](/f41/language/bn_IN) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bn_IN/bn_IN.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bn_IN.po | 
+ | [ug](/f41/language/ug) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ug/ug.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ug.po | 
+ | [ur](/f41/language/ur) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ur/ur.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ur.po | 
+ | [vi](/f41/language/vi) | 22 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/vi/vi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/vi.po | 
+ | [fa](/f41/language/fa) | 21 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fa/fa.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fa.po | 
+ | [ga](/f41/language/ga) | 21 | 2160 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ga/ga.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ga.po | 
+ | [fr_CA](/f41/language/fr_CA) | 3 | 313 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/po/fr_CA.po | 
+ | [tt](/f41/language/tt) | 3 | 313 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/po/tt.po | 
+ | [yi](/f41/language/yi) | 3 | 313 | 1.0 | /mnt/stockage/packages/f41/mate-sensors-applet/po/yi.po | 
+ | [af](/f41/language/af) | 20 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/af/af.po/mnt/stockage/packages/f41/mate-sensors-applet/po/af.po | 
+ | [dz](/f41/language/dz) | 20 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/dz/dz.po/mnt/stockage/packages/f41/mate-sensors-applet/po/dz.po | 
+ | [mai](/f41/language/mai) | 20 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mai/mai.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mai.po | 
+ | [br](/f41/language/br) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/br/br.po/mnt/stockage/packages/f41/mate-sensors-applet/po/br.po | 
+ | [crh](/f41/language/crh) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/crh/crh.po/mnt/stockage/packages/f41/mate-sensors-applet/po/crh.po | 
+ | [nds](/f41/language/nds) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nds/nds.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nds.po | 
+ | [ne](/f41/language/ne) | 19 | 2160 | 0.9 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ne/ne.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ne.po | 
+ | [en_CA](/f41/language/en_CA) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/en_CA/en_CA.po/mnt/stockage/packages/f41/mate-sensors-applet/po/en_CA.po | 
+ | [is](/f41/language/is) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/is/is.po/mnt/stockage/packages/f41/mate-sensors-applet/po/is.po | 
+ | [ka](/f41/language/ka) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ka/ka.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ka.po | 
+ | [si](/f41/language/si) | 18 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/si/si.po/mnt/stockage/packages/f41/mate-sensors-applet/po/si.po | 
+ | [az](/f41/language/az) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/az/az.po/mnt/stockage/packages/f41/mate-sensors-applet/po/az.po | 
+ | [bs](/f41/language/bs) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/bs/bs.po/mnt/stockage/packages/f41/mate-sensors-applet/po/bs.po | 
+ | [cy](/f41/language/cy) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/cy/cy.po/mnt/stockage/packages/f41/mate-sensors-applet/po/cy.po | 
+ | [xh](/f41/language/xh) | 17 | 2160 | 0.8 | /mnt/stockage/packages/f41/mate-sensors-applet/help/xh/xh.po/mnt/stockage/packages/f41/mate-sensors-applet/po/xh.po | 
+ | [ku](/f41/language/ku) | 16 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ku/ku.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ku.po | 
+ | [mg](/f41/language/mg) | 16 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mg/mg.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mg.po | 
+ | [ps](/f41/language/ps) | 16 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ps/ps.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ps.po | 
+ | [es_MX](/f41/language/es_MX) | 16 | 2222 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_MX/es_MX.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_MX.po | 
+ | [es_CL](/f41/language/es_CL) | 15 | 2160 | 0.7 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_CL/es_CL.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_CL.po | 
+ | [mn](/f41/language/mn) | 14 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mn/mn.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mn.po | 
+ | [csb](/f41/language/csb) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/csb.po | 
+ | [lb](/f41/language/lb) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/lb.po | 
+ | [nah](/f41/language/nah) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/nah.po | 
+ | [nqo](/f41/language/nqo) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/nqo.po | 
+ | [sw](/f41/language/sw) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/sw.po | 
+ | [ur_PK](/f41/language/ur_PK) | 2 | 313 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/po/ur_PK.po | 
+ | [fur](/f41/language/fur) | 12 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fur/fur.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fur.po | 
+ | [fy](/f41/language/fy) | 12 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/fy/fy.po/mnt/stockage/packages/f41/mate-sensors-applet/po/fy.po | 
+ | [wa](/f41/language/wa) | 12 | 2160 | 0.6 | /mnt/stockage/packages/f41/mate-sensors-applet/help/wa/wa.po/mnt/stockage/packages/f41/mate-sensors-applet/po/wa.po | 
+ | [es_AR](/f41/language/es_AR) | 12 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_AR/es_AR.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_AR.po | 
+ | [es_PR](/f41/language/es_PR) | 12 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/es_PR/es_PR.po/mnt/stockage/packages/f41/mate-sensors-applet/po/es_PR.po | 
+ | [ha](/f41/language/ha) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ha/ha.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ha.po | 
+ | [ig](/f41/language/ig) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ig/ig.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ig.po | 
+ | [kab](/f41/language/kab) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/kab/kab.po/mnt/stockage/packages/f41/mate-sensors-applet/po/kab.po | 
+ | [yo](/f41/language/yo) | 11 | 2160 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/yo/yo.po/mnt/stockage/packages/f41/mate-sensors-applet/po/yo.po | 
+ | [nso](/f41/language/nso) | 10 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/nso/nso.po/mnt/stockage/packages/f41/mate-sensors-applet/po/nso.po | 
+ | [zu](/f41/language/zu) | 10 | 2222 | 0.5 | /mnt/stockage/packages/f41/mate-sensors-applet/help/zu/zu.po/mnt/stockage/packages/f41/mate-sensors-applet/po/zu.po | 
+ | [frp](/f41/language/frp) | 8 | 2222 | 0.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/frp/frp.po/mnt/stockage/packages/f41/mate-sensors-applet/po/frp.po | 
+ | [km](/f41/language/km) | 8 | 2222 | 0.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/km/km.po/mnt/stockage/packages/f41/mate-sensors-applet/po/km.po | 
+ | [tk](/f41/language/tk) | 8 | 2222 | 0.4 | /mnt/stockage/packages/f41/mate-sensors-applet/help/tk/tk.po/mnt/stockage/packages/f41/mate-sensors-applet/po/tk.po | 
+ | [mi](/f41/language/mi) | 7 | 2222 | 0.3 | /mnt/stockage/packages/f41/mate-sensors-applet/help/mi/mi.po/mnt/stockage/packages/f41/mate-sensors-applet/po/mi.po | 
+ | [jv](/f41/language/jv) | 5 | 2222 | 0.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/jv/jv.po/mnt/stockage/packages/f41/mate-sensors-applet/po/jv.po | 
+ | [la](/f41/language/la) | 4 | 1847 | 0.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/la/la.po | 
+ | [an](/f41/language/an) | 4 | 2222 | 0.2 | /mnt/stockage/packages/f41/mate-sensors-applet/help/an/an.po/mnt/stockage/packages/f41/mate-sensors-applet/po/an.po | 
+ | [ia](/f41/language/ia) | 3 | 2160 | 0.1 | /mnt/stockage/packages/f41/mate-sensors-applet/help/ia/ia.po/mnt/stockage/packages/f41/mate-sensors-applet/po/ia.po | 
 {.sortable}
 
 

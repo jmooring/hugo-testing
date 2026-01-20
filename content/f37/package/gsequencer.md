@@ -18,10 +18,10 @@ The package gsequencer (version 6.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 457 | 894 | 51.1 | /mnt/stockage/packages/f37/gsequencer/po/fr.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 454 | 894 | 50.8 | /mnt/stockage/packages/f37/gsequencer/po/de.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 441 | 894 | 49.3 | /mnt/stockage/packages/f37/gsequencer/po/pl.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 0 | 894 | 0.0 | /mnt/stockage/packages/f37/gsequencer/po/it.po | 
+ | [fr](/f37/language/fr) | 457 | 894 | 51.1 | /mnt/stockage/packages/f37/gsequencer/po/fr.po | 
+ | [de](/f37/language/de) | 454 | 894 | 50.8 | /mnt/stockage/packages/f37/gsequencer/po/de.po | 
+ | [pl](/f37/language/pl) | 441 | 894 | 49.3 | /mnt/stockage/packages/f37/gsequencer/po/pl.po | 
+ | [it](/f37/language/it) | 0 | 894 | 0.0 | /mnt/stockage/packages/f37/gsequencer/po/it.po | 
 {.sortable}
 
 

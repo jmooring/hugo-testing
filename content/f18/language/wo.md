@@ -39,17 +39,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f18/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [klavaro]({{< ref "/f18/package/klavaro.md" >}}) | 1903 | 1912 | 99.5 | Wolof <wo@li.org> | 
- | [debconf]({{< ref "/f18/package/debconf.md" >}}) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
- | [iso-codes]({{< ref "/f18/package/iso-codes.md" >}}) | 1047 | 1101 | 95.1 | Wolof | 
- | [tuxtype2]({{< ref "/f18/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 |  | 
- | [ccsm]({{< ref "/f18/package/ccsm.md" >}}) | 399 | 549 | 72.7 | Wolof | 
- | [tuxpaint]({{< ref "/f18/package/tuxpaint.md" >}}) | 421 | 1247 | 33.8 |  | 
- | [pootle]({{< ref "/f18/package/pootle.md" >}}) | 126 | 2424 | 5.2 | LANGUAGE <LL@li.org> | 
- | [olpc-switch-desktop]({{< ref "/f18/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f18/package/sugar-browse.md" >}}) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f18/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [newt](/f18/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [klavaro](/f18/package/klavaro) | 1903 | 1912 | 99.5 | Wolof <wo@li.org> | 
+ | [debconf](/f18/package/debconf) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
+ | [iso-codes](/f18/package/iso-codes) | 1047 | 1101 | 95.1 | Wolof | 
+ | [tuxtype2](/f18/package/tuxtype2) | 71 | 80 | 88.8 |  | 
+ | [ccsm](/f18/package/ccsm) | 399 | 549 | 72.7 | Wolof | 
+ | [tuxpaint](/f18/package/tuxpaint) | 421 | 1247 | 33.8 |  | 
+ | [pootle](/f18/package/pootle) | 126 | 2424 | 5.2 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f18/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f18/package/sugar-browse) | 0 | 134 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f18/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

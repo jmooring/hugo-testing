@@ -18,11 +18,11 @@ The package gcl (version 2.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 3454 | 3454 | 100.0 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/fr.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 3454 | 3454 | 100.0 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/tr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 3104 | 3375 | 92.0 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/sv.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 3095 | 3375 | 91.7 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/es.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/ja.po | 
+ | [fr](/f7/language/fr) | 3454 | 3454 | 100.0 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/fr.po | 
+ | [tr](/f7/language/tr) | 3454 | 3454 | 100.0 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/tr.po | 
+ | [sv](/f7/language/sv) | 3104 | 3375 | 92.0 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/sv.po | 
+ | [es](/f7/language/es) | 3095 | 3375 | 91.7 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/es.po | 
+ | [ja](/f7/language/ja) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f7/gcl/binutils/bfd/po/ja.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package diffuse (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 872 | 872 | 100.0 | /mnt/stockage/packages/f12/diffuse/translations/de.po | 
+ | [de](/f12/language/de) | 872 | 872 | 100.0 | /mnt/stockage/packages/f12/diffuse/translations/de.po | 
 {.sortable}
 
 

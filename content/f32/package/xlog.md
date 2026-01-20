@@ -18,16 +18,16 @@ The package xlog (version 2.0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1441 | 1465 | 98.4 | /mnt/stockage/packages/f32/xlog/po/nl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1435 | 1465 | 98.0 | /mnt/stockage/packages/f32/xlog/po/sv.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1359 | 1465 | 92.8 | /mnt/stockage/packages/f32/xlog/po/fr.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/es.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/pt.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/sk.po | 
+ | [nl](/f32/language/nl) | 1441 | 1465 | 98.4 | /mnt/stockage/packages/f32/xlog/po/nl.po | 
+ | [sv](/f32/language/sv) | 1435 | 1465 | 98.0 | /mnt/stockage/packages/f32/xlog/po/sv.po | 
+ | [fr](/f32/language/fr) | 1359 | 1465 | 92.8 | /mnt/stockage/packages/f32/xlog/po/fr.po | 
+ | [cs](/f32/language/cs) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/cs.po | 
+ | [de](/f32/language/de) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/de.po | 
+ | [es](/f32/language/es) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/es.po | 
+ | [it](/f32/language/it) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/it.po | 
+ | [pl](/f32/language/pl) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/pl.po | 
+ | [pt](/f32/language/pt) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/pt.po | 
+ | [sk](/f32/language/sk) | 1358 | 1465 | 92.7 | /mnt/stockage/packages/f32/xlog/po/sk.po | 
 {.sortable}
 
 

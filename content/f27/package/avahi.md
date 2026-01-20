@@ -18,49 +18,49 @@ The package avahi (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/id.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/oc.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/pl.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/tr.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/uk.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/bg.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ca.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/de.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/el.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/en_GB.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/fr.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/gl.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ja.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/lv.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/nl.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sr.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/zh_TW.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 794 | 868 | 91.5 | /mnt/stockage/packages/f27/avahi/po/fi.po | 
- | [en_NZ]({{< ref "/f27/language/en_NZ.md" >}}) | 758 | 868 | 87.3 | /mnt/stockage/packages/f27/avahi/po/en_NZ.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 642 | 868 | 74.0 | /mnt/stockage/packages/f27/avahi/po/cs.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 477 | 868 | 55.0 | /mnt/stockage/packages/f27/avahi/po/et.po | 
- | [fo]({{< ref "/f27/language/fo.md" >}}) | 413 | 868 | 47.6 | /mnt/stockage/packages/f27/avahi/po/fo.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 332 | 868 | 38.2 | /mnt/stockage/packages/f27/avahi/po/he.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 262 | 868 | 30.2 | /mnt/stockage/packages/f27/avahi/po/ar.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 224 | 868 | 25.8 | /mnt/stockage/packages/f27/avahi/po/fa.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 167 | 868 | 19.2 | /mnt/stockage/packages/f27/avahi/po/eo.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 94 | 868 | 10.8 | /mnt/stockage/packages/f27/avahi/po/ms.po | 
- | [en_AU]({{< ref "/f27/language/en_AU.md" >}}) | 2 | 868 | 0.2 | /mnt/stockage/packages/f27/avahi/po/en_AU.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 1 | 868 | 0.1 | /mnt/stockage/packages/f27/avahi/po/en_CA.po | 
- | [ach]({{< ref "/f27/language/ach.md" >}}) | 0 | 868 | 0.0 | /mnt/stockage/packages/f27/avahi/po/ach.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 0 | 868 | 0.0 | /mnt/stockage/packages/f27/avahi/po/ko.po | 
+ | [hu](/f27/language/hu) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/hu.po | 
+ | [id](/f27/language/id) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/id.po | 
+ | [oc](/f27/language/oc) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/oc.po | 
+ | [pl](/f27/language/pl) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/pl.po | 
+ | [sv](/f27/language/sv) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/sv.po | 
+ | [tr](/f27/language/tr) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/tr.po | 
+ | [uk](/f27/language/uk) | 868 | 868 | 100.0 | /mnt/stockage/packages/f27/avahi/po/uk.po | 
+ | [bg](/f27/language/bg) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/bg.po | 
+ | [ca](/f27/language/ca) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ca.po | 
+ | [da](/f27/language/da) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/da.po | 
+ | [de](/f27/language/de) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/de.po | 
+ | [el](/f27/language/el) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/el.po | 
+ | [en_GB](/f27/language/en_GB) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/en_GB.po | 
+ | [es](/f27/language/es) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/es.po | 
+ | [fr](/f27/language/fr) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/fr.po | 
+ | [gl](/f27/language/gl) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/gl.po | 
+ | [it](/f27/language/it) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/it.po | 
+ | [ja](/f27/language/ja) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ja.po | 
+ | [lv](/f27/language/lv) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/lv.po | 
+ | [nl](/f27/language/nl) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/nl.po | 
+ | [pt_BR](/f27/language/pt_BR) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ro.po | 
+ | [ru](/f27/language/ru) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/ru.po | 
+ | [sk](/f27/language/sk) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sk.po | 
+ | [sl](/f27/language/sl) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sl.po | 
+ | [sr](/f27/language/sr) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sr.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/sr@latin.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 865 | 868 | 99.7 | /mnt/stockage/packages/f27/avahi/po/zh_TW.po | 
+ | [fi](/f27/language/fi) | 794 | 868 | 91.5 | /mnt/stockage/packages/f27/avahi/po/fi.po | 
+ | [en_NZ](/f27/language/en_NZ) | 758 | 868 | 87.3 | /mnt/stockage/packages/f27/avahi/po/en_NZ.po | 
+ | [cs](/f27/language/cs) | 642 | 868 | 74.0 | /mnt/stockage/packages/f27/avahi/po/cs.po | 
+ | [et](/f27/language/et) | 477 | 868 | 55.0 | /mnt/stockage/packages/f27/avahi/po/et.po | 
+ | [fo](/f27/language/fo) | 413 | 868 | 47.6 | /mnt/stockage/packages/f27/avahi/po/fo.po | 
+ | [he](/f27/language/he) | 332 | 868 | 38.2 | /mnt/stockage/packages/f27/avahi/po/he.po | 
+ | [ar](/f27/language/ar) | 262 | 868 | 30.2 | /mnt/stockage/packages/f27/avahi/po/ar.po | 
+ | [fa](/f27/language/fa) | 224 | 868 | 25.8 | /mnt/stockage/packages/f27/avahi/po/fa.po | 
+ | [eo](/f27/language/eo) | 167 | 868 | 19.2 | /mnt/stockage/packages/f27/avahi/po/eo.po | 
+ | [ms](/f27/language/ms) | 94 | 868 | 10.8 | /mnt/stockage/packages/f27/avahi/po/ms.po | 
+ | [en_AU](/f27/language/en_AU) | 2 | 868 | 0.2 | /mnt/stockage/packages/f27/avahi/po/en_AU.po | 
+ | [en_CA](/f27/language/en_CA) | 1 | 868 | 0.1 | /mnt/stockage/packages/f27/avahi/po/en_CA.po | 
+ | [ach](/f27/language/ach) | 0 | 868 | 0.0 | /mnt/stockage/packages/f27/avahi/po/ach.po | 
+ | [ko](/f27/language/ko) | 0 | 868 | 0.0 | /mnt/stockage/packages/f27/avahi/po/ko.po | 
 {.sortable}
 
 

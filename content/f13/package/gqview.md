@@ -18,39 +18,39 @@ The package gqview (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 1721 | 1721 | 100.0 | /mnt/stockage/packages/f13/gqview/po/eu.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/be.po | 
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/eo.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/es.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/fi.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/nl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/pt_BR.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/vi.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/zh_TW.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/bg.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/it.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/ja.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1708 | 1721 | 99.2 | /mnt/stockage/packages/f13/gqview/po/sv.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 1698 | 1721 | 98.7 | /mnt/stockage/packages/f13/gqview/po/sk.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1522 | 1721 | 88.4 | /mnt/stockage/packages/f13/gqview/po/pl.po | 
- | [ar]({{< ref "/f13/language/ar.md" >}}) | 1214 | 1721 | 70.5 | /mnt/stockage/packages/f13/gqview/po/ar.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 1050 | 1721 | 61.0 | /mnt/stockage/packages/f13/gqview/po/ro.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1015 | 1721 | 59.0 | /mnt/stockage/packages/f13/gqview/po/hu.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 639 | 1721 | 37.1 | /mnt/stockage/packages/f13/gqview/po/id.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 621 | 1721 | 36.1 | /mnt/stockage/packages/f13/gqview/po/et.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 555 | 1721 | 32.2 | /mnt/stockage/packages/f13/gqview/po/uk.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 528 | 1721 | 30.7 | /mnt/stockage/packages/f13/gqview/po/zh_CN.GB2312.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 528 | 1721 | 30.7 | /mnt/stockage/packages/f13/gqview/po/no.po | 
- | [th]({{< ref "/f13/language/th.md" >}}) | 513 | 1721 | 29.8 | /mnt/stockage/packages/f13/gqview/po/th.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 481 | 1721 | 27.9 | /mnt/stockage/packages/f13/gqview/po/sl.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 368 | 1721 | 21.4 | /mnt/stockage/packages/f13/gqview/po/da.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 227 | 1721 | 13.2 | /mnt/stockage/packages/f13/gqview/po/tr.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 192 | 1721 | 11.2 | /mnt/stockage/packages/f13/gqview/po/ko.po | 
+ | [eu](/f13/language/eu) | 1721 | 1721 | 100.0 | /mnt/stockage/packages/f13/gqview/po/eu.po | 
+ | [be](/f13/language/be) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/be.po | 
+ | [eo](/f13/language/eo) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/eo.po | 
+ | [es](/f13/language/es) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/es.po | 
+ | [fi](/f13/language/fi) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/fi.po | 
+ | [nl](/f13/language/nl) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/nl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/pt_BR.po | 
+ | [vi](/f13/language/vi) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/vi.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 1719 | 1721 | 99.9 | /mnt/stockage/packages/f13/gqview/po/zh_TW.po | 
+ | [bg](/f13/language/bg) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/bg.po | 
+ | [ca](/f13/language/ca) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/ca.po | 
+ | [cs](/f13/language/cs) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/cs.po | 
+ | [de](/f13/language/de) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/de.po | 
+ | [fr](/f13/language/fr) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/fr.po | 
+ | [it](/f13/language/it) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/it.po | 
+ | [ja](/f13/language/ja) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/ja.po | 
+ | [ru](/f13/language/ru) | 1717 | 1721 | 99.8 | /mnt/stockage/packages/f13/gqview/po/ru.po | 
+ | [sv](/f13/language/sv) | 1708 | 1721 | 99.2 | /mnt/stockage/packages/f13/gqview/po/sv.po | 
+ | [sk](/f13/language/sk) | 1698 | 1721 | 98.7 | /mnt/stockage/packages/f13/gqview/po/sk.po | 
+ | [pl](/f13/language/pl) | 1522 | 1721 | 88.4 | /mnt/stockage/packages/f13/gqview/po/pl.po | 
+ | [ar](/f13/language/ar) | 1214 | 1721 | 70.5 | /mnt/stockage/packages/f13/gqview/po/ar.po | 
+ | [ro](/f13/language/ro) | 1050 | 1721 | 61.0 | /mnt/stockage/packages/f13/gqview/po/ro.po | 
+ | [hu](/f13/language/hu) | 1015 | 1721 | 59.0 | /mnt/stockage/packages/f13/gqview/po/hu.po | 
+ | [id](/f13/language/id) | 639 | 1721 | 37.1 | /mnt/stockage/packages/f13/gqview/po/id.po | 
+ | [et](/f13/language/et) | 621 | 1721 | 36.1 | /mnt/stockage/packages/f13/gqview/po/et.po | 
+ | [uk](/f13/language/uk) | 555 | 1721 | 32.2 | /mnt/stockage/packages/f13/gqview/po/uk.po | 
+ | [error](/f13/language/error) | 528 | 1721 | 30.7 | /mnt/stockage/packages/f13/gqview/po/zh_CN.GB2312.po | 
+ | [nb_NO](/f13/language/nb_NO) | 528 | 1721 | 30.7 | /mnt/stockage/packages/f13/gqview/po/no.po | 
+ | [th](/f13/language/th) | 513 | 1721 | 29.8 | /mnt/stockage/packages/f13/gqview/po/th.po | 
+ | [sl](/f13/language/sl) | 481 | 1721 | 27.9 | /mnt/stockage/packages/f13/gqview/po/sl.po | 
+ | [da](/f13/language/da) | 368 | 1721 | 21.4 | /mnt/stockage/packages/f13/gqview/po/da.po | 
+ | [tr](/f13/language/tr) | 227 | 1721 | 13.2 | /mnt/stockage/packages/f13/gqview/po/tr.po | 
+ | [ko](/f13/language/ko) | 192 | 1721 | 11.2 | /mnt/stockage/packages/f13/gqview/po/ko.po | 
 {.sortable}
 
 

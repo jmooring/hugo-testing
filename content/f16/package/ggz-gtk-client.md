@@ -18,80 +18,80 @@ The package ggz-gtk-client (version 0.99.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f16/language/af.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/af.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 3 | 3 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/am.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ar.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/az.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/be.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/bg.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/cs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 855 | 855 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/cy.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 3736 | 3736 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/games/po/chess/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/chinese-checkers/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/combat/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/common/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/dots/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/ggzcards/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/hastings/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/reversi/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/tictactoe/de.po/mnt/stockage/packages/f16/ggz-gtk-client/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/dz.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 813 | 813 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/el.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 864 | 864 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/en_GB.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sr@Latn.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 584 | 584 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/eu.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/fr.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ga.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 767 | 767 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/gl.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/gu.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/he.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/hi.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/hr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/id.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/is.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ka.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ko.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 861 | 861 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/lv.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/mk.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 749 | 749 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ml.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/mn.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/mr.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ms.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 758 | 758 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/nb.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/nn.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/oc.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/or.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ru.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/rw.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/si.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sq.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sr.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 862 | 862 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sv.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ta.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 447 | 447 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 723 | 723 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/tr.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 862 | 862 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/vi.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/wa.po | 
- | [xh]({{< ref "/f16/language/xh.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/xh.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 759 | 759 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/zh_HK.po | 
+ | [af](/f16/language/af) | 772 | 772 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/af.po | 
+ | [am](/f16/language/am) | 3 | 3 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/am.po | 
+ | [ar](/f16/language/ar) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ar.po | 
+ | [az](/f16/language/az) | 11 | 11 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/az.po | 
+ | [be](/f16/language/be) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/be.po | 
+ | [bg](/f16/language/bg) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/bg.po | 
+ | [bn](/f16/language/bn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ca.po | 
+ | [cs](/f16/language/cs) | 599 | 599 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/cs.po | 
+ | [cy](/f16/language/cy) | 855 | 855 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/cy.po | 
+ | [da](/f16/language/da) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/da.po | 
+ | [de](/f16/language/de) | 3736 | 3736 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/games/po/chess/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/chinese-checkers/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/combat/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/common/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/dots/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/ggzcards/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/hastings/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/reversi/de.po/mnt/stockage/packages/f16/ggz-gtk-client/games/po/tictactoe/de.po/mnt/stockage/packages/f16/ggz-gtk-client/po/de.po | 
+ | [dz](/f16/language/dz) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/dz.po | 
+ | [el](/f16/language/el) | 813 | 813 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/el.po | 
+ | [en_CA](/f16/language/en_CA) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 864 | 864 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/en_GB.po | 
+ | [error](/f16/language/error) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sr@Latn.po | 
+ | [es](/f16/language/es) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/es.po | 
+ | [et](/f16/language/et) | 584 | 584 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/et.po | 
+ | [eu](/f16/language/eu) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/eu.po | 
+ | [fa](/f16/language/fa) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/fa.po | 
+ | [fi](/f16/language/fi) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/fi.po | 
+ | [fr](/f16/language/fr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/fr.po | 
+ | [ga](/f16/language/ga) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ga.po | 
+ | [gl](/f16/language/gl) | 767 | 767 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/gl.po | 
+ | [gu](/f16/language/gu) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/gu.po | 
+ | [he](/f16/language/he) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/he.po | 
+ | [hi](/f16/language/hi) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/hi.po | 
+ | [hr](/f16/language/hr) | 6 | 6 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/hr.po | 
+ | [hu](/f16/language/hu) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/hu.po | 
+ | [id](/f16/language/id) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/id.po | 
+ | [is](/f16/language/is) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/is.po | 
+ | [it](/f16/language/it) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/it.po | 
+ | [ja](/f16/language/ja) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ja.po | 
+ | [ka](/f16/language/ka) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ka.po | 
+ | [ko](/f16/language/ko) | 861 | 861 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ko.po | 
+ | [lt](/f16/language/lt) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/lt.po | 
+ | [lv](/f16/language/lv) | 861 | 861 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/lv.po | 
+ | [mk](/f16/language/mk) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/mk.po | 
+ | [ml](/f16/language/ml) | 749 | 749 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ml.po | 
+ | [mn](/f16/language/mn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/mn.po | 
+ | [mr](/f16/language/mr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/mr.po | 
+ | [ms](/f16/language/ms) | 6 | 6 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ms.po | 
+ | [nb_NO](/f16/language/nb_NO) | 758 | 758 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/nb.po | 
+ | [ne](/f16/language/ne) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ne.po | 
+ | [nl](/f16/language/nl) | 665 | 665 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/nl.po | 
+ | [nn](/f16/language/nn) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/nn.po | 
+ | [oc](/f16/language/oc) | 83 | 83 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/oc.po | 
+ | [or](/f16/language/or) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/or.po | 
+ | [pa](/f16/language/pa) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pa.po | 
+ | [pl](/f16/language/pl) | 443 | 443 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pl.po | 
+ | [pt](/f16/language/pt) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 859 | 859 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ro.po | 
+ | [ru](/f16/language/ru) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ru.po | 
+ | [rw](/f16/language/rw) | 4 | 4 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/rw.po | 
+ | [si](/f16/language/si) | 148 | 148 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/si.po | 
+ | [sk](/f16/language/sk) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sk.po | 
+ | [sl](/f16/language/sl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sl.po | 
+ | [sq](/f16/language/sq) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sq.po | 
+ | [sr](/f16/language/sr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sr.po | 
+ | [sv](/f16/language/sv) | 862 | 862 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/sv.po | 
+ | [ta](/f16/language/ta) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/ta.po | 
+ | [te](/f16/language/te) | 447 | 447 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/te.po | 
+ | [th](/f16/language/th) | 723 | 723 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/th.po | 
+ | [tr](/f16/language/tr) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/tr.po | 
+ | [uk](/f16/language/uk) | 773 | 773 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/uk.po | 
+ | [vi](/f16/language/vi) | 862 | 862 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/vi.po | 
+ | [wa](/f16/language/wa) | 5 | 5 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/wa.po | 
+ | [xh](/f16/language/xh) | 7 | 7 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/xh.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 857 | 857 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 759 | 759 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 759 | 759 | 100.0 | /mnt/stockage/packages/f16/ggz-gtk-client/po/zh_HK.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package ushare (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 317 | 317 | 100.0 | /mnt/stockage/packages/f8/ushare/po/fr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 246 | 317 | 77.6 | /mnt/stockage/packages/f8/ushare/po/de.po | 
+ | [fr](/f8/language/fr) | 317 | 317 | 100.0 | /mnt/stockage/packages/f8/ushare/po/fr.po | 
+ | [de](/f8/language/de) | 246 | 317 | 77.6 | /mnt/stockage/packages/f8/ushare/po/de.po | 
 {.sortable}
 
 

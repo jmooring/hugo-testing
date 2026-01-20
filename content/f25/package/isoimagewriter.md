@@ -18,27 +18,27 @@ The package isoimagewriter (version 0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ca/isoimagewriter.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ca@valencia/isoimagewriter.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/nl/isoimagewriter.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/pt/isoimagewriter.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/sv/isoimagewriter.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/uk/isoimagewriter.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/es/isoimagewriter.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/gl/isoimagewriter.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/it/isoimagewriter.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/pl/isoimagewriter.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 280 | 399 | 70.2 | /mnt/stockage/packages/f25/isoimagewriter/po/de/isoimagewriter.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 251 | 399 | 62.9 | /mnt/stockage/packages/f25/isoimagewriter/po/el/isoimagewriter.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 251 | 399 | 62.9 | /mnt/stockage/packages/f25/isoimagewriter/po/en_GB/isoimagewriter.po | 
- | [ia]({{< ref "/f25/language/ia.md" >}}) | 227 | 399 | 56.9 | /mnt/stockage/packages/f25/isoimagewriter/po/ia/isoimagewriter.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 121 | 399 | 30.3 | /mnt/stockage/packages/f25/isoimagewriter/po/cs/isoimagewriter.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 57 | 399 | 14.3 | /mnt/stockage/packages/f25/isoimagewriter/po/zh_CN/isoimagewriter.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 49 | 399 | 12.3 | /mnt/stockage/packages/f25/isoimagewriter/po/sk/isoimagewriter.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 15 | 399 | 3.8 | /mnt/stockage/packages/f25/isoimagewriter/po/fr/isoimagewriter.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 4 | 399 | 1.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ast/isoimagewriter.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 399 | 0.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ja/isoimagewriter.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 0 | 399 | 0.0 | /mnt/stockage/packages/f25/isoimagewriter/po/tr/isoimagewriter.po | 
+ | [ca](/f25/language/ca) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ca/isoimagewriter.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ca@valencia/isoimagewriter.po | 
+ | [nl](/f25/language/nl) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/nl/isoimagewriter.po | 
+ | [pt](/f25/language/pt) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/pt/isoimagewriter.po | 
+ | [sv](/f25/language/sv) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/sv/isoimagewriter.po | 
+ | [uk](/f25/language/uk) | 399 | 399 | 100.0 | /mnt/stockage/packages/f25/isoimagewriter/po/uk/isoimagewriter.po | 
+ | [es](/f25/language/es) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/es/isoimagewriter.po | 
+ | [gl](/f25/language/gl) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/gl/isoimagewriter.po | 
+ | [it](/f25/language/it) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/it/isoimagewriter.po | 
+ | [pl](/f25/language/pl) | 392 | 399 | 98.2 | /mnt/stockage/packages/f25/isoimagewriter/po/pl/isoimagewriter.po | 
+ | [de](/f25/language/de) | 280 | 399 | 70.2 | /mnt/stockage/packages/f25/isoimagewriter/po/de/isoimagewriter.po | 
+ | [el](/f25/language/el) | 251 | 399 | 62.9 | /mnt/stockage/packages/f25/isoimagewriter/po/el/isoimagewriter.po | 
+ | [en_GB](/f25/language/en_GB) | 251 | 399 | 62.9 | /mnt/stockage/packages/f25/isoimagewriter/po/en_GB/isoimagewriter.po | 
+ | [ia](/f25/language/ia) | 227 | 399 | 56.9 | /mnt/stockage/packages/f25/isoimagewriter/po/ia/isoimagewriter.po | 
+ | [cs](/f25/language/cs) | 121 | 399 | 30.3 | /mnt/stockage/packages/f25/isoimagewriter/po/cs/isoimagewriter.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 57 | 399 | 14.3 | /mnt/stockage/packages/f25/isoimagewriter/po/zh_CN/isoimagewriter.po | 
+ | [sk](/f25/language/sk) | 49 | 399 | 12.3 | /mnt/stockage/packages/f25/isoimagewriter/po/sk/isoimagewriter.po | 
+ | [fr](/f25/language/fr) | 15 | 399 | 3.8 | /mnt/stockage/packages/f25/isoimagewriter/po/fr/isoimagewriter.po | 
+ | [ast](/f25/language/ast) | 4 | 399 | 1.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ast/isoimagewriter.po | 
+ | [ja](/f25/language/ja) | 0 | 399 | 0.0 | /mnt/stockage/packages/f25/isoimagewriter/po/ja/isoimagewriter.po | 
+ | [tr](/f25/language/tr) | 0 | 399 | 0.0 | /mnt/stockage/packages/f25/isoimagewriter/po/tr/isoimagewriter.po | 
 {.sortable}
 
 

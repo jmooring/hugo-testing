@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f17/package/iso-codes.md" >}}) | 394 | 12484 | 3.2 | Blin | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 125 | 10496 | 1.2 | Blin | 
+ | [iso-codes](/f17/package/iso-codes) | 394 | 12484 | 3.2 | Blin | 
+ | [calibre](/f17/package/calibre) | 125 | 10496 | 1.2 | Blin | 
 {.sortable}
 
 

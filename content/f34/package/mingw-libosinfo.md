@@ -18,23 +18,23 @@ The package mingw-libosinfo (version 1.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/fr.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/id.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/it.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/pt_BR.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/uk.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 672 | 815 | 82.5 | /mnt/stockage/packages/f34/mingw-libosinfo/po/cs.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 644 | 815 | 79.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/ca.po | 
- | [fur]({{< ref "/f34/language/fur.md" >}}) | 535 | 815 | 65.6 | /mnt/stockage/packages/f34/mingw-libosinfo/po/fur.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 445 | 815 | 54.6 | /mnt/stockage/packages/f34/mingw-libosinfo/po/de.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 422 | 815 | 51.8 | /mnt/stockage/packages/f34/mingw-libosinfo/po/ja.po | 
- | [pt_PT]({{< ref "/f34/language/pt_PT.md" >}}) | 375 | 815 | 46.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/pt_PT.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 63 | 815 | 7.7 | /mnt/stockage/packages/f34/mingw-libosinfo/po/fi.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 62 | 815 | 7.6 | /mnt/stockage/packages/f34/mingw-libosinfo/po/es.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 0 | 815 | 0.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/eu.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 0 | 815 | 0.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/ru.po | 
+ | [fr](/f34/language/fr) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/fr.po | 
+ | [id](/f34/language/id) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/id.po | 
+ | [it](/f34/language/it) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/it.po | 
+ | [pl](/f34/language/pl) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/pt_BR.po | 
+ | [tr](/f34/language/tr) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/tr.po | 
+ | [uk](/f34/language/uk) | 815 | 815 | 100.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/uk.po | 
+ | [cs](/f34/language/cs) | 672 | 815 | 82.5 | /mnt/stockage/packages/f34/mingw-libosinfo/po/cs.po | 
+ | [ca](/f34/language/ca) | 644 | 815 | 79.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/ca.po | 
+ | [fur](/f34/language/fur) | 535 | 815 | 65.6 | /mnt/stockage/packages/f34/mingw-libosinfo/po/fur.po | 
+ | [de](/f34/language/de) | 445 | 815 | 54.6 | /mnt/stockage/packages/f34/mingw-libosinfo/po/de.po | 
+ | [ja](/f34/language/ja) | 422 | 815 | 51.8 | /mnt/stockage/packages/f34/mingw-libosinfo/po/ja.po | 
+ | [pt_PT](/f34/language/pt_PT) | 375 | 815 | 46.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/pt_PT.po | 
+ | [fi](/f34/language/fi) | 63 | 815 | 7.7 | /mnt/stockage/packages/f34/mingw-libosinfo/po/fi.po | 
+ | [es](/f34/language/es) | 62 | 815 | 7.6 | /mnt/stockage/packages/f34/mingw-libosinfo/po/es.po | 
+ | [eu](/f34/language/eu) | 0 | 815 | 0.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/eu.po | 
+ | [ru](/f34/language/ru) | 0 | 815 | 0.0 | /mnt/stockage/packages/f34/mingw-libosinfo/po/ru.po | 
 {.sortable}
 
 

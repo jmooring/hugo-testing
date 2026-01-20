@@ -18,10 +18,10 @@ The package diffuse (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 951 | 951 | 100.0 | /mnt/stockage/packages/f13/diffuse/translations/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 951 | 951 | 100.0 | /mnt/stockage/packages/f13/diffuse/translations/es.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 951 | 951 | 100.0 | /mnt/stockage/packages/f13/diffuse/translations/ja.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 806 | 951 | 84.8 | /mnt/stockage/packages/f13/diffuse/translations/zh_CN.po | 
+ | [de](/f13/language/de) | 951 | 951 | 100.0 | /mnt/stockage/packages/f13/diffuse/translations/de.po | 
+ | [es](/f13/language/es) | 951 | 951 | 100.0 | /mnt/stockage/packages/f13/diffuse/translations/es.po | 
+ | [ja](/f13/language/ja) | 951 | 951 | 100.0 | /mnt/stockage/packages/f13/diffuse/translations/ja.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 806 | 951 | 84.8 | /mnt/stockage/packages/f13/diffuse/translations/zh_CN.po | 
 {.sortable}
 
 

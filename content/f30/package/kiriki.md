@@ -18,52 +18,52 @@ The package kiriki (version 19.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/ca/kiriki.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/ca@valencia/kiriki.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/da/kiriki.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/de/kiriki.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/en_GB/kiriki.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/es/kiriki.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/fi/kiriki.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/fr/kiriki.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/gl/kiriki.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/it/kiriki.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/ko/kiriki.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/nl/kiriki.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/nn/kiriki.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/pl/kiriki.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/pt/kiriki.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/pt_BR/kiriki.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sk/kiriki.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sl/kiriki.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sr/kiriki.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sv/kiriki.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/tr/kiriki.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/uk/kiriki.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/zh_CN/kiriki.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/zh_TW/kiriki.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 142 | 144 | 98.6 | /mnt/stockage/packages/f30/kiriki/po/cs/kiriki.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/bs/kiriki.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/el/kiriki.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/et/kiriki.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/hu/kiriki.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/kk/kiriki.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/nb/kiriki.po | 
- | [nds]({{< ref "/f30/language/nds.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/nds/kiriki.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/ru/kiriki.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 136 | 144 | 94.4 | /mnt/stockage/packages/f30/kiriki/po/ga/kiriki.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 136 | 144 | 94.4 | /mnt/stockage/packages/f30/kiriki/po/km/kiriki.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 124 | 144 | 86.1 | /mnt/stockage/packages/f30/kiriki/po/lv/kiriki.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 76 | 144 | 52.8 | /mnt/stockage/packages/f30/kiriki/po/eo/kiriki.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 72 | 144 | 50.0 | /mnt/stockage/packages/f30/kiriki/po/ro/kiriki.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 70 | 144 | 48.6 | /mnt/stockage/packages/f30/kiriki/po/ja/kiriki.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 53 | 144 | 36.8 | /mnt/stockage/packages/f30/kiriki/po/ar/kiriki.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 53 | 144 | 36.8 | /mnt/stockage/packages/f30/kiriki/po/hi/kiriki.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 52 | 144 | 36.1 | /mnt/stockage/packages/f30/kiriki/po/lt/kiriki.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 34 | 144 | 23.6 | /mnt/stockage/packages/f30/kiriki/po/ug/kiriki.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 27 | 144 | 18.8 | /mnt/stockage/packages/f30/kiriki/po/mr/kiriki.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 10 | 144 | 6.9 | /mnt/stockage/packages/f30/kiriki/po/hr/kiriki.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 0 | 144 | 0.0 | /mnt/stockage/packages/f30/kiriki/po/is/kiriki.po | 
+ | [ca](/f30/language/ca) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/ca/kiriki.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/ca@valencia/kiriki.po | 
+ | [da](/f30/language/da) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/da/kiriki.po | 
+ | [de](/f30/language/de) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/de/kiriki.po | 
+ | [en_GB](/f30/language/en_GB) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/en_GB/kiriki.po | 
+ | [es](/f30/language/es) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/es/kiriki.po | 
+ | [fi](/f30/language/fi) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/fi/kiriki.po | 
+ | [fr](/f30/language/fr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/fr/kiriki.po | 
+ | [gl](/f30/language/gl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/gl/kiriki.po | 
+ | [it](/f30/language/it) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/it/kiriki.po | 
+ | [ko](/f30/language/ko) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/ko/kiriki.po | 
+ | [nl](/f30/language/nl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/nl/kiriki.po | 
+ | [nn](/f30/language/nn) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/nn/kiriki.po | 
+ | [pl](/f30/language/pl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/pl/kiriki.po | 
+ | [pt](/f30/language/pt) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/pt/kiriki.po | 
+ | [pt_BR](/f30/language/pt_BR) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/pt_BR/kiriki.po | 
+ | [sk](/f30/language/sk) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sk/kiriki.po | 
+ | [sl](/f30/language/sl) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sl/kiriki.po | 
+ | [sr](/f30/language/sr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sr/kiriki.po | 
+ | [sv](/f30/language/sv) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/sv/kiriki.po | 
+ | [tr](/f30/language/tr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/tr/kiriki.po | 
+ | [uk](/f30/language/uk) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/uk/kiriki.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/zh_CN/kiriki.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 144 | 144 | 100.0 | /mnt/stockage/packages/f30/kiriki/po/zh_TW/kiriki.po | 
+ | [cs](/f30/language/cs) | 142 | 144 | 98.6 | /mnt/stockage/packages/f30/kiriki/po/cs/kiriki.po | 
+ | [bs](/f30/language/bs) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/bs/kiriki.po | 
+ | [el](/f30/language/el) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/el/kiriki.po | 
+ | [et](/f30/language/et) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/et/kiriki.po | 
+ | [hu](/f30/language/hu) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/hu/kiriki.po | 
+ | [kk](/f30/language/kk) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/kk/kiriki.po | 
+ | [nb_NO](/f30/language/nb_NO) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/nb/kiriki.po | 
+ | [nds](/f30/language/nds) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/nds/kiriki.po | 
+ | [ru](/f30/language/ru) | 138 | 144 | 95.8 | /mnt/stockage/packages/f30/kiriki/po/ru/kiriki.po | 
+ | [ga](/f30/language/ga) | 136 | 144 | 94.4 | /mnt/stockage/packages/f30/kiriki/po/ga/kiriki.po | 
+ | [km](/f30/language/km) | 136 | 144 | 94.4 | /mnt/stockage/packages/f30/kiriki/po/km/kiriki.po | 
+ | [lv](/f30/language/lv) | 124 | 144 | 86.1 | /mnt/stockage/packages/f30/kiriki/po/lv/kiriki.po | 
+ | [eo](/f30/language/eo) | 76 | 144 | 52.8 | /mnt/stockage/packages/f30/kiriki/po/eo/kiriki.po | 
+ | [ro](/f30/language/ro) | 72 | 144 | 50.0 | /mnt/stockage/packages/f30/kiriki/po/ro/kiriki.po | 
+ | [ja](/f30/language/ja) | 70 | 144 | 48.6 | /mnt/stockage/packages/f30/kiriki/po/ja/kiriki.po | 
+ | [ar](/f30/language/ar) | 53 | 144 | 36.8 | /mnt/stockage/packages/f30/kiriki/po/ar/kiriki.po | 
+ | [hi](/f30/language/hi) | 53 | 144 | 36.8 | /mnt/stockage/packages/f30/kiriki/po/hi/kiriki.po | 
+ | [lt](/f30/language/lt) | 52 | 144 | 36.1 | /mnt/stockage/packages/f30/kiriki/po/lt/kiriki.po | 
+ | [ug](/f30/language/ug) | 34 | 144 | 23.6 | /mnt/stockage/packages/f30/kiriki/po/ug/kiriki.po | 
+ | [mr](/f30/language/mr) | 27 | 144 | 18.8 | /mnt/stockage/packages/f30/kiriki/po/mr/kiriki.po | 
+ | [hr](/f30/language/hr) | 10 | 144 | 6.9 | /mnt/stockage/packages/f30/kiriki/po/hr/kiriki.po | 
+ | [is](/f30/language/is) | 0 | 144 | 0.0 | /mnt/stockage/packages/f30/kiriki/po/is/kiriki.po | 
 {.sortable}
 
 

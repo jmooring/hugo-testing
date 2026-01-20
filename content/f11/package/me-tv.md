@@ -18,15 +18,15 @@ The package me-tv (version 1.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 1172 | 1172 | 100.0 | /mnt/stockage/packages/f11/me-tv/po/de.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 908 | 908 | 100.0 | /mnt/stockage/packages/f11/me-tv/po/it.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1094 | 1098 | 99.6 | /mnt/stockage/packages/f11/me-tv/po/cs.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 896 | 908 | 98.7 | /mnt/stockage/packages/f11/me-tv/po/sv.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1089 | 1172 | 92.9 | /mnt/stockage/packages/f11/me-tv/po/fr.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 723 | 999 | 72.4 | /mnt/stockage/packages/f11/me-tv/po/fi.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 553 | 908 | 60.9 | /mnt/stockage/packages/f11/me-tv/po/pl.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 283 | 908 | 31.2 | /mnt/stockage/packages/f11/me-tv/po/fa.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 224 | 1796 | 12.5 | /mnt/stockage/packages/f11/me-tv/po/sl.po | 
+ | [de](/f11/language/de) | 1172 | 1172 | 100.0 | /mnt/stockage/packages/f11/me-tv/po/de.po | 
+ | [it](/f11/language/it) | 908 | 908 | 100.0 | /mnt/stockage/packages/f11/me-tv/po/it.po | 
+ | [cs](/f11/language/cs) | 1094 | 1098 | 99.6 | /mnt/stockage/packages/f11/me-tv/po/cs.po | 
+ | [sv](/f11/language/sv) | 896 | 908 | 98.7 | /mnt/stockage/packages/f11/me-tv/po/sv.po | 
+ | [fr](/f11/language/fr) | 1089 | 1172 | 92.9 | /mnt/stockage/packages/f11/me-tv/po/fr.po | 
+ | [fi](/f11/language/fi) | 723 | 999 | 72.4 | /mnt/stockage/packages/f11/me-tv/po/fi.po | 
+ | [pl](/f11/language/pl) | 553 | 908 | 60.9 | /mnt/stockage/packages/f11/me-tv/po/pl.po | 
+ | [fa](/f11/language/fa) | 283 | 908 | 31.2 | /mnt/stockage/packages/f11/me-tv/po/fa.po | 
+ | [sl](/f11/language/sl) | 224 | 1796 | 12.5 | /mnt/stockage/packages/f11/me-tv/po/sl.po | 
 {.sortable}
 
 

@@ -38,32 +38,32 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gjots2]({{< ref "/f40/package/gjots2.md" >}}) | 938 | 953 | 98.4 |  | 
- | [bookworm]({{< ref "/f40/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f40/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f40/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-code]({{< ref "/f40/package/elementary-code.md" >}}) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f40/package/elementary-files.md" >}}) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f40/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f40/package/elementary-music.md" >}}) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 0 | 281 | 0.0 | none | 
- | [granite]({{< ref "/f40/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f40/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f40/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [initial-setup]({{< ref "/f40/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Twi | 
- | [libvirt-sandbox]({{< ref "/f40/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Twi | 
- | [nutty]({{< ref "/f40/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f40/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [python-fedora]({{< ref "/f40/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Twi | 
- | [python-meh]({{< ref "/f40/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Twi | 
- | [regextester]({{< ref "/f40/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f40/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [gjots2](/f40/package/gjots2) | 938 | 953 | 98.4 |  | 
+ | [bookworm](/f40/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f40/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f40/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-code](/f40/package/elementary-code) | 0 | 1572 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f40/package/elementary-files) | 0 | 2538 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f40/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f40/package/elementary-music) | 0 | 207 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f40/package/gala) | 0 | 281 | 0.0 | none | 
+ | [granite](/f40/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f40/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f40/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [initial-setup](/f40/package/initial-setup) | 0 | 33 | 0.0 | Twi | 
+ | [libvirt-sandbox](/f40/package/libvirt-sandbox) | 0 | 617 | 0.0 | Twi | 
+ | [nutty](/f40/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f40/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [python-fedora](/f40/package/python-fedora) | 0 | 214 | 0.0 | Twi | 
+ | [python-meh](/f40/package/python-meh) | 0 | 109 | 0.0 | Twi | 
+ | [regextester](/f40/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f40/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f40/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

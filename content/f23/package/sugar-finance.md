@@ -18,107 +18,107 @@ The package sugar-finance (version 13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f23/language/ayc.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/ayc.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/da.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/en.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/en_GB.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/en_US.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/fr.po | 
- | [hy]({{< ref "/f23/language/hy.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/hy.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/it.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/ne.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/nl.po | 
- | [pap]({{< ref "/f23/language/pap.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/pap.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/pt.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/zh_CN.po | 
- | [mi]({{< ref "/f23/language/mi.md" >}}) | 163 | 189 | 86.2 | /mnt/stockage/packages/f23/sugar-finance/po/mi.po | 
- | [prs]({{< ref "/f23/language/prs.md" >}}) | 98 | 189 | 51.9 | /mnt/stockage/packages/f23/sugar-finance/po/fa_AF.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 76 | 189 | 40.2 | /mnt/stockage/packages/f23/sugar-finance/po/cs.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 76 | 189 | 40.2 | /mnt/stockage/packages/f23/sugar-finance/po/zh_TW.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 61 | 189 | 32.3 | /mnt/stockage/packages/f23/sugar-finance/po/vi.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/el.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/hi.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/ms.po | 
- | [ps]({{< ref "/f23/language/ps.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/ps.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/pt_BR.po | 
- | [qu]({{< ref "/f23/language/qu.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/quz.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/si.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/sv.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/ta.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/th.po | 
- | [ht]({{< ref "/f23/language/ht.md" >}}) | 48 | 189 | 25.4 | /mnt/stockage/packages/f23/sugar-finance/po/ht.po | 
- | [hus]({{< ref "/f23/language/hus.md" >}}) | 48 | 189 | 25.4 | /mnt/stockage/packages/f23/sugar-finance/po/hus.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 48 | 189 | 25.4 | /mnt/stockage/packages/f23/sugar-finance/po/sq.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 189 | 756 | 25.0 | /mnt/stockage/packages/f23/sugar-finance/po/tzo.po/mnt/stockage/packages/f23/sugar-finance/po/quy.po/mnt/stockage/packages/f23/sugar-finance/po/pbs.po/mnt/stockage/packages/f23/sugar-finance/po/mvo.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 45 | 189 | 23.8 | /mnt/stockage/packages/f23/sugar-finance/po/sl.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 44 | 189 | 23.3 | /mnt/stockage/packages/f23/sugar-finance/po/bn.po | 
- | [nah]({{< ref "/f23/language/nah.md" >}}) | 39 | 189 | 20.6 | /mnt/stockage/packages/f23/sugar-finance/po/nah.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 26 | 189 | 13.8 | /mnt/stockage/packages/f23/sugar-finance/po/ca.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 26 | 189 | 13.8 | /mnt/stockage/packages/f23/sugar-finance/po/km.po | 
- | [sw]({{< ref "/f23/language/sw.md" >}}) | 26 | 189 | 13.8 | /mnt/stockage/packages/f23/sugar-finance/po/sw.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 14 | 189 | 7.4 | /mnt/stockage/packages/f23/sugar-finance/po/ar.po | 
- | [mg]({{< ref "/f23/language/mg.md" >}}) | 9 | 189 | 4.8 | /mnt/stockage/packages/f23/sugar-finance/po/mg.po | 
- | [sm]({{< ref "/f23/language/sm.md" >}}) | 5 | 189 | 2.6 | /mnt/stockage/packages/f23/sugar-finance/po/sm.po | 
- | [ay]({{< ref "/f23/language/ay.md" >}}) | 4 | 189 | 2.1 | /mnt/stockage/packages/f23/sugar-finance/po/aym.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 3 | 189 | 1.6 | /mnt/stockage/packages/f23/sugar-finance/po/am.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 3 | 189 | 1.6 | /mnt/stockage/packages/f23/sugar-finance/po/sk.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 2 | 189 | 1.1 | /mnt/stockage/packages/f23/sugar-finance/po/af.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/hu.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/lt.po | 
- | [mn]({{< ref "/f23/language/mn.md" >}}) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/mn.po | 
- | [to]({{< ref "/f23/language/to.md" >}}) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/to.po | 
- | [tyv]({{< ref "/f23/language/tyv.md" >}}) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/tyv.po | 
- | [ak]({{< ref "/f23/language/ak.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ak.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bg.po | 
- | [bi]({{< ref "/f23/language/bi.md" >}}) | 0 | 142 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bi.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bn_IN.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bs.po | 
- | [cpp]({{< ref "/f23/language/cpp.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/cpp.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/dz.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/fa.po | 
- | [ff]({{< ref "/f23/language/ff.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ff.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/fi.po | 
- | [fil]({{< ref "/f23/language/fil.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/fil.po | 
- | [gn]({{< ref "/f23/language/gn.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/gn.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/gu.po | 
- | [ha]({{< ref "/f23/language/ha.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ha.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/he.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/id.po | 
- | [ig]({{< ref "/f23/language/ig.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ig.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/is.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ja.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/kn.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ko.po | 
- | [kos]({{< ref "/f23/language/kos.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/kos.po | 
- | [ku]({{< ref "/f23/language/ku.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ku.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/lv.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/mk.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ml.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/mr.po | 
- | [na]({{< ref "/f23/language/na.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/na.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/nb.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/nn.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/pa.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ro.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ru.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/rw.po | 
- | [sd]({{< ref "/f23/language/sd.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/sd.po | 
- | [son]({{< ref "/f23/language/son.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/son.po | 
- | [st]({{< ref "/f23/language/st.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/st.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/te.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/tr.po | 
- | [tvl]({{< ref "/f23/language/tvl.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/tvl.po | 
- | [tzm]({{< ref "/f23/language/tzm.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/tzm.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ug.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/uk.po | 
- | [ur]({{< ref "/f23/language/ur.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ur.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/wa.po | 
- | [yo]({{< ref "/f23/language/yo.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/zh_HK.po | 
+ | [ayc](/f23/language/ayc) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/ayc.po | 
+ | [da](/f23/language/da) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/da.po | 
+ | [en](/f23/language/en) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/en.po | 
+ | [en_GB](/f23/language/en_GB) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/en_GB.po | 
+ | [en_US](/f23/language/en_US) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/en_US.po | 
+ | [es](/f23/language/es) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/es.po | 
+ | [fr](/f23/language/fr) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/fr.po | 
+ | [hy](/f23/language/hy) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/hy.po | 
+ | [it](/f23/language/it) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/it.po | 
+ | [ne](/f23/language/ne) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/ne.po | 
+ | [nl](/f23/language/nl) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/nl.po | 
+ | [pap](/f23/language/pap) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/pap.po | 
+ | [pl](/f23/language/pl) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/pl.po | 
+ | [pt](/f23/language/pt) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/pt.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 189 | 189 | 100.0 | /mnt/stockage/packages/f23/sugar-finance/po/zh_CN.po | 
+ | [mi](/f23/language/mi) | 163 | 189 | 86.2 | /mnt/stockage/packages/f23/sugar-finance/po/mi.po | 
+ | [prs](/f23/language/prs) | 98 | 189 | 51.9 | /mnt/stockage/packages/f23/sugar-finance/po/fa_AF.po | 
+ | [cs](/f23/language/cs) | 76 | 189 | 40.2 | /mnt/stockage/packages/f23/sugar-finance/po/cs.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 76 | 189 | 40.2 | /mnt/stockage/packages/f23/sugar-finance/po/zh_TW.po | 
+ | [vi](/f23/language/vi) | 61 | 189 | 32.3 | /mnt/stockage/packages/f23/sugar-finance/po/vi.po | 
+ | [de](/f23/language/de) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/de.po | 
+ | [el](/f23/language/el) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/el.po | 
+ | [hi](/f23/language/hi) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/hi.po | 
+ | [ms](/f23/language/ms) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/ms.po | 
+ | [ps](/f23/language/ps) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/ps.po | 
+ | [pt_BR](/f23/language/pt_BR) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/pt_BR.po | 
+ | [qu](/f23/language/qu) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/quz.po | 
+ | [si](/f23/language/si) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/si.po | 
+ | [sr](/f23/language/sr) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/sr.po | 
+ | [sv](/f23/language/sv) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/sv.po | 
+ | [ta](/f23/language/ta) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/ta.po | 
+ | [th](/f23/language/th) | 49 | 189 | 25.9 | /mnt/stockage/packages/f23/sugar-finance/po/th.po | 
+ | [ht](/f23/language/ht) | 48 | 189 | 25.4 | /mnt/stockage/packages/f23/sugar-finance/po/ht.po | 
+ | [hus](/f23/language/hus) | 48 | 189 | 25.4 | /mnt/stockage/packages/f23/sugar-finance/po/hus.po | 
+ | [sq](/f23/language/sq) | 48 | 189 | 25.4 | /mnt/stockage/packages/f23/sugar-finance/po/sq.po | 
+ | [error](/f23/language/error) | 189 | 756 | 25.0 | /mnt/stockage/packages/f23/sugar-finance/po/tzo.po/mnt/stockage/packages/f23/sugar-finance/po/quy.po/mnt/stockage/packages/f23/sugar-finance/po/pbs.po/mnt/stockage/packages/f23/sugar-finance/po/mvo.po | 
+ | [sl](/f23/language/sl) | 45 | 189 | 23.8 | /mnt/stockage/packages/f23/sugar-finance/po/sl.po | 
+ | [bn](/f23/language/bn) | 44 | 189 | 23.3 | /mnt/stockage/packages/f23/sugar-finance/po/bn.po | 
+ | [nah](/f23/language/nah) | 39 | 189 | 20.6 | /mnt/stockage/packages/f23/sugar-finance/po/nah.po | 
+ | [ca](/f23/language/ca) | 26 | 189 | 13.8 | /mnt/stockage/packages/f23/sugar-finance/po/ca.po | 
+ | [km](/f23/language/km) | 26 | 189 | 13.8 | /mnt/stockage/packages/f23/sugar-finance/po/km.po | 
+ | [sw](/f23/language/sw) | 26 | 189 | 13.8 | /mnt/stockage/packages/f23/sugar-finance/po/sw.po | 
+ | [ar](/f23/language/ar) | 14 | 189 | 7.4 | /mnt/stockage/packages/f23/sugar-finance/po/ar.po | 
+ | [mg](/f23/language/mg) | 9 | 189 | 4.8 | /mnt/stockage/packages/f23/sugar-finance/po/mg.po | 
+ | [sm](/f23/language/sm) | 5 | 189 | 2.6 | /mnt/stockage/packages/f23/sugar-finance/po/sm.po | 
+ | [ay](/f23/language/ay) | 4 | 189 | 2.1 | /mnt/stockage/packages/f23/sugar-finance/po/aym.po | 
+ | [am](/f23/language/am) | 3 | 189 | 1.6 | /mnt/stockage/packages/f23/sugar-finance/po/am.po | 
+ | [sk](/f23/language/sk) | 3 | 189 | 1.6 | /mnt/stockage/packages/f23/sugar-finance/po/sk.po | 
+ | [af](/f23/language/af) | 2 | 189 | 1.1 | /mnt/stockage/packages/f23/sugar-finance/po/af.po | 
+ | [hu](/f23/language/hu) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/hu.po | 
+ | [lt](/f23/language/lt) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/lt.po | 
+ | [mn](/f23/language/mn) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/mn.po | 
+ | [to](/f23/language/to) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/to.po | 
+ | [tyv](/f23/language/tyv) | 1 | 189 | 0.5 | /mnt/stockage/packages/f23/sugar-finance/po/tyv.po | 
+ | [ak](/f23/language/ak) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ak.po | 
+ | [bg](/f23/language/bg) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bg.po | 
+ | [bi](/f23/language/bi) | 0 | 142 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bi.po | 
+ | [bn_IN](/f23/language/bn_IN) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bn_IN.po | 
+ | [bs](/f23/language/bs) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/bs.po | 
+ | [cpp](/f23/language/cpp) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/cpp.po | 
+ | [dz](/f23/language/dz) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/dz.po | 
+ | [fa](/f23/language/fa) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/fa.po | 
+ | [ff](/f23/language/ff) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ff.po | 
+ | [fi](/f23/language/fi) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/fi.po | 
+ | [fil](/f23/language/fil) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/fil.po | 
+ | [gn](/f23/language/gn) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/gn.po | 
+ | [gu](/f23/language/gu) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/gu.po | 
+ | [ha](/f23/language/ha) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ha.po | 
+ | [he](/f23/language/he) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/he.po | 
+ | [id](/f23/language/id) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/id.po | 
+ | [ig](/f23/language/ig) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ig.po | 
+ | [is](/f23/language/is) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/is.po | 
+ | [ja](/f23/language/ja) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ja.po | 
+ | [kn](/f23/language/kn) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/kn.po | 
+ | [ko](/f23/language/ko) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ko.po | 
+ | [kos](/f23/language/kos) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/kos.po | 
+ | [ku](/f23/language/ku) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ku.po | 
+ | [lv](/f23/language/lv) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/lv.po | 
+ | [mk](/f23/language/mk) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/mk.po | 
+ | [ml](/f23/language/ml) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ml.po | 
+ | [mr](/f23/language/mr) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/mr.po | 
+ | [na](/f23/language/na) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/na.po | 
+ | [nb_NO](/f23/language/nb_NO) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/nb.po | 
+ | [nn](/f23/language/nn) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/nn.po | 
+ | [pa](/f23/language/pa) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/pa.po | 
+ | [ro](/f23/language/ro) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ro.po | 
+ | [ru](/f23/language/ru) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ru.po | 
+ | [rw](/f23/language/rw) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/rw.po | 
+ | [sd](/f23/language/sd) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/sd.po | 
+ | [son](/f23/language/son) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/son.po | 
+ | [st](/f23/language/st) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/st.po | 
+ | [te](/f23/language/te) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/te.po | 
+ | [tr](/f23/language/tr) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/tr.po | 
+ | [tvl](/f23/language/tvl) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/tvl.po | 
+ | [tzm](/f23/language/tzm) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/tzm.po | 
+ | [ug](/f23/language/ug) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ug.po | 
+ | [uk](/f23/language/uk) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/uk.po | 
+ | [ur](/f23/language/ur) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/ur.po | 
+ | [wa](/f23/language/wa) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/wa.po | 
+ | [yo](/f23/language/yo) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/yo.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 0 | 189 | 0.0 | /mnt/stockage/packages/f23/sugar-finance/po/zh_HK.po | 
 {.sortable}
 
 

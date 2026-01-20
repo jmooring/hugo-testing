@@ -18,7 +18,7 @@ The package w3m (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 846 | 846 | 100.0 | /mnt/stockage/packages/f21/w3m/po/ja.po | 
+ | [ja](/f21/language/ja) | 846 | 846 | 100.0 | /mnt/stockage/packages/f21/w3m/po/ja.po | 
 {.sortable}
 
 

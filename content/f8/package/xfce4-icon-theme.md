@@ -18,34 +18,34 @@ The package xfce4-icon-theme (version 4.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ar.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/de.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/dz.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/el.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/en_GB.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/eo.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/et.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/eu.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/fr.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/he.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/hu.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ja.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ko.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/lt.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/mk.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ru.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/sk.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/sq.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/tr.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/uk.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/zh_TW.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 1 | 8 | 12.5 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ka.po | 
+ | [ar](/f8/language/ar) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ar.po | 
+ | [ca](/f8/language/ca) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ca.po | 
+ | [cs](/f8/language/cs) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/cs.po | 
+ | [de](/f8/language/de) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/de.po | 
+ | [dz](/f8/language/dz) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/dz.po | 
+ | [el](/f8/language/el) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/el.po | 
+ | [en_GB](/f8/language/en_GB) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/en_GB.po | 
+ | [eo](/f8/language/eo) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/eo.po | 
+ | [et](/f8/language/et) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/et.po | 
+ | [eu](/f8/language/eu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/eu.po | 
+ | [fi](/f8/language/fi) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/fi.po | 
+ | [fr](/f8/language/fr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/fr.po | 
+ | [he](/f8/language/he) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/he.po | 
+ | [hu](/f8/language/hu) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/hu.po | 
+ | [ja](/f8/language/ja) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ja.po | 
+ | [ko](/f8/language/ko) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ko.po | 
+ | [lt](/f8/language/lt) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/lt.po | 
+ | [mk](/f8/language/mk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/mk.po | 
+ | [pl](/f8/language/pl) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ru.po | 
+ | [sk](/f8/language/sk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/sk.po | 
+ | [sq](/f8/language/sq) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/sq.po | 
+ | [tr](/f8/language/tr) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/tr.po | 
+ | [uk](/f8/language/uk) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/uk.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/zh_CN.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 8 | 8 | 100.0 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/zh_TW.po | 
+ | [ka](/f8/language/ka) | 1 | 8 | 12.5 | /mnt/stockage/packages/f8/xfce4-icon-theme/po/ka.po | 
 {.sortable}
 
 

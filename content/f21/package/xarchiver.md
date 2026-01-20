@@ -18,30 +18,30 @@ The package xarchiver (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/es.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/eu.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/id.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/ja.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/nb_NO.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f21/language/pt_PT.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/pt_PT.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/ru.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/sv.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/uk.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 1118 | 1131 | 98.9 | /mnt/stockage/packages/f21/xarchiver/po/sq.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 1101 | 1131 | 97.3 | /mnt/stockage/packages/f21/xarchiver/po/en_GB.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 1097 | 1131 | 97.0 | /mnt/stockage/packages/f21/xarchiver/po/bg.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 1040 | 1131 | 92.0 | /mnt/stockage/packages/f21/xarchiver/po/da.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 979 | 1131 | 86.6 | /mnt/stockage/packages/f21/xarchiver/po/nl.po | 
+ | [ca](/f21/language/ca) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/ca.po | 
+ | [cs](/f21/language/cs) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/cs.po | 
+ | [de](/f21/language/de) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/de.po | 
+ | [el](/f21/language/el) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/el.po | 
+ | [es](/f21/language/es) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/es.po | 
+ | [eu](/f21/language/eu) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/eu.po | 
+ | [fi](/f21/language/fi) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/fi.po | 
+ | [fr](/f21/language/fr) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/fr.po | 
+ | [hu](/f21/language/hu) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/hu.po | 
+ | [id](/f21/language/id) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/id.po | 
+ | [ja](/f21/language/ja) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/ja.po | 
+ | [nb_NO](/f21/language/nb_NO) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/nb_NO.po | 
+ | [pl](/f21/language/pl) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/pt_BR.po | 
+ | [pt_PT](/f21/language/pt_PT) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/pt_PT.po | 
+ | [ru](/f21/language/ru) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/ru.po | 
+ | [sv](/f21/language/sv) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/sv.po | 
+ | [tr](/f21/language/tr) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/tr.po | 
+ | [uk](/f21/language/uk) | 1131 | 1131 | 100.0 | /mnt/stockage/packages/f21/xarchiver/po/uk.po | 
+ | [sq](/f21/language/sq) | 1118 | 1131 | 98.9 | /mnt/stockage/packages/f21/xarchiver/po/sq.po | 
+ | [en_GB](/f21/language/en_GB) | 1101 | 1131 | 97.3 | /mnt/stockage/packages/f21/xarchiver/po/en_GB.po | 
+ | [bg](/f21/language/bg) | 1097 | 1131 | 97.0 | /mnt/stockage/packages/f21/xarchiver/po/bg.po | 
+ | [da](/f21/language/da) | 1040 | 1131 | 92.0 | /mnt/stockage/packages/f21/xarchiver/po/da.po | 
+ | [nl](/f21/language/nl) | 979 | 1131 | 86.6 | /mnt/stockage/packages/f21/xarchiver/po/nl.po | 
 {.sortable}
 
 

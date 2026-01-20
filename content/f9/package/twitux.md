@@ -18,11 +18,11 @@ The package twitux (version 0.61):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f9/twitux/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f9/twitux/po/fr.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f9/twitux/po/pt.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 153 | 297 | 51.5 | /mnt/stockage/packages/f9/twitux/po/sv.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 270 | 579 | 46.6 | /mnt/stockage/packages/f9/twitux/po/es.po | 
+ | [de](/f9/language/de) | 297 | 297 | 100.0 | /mnt/stockage/packages/f9/twitux/po/de.po | 
+ | [fr](/f9/language/fr) | 297 | 297 | 100.0 | /mnt/stockage/packages/f9/twitux/po/fr.po | 
+ | [pt](/f9/language/pt) | 383 | 383 | 100.0 | /mnt/stockage/packages/f9/twitux/po/pt.po | 
+ | [sv](/f9/language/sv) | 153 | 297 | 51.5 | /mnt/stockage/packages/f9/twitux/po/sv.po | 
+ | [es](/f9/language/es) | 270 | 579 | 46.6 | /mnt/stockage/packages/f9/twitux/po/es.po | 
 {.sortable}
 
 

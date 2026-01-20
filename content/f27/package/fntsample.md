@@ -18,7 +18,7 @@ The package fntsample (version 5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f27/fntsample/po/uk.po | 
+ | [uk](/f27/language/uk) | 283 | 283 | 100.0 | /mnt/stockage/packages/f27/fntsample/po/uk.po | 
 {.sortable}
 
 

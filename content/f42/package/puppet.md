@@ -18,8 +18,8 @@ The package puppet (version 8.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 619 | 619 | 100.0 | /mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-augeas_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-cron_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-host_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-mount_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-selinux_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-sshkeys_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-yumrepo_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-zfs_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-zone_core.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/puppet/locales/en/puppet.po | 
+ | [ja](/f42/language/ja) | 619 | 619 | 100.0 | /mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-augeas_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-cron_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-host_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-mount_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-selinux_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-sshkeys_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-yumrepo_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-zfs_core.po/mnt/stockage/packages/f42/puppet/locales/ja/puppetlabs-zone_core.po | 
+ | [en](/f42/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/puppet/locales/en/puppet.po | 
 {.sortable}
 
 

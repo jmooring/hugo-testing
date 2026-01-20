@@ -44,9 +44,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django-taggit]({{< ref "/f43/package/python-django-taggit.md" >}}) | 30 | 30 | 100.0 |  | 
- | [python-django5]({{< ref "/f43/package/python-django5.md" >}}) | 3754 | 3848 | 97.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
- | [siril]({{< ref "/f43/package/siril.md" >}}) | 4015 | 62275 | 6.4 |  | 
+ | [python-django-taggit](/f43/package/python-django-taggit) | 30 | 30 | 100.0 |  | 
+ | [python-django5](/f43/package/python-django5) | 3754 | 3848 | 97.6 | Arabic (Algeria) (http://www.transifex.com/django/django/language/ar_DZ/) | 
+ | [siril](/f43/package/siril) | 4015 | 62275 | 6.4 |  | 
 {.sortable}
 
 

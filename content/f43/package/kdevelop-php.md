@@ -18,54 +18,54 @@ The package kdevelop-php (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ar/kdevphp.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ca/kdevphp.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ca@valencia/kdevphp.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/en_GB/kdevphp.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/eo/kdevphp.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/es/kdevphp.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/eu/kdevphp.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/fr/kdevphp.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/gl/kdevphp.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/he/kdevphp.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/hi/kdevphp.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/it/kdevphp.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ka/kdevphp.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ko/kdevphp.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/nl/kdevphp.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/pl/kdevphp.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/pt_BR/kdevphp.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ru/kdevphp.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/sa/kdevphp.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/sl/kdevphp.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/sv/kdevphp.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/tr/kdevphp.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/uk/kdevphp.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/zh_TW/kdevphp.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/de/kdevphp.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/pt/kdevphp.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/sk/kdevphp.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/zh_CN/kdevphp.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 522 | 535 | 97.6 | /mnt/stockage/packages/f43/kdevelop-php/po/et/kdevphp.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 326 | 535 | 60.9 | /mnt/stockage/packages/f43/kdevelop-php/po/el/kdevphp.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 297 | 535 | 55.5 | /mnt/stockage/packages/f43/kdevelop-php/po/bs/kdevphp.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 297 | 535 | 55.5 | /mnt/stockage/packages/f43/kdevelop-php/po/da/kdevphp.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 286 | 535 | 53.5 | /mnt/stockage/packages/f43/kdevelop-php/po/fi/kdevphp.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 221 | 535 | 41.3 | /mnt/stockage/packages/f43/kdevelop-php/po/kk/kdevphp.po | 
- | [nds]({{< ref "/f43/language/nds.md" >}}) | 217 | 535 | 40.6 | /mnt/stockage/packages/f43/kdevelop-php/po/nds/kdevphp.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 216 | 535 | 40.4 | /mnt/stockage/packages/f43/kdevelop-php/po/nb/kdevphp.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 158 | 535 | 29.5 | /mnt/stockage/packages/f43/kdevelop-php/po/th/kdevphp.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 145 | 535 | 27.1 | /mnt/stockage/packages/f43/kdevelop-php/po/hu/kdevphp.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 92 | 535 | 17.2 | /mnt/stockage/packages/f43/kdevelop-php/po/cs/kdevphp.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 56 | 535 | 10.5 | /mnt/stockage/packages/f43/kdevelop-php/po/ro/kdevphp.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 41 | 535 | 7.7 | /mnt/stockage/packages/f43/kdevelop-php/po/ga/kdevphp.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 27 | 535 | 5.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ug/kdevphp.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 25 | 535 | 4.7 | /mnt/stockage/packages/f43/kdevelop-php/po/ia/kdevphp.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 21 | 535 | 3.9 | /mnt/stockage/packages/f43/kdevelop-php/po/mr/kdevphp.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 18 | 535 | 3.4 | /mnt/stockage/packages/f43/kdevelop-php/po/nn/kdevphp.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 16 | 535 | 3.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ja/kdevphp.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 3 | 535 | 0.6 | /mnt/stockage/packages/f43/kdevelop-php/po/hr/kdevphp.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 0 | 535 | 0.0 | /mnt/stockage/packages/f43/kdevelop-php/po/lt/kdevphp.po | 
+ | [ar](/f43/language/ar) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ar/kdevphp.po | 
+ | [ca](/f43/language/ca) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ca/kdevphp.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ca@valencia/kdevphp.po | 
+ | [en_GB](/f43/language/en_GB) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/en_GB/kdevphp.po | 
+ | [eo](/f43/language/eo) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/eo/kdevphp.po | 
+ | [es](/f43/language/es) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/es/kdevphp.po | 
+ | [eu](/f43/language/eu) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/eu/kdevphp.po | 
+ | [fr](/f43/language/fr) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/fr/kdevphp.po | 
+ | [gl](/f43/language/gl) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/gl/kdevphp.po | 
+ | [he](/f43/language/he) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/he/kdevphp.po | 
+ | [hi](/f43/language/hi) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/hi/kdevphp.po | 
+ | [it](/f43/language/it) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/it/kdevphp.po | 
+ | [ka](/f43/language/ka) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ka/kdevphp.po | 
+ | [ko](/f43/language/ko) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ko/kdevphp.po | 
+ | [nl](/f43/language/nl) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/nl/kdevphp.po | 
+ | [pl](/f43/language/pl) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/pl/kdevphp.po | 
+ | [pt_BR](/f43/language/pt_BR) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/pt_BR/kdevphp.po | 
+ | [ru](/f43/language/ru) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ru/kdevphp.po | 
+ | [sa](/f43/language/sa) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/sa/kdevphp.po | 
+ | [sl](/f43/language/sl) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/sl/kdevphp.po | 
+ | [sv](/f43/language/sv) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/sv/kdevphp.po | 
+ | [tr](/f43/language/tr) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/tr/kdevphp.po | 
+ | [uk](/f43/language/uk) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/uk/kdevphp.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 535 | 535 | 100.0 | /mnt/stockage/packages/f43/kdevelop-php/po/zh_TW/kdevphp.po | 
+ | [de](/f43/language/de) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/de/kdevphp.po | 
+ | [pt](/f43/language/pt) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/pt/kdevphp.po | 
+ | [sk](/f43/language/sk) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/sk/kdevphp.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 529 | 535 | 98.9 | /mnt/stockage/packages/f43/kdevelop-php/po/zh_CN/kdevphp.po | 
+ | [et](/f43/language/et) | 522 | 535 | 97.6 | /mnt/stockage/packages/f43/kdevelop-php/po/et/kdevphp.po | 
+ | [el](/f43/language/el) | 326 | 535 | 60.9 | /mnt/stockage/packages/f43/kdevelop-php/po/el/kdevphp.po | 
+ | [bs](/f43/language/bs) | 297 | 535 | 55.5 | /mnt/stockage/packages/f43/kdevelop-php/po/bs/kdevphp.po | 
+ | [da](/f43/language/da) | 297 | 535 | 55.5 | /mnt/stockage/packages/f43/kdevelop-php/po/da/kdevphp.po | 
+ | [fi](/f43/language/fi) | 286 | 535 | 53.5 | /mnt/stockage/packages/f43/kdevelop-php/po/fi/kdevphp.po | 
+ | [kk](/f43/language/kk) | 221 | 535 | 41.3 | /mnt/stockage/packages/f43/kdevelop-php/po/kk/kdevphp.po | 
+ | [nds](/f43/language/nds) | 217 | 535 | 40.6 | /mnt/stockage/packages/f43/kdevelop-php/po/nds/kdevphp.po | 
+ | [nb_NO](/f43/language/nb_NO) | 216 | 535 | 40.4 | /mnt/stockage/packages/f43/kdevelop-php/po/nb/kdevphp.po | 
+ | [th](/f43/language/th) | 158 | 535 | 29.5 | /mnt/stockage/packages/f43/kdevelop-php/po/th/kdevphp.po | 
+ | [hu](/f43/language/hu) | 145 | 535 | 27.1 | /mnt/stockage/packages/f43/kdevelop-php/po/hu/kdevphp.po | 
+ | [cs](/f43/language/cs) | 92 | 535 | 17.2 | /mnt/stockage/packages/f43/kdevelop-php/po/cs/kdevphp.po | 
+ | [ro](/f43/language/ro) | 56 | 535 | 10.5 | /mnt/stockage/packages/f43/kdevelop-php/po/ro/kdevphp.po | 
+ | [ga](/f43/language/ga) | 41 | 535 | 7.7 | /mnt/stockage/packages/f43/kdevelop-php/po/ga/kdevphp.po | 
+ | [ug](/f43/language/ug) | 27 | 535 | 5.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ug/kdevphp.po | 
+ | [ia](/f43/language/ia) | 25 | 535 | 4.7 | /mnt/stockage/packages/f43/kdevelop-php/po/ia/kdevphp.po | 
+ | [mr](/f43/language/mr) | 21 | 535 | 3.9 | /mnt/stockage/packages/f43/kdevelop-php/po/mr/kdevphp.po | 
+ | [nn](/f43/language/nn) | 18 | 535 | 3.4 | /mnt/stockage/packages/f43/kdevelop-php/po/nn/kdevphp.po | 
+ | [ja](/f43/language/ja) | 16 | 535 | 3.0 | /mnt/stockage/packages/f43/kdevelop-php/po/ja/kdevphp.po | 
+ | [hr](/f43/language/hr) | 3 | 535 | 0.6 | /mnt/stockage/packages/f43/kdevelop-php/po/hr/kdevphp.po | 
+ | [lt](/f43/language/lt) | 0 | 535 | 0.0 | /mnt/stockage/packages/f43/kdevelop-php/po/lt/kdevphp.po | 
 {.sortable}
 
 

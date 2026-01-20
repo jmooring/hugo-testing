@@ -18,16 +18,16 @@ The package PolicyKit-gnome (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/en_GB.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/ja.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 464 | 777 | 59.7 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/hu.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 346 | 786 | 44.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/sv.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 235 | 717 | 32.8 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/da.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 210 | 786 | 26.7 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/el.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 160 | 786 | 20.4 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/he.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 130 | 786 | 16.5 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/es.po | 
+ | [en_GB](/f9/language/en_GB) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/en_GB.po | 
+ | [fi](/f9/language/fi) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/fi.po | 
+ | [fr](/f9/language/fr) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/fr.po | 
+ | [ja](/f9/language/ja) | 786 | 786 | 100.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/ja.po | 
+ | [hu](/f9/language/hu) | 464 | 777 | 59.7 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/hu.po | 
+ | [sv](/f9/language/sv) | 346 | 786 | 44.0 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/sv.po | 
+ | [da](/f9/language/da) | 235 | 717 | 32.8 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/da.po | 
+ | [el](/f9/language/el) | 210 | 786 | 26.7 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/el.po | 
+ | [he](/f9/language/he) | 160 | 786 | 20.4 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/he.po | 
+ | [es](/f9/language/es) | 130 | 786 | 16.5 | /mnt/stockage/packages/f9/PolicyKit-gnome/po/es.po | 
 {.sortable}
 
 

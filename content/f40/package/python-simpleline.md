@@ -18,25 +18,25 @@ The package python-simpleline (version 1.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/da.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/fr.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ro.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/sk.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/zh_CN.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 35 | 42 | 83.3 | /mnt/stockage/packages/f40/python-simpleline/po/en_GB.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 2 | 42 | 4.8 | /mnt/stockage/packages/f40/python-simpleline/po/si.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 1 | 42 | 2.4 | /mnt/stockage/packages/f40/python-simpleline/po/lt.po | 
+ | [ca](/f40/language/ca) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ca.po | 
+ | [cs](/f40/language/cs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/cs.po | 
+ | [da](/f40/language/da) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/da.po | 
+ | [es](/f40/language/es) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/es.po | 
+ | [fi](/f40/language/fi) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/fi.po | 
+ | [fr](/f40/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/fr.po | 
+ | [ja](/f40/language/ja) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ja.po | 
+ | [ko](/f40/language/ko) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ko.po | 
+ | [pl](/f40/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/ro.po | 
+ | [sk](/f40/language/sk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/sk.po | 
+ | [sv](/f40/language/sv) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/sv.po | 
+ | [tr](/f40/language/tr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/tr.po | 
+ | [uk](/f40/language/uk) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 42 | 42 | 100.0 | /mnt/stockage/packages/f40/python-simpleline/po/zh_CN.po | 
+ | [en_GB](/f40/language/en_GB) | 35 | 42 | 83.3 | /mnt/stockage/packages/f40/python-simpleline/po/en_GB.po | 
+ | [si](/f40/language/si) | 2 | 42 | 4.8 | /mnt/stockage/packages/f40/python-simpleline/po/si.po | 
+ | [lt](/f40/language/lt) | 1 | 42 | 2.4 | /mnt/stockage/packages/f40/python-simpleline/po/lt.po | 
 {.sortable}
 
 

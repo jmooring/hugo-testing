@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f28/package/blueberry.md" >}}) | 141 | 141 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f28/package/lightdm-settings.md" >}}) | 271 | 271 | 100.0 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [pix]({{< ref "/f28/package/pix.md" >}}) | 3718 | 3718 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xviewer]({{< ref "/f28/package/xviewer.md" >}}) | 1677 | 1677 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xplayer]({{< ref "/f28/package/xplayer.md" >}}) | 1943 | 1952 | 99.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f28/package/xreader.md" >}}) | 1631 | 1641 | 99.4 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xed]({{< ref "/f28/package/xed.md" >}}) | 4351 | 4613 | 94.3 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f28/package/cinnamon-translations.md" >}}) | 21019 | 22473 | 93.5 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
- | [wicd]({{< ref "/f28/package/wicd.md" >}}) | 807 | 1138 | 70.9 | ar_EG <LL@li.org> | 
+ | [blueberry](/f28/package/blueberry) | 141 | 141 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f28/package/lightdm-settings) | 271 | 271 | 100.0 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [pix](/f28/package/pix) | 3718 | 3718 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [slick-greeter](/f28/package/slick-greeter) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xviewer](/f28/package/xviewer) | 1677 | 1677 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xplayer](/f28/package/xplayer) | 1943 | 1952 | 99.5 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xreader](/f28/package/xreader) | 1631 | 1641 | 99.4 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xed](/f28/package/xed) | 4351 | 4613 | 94.3 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f28/package/cinnamon-translations) | 21019 | 22473 | 93.5 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [wicd](/f28/package/wicd) | 807 | 1138 | 70.9 | ar_EG <LL@li.org> | 
 {.sortable}
 
 

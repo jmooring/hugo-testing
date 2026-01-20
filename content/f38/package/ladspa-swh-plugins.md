@@ -18,8 +18,8 @@ The package ladspa-swh-plugins (version 0.4.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 997 | 1076 | 92.7 | /mnt/stockage/packages/f38/ladspa-swh-plugins/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 0 | 1076 | 0.0 | /mnt/stockage/packages/f38/ladspa-swh-plugins/po/en_GB.po | 
+ | [de](/f38/language/de) | 997 | 1076 | 92.7 | /mnt/stockage/packages/f38/ladspa-swh-plugins/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 0 | 1076 | 0.0 | /mnt/stockage/packages/f38/ladspa-swh-plugins/po/en_GB.po | 
 {.sortable}
 
 

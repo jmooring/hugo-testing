@@ -18,8 +18,8 @@ The package python-django-admin-honeypot (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f23/language/es.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f23/python-django-admin-honeypot/admin_honeypot/locale/es_ES/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 44 | 47 | 93.6 | /mnt/stockage/packages/f23/python-django-admin-honeypot/admin_honeypot/locale/ru/LC_MESSAGES/django.po | 
+ | [es](/f23/language/es) | 47 | 47 | 100.0 | /mnt/stockage/packages/f23/python-django-admin-honeypot/admin_honeypot/locale/es_ES/LC_MESSAGES/django.po | 
+ | [ru](/f23/language/ru) | 44 | 47 | 93.6 | /mnt/stockage/packages/f23/python-django-admin-honeypot/admin_honeypot/locale/ru/LC_MESSAGES/django.po | 
 {.sortable}
 
 

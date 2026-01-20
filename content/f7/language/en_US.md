@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gcin]({{< ref "/f7/package/gcin.md" >}}) | 146 | 146 | 100.0 | LANGUAGE <LL@li.org> | 
- | [python-nevow]({{< ref "/f7/package/python-nevow.md" >}}) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gjots2]({{< ref "/f7/package/gjots2.md" >}}) | 837 | 906 | 92.4 | <en@li.org> | 
- | [gcalctool]({{< ref "/f7/package/gcalctool.md" >}}) | 842 | 915 | 92.0 |  | 
- | [listen]({{< ref "/f7/package/listen.md" >}}) | 649 | 747 | 86.9 | English (United States) <en_US@li.org> | 
- | [gnubg]({{< ref "/f7/package/gnubg.md" >}}) | 11975 | 18673 | 64.1 | none | 
- | [gnomebaker]({{< ref "/f7/package/gnomebaker.md" >}}) | 271 | 1167 | 23.2 | English (United States) <en_US@li.org> | 
- | [e16]({{< ref "/f7/package/e16.md" >}}) | 198 | 2913 | 6.8 | American English <en@li.org> | 
- | [PyXML]({{< ref "/f7/package/PyXML.md" >}}) | 0 | 115 | 0.0 | English <en@translate.freefriends.org> | 
- | [boinc-client]({{< ref "/f7/package/boinc-client.md" >}}) | 0 | 3228 | 0.0 | BOINC Development Team <rwalton@ssl.berkeley.edu> | 
- | [wxPython]({{< ref "/f7/package/wxPython.md" >}}) | 0 | 1255 | 0.0 | LANGUAGE <LL@li.org> | 
- | [xmlcopyeditor]({{< ref "/f7/package/xmlcopyeditor.md" >}}) | 0 | 1354 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gcin](/f7/package/gcin) | 146 | 146 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [python-nevow](/f7/package/python-nevow) | 14 | 14 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gjots2](/f7/package/gjots2) | 837 | 906 | 92.4 | <en@li.org> | 
+ | [gcalctool](/f7/package/gcalctool) | 842 | 915 | 92.0 |  | 
+ | [listen](/f7/package/listen) | 649 | 747 | 86.9 | English (United States) <en_US@li.org> | 
+ | [gnubg](/f7/package/gnubg) | 11975 | 18673 | 64.1 | none | 
+ | [gnomebaker](/f7/package/gnomebaker) | 271 | 1167 | 23.2 | English (United States) <en_US@li.org> | 
+ | [e16](/f7/package/e16) | 198 | 2913 | 6.8 | American English <en@li.org> | 
+ | [PyXML](/f7/package/PyXML) | 0 | 115 | 0.0 | English <en@translate.freefriends.org> | 
+ | [boinc-client](/f7/package/boinc-client) | 0 | 3228 | 0.0 | BOINC Development Team <rwalton@ssl.berkeley.edu> | 
+ | [wxPython](/f7/package/wxPython) | 0 | 1255 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [xmlcopyeditor](/f7/package/xmlcopyeditor) | 0 | 1354 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

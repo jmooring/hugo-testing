@@ -18,27 +18,27 @@ The package cockpit (version 275.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/es.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/ko.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/pl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/uk.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 7302 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/ka.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 7279 | 7303 | 99.7 | /mnt/stockage/packages/f35/cockpit/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 7147 | 7303 | 97.9 | /mnt/stockage/packages/f35/cockpit/po/fr.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 6978 | 7303 | 95.5 | /mnt/stockage/packages/f35/cockpit/po/zh_CN.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 6975 | 7303 | 95.5 | /mnt/stockage/packages/f35/cockpit/po/ja.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 6954 | 7303 | 95.2 | /mnt/stockage/packages/f35/cockpit/po/de.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 6503 | 7303 | 89.0 | /mnt/stockage/packages/f35/cockpit/po/it.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 6180 | 7303 | 84.6 | /mnt/stockage/packages/f35/cockpit/po/cs.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 5896 | 7303 | 80.7 | /mnt/stockage/packages/f35/cockpit/po/he.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 4958 | 7303 | 67.9 | /mnt/stockage/packages/f35/cockpit/po/nb_NO.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 4515 | 7303 | 61.8 | /mnt/stockage/packages/f35/cockpit/po/ru.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 3999 | 7303 | 54.8 | /mnt/stockage/packages/f35/cockpit/po/pt_BR.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 3549 | 7303 | 48.6 | /mnt/stockage/packages/f35/cockpit/po/sk.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3220 | 7303 | 44.1 | /mnt/stockage/packages/f35/cockpit/po/zh_TW.po | 
+ | [es](/f35/language/es) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/es.po | 
+ | [ko](/f35/language/ko) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/ko.po | 
+ | [nl](/f35/language/nl) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/nl.po | 
+ | [pl](/f35/language/pl) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/pl.po | 
+ | [sv](/f35/language/sv) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/sv.po | 
+ | [tr](/f35/language/tr) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/tr.po | 
+ | [uk](/f35/language/uk) | 7303 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/uk.po | 
+ | [ka](/f35/language/ka) | 7302 | 7303 | 100.0 | /mnt/stockage/packages/f35/cockpit/po/ka.po | 
+ | [fi](/f35/language/fi) | 7279 | 7303 | 99.7 | /mnt/stockage/packages/f35/cockpit/po/fi.po | 
+ | [fr](/f35/language/fr) | 7147 | 7303 | 97.9 | /mnt/stockage/packages/f35/cockpit/po/fr.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 6978 | 7303 | 95.5 | /mnt/stockage/packages/f35/cockpit/po/zh_CN.po | 
+ | [ja](/f35/language/ja) | 6975 | 7303 | 95.5 | /mnt/stockage/packages/f35/cockpit/po/ja.po | 
+ | [de](/f35/language/de) | 6954 | 7303 | 95.2 | /mnt/stockage/packages/f35/cockpit/po/de.po | 
+ | [it](/f35/language/it) | 6503 | 7303 | 89.0 | /mnt/stockage/packages/f35/cockpit/po/it.po | 
+ | [cs](/f35/language/cs) | 6180 | 7303 | 84.6 | /mnt/stockage/packages/f35/cockpit/po/cs.po | 
+ | [he](/f35/language/he) | 5896 | 7303 | 80.7 | /mnt/stockage/packages/f35/cockpit/po/he.po | 
+ | [nb_NO](/f35/language/nb_NO) | 4958 | 7303 | 67.9 | /mnt/stockage/packages/f35/cockpit/po/nb_NO.po | 
+ | [ru](/f35/language/ru) | 4515 | 7303 | 61.8 | /mnt/stockage/packages/f35/cockpit/po/ru.po | 
+ | [pt_BR](/f35/language/pt_BR) | 3999 | 7303 | 54.8 | /mnt/stockage/packages/f35/cockpit/po/pt_BR.po | 
+ | [sk](/f35/language/sk) | 3549 | 7303 | 48.6 | /mnt/stockage/packages/f35/cockpit/po/sk.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3220 | 7303 | 44.1 | /mnt/stockage/packages/f35/cockpit/po/zh_TW.po | 
 {.sortable}
 
 

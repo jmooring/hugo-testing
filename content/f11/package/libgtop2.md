@@ -18,85 +18,85 @@ The package libgtop2 (version 2.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ar.po | 
- | [as]({{< ref "/f11/language/as.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/as.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/be.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/bg.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/bn.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/bn_IN.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/cs.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/cy.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/el.po | 
- | [en_CA]({{< ref "/f11/language/en_CA.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/en_CA.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/en_GB.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/eo.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/es.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/et.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/eu.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/gl.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/gu.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/he.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/hi.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/hr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ja.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ko.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/lt.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/lv.po | 
- | [mg]({{< ref "/f11/language/mg.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/mg.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/mk.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/mr.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/nb.po | 
- | [ne]({{< ref "/f11/language/ne.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ne.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/nl.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/nn.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pt_BR.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sk.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sl.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sq.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ta.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/th.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/uk.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/vi.po | 
- | [xh]({{< ref "/f11/language/xh.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/xh.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/zh_HK.po | 
- | [ky]({{< ref "/f11/language/ky.md" >}}) | 132 | 134 | 98.5 | /mnt/stockage/packages/f11/libgtop2/po/ky.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 131 | 134 | 97.8 | /mnt/stockage/packages/f11/libgtop2/po/te.po | 
- | [dz]({{< ref "/f11/language/dz.md" >}}) | 113 | 126 | 89.7 | /mnt/stockage/packages/f11/libgtop2/po/dz.po | 
- | [az]({{< ref "/f11/language/az.md" >}}) | 118 | 134 | 88.1 | /mnt/stockage/packages/f11/libgtop2/po/az.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 118 | 134 | 88.1 | /mnt/stockage/packages/f11/libgtop2/po/bs.po | 
- | [mn]({{< ref "/f11/language/mn.md" >}}) | 118 | 134 | 88.1 | /mnt/stockage/packages/f11/libgtop2/po/mn.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 112 | 134 | 83.6 | /mnt/stockage/packages/f11/libgtop2/po/fa.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 112 | 134 | 83.6 | /mnt/stockage/packages/f11/libgtop2/po/id.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 110 | 134 | 82.1 | /mnt/stockage/packages/f11/libgtop2/po/ms.po | 
- | [la]({{< ref "/f11/language/la.md" >}}) | 24 | 126 | 19.0 | /mnt/stockage/packages/f11/libgtop2/po/la.po | 
- | [oc]({{< ref "/f11/language/oc.md" >}}) | 17 | 126 | 13.5 | /mnt/stockage/packages/f11/libgtop2/po/oc.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 17 | 134 | 12.7 | /mnt/stockage/packages/f11/libgtop2/po/ku.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 14 | 134 | 10.4 | /mnt/stockage/packages/f11/libgtop2/po/ka.po | 
- | [am]({{< ref "/f11/language/am.md" >}}) | 12 | 134 | 9.0 | /mnt/stockage/packages/f11/libgtop2/po/am.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 6 | 134 | 4.5 | /mnt/stockage/packages/f11/libgtop2/po/ga.po | 
- | [rw]({{< ref "/f11/language/rw.md" >}}) | 5 | 134 | 3.7 | /mnt/stockage/packages/f11/libgtop2/po/rw.po | 
- | [mi]({{< ref "/f11/language/mi.md" >}}) | 0 | 134 | 0.0 | /mnt/stockage/packages/f11/libgtop2/po/mi.po | 
+ | [ar](/f11/language/ar) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ar.po | 
+ | [as](/f11/language/as) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/as.po | 
+ | [be](/f11/language/be) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/be.po | 
+ | [bg](/f11/language/bg) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/bg.po | 
+ | [bn](/f11/language/bn) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/bn.po | 
+ | [bn_IN](/f11/language/bn_IN) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/bn_IN.po | 
+ | [ca](/f11/language/ca) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ca.po | 
+ | [cs](/f11/language/cs) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/cs.po | 
+ | [cy](/f11/language/cy) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/cy.po | 
+ | [da](/f11/language/da) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/da.po | 
+ | [de](/f11/language/de) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/de.po | 
+ | [el](/f11/language/el) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/el.po | 
+ | [en_CA](/f11/language/en_CA) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/en_CA.po | 
+ | [en_GB](/f11/language/en_GB) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/en_GB.po | 
+ | [eo](/f11/language/eo) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/eo.po | 
+ | [es](/f11/language/es) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/es.po | 
+ | [et](/f11/language/et) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/et.po | 
+ | [eu](/f11/language/eu) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/eu.po | 
+ | [fi](/f11/language/fi) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/fi.po | 
+ | [fr](/f11/language/fr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/fr.po | 
+ | [gl](/f11/language/gl) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/gl.po | 
+ | [gu](/f11/language/gu) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/gu.po | 
+ | [he](/f11/language/he) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/he.po | 
+ | [hi](/f11/language/hi) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/hi.po | 
+ | [hr](/f11/language/hr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/hr.po | 
+ | [hu](/f11/language/hu) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/hu.po | 
+ | [it](/f11/language/it) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/it.po | 
+ | [ja](/f11/language/ja) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ja.po | 
+ | [kn](/f11/language/kn) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/kn.po | 
+ | [ko](/f11/language/ko) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ko.po | 
+ | [lt](/f11/language/lt) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/lt.po | 
+ | [lv](/f11/language/lv) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/lv.po | 
+ | [mg](/f11/language/mg) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/mg.po | 
+ | [mk](/f11/language/mk) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/mk.po | 
+ | [ml](/f11/language/ml) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ml.po | 
+ | [mr](/f11/language/mr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/mr.po | 
+ | [nb_NO](/f11/language/nb_NO) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/nb.po | 
+ | [ne](/f11/language/ne) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ne.po | 
+ | [nl](/f11/language/nl) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/nl.po | 
+ | [nn](/f11/language/nn) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/nn.po | 
+ | [or](/f11/language/or) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/or.po | 
+ | [pa](/f11/language/pa) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pa.po | 
+ | [pl](/f11/language/pl) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pl.po | 
+ | [pt](/f11/language/pt) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/pt_BR.po | 
+ | [ro](/f11/language/ro) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ro.po | 
+ | [ru](/f11/language/ru) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ru.po | 
+ | [sk](/f11/language/sk) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sk.po | 
+ | [sl](/f11/language/sl) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sl.po | 
+ | [sq](/f11/language/sq) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sq.po | 
+ | [sr](/f11/language/sr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/sv.po | 
+ | [ta](/f11/language/ta) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/ta.po | 
+ | [th](/f11/language/th) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/th.po | 
+ | [tr](/f11/language/tr) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/tr.po | 
+ | [uk](/f11/language/uk) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/uk.po | 
+ | [vi](/f11/language/vi) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/vi.po | 
+ | [xh](/f11/language/xh) | 134 | 134 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/xh.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 126 | 126 | 100.0 | /mnt/stockage/packages/f11/libgtop2/po/zh_HK.po | 
+ | [ky](/f11/language/ky) | 132 | 134 | 98.5 | /mnt/stockage/packages/f11/libgtop2/po/ky.po | 
+ | [te](/f11/language/te) | 131 | 134 | 97.8 | /mnt/stockage/packages/f11/libgtop2/po/te.po | 
+ | [dz](/f11/language/dz) | 113 | 126 | 89.7 | /mnt/stockage/packages/f11/libgtop2/po/dz.po | 
+ | [az](/f11/language/az) | 118 | 134 | 88.1 | /mnt/stockage/packages/f11/libgtop2/po/az.po | 
+ | [bs](/f11/language/bs) | 118 | 134 | 88.1 | /mnt/stockage/packages/f11/libgtop2/po/bs.po | 
+ | [mn](/f11/language/mn) | 118 | 134 | 88.1 | /mnt/stockage/packages/f11/libgtop2/po/mn.po | 
+ | [fa](/f11/language/fa) | 112 | 134 | 83.6 | /mnt/stockage/packages/f11/libgtop2/po/fa.po | 
+ | [id](/f11/language/id) | 112 | 134 | 83.6 | /mnt/stockage/packages/f11/libgtop2/po/id.po | 
+ | [ms](/f11/language/ms) | 110 | 134 | 82.1 | /mnt/stockage/packages/f11/libgtop2/po/ms.po | 
+ | [la](/f11/language/la) | 24 | 126 | 19.0 | /mnt/stockage/packages/f11/libgtop2/po/la.po | 
+ | [oc](/f11/language/oc) | 17 | 126 | 13.5 | /mnt/stockage/packages/f11/libgtop2/po/oc.po | 
+ | [ku](/f11/language/ku) | 17 | 134 | 12.7 | /mnt/stockage/packages/f11/libgtop2/po/ku.po | 
+ | [ka](/f11/language/ka) | 14 | 134 | 10.4 | /mnt/stockage/packages/f11/libgtop2/po/ka.po | 
+ | [am](/f11/language/am) | 12 | 134 | 9.0 | /mnt/stockage/packages/f11/libgtop2/po/am.po | 
+ | [ga](/f11/language/ga) | 6 | 134 | 4.5 | /mnt/stockage/packages/f11/libgtop2/po/ga.po | 
+ | [rw](/f11/language/rw) | 5 | 134 | 3.7 | /mnt/stockage/packages/f11/libgtop2/po/rw.po | 
+ | [mi](/f11/language/mi) | 0 | 134 | 0.0 | /mnt/stockage/packages/f11/libgtop2/po/mi.po | 
 {.sortable}
 
 

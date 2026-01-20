@@ -18,35 +18,35 @@ The package xchat (version 2.8.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/hu.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/kn.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/pl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/ru.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/sv.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/zh_CN.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 5007 | 5027 | 99.6 | /mnt/stockage/packages/f25/xchat/po/ko.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 4885 | 5027 | 97.2 | /mnt/stockage/packages/f25/xchat/po/fr.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/de.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/fi.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/mk.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/vi.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 4799 | 5027 | 95.5 | /mnt/stockage/packages/f25/xchat/po/be.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 4753 | 5027 | 94.5 | /mnt/stockage/packages/f25/xchat/po/gl.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 4669 | 5027 | 92.9 | /mnt/stockage/packages/f25/xchat/po/el.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 4605 | 5027 | 91.6 | /mnt/stockage/packages/f25/xchat/po/th.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 4544 | 5027 | 90.4 | /mnt/stockage/packages/f25/xchat/po/it.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 4250 | 5027 | 84.5 | /mnt/stockage/packages/f25/xchat/po/nl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 4250 | 5027 | 84.5 | /mnt/stockage/packages/f25/xchat/po/sr.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 4248 | 5027 | 84.5 | /mnt/stockage/packages/f25/xchat/po/zh_TW.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 4195 | 5027 | 83.4 | /mnt/stockage/packages/f25/xchat/po/es.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 4030 | 5027 | 80.2 | /mnt/stockage/packages/f25/xchat/po/sq.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 4016 | 5027 | 79.9 | /mnt/stockage/packages/f25/xchat/po/pt.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 3758 | 5027 | 74.8 | /mnt/stockage/packages/f25/xchat/po/ca.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 3483 | 5027 | 69.3 | /mnt/stockage/packages/f25/xchat/po/pa.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 3450 | 5027 | 68.6 | /mnt/stockage/packages/f25/xchat/po/ja.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 1778 | 5027 | 35.4 | /mnt/stockage/packages/f25/xchat/po/lt.po | 
+ | [hu](/f25/language/hu) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/hu.po | 
+ | [kn](/f25/language/kn) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/kn.po | 
+ | [pl](/f25/language/pl) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/pl.po | 
+ | [ru](/f25/language/ru) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/ru.po | 
+ | [sv](/f25/language/sv) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/sv.po | 
+ | [uk](/f25/language/uk) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 5013 | 5027 | 99.7 | /mnt/stockage/packages/f25/xchat/po/zh_CN.po | 
+ | [ko](/f25/language/ko) | 5007 | 5027 | 99.6 | /mnt/stockage/packages/f25/xchat/po/ko.po | 
+ | [fr](/f25/language/fr) | 4885 | 5027 | 97.2 | /mnt/stockage/packages/f25/xchat/po/fr.po | 
+ | [cs](/f25/language/cs) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/cs.po | 
+ | [de](/f25/language/de) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/de.po | 
+ | [fi](/f25/language/fi) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/fi.po | 
+ | [mk](/f25/language/mk) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/mk.po | 
+ | [vi](/f25/language/vi) | 4882 | 5027 | 97.1 | /mnt/stockage/packages/f25/xchat/po/vi.po | 
+ | [be](/f25/language/be) | 4799 | 5027 | 95.5 | /mnt/stockage/packages/f25/xchat/po/be.po | 
+ | [gl](/f25/language/gl) | 4753 | 5027 | 94.5 | /mnt/stockage/packages/f25/xchat/po/gl.po | 
+ | [el](/f25/language/el) | 4669 | 5027 | 92.9 | /mnt/stockage/packages/f25/xchat/po/el.po | 
+ | [th](/f25/language/th) | 4605 | 5027 | 91.6 | /mnt/stockage/packages/f25/xchat/po/th.po | 
+ | [it](/f25/language/it) | 4544 | 5027 | 90.4 | /mnt/stockage/packages/f25/xchat/po/it.po | 
+ | [nl](/f25/language/nl) | 4250 | 5027 | 84.5 | /mnt/stockage/packages/f25/xchat/po/nl.po | 
+ | [sr](/f25/language/sr) | 4250 | 5027 | 84.5 | /mnt/stockage/packages/f25/xchat/po/sr.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 4248 | 5027 | 84.5 | /mnt/stockage/packages/f25/xchat/po/zh_TW.po | 
+ | [es](/f25/language/es) | 4195 | 5027 | 83.4 | /mnt/stockage/packages/f25/xchat/po/es.po | 
+ | [sq](/f25/language/sq) | 4030 | 5027 | 80.2 | /mnt/stockage/packages/f25/xchat/po/sq.po | 
+ | [pt](/f25/language/pt) | 4016 | 5027 | 79.9 | /mnt/stockage/packages/f25/xchat/po/pt.po | 
+ | [ca](/f25/language/ca) | 3758 | 5027 | 74.8 | /mnt/stockage/packages/f25/xchat/po/ca.po | 
+ | [pa](/f25/language/pa) | 3483 | 5027 | 69.3 | /mnt/stockage/packages/f25/xchat/po/pa.po | 
+ | [ja](/f25/language/ja) | 3450 | 5027 | 68.6 | /mnt/stockage/packages/f25/xchat/po/ja.po | 
+ | [lt](/f25/language/lt) | 1778 | 5027 | 35.4 | /mnt/stockage/packages/f25/xchat/po/lt.po | 
 {.sortable}
 
 

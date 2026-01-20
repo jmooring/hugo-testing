@@ -18,7 +18,7 @@ The package openstack-swift (version 1.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f20/openstack-swift/test/unit/locale/eo.po | 
+ | [eo](/f20/language/eo) | 2 | 2 | 100.0 | /mnt/stockage/packages/f20/openstack-swift/test/unit/locale/eo.po | 
 {.sortable}
 
 

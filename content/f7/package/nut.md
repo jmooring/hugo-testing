@@ -18,10 +18,10 @@ The package nut (version 2.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f7/nut/packaging/debian/po/fr.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f7/nut/packaging/debian/po/vi.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 311 | 368 | 84.5 | /mnt/stockage/packages/f7/nut/packaging/debian/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 311 | 368 | 84.5 | /mnt/stockage/packages/f7/nut/packaging/debian/po/cs.po | 
+ | [fr](/f7/language/fr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f7/nut/packaging/debian/po/fr.po | 
+ | [vi](/f7/language/vi) | 368 | 368 | 100.0 | /mnt/stockage/packages/f7/nut/packaging/debian/po/vi.po | 
+ | [ca](/f7/language/ca) | 311 | 368 | 84.5 | /mnt/stockage/packages/f7/nut/packaging/debian/po/ca.po | 
+ | [cs](/f7/language/cs) | 311 | 368 | 84.5 | /mnt/stockage/packages/f7/nut/packaging/debian/po/cs.po | 
 {.sortable}
 
 

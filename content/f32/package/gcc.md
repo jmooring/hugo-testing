@@ -18,28 +18,28 @@ The package gcc (version 10.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 113785 | 113785 | 100.0 | /mnt/stockage/packages/f32/gcc/gcc/po/de.po/mnt/stockage/packages/f32/gcc/libcpp/po/de.po/mnt/stockage/packages/f32/gcc/libstdc++-v3/po/de.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f32/gcc/libcpp/po/eo.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 113785 | 113785 | 100.0 | /mnt/stockage/packages/f32/gcc/gcc/po/fr.po/mnt/stockage/packages/f32/gcc/libcpp/po/fr.po/mnt/stockage/packages/f32/gcc/libstdc++-v3/po/fr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f32/gcc/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 113780 | 113780 | 100.0 | /mnt/stockage/packages/f32/gcc/gcc/po/sv.po/mnt/stockage/packages/f32/gcc/libcpp/po/sv.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 80121 | 113780 | 70.4 | /mnt/stockage/packages/f32/gcc/gcc/po/ru.po/mnt/stockage/packages/f32/gcc/libcpp/po/ru.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 920 | 1402 | 65.6 | /mnt/stockage/packages/f32/gcc/libcpp/po/ca.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 66804 | 113780 | 58.7 | /mnt/stockage/packages/f32/gcc/gcc/po/es.po/mnt/stockage/packages/f32/gcc/libcpp/po/es.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 29678 | 113780 | 26.1 | /mnt/stockage/packages/f32/gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f32/gcc/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 26539 | 113780 | 23.3 | /mnt/stockage/packages/f32/gcc/gcc/po/vi.po/mnt/stockage/packages/f32/gcc/libcpp/po/vi.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 20792 | 113780 | 18.3 | /mnt/stockage/packages/f32/gcc/gcc/po/id.po/mnt/stockage/packages/f32/gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 17728 | 113780 | 15.6 | /mnt/stockage/packages/f32/gcc/gcc/po/sr.po/mnt/stockage/packages/f32/gcc/libcpp/po/sr.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 15867 | 113780 | 13.9 | /mnt/stockage/packages/f32/gcc/gcc/po/tr.po/mnt/stockage/packages/f32/gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 15427 | 113780 | 13.6 | /mnt/stockage/packages/f32/gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f32/gcc/libcpp/po/zh_TW.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 14952 | 113780 | 13.1 | /mnt/stockage/packages/f32/gcc/gcc/po/fi.po/mnt/stockage/packages/f32/gcc/libcpp/po/fi.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 14504 | 113780 | 12.7 | /mnt/stockage/packages/f32/gcc/gcc/po/ja.po/mnt/stockage/packages/f32/gcc/libcpp/po/ja.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 11767 | 113780 | 10.3 | /mnt/stockage/packages/f32/gcc/gcc/po/da.po/mnt/stockage/packages/f32/gcc/libcpp/po/da.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 7821 | 113780 | 6.9 | /mnt/stockage/packages/f32/gcc/gcc/po/uk.po/mnt/stockage/packages/f32/gcc/libcpp/po/uk.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 5276 | 113780 | 4.6 | /mnt/stockage/packages/f32/gcc/gcc/po/nl.po/mnt/stockage/packages/f32/gcc/libcpp/po/nl.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 484 | 112378 | 0.4 | /mnt/stockage/packages/f32/gcc/gcc/po/hr.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 220 | 113780 | 0.2 | /mnt/stockage/packages/f32/gcc/gcc/po/be.po/mnt/stockage/packages/f32/gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 179 | 113780 | 0.2 | /mnt/stockage/packages/f32/gcc/gcc/po/el.po/mnt/stockage/packages/f32/gcc/libcpp/po/el.po | 
+ | [de](/f32/language/de) | 113785 | 113785 | 100.0 | /mnt/stockage/packages/f32/gcc/gcc/po/de.po/mnt/stockage/packages/f32/gcc/libcpp/po/de.po/mnt/stockage/packages/f32/gcc/libstdc++-v3/po/de.po | 
+ | [eo](/f32/language/eo) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f32/gcc/libcpp/po/eo.po | 
+ | [fr](/f32/language/fr) | 113785 | 113785 | 100.0 | /mnt/stockage/packages/f32/gcc/gcc/po/fr.po/mnt/stockage/packages/f32/gcc/libcpp/po/fr.po/mnt/stockage/packages/f32/gcc/libstdc++-v3/po/fr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1402 | 1402 | 100.0 | /mnt/stockage/packages/f32/gcc/libcpp/po/pt_BR.po | 
+ | [sv](/f32/language/sv) | 113780 | 113780 | 100.0 | /mnt/stockage/packages/f32/gcc/gcc/po/sv.po/mnt/stockage/packages/f32/gcc/libcpp/po/sv.po | 
+ | [ru](/f32/language/ru) | 80121 | 113780 | 70.4 | /mnt/stockage/packages/f32/gcc/gcc/po/ru.po/mnt/stockage/packages/f32/gcc/libcpp/po/ru.po | 
+ | [ca](/f32/language/ca) | 920 | 1402 | 65.6 | /mnt/stockage/packages/f32/gcc/libcpp/po/ca.po | 
+ | [es](/f32/language/es) | 66804 | 113780 | 58.7 | /mnt/stockage/packages/f32/gcc/gcc/po/es.po/mnt/stockage/packages/f32/gcc/libcpp/po/es.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 29678 | 113780 | 26.1 | /mnt/stockage/packages/f32/gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f32/gcc/libcpp/po/zh_CN.po | 
+ | [vi](/f32/language/vi) | 26539 | 113780 | 23.3 | /mnt/stockage/packages/f32/gcc/gcc/po/vi.po/mnt/stockage/packages/f32/gcc/libcpp/po/vi.po | 
+ | [id](/f32/language/id) | 20792 | 113780 | 18.3 | /mnt/stockage/packages/f32/gcc/gcc/po/id.po/mnt/stockage/packages/f32/gcc/libcpp/po/id.po | 
+ | [sr](/f32/language/sr) | 17728 | 113780 | 15.6 | /mnt/stockage/packages/f32/gcc/gcc/po/sr.po/mnt/stockage/packages/f32/gcc/libcpp/po/sr.po | 
+ | [tr](/f32/language/tr) | 15867 | 113780 | 13.9 | /mnt/stockage/packages/f32/gcc/gcc/po/tr.po/mnt/stockage/packages/f32/gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 15427 | 113780 | 13.6 | /mnt/stockage/packages/f32/gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f32/gcc/libcpp/po/zh_TW.po | 
+ | [fi](/f32/language/fi) | 14952 | 113780 | 13.1 | /mnt/stockage/packages/f32/gcc/gcc/po/fi.po/mnt/stockage/packages/f32/gcc/libcpp/po/fi.po | 
+ | [ja](/f32/language/ja) | 14504 | 113780 | 12.7 | /mnt/stockage/packages/f32/gcc/gcc/po/ja.po/mnt/stockage/packages/f32/gcc/libcpp/po/ja.po | 
+ | [da](/f32/language/da) | 11767 | 113780 | 10.3 | /mnt/stockage/packages/f32/gcc/gcc/po/da.po/mnt/stockage/packages/f32/gcc/libcpp/po/da.po | 
+ | [uk](/f32/language/uk) | 7821 | 113780 | 6.9 | /mnt/stockage/packages/f32/gcc/gcc/po/uk.po/mnt/stockage/packages/f32/gcc/libcpp/po/uk.po | 
+ | [nl](/f32/language/nl) | 5276 | 113780 | 4.6 | /mnt/stockage/packages/f32/gcc/gcc/po/nl.po/mnt/stockage/packages/f32/gcc/libcpp/po/nl.po | 
+ | [hr](/f32/language/hr) | 484 | 112378 | 0.4 | /mnt/stockage/packages/f32/gcc/gcc/po/hr.po | 
+ | [be](/f32/language/be) | 220 | 113780 | 0.2 | /mnt/stockage/packages/f32/gcc/gcc/po/be.po/mnt/stockage/packages/f32/gcc/libcpp/po/be.po | 
+ | [el](/f32/language/el) | 179 | 113780 | 0.2 | /mnt/stockage/packages/f32/gcc/gcc/po/el.po/mnt/stockage/packages/f32/gcc/libcpp/po/el.po | 
 {.sortable}
 
 

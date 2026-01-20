@@ -18,10 +18,10 @@ The package steghide (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/fr.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/ro.po | 
+ | [de](/f22/language/de) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/de.po | 
+ | [es](/f22/language/es) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/es.po | 
+ | [fr](/f22/language/fr) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/fr.po | 
+ | [ro](/f22/language/ro) | 1859 | 1859 | 100.0 | /mnt/stockage/packages/f22/steghide/po/ro.po | 
 {.sortable}
 
 

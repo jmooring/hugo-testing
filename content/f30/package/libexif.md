@@ -18,31 +18,31 @@ The package libexif (version 0.6.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f30/language/da.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/da.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/pl.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/sk.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/vi.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 6976 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/de.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/bs.po | 
- | [en_AU]({{< ref "/f30/language/en_AU.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/en_AU.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/en_GB.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/nl.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 5092 | 6977 | 73.0 | /mnt/stockage/packages/f30/libexif/po/it.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 3700 | 6977 | 53.0 | /mnt/stockage/packages/f30/libexif/po/sr.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 3546 | 6977 | 50.8 | /mnt/stockage/packages/f30/libexif/po/ru.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 3309 | 6977 | 47.4 | /mnt/stockage/packages/f30/libexif/po/cs.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 2517 | 6977 | 36.1 | /mnt/stockage/packages/f30/libexif/po/es.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 1894 | 6977 | 27.1 | /mnt/stockage/packages/f30/libexif/po/ja.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1746 | 6977 | 25.0 | /mnt/stockage/packages/f30/libexif/po/pt_BR.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 1540 | 6977 | 22.1 | /mnt/stockage/packages/f30/libexif/po/sv.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 1243 | 6977 | 17.8 | /mnt/stockage/packages/f30/libexif/po/uk.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1220 | 6977 | 17.5 | /mnt/stockage/packages/f30/libexif/po/fr.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 999 | 6977 | 14.3 | /mnt/stockage/packages/f30/libexif/po/zh_CN.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 997 | 6977 | 14.3 | /mnt/stockage/packages/f30/libexif/po/tr.po | 
- | [en_CA]({{< ref "/f30/language/en_CA.md" >}}) | 705 | 6977 | 10.1 | /mnt/stockage/packages/f30/libexif/po/en_CA.po | 
- | [be]({{< ref "/f30/language/be.md" >}}) | 610 | 6977 | 8.7 | /mnt/stockage/packages/f30/libexif/po/be.po | 
- | [sq]({{< ref "/f30/language/sq.md" >}}) | 458 | 6977 | 6.6 | /mnt/stockage/packages/f30/libexif/po/sq.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 420 | 6977 | 6.0 | /mnt/stockage/packages/f30/libexif/po/pt.po | 
+ | [da](/f30/language/da) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/da.po | 
+ | [pl](/f30/language/pl) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/pl.po | 
+ | [sk](/f30/language/sk) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/sk.po | 
+ | [vi](/f30/language/vi) | 6977 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/vi.po | 
+ | [de](/f30/language/de) | 6976 | 6977 | 100.0 | /mnt/stockage/packages/f30/libexif/po/de.po | 
+ | [bs](/f30/language/bs) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/bs.po | 
+ | [en_AU](/f30/language/en_AU) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/en_AU.po | 
+ | [en_GB](/f30/language/en_GB) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/en_GB.po | 
+ | [nl](/f30/language/nl) | 6930 | 6977 | 99.3 | /mnt/stockage/packages/f30/libexif/po/nl.po | 
+ | [it](/f30/language/it) | 5092 | 6977 | 73.0 | /mnt/stockage/packages/f30/libexif/po/it.po | 
+ | [sr](/f30/language/sr) | 3700 | 6977 | 53.0 | /mnt/stockage/packages/f30/libexif/po/sr.po | 
+ | [ru](/f30/language/ru) | 3546 | 6977 | 50.8 | /mnt/stockage/packages/f30/libexif/po/ru.po | 
+ | [cs](/f30/language/cs) | 3309 | 6977 | 47.4 | /mnt/stockage/packages/f30/libexif/po/cs.po | 
+ | [es](/f30/language/es) | 2517 | 6977 | 36.1 | /mnt/stockage/packages/f30/libexif/po/es.po | 
+ | [ja](/f30/language/ja) | 1894 | 6977 | 27.1 | /mnt/stockage/packages/f30/libexif/po/ja.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1746 | 6977 | 25.0 | /mnt/stockage/packages/f30/libexif/po/pt_BR.po | 
+ | [sv](/f30/language/sv) | 1540 | 6977 | 22.1 | /mnt/stockage/packages/f30/libexif/po/sv.po | 
+ | [uk](/f30/language/uk) | 1243 | 6977 | 17.8 | /mnt/stockage/packages/f30/libexif/po/uk.po | 
+ | [fr](/f30/language/fr) | 1220 | 6977 | 17.5 | /mnt/stockage/packages/f30/libexif/po/fr.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 999 | 6977 | 14.3 | /mnt/stockage/packages/f30/libexif/po/zh_CN.po | 
+ | [tr](/f30/language/tr) | 997 | 6977 | 14.3 | /mnt/stockage/packages/f30/libexif/po/tr.po | 
+ | [en_CA](/f30/language/en_CA) | 705 | 6977 | 10.1 | /mnt/stockage/packages/f30/libexif/po/en_CA.po | 
+ | [be](/f30/language/be) | 610 | 6977 | 8.7 | /mnt/stockage/packages/f30/libexif/po/be.po | 
+ | [sq](/f30/language/sq) | 458 | 6977 | 6.6 | /mnt/stockage/packages/f30/libexif/po/sq.po | 
+ | [pt](/f30/language/pt) | 420 | 6977 | 6.0 | /mnt/stockage/packages/f30/libexif/po/pt.po | 
 {.sortable}
 
 

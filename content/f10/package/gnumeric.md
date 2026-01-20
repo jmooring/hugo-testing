@@ -18,57 +18,57 @@ The package gnumeric (version 1.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 46050 | 46374 | 99.3 | /mnt/stockage/packages/f10/gnumeric/po/es.po/mnt/stockage/packages/f10/gnumeric/po-functions/es.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 45400 | 46374 | 97.9 | /mnt/stockage/packages/f10/gnumeric/po/vi.po/mnt/stockage/packages/f10/gnumeric/po-functions/vi.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 44825 | 46374 | 96.7 | /mnt/stockage/packages/f10/gnumeric/po/en_GB.po/mnt/stockage/packages/f10/gnumeric/po-functions/en_GB.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 44518 | 46374 | 96.0 | /mnt/stockage/packages/f10/gnumeric/po/dz.po/mnt/stockage/packages/f10/gnumeric/po-functions/dz.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 43911 | 46374 | 94.7 | /mnt/stockage/packages/f10/gnumeric/po/ne.po/mnt/stockage/packages/f10/gnumeric/po-functions/ne.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 43306 | 46374 | 93.4 | /mnt/stockage/packages/f10/gnumeric/po/pt_BR.po/mnt/stockage/packages/f10/gnumeric/po-functions/pt_BR.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 42982 | 46374 | 92.7 | /mnt/stockage/packages/f10/gnumeric/po/en_CA.po/mnt/stockage/packages/f10/gnumeric/po-functions/en_CA.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 39493 | 46374 | 85.2 | /mnt/stockage/packages/f10/gnumeric/po/nl.po/mnt/stockage/packages/f10/gnumeric/po-functions/nl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 37427 | 46374 | 80.7 | /mnt/stockage/packages/f10/gnumeric/po/fr.po/mnt/stockage/packages/f10/gnumeric/po-functions/fr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 36333 | 46374 | 78.3 | /mnt/stockage/packages/f10/gnumeric/po/sv.po/mnt/stockage/packages/f10/gnumeric/po-functions/sv.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 36297 | 46374 | 78.3 | /mnt/stockage/packages/f10/gnumeric/po/cs.po/mnt/stockage/packages/f10/gnumeric/po-functions/cs.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 35125 | 46374 | 75.7 | /mnt/stockage/packages/f10/gnumeric/po/ca.po/mnt/stockage/packages/f10/gnumeric/po-functions/ca.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 34465 | 46374 | 74.3 | /mnt/stockage/packages/f10/gnumeric/po/pt.po/mnt/stockage/packages/f10/gnumeric/po-functions/pt.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 33818 | 46374 | 72.9 | /mnt/stockage/packages/f10/gnumeric/po/de.po/mnt/stockage/packages/f10/gnumeric/po-functions/de.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 32346 | 46374 | 69.8 | /mnt/stockage/packages/f10/gnumeric/po/sk.po/mnt/stockage/packages/f10/gnumeric/po-functions/sk.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 29995 | 46374 | 64.7 | /mnt/stockage/packages/f10/gnumeric/po/hr.po/mnt/stockage/packages/f10/gnumeric/po-functions/hr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 29815 | 46374 | 64.3 | /mnt/stockage/packages/f10/gnumeric/po/ru.po/mnt/stockage/packages/f10/gnumeric/po-functions/ru.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 29760 | 46374 | 64.2 | /mnt/stockage/packages/f10/gnumeric/po/ja.po/mnt/stockage/packages/f10/gnumeric/po-functions/ja.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 29753 | 46374 | 64.2 | /mnt/stockage/packages/f10/gnumeric/po/tr.po/mnt/stockage/packages/f10/gnumeric/po-functions/tr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 29330 | 46374 | 63.2 | /mnt/stockage/packages/f10/gnumeric/po/zh_CN.po/mnt/stockage/packages/f10/gnumeric/po-functions/zh_CN.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 26821 | 46375 | 57.8 | /mnt/stockage/packages/f10/gnumeric/po/el.po/mnt/stockage/packages/f10/gnumeric/po-functions/el.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 26508 | 46374 | 57.2 | /mnt/stockage/packages/f10/gnumeric/po/et.po/mnt/stockage/packages/f10/gnumeric/po-functions/et.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 25495 | 46374 | 55.0 | /mnt/stockage/packages/f10/gnumeric/po/da.po/mnt/stockage/packages/f10/gnumeric/po-functions/da.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 24473 | 46361 | 52.8 | /mnt/stockage/packages/f10/gnumeric/po/pl.po/mnt/stockage/packages/f10/gnumeric/po-functions/pl.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 20223 | 46374 | 43.6 | /mnt/stockage/packages/f10/gnumeric/po/nb.po/mnt/stockage/packages/f10/gnumeric/po-functions/nb.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 17362 | 46374 | 37.4 | /mnt/stockage/packages/f10/gnumeric/po/zh_TW.po/mnt/stockage/packages/f10/gnumeric/po-functions/zh_TW.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 15359 | 46374 | 33.1 | /mnt/stockage/packages/f10/gnumeric/po/lt.po/mnt/stockage/packages/f10/gnumeric/po-functions/lt.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 15136 | 46374 | 32.6 | /mnt/stockage/packages/f10/gnumeric/po/uk.po/mnt/stockage/packages/f10/gnumeric/po-functions/uk.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 11891 | 46374 | 25.6 | /mnt/stockage/packages/f10/gnumeric/po/fi.po/mnt/stockage/packages/f10/gnumeric/po-functions/fi.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 11789 | 46374 | 25.4 | /mnt/stockage/packages/f10/gnumeric/po/it.po/mnt/stockage/packages/f10/gnumeric/po-functions/it.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 9215 | 46374 | 19.9 | /mnt/stockage/packages/f10/gnumeric/po/ko.po/mnt/stockage/packages/f10/gnumeric/po-functions/ko.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 9096 | 46374 | 19.6 | /mnt/stockage/packages/f10/gnumeric/po/hu.po/mnt/stockage/packages/f10/gnumeric/po-functions/hu.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 7252 | 46374 | 15.6 | /mnt/stockage/packages/f10/gnumeric/po/sr@Latn.po/mnt/stockage/packages/f10/gnumeric/po-functions/sr@Latn.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 7252 | 46374 | 15.6 | /mnt/stockage/packages/f10/gnumeric/po/sr.po/mnt/stockage/packages/f10/gnumeric/po-functions/sr.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 5737 | 46374 | 12.4 | /mnt/stockage/packages/f10/gnumeric/po/bg.po/mnt/stockage/packages/f10/gnumeric/po-functions/bg.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 4628 | 46374 | 10.0 | /mnt/stockage/packages/f10/gnumeric/po/nn.po/mnt/stockage/packages/f10/gnumeric/po-functions/nn.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 4017 | 46374 | 8.7 | /mnt/stockage/packages/f10/gnumeric/po/mk.po/mnt/stockage/packages/f10/gnumeric/po-functions/mk.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 2878 | 46374 | 6.2 | /mnt/stockage/packages/f10/gnumeric/po/ro.po/mnt/stockage/packages/f10/gnumeric/po-functions/ro.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 2446 | 46374 | 5.3 | /mnt/stockage/packages/f10/gnumeric/po/ml.po/mnt/stockage/packages/f10/gnumeric/po-functions/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 2395 | 46374 | 5.2 | /mnt/stockage/packages/f10/gnumeric/po/mr.po/mnt/stockage/packages/f10/gnumeric/po-functions/mr.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 2163 | 46374 | 4.7 | /mnt/stockage/packages/f10/gnumeric/po/ms.po/mnt/stockage/packages/f10/gnumeric/po-functions/ms.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 1546 | 46374 | 3.3 | /mnt/stockage/packages/f10/gnumeric/po/te.po/mnt/stockage/packages/f10/gnumeric/po-functions/te.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 1243 | 46374 | 2.7 | /mnt/stockage/packages/f10/gnumeric/po/gl.po/mnt/stockage/packages/f10/gnumeric/po-functions/gl.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 934 | 46374 | 2.0 | /mnt/stockage/packages/f10/gnumeric/po/he.po/mnt/stockage/packages/f10/gnumeric/po-functions/he.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 584 | 46374 | 1.3 | /mnt/stockage/packages/f10/gnumeric/po/ga.po/mnt/stockage/packages/f10/gnumeric/po-functions/ga.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 533 | 46374 | 1.1 | /mnt/stockage/packages/f10/gnumeric/po/oc.po/mnt/stockage/packages/f10/gnumeric/po-functions/oc.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 467 | 46374 | 1.0 | /mnt/stockage/packages/f10/gnumeric/po/lv.po/mnt/stockage/packages/f10/gnumeric/po-functions/lv.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 442 | 46374 | 1.0 | /mnt/stockage/packages/f10/gnumeric/po/az.po/mnt/stockage/packages/f10/gnumeric/po-functions/az.po | 
- | [am]({{< ref "/f10/language/am.md" >}}) | 432 | 46374 | 0.9 | /mnt/stockage/packages/f10/gnumeric/po/am.po/mnt/stockage/packages/f10/gnumeric/po-functions/am.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 323 | 46374 | 0.7 | /mnt/stockage/packages/f10/gnumeric/po/ar.po/mnt/stockage/packages/f10/gnumeric/po-functions/ar.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 315 | 46374 | 0.7 | /mnt/stockage/packages/f10/gnumeric/po/rw.po/mnt/stockage/packages/f10/gnumeric/po-functions/rw.po | 
+ | [es](/f10/language/es) | 46050 | 46374 | 99.3 | /mnt/stockage/packages/f10/gnumeric/po/es.po/mnt/stockage/packages/f10/gnumeric/po-functions/es.po | 
+ | [vi](/f10/language/vi) | 45400 | 46374 | 97.9 | /mnt/stockage/packages/f10/gnumeric/po/vi.po/mnt/stockage/packages/f10/gnumeric/po-functions/vi.po | 
+ | [en_GB](/f10/language/en_GB) | 44825 | 46374 | 96.7 | /mnt/stockage/packages/f10/gnumeric/po/en_GB.po/mnt/stockage/packages/f10/gnumeric/po-functions/en_GB.po | 
+ | [dz](/f10/language/dz) | 44518 | 46374 | 96.0 | /mnt/stockage/packages/f10/gnumeric/po/dz.po/mnt/stockage/packages/f10/gnumeric/po-functions/dz.po | 
+ | [ne](/f10/language/ne) | 43911 | 46374 | 94.7 | /mnt/stockage/packages/f10/gnumeric/po/ne.po/mnt/stockage/packages/f10/gnumeric/po-functions/ne.po | 
+ | [pt_BR](/f10/language/pt_BR) | 43306 | 46374 | 93.4 | /mnt/stockage/packages/f10/gnumeric/po/pt_BR.po/mnt/stockage/packages/f10/gnumeric/po-functions/pt_BR.po | 
+ | [en_CA](/f10/language/en_CA) | 42982 | 46374 | 92.7 | /mnt/stockage/packages/f10/gnumeric/po/en_CA.po/mnt/stockage/packages/f10/gnumeric/po-functions/en_CA.po | 
+ | [nl](/f10/language/nl) | 39493 | 46374 | 85.2 | /mnt/stockage/packages/f10/gnumeric/po/nl.po/mnt/stockage/packages/f10/gnumeric/po-functions/nl.po | 
+ | [fr](/f10/language/fr) | 37427 | 46374 | 80.7 | /mnt/stockage/packages/f10/gnumeric/po/fr.po/mnt/stockage/packages/f10/gnumeric/po-functions/fr.po | 
+ | [sv](/f10/language/sv) | 36333 | 46374 | 78.3 | /mnt/stockage/packages/f10/gnumeric/po/sv.po/mnt/stockage/packages/f10/gnumeric/po-functions/sv.po | 
+ | [cs](/f10/language/cs) | 36297 | 46374 | 78.3 | /mnt/stockage/packages/f10/gnumeric/po/cs.po/mnt/stockage/packages/f10/gnumeric/po-functions/cs.po | 
+ | [ca](/f10/language/ca) | 35125 | 46374 | 75.7 | /mnt/stockage/packages/f10/gnumeric/po/ca.po/mnt/stockage/packages/f10/gnumeric/po-functions/ca.po | 
+ | [pt](/f10/language/pt) | 34465 | 46374 | 74.3 | /mnt/stockage/packages/f10/gnumeric/po/pt.po/mnt/stockage/packages/f10/gnumeric/po-functions/pt.po | 
+ | [de](/f10/language/de) | 33818 | 46374 | 72.9 | /mnt/stockage/packages/f10/gnumeric/po/de.po/mnt/stockage/packages/f10/gnumeric/po-functions/de.po | 
+ | [sk](/f10/language/sk) | 32346 | 46374 | 69.8 | /mnt/stockage/packages/f10/gnumeric/po/sk.po/mnt/stockage/packages/f10/gnumeric/po-functions/sk.po | 
+ | [hr](/f10/language/hr) | 29995 | 46374 | 64.7 | /mnt/stockage/packages/f10/gnumeric/po/hr.po/mnt/stockage/packages/f10/gnumeric/po-functions/hr.po | 
+ | [ru](/f10/language/ru) | 29815 | 46374 | 64.3 | /mnt/stockage/packages/f10/gnumeric/po/ru.po/mnt/stockage/packages/f10/gnumeric/po-functions/ru.po | 
+ | [ja](/f10/language/ja) | 29760 | 46374 | 64.2 | /mnt/stockage/packages/f10/gnumeric/po/ja.po/mnt/stockage/packages/f10/gnumeric/po-functions/ja.po | 
+ | [tr](/f10/language/tr) | 29753 | 46374 | 64.2 | /mnt/stockage/packages/f10/gnumeric/po/tr.po/mnt/stockage/packages/f10/gnumeric/po-functions/tr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 29330 | 46374 | 63.2 | /mnt/stockage/packages/f10/gnumeric/po/zh_CN.po/mnt/stockage/packages/f10/gnumeric/po-functions/zh_CN.po | 
+ | [el](/f10/language/el) | 26821 | 46375 | 57.8 | /mnt/stockage/packages/f10/gnumeric/po/el.po/mnt/stockage/packages/f10/gnumeric/po-functions/el.po | 
+ | [et](/f10/language/et) | 26508 | 46374 | 57.2 | /mnt/stockage/packages/f10/gnumeric/po/et.po/mnt/stockage/packages/f10/gnumeric/po-functions/et.po | 
+ | [da](/f10/language/da) | 25495 | 46374 | 55.0 | /mnt/stockage/packages/f10/gnumeric/po/da.po/mnt/stockage/packages/f10/gnumeric/po-functions/da.po | 
+ | [pl](/f10/language/pl) | 24473 | 46361 | 52.8 | /mnt/stockage/packages/f10/gnumeric/po/pl.po/mnt/stockage/packages/f10/gnumeric/po-functions/pl.po | 
+ | [nb_NO](/f10/language/nb_NO) | 20223 | 46374 | 43.6 | /mnt/stockage/packages/f10/gnumeric/po/nb.po/mnt/stockage/packages/f10/gnumeric/po-functions/nb.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 17362 | 46374 | 37.4 | /mnt/stockage/packages/f10/gnumeric/po/zh_TW.po/mnt/stockage/packages/f10/gnumeric/po-functions/zh_TW.po | 
+ | [lt](/f10/language/lt) | 15359 | 46374 | 33.1 | /mnt/stockage/packages/f10/gnumeric/po/lt.po/mnt/stockage/packages/f10/gnumeric/po-functions/lt.po | 
+ | [uk](/f10/language/uk) | 15136 | 46374 | 32.6 | /mnt/stockage/packages/f10/gnumeric/po/uk.po/mnt/stockage/packages/f10/gnumeric/po-functions/uk.po | 
+ | [fi](/f10/language/fi) | 11891 | 46374 | 25.6 | /mnt/stockage/packages/f10/gnumeric/po/fi.po/mnt/stockage/packages/f10/gnumeric/po-functions/fi.po | 
+ | [it](/f10/language/it) | 11789 | 46374 | 25.4 | /mnt/stockage/packages/f10/gnumeric/po/it.po/mnt/stockage/packages/f10/gnumeric/po-functions/it.po | 
+ | [ko](/f10/language/ko) | 9215 | 46374 | 19.9 | /mnt/stockage/packages/f10/gnumeric/po/ko.po/mnt/stockage/packages/f10/gnumeric/po-functions/ko.po | 
+ | [hu](/f10/language/hu) | 9096 | 46374 | 19.6 | /mnt/stockage/packages/f10/gnumeric/po/hu.po/mnt/stockage/packages/f10/gnumeric/po-functions/hu.po | 
+ | [error](/f10/language/error) | 7252 | 46374 | 15.6 | /mnt/stockage/packages/f10/gnumeric/po/sr@Latn.po/mnt/stockage/packages/f10/gnumeric/po-functions/sr@Latn.po | 
+ | [sr](/f10/language/sr) | 7252 | 46374 | 15.6 | /mnt/stockage/packages/f10/gnumeric/po/sr.po/mnt/stockage/packages/f10/gnumeric/po-functions/sr.po | 
+ | [bg](/f10/language/bg) | 5737 | 46374 | 12.4 | /mnt/stockage/packages/f10/gnumeric/po/bg.po/mnt/stockage/packages/f10/gnumeric/po-functions/bg.po | 
+ | [nn](/f10/language/nn) | 4628 | 46374 | 10.0 | /mnt/stockage/packages/f10/gnumeric/po/nn.po/mnt/stockage/packages/f10/gnumeric/po-functions/nn.po | 
+ | [mk](/f10/language/mk) | 4017 | 46374 | 8.7 | /mnt/stockage/packages/f10/gnumeric/po/mk.po/mnt/stockage/packages/f10/gnumeric/po-functions/mk.po | 
+ | [ro](/f10/language/ro) | 2878 | 46374 | 6.2 | /mnt/stockage/packages/f10/gnumeric/po/ro.po/mnt/stockage/packages/f10/gnumeric/po-functions/ro.po | 
+ | [ml](/f10/language/ml) | 2446 | 46374 | 5.3 | /mnt/stockage/packages/f10/gnumeric/po/ml.po/mnt/stockage/packages/f10/gnumeric/po-functions/ml.po | 
+ | [mr](/f10/language/mr) | 2395 | 46374 | 5.2 | /mnt/stockage/packages/f10/gnumeric/po/mr.po/mnt/stockage/packages/f10/gnumeric/po-functions/mr.po | 
+ | [ms](/f10/language/ms) | 2163 | 46374 | 4.7 | /mnt/stockage/packages/f10/gnumeric/po/ms.po/mnt/stockage/packages/f10/gnumeric/po-functions/ms.po | 
+ | [te](/f10/language/te) | 1546 | 46374 | 3.3 | /mnt/stockage/packages/f10/gnumeric/po/te.po/mnt/stockage/packages/f10/gnumeric/po-functions/te.po | 
+ | [gl](/f10/language/gl) | 1243 | 46374 | 2.7 | /mnt/stockage/packages/f10/gnumeric/po/gl.po/mnt/stockage/packages/f10/gnumeric/po-functions/gl.po | 
+ | [he](/f10/language/he) | 934 | 46374 | 2.0 | /mnt/stockage/packages/f10/gnumeric/po/he.po/mnt/stockage/packages/f10/gnumeric/po-functions/he.po | 
+ | [ga](/f10/language/ga) | 584 | 46374 | 1.3 | /mnt/stockage/packages/f10/gnumeric/po/ga.po/mnt/stockage/packages/f10/gnumeric/po-functions/ga.po | 
+ | [oc](/f10/language/oc) | 533 | 46374 | 1.1 | /mnt/stockage/packages/f10/gnumeric/po/oc.po/mnt/stockage/packages/f10/gnumeric/po-functions/oc.po | 
+ | [lv](/f10/language/lv) | 467 | 46374 | 1.0 | /mnt/stockage/packages/f10/gnumeric/po/lv.po/mnt/stockage/packages/f10/gnumeric/po-functions/lv.po | 
+ | [az](/f10/language/az) | 442 | 46374 | 1.0 | /mnt/stockage/packages/f10/gnumeric/po/az.po/mnt/stockage/packages/f10/gnumeric/po-functions/az.po | 
+ | [am](/f10/language/am) | 432 | 46374 | 0.9 | /mnt/stockage/packages/f10/gnumeric/po/am.po/mnt/stockage/packages/f10/gnumeric/po-functions/am.po | 
+ | [ar](/f10/language/ar) | 323 | 46374 | 0.7 | /mnt/stockage/packages/f10/gnumeric/po/ar.po/mnt/stockage/packages/f10/gnumeric/po-functions/ar.po | 
+ | [rw](/f10/language/rw) | 315 | 46374 | 0.7 | /mnt/stockage/packages/f10/gnumeric/po/rw.po/mnt/stockage/packages/f10/gnumeric/po-functions/rw.po | 
 {.sortable}
 
 

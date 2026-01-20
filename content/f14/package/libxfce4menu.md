@@ -18,43 +18,43 @@ The package libxfce4menu (version 4.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ast.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ja.po | 
- | [kk]({{< ref "/f14/language/kk.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/kk.po | 
- | [ku]({{< ref "/f14/language/ku.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ku.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/lv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/nb.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/nl.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/nn.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ru.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/tr.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ug.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/uk.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ur.po | 
- | [ur_PK]({{< ref "/f14/language/ur_PK.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/zh_CN.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 15 | 31 | 48.4 | /mnt/stockage/packages/f14/libxfce4menu/po/sq.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 2 | 31 | 6.5 | /mnt/stockage/packages/f14/libxfce4menu/po/am.po | 
+ | [ast](/f14/language/ast) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ast.po | 
+ | [ca](/f14/language/ca) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ca.po | 
+ | [cs](/f14/language/cs) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/cs.po | 
+ | [da](/f14/language/da) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/da.po | 
+ | [de](/f14/language/de) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/de.po | 
+ | [el](/f14/language/el) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/en_GB.po | 
+ | [es](/f14/language/es) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/es.po | 
+ | [eu](/f14/language/eu) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/eu.po | 
+ | [fi](/f14/language/fi) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/fi.po | 
+ | [fr](/f14/language/fr) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/fr.po | 
+ | [gl](/f14/language/gl) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/gl.po | 
+ | [hu](/f14/language/hu) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/hu.po | 
+ | [id](/f14/language/id) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/id.po | 
+ | [it](/f14/language/it) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/it.po | 
+ | [ja](/f14/language/ja) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ja.po | 
+ | [kk](/f14/language/kk) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/kk.po | 
+ | [ku](/f14/language/ku) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ku.po | 
+ | [lv](/f14/language/lv) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/lv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/nb.po | 
+ | [nl](/f14/language/nl) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/nl.po | 
+ | [nn](/f14/language/nn) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/nn.po | 
+ | [pa](/f14/language/pa) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pa.po | 
+ | [pl](/f14/language/pl) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pl.po | 
+ | [pt](/f14/language/pt) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ro.po | 
+ | [ru](/f14/language/ru) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ru.po | 
+ | [sv](/f14/language/sv) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/sv.po | 
+ | [tr](/f14/language/tr) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/tr.po | 
+ | [ug](/f14/language/ug) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ug.po | 
+ | [uk](/f14/language/uk) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/uk.po | 
+ | [ur](/f14/language/ur) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ur.po | 
+ | [ur_PK](/f14/language/ur_PK) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/ur_PK.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 31 | 31 | 100.0 | /mnt/stockage/packages/f14/libxfce4menu/po/zh_CN.po | 
+ | [sq](/f14/language/sq) | 15 | 31 | 48.4 | /mnt/stockage/packages/f14/libxfce4menu/po/sq.po | 
+ | [am](/f14/language/am) | 2 | 31 | 6.5 | /mnt/stockage/packages/f14/libxfce4menu/po/am.po | 
 {.sortable}
 
 

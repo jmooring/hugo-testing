@@ -18,37 +18,37 @@ The package libgedit-amtk (version 5.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f43/language/be.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/be.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/eu.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/fur.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/id.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ka.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/lt.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ms.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ru.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 348 | 348 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/zh_CN.po | 
+ | [be](/f43/language/be) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/be.po | 
+ | [ca](/f43/language/ca) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ca.po | 
+ | [cs](/f43/language/cs) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/cs.po | 
+ | [da](/f43/language/da) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/da.po | 
+ | [de](/f43/language/de) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/de.po | 
+ | [el](/f43/language/el) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/en_GB.po | 
+ | [es](/f43/language/es) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/es.po | 
+ | [eu](/f43/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/eu.po | 
+ | [fr](/f43/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/fr.po | 
+ | [fur](/f43/language/fur) | 125 | 125 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/fur.po | 
+ | [hr](/f43/language/hr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/hr.po | 
+ | [hu](/f43/language/hu) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/hu.po | 
+ | [id](/f43/language/id) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/id.po | 
+ | [it](/f43/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/it.po | 
+ | [ja](/f43/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ja.po | 
+ | [ka](/f43/language/ka) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ka.po | 
+ | [lt](/f43/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/lt.po | 
+ | [ms](/f43/language/ms) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ms.po | 
+ | [nl](/f43/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/nl.po | 
+ | [pl](/f43/language/pl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/pl.po | 
+ | [pt](/f43/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ro.po | 
+ | [ru](/f43/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/ru.po | 
+ | [sl](/f43/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/sl.po | 
+ | [sr](/f43/language/sr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/sr.po | 
+ | [sv](/f43/language/sv) | 228 | 228 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/sv.po | 
+ | [tr](/f43/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/tr.po | 
+ | [uk](/f43/language/uk) | 348 | 348 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f43/libgedit-amtk/po/zh_CN.po | 
 {.sortable}
 
 

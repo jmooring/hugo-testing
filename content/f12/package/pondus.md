@@ -18,12 +18,12 @@ The package pondus (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/it.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/sv.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 246 | 321 | 76.6 | /mnt/stockage/packages/f12/pondus/po/fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 245 | 321 | 76.3 | /mnt/stockage/packages/f12/pondus/po/pl.po | 
+ | [de](/f12/language/de) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/de.po | 
+ | [es](/f12/language/es) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/es.po | 
+ | [it](/f12/language/it) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/it.po | 
+ | [sv](/f12/language/sv) | 321 | 321 | 100.0 | /mnt/stockage/packages/f12/pondus/po/sv.po | 
+ | [fr](/f12/language/fr) | 246 | 321 | 76.6 | /mnt/stockage/packages/f12/pondus/po/fr.po | 
+ | [pl](/f12/language/pl) | 245 | 321 | 76.3 | /mnt/stockage/packages/f12/pondus/po/pl.po | 
 {.sortable}
 
 

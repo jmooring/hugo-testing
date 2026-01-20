@@ -18,12 +18,12 @@ The package piklab (version 0.15.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 6339 | 6629 | 95.6 | /mnt/stockage/packages/f9/piklab/po/fr.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 5479 | 6629 | 82.7 | /mnt/stockage/packages/f9/piklab/po/cs.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 2218 | 6629 | 33.5 | /mnt/stockage/packages/f9/piklab/po/hu.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1683 | 6629 | 25.4 | /mnt/stockage/packages/f9/piklab/po/de.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1097 | 6629 | 16.5 | /mnt/stockage/packages/f9/piklab/po/it.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1045 | 6629 | 15.8 | /mnt/stockage/packages/f9/piklab/po/es.po | 
+ | [fr](/f9/language/fr) | 6339 | 6629 | 95.6 | /mnt/stockage/packages/f9/piklab/po/fr.po | 
+ | [cs](/f9/language/cs) | 5479 | 6629 | 82.7 | /mnt/stockage/packages/f9/piklab/po/cs.po | 
+ | [hu](/f9/language/hu) | 2218 | 6629 | 33.5 | /mnt/stockage/packages/f9/piklab/po/hu.po | 
+ | [de](/f9/language/de) | 1683 | 6629 | 25.4 | /mnt/stockage/packages/f9/piklab/po/de.po | 
+ | [it](/f9/language/it) | 1097 | 6629 | 16.5 | /mnt/stockage/packages/f9/piklab/po/it.po | 
+ | [es](/f9/language/es) | 1045 | 6629 | 15.8 | /mnt/stockage/packages/f9/piklab/po/es.po | 
 {.sortable}
 
 

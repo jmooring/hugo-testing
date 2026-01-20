@@ -18,22 +18,22 @@ The package gawk (version 4.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/it.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/pt_BR.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/sv.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/zh_CN.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 4709 | 4761 | 98.9 | /mnt/stockage/packages/f29/gawk/po/de.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 4591 | 4761 | 96.4 | /mnt/stockage/packages/f29/gawk/po/fi.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 4272 | 4761 | 89.7 | /mnt/stockage/packages/f29/gawk/po/ca.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 4272 | 4761 | 89.7 | /mnt/stockage/packages/f29/gawk/po/nl.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 4100 | 4761 | 86.1 | /mnt/stockage/packages/f29/gawk/po/id.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 3425 | 4761 | 71.9 | /mnt/stockage/packages/f29/gawk/po/pl.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 2813 | 4761 | 59.1 | /mnt/stockage/packages/f29/gawk/po/da.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 2507 | 4761 | 52.7 | /mnt/stockage/packages/f29/gawk/po/ja.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 2356 | 4761 | 49.5 | /mnt/stockage/packages/f29/gawk/po/es.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 36 | 4761 | 0.8 | /mnt/stockage/packages/f29/gawk/po/ms.po | 
+ | [fr](/f29/language/fr) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/fr.po | 
+ | [it](/f29/language/it) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/it.po | 
+ | [pt_BR](/f29/language/pt_BR) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/pt_BR.po | 
+ | [sv](/f29/language/sv) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/sv.po | 
+ | [vi](/f29/language/vi) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f29/gawk/po/zh_CN.po | 
+ | [de](/f29/language/de) | 4709 | 4761 | 98.9 | /mnt/stockage/packages/f29/gawk/po/de.po | 
+ | [fi](/f29/language/fi) | 4591 | 4761 | 96.4 | /mnt/stockage/packages/f29/gawk/po/fi.po | 
+ | [ca](/f29/language/ca) | 4272 | 4761 | 89.7 | /mnt/stockage/packages/f29/gawk/po/ca.po | 
+ | [nl](/f29/language/nl) | 4272 | 4761 | 89.7 | /mnt/stockage/packages/f29/gawk/po/nl.po | 
+ | [id](/f29/language/id) | 4100 | 4761 | 86.1 | /mnt/stockage/packages/f29/gawk/po/id.po | 
+ | [pl](/f29/language/pl) | 3425 | 4761 | 71.9 | /mnt/stockage/packages/f29/gawk/po/pl.po | 
+ | [da](/f29/language/da) | 2813 | 4761 | 59.1 | /mnt/stockage/packages/f29/gawk/po/da.po | 
+ | [ja](/f29/language/ja) | 2507 | 4761 | 52.7 | /mnt/stockage/packages/f29/gawk/po/ja.po | 
+ | [es](/f29/language/es) | 2356 | 4761 | 49.5 | /mnt/stockage/packages/f29/gawk/po/es.po | 
+ | [ms](/f29/language/ms) | 36 | 4761 | 0.8 | /mnt/stockage/packages/f29/gawk/po/ms.po | 
 {.sortable}
 
 

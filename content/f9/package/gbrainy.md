@@ -18,16 +18,16 @@ The package gbrainy (version 0.61):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/ca.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/de.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/it.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/nl.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 1873 | 2039 | 91.9 | /mnt/stockage/packages/f9/gbrainy/po/gl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1159 | 1864 | 62.2 | /mnt/stockage/packages/f9/gbrainy/po/sv.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 80 | 1676 | 4.8 | /mnt/stockage/packages/f9/gbrainy/po/ar.po | 
+ | [ca](/f9/language/ca) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/ca.po | 
+ | [de](/f9/language/de) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/de.po | 
+ | [en_GB](/f9/language/en_GB) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/en_GB.po | 
+ | [es](/f9/language/es) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/es.po | 
+ | [fr](/f9/language/fr) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/fr.po | 
+ | [it](/f9/language/it) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/it.po | 
+ | [nl](/f9/language/nl) | 2033 | 2033 | 100.0 | /mnt/stockage/packages/f9/gbrainy/po/nl.po | 
+ | [gl](/f9/language/gl) | 1873 | 2039 | 91.9 | /mnt/stockage/packages/f9/gbrainy/po/gl.po | 
+ | [sv](/f9/language/sv) | 1159 | 1864 | 62.2 | /mnt/stockage/packages/f9/gbrainy/po/sv.po | 
+ | [ar](/f9/language/ar) | 80 | 1676 | 4.8 | /mnt/stockage/packages/f9/gbrainy/po/ar.po | 
 {.sortable}
 
 

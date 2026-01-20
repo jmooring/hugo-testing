@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dnf-plugin-system-upgrade]({{< ref "/f22/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Angika | 
- | [entangle]({{< ref "/f22/package/entangle.md" >}}) | 0 | 934 | 0.0 | Angika | 
- | [libosinfo]({{< ref "/f22/package/libosinfo.md" >}}) | 0 | 1871 | 0.0 | Angika | 
- | [libvirt-glib]({{< ref "/f22/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Angika | 
- | [libvirt-sandbox]({{< ref "/f22/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f22/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f22/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
+ | [dnf-plugin-system-upgrade](/f22/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Angika | 
+ | [entangle](/f22/package/entangle) | 0 | 934 | 0.0 | Angika | 
+ | [libosinfo](/f22/package/libosinfo) | 0 | 1871 | 0.0 | Angika | 
+ | [libvirt-glib](/f22/package/libvirt-glib) | 0 | 138 | 0.0 | Angika | 
+ | [libvirt-sandbox](/f22/package/libvirt-sandbox) | 0 | 617 | 0.0 | Angika | 
+ | [python-fedora](/f22/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f22/package/python-meh) | 0 | 109 | 0.0 | Angika | 
 {.sortable}
 
 

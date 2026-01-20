@@ -18,9 +18,9 @@ The package laditools (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f19/language/it.md" >}}) | 212 | 376 | 56.4 | /mnt/stockage/packages/f19/laditools/po/it.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 121 | 376 | 32.2 | /mnt/stockage/packages/f19/laditools/po/es.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 4 | 376 | 1.1 | /mnt/stockage/packages/f19/laditools/po/pt.po | 
+ | [it](/f19/language/it) | 212 | 376 | 56.4 | /mnt/stockage/packages/f19/laditools/po/it.po | 
+ | [es](/f19/language/es) | 121 | 376 | 32.2 | /mnt/stockage/packages/f19/laditools/po/es.po | 
+ | [pt](/f19/language/pt) | 4 | 376 | 1.1 | /mnt/stockage/packages/f19/laditools/po/pt.po | 
 {.sortable}
 
 

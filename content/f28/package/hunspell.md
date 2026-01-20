@@ -18,11 +18,11 @@ The package hunspell (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/hunspell/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/hunspell/po/es.po | 
- | [tg]({{< ref "/f28/language/tg.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/hunspell/po/tg.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 598 | 613 | 97.6 | /mnt/stockage/packages/f28/hunspell/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 496 | 613 | 80.9 | /mnt/stockage/packages/f28/hunspell/po/it.po | 
+ | [de](/f28/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/hunspell/po/de.po | 
+ | [es](/f28/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/hunspell/po/es.po | 
+ | [tg](/f28/language/tg) | 613 | 613 | 100.0 | /mnt/stockage/packages/f28/hunspell/po/tg.po | 
+ | [hu](/f28/language/hu) | 598 | 613 | 97.6 | /mnt/stockage/packages/f28/hunspell/po/hu.po | 
+ | [it](/f28/language/it) | 496 | 613 | 80.9 | /mnt/stockage/packages/f28/hunspell/po/it.po | 
 {.sortable}
 
 

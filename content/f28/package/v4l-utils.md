@@ -18,8 +18,8 @@ The package v4l-utils (version 1.14.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 2325 | 2754 | 84.4 | /mnt/stockage/packages/f28/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f28/v4l-utils/v4l-utils-po/de.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2325 | 2754 | 84.4 | /mnt/stockage/packages/f28/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f28/v4l-utils/v4l-utils-po/pt_BR.po | 
+ | [de](/f28/language/de) | 2325 | 2754 | 84.4 | /mnt/stockage/packages/f28/v4l-utils/libdvbv5-po/de.po/mnt/stockage/packages/f28/v4l-utils/v4l-utils-po/de.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2325 | 2754 | 84.4 | /mnt/stockage/packages/f28/v4l-utils/libdvbv5-po/pt_BR.po/mnt/stockage/packages/f28/v4l-utils/v4l-utils-po/pt_BR.po | 
 {.sortable}
 
 

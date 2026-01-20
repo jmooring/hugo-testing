@@ -18,30 +18,30 @@ The package osmo (version 0.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1699 | 1699 | 100.0 | /mnt/stockage/packages/f20/osmo/po/fr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1696 | 1699 | 99.8 | /mnt/stockage/packages/f20/osmo/po/uk.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/cs.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/de.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/en_GB.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ja.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ru.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ur.po | 
- | [ur_PK]({{< ref "/f20/language/ur_PK.md" >}}) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ur_PK.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 1683 | 1699 | 99.1 | /mnt/stockage/packages/f20/osmo/po/bg.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 1585 | 1699 | 93.3 | /mnt/stockage/packages/f20/osmo/po/da.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1570 | 1699 | 92.4 | /mnt/stockage/packages/f20/osmo/po/zh_CN.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 1564 | 1699 | 92.1 | /mnt/stockage/packages/f20/osmo/po/hu.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1564 | 1699 | 92.1 | /mnt/stockage/packages/f20/osmo/po/tr.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 1290 | 1699 | 75.9 | /mnt/stockage/packages/f20/osmo/po/fi.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1287 | 1699 | 75.8 | /mnt/stockage/packages/f20/osmo/po/ca.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 1286 | 1699 | 75.7 | /mnt/stockage/packages/f20/osmo/po/el.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1238 | 1699 | 72.9 | /mnt/stockage/packages/f20/osmo/po/sv.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 1011 | 1699 | 59.5 | /mnt/stockage/packages/f20/osmo/po/lt.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 949 | 1699 | 55.9 | /mnt/stockage/packages/f20/osmo/po/pt.po | 
+ | [fr](/f20/language/fr) | 1699 | 1699 | 100.0 | /mnt/stockage/packages/f20/osmo/po/fr.po | 
+ | [uk](/f20/language/uk) | 1696 | 1699 | 99.8 | /mnt/stockage/packages/f20/osmo/po/uk.po | 
+ | [cs](/f20/language/cs) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/cs.po | 
+ | [de](/f20/language/de) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/de.po | 
+ | [en_GB](/f20/language/en_GB) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/en_GB.po | 
+ | [es](/f20/language/es) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/es.po | 
+ | [it](/f20/language/it) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/it.po | 
+ | [ja](/f20/language/ja) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ja.po | 
+ | [nl](/f20/language/nl) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/nl.po | 
+ | [pl](/f20/language/pl) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/pl.po | 
+ | [ru](/f20/language/ru) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ru.po | 
+ | [ur](/f20/language/ur) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ur.po | 
+ | [ur_PK](/f20/language/ur_PK) | 1685 | 1699 | 99.2 | /mnt/stockage/packages/f20/osmo/po/ur_PK.po | 
+ | [bg](/f20/language/bg) | 1683 | 1699 | 99.1 | /mnt/stockage/packages/f20/osmo/po/bg.po | 
+ | [da](/f20/language/da) | 1585 | 1699 | 93.3 | /mnt/stockage/packages/f20/osmo/po/da.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1570 | 1699 | 92.4 | /mnt/stockage/packages/f20/osmo/po/zh_CN.po | 
+ | [hu](/f20/language/hu) | 1564 | 1699 | 92.1 | /mnt/stockage/packages/f20/osmo/po/hu.po | 
+ | [tr](/f20/language/tr) | 1564 | 1699 | 92.1 | /mnt/stockage/packages/f20/osmo/po/tr.po | 
+ | [fi](/f20/language/fi) | 1290 | 1699 | 75.9 | /mnt/stockage/packages/f20/osmo/po/fi.po | 
+ | [ca](/f20/language/ca) | 1287 | 1699 | 75.8 | /mnt/stockage/packages/f20/osmo/po/ca.po | 
+ | [el](/f20/language/el) | 1286 | 1699 | 75.7 | /mnt/stockage/packages/f20/osmo/po/el.po | 
+ | [sv](/f20/language/sv) | 1238 | 1699 | 72.9 | /mnt/stockage/packages/f20/osmo/po/sv.po | 
+ | [lt](/f20/language/lt) | 1011 | 1699 | 59.5 | /mnt/stockage/packages/f20/osmo/po/lt.po | 
+ | [pt](/f20/language/pt) | 949 | 1699 | 55.9 | /mnt/stockage/packages/f20/osmo/po/pt.po | 
 {.sortable}
 
 

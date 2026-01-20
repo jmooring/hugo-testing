@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f17/package/supertux.md" >}}) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
- | [ganyremote]({{< ref "/f17/package/ganyremote.md" >}}) | 485 | 495 | 98.0 | Austrian | 
- | [kanyremote]({{< ref "/f17/package/kanyremote.md" >}}) | 461 | 476 | 96.8 | Austrian | 
- | [gnomebaker]({{< ref "/f17/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [fuse-encfs]({{< ref "/f17/package/fuse-encfs.md" >}}) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
- | [pingus]({{< ref "/f17/package/pingus.md" >}}) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
- | [gourmet]({{< ref "/f17/package/gourmet.md" >}}) | 2256 | 3647 | 61.9 | German (Austria) <de_AT@li.org> | 
- | [perl-libintl]({{< ref "/f17/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [gpsdrive]({{< ref "/f17/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [texlive]({{< ref "/f17/package/texlive.md" >}}) | 1 | 4382 | 0.0 | German <de@li.org> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [supertux](/f17/package/supertux) | 17 | 17 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [ganyremote](/f17/package/ganyremote) | 485 | 495 | 98.0 | Austrian | 
+ | [kanyremote](/f17/package/kanyremote) | 461 | 476 | 96.8 | Austrian | 
+ | [gnomebaker](/f17/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [fuse-encfs](/f17/package/fuse-encfs) | 1080 | 1315 | 82.1 | German (Austria) <de_AT@li.org> | 
+ | [pingus](/f17/package/pingus) | 17 | 25 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [gourmet](/f17/package/gourmet) | 2256 | 3647 | 61.9 | German (Austria) <de_AT@li.org> | 
+ | [perl-libintl](/f17/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [gpsdrive](/f17/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [texlive](/f17/package/texlive) | 1 | 4382 | 0.0 | German <de@li.org> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

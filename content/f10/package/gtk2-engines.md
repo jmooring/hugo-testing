@@ -18,60 +18,60 @@ The package gtk2-engines (version 2.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ar.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/be@latin.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/bg.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/cs.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/el.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/fr.po | 
- | [fur]({{< ref "/f10/language/fur.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/fur.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/gu.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/he.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/lt.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/nn.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ru.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/si.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/te.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/zh_HK.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 80 | 99 | 80.8 | /mnt/stockage/packages/f10/gtk2-engines/po/et.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 77 | 99 | 77.8 | /mnt/stockage/packages/f10/gtk2-engines/po/hi.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 14 | 99 | 14.1 | /mnt/stockage/packages/f10/gtk2-engines/po/oc.po | 
+ | [ar](/f10/language/ar) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ar.po | 
+ | [be_Latn](/f10/language/be_Latn) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/be@latin.po | 
+ | [bg](/f10/language/bg) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/bg.po | 
+ | [bn_IN](/f10/language/bn_IN) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ca.po | 
+ | [cs](/f10/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/cs.po | 
+ | [da](/f10/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/da.po | 
+ | [de](/f10/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/de.po | 
+ | [dz](/f10/language/dz) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/dz.po | 
+ | [el](/f10/language/el) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/el.po | 
+ | [en_GB](/f10/language/en_GB) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/en_GB.po | 
+ | [es](/f10/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/es.po | 
+ | [eu](/f10/language/eu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/eu.po | 
+ | [fi](/f10/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/fi.po | 
+ | [fr](/f10/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/fr.po | 
+ | [fur](/f10/language/fur) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/fur.po | 
+ | [gl](/f10/language/gl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/gl.po | 
+ | [gu](/f10/language/gu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/gu.po | 
+ | [he](/f10/language/he) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/he.po | 
+ | [hu](/f10/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/hu.po | 
+ | [it](/f10/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/it.po | 
+ | [ja](/f10/language/ja) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ja.po | 
+ | [ko](/f10/language/ko) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ko.po | 
+ | [lt](/f10/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/lt.po | 
+ | [mk](/f10/language/mk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/mk.po | 
+ | [ml](/f10/language/ml) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ml.po | 
+ | [mr](/f10/language/mr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/nb.po | 
+ | [nl](/f10/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/nl.po | 
+ | [nn](/f10/language/nn) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/nn.po | 
+ | [or](/f10/language/or) | 83 | 83 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/or.po | 
+ | [pa](/f10/language/pa) | 83 | 83 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pa.po | 
+ | [pl](/f10/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pl.po | 
+ | [pt](/f10/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ru.po | 
+ | [si](/f10/language/si) | 83 | 83 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/si.po | 
+ | [sl](/f10/language/sl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sl.po | 
+ | [sq](/f10/language/sq) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sq.po | 
+ | [sr](/f10/language/sr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/sv.po | 
+ | [ta](/f10/language/ta) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/ta.po | 
+ | [te](/f10/language/te) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/te.po | 
+ | [th](/f10/language/th) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/th.po | 
+ | [tr](/f10/language/tr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/tr.po | 
+ | [uk](/f10/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/uk.po | 
+ | [vi](/f10/language/vi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/gtk2-engines/po/zh_HK.po | 
+ | [et](/f10/language/et) | 80 | 99 | 80.8 | /mnt/stockage/packages/f10/gtk2-engines/po/et.po | 
+ | [hi](/f10/language/hi) | 77 | 99 | 77.8 | /mnt/stockage/packages/f10/gtk2-engines/po/hi.po | 
+ | [oc](/f10/language/oc) | 14 | 99 | 14.1 | /mnt/stockage/packages/f10/gtk2-engines/po/oc.po | 
 {.sortable}
 
 

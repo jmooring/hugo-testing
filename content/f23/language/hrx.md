@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f23/package/stellarium.md" >}}) | 1746 | 17168 | 10.2 | Hunsrik <hrx@li.org> | 
+ | [stellarium](/f23/package/stellarium) | 1746 | 17168 | 10.2 | Hunsrik <hrx@li.org> | 
 {.sortable}
 
 

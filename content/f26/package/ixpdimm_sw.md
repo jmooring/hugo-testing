@@ -18,8 +18,8 @@ The package ixpdimm_sw (version 01.00.00.2422):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es_MX]({{< ref "/f26/language/es_MX.md" >}}) | 70 | 1701 | 4.1 | /mnt/stockage/packages/f26/ixpdimm_sw/invm-frameworks/invm-cli/lang/es_MX.po | 
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 35 | 1468 | 2.4 | /mnt/stockage/packages/f26/ixpdimm_sw/invm-frameworks/invm-cli/lang/en_US.po | 
+ | [es_MX](/f26/language/es_MX) | 70 | 1701 | 4.1 | /mnt/stockage/packages/f26/ixpdimm_sw/invm-frameworks/invm-cli/lang/es_MX.po | 
+ | [en_US](/f26/language/en_US) | 35 | 1468 | 2.4 | /mnt/stockage/packages/f26/ixpdimm_sw/invm-frameworks/invm-cli/lang/en_US.po | 
 {.sortable}
 
 

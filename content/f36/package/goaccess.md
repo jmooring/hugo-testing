@@ -18,17 +18,17 @@ The package goaccess (version 1.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 991 | 1021 | 97.1 | /mnt/stockage/packages/f36/goaccess/po/ko.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 986 | 1021 | 96.6 | /mnt/stockage/packages/f36/goaccess/po/de.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 985 | 1021 | 96.5 | /mnt/stockage/packages/f36/goaccess/po/it.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 982 | 1021 | 96.2 | /mnt/stockage/packages/f36/goaccess/po/sv.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 982 | 1021 | 96.2 | /mnt/stockage/packages/f36/goaccess/po/zh_CN.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 979 | 1021 | 95.9 | /mnt/stockage/packages/f36/goaccess/po/ru.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 979 | 1021 | 95.9 | /mnt/stockage/packages/f36/goaccess/po/uk.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 945 | 1021 | 92.6 | /mnt/stockage/packages/f36/goaccess/po/ja.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 944 | 1021 | 92.5 | /mnt/stockage/packages/f36/goaccess/po/fr.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 928 | 1021 | 90.9 | /mnt/stockage/packages/f36/goaccess/po/pt_BR.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 922 | 1021 | 90.3 | /mnt/stockage/packages/f36/goaccess/po/es.po | 
+ | [ko](/f36/language/ko) | 991 | 1021 | 97.1 | /mnt/stockage/packages/f36/goaccess/po/ko.po | 
+ | [de](/f36/language/de) | 986 | 1021 | 96.6 | /mnt/stockage/packages/f36/goaccess/po/de.po | 
+ | [it](/f36/language/it) | 985 | 1021 | 96.5 | /mnt/stockage/packages/f36/goaccess/po/it.po | 
+ | [sv](/f36/language/sv) | 982 | 1021 | 96.2 | /mnt/stockage/packages/f36/goaccess/po/sv.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 982 | 1021 | 96.2 | /mnt/stockage/packages/f36/goaccess/po/zh_CN.po | 
+ | [ru](/f36/language/ru) | 979 | 1021 | 95.9 | /mnt/stockage/packages/f36/goaccess/po/ru.po | 
+ | [uk](/f36/language/uk) | 979 | 1021 | 95.9 | /mnt/stockage/packages/f36/goaccess/po/uk.po | 
+ | [ja](/f36/language/ja) | 945 | 1021 | 92.6 | /mnt/stockage/packages/f36/goaccess/po/ja.po | 
+ | [fr](/f36/language/fr) | 944 | 1021 | 92.5 | /mnt/stockage/packages/f36/goaccess/po/fr.po | 
+ | [pt_BR](/f36/language/pt_BR) | 928 | 1021 | 90.9 | /mnt/stockage/packages/f36/goaccess/po/pt_BR.po | 
+ | [es](/f36/language/es) | 922 | 1021 | 90.3 | /mnt/stockage/packages/f36/goaccess/po/es.po | 
 {.sortable}
 
 

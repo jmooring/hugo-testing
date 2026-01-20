@@ -18,17 +18,17 @@ The package gnome-applet-music (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 561 | 561 | 100.0 | /mnt/stockage/packages/f8/gnome-applet-music/po/nl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 546 | 546 | 100.0 | /mnt/stockage/packages/f8/gnome-applet-music/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 561 | 561 | 100.0 | /mnt/stockage/packages/f8/gnome-applet-music/po/sv.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 350 | 561 | 62.4 | /mnt/stockage/packages/f8/gnome-applet-music/po/ar.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 324 | 561 | 57.8 | /mnt/stockage/packages/f8/gnome-applet-music/po/pl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 197 | 561 | 35.1 | /mnt/stockage/packages/f8/gnome-applet-music/po/it.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 35 | 561 | 6.2 | /mnt/stockage/packages/f8/gnome-applet-music/po/nb.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/fr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/ja.po | 
+ | [nl](/f8/language/nl) | 561 | 561 | 100.0 | /mnt/stockage/packages/f8/gnome-applet-music/po/nl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 546 | 546 | 100.0 | /mnt/stockage/packages/f8/gnome-applet-music/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 561 | 561 | 100.0 | /mnt/stockage/packages/f8/gnome-applet-music/po/sv.po | 
+ | [ar](/f8/language/ar) | 350 | 561 | 62.4 | /mnt/stockage/packages/f8/gnome-applet-music/po/ar.po | 
+ | [pl](/f8/language/pl) | 324 | 561 | 57.8 | /mnt/stockage/packages/f8/gnome-applet-music/po/pl.po | 
+ | [it](/f8/language/it) | 197 | 561 | 35.1 | /mnt/stockage/packages/f8/gnome-applet-music/po/it.po | 
+ | [nb_NO](/f8/language/nb_NO) | 35 | 561 | 6.2 | /mnt/stockage/packages/f8/gnome-applet-music/po/nb.po | 
+ | [de](/f8/language/de) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/de.po | 
+ | [es](/f8/language/es) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/es.po | 
+ | [fr](/f8/language/fr) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/fr.po | 
+ | [ja](/f8/language/ja) | 13 | 561 | 2.3 | /mnt/stockage/packages/f8/gnome-applet-music/po/ja.po | 
 {.sortable}
 
 

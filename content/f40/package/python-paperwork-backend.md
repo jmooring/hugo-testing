@@ -18,14 +18,14 @@ The package python-paperwork-backend (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 400 | 400 | 100.0 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/ca.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/sv.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 406 | 413 | 98.3 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/de.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 400 | 413 | 96.9 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/fr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 144 | 210 | 68.6 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/zh_Hans.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 130 | 413 | 31.5 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/oc.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 11 | 413 | 2.7 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/es.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 0 | 413 | 0.0 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/uk.po | 
+ | [ca](/f40/language/ca) | 400 | 400 | 100.0 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/ca.po | 
+ | [sv](/f40/language/sv) | 210 | 210 | 100.0 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/sv.po | 
+ | [de](/f40/language/de) | 406 | 413 | 98.3 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/de.po | 
+ | [fr](/f40/language/fr) | 400 | 413 | 96.9 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/fr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 144 | 210 | 68.6 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/zh_Hans.po | 
+ | [oc](/f40/language/oc) | 130 | 413 | 31.5 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/oc.po | 
+ | [es](/f40/language/es) | 11 | 413 | 2.7 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/es.po | 
+ | [uk](/f40/language/uk) | 0 | 413 | 0.0 | /mnt/stockage/packages/f40/python-paperwork-backend/l10n/uk.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package gimagereader (version 3.1.91):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/es_ES.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/it.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/ru.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 915 | 923 | 99.1 | /mnt/stockage/packages/f22/gimagereader/po/sv.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 914 | 923 | 99.0 | /mnt/stockage/packages/f22/gimagereader/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 914 | 923 | 99.0 | /mnt/stockage/packages/f22/gimagereader/po/zh_HK.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 902 | 923 | 97.7 | /mnt/stockage/packages/f22/gimagereader/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 719 | 923 | 77.9 | /mnt/stockage/packages/f22/gimagereader/po/pt_BR.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 719 | 923 | 77.9 | /mnt/stockage/packages/f22/gimagereader/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 716 | 923 | 77.6 | /mnt/stockage/packages/f22/gimagereader/po/uk.po | 
+ | [cs](/f22/language/cs) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/cs.po | 
+ | [de](/f22/language/de) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/de.po | 
+ | [el](/f22/language/el) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/el.po | 
+ | [es](/f22/language/es) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/es_ES.po | 
+ | [fr](/f22/language/fr) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/fr.po | 
+ | [it](/f22/language/it) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/it.po | 
+ | [ru](/f22/language/ru) | 923 | 923 | 100.0 | /mnt/stockage/packages/f22/gimagereader/po/ru.po | 
+ | [sv](/f22/language/sv) | 915 | 923 | 99.1 | /mnt/stockage/packages/f22/gimagereader/po/sv.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 914 | 923 | 99.0 | /mnt/stockage/packages/f22/gimagereader/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 914 | 923 | 99.0 | /mnt/stockage/packages/f22/gimagereader/po/zh_HK.po | 
+ | [pl](/f22/language/pl) | 902 | 923 | 97.7 | /mnt/stockage/packages/f22/gimagereader/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 719 | 923 | 77.9 | /mnt/stockage/packages/f22/gimagereader/po/pt_BR.po | 
+ | [tr](/f22/language/tr) | 719 | 923 | 77.9 | /mnt/stockage/packages/f22/gimagereader/po/tr.po | 
+ | [uk](/f22/language/uk) | 716 | 923 | 77.6 | /mnt/stockage/packages/f22/gimagereader/po/uk.po | 
 {.sortable}
 
 

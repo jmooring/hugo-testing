@@ -18,13 +18,13 @@ The package net6 (version 1.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/de.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/it.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/nl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/sv.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 291 | 304 | 95.7 | /mnt/stockage/packages/f13/net6/po/es.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 194 | 304 | 63.8 | /mnt/stockage/packages/f13/net6/po/pt.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 143 | 304 | 47.0 | /mnt/stockage/packages/f13/net6/po/fr.po | 
+ | [de](/f13/language/de) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/de.po | 
+ | [it](/f13/language/it) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/it.po | 
+ | [nl](/f13/language/nl) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/nl.po | 
+ | [sv](/f13/language/sv) | 304 | 304 | 100.0 | /mnt/stockage/packages/f13/net6/po/sv.po | 
+ | [es](/f13/language/es) | 291 | 304 | 95.7 | /mnt/stockage/packages/f13/net6/po/es.po | 
+ | [pt](/f13/language/pt) | 194 | 304 | 63.8 | /mnt/stockage/packages/f13/net6/po/pt.po | 
+ | [fr](/f13/language/fr) | 143 | 304 | 47.0 | /mnt/stockage/packages/f13/net6/po/fr.po | 
 {.sortable}
 
 

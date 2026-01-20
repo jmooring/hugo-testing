@@ -18,8 +18,8 @@ The package barry (version 0.18.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 8987 | 9118 | 98.6 | /mnt/stockage/packages/f26/barry/desktop/po/fr.po/mnt/stockage/packages/f26/barry/desktop/po-osyncwrap/fr.po/mnt/stockage/packages/f26/barry/gui/po/fr.po/mnt/stockage/packages/f26/barry/opensync-plugin-0.4x/po/fr.po/mnt/stockage/packages/f26/barry/opensync-plugin/po/fr.po/mnt/stockage/packages/f26/barry/po/fr.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 498 | 9118 | 5.5 | /mnt/stockage/packages/f26/barry/desktop/po/es.po/mnt/stockage/packages/f26/barry/desktop/po-osyncwrap/es.po/mnt/stockage/packages/f26/barry/gui/po/es.po/mnt/stockage/packages/f26/barry/opensync-plugin-0.4x/po/es.po/mnt/stockage/packages/f26/barry/opensync-plugin/po/es.po/mnt/stockage/packages/f26/barry/po/es.po | 
+ | [fr](/f26/language/fr) | 8987 | 9118 | 98.6 | /mnt/stockage/packages/f26/barry/desktop/po/fr.po/mnt/stockage/packages/f26/barry/desktop/po-osyncwrap/fr.po/mnt/stockage/packages/f26/barry/gui/po/fr.po/mnt/stockage/packages/f26/barry/opensync-plugin-0.4x/po/fr.po/mnt/stockage/packages/f26/barry/opensync-plugin/po/fr.po/mnt/stockage/packages/f26/barry/po/fr.po | 
+ | [es](/f26/language/es) | 498 | 9118 | 5.5 | /mnt/stockage/packages/f26/barry/desktop/po/es.po/mnt/stockage/packages/f26/barry/desktop/po-osyncwrap/es.po/mnt/stockage/packages/f26/barry/gui/po/es.po/mnt/stockage/packages/f26/barry/opensync-plugin-0.4x/po/es.po/mnt/stockage/packages/f26/barry/opensync-plugin/po/es.po/mnt/stockage/packages/f26/barry/po/es.po | 
 {.sortable}
 
 

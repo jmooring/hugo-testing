@@ -18,11 +18,11 @@ The package icc_examin (version 0.49):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 2876 | 3033 | 94.8 | /mnt/stockage/packages/f16/icc_examin/po/de.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 1156 | 3033 | 38.1 | /mnt/stockage/packages/f16/icc_examin/po/eu.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1152 | 3033 | 38.0 | /mnt/stockage/packages/f16/icc_examin/po/cs.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 190 | 3033 | 6.3 | /mnt/stockage/packages/f16/icc_examin/po/fr.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 67 | 3033 | 2.2 | /mnt/stockage/packages/f16/icc_examin/po/eo.po | 
+ | [de](/f16/language/de) | 2876 | 3033 | 94.8 | /mnt/stockage/packages/f16/icc_examin/po/de.po | 
+ | [eu](/f16/language/eu) | 1156 | 3033 | 38.1 | /mnt/stockage/packages/f16/icc_examin/po/eu.po | 
+ | [cs](/f16/language/cs) | 1152 | 3033 | 38.0 | /mnt/stockage/packages/f16/icc_examin/po/cs.po | 
+ | [fr](/f16/language/fr) | 190 | 3033 | 6.3 | /mnt/stockage/packages/f16/icc_examin/po/fr.po | 
+ | [eo](/f16/language/eo) | 67 | 3033 | 2.2 | /mnt/stockage/packages/f16/icc_examin/po/eo.po | 
 {.sortable}
 
 

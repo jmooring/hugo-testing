@@ -18,24 +18,24 @@ The package cockpit-ostree (version 220):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/ar.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/fr.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/he.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/ka.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/ko.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/pt_BR.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/zh_Hant.po | 
+ | [ar](/f42/language/ar) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/ar.po | 
+ | [cs](/f42/language/cs) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/cs.po | 
+ | [de](/f42/language/de) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/de.po | 
+ | [es](/f42/language/es) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/es.po | 
+ | [fi](/f42/language/fi) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/fi.po | 
+ | [fr](/f42/language/fr) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/fr.po | 
+ | [he](/f42/language/he) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/he.po | 
+ | [id](/f42/language/id) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/id.po | 
+ | [it](/f42/language/it) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/it.po | 
+ | [ka](/f42/language/ka) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/ka.po | 
+ | [ko](/f42/language/ko) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/ko.po | 
+ | [pt](/f42/language/pt) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/pt_BR.po | 
+ | [sv](/f42/language/sv) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/sv.po | 
+ | [tr](/f42/language/tr) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/tr.po | 
+ | [uk](/f42/language/uk) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 246 | 246 | 100.0 | /mnt/stockage/packages/f42/cockpit-ostree/po/zh_Hant.po | 
 {.sortable}
 
 

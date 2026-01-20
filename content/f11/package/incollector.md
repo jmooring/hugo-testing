@@ -18,18 +18,18 @@ The package incollector (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/de.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/pl.po | 
- | [be_Latn]({{< ref "/f11/language/be_Latn.md" >}}) | 587 | 589 | 99.7 | /mnt/stockage/packages/f11/incollector/po/be@latin.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 587 | 589 | 99.7 | /mnt/stockage/packages/f11/incollector/po/ua.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 586 | 589 | 99.5 | /mnt/stockage/packages/f11/incollector/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 580 | 589 | 98.5 | /mnt/stockage/packages/f11/incollector/po/es.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 324 | 589 | 55.0 | /mnt/stockage/packages/f11/incollector/po/pt.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 321 | 589 | 54.5 | /mnt/stockage/packages/f11/incollector/po/bg.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 310 | 589 | 52.6 | /mnt/stockage/packages/f11/incollector/po/ca.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 309 | 589 | 52.5 | /mnt/stockage/packages/f11/incollector/po/ru.po | 
+ | [cs](/f11/language/cs) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/cs.po | 
+ | [de](/f11/language/de) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/de.po | 
+ | [it](/f11/language/it) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/it.po | 
+ | [pl](/f11/language/pl) | 589 | 589 | 100.0 | /mnt/stockage/packages/f11/incollector/po/pl.po | 
+ | [be_Latn](/f11/language/be_Latn) | 587 | 589 | 99.7 | /mnt/stockage/packages/f11/incollector/po/be@latin.po | 
+ | [uk](/f11/language/uk) | 587 | 589 | 99.7 | /mnt/stockage/packages/f11/incollector/po/ua.po | 
+ | [fr](/f11/language/fr) | 586 | 589 | 99.5 | /mnt/stockage/packages/f11/incollector/po/fr.po | 
+ | [es](/f11/language/es) | 580 | 589 | 98.5 | /mnt/stockage/packages/f11/incollector/po/es.po | 
+ | [pt](/f11/language/pt) | 324 | 589 | 55.0 | /mnt/stockage/packages/f11/incollector/po/pt.po | 
+ | [bg](/f11/language/bg) | 321 | 589 | 54.5 | /mnt/stockage/packages/f11/incollector/po/bg.po | 
+ | [ca](/f11/language/ca) | 310 | 589 | 52.6 | /mnt/stockage/packages/f11/incollector/po/ca.po | 
+ | [ru](/f11/language/ru) | 309 | 589 | 52.5 | /mnt/stockage/packages/f11/incollector/po/ru.po | 
 {.sortable}
 
 

@@ -18,53 +18,53 @@ The package fuse-encfs (version 1.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f24/language/it.md" >}}) | 1244 | 1289 | 96.5 | /mnt/stockage/packages/f24/fuse-encfs/po/it.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1207 | 1289 | 93.6 | /mnt/stockage/packages/f24/fuse-encfs/po/pt.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1179 | 1289 | 91.5 | /mnt/stockage/packages/f24/fuse-encfs/po/ru.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2285 | 2578 | 88.6 | /mnt/stockage/packages/f24/fuse-encfs/po/de_DE.po/mnt/stockage/packages/f24/fuse-encfs/po/de.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1099 | 1289 | 85.3 | /mnt/stockage/packages/f24/fuse-encfs/po/he.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1063 | 1289 | 82.5 | /mnt/stockage/packages/f24/fuse-encfs/po/gl.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1055 | 1289 | 81.8 | /mnt/stockage/packages/f24/fuse-encfs/po/zh_CN.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1053 | 1289 | 81.7 | /mnt/stockage/packages/f24/fuse-encfs/po/nl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1049 | 1289 | 81.4 | /mnt/stockage/packages/f24/fuse-encfs/po/pt_BR.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1049 | 1289 | 81.4 | /mnt/stockage/packages/f24/fuse-encfs/po/tr.po | 
- | [de_AT]({{< ref "/f24/language/de_AT.md" >}}) | 1041 | 1289 | 80.8 | /mnt/stockage/packages/f24/fuse-encfs/po/de_AT.po | 
- | [de_CH]({{< ref "/f24/language/de_CH.md" >}}) | 1041 | 1289 | 80.8 | /mnt/stockage/packages/f24/fuse-encfs/po/de_CH.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 1037 | 1289 | 80.4 | /mnt/stockage/packages/f24/fuse-encfs/po/oc.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2045 | 2578 | 79.3 | /mnt/stockage/packages/f24/fuse-encfs/po/es_ES.po/mnt/stockage/packages/f24/fuse-encfs/po/es.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 1011 | 1289 | 78.4 | /mnt/stockage/packages/f24/fuse-encfs/po/lv.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 995 | 1289 | 77.2 | /mnt/stockage/packages/f24/fuse-encfs/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1943 | 2578 | 75.4 | /mnt/stockage/packages/f24/fuse-encfs/po/fr_FR.po/mnt/stockage/packages/f24/fuse-encfs/po/fr.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 936 | 1289 | 72.6 | /mnt/stockage/packages/f24/fuse-encfs/po/hu.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 915 | 1289 | 71.0 | /mnt/stockage/packages/f24/fuse-encfs/po/ro.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 915 | 1289 | 71.0 | /mnt/stockage/packages/f24/fuse-encfs/po/uk.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 846 | 1289 | 65.6 | /mnt/stockage/packages/f24/fuse-encfs/po/ar.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 755 | 1289 | 58.6 | /mnt/stockage/packages/f24/fuse-encfs/po/sv.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 730 | 1289 | 56.6 | /mnt/stockage/packages/f24/fuse-encfs/po/pt_PT.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 707 | 1289 | 54.8 | /mnt/stockage/packages/f24/fuse-encfs/po/pl.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 701 | 1289 | 54.4 | /mnt/stockage/packages/f24/fuse-encfs/po/nb.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 699 | 1289 | 54.2 | /mnt/stockage/packages/f24/fuse-encfs/po/ca.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 623 | 1289 | 48.3 | /mnt/stockage/packages/f24/fuse-encfs/po/ja.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 594 | 1289 | 46.1 | /mnt/stockage/packages/f24/fuse-encfs/po/da.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 552 | 1289 | 42.8 | /mnt/stockage/packages/f24/fuse-encfs/po/cs.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 545 | 1289 | 42.3 | /mnt/stockage/packages/f24/fuse-encfs/po/el.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 541 | 1289 | 42.0 | /mnt/stockage/packages/f24/fuse-encfs/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 525 | 1289 | 40.7 | /mnt/stockage/packages/f24/fuse-encfs/po/zh_HK.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 446 | 1289 | 34.6 | /mnt/stockage/packages/f24/fuse-encfs/po/bg.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 390 | 1289 | 30.3 | /mnt/stockage/packages/f24/fuse-encfs/po/sk.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 376 | 1289 | 29.2 | /mnt/stockage/packages/f24/fuse-encfs/po/nds.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 326 | 1289 | 25.3 | /mnt/stockage/packages/f24/fuse-encfs/po/nn.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 244 | 1289 | 18.9 | /mnt/stockage/packages/f24/fuse-encfs/po/id.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 237 | 1289 | 18.4 | /mnt/stockage/packages/f24/fuse-encfs/po/eo.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 216 | 1289 | 16.8 | /mnt/stockage/packages/f24/fuse-encfs/po/be.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 162 | 1289 | 12.6 | /mnt/stockage/packages/f24/fuse-encfs/po/sr.po | 
- | [es_PE]({{< ref "/f24/language/es_PE.md" >}}) | 127 | 1289 | 9.9 | /mnt/stockage/packages/f24/fuse-encfs/po/es_PE.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 89 | 1289 | 6.9 | /mnt/stockage/packages/f24/fuse-encfs/po/ko.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 46 | 1289 | 3.6 | /mnt/stockage/packages/f24/fuse-encfs/po/bs.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 42 | 1289 | 3.3 | /mnt/stockage/packages/f24/fuse-encfs/po/et.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 19 | 1289 | 1.5 | /mnt/stockage/packages/f24/fuse-encfs/po/hr.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 13 | 1289 | 1.0 | /mnt/stockage/packages/f24/fuse-encfs/po/ta.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 4 | 1289 | 0.3 | /mnt/stockage/packages/f24/fuse-encfs/po/zh_TW.po | 
+ | [it](/f24/language/it) | 1244 | 1289 | 96.5 | /mnt/stockage/packages/f24/fuse-encfs/po/it.po | 
+ | [pt](/f24/language/pt) | 1207 | 1289 | 93.6 | /mnt/stockage/packages/f24/fuse-encfs/po/pt.po | 
+ | [ru](/f24/language/ru) | 1179 | 1289 | 91.5 | /mnt/stockage/packages/f24/fuse-encfs/po/ru.po | 
+ | [de](/f24/language/de) | 2285 | 2578 | 88.6 | /mnt/stockage/packages/f24/fuse-encfs/po/de_DE.po/mnt/stockage/packages/f24/fuse-encfs/po/de.po | 
+ | [he](/f24/language/he) | 1099 | 1289 | 85.3 | /mnt/stockage/packages/f24/fuse-encfs/po/he.po | 
+ | [gl](/f24/language/gl) | 1063 | 1289 | 82.5 | /mnt/stockage/packages/f24/fuse-encfs/po/gl.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1055 | 1289 | 81.8 | /mnt/stockage/packages/f24/fuse-encfs/po/zh_CN.po | 
+ | [nl](/f24/language/nl) | 1053 | 1289 | 81.7 | /mnt/stockage/packages/f24/fuse-encfs/po/nl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1049 | 1289 | 81.4 | /mnt/stockage/packages/f24/fuse-encfs/po/pt_BR.po | 
+ | [tr](/f24/language/tr) | 1049 | 1289 | 81.4 | /mnt/stockage/packages/f24/fuse-encfs/po/tr.po | 
+ | [de_AT](/f24/language/de_AT) | 1041 | 1289 | 80.8 | /mnt/stockage/packages/f24/fuse-encfs/po/de_AT.po | 
+ | [de_CH](/f24/language/de_CH) | 1041 | 1289 | 80.8 | /mnt/stockage/packages/f24/fuse-encfs/po/de_CH.po | 
+ | [oc](/f24/language/oc) | 1037 | 1289 | 80.4 | /mnt/stockage/packages/f24/fuse-encfs/po/oc.po | 
+ | [es](/f24/language/es) | 2045 | 2578 | 79.3 | /mnt/stockage/packages/f24/fuse-encfs/po/es_ES.po/mnt/stockage/packages/f24/fuse-encfs/po/es.po | 
+ | [lv](/f24/language/lv) | 1011 | 1289 | 78.4 | /mnt/stockage/packages/f24/fuse-encfs/po/lv.po | 
+ | [fi](/f24/language/fi) | 995 | 1289 | 77.2 | /mnt/stockage/packages/f24/fuse-encfs/po/fi.po | 
+ | [fr](/f24/language/fr) | 1943 | 2578 | 75.4 | /mnt/stockage/packages/f24/fuse-encfs/po/fr_FR.po/mnt/stockage/packages/f24/fuse-encfs/po/fr.po | 
+ | [hu](/f24/language/hu) | 936 | 1289 | 72.6 | /mnt/stockage/packages/f24/fuse-encfs/po/hu.po | 
+ | [ro](/f24/language/ro) | 915 | 1289 | 71.0 | /mnt/stockage/packages/f24/fuse-encfs/po/ro.po | 
+ | [uk](/f24/language/uk) | 915 | 1289 | 71.0 | /mnt/stockage/packages/f24/fuse-encfs/po/uk.po | 
+ | [ar](/f24/language/ar) | 846 | 1289 | 65.6 | /mnt/stockage/packages/f24/fuse-encfs/po/ar.po | 
+ | [sv](/f24/language/sv) | 755 | 1289 | 58.6 | /mnt/stockage/packages/f24/fuse-encfs/po/sv.po | 
+ | [pt_PT](/f24/language/pt_PT) | 730 | 1289 | 56.6 | /mnt/stockage/packages/f24/fuse-encfs/po/pt_PT.po | 
+ | [pl](/f24/language/pl) | 707 | 1289 | 54.8 | /mnt/stockage/packages/f24/fuse-encfs/po/pl.po | 
+ | [nb_NO](/f24/language/nb_NO) | 701 | 1289 | 54.4 | /mnt/stockage/packages/f24/fuse-encfs/po/nb.po | 
+ | [ca](/f24/language/ca) | 699 | 1289 | 54.2 | /mnt/stockage/packages/f24/fuse-encfs/po/ca.po | 
+ | [ja](/f24/language/ja) | 623 | 1289 | 48.3 | /mnt/stockage/packages/f24/fuse-encfs/po/ja.po | 
+ | [da](/f24/language/da) | 594 | 1289 | 46.1 | /mnt/stockage/packages/f24/fuse-encfs/po/da.po | 
+ | [cs](/f24/language/cs) | 552 | 1289 | 42.8 | /mnt/stockage/packages/f24/fuse-encfs/po/cs.po | 
+ | [el](/f24/language/el) | 545 | 1289 | 42.3 | /mnt/stockage/packages/f24/fuse-encfs/po/el.po | 
+ | [vi](/f24/language/vi) | 541 | 1289 | 42.0 | /mnt/stockage/packages/f24/fuse-encfs/po/vi.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 525 | 1289 | 40.7 | /mnt/stockage/packages/f24/fuse-encfs/po/zh_HK.po | 
+ | [bg](/f24/language/bg) | 446 | 1289 | 34.6 | /mnt/stockage/packages/f24/fuse-encfs/po/bg.po | 
+ | [sk](/f24/language/sk) | 390 | 1289 | 30.3 | /mnt/stockage/packages/f24/fuse-encfs/po/sk.po | 
+ | [nds](/f24/language/nds) | 376 | 1289 | 29.2 | /mnt/stockage/packages/f24/fuse-encfs/po/nds.po | 
+ | [nn](/f24/language/nn) | 326 | 1289 | 25.3 | /mnt/stockage/packages/f24/fuse-encfs/po/nn.po | 
+ | [id](/f24/language/id) | 244 | 1289 | 18.9 | /mnt/stockage/packages/f24/fuse-encfs/po/id.po | 
+ | [eo](/f24/language/eo) | 237 | 1289 | 18.4 | /mnt/stockage/packages/f24/fuse-encfs/po/eo.po | 
+ | [be](/f24/language/be) | 216 | 1289 | 16.8 | /mnt/stockage/packages/f24/fuse-encfs/po/be.po | 
+ | [sr](/f24/language/sr) | 162 | 1289 | 12.6 | /mnt/stockage/packages/f24/fuse-encfs/po/sr.po | 
+ | [es_PE](/f24/language/es_PE) | 127 | 1289 | 9.9 | /mnt/stockage/packages/f24/fuse-encfs/po/es_PE.po | 
+ | [ko](/f24/language/ko) | 89 | 1289 | 6.9 | /mnt/stockage/packages/f24/fuse-encfs/po/ko.po | 
+ | [bs](/f24/language/bs) | 46 | 1289 | 3.6 | /mnt/stockage/packages/f24/fuse-encfs/po/bs.po | 
+ | [et](/f24/language/et) | 42 | 1289 | 3.3 | /mnt/stockage/packages/f24/fuse-encfs/po/et.po | 
+ | [hr](/f24/language/hr) | 19 | 1289 | 1.5 | /mnt/stockage/packages/f24/fuse-encfs/po/hr.po | 
+ | [ta](/f24/language/ta) | 13 | 1289 | 1.0 | /mnt/stockage/packages/f24/fuse-encfs/po/ta.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 4 | 1289 | 0.3 | /mnt/stockage/packages/f24/fuse-encfs/po/zh_TW.po | 
 {.sortable}
 
 

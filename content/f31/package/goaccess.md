@@ -18,10 +18,10 @@ The package goaccess (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 970 | 974 | 99.6 | /mnt/stockage/packages/f31/goaccess/po/ja.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 966 | 974 | 99.2 | /mnt/stockage/packages/f31/goaccess/po/zh_CN.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 907 | 974 | 93.1 | /mnt/stockage/packages/f31/goaccess/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 422 | 974 | 43.3 | /mnt/stockage/packages/f31/goaccess/po/fr.po | 
+ | [ja](/f31/language/ja) | 970 | 974 | 99.6 | /mnt/stockage/packages/f31/goaccess/po/ja.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 966 | 974 | 99.2 | /mnt/stockage/packages/f31/goaccess/po/zh_CN.po | 
+ | [es](/f31/language/es) | 907 | 974 | 93.1 | /mnt/stockage/packages/f31/goaccess/po/es.po | 
+ | [fr](/f31/language/fr) | 422 | 974 | 43.3 | /mnt/stockage/packages/f31/goaccess/po/fr.po | 
 {.sortable}
 
 

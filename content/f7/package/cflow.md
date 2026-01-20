@@ -18,11 +18,11 @@ The package cflow (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/cflow/po/pl.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/cflow/po/uk.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 519 | 587 | 88.4 | /mnt/stockage/packages/f7/cflow/po/da.po | 
- | [ga]({{< ref "/f7/language/ga.md" >}}) | 519 | 587 | 88.4 | /mnt/stockage/packages/f7/cflow/po/ga.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 519 | 587 | 88.4 | /mnt/stockage/packages/f7/cflow/po/vi.po | 
+ | [pl](/f7/language/pl) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/cflow/po/pl.po | 
+ | [uk](/f7/language/uk) | 587 | 587 | 100.0 | /mnt/stockage/packages/f7/cflow/po/uk.po | 
+ | [da](/f7/language/da) | 519 | 587 | 88.4 | /mnt/stockage/packages/f7/cflow/po/da.po | 
+ | [ga](/f7/language/ga) | 519 | 587 | 88.4 | /mnt/stockage/packages/f7/cflow/po/ga.po | 
+ | [vi](/f7/language/vi) | 519 | 587 | 88.4 | /mnt/stockage/packages/f7/cflow/po/vi.po | 
 {.sortable}
 
 

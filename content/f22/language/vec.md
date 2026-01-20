@@ -42,7 +42,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f22/package/tuxpaint.md" >}}) | 1591 | 1591 | 100.0 | none | 
+ | [tuxpaint](/f22/package/tuxpaint) | 1591 | 1591 | 100.0 | none | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f13/package/virtaal.md" >}}) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
- | [coreutils]({{< ref "/f13/package/coreutils.md" >}}) | 18518 | 18529 | 99.9 | Luganda <kbirabwa@yahoo.co.uk> | 
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
- | [findutils]({{< ref "/f13/package/findutils.md" >}}) | 248 | 2105 | 11.8 | Luganda <kompyuta@kizito.freeuk.com> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f13/package/virtaal) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [coreutils](/f13/package/coreutils) | 18518 | 18529 | 99.9 | Luganda <kbirabwa@yahoo.co.uk> | 
+ | [pootle](/f13/package/pootle) | 6476 | 6817 | 95.0 | LANGUAGE <LL@li.org> | 
+ | [findutils](/f13/package/findutils) | 248 | 2105 | 11.8 | Luganda <kompyuta@kizito.freeuk.com> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

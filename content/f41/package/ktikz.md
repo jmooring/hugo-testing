@@ -18,10 +18,10 @@ The package ktikz (version 0.13.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 370 | 370 | 100.0 | /mnt/stockage/packages/f41/ktikz/translations/fr/ktikz.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 364 | 370 | 98.4 | /mnt/stockage/packages/f41/ktikz/translations/es/ktikz.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 331 | 370 | 89.5 | /mnt/stockage/packages/f41/ktikz/translations/cs/ktikz.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 0 | 370 | 0.0 | /mnt/stockage/packages/f41/ktikz/translations/de/ktikz.po | 
+ | [fr](/f41/language/fr) | 370 | 370 | 100.0 | /mnt/stockage/packages/f41/ktikz/translations/fr/ktikz.po | 
+ | [es](/f41/language/es) | 364 | 370 | 98.4 | /mnt/stockage/packages/f41/ktikz/translations/es/ktikz.po | 
+ | [cs](/f41/language/cs) | 331 | 370 | 89.5 | /mnt/stockage/packages/f41/ktikz/translations/cs/ktikz.po | 
+ | [de](/f41/language/de) | 0 | 370 | 0.0 | /mnt/stockage/packages/f41/ktikz/translations/de/ktikz.po | 
 {.sortable}
 
 

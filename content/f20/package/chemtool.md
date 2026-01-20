@@ -18,15 +18,15 @@ The package chemtool (version 1.6.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1177 | 1184 | 99.4 | /mnt/stockage/packages/f20/chemtool/po/pl.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 1165 | 1184 | 98.4 | /mnt/stockage/packages/f20/chemtool/po/bg.po | 
- | [pt_PT]({{< ref "/f20/language/pt_PT.md" >}}) | 1164 | 1184 | 98.3 | /mnt/stockage/packages/f20/chemtool/po/pt_PT.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1148 | 1184 | 97.0 | /mnt/stockage/packages/f20/chemtool/po/fr.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1139 | 1184 | 96.2 | /mnt/stockage/packages/f20/chemtool/po/de.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1132 | 1184 | 95.6 | /mnt/stockage/packages/f20/chemtool/po/nl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 1130 | 1184 | 95.4 | /mnt/stockage/packages/f20/chemtool/po/ru.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1127 | 1184 | 95.2 | /mnt/stockage/packages/f20/chemtool/po/pt_BR.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1124 | 1184 | 94.9 | /mnt/stockage/packages/f20/chemtool/po/cs.po | 
+ | [pl](/f20/language/pl) | 1177 | 1184 | 99.4 | /mnt/stockage/packages/f20/chemtool/po/pl.po | 
+ | [bg](/f20/language/bg) | 1165 | 1184 | 98.4 | /mnt/stockage/packages/f20/chemtool/po/bg.po | 
+ | [pt_PT](/f20/language/pt_PT) | 1164 | 1184 | 98.3 | /mnt/stockage/packages/f20/chemtool/po/pt_PT.po | 
+ | [fr](/f20/language/fr) | 1148 | 1184 | 97.0 | /mnt/stockage/packages/f20/chemtool/po/fr.po | 
+ | [de](/f20/language/de) | 1139 | 1184 | 96.2 | /mnt/stockage/packages/f20/chemtool/po/de.po | 
+ | [nl](/f20/language/nl) | 1132 | 1184 | 95.6 | /mnt/stockage/packages/f20/chemtool/po/nl.po | 
+ | [ru](/f20/language/ru) | 1130 | 1184 | 95.4 | /mnt/stockage/packages/f20/chemtool/po/ru.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1127 | 1184 | 95.2 | /mnt/stockage/packages/f20/chemtool/po/pt_BR.po | 
+ | [cs](/f20/language/cs) | 1124 | 1184 | 94.9 | /mnt/stockage/packages/f20/chemtool/po/cs.po | 
 {.sortable}
 
 

@@ -18,65 +18,65 @@ The package kmines (version 21.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/ca/kmines.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/ca@valencia/kmines.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/de/kmines.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/el/kmines.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/en_GB/kmines.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/es/kmines.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/eu/kmines.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/fi/kmines.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/fr/kmines.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/it/kmines.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/ko/kmines.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/nl/kmines.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/nn/kmines.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/pl/kmines.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/pt/kmines.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/pt_BR/kmines.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/sl/kmines.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/sv/kmines.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/uk/kmines.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 108 | 119 | 90.8 | /mnt/stockage/packages/f34/kmines/po/sr/kmines.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 140 | 156 | 89.7 | /mnt/stockage/packages/f34/kmines/po/sk/kmines.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 135 | 156 | 86.5 | /mnt/stockage/packages/f34/kmines/po/cs/kmines.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/et/kmines.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/gl/kmines.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/id/kmines.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/zh_CN/kmines.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/zh_TW/kmines.po | 
- | [ml]({{< ref "/f34/language/ml.md" >}}) | 113 | 156 | 72.4 | /mnt/stockage/packages/f34/kmines/po/ml/kmines.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/bg/kmines.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/bs/kmines.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/da/kmines.po | 
- | [ga]({{< ref "/f34/language/ga.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/ga/kmines.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/hu/kmines.po | 
- | [is]({{< ref "/f34/language/is.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/is/kmines.po | 
- | [kk]({{< ref "/f34/language/kk.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/kk/kmines.po | 
- | [km]({{< ref "/f34/language/km.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/km/kmines.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/lt/kmines.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/nb/kmines.po | 
- | [nds]({{< ref "/f34/language/nds.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/nds/kmines.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/ro/kmines.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/ru/kmines.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/tr/kmines.po | 
- | [wa]({{< ref "/f34/language/wa.md" >}}) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/wa/kmines.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 104 | 156 | 66.7 | /mnt/stockage/packages/f34/kmines/po/ar/kmines.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 102 | 156 | 65.4 | /mnt/stockage/packages/f34/kmines/po/ja/kmines.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 98 | 156 | 62.8 | /mnt/stockage/packages/f34/kmines/po/lv/kmines.po | 
- | [fa]({{< ref "/f34/language/fa.md" >}}) | 85 | 156 | 54.5 | /mnt/stockage/packages/f34/kmines/po/fa/kmines.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 84 | 156 | 53.8 | /mnt/stockage/packages/f34/kmines/po/eo/kmines.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 79 | 156 | 50.6 | /mnt/stockage/packages/f34/kmines/po/hi/kmines.po | 
- | [mr]({{< ref "/f34/language/mr.md" >}}) | 55 | 156 | 35.3 | /mnt/stockage/packages/f34/kmines/po/mr/kmines.po | 
- | [sq]({{< ref "/f34/language/sq.md" >}}) | 42 | 156 | 26.9 | /mnt/stockage/packages/f34/kmines/po/sq/kmines.po | 
- | [ug]({{< ref "/f34/language/ug.md" >}}) | 39 | 156 | 25.0 | /mnt/stockage/packages/f34/kmines/po/ug/kmines.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/he/kmines.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/hr/kmines.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/ta/kmines.po | 
- | [tg]({{< ref "/f34/language/tg.md" >}}) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/tg/kmines.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 11 | 156 | 7.1 | /mnt/stockage/packages/f34/kmines/po/pa/kmines.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 5 | 156 | 3.2 | /mnt/stockage/packages/f34/kmines/po/be/kmines.po | 
- | [se]({{< ref "/f34/language/se.md" >}}) | 0 | 156 | 0.0 | /mnt/stockage/packages/f34/kmines/po/se/kmines.po | 
+ | [ca](/f34/language/ca) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/ca/kmines.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/ca@valencia/kmines.po | 
+ | [de](/f34/language/de) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/de/kmines.po | 
+ | [el](/f34/language/el) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/el/kmines.po | 
+ | [en_GB](/f34/language/en_GB) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/en_GB/kmines.po | 
+ | [es](/f34/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/es/kmines.po | 
+ | [eu](/f34/language/eu) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/eu/kmines.po | 
+ | [fi](/f34/language/fi) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/fi/kmines.po | 
+ | [fr](/f34/language/fr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/fr/kmines.po | 
+ | [it](/f34/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/it/kmines.po | 
+ | [ko](/f34/language/ko) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/ko/kmines.po | 
+ | [nl](/f34/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/nl/kmines.po | 
+ | [nn](/f34/language/nn) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/nn/kmines.po | 
+ | [pl](/f34/language/pl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/pl/kmines.po | 
+ | [pt](/f34/language/pt) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/pt/kmines.po | 
+ | [pt_BR](/f34/language/pt_BR) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/pt_BR/kmines.po | 
+ | [sl](/f34/language/sl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/sl/kmines.po | 
+ | [sv](/f34/language/sv) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/sv/kmines.po | 
+ | [uk](/f34/language/uk) | 156 | 156 | 100.0 | /mnt/stockage/packages/f34/kmines/po/uk/kmines.po | 
+ | [sr](/f34/language/sr) | 108 | 119 | 90.8 | /mnt/stockage/packages/f34/kmines/po/sr/kmines.po | 
+ | [sk](/f34/language/sk) | 140 | 156 | 89.7 | /mnt/stockage/packages/f34/kmines/po/sk/kmines.po | 
+ | [cs](/f34/language/cs) | 135 | 156 | 86.5 | /mnt/stockage/packages/f34/kmines/po/cs/kmines.po | 
+ | [et](/f34/language/et) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/et/kmines.po | 
+ | [gl](/f34/language/gl) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/gl/kmines.po | 
+ | [id](/f34/language/id) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/id/kmines.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/zh_CN/kmines.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 119 | 156 | 76.3 | /mnt/stockage/packages/f34/kmines/po/zh_TW/kmines.po | 
+ | [ml](/f34/language/ml) | 113 | 156 | 72.4 | /mnt/stockage/packages/f34/kmines/po/ml/kmines.po | 
+ | [bg](/f34/language/bg) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/bg/kmines.po | 
+ | [bs](/f34/language/bs) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/bs/kmines.po | 
+ | [da](/f34/language/da) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/da/kmines.po | 
+ | [ga](/f34/language/ga) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/ga/kmines.po | 
+ | [hu](/f34/language/hu) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/hu/kmines.po | 
+ | [is](/f34/language/is) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/is/kmines.po | 
+ | [kk](/f34/language/kk) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/kk/kmines.po | 
+ | [km](/f34/language/km) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/km/kmines.po | 
+ | [lt](/f34/language/lt) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/lt/kmines.po | 
+ | [nb_NO](/f34/language/nb_NO) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/nb/kmines.po | 
+ | [nds](/f34/language/nds) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/nds/kmines.po | 
+ | [ro](/f34/language/ro) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/ro/kmines.po | 
+ | [ru](/f34/language/ru) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/ru/kmines.po | 
+ | [tr](/f34/language/tr) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/tr/kmines.po | 
+ | [wa](/f34/language/wa) | 108 | 156 | 69.2 | /mnt/stockage/packages/f34/kmines/po/wa/kmines.po | 
+ | [ar](/f34/language/ar) | 104 | 156 | 66.7 | /mnt/stockage/packages/f34/kmines/po/ar/kmines.po | 
+ | [ja](/f34/language/ja) | 102 | 156 | 65.4 | /mnt/stockage/packages/f34/kmines/po/ja/kmines.po | 
+ | [lv](/f34/language/lv) | 98 | 156 | 62.8 | /mnt/stockage/packages/f34/kmines/po/lv/kmines.po | 
+ | [fa](/f34/language/fa) | 85 | 156 | 54.5 | /mnt/stockage/packages/f34/kmines/po/fa/kmines.po | 
+ | [eo](/f34/language/eo) | 84 | 156 | 53.8 | /mnt/stockage/packages/f34/kmines/po/eo/kmines.po | 
+ | [hi](/f34/language/hi) | 79 | 156 | 50.6 | /mnt/stockage/packages/f34/kmines/po/hi/kmines.po | 
+ | [mr](/f34/language/mr) | 55 | 156 | 35.3 | /mnt/stockage/packages/f34/kmines/po/mr/kmines.po | 
+ | [sq](/f34/language/sq) | 42 | 156 | 26.9 | /mnt/stockage/packages/f34/kmines/po/sq/kmines.po | 
+ | [ug](/f34/language/ug) | 39 | 156 | 25.0 | /mnt/stockage/packages/f34/kmines/po/ug/kmines.po | 
+ | [he](/f34/language/he) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/he/kmines.po | 
+ | [hr](/f34/language/hr) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/hr/kmines.po | 
+ | [ta](/f34/language/ta) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/ta/kmines.po | 
+ | [tg](/f34/language/tg) | 37 | 156 | 23.7 | /mnt/stockage/packages/f34/kmines/po/tg/kmines.po | 
+ | [pa](/f34/language/pa) | 11 | 156 | 7.1 | /mnt/stockage/packages/f34/kmines/po/pa/kmines.po | 
+ | [be](/f34/language/be) | 5 | 156 | 3.2 | /mnt/stockage/packages/f34/kmines/po/be/kmines.po | 
+ | [se](/f34/language/se) | 0 | 156 | 0.0 | /mnt/stockage/packages/f34/kmines/po/se/kmines.po | 
 {.sortable}
 
 

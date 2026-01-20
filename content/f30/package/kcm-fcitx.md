@@ -18,16 +18,16 @@ The package kcm-fcitx (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/ca.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/de.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/ko.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 248 | 251 | 98.8 | /mnt/stockage/packages/f30/kcm-fcitx/po/zh_TW.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 239 | 251 | 95.2 | /mnt/stockage/packages/f30/kcm-fcitx/po/ru.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 205 | 251 | 81.7 | /mnt/stockage/packages/f30/kcm-fcitx/po/ja.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 194 | 251 | 77.3 | /mnt/stockage/packages/f30/kcm-fcitx/po/tr.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 57 | 251 | 22.7 | /mnt/stockage/packages/f30/kcm-fcitx/po/vi.po | 
+ | [ca](/f30/language/ca) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/ca.po | 
+ | [da](/f30/language/da) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/da.po | 
+ | [de](/f30/language/de) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/de.po | 
+ | [ko](/f30/language/ko) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/ko.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 251 | 251 | 100.0 | /mnt/stockage/packages/f30/kcm-fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 248 | 251 | 98.8 | /mnt/stockage/packages/f30/kcm-fcitx/po/zh_TW.po | 
+ | [ru](/f30/language/ru) | 239 | 251 | 95.2 | /mnt/stockage/packages/f30/kcm-fcitx/po/ru.po | 
+ | [ja](/f30/language/ja) | 205 | 251 | 81.7 | /mnt/stockage/packages/f30/kcm-fcitx/po/ja.po | 
+ | [tr](/f30/language/tr) | 194 | 251 | 77.3 | /mnt/stockage/packages/f30/kcm-fcitx/po/tr.po | 
+ | [vi](/f30/language/vi) | 57 | 251 | 22.7 | /mnt/stockage/packages/f30/kcm-fcitx/po/vi.po | 
 {.sortable}
 
 

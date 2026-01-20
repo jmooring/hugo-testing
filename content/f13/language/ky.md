@@ -40,33 +40,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bison]({{< ref "/f13/package/bison.md" >}}) | 52 | 52 | 100.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [dasher]({{< ref "/f13/package/dasher.md" >}}) | 471 | 471 | 100.0 |  | 
- | [gettext]({{< ref "/f13/package/gettext.md" >}}) | 366 | 366 | 100.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [gnome-backgrounds]({{< ref "/f13/package/gnome-backgrounds.md" >}}) | 35 | 35 | 100.0 | Kirghiz | 
- | [gnome-desktop]({{< ref "/f13/package/gnome-desktop.md" >}}) | 323 | 323 | 100.0 | Kirghiz | 
- | [gnome-mag]({{< ref "/f13/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Kirghiz <ztimur@gmail.com> | 
- | [gnome-menus]({{< ref "/f13/package/gnome-menus.md" >}}) | 133 | 133 | 100.0 | Kirghiz | 
- | [gnome-panel]({{< ref "/f13/package/gnome-panel.md" >}}) | 3974 | 3974 | 100.0 | Kirghiz | 
- | [gtkspell]({{< ref "/f13/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [vte]({{< ref "/f13/package/vte.md" >}}) | 96 | 96 | 100.0 | Kirghiz | 
- | [yelp]({{< ref "/f13/package/yelp.md" >}}) | 597 | 600 | 99.5 | <ru@li.org> | 
- | [poedit]({{< ref "/f13/package/poedit.md" >}}) | 1148 | 1162 | 98.8 | kyrgyz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [libgtop2]({{< ref "/f13/package/libgtop2.md" >}}) | 132 | 134 | 98.5 | Kitghiz | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 9911 | 10370 | 95.6 |  | 
- | [sysstat]({{< ref "/f13/package/sysstat.md" >}}) | 222 | 234 | 94.9 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [libwnck]({{< ref "/f13/package/libwnck.md" >}}) | 69 | 73 | 94.5 | Kirghiz | 
- | [tar]({{< ref "/f13/package/tar.md" >}}) | 2955 | 3247 | 91.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [gnome-themes]({{< ref "/f13/package/gnome-themes.md" >}}) | 87 | 104 | 83.7 | Kirghiz | 
- | [libgnomeprint22]({{< ref "/f13/package/libgnomeprint22.md" >}}) | 121 | 168 | 72.0 | Kirghiz | 
- | [xkeyboard-config]({{< ref "/f13/package/xkeyboard-config.md" >}}) | 1371 | 1907 | 71.9 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [lxmenu-data]({{< ref "/f13/package/lxmenu-data.md" >}}) | 59 | 97 | 60.8 | Kirghiz | 
- | [grep]({{< ref "/f13/package/grep.md" >}}) | 305 | 827 | 36.9 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f13/package/gstreamer-plugins-bad-free.md" >}}) | 26 | 72 | 36.1 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
- | [banshee]({{< ref "/f13/package/banshee.md" >}}) | 1228 | 4232 | 29.0 |  | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 1082 | 4046 | 26.7 |  | 
- | [pootle]({{< ref "/f13/package/pootle.md" >}}) | 134 | 2424 | 5.5 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [bison](/f13/package/bison) | 52 | 52 | 100.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [dasher](/f13/package/dasher) | 471 | 471 | 100.0 |  | 
+ | [gettext](/f13/package/gettext) | 366 | 366 | 100.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [gnome-backgrounds](/f13/package/gnome-backgrounds) | 35 | 35 | 100.0 | Kirghiz | 
+ | [gnome-desktop](/f13/package/gnome-desktop) | 323 | 323 | 100.0 | Kirghiz | 
+ | [gnome-mag](/f13/package/gnome-mag) | 5 | 5 | 100.0 | Kirghiz <ztimur@gmail.com> | 
+ | [gnome-menus](/f13/package/gnome-menus) | 133 | 133 | 100.0 | Kirghiz | 
+ | [gnome-panel](/f13/package/gnome-panel) | 3974 | 3974 | 100.0 | Kirghiz | 
+ | [gtkspell](/f13/package/gtkspell) | 11 | 11 | 100.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [vte](/f13/package/vte) | 96 | 96 | 100.0 | Kirghiz | 
+ | [yelp](/f13/package/yelp) | 597 | 600 | 99.5 | <ru@li.org> | 
+ | [poedit](/f13/package/poedit) | 1148 | 1162 | 98.8 | kyrgyz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [libgtop2](/f13/package/libgtop2) | 132 | 134 | 98.5 | Kitghiz | 
+ | [libgweather](/f13/package/libgweather) | 9911 | 10370 | 95.6 |  | 
+ | [sysstat](/f13/package/sysstat) | 222 | 234 | 94.9 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [libwnck](/f13/package/libwnck) | 69 | 73 | 94.5 | Kirghiz | 
+ | [tar](/f13/package/tar) | 2955 | 3247 | 91.0 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [gnome-themes](/f13/package/gnome-themes) | 87 | 104 | 83.7 | Kirghiz | 
+ | [libgnomeprint22](/f13/package/libgnomeprint22) | 121 | 168 | 72.0 | Kirghiz | 
+ | [xkeyboard-config](/f13/package/xkeyboard-config) | 1371 | 1907 | 71.9 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [lxmenu-data](/f13/package/lxmenu-data) | 59 | 97 | 60.8 | Kirghiz | 
+ | [grep](/f13/package/grep) | 305 | 827 | 36.9 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [gstreamer-plugins-bad-free](/f13/package/gstreamer-plugins-bad-free) | 26 | 72 | 36.1 | Kirghiz <i18n-team-ky-kyrgyz@lists.sourceforge.net> | 
+ | [banshee](/f13/package/banshee) | 1228 | 4232 | 29.0 |  | 
+ | [gnome-applets](/f13/package/gnome-applets) | 1082 | 4046 | 26.7 |  | 
+ | [pootle](/f13/package/pootle) | 134 | 2424 | 5.5 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -78,8 +78,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [banshee]({{< ref "/f13/package/banshee.md" >}}) | /mnt/stockage/packages/f13/banshee/po/ky.po | error-os |  | 
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | /mnt/stockage/packages/f13/gnome-applets/po/ky.po | error-os |  | 
+ | [banshee](/f13/package/banshee) | /mnt/stockage/packages/f13/banshee/po/ky.po | error-os |  | 
+ | [gnome-applets](/f13/package/gnome-applets) | /mnt/stockage/packages/f13/gnome-applets/po/ky.po | error-os |  | 
 {.sortable}
 
 

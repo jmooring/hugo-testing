@@ -40,12 +40,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f20/package/eog.md" >}}) | 1589 | 1589 | 100.0 | ts | 
- | [kde-i18n]({{< ref "/f20/package/kde-i18n.md" >}}) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 38026 | 97406 | 39.0 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 352 | 4946 | 7.1 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 17 | 382 | 4.5 | Tsonga <ts@li.org> | 
- | [exaile]({{< ref "/f20/package/exaile.md" >}}) | 1 | 4006 | 0.0 | Tsonga <ts@li.org> | 
+ | [eog](/f20/package/eog) | 1589 | 1589 | 100.0 | ts | 
+ | [kde-i18n](/f20/package/kde-i18n) | 5 | 5 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f20/package/libreoffice) | 38026 | 97406 | 39.0 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 352 | 4946 | 7.1 | Tsonga <translate-discuss-ts@lists.sourceforge.net> | 
+ | [mintmenu](/f20/package/mintmenu) | 17 | 382 | 4.5 | Tsonga <ts@li.org> | 
+ | [exaile](/f20/package/exaile) | 1 | 4006 | 0.0 | Tsonga <ts@li.org> | 
 {.sortable}
 
 

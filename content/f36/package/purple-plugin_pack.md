@@ -18,11 +18,11 @@ The package purple-plugin_pack (version 2.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 2179 | 2179 | 100.0 | /mnt/stockage/packages/f36/purple-plugin_pack/po/de.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 1597 | 2179 | 73.3 | /mnt/stockage/packages/f36/purple-plugin_pack/po/vi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1510 | 2179 | 69.3 | /mnt/stockage/packages/f36/purple-plugin_pack/po/fr.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 385 | 2179 | 17.7 | /mnt/stockage/packages/f36/purple-plugin_pack/po/es_ES.po | 
- | [en_AU]({{< ref "/f36/language/en_AU.md" >}}) | 0 | 2179 | 0.0 | /mnt/stockage/packages/f36/purple-plugin_pack/po/en_AU.po | 
+ | [de](/f36/language/de) | 2179 | 2179 | 100.0 | /mnt/stockage/packages/f36/purple-plugin_pack/po/de.po | 
+ | [vi](/f36/language/vi) | 1597 | 2179 | 73.3 | /mnt/stockage/packages/f36/purple-plugin_pack/po/vi.po | 
+ | [fr](/f36/language/fr) | 1510 | 2179 | 69.3 | /mnt/stockage/packages/f36/purple-plugin_pack/po/fr.po | 
+ | [es](/f36/language/es) | 385 | 2179 | 17.7 | /mnt/stockage/packages/f36/purple-plugin_pack/po/es_ES.po | 
+ | [en_AU](/f36/language/en_AU) | 0 | 2179 | 0.0 | /mnt/stockage/packages/f36/purple-plugin_pack/po/en_AU.po | 
 {.sortable}
 
 

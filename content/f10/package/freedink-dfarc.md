@@ -18,9 +18,9 @@ The package freedink-dfarc (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f10/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f10/freedink-dfarc/po/fr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 721 | 730 | 98.8 | /mnt/stockage/packages/f10/freedink-dfarc/po/pl.po | 
+ | [fi](/f10/language/fi) | 741 | 741 | 100.0 | /mnt/stockage/packages/f10/freedink-dfarc/po/fi.po | 
+ | [fr](/f10/language/fr) | 741 | 741 | 100.0 | /mnt/stockage/packages/f10/freedink-dfarc/po/fr.po | 
+ | [pl](/f10/language/pl) | 721 | 730 | 98.8 | /mnt/stockage/packages/f10/freedink-dfarc/po/pl.po | 
 {.sortable}
 
 

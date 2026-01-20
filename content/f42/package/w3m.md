@@ -18,12 +18,12 @@ The package w3m (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 952 | 959 | 99.3 | /mnt/stockage/packages/f42/w3m/po/de.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 952 | 959 | 99.3 | /mnt/stockage/packages/f42/w3m/po/it.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 952 | 959 | 99.3 | /mnt/stockage/packages/f42/w3m/po/sv_SE.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 949 | 959 | 99.0 | /mnt/stockage/packages/f42/w3m/po/ja.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 906 | 959 | 94.5 | /mnt/stockage/packages/f42/w3m/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 902 | 959 | 94.1 | /mnt/stockage/packages/f42/w3m/po/zh_CN.po | 
+ | [de](/f42/language/de) | 952 | 959 | 99.3 | /mnt/stockage/packages/f42/w3m/po/de.po | 
+ | [it](/f42/language/it) | 952 | 959 | 99.3 | /mnt/stockage/packages/f42/w3m/po/it.po | 
+ | [sv](/f42/language/sv) | 952 | 959 | 99.3 | /mnt/stockage/packages/f42/w3m/po/sv_SE.po | 
+ | [ja](/f42/language/ja) | 949 | 959 | 99.0 | /mnt/stockage/packages/f42/w3m/po/ja.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 906 | 959 | 94.5 | /mnt/stockage/packages/f42/w3m/po/zh_TW.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 902 | 959 | 94.1 | /mnt/stockage/packages/f42/w3m/po/zh_CN.po | 
 {.sortable}
 
 

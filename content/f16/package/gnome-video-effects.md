@@ -18,75 +18,75 @@ The package gnome-video-effects (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/bg.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/de.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/es.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/et.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/he.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/id.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/ko.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/nds.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/ro.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sl.po | 
- | [sr]({{< ref "/f16/language/sr.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sr@latin.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sv.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/uk.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 230 | 246 | 93.5 | /mnt/stockage/packages/f16/gnome-video-effects/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f16/language/zh_Hant_HK.md" >}}) | 230 | 246 | 93.5 | /mnt/stockage/packages/f16/gnome-video-effects/po/zh_HK.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 17 | 26 | 65.4 | /mnt/stockage/packages/f16/gnome-video-effects/po/ta.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 147 | 246 | 59.8 | /mnt/stockage/packages/f16/gnome-video-effects/po/nb.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 193 | 368 | 52.4 | /mnt/stockage/packages/f16/gnome-video-effects/po/ca.po/mnt/stockage/packages/f16/gnome-video-effects/po/ca@valencia.po | 
- | [af]({{< ref "/f16/language/af.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/af.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ar.po | 
- | [as]({{< ref "/f16/language/as.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ast.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/be.po | 
- | [be_Latn]({{< ref "/f16/language/be_Latn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/be@latin.po | 
- | [bn]({{< ref "/f16/language/bn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/bn.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/bn_IN.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/da.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/dz.po | 
- | [error]({{< ref "/f16/language/error.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/en@shaw.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/eu.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/fi.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ga.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/hi.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ja.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ka.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/kn.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ku.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/lv.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/mk.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/mr.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/nn.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/oc.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/or.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/pt.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ru.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/sq.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/te.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/tr.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/vi.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 74 | 239 | 31.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/pa.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 8 | 26 | 30.8 | /mnt/stockage/packages/f16/gnome-video-effects/po/ms.po | 
- | [ps]({{< ref "/f16/language/ps.md" >}}) | 8 | 26 | 30.8 | /mnt/stockage/packages/f16/gnome-video-effects/po/ps.po | 
- | [mai]({{< ref "/f16/language/mai.md" >}}) | 4 | 26 | 15.4 | /mnt/stockage/packages/f16/gnome-video-effects/po/mai.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 23 | 184 | 12.5 | /mnt/stockage/packages/f16/gnome-video-effects/po/zh_CN.po | 
+ | [bg](/f16/language/bg) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/bg.po | 
+ | [cs](/f16/language/cs) | 239 | 239 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/cs.po | 
+ | [de](/f16/language/de) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/de.po | 
+ | [el](/f16/language/el) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/en_GB.po | 
+ | [es](/f16/language/es) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/es.po | 
+ | [et](/f16/language/et) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/et.po | 
+ | [fr](/f16/language/fr) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/fr.po | 
+ | [gl](/f16/language/gl) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/gl.po | 
+ | [he](/f16/language/he) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/he.po | 
+ | [hu](/f16/language/hu) | 26 | 26 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/hu.po | 
+ | [id](/f16/language/id) | 175 | 175 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/id.po | 
+ | [ko](/f16/language/ko) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/ko.po | 
+ | [nds](/f16/language/nds) | 26 | 26 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/nds.po | 
+ | [pl](/f16/language/pl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/ro.po | 
+ | [sl](/f16/language/sl) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sl.po | 
+ | [sr](/f16/language/sr) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 184 | 184 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sr@latin.po | 
+ | [sv](/f16/language/sv) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/sv.po | 
+ | [uk](/f16/language/uk) | 246 | 246 | 100.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/uk.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 230 | 246 | 93.5 | /mnt/stockage/packages/f16/gnome-video-effects/po/zh_TW.po | 
+ | [zh_Hant_HK](/f16/language/zh_Hant_HK) | 230 | 246 | 93.5 | /mnt/stockage/packages/f16/gnome-video-effects/po/zh_HK.po | 
+ | [ta](/f16/language/ta) | 17 | 26 | 65.4 | /mnt/stockage/packages/f16/gnome-video-effects/po/ta.po | 
+ | [nb_NO](/f16/language/nb_NO) | 147 | 246 | 59.8 | /mnt/stockage/packages/f16/gnome-video-effects/po/nb.po | 
+ | [ca](/f16/language/ca) | 193 | 368 | 52.4 | /mnt/stockage/packages/f16/gnome-video-effects/po/ca.po/mnt/stockage/packages/f16/gnome-video-effects/po/ca@valencia.po | 
+ | [af](/f16/language/af) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/af.po | 
+ | [ar](/f16/language/ar) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ar.po | 
+ | [as](/f16/language/as) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/as.po | 
+ | [ast](/f16/language/ast) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ast.po | 
+ | [be](/f16/language/be) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/be.po | 
+ | [be_Latn](/f16/language/be_Latn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/be@latin.po | 
+ | [bn](/f16/language/bn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/bn.po | 
+ | [bn_IN](/f16/language/bn_IN) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/bn_IN.po | 
+ | [da](/f16/language/da) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/da.po | 
+ | [dz](/f16/language/dz) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/dz.po | 
+ | [error](/f16/language/error) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/en@shaw.po | 
+ | [eu](/f16/language/eu) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/eu.po | 
+ | [fi](/f16/language/fi) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/fi.po | 
+ | [ga](/f16/language/ga) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ga.po | 
+ | [gu](/f16/language/gu) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/gu.po | 
+ | [hi](/f16/language/hi) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/hi.po | 
+ | [it](/f16/language/it) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/it.po | 
+ | [ja](/f16/language/ja) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ja.po | 
+ | [ka](/f16/language/ka) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ka.po | 
+ | [kn](/f16/language/kn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/kn.po | 
+ | [ku](/f16/language/ku) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ku.po | 
+ | [lt](/f16/language/lt) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/lt.po | 
+ | [lv](/f16/language/lv) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/lv.po | 
+ | [mk](/f16/language/mk) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/mk.po | 
+ | [ml](/f16/language/ml) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ml.po | 
+ | [mr](/f16/language/mr) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/mr.po | 
+ | [nl](/f16/language/nl) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/nl.po | 
+ | [nn](/f16/language/nn) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/nn.po | 
+ | [oc](/f16/language/oc) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/oc.po | 
+ | [or](/f16/language/or) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/or.po | 
+ | [pt](/f16/language/pt) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/pt.po | 
+ | [ru](/f16/language/ru) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/ru.po | 
+ | [sq](/f16/language/sq) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/sq.po | 
+ | [te](/f16/language/te) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/te.po | 
+ | [th](/f16/language/th) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/th.po | 
+ | [tr](/f16/language/tr) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/tr.po | 
+ | [vi](/f16/language/vi) | 11 | 26 | 42.3 | /mnt/stockage/packages/f16/gnome-video-effects/po/vi.po | 
+ | [pa](/f16/language/pa) | 74 | 239 | 31.0 | /mnt/stockage/packages/f16/gnome-video-effects/po/pa.po | 
+ | [ms](/f16/language/ms) | 8 | 26 | 30.8 | /mnt/stockage/packages/f16/gnome-video-effects/po/ms.po | 
+ | [ps](/f16/language/ps) | 8 | 26 | 30.8 | /mnt/stockage/packages/f16/gnome-video-effects/po/ps.po | 
+ | [mai](/f16/language/mai) | 4 | 26 | 15.4 | /mnt/stockage/packages/f16/gnome-video-effects/po/mai.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 23 | 184 | 12.5 | /mnt/stockage/packages/f16/gnome-video-effects/po/zh_CN.po | 
 {.sortable}
 
 

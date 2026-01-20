@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f28/package/gnucash.md" >}}) | 27795 | 34158 | 81.4 | Manipuri (MM) <gistlrc@gmail.com> | 
- | [inkscape]({{< ref "/f28/package/inkscape.md" >}}) | 23509 | 38214 | 61.5 | gist | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 50604 | 98080 | 51.6 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f28/package/iok.md" >}}) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
+ | [gnucash](/f28/package/gnucash) | 27795 | 34158 | 81.4 | Manipuri (MM) <gistlrc@gmail.com> | 
+ | [inkscape](/f28/package/inkscape) | 23509 | 38214 | 61.5 | gist | 
+ | [libreoffice](/f28/package/libreoffice) | 50604 | 98080 | 51.6 | LANGUAGE <LL@li.org> | 
+ | [iok](/f28/package/iok) | 73 | 206 | 35.4 | Manipuri <LL@li.org> | 
 {.sortable}
 
 

@@ -38,77 +38,77 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sysstat]({{< ref "/f29/package/sysstat.md" >}}) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [oggconvert]({{< ref "/f29/package/oggconvert.md" >}}) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
- | [gettext]({{< ref "/f29/package/gettext.md" >}}) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gettext]({{< ref "/f29/package/mingw-gettext.md" >}}) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [libkexif]({{< ref "/f29/package/libkexif.md" >}}) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
- | [gstreamer1-plugins-ugly-free]({{< ref "/f29/package/gstreamer1-plugins-ugly-free.md" >}}) | 56 | 80 | 70.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f29/package/gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-bad-free]({{< ref "/f29/package/mingw-gstreamer-plugins-bad-free.md" >}}) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer-plugins-good]({{< ref "/f29/package/gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer-plugins-good]({{< ref "/f29/package/mingw-gstreamer-plugins-good.md" >}}) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-good]({{< ref "/f29/package/mingw-gstreamer1-plugins-good.md" >}}) | 350 | 794 | 44.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [gstreamer1-plugins-good]({{< ref "/f29/package/gstreamer1-plugins-good.md" >}}) | 350 | 812 | 43.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [sugar-toolkit-gtk3]({{< ref "/f29/package/sugar-toolkit-gtk3.md" >}}) | 53 | 159 | 33.3 | LANGUAGE <LL@li.org> | 
- | [koffice-kivio]({{< ref "/f29/package/koffice-kivio.md" >}}) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
- | [gstreamer1-plugins-bad-free]({{< ref "/f29/package/gstreamer1-plugins-bad-free.md" >}}) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [mingw-gstreamer1-plugins-bad-free]({{< ref "/f29/package/mingw-gstreamer1-plugins-bad-free.md" >}}) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
- | [dnfdragora]({{< ref "/f29/package/dnfdragora.md" >}}) | 146 | 820 | 17.8 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
- | [gnome-do]({{< ref "/f29/package/gnome-do.md" >}}) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
- | [iso-codes]({{< ref "/f29/package/iso-codes.md" >}}) | 836 | 15709 | 5.3 | Maltese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mt/> | 
- | [transmission]({{< ref "/f29/package/transmission.md" >}}) | 19 | 1809 | 1.1 | Maltese <mt@li.org> | 
- | [calibre]({{< ref "/f29/package/calibre.md" >}}) | 317 | 159002 | 0.2 | Maltese (http://www.transifex.com/calibre/calibre/language/mt/) | 
- | [appcenter]({{< ref "/f29/package/appcenter.md" >}}) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
- | [dippi]({{< ref "/f29/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-calculator]({{< ref "/f29/package/elementary-calculator.md" >}}) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-calendar]({{< ref "/f29/package/elementary-calendar.md" >}}) | 0 | 484 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-capnet-assist]({{< ref "/f29/package/elementary-capnet-assist.md" >}}) | 0 | 81 | 0.0 | none | 
- | [elementary-code]({{< ref "/f29/package/elementary-code.md" >}}) | 0 | 812 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f29/package/elementary-files.md" >}}) | 0 | 2818 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f29/package/elementary-greeter.md" >}}) | 0 | 76 | 0.0 |  | 
- | [elementary-music]({{< ref "/f29/package/elementary-music.md" >}}) | 0 | 1137 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-photos]({{< ref "/f29/package/elementary-photos.md" >}}) | 0 | 3775 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f29/package/elementary-screenshot-tool.md" >}}) | 0 | 129 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f29/package/elementary-shortcut-overlay.md" >}}) | 0 | 82 | 0.0 | none | 
- | [elementary-terminal]({{< ref "/f29/package/elementary-terminal.md" >}}) | 0 | 286 | 0.0 |  | 
- | [elementary-videos]({{< ref "/f29/package/elementary-videos.md" >}}) | 0 | 150 | 0.0 |  | 
- | [ephemeral]({{< ref "/f29/package/ephemeral.md" >}}) | 0 | 1809 | 0.0 | none | 
- | [granite]({{< ref "/f29/package/granite.md" >}}) | 0 | 150 | 0.0 |  | 
- | [harvey]({{< ref "/f29/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [nutty]({{< ref "/f29/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [olpc-switch-desktop]({{< ref "/f29/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [optimizer]({{< ref "/f29/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f29/package/pantheon-agent-geoclue2.md" >}}) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f29/package/pantheon-agent-polkit.md" >}}) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sequeler]({{< ref "/f29/package/sequeler.md" >}}) | 0 | 1352 | 0.0 |  | 
- | [sugar]({{< ref "/f29/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f29/package/switchboard.md" >}}) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f29/package/switchboard-plug-a11y.md" >}}) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f29/package/switchboard-plug-about.md" >}}) | 0 | 94 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f29/package/switchboard-plug-applications.md" >}}) | 0 | 86 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f29/package/switchboard-plug-bluetooth.md" >}}) | 0 | 74 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f29/package/switchboard-plug-display.md" >}}) | 0 | 113 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f29/package/switchboard-plug-keyboard.md" >}}) | 0 | 404 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f29/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 150 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f29/package/switchboard-plug-networking.md" >}}) | 0 | 444 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f29/package/switchboard-plug-notifications.md" >}}) | 0 | 139 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f29/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 153 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f29/package/switchboard-plug-printers.md" >}}) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f29/package/switchboard-plug-sharing.md" >}}) | 0 | 130 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f29/package/switchboard-plug-sound.md" >}}) | 0 | 131 | 0.0 |  | 
- | [vocal]({{< ref "/f29/package/vocal.md" >}}) | 0 | 377 | 0.0 | Maltese <mt@li.org> | 
- | [wingpanel]({{< ref "/f29/package/wingpanel.md" >}}) | 0 | 6 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f29/package/wingpanel-applications-menu.md" >}}) | 0 | 222 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f29/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 15 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f29/package/wingpanel-indicator-datetime.md" >}}) | 0 | 14 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f29/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 10 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f29/package/wingpanel-indicator-network.md" >}}) | 0 | 76 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f29/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 16 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f29/package/wingpanel-indicator-notifications.md" >}}) | 0 | 16 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f29/package/wingpanel-indicator-power.md" >}}) | 0 | 93 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f29/package/wingpanel-indicator-session.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f29/package/wingpanel-indicator-sound.md" >}}) | 0 | 14 | 0.0 | none | 
+ | [sysstat](/f29/package/sysstat) | 412 | 412 | 100.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [oggconvert](/f29/package/oggconvert) | 123 | 132 | 93.2 | Maltese <mt@li.org> | 
+ | [gettext](/f29/package/gettext) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gettext](/f29/package/mingw-gettext) | 368 | 438 | 84.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [libkexif](/f29/package/libkexif) | 21 | 25 | 84.0 | Maltese <mt@li.org> | 
+ | [gstreamer1-plugins-ugly-free](/f29/package/gstreamer1-plugins-ugly-free) | 56 | 80 | 70.0 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer-plugins-bad-free](/f29/package/gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-bad-free](/f29/package/mingw-gstreamer-plugins-bad-free) | 66 | 96 | 68.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer-plugins-good](/f29/package/gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer-plugins-good](/f29/package/mingw-gstreamer-plugins-good) | 473 | 814 | 58.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-good](/f29/package/mingw-gstreamer1-plugins-good) | 350 | 794 | 44.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [gstreamer1-plugins-good](/f29/package/gstreamer1-plugins-good) | 350 | 812 | 43.1 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [sugar-toolkit-gtk3](/f29/package/sugar-toolkit-gtk3) | 53 | 159 | 33.3 | LANGUAGE <LL@li.org> | 
+ | [koffice-kivio](/f29/package/koffice-kivio) | 1910 | 8417 | 22.7 | Maltese <mt@li.org> | 
+ | [gstreamer1-plugins-bad-free](/f29/package/gstreamer1-plugins-bad-free) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [mingw-gstreamer1-plugins-bad-free](/f29/package/mingw-gstreamer1-plugins-bad-free) | 43 | 197 | 21.8 | Maltese <translation-team-mt@lists.sourceforge.net> | 
+ | [dnfdragora](/f29/package/dnfdragora) | 146 | 820 | 17.8 | Maltese (https://www.transifex.com/MageiaLinux/teams/9361/mt/) | 
+ | [gnome-do](/f29/package/gnome-do) | 62 | 612 | 10.1 | Maltese <mt@li.org> | 
+ | [iso-codes](/f29/package/iso-codes) | 836 | 15709 | 5.3 | Maltese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mt/> | 
+ | [transmission](/f29/package/transmission) | 19 | 1809 | 1.1 | Maltese <mt@li.org> | 
+ | [calibre](/f29/package/calibre) | 317 | 159002 | 0.2 | Maltese (http://www.transifex.com/calibre/calibre/language/mt/) | 
+ | [appcenter](/f29/package/appcenter) | 0 | 765 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dippi](/f29/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-calculator](/f29/package/elementary-calculator) | 0 | 80 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-calendar](/f29/package/elementary-calendar) | 0 | 484 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-capnet-assist](/f29/package/elementary-capnet-assist) | 0 | 81 | 0.0 | none | 
+ | [elementary-code](/f29/package/elementary-code) | 0 | 812 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f29/package/elementary-files) | 0 | 2818 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f29/package/elementary-greeter) | 0 | 76 | 0.0 |  | 
+ | [elementary-music](/f29/package/elementary-music) | 0 | 1137 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-photos](/f29/package/elementary-photos) | 0 | 3775 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f29/package/elementary-screenshot-tool) | 0 | 129 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f29/package/elementary-shortcut-overlay) | 0 | 82 | 0.0 | none | 
+ | [elementary-terminal](/f29/package/elementary-terminal) | 0 | 286 | 0.0 |  | 
+ | [elementary-videos](/f29/package/elementary-videos) | 0 | 150 | 0.0 |  | 
+ | [ephemeral](/f29/package/ephemeral) | 0 | 1809 | 0.0 | none | 
+ | [granite](/f29/package/granite) | 0 | 150 | 0.0 |  | 
+ | [harvey](/f29/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [nutty](/f29/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [olpc-switch-desktop](/f29/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [optimizer](/f29/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f29/package/pantheon-agent-geoclue2) | 0 | 99 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f29/package/pantheon-agent-polkit) | 0 | 20 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sequeler](/f29/package/sequeler) | 0 | 1352 | 0.0 |  | 
+ | [sugar](/f29/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f29/package/switchboard) | 0 | 61 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f29/package/switchboard-plug-a11y) | 0 | 182 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f29/package/switchboard-plug-about) | 0 | 94 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f29/package/switchboard-plug-applications) | 0 | 86 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f29/package/switchboard-plug-bluetooth) | 0 | 74 | 0.0 | none | 
+ | [switchboard-plug-display](/f29/package/switchboard-plug-display) | 0 | 113 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f29/package/switchboard-plug-keyboard) | 0 | 404 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f29/package/switchboard-plug-mouse-touchpad) | 0 | 150 | 0.0 | none | 
+ | [switchboard-plug-networking](/f29/package/switchboard-plug-networking) | 0 | 444 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f29/package/switchboard-plug-notifications) | 0 | 139 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f29/package/switchboard-plug-pantheon-shell) | 0 | 153 | 0.0 |  | 
+ | [switchboard-plug-printers](/f29/package/switchboard-plug-printers) | 0 | 336 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f29/package/switchboard-plug-sharing) | 0 | 130 | 0.0 | none | 
+ | [switchboard-plug-sound](/f29/package/switchboard-plug-sound) | 0 | 131 | 0.0 |  | 
+ | [vocal](/f29/package/vocal) | 0 | 377 | 0.0 | Maltese <mt@li.org> | 
+ | [wingpanel](/f29/package/wingpanel) | 0 | 6 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f29/package/wingpanel-applications-menu) | 0 | 222 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f29/package/wingpanel-indicator-bluetooth) | 0 | 15 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f29/package/wingpanel-indicator-datetime) | 0 | 14 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f29/package/wingpanel-indicator-keyboard) | 0 | 10 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f29/package/wingpanel-indicator-network) | 0 | 76 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f29/package/wingpanel-indicator-nightlight) | 0 | 16 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f29/package/wingpanel-indicator-notifications) | 0 | 16 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f29/package/wingpanel-indicator-power) | 0 | 93 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f29/package/wingpanel-indicator-session) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f29/package/wingpanel-indicator-sound) | 0 | 14 | 0.0 | none | 
 {.sortable}
 
 

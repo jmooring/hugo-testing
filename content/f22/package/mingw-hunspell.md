@@ -18,8 +18,8 @@ The package mingw-hunspell (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 509 | 519 | 98.1 | /mnt/stockage/packages/f22/mingw-hunspell/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 499 | 519 | 96.1 | /mnt/stockage/packages/f22/mingw-hunspell/po/it.po | 
+ | [hu](/f22/language/hu) | 509 | 519 | 98.1 | /mnt/stockage/packages/f22/mingw-hunspell/po/hu.po | 
+ | [it](/f22/language/it) | 499 | 519 | 96.1 | /mnt/stockage/packages/f22/mingw-hunspell/po/it.po | 
 {.sortable}
 
 

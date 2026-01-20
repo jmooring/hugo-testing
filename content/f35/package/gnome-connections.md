@@ -18,47 +18,47 @@ The package gnome-connections (version 41.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/ca/ca.po/mnt/stockage/packages/f35/gnome-connections/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/cs/cs.po/mnt/stockage/packages/f35/gnome-connections/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 371 | 371 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/da/da.po/mnt/stockage/packages/f35/gnome-connections/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/de/de.po/mnt/stockage/packages/f35/gnome-connections/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/en_GB/en_GB.po/mnt/stockage/packages/f35/gnome-connections/po/en_GB.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 475 | 475 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/es/es.po/mnt/stockage/packages/f35/gnome-connections/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/eu/eu.po/mnt/stockage/packages/f35/gnome-connections/po/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fa.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fur.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/hu/hu.po/mnt/stockage/packages/f35/gnome-connections/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/id/id.po/mnt/stockage/packages/f35/gnome-connections/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/lt.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ne.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/oc.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/pl/pl.po/mnt/stockage/packages/f35/gnome-connections/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gnome-connections/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/sv/sv.po/mnt/stockage/packages/f35/gnome-connections/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/tr/tr.po/mnt/stockage/packages/f35/gnome-connections/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/uk/uk.po/mnt/stockage/packages/f35/gnome-connections/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 83 | 174 | 47.7 | /mnt/stockage/packages/f35/gnome-connections/po/nb.po | 
+ | [ca](/f35/language/ca) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/ca/ca.po/mnt/stockage/packages/f35/gnome-connections/po/ca.po | 
+ | [cs](/f35/language/cs) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/cs/cs.po/mnt/stockage/packages/f35/gnome-connections/po/cs.po | 
+ | [da](/f35/language/da) | 371 | 371 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/da/da.po/mnt/stockage/packages/f35/gnome-connections/po/da.po | 
+ | [de](/f35/language/de) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/de/de.po/mnt/stockage/packages/f35/gnome-connections/po/de.po | 
+ | [el](/f35/language/el) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 341 | 341 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/en_GB/en_GB.po/mnt/stockage/packages/f35/gnome-connections/po/en_GB.po | 
+ | [eo](/f35/language/eo) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/eo.po | 
+ | [es](/f35/language/es) | 475 | 475 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/es/es.po/mnt/stockage/packages/f35/gnome-connections/po/es.po | 
+ | [eu](/f35/language/eu) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/eu/eu.po/mnt/stockage/packages/f35/gnome-connections/po/eu.po | 
+ | [fa](/f35/language/fa) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fa.po | 
+ | [fi](/f35/language/fi) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fi.po | 
+ | [fr](/f35/language/fr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fr.po | 
+ | [fur](/f35/language/fur) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/fur.po | 
+ | [gl](/f35/language/gl) | 271 | 271 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/gl.po | 
+ | [he](/f35/language/he) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/he.po | 
+ | [hr](/f35/language/hr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/hr.po | 
+ | [hu](/f35/language/hu) | 341 | 341 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/hu/hu.po/mnt/stockage/packages/f35/gnome-connections/po/hu.po | 
+ | [id](/f35/language/id) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/id/id.po/mnt/stockage/packages/f35/gnome-connections/po/id.po | 
+ | [it](/f35/language/it) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/it.po | 
+ | [ja](/f35/language/ja) | 180 | 180 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ja.po | 
+ | [kk](/f35/language/kk) | 174 | 174 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/kk.po | 
+ | [ko](/f35/language/ko) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ko.po | 
+ | [lt](/f35/language/lt) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/lt.po | 
+ | [ne](/f35/language/ne) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ne.po | 
+ | [nl](/f35/language/nl) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/nl.po | 
+ | [oc](/f35/language/oc) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/oc.po | 
+ | [pa](/f35/language/pa) | 184 | 184 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/pa.po | 
+ | [pl](/f35/language/pl) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/pl/pl.po/mnt/stockage/packages/f35/gnome-connections/po/pl.po | 
+ | [pt](/f35/language/pt) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/gnome-connections/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ro.po | 
+ | [ru](/f35/language/ru) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/ru.po | 
+ | [sk](/f35/language/sk) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/sk.po | 
+ | [sl](/f35/language/sl) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/sl.po | 
+ | [sr](/f35/language/sr) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/sr.po | 
+ | [sv](/f35/language/sv) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/sv/sv.po/mnt/stockage/packages/f35/gnome-connections/po/sv.po | 
+ | [tr](/f35/language/tr) | 525 | 525 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/tr/tr.po/mnt/stockage/packages/f35/gnome-connections/po/tr.po | 
+ | [uk](/f35/language/uk) | 527 | 527 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/help/uk/uk.po/mnt/stockage/packages/f35/gnome-connections/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 368 | 368 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 213 | 213 | 100.0 | /mnt/stockage/packages/f35/gnome-connections/po/zh_TW.po | 
+ | [nb_NO](/f35/language/nb_NO) | 83 | 174 | 47.7 | /mnt/stockage/packages/f35/gnome-connections/po/nb.po | 
 {.sortable}
 
 

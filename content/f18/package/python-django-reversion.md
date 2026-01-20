@@ -18,16 +18,16 @@ The package python-django-reversion (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/fr/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/he/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/it/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/nb/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/ru/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/sv/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 117 | 119 | 98.3 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/cs/LC_MESSAGES/django.po | 
+ | [de](/f18/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f18/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/fr/LC_MESSAGES/django.po | 
+ | [he](/f18/language/he) | 117 | 117 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/he/LC_MESSAGES/django.po | 
+ | [it](/f18/language/it) | 117 | 117 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/it/LC_MESSAGES/django.po | 
+ | [nb_NO](/f18/language/nb_NO) | 116 | 116 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/nb/LC_MESSAGES/django.po | 
+ | [pl](/f18/language/pl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f18/language/pt_BR) | 117 | 117 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f18/language/ru) | 119 | 119 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/ru/LC_MESSAGES/django.po | 
+ | [sv](/f18/language/sv) | 120 | 120 | 100.0 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/sv/LC_MESSAGES/django.po | 
+ | [cs](/f18/language/cs) | 117 | 119 | 98.3 | /mnt/stockage/packages/f18/python-django-reversion/src/reversion/locale/cs/LC_MESSAGES/django.po | 
 {.sortable}
 
 

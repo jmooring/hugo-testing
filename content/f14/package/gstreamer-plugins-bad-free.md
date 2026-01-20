@@ -18,44 +18,44 @@ The package gstreamer-plugins-bad-free (version 0.10.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/bg.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/gl.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/it.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/lv.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/pt_BR.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sk.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/tr.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/zh_CN.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 66 | 72 | 91.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ja.po | 
- | [mt]({{< ref "/f14/language/mt.md" >}}) | 66 | 72 | 91.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/mt.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 49 | 72 | 68.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/lt.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 49 | 72 | 68.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/nb.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 49 | 72 | 68.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sq.po | 
- | [ky]({{< ref "/f14/language/ky.md" >}}) | 26 | 72 | 36.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ky.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 26 | 72 | 36.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/uk.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/af.po | 
- | [az]({{< ref "/f14/language/az.md" >}}) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/az.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ca.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/en_GB.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/or.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sr.po | 
+ | [bg](/f14/language/bg) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/bg.po | 
+ | [cs](/f14/language/cs) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/cs.po | 
+ | [da](/f14/language/da) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/da.po | 
+ | [de](/f14/language/de) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/de.po | 
+ | [el](/f14/language/el) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/el.po | 
+ | [es](/f14/language/es) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/es.po | 
+ | [eu](/f14/language/eu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/eu.po | 
+ | [fi](/f14/language/fi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/fi.po | 
+ | [fr](/f14/language/fr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/fr.po | 
+ | [gl](/f14/language/gl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/gl.po | 
+ | [hu](/f14/language/hu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/hu.po | 
+ | [id](/f14/language/id) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/id.po | 
+ | [it](/f14/language/it) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/it.po | 
+ | [lv](/f14/language/lv) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/lv.po | 
+ | [nl](/f14/language/nl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/nl.po | 
+ | [pl](/f14/language/pl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/pt_BR.po | 
+ | [ro](/f14/language/ro) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ro.po | 
+ | [ru](/f14/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ru.po | 
+ | [sk](/f14/language/sk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sk.po | 
+ | [sl](/f14/language/sl) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sl.po | 
+ | [sv](/f14/language/sv) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sv.po | 
+ | [tr](/f14/language/tr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/tr.po | 
+ | [vi](/f14/language/vi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 72 | 72 | 100.0 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/zh_CN.po | 
+ | [ja](/f14/language/ja) | 66 | 72 | 91.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ja.po | 
+ | [mt](/f14/language/mt) | 66 | 72 | 91.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/mt.po | 
+ | [lt](/f14/language/lt) | 49 | 72 | 68.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/lt.po | 
+ | [nb_NO](/f14/language/nb_NO) | 49 | 72 | 68.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/nb.po | 
+ | [sq](/f14/language/sq) | 49 | 72 | 68.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sq.po | 
+ | [ky](/f14/language/ky) | 26 | 72 | 36.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ky.po | 
+ | [uk](/f14/language/uk) | 26 | 72 | 36.1 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/uk.po | 
+ | [af](/f14/language/af) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/af.po | 
+ | [az](/f14/language/az) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/az.po | 
+ | [ca](/f14/language/ca) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/ca.po | 
+ | [en_GB](/f14/language/en_GB) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/en_GB.po | 
+ | [or](/f14/language/or) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/or.po | 
+ | [sr](/f14/language/sr) | 25 | 72 | 34.7 | /mnt/stockage/packages/f14/gstreamer-plugins-bad-free/po/sr.po | 
 {.sortable}
 
 

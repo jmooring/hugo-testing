@@ -18,59 +18,59 @@ The package libgda (version 6.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 11350 | 11350 | 100.0 | /mnt/stockage/packages/f39/libgda/po/bs.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 12153 | 12153 | 100.0 | /mnt/stockage/packages/f39/libgda/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 17925 | 17925 | 100.0 | /mnt/stockage/packages/f39/libgda/po/cs.po/mnt/stockage/packages/f39/libgda/tools/browser/help/cs/cs.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 17031 | 17031 | 100.0 | /mnt/stockage/packages/f39/libgda/po/el.po/mnt/stockage/packages/f39/libgda/tools/browser/help/el/el.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 17922 | 17922 | 100.0 | /mnt/stockage/packages/f39/libgda/po/es.po/mnt/stockage/packages/f39/libgda/tools/browser/help/es/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 11349 | 11349 | 100.0 | /mnt/stockage/packages/f39/libgda/po/eu.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 12141 | 12141 | 100.0 | /mnt/stockage/packages/f39/libgda/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 17922 | 17922 | 100.0 | /mnt/stockage/packages/f39/libgda/po/id.po/mnt/stockage/packages/f39/libgda/tools/browser/help/id/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 11262 | 11262 | 100.0 | /mnt/stockage/packages/f39/libgda/po/it.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 11262 | 11262 | 100.0 | /mnt/stockage/packages/f39/libgda/po/pt.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 23420 | 23420 | 100.0 | /mnt/stockage/packages/f39/libgda/po/sr@latin.po/mnt/stockage/packages/f39/libgda/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 17922 | 17922 | 100.0 | /mnt/stockage/packages/f39/libgda/po/sv.po/mnt/stockage/packages/f39/libgda/tools/browser/help/sv/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 11262 | 11262 | 100.0 | /mnt/stockage/packages/f39/libgda/po/tr.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 17302 | 17382 | 99.5 | /mnt/stockage/packages/f39/libgda/po/de.po/mnt/stockage/packages/f39/libgda/tools/browser/help/de/de.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 11172 | 12153 | 91.9 | /mnt/stockage/packages/f39/libgda/po/da.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 10016 | 11395 | 87.9 | /mnt/stockage/packages/f39/libgda/po/ro.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 9623 | 11142 | 86.4 | /mnt/stockage/packages/f39/libgda/po/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 11883 | 14349 | 82.8 | /mnt/stockage/packages/f39/libgda/po/gl.po/mnt/stockage/packages/f39/libgda/tools/browser/help/gl/gl.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 9201 | 11262 | 81.7 | /mnt/stockage/packages/f39/libgda/po/oc.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 12467 | 17102 | 72.9 | /mnt/stockage/packages/f39/libgda/po/zh_CN.po/mnt/stockage/packages/f39/libgda/tools/browser/help/zh_CN/zh_CN.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 12607 | 17885 | 70.5 | /mnt/stockage/packages/f39/libgda/po/pt_BR.po/mnt/stockage/packages/f39/libgda/tools/browser/help/pt_BR/pt_BR.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 11404 | 16999 | 67.1 | /mnt/stockage/packages/f39/libgda/po/sl.po/mnt/stockage/packages/f39/libgda/tools/browser/help/sl/sl.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 7957 | 12153 | 65.5 | /mnt/stockage/packages/f39/libgda/po/uk.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 7342 | 11246 | 65.3 | /mnt/stockage/packages/f39/libgda/po/ru.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 5048 | 11142 | 45.3 | /mnt/stockage/packages/f39/libgda/po/fi.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 3013 | 11395 | 26.4 | /mnt/stockage/packages/f39/libgda/po/nb.po | 
- | [ne]({{< ref "/f39/language/ne.md" >}}) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f39/libgda/po/ne.po | 
- | [vi]({{< ref "/f39/language/vi.md" >}}) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f39/libgda/po/vi.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 1749 | 11322 | 15.4 | /mnt/stockage/packages/f39/libgda/po/ca@valencia.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 1490 | 11142 | 13.4 | /mnt/stockage/packages/f39/libgda/po/en_GB.po | 
- | [dz]({{< ref "/f39/language/dz.md" >}}) | 1488 | 11142 | 13.4 | /mnt/stockage/packages/f39/libgda/po/dz.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f39/libgda/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f39/language/zh_Hant_HK.md" >}}) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f39/libgda/po/zh_HK.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 844 | 11262 | 7.5 | /mnt/stockage/packages/f39/libgda/po/lt.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 623 | 11452 | 5.4 | /mnt/stockage/packages/f39/libgda/po/lv.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 484 | 11267 | 4.3 | /mnt/stockage/packages/f39/libgda/po/eo.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 316 | 11142 | 2.8 | /mnt/stockage/packages/f39/libgda/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 281 | 11142 | 2.5 | /mnt/stockage/packages/f39/libgda/po/nl.po | 
- | [tg]({{< ref "/f39/language/tg.md" >}}) | 261 | 11322 | 2.3 | /mnt/stockage/packages/f39/libgda/po/tg.po | 
- | [en_CA]({{< ref "/f39/language/en_CA.md" >}}) | 222 | 11142 | 2.0 | /mnt/stockage/packages/f39/libgda/po/en_CA.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f39/libgda/po/hr.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f39/libgda/po/ms.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f39/libgda/po/sk.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 37 | 11142 | 0.3 | /mnt/stockage/packages/f39/libgda/po/ko.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 31 | 11142 | 0.3 | /mnt/stockage/packages/f39/libgda/po/fa.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 28 | 11142 | 0.3 | /mnt/stockage/packages/f39/libgda/po/sq.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 27 | 11142 | 0.2 | /mnt/stockage/packages/f39/libgda/po/pa.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f39/libgda/po/ar.po | 
- | [rw]({{< ref "/f39/language/rw.md" >}}) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f39/libgda/po/rw.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 14 | 11142 | 0.1 | /mnt/stockage/packages/f39/libgda/po/ga.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 12 | 11142 | 0.1 | /mnt/stockage/packages/f39/libgda/po/ml.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 7 | 11142 | 0.1 | /mnt/stockage/packages/f39/libgda/po/az.po | 
- | [mk]({{< ref "/f39/language/mk.md" >}}) | 0 | 11142 | 0.0 | /mnt/stockage/packages/f39/libgda/po/mk.po | 
+ | [bs](/f39/language/bs) | 11350 | 11350 | 100.0 | /mnt/stockage/packages/f39/libgda/po/bs.po | 
+ | [ca](/f39/language/ca) | 12153 | 12153 | 100.0 | /mnt/stockage/packages/f39/libgda/po/ca.po | 
+ | [cs](/f39/language/cs) | 17925 | 17925 | 100.0 | /mnt/stockage/packages/f39/libgda/po/cs.po/mnt/stockage/packages/f39/libgda/tools/browser/help/cs/cs.po | 
+ | [el](/f39/language/el) | 17031 | 17031 | 100.0 | /mnt/stockage/packages/f39/libgda/po/el.po/mnt/stockage/packages/f39/libgda/tools/browser/help/el/el.po | 
+ | [es](/f39/language/es) | 17922 | 17922 | 100.0 | /mnt/stockage/packages/f39/libgda/po/es.po/mnt/stockage/packages/f39/libgda/tools/browser/help/es/es.po | 
+ | [eu](/f39/language/eu) | 11349 | 11349 | 100.0 | /mnt/stockage/packages/f39/libgda/po/eu.po | 
+ | [hu](/f39/language/hu) | 12141 | 12141 | 100.0 | /mnt/stockage/packages/f39/libgda/po/hu.po | 
+ | [id](/f39/language/id) | 17922 | 17922 | 100.0 | /mnt/stockage/packages/f39/libgda/po/id.po/mnt/stockage/packages/f39/libgda/tools/browser/help/id/id.po | 
+ | [it](/f39/language/it) | 11262 | 11262 | 100.0 | /mnt/stockage/packages/f39/libgda/po/it.po | 
+ | [pt](/f39/language/pt) | 11262 | 11262 | 100.0 | /mnt/stockage/packages/f39/libgda/po/pt.po | 
+ | [sr](/f39/language/sr) | 23420 | 23420 | 100.0 | /mnt/stockage/packages/f39/libgda/po/sr@latin.po/mnt/stockage/packages/f39/libgda/po/sr.po | 
+ | [sv](/f39/language/sv) | 17922 | 17922 | 100.0 | /mnt/stockage/packages/f39/libgda/po/sv.po/mnt/stockage/packages/f39/libgda/tools/browser/help/sv/sv.po | 
+ | [tr](/f39/language/tr) | 11262 | 11262 | 100.0 | /mnt/stockage/packages/f39/libgda/po/tr.po | 
+ | [de](/f39/language/de) | 17302 | 17382 | 99.5 | /mnt/stockage/packages/f39/libgda/po/de.po/mnt/stockage/packages/f39/libgda/tools/browser/help/de/de.po | 
+ | [da](/f39/language/da) | 11172 | 12153 | 91.9 | /mnt/stockage/packages/f39/libgda/po/da.po | 
+ | [ro](/f39/language/ro) | 10016 | 11395 | 87.9 | /mnt/stockage/packages/f39/libgda/po/ro.po | 
+ | [fr](/f39/language/fr) | 9623 | 11142 | 86.4 | /mnt/stockage/packages/f39/libgda/po/fr.po | 
+ | [gl](/f39/language/gl) | 11883 | 14349 | 82.8 | /mnt/stockage/packages/f39/libgda/po/gl.po/mnt/stockage/packages/f39/libgda/tools/browser/help/gl/gl.po | 
+ | [oc](/f39/language/oc) | 9201 | 11262 | 81.7 | /mnt/stockage/packages/f39/libgda/po/oc.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 12467 | 17102 | 72.9 | /mnt/stockage/packages/f39/libgda/po/zh_CN.po/mnt/stockage/packages/f39/libgda/tools/browser/help/zh_CN/zh_CN.po | 
+ | [pt_BR](/f39/language/pt_BR) | 12607 | 17885 | 70.5 | /mnt/stockage/packages/f39/libgda/po/pt_BR.po/mnt/stockage/packages/f39/libgda/tools/browser/help/pt_BR/pt_BR.po | 
+ | [sl](/f39/language/sl) | 11404 | 16999 | 67.1 | /mnt/stockage/packages/f39/libgda/po/sl.po/mnt/stockage/packages/f39/libgda/tools/browser/help/sl/sl.po | 
+ | [uk](/f39/language/uk) | 7957 | 12153 | 65.5 | /mnt/stockage/packages/f39/libgda/po/uk.po | 
+ | [ru](/f39/language/ru) | 7342 | 11246 | 65.3 | /mnt/stockage/packages/f39/libgda/po/ru.po | 
+ | [fi](/f39/language/fi) | 5048 | 11142 | 45.3 | /mnt/stockage/packages/f39/libgda/po/fi.po | 
+ | [nb_NO](/f39/language/nb_NO) | 3013 | 11395 | 26.4 | /mnt/stockage/packages/f39/libgda/po/nb.po | 
+ | [ne](/f39/language/ne) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f39/libgda/po/ne.po | 
+ | [vi](/f39/language/vi) | 2049 | 11142 | 18.4 | /mnt/stockage/packages/f39/libgda/po/vi.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 1749 | 11322 | 15.4 | /mnt/stockage/packages/f39/libgda/po/ca@valencia.po | 
+ | [en_GB](/f39/language/en_GB) | 1490 | 11142 | 13.4 | /mnt/stockage/packages/f39/libgda/po/en_GB.po | 
+ | [dz](/f39/language/dz) | 1488 | 11142 | 13.4 | /mnt/stockage/packages/f39/libgda/po/dz.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f39/libgda/po/zh_TW.po | 
+ | [zh_Hant_HK](/f39/language/zh_Hant_HK) | 1081 | 11142 | 9.7 | /mnt/stockage/packages/f39/libgda/po/zh_HK.po | 
+ | [lt](/f39/language/lt) | 844 | 11262 | 7.5 | /mnt/stockage/packages/f39/libgda/po/lt.po | 
+ | [lv](/f39/language/lv) | 623 | 11452 | 5.4 | /mnt/stockage/packages/f39/libgda/po/lv.po | 
+ | [eo](/f39/language/eo) | 484 | 11267 | 4.3 | /mnt/stockage/packages/f39/libgda/po/eo.po | 
+ | [ja](/f39/language/ja) | 316 | 11142 | 2.8 | /mnt/stockage/packages/f39/libgda/po/ja.po | 
+ | [nl](/f39/language/nl) | 281 | 11142 | 2.5 | /mnt/stockage/packages/f39/libgda/po/nl.po | 
+ | [tg](/f39/language/tg) | 261 | 11322 | 2.3 | /mnt/stockage/packages/f39/libgda/po/tg.po | 
+ | [en_CA](/f39/language/en_CA) | 222 | 11142 | 2.0 | /mnt/stockage/packages/f39/libgda/po/en_CA.po | 
+ | [hr](/f39/language/hr) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f39/libgda/po/hr.po | 
+ | [ms](/f39/language/ms) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f39/libgda/po/ms.po | 
+ | [sk](/f39/language/sk) | 78 | 11142 | 0.7 | /mnt/stockage/packages/f39/libgda/po/sk.po | 
+ | [ko](/f39/language/ko) | 37 | 11142 | 0.3 | /mnt/stockage/packages/f39/libgda/po/ko.po | 
+ | [fa](/f39/language/fa) | 31 | 11142 | 0.3 | /mnt/stockage/packages/f39/libgda/po/fa.po | 
+ | [sq](/f39/language/sq) | 28 | 11142 | 0.3 | /mnt/stockage/packages/f39/libgda/po/sq.po | 
+ | [pa](/f39/language/pa) | 27 | 11142 | 0.2 | /mnt/stockage/packages/f39/libgda/po/pa.po | 
+ | [ar](/f39/language/ar) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f39/libgda/po/ar.po | 
+ | [rw](/f39/language/rw) | 23 | 11142 | 0.2 | /mnt/stockage/packages/f39/libgda/po/rw.po | 
+ | [ga](/f39/language/ga) | 14 | 11142 | 0.1 | /mnt/stockage/packages/f39/libgda/po/ga.po | 
+ | [ml](/f39/language/ml) | 12 | 11142 | 0.1 | /mnt/stockage/packages/f39/libgda/po/ml.po | 
+ | [az](/f39/language/az) | 7 | 11142 | 0.1 | /mnt/stockage/packages/f39/libgda/po/az.po | 
+ | [mk](/f39/language/mk) | 0 | 11142 | 0.0 | /mnt/stockage/packages/f39/libgda/po/mk.po | 
 {.sortable}
 
 

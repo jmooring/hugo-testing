@@ -18,83 +18,83 @@ The package system-config-samba (version 1.2.100):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/bg.po | 
- | [bn]({{< ref "/f21/language/bn.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/bn.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/bn_IN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/es.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/fa.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/fr.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/ja.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/kn.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/lv.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/nb.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/pt.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/ru.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/sk.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/zh_TW.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/ar.po | 
- | [gu]({{< ref "/f21/language/gu.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/gu.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/he.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/hi.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/is.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/ml.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/mr.po | 
- | [or]({{< ref "/f21/language/or.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/or.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/pa.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/sr.po | 
- | [sr_Latn]({{< ref "/f21/language/sr_Latn.md" >}}) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/sr@latin.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 488 | 571 | 85.5 | /mnt/stockage/packages/f21/system-config-samba/po/el.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 444 | 571 | 77.8 | /mnt/stockage/packages/f21/system-config-samba/po/ko.po | 
- | [th]({{< ref "/f21/language/th.md" >}}) | 416 | 571 | 72.9 | /mnt/stockage/packages/f21/system-config-samba/po/th.po | 
- | [as]({{< ref "/f21/language/as.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/as.po | 
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/ast.po | 
- | [mai]({{< ref "/f21/language/mai.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/mai.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/ta.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/te.po | 
- | [de_CH]({{< ref "/f21/language/de_CH.md" >}}) | 351 | 571 | 61.5 | /mnt/stockage/packages/f21/system-config-samba/po/de_CH.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 351 | 571 | 61.5 | /mnt/stockage/packages/f21/system-config-samba/po/hr.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 308 | 571 | 53.9 | /mnt/stockage/packages/f21/system-config-samba/po/id.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 299 | 571 | 52.4 | /mnt/stockage/packages/f21/system-config-samba/po/en_GB.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 299 | 571 | 52.4 | /mnt/stockage/packages/f21/system-config-samba/po/ms.po | 
- | [si]({{< ref "/f21/language/si.md" >}}) | 299 | 571 | 52.4 | /mnt/stockage/packages/f21/system-config-samba/po/si.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/bs.po | 
- | [cy]({{< ref "/f21/language/cy.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/cy.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/et.po | 
- | [mk]({{< ref "/f21/language/mk.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/mk.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/ro.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 218 | 571 | 38.2 | /mnt/stockage/packages/f21/system-config-samba/po/sl.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 188 | 571 | 32.9 | /mnt/stockage/packages/f21/system-config-samba/po/tr.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 177 | 571 | 31.0 | /mnt/stockage/packages/f21/system-config-samba/po/vi.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 133 | 571 | 23.3 | /mnt/stockage/packages/f21/system-config-samba/po/eu.po | 
- | [nds]({{< ref "/f21/language/nds.md" >}}) | 47 | 571 | 8.2 | /mnt/stockage/packages/f21/system-config-samba/po/nds.po | 
- | [br]({{< ref "/f21/language/br.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/br.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ga.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/gl.po | 
- | [hy]({{< ref "/f21/language/hy.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/hy.po | 
- | [ia]({{< ref "/f21/language/ia.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ia.po | 
- | [ka]({{< ref "/f21/language/ka.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ka.po | 
- | [kk]({{< ref "/f21/language/kk.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/kk.po | 
- | [ks]({{< ref "/f21/language/ks.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ks.po | 
- | [ku]({{< ref "/f21/language/ku.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ku.po | 
- | [lo]({{< ref "/f21/language/lo.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/lo.po | 
- | [my]({{< ref "/f21/language/my.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/my.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/nn.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/sq.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ur.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/zh_HK.po | 
+ | [bg](/f21/language/bg) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/bg.po | 
+ | [bn](/f21/language/bn) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/bn.po | 
+ | [bn_IN](/f21/language/bn_IN) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/bn_IN.po | 
+ | [ca](/f21/language/ca) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/ca.po | 
+ | [cs](/f21/language/cs) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/cs.po | 
+ | [da](/f21/language/da) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/da.po | 
+ | [de](/f21/language/de) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/de.po | 
+ | [es](/f21/language/es) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/es.po | 
+ | [fa](/f21/language/fa) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/fa.po | 
+ | [fi](/f21/language/fi) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/fi.po | 
+ | [fr](/f21/language/fr) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/fr.po | 
+ | [hu](/f21/language/hu) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/hu.po | 
+ | [it](/f21/language/it) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/it.po | 
+ | [ja](/f21/language/ja) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/ja.po | 
+ | [kn](/f21/language/kn) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/kn.po | 
+ | [lv](/f21/language/lv) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/lv.po | 
+ | [nb_NO](/f21/language/nb_NO) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/nb.po | 
+ | [nl](/f21/language/nl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/nl.po | 
+ | [pl](/f21/language/pl) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/pl.po | 
+ | [pt](/f21/language/pt) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/pt.po | 
+ | [pt_BR](/f21/language/pt_BR) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/ru.po | 
+ | [sk](/f21/language/sk) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/sk.po | 
+ | [sv](/f21/language/sv) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/sv.po | 
+ | [uk](/f21/language/uk) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/zh_CN.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 571 | 571 | 100.0 | /mnt/stockage/packages/f21/system-config-samba/po/zh_TW.po | 
+ | [ar](/f21/language/ar) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/ar.po | 
+ | [gu](/f21/language/gu) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/gu.po | 
+ | [he](/f21/language/he) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/he.po | 
+ | [hi](/f21/language/hi) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/hi.po | 
+ | [is](/f21/language/is) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/is.po | 
+ | [ml](/f21/language/ml) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/ml.po | 
+ | [mr](/f21/language/mr) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/mr.po | 
+ | [or](/f21/language/or) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/or.po | 
+ | [pa](/f21/language/pa) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/pa.po | 
+ | [sr](/f21/language/sr) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/sr.po | 
+ | [sr_Latn](/f21/language/sr_Latn) | 518 | 571 | 90.7 | /mnt/stockage/packages/f21/system-config-samba/po/sr@latin.po | 
+ | [el](/f21/language/el) | 488 | 571 | 85.5 | /mnt/stockage/packages/f21/system-config-samba/po/el.po | 
+ | [ko](/f21/language/ko) | 444 | 571 | 77.8 | /mnt/stockage/packages/f21/system-config-samba/po/ko.po | 
+ | [th](/f21/language/th) | 416 | 571 | 72.9 | /mnt/stockage/packages/f21/system-config-samba/po/th.po | 
+ | [as](/f21/language/as) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/as.po | 
+ | [ast](/f21/language/ast) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/ast.po | 
+ | [mai](/f21/language/mai) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/mai.po | 
+ | [ta](/f21/language/ta) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/ta.po | 
+ | [te](/f21/language/te) | 360 | 571 | 63.0 | /mnt/stockage/packages/f21/system-config-samba/po/te.po | 
+ | [de_CH](/f21/language/de_CH) | 351 | 571 | 61.5 | /mnt/stockage/packages/f21/system-config-samba/po/de_CH.po | 
+ | [hr](/f21/language/hr) | 351 | 571 | 61.5 | /mnt/stockage/packages/f21/system-config-samba/po/hr.po | 
+ | [id](/f21/language/id) | 308 | 571 | 53.9 | /mnt/stockage/packages/f21/system-config-samba/po/id.po | 
+ | [en_GB](/f21/language/en_GB) | 299 | 571 | 52.4 | /mnt/stockage/packages/f21/system-config-samba/po/en_GB.po | 
+ | [ms](/f21/language/ms) | 299 | 571 | 52.4 | /mnt/stockage/packages/f21/system-config-samba/po/ms.po | 
+ | [si](/f21/language/si) | 299 | 571 | 52.4 | /mnt/stockage/packages/f21/system-config-samba/po/si.po | 
+ | [bs](/f21/language/bs) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/bs.po | 
+ | [cy](/f21/language/cy) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/cy.po | 
+ | [et](/f21/language/et) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/et.po | 
+ | [mk](/f21/language/mk) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/mk.po | 
+ | [ro](/f21/language/ro) | 291 | 571 | 51.0 | /mnt/stockage/packages/f21/system-config-samba/po/ro.po | 
+ | [sl](/f21/language/sl) | 218 | 571 | 38.2 | /mnt/stockage/packages/f21/system-config-samba/po/sl.po | 
+ | [tr](/f21/language/tr) | 188 | 571 | 32.9 | /mnt/stockage/packages/f21/system-config-samba/po/tr.po | 
+ | [vi](/f21/language/vi) | 177 | 571 | 31.0 | /mnt/stockage/packages/f21/system-config-samba/po/vi.po | 
+ | [eu](/f21/language/eu) | 133 | 571 | 23.3 | /mnt/stockage/packages/f21/system-config-samba/po/eu.po | 
+ | [nds](/f21/language/nds) | 47 | 571 | 8.2 | /mnt/stockage/packages/f21/system-config-samba/po/nds.po | 
+ | [br](/f21/language/br) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/br.po | 
+ | [ga](/f21/language/ga) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ga.po | 
+ | [gl](/f21/language/gl) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/gl.po | 
+ | [hy](/f21/language/hy) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/hy.po | 
+ | [ia](/f21/language/ia) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ia.po | 
+ | [ka](/f21/language/ka) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ka.po | 
+ | [kk](/f21/language/kk) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/kk.po | 
+ | [ks](/f21/language/ks) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ks.po | 
+ | [ku](/f21/language/ku) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ku.po | 
+ | [lo](/f21/language/lo) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/lo.po | 
+ | [my](/f21/language/my) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/my.po | 
+ | [nn](/f21/language/nn) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/nn.po | 
+ | [sq](/f21/language/sq) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/sq.po | 
+ | [ur](/f21/language/ur) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/ur.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 0 | 571 | 0.0 | /mnt/stockage/packages/f21/system-config-samba/po/zh_HK.po | 
 {.sortable}
 
 

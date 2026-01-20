@@ -18,25 +18,25 @@ The package libpaper (version 1.1.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/es.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/fr.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/gl.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/ja.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/nl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/ru.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/sv.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/vi.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 44 | 73 | 60.3 | /mnt/stockage/packages/f8/libpaper/debian/po/da.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 29 | 73 | 39.7 | /mnt/stockage/packages/f8/libpaper/debian/po/hu.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f8/libpaper/debian/po/tr.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f8/libpaper/debian/po/uk.po | 
+ | [ca](/f8/language/ca) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/ca.po | 
+ | [cs](/f8/language/cs) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/cs.po | 
+ | [de](/f8/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/de.po | 
+ | [es](/f8/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/es.po | 
+ | [eu](/f8/language/eu) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/eu.po | 
+ | [fr](/f8/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/fr.po | 
+ | [gl](/f8/language/gl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/gl.po | 
+ | [it](/f8/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/it.po | 
+ | [ja](/f8/language/ja) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/ja.po | 
+ | [nl](/f8/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/nl.po | 
+ | [pt](/f8/language/pt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/ru.po | 
+ | [sv](/f8/language/sv) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/sv.po | 
+ | [vi](/f8/language/vi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f8/libpaper/debian/po/vi.po | 
+ | [da](/f8/language/da) | 44 | 73 | 60.3 | /mnt/stockage/packages/f8/libpaper/debian/po/da.po | 
+ | [hu](/f8/language/hu) | 29 | 73 | 39.7 | /mnt/stockage/packages/f8/libpaper/debian/po/hu.po | 
+ | [tr](/f8/language/tr) | 0 | 73 | 0.0 | /mnt/stockage/packages/f8/libpaper/debian/po/tr.po | 
+ | [uk](/f8/language/uk) | 0 | 73 | 0.0 | /mnt/stockage/packages/f8/libpaper/debian/po/uk.po | 
 {.sortable}
 
 

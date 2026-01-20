@@ -18,14 +18,14 @@ The package geany-plugins (version 0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 2036 | 2273 | 89.6 | /mnt/stockage/packages/f11/geany-plugins/po/de.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 1263 | 2273 | 55.6 | /mnt/stockage/packages/f11/geany-plugins/po/tr.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 652 | 2273 | 28.7 | /mnt/stockage/packages/f11/geany-plugins/po/ru.po | 
- | [pt_PT]({{< ref "/f11/language/pt_PT.md" >}}) | 589 | 2228 | 26.4 | /mnt/stockage/packages/f11/geany-plugins/po/pt_PT.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 408 | 2273 | 17.9 | /mnt/stockage/packages/f11/geany-plugins/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 62 | 2273 | 2.7 | /mnt/stockage/packages/f11/geany-plugins/po/es.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 12 | 2273 | 0.5 | /mnt/stockage/packages/f11/geany-plugins/po/da.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 8 | 2273 | 0.4 | /mnt/stockage/packages/f11/geany-plugins/po/be.po | 
+ | [de](/f11/language/de) | 2036 | 2273 | 89.6 | /mnt/stockage/packages/f11/geany-plugins/po/de.po | 
+ | [tr](/f11/language/tr) | 1263 | 2273 | 55.6 | /mnt/stockage/packages/f11/geany-plugins/po/tr.po | 
+ | [ru](/f11/language/ru) | 652 | 2273 | 28.7 | /mnt/stockage/packages/f11/geany-plugins/po/ru.po | 
+ | [pt_PT](/f11/language/pt_PT) | 589 | 2228 | 26.4 | /mnt/stockage/packages/f11/geany-plugins/po/pt_PT.po | 
+ | [fr](/f11/language/fr) | 408 | 2273 | 17.9 | /mnt/stockage/packages/f11/geany-plugins/po/fr.po | 
+ | [es](/f11/language/es) | 62 | 2273 | 2.7 | /mnt/stockage/packages/f11/geany-plugins/po/es.po | 
+ | [da](/f11/language/da) | 12 | 2273 | 0.5 | /mnt/stockage/packages/f11/geany-plugins/po/da.po | 
+ | [be](/f11/language/be) | 8 | 2273 | 0.4 | /mnt/stockage/packages/f11/geany-plugins/po/be.po | 
 {.sortable}
 
 

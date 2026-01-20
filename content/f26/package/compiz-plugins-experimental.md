@@ -18,34 +18,34 @@ The package compiz-plugins-experimental (version 0.8.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 4481 | 4481 | 100.0 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/en_GB.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 3234 | 4481 | 72.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ca.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/el.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/gl.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/hu.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ja.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ko.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 1729 | 4481 | 38.6 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/he.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1585 | 4481 | 35.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/pl.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1510 | 4481 | 33.7 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1491 | 4481 | 33.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/fr.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 1425 | 4481 | 31.8 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/pt.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1390 | 4481 | 31.0 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/zh_CN.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 1249 | 4481 | 27.9 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/fi.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1180 | 4481 | 26.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/sv.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 1057 | 4481 | 23.6 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1020 | 4481 | 22.8 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/nl.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1007 | 4481 | 22.5 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/pt_BR.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 1004 | 4481 | 22.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/gu.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 1004 | 4481 | 22.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/hi.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 823 | 4481 | 18.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/de.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 687 | 4481 | 15.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/cs.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 520 | 4481 | 11.6 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/eu.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 517 | 4481 | 11.5 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/tr.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 491 | 4481 | 11.0 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ru.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 60 | 4481 | 1.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ar.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 41 | 4481 | 0.9 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/bn.po | 
+ | [en_GB](/f26/language/en_GB) | 4481 | 4481 | 100.0 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/en_GB.po | 
+ | [ca](/f26/language/ca) | 3234 | 4481 | 72.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ca.po | 
+ | [el](/f26/language/el) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/el.po | 
+ | [gl](/f26/language/gl) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/gl.po | 
+ | [hu](/f26/language/hu) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/hu.po | 
+ | [it](/f26/language/it) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/it.po | 
+ | [ja](/f26/language/ja) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ja.po | 
+ | [ko](/f26/language/ko) | 1935 | 4481 | 43.2 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ko.po | 
+ | [he](/f26/language/he) | 1729 | 4481 | 38.6 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/he.po | 
+ | [pl](/f26/language/pl) | 1585 | 4481 | 35.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/pl.po | 
+ | [es](/f26/language/es) | 1510 | 4481 | 33.7 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/es.po | 
+ | [fr](/f26/language/fr) | 1491 | 4481 | 33.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/fr.po | 
+ | [pt](/f26/language/pt) | 1425 | 4481 | 31.8 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/pt.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1390 | 4481 | 31.0 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/zh_CN.po | 
+ | [fi](/f26/language/fi) | 1249 | 4481 | 27.9 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/fi.po | 
+ | [sv](/f26/language/sv) | 1180 | 4481 | 26.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/sv.po | 
+ | [nb_NO](/f26/language/nb_NO) | 1057 | 4481 | 23.6 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/nb.po | 
+ | [nl](/f26/language/nl) | 1020 | 4481 | 22.8 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/nl.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1007 | 4481 | 22.5 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/pt_BR.po | 
+ | [gu](/f26/language/gu) | 1004 | 4481 | 22.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/gu.po | 
+ | [hi](/f26/language/hi) | 1004 | 4481 | 22.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/hi.po | 
+ | [de](/f26/language/de) | 823 | 4481 | 18.4 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/de.po | 
+ | [cs](/f26/language/cs) | 687 | 4481 | 15.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/cs.po | 
+ | [eu](/f26/language/eu) | 520 | 4481 | 11.6 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/eu.po | 
+ | [tr](/f26/language/tr) | 517 | 4481 | 11.5 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/tr.po | 
+ | [ru](/f26/language/ru) | 491 | 4481 | 11.0 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ru.po | 
+ | [ar](/f26/language/ar) | 60 | 4481 | 1.3 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/ar.po | 
+ | [bn](/f26/language/bn) | 41 | 4481 | 0.9 | /mnt/stockage/packages/f26/compiz-plugins-experimental/po/bn.po | 
 {.sortable}
 
 

@@ -43,14 +43,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 2628 | 4951 | 53.1 | Somali <so@li.org> | 
- | [gcompris]({{< ref "/f23/package/gcompris.md" >}}) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
- | [iso-codes]({{< ref "/f23/package/iso-codes.md" >}}) | 125 | 1111 | 11.3 | Somali | 
- | [cinnamon-translations]({{< ref "/f23/package/cinnamon-translations.md" >}}) | 456 | 11877 | 3.8 | Somali <so@li.org> | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Somali (http://www.transifex.com/projects/p/MATE/language/so/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
- | [vidalia]({{< ref "/f23/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f23/package/mintmenu) | 2628 | 4951 | 53.1 | Somali <so@li.org> | 
+ | [gcompris](/f23/package/gcompris) | 2167 | 9603 | 22.6 | Somali <mimursal@mimfi-tech.com> | 
+ | [iso-codes](/f23/package/iso-codes) | 125 | 1111 | 11.3 | Somali | 
+ | [cinnamon-translations](/f23/package/cinnamon-translations) | 456 | 11877 | 3.8 | Somali <so@li.org> | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | Somali (http://www.transifex.com/projects/p/MATE/language/so/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 0 | 5 | 0.0 | Somali (http://www.transifex.com/mate/MATE/language/so/) | 
+ | [vidalia](/f23/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

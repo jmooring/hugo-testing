@@ -18,12 +18,12 @@ The package qemu (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f21/qemu/po/de_DE.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f21/qemu/po/fr_FR.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f21/qemu/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 31 | 31 | 100.0 | /mnt/stockage/packages/f21/qemu/po/it.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f21/qemu/po/tr.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 0 | 22 | 0.0 | /mnt/stockage/packages/f21/qemu/po/messages.po | 
+ | [de](/f21/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f21/qemu/po/de_DE.po | 
+ | [fr](/f21/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f21/qemu/po/fr_FR.po | 
+ | [hu](/f21/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f21/qemu/po/hu.po | 
+ | [it](/f21/language/it) | 31 | 31 | 100.0 | /mnt/stockage/packages/f21/qemu/po/it.po | 
+ | [tr](/f21/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f21/qemu/po/tr.po | 
+ | [error](/f21/language/error) | 0 | 22 | 0.0 | /mnt/stockage/packages/f21/qemu/po/messages.po | 
 {.sortable}
 
 

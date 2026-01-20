@@ -18,52 +18,52 @@ The package kmail-account-wizard (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ar/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ar/accountwizard_tine20.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ca/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ca/accountwizard_tine20.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ca@valencia/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ca@valencia/accountwizard_tine20.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/de/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/de/accountwizard_tine20.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/en_GB/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/en_GB/accountwizard_tine20.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/es/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/es/accountwizard_tine20.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/fi/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/fi/accountwizard_tine20.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/fr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/fr/accountwizard_tine20.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/gl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/gl/accountwizard_tine20.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/it/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/it/accountwizard_tine20.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ko/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ko/accountwizard_tine20.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/nl/accountwizard_tine20.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/pl/accountwizard_tine20.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pt/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/pt/accountwizard_tine20.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pt_BR/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/pt_BR/accountwizard_tine20.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ru/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ru/accountwizard_tine20.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sl/accountwizard_tine20.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sv/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sv/accountwizard_tine20.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/uk/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/uk/accountwizard_tine20.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/zh_CN/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/zh_CN/accountwizard_tine20.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/zh_TW/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/zh_TW/accountwizard_tine20.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 794 | 799 | 99.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sk/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sk/accountwizard_tine20.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 794 | 799 | 99.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sr/accountwizard_tine20.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 794 | 799 | 99.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/tr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/tr/accountwizard_tine20.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 750 | 799 | 93.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/et/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/et/accountwizard_tine20.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 449 | 799 | 56.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/da/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/da/accountwizard_tine20.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 434 | 799 | 54.3 | /mnt/stockage/packages/f29/kmail-account-wizard/po/cs/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/cs/accountwizard_tine20.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 377 | 799 | 47.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nb/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/nb/accountwizard_tine20.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/el/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/el/accountwizard_tine20.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/hu/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/hu/accountwizard_tine20.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ia/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ia/accountwizard_tine20.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nds/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/nds/accountwizard_tine20.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 367 | 799 | 45.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/bs/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/bs/accountwizard_tine20.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 367 | 799 | 45.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/kk/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/kk/accountwizard_tine20.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 336 | 799 | 42.1 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ug/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ug/accountwizard_tine20.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 325 | 799 | 40.7 | /mnt/stockage/packages/f29/kmail-account-wizard/po/km/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/km/accountwizard_tine20.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 324 | 799 | 40.6 | /mnt/stockage/packages/f29/kmail-account-wizard/po/lt/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/lt/accountwizard_tine20.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 309 | 792 | 39.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/lv/accountwizard.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 253 | 792 | 31.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nn/accountwizard.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 236 | 799 | 29.5 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ja/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ja/accountwizard_tine20.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 120 | 799 | 15.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ro/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ro/accountwizard_tine20.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 61 | 799 | 7.6 | /mnt/stockage/packages/f29/kmail-account-wizard/po/mr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/mr/accountwizard_tine20.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 21 | 792 | 2.7 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pa/accountwizard.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 19 | 799 | 2.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ga/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ga/accountwizard_tine20.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 10 | 792 | 1.3 | /mnt/stockage/packages/f29/kmail-account-wizard/po/eo/accountwizard.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 9 | 792 | 1.1 | /mnt/stockage/packages/f29/kmail-account-wizard/po/he/accountwizard.po | 
+ | [ar](/f29/language/ar) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ar/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ar/accountwizard_tine20.po | 
+ | [ca](/f29/language/ca) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ca/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ca/accountwizard_tine20.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ca@valencia/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ca@valencia/accountwizard_tine20.po | 
+ | [de](/f29/language/de) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/de/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/de/accountwizard_tine20.po | 
+ | [en_GB](/f29/language/en_GB) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/en_GB/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/en_GB/accountwizard_tine20.po | 
+ | [es](/f29/language/es) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/es/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/es/accountwizard_tine20.po | 
+ | [fi](/f29/language/fi) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/fi/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/fi/accountwizard_tine20.po | 
+ | [fr](/f29/language/fr) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/fr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/fr/accountwizard_tine20.po | 
+ | [gl](/f29/language/gl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/gl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/gl/accountwizard_tine20.po | 
+ | [it](/f29/language/it) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/it/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/it/accountwizard_tine20.po | 
+ | [ko](/f29/language/ko) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ko/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ko/accountwizard_tine20.po | 
+ | [nl](/f29/language/nl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/nl/accountwizard_tine20.po | 
+ | [pl](/f29/language/pl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/pl/accountwizard_tine20.po | 
+ | [pt](/f29/language/pt) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pt/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/pt/accountwizard_tine20.po | 
+ | [pt_BR](/f29/language/pt_BR) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pt_BR/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/pt_BR/accountwizard_tine20.po | 
+ | [ru](/f29/language/ru) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ru/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ru/accountwizard_tine20.po | 
+ | [sl](/f29/language/sl) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sl/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sl/accountwizard_tine20.po | 
+ | [sv](/f29/language/sv) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sv/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sv/accountwizard_tine20.po | 
+ | [uk](/f29/language/uk) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/uk/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/uk/accountwizard_tine20.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/zh_CN/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/zh_CN/accountwizard_tine20.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 799 | 799 | 100.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/zh_TW/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/zh_TW/accountwizard_tine20.po | 
+ | [sk](/f29/language/sk) | 794 | 799 | 99.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sk/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sk/accountwizard_tine20.po | 
+ | [sr](/f29/language/sr) | 794 | 799 | 99.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/sr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/sr/accountwizard_tine20.po | 
+ | [tr](/f29/language/tr) | 794 | 799 | 99.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/tr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/tr/accountwizard_tine20.po | 
+ | [et](/f29/language/et) | 750 | 799 | 93.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/et/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/et/accountwizard_tine20.po | 
+ | [da](/f29/language/da) | 449 | 799 | 56.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/da/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/da/accountwizard_tine20.po | 
+ | [cs](/f29/language/cs) | 434 | 799 | 54.3 | /mnt/stockage/packages/f29/kmail-account-wizard/po/cs/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/cs/accountwizard_tine20.po | 
+ | [nb_NO](/f29/language/nb_NO) | 377 | 799 | 47.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nb/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/nb/accountwizard_tine20.po | 
+ | [el](/f29/language/el) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/el/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/el/accountwizard_tine20.po | 
+ | [hu](/f29/language/hu) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/hu/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/hu/accountwizard_tine20.po | 
+ | [ia](/f29/language/ia) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ia/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ia/accountwizard_tine20.po | 
+ | [nds](/f29/language/nds) | 369 | 799 | 46.2 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nds/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/nds/accountwizard_tine20.po | 
+ | [bs](/f29/language/bs) | 367 | 799 | 45.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/bs/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/bs/accountwizard_tine20.po | 
+ | [kk](/f29/language/kk) | 367 | 799 | 45.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/kk/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/kk/accountwizard_tine20.po | 
+ | [ug](/f29/language/ug) | 336 | 799 | 42.1 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ug/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ug/accountwizard_tine20.po | 
+ | [km](/f29/language/km) | 325 | 799 | 40.7 | /mnt/stockage/packages/f29/kmail-account-wizard/po/km/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/km/accountwizard_tine20.po | 
+ | [lt](/f29/language/lt) | 324 | 799 | 40.6 | /mnt/stockage/packages/f29/kmail-account-wizard/po/lt/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/lt/accountwizard_tine20.po | 
+ | [lv](/f29/language/lv) | 309 | 792 | 39.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/lv/accountwizard.po | 
+ | [nn](/f29/language/nn) | 253 | 792 | 31.9 | /mnt/stockage/packages/f29/kmail-account-wizard/po/nn/accountwizard.po | 
+ | [ja](/f29/language/ja) | 236 | 799 | 29.5 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ja/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ja/accountwizard_tine20.po | 
+ | [ro](/f29/language/ro) | 120 | 799 | 15.0 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ro/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ro/accountwizard_tine20.po | 
+ | [mr](/f29/language/mr) | 61 | 799 | 7.6 | /mnt/stockage/packages/f29/kmail-account-wizard/po/mr/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/mr/accountwizard_tine20.po | 
+ | [pa](/f29/language/pa) | 21 | 792 | 2.7 | /mnt/stockage/packages/f29/kmail-account-wizard/po/pa/accountwizard.po | 
+ | [ga](/f29/language/ga) | 19 | 799 | 2.4 | /mnt/stockage/packages/f29/kmail-account-wizard/po/ga/accountwizard.po/mnt/stockage/packages/f29/kmail-account-wizard/po/ga/accountwizard_tine20.po | 
+ | [eo](/f29/language/eo) | 10 | 792 | 1.3 | /mnt/stockage/packages/f29/kmail-account-wizard/po/eo/accountwizard.po | 
+ | [he](/f29/language/he) | 9 | 792 | 1.1 | /mnt/stockage/packages/f29/kmail-account-wizard/po/he/accountwizard.po | 
 {.sortable}
 
 

@@ -18,56 +18,56 @@ The package goffice08 (version 0.8.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 4600 | 4600 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/ast.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/es.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 4661 | 4661 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/eu.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/sl.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 4531 | 4600 | 98.5 | /mnt/stockage/packages/f27/goffice08/po/fi.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 4435 | 4599 | 96.4 | /mnt/stockage/packages/f27/goffice08/po/en_GB.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 4505 | 4809 | 93.7 | /mnt/stockage/packages/f27/goffice08/po/fr.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 3615 | 4599 | 78.6 | /mnt/stockage/packages/f27/goffice08/po/vi.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 7056 | 9360 | 75.4 | /mnt/stockage/packages/f27/goffice08/po/ca@valencia.po/mnt/stockage/packages/f27/goffice08/po/ca.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 3240 | 4762 | 68.0 | /mnt/stockage/packages/f27/goffice08/po/zh_CN.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 3023 | 4827 | 62.6 | /mnt/stockage/packages/f27/goffice08/po/ru.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 2603 | 4827 | 53.9 | /mnt/stockage/packages/f27/goffice08/po/nb.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2353 | 4599 | 51.2 | /mnt/stockage/packages/f27/goffice08/po/it.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 2117 | 4599 | 46.0 | /mnt/stockage/packages/f27/goffice08/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 2117 | 4599 | 46.0 | /mnt/stockage/packages/f27/goffice08/po/zh_HK.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 2070 | 4599 | 45.0 | /mnt/stockage/packages/f27/goffice08/po/ja.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 2032 | 4599 | 44.2 | /mnt/stockage/packages/f27/goffice08/po/en_CA.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2022 | 4599 | 44.0 | /mnt/stockage/packages/f27/goffice08/po/pt_BR.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 2019 | 4599 | 43.9 | /mnt/stockage/packages/f27/goffice08/po/sv.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 2018 | 4599 | 43.9 | /mnt/stockage/packages/f27/goffice08/po/nl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 1895 | 4599 | 41.2 | /mnt/stockage/packages/f27/goffice08/po/pt.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 1813 | 4599 | 39.4 | /mnt/stockage/packages/f27/goffice08/po/sr.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 1813 | 4599 | 39.4 | /mnt/stockage/packages/f27/goffice08/po/sr@latin.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 1798 | 4599 | 39.1 | /mnt/stockage/packages/f27/goffice08/po/sk.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 1771 | 4599 | 38.5 | /mnt/stockage/packages/f27/goffice08/po/hr.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1538 | 4599 | 33.4 | /mnt/stockage/packages/f27/goffice08/po/pl.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 1470 | 4599 | 32.0 | /mnt/stockage/packages/f27/goffice08/po/lt.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 1430 | 4599 | 31.1 | /mnt/stockage/packages/f27/goffice08/po/et.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 1030 | 4599 | 22.4 | /mnt/stockage/packages/f27/goffice08/po/ko.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 940 | 4599 | 20.4 | /mnt/stockage/packages/f27/goffice08/po/tr.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 788 | 4599 | 17.1 | /mnt/stockage/packages/f27/goffice08/po/bg.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 681 | 4599 | 14.8 | /mnt/stockage/packages/f27/goffice08/po/ml.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 514 | 4599 | 11.2 | /mnt/stockage/packages/f27/goffice08/po/hu.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 421 | 4599 | 9.2 | /mnt/stockage/packages/f27/goffice08/po/nn.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 368 | 4599 | 8.0 | /mnt/stockage/packages/f27/goffice08/po/el.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 344 | 4599 | 7.5 | /mnt/stockage/packages/f27/goffice08/po/uk.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 318 | 4599 | 6.9 | /mnt/stockage/packages/f27/goffice08/po/ms.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 301 | 4599 | 6.5 | /mnt/stockage/packages/f27/goffice08/po/ro.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 206 | 4599 | 4.5 | /mnt/stockage/packages/f27/goffice08/po/oc.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 193 | 4599 | 4.2 | /mnt/stockage/packages/f27/goffice08/po/ar.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 134 | 4599 | 2.9 | /mnt/stockage/packages/f27/goffice08/po/he.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 100 | 4599 | 2.2 | /mnt/stockage/packages/f27/goffice08/po/ga.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 87 | 4599 | 1.9 | /mnt/stockage/packages/f27/goffice08/po/mr.po | 
- | [az]({{< ref "/f27/language/az.md" >}}) | 76 | 4599 | 1.7 | /mnt/stockage/packages/f27/goffice08/po/az.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 49 | 4599 | 1.1 | /mnt/stockage/packages/f27/goffice08/po/gl.po | 
- | [am]({{< ref "/f27/language/am.md" >}}) | 43 | 4599 | 0.9 | /mnt/stockage/packages/f27/goffice08/po/am.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 6 | 4599 | 0.1 | /mnt/stockage/packages/f27/goffice08/po/lv.po | 
+ | [ast](/f27/language/ast) | 4600 | 4600 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/ast.po | 
+ | [cs](/f27/language/cs) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/cs.po | 
+ | [da](/f27/language/da) | 4761 | 4761 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/da.po | 
+ | [de](/f27/language/de) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/de.po | 
+ | [es](/f27/language/es) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/es.po | 
+ | [eu](/f27/language/eu) | 4661 | 4661 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/eu.po | 
+ | [sl](/f27/language/sl) | 4827 | 4827 | 100.0 | /mnt/stockage/packages/f27/goffice08/po/sl.po | 
+ | [fi](/f27/language/fi) | 4531 | 4600 | 98.5 | /mnt/stockage/packages/f27/goffice08/po/fi.po | 
+ | [en_GB](/f27/language/en_GB) | 4435 | 4599 | 96.4 | /mnt/stockage/packages/f27/goffice08/po/en_GB.po | 
+ | [fr](/f27/language/fr) | 4505 | 4809 | 93.7 | /mnt/stockage/packages/f27/goffice08/po/fr.po | 
+ | [vi](/f27/language/vi) | 3615 | 4599 | 78.6 | /mnt/stockage/packages/f27/goffice08/po/vi.po | 
+ | [ca](/f27/language/ca) | 7056 | 9360 | 75.4 | /mnt/stockage/packages/f27/goffice08/po/ca@valencia.po/mnt/stockage/packages/f27/goffice08/po/ca.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 3240 | 4762 | 68.0 | /mnt/stockage/packages/f27/goffice08/po/zh_CN.po | 
+ | [ru](/f27/language/ru) | 3023 | 4827 | 62.6 | /mnt/stockage/packages/f27/goffice08/po/ru.po | 
+ | [nb_NO](/f27/language/nb_NO) | 2603 | 4827 | 53.9 | /mnt/stockage/packages/f27/goffice08/po/nb.po | 
+ | [it](/f27/language/it) | 2353 | 4599 | 51.2 | /mnt/stockage/packages/f27/goffice08/po/it.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 2117 | 4599 | 46.0 | /mnt/stockage/packages/f27/goffice08/po/zh_TW.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 2117 | 4599 | 46.0 | /mnt/stockage/packages/f27/goffice08/po/zh_HK.po | 
+ | [ja](/f27/language/ja) | 2070 | 4599 | 45.0 | /mnt/stockage/packages/f27/goffice08/po/ja.po | 
+ | [en_CA](/f27/language/en_CA) | 2032 | 4599 | 44.2 | /mnt/stockage/packages/f27/goffice08/po/en_CA.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2022 | 4599 | 44.0 | /mnt/stockage/packages/f27/goffice08/po/pt_BR.po | 
+ | [sv](/f27/language/sv) | 2019 | 4599 | 43.9 | /mnt/stockage/packages/f27/goffice08/po/sv.po | 
+ | [nl](/f27/language/nl) | 2018 | 4599 | 43.9 | /mnt/stockage/packages/f27/goffice08/po/nl.po | 
+ | [pt](/f27/language/pt) | 1895 | 4599 | 41.2 | /mnt/stockage/packages/f27/goffice08/po/pt.po | 
+ | [sr](/f27/language/sr) | 1813 | 4599 | 39.4 | /mnt/stockage/packages/f27/goffice08/po/sr.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 1813 | 4599 | 39.4 | /mnt/stockage/packages/f27/goffice08/po/sr@latin.po | 
+ | [sk](/f27/language/sk) | 1798 | 4599 | 39.1 | /mnt/stockage/packages/f27/goffice08/po/sk.po | 
+ | [hr](/f27/language/hr) | 1771 | 4599 | 38.5 | /mnt/stockage/packages/f27/goffice08/po/hr.po | 
+ | [pl](/f27/language/pl) | 1538 | 4599 | 33.4 | /mnt/stockage/packages/f27/goffice08/po/pl.po | 
+ | [lt](/f27/language/lt) | 1470 | 4599 | 32.0 | /mnt/stockage/packages/f27/goffice08/po/lt.po | 
+ | [et](/f27/language/et) | 1430 | 4599 | 31.1 | /mnt/stockage/packages/f27/goffice08/po/et.po | 
+ | [ko](/f27/language/ko) | 1030 | 4599 | 22.4 | /mnt/stockage/packages/f27/goffice08/po/ko.po | 
+ | [tr](/f27/language/tr) | 940 | 4599 | 20.4 | /mnt/stockage/packages/f27/goffice08/po/tr.po | 
+ | [bg](/f27/language/bg) | 788 | 4599 | 17.1 | /mnt/stockage/packages/f27/goffice08/po/bg.po | 
+ | [ml](/f27/language/ml) | 681 | 4599 | 14.8 | /mnt/stockage/packages/f27/goffice08/po/ml.po | 
+ | [hu](/f27/language/hu) | 514 | 4599 | 11.2 | /mnt/stockage/packages/f27/goffice08/po/hu.po | 
+ | [nn](/f27/language/nn) | 421 | 4599 | 9.2 | /mnt/stockage/packages/f27/goffice08/po/nn.po | 
+ | [el](/f27/language/el) | 368 | 4599 | 8.0 | /mnt/stockage/packages/f27/goffice08/po/el.po | 
+ | [uk](/f27/language/uk) | 344 | 4599 | 7.5 | /mnt/stockage/packages/f27/goffice08/po/uk.po | 
+ | [ms](/f27/language/ms) | 318 | 4599 | 6.9 | /mnt/stockage/packages/f27/goffice08/po/ms.po | 
+ | [ro](/f27/language/ro) | 301 | 4599 | 6.5 | /mnt/stockage/packages/f27/goffice08/po/ro.po | 
+ | [oc](/f27/language/oc) | 206 | 4599 | 4.5 | /mnt/stockage/packages/f27/goffice08/po/oc.po | 
+ | [ar](/f27/language/ar) | 193 | 4599 | 4.2 | /mnt/stockage/packages/f27/goffice08/po/ar.po | 
+ | [he](/f27/language/he) | 134 | 4599 | 2.9 | /mnt/stockage/packages/f27/goffice08/po/he.po | 
+ | [ga](/f27/language/ga) | 100 | 4599 | 2.2 | /mnt/stockage/packages/f27/goffice08/po/ga.po | 
+ | [mr](/f27/language/mr) | 87 | 4599 | 1.9 | /mnt/stockage/packages/f27/goffice08/po/mr.po | 
+ | [az](/f27/language/az) | 76 | 4599 | 1.7 | /mnt/stockage/packages/f27/goffice08/po/az.po | 
+ | [gl](/f27/language/gl) | 49 | 4599 | 1.1 | /mnt/stockage/packages/f27/goffice08/po/gl.po | 
+ | [am](/f27/language/am) | 43 | 4599 | 0.9 | /mnt/stockage/packages/f27/goffice08/po/am.po | 
+ | [lv](/f27/language/lv) | 6 | 4599 | 0.1 | /mnt/stockage/packages/f27/goffice08/po/lv.po | 
 {.sortable}
 
 

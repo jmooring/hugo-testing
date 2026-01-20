@@ -18,37 +18,37 @@ The package gweled (version 1.0~beta1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f40/language/it.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f40/gweled/po/it.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 173 | 181 | 95.6 | /mnt/stockage/packages/f40/gweled/po/nb.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 160 | 217 | 73.7 | /mnt/stockage/packages/f40/gweled/po/bg.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 160 | 217 | 73.7 | /mnt/stockage/packages/f40/gweled/po/lt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 160 | 217 | 73.7 | /mnt/stockage/packages/f40/gweled/po/ro.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/ca.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/de.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/fi.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/gl.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/hu.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/ms.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/pt_BR.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/tr.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/zh_CN.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 156 | 217 | 71.9 | /mnt/stockage/packages/f40/gweled/po/fr.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 154 | 217 | 71.0 | /mnt/stockage/packages/f40/gweled/po/ru.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 153 | 217 | 70.5 | /mnt/stockage/packages/f40/gweled/po/ja.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 114 | 217 | 52.5 | /mnt/stockage/packages/f40/gweled/po/uk.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 108 | 217 | 49.8 | /mnt/stockage/packages/f40/gweled/po/ka.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 107 | 217 | 49.3 | /mnt/stockage/packages/f40/gweled/po/he.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 85 | 181 | 47.0 | /mnt/stockage/packages/f40/gweled/po/es.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 99 | 217 | 45.6 | /mnt/stockage/packages/f40/gweled/po/te.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 62 | 217 | 28.6 | /mnt/stockage/packages/f40/gweled/po/hr.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 62 | 217 | 28.6 | /mnt/stockage/packages/f40/gweled/po/sk.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 28 | 217 | 12.9 | /mnt/stockage/packages/f40/gweled/po/ar.po | 
+ | [it](/f40/language/it) | 182 | 182 | 100.0 | /mnt/stockage/packages/f40/gweled/po/it.po | 
+ | [nb_NO](/f40/language/nb_NO) | 173 | 181 | 95.6 | /mnt/stockage/packages/f40/gweled/po/nb.po | 
+ | [bg](/f40/language/bg) | 160 | 217 | 73.7 | /mnt/stockage/packages/f40/gweled/po/bg.po | 
+ | [lt](/f40/language/lt) | 160 | 217 | 73.7 | /mnt/stockage/packages/f40/gweled/po/lt.po | 
+ | [ro](/f40/language/ro) | 160 | 217 | 73.7 | /mnt/stockage/packages/f40/gweled/po/ro.po | 
+ | [ca](/f40/language/ca) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/ca.po | 
+ | [da](/f40/language/da) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/da.po | 
+ | [de](/f40/language/de) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/de.po | 
+ | [fi](/f40/language/fi) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/fi.po | 
+ | [gl](/f40/language/gl) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/gl.po | 
+ | [hu](/f40/language/hu) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/hu.po | 
+ | [ms](/f40/language/ms) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/ms.po | 
+ | [nl](/f40/language/nl) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/nl.po | 
+ | [pl](/f40/language/pl) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/pt_BR.po | 
+ | [sl](/f40/language/sl) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/sl.po | 
+ | [sr](/f40/language/sr) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/sr.po | 
+ | [sv](/f40/language/sv) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/sv.po | 
+ | [tr](/f40/language/tr) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/tr.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 157 | 217 | 72.4 | /mnt/stockage/packages/f40/gweled/po/zh_CN.po | 
+ | [fr](/f40/language/fr) | 156 | 217 | 71.9 | /mnt/stockage/packages/f40/gweled/po/fr.po | 
+ | [ru](/f40/language/ru) | 154 | 217 | 71.0 | /mnt/stockage/packages/f40/gweled/po/ru.po | 
+ | [ja](/f40/language/ja) | 153 | 217 | 70.5 | /mnt/stockage/packages/f40/gweled/po/ja.po | 
+ | [uk](/f40/language/uk) | 114 | 217 | 52.5 | /mnt/stockage/packages/f40/gweled/po/uk.po | 
+ | [ka](/f40/language/ka) | 108 | 217 | 49.8 | /mnt/stockage/packages/f40/gweled/po/ka.po | 
+ | [he](/f40/language/he) | 107 | 217 | 49.3 | /mnt/stockage/packages/f40/gweled/po/he.po | 
+ | [es](/f40/language/es) | 85 | 181 | 47.0 | /mnt/stockage/packages/f40/gweled/po/es.po | 
+ | [te](/f40/language/te) | 99 | 217 | 45.6 | /mnt/stockage/packages/f40/gweled/po/te.po | 
+ | [hr](/f40/language/hr) | 62 | 217 | 28.6 | /mnt/stockage/packages/f40/gweled/po/hr.po | 
+ | [sk](/f40/language/sk) | 62 | 217 | 28.6 | /mnt/stockage/packages/f40/gweled/po/sk.po | 
+ | [ar](/f40/language/ar) | 28 | 217 | 12.9 | /mnt/stockage/packages/f40/gweled/po/ar.po | 
 {.sortable}
 
 

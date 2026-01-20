@@ -18,7 +18,7 @@ The package realmd (version 0.14.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 599 | 617 | 97.1 | /mnt/stockage/packages/f19/realmd/po/pl.po | 
+ | [pl](/f19/language/pl) | 599 | 617 | 97.1 | /mnt/stockage/packages/f19/realmd/po/pl.po | 
 {.sortable}
 
 

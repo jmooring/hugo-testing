@@ -18,7 +18,7 @@ The package kpartsplugin (version 0.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 0 | 92 | 0.0 | /mnt/stockage/packages/f16/kpartsplugin/po/ru.po | 
+ | [ru](/f16/language/ru) | 0 | 92 | 0.0 | /mnt/stockage/packages/f16/kpartsplugin/po/ru.po | 
 {.sortable}
 
 

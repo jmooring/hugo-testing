@@ -18,11 +18,11 @@ The package gkrellmms (version 2.1.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f7/language/da.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/da.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/ru.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 664 | 666 | 99.7 | /mnt/stockage/packages/f7/gkrellmms/po/nl.po | 
+ | [da](/f7/language/da) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/da.po | 
+ | [es](/f7/language/es) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/es.po | 
+ | [fr](/f7/language/fr) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/fr.po | 
+ | [ru](/f7/language/ru) | 666 | 666 | 100.0 | /mnt/stockage/packages/f7/gkrellmms/po/ru.po | 
+ | [nl](/f7/language/nl) | 664 | 666 | 99.7 | /mnt/stockage/packages/f7/gkrellmms/po/nl.po | 
 {.sortable}
 
 

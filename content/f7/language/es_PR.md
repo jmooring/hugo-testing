@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f7/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [poedit]({{< ref "/f7/package/poedit.md" >}}) | 564 | 1154 | 48.9 | Español <eratos2000@gmail.com> | 
+ | [gnome-applets](/f7/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [poedit](/f7/package/poedit) | 564 | 1154 | 48.9 | Español <eratos2000@gmail.com> | 
 {.sortable}
 
 

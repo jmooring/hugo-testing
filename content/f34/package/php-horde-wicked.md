@@ -18,19 +18,19 @@ The package php-horde-wicked (version 2.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/da/LC_MESSAGES/wicked.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/de/LC_MESSAGES/wicked.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/es/LC_MESSAGES/wicked.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/pt_BR/LC_MESSAGES/wicked.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/sv/LC_MESSAGES/wicked.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 620 | 671 | 92.4 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/fi/LC_MESSAGES/wicked.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 620 | 671 | 92.4 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/sk/LC_MESSAGES/wicked.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 534 | 671 | 79.6 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/it/LC_MESSAGES/wicked.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 499 | 671 | 74.4 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/ja/LC_MESSAGES/wicked.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 489 | 671 | 72.9 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/sl/LC_MESSAGES/wicked.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 489 | 671 | 72.9 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/zh_TW/LC_MESSAGES/wicked.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 483 | 671 | 72.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/uk/LC_MESSAGES/wicked.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 173 | 671 | 25.8 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/lv/LC_MESSAGES/wicked.po | 
+ | [da](/f34/language/da) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/da/LC_MESSAGES/wicked.po | 
+ | [de](/f34/language/de) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/de/LC_MESSAGES/wicked.po | 
+ | [es](/f34/language/es) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/es/LC_MESSAGES/wicked.po | 
+ | [pt_BR](/f34/language/pt_BR) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/pt_BR/LC_MESSAGES/wicked.po | 
+ | [sv](/f34/language/sv) | 673 | 673 | 100.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/sv/LC_MESSAGES/wicked.po | 
+ | [fi](/f34/language/fi) | 620 | 671 | 92.4 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/fi/LC_MESSAGES/wicked.po | 
+ | [sk](/f34/language/sk) | 620 | 671 | 92.4 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/sk/LC_MESSAGES/wicked.po | 
+ | [it](/f34/language/it) | 534 | 671 | 79.6 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/it/LC_MESSAGES/wicked.po | 
+ | [ja](/f34/language/ja) | 499 | 671 | 74.4 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/ja/LC_MESSAGES/wicked.po | 
+ | [sl](/f34/language/sl) | 489 | 671 | 72.9 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/sl/LC_MESSAGES/wicked.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 489 | 671 | 72.9 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/zh_TW/LC_MESSAGES/wicked.po | 
+ | [uk](/f34/language/uk) | 483 | 671 | 72.0 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/uk/LC_MESSAGES/wicked.po | 
+ | [lv](/f34/language/lv) | 173 | 671 | 25.8 | /mnt/stockage/packages/f34/php-horde-wicked/wicked-2.0.8/locale/lv/LC_MESSAGES/wicked.po | 
 {.sortable}
 
 

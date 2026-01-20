@@ -18,15 +18,15 @@ The package pidgin-gfire (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/de.po | 
- | [ee]({{< ref "/f18/language/ee.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/ee.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/es.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/pl.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/ro.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/sk.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/sv.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1132 | 1173 | 96.5 | /mnt/stockage/packages/f18/pidgin-gfire/po/fr.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 465 | 1173 | 39.6 | /mnt/stockage/packages/f18/pidgin-gfire/po/cs.po | 
+ | [de](/f18/language/de) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/de.po | 
+ | [ee](/f18/language/ee) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/ee.po | 
+ | [es](/f18/language/es) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/es.po | 
+ | [pl](/f18/language/pl) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/pl.po | 
+ | [ro](/f18/language/ro) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/ro.po | 
+ | [sk](/f18/language/sk) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/sk.po | 
+ | [sv](/f18/language/sv) | 1173 | 1173 | 100.0 | /mnt/stockage/packages/f18/pidgin-gfire/po/sv.po | 
+ | [fr](/f18/language/fr) | 1132 | 1173 | 96.5 | /mnt/stockage/packages/f18/pidgin-gfire/po/fr.po | 
+ | [cs](/f18/language/cs) | 465 | 1173 | 39.6 | /mnt/stockage/packages/f18/pidgin-gfire/po/cs.po | 
 {.sortable}
 
 

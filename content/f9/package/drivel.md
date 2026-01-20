@@ -18,38 +18,38 @@ The package drivel (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 939 | 939 | 100.0 | /mnt/stockage/packages/f9/drivel/po/bg.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/dz.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/el.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/en_GB.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/fr.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/ja.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/ne.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 961 | 961 | 100.0 | /mnt/stockage/packages/f9/drivel/po/pl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/pt_BR.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/sv.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/vi.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/zh_CN.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 627 | 628 | 99.8 | /mnt/stockage/packages/f9/drivel/po/pt.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 933 | 939 | 99.4 | /mnt/stockage/packages/f9/drivel/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 933 | 939 | 99.4 | /mnt/stockage/packages/f9/drivel/po/zh_HK.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 959 | 966 | 99.3 | /mnt/stockage/packages/f9/drivel/po/ru.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 891 | 964 | 92.4 | /mnt/stockage/packages/f9/drivel/po/nl.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 840 | 964 | 87.1 | /mnt/stockage/packages/f9/drivel/po/ca.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 835 | 964 | 86.6 | /mnt/stockage/packages/f9/drivel/po/lt.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 361 | 853 | 42.3 | /mnt/stockage/packages/f9/drivel/po/nb.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 199 | 492 | 40.4 | /mnt/stockage/packages/f9/drivel/po/pa.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 189 | 628 | 30.1 | /mnt/stockage/packages/f9/drivel/po/sr@Latn.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 189 | 628 | 30.1 | /mnt/stockage/packages/f9/drivel/po/sr.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 116 | 952 | 12.2 | /mnt/stockage/packages/f9/drivel/po/oc.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 94 | 839 | 11.2 | /mnt/stockage/packages/f9/drivel/po/sq.po | 
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 64 | 952 | 6.7 | /mnt/stockage/packages/f9/drivel/po/ar.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 26 | 905 | 2.9 | /mnt/stockage/packages/f9/drivel/po/rw.po | 
+ | [bg](/f9/language/bg) | 939 | 939 | 100.0 | /mnt/stockage/packages/f9/drivel/po/bg.po | 
+ | [cs](/f9/language/cs) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/cs.po | 
+ | [de](/f9/language/de) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/de.po | 
+ | [dz](/f9/language/dz) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/dz.po | 
+ | [el](/f9/language/el) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/el.po | 
+ | [en_CA](/f9/language/en_CA) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/en_GB.po | 
+ | [es](/f9/language/es) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/es.po | 
+ | [fi](/f9/language/fi) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/fi.po | 
+ | [fr](/f9/language/fr) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/fr.po | 
+ | [ja](/f9/language/ja) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/ja.po | 
+ | [ne](/f9/language/ne) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/ne.po | 
+ | [pl](/f9/language/pl) | 961 | 961 | 100.0 | /mnt/stockage/packages/f9/drivel/po/pl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/pt_BR.po | 
+ | [sv](/f9/language/sv) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/sv.po | 
+ | [vi](/f9/language/vi) | 952 | 952 | 100.0 | /mnt/stockage/packages/f9/drivel/po/vi.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 964 | 964 | 100.0 | /mnt/stockage/packages/f9/drivel/po/zh_CN.po | 
+ | [pt](/f9/language/pt) | 627 | 628 | 99.8 | /mnt/stockage/packages/f9/drivel/po/pt.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 933 | 939 | 99.4 | /mnt/stockage/packages/f9/drivel/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 933 | 939 | 99.4 | /mnt/stockage/packages/f9/drivel/po/zh_HK.po | 
+ | [ru](/f9/language/ru) | 959 | 966 | 99.3 | /mnt/stockage/packages/f9/drivel/po/ru.po | 
+ | [nl](/f9/language/nl) | 891 | 964 | 92.4 | /mnt/stockage/packages/f9/drivel/po/nl.po | 
+ | [ca](/f9/language/ca) | 840 | 964 | 87.1 | /mnt/stockage/packages/f9/drivel/po/ca.po | 
+ | [lt](/f9/language/lt) | 835 | 964 | 86.6 | /mnt/stockage/packages/f9/drivel/po/lt.po | 
+ | [nb_NO](/f9/language/nb_NO) | 361 | 853 | 42.3 | /mnt/stockage/packages/f9/drivel/po/nb.po | 
+ | [pa](/f9/language/pa) | 199 | 492 | 40.4 | /mnt/stockage/packages/f9/drivel/po/pa.po | 
+ | [error](/f9/language/error) | 189 | 628 | 30.1 | /mnt/stockage/packages/f9/drivel/po/sr@Latn.po | 
+ | [sr](/f9/language/sr) | 189 | 628 | 30.1 | /mnt/stockage/packages/f9/drivel/po/sr.po | 
+ | [oc](/f9/language/oc) | 116 | 952 | 12.2 | /mnt/stockage/packages/f9/drivel/po/oc.po | 
+ | [sq](/f9/language/sq) | 94 | 839 | 11.2 | /mnt/stockage/packages/f9/drivel/po/sq.po | 
+ | [ar](/f9/language/ar) | 64 | 952 | 6.7 | /mnt/stockage/packages/f9/drivel/po/ar.po | 
+ | [rw](/f9/language/rw) | 26 | 905 | 2.9 | /mnt/stockage/packages/f9/drivel/po/rw.po | 
 {.sortable}
 
 

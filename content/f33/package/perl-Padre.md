@@ -18,25 +18,25 @@ The package perl-Padre (version 0.90):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 5604 | 5604 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 5670 | 5670 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/it-it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 1478 | 1478 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 1291 | 1291 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ko.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 1280 | 1280 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/no.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 5513 | 5513 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/pt-br.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 5358 | 5358 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ru.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 5478 | 5478 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/tr.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 5358 | 5358 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/zh-cn.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 4236 | 4258 | 99.5 | /mnt/stockage/packages/f33/perl-Padre/share/locale/nl-nl.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 5313 | 5374 | 98.9 | /mnt/stockage/packages/f33/perl-Padre/share/locale/he.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 5517 | 5604 | 98.4 | /mnt/stockage/packages/f33/perl-Padre/share/locale/es-es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 4661 | 5604 | 83.2 | /mnt/stockage/packages/f33/perl-Padre/share/locale/fr-fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 3127 | 4258 | 73.4 | /mnt/stockage/packages/f33/perl-Padre/share/locale/hu.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 3154 | 5546 | 56.9 | /mnt/stockage/packages/f33/perl-Padre/share/locale/zh-tw.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 2494 | 5105 | 48.9 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ar.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1312 | 4274 | 30.7 | /mnt/stockage/packages/f33/perl-Padre/share/locale/cz.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 210 | 1266 | 16.6 | /mnt/stockage/packages/f33/perl-Padre/share/locale/fa.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 708 | 5533 | 12.8 | /mnt/stockage/packages/f33/perl-Padre/share/locale/pl.po | 
+ | [de](/f33/language/de) | 5604 | 5604 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/de.po | 
+ | [it](/f33/language/it) | 5670 | 5670 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/it-it.po | 
+ | [ja](/f33/language/ja) | 1478 | 1478 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ja.po | 
+ | [ko](/f33/language/ko) | 1291 | 1291 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ko.po | 
+ | [nb_NO](/f33/language/nb_NO) | 1280 | 1280 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/no.po | 
+ | [pt_BR](/f33/language/pt_BR) | 5513 | 5513 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/pt-br.po | 
+ | [ru](/f33/language/ru) | 5358 | 5358 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ru.po | 
+ | [tr](/f33/language/tr) | 5478 | 5478 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/tr.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 5358 | 5358 | 100.0 | /mnt/stockage/packages/f33/perl-Padre/share/locale/zh-cn.po | 
+ | [nl](/f33/language/nl) | 4236 | 4258 | 99.5 | /mnt/stockage/packages/f33/perl-Padre/share/locale/nl-nl.po | 
+ | [he](/f33/language/he) | 5313 | 5374 | 98.9 | /mnt/stockage/packages/f33/perl-Padre/share/locale/he.po | 
+ | [es](/f33/language/es) | 5517 | 5604 | 98.4 | /mnt/stockage/packages/f33/perl-Padre/share/locale/es-es.po | 
+ | [fr](/f33/language/fr) | 4661 | 5604 | 83.2 | /mnt/stockage/packages/f33/perl-Padre/share/locale/fr-fr.po | 
+ | [hu](/f33/language/hu) | 3127 | 4258 | 73.4 | /mnt/stockage/packages/f33/perl-Padre/share/locale/hu.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 3154 | 5546 | 56.9 | /mnt/stockage/packages/f33/perl-Padre/share/locale/zh-tw.po | 
+ | [ar](/f33/language/ar) | 2494 | 5105 | 48.9 | /mnt/stockage/packages/f33/perl-Padre/share/locale/ar.po | 
+ | [cs](/f33/language/cs) | 1312 | 4274 | 30.7 | /mnt/stockage/packages/f33/perl-Padre/share/locale/cz.po | 
+ | [fa](/f33/language/fa) | 210 | 1266 | 16.6 | /mnt/stockage/packages/f33/perl-Padre/share/locale/fa.po | 
+ | [pl](/f33/language/pl) | 708 | 5533 | 12.8 | /mnt/stockage/packages/f33/perl-Padre/share/locale/pl.po | 
 {.sortable}
 
 

@@ -18,25 +18,25 @@ The package mariadb (version 5.5.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/de.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/fr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/ja.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/ru.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/sv.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 213 | 308 | 69.2 | /mnt/stockage/packages/f19/mariadb/debian/po/eu.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 184 | 308 | 59.7 | /mnt/stockage/packages/f19/mariadb/debian/po/da.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 184 | 308 | 59.7 | /mnt/stockage/packages/f19/mariadb/debian/po/es.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/ar.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/cs.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/gl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/pt_BR.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/ca.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/nl.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/ro.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/tr.po | 
+ | [de](/f19/language/de) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/de.po | 
+ | [fr](/f19/language/fr) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/fr.po | 
+ | [it](/f19/language/it) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/it.po | 
+ | [ja](/f19/language/ja) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/ja.po | 
+ | [ru](/f19/language/ru) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/ru.po | 
+ | [sv](/f19/language/sv) | 299 | 308 | 97.1 | /mnt/stockage/packages/f19/mariadb/debian/po/sv.po | 
+ | [eu](/f19/language/eu) | 213 | 308 | 69.2 | /mnt/stockage/packages/f19/mariadb/debian/po/eu.po | 
+ | [da](/f19/language/da) | 184 | 308 | 59.7 | /mnt/stockage/packages/f19/mariadb/debian/po/da.po | 
+ | [es](/f19/language/es) | 184 | 308 | 59.7 | /mnt/stockage/packages/f19/mariadb/debian/po/es.po | 
+ | [ar](/f19/language/ar) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/ar.po | 
+ | [cs](/f19/language/cs) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/cs.po | 
+ | [gl](/f19/language/gl) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/gl.po | 
+ | [pt](/f19/language/pt) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 174 | 308 | 56.5 | /mnt/stockage/packages/f19/mariadb/debian/po/pt_BR.po | 
+ | [ca](/f19/language/ca) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/ca.po | 
+ | [nb_NO](/f19/language/nb_NO) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/nb.po | 
+ | [nl](/f19/language/nl) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/nl.po | 
+ | [ro](/f19/language/ro) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/ro.po | 
+ | [tr](/f19/language/tr) | 0 | 308 | 0.0 | /mnt/stockage/packages/f19/mariadb/debian/po/tr.po | 
 {.sortable}
 
 

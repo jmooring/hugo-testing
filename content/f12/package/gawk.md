@@ -18,25 +18,25 @@ The package gawk (version 3.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/es.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/it.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/pl.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 2560 | 2578 | 99.3 | /mnt/stockage/packages/f12/gawk/po/zh_CN.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 2498 | 2578 | 96.9 | /mnt/stockage/packages/f12/gawk/po/nl.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 2429 | 2578 | 94.2 | /mnt/stockage/packages/f12/gawk/po/ga.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 2429 | 2578 | 94.2 | /mnt/stockage/packages/f12/gawk/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 2426 | 2578 | 94.1 | /mnt/stockage/packages/f12/gawk/po/vi.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 2353 | 2578 | 91.3 | /mnt/stockage/packages/f12/gawk/po/tr.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2290 | 2578 | 88.8 | /mnt/stockage/packages/f12/gawk/po/fr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 2287 | 2578 | 88.7 | /mnt/stockage/packages/f12/gawk/po/ja.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2099 | 2578 | 81.4 | /mnt/stockage/packages/f12/gawk/po/pt_BR.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 1874 | 2578 | 72.7 | /mnt/stockage/packages/f12/gawk/po/he.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 1772 | 2578 | 68.7 | /mnt/stockage/packages/f12/gawk/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 1772 | 2578 | 68.7 | /mnt/stockage/packages/f12/gawk/po/da.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 1772 | 2578 | 68.7 | /mnt/stockage/packages/f12/gawk/po/ro.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1746 | 2578 | 67.7 | /mnt/stockage/packages/f12/gawk/po/de.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 1 | 2578 | 0.0 | /mnt/stockage/packages/f12/gawk/po/rw.po | 
+ | [es](/f12/language/es) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/es.po | 
+ | [id](/f12/language/id) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/id.po | 
+ | [it](/f12/language/it) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/it.po | 
+ | [pl](/f12/language/pl) | 2574 | 2578 | 99.8 | /mnt/stockage/packages/f12/gawk/po/pl.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 2560 | 2578 | 99.3 | /mnt/stockage/packages/f12/gawk/po/zh_CN.po | 
+ | [nl](/f12/language/nl) | 2498 | 2578 | 96.9 | /mnt/stockage/packages/f12/gawk/po/nl.po | 
+ | [ga](/f12/language/ga) | 2429 | 2578 | 94.2 | /mnt/stockage/packages/f12/gawk/po/ga.po | 
+ | [sv](/f12/language/sv) | 2429 | 2578 | 94.2 | /mnt/stockage/packages/f12/gawk/po/sv.po | 
+ | [vi](/f12/language/vi) | 2426 | 2578 | 94.1 | /mnt/stockage/packages/f12/gawk/po/vi.po | 
+ | [tr](/f12/language/tr) | 2353 | 2578 | 91.3 | /mnt/stockage/packages/f12/gawk/po/tr.po | 
+ | [fr](/f12/language/fr) | 2290 | 2578 | 88.8 | /mnt/stockage/packages/f12/gawk/po/fr.po | 
+ | [ja](/f12/language/ja) | 2287 | 2578 | 88.7 | /mnt/stockage/packages/f12/gawk/po/ja.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2099 | 2578 | 81.4 | /mnt/stockage/packages/f12/gawk/po/pt_BR.po | 
+ | [he](/f12/language/he) | 1874 | 2578 | 72.7 | /mnt/stockage/packages/f12/gawk/po/he.po | 
+ | [ca](/f12/language/ca) | 1772 | 2578 | 68.7 | /mnt/stockage/packages/f12/gawk/po/ca.po | 
+ | [da](/f12/language/da) | 1772 | 2578 | 68.7 | /mnt/stockage/packages/f12/gawk/po/da.po | 
+ | [ro](/f12/language/ro) | 1772 | 2578 | 68.7 | /mnt/stockage/packages/f12/gawk/po/ro.po | 
+ | [de](/f12/language/de) | 1746 | 2578 | 67.7 | /mnt/stockage/packages/f12/gawk/po/de.po | 
+ | [rw](/f12/language/rw) | 1 | 2578 | 0.0 | /mnt/stockage/packages/f12/gawk/po/rw.po | 
 {.sortable}
 
 

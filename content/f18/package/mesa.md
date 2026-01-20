@@ -18,11 +18,11 @@ The package mesa (version 9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 346 | 346 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 255 | 255 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 267 | 267 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [de](/f18/language/de) | 346 | 346 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f18/language/es) | 255 | 255 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f18/language/fr) | 255 | 255 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f18/language/nl) | 255 | 255 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f18/language/sv) | 267 | 267 | 100.0 | /mnt/stockage/packages/f18/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
 {.sortable}
 
 

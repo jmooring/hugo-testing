@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f22/package/iso-codes.md" >}}) | 392 | 15780 | 2.5 | Blin | 
+ | [iso-codes](/f22/package/iso-codes) | 392 | 15780 | 2.5 | Blin | 
 {.sortable}
 
 

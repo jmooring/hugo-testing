@@ -18,11 +18,11 @@ The package aeskulap (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 265 | 313 | 84.7 | /mnt/stockage/packages/f14/aeskulap/po/de.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 70 | 313 | 22.4 | /mnt/stockage/packages/f14/aeskulap/po/hu.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 313 | 0.0 | /mnt/stockage/packages/f14/aeskulap/po/en.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 0 | 313 | 0.0 | /mnt/stockage/packages/f14/aeskulap/po/es.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 0 | 313 | 0.0 | /mnt/stockage/packages/f14/aeskulap/po/pt.po | 
+ | [de](/f14/language/de) | 265 | 313 | 84.7 | /mnt/stockage/packages/f14/aeskulap/po/de.po | 
+ | [hu](/f14/language/hu) | 70 | 313 | 22.4 | /mnt/stockage/packages/f14/aeskulap/po/hu.po | 
+ | [en](/f14/language/en) | 0 | 313 | 0.0 | /mnt/stockage/packages/f14/aeskulap/po/en.po | 
+ | [es](/f14/language/es) | 0 | 313 | 0.0 | /mnt/stockage/packages/f14/aeskulap/po/es.po | 
+ | [pt](/f14/language/pt) | 0 | 313 | 0.0 | /mnt/stockage/packages/f14/aeskulap/po/pt.po | 
 {.sortable}
 
 

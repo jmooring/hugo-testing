@@ -18,42 +18,42 @@ The package klavaro (version 3.09):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f29/language/da.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/da.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/eo.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/fr.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/hr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/nl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/pt_PT.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/ru.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/sv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/uk.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1975 | 2004 | 98.6 | /mnt/stockage/packages/f29/klavaro/po/pl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/el.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/eu.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/gl.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/hu.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/vi.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/cs.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/it.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/pa.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/sr.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 1724 | 2004 | 86.0 | /mnt/stockage/packages/f29/klavaro/po/bg.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 1724 | 2004 | 86.0 | /mnt/stockage/packages/f29/klavaro/po/kk.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1719 | 2004 | 85.8 | /mnt/stockage/packages/f29/klavaro/po/es.po | 
- | [wo]({{< ref "/f29/language/wo.md" >}}) | 1715 | 2004 | 85.6 | /mnt/stockage/packages/f29/klavaro/po/wo.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1715 | 2004 | 85.6 | /mnt/stockage/packages/f29/klavaro/po/zh_CN.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 1713 | 2004 | 85.5 | /mnt/stockage/packages/f29/klavaro/po/ar.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1713 | 2004 | 85.5 | /mnt/stockage/packages/f29/klavaro/po/nb.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 1709 | 2004 | 85.3 | /mnt/stockage/packages/f29/klavaro/po/ur.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 1092 | 2004 | 54.5 | /mnt/stockage/packages/f29/klavaro/po/bn.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 697 | 2004 | 34.8 | /mnt/stockage/packages/f29/klavaro/po/en_GB.po | 
- | [ky]({{< ref "/f29/language/ky.md" >}}) | 632 | 2004 | 31.5 | /mnt/stockage/packages/f29/klavaro/po/ky.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 531 | 2004 | 26.5 | /mnt/stockage/packages/f29/klavaro/po/fi.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 16 | 2004 | 0.8 | /mnt/stockage/packages/f29/klavaro/po/te.po | 
+ | [da](/f29/language/da) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/da.po | 
+ | [eo](/f29/language/eo) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/eo.po | 
+ | [fr](/f29/language/fr) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/fr.po | 
+ | [hr](/f29/language/hr) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/hr.po | 
+ | [nl](/f29/language/nl) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/nl.po | 
+ | [pt](/f29/language/pt) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/pt_PT.po | 
+ | [pt_BR](/f29/language/pt_BR) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/ru.po | 
+ | [sv](/f29/language/sv) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/sv.po | 
+ | [uk](/f29/language/uk) | 2004 | 2004 | 100.0 | /mnt/stockage/packages/f29/klavaro/po/uk.po | 
+ | [pl](/f29/language/pl) | 1975 | 2004 | 98.6 | /mnt/stockage/packages/f29/klavaro/po/pl.po | 
+ | [de](/f29/language/de) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/de.po | 
+ | [el](/f29/language/el) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/el.po | 
+ | [eu](/f29/language/eu) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/eu.po | 
+ | [gl](/f29/language/gl) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/gl.po | 
+ | [hu](/f29/language/hu) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/hu.po | 
+ | [vi](/f29/language/vi) | 1892 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/vi.po | 
+ | [ca](/f29/language/ca) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/ca.po | 
+ | [cs](/f29/language/cs) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/cs.po | 
+ | [it](/f29/language/it) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/it.po | 
+ | [pa](/f29/language/pa) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/pa.po | 
+ | [sl](/f29/language/sl) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/sl.po | 
+ | [sr](/f29/language/sr) | 1891 | 2004 | 94.4 | /mnt/stockage/packages/f29/klavaro/po/sr.po | 
+ | [bg](/f29/language/bg) | 1724 | 2004 | 86.0 | /mnt/stockage/packages/f29/klavaro/po/bg.po | 
+ | [kk](/f29/language/kk) | 1724 | 2004 | 86.0 | /mnt/stockage/packages/f29/klavaro/po/kk.po | 
+ | [es](/f29/language/es) | 1719 | 2004 | 85.8 | /mnt/stockage/packages/f29/klavaro/po/es.po | 
+ | [wo](/f29/language/wo) | 1715 | 2004 | 85.6 | /mnt/stockage/packages/f29/klavaro/po/wo.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1715 | 2004 | 85.6 | /mnt/stockage/packages/f29/klavaro/po/zh_CN.po | 
+ | [ar](/f29/language/ar) | 1713 | 2004 | 85.5 | /mnt/stockage/packages/f29/klavaro/po/ar.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1713 | 2004 | 85.5 | /mnt/stockage/packages/f29/klavaro/po/nb.po | 
+ | [ur](/f29/language/ur) | 1709 | 2004 | 85.3 | /mnt/stockage/packages/f29/klavaro/po/ur.po | 
+ | [bn](/f29/language/bn) | 1092 | 2004 | 54.5 | /mnt/stockage/packages/f29/klavaro/po/bn.po | 
+ | [en_GB](/f29/language/en_GB) | 697 | 2004 | 34.8 | /mnt/stockage/packages/f29/klavaro/po/en_GB.po | 
+ | [ky](/f29/language/ky) | 632 | 2004 | 31.5 | /mnt/stockage/packages/f29/klavaro/po/ky.po | 
+ | [fi](/f29/language/fi) | 531 | 2004 | 26.5 | /mnt/stockage/packages/f29/klavaro/po/fi.po | 
+ | [te](/f29/language/te) | 16 | 2004 | 0.8 | /mnt/stockage/packages/f29/klavaro/po/te.po | 
 {.sortable}
 
 

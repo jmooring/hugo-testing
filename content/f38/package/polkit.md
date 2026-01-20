@@ -18,26 +18,26 @@ The package polkit (version 122):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/de.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/it.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/ka.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/nl.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/nn.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/ro.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/sk.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 238 | 238 | 100.0 | /mnt/stockage/packages/f38/polkit/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/uk.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 227 | 228 | 99.6 | /mnt/stockage/packages/f38/polkit/po/zh_CN.po | 
+ | [cs](/f38/language/cs) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/cs.po | 
+ | [da](/f38/language/da) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/da.po | 
+ | [de](/f38/language/de) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/de.po | 
+ | [hr](/f38/language/hr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/hr.po | 
+ | [hu](/f38/language/hu) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/hu.po | 
+ | [id](/f38/language/id) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/id.po | 
+ | [it](/f38/language/it) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/it.po | 
+ | [ka](/f38/language/ka) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/ka.po | 
+ | [nl](/f38/language/nl) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/nl.po | 
+ | [nn](/f38/language/nn) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/nn.po | 
+ | [pl](/f38/language/pl) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/pl.po | 
+ | [pt](/f38/language/pt) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/ro.po | 
+ | [sk](/f38/language/sk) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/sk.po | 
+ | [sv](/f38/language/sv) | 238 | 238 | 100.0 | /mnt/stockage/packages/f38/polkit/po/sv.po | 
+ | [tr](/f38/language/tr) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/tr.po | 
+ | [uk](/f38/language/uk) | 230 | 230 | 100.0 | /mnt/stockage/packages/f38/polkit/po/uk.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 228 | 228 | 100.0 | /mnt/stockage/packages/f38/polkit/po/zh_TW.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 227 | 228 | 99.6 | /mnt/stockage/packages/f38/polkit/po/zh_CN.po | 
 {.sortable}
 
 

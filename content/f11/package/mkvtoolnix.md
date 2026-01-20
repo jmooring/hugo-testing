@@ -18,11 +18,11 @@ The package mkvtoolnix (version 3.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 16843 | 16843 | 100.0 | /mnt/stockage/packages/f11/mkvtoolnix/po/de.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 16843 | 16843 | 100.0 | /mnt/stockage/packages/f11/mkvtoolnix/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 28117 | 28199 | 99.7 | /mnt/stockage/packages/f11/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f11/mkvtoolnix/po/zh_CN.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 16672 | 16843 | 99.0 | /mnt/stockage/packages/f11/mkvtoolnix/po/ja.po | 
- | [man]({{< ref "/f11/language/man.md" >}}) | 10930 | 11356 | 96.2 | /mnt/stockage/packages/f11/mkvtoolnix/doc/man/po4a/po/ja.po | 
+ | [de](/f11/language/de) | 16843 | 16843 | 100.0 | /mnt/stockage/packages/f11/mkvtoolnix/po/de.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 16843 | 16843 | 100.0 | /mnt/stockage/packages/f11/mkvtoolnix/po/zh_TW.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 28117 | 28199 | 99.7 | /mnt/stockage/packages/f11/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f11/mkvtoolnix/po/zh_CN.po | 
+ | [ja](/f11/language/ja) | 16672 | 16843 | 99.0 | /mnt/stockage/packages/f11/mkvtoolnix/po/ja.po | 
+ | [man](/f11/language/man) | 10930 | 11356 | 96.2 | /mnt/stockage/packages/f11/mkvtoolnix/doc/man/po4a/po/ja.po | 
 {.sortable}
 
 

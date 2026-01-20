@@ -38,21 +38,21 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [codeblocks]({{< ref "/f40/package/codeblocks.md" >}}) | 613 | 613 | 100.0 | Flemish <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [mingw-hunspell]({{< ref "/f40/package/mingw-hunspell.md" >}}) | 613 | 613 | 100.0 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [picard]({{< ref "/f40/package/picard.md" >}}) | 386 | 386 | 100.0 | Dutch (Belgium) (http://app.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
- | [clamtk]({{< ref "/f40/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [hunspell]({{< ref "/f40/package/hunspell.md" >}}) | 592 | 613 | 96.6 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [sigil]({{< ref "/f40/package/sigil.md" >}}) | 592 | 613 | 96.6 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
- | [duplicity]({{< ref "/f40/package/duplicity.md" >}}) | 2239 | 2377 | 94.2 | Dutch, Belgium | 
- | [gtkhash]({{< ref "/f40/package/gtkhash.md" >}}) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
- | [siril]({{< ref "/f40/package/siril.md" >}}) | 33950 | 43025 | 78.9 | Dutch (Belgium) <https://weblate.pixls.us/projects/siril/siril-application-1-2/nl_BE/> | 
- | [budgie-desktop]({{< ref "/f40/package/budgie-desktop.md" >}}) | 980 | 1859 | 52.7 | Dutch (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/nl_BE/) | 
- | [lollypop]({{< ref "/f40/package/lollypop.md" >}}) | 606 | 1428 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f40/package/gnome-shell-extension-gsconnect.md" >}}) | 319 | 822 | 38.8 | Dutch <vistausss@outlook.com> | 
- | [bubblemail]({{< ref "/f40/package/bubblemail.md" >}}) | 0 | 478 | 0.0 | none | 
- | [gnome-shell-extension-bubblemail]({{< ref "/f40/package/gnome-shell-extension-bubblemail.md" >}}) | 0 | 133 | 0.0 | none | 
- | [mc]({{< ref "/f40/package/mc.md" >}}) | 0 | 4429 | 0.0 | Dutch (Belgium) (http://app.transifex.com/mc/mc/language/nl_BE/) | 
+ | [codeblocks](/f40/package/codeblocks) | 613 | 613 | 100.0 | Flemish <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [mingw-hunspell](/f40/package/mingw-hunspell) | 613 | 613 | 100.0 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [picard](/f40/package/picard) | 386 | 386 | 100.0 | Dutch (Belgium) (http://app.transifex.com/musicbrainz/musicbrainz/language/nl_BE/) | 
+ | [clamtk](/f40/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [hunspell](/f40/package/hunspell) | 592 | 613 | 96.6 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [sigil](/f40/package/sigil) | 592 | 613 | 96.6 | Dutch (Belgium) <https://hosted.weblate.org/projects/hunspell/translations/nl_BE/> | 
+ | [duplicity](/f40/package/duplicity) | 2239 | 2377 | 94.2 | Dutch, Belgium | 
+ | [gtkhash](/f40/package/gtkhash) | 197 | 213 | 92.5 | Flemish <https://hosted.weblate.org/projects/gtkhash/translations/nl_BE/> | 
+ | [siril](/f40/package/siril) | 33950 | 43025 | 78.9 | Dutch (Belgium) <https://weblate.pixls.us/projects/siril/siril-application-1-2/nl_BE/> | 
+ | [budgie-desktop](/f40/package/budgie-desktop) | 980 | 1859 | 52.7 | Dutch (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/nl_BE/) | 
+ | [lollypop](/f40/package/lollypop) | 606 | 1428 | 42.4 | Flemish <https://hosted.weblate.org/projects/gnumdk/lollypop/nl_BE/> | 
+ | [gnome-shell-extension-gsconnect](/f40/package/gnome-shell-extension-gsconnect) | 319 | 822 | 38.8 | Dutch <vistausss@outlook.com> | 
+ | [bubblemail](/f40/package/bubblemail) | 0 | 478 | 0.0 | none | 
+ | [gnome-shell-extension-bubblemail](/f40/package/gnome-shell-extension-bubblemail) | 0 | 133 | 0.0 | none | 
+ | [mc](/f40/package/mc) | 0 | 4429 | 0.0 | Dutch (Belgium) (http://app.transifex.com/mc/mc/language/nl_BE/) | 
 {.sortable}
 
 

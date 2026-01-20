@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [abiword]({{< ref "/f8/package/abiword.md" >}}) | 2152 | 4644 | 46.3 | Lojban | 
- | [xchat-gnome]({{< ref "/f8/package/xchat-gnome.md" >}}) | 0 | 3901 | 0.0 | Lojban <jbo@li.org> | 
+ | [abiword](/f8/package/abiword) | 2152 | 4644 | 46.3 | Lojban | 
+ | [xchat-gnome](/f8/package/xchat-gnome) | 0 | 3901 | 0.0 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

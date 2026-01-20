@@ -18,9 +18,9 @@ The package xfce4-hamster-plugin (version 1.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f24/xfce4-hamster-plugin/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f24/xfce4-hamster-plugin/po/es.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f24/xfce4-hamster-plugin/po/tr.po | 
+ | [de](/f24/language/de) | 38 | 38 | 100.0 | /mnt/stockage/packages/f24/xfce4-hamster-plugin/po/de.po | 
+ | [es](/f24/language/es) | 38 | 38 | 100.0 | /mnt/stockage/packages/f24/xfce4-hamster-plugin/po/es.po | 
+ | [tr](/f24/language/tr) | 38 | 38 | 100.0 | /mnt/stockage/packages/f24/xfce4-hamster-plugin/po/tr.po | 
 {.sortable}
 
 

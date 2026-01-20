@@ -18,8 +18,8 @@ The package inkscape-silhouette (version 1.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 979 | 985 | 99.4 | /mnt/stockage/packages/f42/inkscape-silhouette/po/de.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 909 | 985 | 92.3 | /mnt/stockage/packages/f42/inkscape-silhouette/po/pt_BR.po | 
+ | [de](/f42/language/de) | 979 | 985 | 99.4 | /mnt/stockage/packages/f42/inkscape-silhouette/po/de.po | 
+ | [pt_BR](/f42/language/pt_BR) | 909 | 985 | 92.3 | /mnt/stockage/packages/f42/inkscape-silhouette/po/pt_BR.po | 
 {.sortable}
 
 

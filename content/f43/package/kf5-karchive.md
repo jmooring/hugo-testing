@@ -18,38 +18,38 @@ The package kf5-karchive (version 5.116.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ar/karchive5_qt.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ca/karchive5_qt.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ca@valencia/karchive5_qt.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/en_GB/karchive5_qt.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/eo/karchive5_qt.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/es/karchive5_qt.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/eu/karchive5_qt.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/fi/karchive5_qt.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/fr/karchive5_qt.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/gl/karchive5_qt.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ia/karchive5_qt.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/id/karchive5_qt.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/it/karchive5_qt.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ja/karchive5_qt.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ka/karchive5_qt.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ko/karchive5_qt.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/nl/karchive5_qt.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/nn/karchive5_qt.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/pl/karchive5_qt.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/pt/karchive5_qt.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ru/karchive5_qt.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/sl/karchive5_qt.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/sv/karchive5_qt.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/tr/karchive5_qt.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/uk/karchive5_qt.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/zh_CN/karchive5_qt.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/zh_TW/karchive5_qt.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 311 | 488 | 63.7 | /mnt/stockage/packages/f43/kf5-karchive/poqm/de/karchive5_qt.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 124 | 488 | 25.4 | /mnt/stockage/packages/f43/kf5-karchive/poqm/cs/karchive5_qt.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 68 | 488 | 13.9 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ro/karchive5_qt.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 27 | 488 | 5.5 | /mnt/stockage/packages/f43/kf5-karchive/poqm/sk/karchive5_qt.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 0 | 488 | 0.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/lt/karchive5_qt.po | 
+ | [ar](/f43/language/ar) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ar/karchive5_qt.po | 
+ | [ca](/f43/language/ca) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ca/karchive5_qt.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ca@valencia/karchive5_qt.po | 
+ | [en_GB](/f43/language/en_GB) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/en_GB/karchive5_qt.po | 
+ | [eo](/f43/language/eo) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/eo/karchive5_qt.po | 
+ | [es](/f43/language/es) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/es/karchive5_qt.po | 
+ | [eu](/f43/language/eu) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/eu/karchive5_qt.po | 
+ | [fi](/f43/language/fi) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/fi/karchive5_qt.po | 
+ | [fr](/f43/language/fr) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/fr/karchive5_qt.po | 
+ | [gl](/f43/language/gl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/gl/karchive5_qt.po | 
+ | [ia](/f43/language/ia) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ia/karchive5_qt.po | 
+ | [id](/f43/language/id) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/id/karchive5_qt.po | 
+ | [it](/f43/language/it) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/it/karchive5_qt.po | 
+ | [ja](/f43/language/ja) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ja/karchive5_qt.po | 
+ | [ka](/f43/language/ka) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ka/karchive5_qt.po | 
+ | [ko](/f43/language/ko) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ko/karchive5_qt.po | 
+ | [nl](/f43/language/nl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/nl/karchive5_qt.po | 
+ | [nn](/f43/language/nn) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/nn/karchive5_qt.po | 
+ | [pl](/f43/language/pl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/pl/karchive5_qt.po | 
+ | [pt](/f43/language/pt) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/pt/karchive5_qt.po | 
+ | [ru](/f43/language/ru) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ru/karchive5_qt.po | 
+ | [sl](/f43/language/sl) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/sl/karchive5_qt.po | 
+ | [sv](/f43/language/sv) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/sv/karchive5_qt.po | 
+ | [tr](/f43/language/tr) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/tr/karchive5_qt.po | 
+ | [uk](/f43/language/uk) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/uk/karchive5_qt.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/zh_CN/karchive5_qt.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 488 | 488 | 100.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/zh_TW/karchive5_qt.po | 
+ | [de](/f43/language/de) | 311 | 488 | 63.7 | /mnt/stockage/packages/f43/kf5-karchive/poqm/de/karchive5_qt.po | 
+ | [cs](/f43/language/cs) | 124 | 488 | 25.4 | /mnt/stockage/packages/f43/kf5-karchive/poqm/cs/karchive5_qt.po | 
+ | [ro](/f43/language/ro) | 68 | 488 | 13.9 | /mnt/stockage/packages/f43/kf5-karchive/poqm/ro/karchive5_qt.po | 
+ | [sk](/f43/language/sk) | 27 | 488 | 5.5 | /mnt/stockage/packages/f43/kf5-karchive/poqm/sk/karchive5_qt.po | 
+ | [lt](/f43/language/lt) | 0 | 488 | 0.0 | /mnt/stockage/packages/f43/kf5-karchive/poqm/lt/karchive5_qt.po | 
 {.sortable}
 
 

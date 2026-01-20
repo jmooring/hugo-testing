@@ -18,48 +18,48 @@ The package xfce4-time-out-plugin (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ar.po | 
- | [ast]({{< ref "/f28/language/ast.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ast.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/bg.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/cs.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/el.po | 
- | [en_AU]({{< ref "/f28/language/en_AU.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/en_AU.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/es.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/eu.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/fr.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/he.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/hr.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/id.po | 
- | [is]({{< ref "/f28/language/is.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/is.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ja.po | 
- | [kk]({{< ref "/f28/language/kk.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/kk.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ko.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/lt.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/nb.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/nl.po | 
- | [oc]({{< ref "/f28/language/oc.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/oc.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ru.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/sk.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/tr.po | 
- | [ug]({{< ref "/f28/language/ug.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ug.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/zh_TW.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 88 | 89 | 98.9 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/gl.po | 
- | [lv]({{< ref "/f28/language/lv.md" >}}) | 38 | 89 | 42.7 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/lv.po | 
- | [ur]({{< ref "/f28/language/ur.md" >}}) | 76 | 178 | 42.7 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ur_PK.po/mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ur.po | 
+ | [ar](/f28/language/ar) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ar.po | 
+ | [ast](/f28/language/ast) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ast.po | 
+ | [bg](/f28/language/bg) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/bg.po | 
+ | [ca](/f28/language/ca) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ca.po | 
+ | [cs](/f28/language/cs) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/cs.po | 
+ | [da](/f28/language/da) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/da.po | 
+ | [de](/f28/language/de) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/de.po | 
+ | [el](/f28/language/el) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/el.po | 
+ | [en_AU](/f28/language/en_AU) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/en_AU.po | 
+ | [es](/f28/language/es) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/es.po | 
+ | [eu](/f28/language/eu) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/eu.po | 
+ | [fi](/f28/language/fi) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/fi.po | 
+ | [fr](/f28/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/fr.po | 
+ | [he](/f28/language/he) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/he.po | 
+ | [hr](/f28/language/hr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/hr.po | 
+ | [hu](/f28/language/hu) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/hu.po | 
+ | [id](/f28/language/id) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/id.po | 
+ | [is](/f28/language/is) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/is.po | 
+ | [it](/f28/language/it) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/it.po | 
+ | [ja](/f28/language/ja) | 90 | 90 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ja.po | 
+ | [kk](/f28/language/kk) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/kk.po | 
+ | [ko](/f28/language/ko) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ko.po | 
+ | [lt](/f28/language/lt) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/lt.po | 
+ | [ms](/f28/language/ms) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ms.po | 
+ | [nb_NO](/f28/language/nb_NO) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/nb.po | 
+ | [nl](/f28/language/nl) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/nl.po | 
+ | [oc](/f28/language/oc) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/oc.po | 
+ | [pl](/f28/language/pl) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/pl.po | 
+ | [pt](/f28/language/pt) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ru.po | 
+ | [sk](/f28/language/sk) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/sk.po | 
+ | [sr](/f28/language/sr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/sr.po | 
+ | [sv](/f28/language/sv) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/sv.po | 
+ | [tr](/f28/language/tr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/tr.po | 
+ | [ug](/f28/language/ug) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ug.po | 
+ | [uk](/f28/language/uk) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/uk.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 89 | 89 | 100.0 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/zh_TW.po | 
+ | [gl](/f28/language/gl) | 88 | 89 | 98.9 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/gl.po | 
+ | [lv](/f28/language/lv) | 38 | 89 | 42.7 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/lv.po | 
+ | [ur](/f28/language/ur) | 76 | 178 | 42.7 | /mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ur_PK.po/mnt/stockage/packages/f28/xfce4-time-out-plugin/po/ur.po | 
 {.sortable}
 
 

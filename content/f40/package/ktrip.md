@@ -18,44 +18,44 @@ The package ktrip (version 25.04.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ar/ktrip.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ca/ktrip.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ca@valencia/ktrip.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/de/ktrip.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/en_GB/ktrip.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/eo/ktrip.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/es/ktrip.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/eu/ktrip.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/fi/ktrip.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/fr/ktrip.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/gl/ktrip.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/he/ktrip.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/hu/ktrip.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ia/ktrip.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/it/ktrip.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ka/ktrip.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ko/ktrip.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/lv/ktrip.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/nl/ktrip.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/nn/ktrip.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/pl/ktrip.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/pt/ktrip.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/pt_BR/ktrip.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ru/ktrip.po | 
- | [sa]({{< ref "/f40/language/sa.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/sa/ktrip.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/sl/ktrip.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/sv/ktrip.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/tr/ktrip.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/uk/ktrip.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/zh_TW/ktrip.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 85 | 103 | 82.5 | /mnt/stockage/packages/f40/ktrip/po/et/ktrip.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 76 | 103 | 73.8 | /mnt/stockage/packages/f40/ktrip/po/cs/ktrip.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 62 | 103 | 60.2 | /mnt/stockage/packages/f40/ktrip/po/zh_CN/ktrip.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 7 | 103 | 6.8 | /mnt/stockage/packages/f40/ktrip/po/sk/ktrip.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 4 | 103 | 3.9 | /mnt/stockage/packages/f40/ktrip/po/ast/ktrip.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 0 | 103 | 0.0 | /mnt/stockage/packages/f40/ktrip/po/hi/ktrip.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 103 | 0.0 | /mnt/stockage/packages/f40/ktrip/po/ja/ktrip.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 0 | 103 | 0.0 | /mnt/stockage/packages/f40/ktrip/po/lt/ktrip.po | 
+ | [ar](/f40/language/ar) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ar/ktrip.po | 
+ | [ca](/f40/language/ca) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ca/ktrip.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ca@valencia/ktrip.po | 
+ | [de](/f40/language/de) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/de/ktrip.po | 
+ | [en_GB](/f40/language/en_GB) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/en_GB/ktrip.po | 
+ | [eo](/f40/language/eo) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/eo/ktrip.po | 
+ | [es](/f40/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/es/ktrip.po | 
+ | [eu](/f40/language/eu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/eu/ktrip.po | 
+ | [fi](/f40/language/fi) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/fi/ktrip.po | 
+ | [fr](/f40/language/fr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/fr/ktrip.po | 
+ | [gl](/f40/language/gl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/gl/ktrip.po | 
+ | [he](/f40/language/he) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/he/ktrip.po | 
+ | [hu](/f40/language/hu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/hu/ktrip.po | 
+ | [ia](/f40/language/ia) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ia/ktrip.po | 
+ | [it](/f40/language/it) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/it/ktrip.po | 
+ | [ka](/f40/language/ka) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ka/ktrip.po | 
+ | [ko](/f40/language/ko) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ko/ktrip.po | 
+ | [lv](/f40/language/lv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/lv/ktrip.po | 
+ | [nl](/f40/language/nl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/nl/ktrip.po | 
+ | [nn](/f40/language/nn) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/nn/ktrip.po | 
+ | [pl](/f40/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/pl/ktrip.po | 
+ | [pt](/f40/language/pt) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/pt/ktrip.po | 
+ | [pt_BR](/f40/language/pt_BR) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/pt_BR/ktrip.po | 
+ | [ru](/f40/language/ru) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/ru/ktrip.po | 
+ | [sa](/f40/language/sa) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/sa/ktrip.po | 
+ | [sl](/f40/language/sl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/sl/ktrip.po | 
+ | [sv](/f40/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/sv/ktrip.po | 
+ | [tr](/f40/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/tr/ktrip.po | 
+ | [uk](/f40/language/uk) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/uk/ktrip.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 103 | 103 | 100.0 | /mnt/stockage/packages/f40/ktrip/po/zh_TW/ktrip.po | 
+ | [et](/f40/language/et) | 85 | 103 | 82.5 | /mnt/stockage/packages/f40/ktrip/po/et/ktrip.po | 
+ | [cs](/f40/language/cs) | 76 | 103 | 73.8 | /mnt/stockage/packages/f40/ktrip/po/cs/ktrip.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 62 | 103 | 60.2 | /mnt/stockage/packages/f40/ktrip/po/zh_CN/ktrip.po | 
+ | [sk](/f40/language/sk) | 7 | 103 | 6.8 | /mnt/stockage/packages/f40/ktrip/po/sk/ktrip.po | 
+ | [ast](/f40/language/ast) | 4 | 103 | 3.9 | /mnt/stockage/packages/f40/ktrip/po/ast/ktrip.po | 
+ | [hi](/f40/language/hi) | 0 | 103 | 0.0 | /mnt/stockage/packages/f40/ktrip/po/hi/ktrip.po | 
+ | [ja](/f40/language/ja) | 0 | 103 | 0.0 | /mnt/stockage/packages/f40/ktrip/po/ja/ktrip.po | 
+ | [lt](/f40/language/lt) | 0 | 103 | 0.0 | /mnt/stockage/packages/f40/ktrip/po/lt/ktrip.po | 
 {.sortable}
 
 

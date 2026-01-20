@@ -18,9 +18,9 @@ The package joe (version 3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1276 | 1671 | 76.4 | /mnt/stockage/packages/f7/joe/po/ru.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1155 | 1671 | 69.1 | /mnt/stockage/packages/f7/joe/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 925 | 1671 | 55.4 | /mnt/stockage/packages/f7/joe/po/de.po | 
+ | [ru](/f7/language/ru) | 1276 | 1671 | 76.4 | /mnt/stockage/packages/f7/joe/po/ru.po | 
+ | [fr](/f7/language/fr) | 1155 | 1671 | 69.1 | /mnt/stockage/packages/f7/joe/po/fr.po | 
+ | [de](/f7/language/de) | 925 | 1671 | 55.4 | /mnt/stockage/packages/f7/joe/po/de.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package xz (version 5.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/de.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/it.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/pl.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/vi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 1259 | 1360 | 92.6 | /mnt/stockage/packages/f23/xz/po/fr.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 1130 | 1360 | 83.1 | /mnt/stockage/packages/f23/xz/po/cs.po | 
+ | [de](/f23/language/de) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/de.po | 
+ | [it](/f23/language/it) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/it.po | 
+ | [pl](/f23/language/pl) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/pl.po | 
+ | [vi](/f23/language/vi) | 1360 | 1360 | 100.0 | /mnt/stockage/packages/f23/xz/po/vi.po | 
+ | [fr](/f23/language/fr) | 1259 | 1360 | 92.6 | /mnt/stockage/packages/f23/xz/po/fr.po | 
+ | [cs](/f23/language/cs) | 1130 | 1360 | 83.1 | /mnt/stockage/packages/f23/xz/po/cs.po | 
 {.sortable}
 
 

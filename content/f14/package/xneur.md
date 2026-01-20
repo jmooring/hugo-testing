@@ -18,11 +18,11 @@ The package xneur (version 0.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1621 | 1628 | 99.6 | /mnt/stockage/packages/f14/xneur/po/ru.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 361 | 1628 | 22.2 | /mnt/stockage/packages/f14/xneur/po/uk.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 198 | 1628 | 12.2 | /mnt/stockage/packages/f14/xneur/po/be.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 16 | 1628 | 1.0 | /mnt/stockage/packages/f14/xneur/po/ro.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 3 | 1628 | 0.2 | /mnt/stockage/packages/f14/xneur/po/de.po | 
+ | [ru](/f14/language/ru) | 1621 | 1628 | 99.6 | /mnt/stockage/packages/f14/xneur/po/ru.po | 
+ | [uk](/f14/language/uk) | 361 | 1628 | 22.2 | /mnt/stockage/packages/f14/xneur/po/uk.po | 
+ | [be](/f14/language/be) | 198 | 1628 | 12.2 | /mnt/stockage/packages/f14/xneur/po/be.po | 
+ | [ro](/f14/language/ro) | 16 | 1628 | 1.0 | /mnt/stockage/packages/f14/xneur/po/ro.po | 
+ | [de](/f14/language/de) | 3 | 1628 | 0.2 | /mnt/stockage/packages/f14/xneur/po/de.po | 
 {.sortable}
 
 

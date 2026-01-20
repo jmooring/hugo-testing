@@ -18,20 +18,20 @@ The package clutter (version 1.6.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f15/clutter/po/pl.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/gl.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/nl.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/uk.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/zh_TW.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1761 | 2168 | 81.2 | /mnt/stockage/packages/f15/clutter/po/it.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 849 | 2168 | 39.2 | /mnt/stockage/packages/f15/clutter/po/fr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 471 | 2168 | 21.7 | /mnt/stockage/packages/f15/clutter/po/de.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 459 | 2168 | 21.2 | /mnt/stockage/packages/f15/clutter/po/zh_CN.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 430 | 2168 | 19.8 | /mnt/stockage/packages/f15/clutter/po/id.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 159 | 2168 | 7.3 | /mnt/stockage/packages/f15/clutter/po/sv.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 78 | 2168 | 3.6 | /mnt/stockage/packages/f15/clutter/po/pa.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 62 | 2168 | 2.9 | /mnt/stockage/packages/f15/clutter/po/nb.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 23 | 2168 | 1.1 | /mnt/stockage/packages/f15/clutter/po/te.po | 
+ | [pl](/f15/language/pl) | 2168 | 2168 | 100.0 | /mnt/stockage/packages/f15/clutter/po/pl.po | 
+ | [gl](/f15/language/gl) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/gl.po | 
+ | [nl](/f15/language/nl) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/nl.po | 
+ | [uk](/f15/language/uk) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/uk.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 1939 | 2168 | 89.4 | /mnt/stockage/packages/f15/clutter/po/zh_TW.po | 
+ | [it](/f15/language/it) | 1761 | 2168 | 81.2 | /mnt/stockage/packages/f15/clutter/po/it.po | 
+ | [fr](/f15/language/fr) | 849 | 2168 | 39.2 | /mnt/stockage/packages/f15/clutter/po/fr.po | 
+ | [de](/f15/language/de) | 471 | 2168 | 21.7 | /mnt/stockage/packages/f15/clutter/po/de.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 459 | 2168 | 21.2 | /mnt/stockage/packages/f15/clutter/po/zh_CN.po | 
+ | [id](/f15/language/id) | 430 | 2168 | 19.8 | /mnt/stockage/packages/f15/clutter/po/id.po | 
+ | [sv](/f15/language/sv) | 159 | 2168 | 7.3 | /mnt/stockage/packages/f15/clutter/po/sv.po | 
+ | [pa](/f15/language/pa) | 78 | 2168 | 3.6 | /mnt/stockage/packages/f15/clutter/po/pa.po | 
+ | [nb_NO](/f15/language/nb_NO) | 62 | 2168 | 2.9 | /mnt/stockage/packages/f15/clutter/po/nb.po | 
+ | [te](/f15/language/te) | 23 | 2168 | 1.1 | /mnt/stockage/packages/f15/clutter/po/te.po | 
 {.sortable}
 
 

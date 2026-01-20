@@ -44,8 +44,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-toolkit-gtk3]({{< ref "/f43/package/sugar-toolkit-gtk3.md" >}}) | 30 | 213 | 14.1 | LANGUAGE <LL@li.org> | 
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 60 | 178000 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f43/package/sugar-toolkit-gtk3) | 30 | 213 | 14.1 | LANGUAGE <LL@li.org> | 
+ | [libreoffice](/f43/package/libreoffice) | 60 | 178000 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

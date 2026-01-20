@@ -18,8 +18,8 @@ The package gsql (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 0 | 966 | 0.0 | /mnt/stockage/packages/f12/gsql/po/de.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 0 | 966 | 0.0 | /mnt/stockage/packages/f12/gsql/po/ru.po | 
+ | [de](/f12/language/de) | 0 | 966 | 0.0 | /mnt/stockage/packages/f12/gsql/po/de.po | 
+ | [ru](/f12/language/ru) | 0 | 966 | 0.0 | /mnt/stockage/packages/f12/gsql/po/ru.po | 
 {.sortable}
 
 

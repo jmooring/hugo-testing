@@ -18,34 +18,34 @@ The package sugar-colordeducto (version 8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f39/language/ach.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ach.po | 
- | [ayc]({{< ref "/f39/language/ayc.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ayc.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/da.po | 
- | [en]({{< ref "/f39/language/en.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/en.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/en_GB.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/fr.po | 
- | [gug]({{< ref "/f39/language/gug.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/gug.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/he.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ms.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/sk.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/sq.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/sv.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/uk.po | 
- | [hy]({{< ref "/f39/language/hy.md" >}}) | 108 | 109 | 99.1 | /mnt/stockage/packages/f39/sugar-colordeducto/po/hy.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ca.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/el.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/th.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/zh_CN.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 97 | 109 | 89.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/hi.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 71 | 109 | 65.1 | /mnt/stockage/packages/f39/sugar-colordeducto/po/de.po | 
- | [gn]({{< ref "/f39/language/gn.md" >}}) | 39 | 109 | 35.8 | /mnt/stockage/packages/f39/sugar-colordeducto/po/gn.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 12 | 109 | 11.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/lt.po | 
+ | [ach](/f39/language/ach) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ach.po | 
+ | [ayc](/f39/language/ayc) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ayc.po | 
+ | [da](/f39/language/da) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/da.po | 
+ | [en](/f39/language/en) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/en.po | 
+ | [en_GB](/f39/language/en_GB) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/en_GB.po | 
+ | [es](/f39/language/es) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/es.po | 
+ | [fr](/f39/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/fr.po | 
+ | [gug](/f39/language/gug) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/gug.po | 
+ | [he](/f39/language/he) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/he.po | 
+ | [ms](/f39/language/ms) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ms.po | 
+ | [nl](/f39/language/nl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/nl.po | 
+ | [pl](/f39/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/pl.po | 
+ | [pt](/f39/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ru.po | 
+ | [sk](/f39/language/sk) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/sk.po | 
+ | [sq](/f39/language/sq) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/sq.po | 
+ | [sv](/f39/language/sv) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/sv.po | 
+ | [uk](/f39/language/uk) | 109 | 109 | 100.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/uk.po | 
+ | [hy](/f39/language/hy) | 108 | 109 | 99.1 | /mnt/stockage/packages/f39/sugar-colordeducto/po/hy.po | 
+ | [ca](/f39/language/ca) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/ca.po | 
+ | [el](/f39/language/el) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/el.po | 
+ | [th](/f39/language/th) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/th.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 100 | 109 | 91.7 | /mnt/stockage/packages/f39/sugar-colordeducto/po/zh_CN.po | 
+ | [hi](/f39/language/hi) | 97 | 109 | 89.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/hi.po | 
+ | [de](/f39/language/de) | 71 | 109 | 65.1 | /mnt/stockage/packages/f39/sugar-colordeducto/po/de.po | 
+ | [gn](/f39/language/gn) | 39 | 109 | 35.8 | /mnt/stockage/packages/f39/sugar-colordeducto/po/gn.po | 
+ | [lt](/f39/language/lt) | 12 | 109 | 11.0 | /mnt/stockage/packages/f39/sugar-colordeducto/po/lt.po | 
 {.sortable}
 
 

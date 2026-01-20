@@ -18,7 +18,7 @@ The package halevt (version 0.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 702 | 812 | 86.5 | /mnt/stockage/packages/f9/halevt/halevt-mount/po/fr.po/mnt/stockage/packages/f9/halevt/po/fr.po | 
+ | [fr](/f9/language/fr) | 702 | 812 | 86.5 | /mnt/stockage/packages/f9/halevt/halevt-mount/po/fr.po/mnt/stockage/packages/f9/halevt/po/fr.po | 
 {.sortable}
 
 

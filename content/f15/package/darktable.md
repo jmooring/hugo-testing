@@ -18,23 +18,23 @@ The package darktable (version 1.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 4807 | 4807 | 100.0 | /mnt/stockage/packages/f15/darktable/po/de.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 4501 | 4501 | 100.0 | /mnt/stockage/packages/f15/darktable/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 4807 | 4807 | 100.0 | /mnt/stockage/packages/f15/darktable/po/ja.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 3633 | 3633 | 100.0 | /mnt/stockage/packages/f15/darktable/po/ro.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 4760 | 4760 | 100.0 | /mnt/stockage/packages/f15/darktable/po/sq.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 4895 | 4896 | 100.0 | /mnt/stockage/packages/f15/darktable/po/fr.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 4810 | 4813 | 99.9 | /mnt/stockage/packages/f15/darktable/po/pl.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 4806 | 4813 | 99.9 | /mnt/stockage/packages/f15/darktable/po/es.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 4796 | 4807 | 99.8 | /mnt/stockage/packages/f15/darktable/po/nl.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 4877 | 4896 | 99.6 | /mnt/stockage/packages/f15/darktable/po/zh_CN.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 4771 | 4809 | 99.2 | /mnt/stockage/packages/f15/darktable/po/sv.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 4711 | 4889 | 96.4 | /mnt/stockage/packages/f15/darktable/po/cs.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 2926 | 3183 | 91.9 | /mnt/stockage/packages/f15/darktable/po/fi.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 4134 | 4896 | 84.4 | /mnt/stockage/packages/f15/darktable/po/ru.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 2386 | 3096 | 77.1 | /mnt/stockage/packages/f15/darktable/po/gl.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 870 | 3096 | 28.1 | /mnt/stockage/packages/f15/darktable/po/ca.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 691 | 3180 | 21.7 | /mnt/stockage/packages/f15/darktable/po/th.po | 
+ | [de](/f15/language/de) | 4807 | 4807 | 100.0 | /mnt/stockage/packages/f15/darktable/po/de.po | 
+ | [it](/f15/language/it) | 4501 | 4501 | 100.0 | /mnt/stockage/packages/f15/darktable/po/it.po | 
+ | [ja](/f15/language/ja) | 4807 | 4807 | 100.0 | /mnt/stockage/packages/f15/darktable/po/ja.po | 
+ | [ro](/f15/language/ro) | 3633 | 3633 | 100.0 | /mnt/stockage/packages/f15/darktable/po/ro.po | 
+ | [sq](/f15/language/sq) | 4760 | 4760 | 100.0 | /mnt/stockage/packages/f15/darktable/po/sq.po | 
+ | [fr](/f15/language/fr) | 4895 | 4896 | 100.0 | /mnt/stockage/packages/f15/darktable/po/fr.po | 
+ | [pl](/f15/language/pl) | 4810 | 4813 | 99.9 | /mnt/stockage/packages/f15/darktable/po/pl.po | 
+ | [es](/f15/language/es) | 4806 | 4813 | 99.9 | /mnt/stockage/packages/f15/darktable/po/es.po | 
+ | [nl](/f15/language/nl) | 4796 | 4807 | 99.8 | /mnt/stockage/packages/f15/darktable/po/nl.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 4877 | 4896 | 99.6 | /mnt/stockage/packages/f15/darktable/po/zh_CN.po | 
+ | [sv](/f15/language/sv) | 4771 | 4809 | 99.2 | /mnt/stockage/packages/f15/darktable/po/sv.po | 
+ | [cs](/f15/language/cs) | 4711 | 4889 | 96.4 | /mnt/stockage/packages/f15/darktable/po/cs.po | 
+ | [fi](/f15/language/fi) | 2926 | 3183 | 91.9 | /mnt/stockage/packages/f15/darktable/po/fi.po | 
+ | [ru](/f15/language/ru) | 4134 | 4896 | 84.4 | /mnt/stockage/packages/f15/darktable/po/ru.po | 
+ | [gl](/f15/language/gl) | 2386 | 3096 | 77.1 | /mnt/stockage/packages/f15/darktable/po/gl.po | 
+ | [ca](/f15/language/ca) | 870 | 3096 | 28.1 | /mnt/stockage/packages/f15/darktable/po/ca.po | 
+ | [th](/f15/language/th) | 691 | 3180 | 21.7 | /mnt/stockage/packages/f15/darktable/po/th.po | 
 {.sortable}
 
 

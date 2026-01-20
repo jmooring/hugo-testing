@@ -18,48 +18,48 @@ The package dpkg (version 1.15.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 9998 | 10019 | 99.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/de.po/mnt/stockage/packages/f14/dpkg/po/de.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 36835 | 37520 | 98.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/sv.po/mnt/stockage/packages/f14/dpkg/man/po/sv.po/mnt/stockage/packages/f14/dpkg/po/sv.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 9826 | 10019 | 98.1 | /mnt/stockage/packages/f14/dpkg/dselect/po/cs.po/mnt/stockage/packages/f14/dpkg/po/cs.po | 
- | [man]({{< ref "/f14/language/man.md" >}}) | 26824 | 27501 | 97.5 | /mnt/stockage/packages/f14/dpkg/man/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 36315 | 37520 | 96.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/fr.po/mnt/stockage/packages/f14/dpkg/man/po/fr.po/mnt/stockage/packages/f14/dpkg/po/fr.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 36285 | 37520 | 96.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/pl.po/mnt/stockage/packages/f14/dpkg/man/po/pl.po/mnt/stockage/packages/f14/dpkg/po/pl.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 9685 | 10019 | 96.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/sk.po/mnt/stockage/packages/f14/dpkg/po/sk.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 9641 | 10019 | 96.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/eu.po/mnt/stockage/packages/f14/dpkg/po/eu.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 7274 | 7604 | 95.7 | /mnt/stockage/packages/f14/dpkg/po/ast.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 7227 | 7604 | 95.0 | /mnt/stockage/packages/f14/dpkg/po/eo.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 9494 | 10019 | 94.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/it.po/mnt/stockage/packages/f14/dpkg/po/it.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 9132 | 10019 | 91.1 | /mnt/stockage/packages/f14/dpkg/dselect/po/zh_CN.po/mnt/stockage/packages/f14/dpkg/po/zh_CN.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 20837 | 23655 | 88.1 | /mnt/stockage/packages/f14/dpkg/scripts/po/de.po/mnt/stockage/packages/f14/dpkg/scripts/po/fr.po/mnt/stockage/packages/f14/dpkg/scripts/po/pl.po/mnt/stockage/packages/f14/dpkg/scripts/po/ru.po/mnt/stockage/packages/f14/dpkg/scripts/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 8563 | 10019 | 85.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/nb.po/mnt/stockage/packages/f14/dpkg/po/nb.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 8563 | 10019 | 85.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/pt.po/mnt/stockage/packages/f14/dpkg/po/pt.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 8563 | 10019 | 85.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/ro.po/mnt/stockage/packages/f14/dpkg/po/ro.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 8560 | 10019 | 85.4 | /mnt/stockage/packages/f14/dpkg/dselect/po/gl.po/mnt/stockage/packages/f14/dpkg/po/gl.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 8407 | 10019 | 83.9 | /mnt/stockage/packages/f14/dpkg/dselect/po/ko.po/mnt/stockage/packages/f14/dpkg/po/ko.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 6144 | 7604 | 80.8 | /mnt/stockage/packages/f14/dpkg/po/th.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 8051 | 10019 | 80.4 | /mnt/stockage/packages/f14/dpkg/dselect/po/vi.po/mnt/stockage/packages/f14/dpkg/po/vi.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 7938 | 10019 | 79.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/zh_TW.po/mnt/stockage/packages/f14/dpkg/po/zh_TW.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 7932 | 10019 | 79.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/el.po/mnt/stockage/packages/f14/dpkg/po/el.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 7194 | 10019 | 71.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/nl.po/mnt/stockage/packages/f14/dpkg/po/nl.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 6844 | 10019 | 68.3 | /mnt/stockage/packages/f14/dpkg/dselect/po/da.po/mnt/stockage/packages/f14/dpkg/po/da.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 4793 | 7604 | 63.0 | /mnt/stockage/packages/f14/dpkg/po/dz.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 4793 | 7604 | 63.0 | /mnt/stockage/packages/f14/dpkg/po/ne.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 4699 | 7604 | 61.8 | /mnt/stockage/packages/f14/dpkg/po/km.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 4353 | 7604 | 57.2 | /mnt/stockage/packages/f14/dpkg/po/mr.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 5608 | 10019 | 56.0 | /mnt/stockage/packages/f14/dpkg/dselect/po/id.po/mnt/stockage/packages/f14/dpkg/po/id.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 8163 | 14750 | 55.3 | /mnt/stockage/packages/f14/dpkg/dselect/po/ca.po/mnt/stockage/packages/f14/dpkg/po/ca.po/mnt/stockage/packages/f14/dpkg/scripts/po/ca.po | 
- | [tl]({{< ref "/f14/language/tl.md" >}}) | 5495 | 10019 | 54.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/tl.po/mnt/stockage/packages/f14/dpkg/po/tl.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 5488 | 10019 | 54.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/nn.po/mnt/stockage/packages/f14/dpkg/po/nn.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 3726 | 7604 | 49.0 | /mnt/stockage/packages/f14/dpkg/po/lt.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 17147 | 37520 | 45.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/ja.po/mnt/stockage/packages/f14/dpkg/man/po/ja.po/mnt/stockage/packages/f14/dpkg/po/ja.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 3652 | 10019 | 36.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/et.po/mnt/stockage/packages/f14/dpkg/po/et.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 12330 | 37520 | 32.9 | /mnt/stockage/packages/f14/dpkg/dselect/po/ru.po/mnt/stockage/packages/f14/dpkg/man/po/ru.po/mnt/stockage/packages/f14/dpkg/po/ru.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 8957 | 37520 | 23.9 | /mnt/stockage/packages/f14/dpkg/dselect/po/pt_BR.po/mnt/stockage/packages/f14/dpkg/man/po/pt_BR.po/mnt/stockage/packages/f14/dpkg/po/pt_BR.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 8098 | 37520 | 21.6 | /mnt/stockage/packages/f14/dpkg/dselect/po/es.po/mnt/stockage/packages/f14/dpkg/man/po/es.po/mnt/stockage/packages/f14/dpkg/po/es.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 7147 | 37520 | 19.0 | /mnt/stockage/packages/f14/dpkg/dselect/po/hu.po/mnt/stockage/packages/f14/dpkg/man/po/hu.po/mnt/stockage/packages/f14/dpkg/po/hu.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 721 | 7604 | 9.5 | /mnt/stockage/packages/f14/dpkg/po/pa.po | 
- | [ku]({{< ref "/f14/language/ku.md" >}}) | 541 | 7604 | 7.1 | /mnt/stockage/packages/f14/dpkg/po/ku.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 173 | 10019 | 1.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/bs.po/mnt/stockage/packages/f14/dpkg/po/bs.po | 
+ | [de](/f14/language/de) | 9998 | 10019 | 99.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/de.po/mnt/stockage/packages/f14/dpkg/po/de.po | 
+ | [sv](/f14/language/sv) | 36835 | 37520 | 98.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/sv.po/mnt/stockage/packages/f14/dpkg/man/po/sv.po/mnt/stockage/packages/f14/dpkg/po/sv.po | 
+ | [cs](/f14/language/cs) | 9826 | 10019 | 98.1 | /mnt/stockage/packages/f14/dpkg/dselect/po/cs.po/mnt/stockage/packages/f14/dpkg/po/cs.po | 
+ | [man](/f14/language/man) | 26824 | 27501 | 97.5 | /mnt/stockage/packages/f14/dpkg/man/po/de.po | 
+ | [fr](/f14/language/fr) | 36315 | 37520 | 96.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/fr.po/mnt/stockage/packages/f14/dpkg/man/po/fr.po/mnt/stockage/packages/f14/dpkg/po/fr.po | 
+ | [pl](/f14/language/pl) | 36285 | 37520 | 96.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/pl.po/mnt/stockage/packages/f14/dpkg/man/po/pl.po/mnt/stockage/packages/f14/dpkg/po/pl.po | 
+ | [sk](/f14/language/sk) | 9685 | 10019 | 96.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/sk.po/mnt/stockage/packages/f14/dpkg/po/sk.po | 
+ | [eu](/f14/language/eu) | 9641 | 10019 | 96.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/eu.po/mnt/stockage/packages/f14/dpkg/po/eu.po | 
+ | [ast](/f14/language/ast) | 7274 | 7604 | 95.7 | /mnt/stockage/packages/f14/dpkg/po/ast.po | 
+ | [eo](/f14/language/eo) | 7227 | 7604 | 95.0 | /mnt/stockage/packages/f14/dpkg/po/eo.po | 
+ | [it](/f14/language/it) | 9494 | 10019 | 94.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/it.po/mnt/stockage/packages/f14/dpkg/po/it.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 9132 | 10019 | 91.1 | /mnt/stockage/packages/f14/dpkg/dselect/po/zh_CN.po/mnt/stockage/packages/f14/dpkg/po/zh_CN.po | 
+ | [error](/f14/language/error) | 20837 | 23655 | 88.1 | /mnt/stockage/packages/f14/dpkg/scripts/po/de.po/mnt/stockage/packages/f14/dpkg/scripts/po/fr.po/mnt/stockage/packages/f14/dpkg/scripts/po/pl.po/mnt/stockage/packages/f14/dpkg/scripts/po/ru.po/mnt/stockage/packages/f14/dpkg/scripts/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 8563 | 10019 | 85.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/nb.po/mnt/stockage/packages/f14/dpkg/po/nb.po | 
+ | [pt](/f14/language/pt) | 8563 | 10019 | 85.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/pt.po/mnt/stockage/packages/f14/dpkg/po/pt.po | 
+ | [ro](/f14/language/ro) | 8563 | 10019 | 85.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/ro.po/mnt/stockage/packages/f14/dpkg/po/ro.po | 
+ | [gl](/f14/language/gl) | 8560 | 10019 | 85.4 | /mnt/stockage/packages/f14/dpkg/dselect/po/gl.po/mnt/stockage/packages/f14/dpkg/po/gl.po | 
+ | [ko](/f14/language/ko) | 8407 | 10019 | 83.9 | /mnt/stockage/packages/f14/dpkg/dselect/po/ko.po/mnt/stockage/packages/f14/dpkg/po/ko.po | 
+ | [th](/f14/language/th) | 6144 | 7604 | 80.8 | /mnt/stockage/packages/f14/dpkg/po/th.po | 
+ | [vi](/f14/language/vi) | 8051 | 10019 | 80.4 | /mnt/stockage/packages/f14/dpkg/dselect/po/vi.po/mnt/stockage/packages/f14/dpkg/po/vi.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 7938 | 10019 | 79.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/zh_TW.po/mnt/stockage/packages/f14/dpkg/po/zh_TW.po | 
+ | [el](/f14/language/el) | 7932 | 10019 | 79.2 | /mnt/stockage/packages/f14/dpkg/dselect/po/el.po/mnt/stockage/packages/f14/dpkg/po/el.po | 
+ | [nl](/f14/language/nl) | 7194 | 10019 | 71.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/nl.po/mnt/stockage/packages/f14/dpkg/po/nl.po | 
+ | [da](/f14/language/da) | 6844 | 10019 | 68.3 | /mnt/stockage/packages/f14/dpkg/dselect/po/da.po/mnt/stockage/packages/f14/dpkg/po/da.po | 
+ | [dz](/f14/language/dz) | 4793 | 7604 | 63.0 | /mnt/stockage/packages/f14/dpkg/po/dz.po | 
+ | [ne](/f14/language/ne) | 4793 | 7604 | 63.0 | /mnt/stockage/packages/f14/dpkg/po/ne.po | 
+ | [km](/f14/language/km) | 4699 | 7604 | 61.8 | /mnt/stockage/packages/f14/dpkg/po/km.po | 
+ | [mr](/f14/language/mr) | 4353 | 7604 | 57.2 | /mnt/stockage/packages/f14/dpkg/po/mr.po | 
+ | [id](/f14/language/id) | 5608 | 10019 | 56.0 | /mnt/stockage/packages/f14/dpkg/dselect/po/id.po/mnt/stockage/packages/f14/dpkg/po/id.po | 
+ | [ca](/f14/language/ca) | 8163 | 14750 | 55.3 | /mnt/stockage/packages/f14/dpkg/dselect/po/ca.po/mnt/stockage/packages/f14/dpkg/po/ca.po/mnt/stockage/packages/f14/dpkg/scripts/po/ca.po | 
+ | [tl](/f14/language/tl) | 5495 | 10019 | 54.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/tl.po/mnt/stockage/packages/f14/dpkg/po/tl.po | 
+ | [nn](/f14/language/nn) | 5488 | 10019 | 54.8 | /mnt/stockage/packages/f14/dpkg/dselect/po/nn.po/mnt/stockage/packages/f14/dpkg/po/nn.po | 
+ | [lt](/f14/language/lt) | 3726 | 7604 | 49.0 | /mnt/stockage/packages/f14/dpkg/po/lt.po | 
+ | [ja](/f14/language/ja) | 17147 | 37520 | 45.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/ja.po/mnt/stockage/packages/f14/dpkg/man/po/ja.po/mnt/stockage/packages/f14/dpkg/po/ja.po | 
+ | [et](/f14/language/et) | 3652 | 10019 | 36.5 | /mnt/stockage/packages/f14/dpkg/dselect/po/et.po/mnt/stockage/packages/f14/dpkg/po/et.po | 
+ | [ru](/f14/language/ru) | 12330 | 37520 | 32.9 | /mnt/stockage/packages/f14/dpkg/dselect/po/ru.po/mnt/stockage/packages/f14/dpkg/man/po/ru.po/mnt/stockage/packages/f14/dpkg/po/ru.po | 
+ | [pt_BR](/f14/language/pt_BR) | 8957 | 37520 | 23.9 | /mnt/stockage/packages/f14/dpkg/dselect/po/pt_BR.po/mnt/stockage/packages/f14/dpkg/man/po/pt_BR.po/mnt/stockage/packages/f14/dpkg/po/pt_BR.po | 
+ | [es](/f14/language/es) | 8098 | 37520 | 21.6 | /mnt/stockage/packages/f14/dpkg/dselect/po/es.po/mnt/stockage/packages/f14/dpkg/man/po/es.po/mnt/stockage/packages/f14/dpkg/po/es.po | 
+ | [hu](/f14/language/hu) | 7147 | 37520 | 19.0 | /mnt/stockage/packages/f14/dpkg/dselect/po/hu.po/mnt/stockage/packages/f14/dpkg/man/po/hu.po/mnt/stockage/packages/f14/dpkg/po/hu.po | 
+ | [pa](/f14/language/pa) | 721 | 7604 | 9.5 | /mnt/stockage/packages/f14/dpkg/po/pa.po | 
+ | [ku](/f14/language/ku) | 541 | 7604 | 7.1 | /mnt/stockage/packages/f14/dpkg/po/ku.po | 
+ | [bs](/f14/language/bs) | 173 | 10019 | 1.7 | /mnt/stockage/packages/f14/dpkg/dselect/po/bs.po/mnt/stockage/packages/f14/dpkg/po/bs.po | 
 {.sortable}
 
 

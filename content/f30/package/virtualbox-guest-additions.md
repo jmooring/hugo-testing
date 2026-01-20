@@ -18,12 +18,12 @@ The package virtualbox-guest-additions (version 6.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/ca.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/es.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 323 | 389 | 83.0 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/fr.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/nl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 244 | 389 | 62.7 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/sv.po | 
+ | [ca](/f30/language/ca) | 415 | 415 | 100.0 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/ca.po | 
+ | [es](/f30/language/es) | 415 | 415 | 100.0 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/es.po | 
+ | [de](/f30/language/de) | 323 | 389 | 83.0 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/de.po | 
+ | [fr](/f30/language/fr) | 244 | 389 | 62.7 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/fr.po | 
+ | [nl](/f30/language/nl) | 244 | 389 | 62.7 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/nl.po | 
+ | [sv](/f30/language/sv) | 244 | 389 | 62.7 | /mnt/stockage/packages/f30/virtualbox-guest-additions/src/VBox/Additions/3D/mesa/mesa-17.3.9/src/util/xmlpool/sv.po | 
 {.sortable}
 
 

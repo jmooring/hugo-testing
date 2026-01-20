@@ -18,28 +18,28 @@ The package wxMaxima (version 24.02.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 13998 | 14097 | 99.3 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/ru.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 13750 | 14097 | 97.5 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/hu.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 20854 | 22130 | 94.2 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/uk.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/uk.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 13978 | 22130 | 63.2 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/it.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/it.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 13555 | 22130 | 61.3 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/de.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 11686 | 22130 | 52.8 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/es.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/es.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 11669 | 22130 | 52.7 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/zh_CN.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/zh_CN.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 8594 | 22130 | 38.8 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/tr.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/tr.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 3276 | 14097 | 23.2 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/ca.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 2942 | 14097 | 20.9 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/gl.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 2500 | 14097 | 17.7 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/ja.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 2014 | 14097 | 14.3 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/nb.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1920 | 14097 | 13.6 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/pt_BR.po | 
- | [kab]({{< ref "/f39/language/kab.md" >}}) | 1909 | 14097 | 13.5 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/kab.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1908 | 14097 | 13.5 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/zh_TW.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1893 | 14097 | 13.4 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/fr.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1862 | 14097 | 13.2 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/pl.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 1773 | 14097 | 12.6 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/cs.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 1770 | 14097 | 12.6 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/el.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1503 | 14097 | 10.7 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/fi.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 1434 | 14097 | 10.2 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/da.po | 
- | [en]({{< ref "/f39/language/en.md" >}}) | 0 | 14097 | 0.0 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/en.po | 
+ | [ru](/f39/language/ru) | 13998 | 14097 | 99.3 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/ru.po | 
+ | [hu](/f39/language/hu) | 13750 | 14097 | 97.5 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/hu.po | 
+ | [uk](/f39/language/uk) | 20854 | 22130 | 94.2 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/uk.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/uk.po | 
+ | [it](/f39/language/it) | 13978 | 22130 | 63.2 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/it.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/it.po | 
+ | [de](/f39/language/de) | 13555 | 22130 | 61.3 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/de.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/de.po | 
+ | [es](/f39/language/es) | 11686 | 22130 | 52.8 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/es.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/es.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 11669 | 22130 | 52.7 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/zh_CN.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/zh_CN.po | 
+ | [tr](/f39/language/tr) | 8594 | 22130 | 38.8 | /mnt/stockage/packages/f39/wxMaxima/locales/manual/tr.po/mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/tr.po | 
+ | [ca](/f39/language/ca) | 3276 | 14097 | 23.2 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/ca.po | 
+ | [gl](/f39/language/gl) | 2942 | 14097 | 20.9 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/gl.po | 
+ | [ja](/f39/language/ja) | 2500 | 14097 | 17.7 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/ja.po | 
+ | [nb_NO](/f39/language/nb_NO) | 2014 | 14097 | 14.3 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/nb.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1920 | 14097 | 13.6 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/pt_BR.po | 
+ | [kab](/f39/language/kab) | 1909 | 14097 | 13.5 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/kab.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1908 | 14097 | 13.5 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/zh_TW.po | 
+ | [fr](/f39/language/fr) | 1893 | 14097 | 13.4 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/fr.po | 
+ | [pl](/f39/language/pl) | 1862 | 14097 | 13.2 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/pl.po | 
+ | [cs](/f39/language/cs) | 1773 | 14097 | 12.6 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/cs.po | 
+ | [el](/f39/language/el) | 1770 | 14097 | 12.6 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/el.po | 
+ | [fi](/f39/language/fi) | 1503 | 14097 | 10.7 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/fi.po | 
+ | [da](/f39/language/da) | 1434 | 14097 | 10.2 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/da.po | 
+ | [en](/f39/language/en) | 0 | 14097 | 0.0 | /mnt/stockage/packages/f39/wxMaxima/locales/wxMaxima/en.po | 
 {.sortable}
 
 

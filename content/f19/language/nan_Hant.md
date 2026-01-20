@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 3 | 11181 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [gnome-do]({{< ref "/f19/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [stellarium](/f19/package/stellarium) | 3 | 11181 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [gnome-do](/f19/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

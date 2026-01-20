@@ -18,20 +18,20 @@ The package variety (version 0.8.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 2301 | 2811 | 81.9 | /mnt/stockage/packages/f36/variety/po/ja.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/fi.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/ru.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/uk.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 2003 | 2811 | 71.3 | /mnt/stockage/packages/f36/variety/po/ca.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 2003 | 2811 | 71.3 | /mnt/stockage/packages/f36/variety/po/fr.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 2003 | 2811 | 71.3 | /mnt/stockage/packages/f36/variety/po/sr.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 1876 | 2811 | 66.7 | /mnt/stockage/packages/f36/variety/po/bg.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 1866 | 2811 | 66.4 | /mnt/stockage/packages/f36/variety/po/ko.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 1828 | 2811 | 65.0 | /mnt/stockage/packages/f36/variety/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1746 | 2811 | 62.1 | /mnt/stockage/packages/f36/variety/po/es.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 1702 | 2811 | 60.5 | /mnt/stockage/packages/f36/variety/po/pl.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 996 | 2811 | 35.4 | /mnt/stockage/packages/f36/variety/po/zh_CN.po | 
+ | [ja](/f36/language/ja) | 2301 | 2811 | 81.9 | /mnt/stockage/packages/f36/variety/po/ja.po | 
+ | [fi](/f36/language/fi) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/fi.po | 
+ | [ru](/f36/language/ru) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/ru.po | 
+ | [tr](/f36/language/tr) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/tr.po | 
+ | [uk](/f36/language/uk) | 2013 | 2811 | 71.6 | /mnt/stockage/packages/f36/variety/po/uk.po | 
+ | [ca](/f36/language/ca) | 2003 | 2811 | 71.3 | /mnt/stockage/packages/f36/variety/po/ca.po | 
+ | [fr](/f36/language/fr) | 2003 | 2811 | 71.3 | /mnt/stockage/packages/f36/variety/po/fr.po | 
+ | [sr](/f36/language/sr) | 2003 | 2811 | 71.3 | /mnt/stockage/packages/f36/variety/po/sr.po | 
+ | [bg](/f36/language/bg) | 1876 | 2811 | 66.7 | /mnt/stockage/packages/f36/variety/po/bg.po | 
+ | [ko](/f36/language/ko) | 1866 | 2811 | 66.4 | /mnt/stockage/packages/f36/variety/po/ko.po | 
+ | [de](/f36/language/de) | 1828 | 2811 | 65.0 | /mnt/stockage/packages/f36/variety/po/de.po | 
+ | [es](/f36/language/es) | 1746 | 2811 | 62.1 | /mnt/stockage/packages/f36/variety/po/es.po | 
+ | [pl](/f36/language/pl) | 1702 | 2811 | 60.5 | /mnt/stockage/packages/f36/variety/po/pl.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 996 | 2811 | 35.4 | /mnt/stockage/packages/f36/variety/po/zh_CN.po | 
 {.sortable}
 
 

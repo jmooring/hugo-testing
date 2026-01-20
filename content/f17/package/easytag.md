@@ -18,27 +18,27 @@ The package easytag (version 2.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 5297 | 5388 | 98.3 | /mnt/stockage/packages/f17/easytag/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 5297 | 5388 | 98.3 | /mnt/stockage/packages/f17/easytag/po/fr.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 5165 | 5388 | 95.9 | /mnt/stockage/packages/f17/easytag/po/pl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 5151 | 5388 | 95.6 | /mnt/stockage/packages/f17/easytag/po/pt_BR.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 5151 | 5388 | 95.6 | /mnt/stockage/packages/f17/easytag/po/sv.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 5144 | 5388 | 95.5 | /mnt/stockage/packages/f17/easytag/po/ja.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 5054 | 5388 | 93.8 | /mnt/stockage/packages/f17/easytag/po/hu.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 5054 | 5388 | 93.8 | /mnt/stockage/packages/f17/easytag/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 4908 | 5388 | 91.1 | /mnt/stockage/packages/f17/easytag/po/zh_TW.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 9810 | 10776 | 91.0 | /mnt/stockage/packages/f17/easytag/po/sr@Latn.po/mnt/stockage/packages/f17/easytag/po/sr.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 4597 | 5388 | 85.3 | /mnt/stockage/packages/f17/easytag/po/cs.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 4556 | 5388 | 84.6 | /mnt/stockage/packages/f17/easytag/po/it.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 4269 | 5388 | 79.2 | /mnt/stockage/packages/f17/easytag/po/da.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 4269 | 5388 | 79.2 | /mnt/stockage/packages/f17/easytag/po/es.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 4263 | 5388 | 79.1 | /mnt/stockage/packages/f17/easytag/po/el.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 4263 | 5388 | 79.1 | /mnt/stockage/packages/f17/easytag/po/ru.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 3514 | 5388 | 65.2 | /mnt/stockage/packages/f17/easytag/po/ro.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 3204 | 5388 | 59.5 | /mnt/stockage/packages/f17/easytag/po/bg.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 3144 | 5388 | 58.4 | /mnt/stockage/packages/f17/easytag/po/nl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 3078 | 5388 | 57.1 | /mnt/stockage/packages/f17/easytag/po/he.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1773 | 5388 | 32.9 | /mnt/stockage/packages/f17/easytag/po/uk.po | 
+ | [de](/f17/language/de) | 5297 | 5388 | 98.3 | /mnt/stockage/packages/f17/easytag/po/de.po | 
+ | [fr](/f17/language/fr) | 5297 | 5388 | 98.3 | /mnt/stockage/packages/f17/easytag/po/fr.po | 
+ | [pl](/f17/language/pl) | 5165 | 5388 | 95.9 | /mnt/stockage/packages/f17/easytag/po/pl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 5151 | 5388 | 95.6 | /mnt/stockage/packages/f17/easytag/po/pt_BR.po | 
+ | [sv](/f17/language/sv) | 5151 | 5388 | 95.6 | /mnt/stockage/packages/f17/easytag/po/sv.po | 
+ | [ja](/f17/language/ja) | 5144 | 5388 | 95.5 | /mnt/stockage/packages/f17/easytag/po/ja.po | 
+ | [hu](/f17/language/hu) | 5054 | 5388 | 93.8 | /mnt/stockage/packages/f17/easytag/po/hu.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 5054 | 5388 | 93.8 | /mnt/stockage/packages/f17/easytag/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 4908 | 5388 | 91.1 | /mnt/stockage/packages/f17/easytag/po/zh_TW.po | 
+ | [sr](/f17/language/sr) | 9810 | 10776 | 91.0 | /mnt/stockage/packages/f17/easytag/po/sr@Latn.po/mnt/stockage/packages/f17/easytag/po/sr.po | 
+ | [cs](/f17/language/cs) | 4597 | 5388 | 85.3 | /mnt/stockage/packages/f17/easytag/po/cs.po | 
+ | [it](/f17/language/it) | 4556 | 5388 | 84.6 | /mnt/stockage/packages/f17/easytag/po/it.po | 
+ | [da](/f17/language/da) | 4269 | 5388 | 79.2 | /mnt/stockage/packages/f17/easytag/po/da.po | 
+ | [es](/f17/language/es) | 4269 | 5388 | 79.2 | /mnt/stockage/packages/f17/easytag/po/es.po | 
+ | [el](/f17/language/el) | 4263 | 5388 | 79.1 | /mnt/stockage/packages/f17/easytag/po/el.po | 
+ | [ru](/f17/language/ru) | 4263 | 5388 | 79.1 | /mnt/stockage/packages/f17/easytag/po/ru.po | 
+ | [ro](/f17/language/ro) | 3514 | 5388 | 65.2 | /mnt/stockage/packages/f17/easytag/po/ro.po | 
+ | [bg](/f17/language/bg) | 3204 | 5388 | 59.5 | /mnt/stockage/packages/f17/easytag/po/bg.po | 
+ | [nl](/f17/language/nl) | 3144 | 5388 | 58.4 | /mnt/stockage/packages/f17/easytag/po/nl.po | 
+ | [he](/f17/language/he) | 3078 | 5388 | 57.1 | /mnt/stockage/packages/f17/easytag/po/he.po | 
+ | [uk](/f17/language/uk) | 1773 | 5388 | 32.9 | /mnt/stockage/packages/f17/easytag/po/uk.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package cppi (version 1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/de.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/eo.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/hr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/ja.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/sv.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/vi.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 581 | 596 | 97.5 | /mnt/stockage/packages/f32/cppi/po/it.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 581 | 596 | 97.5 | /mnt/stockage/packages/f32/cppi/po/pl.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 581 | 596 | 97.5 | /mnt/stockage/packages/f32/cppi/po/uk.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 280 | 596 | 47.0 | /mnt/stockage/packages/f32/cppi/po/gl.po | 
+ | [de](/f32/language/de) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/de.po | 
+ | [eo](/f32/language/eo) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/eo.po | 
+ | [fi](/f32/language/fi) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/fi.po | 
+ | [fr](/f32/language/fr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/fr.po | 
+ | [hr](/f32/language/hr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/hr.po | 
+ | [ja](/f32/language/ja) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/ja.po | 
+ | [sr](/f32/language/sr) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/sr.po | 
+ | [sv](/f32/language/sv) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/sv.po | 
+ | [vi](/f32/language/vi) | 596 | 596 | 100.0 | /mnt/stockage/packages/f32/cppi/po/vi.po | 
+ | [it](/f32/language/it) | 581 | 596 | 97.5 | /mnt/stockage/packages/f32/cppi/po/it.po | 
+ | [pl](/f32/language/pl) | 581 | 596 | 97.5 | /mnt/stockage/packages/f32/cppi/po/pl.po | 
+ | [uk](/f32/language/uk) | 581 | 596 | 97.5 | /mnt/stockage/packages/f32/cppi/po/uk.po | 
+ | [gl](/f32/language/gl) | 280 | 596 | 47.0 | /mnt/stockage/packages/f32/cppi/po/gl.po | 
 {.sortable}
 
 

@@ -18,59 +18,59 @@ The package xfburn (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ar.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ast.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/bg.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/de.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/en.po | 
- | [en_AU]({{< ref "/f22/language/en_AU.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/en_AU.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/es.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/eu.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/fr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ja.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/kk.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/lt.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ms.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/nl.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/oc.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/sk.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/sv.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/tr.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/zh_TW.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 1374 | 1375 | 99.9 | /mnt/stockage/packages/f22/xfburn/po/hr.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 1288 | 1329 | 96.9 | /mnt/stockage/packages/f22/xfburn/po/ca.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 1288 | 1329 | 96.9 | /mnt/stockage/packages/f22/xfburn/po/en_GB.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 1288 | 1329 | 96.9 | /mnt/stockage/packages/f22/xfburn/po/gl.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 1286 | 1375 | 93.5 | /mnt/stockage/packages/f22/xfburn/po/el.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 1240 | 1329 | 93.3 | /mnt/stockage/packages/f22/xfburn/po/nn.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 629 | 1329 | 47.3 | /mnt/stockage/packages/f22/xfburn/po/si.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 506 | 1329 | 38.1 | /mnt/stockage/packages/f22/xfburn/po/et.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 484 | 1375 | 35.2 | /mnt/stockage/packages/f22/xfburn/po/te.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 395 | 1329 | 29.7 | /mnt/stockage/packages/f22/xfburn/po/he.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 355 | 1329 | 26.7 | /mnt/stockage/packages/f22/xfburn/po/vi.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 291 | 1323 | 22.0 | /mnt/stockage/packages/f22/xfburn/po/ur.po | 
- | [ur_PK]({{< ref "/f22/language/ur_PK.md" >}}) | 291 | 1329 | 21.9 | /mnt/stockage/packages/f22/xfburn/po/ur_PK.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 280 | 1329 | 21.1 | /mnt/stockage/packages/f22/xfburn/po/sq.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 221 | 1329 | 16.6 | /mnt/stockage/packages/f22/xfburn/po/pa.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 5 | 1323 | 0.4 | /mnt/stockage/packages/f22/xfburn/po/is.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 5 | 1329 | 0.4 | /mnt/stockage/packages/f22/xfburn/po/lv.po | 
+ | [ar](/f22/language/ar) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ar.po | 
+ | [ast](/f22/language/ast) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ast.po | 
+ | [bg](/f22/language/bg) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/bg.po | 
+ | [cs](/f22/language/cs) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/cs.po | 
+ | [da](/f22/language/da) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/da.po | 
+ | [de](/f22/language/de) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/de.po | 
+ | [en](/f22/language/en) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/en.po | 
+ | [en_AU](/f22/language/en_AU) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/en_AU.po | 
+ | [es](/f22/language/es) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/es.po | 
+ | [eu](/f22/language/eu) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/eu.po | 
+ | [fi](/f22/language/fi) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/fi.po | 
+ | [fr](/f22/language/fr) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/fr.po | 
+ | [hu](/f22/language/hu) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/hu.po | 
+ | [id](/f22/language/id) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/id.po | 
+ | [it](/f22/language/it) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/it.po | 
+ | [ja](/f22/language/ja) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ja.po | 
+ | [kk](/f22/language/kk) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/kk.po | 
+ | [ko](/f22/language/ko) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ko.po | 
+ | [lt](/f22/language/lt) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/lt.po | 
+ | [ms](/f22/language/ms) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ms.po | 
+ | [nb_NO](/f22/language/nb_NO) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/nb.po | 
+ | [nl](/f22/language/nl) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/nl.po | 
+ | [oc](/f22/language/oc) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/oc.po | 
+ | [pl](/f22/language/pl) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/pl.po | 
+ | [pt](/f22/language/pt) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ru.po | 
+ | [sk](/f22/language/sk) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/sk.po | 
+ | [sr](/f22/language/sr) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/sr.po | 
+ | [sv](/f22/language/sv) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/sv.po | 
+ | [th](/f22/language/th) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/th.po | 
+ | [tr](/f22/language/tr) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/tr.po | 
+ | [ug](/f22/language/ug) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/ug.po | 
+ | [uk](/f22/language/uk) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 1375 | 1375 | 100.0 | /mnt/stockage/packages/f22/xfburn/po/zh_TW.po | 
+ | [hr](/f22/language/hr) | 1374 | 1375 | 99.9 | /mnt/stockage/packages/f22/xfburn/po/hr.po | 
+ | [ca](/f22/language/ca) | 1288 | 1329 | 96.9 | /mnt/stockage/packages/f22/xfburn/po/ca.po | 
+ | [en_GB](/f22/language/en_GB) | 1288 | 1329 | 96.9 | /mnt/stockage/packages/f22/xfburn/po/en_GB.po | 
+ | [gl](/f22/language/gl) | 1288 | 1329 | 96.9 | /mnt/stockage/packages/f22/xfburn/po/gl.po | 
+ | [el](/f22/language/el) | 1286 | 1375 | 93.5 | /mnt/stockage/packages/f22/xfburn/po/el.po | 
+ | [nn](/f22/language/nn) | 1240 | 1329 | 93.3 | /mnt/stockage/packages/f22/xfburn/po/nn.po | 
+ | [si](/f22/language/si) | 629 | 1329 | 47.3 | /mnt/stockage/packages/f22/xfburn/po/si.po | 
+ | [et](/f22/language/et) | 506 | 1329 | 38.1 | /mnt/stockage/packages/f22/xfburn/po/et.po | 
+ | [te](/f22/language/te) | 484 | 1375 | 35.2 | /mnt/stockage/packages/f22/xfburn/po/te.po | 
+ | [he](/f22/language/he) | 395 | 1329 | 29.7 | /mnt/stockage/packages/f22/xfburn/po/he.po | 
+ | [vi](/f22/language/vi) | 355 | 1329 | 26.7 | /mnt/stockage/packages/f22/xfburn/po/vi.po | 
+ | [ur](/f22/language/ur) | 291 | 1323 | 22.0 | /mnt/stockage/packages/f22/xfburn/po/ur.po | 
+ | [ur_PK](/f22/language/ur_PK) | 291 | 1329 | 21.9 | /mnt/stockage/packages/f22/xfburn/po/ur_PK.po | 
+ | [sq](/f22/language/sq) | 280 | 1329 | 21.1 | /mnt/stockage/packages/f22/xfburn/po/sq.po | 
+ | [pa](/f22/language/pa) | 221 | 1329 | 16.6 | /mnt/stockage/packages/f22/xfburn/po/pa.po | 
+ | [is](/f22/language/is) | 5 | 1323 | 0.4 | /mnt/stockage/packages/f22/xfburn/po/is.po | 
+ | [lv](/f22/language/lv) | 5 | 1329 | 0.4 | /mnt/stockage/packages/f22/xfburn/po/lv.po | 
 {.sortable}
 
 

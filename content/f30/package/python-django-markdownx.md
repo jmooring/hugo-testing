@@ -18,12 +18,12 @@ The package python-django-markdownx (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/de/LC_MESSAGES/django.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/du/LC_MESSAGES/django.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/fa/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/fr/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/pl/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/en/LC_MESSAGES/django.po | 
+ | [de](/f30/language/de) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/de/LC_MESSAGES/django.po | 
+ | [error](/f30/language/error) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/du/LC_MESSAGES/django.po | 
+ | [fa](/f30/language/fa) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/fa/LC_MESSAGES/django.po | 
+ | [fr](/f30/language/fr) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/fr/LC_MESSAGES/django.po | 
+ | [pl](/f30/language/pl) | 16 | 26 | 61.5 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/pl/LC_MESSAGES/django.po | 
+ | [en](/f30/language/en) | 0 | 26 | 0.0 | /mnt/stockage/packages/f30/python-django-markdownx/markdownx/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

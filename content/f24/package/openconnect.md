@@ -18,39 +18,39 @@ The package openconnect (version 7.08):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 5183 | 5219 | 99.3 | /mnt/stockage/packages/f24/openconnect/po/cs.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 5183 | 5219 | 99.3 | /mnt/stockage/packages/f24/openconnect/po/hu.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 5183 | 5219 | 99.3 | /mnt/stockage/packages/f24/openconnect/po/pl.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 5152 | 5219 | 98.7 | /mnt/stockage/packages/f24/openconnect/po/de.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 5010 | 5219 | 96.0 | /mnt/stockage/packages/f24/openconnect/po/lt.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 5010 | 5219 | 96.0 | /mnt/stockage/packages/f24/openconnect/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 5010 | 5219 | 96.0 | /mnt/stockage/packages/f24/openconnect/po/sr@latin.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 4927 | 5219 | 94.4 | /mnt/stockage/packages/f24/openconnect/po/ca.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 4890 | 5219 | 93.7 | /mnt/stockage/packages/f24/openconnect/po/es.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 4890 | 5219 | 93.7 | /mnt/stockage/packages/f24/openconnect/po/id.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 4890 | 5219 | 93.7 | /mnt/stockage/packages/f24/openconnect/po/pt_BR.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 4886 | 5219 | 93.6 | /mnt/stockage/packages/f24/openconnect/po/sv.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 4770 | 5219 | 91.4 | /mnt/stockage/packages/f24/openconnect/po/pt.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 4607 | 5219 | 88.3 | /mnt/stockage/packages/f24/openconnect/po/bs.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 3842 | 5219 | 73.6 | /mnt/stockage/packages/f24/openconnect/po/tr.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 2812 | 5219 | 53.9 | /mnt/stockage/packages/f24/openconnect/po/eu.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 2745 | 5219 | 52.6 | /mnt/stockage/packages/f24/openconnect/po/el.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 2583 | 5219 | 49.5 | /mnt/stockage/packages/f24/openconnect/po/sl.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 2396 | 5219 | 45.9 | /mnt/stockage/packages/f24/openconnect/po/nl.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 2378 | 5219 | 45.6 | /mnt/stockage/packages/f24/openconnect/po/en_GB.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 2276 | 5219 | 43.6 | /mnt/stockage/packages/f24/openconnect/po/ug.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 1520 | 5219 | 29.1 | /mnt/stockage/packages/f24/openconnect/po/en_US.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 533 | 5219 | 10.2 | /mnt/stockage/packages/f24/openconnect/po/gl.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 319 | 5219 | 6.1 | /mnt/stockage/packages/f24/openconnect/po/zh_CN.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 282 | 5219 | 5.4 | /mnt/stockage/packages/f24/openconnect/po/pa.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 233 | 5219 | 4.5 | /mnt/stockage/packages/f24/openconnect/po/uk.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 228 | 5219 | 4.4 | /mnt/stockage/packages/f24/openconnect/po/fi.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 171 | 5219 | 3.3 | /mnt/stockage/packages/f24/openconnect/po/it.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 74 | 5219 | 1.4 | /mnt/stockage/packages/f24/openconnect/po/fr.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 48 | 5219 | 0.9 | /mnt/stockage/packages/f24/openconnect/po/ar.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 32 | 5219 | 0.6 | /mnt/stockage/packages/f24/openconnect/po/zh_TW.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 19 | 5219 | 0.4 | /mnt/stockage/packages/f24/openconnect/po/sk.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 10 | 5219 | 0.2 | /mnt/stockage/packages/f24/openconnect/po/tg.po | 
+ | [cs](/f24/language/cs) | 5183 | 5219 | 99.3 | /mnt/stockage/packages/f24/openconnect/po/cs.po | 
+ | [hu](/f24/language/hu) | 5183 | 5219 | 99.3 | /mnt/stockage/packages/f24/openconnect/po/hu.po | 
+ | [pl](/f24/language/pl) | 5183 | 5219 | 99.3 | /mnt/stockage/packages/f24/openconnect/po/pl.po | 
+ | [de](/f24/language/de) | 5152 | 5219 | 98.7 | /mnt/stockage/packages/f24/openconnect/po/de.po | 
+ | [lt](/f24/language/lt) | 5010 | 5219 | 96.0 | /mnt/stockage/packages/f24/openconnect/po/lt.po | 
+ | [sr](/f24/language/sr) | 5010 | 5219 | 96.0 | /mnt/stockage/packages/f24/openconnect/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 5010 | 5219 | 96.0 | /mnt/stockage/packages/f24/openconnect/po/sr@latin.po | 
+ | [ca](/f24/language/ca) | 4927 | 5219 | 94.4 | /mnt/stockage/packages/f24/openconnect/po/ca.po | 
+ | [es](/f24/language/es) | 4890 | 5219 | 93.7 | /mnt/stockage/packages/f24/openconnect/po/es.po | 
+ | [id](/f24/language/id) | 4890 | 5219 | 93.7 | /mnt/stockage/packages/f24/openconnect/po/id.po | 
+ | [pt_BR](/f24/language/pt_BR) | 4890 | 5219 | 93.7 | /mnt/stockage/packages/f24/openconnect/po/pt_BR.po | 
+ | [sv](/f24/language/sv) | 4886 | 5219 | 93.6 | /mnt/stockage/packages/f24/openconnect/po/sv.po | 
+ | [pt](/f24/language/pt) | 4770 | 5219 | 91.4 | /mnt/stockage/packages/f24/openconnect/po/pt.po | 
+ | [bs](/f24/language/bs) | 4607 | 5219 | 88.3 | /mnt/stockage/packages/f24/openconnect/po/bs.po | 
+ | [tr](/f24/language/tr) | 3842 | 5219 | 73.6 | /mnt/stockage/packages/f24/openconnect/po/tr.po | 
+ | [eu](/f24/language/eu) | 2812 | 5219 | 53.9 | /mnt/stockage/packages/f24/openconnect/po/eu.po | 
+ | [el](/f24/language/el) | 2745 | 5219 | 52.6 | /mnt/stockage/packages/f24/openconnect/po/el.po | 
+ | [sl](/f24/language/sl) | 2583 | 5219 | 49.5 | /mnt/stockage/packages/f24/openconnect/po/sl.po | 
+ | [nl](/f24/language/nl) | 2396 | 5219 | 45.9 | /mnt/stockage/packages/f24/openconnect/po/nl.po | 
+ | [en_GB](/f24/language/en_GB) | 2378 | 5219 | 45.6 | /mnt/stockage/packages/f24/openconnect/po/en_GB.po | 
+ | [ug](/f24/language/ug) | 2276 | 5219 | 43.6 | /mnt/stockage/packages/f24/openconnect/po/ug.po | 
+ | [en_US](/f24/language/en_US) | 1520 | 5219 | 29.1 | /mnt/stockage/packages/f24/openconnect/po/en_US.po | 
+ | [gl](/f24/language/gl) | 533 | 5219 | 10.2 | /mnt/stockage/packages/f24/openconnect/po/gl.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 319 | 5219 | 6.1 | /mnt/stockage/packages/f24/openconnect/po/zh_CN.po | 
+ | [pa](/f24/language/pa) | 282 | 5219 | 5.4 | /mnt/stockage/packages/f24/openconnect/po/pa.po | 
+ | [uk](/f24/language/uk) | 233 | 5219 | 4.5 | /mnt/stockage/packages/f24/openconnect/po/uk.po | 
+ | [fi](/f24/language/fi) | 228 | 5219 | 4.4 | /mnt/stockage/packages/f24/openconnect/po/fi.po | 
+ | [it](/f24/language/it) | 171 | 5219 | 3.3 | /mnt/stockage/packages/f24/openconnect/po/it.po | 
+ | [fr](/f24/language/fr) | 74 | 5219 | 1.4 | /mnt/stockage/packages/f24/openconnect/po/fr.po | 
+ | [ar](/f24/language/ar) | 48 | 5219 | 0.9 | /mnt/stockage/packages/f24/openconnect/po/ar.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 32 | 5219 | 0.6 | /mnt/stockage/packages/f24/openconnect/po/zh_TW.po | 
+ | [sk](/f24/language/sk) | 19 | 5219 | 0.4 | /mnt/stockage/packages/f24/openconnect/po/sk.po | 
+ | [tg](/f24/language/tg) | 10 | 5219 | 0.2 | /mnt/stockage/packages/f24/openconnect/po/tg.po | 
 {.sortable}
 
 

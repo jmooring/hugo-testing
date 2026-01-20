@@ -18,17 +18,17 @@ The package alexandria (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/cy.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 710 | 710 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/ja.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 733 | 733 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/sv.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 729 | 734 | 99.3 | /mnt/stockage/packages/f8/alexandria/po/cs.po | 
+ | [cy](/f8/language/cy) | 669 | 669 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/cy.po | 
+ | [de](/f8/language/de) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/de.po | 
+ | [es](/f8/language/es) | 710 | 710 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/es.po | 
+ | [fr](/f8/language/fr) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/fr.po | 
+ | [it](/f8/language/it) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/it.po | 
+ | [ja](/f8/language/ja) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/ja.po | 
+ | [pl](/f8/language/pl) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/pl.po | 
+ | [pt](/f8/language/pt) | 734 | 734 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 669 | 669 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 733 | 733 | 100.0 | /mnt/stockage/packages/f8/alexandria/po/sv.po | 
+ | [cs](/f8/language/cs) | 729 | 734 | 99.3 | /mnt/stockage/packages/f8/alexandria/po/cs.po | 
 {.sortable}
 
 

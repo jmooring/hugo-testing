@@ -18,28 +18,28 @@ The package me-tv (version 1.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/pl.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/sk.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1930 | 1937 | 99.6 | /mnt/stockage/packages/f14/me-tv/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 1906 | 1937 | 98.4 | /mnt/stockage/packages/f14/me-tv/po/gl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1886 | 1937 | 97.4 | /mnt/stockage/packages/f14/me-tv/po/pt.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1423 | 1937 | 73.5 | /mnt/stockage/packages/f14/me-tv/po/uk.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1352 | 1937 | 69.8 | /mnt/stockage/packages/f14/me-tv/po/nl.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 798 | 1937 | 41.2 | /mnt/stockage/packages/f14/me-tv/po/ru.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 536 | 1937 | 27.7 | /mnt/stockage/packages/f14/me-tv/po/lt.po | 
- | [fo]({{< ref "/f14/language/fo.md" >}}) | 527 | 1937 | 27.2 | /mnt/stockage/packages/f14/me-tv/po/fo.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 463 | 1937 | 23.9 | /mnt/stockage/packages/f14/me-tv/po/fi.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 451 | 1937 | 23.3 | /mnt/stockage/packages/f14/me-tv/po/sv.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 439 | 1937 | 22.7 | /mnt/stockage/packages/f14/me-tv/po/ar.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 200 | 1937 | 10.3 | /mnt/stockage/packages/f14/me-tv/po/tr.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 195 | 1937 | 10.1 | /mnt/stockage/packages/f14/me-tv/po/ro.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 179 | 1937 | 9.2 | /mnt/stockage/packages/f14/me-tv/po/sl.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 139 | 1937 | 7.2 | /mnt/stockage/packages/f14/me-tv/po/fa.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 26 | 1937 | 1.3 | /mnt/stockage/packages/f14/me-tv/po/ms.po | 
+ | [cs](/f14/language/cs) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/cs.po | 
+ | [de](/f14/language/de) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/de.po | 
+ | [es](/f14/language/es) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/es.po | 
+ | [it](/f14/language/it) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/it.po | 
+ | [pl](/f14/language/pl) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/pl.po | 
+ | [sk](/f14/language/sk) | 1937 | 1937 | 100.0 | /mnt/stockage/packages/f14/me-tv/po/sk.po | 
+ | [fr](/f14/language/fr) | 1930 | 1937 | 99.6 | /mnt/stockage/packages/f14/me-tv/po/fr.po | 
+ | [gl](/f14/language/gl) | 1906 | 1937 | 98.4 | /mnt/stockage/packages/f14/me-tv/po/gl.po | 
+ | [pt](/f14/language/pt) | 1886 | 1937 | 97.4 | /mnt/stockage/packages/f14/me-tv/po/pt.po | 
+ | [uk](/f14/language/uk) | 1423 | 1937 | 73.5 | /mnt/stockage/packages/f14/me-tv/po/uk.po | 
+ | [nl](/f14/language/nl) | 1352 | 1937 | 69.8 | /mnt/stockage/packages/f14/me-tv/po/nl.po | 
+ | [ru](/f14/language/ru) | 798 | 1937 | 41.2 | /mnt/stockage/packages/f14/me-tv/po/ru.po | 
+ | [lt](/f14/language/lt) | 536 | 1937 | 27.7 | /mnt/stockage/packages/f14/me-tv/po/lt.po | 
+ | [fo](/f14/language/fo) | 527 | 1937 | 27.2 | /mnt/stockage/packages/f14/me-tv/po/fo.po | 
+ | [fi](/f14/language/fi) | 463 | 1937 | 23.9 | /mnt/stockage/packages/f14/me-tv/po/fi.po | 
+ | [sv](/f14/language/sv) | 451 | 1937 | 23.3 | /mnt/stockage/packages/f14/me-tv/po/sv.po | 
+ | [ar](/f14/language/ar) | 439 | 1937 | 22.7 | /mnt/stockage/packages/f14/me-tv/po/ar.po | 
+ | [tr](/f14/language/tr) | 200 | 1937 | 10.3 | /mnt/stockage/packages/f14/me-tv/po/tr.po | 
+ | [ro](/f14/language/ro) | 195 | 1937 | 10.1 | /mnt/stockage/packages/f14/me-tv/po/ro.po | 
+ | [sl](/f14/language/sl) | 179 | 1937 | 9.2 | /mnt/stockage/packages/f14/me-tv/po/sl.po | 
+ | [fa](/f14/language/fa) | 139 | 1937 | 7.2 | /mnt/stockage/packages/f14/me-tv/po/fa.po | 
+ | [ms](/f14/language/ms) | 26 | 1937 | 1.3 | /mnt/stockage/packages/f14/me-tv/po/ms.po | 
 {.sortable}
 
 

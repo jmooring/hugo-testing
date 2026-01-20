@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f21/package/virtaal.md" >}}) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
- | [abrt]({{< ref "/f21/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora/language/ach/) | 
- | [certmonger]({{< ref "/f21/package/certmonger.md" >}}) | 0 | 1669 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
- | [initial-setup]({{< ref "/f21/package/initial-setup.md" >}}) | 0 | 85 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
- | [libvirt-glib]({{< ref "/f21/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/) | 
- | [mingw-libvirt-glib]({{< ref "/f21/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/) | 
- | [pykickstart]({{< ref "/f21/package/pykickstart.md" >}}) | 0 | 448 | 0.0 | Acoli (http://www.transifex.com/projects/p/pykickstart/language/ach/) | 
- | [python-meh]({{< ref "/f21/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
- | [system-config-kickstart]({{< ref "/f21/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/) | 
- | [virt-viewer]({{< ref "/f21/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Acoli (http://www.transifex.com/projects/p/virt-viewer/language/ach/) | 
+ | [virtaal](/f21/package/virtaal) | 1618 | 1653 | 97.9 | LANGUAGE <LL@li.org> | 
+ | [abrt](/f21/package/abrt) | 0 | 2722 | 0.0 | Acoli (http://www.transifex.com/projects/p/fedora/language/ach/) | 
+ | [certmonger](/f21/package/certmonger) | 0 | 1669 | 0.0 | Acoli (http://www.transifex.com/projects/p/certmonger/language/ach/) | 
+ | [initial-setup](/f21/package/initial-setup) | 0 | 85 | 0.0 | Acoli (http://www.transifex.com/projects/p/initial-setup/language/ach/) | 
+ | [libvirt-glib](/f21/package/libvirt-glib) | 0 | 138 | 0.0 | Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/) | 
+ | [mingw-libvirt-glib](/f21/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Acoli (http://www.transifex.com/projects/p/libvirt-glib/language/ach/) | 
+ | [pykickstart](/f21/package/pykickstart) | 0 | 448 | 0.0 | Acoli (http://www.transifex.com/projects/p/pykickstart/language/ach/) | 
+ | [python-meh](/f21/package/python-meh) | 0 | 109 | 0.0 | Acoli (http://www.transifex.com/projects/p/python-meh/language/ach/) | 
+ | [system-config-kickstart](/f21/package/system-config-kickstart) | 0 | 1144 | 0.0 | Acoli (http://www.transifex.com/projects/p/system-config-kickstart/language/ach/) | 
+ | [virt-viewer](/f21/package/virt-viewer) | 0 | 692 | 0.0 | Acoli (http://www.transifex.com/projects/p/virt-viewer/language/ach/) | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package PolicyKit-gnome (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/en_GB.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/fr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 954 | 954 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ja.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 954 | 954 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 859 | 859 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 954 | 954 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 849 | 849 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/sk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/zh_CN.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 692 | 849 | 81.5 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/cs.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 516 | 849 | 60.8 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ca.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 464 | 777 | 59.7 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/hu.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 557 | 954 | 58.4 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/de.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 477 | 954 | 50.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ar.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 346 | 786 | 44.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/sv.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 322 | 849 | 37.9 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/es.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 235 | 717 | 32.8 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/da.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 210 | 786 | 26.7 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/el.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 214 | 849 | 25.2 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/he.po | 
+ | [en_GB](/f11/language/en_GB) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/en_GB.po | 
+ | [fi](/f11/language/fi) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/fi.po | 
+ | [fr](/f11/language/fr) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/fr.po | 
+ | [ja](/f11/language/ja) | 954 | 954 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ja.po | 
+ | [pl](/f11/language/pl) | 954 | 954 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/pl.po | 
+ | [pt](/f11/language/pt) | 859 | 859 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 954 | 954 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 849 | 849 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ru.po | 
+ | [sk](/f11/language/sk) | 849 | 849 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/sk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 786 | 786 | 100.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/zh_CN.po | 
+ | [cs](/f11/language/cs) | 692 | 849 | 81.5 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/cs.po | 
+ | [ca](/f11/language/ca) | 516 | 849 | 60.8 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ca.po | 
+ | [hu](/f11/language/hu) | 464 | 777 | 59.7 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/hu.po | 
+ | [de](/f11/language/de) | 557 | 954 | 58.4 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/de.po | 
+ | [ar](/f11/language/ar) | 477 | 954 | 50.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/ar.po | 
+ | [sv](/f11/language/sv) | 346 | 786 | 44.0 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/sv.po | 
+ | [es](/f11/language/es) | 322 | 849 | 37.9 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/es.po | 
+ | [da](/f11/language/da) | 235 | 717 | 32.8 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/da.po | 
+ | [el](/f11/language/el) | 210 | 786 | 26.7 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/el.po | 
+ | [he](/f11/language/he) | 214 | 849 | 25.2 | /mnt/stockage/packages/f11/PolicyKit-gnome/po/he.po | 
 {.sortable}
 
 

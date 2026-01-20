@@ -41,8 +41,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Democracy]({{< ref "/f7/package/Democracy.md" >}}) | 806 | 3102 | 26.0 |  | 
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | 262 | 3616 | 7.2 |  | 
+ | [Democracy](/f7/package/Democracy) | 806 | 3102 | 26.0 |  | 
+ | [Miro](/f7/package/Miro) | 262 | 3616 | 7.2 |  | 
 {.sortable}
 
 
@@ -54,8 +54,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [Democracy]({{< ref "/f7/package/Democracy.md" >}}) | /mnt/stockage/packages/f7/Democracy/resources/locale/fil.po | error-os |  | 
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | /mnt/stockage/packages/f7/Miro/resources/locale/fil.po | error-os |  | 
+ | [Democracy](/f7/package/Democracy) | /mnt/stockage/packages/f7/Democracy/resources/locale/fil.po | error-os |  | 
+ | [Miro](/f7/package/Miro) | /mnt/stockage/packages/f7/Miro/resources/locale/fil.po | error-os |  | 
 {.sortable}
 
 

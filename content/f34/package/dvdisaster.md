@@ -18,12 +18,12 @@ The package dvdisaster (version 0.79.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 10303 | 10303 | 100.0 | /mnt/stockage/packages/f34/dvdisaster/locale/de.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 8805 | 10303 | 85.5 | /mnt/stockage/packages/f34/dvdisaster/locale/cs.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 7283 | 10303 | 70.7 | /mnt/stockage/packages/f34/dvdisaster/locale/ru.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 7193 | 10303 | 69.8 | /mnt/stockage/packages/f34/dvdisaster/locale/pt_BR.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 3104 | 10303 | 30.1 | /mnt/stockage/packages/f34/dvdisaster/locale/sv.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 2715 | 10303 | 26.4 | /mnt/stockage/packages/f34/dvdisaster/locale/it.po | 
+ | [de](/f34/language/de) | 10303 | 10303 | 100.0 | /mnt/stockage/packages/f34/dvdisaster/locale/de.po | 
+ | [cs](/f34/language/cs) | 8805 | 10303 | 85.5 | /mnt/stockage/packages/f34/dvdisaster/locale/cs.po | 
+ | [ru](/f34/language/ru) | 7283 | 10303 | 70.7 | /mnt/stockage/packages/f34/dvdisaster/locale/ru.po | 
+ | [pt_BR](/f34/language/pt_BR) | 7193 | 10303 | 69.8 | /mnt/stockage/packages/f34/dvdisaster/locale/pt_BR.po | 
+ | [sv](/f34/language/sv) | 3104 | 10303 | 30.1 | /mnt/stockage/packages/f34/dvdisaster/locale/sv.po | 
+ | [it](/f34/language/it) | 2715 | 10303 | 26.4 | /mnt/stockage/packages/f34/dvdisaster/locale/it.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package debhelper (version 13.11.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 25343 | 25359 | 99.9 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/pt.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 25186 | 25359 | 99.3 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/de.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 23168 | 25359 | 91.4 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 11461 | 25359 | 45.2 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/ja.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 10302 | 25359 | 40.6 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/es.po | 
+ | [pt](/f39/language/pt) | 25343 | 25359 | 99.9 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/pt.po | 
+ | [de](/f39/language/de) | 25186 | 25359 | 99.3 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/de.po | 
+ | [fr](/f39/language/fr) | 23168 | 25359 | 91.4 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/fr.po | 
+ | [ja](/f39/language/ja) | 11461 | 25359 | 45.2 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/ja.po | 
+ | [es](/f39/language/es) | 10302 | 25359 | 40.6 | /mnt/stockage/packages/f39/debhelper/man/po4a/po/es.po | 
 {.sortable}
 
 

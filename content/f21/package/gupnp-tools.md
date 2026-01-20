@@ -18,16 +18,16 @@ The package gupnp-tools (version 0.8.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 265 | 265 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/es.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/ja.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/pl.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/pt_BR.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/sl.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 544 | 544 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/sr.po/mnt/stockage/packages/f21/gupnp-tools/po/sr@latin.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 244 | 272 | 89.7 | /mnt/stockage/packages/f21/gupnp-tools/po/zh_CN.po | 
+ | [cs](/f21/language/cs) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/cs.po | 
+ | [de](/f21/language/de) | 251 | 251 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/de.po | 
+ | [el](/f21/language/el) | 265 | 265 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/el.po | 
+ | [es](/f21/language/es) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/es.po | 
+ | [ja](/f21/language/ja) | 250 | 250 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/ja.po | 
+ | [pl](/f21/language/pl) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/pl.po | 
+ | [pt_BR](/f21/language/pt_BR) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/pt_BR.po | 
+ | [sl](/f21/language/sl) | 272 | 272 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/sl.po | 
+ | [sr](/f21/language/sr) | 544 | 544 | 100.0 | /mnt/stockage/packages/f21/gupnp-tools/po/sr.po/mnt/stockage/packages/f21/gupnp-tools/po/sr@latin.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 244 | 272 | 89.7 | /mnt/stockage/packages/f21/gupnp-tools/po/zh_CN.po | 
 {.sortable}
 
 

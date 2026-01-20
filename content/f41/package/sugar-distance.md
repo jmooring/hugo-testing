@@ -18,74 +18,74 @@ The package sugar-distance (version 36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ach]({{< ref "/f41/language/ach.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ach.po | 
- | [ayc]({{< ref "/f41/language/ayc.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ayc.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/el.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/en.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/en_GB.po | 
- | [en_US]({{< ref "/f41/language/en_US.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/en_US.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/es.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/fr.po | 
- | [gug]({{< ref "/f41/language/gug.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/gug.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/hi.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/hy.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/id.po | 
- | [mi]({{< ref "/f41/language/mi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/mi.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/sk.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/sq.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/sv.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/zh_TW.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 97 | 99 | 98.0 | /mnt/stockage/packages/f41/sugar-distance/po/it.po | 
- | [hus]({{< ref "/f41/language/hus.md" >}}) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/hus.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/mr.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/sr.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/ta.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 165 | 175 | 94.3 | /mnt/stockage/packages/f41/sugar-distance/po/pseudo.po/mnt/stockage/packages/f41/sugar-distance/po/pbs.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 91 | 99 | 91.9 | /mnt/stockage/packages/f41/sugar-distance/po/fa.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 85 | 99 | 85.9 | /mnt/stockage/packages/f41/sugar-distance/po/rw.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 81 | 99 | 81.8 | /mnt/stockage/packages/f41/sugar-distance/po/vi.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 79 | 99 | 79.8 | /mnt/stockage/packages/f41/sugar-distance/po/bn.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 79 | 99 | 79.8 | /mnt/stockage/packages/f41/sugar-distance/po/ja.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f41/sugar-distance/po/km.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 75 | 99 | 75.8 | /mnt/stockage/packages/f41/sugar-distance/po/ms.po | 
- | [pap]({{< ref "/f41/language/pap.md" >}}) | 75 | 99 | 75.8 | /mnt/stockage/packages/f41/sugar-distance/po/pap.po | 
- | [sw]({{< ref "/f41/language/sw.md" >}}) | 75 | 99 | 75.8 | /mnt/stockage/packages/f41/sugar-distance/po/sw.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/ar.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/bg.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/mn.po | 
- | [prs]({{< ref "/f41/language/prs.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/fa_AF.po | 
- | [ps]({{< ref "/f41/language/ps.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/ps.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/si.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/sl.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/te.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/tr.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/ur.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 71 | 99 | 71.7 | /mnt/stockage/packages/f41/sugar-distance/po/mk.po | 
- | [to]({{< ref "/f41/language/to.md" >}}) | 70 | 99 | 70.7 | /mnt/stockage/packages/f41/sugar-distance/po/to.po | 
- | [ht]({{< ref "/f41/language/ht.md" >}}) | 59 | 99 | 59.6 | /mnt/stockage/packages/f41/sugar-distance/po/ht.po | 
- | [nah]({{< ref "/f41/language/nah.md" >}}) | 57 | 99 | 57.6 | /mnt/stockage/packages/f41/sugar-distance/po/nah.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 54 | 99 | 54.5 | /mnt/stockage/packages/f41/sugar-distance/po/bn_IN.po | 
- | [mg]({{< ref "/f41/language/mg.md" >}}) | 17 | 99 | 17.2 | /mnt/stockage/packages/f41/sugar-distance/po/mg.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 9 | 99 | 9.1 | /mnt/stockage/packages/f41/sugar-distance/po/hu.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 3 | 99 | 3.0 | /mnt/stockage/packages/f41/sugar-distance/po/bs.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 1 | 99 | 1.0 | /mnt/stockage/packages/f41/sugar-distance/po/am.po | 
- | [ay]({{< ref "/f41/language/ay.md" >}}) | 1 | 99 | 1.0 | /mnt/stockage/packages/f41/sugar-distance/po/aym.po | 
- | [sm]({{< ref "/f41/language/sm.md" >}}) | 1 | 99 | 1.0 | /mnt/stockage/packages/f41/sugar-distance/po/sm.po | 
- | [qu]({{< ref "/f41/language/qu.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f41/sugar-distance/po/quz.po | 
- | [son]({{< ref "/f41/language/son.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f41/sugar-distance/po/son.po | 
+ | [ach](/f41/language/ach) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ach.po | 
+ | [ayc](/f41/language/ayc) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ayc.po | 
+ | [ca](/f41/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ca.po | 
+ | [cs](/f41/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/cs.po | 
+ | [da](/f41/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/da.po | 
+ | [de](/f41/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/de.po | 
+ | [el](/f41/language/el) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/el.po | 
+ | [en](/f41/language/en) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/en.po | 
+ | [en_GB](/f41/language/en_GB) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/en_GB.po | 
+ | [en_US](/f41/language/en_US) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/en_US.po | 
+ | [es](/f41/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/es.po | 
+ | [fr](/f41/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/fr.po | 
+ | [gug](/f41/language/gug) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/gug.po | 
+ | [he](/f41/language/he) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/he.po | 
+ | [hi](/f41/language/hi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/hi.po | 
+ | [hy](/f41/language/hy) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/hy.po | 
+ | [id](/f41/language/id) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/id.po | 
+ | [mi](/f41/language/mi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/mi.po | 
+ | [ne](/f41/language/ne) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ne.po | 
+ | [nl](/f41/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/nl.po | 
+ | [pl](/f41/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/pl.po | 
+ | [pt](/f41/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/ru.po | 
+ | [sk](/f41/language/sk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/sk.po | 
+ | [sq](/f41/language/sq) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/sq.po | 
+ | [sv](/f41/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/sv.po | 
+ | [uk](/f41/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f41/sugar-distance/po/zh_TW.po | 
+ | [it](/f41/language/it) | 97 | 99 | 98.0 | /mnt/stockage/packages/f41/sugar-distance/po/it.po | 
+ | [hus](/f41/language/hus) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/hus.po | 
+ | [mr](/f41/language/mr) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/mr.po | 
+ | [sr](/f41/language/sr) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/sr.po | 
+ | [ta](/f41/language/ta) | 95 | 99 | 96.0 | /mnt/stockage/packages/f41/sugar-distance/po/ta.po | 
+ | [error](/f41/language/error) | 165 | 175 | 94.3 | /mnt/stockage/packages/f41/sugar-distance/po/pseudo.po/mnt/stockage/packages/f41/sugar-distance/po/pbs.po | 
+ | [fa](/f41/language/fa) | 91 | 99 | 91.9 | /mnt/stockage/packages/f41/sugar-distance/po/fa.po | 
+ | [rw](/f41/language/rw) | 85 | 99 | 85.9 | /mnt/stockage/packages/f41/sugar-distance/po/rw.po | 
+ | [vi](/f41/language/vi) | 81 | 99 | 81.8 | /mnt/stockage/packages/f41/sugar-distance/po/vi.po | 
+ | [bn](/f41/language/bn) | 79 | 99 | 79.8 | /mnt/stockage/packages/f41/sugar-distance/po/bn.po | 
+ | [ja](/f41/language/ja) | 79 | 99 | 79.8 | /mnt/stockage/packages/f41/sugar-distance/po/ja.po | 
+ | [km](/f41/language/km) | 76 | 99 | 76.8 | /mnt/stockage/packages/f41/sugar-distance/po/km.po | 
+ | [ms](/f41/language/ms) | 75 | 99 | 75.8 | /mnt/stockage/packages/f41/sugar-distance/po/ms.po | 
+ | [pap](/f41/language/pap) | 75 | 99 | 75.8 | /mnt/stockage/packages/f41/sugar-distance/po/pap.po | 
+ | [sw](/f41/language/sw) | 75 | 99 | 75.8 | /mnt/stockage/packages/f41/sugar-distance/po/sw.po | 
+ | [ar](/f41/language/ar) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/ar.po | 
+ | [bg](/f41/language/bg) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/bg.po | 
+ | [mn](/f41/language/mn) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/mn.po | 
+ | [prs](/f41/language/prs) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/fa_AF.po | 
+ | [ps](/f41/language/ps) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/ps.po | 
+ | [si](/f41/language/si) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/si.po | 
+ | [sl](/f41/language/sl) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/sl.po | 
+ | [te](/f41/language/te) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/te.po | 
+ | [tr](/f41/language/tr) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/tr.po | 
+ | [ur](/f41/language/ur) | 72 | 99 | 72.7 | /mnt/stockage/packages/f41/sugar-distance/po/ur.po | 
+ | [mk](/f41/language/mk) | 71 | 99 | 71.7 | /mnt/stockage/packages/f41/sugar-distance/po/mk.po | 
+ | [to](/f41/language/to) | 70 | 99 | 70.7 | /mnt/stockage/packages/f41/sugar-distance/po/to.po | 
+ | [ht](/f41/language/ht) | 59 | 99 | 59.6 | /mnt/stockage/packages/f41/sugar-distance/po/ht.po | 
+ | [nah](/f41/language/nah) | 57 | 99 | 57.6 | /mnt/stockage/packages/f41/sugar-distance/po/nah.po | 
+ | [bn_IN](/f41/language/bn_IN) | 54 | 99 | 54.5 | /mnt/stockage/packages/f41/sugar-distance/po/bn_IN.po | 
+ | [mg](/f41/language/mg) | 17 | 99 | 17.2 | /mnt/stockage/packages/f41/sugar-distance/po/mg.po | 
+ | [hu](/f41/language/hu) | 9 | 99 | 9.1 | /mnt/stockage/packages/f41/sugar-distance/po/hu.po | 
+ | [bs](/f41/language/bs) | 3 | 99 | 3.0 | /mnt/stockage/packages/f41/sugar-distance/po/bs.po | 
+ | [am](/f41/language/am) | 1 | 99 | 1.0 | /mnt/stockage/packages/f41/sugar-distance/po/am.po | 
+ | [ay](/f41/language/ay) | 1 | 99 | 1.0 | /mnt/stockage/packages/f41/sugar-distance/po/aym.po | 
+ | [sm](/f41/language/sm) | 1 | 99 | 1.0 | /mnt/stockage/packages/f41/sugar-distance/po/sm.po | 
+ | [qu](/f41/language/qu) | 0 | 99 | 0.0 | /mnt/stockage/packages/f41/sugar-distance/po/quz.po | 
+ | [son](/f41/language/son) | 0 | 99 | 0.0 | /mnt/stockage/packages/f41/sugar-distance/po/son.po | 
 {.sortable}
 
 

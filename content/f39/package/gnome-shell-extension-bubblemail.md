@@ -18,26 +18,26 @@ The package gnome-shell-extension-bubblemail (version 23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f39/language/el.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/el.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1188 | 1197 | 99.2 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/zh_TW.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/zh_CN.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ru.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/pt_BR.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/pt.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/it.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/fr.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/es.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/de.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ar.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/be.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/da.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/et.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/gl.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/hu.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ja.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/lt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/nl_NL.po | 
- | [nl_BE]({{< ref "/f39/language/nl_BE.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/nl_BE.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/pl.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/sk.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/sr.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/sr@latin.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/uk.po | 
+ | [el](/f39/language/el) | 133 | 133 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/el.po | 
+ | [fr](/f39/language/fr) | 1188 | 1197 | 99.2 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/zh_TW.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/zh_CN.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ru.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/pt_BR.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/pt.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/it.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/fr.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/es.po/mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/de.po | 
+ | [ar](/f39/language/ar) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ar.po | 
+ | [be](/f39/language/be) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/be.po | 
+ | [ca](/f39/language/ca) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ca.po | 
+ | [cs](/f39/language/cs) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/cs.po | 
+ | [da](/f39/language/da) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/da.po | 
+ | [et](/f39/language/et) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/et.po | 
+ | [gl](/f39/language/gl) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/gl.po | 
+ | [hu](/f39/language/hu) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/hu.po | 
+ | [ja](/f39/language/ja) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/ja.po | 
+ | [lt](/f39/language/lt) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/lt.po | 
+ | [nl](/f39/language/nl) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/nl_NL.po | 
+ | [nl_BE](/f39/language/nl_BE) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/nl_BE.po | 
+ | [pl](/f39/language/pl) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/pl.po | 
+ | [sk](/f39/language/sk) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/sk.po | 
+ | [sr](/f39/language/sr) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/sr.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/sr@latin.po | 
+ | [tr](/f39/language/tr) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/tr.po | 
+ | [uk](/f39/language/uk) | 0 | 133 | 0.0 | /mnt/stockage/packages/f39/gnome-shell-extension-bubblemail/po/uk.po | 
 {.sortable}
 
 

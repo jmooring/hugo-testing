@@ -18,13 +18,13 @@ The package dopewars (version 1.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 10494 | 10494 | 100.0 | /mnt/stockage/packages/f11/dopewars/po/es.po/mnt/stockage/packages/f11/dopewars/po/es_ES.po | 
- | [fr_CA]({{< ref "/f11/language/fr_CA.md" >}}) | 5286 | 5286 | 100.0 | /mnt/stockage/packages/f11/dopewars/po/fr_CA.po | 
- | [nn]({{< ref "/f11/language/nn.md" >}}) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f11/dopewars/po/nn.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 4311 | 5286 | 81.6 | /mnt/stockage/packages/f11/dopewars/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 3088 | 5247 | 58.9 | /mnt/stockage/packages/f11/dopewars/po/fr.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 3078 | 5247 | 58.7 | /mnt/stockage/packages/f11/dopewars/po/pt_BR.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 2801 | 5247 | 53.4 | /mnt/stockage/packages/f11/dopewars/po/pl.po | 
+ | [es](/f11/language/es) | 10494 | 10494 | 100.0 | /mnt/stockage/packages/f11/dopewars/po/es.po/mnt/stockage/packages/f11/dopewars/po/es_ES.po | 
+ | [fr_CA](/f11/language/fr_CA) | 5286 | 5286 | 100.0 | /mnt/stockage/packages/f11/dopewars/po/fr_CA.po | 
+ | [nn](/f11/language/nn) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f11/dopewars/po/nn.po | 
+ | [de](/f11/language/de) | 4311 | 5286 | 81.6 | /mnt/stockage/packages/f11/dopewars/po/de.po | 
+ | [fr](/f11/language/fr) | 3088 | 5247 | 58.9 | /mnt/stockage/packages/f11/dopewars/po/fr.po | 
+ | [pt_BR](/f11/language/pt_BR) | 3078 | 5247 | 58.7 | /mnt/stockage/packages/f11/dopewars/po/pt_BR.po | 
+ | [pl](/f11/language/pl) | 2801 | 5247 | 53.4 | /mnt/stockage/packages/f11/dopewars/po/pl.po | 
 {.sortable}
 
 

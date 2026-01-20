@@ -18,14 +18,14 @@ The package cflow (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/fi.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/id.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/pl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/zh_CN.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 559 | 602 | 92.9 | /mnt/stockage/packages/f14/cflow/po/ga.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 491 | 602 | 81.6 | /mnt/stockage/packages/f14/cflow/po/da.po | 
+ | [fi](/f14/language/fi) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/fi.po | 
+ | [id](/f14/language/id) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/id.po | 
+ | [pl](/f14/language/pl) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/pl.po | 
+ | [uk](/f14/language/uk) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/uk.po | 
+ | [vi](/f14/language/vi) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 564 | 602 | 93.7 | /mnt/stockage/packages/f14/cflow/po/zh_CN.po | 
+ | [ga](/f14/language/ga) | 559 | 602 | 92.9 | /mnt/stockage/packages/f14/cflow/po/ga.po | 
+ | [da](/f14/language/da) | 491 | 602 | 81.6 | /mnt/stockage/packages/f14/cflow/po/da.po | 
 {.sortable}
 
 

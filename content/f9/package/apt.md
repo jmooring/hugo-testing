@@ -18,12 +18,12 @@ The package apt (version 0.5.15lorg3.94):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 3476 | 4116 | 84.5 | /mnt/stockage/packages/f9/apt/po/ru.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 3446 | 4116 | 83.7 | /mnt/stockage/packages/f9/apt/po/ja.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 2901 | 4116 | 70.5 | /mnt/stockage/packages/f9/apt/po/pt_BR.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2255 | 4116 | 54.8 | /mnt/stockage/packages/f9/apt/po/de_DE.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 534 | 4116 | 13.0 | /mnt/stockage/packages/f9/apt/po/es_ES.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 534 | 4116 | 13.0 | /mnt/stockage/packages/f9/apt/po/it_IT.po | 
+ | [ru](/f9/language/ru) | 3476 | 4116 | 84.5 | /mnt/stockage/packages/f9/apt/po/ru.po | 
+ | [ja](/f9/language/ja) | 3446 | 4116 | 83.7 | /mnt/stockage/packages/f9/apt/po/ja.po | 
+ | [pt_BR](/f9/language/pt_BR) | 2901 | 4116 | 70.5 | /mnt/stockage/packages/f9/apt/po/pt_BR.po | 
+ | [de](/f9/language/de) | 2255 | 4116 | 54.8 | /mnt/stockage/packages/f9/apt/po/de_DE.po | 
+ | [es](/f9/language/es) | 534 | 4116 | 13.0 | /mnt/stockage/packages/f9/apt/po/es_ES.po | 
+ | [it](/f9/language/it) | 534 | 4116 | 13.0 | /mnt/stockage/packages/f9/apt/po/it_IT.po | 
 {.sortable}
 
 

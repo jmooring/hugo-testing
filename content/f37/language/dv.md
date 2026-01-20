@@ -39,19 +39,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f37/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 276 | 986 | 28.0 | Dhivehi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/dv/> | 
- | [gnome-do]({{< ref "/f37/package/gnome-do.md" >}}) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
- | [minetest]({{< ref "/f37/package/minetest.md" >}}) | 327 | 9523 | 3.4 | Dhivehi <https://hosted.weblate.org/projects/minetest/minetest/dv/> | 
- | [pinta]({{< ref "/f37/package/pinta.md" >}}) | 17 | 1746 | 1.0 | Divehi <dv@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
+ | [gnome-menus](/f37/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [iso-codes](/f37/package/iso-codes) | 276 | 986 | 28.0 | Dhivehi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/dv/> | 
+ | [gnome-do](/f37/package/gnome-do) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
+ | [minetest](/f37/package/minetest) | 327 | 9523 | 3.4 | Dhivehi <https://hosted.weblate.org/projects/minetest/minetest/dv/> | 
+ | [pinta](/f37/package/pinta) | 17 | 1746 | 1.0 | Divehi <dv@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
 {.sortable}
 
 

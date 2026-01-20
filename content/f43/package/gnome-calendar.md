@@ -18,76 +18,76 @@ The package gnome-calendar (version 49.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f43/language/af.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/af.po | 
- | [an]({{< ref "/f43/language/an.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/an.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ar.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 1161 | 1161 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/be.po | 
- | [be_Latn]({{< ref "/f43/language/be_Latn.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/be@latin.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/bg.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 224 | 224 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/bs.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ca.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/es.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 668 | 668 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/et.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fur.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fy.po | 
- | [gd]({{< ref "/f43/language/gd.md" >}}) | 866 | 866 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/gd.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/hi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/hu.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/id.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/is.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ka.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/kab.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ko.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/lv.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 669 | 669 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ml.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 799 | 799 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ms.po | 
- | [my]({{< ref "/f43/language/my.md" >}}) | 1019 | 1019 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/my.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/nb.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ne.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/oc.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 2212 | 2212 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sr@latin.po/mnt/stockage/packages/f43/gnome-calendar/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sv.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 342 | 342 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/tg.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/th.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/uk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/uz.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/vi.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/zh_TW.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 638 | 641 | 99.5 | /mnt/stockage/packages/f43/gnome-calendar/po/ca@valencia.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 122 | 128 | 95.3 | /mnt/stockage/packages/f43/gnome-calendar/po/zh_HK.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 1032 | 1098 | 94.0 | /mnt/stockage/packages/f43/gnome-calendar/po/kk.po | 
- | [ckb]({{< ref "/f43/language/ckb.md" >}}) | 618 | 666 | 92.8 | /mnt/stockage/packages/f43/gnome-calendar/po/ckb.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 926 | 1009 | 91.8 | /mnt/stockage/packages/f43/gnome-calendar/po/pa.po | 
- | [ab]({{< ref "/f43/language/ab.md" >}}) | 507 | 854 | 59.4 | /mnt/stockage/packages/f43/gnome-calendar/po/ab.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 173 | 325 | 53.2 | /mnt/stockage/packages/f43/gnome-calendar/po/ga.po | 
- | [mjw]({{< ref "/f43/language/mjw.md" >}}) | 425 | 799 | 53.2 | /mnt/stockage/packages/f43/gnome-calendar/po/mjw.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 234 | 737 | 31.8 | /mnt/stockage/packages/f43/gnome-calendar/po/ta.po | 
+ | [af](/f43/language/af) | 668 | 668 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/af.po | 
+ | [an](/f43/language/an) | 224 | 224 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/an.po | 
+ | [ar](/f43/language/ar) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ar.po | 
+ | [be](/f43/language/be) | 1161 | 1161 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/be.po | 
+ | [be_Latn](/f43/language/be_Latn) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/be@latin.po | 
+ | [bg](/f43/language/bg) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/bg.po | 
+ | [bs](/f43/language/bs) | 224 | 224 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/bs.po | 
+ | [ca](/f43/language/ca) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ca.po | 
+ | [cs](/f43/language/cs) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/cs.po | 
+ | [da](/f43/language/da) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/da.po | 
+ | [de](/f43/language/de) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/de.po | 
+ | [el](/f43/language/el) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/eo.po | 
+ | [es](/f43/language/es) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/es.po | 
+ | [et](/f43/language/et) | 668 | 668 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/et.po | 
+ | [eu](/f43/language/eu) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/eu.po | 
+ | [fa](/f43/language/fa) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fa.po | 
+ | [fi](/f43/language/fi) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fi.po | 
+ | [fr](/f43/language/fr) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fr.po | 
+ | [fur](/f43/language/fur) | 1136 | 1136 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fur.po | 
+ | [fy](/f43/language/fy) | 898 | 898 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/fy.po | 
+ | [gd](/f43/language/gd) | 866 | 866 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/gd.po | 
+ | [gl](/f43/language/gl) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/gl.po | 
+ | [he](/f43/language/he) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/he.po | 
+ | [hi](/f43/language/hi) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/hi.po | 
+ | [hr](/f43/language/hr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/hr.po | 
+ | [hu](/f43/language/hu) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/hu.po | 
+ | [id](/f43/language/id) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/id.po | 
+ | [is](/f43/language/is) | 887 | 887 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/is.po | 
+ | [it](/f43/language/it) | 1113 | 1113 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/it.po | 
+ | [ja](/f43/language/ja) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ja.po | 
+ | [ka](/f43/language/ka) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ka.po | 
+ | [kab](/f43/language/kab) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/kab.po | 
+ | [ko](/f43/language/ko) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ko.po | 
+ | [lt](/f43/language/lt) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/lt.po | 
+ | [lv](/f43/language/lv) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/lv.po | 
+ | [ml](/f43/language/ml) | 669 | 669 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ml.po | 
+ | [ms](/f43/language/ms) | 799 | 799 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ms.po | 
+ | [my](/f43/language/my) | 1019 | 1019 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/my.po | 
+ | [nb_NO](/f43/language/nb_NO) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/nb.po | 
+ | [ne](/f43/language/ne) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ne.po | 
+ | [nl](/f43/language/nl) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/nl.po | 
+ | [oc](/f43/language/oc) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/oc.po | 
+ | [pl](/f43/language/pl) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/pl.po | 
+ | [pt](/f43/language/pt) | 1135 | 1135 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ro.po | 
+ | [ru](/f43/language/ru) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/ru.po | 
+ | [sk](/f43/language/sk) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sk.po | 
+ | [sl](/f43/language/sl) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sl.po | 
+ | [sr](/f43/language/sr) | 2212 | 2212 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sr@latin.po/mnt/stockage/packages/f43/gnome-calendar/po/sr.po | 
+ | [sv](/f43/language/sv) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/sv.po | 
+ | [tg](/f43/language/tg) | 342 | 342 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/tg.po | 
+ | [th](/f43/language/th) | 1132 | 1132 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/th.po | 
+ | [tr](/f43/language/tr) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/tr.po | 
+ | [uk](/f43/language/uk) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/uk.po | 
+ | [uz](/f43/language/uz) | 1122 | 1122 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/uz.po | 
+ | [vi](/f43/language/vi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/vi.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1146 | 1146 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f43/gnome-calendar/po/zh_TW.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 638 | 641 | 99.5 | /mnt/stockage/packages/f43/gnome-calendar/po/ca@valencia.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 122 | 128 | 95.3 | /mnt/stockage/packages/f43/gnome-calendar/po/zh_HK.po | 
+ | [kk](/f43/language/kk) | 1032 | 1098 | 94.0 | /mnt/stockage/packages/f43/gnome-calendar/po/kk.po | 
+ | [ckb](/f43/language/ckb) | 618 | 666 | 92.8 | /mnt/stockage/packages/f43/gnome-calendar/po/ckb.po | 
+ | [pa](/f43/language/pa) | 926 | 1009 | 91.8 | /mnt/stockage/packages/f43/gnome-calendar/po/pa.po | 
+ | [ab](/f43/language/ab) | 507 | 854 | 59.4 | /mnt/stockage/packages/f43/gnome-calendar/po/ab.po | 
+ | [ga](/f43/language/ga) | 173 | 325 | 53.2 | /mnt/stockage/packages/f43/gnome-calendar/po/ga.po | 
+ | [mjw](/f43/language/mjw) | 425 | 799 | 53.2 | /mnt/stockage/packages/f43/gnome-calendar/po/mjw.po | 
+ | [ta](/f43/language/ta) | 234 | 737 | 31.8 | /mnt/stockage/packages/f43/gnome-calendar/po/ta.po | 
 {.sortable}
 
 

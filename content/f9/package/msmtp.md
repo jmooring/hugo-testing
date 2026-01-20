@@ -18,7 +18,7 @@ The package msmtp (version 1.4.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 1579 | 1579 | 100.0 | /mnt/stockage/packages/f9/msmtp/po/de.po | 
+ | [de](/f9/language/de) | 1579 | 1579 | 100.0 | /mnt/stockage/packages/f9/msmtp/po/de.po | 
 {.sortable}
 
 

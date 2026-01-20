@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [appstream]({{< ref "/f35/package/appstream.md" >}}) | 0 | 4594 | 0.0 | none | 
+ | [appstream](/f35/package/appstream) | 0 | 4594 | 0.0 | none | 
 {.sortable}
 
 

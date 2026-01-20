@@ -18,101 +18,101 @@ The package kf5-knotifications (version 5.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ar/knotifications5_qt.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/bs/knotifications5_qt.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ca/knotifications5_qt.po | 
- | [ca@valencia]({{< ref "/f20/language/ca@valencia.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ca@valencia/knotifications5_qt.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/da/knotifications5_qt.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/de/knotifications5_qt.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/en_GB/knotifications5_qt.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/es/knotifications5_qt.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fi/knotifications5_qt.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fr/knotifications5_qt.po | 
- | [gd]({{< ref "/f20/language/gd.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/gd/knotifications5_qt.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/gl/knotifications5_qt.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hu/knotifications5_qt.po | 
- | [ia]({{< ref "/f20/language/ia.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ia/knotifications5_qt.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/id/knotifications5_qt.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/it/knotifications5_qt.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ja/knotifications5_qt.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ko/knotifications5_qt.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/lt/knotifications5_qt.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/mr/knotifications5_qt.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nb/knotifications5_qt.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nds/knotifications5_qt.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nl/knotifications5_qt.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pa/knotifications5_qt.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pl/knotifications5_qt.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pt/knotifications5_qt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pt_BR/knotifications5_qt.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ro/knotifications5_qt.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ru/knotifications5_qt.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sk/knotifications5_qt.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sl/knotifications5_qt.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr/knotifications5_qt.po | 
- | [sr@ijekavian]({{< ref "/f20/language/sr@ijekavian.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr@ijekavian/knotifications5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f20/language/sr@ijekavian_Latn.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr@ijekavianlatin/knotifications5_qt.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr@latin/knotifications5_qt.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sv/knotifications5_qt.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/tr/knotifications5_qt.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/uk/knotifications5_qt.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/zh_CN/knotifications5_qt.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/zh_TW/knotifications5_qt.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 18 | 54 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifications/po/bn/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/cs/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/vi/knotifications5_qt.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/af/knotifications5_qt.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/as/knotifications5_qt.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ast/knotifications5_qt.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/be/knotifications5_qt.po | 
- | [be_Latn]({{< ref "/f20/language/be_Latn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/be@latin/knotifications5_qt.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/bg/knotifications5_qt.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/bn_IN/knotifications5_qt.po | 
- | [br]({{< ref "/f20/language/br.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/br/knotifications5_qt.po | 
- | [crh]({{< ref "/f20/language/crh.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/crh/knotifications5_qt.po | 
- | [csb]({{< ref "/f20/language/csb.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/csb/knotifications5_qt.po | 
- | [cy]({{< ref "/f20/language/cy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/cy/knotifications5_qt.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/el/knotifications5_qt.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/eo/knotifications5_qt.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/et/knotifications5_qt.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/eu/knotifications5_qt.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fa/knotifications5_qt.po | 
- | [fy]({{< ref "/f20/language/fy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fy/knotifications5_qt.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ga/knotifications5_qt.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/gu/knotifications5_qt.po | 
- | [ha]({{< ref "/f20/language/ha.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ha/knotifications5_qt.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/he/knotifications5_qt.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hi/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/mai/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/hne/knotifications5_qt.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hr/knotifications5_qt.po | 
- | [hsb]({{< ref "/f20/language/hsb.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hsb/knotifications5_qt.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hy/knotifications5_qt.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/is/knotifications5_qt.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ka/knotifications5_qt.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/kk/knotifications5_qt.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/km/knotifications5_qt.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/kn/knotifications5_qt.po | 
- | [ku]({{< ref "/f20/language/ku.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ku/knotifications5_qt.po | 
- | [lb]({{< ref "/f20/language/lb.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/lb/knotifications5_qt.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/lv/knotifications5_qt.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/mk/knotifications5_qt.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ml/knotifications5_qt.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ms/knotifications5_qt.po | 
- | [ne]({{< ref "/f20/language/ne.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ne/knotifications5_qt.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nn/knotifications5_qt.po | 
- | [oc]({{< ref "/f20/language/oc.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/oc/knotifications5_qt.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/or/knotifications5_qt.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ps/knotifications5_qt.po | 
- | [se]({{< ref "/f20/language/se.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/se/knotifications5_qt.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/si/knotifications5_qt.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sq/knotifications5_qt.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ta/knotifications5_qt.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/te/knotifications5_qt.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/tg/knotifications5_qt.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/th/knotifications5_qt.po | 
- | [tt]({{< ref "/f20/language/tt.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/tt/knotifications5_qt.po | 
- | [ug]({{< ref "/f20/language/ug.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ug/knotifications5_qt.po | 
- | [uz]({{< ref "/f20/language/uz.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/uz/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/uz@cyrillic/knotifications5_qt.po | 
- | [wa]({{< ref "/f20/language/wa.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/wa/knotifications5_qt.po | 
- | [xh]({{< ref "/f20/language/xh.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/xh/knotifications5_qt.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/zh_HK/knotifications5_qt.po | 
+ | [ar](/f20/language/ar) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ar/knotifications5_qt.po | 
+ | [bs](/f20/language/bs) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/bs/knotifications5_qt.po | 
+ | [ca](/f20/language/ca) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ca/knotifications5_qt.po | 
+ | [ca@valencia](/f20/language/ca@valencia) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ca@valencia/knotifications5_qt.po | 
+ | [da](/f20/language/da) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/da/knotifications5_qt.po | 
+ | [de](/f20/language/de) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/de/knotifications5_qt.po | 
+ | [en_GB](/f20/language/en_GB) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/en_GB/knotifications5_qt.po | 
+ | [es](/f20/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/es/knotifications5_qt.po | 
+ | [fi](/f20/language/fi) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fi/knotifications5_qt.po | 
+ | [fr](/f20/language/fr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fr/knotifications5_qt.po | 
+ | [gd](/f20/language/gd) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/gd/knotifications5_qt.po | 
+ | [gl](/f20/language/gl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/gl/knotifications5_qt.po | 
+ | [hu](/f20/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hu/knotifications5_qt.po | 
+ | [ia](/f20/language/ia) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ia/knotifications5_qt.po | 
+ | [id](/f20/language/id) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/id/knotifications5_qt.po | 
+ | [it](/f20/language/it) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/it/knotifications5_qt.po | 
+ | [ja](/f20/language/ja) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ja/knotifications5_qt.po | 
+ | [ko](/f20/language/ko) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ko/knotifications5_qt.po | 
+ | [lt](/f20/language/lt) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/lt/knotifications5_qt.po | 
+ | [mr](/f20/language/mr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/mr/knotifications5_qt.po | 
+ | [nb_NO](/f20/language/nb_NO) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nb/knotifications5_qt.po | 
+ | [nds](/f20/language/nds) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nds/knotifications5_qt.po | 
+ | [nl](/f20/language/nl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nl/knotifications5_qt.po | 
+ | [pa](/f20/language/pa) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pa/knotifications5_qt.po | 
+ | [pl](/f20/language/pl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pl/knotifications5_qt.po | 
+ | [pt](/f20/language/pt) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pt/knotifications5_qt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/pt_BR/knotifications5_qt.po | 
+ | [ro](/f20/language/ro) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ro/knotifications5_qt.po | 
+ | [ru](/f20/language/ru) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ru/knotifications5_qt.po | 
+ | [sk](/f20/language/sk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sk/knotifications5_qt.po | 
+ | [sl](/f20/language/sl) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sl/knotifications5_qt.po | 
+ | [sr](/f20/language/sr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr/knotifications5_qt.po | 
+ | [sr@ijekavian](/f20/language/sr@ijekavian) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr@ijekavian/knotifications5_qt.po | 
+ | [sr@ijekavian_Latn](/f20/language/sr@ijekavian_Latn) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr@ijekavianlatin/knotifications5_qt.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sr@latin/knotifications5_qt.po | 
+ | [sv](/f20/language/sv) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sv/knotifications5_qt.po | 
+ | [tr](/f20/language/tr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/tr/knotifications5_qt.po | 
+ | [uk](/f20/language/uk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/uk/knotifications5_qt.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/zh_CN/knotifications5_qt.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 18 | 18 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/zh_TW/knotifications5_qt.po | 
+ | [en_US](/f20/language/en_US) | 18 | 54 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifications/po/bn/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/cs/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/vi/knotifications5_qt.po | 
+ | [af](/f20/language/af) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/af/knotifications5_qt.po | 
+ | [as](/f20/language/as) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/as/knotifications5_qt.po | 
+ | [ast](/f20/language/ast) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ast/knotifications5_qt.po | 
+ | [be](/f20/language/be) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/be/knotifications5_qt.po | 
+ | [be_Latn](/f20/language/be_Latn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/be@latin/knotifications5_qt.po | 
+ | [bg](/f20/language/bg) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/bg/knotifications5_qt.po | 
+ | [bn_IN](/f20/language/bn_IN) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/bn_IN/knotifications5_qt.po | 
+ | [br](/f20/language/br) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/br/knotifications5_qt.po | 
+ | [crh](/f20/language/crh) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/crh/knotifications5_qt.po | 
+ | [csb](/f20/language/csb) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/csb/knotifications5_qt.po | 
+ | [cy](/f20/language/cy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/cy/knotifications5_qt.po | 
+ | [el](/f20/language/el) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/el/knotifications5_qt.po | 
+ | [eo](/f20/language/eo) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/eo/knotifications5_qt.po | 
+ | [et](/f20/language/et) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/et/knotifications5_qt.po | 
+ | [eu](/f20/language/eu) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/eu/knotifications5_qt.po | 
+ | [fa](/f20/language/fa) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fa/knotifications5_qt.po | 
+ | [fy](/f20/language/fy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/fy/knotifications5_qt.po | 
+ | [ga](/f20/language/ga) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ga/knotifications5_qt.po | 
+ | [gu](/f20/language/gu) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/gu/knotifications5_qt.po | 
+ | [ha](/f20/language/ha) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ha/knotifications5_qt.po | 
+ | [he](/f20/language/he) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/he/knotifications5_qt.po | 
+ | [hi](/f20/language/hi) | 0 | 54 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hi/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/mai/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/hne/knotifications5_qt.po | 
+ | [hr](/f20/language/hr) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hr/knotifications5_qt.po | 
+ | [hsb](/f20/language/hsb) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hsb/knotifications5_qt.po | 
+ | [hy](/f20/language/hy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/hy/knotifications5_qt.po | 
+ | [is](/f20/language/is) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/is/knotifications5_qt.po | 
+ | [ka](/f20/language/ka) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ka/knotifications5_qt.po | 
+ | [kk](/f20/language/kk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/kk/knotifications5_qt.po | 
+ | [km](/f20/language/km) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/km/knotifications5_qt.po | 
+ | [kn](/f20/language/kn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/kn/knotifications5_qt.po | 
+ | [ku](/f20/language/ku) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ku/knotifications5_qt.po | 
+ | [lb](/f20/language/lb) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/lb/knotifications5_qt.po | 
+ | [lv](/f20/language/lv) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/lv/knotifications5_qt.po | 
+ | [mk](/f20/language/mk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/mk/knotifications5_qt.po | 
+ | [ml](/f20/language/ml) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ml/knotifications5_qt.po | 
+ | [ms](/f20/language/ms) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ms/knotifications5_qt.po | 
+ | [ne](/f20/language/ne) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ne/knotifications5_qt.po | 
+ | [nn](/f20/language/nn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/nn/knotifications5_qt.po | 
+ | [oc](/f20/language/oc) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/oc/knotifications5_qt.po | 
+ | [or](/f20/language/or) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/or/knotifications5_qt.po | 
+ | [ps](/f20/language/ps) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ps/knotifications5_qt.po | 
+ | [se](/f20/language/se) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/se/knotifications5_qt.po | 
+ | [si](/f20/language/si) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/si/knotifications5_qt.po | 
+ | [sq](/f20/language/sq) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/sq/knotifications5_qt.po | 
+ | [ta](/f20/language/ta) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ta/knotifications5_qt.po | 
+ | [te](/f20/language/te) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/te/knotifications5_qt.po | 
+ | [tg](/f20/language/tg) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/tg/knotifications5_qt.po | 
+ | [th](/f20/language/th) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/th/knotifications5_qt.po | 
+ | [tt](/f20/language/tt) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/tt/knotifications5_qt.po | 
+ | [ug](/f20/language/ug) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/ug/knotifications5_qt.po | 
+ | [uz](/f20/language/uz) | 0 | 36 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/uz/knotifications5_qt.po/mnt/stockage/packages/f20/kf5-knotifications/po/uz@cyrillic/knotifications5_qt.po | 
+ | [wa](/f20/language/wa) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/wa/knotifications5_qt.po | 
+ | [xh](/f20/language/xh) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/xh/knotifications5_qt.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 0 | 18 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifications/po/zh_HK/knotifications5_qt.po | 
 {.sortable}
 
 

@@ -18,108 +18,108 @@ The package folder-color-switcher (version 1.6.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ast.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/be.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/bn.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/cs.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/cy.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/el.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fr.po | 
- | [fr_CA]({{< ref "/f41/language/fr_CA.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fr_CA.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/hu.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ia.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ko.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ku.po | 
- | [la]({{< ref "/f41/language/la.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/la.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/lt.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/oc.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ru.po | 
- | [rue]({{< ref "/f41/language/rue.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/rue.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sv.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/te.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/uk.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/uz.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/zh_TW.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/am.po | 
- | [ar_EG]({{< ref "/f41/language/ar_EG.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ar.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/az.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/bg.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ca@valencia.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/en_CA.po | 
- | [fil]({{< ref "/f41/language/fil.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/fil.po | 
- | [frp]({{< ref "/f41/language/frp.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/frp.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/fy.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/gd.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/gl.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ie.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ka.po | 
- | [kab]({{< ref "/f41/language/kab.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/kab.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/kk.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/lv.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/mai.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/mr.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ms.po | 
- | [nap]({{< ref "/f41/language/nap.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/nap.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/nds.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ne.po | 
- | [pap]({{< ref "/f41/language/pap.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/pap.po | 
- | [sco]({{< ref "/f41/language/sco.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sco.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sq.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sr@ijekavian.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sr@latin.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ta.po | 
- | [tt]({{< ref "/f41/language/tt.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/tt.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ur.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/zh_HK.po | 
- | [szl]({{< ref "/f41/language/szl.md" >}}) | 49 | 65 | 75.4 | /mnt/stockage/packages/f41/folder-color-switcher/po/szl.po | 
- | [my]({{< ref "/f41/language/my.md" >}}) | 47 | 65 | 72.3 | /mnt/stockage/packages/f41/folder-color-switcher/po/my.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 47 | 65 | 72.3 | /mnt/stockage/packages/f41/folder-color-switcher/po/si.po | 
- | [sn]({{< ref "/f41/language/sn.md" >}}) | 47 | 65 | 72.3 | /mnt/stockage/packages/f41/folder-color-switcher/po/sn.po | 
- | [sc]({{< ref "/f41/language/sc.md" >}}) | 45 | 65 | 69.2 | /mnt/stockage/packages/f41/folder-color-switcher/po/sc.po | 
- | [aa]({{< ref "/f41/language/aa.md" >}}) | 42 | 65 | 64.6 | /mnt/stockage/packages/f41/folder-color-switcher/po/aa.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 37 | 65 | 56.9 | /mnt/stockage/packages/f41/folder-color-switcher/po/br.po | 
- | [zgh]({{< ref "/f41/language/zgh.md" >}}) | 22 | 65 | 33.8 | /mnt/stockage/packages/f41/folder-color-switcher/po/zgh.po | 
- | [jv]({{< ref "/f41/language/jv.md" >}}) | 19 | 65 | 29.2 | /mnt/stockage/packages/f41/folder-color-switcher/po/jv.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 13 | 65 | 20.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/km.po | 
- | [lo]({{< ref "/f41/language/lo.md" >}}) | 13 | 65 | 20.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/lo.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 12 | 65 | 18.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/af.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 11 | 65 | 16.9 | /mnt/stockage/packages/f41/folder-color-switcher/po/ml.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/bs.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/en_AU.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ga.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/mk.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pa.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/tg.po | 
+ | [ast](/f41/language/ast) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ast.po | 
+ | [be](/f41/language/be) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/be.po | 
+ | [bn](/f41/language/bn) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/bn.po | 
+ | [ca](/f41/language/ca) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ca.po | 
+ | [cs](/f41/language/cs) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/cs.po | 
+ | [cy](/f41/language/cy) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/cy.po | 
+ | [da](/f41/language/da) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/da.po | 
+ | [de](/f41/language/de) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/de.po | 
+ | [el](/f41/language/el) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/el.po | 
+ | [en_GB](/f41/language/en_GB) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/eo.po | 
+ | [es](/f41/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/es.po | 
+ | [et](/f41/language/et) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/et.po | 
+ | [eu](/f41/language/eu) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/eu.po | 
+ | [fa](/f41/language/fa) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fa.po | 
+ | [fi](/f41/language/fi) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fi.po | 
+ | [fr](/f41/language/fr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fr.po | 
+ | [fr_CA](/f41/language/fr_CA) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/fr_CA.po | 
+ | [he](/f41/language/he) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/he.po | 
+ | [hi](/f41/language/hi) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/hi.po | 
+ | [hr](/f41/language/hr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/hr.po | 
+ | [hu](/f41/language/hu) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/hu.po | 
+ | [ia](/f41/language/ia) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ia.po | 
+ | [id](/f41/language/id) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/id.po | 
+ | [is](/f41/language/is) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/is.po | 
+ | [it](/f41/language/it) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/it.po | 
+ | [ja](/f41/language/ja) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ja.po | 
+ | [ko](/f41/language/ko) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ko.po | 
+ | [ku](/f41/language/ku) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ku.po | 
+ | [la](/f41/language/la) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/la.po | 
+ | [lt](/f41/language/lt) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/lt.po | 
+ | [nb_NO](/f41/language/nb_NO) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/nb.po | 
+ | [nl](/f41/language/nl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/nl.po | 
+ | [oc](/f41/language/oc) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/oc.po | 
+ | [pl](/f41/language/pl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pl.po | 
+ | [pt](/f41/language/pt) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ro.po | 
+ | [ru](/f41/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ru.po | 
+ | [rue](/f41/language/rue) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/rue.po | 
+ | [sk](/f41/language/sk) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sk.po | 
+ | [sl](/f41/language/sl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sl.po | 
+ | [sr](/f41/language/sr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sr.po | 
+ | [sv](/f41/language/sv) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/sv.po | 
+ | [te](/f41/language/te) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/te.po | 
+ | [th](/f41/language/th) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/th.po | 
+ | [tr](/f41/language/tr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/tr.po | 
+ | [uk](/f41/language/uk) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/uk.po | 
+ | [uz](/f41/language/uz) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/uz.po | 
+ | [vi](/f41/language/vi) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 65 | 65 | 100.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/zh_TW.po | 
+ | [am](/f41/language/am) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/am.po | 
+ | [ar_EG](/f41/language/ar_EG) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ar.po | 
+ | [az](/f41/language/az) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/az.po | 
+ | [bg](/f41/language/bg) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/bg.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ca@valencia.po | 
+ | [en_CA](/f41/language/en_CA) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/en_CA.po | 
+ | [fil](/f41/language/fil) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/fil.po | 
+ | [frp](/f41/language/frp) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/frp.po | 
+ | [fy](/f41/language/fy) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/fy.po | 
+ | [gd](/f41/language/gd) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/gd.po | 
+ | [gl](/f41/language/gl) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/gl.po | 
+ | [ie](/f41/language/ie) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ie.po | 
+ | [ka](/f41/language/ka) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ka.po | 
+ | [kab](/f41/language/kab) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/kab.po | 
+ | [kk](/f41/language/kk) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/kk.po | 
+ | [lv](/f41/language/lv) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/lv.po | 
+ | [mai](/f41/language/mai) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/mai.po | 
+ | [mr](/f41/language/mr) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/mr.po | 
+ | [ms](/f41/language/ms) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ms.po | 
+ | [nap](/f41/language/nap) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/nap.po | 
+ | [nds](/f41/language/nds) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/nds.po | 
+ | [ne](/f41/language/ne) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ne.po | 
+ | [pap](/f41/language/pap) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/pap.po | 
+ | [sco](/f41/language/sco) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sco.po | 
+ | [sq](/f41/language/sq) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sq.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sr@ijekavian.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/sr@latin.po | 
+ | [ta](/f41/language/ta) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ta.po | 
+ | [tt](/f41/language/tt) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/tt.po | 
+ | [ur](/f41/language/ur) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/ur.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 51 | 65 | 78.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/zh_HK.po | 
+ | [szl](/f41/language/szl) | 49 | 65 | 75.4 | /mnt/stockage/packages/f41/folder-color-switcher/po/szl.po | 
+ | [my](/f41/language/my) | 47 | 65 | 72.3 | /mnt/stockage/packages/f41/folder-color-switcher/po/my.po | 
+ | [si](/f41/language/si) | 47 | 65 | 72.3 | /mnt/stockage/packages/f41/folder-color-switcher/po/si.po | 
+ | [sn](/f41/language/sn) | 47 | 65 | 72.3 | /mnt/stockage/packages/f41/folder-color-switcher/po/sn.po | 
+ | [sc](/f41/language/sc) | 45 | 65 | 69.2 | /mnt/stockage/packages/f41/folder-color-switcher/po/sc.po | 
+ | [aa](/f41/language/aa) | 42 | 65 | 64.6 | /mnt/stockage/packages/f41/folder-color-switcher/po/aa.po | 
+ | [br](/f41/language/br) | 37 | 65 | 56.9 | /mnt/stockage/packages/f41/folder-color-switcher/po/br.po | 
+ | [zgh](/f41/language/zgh) | 22 | 65 | 33.8 | /mnt/stockage/packages/f41/folder-color-switcher/po/zgh.po | 
+ | [jv](/f41/language/jv) | 19 | 65 | 29.2 | /mnt/stockage/packages/f41/folder-color-switcher/po/jv.po | 
+ | [km](/f41/language/km) | 13 | 65 | 20.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/km.po | 
+ | [lo](/f41/language/lo) | 13 | 65 | 20.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/lo.po | 
+ | [af](/f41/language/af) | 12 | 65 | 18.5 | /mnt/stockage/packages/f41/folder-color-switcher/po/af.po | 
+ | [ml](/f41/language/ml) | 11 | 65 | 16.9 | /mnt/stockage/packages/f41/folder-color-switcher/po/ml.po | 
+ | [bs](/f41/language/bs) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/bs.po | 
+ | [en_AU](/f41/language/en_AU) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/en_AU.po | 
+ | [ga](/f41/language/ga) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/ga.po | 
+ | [mk](/f41/language/mk) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/mk.po | 
+ | [pa](/f41/language/pa) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/pa.po | 
+ | [tg](/f41/language/tg) | 0 | 65 | 0.0 | /mnt/stockage/packages/f41/folder-color-switcher/po/tg.po | 
 {.sortable}
 
 

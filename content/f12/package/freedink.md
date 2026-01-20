@@ -18,43 +18,43 @@ The package freedink (version 1.08.20090918):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/bg.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 358 | 358 | 100.0 | /mnt/stockage/packages/f12/freedink/po/en@boldquot.po/mnt/stockage/packages/f12/freedink/po/en@quot.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/et.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/ga.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/ja.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/nl.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/pl.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/sl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/vi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/zh_CN.po | 
- | [af]({{< ref "/f12/language/af.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/af.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/be.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/da.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/fi.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/ms.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/ru.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/tr.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 232 | 258 | 89.9 | /mnt/stockage/packages/f12/freedink/gnulib/po/nb.po/mnt/stockage/packages/f12/freedink/po/nb.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/cs.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/el.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/eu.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/gl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/hu.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/ko.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/pt_BR.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/sk.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/zh_TW.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 64 | 79 | 81.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/uk.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 61 | 79 | 77.2 | /mnt/stockage/packages/f12/freedink/gnulib/po/ro.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 168 | 258 | 65.1 | /mnt/stockage/packages/f12/freedink/gnulib/po/fr.po/mnt/stockage/packages/f12/freedink/po/fr.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 125 | 258 | 48.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/de.po/mnt/stockage/packages/f12/freedink/po/de.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 0 | 79 | 0.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/pt.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 0 | 79 | 0.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/rw.po | 
+ | [bg](/f12/language/bg) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/bg.po | 
+ | [error](/f12/language/error) | 358 | 358 | 100.0 | /mnt/stockage/packages/f12/freedink/po/en@boldquot.po/mnt/stockage/packages/f12/freedink/po/en@quot.po | 
+ | [es](/f12/language/es) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/es.po | 
+ | [et](/f12/language/et) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/et.po | 
+ | [ga](/f12/language/ga) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/ga.po | 
+ | [it](/f12/language/it) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/it.po | 
+ | [ja](/f12/language/ja) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/ja.po | 
+ | [nl](/f12/language/nl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/nl.po | 
+ | [pl](/f12/language/pl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/pl.po | 
+ | [sl](/f12/language/sl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/sl.po | 
+ | [sv](/f12/language/sv) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/sv.po | 
+ | [vi](/f12/language/vi) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/vi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 79 | 79 | 100.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/zh_CN.po | 
+ | [af](/f12/language/af) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/af.po | 
+ | [be](/f12/language/be) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/be.po | 
+ | [ca](/f12/language/ca) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/ca.po | 
+ | [da](/f12/language/da) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/da.po | 
+ | [fi](/f12/language/fi) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/fi.po | 
+ | [ms](/f12/language/ms) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/ms.po | 
+ | [ru](/f12/language/ru) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/ru.po | 
+ | [tr](/f12/language/tr) | 73 | 79 | 92.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/tr.po | 
+ | [nb_NO](/f12/language/nb_NO) | 232 | 258 | 89.9 | /mnt/stockage/packages/f12/freedink/gnulib/po/nb.po/mnt/stockage/packages/f12/freedink/po/nb.po | 
+ | [cs](/f12/language/cs) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/cs.po | 
+ | [el](/f12/language/el) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/el.po | 
+ | [eu](/f12/language/eu) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/eu.po | 
+ | [gl](/f12/language/gl) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/gl.po | 
+ | [hu](/f12/language/hu) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/hu.po | 
+ | [ko](/f12/language/ko) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/ko.po | 
+ | [pt_BR](/f12/language/pt_BR) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/pt_BR.po | 
+ | [sk](/f12/language/sk) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/sk.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 66 | 79 | 83.5 | /mnt/stockage/packages/f12/freedink/gnulib/po/zh_TW.po | 
+ | [uk](/f12/language/uk) | 64 | 79 | 81.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/uk.po | 
+ | [ro](/f12/language/ro) | 61 | 79 | 77.2 | /mnt/stockage/packages/f12/freedink/gnulib/po/ro.po | 
+ | [fr](/f12/language/fr) | 168 | 258 | 65.1 | /mnt/stockage/packages/f12/freedink/gnulib/po/fr.po/mnt/stockage/packages/f12/freedink/po/fr.po | 
+ | [de](/f12/language/de) | 125 | 258 | 48.4 | /mnt/stockage/packages/f12/freedink/gnulib/po/de.po/mnt/stockage/packages/f12/freedink/po/de.po | 
+ | [pt](/f12/language/pt) | 0 | 79 | 0.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/pt.po | 
+ | [rw](/f12/language/rw) | 0 | 79 | 0.0 | /mnt/stockage/packages/f12/freedink/gnulib/po/rw.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package dragon (version 23.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/bg/dragonplayer.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/nn/dragonplayer.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/pl/dragonplayer.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/pt/dragonplayer.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 145 | 248 | 58.5 | /mnt/stockage/packages/f37/dragon/po/km/dragonplayer.po | 
+ | [bg](/f37/language/bg) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/bg/dragonplayer.po | 
+ | [nn](/f37/language/nn) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/nn/dragonplayer.po | 
+ | [pl](/f37/language/pl) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/pl/dragonplayer.po | 
+ | [pt](/f37/language/pt) | 248 | 248 | 100.0 | /mnt/stockage/packages/f37/dragon/po/pt/dragonplayer.po | 
+ | [km](/f37/language/km) | 145 | 248 | 58.5 | /mnt/stockage/packages/f37/dragon/po/km/dragonplayer.po | 
 {.sortable}
 
 

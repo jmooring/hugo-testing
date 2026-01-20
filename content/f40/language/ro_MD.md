@@ -38,33 +38,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-calendar]({{< ref "/f40/package/elementary-calendar.md" >}}) | 351 | 652 | 53.8 | Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/> | 
- | [elementary-files]({{< ref "/f40/package/elementary-files.md" >}}) | 1148 | 2538 | 45.2 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
- | [elementary-calculator]({{< ref "/f40/package/elementary-calculator.md" >}}) | 45 | 195 | 23.1 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
- | [elementary-camera]({{< ref "/f40/package/elementary-camera.md" >}}) | 25 | 133 | 18.8 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f40/package/wingpanel-indicator-bluetooth.md" >}}) | 11 | 80 | 13.8 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/> | 
- | [elementary-code]({{< ref "/f40/package/elementary-code.md" >}}) | 199 | 1572 | 12.7 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 1264 | 15604 | 8.1 | Moldavian <mo@li.org> | 
- | [elementary-music]({{< ref "/f40/package/elementary-music.md" >}}) | 13 | 207 | 6.3 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
- | [wingpanel-indicator-keyboard]({{< ref "/f40/package/wingpanel-indicator-keyboard.md" >}}) | 2 | 56 | 3.6 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 33 | 1761 | 1.9 | Moldavian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ro_MD/> | 
- | [gala]({{< ref "/f40/package/gala.md" >}}) | 1 | 281 | 0.4 | Moldovan <https://l10n.elementary.io/projects/desktop/gala/mo/> | 
- | [bookworm]({{< ref "/f40/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f40/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f40/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f40/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f40/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-notifications]({{< ref "/f40/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f40/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [granite]({{< ref "/f40/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f40/package/granite-7.md" >}}) | 0 | 369 | 0.0 |  | 
- | [harvey]({{< ref "/f40/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f40/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f40/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f40/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f40/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f40/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f40/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
+ | [elementary-calendar](/f40/package/elementary-calendar) | 351 | 652 | 53.8 | Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/> | 
+ | [elementary-files](/f40/package/elementary-files) | 1148 | 2538 | 45.2 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
+ | [elementary-calculator](/f40/package/elementary-calculator) | 45 | 195 | 23.1 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
+ | [elementary-camera](/f40/package/elementary-camera) | 25 | 133 | 18.8 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
+ | [wingpanel-indicator-bluetooth](/f40/package/wingpanel-indicator-bluetooth) | 11 | 80 | 13.8 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-bluetooth/mo/> | 
+ | [elementary-code](/f40/package/elementary-code) | 199 | 1572 | 12.7 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 1264 | 15604 | 8.1 | Moldavian <mo@li.org> | 
+ | [elementary-music](/f40/package/elementary-music) | 13 | 207 | 6.3 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
+ | [wingpanel-indicator-keyboard](/f40/package/wingpanel-indicator-keyboard) | 2 | 56 | 3.6 | Moldovan <https://weblate.elementary.io/projects/wingpanel/wingpanel-indicator-keyboard/mo/> | 
+ | [iso-codes](/f40/package/iso-codes) | 33 | 1761 | 1.9 | Moldavian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ro_MD/> | 
+ | [gala](/f40/package/gala) | 1 | 281 | 0.4 | Moldovan <https://l10n.elementary.io/projects/desktop/gala/mo/> | 
+ | [bookworm](/f40/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f40/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f40/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-icon-theme](/f40/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f40/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-notifications](/f40/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [elementary-onboarding](/f40/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [granite](/f40/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f40/package/granite-7) | 0 | 369 | 0.0 |  | 
+ | [harvey](/f40/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f40/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f40/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f40/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f40/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f40/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f40/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
 {.sortable}
 
 

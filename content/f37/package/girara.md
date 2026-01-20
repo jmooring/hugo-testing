@@ -18,22 +18,22 @@ The package girara (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/girara/po/de.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/girara/po/nl.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 211 | 216 | 97.7 | /mnt/stockage/packages/f37/girara/po/ru.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 211 | 216 | 97.7 | /mnt/stockage/packages/f37/girara/po/uk_UA.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 200 | 216 | 92.6 | /mnt/stockage/packages/f37/girara/po/it.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 191 | 216 | 88.4 | /mnt/stockage/packages/f37/girara/po/fr.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 191 | 216 | 88.4 | /mnt/stockage/packages/f37/girara/po/pl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 191 | 216 | 88.4 | /mnt/stockage/packages/f37/girara/po/pt_BR.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 173 | 216 | 80.1 | /mnt/stockage/packages/f37/girara/po/el.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 173 | 216 | 80.1 | /mnt/stockage/packages/f37/girara/po/es.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 173 | 216 | 80.1 | /mnt/stockage/packages/f37/girara/po/tr.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 167 | 216 | 77.3 | /mnt/stockage/packages/f37/girara/po/eo.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 5 | 216 | 2.3 | /mnt/stockage/packages/f37/girara/po/fa_IR.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 0 | 216 | 0.0 | /mnt/stockage/packages/f37/girara/po/ar.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 0 | 216 | 0.0 | /mnt/stockage/packages/f37/girara/po/he.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 0 | 216 | 0.0 | /mnt/stockage/packages/f37/girara/po/sv.po | 
+ | [de](/f37/language/de) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/girara/po/de.po | 
+ | [nl](/f37/language/nl) | 216 | 216 | 100.0 | /mnt/stockage/packages/f37/girara/po/nl.po | 
+ | [ru](/f37/language/ru) | 211 | 216 | 97.7 | /mnt/stockage/packages/f37/girara/po/ru.po | 
+ | [uk](/f37/language/uk) | 211 | 216 | 97.7 | /mnt/stockage/packages/f37/girara/po/uk_UA.po | 
+ | [it](/f37/language/it) | 200 | 216 | 92.6 | /mnt/stockage/packages/f37/girara/po/it.po | 
+ | [fr](/f37/language/fr) | 191 | 216 | 88.4 | /mnt/stockage/packages/f37/girara/po/fr.po | 
+ | [pl](/f37/language/pl) | 191 | 216 | 88.4 | /mnt/stockage/packages/f37/girara/po/pl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 191 | 216 | 88.4 | /mnt/stockage/packages/f37/girara/po/pt_BR.po | 
+ | [el](/f37/language/el) | 173 | 216 | 80.1 | /mnt/stockage/packages/f37/girara/po/el.po | 
+ | [es](/f37/language/es) | 173 | 216 | 80.1 | /mnt/stockage/packages/f37/girara/po/es.po | 
+ | [tr](/f37/language/tr) | 173 | 216 | 80.1 | /mnt/stockage/packages/f37/girara/po/tr.po | 
+ | [eo](/f37/language/eo) | 167 | 216 | 77.3 | /mnt/stockage/packages/f37/girara/po/eo.po | 
+ | [fa](/f37/language/fa) | 5 | 216 | 2.3 | /mnt/stockage/packages/f37/girara/po/fa_IR.po | 
+ | [ar](/f37/language/ar) | 0 | 216 | 0.0 | /mnt/stockage/packages/f37/girara/po/ar.po | 
+ | [he](/f37/language/he) | 0 | 216 | 0.0 | /mnt/stockage/packages/f37/girara/po/he.po | 
+ | [sv](/f37/language/sv) | 0 | 216 | 0.0 | /mnt/stockage/packages/f37/girara/po/sv.po | 
 {.sortable}
 
 

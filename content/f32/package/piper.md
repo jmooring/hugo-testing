@@ -18,18 +18,18 @@ The package piper (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/piper/po/be.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/bg.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/es.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/hr.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/pl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/sv.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 471 | 489 | 96.3 | /mnt/stockage/packages/f32/piper/po/pt_BR.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 417 | 465 | 89.7 | /mnt/stockage/packages/f32/piper/po/fr.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 419 | 492 | 85.2 | /mnt/stockage/packages/f32/piper/po/de.po | 
+ | [be](/f32/language/be) | 481 | 481 | 100.0 | /mnt/stockage/packages/f32/piper/po/be.po | 
+ | [bg](/f32/language/bg) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/bg.po | 
+ | [es](/f32/language/es) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/es.po | 
+ | [hr](/f32/language/hr) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/hr.po | 
+ | [it](/f32/language/it) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/it.po | 
+ | [nl](/f32/language/nl) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/nl.po | 
+ | [pl](/f32/language/pl) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/pl.po | 
+ | [sv](/f32/language/sv) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/sv.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 492 | 492 | 100.0 | /mnt/stockage/packages/f32/piper/po/zh_TW.po | 
+ | [pt_BR](/f32/language/pt_BR) | 471 | 489 | 96.3 | /mnt/stockage/packages/f32/piper/po/pt_BR.po | 
+ | [fr](/f32/language/fr) | 417 | 465 | 89.7 | /mnt/stockage/packages/f32/piper/po/fr.po | 
+ | [de](/f32/language/de) | 419 | 492 | 85.2 | /mnt/stockage/packages/f32/piper/po/de.po | 
 {.sortable}
 
 

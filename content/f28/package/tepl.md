@@ -18,19 +18,19 @@ The package tepl (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/de.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/id.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/pt_BR.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/sv.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 151 | 154 | 98.1 | /mnt/stockage/packages/f28/tepl/po/es.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 125 | 154 | 81.2 | /mnt/stockage/packages/f28/tepl/po/fur.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 125 | 154 | 81.2 | /mnt/stockage/packages/f28/tepl/po/ru.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 125 | 154 | 81.2 | /mnt/stockage/packages/f28/tepl/po/uk.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 46 | 154 | 29.9 | /mnt/stockage/packages/f28/tepl/po/sl.po | 
+ | [cs](/f28/language/cs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/cs.po | 
+ | [de](/f28/language/de) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/de.po | 
+ | [hu](/f28/language/hu) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/hu.po | 
+ | [id](/f28/language/id) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/id.po | 
+ | [pl](/f28/language/pl) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/pt_BR.po | 
+ | [sr](/f28/language/sr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/sr.po | 
+ | [sv](/f28/language/sv) | 154 | 154 | 100.0 | /mnt/stockage/packages/f28/tepl/po/sv.po | 
+ | [es](/f28/language/es) | 151 | 154 | 98.1 | /mnt/stockage/packages/f28/tepl/po/es.po | 
+ | [fur](/f28/language/fur) | 125 | 154 | 81.2 | /mnt/stockage/packages/f28/tepl/po/fur.po | 
+ | [ru](/f28/language/ru) | 125 | 154 | 81.2 | /mnt/stockage/packages/f28/tepl/po/ru.po | 
+ | [uk](/f28/language/uk) | 125 | 154 | 81.2 | /mnt/stockage/packages/f28/tepl/po/uk.po | 
+ | [sl](/f28/language/sl) | 46 | 154 | 29.9 | /mnt/stockage/packages/f28/tepl/po/sl.po | 
 {.sortable}
 
 

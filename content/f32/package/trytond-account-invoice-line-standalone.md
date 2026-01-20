@@ -18,26 +18,26 @@ The package trytond-account-invoice-line-standalone (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/ca_ES.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/de_DE.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_ES.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_AR.po | 
- | [es_CO]({{< ref "/f32/language/es_CO.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_CO.po | 
- | [es_EC]({{< ref "/f32/language/es_EC.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_EC.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/fr_FR.po | 
- | [lo]({{< ref "/f32/language/lo.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/lo_LA.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/pt_BR.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/sl_SI.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/bg_BG.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/cs_CZ.po | 
- | [es_MX]({{< ref "/f32/language/es_MX.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_MX.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/hu_HU.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/it_IT.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/ja_JP.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/lt_LT.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/nl_NL.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/zh_CN.po | 
+ | [ca](/f32/language/ca) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/ca_ES.po | 
+ | [de](/f32/language/de) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/de_DE.po | 
+ | [es](/f32/language/es) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_ES.po | 
+ | [es_AR](/f32/language/es_AR) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_AR.po | 
+ | [es_CO](/f32/language/es_CO) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_CO.po | 
+ | [es_EC](/f32/language/es_EC) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_EC.po | 
+ | [fr](/f32/language/fr) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/fr_FR.po | 
+ | [lo](/f32/language/lo) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/lo_LA.po | 
+ | [pt_BR](/f32/language/pt_BR) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/pt_BR.po | 
+ | [sl](/f32/language/sl) | 10 | 10 | 100.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/sl_SI.po | 
+ | [bg](/f32/language/bg) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/bg_BG.po | 
+ | [cs](/f32/language/cs) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/cs_CZ.po | 
+ | [es_MX](/f32/language/es_MX) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/es_MX.po | 
+ | [hu](/f32/language/hu) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/hu_HU.po | 
+ | [it](/f32/language/it) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/it_IT.po | 
+ | [ja](/f32/language/ja) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/ja_JP.po | 
+ | [lt](/f32/language/lt) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/lt_LT.po | 
+ | [nl](/f32/language/nl) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/nl_NL.po | 
+ | [ru](/f32/language/ru) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/ru_RU.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 0 | 10 | 0.0 | /mnt/stockage/packages/f32/trytond-account-invoice-line-standalone/locale/zh_CN.po | 
 {.sortable}
 
 

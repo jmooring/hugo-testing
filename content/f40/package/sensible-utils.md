@@ -18,14 +18,14 @@ The package sensible-utils (version 0.0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/fr.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 436 | 623 | 70.0 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/de.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 73 | 623 | 11.7 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/pt.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/cs.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/ja.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/pl.po | 
+ | [fr](/f40/language/fr) | 623 | 623 | 100.0 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/fr.po | 
+ | [de](/f40/language/de) | 436 | 623 | 70.0 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/de.po | 
+ | [pt](/f40/language/pt) | 73 | 623 | 11.7 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/pt.po | 
+ | [cs](/f40/language/cs) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/cs.po | 
+ | [es](/f40/language/es) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/es.po | 
+ | [it](/f40/language/it) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/it.po | 
+ | [ja](/f40/language/ja) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/ja.po | 
+ | [pl](/f40/language/pl) | 13 | 623 | 2.1 | /mnt/stockage/packages/f40/sensible-utils/man/po4a/pl.po | 
 {.sortable}
 
 

@@ -18,61 +18,61 @@ The package lightdm-settings (version 1.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f29/language/am.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-am.po | 
- | [ar_EG]({{< ref "/f29/language/ar_EG.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ar.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-bg.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-cs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-cy.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-eu.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-fr.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-he.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-hu.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ia.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-it.po | 
- | [kab]({{< ref "/f29/language/kab.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-kab.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-zh_TW.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 251 | 271 | 92.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ku.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 251 | 271 | 92.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-vi.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 223 | 271 | 82.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-nb.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 77 | 271 | 28.4 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sl.po | 
- | [sc]({{< ref "/f29/language/sc.md" >}}) | 72 | 271 | 26.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sc.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 70 | 271 | 25.8 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-id.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 40 | 271 | 14.8 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-th.po | 
- | [nap]({{< ref "/f29/language/nap.md" >}}) | 36 | 271 | 13.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-nap.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 28 | 271 | 10.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-uz.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 28 | 271 | 10.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-zh_HK.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 20 | 271 | 7.4 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ja.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 8 | 271 | 3.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ta.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 7 | 271 | 2.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-kk.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 0 | 271 | 0.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-eo.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 0 | 271 | 0.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ml.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 0 | 271 | 0.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-tg.po | 
+ | [am](/f29/language/am) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-am.po | 
+ | [ar_EG](/f29/language/ar_EG) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ar.po | 
+ | [bg](/f29/language/bg) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-bg.po | 
+ | [ca](/f29/language/ca) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ca.po | 
+ | [cs](/f29/language/cs) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-cs.po | 
+ | [cy](/f29/language/cy) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-cy.po | 
+ | [da](/f29/language/da) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-da.po | 
+ | [de](/f29/language/de) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-de.po | 
+ | [el](/f29/language/el) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-el.po | 
+ | [en_GB](/f29/language/en_GB) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-en_GB.po | 
+ | [es](/f29/language/es) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-es.po | 
+ | [et](/f29/language/et) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-et.po | 
+ | [eu](/f29/language/eu) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-eu.po | 
+ | [fi](/f29/language/fi) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-fi.po | 
+ | [fr](/f29/language/fr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-fr.po | 
+ | [he](/f29/language/he) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-he.po | 
+ | [hi](/f29/language/hi) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-hi.po | 
+ | [hr](/f29/language/hr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-hr.po | 
+ | [hu](/f29/language/hu) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-hu.po | 
+ | [ia](/f29/language/ia) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ia.po | 
+ | [is](/f29/language/is) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-is.po | 
+ | [it](/f29/language/it) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-it.po | 
+ | [kab](/f29/language/kab) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-kab.po | 
+ | [ko](/f29/language/ko) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ko.po | 
+ | [lt](/f29/language/lt) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-lt.po | 
+ | [nl](/f29/language/nl) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-nl.po | 
+ | [pl](/f29/language/pl) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-pl.po | 
+ | [pt](/f29/language/pt) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-pt_BR.po | 
+ | [ro](/f29/language/ro) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ro.po | 
+ | [ru](/f29/language/ru) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ru.po | 
+ | [sk](/f29/language/sk) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sk.po | 
+ | [sr](/f29/language/sr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sr@latin.po | 
+ | [sv](/f29/language/sv) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sv.po | 
+ | [tr](/f29/language/tr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-tr.po | 
+ | [uk](/f29/language/uk) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 271 | 271 | 100.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-zh_TW.po | 
+ | [ku](/f29/language/ku) | 251 | 271 | 92.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ku.po | 
+ | [vi](/f29/language/vi) | 251 | 271 | 92.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-vi.po | 
+ | [nb_NO](/f29/language/nb_NO) | 223 | 271 | 82.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-nb.po | 
+ | [sl](/f29/language/sl) | 77 | 271 | 28.4 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sl.po | 
+ | [sc](/f29/language/sc) | 72 | 271 | 26.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-sc.po | 
+ | [id](/f29/language/id) | 70 | 271 | 25.8 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-id.po | 
+ | [th](/f29/language/th) | 40 | 271 | 14.8 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-th.po | 
+ | [nap](/f29/language/nap) | 36 | 271 | 13.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-nap.po | 
+ | [uz](/f29/language/uz) | 28 | 271 | 10.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-uz.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 28 | 271 | 10.3 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-zh_HK.po | 
+ | [ja](/f29/language/ja) | 20 | 271 | 7.4 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ja.po | 
+ | [ta](/f29/language/ta) | 8 | 271 | 3.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ta.po | 
+ | [kk](/f29/language/kk) | 7 | 271 | 2.6 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-kk.po | 
+ | [eo](/f29/language/eo) | 0 | 271 | 0.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-eo.po | 
+ | [ml](/f29/language/ml) | 0 | 271 | 0.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-ml.po | 
+ | [tg](/f29/language/tg) | 0 | 271 | 0.0 | /mnt/stockage/packages/f29/lightdm-settings/po/lightdm-settings-tg.po | 
 {.sortable}
 
 

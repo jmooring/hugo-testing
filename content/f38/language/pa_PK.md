@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 466 | 8261 | 5.6 | Punjabi (Pakistan) <https://hosted.weblate.org/projects/iso-codes/iso-15924/pa_PK/> | 
+ | [iso-codes](/f38/package/iso-codes) | 466 | 8261 | 5.6 | Punjabi (Pakistan) <https://hosted.weblate.org/projects/iso-codes/iso-15924/pa_PK/> | 
 {.sortable}
 
 

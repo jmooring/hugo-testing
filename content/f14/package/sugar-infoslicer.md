@@ -18,81 +18,81 @@ The package sugar-infoslicer (version 8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/nl.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/vi.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/af.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/am.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ar.po | 
- | [ay]({{< ref "/f14/language/ay.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ay.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bg.po | 
- | [bi]({{< ref "/f14/language/bi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bi.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bn.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bn_IN.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ca.po | 
- | [cpp]({{< ref "/f14/language/cpp.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/cpp.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/de.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/dz.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/el.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/en.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 0 | 355 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tzo.po/mnt/stockage/packages/f14/sugar-infoslicer/po/pis.po/mnt/stockage/packages/f14/sugar-infoslicer/po/mvo.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fa.po | 
- | [ff]({{< ref "/f14/language/ff.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ff.po | 
- | [fil]({{< ref "/f14/language/fil.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fil.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/gu.po | 
- | [ha]({{< ref "/f14/language/ha.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ha.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/he.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/hi.po | 
- | [ht]({{< ref "/f14/language/ht.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ht.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/hu.po | 
- | [ig]({{< ref "/f14/language/ig.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ig.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/is.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ja.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/km.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ko.po | 
- | [kos]({{< ref "/f14/language/kos.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/kos.po | 
- | [mg]({{< ref "/f14/language/mg.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mg.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mk.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ml.po | 
- | [mn]({{< ref "/f14/language/mn.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mn.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mr.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ms.po | 
- | [na]({{< ref "/f14/language/na.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/na.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/nb.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ne.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pa.po | 
- | [pap]({{< ref "/f14/language/pap.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pap.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pl.po | 
- | [prs]({{< ref "/f14/language/prs.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fa_AF.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ps.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pt_BR.po | 
- | [qu]({{< ref "/f14/language/qu.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/qu.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ru.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/rw.po | 
- | [sd]({{< ref "/f14/language/sd.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sd.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/si.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sk.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sl.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sq.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sv.po | 
- | [sw]({{< ref "/f14/language/sw.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sw.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/te.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/th.po | 
- | [tpi]({{< ref "/f14/language/tpi.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tpi.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tr.po | 
- | [tvl]({{< ref "/f14/language/tvl.md" >}}) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tvl.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ug.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ur.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/wa.po | 
- | [yo]({{< ref "/f14/language/yo.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/yo.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/zh_TW.po | 
+ | [es](/f14/language/es) | 183 | 183 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/es.po | 
+ | [fr](/f14/language/fr) | 181 | 181 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fr.po | 
+ | [it](/f14/language/it) | 181 | 181 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/it.po | 
+ | [nl](/f14/language/nl) | 1 | 1 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/nl.po | 
+ | [vi](/f14/language/vi) | 181 | 181 | 100.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/vi.po | 
+ | [af](/f14/language/af) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/af.po | 
+ | [am](/f14/language/am) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/am.po | 
+ | [ar](/f14/language/ar) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ar.po | 
+ | [ay](/f14/language/ay) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ay.po | 
+ | [bg](/f14/language/bg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bg.po | 
+ | [bi](/f14/language/bi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bi.po | 
+ | [bn](/f14/language/bn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bn.po | 
+ | [bn_IN](/f14/language/bn_IN) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ca.po | 
+ | [cpp](/f14/language/cpp) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/cpp.po | 
+ | [cs](/f14/language/cs) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/cs.po | 
+ | [de](/f14/language/de) | 0 | 181 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/de.po | 
+ | [dz](/f14/language/dz) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/dz.po | 
+ | [el](/f14/language/el) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/el.po | 
+ | [en](/f14/language/en) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/en.po | 
+ | [error](/f14/language/error) | 0 | 355 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tzo.po/mnt/stockage/packages/f14/sugar-infoslicer/po/pis.po/mnt/stockage/packages/f14/sugar-infoslicer/po/mvo.po | 
+ | [fa](/f14/language/fa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fa.po | 
+ | [ff](/f14/language/ff) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ff.po | 
+ | [fil](/f14/language/fil) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fil.po | 
+ | [gu](/f14/language/gu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/gu.po | 
+ | [ha](/f14/language/ha) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ha.po | 
+ | [he](/f14/language/he) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/he.po | 
+ | [hi](/f14/language/hi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/hi.po | 
+ | [ht](/f14/language/ht) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ht.po | 
+ | [hu](/f14/language/hu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/hu.po | 
+ | [ig](/f14/language/ig) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ig.po | 
+ | [is](/f14/language/is) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/is.po | 
+ | [ja](/f14/language/ja) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ja.po | 
+ | [km](/f14/language/km) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/km.po | 
+ | [ko](/f14/language/ko) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ko.po | 
+ | [kos](/f14/language/kos) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/kos.po | 
+ | [mg](/f14/language/mg) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mg.po | 
+ | [mk](/f14/language/mk) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mk.po | 
+ | [ml](/f14/language/ml) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ml.po | 
+ | [mn](/f14/language/mn) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mn.po | 
+ | [mr](/f14/language/mr) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/mr.po | 
+ | [ms](/f14/language/ms) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ms.po | 
+ | [na](/f14/language/na) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/na.po | 
+ | [nb_NO](/f14/language/nb_NO) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/nb.po | 
+ | [ne](/f14/language/ne) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ne.po | 
+ | [pa](/f14/language/pa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pa.po | 
+ | [pap](/f14/language/pap) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pap.po | 
+ | [pl](/f14/language/pl) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pl.po | 
+ | [prs](/f14/language/prs) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/fa_AF.po | 
+ | [ps](/f14/language/ps) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ps.po | 
+ | [pt](/f14/language/pt) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/pt_BR.po | 
+ | [qu](/f14/language/qu) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/qu.po | 
+ | [ro](/f14/language/ro) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ro.po | 
+ | [ru](/f14/language/ru) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ru.po | 
+ | [rw](/f14/language/rw) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/rw.po | 
+ | [sd](/f14/language/sd) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sd.po | 
+ | [si](/f14/language/si) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/si.po | 
+ | [sk](/f14/language/sk) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sk.po | 
+ | [sl](/f14/language/sl) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sl.po | 
+ | [sq](/f14/language/sq) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sq.po | 
+ | [sv](/f14/language/sv) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sv.po | 
+ | [sw](/f14/language/sw) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/sw.po | 
+ | [ta](/f14/language/ta) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ta.po | 
+ | [te](/f14/language/te) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/te.po | 
+ | [th](/f14/language/th) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/th.po | 
+ | [tpi](/f14/language/tpi) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tpi.po | 
+ | [tr](/f14/language/tr) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tr.po | 
+ | [tvl](/f14/language/tvl) | 0 | 1 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/tvl.po | 
+ | [ug](/f14/language/ug) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ug.po | 
+ | [ur](/f14/language/ur) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/ur.po | 
+ | [wa](/f14/language/wa) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/wa.po | 
+ | [yo](/f14/language/yo) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/yo.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 0 | 177 | 0.0 | /mnt/stockage/packages/f14/sugar-infoslicer/po/zh_TW.po | 
 {.sortable}
 
 

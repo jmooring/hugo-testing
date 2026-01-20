@@ -18,23 +18,23 @@ The package visualboyadvance-m (version 2.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f26/language/el.md" >}}) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/el.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/it_IT.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/zh_CN.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/de.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/en.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/fr.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/ko.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/nb.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/ru.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 4280 | 4599 | 93.1 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/es_ES.po/mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/es.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1644 | 2258 | 72.8 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/cs.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 554 | 2258 | 24.5 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/nl.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 553 | 2258 | 24.5 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/zh_TW.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 177 | 2258 | 7.8 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/gl.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 43 | 2258 | 1.9 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/tr.po | 
+ | [el](/f26/language/el) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/el.po | 
+ | [id](/f26/language/id) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/id.po | 
+ | [it](/f26/language/it) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/it_IT.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 2341 | 2341 | 100.0 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/zh_CN.po | 
+ | [de](/f26/language/de) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/de.po | 
+ | [en](/f26/language/en) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/en.po | 
+ | [fr](/f26/language/fr) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/fr.po | 
+ | [ko](/f26/language/ko) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/ko.po | 
+ | [nb_NO](/f26/language/nb_NO) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/nb.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/pt_BR.po | 
+ | [ru](/f26/language/ru) | 2221 | 2258 | 98.4 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/ru.po | 
+ | [es](/f26/language/es) | 4280 | 4599 | 93.1 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/es_ES.po/mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/es.po | 
+ | [cs](/f26/language/cs) | 1644 | 2258 | 72.8 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/cs.po | 
+ | [nl](/f26/language/nl) | 554 | 2258 | 24.5 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/nl.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 553 | 2258 | 24.5 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/zh_TW.po | 
+ | [gl](/f26/language/gl) | 177 | 2258 | 7.8 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/gl.po | 
+ | [tr](/f26/language/tr) | 43 | 2258 | 1.9 | /mnt/stockage/packages/f26/visualboyadvance-m/po/wxvbam/tr.po | 
 {.sortable}
 
 

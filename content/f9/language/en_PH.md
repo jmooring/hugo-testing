@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [jokosher]({{< ref "/f9/package/jokosher.md" >}}) | 859 | 1931 | 44.5 | English (Philippines) <en_PH@li.org> | 
+ | [jokosher](/f9/package/jokosher) | 859 | 1931 | 44.5 | English (Philippines) <en_PH@li.org> | 
 {.sortable}
 
 

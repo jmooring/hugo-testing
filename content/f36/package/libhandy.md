@@ -18,32 +18,32 @@ The package libhandy (version 1.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/de.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 1351 | 1351 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/en_GB.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/eu.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 964 | 964 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/fr.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/id.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/ro.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/sv.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/zh_CN.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 1384 | 1408 | 98.3 | /mnt/stockage/packages/f36/libhandy/po/fi.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 933 | 964 | 96.8 | /mnt/stockage/packages/f36/libhandy/po/ca.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 908 | 1119 | 81.1 | /mnt/stockage/packages/f36/libhandy/po/fur.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 630 | 1408 | 44.7 | /mnt/stockage/packages/f36/libhandy/po/sl.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 487 | 1408 | 34.6 | /mnt/stockage/packages/f36/libhandy/po/cs.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 362 | 1408 | 25.7 | /mnt/stockage/packages/f36/libhandy/po/fa.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 336 | 1351 | 24.9 | /mnt/stockage/packages/f36/libhandy/po/oc.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 286 | 1374 | 20.8 | /mnt/stockage/packages/f36/libhandy/po/gl.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 75 | 1408 | 5.3 | /mnt/stockage/packages/f36/libhandy/po/tr.po | 
+ | [de](/f36/language/de) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/de.po | 
+ | [en_GB](/f36/language/en_GB) | 1351 | 1351 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/en_GB.po | 
+ | [es](/f36/language/es) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/es.po | 
+ | [eu](/f36/language/eu) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/eu.po | 
+ | [fr](/f36/language/fr) | 964 | 964 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/fr.po | 
+ | [hr](/f36/language/hr) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/hr.po | 
+ | [hu](/f36/language/hu) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/hu.po | 
+ | [id](/f36/language/id) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/id.po | 
+ | [nl](/f36/language/nl) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/nl.po | 
+ | [pl](/f36/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/pl.po | 
+ | [pt](/f36/language/pt) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 1374 | 1374 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/ro.po | 
+ | [sr](/f36/language/sr) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/sr.po | 
+ | [sv](/f36/language/sv) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/sv.po | 
+ | [uk](/f36/language/uk) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1408 | 1408 | 100.0 | /mnt/stockage/packages/f36/libhandy/po/zh_CN.po | 
+ | [fi](/f36/language/fi) | 1384 | 1408 | 98.3 | /mnt/stockage/packages/f36/libhandy/po/fi.po | 
+ | [ca](/f36/language/ca) | 933 | 964 | 96.8 | /mnt/stockage/packages/f36/libhandy/po/ca.po | 
+ | [fur](/f36/language/fur) | 908 | 1119 | 81.1 | /mnt/stockage/packages/f36/libhandy/po/fur.po | 
+ | [sl](/f36/language/sl) | 630 | 1408 | 44.7 | /mnt/stockage/packages/f36/libhandy/po/sl.po | 
+ | [cs](/f36/language/cs) | 487 | 1408 | 34.6 | /mnt/stockage/packages/f36/libhandy/po/cs.po | 
+ | [fa](/f36/language/fa) | 362 | 1408 | 25.7 | /mnt/stockage/packages/f36/libhandy/po/fa.po | 
+ | [oc](/f36/language/oc) | 336 | 1351 | 24.9 | /mnt/stockage/packages/f36/libhandy/po/oc.po | 
+ | [gl](/f36/language/gl) | 286 | 1374 | 20.8 | /mnt/stockage/packages/f36/libhandy/po/gl.po | 
+ | [tr](/f36/language/tr) | 75 | 1408 | 5.3 | /mnt/stockage/packages/f36/libhandy/po/tr.po | 
 {.sortable}
 
 

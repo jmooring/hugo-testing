@@ -18,9 +18,9 @@ The package django-avatar (version 2.0a1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f17/django-avatar/avatar/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f17/django-avatar/avatar/locale/fr/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f17/django-avatar/avatar/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [de](/f17/language/de) | 121 | 121 | 100.0 | /mnt/stockage/packages/f17/django-avatar/avatar/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f17/language/fr) | 121 | 121 | 100.0 | /mnt/stockage/packages/f17/django-avatar/avatar/locale/fr/LC_MESSAGES/django.po | 
+ | [pt_BR](/f17/language/pt_BR) | 47 | 47 | 100.0 | /mnt/stockage/packages/f17/django-avatar/avatar/locale/pt_BR/LC_MESSAGES/django.po | 
 {.sortable}
 
 

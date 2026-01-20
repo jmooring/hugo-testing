@@ -18,18 +18,18 @@ The package fcitx5-unikey (version 5.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ru.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/vi.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/zh_TW.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 260 | 270 | 96.3 | /mnt/stockage/packages/f38/fcitx5-unikey/po/fr.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 89 | 270 | 33.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ko.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 20 | 270 | 7.4 | /mnt/stockage/packages/f38/fcitx5-unikey/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 20 | 270 | 7.4 | /mnt/stockage/packages/f38/fcitx5-unikey/po/de.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 20 | 270 | 7.4 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ja.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 19 | 270 | 7.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/tr.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 17 | 270 | 6.3 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ca.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 9 | 270 | 3.3 | /mnt/stockage/packages/f38/fcitx5-unikey/po/he.po | 
+ | [ru](/f38/language/ru) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ru.po | 
+ | [vi](/f38/language/vi) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/vi.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 270 | 270 | 100.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/zh_TW.po | 
+ | [fr](/f38/language/fr) | 260 | 270 | 96.3 | /mnt/stockage/packages/f38/fcitx5-unikey/po/fr.po | 
+ | [ko](/f38/language/ko) | 89 | 270 | 33.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ko.po | 
+ | [da](/f38/language/da) | 20 | 270 | 7.4 | /mnt/stockage/packages/f38/fcitx5-unikey/po/da.po | 
+ | [de](/f38/language/de) | 20 | 270 | 7.4 | /mnt/stockage/packages/f38/fcitx5-unikey/po/de.po | 
+ | [ja](/f38/language/ja) | 20 | 270 | 7.4 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ja.po | 
+ | [tr](/f38/language/tr) | 19 | 270 | 7.0 | /mnt/stockage/packages/f38/fcitx5-unikey/po/tr.po | 
+ | [ca](/f38/language/ca) | 17 | 270 | 6.3 | /mnt/stockage/packages/f38/fcitx5-unikey/po/ca.po | 
+ | [he](/f38/language/he) | 9 | 270 | 3.3 | /mnt/stockage/packages/f38/fcitx5-unikey/po/he.po | 
 {.sortable}
 
 

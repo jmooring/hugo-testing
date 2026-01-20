@@ -18,28 +18,28 @@ The package kupfer (version 208):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/cs/cs.po/mnt/stockage/packages/f25/kupfer/po/cs.po | 
- | [en]({{< ref "/f25/language/en.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/en.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/es/es.po/mnt/stockage/packages/f25/kupfer/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/fr/fr.po/mnt/stockage/packages/f25/kupfer/po/fr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 2479 | 2479 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/hu.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 6030 | 6030 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/pl/pl.po/mnt/stockage/packages/f25/kupfer/po/pl.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 2530 | 2530 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/pt_BR.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/sl/sl.po/mnt/stockage/packages/f25/kupfer/po/sl.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/sv.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 2566 | 2603 | 98.6 | /mnt/stockage/packages/f25/kupfer/po/ru.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 3586 | 4000 | 89.6 | /mnt/stockage/packages/f25/kupfer/help/it/it.po/mnt/stockage/packages/f25/kupfer/po/it.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 147 | 166 | 88.6 | /mnt/stockage/packages/f25/kupfer/po/en_GB.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 2111 | 2479 | 85.2 | /mnt/stockage/packages/f25/kupfer/po/zh_CN.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 2065 | 2479 | 83.3 | /mnt/stockage/packages/f25/kupfer/po/eu.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 2065 | 2479 | 83.3 | /mnt/stockage/packages/f25/kupfer/po/gl.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 2065 | 2479 | 83.3 | /mnt/stockage/packages/f25/kupfer/po/ko.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 2062 | 2479 | 83.2 | /mnt/stockage/packages/f25/kupfer/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 4818 | 6112 | 78.8 | /mnt/stockage/packages/f25/kupfer/help/de/de.po/mnt/stockage/packages/f25/kupfer/po/de.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 1816 | 2479 | 73.3 | /mnt/stockage/packages/f25/kupfer/po/tr.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 1524 | 2479 | 61.5 | /mnt/stockage/packages/f25/kupfer/po/pt.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 1487 | 2479 | 60.0 | /mnt/stockage/packages/f25/kupfer/po/nl.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 799 | 2479 | 32.2 | /mnt/stockage/packages/f25/kupfer/po/nb.po | 
+ | [cs](/f25/language/cs) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/cs/cs.po/mnt/stockage/packages/f25/kupfer/po/cs.po | 
+ | [en](/f25/language/en) | 97 | 97 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/en.po | 
+ | [es](/f25/language/es) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/es/es.po/mnt/stockage/packages/f25/kupfer/po/es.po | 
+ | [fr](/f25/language/fr) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/fr/fr.po/mnt/stockage/packages/f25/kupfer/po/fr.po | 
+ | [hu](/f25/language/hu) | 2479 | 2479 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/hu.po | 
+ | [pl](/f25/language/pl) | 6030 | 6030 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/pl/pl.po/mnt/stockage/packages/f25/kupfer/po/pl.po | 
+ | [pt_BR](/f25/language/pt_BR) | 2530 | 2530 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/pt_BR.po | 
+ | [sl](/f25/language/sl) | 6126 | 6126 | 100.0 | /mnt/stockage/packages/f25/kupfer/help/sl/sl.po/mnt/stockage/packages/f25/kupfer/po/sl.po | 
+ | [sv](/f25/language/sv) | 2603 | 2603 | 100.0 | /mnt/stockage/packages/f25/kupfer/po/sv.po | 
+ | [ru](/f25/language/ru) | 2566 | 2603 | 98.6 | /mnt/stockage/packages/f25/kupfer/po/ru.po | 
+ | [it](/f25/language/it) | 3586 | 4000 | 89.6 | /mnt/stockage/packages/f25/kupfer/help/it/it.po/mnt/stockage/packages/f25/kupfer/po/it.po | 
+ | [en_GB](/f25/language/en_GB) | 147 | 166 | 88.6 | /mnt/stockage/packages/f25/kupfer/po/en_GB.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 2111 | 2479 | 85.2 | /mnt/stockage/packages/f25/kupfer/po/zh_CN.po | 
+ | [eu](/f25/language/eu) | 2065 | 2479 | 83.3 | /mnt/stockage/packages/f25/kupfer/po/eu.po | 
+ | [gl](/f25/language/gl) | 2065 | 2479 | 83.3 | /mnt/stockage/packages/f25/kupfer/po/gl.po | 
+ | [ko](/f25/language/ko) | 2065 | 2479 | 83.3 | /mnt/stockage/packages/f25/kupfer/po/ko.po | 
+ | [da](/f25/language/da) | 2062 | 2479 | 83.2 | /mnt/stockage/packages/f25/kupfer/po/da.po | 
+ | [de](/f25/language/de) | 4818 | 6112 | 78.8 | /mnt/stockage/packages/f25/kupfer/help/de/de.po/mnt/stockage/packages/f25/kupfer/po/de.po | 
+ | [tr](/f25/language/tr) | 1816 | 2479 | 73.3 | /mnt/stockage/packages/f25/kupfer/po/tr.po | 
+ | [pt](/f25/language/pt) | 1524 | 2479 | 61.5 | /mnt/stockage/packages/f25/kupfer/po/pt.po | 
+ | [nl](/f25/language/nl) | 1487 | 2479 | 60.0 | /mnt/stockage/packages/f25/kupfer/po/nl.po | 
+ | [nb_NO](/f25/language/nb_NO) | 799 | 2479 | 32.2 | /mnt/stockage/packages/f25/kupfer/po/nb.po | 
 {.sortable}
 
 

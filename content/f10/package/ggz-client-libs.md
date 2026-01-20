@@ -18,41 +18,41 @@ The package ggz-client-libs (version 0.0.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ar.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 441 | 441 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggz-config/de.po/mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/dz.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/et.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/gu.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/hu.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/mk.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/nl.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/oc.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/pa.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/sv.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/th.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/zh_HK.po | 
+ | [ar](/f10/language/ar) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ar.po | 
+ | [bg](/f10/language/bg) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/bg.po | 
+ | [ca](/f10/language/ca) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ca.po | 
+ | [cs](/f10/language/cs) | 43 | 43 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/cs.po | 
+ | [cy](/f10/language/cy) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/cy.po | 
+ | [da](/f10/language/da) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/da.po | 
+ | [de](/f10/language/de) | 441 | 441 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggz-config/de.po/mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/de.po | 
+ | [dz](/f10/language/dz) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/dz.po | 
+ | [en_GB](/f10/language/en_GB) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/en_GB.po | 
+ | [es](/f10/language/es) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/es.po | 
+ | [et](/f10/language/et) | 33 | 33 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/et.po | 
+ | [fi](/f10/language/fi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/fi.po | 
+ | [fr](/f10/language/fr) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/fr.po | 
+ | [gl](/f10/language/gl) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/gl.po | 
+ | [gu](/f10/language/gu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/gu.po | 
+ | [hu](/f10/language/hu) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/hu.po | 
+ | [ja](/f10/language/ja) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ja.po | 
+ | [ko](/f10/language/ko) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ko.po | 
+ | [lt](/f10/language/lt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/lt.po | 
+ | [lv](/f10/language/lv) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/lv.po | 
+ | [mk](/f10/language/mk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/mk.po | 
+ | [nb_NO](/f10/language/nb_NO) | 59 | 59 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/nb.po | 
+ | [nl](/f10/language/nl) | 39 | 39 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/nl.po | 
+ | [oc](/f10/language/oc) | 9 | 9 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/oc.po | 
+ | [pa](/f10/language/pa) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/pa.po | 
+ | [pt](/f10/language/pt) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/pt_BR.po | 
+ | [ru](/f10/language/ru) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/ru.po | 
+ | [sv](/f10/language/sv) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/sv.po | 
+ | [th](/f10/language/th) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/th.po | 
+ | [uk](/f10/language/uk) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/uk.po | 
+ | [vi](/f10/language/vi) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 72 | 72 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 70 | 70 | 100.0 | /mnt/stockage/packages/f10/ggz-client-libs/po/ggzcore/zh_HK.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f16/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 61993 | 95497 | 64.9 | LANGUAGE <LL@li.org> | 
+ | [alacarte](/f16/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [libreoffice](/f16/package/libreoffice) | 61993 | 95497 | 64.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

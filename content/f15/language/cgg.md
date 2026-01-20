@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f15/package/pootle.md" >}}) | 2319 | 2424 | 95.7 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f15/package/virtaal.md" >}}) | 1395 | 1653 | 84.4 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f15/package/pootle) | 2319 | 2424 | 95.7 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f15/package/virtaal) | 1395 | 1653 | 84.4 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

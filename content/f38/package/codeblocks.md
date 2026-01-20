@@ -18,29 +18,29 @@ The package codeblocks (version 20.03):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/fr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/gl.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/nl.po | 
- | [nl_BE]({{< ref "/f38/language/nl_BE.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/nl_BE.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/pl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f38/language/pt_PT.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/pt_PT.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/sv.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/tg.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 549 | 613 | 89.6 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/nb_NO.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 465 | 613 | 75.9 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ie.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 418 | 613 | 68.2 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ru.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 162 | 613 | 26.4 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/is.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 56 | 613 | 9.1 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/uk.po | 
- | [ky]({{< ref "/f38/language/ky.md" >}}) | 26 | 613 | 4.2 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ky.po | 
+ | [ca](/f38/language/ca) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ca.po | 
+ | [cs](/f38/language/cs) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/cs.po | 
+ | [da](/f38/language/da) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/da.po | 
+ | [de](/f38/language/de) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/de.po | 
+ | [es](/f38/language/es) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/es.po | 
+ | [fr](/f38/language/fr) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/fr.po | 
+ | [gl](/f38/language/gl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/gl.po | 
+ | [hr](/f38/language/hr) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hr.po | 
+ | [hu](/f38/language/hu) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/hu.po | 
+ | [it](/f38/language/it) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/it.po | 
+ | [nl](/f38/language/nl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/nl.po | 
+ | [nl_BE](/f38/language/nl_BE) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/nl_BE.po | 
+ | [pl](/f38/language/pl) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/pl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/pt_BR.po | 
+ | [pt_PT](/f38/language/pt_PT) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/pt_PT.po | 
+ | [sv](/f38/language/sv) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/sv.po | 
+ | [tg](/f38/language/tg) | 613 | 613 | 100.0 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/tg.po | 
+ | [nb_NO](/f38/language/nb_NO) | 549 | 613 | 89.6 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/nb_NO.po | 
+ | [ie](/f38/language/ie) | 465 | 613 | 75.9 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ie.po | 
+ | [ru](/f38/language/ru) | 418 | 613 | 68.2 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ru.po | 
+ | [is](/f38/language/is) | 162 | 613 | 26.4 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/is.po | 
+ | [uk](/f38/language/uk) | 56 | 613 | 9.1 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/uk.po | 
+ | [ky](/f38/language/ky) | 26 | 613 | 4.2 | /mnt/stockage/packages/f38/codeblocks/src/plugins/contrib/SpellChecker/hunspell/po/ky.po | 
 {.sortable}
 
 

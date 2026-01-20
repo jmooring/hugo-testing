@@ -18,41 +18,41 @@ The package xfce4-mpc-plugin (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/el.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/es.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/eu.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/he.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ko.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/lt.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/nl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/sk.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/zh_CN.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ar.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/lv.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/sv.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/zh_TW.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 35 | 76 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ast.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 35 | 76 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/sq.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 35 | 76 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/tr.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 70 | 152 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ur_PK.po/mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ur.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 30 | 76 | 39.5 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/hr.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 22 | 76 | 28.9 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/pl.po | 
+ | [ca](/f18/language/ca) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ca.po | 
+ | [cs](/f18/language/cs) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/cs.po | 
+ | [da](/f18/language/da) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/da.po | 
+ | [de](/f18/language/de) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/de.po | 
+ | [el](/f18/language/el) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/el.po | 
+ | [en_GB](/f18/language/en_GB) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/en_GB.po | 
+ | [es](/f18/language/es) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/es.po | 
+ | [eu](/f18/language/eu) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/eu.po | 
+ | [fr](/f18/language/fr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/fr.po | 
+ | [gl](/f18/language/gl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/gl.po | 
+ | [he](/f18/language/he) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/he.po | 
+ | [hu](/f18/language/hu) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/hu.po | 
+ | [id](/f18/language/id) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/id.po | 
+ | [it](/f18/language/it) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/it.po | 
+ | [ja](/f18/language/ja) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ja.po | 
+ | [ko](/f18/language/ko) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ko.po | 
+ | [lt](/f18/language/lt) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/lt.po | 
+ | [nl](/f18/language/nl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/nl.po | 
+ | [pt](/f18/language/pt) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ru.po | 
+ | [sk](/f18/language/sk) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/sk.po | 
+ | [ug](/f18/language/ug) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ug.po | 
+ | [uk](/f18/language/uk) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/uk.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 76 | 76 | 100.0 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/zh_CN.po | 
+ | [ar](/f18/language/ar) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ar.po | 
+ | [lv](/f18/language/lv) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/lv.po | 
+ | [sv](/f18/language/sv) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/sv.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 69 | 76 | 90.8 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/zh_TW.po | 
+ | [ast](/f18/language/ast) | 35 | 76 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ast.po | 
+ | [sq](/f18/language/sq) | 35 | 76 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/sq.po | 
+ | [tr](/f18/language/tr) | 35 | 76 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/tr.po | 
+ | [ur](/f18/language/ur) | 70 | 152 | 46.1 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ur_PK.po/mnt/stockage/packages/f18/xfce4-mpc-plugin/po/ur.po | 
+ | [hr](/f18/language/hr) | 30 | 76 | 39.5 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/hr.po | 
+ | [pl](/f18/language/pl) | 22 | 76 | 28.9 | /mnt/stockage/packages/f18/xfce4-mpc-plugin/po/pl.po | 
 {.sortable}
 
 

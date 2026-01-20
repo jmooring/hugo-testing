@@ -18,17 +18,17 @@ The package mingw-gnutls (version 2.12.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f18/language/en.md" >}}) | 2454 | 2454 | 100.0 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/en@quot.po/mnt/stockage/packages/f18/mingw-gnutls/lib/po/en@boldquot.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/cs.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/it.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/pl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/sv.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/vi.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 876 | 1227 | 71.4 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/zh_CN.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 852 | 1227 | 69.4 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/ms.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 561 | 1227 | 45.7 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/de.po | 
+ | [en](/f18/language/en) | 2454 | 2454 | 100.0 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/en@quot.po/mnt/stockage/packages/f18/mingw-gnutls/lib/po/en@boldquot.po | 
+ | [cs](/f18/language/cs) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/cs.po | 
+ | [fr](/f18/language/fr) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/fr.po | 
+ | [it](/f18/language/it) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/it.po | 
+ | [nl](/f18/language/nl) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/nl.po | 
+ | [pl](/f18/language/pl) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/pl.po | 
+ | [sv](/f18/language/sv) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/sv.po | 
+ | [vi](/f18/language/vi) | 1053 | 1227 | 85.8 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/vi.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 876 | 1227 | 71.4 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/zh_CN.po | 
+ | [ms](/f18/language/ms) | 852 | 1227 | 69.4 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/ms.po | 
+ | [de](/f18/language/de) | 561 | 1227 | 45.7 | /mnt/stockage/packages/f18/mingw-gnutls/lib/po/de.po | 
 {.sortable}
 
 

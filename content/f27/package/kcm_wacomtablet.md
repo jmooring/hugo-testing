@@ -18,48 +18,48 @@ The package kcm_wacomtablet (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/bs/wacomtablet.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ca/wacomtablet.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/da/wacomtablet.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/el/wacomtablet.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/en_GB/wacomtablet.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/es/wacomtablet.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/fi/wacomtablet.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/gl/wacomtablet.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ko/wacomtablet.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/nds/wacomtablet.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/nl/wacomtablet.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pl/wacomtablet.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pt/wacomtablet.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pt_BR/wacomtablet.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/sk/wacomtablet.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/sl/wacomtablet.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/sv/wacomtablet.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/uk/wacomtablet.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 867 | 898 | 96.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/de/wacomtablet.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 756 | 898 | 84.2 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/nb/wacomtablet.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 753 | 898 | 83.9 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ru/wacomtablet.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ca@valencia/wacomtablet.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/fr/wacomtablet.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/kk/wacomtablet.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/zh_TW/wacomtablet.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 568 | 898 | 63.3 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/hu/wacomtablet.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 405 | 898 | 45.1 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/cs/wacomtablet.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 231 | 898 | 25.7 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/bg/wacomtablet.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 219 | 898 | 24.4 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ja/wacomtablet.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 139 | 898 | 15.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/et/wacomtablet.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 135 | 898 | 15.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/km/wacomtablet.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 131 | 898 | 14.6 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/mr/wacomtablet.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 103 | 898 | 11.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/lt/wacomtablet.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 74 | 898 | 8.2 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pa/wacomtablet.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 73 | 898 | 8.1 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ro/wacomtablet.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 67 | 898 | 7.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/tr/wacomtablet.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 66 | 898 | 7.3 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ug/wacomtablet.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 34 | 898 | 3.8 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/eo/wacomtablet.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 24 | 898 | 2.7 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/zh_CN/wacomtablet.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 23 | 898 | 2.6 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ga/wacomtablet.po | 
- | [mai]({{< ref "/f27/language/mai.md" >}}) | 9 | 898 | 1.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/mai/wacomtablet.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 1 | 898 | 0.1 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ast/wacomtablet.po | 
+ | [bs](/f27/language/bs) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/bs/wacomtablet.po | 
+ | [ca](/f27/language/ca) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ca/wacomtablet.po | 
+ | [da](/f27/language/da) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/da/wacomtablet.po | 
+ | [el](/f27/language/el) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/el/wacomtablet.po | 
+ | [en_GB](/f27/language/en_GB) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/en_GB/wacomtablet.po | 
+ | [es](/f27/language/es) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/es/wacomtablet.po | 
+ | [fi](/f27/language/fi) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/fi/wacomtablet.po | 
+ | [gl](/f27/language/gl) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/gl/wacomtablet.po | 
+ | [ko](/f27/language/ko) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ko/wacomtablet.po | 
+ | [nds](/f27/language/nds) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/nds/wacomtablet.po | 
+ | [nl](/f27/language/nl) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/nl/wacomtablet.po | 
+ | [pl](/f27/language/pl) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pl/wacomtablet.po | 
+ | [pt](/f27/language/pt) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pt/wacomtablet.po | 
+ | [pt_BR](/f27/language/pt_BR) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pt_BR/wacomtablet.po | 
+ | [sk](/f27/language/sk) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/sk/wacomtablet.po | 
+ | [sl](/f27/language/sl) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/sl/wacomtablet.po | 
+ | [sv](/f27/language/sv) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/sv/wacomtablet.po | 
+ | [uk](/f27/language/uk) | 898 | 898 | 100.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/uk/wacomtablet.po | 
+ | [de](/f27/language/de) | 867 | 898 | 96.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/de/wacomtablet.po | 
+ | [nb_NO](/f27/language/nb_NO) | 756 | 898 | 84.2 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/nb/wacomtablet.po | 
+ | [ru](/f27/language/ru) | 753 | 898 | 83.9 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ru/wacomtablet.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ca@valencia/wacomtablet.po | 
+ | [fr](/f27/language/fr) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/fr/wacomtablet.po | 
+ | [kk](/f27/language/kk) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/kk/wacomtablet.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 750 | 898 | 83.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/zh_TW/wacomtablet.po | 
+ | [hu](/f27/language/hu) | 568 | 898 | 63.3 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/hu/wacomtablet.po | 
+ | [cs](/f27/language/cs) | 405 | 898 | 45.1 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/cs/wacomtablet.po | 
+ | [bg](/f27/language/bg) | 231 | 898 | 25.7 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/bg/wacomtablet.po | 
+ | [ja](/f27/language/ja) | 219 | 898 | 24.4 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ja/wacomtablet.po | 
+ | [et](/f27/language/et) | 139 | 898 | 15.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/et/wacomtablet.po | 
+ | [km](/f27/language/km) | 135 | 898 | 15.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/km/wacomtablet.po | 
+ | [mr](/f27/language/mr) | 131 | 898 | 14.6 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/mr/wacomtablet.po | 
+ | [lt](/f27/language/lt) | 103 | 898 | 11.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/lt/wacomtablet.po | 
+ | [pa](/f27/language/pa) | 74 | 898 | 8.2 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/pa/wacomtablet.po | 
+ | [ro](/f27/language/ro) | 73 | 898 | 8.1 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ro/wacomtablet.po | 
+ | [tr](/f27/language/tr) | 67 | 898 | 7.5 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/tr/wacomtablet.po | 
+ | [ug](/f27/language/ug) | 66 | 898 | 7.3 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ug/wacomtablet.po | 
+ | [eo](/f27/language/eo) | 34 | 898 | 3.8 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/eo/wacomtablet.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 24 | 898 | 2.7 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/zh_CN/wacomtablet.po | 
+ | [ga](/f27/language/ga) | 23 | 898 | 2.6 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ga/wacomtablet.po | 
+ | [mai](/f27/language/mai) | 9 | 898 | 1.0 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/mai/wacomtablet.po | 
+ | [ast](/f27/language/ast) | 1 | 898 | 0.1 | /mnt/stockage/packages/f27/kcm_wacomtablet/po/ast/wacomtablet.po | 
 {.sortable}
 
 

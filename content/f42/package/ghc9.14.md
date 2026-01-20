@@ -18,26 +18,26 @@ The package ghc9.14 (version 9.14.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f42/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/da/LC_MESSAGES/sphinx.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/de/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/et/LC_MESSAGES/sphinx.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/fa_IR/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/fr/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/it/LC_MESSAGES/sphinx.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/lt/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/pl/LC_MESSAGES/sphinx.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/pt/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/ru/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/sv/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/tr/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/en/LC_MESSAGES/sphinx.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/hr/LC_MESSAGES/sphinx.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/hu/LC_MESSAGES/sphinx.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/zh_TW/LC_MESSAGES/sphinx.po | 
+ | [da](/f42/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/da/LC_MESSAGES/sphinx.po | 
+ | [de](/f42/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/de/LC_MESSAGES/sphinx.po | 
+ | [es](/f42/language/es) | 89 | 89 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [et](/f42/language/et) | 89 | 89 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/et/LC_MESSAGES/sphinx.po | 
+ | [fa](/f42/language/fa) | 88 | 88 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/fa_IR/LC_MESSAGES/sphinx.po | 
+ | [fr](/f42/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [it](/f42/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/it/LC_MESSAGES/sphinx.po | 
+ | [lt](/f42/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/lt/LC_MESSAGES/sphinx.po | 
+ | [nl](/f42/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pl](/f42/language/pl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [pt](/f42/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/pt/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f42/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [ru](/f42/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [sv](/f42/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [tr](/f42/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [en](/f42/language/en) | 0 | 99 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [hr](/f42/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/hr/LC_MESSAGES/sphinx.po | 
+ | [hu](/f42/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/hu/LC_MESSAGES/sphinx.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f42/ghc9.14/docs/users_guide/rtd-theme/locale/zh_TW/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

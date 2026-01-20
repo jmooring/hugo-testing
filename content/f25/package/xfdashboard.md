@@ -18,14 +18,14 @@ The package xfdashboard (version 0.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 5914 | 5914 | 100.0 | /mnt/stockage/packages/f25/xfdashboard/po/fr.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 4251 | 5914 | 71.9 | /mnt/stockage/packages/f25/xfdashboard/po/sr.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 1399 | 5914 | 23.7 | /mnt/stockage/packages/f25/xfdashboard/po/lt.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 1068 | 5914 | 18.1 | /mnt/stockage/packages/f25/xfdashboard/po/es.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 1043 | 5914 | 17.6 | /mnt/stockage/packages/f25/xfdashboard/po/ca.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 972 | 5914 | 16.4 | /mnt/stockage/packages/f25/xfdashboard/po/el.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 100 | 5914 | 1.7 | /mnt/stockage/packages/f25/xfdashboard/po/he.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 1 | 5914 | 0.0 | /mnt/stockage/packages/f25/xfdashboard/po/it_IT.po | 
+ | [fr](/f25/language/fr) | 5914 | 5914 | 100.0 | /mnt/stockage/packages/f25/xfdashboard/po/fr.po | 
+ | [sr](/f25/language/sr) | 4251 | 5914 | 71.9 | /mnt/stockage/packages/f25/xfdashboard/po/sr.po | 
+ | [lt](/f25/language/lt) | 1399 | 5914 | 23.7 | /mnt/stockage/packages/f25/xfdashboard/po/lt.po | 
+ | [es](/f25/language/es) | 1068 | 5914 | 18.1 | /mnt/stockage/packages/f25/xfdashboard/po/es.po | 
+ | [ca](/f25/language/ca) | 1043 | 5914 | 17.6 | /mnt/stockage/packages/f25/xfdashboard/po/ca.po | 
+ | [el](/f25/language/el) | 972 | 5914 | 16.4 | /mnt/stockage/packages/f25/xfdashboard/po/el.po | 
+ | [he](/f25/language/he) | 100 | 5914 | 1.7 | /mnt/stockage/packages/f25/xfdashboard/po/he.po | 
+ | [it](/f25/language/it) | 1 | 5914 | 0.0 | /mnt/stockage/packages/f25/xfdashboard/po/it_IT.po | 
 {.sortable}
 
 

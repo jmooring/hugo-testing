@@ -18,7 +18,7 @@ The package six (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f17/language/it.md" >}}) | 233 | 233 | 100.0 | /mnt/stockage/packages/f17/six/po/it.po | 
+ | [it](/f17/language/it) | 233 | 233 | 100.0 | /mnt/stockage/packages/f17/six/po/it.po | 
 {.sortable}
 
 

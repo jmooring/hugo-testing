@@ -18,15 +18,15 @@ The package weechat (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1580 | 13898 | 11.4 | /mnt/stockage/packages/f14/weechat/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 833 | 13898 | 6.0 | /mnt/stockage/packages/f14/weechat/po/ru.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 778 | 13898 | 5.6 | /mnt/stockage/packages/f14/weechat/po/hu.po | 
+ | [cs](/f14/language/cs) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/cs.po | 
+ | [de](/f14/language/de) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/de.po | 
+ | [es](/f14/language/es) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/es.po | 
+ | [fr](/f14/language/fr) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/fr.po | 
+ | [it](/f14/language/it) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/it.po | 
+ | [pl](/f14/language/pl) | 13898 | 13898 | 100.0 | /mnt/stockage/packages/f14/weechat/po/pl.po | 
+ | [pt](/f14/language/pt) | 1580 | 13898 | 11.4 | /mnt/stockage/packages/f14/weechat/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 833 | 13898 | 6.0 | /mnt/stockage/packages/f14/weechat/po/ru.po | 
+ | [hu](/f14/language/hu) | 778 | 13898 | 5.6 | /mnt/stockage/packages/f14/weechat/po/hu.po | 
 {.sortable}
 
 

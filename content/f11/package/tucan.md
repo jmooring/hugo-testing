@@ -18,18 +18,18 @@ The package tucan (version 0.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/cs/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/fr/fr.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/it/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/pl/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/pt/pt.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/ru/ru.po | 
- | [se]({{< ref "/f11/language/se.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/se/se.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/sk/sk.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 111 | 114 | 97.4 | /mnt/stockage/packages/f11/tucan/i18n/de/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 110 | 114 | 96.5 | /mnt/stockage/packages/f11/tucan/i18n/gr/gr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 105 | 114 | 92.1 | /mnt/stockage/packages/f11/tucan/i18n/es/es.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 0 | 114 | 0.0 | /mnt/stockage/packages/f11/tucan/i18n/en/en.po | 
+ | [cs](/f11/language/cs) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/cs/cs.po | 
+ | [fr](/f11/language/fr) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/fr/fr.po | 
+ | [it](/f11/language/it) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/it/it.po | 
+ | [pl](/f11/language/pl) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/pl/pl.po | 
+ | [pt](/f11/language/pt) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/pt/pt.po | 
+ | [ru](/f11/language/ru) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/ru/ru.po | 
+ | [se](/f11/language/se) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/se/se.po | 
+ | [sk](/f11/language/sk) | 114 | 114 | 100.0 | /mnt/stockage/packages/f11/tucan/i18n/sk/sk.po | 
+ | [de](/f11/language/de) | 111 | 114 | 97.4 | /mnt/stockage/packages/f11/tucan/i18n/de/de.po | 
+ | [el](/f11/language/el) | 110 | 114 | 96.5 | /mnt/stockage/packages/f11/tucan/i18n/gr/gr.po | 
+ | [es](/f11/language/es) | 105 | 114 | 92.1 | /mnt/stockage/packages/f11/tucan/i18n/es/es.po | 
+ | [en](/f11/language/en) | 0 | 114 | 0.0 | /mnt/stockage/packages/f11/tucan/i18n/en/en.po | 
 {.sortable}
 
 

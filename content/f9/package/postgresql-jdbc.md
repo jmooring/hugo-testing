@@ -18,19 +18,19 @@ The package postgresql-jdbc (version 8.3.603):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 1534 | 1534 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/pt_BR.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/sr.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 1534 | 1534 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/tr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/zh_TW.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 823 | 1266 | 65.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/cs.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 674 | 1232 | 54.7 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 361 | 1421 | 25.4 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/ru.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 229 | 1041 | 22.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/es.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 110 | 996 | 11.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/nl.po | 
+ | [de](/f9/language/de) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/de.po | 
+ | [fr](/f9/language/fr) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/fr.po | 
+ | [it](/f9/language/it) | 1433 | 1433 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 1534 | 1534 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/pt_BR.po | 
+ | [sr](/f9/language/sr) | 1487 | 1487 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/sr.po | 
+ | [tr](/f9/language/tr) | 1534 | 1534 | 100.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/tr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1116 | 1534 | 72.8 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/zh_TW.po | 
+ | [cs](/f9/language/cs) | 823 | 1266 | 65.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/cs.po | 
+ | [pl](/f9/language/pl) | 674 | 1232 | 54.7 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/pl.po | 
+ | [ru](/f9/language/ru) | 361 | 1421 | 25.4 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/ru.po | 
+ | [es](/f9/language/es) | 229 | 1041 | 22.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/es.po | 
+ | [nl](/f9/language/nl) | 110 | 996 | 11.0 | /mnt/stockage/packages/f9/postgresql-jdbc/org/postgresql/translation/nl.po | 
 {.sortable}
 
 

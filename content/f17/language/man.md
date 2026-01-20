@@ -39,13 +39,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [davfs2]({{< ref "/f17/package/davfs2.md" >}}) | 5276 | 5276 | 100.0 |  | 
- | [kde-i18n]({{< ref "/f17/package/kde-i18n.md" >}}) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [mkvtoolnix]({{< ref "/f17/package/mkvtoolnix.md" >}}) | 13698 | 14043 | 97.5 | none | 
- | [dpkg]({{< ref "/f17/package/dpkg.md" >}}) | 26824 | 27501 | 97.5 | de <debian-l10n-german@lists.debian.org> | 
- | [shadow-utils]({{< ref "/f17/package/shadow-utils.md" >}}) | 2252 | 16355 | 13.8 | Danish <debian-l10n-danish@lists.debian.org> | 
- | [po4a]({{< ref "/f17/package/po4a.md" >}}) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wine-docs]({{< ref "/f17/package/wine-docs.md" >}}) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [davfs2](/f17/package/davfs2) | 5276 | 5276 | 100.0 |  | 
+ | [kde-i18n](/f17/package/kde-i18n) | 181 | 181 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [mkvtoolnix](/f17/package/mkvtoolnix) | 13698 | 14043 | 97.5 | none | 
+ | [dpkg](/f17/package/dpkg) | 26824 | 27501 | 97.5 | de <debian-l10n-german@lists.debian.org> | 
+ | [shadow-utils](/f17/package/shadow-utils) | 2252 | 16355 | 13.8 | Danish <debian-l10n-danish@lists.debian.org> | 
+ | [po4a](/f17/package/po4a) | 0 | 36 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wine-docs](/f17/package/wine-docs) | 0 | 38 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

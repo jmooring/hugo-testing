@@ -18,42 +18,42 @@ The package agenda (version 1.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/fr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/it.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/lt.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/pl.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/ru.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/sr.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/tr.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/zh_CN.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 40 | 43 | 93.0 | /mnt/stockage/packages/f27/agenda/po/ur.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 39 | 43 | 90.7 | /mnt/stockage/packages/f27/agenda/po/pt_BR.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 38 | 43 | 88.4 | /mnt/stockage/packages/f27/agenda/po/gl.po | 
- | [ka]({{< ref "/f27/language/ka.md" >}}) | 38 | 43 | 88.4 | /mnt/stockage/packages/f27/agenda/po/ka.po | 
- | [ms]({{< ref "/f27/language/ms.md" >}}) | 38 | 43 | 88.4 | /mnt/stockage/packages/f27/agenda/po/ms.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 27 | 43 | 62.8 | /mnt/stockage/packages/f27/agenda/po/ca.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 8 | 43 | 18.6 | /mnt/stockage/packages/f27/agenda/po/nn.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 7 | 43 | 16.3 | /mnt/stockage/packages/f27/agenda/po/ug.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/da.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/el.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/en_GB.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/et.po | 
- | [fr_CA]({{< ref "/f27/language/fr_CA.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/fr_CA.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/km.po | 
- | [la]({{< ref "/f27/language/la.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/la.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/nb.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/pt.po | 
- | [sr_Latn]({{< ref "/f27/language/sr_Latn.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/sr@latin.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/sv.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/af.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/eo.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/fi.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/he.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/id.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 0 | 43 | 0.0 | /mnt/stockage/packages/f27/agenda/po/nl.po | 
+ | [de](/f27/language/de) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/de.po | 
+ | [es](/f27/language/es) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/es.po | 
+ | [fr](/f27/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/fr.po | 
+ | [it](/f27/language/it) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/it.po | 
+ | [ko](/f27/language/ko) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/ko.po | 
+ | [lt](/f27/language/lt) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/lt.po | 
+ | [pl](/f27/language/pl) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/pl.po | 
+ | [ru](/f27/language/ru) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/ru.po | 
+ | [sr](/f27/language/sr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/sr.po | 
+ | [tr](/f27/language/tr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/tr.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 43 | 43 | 100.0 | /mnt/stockage/packages/f27/agenda/po/zh_CN.po | 
+ | [ur](/f27/language/ur) | 40 | 43 | 93.0 | /mnt/stockage/packages/f27/agenda/po/ur.po | 
+ | [pt_BR](/f27/language/pt_BR) | 39 | 43 | 90.7 | /mnt/stockage/packages/f27/agenda/po/pt_BR.po | 
+ | [gl](/f27/language/gl) | 38 | 43 | 88.4 | /mnt/stockage/packages/f27/agenda/po/gl.po | 
+ | [ka](/f27/language/ka) | 38 | 43 | 88.4 | /mnt/stockage/packages/f27/agenda/po/ka.po | 
+ | [ms](/f27/language/ms) | 38 | 43 | 88.4 | /mnt/stockage/packages/f27/agenda/po/ms.po | 
+ | [ca](/f27/language/ca) | 27 | 43 | 62.8 | /mnt/stockage/packages/f27/agenda/po/ca.po | 
+ | [nn](/f27/language/nn) | 8 | 43 | 18.6 | /mnt/stockage/packages/f27/agenda/po/nn.po | 
+ | [ug](/f27/language/ug) | 7 | 43 | 16.3 | /mnt/stockage/packages/f27/agenda/po/ug.po | 
+ | [da](/f27/language/da) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/da.po | 
+ | [el](/f27/language/el) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/el.po | 
+ | [en_GB](/f27/language/en_GB) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/en_GB.po | 
+ | [et](/f27/language/et) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/et.po | 
+ | [fr_CA](/f27/language/fr_CA) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/fr_CA.po | 
+ | [km](/f27/language/km) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/km.po | 
+ | [la](/f27/language/la) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/la.po | 
+ | [nb_NO](/f27/language/nb_NO) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/nb.po | 
+ | [pt](/f27/language/pt) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/pt.po | 
+ | [sr_Latn](/f27/language/sr_Latn) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/sr@latin.po | 
+ | [sv](/f27/language/sv) | 5 | 43 | 11.6 | /mnt/stockage/packages/f27/agenda/po/sv.po | 
+ | [af](/f27/language/af) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/af.po | 
+ | [eo](/f27/language/eo) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/eo.po | 
+ | [fi](/f27/language/fi) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/fi.po | 
+ | [he](/f27/language/he) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/he.po | 
+ | [id](/f27/language/id) | 2 | 43 | 4.7 | /mnt/stockage/packages/f27/agenda/po/id.po | 
+ | [nl](/f27/language/nl) | 0 | 43 | 0.0 | /mnt/stockage/packages/f27/agenda/po/nl.po | 
 {.sortable}
 
 

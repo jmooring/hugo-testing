@@ -18,15 +18,15 @@ The package gjots2 (version 2.3.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 945 | 954 | 99.1 | /mnt/stockage/packages/f22/gjots2/po/de_DE.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 912 | 954 | 95.6 | /mnt/stockage/packages/f22/gjots2/po/cs.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 912 | 954 | 95.6 | /mnt/stockage/packages/f22/gjots2/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 912 | 954 | 95.6 | /mnt/stockage/packages/f22/gjots2/po/fr.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 903 | 954 | 94.7 | /mnt/stockage/packages/f22/gjots2/po/sl.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 802 | 954 | 84.1 | /mnt/stockage/packages/f22/gjots2/po/it.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 1604 | 1908 | 84.1 | /mnt/stockage/packages/f22/gjots2/po/nb.po/mnt/stockage/packages/f22/gjots2/po/no.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 802 | 954 | 84.1 | /mnt/stockage/packages/f22/gjots2/po/ru.po | 
- | [en_US]({{< ref "/f22/language/en_US.md" >}}) | 785 | 954 | 82.3 | /mnt/stockage/packages/f22/gjots2/po/en_US.po | 
+ | [de](/f22/language/de) | 945 | 954 | 99.1 | /mnt/stockage/packages/f22/gjots2/po/de_DE.po | 
+ | [cs](/f22/language/cs) | 912 | 954 | 95.6 | /mnt/stockage/packages/f22/gjots2/po/cs.po | 
+ | [es](/f22/language/es) | 912 | 954 | 95.6 | /mnt/stockage/packages/f22/gjots2/po/es.po | 
+ | [fr](/f22/language/fr) | 912 | 954 | 95.6 | /mnt/stockage/packages/f22/gjots2/po/fr.po | 
+ | [sl](/f22/language/sl) | 903 | 954 | 94.7 | /mnt/stockage/packages/f22/gjots2/po/sl.po | 
+ | [it](/f22/language/it) | 802 | 954 | 84.1 | /mnt/stockage/packages/f22/gjots2/po/it.po | 
+ | [nb_NO](/f22/language/nb_NO) | 1604 | 1908 | 84.1 | /mnt/stockage/packages/f22/gjots2/po/nb.po/mnt/stockage/packages/f22/gjots2/po/no.po | 
+ | [ru](/f22/language/ru) | 802 | 954 | 84.1 | /mnt/stockage/packages/f22/gjots2/po/ru.po | 
+ | [en_US](/f22/language/en_US) | 785 | 954 | 82.3 | /mnt/stockage/packages/f22/gjots2/po/en_US.po | 
 {.sortable}
 
 

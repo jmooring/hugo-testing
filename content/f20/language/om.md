@@ -40,9 +40,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 469331 | 534764 | 87.8 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 984 | 2569 | 38.3 | Oromo <om@li.org> | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 1469 | 13252 | 11.1 | Oromo <om@li.org> | 
+ | [libreoffice](/f20/package/libreoffice) | 469331 | 534764 | 87.8 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 984 | 2569 | 38.3 | Oromo <om@li.org> | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 1469 | 13252 | 11.1 | Oromo <om@li.org> | 
 {.sortable}
 
 

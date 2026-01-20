@@ -18,20 +18,20 @@ The package meteo (version 0.9.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f37/language/es.md" >}}) | 520 | 520 | 100.0 | /mnt/stockage/packages/f37/meteo/po/es_ES.po/mnt/stockage/packages/f37/meteo/po/es.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f37/meteo/po/tr.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/ca.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/de.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/en.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/fr.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/lt.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/nb.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/oc.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 669 | 780 | 85.8 | /mnt/stockage/packages/f37/meteo/po/pt_PT.po/mnt/stockage/packages/f37/meteo/po/pt_BR.po/mnt/stockage/packages/f37/meteo/po/pt.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/ru.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/sr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/uk.po | 
+ | [es](/f37/language/es) | 520 | 520 | 100.0 | /mnt/stockage/packages/f37/meteo/po/es_ES.po/mnt/stockage/packages/f37/meteo/po/es.po | 
+ | [tr](/f37/language/tr) | 260 | 260 | 100.0 | /mnt/stockage/packages/f37/meteo/po/tr.po | 
+ | [ca](/f37/language/ca) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/ca.po | 
+ | [de](/f37/language/de) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/de.po | 
+ | [en](/f37/language/en) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/en.po | 
+ | [fr](/f37/language/fr) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/fr.po | 
+ | [lt](/f37/language/lt) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/lt.po | 
+ | [nb_NO](/f37/language/nb_NO) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/nb.po | 
+ | [nl](/f37/language/nl) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/nl.po | 
+ | [oc](/f37/language/oc) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/oc.po | 
+ | [pt](/f37/language/pt) | 669 | 780 | 85.8 | /mnt/stockage/packages/f37/meteo/po/pt_PT.po/mnt/stockage/packages/f37/meteo/po/pt_BR.po/mnt/stockage/packages/f37/meteo/po/pt.po | 
+ | [ru](/f37/language/ru) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/ru.po | 
+ | [sr](/f37/language/sr) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/sr.po | 
+ | [uk](/f37/language/uk) | 223 | 260 | 85.8 | /mnt/stockage/packages/f37/meteo/po/uk.po | 
 {.sortable}
 
 

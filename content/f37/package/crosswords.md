@@ -18,10 +18,10 @@ The package crosswords (version 0.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f37/language/es.md" >}}) | 914 | 914 | 100.0 | /mnt/stockage/packages/f37/crosswords/po/es.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 914 | 914 | 100.0 | /mnt/stockage/packages/f37/crosswords/po/fr.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 914 | 914 | 100.0 | /mnt/stockage/packages/f37/crosswords/po/nl.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 913 | 914 | 99.9 | /mnt/stockage/packages/f37/crosswords/po/it.po | 
+ | [es](/f37/language/es) | 914 | 914 | 100.0 | /mnt/stockage/packages/f37/crosswords/po/es.po | 
+ | [fr](/f37/language/fr) | 914 | 914 | 100.0 | /mnt/stockage/packages/f37/crosswords/po/fr.po | 
+ | [nl](/f37/language/nl) | 914 | 914 | 100.0 | /mnt/stockage/packages/f37/crosswords/po/nl.po | 
+ | [it](/f37/language/it) | 913 | 914 | 99.9 | /mnt/stockage/packages/f37/crosswords/po/it.po | 
 {.sortable}
 
 

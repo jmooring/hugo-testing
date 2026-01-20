@@ -18,7 +18,7 @@ The package geanyvc (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f11/geanyvc/po/de.po | 
+ | [de](/f11/language/de) | 356 | 356 | 100.0 | /mnt/stockage/packages/f11/geanyvc/po/de.po | 
 {.sortable}
 
 

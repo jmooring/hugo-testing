@@ -18,91 +18,91 @@ The package imsettings (version 1.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f16/language/as.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/as.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ast.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/fr.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/gu.po | 
- | [hi]({{< ref "/f16/language/hi.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/hi.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ko.po | 
- | [ml]({{< ref "/f16/language/ml.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ml.po | 
- | [mr]({{< ref "/f16/language/mr.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/mr.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/pl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ru.po | 
- | [te]({{< ref "/f16/language/te.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/te.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/zh_TW.po | 
- | [ky]({{< ref "/f16/language/ky.md" >}}) | 377 | 404 | 93.3 | /mnt/stockage/packages/f16/imsettings/po/ky.po | 
- | [bg]({{< ref "/f16/language/bg.md" >}}) | 197 | 404 | 48.8 | /mnt/stockage/packages/f16/imsettings/po/bg.po | 
- | [kn]({{< ref "/f16/language/kn.md" >}}) | 190 | 404 | 47.0 | /mnt/stockage/packages/f16/imsettings/po/kn.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 180 | 404 | 44.6 | /mnt/stockage/packages/f16/imsettings/po/or.po | 
- | [bn_IN]({{< ref "/f16/language/bn_IN.md" >}}) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/bn_IN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/ca.po | 
- | [es_MX]({{< ref "/f16/language/es_MX.md" >}}) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/es_MX.po | 
- | [nds]({{< ref "/f16/language/nds.md" >}}) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/nds.po | 
- | [ta]({{< ref "/f16/language/ta.md" >}}) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/ta.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 60 | 404 | 14.9 | /mnt/stockage/packages/f16/imsettings/po/fi.po | 
- | [sr_Cyrl]({{< ref "/f16/language/sr_Cyrl.md" >}}) | 60 | 404 | 14.9 | /mnt/stockage/packages/f16/imsettings/po/sr.po | 
- | [sr_Latn]({{< ref "/f16/language/sr_Latn.md" >}}) | 60 | 404 | 14.9 | /mnt/stockage/packages/f16/imsettings/po/sr@latin.po | 
- | [pt_PT]({{< ref "/f16/language/pt_PT.md" >}}) | 24 | 404 | 5.9 | /mnt/stockage/packages/f16/imsettings/po/pt.po | 
- | [af]({{< ref "/f16/language/af.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/af.po | 
- | [am]({{< ref "/f16/language/am.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/am.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ar.po | 
- | [az]({{< ref "/f16/language/az.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/az.po | 
- | [be]({{< ref "/f16/language/be.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/be.po | 
- | [bn_BD]({{< ref "/f16/language/bn_BD.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/bn.po | 
- | [bs]({{< ref "/f16/language/bs.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/bs.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/cs.po | 
- | [cy]({{< ref "/f16/language/cy.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/cy.po | 
- | [de_CH]({{< ref "/f16/language/de_CH.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/de_CH.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/el.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/en_GB.po | 
- | [eo]({{< ref "/f16/language/eo.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/eo.po | 
- | [et]({{< ref "/f16/language/et.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/et.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/eu_ES.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/fa.po | 
- | [ga]({{< ref "/f16/language/ga.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ga.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/he.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/hr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/hu.po | 
- | [hy]({{< ref "/f16/language/hy.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/hy.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/id.po | 
- | [is]({{< ref "/f16/language/is.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/is.po | 
- | [ka]({{< ref "/f16/language/ka.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ka.po | 
- | [ku]({{< ref "/f16/language/ku.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ku.po | 
- | [la]({{< ref "/f16/language/la.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/la.po | 
- | [lo]({{< ref "/f16/language/lo.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/lo.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/lt.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/lv.po | 
- | [mk]({{< ref "/f16/language/mk.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/mk.po | 
- | [mn]({{< ref "/f16/language/mn.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/mn.po | 
- | [ms]({{< ref "/f16/language/ms.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ms.po | 
- | [my]({{< ref "/f16/language/my.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/my.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nb.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nl.po | 
- | [nn]({{< ref "/f16/language/nn.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nn.po | 
- | [nso]({{< ref "/f16/language/nso.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nso.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ro.po | 
- | [si]({{< ref "/f16/language/si.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/si.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sl.po | 
- | [sq]({{< ref "/f16/language/sq.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sq.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sv.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/th.po | 
- | [tl]({{< ref "/f16/language/tl.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/tl.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/tr.po | 
- | [ur]({{< ref "/f16/language/ur.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ur.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/vi.po | 
- | [xh]({{< ref "/f16/language/xh.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/xh.po | 
- | [zu]({{< ref "/f16/language/zu.md" >}}) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/zu.po | 
+ | [as](/f16/language/as) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/as.po | 
+ | [ast](/f16/language/ast) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ast.po | 
+ | [da](/f16/language/da) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/da.po | 
+ | [de](/f16/language/de) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/de.po | 
+ | [es](/f16/language/es) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/es.po | 
+ | [fr](/f16/language/fr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/fr.po | 
+ | [gu](/f16/language/gu) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/gu.po | 
+ | [hi](/f16/language/hi) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/hi.po | 
+ | [it](/f16/language/it) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/it.po | 
+ | [ja](/f16/language/ja) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ja.po | 
+ | [ko](/f16/language/ko) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ko.po | 
+ | [ml](/f16/language/ml) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ml.po | 
+ | [mr](/f16/language/mr) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/mr.po | 
+ | [pa](/f16/language/pa) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/pa.po | 
+ | [pl](/f16/language/pl) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/pl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/ru.po | 
+ | [te](/f16/language/te) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/te.po | 
+ | [uk](/f16/language/uk) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 404 | 404 | 100.0 | /mnt/stockage/packages/f16/imsettings/po/zh_TW.po | 
+ | [ky](/f16/language/ky) | 377 | 404 | 93.3 | /mnt/stockage/packages/f16/imsettings/po/ky.po | 
+ | [bg](/f16/language/bg) | 197 | 404 | 48.8 | /mnt/stockage/packages/f16/imsettings/po/bg.po | 
+ | [kn](/f16/language/kn) | 190 | 404 | 47.0 | /mnt/stockage/packages/f16/imsettings/po/kn.po | 
+ | [or](/f16/language/or) | 180 | 404 | 44.6 | /mnt/stockage/packages/f16/imsettings/po/or.po | 
+ | [bn_IN](/f16/language/bn_IN) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/bn_IN.po | 
+ | [ca](/f16/language/ca) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/ca.po | 
+ | [es_MX](/f16/language/es_MX) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/es_MX.po | 
+ | [nds](/f16/language/nds) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/nds.po | 
+ | [ta](/f16/language/ta) | 178 | 404 | 44.1 | /mnt/stockage/packages/f16/imsettings/po/ta.po | 
+ | [fi](/f16/language/fi) | 60 | 404 | 14.9 | /mnt/stockage/packages/f16/imsettings/po/fi.po | 
+ | [sr_Cyrl](/f16/language/sr_Cyrl) | 60 | 404 | 14.9 | /mnt/stockage/packages/f16/imsettings/po/sr.po | 
+ | [sr_Latn](/f16/language/sr_Latn) | 60 | 404 | 14.9 | /mnt/stockage/packages/f16/imsettings/po/sr@latin.po | 
+ | [pt_PT](/f16/language/pt_PT) | 24 | 404 | 5.9 | /mnt/stockage/packages/f16/imsettings/po/pt.po | 
+ | [af](/f16/language/af) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/af.po | 
+ | [am](/f16/language/am) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/am.po | 
+ | [ar](/f16/language/ar) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ar.po | 
+ | [az](/f16/language/az) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/az.po | 
+ | [be](/f16/language/be) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/be.po | 
+ | [bn_BD](/f16/language/bn_BD) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/bn.po | 
+ | [bs](/f16/language/bs) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/bs.po | 
+ | [cs](/f16/language/cs) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/cs.po | 
+ | [cy](/f16/language/cy) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/cy.po | 
+ | [de_CH](/f16/language/de_CH) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/de_CH.po | 
+ | [el](/f16/language/el) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/el.po | 
+ | [en_GB](/f16/language/en_GB) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/en_GB.po | 
+ | [eo](/f16/language/eo) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/eo.po | 
+ | [et](/f16/language/et) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/et.po | 
+ | [eu](/f16/language/eu) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/eu_ES.po | 
+ | [fa](/f16/language/fa) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/fa.po | 
+ | [ga](/f16/language/ga) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ga.po | 
+ | [gl](/f16/language/gl) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/gl.po | 
+ | [he](/f16/language/he) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/he.po | 
+ | [hr](/f16/language/hr) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/hr.po | 
+ | [hu](/f16/language/hu) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/hu.po | 
+ | [hy](/f16/language/hy) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/hy.po | 
+ | [id](/f16/language/id) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/id.po | 
+ | [is](/f16/language/is) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/is.po | 
+ | [ka](/f16/language/ka) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ka.po | 
+ | [ku](/f16/language/ku) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ku.po | 
+ | [la](/f16/language/la) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/la.po | 
+ | [lo](/f16/language/lo) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/lo.po | 
+ | [lt](/f16/language/lt) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/lt.po | 
+ | [lv](/f16/language/lv) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/lv.po | 
+ | [mk](/f16/language/mk) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/mk.po | 
+ | [mn](/f16/language/mn) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/mn.po | 
+ | [ms](/f16/language/ms) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ms.po | 
+ | [my](/f16/language/my) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/my.po | 
+ | [nb_NO](/f16/language/nb_NO) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nb.po | 
+ | [nl](/f16/language/nl) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nl.po | 
+ | [nn](/f16/language/nn) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nn.po | 
+ | [nso](/f16/language/nso) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/nso.po | 
+ | [ro](/f16/language/ro) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ro.po | 
+ | [si](/f16/language/si) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/si.po | 
+ | [sk](/f16/language/sk) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sk.po | 
+ | [sl](/f16/language/sl) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sl.po | 
+ | [sq](/f16/language/sq) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sq.po | 
+ | [sv](/f16/language/sv) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/sv.po | 
+ | [th](/f16/language/th) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/th.po | 
+ | [tl](/f16/language/tl) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/tl.po | 
+ | [tr](/f16/language/tr) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/tr.po | 
+ | [ur](/f16/language/ur) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/ur.po | 
+ | [vi](/f16/language/vi) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/vi.po | 
+ | [xh](/f16/language/xh) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/xh.po | 
+ | [zu](/f16/language/zu) | 0 | 404 | 0.0 | /mnt/stockage/packages/f16/imsettings/po/zu.po | 
 {.sortable}
 
 

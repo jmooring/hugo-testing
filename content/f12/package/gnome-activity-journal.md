@@ -18,21 +18,21 @@ The package gnome-activity-journal (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/fr.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 147 | 171 | 86.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/ca.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 64 | 171 | 37.4 | /mnt/stockage/packages/f12/gnome-activity-journal/po/nl.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/da.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/fi.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/hi.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/it.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/pt.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/sv.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/vi.po | 
+ | [cs](/f12/language/cs) | 171 | 171 | 100.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/cs.po | 
+ | [de](/f12/language/de) | 171 | 171 | 100.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/de.po | 
+ | [fr](/f12/language/fr) | 171 | 171 | 100.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/fr.po | 
+ | [ca](/f12/language/ca) | 147 | 171 | 86.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/ca.po | 
+ | [nl](/f12/language/nl) | 64 | 171 | 37.4 | /mnt/stockage/packages/f12/gnome-activity-journal/po/nl.po | 
+ | [da](/f12/language/da) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/da.po | 
+ | [es](/f12/language/es) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/es.po | 
+ | [fi](/f12/language/fi) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/fi.po | 
+ | [hi](/f12/language/hi) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/hi.po | 
+ | [it](/f12/language/it) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/it.po | 
+ | [pt](/f12/language/pt) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/pt.po | 
+ | [ro](/f12/language/ro) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/ro.po | 
+ | [ru](/f12/language/ru) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/ru.po | 
+ | [sv](/f12/language/sv) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/sv.po | 
+ | [vi](/f12/language/vi) | 0 | 171 | 0.0 | /mnt/stockage/packages/f12/gnome-activity-journal/po/vi.po | 
 {.sortable}
 
 

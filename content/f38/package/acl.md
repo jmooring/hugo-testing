@@ -18,13 +18,13 @@ The package acl (version 2.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 506 | 506 | 100.0 | /mnt/stockage/packages/f38/acl/po/de.po | 
- | [error]({{< ref "/f38/language/error.md" >}}) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f38/acl/po/en@quot.po/mnt/stockage/packages/f38/acl/po/en@boldquot.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/es.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/gl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/pl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/sv.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 370 | 506 | 73.1 | /mnt/stockage/packages/f38/acl/po/fr.po | 
+ | [de](/f38/language/de) | 506 | 506 | 100.0 | /mnt/stockage/packages/f38/acl/po/de.po | 
+ | [error](/f38/language/error) | 1012 | 1012 | 100.0 | /mnt/stockage/packages/f38/acl/po/en@quot.po/mnt/stockage/packages/f38/acl/po/en@boldquot.po | 
+ | [es](/f38/language/es) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/es.po | 
+ | [gl](/f38/language/gl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/gl.po | 
+ | [pl](/f38/language/pl) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/pl.po | 
+ | [sv](/f38/language/sv) | 395 | 506 | 78.1 | /mnt/stockage/packages/f38/acl/po/sv.po | 
+ | [fr](/f38/language/fr) | 370 | 506 | 73.1 | /mnt/stockage/packages/f38/acl/po/fr.po | 
 {.sortable}
 
 

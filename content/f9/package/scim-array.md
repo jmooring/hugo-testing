@@ -18,9 +18,9 @@ The package scim-array (version 0.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f9/scim-array/po/ko.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f9/scim-array/po/nl.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f9/scim-array/po/zh_TW.po | 
+ | [ko](/f9/language/ko) | 79 | 79 | 100.0 | /mnt/stockage/packages/f9/scim-array/po/ko.po | 
+ | [nl](/f9/language/nl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f9/scim-array/po/nl.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 79 | 79 | 100.0 | /mnt/stockage/packages/f9/scim-array/po/zh_TW.po | 
 {.sortable}
 
 

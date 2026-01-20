@@ -44,40 +44,40 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f43/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [mate-icon-theme]({{< ref "/f43/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [python-caja]({{< ref "/f43/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/) | 
- | [rabbitvcs]({{< ref "/f43/package/rabbitvcs.md" >}}) | 859 | 931 | 92.3 | Spanish | 
- | [budgie-desktop]({{< ref "/f43/package/budgie-desktop.md" >}}) | 1638 | 1859 | 88.1 | Spanish (Chile) (https://app.transifex.com/buddiesofbudgie/teams/129844/es_CL/) | 
- | [mate-user-guide]({{< ref "/f43/package/mate-user-guide.md" >}}) | 5 | 6 | 83.3 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mozo]({{< ref "/f43/package/mozo.md" >}}) | 34 | 46 | 73.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-notification-daemon]({{< ref "/f43/package/mate-notification-daemon.md" >}}) | 127 | 186 | 68.3 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [nicotine+]({{< ref "/f43/package/nicotine+.md" >}}) | 3136 | 5038 | 62.2 | Spanish (Chile) <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/es_CL/> | 
- | [deepin-daemon]({{< ref "/f43/package/deepin-daemon.md" >}}) | 484 | 1449 | 33.4 | Spanish (Chile) (http://www.transifex.com/projects/p/dde-daemon/language/es_CL/) | 
- | [mate-applets]({{< ref "/f43/package/mate-applets.md" >}}) | 1806 | 15070 | 12.0 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [zathura]({{< ref "/f43/package/zathura.md" >}}) | 236 | 2238 | 10.5 | Spanish (Chile) (http://app.transifex.com/pwmt/zathura/language/es_CL/) | 
- | [caja-extensions]({{< ref "/f43/package/caja-extensions.md" >}}) | 86 | 845 | 10.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 30 | 308 | 9.7 | Spanish (Chile) (http://www.transifex.com/mate/MATE/language/es_CL/) | 
- | [mate-desktop]({{< ref "/f43/package/mate-desktop.md" >}}) | 155 | 2412 | 6.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-calc]({{< ref "/f43/package/mate-calc.md" >}}) | 82 | 1582 | 5.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-media]({{< ref "/f43/package/mate-media.md" >}}) | 7 | 244 | 2.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [atril]({{< ref "/f43/package/atril.md" >}}) | 92 | 4364 | 2.1 | Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-settings-daemon]({{< ref "/f43/package/mate-settings-daemon.md" >}}) | 45 | 2203 | 2.0 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-menus]({{< ref "/f43/package/mate-menus.md" >}}) | 2 | 103 | 1.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [eom]({{< ref "/f43/package/eom.md" >}}) | 21 | 1779 | 1.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-panel]({{< ref "/f43/package/mate-panel.md" >}}) | 58 | 6753 | 0.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-session-manager]({{< ref "/f43/package/mate-session-manager.md" >}}) | 6 | 717 | 0.8 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-sensors-applet]({{< ref "/f43/package/mate-sensors-applet.md" >}}) | 15 | 2160 | 0.7 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-system-monitor]({{< ref "/f43/package/mate-system-monitor.md" >}}) | 32 | 4894 | 0.7 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [engrampa]({{< ref "/f43/package/engrampa.md" >}}) | 12 | 2026 | 0.6 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-control-center]({{< ref "/f43/package/mate-control-center.md" >}}) | 40 | 8260 | 0.5 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-utils]({{< ref "/f43/package/mate-utils.md" >}}) | 39 | 9901 | 0.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-power-manager]({{< ref "/f43/package/mate-power-manager.md" >}}) | 19 | 5123 | 0.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [caja]({{< ref "/f43/package/caja.md" >}}) | 36 | 10156 | 0.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [mate-terminal]({{< ref "/f43/package/mate-terminal.md" >}}) | 18 | 8238 | 0.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
- | [pluma-plugins]({{< ref "/f43/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/) | 
- | [libmatekbd]({{< ref "/f43/package/libmatekbd.md" >}}) | 0 | 0 | 0.0 |  | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Chile) (http://app.transifex.com/mate/MATE/language/es_CL/) | 
+ | [libgweather](/f43/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [mate-icon-theme](/f43/package/mate-icon-theme) | 4 | 4 | 100.0 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [python-caja](/f43/package/python-caja) | 6 | 6 | 100.0 | Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/) | 
+ | [rabbitvcs](/f43/package/rabbitvcs) | 859 | 931 | 92.3 | Spanish | 
+ | [budgie-desktop](/f43/package/budgie-desktop) | 1638 | 1859 | 88.1 | Spanish (Chile) (https://app.transifex.com/buddiesofbudgie/teams/129844/es_CL/) | 
+ | [mate-user-guide](/f43/package/mate-user-guide) | 5 | 6 | 83.3 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mozo](/f43/package/mozo) | 34 | 46 | 73.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-notification-daemon](/f43/package/mate-notification-daemon) | 127 | 186 | 68.3 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [nicotine+](/f43/package/nicotine+) | 3136 | 5038 | 62.2 | Spanish (Chile) <https://hosted.weblate.org/projects/nicotine-plus/nicotine-plus/es_CL/> | 
+ | [deepin-daemon](/f43/package/deepin-daemon) | 484 | 1449 | 33.4 | Spanish (Chile) (http://www.transifex.com/projects/p/dde-daemon/language/es_CL/) | 
+ | [mate-applets](/f43/package/mate-applets) | 1806 | 15070 | 12.0 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [zathura](/f43/package/zathura) | 236 | 2238 | 10.5 | Spanish (Chile) (http://app.transifex.com/pwmt/zathura/language/es_CL/) | 
+ | [caja-extensions](/f43/package/caja-extensions) | 86 | 845 | 10.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-menu](/f43/package/mate-menu) | 30 | 308 | 9.7 | Spanish (Chile) (http://www.transifex.com/mate/MATE/language/es_CL/) | 
+ | [mate-desktop](/f43/package/mate-desktop) | 155 | 2412 | 6.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-calc](/f43/package/mate-calc) | 82 | 1582 | 5.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-media](/f43/package/mate-media) | 7 | 244 | 2.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [atril](/f43/package/atril) | 92 | 4364 | 2.1 | Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-settings-daemon](/f43/package/mate-settings-daemon) | 45 | 2203 | 2.0 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-menus](/f43/package/mate-menus) | 2 | 103 | 1.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [eom](/f43/package/eom) | 21 | 1779 | 1.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-panel](/f43/package/mate-panel) | 58 | 6753 | 0.9 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-session-manager](/f43/package/mate-session-manager) | 6 | 717 | 0.8 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-sensors-applet](/f43/package/mate-sensors-applet) | 15 | 2160 | 0.7 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-system-monitor](/f43/package/mate-system-monitor) | 32 | 4894 | 0.7 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [engrampa](/f43/package/engrampa) | 12 | 2026 | 0.6 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-control-center](/f43/package/mate-control-center) | 40 | 8260 | 0.5 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-utils](/f43/package/mate-utils) | 39 | 9901 | 0.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-power-manager](/f43/package/mate-power-manager) | 19 | 5123 | 0.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [caja](/f43/package/caja) | 36 | 10156 | 0.4 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [mate-terminal](/f43/package/mate-terminal) | 18 | 8238 | 0.2 | Spanish (Chile) (https://app.transifex.com/mate/teams/13566/es_CL/) | 
+ | [pluma-plugins](/f43/package/pluma-plugins) | 1 | 510 | 0.2 | Spanish (Chile) (https://www.transifex.com/mate/teams/13566/es_CL/) | 
+ | [libmatekbd](/f43/package/libmatekbd) | 0 | 0 | 0.0 |  | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Chile) (http://app.transifex.com/mate/MATE/language/es_CL/) | 
 {.sortable}
 
 

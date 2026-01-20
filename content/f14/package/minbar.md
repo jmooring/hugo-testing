@@ -18,18 +18,18 @@ The package minbar (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ar.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/bs.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/es.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/fa.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ps.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ru.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/tr.po | 
- | [ur_PK]({{< ref "/f14/language/ur_PK.md" >}}) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ur_PK.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 412 | 418 | 98.6 | /mnt/stockage/packages/f14/minbar/po/fr.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 412 | 418 | 98.6 | /mnt/stockage/packages/f14/minbar/po/id.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 289 | 418 | 69.1 | /mnt/stockage/packages/f14/minbar/po/ur.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 75 | 418 | 17.9 | /mnt/stockage/packages/f14/minbar/po/no.po | 
+ | [ar](/f14/language/ar) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ar.po | 
+ | [bs](/f14/language/bs) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/bs.po | 
+ | [es](/f14/language/es) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/es.po | 
+ | [fa](/f14/language/fa) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/fa.po | 
+ | [ps](/f14/language/ps) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ps.po | 
+ | [ru](/f14/language/ru) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ru.po | 
+ | [tr](/f14/language/tr) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/tr.po | 
+ | [ur_PK](/f14/language/ur_PK) | 418 | 418 | 100.0 | /mnt/stockage/packages/f14/minbar/po/ur_PK.po | 
+ | [fr](/f14/language/fr) | 412 | 418 | 98.6 | /mnt/stockage/packages/f14/minbar/po/fr.po | 
+ | [id](/f14/language/id) | 412 | 418 | 98.6 | /mnt/stockage/packages/f14/minbar/po/id.po | 
+ | [ur](/f14/language/ur) | 289 | 418 | 69.1 | /mnt/stockage/packages/f14/minbar/po/ur.po | 
+ | [nb_NO](/f14/language/nb_NO) | 75 | 418 | 17.9 | /mnt/stockage/packages/f14/minbar/po/no.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package libhildon (version 2.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 56 | 57 | 98.2 | /mnt/stockage/packages/f15/libhildon/po/en_GB.po | 
+ | [en_GB](/f15/language/en_GB) | 56 | 57 | 98.2 | /mnt/stockage/packages/f15/libhildon/po/en_GB.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package darktable (version 3.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f33/language/af.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/af.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 24280 | 24280 | 100.0 | /mnt/stockage/packages/f33/darktable/doc/man/po/de.po/mnt/stockage/packages/f33/darktable/po/de.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 22185 | 22185 | 100.0 | /mnt/stockage/packages/f33/darktable/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 24207 | 24207 | 100.0 | /mnt/stockage/packages/f33/darktable/doc/man/po/es.po/mnt/stockage/packages/f33/darktable/po/es.po | 
- | [he_IL]({{< ref "/f33/language/he_IL.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/he.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/hu.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/nl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 22185 | 22185 | 100.0 | /mnt/stockage/packages/f33/darktable/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/ru.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/sl.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 22185 | 22185 | 100.0 | /mnt/stockage/packages/f33/darktable/po/uk.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 24278 | 24280 | 100.0 | /mnt/stockage/packages/f33/darktable/doc/man/po/fr.po/mnt/stockage/packages/f33/darktable/po/fr.po | 
+ | [af](/f33/language/af) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/af.po | 
+ | [de](/f33/language/de) | 24280 | 24280 | 100.0 | /mnt/stockage/packages/f33/darktable/doc/man/po/de.po/mnt/stockage/packages/f33/darktable/po/de.po | 
+ | [eo](/f33/language/eo) | 22185 | 22185 | 100.0 | /mnt/stockage/packages/f33/darktable/po/eo.po | 
+ | [es](/f33/language/es) | 24207 | 24207 | 100.0 | /mnt/stockage/packages/f33/darktable/doc/man/po/es.po/mnt/stockage/packages/f33/darktable/po/es.po | 
+ | [he_IL](/f33/language/he_IL) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/he.po | 
+ | [hu](/f33/language/hu) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/hu.po | 
+ | [it](/f33/language/it) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/it.po | 
+ | [nl](/f33/language/nl) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/nl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 22185 | 22185 | 100.0 | /mnt/stockage/packages/f33/darktable/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/ru.po | 
+ | [sl](/f33/language/sl) | 22183 | 22183 | 100.0 | /mnt/stockage/packages/f33/darktable/po/sl.po | 
+ | [uk](/f33/language/uk) | 22185 | 22185 | 100.0 | /mnt/stockage/packages/f33/darktable/po/uk.po | 
+ | [fr](/f33/language/fr) | 24278 | 24280 | 100.0 | /mnt/stockage/packages/f33/darktable/doc/man/po/fr.po/mnt/stockage/packages/f33/darktable/po/fr.po | 
 {.sortable}
 
 

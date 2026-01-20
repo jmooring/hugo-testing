@@ -18,8 +18,8 @@ The package gpixpod (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f10/language/it.md" >}}) | 1185 | 1185 | 100.0 | /mnt/stockage/packages/f10/gpixpod/po/it/it.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 558 | 1185 | 47.1 | /mnt/stockage/packages/f10/gpixpod/po/es/es.po | 
+ | [it](/f10/language/it) | 1185 | 1185 | 100.0 | /mnt/stockage/packages/f10/gpixpod/po/it/it.po | 
+ | [es](/f10/language/es) | 558 | 1185 | 47.1 | /mnt/stockage/packages/f10/gpixpod/po/es/es.po | 
 {.sortable}
 
 

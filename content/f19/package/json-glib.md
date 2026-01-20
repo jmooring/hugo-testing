@@ -18,53 +18,53 @@ The package json-glib (version 0.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f19/language/as.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/as.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ca.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ca@valencia.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/el.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/eo.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/eu.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/it.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/lv.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ml.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sr.po | 
- | [sr_Latn]({{< ref "/f19/language/sr_Latn.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f19/language/zh_Hant_HK.md" >}}) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/zh_HK.po | 
- | [bn_IN]({{< ref "/f19/language/bn_IN.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/bn_IN.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/en_GB.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/hi.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/ja.po | 
- | [ky]({{< ref "/f19/language/ky.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/ky.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/or.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/te.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/tr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/zh_CN.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 212 | 226 | 93.8 | /mnt/stockage/packages/f19/json-glib/po/vi.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 208 | 226 | 92.0 | /mnt/stockage/packages/f19/json-glib/po/ug.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 116 | 226 | 51.3 | /mnt/stockage/packages/f19/json-glib/po/nb.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 96 | 226 | 42.5 | /mnt/stockage/packages/f19/json-glib/po/sv.po | 
- | [tg]({{< ref "/f19/language/tg.md" >}}) | 18 | 226 | 8.0 | /mnt/stockage/packages/f19/json-glib/po/tg.po | 
+ | [as](/f19/language/as) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/as.po | 
+ | [bg](/f19/language/bg) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/bg.po | 
+ | [ca](/f19/language/ca) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ca.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ca@valencia.po | 
+ | [cs](/f19/language/cs) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/cs.po | 
+ | [da](/f19/language/da) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/da.po | 
+ | [de](/f19/language/de) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/de.po | 
+ | [el](/f19/language/el) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/el.po | 
+ | [eo](/f19/language/eo) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/eo.po | 
+ | [es](/f19/language/es) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/es.po | 
+ | [et](/f19/language/et) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/et.po | 
+ | [eu](/f19/language/eu) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/eu.po | 
+ | [fr](/f19/language/fr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/fr.po | 
+ | [gl](/f19/language/gl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/gl.po | 
+ | [hu](/f19/language/hu) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/hu.po | 
+ | [id](/f19/language/id) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/id.po | 
+ | [it](/f19/language/it) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/it.po | 
+ | [ko](/f19/language/ko) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ko.po | 
+ | [lt](/f19/language/lt) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/lt.po | 
+ | [lv](/f19/language/lv) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/lv.po | 
+ | [ml](/f19/language/ml) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ml.po | 
+ | [pa](/f19/language/pa) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pa.po | 
+ | [pl](/f19/language/pl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pl.po | 
+ | [pt](/f19/language/pt) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/ru.po | 
+ | [sk](/f19/language/sk) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sk.po | 
+ | [sl](/f19/language/sl) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sl.po | 
+ | [sr](/f19/language/sr) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sr.po | 
+ | [sr_Latn](/f19/language/sr_Latn) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/sr@latin.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/zh_TW.po | 
+ | [zh_Hant_HK](/f19/language/zh_Hant_HK) | 226 | 226 | 100.0 | /mnt/stockage/packages/f19/json-glib/po/zh_HK.po | 
+ | [bn_IN](/f19/language/bn_IN) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/bn_IN.po | 
+ | [en_GB](/f19/language/en_GB) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/en_GB.po | 
+ | [hi](/f19/language/hi) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/hi.po | 
+ | [ja](/f19/language/ja) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/ja.po | 
+ | [ky](/f19/language/ky) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/ky.po | 
+ | [or](/f19/language/or) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/or.po | 
+ | [te](/f19/language/te) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/te.po | 
+ | [tr](/f19/language/tr) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/tr.po | 
+ | [uk](/f19/language/uk) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 222 | 226 | 98.2 | /mnt/stockage/packages/f19/json-glib/po/zh_CN.po | 
+ | [vi](/f19/language/vi) | 212 | 226 | 93.8 | /mnt/stockage/packages/f19/json-glib/po/vi.po | 
+ | [ug](/f19/language/ug) | 208 | 226 | 92.0 | /mnt/stockage/packages/f19/json-glib/po/ug.po | 
+ | [nb_NO](/f19/language/nb_NO) | 116 | 226 | 51.3 | /mnt/stockage/packages/f19/json-glib/po/nb.po | 
+ | [sv](/f19/language/sv) | 96 | 226 | 42.5 | /mnt/stockage/packages/f19/json-glib/po/sv.po | 
+ | [tg](/f19/language/tg) | 18 | 226 | 8.0 | /mnt/stockage/packages/f19/json-glib/po/tg.po | 
 {.sortable}
 
 

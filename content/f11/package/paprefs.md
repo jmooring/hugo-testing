@@ -18,36 +18,36 @@ The package paprefs (version 0.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/as.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/fr.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/gu.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/it.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/kn.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/mr.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/ms.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/nl.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pt_BR.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sk.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/te.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/th.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/zh_CN.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 69 | 99 | 69.7 | /mnt/stockage/packages/f11/paprefs/po/tr.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 15 | 99 | 15.2 | /mnt/stockage/packages/f11/paprefs/po/el.po | 
+ | [as](/f11/language/as) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/as.po | 
+ | [ca](/f11/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/ca.po | 
+ | [cs](/f11/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/cs.po | 
+ | [da](/f11/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/da.po | 
+ | [de](/f11/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/de.po | 
+ | [es](/f11/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/es.po | 
+ | [fi](/f11/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/fi.po | 
+ | [fr](/f11/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/fr.po | 
+ | [gu](/f11/language/gu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/gu.po | 
+ | [hu](/f11/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/hu.po | 
+ | [it](/f11/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/it.po | 
+ | [kn](/f11/language/kn) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/kn.po | 
+ | [mr](/f11/language/mr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/mr.po | 
+ | [ms](/f11/language/ms) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/ms.po | 
+ | [nl](/f11/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/nl.po | 
+ | [or](/f11/language/or) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/or.po | 
+ | [pa](/f11/language/pa) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pa.po | 
+ | [pl](/f11/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pl.po | 
+ | [pt](/f11/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/pt_BR.po | 
+ | [sk](/f11/language/sk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sk.po | 
+ | [sr](/f11/language/sr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/sv.po | 
+ | [ta](/f11/language/ta) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/ta.po | 
+ | [te](/f11/language/te) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/te.po | 
+ | [th](/f11/language/th) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/th.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 99 | 99 | 100.0 | /mnt/stockage/packages/f11/paprefs/po/zh_CN.po | 
+ | [tr](/f11/language/tr) | 69 | 99 | 69.7 | /mnt/stockage/packages/f11/paprefs/po/tr.po | 
+ | [el](/f11/language/el) | 15 | 99 | 15.2 | /mnt/stockage/packages/f11/paprefs/po/el.po | 
 {.sortable}
 
 

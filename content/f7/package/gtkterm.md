@@ -18,8 +18,8 @@ The package gtkterm (version 0.99.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f7/gtkterm/po/hu.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 585 | 592 | 98.8 | /mnt/stockage/packages/f7/gtkterm/po/fr.po | 
+ | [hu](/f7/language/hu) | 592 | 592 | 100.0 | /mnt/stockage/packages/f7/gtkterm/po/hu.po | 
+ | [fr](/f7/language/fr) | 585 | 592 | 98.8 | /mnt/stockage/packages/f7/gtkterm/po/fr.po | 
 {.sortable}
 
 

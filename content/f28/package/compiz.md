@@ -18,48 +18,48 @@ The package compiz (version 0.8.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 4385 | 4385 | 100.0 | /mnt/stockage/packages/f28/compiz/po/ca.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 4376 | 4386 | 99.8 | /mnt/stockage/packages/f28/compiz/po/en_GB.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3148 | 4385 | 71.8 | /mnt/stockage/packages/f28/compiz/po/ru.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/el.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/fi.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/gl.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/he.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/hu.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/it.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/ja.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/ko.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/pt.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 3124 | 4385 | 71.2 | /mnt/stockage/packages/f28/compiz/po/zh_TW.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 3110 | 4385 | 70.9 | /mnt/stockage/packages/f28/compiz/po/uk.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 3094 | 4385 | 70.6 | /mnt/stockage/packages/f28/compiz/po/eu.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 3079 | 4385 | 70.2 | /mnt/stockage/packages/f28/compiz/po/pl.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 2788 | 4385 | 63.6 | /mnt/stockage/packages/f28/compiz/po/fr.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 2543 | 4385 | 58.0 | /mnt/stockage/packages/f28/compiz/po/sk.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 2457 | 4385 | 56.0 | /mnt/stockage/packages/f28/compiz/po/de.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 2449 | 4385 | 55.8 | /mnt/stockage/packages/f28/compiz/po/nb.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2371 | 4385 | 54.1 | /mnt/stockage/packages/f28/compiz/po/pt_BR.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 2361 | 4385 | 53.8 | /mnt/stockage/packages/f28/compiz/po/nl.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 2360 | 4385 | 53.8 | /mnt/stockage/packages/f28/compiz/po/tr.po | 
- | [or]({{< ref "/f28/language/or.md" >}}) | 2342 | 4385 | 53.4 | /mnt/stockage/packages/f28/compiz/po/or.po | 
- | [gu]({{< ref "/f28/language/gu.md" >}}) | 2142 | 4385 | 48.8 | /mnt/stockage/packages/f28/compiz/po/gu.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 2114 | 4385 | 48.2 | /mnt/stockage/packages/f28/compiz/po/cs.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 2113 | 4385 | 48.2 | /mnt/stockage/packages/f28/compiz/po/sv.po | 
- | [bn_IN]({{< ref "/f28/language/bn_IN.md" >}}) | 2064 | 4385 | 47.1 | /mnt/stockage/packages/f28/compiz/po/bn_IN.po | 
- | [bn]({{< ref "/f28/language/bn.md" >}}) | 2024 | 4385 | 46.2 | /mnt/stockage/packages/f28/compiz/po/bn.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 2017 | 4385 | 46.0 | /mnt/stockage/packages/f28/compiz/po/ro.po | 
- | [hi]({{< ref "/f28/language/hi.md" >}}) | 1479 | 4385 | 33.7 | /mnt/stockage/packages/f28/compiz/po/hi.po | 
- | [pa]({{< ref "/f28/language/pa.md" >}}) | 1407 | 4385 | 32.1 | /mnt/stockage/packages/f28/compiz/po/pa.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 1239 | 4385 | 28.3 | /mnt/stockage/packages/f28/compiz/po/bg.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 1018 | 4385 | 23.2 | /mnt/stockage/packages/f28/compiz/po/da.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 117 | 4385 | 2.7 | /mnt/stockage/packages/f28/compiz/po/sl.po | 
- | [hr]({{< ref "/f28/language/hr.md" >}}) | 80 | 4385 | 1.8 | /mnt/stockage/packages/f28/compiz/po/hr.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 53 | 4385 | 1.2 | /mnt/stockage/packages/f28/compiz/po/sr.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 6 | 4385 | 0.1 | /mnt/stockage/packages/f28/compiz/po/ar.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 5 | 4385 | 0.1 | /mnt/stockage/packages/f28/compiz/po/et.po | 
- | [ta]({{< ref "/f28/language/ta.md" >}}) | 2 | 4385 | 0.0 | /mnt/stockage/packages/f28/compiz/po/ta.po | 
+ | [ca](/f28/language/ca) | 4385 | 4385 | 100.0 | /mnt/stockage/packages/f28/compiz/po/ca.po | 
+ | [en_GB](/f28/language/en_GB) | 4376 | 4386 | 99.8 | /mnt/stockage/packages/f28/compiz/po/en_GB.po | 
+ | [ru](/f28/language/ru) | 3148 | 4385 | 71.8 | /mnt/stockage/packages/f28/compiz/po/ru.po | 
+ | [el](/f28/language/el) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/el.po | 
+ | [es](/f28/language/es) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/es.po | 
+ | [fi](/f28/language/fi) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/fi.po | 
+ | [gl](/f28/language/gl) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/gl.po | 
+ | [he](/f28/language/he) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/he.po | 
+ | [hu](/f28/language/hu) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/hu.po | 
+ | [it](/f28/language/it) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/it.po | 
+ | [ja](/f28/language/ja) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/ja.po | 
+ | [ko](/f28/language/ko) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/ko.po | 
+ | [pt](/f28/language/pt) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/pt.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 3140 | 4385 | 71.6 | /mnt/stockage/packages/f28/compiz/po/zh_CN.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 3124 | 4385 | 71.2 | /mnt/stockage/packages/f28/compiz/po/zh_TW.po | 
+ | [uk](/f28/language/uk) | 3110 | 4385 | 70.9 | /mnt/stockage/packages/f28/compiz/po/uk.po | 
+ | [eu](/f28/language/eu) | 3094 | 4385 | 70.6 | /mnt/stockage/packages/f28/compiz/po/eu.po | 
+ | [pl](/f28/language/pl) | 3079 | 4385 | 70.2 | /mnt/stockage/packages/f28/compiz/po/pl.po | 
+ | [fr](/f28/language/fr) | 2788 | 4385 | 63.6 | /mnt/stockage/packages/f28/compiz/po/fr.po | 
+ | [sk](/f28/language/sk) | 2543 | 4385 | 58.0 | /mnt/stockage/packages/f28/compiz/po/sk.po | 
+ | [de](/f28/language/de) | 2457 | 4385 | 56.0 | /mnt/stockage/packages/f28/compiz/po/de.po | 
+ | [nb_NO](/f28/language/nb_NO) | 2449 | 4385 | 55.8 | /mnt/stockage/packages/f28/compiz/po/nb.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2371 | 4385 | 54.1 | /mnt/stockage/packages/f28/compiz/po/pt_BR.po | 
+ | [nl](/f28/language/nl) | 2361 | 4385 | 53.8 | /mnt/stockage/packages/f28/compiz/po/nl.po | 
+ | [tr](/f28/language/tr) | 2360 | 4385 | 53.8 | /mnt/stockage/packages/f28/compiz/po/tr.po | 
+ | [or](/f28/language/or) | 2342 | 4385 | 53.4 | /mnt/stockage/packages/f28/compiz/po/or.po | 
+ | [gu](/f28/language/gu) | 2142 | 4385 | 48.8 | /mnt/stockage/packages/f28/compiz/po/gu.po | 
+ | [cs](/f28/language/cs) | 2114 | 4385 | 48.2 | /mnt/stockage/packages/f28/compiz/po/cs.po | 
+ | [sv](/f28/language/sv) | 2113 | 4385 | 48.2 | /mnt/stockage/packages/f28/compiz/po/sv.po | 
+ | [bn_IN](/f28/language/bn_IN) | 2064 | 4385 | 47.1 | /mnt/stockage/packages/f28/compiz/po/bn_IN.po | 
+ | [bn](/f28/language/bn) | 2024 | 4385 | 46.2 | /mnt/stockage/packages/f28/compiz/po/bn.po | 
+ | [ro](/f28/language/ro) | 2017 | 4385 | 46.0 | /mnt/stockage/packages/f28/compiz/po/ro.po | 
+ | [hi](/f28/language/hi) | 1479 | 4385 | 33.7 | /mnt/stockage/packages/f28/compiz/po/hi.po | 
+ | [pa](/f28/language/pa) | 1407 | 4385 | 32.1 | /mnt/stockage/packages/f28/compiz/po/pa.po | 
+ | [bg](/f28/language/bg) | 1239 | 4385 | 28.3 | /mnt/stockage/packages/f28/compiz/po/bg.po | 
+ | [da](/f28/language/da) | 1018 | 4385 | 23.2 | /mnt/stockage/packages/f28/compiz/po/da.po | 
+ | [sl](/f28/language/sl) | 117 | 4385 | 2.7 | /mnt/stockage/packages/f28/compiz/po/sl.po | 
+ | [hr](/f28/language/hr) | 80 | 4385 | 1.8 | /mnt/stockage/packages/f28/compiz/po/hr.po | 
+ | [sr](/f28/language/sr) | 53 | 4385 | 1.2 | /mnt/stockage/packages/f28/compiz/po/sr.po | 
+ | [ar](/f28/language/ar) | 6 | 4385 | 0.1 | /mnt/stockage/packages/f28/compiz/po/ar.po | 
+ | [et](/f28/language/et) | 5 | 4385 | 0.1 | /mnt/stockage/packages/f28/compiz/po/et.po | 
+ | [ta](/f28/language/ta) | 2 | 4385 | 0.0 | /mnt/stockage/packages/f28/compiz/po/ta.po | 
 {.sortable}
 
 

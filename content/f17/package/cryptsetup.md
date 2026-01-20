@@ -18,17 +18,17 @@ The package cryptsetup (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/de.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/fr.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/pl.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/vi.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1917 | 2003 | 95.7 | /mnt/stockage/packages/f17/cryptsetup/po/nl.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 1422 | 2003 | 71.0 | /mnt/stockage/packages/f17/cryptsetup/po/fi.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1403 | 2003 | 70.0 | /mnt/stockage/packages/f17/cryptsetup/po/it.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 768 | 2003 | 38.3 | /mnt/stockage/packages/f17/cryptsetup/po/id.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 768 | 2003 | 38.3 | /mnt/stockage/packages/f17/cryptsetup/po/sv.po | 
+ | [cs](/f17/language/cs) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/cs.po | 
+ | [de](/f17/language/de) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/de.po | 
+ | [fr](/f17/language/fr) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/fr.po | 
+ | [pl](/f17/language/pl) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/pl.po | 
+ | [uk](/f17/language/uk) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/uk.po | 
+ | [vi](/f17/language/vi) | 2003 | 2003 | 100.0 | /mnt/stockage/packages/f17/cryptsetup/po/vi.po | 
+ | [nl](/f17/language/nl) | 1917 | 2003 | 95.7 | /mnt/stockage/packages/f17/cryptsetup/po/nl.po | 
+ | [fi](/f17/language/fi) | 1422 | 2003 | 71.0 | /mnt/stockage/packages/f17/cryptsetup/po/fi.po | 
+ | [it](/f17/language/it) | 1403 | 2003 | 70.0 | /mnt/stockage/packages/f17/cryptsetup/po/it.po | 
+ | [id](/f17/language/id) | 768 | 2003 | 38.3 | /mnt/stockage/packages/f17/cryptsetup/po/id.po | 
+ | [sv](/f17/language/sv) | 768 | 2003 | 38.3 | /mnt/stockage/packages/f17/cryptsetup/po/sv.po | 
 {.sortable}
 
 

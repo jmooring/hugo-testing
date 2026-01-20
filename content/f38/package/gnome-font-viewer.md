@@ -18,105 +18,105 @@ The package gnome-font-viewer (version 44.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f38/language/af.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/af.po | 
- | [an]({{< ref "/f38/language/an.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/an.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 527 | 527 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ar.po | 
- | [as]({{< ref "/f38/language/as.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/as.po | 
- | [ast]({{< ref "/f38/language/ast.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ast.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bg.po | 
- | [bn_IN]({{< ref "/f38/language/bn_IN.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bn_IN.po | 
- | [br]({{< ref "/f38/language/br.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/br.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bs.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ca.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ca@valencia.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/de.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/en_GB.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/es.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 47 | 47 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/et.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/eu.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fa.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fr.po | 
- | [gd]({{< ref "/f38/language/gd.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/gd.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/gl.po | 
- | [gu]({{< ref "/f38/language/gu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/gu.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/hi.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/hu.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/it.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/kk.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/km.po | 
- | [kn]({{< ref "/f38/language/kn.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/kn.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ko.po | 
- | [ky]({{< ref "/f38/language/ky.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ky.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/lt.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/lv.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mr.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ms.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ne.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/oc.po | 
- | [or]({{< ref "/f38/language/or.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/or.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pa.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ru.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sr@latin.po/mnt/stockage/packages/f38/gnome-font-viewer/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sv.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ta.po | 
- | [te]({{< ref "/f38/language/te.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/te.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/tg.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/th.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/tr.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ug.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/uk.po | 
- | [uz]({{< ref "/f38/language/uz.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/vi.po | 
- | [xh]({{< ref "/f38/language/xh.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/xh.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/zh_HK.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 46 | 47 | 97.9 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ga.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 515 | 539 | 95.5 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fur.po | 
- | [ckb]({{< ref "/f38/language/ckb.md" >}}) | 460 | 536 | 85.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ckb.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 428 | 539 | 79.4 | /mnt/stockage/packages/f38/gnome-font-viewer/po/he.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 375 | 534 | 70.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sk.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 359 | 534 | 67.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/is.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 347 | 527 | 65.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ml.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 341 | 527 | 64.7 | /mnt/stockage/packages/f38/gnome-font-viewer/po/eo.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 312 | 534 | 58.4 | /mnt/stockage/packages/f38/gnome-font-viewer/po/be.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 300 | 539 | 55.7 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ka.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 253 | 536 | 47.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/el.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 243 | 534 | 45.5 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ie.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 210 | 536 | 39.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 130 | 472 | 27.5 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nb.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 127 | 534 | 23.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ja.po | 
- | [am]({{< ref "/f38/language/am.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/am.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/az.po | 
- | [mn]({{< ref "/f38/language/mn.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mn.po | 
- | [wa]({{< ref "/f38/language/wa.md" >}}) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/wa.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 1 | 32 | 3.1 | /mnt/stockage/packages/f38/gnome-font-viewer/po/cy.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 1 | 32 | 3.1 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nn.po | 
- | [ab]({{< ref "/f38/language/ab.md" >}}) | 15 | 534 | 2.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ab.po | 
- | [be_Latn]({{< ref "/f38/language/be_Latn.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/be@latin.po | 
- | [bn]({{< ref "/f38/language/bn.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bn.po | 
- | [crh]({{< ref "/f38/language/crh.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/crh.po | 
- | [dz]({{< ref "/f38/language/dz.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/dz.po | 
- | [en_CA]({{< ref "/f38/language/en_CA.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/en_CA.po | 
- | [ku]({{< ref "/f38/language/ku.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ku.po | 
- | [mai]({{< ref "/f38/language/mai.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mai.po | 
- | [mg]({{< ref "/f38/language/mg.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mg.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mk.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nds.po | 
- | [ps]({{< ref "/f38/language/ps.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ps.po | 
- | [rw]({{< ref "/f38/language/rw.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/rw.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/si.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sq.po | 
+ | [af](/f38/language/af) | 47 | 47 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/af.po | 
+ | [an](/f38/language/an) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/an.po | 
+ | [ar](/f38/language/ar) | 527 | 527 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ar.po | 
+ | [as](/f38/language/as) | 110 | 110 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/as.po | 
+ | [ast](/f38/language/ast) | 32 | 32 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ast.po | 
+ | [bg](/f38/language/bg) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bg.po | 
+ | [bn_IN](/f38/language/bn_IN) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bn_IN.po | 
+ | [br](/f38/language/br) | 46 | 46 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/br.po | 
+ | [bs](/f38/language/bs) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bs.po | 
+ | [ca](/f38/language/ca) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ca.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 113 | 113 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ca@valencia.po | 
+ | [cs](/f38/language/cs) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/cs.po | 
+ | [da](/f38/language/da) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/da.po | 
+ | [de](/f38/language/de) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/de.po | 
+ | [en_GB](/f38/language/en_GB) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/en_GB.po | 
+ | [es](/f38/language/es) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/es.po | 
+ | [et](/f38/language/et) | 47 | 47 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/et.po | 
+ | [eu](/f38/language/eu) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/eu.po | 
+ | [fa](/f38/language/fa) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fa.po | 
+ | [fi](/f38/language/fi) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fi.po | 
+ | [fr](/f38/language/fr) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fr.po | 
+ | [gd](/f38/language/gd) | 113 | 113 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/gd.po | 
+ | [gl](/f38/language/gl) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/gl.po | 
+ | [gu](/f38/language/gu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/gu.po | 
+ | [hi](/f38/language/hi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/hi.po | 
+ | [hr](/f38/language/hr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/hr.po | 
+ | [hu](/f38/language/hu) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/hu.po | 
+ | [id](/f38/language/id) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/id.po | 
+ | [it](/f38/language/it) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/it.po | 
+ | [kk](/f38/language/kk) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/kk.po | 
+ | [km](/f38/language/km) | 32 | 32 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/km.po | 
+ | [kn](/f38/language/kn) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/kn.po | 
+ | [ko](/f38/language/ko) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ko.po | 
+ | [ky](/f38/language/ky) | 39 | 39 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ky.po | 
+ | [lt](/f38/language/lt) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/lt.po | 
+ | [lv](/f38/language/lv) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/lv.po | 
+ | [mr](/f38/language/mr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mr.po | 
+ | [ms](/f38/language/ms) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ms.po | 
+ | [ne](/f38/language/ne) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ne.po | 
+ | [nl](/f38/language/nl) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nl.po | 
+ | [oc](/f38/language/oc) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/oc.po | 
+ | [or](/f38/language/or) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/or.po | 
+ | [pa](/f38/language/pa) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pa.po | 
+ | [pl](/f38/language/pl) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pl.po | 
+ | [pt](/f38/language/pt) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 536 | 536 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ro.po | 
+ | [ru](/f38/language/ru) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ru.po | 
+ | [sl](/f38/language/sl) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sl.po | 
+ | [sr](/f38/language/sr) | 1009 | 1009 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sr@latin.po/mnt/stockage/packages/f38/gnome-font-viewer/po/sr.po | 
+ | [sv](/f38/language/sv) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sv.po | 
+ | [ta](/f38/language/ta) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ta.po | 
+ | [te](/f38/language/te) | 109 | 109 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/te.po | 
+ | [tg](/f38/language/tg) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/tg.po | 
+ | [th](/f38/language/th) | 130 | 130 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/th.po | 
+ | [tr](/f38/language/tr) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/tr.po | 
+ | [ug](/f38/language/ug) | 46 | 46 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ug.po | 
+ | [uk](/f38/language/uk) | 539 | 539 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/uk.po | 
+ | [uz](/f38/language/uz) | 116 | 116 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/uz@cyrillic.po | 
+ | [vi](/f38/language/vi) | 113 | 113 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/vi.po | 
+ | [xh](/f38/language/xh) | 32 | 32 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/xh.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 534 | 534 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/zh_CN.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 110 | 110 | 100.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/zh_HK.po | 
+ | [ga](/f38/language/ga) | 46 | 47 | 97.9 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ga.po | 
+ | [fur](/f38/language/fur) | 515 | 539 | 95.5 | /mnt/stockage/packages/f38/gnome-font-viewer/po/fur.po | 
+ | [ckb](/f38/language/ckb) | 460 | 536 | 85.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ckb.po | 
+ | [he](/f38/language/he) | 428 | 539 | 79.4 | /mnt/stockage/packages/f38/gnome-font-viewer/po/he.po | 
+ | [sk](/f38/language/sk) | 375 | 534 | 70.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sk.po | 
+ | [is](/f38/language/is) | 359 | 534 | 67.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/is.po | 
+ | [ml](/f38/language/ml) | 347 | 527 | 65.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ml.po | 
+ | [eo](/f38/language/eo) | 341 | 527 | 64.7 | /mnt/stockage/packages/f38/gnome-font-viewer/po/eo.po | 
+ | [be](/f38/language/be) | 312 | 534 | 58.4 | /mnt/stockage/packages/f38/gnome-font-viewer/po/be.po | 
+ | [ka](/f38/language/ka) | 300 | 539 | 55.7 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ka.po | 
+ | [el](/f38/language/el) | 253 | 536 | 47.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/el.po | 
+ | [ie](/f38/language/ie) | 243 | 534 | 45.5 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ie.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 210 | 536 | 39.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/zh_TW.po | 
+ | [nb_NO](/f38/language/nb_NO) | 130 | 472 | 27.5 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nb.po | 
+ | [ja](/f38/language/ja) | 127 | 534 | 23.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ja.po | 
+ | [am](/f38/language/am) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/am.po | 
+ | [az](/f38/language/az) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/az.po | 
+ | [mn](/f38/language/mn) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mn.po | 
+ | [wa](/f38/language/wa) | 2 | 32 | 6.2 | /mnt/stockage/packages/f38/gnome-font-viewer/po/wa.po | 
+ | [cy](/f38/language/cy) | 1 | 32 | 3.1 | /mnt/stockage/packages/f38/gnome-font-viewer/po/cy.po | 
+ | [nn](/f38/language/nn) | 1 | 32 | 3.1 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nn.po | 
+ | [ab](/f38/language/ab) | 15 | 534 | 2.8 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ab.po | 
+ | [be_Latn](/f38/language/be_Latn) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/be@latin.po | 
+ | [bn](/f38/language/bn) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/bn.po | 
+ | [crh](/f38/language/crh) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/crh.po | 
+ | [dz](/f38/language/dz) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/dz.po | 
+ | [en_CA](/f38/language/en_CA) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/en_CA.po | 
+ | [ku](/f38/language/ku) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ku.po | 
+ | [mai](/f38/language/mai) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mai.po | 
+ | [mg](/f38/language/mg) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mg.po | 
+ | [mk](/f38/language/mk) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/mk.po | 
+ | [nds](/f38/language/nds) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/nds.po | 
+ | [ps](/f38/language/ps) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/ps.po | 
+ | [rw](/f38/language/rw) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/rw.po | 
+ | [si](/f38/language/si) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/si.po | 
+ | [sq](/f38/language/sq) | 0 | 32 | 0.0 | /mnt/stockage/packages/f38/gnome-font-viewer/po/sq.po | 
 {.sortable}
 
 

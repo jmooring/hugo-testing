@@ -18,10 +18,10 @@ The package python-oslo-concurrency (version 3.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f26/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po | 
+ | [de](/f26/language/de) | 92 | 92 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
+ | [en_GB](/f26/language/en_GB) | 109 | 109 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f26/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f26/language/es) | 92 | 92 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
+ | [fr](/f26/language/fr) | 92 | 92 | 100.0 | /mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency-log-info.po/mnt/stockage/packages/f26/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po | 
 {.sortable}
 
 

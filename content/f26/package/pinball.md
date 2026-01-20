@@ -18,9 +18,9 @@ The package pinball (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f26/pinball/data/locale/de_DE.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f26/pinball/data/locale/fr_FR.po | 
- | [pt_PT]({{< ref "/f26/language/pt_PT.md" >}}) | 340 | 340 | 100.0 | /mnt/stockage/packages/f26/pinball/data/locale/pt_PT.po | 
+ | [de](/f26/language/de) | 340 | 340 | 100.0 | /mnt/stockage/packages/f26/pinball/data/locale/de_DE.po | 
+ | [fr](/f26/language/fr) | 340 | 340 | 100.0 | /mnt/stockage/packages/f26/pinball/data/locale/fr_FR.po | 
+ | [pt_PT](/f26/language/pt_PT) | 340 | 340 | 100.0 | /mnt/stockage/packages/f26/pinball/data/locale/pt_PT.po | 
 {.sortable}
 
 

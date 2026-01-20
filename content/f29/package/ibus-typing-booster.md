@@ -18,24 +18,24 @@ The package ibus-typing-booster (version 2.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/ar.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/de.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/he.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/pl.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/uk.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1602 | 1778 | 90.1 | /mnt/stockage/packages/f29/ibus-typing-booster/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 1562 | 1778 | 87.9 | /mnt/stockage/packages/f29/ibus-typing-booster/po/fr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 461 | 1778 | 25.9 | /mnt/stockage/packages/f29/ibus-typing-booster/po/hu.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 267 | 1778 | 15.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/or.po | 
- | [sw]({{< ref "/f29/language/sw.md" >}}) | 187 | 1778 | 10.5 | /mnt/stockage/packages/f29/ibus-typing-booster/po/sw.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 164 | 1778 | 9.2 | /mnt/stockage/packages/f29/ibus-typing-booster/po/ja.po | 
- | [pt_PT]({{< ref "/f29/language/pt_PT.md" >}}) | 87 | 1778 | 4.9 | /mnt/stockage/packages/f29/ibus-typing-booster/po/pt_PT.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 83 | 1778 | 4.7 | /mnt/stockage/packages/f29/ibus-typing-booster/po/ca.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 76 | 1778 | 4.3 | /mnt/stockage/packages/f29/ibus-typing-booster/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 30 | 1778 | 1.7 | /mnt/stockage/packages/f29/ibus-typing-booster/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1 | 1778 | 0.1 | /mnt/stockage/packages/f29/ibus-typing-booster/po/zh_TW.po | 
+ | [ar](/f29/language/ar) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/ar.po | 
+ | [cs](/f29/language/cs) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/cs.po | 
+ | [de](/f29/language/de) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/de.po | 
+ | [he](/f29/language/he) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/he.po | 
+ | [nl](/f29/language/nl) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/nl.po | 
+ | [pl](/f29/language/pl) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/pl.po | 
+ | [uk](/f29/language/uk) | 1778 | 1778 | 100.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/uk.po | 
+ | [es](/f29/language/es) | 1602 | 1778 | 90.1 | /mnt/stockage/packages/f29/ibus-typing-booster/po/es.po | 
+ | [fr](/f29/language/fr) | 1562 | 1778 | 87.9 | /mnt/stockage/packages/f29/ibus-typing-booster/po/fr.po | 
+ | [hu](/f29/language/hu) | 461 | 1778 | 25.9 | /mnt/stockage/packages/f29/ibus-typing-booster/po/hu.po | 
+ | [or](/f29/language/or) | 267 | 1778 | 15.0 | /mnt/stockage/packages/f29/ibus-typing-booster/po/or.po | 
+ | [sw](/f29/language/sw) | 187 | 1778 | 10.5 | /mnt/stockage/packages/f29/ibus-typing-booster/po/sw.po | 
+ | [ja](/f29/language/ja) | 164 | 1778 | 9.2 | /mnt/stockage/packages/f29/ibus-typing-booster/po/ja.po | 
+ | [pt_PT](/f29/language/pt_PT) | 87 | 1778 | 4.9 | /mnt/stockage/packages/f29/ibus-typing-booster/po/pt_PT.po | 
+ | [ca](/f29/language/ca) | 83 | 1778 | 4.7 | /mnt/stockage/packages/f29/ibus-typing-booster/po/ca.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 76 | 1778 | 4.3 | /mnt/stockage/packages/f29/ibus-typing-booster/po/zh_CN.po | 
+ | [pt_BR](/f29/language/pt_BR) | 30 | 1778 | 1.7 | /mnt/stockage/packages/f29/ibus-typing-booster/po/pt_BR.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1 | 1778 | 0.1 | /mnt/stockage/packages/f29/ibus-typing-booster/po/zh_TW.po | 
 {.sortable}
 
 

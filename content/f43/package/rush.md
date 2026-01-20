@@ -18,21 +18,21 @@ The package rush (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f43/language/da.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/de.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/fr.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/ro.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/sv.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/zh_CN.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 873 | 893 | 97.8 | /mnt/stockage/packages/f43/rush/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 873 | 893 | 97.8 | /mnt/stockage/packages/f43/rush/po/pt_BR.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 873 | 893 | 97.8 | /mnt/stockage/packages/f43/rush/po/uk.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 647 | 893 | 72.5 | /mnt/stockage/packages/f43/rush/po/fi.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 647 | 893 | 72.5 | /mnt/stockage/packages/f43/rush/po/nl.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 647 | 893 | 72.5 | /mnt/stockage/packages/f43/rush/po/vi.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 367 | 893 | 41.1 | /mnt/stockage/packages/f43/rush/po/gl.po | 
+ | [da](/f43/language/da) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/da.po | 
+ | [de](/f43/language/de) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/de.po | 
+ | [es](/f43/language/es) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/es.po | 
+ | [fr](/f43/language/fr) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/fr.po | 
+ | [ro](/f43/language/ro) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/ro.po | 
+ | [sr](/f43/language/sr) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/sr.po | 
+ | [sv](/f43/language/sv) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/sv.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 893 | 893 | 100.0 | /mnt/stockage/packages/f43/rush/po/zh_CN.po | 
+ | [pl](/f43/language/pl) | 873 | 893 | 97.8 | /mnt/stockage/packages/f43/rush/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 873 | 893 | 97.8 | /mnt/stockage/packages/f43/rush/po/pt_BR.po | 
+ | [uk](/f43/language/uk) | 873 | 893 | 97.8 | /mnt/stockage/packages/f43/rush/po/uk.po | 
+ | [fi](/f43/language/fi) | 647 | 893 | 72.5 | /mnt/stockage/packages/f43/rush/po/fi.po | 
+ | [nl](/f43/language/nl) | 647 | 893 | 72.5 | /mnt/stockage/packages/f43/rush/po/nl.po | 
+ | [vi](/f43/language/vi) | 647 | 893 | 72.5 | /mnt/stockage/packages/f43/rush/po/vi.po | 
+ | [gl](/f43/language/gl) | 367 | 893 | 41.1 | /mnt/stockage/packages/f43/rush/po/gl.po | 
 {.sortable}
 
 

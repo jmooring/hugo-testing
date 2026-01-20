@@ -18,11 +18,11 @@ The package streamtuner (version 0.99.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1955 | 1955 | 100.0 | /mnt/stockage/packages/f8/streamtuner/po/fr.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1283 | 1955 | 65.6 | /mnt/stockage/packages/f8/streamtuner/po/de.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 1230 | 1955 | 62.9 | /mnt/stockage/packages/f8/streamtuner/po/ja.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 673 | 1955 | 34.4 | /mnt/stockage/packages/f8/streamtuner/po/pt.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 573 | 1955 | 29.3 | /mnt/stockage/packages/f8/streamtuner/po/hu.po | 
+ | [fr](/f8/language/fr) | 1955 | 1955 | 100.0 | /mnt/stockage/packages/f8/streamtuner/po/fr.po | 
+ | [de](/f8/language/de) | 1283 | 1955 | 65.6 | /mnt/stockage/packages/f8/streamtuner/po/de.po | 
+ | [ja](/f8/language/ja) | 1230 | 1955 | 62.9 | /mnt/stockage/packages/f8/streamtuner/po/ja.po | 
+ | [pt](/f8/language/pt) | 673 | 1955 | 34.4 | /mnt/stockage/packages/f8/streamtuner/po/pt.po | 
+ | [hu](/f8/language/hu) | 573 | 1955 | 29.3 | /mnt/stockage/packages/f8/streamtuner/po/hu.po | 
 {.sortable}
 
 

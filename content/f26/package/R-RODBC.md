@@ -18,10 +18,10 @@ The package R-RODBC (version 1.3.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f26/language/error.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f26/R-RODBC/po/R-pl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 107 | 107 | 100.0 | /mnt/stockage/packages/f26/R-RODBC/po/pl.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 283 | 305 | 92.8 | /mnt/stockage/packages/f26/R-RODBC/po/da.po/mnt/stockage/packages/f26/R-RODBC/po/R-da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 276 | 305 | 90.5 | /mnt/stockage/packages/f26/R-RODBC/po/R-de.po/mnt/stockage/packages/f26/R-RODBC/po/de.po | 
+ | [error](/f26/language/error) | 198 | 198 | 100.0 | /mnt/stockage/packages/f26/R-RODBC/po/R-pl.po | 
+ | [pl](/f26/language/pl) | 107 | 107 | 100.0 | /mnt/stockage/packages/f26/R-RODBC/po/pl.po | 
+ | [da](/f26/language/da) | 283 | 305 | 92.8 | /mnt/stockage/packages/f26/R-RODBC/po/da.po/mnt/stockage/packages/f26/R-RODBC/po/R-da.po | 
+ | [de](/f26/language/de) | 276 | 305 | 90.5 | /mnt/stockage/packages/f26/R-RODBC/po/R-de.po/mnt/stockage/packages/f26/R-RODBC/po/de.po | 
 {.sortable}
 
 

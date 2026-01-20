@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 39101 | 168400 | 23.2 | Swahili <https://weblate.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/sw_TZ/> | 
+ | [libreoffice](/f37/package/libreoffice) | 39101 | 168400 | 23.2 | Swahili <https://weblate.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/sw_TZ/> | 
 {.sortable}
 
 

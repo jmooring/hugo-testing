@@ -18,17 +18,17 @@ The package nx (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/cs.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/da.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/ja.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/de.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/es.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/fr.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/nl.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/pt_BR.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/tr.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/zh_CN.po | 
+ | [cs](/f9/language/cs) | 243 | 243 | 100.0 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/cs.po | 
+ | [da](/f9/language/da) | 149 | 149 | 100.0 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/da.po | 
+ | [ja](/f9/language/ja) | 149 | 149 | 100.0 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/ja.po | 
+ | [de](/f9/language/de) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/de.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f9/language/es) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/es.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f9/language/fr) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/fr.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f9/language/nl) | 316 | 407 | 77.6 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/nl.po/mnt/stockage/packages/f9/nx/extras/Mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [pt](/f9/language/pt) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/pt_BR.po | 
+ | [tr](/f9/language/tr) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/tr.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 58 | 149 | 38.9 | /mnt/stockage/packages/f9/nx/extras/fontconfig/debian/po/zh_CN.po | 
 {.sortable}
 
 

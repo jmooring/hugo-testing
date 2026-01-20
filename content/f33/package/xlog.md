@@ -18,16 +18,16 @@ The package xlog (version 2.0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1418 | 1510 | 93.9 | /mnt/stockage/packages/f33/xlog/po/nl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 1412 | 1510 | 93.5 | /mnt/stockage/packages/f33/xlog/po/sv.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1336 | 1510 | 88.5 | /mnt/stockage/packages/f33/xlog/po/fr.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/de.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/es.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/it.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/pt.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/sk.po | 
+ | [nl](/f33/language/nl) | 1418 | 1510 | 93.9 | /mnt/stockage/packages/f33/xlog/po/nl.po | 
+ | [sv](/f33/language/sv) | 1412 | 1510 | 93.5 | /mnt/stockage/packages/f33/xlog/po/sv.po | 
+ | [fr](/f33/language/fr) | 1336 | 1510 | 88.5 | /mnt/stockage/packages/f33/xlog/po/fr.po | 
+ | [cs](/f33/language/cs) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/cs.po | 
+ | [de](/f33/language/de) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/de.po | 
+ | [es](/f33/language/es) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/es.po | 
+ | [it](/f33/language/it) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/it.po | 
+ | [pl](/f33/language/pl) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/pl.po | 
+ | [pt](/f33/language/pt) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/pt.po | 
+ | [sk](/f33/language/sk) | 1335 | 1510 | 88.4 | /mnt/stockage/packages/f33/xlog/po/sk.po | 
 {.sortable}
 
 

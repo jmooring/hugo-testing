@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 1077 | 1077 | 100.0 | Wolof | 
- | [newt]({{< ref "/f10/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [tuxtype2]({{< ref "/f10/package/tuxtype2.md" >}}) | 71 | 79 | 89.9 |  | 
- | [ccsm]({{< ref "/f10/package/ccsm.md" >}}) | 399 | 549 | 72.7 | Wolof | 
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 469 | 761 | 61.6 |  | 
+ | [iso-codes](/f10/package/iso-codes) | 1077 | 1077 | 100.0 | Wolof | 
+ | [newt](/f10/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [tuxtype2](/f10/package/tuxtype2) | 71 | 79 | 89.9 |  | 
+ | [ccsm](/f10/package/ccsm) | 399 | 549 | 72.7 | Wolof | 
+ | [tuxpaint](/f10/package/tuxpaint) | 469 | 761 | 61.6 |  | 
 {.sortable}
 
 

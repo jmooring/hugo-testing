@@ -18,17 +18,17 @@ The package pinfo (version 0.6.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/cs.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/nl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/pt_BR.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/ro.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/ru.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/vi.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 311 | 325 | 95.7 | /mnt/stockage/packages/f8/pinfo/po/eu.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 307 | 325 | 94.5 | /mnt/stockage/packages/f8/pinfo/po/pl.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 203 | 325 | 62.5 | /mnt/stockage/packages/f8/pinfo/po/de.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 169 | 325 | 52.0 | /mnt/stockage/packages/f8/pinfo/po/ja.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 83 | 325 | 25.5 | /mnt/stockage/packages/f8/pinfo/po/sv.po | 
+ | [cs](/f8/language/cs) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/cs.po | 
+ | [nl](/f8/language/nl) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/nl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/pt_BR.po | 
+ | [ro](/f8/language/ro) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/ro.po | 
+ | [ru](/f8/language/ru) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/ru.po | 
+ | [vi](/f8/language/vi) | 315 | 325 | 96.9 | /mnt/stockage/packages/f8/pinfo/po/vi.po | 
+ | [eu](/f8/language/eu) | 311 | 325 | 95.7 | /mnt/stockage/packages/f8/pinfo/po/eu.po | 
+ | [pl](/f8/language/pl) | 307 | 325 | 94.5 | /mnt/stockage/packages/f8/pinfo/po/pl.po | 
+ | [de](/f8/language/de) | 203 | 325 | 62.5 | /mnt/stockage/packages/f8/pinfo/po/de.po | 
+ | [ja](/f8/language/ja) | 169 | 325 | 52.0 | /mnt/stockage/packages/f8/pinfo/po/ja.po | 
+ | [sv](/f8/language/sv) | 83 | 325 | 25.5 | /mnt/stockage/packages/f8/pinfo/po/sv.po | 
 {.sortable}
 
 

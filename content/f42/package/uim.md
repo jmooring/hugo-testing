@@ -18,9 +18,9 @@ The package uim (version 1.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 5906 | 6176 | 95.6 | /mnt/stockage/packages/f42/uim/po/ja.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 861 | 6176 | 13.9 | /mnt/stockage/packages/f42/uim/po/ko.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 303 | 6176 | 4.9 | /mnt/stockage/packages/f42/uim/po/fr.po | 
+ | [ja](/f42/language/ja) | 5906 | 6176 | 95.6 | /mnt/stockage/packages/f42/uim/po/ja.po | 
+ | [ko](/f42/language/ko) | 861 | 6176 | 13.9 | /mnt/stockage/packages/f42/uim/po/ko.po | 
+ | [fr](/f42/language/fr) | 303 | 6176 | 4.9 | /mnt/stockage/packages/f42/uim/po/fr.po | 
 {.sortable}
 
 

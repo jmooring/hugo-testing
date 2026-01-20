@@ -18,21 +18,21 @@ The package rush (version 2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f42/language/da.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/fr.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/ro.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/sv.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/zh_CN.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 873 | 893 | 97.8 | /mnt/stockage/packages/f42/rush/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 873 | 893 | 97.8 | /mnt/stockage/packages/f42/rush/po/pt_BR.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 873 | 893 | 97.8 | /mnt/stockage/packages/f42/rush/po/uk.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 647 | 893 | 72.5 | /mnt/stockage/packages/f42/rush/po/fi.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 647 | 893 | 72.5 | /mnt/stockage/packages/f42/rush/po/nl.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 647 | 893 | 72.5 | /mnt/stockage/packages/f42/rush/po/vi.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 367 | 893 | 41.1 | /mnt/stockage/packages/f42/rush/po/gl.po | 
+ | [da](/f42/language/da) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/da.po | 
+ | [de](/f42/language/de) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/de.po | 
+ | [es](/f42/language/es) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/es.po | 
+ | [fr](/f42/language/fr) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/fr.po | 
+ | [ro](/f42/language/ro) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/ro.po | 
+ | [sr](/f42/language/sr) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/sr.po | 
+ | [sv](/f42/language/sv) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/sv.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 893 | 893 | 100.0 | /mnt/stockage/packages/f42/rush/po/zh_CN.po | 
+ | [pl](/f42/language/pl) | 873 | 893 | 97.8 | /mnt/stockage/packages/f42/rush/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 873 | 893 | 97.8 | /mnt/stockage/packages/f42/rush/po/pt_BR.po | 
+ | [uk](/f42/language/uk) | 873 | 893 | 97.8 | /mnt/stockage/packages/f42/rush/po/uk.po | 
+ | [fi](/f42/language/fi) | 647 | 893 | 72.5 | /mnt/stockage/packages/f42/rush/po/fi.po | 
+ | [nl](/f42/language/nl) | 647 | 893 | 72.5 | /mnt/stockage/packages/f42/rush/po/nl.po | 
+ | [vi](/f42/language/vi) | 647 | 893 | 72.5 | /mnt/stockage/packages/f42/rush/po/vi.po | 
+ | [gl](/f42/language/gl) | 367 | 893 | 41.1 | /mnt/stockage/packages/f42/rush/po/gl.po | 
 {.sortable}
 
 

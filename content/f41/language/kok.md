@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f41/package/gnucash.md" >}}) | 22313 | 39621 | 56.3 | NONE | 
- | [inkscape]({{< ref "/f41/package/inkscape.md" >}}) | 16418 | 51335 | 32.0 | Konkani | 
- | [libreoffice]({{< ref "/f41/package/libreoffice.md" >}}) | 42080 | 173415 | 24.3 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kok/> | 
- | [tuxpaint]({{< ref "/f41/package/tuxpaint.md" >}}) | 1112 | 5355 | 20.8 |  | 
- | [iso-codes]({{< ref "/f41/package/iso-codes.md" >}}) | 247 | 14815 | 1.7 | Konkani | 
+ | [gnucash](/f41/package/gnucash) | 22313 | 39621 | 56.3 | NONE | 
+ | [inkscape](/f41/package/inkscape) | 16418 | 51335 | 32.0 | Konkani | 
+ | [libreoffice](/f41/package/libreoffice) | 42080 | 173415 | 24.3 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-master/accessibilitymessages/kok/> | 
+ | [tuxpaint](/f41/package/tuxpaint) | 1112 | 5355 | 20.8 |  | 
+ | [iso-codes](/f41/package/iso-codes) | 247 | 14815 | 1.7 | Konkani | 
 {.sortable}
 
 

@@ -18,117 +18,117 @@ The package initial-setup (version 0.3.93):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f35/language/af.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/af.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/be.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/fur.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/he.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/ko.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/nn.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pa.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pt_BR.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/sk.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/uk.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 106 | 139 | 76.3 | /mnt/stockage/packages/f35/initial-setup/po/ru_RU.po/mnt/stockage/packages/f35/initial-setup/po/ru.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 106 | 139 | 76.3 | /mnt/stockage/packages/f35/initial-setup/po/zh_CN.po/mnt/stockage/packages/f35/initial-setup/po/zh_CN.GB2312.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 106 | 139 | 76.3 | /mnt/stockage/packages/f35/initial-setup/po/zh_TW.po/mnt/stockage/packages/f35/initial-setup/po/zh_TW.Big5.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/as.po | 
- | [bn_IN]({{< ref "/f35/language/bn_IN.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/bn_IN.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/gl.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/gu.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/hi.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/km.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/kn.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/ml.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/mr.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/or.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/ro.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/sr.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/te.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/th.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 20 | 106 | 18.9 | /mnt/stockage/packages/f35/initial-setup/po/ia.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 20 | 139 | 14.4 | /mnt/stockage/packages/f35/initial-setup/po/no.po/mnt/stockage/packages/f35/initial-setup/po/nb.po | 
- | [kab]({{< ref "/f35/language/kab.md" >}}) | 8 | 106 | 7.5 | /mnt/stockage/packages/f35/initial-setup/po/kab.po | 
- | [ach]({{< ref "/f35/language/ach.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ach.po | 
- | [aln]({{< ref "/f35/language/aln.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/aln.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/am.po | 
- | [anp]({{< ref "/f35/language/anp.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/anp.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ar.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ast.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/az.po | 
- | [bal]({{< ref "/f35/language/bal.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bal.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bg.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bn.po | 
- | [bo]({{< ref "/f35/language/bo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bo.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/br.po | 
- | [brx]({{< ref "/f35/language/brx.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/brx.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bs.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/cy.po | 
- | [de_CH]({{< ref "/f35/language/de_CH.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/de_CH.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/dz.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/en_GB.po | 
- | [en_US]({{< ref "/f35/language/en_US.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/en_US.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/eo.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/wba.po/mnt/stockage/packages/f35/initial-setup/po/kw@uccor.po/mnt/stockage/packages/f35/initial-setup/po/kw@kkcor.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/et.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/fa.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ga.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/hr.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/hy.po | 
- | [ilo]({{< ref "/f35/language/ilo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ilo.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/is.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ka.po | 
- | [ks]({{< ref "/f35/language/ks.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ks.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ku.po | 
- | [kw]({{< ref "/f35/language/kw.md" >}}) | 0 | 66 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/kw_GB.po/mnt/stockage/packages/f35/initial-setup/po/kw.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ky.po | 
- | [la]({{< ref "/f35/language/la.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/la.po | 
- | [lo]({{< ref "/f35/language/lo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/lo.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/lv.po | 
- | [mai]({{< ref "/f35/language/mai.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mai.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mg.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mk.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mn.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ms.po | 
- | [my]({{< ref "/f35/language/my.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/my.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/nds.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ne.po | 
- | [nso]({{< ref "/f35/language/nso.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/nso.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 0 | 106 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/si.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/sl.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/sr@latin.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/tg.po | 
- | [tl]({{< ref "/f35/language/tl.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/tl.po | 
- | [tw]({{< ref "/f35/language/tw.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/tw.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ur.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/uz.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/vi.po | 
- | [wo]({{< ref "/f35/language/wo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/wo.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/xh.po | 
- | [yo]({{< ref "/f35/language/yo.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/zh_HK.po | 
- | [zu]({{< ref "/f35/language/zu.md" >}}) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/zu.po | 
+ | [af](/f35/language/af) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/af.po | 
+ | [be](/f35/language/be) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/be.po | 
+ | [ca](/f35/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/ca.po | 
+ | [cs](/f35/language/cs) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/cs.po | 
+ | [da](/f35/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/da.po | 
+ | [de](/f35/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/de.po | 
+ | [es](/f35/language/es) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/es.po | 
+ | [eu](/f35/language/eu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/eu.po | 
+ | [fi](/f35/language/fi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/fi.po | 
+ | [fr](/f35/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/fr.po | 
+ | [fur](/f35/language/fur) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/fur.po | 
+ | [he](/f35/language/he) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/he.po | 
+ | [hu](/f35/language/hu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/hu.po | 
+ | [id](/f35/language/id) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/id.po | 
+ | [it](/f35/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/it.po | 
+ | [ja](/f35/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/ja.po | 
+ | [kk](/f35/language/kk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/kk.po | 
+ | [ko](/f35/language/ko) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/ko.po | 
+ | [nl](/f35/language/nl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/nl.po | 
+ | [nn](/f35/language/nn) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/nn.po | 
+ | [pa](/f35/language/pa) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pa.po | 
+ | [pl](/f35/language/pl) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pl.po | 
+ | [pt](/f35/language/pt) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/pt_BR.po | 
+ | [sk](/f35/language/sk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/sk.po | 
+ | [sv](/f35/language/sv) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/sv.po | 
+ | [tr](/f35/language/tr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/tr.po | 
+ | [uk](/f35/language/uk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f35/initial-setup/po/uk.po | 
+ | [ru](/f35/language/ru) | 106 | 139 | 76.3 | /mnt/stockage/packages/f35/initial-setup/po/ru_RU.po/mnt/stockage/packages/f35/initial-setup/po/ru.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 106 | 139 | 76.3 | /mnt/stockage/packages/f35/initial-setup/po/zh_CN.po/mnt/stockage/packages/f35/initial-setup/po/zh_CN.GB2312.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 106 | 139 | 76.3 | /mnt/stockage/packages/f35/initial-setup/po/zh_TW.po/mnt/stockage/packages/f35/initial-setup/po/zh_TW.Big5.po | 
+ | [as](/f35/language/as) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/as.po | 
+ | [bn_IN](/f35/language/bn_IN) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/bn_IN.po | 
+ | [gl](/f35/language/gl) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/gl.po | 
+ | [gu](/f35/language/gu) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/gu.po | 
+ | [hi](/f35/language/hi) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/hi.po | 
+ | [km](/f35/language/km) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/km.po | 
+ | [kn](/f35/language/kn) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/kn.po | 
+ | [ml](/f35/language/ml) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/ml.po | 
+ | [mr](/f35/language/mr) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/mr.po | 
+ | [or](/f35/language/or) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/or.po | 
+ | [ro](/f35/language/ro) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/ro.po | 
+ | [sq](/f35/language/sq) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/sq.po | 
+ | [sr](/f35/language/sr) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/sr.po | 
+ | [ta](/f35/language/ta) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/ta.po | 
+ | [te](/f35/language/te) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/te.po | 
+ | [th](/f35/language/th) | 33 | 106 | 31.1 | /mnt/stockage/packages/f35/initial-setup/po/th.po | 
+ | [ia](/f35/language/ia) | 20 | 106 | 18.9 | /mnt/stockage/packages/f35/initial-setup/po/ia.po | 
+ | [nb_NO](/f35/language/nb_NO) | 20 | 139 | 14.4 | /mnt/stockage/packages/f35/initial-setup/po/no.po/mnt/stockage/packages/f35/initial-setup/po/nb.po | 
+ | [kab](/f35/language/kab) | 8 | 106 | 7.5 | /mnt/stockage/packages/f35/initial-setup/po/kab.po | 
+ | [ach](/f35/language/ach) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ach.po | 
+ | [aln](/f35/language/aln) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/aln.po | 
+ | [am](/f35/language/am) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/am.po | 
+ | [anp](/f35/language/anp) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/anp.po | 
+ | [ar](/f35/language/ar) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ar.po | 
+ | [ast](/f35/language/ast) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ast.po | 
+ | [az](/f35/language/az) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/az.po | 
+ | [bal](/f35/language/bal) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bal.po | 
+ | [bg](/f35/language/bg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bg.po | 
+ | [bn](/f35/language/bn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bn.po | 
+ | [bo](/f35/language/bo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bo.po | 
+ | [br](/f35/language/br) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/br.po | 
+ | [brx](/f35/language/brx) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/brx.po | 
+ | [bs](/f35/language/bs) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/bs.po | 
+ | [cy](/f35/language/cy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/cy.po | 
+ | [de_CH](/f35/language/de_CH) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/de_CH.po | 
+ | [dz](/f35/language/dz) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/dz.po | 
+ | [el](/f35/language/el) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/en_GB.po | 
+ | [en_US](/f35/language/en_US) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/en_US.po | 
+ | [eo](/f35/language/eo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/eo.po | 
+ | [error](/f35/language/error) | 0 | 99 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/wba.po/mnt/stockage/packages/f35/initial-setup/po/kw@uccor.po/mnt/stockage/packages/f35/initial-setup/po/kw@kkcor.po | 
+ | [et](/f35/language/et) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/et.po | 
+ | [fa](/f35/language/fa) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/fa.po | 
+ | [ga](/f35/language/ga) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ga.po | 
+ | [hr](/f35/language/hr) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/hr.po | 
+ | [hy](/f35/language/hy) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/hy.po | 
+ | [ilo](/f35/language/ilo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ilo.po | 
+ | [is](/f35/language/is) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/is.po | 
+ | [ka](/f35/language/ka) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ka.po | 
+ | [ks](/f35/language/ks) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ks.po | 
+ | [ku](/f35/language/ku) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ku.po | 
+ | [kw](/f35/language/kw) | 0 | 66 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/kw_GB.po/mnt/stockage/packages/f35/initial-setup/po/kw.po | 
+ | [ky](/f35/language/ky) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ky.po | 
+ | [la](/f35/language/la) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/la.po | 
+ | [lo](/f35/language/lo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/lo.po | 
+ | [lt](/f35/language/lt) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/lt.po | 
+ | [lv](/f35/language/lv) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/lv.po | 
+ | [mai](/f35/language/mai) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mai.po | 
+ | [mg](/f35/language/mg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mg.po | 
+ | [mk](/f35/language/mk) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mk.po | 
+ | [mn](/f35/language/mn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/mn.po | 
+ | [ms](/f35/language/ms) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ms.po | 
+ | [my](/f35/language/my) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/my.po | 
+ | [nds](/f35/language/nds) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/nds.po | 
+ | [ne](/f35/language/ne) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ne.po | 
+ | [nso](/f35/language/nso) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/nso.po | 
+ | [si](/f35/language/si) | 0 | 106 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/si.po | 
+ | [sl](/f35/language/sl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/sl.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/sr@latin.po | 
+ | [tg](/f35/language/tg) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/tg.po | 
+ | [tl](/f35/language/tl) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/tl.po | 
+ | [tw](/f35/language/tw) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/tw.po | 
+ | [ur](/f35/language/ur) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/ur.po | 
+ | [uz](/f35/language/uz) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/uz.po | 
+ | [vi](/f35/language/vi) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/vi.po | 
+ | [wo](/f35/language/wo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/wo.po | 
+ | [xh](/f35/language/xh) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/xh.po | 
+ | [yo](/f35/language/yo) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/yo.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/zh_HK.po | 
+ | [zu](/f35/language/zu) | 0 | 33 | 0.0 | /mnt/stockage/packages/f35/initial-setup/po/zu.po | 
 {.sortable}
 
 

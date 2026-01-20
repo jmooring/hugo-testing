@@ -18,37 +18,37 @@ The package regexxer (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/bg.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/de.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/dz.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/en_GB.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/sl.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/sv.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/cs.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/en_CA.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/sr@Latn.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/hu.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/ja.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/ne.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/pt_BR.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/sr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/vi.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/zh_HK.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 426 | 467 | 91.2 | /mnt/stockage/packages/f35/regexxer/po/it.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 205 | 467 | 43.9 | /mnt/stockage/packages/f35/regexxer/po/zh_CN.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 88 | 467 | 18.8 | /mnt/stockage/packages/f35/regexxer/po/pa.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 11 | 467 | 2.4 | /mnt/stockage/packages/f35/regexxer/po/rw.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 0 | 467 | 0.0 | /mnt/stockage/packages/f35/regexxer/po/ar.po | 
+ | [bg](/f35/language/bg) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/bg.po | 
+ | [de](/f35/language/de) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/de.po | 
+ | [dz](/f35/language/dz) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/dz.po | 
+ | [en_GB](/f35/language/en_GB) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/en_GB.po | 
+ | [sl](/f35/language/sl) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/sl.po | 
+ | [sv](/f35/language/sv) | 467 | 467 | 100.0 | /mnt/stockage/packages/f35/regexxer/po/sv.po | 
+ | [ca](/f35/language/ca) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/ca.po | 
+ | [cs](/f35/language/cs) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/cs.po | 
+ | [en_CA](/f35/language/en_CA) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/en_CA.po | 
+ | [error](/f35/language/error) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/sr@Latn.po | 
+ | [es](/f35/language/es) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/es.po | 
+ | [eu](/f35/language/eu) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/eu.po | 
+ | [fi](/f35/language/fi) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/fi.po | 
+ | [fr](/f35/language/fr) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/fr.po | 
+ | [hu](/f35/language/hu) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/hu.po | 
+ | [ja](/f35/language/ja) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/ja.po | 
+ | [ne](/f35/language/ne) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/ne.po | 
+ | [nl](/f35/language/nl) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/nl.po | 
+ | [pl](/f35/language/pl) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/pl.po | 
+ | [pt](/f35/language/pt) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/pt_BR.po | 
+ | [sr](/f35/language/sr) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/sr.po | 
+ | [uk](/f35/language/uk) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/uk.po | 
+ | [vi](/f35/language/vi) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/vi.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 466 | 467 | 99.8 | /mnt/stockage/packages/f35/regexxer/po/zh_HK.po | 
+ | [it](/f35/language/it) | 426 | 467 | 91.2 | /mnt/stockage/packages/f35/regexxer/po/it.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 205 | 467 | 43.9 | /mnt/stockage/packages/f35/regexxer/po/zh_CN.po | 
+ | [pa](/f35/language/pa) | 88 | 467 | 18.8 | /mnt/stockage/packages/f35/regexxer/po/pa.po | 
+ | [rw](/f35/language/rw) | 11 | 467 | 2.4 | /mnt/stockage/packages/f35/regexxer/po/rw.po | 
+ | [ar](/f35/language/ar) | 0 | 467 | 0.0 | /mnt/stockage/packages/f35/regexxer/po/ar.po | 
 {.sortable}
 
 

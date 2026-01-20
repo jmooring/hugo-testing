@@ -18,83 +18,83 @@ The package avant-window-navigator (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/de.po | 
- | [en_AU]({{< ref "/f15/language/en_AU.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/en_AU.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/en_GB.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/fr.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/lt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/uk.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 1652 | 1829 | 90.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/en_CA.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 1610 | 1829 | 88.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/he.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1423 | 1829 | 77.8 | /mnt/stockage/packages/f15/avant-window-navigator/po/pl.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 1288 | 1829 | 70.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/ms.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1257 | 1829 | 68.7 | /mnt/stockage/packages/f15/avant-window-navigator/po/cs.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 1195 | 1829 | 65.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/gl.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 1069 | 1829 | 58.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/et.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 982 | 1829 | 53.7 | /mnt/stockage/packages/f15/avant-window-navigator/po/sk.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 979 | 1829 | 53.5 | /mnt/stockage/packages/f15/avant-window-navigator/po/nl.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 932 | 1829 | 51.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ko.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 913 | 1829 | 49.9 | /mnt/stockage/packages/f15/avant-window-navigator/po/fi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 821 | 1829 | 44.9 | /mnt/stockage/packages/f15/avant-window-navigator/po/hu.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 802 | 1829 | 43.8 | /mnt/stockage/packages/f15/avant-window-navigator/po/tr.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 576 | 1829 | 31.5 | /mnt/stockage/packages/f15/avant-window-navigator/po/ja.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 556 | 1829 | 30.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/es.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 462 | 1829 | 25.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/ar.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 377 | 1829 | 20.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/zh_CN.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 321 | 1829 | 17.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/el.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 264 | 1829 | 14.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/zh_TW.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 245 | 1829 | 13.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/sq.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 230 | 1829 | 12.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/hr.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 211 | 1829 | 11.5 | /mnt/stockage/packages/f15/avant-window-navigator/po/da.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 197 | 1829 | 10.8 | /mnt/stockage/packages/f15/avant-window-navigator/po/oc.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 183 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/id.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/af.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ast.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ca.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/eo.po | 
- | [is]({{< ref "/f15/language/is.md" >}}) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/is.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 171 | 1829 | 9.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/pt.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 170 | 1829 | 9.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/sr.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 153 | 1829 | 8.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/bg.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 132 | 1829 | 7.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/vi.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 85 | 1829 | 4.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/ka.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 76 | 1829 | 4.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/it.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 63 | 1829 | 3.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/ta.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 47 | 1829 | 2.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/nb.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 40 | 1829 | 2.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/si.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 39 | 1829 | 2.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/fa.po | 
- | [cy]({{< ref "/f15/language/cy.md" >}}) | 37 | 1829 | 2.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/cy.po | 
- | [fo]({{< ref "/f15/language/fo.md" >}}) | 34 | 1829 | 1.9 | /mnt/stockage/packages/f15/avant-window-navigator/po/fo.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 23 | 1829 | 1.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/lv.po | 
- | [csb]({{< ref "/f15/language/csb.md" >}}) | 21 | 1829 | 1.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/csb.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 18 | 1829 | 1.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ku.po | 
- | [bs]({{< ref "/f15/language/bs.md" >}}) | 7 | 1829 | 0.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/bs.po | 
- | [jv]({{< ref "/f15/language/jv.md" >}}) | 5 | 1829 | 0.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/jv.po | 
- | [nds]({{< ref "/f15/language/nds.md" >}}) | 5 | 1829 | 0.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/nds.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 4 | 1829 | 0.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/hi.po | 
- | [kab]({{< ref "/f15/language/kab.md" >}}) | 3 | 1829 | 0.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/kab.po | 
- | [az]({{< ref "/f15/language/az.md" >}}) | 2 | 1829 | 0.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/az.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 2 | 1829 | 0.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/ml.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/be.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/bn.po | 
- | [crh]({{< ref "/f15/language/crh.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/crh.po | 
- | [dv]({{< ref "/f15/language/dv.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/dv.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ga.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/gu.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/mk.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/mn.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/mr.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ne.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/nn.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/sl.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/te.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/th.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/zh_HK.po | 
+ | [de](/f15/language/de) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/de.po | 
+ | [en_AU](/f15/language/en_AU) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/en_AU.po | 
+ | [en_GB](/f15/language/en_GB) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/en_GB.po | 
+ | [eu](/f15/language/eu) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/eu.po | 
+ | [fr](/f15/language/fr) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/fr.po | 
+ | [lt](/f15/language/lt) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/lt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ro.po | 
+ | [ru](/f15/language/ru) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ru.po | 
+ | [sv](/f15/language/sv) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/sv.po | 
+ | [uk](/f15/language/uk) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/uk.po | 
+ | [en_CA](/f15/language/en_CA) | 1652 | 1829 | 90.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/en_CA.po | 
+ | [he](/f15/language/he) | 1610 | 1829 | 88.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/he.po | 
+ | [pl](/f15/language/pl) | 1423 | 1829 | 77.8 | /mnt/stockage/packages/f15/avant-window-navigator/po/pl.po | 
+ | [ms](/f15/language/ms) | 1288 | 1829 | 70.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/ms.po | 
+ | [cs](/f15/language/cs) | 1257 | 1829 | 68.7 | /mnt/stockage/packages/f15/avant-window-navigator/po/cs.po | 
+ | [gl](/f15/language/gl) | 1195 | 1829 | 65.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/gl.po | 
+ | [et](/f15/language/et) | 1069 | 1829 | 58.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/et.po | 
+ | [sk](/f15/language/sk) | 982 | 1829 | 53.7 | /mnt/stockage/packages/f15/avant-window-navigator/po/sk.po | 
+ | [nl](/f15/language/nl) | 979 | 1829 | 53.5 | /mnt/stockage/packages/f15/avant-window-navigator/po/nl.po | 
+ | [ko](/f15/language/ko) | 932 | 1829 | 51.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ko.po | 
+ | [fi](/f15/language/fi) | 913 | 1829 | 49.9 | /mnt/stockage/packages/f15/avant-window-navigator/po/fi.po | 
+ | [hu](/f15/language/hu) | 821 | 1829 | 44.9 | /mnt/stockage/packages/f15/avant-window-navigator/po/hu.po | 
+ | [tr](/f15/language/tr) | 802 | 1829 | 43.8 | /mnt/stockage/packages/f15/avant-window-navigator/po/tr.po | 
+ | [ja](/f15/language/ja) | 576 | 1829 | 31.5 | /mnt/stockage/packages/f15/avant-window-navigator/po/ja.po | 
+ | [es](/f15/language/es) | 556 | 1829 | 30.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/es.po | 
+ | [ar](/f15/language/ar) | 462 | 1829 | 25.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/ar.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 377 | 1829 | 20.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/zh_CN.po | 
+ | [el](/f15/language/el) | 321 | 1829 | 17.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/el.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 264 | 1829 | 14.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/zh_TW.po | 
+ | [sq](/f15/language/sq) | 245 | 1829 | 13.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/sq.po | 
+ | [hr](/f15/language/hr) | 230 | 1829 | 12.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/hr.po | 
+ | [da](/f15/language/da) | 211 | 1829 | 11.5 | /mnt/stockage/packages/f15/avant-window-navigator/po/da.po | 
+ | [oc](/f15/language/oc) | 197 | 1829 | 10.8 | /mnt/stockage/packages/f15/avant-window-navigator/po/oc.po | 
+ | [id](/f15/language/id) | 183 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/id.po | 
+ | [af](/f15/language/af) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/af.po | 
+ | [ast](/f15/language/ast) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ast.po | 
+ | [ca](/f15/language/ca) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ca.po | 
+ | [eo](/f15/language/eo) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/eo.po | 
+ | [is](/f15/language/is) | 182 | 1829 | 10.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/is.po | 
+ | [pt](/f15/language/pt) | 171 | 1829 | 9.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/pt.po | 
+ | [sr](/f15/language/sr) | 170 | 1829 | 9.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/sr.po | 
+ | [bg](/f15/language/bg) | 153 | 1829 | 8.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/bg.po | 
+ | [vi](/f15/language/vi) | 132 | 1829 | 7.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/vi.po | 
+ | [ka](/f15/language/ka) | 85 | 1829 | 4.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/ka.po | 
+ | [it](/f15/language/it) | 76 | 1829 | 4.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/it.po | 
+ | [ta](/f15/language/ta) | 63 | 1829 | 3.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/ta.po | 
+ | [nb_NO](/f15/language/nb_NO) | 47 | 1829 | 2.6 | /mnt/stockage/packages/f15/avant-window-navigator/po/nb.po | 
+ | [si](/f15/language/si) | 40 | 1829 | 2.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/si.po | 
+ | [fa](/f15/language/fa) | 39 | 1829 | 2.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/fa.po | 
+ | [cy](/f15/language/cy) | 37 | 1829 | 2.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/cy.po | 
+ | [fo](/f15/language/fo) | 34 | 1829 | 1.9 | /mnt/stockage/packages/f15/avant-window-navigator/po/fo.po | 
+ | [lv](/f15/language/lv) | 23 | 1829 | 1.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/lv.po | 
+ | [csb](/f15/language/csb) | 21 | 1829 | 1.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/csb.po | 
+ | [ku](/f15/language/ku) | 18 | 1829 | 1.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ku.po | 
+ | [bs](/f15/language/bs) | 7 | 1829 | 0.4 | /mnt/stockage/packages/f15/avant-window-navigator/po/bs.po | 
+ | [jv](/f15/language/jv) | 5 | 1829 | 0.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/jv.po | 
+ | [nds](/f15/language/nds) | 5 | 1829 | 0.3 | /mnt/stockage/packages/f15/avant-window-navigator/po/nds.po | 
+ | [hi](/f15/language/hi) | 4 | 1829 | 0.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/hi.po | 
+ | [kab](/f15/language/kab) | 3 | 1829 | 0.2 | /mnt/stockage/packages/f15/avant-window-navigator/po/kab.po | 
+ | [az](/f15/language/az) | 2 | 1829 | 0.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/az.po | 
+ | [ml](/f15/language/ml) | 2 | 1829 | 0.1 | /mnt/stockage/packages/f15/avant-window-navigator/po/ml.po | 
+ | [be](/f15/language/be) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/be.po | 
+ | [bn](/f15/language/bn) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/bn.po | 
+ | [crh](/f15/language/crh) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/crh.po | 
+ | [dv](/f15/language/dv) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/dv.po | 
+ | [ga](/f15/language/ga) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ga.po | 
+ | [gu](/f15/language/gu) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/gu.po | 
+ | [mk](/f15/language/mk) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/mk.po | 
+ | [mn](/f15/language/mn) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/mn.po | 
+ | [mr](/f15/language/mr) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/mr.po | 
+ | [ne](/f15/language/ne) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/ne.po | 
+ | [nn](/f15/language/nn) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/nn.po | 
+ | [sl](/f15/language/sl) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/sl.po | 
+ | [te](/f15/language/te) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/te.po | 
+ | [th](/f15/language/th) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/th.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 0 | 1829 | 0.0 | /mnt/stockage/packages/f15/avant-window-navigator/po/zh_HK.po | 
 {.sortable}
 
 

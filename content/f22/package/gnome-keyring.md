@@ -18,92 +18,92 @@ The package gnome-keyring (version 3.16.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f22/language/as.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/as.po | 
- | [ast]({{< ref "/f22/language/ast.md" >}}) | 928 | 928 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ast.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/be.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bg.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bn_IN.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ca.po | 
- | [ca@valencia]({{< ref "/f22/language/ca@valencia.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ca@valencia.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/eu.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/fa.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/fr.po | 
- | [gd]({{< ref "/f22/language/gd.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/gd.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/gl.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/gu.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/he.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/hi.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ja.po | 
- | [kk]({{< ref "/f22/language/kk.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/kk.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/km.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ko.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/lv.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/mk.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ml.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/mr.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/nl.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/or.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pt_BR.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sl.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sr@latin.po/mnt/stockage/packages/f22/gnome-keyring/po/sr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/tr.po | 
- | [ug]({{< ref "/f22/language/ug.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ug.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f22/language/zh_Hant_HK.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/zh_HK.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 480 | 490 | 98.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bn.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 480 | 490 | 98.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ro.po | 
- | [af]({{< ref "/f22/language/af.md" >}}) | 474 | 490 | 96.7 | /mnt/stockage/packages/f22/gnome-keyring/po/af.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 532 | 553 | 96.2 | /mnt/stockage/packages/f22/gnome-keyring/po/ar.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 466 | 490 | 95.1 | /mnt/stockage/packages/f22/gnome-keyring/po/nn.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 517 | 553 | 93.5 | /mnt/stockage/packages/f22/gnome-keyring/po/fi.po | 
- | [eo]({{< ref "/f22/language/eo.md" >}}) | 305 | 490 | 62.2 | /mnt/stockage/packages/f22/gnome-keyring/po/eo.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 289 | 490 | 59.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ms.po | 
- | [be_Latn]({{< ref "/f22/language/be_Latn.md" >}}) | 256 | 490 | 52.2 | /mnt/stockage/packages/f22/gnome-keyring/po/be@latin.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 232 | 490 | 47.3 | /mnt/stockage/packages/f22/gnome-keyring/po/en@shaw.po | 
- | [dz]({{< ref "/f22/language/dz.md" >}}) | 148 | 490 | 30.2 | /mnt/stockage/packages/f22/gnome-keyring/po/dz.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 148 | 490 | 30.2 | /mnt/stockage/packages/f22/gnome-keyring/po/sq.po | 
- | [ga]({{< ref "/f22/language/ga.md" >}}) | 116 | 490 | 23.7 | /mnt/stockage/packages/f22/gnome-keyring/po/ga.po | 
- | [ne]({{< ref "/f22/language/ne.md" >}}) | 63 | 553 | 11.4 | /mnt/stockage/packages/f22/gnome-keyring/po/ne.po | 
- | [mai]({{< ref "/f22/language/mai.md" >}}) | 45 | 490 | 9.2 | /mnt/stockage/packages/f22/gnome-keyring/po/mai.po | 
- | [en_CA]({{< ref "/f22/language/en_CA.md" >}}) | 28 | 490 | 5.7 | /mnt/stockage/packages/f22/gnome-keyring/po/en_CA.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 28 | 490 | 5.7 | /mnt/stockage/packages/f22/gnome-keyring/po/hr.po | 
- | [mg]({{< ref "/f22/language/mg.md" >}}) | 25 | 490 | 5.1 | /mnt/stockage/packages/f22/gnome-keyring/po/mg.po | 
- | [mn]({{< ref "/f22/language/mn.md" >}}) | 25 | 490 | 5.1 | /mnt/stockage/packages/f22/gnome-keyring/po/mn.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 25 | 490 | 5.1 | /mnt/stockage/packages/f22/gnome-keyring/po/si.po | 
- | [tg]({{< ref "/f22/language/tg.md" >}}) | 25 | 553 | 4.5 | /mnt/stockage/packages/f22/gnome-keyring/po/tg.po | 
- | [cy]({{< ref "/f22/language/cy.md" >}}) | 22 | 490 | 4.5 | /mnt/stockage/packages/f22/gnome-keyring/po/cy.po | 
- | [az]({{< ref "/f22/language/az.md" >}}) | 17 | 490 | 3.5 | /mnt/stockage/packages/f22/gnome-keyring/po/az.po | 
- | [xh]({{< ref "/f22/language/xh.md" >}}) | 17 | 490 | 3.5 | /mnt/stockage/packages/f22/gnome-keyring/po/xh.po | 
- | [ka]({{< ref "/f22/language/ka.md" >}}) | 16 | 490 | 3.3 | /mnt/stockage/packages/f22/gnome-keyring/po/ka.po | 
- | [oc]({{< ref "/f22/language/oc.md" >}}) | 9 | 490 | 1.8 | /mnt/stockage/packages/f22/gnome-keyring/po/oc.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 0 | 490 | 0.0 | /mnt/stockage/packages/f22/gnome-keyring/po/is.po | 
- | [rw]({{< ref "/f22/language/rw.md" >}}) | 0 | 490 | 0.0 | /mnt/stockage/packages/f22/gnome-keyring/po/rw.po | 
+ | [as](/f22/language/as) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/as.po | 
+ | [ast](/f22/language/ast) | 928 | 928 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ast.po | 
+ | [be](/f22/language/be) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/be.po | 
+ | [bg](/f22/language/bg) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bg.po | 
+ | [bn_IN](/f22/language/bn_IN) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bn_IN.po | 
+ | [bs](/f22/language/bs) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bs.po | 
+ | [ca](/f22/language/ca) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ca.po | 
+ | [ca@valencia](/f22/language/ca@valencia) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ca@valencia.po | 
+ | [cs](/f22/language/cs) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/cs.po | 
+ | [da](/f22/language/da) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/da.po | 
+ | [de](/f22/language/de) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/de.po | 
+ | [el](/f22/language/el) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/en_GB.po | 
+ | [es](/f22/language/es) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/es.po | 
+ | [et](/f22/language/et) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/et.po | 
+ | [eu](/f22/language/eu) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/eu.po | 
+ | [fa](/f22/language/fa) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/fa.po | 
+ | [fr](/f22/language/fr) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/fr.po | 
+ | [gd](/f22/language/gd) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/gd.po | 
+ | [gl](/f22/language/gl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/gl.po | 
+ | [gu](/f22/language/gu) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/gu.po | 
+ | [he](/f22/language/he) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/he.po | 
+ | [hi](/f22/language/hi) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/hi.po | 
+ | [hu](/f22/language/hu) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/hu.po | 
+ | [id](/f22/language/id) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/id.po | 
+ | [it](/f22/language/it) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/it.po | 
+ | [ja](/f22/language/ja) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ja.po | 
+ | [kk](/f22/language/kk) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/kk.po | 
+ | [km](/f22/language/km) | 552 | 552 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/km.po | 
+ | [kn](/f22/language/kn) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/kn.po | 
+ | [ko](/f22/language/ko) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ko.po | 
+ | [lt](/f22/language/lt) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/lt.po | 
+ | [lv](/f22/language/lv) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/lv.po | 
+ | [mk](/f22/language/mk) | 552 | 552 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/mk.po | 
+ | [ml](/f22/language/ml) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ml.po | 
+ | [mr](/f22/language/mr) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/mr.po | 
+ | [nb_NO](/f22/language/nb_NO) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/nb.po | 
+ | [nl](/f22/language/nl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/nl.po | 
+ | [or](/f22/language/or) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/or.po | 
+ | [pa](/f22/language/pa) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pa.po | 
+ | [pl](/f22/language/pl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pl.po | 
+ | [pt](/f22/language/pt) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/pt_BR.po | 
+ | [ru](/f22/language/ru) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ru.po | 
+ | [sk](/f22/language/sk) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sk.po | 
+ | [sl](/f22/language/sl) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sl.po | 
+ | [sr](/f22/language/sr) | 1106 | 1106 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sr@latin.po/mnt/stockage/packages/f22/gnome-keyring/po/sr.po | 
+ | [sv](/f22/language/sv) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/sv.po | 
+ | [ta](/f22/language/ta) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ta.po | 
+ | [te](/f22/language/te) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/te.po | 
+ | [th](/f22/language/th) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/th.po | 
+ | [tr](/f22/language/tr) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/tr.po | 
+ | [ug](/f22/language/ug) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ug.po | 
+ | [uk](/f22/language/uk) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/uk.po | 
+ | [vi](/f22/language/vi) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/zh_TW.po | 
+ | [zh_Hant_HK](/f22/language/zh_Hant_HK) | 553 | 553 | 100.0 | /mnt/stockage/packages/f22/gnome-keyring/po/zh_HK.po | 
+ | [bn](/f22/language/bn) | 480 | 490 | 98.0 | /mnt/stockage/packages/f22/gnome-keyring/po/bn.po | 
+ | [ro](/f22/language/ro) | 480 | 490 | 98.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ro.po | 
+ | [af](/f22/language/af) | 474 | 490 | 96.7 | /mnt/stockage/packages/f22/gnome-keyring/po/af.po | 
+ | [ar](/f22/language/ar) | 532 | 553 | 96.2 | /mnt/stockage/packages/f22/gnome-keyring/po/ar.po | 
+ | [nn](/f22/language/nn) | 466 | 490 | 95.1 | /mnt/stockage/packages/f22/gnome-keyring/po/nn.po | 
+ | [fi](/f22/language/fi) | 517 | 553 | 93.5 | /mnt/stockage/packages/f22/gnome-keyring/po/fi.po | 
+ | [eo](/f22/language/eo) | 305 | 490 | 62.2 | /mnt/stockage/packages/f22/gnome-keyring/po/eo.po | 
+ | [ms](/f22/language/ms) | 289 | 490 | 59.0 | /mnt/stockage/packages/f22/gnome-keyring/po/ms.po | 
+ | [be_Latn](/f22/language/be_Latn) | 256 | 490 | 52.2 | /mnt/stockage/packages/f22/gnome-keyring/po/be@latin.po | 
+ | [error](/f22/language/error) | 232 | 490 | 47.3 | /mnt/stockage/packages/f22/gnome-keyring/po/en@shaw.po | 
+ | [dz](/f22/language/dz) | 148 | 490 | 30.2 | /mnt/stockage/packages/f22/gnome-keyring/po/dz.po | 
+ | [sq](/f22/language/sq) | 148 | 490 | 30.2 | /mnt/stockage/packages/f22/gnome-keyring/po/sq.po | 
+ | [ga](/f22/language/ga) | 116 | 490 | 23.7 | /mnt/stockage/packages/f22/gnome-keyring/po/ga.po | 
+ | [ne](/f22/language/ne) | 63 | 553 | 11.4 | /mnt/stockage/packages/f22/gnome-keyring/po/ne.po | 
+ | [mai](/f22/language/mai) | 45 | 490 | 9.2 | /mnt/stockage/packages/f22/gnome-keyring/po/mai.po | 
+ | [en_CA](/f22/language/en_CA) | 28 | 490 | 5.7 | /mnt/stockage/packages/f22/gnome-keyring/po/en_CA.po | 
+ | [hr](/f22/language/hr) | 28 | 490 | 5.7 | /mnt/stockage/packages/f22/gnome-keyring/po/hr.po | 
+ | [mg](/f22/language/mg) | 25 | 490 | 5.1 | /mnt/stockage/packages/f22/gnome-keyring/po/mg.po | 
+ | [mn](/f22/language/mn) | 25 | 490 | 5.1 | /mnt/stockage/packages/f22/gnome-keyring/po/mn.po | 
+ | [si](/f22/language/si) | 25 | 490 | 5.1 | /mnt/stockage/packages/f22/gnome-keyring/po/si.po | 
+ | [tg](/f22/language/tg) | 25 | 553 | 4.5 | /mnt/stockage/packages/f22/gnome-keyring/po/tg.po | 
+ | [cy](/f22/language/cy) | 22 | 490 | 4.5 | /mnt/stockage/packages/f22/gnome-keyring/po/cy.po | 
+ | [az](/f22/language/az) | 17 | 490 | 3.5 | /mnt/stockage/packages/f22/gnome-keyring/po/az.po | 
+ | [xh](/f22/language/xh) | 17 | 490 | 3.5 | /mnt/stockage/packages/f22/gnome-keyring/po/xh.po | 
+ | [ka](/f22/language/ka) | 16 | 490 | 3.3 | /mnt/stockage/packages/f22/gnome-keyring/po/ka.po | 
+ | [oc](/f22/language/oc) | 9 | 490 | 1.8 | /mnt/stockage/packages/f22/gnome-keyring/po/oc.po | 
+ | [is](/f22/language/is) | 0 | 490 | 0.0 | /mnt/stockage/packages/f22/gnome-keyring/po/is.po | 
+ | [rw](/f22/language/rw) | 0 | 490 | 0.0 | /mnt/stockage/packages/f22/gnome-keyring/po/rw.po | 
 {.sortable}
 
 

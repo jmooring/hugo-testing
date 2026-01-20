@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f25/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 374 | 499 | 74.9 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 1601 | 2618 | 61.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-user-guide]({{< ref "/f25/package/mate-user-guide.md" >}}) | 1 | 5 | 20.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 12 | 300 | 4.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-media]({{< ref "/f25/package/mate-media.md" >}}) | 8 | 226 | 3.5 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-panel]({{< ref "/f25/package/mate-panel.md" >}}) | 26 | 4353 | 0.6 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [libgweather](/f25/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f25/package/libmateweather) | 374 | 499 | 74.9 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-applets](/f25/package/mate-applets) | 1601 | 2618 | 61.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-user-guide](/f25/package/mate-user-guide) | 1 | 5 | 20.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-menu](/f25/package/mate-menu) | 12 | 300 | 4.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-media](/f25/package/mate-media) | 8 | 226 | 3.5 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-panel](/f25/package/mate-panel) | 26 | 4353 | 0.6 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package pdf2djvu (version 0.9.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/de.po/mnt/stockage/packages/f28/pdf2djvu/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/fr.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/pl.po/mnt/stockage/packages/f28/pdf2djvu/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/pt.po/mnt/stockage/packages/f28/pdf2djvu/po/pt.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/ru.po/mnt/stockage/packages/f28/pdf2djvu/po/ru.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1563 | 1925 | 81.2 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/uk.po/mnt/stockage/packages/f28/pdf2djvu/po/uk.po | 
+ | [de](/f28/language/de) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/de.po/mnt/stockage/packages/f28/pdf2djvu/po/de.po | 
+ | [fr](/f28/language/fr) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/fr.po | 
+ | [pl](/f28/language/pl) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/pl.po/mnt/stockage/packages/f28/pdf2djvu/po/pl.po | 
+ | [pt](/f28/language/pt) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/pt.po/mnt/stockage/packages/f28/pdf2djvu/po/pt.po | 
+ | [ru](/f28/language/ru) | 1925 | 1925 | 100.0 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/ru.po/mnt/stockage/packages/f28/pdf2djvu/po/ru.po | 
+ | [uk](/f28/language/uk) | 1563 | 1925 | 81.2 | /mnt/stockage/packages/f28/pdf2djvu/doc/po/uk.po/mnt/stockage/packages/f28/pdf2djvu/po/uk.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package xfdashboard (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 5914 | 5914 | 100.0 | /mnt/stockage/packages/f29/xfdashboard/po/fr.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 5279 | 5914 | 89.3 | /mnt/stockage/packages/f29/xfdashboard/po/tr.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 4254 | 5914 | 71.9 | /mnt/stockage/packages/f29/xfdashboard/po/sr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 1616 | 5914 | 27.3 | /mnt/stockage/packages/f29/xfdashboard/po/es.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 1407 | 5914 | 23.8 | /mnt/stockage/packages/f29/xfdashboard/po/lt.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1345 | 5914 | 22.7 | /mnt/stockage/packages/f29/xfdashboard/po/ca.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 979 | 5914 | 16.6 | /mnt/stockage/packages/f29/xfdashboard/po/el.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 386 | 5914 | 6.5 | /mnt/stockage/packages/f29/xfdashboard/po/pl.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 155 | 5914 | 2.6 | /mnt/stockage/packages/f29/xfdashboard/po/de.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 100 | 5914 | 1.7 | /mnt/stockage/packages/f29/xfdashboard/po/he.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 17 | 5914 | 0.3 | /mnt/stockage/packages/f29/xfdashboard/po/ja.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1 | 5914 | 0.0 | /mnt/stockage/packages/f29/xfdashboard/po/it_IT.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 0 | 5914 | 0.0 | /mnt/stockage/packages/f29/xfdashboard/po/da.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 0 | 5914 | 0.0 | /mnt/stockage/packages/f29/xfdashboard/po/kk.po | 
+ | [fr](/f29/language/fr) | 5914 | 5914 | 100.0 | /mnt/stockage/packages/f29/xfdashboard/po/fr.po | 
+ | [tr](/f29/language/tr) | 5279 | 5914 | 89.3 | /mnt/stockage/packages/f29/xfdashboard/po/tr.po | 
+ | [sr](/f29/language/sr) | 4254 | 5914 | 71.9 | /mnt/stockage/packages/f29/xfdashboard/po/sr.po | 
+ | [es](/f29/language/es) | 1616 | 5914 | 27.3 | /mnt/stockage/packages/f29/xfdashboard/po/es.po | 
+ | [lt](/f29/language/lt) | 1407 | 5914 | 23.8 | /mnt/stockage/packages/f29/xfdashboard/po/lt.po | 
+ | [ca](/f29/language/ca) | 1345 | 5914 | 22.7 | /mnt/stockage/packages/f29/xfdashboard/po/ca.po | 
+ | [el](/f29/language/el) | 979 | 5914 | 16.6 | /mnt/stockage/packages/f29/xfdashboard/po/el.po | 
+ | [pl](/f29/language/pl) | 386 | 5914 | 6.5 | /mnt/stockage/packages/f29/xfdashboard/po/pl.po | 
+ | [de](/f29/language/de) | 155 | 5914 | 2.6 | /mnt/stockage/packages/f29/xfdashboard/po/de.po | 
+ | [he](/f29/language/he) | 100 | 5914 | 1.7 | /mnt/stockage/packages/f29/xfdashboard/po/he.po | 
+ | [ja](/f29/language/ja) | 17 | 5914 | 0.3 | /mnt/stockage/packages/f29/xfdashboard/po/ja.po | 
+ | [it](/f29/language/it) | 1 | 5914 | 0.0 | /mnt/stockage/packages/f29/xfdashboard/po/it_IT.po | 
+ | [da](/f29/language/da) | 0 | 5914 | 0.0 | /mnt/stockage/packages/f29/xfdashboard/po/da.po | 
+ | [kk](/f29/language/kk) | 0 | 5914 | 0.0 | /mnt/stockage/packages/f29/xfdashboard/po/kk.po | 
 {.sortable}
 
 

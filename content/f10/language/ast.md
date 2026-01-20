@@ -38,30 +38,30 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 1998 | 1998 | 100.0 | Asturian <ast@li.org> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 285 | 285 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [gnome-menus]({{< ref "/f10/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 4582 | 4582 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [gnome-screensaver]({{< ref "/f10/package/gnome-screensaver.md" >}}) | 966 | 966 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [homebank]({{< ref "/f10/package/homebank.md" >}}) | 1365 | 1365 | 100.0 | Asturian <ast@li.org> | 
- | [lxmenu-data]({{< ref "/f10/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Asturian <xspuente@gmail.com> | 
- | [quitcount]({{< ref "/f10/package/quitcount.md" >}}) | 166 | 166 | 100.0 | None | 
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 761 | 761 | 100.0 | Asturian | 
- | [epiphany]({{< ref "/f10/package/epiphany.md" >}}) | 4225 | 4239 | 99.7 | Asturian <ast@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f10/package/tuxpaint-stamps.md" >}}) | 2604 | 2617 | 99.5 | Asturian <alarmes@wanadoo.es> | 
- | [gnome-session]({{< ref "/f10/package/gnome-session.md" >}}) | 703 | 714 | 98.5 | Asturian <xspuente@gmail.com> | 
- | [nautilus-sendto]({{< ref "/f10/package/nautilus-sendto.md" >}}) | 285 | 290 | 98.3 | Asturian <xspuente@gmail.com> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 7757 | 8218 | 94.4 | Asturian <xspuente@gmail.com> | 
- | [gnome-applets]({{< ref "/f10/package/gnome-applets.md" >}}) | 2957 | 3372 | 87.7 | Asturian <xspuente@gmail.com> | 
- | [poedit]({{< ref "/f10/package/poedit.md" >}}) | 999 | 1162 | 86.0 | Softastur | 
- | [evolution]({{< ref "/f10/package/evolution.md" >}}) | 17291 | 21845 | 79.2 | Asturian <ast@li.org> | 
- | [gnome-applet-window-picker]({{< ref "/f10/package/gnome-applet-window-picker.md" >}}) | 22 | 29 | 75.9 | Asturian | 
- | [listen]({{< ref "/f10/package/listen.md" >}}) | 1066 | 1742 | 61.2 | Softastur <alministradores@softastur.org | 
- | [glunarclock]({{< ref "/f10/package/glunarclock.md" >}}) | 138 | 231 | 59.7 | Ricardo Mones Lastra <mones@aic.uniovi.es> | 
- | [gnome-do]({{< ref "/f10/package/gnome-do.md" >}}) | 111 | 233 | 47.6 | Asturian <ast@li.org> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 3700 | 12760 | 29.0 | Asturian <xspuente@gmail.com> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 3031 | 12400 | 24.4 | Asturian <xspuente@gmail.com> | 
- | [gnome-power-manager]({{< ref "/f10/package/gnome-power-manager.md" >}}) | 592 | 3351 | 17.7 | Asturian <xspuente@gmail.com> | 
+ | [deluge](/f10/package/deluge) | 1998 | 1998 | 100.0 | Asturian <ast@li.org> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 285 | 285 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [gnome-menus](/f10/package/gnome-menus) | 157 | 157 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 4582 | 4582 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [gnome-screensaver](/f10/package/gnome-screensaver) | 966 | 966 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [homebank](/f10/package/homebank) | 1365 | 1365 | 100.0 | Asturian <ast@li.org> | 
+ | [lxmenu-data](/f10/package/lxmenu-data) | 97 | 97 | 100.0 | Asturian <xspuente@gmail.com> | 
+ | [quitcount](/f10/package/quitcount) | 166 | 166 | 100.0 | None | 
+ | [tuxpaint](/f10/package/tuxpaint) | 761 | 761 | 100.0 | Asturian | 
+ | [epiphany](/f10/package/epiphany) | 4225 | 4239 | 99.7 | Asturian <ast@li.org> | 
+ | [tuxpaint-stamps](/f10/package/tuxpaint-stamps) | 2604 | 2617 | 99.5 | Asturian <alarmes@wanadoo.es> | 
+ | [gnome-session](/f10/package/gnome-session) | 703 | 714 | 98.5 | Asturian <xspuente@gmail.com> | 
+ | [nautilus-sendto](/f10/package/nautilus-sendto) | 285 | 290 | 98.3 | Asturian <xspuente@gmail.com> | 
+ | [nautilus](/f10/package/nautilus) | 7757 | 8218 | 94.4 | Asturian <xspuente@gmail.com> | 
+ | [gnome-applets](/f10/package/gnome-applets) | 2957 | 3372 | 87.7 | Asturian <xspuente@gmail.com> | 
+ | [poedit](/f10/package/poedit) | 999 | 1162 | 86.0 | Softastur | 
+ | [evolution](/f10/package/evolution) | 17291 | 21845 | 79.2 | Asturian <ast@li.org> | 
+ | [gnome-applet-window-picker](/f10/package/gnome-applet-window-picker) | 22 | 29 | 75.9 | Asturian | 
+ | [listen](/f10/package/listen) | 1066 | 1742 | 61.2 | Softastur <alministradores@softastur.org | 
+ | [glunarclock](/f10/package/glunarclock) | 138 | 231 | 59.7 | Ricardo Mones Lastra <mones@aic.uniovi.es> | 
+ | [gnome-do](/f10/package/gnome-do) | 111 | 233 | 47.6 | Asturian <ast@li.org> | 
+ | [gtk2](/f10/package/gtk2) | 3700 | 12760 | 29.0 | Asturian <xspuente@gmail.com> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 3031 | 12400 | 24.4 | Asturian <xspuente@gmail.com> | 
+ | [gnome-power-manager](/f10/package/gnome-power-manager) | 592 | 3351 | 17.7 | Asturian <xspuente@gmail.com> | 
 {.sortable}
 
 

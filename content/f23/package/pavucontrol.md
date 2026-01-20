@@ -18,41 +18,41 @@ The package pavucontrol (version 3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 219 | 219 | 100.0 | /mnt/stockage/packages/f23/pavucontrol/po/ja.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/bn_IN.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/es.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/fr.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/gu.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/hi.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/hu.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/kn.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/ml.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/mr.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/nl.po | 
- | [or]({{< ref "/f23/language/or.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/or.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pa.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pt_BR.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/sk.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/sr.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/sr@latin.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/te.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/uk.po | 
- | [as]({{< ref "/f23/language/as.md" >}}) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/as.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/it.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/ru.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/sv.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 189 | 237 | 79.7 | /mnt/stockage/packages/f23/pavucontrol/po/zh_CN.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 171 | 237 | 72.2 | /mnt/stockage/packages/f23/pavucontrol/po/tr.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 151 | 237 | 63.7 | /mnt/stockage/packages/f23/pavucontrol/po/th.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 34 | 237 | 14.3 | /mnt/stockage/packages/f23/pavucontrol/po/el.po | 
+ | [ja](/f23/language/ja) | 219 | 219 | 100.0 | /mnt/stockage/packages/f23/pavucontrol/po/ja.po | 
+ | [bn_IN](/f23/language/bn_IN) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/bn_IN.po | 
+ | [ca](/f23/language/ca) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/ca.po | 
+ | [cs](/f23/language/cs) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/cs.po | 
+ | [da](/f23/language/da) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/da.po | 
+ | [de](/f23/language/de) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/de.po | 
+ | [es](/f23/language/es) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/es.po | 
+ | [fi](/f23/language/fi) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/fi.po | 
+ | [fr](/f23/language/fr) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/fr.po | 
+ | [gu](/f23/language/gu) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/gu.po | 
+ | [hi](/f23/language/hi) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/hi.po | 
+ | [hu](/f23/language/hu) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/hu.po | 
+ | [kn](/f23/language/kn) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/kn.po | 
+ | [ml](/f23/language/ml) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/ml.po | 
+ | [mr](/f23/language/mr) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/mr.po | 
+ | [nl](/f23/language/nl) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/nl.po | 
+ | [or](/f23/language/or) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/or.po | 
+ | [pa](/f23/language/pa) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pa.po | 
+ | [pl](/f23/language/pl) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pl.po | 
+ | [pt](/f23/language/pt) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/pt_BR.po | 
+ | [sk](/f23/language/sk) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/sk.po | 
+ | [sr](/f23/language/sr) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/sr.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/sr@latin.po | 
+ | [ta](/f23/language/ta) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/ta.po | 
+ | [te](/f23/language/te) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/te.po | 
+ | [uk](/f23/language/uk) | 219 | 237 | 92.4 | /mnt/stockage/packages/f23/pavucontrol/po/uk.po | 
+ | [as](/f23/language/as) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/as.po | 
+ | [it](/f23/language/it) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/it.po | 
+ | [ru](/f23/language/ru) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/ru.po | 
+ | [sv](/f23/language/sv) | 198 | 237 | 83.5 | /mnt/stockage/packages/f23/pavucontrol/po/sv.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 189 | 237 | 79.7 | /mnt/stockage/packages/f23/pavucontrol/po/zh_CN.po | 
+ | [tr](/f23/language/tr) | 171 | 237 | 72.2 | /mnt/stockage/packages/f23/pavucontrol/po/tr.po | 
+ | [th](/f23/language/th) | 151 | 237 | 63.7 | /mnt/stockage/packages/f23/pavucontrol/po/th.po | 
+ | [el](/f23/language/el) | 34 | 237 | 14.3 | /mnt/stockage/packages/f23/pavucontrol/po/el.po | 
 {.sortable}
 
 

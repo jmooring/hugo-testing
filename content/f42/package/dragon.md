@@ -18,70 +18,70 @@ The package dragon (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ar/dragonplayer.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/bg/dragonplayer.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ca/dragonplayer.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ca@valencia/dragonplayer.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/es/dragonplayer.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/eu/dragonplayer.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/fr/dragonplayer.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/he/dragonplayer.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/is/dragonplayer.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/it/dragonplayer.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ka/dragonplayer.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/lt/dragonplayer.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/nl/dragonplayer.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/pl/dragonplayer.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/pt_BR/dragonplayer.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/sl/dragonplayer.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/sv/dragonplayer.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/uk/dragonplayer.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/zh_CN/dragonplayer.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/zh_TW/dragonplayer.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 144 | 170 | 84.7 | /mnt/stockage/packages/f42/dragon/po/fi/dragonplayer.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 144 | 170 | 84.7 | /mnt/stockage/packages/f42/dragon/po/hu/dragonplayer.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 144 | 170 | 84.7 | /mnt/stockage/packages/f42/dragon/po/tr/dragonplayer.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 138 | 170 | 81.2 | /mnt/stockage/packages/f42/dragon/po/de/dragonplayer.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 138 | 170 | 81.2 | /mnt/stockage/packages/f42/dragon/po/ko/dragonplayer.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 138 | 170 | 81.2 | /mnt/stockage/packages/f42/dragon/po/lv/dragonplayer.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 81 | 170 | 47.6 | /mnt/stockage/packages/f42/dragon/po/ia/dragonplayer.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 75 | 170 | 44.1 | /mnt/stockage/packages/f42/dragon/po/gl/dragonplayer.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 74 | 170 | 43.5 | /mnt/stockage/packages/f42/dragon/po/ru/dragonplayer.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 69 | 170 | 40.6 | /mnt/stockage/packages/f42/dragon/po/cs/dragonplayer.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/bs/dragonplayer.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/da/dragonplayer.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/el/dragonplayer.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/en_GB/dragonplayer.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/eo/dragonplayer.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/et/dragonplayer.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ga/dragonplayer.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/hi/dragonplayer.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/hr/dragonplayer.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/id/dragonplayer.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ja/dragonplayer.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/kk/dragonplayer.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/km/dragonplayer.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ku/dragonplayer.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/mr/dragonplayer.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/nb/dragonplayer.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/nds/dragonplayer.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/nn/dragonplayer.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/pa/dragonplayer.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/pt/dragonplayer.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ro/dragonplayer.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sa/dragonplayer.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sk/dragonplayer.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr/dragonplayer.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr@ijekavian/dragonplayer.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr@ijekavianlatin/dragonplayer.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr@latin/dragonplayer.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/th/dragonplayer.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ug/dragonplayer.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/wa/dragonplayer.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 6 | 170 | 3.5 | /mnt/stockage/packages/f42/dragon/po/sq/dragonplayer.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 170 | 2.4 | /mnt/stockage/packages/f42/dragon/po/ast/dragonplayer.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 4 | 170 | 2.4 | /mnt/stockage/packages/f42/dragon/po/be/dragonplayer.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 4 | 170 | 2.4 | /mnt/stockage/packages/f42/dragon/po/oc/dragonplayer.po | 
+ | [ar](/f42/language/ar) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ar/dragonplayer.po | 
+ | [bg](/f42/language/bg) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/bg/dragonplayer.po | 
+ | [ca](/f42/language/ca) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ca/dragonplayer.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ca@valencia/dragonplayer.po | 
+ | [es](/f42/language/es) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/es/dragonplayer.po | 
+ | [eu](/f42/language/eu) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/eu/dragonplayer.po | 
+ | [fr](/f42/language/fr) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/fr/dragonplayer.po | 
+ | [he](/f42/language/he) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/he/dragonplayer.po | 
+ | [is](/f42/language/is) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/is/dragonplayer.po | 
+ | [it](/f42/language/it) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/it/dragonplayer.po | 
+ | [ka](/f42/language/ka) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/ka/dragonplayer.po | 
+ | [lt](/f42/language/lt) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/lt/dragonplayer.po | 
+ | [nl](/f42/language/nl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/nl/dragonplayer.po | 
+ | [pl](/f42/language/pl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/pl/dragonplayer.po | 
+ | [pt_BR](/f42/language/pt_BR) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/pt_BR/dragonplayer.po | 
+ | [sl](/f42/language/sl) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/sl/dragonplayer.po | 
+ | [sv](/f42/language/sv) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/sv/dragonplayer.po | 
+ | [uk](/f42/language/uk) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/uk/dragonplayer.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/zh_CN/dragonplayer.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 170 | 170 | 100.0 | /mnt/stockage/packages/f42/dragon/po/zh_TW/dragonplayer.po | 
+ | [fi](/f42/language/fi) | 144 | 170 | 84.7 | /mnt/stockage/packages/f42/dragon/po/fi/dragonplayer.po | 
+ | [hu](/f42/language/hu) | 144 | 170 | 84.7 | /mnt/stockage/packages/f42/dragon/po/hu/dragonplayer.po | 
+ | [tr](/f42/language/tr) | 144 | 170 | 84.7 | /mnt/stockage/packages/f42/dragon/po/tr/dragonplayer.po | 
+ | [de](/f42/language/de) | 138 | 170 | 81.2 | /mnt/stockage/packages/f42/dragon/po/de/dragonplayer.po | 
+ | [ko](/f42/language/ko) | 138 | 170 | 81.2 | /mnt/stockage/packages/f42/dragon/po/ko/dragonplayer.po | 
+ | [lv](/f42/language/lv) | 138 | 170 | 81.2 | /mnt/stockage/packages/f42/dragon/po/lv/dragonplayer.po | 
+ | [ia](/f42/language/ia) | 81 | 170 | 47.6 | /mnt/stockage/packages/f42/dragon/po/ia/dragonplayer.po | 
+ | [gl](/f42/language/gl) | 75 | 170 | 44.1 | /mnt/stockage/packages/f42/dragon/po/gl/dragonplayer.po | 
+ | [ru](/f42/language/ru) | 74 | 170 | 43.5 | /mnt/stockage/packages/f42/dragon/po/ru/dragonplayer.po | 
+ | [cs](/f42/language/cs) | 69 | 170 | 40.6 | /mnt/stockage/packages/f42/dragon/po/cs/dragonplayer.po | 
+ | [bs](/f42/language/bs) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/bs/dragonplayer.po | 
+ | [da](/f42/language/da) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/da/dragonplayer.po | 
+ | [el](/f42/language/el) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/el/dragonplayer.po | 
+ | [en_GB](/f42/language/en_GB) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/en_GB/dragonplayer.po | 
+ | [eo](/f42/language/eo) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/eo/dragonplayer.po | 
+ | [et](/f42/language/et) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/et/dragonplayer.po | 
+ | [ga](/f42/language/ga) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ga/dragonplayer.po | 
+ | [hi](/f42/language/hi) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/hi/dragonplayer.po | 
+ | [hr](/f42/language/hr) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/hr/dragonplayer.po | 
+ | [id](/f42/language/id) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/id/dragonplayer.po | 
+ | [ja](/f42/language/ja) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ja/dragonplayer.po | 
+ | [kk](/f42/language/kk) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/kk/dragonplayer.po | 
+ | [km](/f42/language/km) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/km/dragonplayer.po | 
+ | [ku](/f42/language/ku) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ku/dragonplayer.po | 
+ | [mr](/f42/language/mr) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/mr/dragonplayer.po | 
+ | [nb_NO](/f42/language/nb_NO) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/nb/dragonplayer.po | 
+ | [nds](/f42/language/nds) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/nds/dragonplayer.po | 
+ | [nn](/f42/language/nn) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/nn/dragonplayer.po | 
+ | [pa](/f42/language/pa) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/pa/dragonplayer.po | 
+ | [pt](/f42/language/pt) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/pt/dragonplayer.po | 
+ | [ro](/f42/language/ro) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ro/dragonplayer.po | 
+ | [sa](/f42/language/sa) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sa/dragonplayer.po | 
+ | [sk](/f42/language/sk) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sk/dragonplayer.po | 
+ | [sr](/f42/language/sr) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr/dragonplayer.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr@ijekavian/dragonplayer.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr@ijekavianlatin/dragonplayer.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/sr@latin/dragonplayer.po | 
+ | [th](/f42/language/th) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/th/dragonplayer.po | 
+ | [ug](/f42/language/ug) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/ug/dragonplayer.po | 
+ | [wa](/f42/language/wa) | 14 | 170 | 8.2 | /mnt/stockage/packages/f42/dragon/po/wa/dragonplayer.po | 
+ | [sq](/f42/language/sq) | 6 | 170 | 3.5 | /mnt/stockage/packages/f42/dragon/po/sq/dragonplayer.po | 
+ | [ast](/f42/language/ast) | 4 | 170 | 2.4 | /mnt/stockage/packages/f42/dragon/po/ast/dragonplayer.po | 
+ | [be](/f42/language/be) | 4 | 170 | 2.4 | /mnt/stockage/packages/f42/dragon/po/be/dragonplayer.po | 
+ | [oc](/f42/language/oc) | 4 | 170 | 2.4 | /mnt/stockage/packages/f42/dragon/po/oc/dragonplayer.po | 
 {.sortable}
 
 

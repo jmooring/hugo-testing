@@ -18,14 +18,14 @@ The package recutils (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/nl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/sv.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/uk.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/vi.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/de.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/fr.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/sr.po | 
+ | [nl](/f20/language/nl) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/nl.po | 
+ | [sv](/f20/language/sv) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/sv.po | 
+ | [uk](/f20/language/uk) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/uk.po | 
+ | [vi](/f20/language/vi) | 1851 | 1851 | 100.0 | /mnt/stockage/packages/f20/recutils/po/vi.po | 
+ | [de](/f20/language/de) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/de.po | 
+ | [fi](/f20/language/fi) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/fi.po | 
+ | [fr](/f20/language/fr) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/fr.po | 
+ | [sr](/f20/language/sr) | 1439 | 1851 | 77.7 | /mnt/stockage/packages/f20/recutils/po/sr.po | 
 {.sortable}
 
 

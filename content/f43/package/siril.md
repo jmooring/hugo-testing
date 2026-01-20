@@ -18,25 +18,25 @@ The package siril (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 62264 | 62275 | 100.0 | /mnt/stockage/packages/f43/siril/po/fr.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 62252 | 62275 | 100.0 | /mnt/stockage/packages/f43/siril/po/de.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 61184 | 62275 | 98.2 | /mnt/stockage/packages/f43/siril/po/ru.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 55610 | 62275 | 89.3 | /mnt/stockage/packages/f43/siril/po/zh_CN.po | 
- | [nl_BE]({{< ref "/f43/language/nl_BE.md" >}}) | 29608 | 62275 | 47.5 | /mnt/stockage/packages/f43/siril/po/nl_BE.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 28348 | 62275 | 45.5 | /mnt/stockage/packages/f43/siril/po/it_IT.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 26974 | 62275 | 43.3 | /mnt/stockage/packages/f43/siril/po/pt_BR.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 22611 | 62275 | 36.3 | /mnt/stockage/packages/f43/siril/po/es_ES.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 17980 | 62275 | 28.9 | /mnt/stockage/packages/f43/siril/po/uk.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 12936 | 62275 | 20.8 | /mnt/stockage/packages/f43/siril/po/el.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 7225 | 62275 | 11.6 | /mnt/stockage/packages/f43/siril/po/ca.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 4767 | 62275 | 7.7 | /mnt/stockage/packages/f43/siril/po/pl_PL.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 4667 | 62275 | 7.5 | /mnt/stockage/packages/f43/siril/po/ja_JP.po | 
- | [ar_DZ]({{< ref "/f43/language/ar_DZ.md" >}}) | 4015 | 62275 | 6.4 | /mnt/stockage/packages/f43/siril/po/ar_DZ.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 2774 | 62275 | 4.5 | /mnt/stockage/packages/f43/siril/po/zh_TW.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 1483 | 62275 | 2.4 | /mnt/stockage/packages/f43/siril/po/ko_KR.po | 
- | [pt_PT]({{< ref "/f43/language/pt_PT.md" >}}) | 1318 | 62275 | 2.1 | /mnt/stockage/packages/f43/siril/po/pt_PT.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 355 | 62275 | 0.6 | /mnt/stockage/packages/f43/siril/po/da.po | 
- | [tl]({{< ref "/f43/language/tl.md" >}}) | 287 | 62275 | 0.5 | /mnt/stockage/packages/f43/siril/po/tl_PH.po | 
+ | [fr](/f43/language/fr) | 62264 | 62275 | 100.0 | /mnt/stockage/packages/f43/siril/po/fr.po | 
+ | [de](/f43/language/de) | 62252 | 62275 | 100.0 | /mnt/stockage/packages/f43/siril/po/de.po | 
+ | [ru](/f43/language/ru) | 61184 | 62275 | 98.2 | /mnt/stockage/packages/f43/siril/po/ru.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 55610 | 62275 | 89.3 | /mnt/stockage/packages/f43/siril/po/zh_CN.po | 
+ | [nl_BE](/f43/language/nl_BE) | 29608 | 62275 | 47.5 | /mnt/stockage/packages/f43/siril/po/nl_BE.po | 
+ | [it](/f43/language/it) | 28348 | 62275 | 45.5 | /mnt/stockage/packages/f43/siril/po/it_IT.po | 
+ | [pt_BR](/f43/language/pt_BR) | 26974 | 62275 | 43.3 | /mnt/stockage/packages/f43/siril/po/pt_BR.po | 
+ | [es](/f43/language/es) | 22611 | 62275 | 36.3 | /mnt/stockage/packages/f43/siril/po/es_ES.po | 
+ | [uk](/f43/language/uk) | 17980 | 62275 | 28.9 | /mnt/stockage/packages/f43/siril/po/uk.po | 
+ | [el](/f43/language/el) | 12936 | 62275 | 20.8 | /mnt/stockage/packages/f43/siril/po/el.po | 
+ | [ca](/f43/language/ca) | 7225 | 62275 | 11.6 | /mnt/stockage/packages/f43/siril/po/ca.po | 
+ | [pl](/f43/language/pl) | 4767 | 62275 | 7.7 | /mnt/stockage/packages/f43/siril/po/pl_PL.po | 
+ | [ja](/f43/language/ja) | 4667 | 62275 | 7.5 | /mnt/stockage/packages/f43/siril/po/ja_JP.po | 
+ | [ar_DZ](/f43/language/ar_DZ) | 4015 | 62275 | 6.4 | /mnt/stockage/packages/f43/siril/po/ar_DZ.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 2774 | 62275 | 4.5 | /mnt/stockage/packages/f43/siril/po/zh_TW.po | 
+ | [ko](/f43/language/ko) | 1483 | 62275 | 2.4 | /mnt/stockage/packages/f43/siril/po/ko_KR.po | 
+ | [pt_PT](/f43/language/pt_PT) | 1318 | 62275 | 2.1 | /mnt/stockage/packages/f43/siril/po/pt_PT.po | 
+ | [da](/f43/language/da) | 355 | 62275 | 0.6 | /mnt/stockage/packages/f43/siril/po/da.po | 
+ | [tl](/f43/language/tl) | 287 | 62275 | 0.5 | /mnt/stockage/packages/f43/siril/po/tl_PH.po | 
 {.sortable}
 
 

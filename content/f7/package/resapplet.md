@@ -18,19 +18,19 @@ The package resapplet (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/cs.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/es.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f7/resapplet/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/pt_BR.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/zh_TW.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 72 | 106 | 67.9 | /mnt/stockage/packages/f7/resapplet/pl.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 6 | 106 | 5.7 | /mnt/stockage/packages/f7/resapplet/sk.po | 
+ | [cs](/f7/language/cs) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/cs.po | 
+ | [de](/f7/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/de.po | 
+ | [es](/f7/language/es) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/es.po | 
+ | [fi](/f7/language/fi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/fi.po | 
+ | [fr](/f7/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/fr.po | 
+ | [hu](/f7/language/hu) | 89 | 89 | 100.0 | /mnt/stockage/packages/f7/resapplet/hu.po | 
+ | [it](/f7/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/it.po | 
+ | [ja](/f7/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/pt_BR.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 106 | 106 | 100.0 | /mnt/stockage/packages/f7/resapplet/zh_TW.po | 
+ | [pl](/f7/language/pl) | 72 | 106 | 67.9 | /mnt/stockage/packages/f7/resapplet/pl.po | 
+ | [sk](/f7/language/sk) | 6 | 106 | 5.7 | /mnt/stockage/packages/f7/resapplet/sk.po | 
 {.sortable}
 
 

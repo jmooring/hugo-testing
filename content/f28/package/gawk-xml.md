@@ -18,8 +18,8 @@ The package gawk-xml (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f28/language/es.md" >}}) | 61 | 61 | 100.0 | /mnt/stockage/packages/f28/gawk-xml/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 0 | 61 | 0.0 | /mnt/stockage/packages/f28/gawk-xml/po/fr.po | 
+ | [es](/f28/language/es) | 61 | 61 | 100.0 | /mnt/stockage/packages/f28/gawk-xml/po/es.po | 
+ | [fr](/f28/language/fr) | 0 | 61 | 0.0 | /mnt/stockage/packages/f28/gawk-xml/po/fr.po | 
 {.sortable}
 
 

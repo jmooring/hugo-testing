@@ -18,42 +18,42 @@ The package cawbird (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f30/language/ast.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/ast.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/de.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/eo.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/fi.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/gl.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/it.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/lt.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/pl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/sr.po | 
- | [sr_Latn]({{< ref "/f30/language/sr_Latn.md" >}}) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 585 | 588 | 99.5 | /mnt/stockage/packages/f30/cawbird/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 554 | 588 | 94.2 | /mnt/stockage/packages/f30/cawbird/po/nb.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 544 | 588 | 92.5 | /mnt/stockage/packages/f30/cawbird/po/fr.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 544 | 588 | 92.5 | /mnt/stockage/packages/f30/cawbird/po/id.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 486 | 588 | 82.7 | /mnt/stockage/packages/f30/cawbird/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 437 | 588 | 74.3 | /mnt/stockage/packages/f30/cawbird/po/ru.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 430 | 588 | 73.1 | /mnt/stockage/packages/f30/cawbird/po/ca.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 430 | 588 | 73.1 | /mnt/stockage/packages/f30/cawbird/po/es.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 430 | 588 | 73.1 | /mnt/stockage/packages/f30/cawbird/po/zh_CN.po | 
- | [pt_PT]({{< ref "/f30/language/pt_PT.md" >}}) | 427 | 588 | 72.6 | /mnt/stockage/packages/f30/cawbird/po/pt.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 414 | 588 | 70.4 | /mnt/stockage/packages/f30/cawbird/po/ko.po | 
- | [es_MX]({{< ref "/f30/language/es_MX.md" >}}) | 341 | 588 | 58.0 | /mnt/stockage/packages/f30/cawbird/po/es_MX.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 332 | 588 | 56.5 | /mnt/stockage/packages/f30/cawbird/po/uk_UA.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 331 | 588 | 56.3 | /mnt/stockage/packages/f30/cawbird/po/ja.po | 
- | [es_VE]({{< ref "/f30/language/es_VE.md" >}}) | 297 | 588 | 50.5 | /mnt/stockage/packages/f30/cawbird/po/es_VE.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 297 | 588 | 50.5 | /mnt/stockage/packages/f30/cawbird/po/tr.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 258 | 588 | 43.9 | /mnt/stockage/packages/f30/cawbird/po/ro.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 205 | 588 | 34.9 | /mnt/stockage/packages/f30/cawbird/po/ca@valencia.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 155 | 588 | 26.4 | /mnt/stockage/packages/f30/cawbird/po/ar.po | 
- | [es_419]({{< ref "/f30/language/es_419.md" >}}) | 140 | 588 | 23.8 | /mnt/stockage/packages/f30/cawbird/po/es_419.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 122 | 588 | 20.7 | /mnt/stockage/packages/f30/cawbird/po/fa.po | 
- | [en_AU]({{< ref "/f30/language/en_AU.md" >}}) | 101 | 588 | 17.2 | /mnt/stockage/packages/f30/cawbird/po/en_AU.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 90 | 588 | 15.3 | /mnt/stockage/packages/f30/cawbird/po/hu.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 69 | 588 | 11.7 | /mnt/stockage/packages/f30/cawbird/po/hi.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 30 | 588 | 5.1 | /mnt/stockage/packages/f30/cawbird/po/ga.po | 
+ | [ast](/f30/language/ast) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/ast.po | 
+ | [de](/f30/language/de) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/de.po | 
+ | [eo](/f30/language/eo) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/eo.po | 
+ | [fi](/f30/language/fi) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/fi.po | 
+ | [gl](/f30/language/gl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/gl.po | 
+ | [it](/f30/language/it) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/it.po | 
+ | [lt](/f30/language/lt) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/lt.po | 
+ | [nl](/f30/language/nl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/nl.po | 
+ | [pl](/f30/language/pl) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/pl.po | 
+ | [sr](/f30/language/sr) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/sr.po | 
+ | [sr_Latn](/f30/language/sr_Latn) | 588 | 588 | 100.0 | /mnt/stockage/packages/f30/cawbird/po/sr@latin.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 585 | 588 | 99.5 | /mnt/stockage/packages/f30/cawbird/po/zh_TW.po | 
+ | [nb_NO](/f30/language/nb_NO) | 554 | 588 | 94.2 | /mnt/stockage/packages/f30/cawbird/po/nb.po | 
+ | [fr](/f30/language/fr) | 544 | 588 | 92.5 | /mnt/stockage/packages/f30/cawbird/po/fr.po | 
+ | [id](/f30/language/id) | 544 | 588 | 92.5 | /mnt/stockage/packages/f30/cawbird/po/id.po | 
+ | [pt_BR](/f30/language/pt_BR) | 486 | 588 | 82.7 | /mnt/stockage/packages/f30/cawbird/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 437 | 588 | 74.3 | /mnt/stockage/packages/f30/cawbird/po/ru.po | 
+ | [ca](/f30/language/ca) | 430 | 588 | 73.1 | /mnt/stockage/packages/f30/cawbird/po/ca.po | 
+ | [es](/f30/language/es) | 430 | 588 | 73.1 | /mnt/stockage/packages/f30/cawbird/po/es.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 430 | 588 | 73.1 | /mnt/stockage/packages/f30/cawbird/po/zh_CN.po | 
+ | [pt_PT](/f30/language/pt_PT) | 427 | 588 | 72.6 | /mnt/stockage/packages/f30/cawbird/po/pt.po | 
+ | [ko](/f30/language/ko) | 414 | 588 | 70.4 | /mnt/stockage/packages/f30/cawbird/po/ko.po | 
+ | [es_MX](/f30/language/es_MX) | 341 | 588 | 58.0 | /mnt/stockage/packages/f30/cawbird/po/es_MX.po | 
+ | [uk](/f30/language/uk) | 332 | 588 | 56.5 | /mnt/stockage/packages/f30/cawbird/po/uk_UA.po | 
+ | [ja](/f30/language/ja) | 331 | 588 | 56.3 | /mnt/stockage/packages/f30/cawbird/po/ja.po | 
+ | [es_VE](/f30/language/es_VE) | 297 | 588 | 50.5 | /mnt/stockage/packages/f30/cawbird/po/es_VE.po | 
+ | [tr](/f30/language/tr) | 297 | 588 | 50.5 | /mnt/stockage/packages/f30/cawbird/po/tr.po | 
+ | [ro](/f30/language/ro) | 258 | 588 | 43.9 | /mnt/stockage/packages/f30/cawbird/po/ro.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 205 | 588 | 34.9 | /mnt/stockage/packages/f30/cawbird/po/ca@valencia.po | 
+ | [ar](/f30/language/ar) | 155 | 588 | 26.4 | /mnt/stockage/packages/f30/cawbird/po/ar.po | 
+ | [es_419](/f30/language/es_419) | 140 | 588 | 23.8 | /mnt/stockage/packages/f30/cawbird/po/es_419.po | 
+ | [fa](/f30/language/fa) | 122 | 588 | 20.7 | /mnt/stockage/packages/f30/cawbird/po/fa.po | 
+ | [en_AU](/f30/language/en_AU) | 101 | 588 | 17.2 | /mnt/stockage/packages/f30/cawbird/po/en_AU.po | 
+ | [hu](/f30/language/hu) | 90 | 588 | 15.3 | /mnt/stockage/packages/f30/cawbird/po/hu.po | 
+ | [hi](/f30/language/hi) | 69 | 588 | 11.7 | /mnt/stockage/packages/f30/cawbird/po/hi.po | 
+ | [ga](/f30/language/ga) | 30 | 588 | 5.1 | /mnt/stockage/packages/f30/cawbird/po/ga.po | 
 {.sortable}
 
 

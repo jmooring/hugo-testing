@@ -18,22 +18,22 @@ The package pspp (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/ca.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/es.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/gl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/pl.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/zh_CN.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 9784 | 10247 | 95.5 | /mnt/stockage/packages/f23/pspp/po/ja.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 8725 | 10247 | 85.1 | /mnt/stockage/packages/f23/pspp/po/nl.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 7752 | 10247 | 75.7 | /mnt/stockage/packages/f23/pspp/po/lt.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 7122 | 10247 | 69.5 | /mnt/stockage/packages/f23/pspp/po/fr.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 5558 | 10247 | 54.2 | /mnt/stockage/packages/f23/pspp/po/tr.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 2972 | 10247 | 29.0 | /mnt/stockage/packages/f23/pspp/po/sl.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 2704 | 10247 | 26.4 | /mnt/stockage/packages/f23/pspp/po/pt_BR.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 522 | 10247 | 5.1 | /mnt/stockage/packages/f23/pspp/po/en_GB.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 11 | 10247 | 0.1 | /mnt/stockage/packages/f23/pspp/po/cs.po | 
+ | [ca](/f23/language/ca) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/ca.po | 
+ | [de](/f23/language/de) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/de.po | 
+ | [es](/f23/language/es) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/es.po | 
+ | [gl](/f23/language/gl) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/gl.po | 
+ | [pl](/f23/language/pl) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/pl.po | 
+ | [uk](/f23/language/uk) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 9881 | 10247 | 96.4 | /mnt/stockage/packages/f23/pspp/po/zh_CN.po | 
+ | [ja](/f23/language/ja) | 9784 | 10247 | 95.5 | /mnt/stockage/packages/f23/pspp/po/ja.po | 
+ | [nl](/f23/language/nl) | 8725 | 10247 | 85.1 | /mnt/stockage/packages/f23/pspp/po/nl.po | 
+ | [lt](/f23/language/lt) | 7752 | 10247 | 75.7 | /mnt/stockage/packages/f23/pspp/po/lt.po | 
+ | [fr](/f23/language/fr) | 7122 | 10247 | 69.5 | /mnt/stockage/packages/f23/pspp/po/fr.po | 
+ | [tr](/f23/language/tr) | 5558 | 10247 | 54.2 | /mnt/stockage/packages/f23/pspp/po/tr.po | 
+ | [sl](/f23/language/sl) | 2972 | 10247 | 29.0 | /mnt/stockage/packages/f23/pspp/po/sl.po | 
+ | [pt_BR](/f23/language/pt_BR) | 2704 | 10247 | 26.4 | /mnt/stockage/packages/f23/pspp/po/pt_BR.po | 
+ | [en_GB](/f23/language/en_GB) | 522 | 10247 | 5.1 | /mnt/stockage/packages/f23/pspp/po/en_GB.po | 
+ | [cs](/f23/language/cs) | 11 | 10247 | 0.1 | /mnt/stockage/packages/f23/pspp/po/cs.po | 
 {.sortable}
 
 

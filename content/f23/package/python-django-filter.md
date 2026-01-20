@@ -18,8 +18,8 @@ The package python-django-filter (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f23/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f23/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
+ | [de](/f23/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f23/python-django-filter/django_filters/locale/de/LC_MESSAGES/django.po | 
+ | [fr](/f23/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f23/python-django-filter/django_filters/locale/fr/LC_MESSAGES/django.po | 
 {.sortable}
 
 

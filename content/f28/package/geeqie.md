@@ -18,42 +18,42 @@ The package geeqie (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 4116 | 4348 | 94.7 | /mnt/stockage/packages/f28/geeqie/po/pl.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 3590 | 4348 | 82.6 | /mnt/stockage/packages/f28/geeqie/po/el.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 3538 | 4348 | 81.4 | /mnt/stockage/packages/f28/geeqie/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 3460 | 4348 | 79.6 | /mnt/stockage/packages/f28/geeqie/po/fr.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 3316 | 4348 | 76.3 | /mnt/stockage/packages/f28/geeqie/po/ca.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/es.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/pt_BR.po | 
- | [ro]({{< ref "/f28/language/ro.md" >}}) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/ro.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/sv.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 3144 | 4348 | 72.3 | /mnt/stockage/packages/f28/geeqie/po/cs.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3126 | 4348 | 71.9 | /mnt/stockage/packages/f28/geeqie/po/ru.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 2714 | 4348 | 62.4 | /mnt/stockage/packages/f28/geeqie/po/zh_CN.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 5098 | 8696 | 58.6 | /mnt/stockage/packages/f28/geeqie/po/sr@latin.po/mnt/stockage/packages/f28/geeqie/po/sr.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1870 | 4348 | 43.0 | /mnt/stockage/packages/f28/geeqie/po/nl.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 1813 | 4348 | 41.7 | /mnt/stockage/packages/f28/geeqie/po/sk.po | 
- | [be]({{< ref "/f28/language/be.md" >}}) | 1624 | 4348 | 37.4 | /mnt/stockage/packages/f28/geeqie/po/be.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 1238 | 4348 | 28.5 | /mnt/stockage/packages/f28/geeqie/po/eu.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 1236 | 4348 | 28.4 | /mnt/stockage/packages/f28/geeqie/po/eo.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 1230 | 4348 | 28.3 | /mnt/stockage/packages/f28/geeqie/po/vi.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 1228 | 4348 | 28.2 | /mnt/stockage/packages/f28/geeqie/po/it.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1208 | 4348 | 27.8 | /mnt/stockage/packages/f28/geeqie/po/zh_TW.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 1120 | 4348 | 25.8 | /mnt/stockage/packages/f28/geeqie/po/fi.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 1117 | 4348 | 25.7 | /mnt/stockage/packages/f28/geeqie/po/bg.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1117 | 4348 | 25.7 | /mnt/stockage/packages/f28/geeqie/po/ja.po | 
- | [ar]({{< ref "/f28/language/ar.md" >}}) | 760 | 4348 | 17.5 | /mnt/stockage/packages/f28/geeqie/po/ar.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 627 | 4348 | 14.4 | /mnt/stockage/packages/f28/geeqie/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 351 | 4348 | 8.1 | /mnt/stockage/packages/f28/geeqie/po/id.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 333 | 4348 | 7.7 | /mnt/stockage/packages/f28/geeqie/po/et.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 318 | 4348 | 7.3 | /mnt/stockage/packages/f28/geeqie/po/uk.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 292 | 4348 | 6.7 | /mnt/stockage/packages/f28/geeqie/po/nb.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 287 | 4348 | 6.6 | /mnt/stockage/packages/f28/geeqie/po/th.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 261 | 4348 | 6.0 | /mnt/stockage/packages/f28/geeqie/po/sl.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 231 | 4348 | 5.3 | /mnt/stockage/packages/f28/geeqie/po/da.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 161 | 4348 | 3.7 | /mnt/stockage/packages/f28/geeqie/po/ko.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 103 | 4348 | 2.4 | /mnt/stockage/packages/f28/geeqie/po/tr.po | 
- | [tlh]({{< ref "/f28/language/tlh.md" >}}) | 4 | 4348 | 0.1 | /mnt/stockage/packages/f28/geeqie/po/tlh.po | 
+ | [pl](/f28/language/pl) | 4116 | 4348 | 94.7 | /mnt/stockage/packages/f28/geeqie/po/pl.po | 
+ | [el](/f28/language/el) | 3590 | 4348 | 82.6 | /mnt/stockage/packages/f28/geeqie/po/el.po | 
+ | [de](/f28/language/de) | 3538 | 4348 | 81.4 | /mnt/stockage/packages/f28/geeqie/po/de.po | 
+ | [fr](/f28/language/fr) | 3460 | 4348 | 79.6 | /mnt/stockage/packages/f28/geeqie/po/fr.po | 
+ | [ca](/f28/language/ca) | 3316 | 4348 | 76.3 | /mnt/stockage/packages/f28/geeqie/po/ca.po | 
+ | [es](/f28/language/es) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/es.po | 
+ | [pt_BR](/f28/language/pt_BR) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/pt_BR.po | 
+ | [ro](/f28/language/ro) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/ro.po | 
+ | [sv](/f28/language/sv) | 3204 | 4348 | 73.7 | /mnt/stockage/packages/f28/geeqie/po/sv.po | 
+ | [cs](/f28/language/cs) | 3144 | 4348 | 72.3 | /mnt/stockage/packages/f28/geeqie/po/cs.po | 
+ | [ru](/f28/language/ru) | 3126 | 4348 | 71.9 | /mnt/stockage/packages/f28/geeqie/po/ru.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 2714 | 4348 | 62.4 | /mnt/stockage/packages/f28/geeqie/po/zh_CN.po | 
+ | [sr](/f28/language/sr) | 5098 | 8696 | 58.6 | /mnt/stockage/packages/f28/geeqie/po/sr@latin.po/mnt/stockage/packages/f28/geeqie/po/sr.po | 
+ | [nl](/f28/language/nl) | 1870 | 4348 | 43.0 | /mnt/stockage/packages/f28/geeqie/po/nl.po | 
+ | [sk](/f28/language/sk) | 1813 | 4348 | 41.7 | /mnt/stockage/packages/f28/geeqie/po/sk.po | 
+ | [be](/f28/language/be) | 1624 | 4348 | 37.4 | /mnt/stockage/packages/f28/geeqie/po/be.po | 
+ | [eu](/f28/language/eu) | 1238 | 4348 | 28.5 | /mnt/stockage/packages/f28/geeqie/po/eu.po | 
+ | [eo](/f28/language/eo) | 1236 | 4348 | 28.4 | /mnt/stockage/packages/f28/geeqie/po/eo.po | 
+ | [vi](/f28/language/vi) | 1230 | 4348 | 28.3 | /mnt/stockage/packages/f28/geeqie/po/vi.po | 
+ | [it](/f28/language/it) | 1228 | 4348 | 28.2 | /mnt/stockage/packages/f28/geeqie/po/it.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1208 | 4348 | 27.8 | /mnt/stockage/packages/f28/geeqie/po/zh_TW.po | 
+ | [fi](/f28/language/fi) | 1120 | 4348 | 25.8 | /mnt/stockage/packages/f28/geeqie/po/fi.po | 
+ | [bg](/f28/language/bg) | 1117 | 4348 | 25.7 | /mnt/stockage/packages/f28/geeqie/po/bg.po | 
+ | [ja](/f28/language/ja) | 1117 | 4348 | 25.7 | /mnt/stockage/packages/f28/geeqie/po/ja.po | 
+ | [ar](/f28/language/ar) | 760 | 4348 | 17.5 | /mnt/stockage/packages/f28/geeqie/po/ar.po | 
+ | [hu](/f28/language/hu) | 627 | 4348 | 14.4 | /mnt/stockage/packages/f28/geeqie/po/hu.po | 
+ | [id](/f28/language/id) | 351 | 4348 | 8.1 | /mnt/stockage/packages/f28/geeqie/po/id.po | 
+ | [et](/f28/language/et) | 333 | 4348 | 7.7 | /mnt/stockage/packages/f28/geeqie/po/et.po | 
+ | [uk](/f28/language/uk) | 318 | 4348 | 7.3 | /mnt/stockage/packages/f28/geeqie/po/uk.po | 
+ | [nb_NO](/f28/language/nb_NO) | 292 | 4348 | 6.7 | /mnt/stockage/packages/f28/geeqie/po/nb.po | 
+ | [th](/f28/language/th) | 287 | 4348 | 6.6 | /mnt/stockage/packages/f28/geeqie/po/th.po | 
+ | [sl](/f28/language/sl) | 261 | 4348 | 6.0 | /mnt/stockage/packages/f28/geeqie/po/sl.po | 
+ | [da](/f28/language/da) | 231 | 4348 | 5.3 | /mnt/stockage/packages/f28/geeqie/po/da.po | 
+ | [ko](/f28/language/ko) | 161 | 4348 | 3.7 | /mnt/stockage/packages/f28/geeqie/po/ko.po | 
+ | [tr](/f28/language/tr) | 103 | 4348 | 2.4 | /mnt/stockage/packages/f28/geeqie/po/tr.po | 
+ | [tlh](/f28/language/tlh) | 4 | 4348 | 0.1 | /mnt/stockage/packages/f28/geeqie/po/tlh.po | 
 {.sortable}
 
 

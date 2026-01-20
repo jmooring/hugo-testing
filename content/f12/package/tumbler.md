@@ -18,18 +18,18 @@ The package tumbler (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/da.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/ja.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/pt.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/zh_CN.po | 
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 165 | 245 | 67.3 | /mnt/stockage/packages/f12/tumbler/po/ast.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 165 | 245 | 67.3 | /mnt/stockage/packages/f12/tumbler/po/gl.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 165 | 245 | 67.3 | /mnt/stockage/packages/f12/tumbler/po/lv.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 155 | 245 | 63.3 | /mnt/stockage/packages/f12/tumbler/po/fr.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 116 | 245 | 47.3 | /mnt/stockage/packages/f12/tumbler/po/en_GB.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 116 | 245 | 47.3 | /mnt/stockage/packages/f12/tumbler/po/tr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 10 | 245 | 4.1 | /mnt/stockage/packages/f12/tumbler/po/sv.po | 
+ | [ca](/f12/language/ca) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/ca.po | 
+ | [da](/f12/language/da) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/da.po | 
+ | [ja](/f12/language/ja) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/ja.po | 
+ | [pt](/f12/language/pt) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/pt.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 241 | 245 | 98.4 | /mnt/stockage/packages/f12/tumbler/po/zh_CN.po | 
+ | [ast](/f12/language/ast) | 165 | 245 | 67.3 | /mnt/stockage/packages/f12/tumbler/po/ast.po | 
+ | [gl](/f12/language/gl) | 165 | 245 | 67.3 | /mnt/stockage/packages/f12/tumbler/po/gl.po | 
+ | [lv](/f12/language/lv) | 165 | 245 | 67.3 | /mnt/stockage/packages/f12/tumbler/po/lv.po | 
+ | [fr](/f12/language/fr) | 155 | 245 | 63.3 | /mnt/stockage/packages/f12/tumbler/po/fr.po | 
+ | [en_GB](/f12/language/en_GB) | 116 | 245 | 47.3 | /mnt/stockage/packages/f12/tumbler/po/en_GB.po | 
+ | [tr](/f12/language/tr) | 116 | 245 | 47.3 | /mnt/stockage/packages/f12/tumbler/po/tr.po | 
+ | [sv](/f12/language/sv) | 10 | 245 | 4.1 | /mnt/stockage/packages/f12/tumbler/po/sv.po | 
 {.sortable}
 
 

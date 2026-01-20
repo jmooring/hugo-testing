@@ -18,7 +18,7 @@ The package django-celery (version 2.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f17/language/en.md" >}}) | 0 | 169 | 0.0 | /mnt/stockage/packages/f17/django-celery/locale/en/LC_MESSAGES/django.po | 
+ | [en](/f17/language/en) | 0 | 169 | 0.0 | /mnt/stockage/packages/f17/django-celery/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

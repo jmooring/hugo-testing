@@ -18,9 +18,9 @@ The package libunicap (version 0.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 99 | 100 | 99.0 | /mnt/stockage/packages/f15/libunicap/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 97 | 98 | 99.0 | /mnt/stockage/packages/f15/libunicap/po/fr.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 147 | 156 | 94.2 | /mnt/stockage/packages/f15/libunicap/po/ru.po | 
+ | [de](/f15/language/de) | 99 | 100 | 99.0 | /mnt/stockage/packages/f15/libunicap/po/de.po | 
+ | [fr](/f15/language/fr) | 97 | 98 | 99.0 | /mnt/stockage/packages/f15/libunicap/po/fr.po | 
+ | [ru](/f15/language/ru) | 147 | 156 | 94.2 | /mnt/stockage/packages/f15/libunicap/po/ru.po | 
 {.sortable}
 
 

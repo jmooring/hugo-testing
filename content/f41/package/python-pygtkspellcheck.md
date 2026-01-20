@@ -18,10 +18,10 @@ The package python-pygtkspellcheck (version 5.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/de/pygtkspellcheck.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/nl/pygtkspellcheck.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 9 | 43 | 20.9 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/es/pygtkspellcheck.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 0 | 44 | 0.0 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/en/pygtkspellcheck.po | 
+ | [de](/f41/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/de/pygtkspellcheck.po | 
+ | [nl](/f41/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/nl/pygtkspellcheck.po | 
+ | [es](/f41/language/es) | 9 | 43 | 20.9 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/es/pygtkspellcheck.po | 
+ | [en](/f41/language/en) | 0 | 44 | 0.0 | /mnt/stockage/packages/f41/python-pygtkspellcheck/locale/en/pygtkspellcheck.po | 
 {.sortable}
 
 

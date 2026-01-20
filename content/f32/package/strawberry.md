@@ -18,18 +18,18 @@ The package strawberry (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4555 | 4555 | 100.0 | /mnt/stockage/packages/f32/strawberry/src/translations/sv.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4541 | 4555 | 99.7 | /mnt/stockage/packages/f32/strawberry/src/translations/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4541 | 4555 | 99.7 | /mnt/stockage/packages/f32/strawberry/src/translations/fr.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 4541 | 4555 | 99.7 | /mnt/stockage/packages/f32/strawberry/src/translations/pl.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 4539 | 4555 | 99.6 | /mnt/stockage/packages/f32/strawberry/src/translations/de.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 4015 | 4555 | 88.1 | /mnt/stockage/packages/f32/strawberry/src/translations/ko.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 3897 | 4555 | 85.6 | /mnt/stockage/packages/f32/strawberry/src/translations/hu.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 3534 | 4555 | 77.6 | /mnt/stockage/packages/f32/strawberry/src/translations/cs.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 3446 | 4555 | 75.7 | /mnt/stockage/packages/f32/strawberry/src/translations/it.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 3411 | 4555 | 74.9 | /mnt/stockage/packages/f32/strawberry/src/translations/nb.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 3313 | 4555 | 72.7 | /mnt/stockage/packages/f32/strawberry/src/translations/id.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3289 | 4555 | 72.2 | /mnt/stockage/packages/f32/strawberry/src/translations/ru.po | 
+ | [sv](/f32/language/sv) | 4555 | 4555 | 100.0 | /mnt/stockage/packages/f32/strawberry/src/translations/sv.po | 
+ | [es](/f32/language/es) | 4541 | 4555 | 99.7 | /mnt/stockage/packages/f32/strawberry/src/translations/es.po | 
+ | [fr](/f32/language/fr) | 4541 | 4555 | 99.7 | /mnt/stockage/packages/f32/strawberry/src/translations/fr.po | 
+ | [pl](/f32/language/pl) | 4541 | 4555 | 99.7 | /mnt/stockage/packages/f32/strawberry/src/translations/pl.po | 
+ | [de](/f32/language/de) | 4539 | 4555 | 99.6 | /mnt/stockage/packages/f32/strawberry/src/translations/de.po | 
+ | [ko](/f32/language/ko) | 4015 | 4555 | 88.1 | /mnt/stockage/packages/f32/strawberry/src/translations/ko.po | 
+ | [hu](/f32/language/hu) | 3897 | 4555 | 85.6 | /mnt/stockage/packages/f32/strawberry/src/translations/hu.po | 
+ | [cs](/f32/language/cs) | 3534 | 4555 | 77.6 | /mnt/stockage/packages/f32/strawberry/src/translations/cs.po | 
+ | [it](/f32/language/it) | 3446 | 4555 | 75.7 | /mnt/stockage/packages/f32/strawberry/src/translations/it.po | 
+ | [nb_NO](/f32/language/nb_NO) | 3411 | 4555 | 74.9 | /mnt/stockage/packages/f32/strawberry/src/translations/nb.po | 
+ | [id](/f32/language/id) | 3313 | 4555 | 72.7 | /mnt/stockage/packages/f32/strawberry/src/translations/id.po | 
+ | [ru](/f32/language/ru) | 3289 | 4555 | 72.2 | /mnt/stockage/packages/f32/strawberry/src/translations/ru.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mkvtoolnix]({{< ref "/f37/package/mkvtoolnix.md" >}}) | 24353 | 24775 | 98.3 | Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
- | [visualboyadvance-m]({{< ref "/f37/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/) | 
+ | [mkvtoolnix](/f37/package/mkvtoolnix) | 24353 | 24775 | 98.3 | Chinese (Singapore) (http://www.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
+ | [visualboyadvance-m](/f37/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Chinese (Singapore) (http://www.transifex.com/bgk/vba-m/language/zh_SG/) | 
 {.sortable}
 
 

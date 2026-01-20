@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f14/package/pootle.md" >}}) | 6525 | 6525 | 100.0 | LANGUAGE <LL@li.org> | 
- | [virtaal]({{< ref "/f14/package/virtaal.md" >}}) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f14/package/tuxpaint.md" >}}) | 1187 | 1247 | 95.2 | Songhoy <songhoy@bagoundie.net> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [pootle](/f14/package/pootle) | 6525 | 6525 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f14/package/virtaal) | 1389 | 1389 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f14/package/tuxpaint) | 1187 | 1247 | 95.2 | Songhoy <songhoy@bagoundie.net> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

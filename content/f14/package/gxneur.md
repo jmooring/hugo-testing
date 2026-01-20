@@ -18,13 +18,13 @@ The package gxneur (version 0.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 721 | 721 | 100.0 | /mnt/stockage/packages/f14/gxneur/po/ru.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 369 | 721 | 51.2 | /mnt/stockage/packages/f14/gxneur/po/uk.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 331 | 721 | 45.9 | /mnt/stockage/packages/f14/gxneur/po/he.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 302 | 721 | 41.9 | /mnt/stockage/packages/f14/gxneur/po/de.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 297 | 721 | 41.2 | /mnt/stockage/packages/f14/gxneur/po/be.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 97 | 721 | 13.5 | /mnt/stockage/packages/f14/gxneur/po/ro.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 74 | 721 | 10.3 | /mnt/stockage/packages/f14/gxneur/po/es.po | 
+ | [ru](/f14/language/ru) | 721 | 721 | 100.0 | /mnt/stockage/packages/f14/gxneur/po/ru.po | 
+ | [uk](/f14/language/uk) | 369 | 721 | 51.2 | /mnt/stockage/packages/f14/gxneur/po/uk.po | 
+ | [he](/f14/language/he) | 331 | 721 | 45.9 | /mnt/stockage/packages/f14/gxneur/po/he.po | 
+ | [de](/f14/language/de) | 302 | 721 | 41.9 | /mnt/stockage/packages/f14/gxneur/po/de.po | 
+ | [be](/f14/language/be) | 297 | 721 | 41.2 | /mnt/stockage/packages/f14/gxneur/po/be.po | 
+ | [ro](/f14/language/ro) | 97 | 721 | 13.5 | /mnt/stockage/packages/f14/gxneur/po/ro.po | 
+ | [es](/f14/language/es) | 74 | 721 | 10.3 | /mnt/stockage/packages/f14/gxneur/po/es.po | 
 {.sortable}
 
 

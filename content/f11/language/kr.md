@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f11/package/gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [mingw32-gettext]({{< ref "/f11/package/mingw32-gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 2 | 66 | 3.0 | LANGUAGE <LL@li.org> | 
+ | [gettext](/f11/package/gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [mingw32-gettext](/f11/package/mingw32-gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [liblicense](/f11/package/liblicense) | 2 | 66 | 3.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

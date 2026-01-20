@@ -18,12 +18,12 @@ The package photoprint (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 746 | 754 | 98.9 | /mnt/stockage/packages/f13/photoprint/po/ru.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 725 | 754 | 96.2 | /mnt/stockage/packages/f13/photoprint/po/da.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 530 | 754 | 70.3 | /mnt/stockage/packages/f13/photoprint/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 530 | 754 | 70.3 | /mnt/stockage/packages/f13/photoprint/po/pt_BR.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 420 | 754 | 55.7 | /mnt/stockage/packages/f13/photoprint/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 308 | 754 | 40.8 | /mnt/stockage/packages/f13/photoprint/po/fr.po | 
+ | [ru](/f13/language/ru) | 746 | 754 | 98.9 | /mnt/stockage/packages/f13/photoprint/po/ru.po | 
+ | [da](/f13/language/da) | 725 | 754 | 96.2 | /mnt/stockage/packages/f13/photoprint/po/da.po | 
+ | [pt](/f13/language/pt) | 530 | 754 | 70.3 | /mnt/stockage/packages/f13/photoprint/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 530 | 754 | 70.3 | /mnt/stockage/packages/f13/photoprint/po/pt_BR.po | 
+ | [es](/f13/language/es) | 420 | 754 | 55.7 | /mnt/stockage/packages/f13/photoprint/po/es.po | 
+ | [fr](/f13/language/fr) | 308 | 754 | 40.8 | /mnt/stockage/packages/f13/photoprint/po/fr.po | 
 {.sortable}
 
 

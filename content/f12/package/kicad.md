@@ -18,22 +18,22 @@ The package kicad (version 2010.05.27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 4638 | 4638 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/ca/kicad.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 9211 | 9211 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/cs/kicad.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 5189 | 5189 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/hu/kicad.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 4722 | 4722 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/it/kicad.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 6116 | 6116 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/ko/kicad.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 11630 | 11630 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/nl/kicad.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 11901 | 11901 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/ru/kicad.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 11943 | 11945 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/fr/kicad.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 4522 | 4527 | 99.9 | /mnt/stockage/packages/f12/kicad/internat/sl/kicad.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 11693 | 11707 | 99.9 | /mnt/stockage/packages/f12/kicad/internat/pt/kicad.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 11681 | 11695 | 99.9 | /mnt/stockage/packages/f12/kicad/internat/de/kicad.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 6916 | 7162 | 96.6 | /mnt/stockage/packages/f12/kicad/internat/zh_CN/kicad.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 11073 | 11695 | 94.7 | /mnt/stockage/packages/f12/kicad/internat/fi/kicad.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 6863 | 7464 | 91.9 | /mnt/stockage/packages/f12/kicad/internat/es/kicad.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 5892 | 11587 | 50.9 | /mnt/stockage/packages/f12/kicad/internat/pl/kicad.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1451 | 6465 | 22.4 | /mnt/stockage/packages/f12/kicad/internat/sv/kicad.po | 
+ | [ca](/f12/language/ca) | 4638 | 4638 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/ca/kicad.po | 
+ | [cs](/f12/language/cs) | 9211 | 9211 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/cs/kicad.po | 
+ | [hu](/f12/language/hu) | 5189 | 5189 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/hu/kicad.po | 
+ | [it](/f12/language/it) | 4722 | 4722 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/it/kicad.po | 
+ | [ko](/f12/language/ko) | 6116 | 6116 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/ko/kicad.po | 
+ | [nl](/f12/language/nl) | 11630 | 11630 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/nl/kicad.po | 
+ | [ru](/f12/language/ru) | 11901 | 11901 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/ru/kicad.po | 
+ | [fr](/f12/language/fr) | 11943 | 11945 | 100.0 | /mnt/stockage/packages/f12/kicad/internat/fr/kicad.po | 
+ | [sl](/f12/language/sl) | 4522 | 4527 | 99.9 | /mnt/stockage/packages/f12/kicad/internat/sl/kicad.po | 
+ | [pt](/f12/language/pt) | 11693 | 11707 | 99.9 | /mnt/stockage/packages/f12/kicad/internat/pt/kicad.po | 
+ | [de](/f12/language/de) | 11681 | 11695 | 99.9 | /mnt/stockage/packages/f12/kicad/internat/de/kicad.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 6916 | 7162 | 96.6 | /mnt/stockage/packages/f12/kicad/internat/zh_CN/kicad.po | 
+ | [fi](/f12/language/fi) | 11073 | 11695 | 94.7 | /mnt/stockage/packages/f12/kicad/internat/fi/kicad.po | 
+ | [es](/f12/language/es) | 6863 | 7464 | 91.9 | /mnt/stockage/packages/f12/kicad/internat/es/kicad.po | 
+ | [pl](/f12/language/pl) | 5892 | 11587 | 50.9 | /mnt/stockage/packages/f12/kicad/internat/pl/kicad.po | 
+ | [sv](/f12/language/sv) | 1451 | 6465 | 22.4 | /mnt/stockage/packages/f12/kicad/internat/sv/kicad.po | 
 {.sortable}
 
 

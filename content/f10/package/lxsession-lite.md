@@ -18,14 +18,14 @@ The package lxsession-lite (version 0.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f10/lxsession-lite/po/de.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f10/lxsession-lite/po/hu.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f10/lxsession-lite/po/zh_TW.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 39 | 40 | 97.5 | /mnt/stockage/packages/f10/lxsession-lite/po/fr.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 24 | 37 | 64.9 | /mnt/stockage/packages/f10/lxsession-lite/po/fi.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 7 | 40 | 17.5 | /mnt/stockage/packages/f10/lxsession-lite/po/es.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 7 | 40 | 17.5 | /mnt/stockage/packages/f10/lxsession-lite/po/pl.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 7 | 40 | 17.5 | /mnt/stockage/packages/f10/lxsession-lite/po/sk.po | 
+ | [de](/f10/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f10/lxsession-lite/po/de.po | 
+ | [hu](/f10/language/hu) | 40 | 40 | 100.0 | /mnt/stockage/packages/f10/lxsession-lite/po/hu.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 40 | 40 | 100.0 | /mnt/stockage/packages/f10/lxsession-lite/po/zh_TW.po | 
+ | [fr](/f10/language/fr) | 39 | 40 | 97.5 | /mnt/stockage/packages/f10/lxsession-lite/po/fr.po | 
+ | [fi](/f10/language/fi) | 24 | 37 | 64.9 | /mnt/stockage/packages/f10/lxsession-lite/po/fi.po | 
+ | [es](/f10/language/es) | 7 | 40 | 17.5 | /mnt/stockage/packages/f10/lxsession-lite/po/es.po | 
+ | [pl](/f10/language/pl) | 7 | 40 | 17.5 | /mnt/stockage/packages/f10/lxsession-lite/po/pl.po | 
+ | [sk](/f10/language/sk) | 7 | 40 | 17.5 | /mnt/stockage/packages/f10/lxsession-lite/po/sk.po | 
 {.sortable}
 
 

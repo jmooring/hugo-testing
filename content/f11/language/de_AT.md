@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gdeskcal]({{< ref "/f11/package/gdeskcal.md" >}}) | 85 | 85 | 100.0 |  | 
- | [kanyremote]({{< ref "/f11/package/kanyremote.md" >}}) | 498 | 498 | 100.0 | Austrian | 
- | [ganyremote]({{< ref "/f11/package/ganyremote.md" >}}) | 501 | 518 | 96.7 | Austrian | 
- | [gourmet]({{< ref "/f11/package/gourmet.md" >}}) | 3200 | 3526 | 90.8 | German (Austria) <de_AT@li.org> | 
- | [gnomebaker]({{< ref "/f11/package/gnomebaker.md" >}}) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
- | [perl-libintl]({{< ref "/f11/package/perl-libintl.md" >}}) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
- | [gpsdrive]({{< ref "/f11/package/gpsdrive.md" >}}) | 424 | 2505 | 16.9 | german <de@li.org> | 
- | [texlive]({{< ref "/f11/package/texlive.md" >}}) | 1 | 4382 | 0.0 | German <de@li.org> | 
- | [texinfo]({{< ref "/f11/package/texinfo.md" >}}) | 1 | 4691 | 0.0 | German <de@li.org> | 
- | [vidalia]({{< ref "/f11/package/vidalia.md" >}}) | 0 | 2730 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gdeskcal](/f11/package/gdeskcal) | 85 | 85 | 100.0 |  | 
+ | [kanyremote](/f11/package/kanyremote) | 498 | 498 | 100.0 | Austrian | 
+ | [ganyremote](/f11/package/ganyremote) | 501 | 518 | 96.7 | Austrian | 
+ | [gourmet](/f11/package/gourmet) | 3200 | 3526 | 90.8 | German (Austria) <de_AT@li.org> | 
+ | [gnomebaker](/f11/package/gnomebaker) | 1008 | 1186 | 85.0 | German (Austria) <de_AT@li.org> | 
+ | [liblicense](/f11/package/liblicense) | 45 | 66 | 68.2 | LANGUAGE <LL@li.org> | 
+ | [perl-libintl](/f11/package/perl-libintl) | 5 | 22 | 22.7 | German <guido@imperia.net> | 
+ | [gpsdrive](/f11/package/gpsdrive) | 424 | 2505 | 16.9 | german <de@li.org> | 
+ | [texlive](/f11/package/texlive) | 1 | 4382 | 0.0 | German <de@li.org> | 
+ | [texinfo](/f11/package/texinfo) | 1 | 4691 | 0.0 | German <de@li.org> | 
+ | [vidalia](/f11/package/vidalia) | 0 | 2730 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

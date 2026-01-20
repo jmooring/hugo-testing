@@ -18,11 +18,11 @@ The package tinyca2 (version 0.7.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 1914 | 1914 | 100.0 | /mnt/stockage/packages/f10/tinyca2/po/de.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f10/tinyca2/po/sv.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1912 | 1914 | 99.9 | /mnt/stockage/packages/f10/tinyca2/po/fr.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1755 | 1914 | 91.7 | /mnt/stockage/packages/f10/tinyca2/po/cs.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1737 | 1914 | 90.8 | /mnt/stockage/packages/f10/tinyca2/po/es.po | 
+ | [de](/f10/language/de) | 1914 | 1914 | 100.0 | /mnt/stockage/packages/f10/tinyca2/po/de.po | 
+ | [sv](/f10/language/sv) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f10/tinyca2/po/sv.po | 
+ | [fr](/f10/language/fr) | 1912 | 1914 | 99.9 | /mnt/stockage/packages/f10/tinyca2/po/fr.po | 
+ | [cs](/f10/language/cs) | 1755 | 1914 | 91.7 | /mnt/stockage/packages/f10/tinyca2/po/cs.po | 
+ | [es](/f10/language/es) | 1737 | 1914 | 90.8 | /mnt/stockage/packages/f10/tinyca2/po/es.po | 
 {.sortable}
 
 

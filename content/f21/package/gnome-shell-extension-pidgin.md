@@ -18,8 +18,8 @@ The package gnome-shell-extension-pidgin (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f21/gnome-shell-extension-pidgin/locale/de/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f21/gnome-shell-extension-pidgin/locale/ru/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
+ | [de](/f21/language/de) | 6 | 6 | 100.0 | /mnt/stockage/packages/f21/gnome-shell-extension-pidgin/locale/de/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
+ | [ru](/f21/language/ru) | 6 | 6 | 100.0 | /mnt/stockage/packages/f21/gnome-shell-extension-pidgin/locale/ru/LC_MESSAGES/gnome-shell-extension-pidgin.po | 
 {.sortable}
 
 

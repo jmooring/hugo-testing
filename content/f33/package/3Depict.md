@@ -18,9 +18,9 @@ The package 3Depict (version 0.0.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2064 | 6668 | 31.0 | /mnt/stockage/packages/f33/3Depict/translations/3Depict_fr_FR.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 2023 | 6668 | 30.3 | /mnt/stockage/packages/f33/3Depict/translations/3Depict_de_DE.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1995 | 6668 | 29.9 | /mnt/stockage/packages/f33/3Depict/translations/3Depict_es_ES.po | 
+ | [fr](/f33/language/fr) | 2064 | 6668 | 31.0 | /mnt/stockage/packages/f33/3Depict/translations/3Depict_fr_FR.po | 
+ | [de](/f33/language/de) | 2023 | 6668 | 30.3 | /mnt/stockage/packages/f33/3Depict/translations/3Depict_de_DE.po | 
+ | [es](/f33/language/es) | 1995 | 6668 | 29.9 | /mnt/stockage/packages/f33/3Depict/translations/3Depict_es_ES.po | 
 {.sortable}
 
 

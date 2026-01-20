@@ -18,35 +18,35 @@ The package foliate (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f41/foliate/po/ru.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 730 | 741 | 98.5 | /mnt/stockage/packages/f41/foliate/po/gl.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 717 | 741 | 96.8 | /mnt/stockage/packages/f41/foliate/po/el.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 703 | 741 | 94.9 | /mnt/stockage/packages/f41/foliate/po/hu.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 699 | 741 | 94.3 | /mnt/stockage/packages/f41/foliate/po/es.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 692 | 741 | 93.4 | /mnt/stockage/packages/f41/foliate/po/nl.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/cs.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/fr.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/hr.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/oc.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/sr.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/zh_CN.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 646 | 741 | 87.2 | /mnt/stockage/packages/f41/foliate/po/sv.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 640 | 741 | 86.4 | /mnt/stockage/packages/f41/foliate/po/he.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 639 | 741 | 86.2 | /mnt/stockage/packages/f41/foliate/po/pt_BR.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 635 | 741 | 85.7 | /mnt/stockage/packages/f41/foliate/po/it.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 600 | 741 | 81.0 | /mnt/stockage/packages/f41/foliate/po/fa_IR.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 444 | 741 | 59.9 | /mnt/stockage/packages/f41/foliate/po/eu.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 381 | 741 | 51.4 | /mnt/stockage/packages/f41/foliate/po/de.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 340 | 741 | 45.9 | /mnt/stockage/packages/f41/foliate/po/ar.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 252 | 741 | 34.0 | /mnt/stockage/packages/f41/foliate/po/zh_TW.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 51 | 741 | 6.9 | /mnt/stockage/packages/f41/foliate/po/ko.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 50 | 741 | 6.7 | /mnt/stockage/packages/f41/foliate/po/nn.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 49 | 741 | 6.6 | /mnt/stockage/packages/f41/foliate/po/ie.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 48 | 741 | 6.5 | /mnt/stockage/packages/f41/foliate/po/nb.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 28 | 741 | 3.8 | /mnt/stockage/packages/f41/foliate/po/id.po | 
+ | [ru](/f41/language/ru) | 741 | 741 | 100.0 | /mnt/stockage/packages/f41/foliate/po/ru.po | 
+ | [gl](/f41/language/gl) | 730 | 741 | 98.5 | /mnt/stockage/packages/f41/foliate/po/gl.po | 
+ | [el](/f41/language/el) | 717 | 741 | 96.8 | /mnt/stockage/packages/f41/foliate/po/el.po | 
+ | [hu](/f41/language/hu) | 703 | 741 | 94.9 | /mnt/stockage/packages/f41/foliate/po/hu.po | 
+ | [es](/f41/language/es) | 699 | 741 | 94.3 | /mnt/stockage/packages/f41/foliate/po/es.po | 
+ | [nl](/f41/language/nl) | 692 | 741 | 93.4 | /mnt/stockage/packages/f41/foliate/po/nl.po | 
+ | [cs](/f41/language/cs) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/cs.po | 
+ | [fr](/f41/language/fr) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/fr.po | 
+ | [hi](/f41/language/hi) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/hi.po | 
+ | [hr](/f41/language/hr) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/hr.po | 
+ | [oc](/f41/language/oc) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/oc.po | 
+ | [sr](/f41/language/sr) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/sr.po | 
+ | [tr](/f41/language/tr) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/tr.po | 
+ | [uk](/f41/language/uk) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 655 | 741 | 88.4 | /mnt/stockage/packages/f41/foliate/po/zh_CN.po | 
+ | [sv](/f41/language/sv) | 646 | 741 | 87.2 | /mnt/stockage/packages/f41/foliate/po/sv.po | 
+ | [he](/f41/language/he) | 640 | 741 | 86.4 | /mnt/stockage/packages/f41/foliate/po/he.po | 
+ | [pt_BR](/f41/language/pt_BR) | 639 | 741 | 86.2 | /mnt/stockage/packages/f41/foliate/po/pt_BR.po | 
+ | [it](/f41/language/it) | 635 | 741 | 85.7 | /mnt/stockage/packages/f41/foliate/po/it.po | 
+ | [fa](/f41/language/fa) | 600 | 741 | 81.0 | /mnt/stockage/packages/f41/foliate/po/fa_IR.po | 
+ | [eu](/f41/language/eu) | 444 | 741 | 59.9 | /mnt/stockage/packages/f41/foliate/po/eu.po | 
+ | [de](/f41/language/de) | 381 | 741 | 51.4 | /mnt/stockage/packages/f41/foliate/po/de.po | 
+ | [ar](/f41/language/ar) | 340 | 741 | 45.9 | /mnt/stockage/packages/f41/foliate/po/ar.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 252 | 741 | 34.0 | /mnt/stockage/packages/f41/foliate/po/zh_TW.po | 
+ | [ko](/f41/language/ko) | 51 | 741 | 6.9 | /mnt/stockage/packages/f41/foliate/po/ko.po | 
+ | [nn](/f41/language/nn) | 50 | 741 | 6.7 | /mnt/stockage/packages/f41/foliate/po/nn.po | 
+ | [ie](/f41/language/ie) | 49 | 741 | 6.6 | /mnt/stockage/packages/f41/foliate/po/ie.po | 
+ | [nb_NO](/f41/language/nb_NO) | 48 | 741 | 6.5 | /mnt/stockage/packages/f41/foliate/po/nb.po | 
+ | [id](/f41/language/id) | 28 | 741 | 3.8 | /mnt/stockage/packages/f41/foliate/po/id.po | 
 {.sortable}
 
 

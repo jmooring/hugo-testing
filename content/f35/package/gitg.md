@@ -18,53 +18,53 @@ The package gitg (version 3.32.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f35/language/as.md" >}}) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f35/gitg/po/as.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 1996 | 1996 | 100.0 | /mnt/stockage/packages/f35/gitg/po/bg.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f35/gitg/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1961 | 1961 | 100.0 | /mnt/stockage/packages/f35/gitg/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 2158 | 2158 | 100.0 | /mnt/stockage/packages/f35/gitg/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f35/gitg/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 2158 | 2158 | 100.0 | /mnt/stockage/packages/f35/gitg/po/eu.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f35/gitg/po/he.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/it.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f35/gitg/po/lv.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/nl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 2020 | 2020 | 100.0 | /mnt/stockage/packages/f35/gitg/po/oc.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 2005 | 2005 | 100.0 | /mnt/stockage/packages/f35/gitg/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/ro.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sl.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 4193 | 4193 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sr@latin.po/mnt/stockage/packages/f35/gitg/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 682 | 682 | 100.0 | /mnt/stockage/packages/f35/gitg/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f35/gitg/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f35/gitg/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 873 | 1154 | 75.6 | /mnt/stockage/packages/f35/gitg/po/zh_HK.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1587 | 2134 | 74.4 | /mnt/stockage/packages/f35/gitg/po/eo.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1483 | 2034 | 72.9 | /mnt/stockage/packages/f35/gitg/po/ru.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 1313 | 2034 | 64.6 | /mnt/stockage/packages/f35/gitg/po/ca@valencia.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1280 | 2159 | 59.3 | /mnt/stockage/packages/f35/gitg/po/fi.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 306 | 695 | 44.0 | /mnt/stockage/packages/f35/gitg/po/ja.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 650 | 2034 | 32.0 | /mnt/stockage/packages/f35/gitg/po/fur.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 497 | 2034 | 24.4 | /mnt/stockage/packages/f35/gitg/po/nb.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 273 | 1237 | 22.1 | /mnt/stockage/packages/f35/gitg/po/pa.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 331 | 2034 | 16.3 | /mnt/stockage/packages/f35/gitg/po/ne.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 126 | 2034 | 6.2 | /mnt/stockage/packages/f35/gitg/po/ml.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 79 | 2159 | 3.7 | /mnt/stockage/packages/f35/gitg/po/kk.po | 
+ | [as](/f35/language/as) | 1154 | 1154 | 100.0 | /mnt/stockage/packages/f35/gitg/po/as.po | 
+ | [bg](/f35/language/bg) | 1996 | 1996 | 100.0 | /mnt/stockage/packages/f35/gitg/po/bg.po | 
+ | [bs](/f35/language/bs) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f35/gitg/po/bs.po | 
+ | [ca](/f35/language/ca) | 1961 | 1961 | 100.0 | /mnt/stockage/packages/f35/gitg/po/ca.po | 
+ | [cs](/f35/language/cs) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/cs.po | 
+ | [da](/f35/language/da) | 2158 | 2158 | 100.0 | /mnt/stockage/packages/f35/gitg/po/da.po | 
+ | [de](/f35/language/de) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/de.po | 
+ | [el](/f35/language/el) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f35/gitg/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/en_GB.po | 
+ | [es](/f35/language/es) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/es.po | 
+ | [eu](/f35/language/eu) | 2158 | 2158 | 100.0 | /mnt/stockage/packages/f35/gitg/po/eu.po | 
+ | [fr](/f35/language/fr) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/fr.po | 
+ | [gl](/f35/language/gl) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/gl.po | 
+ | [he](/f35/language/he) | 1344 | 1344 | 100.0 | /mnt/stockage/packages/f35/gitg/po/he.po | 
+ | [hu](/f35/language/hu) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/hu.po | 
+ | [id](/f35/language/id) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/id.po | 
+ | [it](/f35/language/it) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/it.po | 
+ | [ko](/f35/language/ko) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/ko.po | 
+ | [lt](/f35/language/lt) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/lt.po | 
+ | [lv](/f35/language/lv) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f35/gitg/po/lv.po | 
+ | [nl](/f35/language/nl) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/nl.po | 
+ | [oc](/f35/language/oc) | 2020 | 2020 | 100.0 | /mnt/stockage/packages/f35/gitg/po/oc.po | 
+ | [pl](/f35/language/pl) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/pl.po | 
+ | [pt](/f35/language/pt) | 2005 | 2005 | 100.0 | /mnt/stockage/packages/f35/gitg/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/ro.po | 
+ | [sk](/f35/language/sk) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sk.po | 
+ | [sl](/f35/language/sl) | 2192 | 2192 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sl.po | 
+ | [sr](/f35/language/sr) | 4193 | 4193 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sr@latin.po/mnt/stockage/packages/f35/gitg/po/sr.po | 
+ | [sv](/f35/language/sv) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/sv.po | 
+ | [tr](/f35/language/tr) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/tr.po | 
+ | [uk](/f35/language/uk) | 682 | 682 | 100.0 | /mnt/stockage/packages/f35/gitg/po/uk.po | 
+ | [vi](/f35/language/vi) | 2159 | 2159 | 100.0 | /mnt/stockage/packages/f35/gitg/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 2034 | 2034 | 100.0 | /mnt/stockage/packages/f35/gitg/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 2056 | 2056 | 100.0 | /mnt/stockage/packages/f35/gitg/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 873 | 1154 | 75.6 | /mnt/stockage/packages/f35/gitg/po/zh_HK.po | 
+ | [eo](/f35/language/eo) | 1587 | 2134 | 74.4 | /mnt/stockage/packages/f35/gitg/po/eo.po | 
+ | [ru](/f35/language/ru) | 1483 | 2034 | 72.9 | /mnt/stockage/packages/f35/gitg/po/ru.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 1313 | 2034 | 64.6 | /mnt/stockage/packages/f35/gitg/po/ca@valencia.po | 
+ | [fi](/f35/language/fi) | 1280 | 2159 | 59.3 | /mnt/stockage/packages/f35/gitg/po/fi.po | 
+ | [ja](/f35/language/ja) | 306 | 695 | 44.0 | /mnt/stockage/packages/f35/gitg/po/ja.po | 
+ | [fur](/f35/language/fur) | 650 | 2034 | 32.0 | /mnt/stockage/packages/f35/gitg/po/fur.po | 
+ | [nb_NO](/f35/language/nb_NO) | 497 | 2034 | 24.4 | /mnt/stockage/packages/f35/gitg/po/nb.po | 
+ | [pa](/f35/language/pa) | 273 | 1237 | 22.1 | /mnt/stockage/packages/f35/gitg/po/pa.po | 
+ | [ne](/f35/language/ne) | 331 | 2034 | 16.3 | /mnt/stockage/packages/f35/gitg/po/ne.po | 
+ | [ml](/f35/language/ml) | 126 | 2034 | 6.2 | /mnt/stockage/packages/f35/gitg/po/ml.po | 
+ | [kk](/f35/language/kk) | 79 | 2159 | 3.7 | /mnt/stockage/packages/f35/gitg/po/kk.po | 
 {.sortable}
 
 

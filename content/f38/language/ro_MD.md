@@ -38,29 +38,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-calendar]({{< ref "/f38/package/elementary-calendar.md" >}}) | 351 | 575 | 61.0 | Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 1150 | 2490 | 46.2 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
- | [elementary-calculator]({{< ref "/f38/package/elementary-calculator.md" >}}) | 45 | 195 | 23.1 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
- | [elementary-camera]({{< ref "/f38/package/elementary-camera.md" >}}) | 25 | 133 | 18.8 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 224 | 1614 | 13.9 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 1282 | 15537 | 8.3 | Moldavian <mo@li.org> | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 12 | 205 | 5.9 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 30 | 989 | 3.0 | Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/> | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f38/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
+ | [elementary-calendar](/f38/package/elementary-calendar) | 351 | 575 | 61.0 | Moldovan <https://l10n.elementary.io/projects/calendar/calendar/mo/> | 
+ | [elementary-files](/f38/package/elementary-files) | 1150 | 2490 | 46.2 | Moldovan <https://weblate.elementary.io/projects/files/files/mo/> | 
+ | [elementary-calculator](/f38/package/elementary-calculator) | 45 | 195 | 23.1 | Moldovan <https://weblate.elementary.io/projects/calculator/calculator/mo/> | 
+ | [elementary-camera](/f38/package/elementary-camera) | 25 | 133 | 18.8 | Moldovan <https://weblate.elementary.io/projects/camera/camera/mo/> | 
+ | [elementary-code](/f38/package/elementary-code) | 224 | 1614 | 13.9 | Moldovan <https://weblate.elementary.io/projects/code/code/ro_MD/> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 1282 | 15537 | 8.3 | Moldavian <mo@li.org> | 
+ | [elementary-music](/f38/package/elementary-music) | 12 | 205 | 5.9 | Moldovan <https://weblate.elementary.io/projects/music/music/mo/> | 
+ | [iso-codes](/f38/package/iso-codes) | 30 | 989 | 3.0 | Moldovan <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mo/> | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [elementary-onboarding](/f38/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
 {.sortable}
 
 

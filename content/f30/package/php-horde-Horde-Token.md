@@ -18,48 +18,48 @@ The package php-horde-Horde-Token (version 2.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f30/language/da.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/da/LC_MESSAGES/Horde_Token.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/de/LC_MESSAGES/Horde_Token.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/el/LC_MESSAGES/Horde_Token.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/es/LC_MESSAGES/Horde_Token.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/et/LC_MESSAGES/Horde_Token.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/fi/LC_MESSAGES/Horde_Token.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/fr/LC_MESSAGES/Horde_Token.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/hr/LC_MESSAGES/Horde_Token.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/hu/LC_MESSAGES/Horde_Token.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ja/LC_MESSAGES/Horde_Token.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/lt/LC_MESSAGES/Horde_Token.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/lv/LC_MESSAGES/Horde_Token.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/nl/LC_MESSAGES/Horde_Token.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/pt_BR/LC_MESSAGES/Horde_Token.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/sk/LC_MESSAGES/Horde_Token.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 29 | 35 | 82.9 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/it/LC_MESSAGES/Horde_Token.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ar/LC_MESSAGES/Horde_Token.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/bg/LC_MESSAGES/Horde_Token.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/bs/LC_MESSAGES/Horde_Token.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ca/LC_MESSAGES/Horde_Token.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/cs/LC_MESSAGES/Horde_Token.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/eu/LC_MESSAGES/Horde_Token.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/fa/LC_MESSAGES/Horde_Token.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/gl/LC_MESSAGES/Horde_Token.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/he/LC_MESSAGES/Horde_Token.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/id/LC_MESSAGES/Horde_Token.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/is/LC_MESSAGES/Horde_Token.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/km/LC_MESSAGES/Horde_Token.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ko/LC_MESSAGES/Horde_Token.po | 
- | [mk]({{< ref "/f30/language/mk.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/mk/LC_MESSAGES/Horde_Token.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/nb/LC_MESSAGES/Horde_Token.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/nn/LC_MESSAGES/Horde_Token.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/pl/LC_MESSAGES/Horde_Token.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/pt/LC_MESSAGES/Horde_Token.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ro/LC_MESSAGES/Horde_Token.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ru/LC_MESSAGES/Horde_Token.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/sl/LC_MESSAGES/Horde_Token.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/sv/LC_MESSAGES/Horde_Token.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/tr/LC_MESSAGES/Horde_Token.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/uk/LC_MESSAGES/Horde_Token.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/zh_CN/LC_MESSAGES/Horde_Token.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/zh_TW/LC_MESSAGES/Horde_Token.po | 
+ | [da](/f30/language/da) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/da/LC_MESSAGES/Horde_Token.po | 
+ | [de](/f30/language/de) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/de/LC_MESSAGES/Horde_Token.po | 
+ | [el](/f30/language/el) | 35 | 35 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/el/LC_MESSAGES/Horde_Token.po | 
+ | [es](/f30/language/es) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/es/LC_MESSAGES/Horde_Token.po | 
+ | [et](/f30/language/et) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/et/LC_MESSAGES/Horde_Token.po | 
+ | [fi](/f30/language/fi) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/fi/LC_MESSAGES/Horde_Token.po | 
+ | [fr](/f30/language/fr) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/fr/LC_MESSAGES/Horde_Token.po | 
+ | [hr](/f30/language/hr) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/hr/LC_MESSAGES/Horde_Token.po | 
+ | [hu](/f30/language/hu) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/hu/LC_MESSAGES/Horde_Token.po | 
+ | [ja](/f30/language/ja) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ja/LC_MESSAGES/Horde_Token.po | 
+ | [lt](/f30/language/lt) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/lt/LC_MESSAGES/Horde_Token.po | 
+ | [lv](/f30/language/lv) | 39 | 39 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/lv/LC_MESSAGES/Horde_Token.po | 
+ | [nl](/f30/language/nl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/nl/LC_MESSAGES/Horde_Token.po | 
+ | [pt_BR](/f30/language/pt_BR) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/pt_BR/LC_MESSAGES/Horde_Token.po | 
+ | [sk](/f30/language/sk) | 64 | 64 | 100.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/sk/LC_MESSAGES/Horde_Token.po | 
+ | [it](/f30/language/it) | 29 | 35 | 82.9 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/it/LC_MESSAGES/Horde_Token.po | 
+ | [ar](/f30/language/ar) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ar/LC_MESSAGES/Horde_Token.po | 
+ | [bg](/f30/language/bg) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/bg/LC_MESSAGES/Horde_Token.po | 
+ | [bs](/f30/language/bs) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/bs/LC_MESSAGES/Horde_Token.po | 
+ | [ca](/f30/language/ca) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ca/LC_MESSAGES/Horde_Token.po | 
+ | [cs](/f30/language/cs) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/cs/LC_MESSAGES/Horde_Token.po | 
+ | [eu](/f30/language/eu) | 0 | 64 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/eu/LC_MESSAGES/Horde_Token.po | 
+ | [fa](/f30/language/fa) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/fa/LC_MESSAGES/Horde_Token.po | 
+ | [gl](/f30/language/gl) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/gl/LC_MESSAGES/Horde_Token.po | 
+ | [he](/f30/language/he) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/he/LC_MESSAGES/Horde_Token.po | 
+ | [id](/f30/language/id) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/id/LC_MESSAGES/Horde_Token.po | 
+ | [is](/f30/language/is) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/is/LC_MESSAGES/Horde_Token.po | 
+ | [km](/f30/language/km) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/km/LC_MESSAGES/Horde_Token.po | 
+ | [ko](/f30/language/ko) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ko/LC_MESSAGES/Horde_Token.po | 
+ | [mk](/f30/language/mk) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/mk/LC_MESSAGES/Horde_Token.po | 
+ | [nb_NO](/f30/language/nb_NO) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/nb/LC_MESSAGES/Horde_Token.po | 
+ | [nn](/f30/language/nn) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/nn/LC_MESSAGES/Horde_Token.po | 
+ | [pl](/f30/language/pl) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/pl/LC_MESSAGES/Horde_Token.po | 
+ | [pt](/f30/language/pt) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/pt/LC_MESSAGES/Horde_Token.po | 
+ | [ro](/f30/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ro/LC_MESSAGES/Horde_Token.po | 
+ | [ru](/f30/language/ru) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/ru/LC_MESSAGES/Horde_Token.po | 
+ | [sl](/f30/language/sl) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/sl/LC_MESSAGES/Horde_Token.po | 
+ | [sv](/f30/language/sv) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/sv/LC_MESSAGES/Horde_Token.po | 
+ | [tr](/f30/language/tr) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/tr/LC_MESSAGES/Horde_Token.po | 
+ | [uk](/f30/language/uk) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/uk/LC_MESSAGES/Horde_Token.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/zh_CN/LC_MESSAGES/Horde_Token.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 0 | 35 | 0.0 | /mnt/stockage/packages/f30/php-horde-Horde-Token/Horde_Token-2.0.9/locale/zh_TW/LC_MESSAGES/Horde_Token.po | 
 {.sortable}
 
 

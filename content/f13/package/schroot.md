@@ -18,15 +18,15 @@ The package schroot (version 1.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f13/language/en.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/en.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/eu.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/fr.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/pt.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/zh_CN.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1292 | 1310 | 98.6 | /mnt/stockage/packages/f13/schroot/po/de.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 1039 | 1310 | 79.3 | /mnt/stockage/packages/f13/schroot/po/cs.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1039 | 1310 | 79.3 | /mnt/stockage/packages/f13/schroot/po/sv.po | 
+ | [en](/f13/language/en) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/en.po | 
+ | [eu](/f13/language/eu) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/eu.po | 
+ | [fr](/f13/language/fr) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/fr.po | 
+ | [pt](/f13/language/pt) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/pt.po | 
+ | [vi](/f13/language/vi) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1310 | 1310 | 100.0 | /mnt/stockage/packages/f13/schroot/po/zh_CN.po | 
+ | [de](/f13/language/de) | 1292 | 1310 | 98.6 | /mnt/stockage/packages/f13/schroot/po/de.po | 
+ | [cs](/f13/language/cs) | 1039 | 1310 | 79.3 | /mnt/stockage/packages/f13/schroot/po/cs.po | 
+ | [sv](/f13/language/sv) | 1039 | 1310 | 79.3 | /mnt/stockage/packages/f13/schroot/po/sv.po | 
 {.sortable}
 
 

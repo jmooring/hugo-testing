@@ -18,47 +18,47 @@ The package gnome-characters (version 3.20.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ar.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/el.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/gl.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/eo.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/eu.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fa.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fr.po | 
- | [fur]({{< ref "/f24/language/fur.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fur.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ja.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/kk.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/lv.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/nb.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/nl.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/oc.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/pt_BR.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 149 | 149 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ro.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sr@latin.po/mnt/stockage/packages/f24/gnome-characters/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/uk.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/zh_TW.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 108 | 146 | 74.0 | /mnt/stockage/packages/f24/gnome-characters/po/is.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 80 | 146 | 54.8 | /mnt/stockage/packages/f24/gnome-characters/po/pa.po | 
+ | [ar](/f24/language/ar) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ar.po | 
+ | [ca](/f24/language/ca) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ca.po | 
+ | [cs](/f24/language/cs) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/cs.po | 
+ | [da](/f24/language/da) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/da.po | 
+ | [de](/f24/language/de) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/de.po | 
+ | [el](/f24/language/el) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/el.po | 
+ | [en](/f24/language/en) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/gl.po | 
+ | [eo](/f24/language/eo) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/eo.po | 
+ | [es](/f24/language/es) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/es.po | 
+ | [eu](/f24/language/eu) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/eu.po | 
+ | [fa](/f24/language/fa) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fa.po | 
+ | [fi](/f24/language/fi) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fi.po | 
+ | [fr](/f24/language/fr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fr.po | 
+ | [fur](/f24/language/fur) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/fur.po | 
+ | [he](/f24/language/he) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/he.po | 
+ | [hu](/f24/language/hu) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/hu.po | 
+ | [id](/f24/language/id) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/id.po | 
+ | [it](/f24/language/it) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/it.po | 
+ | [ja](/f24/language/ja) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ja.po | 
+ | [kk](/f24/language/kk) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/kk.po | 
+ | [ko](/f24/language/ko) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ko.po | 
+ | [lt](/f24/language/lt) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/lt.po | 
+ | [lv](/f24/language/lv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/lv.po | 
+ | [nb_NO](/f24/language/nb_NO) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/nb.po | 
+ | [nl](/f24/language/nl) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/nl.po | 
+ | [oc](/f24/language/oc) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/oc.po | 
+ | [pl](/f24/language/pl) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/pl.po | 
+ | [pt](/f24/language/pt) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/pt_BR.po | 
+ | [ro](/f24/language/ro) | 149 | 149 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ro.po | 
+ | [ru](/f24/language/ru) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/ru.po | 
+ | [sk](/f24/language/sk) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sk.po | 
+ | [sl](/f24/language/sl) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sl.po | 
+ | [sr](/f24/language/sr) | 310 | 310 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sr@latin.po/mnt/stockage/packages/f24/gnome-characters/po/sr.po | 
+ | [sv](/f24/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/sv.po | 
+ | [tr](/f24/language/tr) | 146 | 146 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/tr.po | 
+ | [uk](/f24/language/uk) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/uk.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 155 | 155 | 100.0 | /mnt/stockage/packages/f24/gnome-characters/po/zh_TW.po | 
+ | [is](/f24/language/is) | 108 | 146 | 74.0 | /mnt/stockage/packages/f24/gnome-characters/po/is.po | 
+ | [pa](/f24/language/pa) | 80 | 146 | 54.8 | /mnt/stockage/packages/f24/gnome-characters/po/pa.po | 
 {.sortable}
 
 

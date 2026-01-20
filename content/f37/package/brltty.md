@@ -18,12 +18,12 @@ The package brltty (version 6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/ar.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/fr.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 2945 | 2945 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/ru.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 3008 | 3008 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/zh.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 2589 | 3026 | 85.6 | /mnt/stockage/packages/f37/brltty/Messages/de.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 191 | 2958 | 6.5 | /mnt/stockage/packages/f37/brltty/Messages/it.po | 
+ | [ar](/f37/language/ar) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/ar.po | 
+ | [fr](/f37/language/fr) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/fr.po | 
+ | [ru](/f37/language/ru) | 2945 | 2945 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/ru.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 3008 | 3008 | 100.0 | /mnt/stockage/packages/f37/brltty/Messages/zh.po | 
+ | [de](/f37/language/de) | 2589 | 3026 | 85.6 | /mnt/stockage/packages/f37/brltty/Messages/de.po | 
+ | [it](/f37/language/it) | 191 | 2958 | 6.5 | /mnt/stockage/packages/f37/brltty/Messages/it.po | 
 {.sortable}
 
 

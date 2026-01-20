@@ -18,7 +18,7 @@ The package awn-extras-applets (version 0.3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f10/awn-extras-applets/src/comics/sv_SE.po | 
+ | [sv](/f10/language/sv) | 132 | 132 | 100.0 | /mnt/stockage/packages/f10/awn-extras-applets/src/comics/sv_SE.po | 
 {.sortable}
 
 

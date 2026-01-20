@@ -18,11 +18,11 @@ The package libgpg-error (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 734 | 734 | 100.0 | /mnt/stockage/packages/f7/libgpg-error/po/de.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 614 | 734 | 83.7 | /mnt/stockage/packages/f7/libgpg-error/po/pl.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 614 | 734 | 83.7 | /mnt/stockage/packages/f7/libgpg-error/po/ro.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 614 | 734 | 83.7 | /mnt/stockage/packages/f7/libgpg-error/po/vi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 612 | 734 | 83.4 | /mnt/stockage/packages/f7/libgpg-error/po/fr.po | 
+ | [de](/f7/language/de) | 734 | 734 | 100.0 | /mnt/stockage/packages/f7/libgpg-error/po/de.po | 
+ | [pl](/f7/language/pl) | 614 | 734 | 83.7 | /mnt/stockage/packages/f7/libgpg-error/po/pl.po | 
+ | [ro](/f7/language/ro) | 614 | 734 | 83.7 | /mnt/stockage/packages/f7/libgpg-error/po/ro.po | 
+ | [vi](/f7/language/vi) | 614 | 734 | 83.7 | /mnt/stockage/packages/f7/libgpg-error/po/vi.po | 
+ | [fr](/f7/language/fr) | 612 | 734 | 83.4 | /mnt/stockage/packages/f7/libgpg-error/po/fr.po | 
 {.sortable}
 
 

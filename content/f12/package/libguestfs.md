@@ -18,18 +18,18 @@ The package libguestfs (version 1.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 2837 | 2910 | 97.5 | /mnt/stockage/packages/f12/libguestfs/po/es.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 2788 | 2910 | 95.8 | /mnt/stockage/packages/f12/libguestfs/po/hi.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 2788 | 2910 | 95.8 | /mnt/stockage/packages/f12/libguestfs/po/pl.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 2785 | 2910 | 95.7 | /mnt/stockage/packages/f12/libguestfs/po/kn.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 2757 | 2910 | 94.7 | /mnt/stockage/packages/f12/libguestfs/po/gu.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 2757 | 2910 | 94.7 | /mnt/stockage/packages/f12/libguestfs/po/mr.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 2757 | 2910 | 94.7 | /mnt/stockage/packages/f12/libguestfs/po/or.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 2742 | 2910 | 94.2 | /mnt/stockage/packages/f12/libguestfs/po/ml.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 2725 | 2910 | 93.6 | /mnt/stockage/packages/f12/libguestfs/po/pa.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 2725 | 2910 | 93.6 | /mnt/stockage/packages/f12/libguestfs/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 2725 | 2910 | 93.6 | /mnt/stockage/packages/f12/libguestfs/po/te.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f12/libguestfs/gnulib/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
+ | [es](/f12/language/es) | 2837 | 2910 | 97.5 | /mnt/stockage/packages/f12/libguestfs/po/es.po | 
+ | [hi](/f12/language/hi) | 2788 | 2910 | 95.8 | /mnt/stockage/packages/f12/libguestfs/po/hi.po | 
+ | [pl](/f12/language/pl) | 2788 | 2910 | 95.8 | /mnt/stockage/packages/f12/libguestfs/po/pl.po | 
+ | [kn](/f12/language/kn) | 2785 | 2910 | 95.7 | /mnt/stockage/packages/f12/libguestfs/po/kn.po | 
+ | [gu](/f12/language/gu) | 2757 | 2910 | 94.7 | /mnt/stockage/packages/f12/libguestfs/po/gu.po | 
+ | [mr](/f12/language/mr) | 2757 | 2910 | 94.7 | /mnt/stockage/packages/f12/libguestfs/po/mr.po | 
+ | [or](/f12/language/or) | 2757 | 2910 | 94.7 | /mnt/stockage/packages/f12/libguestfs/po/or.po | 
+ | [ml](/f12/language/ml) | 2742 | 2910 | 94.2 | /mnt/stockage/packages/f12/libguestfs/po/ml.po | 
+ | [pa](/f12/language/pa) | 2725 | 2910 | 93.6 | /mnt/stockage/packages/f12/libguestfs/po/pa.po | 
+ | [ta](/f12/language/ta) | 2725 | 2910 | 93.6 | /mnt/stockage/packages/f12/libguestfs/po/ta.po | 
+ | [te](/f12/language/te) | 2725 | 2910 | 93.6 | /mnt/stockage/packages/f12/libguestfs/po/te.po | 
+ | [fr](/f12/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f12/libguestfs/gnulib/tests/locale/fr/LC_MESSAGES/test-quotearg.po | 
 {.sortable}
 
 

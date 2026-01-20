@@ -18,28 +18,28 @@ The package california (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 3442 | 3442 | 100.0 | /mnt/stockage/packages/f29/california/help/ca/ca.po/mnt/stockage/packages/f29/california/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/cs.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/el.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 793 | 793 | 100.0 | /mnt/stockage/packages/f29/california/po/fi.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 90 | 90 | 100.0 | /mnt/stockage/packages/f29/california/po/gl.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/hu.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f29/california/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/pt_BR.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/sv.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f29/california/po/uk.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/zh_TW.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 972 | 990 | 98.2 | /mnt/stockage/packages/f29/california/po/he.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 781 | 807 | 96.8 | /mnt/stockage/packages/f29/california/po/de.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 577 | 662 | 87.2 | /mnt/stockage/packages/f29/california/po/id.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 622 | 807 | 77.1 | /mnt/stockage/packages/f29/california/po/kk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 1264 | 1656 | 76.3 | /mnt/stockage/packages/f29/california/po/sr@latin.po/mnt/stockage/packages/f29/california/po/sr.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 174 | 249 | 69.9 | /mnt/stockage/packages/f29/california/po/sl.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 686 | 990 | 69.3 | /mnt/stockage/packages/f29/california/po/es.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 377 | 807 | 46.7 | /mnt/stockage/packages/f29/california/po/ru.po | 
+ | [bs](/f29/language/bs) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/bs.po | 
+ | [ca](/f29/language/ca) | 3442 | 3442 | 100.0 | /mnt/stockage/packages/f29/california/help/ca/ca.po/mnt/stockage/packages/f29/california/po/ca.po | 
+ | [cs](/f29/language/cs) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/cs.po | 
+ | [el](/f29/language/el) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/el.po | 
+ | [fi](/f29/language/fi) | 793 | 793 | 100.0 | /mnt/stockage/packages/f29/california/po/fi.po | 
+ | [gl](/f29/language/gl) | 90 | 90 | 100.0 | /mnt/stockage/packages/f29/california/po/gl.po | 
+ | [hu](/f29/language/hu) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/hu.po | 
+ | [pl](/f29/language/pl) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/pl.po | 
+ | [pt](/f29/language/pt) | 80 | 80 | 100.0 | /mnt/stockage/packages/f29/california/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/pt_BR.po | 
+ | [sv](/f29/language/sv) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/sv.po | 
+ | [tr](/f29/language/tr) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/tr.po | 
+ | [uk](/f29/language/uk) | 80 | 80 | 100.0 | /mnt/stockage/packages/f29/california/po/uk.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 990 | 990 | 100.0 | /mnt/stockage/packages/f29/california/po/zh_TW.po | 
+ | [he](/f29/language/he) | 972 | 990 | 98.2 | /mnt/stockage/packages/f29/california/po/he.po | 
+ | [de](/f29/language/de) | 781 | 807 | 96.8 | /mnt/stockage/packages/f29/california/po/de.po | 
+ | [id](/f29/language/id) | 577 | 662 | 87.2 | /mnt/stockage/packages/f29/california/po/id.po | 
+ | [kk](/f29/language/kk) | 622 | 807 | 77.1 | /mnt/stockage/packages/f29/california/po/kk.po | 
+ | [sr](/f29/language/sr) | 1264 | 1656 | 76.3 | /mnt/stockage/packages/f29/california/po/sr@latin.po/mnt/stockage/packages/f29/california/po/sr.po | 
+ | [sl](/f29/language/sl) | 174 | 249 | 69.9 | /mnt/stockage/packages/f29/california/po/sl.po | 
+ | [es](/f29/language/es) | 686 | 990 | 69.3 | /mnt/stockage/packages/f29/california/po/es.po | 
+ | [ru](/f29/language/ru) | 377 | 807 | 46.7 | /mnt/stockage/packages/f29/california/po/ru.po | 
 {.sortable}
 
 

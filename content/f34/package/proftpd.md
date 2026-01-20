@@ -18,16 +18,16 @@ The package proftpd (version 1.3.7d):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/es_ES.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 771 | 771 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/fr_FR.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/it_IT.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/ko_KR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 615 | 615 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/ru_RU.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/zh_TW.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 814 | 833 | 97.7 | /mnt/stockage/packages/f34/proftpd/locale/ja_JP.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 1061 | 1100 | 96.5 | /mnt/stockage/packages/f34/proftpd/locale/bg_BG.po | 
- | [en_US]({{< ref "/f34/language/en_US.md" >}}) | 0 | 1100 | 0.0 | /mnt/stockage/packages/f34/proftpd/locale/en_US.po | 
+ | [es](/f34/language/es) | 1100 | 1100 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/es_ES.po | 
+ | [fr](/f34/language/fr) | 771 | 771 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/fr_FR.po | 
+ | [it](/f34/language/it) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/it_IT.po | 
+ | [ko](/f34/language/ko) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/ko_KR.po | 
+ | [ru](/f34/language/ru) | 615 | 615 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/ru_RU.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 823 | 823 | 100.0 | /mnt/stockage/packages/f34/proftpd/locale/zh_TW.po | 
+ | [ja](/f34/language/ja) | 814 | 833 | 97.7 | /mnt/stockage/packages/f34/proftpd/locale/ja_JP.po | 
+ | [bg](/f34/language/bg) | 1061 | 1100 | 96.5 | /mnt/stockage/packages/f34/proftpd/locale/bg_BG.po | 
+ | [en_US](/f34/language/en_US) | 0 | 1100 | 0.0 | /mnt/stockage/packages/f34/proftpd/locale/en_US.po | 
 {.sortable}
 
 

@@ -39,33 +39,33 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [chkconfig]({{< ref "/f16/package/chkconfig.md" >}}) | 487 | 487 | 100.0 | Tajik (http://www.transifex.net/projects/p/fedora/language/tg/) | 
- | [konq-plugins]({{< ref "/f16/package/konq-plugins.md" >}}) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
- | [kiconedit]({{< ref "/f16/package/kiconedit.md" >}}) | 678 | 726 | 93.4 | Tajik | 
- | [libreoffice]({{< ref "/f16/package/libreoffice.md" >}}) | 455500 | 533994 | 85.3 | LANGUAGE <LL@li.org> | 
- | [ksig]({{< ref "/f16/package/ksig.md" >}}) | 68 | 85 | 80.0 | Tajik | 
- | [xmms]({{< ref "/f16/package/xmms.md" >}}) | 2590 | 3443 | 75.2 | Tajik | 
- | [kpilot]({{< ref "/f16/package/kpilot.md" >}}) | 4818 | 7156 | 67.3 | Tajik | 
- | [koffice-kivio]({{< ref "/f16/package/koffice-kivio.md" >}}) | 5218 | 8417 | 62.0 | Tajik | 
- | [kaudiocreator]({{< ref "/f16/package/kaudiocreator.md" >}}) | 418 | 1136 | 36.8 | <tajik> | 
- | [audacity]({{< ref "/f16/package/audacity.md" >}}) | 3724 | 10643 | 35.0 | Tajik Language | 
- | [aspell]({{< ref "/f16/package/aspell.md" >}}) | 600 | 1726 | 34.8 | Tajik | 
- | [kdiff3]({{< ref "/f16/package/kdiff3.md" >}}) | 1054 | 3517 | 30.0 | Tajik | 
- | [usermode]({{< ref "/f16/package/usermode.md" >}}) | 123 | 572 | 21.5 | LANGUAGE <LL@li.org> | 
- | [yelp]({{< ref "/f16/package/yelp.md" >}}) | 92 | 606 | 15.2 | Tajik | 
- | [system-config-language]({{< ref "/f16/package/system-config-language.md" >}}) | 47 | 323 | 14.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
- | [firstboot]({{< ref "/f16/package/firstboot.md" >}}) | 53 | 596 | 8.9 | LANGUAGE <LL@li.org> | 
- | [anaconda]({{< ref "/f16/package/anaconda.md" >}}) | 611 | 9408 | 6.5 | LANGUAGE <LL@li.org> | 
- | [ibus]({{< ref "/f16/package/ibus.md" >}}) | 32 | 612 | 5.2 | Tajik (http://www.transifex.net/projects/p/fedora/team/tg/) | 
- | [kcoloredit]({{< ref "/f16/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Tajik | 
- | [authconfig]({{< ref "/f16/package/authconfig.md" >}}) | 14 | 1379 | 1.0 | LANGUAGE <LL@li.org> | 
- | [sssd]({{< ref "/f16/package/sssd.md" >}}) | 87 | 13609 | 0.6 | Tajik (http://www.transifex.net/projects/p/fedora/language/tg/) | 
- | [stellarium]({{< ref "/f16/package/stellarium.md" >}}) | 2 | 7138 | 0.0 | Tajik <tg@li.org> | 
- | [openconnect]({{< ref "/f16/package/openconnect.md" >}}) | 0 | 5146 | 0.0 | Tajik (Tajikistan) (http://www.transifex.net/projects/p/meego/language/tg_TJ/) | 
- | [system-config-date]({{< ref "/f16/package/system-config-date.md" >}}) | 0 | 1850 | 0.0 | Tajik (http://www.transifex.com/projects/p/fedora/language/tg/) | 
- | [system-config-network]({{< ref "/f16/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | Tajik (http://www.transifex.net/projects/p/fedora/language/tg/) | 
- | [system-config-users]({{< ref "/f16/package/system-config-users.md" >}}) | 0 | 1452 | 0.0 | Tajik (http://www.transifex.com/projects/p/fedora/language/tg/) | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [chkconfig](/f16/package/chkconfig) | 487 | 487 | 100.0 | Tajik (http://www.transifex.net/projects/p/fedora/language/tg/) | 
+ | [konq-plugins](/f16/package/konq-plugins) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
+ | [kiconedit](/f16/package/kiconedit) | 678 | 726 | 93.4 | Tajik | 
+ | [libreoffice](/f16/package/libreoffice) | 455500 | 533994 | 85.3 | LANGUAGE <LL@li.org> | 
+ | [ksig](/f16/package/ksig) | 68 | 85 | 80.0 | Tajik | 
+ | [xmms](/f16/package/xmms) | 2590 | 3443 | 75.2 | Tajik | 
+ | [kpilot](/f16/package/kpilot) | 4818 | 7156 | 67.3 | Tajik | 
+ | [koffice-kivio](/f16/package/koffice-kivio) | 5218 | 8417 | 62.0 | Tajik | 
+ | [kaudiocreator](/f16/package/kaudiocreator) | 418 | 1136 | 36.8 | <tajik> | 
+ | [audacity](/f16/package/audacity) | 3724 | 10643 | 35.0 | Tajik Language | 
+ | [aspell](/f16/package/aspell) | 600 | 1726 | 34.8 | Tajik | 
+ | [kdiff3](/f16/package/kdiff3) | 1054 | 3517 | 30.0 | Tajik | 
+ | [usermode](/f16/package/usermode) | 123 | 572 | 21.5 | LANGUAGE <LL@li.org> | 
+ | [yelp](/f16/package/yelp) | 92 | 606 | 15.2 | Tajik | 
+ | [system-config-language](/f16/package/system-config-language) | 47 | 323 | 14.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
+ | [firstboot](/f16/package/firstboot) | 53 | 596 | 8.9 | LANGUAGE <LL@li.org> | 
+ | [anaconda](/f16/package/anaconda) | 611 | 9408 | 6.5 | LANGUAGE <LL@li.org> | 
+ | [ibus](/f16/package/ibus) | 32 | 612 | 5.2 | Tajik (http://www.transifex.net/projects/p/fedora/team/tg/) | 
+ | [kcoloredit](/f16/package/kcoloredit) | 8 | 278 | 2.9 | Tajik | 
+ | [authconfig](/f16/package/authconfig) | 14 | 1379 | 1.0 | LANGUAGE <LL@li.org> | 
+ | [sssd](/f16/package/sssd) | 87 | 13609 | 0.6 | Tajik (http://www.transifex.net/projects/p/fedora/language/tg/) | 
+ | [stellarium](/f16/package/stellarium) | 2 | 7138 | 0.0 | Tajik <tg@li.org> | 
+ | [openconnect](/f16/package/openconnect) | 0 | 5146 | 0.0 | Tajik (Tajikistan) (http://www.transifex.net/projects/p/meego/language/tg_TJ/) | 
+ | [system-config-date](/f16/package/system-config-date) | 0 | 1850 | 0.0 | Tajik (http://www.transifex.com/projects/p/fedora/language/tg/) | 
+ | [system-config-network](/f16/package/system-config-network) | 0 | 3032 | 0.0 | Tajik (http://www.transifex.net/projects/p/fedora/language/tg/) | 
+ | [system-config-users](/f16/package/system-config-users) | 0 | 1452 | 0.0 | Tajik (http://www.transifex.com/projects/p/fedora/language/tg/) | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

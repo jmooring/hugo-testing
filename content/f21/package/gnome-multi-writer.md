@@ -18,22 +18,22 @@ The package gnome-multi-writer (version 3.15.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/de.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/en_GB.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/fa.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/fr.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/pl.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/uk.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 240 | 344 | 69.8 | /mnt/stockage/packages/f21/gnome-multi-writer/po/ru.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 177 | 344 | 51.5 | /mnt/stockage/packages/f21/gnome-multi-writer/po/es.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 163 | 344 | 47.4 | /mnt/stockage/packages/f21/gnome-multi-writer/po/sv.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/ca.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/el.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/gl.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/it.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/pt_BR.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 119 | 344 | 34.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/hu.po | 
+ | [cs](/f21/language/cs) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/cs.po | 
+ | [de](/f21/language/de) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/de.po | 
+ | [en_GB](/f21/language/en_GB) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/en_GB.po | 
+ | [fa](/f21/language/fa) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/fa.po | 
+ | [fr](/f21/language/fr) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/fr.po | 
+ | [pl](/f21/language/pl) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/pl.po | 
+ | [uk](/f21/language/uk) | 344 | 344 | 100.0 | /mnt/stockage/packages/f21/gnome-multi-writer/po/uk.po | 
+ | [ru](/f21/language/ru) | 240 | 344 | 69.8 | /mnt/stockage/packages/f21/gnome-multi-writer/po/ru.po | 
+ | [es](/f21/language/es) | 177 | 344 | 51.5 | /mnt/stockage/packages/f21/gnome-multi-writer/po/es.po | 
+ | [sv](/f21/language/sv) | 163 | 344 | 47.4 | /mnt/stockage/packages/f21/gnome-multi-writer/po/sv.po | 
+ | [ca](/f21/language/ca) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/ca.po | 
+ | [el](/f21/language/el) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/el.po | 
+ | [gl](/f21/language/gl) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/gl.po | 
+ | [it](/f21/language/it) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/it.po | 
+ | [pt_BR](/f21/language/pt_BR) | 126 | 344 | 36.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/pt_BR.po | 
+ | [hu](/f21/language/hu) | 119 | 344 | 34.6 | /mnt/stockage/packages/f21/gnome-multi-writer/po/hu.po | 
 {.sortable}
 
 

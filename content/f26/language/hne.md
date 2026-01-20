@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kiconedit]({{< ref "/f26/package/kiconedit.md" >}}) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [iok]({{< ref "/f26/package/iok.md" >}}) | 137 | 206 | 66.5 | Chhattisgarhi <LL@li.org> | 
- | [kcoloredit]({{< ref "/f26/package/kcoloredit.md" >}}) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [kgrab]({{< ref "/f26/package/kgrab.md" >}}) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
- | [stellarium]({{< ref "/f26/package/stellarium.md" >}}) | 54 | 25933 | 0.2 | Chhattisgarhi <hne@li.org> | 
+ | [kiconedit](/f26/package/kiconedit) | 585 | 726 | 80.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [iok](/f26/package/iok) | 137 | 206 | 66.5 | Chhattisgarhi <LL@li.org> | 
+ | [kcoloredit](/f26/package/kcoloredit) | 174 | 278 | 62.6 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [kgrab](/f26/package/kgrab) | 152 | 370 | 41.1 | Hindi <kde-i18n-doc@lists.kde.org> | 
+ | [stellarium](/f26/package/stellarium) | 54 | 25933 | 0.2 | Chhattisgarhi <hne@li.org> | 
 {.sortable}
 
 

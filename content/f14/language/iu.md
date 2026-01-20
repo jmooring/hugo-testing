@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 0 | 612 | 0.0 | Inuktitut <iu@li.org> | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package galternatives (version 0.13.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/cs.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/fr.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/pt_BR.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/sv.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 105 | 165 | 63.6 | /mnt/stockage/packages/f9/galternatives/translations/es.po | 
+ | [cs](/f9/language/cs) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/cs.po | 
+ | [fr](/f9/language/fr) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/fr.po | 
+ | [pt_BR](/f9/language/pt_BR) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/pt_BR.po | 
+ | [sv](/f9/language/sv) | 165 | 165 | 100.0 | /mnt/stockage/packages/f9/galternatives/translations/sv.po | 
+ | [es](/f9/language/es) | 105 | 165 | 63.6 | /mnt/stockage/packages/f9/galternatives/translations/es.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package mate-user-admin (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 367 | 371 | 98.9 | /mnt/stockage/packages/f27/mate-user-admin/po/de.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 296 | 367 | 80.7 | /mnt/stockage/packages/f27/mate-user-admin/po/zh_CN.po | 
+ | [de](/f27/language/de) | 367 | 371 | 98.9 | /mnt/stockage/packages/f27/mate-user-admin/po/de.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 296 | 367 | 80.7 | /mnt/stockage/packages/f27/mate-user-admin/po/zh_CN.po | 
 {.sortable}
 
 

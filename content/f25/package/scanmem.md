@@ -18,8 +18,8 @@ The package scanmem (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 364 | 487 | 74.7 | /mnt/stockage/packages/f25/scanmem/po/ru.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 349 | 487 | 71.7 | /mnt/stockage/packages/f25/scanmem/po/ja.po | 
+ | [ru](/f25/language/ru) | 364 | 487 | 74.7 | /mnt/stockage/packages/f25/scanmem/po/ru.po | 
+ | [ja](/f25/language/ja) | 349 | 487 | 71.7 | /mnt/stockage/packages/f25/scanmem/po/ja.po | 
 {.sortable}
 
 

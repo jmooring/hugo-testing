@@ -18,16 +18,16 @@ The package photoprint (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1412 | 1417 | 99.6 | /mnt/stockage/packages/f26/photoprint/po/cs.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1412 | 1417 | 99.6 | /mnt/stockage/packages/f26/photoprint/po/nl.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 974 | 1417 | 68.7 | /mnt/stockage/packages/f26/photoprint/po/de.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 750 | 1417 | 52.9 | /mnt/stockage/packages/f26/photoprint/po/pl.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 742 | 1417 | 52.4 | /mnt/stockage/packages/f26/photoprint/po/ru.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 721 | 1417 | 50.9 | /mnt/stockage/packages/f26/photoprint/po/da.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 530 | 1417 | 37.4 | /mnt/stockage/packages/f26/photoprint/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 530 | 1417 | 37.4 | /mnt/stockage/packages/f26/photoprint/po/pt_BR.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 420 | 1417 | 29.6 | /mnt/stockage/packages/f26/photoprint/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 308 | 1417 | 21.7 | /mnt/stockage/packages/f26/photoprint/po/fr.po | 
+ | [cs](/f26/language/cs) | 1412 | 1417 | 99.6 | /mnt/stockage/packages/f26/photoprint/po/cs.po | 
+ | [nl](/f26/language/nl) | 1412 | 1417 | 99.6 | /mnt/stockage/packages/f26/photoprint/po/nl.po | 
+ | [de](/f26/language/de) | 974 | 1417 | 68.7 | /mnt/stockage/packages/f26/photoprint/po/de.po | 
+ | [pl](/f26/language/pl) | 750 | 1417 | 52.9 | /mnt/stockage/packages/f26/photoprint/po/pl.po | 
+ | [ru](/f26/language/ru) | 742 | 1417 | 52.4 | /mnt/stockage/packages/f26/photoprint/po/ru.po | 
+ | [da](/f26/language/da) | 721 | 1417 | 50.9 | /mnt/stockage/packages/f26/photoprint/po/da.po | 
+ | [pt](/f26/language/pt) | 530 | 1417 | 37.4 | /mnt/stockage/packages/f26/photoprint/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 530 | 1417 | 37.4 | /mnt/stockage/packages/f26/photoprint/po/pt_BR.po | 
+ | [es](/f26/language/es) | 420 | 1417 | 29.6 | /mnt/stockage/packages/f26/photoprint/po/es.po | 
+ | [fr](/f26/language/fr) | 308 | 1417 | 21.7 | /mnt/stockage/packages/f26/photoprint/po/fr.po | 
 {.sortable}
 
 

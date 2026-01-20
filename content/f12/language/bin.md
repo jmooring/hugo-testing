@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [postgresql]({{< ref "/f12/package/postgresql.md" >}}) | 9207 | 12864 | 71.6 |  | 
- | [sepostgresql]({{< ref "/f12/package/sepostgresql.md" >}}) | 9156 | 12813 | 71.5 |  | 
- | [tinyerp]({{< ref "/f12/package/tinyerp.md" >}}) | 1416 | 2276 | 62.2 | FR <i18n-info@tinyerp.org> | 
- | [wine-docs]({{< ref "/f12/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
- | [po4a]({{< ref "/f12/package/po4a.md" >}}) | 180 | 1726 | 10.4 | AF | 
+ | [postgresql](/f12/package/postgresql) | 9207 | 12864 | 71.6 |  | 
+ | [sepostgresql](/f12/package/sepostgresql) | 9156 | 12813 | 71.5 |  | 
+ | [tinyerp](/f12/package/tinyerp) | 1416 | 2276 | 62.2 | FR <i18n-info@tinyerp.org> | 
+ | [wine-docs](/f12/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
+ | [po4a](/f12/package/po4a) | 180 | 1726 | 10.4 | AF | 
 {.sortable}
 
 

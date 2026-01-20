@@ -18,10 +18,10 @@ The package fontaine (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/fr.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/th.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/zh_TW.po | 
+ | [fr](/f30/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/fr.po | 
+ | [th](/f30/language/th) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/th.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f30/fontaine/po/zh_TW.po | 
 {.sortable}
 
 

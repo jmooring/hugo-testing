@@ -18,7 +18,7 @@ The package crosswords-puzzle-sets-nienteperniente (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f41/language/it.md" >}}) | 20 | 20 | 100.0 | /mnt/stockage/packages/f41/crosswords-puzzle-sets-nienteperniente/po/it.po | 
+ | [it](/f41/language/it) | 20 | 20 | 100.0 | /mnt/stockage/packages/f41/crosswords-puzzle-sets-nienteperniente/po/it.po | 
 {.sortable}
 
 

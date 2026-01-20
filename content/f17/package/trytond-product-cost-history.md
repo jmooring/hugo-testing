@@ -18,14 +18,14 @@ The package trytond-product-cost-history (version 2.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/bg_BG.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/de_DE.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/es_ES.po | 
- | [es_CO]({{< ref "/f17/language/es_CO.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/es_CO.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/fr_FR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/ru_RU.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/cs_CZ.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 0 | 17 | 0.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/nl_NL.po | 
+ | [bg](/f17/language/bg) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/bg_BG.po | 
+ | [de](/f17/language/de) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/de_DE.po | 
+ | [es](/f17/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/es_ES.po | 
+ | [es_CO](/f17/language/es_CO) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/es_CO.po | 
+ | [fr](/f17/language/fr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/fr_FR.po | 
+ | [ru](/f17/language/ru) | 17 | 17 | 100.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/ru_RU.po | 
+ | [cs](/f17/language/cs) | 0 | 17 | 0.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/cs_CZ.po | 
+ | [nl](/f17/language/nl) | 0 | 17 | 0.0 | /mnt/stockage/packages/f17/trytond-product-cost-history/locale/nl_NL.po | 
 {.sortable}
 
 

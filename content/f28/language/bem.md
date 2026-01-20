@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f28/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
- | [slick-greeter]({{< ref "/f28/package/slick-greeter.md" >}}) | 55 | 211 | 26.1 | Bemba <bem@li.org> | 
+ | [alacarte](/f28/package/alacarte) | 42 | 42 | 100.0 | Bemba Team <bem@li.org> | 
+ | [slick-greeter](/f28/package/slick-greeter) | 55 | 211 | 26.1 | Bemba <bem@li.org> | 
 {.sortable}
 
 

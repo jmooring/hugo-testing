@@ -18,59 +18,59 @@ The package libgda (version 5.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ar.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/az.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/bs.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ca.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ca@valencia.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/cs.po/mnt/stockage/packages/f36/libgda/tools/browser/help/cs/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/de.po/mnt/stockage/packages/f36/libgda/tools/browser/help/de/de.po | 
- | [dz]({{< ref "/f36/language/dz.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/dz.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/el.po/mnt/stockage/packages/f36/libgda/tools/browser/help/el/el.po | 
- | [en_CA]({{< ref "/f36/language/en_CA.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/en_CA.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/en_GB.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/eo.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/es.po/mnt/stockage/packages/f36/libgda/tools/browser/help/es/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/eu.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/fa.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/fr.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ga.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/gl.po/mnt/stockage/packages/f36/libgda/tools/browser/help/gl/gl.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/id.po/mnt/stockage/packages/f36/libgda/tools/browser/help/id/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ko.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/lt.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/lv.po | 
- | [mk]({{< ref "/f36/language/mk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/mk.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ml.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ms.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/nb.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ne.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/nl.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/oc.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/pa.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/pt_BR.po/mnt/stockage/packages/f36/libgda/tools/browser/help/pt_BR/pt_BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ru.po | 
- | [rw]({{< ref "/f36/language/rw.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/rw.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sk.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sl.po/mnt/stockage/packages/f36/libgda/tools/browser/help/sl/sl.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sq.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sr.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sr@latin.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sv.po | 
- | [tg]({{< ref "/f36/language/tg.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/tg.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/vi.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/zh_CN.po/mnt/stockage/packages/f36/libgda/tools/browser/help/zh_CN/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/zh_HK.po | 
+ | [ar](/f36/language/ar) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ar.po | 
+ | [az](/f36/language/az) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/az.po | 
+ | [bs](/f36/language/bs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/bs.po | 
+ | [ca](/f36/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ca.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ca@valencia.po | 
+ | [cs](/f36/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/cs.po/mnt/stockage/packages/f36/libgda/tools/browser/help/cs/cs.po | 
+ | [da](/f36/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/da.po | 
+ | [de](/f36/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/de.po/mnt/stockage/packages/f36/libgda/tools/browser/help/de/de.po | 
+ | [dz](/f36/language/dz) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/dz.po | 
+ | [el](/f36/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/el.po/mnt/stockage/packages/f36/libgda/tools/browser/help/el/el.po | 
+ | [en_CA](/f36/language/en_CA) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/en_CA.po | 
+ | [en_GB](/f36/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/en_GB.po | 
+ | [eo](/f36/language/eo) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/eo.po | 
+ | [es](/f36/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/es.po/mnt/stockage/packages/f36/libgda/tools/browser/help/es/es.po | 
+ | [eu](/f36/language/eu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/eu.po | 
+ | [fa](/f36/language/fa) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/fa.po | 
+ | [fi](/f36/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/fi.po | 
+ | [fr](/f36/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/fr.po | 
+ | [ga](/f36/language/ga) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ga.po | 
+ | [gl](/f36/language/gl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/gl.po/mnt/stockage/packages/f36/libgda/tools/browser/help/gl/gl.po | 
+ | [hr](/f36/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/hr.po | 
+ | [hu](/f36/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/hu.po | 
+ | [id](/f36/language/id) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/id.po/mnt/stockage/packages/f36/libgda/tools/browser/help/id/id.po | 
+ | [it](/f36/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/it.po | 
+ | [ja](/f36/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ja.po | 
+ | [ko](/f36/language/ko) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ko.po | 
+ | [lt](/f36/language/lt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/lt.po | 
+ | [lv](/f36/language/lv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/lv.po | 
+ | [mk](/f36/language/mk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/mk.po | 
+ | [ml](/f36/language/ml) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ml.po | 
+ | [ms](/f36/language/ms) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ms.po | 
+ | [nb_NO](/f36/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/nb.po | 
+ | [ne](/f36/language/ne) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ne.po | 
+ | [nl](/f36/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/nl.po | 
+ | [oc](/f36/language/oc) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/oc.po | 
+ | [pa](/f36/language/pa) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/pa.po | 
+ | [pt](/f36/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/pt_BR.po/mnt/stockage/packages/f36/libgda/tools/browser/help/pt_BR/pt_BR.po | 
+ | [ru](/f36/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/ru.po | 
+ | [rw](/f36/language/rw) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/rw.po | 
+ | [sk](/f36/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sk.po | 
+ | [sl](/f36/language/sl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sl.po/mnt/stockage/packages/f36/libgda/tools/browser/help/sl/sl.po | 
+ | [sq](/f36/language/sq) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sq.po | 
+ | [sr](/f36/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sr.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sr@latin.po | 
+ | [sv](/f36/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/sv.po | 
+ | [tg](/f36/language/tg) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/tg.po | 
+ | [tr](/f36/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/tr.po | 
+ | [uk](/f36/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/uk.po | 
+ | [vi](/f36/language/vi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/vi.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/zh_CN.po/mnt/stockage/packages/f36/libgda/tools/browser/help/zh_CN/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/zh_TW.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 0 | 0 | 0.0 | /mnt/stockage/packages/f36/libgda/po/zh_HK.po | 
 {.sortable}
 
 

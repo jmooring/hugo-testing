@@ -18,7 +18,7 @@ The package tesseract (version 3.02.02):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 17 | 91 | 18.7 | /mnt/stockage/packages/f20/tesseract/po/pl.po | 
+ | [pl](/f20/language/pl) | 17 | 91 | 18.7 | /mnt/stockage/packages/f20/tesseract/po/pl.po | 
 {.sortable}
 
 

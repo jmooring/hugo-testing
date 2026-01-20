@@ -18,16 +18,16 @@ The package powertop (version 2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 421 | 589 | 71.5 | /mnt/stockage/packages/f21/powertop/po/de_DE.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 412 | 589 | 69.9 | /mnt/stockage/packages/f21/powertop/po/id_ID.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 412 | 589 | 69.9 | /mnt/stockage/packages/f21/powertop/po/zh_TW.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 409 | 589 | 69.4 | /mnt/stockage/packages/f21/powertop/po/cs_CZ.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 393 | 589 | 66.7 | /mnt/stockage/packages/f21/powertop/po/hu_HU.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 254 | 589 | 43.1 | /mnt/stockage/packages/f21/powertop/po/ca.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 254 | 589 | 43.1 | /mnt/stockage/packages/f21/powertop/po/es_ES.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 241 | 589 | 40.9 | /mnt/stockage/packages/f21/powertop/po/en_US.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 84 | 589 | 14.3 | /mnt/stockage/packages/f21/powertop/po/en_GB.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 55 | 589 | 9.3 | /mnt/stockage/packages/f21/powertop/po/nl_NL.po | 
+ | [de](/f21/language/de) | 421 | 589 | 71.5 | /mnt/stockage/packages/f21/powertop/po/de_DE.po | 
+ | [id](/f21/language/id) | 412 | 589 | 69.9 | /mnt/stockage/packages/f21/powertop/po/id_ID.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 412 | 589 | 69.9 | /mnt/stockage/packages/f21/powertop/po/zh_TW.po | 
+ | [cs](/f21/language/cs) | 409 | 589 | 69.4 | /mnt/stockage/packages/f21/powertop/po/cs_CZ.po | 
+ | [hu](/f21/language/hu) | 393 | 589 | 66.7 | /mnt/stockage/packages/f21/powertop/po/hu_HU.po | 
+ | [ca](/f21/language/ca) | 254 | 589 | 43.1 | /mnt/stockage/packages/f21/powertop/po/ca.po | 
+ | [es](/f21/language/es) | 254 | 589 | 43.1 | /mnt/stockage/packages/f21/powertop/po/es_ES.po | 
+ | [en_US](/f21/language/en_US) | 241 | 589 | 40.9 | /mnt/stockage/packages/f21/powertop/po/en_US.po | 
+ | [en_GB](/f21/language/en_GB) | 84 | 589 | 14.3 | /mnt/stockage/packages/f21/powertop/po/en_GB.po | 
+ | [nl](/f21/language/nl) | 55 | 589 | 9.3 | /mnt/stockage/packages/f21/powertop/po/nl_NL.po | 
 {.sortable}
 
 

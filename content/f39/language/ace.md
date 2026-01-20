@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-icon-theme]({{< ref "/f39/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f39/package/elementary-notifications.md" >}}) | 0 | 40 | 0.0 | none | 
- | [gala]({{< ref "/f39/package/gala.md" >}}) | 0 | 259 | 0.0 | none | 
- | [granite]({{< ref "/f39/package/granite.md" >}}) | 0 | 498 | 0.0 | none | 
- | [granite-7]({{< ref "/f39/package/granite-7.md" >}}) | 0 | 369 | 0.0 | none | 
- | [iso-codes]({{< ref "/f39/package/iso-codes.md" >}}) | 0 | 989 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
- | [onboard]({{< ref "/f39/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
- | [po4a]({{< ref "/f39/package/po4a.md" >}}) | 0 | 3174 | 0.0 | none | 
+ | [elementary-icon-theme](/f39/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-notifications](/f39/package/elementary-notifications) | 0 | 40 | 0.0 | none | 
+ | [gala](/f39/package/gala) | 0 | 259 | 0.0 | none | 
+ | [granite](/f39/package/granite) | 0 | 498 | 0.0 | none | 
+ | [granite-7](/f39/package/granite-7) | 0 | 369 | 0.0 | none | 
+ | [iso-codes](/f39/package/iso-codes) | 0 | 989 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
+ | [onboard](/f39/package/onboard) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
+ | [po4a](/f39/package/po4a) | 0 | 3174 | 0.0 | none | 
 {.sortable}
 
 

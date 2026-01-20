@@ -18,25 +18,25 @@ The package pspp (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f28/pspp/po/de.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f28/pspp/po/nl.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f28/pspp/po/uk.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f28/pspp/po/el.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f28/pspp/po/fr.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/ca.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/es.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/hu.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/ja.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 10096 | 10380 | 97.3 | /mnt/stockage/packages/f28/pspp/po/zh_CN.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 9708 | 10380 | 93.5 | /mnt/stockage/packages/f28/pspp/po/ru.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f28/pspp/po/gl.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f28/pspp/po/pl.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 8192 | 10380 | 78.9 | /mnt/stockage/packages/f28/pspp/po/lt.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 5413 | 10380 | 52.1 | /mnt/stockage/packages/f28/pspp/po/tr.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 2864 | 10380 | 27.6 | /mnt/stockage/packages/f28/pspp/po/sl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 2564 | 10380 | 24.7 | /mnt/stockage/packages/f28/pspp/po/pt_BR.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 522 | 10328 | 5.1 | /mnt/stockage/packages/f28/pspp/po/en_GB.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 11 | 10328 | 0.1 | /mnt/stockage/packages/f28/pspp/po/cs.po | 
+ | [de](/f28/language/de) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f28/pspp/po/de.po | 
+ | [nl](/f28/language/nl) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f28/pspp/po/nl.po | 
+ | [uk](/f28/language/uk) | 10371 | 10380 | 99.9 | /mnt/stockage/packages/f28/pspp/po/uk.po | 
+ | [el](/f28/language/el) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f28/pspp/po/el.po | 
+ | [fr](/f28/language/fr) | 10341 | 10380 | 99.6 | /mnt/stockage/packages/f28/pspp/po/fr.po | 
+ | [ca](/f28/language/ca) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/ca.po | 
+ | [es](/f28/language/es) | 10148 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/es.po | 
+ | [hu](/f28/language/hu) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/hu.po | 
+ | [ja](/f28/language/ja) | 10147 | 10380 | 97.8 | /mnt/stockage/packages/f28/pspp/po/ja.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 10096 | 10380 | 97.3 | /mnt/stockage/packages/f28/pspp/po/zh_CN.po | 
+ | [ru](/f28/language/ru) | 9708 | 10380 | 93.5 | /mnt/stockage/packages/f28/pspp/po/ru.po | 
+ | [gl](/f28/language/gl) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f28/pspp/po/gl.po | 
+ | [pl](/f28/language/pl) | 9365 | 10380 | 90.2 | /mnt/stockage/packages/f28/pspp/po/pl.po | 
+ | [lt](/f28/language/lt) | 8192 | 10380 | 78.9 | /mnt/stockage/packages/f28/pspp/po/lt.po | 
+ | [tr](/f28/language/tr) | 5413 | 10380 | 52.1 | /mnt/stockage/packages/f28/pspp/po/tr.po | 
+ | [sl](/f28/language/sl) | 2864 | 10380 | 27.6 | /mnt/stockage/packages/f28/pspp/po/sl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 2564 | 10380 | 24.7 | /mnt/stockage/packages/f28/pspp/po/pt_BR.po | 
+ | [en_GB](/f28/language/en_GB) | 522 | 10328 | 5.1 | /mnt/stockage/packages/f28/pspp/po/en_GB.po | 
+ | [cs](/f28/language/cs) | 11 | 10328 | 0.1 | /mnt/stockage/packages/f28/pspp/po/cs.po | 
 {.sortable}
 
 

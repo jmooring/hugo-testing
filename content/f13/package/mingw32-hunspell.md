@@ -18,7 +18,7 @@ The package mingw32-hunspell (version 1.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 505 | 505 | 100.0 | /mnt/stockage/packages/f13/mingw32-hunspell/po/hu.po | 
+ | [hu](/f13/language/hu) | 505 | 505 | 100.0 | /mnt/stockage/packages/f13/mingw32-hunspell/po/hu.po | 
 {.sortable}
 
 

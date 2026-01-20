@@ -18,19 +18,19 @@ The package gtk-vnc (version 0.3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/de.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/en_GB.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/es.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/eu.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/gl.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/hu.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/it.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/pl.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/pt_BR.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/sv.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 45 | 81 | 55.6 | /mnt/stockage/packages/f13/gtk-vnc/po/el.po | 
+ | [de](/f13/language/de) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/de.po | 
+ | [en_GB](/f13/language/en_GB) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/en_GB.po | 
+ | [es](/f13/language/es) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/es.po | 
+ | [eu](/f13/language/eu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/eu.po | 
+ | [fr](/f13/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/fr.po | 
+ | [gl](/f13/language/gl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/gl.po | 
+ | [hu](/f13/language/hu) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/hu.po | 
+ | [it](/f13/language/it) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/it.po | 
+ | [pl](/f13/language/pl) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/pl.po | 
+ | [pt](/f13/language/pt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/pt_BR.po | 
+ | [sv](/f13/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f13/gtk-vnc/po/sv.po | 
+ | [el](/f13/language/el) | 45 | 81 | 55.6 | /mnt/stockage/packages/f13/gtk-vnc/po/el.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package mydns (version 1.2.8.31):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 603 | 2720 | 22.2 | /mnt/stockage/packages/f20/mydns/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 384 | 2720 | 14.1 | /mnt/stockage/packages/f20/mydns/po/fr.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 298 | 2720 | 11.0 | /mnt/stockage/packages/f20/mydns/po/pt_BR.po | 
+ | [es](/f20/language/es) | 603 | 2720 | 22.2 | /mnt/stockage/packages/f20/mydns/po/es.po | 
+ | [fr](/f20/language/fr) | 384 | 2720 | 14.1 | /mnt/stockage/packages/f20/mydns/po/fr.po | 
+ | [pt_BR](/f20/language/pt_BR) | 298 | 2720 | 11.0 | /mnt/stockage/packages/f20/mydns/po/pt_BR.po | 
 {.sortable}
 
 

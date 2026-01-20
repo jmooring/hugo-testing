@@ -18,17 +18,17 @@ The package novnc (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f32/novnc/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/el.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 131 | 131 | 100.0 | /mnt/stockage/packages/f32/novnc/po/ko.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f32/novnc/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f32/novnc/po/ru.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f32/novnc/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f32/novnc/po/zh_TW.po/mnt/stockage/packages/f32/novnc/po/zh_CN.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 112 | 113 | 99.1 | /mnt/stockage/packages/f32/novnc/po/es.po | 
+ | [cs](/f32/language/cs) | 136 | 136 | 100.0 | /mnt/stockage/packages/f32/novnc/po/cs.po | 
+ | [de](/f32/language/de) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/de.po | 
+ | [el](/f32/language/el) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/el.po | 
+ | [ko](/f32/language/ko) | 131 | 131 | 100.0 | /mnt/stockage/packages/f32/novnc/po/ko.po | 
+ | [nl](/f32/language/nl) | 139 | 139 | 100.0 | /mnt/stockage/packages/f32/novnc/po/nl.po | 
+ | [pl](/f32/language/pl) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/pl.po | 
+ | [ru](/f32/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f32/novnc/po/ru.po | 
+ | [sv](/f32/language/sv) | 139 | 139 | 100.0 | /mnt/stockage/packages/f32/novnc/po/sv.po | 
+ | [tr](/f32/language/tr) | 127 | 127 | 100.0 | /mnt/stockage/packages/f32/novnc/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 258 | 258 | 100.0 | /mnt/stockage/packages/f32/novnc/po/zh_TW.po/mnt/stockage/packages/f32/novnc/po/zh_CN.po | 
+ | [es](/f32/language/es) | 112 | 113 | 99.1 | /mnt/stockage/packages/f32/novnc/po/es.po | 
 {.sortable}
 
 

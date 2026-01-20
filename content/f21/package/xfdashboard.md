@@ -18,11 +18,11 @@ The package xfdashboard (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 4340 | 4340 | 100.0 | /mnt/stockage/packages/f21/xfdashboard/po/fr.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 4332 | 4340 | 99.8 | /mnt/stockage/packages/f21/xfdashboard/po/sr.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 219 | 4340 | 5.0 | /mnt/stockage/packages/f21/xfdashboard/po/es.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 51 | 4340 | 1.2 | /mnt/stockage/packages/f21/xfdashboard/po/he.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1 | 4340 | 0.0 | /mnt/stockage/packages/f21/xfdashboard/po/it_IT.po | 
+ | [fr](/f21/language/fr) | 4340 | 4340 | 100.0 | /mnt/stockage/packages/f21/xfdashboard/po/fr.po | 
+ | [sr](/f21/language/sr) | 4332 | 4340 | 99.8 | /mnt/stockage/packages/f21/xfdashboard/po/sr.po | 
+ | [es](/f21/language/es) | 219 | 4340 | 5.0 | /mnt/stockage/packages/f21/xfdashboard/po/es.po | 
+ | [he](/f21/language/he) | 51 | 4340 | 1.2 | /mnt/stockage/packages/f21/xfdashboard/po/he.po | 
+ | [it](/f21/language/it) | 1 | 4340 | 0.0 | /mnt/stockage/packages/f21/xfdashboard/po/it_IT.po | 
 {.sortable}
 
 

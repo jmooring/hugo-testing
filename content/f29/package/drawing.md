@@ -18,15 +18,15 @@ The package drawing (version 0.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 696 | 696 | 100.0 | /mnt/stockage/packages/f29/drawing/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 665 | 696 | 95.5 | /mnt/stockage/packages/f29/drawing/po/it.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 665 | 696 | 95.5 | /mnt/stockage/packages/f29/drawing/po/tr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 662 | 696 | 95.1 | /mnt/stockage/packages/f29/drawing/po/es.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 661 | 696 | 95.0 | /mnt/stockage/packages/f29/drawing/po/pt_BR.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 659 | 696 | 94.7 | /mnt/stockage/packages/f29/drawing/po/de_DE.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 654 | 696 | 94.0 | /mnt/stockage/packages/f29/drawing/po/nl.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 433 | 696 | 62.2 | /mnt/stockage/packages/f29/drawing/po/he.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 357 | 696 | 51.3 | /mnt/stockage/packages/f29/drawing/po/ru.po | 
+ | [fr](/f29/language/fr) | 696 | 696 | 100.0 | /mnt/stockage/packages/f29/drawing/po/fr.po | 
+ | [it](/f29/language/it) | 665 | 696 | 95.5 | /mnt/stockage/packages/f29/drawing/po/it.po | 
+ | [tr](/f29/language/tr) | 665 | 696 | 95.5 | /mnt/stockage/packages/f29/drawing/po/tr.po | 
+ | [es](/f29/language/es) | 662 | 696 | 95.1 | /mnt/stockage/packages/f29/drawing/po/es.po | 
+ | [pt_BR](/f29/language/pt_BR) | 661 | 696 | 95.0 | /mnt/stockage/packages/f29/drawing/po/pt_BR.po | 
+ | [de](/f29/language/de) | 659 | 696 | 94.7 | /mnt/stockage/packages/f29/drawing/po/de_DE.po | 
+ | [nl](/f29/language/nl) | 654 | 696 | 94.0 | /mnt/stockage/packages/f29/drawing/po/nl.po | 
+ | [he](/f29/language/he) | 433 | 696 | 62.2 | /mnt/stockage/packages/f29/drawing/po/he.po | 
+ | [ru](/f29/language/ru) | 357 | 696 | 51.3 | /mnt/stockage/packages/f29/drawing/po/ru.po | 
 {.sortable}
 
 

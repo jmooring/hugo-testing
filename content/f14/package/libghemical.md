@@ -18,10 +18,10 @@ The package libghemical (version 2.99.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 878 | 892 | 98.4 | /mnt/stockage/packages/f14/libghemical/po/pt_BR.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 752 | 892 | 84.3 | /mnt/stockage/packages/f14/libghemical/po/mk.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 752 | 892 | 84.3 | /mnt/stockage/packages/f14/libghemical/po/sq.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 637 | 892 | 71.4 | /mnt/stockage/packages/f14/libghemical/po/fi.po | 
+ | [pt_BR](/f14/language/pt_BR) | 878 | 892 | 98.4 | /mnt/stockage/packages/f14/libghemical/po/pt_BR.po | 
+ | [mk](/f14/language/mk) | 752 | 892 | 84.3 | /mnt/stockage/packages/f14/libghemical/po/mk.po | 
+ | [sq](/f14/language/sq) | 752 | 892 | 84.3 | /mnt/stockage/packages/f14/libghemical/po/sq.po | 
+ | [fi](/f14/language/fi) | 637 | 892 | 71.4 | /mnt/stockage/packages/f14/libghemical/po/fi.po | 
 {.sortable}
 
 

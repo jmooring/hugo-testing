@@ -18,7 +18,7 @@ The package metromap (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f22/metromap/locale/ru/LC_MESSAGES/metromap.po | 
+ | [ru](/f22/language/ru) | 280 | 280 | 100.0 | /mnt/stockage/packages/f22/metromap/locale/ru/LC_MESSAGES/metromap.po | 
 {.sortable}
 
 

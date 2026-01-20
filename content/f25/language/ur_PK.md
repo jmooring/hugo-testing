@@ -38,48 +38,48 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [thunar-media-tags-plugin]({{< ref "/f25/package/thunar-media-tags-plugin.md" >}}) | 144 | 144 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfbib]({{< ref "/f25/package/xfbib.md" >}}) | 342 | 342 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-genmon-plugin]({{< ref "/f25/package/xfce4-genmon-plugin.md" >}}) | 71 | 71 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-verve-plugin]({{< ref "/f25/package/xfce4-verve-plugin.md" >}}) | 47 | 47 | 100.0 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-mailwatch-plugin]({{< ref "/f25/package/xfce4-mailwatch-plugin.md" >}}) | 647 | 657 | 98.5 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-datetime-plugin]({{< ref "/f25/package/xfce4-datetime-plugin.md" >}}) | 51 | 52 | 98.1 | Urdu <makki.ma@gmail.com> | 
- | [lxmusic]({{< ref "/f25/package/lxmusic.md" >}}) | 195 | 203 | 96.1 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-power-manager]({{< ref "/f25/package/xfce4-power-manager.md" >}}) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
- | [gpicview]({{< ref "/f25/package/gpicview.md" >}}) | 219 | 236 | 92.8 | Urdu <makki.ma@gmail.com> | 
- | [osmo]({{< ref "/f25/package/osmo.md" >}}) | 1594 | 1726 | 92.4 | urducoder.com <makkiabufaris@aol.com> | 
- | [thunar-vfs]({{< ref "/f25/package/thunar-vfs.md" >}}) | 335 | 387 | 86.6 | urdu <makki.ma@gmail.com> | 
- | [lxtask]({{< ref "/f25/package/lxtask.md" >}}) | 112 | 130 | 86.2 | Urdu <makki.ma@gmail.com> | 
- | [exo]({{< ref "/f25/package/exo.md" >}}) | 1169 | 1393 | 83.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [Thunar]({{< ref "/f25/package/Thunar.md" >}}) | 3303 | 4139 | 79.8 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [xfce4-fsguard-plugin]({{< ref "/f25/package/xfce4-fsguard-plugin.md" >}}) | 56 | 71 | 78.9 | Urdu <makki.ma@gmail.com> | 
- | [xfwm4]({{< ref "/f25/package/xfwm4.md" >}}) | 488 | 649 | 75.2 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [gigolo]({{< ref "/f25/package/gigolo.md" >}}) | 390 | 521 | 74.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [lxinput]({{< ref "/f25/package/lxinput.md" >}}) | 60 | 83 | 72.3 | Urdu <makki.ma@gmail.com> | 
- | [xfce4-session]({{< ref "/f25/package/xfce4-session.md" >}}) | 759 | 1066 | 71.2 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [lxlauncher]({{< ref "/f25/package/lxlauncher.md" >}}) | 41 | 58 | 70.7 | Urdu <makki.ma@gmail.com> | 
- | [orage]({{< ref "/f25/package/orage.md" >}}) | 1792 | 2601 | 68.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [thunar-vcs-plugin]({{< ref "/f25/package/thunar-vcs-plugin.md" >}}) | 367 | 571 | 64.3 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [xfce4-terminal]({{< ref "/f25/package/xfce4-terminal.md" >}}) | 699 | 1097 | 63.7 | urdu <makki.ma@gmail.com> | 
- | [xfce4-clipman-plugin]({{< ref "/f25/package/xfce4-clipman-plugin.md" >}}) | 220 | 350 | 62.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [xfconf]({{< ref "/f25/package/xfconf.md" >}}) | 265 | 451 | 58.8 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [thunar-volman]({{< ref "/f25/package/thunar-volman.md" >}}) | 260 | 487 | 53.4 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [engrampa]({{< ref "/f25/package/engrampa.md" >}}) | 944 | 1940 | 48.7 | Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/) | 
- | [lxrandr]({{< ref "/f25/package/lxrandr.md" >}}) | 74 | 167 | 44.3 | Urdu <makki.ma@gmail.com> | 
- | [lxterminal]({{< ref "/f25/package/lxterminal.md" >}}) | 66 | 247 | 26.7 | Urdu <makki.ma@gmail.com> | 
- | [xfburn]({{< ref "/f25/package/xfburn.md" >}}) | 291 | 1329 | 21.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
- | [pgadmin3]({{< ref "/f25/package/pgadmin3.md" >}}) | 1373 | 16898 | 8.1 | urdu <pgadmin-hackers@postgresql.org> | 
- | [xfce4-panel]({{< ref "/f25/package/xfce4-panel.md" >}}) | 134 | 1732 | 7.7 | urdu <makki.ma@gmail.com> | 
- | [xfce4-taskmanager]({{< ref "/f25/package/xfce4-taskmanager.md" >}}) | 9 | 123 | 7.3 | Urdu <makki.ma@gmail.com> | 
- | [spacefm]({{< ref "/f25/package/spacefm.md" >}}) | 453 | 8722 | 5.2 | Urdu (Pakistan) (http://www.transifex.com/projects/p/spacefm/language/ur_PK/) | 
- | [lxsession]({{< ref "/f25/package/lxsession.md" >}}) | 29 | 755 | 3.8 | Urdu <makki.ma@gmail.com> | 
- | [arduino]({{< ref "/f25/package/arduino.md" >}}) | 0 | 2566 | 0.0 | Urdu (Pakistan) (http://www.transifex.com/projects/p/arduino-ide-15/language/ur_PK/) | 
- | [libfm]({{< ref "/f25/package/libfm.md" >}}) | 0 | 1565 | 0.0 | LANGUAGE <LL@li.org> | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/) | 
- | [lxappearance]({{< ref "/f25/package/lxappearance.md" >}}) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxappearance-obconf]({{< ref "/f25/package/lxappearance-obconf.md" >}}) | 0 | 196 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lxdm]({{< ref "/f25/package/lxdm.md" >}}) | 0 | 47 | 0.0 | LANGUAGE <LL@li.org> | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Urdu (Pakistan) (http://www.transifex.com/projects/p/MATE/language/ur_PK/) | 
+ | [thunar-media-tags-plugin](/f25/package/thunar-media-tags-plugin) | 144 | 144 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfbib](/f25/package/xfbib) | 342 | 342 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-genmon-plugin](/f25/package/xfce4-genmon-plugin) | 71 | 71 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-verve-plugin](/f25/package/xfce4-verve-plugin) | 47 | 47 | 100.0 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-mailwatch-plugin](/f25/package/xfce4-mailwatch-plugin) | 647 | 657 | 98.5 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-datetime-plugin](/f25/package/xfce4-datetime-plugin) | 51 | 52 | 98.1 | Urdu <makki.ma@gmail.com> | 
+ | [lxmusic](/f25/package/lxmusic) | 195 | 203 | 96.1 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-power-manager](/f25/package/xfce4-power-manager) | 650 | 694 | 93.7 | Urdu <makki.ma@gmail.com> | 
+ | [gpicview](/f25/package/gpicview) | 219 | 236 | 92.8 | Urdu <makki.ma@gmail.com> | 
+ | [osmo](/f25/package/osmo) | 1594 | 1726 | 92.4 | urducoder.com <makkiabufaris@aol.com> | 
+ | [thunar-vfs](/f25/package/thunar-vfs) | 335 | 387 | 86.6 | urdu <makki.ma@gmail.com> | 
+ | [lxtask](/f25/package/lxtask) | 112 | 130 | 86.2 | Urdu <makki.ma@gmail.com> | 
+ | [exo](/f25/package/exo) | 1169 | 1393 | 83.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [Thunar](/f25/package/Thunar) | 3303 | 4139 | 79.8 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [xfce4-fsguard-plugin](/f25/package/xfce4-fsguard-plugin) | 56 | 71 | 78.9 | Urdu <makki.ma@gmail.com> | 
+ | [xfwm4](/f25/package/xfwm4) | 488 | 649 | 75.2 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [gigolo](/f25/package/gigolo) | 390 | 521 | 74.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [lxinput](/f25/package/lxinput) | 60 | 83 | 72.3 | Urdu <makki.ma@gmail.com> | 
+ | [xfce4-session](/f25/package/xfce4-session) | 759 | 1066 | 71.2 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [lxlauncher](/f25/package/lxlauncher) | 41 | 58 | 70.7 | Urdu <makki.ma@gmail.com> | 
+ | [orage](/f25/package/orage) | 1792 | 2601 | 68.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [thunar-vcs-plugin](/f25/package/thunar-vcs-plugin) | 367 | 571 | 64.3 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [xfce4-terminal](/f25/package/xfce4-terminal) | 699 | 1097 | 63.7 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-clipman-plugin](/f25/package/xfce4-clipman-plugin) | 220 | 350 | 62.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [xfconf](/f25/package/xfconf) | 265 | 451 | 58.8 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [thunar-volman](/f25/package/thunar-volman) | 260 | 487 | 53.4 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [engrampa](/f25/package/engrampa) | 944 | 1940 | 48.7 | Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/) | 
+ | [lxrandr](/f25/package/lxrandr) | 74 | 167 | 44.3 | Urdu <makki.ma@gmail.com> | 
+ | [lxterminal](/f25/package/lxterminal) | 66 | 247 | 26.7 | Urdu <makki.ma@gmail.com> | 
+ | [xfburn](/f25/package/xfburn) | 291 | 1329 | 21.9 | Urdu (Pakistan) (http://www.transifex.com/projects/p/xfce/language/ur_PK/) | 
+ | [pgadmin3](/f25/package/pgadmin3) | 1373 | 16898 | 8.1 | urdu <pgadmin-hackers@postgresql.org> | 
+ | [xfce4-panel](/f25/package/xfce4-panel) | 134 | 1732 | 7.7 | urdu <makki.ma@gmail.com> | 
+ | [xfce4-taskmanager](/f25/package/xfce4-taskmanager) | 9 | 123 | 7.3 | Urdu <makki.ma@gmail.com> | 
+ | [spacefm](/f25/package/spacefm) | 453 | 8722 | 5.2 | Urdu (Pakistan) (http://www.transifex.com/projects/p/spacefm/language/ur_PK/) | 
+ | [lxsession](/f25/package/lxsession) | 29 | 755 | 3.8 | Urdu <makki.ma@gmail.com> | 
+ | [arduino](/f25/package/arduino) | 0 | 2566 | 0.0 | Urdu (Pakistan) (http://www.transifex.com/projects/p/arduino-ide-15/language/ur_PK/) | 
+ | [libfm](/f25/package/libfm) | 0 | 1565 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Urdu (Pakistan) (http://www.transifex.com/mate/MATE/language/ur_PK/) | 
+ | [lxappearance](/f25/package/lxappearance) | 0 | 234 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxappearance-obconf](/f25/package/lxappearance-obconf) | 0 | 196 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lxdm](/f25/package/lxdm) | 0 | 47 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f25/package/mate-menu) | 0 | 300 | 0.0 | Urdu (Pakistan) (http://www.transifex.com/projects/p/MATE/language/ur_PK/) | 
 {.sortable}
 
 

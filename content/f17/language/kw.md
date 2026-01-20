@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wormux]({{< ref "/f17/package/wormux.md" >}}) | 1336 | 1916 | 69.7 | Treylyansow <treylyansow@kernewegva.com> | 
- | [warmux]({{< ref "/f17/package/warmux.md" >}}) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wormux](/f17/package/wormux) | 1336 | 1916 | 69.7 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [warmux](/f17/package/warmux) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

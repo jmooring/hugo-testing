@@ -18,46 +18,46 @@ The package enlightenment (version 0.25.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 8704 | 8704 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/fr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 8704 | 8704 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/it.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/pt.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/sr.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 8036 | 8696 | 92.4 | /mnt/stockage/packages/f35/enlightenment/po/nl.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 8039 | 9053 | 88.8 | /mnt/stockage/packages/f35/enlightenment/po/da.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 5523 | 9053 | 61.0 | /mnt/stockage/packages/f35/enlightenment/po/sl.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 5521 | 9053 | 61.0 | /mnt/stockage/packages/f35/enlightenment/po/ca.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 5519 | 9053 | 61.0 | /mnt/stockage/packages/f35/enlightenment/po/vi.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 5233 | 9053 | 57.8 | /mnt/stockage/packages/f35/enlightenment/po/ru.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 5221 | 9053 | 57.7 | /mnt/stockage/packages/f35/enlightenment/po/fi.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 5187 | 9053 | 57.3 | /mnt/stockage/packages/f35/enlightenment/po/tr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 5100 | 9053 | 56.3 | /mnt/stockage/packages/f35/enlightenment/po/gl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 4943 | 9053 | 54.6 | /mnt/stockage/packages/f35/enlightenment/po/hu.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 4766 | 9053 | 52.6 | /mnt/stockage/packages/f35/enlightenment/po/eo.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 4687 | 9053 | 51.8 | /mnt/stockage/packages/f35/enlightenment/po/ko.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 4678 | 9053 | 51.7 | /mnt/stockage/packages/f35/enlightenment/po/cs.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 4668 | 9053 | 51.6 | /mnt/stockage/packages/f35/enlightenment/po/el.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 4663 | 9053 | 51.5 | /mnt/stockage/packages/f35/enlightenment/po/pt_BR.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 4562 | 9053 | 50.4 | /mnt/stockage/packages/f35/enlightenment/po/ar.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 4382 | 9053 | 48.4 | /mnt/stockage/packages/f35/enlightenment/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3148 | 9053 | 34.8 | /mnt/stockage/packages/f35/enlightenment/po/zh_TW.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 2652 | 9053 | 29.3 | /mnt/stockage/packages/f35/enlightenment/po/lt.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 2630 | 9053 | 29.1 | /mnt/stockage/packages/f35/enlightenment/po/ja.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 2165 | 9053 | 23.9 | /mnt/stockage/packages/f35/enlightenment/po/uk.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 2160 | 9053 | 23.9 | /mnt/stockage/packages/f35/enlightenment/po/hr.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 2009 | 9053 | 22.2 | /mnt/stockage/packages/f35/enlightenment/po/pl.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1958 | 9053 | 21.6 | /mnt/stockage/packages/f35/enlightenment/po/sk.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 1594 | 9053 | 17.6 | /mnt/stockage/packages/f35/enlightenment/po/bg.po | 
- | [fr_CH]({{< ref "/f35/language/fr_CH.md" >}}) | 1549 | 9053 | 17.1 | /mnt/stockage/packages/f35/enlightenment/po/fr_CH.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1312 | 9053 | 14.5 | /mnt/stockage/packages/f35/enlightenment/po/sv.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 1263 | 9053 | 14.0 | /mnt/stockage/packages/f35/enlightenment/po/he.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 1209 | 9053 | 13.4 | /mnt/stockage/packages/f35/enlightenment/po/nb.po | 
- | [fo]({{< ref "/f35/language/fo.md" >}}) | 362 | 9053 | 4.0 | /mnt/stockage/packages/f35/enlightenment/po/fo.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 337 | 9053 | 3.7 | /mnt/stockage/packages/f35/enlightenment/po/ro.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 58 | 9053 | 0.6 | /mnt/stockage/packages/f35/enlightenment/po/km.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 16 | 9053 | 0.2 | /mnt/stockage/packages/f35/enlightenment/po/ms.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 6 | 9053 | 0.1 | /mnt/stockage/packages/f35/enlightenment/po/et.po | 
+ | [de](/f35/language/de) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/de.po | 
+ | [es](/f35/language/es) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/es.po | 
+ | [fr](/f35/language/fr) | 8704 | 8704 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/fr.po | 
+ | [it](/f35/language/it) | 8704 | 8704 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/it.po | 
+ | [pt](/f35/language/pt) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/pt.po | 
+ | [sr](/f35/language/sr) | 9053 | 9053 | 100.0 | /mnt/stockage/packages/f35/enlightenment/po/sr.po | 
+ | [nl](/f35/language/nl) | 8036 | 8696 | 92.4 | /mnt/stockage/packages/f35/enlightenment/po/nl.po | 
+ | [da](/f35/language/da) | 8039 | 9053 | 88.8 | /mnt/stockage/packages/f35/enlightenment/po/da.po | 
+ | [sl](/f35/language/sl) | 5523 | 9053 | 61.0 | /mnt/stockage/packages/f35/enlightenment/po/sl.po | 
+ | [ca](/f35/language/ca) | 5521 | 9053 | 61.0 | /mnt/stockage/packages/f35/enlightenment/po/ca.po | 
+ | [vi](/f35/language/vi) | 5519 | 9053 | 61.0 | /mnt/stockage/packages/f35/enlightenment/po/vi.po | 
+ | [ru](/f35/language/ru) | 5233 | 9053 | 57.8 | /mnt/stockage/packages/f35/enlightenment/po/ru.po | 
+ | [fi](/f35/language/fi) | 5221 | 9053 | 57.7 | /mnt/stockage/packages/f35/enlightenment/po/fi.po | 
+ | [tr](/f35/language/tr) | 5187 | 9053 | 57.3 | /mnt/stockage/packages/f35/enlightenment/po/tr.po | 
+ | [gl](/f35/language/gl) | 5100 | 9053 | 56.3 | /mnt/stockage/packages/f35/enlightenment/po/gl.po | 
+ | [hu](/f35/language/hu) | 4943 | 9053 | 54.6 | /mnt/stockage/packages/f35/enlightenment/po/hu.po | 
+ | [eo](/f35/language/eo) | 4766 | 9053 | 52.6 | /mnt/stockage/packages/f35/enlightenment/po/eo.po | 
+ | [ko](/f35/language/ko) | 4687 | 9053 | 51.8 | /mnt/stockage/packages/f35/enlightenment/po/ko.po | 
+ | [cs](/f35/language/cs) | 4678 | 9053 | 51.7 | /mnt/stockage/packages/f35/enlightenment/po/cs.po | 
+ | [el](/f35/language/el) | 4668 | 9053 | 51.6 | /mnt/stockage/packages/f35/enlightenment/po/el.po | 
+ | [pt_BR](/f35/language/pt_BR) | 4663 | 9053 | 51.5 | /mnt/stockage/packages/f35/enlightenment/po/pt_BR.po | 
+ | [ar](/f35/language/ar) | 4562 | 9053 | 50.4 | /mnt/stockage/packages/f35/enlightenment/po/ar.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 4382 | 9053 | 48.4 | /mnt/stockage/packages/f35/enlightenment/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3148 | 9053 | 34.8 | /mnt/stockage/packages/f35/enlightenment/po/zh_TW.po | 
+ | [lt](/f35/language/lt) | 2652 | 9053 | 29.3 | /mnt/stockage/packages/f35/enlightenment/po/lt.po | 
+ | [ja](/f35/language/ja) | 2630 | 9053 | 29.1 | /mnt/stockage/packages/f35/enlightenment/po/ja.po | 
+ | [uk](/f35/language/uk) | 2165 | 9053 | 23.9 | /mnt/stockage/packages/f35/enlightenment/po/uk.po | 
+ | [hr](/f35/language/hr) | 2160 | 9053 | 23.9 | /mnt/stockage/packages/f35/enlightenment/po/hr.po | 
+ | [pl](/f35/language/pl) | 2009 | 9053 | 22.2 | /mnt/stockage/packages/f35/enlightenment/po/pl.po | 
+ | [sk](/f35/language/sk) | 1958 | 9053 | 21.6 | /mnt/stockage/packages/f35/enlightenment/po/sk.po | 
+ | [bg](/f35/language/bg) | 1594 | 9053 | 17.6 | /mnt/stockage/packages/f35/enlightenment/po/bg.po | 
+ | [fr_CH](/f35/language/fr_CH) | 1549 | 9053 | 17.1 | /mnt/stockage/packages/f35/enlightenment/po/fr_CH.po | 
+ | [sv](/f35/language/sv) | 1312 | 9053 | 14.5 | /mnt/stockage/packages/f35/enlightenment/po/sv.po | 
+ | [he](/f35/language/he) | 1263 | 9053 | 14.0 | /mnt/stockage/packages/f35/enlightenment/po/he.po | 
+ | [nb_NO](/f35/language/nb_NO) | 1209 | 9053 | 13.4 | /mnt/stockage/packages/f35/enlightenment/po/nb.po | 
+ | [fo](/f35/language/fo) | 362 | 9053 | 4.0 | /mnt/stockage/packages/f35/enlightenment/po/fo.po | 
+ | [ro](/f35/language/ro) | 337 | 9053 | 3.7 | /mnt/stockage/packages/f35/enlightenment/po/ro.po | 
+ | [km](/f35/language/km) | 58 | 9053 | 0.6 | /mnt/stockage/packages/f35/enlightenment/po/km.po | 
+ | [ms](/f35/language/ms) | 16 | 9053 | 0.2 | /mnt/stockage/packages/f35/enlightenment/po/ms.po | 
+ | [et](/f35/language/et) | 6 | 9053 | 0.1 | /mnt/stockage/packages/f35/enlightenment/po/et.po | 
 {.sortable}
 
 

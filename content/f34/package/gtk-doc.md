@@ -18,21 +18,21 @@ The package gtk-doc (version 1.33.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 12610 | 12610 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/de/de.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 11831 | 11831 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/el/el.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 6632 | 6632 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/en_GB/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 12665 | 12665 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/es/es.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 12665 | 12665 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/pt_BR/pt_BR.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/sv/sv.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 9787 | 11887 | 82.3 | /mnt/stockage/packages/f34/gtk-doc/help/manual/fr/fr.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 7331 | 12672 | 57.9 | /mnt/stockage/packages/f34/gtk-doc/help/manual/cs/cs.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 3873 | 7233 | 53.5 | /mnt/stockage/packages/f34/gtk-doc/help/manual/ta/ta.po | 
- | [te]({{< ref "/f34/language/te.md" >}}) | 3028 | 7277 | 41.6 | /mnt/stockage/packages/f34/gtk-doc/help/manual/te/te.po | 
- | [gu]({{< ref "/f34/language/gu.md" >}}) | 2707 | 7277 | 37.2 | /mnt/stockage/packages/f34/gtk-doc/help/manual/gu/gu.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 2487 | 10897 | 22.8 | /mnt/stockage/packages/f34/gtk-doc/help/manual/zh_CN/zh_CN.po | 
- | [bn_IN]({{< ref "/f34/language/bn_IN.md" >}}) | 948 | 7277 | 13.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/bn_IN/bn_IN.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 224 | 11166 | 2.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/gl/gl.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 25 | 7651 | 0.3 | /mnt/stockage/packages/f34/gtk-doc/help/manual/sl/sl.po | 
+ | [de](/f34/language/de) | 12610 | 12610 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/de/de.po | 
+ | [el](/f34/language/el) | 11831 | 11831 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/el/el.po | 
+ | [en_GB](/f34/language/en_GB) | 6632 | 6632 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/en_GB/en_GB.po | 
+ | [es](/f34/language/es) | 12665 | 12665 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/es/es.po | 
+ | [pt_BR](/f34/language/pt_BR) | 12665 | 12665 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/pt_BR/pt_BR.po | 
+ | [sv](/f34/language/sv) | 12672 | 12672 | 100.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/sv/sv.po | 
+ | [fr](/f34/language/fr) | 9787 | 11887 | 82.3 | /mnt/stockage/packages/f34/gtk-doc/help/manual/fr/fr.po | 
+ | [cs](/f34/language/cs) | 7331 | 12672 | 57.9 | /mnt/stockage/packages/f34/gtk-doc/help/manual/cs/cs.po | 
+ | [ta](/f34/language/ta) | 3873 | 7233 | 53.5 | /mnt/stockage/packages/f34/gtk-doc/help/manual/ta/ta.po | 
+ | [te](/f34/language/te) | 3028 | 7277 | 41.6 | /mnt/stockage/packages/f34/gtk-doc/help/manual/te/te.po | 
+ | [gu](/f34/language/gu) | 2707 | 7277 | 37.2 | /mnt/stockage/packages/f34/gtk-doc/help/manual/gu/gu.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 2487 | 10897 | 22.8 | /mnt/stockage/packages/f34/gtk-doc/help/manual/zh_CN/zh_CN.po | 
+ | [bn_IN](/f34/language/bn_IN) | 948 | 7277 | 13.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/bn_IN/bn_IN.po | 
+ | [gl](/f34/language/gl) | 224 | 11166 | 2.0 | /mnt/stockage/packages/f34/gtk-doc/help/manual/gl/gl.po | 
+ | [sl](/f34/language/sl) | 25 | 7651 | 0.3 | /mnt/stockage/packages/f34/gtk-doc/help/manual/sl/sl.po | 
 {.sortable}
 
 

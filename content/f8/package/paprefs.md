@@ -18,7 +18,7 @@ The package paprefs (version 0.9.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f8/paprefs/po/de.po | 
+ | [de](/f8/language/de) | 91 | 91 | 100.0 | /mnt/stockage/packages/f8/paprefs/po/de.po | 
 {.sortable}
 
 

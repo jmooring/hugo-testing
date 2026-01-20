@@ -18,60 +18,60 @@ The package libxfce4util (version 4.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ar.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ast.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/bg.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/bn.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/el.po | 
- | [en_AU]({{< ref "/f26/language/en_AU.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/en_AU.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/eu.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/he.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/id.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/is.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/it.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ja.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/lv.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ms.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/nl.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/nn.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/oc.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/sk.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/sv.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/zh_HK.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 413 | 424 | 97.4 | /mnt/stockage/packages/f26/libxfce4util/po/sq.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 826 | 848 | 97.4 | /mnt/stockage/packages/f26/libxfce4util/po/ur_PK.po/mnt/stockage/packages/f26/libxfce4util/po/ur.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 195 | 424 | 46.0 | /mnt/stockage/packages/f26/libxfce4util/po/si.po | 
- | [am]({{< ref "/f26/language/am.md" >}}) | 184 | 424 | 43.4 | /mnt/stockage/packages/f26/libxfce4util/po/am.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 16 | 424 | 3.8 | /mnt/stockage/packages/f26/libxfce4util/po/pa.po | 
- | [uz]({{< ref "/f26/language/uz.md" >}}) | 16 | 424 | 3.8 | /mnt/stockage/packages/f26/libxfce4util/po/uz.po | 
+ | [ar](/f26/language/ar) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ar.po | 
+ | [ast](/f26/language/ast) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ast.po | 
+ | [bg](/f26/language/bg) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/bg.po | 
+ | [bn](/f26/language/bn) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/bn.po | 
+ | [ca](/f26/language/ca) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ca.po | 
+ | [cs](/f26/language/cs) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/cs.po | 
+ | [da](/f26/language/da) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/da.po | 
+ | [de](/f26/language/de) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/de.po | 
+ | [el](/f26/language/el) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/el.po | 
+ | [en_AU](/f26/language/en_AU) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/en_AU.po | 
+ | [en_GB](/f26/language/en_GB) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/en_GB.po | 
+ | [es](/f26/language/es) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/es.po | 
+ | [et](/f26/language/et) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/et.po | 
+ | [eu](/f26/language/eu) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/eu.po | 
+ | [fi](/f26/language/fi) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/fi.po | 
+ | [fr](/f26/language/fr) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/fr.po | 
+ | [gl](/f26/language/gl) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/gl.po | 
+ | [he](/f26/language/he) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/he.po | 
+ | [hr](/f26/language/hr) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/hr.po | 
+ | [hu](/f26/language/hu) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/hu.po | 
+ | [id](/f26/language/id) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/id.po | 
+ | [is](/f26/language/is) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/is.po | 
+ | [it](/f26/language/it) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/it.po | 
+ | [ja](/f26/language/ja) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ja.po | 
+ | [kk](/f26/language/kk) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/kk.po | 
+ | [ko](/f26/language/ko) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ko.po | 
+ | [lt](/f26/language/lt) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/lt.po | 
+ | [lv](/f26/language/lv) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/lv.po | 
+ | [ms](/f26/language/ms) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ms.po | 
+ | [nb_NO](/f26/language/nb_NO) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/nb.po | 
+ | [nl](/f26/language/nl) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/nl.po | 
+ | [nn](/f26/language/nn) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/nn.po | 
+ | [oc](/f26/language/oc) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/oc.po | 
+ | [pl](/f26/language/pl) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/pl.po | 
+ | [pt](/f26/language/pt) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ro.po | 
+ | [ru](/f26/language/ru) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ru.po | 
+ | [sk](/f26/language/sk) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/sk.po | 
+ | [sr](/f26/language/sr) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/sr.po | 
+ | [sv](/f26/language/sv) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/sv.po | 
+ | [th](/f26/language/th) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/th.po | 
+ | [tr](/f26/language/tr) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/tr.po | 
+ | [ug](/f26/language/ug) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/ug.po | 
+ | [uk](/f26/language/uk) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 424 | 424 | 100.0 | /mnt/stockage/packages/f26/libxfce4util/po/zh_HK.po | 
+ | [sq](/f26/language/sq) | 413 | 424 | 97.4 | /mnt/stockage/packages/f26/libxfce4util/po/sq.po | 
+ | [ur](/f26/language/ur) | 826 | 848 | 97.4 | /mnt/stockage/packages/f26/libxfce4util/po/ur_PK.po/mnt/stockage/packages/f26/libxfce4util/po/ur.po | 
+ | [si](/f26/language/si) | 195 | 424 | 46.0 | /mnt/stockage/packages/f26/libxfce4util/po/si.po | 
+ | [am](/f26/language/am) | 184 | 424 | 43.4 | /mnt/stockage/packages/f26/libxfce4util/po/am.po | 
+ | [pa](/f26/language/pa) | 16 | 424 | 3.8 | /mnt/stockage/packages/f26/libxfce4util/po/pa.po | 
+ | [uz](/f26/language/uz) | 16 | 424 | 3.8 | /mnt/stockage/packages/f26/libxfce4util/po/uz.po | 
 {.sortable}
 
 

@@ -18,21 +18,21 @@ The package kf5-kirigami (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/ca/libkirigamiplugin_qt.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/ca@valencia/libkirigamiplugin_qt.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/cs/libkirigamiplugin_qt.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/de/libkirigamiplugin_qt.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/en_GB/libkirigamiplugin_qt.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/es/libkirigamiplugin_qt.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/nl/libkirigamiplugin_qt.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/pl/libkirigamiplugin_qt.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/pt/libkirigamiplugin_qt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/pt_BR/libkirigamiplugin_qt.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/sk/libkirigamiplugin_qt.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/sl/libkirigamiplugin_qt.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/sv/libkirigamiplugin_qt.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/uk/libkirigamiplugin_qt.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 0 | 2 | 0.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/zh_TW/libkirigamiplugin_qt.po | 
+ | [ca](/f39/language/ca) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/ca/libkirigamiplugin_qt.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/ca@valencia/libkirigamiplugin_qt.po | 
+ | [cs](/f39/language/cs) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/cs/libkirigamiplugin_qt.po | 
+ | [de](/f39/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/de/libkirigamiplugin_qt.po | 
+ | [en_GB](/f39/language/en_GB) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/en_GB/libkirigamiplugin_qt.po | 
+ | [es](/f39/language/es) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/es/libkirigamiplugin_qt.po | 
+ | [nl](/f39/language/nl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/nl/libkirigamiplugin_qt.po | 
+ | [pl](/f39/language/pl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/pl/libkirigamiplugin_qt.po | 
+ | [pt](/f39/language/pt) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/pt/libkirigamiplugin_qt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/pt_BR/libkirigamiplugin_qt.po | 
+ | [sk](/f39/language/sk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/sk/libkirigamiplugin_qt.po | 
+ | [sl](/f39/language/sl) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/sl/libkirigamiplugin_qt.po | 
+ | [sv](/f39/language/sv) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/sv/libkirigamiplugin_qt.po | 
+ | [uk](/f39/language/uk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/uk/libkirigamiplugin_qt.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 0 | 2 | 0.0 | /mnt/stockage/packages/f39/kf5-kirigami/po/zh_TW/libkirigamiplugin_qt.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package minder (version 1.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f32/minder/po/eu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1420 | 1426 | 99.6 | /mnt/stockage/packages/f32/minder/po/it.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 3598 | 5037 | 71.4 | /mnt/stockage/packages/f32/minder/po/pt.po/mnt/stockage/packages/f32/minder/po/extra/pt.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1971 | 5037 | 39.1 | /mnt/stockage/packages/f32/minder/po/fr.po/mnt/stockage/packages/f32/minder/po/extra/fr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 523 | 1426 | 36.7 | /mnt/stockage/packages/f32/minder/po/nl.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 581 | 5037 | 11.5 | /mnt/stockage/packages/f32/minder/po/es.po/mnt/stockage/packages/f32/minder/po/extra/es.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 299 | 5037 | 5.9 | /mnt/stockage/packages/f32/minder/po/pt_BR.po/mnt/stockage/packages/f32/minder/po/extra/pt_BR.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 153 | 5037 | 3.0 | /mnt/stockage/packages/f32/minder/po/pl.po/mnt/stockage/packages/f32/minder/po/extra/pl.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 139 | 5037 | 2.8 | /mnt/stockage/packages/f32/minder/po/cs.po/mnt/stockage/packages/f32/minder/po/extra/cs.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 0 | 5037 | 0.0 | /mnt/stockage/packages/f32/minder/po/ru.po/mnt/stockage/packages/f32/minder/po/extra/ru.po | 
+ | [eu](/f32/language/eu) | 1423 | 1423 | 100.0 | /mnt/stockage/packages/f32/minder/po/eu.po | 
+ | [it](/f32/language/it) | 1420 | 1426 | 99.6 | /mnt/stockage/packages/f32/minder/po/it.po | 
+ | [pt](/f32/language/pt) | 3598 | 5037 | 71.4 | /mnt/stockage/packages/f32/minder/po/pt.po/mnt/stockage/packages/f32/minder/po/extra/pt.po | 
+ | [fr](/f32/language/fr) | 1971 | 5037 | 39.1 | /mnt/stockage/packages/f32/minder/po/fr.po/mnt/stockage/packages/f32/minder/po/extra/fr.po | 
+ | [nl](/f32/language/nl) | 523 | 1426 | 36.7 | /mnt/stockage/packages/f32/minder/po/nl.po | 
+ | [es](/f32/language/es) | 581 | 5037 | 11.5 | /mnt/stockage/packages/f32/minder/po/es.po/mnt/stockage/packages/f32/minder/po/extra/es.po | 
+ | [pt_BR](/f32/language/pt_BR) | 299 | 5037 | 5.9 | /mnt/stockage/packages/f32/minder/po/pt_BR.po/mnt/stockage/packages/f32/minder/po/extra/pt_BR.po | 
+ | [pl](/f32/language/pl) | 153 | 5037 | 3.0 | /mnt/stockage/packages/f32/minder/po/pl.po/mnt/stockage/packages/f32/minder/po/extra/pl.po | 
+ | [cs](/f32/language/cs) | 139 | 5037 | 2.8 | /mnt/stockage/packages/f32/minder/po/cs.po/mnt/stockage/packages/f32/minder/po/extra/cs.po | 
+ | [ru](/f32/language/ru) | 0 | 5037 | 0.0 | /mnt/stockage/packages/f32/minder/po/ru.po/mnt/stockage/packages/f32/minder/po/extra/ru.po | 
 {.sortable}
 
 

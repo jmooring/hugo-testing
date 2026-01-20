@@ -18,23 +18,23 @@ The package osinfo-db-tools (version 1.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/de.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/fr.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/id.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ka.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/pt_BR.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/uk.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 61 | 222 | 27.5 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ca.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f40/osinfo-db-tools/po/es.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 54 | 222 | 24.3 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ja.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 52 | 222 | 23.4 | /mnt/stockage/packages/f40/osinfo-db-tools/po/pt_PT.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 23 | 222 | 10.4 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ru.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 2 | 222 | 0.9 | /mnt/stockage/packages/f40/osinfo-db-tools/po/si.po | 
+ | [cs](/f40/language/cs) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/cs.po | 
+ | [de](/f40/language/de) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/de.po | 
+ | [fi](/f40/language/fi) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/fi.po | 
+ | [fr](/f40/language/fr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/fr.po | 
+ | [id](/f40/language/id) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/id.po | 
+ | [ka](/f40/language/ka) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ka.po | 
+ | [ko](/f40/language/ko) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ko.po | 
+ | [pl](/f40/language/pl) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/pt_BR.po | 
+ | [tr](/f40/language/tr) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/tr.po | 
+ | [uk](/f40/language/uk) | 222 | 222 | 100.0 | /mnt/stockage/packages/f40/osinfo-db-tools/po/uk.po | 
+ | [ca](/f40/language/ca) | 61 | 222 | 27.5 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ca.po | 
+ | [es](/f40/language/es) | 54 | 222 | 24.3 | /mnt/stockage/packages/f40/osinfo-db-tools/po/es.po | 
+ | [ja](/f40/language/ja) | 54 | 222 | 24.3 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ja.po | 
+ | [pt_PT](/f40/language/pt_PT) | 52 | 222 | 23.4 | /mnt/stockage/packages/f40/osinfo-db-tools/po/pt_PT.po | 
+ | [ru](/f40/language/ru) | 23 | 222 | 10.4 | /mnt/stockage/packages/f40/osinfo-db-tools/po/ru.po | 
+ | [si](/f40/language/si) | 2 | 222 | 0.9 | /mnt/stockage/packages/f40/osinfo-db-tools/po/si.po | 
 {.sortable}
 
 

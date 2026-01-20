@@ -18,22 +18,22 @@ The package 4Pane (version 6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 12575 | 12575 | 100.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/de/LC_MESSAGES/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 12575 | 12575 | 100.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/it/LC_MESSAGES/it.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 12575 | 12575 | 100.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/nl/LC_MESSAGES/nl.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 9653 | 12575 | 76.8 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/da/LC_MESSAGES/da.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 4811 | 12575 | 38.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/es/LC_MESSAGES/es.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 2884 | 12575 | 22.9 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ru/LC_MESSAGES/ru.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1294 | 12575 | 10.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/fr/LC_MESSAGES/fr.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1291 | 12575 | 10.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 628 | 12575 | 5.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/pl/LC_MESSAGES/pl.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 580 | 12575 | 4.6 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ar/LC_MESSAGES/ar.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 558 | 12575 | 4.4 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/fa/LC_MESSAGES/fa.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 532 | 12575 | 4.2 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ja/LC_MESSAGES/ja.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 486 | 12575 | 3.9 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ca/LC_MESSAGES/ca.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 90 | 12575 | 0.7 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/et/LC_MESSAGES/et.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 46 | 12575 | 0.4 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/zh_CN/LC_MESSAGES/zh_CN.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 40 | 12575 | 0.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/vi/LC_MESSAGES/vi.po | 
+ | [de](/f31/language/de) | 12575 | 12575 | 100.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/de/LC_MESSAGES/de.po | 
+ | [it](/f31/language/it) | 12575 | 12575 | 100.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/it/LC_MESSAGES/it.po | 
+ | [nl](/f31/language/nl) | 12575 | 12575 | 100.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/nl/LC_MESSAGES/nl.po | 
+ | [da](/f31/language/da) | 9653 | 12575 | 76.8 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/da/LC_MESSAGES/da.po | 
+ | [es](/f31/language/es) | 4811 | 12575 | 38.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/es/LC_MESSAGES/es.po | 
+ | [ru](/f31/language/ru) | 2884 | 12575 | 22.9 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ru/LC_MESSAGES/ru.po | 
+ | [fr](/f31/language/fr) | 1294 | 12575 | 10.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/fr/LC_MESSAGES/fr.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1291 | 12575 | 10.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
+ | [pl](/f31/language/pl) | 628 | 12575 | 5.0 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/pl/LC_MESSAGES/pl.po | 
+ | [ar](/f31/language/ar) | 580 | 12575 | 4.6 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ar/LC_MESSAGES/ar.po | 
+ | [fa](/f31/language/fa) | 558 | 12575 | 4.4 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/fa/LC_MESSAGES/fa.po | 
+ | [ja](/f31/language/ja) | 532 | 12575 | 4.2 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ja/LC_MESSAGES/ja.po | 
+ | [ca](/f31/language/ca) | 486 | 12575 | 3.9 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/ca/LC_MESSAGES/ca.po | 
+ | [et](/f31/language/et) | 90 | 12575 | 0.7 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/et/LC_MESSAGES/et.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 46 | 12575 | 0.4 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/zh_CN/LC_MESSAGES/zh_CN.po | 
+ | [vi](/f31/language/vi) | 40 | 12575 | 0.3 | /mnt/stockage/packages/f31/4Pane/4pane-6.0/locale/vi/LC_MESSAGES/vi.po | 
 {.sortable}
 
 

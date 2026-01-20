@@ -18,20 +18,20 @@ The package libgedit-gfls (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f43/language/be.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/be.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/de.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/hu.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/ka.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/ru.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/sv.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/uk.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/zh_CN.po | 
+ | [be](/f43/language/be) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/be.po | 
+ | [da](/f43/language/da) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/da.po | 
+ | [de](/f43/language/de) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/de.po | 
+ | [hu](/f43/language/hu) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/hu.po | 
+ | [ka](/f43/language/ka) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/ka.po | 
+ | [pl](/f43/language/pl) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/ru.po | 
+ | [sl](/f43/language/sl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/sl.po | 
+ | [sr](/f43/language/sr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/sr.po | 
+ | [sv](/f43/language/sv) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/sv.po | 
+ | [tr](/f43/language/tr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/tr.po | 
+ | [uk](/f43/language/uk) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/uk.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 65 | 65 | 100.0 | /mnt/stockage/packages/f43/libgedit-gfls/po/zh_CN.po | 
 {.sortable}
 
 

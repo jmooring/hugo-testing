@@ -18,22 +18,22 @@ The package psmisc (version 22.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/bg.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/hu.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/ja.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/nb.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/nl.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/pl.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/sv.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/vi.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 100 | 634 | 15.8 | /mnt/stockage/packages/f7/psmisc/po/ca.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 100 | 634 | 15.8 | /mnt/stockage/packages/f7/psmisc/po/eu.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 100 | 634 | 15.8 | /mnt/stockage/packages/f7/psmisc/po/ro.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 76 | 634 | 12.0 | /mnt/stockage/packages/f7/psmisc/po/de.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 48 | 634 | 7.6 | /mnt/stockage/packages/f7/psmisc/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 24 | 634 | 3.8 | /mnt/stockage/packages/f7/psmisc/po/fr.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 24 | 634 | 3.8 | /mnt/stockage/packages/f7/psmisc/po/pt.po | 
+ | [bg](/f7/language/bg) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/bg.po | 
+ | [hu](/f7/language/hu) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/hu.po | 
+ | [it](/f7/language/it) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/it.po | 
+ | [ja](/f7/language/ja) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/ja.po | 
+ | [nb_NO](/f7/language/nb_NO) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/nb.po | 
+ | [nl](/f7/language/nl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/nl.po | 
+ | [pl](/f7/language/pl) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/pl.po | 
+ | [sv](/f7/language/sv) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/sv.po | 
+ | [vi](/f7/language/vi) | 634 | 634 | 100.0 | /mnt/stockage/packages/f7/psmisc/po/vi.po | 
+ | [ca](/f7/language/ca) | 100 | 634 | 15.8 | /mnt/stockage/packages/f7/psmisc/po/ca.po | 
+ | [eu](/f7/language/eu) | 100 | 634 | 15.8 | /mnt/stockage/packages/f7/psmisc/po/eu.po | 
+ | [ro](/f7/language/ro) | 100 | 634 | 15.8 | /mnt/stockage/packages/f7/psmisc/po/ro.po | 
+ | [de](/f7/language/de) | 76 | 634 | 12.0 | /mnt/stockage/packages/f7/psmisc/po/de.po | 
+ | [fi](/f7/language/fi) | 48 | 634 | 7.6 | /mnt/stockage/packages/f7/psmisc/po/fi.po | 
+ | [fr](/f7/language/fr) | 24 | 634 | 3.8 | /mnt/stockage/packages/f7/psmisc/po/fr.po | 
+ | [pt](/f7/language/pt) | 24 | 634 | 3.8 | /mnt/stockage/packages/f7/psmisc/po/pt.po | 
 {.sortable}
 
 

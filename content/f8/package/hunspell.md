@@ -18,7 +18,7 @@ The package hunspell (version 1.1.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 422 | 446 | 94.6 | /mnt/stockage/packages/f8/hunspell/po/hu.po | 
+ | [hu](/f8/language/hu) | 422 | 446 | 94.6 | /mnt/stockage/packages/f8/hunspell/po/hu.po | 
 {.sortable}
 
 

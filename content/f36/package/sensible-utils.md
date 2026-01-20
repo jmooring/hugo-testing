@@ -18,14 +18,14 @@ The package sensible-utils (version 0.0.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/fr.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 175 | 321 | 54.5 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/pt.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 167 | 321 | 52.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/de.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/cs.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/es.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/ja.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/pl.po | 
+ | [fr](/f36/language/fr) | 321 | 321 | 100.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/fr.po | 
+ | [pt](/f36/language/pt) | 175 | 321 | 54.5 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/pt.po | 
+ | [de](/f36/language/de) | 167 | 321 | 52.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/de.po | 
+ | [cs](/f36/language/cs) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/cs.po | 
+ | [es](/f36/language/es) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/es.po | 
+ | [it](/f36/language/it) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/it.po | 
+ | [ja](/f36/language/ja) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/ja.po | 
+ | [pl](/f36/language/pl) | 13 | 321 | 4.0 | /mnt/stockage/packages/f36/sensible-utils/man/po4a/pl.po | 
 {.sortable}
 
 

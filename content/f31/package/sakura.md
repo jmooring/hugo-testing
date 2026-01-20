@@ -18,24 +18,24 @@ The package sakura (version 3.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/de.po | 
- | [en]({{< ref "/f31/language/en.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/en_GB.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/es.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/hr.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/ja.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/ko.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/zh_CN.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 198 | 203 | 97.5 | /mnt/stockage/packages/f31/sakura/po/sv.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 178 | 203 | 87.7 | /mnt/stockage/packages/f31/sakura/po/hu.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 178 | 203 | 87.7 | /mnt/stockage/packages/f31/sakura/po/ru.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 175 | 203 | 86.2 | /mnt/stockage/packages/f31/sakura/po/fr.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 172 | 203 | 84.7 | /mnt/stockage/packages/f31/sakura/po/pl.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 165 | 203 | 81.3 | /mnt/stockage/packages/f31/sakura/po/it.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 164 | 203 | 80.8 | /mnt/stockage/packages/f31/sakura/po/cs.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 163 | 203 | 80.3 | /mnt/stockage/packages/f31/sakura/po/he.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 300 | 406 | 73.9 | /mnt/stockage/packages/f31/sakura/po/pt_BR.po/mnt/stockage/packages/f31/sakura/po/pt.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 137 | 203 | 67.5 | /mnt/stockage/packages/f31/sakura/po/uk.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 134 | 203 | 66.0 | /mnt/stockage/packages/f31/sakura/po/ca.po | 
+ | [de](/f31/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/de.po | 
+ | [en](/f31/language/en) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/en_GB.po | 
+ | [es](/f31/language/es) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/es.po | 
+ | [hr](/f31/language/hr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/hr.po | 
+ | [ja](/f31/language/ja) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/ja.po | 
+ | [ko](/f31/language/ko) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/ko.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 203 | 203 | 100.0 | /mnt/stockage/packages/f31/sakura/po/zh_CN.po | 
+ | [sv](/f31/language/sv) | 198 | 203 | 97.5 | /mnt/stockage/packages/f31/sakura/po/sv.po | 
+ | [hu](/f31/language/hu) | 178 | 203 | 87.7 | /mnt/stockage/packages/f31/sakura/po/hu.po | 
+ | [ru](/f31/language/ru) | 178 | 203 | 87.7 | /mnt/stockage/packages/f31/sakura/po/ru.po | 
+ | [fr](/f31/language/fr) | 175 | 203 | 86.2 | /mnt/stockage/packages/f31/sakura/po/fr.po | 
+ | [pl](/f31/language/pl) | 172 | 203 | 84.7 | /mnt/stockage/packages/f31/sakura/po/pl.po | 
+ | [it](/f31/language/it) | 165 | 203 | 81.3 | /mnt/stockage/packages/f31/sakura/po/it.po | 
+ | [cs](/f31/language/cs) | 164 | 203 | 80.8 | /mnt/stockage/packages/f31/sakura/po/cs.po | 
+ | [he](/f31/language/he) | 163 | 203 | 80.3 | /mnt/stockage/packages/f31/sakura/po/he.po | 
+ | [pt](/f31/language/pt) | 300 | 406 | 73.9 | /mnt/stockage/packages/f31/sakura/po/pt_BR.po/mnt/stockage/packages/f31/sakura/po/pt.po | 
+ | [uk](/f31/language/uk) | 137 | 203 | 67.5 | /mnt/stockage/packages/f31/sakura/po/uk.po | 
+ | [ca](/f31/language/ca) | 134 | 203 | 66.0 | /mnt/stockage/packages/f31/sakura/po/ca.po | 
 {.sortable}
 
 

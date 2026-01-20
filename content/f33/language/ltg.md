@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [spacefm]({{< ref "/f33/package/spacefm.md" >}}) | 6819 | 8823 | 77.3 | Latgalian (http://www.transifex.com/p/spacefm/language/ltg/) | 
- | [dnfdragora]({{< ref "/f33/package/dnfdragora.md" >}}) | 4 | 39 | 10.3 | Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/) | 
- | [gnome-do]({{< ref "/f33/package/gnome-do.md" >}}) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
- | [calibre]({{< ref "/f33/package/calibre.md" >}}) | 6 | 161062 | 0.0 | Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/) | 
+ | [spacefm](/f33/package/spacefm) | 6819 | 8823 | 77.3 | Latgalian (http://www.transifex.com/p/spacefm/language/ltg/) | 
+ | [dnfdragora](/f33/package/dnfdragora) | 4 | 39 | 10.3 | Latgalian (https://www.transifex.com/MageiaLinux/teams/9361/ltg/) | 
+ | [gnome-do](/f33/package/gnome-do) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
+ | [calibre](/f33/package/calibre) | 6 | 161062 | 0.0 | Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/) | 
 {.sortable}
 
 

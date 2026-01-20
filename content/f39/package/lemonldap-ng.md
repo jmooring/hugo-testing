@@ -18,20 +18,20 @@ The package lemonldap-ng (version 2.20.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/fr.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/nl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/sv.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 168 | 178 | 94.4 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/fi.po | 
+ | [cs](/f39/language/cs) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/cs.po | 
+ | [da](/f39/language/da) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/da.po | 
+ | [de](/f39/language/de) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/de.po | 
+ | [es](/f39/language/es) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/es.po | 
+ | [fr](/f39/language/fr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/fr.po | 
+ | [it](/f39/language/it) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/it.po | 
+ | [ja](/f39/language/ja) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/ja.po | 
+ | [nl](/f39/language/nl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/nl.po | 
+ | [pt](/f39/language/pt) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/ru.po | 
+ | [sk](/f39/language/sk) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/sk.po | 
+ | [sv](/f39/language/sv) | 178 | 178 | 100.0 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/sv.po | 
+ | [fi](/f39/language/fi) | 168 | 178 | 94.4 | /mnt/stockage/packages/f39/lemonldap-ng/debian/po/fi.po | 
 {.sortable}
 
 

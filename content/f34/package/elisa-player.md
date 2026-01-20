@@ -18,45 +18,45 @@ The package elisa-player (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ca/elisa.po | 
- | [ca@valencia]({{< ref "/f34/language/ca@valencia.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ca@valencia/elisa.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/cs/elisa.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/en_GB/elisa.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/es/elisa.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/fi/elisa.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/fr/elisa.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/hu/elisa.po | 
- | [ia]({{< ref "/f34/language/ia.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ia/elisa.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/it/elisa.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ko/elisa.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/nl/elisa.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/pl/elisa.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/pt_BR/elisa.po | 
- | [sk]({{< ref "/f34/language/sk.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/sk/elisa.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/sl/elisa.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/sv/elisa.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/uk/elisa.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/zh_CN/elisa.po | 
- | [az]({{< ref "/f34/language/az.md" >}}) | 560 | 572 | 97.9 | /mnt/stockage/packages/f34/elisa-player/po/az/elisa.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 560 | 572 | 97.9 | /mnt/stockage/packages/f34/elisa-player/po/el/elisa.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 560 | 572 | 97.9 | /mnt/stockage/packages/f34/elisa-player/po/pt/elisa.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 559 | 572 | 97.7 | /mnt/stockage/packages/f34/elisa-player/po/ru/elisa.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 558 | 572 | 97.6 | /mnt/stockage/packages/f34/elisa-player/po/hi/elisa.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 558 | 572 | 97.6 | /mnt/stockage/packages/f34/elisa-player/po/ja/elisa.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 526 | 572 | 92.0 | /mnt/stockage/packages/f34/elisa-player/po/ar/elisa.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 526 | 572 | 92.0 | /mnt/stockage/packages/f34/elisa-player/po/eu/elisa.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 526 | 572 | 92.0 | /mnt/stockage/packages/f34/elisa-player/po/lt/elisa.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 493 | 572 | 86.2 | /mnt/stockage/packages/f34/elisa-player/po/de/elisa.po | 
- | [id]({{< ref "/f34/language/id.md" >}}) | 493 | 572 | 86.2 | /mnt/stockage/packages/f34/elisa-player/po/id/elisa.po | 
- | [nn]({{< ref "/f34/language/nn.md" >}}) | 439 | 572 | 76.7 | /mnt/stockage/packages/f34/elisa-player/po/nn/elisa.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 439 | 572 | 76.7 | /mnt/stockage/packages/f34/elisa-player/po/tr/elisa.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 397 | 572 | 69.4 | /mnt/stockage/packages/f34/elisa-player/po/da/elisa.po | 
- | [pa]({{< ref "/f34/language/pa.md" >}}) | 254 | 572 | 44.4 | /mnt/stockage/packages/f34/elisa-player/po/pa/elisa.po | 
- | [ast]({{< ref "/f34/language/ast.md" >}}) | 236 | 572 | 41.3 | /mnt/stockage/packages/f34/elisa-player/po/ast/elisa.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 227 | 572 | 39.7 | /mnt/stockage/packages/f34/elisa-player/po/zh_TW/elisa.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 197 | 572 | 34.4 | /mnt/stockage/packages/f34/elisa-player/po/et/elisa.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 137 | 572 | 24.0 | /mnt/stockage/packages/f34/elisa-player/po/gl/elisa.po | 
- | [bs]({{< ref "/f34/language/bs.md" >}}) | 0 | 572 | 0.0 | /mnt/stockage/packages/f34/elisa-player/po/bs/elisa.po | 
+ | [ca](/f34/language/ca) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ca/elisa.po | 
+ | [ca@valencia](/f34/language/ca@valencia) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ca@valencia/elisa.po | 
+ | [cs](/f34/language/cs) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/cs/elisa.po | 
+ | [en_GB](/f34/language/en_GB) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/en_GB/elisa.po | 
+ | [es](/f34/language/es) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/es/elisa.po | 
+ | [fi](/f34/language/fi) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/fi/elisa.po | 
+ | [fr](/f34/language/fr) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/fr/elisa.po | 
+ | [hu](/f34/language/hu) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/hu/elisa.po | 
+ | [ia](/f34/language/ia) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ia/elisa.po | 
+ | [it](/f34/language/it) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/it/elisa.po | 
+ | [ko](/f34/language/ko) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/ko/elisa.po | 
+ | [nl](/f34/language/nl) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/nl/elisa.po | 
+ | [pl](/f34/language/pl) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/pl/elisa.po | 
+ | [pt_BR](/f34/language/pt_BR) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/pt_BR/elisa.po | 
+ | [sk](/f34/language/sk) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/sk/elisa.po | 
+ | [sl](/f34/language/sl) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/sl/elisa.po | 
+ | [sv](/f34/language/sv) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/sv/elisa.po | 
+ | [uk](/f34/language/uk) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/uk/elisa.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 572 | 572 | 100.0 | /mnt/stockage/packages/f34/elisa-player/po/zh_CN/elisa.po | 
+ | [az](/f34/language/az) | 560 | 572 | 97.9 | /mnt/stockage/packages/f34/elisa-player/po/az/elisa.po | 
+ | [el](/f34/language/el) | 560 | 572 | 97.9 | /mnt/stockage/packages/f34/elisa-player/po/el/elisa.po | 
+ | [pt](/f34/language/pt) | 560 | 572 | 97.9 | /mnt/stockage/packages/f34/elisa-player/po/pt/elisa.po | 
+ | [ru](/f34/language/ru) | 559 | 572 | 97.7 | /mnt/stockage/packages/f34/elisa-player/po/ru/elisa.po | 
+ | [hi](/f34/language/hi) | 558 | 572 | 97.6 | /mnt/stockage/packages/f34/elisa-player/po/hi/elisa.po | 
+ | [ja](/f34/language/ja) | 558 | 572 | 97.6 | /mnt/stockage/packages/f34/elisa-player/po/ja/elisa.po | 
+ | [ar](/f34/language/ar) | 526 | 572 | 92.0 | /mnt/stockage/packages/f34/elisa-player/po/ar/elisa.po | 
+ | [eu](/f34/language/eu) | 526 | 572 | 92.0 | /mnt/stockage/packages/f34/elisa-player/po/eu/elisa.po | 
+ | [lt](/f34/language/lt) | 526 | 572 | 92.0 | /mnt/stockage/packages/f34/elisa-player/po/lt/elisa.po | 
+ | [de](/f34/language/de) | 493 | 572 | 86.2 | /mnt/stockage/packages/f34/elisa-player/po/de/elisa.po | 
+ | [id](/f34/language/id) | 493 | 572 | 86.2 | /mnt/stockage/packages/f34/elisa-player/po/id/elisa.po | 
+ | [nn](/f34/language/nn) | 439 | 572 | 76.7 | /mnt/stockage/packages/f34/elisa-player/po/nn/elisa.po | 
+ | [tr](/f34/language/tr) | 439 | 572 | 76.7 | /mnt/stockage/packages/f34/elisa-player/po/tr/elisa.po | 
+ | [da](/f34/language/da) | 397 | 572 | 69.4 | /mnt/stockage/packages/f34/elisa-player/po/da/elisa.po | 
+ | [pa](/f34/language/pa) | 254 | 572 | 44.4 | /mnt/stockage/packages/f34/elisa-player/po/pa/elisa.po | 
+ | [ast](/f34/language/ast) | 236 | 572 | 41.3 | /mnt/stockage/packages/f34/elisa-player/po/ast/elisa.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 227 | 572 | 39.7 | /mnt/stockage/packages/f34/elisa-player/po/zh_TW/elisa.po | 
+ | [et](/f34/language/et) | 197 | 572 | 34.4 | /mnt/stockage/packages/f34/elisa-player/po/et/elisa.po | 
+ | [gl](/f34/language/gl) | 137 | 572 | 24.0 | /mnt/stockage/packages/f34/elisa-player/po/gl/elisa.po | 
+ | [bs](/f34/language/bs) | 0 | 572 | 0.0 | /mnt/stockage/packages/f34/elisa-player/po/bs/elisa.po | 
 {.sortable}
 
 

@@ -38,15 +38,15 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [at-spi]({{< ref "/f12/package/at-spi.md" >}}) | 4 | 4 | 100.0 | Old English <modean52@comcast.net> | 
- | [gnome-mag]({{< ref "/f12/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
- | [vte]({{< ref "/f12/package/vte.md" >}}) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
- | [eel2]({{< ref "/f12/package/eel2.md" >}}) | 57 | 235 | 24.3 | Old English <modean52@comcast.net> | 
- | [libgnomecanvas]({{< ref "/f12/package/libgnomecanvas.md" >}}) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
- | [mingw32-gtk2]({{< ref "/f12/package/mingw32-gtk2.md" >}}) | 404 | 13351 | 3.0 | Old English <modean52@comcast.net> | 
- | [gtk2]({{< ref "/f12/package/gtk2.md" >}}) | 404 | 13358 | 3.0 | Old English <modean52@comcast.net> | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
- | [gok]({{< ref "/f12/package/gok.md" >}}) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
+ | [at-spi](/f12/package/at-spi) | 4 | 4 | 100.0 | Old English <modean52@comcast.net> | 
+ | [gnome-mag](/f12/package/gnome-mag) | 5 | 5 | 100.0 | Old English <modean52@comcast.net> | 
+ | [vte](/f12/package/vte) | 27 | 96 | 28.1 | Old English <modean52@comcast.net> | 
+ | [eel2](/f12/package/eel2) | 57 | 235 | 24.3 | Old English <modean52@comcast.net> | 
+ | [libgnomecanvas](/f12/package/libgnomecanvas) | 14 | 357 | 3.9 | Old English <modean52@comcast.net> | 
+ | [mingw32-gtk2](/f12/package/mingw32-gtk2) | 404 | 13351 | 3.0 | Old English <modean52@comcast.net> | 
+ | [gtk2](/f12/package/gtk2) | 404 | 13358 | 3.0 | Old English <modean52@comcast.net> | 
+ | [libgweather](/f12/package/libgweather) | 51 | 3663 | 1.4 | Old English <modean52@comcast.net> | 
+ | [gok](/f12/package/gok) | 19 | 1781 | 1.1 | Old English <modean52@comcast.net> | 
 {.sortable}
 
 

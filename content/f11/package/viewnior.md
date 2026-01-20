@@ -18,18 +18,18 @@ The package viewnior (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/it.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 384 | 387 | 99.2 | /mnt/stockage/packages/f11/viewnior/po/bg.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 356 | 387 | 92.0 | /mnt/stockage/packages/f11/viewnior/po/de.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 356 | 387 | 92.0 | /mnt/stockage/packages/f11/viewnior/po/ru.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 345 | 387 | 89.1 | /mnt/stockage/packages/f11/viewnior/po/nl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 345 | 387 | 89.1 | /mnt/stockage/packages/f11/viewnior/po/pt.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 242 | 387 | 62.5 | /mnt/stockage/packages/f11/viewnior/po/el.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 222 | 387 | 57.4 | /mnt/stockage/packages/f11/viewnior/po/da.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 140 | 348 | 40.2 | /mnt/stockage/packages/f11/viewnior/po/pl.po | 
+ | [es](/f11/language/es) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/es.po | 
+ | [fr](/f11/language/fr) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/fr.po | 
+ | [hu](/f11/language/hu) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/hu.po | 
+ | [it](/f11/language/it) | 387 | 387 | 100.0 | /mnt/stockage/packages/f11/viewnior/po/it.po | 
+ | [bg](/f11/language/bg) | 384 | 387 | 99.2 | /mnt/stockage/packages/f11/viewnior/po/bg.po | 
+ | [de](/f11/language/de) | 356 | 387 | 92.0 | /mnt/stockage/packages/f11/viewnior/po/de.po | 
+ | [ru](/f11/language/ru) | 356 | 387 | 92.0 | /mnt/stockage/packages/f11/viewnior/po/ru.po | 
+ | [nl](/f11/language/nl) | 345 | 387 | 89.1 | /mnt/stockage/packages/f11/viewnior/po/nl.po | 
+ | [pt](/f11/language/pt) | 345 | 387 | 89.1 | /mnt/stockage/packages/f11/viewnior/po/pt.po | 
+ | [el](/f11/language/el) | 242 | 387 | 62.5 | /mnt/stockage/packages/f11/viewnior/po/el.po | 
+ | [da](/f11/language/da) | 222 | 387 | 57.4 | /mnt/stockage/packages/f11/viewnior/po/da.po | 
+ | [pl](/f11/language/pl) | 140 | 348 | 40.2 | /mnt/stockage/packages/f11/viewnior/po/pl.po | 
 {.sortable}
 
 

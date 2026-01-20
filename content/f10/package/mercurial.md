@@ -18,15 +18,15 @@ The package mercurial (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 23615 | 23624 | 100.0 | /mnt/stockage/packages/f10/mercurial/i18n/pt_BR.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 19107 | 23624 | 80.9 | /mnt/stockage/packages/f10/mercurial/i18n/ja.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 9391 | 22655 | 41.5 | /mnt/stockage/packages/f10/mercurial/i18n/de.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 9344 | 23733 | 39.4 | /mnt/stockage/packages/f10/mercurial/i18n/it.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 8779 | 23624 | 37.2 | /mnt/stockage/packages/f10/mercurial/i18n/da.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 5300 | 22901 | 23.1 | /mnt/stockage/packages/f10/mercurial/i18n/zh_TW.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 3157 | 23624 | 13.4 | /mnt/stockage/packages/f10/mercurial/i18n/fr.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 1556 | 23516 | 6.6 | /mnt/stockage/packages/f10/mercurial/i18n/zh_CN.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 803 | 22925 | 3.5 | /mnt/stockage/packages/f10/mercurial/i18n/el.po | 
+ | [pt_BR](/f10/language/pt_BR) | 23615 | 23624 | 100.0 | /mnt/stockage/packages/f10/mercurial/i18n/pt_BR.po | 
+ | [ja](/f10/language/ja) | 19107 | 23624 | 80.9 | /mnt/stockage/packages/f10/mercurial/i18n/ja.po | 
+ | [de](/f10/language/de) | 9391 | 22655 | 41.5 | /mnt/stockage/packages/f10/mercurial/i18n/de.po | 
+ | [it](/f10/language/it) | 9344 | 23733 | 39.4 | /mnt/stockage/packages/f10/mercurial/i18n/it.po | 
+ | [da](/f10/language/da) | 8779 | 23624 | 37.2 | /mnt/stockage/packages/f10/mercurial/i18n/da.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 5300 | 22901 | 23.1 | /mnt/stockage/packages/f10/mercurial/i18n/zh_TW.po | 
+ | [fr](/f10/language/fr) | 3157 | 23624 | 13.4 | /mnt/stockage/packages/f10/mercurial/i18n/fr.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 1556 | 23516 | 6.6 | /mnt/stockage/packages/f10/mercurial/i18n/zh_CN.po | 
+ | [el](/f10/language/el) | 803 | 22925 | 3.5 | /mnt/stockage/packages/f10/mercurial/i18n/el.po | 
 {.sortable}
 
 

@@ -18,67 +18,67 @@ The package NetworkManager-vpnc (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 651 | 663 | 98.2 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pt_BR.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 651 | 663 | 98.2 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/uk.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/es.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/eu.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/hi.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/id.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/lt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pl.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ru.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/tr.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/zh_CN.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 566 | 663 | 85.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/it.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 563 | 663 | 84.9 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 550 | 663 | 83.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fur.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 550 | 663 | 83.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/lv.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 550 | 663 | 83.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sr@latin.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 428 | 663 | 64.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sk.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 381 | 663 | 57.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ja.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 378 | 663 | 57.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sl.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 298 | 663 | 44.9 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ka.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 262 | 663 | 39.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/bs.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 262 | 663 | 39.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/el.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 262 | 663 | 39.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pt.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 223 | 663 | 33.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/en_GB.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 223 | 663 | 33.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/gl.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 149 | 663 | 22.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fi.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 134 | 663 | 20.2 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/nb.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 118 | 663 | 17.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pa.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/bg.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/gu.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/he.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ko.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/or.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/zh_HK.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 57 | 663 | 8.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fa.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 53 | 663 | 8.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/et.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 53 | 663 | 8.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ug.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/as.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ca@valencia.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/kn.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/mr.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ta.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/te.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 35 | 663 | 5.3 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/mk.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 15 | 663 | 2.3 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/eo.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 7 | 663 | 1.1 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/vi.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 5 | 663 | 0.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ar.po | 
- | [dz]({{< ref "/f42/language/dz.md" >}}) | 5 | 663 | 0.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/dz.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 5 | 663 | 0.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/th.po | 
+ | [pt_BR](/f42/language/pt_BR) | 651 | 663 | 98.2 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pt_BR.po | 
+ | [uk](/f42/language/uk) | 651 | 663 | 98.2 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/uk.po | 
+ | [ca](/f42/language/ca) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ca.po | 
+ | [cs](/f42/language/cs) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/cs.po | 
+ | [da](/f42/language/da) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/da.po | 
+ | [de](/f42/language/de) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/de.po | 
+ | [es](/f42/language/es) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/es.po | 
+ | [eu](/f42/language/eu) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/eu.po | 
+ | [hi](/f42/language/hi) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/hi.po | 
+ | [hr](/f42/language/hr) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/hr.po | 
+ | [hu](/f42/language/hu) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/hu.po | 
+ | [id](/f42/language/id) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/id.po | 
+ | [lt](/f42/language/lt) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/lt.po | 
+ | [nl](/f42/language/nl) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/nl.po | 
+ | [pl](/f42/language/pl) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pl.po | 
+ | [ro](/f42/language/ro) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ro.po | 
+ | [ru](/f42/language/ru) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ru.po | 
+ | [sr](/f42/language/sr) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sr.po | 
+ | [sv](/f42/language/sv) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sv.po | 
+ | [tr](/f42/language/tr) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/tr.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 570 | 663 | 86.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/zh_CN.po | 
+ | [it](/f42/language/it) | 566 | 663 | 85.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/it.po | 
+ | [fr](/f42/language/fr) | 563 | 663 | 84.9 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fr.po | 
+ | [fur](/f42/language/fur) | 550 | 663 | 83.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fur.po | 
+ | [lv](/f42/language/lv) | 550 | 663 | 83.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/lv.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 550 | 663 | 83.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sr@latin.po | 
+ | [sk](/f42/language/sk) | 428 | 663 | 64.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sk.po | 
+ | [ja](/f42/language/ja) | 381 | 663 | 57.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ja.po | 
+ | [sl](/f42/language/sl) | 378 | 663 | 57.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/sl.po | 
+ | [ka](/f42/language/ka) | 298 | 663 | 44.9 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ka.po | 
+ | [bs](/f42/language/bs) | 262 | 663 | 39.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/bs.po | 
+ | [el](/f42/language/el) | 262 | 663 | 39.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/el.po | 
+ | [pt](/f42/language/pt) | 262 | 663 | 39.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pt.po | 
+ | [en_GB](/f42/language/en_GB) | 223 | 663 | 33.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/en_GB.po | 
+ | [gl](/f42/language/gl) | 223 | 663 | 33.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/gl.po | 
+ | [fi](/f42/language/fi) | 149 | 663 | 22.5 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fi.po | 
+ | [nb_NO](/f42/language/nb_NO) | 134 | 663 | 20.2 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/nb.po | 
+ | [pa](/f42/language/pa) | 118 | 663 | 17.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/pa.po | 
+ | [bg](/f42/language/bg) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/bg.po | 
+ | [gu](/f42/language/gu) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/gu.po | 
+ | [he](/f42/language/he) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/he.po | 
+ | [ko](/f42/language/ko) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ko.po | 
+ | [or](/f42/language/or) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/or.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 70 | 663 | 10.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/zh_HK.po | 
+ | [fa](/f42/language/fa) | 57 | 663 | 8.6 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/fa.po | 
+ | [et](/f42/language/et) | 53 | 663 | 8.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/et.po | 
+ | [ug](/f42/language/ug) | 53 | 663 | 8.0 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ug.po | 
+ | [as](/f42/language/as) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/as.po | 
+ | [bn_IN](/f42/language/bn_IN) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/bn_IN.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ca@valencia.po | 
+ | [kn](/f42/language/kn) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/kn.po | 
+ | [mr](/f42/language/mr) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/mr.po | 
+ | [ta](/f42/language/ta) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ta.po | 
+ | [te](/f42/language/te) | 49 | 663 | 7.4 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/te.po | 
+ | [mk](/f42/language/mk) | 35 | 663 | 5.3 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/mk.po | 
+ | [eo](/f42/language/eo) | 15 | 663 | 2.3 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/eo.po | 
+ | [vi](/f42/language/vi) | 7 | 663 | 1.1 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/vi.po | 
+ | [ar](/f42/language/ar) | 5 | 663 | 0.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/ar.po | 
+ | [dz](/f42/language/dz) | 5 | 663 | 0.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/dz.po | 
+ | [th](/f42/language/th) | 5 | 663 | 0.8 | /mnt/stockage/packages/f42/NetworkManager-vpnc/po/th.po | 
 {.sortable}
 
 

@@ -18,35 +18,35 @@ The package amtk (version 5.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/cs.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/da.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/de.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/el.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/en_GB.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/es.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/eu.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/fr.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/amtk/po/fur.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ja.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/lt.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ms.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/pt_BR.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ro.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ru.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 348 | 348 | 100.0 | /mnt/stockage/packages/f39/amtk/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/zh_CN.po | 
+ | [ca](/f39/language/ca) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ca.po | 
+ | [cs](/f39/language/cs) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/cs.po | 
+ | [da](/f39/language/da) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/da.po | 
+ | [de](/f39/language/de) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/de.po | 
+ | [el](/f39/language/el) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/el.po | 
+ | [en_GB](/f39/language/en_GB) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/en_GB.po | 
+ | [es](/f39/language/es) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/es.po | 
+ | [eu](/f39/language/eu) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/eu.po | 
+ | [fr](/f39/language/fr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/fr.po | 
+ | [fur](/f39/language/fur) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/amtk/po/fur.po | 
+ | [hr](/f39/language/hr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/hr.po | 
+ | [hu](/f39/language/hu) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/hu.po | 
+ | [id](/f39/language/id) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/id.po | 
+ | [it](/f39/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/it.po | 
+ | [ja](/f39/language/ja) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ja.po | 
+ | [lt](/f39/language/lt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/lt.po | 
+ | [ms](/f39/language/ms) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ms.po | 
+ | [nl](/f39/language/nl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/nl.po | 
+ | [pl](/f39/language/pl) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/pl.po | 
+ | [pt](/f39/language/pt) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/pt_BR.po | 
+ | [ro](/f39/language/ro) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ro.po | 
+ | [ru](/f39/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f39/amtk/po/ru.po | 
+ | [sl](/f39/language/sl) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/sl.po | 
+ | [sr](/f39/language/sr) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/sr.po | 
+ | [sv](/f39/language/sv) | 228 | 228 | 100.0 | /mnt/stockage/packages/f39/amtk/po/sv.po | 
+ | [tr](/f39/language/tr) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/tr.po | 
+ | [uk](/f39/language/uk) | 348 | 348 | 100.0 | /mnt/stockage/packages/f39/amtk/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f39/amtk/po/zh_CN.po | 
 {.sortable}
 
 

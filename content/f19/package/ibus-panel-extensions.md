@@ -18,7 +18,7 @@ The package ibus-panel-extensions (version 1.4.99.20111207):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 22 | 56 | 39.3 | /mnt/stockage/packages/f19/ibus-panel-extensions/po/ja.po | 
+ | [ja](/f19/language/ja) | 22 | 56 | 39.3 | /mnt/stockage/packages/f19/ibus-panel-extensions/po/ja.po | 
 {.sortable}
 
 

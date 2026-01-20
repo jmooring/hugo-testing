@@ -18,9 +18,9 @@ The package TurboGears2 (version 2.4.0a1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 14 | 14 | 100.0 | /mnt/stockage/packages/f29/TurboGears2/tests/i18n/de/LC_MESSAGES/tests.po/mnt/stockage/packages/f29/TurboGears2/tests/test_stack/i18n/de/LC_MESSAGES/tests.test_stack.po | 
- | [kr]({{< ref "/f29/language/kr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f29/TurboGears2/tests/i18n/kr/LC_MESSAGES/tests.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f29/TurboGears2/tests/i18n/ru/LC_MESSAGES/tests.po | 
+ | [de](/f29/language/de) | 14 | 14 | 100.0 | /mnt/stockage/packages/f29/TurboGears2/tests/i18n/de/LC_MESSAGES/tests.po/mnt/stockage/packages/f29/TurboGears2/tests/test_stack/i18n/de/LC_MESSAGES/tests.test_stack.po | 
+ | [kr](/f29/language/kr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f29/TurboGears2/tests/i18n/kr/LC_MESSAGES/tests.po | 
+ | [ru](/f29/language/ru) | 5 | 5 | 100.0 | /mnt/stockage/packages/f29/TurboGears2/tests/i18n/ru/LC_MESSAGES/tests.po | 
 {.sortable}
 
 

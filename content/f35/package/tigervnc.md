@@ -18,33 +18,33 @@ The package tigervnc (version 1.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/bg.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/fr.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/he.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/id.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/ko.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/nl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/pt_BR.po | 
- | [ru_UA]({{< ref "/f35/language/ru_UA.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/uk.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 862 | 895 | 96.3 | /mnt/stockage/packages/f35/tigervnc/po/zh_TW.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 791 | 895 | 88.4 | /mnt/stockage/packages/f35/tigervnc/po/fi.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 583 | 671 | 86.9 | /mnt/stockage/packages/f35/tigervnc/po/fur.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 548 | 697 | 78.6 | /mnt/stockage/packages/f35/tigervnc/po/el.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 210 | 800 | 26.2 | /mnt/stockage/packages/f35/tigervnc/po/it.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 82 | 800 | 10.2 | /mnt/stockage/packages/f35/tigervnc/po/pl.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 82 | 800 | 10.2 | /mnt/stockage/packages/f35/tigervnc/po/sk.po | 
+ | [bg](/f35/language/bg) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/bg.po | 
+ | [cs](/f35/language/cs) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/cs.po | 
+ | [da](/f35/language/da) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/da.po | 
+ | [de](/f35/language/de) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/de.po | 
+ | [eo](/f35/language/eo) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/eo.po | 
+ | [es](/f35/language/es) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/es.po | 
+ | [fr](/f35/language/fr) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/fr.po | 
+ | [he](/f35/language/he) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/he.po | 
+ | [hu](/f35/language/hu) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/hu.po | 
+ | [id](/f35/language/id) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/id.po | 
+ | [ko](/f35/language/ko) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/ko.po | 
+ | [nl](/f35/language/nl) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/nl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/pt_BR.po | 
+ | [ru_UA](/f35/language/ru_UA) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/ru.po | 
+ | [sr](/f35/language/sr) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/sr.po | 
+ | [sv](/f35/language/sv) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/sv.po | 
+ | [tr](/f35/language/tr) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/tr.po | 
+ | [uk](/f35/language/uk) | 895 | 895 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/uk.po | 
+ | [vi](/f35/language/vi) | 697 | 697 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 616 | 616 | 100.0 | /mnt/stockage/packages/f35/tigervnc/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 862 | 895 | 96.3 | /mnt/stockage/packages/f35/tigervnc/po/zh_TW.po | 
+ | [fi](/f35/language/fi) | 791 | 895 | 88.4 | /mnt/stockage/packages/f35/tigervnc/po/fi.po | 
+ | [fur](/f35/language/fur) | 583 | 671 | 86.9 | /mnt/stockage/packages/f35/tigervnc/po/fur.po | 
+ | [el](/f35/language/el) | 548 | 697 | 78.6 | /mnt/stockage/packages/f35/tigervnc/po/el.po | 
+ | [it](/f35/language/it) | 210 | 800 | 26.2 | /mnt/stockage/packages/f35/tigervnc/po/it.po | 
+ | [pl](/f35/language/pl) | 82 | 800 | 10.2 | /mnt/stockage/packages/f35/tigervnc/po/pl.po | 
+ | [sk](/f35/language/sk) | 82 | 800 | 10.2 | /mnt/stockage/packages/f35/tigervnc/po/sk.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package obby (version 0.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f21/language/ast.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/ast.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/ca.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/de.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/en_GB.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/es.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/fr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/it.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/pt_BR.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/uk.po | 
- | [oc]({{< ref "/f21/language/oc.md" >}}) | 150 | 159 | 94.3 | /mnt/stockage/packages/f21/obby/po/oc.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 89 | 159 | 56.0 | /mnt/stockage/packages/f21/obby/po/nl.po | 
+ | [ast](/f21/language/ast) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/ast.po | 
+ | [ca](/f21/language/ca) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/ca.po | 
+ | [da](/f21/language/da) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/da.po | 
+ | [de](/f21/language/de) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/de.po | 
+ | [en_GB](/f21/language/en_GB) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/en_GB.po | 
+ | [es](/f21/language/es) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/es.po | 
+ | [fr](/f21/language/fr) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/fr.po | 
+ | [it](/f21/language/it) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/it.po | 
+ | [pt_BR](/f21/language/pt_BR) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/pt_BR.po | 
+ | [sv](/f21/language/sv) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/sv.po | 
+ | [uk](/f21/language/uk) | 159 | 159 | 100.0 | /mnt/stockage/packages/f21/obby/po/uk.po | 
+ | [oc](/f21/language/oc) | 150 | 159 | 94.3 | /mnt/stockage/packages/f21/obby/po/oc.po | 
+ | [nl](/f21/language/nl) | 89 | 159 | 56.0 | /mnt/stockage/packages/f21/obby/po/nl.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package valyriatear (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/de.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/en@quot.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/gl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/it.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/pt_PT.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/ru.po | 
+ | [de](/f32/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/de.po | 
+ | [error](/f32/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/en@quot.po | 
+ | [es](/f32/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/es.po | 
+ | [fr](/f32/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/fr.po | 
+ | [gl](/f32/language/gl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/gl.po | 
+ | [it](/f32/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/it.po | 
+ | [nl](/f32/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/nl_NL.po | 
+ | [pt_BR](/f32/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/pt_BR.po | 
+ | [pt_PT](/f32/language/pt_PT) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/pt_PT.po | 
+ | [ru](/f32/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f32/valyriatear/po/ru.po | 
 {.sortable}
 
 

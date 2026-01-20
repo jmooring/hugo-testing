@@ -18,14 +18,14 @@ The package ayttm (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 2624 | 3071 | 85.4 | /mnt/stockage/packages/f12/ayttm/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 2380 | 3071 | 77.5 | /mnt/stockage/packages/f12/ayttm/po/fr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 2354 | 3071 | 76.7 | /mnt/stockage/packages/f12/ayttm/po/sv.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 2317 | 3071 | 75.4 | /mnt/stockage/packages/f12/ayttm/po/pt_BR.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 2291 | 3071 | 74.6 | /mnt/stockage/packages/f12/ayttm/po/nl.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 2201 | 3071 | 71.7 | /mnt/stockage/packages/f12/ayttm/po/de.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 1612 | 3071 | 52.5 | /mnt/stockage/packages/f12/ayttm/po/hi.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 15 | 3071 | 0.5 | /mnt/stockage/packages/f12/ayttm/po/en_GB.po | 
+ | [es](/f12/language/es) | 2624 | 3071 | 85.4 | /mnt/stockage/packages/f12/ayttm/po/es.po | 
+ | [fr](/f12/language/fr) | 2380 | 3071 | 77.5 | /mnt/stockage/packages/f12/ayttm/po/fr.po | 
+ | [sv](/f12/language/sv) | 2354 | 3071 | 76.7 | /mnt/stockage/packages/f12/ayttm/po/sv.po | 
+ | [pt_BR](/f12/language/pt_BR) | 2317 | 3071 | 75.4 | /mnt/stockage/packages/f12/ayttm/po/pt_BR.po | 
+ | [nl](/f12/language/nl) | 2291 | 3071 | 74.6 | /mnt/stockage/packages/f12/ayttm/po/nl.po | 
+ | [de](/f12/language/de) | 2201 | 3071 | 71.7 | /mnt/stockage/packages/f12/ayttm/po/de.po | 
+ | [hi](/f12/language/hi) | 1612 | 3071 | 52.5 | /mnt/stockage/packages/f12/ayttm/po/hi.po | 
+ | [en_GB](/f12/language/en_GB) | 15 | 3071 | 0.5 | /mnt/stockage/packages/f12/ayttm/po/en_GB.po | 
 {.sortable}
 
 

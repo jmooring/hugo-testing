@@ -18,8 +18,8 @@ The package m17n-db (version 1.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 130 | 995 | 13.1 | /mnt/stockage/packages/f10/m17n-db/po/vi.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 107 | 995 | 10.8 | /mnt/stockage/packages/f10/m17n-db/po/ja.po | 
+ | [vi](/f10/language/vi) | 130 | 995 | 13.1 | /mnt/stockage/packages/f10/m17n-db/po/vi.po | 
+ | [ja](/f10/language/ja) | 107 | 995 | 10.8 | /mnt/stockage/packages/f10/m17n-db/po/ja.po | 
 {.sortable}
 
 

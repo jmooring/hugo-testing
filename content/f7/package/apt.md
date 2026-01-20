@@ -18,12 +18,12 @@ The package apt (version 0.5.15lorg3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 3811 | 4032 | 94.5 | /mnt/stockage/packages/f7/apt/po/ru.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 3634 | 4032 | 90.1 | /mnt/stockage/packages/f7/apt/po/ja.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 3099 | 4032 | 76.9 | /mnt/stockage/packages/f7/apt/po/pt_BR.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2302 | 4032 | 57.1 | /mnt/stockage/packages/f7/apt/po/de_DE.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 534 | 4032 | 13.2 | /mnt/stockage/packages/f7/apt/po/es_ES.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 534 | 4032 | 13.2 | /mnt/stockage/packages/f7/apt/po/it_IT.po | 
+ | [ru](/f7/language/ru) | 3811 | 4032 | 94.5 | /mnt/stockage/packages/f7/apt/po/ru.po | 
+ | [ja](/f7/language/ja) | 3634 | 4032 | 90.1 | /mnt/stockage/packages/f7/apt/po/ja.po | 
+ | [pt_BR](/f7/language/pt_BR) | 3099 | 4032 | 76.9 | /mnt/stockage/packages/f7/apt/po/pt_BR.po | 
+ | [de](/f7/language/de) | 2302 | 4032 | 57.1 | /mnt/stockage/packages/f7/apt/po/de_DE.po | 
+ | [es](/f7/language/es) | 534 | 4032 | 13.2 | /mnt/stockage/packages/f7/apt/po/es_ES.po | 
+ | [it](/f7/language/it) | 534 | 4032 | 13.2 | /mnt/stockage/packages/f7/apt/po/it_IT.po | 
 {.sortable}
 
 

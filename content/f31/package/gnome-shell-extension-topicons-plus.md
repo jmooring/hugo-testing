@@ -18,17 +18,17 @@ The package gnome-shell-extension-topicons-plus (version 27):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/nl/LC_MESSAGES/TopIcons-Plus.po/mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/de/LC_MESSAGES/TopIcons-Plus.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/fr/LC_MESSAGES/TopIcons-Plus.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/hu/LC_MESSAGES/TopIcons-Plus.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/it/LC_MESSAGES/TopIcons-Plus.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/ja/LC_MESSAGES/TopIcons-Plus.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/pt_BR/LC_MESSAGES/TopIcons-Plus.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/ru/LC_MESSAGES/TopIcons-Plus.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/sr/LC_MESSAGES/TopIcons-Plus.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/sr@latin/LC_MESSAGES/TopIcons-Plus.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/tr/LC_MESSAGES/TopIcons-Plus.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/zh_CN/LC_MESSAGES/TopIcons-Plus.po | 
+ | [de](/f31/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/nl/LC_MESSAGES/TopIcons-Plus.po/mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/de/LC_MESSAGES/TopIcons-Plus.po | 
+ | [fr](/f31/language/fr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/fr/LC_MESSAGES/TopIcons-Plus.po | 
+ | [hu](/f31/language/hu) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/hu/LC_MESSAGES/TopIcons-Plus.po | 
+ | [it](/f31/language/it) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/it/LC_MESSAGES/TopIcons-Plus.po | 
+ | [ja](/f31/language/ja) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/ja/LC_MESSAGES/TopIcons-Plus.po | 
+ | [pt_BR](/f31/language/pt_BR) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/pt_BR/LC_MESSAGES/TopIcons-Plus.po | 
+ | [ru](/f31/language/ru) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/ru/LC_MESSAGES/TopIcons-Plus.po | 
+ | [sr](/f31/language/sr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/sr/LC_MESSAGES/TopIcons-Plus.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/sr@latin/LC_MESSAGES/TopIcons-Plus.po | 
+ | [tr](/f31/language/tr) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/tr/LC_MESSAGES/TopIcons-Plus.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 41 | 41 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-topicons-plus/locale/zh_CN/LC_MESSAGES/TopIcons-Plus.po | 
 {.sortable}
 
 

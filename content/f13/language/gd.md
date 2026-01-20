@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gallery2]({{< ref "/f13/package/gallery2.md" >}}) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
- | [tuxpaint-stamps]({{< ref "/f13/package/tuxpaint-stamps.md" >}}) | 183 | 2617 | 7.0 |  | 
- | [tuxpaint]({{< ref "/f13/package/tuxpaint.md" >}}) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
- | [gambas]({{< ref "/f13/package/gambas.md" >}}) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gallery2](/f13/package/gallery2) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
+ | [tuxpaint-stamps](/f13/package/tuxpaint-stamps) | 183 | 2617 | 7.0 |  | 
+ | [tuxpaint](/f13/package/tuxpaint) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
+ | [gambas](/f13/package/gambas) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

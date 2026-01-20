@@ -18,8 +18,8 @@ The package python-virtinst (version 0.300.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1215 | 1708 | 71.1 | /mnt/stockage/packages/f7/python-virtinst/po/ja.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1215 | 1708 | 71.1 | /mnt/stockage/packages/f7/python-virtinst/po/pl.po | 
+ | [ja](/f7/language/ja) | 1215 | 1708 | 71.1 | /mnt/stockage/packages/f7/python-virtinst/po/ja.po | 
+ | [pl](/f7/language/pl) | 1215 | 1708 | 71.1 | /mnt/stockage/packages/f7/python-virtinst/po/pl.po | 
 {.sortable}
 
 

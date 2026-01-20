@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f32/package/tuxpaint.md" >}}) | 1198 | 1662 | 72.1 | none | 
- | [inkscape]({{< ref "/f32/package/inkscape.md" >}}) | 18793 | 40929 | 45.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f32/package/tuxpaint) | 1198 | 1662 | 72.1 | none | 
+ | [inkscape](/f32/package/inkscape) | 18793 | 40929 | 45.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package ndisc6 (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 1023 | 1023 | 100.0 | /mnt/stockage/packages/f37/ndisc6/po/fr.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 939 | 1023 | 91.8 | /mnt/stockage/packages/f37/ndisc6/po/cs.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 939 | 1023 | 91.8 | /mnt/stockage/packages/f37/ndisc6/po/de.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 939 | 1023 | 91.8 | /mnt/stockage/packages/f37/ndisc6/po/sv.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 534 | 1023 | 52.2 | /mnt/stockage/packages/f37/ndisc6/po/en_GB.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 448 | 1023 | 43.8 | /mnt/stockage/packages/f37/ndisc6/po/en.po | 
+ | [fr](/f37/language/fr) | 1023 | 1023 | 100.0 | /mnt/stockage/packages/f37/ndisc6/po/fr.po | 
+ | [cs](/f37/language/cs) | 939 | 1023 | 91.8 | /mnt/stockage/packages/f37/ndisc6/po/cs.po | 
+ | [de](/f37/language/de) | 939 | 1023 | 91.8 | /mnt/stockage/packages/f37/ndisc6/po/de.po | 
+ | [sv](/f37/language/sv) | 939 | 1023 | 91.8 | /mnt/stockage/packages/f37/ndisc6/po/sv.po | 
+ | [en_GB](/f37/language/en_GB) | 534 | 1023 | 52.2 | /mnt/stockage/packages/f37/ndisc6/po/en_GB.po | 
+ | [en](/f37/language/en) | 448 | 1023 | 43.8 | /mnt/stockage/packages/f37/ndisc6/po/en.po | 
 {.sortable}
 
 

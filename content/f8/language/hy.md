@@ -45,73 +45,73 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-backgrounds]({{< ref "/f8/package/gnome-backgrounds.md" >}}) | 35 | 35 | 100.0 | <norik@freenet.am> | 
- | [gnome-menus]({{< ref "/f8/package/gnome-menus.md" >}}) | 98 | 98 | 100.0 | <norik@freenet.am> | 
- | [gnome-session]({{< ref "/f8/package/gnome-session.md" >}}) | 570 | 570 | 100.0 | <norik@freenet.am> | 
- | [file-roller]({{< ref "/f8/package/file-roller.md" >}}) | 955 | 958 | 99.7 | <norik@freenet.am> | 
- | [gnome-panel]({{< ref "/f8/package/gnome-panel.md" >}}) | 3931 | 3961 | 99.2 | <norik@freenet.am> | 
- | [gnome-desktop]({{< ref "/f8/package/gnome-desktop.md" >}}) | 316 | 324 | 97.5 | <norik@freenet.am> | 
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3857 | 4027 | 95.8 | <norik@freenet.am> | 
- | [system-config-httpd]({{< ref "/f8/package/system-config-httpd.md" >}}) | 816 | 858 | 95.1 | Armenian | 
- | [nautilus]({{< ref "/f8/package/nautilus.md" >}}) | 6431 | 6816 | 94.4 | <norik@freenet.am> | 
- | [libxfcegui4]({{< ref "/f8/package/libxfcegui4.md" >}}) | 76 | 81 | 93.8 | Armenian <en@li.org> | 
- | [gdeskcal]({{< ref "/f8/package/gdeskcal.md" >}}) | 102 | 109 | 93.6 |  | 
- | [hwbrowser]({{< ref "/f8/package/hwbrowser.md" >}}) | 107 | 116 | 92.2 | Armenian | 
- | [redhat-menus]({{< ref "/f8/package/redhat-menus.md" >}}) | 221 | 261 | 84.7 | Armenian <en@li.org> | 
- | [firstboot]({{< ref "/f8/package/firstboot.md" >}}) | 499 | 598 | 83.4 | Armenian | 
- | [rhgb]({{< ref "/f8/package/rhgb.md" >}}) | 95 | 121 | 78.5 | <en@li.org> | 
- | [nautilus-cd-burner]({{< ref "/f8/package/nautilus-cd-burner.md" >}}) | 826 | 1238 | 66.7 | <norik@freenet.am> | 
- | [xfce4-mixer]({{< ref "/f8/package/xfce4-mixer.md" >}}) | 149 | 226 | 65.9 | Armenian <en@li.org> | 
- | [libvirt]({{< ref "/f8/package/libvirt.md" >}}) | 1290 | 2297 | 56.2 | none | 
- | [system-config-soundcard]({{< ref "/f8/package/system-config-soundcard.md" >}}) | 70 | 224 | 31.2 | <en@li.org> | 
- | [xfce4-appfinder]({{< ref "/f8/package/xfce4-appfinder.md" >}}) | 14 | 48 | 29.2 | Armenian <en@li.org> | 
- | [metacity]({{< ref "/f8/package/metacity.md" >}}) | 1858 | 6919 | 26.9 | <en@li.org> | 
- | [xfdesktop]({{< ref "/f8/package/xfdesktop.md" >}}) | 277 | 1078 | 25.7 | Armenian <en@li.org> | 
- | [libgnomeui]({{< ref "/f8/package/libgnomeui.md" >}}) | 362 | 1420 | 25.5 |  | 
- | [xfce-utils]({{< ref "/f8/package/xfce-utils.md" >}}) | 20 | 119 | 16.8 | Armenian <en@li.org> | 
- | [gtk2]({{< ref "/f8/package/gtk2.md" >}}) | 1836 | 12092 | 15.2 | <norik@freenet.am> | 
- | [glib2]({{< ref "/f8/package/glib2.md" >}}) | 137 | 1356 | 10.1 | Armenian <norik@freenet.am> | 
- | [gedit]({{< ref "/f8/package/gedit.md" >}}) | 416 | 4333 | 9.6 | Armenian <norik@@freenet.am> | 
- | [gdm]({{< ref "/f8/package/gdm.md" >}}) | 444 | 5414 | 8.2 | Armenian <norik@freenet.am> | 
- | [xfce4-panel]({{< ref "/f8/package/xfce4-panel.md" >}}) | 37 | 578 | 6.4 | Armenian <en@li.org> | 
- | [bittorrent]({{< ref "/f8/package/bittorrent.md" >}}) | 228 | 3906 | 5.8 | LANGUAGE <LL@li.org> | 
- | [orage]({{< ref "/f8/package/orage.md" >}}) | 34 | 864 | 3.9 | Armenian <en@li.org> | 
- | [anaconda]({{< ref "/f8/package/anaconda.md" >}}) | 340 | 10203 | 3.3 | Armenian | 
- | [gnome-terminal]({{< ref "/f8/package/gnome-terminal.md" >}}) | 135 | 4403 | 3.1 | <en@li.org> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 219 | 12174 | 1.8 | Armenian | 
- | [system-config-netboot]({{< ref "/f8/package/system-config-netboot.md" >}}) | 10 | 1088 | 0.9 | none | 
- | [authconfig]({{< ref "/f8/package/authconfig.md" >}}) | 0 | 1133 | 0.0 | none | 
- | [chkconfig]({{< ref "/f8/package/chkconfig.md" >}}) | 0 | 430 | 0.0 | none | 
- | [im-chooser]({{< ref "/f8/package/im-chooser.md" >}}) | 0 | 172 | 0.0 | none | 
- | [initscripts]({{< ref "/f8/package/initscripts.md" >}}) | 0 | 3733 | 0.0 | none | 
- | [kexec-tools]({{< ref "/f8/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kudzu]({{< ref "/f8/package/kudzu.md" >}}) | 0 | 73 | 0.0 | none | 
- | [passwd]({{< ref "/f8/package/passwd.md" >}}) | 0 | 291 | 0.0 | none | 
- | [policycoreutils]({{< ref "/f8/package/policycoreutils.md" >}}) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pykickstart]({{< ref "/f8/package/pykickstart.md" >}}) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rhpl]({{< ref "/f8/package/rhpl.md" >}}) | 0 | 185 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f8/package/setroubleshoot.md" >}}) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f8/package/setroubleshoot-plugins.md" >}}) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setuptool]({{< ref "/f8/package/setuptool.md" >}}) | 0 | 60 | 0.0 | none | 
- | [specspo]({{< ref "/f8/package/specspo.md" >}}) | 0 | 305294 | 0.0 | none | 
- | [switchdesk]({{< ref "/f8/package/switchdesk.md" >}}) | 0 | 137 | 0.0 | none | 
- | [system-config-bind]({{< ref "/f8/package/system-config-bind.md" >}}) | 0 | 9416 | 0.0 | none | 
- | [system-config-boot]({{< ref "/f8/package/system-config-boot.md" >}}) | 0 | 46 | 0.0 | none | 
- | [system-config-date]({{< ref "/f8/package/system-config-date.md" >}}) | 0 | 446 | 0.0 | none | 
- | [system-config-display]({{< ref "/f8/package/system-config-display.md" >}}) | 0 | 398 | 0.0 | none | 
- | [system-config-firewall]({{< ref "/f8/package/system-config-firewall.md" >}}) | 0 | 2956 | 0.0 | none | 
- | [system-config-keyboard]({{< ref "/f8/package/system-config-keyboard.md" >}}) | 0 | 78 | 0.0 | none | 
- | [system-config-kickstart]({{< ref "/f8/package/system-config-kickstart.md" >}}) | 0 | 1054 | 0.0 | none | 
- | [system-config-language]({{< ref "/f8/package/system-config-language.md" >}}) | 0 | 45 | 0.0 | none | 
- | [system-config-lvm]({{< ref "/f8/package/system-config-lvm.md" >}}) | 0 | 2084 | 0.0 | none | 
- | [system-config-network]({{< ref "/f8/package/system-config-network.md" >}}) | 0 | 3011 | 0.0 | none | 
- | [system-config-nfs]({{< ref "/f8/package/system-config-nfs.md" >}}) | 0 | 318 | 0.0 | none | 
- | [system-config-printer]({{< ref "/f8/package/system-config-printer.md" >}}) | 0 | 1285 | 0.0 | none | 
- | [system-config-rootpassword]({{< ref "/f8/package/system-config-rootpassword.md" >}}) | 0 | 50 | 0.0 | none | 
- | [system-config-samba]({{< ref "/f8/package/system-config-samba.md" >}}) | 0 | 423 | 0.0 | none | 
- | [system-config-services]({{< ref "/f8/package/system-config-services.md" >}}) | 0 | 232 | 0.0 | none | 
- | [system-config-users]({{< ref "/f8/package/system-config-users.md" >}}) | 0 | 1186 | 0.0 | none | 
- | [system-switch-mail]({{< ref "/f8/package/system-switch-mail.md" >}}) | 0 | 134 | 0.0 | none | 
+ | [gnome-backgrounds](/f8/package/gnome-backgrounds) | 35 | 35 | 100.0 | <norik@freenet.am> | 
+ | [gnome-menus](/f8/package/gnome-menus) | 98 | 98 | 100.0 | <norik@freenet.am> | 
+ | [gnome-session](/f8/package/gnome-session) | 570 | 570 | 100.0 | <norik@freenet.am> | 
+ | [file-roller](/f8/package/file-roller) | 955 | 958 | 99.7 | <norik@freenet.am> | 
+ | [gnome-panel](/f8/package/gnome-panel) | 3931 | 3961 | 99.2 | <norik@freenet.am> | 
+ | [gnome-desktop](/f8/package/gnome-desktop) | 316 | 324 | 97.5 | <norik@freenet.am> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3857 | 4027 | 95.8 | <norik@freenet.am> | 
+ | [system-config-httpd](/f8/package/system-config-httpd) | 816 | 858 | 95.1 | Armenian | 
+ | [nautilus](/f8/package/nautilus) | 6431 | 6816 | 94.4 | <norik@freenet.am> | 
+ | [libxfcegui4](/f8/package/libxfcegui4) | 76 | 81 | 93.8 | Armenian <en@li.org> | 
+ | [gdeskcal](/f8/package/gdeskcal) | 102 | 109 | 93.6 |  | 
+ | [hwbrowser](/f8/package/hwbrowser) | 107 | 116 | 92.2 | Armenian | 
+ | [redhat-menus](/f8/package/redhat-menus) | 221 | 261 | 84.7 | Armenian <en@li.org> | 
+ | [firstboot](/f8/package/firstboot) | 499 | 598 | 83.4 | Armenian | 
+ | [rhgb](/f8/package/rhgb) | 95 | 121 | 78.5 | <en@li.org> | 
+ | [nautilus-cd-burner](/f8/package/nautilus-cd-burner) | 826 | 1238 | 66.7 | <norik@freenet.am> | 
+ | [xfce4-mixer](/f8/package/xfce4-mixer) | 149 | 226 | 65.9 | Armenian <en@li.org> | 
+ | [libvirt](/f8/package/libvirt) | 1290 | 2297 | 56.2 | none | 
+ | [system-config-soundcard](/f8/package/system-config-soundcard) | 70 | 224 | 31.2 | <en@li.org> | 
+ | [xfce4-appfinder](/f8/package/xfce4-appfinder) | 14 | 48 | 29.2 | Armenian <en@li.org> | 
+ | [metacity](/f8/package/metacity) | 1858 | 6919 | 26.9 | <en@li.org> | 
+ | [xfdesktop](/f8/package/xfdesktop) | 277 | 1078 | 25.7 | Armenian <en@li.org> | 
+ | [libgnomeui](/f8/package/libgnomeui) | 362 | 1420 | 25.5 |  | 
+ | [xfce-utils](/f8/package/xfce-utils) | 20 | 119 | 16.8 | Armenian <en@li.org> | 
+ | [gtk2](/f8/package/gtk2) | 1836 | 12092 | 15.2 | <norik@freenet.am> | 
+ | [glib2](/f8/package/glib2) | 137 | 1356 | 10.1 | Armenian <norik@freenet.am> | 
+ | [gedit](/f8/package/gedit) | 416 | 4333 | 9.6 | Armenian <norik@@freenet.am> | 
+ | [gdm](/f8/package/gdm) | 444 | 5414 | 8.2 | Armenian <norik@freenet.am> | 
+ | [xfce4-panel](/f8/package/xfce4-panel) | 37 | 578 | 6.4 | Armenian <en@li.org> | 
+ | [bittorrent](/f8/package/bittorrent) | 228 | 3906 | 5.8 | LANGUAGE <LL@li.org> | 
+ | [orage](/f8/package/orage) | 34 | 864 | 3.9 | Armenian <en@li.org> | 
+ | [anaconda](/f8/package/anaconda) | 340 | 10203 | 3.3 | Armenian | 
+ | [gnome-terminal](/f8/package/gnome-terminal) | 135 | 4403 | 3.1 | <en@li.org> | 
+ | [iso-codes](/f8/package/iso-codes) | 219 | 12174 | 1.8 | Armenian | 
+ | [system-config-netboot](/f8/package/system-config-netboot) | 10 | 1088 | 0.9 | none | 
+ | [authconfig](/f8/package/authconfig) | 0 | 1133 | 0.0 | none | 
+ | [chkconfig](/f8/package/chkconfig) | 0 | 430 | 0.0 | none | 
+ | [im-chooser](/f8/package/im-chooser) | 0 | 172 | 0.0 | none | 
+ | [initscripts](/f8/package/initscripts) | 0 | 3733 | 0.0 | none | 
+ | [kexec-tools](/f8/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kudzu](/f8/package/kudzu) | 0 | 73 | 0.0 | none | 
+ | [passwd](/f8/package/passwd) | 0 | 291 | 0.0 | none | 
+ | [policycoreutils](/f8/package/policycoreutils) | 0 | 1214 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pykickstart](/f8/package/pykickstart) | 0 | 284 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rhpl](/f8/package/rhpl) | 0 | 185 | 0.0 | none | 
+ | [setroubleshoot](/f8/package/setroubleshoot) | 0 | 507 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f8/package/setroubleshoot-plugins) | 0 | 7829 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setuptool](/f8/package/setuptool) | 0 | 60 | 0.0 | none | 
+ | [specspo](/f8/package/specspo) | 0 | 305294 | 0.0 | none | 
+ | [switchdesk](/f8/package/switchdesk) | 0 | 137 | 0.0 | none | 
+ | [system-config-bind](/f8/package/system-config-bind) | 0 | 9416 | 0.0 | none | 
+ | [system-config-boot](/f8/package/system-config-boot) | 0 | 46 | 0.0 | none | 
+ | [system-config-date](/f8/package/system-config-date) | 0 | 446 | 0.0 | none | 
+ | [system-config-display](/f8/package/system-config-display) | 0 | 398 | 0.0 | none | 
+ | [system-config-firewall](/f8/package/system-config-firewall) | 0 | 2956 | 0.0 | none | 
+ | [system-config-keyboard](/f8/package/system-config-keyboard) | 0 | 78 | 0.0 | none | 
+ | [system-config-kickstart](/f8/package/system-config-kickstart) | 0 | 1054 | 0.0 | none | 
+ | [system-config-language](/f8/package/system-config-language) | 0 | 45 | 0.0 | none | 
+ | [system-config-lvm](/f8/package/system-config-lvm) | 0 | 2084 | 0.0 | none | 
+ | [system-config-network](/f8/package/system-config-network) | 0 | 3011 | 0.0 | none | 
+ | [system-config-nfs](/f8/package/system-config-nfs) | 0 | 318 | 0.0 | none | 
+ | [system-config-printer](/f8/package/system-config-printer) | 0 | 1285 | 0.0 | none | 
+ | [system-config-rootpassword](/f8/package/system-config-rootpassword) | 0 | 50 | 0.0 | none | 
+ | [system-config-samba](/f8/package/system-config-samba) | 0 | 423 | 0.0 | none | 
+ | [system-config-services](/f8/package/system-config-services) | 0 | 232 | 0.0 | none | 
+ | [system-config-users](/f8/package/system-config-users) | 0 | 1186 | 0.0 | none | 
+ | [system-switch-mail](/f8/package/system-switch-mail) | 0 | 134 | 0.0 | none | 
 {.sortable}
 
 
@@ -123,7 +123,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [libgnomeui]({{< ref "/f8/package/libgnomeui.md" >}}) | /mnt/stockage/packages/f8/libgnomeui/po/hy.po | error-os |  | 
+ | [libgnomeui](/f8/package/libgnomeui) | /mnt/stockage/packages/f8/libgnomeui/po/hy.po | error-os |  | 
 {.sortable}
 
 

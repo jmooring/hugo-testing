@@ -18,33 +18,33 @@ The package plasma-pk-updates (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ca/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ca/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ca@valencia/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ca@valencia/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/cs/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/cs/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/de/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/de/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/en_GB/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/en_GB/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/es/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/es/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/gl/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/gl/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/it/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/it/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/nl/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/nl/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/pt/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/pt/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/sk/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/sk/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/sv/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/sv/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/uk/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/uk/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/da/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/da/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/pl/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/pl/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ru/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ru/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/tr/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/tr/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/zh_CN/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/zh_CN/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 2051 | 2081 | 98.6 | /mnt/stockage/packages/f32/plasma-pk-updates/po/lt/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/lt/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 2051 | 2081 | 98.6 | /mnt/stockage/packages/f32/plasma-pk-updates/po/pt_BR/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/pt_BR/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2010 | 2081 | 96.6 | /mnt/stockage/packages/f32/plasma-pk-updates/po/fi/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/fi/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1976 | 2081 | 95.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ja/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ja/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1952 | 2081 | 93.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/fr/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/fr/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 1539 | 2081 | 74.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/nn/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/nn/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 692 | 2081 | 33.3 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ast/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ast/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 453 | 2081 | 21.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/he/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/he/plasma_applet_org.kde.plasma.pkupdates.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 0 | 2081 | 0.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/zh_TW/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/zh_TW/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [ca](/f32/language/ca) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ca/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ca/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ca@valencia/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ca@valencia/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [cs](/f32/language/cs) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/cs/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/cs/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [de](/f32/language/de) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/de/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/de/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [en_GB](/f32/language/en_GB) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/en_GB/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/en_GB/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [es](/f32/language/es) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/es/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/es/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [gl](/f32/language/gl) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/gl/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/gl/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [it](/f32/language/it) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/it/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/it/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [nl](/f32/language/nl) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/nl/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/nl/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [pt](/f32/language/pt) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/pt/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/pt/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [sk](/f32/language/sk) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/sk/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/sk/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [sv](/f32/language/sv) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/sv/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/sv/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [uk](/f32/language/uk) | 2081 | 2081 | 100.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/uk/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/uk/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [da](/f32/language/da) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/da/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/da/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [pl](/f32/language/pl) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/pl/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/pl/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [ru](/f32/language/ru) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ru/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ru/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [tr](/f32/language/tr) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/tr/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/tr/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 2077 | 2081 | 99.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/zh_CN/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/zh_CN/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [lt](/f32/language/lt) | 2051 | 2081 | 98.6 | /mnt/stockage/packages/f32/plasma-pk-updates/po/lt/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/lt/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [pt_BR](/f32/language/pt_BR) | 2051 | 2081 | 98.6 | /mnt/stockage/packages/f32/plasma-pk-updates/po/pt_BR/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/pt_BR/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [fi](/f32/language/fi) | 2010 | 2081 | 96.6 | /mnt/stockage/packages/f32/plasma-pk-updates/po/fi/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/fi/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [ja](/f32/language/ja) | 1976 | 2081 | 95.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ja/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ja/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [fr](/f32/language/fr) | 1952 | 2081 | 93.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/fr/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/fr/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [nn](/f32/language/nn) | 1539 | 2081 | 74.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/nn/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/nn/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [ast](/f32/language/ast) | 692 | 2081 | 33.3 | /mnt/stockage/packages/f32/plasma-pk-updates/po/ast/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/ast/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [he](/f32/language/he) | 453 | 2081 | 21.8 | /mnt/stockage/packages/f32/plasma-pk-updates/po/he/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/he/plasma_applet_org.kde.plasma.pkupdates.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 0 | 2081 | 0.0 | /mnt/stockage/packages/f32/plasma-pk-updates/po/zh_TW/pkupdates.po/mnt/stockage/packages/f32/plasma-pk-updates/po/zh_TW/plasma_applet_org.kde.plasma.pkupdates.po | 
 {.sortable}
 
 

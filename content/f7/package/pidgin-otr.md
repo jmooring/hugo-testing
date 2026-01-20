@@ -18,10 +18,10 @@ The package pidgin-otr (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 538 | 538 | 100.0 | /mnt/stockage/packages/f7/pidgin-otr/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f7/pidgin-otr/po/fr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f7/pidgin-otr/po/nl.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 547 | 550 | 99.5 | /mnt/stockage/packages/f7/pidgin-otr/po/sk.po | 
+ | [es](/f7/language/es) | 538 | 538 | 100.0 | /mnt/stockage/packages/f7/pidgin-otr/po/es.po | 
+ | [fr](/f7/language/fr) | 550 | 550 | 100.0 | /mnt/stockage/packages/f7/pidgin-otr/po/fr.po | 
+ | [nl](/f7/language/nl) | 550 | 550 | 100.0 | /mnt/stockage/packages/f7/pidgin-otr/po/nl.po | 
+ | [sk](/f7/language/sk) | 547 | 550 | 99.5 | /mnt/stockage/packages/f7/pidgin-otr/po/sk.po | 
 {.sortable}
 
 

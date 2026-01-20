@@ -18,17 +18,17 @@ The package oscap-anaconda-addon (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 337 | 391 | 86.2 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/uk.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/cs.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/fr.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/pt_BR.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/sr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 158 | 391 | 40.4 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/hu.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 77 | 391 | 19.7 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/pt.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 11 | 391 | 2.8 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/ja.po | 
+ | [uk](/f40/language/uk) | 337 | 391 | 86.2 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/uk.po | 
+ | [ca](/f40/language/ca) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/ca.po | 
+ | [cs](/f40/language/cs) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/cs.po | 
+ | [es](/f40/language/es) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/es.po | 
+ | [fr](/f40/language/fr) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/fr.po | 
+ | [pl](/f40/language/pl) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/pt_BR.po | 
+ | [sr](/f40/language/sr) | 166 | 391 | 42.5 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/sr.po | 
+ | [hu](/f40/language/hu) | 158 | 391 | 40.4 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/hu.po | 
+ | [pt](/f40/language/pt) | 77 | 391 | 19.7 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/pt.po | 
+ | [ja](/f40/language/ja) | 11 | 391 | 2.8 | /mnt/stockage/packages/f40/oscap-anaconda-addon/po/ja.po | 
 {.sortable}
 
 

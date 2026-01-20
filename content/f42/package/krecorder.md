@@ -18,48 +18,48 @@ The package krecorder (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ar/krecorder.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ca/krecorder.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ca@valencia/krecorder.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/de/krecorder.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/es/krecorder.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/eu/krecorder.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/fi/krecorder.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/fr/krecorder.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/he/krecorder.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/hu/krecorder.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/is/krecorder.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/it/krecorder.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ka/krecorder.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ko/krecorder.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/lv/krecorder.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/nl/krecorder.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/pl/krecorder.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/pt_BR/krecorder.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ro/krecorder.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ru/krecorder.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/sl/krecorder.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/sv/krecorder.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/tr/krecorder.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/uk/krecorder.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/zh_CN/krecorder.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/zh_TW/krecorder.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/en_GB/krecorder.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/eo/krecorder.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/gl/krecorder.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/hi/krecorder.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/ia/krecorder.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/sa/krecorder.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 116 | 128 | 90.6 | /mnt/stockage/packages/f42/krecorder/po/pt/krecorder.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 85 | 128 | 66.4 | /mnt/stockage/packages/f42/krecorder/po/cs/krecorder.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 30 | 128 | 23.4 | /mnt/stockage/packages/f42/krecorder/po/el/krecorder.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 22 | 128 | 17.2 | /mnt/stockage/packages/f42/krecorder/po/nn/krecorder.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 20 | 128 | 15.6 | /mnt/stockage/packages/f42/krecorder/po/sk/krecorder.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 15 | 128 | 11.7 | /mnt/stockage/packages/f42/krecorder/po/pa/krecorder.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 4 | 128 | 3.1 | /mnt/stockage/packages/f42/krecorder/po/ast/krecorder.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 128 | 0.0 | /mnt/stockage/packages/f42/krecorder/po/ga/krecorder.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 128 | 0.0 | /mnt/stockage/packages/f42/krecorder/po/ja/krecorder.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 128 | 0.0 | /mnt/stockage/packages/f42/krecorder/po/lt/krecorder.po | 
+ | [ar](/f42/language/ar) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ar/krecorder.po | 
+ | [ca](/f42/language/ca) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ca/krecorder.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ca@valencia/krecorder.po | 
+ | [de](/f42/language/de) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/de/krecorder.po | 
+ | [es](/f42/language/es) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/es/krecorder.po | 
+ | [eu](/f42/language/eu) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/eu/krecorder.po | 
+ | [fi](/f42/language/fi) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/fi/krecorder.po | 
+ | [fr](/f42/language/fr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/fr/krecorder.po | 
+ | [he](/f42/language/he) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/he/krecorder.po | 
+ | [hu](/f42/language/hu) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/hu/krecorder.po | 
+ | [is](/f42/language/is) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/is/krecorder.po | 
+ | [it](/f42/language/it) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/it/krecorder.po | 
+ | [ka](/f42/language/ka) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ka/krecorder.po | 
+ | [ko](/f42/language/ko) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ko/krecorder.po | 
+ | [lv](/f42/language/lv) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/lv/krecorder.po | 
+ | [nl](/f42/language/nl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/nl/krecorder.po | 
+ | [pl](/f42/language/pl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/pl/krecorder.po | 
+ | [pt_BR](/f42/language/pt_BR) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/pt_BR/krecorder.po | 
+ | [ro](/f42/language/ro) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ro/krecorder.po | 
+ | [ru](/f42/language/ru) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/ru/krecorder.po | 
+ | [sl](/f42/language/sl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/sl/krecorder.po | 
+ | [sv](/f42/language/sv) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/sv/krecorder.po | 
+ | [tr](/f42/language/tr) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/tr/krecorder.po | 
+ | [uk](/f42/language/uk) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/uk/krecorder.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/zh_CN/krecorder.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 128 | 128 | 100.0 | /mnt/stockage/packages/f42/krecorder/po/zh_TW/krecorder.po | 
+ | [en_GB](/f42/language/en_GB) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/en_GB/krecorder.po | 
+ | [eo](/f42/language/eo) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/eo/krecorder.po | 
+ | [gl](/f42/language/gl) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/gl/krecorder.po | 
+ | [hi](/f42/language/hi) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/hi/krecorder.po | 
+ | [ia](/f42/language/ia) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/ia/krecorder.po | 
+ | [sa](/f42/language/sa) | 127 | 128 | 99.2 | /mnt/stockage/packages/f42/krecorder/po/sa/krecorder.po | 
+ | [pt](/f42/language/pt) | 116 | 128 | 90.6 | /mnt/stockage/packages/f42/krecorder/po/pt/krecorder.po | 
+ | [cs](/f42/language/cs) | 85 | 128 | 66.4 | /mnt/stockage/packages/f42/krecorder/po/cs/krecorder.po | 
+ | [el](/f42/language/el) | 30 | 128 | 23.4 | /mnt/stockage/packages/f42/krecorder/po/el/krecorder.po | 
+ | [nn](/f42/language/nn) | 22 | 128 | 17.2 | /mnt/stockage/packages/f42/krecorder/po/nn/krecorder.po | 
+ | [sk](/f42/language/sk) | 20 | 128 | 15.6 | /mnt/stockage/packages/f42/krecorder/po/sk/krecorder.po | 
+ | [pa](/f42/language/pa) | 15 | 128 | 11.7 | /mnt/stockage/packages/f42/krecorder/po/pa/krecorder.po | 
+ | [ast](/f42/language/ast) | 4 | 128 | 3.1 | /mnt/stockage/packages/f42/krecorder/po/ast/krecorder.po | 
+ | [ga](/f42/language/ga) | 0 | 128 | 0.0 | /mnt/stockage/packages/f42/krecorder/po/ga/krecorder.po | 
+ | [ja](/f42/language/ja) | 0 | 128 | 0.0 | /mnt/stockage/packages/f42/krecorder/po/ja/krecorder.po | 
+ | [lt](/f42/language/lt) | 0 | 128 | 0.0 | /mnt/stockage/packages/f42/krecorder/po/lt/krecorder.po | 
 {.sortable}
 
 

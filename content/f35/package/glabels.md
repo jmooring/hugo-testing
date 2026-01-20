@@ -18,41 +18,41 @@ The package glabels (version 3.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f35/glabels/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 8866 | 8866 | 100.0 | /mnt/stockage/packages/f35/glabels/help/cs/cs.po/mnt/stockage/packages/f35/glabels/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f35/glabels/po/da.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 8424 | 8424 | 100.0 | /mnt/stockage/packages/f35/glabels/help/el/el.po/mnt/stockage/packages/f35/glabels/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 2308 | 2308 | 100.0 | /mnt/stockage/packages/f35/glabels/po/en_GB.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 8866 | 8866 | 100.0 | /mnt/stockage/packages/f35/glabels/help/fr/fr.po/mnt/stockage/packages/f35/glabels/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f35/glabels/po/hu.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 2858 | 2858 | 100.0 | /mnt/stockage/packages/f35/glabels/po/lv.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f35/glabels/po/pt.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 8191 | 8191 | 100.0 | /mnt/stockage/packages/f35/glabels/help/ru/ru.po/mnt/stockage/packages/f35/glabels/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 5708 | 5708 | 100.0 | /mnt/stockage/packages/f35/glabels/po/sr@latin.po/mnt/stockage/packages/f35/glabels/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 2858 | 2858 | 100.0 | /mnt/stockage/packages/f35/glabels/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 2458 | 2458 | 100.0 | /mnt/stockage/packages/f35/glabels/po/tr.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 8818 | 8866 | 99.5 | /mnt/stockage/packages/f35/glabels/help/de/de.po/mnt/stockage/packages/f35/glabels/po/de.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 2276 | 2322 | 98.0 | /mnt/stockage/packages/f35/glabels/po/ja.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 8604 | 8862 | 97.1 | /mnt/stockage/packages/f35/glabels/help/es/es.po/mnt/stockage/packages/f35/glabels/po/es.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 2259 | 2431 | 92.9 | /mnt/stockage/packages/f35/glabels/po/ro.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 2584 | 2845 | 90.8 | /mnt/stockage/packages/f35/glabels/po/oc.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 2210 | 2458 | 89.9 | /mnt/stockage/packages/f35/glabels/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 2210 | 2458 | 89.9 | /mnt/stockage/packages/f35/glabels/po/zh_HK.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 1631 | 1856 | 87.9 | /mnt/stockage/packages/f35/glabels/po/ca@valencia.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 2124 | 2515 | 84.5 | /mnt/stockage/packages/f35/glabels/po/sk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1798 | 2276 | 79.0 | /mnt/stockage/packages/f35/glabels/po/zh_CN.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1554 | 2138 | 72.7 | /mnt/stockage/packages/f35/glabels/po/ca.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 1544 | 2854 | 54.1 | /mnt/stockage/packages/f35/glabels/po/fi.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 1144 | 2138 | 53.5 | /mnt/stockage/packages/f35/glabels/po/ko.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 1513 | 2854 | 53.0 | /mnt/stockage/packages/f35/glabels/po/eo.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 880 | 2278 | 38.6 | /mnt/stockage/packages/f35/glabels/po/nb.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 841 | 2308 | 36.4 | /mnt/stockage/packages/f35/glabels/po/ar.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 766 | 2138 | 35.8 | /mnt/stockage/packages/f35/glabels/po/it.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 2967 | 8723 | 34.0 | /mnt/stockage/packages/f35/glabels/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/glabels/po/pt_BR.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 2632 | 8300 | 31.7 | /mnt/stockage/packages/f35/glabels/help/sl/sl.po/mnt/stockage/packages/f35/glabels/po/sl.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 2540 | 8384 | 30.3 | /mnt/stockage/packages/f35/glabels/help/id/id.po/mnt/stockage/packages/f35/glabels/po/id.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2341 | 7989 | 29.3 | /mnt/stockage/packages/f35/glabels/help/nl/nl.po/mnt/stockage/packages/f35/glabels/po/nl.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 228 | 2322 | 9.8 | /mnt/stockage/packages/f35/glabels/po/gl.po | 
+ | [bs](/f35/language/bs) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f35/glabels/po/bs.po | 
+ | [cs](/f35/language/cs) | 8866 | 8866 | 100.0 | /mnt/stockage/packages/f35/glabels/help/cs/cs.po/mnt/stockage/packages/f35/glabels/po/cs.po | 
+ | [da](/f35/language/da) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f35/glabels/po/da.po | 
+ | [el](/f35/language/el) | 8424 | 8424 | 100.0 | /mnt/stockage/packages/f35/glabels/help/el/el.po/mnt/stockage/packages/f35/glabels/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 2308 | 2308 | 100.0 | /mnt/stockage/packages/f35/glabels/po/en_GB.po | 
+ | [fr](/f35/language/fr) | 8866 | 8866 | 100.0 | /mnt/stockage/packages/f35/glabels/help/fr/fr.po/mnt/stockage/packages/f35/glabels/po/fr.po | 
+ | [hu](/f35/language/hu) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f35/glabels/po/hu.po | 
+ | [lv](/f35/language/lv) | 2858 | 2858 | 100.0 | /mnt/stockage/packages/f35/glabels/po/lv.po | 
+ | [pt](/f35/language/pt) | 2854 | 2854 | 100.0 | /mnt/stockage/packages/f35/glabels/po/pt.po | 
+ | [ru](/f35/language/ru) | 8191 | 8191 | 100.0 | /mnt/stockage/packages/f35/glabels/help/ru/ru.po/mnt/stockage/packages/f35/glabels/po/ru.po | 
+ | [sr](/f35/language/sr) | 5708 | 5708 | 100.0 | /mnt/stockage/packages/f35/glabels/po/sr@latin.po/mnt/stockage/packages/f35/glabels/po/sr.po | 
+ | [sv](/f35/language/sv) | 2858 | 2858 | 100.0 | /mnt/stockage/packages/f35/glabels/po/sv.po | 
+ | [tr](/f35/language/tr) | 2458 | 2458 | 100.0 | /mnt/stockage/packages/f35/glabels/po/tr.po | 
+ | [de](/f35/language/de) | 8818 | 8866 | 99.5 | /mnt/stockage/packages/f35/glabels/help/de/de.po/mnt/stockage/packages/f35/glabels/po/de.po | 
+ | [ja](/f35/language/ja) | 2276 | 2322 | 98.0 | /mnt/stockage/packages/f35/glabels/po/ja.po | 
+ | [es](/f35/language/es) | 8604 | 8862 | 97.1 | /mnt/stockage/packages/f35/glabels/help/es/es.po/mnt/stockage/packages/f35/glabels/po/es.po | 
+ | [ro](/f35/language/ro) | 2259 | 2431 | 92.9 | /mnt/stockage/packages/f35/glabels/po/ro.po | 
+ | [oc](/f35/language/oc) | 2584 | 2845 | 90.8 | /mnt/stockage/packages/f35/glabels/po/oc.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 2210 | 2458 | 89.9 | /mnt/stockage/packages/f35/glabels/po/zh_TW.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 2210 | 2458 | 89.9 | /mnt/stockage/packages/f35/glabels/po/zh_HK.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 1631 | 1856 | 87.9 | /mnt/stockage/packages/f35/glabels/po/ca@valencia.po | 
+ | [sk](/f35/language/sk) | 2124 | 2515 | 84.5 | /mnt/stockage/packages/f35/glabels/po/sk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1798 | 2276 | 79.0 | /mnt/stockage/packages/f35/glabels/po/zh_CN.po | 
+ | [ca](/f35/language/ca) | 1554 | 2138 | 72.7 | /mnt/stockage/packages/f35/glabels/po/ca.po | 
+ | [fi](/f35/language/fi) | 1544 | 2854 | 54.1 | /mnt/stockage/packages/f35/glabels/po/fi.po | 
+ | [ko](/f35/language/ko) | 1144 | 2138 | 53.5 | /mnt/stockage/packages/f35/glabels/po/ko.po | 
+ | [eo](/f35/language/eo) | 1513 | 2854 | 53.0 | /mnt/stockage/packages/f35/glabels/po/eo.po | 
+ | [nb_NO](/f35/language/nb_NO) | 880 | 2278 | 38.6 | /mnt/stockage/packages/f35/glabels/po/nb.po | 
+ | [ar](/f35/language/ar) | 841 | 2308 | 36.4 | /mnt/stockage/packages/f35/glabels/po/ar.po | 
+ | [it](/f35/language/it) | 766 | 2138 | 35.8 | /mnt/stockage/packages/f35/glabels/po/it.po | 
+ | [pt_BR](/f35/language/pt_BR) | 2967 | 8723 | 34.0 | /mnt/stockage/packages/f35/glabels/help/pt_BR/pt_BR.po/mnt/stockage/packages/f35/glabels/po/pt_BR.po | 
+ | [sl](/f35/language/sl) | 2632 | 8300 | 31.7 | /mnt/stockage/packages/f35/glabels/help/sl/sl.po/mnt/stockage/packages/f35/glabels/po/sl.po | 
+ | [id](/f35/language/id) | 2540 | 8384 | 30.3 | /mnt/stockage/packages/f35/glabels/help/id/id.po/mnt/stockage/packages/f35/glabels/po/id.po | 
+ | [nl](/f35/language/nl) | 2341 | 7989 | 29.3 | /mnt/stockage/packages/f35/glabels/help/nl/nl.po/mnt/stockage/packages/f35/glabels/po/nl.po | 
+ | [gl](/f35/language/gl) | 228 | 2322 | 9.8 | /mnt/stockage/packages/f35/glabels/po/gl.po | 
 {.sortable}
 
 

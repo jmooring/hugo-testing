@@ -18,36 +18,36 @@ The package eiciel (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/cs.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/et.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/fi.po | 
- | [ie]({{< ref "/f40/language/ie.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/ie.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/nl.po | 
- | [pt_PT]({{< ref "/f40/language/pt_PT.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/pt_PT.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 252 | 331 | 76.1 | /mnt/stockage/packages/f40/eiciel/po/fa.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 122 | 331 | 36.9 | /mnt/stockage/packages/f40/eiciel/po/id.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/ar.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/fr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/pt_BR.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/zh_CN.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 94 | 331 | 28.4 | /mnt/stockage/packages/f40/eiciel/po/hi.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 90 | 331 | 27.2 | /mnt/stockage/packages/f40/eiciel/po/it.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/hu.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/ko.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/sv.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/zh_TW.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 6 | 331 | 1.8 | /mnt/stockage/packages/f40/eiciel/po/en_GB.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 3 | 331 | 0.9 | /mnt/stockage/packages/f40/eiciel/po/en_US.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 0 | 331 | 0.0 | /mnt/stockage/packages/f40/eiciel/po/nn.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 0 | 192 | 0.0 | /mnt/stockage/packages/f40/eiciel/po/si.po | 
+ | [ca](/f40/language/ca) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/ca.po | 
+ | [cs](/f40/language/cs) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/cs.po | 
+ | [et](/f40/language/et) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/et.po | 
+ | [fi](/f40/language/fi) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/fi.po | 
+ | [ie](/f40/language/ie) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/ie.po | 
+ | [ja](/f40/language/ja) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/ja.po | 
+ | [nl](/f40/language/nl) | 331 | 331 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/nl.po | 
+ | [pt_PT](/f40/language/pt_PT) | 192 | 192 | 100.0 | /mnt/stockage/packages/f40/eiciel/po/pt_PT.po | 
+ | [fa](/f40/language/fa) | 252 | 331 | 76.1 | /mnt/stockage/packages/f40/eiciel/po/fa.po | 
+ | [id](/f40/language/id) | 122 | 331 | 36.9 | /mnt/stockage/packages/f40/eiciel/po/id.po | 
+ | [ar](/f40/language/ar) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/ar.po | 
+ | [da](/f40/language/da) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/da.po | 
+ | [de](/f40/language/de) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/de.po | 
+ | [es](/f40/language/es) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/es.po | 
+ | [fr](/f40/language/fr) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/fr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/pt_BR.po | 
+ | [uk](/f40/language/uk) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 95 | 331 | 28.7 | /mnt/stockage/packages/f40/eiciel/po/zh_CN.po | 
+ | [hi](/f40/language/hi) | 94 | 331 | 28.4 | /mnt/stockage/packages/f40/eiciel/po/hi.po | 
+ | [it](/f40/language/it) | 90 | 331 | 27.2 | /mnt/stockage/packages/f40/eiciel/po/it.po | 
+ | [hu](/f40/language/hu) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/hu.po | 
+ | [ko](/f40/language/ko) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/ko.po | 
+ | [pl](/f40/language/pl) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/pl.po | 
+ | [ru](/f40/language/ru) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/ru.po | 
+ | [sv](/f40/language/sv) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/sv.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 85 | 331 | 25.7 | /mnt/stockage/packages/f40/eiciel/po/zh_TW.po | 
+ | [en_GB](/f40/language/en_GB) | 6 | 331 | 1.8 | /mnt/stockage/packages/f40/eiciel/po/en_GB.po | 
+ | [en_US](/f40/language/en_US) | 3 | 331 | 0.9 | /mnt/stockage/packages/f40/eiciel/po/en_US.po | 
+ | [nn](/f40/language/nn) | 0 | 331 | 0.0 | /mnt/stockage/packages/f40/eiciel/po/nn.po | 
+ | [si](/f40/language/si) | 0 | 192 | 0.0 | /mnt/stockage/packages/f40/eiciel/po/si.po | 
 {.sortable}
 
 

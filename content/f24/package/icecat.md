@@ -18,7 +18,7 @@ The package icecat (version 52.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/icecat/python/mach/mach/locale/en_US/LC_MESSAGES/alias.po/mnt/stockage/packages/f24/icecat/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
+ | [en_US](/f24/language/en_US) | 10 | 10 | 100.0 | /mnt/stockage/packages/f24/icecat/python/mach/mach/locale/en_US/LC_MESSAGES/alias.po/mnt/stockage/packages/f24/icecat/python/mozbuild/mozbuild/locale/en-US/LC_MESSAGES/mozbuild.po | 
 {.sortable}
 
 

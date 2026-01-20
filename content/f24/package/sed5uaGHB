@@ -1,0 +1,54 @@
+---
+title: "gnome-screenshot - translation progress for f24"
+package: gnome-screenshot
+date: 2026-01-17T14:56:03+00:00
+started_languages: 93
+no_languages: 0
+polib_error_count: 0
+could_not_process_count: 96
+release: f24
+---
+The package gnome-screenshot (version 3.20.1):
+
+* represents 910 source words to be translated
+* is translated into 94 languages in Fedora f24
+
+
+* contains 96 po stats could not be processes
+
+| Language | Translated words | Total source words | Progress (%) | Files |
+|----------|-----------------:|-------------------:|-------------:|-------|
+ | [an](/f24/language/an) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/an.po | 
+ | [ar](/f24/language/ar) | 359 | 359 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/ar.po | 
+ | [as](/f24/language/as) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/as.po | 
+ | [be](/f24/language/be) | 359 | 359 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/be.po | 
+ | [bg](/f24/language/bg) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/bg.po | 
+ | [bn_IN](/f24/language/bn_IN) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/bn_IN.po | 
+ | [bs](/f24/language/bs) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/bs.po | 
+ | [ca](/f24/language/ca) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/ca@valencia.po | 
+ | [crh](/f24/language/crh) | 343 | 343 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/crh.po | 
+ | [cs](/f24/language/cs) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/cs.po | 
+ | [da](/f24/language/da) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/da.po | 
+ | [de](/f24/language/de) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/de.po | 
+ | [el](/f24/language/el) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/el.po | 
+ | [en_GB](/f24/language/en_GB) | 342 | 342 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/en_GB.po | 
+ | [en_US](/f24/language/en_US) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/ta.po | 
+ | [eo](/f24/language/eo) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/eo.po | 
+ | [es](/f24/language/es) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/es.po | 
+ | [et](/f24/language/et) | 351 | 351 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/et.po | 
+ | [eu](/f24/language/eu) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/eu.po | 
+ | [fa](/f24/language/fa) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/fa.po | 
+ | [fi](/f24/language/fi) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/fi.po | 
+ | [fr](/f24/language/fr) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/fr.po | 
+ | [fur](/f24/language/fur) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/fur.po | 
+ | [gd](/f24/language/gd) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/gd.po | 
+ | [gl](/f24/language/gl) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/gl.po | 
+ | [gu](/f24/language/gu) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/gu.po | 
+ | [he](/f24/language/he) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/he.po | 
+ | [hi](/f24/language/hi) | 354 | 354 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/hi.po | 
+ | [hu](/f24/language/hu) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/hu.po | 
+ | [id](/f24/language/id) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/id.po | 
+ | [is](/f24/language/is) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/is.po | 
+ | [it](/f24/language/it) | 455 | 455 | 100.0 | /mnt/stockage/packages/f24/gnome-screenshot/po/it.po | 
+ | [ja](/f24/language/ja) | 455 | 455 | 

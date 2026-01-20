@@ -18,20 +18,20 @@ The package vrms-rpm (version 2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f41/vrms-rpm/lang/pl.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 30 | 33 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/de.po | 
- | [en]({{< ref "/f41/language/en.md" >}}) | 60 | 66 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/pt.po/mnt/stockage/packages/f41/vrms-rpm/lang/en.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 30 | 33 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/es.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 30 | 33 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/id.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 29 | 33 | 87.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/cs.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 29 | 33 | 87.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/it.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 29 | 33 | 87.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/nl.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 28 | 33 | 84.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/el.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 28 | 33 | 84.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/fr.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 27 | 33 | 81.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/da.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 27 | 33 | 81.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/tr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/vrms-rpm/lang/ru.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/vrms-rpm/lang/uk.po | 
+ | [pl](/f41/language/pl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f41/vrms-rpm/lang/pl.po | 
+ | [de](/f41/language/de) | 30 | 33 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/de.po | 
+ | [en](/f41/language/en) | 60 | 66 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/pt.po/mnt/stockage/packages/f41/vrms-rpm/lang/en.po | 
+ | [es](/f41/language/es) | 30 | 33 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/es.po | 
+ | [id](/f41/language/id) | 30 | 33 | 90.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/id.po | 
+ | [cs](/f41/language/cs) | 29 | 33 | 87.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/cs.po | 
+ | [it](/f41/language/it) | 29 | 33 | 87.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/it.po | 
+ | [nl](/f41/language/nl) | 29 | 33 | 87.9 | /mnt/stockage/packages/f41/vrms-rpm/lang/nl.po | 
+ | [el](/f41/language/el) | 28 | 33 | 84.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/el.po | 
+ | [fr](/f41/language/fr) | 28 | 33 | 84.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/fr.po | 
+ | [da](/f41/language/da) | 27 | 33 | 81.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/da.po | 
+ | [tr](/f41/language/tr) | 27 | 33 | 81.8 | /mnt/stockage/packages/f41/vrms-rpm/lang/tr.po | 
+ | [ru](/f41/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/vrms-rpm/lang/ru.po | 
+ | [uk](/f41/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/vrms-rpm/lang/uk.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wine]({{< ref "/f14/package/wine.md" >}}) | 2397 | 11786 | 20.3 | none | 
+ | [wine](/f14/package/wine) | 2397 | 11786 | 20.3 | none | 
 {.sortable}
 
 

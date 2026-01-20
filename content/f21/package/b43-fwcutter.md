@@ -18,18 +18,18 @@ The package b43-fwcutter (version 019):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/cs.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/da.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/de.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/fr.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/id.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/ja.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/pl.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/pt.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/ru.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/sv.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 0 | 67 | 0.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/es.po | 
+ | [cs](/f21/language/cs) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/cs.po | 
+ | [da](/f21/language/da) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/da.po | 
+ | [de](/f21/language/de) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/de.po | 
+ | [fr](/f21/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/fr.po | 
+ | [id](/f21/language/id) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/id.po | 
+ | [it](/f21/language/it) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/it.po | 
+ | [ja](/f21/language/ja) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/ja.po | 
+ | [pl](/f21/language/pl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/pl.po | 
+ | [pt](/f21/language/pt) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/pt.po | 
+ | [ru](/f21/language/ru) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/ru.po | 
+ | [sv](/f21/language/sv) | 67 | 67 | 100.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/sv.po | 
+ | [es](/f21/language/es) | 0 | 67 | 0.0 | /mnt/stockage/packages/f21/b43-fwcutter/debian/po/es.po | 
 {.sortable}
 
 

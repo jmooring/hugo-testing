@@ -18,41 +18,41 @@ The package gnome-2048 (version 3.38.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/bs.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f36/gnome-2048/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/da/da.po/mnt/stockage/packages/f36/gnome-2048/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/de/de.po/mnt/stockage/packages/f36/gnome-2048/po/de.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/el/el.po/mnt/stockage/packages/f36/gnome-2048/po/el.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/en_GB.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/es/es.po/mnt/stockage/packages/f36/gnome-2048/po/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/eu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/fr.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/fur.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/he.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/hu/hu.po/mnt/stockage/packages/f36/gnome-2048/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/it.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/lt.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/pl/pl.po/mnt/stockage/packages/f36/gnome-2048/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/pt_BR/pt_BR.po/mnt/stockage/packages/f36/gnome-2048/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/ro/ro.po/mnt/stockage/packages/f36/gnome-2048/po/ro.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/ru.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/sk.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 306 | 306 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/sl.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f36/gnome-2048/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f36/gnome-2048/po/sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/uk/uk.po/mnt/stockage/packages/f36/gnome-2048/po/uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 416 | 416 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/zh_CN/zh_CN.po/mnt/stockage/packages/f36/gnome-2048/po/zh_CN.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 372 | 382 | 97.4 | /mnt/stockage/packages/f36/gnome-2048/po/ca.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 331 | 382 | 86.6 | /mnt/stockage/packages/f36/gnome-2048/po/ko.po | 
- | [ckb]({{< ref "/f36/language/ckb.md" >}}) | 118 | 382 | 30.9 | /mnt/stockage/packages/f36/gnome-2048/po/ckb.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 118 | 382 | 30.9 | /mnt/stockage/packages/f36/gnome-2048/po/kk.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 44 | 301 | 14.6 | /mnt/stockage/packages/f36/gnome-2048/po/nb.po | 
+ | [bs](/f36/language/bs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/bs.po | 
+ | [cs](/f36/language/cs) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f36/gnome-2048/po/cs.po | 
+ | [da](/f36/language/da) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/da/da.po/mnt/stockage/packages/f36/gnome-2048/po/da.po | 
+ | [de](/f36/language/de) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/de/de.po/mnt/stockage/packages/f36/gnome-2048/po/de.po | 
+ | [el](/f36/language/el) | 324 | 324 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/el/el.po/mnt/stockage/packages/f36/gnome-2048/po/el.po | 
+ | [en_GB](/f36/language/en_GB) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/en_GB.po | 
+ | [es](/f36/language/es) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/es/es.po/mnt/stockage/packages/f36/gnome-2048/po/es.po | 
+ | [eu](/f36/language/eu) | 347 | 347 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/eu.po | 
+ | [fi](/f36/language/fi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/fi.po | 
+ | [fr](/f36/language/fr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/fr.po | 
+ | [fur](/f36/language/fur) | 350 | 350 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/fur.po | 
+ | [he](/f36/language/he) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/he.po | 
+ | [hr](/f36/language/hr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/hr.po | 
+ | [hu](/f36/language/hu) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/hu/hu.po/mnt/stockage/packages/f36/gnome-2048/po/hu.po | 
+ | [id](/f36/language/id) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/id.po | 
+ | [it](/f36/language/it) | 301 | 301 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/it.po | 
+ | [lt](/f36/language/lt) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/lt.po | 
+ | [nl](/f36/language/nl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/nl.po | 
+ | [pl](/f36/language/pl) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/pl/pl.po/mnt/stockage/packages/f36/gnome-2048/po/pl.po | 
+ | [pt](/f36/language/pt) | 301 | 301 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/pt_BR/pt_BR.po/mnt/stockage/packages/f36/gnome-2048/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/ro/ro.po/mnt/stockage/packages/f36/gnome-2048/po/ro.po | 
+ | [ru](/f36/language/ru) | 301 | 301 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/ru.po | 
+ | [sk](/f36/language/sk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/sk.po | 
+ | [sl](/f36/language/sl) | 306 | 306 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/sl.po | 
+ | [sr](/f36/language/sr) | 602 | 602 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f36/gnome-2048/po/sr.po | 
+ | [sv](/f36/language/sv) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f36/gnome-2048/po/sv.po | 
+ | [tr](/f36/language/tr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/po/tr.po | 
+ | [uk](/f36/language/uk) | 417 | 417 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/uk/uk.po/mnt/stockage/packages/f36/gnome-2048/po/uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 416 | 416 | 100.0 | /mnt/stockage/packages/f36/gnome-2048/help/zh_CN/zh_CN.po/mnt/stockage/packages/f36/gnome-2048/po/zh_CN.po | 
+ | [ca](/f36/language/ca) | 372 | 382 | 97.4 | /mnt/stockage/packages/f36/gnome-2048/po/ca.po | 
+ | [ko](/f36/language/ko) | 331 | 382 | 86.6 | /mnt/stockage/packages/f36/gnome-2048/po/ko.po | 
+ | [ckb](/f36/language/ckb) | 118 | 382 | 30.9 | /mnt/stockage/packages/f36/gnome-2048/po/ckb.po | 
+ | [kk](/f36/language/kk) | 118 | 382 | 30.9 | /mnt/stockage/packages/f36/gnome-2048/po/kk.po | 
+ | [nb_NO](/f36/language/nb_NO) | 44 | 301 | 14.6 | /mnt/stockage/packages/f36/gnome-2048/po/nb.po | 
 {.sortable}
 
 

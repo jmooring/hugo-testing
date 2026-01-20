@@ -38,111 +38,111 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertux]({{< ref "/f30/package/supertux.md" >}}) | 2916 | 3175 | 91.8 | Latin (http://www.transifex.com/arctic-games/supertux/language/la/) | 
- | [stellarium]({{< ref "/f30/package/stellarium.md" >}}) | 30556 | 72635 | 42.1 | Latin (https://www.transifex.com/stellarium/teams/80998/la/) | 
- | [supertuxkart]({{< ref "/f30/package/supertuxkart.md" >}}) | 2215 | 5341 | 41.5 | Latin (http://www.transifex.com/supertuxkart/supertuxkart/language/la/) | 
- | [agenda]({{< ref "/f30/package/agenda.md" >}}) | 5 | 17 | 29.4 | Latin <la@li.org> | 
- | [mate-icon-theme]({{< ref "/f30/package/mate-icon-theme.md" >}}) | 1 | 4 | 25.0 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [wesnoth]({{< ref "/f30/package/wesnoth.md" >}}) | 64391 | 291932 | 22.1 | Latin <http://wiki.wesnoth.org/LatinTranslation> | 
- | [python-caja]({{< ref "/f30/package/python-caja.md" >}}) | 1 | 6 | 16.7 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [nemo-extensions]({{< ref "/f30/package/nemo-extensions.md" >}}) | 1 | 8 | 12.5 | Latin <la@li.org> | 
- | [byobu]({{< ref "/f30/package/byobu.md" >}}) | 14 | 177 | 7.9 | Latin <la@li.org> | 
- | [synapse]({{< ref "/f30/package/synapse.md" >}}) | 61 | 856 | 7.1 | Latin <la@li.org> | 
- | [widelands]({{< ref "/f30/package/widelands.md" >}}) | 3917 | 58939 | 6.6 | Latin (http://www.transifex.com/widelands/widelands/language/la/) | 
- | [xed]({{< ref "/f30/package/xed.md" >}}) | 257 | 4625 | 5.6 | Latin <la@li.org> | 
- | [gedit]({{< ref "/f30/package/gedit.md" >}}) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
- | [mate-menus]({{< ref "/f30/package/mate-menus.md" >}}) | 3 | 97 | 3.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [mate-terminal]({{< ref "/f30/package/mate-terminal.md" >}}) | 142 | 4625 | 3.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [mozo]({{< ref "/f30/package/mozo.md" >}}) | 1 | 42 | 2.4 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [deepin-metacity]({{< ref "/f30/package/deepin-metacity.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [deepin-mutter]({{< ref "/f30/package/deepin-mutter.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [metacity]({{< ref "/f30/package/metacity.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [muffin]({{< ref "/f30/package/muffin.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [mutter]({{< ref "/f30/package/mutter.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [mutter328]({{< ref "/f30/package/mutter328.md" >}}) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
- | [blueberry]({{< ref "/f30/package/blueberry.md" >}}) | 3 | 148 | 2.0 | Latin <la@li.org> | 
- | [mate-backgrounds]({{< ref "/f30/package/mate-backgrounds.md" >}}) | 1 | 51 | 2.0 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [pinta]({{< ref "/f30/package/pinta.md" >}}) | 29 | 1618 | 1.8 | Latin <la@li.org> | 
- | [isomaster]({{< ref "/f30/package/isomaster.md" >}}) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
- | [marco]({{< ref "/f30/package/marco.md" >}}) | 54 | 4218 | 1.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [mate-media]({{< ref "/f30/package/mate-media.md" >}}) | 3 | 238 | 1.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [yelp]({{< ref "/f30/package/yelp.md" >}}) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
- | [asunder]({{< ref "/f30/package/asunder.md" >}}) | 6 | 492 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 203 | 18053 | 1.1 | Latin <la@li.org> | 
- | [slick-greeter]({{< ref "/f30/package/slick-greeter.md" >}}) | 2 | 211 | 0.9 | Latin <la@li.org> | 
- | [mate-applets]({{< ref "/f30/package/mate-applets.md" >}}) | 87 | 11438 | 0.8 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [pluma]({{< ref "/f30/package/pluma.md" >}}) | 40 | 5292 | 0.8 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [terminator]({{< ref "/f30/package/terminator.md" >}}) | 9 | 1407 | 0.6 | Latin <la@li.org> | 
- | [deluge]({{< ref "/f30/package/deluge.md" >}}) | 12 | 2644 | 0.5 | Latin <la@li.org> | 
- | [xreader]({{< ref "/f30/package/xreader.md" >}}) | 7 | 1669 | 0.4 | Latin <la@li.org> | 
- | [caja]({{< ref "/f30/package/caja.md" >}}) | 31 | 9405 | 0.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [mate-panel]({{< ref "/f30/package/mate-panel.md" >}}) | 16 | 5333 | 0.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [gedit-plugins]({{< ref "/f30/package/gedit-plugins.md" >}}) | 2 | 1205 | 0.2 | Latin <la@li.org> | 
- | [mate-utils]({{< ref "/f30/package/mate-utils.md" >}}) | 4 | 3221 | 0.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [mate-power-manager]({{< ref "/f30/package/mate-power-manager.md" >}}) | 3 | 2460 | 0.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [mate-sensors-applet]({{< ref "/f30/package/mate-sensors-applet.md" >}}) | 2 | 1909 | 0.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
- | [libgnomeui]({{< ref "/f30/package/libgnomeui.md" >}}) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
- | [warzone2100]({{< ref "/f30/package/warzone2100.md" >}}) | 9 | 13461 | 0.1 | Latin | 
- | [certmonger]({{< ref "/f30/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Latin (http://www.transifex.com/projects/p/certmonger/language/la/) | 
- | [coin]({{< ref "/f30/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f30/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f30/package/elementary-capnet-assist.md" >}}) | 0 | 82 | 0.0 | none | 
- | [elementary-code]({{< ref "/f30/package/elementary-code.md" >}}) | 0 | 1095 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f30/package/elementary-files.md" >}}) | 0 | 2652 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f30/package/elementary-greeter.md" >}}) | 0 | 76 | 0.0 |  | 
- | [elementary-music]({{< ref "/f30/package/elementary-music.md" >}}) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-photos]({{< ref "/f30/package/elementary-photos.md" >}}) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f30/package/elementary-screenshot-tool.md" >}}) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f30/package/elementary-shortcut-overlay.md" >}}) | 0 | 95 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f30/package/elementary-sideload.md" >}}) | 0 | 224 | 0.0 | none | 
- | [elementary-terminal]({{< ref "/f30/package/elementary-terminal.md" >}}) | 0 | 442 | 0.0 |  | 
- | [elementary-videos]({{< ref "/f30/package/elementary-videos.md" >}}) | 0 | 322 | 0.0 |  | 
- | [fonts-tweak-tool]({{< ref "/f30/package/fonts-tweak-tool.md" >}}) | 0 | 196 | 0.0 | Latin | 
- | [gala]({{< ref "/f30/package/gala.md" >}}) | 0 | 140 | 0.0 | none | 
- | [granite]({{< ref "/f30/package/granite.md" >}}) | 0 | 250 | 0.0 |  | 
- | [harvey]({{< ref "/f30/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [im-chooser]({{< ref "/f30/package/im-chooser.md" >}}) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f30/package/imsettings.md" >}}) | 0 | 485 | 0.0 | LANGUAGE <LL@li.org> | 
- | [initial-setup]({{< ref "/f30/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Latin (http://www.transifex.com/projects/p/initial-setup/language/la/) | 
- | [libmatekbd]({{< ref "/f30/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Latin (http://www.transifex.com/mate/MATE/language/la/) | 
- | [mate-themes]({{< ref "/f30/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Latin (http://www.transifex.com/mate/MATE/language/la/) | 
- | [nutty]({{< ref "/f30/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f30/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f30/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f30/package/pantheon-agent-polkit.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [policycoreutils]({{< ref "/f30/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Latin (http://www.transifex.com/projects/p/fedora/language/la/) | 
- | [pyhoca-gui]({{< ref "/f30/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-meh]({{< ref "/f30/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Latin (http://www.transifex.com/projects/p/python-meh/language/la/) | 
- | [setroubleshoot]({{< ref "/f30/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Latin (http://www.transifex.com/projects/p/fedora/language/la/) | 
- | [setroubleshoot-plugins]({{< ref "/f30/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Latin (http://www.transifex.com/projects/p/fedora/language/la/) | 
- | [switchboard]({{< ref "/f30/package/switchboard.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f30/package/switchboard-plug-a11y.md" >}}) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f30/package/switchboard-plug-about.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f30/package/switchboard-plug-applications.md" >}}) | 0 | 95 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f30/package/switchboard-plug-bluetooth.md" >}}) | 0 | 147 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f30/package/switchboard-plug-display.md" >}}) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f30/package/switchboard-plug-keyboard.md" >}}) | 0 | 440 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f30/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 232 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f30/package/switchboard-plug-networking.md" >}}) | 0 | 456 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f30/package/switchboard-plug-notifications.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f30/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 160 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f30/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 181 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f30/package/switchboard-plug-printers.md" >}}) | 0 | 359 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f30/package/switchboard-plug-sharing.md" >}}) | 0 | 140 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f30/package/switchboard-plug-sound.md" >}}) | 0 | 142 | 0.0 |  | 
- | [sympa]({{< ref "/f30/package/sympa.md" >}}) | 0 | 22053 | 0.0 | Lingua Latina | 
- | [vocal]({{< ref "/f30/package/vocal.md" >}}) | 0 | 377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f30/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f30/package/wingpanel-applications-menu.md" >}}) | 0 | 261 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f30/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 27 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f30/package/wingpanel-indicator-datetime.md" >}}) | 0 | 101 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f30/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 24 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f30/package/wingpanel-indicator-network.md" >}}) | 0 | 97 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f30/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 30 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f30/package/wingpanel-indicator-notifications.md" >}}) | 0 | 38 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f30/package/wingpanel-indicator-power.md" >}}) | 0 | 112 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f30/package/wingpanel-indicator-session.md" >}}) | 0 | 81 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f30/package/wingpanel-indicator-sound.md" >}}) | 0 | 44 | 0.0 | none | 
+ | [supertux](/f30/package/supertux) | 2916 | 3175 | 91.8 | Latin (http://www.transifex.com/arctic-games/supertux/language/la/) | 
+ | [stellarium](/f30/package/stellarium) | 30556 | 72635 | 42.1 | Latin (https://www.transifex.com/stellarium/teams/80998/la/) | 
+ | [supertuxkart](/f30/package/supertuxkart) | 2215 | 5341 | 41.5 | Latin (http://www.transifex.com/supertuxkart/supertuxkart/language/la/) | 
+ | [agenda](/f30/package/agenda) | 5 | 17 | 29.4 | Latin <la@li.org> | 
+ | [mate-icon-theme](/f30/package/mate-icon-theme) | 1 | 4 | 25.0 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [wesnoth](/f30/package/wesnoth) | 64391 | 291932 | 22.1 | Latin <http://wiki.wesnoth.org/LatinTranslation> | 
+ | [python-caja](/f30/package/python-caja) | 1 | 6 | 16.7 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [nemo-extensions](/f30/package/nemo-extensions) | 1 | 8 | 12.5 | Latin <la@li.org> | 
+ | [byobu](/f30/package/byobu) | 14 | 177 | 7.9 | Latin <la@li.org> | 
+ | [synapse](/f30/package/synapse) | 61 | 856 | 7.1 | Latin <la@li.org> | 
+ | [widelands](/f30/package/widelands) | 3917 | 58939 | 6.6 | Latin (http://www.transifex.com/widelands/widelands/language/la/) | 
+ | [xed](/f30/package/xed) | 257 | 4625 | 5.6 | Latin <la@li.org> | 
+ | [gedit](/f30/package/gedit) | 207 | 4942 | 4.2 | Latin <la@li.org> | 
+ | [mate-menus](/f30/package/mate-menus) | 3 | 97 | 3.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [mate-terminal](/f30/package/mate-terminal) | 142 | 4625 | 3.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [mozo](/f30/package/mozo) | 1 | 42 | 2.4 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [deepin-metacity](/f30/package/deepin-metacity) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [deepin-mutter](/f30/package/deepin-mutter) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [metacity](/f30/package/metacity) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [muffin](/f30/package/muffin) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [mutter](/f30/package/mutter) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [mutter328](/f30/package/mutter328) | 80 | 3819 | 2.1 | Latin <la@li.org> | 
+ | [blueberry](/f30/package/blueberry) | 3 | 148 | 2.0 | Latin <la@li.org> | 
+ | [mate-backgrounds](/f30/package/mate-backgrounds) | 1 | 51 | 2.0 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [pinta](/f30/package/pinta) | 29 | 1618 | 1.8 | Latin <la@li.org> | 
+ | [isomaster](/f30/package/isomaster) | 9 | 674 | 1.3 | http://littlesvr.ca/ostd/ | 
+ | [marco](/f30/package/marco) | 54 | 4218 | 1.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [mate-media](/f30/package/mate-media) | 3 | 238 | 1.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [yelp](/f30/package/yelp) | 13 | 1035 | 1.3 | Latin <la@li.org> | 
+ | [asunder](/f30/package/asunder) | 6 | 492 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 203 | 18053 | 1.1 | Latin <la@li.org> | 
+ | [slick-greeter](/f30/package/slick-greeter) | 2 | 211 | 0.9 | Latin <la@li.org> | 
+ | [mate-applets](/f30/package/mate-applets) | 87 | 11438 | 0.8 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [pluma](/f30/package/pluma) | 40 | 5292 | 0.8 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [terminator](/f30/package/terminator) | 9 | 1407 | 0.6 | Latin <la@li.org> | 
+ | [deluge](/f30/package/deluge) | 12 | 2644 | 0.5 | Latin <la@li.org> | 
+ | [xreader](/f30/package/xreader) | 7 | 1669 | 0.4 | Latin <la@li.org> | 
+ | [caja](/f30/package/caja) | 31 | 9405 | 0.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [mate-panel](/f30/package/mate-panel) | 16 | 5333 | 0.3 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [gedit-plugins](/f30/package/gedit-plugins) | 2 | 1205 | 0.2 | Latin <la@li.org> | 
+ | [mate-utils](/f30/package/mate-utils) | 4 | 3221 | 0.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [mate-power-manager](/f30/package/mate-power-manager) | 3 | 2460 | 0.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [mate-sensors-applet](/f30/package/mate-sensors-applet) | 2 | 1909 | 0.1 | Latin (https://www.transifex.com/mate/teams/13566/la/) | 
+ | [libgnomeui](/f30/package/libgnomeui) | 1 | 1309 | 0.1 | Latin <la@li.org> | 
+ | [warzone2100](/f30/package/warzone2100) | 9 | 13461 | 0.1 | Latin | 
+ | [certmonger](/f30/package/certmonger) | 0 | 2831 | 0.0 | Latin (http://www.transifex.com/projects/p/certmonger/language/la/) | 
+ | [coin](/f30/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f30/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-capnet-assist](/f30/package/elementary-capnet-assist) | 0 | 82 | 0.0 | none | 
+ | [elementary-code](/f30/package/elementary-code) | 0 | 1095 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f30/package/elementary-files) | 0 | 2652 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f30/package/elementary-greeter) | 0 | 76 | 0.0 |  | 
+ | [elementary-music](/f30/package/elementary-music) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-photos](/f30/package/elementary-photos) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f30/package/elementary-screenshot-tool) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f30/package/elementary-shortcut-overlay) | 0 | 95 | 0.0 | none | 
+ | [elementary-sideload](/f30/package/elementary-sideload) | 0 | 224 | 0.0 | none | 
+ | [elementary-terminal](/f30/package/elementary-terminal) | 0 | 442 | 0.0 |  | 
+ | [elementary-videos](/f30/package/elementary-videos) | 0 | 322 | 0.0 |  | 
+ | [fonts-tweak-tool](/f30/package/fonts-tweak-tool) | 0 | 196 | 0.0 | Latin | 
+ | [gala](/f30/package/gala) | 0 | 140 | 0.0 | none | 
+ | [granite](/f30/package/granite) | 0 | 250 | 0.0 |  | 
+ | [harvey](/f30/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [im-chooser](/f30/package/im-chooser) | 0 | 254 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f30/package/imsettings) | 0 | 485 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [initial-setup](/f30/package/initial-setup) | 0 | 33 | 0.0 | Latin (http://www.transifex.com/projects/p/initial-setup/language/la/) | 
+ | [libmatekbd](/f30/package/libmatekbd) | 0 | 251 | 0.0 | Latin (http://www.transifex.com/mate/MATE/language/la/) | 
+ | [mate-themes](/f30/package/mate-themes) | 0 | 70 | 0.0 | Latin (http://www.transifex.com/mate/MATE/language/la/) | 
+ | [nutty](/f30/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f30/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f30/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f30/package/pantheon-agent-polkit) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [policycoreutils](/f30/package/policycoreutils) | 0 | 7678 | 0.0 | Latin (http://www.transifex.com/projects/p/fedora/language/la/) | 
+ | [pyhoca-gui](/f30/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-meh](/f30/package/python-meh) | 0 | 109 | 0.0 | Latin (http://www.transifex.com/projects/p/python-meh/language/la/) | 
+ | [setroubleshoot](/f30/package/setroubleshoot) | 0 | 660 | 0.0 | Latin (http://www.transifex.com/projects/p/fedora/language/la/) | 
+ | [setroubleshoot-plugins](/f30/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Latin (http://www.transifex.com/projects/p/fedora/language/la/) | 
+ | [switchboard](/f30/package/switchboard) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f30/package/switchboard-plug-a11y) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f30/package/switchboard-plug-about) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f30/package/switchboard-plug-applications) | 0 | 95 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f30/package/switchboard-plug-bluetooth) | 0 | 147 | 0.0 | none | 
+ | [switchboard-plug-display](/f30/package/switchboard-plug-display) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f30/package/switchboard-plug-keyboard) | 0 | 440 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f30/package/switchboard-plug-mouse-touchpad) | 0 | 232 | 0.0 | none | 
+ | [switchboard-plug-networking](/f30/package/switchboard-plug-networking) | 0 | 456 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f30/package/switchboard-plug-notifications) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts](/f30/package/switchboard-plug-onlineaccounts) | 0 | 160 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f30/package/switchboard-plug-pantheon-shell) | 0 | 181 | 0.0 |  | 
+ | [switchboard-plug-printers](/f30/package/switchboard-plug-printers) | 0 | 359 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f30/package/switchboard-plug-sharing) | 0 | 140 | 0.0 | none | 
+ | [switchboard-plug-sound](/f30/package/switchboard-plug-sound) | 0 | 142 | 0.0 |  | 
+ | [sympa](/f30/package/sympa) | 0 | 22053 | 0.0 | Lingua Latina | 
+ | [vocal](/f30/package/vocal) | 0 | 377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f30/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f30/package/wingpanel-applications-menu) | 0 | 261 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f30/package/wingpanel-indicator-bluetooth) | 0 | 27 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f30/package/wingpanel-indicator-datetime) | 0 | 101 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f30/package/wingpanel-indicator-keyboard) | 0 | 24 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f30/package/wingpanel-indicator-network) | 0 | 97 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f30/package/wingpanel-indicator-nightlight) | 0 | 30 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f30/package/wingpanel-indicator-notifications) | 0 | 38 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f30/package/wingpanel-indicator-power) | 0 | 112 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f30/package/wingpanel-indicator-session) | 0 | 81 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f30/package/wingpanel-indicator-sound) | 0 | 44 | 0.0 | none | 
 {.sortable}
 
 

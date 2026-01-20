@@ -18,8 +18,8 @@ The package fcitx-libpinyin (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f17/fcitx-libpinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f17/fcitx-libpinyin/po/zh_TW.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 105 | 105 | 100.0 | /mnt/stockage/packages/f17/fcitx-libpinyin/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 105 | 105 | 100.0 | /mnt/stockage/packages/f17/fcitx-libpinyin/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package speedtest (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/it.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/nl.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/oc.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/ru.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 36 | 36 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/tr.po | 
+ | [fr](/f40/language/fr) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/fr.po | 
+ | [it](/f40/language/it) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/it.po | 
+ | [nl](/f40/language/nl) | 48 | 48 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/nl.po | 
+ | [oc](/f40/language/oc) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/oc.po | 
+ | [pl](/f40/language/pl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/pl.po | 
+ | [ru](/f40/language/ru) | 36 | 36 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/ru.po | 
+ | [tr](/f40/language/tr) | 36 | 36 | 100.0 | /mnt/stockage/packages/f40/speedtest/po/tr.po | 
 {.sortable}
 
 

@@ -18,74 +18,74 @@ The package pessulus (version 2.24.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ar.po | 
- | [as]({{< ref "/f10/language/as.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/as.po | 
- | [bal]({{< ref "/f10/language/bal.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bal.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/be.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/be@latin.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/gu.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/he.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/hi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ja.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ka.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/kn.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ml.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/mn.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/nn.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/oc.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pl.po | 
- | [ps]({{< ref "/f10/language/ps.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ps.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/te.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/zh_HK.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 76 | 84 | 90.5 | /mnt/stockage/packages/f10/pessulus/po/id.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 9 | 88 | 10.2 | /mnt/stockage/packages/f10/pessulus/po/ku.po | 
+ | [ar](/f10/language/ar) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ar.po | 
+ | [as](/f10/language/as) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/as.po | 
+ | [bal](/f10/language/bal) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bal.po | 
+ | [be](/f10/language/be) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/be.po | 
+ | [be_Latn](/f10/language/be_Latn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/be@latin.po | 
+ | [bg](/f10/language/bg) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bg.po | 
+ | [bn](/f10/language/bn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ca.po | 
+ | [cs](/f10/language/cs) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/cs.po | 
+ | [cy](/f10/language/cy) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/cy.po | 
+ | [da](/f10/language/da) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/da.po | 
+ | [de](/f10/language/de) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/de.po | 
+ | [dz](/f10/language/dz) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/dz.po | 
+ | [el](/f10/language/el) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/en_GB.po | 
+ | [es](/f10/language/es) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/es.po | 
+ | [et](/f10/language/et) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/et.po | 
+ | [eu](/f10/language/eu) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/eu.po | 
+ | [fi](/f10/language/fi) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/fi.po | 
+ | [fr](/f10/language/fr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/fr.po | 
+ | [gl](/f10/language/gl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/gl.po | 
+ | [gu](/f10/language/gu) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/gu.po | 
+ | [he](/f10/language/he) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/he.po | 
+ | [hi](/f10/language/hi) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/hi.po | 
+ | [hu](/f10/language/hu) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/hu.po | 
+ | [it](/f10/language/it) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/it.po | 
+ | [ja](/f10/language/ja) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ja.po | 
+ | [ka](/f10/language/ka) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ka.po | 
+ | [kn](/f10/language/kn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/kn.po | 
+ | [ko](/f10/language/ko) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ko.po | 
+ | [lt](/f10/language/lt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/lt.po | 
+ | [lv](/f10/language/lv) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/lv.po | 
+ | [mk](/f10/language/mk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/mk.po | 
+ | [ml](/f10/language/ml) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ml.po | 
+ | [mn](/f10/language/mn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/mn.po | 
+ | [mr](/f10/language/mr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/nb.po | 
+ | [ne](/f10/language/ne) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ne.po | 
+ | [nl](/f10/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/nl.po | 
+ | [nn](/f10/language/nn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/nn.po | 
+ | [oc](/f10/language/oc) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/oc.po | 
+ | [or](/f10/language/or) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/or.po | 
+ | [pa](/f10/language/pa) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pa.po | 
+ | [pl](/f10/language/pl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pl.po | 
+ | [ps](/f10/language/ps) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ps.po | 
+ | [pt](/f10/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ro.po | 
+ | [ru](/f10/language/ru) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ru.po | 
+ | [sk](/f10/language/sk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sk.po | 
+ | [sl](/f10/language/sl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sl.po | 
+ | [sq](/f10/language/sq) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sq.po | 
+ | [sr](/f10/language/sr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/sv.po | 
+ | [ta](/f10/language/ta) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/ta.po | 
+ | [te](/f10/language/te) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/te.po | 
+ | [th](/f10/language/th) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/th.po | 
+ | [tr](/f10/language/tr) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/tr.po | 
+ | [uk](/f10/language/uk) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/uk.po | 
+ | [vi](/f10/language/vi) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 88 | 88 | 100.0 | /mnt/stockage/packages/f10/pessulus/po/zh_HK.po | 
+ | [id](/f10/language/id) | 76 | 84 | 90.5 | /mnt/stockage/packages/f10/pessulus/po/id.po | 
+ | [ku](/f10/language/ku) | 9 | 88 | 10.2 | /mnt/stockage/packages/f10/pessulus/po/ku.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package frogr (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f15/frogr/help/cs/cs.po/mnt/stockage/packages/f15/frogr/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f15/frogr/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f15/frogr/help/de/de.po/mnt/stockage/packages/f15/frogr/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f15/frogr/po/el.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f15/frogr/help/es/es.po/mnt/stockage/packages/f15/frogr/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f15/frogr/help/fr/fr.po/mnt/stockage/packages/f15/frogr/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f15/frogr/po/gl.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f15/frogr/po/it.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f15/frogr/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f15/frogr/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 817 | 817 | 100.0 | /mnt/stockage/packages/f15/frogr/help/ru/ru.po/mnt/stockage/packages/f15/frogr/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f15/frogr/help/sl/sl.po/mnt/stockage/packages/f15/frogr/po/sl.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f15/frogr/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 471 | 471 | 100.0 | /mnt/stockage/packages/f15/frogr/po/uk.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 361 | 363 | 99.4 | /mnt/stockage/packages/f15/frogr/po/zh_CN.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 459 | 668 | 68.7 | /mnt/stockage/packages/f15/frogr/help/en_GB/en_GB.po/mnt/stockage/packages/f15/frogr/po/en_GB.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 163 | 403 | 40.4 | /mnt/stockage/packages/f15/frogr/po/sv.po | 
+ | [cs](/f15/language/cs) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f15/frogr/help/cs/cs.po/mnt/stockage/packages/f15/frogr/po/cs.po | 
+ | [da](/f15/language/da) | 471 | 471 | 100.0 | /mnt/stockage/packages/f15/frogr/po/da.po | 
+ | [de](/f15/language/de) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f15/frogr/help/de/de.po/mnt/stockage/packages/f15/frogr/po/de.po | 
+ | [el](/f15/language/el) | 403 | 403 | 100.0 | /mnt/stockage/packages/f15/frogr/po/el.po | 
+ | [es](/f15/language/es) | 1111 | 1111 | 100.0 | /mnt/stockage/packages/f15/frogr/help/es/es.po/mnt/stockage/packages/f15/frogr/po/es.po | 
+ | [fr](/f15/language/fr) | 871 | 871 | 100.0 | /mnt/stockage/packages/f15/frogr/help/fr/fr.po/mnt/stockage/packages/f15/frogr/po/fr.po | 
+ | [gl](/f15/language/gl) | 403 | 403 | 100.0 | /mnt/stockage/packages/f15/frogr/po/gl.po | 
+ | [it](/f15/language/it) | 347 | 347 | 100.0 | /mnt/stockage/packages/f15/frogr/po/it.po | 
+ | [pl](/f15/language/pl) | 363 | 363 | 100.0 | /mnt/stockage/packages/f15/frogr/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 471 | 471 | 100.0 | /mnt/stockage/packages/f15/frogr/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 817 | 817 | 100.0 | /mnt/stockage/packages/f15/frogr/help/ru/ru.po/mnt/stockage/packages/f15/frogr/po/ru.po | 
+ | [sl](/f15/language/sl) | 871 | 871 | 100.0 | /mnt/stockage/packages/f15/frogr/help/sl/sl.po/mnt/stockage/packages/f15/frogr/po/sl.po | 
+ | [tr](/f15/language/tr) | 403 | 403 | 100.0 | /mnt/stockage/packages/f15/frogr/po/tr.po | 
+ | [uk](/f15/language/uk) | 471 | 471 | 100.0 | /mnt/stockage/packages/f15/frogr/po/uk.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 361 | 363 | 99.4 | /mnt/stockage/packages/f15/frogr/po/zh_CN.po | 
+ | [en_GB](/f15/language/en_GB) | 459 | 668 | 68.7 | /mnt/stockage/packages/f15/frogr/help/en_GB/en_GB.po/mnt/stockage/packages/f15/frogr/po/en_GB.po | 
+ | [sv](/f15/language/sv) | 163 | 403 | 40.4 | /mnt/stockage/packages/f15/frogr/po/sv.po | 
 {.sortable}
 
 

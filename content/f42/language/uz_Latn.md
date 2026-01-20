@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [thunar-media-tags-plugin]({{< ref "/f42/package/thunar-media-tags-plugin.md" >}}) | 154 | 158 | 97.5 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
- | [xfce4-battery-plugin]({{< ref "/f42/package/xfce4-battery-plugin.md" >}}) | 143 | 148 | 96.6 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
- | [thunar-archive-plugin]({{< ref "/f42/package/thunar-archive-plugin.md" >}}) | 84 | 88 | 95.5 | Uzbek (Latin) (http://app.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
- | [garcon]({{< ref "/f42/package/garcon.md" >}}) | 106 | 139 | 76.3 | Uzbek (Latin) (http://app.transifex.com/xfce/garcon/language/uz@Latn/) | 
- | [uget]({{< ref "/f42/package/uget.md" >}}) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
- | [modem-manager-gui]({{< ref "/f42/package/modem-manager-gui.md" >}}) | 1154 | 3264 | 35.4 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
- | [xfce4-xkb-plugin]({{< ref "/f42/package/xfce4-xkb-plugin.md" >}}) | 34 | 114 | 29.8 | Uzbek (Latin) (http://app.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
- | [synfig]({{< ref "/f42/package/synfig.md" >}}) | 58 | 4879 | 1.2 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz@Latn/) | 
- | [manafirewall]({{< ref "/f42/package/manafirewall.md" >}}) | 2 | 1097 | 0.2 | Uzbek (Latin) (https://www.transifex.com/MageiaLinux/teams/9361/uz@Latn/) | 
- | [synfigstudio]({{< ref "/f42/package/synfigstudio.md" >}}) | 7 | 7371 | 0.1 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz@Latn/) | 
- | [calibre]({{< ref "/f42/package/calibre.md" >}}) | 21 | 170967 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
- | [mate-menu]({{< ref "/f42/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Uzbek (Latin) (http://www.transifex.com/mate/MATE/language/uz@Latn/) | 
- | [mate-themes]({{< ref "/f42/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Uzbek (Latin) (http://app.transifex.com/mate/MATE/language/uz@Latn/) | 
- | [speedcrunch]({{< ref "/f42/package/speedcrunch.md" >}}) | 0 | 93 | 0.0 | Uzbek (Latin) (http://www.transifex.com/heldercorreia/speedcrunch/language/uz@Latn/) | 
+ | [thunar-media-tags-plugin](/f42/package/thunar-media-tags-plugin) | 154 | 158 | 97.5 | Uzbek (Latin) (http://www.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
+ | [xfce4-battery-plugin](/f42/package/xfce4-battery-plugin) | 143 | 148 | 96.6 | Uzbek (Latin) (http://www.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
+ | [thunar-archive-plugin](/f42/package/thunar-archive-plugin) | 84 | 88 | 95.5 | Uzbek (Latin) (http://app.transifex.com/xfce/thunar-plugins/language/uz@Latn/) | 
+ | [garcon](/f42/package/garcon) | 106 | 139 | 76.3 | Uzbek (Latin) (http://app.transifex.com/xfce/garcon/language/uz@Latn/) | 
+ | [uget](/f42/package/uget) | 721 | 1085 | 66.5 | Uzbek (Latin) (http://www.transifex.com/uget/uget/language/uz@Latn/) | 
+ | [modem-manager-gui](/f42/package/modem-manager-gui) | 1154 | 3264 | 35.4 | Uzbek (Latin) (http://www.transifex.com/ethereal/modem-manager-gui/language/uz@Latn/) | 
+ | [xfce4-xkb-plugin](/f42/package/xfce4-xkb-plugin) | 34 | 114 | 29.8 | Uzbek (Latin) (http://app.transifex.com/xfce/xfce-panel-plugins/language/uz@Latn/) | 
+ | [synfig](/f42/package/synfig) | 58 | 4879 | 1.2 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz@Latn/) | 
+ | [manafirewall](/f42/package/manafirewall) | 2 | 1097 | 0.2 | Uzbek (Latin) (https://www.transifex.com/MageiaLinux/teams/9361/uz@Latn/) | 
+ | [synfigstudio](/f42/package/synfigstudio) | 7 | 7371 | 0.1 | Uzbek (Latin) (http://www.transifex.com/morevnaproject/synfig/language/uz@Latn/) | 
+ | [calibre](/f42/package/calibre) | 21 | 170967 | 0.0 | Uzbek (Latin) (http://www.transifex.com/calibre/calibre/language/uz@Latn/) | 
+ | [mate-menu](/f42/package/mate-menu) | 0 | 308 | 0.0 | Uzbek (Latin) (http://www.transifex.com/mate/MATE/language/uz@Latn/) | 
+ | [mate-themes](/f42/package/mate-themes) | 0 | 74 | 0.0 | Uzbek (Latin) (http://app.transifex.com/mate/MATE/language/uz@Latn/) | 
+ | [speedcrunch](/f42/package/speedcrunch) | 0 | 93 | 0.0 | Uzbek (Latin) (http://www.transifex.com/heldercorreia/speedcrunch/language/uz@Latn/) | 
 {.sortable}
 
 

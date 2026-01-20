@@ -18,8 +18,8 @@ The package fcitx-ui-light (version 0.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f32/fcitx-ui-light/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 0 | 121 | 0.0 | /mnt/stockage/packages/f32/fcitx-ui-light/po/zh_TW.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 121 | 121 | 100.0 | /mnt/stockage/packages/f32/fcitx-ui-light/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 0 | 121 | 0.0 | /mnt/stockage/packages/f32/fcitx-ui-light/po/zh_TW.po | 
 {.sortable}
 
 

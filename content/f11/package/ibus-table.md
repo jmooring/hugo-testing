@@ -18,9 +18,9 @@ The package ibus-table (version 1.2.0.20091014):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 85 | 87 | 97.7 | /mnt/stockage/packages/f11/ibus-table/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 85 | 87 | 97.7 | /mnt/stockage/packages/f11/ibus-table/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f11/language/zh_Hant_HK.md" >}}) | 85 | 87 | 97.7 | /mnt/stockage/packages/f11/ibus-table/po/zh_HK.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 85 | 87 | 97.7 | /mnt/stockage/packages/f11/ibus-table/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 85 | 87 | 97.7 | /mnt/stockage/packages/f11/ibus-table/po/zh_TW.po | 
+ | [zh_Hant_HK](/f11/language/zh_Hant_HK) | 85 | 87 | 97.7 | /mnt/stockage/packages/f11/ibus-table/po/zh_HK.po | 
 {.sortable}
 
 

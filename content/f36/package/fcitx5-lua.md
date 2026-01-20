@@ -18,13 +18,13 @@ The package fcitx5-lua (version 5.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f36/language/da.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/da.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/fr.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/zh_TW.po | 
+ | [da](/f36/language/da) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/da.po | 
+ | [fr](/f36/language/fr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/fr.po | 
+ | [ja](/f36/language/ja) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/ja.po | 
+ | [ko](/f36/language/ko) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/ko.po | 
+ | [ru](/f36/language/ru) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 13 | 13 | 100.0 | /mnt/stockage/packages/f36/fcitx5-lua/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,42 +18,42 @@ The package NetworkManager-openconnect (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f12/language/as.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/as.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/bg.po | 
- | [bn_IN]({{< ref "/f12/language/bn_IN.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/bn_IN.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/es.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/et.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/eu.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/gl.po | 
- | [gu]({{< ref "/f12/language/gu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/gu.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/hu.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/it.po | 
- | [kn]({{< ref "/f12/language/kn.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/kn.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/lt.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/lv.po | 
- | [mr]({{< ref "/f12/language/mr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/mr.po | 
- | [or]({{< ref "/f12/language/or.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/or.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pa.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/ru.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/sl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/sv.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/ta.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/te.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/uk.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 32 | 53 | 60.4 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/nb.po | 
+ | [as](/f12/language/as) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/as.po | 
+ | [bg](/f12/language/bg) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/bg.po | 
+ | [bn_IN](/f12/language/bn_IN) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/bn_IN.po | 
+ | [ca](/f12/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/ca.po | 
+ | [cs](/f12/language/cs) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/cs.po | 
+ | [da](/f12/language/da) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/da.po | 
+ | [de](/f12/language/de) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/de.po | 
+ | [el](/f12/language/el) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/el.po | 
+ | [es](/f12/language/es) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/es.po | 
+ | [et](/f12/language/et) | 48 | 48 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/et.po | 
+ | [eu](/f12/language/eu) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/eu.po | 
+ | [fr](/f12/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/fr.po | 
+ | [gl](/f12/language/gl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/gl.po | 
+ | [gu](/f12/language/gu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/gu.po | 
+ | [hu](/f12/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/hu.po | 
+ | [id](/f12/language/id) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/id.po | 
+ | [it](/f12/language/it) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/it.po | 
+ | [kn](/f12/language/kn) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/kn.po | 
+ | [lt](/f12/language/lt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/lt.po | 
+ | [lv](/f12/language/lv) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/lv.po | 
+ | [mr](/f12/language/mr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/mr.po | 
+ | [or](/f12/language/or) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/or.po | 
+ | [pa](/f12/language/pa) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pa.po | 
+ | [pl](/f12/language/pl) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pl.po | 
+ | [pt](/f12/language/pt) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/ru.po | 
+ | [sl](/f12/language/sl) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/sl.po | 
+ | [sv](/f12/language/sv) | 53 | 53 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/sv.po | 
+ | [ta](/f12/language/ta) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/ta.po | 
+ | [te](/f12/language/te) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/te.po | 
+ | [uk](/f12/language/uk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/uk.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/zh_CN.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 52 | 52 | 100.0 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/zh_HK.po | 
+ | [nb_NO](/f12/language/nb_NO) | 32 | 53 | 60.4 | /mnt/stockage/packages/f12/NetworkManager-openconnect/po/nb.po | 
 {.sortable}
 
 

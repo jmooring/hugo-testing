@@ -18,30 +18,30 @@ The package xfce4-dict (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/eu.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/fr.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/gl.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/id.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/ja.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/pt_BR.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/sv.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/tr.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/uk.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 379 | 386 | 98.2 | /mnt/stockage/packages/f12/xfce4-dict/po/pl.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 348 | 386 | 90.2 | /mnt/stockage/packages/f12/xfce4-dict/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 346 | 386 | 89.6 | /mnt/stockage/packages/f12/xfce4-dict/po/nl.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 197 | 386 | 51.0 | /mnt/stockage/packages/f12/xfce4-dict/po/hu.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 194 | 386 | 50.3 | /mnt/stockage/packages/f12/xfce4-dict/po/zh_CN.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 189 | 386 | 49.0 | /mnt/stockage/packages/f12/xfce4-dict/po/en_GB.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 67 | 386 | 17.4 | /mnt/stockage/packages/f12/xfce4-dict/po/lv.po | 
- | [ur]({{< ref "/f12/language/ur.md" >}}) | 67 | 386 | 17.4 | /mnt/stockage/packages/f12/xfce4-dict/po/ur.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 0 | 386 | 0.0 | /mnt/stockage/packages/f12/xfce4-dict/po/ar.po | 
+ | [ca](/f12/language/ca) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/ca.po | 
+ | [cs](/f12/language/cs) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/cs.po | 
+ | [da](/f12/language/da) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/da.po | 
+ | [de](/f12/language/de) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/de.po | 
+ | [es](/f12/language/es) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/es.po | 
+ | [eu](/f12/language/eu) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/eu.po | 
+ | [fr](/f12/language/fr) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/fr.po | 
+ | [gl](/f12/language/gl) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/gl.po | 
+ | [id](/f12/language/id) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/id.po | 
+ | [ja](/f12/language/ja) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/ja.po | 
+ | [pt](/f12/language/pt) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/pt_BR.po | 
+ | [sv](/f12/language/sv) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/sv.po | 
+ | [tr](/f12/language/tr) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/tr.po | 
+ | [uk](/f12/language/uk) | 386 | 386 | 100.0 | /mnt/stockage/packages/f12/xfce4-dict/po/uk.po | 
+ | [pl](/f12/language/pl) | 379 | 386 | 98.2 | /mnt/stockage/packages/f12/xfce4-dict/po/pl.po | 
+ | [nb_NO](/f12/language/nb_NO) | 348 | 386 | 90.2 | /mnt/stockage/packages/f12/xfce4-dict/po/nb.po | 
+ | [nl](/f12/language/nl) | 346 | 386 | 89.6 | /mnt/stockage/packages/f12/xfce4-dict/po/nl.po | 
+ | [hu](/f12/language/hu) | 197 | 386 | 51.0 | /mnt/stockage/packages/f12/xfce4-dict/po/hu.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 194 | 386 | 50.3 | /mnt/stockage/packages/f12/xfce4-dict/po/zh_CN.po | 
+ | [en_GB](/f12/language/en_GB) | 189 | 386 | 49.0 | /mnt/stockage/packages/f12/xfce4-dict/po/en_GB.po | 
+ | [lv](/f12/language/lv) | 67 | 386 | 17.4 | /mnt/stockage/packages/f12/xfce4-dict/po/lv.po | 
+ | [ur](/f12/language/ur) | 67 | 386 | 17.4 | /mnt/stockage/packages/f12/xfce4-dict/po/ur.po | 
+ | [ar](/f12/language/ar) | 0 | 386 | 0.0 | /mnt/stockage/packages/f12/xfce4-dict/po/ar.po | 
 {.sortable}
 
 

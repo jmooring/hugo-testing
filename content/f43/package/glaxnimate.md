@@ -18,31 +18,31 @@ The package glaxnimate (version 0.5.80):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ca/glaxnimate.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ca@valencia/glaxnimate.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/en_GB/glaxnimate.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/eo/glaxnimate.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/es/glaxnimate.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/eu/glaxnimate.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/fr/glaxnimate.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/gl/glaxnimate.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/it/glaxnimate.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ka/glaxnimate.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/nl/glaxnimate.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/pl/glaxnimate.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ru/glaxnimate.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/sl/glaxnimate.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/sv/glaxnimate.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/tr/glaxnimate.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/uk/glaxnimate.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 2108 | 3571 | 59.0 | /mnt/stockage/packages/f43/glaxnimate/po/zh_TW/glaxnimate.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 1787 | 3571 | 50.0 | /mnt/stockage/packages/f43/glaxnimate/po/zh_CN/glaxnimate.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 725 | 3571 | 20.3 | /mnt/stockage/packages/f43/glaxnimate/po/cs/glaxnimate.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 628 | 3571 | 17.6 | /mnt/stockage/packages/f43/glaxnimate/po/ar/glaxnimate.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 298 | 3571 | 8.3 | /mnt/stockage/packages/f43/glaxnimate/po/sk/glaxnimate.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 68 | 3571 | 1.9 | /mnt/stockage/packages/f43/glaxnimate/po/pt_BR/glaxnimate.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 0 | 3571 | 0.0 | /mnt/stockage/packages/f43/glaxnimate/po/de/glaxnimate.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 3571 | 0.0 | /mnt/stockage/packages/f43/glaxnimate/po/ja/glaxnimate.po | 
+ | [ca](/f43/language/ca) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ca/glaxnimate.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ca@valencia/glaxnimate.po | 
+ | [en_GB](/f43/language/en_GB) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/en_GB/glaxnimate.po | 
+ | [eo](/f43/language/eo) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/eo/glaxnimate.po | 
+ | [es](/f43/language/es) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/es/glaxnimate.po | 
+ | [eu](/f43/language/eu) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/eu/glaxnimate.po | 
+ | [fr](/f43/language/fr) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/fr/glaxnimate.po | 
+ | [gl](/f43/language/gl) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/gl/glaxnimate.po | 
+ | [it](/f43/language/it) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/it/glaxnimate.po | 
+ | [ka](/f43/language/ka) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ka/glaxnimate.po | 
+ | [nl](/f43/language/nl) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/nl/glaxnimate.po | 
+ | [pl](/f43/language/pl) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/pl/glaxnimate.po | 
+ | [ru](/f43/language/ru) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/ru/glaxnimate.po | 
+ | [sl](/f43/language/sl) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/sl/glaxnimate.po | 
+ | [sv](/f43/language/sv) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/sv/glaxnimate.po | 
+ | [tr](/f43/language/tr) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/tr/glaxnimate.po | 
+ | [uk](/f43/language/uk) | 3571 | 3571 | 100.0 | /mnt/stockage/packages/f43/glaxnimate/po/uk/glaxnimate.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 2108 | 3571 | 59.0 | /mnt/stockage/packages/f43/glaxnimate/po/zh_TW/glaxnimate.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 1787 | 3571 | 50.0 | /mnt/stockage/packages/f43/glaxnimate/po/zh_CN/glaxnimate.po | 
+ | [cs](/f43/language/cs) | 725 | 3571 | 20.3 | /mnt/stockage/packages/f43/glaxnimate/po/cs/glaxnimate.po | 
+ | [ar](/f43/language/ar) | 628 | 3571 | 17.6 | /mnt/stockage/packages/f43/glaxnimate/po/ar/glaxnimate.po | 
+ | [sk](/f43/language/sk) | 298 | 3571 | 8.3 | /mnt/stockage/packages/f43/glaxnimate/po/sk/glaxnimate.po | 
+ | [pt_BR](/f43/language/pt_BR) | 68 | 3571 | 1.9 | /mnt/stockage/packages/f43/glaxnimate/po/pt_BR/glaxnimate.po | 
+ | [de](/f43/language/de) | 0 | 3571 | 0.0 | /mnt/stockage/packages/f43/glaxnimate/po/de/glaxnimate.po | 
+ | [ja](/f43/language/ja) | 0 | 3571 | 0.0 | /mnt/stockage/packages/f43/glaxnimate/po/ja/glaxnimate.po | 
 {.sortable}
 
 

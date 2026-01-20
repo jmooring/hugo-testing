@@ -18,13 +18,13 @@ The package gentoo (version 0.19.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 2116 | 2116 | 100.0 | /mnt/stockage/packages/f15/gentoo/po/sv.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1624 | 2116 | 76.7 | /mnt/stockage/packages/f15/gentoo/po/pl.po | 
- | [es_MX]({{< ref "/f15/language/es_MX.md" >}}) | 1544 | 2116 | 73.0 | /mnt/stockage/packages/f15/gentoo/po/es_MX.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1523 | 2116 | 72.0 | /mnt/stockage/packages/f15/gentoo/po/it.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 9830 | 14812 | 66.4 | /mnt/stockage/packages/f15/gentoo/po/ja_JP.UTF-8.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.CP1251.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.koi8r.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.UTF-8.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.KOI8-R.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.cp1251.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.utf8.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 1313 | 2116 | 62.1 | /mnt/stockage/packages/f15/gentoo/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1105 | 2116 | 52.2 | /mnt/stockage/packages/f15/gentoo/po/fr.po | 
+ | [sv](/f15/language/sv) | 2116 | 2116 | 100.0 | /mnt/stockage/packages/f15/gentoo/po/sv.po | 
+ | [pl](/f15/language/pl) | 1624 | 2116 | 76.7 | /mnt/stockage/packages/f15/gentoo/po/pl.po | 
+ | [es_MX](/f15/language/es_MX) | 1544 | 2116 | 73.0 | /mnt/stockage/packages/f15/gentoo/po/es_MX.po | 
+ | [it](/f15/language/it) | 1523 | 2116 | 72.0 | /mnt/stockage/packages/f15/gentoo/po/it.po | 
+ | [error](/f15/language/error) | 9830 | 14812 | 66.4 | /mnt/stockage/packages/f15/gentoo/po/ja_JP.UTF-8.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.CP1251.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.koi8r.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.UTF-8.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.KOI8-R.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.cp1251.po/mnt/stockage/packages/f15/gentoo/po/ru_RU.utf8.po | 
+ | [de](/f15/language/de) | 1313 | 2116 | 62.1 | /mnt/stockage/packages/f15/gentoo/po/de.po | 
+ | [fr](/f15/language/fr) | 1105 | 2116 | 52.2 | /mnt/stockage/packages/f15/gentoo/po/fr.po | 
 {.sortable}
 
 

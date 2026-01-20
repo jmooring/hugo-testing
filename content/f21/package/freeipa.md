@@ -18,24 +18,24 @@ The package freeipa (version 4.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/bn_IN.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/ca.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 2171 | 2171 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 6477 | 6477 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/es.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/eu.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 17077 | 17077 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/fr.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 93 | 93 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/hi.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/hu.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/id.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/ja.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 718 | 718 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/kn.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1843 | 1843 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/pl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/ru.po | 
- | [tg]({{< ref "/f21/language/tg.md" >}}) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/tg.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 20636 | 20636 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/uk.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/zh_CN.po | 
+ | [bn_IN](/f21/language/bn_IN) | 34 | 34 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/bn_IN.po | 
+ | [ca](/f21/language/ca) | 253 | 253 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/ca.po | 
+ | [cs](/f21/language/cs) | 5 | 5 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/cs.po | 
+ | [de](/f21/language/de) | 2171 | 2171 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/de.po | 
+ | [es](/f21/language/es) | 6477 | 6477 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/es.po | 
+ | [eu](/f21/language/eu) | 373 | 373 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/eu.po | 
+ | [fr](/f21/language/fr) | 17077 | 17077 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/fr.po | 
+ | [hi](/f21/language/hi) | 93 | 93 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/hi.po | 
+ | [hu](/f21/language/hu) | 141 | 141 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/hu.po | 
+ | [id](/f21/language/id) | 313 | 313 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/id.po | 
+ | [ja](/f21/language/ja) | 423 | 423 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/ja.po | 
+ | [kn](/f21/language/kn) | 718 | 718 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/kn.po | 
+ | [nl](/f21/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/nl.po | 
+ | [pl](/f21/language/pl) | 1843 | 1843 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/pl.po | 
+ | [ru](/f21/language/ru) | 1027 | 1027 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/ru.po | 
+ | [tg](/f21/language/tg) | 150 | 150 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/tg.po | 
+ | [uk](/f21/language/uk) | 20636 | 20636 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/uk.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 316 | 316 | 100.0 | /mnt/stockage/packages/f21/freeipa/install/po/zh_CN.po | 
 {.sortable}
 
 

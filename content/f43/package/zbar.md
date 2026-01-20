@@ -18,7 +18,7 @@ The package zbar (version 0.23.93):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 218 | 324 | 67.3 | /mnt/stockage/packages/f43/zbar/po/pt_BR.po | 
+ | [pt_BR](/f43/language/pt_BR) | 218 | 324 | 67.3 | /mnt/stockage/packages/f43/zbar/po/pt_BR.po | 
 {.sortable}
 
 

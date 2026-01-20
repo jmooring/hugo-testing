@@ -18,80 +18,80 @@ The package libvirt (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f7/language/es.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/ja.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/ml.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/mr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/pt_BR.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/sr.po | 
- | [sr_Latn]({{< ref "/f7/language/sr_Latn.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/sr@latin.po | 
- | [te]({{< ref "/f7/language/te.md" >}}) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/te.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 2314 | 2337 | 99.0 | /mnt/stockage/packages/f7/libvirt/po/zh_CN.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 2306 | 2337 | 98.7 | /mnt/stockage/packages/f7/libvirt/po/de.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 2306 | 2337 | 98.7 | /mnt/stockage/packages/f7/libvirt/po/gu.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 2297 | 2337 | 98.3 | /mnt/stockage/packages/f7/libvirt/po/sr@Latn.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 2297 | 2337 | 98.3 | /mnt/stockage/packages/f7/libvirt/po/hr.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/bg.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/bn_IN.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/cs.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/hi.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/ko.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/or.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/pa.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/uk.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 2249 | 2337 | 96.2 | /mnt/stockage/packages/f7/libvirt/po/ca.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 2187 | 2337 | 93.6 | /mnt/stockage/packages/f7/libvirt/po/fi.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2143 | 2337 | 91.7 | /mnt/stockage/packages/f7/libvirt/po/sv.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 2092 | 2337 | 89.5 | /mnt/stockage/packages/f7/libvirt/po/mk.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 1906 | 2337 | 81.6 | /mnt/stockage/packages/f7/libvirt/po/ta.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1879 | 2337 | 80.4 | /mnt/stockage/packages/f7/libvirt/po/en_GB.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 1708 | 2337 | 73.1 | /mnt/stockage/packages/f7/libvirt/po/da.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1708 | 2337 | 73.1 | /mnt/stockage/packages/f7/libvirt/po/hu.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1708 | 2337 | 73.1 | /mnt/stockage/packages/f7/libvirt/po/ru.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1606 | 2337 | 68.7 | /mnt/stockage/packages/f7/libvirt/po/zh_TW.po | 
- | [kn]({{< ref "/f7/language/kn.md" >}}) | 1472 | 2337 | 63.0 | /mnt/stockage/packages/f7/libvirt/po/kn.po | 
- | [af]({{< ref "/f7/language/af.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/af.po | 
- | [am]({{< ref "/f7/language/am.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/am.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ar.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/be.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/bn.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/cy.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/el.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/et.po | 
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/eu_ES.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/fa.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/gl.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/he.po | 
- | [hy]({{< ref "/f7/language/hy.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/hy.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/is.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ka.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ku.po | 
- | [lo]({{< ref "/f7/language/lo.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/lo.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/lt.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/lv.po | 
- | [my]({{< ref "/f7/language/my.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/my.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/nn.po | 
- | [nso]({{< ref "/f7/language/nso.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/nso.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ro.po | 
- | [si]({{< ref "/f7/language/si.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/si.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/sl.po | 
- | [sq]({{< ref "/f7/language/sq.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/sq.po | 
- | [th]({{< ref "/f7/language/th.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/th.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/tr.po | 
- | [ur]({{< ref "/f7/language/ur.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ur.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/vi.po | 
- | [zu]({{< ref "/f7/language/zu.md" >}}) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/zu.po | 
- | [bs]({{< ref "/f7/language/bs.md" >}}) | 1288 | 2337 | 55.1 | /mnt/stockage/packages/f7/libvirt/po/bs.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 1170 | 2337 | 50.1 | /mnt/stockage/packages/f7/libvirt/po/id.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1939 | 4674 | 41.5 | /mnt/stockage/packages/f7/libvirt/po/nb.po/mnt/stockage/packages/f7/libvirt/po/no.po | 
- | [as]({{< ref "/f7/language/as.md" >}}) | 419 | 2337 | 17.9 | /mnt/stockage/packages/f7/libvirt/po/as.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 403 | 2337 | 17.2 | /mnt/stockage/packages/f7/libvirt/po/nl.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 177 | 2337 | 7.6 | /mnt/stockage/packages/f7/libvirt/po/ms.po | 
+ | [es](/f7/language/es) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/es.po | 
+ | [fr](/f7/language/fr) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/fr.po | 
+ | [it](/f7/language/it) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/it.po | 
+ | [ja](/f7/language/ja) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/ja.po | 
+ | [ml](/f7/language/ml) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/ml.po | 
+ | [mr](/f7/language/mr) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/mr.po | 
+ | [pl](/f7/language/pl) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/pl.po | 
+ | [pt](/f7/language/pt) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/pt_BR.po | 
+ | [sr](/f7/language/sr) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/sr.po | 
+ | [sr_Latn](/f7/language/sr_Latn) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/sr@latin.po | 
+ | [te](/f7/language/te) | 2331 | 2337 | 99.7 | /mnt/stockage/packages/f7/libvirt/po/te.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 2314 | 2337 | 99.0 | /mnt/stockage/packages/f7/libvirt/po/zh_CN.po | 
+ | [de](/f7/language/de) | 2306 | 2337 | 98.7 | /mnt/stockage/packages/f7/libvirt/po/de.po | 
+ | [gu](/f7/language/gu) | 2306 | 2337 | 98.7 | /mnt/stockage/packages/f7/libvirt/po/gu.po | 
+ | [error](/f7/language/error) | 2297 | 2337 | 98.3 | /mnt/stockage/packages/f7/libvirt/po/sr@Latn.po | 
+ | [hr](/f7/language/hr) | 2297 | 2337 | 98.3 | /mnt/stockage/packages/f7/libvirt/po/hr.po | 
+ | [bg](/f7/language/bg) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/bg.po | 
+ | [bn_IN](/f7/language/bn_IN) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/bn_IN.po | 
+ | [cs](/f7/language/cs) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/cs.po | 
+ | [hi](/f7/language/hi) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/hi.po | 
+ | [ko](/f7/language/ko) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/ko.po | 
+ | [or](/f7/language/or) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/or.po | 
+ | [pa](/f7/language/pa) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/pa.po | 
+ | [uk](/f7/language/uk) | 2277 | 2337 | 97.4 | /mnt/stockage/packages/f7/libvirt/po/uk.po | 
+ | [ca](/f7/language/ca) | 2249 | 2337 | 96.2 | /mnt/stockage/packages/f7/libvirt/po/ca.po | 
+ | [fi](/f7/language/fi) | 2187 | 2337 | 93.6 | /mnt/stockage/packages/f7/libvirt/po/fi.po | 
+ | [sv](/f7/language/sv) | 2143 | 2337 | 91.7 | /mnt/stockage/packages/f7/libvirt/po/sv.po | 
+ | [mk](/f7/language/mk) | 2092 | 2337 | 89.5 | /mnt/stockage/packages/f7/libvirt/po/mk.po | 
+ | [ta](/f7/language/ta) | 1906 | 2337 | 81.6 | /mnt/stockage/packages/f7/libvirt/po/ta.po | 
+ | [en_GB](/f7/language/en_GB) | 1879 | 2337 | 80.4 | /mnt/stockage/packages/f7/libvirt/po/en_GB.po | 
+ | [da](/f7/language/da) | 1708 | 2337 | 73.1 | /mnt/stockage/packages/f7/libvirt/po/da.po | 
+ | [hu](/f7/language/hu) | 1708 | 2337 | 73.1 | /mnt/stockage/packages/f7/libvirt/po/hu.po | 
+ | [ru](/f7/language/ru) | 1708 | 2337 | 73.1 | /mnt/stockage/packages/f7/libvirt/po/ru.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1606 | 2337 | 68.7 | /mnt/stockage/packages/f7/libvirt/po/zh_TW.po | 
+ | [kn](/f7/language/kn) | 1472 | 2337 | 63.0 | /mnt/stockage/packages/f7/libvirt/po/kn.po | 
+ | [af](/f7/language/af) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/af.po | 
+ | [am](/f7/language/am) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/am.po | 
+ | [ar](/f7/language/ar) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ar.po | 
+ | [be](/f7/language/be) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/be.po | 
+ | [bn](/f7/language/bn) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/bn.po | 
+ | [cy](/f7/language/cy) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/cy.po | 
+ | [el](/f7/language/el) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/el.po | 
+ | [et](/f7/language/et) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/et.po | 
+ | [eu](/f7/language/eu) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/eu_ES.po | 
+ | [fa](/f7/language/fa) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/fa.po | 
+ | [gl](/f7/language/gl) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/gl.po | 
+ | [he](/f7/language/he) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/he.po | 
+ | [hy](/f7/language/hy) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/hy.po | 
+ | [is](/f7/language/is) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/is.po | 
+ | [ka](/f7/language/ka) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ka.po | 
+ | [ku](/f7/language/ku) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ku.po | 
+ | [lo](/f7/language/lo) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/lo.po | 
+ | [lt](/f7/language/lt) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/lt.po | 
+ | [lv](/f7/language/lv) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/lv.po | 
+ | [my](/f7/language/my) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/my.po | 
+ | [nn](/f7/language/nn) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/nn.po | 
+ | [nso](/f7/language/nso) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/nso.po | 
+ | [ro](/f7/language/ro) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ro.po | 
+ | [si](/f7/language/si) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/si.po | 
+ | [sk](/f7/language/sk) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/sk.po | 
+ | [sl](/f7/language/sl) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/sl.po | 
+ | [sq](/f7/language/sq) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/sq.po | 
+ | [th](/f7/language/th) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/th.po | 
+ | [tr](/f7/language/tr) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/tr.po | 
+ | [ur](/f7/language/ur) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/ur.po | 
+ | [vi](/f7/language/vi) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/vi.po | 
+ | [zu](/f7/language/zu) | 1290 | 2337 | 55.2 | /mnt/stockage/packages/f7/libvirt/po/zu.po | 
+ | [bs](/f7/language/bs) | 1288 | 2337 | 55.1 | /mnt/stockage/packages/f7/libvirt/po/bs.po | 
+ | [id](/f7/language/id) | 1170 | 2337 | 50.1 | /mnt/stockage/packages/f7/libvirt/po/id.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1939 | 4674 | 41.5 | /mnt/stockage/packages/f7/libvirt/po/nb.po/mnt/stockage/packages/f7/libvirt/po/no.po | 
+ | [as](/f7/language/as) | 419 | 2337 | 17.9 | /mnt/stockage/packages/f7/libvirt/po/as.po | 
+ | [nl](/f7/language/nl) | 403 | 2337 | 17.2 | /mnt/stockage/packages/f7/libvirt/po/nl.po | 
+ | [ms](/f7/language/ms) | 177 | 2337 | 7.6 | /mnt/stockage/packages/f7/libvirt/po/ms.po | 
 {.sortable}
 
 

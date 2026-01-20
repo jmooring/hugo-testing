@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [phd2]({{< ref "/f38/package/phd2.md" >}}) | 3534 | 13052 | 27.1 |  | 
+ | [phd2](/f38/package/phd2) | 3534 | 13052 | 27.1 |  | 
 {.sortable}
 
 

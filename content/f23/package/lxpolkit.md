@@ -18,66 +18,66 @@ The package lxpolkit (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [am]({{< ref "/f23/language/am.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/am.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ar.po | 
- | [be]({{< ref "/f23/language/be.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/be.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/bg.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/bn.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/bn_IN.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ca.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/cs.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/el.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/en_GB.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/es.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/fa.po | 
- | [fo]({{< ref "/f23/language/fo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/fo.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/fr.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/gl.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/he.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/hr.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/id.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ja.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/km.po | 
- | [lg]({{< ref "/f23/language/lg.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/lg.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/lt.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/nb.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/pt_BR.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ru.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/si.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sr.po | 
- | [sr_Latn]({{< ref "/f23/language/sr_Latn.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sr@latin.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sv.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/te.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/tr.po | 
- | [tt]({{< ref "/f23/language/tt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/tt_RU.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/vi.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/zh_TW.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 12 | 15 | 80.0 | /mnt/stockage/packages/f23/lxpolkit/po/fi.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/af.po | 
- | [es_VE]({{< ref "/f23/language/es_VE.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/es_VE.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/et.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/eu.po | 
- | [frp]({{< ref "/f23/language/frp.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/frp.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ko.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ml.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ms.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/nn.po | 
- | [ps]({{< ref "/f23/language/ps.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ps.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ro.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/th.po | 
- | [ur]({{< ref "/f23/language/ur.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ur.po | 
- | [ur_PK]({{< ref "/f23/language/ur_PK.md" >}}) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ur_PK.po | 
+ | [am](/f23/language/am) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/am.po | 
+ | [ar](/f23/language/ar) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ar.po | 
+ | [be](/f23/language/be) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/be.po | 
+ | [bg](/f23/language/bg) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/bg.po | 
+ | [bn](/f23/language/bn) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/bn.po | 
+ | [bn_IN](/f23/language/bn_IN) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/bn_IN.po | 
+ | [ca](/f23/language/ca) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ca.po | 
+ | [cs](/f23/language/cs) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/cs.po | 
+ | [da](/f23/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/da.po | 
+ | [de](/f23/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/de.po | 
+ | [el](/f23/language/el) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/el.po | 
+ | [en_GB](/f23/language/en_GB) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/en_GB.po | 
+ | [es](/f23/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/es.po | 
+ | [fa](/f23/language/fa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/fa.po | 
+ | [fo](/f23/language/fo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/fo.po | 
+ | [fr](/f23/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/fr.po | 
+ | [gl](/f23/language/gl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/gl.po | 
+ | [he](/f23/language/he) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/he.po | 
+ | [hr](/f23/language/hr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/hr.po | 
+ | [hu](/f23/language/hu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/hu.po | 
+ | [id](/f23/language/id) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/id.po | 
+ | [it](/f23/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/it.po | 
+ | [ja](/f23/language/ja) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ja.po | 
+ | [km](/f23/language/km) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/km.po | 
+ | [lg](/f23/language/lg) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/lg.po | 
+ | [lt](/f23/language/lt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/lt.po | 
+ | [nb_NO](/f23/language/nb_NO) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/nb.po | 
+ | [nl](/f23/language/nl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/nl.po | 
+ | [pl](/f23/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/pl.po | 
+ | [pt](/f23/language/pt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/pt_BR.po | 
+ | [ru](/f23/language/ru) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/ru.po | 
+ | [si](/f23/language/si) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/si.po | 
+ | [sk](/f23/language/sk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sk.po | 
+ | [sl](/f23/language/sl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sl.po | 
+ | [sr](/f23/language/sr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sr.po | 
+ | [sr_Latn](/f23/language/sr_Latn) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sr@latin.po | 
+ | [sv](/f23/language/sv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/sv.po | 
+ | [te](/f23/language/te) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/te.po | 
+ | [tr](/f23/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/tr.po | 
+ | [tt](/f23/language/tt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/tt_RU.po | 
+ | [uk](/f23/language/uk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/uk.po | 
+ | [vi](/f23/language/vi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/vi.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f23/lxpolkit/po/zh_TW.po | 
+ | [fi](/f23/language/fi) | 12 | 15 | 80.0 | /mnt/stockage/packages/f23/lxpolkit/po/fi.po | 
+ | [af](/f23/language/af) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/af.po | 
+ | [es_VE](/f23/language/es_VE) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/es_VE.po | 
+ | [et](/f23/language/et) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/et.po | 
+ | [eu](/f23/language/eu) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/eu.po | 
+ | [frp](/f23/language/frp) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/frp.po | 
+ | [ko](/f23/language/ko) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ko.po | 
+ | [ml](/f23/language/ml) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ml.po | 
+ | [ms](/f23/language/ms) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ms.po | 
+ | [nn](/f23/language/nn) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/nn.po | 
+ | [ps](/f23/language/ps) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ps.po | 
+ | [ro](/f23/language/ro) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ro.po | 
+ | [th](/f23/language/th) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/th.po | 
+ | [ur](/f23/language/ur) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ur.po | 
+ | [ur_PK](/f23/language/ur_PK) | 0 | 15 | 0.0 | /mnt/stockage/packages/f23/lxpolkit/po/ur_PK.po | 
 {.sortable}
 
 

@@ -38,26 +38,26 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [supertuxkart]({{< ref "/f24/package/supertuxkart.md" >}}) | 2798 | 3180 | 88.0 | Cornish (http://www.transifex.com/supertuxkart/supertuxkart/language/kw/) | 
- | [warmux]({{< ref "/f24/package/warmux.md" >}}) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
- | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [blivet-gui]({{< ref "/f24/package/blivet-gui.md" >}}) | 0 | 1398 | 0.0 | Cornish | 
- | [dnf-plugin-system-upgrade]({{< ref "/f24/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 422 | 0.0 | Cornish (United Kingdom) | 
- | [dnf-plugins-extras]({{< ref "/f24/package/dnf-plugins-extras.md" >}}) | 0 | 750 | 0.0 | Cornish (United Kingdom) | 
- | [docker-anaconda-addon]({{< ref "/f24/package/docker-anaconda-addon.md" >}}) | 0 | 54 | 0.0 | Cornish | 
- | [entangle]({{< ref "/f24/package/entangle.md" >}}) | 0 | 1870 | 0.0 | Cornish | 
- | [initial-setup]({{< ref "/f24/package/initial-setup.md" >}}) | 0 | 62 | 0.0 | Cornish (United Kingdom) | 
- | [libbytesize]({{< ref "/f24/package/libbytesize.md" >}}) | 0 | 34 | 0.0 | Cornish | 
- | [libosinfo]({{< ref "/f24/package/libosinfo.md" >}}) | 0 | 4098 | 0.0 | Cornish (United Kingdom) | 
- | [libvirt-glib]({{< ref "/f24/package/libvirt-glib.md" >}}) | 0 | 290 | 0.0 | Cornish | 
- | [libvirt-sandbox]({{< ref "/f24/package/libvirt-sandbox.md" >}}) | 0 | 1234 | 0.0 | Cornish | 
- | [mingw-libvirt-glib]({{< ref "/f24/package/mingw-libvirt-glib.md" >}}) | 0 | 290 | 0.0 | Cornish | 
- | [pykickstart]({{< ref "/f24/package/pykickstart.md" >}}) | 0 | 2710 | 0.0 | Cornish (United Kingdom) | 
- | [python-blivet]({{< ref "/f24/package/python-blivet.md" >}}) | 0 | 1392 | 0.0 | Cornish (United Kingdom) | 
- | [python-fedora]({{< ref "/f24/package/python-fedora.md" >}}) | 0 | 428 | 0.0 | Cornish (United Kingdom) | 
- | [python-meh]({{< ref "/f24/package/python-meh.md" >}}) | 0 | 218 | 0.0 | Cornish | 
- | [sugar-terminal]({{< ref "/f24/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f24/package/virt-viewer.md" >}}) | 0 | 1502 | 0.0 | Cornish | 
+ | [supertuxkart](/f24/package/supertuxkart) | 2798 | 3180 | 88.0 | Cornish (http://www.transifex.com/supertuxkart/supertuxkart/language/kw/) | 
+ | [warmux](/f24/package/warmux) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [isomaster](/f24/package/isomaster) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [blivet-gui](/f24/package/blivet-gui) | 0 | 1398 | 0.0 | Cornish | 
+ | [dnf-plugin-system-upgrade](/f24/package/dnf-plugin-system-upgrade) | 0 | 422 | 0.0 | Cornish (United Kingdom) | 
+ | [dnf-plugins-extras](/f24/package/dnf-plugins-extras) | 0 | 750 | 0.0 | Cornish (United Kingdom) | 
+ | [docker-anaconda-addon](/f24/package/docker-anaconda-addon) | 0 | 54 | 0.0 | Cornish | 
+ | [entangle](/f24/package/entangle) | 0 | 1870 | 0.0 | Cornish | 
+ | [initial-setup](/f24/package/initial-setup) | 0 | 62 | 0.0 | Cornish (United Kingdom) | 
+ | [libbytesize](/f24/package/libbytesize) | 0 | 34 | 0.0 | Cornish | 
+ | [libosinfo](/f24/package/libosinfo) | 0 | 4098 | 0.0 | Cornish (United Kingdom) | 
+ | [libvirt-glib](/f24/package/libvirt-glib) | 0 | 290 | 0.0 | Cornish | 
+ | [libvirt-sandbox](/f24/package/libvirt-sandbox) | 0 | 1234 | 0.0 | Cornish | 
+ | [mingw-libvirt-glib](/f24/package/mingw-libvirt-glib) | 0 | 290 | 0.0 | Cornish | 
+ | [pykickstart](/f24/package/pykickstart) | 0 | 2710 | 0.0 | Cornish (United Kingdom) | 
+ | [python-blivet](/f24/package/python-blivet) | 0 | 1392 | 0.0 | Cornish (United Kingdom) | 
+ | [python-fedora](/f24/package/python-fedora) | 0 | 428 | 0.0 | Cornish (United Kingdom) | 
+ | [python-meh](/f24/package/python-meh) | 0 | 218 | 0.0 | Cornish | 
+ | [sugar-terminal](/f24/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f24/package/virt-viewer) | 0 | 1502 | 0.0 | Cornish | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package classified-ads (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f24/classified-ads/po/fi.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f24/classified-ads/po/uk.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1757 | 1775 | 99.0 | /mnt/stockage/packages/f24/classified-ads/po/sv.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1774 | 1950 | 91.0 | /mnt/stockage/packages/f24/classified-ads/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1152 | 1950 | 59.1 | /mnt/stockage/packages/f24/classified-ads/po/de.po | 
+ | [fi](/f24/language/fi) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f24/classified-ads/po/fi.po | 
+ | [uk](/f24/language/uk) | 1950 | 1950 | 100.0 | /mnt/stockage/packages/f24/classified-ads/po/uk.po | 
+ | [sv](/f24/language/sv) | 1757 | 1775 | 99.0 | /mnt/stockage/packages/f24/classified-ads/po/sv.po | 
+ | [da](/f24/language/da) | 1774 | 1950 | 91.0 | /mnt/stockage/packages/f24/classified-ads/po/da.po | 
+ | [de](/f24/language/de) | 1152 | 1950 | 59.1 | /mnt/stockage/packages/f24/classified-ads/po/de.po | 
 {.sortable}
 
 

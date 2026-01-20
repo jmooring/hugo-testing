@@ -18,11 +18,11 @@ The package PySolFC (version 2.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 4599 | 4605 | 99.9 | /mnt/stockage/packages/f30/PySolFC/po/de.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 4611 | 5035 | 91.6 | /mnt/stockage/packages/f30/PySolFC/po/ru.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 5323 | 7599 | 70.0 | /mnt/stockage/packages/f30/PySolFC/po/it_pysol.po/mnt/stockage/packages/f30/PySolFC/po/it.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 7819 | 12528 | 62.4 | /mnt/stockage/packages/f30/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f30/PySolFC/po/ru_games.po/mnt/stockage/packages/f30/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f30/PySolFC/po/pl_games.po/mnt/stockage/packages/f30/PySolFC/po/it_games.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 3117 | 5035 | 61.9 | /mnt/stockage/packages/f30/PySolFC/po/pl.po | 
+ | [de](/f30/language/de) | 4599 | 4605 | 99.9 | /mnt/stockage/packages/f30/PySolFC/po/de.po | 
+ | [ru](/f30/language/ru) | 4611 | 5035 | 91.6 | /mnt/stockage/packages/f30/PySolFC/po/ru.po | 
+ | [it](/f30/language/it) | 5323 | 7599 | 70.0 | /mnt/stockage/packages/f30/PySolFC/po/it_pysol.po/mnt/stockage/packages/f30/PySolFC/po/it.po | 
+ | [error](/f30/language/error) | 7819 | 12528 | 62.4 | /mnt/stockage/packages/f30/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f30/PySolFC/po/ru_games.po/mnt/stockage/packages/f30/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f30/PySolFC/po/pl_games.po/mnt/stockage/packages/f30/PySolFC/po/it_games.po | 
+ | [pl](/f30/language/pl) | 3117 | 5035 | 61.9 | /mnt/stockage/packages/f30/PySolFC/po/pl.po | 
 {.sortable}
 
 

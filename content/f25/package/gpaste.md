@@ -18,10 +18,10 @@ The package gpaste (version 3.22.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 1078 | 1078 | 100.0 | /mnt/stockage/packages/f25/gpaste/po/fr.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 846 | 1078 | 78.5 | /mnt/stockage/packages/f25/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 561 | 1078 | 52.0 | /mnt/stockage/packages/f25/gpaste/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 396 | 1078 | 36.7 | /mnt/stockage/packages/f25/gpaste/po/es.po | 
+ | [fr](/f25/language/fr) | 1078 | 1078 | 100.0 | /mnt/stockage/packages/f25/gpaste/po/fr.po | 
+ | [pt_BR](/f25/language/pt_BR) | 846 | 1078 | 78.5 | /mnt/stockage/packages/f25/gpaste/po/pt_BR.po | 
+ | [de](/f25/language/de) | 561 | 1078 | 52.0 | /mnt/stockage/packages/f25/gpaste/po/de.po | 
+ | [es](/f25/language/es) | 396 | 1078 | 36.7 | /mnt/stockage/packages/f25/gpaste/po/es.po | 
 {.sortable}
 
 

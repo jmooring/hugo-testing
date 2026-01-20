@@ -18,8 +18,8 @@ The package gauche (version 0.8.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f11/language/en.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f11/gauche/test/data/locale/en/LC_MESSAGES/test.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f11/gauche/test/data/locale/ja/LC_MESSAGES/test.po | 
+ | [en](/f11/language/en) | 82 | 82 | 100.0 | /mnt/stockage/packages/f11/gauche/test/data/locale/en/LC_MESSAGES/test.po | 
+ | [ja](/f11/language/ja) | 82 | 82 | 100.0 | /mnt/stockage/packages/f11/gauche/test/data/locale/ja/LC_MESSAGES/test.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f8/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [fuse-encfs]({{< ref "/f8/package/fuse-encfs.md" >}}) | 5 | 1273 | 0.4 | Spanish (Peru) <es_PE@li.org> | 
+ | [gnome-applets](/f8/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [fuse-encfs](/f8/package/fuse-encfs) | 5 | 1273 | 0.4 | Spanish (Peru) <es_PE@li.org> | 
 {.sortable}
 
 

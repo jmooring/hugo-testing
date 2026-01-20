@@ -18,7 +18,7 @@ The package aircrack-ng (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 954 | 1068 | 89.3 | /mnt/stockage/packages/f12/aircrack-ng/scripts/airoscript/src/locale/es_ES/airoscript.po | 
+ | [es](/f12/language/es) | 954 | 1068 | 89.3 | /mnt/stockage/packages/f12/aircrack-ng/scripts/airoscript/src/locale/es_ES/airoscript.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package lxpanel (version 0.2.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 562 | 562 | 100.0 | /mnt/stockage/packages/f9/lxpanel/po/zh_TW.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 476 | 562 | 84.7 | /mnt/stockage/packages/f9/lxpanel/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 474 | 562 | 84.3 | /mnt/stockage/packages/f9/lxpanel/po/hu.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 373 | 562 | 66.4 | /mnt/stockage/packages/f9/lxpanel/po/pl.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 257 | 562 | 45.7 | /mnt/stockage/packages/f9/lxpanel/po/ko.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 231 | 562 | 41.1 | /mnt/stockage/packages/f9/lxpanel/po/sk.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 562 | 562 | 100.0 | /mnt/stockage/packages/f9/lxpanel/po/zh_TW.po | 
+ | [fr](/f9/language/fr) | 476 | 562 | 84.7 | /mnt/stockage/packages/f9/lxpanel/po/fr.po | 
+ | [hu](/f9/language/hu) | 474 | 562 | 84.3 | /mnt/stockage/packages/f9/lxpanel/po/hu.po | 
+ | [pl](/f9/language/pl) | 373 | 562 | 66.4 | /mnt/stockage/packages/f9/lxpanel/po/pl.po | 
+ | [ko](/f9/language/ko) | 257 | 562 | 45.7 | /mnt/stockage/packages/f9/lxpanel/po/ko.po | 
+ | [sk](/f9/language/sk) | 231 | 562 | 41.1 | /mnt/stockage/packages/f9/lxpanel/po/sk.po | 
 {.sortable}
 
 

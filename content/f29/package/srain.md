@@ -18,8 +18,8 @@ The package srain (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 931 | 1070 | 87.0 | /mnt/stockage/packages/f29/srain/po/zh_CN.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 652 | 1070 | 60.9 | /mnt/stockage/packages/f29/srain/po/ru.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 931 | 1070 | 87.0 | /mnt/stockage/packages/f29/srain/po/zh_CN.po | 
+ | [ru](/f29/language/ru) | 652 | 1070 | 60.9 | /mnt/stockage/packages/f29/srain/po/ru.po | 
 {.sortable}
 
 

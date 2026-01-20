@@ -18,9 +18,9 @@ The package kid3 (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 984 | 984 | 100.0 | /mnt/stockage/packages/f7/kid3/kid3/de_qt.po/mnt/stockage/packages/f7/kid3/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 984 | 984 | 100.0 | /mnt/stockage/packages/f7/kid3/kid3/es_qt.po/mnt/stockage/packages/f7/kid3/po/es.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f7/kid3/kid3/ru_qt.po/mnt/stockage/packages/f7/kid3/po/ru.po | 
+ | [de](/f7/language/de) | 984 | 984 | 100.0 | /mnt/stockage/packages/f7/kid3/kid3/de_qt.po/mnt/stockage/packages/f7/kid3/po/de.po | 
+ | [es](/f7/language/es) | 984 | 984 | 100.0 | /mnt/stockage/packages/f7/kid3/kid3/es_qt.po/mnt/stockage/packages/f7/kid3/po/es.po | 
+ | [ru](/f7/language/ru) | 985 | 985 | 100.0 | /mnt/stockage/packages/f7/kid3/kid3/ru_qt.po/mnt/stockage/packages/f7/kid3/po/ru.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package php-php-gettext (version 1.0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de_CH]({{< ref "/f21/language/de_CH.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f21/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f21/php-php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.po | 
+ | [de_CH](/f21/language/de_CH) | 18 | 18 | 100.0 | /mnt/stockage/packages/f21/php-php-gettext/examples/locale/de_CH/LC_MESSAGES/messages.po | 
+ | [sr](/f21/language/sr) | 18 | 18 | 100.0 | /mnt/stockage/packages/f21/php-php-gettext/examples/locale/sr_CS/LC_MESSAGES/messages.po | 
 {.sortable}
 
 

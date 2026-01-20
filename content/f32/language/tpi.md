@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-menu]({{< ref "/f32/package/mate-menu.md" >}}) | 34 | 308 | 11.0 | Tok Pisin <tpi@li.org> | 
- | [cinnamon-translations]({{< ref "/f32/package/cinnamon-translations.md" >}}) | 83 | 8986 | 0.9 | Tok Pisin <tpi@li.org> | 
- | [sugar-playgo]({{< ref "/f32/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f32/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f32/package/sugar-visualmatch.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f32/package/mate-menu) | 34 | 308 | 11.0 | Tok Pisin <tpi@li.org> | 
+ | [cinnamon-translations](/f32/package/cinnamon-translations) | 83 | 8986 | 0.9 | Tok Pisin <tpi@li.org> | 
+ | [sugar-playgo](/f32/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f32/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f32/package/sugar-visualmatch) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

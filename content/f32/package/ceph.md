@@ -18,8 +18,8 @@ The package ceph (version 14.2.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [he_IL]({{< ref "/f32/language/he_IL.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he_IL/LC_MESSAGES/full.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 17 | 19 | 89.5 | /mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he/LC_MESSAGES/default.po/mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he/LC_MESSAGES/fall.po/mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he/LC_MESSAGES/simple.po | 
+ | [he_IL](/f32/language/he_IL) | 1 | 1 | 100.0 | /mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he_IL/LC_MESSAGES/full.po | 
+ | [he](/f32/language/he) | 17 | 19 | 89.5 | /mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he/LC_MESSAGES/default.po/mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he/LC_MESSAGES/fall.po/mnt/stockage/packages/f32/ceph/src/boost/libs/locale/test/he/LC_MESSAGES/simple.po | 
 {.sortable}
 
 

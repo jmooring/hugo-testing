@@ -18,7 +18,7 @@ The package libhangul (version 0.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f13/libhangul/po/ko.po | 
+ | [ko](/f13/language/ko) | 16 | 16 | 100.0 | /mnt/stockage/packages/f13/libhangul/po/ko.po | 
 {.sortable}
 
 

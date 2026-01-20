@@ -18,8 +18,8 @@ The package xfce4-kbdleds-plugin (version 0.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/xfce4-kbdleds-plugin/po/ru.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/xfce4-kbdleds-plugin/po/uk.po | 
+ | [ru](/f32/language/ru) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/xfce4-kbdleds-plugin/po/ru.po | 
+ | [uk](/f32/language/uk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f32/xfce4-kbdleds-plugin/po/uk.po | 
 {.sortable}
 
 

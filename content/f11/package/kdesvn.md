@@ -18,15 +18,15 @@ The package kdesvn (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 4219 | 4219 | 100.0 | /mnt/stockage/packages/f11/kdesvn/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f11/kdesvn/po/es.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f11/kdesvn/po/ja.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f11/kdesvn/po/ro.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 3310 | 4219 | 78.5 | /mnt/stockage/packages/f11/kdesvn/po/fr.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 3121 | 4112 | 75.9 | /mnt/stockage/packages/f11/kdesvn/po/nl.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 957 | 4219 | 22.7 | /mnt/stockage/packages/f11/kdesvn/po/lt.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 926 | 4112 | 22.5 | /mnt/stockage/packages/f11/kdesvn/po/ru.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 756 | 4219 | 17.9 | /mnt/stockage/packages/f11/kdesvn/po/pt_BR.po | 
+ | [de](/f11/language/de) | 4219 | 4219 | 100.0 | /mnt/stockage/packages/f11/kdesvn/po/de.po | 
+ | [es](/f11/language/es) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f11/kdesvn/po/es.po | 
+ | [ja](/f11/language/ja) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f11/kdesvn/po/ja.po | 
+ | [ro](/f11/language/ro) | 4079 | 4219 | 96.7 | /mnt/stockage/packages/f11/kdesvn/po/ro.po | 
+ | [fr](/f11/language/fr) | 3310 | 4219 | 78.5 | /mnt/stockage/packages/f11/kdesvn/po/fr.po | 
+ | [nl](/f11/language/nl) | 3121 | 4112 | 75.9 | /mnt/stockage/packages/f11/kdesvn/po/nl.po | 
+ | [lt](/f11/language/lt) | 957 | 4219 | 22.7 | /mnt/stockage/packages/f11/kdesvn/po/lt.po | 
+ | [ru](/f11/language/ru) | 926 | 4112 | 22.5 | /mnt/stockage/packages/f11/kdesvn/po/ru.po | 
+ | [pt_BR](/f11/language/pt_BR) | 756 | 4219 | 17.9 | /mnt/stockage/packages/f11/kdesvn/po/pt_BR.po | 
 {.sortable}
 
 

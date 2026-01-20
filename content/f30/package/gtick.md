@@ -18,35 +18,35 @@ The package gtick (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/de.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/eo.po | 
- | [error]({{< ref "/f30/language/error.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f30/gtick/po/en@boldquot.po/mnt/stockage/packages/f30/gtick/po/en@quot.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/fi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/fr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/it.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/nl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/pt_BR.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/ru.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/sr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/uk.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/vi.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/zh_CN.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 334 | 338 | 98.8 | /mnt/stockage/packages/f30/gtick/po/ga.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 308 | 338 | 91.1 | /mnt/stockage/packages/f30/gtick/po/da.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 185 | 338 | 54.7 | /mnt/stockage/packages/f30/gtick/po/gl.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 169 | 338 | 50.0 | /mnt/stockage/packages/f30/gtick/po/sk.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 155 | 338 | 45.9 | /mnt/stockage/packages/f30/gtick/po/ko.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 113 | 338 | 33.4 | /mnt/stockage/packages/f30/gtick/po/es.po | 
- | [af]({{< ref "/f30/language/af.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/af.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/ca.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/eu.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/ro.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/sv.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 36 | 338 | 10.7 | /mnt/stockage/packages/f30/gtick/po/fa.po | 
+ | [cs](/f30/language/cs) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/cs.po | 
+ | [de](/f30/language/de) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/de.po | 
+ | [eo](/f30/language/eo) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/eo.po | 
+ | [error](/f30/language/error) | 676 | 676 | 100.0 | /mnt/stockage/packages/f30/gtick/po/en@boldquot.po/mnt/stockage/packages/f30/gtick/po/en@quot.po | 
+ | [fi](/f30/language/fi) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/fi.po | 
+ | [fr](/f30/language/fr) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/fr.po | 
+ | [hu](/f30/language/hu) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/hu.po | 
+ | [id](/f30/language/id) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/id.po | 
+ | [it](/f30/language/it) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/it.po | 
+ | [nl](/f30/language/nl) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/nl.po | 
+ | [pl](/f30/language/pl) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/pt_BR.po | 
+ | [ru](/f30/language/ru) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/ru.po | 
+ | [sr](/f30/language/sr) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/sr.po | 
+ | [uk](/f30/language/uk) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/uk.po | 
+ | [vi](/f30/language/vi) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/vi.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 338 | 338 | 100.0 | /mnt/stockage/packages/f30/gtick/po/zh_CN.po | 
+ | [ga](/f30/language/ga) | 334 | 338 | 98.8 | /mnt/stockage/packages/f30/gtick/po/ga.po | 
+ | [da](/f30/language/da) | 308 | 338 | 91.1 | /mnt/stockage/packages/f30/gtick/po/da.po | 
+ | [gl](/f30/language/gl) | 185 | 338 | 54.7 | /mnt/stockage/packages/f30/gtick/po/gl.po | 
+ | [sk](/f30/language/sk) | 169 | 338 | 50.0 | /mnt/stockage/packages/f30/gtick/po/sk.po | 
+ | [ko](/f30/language/ko) | 155 | 338 | 45.9 | /mnt/stockage/packages/f30/gtick/po/ko.po | 
+ | [es](/f30/language/es) | 113 | 338 | 33.4 | /mnt/stockage/packages/f30/gtick/po/es.po | 
+ | [af](/f30/language/af) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/af.po | 
+ | [ca](/f30/language/ca) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/ca.po | 
+ | [eu](/f30/language/eu) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/eu.po | 
+ | [ro](/f30/language/ro) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/ro.po | 
+ | [sv](/f30/language/sv) | 89 | 338 | 26.3 | /mnt/stockage/packages/f30/gtick/po/sv.po | 
+ | [fa](/f30/language/fa) | 36 | 338 | 10.7 | /mnt/stockage/packages/f30/gtick/po/fa.po | 
 {.sortable}
 
 

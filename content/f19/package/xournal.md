@@ -18,14 +18,14 @@ The package xournal (version 0.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f19/xournal/po/cs.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f19/xournal/po/it.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f19/xournal/po/pt_BR.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1015 | 1016 | 99.9 | /mnt/stockage/packages/f19/xournal/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 981 | 1016 | 96.6 | /mnt/stockage/packages/f19/xournal/po/fr.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 979 | 1016 | 96.4 | /mnt/stockage/packages/f19/xournal/po/de.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 440 | 1016 | 43.3 | /mnt/stockage/packages/f19/xournal/po/nl.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 373 | 1016 | 36.7 | /mnt/stockage/packages/f19/xournal/po/ca.po | 
+ | [cs](/f19/language/cs) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f19/xournal/po/cs.po | 
+ | [it](/f19/language/it) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f19/xournal/po/it.po | 
+ | [pt_BR](/f19/language/pt_BR) | 1016 | 1016 | 100.0 | /mnt/stockage/packages/f19/xournal/po/pt_BR.po | 
+ | [es](/f19/language/es) | 1015 | 1016 | 99.9 | /mnt/stockage/packages/f19/xournal/po/es.po | 
+ | [fr](/f19/language/fr) | 981 | 1016 | 96.6 | /mnt/stockage/packages/f19/xournal/po/fr.po | 
+ | [de](/f19/language/de) | 979 | 1016 | 96.4 | /mnt/stockage/packages/f19/xournal/po/de.po | 
+ | [nl](/f19/language/nl) | 440 | 1016 | 43.3 | /mnt/stockage/packages/f19/xournal/po/nl.po | 
+ | [ca](/f19/language/ca) | 373 | 1016 | 36.7 | /mnt/stockage/packages/f19/xournal/po/ca.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package krb5-auth-dialog (version 0.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 2802 | 2802 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/help/es/es.po/mnt/stockage/packages/f14/krb5-auth-dialog/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 1730 | 1730 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/gl.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 1730 | 1730 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/sl.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/uk.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 2354 | 2802 | 84.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/help/de/de.po/mnt/stockage/packages/f14/krb5-auth-dialog/po/de.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 1369 | 1688 | 81.1 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f14/language/zh_Hant_HK.md" >}}) | 1369 | 1688 | 81.1 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/zh_HK.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 1166 | 1803 | 64.7 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/pa.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 358 | 1717 | 20.9 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/cs.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 568 | 2869 | 19.8 | /mnt/stockage/packages/f14/krb5-auth-dialog/help/sv/sv.po/mnt/stockage/packages/f14/krb5-auth-dialog/po/sv.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 124 | 1732 | 7.2 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/nb.po | 
+ | [es](/f14/language/es) | 2802 | 2802 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/help/es/es.po/mnt/stockage/packages/f14/krb5-auth-dialog/po/es.po | 
+ | [fr](/f14/language/fr) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/fr.po | 
+ | [gl](/f14/language/gl) | 1730 | 1730 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/gl.po | 
+ | [sl](/f14/language/sl) | 1730 | 1730 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/sl.po | 
+ | [uk](/f14/language/uk) | 1717 | 1717 | 100.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/uk.po | 
+ | [de](/f14/language/de) | 2354 | 2802 | 84.0 | /mnt/stockage/packages/f14/krb5-auth-dialog/help/de/de.po/mnt/stockage/packages/f14/krb5-auth-dialog/po/de.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 1369 | 1688 | 81.1 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/zh_TW.po | 
+ | [zh_Hant_HK](/f14/language/zh_Hant_HK) | 1369 | 1688 | 81.1 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/zh_HK.po | 
+ | [pa](/f14/language/pa) | 1166 | 1803 | 64.7 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/pa.po | 
+ | [cs](/f14/language/cs) | 358 | 1717 | 20.9 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/cs.po | 
+ | [sv](/f14/language/sv) | 568 | 2869 | 19.8 | /mnt/stockage/packages/f14/krb5-auth-dialog/help/sv/sv.po/mnt/stockage/packages/f14/krb5-auth-dialog/po/sv.po | 
+ | [nb_NO](/f14/language/nb_NO) | 124 | 1732 | 7.2 | /mnt/stockage/packages/f14/krb5-auth-dialog/po/nb.po | 
 {.sortable}
 
 

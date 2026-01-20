@@ -18,25 +18,25 @@ The package mingw32-gcc (version 4.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 58779 | 58779 | 100.0 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/es.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/es.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 58779 | 58779 | 100.0 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/zh_CN.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 57871 | 58779 | 98.5 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/sv.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/sv.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1104 | 1261 | 87.5 | /mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/uk.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 1036 | 1261 | 82.2 | /mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/ca.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 48271 | 58779 | 82.1 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/id.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/id.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 43416 | 58784 | 73.9 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/de.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/de.po/mnt/stockage/packages/f14/mingw32-gcc/libstdc++-v3/po/de.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 34790 | 57518 | 60.5 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/sr.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 31753 | 58779 | 54.0 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/tr.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 28172 | 58779 | 47.9 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/zh_TW.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 23982 | 57518 | 41.7 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/ru.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 12646 | 58784 | 21.5 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/fr.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/fr.po/mnt/stockage/packages/f14/mingw32-gcc/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 9275 | 58779 | 15.8 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/da.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/da.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 7338 | 57518 | 12.8 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/fi.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 5323 | 58779 | 9.1 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/nl.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/nl.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 5258 | 58779 | 8.9 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/ja.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/ja.po | 
- | [be]({{< ref "/f14/language/be.md" >}}) | 444 | 58779 | 0.8 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/be.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 436 | 58779 | 0.7 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/el.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/el.po | 
+ | [es](/f14/language/es) | 58779 | 58779 | 100.0 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/es.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/es.po | 
+ | [vi](/f14/language/vi) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 58779 | 58779 | 100.0 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/zh_CN.po | 
+ | [sv](/f14/language/sv) | 57871 | 58779 | 98.5 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/sv.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/sv.po | 
+ | [uk](/f14/language/uk) | 1104 | 1261 | 87.5 | /mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/uk.po | 
+ | [ca](/f14/language/ca) | 1036 | 1261 | 82.2 | /mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/ca.po | 
+ | [id](/f14/language/id) | 48271 | 58779 | 82.1 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/id.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/id.po | 
+ | [de](/f14/language/de) | 43416 | 58784 | 73.9 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/de.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/de.po/mnt/stockage/packages/f14/mingw32-gcc/libstdc++-v3/po/de.po | 
+ | [sr](/f14/language/sr) | 34790 | 57518 | 60.5 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/sr.po | 
+ | [tr](/f14/language/tr) | 31753 | 58779 | 54.0 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/tr.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 28172 | 58779 | 47.9 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/zh_TW.po | 
+ | [ru](/f14/language/ru) | 23982 | 57518 | 41.7 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/ru.po | 
+ | [fr](/f14/language/fr) | 12646 | 58784 | 21.5 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/fr.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/fr.po/mnt/stockage/packages/f14/mingw32-gcc/libstdc++-v3/po/fr.po | 
+ | [da](/f14/language/da) | 9275 | 58779 | 15.8 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/da.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/da.po | 
+ | [fi](/f14/language/fi) | 7338 | 57518 | 12.8 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/fi.po | 
+ | [nl](/f14/language/nl) | 5323 | 58779 | 9.1 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/nl.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/nl.po | 
+ | [ja](/f14/language/ja) | 5258 | 58779 | 8.9 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/ja.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/ja.po | 
+ | [be](/f14/language/be) | 444 | 58779 | 0.8 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/be.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/be.po | 
+ | [el](/f14/language/el) | 436 | 58779 | 0.7 | /mnt/stockage/packages/f14/mingw32-gcc/gcc/po/el.po/mnt/stockage/packages/f14/mingw32-gcc/libcpp/po/el.po | 
 {.sortable}
 
 

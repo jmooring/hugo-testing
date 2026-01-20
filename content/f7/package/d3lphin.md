@@ -18,16 +18,16 @@ The package d3lphin (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 455 | 455 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/de.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/et.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/pl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/ru.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 453 | 455 | 99.6 | /mnt/stockage/packages/f7/d3lphin/po/el.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 377 | 445 | 84.7 | /mnt/stockage/packages/f7/d3lphin/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 360 | 445 | 80.9 | /mnt/stockage/packages/f7/d3lphin/po/it.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 338 | 445 | 76.0 | /mnt/stockage/packages/f7/d3lphin/po/he.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 243 | 445 | 54.6 | /mnt/stockage/packages/f7/d3lphin/po/es.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 5 | 455 | 1.1 | /mnt/stockage/packages/f7/d3lphin/po/d3lphin.po | 
+ | [de](/f7/language/de) | 455 | 455 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/de.po | 
+ | [et](/f7/language/et) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/et.po | 
+ | [pl](/f7/language/pl) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/pl.po | 
+ | [ru](/f7/language/ru) | 445 | 445 | 100.0 | /mnt/stockage/packages/f7/d3lphin/po/ru.po | 
+ | [el](/f7/language/el) | 453 | 455 | 99.6 | /mnt/stockage/packages/f7/d3lphin/po/el.po | 
+ | [fr](/f7/language/fr) | 377 | 445 | 84.7 | /mnt/stockage/packages/f7/d3lphin/po/fr.po | 
+ | [it](/f7/language/it) | 360 | 445 | 80.9 | /mnt/stockage/packages/f7/d3lphin/po/it.po | 
+ | [he](/f7/language/he) | 338 | 445 | 76.0 | /mnt/stockage/packages/f7/d3lphin/po/he.po | 
+ | [es](/f7/language/es) | 243 | 445 | 54.6 | /mnt/stockage/packages/f7/d3lphin/po/es.po | 
+ | [error](/f7/language/error) | 5 | 455 | 1.1 | /mnt/stockage/packages/f7/d3lphin/po/d3lphin.po | 
 {.sortable}
 
 

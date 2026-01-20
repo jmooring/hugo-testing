@@ -18,14 +18,14 @@ The package kbackup (version 0.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/fr.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/pt.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/sk.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/sv.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 358 | 387 | 92.5 | /mnt/stockage/packages/f7/kbackup/po/it.po | 
+ | [de](/f7/language/de) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/de.po | 
+ | [es](/f7/language/es) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/es.po | 
+ | [fr](/f7/language/fr) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/fr.po | 
+ | [pt](/f7/language/pt) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/pt.po | 
+ | [ru](/f7/language/ru) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/ru.po | 
+ | [sk](/f7/language/sk) | 387 | 387 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/sk.po | 
+ | [sv](/f7/language/sv) | 343 | 343 | 100.0 | /mnt/stockage/packages/f7/kbackup/po/sv.po | 
+ | [it](/f7/language/it) | 358 | 387 | 92.5 | /mnt/stockage/packages/f7/kbackup/po/it.po | 
 {.sortable}
 
 

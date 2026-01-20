@@ -18,11 +18,11 @@ The package trac-spamfilter-plugin (version 1.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 2585 | 2585 | 100.0 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/de/LC_MESSAGES/tracspamfilter.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 2555 | 2585 | 98.8 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/ko/LC_MESSAGES/tracspamfilter.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1629 | 2585 | 63.0 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/fr/LC_MESSAGES/tracspamfilter.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 91 | 2585 | 3.5 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/ja/LC_MESSAGES/tracspamfilter.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 87 | 2585 | 3.4 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/cs/LC_MESSAGES/tracspamfilter.po | 
+ | [de](/f30/language/de) | 2585 | 2585 | 100.0 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/de/LC_MESSAGES/tracspamfilter.po | 
+ | [ko](/f30/language/ko) | 2555 | 2585 | 98.8 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/ko/LC_MESSAGES/tracspamfilter.po | 
+ | [fr](/f30/language/fr) | 1629 | 2585 | 63.0 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/fr/LC_MESSAGES/tracspamfilter.po | 
+ | [ja](/f30/language/ja) | 91 | 2585 | 3.5 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/ja/LC_MESSAGES/tracspamfilter.po | 
+ | [cs](/f30/language/cs) | 87 | 2585 | 3.4 | /mnt/stockage/packages/f30/trac-spamfilter-plugin/tracspamfilter/locale/cs/LC_MESSAGES/tracspamfilter.po | 
 {.sortable}
 
 

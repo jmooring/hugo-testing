@@ -18,8 +18,8 @@ The package ktrack (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 59 | 81 | 72.8 | /mnt/stockage/packages/f7/ktrack/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 3 | 81 | 3.7 | /mnt/stockage/packages/f7/ktrack/po/de.po | 
+ | [fr](/f7/language/fr) | 59 | 81 | 72.8 | /mnt/stockage/packages/f7/ktrack/po/fr.po | 
+ | [de](/f7/language/de) | 3 | 81 | 3.7 | /mnt/stockage/packages/f7/ktrack/po/de.po | 
 {.sortable}
 
 

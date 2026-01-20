@@ -18,53 +18,53 @@ The package python-sphinxcontrib-devhelp (version 2.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f42/language/id.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/id/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/zh_CN/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/et/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/fr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 15 | 18 | 83.3 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pl/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ar/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/bn/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ca/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/cs/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/cy/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/da/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/de/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/el/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/eo/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/es/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/eu/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/fa/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/fi/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/he/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 0 | 36 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hi_IN/LC_MESSAGES/sphinxcontrib.devhelp.po/mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hi/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hu/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/it/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ja/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ko/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/lt/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/lv/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/mk/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/nb_NO/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ne/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/nl/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pt/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pt_BR/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [pt_PT]({{< ref "/f42/language/pt_PT.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pt_PT/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ro/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ru/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/si/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sk/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sl/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sr@latin/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sv/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ta/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/tr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/uk_UA/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/vi/LC_MESSAGES/sphinxcontrib.devhelp.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/zh_TW/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [id](/f42/language/id) | 18 | 18 | 100.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/id/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 18 | 18 | 100.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/zh_CN/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [et](/f42/language/et) | 15 | 18 | 83.3 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/et/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [fr](/f42/language/fr) | 15 | 18 | 83.3 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/fr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [pl](/f42/language/pl) | 15 | 18 | 83.3 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pl/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ar](/f42/language/ar) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ar/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [bn](/f42/language/bn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/bn/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ca](/f42/language/ca) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ca/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [cs](/f42/language/cs) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/cs/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [cy](/f42/language/cy) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/cy/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [da](/f42/language/da) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/da/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [de](/f42/language/de) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/de/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [el](/f42/language/el) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/el/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [eo](/f42/language/eo) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/eo/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [es](/f42/language/es) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/es/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [eu](/f42/language/eu) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/eu/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [fa](/f42/language/fa) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/fa/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [fi](/f42/language/fi) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/fi/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [he](/f42/language/he) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/he/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [hi](/f42/language/hi) | 0 | 36 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hi_IN/LC_MESSAGES/sphinxcontrib.devhelp.po/mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hi/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [hr](/f42/language/hr) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [hu](/f42/language/hu) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/hu/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [it](/f42/language/it) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/it/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ja](/f42/language/ja) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ja/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ko](/f42/language/ko) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ko/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [lt](/f42/language/lt) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/lt/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [lv](/f42/language/lv) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/lv/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [mk](/f42/language/mk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/mk/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [nb_NO](/f42/language/nb_NO) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/nb_NO/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ne](/f42/language/ne) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ne/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [nl](/f42/language/nl) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/nl/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [pt](/f42/language/pt) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pt/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [pt_BR](/f42/language/pt_BR) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pt_BR/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [pt_PT](/f42/language/pt_PT) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/pt_PT/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ro](/f42/language/ro) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ro/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ru](/f42/language/ru) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ru/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [si](/f42/language/si) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/si/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [sk](/f42/language/sk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sk/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [sl](/f42/language/sl) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sl/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [sr](/f42/language/sr) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sr@latin/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [sv](/f42/language/sv) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/sv/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [ta](/f42/language/ta) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/ta/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [tr](/f42/language/tr) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/tr/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [uk](/f42/language/uk) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/uk_UA/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [vi](/f42/language/vi) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/vi/LC_MESSAGES/sphinxcontrib.devhelp.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 0 | 18 | 0.0 | /mnt/stockage/packages/f42/python-sphinxcontrib-devhelp/sphinxcontrib/devhelp/locales/zh_TW/LC_MESSAGES/sphinxcontrib.devhelp.po | 
 {.sortable}
 
 

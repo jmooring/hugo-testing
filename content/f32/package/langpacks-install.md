@@ -18,7 +18,7 @@ The package langpacks-install (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f32/language/en.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f32/langpacks-install/po/en.po | 
+ | [en](/f32/language/en) | 9 | 9 | 100.0 | /mnt/stockage/packages/f32/langpacks-install/po/en.po | 
 {.sortable}
 
 

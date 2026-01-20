@@ -18,79 +18,79 @@ The package libgxim (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f22/language/af.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/af.po | 
- | [am]({{< ref "/f22/language/am.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/am.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ar.po | 
- | [as]({{< ref "/f22/language/as.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/as.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/be.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bg.po | 
- | [bn]({{< ref "/f22/language/bn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bn.po | 
- | [bn_IN]({{< ref "/f22/language/bn_IN.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bn_IN.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bs.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/cs.po | 
- | [cy]({{< ref "/f22/language/cy.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/cy.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/el.po | 
- | [en_GB]({{< ref "/f22/language/en_GB.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/en_GB.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/es.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/et.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/eu_ES.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/fa.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/fr.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/gl.po | 
- | [gu]({{< ref "/f22/language/gu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/gu.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/he.po | 
- | [hi]({{< ref "/f22/language/hi.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hi.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hu.po | 
- | [hy]({{< ref "/f22/language/hy.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hy.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/id.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/is.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ja.po | 
- | [ka]({{< ref "/f22/language/ka.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ka.po | 
- | [kn]({{< ref "/f22/language/kn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/kn.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ko.po | 
- | [ku]({{< ref "/f22/language/ku.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ku.po | 
- | [lo]({{< ref "/f22/language/lo.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/lo.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/lv.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/mk.po | 
- | [ml]({{< ref "/f22/language/ml.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ml.po | 
- | [mr]({{< ref "/f22/language/mr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/mr.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ms.po | 
- | [my]({{< ref "/f22/language/my.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/my.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nl.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nn.po | 
- | [nso]({{< ref "/f22/language/nso.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nso.po | 
- | [or]({{< ref "/f22/language/or.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/or.po | 
- | [pa]({{< ref "/f22/language/pa.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pa.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pl.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pt.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ru.po | 
- | [si]({{< ref "/f22/language/si.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/si.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sl.po | 
- | [sq]({{< ref "/f22/language/sq.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sq.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sr.po | 
- | [sr_Latn]({{< ref "/f22/language/sr_Latn.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sr@latin.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sv.po | 
- | [ta]({{< ref "/f22/language/ta.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ta.po | 
- | [te]({{< ref "/f22/language/te.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/te.po | 
- | [th]({{< ref "/f22/language/th.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/th.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/uk.po | 
- | [ur]({{< ref "/f22/language/ur.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ur.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/vi.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/zh_TW.po | 
- | [zu]({{< ref "/f22/language/zu.md" >}}) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/zu.po | 
+ | [af](/f22/language/af) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/af.po | 
+ | [am](/f22/language/am) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/am.po | 
+ | [ar](/f22/language/ar) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ar.po | 
+ | [as](/f22/language/as) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/as.po | 
+ | [be](/f22/language/be) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/be.po | 
+ | [bg](/f22/language/bg) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bg.po | 
+ | [bn](/f22/language/bn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bn.po | 
+ | [bn_IN](/f22/language/bn_IN) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bn_IN.po | 
+ | [bs](/f22/language/bs) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/bs.po | 
+ | [ca](/f22/language/ca) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ca.po | 
+ | [cs](/f22/language/cs) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/cs.po | 
+ | [cy](/f22/language/cy) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/cy.po | 
+ | [da](/f22/language/da) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/da.po | 
+ | [de](/f22/language/de) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/de.po | 
+ | [el](/f22/language/el) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/el.po | 
+ | [en_GB](/f22/language/en_GB) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/en_GB.po | 
+ | [es](/f22/language/es) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/es.po | 
+ | [et](/f22/language/et) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/et.po | 
+ | [eu](/f22/language/eu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/eu_ES.po | 
+ | [fa](/f22/language/fa) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/fa.po | 
+ | [fi](/f22/language/fi) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/fi.po | 
+ | [fr](/f22/language/fr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/fr.po | 
+ | [gl](/f22/language/gl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/gl.po | 
+ | [gu](/f22/language/gu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/gu.po | 
+ | [he](/f22/language/he) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/he.po | 
+ | [hi](/f22/language/hi) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hi.po | 
+ | [hr](/f22/language/hr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hr.po | 
+ | [hu](/f22/language/hu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hu.po | 
+ | [hy](/f22/language/hy) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/hy.po | 
+ | [id](/f22/language/id) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/id.po | 
+ | [is](/f22/language/is) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/is.po | 
+ | [it](/f22/language/it) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/it.po | 
+ | [ja](/f22/language/ja) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ja.po | 
+ | [ka](/f22/language/ka) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ka.po | 
+ | [kn](/f22/language/kn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/kn.po | 
+ | [ko](/f22/language/ko) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ko.po | 
+ | [ku](/f22/language/ku) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ku.po | 
+ | [lo](/f22/language/lo) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/lo.po | 
+ | [lt](/f22/language/lt) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/lt.po | 
+ | [lv](/f22/language/lv) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/lv.po | 
+ | [mk](/f22/language/mk) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/mk.po | 
+ | [ml](/f22/language/ml) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ml.po | 
+ | [mr](/f22/language/mr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/mr.po | 
+ | [ms](/f22/language/ms) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ms.po | 
+ | [my](/f22/language/my) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/my.po | 
+ | [nb_NO](/f22/language/nb_NO) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nb.po | 
+ | [nl](/f22/language/nl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nl.po | 
+ | [nn](/f22/language/nn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nn.po | 
+ | [nso](/f22/language/nso) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/nso.po | 
+ | [or](/f22/language/or) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/or.po | 
+ | [pa](/f22/language/pa) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pa.po | 
+ | [pl](/f22/language/pl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pl.po | 
+ | [pt](/f22/language/pt) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pt.po | 
+ | [pt_BR](/f22/language/pt_BR) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ro.po | 
+ | [ru](/f22/language/ru) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ru.po | 
+ | [si](/f22/language/si) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/si.po | 
+ | [sk](/f22/language/sk) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sk.po | 
+ | [sl](/f22/language/sl) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sl.po | 
+ | [sq](/f22/language/sq) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sq.po | 
+ | [sr](/f22/language/sr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sr.po | 
+ | [sr_Latn](/f22/language/sr_Latn) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sr@latin.po | 
+ | [sv](/f22/language/sv) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/sv.po | 
+ | [ta](/f22/language/ta) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ta.po | 
+ | [te](/f22/language/te) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/te.po | 
+ | [th](/f22/language/th) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/th.po | 
+ | [tr](/f22/language/tr) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/tr.po | 
+ | [uk](/f22/language/uk) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/uk.po | 
+ | [ur](/f22/language/ur) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/ur.po | 
+ | [vi](/f22/language/vi) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/vi.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/zh_TW.po | 
+ | [zu](/f22/language/zu) | 0 | 124 | 0.0 | /mnt/stockage/packages/f22/libgxim/po/zu.po | 
 {.sortable}
 
 

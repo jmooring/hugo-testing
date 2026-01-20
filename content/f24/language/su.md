@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f24/package/tuxpaint.md" >}}) | 359 | 1515 | 23.7 | LANGUAGE <LL@li.org> | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 31 | 247 | 12.6 | Sundanese <su@li.org> | 
- | [terminator]({{< ref "/f24/package/terminator.md" >}}) | 30 | 1410 | 2.1 | Sundanese <su@li.org> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 35 | 23532 | 0.1 | Sundanese <su@li.org> | 
+ | [tuxpaint](/f24/package/tuxpaint) | 359 | 1515 | 23.7 | LANGUAGE <LL@li.org> | 
+ | [mintmenu](/f24/package/mintmenu) | 31 | 247 | 12.6 | Sundanese <su@li.org> | 
+ | [terminator](/f24/package/terminator) | 30 | 1410 | 2.1 | Sundanese <su@li.org> | 
+ | [stellarium](/f24/package/stellarium) | 35 | 23532 | 0.1 | Sundanese <su@li.org> | 
 {.sortable}
 
 

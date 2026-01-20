@@ -18,14 +18,14 @@ The package giac (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 6399 | 7628 | 83.9 | /mnt/stockage/packages/f23/giac/po/fr.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 3398 | 7628 | 44.5 | /mnt/stockage/packages/f23/giac/po/el.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 3021 | 7628 | 39.6 | /mnt/stockage/packages/f23/giac/po/de.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 3021 | 7628 | 39.6 | /mnt/stockage/packages/f23/giac/po/en.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1189 | 7628 | 15.6 | /mnt/stockage/packages/f23/giac/po/zh.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 263 | 7628 | 3.4 | /mnt/stockage/packages/f23/giac/po/es.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1 | 7628 | 0.0 | /mnt/stockage/packages/f23/giac/po/pt.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 0 | 7628 | 0.0 | /mnt/stockage/packages/f23/giac/po/it.po | 
+ | [fr](/f23/language/fr) | 6399 | 7628 | 83.9 | /mnt/stockage/packages/f23/giac/po/fr.po | 
+ | [el](/f23/language/el) | 3398 | 7628 | 44.5 | /mnt/stockage/packages/f23/giac/po/el.po | 
+ | [de](/f23/language/de) | 3021 | 7628 | 39.6 | /mnt/stockage/packages/f23/giac/po/de.po | 
+ | [en](/f23/language/en) | 3021 | 7628 | 39.6 | /mnt/stockage/packages/f23/giac/po/en.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1189 | 7628 | 15.6 | /mnt/stockage/packages/f23/giac/po/zh.po | 
+ | [es](/f23/language/es) | 263 | 7628 | 3.4 | /mnt/stockage/packages/f23/giac/po/es.po | 
+ | [pt](/f23/language/pt) | 1 | 7628 | 0.0 | /mnt/stockage/packages/f23/giac/po/pt.po | 
+ | [it](/f23/language/it) | 0 | 7628 | 0.0 | /mnt/stockage/packages/f23/giac/po/it.po | 
 {.sortable}
 
 

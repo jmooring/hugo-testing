@@ -18,25 +18,25 @@ The package xfce4-screensaver (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/bg.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/ca.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/fr.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/it.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/lt.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/ms.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/pl.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/ru.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/tr.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/zh_TW.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 672 | 676 | 99.4 | /mnt/stockage/packages/f29/xfce4-screensaver/po/eu.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 653 | 676 | 96.6 | /mnt/stockage/packages/f29/xfce4-screensaver/po/sv.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 513 | 656 | 78.2 | /mnt/stockage/packages/f29/xfce4-screensaver/po/sq.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 432 | 664 | 65.1 | /mnt/stockage/packages/f29/xfce4-screensaver/po/sk.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 308 | 676 | 45.6 | /mnt/stockage/packages/f29/xfce4-screensaver/po/es.po | 
+ | [bg](/f29/language/bg) | 634 | 634 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/bg.po | 
+ | [ca](/f29/language/ca) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/ca.po | 
+ | [da](/f29/language/da) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/da.po | 
+ | [de](/f29/language/de) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/de.po | 
+ | [fr](/f29/language/fr) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/fr.po | 
+ | [it](/f29/language/it) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/it.po | 
+ | [lt](/f29/language/lt) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/lt.po | 
+ | [ms](/f29/language/ms) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/ms.po | 
+ | [nl](/f29/language/nl) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/nl.po | 
+ | [pl](/f29/language/pl) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/pl.po | 
+ | [ru](/f29/language/ru) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/ru.po | 
+ | [tr](/f29/language/tr) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/tr.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 676 | 676 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 681 | 681 | 100.0 | /mnt/stockage/packages/f29/xfce4-screensaver/po/zh_TW.po | 
+ | [eu](/f29/language/eu) | 672 | 676 | 99.4 | /mnt/stockage/packages/f29/xfce4-screensaver/po/eu.po | 
+ | [sv](/f29/language/sv) | 653 | 676 | 96.6 | /mnt/stockage/packages/f29/xfce4-screensaver/po/sv.po | 
+ | [sq](/f29/language/sq) | 513 | 656 | 78.2 | /mnt/stockage/packages/f29/xfce4-screensaver/po/sq.po | 
+ | [sk](/f29/language/sk) | 432 | 664 | 65.1 | /mnt/stockage/packages/f29/xfce4-screensaver/po/sk.po | 
+ | [es](/f29/language/es) | 308 | 676 | 45.6 | /mnt/stockage/packages/f29/xfce4-screensaver/po/es.po | 
 {.sortable}
 
 

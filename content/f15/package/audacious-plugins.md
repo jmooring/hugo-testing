@@ -18,23 +18,23 @@ The package audacious-plugins (version 2.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 5783 | 5795 | 99.8 | /mnt/stockage/packages/f15/audacious-plugins/po/cs.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 5783 | 5795 | 99.8 | /mnt/stockage/packages/f15/audacious-plugins/po/pl.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 5779 | 5795 | 99.7 | /mnt/stockage/packages/f15/audacious-plugins/po/sk.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 5771 | 5795 | 99.6 | /mnt/stockage/packages/f15/audacious-plugins/po/fr.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 5707 | 5795 | 98.5 | /mnt/stockage/packages/f15/audacious-plugins/po/lv.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 5608 | 5795 | 96.8 | /mnt/stockage/packages/f15/audacious-plugins/po/ru.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 4638 | 5795 | 80.0 | /mnt/stockage/packages/f15/audacious-plugins/po/ca.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 4638 | 5795 | 80.0 | /mnt/stockage/packages/f15/audacious-plugins/po/eu.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 4638 | 5795 | 80.0 | /mnt/stockage/packages/f15/audacious-plugins/po/ja.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 4533 | 5795 | 78.2 | /mnt/stockage/packages/f15/audacious-plugins/po/de.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 4505 | 5795 | 77.7 | /mnt/stockage/packages/f15/audacious-plugins/po/zh_CN.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 3478 | 5795 | 60.0 | /mnt/stockage/packages/f15/audacious-plugins/po/tr.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2996 | 5795 | 51.7 | /mnt/stockage/packages/f15/audacious-plugins/po/es.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 2332 | 5795 | 40.2 | /mnt/stockage/packages/f15/audacious-plugins/po/hu.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 803 | 5795 | 13.9 | /mnt/stockage/packages/f15/audacious-plugins/po/ro.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 795 | 5795 | 13.7 | /mnt/stockage/packages/f15/audacious-plugins/po/et.po | 
- | [cy]({{< ref "/f15/language/cy.md" >}}) | 669 | 5795 | 11.5 | /mnt/stockage/packages/f15/audacious-plugins/po/cy.po | 
+ | [cs](/f15/language/cs) | 5783 | 5795 | 99.8 | /mnt/stockage/packages/f15/audacious-plugins/po/cs.po | 
+ | [pl](/f15/language/pl) | 5783 | 5795 | 99.8 | /mnt/stockage/packages/f15/audacious-plugins/po/pl.po | 
+ | [sk](/f15/language/sk) | 5779 | 5795 | 99.7 | /mnt/stockage/packages/f15/audacious-plugins/po/sk.po | 
+ | [fr](/f15/language/fr) | 5771 | 5795 | 99.6 | /mnt/stockage/packages/f15/audacious-plugins/po/fr.po | 
+ | [lv](/f15/language/lv) | 5707 | 5795 | 98.5 | /mnt/stockage/packages/f15/audacious-plugins/po/lv.po | 
+ | [ru](/f15/language/ru) | 5608 | 5795 | 96.8 | /mnt/stockage/packages/f15/audacious-plugins/po/ru.po | 
+ | [ca](/f15/language/ca) | 4638 | 5795 | 80.0 | /mnt/stockage/packages/f15/audacious-plugins/po/ca.po | 
+ | [eu](/f15/language/eu) | 4638 | 5795 | 80.0 | /mnt/stockage/packages/f15/audacious-plugins/po/eu.po | 
+ | [ja](/f15/language/ja) | 4638 | 5795 | 80.0 | /mnt/stockage/packages/f15/audacious-plugins/po/ja.po | 
+ | [de](/f15/language/de) | 4533 | 5795 | 78.2 | /mnt/stockage/packages/f15/audacious-plugins/po/de.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 4505 | 5795 | 77.7 | /mnt/stockage/packages/f15/audacious-plugins/po/zh_CN.po | 
+ | [tr](/f15/language/tr) | 3478 | 5795 | 60.0 | /mnt/stockage/packages/f15/audacious-plugins/po/tr.po | 
+ | [es](/f15/language/es) | 2996 | 5795 | 51.7 | /mnt/stockage/packages/f15/audacious-plugins/po/es.po | 
+ | [hu](/f15/language/hu) | 2332 | 5795 | 40.2 | /mnt/stockage/packages/f15/audacious-plugins/po/hu.po | 
+ | [ro](/f15/language/ro) | 803 | 5795 | 13.9 | /mnt/stockage/packages/f15/audacious-plugins/po/ro.po | 
+ | [et](/f15/language/et) | 795 | 5795 | 13.7 | /mnt/stockage/packages/f15/audacious-plugins/po/et.po | 
+ | [cy](/f15/language/cy) | 669 | 5795 | 11.5 | /mnt/stockage/packages/f15/audacious-plugins/po/cy.po | 
 {.sortable}
 
 

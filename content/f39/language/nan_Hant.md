@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [caja]({{< ref "/f39/package/caja.md" >}}) | 336 | 9675 | 3.5 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [engrampa]({{< ref "/f39/package/engrampa.md" >}}) | 48 | 2049 | 2.3 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-media]({{< ref "/f39/package/mate-media.md" >}}) | 2 | 239 | 0.8 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [mate-panel]({{< ref "/f39/package/mate-panel.md" >}}) | 35 | 5557 | 0.6 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
- | [gnome-do]({{< ref "/f39/package/gnome-do.md" >}}) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
- | [onboard]({{< ref "/f39/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [caja](/f39/package/caja) | 336 | 9675 | 3.5 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [engrampa](/f39/package/engrampa) | 48 | 2049 | 2.3 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-media](/f39/package/mate-media) | 2 | 239 | 0.8 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [mate-panel](/f39/package/mate-panel) | 35 | 5557 | 0.6 | Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/) | 
+ | [gnome-do](/f39/package/gnome-do) | 0 | 612 | 0.0 | Min Nan Chinese <nan@li.org> | 
+ | [onboard](/f39/package/onboard) | 0 | 2318 | 0.0 | Min Nan Chinese <nan@li.org> | 
 {.sortable}
 
 

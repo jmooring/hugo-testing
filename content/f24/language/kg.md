@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f24/package/alacarte.md" >}}) | 74 | 74 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
- | [bzflag]({{< ref "/f24/package/bzflag.md" >}}) | 97 | 97 | 100.0 |  | 
- | [gnome-desktop3]({{< ref "/f24/package/gnome-desktop3.md" >}}) | 384 | 384 | 100.0 | Kikongo, kg <lundombe01@zaya-dio.com> | 
- | [gnome-menus]({{< ref "/f24/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
- | [xdg-user-dirs-gtk]({{< ref "/f24/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | kikongo <lundombe01@zaya-dio.com> | 
- | [cinnamon-desktop]({{< ref "/f24/package/cinnamon-desktop.md" >}}) | 205 | 231 | 88.7 | Kikongo, kg <lundombe01@zaya-dio.com> | 
- | [gtk3]({{< ref "/f24/package/gtk3.md" >}}) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
- | [mingw-gtk3]({{< ref "/f24/package/mingw-gtk3.md" >}}) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
- | [nautilus-sendto]({{< ref "/f24/package/nautilus-sendto.md" >}}) | 39 | 275 | 14.2 | kg (Kikongo) <kongo@kintuadi.org> | 
- | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 54 | 2397 | 2.3 | Kikongo <lundombe01@zaya-dio.com> | 
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 69 | 9634 | 0.7 | Kikongo <lundombe01@zaya-dio.com> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 1 | 23532 | 0.0 | Kongo <kg@li.org> | 
+ | [alacarte](/f24/package/alacarte) | 74 | 74 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [bzflag](/f24/package/bzflag) | 97 | 97 | 100.0 |  | 
+ | [gnome-desktop3](/f24/package/gnome-desktop3) | 384 | 384 | 100.0 | Kikongo, kg <lundombe01@zaya-dio.com> | 
+ | [gnome-menus](/f24/package/gnome-menus) | 125 | 125 | 100.0 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [xdg-user-dirs-gtk](/f24/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | kikongo <lundombe01@zaya-dio.com> | 
+ | [cinnamon-desktop](/f24/package/cinnamon-desktop) | 205 | 231 | 88.7 | Kikongo, kg <lundombe01@zaya-dio.com> | 
+ | [gtk3](/f24/package/gtk3) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
+ | [mingw-gtk3](/f24/package/mingw-gtk3) | 3245 | 13283 | 24.4 | GNOME kikongo Team <lundombe01@zaya-dio.com> | 
+ | [nautilus-sendto](/f24/package/nautilus-sendto) | 39 | 275 | 14.2 | kg (Kikongo) <kongo@kintuadi.org> | 
+ | [librfm](/f24/package/librfm) | 54 | 2397 | 2.3 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [rodent](/f24/package/rodent) | 69 | 9634 | 0.7 | Kikongo <lundombe01@zaya-dio.com> | 
+ | [stellarium](/f24/package/stellarium) | 1 | 23532 | 0.0 | Kongo <kg@li.org> | 
 {.sortable}
 
 
@@ -61,7 +61,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [bzflag]({{< ref "/f24/package/bzflag.md" >}}) | /mnt/stockage/packages/f24/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
+ | [bzflag](/f24/package/bzflag) | /mnt/stockage/packages/f24/bzflag/data/l10n/bzflag_kg.po | error-os |  | 
 {.sortable}
 
 

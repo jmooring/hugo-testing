@@ -39,17 +39,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [whaawmp]({{< ref "/f16/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
- | [terminator]({{< ref "/f16/package/terminator.md" >}}) | 270 | 339 | 79.6 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f16/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [pychess]({{< ref "/f16/package/pychess.md" >}}) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f16/package/gmpc.md" >}}) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
- | [widelands]({{< ref "/f16/package/widelands.md" >}}) | 38 | 2080 | 1.8 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f16/package/backintime.md" >}}) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
- | [avant-window-navigator]({{< ref "/f16/package/avant-window-navigator.md" >}}) | 5 | 1829 | 0.3 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f16/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [vidalia]({{< ref "/f16/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f16/package/viking.md" >}}) | 0 | 2049 | 0.0 | Javanese <jv@li.org> | 
+ | [whaawmp](/f16/package/whaawmp) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
+ | [terminator](/f16/package/terminator) | 270 | 339 | 79.6 | Javanese <jv@li.org> | 
+ | [gnome-do](/f16/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [pychess](/f16/package/pychess) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
+ | [gmpc](/f16/package/gmpc) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
+ | [widelands](/f16/package/widelands) | 38 | 2080 | 1.8 | Javanese <jv@li.org> | 
+ | [backintime](/f16/package/backintime) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
+ | [avant-window-navigator](/f16/package/avant-window-navigator) | 5 | 1829 | 0.3 | Javanese <jv@li.org> | 
+ | [ailurus](/f16/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [vidalia](/f16/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f16/package/viking) | 0 | 2049 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

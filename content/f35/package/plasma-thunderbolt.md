@@ -18,43 +18,43 @@ The package plasma-thunderbolt (version 5.25.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ar/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ar/kded_bolt.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/az/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/az/kded_bolt.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/bg/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/bg/kded_bolt.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ca/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ca/kded_bolt.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ca@valencia/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ca@valencia/kded_bolt.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/da/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/da/kded_bolt.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/de/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/de/kded_bolt.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/en_GB/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/en_GB/kded_bolt.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/es/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/es/kded_bolt.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/et/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/et/kded_bolt.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/eu/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/eu/kded_bolt.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/fi/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/fi/kded_bolt.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/fr/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/fr/kded_bolt.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/gl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/gl/kded_bolt.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/hu/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/hu/kded_bolt.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ia/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ia/kded_bolt.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/id/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/id/kded_bolt.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/it/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/it/kded_bolt.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ko/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ko/kded_bolt.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/lt/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/lt/kded_bolt.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/nl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/nl/kded_bolt.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/nn/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/nn/kded_bolt.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pl/kded_bolt.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pt/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pt/kded_bolt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pt_BR/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pt_BR/kded_bolt.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ro/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ro/kded_bolt.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ru/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ru/kded_bolt.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/sk/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/sk/kded_bolt.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/sl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/sl/kded_bolt.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/sv/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/sv/kded_bolt.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/tr/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/tr/kded_bolt.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/uk/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/uk/kded_bolt.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_CN/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_CN/kded_bolt.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_TW/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_TW/kded_bolt.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 95 | 178 | 53.4 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/cs/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/cs/kded_bolt.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 68 | 178 | 38.2 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pa/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pa/kded_bolt.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 2 | 178 | 1.1 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ml/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ml/kded_bolt.po | 
+ | [ar](/f35/language/ar) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ar/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ar/kded_bolt.po | 
+ | [az](/f35/language/az) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/az/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/az/kded_bolt.po | 
+ | [bg](/f35/language/bg) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/bg/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/bg/kded_bolt.po | 
+ | [ca](/f35/language/ca) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ca/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ca/kded_bolt.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ca@valencia/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ca@valencia/kded_bolt.po | 
+ | [da](/f35/language/da) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/da/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/da/kded_bolt.po | 
+ | [de](/f35/language/de) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/de/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/de/kded_bolt.po | 
+ | [en_GB](/f35/language/en_GB) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/en_GB/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/en_GB/kded_bolt.po | 
+ | [es](/f35/language/es) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/es/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/es/kded_bolt.po | 
+ | [et](/f35/language/et) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/et/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/et/kded_bolt.po | 
+ | [eu](/f35/language/eu) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/eu/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/eu/kded_bolt.po | 
+ | [fi](/f35/language/fi) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/fi/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/fi/kded_bolt.po | 
+ | [fr](/f35/language/fr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/fr/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/fr/kded_bolt.po | 
+ | [gl](/f35/language/gl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/gl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/gl/kded_bolt.po | 
+ | [hu](/f35/language/hu) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/hu/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/hu/kded_bolt.po | 
+ | [ia](/f35/language/ia) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ia/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ia/kded_bolt.po | 
+ | [id](/f35/language/id) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/id/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/id/kded_bolt.po | 
+ | [it](/f35/language/it) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/it/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/it/kded_bolt.po | 
+ | [ko](/f35/language/ko) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ko/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ko/kded_bolt.po | 
+ | [lt](/f35/language/lt) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/lt/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/lt/kded_bolt.po | 
+ | [nl](/f35/language/nl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/nl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/nl/kded_bolt.po | 
+ | [nn](/f35/language/nn) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/nn/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/nn/kded_bolt.po | 
+ | [pl](/f35/language/pl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pl/kded_bolt.po | 
+ | [pt](/f35/language/pt) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pt/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pt/kded_bolt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pt_BR/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pt_BR/kded_bolt.po | 
+ | [ro](/f35/language/ro) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ro/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ro/kded_bolt.po | 
+ | [ru](/f35/language/ru) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ru/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ru/kded_bolt.po | 
+ | [sk](/f35/language/sk) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/sk/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/sk/kded_bolt.po | 
+ | [sl](/f35/language/sl) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/sl/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/sl/kded_bolt.po | 
+ | [sv](/f35/language/sv) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/sv/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/sv/kded_bolt.po | 
+ | [tr](/f35/language/tr) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/tr/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/tr/kded_bolt.po | 
+ | [uk](/f35/language/uk) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/uk/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/uk/kded_bolt.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_CN/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_CN/kded_bolt.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 178 | 178 | 100.0 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_TW/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/zh_TW/kded_bolt.po | 
+ | [cs](/f35/language/cs) | 95 | 178 | 53.4 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/cs/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/cs/kded_bolt.po | 
+ | [pa](/f35/language/pa) | 68 | 178 | 38.2 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/pa/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/pa/kded_bolt.po | 
+ | [ml](/f35/language/ml) | 2 | 178 | 1.1 | /mnt/stockage/packages/f35/plasma-thunderbolt/po/ml/kcm_bolt.po/mnt/stockage/packages/f35/plasma-thunderbolt/po/ml/kded_bolt.po | 
 {.sortable}
 
 

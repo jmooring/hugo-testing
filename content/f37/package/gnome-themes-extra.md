@@ -18,79 +18,79 @@ The package gnome-themes-extra (version 3.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f37/language/af.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/af.po | 
- | [an]({{< ref "/f37/language/an.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/an.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ar.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/as.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/bg.po | 
- | [bn_IN]({{< ref "/f37/language/bn_IN.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/bn_IN.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/bs.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ca@valencia.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/el.po | 
- | [en_CA]({{< ref "/f37/language/en_CA.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/en_CA.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/en_GB.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/eo.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/es.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/et.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fa.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fur.po | 
- | [fy]({{< ref "/f37/language/fy.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fy.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ga.po | 
- | [gd]({{< ref "/f37/language/gd.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/gd.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/gl.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/gu.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/he.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/hi.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/id.po | 
- | [is]({{< ref "/f37/language/is.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/is.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ja.po | 
- | [kk]({{< ref "/f37/language/kk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/kk.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/km.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/kn.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ko.po | 
- | [ln]({{< ref "/f37/language/ln.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ln.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/lv.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ml.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/mr.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/nb.po | 
- | [ne]({{< ref "/f37/language/ne.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ne.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/nl.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/oc.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/or.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pa.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pt_BR.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sr.po/mnt/stockage/packages/f37/gnome-themes-extra/po/sr@latin.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sv.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ta.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/te.po | 
- | [tg]({{< ref "/f37/language/tg.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/tg.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/th.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/tr.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ug.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/uk.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/zh_HK.po | 
+ | [af](/f37/language/af) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/af.po | 
+ | [an](/f37/language/an) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/an.po | 
+ | [ar](/f37/language/ar) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ar.po | 
+ | [as](/f37/language/as) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/as.po | 
+ | [be](/f37/language/be) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/be.po | 
+ | [bg](/f37/language/bg) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/bg.po | 
+ | [bn_IN](/f37/language/bn_IN) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/bn_IN.po | 
+ | [bs](/f37/language/bs) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/bs.po | 
+ | [ca](/f37/language/ca) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ca@valencia.po | 
+ | [cs](/f37/language/cs) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/cs.po | 
+ | [da](/f37/language/da) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/da.po | 
+ | [de](/f37/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/de.po | 
+ | [el](/f37/language/el) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/el.po | 
+ | [en_CA](/f37/language/en_CA) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/en_CA.po | 
+ | [en_GB](/f37/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/en_GB.po | 
+ | [eo](/f37/language/eo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/eo.po | 
+ | [es](/f37/language/es) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/es.po | 
+ | [et](/f37/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/et.po | 
+ | [eu](/f37/language/eu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/eu.po | 
+ | [fa](/f37/language/fa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fa.po | 
+ | [fi](/f37/language/fi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fi.po | 
+ | [fr](/f37/language/fr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fr.po | 
+ | [fur](/f37/language/fur) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fur.po | 
+ | [fy](/f37/language/fy) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/fy.po | 
+ | [ga](/f37/language/ga) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ga.po | 
+ | [gd](/f37/language/gd) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/gd.po | 
+ | [gl](/f37/language/gl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/gl.po | 
+ | [gu](/f37/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/gu.po | 
+ | [he](/f37/language/he) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/he.po | 
+ | [hi](/f37/language/hi) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/hi.po | 
+ | [hr](/f37/language/hr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/hr.po | 
+ | [hu](/f37/language/hu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/hu.po | 
+ | [id](/f37/language/id) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/id.po | 
+ | [is](/f37/language/is) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/is.po | 
+ | [it](/f37/language/it) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/it.po | 
+ | [ja](/f37/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ja.po | 
+ | [kk](/f37/language/kk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/kk.po | 
+ | [km](/f37/language/km) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/km.po | 
+ | [kn](/f37/language/kn) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/kn.po | 
+ | [ko](/f37/language/ko) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ko.po | 
+ | [ln](/f37/language/ln) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ln.po | 
+ | [lt](/f37/language/lt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/lt.po | 
+ | [lv](/f37/language/lv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/lv.po | 
+ | [ml](/f37/language/ml) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ml.po | 
+ | [mr](/f37/language/mr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/mr.po | 
+ | [nb_NO](/f37/language/nb_NO) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/nb.po | 
+ | [ne](/f37/language/ne) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ne.po | 
+ | [nl](/f37/language/nl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/nl.po | 
+ | [oc](/f37/language/oc) | 10 | 10 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/oc.po | 
+ | [or](/f37/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/or.po | 
+ | [pa](/f37/language/pa) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pa.po | 
+ | [pl](/f37/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pl.po | 
+ | [pt](/f37/language/pt) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/pt_BR.po | 
+ | [ro](/f37/language/ro) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ro.po | 
+ | [ru](/f37/language/ru) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ru.po | 
+ | [sk](/f37/language/sk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sk.po | 
+ | [sl](/f37/language/sl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sl.po | 
+ | [sr](/f37/language/sr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sr.po/mnt/stockage/packages/f37/gnome-themes-extra/po/sr@latin.po | 
+ | [sv](/f37/language/sv) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/sv.po | 
+ | [ta](/f37/language/ta) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ta.po | 
+ | [te](/f37/language/te) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/te.po | 
+ | [tg](/f37/language/tg) | 12 | 12 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/tg.po | 
+ | [th](/f37/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/th.po | 
+ | [tr](/f37/language/tr) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/tr.po | 
+ | [ug](/f37/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/ug.po | 
+ | [uk](/f37/language/uk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/uk.po | 
+ | [uz](/f37/language/uz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/uz@cyrillic.po | 
+ | [vi](/f37/language/vi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 15 | 15 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/zh_TW.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/gnome-themes-extra/po/zh_HK.po | 
 {.sortable}
 
 

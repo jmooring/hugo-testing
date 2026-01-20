@@ -18,31 +18,31 @@ The package solaar (version 1.1.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f38/language/es.md" >}}) | 1721 | 1721 | 100.0 | /mnt/stockage/packages/f38/solaar/po/es.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f38/solaar/po/pl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f38/solaar/po/pt_BR.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1720 | 1721 | 99.9 | /mnt/stockage/packages/f38/solaar/po/fr.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1612 | 1620 | 99.5 | /mnt/stockage/packages/f38/solaar/po/zh_CN.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1341 | 1716 | 78.1 | /mnt/stockage/packages/f38/solaar/po/ru.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/cs.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/el.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/fi.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/hr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/it.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/ja.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/nb.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/nl.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/nn.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/pt.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/ro.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/sk.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/tr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/zh_TW.po | 
+ | [es](/f38/language/es) | 1721 | 1721 | 100.0 | /mnt/stockage/packages/f38/solaar/po/es.po | 
+ | [pl](/f38/language/pl) | 1823 | 1823 | 100.0 | /mnt/stockage/packages/f38/solaar/po/pl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f38/solaar/po/pt_BR.po | 
+ | [fr](/f38/language/fr) | 1720 | 1721 | 99.9 | /mnt/stockage/packages/f38/solaar/po/fr.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1612 | 1620 | 99.5 | /mnt/stockage/packages/f38/solaar/po/zh_CN.po | 
+ | [ru](/f38/language/ru) | 1341 | 1716 | 78.1 | /mnt/stockage/packages/f38/solaar/po/ru.po | 
+ | [ca](/f38/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/ca.po | 
+ | [cs](/f38/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/cs.po | 
+ | [da](/f38/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/da.po | 
+ | [de](/f38/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/de.po | 
+ | [el](/f38/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/el.po | 
+ | [fi](/f38/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/fi.po | 
+ | [hr](/f38/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/hr.po | 
+ | [it](/f38/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/it.po | 
+ | [ja](/f38/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/ja.po | 
+ | [nb_NO](/f38/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/nb.po | 
+ | [nl](/f38/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/nl.po | 
+ | [nn](/f38/language/nn) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/nn.po | 
+ | [pt](/f38/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/pt.po | 
+ | [ro](/f38/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/ro.po | 
+ | [sk](/f38/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/sk.po | 
+ | [sr](/f38/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/sr.po | 
+ | [sv](/f38/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/sv.po | 
+ | [tr](/f38/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/tr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f38/solaar/po/zh_TW.po | 
 {.sortable}
 
 

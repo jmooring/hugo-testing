@@ -18,8 +18,8 @@ The package gimp-fourier-plugin (version 0.4.5+gimp3rc1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f42/gimp-fourier-plugin/po/fr.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f42/gimp-fourier-plugin/po/pt.po | 
+ | [fr](/f42/language/fr) | 210 | 210 | 100.0 | /mnt/stockage/packages/f42/gimp-fourier-plugin/po/fr.po | 
+ | [pt](/f42/language/pt) | 210 | 210 | 100.0 | /mnt/stockage/packages/f42/gimp-fourier-plugin/po/pt.po | 
 {.sortable}
 
 

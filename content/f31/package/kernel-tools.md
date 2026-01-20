@@ -18,11 +18,11 @@ The package kernel-tools (version 5.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/fr.po | 
+ | [de](/f31/language/de) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/de.po | 
+ | [it](/f31/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/it.po | 
+ | [pt](/f31/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/pt.po | 
+ | [cs](/f31/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/cs.po | 
+ | [fr](/f31/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f31/kernel-tools/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

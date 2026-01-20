@@ -18,17 +18,17 @@ The package NetworkManager-openconnect (version 0.7.0.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/ca.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/el.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/et.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/hu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/sv.po | 
+ | [ca](/f10/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/ca.po | 
+ | [da](/f10/language/da) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/da.po | 
+ | [de](/f10/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/de.po | 
+ | [el](/f10/language/el) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/el.po | 
+ | [es](/f10/language/es) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/es.po | 
+ | [et](/f10/language/et) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/et.po | 
+ | [hu](/f10/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/hu.po | 
+ | [pl](/f10/language/pl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/ru.po | 
+ | [sv](/f10/language/sv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f10/NetworkManager-openconnect/po/sv.po | 
 {.sortable}
 
 

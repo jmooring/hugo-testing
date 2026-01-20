@@ -18,35 +18,35 @@ The package texi2html (version 5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ar.po | 
- | [ga]({{< ref "/f37/language/ga.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ga.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 251 | 353 | 71.1 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/pt.po/mnt/stockage/packages/f37/texi2html/po_document/pt.us-ascii.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 251 | 353 | 71.1 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/pt_BR.po/mnt/stockage/packages/f37/texi2html/po_document/pt_BR.us-ascii.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 1285 | 1996 | 64.4 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/it.po/mnt/stockage/packages/f37/texi2html/po_document/it.po/mnt/stockage/packages/f37/texi2html/po_messages/it.po | 
- | [ar_SA]({{< ref "/f37/language/ar_SA.md" >}}) | 12 | 19 | 63.2 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ar_SA.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1223 | 1977 | 61.9 | /mnt/stockage/packages/f37/texi2html/po_document/es.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/es.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 1249 | 2034 | 61.4 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/de.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/additional.de.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/existing.de.po/mnt/stockage/packages/f37/texi2html/po_document/de.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/de.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/id.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/pl.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/tr.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/zh_CN.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 938 | 1643 | 57.1 | /mnt/stockage/packages/f37/texi2html/po_messages/sv.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 1017 | 1996 | 51.0 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/nl.po/mnt/stockage/packages/f37/texi2html/po_document/nl.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/nl.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 766 | 1996 | 38.4 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/fr.po/mnt/stockage/packages/f37/texi2html/po_document/fr.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/fr.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 529 | 1662 | 31.8 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ru.po/mnt/stockage/packages/f37/texi2html/po_messages/ru.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 510 | 1643 | 31.0 | /mnt/stockage/packages/f37/texi2html/po_messages/eo.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 510 | 1643 | 31.0 | /mnt/stockage/packages/f37/texi2html/po_messages/ro.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 609 | 1977 | 30.8 | /mnt/stockage/packages/f37/texi2html/po_document/hu.po/mnt/stockage/packages/f37/texi2html/po_messages/hu.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 534 | 1977 | 27.0 | /mnt/stockage/packages/f37/texi2html/po_document/no.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/nb.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 358 | 1977 | 18.1 | /mnt/stockage/packages/f37/texi2html/po_document/ja.po/mnt/stockage/packages/f37/texi2html/po_messages/ja.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 242 | 1643 | 14.7 | /mnt/stockage/packages/f37/texi2html/po_messages/da.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 242 | 1643 | 14.7 | /mnt/stockage/packages/f37/texi2html/po_messages/he.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 211 | 1643 | 12.8 | /mnt/stockage/packages/f37/texi2html/po_messages/cs.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 175 | 1643 | 10.7 | /mnt/stockage/packages/f37/texi2html/po_messages/zh_TW.po | 
- | [de_AT]({{< ref "/f37/language/de_AT.md" >}}) | 5 | 1665 | 0.3 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/additional.de_AT.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/existing.de_AT.po/mnt/stockage/packages/f37/texi2html/po_messages/de_AT.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 0 | 1643 | 0.0 | /mnt/stockage/packages/f37/texi2html/po_messages/hr.po | 
- | [rw]({{< ref "/f37/language/rw.md" >}}) | 0 | 1643 | 0.0 | /mnt/stockage/packages/f37/texi2html/po_messages/rw.po | 
+ | [ar](/f37/language/ar) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ar.po | 
+ | [ga](/f37/language/ga) | 19 | 19 | 100.0 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ga.po | 
+ | [pt](/f37/language/pt) | 251 | 353 | 71.1 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/pt.po/mnt/stockage/packages/f37/texi2html/po_document/pt.us-ascii.po | 
+ | [pt_BR](/f37/language/pt_BR) | 251 | 353 | 71.1 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/pt_BR.po/mnt/stockage/packages/f37/texi2html/po_document/pt_BR.us-ascii.po | 
+ | [it](/f37/language/it) | 1285 | 1996 | 64.4 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/it.po/mnt/stockage/packages/f37/texi2html/po_document/it.po/mnt/stockage/packages/f37/texi2html/po_messages/it.po | 
+ | [ar_SA](/f37/language/ar_SA) | 12 | 19 | 63.2 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ar_SA.po | 
+ | [es](/f37/language/es) | 1223 | 1977 | 61.9 | /mnt/stockage/packages/f37/texi2html/po_document/es.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/es.po | 
+ | [de](/f37/language/de) | 1249 | 2034 | 61.4 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/de.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/additional.de.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/existing.de.po/mnt/stockage/packages/f37/texi2html/po_document/de.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/de.po | 
+ | [id](/f37/language/id) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/id.po | 
+ | [pl](/f37/language/pl) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/pl.po | 
+ | [tr](/f37/language/tr) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/tr.po | 
+ | [vi](/f37/language/vi) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 974 | 1643 | 59.3 | /mnt/stockage/packages/f37/texi2html/po_messages/zh_CN.po | 
+ | [sv](/f37/language/sv) | 938 | 1643 | 57.1 | /mnt/stockage/packages/f37/texi2html/po_messages/sv.po | 
+ | [nl](/f37/language/nl) | 1017 | 1996 | 51.0 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/nl.po/mnt/stockage/packages/f37/texi2html/po_document/nl.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/nl.po | 
+ | [fr](/f37/language/fr) | 766 | 1996 | 38.4 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/fr.po/mnt/stockage/packages/f37/texi2html/po_document/fr.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/fr.po | 
+ | [ru](/f37/language/ru) | 529 | 1662 | 31.8 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/ru.po/mnt/stockage/packages/f37/texi2html/po_messages/ru.po | 
+ | [eo](/f37/language/eo) | 510 | 1643 | 31.0 | /mnt/stockage/packages/f37/texi2html/po_messages/eo.po | 
+ | [ro](/f37/language/ro) | 510 | 1643 | 31.0 | /mnt/stockage/packages/f37/texi2html/po_messages/ro.po | 
+ | [hu](/f37/language/hu) | 609 | 1977 | 30.8 | /mnt/stockage/packages/f37/texi2html/po_document/hu.po/mnt/stockage/packages/f37/texi2html/po_messages/hu.po | 
+ | [nb_NO](/f37/language/nb_NO) | 534 | 1977 | 27.0 | /mnt/stockage/packages/f37/texi2html/po_document/no.us-ascii.po/mnt/stockage/packages/f37/texi2html/po_messages/nb.po | 
+ | [ja](/f37/language/ja) | 358 | 1977 | 18.1 | /mnt/stockage/packages/f37/texi2html/po_document/ja.po/mnt/stockage/packages/f37/texi2html/po_messages/ja.po | 
+ | [da](/f37/language/da) | 242 | 1643 | 14.7 | /mnt/stockage/packages/f37/texi2html/po_messages/da.po | 
+ | [he](/f37/language/he) | 242 | 1643 | 14.7 | /mnt/stockage/packages/f37/texi2html/po_messages/he.po | 
+ | [cs](/f37/language/cs) | 211 | 1643 | 12.8 | /mnt/stockage/packages/f37/texi2html/po_messages/cs.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 175 | 1643 | 10.7 | /mnt/stockage/packages/f37/texi2html/po_messages/zh_TW.po | 
+ | [de_AT](/f37/language/de_AT) | 5 | 1665 | 0.3 | /mnt/stockage/packages/f37/texi2html/lib/libintl-perl/sample/simplecal/po/de_AT.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/additional.de_AT.po/mnt/stockage/packages/f37/texi2html/lib/libintl-perl/tests/po/existing.de_AT.po/mnt/stockage/packages/f37/texi2html/po_messages/de_AT.po | 
+ | [hr](/f37/language/hr) | 0 | 1643 | 0.0 | /mnt/stockage/packages/f37/texi2html/po_messages/hr.po | 
+ | [rw](/f37/language/rw) | 0 | 1643 | 0.0 | /mnt/stockage/packages/f37/texi2html/po_messages/rw.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package office-runner (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/fr.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/ru.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/sr@latin.po/mnt/stockage/packages/f28/office-runner/po/sr.po | 
+ | [cs](/f28/language/cs) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/cs.po | 
+ | [de](/f28/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/de.po | 
+ | [es](/f28/language/es) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/es.po | 
+ | [fr](/f28/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/fr.po | 
+ | [pl](/f28/language/pl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/ru.po | 
+ | [sl](/f28/language/sl) | 125 | 125 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/sl.po | 
+ | [sr](/f28/language/sr) | 250 | 250 | 100.0 | /mnt/stockage/packages/f28/office-runner/po/sr@latin.po/mnt/stockage/packages/f28/office-runner/po/sr.po | 
 {.sortable}
 
 

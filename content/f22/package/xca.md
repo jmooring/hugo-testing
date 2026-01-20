@@ -18,9 +18,9 @@ The package xca (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 3085 | 3085 | 100.0 | /mnt/stockage/packages/f22/xca/lang/fr.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 392 | 3286 | 11.9 | /mnt/stockage/packages/f22/xca/lang/tr.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 197 | 3269 | 6.0 | /mnt/stockage/packages/f22/xca/lang/es.po | 
+ | [fr](/f22/language/fr) | 3085 | 3085 | 100.0 | /mnt/stockage/packages/f22/xca/lang/fr.po | 
+ | [tr](/f22/language/tr) | 392 | 3286 | 11.9 | /mnt/stockage/packages/f22/xca/lang/tr.po | 
+ | [es](/f22/language/es) | 197 | 3269 | 6.0 | /mnt/stockage/packages/f22/xca/lang/es.po | 
 {.sortable}
 
 

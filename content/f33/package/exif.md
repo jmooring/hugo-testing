@@ -18,37 +18,37 @@ The package exif (version 0.6.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ast.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/de.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/fur.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/gl.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/hr.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/id.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ja.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ko.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/lv.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/nl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/sk.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/sv.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/zh_CN.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 204 | 273 | 74.7 | /mnt/stockage/packages/f33/exif/po/ro.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 154 | 296 | 52.0 | /mnt/stockage/packages/f33/exif/po/ms.po | 
+ | [ast](/f33/language/ast) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ast.po | 
+ | [cs](/f33/language/cs) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/cs.po | 
+ | [da](/f33/language/da) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/da.po | 
+ | [de](/f33/language/de) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/de.po | 
+ | [eo](/f33/language/eo) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/eo.po | 
+ | [es](/f33/language/es) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/es.po | 
+ | [fi](/f33/language/fi) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/fi.po | 
+ | [fr](/f33/language/fr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/fr.po | 
+ | [fur](/f33/language/fur) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/fur.po | 
+ | [gl](/f33/language/gl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/gl.po | 
+ | [hr](/f33/language/hr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/hr.po | 
+ | [id](/f33/language/id) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/id.po | 
+ | [is](/f33/language/is) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/is.po | 
+ | [it](/f33/language/it) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/it.po | 
+ | [ja](/f33/language/ja) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ja.po | 
+ | [ko](/f33/language/ko) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ko.po | 
+ | [lv](/f33/language/lv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/lv.po | 
+ | [nl](/f33/language/nl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/nl.po | 
+ | [pl](/f33/language/pl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/pl.po | 
+ | [pt](/f33/language/pt) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/ru.po | 
+ | [sk](/f33/language/sk) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/sk.po | 
+ | [sr](/f33/language/sr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/sr.po | 
+ | [sv](/f33/language/sv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/sv.po | 
+ | [tr](/f33/language/tr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/tr.po | 
+ | [uk](/f33/language/uk) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/uk.po | 
+ | [vi](/f33/language/vi) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/exif/po/zh_CN.po | 
+ | [ro](/f33/language/ro) | 204 | 273 | 74.7 | /mnt/stockage/packages/f33/exif/po/ro.po | 
+ | [ms](/f33/language/ms) | 154 | 296 | 52.0 | /mnt/stockage/packages/f33/exif/po/ms.po | 
 {.sortable}
 
 

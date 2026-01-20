@@ -18,11 +18,11 @@ The package partclone (version 0.3.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 202 | 229 | 88.2 | /mnt/stockage/packages/f35/partclone/po/pt_BR.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 167 | 229 | 72.9 | /mnt/stockage/packages/f35/partclone/po/vi.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 129 | 229 | 56.3 | /mnt/stockage/packages/f35/partclone/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 129 | 229 | 56.3 | /mnt/stockage/packages/f35/partclone/po/zh_TW.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 91 | 229 | 39.7 | /mnt/stockage/packages/f35/partclone/po/fr_FR.po | 
+ | [pt_BR](/f35/language/pt_BR) | 202 | 229 | 88.2 | /mnt/stockage/packages/f35/partclone/po/pt_BR.po | 
+ | [vi](/f35/language/vi) | 167 | 229 | 72.9 | /mnt/stockage/packages/f35/partclone/po/vi.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 129 | 229 | 56.3 | /mnt/stockage/packages/f35/partclone/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 129 | 229 | 56.3 | /mnt/stockage/packages/f35/partclone/po/zh_TW.po | 
+ | [fr](/f35/language/fr) | 91 | 229 | 39.7 | /mnt/stockage/packages/f35/partclone/po/fr_FR.po | 
 {.sortable}
 
 

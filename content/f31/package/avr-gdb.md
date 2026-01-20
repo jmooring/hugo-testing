@@ -18,27 +18,27 @@ The package avr-gdb (version 8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 2108 | 2108 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/de.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/es.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/es.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/fi.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 13819 | 13819 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/fr.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/fr.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/ga.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/id.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/id.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/it.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/ro.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/ro.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/ru.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/sr.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 9985 | 9985 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/sv.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/sv.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/tr.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 13819 | 13819 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/uk.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/uk.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/vi.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/vi.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 10087 | 10490 | 96.2 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/da.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/da.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1930 | 11227 | 17.2 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/zh_CN.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 195 | 8369 | 2.3 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/hr.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/rw.po | 
+ | [de](/f31/language/de) | 2108 | 2108 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/de.po | 
+ | [es](/f31/language/es) | 9792 | 9792 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/es.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/es.po | 
+ | [fi](/f31/language/fi) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/fi.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/fi.po | 
+ | [fr](/f31/language/fr) | 13819 | 13819 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/fr.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/fr.po | 
+ | [ga](/f31/language/ga) | 1602 | 1602 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/ga.po | 
+ | [id](/f31/language/id) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/id.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/id.po | 
+ | [it](/f31/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/it.po | 
+ | [nl](/f31/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/nl.po | 
+ | [pt_BR](/f31/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/opcodes/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/ro.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/ro.po | 
+ | [ru](/f31/language/ru) | 8369 | 8369 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/ru.po | 
+ | [sr](/f31/language/sr) | 10721 | 10721 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/sr.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/sr.po | 
+ | [sv](/f31/language/sv) | 9985 | 9985 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/sv.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/sv.po | 
+ | [tr](/f31/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/tr.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/tr.po | 
+ | [uk](/f31/language/uk) | 13819 | 13819 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/uk.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/uk.po | 
+ | [vi](/f31/language/vi) | 10001 | 10001 | 100.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/vi.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/vi.po | 
+ | [da](/f31/language/da) | 10087 | 10490 | 96.2 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/da.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/da.po | 
+ | [ja](/f31/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/ja.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1930 | 11227 | 17.2 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f31/avr-gdb/opcodes/po/zh_CN.po | 
+ | [hr](/f31/language/hr) | 195 | 8369 | 2.3 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/hr.po | 
+ | [rw](/f31/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f31/avr-gdb/bfd/po/rw.po | 
 {.sortable}
 
 

@@ -38,105 +38,105 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f9/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Assamese | 
- | [anaconda]({{< ref "/f9/package/anaconda.md" >}}) | 10040 | 10040 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [atk]({{< ref "/f9/package/atk.md" >}}) | 370 | 370 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [authconfig]({{< ref "/f9/package/authconfig.md" >}}) | 1292 | 1292 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [bug-buddy]({{< ref "/f9/package/bug-buddy.md" >}}) | 972 | 972 | 100.0 | Assamese | 
- | [chkconfig]({{< ref "/f9/package/chkconfig.md" >}}) | 430 | 430 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [compiz]({{< ref "/f9/package/compiz.md" >}}) | 66 | 66 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [control-center]({{< ref "/f9/package/control-center.md" >}}) | 3064 | 3064 | 100.0 | Assamese | 
- | [dasher]({{< ref "/f9/package/dasher.md" >}}) | 460 | 460 | 100.0 | Assamese | 
- | [deskbar-applet]({{< ref "/f9/package/deskbar-applet.md" >}}) | 1123 | 1123 | 100.0 | Assamese | 
- | [eel2]({{< ref "/f9/package/eel2.md" >}}) | 161 | 161 | 100.0 | Assamese | 
- | [eog]({{< ref "/f9/package/eog.md" >}}) | 1140 | 1140 | 100.0 | Assamese | 
- | [epiphany]({{< ref "/f9/package/epiphany.md" >}}) | 4244 | 4244 | 100.0 | Assamese | 
- | [evince]({{< ref "/f9/package/evince.md" >}}) | 1015 | 1015 | 100.0 | Assamese | 
- | [evolution-data-server]({{< ref "/f9/package/evolution-data-server.md" >}}) | 5044 | 5044 | 100.0 | Assamese | 
- | [evolution-exchange]({{< ref "/f9/package/evolution-exchange.md" >}}) | 1314 | 1314 | 100.0 | Assamese | 
- | [evolution-webcal]({{< ref "/f9/package/evolution-webcal.md" >}}) | 184 | 184 | 100.0 | Assamese | 
- | [gcalctool]({{< ref "/f9/package/gcalctool.md" >}}) | 1156 | 1156 | 100.0 | Assamese | 
- | [gconf-editor]({{< ref "/f9/package/gconf-editor.md" >}}) | 335 | 335 | 100.0 | Assamese | 
- | [gdm]({{< ref "/f9/package/gdm.md" >}}) | 686 | 686 | 100.0 | Assamese | 
- | [gnome-applets]({{< ref "/f9/package/gnome-applets.md" >}}) | 3740 | 3740 | 100.0 | Assamese | 
- | [gnome-backgrounds]({{< ref "/f9/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | ASSAMESE | 
- | [gnome-mag]({{< ref "/f9/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Assamese | 
- | [gnome-media]({{< ref "/f9/package/gnome-media.md" >}}) | 1923 | 1923 | 100.0 | Assamese | 
- | [gnome-menus]({{< ref "/f9/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | Assamese | 
- | [gnome-nettool]({{< ref "/f9/package/gnome-nettool.md" >}}) | 573 | 573 | 100.0 | Assamese | 
- | [gnome-panel]({{< ref "/f9/package/gnome-panel.md" >}}) | 4673 | 4673 | 100.0 | Assamese | 
- | [gnome-power-manager]({{< ref "/f9/package/gnome-power-manager.md" >}}) | 3575 | 3575 | 100.0 | Assamese | 
- | [gnome-screensaver]({{< ref "/f9/package/gnome-screensaver.md" >}}) | 955 | 955 | 100.0 | Assamese | 
- | [gnome-terminal]({{< ref "/f9/package/gnome-terminal.md" >}}) | 4599 | 4599 | 100.0 | Assamese | 
- | [gnome-vfs2]({{< ref "/f9/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Assamese | 
- | [gtkhtml3]({{< ref "/f9/package/gtkhtml3.md" >}}) | 920 | 920 | 100.0 | Assamese | 
- | [hwbrowser]({{< ref "/f9/package/hwbrowser.md" >}}) | 116 | 116 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [im-chooser]({{< ref "/f9/package/im-chooser.md" >}}) | 466 | 466 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [initscripts]({{< ref "/f9/package/initscripts.md" >}}) | 3806 | 3806 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [kexec-tools]({{< ref "/f9/package/kexec-tools.md" >}}) | 206 | 206 | 100.0 | Assamese | 
- | [libbonobo]({{< ref "/f9/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Assamese | 
- | [libbonoboui]({{< ref "/f9/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Assamese | 
- | [libgnomeui]({{< ref "/f9/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Assamese | 
- | [libgweather]({{< ref "/f9/package/libgweather.md" >}}) | 6717 | 6717 | 100.0 | Assamese | 
- | [libuser]({{< ref "/f9/package/libuser.md" >}}) | 1064 | 1064 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [metacity]({{< ref "/f9/package/metacity.md" >}}) | 7924 | 7924 | 100.0 | Assamese | 
- | [nautilus-cd-burner]({{< ref "/f9/package/nautilus-cd-burner.md" >}}) | 1315 | 1315 | 100.0 | Assamese | 
- | [passwd]({{< ref "/f9/package/passwd.md" >}}) | 291 | 291 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [pykickstart]({{< ref "/f9/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [redhat-menus]({{< ref "/f9/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [rhgb]({{< ref "/f9/package/rhgb.md" >}}) | 59 | 59 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [rhpl]({{< ref "/f9/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [rhpxl]({{< ref "/f9/package/rhpxl.md" >}}) | 130 | 130 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [sabayon]({{< ref "/f9/package/sabayon.md" >}}) | 1178 | 1178 | 100.0 | Assamese | 
- | [scim]({{< ref "/f9/package/scim.md" >}}) | 1173 | 1173 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [setuptool]({{< ref "/f9/package/setuptool.md" >}}) | 60 | 60 | 100.0 | Assamese | 
- | [smolt]({{< ref "/f9/package/smolt.md" >}}) | 801 | 801 | 100.0 | Assamese | 
- | [sound-juicer]({{< ref "/f9/package/sound-juicer.md" >}}) | 917 | 917 | 100.0 | Assamese | 
- | [switchdesk]({{< ref "/f9/package/switchdesk.md" >}}) | 137 | 137 | 100.0 | Assamese | 
- | [system-config-boot]({{< ref "/f9/package/system-config-boot.md" >}}) | 46 | 46 | 100.0 | <en@li.org> | 
- | [system-config-date]({{< ref "/f9/package/system-config-date.md" >}}) | 1516 | 1516 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [system-config-display]({{< ref "/f9/package/system-config-display.md" >}}) | 398 | 398 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [system-config-kdump]({{< ref "/f9/package/system-config-kdump.md" >}}) | 383 | 383 | 100.0 | Assamese | 
- | [system-config-keyboard]({{< ref "/f9/package/system-config-keyboard.md" >}}) | 78 | 78 | 100.0 | Assamese | 
- | [system-config-kickstart]({{< ref "/f9/package/system-config-kickstart.md" >}}) | 1054 | 1054 | 100.0 | Assamese | 
- | [system-config-language]({{< ref "/f9/package/system-config-language.md" >}}) | 49 | 49 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
- | [system-config-network]({{< ref "/f9/package/system-config-network.md" >}}) | 2856 | 2856 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [system-config-rootpassword]({{< ref "/f9/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Assamese | 
- | [system-switch-mail]({{< ref "/f9/package/system-switch-mail.md" >}}) | 134 | 134 | 100.0 | Assamese | 
- | [tomboy]({{< ref "/f9/package/tomboy.md" >}}) | 2560 | 2560 | 100.0 | Assamese | 
- | [totem]({{< ref "/f9/package/totem.md" >}}) | 2145 | 2145 | 100.0 | Assamese | 
- | [usermode]({{< ref "/f9/package/usermode.md" >}}) | 564 | 564 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [vino]({{< ref "/f9/package/vino.md" >}}) | 993 | 993 | 100.0 | Assamese | 
- | [zenity]({{< ref "/f9/package/zenity.md" >}}) | 559 | 559 | 100.0 | Assamese | 
- | [gnome-games]({{< ref "/f9/package/gnome-games.md" >}}) | 7485 | 7494 | 99.9 | Assamese | 
- | [system-config-bind]({{< ref "/f9/package/system-config-bind.md" >}}) | 9346 | 9427 | 99.1 | <en@li.org> | 
- | [libgnome]({{< ref "/f9/package/libgnome.md" >}}) | 1638 | 1656 | 98.9 | Assamese | 
- | [gail]({{< ref "/f9/package/gail.md" >}}) | 168 | 170 | 98.8 | ASSAMESE <assameselinux-developer@lists.sourceforge.net> | 
- | [firstboot]({{< ref "/f9/package/firstboot.md" >}}) | 592 | 604 | 98.0 | Assamese | 
- | [evolution]({{< ref "/f9/package/evolution.md" >}}) | 20060 | 20603 | 97.4 | Assamese | 
- | [system-config-nfs]({{< ref "/f9/package/system-config-nfs.md" >}}) | 644 | 664 | 97.0 | Assamese <fedora-trans-as@redhat.com> | 
- | [gedit]({{< ref "/f9/package/gedit.md" >}}) | 4921 | 5096 | 96.6 | Assamese | 
- | [gtk2]({{< ref "/f9/package/gtk2.md" >}}) | 11576 | 12092 | 95.7 | Assamese | 
- | [file-roller]({{< ref "/f9/package/file-roller.md" >}}) | 1084 | 1159 | 93.5 | Assamese | 
- | [nautilus]({{< ref "/f9/package/nautilus.md" >}}) | 6200 | 6969 | 89.0 | Assamese | 
- | [yelp]({{< ref "/f9/package/yelp.md" >}}) | 917 | 1035 | 88.6 | Assamese | 
- | [pam]({{< ref "/f9/package/pam.md" >}}) | 445 | 517 | 86.1 | Assamese <fedora-trans-as@redhat.com> | 
- | [publican-fedora]({{< ref "/f9/package/publican-fedora.md" >}}) | 898 | 1079 | 83.2 | <en@li.org> | 
- | [GConf2]({{< ref "/f9/package/GConf2.md" >}}) | 3257 | 4004 | 81.3 | Assamese | 
- | [system-config-httpd]({{< ref "/f9/package/system-config-httpd.md" >}}) | 648 | 858 | 75.5 | Assamese <assam@mm.assam-glug.org> | 
- | [system-config-firewall]({{< ref "/f9/package/system-config-firewall.md" >}}) | 1721 | 2350 | 73.2 | Assamese | 
- | [system-config-printer]({{< ref "/f9/package/system-config-printer.md" >}}) | 1611 | 2265 | 71.1 | Assamese | 
- | [system-config-users]({{< ref "/f9/package/system-config-users.md" >}}) | 1317 | 2391 | 55.1 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f9/package/system-config-services.md" >}}) | 267 | 689 | 38.8 | Assamese <fedora-trans-as@redhat.com> | 
- | [system-config-samba]({{< ref "/f9/package/system-config-samba.md" >}}) | 432 | 1620 | 26.7 | LANGUAGE <LL@li.org> | 
- | [glib2]({{< ref "/f9/package/glib2.md" >}}) | 574 | 2158 | 26.6 | Assamese | 
- | [publican]({{< ref "/f9/package/publican.md" >}}) | 370 | 3345 | 11.1 | <en@li.org> | 
- | [libvirt]({{< ref "/f9/package/libvirt.md" >}}) | 412 | 6298 | 6.5 | Assamese | 
- | [policycoreutils]({{< ref "/f9/package/policycoreutils.md" >}}) | 0 | 1214 | 0.0 | Assamese | 
- | [setroubleshoot]({{< ref "/f9/package/setroubleshoot.md" >}}) | 0 | 544 | 0.0 | Assamese | 
- | [setroubleshoot-plugins]({{< ref "/f9/package/setroubleshoot-plugins.md" >}}) | 0 | 7900 | 0.0 | Assamese | 
- | [sos]({{< ref "/f9/package/sos.md" >}}) | 0 | 283 | 0.0 | none | 
- | [system-config-lvm]({{< ref "/f9/package/system-config-lvm.md" >}}) | 0 | 2142 | 0.0 | Assamese | 
+ | [alacarte](/f9/package/alacarte) | 42 | 42 | 100.0 | Assamese | 
+ | [anaconda](/f9/package/anaconda) | 10040 | 10040 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [atk](/f9/package/atk) | 370 | 370 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [authconfig](/f9/package/authconfig) | 1292 | 1292 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [bug-buddy](/f9/package/bug-buddy) | 972 | 972 | 100.0 | Assamese | 
+ | [chkconfig](/f9/package/chkconfig) | 430 | 430 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [compiz](/f9/package/compiz) | 66 | 66 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [control-center](/f9/package/control-center) | 3064 | 3064 | 100.0 | Assamese | 
+ | [dasher](/f9/package/dasher) | 460 | 460 | 100.0 | Assamese | 
+ | [deskbar-applet](/f9/package/deskbar-applet) | 1123 | 1123 | 100.0 | Assamese | 
+ | [eel2](/f9/package/eel2) | 161 | 161 | 100.0 | Assamese | 
+ | [eog](/f9/package/eog) | 1140 | 1140 | 100.0 | Assamese | 
+ | [epiphany](/f9/package/epiphany) | 4244 | 4244 | 100.0 | Assamese | 
+ | [evince](/f9/package/evince) | 1015 | 1015 | 100.0 | Assamese | 
+ | [evolution-data-server](/f9/package/evolution-data-server) | 5044 | 5044 | 100.0 | Assamese | 
+ | [evolution-exchange](/f9/package/evolution-exchange) | 1314 | 1314 | 100.0 | Assamese | 
+ | [evolution-webcal](/f9/package/evolution-webcal) | 184 | 184 | 100.0 | Assamese | 
+ | [gcalctool](/f9/package/gcalctool) | 1156 | 1156 | 100.0 | Assamese | 
+ | [gconf-editor](/f9/package/gconf-editor) | 335 | 335 | 100.0 | Assamese | 
+ | [gdm](/f9/package/gdm) | 686 | 686 | 100.0 | Assamese | 
+ | [gnome-applets](/f9/package/gnome-applets) | 3740 | 3740 | 100.0 | Assamese | 
+ | [gnome-backgrounds](/f9/package/gnome-backgrounds) | 18 | 18 | 100.0 | ASSAMESE | 
+ | [gnome-mag](/f9/package/gnome-mag) | 5 | 5 | 100.0 | Assamese | 
+ | [gnome-media](/f9/package/gnome-media) | 1923 | 1923 | 100.0 | Assamese | 
+ | [gnome-menus](/f9/package/gnome-menus) | 165 | 165 | 100.0 | Assamese | 
+ | [gnome-nettool](/f9/package/gnome-nettool) | 573 | 573 | 100.0 | Assamese | 
+ | [gnome-panel](/f9/package/gnome-panel) | 4673 | 4673 | 100.0 | Assamese | 
+ | [gnome-power-manager](/f9/package/gnome-power-manager) | 3575 | 3575 | 100.0 | Assamese | 
+ | [gnome-screensaver](/f9/package/gnome-screensaver) | 955 | 955 | 100.0 | Assamese | 
+ | [gnome-terminal](/f9/package/gnome-terminal) | 4599 | 4599 | 100.0 | Assamese | 
+ | [gnome-vfs2](/f9/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Assamese | 
+ | [gtkhtml3](/f9/package/gtkhtml3) | 920 | 920 | 100.0 | Assamese | 
+ | [hwbrowser](/f9/package/hwbrowser) | 116 | 116 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [im-chooser](/f9/package/im-chooser) | 466 | 466 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [initscripts](/f9/package/initscripts) | 3806 | 3806 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [kexec-tools](/f9/package/kexec-tools) | 206 | 206 | 100.0 | Assamese | 
+ | [libbonobo](/f9/package/libbonobo) | 543 | 543 | 100.0 | Assamese | 
+ | [libbonoboui](/f9/package/libbonoboui) | 368 | 368 | 100.0 | Assamese | 
+ | [libgnomeui](/f9/package/libgnomeui) | 1309 | 1309 | 100.0 | Assamese | 
+ | [libgweather](/f9/package/libgweather) | 6717 | 6717 | 100.0 | Assamese | 
+ | [libuser](/f9/package/libuser) | 1064 | 1064 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [metacity](/f9/package/metacity) | 7924 | 7924 | 100.0 | Assamese | 
+ | [nautilus-cd-burner](/f9/package/nautilus-cd-burner) | 1315 | 1315 | 100.0 | Assamese | 
+ | [passwd](/f9/package/passwd) | 291 | 291 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [pykickstart](/f9/package/pykickstart) | 284 | 284 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [redhat-menus](/f9/package/redhat-menus) | 261 | 261 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [rhgb](/f9/package/rhgb) | 59 | 59 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [rhpl](/f9/package/rhpl) | 185 | 185 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [rhpxl](/f9/package/rhpxl) | 130 | 130 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [sabayon](/f9/package/sabayon) | 1178 | 1178 | 100.0 | Assamese | 
+ | [scim](/f9/package/scim) | 1173 | 1173 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [setuptool](/f9/package/setuptool) | 60 | 60 | 100.0 | Assamese | 
+ | [smolt](/f9/package/smolt) | 801 | 801 | 100.0 | Assamese | 
+ | [sound-juicer](/f9/package/sound-juicer) | 917 | 917 | 100.0 | Assamese | 
+ | [switchdesk](/f9/package/switchdesk) | 137 | 137 | 100.0 | Assamese | 
+ | [system-config-boot](/f9/package/system-config-boot) | 46 | 46 | 100.0 | <en@li.org> | 
+ | [system-config-date](/f9/package/system-config-date) | 1516 | 1516 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [system-config-display](/f9/package/system-config-display) | 398 | 398 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [system-config-kdump](/f9/package/system-config-kdump) | 383 | 383 | 100.0 | Assamese | 
+ | [system-config-keyboard](/f9/package/system-config-keyboard) | 78 | 78 | 100.0 | Assamese | 
+ | [system-config-kickstart](/f9/package/system-config-kickstart) | 1054 | 1054 | 100.0 | Assamese | 
+ | [system-config-language](/f9/package/system-config-language) | 49 | 49 | 100.0 | Assamese <assam@mm.assam-glug.org> | 
+ | [system-config-network](/f9/package/system-config-network) | 2856 | 2856 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [system-config-rootpassword](/f9/package/system-config-rootpassword) | 116 | 116 | 100.0 | Assamese | 
+ | [system-switch-mail](/f9/package/system-switch-mail) | 134 | 134 | 100.0 | Assamese | 
+ | [tomboy](/f9/package/tomboy) | 2560 | 2560 | 100.0 | Assamese | 
+ | [totem](/f9/package/totem) | 2145 | 2145 | 100.0 | Assamese | 
+ | [usermode](/f9/package/usermode) | 564 | 564 | 100.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [vino](/f9/package/vino) | 993 | 993 | 100.0 | Assamese | 
+ | [zenity](/f9/package/zenity) | 559 | 559 | 100.0 | Assamese | 
+ | [gnome-games](/f9/package/gnome-games) | 7485 | 7494 | 99.9 | Assamese | 
+ | [system-config-bind](/f9/package/system-config-bind) | 9346 | 9427 | 99.1 | <en@li.org> | 
+ | [libgnome](/f9/package/libgnome) | 1638 | 1656 | 98.9 | Assamese | 
+ | [gail](/f9/package/gail) | 168 | 170 | 98.8 | ASSAMESE <assameselinux-developer@lists.sourceforge.net> | 
+ | [firstboot](/f9/package/firstboot) | 592 | 604 | 98.0 | Assamese | 
+ | [evolution](/f9/package/evolution) | 20060 | 20603 | 97.4 | Assamese | 
+ | [system-config-nfs](/f9/package/system-config-nfs) | 644 | 664 | 97.0 | Assamese <fedora-trans-as@redhat.com> | 
+ | [gedit](/f9/package/gedit) | 4921 | 5096 | 96.6 | Assamese | 
+ | [gtk2](/f9/package/gtk2) | 11576 | 12092 | 95.7 | Assamese | 
+ | [file-roller](/f9/package/file-roller) | 1084 | 1159 | 93.5 | Assamese | 
+ | [nautilus](/f9/package/nautilus) | 6200 | 6969 | 89.0 | Assamese | 
+ | [yelp](/f9/package/yelp) | 917 | 1035 | 88.6 | Assamese | 
+ | [pam](/f9/package/pam) | 445 | 517 | 86.1 | Assamese <fedora-trans-as@redhat.com> | 
+ | [publican-fedora](/f9/package/publican-fedora) | 898 | 1079 | 83.2 | <en@li.org> | 
+ | [GConf2](/f9/package/GConf2) | 3257 | 4004 | 81.3 | Assamese | 
+ | [system-config-httpd](/f9/package/system-config-httpd) | 648 | 858 | 75.5 | Assamese <assam@mm.assam-glug.org> | 
+ | [system-config-firewall](/f9/package/system-config-firewall) | 1721 | 2350 | 73.2 | Assamese | 
+ | [system-config-printer](/f9/package/system-config-printer) | 1611 | 2265 | 71.1 | Assamese | 
+ | [system-config-users](/f9/package/system-config-users) | 1317 | 2391 | 55.1 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f9/package/system-config-services) | 267 | 689 | 38.8 | Assamese <fedora-trans-as@redhat.com> | 
+ | [system-config-samba](/f9/package/system-config-samba) | 432 | 1620 | 26.7 | LANGUAGE <LL@li.org> | 
+ | [glib2](/f9/package/glib2) | 574 | 2158 | 26.6 | Assamese | 
+ | [publican](/f9/package/publican) | 370 | 3345 | 11.1 | <en@li.org> | 
+ | [libvirt](/f9/package/libvirt) | 412 | 6298 | 6.5 | Assamese | 
+ | [policycoreutils](/f9/package/policycoreutils) | 0 | 1214 | 0.0 | Assamese | 
+ | [setroubleshoot](/f9/package/setroubleshoot) | 0 | 544 | 0.0 | Assamese | 
+ | [setroubleshoot-plugins](/f9/package/setroubleshoot-plugins) | 0 | 7900 | 0.0 | Assamese | 
+ | [sos](/f9/package/sos) | 0 | 283 | 0.0 | none | 
+ | [system-config-lvm](/f9/package/system-config-lvm) | 0 | 2142 | 0.0 | Assamese | 
 {.sortable}
 
 

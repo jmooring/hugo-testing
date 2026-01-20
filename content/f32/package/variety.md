@@ -18,19 +18,19 @@ The package variety (version 0.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 4032 | 4032 | 100.0 | /mnt/stockage/packages/f32/variety/po/ru.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 4032 | 4032 | 100.0 | /mnt/stockage/packages/f32/variety/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 4032 | 4032 | 100.0 | /mnt/stockage/packages/f32/variety/po/uk.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 4005 | 4032 | 99.3 | /mnt/stockage/packages/f32/variety/po/ca.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4005 | 4032 | 99.3 | /mnt/stockage/packages/f32/variety/po/fr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 2923 | 3050 | 95.8 | /mnt/stockage/packages/f32/variety/po/ja.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 3847 | 4032 | 95.4 | /mnt/stockage/packages/f32/variety/po/sr.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 3653 | 4032 | 90.6 | /mnt/stockage/packages/f32/variety/po/bg.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 3619 | 4032 | 89.8 | /mnt/stockage/packages/f32/variety/po/ko.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 2711 | 4032 | 67.2 | /mnt/stockage/packages/f32/variety/po/es.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2614 | 4032 | 64.8 | /mnt/stockage/packages/f32/variety/po/pl.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2605 | 4032 | 64.6 | /mnt/stockage/packages/f32/variety/po/de.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1166 | 4032 | 28.9 | /mnt/stockage/packages/f32/variety/po/zh_CN.po | 
+ | [ru](/f32/language/ru) | 4032 | 4032 | 100.0 | /mnt/stockage/packages/f32/variety/po/ru.po | 
+ | [tr](/f32/language/tr) | 4032 | 4032 | 100.0 | /mnt/stockage/packages/f32/variety/po/tr.po | 
+ | [uk](/f32/language/uk) | 4032 | 4032 | 100.0 | /mnt/stockage/packages/f32/variety/po/uk.po | 
+ | [ca](/f32/language/ca) | 4005 | 4032 | 99.3 | /mnt/stockage/packages/f32/variety/po/ca.po | 
+ | [fr](/f32/language/fr) | 4005 | 4032 | 99.3 | /mnt/stockage/packages/f32/variety/po/fr.po | 
+ | [ja](/f32/language/ja) | 2923 | 3050 | 95.8 | /mnt/stockage/packages/f32/variety/po/ja.po | 
+ | [sr](/f32/language/sr) | 3847 | 4032 | 95.4 | /mnt/stockage/packages/f32/variety/po/sr.po | 
+ | [bg](/f32/language/bg) | 3653 | 4032 | 90.6 | /mnt/stockage/packages/f32/variety/po/bg.po | 
+ | [ko](/f32/language/ko) | 3619 | 4032 | 89.8 | /mnt/stockage/packages/f32/variety/po/ko.po | 
+ | [es](/f32/language/es) | 2711 | 4032 | 67.2 | /mnt/stockage/packages/f32/variety/po/es.po | 
+ | [pl](/f32/language/pl) | 2614 | 4032 | 64.8 | /mnt/stockage/packages/f32/variety/po/pl.po | 
+ | [de](/f32/language/de) | 2605 | 4032 | 64.6 | /mnt/stockage/packages/f32/variety/po/de.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1166 | 4032 | 28.9 | /mnt/stockage/packages/f32/variety/po/zh_CN.po | 
 {.sortable}
 
 

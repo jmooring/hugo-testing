@@ -18,64 +18,64 @@ The package gnome-tweaks (version 3.32.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f30/language/af.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/af.po | 
- | [as]({{< ref "/f30/language/as.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/as.po | 
- | [be]({{< ref "/f30/language/be.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/be.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/bg.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 408 | 408 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/bs.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/de.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/el.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/en_GB.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/eo.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/es.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/eu.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fa.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fr.po | 
- | [fur]({{< ref "/f30/language/fur.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fur.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/gl.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/he.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/hr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/hu.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/id.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/it.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/kk.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ko.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/lt.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/lv.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ml.po | 
- | [my]({{< ref "/f30/language/my.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/my.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/nl.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pa.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pl.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pt_BR.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ro.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ru.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/sl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/sr@latin.po/mnt/stockage/packages/f30/gnome-tweaks/po/sr.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/sv.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/te.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/th.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/tr.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/uk.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/vi.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 650 | 650 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f30/language/zh_Hant_HK.md" >}}) | 373 | 373 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/zh_HK.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 661 | 665 | 99.4 | /mnt/stockage/packages/f30/gnome-tweaks/po/ja.po | 
- | [ky]({{< ref "/f30/language/ky.md" >}}) | 155 | 156 | 99.4 | /mnt/stockage/packages/f30/gnome-tweaks/po/ky.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 592 | 596 | 99.3 | /mnt/stockage/packages/f30/gnome-tweaks/po/ca@valencia.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 644 | 665 | 96.8 | /mnt/stockage/packages/f30/gnome-tweaks/po/ar.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 596 | 665 | 89.6 | /mnt/stockage/packages/f30/gnome-tweaks/po/sk.po | 
- | [oc]({{< ref "/f30/language/oc.md" >}}) | 564 | 632 | 89.2 | /mnt/stockage/packages/f30/gnome-tweaks/po/oc.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 528 | 665 | 79.4 | /mnt/stockage/packages/f30/gnome-tweaks/po/is.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 500 | 665 | 75.2 | /mnt/stockage/packages/f30/gnome-tweaks/po/nb.po | 
- | [tg]({{< ref "/f30/language/tg.md" >}}) | 139 | 418 | 33.3 | /mnt/stockage/packages/f30/gnome-tweaks/po/tg.po | 
- | [ne]({{< ref "/f30/language/ne.md" >}}) | 160 | 592 | 27.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ne.po | 
+ | [af](/f30/language/af) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/af.po | 
+ | [as](/f30/language/as) | 382 | 382 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/as.po | 
+ | [be](/f30/language/be) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/be.po | 
+ | [bg](/f30/language/bg) | 552 | 552 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/bg.po | 
+ | [bs](/f30/language/bs) | 408 | 408 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/bs.po | 
+ | [ca](/f30/language/ca) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ca.po | 
+ | [cs](/f30/language/cs) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/cs.po | 
+ | [da](/f30/language/da) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/da.po | 
+ | [de](/f30/language/de) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/de.po | 
+ | [el](/f30/language/el) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/el.po | 
+ | [en_GB](/f30/language/en_GB) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/en_GB.po | 
+ | [eo](/f30/language/eo) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/eo.po | 
+ | [es](/f30/language/es) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/es.po | 
+ | [eu](/f30/language/eu) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/eu.po | 
+ | [fa](/f30/language/fa) | 596 | 596 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fa.po | 
+ | [fi](/f30/language/fi) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fi.po | 
+ | [fr](/f30/language/fr) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fr.po | 
+ | [fur](/f30/language/fur) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/fur.po | 
+ | [gl](/f30/language/gl) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/gl.po | 
+ | [he](/f30/language/he) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/he.po | 
+ | [hr](/f30/language/hr) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/hr.po | 
+ | [hu](/f30/language/hu) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/hu.po | 
+ | [id](/f30/language/id) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/id.po | 
+ | [it](/f30/language/it) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/it.po | 
+ | [kk](/f30/language/kk) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/kk.po | 
+ | [ko](/f30/language/ko) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ko.po | 
+ | [lt](/f30/language/lt) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/lt.po | 
+ | [lv](/f30/language/lv) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/lv.po | 
+ | [ml](/f30/language/ml) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ml.po | 
+ | [my](/f30/language/my) | 111 | 111 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/my.po | 
+ | [nl](/f30/language/nl) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/nl.po | 
+ | [pa](/f30/language/pa) | 410 | 410 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pa.po | 
+ | [pl](/f30/language/pl) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pl.po | 
+ | [pt](/f30/language/pt) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/pt_BR.po | 
+ | [ro](/f30/language/ro) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ro.po | 
+ | [ru](/f30/language/ru) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ru.po | 
+ | [sl](/f30/language/sl) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/sl.po | 
+ | [sr](/f30/language/sr) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/sr@latin.po/mnt/stockage/packages/f30/gnome-tweaks/po/sr.po | 
+ | [sv](/f30/language/sv) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/sv.po | 
+ | [te](/f30/language/te) | 110 | 110 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/te.po | 
+ | [th](/f30/language/th) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/th.po | 
+ | [tr](/f30/language/tr) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/tr.po | 
+ | [uk](/f30/language/uk) | 436 | 436 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/uk.po | 
+ | [vi](/f30/language/vi) | 596 | 596 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/vi.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 650 | 650 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 665 | 665 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/zh_TW.po | 
+ | [zh_Hant_HK](/f30/language/zh_Hant_HK) | 373 | 373 | 100.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/zh_HK.po | 
+ | [ja](/f30/language/ja) | 661 | 665 | 99.4 | /mnt/stockage/packages/f30/gnome-tweaks/po/ja.po | 
+ | [ky](/f30/language/ky) | 155 | 156 | 99.4 | /mnt/stockage/packages/f30/gnome-tweaks/po/ky.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 592 | 596 | 99.3 | /mnt/stockage/packages/f30/gnome-tweaks/po/ca@valencia.po | 
+ | [ar](/f30/language/ar) | 644 | 665 | 96.8 | /mnt/stockage/packages/f30/gnome-tweaks/po/ar.po | 
+ | [sk](/f30/language/sk) | 596 | 665 | 89.6 | /mnt/stockage/packages/f30/gnome-tweaks/po/sk.po | 
+ | [oc](/f30/language/oc) | 564 | 632 | 89.2 | /mnt/stockage/packages/f30/gnome-tweaks/po/oc.po | 
+ | [is](/f30/language/is) | 528 | 665 | 79.4 | /mnt/stockage/packages/f30/gnome-tweaks/po/is.po | 
+ | [nb_NO](/f30/language/nb_NO) | 500 | 665 | 75.2 | /mnt/stockage/packages/f30/gnome-tweaks/po/nb.po | 
+ | [tg](/f30/language/tg) | 139 | 418 | 33.3 | /mnt/stockage/packages/f30/gnome-tweaks/po/tg.po | 
+ | [ne](/f30/language/ne) | 160 | 592 | 27.0 | /mnt/stockage/packages/f30/gnome-tweaks/po/ne.po | 
 {.sortable}
 
 

@@ -38,29 +38,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [plank]({{< ref "/f38/package/plank.md" >}}) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
- | [elementary-calendar]({{< ref "/f38/package/elementary-calendar.md" >}}) | 34 | 575 | 5.9 | LANGUAGE <LL@li.org> | 
- | [elementary-calculator]({{< ref "/f38/package/elementary-calculator.md" >}}) | 5 | 195 | 2.6 | LANGUAGE <LL@li.org> | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 4 | 300 | 1.3 | Southern Sami <sma@li.org> | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 6 | 498 | 1.2 | Southern Sami <sma@li.org> | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 1 | 1614 | 0.1 | Southern Sami <sma@li.org> | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-camera]({{< ref "/f38/package/elementary-camera.md" >}}) | 0 | 133 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 0 | 205 | 0.0 | Southern Sami <sma@li.org> | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f38/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | Southern Sami <sma@li.org> | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [taxi]({{< ref "/f38/package/taxi.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [plank](/f38/package/plank) | 22 | 189 | 11.6 | Southern Sami <sma@li.org> | 
+ | [elementary-calendar](/f38/package/elementary-calendar) | 34 | 575 | 5.9 | LANGUAGE <LL@li.org> | 
+ | [elementary-calculator](/f38/package/elementary-calculator) | 5 | 195 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [granite-7](/f38/package/granite-7) | 4 | 300 | 1.3 | Southern Sami <sma@li.org> | 
+ | [granite](/f38/package/granite) | 6 | 498 | 1.2 | Southern Sami <sma@li.org> | 
+ | [elementary-code](/f38/package/elementary-code) | 1 | 1614 | 0.1 | Southern Sami <sma@li.org> | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-camera](/f38/package/elementary-camera) | 0 | 133 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-music](/f38/package/elementary-music) | 0 | 205 | 0.0 | Southern Sami <sma@li.org> | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [elementary-onboarding](/f38/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | Southern Sami <sma@li.org> | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [taxi](/f38/package/taxi) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

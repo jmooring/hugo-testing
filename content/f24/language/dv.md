@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f24/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
- | [minetest]({{< ref "/f24/package/minetest.md" >}}) | 116 | 6406 | 1.8 | Dhivehi <https://hosted.weblate.org/projects/minetest/minetest/dv/> | 
- | [stellarium]({{< ref "/f24/package/stellarium.md" >}}) | 14 | 23532 | 0.1 | Divehi <dv@li.org> | 
+ | [gnome-menus](/f24/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [gnome-do](/f24/package/gnome-do) | 162 | 612 | 26.5 | Divehi <dv@li.org> | 
+ | [minetest](/f24/package/minetest) | 116 | 6406 | 1.8 | Dhivehi <https://hosted.weblate.org/projects/minetest/minetest/dv/> | 
+ | [stellarium](/f24/package/stellarium) | 14 | 23532 | 0.1 | Divehi <dv@li.org> | 
 {.sortable}
 
 

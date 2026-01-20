@@ -18,25 +18,25 @@ The package gnome-shell-extension-bubblemail (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 819 | 819 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/zh_TW.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/zh_CN.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ru.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/pt_BR.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/pt.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/it.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/fr.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/es.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/de.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ar.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/be.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/da.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/et.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/gl.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/hu.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ja.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/lt.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/nl_NL.po | 
- | [nl_BE]({{< ref "/f31/language/nl_BE.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/nl_BE.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/pl.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/sk.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/sr.po | 
- | [sr_Latn]({{< ref "/f31/language/sr_Latn.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/sr@latin.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/uk.po | 
+ | [fr](/f31/language/fr) | 819 | 819 | 100.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/zh_TW.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/zh_CN.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ru.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/pt_BR.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/pt.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/it.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/fr.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/es.po/mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/de.po | 
+ | [ar](/f31/language/ar) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ar.po | 
+ | [be](/f31/language/be) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/be.po | 
+ | [ca](/f31/language/ca) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ca.po | 
+ | [cs](/f31/language/cs) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/cs.po | 
+ | [da](/f31/language/da) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/da.po | 
+ | [et](/f31/language/et) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/et.po | 
+ | [gl](/f31/language/gl) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/gl.po | 
+ | [hu](/f31/language/hu) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/hu.po | 
+ | [ja](/f31/language/ja) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/ja.po | 
+ | [lt](/f31/language/lt) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/lt.po | 
+ | [nl](/f31/language/nl) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/nl_NL.po | 
+ | [nl_BE](/f31/language/nl_BE) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/nl_BE.po | 
+ | [pl](/f31/language/pl) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/pl.po | 
+ | [sk](/f31/language/sk) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/sk.po | 
+ | [sr](/f31/language/sr) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/sr.po | 
+ | [sr_Latn](/f31/language/sr_Latn) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/sr@latin.po | 
+ | [tr](/f31/language/tr) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/tr.po | 
+ | [uk](/f31/language/uk) | 0 | 91 | 0.0 | /mnt/stockage/packages/f31/gnome-shell-extension-bubblemail/po/uk.po | 
 {.sortable}
 
 

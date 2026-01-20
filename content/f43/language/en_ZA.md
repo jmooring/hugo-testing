@@ -44,19 +44,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libreoffice]({{< ref "/f43/package/libreoffice.md" >}}) | 306535 | 780917 | 39.3 | LANGUAGE <LL@li.org> | 
- | [wingpanel]({{< ref "/f43/package/wingpanel.md" >}}) | 2 | 57 | 3.5 | none | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 4 | 7533 | 0.1 | English (South Africa) <en_ZA@li.org> | 
- | [elementary-calculator]({{< ref "/f43/package/elementary-calculator.md" >}}) | 0 | 174 | 0.0 | none | 
- | [elementary-calendar]({{< ref "/f43/package/elementary-calendar.md" >}}) | 0 | 670 | 0.0 | none | 
- | [elementary-icon-theme]({{< ref "/f43/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-notifications]({{< ref "/f43/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-settings-daemon]({{< ref "/f43/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f43/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite-7]({{< ref "/f43/package/granite-7.md" >}}) | 0 | 596 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f43/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f43/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 | none | 
- | [wingpanel-indicator-keyboard]({{< ref "/f43/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 | none | 
+ | [libreoffice](/f43/package/libreoffice) | 306535 | 780917 | 39.3 | LANGUAGE <LL@li.org> | 
+ | [wingpanel](/f43/package/wingpanel) | 2 | 57 | 3.5 | none | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 4 | 7533 | 0.1 | English (South Africa) <en_ZA@li.org> | 
+ | [elementary-calculator](/f43/package/elementary-calculator) | 0 | 174 | 0.0 | none | 
+ | [elementary-calendar](/f43/package/elementary-calendar) | 0 | 670 | 0.0 | none | 
+ | [elementary-icon-theme](/f43/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-notifications](/f43/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-settings-daemon](/f43/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f43/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite-7](/f43/package/granite-7) | 0 | 596 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f43/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f43/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 | none | 
+ | [wingpanel-indicator-keyboard](/f43/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 | none | 
 {.sortable}
 
 

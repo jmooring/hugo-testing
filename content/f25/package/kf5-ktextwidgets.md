@@ -18,101 +18,101 @@ The package kf5-ktextwidgets (version 5.38.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ca/ktextwidgets5.po | 
- | [ca@valencia]({{< ref "/f25/language/ca@valencia.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ca@valencia/ktextwidgets5.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/da/ktextwidgets5.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/de/ktextwidgets5.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/el/ktextwidgets5.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/en_GB/ktextwidgets5.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/es/ktextwidgets5.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/et/ktextwidgets5.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/eu/ktextwidgets5.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fi/ktextwidgets5.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fr/ktextwidgets5.po | 
- | [gd]({{< ref "/f25/language/gd.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/gd/ktextwidgets5.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/gl/ktextwidgets5.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hu/ktextwidgets5.po | 
- | [ia]({{< ref "/f25/language/ia.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ia/ktextwidgets5.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/it/ktextwidgets5.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ko/ktextwidgets5.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nb/ktextwidgets5.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nl/ktextwidgets5.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nn/ktextwidgets5.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pl/ktextwidgets5.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pt/ktextwidgets5.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pt_BR/ktextwidgets5.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ru/ktextwidgets5.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sk/ktextwidgets5.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sl/ktextwidgets5.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr/ktextwidgets5.po | 
- | [sr@ijekavian]({{< ref "/f25/language/sr@ijekavian.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr@ijekavian/ktextwidgets5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f25/language/sr@ijekavian_Latn.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr@ijekavianlatin/ktextwidgets5.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr@latin/ktextwidgets5.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sv/ktextwidgets5.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/tr/ktextwidgets5.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/uk/ktextwidgets5.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/zh_CN/ktextwidgets5.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/zh_TW/ktextwidgets5.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bs/ktextwidgets5.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ga/ktextwidgets5.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/id/ktextwidgets5.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/is/ktextwidgets5.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/kk/ktextwidgets5.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/lt/ktextwidgets5.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nds/ktextwidgets5.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pa/ktextwidgets5.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ro/ktextwidgets5.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ug/ktextwidgets5.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 457 | 462 | 98.9 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bg/ktextwidgets5.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 456 | 462 | 98.7 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/he/ktextwidgets5.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 455 | 462 | 98.5 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ar/ktextwidgets5.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hr/ktextwidgets5.po | 
- | [hy]({{< ref "/f25/language/hy.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hy/ktextwidgets5.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ja/ktextwidgets5.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/km/ktextwidgets5.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/lv/ktextwidgets5.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ta/ktextwidgets5.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/th/ktextwidgets5.po | 
- | [tt]({{< ref "/f25/language/tt.md" >}}) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/tt/ktextwidgets5.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 451 | 462 | 97.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/si/ktextwidgets5.po | 
- | [fy]({{< ref "/f25/language/fy.md" >}}) | 449 | 462 | 97.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fy/ktextwidgets5.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 449 | 462 | 97.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/gu/ktextwidgets5.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 449 | 462 | 97.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/tg/ktextwidgets5.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 448 | 462 | 97.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/eo/ktextwidgets5.po | 
- | [se]({{< ref "/f25/language/se.md" >}}) | 447 | 462 | 96.8 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/se/ktextwidgets5.po | 
- | [hsb]({{< ref "/f25/language/hsb.md" >}}) | 444 | 462 | 96.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hsb/ktextwidgets5.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 439 | 462 | 95.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ms/ktextwidgets5.po | 
- | [csb]({{< ref "/f25/language/csb.md" >}}) | 436 | 462 | 94.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/csb/ktextwidgets5.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 417 | 462 | 90.3 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/mr/ktextwidgets5.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 411 | 462 | 89.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fa/ktextwidgets5.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 1222 | 1386 | 88.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/mai/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/hne/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/hi/ktextwidgets5.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 407 | 462 | 88.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/kn/ktextwidgets5.po | 
- | [en_US]({{< ref "/f25/language/en_US.md" >}}) | 1178 | 1386 | 85.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bn/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/vi/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/cs/ktextwidgets5.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 391 | 462 | 84.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/te/ktextwidgets5.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 370 | 462 | 80.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ku/ktextwidgets5.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 368 | 462 | 79.7 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sq/ktextwidgets5.po | 
- | [crh]({{< ref "/f25/language/crh.md" >}}) | 356 | 462 | 77.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/crh/ktextwidgets5.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 354 | 462 | 76.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/mk/ktextwidgets5.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 349 | 462 | 75.5 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ka/ktextwidgets5.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 343 | 462 | 74.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ne/ktextwidgets5.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 343 | 462 | 74.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/zh_HK/ktextwidgets5.po | 
- | [oc]({{< ref "/f25/language/oc.md" >}}) | 329 | 462 | 71.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/oc/ktextwidgets5.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 317 | 462 | 68.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/af/ktextwidgets5.po | 
- | [lb]({{< ref "/f25/language/lb.md" >}}) | 317 | 462 | 68.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/lb/ktextwidgets5.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 303 | 462 | 65.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/cy/ktextwidgets5.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 298 | 462 | 64.5 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/as/ktextwidgets5.po | 
- | [ps]({{< ref "/f25/language/ps.md" >}}) | 291 | 462 | 63.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ps/ktextwidgets5.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 288 | 462 | 62.3 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ml/ktextwidgets5.po | 
- | [be_Latn]({{< ref "/f25/language/be_Latn.md" >}}) | 287 | 462 | 62.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/be@latin/ktextwidgets5.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 278 | 462 | 60.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bn_IN/ktextwidgets5.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 253 | 462 | 54.8 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/or/ktextwidgets5.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 240 | 462 | 51.9 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/be/ktextwidgets5.po | 
- | [wa]({{< ref "/f25/language/wa.md" >}}) | 237 | 462 | 51.3 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/wa/ktextwidgets5.po | 
- | [uz]({{< ref "/f25/language/uz.md" >}}) | 387 | 924 | 41.9 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/uz@cyrillic/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/uz/ktextwidgets5.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 173 | 462 | 37.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ast/ktextwidgets5.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 112 | 462 | 24.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/br/ktextwidgets5.po | 
- | [xh]({{< ref "/f25/language/xh.md" >}}) | 97 | 462 | 21.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/xh/ktextwidgets5.po | 
- | [ha]({{< ref "/f25/language/ha.md" >}}) | 0 | 462 | 0.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ha/ktextwidgets5.po | 
+ | [ca](/f25/language/ca) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ca/ktextwidgets5.po | 
+ | [ca@valencia](/f25/language/ca@valencia) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ca@valencia/ktextwidgets5.po | 
+ | [da](/f25/language/da) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/da/ktextwidgets5.po | 
+ | [de](/f25/language/de) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/de/ktextwidgets5.po | 
+ | [el](/f25/language/el) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/el/ktextwidgets5.po | 
+ | [en_GB](/f25/language/en_GB) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/en_GB/ktextwidgets5.po | 
+ | [es](/f25/language/es) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/es/ktextwidgets5.po | 
+ | [et](/f25/language/et) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/et/ktextwidgets5.po | 
+ | [eu](/f25/language/eu) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/eu/ktextwidgets5.po | 
+ | [fi](/f25/language/fi) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fi/ktextwidgets5.po | 
+ | [fr](/f25/language/fr) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fr/ktextwidgets5.po | 
+ | [gd](/f25/language/gd) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/gd/ktextwidgets5.po | 
+ | [gl](/f25/language/gl) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/gl/ktextwidgets5.po | 
+ | [hu](/f25/language/hu) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hu/ktextwidgets5.po | 
+ | [ia](/f25/language/ia) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ia/ktextwidgets5.po | 
+ | [it](/f25/language/it) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/it/ktextwidgets5.po | 
+ | [ko](/f25/language/ko) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ko/ktextwidgets5.po | 
+ | [nb_NO](/f25/language/nb_NO) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nb/ktextwidgets5.po | 
+ | [nl](/f25/language/nl) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nl/ktextwidgets5.po | 
+ | [nn](/f25/language/nn) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nn/ktextwidgets5.po | 
+ | [pl](/f25/language/pl) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pl/ktextwidgets5.po | 
+ | [pt](/f25/language/pt) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pt/ktextwidgets5.po | 
+ | [pt_BR](/f25/language/pt_BR) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pt_BR/ktextwidgets5.po | 
+ | [ru](/f25/language/ru) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ru/ktextwidgets5.po | 
+ | [sk](/f25/language/sk) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sk/ktextwidgets5.po | 
+ | [sl](/f25/language/sl) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sl/ktextwidgets5.po | 
+ | [sr](/f25/language/sr) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr/ktextwidgets5.po | 
+ | [sr@ijekavian](/f25/language/sr@ijekavian) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr@ijekavian/ktextwidgets5.po | 
+ | [sr@ijekavian_Latn](/f25/language/sr@ijekavian_Latn) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr@ijekavianlatin/ktextwidgets5.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sr@latin/ktextwidgets5.po | 
+ | [sv](/f25/language/sv) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sv/ktextwidgets5.po | 
+ | [tr](/f25/language/tr) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/tr/ktextwidgets5.po | 
+ | [uk](/f25/language/uk) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/uk/ktextwidgets5.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/zh_CN/ktextwidgets5.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 462 | 462 | 100.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/zh_TW/ktextwidgets5.po | 
+ | [bs](/f25/language/bs) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bs/ktextwidgets5.po | 
+ | [ga](/f25/language/ga) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ga/ktextwidgets5.po | 
+ | [id](/f25/language/id) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/id/ktextwidgets5.po | 
+ | [is](/f25/language/is) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/is/ktextwidgets5.po | 
+ | [kk](/f25/language/kk) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/kk/ktextwidgets5.po | 
+ | [lt](/f25/language/lt) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/lt/ktextwidgets5.po | 
+ | [nds](/f25/language/nds) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/nds/ktextwidgets5.po | 
+ | [pa](/f25/language/pa) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/pa/ktextwidgets5.po | 
+ | [ro](/f25/language/ro) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ro/ktextwidgets5.po | 
+ | [ug](/f25/language/ug) | 459 | 462 | 99.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ug/ktextwidgets5.po | 
+ | [bg](/f25/language/bg) | 457 | 462 | 98.9 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bg/ktextwidgets5.po | 
+ | [he](/f25/language/he) | 456 | 462 | 98.7 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/he/ktextwidgets5.po | 
+ | [ar](/f25/language/ar) | 455 | 462 | 98.5 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ar/ktextwidgets5.po | 
+ | [hr](/f25/language/hr) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hr/ktextwidgets5.po | 
+ | [hy](/f25/language/hy) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hy/ktextwidgets5.po | 
+ | [ja](/f25/language/ja) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ja/ktextwidgets5.po | 
+ | [km](/f25/language/km) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/km/ktextwidgets5.po | 
+ | [lv](/f25/language/lv) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/lv/ktextwidgets5.po | 
+ | [ta](/f25/language/ta) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ta/ktextwidgets5.po | 
+ | [th](/f25/language/th) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/th/ktextwidgets5.po | 
+ | [tt](/f25/language/tt) | 453 | 462 | 98.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/tt/ktextwidgets5.po | 
+ | [si](/f25/language/si) | 451 | 462 | 97.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/si/ktextwidgets5.po | 
+ | [fy](/f25/language/fy) | 449 | 462 | 97.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fy/ktextwidgets5.po | 
+ | [gu](/f25/language/gu) | 449 | 462 | 97.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/gu/ktextwidgets5.po | 
+ | [tg](/f25/language/tg) | 449 | 462 | 97.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/tg/ktextwidgets5.po | 
+ | [eo](/f25/language/eo) | 448 | 462 | 97.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/eo/ktextwidgets5.po | 
+ | [se](/f25/language/se) | 447 | 462 | 96.8 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/se/ktextwidgets5.po | 
+ | [hsb](/f25/language/hsb) | 444 | 462 | 96.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/hsb/ktextwidgets5.po | 
+ | [ms](/f25/language/ms) | 439 | 462 | 95.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ms/ktextwidgets5.po | 
+ | [csb](/f25/language/csb) | 436 | 462 | 94.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/csb/ktextwidgets5.po | 
+ | [mr](/f25/language/mr) | 417 | 462 | 90.3 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/mr/ktextwidgets5.po | 
+ | [fa](/f25/language/fa) | 411 | 462 | 89.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/fa/ktextwidgets5.po | 
+ | [hi](/f25/language/hi) | 1222 | 1386 | 88.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/mai/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/hne/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/hi/ktextwidgets5.po | 
+ | [kn](/f25/language/kn) | 407 | 462 | 88.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/kn/ktextwidgets5.po | 
+ | [en_US](/f25/language/en_US) | 1178 | 1386 | 85.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bn/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/vi/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/cs/ktextwidgets5.po | 
+ | [te](/f25/language/te) | 391 | 462 | 84.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/te/ktextwidgets5.po | 
+ | [ku](/f25/language/ku) | 370 | 462 | 80.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ku/ktextwidgets5.po | 
+ | [sq](/f25/language/sq) | 368 | 462 | 79.7 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/sq/ktextwidgets5.po | 
+ | [crh](/f25/language/crh) | 356 | 462 | 77.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/crh/ktextwidgets5.po | 
+ | [mk](/f25/language/mk) | 354 | 462 | 76.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/mk/ktextwidgets5.po | 
+ | [ka](/f25/language/ka) | 349 | 462 | 75.5 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ka/ktextwidgets5.po | 
+ | [ne](/f25/language/ne) | 343 | 462 | 74.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ne/ktextwidgets5.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 343 | 462 | 74.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/zh_HK/ktextwidgets5.po | 
+ | [oc](/f25/language/oc) | 329 | 462 | 71.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/oc/ktextwidgets5.po | 
+ | [af](/f25/language/af) | 317 | 462 | 68.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/af/ktextwidgets5.po | 
+ | [lb](/f25/language/lb) | 317 | 462 | 68.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/lb/ktextwidgets5.po | 
+ | [cy](/f25/language/cy) | 303 | 462 | 65.6 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/cy/ktextwidgets5.po | 
+ | [as](/f25/language/as) | 298 | 462 | 64.5 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/as/ktextwidgets5.po | 
+ | [ps](/f25/language/ps) | 291 | 462 | 63.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ps/ktextwidgets5.po | 
+ | [ml](/f25/language/ml) | 288 | 462 | 62.3 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ml/ktextwidgets5.po | 
+ | [be_Latn](/f25/language/be_Latn) | 287 | 462 | 62.1 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/be@latin/ktextwidgets5.po | 
+ | [bn_IN](/f25/language/bn_IN) | 278 | 462 | 60.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/bn_IN/ktextwidgets5.po | 
+ | [or](/f25/language/or) | 253 | 462 | 54.8 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/or/ktextwidgets5.po | 
+ | [be](/f25/language/be) | 240 | 462 | 51.9 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/be/ktextwidgets5.po | 
+ | [wa](/f25/language/wa) | 237 | 462 | 51.3 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/wa/ktextwidgets5.po | 
+ | [uz](/f25/language/uz) | 387 | 924 | 41.9 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/uz@cyrillic/ktextwidgets5.po/mnt/stockage/packages/f25/kf5-ktextwidgets/po/uz/ktextwidgets5.po | 
+ | [ast](/f25/language/ast) | 173 | 462 | 37.4 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ast/ktextwidgets5.po | 
+ | [br](/f25/language/br) | 112 | 462 | 24.2 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/br/ktextwidgets5.po | 
+ | [xh](/f25/language/xh) | 97 | 462 | 21.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/xh/ktextwidgets5.po | 
+ | [ha](/f25/language/ha) | 0 | 462 | 0.0 | /mnt/stockage/packages/f25/kf5-ktextwidgets/po/ha/ktextwidgets5.po | 
 {.sortable}
 
 

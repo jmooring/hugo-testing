@@ -18,12 +18,12 @@ The package glances (version 1.7.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 522 | 568 | 91.9 | /mnt/stockage/packages/f21/glances/i18n/de/LC_MESSAGES/glances.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 282 | 585 | 48.2 | /mnt/stockage/packages/f21/glances/i18n/zh_CN/LC_MESSAGES/glances.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 274 | 585 | 46.8 | /mnt/stockage/packages/f21/glances/i18n/it/LC_MESSAGES/glances.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 228 | 585 | 39.0 | /mnt/stockage/packages/f21/glances/i18n/fr/LC_MESSAGES/glances.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 15 | 585 | 2.6 | /mnt/stockage/packages/f21/glances/i18n/es/LC_MESSAGES/glances.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 15 | 585 | 2.6 | /mnt/stockage/packages/f21/glances/i18n/pt_BR/LC_MESSAGES/glances.po | 
+ | [de](/f21/language/de) | 522 | 568 | 91.9 | /mnt/stockage/packages/f21/glances/i18n/de/LC_MESSAGES/glances.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 282 | 585 | 48.2 | /mnt/stockage/packages/f21/glances/i18n/zh_CN/LC_MESSAGES/glances.po | 
+ | [it](/f21/language/it) | 274 | 585 | 46.8 | /mnt/stockage/packages/f21/glances/i18n/it/LC_MESSAGES/glances.po | 
+ | [fr](/f21/language/fr) | 228 | 585 | 39.0 | /mnt/stockage/packages/f21/glances/i18n/fr/LC_MESSAGES/glances.po | 
+ | [es](/f21/language/es) | 15 | 585 | 2.6 | /mnt/stockage/packages/f21/glances/i18n/es/LC_MESSAGES/glances.po | 
+ | [pt_BR](/f21/language/pt_BR) | 15 | 585 | 2.6 | /mnt/stockage/packages/f21/glances/i18n/pt_BR/LC_MESSAGES/glances.po | 
 {.sortable}
 
 

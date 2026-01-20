@@ -18,15 +18,15 @@ The package fcitx5-chinese-addons (version 5.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1497 | 1497 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1497 | 1497 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 1497 | 1497 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/zh_TW.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 1089 | 1497 | 72.7 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ko.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 946 | 1497 | 63.2 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/da.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 403 | 1497 | 26.9 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/de.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 98 | 1497 | 6.5 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ca.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 32 | 1497 | 2.1 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ja.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 10 | 1497 | 0.7 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/he.po | 
+ | [ru](/f38/language/ru) | 1497 | 1497 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1497 | 1497 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/zh_CN.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 1497 | 1497 | 100.0 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/zh_TW.po | 
+ | [ko](/f38/language/ko) | 1089 | 1497 | 72.7 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ko.po | 
+ | [da](/f38/language/da) | 946 | 1497 | 63.2 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/da.po | 
+ | [de](/f38/language/de) | 403 | 1497 | 26.9 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/de.po | 
+ | [ca](/f38/language/ca) | 98 | 1497 | 6.5 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ca.po | 
+ | [ja](/f38/language/ja) | 32 | 1497 | 2.1 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/ja.po | 
+ | [he](/f38/language/he) | 10 | 1497 | 0.7 | /mnt/stockage/packages/f38/fcitx5-chinese-addons/po/he.po | 
 {.sortable}
 
 

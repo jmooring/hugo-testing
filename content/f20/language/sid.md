@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f20/package/kde-i18n.md" >}}) | 14 | 14 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 85027 | 97460 | 87.2 | Sidaama Translators | 
+ | [kde-i18n](/f20/package/kde-i18n) | 14 | 14 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [libreoffice](/f20/package/libreoffice) | 85027 | 97460 | 87.2 | Sidaama Translators | 
 {.sortable}
 
 

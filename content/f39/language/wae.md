@@ -39,14 +39,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f39/package/slick-greeter.md" >}}) | 211 | 216 | 97.7 | Walser <wae@li.org> | 
- | [lightdm]({{< ref "/f39/package/lightdm.md" >}}) | 40 | 163 | 24.5 | Walser <wae@li.org> | 
- | [lightdm-gtk]({{< ref "/f39/package/lightdm-gtk.md" >}}) | 21 | 89 | 23.6 | Walser <wae@li.org> | 
- | [rednotebook]({{< ref "/f39/package/rednotebook.md" >}}) | 263 | 1263 | 20.8 | Walser <wae@li.org> | 
- | [pyhoca-gui]({{< ref "/f39/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f39/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f39/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f39/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f39/package/slick-greeter) | 211 | 216 | 97.7 | Walser <wae@li.org> | 
+ | [lightdm](/f39/package/lightdm) | 40 | 163 | 24.5 | Walser <wae@li.org> | 
+ | [lightdm-gtk](/f39/package/lightdm-gtk) | 21 | 89 | 23.6 | Walser <wae@li.org> | 
+ | [rednotebook](/f39/package/rednotebook) | 263 | 1263 | 20.8 | Walser <wae@li.org> | 
+ | [pyhoca-gui](/f39/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f39/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f39/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f39/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

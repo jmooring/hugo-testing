@@ -18,8 +18,8 @@ The package python-oslo-service (version 3.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 280 | 280 | 100.0 | /mnt/stockage/packages/f40/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po/mnt/stockage/packages/f40/python-oslo-service/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f40/python-oslo-service/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f40/language/en_GB) | 280 | 280 | 100.0 | /mnt/stockage/packages/f40/python-oslo-service/oslo_service/locale/en_GB/LC_MESSAGES/oslo_service.po/mnt/stockage/packages/f40/python-oslo-service/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f40/language/fr) | 16 | 16 | 100.0 | /mnt/stockage/packages/f40/python-oslo-service/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

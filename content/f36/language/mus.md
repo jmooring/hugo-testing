@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f36/package/cinnamon-translations.md" >}}) | 3 | 616 | 0.5 | Creek <mus@li.org> | 
+ | [cinnamon-translations](/f36/package/cinnamon-translations) | 3 | 616 | 0.5 | Creek <mus@li.org> | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package speech-dispatcher (version 0.8.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f27/speech-dispatcher/po/cs.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1410 | 1410 | 100.0 | /mnt/stockage/packages/f27/speech-dispatcher/po/de.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f27/speech-dispatcher/po/hu.po | 
+ | [cs](/f27/language/cs) | 330 | 330 | 100.0 | /mnt/stockage/packages/f27/speech-dispatcher/po/cs.po | 
+ | [de](/f27/language/de) | 1410 | 1410 | 100.0 | /mnt/stockage/packages/f27/speech-dispatcher/po/de.po | 
+ | [hu](/f27/language/hu) | 330 | 330 | 100.0 | /mnt/stockage/packages/f27/speech-dispatcher/po/hu.po | 
 {.sortable}
 
 

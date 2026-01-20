@@ -18,10 +18,10 @@ The package lazygal (version 0.10.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 403 | 403 | 100.0 | /mnt/stockage/packages/f42/lazygal/locale/fr_FR.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 313 | 403 | 77.7 | /mnt/stockage/packages/f42/lazygal/locale/cs_CZ.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 313 | 403 | 77.7 | /mnt/stockage/packages/f42/lazygal/locale/it_IT.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 79 | 403 | 19.6 | /mnt/stockage/packages/f42/lazygal/locale/da.po | 
+ | [fr](/f42/language/fr) | 403 | 403 | 100.0 | /mnt/stockage/packages/f42/lazygal/locale/fr_FR.po | 
+ | [cs](/f42/language/cs) | 313 | 403 | 77.7 | /mnt/stockage/packages/f42/lazygal/locale/cs_CZ.po | 
+ | [it](/f42/language/it) | 313 | 403 | 77.7 | /mnt/stockage/packages/f42/lazygal/locale/it_IT.po | 
+ | [da](/f42/language/da) | 79 | 403 | 19.6 | /mnt/stockage/packages/f42/lazygal/locale/da.po | 
 {.sortable}
 
 

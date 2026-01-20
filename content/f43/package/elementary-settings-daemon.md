@@ -18,209 +18,209 @@ The package elementary-settings-daemon (version 8.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ca.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_GB.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fr.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/he.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hu.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ja.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nl.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pl.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ru.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/uk.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zh_TW.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 280 | 303 | 92.4 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sk.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 185 | 303 | 61.1 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fi.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 155 | 303 | 51.2 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/de.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 96 | 303 | 31.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cs.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 95 | 303 | 31.4 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ka.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 102 | 606 | 16.8 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/no.po/mnt/stockage/packages/f43/elementary-settings-daemon/po/nb.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 49 | 606 | 8.1 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/id_ID.po/mnt/stockage/packages/f43/elementary-settings-daemon/po/id.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 29 | 606 | 4.8 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zh_CN.po/mnt/stockage/packages/f43/elementary-settings-daemon/po/zh.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ar.po | 
- | [ckb]({{< ref "/f43/language/ckb.md" >}}) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ckb.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ko.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nn.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pt.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tr.po | 
- | [en_AU]({{< ref "/f43/language/en_AU.md" >}}) | 12 | 303 | 4.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_AU.po | 
- | [en_CA]({{< ref "/f43/language/en_CA.md" >}}) | 12 | 303 | 4.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_CA.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/da.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/eo.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/it.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/oc.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sr.po | 
- | [szl]({{< ref "/f43/language/szl.md" >}}) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/szl.po | 
- | [mr]({{< ref "/f43/language/mr.md" >}}) | 5 | 303 | 1.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mr.po | 
- | [sco]({{< ref "/f43/language/sco.md" >}}) | 5 | 303 | 1.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sco.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fa.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gl.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ml.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/uz.po | 
- | [am]({{< ref "/f43/language/am.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/am.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bs.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/el.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ie.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lt.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pa.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sv.po | 
- | [aa]({{< ref "/f43/language/aa.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/aa.po | 
- | [ab]({{< ref "/f43/language/ab.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ab.po | 
- | [ace]({{< ref "/f43/language/ace.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ace.po | 
- | [ae]({{< ref "/f43/language/ae.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ae.po | 
- | [af]({{< ref "/f43/language/af.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/af.po | 
- | [ak]({{< ref "/f43/language/ak.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ak.po | 
- | [an]({{< ref "/f43/language/an.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/an.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/as.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ast.po | 
- | [av]({{< ref "/f43/language/av.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/av.po | 
- | [ay]({{< ref "/f43/language/ay.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ay.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/az.po | 
- | [ba]({{< ref "/f43/language/ba.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ba.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bg.po | 
- | [bh]({{< ref "/f43/language/bh.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bh.po | 
- | [bi]({{< ref "/f43/language/bi.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bi.po | 
- | [bm]({{< ref "/f43/language/bm.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bm.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bn.po | 
- | [bo]({{< ref "/f43/language/bo.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bo.po | 
- | [br]({{< ref "/f43/language/br.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/br.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ca@valencia.po | 
- | [ce]({{< ref "/f43/language/ce.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ce.po | 
- | [ch]({{< ref "/f43/language/ch.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ch.po | 
- | [co]({{< ref "/f43/language/co.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/co.po | 
- | [cr]({{< ref "/f43/language/cr.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cr.po | 
- | [cu]({{< ref "/f43/language/cu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cu.po | 
- | [cv]({{< ref "/f43/language/cv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cv.po | 
- | [cy]({{< ref "/f43/language/cy.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cy.po | 
- | [dv]({{< ref "/f43/language/dv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/dv.po | 
- | [dz]({{< ref "/f43/language/dz.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/dz.po | 
- | [ee]({{< ref "/f43/language/ee.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ee.po | 
- | [en_ZA]({{< ref "/f43/language/en_ZA.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_ZA.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/et.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/eu.po | 
- | [ff]({{< ref "/f43/language/ff.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ff.po | 
- | [fil]({{< ref "/f43/language/fil.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fil.po | 
- | [fj]({{< ref "/f43/language/fj.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fj.po | 
- | [fo]({{< ref "/f43/language/fo.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fo.po | 
- | [fr_CA]({{< ref "/f43/language/fr_CA.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fr_CA.po | 
- | [frp]({{< ref "/f43/language/frp.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/frp.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fy.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ga.po | 
- | [gd]({{< ref "/f43/language/gd.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gd.po | 
- | [gn]({{< ref "/f43/language/gn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gn.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gu.po | 
- | [gv]({{< ref "/f43/language/gv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gv.po | 
- | [ha]({{< ref "/f43/language/ha.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ha.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hi.po | 
- | [ho]({{< ref "/f43/language/ho.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ho.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hr.po | 
- | [ht]({{< ref "/f43/language/ht.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ht.po | 
- | [hy]({{< ref "/f43/language/hy.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hy.po | 
- | [hz]({{< ref "/f43/language/hz.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hz.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ia.po | 
- | [ig]({{< ref "/f43/language/ig.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ig.po | 
- | [ii]({{< ref "/f43/language/ii.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ii.po | 
- | [ik]({{< ref "/f43/language/ik.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ik.po | 
- | [io]({{< ref "/f43/language/io.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/io.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/is.po | 
- | [iu]({{< ref "/f43/language/iu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/iu.po | 
- | [jv]({{< ref "/f43/language/jv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/jv.po | 
- | [kg]({{< ref "/f43/language/kg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kg.po | 
- | [ki]({{< ref "/f43/language/ki.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ki.po | 
- | [kj]({{< ref "/f43/language/kj.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kj.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kk.po | 
- | [kl]({{< ref "/f43/language/kl.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kl.po | 
- | [km]({{< ref "/f43/language/km.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/km.po | 
- | [kn]({{< ref "/f43/language/kn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kn.po | 
- | [kr]({{< ref "/f43/language/kr.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kr.po | 
- | [ks]({{< ref "/f43/language/ks.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ks.po | 
- | [ku]({{< ref "/f43/language/ku.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ku.po | 
- | [kv]({{< ref "/f43/language/kv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kv.po | 
- | [kw]({{< ref "/f43/language/kw.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kw.po | 
- | [ky]({{< ref "/f43/language/ky.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ky.po | 
- | [la]({{< ref "/f43/language/la.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/la.po | 
- | [lb]({{< ref "/f43/language/lb.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lb.po | 
- | [lg]({{< ref "/f43/language/lg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lg.po | 
- | [li]({{< ref "/f43/language/li.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/li.po | 
- | [ln]({{< ref "/f43/language/ln.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ln.po | 
- | [lo]({{< ref "/f43/language/lo.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lo.po | 
- | [lu]({{< ref "/f43/language/lu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lu.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lv.po | 
- | [mg]({{< ref "/f43/language/mg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mg.po | 
- | [mh]({{< ref "/f43/language/mh.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mh.po | 
- | [mi]({{< ref "/f43/language/mi.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mi.po | 
- | [mk]({{< ref "/f43/language/mk.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mk.po | 
- | [mn]({{< ref "/f43/language/mn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mn.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ms.po | 
- | [mt]({{< ref "/f43/language/mt.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mt.po | 
- | [my]({{< ref "/f43/language/my.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/my.po | 
- | [na]({{< ref "/f43/language/na.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/na.po | 
- | [nd]({{< ref "/f43/language/nd.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nd.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ne.po | 
- | [ng]({{< ref "/f43/language/ng.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ng.po | 
- | [nr]({{< ref "/f43/language/nr.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nr.po | 
- | [nv]({{< ref "/f43/language/nv.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nv.po | 
- | [ny]({{< ref "/f43/language/ny.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ny.po | 
- | [oj]({{< ref "/f43/language/oj.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/oj.po | 
- | [om]({{< ref "/f43/language/om.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/om.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/or.po | 
- | [os]({{< ref "/f43/language/os.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/os.po | 
- | [pap]({{< ref "/f43/language/pap.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pap.po | 
- | [pi]({{< ref "/f43/language/pi.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pi.po | 
- | [ps]({{< ref "/f43/language/ps.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ps.po | 
- | [qu]({{< ref "/f43/language/qu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/qu.po | 
- | [rm]({{< ref "/f43/language/rm.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rm.po | 
- | [rn]({{< ref "/f43/language/rn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rn.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ro.po | 
- | [ro_MD]({{< ref "/f43/language/ro_MD.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mo.po | 
- | [rue]({{< ref "/f43/language/rue.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rue.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rw.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sa.po | 
- | [sc]({{< ref "/f43/language/sc.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sc.po | 
- | [sd]({{< ref "/f43/language/sd.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sd.po | 
- | [se]({{< ref "/f43/language/se.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/se.po | 
- | [sg]({{< ref "/f43/language/sg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sg.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/si.po | 
- | [sm]({{< ref "/f43/language/sm.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sm.po | 
- | [sma]({{< ref "/f43/language/sma.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sma.po | 
- | [sn]({{< ref "/f43/language/sn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sn.po | 
- | [so]({{< ref "/f43/language/so.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/so.po | 
- | [sq]({{< ref "/f43/language/sq.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sq.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sr@latin.po | 
- | [ss]({{< ref "/f43/language/ss.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ss.po | 
- | [st]({{< ref "/f43/language/st.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/st.po | 
- | [su]({{< ref "/f43/language/su.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/su.po | 
- | [sw]({{< ref "/f43/language/sw.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sw.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ta.po | 
- | [te]({{< ref "/f43/language/te.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/te.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tg.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/th.po | 
- | [ti]({{< ref "/f43/language/ti.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ti.po | 
- | [tk]({{< ref "/f43/language/tk.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tk.po | 
- | [tl]({{< ref "/f43/language/tl.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tl.po | 
- | [tn]({{< ref "/f43/language/tn.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tn.po | 
- | [to]({{< ref "/f43/language/to.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/to.po | 
- | [ts]({{< ref "/f43/language/ts.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ts.po | 
- | [tt]({{< ref "/f43/language/tt.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tt.po | 
- | [tw]({{< ref "/f43/language/tw.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tw.po | 
- | [ty]({{< ref "/f43/language/ty.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ty.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ug.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ur.po | 
- | [ve]({{< ref "/f43/language/ve.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ve.po | 
- | [vi]({{< ref "/f43/language/vi.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/vi.po | 
- | [vo]({{< ref "/f43/language/vo.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/vo.po | 
- | [wa]({{< ref "/f43/language/wa.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/wa.po | 
- | [wo]({{< ref "/f43/language/wo.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/wo.po | 
- | [xh]({{< ref "/f43/language/xh.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/xh.po | 
- | [yi]({{< ref "/f43/language/yi.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/yi.po | 
- | [yo]({{< ref "/f43/language/yo.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/yo.po | 
- | [za]({{< ref "/f43/language/za.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/za.po | 
- | [zh_Hant_HK]({{< ref "/f43/language/zh_Hant_HK.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zh_HK.po | 
- | [zu]({{< ref "/f43/language/zu.md" >}}) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zu.po | 
+ | [ca](/f43/language/ca) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ca.po | 
+ | [en_GB](/f43/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_GB.po | 
+ | [es](/f43/language/es) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/es.po | 
+ | [fr](/f43/language/fr) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fr.po | 
+ | [he](/f43/language/he) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/he.po | 
+ | [hu](/f43/language/hu) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hu.po | 
+ | [ja](/f43/language/ja) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ja.po | 
+ | [nl](/f43/language/nl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nl.po | 
+ | [pl](/f43/language/pl) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pl.po | 
+ | [pt_BR](/f43/language/pt_BR) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ru.po | 
+ | [uk](/f43/language/uk) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/uk.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 303 | 303 | 100.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zh_TW.po | 
+ | [sk](/f43/language/sk) | 280 | 303 | 92.4 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sk.po | 
+ | [fi](/f43/language/fi) | 185 | 303 | 61.1 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fi.po | 
+ | [de](/f43/language/de) | 155 | 303 | 51.2 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/de.po | 
+ | [cs](/f43/language/cs) | 96 | 303 | 31.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cs.po | 
+ | [ka](/f43/language/ka) | 95 | 303 | 31.4 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ka.po | 
+ | [nb_NO](/f43/language/nb_NO) | 102 | 606 | 16.8 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/no.po/mnt/stockage/packages/f43/elementary-settings-daemon/po/nb.po | 
+ | [id](/f43/language/id) | 49 | 606 | 8.1 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/id_ID.po/mnt/stockage/packages/f43/elementary-settings-daemon/po/id.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 29 | 606 | 4.8 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zh_CN.po/mnt/stockage/packages/f43/elementary-settings-daemon/po/zh.po | 
+ | [ar](/f43/language/ar) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ar.po | 
+ | [ckb](/f43/language/ckb) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ckb.po | 
+ | [ko](/f43/language/ko) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ko.po | 
+ | [nn](/f43/language/nn) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nn.po | 
+ | [pt](/f43/language/pt) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pt.po | 
+ | [tr](/f43/language/tr) | 14 | 303 | 4.6 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tr.po | 
+ | [en_AU](/f43/language/en_AU) | 12 | 303 | 4.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_AU.po | 
+ | [en_CA](/f43/language/en_CA) | 12 | 303 | 4.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_CA.po | 
+ | [da](/f43/language/da) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/da.po | 
+ | [eo](/f43/language/eo) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/eo.po | 
+ | [it](/f43/language/it) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/it.po | 
+ | [oc](/f43/language/oc) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/oc.po | 
+ | [sl](/f43/language/sl) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sl.po | 
+ | [sr](/f43/language/sr) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sr.po | 
+ | [szl](/f43/language/szl) | 7 | 303 | 2.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/szl.po | 
+ | [mr](/f43/language/mr) | 5 | 303 | 1.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mr.po | 
+ | [sco](/f43/language/sco) | 5 | 303 | 1.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sco.po | 
+ | [fa](/f43/language/fa) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fa.po | 
+ | [gl](/f43/language/gl) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gl.po | 
+ | [ml](/f43/language/ml) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ml.po | 
+ | [uz](/f43/language/uz) | 4 | 303 | 1.3 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/uz.po | 
+ | [am](/f43/language/am) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/am.po | 
+ | [bs](/f43/language/bs) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bs.po | 
+ | [el](/f43/language/el) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/el.po | 
+ | [ie](/f43/language/ie) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ie.po | 
+ | [lt](/f43/language/lt) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lt.po | 
+ | [pa](/f43/language/pa) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pa.po | 
+ | [sv](/f43/language/sv) | 2 | 303 | 0.7 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sv.po | 
+ | [aa](/f43/language/aa) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/aa.po | 
+ | [ab](/f43/language/ab) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ab.po | 
+ | [ace](/f43/language/ace) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ace.po | 
+ | [ae](/f43/language/ae) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ae.po | 
+ | [af](/f43/language/af) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/af.po | 
+ | [ak](/f43/language/ak) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ak.po | 
+ | [an](/f43/language/an) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/an.po | 
+ | [as](/f43/language/as) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/as.po | 
+ | [ast](/f43/language/ast) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ast.po | 
+ | [av](/f43/language/av) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/av.po | 
+ | [ay](/f43/language/ay) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ay.po | 
+ | [az](/f43/language/az) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/az.po | 
+ | [ba](/f43/language/ba) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ba.po | 
+ | [be](/f43/language/be) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/be.po | 
+ | [bg](/f43/language/bg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bg.po | 
+ | [bh](/f43/language/bh) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bh.po | 
+ | [bi](/f43/language/bi) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bi.po | 
+ | [bm](/f43/language/bm) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bm.po | 
+ | [bn](/f43/language/bn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bn.po | 
+ | [bo](/f43/language/bo) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/bo.po | 
+ | [br](/f43/language/br) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/br.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ca@valencia.po | 
+ | [ce](/f43/language/ce) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ce.po | 
+ | [ch](/f43/language/ch) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ch.po | 
+ | [co](/f43/language/co) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/co.po | 
+ | [cr](/f43/language/cr) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cr.po | 
+ | [cu](/f43/language/cu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cu.po | 
+ | [cv](/f43/language/cv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cv.po | 
+ | [cy](/f43/language/cy) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/cy.po | 
+ | [dv](/f43/language/dv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/dv.po | 
+ | [dz](/f43/language/dz) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/dz.po | 
+ | [ee](/f43/language/ee) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ee.po | 
+ | [en_ZA](/f43/language/en_ZA) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/en_ZA.po | 
+ | [et](/f43/language/et) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/et.po | 
+ | [eu](/f43/language/eu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/eu.po | 
+ | [ff](/f43/language/ff) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ff.po | 
+ | [fil](/f43/language/fil) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fil.po | 
+ | [fj](/f43/language/fj) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fj.po | 
+ | [fo](/f43/language/fo) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fo.po | 
+ | [fr_CA](/f43/language/fr_CA) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fr_CA.po | 
+ | [frp](/f43/language/frp) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/frp.po | 
+ | [fy](/f43/language/fy) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/fy.po | 
+ | [ga](/f43/language/ga) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ga.po | 
+ | [gd](/f43/language/gd) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gd.po | 
+ | [gn](/f43/language/gn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gn.po | 
+ | [gu](/f43/language/gu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gu.po | 
+ | [gv](/f43/language/gv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/gv.po | 
+ | [ha](/f43/language/ha) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ha.po | 
+ | [hi](/f43/language/hi) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hi.po | 
+ | [ho](/f43/language/ho) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ho.po | 
+ | [hr](/f43/language/hr) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hr.po | 
+ | [ht](/f43/language/ht) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ht.po | 
+ | [hy](/f43/language/hy) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hy.po | 
+ | [hz](/f43/language/hz) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/hz.po | 
+ | [ia](/f43/language/ia) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ia.po | 
+ | [ig](/f43/language/ig) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ig.po | 
+ | [ii](/f43/language/ii) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ii.po | 
+ | [ik](/f43/language/ik) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ik.po | 
+ | [io](/f43/language/io) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/io.po | 
+ | [is](/f43/language/is) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/is.po | 
+ | [iu](/f43/language/iu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/iu.po | 
+ | [jv](/f43/language/jv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/jv.po | 
+ | [kg](/f43/language/kg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kg.po | 
+ | [ki](/f43/language/ki) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ki.po | 
+ | [kj](/f43/language/kj) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kj.po | 
+ | [kk](/f43/language/kk) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kk.po | 
+ | [kl](/f43/language/kl) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kl.po | 
+ | [km](/f43/language/km) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/km.po | 
+ | [kn](/f43/language/kn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kn.po | 
+ | [kr](/f43/language/kr) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kr.po | 
+ | [ks](/f43/language/ks) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ks.po | 
+ | [ku](/f43/language/ku) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ku.po | 
+ | [kv](/f43/language/kv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kv.po | 
+ | [kw](/f43/language/kw) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/kw.po | 
+ | [ky](/f43/language/ky) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ky.po | 
+ | [la](/f43/language/la) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/la.po | 
+ | [lb](/f43/language/lb) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lb.po | 
+ | [lg](/f43/language/lg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lg.po | 
+ | [li](/f43/language/li) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/li.po | 
+ | [ln](/f43/language/ln) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ln.po | 
+ | [lo](/f43/language/lo) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lo.po | 
+ | [lu](/f43/language/lu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lu.po | 
+ | [lv](/f43/language/lv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/lv.po | 
+ | [mg](/f43/language/mg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mg.po | 
+ | [mh](/f43/language/mh) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mh.po | 
+ | [mi](/f43/language/mi) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mi.po | 
+ | [mk](/f43/language/mk) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mk.po | 
+ | [mn](/f43/language/mn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mn.po | 
+ | [ms](/f43/language/ms) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ms.po | 
+ | [mt](/f43/language/mt) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mt.po | 
+ | [my](/f43/language/my) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/my.po | 
+ | [na](/f43/language/na) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/na.po | 
+ | [nd](/f43/language/nd) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nd.po | 
+ | [ne](/f43/language/ne) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ne.po | 
+ | [ng](/f43/language/ng) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ng.po | 
+ | [nr](/f43/language/nr) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nr.po | 
+ | [nv](/f43/language/nv) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/nv.po | 
+ | [ny](/f43/language/ny) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ny.po | 
+ | [oj](/f43/language/oj) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/oj.po | 
+ | [om](/f43/language/om) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/om.po | 
+ | [or](/f43/language/or) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/or.po | 
+ | [os](/f43/language/os) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/os.po | 
+ | [pap](/f43/language/pap) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pap.po | 
+ | [pi](/f43/language/pi) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/pi.po | 
+ | [ps](/f43/language/ps) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ps.po | 
+ | [qu](/f43/language/qu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/qu.po | 
+ | [rm](/f43/language/rm) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rm.po | 
+ | [rn](/f43/language/rn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rn.po | 
+ | [ro](/f43/language/ro) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ro.po | 
+ | [ro_MD](/f43/language/ro_MD) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/mo.po | 
+ | [rue](/f43/language/rue) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rue.po | 
+ | [rw](/f43/language/rw) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/rw.po | 
+ | [sa](/f43/language/sa) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sa.po | 
+ | [sc](/f43/language/sc) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sc.po | 
+ | [sd](/f43/language/sd) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sd.po | 
+ | [se](/f43/language/se) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/se.po | 
+ | [sg](/f43/language/sg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sg.po | 
+ | [si](/f43/language/si) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/si.po | 
+ | [sm](/f43/language/sm) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sm.po | 
+ | [sma](/f43/language/sma) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sma.po | 
+ | [sn](/f43/language/sn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sn.po | 
+ | [so](/f43/language/so) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/so.po | 
+ | [sq](/f43/language/sq) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sq.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sr@latin.po | 
+ | [ss](/f43/language/ss) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ss.po | 
+ | [st](/f43/language/st) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/st.po | 
+ | [su](/f43/language/su) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/su.po | 
+ | [sw](/f43/language/sw) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/sw.po | 
+ | [ta](/f43/language/ta) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ta.po | 
+ | [te](/f43/language/te) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/te.po | 
+ | [tg](/f43/language/tg) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tg.po | 
+ | [th](/f43/language/th) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/th.po | 
+ | [ti](/f43/language/ti) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ti.po | 
+ | [tk](/f43/language/tk) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tk.po | 
+ | [tl](/f43/language/tl) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tl.po | 
+ | [tn](/f43/language/tn) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tn.po | 
+ | [to](/f43/language/to) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/to.po | 
+ | [ts](/f43/language/ts) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ts.po | 
+ | [tt](/f43/language/tt) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tt.po | 
+ | [tw](/f43/language/tw) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/tw.po | 
+ | [ty](/f43/language/ty) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ty.po | 
+ | [ug](/f43/language/ug) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ug.po | 
+ | [ur](/f43/language/ur) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ur.po | 
+ | [ve](/f43/language/ve) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/ve.po | 
+ | [vi](/f43/language/vi) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/vi.po | 
+ | [vo](/f43/language/vo) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/vo.po | 
+ | [wa](/f43/language/wa) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/wa.po | 
+ | [wo](/f43/language/wo) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/wo.po | 
+ | [xh](/f43/language/xh) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/xh.po | 
+ | [yi](/f43/language/yi) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/yi.po | 
+ | [yo](/f43/language/yo) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/yo.po | 
+ | [za](/f43/language/za) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/za.po | 
+ | [zh_Hant_HK](/f43/language/zh_Hant_HK) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zh_HK.po | 
+ | [zu](/f43/language/zu) | 0 | 303 | 0.0 | /mnt/stockage/packages/f43/elementary-settings-daemon/po/zu.po | 
 {.sortable}
 
 

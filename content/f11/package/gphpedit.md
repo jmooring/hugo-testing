@@ -18,7 +18,7 @@ The package gphpedit (version 0.9.95):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 639 | 639 | 100.0 | /mnt/stockage/packages/f11/gphpedit/po/de.po | 
+ | [de](/f11/language/de) | 639 | 639 | 100.0 | /mnt/stockage/packages/f11/gphpedit/po/de.po | 
 {.sortable}
 
 

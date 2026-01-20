@@ -18,17 +18,17 @@ The package oyranos (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 4699 | 5332 | 88.1 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/de.po/mnt/stockage/packages/f23/oyranos/po/de.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 4296 | 5332 | 80.6 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/cs.po/mnt/stockage/packages/f23/oyranos/po/cs.po | 
- | [hy]({{< ref "/f23/language/hy.md" >}}) | 4 | 47 | 8.5 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/hy.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 267 | 5285 | 5.1 | /mnt/stockage/packages/f23/oyranos/po/eu.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/ja.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/ru.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/uk.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/zh_CN.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 98 | 5332 | 1.8 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/fr.po/mnt/stockage/packages/f23/oyranos/po/fr.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 43 | 5332 | 0.8 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/eo.po/mnt/stockage/packages/f23/oyranos/po/eo.po | 
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 0 | 47 | 0.0 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/ar.po | 
+ | [de](/f23/language/de) | 4699 | 5332 | 88.1 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/de.po/mnt/stockage/packages/f23/oyranos/po/de.po | 
+ | [cs](/f23/language/cs) | 4296 | 5332 | 80.6 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/cs.po/mnt/stockage/packages/f23/oyranos/po/cs.po | 
+ | [hy](/f23/language/hy) | 4 | 47 | 8.5 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/hy.po | 
+ | [eu](/f23/language/eu) | 267 | 5285 | 5.1 | /mnt/stockage/packages/f23/oyranos/po/eu.po | 
+ | [ja](/f23/language/ja) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/ja.po | 
+ | [ru](/f23/language/ru) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/ru.po | 
+ | [uk](/f23/language/uk) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/uk.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 2 | 47 | 4.3 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/zh_CN.po | 
+ | [fr](/f23/language/fr) | 98 | 5332 | 1.8 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/fr.po/mnt/stockage/packages/f23/oyranos/po/fr.po | 
+ | [eo](/f23/language/eo) | 43 | 5332 | 0.8 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/eo.po/mnt/stockage/packages/f23/oyranos/po/eo.po | 
+ | [ar](/f23/language/ar) | 0 | 47 | 0.0 | /mnt/stockage/packages/f23/oyranos/fl_i18n/po/ar.po | 
 {.sortable}
 
 

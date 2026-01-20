@@ -18,12 +18,12 @@ The package python-django-openstack-auth (version 1.0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f19/language/es.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 45 | 46 | 97.8 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 34 | 46 | 73.9 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 31 | 46 | 67.4 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 31 | 46 | 67.4 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f19/language/en.md" >}}) | 0 | 46 | 0.0 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/en/LC_MESSAGES/django.po | 
+ | [es](/f19/language/es) | 46 | 46 | 100.0 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/es/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 45 | 46 | 97.8 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [de](/f19/language/de) | 34 | 46 | 73.9 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/de/LC_MESSAGES/django.po | 
+ | [ja](/f19/language/ja) | 31 | 46 | 67.4 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/ja/LC_MESSAGES/django.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 31 | 46 | 67.4 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/zh_TW/LC_MESSAGES/django.po | 
+ | [en](/f19/language/en) | 0 | 46 | 0.0 | /mnt/stockage/packages/f19/python-django-openstack-auth/openstack_auth/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

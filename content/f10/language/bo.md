@@ -40,9 +40,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 61 | 761 | 8.0 | LANGUAGE <LL@li.org> | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 0 | 1447 | 0.0 | Tibetan <bo@li.org> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 61 | 761 | 8.0 | LANGUAGE <LL@li.org> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 0 | 1186 | 0.0 | Tibetan <bo@li.org> | 
+ | [stellarium](/f10/package/stellarium) | 0 | 1447 | 0.0 | Tibetan <bo@li.org> | 
 {.sortable}
 
 

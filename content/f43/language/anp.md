@@ -44,10 +44,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [fonts-tweak-tool]({{< ref "/f43/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f43/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [libvirt-sandbox]({{< ref "/f43/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f43/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
+ | [fonts-tweak-tool](/f43/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Angika | 
+ | [initial-setup](/f43/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [libvirt-sandbox](/f43/package/libvirt-sandbox) | 0 | 617 | 0.0 | Angika | 
+ | [python-meh](/f43/package/python-meh) | 0 | 109 | 0.0 | Angika | 
 {.sortable}
 
 

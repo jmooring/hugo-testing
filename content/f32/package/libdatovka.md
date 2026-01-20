@@ -18,7 +18,7 @@ The package libdatovka (version 0.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 3337 | 3337 | 100.0 | /mnt/stockage/packages/f32/libdatovka/po/cs.po | 
+ | [cs](/f32/language/cs) | 3337 | 3337 | 100.0 | /mnt/stockage/packages/f32/libdatovka/po/cs.po | 
 {.sortable}
 
 

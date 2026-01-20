@@ -18,10 +18,10 @@ The package butt (version 0.1.38):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f40/butt/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f40/butt/po/es.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f40/butt/po/pt_BR.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 2118 | 2431 | 87.1 | /mnt/stockage/packages/f40/butt/po/fr.po | 
+ | [de](/f40/language/de) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f40/butt/po/de.po | 
+ | [es](/f40/language/es) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f40/butt/po/es.po | 
+ | [pt_BR](/f40/language/pt_BR) | 2431 | 2431 | 100.0 | /mnt/stockage/packages/f40/butt/po/pt_BR.po | 
+ | [fr](/f40/language/fr) | 2118 | 2431 | 87.1 | /mnt/stockage/packages/f40/butt/po/fr.po | 
 {.sortable}
 
 

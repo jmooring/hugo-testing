@@ -18,7 +18,7 @@ The package sblim-cmpi-dhcp (version 0.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f14/language/en_US.md" >}}) | 356 | 381 | 93.4 | /mnt/stockage/packages/f14/sblim-cmpi-dhcp/po/en_US.po | 
+ | [en_US](/f14/language/en_US) | 356 | 381 | 93.4 | /mnt/stockage/packages/f14/sblim-cmpi-dhcp/po/en_US.po | 
 {.sortable}
 
 

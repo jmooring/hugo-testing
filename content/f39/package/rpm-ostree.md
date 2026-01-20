@@ -18,56 +18,56 @@ The package rpm-ostree (version 2024.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fr.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ko.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/nl.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pl.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ru.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/uk.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1417 | 1480 | 95.7 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ja.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1417 | 1480 | 95.7 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1156 | 1480 | 78.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/zh_TW.po | 
- | [fur]({{< ref "/f39/language/fur.md" >}}) | 1119 | 1480 | 75.6 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fur.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1072 | 1480 | 72.4 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pt_BR.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 862 | 1480 | 58.2 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 614 | 1480 | 41.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/es.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 585 | 1480 | 39.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/it.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 370 | 1480 | 25.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/hu.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 156 | 1480 | 10.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/cs.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 141 | 1480 | 9.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/bn.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 141 | 1480 | 9.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/da.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 112 | 1480 | 7.6 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ca.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 63 | 1480 | 4.3 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pt.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 61 | 1480 | 4.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/id.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 19 | 1480 | 1.3 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/bg.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 14 | 1480 | 0.9 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pa.po | 
- | [fil]({{< ref "/f39/language/fil.md" >}}) | 8 | 1480 | 0.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fil.po | 
- | [as]({{< ref "/f39/language/as.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/as.po | 
- | [bn_IN]({{< ref "/f39/language/bn_IN.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/bn_IN.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/el.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fa.po | 
- | [gu]({{< ref "/f39/language/gu.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/gu.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/hi.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ia.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/is.po | 
- | [kn]({{< ref "/f39/language/kn.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/kn.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/mai.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ml.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/mr.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/nb.po | 
- | [or]({{< ref "/f39/language/or.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/or.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/si.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sk.po | 
- | [sq]({{< ref "/f39/language/sq.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sq.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sr.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sr@latin.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ta.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/te.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/th.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 0 | 1480 | 0.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/eu.po | 
+ | [fi](/f39/language/fi) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fi.po | 
+ | [fr](/f39/language/fr) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fr.po | 
+ | [ko](/f39/language/ko) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ko.po | 
+ | [nl](/f39/language/nl) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/nl.po | 
+ | [pl](/f39/language/pl) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pl.po | 
+ | [ru](/f39/language/ru) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ru.po | 
+ | [sv](/f39/language/sv) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sv.po | 
+ | [tr](/f39/language/tr) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/tr.po | 
+ | [uk](/f39/language/uk) | 1480 | 1480 | 100.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/uk.po | 
+ | [ja](/f39/language/ja) | 1417 | 1480 | 95.7 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ja.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1417 | 1480 | 95.7 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1156 | 1480 | 78.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/zh_TW.po | 
+ | [fur](/f39/language/fur) | 1119 | 1480 | 75.6 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fur.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1072 | 1480 | 72.4 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pt_BR.po | 
+ | [de](/f39/language/de) | 862 | 1480 | 58.2 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/de.po | 
+ | [es](/f39/language/es) | 614 | 1480 | 41.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/es.po | 
+ | [it](/f39/language/it) | 585 | 1480 | 39.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/it.po | 
+ | [hu](/f39/language/hu) | 370 | 1480 | 25.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/hu.po | 
+ | [cs](/f39/language/cs) | 156 | 1480 | 10.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/cs.po | 
+ | [bn](/f39/language/bn) | 141 | 1480 | 9.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/bn.po | 
+ | [da](/f39/language/da) | 141 | 1480 | 9.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/da.po | 
+ | [ca](/f39/language/ca) | 112 | 1480 | 7.6 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ca.po | 
+ | [pt](/f39/language/pt) | 63 | 1480 | 4.3 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pt.po | 
+ | [id](/f39/language/id) | 61 | 1480 | 4.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/id.po | 
+ | [bg](/f39/language/bg) | 19 | 1480 | 1.3 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/bg.po | 
+ | [pa](/f39/language/pa) | 14 | 1480 | 0.9 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/pa.po | 
+ | [fil](/f39/language/fil) | 8 | 1480 | 0.5 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fil.po | 
+ | [as](/f39/language/as) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/as.po | 
+ | [bn_IN](/f39/language/bn_IN) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/bn_IN.po | 
+ | [el](/f39/language/el) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/el.po | 
+ | [fa](/f39/language/fa) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/fa.po | 
+ | [gu](/f39/language/gu) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/gu.po | 
+ | [hi](/f39/language/hi) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/hi.po | 
+ | [ia](/f39/language/ia) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ia.po | 
+ | [is](/f39/language/is) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/is.po | 
+ | [kn](/f39/language/kn) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/kn.po | 
+ | [mai](/f39/language/mai) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/mai.po | 
+ | [ml](/f39/language/ml) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ml.po | 
+ | [mr](/f39/language/mr) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/mr.po | 
+ | [nb_NO](/f39/language/nb_NO) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/nb.po | 
+ | [or](/f39/language/or) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/or.po | 
+ | [si](/f39/language/si) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/si.po | 
+ | [sk](/f39/language/sk) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sk.po | 
+ | [sq](/f39/language/sq) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sq.po | 
+ | [sr](/f39/language/sr) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sr.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/sr@latin.po | 
+ | [ta](/f39/language/ta) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/ta.po | 
+ | [te](/f39/language/te) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/te.po | 
+ | [th](/f39/language/th) | 2 | 1480 | 0.1 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/th.po | 
+ | [eu](/f39/language/eu) | 0 | 1480 | 0.0 | /mnt/stockage/packages/f39/rpm-ostree/libdnf/po/eu.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package freedink-data (version 1.08.20100103):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/da.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/fr.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 13604 | 13756 | 98.9 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/nl.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 13456 | 13760 | 97.8 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 8600 | 13770 | 62.5 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/es.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 2611 | 13770 | 19.0 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/mk.po | 
+ | [da](/f15/language/da) | 13770 | 13770 | 100.0 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/da.po | 
+ | [fr](/f15/language/fr) | 13758 | 13758 | 100.0 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/fr.po | 
+ | [nl](/f15/language/nl) | 13604 | 13756 | 98.9 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/nl.po | 
+ | [de](/f15/language/de) | 13456 | 13760 | 97.8 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/de.po | 
+ | [es](/f15/language/es) | 8600 | 13770 | 62.5 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/es.po | 
+ | [mk](/f15/language/mk) | 2611 | 13770 | 19.0 | /mnt/stockage/packages/f15/freedink-data/dink/l10n/mk.po | 
 {.sortable}
 
 

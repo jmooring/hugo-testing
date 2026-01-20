@@ -18,57 +18,57 @@ The package akonadi-search (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ar/akonadi_search.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/bg/akonadi_search.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ca/akonadi_search.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ca@valencia/akonadi_search.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/cs/akonadi_search.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/de/akonadi_search.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/en_GB/akonadi_search.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/eo/akonadi_search.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/es/akonadi_search.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/eu/akonadi_search.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/fi/akonadi_search.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/fr/akonadi_search.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/gl/akonadi_search.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/he/akonadi_search.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/hu/akonadi_search.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ia/akonadi_search.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/id/akonadi_search.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/it/akonadi_search.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ka/akonadi_search.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ko/akonadi_search.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/lt/akonadi_search.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/lv/akonadi_search.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/nl/akonadi_search.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/nn/akonadi_search.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/pl/akonadi_search.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/pt_BR/akonadi_search.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ro/akonadi_search.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ru/akonadi_search.po | 
- | [sa]({{< ref "/f43/language/sa.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/sa/akonadi_search.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/sl/akonadi_search.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/sv/akonadi_search.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/tr/akonadi_search.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/uk/akonadi_search.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/zh_CN/akonadi_search.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/zh_TW/akonadi_search.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 64 | 67 | 95.5 | /mnt/stockage/packages/f43/akonadi-search/po/el/akonadi_search.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 52 | 67 | 77.6 | /mnt/stockage/packages/f43/akonadi-search/po/sk/akonadi_search.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/az/akonadi_search.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/da/akonadi_search.po | 
- | [et]({{< ref "/f43/language/et.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/et/akonadi_search.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/hi/akonadi_search.po | 
- | [hsb]({{< ref "/f43/language/hsb.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/hsb/akonadi_search.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/pt/akonadi_search.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr/akonadi_search.po | 
- | [sr@ijekavian]({{< ref "/f43/language/sr@ijekavian.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr@ijekavian/akonadi_search.po | 
- | [sr@ijekavian_Latn]({{< ref "/f43/language/sr@ijekavian_Latn.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr@ijekavianlatin/akonadi_search.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr@latin/akonadi_search.po | 
- | [ast]({{< ref "/f43/language/ast.md" >}}) | 9 | 67 | 13.4 | /mnt/stockage/packages/f43/akonadi-search/po/ast/akonadi_search.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 8 | 67 | 11.9 | /mnt/stockage/packages/f43/akonadi-search/po/nb/akonadi_search.po | 
- | [ga]({{< ref "/f43/language/ga.md" >}}) | 0 | 67 | 0.0 | /mnt/stockage/packages/f43/akonadi-search/po/ga/akonadi_search.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 0 | 67 | 0.0 | /mnt/stockage/packages/f43/akonadi-search/po/ja/akonadi_search.po | 
+ | [ar](/f43/language/ar) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ar/akonadi_search.po | 
+ | [bg](/f43/language/bg) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/bg/akonadi_search.po | 
+ | [ca](/f43/language/ca) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ca/akonadi_search.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ca@valencia/akonadi_search.po | 
+ | [cs](/f43/language/cs) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/cs/akonadi_search.po | 
+ | [de](/f43/language/de) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/de/akonadi_search.po | 
+ | [en_GB](/f43/language/en_GB) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/en_GB/akonadi_search.po | 
+ | [eo](/f43/language/eo) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/eo/akonadi_search.po | 
+ | [es](/f43/language/es) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/es/akonadi_search.po | 
+ | [eu](/f43/language/eu) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/eu/akonadi_search.po | 
+ | [fi](/f43/language/fi) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/fi/akonadi_search.po | 
+ | [fr](/f43/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/fr/akonadi_search.po | 
+ | [gl](/f43/language/gl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/gl/akonadi_search.po | 
+ | [he](/f43/language/he) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/he/akonadi_search.po | 
+ | [hu](/f43/language/hu) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/hu/akonadi_search.po | 
+ | [ia](/f43/language/ia) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ia/akonadi_search.po | 
+ | [id](/f43/language/id) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/id/akonadi_search.po | 
+ | [it](/f43/language/it) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/it/akonadi_search.po | 
+ | [ka](/f43/language/ka) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ka/akonadi_search.po | 
+ | [ko](/f43/language/ko) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ko/akonadi_search.po | 
+ | [lt](/f43/language/lt) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/lt/akonadi_search.po | 
+ | [lv](/f43/language/lv) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/lv/akonadi_search.po | 
+ | [nl](/f43/language/nl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/nl/akonadi_search.po | 
+ | [nn](/f43/language/nn) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/nn/akonadi_search.po | 
+ | [pl](/f43/language/pl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/pl/akonadi_search.po | 
+ | [pt_BR](/f43/language/pt_BR) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/pt_BR/akonadi_search.po | 
+ | [ro](/f43/language/ro) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ro/akonadi_search.po | 
+ | [ru](/f43/language/ru) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/ru/akonadi_search.po | 
+ | [sa](/f43/language/sa) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/sa/akonadi_search.po | 
+ | [sl](/f43/language/sl) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/sl/akonadi_search.po | 
+ | [sv](/f43/language/sv) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/sv/akonadi_search.po | 
+ | [tr](/f43/language/tr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/tr/akonadi_search.po | 
+ | [uk](/f43/language/uk) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/uk/akonadi_search.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/zh_CN/akonadi_search.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 67 | 67 | 100.0 | /mnt/stockage/packages/f43/akonadi-search/po/zh_TW/akonadi_search.po | 
+ | [el](/f43/language/el) | 64 | 67 | 95.5 | /mnt/stockage/packages/f43/akonadi-search/po/el/akonadi_search.po | 
+ | [sk](/f43/language/sk) | 52 | 67 | 77.6 | /mnt/stockage/packages/f43/akonadi-search/po/sk/akonadi_search.po | 
+ | [az](/f43/language/az) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/az/akonadi_search.po | 
+ | [da](/f43/language/da) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/da/akonadi_search.po | 
+ | [et](/f43/language/et) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/et/akonadi_search.po | 
+ | [hi](/f43/language/hi) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/hi/akonadi_search.po | 
+ | [hsb](/f43/language/hsb) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/hsb/akonadi_search.po | 
+ | [pt](/f43/language/pt) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/pt/akonadi_search.po | 
+ | [sr](/f43/language/sr) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr/akonadi_search.po | 
+ | [sr@ijekavian](/f43/language/sr@ijekavian) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr@ijekavian/akonadi_search.po | 
+ | [sr@ijekavian_Latn](/f43/language/sr@ijekavian_Latn) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr@ijekavianlatin/akonadi_search.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 35 | 67 | 52.2 | /mnt/stockage/packages/f43/akonadi-search/po/sr@latin/akonadi_search.po | 
+ | [ast](/f43/language/ast) | 9 | 67 | 13.4 | /mnt/stockage/packages/f43/akonadi-search/po/ast/akonadi_search.po | 
+ | [nb_NO](/f43/language/nb_NO) | 8 | 67 | 11.9 | /mnt/stockage/packages/f43/akonadi-search/po/nb/akonadi_search.po | 
+ | [ga](/f43/language/ga) | 0 | 67 | 0.0 | /mnt/stockage/packages/f43/akonadi-search/po/ga/akonadi_search.po | 
+ | [ja](/f43/language/ja) | 0 | 67 | 0.0 | /mnt/stockage/packages/f43/akonadi-search/po/ja/akonadi_search.po | 
 {.sortable}
 
 

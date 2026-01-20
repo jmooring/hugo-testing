@@ -18,37 +18,37 @@ The package gegl04 (version 0.4.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 6792 | 6792 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 9197 | 9197 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/ca.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 9021 | 9021 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/da.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 9412 | 9412 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 9477 | 9477 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 9549 | 9549 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/es.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 9549 | 9549 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/pl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 7291 | 7291 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 9050 | 9050 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/sv.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 9197 | 9197 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 8483 | 8485 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/pt_BR.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 9399 | 9477 | 99.2 | /mnt/stockage/packages/f29/gegl04/po/it.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 7265 | 7388 | 98.3 | /mnt/stockage/packages/f29/gegl04/po/pt.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 8295 | 9412 | 88.1 | /mnt/stockage/packages/f29/gegl04/po/tr.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 8224 | 9549 | 86.1 | /mnt/stockage/packages/f29/gegl04/po/eu.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 5922 | 7220 | 82.0 | /mnt/stockage/packages/f29/gegl04/po/oc.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 5686 | 7005 | 81.2 | /mnt/stockage/packages/f29/gegl04/po/fr.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 7484 | 9549 | 78.4 | /mnt/stockage/packages/f29/gegl04/po/sl.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 6617 | 8455 | 78.3 | /mnt/stockage/packages/f29/gegl04/po/mr.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 6737 | 8737 | 77.1 | /mnt/stockage/packages/f29/gegl04/po/de.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 5684 | 8405 | 67.6 | /mnt/stockage/packages/f29/gegl04/po/lv.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 4646 | 8455 | 54.9 | /mnt/stockage/packages/f29/gegl04/po/uk.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 3113 | 9549 | 32.6 | /mnt/stockage/packages/f29/gegl04/po/ru.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 1436 | 9137 | 15.7 | /mnt/stockage/packages/f29/gegl04/po/is.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 345 | 5397 | 6.4 | /mnt/stockage/packages/f29/gegl04/po/ko.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 520 | 9477 | 5.5 | /mnt/stockage/packages/f29/gegl04/po/ne.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 283 | 5397 | 5.2 | /mnt/stockage/packages/f29/gegl04/po/gl.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 187 | 7238 | 2.6 | /mnt/stockage/packages/f29/gegl04/po/nb.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 178 | 8096 | 2.2 | /mnt/stockage/packages/f29/gegl04/po/eo.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 115 | 5397 | 2.1 | /mnt/stockage/packages/f29/gegl04/po/id.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 151 | 7169 | 2.1 | /mnt/stockage/packages/f29/gegl04/po/sk.po | 
+ | [bs](/f29/language/bs) | 6792 | 6792 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/bs.po | 
+ | [ca](/f29/language/ca) | 9197 | 9197 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/ca.po | 
+ | [da](/f29/language/da) | 9021 | 9021 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/da.po | 
+ | [el](/f29/language/el) | 9412 | 9412 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 9477 | 9477 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/en_GB.po | 
+ | [es](/f29/language/es) | 9549 | 9549 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/es.po | 
+ | [pl](/f29/language/pl) | 9549 | 9549 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/pl.po | 
+ | [sr](/f29/language/sr) | 7291 | 7291 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/sr.po | 
+ | [sv](/f29/language/sv) | 9050 | 9050 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/sv.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 9197 | 9197 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/zh_CN.po | 
+ | [pt_BR](/f29/language/pt_BR) | 8483 | 8485 | 100.0 | /mnt/stockage/packages/f29/gegl04/po/pt_BR.po | 
+ | [it](/f29/language/it) | 9399 | 9477 | 99.2 | /mnt/stockage/packages/f29/gegl04/po/it.po | 
+ | [pt](/f29/language/pt) | 7265 | 7388 | 98.3 | /mnt/stockage/packages/f29/gegl04/po/pt.po | 
+ | [tr](/f29/language/tr) | 8295 | 9412 | 88.1 | /mnt/stockage/packages/f29/gegl04/po/tr.po | 
+ | [eu](/f29/language/eu) | 8224 | 9549 | 86.1 | /mnt/stockage/packages/f29/gegl04/po/eu.po | 
+ | [oc](/f29/language/oc) | 5922 | 7220 | 82.0 | /mnt/stockage/packages/f29/gegl04/po/oc.po | 
+ | [fr](/f29/language/fr) | 5686 | 7005 | 81.2 | /mnt/stockage/packages/f29/gegl04/po/fr.po | 
+ | [sl](/f29/language/sl) | 7484 | 9549 | 78.4 | /mnt/stockage/packages/f29/gegl04/po/sl.po | 
+ | [mr](/f29/language/mr) | 6617 | 8455 | 78.3 | /mnt/stockage/packages/f29/gegl04/po/mr.po | 
+ | [de](/f29/language/de) | 6737 | 8737 | 77.1 | /mnt/stockage/packages/f29/gegl04/po/de.po | 
+ | [lv](/f29/language/lv) | 5684 | 8405 | 67.6 | /mnt/stockage/packages/f29/gegl04/po/lv.po | 
+ | [uk](/f29/language/uk) | 4646 | 8455 | 54.9 | /mnt/stockage/packages/f29/gegl04/po/uk.po | 
+ | [ru](/f29/language/ru) | 3113 | 9549 | 32.6 | /mnt/stockage/packages/f29/gegl04/po/ru.po | 
+ | [is](/f29/language/is) | 1436 | 9137 | 15.7 | /mnt/stockage/packages/f29/gegl04/po/is.po | 
+ | [ko](/f29/language/ko) | 345 | 5397 | 6.4 | /mnt/stockage/packages/f29/gegl04/po/ko.po | 
+ | [ne](/f29/language/ne) | 520 | 9477 | 5.5 | /mnt/stockage/packages/f29/gegl04/po/ne.po | 
+ | [gl](/f29/language/gl) | 283 | 5397 | 5.2 | /mnt/stockage/packages/f29/gegl04/po/gl.po | 
+ | [nb_NO](/f29/language/nb_NO) | 187 | 7238 | 2.6 | /mnt/stockage/packages/f29/gegl04/po/nb.po | 
+ | [eo](/f29/language/eo) | 178 | 8096 | 2.2 | /mnt/stockage/packages/f29/gegl04/po/eo.po | 
+ | [id](/f29/language/id) | 115 | 5397 | 2.1 | /mnt/stockage/packages/f29/gegl04/po/id.po | 
+ | [sk](/f29/language/sk) | 151 | 7169 | 2.1 | /mnt/stockage/packages/f29/gegl04/po/sk.po | 
 {.sortable}
 
 

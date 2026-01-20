@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [spacefm]({{< ref "/f24/package/spacefm.md" >}}) | 6819 | 8823 | 77.3 | Latgalian (http://www.transifex.com/p/spacefm/language/ltg/) | 
- | [gnome-do]({{< ref "/f24/package/gnome-do.md" >}}) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
- | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 6 | 152264 | 0.0 | Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/) | 
+ | [spacefm](/f24/package/spacefm) | 6819 | 8823 | 77.3 | Latgalian (http://www.transifex.com/p/spacefm/language/ltg/) | 
+ | [gnome-do](/f24/package/gnome-do) | 19 | 612 | 3.1 | Latgalian <ltg@li.org> | 
+ | [calibre](/f24/package/calibre) | 6 | 152264 | 0.0 | Latgalian (http://www.transifex.com/calibre/calibre/language/ltg/) | 
 {.sortable}
 
 

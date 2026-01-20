@@ -18,25 +18,25 @@ The package celestia (version 1.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f12/language/en.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f12/celestia/po2/en.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/es.po/mnt/stockage/packages/f12/celestia/po2/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/fr.po/mnt/stockage/packages/f12/celestia/po2/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/it.po/mnt/stockage/packages/f12/celestia/po2/it.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/lv.po/mnt/stockage/packages/f12/celestia/po2/lv.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/nl.po/mnt/stockage/packages/f12/celestia/po2/nl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/pt.po/mnt/stockage/packages/f12/celestia/po2/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/ru.po/mnt/stockage/packages/f12/celestia/po2/ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/sv.po/mnt/stockage/packages/f12/celestia/po2/sv.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/uk.po/mnt/stockage/packages/f12/celestia/po2/uk.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 1887 | 1894 | 99.6 | /mnt/stockage/packages/f12/celestia/po/de.po/mnt/stockage/packages/f12/celestia/po2/de.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1887 | 1894 | 99.6 | /mnt/stockage/packages/f12/celestia/po/ja.po/mnt/stockage/packages/f12/celestia/po2/ja.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 1877 | 1894 | 99.1 | /mnt/stockage/packages/f12/celestia/po/zh_CN.po/mnt/stockage/packages/f12/celestia/po2/zh_CN.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 1800 | 1894 | 95.0 | /mnt/stockage/packages/f12/celestia/po/hu.po/mnt/stockage/packages/f12/celestia/po2/hu.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 1789 | 1894 | 94.5 | /mnt/stockage/packages/f12/celestia/po/bg.po/mnt/stockage/packages/f12/celestia/po2/bg.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 1601 | 1894 | 84.5 | /mnt/stockage/packages/f12/celestia/po/ar.po/mnt/stockage/packages/f12/celestia/po2/ar.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 1502 | 1894 | 79.3 | /mnt/stockage/packages/f12/celestia/po/ko.po/mnt/stockage/packages/f12/celestia/po2/ko.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 938 | 1792 | 52.3 | /mnt/stockage/packages/f12/celestia/po/el.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 422 | 1792 | 23.5 | /mnt/stockage/packages/f12/celestia/po/pt_BR.po | 
+ | [en](/f12/language/en) | 102 | 102 | 100.0 | /mnt/stockage/packages/f12/celestia/po2/en.po | 
+ | [es](/f12/language/es) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/es.po/mnt/stockage/packages/f12/celestia/po2/es.po | 
+ | [fr](/f12/language/fr) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/fr.po/mnt/stockage/packages/f12/celestia/po2/fr.po | 
+ | [it](/f12/language/it) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/it.po/mnt/stockage/packages/f12/celestia/po2/it.po | 
+ | [lv](/f12/language/lv) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/lv.po/mnt/stockage/packages/f12/celestia/po2/lv.po | 
+ | [nl](/f12/language/nl) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/nl.po/mnt/stockage/packages/f12/celestia/po2/nl.po | 
+ | [pt](/f12/language/pt) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/pt.po/mnt/stockage/packages/f12/celestia/po2/pt.po | 
+ | [ru](/f12/language/ru) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/ru.po/mnt/stockage/packages/f12/celestia/po2/ru.po | 
+ | [sv](/f12/language/sv) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/sv.po/mnt/stockage/packages/f12/celestia/po2/sv.po | 
+ | [uk](/f12/language/uk) | 1894 | 1894 | 100.0 | /mnt/stockage/packages/f12/celestia/po/uk.po/mnt/stockage/packages/f12/celestia/po2/uk.po | 
+ | [de](/f12/language/de) | 1887 | 1894 | 99.6 | /mnt/stockage/packages/f12/celestia/po/de.po/mnt/stockage/packages/f12/celestia/po2/de.po | 
+ | [ja](/f12/language/ja) | 1887 | 1894 | 99.6 | /mnt/stockage/packages/f12/celestia/po/ja.po/mnt/stockage/packages/f12/celestia/po2/ja.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 1877 | 1894 | 99.1 | /mnt/stockage/packages/f12/celestia/po/zh_CN.po/mnt/stockage/packages/f12/celestia/po2/zh_CN.po | 
+ | [hu](/f12/language/hu) | 1800 | 1894 | 95.0 | /mnt/stockage/packages/f12/celestia/po/hu.po/mnt/stockage/packages/f12/celestia/po2/hu.po | 
+ | [bg](/f12/language/bg) | 1789 | 1894 | 94.5 | /mnt/stockage/packages/f12/celestia/po/bg.po/mnt/stockage/packages/f12/celestia/po2/bg.po | 
+ | [ar](/f12/language/ar) | 1601 | 1894 | 84.5 | /mnt/stockage/packages/f12/celestia/po/ar.po/mnt/stockage/packages/f12/celestia/po2/ar.po | 
+ | [ko](/f12/language/ko) | 1502 | 1894 | 79.3 | /mnt/stockage/packages/f12/celestia/po/ko.po/mnt/stockage/packages/f12/celestia/po2/ko.po | 
+ | [el](/f12/language/el) | 938 | 1792 | 52.3 | /mnt/stockage/packages/f12/celestia/po/el.po | 
+ | [pt_BR](/f12/language/pt_BR) | 422 | 1792 | 23.5 | /mnt/stockage/packages/f12/celestia/po/pt_BR.po | 
 {.sortable}
 
 

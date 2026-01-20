@@ -18,33 +18,33 @@ The package meego-panel-devices (version 0.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ast.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 558 | 558 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ca@valencia.po/mnt/stockage/packages/f15/meego-panel-devices/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/es.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/fa.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/gl.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ko.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/nl.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/sv.po | 
- | [wa]({{< ref "/f15/language/wa.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/wa.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/zh_TW.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 146 | 271 | 53.9 | /mnt/stockage/packages/f15/meego-panel-devices/po/sk.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 137 | 271 | 50.6 | /mnt/stockage/packages/f15/meego-panel-devices/po/da.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 103 | 279 | 36.9 | /mnt/stockage/packages/f15/meego-panel-devices/po/tr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 94 | 279 | 33.7 | /mnt/stockage/packages/f15/meego-panel-devices/po/hu.po | 
+ | [ast](/f15/language/ast) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ast.po | 
+ | [ca](/f15/language/ca) | 558 | 558 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ca@valencia.po/mnt/stockage/packages/f15/meego-panel-devices/po/ca.po | 
+ | [cs](/f15/language/cs) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/cs.po | 
+ | [de](/f15/language/de) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/en_GB.po | 
+ | [es](/f15/language/es) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/es.po | 
+ | [fa](/f15/language/fa) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/fa.po | 
+ | [fi](/f15/language/fi) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/fi.po | 
+ | [fr](/f15/language/fr) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/fr.po | 
+ | [gl](/f15/language/gl) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/gl.po | 
+ | [id](/f15/language/id) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/id.po | 
+ | [it](/f15/language/it) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/it.po | 
+ | [ja](/f15/language/ja) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ja.po | 
+ | [ko](/f15/language/ko) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ko.po | 
+ | [nl](/f15/language/nl) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/nl.po | 
+ | [pa](/f15/language/pa) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/pa.po | 
+ | [pl](/f15/language/pl) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/ru.po | 
+ | [sv](/f15/language/sv) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/sv.po | 
+ | [wa](/f15/language/wa) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/wa.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 279 | 279 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 297 | 297 | 100.0 | /mnt/stockage/packages/f15/meego-panel-devices/po/zh_TW.po | 
+ | [sk](/f15/language/sk) | 146 | 271 | 53.9 | /mnt/stockage/packages/f15/meego-panel-devices/po/sk.po | 
+ | [da](/f15/language/da) | 137 | 271 | 50.6 | /mnt/stockage/packages/f15/meego-panel-devices/po/da.po | 
+ | [tr](/f15/language/tr) | 103 | 279 | 36.9 | /mnt/stockage/packages/f15/meego-panel-devices/po/tr.po | 
+ | [hu](/f15/language/hu) | 94 | 279 | 33.7 | /mnt/stockage/packages/f15/meego-panel-devices/po/hu.po | 
 {.sortable}
 
 

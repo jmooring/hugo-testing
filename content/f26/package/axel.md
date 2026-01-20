@@ -18,14 +18,14 @@ The package axel (version 2.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f26/language/id.md" >}}) | 302 | 541 | 55.8 | /mnt/stockage/packages/f26/axel/po/id_ID.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 282 | 541 | 52.1 | /mnt/stockage/packages/f26/axel/po/it.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 282 | 541 | 52.1 | /mnt/stockage/packages/f26/axel/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 274 | 541 | 50.6 | /mnt/stockage/packages/f26/axel/po/zh_CN.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 208 | 541 | 38.4 | /mnt/stockage/packages/f26/axel/po/ja.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 189 | 541 | 34.9 | /mnt/stockage/packages/f26/axel/po/de.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 183 | 541 | 33.8 | /mnt/stockage/packages/f26/axel/po/ru.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 173 | 541 | 32.0 | /mnt/stockage/packages/f26/axel/po/nl.po | 
+ | [id](/f26/language/id) | 302 | 541 | 55.8 | /mnt/stockage/packages/f26/axel/po/id_ID.po | 
+ | [it](/f26/language/it) | 282 | 541 | 52.1 | /mnt/stockage/packages/f26/axel/po/it.po | 
+ | [pt_BR](/f26/language/pt_BR) | 282 | 541 | 52.1 | /mnt/stockage/packages/f26/axel/po/pt_BR.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 274 | 541 | 50.6 | /mnt/stockage/packages/f26/axel/po/zh_CN.po | 
+ | [ja](/f26/language/ja) | 208 | 541 | 38.4 | /mnt/stockage/packages/f26/axel/po/ja.po | 
+ | [de](/f26/language/de) | 189 | 541 | 34.9 | /mnt/stockage/packages/f26/axel/po/de.po | 
+ | [ru](/f26/language/ru) | 183 | 541 | 33.8 | /mnt/stockage/packages/f26/axel/po/ru.po | 
+ | [nl](/f26/language/nl) | 173 | 541 | 32.0 | /mnt/stockage/packages/f26/axel/po/nl.po | 
 {.sortable}
 
 

@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-backgrounds]({{< ref "/f8/package/gnome-backgrounds.md" >}}) | 16 | 18 | 88.9 | Hindi <hindi.sf.net> | 
- | [pirut]({{< ref "/f8/package/pirut.md" >}}) | 572 | 815 | 70.2 | Hindi <hindi.sf.net> | 
+ | [gnome-backgrounds](/f8/package/gnome-backgrounds) | 16 | 18 | 88.9 | Hindi <hindi.sf.net> | 
+ | [pirut](/f8/package/pirut) | 572 | 815 | 70.2 | Hindi <hindi.sf.net> | 
 {.sortable}
 
 

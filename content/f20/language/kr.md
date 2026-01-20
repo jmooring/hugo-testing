@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f20/package/gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [mingw-gettext]({{< ref "/f20/package/mingw-gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [gettext](/f20/package/gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [mingw-gettext](/f20/package/mingw-gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

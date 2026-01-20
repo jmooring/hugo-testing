@@ -18,15 +18,15 @@ The package cryptsetup-luks (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/cs.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/pl.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 1124 | 1348 | 83.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/fr.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 851 | 1348 | 63.1 | /mnt/stockage/packages/f15/cryptsetup-luks/po/vi.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 827 | 1348 | 61.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/de.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 827 | 1348 | 61.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/id.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 827 | 1348 | 61.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/sv.po | 
+ | [cs](/f15/language/cs) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/cs.po | 
+ | [it](/f15/language/it) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/it.po | 
+ | [nl](/f15/language/nl) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/nl.po | 
+ | [pl](/f15/language/pl) | 1324 | 1348 | 98.2 | /mnt/stockage/packages/f15/cryptsetup-luks/po/pl.po | 
+ | [fr](/f15/language/fr) | 1124 | 1348 | 83.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/fr.po | 
+ | [vi](/f15/language/vi) | 851 | 1348 | 63.1 | /mnt/stockage/packages/f15/cryptsetup-luks/po/vi.po | 
+ | [de](/f15/language/de) | 827 | 1348 | 61.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/de.po | 
+ | [id](/f15/language/id) | 827 | 1348 | 61.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/id.po | 
+ | [sv](/f15/language/sv) | 827 | 1348 | 61.4 | /mnt/stockage/packages/f15/cryptsetup-luks/po/sv.po | 
 {.sortable}
 
 

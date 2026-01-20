@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [intltool]({{< ref "/f41/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [budgie-desktop]({{< ref "/f41/package/budgie-desktop.md" >}}) | 1638 | 1859 | 88.1 | French (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/fr_BE/) | 
- | [mame]({{< ref "/f41/package/mame.md" >}}) | 824 | 3685 | 22.4 | MAME Language Team | 
+ | [intltool](/f41/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [budgie-desktop](/f41/package/budgie-desktop) | 1638 | 1859 | 88.1 | French (Belgium) (https://app.transifex.com/buddiesofbudgie/teams/129844/fr_BE/) | 
+ | [mame](/f41/package/mame) | 824 | 3685 | 22.4 | MAME Language Team | 
 {.sortable}
 
 

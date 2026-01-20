@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f13/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f13/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [rabbitvcs]({{< ref "/f13/package/rabbitvcs.md" >}}) | 859 | 931 | 92.3 | Spanish | 
- | [python-kiwi]({{< ref "/f13/package/python-kiwi.md" >}}) | 209 | 228 | 91.7 | Español/Chile <es@li.org> | 
- | [liblicense]({{< ref "/f13/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f13/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f13/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [rabbitvcs](/f13/package/rabbitvcs) | 859 | 931 | 92.3 | Spanish | 
+ | [python-kiwi](/f13/package/python-kiwi) | 209 | 228 | 91.7 | Español/Chile <es@li.org> | 
+ | [liblicense](/f13/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

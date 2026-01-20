@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f23/package/mintmenu.md" >}}) | 4 | 50 | 8.0 | Klingon <tlh@li.org> | 
- | [tuxpaint]({{< ref "/f23/package/tuxpaint.md" >}}) | 34 | 1591 | 2.1 | Bill Kendrick <nbs@sonic.net> | 
- | [cinnamon-translations]({{< ref "/f23/package/cinnamon-translations.md" >}}) | 14 | 11714 | 0.1 | Klingon <tlh@li.org> | 
- | [deluge]({{< ref "/f23/package/deluge.md" >}}) | 3 | 2644 | 0.1 | Klingon; tlhIngan-Hol <tlh@li.org> | 
- | [openerp7]({{< ref "/f23/package/openerp7.md" >}}) | 2 | 44414 | 0.0 | Klingon <tlh@li.org> | 
- | [openerp]({{< ref "/f23/package/openerp.md" >}}) | 2 | 45885 | 0.0 |  | 
+ | [mintmenu](/f23/package/mintmenu) | 4 | 50 | 8.0 | Klingon <tlh@li.org> | 
+ | [tuxpaint](/f23/package/tuxpaint) | 34 | 1591 | 2.1 | Bill Kendrick <nbs@sonic.net> | 
+ | [cinnamon-translations](/f23/package/cinnamon-translations) | 14 | 11714 | 0.1 | Klingon <tlh@li.org> | 
+ | [deluge](/f23/package/deluge) | 3 | 2644 | 0.1 | Klingon; tlhIngan-Hol <tlh@li.org> | 
+ | [openerp7](/f23/package/openerp7) | 2 | 44414 | 0.0 | Klingon <tlh@li.org> | 
+ | [openerp](/f23/package/openerp) | 2 | 45885 | 0.0 |  | 
 {.sortable}
 
 

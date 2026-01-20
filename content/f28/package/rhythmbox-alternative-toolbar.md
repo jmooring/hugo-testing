@@ -18,34 +18,34 @@ The package rhythmbox-alternative-toolbar (version 0.17.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ca.po | 
- | [en_AU]({{< ref "/f28/language/en_AU.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/en_AU.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/en_GB.po | 
- | [en_US]({{< ref "/f28/language/en_US.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/en_US.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/es.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/it.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/zh_CN.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/fr.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/id.po | 
- | [ms]({{< ref "/f28/language/ms.md" >}}) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ms.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/pt.po | 
- | [bg]({{< ref "/f28/language/bg.md" >}}) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/bg.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ko.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ru.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/sl.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/uk.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/zh_TW.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 246 | 310 | 79.4 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/el.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 189 | 306 | 61.8 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/tr.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 156 | 310 | 50.3 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/fi.po | 
- | [th]({{< ref "/f28/language/th.md" >}}) | 133 | 310 | 42.9 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/th.po | 
- | [af]({{< ref "/f28/language/af.md" >}}) | 96 | 310 | 31.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/af.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 91 | 310 | 29.4 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ja.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 33 | 310 | 10.6 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/sv.po | 
- | [eo]({{< ref "/f28/language/eo.md" >}}) | 21 | 310 | 6.8 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/eo.po | 
+ | [ca](/f28/language/ca) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ca.po | 
+ | [en_AU](/f28/language/en_AU) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/en_AU.po | 
+ | [en_GB](/f28/language/en_GB) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/en_GB.po | 
+ | [en_US](/f28/language/en_US) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/en_US.po | 
+ | [es](/f28/language/es) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/es.po | 
+ | [it](/f28/language/it) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/it.po | 
+ | [pl](/f28/language/pl) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/pt_BR.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 310 | 310 | 100.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/zh_CN.po | 
+ | [de](/f28/language/de) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/de.po | 
+ | [fr](/f28/language/fr) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/fr.po | 
+ | [id](/f28/language/id) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/id.po | 
+ | [ms](/f28/language/ms) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ms.po | 
+ | [pt](/f28/language/pt) | 306 | 310 | 98.7 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/pt.po | 
+ | [bg](/f28/language/bg) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/bg.po | 
+ | [ko](/f28/language/ko) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ko.po | 
+ | [ru](/f28/language/ru) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ru.po | 
+ | [sl](/f28/language/sl) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/sl.po | 
+ | [uk](/f28/language/uk) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/uk.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 304 | 310 | 98.1 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/zh_TW.po | 
+ | [el](/f28/language/el) | 246 | 310 | 79.4 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/el.po | 
+ | [tr](/f28/language/tr) | 189 | 306 | 61.8 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/tr.po | 
+ | [fi](/f28/language/fi) | 156 | 310 | 50.3 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/fi.po | 
+ | [th](/f28/language/th) | 133 | 310 | 42.9 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/th.po | 
+ | [af](/f28/language/af) | 96 | 310 | 31.0 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/af.po | 
+ | [ja](/f28/language/ja) | 91 | 310 | 29.4 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/ja.po | 
+ | [sv](/f28/language/sv) | 33 | 310 | 10.6 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/sv.po | 
+ | [eo](/f28/language/eo) | 21 | 310 | 6.8 | /mnt/stockage/packages/f28/rhythmbox-alternative-toolbar/po/eo.po | 
 {.sortable}
 
 

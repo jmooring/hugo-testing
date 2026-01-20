@@ -18,37 +18,37 @@ The package labwc (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ar.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ca.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/el.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/gl.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ja.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ka.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/lt.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ms.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ru.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/zh_CN.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/cs.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/fi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/hu.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/pa.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 0 | 23 | 0.0 | /mnt/stockage/packages/f41/labwc/po/fa.po | 
+ | [ar](/f41/language/ar) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ar.po | 
+ | [ca](/f41/language/ca) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ca.po | 
+ | [da](/f41/language/da) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/da.po | 
+ | [de](/f41/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/de.po | 
+ | [el](/f41/language/el) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/el.po | 
+ | [es](/f41/language/es) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/es.po | 
+ | [et](/f41/language/et) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/et.po | 
+ | [eu](/f41/language/eu) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/eu.po | 
+ | [fr](/f41/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/fr.po | 
+ | [gl](/f41/language/gl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/gl.po | 
+ | [id](/f41/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/id.po | 
+ | [it](/f41/language/it) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/it.po | 
+ | [ja](/f41/language/ja) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ja.po | 
+ | [ka](/f41/language/ka) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ka.po | 
+ | [ko](/f41/language/ko) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ko.po | 
+ | [lt](/f41/language/lt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/lt.po | 
+ | [ms](/f41/language/ms) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ms.po | 
+ | [nl](/f41/language/nl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/nl.po | 
+ | [pl](/f41/language/pl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/pl.po | 
+ | [pt](/f41/language/pt) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/ru.po | 
+ | [sv](/f41/language/sv) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/sv.po | 
+ | [tr](/f41/language/tr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/tr.po | 
+ | [uk](/f41/language/uk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 23 | 23 | 100.0 | /mnt/stockage/packages/f41/labwc/po/zh_CN.po | 
+ | [cs](/f41/language/cs) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/cs.po | 
+ | [fi](/f41/language/fi) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/fi.po | 
+ | [hu](/f41/language/hu) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/hu.po | 
+ | [pa](/f41/language/pa) | 21 | 23 | 91.3 | /mnt/stockage/packages/f41/labwc/po/pa.po | 
+ | [fa](/f41/language/fa) | 0 | 23 | 0.0 | /mnt/stockage/packages/f41/labwc/po/fa.po | 
 {.sortable}
 
 

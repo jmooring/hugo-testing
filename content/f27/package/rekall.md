@@ -18,8 +18,8 @@ The package rekall (version 2.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 3711 | 3777 | 98.3 | /mnt/stockage/packages/f27/rekall/po/de.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 3097 | 3793 | 81.7 | /mnt/stockage/packages/f27/rekall/po/it.po | 
+ | [de](/f27/language/de) | 3711 | 3777 | 98.3 | /mnt/stockage/packages/f27/rekall/po/de.po | 
+ | [it](/f27/language/it) | 3097 | 3793 | 81.7 | /mnt/stockage/packages/f27/rekall/po/it.po | 
 {.sortable}
 
 

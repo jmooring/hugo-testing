@@ -18,72 +18,72 @@ The package gnome-keyring-manager (version 2.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ar.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/be.po | 
- | [be_Latn]({{< ref "/f10/language/be_Latn.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/be@latin.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/ca/ca.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/cy.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/en_GB/en_GB.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/en_GB.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sr@Latn.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/es/es.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/es.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/et.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/eu.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 415 | 415 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/fa.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/fr/fr.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/gu.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/hi.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/id.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ja.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mk.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mn.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/nn.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 405 | 405 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/sv/sv.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ta.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/uk/uk.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/vi/vi.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/zh_HK.po | 
- | [mg]({{< ref "/f10/language/mg.md" >}}) | 364 | 365 | 99.7 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mg.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 233 | 284 | 82.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/si.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 266 | 365 | 72.9 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ml.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 506 | 742 | 68.2 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/da/da.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/da.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 144 | 284 | 50.7 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/te.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 179 | 405 | 44.2 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ka.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 85 | 742 | 11.5 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/oc/oc.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/oc.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 18 | 413 | 4.4 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/rw.po | 
+ | [ar](/f10/language/ar) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ar.po | 
+ | [be](/f10/language/be) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/be.po | 
+ | [be_Latn](/f10/language/be_Latn) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/be@latin.po | 
+ | [bg](/f10/language/bg) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/bg.po | 
+ | [bn](/f10/language/bn) | 405 | 405 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/ca/ca.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/ca.po | 
+ | [cs](/f10/language/cs) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/cs.po | 
+ | [cy](/f10/language/cy) | 405 | 405 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/cy.po | 
+ | [de](/f10/language/de) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/de.po | 
+ | [dz](/f10/language/dz) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/dz.po | 
+ | [el](/f10/language/el) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/en_GB/en_GB.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/en_GB.po | 
+ | [error](/f10/language/error) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sr@Latn.po | 
+ | [es](/f10/language/es) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/es/es.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/es.po | 
+ | [et](/f10/language/et) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/et.po | 
+ | [eu](/f10/language/eu) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/eu.po | 
+ | [fa](/f10/language/fa) | 415 | 415 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/fa.po | 
+ | [fi](/f10/language/fi) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/fi.po | 
+ | [fr](/f10/language/fr) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/fr/fr.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/fr.po | 
+ | [gl](/f10/language/gl) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/gl.po | 
+ | [gu](/f10/language/gu) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/gu.po | 
+ | [hi](/f10/language/hi) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/hi.po | 
+ | [hu](/f10/language/hu) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/hu.po | 
+ | [id](/f10/language/id) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/id.po | 
+ | [it](/f10/language/it) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/it.po | 
+ | [ja](/f10/language/ja) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ja.po | 
+ | [ko](/f10/language/ko) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ko.po | 
+ | [lt](/f10/language/lt) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/lt.po | 
+ | [lv](/f10/language/lv) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/lv.po | 
+ | [mk](/f10/language/mk) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mk.po | 
+ | [mn](/f10/language/mn) | 363 | 363 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mn.po | 
+ | [mr](/f10/language/mr) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/nb.po | 
+ | [ne](/f10/language/ne) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ne.po | 
+ | [nl](/f10/language/nl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/nl.po | 
+ | [nn](/f10/language/nn) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/nn.po | 
+ | [or](/f10/language/or) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/or.po | 
+ | [pa](/f10/language/pa) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pa.po | 
+ | [pl](/f10/language/pl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pl.po | 
+ | [pt](/f10/language/pt) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 405 | 405 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ro.po | 
+ | [ru](/f10/language/ru) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ru.po | 
+ | [sk](/f10/language/sk) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sk.po | 
+ | [sl](/f10/language/sl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sl.po | 
+ | [sq](/f10/language/sq) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sq.po | 
+ | [sr](/f10/language/sr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/sr.po | 
+ | [sv](/f10/language/sv) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/sv/sv.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/sv.po | 
+ | [ta](/f10/language/ta) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ta.po | 
+ | [th](/f10/language/th) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/th.po | 
+ | [tr](/f10/language/tr) | 365 | 365 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/tr.po | 
+ | [uk](/f10/language/uk) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/uk/uk.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/uk.po | 
+ | [vi](/f10/language/vi) | 742 | 742 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/vi/vi.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 284 | 284 | 100.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/zh_HK.po | 
+ | [mg](/f10/language/mg) | 364 | 365 | 99.7 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/mg.po | 
+ | [si](/f10/language/si) | 233 | 284 | 82.0 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/si.po | 
+ | [ml](/f10/language/ml) | 266 | 365 | 72.9 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ml.po | 
+ | [da](/f10/language/da) | 506 | 742 | 68.2 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/da/da.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/da.po | 
+ | [te](/f10/language/te) | 144 | 284 | 50.7 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/te.po | 
+ | [ka](/f10/language/ka) | 179 | 405 | 44.2 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/ka.po | 
+ | [oc](/f10/language/oc) | 85 | 742 | 11.5 | /mnt/stockage/packages/f10/gnome-keyring-manager/docs/oc/oc.po/mnt/stockage/packages/f10/gnome-keyring-manager/po/oc.po | 
+ | [rw](/f10/language/rw) | 18 | 413 | 4.4 | /mnt/stockage/packages/f10/gnome-keyring-manager/po/rw.po | 
 {.sortable}
 
 

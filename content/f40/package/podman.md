@@ -18,7 +18,7 @@ The package podman (version 5.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 303 | 70894 | 0.4 | /mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Commands.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/includes.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/index.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Introduction.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/markdown.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Reference.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Search.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Tutorials.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/volume.po | 
+ | [ja](/f40/language/ja) | 303 | 70894 | 0.4 | /mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Commands.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/includes.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/index.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Introduction.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/markdown.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Reference.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Search.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/Tutorials.po/mnt/stockage/packages/f40/podman/docs/source/locale/ja/LC_MESSAGES/volume.po | 
 {.sortable}
 
 

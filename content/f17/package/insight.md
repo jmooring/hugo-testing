@@ -18,24 +18,24 @@ The package insight (version 7.4.50):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 9601 | 9601 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/es.po/mnt/stockage/packages/f17/insight/opcodes/po/es.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 9601 | 9601 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/fi.po/mnt/stockage/packages/f17/insight/opcodes/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 9601 | 9601 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/fr.po/mnt/stockage/packages/f17/insight/opcodes/po/fr.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/ga.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/id.po/mnt/stockage/packages/f17/insight/opcodes/po/id.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/it.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/ro.po/mnt/stockage/packages/f17/insight/opcodes/po/ro.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 8230 | 8230 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/ru.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/sv.po/mnt/stockage/packages/f17/insight/opcodes/po/sv.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/tr.po/mnt/stockage/packages/f17/insight/opcodes/po/tr.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/vi.po/mnt/stockage/packages/f17/insight/opcodes/po/vi.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f17/insight/bfd/po/da.po/mnt/stockage/packages/f17/insight/opcodes/po/da.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f17/insight/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f17/insight/bfd/po/zh_CN.po/mnt/stockage/packages/f17/insight/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f17/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f17/insight/bfd/po/rw.po | 
+ | [de](/f17/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/de.po | 
+ | [es](/f17/language/es) | 9601 | 9601 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/es.po/mnt/stockage/packages/f17/insight/opcodes/po/es.po | 
+ | [fi](/f17/language/fi) | 9601 | 9601 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/fi.po/mnt/stockage/packages/f17/insight/opcodes/po/fi.po | 
+ | [fr](/f17/language/fr) | 9601 | 9601 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/fr.po/mnt/stockage/packages/f17/insight/opcodes/po/fr.po | 
+ | [ga](/f17/language/ga) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/ga.po | 
+ | [id](/f17/language/id) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/id.po/mnt/stockage/packages/f17/insight/opcodes/po/id.po | 
+ | [it](/f17/language/it) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/it.po | 
+ | [nl](/f17/language/nl) | 1371 | 1371 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/nl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f17/insight/opcodes/po/pt_BR.po | 
+ | [ro](/f17/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/ro.po/mnt/stockage/packages/f17/insight/opcodes/po/ro.po | 
+ | [ru](/f17/language/ru) | 8230 | 8230 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/ru.po | 
+ | [sv](/f17/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/sv.po/mnt/stockage/packages/f17/insight/opcodes/po/sv.po | 
+ | [tr](/f17/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/tr.po/mnt/stockage/packages/f17/insight/opcodes/po/tr.po | 
+ | [vi](/f17/language/vi) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f17/insight/bfd/po/vi.po/mnt/stockage/packages/f17/insight/opcodes/po/vi.po | 
+ | [da](/f17/language/da) | 8808 | 9211 | 95.6 | /mnt/stockage/packages/f17/insight/bfd/po/da.po/mnt/stockage/packages/f17/insight/opcodes/po/da.po | 
+ | [ja](/f17/language/ja) | 6811 | 8230 | 82.8 | /mnt/stockage/packages/f17/insight/bfd/po/ja.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f17/insight/bfd/po/zh_CN.po/mnt/stockage/packages/f17/insight/opcodes/po/zh_CN.po | 
+ | [rw](/f17/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f17/insight/bfd/po/rw.po | 
 {.sortable}
 
 

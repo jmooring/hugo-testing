@@ -18,26 +18,26 @@ The package thunderbird (version 102.15.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/de.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/ja.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/pl.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/zh_TW.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1594 | 1627 | 98.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/uk.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 1416 | 1627 | 87.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/ru.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 1185 | 1627 | 72.8 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/es.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/cs.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/fr.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 969 | 1627 | 59.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/da.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/it.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/pt.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 918 | 1627 | 56.4 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/nl.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 788 | 1627 | 48.4 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/sv.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/eo.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/hu.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/sr.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/vi.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 615 | 1627 | 37.8 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/ro.po | 
+ | [de](/f37/language/de) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/de.po | 
+ | [ja](/f37/language/ja) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/ja.po | 
+ | [pl](/f37/language/pl) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/pl.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 1627 | 1627 | 100.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/zh_TW.po | 
+ | [uk](/f37/language/uk) | 1594 | 1627 | 98.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/uk.po | 
+ | [ru](/f37/language/ru) | 1416 | 1627 | 87.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/ru.po | 
+ | [es](/f37/language/es) | 1185 | 1627 | 72.8 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/es.po | 
+ | [cs](/f37/language/cs) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/cs.po | 
+ | [fr](/f37/language/fr) | 976 | 1627 | 60.0 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/fr.po | 
+ | [da](/f37/language/da) | 969 | 1627 | 59.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/da.po | 
+ | [it](/f37/language/it) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/it.po | 
+ | [pt](/f37/language/pt) | 923 | 1627 | 56.7 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/pt.po | 
+ | [nl](/f37/language/nl) | 918 | 1627 | 56.4 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/nl.po | 
+ | [sv](/f37/language/sv) | 788 | 1627 | 48.4 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/sv.po | 
+ | [eo](/f37/language/eo) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/eo.po | 
+ | [hu](/f37/language/hu) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/hu.po | 
+ | [sr](/f37/language/sr) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/sr.po | 
+ | [vi](/f37/language/vi) | 742 | 1627 | 45.6 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/vi.po | 
+ | [ro](/f37/language/ro) | 615 | 1627 | 37.8 | /mnt/stockage/packages/f37/thunderbird/thunderbird-102.15.1/comm/third_party/libgpg-error/po/ro.po | 
 {.sortable}
 
 

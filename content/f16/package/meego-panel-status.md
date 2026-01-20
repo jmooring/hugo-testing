@@ -18,41 +18,41 @@ The package meego-panel-status (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ar.po | 
- | [ast]({{< ref "/f16/language/ast.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ast.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ca@valencia.po/mnt/stockage/packages/f16/meego-panel-status/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/de.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/es.po | 
- | [fa]({{< ref "/f16/language/fa.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/fa.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/it.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ja.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ko.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/nl.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pa.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pt_BR.po | 
- | [ro]({{< ref "/f16/language/ro.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ro.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/sk.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/sv.po | 
- | [th]({{< ref "/f16/language/th.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/th.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/tr.po | 
- | [wa]({{< ref "/f16/language/wa.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/wa.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/zh_TW.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 96 | 119 | 80.7 | /mnt/stockage/packages/f16/meego-panel-status/po/uk.po | 
- | [lo]({{< ref "/f16/language/lo.md" >}}) | 24 | 154 | 15.6 | /mnt/stockage/packages/f16/meego-panel-status/po/lo.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f16/meego-panel-status/po/oc.po | 
- | [or]({{< ref "/f16/language/or.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f16/meego-panel-status/po/or.po | 
+ | [ar](/f16/language/ar) | 154 | 154 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ar.po | 
+ | [ast](/f16/language/ast) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ast.po | 
+ | [ca](/f16/language/ca) | 308 | 308 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ca@valencia.po/mnt/stockage/packages/f16/meego-panel-status/po/ca.po | 
+ | [cs](/f16/language/cs) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/cs.po | 
+ | [da](/f16/language/da) | 128 | 128 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/da.po | 
+ | [de](/f16/language/de) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/de.po | 
+ | [en_GB](/f16/language/en_GB) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/en_GB.po | 
+ | [es](/f16/language/es) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/es.po | 
+ | [fa](/f16/language/fa) | 154 | 154 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/fa.po | 
+ | [fi](/f16/language/fi) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/fi.po | 
+ | [fr](/f16/language/fr) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/fr.po | 
+ | [gl](/f16/language/gl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/gl.po | 
+ | [hu](/f16/language/hu) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/hu.po | 
+ | [id](/f16/language/id) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/id.po | 
+ | [it](/f16/language/it) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/it.po | 
+ | [ja](/f16/language/ja) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ja.po | 
+ | [ko](/f16/language/ko) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ko.po | 
+ | [nl](/f16/language/nl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/nl.po | 
+ | [pa](/f16/language/pa) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pa.po | 
+ | [pl](/f16/language/pl) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pl.po | 
+ | [pt](/f16/language/pt) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/pt_BR.po | 
+ | [ro](/f16/language/ro) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ro.po | 
+ | [ru](/f16/language/ru) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/ru.po | 
+ | [sk](/f16/language/sk) | 154 | 154 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/sk.po | 
+ | [sv](/f16/language/sv) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/sv.po | 
+ | [th](/f16/language/th) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/th.po | 
+ | [tr](/f16/language/tr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/tr.po | 
+ | [wa](/f16/language/wa) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/wa.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 119 | 119 | 100.0 | /mnt/stockage/packages/f16/meego-panel-status/po/zh_TW.po | 
+ | [uk](/f16/language/uk) | 96 | 119 | 80.7 | /mnt/stockage/packages/f16/meego-panel-status/po/uk.po | 
+ | [lo](/f16/language/lo) | 24 | 154 | 15.6 | /mnt/stockage/packages/f16/meego-panel-status/po/lo.po | 
+ | [oc](/f16/language/oc) | 0 | 76 | 0.0 | /mnt/stockage/packages/f16/meego-panel-status/po/oc.po | 
+ | [or](/f16/language/or) | 0 | 76 | 0.0 | /mnt/stockage/packages/f16/meego-panel-status/po/or.po | 
 {.sortable}
 
 

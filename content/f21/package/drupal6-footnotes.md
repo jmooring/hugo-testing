@@ -18,8 +18,8 @@ The package drupal6-footnotes (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f21/drupal6-footnotes/translations/fr.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 144 | 144 | 100.0 | /mnt/stockage/packages/f21/drupal6-footnotes/translations/ja.po | 
+ | [fr](/f21/language/fr) | 144 | 144 | 100.0 | /mnt/stockage/packages/f21/drupal6-footnotes/translations/fr.po | 
+ | [ja](/f21/language/ja) | 144 | 144 | 100.0 | /mnt/stockage/packages/f21/drupal6-footnotes/translations/ja.po | 
 {.sortable}
 
 

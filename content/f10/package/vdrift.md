@@ -18,7 +18,7 @@ The package vdrift (version 20090215):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 87 | 1220 | 7.1 | /mnt/stockage/packages/f10/vdrift/po/nl.po | 
+ | [nl](/f10/language/nl) | 87 | 1220 | 7.1 | /mnt/stockage/packages/f10/vdrift/po/nl.po | 
 {.sortable}
 
 

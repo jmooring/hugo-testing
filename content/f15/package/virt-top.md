@@ -18,22 +18,22 @@ The package virt-top (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f15/language/es.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/es.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/ja.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/or.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/ru.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/te.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/zh_CN.po | 
- | [as]({{< ref "/f15/language/as.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/as.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/gu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/it.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/kn.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/ml.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/pt_BR.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 340 | 361 | 94.2 | /mnt/stockage/packages/f15/virt-top/po/mr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 165 | 361 | 45.7 | /mnt/stockage/packages/f15/virt-top/po/de.po | 
+ | [es](/f15/language/es) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/es.po | 
+ | [ja](/f15/language/ja) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/ja.po | 
+ | [or](/f15/language/or) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/or.po | 
+ | [pl](/f15/language/pl) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/pl.po | 
+ | [pt](/f15/language/pt) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/pt.po | 
+ | [ru](/f15/language/ru) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/ru.po | 
+ | [te](/f15/language/te) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/te.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 361 | 361 | 100.0 | /mnt/stockage/packages/f15/virt-top/po/zh_CN.po | 
+ | [as](/f15/language/as) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/as.po | 
+ | [gu](/f15/language/gu) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/gu.po | 
+ | [it](/f15/language/it) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/it.po | 
+ | [kn](/f15/language/kn) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/kn.po | 
+ | [ml](/f15/language/ml) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/ml.po | 
+ | [pt_BR](/f15/language/pt_BR) | 344 | 361 | 95.3 | /mnt/stockage/packages/f15/virt-top/po/pt_BR.po | 
+ | [mr](/f15/language/mr) | 340 | 361 | 94.2 | /mnt/stockage/packages/f15/virt-top/po/mr.po | 
+ | [de](/f15/language/de) | 165 | 361 | 45.7 | /mnt/stockage/packages/f15/virt-top/po/de.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package mercurial (version 6.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 56158 | 56239 | 99.9 | /mnt/stockage/packages/f39/mercurial/i18n/ru.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 80869 | 86486 | 93.5 | /mnt/stockage/packages/f39/mercurial/i18n/pt_BR.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 65979 | 86419 | 76.3 | /mnt/stockage/packages/f39/mercurial/i18n/ja.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 31474 | 55129 | 57.1 | /mnt/stockage/packages/f39/mercurial/i18n/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 11787 | 34121 | 34.5 | /mnt/stockage/packages/f39/mercurial/i18n/it.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 16909 | 50901 | 33.2 | /mnt/stockage/packages/f39/mercurial/i18n/sv.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 13768 | 45939 | 30.0 | /mnt/stockage/packages/f39/mercurial/i18n/da.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 5321 | 41819 | 12.7 | /mnt/stockage/packages/f39/mercurial/i18n/ro.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 2390 | 23320 | 10.2 | /mnt/stockage/packages/f39/mercurial/i18n/fr.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 3096 | 33428 | 9.3 | /mnt/stockage/packages/f39/mercurial/i18n/zh_TW.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 1894 | 23859 | 7.9 | /mnt/stockage/packages/f39/mercurial/i18n/el.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 1591 | 23680 | 6.7 | /mnt/stockage/packages/f39/mercurial/i18n/zh_CN.po | 
+ | [ru](/f39/language/ru) | 56158 | 56239 | 99.9 | /mnt/stockage/packages/f39/mercurial/i18n/ru.po | 
+ | [pt_BR](/f39/language/pt_BR) | 80869 | 86486 | 93.5 | /mnt/stockage/packages/f39/mercurial/i18n/pt_BR.po | 
+ | [ja](/f39/language/ja) | 65979 | 86419 | 76.3 | /mnt/stockage/packages/f39/mercurial/i18n/ja.po | 
+ | [de](/f39/language/de) | 31474 | 55129 | 57.1 | /mnt/stockage/packages/f39/mercurial/i18n/de.po | 
+ | [it](/f39/language/it) | 11787 | 34121 | 34.5 | /mnt/stockage/packages/f39/mercurial/i18n/it.po | 
+ | [sv](/f39/language/sv) | 16909 | 50901 | 33.2 | /mnt/stockage/packages/f39/mercurial/i18n/sv.po | 
+ | [da](/f39/language/da) | 13768 | 45939 | 30.0 | /mnt/stockage/packages/f39/mercurial/i18n/da.po | 
+ | [ro](/f39/language/ro) | 5321 | 41819 | 12.7 | /mnt/stockage/packages/f39/mercurial/i18n/ro.po | 
+ | [fr](/f39/language/fr) | 2390 | 23320 | 10.2 | /mnt/stockage/packages/f39/mercurial/i18n/fr.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 3096 | 33428 | 9.3 | /mnt/stockage/packages/f39/mercurial/i18n/zh_TW.po | 
+ | [el](/f39/language/el) | 1894 | 23859 | 7.9 | /mnt/stockage/packages/f39/mercurial/i18n/el.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 1591 | 23680 | 6.7 | /mnt/stockage/packages/f39/mercurial/i18n/zh_CN.po | 
 {.sortable}
 
 

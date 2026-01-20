@@ -18,86 +18,86 @@ The package gconf-editor (version 2.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ar.po | 
- | [as]({{< ref "/f9/language/as.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/as.po | 
- | [az]({{< ref "/f9/language/az.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/az.po | 
- | [be]({{< ref "/f9/language/be.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/be.po | 
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/be@latin.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bg.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bn.po | 
- | [bn_IN]({{< ref "/f9/language/bn_IN.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bn_IN.po | 
- | [bs]({{< ref "/f9/language/bs.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bs.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/cs.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/cy.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/da.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/dz.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/el.po | 
- | [en_CA]({{< ref "/f9/language/en_CA.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/en_CA.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/en_GB.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sr@Latn.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/es/es.po/mnt/stockage/packages/f9/gconf-editor/po/es.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/eu.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/fa.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/fr/fr.po/mnt/stockage/packages/f9/gconf-editor/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/gl.po | 
- | [gu]({{< ref "/f9/language/gu.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/gu.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/he.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/hi.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/hu.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/id.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/it/it.po/mnt/stockage/packages/f9/gconf-editor/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ja.po | 
- | [ka]({{< ref "/f9/language/ka.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ka.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ko.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/lt.po | 
- | [lv]({{< ref "/f9/language/lv.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/lv.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/mk.po | 
- | [mn]({{< ref "/f9/language/mn.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/mn.po | 
- | [mr]({{< ref "/f9/language/mr.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/mr.po | 
- | [ms]({{< ref "/f9/language/ms.md" >}}) | 320 | 320 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ms.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/nb.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/nl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/nn.po | 
- | [or]({{< ref "/f9/language/or.md" >}}) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/or.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ru.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/sv/sv.po/mnt/stockage/packages/f9/gconf-editor/po/sv.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ta.po | 
- | [te]({{< ref "/f9/language/te.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/te.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/th.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 2835 | 2835 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/uk/uk.po/mnt/stockage/packages/f9/gconf-editor/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/vi.po | 
- | [xh]({{< ref "/f9/language/xh.md" >}}) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/xh.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f9/language/zh_Hant_HK.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/zh_HK.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 334 | 335 | 99.7 | /mnt/stockage/packages/f9/gconf-editor/po/sk.po | 
- | [mg]({{< ref "/f9/language/mg.md" >}}) | 328 | 329 | 99.7 | /mnt/stockage/packages/f9/gconf-editor/po/mg.po | 
- | [ug]({{< ref "/f9/language/ug.md" >}}) | 327 | 334 | 97.9 | /mnt/stockage/packages/f9/gconf-editor/po/ug.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 2745 | 2835 | 96.8 | /mnt/stockage/packages/f9/gconf-editor/docs/de/de.po/mnt/stockage/packages/f9/gconf-editor/po/de.po | 
- | [br]({{< ref "/f9/language/br.md" >}}) | 239 | 332 | 72.0 | /mnt/stockage/packages/f9/gconf-editor/po/br.po | 
- | [ml]({{< ref "/f9/language/ml.md" >}}) | 232 | 329 | 70.5 | /mnt/stockage/packages/f9/gconf-editor/po/ml.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 143 | 335 | 42.7 | /mnt/stockage/packages/f9/gconf-editor/po/ga.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 121 | 320 | 37.8 | /mnt/stockage/packages/f9/gconf-editor/po/hr.po | 
- | [li]({{< ref "/f9/language/li.md" >}}) | 101 | 320 | 31.6 | /mnt/stockage/packages/f9/gconf-editor/po/li.po | 
- | [am]({{< ref "/f9/language/am.md" >}}) | 45 | 320 | 14.1 | /mnt/stockage/packages/f9/gconf-editor/po/am.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 35 | 334 | 10.5 | /mnt/stockage/packages/f9/gconf-editor/po/ku.po | 
- | [si]({{< ref "/f9/language/si.md" >}}) | 34 | 329 | 10.3 | /mnt/stockage/packages/f9/gconf-editor/po/si.po | 
- | [oc]({{< ref "/f9/language/oc.md" >}}) | 214 | 2837 | 7.5 | /mnt/stockage/packages/f9/gconf-editor/docs/oc/oc.po/mnt/stockage/packages/f9/gconf-editor/po/oc.po | 
- | [rw]({{< ref "/f9/language/rw.md" >}}) | 12 | 334 | 3.6 | /mnt/stockage/packages/f9/gconf-editor/po/rw.po | 
- | [kn]({{< ref "/f9/language/kn.md" >}}) | 3 | 320 | 0.9 | /mnt/stockage/packages/f9/gconf-editor/po/kn.po | 
+ | [ar](/f9/language/ar) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ar.po | 
+ | [as](/f9/language/as) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/as.po | 
+ | [az](/f9/language/az) | 320 | 320 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/az.po | 
+ | [be](/f9/language/be) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/be.po | 
+ | [be_Latn](/f9/language/be_Latn) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/be@latin.po | 
+ | [bg](/f9/language/bg) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bg.po | 
+ | [bn](/f9/language/bn) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bn.po | 
+ | [bn_IN](/f9/language/bn_IN) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bn_IN.po | 
+ | [bs](/f9/language/bs) | 320 | 320 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/bs.po | 
+ | [ca](/f9/language/ca) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ca.po | 
+ | [cs](/f9/language/cs) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/cs.po | 
+ | [cy](/f9/language/cy) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/cy.po | 
+ | [da](/f9/language/da) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/da.po | 
+ | [dz](/f9/language/dz) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/dz.po | 
+ | [el](/f9/language/el) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/el.po | 
+ | [en_CA](/f9/language/en_CA) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/en_CA.po | 
+ | [en_GB](/f9/language/en_GB) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/en_GB.po | 
+ | [error](/f9/language/error) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sr@Latn.po | 
+ | [es](/f9/language/es) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/es/es.po/mnt/stockage/packages/f9/gconf-editor/po/es.po | 
+ | [et](/f9/language/et) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/et.po | 
+ | [eu](/f9/language/eu) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/eu.po | 
+ | [fa](/f9/language/fa) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/fa.po | 
+ | [fi](/f9/language/fi) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/fi.po | 
+ | [fr](/f9/language/fr) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/fr/fr.po/mnt/stockage/packages/f9/gconf-editor/po/fr.po | 
+ | [gl](/f9/language/gl) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/gl.po | 
+ | [gu](/f9/language/gu) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/gu.po | 
+ | [he](/f9/language/he) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/he.po | 
+ | [hi](/f9/language/hi) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/hi.po | 
+ | [hu](/f9/language/hu) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/hu.po | 
+ | [id](/f9/language/id) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/id.po | 
+ | [it](/f9/language/it) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/it/it.po/mnt/stockage/packages/f9/gconf-editor/po/it.po | 
+ | [ja](/f9/language/ja) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ja.po | 
+ | [ka](/f9/language/ka) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ka.po | 
+ | [ko](/f9/language/ko) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ko.po | 
+ | [lt](/f9/language/lt) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/lt.po | 
+ | [lv](/f9/language/lv) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/lv.po | 
+ | [mk](/f9/language/mk) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/mk.po | 
+ | [mn](/f9/language/mn) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/mn.po | 
+ | [mr](/f9/language/mr) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/mr.po | 
+ | [ms](/f9/language/ms) | 320 | 320 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ms.po | 
+ | [nb_NO](/f9/language/nb_NO) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/nb.po | 
+ | [ne](/f9/language/ne) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ne.po | 
+ | [nl](/f9/language/nl) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/nl.po | 
+ | [nn](/f9/language/nn) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/nn.po | 
+ | [or](/f9/language/or) | 332 | 332 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/or.po | 
+ | [pa](/f9/language/pa) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pa.po | 
+ | [pl](/f9/language/pl) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pl.po | 
+ | [pt](/f9/language/pt) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ro.po | 
+ | [ru](/f9/language/ru) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ru.po | 
+ | [sl](/f9/language/sl) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sl.po | 
+ | [sq](/f9/language/sq) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sq.po | 
+ | [sr](/f9/language/sr) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/sr.po | 
+ | [sv](/f9/language/sv) | 2837 | 2837 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/sv/sv.po/mnt/stockage/packages/f9/gconf-editor/po/sv.po | 
+ | [ta](/f9/language/ta) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/ta.po | 
+ | [te](/f9/language/te) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/te.po | 
+ | [th](/f9/language/th) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/th.po | 
+ | [tr](/f9/language/tr) | 329 | 329 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/tr.po | 
+ | [uk](/f9/language/uk) | 2835 | 2835 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/docs/uk/uk.po/mnt/stockage/packages/f9/gconf-editor/po/uk.po | 
+ | [vi](/f9/language/vi) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/vi.po | 
+ | [xh](/f9/language/xh) | 334 | 334 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/xh.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/zh_TW.po | 
+ | [zh_Hant_HK](/f9/language/zh_Hant_HK) | 335 | 335 | 100.0 | /mnt/stockage/packages/f9/gconf-editor/po/zh_HK.po | 
+ | [sk](/f9/language/sk) | 334 | 335 | 99.7 | /mnt/stockage/packages/f9/gconf-editor/po/sk.po | 
+ | [mg](/f9/language/mg) | 328 | 329 | 99.7 | /mnt/stockage/packages/f9/gconf-editor/po/mg.po | 
+ | [ug](/f9/language/ug) | 327 | 334 | 97.9 | /mnt/stockage/packages/f9/gconf-editor/po/ug.po | 
+ | [de](/f9/language/de) | 2745 | 2835 | 96.8 | /mnt/stockage/packages/f9/gconf-editor/docs/de/de.po/mnt/stockage/packages/f9/gconf-editor/po/de.po | 
+ | [br](/f9/language/br) | 239 | 332 | 72.0 | /mnt/stockage/packages/f9/gconf-editor/po/br.po | 
+ | [ml](/f9/language/ml) | 232 | 329 | 70.5 | /mnt/stockage/packages/f9/gconf-editor/po/ml.po | 
+ | [ga](/f9/language/ga) | 143 | 335 | 42.7 | /mnt/stockage/packages/f9/gconf-editor/po/ga.po | 
+ | [hr](/f9/language/hr) | 121 | 320 | 37.8 | /mnt/stockage/packages/f9/gconf-editor/po/hr.po | 
+ | [li](/f9/language/li) | 101 | 320 | 31.6 | /mnt/stockage/packages/f9/gconf-editor/po/li.po | 
+ | [am](/f9/language/am) | 45 | 320 | 14.1 | /mnt/stockage/packages/f9/gconf-editor/po/am.po | 
+ | [ku](/f9/language/ku) | 35 | 334 | 10.5 | /mnt/stockage/packages/f9/gconf-editor/po/ku.po | 
+ | [si](/f9/language/si) | 34 | 329 | 10.3 | /mnt/stockage/packages/f9/gconf-editor/po/si.po | 
+ | [oc](/f9/language/oc) | 214 | 2837 | 7.5 | /mnt/stockage/packages/f9/gconf-editor/docs/oc/oc.po/mnt/stockage/packages/f9/gconf-editor/po/oc.po | 
+ | [rw](/f9/language/rw) | 12 | 334 | 3.6 | /mnt/stockage/packages/f9/gconf-editor/po/rw.po | 
+ | [kn](/f9/language/kn) | 3 | 320 | 0.9 | /mnt/stockage/packages/f9/gconf-editor/po/kn.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package photocollage (version 1.4.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/bg.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/fr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/it.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/pt-br.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/ru.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/uk.po | 
+ | [bg](/f40/language/bg) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/bg.po | 
+ | [cs](/f40/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/cs.po | 
+ | [de](/f40/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/de.po | 
+ | [es](/f40/language/es) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/es.po | 
+ | [fr](/f40/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/fr.po | 
+ | [it](/f40/language/it) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/it.po | 
+ | [nl](/f40/language/nl) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/pt-br.po | 
+ | [ru](/f40/language/ru) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/ru.po | 
+ | [uk](/f40/language/uk) | 46 | 46 | 100.0 | /mnt/stockage/packages/f40/photocollage/po/uk.po | 
 {.sortable}
 
 

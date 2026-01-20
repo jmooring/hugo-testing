@@ -18,31 +18,31 @@ The package beryl-manager (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/ca.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/es_ES.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/hu_HU.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/ko.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/nb_NO.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/pt_BR.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/sv_SE.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 278 | 281 | 98.9 | /mnt/stockage/packages/f7/beryl-manager/po/pl.po | 
- | [pt_PT]({{< ref "/f7/language/pt_PT.md" >}}) | 278 | 281 | 98.9 | /mnt/stockage/packages/f7/beryl-manager/po/pt_PT.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 276 | 281 | 98.2 | /mnt/stockage/packages/f7/beryl-manager/po/uk_UA.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 274 | 281 | 97.5 | /mnt/stockage/packages/f7/beryl-manager/po/ru_RU.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 273 | 281 | 97.2 | /mnt/stockage/packages/f7/beryl-manager/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 273 | 281 | 97.2 | /mnt/stockage/packages/f7/beryl-manager/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f7/language/zh_Hant_HK.md" >}}) | 273 | 281 | 97.2 | /mnt/stockage/packages/f7/beryl-manager/po/zh_HK.po | 
- | [es_AR]({{< ref "/f7/language/es_AR.md" >}}) | 264 | 281 | 94.0 | /mnt/stockage/packages/f7/beryl-manager/po/es_AR.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 190 | 281 | 67.6 | /mnt/stockage/packages/f7/beryl-manager/po/it_IT.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 545 | 843 | 64.7 | /mnt/stockage/packages/f7/beryl-manager/po/gl_GL.po/mnt/stockage/packages/f7/beryl-manager/po/sv_FI.po/mnt/stockage/packages/f7/beryl-manager/po/my_MY.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 151 | 281 | 53.7 | /mnt/stockage/packages/f7/beryl-manager/po/de_DE.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 132 | 281 | 47.0 | /mnt/stockage/packages/f7/beryl-manager/po/ar_AR.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 132 | 281 | 47.0 | /mnt/stockage/packages/f7/beryl-manager/po/sk_SK.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 132 | 281 | 47.0 | /mnt/stockage/packages/f7/beryl-manager/po/tr_TR.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 96 | 281 | 34.2 | /mnt/stockage/packages/f7/beryl-manager/po/gl_ES.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/beryl-manager/po/nl.po | 
+ | [ca](/f7/language/ca) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/ca.po | 
+ | [es](/f7/language/es) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/es_ES.po | 
+ | [fr](/f7/language/fr) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/fr.po | 
+ | [hu](/f7/language/hu) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/hu_HU.po | 
+ | [ja](/f7/language/ja) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/ja.po | 
+ | [ko](/f7/language/ko) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/ko.po | 
+ | [nb_NO](/f7/language/nb_NO) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/nb_NO.po | 
+ | [pt_BR](/f7/language/pt_BR) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/pt_BR.po | 
+ | [sv](/f7/language/sv) | 281 | 281 | 100.0 | /mnt/stockage/packages/f7/beryl-manager/po/sv_SE.po | 
+ | [pl](/f7/language/pl) | 278 | 281 | 98.9 | /mnt/stockage/packages/f7/beryl-manager/po/pl.po | 
+ | [pt_PT](/f7/language/pt_PT) | 278 | 281 | 98.9 | /mnt/stockage/packages/f7/beryl-manager/po/pt_PT.po | 
+ | [uk](/f7/language/uk) | 276 | 281 | 98.2 | /mnt/stockage/packages/f7/beryl-manager/po/uk_UA.po | 
+ | [ru](/f7/language/ru) | 274 | 281 | 97.5 | /mnt/stockage/packages/f7/beryl-manager/po/ru_RU.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 273 | 281 | 97.2 | /mnt/stockage/packages/f7/beryl-manager/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 273 | 281 | 97.2 | /mnt/stockage/packages/f7/beryl-manager/po/zh_TW.po | 
+ | [zh_Hant_HK](/f7/language/zh_Hant_HK) | 273 | 281 | 97.2 | /mnt/stockage/packages/f7/beryl-manager/po/zh_HK.po | 
+ | [es_AR](/f7/language/es_AR) | 264 | 281 | 94.0 | /mnt/stockage/packages/f7/beryl-manager/po/es_AR.po | 
+ | [it](/f7/language/it) | 190 | 281 | 67.6 | /mnt/stockage/packages/f7/beryl-manager/po/it_IT.po | 
+ | [error](/f7/language/error) | 545 | 843 | 64.7 | /mnt/stockage/packages/f7/beryl-manager/po/gl_GL.po/mnt/stockage/packages/f7/beryl-manager/po/sv_FI.po/mnt/stockage/packages/f7/beryl-manager/po/my_MY.po | 
+ | [de](/f7/language/de) | 151 | 281 | 53.7 | /mnt/stockage/packages/f7/beryl-manager/po/de_DE.po | 
+ | [ar](/f7/language/ar) | 132 | 281 | 47.0 | /mnt/stockage/packages/f7/beryl-manager/po/ar_AR.po | 
+ | [sk](/f7/language/sk) | 132 | 281 | 47.0 | /mnt/stockage/packages/f7/beryl-manager/po/sk_SK.po | 
+ | [tr](/f7/language/tr) | 132 | 281 | 47.0 | /mnt/stockage/packages/f7/beryl-manager/po/tr_TR.po | 
+ | [gl](/f7/language/gl) | 96 | 281 | 34.2 | /mnt/stockage/packages/f7/beryl-manager/po/gl_ES.po | 
+ | [nl](/f7/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/beryl-manager/po/nl.po | 
 {.sortable}
 
 

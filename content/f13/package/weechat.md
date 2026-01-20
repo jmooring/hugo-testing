@@ -18,14 +18,14 @@ The package weechat (version 0.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/cs.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/fr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/it.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/pl.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1266 | 12077 | 10.5 | /mnt/stockage/packages/f13/weechat/po/ru.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 1219 | 12077 | 10.1 | /mnt/stockage/packages/f13/weechat/po/hu.po | 
+ | [cs](/f13/language/cs) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/cs.po | 
+ | [de](/f13/language/de) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/de.po | 
+ | [es](/f13/language/es) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/es.po | 
+ | [fr](/f13/language/fr) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/fr.po | 
+ | [it](/f13/language/it) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/it.po | 
+ | [pl](/f13/language/pl) | 12077 | 12077 | 100.0 | /mnt/stockage/packages/f13/weechat/po/pl.po | 
+ | [ru](/f13/language/ru) | 1266 | 12077 | 10.5 | /mnt/stockage/packages/f13/weechat/po/ru.po | 
+ | [hu](/f13/language/hu) | 1219 | 12077 | 10.1 | /mnt/stockage/packages/f13/weechat/po/hu.po | 
 {.sortable}
 
 

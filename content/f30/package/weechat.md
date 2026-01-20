@@ -18,18 +18,18 @@ The package weechat (version 2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 31845 | 31845 | 100.0 | /mnt/stockage/packages/f30/weechat/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 31845 | 31845 | 100.0 | /mnt/stockage/packages/f30/weechat/po/fr.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 30638 | 31845 | 96.2 | /mnt/stockage/packages/f30/weechat/po/pl.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 27678 | 31845 | 86.9 | /mnt/stockage/packages/f30/weechat/po/ja.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 19135 | 31845 | 60.1 | /mnt/stockage/packages/f30/weechat/po/pt.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 10240 | 31845 | 32.2 | /mnt/stockage/packages/f30/weechat/po/it.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 9180 | 31845 | 28.8 | /mnt/stockage/packages/f30/weechat/po/es.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 8828 | 31845 | 27.7 | /mnt/stockage/packages/f30/weechat/po/cs.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 6328 | 31845 | 19.9 | /mnt/stockage/packages/f30/weechat/po/pt_BR.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 696 | 31845 | 2.2 | /mnt/stockage/packages/f30/weechat/po/tr.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 693 | 31845 | 2.2 | /mnt/stockage/packages/f30/weechat/po/ru.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 525 | 31845 | 1.6 | /mnt/stockage/packages/f30/weechat/po/hu.po | 
+ | [de](/f30/language/de) | 31845 | 31845 | 100.0 | /mnt/stockage/packages/f30/weechat/po/de.po | 
+ | [fr](/f30/language/fr) | 31845 | 31845 | 100.0 | /mnt/stockage/packages/f30/weechat/po/fr.po | 
+ | [pl](/f30/language/pl) | 30638 | 31845 | 96.2 | /mnt/stockage/packages/f30/weechat/po/pl.po | 
+ | [ja](/f30/language/ja) | 27678 | 31845 | 86.9 | /mnt/stockage/packages/f30/weechat/po/ja.po | 
+ | [pt](/f30/language/pt) | 19135 | 31845 | 60.1 | /mnt/stockage/packages/f30/weechat/po/pt.po | 
+ | [it](/f30/language/it) | 10240 | 31845 | 32.2 | /mnt/stockage/packages/f30/weechat/po/it.po | 
+ | [es](/f30/language/es) | 9180 | 31845 | 28.8 | /mnt/stockage/packages/f30/weechat/po/es.po | 
+ | [cs](/f30/language/cs) | 8828 | 31845 | 27.7 | /mnt/stockage/packages/f30/weechat/po/cs.po | 
+ | [pt_BR](/f30/language/pt_BR) | 6328 | 31845 | 19.9 | /mnt/stockage/packages/f30/weechat/po/pt_BR.po | 
+ | [tr](/f30/language/tr) | 696 | 31845 | 2.2 | /mnt/stockage/packages/f30/weechat/po/tr.po | 
+ | [ru](/f30/language/ru) | 693 | 31845 | 2.2 | /mnt/stockage/packages/f30/weechat/po/ru.po | 
+ | [hu](/f30/language/hu) | 525 | 31845 | 1.6 | /mnt/stockage/packages/f30/weechat/po/hu.po | 
 {.sortable}
 
 

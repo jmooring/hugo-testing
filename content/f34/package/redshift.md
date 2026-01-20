@@ -18,42 +18,42 @@ The package redshift (version 1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f34/language/be.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/be.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/de.po | 
- | [en_GB]({{< ref "/f34/language/en_GB.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/en_GB.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/es.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/ja.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/uk.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/zh_TW.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 993 | 1028 | 96.6 | /mnt/stockage/packages/f34/redshift/po/fr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 810 | 1028 | 78.8 | /mnt/stockage/packages/f34/redshift/po/hu.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 806 | 1028 | 78.4 | /mnt/stockage/packages/f34/redshift/po/pl.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 766 | 1028 | 74.5 | /mnt/stockage/packages/f34/redshift/po/nl.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 718 | 1028 | 69.8 | /mnt/stockage/packages/f34/redshift/po/sv.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 718 | 1028 | 69.8 | /mnt/stockage/packages/f34/redshift/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 711 | 1028 | 69.2 | /mnt/stockage/packages/f34/redshift/po/pt_BR.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 625 | 1028 | 60.8 | /mnt/stockage/packages/f34/redshift/po/it.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 533 | 1028 | 51.8 | /mnt/stockage/packages/f34/redshift/po/ru.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 530 | 1028 | 51.6 | /mnt/stockage/packages/f34/redshift/po/nb.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 508 | 1028 | 49.4 | /mnt/stockage/packages/f34/redshift/po/lt.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 498 | 1028 | 48.4 | /mnt/stockage/packages/f34/redshift/po/pt.po | 
- | [eu]({{< ref "/f34/language/eu.md" >}}) | 335 | 1028 | 32.6 | /mnt/stockage/packages/f34/redshift/po/eu.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 335 | 1028 | 32.6 | /mnt/stockage/packages/f34/redshift/po/hr.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 312 | 1028 | 30.4 | /mnt/stockage/packages/f34/redshift/po/fi.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 288 | 1028 | 28.0 | /mnt/stockage/packages/f34/redshift/po/sr.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 231 | 1028 | 22.5 | /mnt/stockage/packages/f34/redshift/po/he.po | 
- | [gl]({{< ref "/f34/language/gl.md" >}}) | 145 | 1028 | 14.1 | /mnt/stockage/packages/f34/redshift/po/gl.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 74 | 1028 | 7.2 | /mnt/stockage/packages/f34/redshift/po/tr.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 59 | 1028 | 5.7 | /mnt/stockage/packages/f34/redshift/po/hi.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 31 | 1028 | 3.0 | /mnt/stockage/packages/f34/redshift/po/el.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 26 | 1028 | 2.5 | /mnt/stockage/packages/f34/redshift/po/ro.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 13 | 1028 | 1.3 | /mnt/stockage/packages/f34/redshift/po/ar.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 5 | 1028 | 0.5 | /mnt/stockage/packages/f34/redshift/po/et.po | 
- | [ka]({{< ref "/f34/language/ka.md" >}}) | 1 | 1028 | 0.1 | /mnt/stockage/packages/f34/redshift/po/ka.po | 
- | [bg]({{< ref "/f34/language/bg.md" >}}) | 0 | 1028 | 0.0 | /mnt/stockage/packages/f34/redshift/po/bg.po | 
+ | [be](/f34/language/be) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/be.po | 
+ | [ca](/f34/language/ca) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/ca.po | 
+ | [cs](/f34/language/cs) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/cs.po | 
+ | [da](/f34/language/da) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/da.po | 
+ | [de](/f34/language/de) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/de.po | 
+ | [en_GB](/f34/language/en_GB) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/en_GB.po | 
+ | [es](/f34/language/es) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/es.po | 
+ | [ja](/f34/language/ja) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/ja.po | 
+ | [uk](/f34/language/uk) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/uk.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1028 | 1028 | 100.0 | /mnt/stockage/packages/f34/redshift/po/zh_TW.po | 
+ | [fr](/f34/language/fr) | 993 | 1028 | 96.6 | /mnt/stockage/packages/f34/redshift/po/fr.po | 
+ | [hu](/f34/language/hu) | 810 | 1028 | 78.8 | /mnt/stockage/packages/f34/redshift/po/hu.po | 
+ | [pl](/f34/language/pl) | 806 | 1028 | 78.4 | /mnt/stockage/packages/f34/redshift/po/pl.po | 
+ | [nl](/f34/language/nl) | 766 | 1028 | 74.5 | /mnt/stockage/packages/f34/redshift/po/nl.po | 
+ | [sv](/f34/language/sv) | 718 | 1028 | 69.8 | /mnt/stockage/packages/f34/redshift/po/sv.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 718 | 1028 | 69.8 | /mnt/stockage/packages/f34/redshift/po/zh_CN.po | 
+ | [pt_BR](/f34/language/pt_BR) | 711 | 1028 | 69.2 | /mnt/stockage/packages/f34/redshift/po/pt_BR.po | 
+ | [it](/f34/language/it) | 625 | 1028 | 60.8 | /mnt/stockage/packages/f34/redshift/po/it.po | 
+ | [ru](/f34/language/ru) | 533 | 1028 | 51.8 | /mnt/stockage/packages/f34/redshift/po/ru.po | 
+ | [nb_NO](/f34/language/nb_NO) | 530 | 1028 | 51.6 | /mnt/stockage/packages/f34/redshift/po/nb.po | 
+ | [lt](/f34/language/lt) | 508 | 1028 | 49.4 | /mnt/stockage/packages/f34/redshift/po/lt.po | 
+ | [pt](/f34/language/pt) | 498 | 1028 | 48.4 | /mnt/stockage/packages/f34/redshift/po/pt.po | 
+ | [eu](/f34/language/eu) | 335 | 1028 | 32.6 | /mnt/stockage/packages/f34/redshift/po/eu.po | 
+ | [hr](/f34/language/hr) | 335 | 1028 | 32.6 | /mnt/stockage/packages/f34/redshift/po/hr.po | 
+ | [fi](/f34/language/fi) | 312 | 1028 | 30.4 | /mnt/stockage/packages/f34/redshift/po/fi.po | 
+ | [sr](/f34/language/sr) | 288 | 1028 | 28.0 | /mnt/stockage/packages/f34/redshift/po/sr.po | 
+ | [he](/f34/language/he) | 231 | 1028 | 22.5 | /mnt/stockage/packages/f34/redshift/po/he.po | 
+ | [gl](/f34/language/gl) | 145 | 1028 | 14.1 | /mnt/stockage/packages/f34/redshift/po/gl.po | 
+ | [tr](/f34/language/tr) | 74 | 1028 | 7.2 | /mnt/stockage/packages/f34/redshift/po/tr.po | 
+ | [hi](/f34/language/hi) | 59 | 1028 | 5.7 | /mnt/stockage/packages/f34/redshift/po/hi.po | 
+ | [el](/f34/language/el) | 31 | 1028 | 3.0 | /mnt/stockage/packages/f34/redshift/po/el.po | 
+ | [ro](/f34/language/ro) | 26 | 1028 | 2.5 | /mnt/stockage/packages/f34/redshift/po/ro.po | 
+ | [ar](/f34/language/ar) | 13 | 1028 | 1.3 | /mnt/stockage/packages/f34/redshift/po/ar.po | 
+ | [et](/f34/language/et) | 5 | 1028 | 0.5 | /mnt/stockage/packages/f34/redshift/po/et.po | 
+ | [ka](/f34/language/ka) | 1 | 1028 | 0.1 | /mnt/stockage/packages/f34/redshift/po/ka.po | 
+ | [bg](/f34/language/bg) | 0 | 1028 | 0.0 | /mnt/stockage/packages/f34/redshift/po/bg.po | 
 {.sortable}
 
 

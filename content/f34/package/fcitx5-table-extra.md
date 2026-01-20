@@ -18,16 +18,16 @@ The package fcitx5-table-extra (version 5.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ja.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ru.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/zh_TW.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 38 | 46 | 82.6 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/da.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 22 | 46 | 47.8 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ko.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 17 | 46 | 37.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ca.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 17 | 46 | 37.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/de.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 17 | 46 | 37.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/tr.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 1 | 46 | 2.2 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/he.po | 
+ | [ja](/f34/language/ja) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ja.po | 
+ | [ru](/f34/language/ru) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ru.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 46 | 46 | 100.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/zh_TW.po | 
+ | [da](/f34/language/da) | 38 | 46 | 82.6 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/da.po | 
+ | [ko](/f34/language/ko) | 22 | 46 | 47.8 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ko.po | 
+ | [ca](/f34/language/ca) | 17 | 46 | 37.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/ca.po | 
+ | [de](/f34/language/de) | 17 | 46 | 37.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/de.po | 
+ | [tr](/f34/language/tr) | 17 | 46 | 37.0 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/tr.po | 
+ | [he](/f34/language/he) | 1 | 46 | 2.2 | /mnt/stockage/packages/f34/fcitx5-table-extra/po/he.po | 
 {.sortable}
 
 

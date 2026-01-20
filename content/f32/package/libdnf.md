@@ -18,55 +18,55 @@ The package libdnf (version 0.58.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/fr.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/ru.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/uk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 1156 | 1186 | 97.5 | /mnt/stockage/packages/f32/libdnf/po/zh_TW.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1138 | 1186 | 96.0 | /mnt/stockage/packages/f32/libdnf/po/ja.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 666 | 1186 | 56.2 | /mnt/stockage/packages/f32/libdnf/po/zh_CN.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 575 | 1186 | 48.5 | /mnt/stockage/packages/f32/libdnf/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 575 | 1186 | 48.5 | /mnt/stockage/packages/f32/libdnf/po/es.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 575 | 1186 | 48.5 | /mnt/stockage/packages/f32/libdnf/po/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 571 | 1186 | 48.1 | /mnt/stockage/packages/f32/libdnf/po/pt_BR.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 545 | 1186 | 46.0 | /mnt/stockage/packages/f32/libdnf/po/ko.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 257 | 1186 | 21.7 | /mnt/stockage/packages/f32/libdnf/po/hu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 170 | 1186 | 14.3 | /mnt/stockage/packages/f32/libdnf/po/fi.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 156 | 1186 | 13.2 | /mnt/stockage/packages/f32/libdnf/po/cs.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 112 | 1186 | 9.4 | /mnt/stockage/packages/f32/libdnf/po/ca.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 101 | 1186 | 8.5 | /mnt/stockage/packages/f32/libdnf/po/fur.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 69 | 1186 | 5.8 | /mnt/stockage/packages/f32/libdnf/po/da.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 63 | 1186 | 5.3 | /mnt/stockage/packages/f32/libdnf/po/pt.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 46 | 1186 | 3.9 | /mnt/stockage/packages/f32/libdnf/po/id.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 19 | 1186 | 1.6 | /mnt/stockage/packages/f32/libdnf/po/bg.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 11 | 1186 | 0.9 | /mnt/stockage/packages/f32/libdnf/po/pa.po | 
- | [fil]({{< ref "/f32/language/fil.md" >}}) | 8 | 1186 | 0.7 | /mnt/stockage/packages/f32/libdnf/po/fil.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/as.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/bn_IN.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/el.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/fa.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/gu.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/hi.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/ia.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/is.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/kn.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/mai.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/mr.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/nb.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/or.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sk.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sr.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sr@latin.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/th.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f32/libdnf/po/eu.po | 
+ | [fr](/f32/language/fr) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/fr.po | 
+ | [nl](/f32/language/nl) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/nl.po | 
+ | [pl](/f32/language/pl) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/pl.po | 
+ | [ru](/f32/language/ru) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/ru.po | 
+ | [sv](/f32/language/sv) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/sv.po | 
+ | [tr](/f32/language/tr) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/tr.po | 
+ | [uk](/f32/language/uk) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f32/libdnf/po/uk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 1156 | 1186 | 97.5 | /mnt/stockage/packages/f32/libdnf/po/zh_TW.po | 
+ | [ja](/f32/language/ja) | 1138 | 1186 | 96.0 | /mnt/stockage/packages/f32/libdnf/po/ja.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 666 | 1186 | 56.2 | /mnt/stockage/packages/f32/libdnf/po/zh_CN.po | 
+ | [de](/f32/language/de) | 575 | 1186 | 48.5 | /mnt/stockage/packages/f32/libdnf/po/de.po | 
+ | [es](/f32/language/es) | 575 | 1186 | 48.5 | /mnt/stockage/packages/f32/libdnf/po/es.po | 
+ | [it](/f32/language/it) | 575 | 1186 | 48.5 | /mnt/stockage/packages/f32/libdnf/po/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 571 | 1186 | 48.1 | /mnt/stockage/packages/f32/libdnf/po/pt_BR.po | 
+ | [ko](/f32/language/ko) | 545 | 1186 | 46.0 | /mnt/stockage/packages/f32/libdnf/po/ko.po | 
+ | [hu](/f32/language/hu) | 257 | 1186 | 21.7 | /mnt/stockage/packages/f32/libdnf/po/hu.po | 
+ | [fi](/f32/language/fi) | 170 | 1186 | 14.3 | /mnt/stockage/packages/f32/libdnf/po/fi.po | 
+ | [cs](/f32/language/cs) | 156 | 1186 | 13.2 | /mnt/stockage/packages/f32/libdnf/po/cs.po | 
+ | [ca](/f32/language/ca) | 112 | 1186 | 9.4 | /mnt/stockage/packages/f32/libdnf/po/ca.po | 
+ | [fur](/f32/language/fur) | 101 | 1186 | 8.5 | /mnt/stockage/packages/f32/libdnf/po/fur.po | 
+ | [da](/f32/language/da) | 69 | 1186 | 5.8 | /mnt/stockage/packages/f32/libdnf/po/da.po | 
+ | [pt](/f32/language/pt) | 63 | 1186 | 5.3 | /mnt/stockage/packages/f32/libdnf/po/pt.po | 
+ | [id](/f32/language/id) | 46 | 1186 | 3.9 | /mnt/stockage/packages/f32/libdnf/po/id.po | 
+ | [bg](/f32/language/bg) | 19 | 1186 | 1.6 | /mnt/stockage/packages/f32/libdnf/po/bg.po | 
+ | [pa](/f32/language/pa) | 11 | 1186 | 0.9 | /mnt/stockage/packages/f32/libdnf/po/pa.po | 
+ | [fil](/f32/language/fil) | 8 | 1186 | 0.7 | /mnt/stockage/packages/f32/libdnf/po/fil.po | 
+ | [as](/f32/language/as) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/as.po | 
+ | [bn](/f32/language/bn) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/bn_IN.po | 
+ | [el](/f32/language/el) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/el.po | 
+ | [fa](/f32/language/fa) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/fa.po | 
+ | [gu](/f32/language/gu) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/gu.po | 
+ | [hi](/f32/language/hi) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/hi.po | 
+ | [ia](/f32/language/ia) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/ia.po | 
+ | [is](/f32/language/is) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/is.po | 
+ | [kn](/f32/language/kn) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/kn.po | 
+ | [mai](/f32/language/mai) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/mai.po | 
+ | [ml](/f32/language/ml) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/ml.po | 
+ | [mr](/f32/language/mr) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/mr.po | 
+ | [nb_NO](/f32/language/nb_NO) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/nb.po | 
+ | [or](/f32/language/or) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/or.po | 
+ | [sk](/f32/language/sk) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sk.po | 
+ | [sq](/f32/language/sq) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sq.po | 
+ | [sr](/f32/language/sr) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sr.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/sr@latin.po | 
+ | [ta](/f32/language/ta) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/ta.po | 
+ | [te](/f32/language/te) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/te.po | 
+ | [th](/f32/language/th) | 2 | 1186 | 0.2 | /mnt/stockage/packages/f32/libdnf/po/th.po | 
+ | [eu](/f32/language/eu) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f32/libdnf/po/eu.po | 
 {.sortable}
 
 

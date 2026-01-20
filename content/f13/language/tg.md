@@ -39,27 +39,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [desktop-effects]({{< ref "/f13/package/desktop-effects.md" >}}) | 66 | 66 | 100.0 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
- | [konq-plugins]({{< ref "/f13/package/konq-plugins.md" >}}) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
- | [kiconedit]({{< ref "/f13/package/kiconedit.md" >}}) | 678 | 726 | 93.4 | Tajik | 
- | [ksig]({{< ref "/f13/package/ksig.md" >}}) | 68 | 85 | 80.0 | Tajik | 
- | [xmms]({{< ref "/f13/package/xmms.md" >}}) | 2590 | 3443 | 75.2 | Tajik | 
- | [kpilot]({{< ref "/f13/package/kpilot.md" >}}) | 4818 | 7156 | 67.3 | Tajik | 
- | [koffice-kivio]({{< ref "/f13/package/koffice-kivio.md" >}}) | 5218 | 8417 | 62.0 | Tajik | 
- | [audacity]({{< ref "/f13/package/audacity.md" >}}) | 4347 | 9628 | 45.1 | Tajik Language | 
- | [chkconfig]({{< ref "/f13/package/chkconfig.md" >}}) | 182 | 448 | 40.6 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
- | [aspell]({{< ref "/f13/package/aspell.md" >}}) | 600 | 1726 | 34.8 | Tajik | 
- | [kdiff3]({{< ref "/f13/package/kdiff3.md" >}}) | 1072 | 3410 | 31.4 | Tajik | 
- | [usermode]({{< ref "/f13/package/usermode.md" >}}) | 123 | 562 | 21.9 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
- | [kwebkitpart]({{< ref "/f13/package/kwebkitpart.md" >}}) | 77 | 477 | 16.1 | American English <kde-i18n-doc@lists.kde.org> | 
- | [yelp]({{< ref "/f13/package/yelp.md" >}}) | 92 | 606 | 15.2 | Tajik | 
- | [system-config-language]({{< ref "/f13/package/system-config-language.md" >}}) | 47 | 323 | 14.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
- | [firstboot]({{< ref "/f13/package/firstboot.md" >}}) | 75 | 654 | 11.5 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
- | [anaconda]({{< ref "/f13/package/anaconda.md" >}}) | 718 | 9752 | 7.4 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
- | [system-config-display]({{< ref "/f13/package/system-config-display.md" >}}) | 19 | 415 | 4.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
- | [kcoloredit]({{< ref "/f13/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Tajik | 
- | [authconfig]({{< ref "/f13/package/authconfig.md" >}}) | 14 | 1325 | 1.1 | Tajik KDE & Software Localization http://www.kde.tj <victor.ibragimov@gmail.com> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [desktop-effects](/f13/package/desktop-effects) | 66 | 66 | 100.0 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [konq-plugins](/f13/package/konq-plugins) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
+ | [kiconedit](/f13/package/kiconedit) | 678 | 726 | 93.4 | Tajik | 
+ | [ksig](/f13/package/ksig) | 68 | 85 | 80.0 | Tajik | 
+ | [xmms](/f13/package/xmms) | 2590 | 3443 | 75.2 | Tajik | 
+ | [kpilot](/f13/package/kpilot) | 4818 | 7156 | 67.3 | Tajik | 
+ | [koffice-kivio](/f13/package/koffice-kivio) | 5218 | 8417 | 62.0 | Tajik | 
+ | [audacity](/f13/package/audacity) | 4347 | 9628 | 45.1 | Tajik Language | 
+ | [chkconfig](/f13/package/chkconfig) | 182 | 448 | 40.6 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [aspell](/f13/package/aspell) | 600 | 1726 | 34.8 | Tajik | 
+ | [kdiff3](/f13/package/kdiff3) | 1072 | 3410 | 31.4 | Tajik | 
+ | [usermode](/f13/package/usermode) | 123 | 562 | 21.9 | Tajik Fedora and Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [kwebkitpart](/f13/package/kwebkitpart) | 77 | 477 | 16.1 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [yelp](/f13/package/yelp) | 92 | 606 | 15.2 | Tajik | 
+ | [system-config-language](/f13/package/system-config-language) | 47 | 323 | 14.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
+ | [firstboot](/f13/package/firstboot) | 75 | 654 | 11.5 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [anaconda](/f13/package/anaconda) | 718 | 9752 | 7.4 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [system-config-display](/f13/package/system-config-display) | 19 | 415 | 4.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
+ | [kcoloredit](/f13/package/kcoloredit) | 8 | 278 | 2.9 | Tajik | 
+ | [authconfig](/f13/package/authconfig) | 14 | 1325 | 1.1 | Tajik KDE & Software Localization http://www.kde.tj <victor.ibragimov@gmail.com> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

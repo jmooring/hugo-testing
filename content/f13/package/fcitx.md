@@ -18,7 +18,7 @@ The package fcitx (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f13/fcitx/po/zh_CN.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 1077 | 1077 | 100.0 | /mnt/stockage/packages/f13/fcitx/po/zh_CN.po | 
 {.sortable}
 
 

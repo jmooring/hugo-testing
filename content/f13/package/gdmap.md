@@ -18,18 +18,18 @@ The package gdmap (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/de.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/fr.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/hr.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/it.po | 
- | [nb_NO]({{< ref "/f13/language/nb_NO.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/nb.po/mnt/stockage/packages/f13/gdmap/po/no.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/ru.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/tr.po | 
- | [bg]({{< ref "/f13/language/bg.md" >}}) | 128 | 139 | 92.1 | /mnt/stockage/packages/f13/gdmap/po/bg.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 124 | 139 | 89.2 | /mnt/stockage/packages/f13/gdmap/po/dk.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 124 | 139 | 89.2 | /mnt/stockage/packages/f13/gdmap/po/sv.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 88 | 139 | 63.3 | /mnt/stockage/packages/f13/gdmap/po/he.po | 
+ | [de](/f13/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/de.po | 
+ | [es](/f13/language/es) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/es.po | 
+ | [fr](/f13/language/fr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/fr.po | 
+ | [hr](/f13/language/hr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/hr.po | 
+ | [it](/f13/language/it) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/it.po | 
+ | [nb_NO](/f13/language/nb_NO) | 278 | 278 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/nb.po/mnt/stockage/packages/f13/gdmap/po/no.po | 
+ | [ru](/f13/language/ru) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/ru.po | 
+ | [tr](/f13/language/tr) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/gdmap/po/tr.po | 
+ | [bg](/f13/language/bg) | 128 | 139 | 92.1 | /mnt/stockage/packages/f13/gdmap/po/bg.po | 
+ | [da](/f13/language/da) | 124 | 139 | 89.2 | /mnt/stockage/packages/f13/gdmap/po/dk.po | 
+ | [sv](/f13/language/sv) | 124 | 139 | 89.2 | /mnt/stockage/packages/f13/gdmap/po/sv.po | 
+ | [he](/f13/language/he) | 88 | 139 | 63.3 | /mnt/stockage/packages/f13/gdmap/po/he.po | 
 {.sortable}
 
 

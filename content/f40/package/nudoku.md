@@ -18,11 +18,11 @@ The package nudoku (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/fr.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 124 | 124 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/ja.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/ru.po | 
+ | [de](/f40/language/de) | 95 | 95 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/de.po | 
+ | [es](/f40/language/es) | 124 | 124 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/es.po | 
+ | [fr](/f40/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/fr.po | 
+ | [ja](/f40/language/ja) | 124 | 124 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/ja.po | 
+ | [ru](/f40/language/ru) | 94 | 94 | 100.0 | /mnt/stockage/packages/f40/nudoku/po/ru.po | 
 {.sortable}
 
 

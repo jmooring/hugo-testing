@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f17/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f17/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f17/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [mate-applets]({{< ref "/f17/package/mate-applets.md" >}}) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
- | [gnucash]({{< ref "/f17/package/gnucash.md" >}}) | 2856 | 26312 | 10.9 | Spanish es@li.org" | 
- | [wicd]({{< ref "/f17/package/wicd.md" >}}) | 11 | 1058 | 1.0 | es_NI <LL@li.org> | 
+ | [gnome-applets](/f17/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f17/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f17/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [mate-applets](/f17/package/mate-applets) | 2555 | 3299 | 77.4 | LANGUAGE <LL@li.org> | 
+ | [gnucash](/f17/package/gnucash) | 2856 | 26312 | 10.9 | Spanish es@li.org" | 
+ | [wicd](/f17/package/wicd) | 11 | 1058 | 1.0 | es_NI <LL@li.org> | 
 {.sortable}
 
 

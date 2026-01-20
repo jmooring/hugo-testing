@@ -18,54 +18,54 @@ The package ktp-contact-runner (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ca/plasma_runner_ktp_contacts.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ca@valencia/plasma_runner_ktp_contacts.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/cs/plasma_runner_ktp_contacts.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/da/plasma_runner_ktp_contacts.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/de/plasma_runner_ktp_contacts.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/el/plasma_runner_ktp_contacts.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/en_GB/plasma_runner_ktp_contacts.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/es/plasma_runner_ktp_contacts.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/et/plasma_runner_ktp_contacts.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/eu/plasma_runner_ktp_contacts.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/fi/plasma_runner_ktp_contacts.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/fr/plasma_runner_ktp_contacts.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/gl/plasma_runner_ktp_contacts.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ia/plasma_runner_ktp_contacts.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/it/plasma_runner_ktp_contacts.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ka/plasma_runner_ktp_contacts.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ko/plasma_runner_ktp_contacts.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nl/plasma_runner_ktp_contacts.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nn/plasma_runner_ktp_contacts.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pl/plasma_runner_ktp_contacts.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pt/plasma_runner_ktp_contacts.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pt_BR/plasma_runner_ktp_contacts.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ro/plasma_runner_ktp_contacts.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ru/plasma_runner_ktp_contacts.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sk/plasma_runner_ktp_contacts.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sl/plasma_runner_ktp_contacts.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr/plasma_runner_ktp_contacts.po | 
- | [sr@ijekavian]({{< ref "/f36/language/sr@ijekavian.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr@ijekavian/plasma_runner_ktp_contacts.po | 
- | [sr@ijekavian_Latn]({{< ref "/f36/language/sr@ijekavian_Latn.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr@ijekavianlatin/plasma_runner_ktp_contacts.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr@latin/plasma_runner_ktp_contacts.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sv/plasma_runner_ktp_contacts.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/tr/plasma_runner_ktp_contacts.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/uk/plasma_runner_ktp_contacts.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/zh_CN/plasma_runner_ktp_contacts.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/zh_TW/plasma_runner_ktp_contacts.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/bs/plasma_runner_ktp_contacts.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/hu/plasma_runner_ktp_contacts.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/kk/plasma_runner_ktp_contacts.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/lt/plasma_runner_ktp_contacts.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nb/plasma_runner_ktp_contacts.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nds/plasma_runner_ktp_contacts.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 157 | 208 | 75.5 | /mnt/stockage/packages/f36/ktp-contact-runner/po/vi/plasma_runner_ktp_contacts.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 109 | 208 | 52.4 | /mnt/stockage/packages/f36/ktp-contact-runner/po/km/plasma_runner_ktp_contacts.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 35 | 208 | 16.8 | /mnt/stockage/packages/f36/ktp-contact-runner/po/mr/plasma_runner_ktp_contacts.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 28 | 208 | 13.5 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pa/plasma_runner_ktp_contacts.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 15 | 208 | 7.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ug/plasma_runner_ktp_contacts.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 6 | 208 | 2.9 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ga/plasma_runner_ktp_contacts.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 208 | 0.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ja/plasma_runner_ktp_contacts.po | 
+ | [ca](/f36/language/ca) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ca/plasma_runner_ktp_contacts.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ca@valencia/plasma_runner_ktp_contacts.po | 
+ | [cs](/f36/language/cs) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/cs/plasma_runner_ktp_contacts.po | 
+ | [da](/f36/language/da) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/da/plasma_runner_ktp_contacts.po | 
+ | [de](/f36/language/de) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/de/plasma_runner_ktp_contacts.po | 
+ | [el](/f36/language/el) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/el/plasma_runner_ktp_contacts.po | 
+ | [en_GB](/f36/language/en_GB) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/en_GB/plasma_runner_ktp_contacts.po | 
+ | [es](/f36/language/es) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/es/plasma_runner_ktp_contacts.po | 
+ | [et](/f36/language/et) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/et/plasma_runner_ktp_contacts.po | 
+ | [eu](/f36/language/eu) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/eu/plasma_runner_ktp_contacts.po | 
+ | [fi](/f36/language/fi) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/fi/plasma_runner_ktp_contacts.po | 
+ | [fr](/f36/language/fr) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/fr/plasma_runner_ktp_contacts.po | 
+ | [gl](/f36/language/gl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/gl/plasma_runner_ktp_contacts.po | 
+ | [ia](/f36/language/ia) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ia/plasma_runner_ktp_contacts.po | 
+ | [it](/f36/language/it) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/it/plasma_runner_ktp_contacts.po | 
+ | [ka](/f36/language/ka) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ka/plasma_runner_ktp_contacts.po | 
+ | [ko](/f36/language/ko) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ko/plasma_runner_ktp_contacts.po | 
+ | [nl](/f36/language/nl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nl/plasma_runner_ktp_contacts.po | 
+ | [nn](/f36/language/nn) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nn/plasma_runner_ktp_contacts.po | 
+ | [pl](/f36/language/pl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pl/plasma_runner_ktp_contacts.po | 
+ | [pt](/f36/language/pt) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pt/plasma_runner_ktp_contacts.po | 
+ | [pt_BR](/f36/language/pt_BR) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pt_BR/plasma_runner_ktp_contacts.po | 
+ | [ro](/f36/language/ro) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ro/plasma_runner_ktp_contacts.po | 
+ | [ru](/f36/language/ru) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ru/plasma_runner_ktp_contacts.po | 
+ | [sk](/f36/language/sk) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sk/plasma_runner_ktp_contacts.po | 
+ | [sl](/f36/language/sl) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sl/plasma_runner_ktp_contacts.po | 
+ | [sr](/f36/language/sr) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr/plasma_runner_ktp_contacts.po | 
+ | [sr@ijekavian](/f36/language/sr@ijekavian) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr@ijekavian/plasma_runner_ktp_contacts.po | 
+ | [sr@ijekavian_Latn](/f36/language/sr@ijekavian_Latn) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr@ijekavianlatin/plasma_runner_ktp_contacts.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sr@latin/plasma_runner_ktp_contacts.po | 
+ | [sv](/f36/language/sv) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/sv/plasma_runner_ktp_contacts.po | 
+ | [tr](/f36/language/tr) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/tr/plasma_runner_ktp_contacts.po | 
+ | [uk](/f36/language/uk) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/uk/plasma_runner_ktp_contacts.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/zh_CN/plasma_runner_ktp_contacts.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 208 | 208 | 100.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/zh_TW/plasma_runner_ktp_contacts.po | 
+ | [bs](/f36/language/bs) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/bs/plasma_runner_ktp_contacts.po | 
+ | [hu](/f36/language/hu) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/hu/plasma_runner_ktp_contacts.po | 
+ | [kk](/f36/language/kk) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/kk/plasma_runner_ktp_contacts.po | 
+ | [lt](/f36/language/lt) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/lt/plasma_runner_ktp_contacts.po | 
+ | [nb_NO](/f36/language/nb_NO) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nb/plasma_runner_ktp_contacts.po | 
+ | [nds](/f36/language/nds) | 169 | 208 | 81.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/nds/plasma_runner_ktp_contacts.po | 
+ | [vi](/f36/language/vi) | 157 | 208 | 75.5 | /mnt/stockage/packages/f36/ktp-contact-runner/po/vi/plasma_runner_ktp_contacts.po | 
+ | [km](/f36/language/km) | 109 | 208 | 52.4 | /mnt/stockage/packages/f36/ktp-contact-runner/po/km/plasma_runner_ktp_contacts.po | 
+ | [mr](/f36/language/mr) | 35 | 208 | 16.8 | /mnt/stockage/packages/f36/ktp-contact-runner/po/mr/plasma_runner_ktp_contacts.po | 
+ | [pa](/f36/language/pa) | 28 | 208 | 13.5 | /mnt/stockage/packages/f36/ktp-contact-runner/po/pa/plasma_runner_ktp_contacts.po | 
+ | [ug](/f36/language/ug) | 15 | 208 | 7.2 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ug/plasma_runner_ktp_contacts.po | 
+ | [ga](/f36/language/ga) | 6 | 208 | 2.9 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ga/plasma_runner_ktp_contacts.po | 
+ | [ja](/f36/language/ja) | 0 | 208 | 0.0 | /mnt/stockage/packages/f36/ktp-contact-runner/po/ja/plasma_runner_ktp_contacts.po | 
 {.sortable}
 
 

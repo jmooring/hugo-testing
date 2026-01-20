@@ -18,67 +18,67 @@ The package openstack-keystone (version 2014.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/de/LC_MESSAGES/keystone.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/es/LC_MESSAGES/keystone.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/zh_CN/LC_MESSAGES/keystone.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/zh_TW/LC_MESSAGES/keystone.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 223 | 5318 | 4.2 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/it/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/it_IT/LC_MESSAGES/keystone.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 66 | 2659 | 2.5 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/hu/LC_MESSAGES/keystone.po | 
- | [ka]({{< ref "/f21/language/ka.md" >}}) | 24 | 2659 | 0.9 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ka_GE/LC_MESSAGES/keystone.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 9 | 2659 | 0.3 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sr/LC_MESSAGES/keystone.po | 
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ar/LC_MESSAGES/keystone.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/bg_BG/LC_MESSAGES/keystone.po | 
- | [bn_IN]({{< ref "/f21/language/bn_IN.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/bn_IN/LC_MESSAGES/keystone.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/bs/LC_MESSAGES/keystone.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ca/LC_MESSAGES/keystone.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/cs/LC_MESSAGES/keystone.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/da/LC_MESSAGES/keystone.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/el/LC_MESSAGES/keystone.po | 
- | [en_AU]({{< ref "/f21/language/en_AU.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/en_AU/LC_MESSAGES/keystone.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/en_GB/LC_MESSAGES/keystone.po | 
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/en_US/LC_MESSAGES/keystone.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sw_KE/LC_MESSAGES/keystone.po | 
- | [es_MX]({{< ref "/f21/language/es_MX.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/es_MX/LC_MESSAGES/keystone.po | 
- | [eu]({{< ref "/f21/language/eu.md" >}}) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/eu_ES/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/eu/LC_MESSAGES/keystone.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fa/LC_MESSAGES/keystone.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fi_FI/LC_MESSAGES/keystone.po | 
- | [fil]({{< ref "/f21/language/fil.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fil/LC_MESSAGES/keystone.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fr/LC_MESSAGES/keystone.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/gl/LC_MESSAGES/keystone.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/he/LC_MESSAGES/keystone.po | 
- | [he_IL]({{< ref "/f21/language/he_IL.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/he_IL/LC_MESSAGES/keystone.po | 
- | [hi]({{< ref "/f21/language/hi.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/hi/LC_MESSAGES/keystone.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/hr/LC_MESSAGES/keystone.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/id/LC_MESSAGES/keystone.po | 
- | [is]({{< ref "/f21/language/is.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/is_IS/LC_MESSAGES/keystone.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ja/LC_MESSAGES/keystone.po | 
- | [km]({{< ref "/f21/language/km.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/km/LC_MESSAGES/keystone.po | 
- | [kn]({{< ref "/f21/language/kn.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/kn/LC_MESSAGES/keystone.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ko_KR/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ko/LC_MESSAGES/keystone.po | 
- | [ml]({{< ref "/f21/language/ml.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ml_IN/LC_MESSAGES/keystone.po | 
- | [mr]({{< ref "/f21/language/mr.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/mr_IN/LC_MESSAGES/keystone.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ms/LC_MESSAGES/keystone.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/nb/LC_MESSAGES/keystone.po | 
- | [ne]({{< ref "/f21/language/ne.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ne/LC_MESSAGES/keystone.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/nl_NL/LC_MESSAGES/keystone.po | 
- | [pa]({{< ref "/f21/language/pa.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pa_IN/LC_MESSAGES/keystone.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pl_PL/LC_MESSAGES/keystone.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pt/LC_MESSAGES/keystone.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pt_BR/LC_MESSAGES/keystone.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ro/LC_MESSAGES/keystone.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ru/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ru_RU/LC_MESSAGES/keystone.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sk/LC_MESSAGES/keystone.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sl_SI/LC_MESSAGES/keystone.po | 
- | [sq]({{< ref "/f21/language/sq.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sq/LC_MESSAGES/keystone.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sv/LC_MESSAGES/keystone.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ta/LC_MESSAGES/keystone.po | 
- | [te]({{< ref "/f21/language/te.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/te_IN/LC_MESSAGES/keystone.po | 
- | [tl]({{< ref "/f21/language/tl.md" >}}) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/tl_PH/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/tl/LC_MESSAGES/keystone.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/tr_TR/LC_MESSAGES/keystone.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/uk/LC_MESSAGES/keystone.po | 
- | [ur]({{< ref "/f21/language/ur.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ur/LC_MESSAGES/keystone.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/vi_VN/LC_MESSAGES/keystone.po | 
- | [zh_Hant_HK]({{< ref "/f21/language/zh_Hant_HK.md" >}}) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/zh_HK/LC_MESSAGES/keystone.po | 
+ | [de](/f21/language/de) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/de/LC_MESSAGES/keystone.po | 
+ | [es](/f21/language/es) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/es/LC_MESSAGES/keystone.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/zh_CN/LC_MESSAGES/keystone.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 223 | 2659 | 8.4 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/zh_TW/LC_MESSAGES/keystone.po | 
+ | [it](/f21/language/it) | 223 | 5318 | 4.2 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/it/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/it_IT/LC_MESSAGES/keystone.po | 
+ | [hu](/f21/language/hu) | 66 | 2659 | 2.5 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/hu/LC_MESSAGES/keystone.po | 
+ | [ka](/f21/language/ka) | 24 | 2659 | 0.9 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ka_GE/LC_MESSAGES/keystone.po | 
+ | [sr](/f21/language/sr) | 9 | 2659 | 0.3 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sr/LC_MESSAGES/keystone.po | 
+ | [ar](/f21/language/ar) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ar/LC_MESSAGES/keystone.po | 
+ | [bg](/f21/language/bg) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/bg_BG/LC_MESSAGES/keystone.po | 
+ | [bn_IN](/f21/language/bn_IN) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/bn_IN/LC_MESSAGES/keystone.po | 
+ | [bs](/f21/language/bs) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/bs/LC_MESSAGES/keystone.po | 
+ | [ca](/f21/language/ca) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ca/LC_MESSAGES/keystone.po | 
+ | [cs](/f21/language/cs) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/cs/LC_MESSAGES/keystone.po | 
+ | [da](/f21/language/da) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/da/LC_MESSAGES/keystone.po | 
+ | [el](/f21/language/el) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/el/LC_MESSAGES/keystone.po | 
+ | [en_AU](/f21/language/en_AU) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/en_AU/LC_MESSAGES/keystone.po | 
+ | [en_GB](/f21/language/en_GB) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/en_GB/LC_MESSAGES/keystone.po | 
+ | [en_US](/f21/language/en_US) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/en_US/LC_MESSAGES/keystone.po | 
+ | [error](/f21/language/error) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sw_KE/LC_MESSAGES/keystone.po | 
+ | [es_MX](/f21/language/es_MX) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/es_MX/LC_MESSAGES/keystone.po | 
+ | [eu](/f21/language/eu) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/eu_ES/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/eu/LC_MESSAGES/keystone.po | 
+ | [fa](/f21/language/fa) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fa/LC_MESSAGES/keystone.po | 
+ | [fi](/f21/language/fi) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fi_FI/LC_MESSAGES/keystone.po | 
+ | [fil](/f21/language/fil) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fil/LC_MESSAGES/keystone.po | 
+ | [fr](/f21/language/fr) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/fr/LC_MESSAGES/keystone.po | 
+ | [gl](/f21/language/gl) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/gl/LC_MESSAGES/keystone.po | 
+ | [he](/f21/language/he) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/he/LC_MESSAGES/keystone.po | 
+ | [he_IL](/f21/language/he_IL) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/he_IL/LC_MESSAGES/keystone.po | 
+ | [hi](/f21/language/hi) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/hi/LC_MESSAGES/keystone.po | 
+ | [hr](/f21/language/hr) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/hr/LC_MESSAGES/keystone.po | 
+ | [id](/f21/language/id) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/id/LC_MESSAGES/keystone.po | 
+ | [is](/f21/language/is) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/is_IS/LC_MESSAGES/keystone.po | 
+ | [ja](/f21/language/ja) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ja/LC_MESSAGES/keystone.po | 
+ | [km](/f21/language/km) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/km/LC_MESSAGES/keystone.po | 
+ | [kn](/f21/language/kn) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/kn/LC_MESSAGES/keystone.po | 
+ | [ko](/f21/language/ko) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ko_KR/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ko/LC_MESSAGES/keystone.po | 
+ | [ml](/f21/language/ml) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ml_IN/LC_MESSAGES/keystone.po | 
+ | [mr](/f21/language/mr) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/mr_IN/LC_MESSAGES/keystone.po | 
+ | [ms](/f21/language/ms) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ms/LC_MESSAGES/keystone.po | 
+ | [nb_NO](/f21/language/nb_NO) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/nb/LC_MESSAGES/keystone.po | 
+ | [ne](/f21/language/ne) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ne/LC_MESSAGES/keystone.po | 
+ | [nl](/f21/language/nl) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/nl_NL/LC_MESSAGES/keystone.po | 
+ | [pa](/f21/language/pa) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pa_IN/LC_MESSAGES/keystone.po | 
+ | [pl](/f21/language/pl) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pl_PL/LC_MESSAGES/keystone.po | 
+ | [pt](/f21/language/pt) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pt/LC_MESSAGES/keystone.po | 
+ | [pt_BR](/f21/language/pt_BR) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/pt_BR/LC_MESSAGES/keystone.po | 
+ | [ro](/f21/language/ro) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ro/LC_MESSAGES/keystone.po | 
+ | [ru](/f21/language/ru) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ru/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ru_RU/LC_MESSAGES/keystone.po | 
+ | [sk](/f21/language/sk) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sk/LC_MESSAGES/keystone.po | 
+ | [sl](/f21/language/sl) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sl_SI/LC_MESSAGES/keystone.po | 
+ | [sq](/f21/language/sq) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sq/LC_MESSAGES/keystone.po | 
+ | [sv](/f21/language/sv) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/sv/LC_MESSAGES/keystone.po | 
+ | [ta](/f21/language/ta) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ta/LC_MESSAGES/keystone.po | 
+ | [te](/f21/language/te) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/te_IN/LC_MESSAGES/keystone.po | 
+ | [tl](/f21/language/tl) | 0 | 5318 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/tl_PH/LC_MESSAGES/keystone.po/mnt/stockage/packages/f21/openstack-keystone/keystone/locale/tl/LC_MESSAGES/keystone.po | 
+ | [tr](/f21/language/tr) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/tr_TR/LC_MESSAGES/keystone.po | 
+ | [uk](/f21/language/uk) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/uk/LC_MESSAGES/keystone.po | 
+ | [ur](/f21/language/ur) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/ur/LC_MESSAGES/keystone.po | 
+ | [vi](/f21/language/vi) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/vi_VN/LC_MESSAGES/keystone.po | 
+ | [zh_Hant_HK](/f21/language/zh_Hant_HK) | 0 | 2659 | 0.0 | /mnt/stockage/packages/f21/openstack-keystone/keystone/locale/zh_HK/LC_MESSAGES/keystone.po | 
 {.sortable}
 
 

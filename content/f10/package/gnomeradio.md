@@ -18,50 +18,50 @@ The package gnomeradio (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f10/language/be.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/be.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/bg.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/dz.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/en_GB.po | 
- | [error]({{< ref "/f10/language/error.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/sr@Latn.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 2221 | 2221 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/help/es/es.po/mnt/stockage/packages/f10/gnomeradio/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/fi.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/he.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/hr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 413 | 413 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ja.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/lv.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/mk.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/mn.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ms.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/nl.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/pt_BR.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 396 | 396 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ru.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/sr.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 2212 | 2212 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/help/sv/sv.po/mnt/stockage/packages/f10/gnomeradio/po/sv.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/zh_TW.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 2194 | 2209 | 99.3 | /mnt/stockage/packages/f10/gnomeradio/help/fr/fr.po/mnt/stockage/packages/f10/gnomeradio/po/fr.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 426 | 443 | 96.2 | /mnt/stockage/packages/f10/gnomeradio/po/tr.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 381 | 443 | 86.0 | /mnt/stockage/packages/f10/gnomeradio/po/da.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 170 | 473 | 35.9 | /mnt/stockage/packages/f10/gnomeradio/po/pa.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 145 | 473 | 30.7 | /mnt/stockage/packages/f10/gnomeradio/po/nb.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 118 | 443 | 26.6 | /mnt/stockage/packages/f10/gnomeradio/po/sk.po | 
- | [am]({{< ref "/f10/language/am.md" >}}) | 38 | 443 | 8.6 | /mnt/stockage/packages/f10/gnomeradio/po/am.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 22 | 413 | 5.3 | /mnt/stockage/packages/f10/gnomeradio/po/ar.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 104 | 2212 | 4.7 | /mnt/stockage/packages/f10/gnomeradio/help/oc/oc.po/mnt/stockage/packages/f10/gnomeradio/po/oc.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 12 | 443 | 2.7 | /mnt/stockage/packages/f10/gnomeradio/po/az.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 11 | 443 | 2.5 | /mnt/stockage/packages/f10/gnomeradio/po/rw.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 7 | 443 | 1.6 | /mnt/stockage/packages/f10/gnomeradio/po/ml.po | 
+ | [be](/f10/language/be) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/be.po | 
+ | [bg](/f10/language/bg) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/bg.po | 
+ | [ca](/f10/language/ca) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ca.po | 
+ | [cs](/f10/language/cs) | 413 | 413 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/cs.po | 
+ | [de](/f10/language/de) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/de.po | 
+ | [dz](/f10/language/dz) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/dz.po | 
+ | [en_CA](/f10/language/en_CA) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/en_GB.po | 
+ | [error](/f10/language/error) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/sr@Latn.po | 
+ | [es](/f10/language/es) | 2221 | 2221 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/help/es/es.po/mnt/stockage/packages/f10/gnomeradio/po/es.po | 
+ | [eu](/f10/language/eu) | 413 | 413 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/eu.po | 
+ | [fi](/f10/language/fi) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/fi.po | 
+ | [he](/f10/language/he) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/he.po | 
+ | [hr](/f10/language/hr) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/hr.po | 
+ | [hu](/f10/language/hu) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/hu.po | 
+ | [it](/f10/language/it) | 413 | 413 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/it.po | 
+ | [ja](/f10/language/ja) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ja.po | 
+ | [lv](/f10/language/lv) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/lv.po | 
+ | [mk](/f10/language/mk) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/mk.po | 
+ | [mn](/f10/language/mn) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/mn.po | 
+ | [ms](/f10/language/ms) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ms.po | 
+ | [nl](/f10/language/nl) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/nl.po | 
+ | [pl](/f10/language/pl) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/pl.po | 
+ | [pt](/f10/language/pt) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/pt_BR.po | 
+ | [ru](/f10/language/ru) | 396 | 396 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/ru.po | 
+ | [sr](/f10/language/sr) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/sr.po | 
+ | [sv](/f10/language/sv) | 2212 | 2212 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/help/sv/sv.po/mnt/stockage/packages/f10/gnomeradio/po/sv.po | 
+ | [uk](/f10/language/uk) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/uk.po | 
+ | [vi](/f10/language/vi) | 401 | 401 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 443 | 443 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 473 | 473 | 100.0 | /mnt/stockage/packages/f10/gnomeradio/po/zh_TW.po | 
+ | [fr](/f10/language/fr) | 2194 | 2209 | 99.3 | /mnt/stockage/packages/f10/gnomeradio/help/fr/fr.po/mnt/stockage/packages/f10/gnomeradio/po/fr.po | 
+ | [tr](/f10/language/tr) | 426 | 443 | 96.2 | /mnt/stockage/packages/f10/gnomeradio/po/tr.po | 
+ | [da](/f10/language/da) | 381 | 443 | 86.0 | /mnt/stockage/packages/f10/gnomeradio/po/da.po | 
+ | [pa](/f10/language/pa) | 170 | 473 | 35.9 | /mnt/stockage/packages/f10/gnomeradio/po/pa.po | 
+ | [nb_NO](/f10/language/nb_NO) | 145 | 473 | 30.7 | /mnt/stockage/packages/f10/gnomeradio/po/nb.po | 
+ | [sk](/f10/language/sk) | 118 | 443 | 26.6 | /mnt/stockage/packages/f10/gnomeradio/po/sk.po | 
+ | [am](/f10/language/am) | 38 | 443 | 8.6 | /mnt/stockage/packages/f10/gnomeradio/po/am.po | 
+ | [ar](/f10/language/ar) | 22 | 413 | 5.3 | /mnt/stockage/packages/f10/gnomeradio/po/ar.po | 
+ | [oc](/f10/language/oc) | 104 | 2212 | 4.7 | /mnt/stockage/packages/f10/gnomeradio/help/oc/oc.po/mnt/stockage/packages/f10/gnomeradio/po/oc.po | 
+ | [az](/f10/language/az) | 12 | 443 | 2.7 | /mnt/stockage/packages/f10/gnomeradio/po/az.po | 
+ | [rw](/f10/language/rw) | 11 | 443 | 2.5 | /mnt/stockage/packages/f10/gnomeradio/po/rw.po | 
+ | [ml](/f10/language/ml) | 7 | 443 | 1.6 | /mnt/stockage/packages/f10/gnomeradio/po/ml.po | 
 {.sortable}
 
 

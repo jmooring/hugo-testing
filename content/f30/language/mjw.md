@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gspell]({{< ref "/f30/package/gspell.md" >}}) | 39 | 78 | 50.0 | Karbi <mjw@li.org> | 
- | [shotwell]({{< ref "/f30/package/shotwell.md" >}}) | 462 | 6828 | 6.8 | Karbi <karbi.translation@gmail.com> | 
+ | [gspell](/f30/package/gspell) | 39 | 78 | 50.0 | Karbi <mjw@li.org> | 
+ | [shotwell](/f30/package/shotwell) | 462 | 6828 | 6.8 | Karbi <karbi.translation@gmail.com> | 
 {.sortable}
 
 

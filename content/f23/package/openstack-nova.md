@@ -18,10 +18,10 @@ The package openstack-nova (version 2015.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f23/language/it.md" >}}) | 2915 | 3645 | 80.0 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/it/LC_MESSAGES/nova-log-error.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/it/LC_MESSAGES/nova-log-info.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 11357 | 16006 | 71.0 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-critical.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-error.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-info.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-warning.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 8900 | 12935 | 68.8 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova-log-critical.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova-log-error.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova-log-info.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1115 | 1713 | 65.1 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova-log-critical.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova-log-info.po | 
+ | [it](/f23/language/it) | 2915 | 3645 | 80.0 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/it/LC_MESSAGES/nova-log-error.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/it/LC_MESSAGES/nova-log-info.po | 
+ | [es](/f23/language/es) | 11357 | 16006 | 71.0 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-critical.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-error.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-info.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova-log-warning.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/es/LC_MESSAGES/nova.po | 
+ | [fr](/f23/language/fr) | 8900 | 12935 | 68.8 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova-log-critical.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova-log-error.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova-log-info.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/fr/LC_MESSAGES/nova.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1115 | 1713 | 65.1 | /mnt/stockage/packages/f23/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova-log-critical.po/mnt/stockage/packages/f23/openstack-nova/nova/locale/zh_CN/LC_MESSAGES/nova-log-info.po | 
 {.sortable}
 
 

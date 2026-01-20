@@ -18,14 +18,14 @@ The package quitcount (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f12/language/ast.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/ast.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/fr.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/he.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/hu.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/it.po | 
+ | [ast](/f12/language/ast) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/ast.po | 
+ | [cs](/f12/language/cs) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/cs.po | 
+ | [de](/f12/language/de) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/de.po | 
+ | [es](/f12/language/es) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/es.po | 
+ | [fr](/f12/language/fr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/fr.po | 
+ | [he](/f12/language/he) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/he.po | 
+ | [hu](/f12/language/hu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/hu.po | 
+ | [it](/f12/language/it) | 166 | 166 | 100.0 | /mnt/stockage/packages/f12/quitcount/po/it.po | 
 {.sortable}
 
 

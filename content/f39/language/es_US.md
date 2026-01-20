@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [budgie-desktop]({{< ref "/f39/package/budgie-desktop.md" >}}) | 1201 | 1220 | 98.4 | Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/> | 
- | [duplicity]({{< ref "/f39/package/duplicity.md" >}}) | 1509 | 2433 | 62.0 | Spanish, United States | 
- | [visualboyadvance-m]({{< ref "/f39/package/visualboyadvance-m.md" >}}) | 1472 | 3166 | 46.5 | Spanish (United States) (http://app.transifex.com/bgk/vba-m/language/es_US/) | 
- | [libmatekbd]({{< ref "/f39/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-menu]({{< ref "/f39/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-themes]({{< ref "/f39/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/) | 
+ | [budgie-desktop](/f39/package/budgie-desktop) | 1201 | 1220 | 98.4 | Spanish (American) <http://translate.getsol.us/projects/budgie-desktop/translations/es_US/> | 
+ | [duplicity](/f39/package/duplicity) | 1509 | 2433 | 62.0 | Spanish, United States | 
+ | [visualboyadvance-m](/f39/package/visualboyadvance-m) | 1472 | 3166 | 46.5 | Spanish (United States) (http://app.transifex.com/bgk/vba-m/language/es_US/) | 
+ | [libmatekbd](/f39/package/libmatekbd) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-menu](/f39/package/mate-menu) | 0 | 308 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-themes](/f39/package/mate-themes) | 0 | 74 | 0.0 | Spanish (United States) (http://app.transifex.com/mate/MATE/language/es_US/) | 
 {.sortable}
 
 

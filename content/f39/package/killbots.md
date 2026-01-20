@@ -18,60 +18,60 @@ The package killbots (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ca/killbots.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ca@valencia/killbots.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/de/killbots.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/el/killbots.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/en_GB/killbots.po | 
- | [eo]({{< ref "/f39/language/eo.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/eo/killbots.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/es/killbots.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/eu/killbots.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/fi/killbots.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/fr/killbots.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/gl/killbots.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/it/killbots.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ka/killbots.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ko/killbots.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/nl/killbots.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/nn/killbots.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/pl/killbots.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/pt/killbots.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/pt_BR/killbots.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ru/killbots.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/sk/killbots.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/sl/killbots.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/sv/killbots.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/tr/killbots.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/uk/killbots.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/zh_CN/killbots.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 633 | 637 | 99.4 | /mnt/stockage/packages/f39/killbots/po/et/killbots.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/da/killbots.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/id/killbots.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr/killbots.po | 
- | [sr@ijekavian]({{< ref "/f39/language/sr@ijekavian.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr@ijekavian/killbots.po | 
- | [sr@ijekavian_Latn]({{< ref "/f39/language/sr@ijekavian_Latn.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr@ijekavianlatin/killbots.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr@latin/killbots.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/zh_TW/killbots.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/bs/killbots.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/hu/killbots.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/kk/killbots.po | 
- | [km]({{< ref "/f39/language/km.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/km/killbots.po | 
- | [lv]({{< ref "/f39/language/lv.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/lv/killbots.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/nb/killbots.po | 
- | [nds]({{< ref "/f39/language/nds.md" >}}) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/nds/killbots.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 400 | 637 | 62.8 | /mnt/stockage/packages/f39/killbots/po/cs/killbots.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 248 | 637 | 38.9 | /mnt/stockage/packages/f39/killbots/po/ro/killbots.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 61 | 637 | 9.6 | /mnt/stockage/packages/f39/killbots/po/ar/killbots.po | 
- | [ga]({{< ref "/f39/language/ga.md" >}}) | 36 | 637 | 5.7 | /mnt/stockage/packages/f39/killbots/po/ga/killbots.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 29 | 637 | 4.6 | /mnt/stockage/packages/f39/killbots/po/lt/killbots.po | 
- | [ug]({{< ref "/f39/language/ug.md" >}}) | 11 | 637 | 1.7 | /mnt/stockage/packages/f39/killbots/po/ug/killbots.po | 
- | [mai]({{< ref "/f39/language/mai.md" >}}) | 8 | 637 | 1.3 | /mnt/stockage/packages/f39/killbots/po/mai/killbots.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 7 | 637 | 1.1 | /mnt/stockage/packages/f39/killbots/po/mr/killbots.po | 
- | [ml]({{< ref "/f39/language/ml.md" >}}) | 2 | 637 | 0.3 | /mnt/stockage/packages/f39/killbots/po/ml/killbots.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/bg/killbots.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/hr/killbots.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/is/killbots.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/ja/killbots.po | 
+ | [ca](/f39/language/ca) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ca/killbots.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ca@valencia/killbots.po | 
+ | [de](/f39/language/de) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/de/killbots.po | 
+ | [el](/f39/language/el) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/el/killbots.po | 
+ | [en_GB](/f39/language/en_GB) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/en_GB/killbots.po | 
+ | [eo](/f39/language/eo) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/eo/killbots.po | 
+ | [es](/f39/language/es) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/es/killbots.po | 
+ | [eu](/f39/language/eu) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/eu/killbots.po | 
+ | [fi](/f39/language/fi) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/fi/killbots.po | 
+ | [fr](/f39/language/fr) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/fr/killbots.po | 
+ | [gl](/f39/language/gl) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/gl/killbots.po | 
+ | [it](/f39/language/it) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/it/killbots.po | 
+ | [ka](/f39/language/ka) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ka/killbots.po | 
+ | [ko](/f39/language/ko) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ko/killbots.po | 
+ | [nl](/f39/language/nl) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/nl/killbots.po | 
+ | [nn](/f39/language/nn) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/nn/killbots.po | 
+ | [pl](/f39/language/pl) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/pl/killbots.po | 
+ | [pt](/f39/language/pt) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/pt/killbots.po | 
+ | [pt_BR](/f39/language/pt_BR) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/pt_BR/killbots.po | 
+ | [ru](/f39/language/ru) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/ru/killbots.po | 
+ | [sk](/f39/language/sk) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/sk/killbots.po | 
+ | [sl](/f39/language/sl) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/sl/killbots.po | 
+ | [sv](/f39/language/sv) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/sv/killbots.po | 
+ | [tr](/f39/language/tr) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/tr/killbots.po | 
+ | [uk](/f39/language/uk) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/uk/killbots.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 637 | 637 | 100.0 | /mnt/stockage/packages/f39/killbots/po/zh_CN/killbots.po | 
+ | [et](/f39/language/et) | 633 | 637 | 99.4 | /mnt/stockage/packages/f39/killbots/po/et/killbots.po | 
+ | [da](/f39/language/da) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/da/killbots.po | 
+ | [id](/f39/language/id) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/id/killbots.po | 
+ | [sr](/f39/language/sr) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr/killbots.po | 
+ | [sr@ijekavian](/f39/language/sr@ijekavian) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr@ijekavian/killbots.po | 
+ | [sr@ijekavian_Latn](/f39/language/sr@ijekavian_Latn) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr@ijekavianlatin/killbots.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/sr@latin/killbots.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 444 | 637 | 69.7 | /mnt/stockage/packages/f39/killbots/po/zh_TW/killbots.po | 
+ | [bs](/f39/language/bs) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/bs/killbots.po | 
+ | [hu](/f39/language/hu) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/hu/killbots.po | 
+ | [kk](/f39/language/kk) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/kk/killbots.po | 
+ | [km](/f39/language/km) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/km/killbots.po | 
+ | [lv](/f39/language/lv) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/lv/killbots.po | 
+ | [nb_NO](/f39/language/nb_NO) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/nb/killbots.po | 
+ | [nds](/f39/language/nds) | 430 | 637 | 67.5 | /mnt/stockage/packages/f39/killbots/po/nds/killbots.po | 
+ | [cs](/f39/language/cs) | 400 | 637 | 62.8 | /mnt/stockage/packages/f39/killbots/po/cs/killbots.po | 
+ | [ro](/f39/language/ro) | 248 | 637 | 38.9 | /mnt/stockage/packages/f39/killbots/po/ro/killbots.po | 
+ | [ar](/f39/language/ar) | 61 | 637 | 9.6 | /mnt/stockage/packages/f39/killbots/po/ar/killbots.po | 
+ | [ga](/f39/language/ga) | 36 | 637 | 5.7 | /mnt/stockage/packages/f39/killbots/po/ga/killbots.po | 
+ | [lt](/f39/language/lt) | 29 | 637 | 4.6 | /mnt/stockage/packages/f39/killbots/po/lt/killbots.po | 
+ | [ug](/f39/language/ug) | 11 | 637 | 1.7 | /mnt/stockage/packages/f39/killbots/po/ug/killbots.po | 
+ | [mai](/f39/language/mai) | 8 | 637 | 1.3 | /mnt/stockage/packages/f39/killbots/po/mai/killbots.po | 
+ | [mr](/f39/language/mr) | 7 | 637 | 1.1 | /mnt/stockage/packages/f39/killbots/po/mr/killbots.po | 
+ | [ml](/f39/language/ml) | 2 | 637 | 0.3 | /mnt/stockage/packages/f39/killbots/po/ml/killbots.po | 
+ | [bg](/f39/language/bg) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/bg/killbots.po | 
+ | [hr](/f39/language/hr) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/hr/killbots.po | 
+ | [is](/f39/language/is) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/is/killbots.po | 
+ | [ja](/f39/language/ja) | 0 | 637 | 0.0 | /mnt/stockage/packages/f39/killbots/po/ja/killbots.po | 
 {.sortable}
 
 

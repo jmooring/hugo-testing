@@ -39,23 +39,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [islamic-menus]({{< ref "/f19/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
- | [whaawmp]({{< ref "/f19/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
- | [terminator]({{< ref "/f19/package/terminator.md" >}}) | 270 | 726 | 37.2 | Javanese <jv@li.org> | 
- | [jmol]({{< ref "/f19/package/jmol.md" >}}) | 160 | 1694 | 9.4 | Javanese <jv@li.org> | 
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 540 | 9353 | 5.8 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f19/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [pychess]({{< ref "/f19/package/pychess.md" >}}) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f19/package/gmpc.md" >}}) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
- | [widelands]({{< ref "/f19/package/widelands.md" >}}) | 38 | 2637 | 1.4 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f19/package/backintime.md" >}}) | 13 | 1492 | 0.9 | Javanese <jv@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 26 | 7225 | 0.4 | Javanese (http://www.transifex.com/projects/p/owncloud/language/jv/) | 
- | [tortoisehg]({{< ref "/f19/package/tortoisehg.md" >}}) | 30 | 11954 | 0.3 | Javanese <jv@li.org> | 
- | [calibre]({{< ref "/f19/package/calibre.md" >}}) | 105 | 51101 | 0.2 | Javanese <jv@li.org> | 
- | [edgar]({{< ref "/f19/package/edgar.md" >}}) | 1 | 11475 | 0.0 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f19/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [vidalia]({{< ref "/f19/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f19/package/viking.md" >}}) | 0 | 4135 | 0.0 | Javanese <jv@li.org> | 
+ | [islamic-menus](/f19/package/islamic-menus) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
+ | [whaawmp](/f19/package/whaawmp) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
+ | [terminator](/f19/package/terminator) | 270 | 726 | 37.2 | Javanese <jv@li.org> | 
+ | [jmol](/f19/package/jmol) | 160 | 1694 | 9.4 | Javanese <jv@li.org> | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 540 | 9353 | 5.8 | Javanese <jv@li.org> | 
+ | [gnome-do](/f19/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [pychess](/f19/package/pychess) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
+ | [gmpc](/f19/package/gmpc) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
+ | [widelands](/f19/package/widelands) | 38 | 2637 | 1.4 | Javanese <jv@li.org> | 
+ | [backintime](/f19/package/backintime) | 13 | 1492 | 0.9 | Javanese <jv@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 26 | 7225 | 0.4 | Javanese (http://www.transifex.com/projects/p/owncloud/language/jv/) | 
+ | [tortoisehg](/f19/package/tortoisehg) | 30 | 11954 | 0.3 | Javanese <jv@li.org> | 
+ | [calibre](/f19/package/calibre) | 105 | 51101 | 0.2 | Javanese <jv@li.org> | 
+ | [edgar](/f19/package/edgar) | 1 | 11475 | 0.0 | Javanese <jv@li.org> | 
+ | [ailurus](/f19/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [vidalia](/f19/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f19/package/viking) | 0 | 4135 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

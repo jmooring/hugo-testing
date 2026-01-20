@@ -18,10 +18,10 @@ The package pdf2djvu (version 0.7.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.de.po/mnt/stockage/packages/f19/pdf2djvu/po/de.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.pl.po/mnt/stockage/packages/f19/pdf2djvu/po/pl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.ru.po/mnt/stockage/packages/f19/pdf2djvu/po/ru.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.uk.po/mnt/stockage/packages/f19/pdf2djvu/po/uk.po | 
+ | [de](/f19/language/de) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.de.po/mnt/stockage/packages/f19/pdf2djvu/po/de.po | 
+ | [pl](/f19/language/pl) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.pl.po/mnt/stockage/packages/f19/pdf2djvu/po/pl.po | 
+ | [ru](/f19/language/ru) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.ru.po/mnt/stockage/packages/f19/pdf2djvu/po/ru.po | 
+ | [uk](/f19/language/uk) | 1766 | 1766 | 100.0 | /mnt/stockage/packages/f19/pdf2djvu/doc/po/pdf2djvu.uk.po/mnt/stockage/packages/f19/pdf2djvu/po/uk.po | 
 {.sortable}
 
 

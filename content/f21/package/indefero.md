@@ -18,15 +18,15 @@ The package indefero (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 7127 | 7127 | 100.0 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/de/idf.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 7127 | 7127 | 100.0 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/fr/idf.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 4675 | 7127 | 65.6 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/es_ES/idf.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 4156 | 7127 | 58.3 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/ru/idf.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1227 | 7127 | 17.2 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/zh_CN/idf.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 504 | 7127 | 7.1 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/cs/idf.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 324 | 7127 | 4.5 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/sl/idf.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 113 | 7127 | 1.6 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/tr/idf.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 101 | 7127 | 1.4 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/pt_BR/idf.po | 
+ | [de](/f21/language/de) | 7127 | 7127 | 100.0 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/de/idf.po | 
+ | [fr](/f21/language/fr) | 7127 | 7127 | 100.0 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/fr/idf.po | 
+ | [es](/f21/language/es) | 4675 | 7127 | 65.6 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/es_ES/idf.po | 
+ | [ru](/f21/language/ru) | 4156 | 7127 | 58.3 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/ru/idf.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1227 | 7127 | 17.2 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/zh_CN/idf.po | 
+ | [cs](/f21/language/cs) | 504 | 7127 | 7.1 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/cs/idf.po | 
+ | [sl](/f21/language/sl) | 324 | 7127 | 4.5 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/sl/idf.po | 
+ | [tr](/f21/language/tr) | 113 | 7127 | 1.6 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/tr/idf.po | 
+ | [pt_BR](/f21/language/pt_BR) | 101 | 7127 | 1.4 | /mnt/stockage/packages/f21/indefero/src/IDF/locale/pt_BR/idf.po | 
 {.sortable}
 
 

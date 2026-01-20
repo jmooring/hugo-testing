@@ -18,31 +18,31 @@ The package ibus-typing-booster (version 2.22.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/de.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ka.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/pl.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/uk.po | 
- | [sw]({{< ref "/f36/language/sw.md" >}}) | 2012 | 2014 | 99.9 | /mnt/stockage/packages/f36/ibus-typing-booster/po/sw.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 1986 | 2014 | 98.6 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ar.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 1986 | 2014 | 98.6 | /mnt/stockage/packages/f36/ibus-typing-booster/po/bn.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 1953 | 2014 | 97.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/pt.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 1909 | 2014 | 94.8 | /mnt/stockage/packages/f36/ibus-typing-booster/po/fr.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 1814 | 2014 | 90.1 | /mnt/stockage/packages/f36/ibus-typing-booster/po/es.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 1780 | 2014 | 88.4 | /mnt/stockage/packages/f36/ibus-typing-booster/po/it.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 1777 | 2014 | 88.2 | /mnt/stockage/packages/f36/ibus-typing-booster/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 1741 | 2014 | 86.4 | /mnt/stockage/packages/f36/ibus-typing-booster/po/zh_CN.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 1729 | 2014 | 85.8 | /mnt/stockage/packages/f36/ibus-typing-booster/po/he.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 1698 | 2014 | 84.3 | /mnt/stockage/packages/f36/ibus-typing-booster/po/cs.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 470 | 2014 | 23.3 | /mnt/stockage/packages/f36/ibus-typing-booster/po/hu.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 457 | 2014 | 22.7 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ca.po | 
- | [or]({{< ref "/f36/language/or.md" >}}) | 457 | 2014 | 22.7 | /mnt/stockage/packages/f36/ibus-typing-booster/po/or.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 207 | 2014 | 10.3 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ja.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 41 | 2014 | 2.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/zh_TW.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 13 | 2014 | 0.6 | /mnt/stockage/packages/f36/ibus-typing-booster/po/fa.po | 
- | [si]({{< ref "/f36/language/si.md" >}}) | 2 | 2014 | 0.1 | /mnt/stockage/packages/f36/ibus-typing-booster/po/si.po | 
+ | [de](/f36/language/de) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/de.po | 
+ | [ka](/f36/language/ka) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ka.po | 
+ | [nl](/f36/language/nl) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/nl.po | 
+ | [pl](/f36/language/pl) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/pl.po | 
+ | [sv](/f36/language/sv) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/sv.po | 
+ | [tr](/f36/language/tr) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/tr.po | 
+ | [uk](/f36/language/uk) | 2014 | 2014 | 100.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/uk.po | 
+ | [sw](/f36/language/sw) | 2012 | 2014 | 99.9 | /mnt/stockage/packages/f36/ibus-typing-booster/po/sw.po | 
+ | [ar](/f36/language/ar) | 1986 | 2014 | 98.6 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ar.po | 
+ | [bn](/f36/language/bn) | 1986 | 2014 | 98.6 | /mnt/stockage/packages/f36/ibus-typing-booster/po/bn.po | 
+ | [pt](/f36/language/pt) | 1953 | 2014 | 97.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/pt.po | 
+ | [fr](/f36/language/fr) | 1909 | 2014 | 94.8 | /mnt/stockage/packages/f36/ibus-typing-booster/po/fr.po | 
+ | [es](/f36/language/es) | 1814 | 2014 | 90.1 | /mnt/stockage/packages/f36/ibus-typing-booster/po/es.po | 
+ | [it](/f36/language/it) | 1780 | 2014 | 88.4 | /mnt/stockage/packages/f36/ibus-typing-booster/po/it.po | 
+ | [pt_BR](/f36/language/pt_BR) | 1777 | 2014 | 88.2 | /mnt/stockage/packages/f36/ibus-typing-booster/po/pt_BR.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 1741 | 2014 | 86.4 | /mnt/stockage/packages/f36/ibus-typing-booster/po/zh_CN.po | 
+ | [he](/f36/language/he) | 1729 | 2014 | 85.8 | /mnt/stockage/packages/f36/ibus-typing-booster/po/he.po | 
+ | [cs](/f36/language/cs) | 1698 | 2014 | 84.3 | /mnt/stockage/packages/f36/ibus-typing-booster/po/cs.po | 
+ | [hu](/f36/language/hu) | 470 | 2014 | 23.3 | /mnt/stockage/packages/f36/ibus-typing-booster/po/hu.po | 
+ | [ca](/f36/language/ca) | 457 | 2014 | 22.7 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ca.po | 
+ | [or](/f36/language/or) | 457 | 2014 | 22.7 | /mnt/stockage/packages/f36/ibus-typing-booster/po/or.po | 
+ | [ja](/f36/language/ja) | 207 | 2014 | 10.3 | /mnt/stockage/packages/f36/ibus-typing-booster/po/ja.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 41 | 2014 | 2.0 | /mnt/stockage/packages/f36/ibus-typing-booster/po/zh_TW.po | 
+ | [fa](/f36/language/fa) | 13 | 2014 | 0.6 | /mnt/stockage/packages/f36/ibus-typing-booster/po/fa.po | 
+ | [si](/f36/language/si) | 2 | 2014 | 0.1 | /mnt/stockage/packages/f36/ibus-typing-booster/po/si.po | 
 {.sortable}
 
 

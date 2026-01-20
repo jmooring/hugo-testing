@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f25/package/iso-codes.md" >}}) | 387 | 15707 | 2.5 | Geez | 
+ | [iso-codes](/f25/package/iso-codes) | 387 | 15707 | 2.5 | Geez | 
 {.sortable}
 
 

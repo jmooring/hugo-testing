@@ -18,10 +18,10 @@ The package systemtap (version 5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 4403 | 10209 | 43.1 | /mnt/stockage/packages/f43/systemtap/po/cs.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 832 | 10209 | 8.1 | /mnt/stockage/packages/f43/systemtap/po/fr.po | 
- | [en]({{< ref "/f43/language/en.md" >}}) | 224 | 10209 | 2.2 | /mnt/stockage/packages/f43/systemtap/po/en.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 0 | 10209 | 0.0 | /mnt/stockage/packages/f43/systemtap/po/pl.po | 
+ | [cs](/f43/language/cs) | 4403 | 10209 | 43.1 | /mnt/stockage/packages/f43/systemtap/po/cs.po | 
+ | [fr](/f43/language/fr) | 832 | 10209 | 8.1 | /mnt/stockage/packages/f43/systemtap/po/fr.po | 
+ | [en](/f43/language/en) | 224 | 10209 | 2.2 | /mnt/stockage/packages/f43/systemtap/po/en.po | 
+ | [pl](/f43/language/pl) | 0 | 10209 | 0.0 | /mnt/stockage/packages/f43/systemtap/po/pl.po | 
 {.sortable}
 
 

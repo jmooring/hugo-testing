@@ -18,9 +18,9 @@ The package golang-deepin-go-lib (version 6.0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/ar.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 8 | 8 | 100.0 | /mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/plural/es.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/zh_CN.po/mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/plural/zh_CN.po | 
+ | [ar](/f42/language/ar) | 86 | 86 | 100.0 | /mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/ar.po | 
+ | [es](/f42/language/es) | 8 | 8 | 100.0 | /mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/plural/es.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 94 | 94 | 100.0 | /mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/zh_CN.po/mnt/stockage/packages/f42/golang-deepin-go-lib/gettext/testdata/plural/zh_CN.po | 
 {.sortable}
 
 

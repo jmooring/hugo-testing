@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [virtaal]({{< ref "/f11/package/virtaal.md" >}}) | 1308 | 1309 | 99.9 | LANGUAGE <LL@li.org> | 
+ | [virtaal](/f11/package/virtaal) | 1308 | 1309 | 99.9 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [jokosher]({{< ref "/f13/package/jokosher.md" >}}) | 405 | 2059 | 19.7 | Achinese <ace@li.org> | 
+ | [jokosher](/f13/package/jokosher) | 405 | 2059 | 19.7 | Achinese <ace@li.org> | 
 {.sortable}
 
 

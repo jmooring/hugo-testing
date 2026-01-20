@@ -18,19 +18,19 @@ The package xfpanel-switch (version 1.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/el.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/es.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/fi.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/fr.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/ja.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/lt.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/nl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/pt.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/sv.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 58 | 62 | 93.5 | /mnt/stockage/packages/f23/xfpanel-switch/po/sr.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 38 | 62 | 61.3 | /mnt/stockage/packages/f23/xfpanel-switch/po/ru.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 0 | 62 | 0.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/cs.po | 
+ | [de](/f23/language/de) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/de.po | 
+ | [el](/f23/language/el) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/el.po | 
+ | [es](/f23/language/es) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/es.po | 
+ | [fi](/f23/language/fi) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/fi.po | 
+ | [fr](/f23/language/fr) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/fr.po | 
+ | [ja](/f23/language/ja) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/ja.po | 
+ | [lt](/f23/language/lt) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/lt.po | 
+ | [nl](/f23/language/nl) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/nl.po | 
+ | [pt](/f23/language/pt) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/pt.po | 
+ | [sv](/f23/language/sv) | 62 | 62 | 100.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/sv.po | 
+ | [sr](/f23/language/sr) | 58 | 62 | 93.5 | /mnt/stockage/packages/f23/xfpanel-switch/po/sr.po | 
+ | [ru](/f23/language/ru) | 38 | 62 | 61.3 | /mnt/stockage/packages/f23/xfpanel-switch/po/ru.po | 
+ | [cs](/f23/language/cs) | 0 | 62 | 0.0 | /mnt/stockage/packages/f23/xfpanel-switch/po/cs.po | 
 {.sortable}
 
 

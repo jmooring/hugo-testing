@@ -18,8 +18,8 @@ The package openstack-swift (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f23/openstack-swift/test/unit/test_locale/eo.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1321 | 1540 | 85.8 | /mnt/stockage/packages/f23/openstack-swift/swift/locale/zh_CN/LC_MESSAGES/swift.po | 
+ | [eo](/f23/language/eo) | 2 | 2 | 100.0 | /mnt/stockage/packages/f23/openstack-swift/test/unit/test_locale/eo.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1321 | 1540 | 85.8 | /mnt/stockage/packages/f23/openstack-swift/swift/locale/zh_CN/LC_MESSAGES/swift.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package ganyremote (version 7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 503 | 517 | 97.3 | /mnt/stockage/packages/f29/ganyremote/po/ru_RU.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/bg.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/de_DE.po | 
- | [de_AT]({{< ref "/f29/language/de_AT.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/de_AT.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/el_GR.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/es_ES.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/fr_FR.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 494 | 517 | 95.6 | /mnt/stockage/packages/f29/ganyremote/po/sk_SK.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 485 | 517 | 93.8 | /mnt/stockage/packages/f29/ganyremote/po/hu_HU.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 485 | 517 | 93.8 | /mnt/stockage/packages/f29/ganyremote/po/it_IT.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 485 | 517 | 93.8 | /mnt/stockage/packages/f29/ganyremote/po/pl_PL.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 480 | 517 | 92.8 | /mnt/stockage/packages/f29/ganyremote/po/sv_SE.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 460 | 517 | 89.0 | /mnt/stockage/packages/f29/ganyremote/po/fi_FI.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 451 | 517 | 87.2 | /mnt/stockage/packages/f29/ganyremote/po/cs_CZ.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 441 | 517 | 85.3 | /mnt/stockage/packages/f29/ganyremote/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 391 | 517 | 75.6 | /mnt/stockage/packages/f29/ganyremote/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 503 | 517 | 97.3 | /mnt/stockage/packages/f29/ganyremote/po/ru_RU.po | 
+ | [bg](/f29/language/bg) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/bg.po | 
+ | [de](/f29/language/de) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/de_DE.po | 
+ | [de_AT](/f29/language/de_AT) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/de_AT.po | 
+ | [el](/f29/language/el) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/el_GR.po | 
+ | [es](/f29/language/es) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/es_ES.po | 
+ | [fr](/f29/language/fr) | 495 | 517 | 95.7 | /mnt/stockage/packages/f29/ganyremote/po/fr_FR.po | 
+ | [sk](/f29/language/sk) | 494 | 517 | 95.6 | /mnt/stockage/packages/f29/ganyremote/po/sk_SK.po | 
+ | [hu](/f29/language/hu) | 485 | 517 | 93.8 | /mnt/stockage/packages/f29/ganyremote/po/hu_HU.po | 
+ | [it](/f29/language/it) | 485 | 517 | 93.8 | /mnt/stockage/packages/f29/ganyremote/po/it_IT.po | 
+ | [pl](/f29/language/pl) | 485 | 517 | 93.8 | /mnt/stockage/packages/f29/ganyremote/po/pl_PL.po | 
+ | [sv](/f29/language/sv) | 480 | 517 | 92.8 | /mnt/stockage/packages/f29/ganyremote/po/sv_SE.po | 
+ | [fi](/f29/language/fi) | 460 | 517 | 89.0 | /mnt/stockage/packages/f29/ganyremote/po/fi_FI.po | 
+ | [cs](/f29/language/cs) | 451 | 517 | 87.2 | /mnt/stockage/packages/f29/ganyremote/po/cs_CZ.po | 
+ | [nl](/f29/language/nl) | 441 | 517 | 85.3 | /mnt/stockage/packages/f29/ganyremote/po/nl_NL.po | 
+ | [pt_BR](/f29/language/pt_BR) | 391 | 517 | 75.6 | /mnt/stockage/packages/f29/ganyremote/po/pt_BR.po | 
 {.sortable}
 
 

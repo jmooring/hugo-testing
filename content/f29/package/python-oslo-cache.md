@@ -18,17 +18,17 @@ The package python-oslo-cache (version 1.28.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 111 | 111 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/de/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/de/LC_MESSAGES/releasenotes.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/en_GB/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/es/LC_MESSAGES/oslo_cache.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/fr/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/it/LC_MESSAGES/oslo_cache.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/ko_KR/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/ko_KR/LC_MESSAGES/releasenotes.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/pt_BR/LC_MESSAGES/oslo_cache.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/ru/LC_MESSAGES/oslo_cache.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/tr_TR/LC_MESSAGES/oslo_cache.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/zh_CN/LC_MESSAGES/oslo_cache.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/zh_TW/LC_MESSAGES/oslo_cache.po | 
+ | [de](/f29/language/de) | 111 | 111 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/de/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/de/LC_MESSAGES/releasenotes.po | 
+ | [en_GB](/f29/language/en_GB) | 115 | 115 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/en_GB/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f29/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/es/LC_MESSAGES/oslo_cache.po | 
+ | [fr](/f29/language/fr) | 86 | 86 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/fr/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [it](/f29/language/it) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/it/LC_MESSAGES/oslo_cache.po | 
+ | [ko](/f29/language/ko) | 115 | 115 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/ko_KR/LC_MESSAGES/oslo_cache.po/mnt/stockage/packages/f29/python-oslo-cache/releasenotes/source/locale/ko_KR/LC_MESSAGES/releasenotes.po | 
+ | [pt_BR](/f29/language/pt_BR) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/pt_BR/LC_MESSAGES/oslo_cache.po | 
+ | [ru](/f29/language/ru) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/ru/LC_MESSAGES/oslo_cache.po | 
+ | [tr](/f29/language/tr) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/tr_TR/LC_MESSAGES/oslo_cache.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/zh_CN/LC_MESSAGES/oslo_cache.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 65 | 65 | 100.0 | /mnt/stockage/packages/f29/python-oslo-cache/oslo_cache/locale/zh_TW/LC_MESSAGES/oslo_cache.po | 
 {.sortable}
 
 

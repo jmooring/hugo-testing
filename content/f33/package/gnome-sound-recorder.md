@@ -18,63 +18,63 @@ The package gnome-sound-recorder (version 3.38.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f33/language/af.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/af.po | 
- | [an]({{< ref "/f33/language/an.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/an.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 274 | 274 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ar.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/as.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/be.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/bs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ca.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/en_GB.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/es.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 239 | 239 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fa.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fur.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/gl.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/he.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/id.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ja.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/kk.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/lv.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ml.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ms.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/nb.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ne.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/nl.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pa.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 242 | 242 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 562 | 562 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sr@latin.po/mnt/stockage/packages/f33/gnome-sound-recorder/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sv.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/te.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/zh_TW.po/mnt/stockage/packages/f33/gnome-sound-recorder/po/zh_HK.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 257 | 274 | 93.8 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/oc.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 165 | 253 | 65.2 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/tg.po | 
- | [mjw]({{< ref "/f33/language/mjw.md" >}}) | 188 | 299 | 62.9 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/mjw.po | 
- | [ckb]({{< ref "/f33/language/ckb.md" >}}) | 181 | 297 | 60.9 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ckb.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 176 | 299 | 58.9 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/is.po | 
+ | [af](/f33/language/af) | 296 | 296 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/af.po | 
+ | [an](/f33/language/an) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/an.po | 
+ | [ar](/f33/language/ar) | 274 | 274 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ar.po | 
+ | [as](/f33/language/as) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/as.po | 
+ | [be](/f33/language/be) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/be.po | 
+ | [bs](/f33/language/bs) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/bs.po | 
+ | [ca](/f33/language/ca) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ca.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/cs.po | 
+ | [da](/f33/language/da) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/da.po | 
+ | [de](/f33/language/de) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/de.po | 
+ | [el](/f33/language/el) | 242 | 242 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/en_GB.po | 
+ | [eo](/f33/language/eo) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/eo.po | 
+ | [es](/f33/language/es) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/es.po | 
+ | [eu](/f33/language/eu) | 239 | 239 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/eu.po | 
+ | [fa](/f33/language/fa) | 283 | 283 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fa.po | 
+ | [fi](/f33/language/fi) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fi.po | 
+ | [fr](/f33/language/fr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fr.po | 
+ | [fur](/f33/language/fur) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/fur.po | 
+ | [gl](/f33/language/gl) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/gl.po | 
+ | [he](/f33/language/he) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/he.po | 
+ | [hr](/f33/language/hr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/hr.po | 
+ | [hu](/f33/language/hu) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/hu.po | 
+ | [id](/f33/language/id) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/id.po | 
+ | [it](/f33/language/it) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/it.po | 
+ | [ja](/f33/language/ja) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ja.po | 
+ | [kk](/f33/language/kk) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/kk.po | 
+ | [ko](/f33/language/ko) | 302 | 302 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ko.po | 
+ | [lt](/f33/language/lt) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/lt.po | 
+ | [lv](/f33/language/lv) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/lv.po | 
+ | [ml](/f33/language/ml) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ml.po | 
+ | [ms](/f33/language/ms) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ms.po | 
+ | [nb_NO](/f33/language/nb_NO) | 299 | 299 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/nb.po | 
+ | [ne](/f33/language/ne) | 292 | 292 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ne.po | 
+ | [nl](/f33/language/nl) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/nl.po | 
+ | [pa](/f33/language/pa) | 253 | 253 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pa.po | 
+ | [pl](/f33/language/pl) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pl.po | 
+ | [pt](/f33/language/pt) | 270 | 270 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 242 | 242 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ro.po | 
+ | [ru](/f33/language/ru) | 302 | 302 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ru.po | 
+ | [sk](/f33/language/sk) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sk.po | 
+ | [sl](/f33/language/sl) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sl.po | 
+ | [sr](/f33/language/sr) | 562 | 562 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sr@latin.po/mnt/stockage/packages/f33/gnome-sound-recorder/po/sr.po | 
+ | [sv](/f33/language/sv) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/sv.po | 
+ | [te](/f33/language/te) | 223 | 223 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/te.po | 
+ | [tr](/f33/language/tr) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/tr.po | 
+ | [uk](/f33/language/uk) | 271 | 271 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/uk.po | 
+ | [vi](/f33/language/vi) | 302 | 302 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 240 | 240 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 462 | 462 | 100.0 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/zh_TW.po/mnt/stockage/packages/f33/gnome-sound-recorder/po/zh_HK.po | 
+ | [oc](/f33/language/oc) | 257 | 274 | 93.8 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/oc.po | 
+ | [tg](/f33/language/tg) | 165 | 253 | 65.2 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/tg.po | 
+ | [mjw](/f33/language/mjw) | 188 | 299 | 62.9 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/mjw.po | 
+ | [ckb](/f33/language/ckb) | 181 | 297 | 60.9 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/ckb.po | 
+ | [is](/f33/language/is) | 176 | 299 | 58.9 | /mnt/stockage/packages/f33/gnome-sound-recorder/po/is.po | 
 {.sortable}
 
 

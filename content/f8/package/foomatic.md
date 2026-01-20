@@ -18,12 +18,12 @@ The package foomatic (version 3.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/fr.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/ja.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/pt_BR.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 373 | 458 | 81.4 | /mnt/stockage/packages/f8/foomatic/debian/po/tr.po | 
+ | [de](/f8/language/de) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/de.po | 
+ | [fr](/f8/language/fr) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/fr.po | 
+ | [ja](/f8/language/ja) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/ja.po | 
+ | [nl](/f8/language/nl) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/nl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 458 | 458 | 100.0 | /mnt/stockage/packages/f8/foomatic/debian/po/pt_BR.po | 
+ | [tr](/f8/language/tr) | 373 | 458 | 81.4 | /mnt/stockage/packages/f8/foomatic/debian/po/tr.po | 
 {.sortable}
 
 

@@ -18,36 +18,36 @@ The package python-wtforms (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f40/language/en.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/en/LC_MESSAGES/wtforms.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/fr/LC_MESSAGES/wtforms.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ru/LC_MESSAGES/wtforms.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/zh/LC_MESSAGES/wtforms.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/zh_TW/LC_MESSAGES/wtforms.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 171 | 189 | 90.5 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ja/LC_MESSAGES/wtforms.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 171 | 189 | 90.5 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/uk/LC_MESSAGES/wtforms.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ar/LC_MESSAGES/wtforms.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/bg/LC_MESSAGES/wtforms.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ca/LC_MESSAGES/wtforms.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/cs_CZ/LC_MESSAGES/wtforms.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/cy/LC_MESSAGES/wtforms.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/de/LC_MESSAGES/wtforms.po | 
- | [de_CH]({{< ref "/f40/language/de_CH.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/de_CH/LC_MESSAGES/wtforms.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/el/LC_MESSAGES/wtforms.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/et/LC_MESSAGES/wtforms.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/fa/LC_MESSAGES/wtforms.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/fi/LC_MESSAGES/wtforms.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/hu/LC_MESSAGES/wtforms.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/it/LC_MESSAGES/wtforms.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ko/LC_MESSAGES/wtforms.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/nb/LC_MESSAGES/wtforms.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/nl/LC_MESSAGES/wtforms.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/pl/LC_MESSAGES/wtforms.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/pt/LC_MESSAGES/wtforms.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/sv/LC_MESSAGES/wtforms.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/tr/LC_MESSAGES/wtforms.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 161 | 189 | 85.2 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/he/LC_MESSAGES/wtforms.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 161 | 189 | 85.2 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/sk/LC_MESSAGES/wtforms.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 156 | 189 | 82.5 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/es/LC_MESSAGES/wtforms.po | 
+ | [en](/f40/language/en) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/en/LC_MESSAGES/wtforms.po | 
+ | [fr](/f40/language/fr) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/fr/LC_MESSAGES/wtforms.po | 
+ | [ru](/f40/language/ru) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ru/LC_MESSAGES/wtforms.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/zh/LC_MESSAGES/wtforms.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 189 | 189 | 100.0 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/zh_TW/LC_MESSAGES/wtforms.po | 
+ | [ja](/f40/language/ja) | 171 | 189 | 90.5 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ja/LC_MESSAGES/wtforms.po | 
+ | [uk](/f40/language/uk) | 171 | 189 | 90.5 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/uk/LC_MESSAGES/wtforms.po | 
+ | [ar](/f40/language/ar) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ar/LC_MESSAGES/wtforms.po | 
+ | [bg](/f40/language/bg) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/bg/LC_MESSAGES/wtforms.po | 
+ | [ca](/f40/language/ca) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ca/LC_MESSAGES/wtforms.po | 
+ | [cs](/f40/language/cs) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/cs_CZ/LC_MESSAGES/wtforms.po | 
+ | [cy](/f40/language/cy) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/cy/LC_MESSAGES/wtforms.po | 
+ | [de](/f40/language/de) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/de/LC_MESSAGES/wtforms.po | 
+ | [de_CH](/f40/language/de_CH) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/de_CH/LC_MESSAGES/wtforms.po | 
+ | [el](/f40/language/el) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/el/LC_MESSAGES/wtforms.po | 
+ | [et](/f40/language/et) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/et/LC_MESSAGES/wtforms.po | 
+ | [fa](/f40/language/fa) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/fa/LC_MESSAGES/wtforms.po | 
+ | [fi](/f40/language/fi) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/fi/LC_MESSAGES/wtforms.po | 
+ | [hu](/f40/language/hu) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/hu/LC_MESSAGES/wtforms.po | 
+ | [it](/f40/language/it) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/it/LC_MESSAGES/wtforms.po | 
+ | [ko](/f40/language/ko) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/ko/LC_MESSAGES/wtforms.po | 
+ | [nb_NO](/f40/language/nb_NO) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/nb/LC_MESSAGES/wtforms.po | 
+ | [nl](/f40/language/nl) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/nl/LC_MESSAGES/wtforms.po | 
+ | [pl](/f40/language/pl) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/pl/LC_MESSAGES/wtforms.po | 
+ | [pt](/f40/language/pt) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/pt/LC_MESSAGES/wtforms.po | 
+ | [sv](/f40/language/sv) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/sv/LC_MESSAGES/wtforms.po | 
+ | [tr](/f40/language/tr) | 166 | 189 | 87.8 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/tr/LC_MESSAGES/wtforms.po | 
+ | [he](/f40/language/he) | 161 | 189 | 85.2 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/he/LC_MESSAGES/wtforms.po | 
+ | [sk](/f40/language/sk) | 161 | 189 | 85.2 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/sk/LC_MESSAGES/wtforms.po | 
+ | [es](/f40/language/es) | 156 | 189 | 82.5 | /mnt/stockage/packages/f40/python-wtforms/src/wtforms/locale/es/LC_MESSAGES/wtforms.po | 
 {.sortable}
 
 

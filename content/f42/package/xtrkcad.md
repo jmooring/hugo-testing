@@ -18,12 +18,12 @@ The package xtrkcad (version 5.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 21017 | 21041 | 99.9 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/de_DE.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 19652 | 21037 | 93.4 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/fr_FR.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 19594 | 21037 | 93.1 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/cy_GB.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 11304 | 21037 | 53.7 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/fi.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 3353 | 21037 | 15.9 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 2994 | 21037 | 14.2 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/ru.po | 
+ | [de](/f42/language/de) | 21017 | 21041 | 99.9 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/de_DE.po | 
+ | [fr](/f42/language/fr) | 19652 | 21037 | 93.4 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/fr_FR.po | 
+ | [cy](/f42/language/cy) | 19594 | 21037 | 93.1 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/cy_GB.po | 
+ | [fi](/f42/language/fi) | 11304 | 21037 | 53.7 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/fi.po | 
+ | [pt_BR](/f42/language/pt_BR) | 3353 | 21037 | 15.9 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/pt_BR.po | 
+ | [ru](/f42/language/ru) | 2994 | 21037 | 14.2 | /mnt/stockage/packages/f42/xtrkcad/app/i18n/ru.po | 
 {.sortable}
 
 

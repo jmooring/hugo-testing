@@ -18,77 +18,77 @@ The package accerciser (version 3.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ar.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/as.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ast.po | 
- | [be]({{< ref "/f26/language/be.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bg.po | 
- | [bn]({{< ref "/f26/language/bn.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bn.po | 
- | [bn_IN]({{< ref "/f26/language/bn_IN.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bn_IN.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bs.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/cs/cs.po/mnt/stockage/packages/f26/accerciser/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/da.po | 
- | [dz]({{< ref "/f26/language/dz.md" >}}) | 341 | 341 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/dz.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/el/el.po/mnt/stockage/packages/f26/accerciser/po/el.po | 
- | [en_CA]({{< ref "/f26/language/en_CA.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/en_CA.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 2131 | 2131 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/en_GB/en_GB.po/mnt/stockage/packages/f26/accerciser/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/es/es.po/mnt/stockage/packages/f26/accerciser/po/es.po | 
- | [et]({{< ref "/f26/language/et.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/et.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/fr/fr.po/mnt/stockage/packages/f26/accerciser/po/fr.po | 
- | [gu]({{< ref "/f26/language/gu.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/gu.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/he.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 557 | 557 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/hi.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/hu.po | 
- | [hy]({{< ref "/f26/language/hy.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/hy.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 2131 | 2131 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/it/it.po/mnt/stockage/packages/f26/accerciser/po/it.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 623 | 623 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/km.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/lv.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/mk.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ml.po | 
- | [mr]({{< ref "/f26/language/mr.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/mr.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/nl.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/or.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 2131 | 2131 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/pt_BR/pt_BR.po/mnt/stockage/packages/f26/accerciser/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ru.po | 
- | [sq]({{< ref "/f26/language/sq.md" >}}) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/sq.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/sr@latin.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 627 | 627 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/te.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/tr.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ug.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 2099 | 2099 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/uk/uk.po/mnt/stockage/packages/f26/accerciser/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 540 | 540 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/zh_CN/zh_CN.po/mnt/stockage/packages/f26/accerciser/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/zh_HK.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 642 | 659 | 97.4 | /mnt/stockage/packages/f26/accerciser/po/sk.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 4174 | 4622 | 90.3 | /mnt/stockage/packages/f26/accerciser/help/de/de.po/mnt/stockage/packages/f26/accerciser/po/de.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 524 | 599 | 87.5 | /mnt/stockage/packages/f26/accerciser/po/fi.po | 
- | [error]({{< ref "/f26/language/error.md" >}}) | 401 | 535 | 75.0 | /mnt/stockage/packages/f26/accerciser/po/en@shaw.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 224 | 333 | 67.3 | /mnt/stockage/packages/f26/accerciser/po/pa.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 866 | 1736 | 49.9 | /mnt/stockage/packages/f26/accerciser/help/sv/sv.po/mnt/stockage/packages/f26/accerciser/po/sv.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 1702 | 4626 | 36.8 | /mnt/stockage/packages/f26/accerciser/help/gl/gl.po/mnt/stockage/packages/f26/accerciser/po/gl.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 218 | 599 | 36.4 | /mnt/stockage/packages/f26/accerciser/po/tg.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 748 | 2131 | 35.1 | /mnt/stockage/packages/f26/accerciser/help/oc/oc.po/mnt/stockage/packages/f26/accerciser/po/oc.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 186 | 540 | 34.4 | /mnt/stockage/packages/f26/accerciser/po/kn.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 696 | 2131 | 32.7 | /mnt/stockage/packages/f26/accerciser/help/sl/sl.po/mnt/stockage/packages/f26/accerciser/po/sl.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 1354 | 4565 | 29.7 | /mnt/stockage/packages/f26/accerciser/help/ca/ca.po/mnt/stockage/packages/f26/accerciser/po/ca.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 158 | 535 | 29.5 | /mnt/stockage/packages/f26/accerciser/po/eo.po | 
- | [si]({{< ref "/f26/language/si.md" >}}) | 65 | 359 | 18.1 | /mnt/stockage/packages/f26/accerciser/po/si.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 107 | 659 | 16.2 | /mnt/stockage/packages/f26/accerciser/po/kk.po | 
- | [br]({{< ref "/f26/language/br.md" >}}) | 77 | 535 | 14.4 | /mnt/stockage/packages/f26/accerciser/po/br.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 608 | 4566 | 13.3 | /mnt/stockage/packages/f26/accerciser/help/ja/ja.po/mnt/stockage/packages/f26/accerciser/po/ja.po | 
- | [mai]({{< ref "/f26/language/mai.md" >}}) | 70 | 535 | 13.1 | /mnt/stockage/packages/f26/accerciser/po/mai.po | 
+ | [ar](/f26/language/ar) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ar.po | 
+ | [as](/f26/language/as) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/as.po | 
+ | [ast](/f26/language/ast) | 623 | 623 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ast.po | 
+ | [be](/f26/language/be) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/be.po | 
+ | [bg](/f26/language/bg) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bg.po | 
+ | [bn](/f26/language/bn) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bn.po | 
+ | [bn_IN](/f26/language/bn_IN) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bn_IN.po | 
+ | [bs](/f26/language/bs) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/bs.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/cs/cs.po/mnt/stockage/packages/f26/accerciser/po/cs.po | 
+ | [da](/f26/language/da) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/da.po | 
+ | [dz](/f26/language/dz) | 341 | 341 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/dz.po | 
+ | [el](/f26/language/el) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/el/el.po/mnt/stockage/packages/f26/accerciser/po/el.po | 
+ | [en_CA](/f26/language/en_CA) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/en_CA.po | 
+ | [en_GB](/f26/language/en_GB) | 2131 | 2131 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/en_GB/en_GB.po/mnt/stockage/packages/f26/accerciser/po/en_GB.po | 
+ | [es](/f26/language/es) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/es/es.po/mnt/stockage/packages/f26/accerciser/po/es.po | 
+ | [et](/f26/language/et) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/et.po | 
+ | [eu](/f26/language/eu) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/eu.po | 
+ | [fr](/f26/language/fr) | 4622 | 4622 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/fr/fr.po/mnt/stockage/packages/f26/accerciser/po/fr.po | 
+ | [gu](/f26/language/gu) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/gu.po | 
+ | [he](/f26/language/he) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/he.po | 
+ | [hi](/f26/language/hi) | 557 | 557 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/hi.po | 
+ | [hu](/f26/language/hu) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/hu.po | 
+ | [hy](/f26/language/hy) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/hy.po | 
+ | [id](/f26/language/id) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/id.po | 
+ | [it](/f26/language/it) | 2131 | 2131 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/it/it.po/mnt/stockage/packages/f26/accerciser/po/it.po | 
+ | [km](/f26/language/km) | 623 | 623 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/km.po | 
+ | [ko](/f26/language/ko) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ko.po | 
+ | [lt](/f26/language/lt) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/lt.po | 
+ | [lv](/f26/language/lv) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/lv.po | 
+ | [mk](/f26/language/mk) | 363 | 363 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/mk.po | 
+ | [ml](/f26/language/ml) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ml.po | 
+ | [mr](/f26/language/mr) | 540 | 540 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/mr.po | 
+ | [nb_NO](/f26/language/nb_NO) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/nb.po | 
+ | [nl](/f26/language/nl) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/nl.po | 
+ | [or](/f26/language/or) | 540 | 540 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/or.po | 
+ | [pl](/f26/language/pl) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/pl.po | 
+ | [pt](/f26/language/pt) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 2131 | 2131 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/pt_BR/pt_BR.po/mnt/stockage/packages/f26/accerciser/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ro.po | 
+ | [ru](/f26/language/ru) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ru.po | 
+ | [sq](/f26/language/sq) | 535 | 535 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/sq.po | 
+ | [sr](/f26/language/sr) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/sr@latin.po | 
+ | [te](/f26/language/te) | 627 | 627 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/te.po | 
+ | [th](/f26/language/th) | 519 | 519 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/th.po | 
+ | [tr](/f26/language/tr) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/tr.po | 
+ | [ug](/f26/language/ug) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/ug.po | 
+ | [uk](/f26/language/uk) | 2099 | 2099 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/uk/uk.po/mnt/stockage/packages/f26/accerciser/po/uk.po | 
+ | [vi](/f26/language/vi) | 540 | 540 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f26/accerciser/help/zh_CN/zh_CN.po/mnt/stockage/packages/f26/accerciser/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 659 | 659 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 599 | 599 | 100.0 | /mnt/stockage/packages/f26/accerciser/po/zh_HK.po | 
+ | [sk](/f26/language/sk) | 642 | 659 | 97.4 | /mnt/stockage/packages/f26/accerciser/po/sk.po | 
+ | [de](/f26/language/de) | 4174 | 4622 | 90.3 | /mnt/stockage/packages/f26/accerciser/help/de/de.po/mnt/stockage/packages/f26/accerciser/po/de.po | 
+ | [fi](/f26/language/fi) | 524 | 599 | 87.5 | /mnt/stockage/packages/f26/accerciser/po/fi.po | 
+ | [error](/f26/language/error) | 401 | 535 | 75.0 | /mnt/stockage/packages/f26/accerciser/po/en@shaw.po | 
+ | [pa](/f26/language/pa) | 224 | 333 | 67.3 | /mnt/stockage/packages/f26/accerciser/po/pa.po | 
+ | [sv](/f26/language/sv) | 866 | 1736 | 49.9 | /mnt/stockage/packages/f26/accerciser/help/sv/sv.po/mnt/stockage/packages/f26/accerciser/po/sv.po | 
+ | [gl](/f26/language/gl) | 1702 | 4626 | 36.8 | /mnt/stockage/packages/f26/accerciser/help/gl/gl.po/mnt/stockage/packages/f26/accerciser/po/gl.po | 
+ | [tg](/f26/language/tg) | 218 | 599 | 36.4 | /mnt/stockage/packages/f26/accerciser/po/tg.po | 
+ | [oc](/f26/language/oc) | 748 | 2131 | 35.1 | /mnt/stockage/packages/f26/accerciser/help/oc/oc.po/mnt/stockage/packages/f26/accerciser/po/oc.po | 
+ | [kn](/f26/language/kn) | 186 | 540 | 34.4 | /mnt/stockage/packages/f26/accerciser/po/kn.po | 
+ | [sl](/f26/language/sl) | 696 | 2131 | 32.7 | /mnt/stockage/packages/f26/accerciser/help/sl/sl.po/mnt/stockage/packages/f26/accerciser/po/sl.po | 
+ | [ca](/f26/language/ca) | 1354 | 4565 | 29.7 | /mnt/stockage/packages/f26/accerciser/help/ca/ca.po/mnt/stockage/packages/f26/accerciser/po/ca.po | 
+ | [eo](/f26/language/eo) | 158 | 535 | 29.5 | /mnt/stockage/packages/f26/accerciser/po/eo.po | 
+ | [si](/f26/language/si) | 65 | 359 | 18.1 | /mnt/stockage/packages/f26/accerciser/po/si.po | 
+ | [kk](/f26/language/kk) | 107 | 659 | 16.2 | /mnt/stockage/packages/f26/accerciser/po/kk.po | 
+ | [br](/f26/language/br) | 77 | 535 | 14.4 | /mnt/stockage/packages/f26/accerciser/po/br.po | 
+ | [ja](/f26/language/ja) | 608 | 4566 | 13.3 | /mnt/stockage/packages/f26/accerciser/help/ja/ja.po/mnt/stockage/packages/f26/accerciser/po/ja.po | 
+ | [mai](/f26/language/mai) | 70 | 535 | 13.1 | /mnt/stockage/packages/f26/accerciser/po/mai.po | 
 {.sortable}
 
 

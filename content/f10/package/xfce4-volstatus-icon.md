@@ -18,11 +18,11 @@ The package xfce4-volstatus-icon (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 186 | 197 | 94.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/hu.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/en_GB.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/fr.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/ja.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/pl.po | 
+ | [hu](/f10/language/hu) | 186 | 197 | 94.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/hu.po | 
+ | [en_GB](/f10/language/en_GB) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/en_GB.po | 
+ | [fr](/f10/language/fr) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/fr.po | 
+ | [ja](/f10/language/ja) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/ja.po | 
+ | [pl](/f10/language/pl) | 46 | 197 | 23.4 | /mnt/stockage/packages/f10/xfce4-volstatus-icon/po/pl.po | 
 {.sortable}
 
 

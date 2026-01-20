@@ -18,20 +18,20 @@ The package apollon (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f9/language/el.md" >}}) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/el.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/es.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/ru.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 1484 | 1490 | 99.6 | /mnt/stockage/packages/f9/apollon/po/sr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 1566 | 1590 | 98.5 | /mnt/stockage/packages/f9/apollon/po/nb_NO.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1505 | 1564 | 96.2 | /mnt/stockage/packages/f9/apollon/po/de.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1102 | 1564 | 70.5 | /mnt/stockage/packages/f9/apollon/po/pl.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/dk.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/he.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/nl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/pt_br.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 589 | 1564 | 37.7 | /mnt/stockage/packages/f9/apollon/po/it.po | 
+ | [el](/f9/language/el) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/el.po | 
+ | [es](/f9/language/es) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/es.po | 
+ | [fi](/f9/language/fi) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/fi.po | 
+ | [fr](/f9/language/fr) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/fr.po | 
+ | [ru](/f9/language/ru) | 1564 | 1564 | 100.0 | /mnt/stockage/packages/f9/apollon/po/ru.po | 
+ | [sr](/f9/language/sr) | 1484 | 1490 | 99.6 | /mnt/stockage/packages/f9/apollon/po/sr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 1566 | 1590 | 98.5 | /mnt/stockage/packages/f9/apollon/po/nb_NO.po | 
+ | [de](/f9/language/de) | 1505 | 1564 | 96.2 | /mnt/stockage/packages/f9/apollon/po/de.po | 
+ | [pl](/f9/language/pl) | 1102 | 1564 | 70.5 | /mnt/stockage/packages/f9/apollon/po/pl.po | 
+ | [da](/f9/language/da) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/dk.po | 
+ | [he](/f9/language/he) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/he.po | 
+ | [nl](/f9/language/nl) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/nl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 717 | 1564 | 45.8 | /mnt/stockage/packages/f9/apollon/po/pt_br.po | 
+ | [it](/f9/language/it) | 589 | 1564 | 37.7 | /mnt/stockage/packages/f9/apollon/po/it.po | 
 {.sortable}
 
 

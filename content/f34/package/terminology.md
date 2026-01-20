@@ -18,35 +18,35 @@ The package terminology (version 1.11.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f34/language/da.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/da.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/es.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/fr.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/hr.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/it.po | 
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/pt.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/ru.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/sv.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 900 | 978 | 92.0 | /mnt/stockage/packages/f34/terminology/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 779 | 978 | 79.7 | /mnt/stockage/packages/f34/terminology/po/zh_Hans.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 648 | 978 | 66.3 | /mnt/stockage/packages/f34/terminology/po/de.po | 
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 646 | 978 | 66.1 | /mnt/stockage/packages/f34/terminology/po/ca.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 592 | 978 | 60.5 | /mnt/stockage/packages/f34/terminology/po/pl.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 568 | 978 | 58.1 | /mnt/stockage/packages/f34/terminology/po/nl.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 545 | 978 | 55.7 | /mnt/stockage/packages/f34/terminology/po/sr.po | 
- | [sl]({{< ref "/f34/language/sl.md" >}}) | 514 | 978 | 52.6 | /mnt/stockage/packages/f34/terminology/po/sl.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 478 | 978 | 48.9 | /mnt/stockage/packages/f34/terminology/po/vi.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 392 | 978 | 40.1 | /mnt/stockage/packages/f34/terminology/po/nb_NO.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 389 | 978 | 39.8 | /mnt/stockage/packages/f34/terminology/po/el.po | 
- | [hi]({{< ref "/f34/language/hi.md" >}}) | 355 | 978 | 36.3 | /mnt/stockage/packages/f34/terminology/po/hi.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 344 | 978 | 35.2 | /mnt/stockage/packages/f34/terminology/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 287 | 978 | 29.3 | /mnt/stockage/packages/f34/terminology/po/ko.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 226 | 978 | 23.1 | /mnt/stockage/packages/f34/terminology/po/uk.po | 
- | [ms]({{< ref "/f34/language/ms.md" >}}) | 203 | 978 | 20.8 | /mnt/stockage/packages/f34/terminology/po/ms.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 150 | 978 | 15.3 | /mnt/stockage/packages/f34/terminology/po/he.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 114 | 978 | 11.7 | /mnt/stockage/packages/f34/terminology/po/eo.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 74 | 978 | 7.6 | /mnt/stockage/packages/f34/terminology/po/tr.po | 
- | [si]({{< ref "/f34/language/si.md" >}}) | 4 | 978 | 0.4 | /mnt/stockage/packages/f34/terminology/po/si.po | 
+ | [da](/f34/language/da) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/da.po | 
+ | [es](/f34/language/es) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/es.po | 
+ | [fi](/f34/language/fi) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/fi.po | 
+ | [fr](/f34/language/fr) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/fr.po | 
+ | [hr](/f34/language/hr) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/hr.po | 
+ | [it](/f34/language/it) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/it.po | 
+ | [pt](/f34/language/pt) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/pt.po | 
+ | [ru](/f34/language/ru) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/ru.po | 
+ | [sv](/f34/language/sv) | 978 | 978 | 100.0 | /mnt/stockage/packages/f34/terminology/po/sv.po | 
+ | [pt_BR](/f34/language/pt_BR) | 900 | 978 | 92.0 | /mnt/stockage/packages/f34/terminology/po/pt_BR.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 779 | 978 | 79.7 | /mnt/stockage/packages/f34/terminology/po/zh_Hans.po | 
+ | [de](/f34/language/de) | 648 | 978 | 66.3 | /mnt/stockage/packages/f34/terminology/po/de.po | 
+ | [ca](/f34/language/ca) | 646 | 978 | 66.1 | /mnt/stockage/packages/f34/terminology/po/ca.po | 
+ | [pl](/f34/language/pl) | 592 | 978 | 60.5 | /mnt/stockage/packages/f34/terminology/po/pl.po | 
+ | [nl](/f34/language/nl) | 568 | 978 | 58.1 | /mnt/stockage/packages/f34/terminology/po/nl.po | 
+ | [sr](/f34/language/sr) | 545 | 978 | 55.7 | /mnt/stockage/packages/f34/terminology/po/sr.po | 
+ | [sl](/f34/language/sl) | 514 | 978 | 52.6 | /mnt/stockage/packages/f34/terminology/po/sl.po | 
+ | [vi](/f34/language/vi) | 478 | 978 | 48.9 | /mnt/stockage/packages/f34/terminology/po/vi.po | 
+ | [nb_NO](/f34/language/nb_NO) | 392 | 978 | 40.1 | /mnt/stockage/packages/f34/terminology/po/nb_NO.po | 
+ | [el](/f34/language/el) | 389 | 978 | 39.8 | /mnt/stockage/packages/f34/terminology/po/el.po | 
+ | [hi](/f34/language/hi) | 355 | 978 | 36.3 | /mnt/stockage/packages/f34/terminology/po/hi.po | 
+ | [ja](/f34/language/ja) | 344 | 978 | 35.2 | /mnt/stockage/packages/f34/terminology/po/ja.po | 
+ | [ko](/f34/language/ko) | 287 | 978 | 29.3 | /mnt/stockage/packages/f34/terminology/po/ko.po | 
+ | [uk](/f34/language/uk) | 226 | 978 | 23.1 | /mnt/stockage/packages/f34/terminology/po/uk.po | 
+ | [ms](/f34/language/ms) | 203 | 978 | 20.8 | /mnt/stockage/packages/f34/terminology/po/ms.po | 
+ | [he](/f34/language/he) | 150 | 978 | 15.3 | /mnt/stockage/packages/f34/terminology/po/he.po | 
+ | [eo](/f34/language/eo) | 114 | 978 | 11.7 | /mnt/stockage/packages/f34/terminology/po/eo.po | 
+ | [tr](/f34/language/tr) | 74 | 978 | 7.6 | /mnt/stockage/packages/f34/terminology/po/tr.po | 
+ | [si](/f34/language/si) | 4 | 978 | 0.4 | /mnt/stockage/packages/f34/terminology/po/si.po | 
 {.sortable}
 
 

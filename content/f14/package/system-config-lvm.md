@@ -18,60 +18,60 @@ The package system-config-lvm (version 1.1.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/as.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/bn_IN.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/de.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/es.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/fr.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/gu.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ja.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ko.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ml.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/mr.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/nl.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/or.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ru.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/te.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/zh_TW.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/bs.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/hr.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/is.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/sk.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f14/system-config-lvm/po/id.po | 
- | [mai]({{< ref "/f14/language/mai.md" >}}) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f14/system-config-lvm/po/mai.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 1902 | 2142 | 88.8 | /mnt/stockage/packages/f14/system-config-lvm/po/bn.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 1821 | 2142 | 85.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ar.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 653 | 2236 | 29.2 | /mnt/stockage/packages/f14/system-config-lvm/po/ms.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f14/system-config-lvm/po/bg.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f14/system-config-lvm/po/mk.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 568 | 2142 | 26.5 | /mnt/stockage/packages/f14/system-config-lvm/po/fa.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 560 | 2236 | 25.0 | /mnt/stockage/packages/f14/system-config-lvm/po/si.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 487 | 2142 | 22.7 | /mnt/stockage/packages/f14/system-config-lvm/po/nb.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 481 | 2246 | 21.4 | /mnt/stockage/packages/f14/system-config-lvm/po/tr.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 403 | 2142 | 18.8 | /mnt/stockage/packages/f14/system-config-lvm/po/et.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 97 | 2246 | 4.3 | /mnt/stockage/packages/f14/system-config-lvm/po/el.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 40 | 2246 | 1.8 | /mnt/stockage/packages/f14/system-config-lvm/po/nds.po | 
- | [hy]({{< ref "/f14/language/hy.md" >}}) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f14/system-config-lvm/po/hy.po | 
- | [my]({{< ref "/f14/language/my.md" >}}) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f14/system-config-lvm/po/my.po | 
+ | [as](/f14/language/as) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/as.po | 
+ | [bn_IN](/f14/language/bn_IN) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ca.po | 
+ | [cs](/f14/language/cs) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/cs.po | 
+ | [da](/f14/language/da) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/da.po | 
+ | [de](/f14/language/de) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/de.po | 
+ | [en_GB](/f14/language/en_GB) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/en_GB.po | 
+ | [es](/f14/language/es) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/es.po | 
+ | [fi](/f14/language/fi) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/fi.po | 
+ | [fr](/f14/language/fr) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/fr.po | 
+ | [gu](/f14/language/gu) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/gu.po | 
+ | [hi](/f14/language/hi) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/hi.po | 
+ | [hu](/f14/language/hu) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/hu.po | 
+ | [it](/f14/language/it) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/it.po | 
+ | [ja](/f14/language/ja) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ja.po | 
+ | [kn](/f14/language/kn) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/kn.po | 
+ | [ko](/f14/language/ko) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ko.po | 
+ | [ml](/f14/language/ml) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ml.po | 
+ | [mr](/f14/language/mr) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/mr.po | 
+ | [nl](/f14/language/nl) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/nl.po | 
+ | [or](/f14/language/or) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/or.po | 
+ | [pa](/f14/language/pa) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pa.po | 
+ | [pl](/f14/language/pl) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pl.po | 
+ | [pt](/f14/language/pt) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ru.po | 
+ | [sr](/f14/language/sr) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/sv.po | 
+ | [ta](/f14/language/ta) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ta.po | 
+ | [te](/f14/language/te) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/te.po | 
+ | [uk](/f14/language/uk) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 2246 | 2246 | 100.0 | /mnt/stockage/packages/f14/system-config-lvm/po/zh_TW.po | 
+ | [bs](/f14/language/bs) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/bs.po | 
+ | [hr](/f14/language/hr) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/hr.po | 
+ | [is](/f14/language/is) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/is.po | 
+ | [sk](/f14/language/sk) | 2049 | 2142 | 95.7 | /mnt/stockage/packages/f14/system-config-lvm/po/sk.po | 
+ | [id](/f14/language/id) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f14/system-config-lvm/po/id.po | 
+ | [mai](/f14/language/mai) | 2084 | 2236 | 93.2 | /mnt/stockage/packages/f14/system-config-lvm/po/mai.po | 
+ | [bn](/f14/language/bn) | 1902 | 2142 | 88.8 | /mnt/stockage/packages/f14/system-config-lvm/po/bn.po | 
+ | [ar](/f14/language/ar) | 1821 | 2142 | 85.0 | /mnt/stockage/packages/f14/system-config-lvm/po/ar.po | 
+ | [ms](/f14/language/ms) | 653 | 2236 | 29.2 | /mnt/stockage/packages/f14/system-config-lvm/po/ms.po | 
+ | [bg](/f14/language/bg) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f14/system-config-lvm/po/bg.po | 
+ | [mk](/f14/language/mk) | 577 | 2142 | 26.9 | /mnt/stockage/packages/f14/system-config-lvm/po/mk.po | 
+ | [fa](/f14/language/fa) | 568 | 2142 | 26.5 | /mnt/stockage/packages/f14/system-config-lvm/po/fa.po | 
+ | [si](/f14/language/si) | 560 | 2236 | 25.0 | /mnt/stockage/packages/f14/system-config-lvm/po/si.po | 
+ | [nb_NO](/f14/language/nb_NO) | 487 | 2142 | 22.7 | /mnt/stockage/packages/f14/system-config-lvm/po/nb.po | 
+ | [tr](/f14/language/tr) | 481 | 2246 | 21.4 | /mnt/stockage/packages/f14/system-config-lvm/po/tr.po | 
+ | [et](/f14/language/et) | 403 | 2142 | 18.8 | /mnt/stockage/packages/f14/system-config-lvm/po/et.po | 
+ | [el](/f14/language/el) | 97 | 2246 | 4.3 | /mnt/stockage/packages/f14/system-config-lvm/po/el.po | 
+ | [nds](/f14/language/nds) | 40 | 2246 | 1.8 | /mnt/stockage/packages/f14/system-config-lvm/po/nds.po | 
+ | [hy](/f14/language/hy) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f14/system-config-lvm/po/hy.po | 
+ | [my](/f14/language/my) | 0 | 2142 | 0.0 | /mnt/stockage/packages/f14/system-config-lvm/po/my.po | 
 {.sortable}
 
 

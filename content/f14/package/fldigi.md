@@ -18,9 +18,9 @@ The package fldigi (version 3.21.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f14/language/es.md" >}}) | 3644 | 3657 | 99.6 | /mnt/stockage/packages/f14/fldigi/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 3548 | 3657 | 97.0 | /mnt/stockage/packages/f14/fldigi/po/it.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 825 | 3657 | 22.6 | /mnt/stockage/packages/f14/fldigi/po/fr.po | 
+ | [es](/f14/language/es) | 3644 | 3657 | 99.6 | /mnt/stockage/packages/f14/fldigi/po/es.po | 
+ | [it](/f14/language/it) | 3548 | 3657 | 97.0 | /mnt/stockage/packages/f14/fldigi/po/it.po | 
+ | [fr](/f14/language/fr) | 825 | 3657 | 22.6 | /mnt/stockage/packages/f14/fldigi/po/fr.po | 
 {.sortable}
 
 

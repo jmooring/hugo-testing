@@ -38,51 +38,51 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mime-data]({{< ref "/f17/package/gnome-mime-data.md" >}}) | 850 | 850 | 100.0 | Limburgish <li.org> | 
- | [mate-mime-data]({{< ref "/f17/package/mate-mime-data.md" >}}) | 850 | 887 | 95.8 | LANGUAGE <LL@li.org> | 
- | [libgnomecanvas]({{< ref "/f17/package/libgnomecanvas.md" >}}) | 339 | 357 | 95.0 | Limburgish <li@li.org> | 
- | [gnome-themes]({{< ref "/f17/package/gnome-themes.md" >}}) | 95 | 101 | 94.1 | Limburgish | 
- | [libmatecanvas]({{< ref "/f17/package/libmatecanvas.md" >}}) | 335 | 378 | 88.6 | LANGUAGE <LL@li.org> | 
- | [libbonobo]({{< ref "/f17/package/libbonobo.md" >}}) | 464 | 524 | 88.5 | Limburgish | 
- | [libmateui]({{< ref "/f17/package/libmateui.md" >}}) | 1072 | 1223 | 87.7 | LANGUAGE <LL@li.org> | 
- | [libbonoboui]({{< ref "/f17/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Limburgish <li@li.org> | 
- | [libmatecomponentui]({{< ref "/f17/package/libmatecomponentui.md" >}}) | 314 | 368 | 85.3 | LANGUAGE <LL@li.org> | 
- | [vte]({{< ref "/f17/package/vte.md" >}}) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
- | [vte3]({{< ref "/f17/package/vte3.md" >}}) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
- | [libmatecomponent]({{< ref "/f17/package/libmatecomponent.md" >}}) | 454 | 543 | 83.6 | LANGUAGE <LL@li.org> | 
- | [libgnomeui]({{< ref "/f17/package/libgnomeui.md" >}}) | 1136 | 1419 | 80.1 | Limburgish <li.org> | 
- | [gnome-system-monitor]({{< ref "/f17/package/gnome-system-monitor.md" >}}) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
- | [mate-system-monitor]({{< ref "/f17/package/mate-system-monitor.md" >}}) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
- | [libgnomeprintui22]({{< ref "/f17/package/libgnomeprintui22.md" >}}) | 259 | 427 | 60.7 | Limburgish | 
- | [gdk-pixbuf2]({{< ref "/f17/package/gdk-pixbuf2.md" >}}) | 789 | 1345 | 58.7 | Limburgish <li.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f17/package/mingw-gdk-pixbuf.md" >}}) | 789 | 1345 | 58.7 | Limburgish <li.org> | 
- | [mate-themes]({{< ref "/f17/package/mate-themes.md" >}}) | 56 | 109 | 51.4 | LANGUAGE <LL@li.org> | 
- | [nautilus]({{< ref "/f17/package/nautilus.md" >}}) | 3450 | 7205 | 47.9 | Limburgish | 
- | [nemo]({{< ref "/f17/package/nemo.md" >}}) | 3450 | 7205 | 47.9 | Limburgish | 
- | [gnome-icon-theme]({{< ref "/f17/package/gnome-icon-theme.md" >}}) | 22 | 52 | 42.3 | Limburgish | 
- | [mate-icon-theme]({{< ref "/f17/package/mate-icon-theme.md" >}}) | 22 | 52 | 42.3 | Limburgish | 
- | [libmatewnck]({{< ref "/f17/package/libmatewnck.md" >}}) | 30 | 73 | 41.1 | Limburgish | 
- | [libwnck]({{< ref "/f17/package/libwnck.md" >}}) | 30 | 73 | 41.1 | Limburgish | 
- | [libwnck3]({{< ref "/f17/package/libwnck3.md" >}}) | 30 | 73 | 41.1 | Limburgish | 
- | [epiphany]({{< ref "/f17/package/epiphany.md" >}}) | 1057 | 2732 | 38.7 | Dutch <vertaling@nl.linux.org> | 
- | [gtk2]({{< ref "/f17/package/gtk2.md" >}}) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
- | [mingw-gtk2]({{< ref "/f17/package/mingw-gtk2.md" >}}) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
- | [transmission]({{< ref "/f17/package/transmission.md" >}}) | 652 | 1809 | 36.0 | Limburgian <li@li.org> | 
- | [gtk3]({{< ref "/f17/package/gtk3.md" >}}) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
- | [mingw-gtk3]({{< ref "/f17/package/mingw-gtk3.md" >}}) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
- | [gconf-editor]({{< ref "/f17/package/gconf-editor.md" >}}) | 101 | 320 | 31.6 | Limburgish | 
- | [mate-conf-editor]({{< ref "/f17/package/mate-conf-editor.md" >}}) | 101 | 320 | 31.6 | Limburgish | 
- | [gnome-desktop]({{< ref "/f17/package/gnome-desktop.md" >}}) | 96 | 320 | 30.0 | Limburgish <li.org> | 
- | [gnome-desktop3]({{< ref "/f17/package/gnome-desktop3.md" >}}) | 96 | 320 | 30.0 | Limburgish <li.org> | 
- | [mate-desktop]({{< ref "/f17/package/mate-desktop.md" >}}) | 96 | 320 | 30.0 | Limburgish <li.org> | 
- | [mate-file-manager]({{< ref "/f17/package/mate-file-manager.md" >}}) | 1852 | 9086 | 20.4 | LANGUAGE <LL@li.org> | 
- | [gnome-panel]({{< ref "/f17/package/gnome-panel.md" >}}) | 703 | 3937 | 17.9 | Dutch <vertaling@nl.linux.org> | 
- | [gnome-vfs2]({{< ref "/f17/package/gnome-vfs2.md" >}}) | 225 | 1282 | 17.6 | Limburgish | 
- | [mate-vfs]({{< ref "/f17/package/mate-vfs.md" >}}) | 199 | 1519 | 13.1 | LANGUAGE <LL@li.org> | 
- | [yelp]({{< ref "/f17/package/yelp.md" >}}) | 51 | 606 | 8.4 | Limburgish <li.org> | 
- | [atk]({{< ref "/f17/package/atk.md" >}}) | 31 | 375 | 8.3 | Limburgish | 
- | [mingw-atk]({{< ref "/f17/package/mingw-atk.md" >}}) | 31 | 375 | 8.3 | Limburgish | 
- | [mate-panel]({{< ref "/f17/package/mate-panel.md" >}}) | 322 | 4237 | 7.6 | LANGUAGE <LL@li.org> | 
+ | [gnome-mime-data](/f17/package/gnome-mime-data) | 850 | 850 | 100.0 | Limburgish <li.org> | 
+ | [mate-mime-data](/f17/package/mate-mime-data) | 850 | 887 | 95.8 | LANGUAGE <LL@li.org> | 
+ | [libgnomecanvas](/f17/package/libgnomecanvas) | 339 | 357 | 95.0 | Limburgish <li@li.org> | 
+ | [gnome-themes](/f17/package/gnome-themes) | 95 | 101 | 94.1 | Limburgish | 
+ | [libmatecanvas](/f17/package/libmatecanvas) | 335 | 378 | 88.6 | LANGUAGE <LL@li.org> | 
+ | [libbonobo](/f17/package/libbonobo) | 464 | 524 | 88.5 | Limburgish | 
+ | [libmateui](/f17/package/libmateui) | 1072 | 1223 | 87.7 | LANGUAGE <LL@li.org> | 
+ | [libbonoboui](/f17/package/libbonoboui) | 314 | 360 | 87.2 | Limburgish <li@li.org> | 
+ | [libmatecomponentui](/f17/package/libmatecomponentui) | 314 | 368 | 85.3 | LANGUAGE <LL@li.org> | 
+ | [vte](/f17/package/vte) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
+ | [vte3](/f17/package/vte3) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
+ | [libmatecomponent](/f17/package/libmatecomponent) | 454 | 543 | 83.6 | LANGUAGE <LL@li.org> | 
+ | [libgnomeui](/f17/package/libgnomeui) | 1136 | 1419 | 80.1 | Limburgish <li.org> | 
+ | [gnome-system-monitor](/f17/package/gnome-system-monitor) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
+ | [mate-system-monitor](/f17/package/mate-system-monitor) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
+ | [libgnomeprintui22](/f17/package/libgnomeprintui22) | 259 | 427 | 60.7 | Limburgish | 
+ | [gdk-pixbuf2](/f17/package/gdk-pixbuf2) | 789 | 1345 | 58.7 | Limburgish <li.org> | 
+ | [mingw-gdk-pixbuf](/f17/package/mingw-gdk-pixbuf) | 789 | 1345 | 58.7 | Limburgish <li.org> | 
+ | [mate-themes](/f17/package/mate-themes) | 56 | 109 | 51.4 | LANGUAGE <LL@li.org> | 
+ | [nautilus](/f17/package/nautilus) | 3450 | 7205 | 47.9 | Limburgish | 
+ | [nemo](/f17/package/nemo) | 3450 | 7205 | 47.9 | Limburgish | 
+ | [gnome-icon-theme](/f17/package/gnome-icon-theme) | 22 | 52 | 42.3 | Limburgish | 
+ | [mate-icon-theme](/f17/package/mate-icon-theme) | 22 | 52 | 42.3 | Limburgish | 
+ | [libmatewnck](/f17/package/libmatewnck) | 30 | 73 | 41.1 | Limburgish | 
+ | [libwnck](/f17/package/libwnck) | 30 | 73 | 41.1 | Limburgish | 
+ | [libwnck3](/f17/package/libwnck3) | 30 | 73 | 41.1 | Limburgish | 
+ | [epiphany](/f17/package/epiphany) | 1057 | 2732 | 38.7 | Dutch <vertaling@nl.linux.org> | 
+ | [gtk2](/f17/package/gtk2) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
+ | [mingw-gtk2](/f17/package/mingw-gtk2) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
+ | [transmission](/f17/package/transmission) | 652 | 1809 | 36.0 | Limburgian <li@li.org> | 
+ | [gtk3](/f17/package/gtk3) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
+ | [mingw-gtk3](/f17/package/mingw-gtk3) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
+ | [gconf-editor](/f17/package/gconf-editor) | 101 | 320 | 31.6 | Limburgish | 
+ | [mate-conf-editor](/f17/package/mate-conf-editor) | 101 | 320 | 31.6 | Limburgish | 
+ | [gnome-desktop](/f17/package/gnome-desktop) | 96 | 320 | 30.0 | Limburgish <li.org> | 
+ | [gnome-desktop3](/f17/package/gnome-desktop3) | 96 | 320 | 30.0 | Limburgish <li.org> | 
+ | [mate-desktop](/f17/package/mate-desktop) | 96 | 320 | 30.0 | Limburgish <li.org> | 
+ | [mate-file-manager](/f17/package/mate-file-manager) | 1852 | 9086 | 20.4 | LANGUAGE <LL@li.org> | 
+ | [gnome-panel](/f17/package/gnome-panel) | 703 | 3937 | 17.9 | Dutch <vertaling@nl.linux.org> | 
+ | [gnome-vfs2](/f17/package/gnome-vfs2) | 225 | 1282 | 17.6 | Limburgish | 
+ | [mate-vfs](/f17/package/mate-vfs) | 199 | 1519 | 13.1 | LANGUAGE <LL@li.org> | 
+ | [yelp](/f17/package/yelp) | 51 | 606 | 8.4 | Limburgish <li.org> | 
+ | [atk](/f17/package/atk) | 31 | 375 | 8.3 | Limburgish | 
+ | [mingw-atk](/f17/package/mingw-atk) | 31 | 375 | 8.3 | Limburgish | 
+ | [mate-panel](/f17/package/mate-panel) | 322 | 4237 | 7.6 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

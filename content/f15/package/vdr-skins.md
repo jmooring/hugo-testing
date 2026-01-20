@@ -18,32 +18,32 @@ The package vdr-skins (version 20110221):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/de_DE.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/lt_LT.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/mk_MK.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/sk_SK.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/ca_ES.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/cs_CZ.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/da_DK.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/el_GR.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/es_ES.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/et_EE.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/fi_FI.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/fr_FR.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/hr_HR.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/hu_HU.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/it_IT.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/nl_NL.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/pl_PL.po | 
- | [pt_PT]({{< ref "/f15/language/pt_PT.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/pt_PT.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/ro_RO.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/ru_RU.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/sl_SI.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/sv_SE.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/tr_TR.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/zh_CN.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 3 | 6 | 50.0 | /mnt/stockage/packages/f15/vdr-skins/po/nn_NO.po | 
+ | [de](/f15/language/de) | 6 | 6 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/de_DE.po | 
+ | [lt](/f15/language/lt) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/lt_LT.po | 
+ | [mk](/f15/language/mk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/mk_MK.po | 
+ | [sk](/f15/language/sk) | 2 | 2 | 100.0 | /mnt/stockage/packages/f15/vdr-skins/po/sk_SK.po | 
+ | [ca](/f15/language/ca) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/ca_ES.po | 
+ | [cs](/f15/language/cs) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/cs_CZ.po | 
+ | [da](/f15/language/da) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/da_DK.po | 
+ | [el](/f15/language/el) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/el_GR.po | 
+ | [es](/f15/language/es) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/es_ES.po | 
+ | [et](/f15/language/et) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/et_EE.po | 
+ | [fi](/f15/language/fi) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/fi_FI.po | 
+ | [fr](/f15/language/fr) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/fr_FR.po | 
+ | [hr](/f15/language/hr) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/hr_HR.po | 
+ | [hu](/f15/language/hu) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/hu_HU.po | 
+ | [it](/f15/language/it) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/it_IT.po | 
+ | [nl](/f15/language/nl) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/nl_NL.po | 
+ | [pl](/f15/language/pl) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/pl_PL.po | 
+ | [pt_PT](/f15/language/pt_PT) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/pt_PT.po | 
+ | [ro](/f15/language/ro) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/ro_RO.po | 
+ | [ru](/f15/language/ru) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/ru_RU.po | 
+ | [sl](/f15/language/sl) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/sl_SI.po | 
+ | [sv](/f15/language/sv) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/sv_SE.po | 
+ | [tr](/f15/language/tr) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/tr_TR.po | 
+ | [uk](/f15/language/uk) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/uk_UA.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 5 | 6 | 83.3 | /mnt/stockage/packages/f15/vdr-skins/po/zh_CN.po | 
+ | [nn](/f15/language/nn) | 3 | 6 | 50.0 | /mnt/stockage/packages/f15/vdr-skins/po/nn_NO.po | 
 {.sortable}
 
 

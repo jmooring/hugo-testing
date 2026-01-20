@@ -18,7 +18,7 @@ The package tomoe-gtk (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 48 | 223 | 21.5 | /mnt/stockage/packages/f12/tomoe-gtk/po/ja.po | 
+ | [ja](/f12/language/ja) | 48 | 223 | 21.5 | /mnt/stockage/packages/f12/tomoe-gtk/po/ja.po | 
 {.sortable}
 
 

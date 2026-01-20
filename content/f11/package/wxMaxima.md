@@ -18,16 +18,16 @@ The package wxMaxima (version 0.8.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 2637 | 2754 | 95.8 | /mnt/stockage/packages/f11/wxMaxima/locales/pt_BR.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 2620 | 2754 | 95.1 | /mnt/stockage/packages/f11/wxMaxima/locales/es.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2594 | 2754 | 94.2 | /mnt/stockage/packages/f11/wxMaxima/locales/de.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 2352 | 2754 | 85.4 | /mnt/stockage/packages/f11/wxMaxima/locales/pl.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 2327 | 2754 | 84.5 | /mnt/stockage/packages/f11/wxMaxima/locales/da.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1907 | 2754 | 69.2 | /mnt/stockage/packages/f11/wxMaxima/locales/._cs.po/mnt/stockage/packages/f11/wxMaxima/locales/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1705 | 2754 | 61.9 | /mnt/stockage/packages/f11/wxMaxima/locales/._fr.po/mnt/stockage/packages/f11/wxMaxima/locales/fr.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1178 | 2754 | 42.8 | /mnt/stockage/packages/f11/wxMaxima/locales/ru.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1096 | 2754 | 39.8 | /mnt/stockage/packages/f11/wxMaxima/locales/it.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 1096 | 2754 | 39.8 | /mnt/stockage/packages/f11/wxMaxima/locales/zh_TW.po | 
+ | [pt_BR](/f11/language/pt_BR) | 2637 | 2754 | 95.8 | /mnt/stockage/packages/f11/wxMaxima/locales/pt_BR.po | 
+ | [es](/f11/language/es) | 2620 | 2754 | 95.1 | /mnt/stockage/packages/f11/wxMaxima/locales/es.po | 
+ | [de](/f11/language/de) | 2594 | 2754 | 94.2 | /mnt/stockage/packages/f11/wxMaxima/locales/de.po | 
+ | [pl](/f11/language/pl) | 2352 | 2754 | 85.4 | /mnt/stockage/packages/f11/wxMaxima/locales/pl.po | 
+ | [da](/f11/language/da) | 2327 | 2754 | 84.5 | /mnt/stockage/packages/f11/wxMaxima/locales/da.po | 
+ | [cs](/f11/language/cs) | 1907 | 2754 | 69.2 | /mnt/stockage/packages/f11/wxMaxima/locales/._cs.po/mnt/stockage/packages/f11/wxMaxima/locales/cs.po | 
+ | [fr](/f11/language/fr) | 1705 | 2754 | 61.9 | /mnt/stockage/packages/f11/wxMaxima/locales/._fr.po/mnt/stockage/packages/f11/wxMaxima/locales/fr.po | 
+ | [ru](/f11/language/ru) | 1178 | 2754 | 42.8 | /mnt/stockage/packages/f11/wxMaxima/locales/ru.po | 
+ | [it](/f11/language/it) | 1096 | 2754 | 39.8 | /mnt/stockage/packages/f11/wxMaxima/locales/it.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 1096 | 2754 | 39.8 | /mnt/stockage/packages/f11/wxMaxima/locales/zh_TW.po | 
 {.sortable}
 
 

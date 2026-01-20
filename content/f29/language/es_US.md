@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libmatekbd]({{< ref "/f29/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [mate-menu]({{< ref "/f29/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/) | 
- | [mate-themes]({{< ref "/f29/package/mate-themes.md" >}}) | 0 | 60 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
- | [visualboyadvance-m]({{< ref "/f29/package/visualboyadvance-m.md" >}}) | 0 | 2253 | 0.0 | Spanish (United States) (http://www.transifex.com/bgk/vba-m/language/es_US/) | 
+ | [libmatekbd](/f29/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [mate-menu](/f29/package/mate-menu) | 0 | 316 | 0.0 | Spanish (United States) (http://www.transifex.com/projects/p/MATE/language/es_US/) | 
+ | [mate-themes](/f29/package/mate-themes) | 0 | 60 | 0.0 | Spanish (United States) (http://www.transifex.com/mate/MATE/language/es_US/) | 
+ | [visualboyadvance-m](/f29/package/visualboyadvance-m) | 0 | 2253 | 0.0 | Spanish (United States) (http://www.transifex.com/bgk/vba-m/language/es_US/) | 
 {.sortable}
 
 

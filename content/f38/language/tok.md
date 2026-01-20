@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f38/package/lagrange.md" >}}) | 1951 | 1965 | 99.3 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
- | [kf5-kxmlgui]({{< ref "/f38/package/kf5-kxmlgui.md" >}}) | 1535 | 1574 | 97.5 | toki pona | 
- | [kf5-kcoreaddons]({{< ref "/f38/package/kf5-kcoreaddons.md" >}}) | 352 | 382 | 92.1 | toki pona | 
- | [kf5-kio]({{< ref "/f38/package/kf5-kio.md" >}}) | 7247 | 12037 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
- | [neochat]({{< ref "/f38/package/neochat.md" >}}) | 165 | 2731 | 6.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
- | [plasma-workspace]({{< ref "/f38/package/plasma-workspace.md" >}}) | 258 | 12899 | 2.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/> | 
- | [kolourpaint]({{< ref "/f38/package/kolourpaint.md" >}}) | 10 | 2576 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
+ | [lagrange](/f38/package/lagrange) | 1951 | 1965 | 99.3 | Toki Pona <http://weblate.skyjake.fi/projects/lagrange/ui/tok/> | 
+ | [kf5-kxmlgui](/f38/package/kf5-kxmlgui) | 1535 | 1574 | 97.5 | toki pona | 
+ | [kf5-kcoreaddons](/f38/package/kf5-kcoreaddons) | 352 | 382 | 92.1 | toki pona | 
+ | [kf5-kio](/f38/package/kf5-kio) | 7247 | 12037 | 60.2 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/base/tok/> | 
+ | [neochat](/f38/package/neochat) | 165 | 2731 | 6.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/neochat/tok/> | 
+ | [plasma-workspace](/f38/package/plasma-workspace) | 258 | 12899 | 2.0 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-lawa-pi-ilo-kule-pi-ilo-plasma/tok/> | 
+ | [kolourpaint](/f38/package/kolourpaint) | 10 | 2576 | 0.4 | Toki Pona <http://weblate.blackquill.cc/projects/ante-toki-pi-ilo-kde/ilo-sitelen-kolourpaint/tok/> | 
 {.sortable}
 
 

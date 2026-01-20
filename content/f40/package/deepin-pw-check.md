@@ -18,43 +18,43 @@ The package deepin-pw-check (version 5.1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f40/language/az.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/az.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ca.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/de.po | 
- | [en_US]({{< ref "/f40/language/en_US.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/en_US.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/fi.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/hu.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/it.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ko.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ru.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sq.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/uk.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/vi.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/zh_HK.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ar.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/da.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/hr.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ro.po | 
- | [si]({{< ref "/f40/language/si.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/si.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sk.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/th.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 62 | 70 | 88.6 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/hi_IN.po | 
- | [bo]({{< ref "/f40/language/bo.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/bo.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/cs.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/el.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/fr.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ms.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/pt_BR.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sr.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/tr.po | 
- | [ug]({{< ref "/f40/language/ug.md" >}}) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ug.po | 
+ | [az](/f40/language/az) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/az.po | 
+ | [ca](/f40/language/ca) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ca.po | 
+ | [de](/f40/language/de) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/de.po | 
+ | [en_US](/f40/language/en_US) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/en_US.po | 
+ | [es](/f40/language/es) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/es.po | 
+ | [fi](/f40/language/fi) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/fi.po | 
+ | [hu](/f40/language/hu) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/hu.po | 
+ | [it](/f40/language/it) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/it.po | 
+ | [ko](/f40/language/ko) | 59 | 59 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ko.po | 
+ | [nl](/f40/language/nl) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/nl.po | 
+ | [pl](/f40/language/pl) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/pl.po | 
+ | [ru](/f40/language/ru) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ru.po | 
+ | [sq](/f40/language/sq) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sq.po | 
+ | [uk](/f40/language/uk) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/uk.po | 
+ | [vi](/f40/language/vi) | 59 | 59 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/vi.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/zh_TW.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 84 | 84 | 100.0 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/zh_HK.po | 
+ | [ar](/f40/language/ar) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ar.po | 
+ | [da](/f40/language/da) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/da.po | 
+ | [hr](/f40/language/hr) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/hr.po | 
+ | [ro](/f40/language/ro) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ro.po | 
+ | [si](/f40/language/si) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/si.po | 
+ | [sk](/f40/language/sk) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sk.po | 
+ | [th](/f40/language/th) | 54 | 59 | 91.5 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/th.po | 
+ | [hi](/f40/language/hi) | 62 | 70 | 88.6 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/hi_IN.po | 
+ | [bo](/f40/language/bo) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/bo.po | 
+ | [cs](/f40/language/cs) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/cs.po | 
+ | [el](/f40/language/el) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/el.po | 
+ | [fr](/f40/language/fr) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/fr.po | 
+ | [ms](/f40/language/ms) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ms.po | 
+ | [pt](/f40/language/pt) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/pt_BR.po | 
+ | [sl](/f40/language/sl) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sl.po | 
+ | [sr](/f40/language/sr) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/sr.po | 
+ | [tr](/f40/language/tr) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/tr.po | 
+ | [ug](/f40/language/ug) | 67 | 84 | 79.8 | /mnt/stockage/packages/f40/deepin-pw-check/misc/po/ug.po | 
 {.sortable}
 
 

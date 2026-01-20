@@ -18,31 +18,31 @@ The package kdecoration (version 5.13.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ca/kdecoration.po | 
- | [ca@valencia]({{< ref "/f28/language/ca@valencia.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ca@valencia/kdecoration.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/da/kdecoration.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/de/kdecoration.po | 
- | [en_GB]({{< ref "/f28/language/en_GB.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/en_GB/kdecoration.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/es/kdecoration.po | 
- | [eu]({{< ref "/f28/language/eu.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/eu/kdecoration.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/fi/kdecoration.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/fr/kdecoration.po | 
- | [gl]({{< ref "/f28/language/gl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/gl/kdecoration.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/id/kdecoration.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/it/kdecoration.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ko/kdecoration.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/nl/kdecoration.po | 
- | [nn]({{< ref "/f28/language/nn.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/nn/kdecoration.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/pl/kdecoration.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/pt/kdecoration.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/pt_BR/kdecoration.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ru/kdecoration.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/sk/kdecoration.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/sv/kdecoration.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/uk/kdecoration.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/zh_CN/kdecoration.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 21 | 27 | 77.8 | /mnt/stockage/packages/f28/kdecoration/po/cs/kdecoration.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f28/kdecoration/po/ja/kdecoration.po | 
+ | [ca](/f28/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ca/kdecoration.po | 
+ | [ca@valencia](/f28/language/ca@valencia) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ca@valencia/kdecoration.po | 
+ | [da](/f28/language/da) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/da/kdecoration.po | 
+ | [de](/f28/language/de) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/de/kdecoration.po | 
+ | [en_GB](/f28/language/en_GB) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/en_GB/kdecoration.po | 
+ | [es](/f28/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/es/kdecoration.po | 
+ | [eu](/f28/language/eu) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/eu/kdecoration.po | 
+ | [fi](/f28/language/fi) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/fi/kdecoration.po | 
+ | [fr](/f28/language/fr) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/fr/kdecoration.po | 
+ | [gl](/f28/language/gl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/gl/kdecoration.po | 
+ | [id](/f28/language/id) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/id/kdecoration.po | 
+ | [it](/f28/language/it) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/it/kdecoration.po | 
+ | [ko](/f28/language/ko) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ko/kdecoration.po | 
+ | [nl](/f28/language/nl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/nl/kdecoration.po | 
+ | [nn](/f28/language/nn) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/nn/kdecoration.po | 
+ | [pl](/f28/language/pl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/pl/kdecoration.po | 
+ | [pt](/f28/language/pt) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/pt/kdecoration.po | 
+ | [pt_BR](/f28/language/pt_BR) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/pt_BR/kdecoration.po | 
+ | [ru](/f28/language/ru) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/ru/kdecoration.po | 
+ | [sk](/f28/language/sk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/sk/kdecoration.po | 
+ | [sv](/f28/language/sv) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/sv/kdecoration.po | 
+ | [uk](/f28/language/uk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/uk/kdecoration.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 27 | 27 | 100.0 | /mnt/stockage/packages/f28/kdecoration/po/zh_CN/kdecoration.po | 
+ | [cs](/f28/language/cs) | 21 | 27 | 77.8 | /mnt/stockage/packages/f28/kdecoration/po/cs/kdecoration.po | 
+ | [ja](/f28/language/ja) | 0 | 27 | 0.0 | /mnt/stockage/packages/f28/kdecoration/po/ja/kdecoration.po | 
 {.sortable}
 
 

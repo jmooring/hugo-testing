@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 125 | 39559 | 0.3 | Berber (Other) <ber@li.org> | 
+ | [calibre](/f17/package/calibre) | 125 | 39559 | 0.3 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

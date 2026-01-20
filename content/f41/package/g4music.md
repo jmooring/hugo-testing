@@ -18,35 +18,35 @@ The package g4music (version 4.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f41/language/be.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/bg.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 356 | 356 | 100.0 | /mnt/stockage/packages/f41/g4music/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/de.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/eu.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/fa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/fi.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/hi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f41/g4music/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f41/g4music/po/ja.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/oc.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 385 | 385 | 100.0 | /mnt/stockage/packages/f41/g4music/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/sl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 776 | 776 | 100.0 | /mnt/stockage/packages/f41/g4music/po/zh_TW.po/mnt/stockage/packages/f41/g4music/po/zh_CN.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 158 | 166 | 95.2 | /mnt/stockage/packages/f41/g4music/po/fr.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 255 | 388 | 65.7 | /mnt/stockage/packages/f41/g4music/po/ka.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 99 | 158 | 62.7 | /mnt/stockage/packages/f41/g4music/po/et.po | 
+ | [be](/f41/language/be) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/be.po | 
+ | [bg](/f41/language/bg) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/bg.po | 
+ | [cs](/f41/language/cs) | 356 | 356 | 100.0 | /mnt/stockage/packages/f41/g4music/po/cs.po | 
+ | [da](/f41/language/da) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/da.po | 
+ | [de](/f41/language/de) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/de.po | 
+ | [es](/f41/language/es) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/es.po | 
+ | [eu](/f41/language/eu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/eu.po | 
+ | [fa](/f41/language/fa) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/fa.po | 
+ | [fi](/f41/language/fi) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/fi.po | 
+ | [he](/f41/language/he) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/he.po | 
+ | [hi](/f41/language/hi) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/hi.po | 
+ | [hu](/f41/language/hu) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/hu.po | 
+ | [id](/f41/language/id) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/id.po | 
+ | [it](/f41/language/it) | 158 | 158 | 100.0 | /mnt/stockage/packages/f41/g4music/po/it.po | 
+ | [ja](/f41/language/ja) | 158 | 158 | 100.0 | /mnt/stockage/packages/f41/g4music/po/ja.po | 
+ | [nl](/f41/language/nl) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/nl.po | 
+ | [oc](/f41/language/oc) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/oc.po | 
+ | [pt_BR](/f41/language/pt_BR) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 169 | 169 | 100.0 | /mnt/stockage/packages/f41/g4music/po/ro.po | 
+ | [ru](/f41/language/ru) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/ru.po | 
+ | [sk](/f41/language/sk) | 385 | 385 | 100.0 | /mnt/stockage/packages/f41/g4music/po/sk.po | 
+ | [sl](/f41/language/sl) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/sl.po | 
+ | [sv](/f41/language/sv) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/sv.po | 
+ | [tr](/f41/language/tr) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/tr.po | 
+ | [uk](/f41/language/uk) | 388 | 388 | 100.0 | /mnt/stockage/packages/f41/g4music/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 776 | 776 | 100.0 | /mnt/stockage/packages/f41/g4music/po/zh_TW.po/mnt/stockage/packages/f41/g4music/po/zh_CN.po | 
+ | [fr](/f41/language/fr) | 158 | 166 | 95.2 | /mnt/stockage/packages/f41/g4music/po/fr.po | 
+ | [ka](/f41/language/ka) | 255 | 388 | 65.7 | /mnt/stockage/packages/f41/g4music/po/ka.po | 
+ | [et](/f41/language/et) | 99 | 158 | 62.7 | /mnt/stockage/packages/f41/g4music/po/et.po | 
 {.sortable}
 
 

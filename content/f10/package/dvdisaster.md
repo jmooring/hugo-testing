@@ -18,11 +18,11 @@ The package dvdisaster (version 0.70.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f10/dvdisaster/locale/de.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f10/dvdisaster/locale/ru.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 3623 | 4245 | 85.3 | /mnt/stockage/packages/f10/dvdisaster/locale/sv.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 3170 | 4245 | 74.7 | /mnt/stockage/packages/f10/dvdisaster/locale/cs.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2977 | 4245 | 70.1 | /mnt/stockage/packages/f10/dvdisaster/locale/it.po | 
+ | [de](/f10/language/de) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f10/dvdisaster/locale/de.po | 
+ | [ru](/f10/language/ru) | 4230 | 4245 | 99.6 | /mnt/stockage/packages/f10/dvdisaster/locale/ru.po | 
+ | [sv](/f10/language/sv) | 3623 | 4245 | 85.3 | /mnt/stockage/packages/f10/dvdisaster/locale/sv.po | 
+ | [cs](/f10/language/cs) | 3170 | 4245 | 74.7 | /mnt/stockage/packages/f10/dvdisaster/locale/cs.po | 
+ | [it](/f10/language/it) | 2977 | 4245 | 70.1 | /mnt/stockage/packages/f10/dvdisaster/locale/it.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package rpminspect (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 6243 | 6243 | 100.0 | /mnt/stockage/packages/f40/rpminspect/po/ru_RU.po | 
+ | [ru](/f40/language/ru) | 6243 | 6243 | 100.0 | /mnt/stockage/packages/f40/rpminspect/po/ru_RU.po | 
 {.sortable}
 
 

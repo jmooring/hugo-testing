@@ -18,10 +18,10 @@ The package python-oslo-concurrency (version 3.29.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 171 | 171 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f30/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 87 | 87 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f30/python-oslo-concurrency/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [de](/f30/language/de) | 87 | 87 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/de/LC_MESSAGES/oslo_concurrency.po | 
+ | [en_GB](/f30/language/en_GB) | 171 | 171 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/en_GB/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f30/python-oslo-concurrency/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f30/language/es) | 87 | 87 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/es/LC_MESSAGES/oslo_concurrency.po | 
+ | [fr](/f30/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f30/python-oslo-concurrency/oslo_concurrency/locale/fr/LC_MESSAGES/oslo_concurrency.po/mnt/stockage/packages/f30/python-oslo-concurrency/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

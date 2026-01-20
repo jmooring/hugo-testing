@@ -18,11 +18,11 @@ The package vdr-tvguide (version 1.2.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 1045 | 1052 | 99.3 | /mnt/stockage/packages/f29/vdr-tvguide/po/de_DE.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 938 | 1052 | 89.2 | /mnt/stockage/packages/f29/vdr-tvguide/po/it_IT.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 590 | 1052 | 56.1 | /mnt/stockage/packages/f29/vdr-tvguide/po/ca_ES.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 584 | 1052 | 55.5 | /mnt/stockage/packages/f29/vdr-tvguide/po/ru_RU.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 584 | 1052 | 55.5 | /mnt/stockage/packages/f29/vdr-tvguide/po/sk_SK.po | 
+ | [de](/f29/language/de) | 1045 | 1052 | 99.3 | /mnt/stockage/packages/f29/vdr-tvguide/po/de_DE.po | 
+ | [it](/f29/language/it) | 938 | 1052 | 89.2 | /mnt/stockage/packages/f29/vdr-tvguide/po/it_IT.po | 
+ | [ca](/f29/language/ca) | 590 | 1052 | 56.1 | /mnt/stockage/packages/f29/vdr-tvguide/po/ca_ES.po | 
+ | [ru](/f29/language/ru) | 584 | 1052 | 55.5 | /mnt/stockage/packages/f29/vdr-tvguide/po/ru_RU.po | 
+ | [sk](/f29/language/sk) | 584 | 1052 | 55.5 | /mnt/stockage/packages/f29/vdr-tvguide/po/sk_SK.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 134 | 2424 | 5.5 | Napulitano <napulitano@nap.i-iter.mobi> | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pootle](/f12/package/pootle) | 134 | 2424 | 5.5 | Napulitano <napulitano@nap.i-iter.mobi> | 
+ | [vidalia](/f12/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

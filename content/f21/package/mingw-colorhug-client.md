@@ -18,34 +18,34 @@ The package mingw-colorhug-client (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f21/language/en_US.md" >}}) | 1220 | 1220 | 100.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/en_US.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/it_IT.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/lv.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pt_BR.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/uk.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/zh_TW.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1011 | 1220 | 82.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/hu.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 1011 | 1220 | 82.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/nn.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 975 | 1220 | 79.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/es_ES.po | 
- | [en_GB]({{< ref "/f21/language/en_GB.md" >}}) | 922 | 1220 | 75.6 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/en_GB.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 892 | 1220 | 73.1 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/tr.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 772 | 1220 | 63.3 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/fr_FR.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 746 | 1220 | 61.1 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/cs_CZ.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 721 | 1220 | 59.1 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/nl_NL.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 683 | 1220 | 56.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/ro.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 681 | 1220 | 55.8 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/da.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 1027 | 1998 | 51.4 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pl_PL.po/mnt/stockage/packages/f21/mingw-colorhug-client/po/pl.po | 
- | [nb_NO]({{< ref "/f21/language/nb_NO.md" >}}) | 614 | 1220 | 50.3 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/nb.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 481 | 1220 | 39.4 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/ja_JP.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 475 | 1220 | 38.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/fi.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 887 | 2440 | 36.4 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/de.po/mnt/stockage/packages/f21/mingw-colorhug-client/po/de_DE.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 364 | 1220 | 29.8 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/sv.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 49 | 1220 | 4.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/fa.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 40 | 1220 | 3.3 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/el_GR.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 20 | 1220 | 1.6 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/et.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pt.po | 
- | [pt_PT]({{< ref "/f21/language/pt_PT.md" >}}) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pt_PT.po | 
+ | [en_US](/f21/language/en_US) | 1220 | 1220 | 100.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/en_US.po | 
+ | [it](/f21/language/it) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/it_IT.po | 
+ | [lv](/f21/language/lv) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/lv.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pt_BR.po | 
+ | [ru](/f21/language/ru) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/ru.po | 
+ | [uk](/f21/language/uk) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/uk.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 1027 | 1220 | 84.2 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/zh_TW.po | 
+ | [hu](/f21/language/hu) | 1011 | 1220 | 82.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/hu.po | 
+ | [nn](/f21/language/nn) | 1011 | 1220 | 82.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/nn.po | 
+ | [es](/f21/language/es) | 975 | 1220 | 79.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/es_ES.po | 
+ | [en_GB](/f21/language/en_GB) | 922 | 1220 | 75.6 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/en_GB.po | 
+ | [tr](/f21/language/tr) | 892 | 1220 | 73.1 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/tr.po | 
+ | [fr](/f21/language/fr) | 772 | 1220 | 63.3 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/fr_FR.po | 
+ | [cs](/f21/language/cs) | 746 | 1220 | 61.1 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/cs_CZ.po | 
+ | [nl](/f21/language/nl) | 721 | 1220 | 59.1 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/nl_NL.po | 
+ | [ro](/f21/language/ro) | 683 | 1220 | 56.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/ro.po | 
+ | [da](/f21/language/da) | 681 | 1220 | 55.8 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/da.po | 
+ | [pl](/f21/language/pl) | 1027 | 1998 | 51.4 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pl_PL.po/mnt/stockage/packages/f21/mingw-colorhug-client/po/pl.po | 
+ | [nb_NO](/f21/language/nb_NO) | 614 | 1220 | 50.3 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/nb.po | 
+ | [ja](/f21/language/ja) | 481 | 1220 | 39.4 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/ja_JP.po | 
+ | [fi](/f21/language/fi) | 475 | 1220 | 38.9 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/fi.po | 
+ | [de](/f21/language/de) | 887 | 2440 | 36.4 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/de.po/mnt/stockage/packages/f21/mingw-colorhug-client/po/de_DE.po | 
+ | [sv](/f21/language/sv) | 364 | 1220 | 29.8 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/sv.po | 
+ | [fa](/f21/language/fa) | 49 | 1220 | 4.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/fa.po | 
+ | [el](/f21/language/el) | 40 | 1220 | 3.3 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/el_GR.po | 
+ | [et](/f21/language/et) | 20 | 1220 | 1.6 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/et.po | 
+ | [pt](/f21/language/pt) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pt.po | 
+ | [pt_PT](/f21/language/pt_PT) | 0 | 1220 | 0.0 | /mnt/stockage/packages/f21/mingw-colorhug-client/po/pt_PT.po | 
 {.sortable}
 
 

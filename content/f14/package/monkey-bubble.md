@@ -18,34 +18,34 @@ The package monkey-bubble (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/bg.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/de.po | 
- | [en_CA]({{< ref "/f14/language/en_CA.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/en_CA.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/en_GB.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/sr@Latn.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/es.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/eu.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/fi.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/hr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/hu.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ja.po | 
- | [lv]({{< ref "/f14/language/lv.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/lv.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ms.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ne.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/nl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 276 | 276 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ru.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 263 | 263 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/sr.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 269 | 269 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/uk.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/vi.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/zh_TW.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 224 | 254 | 88.2 | /mnt/stockage/packages/f14/monkey-bubble/help/fr/fr.po/mnt/stockage/packages/f14/monkey-bubble/po/fr.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 15 | 309 | 4.9 | /mnt/stockage/packages/f14/monkey-bubble/po/rw.po | 
+ | [bg](/f14/language/bg) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/bg.po | 
+ | [cs](/f14/language/cs) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/cs.po | 
+ | [de](/f14/language/de) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/de.po | 
+ | [en_CA](/f14/language/en_CA) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/en_CA.po | 
+ | [en_GB](/f14/language/en_GB) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/en_GB.po | 
+ | [error](/f14/language/error) | 263 | 263 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/sr@Latn.po | 
+ | [es](/f14/language/es) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/es.po | 
+ | [eu](/f14/language/eu) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/eu.po | 
+ | [fi](/f14/language/fi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/fi.po | 
+ | [hr](/f14/language/hr) | 269 | 269 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/hr.po | 
+ | [hu](/f14/language/hu) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/hu.po | 
+ | [ja](/f14/language/ja) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ja.po | 
+ | [lv](/f14/language/lv) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/lv.po | 
+ | [ms](/f14/language/ms) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ms.po | 
+ | [ne](/f14/language/ne) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ne.po | 
+ | [nl](/f14/language/nl) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/nl.po | 
+ | [pt](/f14/language/pt) | 276 | 276 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 276 | 276 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/ru.po | 
+ | [sr](/f14/language/sr) | 263 | 263 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/sr.po | 
+ | [sv](/f14/language/sv) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/sv.po | 
+ | [tr](/f14/language/tr) | 269 | 269 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/tr.po | 
+ | [uk](/f14/language/uk) | 269 | 269 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/uk.po | 
+ | [vi](/f14/language/vi) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/vi.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 309 | 309 | 100.0 | /mnt/stockage/packages/f14/monkey-bubble/po/zh_TW.po | 
+ | [fr](/f14/language/fr) | 224 | 254 | 88.2 | /mnt/stockage/packages/f14/monkey-bubble/help/fr/fr.po/mnt/stockage/packages/f14/monkey-bubble/po/fr.po | 
+ | [rw](/f14/language/rw) | 15 | 309 | 4.9 | /mnt/stockage/packages/f14/monkey-bubble/po/rw.po | 
 {.sortable}
 
 

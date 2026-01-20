@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f23/package/tuxpaint.md" >}}) | 1515 | 1515 | 100.0 |  | 
- | [libreoffice]({{< ref "/f23/package/libreoffice.md" >}}) | 65050 | 99736 | 65.2 | LANGUAGE <LL@li.org> | 
- | [cinnamon-translations]({{< ref "/f23/package/cinnamon-translations.md" >}}) | 0 | 5515 | 0.0 | Sanskrit <sa@li.org> | 
- | [iok]({{< ref "/f23/package/iok.md" >}}) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
+ | [tuxpaint](/f23/package/tuxpaint) | 1515 | 1515 | 100.0 |  | 
+ | [libreoffice](/f23/package/libreoffice) | 65050 | 99736 | 65.2 | LANGUAGE <LL@li.org> | 
+ | [cinnamon-translations](/f23/package/cinnamon-translations) | 0 | 5515 | 0.0 | Sanskrit <sa@li.org> | 
+ | [iok](/f23/package/iok) | 0 | 206 | 0.0 | Sanskrit <LL@li.org> | 
 {.sortable}
 
 

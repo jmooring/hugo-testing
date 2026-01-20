@@ -18,31 +18,31 @@ The package viking (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/es.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/hu.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 1969 | 2049 | 96.1 | /mnt/stockage/packages/f16/viking/po/pt_BR.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1950 | 2049 | 95.2 | /mnt/stockage/packages/f16/viking/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1831 | 2049 | 89.4 | /mnt/stockage/packages/f16/viking/po/it.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1682 | 2049 | 82.1 | /mnt/stockage/packages/f16/viking/po/ru.po | 
- | [lt]({{< ref "/f16/language/lt.md" >}}) | 1531 | 2049 | 74.7 | /mnt/stockage/packages/f16/viking/po/lt.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 929 | 2049 | 45.3 | /mnt/stockage/packages/f16/viking/po/sv.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 845 | 2049 | 41.2 | /mnt/stockage/packages/f16/viking/po/pl.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 715 | 2049 | 34.9 | /mnt/stockage/packages/f16/viking/po/sl.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 613 | 2049 | 29.9 | /mnt/stockage/packages/f16/viking/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 612 | 2049 | 29.9 | /mnt/stockage/packages/f16/viking/po/nb.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 610 | 2049 | 29.8 | /mnt/stockage/packages/f16/viking/po/zh_TW.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 565 | 2049 | 27.6 | /mnt/stockage/packages/f16/viking/po/id.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 469 | 2049 | 22.9 | /mnt/stockage/packages/f16/viking/po/da.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 281 | 2049 | 13.7 | /mnt/stockage/packages/f16/viking/po/el.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 106 | 2049 | 5.2 | /mnt/stockage/packages/f16/viking/po/nl.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 53 | 2049 | 2.6 | /mnt/stockage/packages/f16/viking/po/en_GB.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 52 | 2049 | 2.5 | /mnt/stockage/packages/f16/viking/po/ja.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 21 | 2049 | 1.0 | /mnt/stockage/packages/f16/viking/po/lv.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 1 | 2049 | 0.0 | /mnt/stockage/packages/f16/viking/po/he.po | 
- | [jv]({{< ref "/f16/language/jv.md" >}}) | 0 | 2049 | 0.0 | /mnt/stockage/packages/f16/viking/po/jv.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 0 | 2049 | 0.0 | /mnt/stockage/packages/f16/viking/po/uk.po | 
+ | [cs](/f16/language/cs) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/cs.po | 
+ | [de](/f16/language/de) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/de.po | 
+ | [es](/f16/language/es) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/es.po | 
+ | [hu](/f16/language/hu) | 2049 | 2049 | 100.0 | /mnt/stockage/packages/f16/viking/po/hu.po | 
+ | [pt_BR](/f16/language/pt_BR) | 1969 | 2049 | 96.1 | /mnt/stockage/packages/f16/viking/po/pt_BR.po | 
+ | [fr](/f16/language/fr) | 1950 | 2049 | 95.2 | /mnt/stockage/packages/f16/viking/po/fr.po | 
+ | [it](/f16/language/it) | 1831 | 2049 | 89.4 | /mnt/stockage/packages/f16/viking/po/it.po | 
+ | [ru](/f16/language/ru) | 1682 | 2049 | 82.1 | /mnt/stockage/packages/f16/viking/po/ru.po | 
+ | [lt](/f16/language/lt) | 1531 | 2049 | 74.7 | /mnt/stockage/packages/f16/viking/po/lt.po | 
+ | [sv](/f16/language/sv) | 929 | 2049 | 45.3 | /mnt/stockage/packages/f16/viking/po/sv.po | 
+ | [pl](/f16/language/pl) | 845 | 2049 | 41.2 | /mnt/stockage/packages/f16/viking/po/pl.po | 
+ | [sl](/f16/language/sl) | 715 | 2049 | 34.9 | /mnt/stockage/packages/f16/viking/po/sl.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 613 | 2049 | 29.9 | /mnt/stockage/packages/f16/viking/po/zh_CN.po | 
+ | [nb_NO](/f16/language/nb_NO) | 612 | 2049 | 29.9 | /mnt/stockage/packages/f16/viking/po/nb.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 610 | 2049 | 29.8 | /mnt/stockage/packages/f16/viking/po/zh_TW.po | 
+ | [id](/f16/language/id) | 565 | 2049 | 27.6 | /mnt/stockage/packages/f16/viking/po/id.po | 
+ | [da](/f16/language/da) | 469 | 2049 | 22.9 | /mnt/stockage/packages/f16/viking/po/da.po | 
+ | [el](/f16/language/el) | 281 | 2049 | 13.7 | /mnt/stockage/packages/f16/viking/po/el.po | 
+ | [nl](/f16/language/nl) | 106 | 2049 | 5.2 | /mnt/stockage/packages/f16/viking/po/nl.po | 
+ | [en_GB](/f16/language/en_GB) | 53 | 2049 | 2.6 | /mnt/stockage/packages/f16/viking/po/en_GB.po | 
+ | [ja](/f16/language/ja) | 52 | 2049 | 2.5 | /mnt/stockage/packages/f16/viking/po/ja.po | 
+ | [lv](/f16/language/lv) | 21 | 2049 | 1.0 | /mnt/stockage/packages/f16/viking/po/lv.po | 
+ | [he](/f16/language/he) | 1 | 2049 | 0.0 | /mnt/stockage/packages/f16/viking/po/he.po | 
+ | [jv](/f16/language/jv) | 0 | 2049 | 0.0 | /mnt/stockage/packages/f16/viking/po/jv.po | 
+ | [uk](/f16/language/uk) | 0 | 2049 | 0.0 | /mnt/stockage/packages/f16/viking/po/uk.po | 
 {.sortable}
 
 

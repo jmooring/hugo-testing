@@ -18,16 +18,16 @@ The package trytond-analytic-account (version 2.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 195 | 195 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/bg_BG.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/ca_ES.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 300 | 300 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/de_DE.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/es_ES.po | 
- | [es_AR]({{< ref "/f24/language/es_AR.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/es_AR.po | 
- | [es_CO]({{< ref "/f24/language/es_CO.md" >}}) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/es_CO.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/fr_FR.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/cs_CZ.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/nl_NL.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 193 | 0.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/ru_RU.po | 
+ | [bg](/f24/language/bg) | 195 | 195 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/bg_BG.po | 
+ | [ca](/f24/language/ca) | 192 | 192 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/ca_ES.po | 
+ | [de](/f24/language/de) | 300 | 300 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/de_DE.po | 
+ | [es](/f24/language/es) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/es_ES.po | 
+ | [es_AR](/f24/language/es_AR) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/es_AR.po | 
+ | [es_CO](/f24/language/es_CO) | 193 | 193 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/es_CO.po | 
+ | [fr](/f24/language/fr) | 250 | 250 | 100.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/fr_FR.po | 
+ | [cs](/f24/language/cs) | 0 | 193 | 0.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/cs_CZ.po | 
+ | [nl](/f24/language/nl) | 0 | 193 | 0.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/nl_NL.po | 
+ | [ru](/f24/language/ru) | 0 | 193 | 0.0 | /mnt/stockage/packages/f24/trytond-analytic-account/locale/ru_RU.po | 
 {.sortable}
 
 

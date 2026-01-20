@@ -18,18 +18,18 @@ The package gnomint (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 3488 | 3488 | 100.0 | /mnt/stockage/packages/f13/gnomint/po/es.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 4412 | 4412 | 100.0 | /mnt/stockage/packages/f13/gnomint/po/ru.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 2755 | 4412 | 62.4 | /mnt/stockage/packages/f13/gnomint/po/fr.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 2744 | 4412 | 62.2 | /mnt/stockage/packages/f13/gnomint/po/ca.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 2080 | 4412 | 47.1 | /mnt/stockage/packages/f13/gnomint/po/it.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 1992 | 4412 | 45.1 | /mnt/stockage/packages/f13/gnomint/po/de.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 1544 | 4412 | 35.0 | /mnt/stockage/packages/f13/gnomint/po/sv.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 469 | 4412 | 10.6 | /mnt/stockage/packages/f13/gnomint/po/sk.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 146 | 4412 | 3.3 | /mnt/stockage/packages/f13/gnomint/po/pt_BR.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 135 | 4412 | 3.1 | /mnt/stockage/packages/f13/gnomint/po/fi.po | 
- | [oc]({{< ref "/f13/language/oc.md" >}}) | 72 | 4412 | 1.6 | /mnt/stockage/packages/f13/gnomint/po/oc.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 49 | 4412 | 1.1 | /mnt/stockage/packages/f13/gnomint/po/cs.po | 
+ | [es](/f13/language/es) | 3488 | 3488 | 100.0 | /mnt/stockage/packages/f13/gnomint/po/es.po | 
+ | [ru](/f13/language/ru) | 4412 | 4412 | 100.0 | /mnt/stockage/packages/f13/gnomint/po/ru.po | 
+ | [fr](/f13/language/fr) | 2755 | 4412 | 62.4 | /mnt/stockage/packages/f13/gnomint/po/fr.po | 
+ | [ca](/f13/language/ca) | 2744 | 4412 | 62.2 | /mnt/stockage/packages/f13/gnomint/po/ca.po | 
+ | [it](/f13/language/it) | 2080 | 4412 | 47.1 | /mnt/stockage/packages/f13/gnomint/po/it.po | 
+ | [de](/f13/language/de) | 1992 | 4412 | 45.1 | /mnt/stockage/packages/f13/gnomint/po/de.po | 
+ | [sv](/f13/language/sv) | 1544 | 4412 | 35.0 | /mnt/stockage/packages/f13/gnomint/po/sv.po | 
+ | [sk](/f13/language/sk) | 469 | 4412 | 10.6 | /mnt/stockage/packages/f13/gnomint/po/sk.po | 
+ | [pt_BR](/f13/language/pt_BR) | 146 | 4412 | 3.3 | /mnt/stockage/packages/f13/gnomint/po/pt_BR.po | 
+ | [fi](/f13/language/fi) | 135 | 4412 | 3.1 | /mnt/stockage/packages/f13/gnomint/po/fi.po | 
+ | [oc](/f13/language/oc) | 72 | 4412 | 1.6 | /mnt/stockage/packages/f13/gnomint/po/oc.po | 
+ | [cs](/f13/language/cs) | 49 | 4412 | 1.1 | /mnt/stockage/packages/f13/gnomint/po/cs.po | 
 {.sortable}
 
 

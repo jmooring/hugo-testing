@@ -18,11 +18,11 @@ The package fcitx-hangul (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f25/fcitx-hangul/po/ja.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f25/fcitx-hangul/po/ko.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f25/fcitx-hangul/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 24 | 37 | 64.9 | /mnt/stockage/packages/f25/fcitx-hangul/po/zh_TW.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 12 | 37 | 32.4 | /mnt/stockage/packages/f25/fcitx-hangul/po/de.po | 
+ | [ja](/f25/language/ja) | 37 | 37 | 100.0 | /mnt/stockage/packages/f25/fcitx-hangul/po/ja.po | 
+ | [ko](/f25/language/ko) | 37 | 37 | 100.0 | /mnt/stockage/packages/f25/fcitx-hangul/po/ko.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 37 | 37 | 100.0 | /mnt/stockage/packages/f25/fcitx-hangul/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 24 | 37 | 64.9 | /mnt/stockage/packages/f25/fcitx-hangul/po/zh_TW.po | 
+ | [de](/f25/language/de) | 12 | 37 | 32.4 | /mnt/stockage/packages/f25/fcitx-hangul/po/de.po | 
 {.sortable}
 
 

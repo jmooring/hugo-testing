@@ -18,24 +18,24 @@ The package pspp (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/ca.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/es.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/nl.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/uk.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 13564 | 13584 | 99.9 | /mnt/stockage/packages/f38/pspp/po/hu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 10694 | 13584 | 78.7 | /mnt/stockage/packages/f38/pspp/po/fr.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 9799 | 13584 | 72.1 | /mnt/stockage/packages/f38/pspp/po/el.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 8663 | 13584 | 63.8 | /mnt/stockage/packages/f38/pspp/po/zh_CN.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 8487 | 13584 | 62.5 | /mnt/stockage/packages/f38/pspp/po/ja.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 8112 | 13584 | 59.7 | /mnt/stockage/packages/f38/pspp/po/sl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 8104 | 13584 | 59.7 | /mnt/stockage/packages/f38/pspp/po/ru.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 7794 | 13584 | 57.4 | /mnt/stockage/packages/f38/pspp/po/lt.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 7768 | 13584 | 57.2 | /mnt/stockage/packages/f38/pspp/po/gl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 7768 | 13584 | 57.2 | /mnt/stockage/packages/f38/pspp/po/pl.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 4764 | 13584 | 35.1 | /mnt/stockage/packages/f38/pspp/po/tr.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2208 | 13584 | 16.3 | /mnt/stockage/packages/f38/pspp/po/pt_BR.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 11 | 13584 | 0.1 | /mnt/stockage/packages/f38/pspp/po/cs.po | 
+ | [ca](/f38/language/ca) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/ca.po | 
+ | [de](/f38/language/de) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/de.po | 
+ | [es](/f38/language/es) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/es.po | 
+ | [nl](/f38/language/nl) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/nl.po | 
+ | [uk](/f38/language/uk) | 13584 | 13584 | 100.0 | /mnt/stockage/packages/f38/pspp/po/uk.po | 
+ | [hu](/f38/language/hu) | 13564 | 13584 | 99.9 | /mnt/stockage/packages/f38/pspp/po/hu.po | 
+ | [fr](/f38/language/fr) | 10694 | 13584 | 78.7 | /mnt/stockage/packages/f38/pspp/po/fr.po | 
+ | [el](/f38/language/el) | 9799 | 13584 | 72.1 | /mnt/stockage/packages/f38/pspp/po/el.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 8663 | 13584 | 63.8 | /mnt/stockage/packages/f38/pspp/po/zh_CN.po | 
+ | [ja](/f38/language/ja) | 8487 | 13584 | 62.5 | /mnt/stockage/packages/f38/pspp/po/ja.po | 
+ | [sl](/f38/language/sl) | 8112 | 13584 | 59.7 | /mnt/stockage/packages/f38/pspp/po/sl.po | 
+ | [ru](/f38/language/ru) | 8104 | 13584 | 59.7 | /mnt/stockage/packages/f38/pspp/po/ru.po | 
+ | [lt](/f38/language/lt) | 7794 | 13584 | 57.4 | /mnt/stockage/packages/f38/pspp/po/lt.po | 
+ | [gl](/f38/language/gl) | 7768 | 13584 | 57.2 | /mnt/stockage/packages/f38/pspp/po/gl.po | 
+ | [pl](/f38/language/pl) | 7768 | 13584 | 57.2 | /mnt/stockage/packages/f38/pspp/po/pl.po | 
+ | [tr](/f38/language/tr) | 4764 | 13584 | 35.1 | /mnt/stockage/packages/f38/pspp/po/tr.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2208 | 13584 | 16.3 | /mnt/stockage/packages/f38/pspp/po/pt_BR.po | 
+ | [cs](/f38/language/cs) | 11 | 13584 | 0.1 | /mnt/stockage/packages/f38/pspp/po/cs.po | 
 {.sortable}
 
 

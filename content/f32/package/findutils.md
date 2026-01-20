@@ -18,45 +18,45 @@ The package findutils (version 4.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 2233 | 2634 | 84.8 | /mnt/stockage/packages/f32/findutils/po/bg.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/el.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/eo.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/et.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/hu.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/sv.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/uk.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/vi.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/zh_CN.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 2062 | 2634 | 78.3 | /mnt/stockage/packages/f32/findutils/po/it.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 2062 | 2634 | 78.3 | /mnt/stockage/packages/f32/findutils/po/tr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1613 | 2634 | 61.2 | /mnt/stockage/packages/f32/findutils/po/ja.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1497 | 2634 | 56.8 | /mnt/stockage/packages/f32/findutils/po/es.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1490 | 2634 | 56.6 | /mnt/stockage/packages/f32/findutils/po/gl.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1460 | 2634 | 55.4 | /mnt/stockage/packages/f32/findutils/po/sk.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 1276 | 2634 | 48.4 | /mnt/stockage/packages/f32/findutils/po/id.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 1253 | 2634 | 47.6 | /mnt/stockage/packages/f32/findutils/po/ga.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 837 | 2634 | 31.8 | /mnt/stockage/packages/f32/findutils/po/zh_TW.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 435 | 2634 | 16.5 | /mnt/stockage/packages/f32/findutils/po/ca.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 367 | 2634 | 13.9 | /mnt/stockage/packages/f32/findutils/po/ro.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 333 | 2634 | 12.6 | /mnt/stockage/packages/f32/findutils/po/lt.po | 
- | [lg]({{< ref "/f32/language/lg.md" >}}) | 97 | 2634 | 3.7 | /mnt/stockage/packages/f32/findutils/po/lg.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 80 | 2634 | 3.0 | /mnt/stockage/packages/f32/findutils/po/ko.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 76 | 2634 | 2.9 | /mnt/stockage/packages/f32/findutils/po/be.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 55 | 2634 | 2.1 | /mnt/stockage/packages/f32/findutils/po/ms.po | 
+ | [bg](/f32/language/bg) | 2233 | 2634 | 84.8 | /mnt/stockage/packages/f32/findutils/po/bg.po | 
+ | [cs](/f32/language/cs) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/cs.po | 
+ | [da](/f32/language/da) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/da.po | 
+ | [de](/f32/language/de) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/de.po | 
+ | [el](/f32/language/el) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/el.po | 
+ | [eo](/f32/language/eo) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/eo.po | 
+ | [et](/f32/language/et) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/et.po | 
+ | [fi](/f32/language/fi) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/fi.po | 
+ | [fr](/f32/language/fr) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/fr.po | 
+ | [hr](/f32/language/hr) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/hr.po | 
+ | [hu](/f32/language/hu) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/hu.po | 
+ | [nb_NO](/f32/language/nb_NO) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/nb.po | 
+ | [nl](/f32/language/nl) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/nl.po | 
+ | [pl](/f32/language/pl) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/pl.po | 
+ | [pt](/f32/language/pt) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/ru.po | 
+ | [sl](/f32/language/sl) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/sl.po | 
+ | [sr](/f32/language/sr) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/sr.po | 
+ | [sv](/f32/language/sv) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/sv.po | 
+ | [uk](/f32/language/uk) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/uk.po | 
+ | [vi](/f32/language/vi) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/vi.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 2163 | 2634 | 82.1 | /mnt/stockage/packages/f32/findutils/po/zh_CN.po | 
+ | [it](/f32/language/it) | 2062 | 2634 | 78.3 | /mnt/stockage/packages/f32/findutils/po/it.po | 
+ | [tr](/f32/language/tr) | 2062 | 2634 | 78.3 | /mnt/stockage/packages/f32/findutils/po/tr.po | 
+ | [ja](/f32/language/ja) | 1613 | 2634 | 61.2 | /mnt/stockage/packages/f32/findutils/po/ja.po | 
+ | [es](/f32/language/es) | 1497 | 2634 | 56.8 | /mnt/stockage/packages/f32/findutils/po/es.po | 
+ | [gl](/f32/language/gl) | 1490 | 2634 | 56.6 | /mnt/stockage/packages/f32/findutils/po/gl.po | 
+ | [sk](/f32/language/sk) | 1460 | 2634 | 55.4 | /mnt/stockage/packages/f32/findutils/po/sk.po | 
+ | [id](/f32/language/id) | 1276 | 2634 | 48.4 | /mnt/stockage/packages/f32/findutils/po/id.po | 
+ | [ga](/f32/language/ga) | 1253 | 2634 | 47.6 | /mnt/stockage/packages/f32/findutils/po/ga.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 837 | 2634 | 31.8 | /mnt/stockage/packages/f32/findutils/po/zh_TW.po | 
+ | [ca](/f32/language/ca) | 435 | 2634 | 16.5 | /mnt/stockage/packages/f32/findutils/po/ca.po | 
+ | [ro](/f32/language/ro) | 367 | 2634 | 13.9 | /mnt/stockage/packages/f32/findutils/po/ro.po | 
+ | [lt](/f32/language/lt) | 333 | 2634 | 12.6 | /mnt/stockage/packages/f32/findutils/po/lt.po | 
+ | [lg](/f32/language/lg) | 97 | 2634 | 3.7 | /mnt/stockage/packages/f32/findutils/po/lg.po | 
+ | [ko](/f32/language/ko) | 80 | 2634 | 3.0 | /mnt/stockage/packages/f32/findutils/po/ko.po | 
+ | [be](/f32/language/be) | 76 | 2634 | 2.9 | /mnt/stockage/packages/f32/findutils/po/be.po | 
+ | [ms](/f32/language/ms) | 55 | 2634 | 2.1 | /mnt/stockage/packages/f32/findutils/po/ms.po | 
 {.sortable}
 
 

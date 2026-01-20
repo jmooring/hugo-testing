@@ -18,11 +18,11 @@ The package openscad (version 2015.03.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f25/openscad/locale/de.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f25/openscad/locale/fr.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 624 | 624 | 100.0 | /mnt/stockage/packages/f25/openscad/locale/ru.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 604 | 624 | 96.8 | /mnt/stockage/packages/f25/openscad/locale/cs.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 515 | 622 | 82.8 | /mnt/stockage/packages/f25/openscad/locale/es.po | 
+ | [de](/f25/language/de) | 624 | 624 | 100.0 | /mnt/stockage/packages/f25/openscad/locale/de.po | 
+ | [fr](/f25/language/fr) | 624 | 624 | 100.0 | /mnt/stockage/packages/f25/openscad/locale/fr.po | 
+ | [ru](/f25/language/ru) | 624 | 624 | 100.0 | /mnt/stockage/packages/f25/openscad/locale/ru.po | 
+ | [cs](/f25/language/cs) | 604 | 624 | 96.8 | /mnt/stockage/packages/f25/openscad/locale/cs.po | 
+ | [es](/f25/language/es) | 515 | 622 | 82.8 | /mnt/stockage/packages/f25/openscad/locale/es.po | 
 {.sortable}
 
 

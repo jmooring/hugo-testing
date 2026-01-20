@@ -18,50 +18,50 @@ The package choqok (version 1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/da/choqok.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/de/choqok.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/es/choqok.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/fr/choqok.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/gl/choqok.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/hu/choqok.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/nl/choqok.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/pt/choqok.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/pt_BR/choqok.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/sl/choqok.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/sv/choqok.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/tr/choqok.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/uk/choqok.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/zh_TW/choqok.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 2023 | 2037 | 99.3 | /mnt/stockage/packages/f18/choqok/po/it/choqok.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 2018 | 2037 | 99.1 | /mnt/stockage/packages/f18/choqok/po/el/choqok.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 2018 | 2037 | 99.1 | /mnt/stockage/packages/f18/choqok/po/pl/choqok.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 2018 | 2037 | 99.1 | /mnt/stockage/packages/f18/choqok/po/ru/choqok.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 2011 | 2037 | 98.7 | /mnt/stockage/packages/f18/choqok/po/nb/choqok.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 2010 | 2037 | 98.7 | /mnt/stockage/packages/f18/choqok/po/et/choqok.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 2010 | 2037 | 98.7 | /mnt/stockage/packages/f18/choqok/po/zh_CN/choqok.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 1848 | 2037 | 90.7 | /mnt/stockage/packages/f18/choqok/po/km/choqok.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 1798 | 2037 | 88.3 | /mnt/stockage/packages/f18/choqok/po/ca/choqok.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 1798 | 2037 | 88.3 | /mnt/stockage/packages/f18/choqok/po/ca@valencia/choqok.po | 
- | [nds]({{< ref "/f18/language/nds.md" >}}) | 1763 | 2037 | 86.5 | /mnt/stockage/packages/f18/choqok/po/nds/choqok.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 1731 | 2037 | 85.0 | /mnt/stockage/packages/f18/choqok/po/bs/choqok.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 1633 | 2037 | 80.2 | /mnt/stockage/packages/f18/choqok/po/en_GB/choqok.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1449 | 2037 | 71.1 | /mnt/stockage/packages/f18/choqok/po/cs/choqok.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 1189 | 2037 | 58.4 | /mnt/stockage/packages/f18/choqok/po/pa/choqok.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 1097 | 2037 | 53.9 | /mnt/stockage/packages/f18/choqok/po/bg/choqok.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 1055 | 2037 | 51.8 | /mnt/stockage/packages/f18/choqok/po/fi/choqok.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 995 | 2037 | 48.8 | /mnt/stockage/packages/f18/choqok/po/ja/choqok.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 890 | 1959 | 45.4 | /mnt/stockage/packages/f18/choqok/po/hr/choqok.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 804 | 2037 | 39.5 | /mnt/stockage/packages/f18/choqok/po/lt/choqok.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 520 | 2037 | 25.5 | /mnt/stockage/packages/f18/choqok/po/fa/choqok.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 465 | 2037 | 22.8 | /mnt/stockage/packages/f18/choqok/po/ro/choqok.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 329 | 2037 | 16.2 | /mnt/stockage/packages/f18/choqok/po/ga/choqok.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 296 | 2037 | 14.5 | /mnt/stockage/packages/f18/choqok/po/sk/choqok.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 262 | 2037 | 12.9 | /mnt/stockage/packages/f18/choqok/po/ug/choqok.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 180 | 2037 | 8.8 | /mnt/stockage/packages/f18/choqok/po/mr/choqok.po | 
- | [eo]({{< ref "/f18/language/eo.md" >}}) | 61 | 2037 | 3.0 | /mnt/stockage/packages/f18/choqok/po/eo/choqok.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 53 | 2037 | 2.6 | /mnt/stockage/packages/f18/choqok/po/sq/choqok.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 4 | 2037 | 0.2 | /mnt/stockage/packages/f18/choqok/po/ms/choqok.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 0 | 2037 | 0.0 | /mnt/stockage/packages/f18/choqok/po/is/choqok.po | 
+ | [da](/f18/language/da) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/da/choqok.po | 
+ | [de](/f18/language/de) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/de/choqok.po | 
+ | [es](/f18/language/es) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/es/choqok.po | 
+ | [fr](/f18/language/fr) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/fr/choqok.po | 
+ | [gl](/f18/language/gl) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/gl/choqok.po | 
+ | [hu](/f18/language/hu) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/hu/choqok.po | 
+ | [nl](/f18/language/nl) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/nl/choqok.po | 
+ | [pt](/f18/language/pt) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/pt/choqok.po | 
+ | [pt_BR](/f18/language/pt_BR) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/pt_BR/choqok.po | 
+ | [sl](/f18/language/sl) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/sl/choqok.po | 
+ | [sv](/f18/language/sv) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/sv/choqok.po | 
+ | [tr](/f18/language/tr) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/tr/choqok.po | 
+ | [uk](/f18/language/uk) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/uk/choqok.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 2037 | 2037 | 100.0 | /mnt/stockage/packages/f18/choqok/po/zh_TW/choqok.po | 
+ | [it](/f18/language/it) | 2023 | 2037 | 99.3 | /mnt/stockage/packages/f18/choqok/po/it/choqok.po | 
+ | [el](/f18/language/el) | 2018 | 2037 | 99.1 | /mnt/stockage/packages/f18/choqok/po/el/choqok.po | 
+ | [pl](/f18/language/pl) | 2018 | 2037 | 99.1 | /mnt/stockage/packages/f18/choqok/po/pl/choqok.po | 
+ | [ru](/f18/language/ru) | 2018 | 2037 | 99.1 | /mnt/stockage/packages/f18/choqok/po/ru/choqok.po | 
+ | [nb_NO](/f18/language/nb_NO) | 2011 | 2037 | 98.7 | /mnt/stockage/packages/f18/choqok/po/nb/choqok.po | 
+ | [et](/f18/language/et) | 2010 | 2037 | 98.7 | /mnt/stockage/packages/f18/choqok/po/et/choqok.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 2010 | 2037 | 98.7 | /mnt/stockage/packages/f18/choqok/po/zh_CN/choqok.po | 
+ | [km](/f18/language/km) | 1848 | 2037 | 90.7 | /mnt/stockage/packages/f18/choqok/po/km/choqok.po | 
+ | [ca](/f18/language/ca) | 1798 | 2037 | 88.3 | /mnt/stockage/packages/f18/choqok/po/ca/choqok.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 1798 | 2037 | 88.3 | /mnt/stockage/packages/f18/choqok/po/ca@valencia/choqok.po | 
+ | [nds](/f18/language/nds) | 1763 | 2037 | 86.5 | /mnt/stockage/packages/f18/choqok/po/nds/choqok.po | 
+ | [bs](/f18/language/bs) | 1731 | 2037 | 85.0 | /mnt/stockage/packages/f18/choqok/po/bs/choqok.po | 
+ | [en_GB](/f18/language/en_GB) | 1633 | 2037 | 80.2 | /mnt/stockage/packages/f18/choqok/po/en_GB/choqok.po | 
+ | [cs](/f18/language/cs) | 1449 | 2037 | 71.1 | /mnt/stockage/packages/f18/choqok/po/cs/choqok.po | 
+ | [pa](/f18/language/pa) | 1189 | 2037 | 58.4 | /mnt/stockage/packages/f18/choqok/po/pa/choqok.po | 
+ | [bg](/f18/language/bg) | 1097 | 2037 | 53.9 | /mnt/stockage/packages/f18/choqok/po/bg/choqok.po | 
+ | [fi](/f18/language/fi) | 1055 | 2037 | 51.8 | /mnt/stockage/packages/f18/choqok/po/fi/choqok.po | 
+ | [ja](/f18/language/ja) | 995 | 2037 | 48.8 | /mnt/stockage/packages/f18/choqok/po/ja/choqok.po | 
+ | [hr](/f18/language/hr) | 890 | 1959 | 45.4 | /mnt/stockage/packages/f18/choqok/po/hr/choqok.po | 
+ | [lt](/f18/language/lt) | 804 | 2037 | 39.5 | /mnt/stockage/packages/f18/choqok/po/lt/choqok.po | 
+ | [fa](/f18/language/fa) | 520 | 2037 | 25.5 | /mnt/stockage/packages/f18/choqok/po/fa/choqok.po | 
+ | [ro](/f18/language/ro) | 465 | 2037 | 22.8 | /mnt/stockage/packages/f18/choqok/po/ro/choqok.po | 
+ | [ga](/f18/language/ga) | 329 | 2037 | 16.2 | /mnt/stockage/packages/f18/choqok/po/ga/choqok.po | 
+ | [sk](/f18/language/sk) | 296 | 2037 | 14.5 | /mnt/stockage/packages/f18/choqok/po/sk/choqok.po | 
+ | [ug](/f18/language/ug) | 262 | 2037 | 12.9 | /mnt/stockage/packages/f18/choqok/po/ug/choqok.po | 
+ | [mr](/f18/language/mr) | 180 | 2037 | 8.8 | /mnt/stockage/packages/f18/choqok/po/mr/choqok.po | 
+ | [eo](/f18/language/eo) | 61 | 2037 | 3.0 | /mnt/stockage/packages/f18/choqok/po/eo/choqok.po | 
+ | [sq](/f18/language/sq) | 53 | 2037 | 2.6 | /mnt/stockage/packages/f18/choqok/po/sq/choqok.po | 
+ | [ms](/f18/language/ms) | 4 | 2037 | 0.2 | /mnt/stockage/packages/f18/choqok/po/ms/choqok.po | 
+ | [is](/f18/language/is) | 0 | 2037 | 0.0 | /mnt/stockage/packages/f18/choqok/po/is/choqok.po | 
 {.sortable}
 
 

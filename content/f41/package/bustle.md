@@ -18,22 +18,22 @@ The package bustle (version 0.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f41/language/az.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/az.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/de.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/en_GB.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/es.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 352 | 352 | 100.0 | /mnt/stockage/packages/f41/bustle/po/fr.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/bustle/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/hi.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/bustle/po/hu.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/ru.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/sl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/zh_CN.po | 
+ | [az](/f41/language/az) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/az.po | 
+ | [de](/f41/language/de) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/de.po | 
+ | [en_GB](/f41/language/en_GB) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/en_GB.po | 
+ | [es](/f41/language/es) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/es.po | 
+ | [eu](/f41/language/eu) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/eu.po | 
+ | [fr](/f41/language/fr) | 352 | 352 | 100.0 | /mnt/stockage/packages/f41/bustle/po/fr.po | 
+ | [he](/f41/language/he) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/bustle/po/he.po | 
+ | [hi](/f41/language/hi) | 367 | 367 | 100.0 | /mnt/stockage/packages/f41/bustle/po/hi.po | 
+ | [hu](/f41/language/hu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/bustle/po/hu.po | 
+ | [pt_BR](/f41/language/pt_BR) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/ru.po | 
+ | [sl](/f41/language/sl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/sl.po | 
+ | [sv](/f41/language/sv) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/sv.po | 
+ | [tr](/f41/language/tr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/tr.po | 
+ | [uk](/f41/language/uk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 382 | 382 | 100.0 | /mnt/stockage/packages/f41/bustle/po/zh_CN.po | 
 {.sortable}
 
 

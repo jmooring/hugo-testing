@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [clamtk]({{< ref "/f22/package/clamtk.md" >}}) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
- | [manaplus]({{< ref "/f22/package/manaplus.md" >}}) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
- | [openerp7]({{< ref "/f22/package/openerp7.md" >}}) | 14647 | 46303 | 31.6 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gourmet]({{< ref "/f22/package/gourmet.md" >}}) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
- | [openerp]({{< ref "/f22/package/openerp.md" >}}) | 5259 | 40627 | 12.9 | Dutch (Belgium) <nl_BE@li.org> | 
- | [gnomebaker]({{< ref "/f22/package/gnomebaker.md" >}}) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [clamtk](/f22/package/clamtk) | 677 | 688 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [manaplus](/f22/package/manaplus) | 2922 | 6208 | 47.1 | Dutch (Belgium) (http://www.transifex.com/projects/p/manaplus/language/nl_BE/) | 
+ | [openerp7](/f22/package/openerp7) | 14647 | 46303 | 31.6 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gourmet](/f22/package/gourmet) | 660 | 3939 | 16.8 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [openerp](/f22/package/openerp) | 5259 | 40627 | 12.9 | Dutch (Belgium) <nl_BE@li.org> | 
+ | [gnomebaker](/f22/package/gnomebaker) | 117 | 1186 | 9.9 | Dutch (Belgium) <nl_BE@li.org> | 
 {.sortable}
 
 

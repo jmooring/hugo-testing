@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [publican-redhat]({{< ref "/f21/package/publican-redhat.md" >}}) | 220 | 220 | 100.0 | Gujarati | 
- | [publican-jboss]({{< ref "/f21/package/publican-jboss.md" >}}) | 120 | 232 | 51.7 | Gujarati | 
- | [pgadmin3]({{< ref "/f21/package/pgadmin3.md" >}}) | 2 | 16742 | 0.0 | LANGUAGE <LL@li.org> | 
- | [publican-fedora]({{< ref "/f21/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [publican-redhat](/f21/package/publican-redhat) | 220 | 220 | 100.0 | Gujarati | 
+ | [publican-jboss](/f21/package/publican-jboss) | 120 | 232 | 51.7 | Gujarati | 
+ | [pgadmin3](/f21/package/pgadmin3) | 2 | 16742 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [publican-fedora](/f21/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

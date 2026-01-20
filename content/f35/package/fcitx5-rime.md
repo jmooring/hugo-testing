@@ -18,17 +18,17 @@ The package fcitx5-rime (version 5.0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ko.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ru.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 62 | 100 | 62.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/zh_TW.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 61 | 100 | 61.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/tr.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 50 | 100 | 50.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/da.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 50 | 100 | 50.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ja.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 32 | 100 | 32.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/de.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 21 | 100 | 21.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ca.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 21 | 100 | 21.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/vi.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 1 | 100 | 1.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/he.po | 
+ | [ko](/f35/language/ko) | 100 | 100 | 100.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ko.po | 
+ | [ru](/f35/language/ru) | 100 | 100 | 100.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ru.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 100 | 100 | 100.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 62 | 100 | 62.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/zh_TW.po | 
+ | [tr](/f35/language/tr) | 61 | 100 | 61.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/tr.po | 
+ | [da](/f35/language/da) | 50 | 100 | 50.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/da.po | 
+ | [ja](/f35/language/ja) | 50 | 100 | 50.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ja.po | 
+ | [de](/f35/language/de) | 32 | 100 | 32.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/de.po | 
+ | [ca](/f35/language/ca) | 21 | 100 | 21.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/ca.po | 
+ | [vi](/f35/language/vi) | 21 | 100 | 21.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/vi.po | 
+ | [he](/f35/language/he) | 1 | 100 | 1.0 | /mnt/stockage/packages/f35/fcitx5-rime/po/he.po | 
 {.sortable}
 
 

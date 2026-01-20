@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | 22063 | 39578 | 55.7 |  | 
- | [inkscape]({{< ref "/f42/package/inkscape.md" >}}) | 16350 | 51528 | 31.7 | Konkani | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 42369 | 175879 | 24.1 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-25-2/accessibilitymessages/kok/> | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1112 | 5355 | 20.8 |  | 
- | [iso-codes]({{< ref "/f42/package/iso-codes.md" >}}) | 247 | 14815 | 1.7 | Konkani | 
+ | [gnucash](/f42/package/gnucash) | 22063 | 39578 | 55.7 |  | 
+ | [inkscape](/f42/package/inkscape) | 16350 | 51528 | 31.7 | Konkani | 
+ | [libreoffice](/f42/package/libreoffice) | 42369 | 175879 | 24.1 | Konkani <https://translations.documentfoundation.org/projects/libo_ui-25-2/accessibilitymessages/kok/> | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1112 | 5355 | 20.8 |  | 
+ | [iso-codes](/f42/package/iso-codes) | 247 | 14815 | 1.7 | Konkani | 
 {.sortable}
 
 
@@ -54,8 +54,8 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._kok.po | error-unicode |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._kok.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._kok.po | error-unicode |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._kok.po | error-unicode |  | 
 {.sortable}
 
 
@@ -66,8 +66,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._kok.po |  | 
- | [gnucash]({{< ref "/f42/package/gnucash.md" >}}) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._kok.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/._kok.po |  | 
+ | [gnucash](/f42/package/gnucash) | /mnt/stockage/packages/f42/gnucash/gnucash-5.14/po/glossary/._kok.po |  | 
 {.sortable}
 
 

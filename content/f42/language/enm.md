@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Zim]({{< ref "/f42/package/Zim.md" >}}) | 0 | 3529 | 0.0 | none | 
- | [eiciel]({{< ref "/f42/package/eiciel.md" >}}) | 0 | 331 | 0.0 | none | 
+ | [Zim](/f42/package/Zim) | 0 | 3529 | 0.0 | none | 
+ | [eiciel](/f42/package/eiciel) | 0 | 331 | 0.0 | none | 
 {.sortable}
 
 

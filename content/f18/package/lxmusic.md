@@ -18,53 +18,53 @@ The package lxmusic (version 0.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ar.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/bg.po | 
- | [bn_IN]({{< ref "/f18/language/bn_IN.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/bn_IN.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/el.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/es.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/et.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/he.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/hu.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/id.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ja.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/lt.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/nl.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/nn.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/pl.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/pt.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/sk.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/sl.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/tr.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/uk.po | 
- | [es_VE]({{< ref "/f18/language/es_VE.md" >}}) | 196 | 203 | 96.6 | /mnt/stockage/packages/f18/lxmusic/po/es_VE.po | 
- | [ur]({{< ref "/f18/language/ur.md" >}}) | 196 | 203 | 96.6 | /mnt/stockage/packages/f18/lxmusic/po/ur.po | 
- | [ur_PK]({{< ref "/f18/language/ur_PK.md" >}}) | 196 | 203 | 96.6 | /mnt/stockage/packages/f18/lxmusic/po/ur_PK.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 195 | 203 | 96.1 | /mnt/stockage/packages/f18/lxmusic/po/nb.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 191 | 203 | 94.1 | /mnt/stockage/packages/f18/lxmusic/po/fa.po | 
- | [af]({{< ref "/f18/language/af.md" >}}) | 185 | 203 | 91.1 | /mnt/stockage/packages/f18/lxmusic/po/af.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 179 | 203 | 88.2 | /mnt/stockage/packages/f18/lxmusic/po/zh_TW.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 172 | 203 | 84.7 | /mnt/stockage/packages/f18/lxmusic/po/ms.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 172 | 203 | 84.7 | /mnt/stockage/packages/f18/lxmusic/po/zh_CN.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 163 | 203 | 80.3 | /mnt/stockage/packages/f18/lxmusic/po/eu.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 163 | 203 | 80.3 | /mnt/stockage/packages/f18/lxmusic/po/hr.po | 
- | [frp]({{< ref "/f18/language/frp.md" >}}) | 116 | 203 | 57.1 | /mnt/stockage/packages/f18/lxmusic/po/frp.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/fi.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/ko.po | 
- | [ml]({{< ref "/f18/language/ml.md" >}}) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/ml.po | 
- | [ps]({{< ref "/f18/language/ps.md" >}}) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/ps.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/sr.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/vi.po | 
+ | [ar](/f18/language/ar) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ar.po | 
+ | [bg](/f18/language/bg) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/bg.po | 
+ | [bn_IN](/f18/language/bn_IN) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/bn_IN.po | 
+ | [ca](/f18/language/ca) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ca.po | 
+ | [cs](/f18/language/cs) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/cs.po | 
+ | [da](/f18/language/da) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/da.po | 
+ | [de](/f18/language/de) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/de.po | 
+ | [el](/f18/language/el) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/el.po | 
+ | [es](/f18/language/es) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/es.po | 
+ | [et](/f18/language/et) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/et.po | 
+ | [fr](/f18/language/fr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/fr.po | 
+ | [gl](/f18/language/gl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/gl.po | 
+ | [he](/f18/language/he) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/he.po | 
+ | [hu](/f18/language/hu) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/hu.po | 
+ | [id](/f18/language/id) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/id.po | 
+ | [it](/f18/language/it) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/it.po | 
+ | [ja](/f18/language/ja) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ja.po | 
+ | [lt](/f18/language/lt) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/lt.po | 
+ | [nl](/f18/language/nl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/nl.po | 
+ | [nn](/f18/language/nn) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/nn.po | 
+ | [pl](/f18/language/pl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/pl.po | 
+ | [pt](/f18/language/pt) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/pt.po | 
+ | [pt_BR](/f18/language/pt_BR) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/ru.po | 
+ | [sk](/f18/language/sk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/sk.po | 
+ | [sl](/f18/language/sl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/sl.po | 
+ | [sv](/f18/language/sv) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/sv.po | 
+ | [tr](/f18/language/tr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/tr.po | 
+ | [uk](/f18/language/uk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f18/lxmusic/po/uk.po | 
+ | [es_VE](/f18/language/es_VE) | 196 | 203 | 96.6 | /mnt/stockage/packages/f18/lxmusic/po/es_VE.po | 
+ | [ur](/f18/language/ur) | 196 | 203 | 96.6 | /mnt/stockage/packages/f18/lxmusic/po/ur.po | 
+ | [ur_PK](/f18/language/ur_PK) | 196 | 203 | 96.6 | /mnt/stockage/packages/f18/lxmusic/po/ur_PK.po | 
+ | [nb_NO](/f18/language/nb_NO) | 195 | 203 | 96.1 | /mnt/stockage/packages/f18/lxmusic/po/nb.po | 
+ | [fa](/f18/language/fa) | 191 | 203 | 94.1 | /mnt/stockage/packages/f18/lxmusic/po/fa.po | 
+ | [af](/f18/language/af) | 185 | 203 | 91.1 | /mnt/stockage/packages/f18/lxmusic/po/af.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 179 | 203 | 88.2 | /mnt/stockage/packages/f18/lxmusic/po/zh_TW.po | 
+ | [ms](/f18/language/ms) | 172 | 203 | 84.7 | /mnt/stockage/packages/f18/lxmusic/po/ms.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 172 | 203 | 84.7 | /mnt/stockage/packages/f18/lxmusic/po/zh_CN.po | 
+ | [eu](/f18/language/eu) | 163 | 203 | 80.3 | /mnt/stockage/packages/f18/lxmusic/po/eu.po | 
+ | [hr](/f18/language/hr) | 163 | 203 | 80.3 | /mnt/stockage/packages/f18/lxmusic/po/hr.po | 
+ | [frp](/f18/language/frp) | 116 | 203 | 57.1 | /mnt/stockage/packages/f18/lxmusic/po/frp.po | 
+ | [fi](/f18/language/fi) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/fi.po | 
+ | [ko](/f18/language/ko) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/ko.po | 
+ | [ml](/f18/language/ml) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/ml.po | 
+ | [ps](/f18/language/ps) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/ps.po | 
+ | [sr](/f18/language/sr) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/sr.po | 
+ | [vi](/f18/language/vi) | 0 | 203 | 0.0 | /mnt/stockage/packages/f18/lxmusic/po/vi.po | 
 {.sortable}
 
 

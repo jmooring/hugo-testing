@@ -18,23 +18,23 @@ The package trader (version 7.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/de.po | 
- | [en_AU]({{< ref "/f33/language/en_AU.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_AU.po | 
- | [en_CA]({{< ref "/f33/language/en_CA.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_CA.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_GB.po | 
- | [en_US]({{< ref "/f33/language/en_US.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_US.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/eo.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en@quot.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/hu.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/nb.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/ru.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/sv.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 2035 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/fi.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 2035 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/hr.po | 
+ | [da](/f33/language/da) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/da.po | 
+ | [de](/f33/language/de) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/de.po | 
+ | [en_AU](/f33/language/en_AU) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_AU.po | 
+ | [en_CA](/f33/language/en_CA) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_CA.po | 
+ | [en_GB](/f33/language/en_GB) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_GB.po | 
+ | [en_US](/f33/language/en_US) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en_US.po | 
+ | [eo](/f33/language/eo) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/eo.po | 
+ | [error](/f33/language/error) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/en@quot.po | 
+ | [fr](/f33/language/fr) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/fr.po | 
+ | [hu](/f33/language/hu) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/hu.po | 
+ | [nb_NO](/f33/language/nb_NO) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/nb.po | 
+ | [pt_BR](/f33/language/pt_BR) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/ru.po | 
+ | [sr](/f33/language/sr) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/sr.po | 
+ | [sv](/f33/language/sv) | 2036 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/sv.po | 
+ | [fi](/f33/language/fi) | 2035 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/fi.po | 
+ | [hr](/f33/language/hr) | 2035 | 2036 | 100.0 | /mnt/stockage/packages/f33/trader/po/hr.po | 
 {.sortable}
 
 

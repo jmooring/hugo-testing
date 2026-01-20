@@ -18,13 +18,13 @@ The package swatchbooker (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f28/language/de.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/de.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/es.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/fr.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/pl.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/ru.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/uk.po | 
+ | [de](/f28/language/de) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/de.po | 
+ | [es](/f28/language/es) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/es.po | 
+ | [fr](/f28/language/fr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/fr.po | 
+ | [pl](/f28/language/pl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/pl.po | 
+ | [pt_BR](/f28/language/pt_BR) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/pt_BR.po | 
+ | [ru](/f28/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/ru.po | 
+ | [uk](/f28/language/uk) | 160 | 160 | 100.0 | /mnt/stockage/packages/f28/swatchbooker/translations/uk.po | 
 {.sortable}
 
 

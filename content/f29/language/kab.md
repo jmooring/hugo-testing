@@ -38,56 +38,56 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f29/package/blueberry.md" >}}) | 141 | 141 | 100.0 | Kabyle <kab@li.org> | 
- | [cinnamon-translations]({{< ref "/f29/package/cinnamon-translations.md" >}}) | 22473 | 22473 | 100.0 | Kabyle <kab@li.org> | 
- | [filezilla]({{< ref "/f29/package/filezilla.md" >}}) | 10273 | 10273 | 100.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
- | [gdm]({{< ref "/f29/package/gdm.md" >}}) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
- | [libfilezilla]({{< ref "/f29/package/libfilezilla.md" >}}) | 402 | 402 | 100.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
- | [lightdm-settings]({{< ref "/f29/package/lightdm-settings.md" >}}) | 271 | 271 | 100.0 | Kabyle <kab@li.org> | 
- | [mate-icon-theme]({{< ref "/f29/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [nemo-extensions]({{< ref "/f29/package/nemo-extensions.md" >}}) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
- | [poedit]({{< ref "/f29/package/poedit.md" >}}) | 2772 | 2772 | 100.0 | Kabyle | 
- | [slick-greeter]({{< ref "/f29/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | Kabyle <kab@li.org> | 
- | [sugar-imageviewer]({{< ref "/f29/package/sugar-imageviewer.md" >}}) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f29/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f29/package/sugar-terminal.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f29/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [xapps]({{< ref "/f29/package/xapps.md" >}}) | 42 | 42 | 100.0 | Kabyle <kab@li.org> | 
- | [xed]({{< ref "/f29/package/xed.md" >}}) | 4613 | 4613 | 100.0 | Kabyle <kab@li.org> | 
- | [xreader]({{< ref "/f29/package/xreader.md" >}}) | 1641 | 1641 | 100.0 | Kabyle <kab@li.org> | 
- | [xplayer]({{< ref "/f29/package/xplayer.md" >}}) | 1662 | 1952 | 85.1 | Kabyle <kab@li.org> | 
- | [libreoffice]({{< ref "/f29/package/libreoffice.md" >}}) | 76631 | 98596 | 77.7 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f29/package/sugar-read.md" >}}) | 83 | 137 | 60.6 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f29/package/sugar-paint.md" >}}) | 37 | 106 | 34.9 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f29/package/sugar-chat.md" >}}) | 45 | 137 | 32.8 | LANGUAGE <LL@li.org> | 
- | [pix]({{< ref "/f29/package/pix.md" >}}) | 1024 | 3718 | 27.5 | Kabyle <kab@li.org> | 
- | [wxMaxima]({{< ref "/f29/package/wxMaxima.md" >}}) | 2542 | 9640 | 26.4 | kabyle <kab@li.org> | 
- | [iso-codes]({{< ref "/f29/package/iso-codes.md" >}}) | 174 | 986 | 17.6 | Kabyle <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kab/> | 
- | [python-django]({{< ref "/f29/package/python-django.md" >}}) | 541 | 3139 | 17.2 | Kabyle (http://www.transifex.com/django/django/language/kab/) | 
- | [xviewer]({{< ref "/f29/package/xviewer.md" >}}) | 269 | 1677 | 16.0 | Kabyle <kab@li.org> | 
- | [sugar-maze]({{< ref "/f29/package/sugar-maze.md" >}}) | 1 | 7 | 14.3 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f29/package/sugar-abacus.md" >}}) | 3 | 28 | 10.7 | LANGUAGE <LL@li.org> | 
- | [mate-themes]({{< ref "/f29/package/mate-themes.md" >}}) | 6 | 60 | 10.0 | Kabyle (http://www.transifex.com/mate/MATE/language/kab/) | 
- | [mate-menus]({{< ref "/f29/package/mate-menus.md" >}}) | 9 | 97 | 9.3 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [elementary-calculator]({{< ref "/f29/package/elementary-calculator.md" >}}) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
- | [mate-menu]({{< ref "/f29/package/mate-menu.md" >}}) | 13 | 316 | 4.1 | Kabyle (http://www.transifex.com/mate/MATE/language/kab/) | 
- | [mate-media]({{< ref "/f29/package/mate-media.md" >}}) | 9 | 238 | 3.8 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-notification-daemon]({{< ref "/f29/package/mate-notification-daemon.md" >}}) | 4 | 139 | 2.9 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-polkit]({{< ref "/f29/package/mate-polkit.md" >}}) | 3 | 122 | 2.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mozo]({{< ref "/f29/package/mozo.md" >}}) | 1 | 42 | 2.4 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [sugar-log]({{< ref "/f29/package/sugar-log.md" >}}) | 2 | 98 | 2.0 | LANGUAGE <LL@li.org> | 
- | [caja-extensions]({{< ref "/f29/package/caja-extensions.md" >}}) | 6 | 584 | 1.0 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [eom]({{< ref "/f29/package/eom.md" >}}) | 16 | 1780 | 0.9 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-session-manager]({{< ref "/f29/package/mate-session-manager.md" >}}) | 5 | 691 | 0.7 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-panel]({{< ref "/f29/package/mate-panel.md" >}}) | 15 | 2168 | 0.7 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-applets]({{< ref "/f29/package/mate-applets.md" >}}) | 87 | 13215 | 0.7 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [atril]({{< ref "/f29/package/atril.md" >}}) | 11 | 2039 | 0.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-control-center]({{< ref "/f29/package/mate-control-center.md" >}}) | 14 | 2704 | 0.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-utils]({{< ref "/f29/package/mate-utils.md" >}}) | 30 | 6425 | 0.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [mate-power-manager]({{< ref "/f29/package/mate-power-manager.md" >}}) | 3 | 2460 | 0.1 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
- | [openerp]({{< ref "/f29/package/openerp.md" >}}) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
- | [synfig]({{< ref "/f29/package/synfig.md" >}}) | 0 | 4740 | 0.0 | Kabyle (http://www.transifex.com/morevnaproject/synfig/language/kab/) | 
- | [synfigstudio]({{< ref "/f29/package/synfigstudio.md" >}}) | 0 | 6564 | 0.0 | Kabyle (http://www.transifex.com/morevnaproject/synfig/language/kab/) | 
+ | [blueberry](/f29/package/blueberry) | 141 | 141 | 100.0 | Kabyle <kab@li.org> | 
+ | [cinnamon-translations](/f29/package/cinnamon-translations) | 22473 | 22473 | 100.0 | Kabyle <kab@li.org> | 
+ | [filezilla](/f29/package/filezilla) | 10273 | 10273 | 100.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
+ | [gdm](/f29/package/gdm) | 650 | 650 | 100.0 | GNOME Kabyle Team <yacine2953-tansa1@yahoo.fr> | 
+ | [libfilezilla](/f29/package/libfilezilla) | 402 | 402 | 100.0 | Yacine Bouklif <yacine2953-asuqqel@yahoo.fr> | 
+ | [lightdm-settings](/f29/package/lightdm-settings) | 271 | 271 | 100.0 | Kabyle <kab@li.org> | 
+ | [mate-icon-theme](/f29/package/mate-icon-theme) | 4 | 4 | 100.0 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [nemo-extensions](/f29/package/nemo-extensions) | 8 | 8 | 100.0 | Kabyle <kab@li.org> | 
+ | [poedit](/f29/package/poedit) | 2772 | 2772 | 100.0 | Kabyle | 
+ | [slick-greeter](/f29/package/slick-greeter) | 211 | 211 | 100.0 | Kabyle <kab@li.org> | 
+ | [sugar-imageviewer](/f29/package/sugar-imageviewer) | 58 | 58 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f29/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f29/package/sugar-terminal) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f29/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [xapps](/f29/package/xapps) | 42 | 42 | 100.0 | Kabyle <kab@li.org> | 
+ | [xed](/f29/package/xed) | 4613 | 4613 | 100.0 | Kabyle <kab@li.org> | 
+ | [xreader](/f29/package/xreader) | 1641 | 1641 | 100.0 | Kabyle <kab@li.org> | 
+ | [xplayer](/f29/package/xplayer) | 1662 | 1952 | 85.1 | Kabyle <kab@li.org> | 
+ | [libreoffice](/f29/package/libreoffice) | 76631 | 98596 | 77.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f29/package/sugar-read) | 83 | 137 | 60.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f29/package/sugar-paint) | 37 | 106 | 34.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f29/package/sugar-chat) | 45 | 137 | 32.8 | LANGUAGE <LL@li.org> | 
+ | [pix](/f29/package/pix) | 1024 | 3718 | 27.5 | Kabyle <kab@li.org> | 
+ | [wxMaxima](/f29/package/wxMaxima) | 2542 | 9640 | 26.4 | kabyle <kab@li.org> | 
+ | [iso-codes](/f29/package/iso-codes) | 174 | 986 | 17.6 | Kabyle <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/kab/> | 
+ | [python-django](/f29/package/python-django) | 541 | 3139 | 17.2 | Kabyle (http://www.transifex.com/django/django/language/kab/) | 
+ | [xviewer](/f29/package/xviewer) | 269 | 1677 | 16.0 | Kabyle <kab@li.org> | 
+ | [sugar-maze](/f29/package/sugar-maze) | 1 | 7 | 14.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f29/package/sugar-abacus) | 3 | 28 | 10.7 | LANGUAGE <LL@li.org> | 
+ | [mate-themes](/f29/package/mate-themes) | 6 | 60 | 10.0 | Kabyle (http://www.transifex.com/mate/MATE/language/kab/) | 
+ | [mate-menus](/f29/package/mate-menus) | 9 | 97 | 9.3 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [elementary-calculator](/f29/package/elementary-calculator) | 3 | 52 | 5.8 | Kabyle <kab@li.org> | 
+ | [mate-menu](/f29/package/mate-menu) | 13 | 316 | 4.1 | Kabyle (http://www.transifex.com/mate/MATE/language/kab/) | 
+ | [mate-media](/f29/package/mate-media) | 9 | 238 | 3.8 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-notification-daemon](/f29/package/mate-notification-daemon) | 4 | 139 | 2.9 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-polkit](/f29/package/mate-polkit) | 3 | 122 | 2.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mozo](/f29/package/mozo) | 1 | 42 | 2.4 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [sugar-log](/f29/package/sugar-log) | 2 | 98 | 2.0 | LANGUAGE <LL@li.org> | 
+ | [caja-extensions](/f29/package/caja-extensions) | 6 | 584 | 1.0 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [eom](/f29/package/eom) | 16 | 1780 | 0.9 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-session-manager](/f29/package/mate-session-manager) | 5 | 691 | 0.7 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-panel](/f29/package/mate-panel) | 15 | 2168 | 0.7 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-applets](/f29/package/mate-applets) | 87 | 13215 | 0.7 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [atril](/f29/package/atril) | 11 | 2039 | 0.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-control-center](/f29/package/mate-control-center) | 14 | 2704 | 0.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-utils](/f29/package/mate-utils) | 30 | 6425 | 0.5 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [mate-power-manager](/f29/package/mate-power-manager) | 3 | 2460 | 0.1 | Kabyle (https://www.transifex.com/mate/teams/13566/kab/) | 
+ | [openerp](/f29/package/openerp) | 6 | 10716 | 0.1 | Kabyle <kab@li.org> | 
+ | [synfig](/f29/package/synfig) | 0 | 4740 | 0.0 | Kabyle (http://www.transifex.com/morevnaproject/synfig/language/kab/) | 
+ | [synfigstudio](/f29/package/synfigstudio) | 0 | 6564 | 0.0 | Kabyle (http://www.transifex.com/morevnaproject/synfig/language/kab/) | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package gtk-murrine-engine (version 0.98.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 268 | 268 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/ca.po/mnt/stockage/packages/f33/gtk-murrine-engine/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/el.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/es.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/fr.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/gl.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/ru.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/sl.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 121 | 136 | 89.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/zh_CN.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 68 | 134 | 50.7 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/et.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 16 | 108 | 14.8 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/sv.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 17 | 134 | 12.7 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/nb.po | 
+ | [ca](/f33/language/ca) | 268 | 268 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/ca.po/mnt/stockage/packages/f33/gtk-murrine-engine/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/cs.po | 
+ | [da](/f33/language/da) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/da.po | 
+ | [de](/f33/language/de) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/de.po | 
+ | [el](/f33/language/el) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/el.po | 
+ | [es](/f33/language/es) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/es.po | 
+ | [fr](/f33/language/fr) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/fr.po | 
+ | [gl](/f33/language/gl) | 136 | 136 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/gl.po | 
+ | [pl](/f33/language/pl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/pl.po | 
+ | [pt](/f33/language/pt) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 117 | 117 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/ru.po | 
+ | [sl](/f33/language/sl) | 134 | 134 | 100.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/sl.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 121 | 136 | 89.0 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/zh_CN.po | 
+ | [et](/f33/language/et) | 68 | 134 | 50.7 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/et.po | 
+ | [sv](/f33/language/sv) | 16 | 108 | 14.8 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/sv.po | 
+ | [nb_NO](/f33/language/nb_NO) | 17 | 134 | 12.7 | /mnt/stockage/packages/f33/gtk-murrine-engine/po/nb.po | 
 {.sortable}
 
 

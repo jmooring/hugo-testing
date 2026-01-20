@@ -18,36 +18,36 @@ The package kdiagram (version 2.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/ca/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ca/kgantt_qt.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/ca@valencia/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ca@valencia/kgantt_qt.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/de/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/de/kgantt_qt.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/en_GB/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/en_GB/kgantt_qt.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/es/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/es/kgantt_qt.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/et/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/et/kgantt_qt.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/eu/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/eu/kgantt_qt.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/it/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/it/kgantt_qt.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/nl/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/nl/kgantt_qt.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/nn/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/nn/kgantt_qt.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/pt/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/pt/kgantt_qt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/pt_BR/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/pt_BR/kgantt_qt.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/sv/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/sv/kgantt_qt.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/uk/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/uk/kgantt_qt.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/bs/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/bs/kgantt_qt.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/el/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/el/kgantt_qt.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/fi/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/fi/kgantt_qt.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/fr/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/fr/kgantt_qt.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/gl/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/gl/kgantt_qt.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/ko/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ko/kgantt_qt.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/pl/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/pl/kgantt_qt.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/ru/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ru/kgantt_qt.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/sk/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/sk/kgantt_qt.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/tr/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/tr/kgantt_qt.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/zh_TW/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/zh_TW/kgantt_qt.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 51 | 52 | 98.1 | /mnt/stockage/packages/f32/kdiagram/po/ro/kchart_qt.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 13 | 14 | 92.9 | /mnt/stockage/packages/f32/kdiagram/po/bg/kgantt_qt.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 49 | 66 | 74.2 | /mnt/stockage/packages/f32/kdiagram/po/cs/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/cs/kgantt_qt.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 47 | 66 | 71.2 | /mnt/stockage/packages/f32/kdiagram/po/zh_CN/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/zh_CN/kgantt_qt.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 42 | 66 | 63.6 | /mnt/stockage/packages/f32/kdiagram/po/ar/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ar/kgantt_qt.po | 
+ | [ca](/f32/language/ca) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/ca/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ca/kgantt_qt.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/ca@valencia/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ca@valencia/kgantt_qt.po | 
+ | [de](/f32/language/de) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/de/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/de/kgantt_qt.po | 
+ | [en_GB](/f32/language/en_GB) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/en_GB/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/en_GB/kgantt_qt.po | 
+ | [es](/f32/language/es) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/es/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/es/kgantt_qt.po | 
+ | [et](/f32/language/et) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/et/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/et/kgantt_qt.po | 
+ | [eu](/f32/language/eu) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/eu/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/eu/kgantt_qt.po | 
+ | [it](/f32/language/it) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/it/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/it/kgantt_qt.po | 
+ | [nl](/f32/language/nl) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/nl/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/nl/kgantt_qt.po | 
+ | [nn](/f32/language/nn) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/nn/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/nn/kgantt_qt.po | 
+ | [pt](/f32/language/pt) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/pt/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/pt/kgantt_qt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/pt_BR/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/pt_BR/kgantt_qt.po | 
+ | [sv](/f32/language/sv) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/sv/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/sv/kgantt_qt.po | 
+ | [uk](/f32/language/uk) | 66 | 66 | 100.0 | /mnt/stockage/packages/f32/kdiagram/po/uk/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/uk/kgantt_qt.po | 
+ | [bs](/f32/language/bs) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/bs/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/bs/kgantt_qt.po | 
+ | [el](/f32/language/el) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/el/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/el/kgantt_qt.po | 
+ | [fi](/f32/language/fi) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/fi/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/fi/kgantt_qt.po | 
+ | [fr](/f32/language/fr) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/fr/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/fr/kgantt_qt.po | 
+ | [gl](/f32/language/gl) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/gl/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/gl/kgantt_qt.po | 
+ | [ko](/f32/language/ko) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/ko/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ko/kgantt_qt.po | 
+ | [pl](/f32/language/pl) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/pl/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/pl/kgantt_qt.po | 
+ | [ru](/f32/language/ru) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/ru/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ru/kgantt_qt.po | 
+ | [sk](/f32/language/sk) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/sk/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/sk/kgantt_qt.po | 
+ | [tr](/f32/language/tr) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/tr/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/tr/kgantt_qt.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 65 | 66 | 98.5 | /mnt/stockage/packages/f32/kdiagram/po/zh_TW/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/zh_TW/kgantt_qt.po | 
+ | [ro](/f32/language/ro) | 51 | 52 | 98.1 | /mnt/stockage/packages/f32/kdiagram/po/ro/kchart_qt.po | 
+ | [bg](/f32/language/bg) | 13 | 14 | 92.9 | /mnt/stockage/packages/f32/kdiagram/po/bg/kgantt_qt.po | 
+ | [cs](/f32/language/cs) | 49 | 66 | 74.2 | /mnt/stockage/packages/f32/kdiagram/po/cs/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/cs/kgantt_qt.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 47 | 66 | 71.2 | /mnt/stockage/packages/f32/kdiagram/po/zh_CN/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/zh_CN/kgantt_qt.po | 
+ | [ar](/f32/language/ar) | 42 | 66 | 63.6 | /mnt/stockage/packages/f32/kdiagram/po/ar/kchart_qt.po/mnt/stockage/packages/f32/kdiagram/po/ar/kgantt_qt.po | 
 {.sortable}
 
 

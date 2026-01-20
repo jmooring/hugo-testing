@@ -18,12 +18,12 @@ The package kover (version 4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f12/language/es.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f12/kover/po/es.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f12/kover/po/fr.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 456 | 456 | 100.0 | /mnt/stockage/packages/f12/kover/po/pl.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 455 | 456 | 99.8 | /mnt/stockage/packages/f12/kover/po/it.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 439 | 441 | 99.5 | /mnt/stockage/packages/f12/kover/po/de.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 582 | 755 | 77.1 | /mnt/stockage/packages/f12/kover/po/nb.po/mnt/stockage/packages/f12/kover/po/no.po | 
+ | [es](/f12/language/es) | 470 | 470 | 100.0 | /mnt/stockage/packages/f12/kover/po/es.po | 
+ | [fr](/f12/language/fr) | 470 | 470 | 100.0 | /mnt/stockage/packages/f12/kover/po/fr.po | 
+ | [pl](/f12/language/pl) | 456 | 456 | 100.0 | /mnt/stockage/packages/f12/kover/po/pl.po | 
+ | [it](/f12/language/it) | 455 | 456 | 99.8 | /mnt/stockage/packages/f12/kover/po/it.po | 
+ | [de](/f12/language/de) | 439 | 441 | 99.5 | /mnt/stockage/packages/f12/kover/po/de.po | 
+ | [nb_NO](/f12/language/nb_NO) | 582 | 755 | 77.1 | /mnt/stockage/packages/f12/kover/po/nb.po/mnt/stockage/packages/f12/kover/po/no.po | 
 {.sortable}
 
 

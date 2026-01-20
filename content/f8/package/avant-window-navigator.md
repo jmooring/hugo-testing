@@ -18,7 +18,7 @@ The package avant-window-navigator (version 0.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 2 | 48 | 4.2 | /mnt/stockage/packages/f8/avant-window-navigator/po/en_GB.po | 
+ | [en_GB](/f8/language/en_GB) | 2 | 48 | 4.2 | /mnt/stockage/packages/f8/avant-window-navigator/po/en_GB.po | 
 {.sortable}
 
 

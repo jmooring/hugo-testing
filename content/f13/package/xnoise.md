@@ -18,10 +18,10 @@ The package xnoise (version 0.1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/de_DE.po | 
- | [error]({{< ref "/f13/language/error.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/default.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/es_ES.po | 
- | [es_CO]({{< ref "/f13/language/es_CO.md" >}}) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/es_CO.po | 
+ | [de](/f13/language/de) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/de_DE.po | 
+ | [error](/f13/language/error) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/default.po | 
+ | [es](/f13/language/es) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/es_ES.po | 
+ | [es_CO](/f13/language/es_CO) | 139 | 139 | 100.0 | /mnt/stockage/packages/f13/xnoise/po/es_CO.po | 
 {.sortable}
 
 

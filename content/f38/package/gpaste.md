@@ -18,30 +18,30 @@ The package gpaste (version 44.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 1416 | 1426 | 99.3 | /mnt/stockage/packages/f38/gpaste/po/de.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1416 | 1426 | 99.3 | /mnt/stockage/packages/f38/gpaste/po/ru.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 1416 | 1426 | 99.3 | /mnt/stockage/packages/f38/gpaste/po/tr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 1390 | 1426 | 97.5 | /mnt/stockage/packages/f38/gpaste/po/it.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1390 | 1426 | 97.5 | /mnt/stockage/packages/f38/gpaste/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 1256 | 1426 | 88.1 | /mnt/stockage/packages/f38/gpaste/po/pt_BR.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1241 | 1426 | 87.0 | /mnt/stockage/packages/f38/gpaste/po/fr.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1198 | 1426 | 84.0 | /mnt/stockage/packages/f38/gpaste/po/pl.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 940 | 1426 | 65.9 | /mnt/stockage/packages/f38/gpaste/po/sv.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 935 | 1426 | 65.6 | /mnt/stockage/packages/f38/gpaste/po/nl_NL.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 778 | 1426 | 54.6 | /mnt/stockage/packages/f38/gpaste/po/es.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 640 | 1426 | 44.9 | /mnt/stockage/packages/f38/gpaste/po/nb_NO.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 447 | 1426 | 31.3 | /mnt/stockage/packages/f38/gpaste/po/da.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 416 | 1426 | 29.2 | /mnt/stockage/packages/f38/gpaste/po/ja.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 168 | 1426 | 11.8 | /mnt/stockage/packages/f38/gpaste/po/cs.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 150 | 1426 | 10.5 | /mnt/stockage/packages/f38/gpaste/po/ko.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 146 | 1426 | 10.2 | /mnt/stockage/packages/f38/gpaste/po/gl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 131 | 1426 | 9.2 | /mnt/stockage/packages/f38/gpaste/po/oc.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 108 | 1426 | 7.6 | /mnt/stockage/packages/f38/gpaste/po/zh_Hant.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 98 | 1426 | 6.9 | /mnt/stockage/packages/f38/gpaste/po/vi.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 86 | 1426 | 6.0 | /mnt/stockage/packages/f38/gpaste/po/sl.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 35 | 1426 | 2.5 | /mnt/stockage/packages/f38/gpaste/po/ka.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 0 | 1426 | 0.0 | /mnt/stockage/packages/f38/gpaste/po/ar.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 0 | 1426 | 0.0 | /mnt/stockage/packages/f38/gpaste/po/fa.po | 
+ | [de](/f38/language/de) | 1416 | 1426 | 99.3 | /mnt/stockage/packages/f38/gpaste/po/de.po | 
+ | [ru](/f38/language/ru) | 1416 | 1426 | 99.3 | /mnt/stockage/packages/f38/gpaste/po/ru.po | 
+ | [tr](/f38/language/tr) | 1416 | 1426 | 99.3 | /mnt/stockage/packages/f38/gpaste/po/tr.po | 
+ | [it](/f38/language/it) | 1390 | 1426 | 97.5 | /mnt/stockage/packages/f38/gpaste/po/it.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1390 | 1426 | 97.5 | /mnt/stockage/packages/f38/gpaste/po/zh_CN.po | 
+ | [pt_BR](/f38/language/pt_BR) | 1256 | 1426 | 88.1 | /mnt/stockage/packages/f38/gpaste/po/pt_BR.po | 
+ | [fr](/f38/language/fr) | 1241 | 1426 | 87.0 | /mnt/stockage/packages/f38/gpaste/po/fr.po | 
+ | [pl](/f38/language/pl) | 1198 | 1426 | 84.0 | /mnt/stockage/packages/f38/gpaste/po/pl.po | 
+ | [sv](/f38/language/sv) | 940 | 1426 | 65.9 | /mnt/stockage/packages/f38/gpaste/po/sv.po | 
+ | [nl](/f38/language/nl) | 935 | 1426 | 65.6 | /mnt/stockage/packages/f38/gpaste/po/nl_NL.po | 
+ | [es](/f38/language/es) | 778 | 1426 | 54.6 | /mnt/stockage/packages/f38/gpaste/po/es.po | 
+ | [nb_NO](/f38/language/nb_NO) | 640 | 1426 | 44.9 | /mnt/stockage/packages/f38/gpaste/po/nb_NO.po | 
+ | [da](/f38/language/da) | 447 | 1426 | 31.3 | /mnt/stockage/packages/f38/gpaste/po/da.po | 
+ | [ja](/f38/language/ja) | 416 | 1426 | 29.2 | /mnt/stockage/packages/f38/gpaste/po/ja.po | 
+ | [cs](/f38/language/cs) | 168 | 1426 | 11.8 | /mnt/stockage/packages/f38/gpaste/po/cs.po | 
+ | [ko](/f38/language/ko) | 150 | 1426 | 10.5 | /mnt/stockage/packages/f38/gpaste/po/ko.po | 
+ | [gl](/f38/language/gl) | 146 | 1426 | 10.2 | /mnt/stockage/packages/f38/gpaste/po/gl.po | 
+ | [oc](/f38/language/oc) | 131 | 1426 | 9.2 | /mnt/stockage/packages/f38/gpaste/po/oc.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 108 | 1426 | 7.6 | /mnt/stockage/packages/f38/gpaste/po/zh_Hant.po | 
+ | [vi](/f38/language/vi) | 98 | 1426 | 6.9 | /mnt/stockage/packages/f38/gpaste/po/vi.po | 
+ | [sl](/f38/language/sl) | 86 | 1426 | 6.0 | /mnt/stockage/packages/f38/gpaste/po/sl.po | 
+ | [ka](/f38/language/ka) | 35 | 1426 | 2.5 | /mnt/stockage/packages/f38/gpaste/po/ka.po | 
+ | [ar](/f38/language/ar) | 0 | 1426 | 0.0 | /mnt/stockage/packages/f38/gpaste/po/ar.po | 
+ | [fa](/f38/language/fa) | 0 | 1426 | 0.0 | /mnt/stockage/packages/f38/gpaste/po/fa.po | 
 {.sortable}
 
 

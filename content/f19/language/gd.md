@@ -38,30 +38,30 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f19/package/0ad.md" >}}) | 17 | 17 | 100.0 | Gaelic, Scottish (http://www.transifex.com/projects/p/0ad/language/gd/) | 
- | [flare]({{< ref "/f19/package/flare.md" >}}) | 3369 | 3369 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [flare-engine]({{< ref "/f19/package/flare-engine.md" >}}) | 753 | 753 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [freeciv]({{< ref "/f19/package/freeciv.md" >}}) | 70240 | 70240 | 100.0 | Akerbeltz | 
- | [gcompris]({{< ref "/f19/package/gcompris.md" >}}) | 17312 | 17312 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 99349 | 99349 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f19/package/lightdm-gtk.md" >}}) | 57 | 57 | 100.0 | Gaelic; Scottish <gd@li.org> | 
- | [supertuxkart]({{< ref "/f19/package/supertuxkart.md" >}}) | 2112 | 2112 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [gallery2]({{< ref "/f19/package/gallery2.md" >}}) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
- | [gimp]({{< ref "/f19/package/gimp.md" >}}) | 14080 | 16252 | 86.6 | Akerbeltz | 
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 9278 | 10965 | 84.6 | Sgioba na gàidhlig | 
- | [widelands]({{< ref "/f19/package/widelands.md" >}}) | 21014 | 34294 | 61.3 | Gaelic; Scottish <gd@li.org> | 
- | [gparted]({{< ref "/f19/package/gparted.md" >}}) | 2886 | 7830 | 36.9 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [stellarium]({{< ref "/f19/package/stellarium.md" >}}) | 2478 | 11181 | 22.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [gtk3]({{< ref "/f19/package/gtk3.md" >}}) | 2774 | 13759 | 20.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net <fios@foramnagaidhlig.net> | 
- | [mingw-gtk3]({{< ref "/f19/package/mingw-gtk3.md" >}}) | 2774 | 13759 | 20.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net <fios@foramnagaidhlig.net> | 
- | [wesnoth]({{< ref "/f19/package/wesnoth.md" >}}) | 42134 | 245378 | 17.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [docky]({{< ref "/f19/package/docky.md" >}}) | 199 | 1757 | 11.3 | Gaelic; Scottish <gd@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f19/package/tuxpaint-stamps.md" >}}) | 178 | 2711 | 6.6 |  | 
- | [tuxpaint]({{< ref "/f19/package/tuxpaint.md" >}}) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
- | [deja-dup]({{< ref "/f19/package/deja-dup.md" >}}) | 0 | 1756 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [gwibber]({{< ref "/f19/package/gwibber.md" >}}) | 0 | 769 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [lightdm]({{< ref "/f19/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [openconnect]({{< ref "/f19/package/openconnect.md" >}}) | 0 | 2574 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
+ | [0ad](/f19/package/0ad) | 17 | 17 | 100.0 | Gaelic, Scottish (http://www.transifex.com/projects/p/0ad/language/gd/) | 
+ | [flare](/f19/package/flare) | 3369 | 3369 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [flare-engine](/f19/package/flare-engine) | 753 | 753 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [freeciv](/f19/package/freeciv) | 70240 | 70240 | 100.0 | Akerbeltz | 
+ | [gcompris](/f19/package/gcompris) | 17312 | 17312 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [libreoffice](/f19/package/libreoffice) | 99349 | 99349 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f19/package/lightdm-gtk) | 57 | 57 | 100.0 | Gaelic; Scottish <gd@li.org> | 
+ | [supertuxkart](/f19/package/supertuxkart) | 2112 | 2112 | 100.0 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [gallery2](/f19/package/gallery2) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
+ | [gimp](/f19/package/gimp) | 14080 | 16252 | 86.6 | Akerbeltz | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 9278 | 10965 | 84.6 | Sgioba na gàidhlig | 
+ | [widelands](/f19/package/widelands) | 21014 | 34294 | 61.3 | Gaelic; Scottish <gd@li.org> | 
+ | [gparted](/f19/package/gparted) | 2886 | 7830 | 36.9 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [stellarium](/f19/package/stellarium) | 2478 | 11181 | 22.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [gtk3](/f19/package/gtk3) | 2774 | 13759 | 20.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net <fios@foramnagaidhlig.net> | 
+ | [mingw-gtk3](/f19/package/mingw-gtk3) | 2774 | 13759 | 20.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net <fios@foramnagaidhlig.net> | 
+ | [wesnoth](/f19/package/wesnoth) | 42134 | 245378 | 17.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [docky](/f19/package/docky) | 199 | 1757 | 11.3 | Gaelic; Scottish <gd@li.org> | 
+ | [tuxpaint-stamps](/f19/package/tuxpaint-stamps) | 178 | 2711 | 6.6 |  | 
+ | [tuxpaint](/f19/package/tuxpaint) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
+ | [deja-dup](/f19/package/deja-dup) | 0 | 1756 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [gwibber](/f19/package/gwibber) | 0 | 769 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [lightdm](/f19/package/lightdm) | 0 | 79 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [openconnect](/f19/package/openconnect) | 0 | 2574 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
 {.sortable}
 
 

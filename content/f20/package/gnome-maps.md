@@ -18,49 +18,49 @@ The package gnome-maps (version 3.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f20/language/as.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/as.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ca.po | 
- | [ca@valencia]({{< ref "/f20/language/ca@valencia.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ca@valencia.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/el.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 178 | 178 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/en_GB.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/eo.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/es.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/et.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/eu.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/fa.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/fi.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/gl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/he.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ja.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ko.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/lt.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/lv.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/nl.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pa.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/sl.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/sr.po/mnt/stockage/packages/f20/gnome-maps/po/sr@latin.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/te.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/tg.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 183 | 183 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/tr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 360 | 360 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/zh_TW.po/mnt/stockage/packages/f20/gnome-maps/po/zh_HK.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 146 | 180 | 81.1 | /mnt/stockage/packages/f20/gnome-maps/po/af.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 40 | 82 | 48.8 | /mnt/stockage/packages/f20/gnome-maps/po/ga.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 46 | 180 | 25.6 | /mnt/stockage/packages/f20/gnome-maps/po/ar.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 29 | 180 | 16.1 | /mnt/stockage/packages/f20/gnome-maps/po/nb.po | 
+ | [as](/f20/language/as) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/as.po | 
+ | [ca](/f20/language/ca) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ca.po | 
+ | [ca@valencia](/f20/language/ca@valencia) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ca@valencia.po | 
+ | [cs](/f20/language/cs) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/cs.po | 
+ | [da](/f20/language/da) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/da.po | 
+ | [de](/f20/language/de) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/de.po | 
+ | [el](/f20/language/el) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/el.po | 
+ | [en_GB](/f20/language/en_GB) | 178 | 178 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/en_GB.po | 
+ | [eo](/f20/language/eo) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/eo.po | 
+ | [es](/f20/language/es) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/es.po | 
+ | [et](/f20/language/et) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/et.po | 
+ | [eu](/f20/language/eu) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/eu.po | 
+ | [fa](/f20/language/fa) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/fa.po | 
+ | [fi](/f20/language/fi) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/fi.po | 
+ | [fr](/f20/language/fr) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/fr.po | 
+ | [gl](/f20/language/gl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/gl.po | 
+ | [he](/f20/language/he) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/he.po | 
+ | [hu](/f20/language/hu) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/hu.po | 
+ | [id](/f20/language/id) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/id.po | 
+ | [it](/f20/language/it) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/it.po | 
+ | [ja](/f20/language/ja) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ja.po | 
+ | [ko](/f20/language/ko) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ko.po | 
+ | [lt](/f20/language/lt) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/lt.po | 
+ | [lv](/f20/language/lv) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/lv.po | 
+ | [nl](/f20/language/nl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/nl.po | 
+ | [pa](/f20/language/pa) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pa.po | 
+ | [pl](/f20/language/pl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pl.po | 
+ | [pt](/f20/language/pt) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/ru.po | 
+ | [sk](/f20/language/sk) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/sk.po | 
+ | [sl](/f20/language/sl) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/sl.po | 
+ | [sr](/f20/language/sr) | 360 | 360 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/sr.po/mnt/stockage/packages/f20/gnome-maps/po/sr@latin.po | 
+ | [te](/f20/language/te) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/te.po | 
+ | [tg](/f20/language/tg) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/tg.po | 
+ | [tr](/f20/language/tr) | 183 | 183 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/tr.po | 
+ | [uk](/f20/language/uk) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 180 | 180 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 360 | 360 | 100.0 | /mnt/stockage/packages/f20/gnome-maps/po/zh_TW.po/mnt/stockage/packages/f20/gnome-maps/po/zh_HK.po | 
+ | [af](/f20/language/af) | 146 | 180 | 81.1 | /mnt/stockage/packages/f20/gnome-maps/po/af.po | 
+ | [ga](/f20/language/ga) | 40 | 82 | 48.8 | /mnt/stockage/packages/f20/gnome-maps/po/ga.po | 
+ | [ar](/f20/language/ar) | 46 | 180 | 25.6 | /mnt/stockage/packages/f20/gnome-maps/po/ar.po | 
+ | [nb_NO](/f20/language/nb_NO) | 29 | 180 | 16.1 | /mnt/stockage/packages/f20/gnome-maps/po/nb.po | 
 {.sortable}
 
 

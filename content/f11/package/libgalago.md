@@ -18,10 +18,10 @@ The package libgalago (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f11/language/da.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/de.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/fr.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/pt_BR.po | 
+ | [da](/f11/language/da) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/da.po | 
+ | [de](/f11/language/de) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/de.po | 
+ | [fr](/f11/language/fr) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/fr.po | 
+ | [pt_BR](/f11/language/pt_BR) | 32 | 32 | 100.0 | /mnt/stockage/packages/f11/libgalago/po/pt_BR.po | 
 {.sortable}
 
 

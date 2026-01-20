@@ -18,22 +18,22 @@ The package pioneers (version 15.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 2989 | 2989 | 100.0 | /mnt/stockage/packages/f27/pioneers/po/en_GB.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 2989 | 2989 | 100.0 | /mnt/stockage/packages/f27/pioneers/po/nl.po | 
- | [af]({{< ref "/f27/language/af.md" >}}) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/af.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/ca.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/fr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/ja.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/zh_CN.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 2699 | 2989 | 90.3 | /mnt/stockage/packages/f27/pioneers/po/de.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 2606 | 2989 | 87.2 | /mnt/stockage/packages/f27/pioneers/po/pt.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 2570 | 2989 | 86.0 | /mnt/stockage/packages/f27/pioneers/po/es.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 2319 | 2989 | 77.6 | /mnt/stockage/packages/f27/pioneers/po/sv.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 2287 | 2989 | 76.5 | /mnt/stockage/packages/f27/pioneers/po/gl.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 2280 | 2989 | 76.3 | /mnt/stockage/packages/f27/pioneers/po/hu.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 2241 | 2989 | 75.0 | /mnt/stockage/packages/f27/pioneers/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 2189 | 2989 | 73.2 | /mnt/stockage/packages/f27/pioneers/po/da.po | 
+ | [en_GB](/f27/language/en_GB) | 2989 | 2989 | 100.0 | /mnt/stockage/packages/f27/pioneers/po/en_GB.po | 
+ | [nl](/f27/language/nl) | 2989 | 2989 | 100.0 | /mnt/stockage/packages/f27/pioneers/po/nl.po | 
+ | [af](/f27/language/af) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/af.po | 
+ | [ca](/f27/language/ca) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/ca.po | 
+ | [fr](/f27/language/fr) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/fr.po | 
+ | [it](/f27/language/it) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/it.po | 
+ | [ja](/f27/language/ja) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/ja.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 2987 | 2989 | 99.9 | /mnt/stockage/packages/f27/pioneers/po/zh_CN.po | 
+ | [de](/f27/language/de) | 2699 | 2989 | 90.3 | /mnt/stockage/packages/f27/pioneers/po/de.po | 
+ | [pt](/f27/language/pt) | 2606 | 2989 | 87.2 | /mnt/stockage/packages/f27/pioneers/po/pt.po | 
+ | [es](/f27/language/es) | 2570 | 2989 | 86.0 | /mnt/stockage/packages/f27/pioneers/po/es.po | 
+ | [sv](/f27/language/sv) | 2319 | 2989 | 77.6 | /mnt/stockage/packages/f27/pioneers/po/sv.po | 
+ | [gl](/f27/language/gl) | 2287 | 2989 | 76.5 | /mnt/stockage/packages/f27/pioneers/po/gl.po | 
+ | [hu](/f27/language/hu) | 2280 | 2989 | 76.3 | /mnt/stockage/packages/f27/pioneers/po/hu.po | 
+ | [cs](/f27/language/cs) | 2241 | 2989 | 75.0 | /mnt/stockage/packages/f27/pioneers/po/cs.po | 
+ | [da](/f27/language/da) | 2189 | 2989 | 73.2 | /mnt/stockage/packages/f27/pioneers/po/da.po | 
 {.sortable}
 
 

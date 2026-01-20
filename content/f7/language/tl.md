@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f7/package/iso-codes.md" >}}) | 952 | 952 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [newt]({{< ref "/f7/package/newt.md" >}}) | 4 | 4 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [glib2]({{< ref "/f7/package/glib2.md" >}}) | 1079 | 1213 | 89.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [shadow-utils]({{< ref "/f7/package/shadow-utils.md" >}}) | 2136 | 2915 | 73.3 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
- | [tuxpaint]({{< ref "/f7/package/tuxpaint.md" >}}) | 215 | 587 | 36.6 | LANGUAGE <LL@li.org> | 
- | [pgadmin3]({{< ref "/f7/package/pgadmin3.md" >}}) | 1297 | 7344 | 17.7 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | 72 | 3616 | 2.0 | Tagalog <tl@li.org> | 
- | [deluge]({{< ref "/f7/package/deluge.md" >}}) | 10 | 2352 | 0.4 | Tagalog <tl@li.org> | 
- | [wesnoth]({{< ref "/f7/package/wesnoth.md" >}}) | 373 | 119067 | 0.3 | none | 
- | [xchat-gnome]({{< ref "/f7/package/xchat-gnome.md" >}}) | 6 | 3901 | 0.2 | Tagalog <tl@li.org> | 
- | [gnomebaker]({{< ref "/f7/package/gnomebaker.md" >}}) | 1 | 1186 | 0.1 | Tagalog <tl@li.org> | 
- | [pmount]({{< ref "/f7/package/pmount.md" >}}) | 0 | 723 | 0.0 | Tagalog <tl@li.org> | 
+ | [iso-codes](/f7/package/iso-codes) | 952 | 952 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [newt](/f7/package/newt) | 4 | 4 | 100.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [glib2](/f7/package/glib2) | 1079 | 1213 | 89.0 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [shadow-utils](/f7/package/shadow-utils) | 2136 | 2915 | 73.3 | Tagalog <debian-tl@banwa.upm.edu.ph> | 
+ | [tuxpaint](/f7/package/tuxpaint) | 215 | 587 | 36.6 | LANGUAGE <LL@li.org> | 
+ | [pgadmin3](/f7/package/pgadmin3) | 1297 | 7344 | 17.7 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [Miro](/f7/package/Miro) | 72 | 3616 | 2.0 | Tagalog <tl@li.org> | 
+ | [deluge](/f7/package/deluge) | 10 | 2352 | 0.4 | Tagalog <tl@li.org> | 
+ | [wesnoth](/f7/package/wesnoth) | 373 | 119067 | 0.3 | none | 
+ | [xchat-gnome](/f7/package/xchat-gnome) | 6 | 3901 | 0.2 | Tagalog <tl@li.org> | 
+ | [gnomebaker](/f7/package/gnomebaker) | 1 | 1186 | 0.1 | Tagalog <tl@li.org> | 
+ | [pmount](/f7/package/pmount) | 0 | 723 | 0.0 | Tagalog <tl@li.org> | 
 {.sortable}
 
 

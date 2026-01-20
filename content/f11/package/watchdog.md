@@ -18,18 +18,18 @@ The package watchdog (version 5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/cs.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/gl.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/ja.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/pt.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/sv.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/vi.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 30 | 97 | 30.9 | /mnt/stockage/packages/f11/watchdog/debian/po/nl.po | 
+ | [cs](/f11/language/cs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/cs.po | 
+ | [de](/f11/language/de) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/de.po | 
+ | [es](/f11/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/es.po | 
+ | [fi](/f11/language/fi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/fi.po | 
+ | [fr](/f11/language/fr) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/fr.po | 
+ | [gl](/f11/language/gl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/gl.po | 
+ | [ja](/f11/language/ja) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/ja.po | 
+ | [pt](/f11/language/pt) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/pt.po | 
+ | [ru](/f11/language/ru) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/ru.po | 
+ | [sv](/f11/language/sv) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/sv.po | 
+ | [vi](/f11/language/vi) | 97 | 97 | 100.0 | /mnt/stockage/packages/f11/watchdog/debian/po/vi.po | 
+ | [nl](/f11/language/nl) | 30 | 97 | 30.9 | /mnt/stockage/packages/f11/watchdog/debian/po/nl.po | 
 {.sortable}
 
 

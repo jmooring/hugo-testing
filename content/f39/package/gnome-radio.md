@@ -18,19 +18,19 @@ The package gnome-radio (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/ca.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/hu.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/id.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/pl.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/pt_BR.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/sl.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 147 | 147 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/sr.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/sv.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 162 | 288 | 56.2 | /mnt/stockage/packages/f39/gnome-radio/po/nb.po | 
+ | [ca](/f39/language/ca) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/ca.po | 
+ | [cs](/f39/language/cs) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/cs.po | 
+ | [de](/f39/language/de) | 282 | 282 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/de.po | 
+ | [es](/f39/language/es) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/es.po | 
+ | [fr](/f39/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/fr.po | 
+ | [hu](/f39/language/hu) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/hu.po | 
+ | [id](/f39/language/id) | 153 | 153 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/id.po | 
+ | [pl](/f39/language/pl) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/pl.po | 
+ | [pt_BR](/f39/language/pt_BR) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/pt_BR.po | 
+ | [sl](/f39/language/sl) | 147 | 147 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/sl.po | 
+ | [sr](/f39/language/sr) | 147 | 147 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/sr.po | 
+ | [sv](/f39/language/sv) | 236 | 236 | 100.0 | /mnt/stockage/packages/f39/gnome-radio/po/sv.po | 
+ | [nb_NO](/f39/language/nb_NO) | 162 | 288 | 56.2 | /mnt/stockage/packages/f39/gnome-radio/po/nb.po | 
 {.sortable}
 
 

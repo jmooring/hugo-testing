@@ -18,7 +18,7 @@ The package yum (version 3.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f7/yum/po/ru.po | 
+ | [ru](/f7/language/ru) | 1176 | 1176 | 100.0 | /mnt/stockage/packages/f7/yum/po/ru.po | 
 {.sortable}
 
 

@@ -18,61 +18,61 @@ The package gnome-logs (version 3.24.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f26/language/an.md" >}}) | 142 | 142 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/an.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/as.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/bg.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/bs.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 140 | 140 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/ca.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/ca@valencia.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/cs/cs.po/mnt/stockage/packages/f26/gnome-logs/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/da/da.po/mnt/stockage/packages/f26/gnome-logs/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/de/de.po/mnt/stockage/packages/f26/gnome-logs/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/el/el.po/mnt/stockage/packages/f26/gnome-logs/po/el.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 633 | 633 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/es/es.po/mnt/stockage/packages/f26/gnome-logs/po/es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/eu.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/fa.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/fi.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/fr/fr.po/mnt/stockage/packages/f26/gnome-logs/po/fr.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/fur.po | 
- | [gd]({{< ref "/f26/language/gd.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/gd.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/gl/gl.po/mnt/stockage/packages/f26/gnome-logs/po/gl.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/hr.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/hu/hu.po/mnt/stockage/packages/f26/gnome-logs/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/it.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/ko/ko.po/mnt/stockage/packages/f26/gnome-logs/po/ko.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/lv.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/nl.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/oc.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/pa.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/pt_BR/pt_BR.po/mnt/stockage/packages/f26/gnome-logs/po/pt_BR.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/ro.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/ru/ru.po/mnt/stockage/packages/f26/gnome-logs/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 708 | 708 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/sr.po/mnt/stockage/packages/f26/gnome-logs/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/sv/sv.po/mnt/stockage/packages/f26/gnome-logs/po/sv.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/te.po | 
- | [tg]({{< ref "/f26/language/tg.md" >}}) | 141 | 141 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/tg.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/uk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/vi.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/zh_HK.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 113 | 115 | 98.3 | /mnt/stockage/packages/f26/gnome-logs/po/ar.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 178 | 216 | 82.4 | /mnt/stockage/packages/f26/gnome-logs/po/he.po | 
- | [ne]({{< ref "/f26/language/ne.md" >}}) | 63 | 115 | 54.8 | /mnt/stockage/packages/f26/gnome-logs/po/ne.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 75 | 142 | 52.8 | /mnt/stockage/packages/f26/gnome-logs/po/eo.po | 
- | [ga]({{< ref "/f26/language/ga.md" >}}) | 46 | 153 | 30.1 | /mnt/stockage/packages/f26/gnome-logs/po/ga.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 37 | 140 | 26.4 | /mnt/stockage/packages/f26/gnome-logs/po/ja.po | 
+ | [an](/f26/language/an) | 142 | 142 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/an.po | 
+ | [as](/f26/language/as) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/as.po | 
+ | [bg](/f26/language/bg) | 216 | 216 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/bg.po | 
+ | [bs](/f26/language/bs) | 140 | 140 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/bs.po | 
+ | [ca](/f26/language/ca) | 140 | 140 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/ca.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/ca@valencia.po | 
+ | [cs](/f26/language/cs) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/cs/cs.po/mnt/stockage/packages/f26/gnome-logs/po/cs.po | 
+ | [da](/f26/language/da) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/da/da.po/mnt/stockage/packages/f26/gnome-logs/po/da.po | 
+ | [de](/f26/language/de) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/de/de.po/mnt/stockage/packages/f26/gnome-logs/po/de.po | 
+ | [el](/f26/language/el) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/el/el.po/mnt/stockage/packages/f26/gnome-logs/po/el.po | 
+ | [en_GB](/f26/language/en_GB) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/en_GB.po | 
+ | [es](/f26/language/es) | 633 | 633 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/es/es.po/mnt/stockage/packages/f26/gnome-logs/po/es.po | 
+ | [eu](/f26/language/eu) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/eu.po | 
+ | [fa](/f26/language/fa) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/fa.po | 
+ | [fi](/f26/language/fi) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/fi.po | 
+ | [fr](/f26/language/fr) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/fr/fr.po/mnt/stockage/packages/f26/gnome-logs/po/fr.po | 
+ | [fur](/f26/language/fur) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/fur.po | 
+ | [gd](/f26/language/gd) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/gd.po | 
+ | [gl](/f26/language/gl) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/gl/gl.po/mnt/stockage/packages/f26/gnome-logs/po/gl.po | 
+ | [hr](/f26/language/hr) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/hr.po | 
+ | [hu](/f26/language/hu) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/hu/hu.po/mnt/stockage/packages/f26/gnome-logs/po/hu.po | 
+ | [id](/f26/language/id) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/id.po | 
+ | [it](/f26/language/it) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/it.po | 
+ | [kk](/f26/language/kk) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/kk.po | 
+ | [ko](/f26/language/ko) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/ko/ko.po/mnt/stockage/packages/f26/gnome-logs/po/ko.po | 
+ | [lt](/f26/language/lt) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/lt.po | 
+ | [lv](/f26/language/lv) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/lv.po | 
+ | [nb_NO](/f26/language/nb_NO) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/nb.po | 
+ | [nl](/f26/language/nl) | 120 | 120 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/nl.po | 
+ | [oc](/f26/language/oc) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/oc.po | 
+ | [pa](/f26/language/pa) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/pa.po | 
+ | [pl](/f26/language/pl) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/pl.po | 
+ | [pt](/f26/language/pt) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/pt_BR/pt_BR.po/mnt/stockage/packages/f26/gnome-logs/po/pt_BR.po | 
+ | [ro](/f26/language/ro) | 141 | 141 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/ro.po | 
+ | [ru](/f26/language/ru) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/ru/ru.po/mnt/stockage/packages/f26/gnome-logs/po/ru.po | 
+ | [sk](/f26/language/sk) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/sk.po | 
+ | [sl](/f26/language/sl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/sl.po | 
+ | [sr](/f26/language/sr) | 708 | 708 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/sr.po/mnt/stockage/packages/f26/gnome-logs/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 626 | 626 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/help/sv/sv.po/mnt/stockage/packages/f26/gnome-logs/po/sv.po | 
+ | [te](/f26/language/te) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/te.po | 
+ | [tg](/f26/language/tg) | 141 | 141 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/tg.po | 
+ | [th](/f26/language/th) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/th.po | 
+ | [tr](/f26/language/tr) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/tr.po | 
+ | [uk](/f26/language/uk) | 354 | 354 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/uk.po | 
+ | [vi](/f26/language/vi) | 223 | 223 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/vi.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 349 | 349 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/zh_TW.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 115 | 115 | 100.0 | /mnt/stockage/packages/f26/gnome-logs/po/zh_HK.po | 
+ | [ar](/f26/language/ar) | 113 | 115 | 98.3 | /mnt/stockage/packages/f26/gnome-logs/po/ar.po | 
+ | [he](/f26/language/he) | 178 | 216 | 82.4 | /mnt/stockage/packages/f26/gnome-logs/po/he.po | 
+ | [ne](/f26/language/ne) | 63 | 115 | 54.8 | /mnt/stockage/packages/f26/gnome-logs/po/ne.po | 
+ | [eo](/f26/language/eo) | 75 | 142 | 52.8 | /mnt/stockage/packages/f26/gnome-logs/po/eo.po | 
+ | [ga](/f26/language/ga) | 46 | 153 | 30.1 | /mnt/stockage/packages/f26/gnome-logs/po/ga.po | 
+ | [ja](/f26/language/ja) | 37 | 140 | 26.4 | /mnt/stockage/packages/f26/gnome-logs/po/ja.po | 
 {.sortable}
 
 

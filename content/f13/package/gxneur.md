@@ -18,13 +18,13 @@ The package gxneur (version 0.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 690 | 690 | 100.0 | /mnt/stockage/packages/f13/gxneur/po/ru.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 369 | 690 | 53.5 | /mnt/stockage/packages/f13/gxneur/po/uk.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 331 | 690 | 48.0 | /mnt/stockage/packages/f13/gxneur/po/he.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 302 | 690 | 43.8 | /mnt/stockage/packages/f13/gxneur/po/de.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 297 | 690 | 43.0 | /mnt/stockage/packages/f13/gxneur/po/be.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 97 | 690 | 14.1 | /mnt/stockage/packages/f13/gxneur/po/ro.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 74 | 690 | 10.7 | /mnt/stockage/packages/f13/gxneur/po/es.po | 
+ | [ru](/f13/language/ru) | 690 | 690 | 100.0 | /mnt/stockage/packages/f13/gxneur/po/ru.po | 
+ | [uk](/f13/language/uk) | 369 | 690 | 53.5 | /mnt/stockage/packages/f13/gxneur/po/uk.po | 
+ | [he](/f13/language/he) | 331 | 690 | 48.0 | /mnt/stockage/packages/f13/gxneur/po/he.po | 
+ | [de](/f13/language/de) | 302 | 690 | 43.8 | /mnt/stockage/packages/f13/gxneur/po/de.po | 
+ | [be](/f13/language/be) | 297 | 690 | 43.0 | /mnt/stockage/packages/f13/gxneur/po/be.po | 
+ | [ro](/f13/language/ro) | 97 | 690 | 14.1 | /mnt/stockage/packages/f13/gxneur/po/ro.po | 
+ | [es](/f13/language/es) | 74 | 690 | 10.7 | /mnt/stockage/packages/f13/gxneur/po/es.po | 
 {.sortable}
 
 

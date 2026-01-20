@@ -18,79 +18,79 @@ The package sushi (version 3.38.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f33/language/af.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/af.po | 
- | [an]({{< ref "/f33/language/an.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/an.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ar.po | 
- | [as]({{< ref "/f33/language/as.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/as.po | 
- | [ast]({{< ref "/f33/language/ast.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ast.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/be.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/bg.po | 
- | [bn_IN]({{< ref "/f33/language/bn_IN.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/bn_IN.po | 
- | [bs]({{< ref "/f33/language/bs.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/bs.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ca.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ca@valencia.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/de.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/el.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/en_GB.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/es.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/et.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/eu.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fa.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fr.po | 
- | [fur]({{< ref "/f33/language/fur.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fur.po | 
- | [gd]({{< ref "/f33/language/gd.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/gd.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/gl.po | 
- | [gu]({{< ref "/f33/language/gu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/gu.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/he.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/hi.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/hr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/hu.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/id.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/is.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/it.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ja.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/kk.po | 
- | [kn]({{< ref "/f33/language/kn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/kn.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ko.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/lt.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/lv.po | 
- | [ml]({{< ref "/f33/language/ml.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ml.po | 
- | [mr]({{< ref "/f33/language/mr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/mr.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ms.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/nb.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ne.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/nl.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/oc.po | 
- | [or]({{< ref "/f33/language/or.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/or.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pa.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pt_BR.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ro.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ru.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sk.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sr.po | 
- | [sr_Latn]({{< ref "/f33/language/sr_Latn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sr@latin.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sv.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ta.po | 
- | [te]({{< ref "/f33/language/te.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/te.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/tg.po | 
- | [th]({{< ref "/f33/language/th.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/th.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/tr.po | 
- | [ug]({{< ref "/f33/language/ug.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ug.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/uk.po | 
- | [uz]({{< ref "/f33/language/uz.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/vi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f33/language/zh_Hant_HK.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/zh_HK.po | 
- | [ckb]({{< ref "/f33/language/ckb.md" >}}) | 23 | 33 | 69.7 | /mnt/stockage/packages/f33/sushi/po/ckb.po | 
- | [mjw]({{< ref "/f33/language/mjw.md" >}}) | 13 | 22 | 59.1 | /mnt/stockage/packages/f33/sushi/po/mjw.po | 
+ | [af](/f33/language/af) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/af.po | 
+ | [an](/f33/language/an) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/an.po | 
+ | [ar](/f33/language/ar) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ar.po | 
+ | [as](/f33/language/as) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/as.po | 
+ | [ast](/f33/language/ast) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ast.po | 
+ | [be](/f33/language/be) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/be.po | 
+ | [bg](/f33/language/bg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/bg.po | 
+ | [bn_IN](/f33/language/bn_IN) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/bn_IN.po | 
+ | [bs](/f33/language/bs) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/bs.po | 
+ | [ca](/f33/language/ca) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ca.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ca@valencia.po | 
+ | [cs](/f33/language/cs) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/cs.po | 
+ | [da](/f33/language/da) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/da.po | 
+ | [de](/f33/language/de) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/de.po | 
+ | [el](/f33/language/el) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/el.po | 
+ | [en_GB](/f33/language/en_GB) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/en_GB.po | 
+ | [eo](/f33/language/eo) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/eo.po | 
+ | [es](/f33/language/es) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/es.po | 
+ | [et](/f33/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/et.po | 
+ | [eu](/f33/language/eu) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/eu.po | 
+ | [fa](/f33/language/fa) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fa.po | 
+ | [fi](/f33/language/fi) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fi.po | 
+ | [fr](/f33/language/fr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fr.po | 
+ | [fur](/f33/language/fur) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/fur.po | 
+ | [gd](/f33/language/gd) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/gd.po | 
+ | [gl](/f33/language/gl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/gl.po | 
+ | [gu](/f33/language/gu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/gu.po | 
+ | [he](/f33/language/he) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/he.po | 
+ | [hi](/f33/language/hi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/hi.po | 
+ | [hr](/f33/language/hr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/hr.po | 
+ | [hu](/f33/language/hu) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/hu.po | 
+ | [id](/f33/language/id) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/id.po | 
+ | [is](/f33/language/is) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/is.po | 
+ | [it](/f33/language/it) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/it.po | 
+ | [ja](/f33/language/ja) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ja.po | 
+ | [kk](/f33/language/kk) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/kk.po | 
+ | [kn](/f33/language/kn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/kn.po | 
+ | [ko](/f33/language/ko) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ko.po | 
+ | [lt](/f33/language/lt) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/lt.po | 
+ | [lv](/f33/language/lv) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/lv.po | 
+ | [ml](/f33/language/ml) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ml.po | 
+ | [mr](/f33/language/mr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/mr.po | 
+ | [ms](/f33/language/ms) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ms.po | 
+ | [nb_NO](/f33/language/nb_NO) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/nb.po | 
+ | [ne](/f33/language/ne) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ne.po | 
+ | [nl](/f33/language/nl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/nl.po | 
+ | [oc](/f33/language/oc) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/oc.po | 
+ | [or](/f33/language/or) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/or.po | 
+ | [pa](/f33/language/pa) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pa.po | 
+ | [pl](/f33/language/pl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pl.po | 
+ | [pt](/f33/language/pt) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/pt_BR.po | 
+ | [ro](/f33/language/ro) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ro.po | 
+ | [ru](/f33/language/ru) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ru.po | 
+ | [sk](/f33/language/sk) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sk.po | 
+ | [sl](/f33/language/sl) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sl.po | 
+ | [sr](/f33/language/sr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sr.po | 
+ | [sr_Latn](/f33/language/sr_Latn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sr@latin.po | 
+ | [sv](/f33/language/sv) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/sv.po | 
+ | [ta](/f33/language/ta) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ta.po | 
+ | [te](/f33/language/te) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/te.po | 
+ | [tg](/f33/language/tg) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/tg.po | 
+ | [th](/f33/language/th) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/th.po | 
+ | [tr](/f33/language/tr) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/tr.po | 
+ | [ug](/f33/language/ug) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/ug.po | 
+ | [uk](/f33/language/uk) | 54 | 54 | 100.0 | /mnt/stockage/packages/f33/sushi/po/uk.po | 
+ | [uz](/f33/language/uz) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/uz@cyrillic.po | 
+ | [vi](/f33/language/vi) | 15 | 15 | 100.0 | /mnt/stockage/packages/f33/sushi/po/vi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/zh_CN.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 33 | 33 | 100.0 | /mnt/stockage/packages/f33/sushi/po/zh_TW.po | 
+ | [zh_Hant_HK](/f33/language/zh_Hant_HK) | 24 | 24 | 100.0 | /mnt/stockage/packages/f33/sushi/po/zh_HK.po | 
+ | [ckb](/f33/language/ckb) | 23 | 33 | 69.7 | /mnt/stockage/packages/f33/sushi/po/ckb.po | 
+ | [mjw](/f33/language/mjw) | 13 | 22 | 59.1 | /mnt/stockage/packages/f33/sushi/po/mjw.po | 
 {.sortable}
 
 

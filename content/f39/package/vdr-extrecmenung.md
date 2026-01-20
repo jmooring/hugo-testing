@@ -18,28 +18,28 @@ The package vdr-extrecmenung (version 2.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 306 | 318 | 96.2 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/de_DE.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 181 | 318 | 56.9 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/fr_FR.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 175 | 318 | 55.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/es_ES.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 174 | 318 | 54.7 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/it_IT.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 111 | 318 | 34.9 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/sk_SK.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 104 | 318 | 32.7 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/fi_FI.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 96 | 318 | 30.2 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/cs_CZ.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/ca_ES.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/da_DK.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/el_GR.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/et_EE.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/hr_HR.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/hu_HU.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/nl_NL.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/nn_NO.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/pl_PL.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/pt_PT.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/ro_RO.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/ru_RU.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/sl_SI.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/sv_SE.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/tr_TR.po | 
+ | [de](/f39/language/de) | 306 | 318 | 96.2 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/de_DE.po | 
+ | [fr](/f39/language/fr) | 181 | 318 | 56.9 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/fr_FR.po | 
+ | [es](/f39/language/es) | 175 | 318 | 55.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/es_ES.po | 
+ | [it](/f39/language/it) | 174 | 318 | 54.7 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/it_IT.po | 
+ | [sk](/f39/language/sk) | 111 | 318 | 34.9 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/sk_SK.po | 
+ | [fi](/f39/language/fi) | 104 | 318 | 32.7 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/fi_FI.po | 
+ | [cs](/f39/language/cs) | 96 | 318 | 30.2 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/cs_CZ.po | 
+ | [ca](/f39/language/ca) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/ca_ES.po | 
+ | [da](/f39/language/da) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/da_DK.po | 
+ | [el](/f39/language/el) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/el_GR.po | 
+ | [et](/f39/language/et) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/et_EE.po | 
+ | [hr](/f39/language/hr) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/hr_HR.po | 
+ | [hu](/f39/language/hu) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/hu_HU.po | 
+ | [nl](/f39/language/nl) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/nl_NL.po | 
+ | [nn](/f39/language/nn) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/nn_NO.po | 
+ | [pl](/f39/language/pl) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/pl_PL.po | 
+ | [pt](/f39/language/pt) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/pt_PT.po | 
+ | [ro](/f39/language/ro) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/ro_RO.po | 
+ | [ru](/f39/language/ru) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/ru_RU.po | 
+ | [sl](/f39/language/sl) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/sl_SI.po | 
+ | [sv](/f39/language/sv) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/sv_SE.po | 
+ | [tr](/f39/language/tr) | 0 | 318 | 0.0 | /mnt/stockage/packages/f39/vdr-extrecmenung/po/tr_TR.po | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package gnome-2048 (version 3.26.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f28/language/bs.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/bs.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/ca.po | 
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f28/gnome-2048/po/cs.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/de/de.po/mnt/stockage/packages/f28/gnome-2048/po/de.po | 
- | [el]({{< ref "/f28/language/el.md" >}}) | 324 | 324 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/el/el.po/mnt/stockage/packages/f28/gnome-2048/po/el.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/es/es.po/mnt/stockage/packages/f28/gnome-2048/po/es.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/fi.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 278 | 278 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/fr.po | 
- | [fur]({{< ref "/f28/language/fur.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/fur.po | 
- | [he]({{< ref "/f28/language/he.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/he.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/hu/hu.po/mnt/stockage/packages/f28/gnome-2048/po/hu.po | 
- | [id]({{< ref "/f28/language/id.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/id.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/it.po | 
- | [lt]({{< ref "/f28/language/lt.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/lt.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/pl/pl.po/mnt/stockage/packages/f28/gnome-2048/po/pl.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/pt_BR/pt_BR.po/mnt/stockage/packages/f28/gnome-2048/po/pt_BR.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/sk.po | 
- | [sl]({{< ref "/f28/language/sl.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/sl.po | 
- | [sr]({{< ref "/f28/language/sr.md" >}}) | 602 | 602 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f28/gnome-2048/po/sr.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f28/gnome-2048/po/sv.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 290 | 290 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/zh_CN.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 234 | 301 | 77.7 | /mnt/stockage/packages/f28/gnome-2048/po/tr.po | 
+ | [bs](/f28/language/bs) | 278 | 278 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/bs.po | 
+ | [ca](/f28/language/ca) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/ca.po | 
+ | [cs](/f28/language/cs) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/cs/cs.po/mnt/stockage/packages/f28/gnome-2048/po/cs.po | 
+ | [de](/f28/language/de) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/de/de.po/mnt/stockage/packages/f28/gnome-2048/po/de.po | 
+ | [el](/f28/language/el) | 324 | 324 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/el/el.po/mnt/stockage/packages/f28/gnome-2048/po/el.po | 
+ | [es](/f28/language/es) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/es/es.po/mnt/stockage/packages/f28/gnome-2048/po/es.po | 
+ | [fi](/f28/language/fi) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/fi.po | 
+ | [fr](/f28/language/fr) | 278 | 278 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/fr.po | 
+ | [fur](/f28/language/fur) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/fur.po | 
+ | [he](/f28/language/he) | 290 | 290 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/he.po | 
+ | [hu](/f28/language/hu) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/hu/hu.po/mnt/stockage/packages/f28/gnome-2048/po/hu.po | 
+ | [id](/f28/language/id) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/id.po | 
+ | [it](/f28/language/it) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/it.po | 
+ | [lt](/f28/language/lt) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/lt.po | 
+ | [pl](/f28/language/pl) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/pl/pl.po/mnt/stockage/packages/f28/gnome-2048/po/pl.po | 
+ | [pt](/f28/language/pt) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/pt_BR/pt_BR.po/mnt/stockage/packages/f28/gnome-2048/po/pt_BR.po | 
+ | [sk](/f28/language/sk) | 290 | 290 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/sk.po | 
+ | [sl](/f28/language/sl) | 301 | 301 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/sl.po | 
+ | [sr](/f28/language/sr) | 602 | 602 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/sr@latin.po/mnt/stockage/packages/f28/gnome-2048/po/sr.po | 
+ | [sv](/f28/language/sv) | 335 | 335 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/help/sv/sv.po/mnt/stockage/packages/f28/gnome-2048/po/sv.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 290 | 290 | 100.0 | /mnt/stockage/packages/f28/gnome-2048/po/zh_CN.po | 
+ | [tr](/f28/language/tr) | 234 | 301 | 77.7 | /mnt/stockage/packages/f28/gnome-2048/po/tr.po | 
 {.sortable}
 
 

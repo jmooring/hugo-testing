@@ -18,25 +18,25 @@ The package resapplet (version 0.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/ca.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/cs.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/da.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/de.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/en_GB.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/es.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/fi.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/fr.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/hu.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/ja.po | 
- | [mk]({{< ref "/f30/language/mk.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/mk.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/pt_BR.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/vi.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/zh_TW.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 72 | 106 | 67.9 | /mnt/stockage/packages/f30/resapplet/po/pl.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 6 | 106 | 5.7 | /mnt/stockage/packages/f30/resapplet/po/sk.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 0 | 106 | 0.0 | /mnt/stockage/packages/f30/resapplet/po/ar.po | 
+ | [ca](/f30/language/ca) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/ca.po | 
+ | [cs](/f30/language/cs) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/cs.po | 
+ | [da](/f30/language/da) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/da.po | 
+ | [de](/f30/language/de) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/de.po | 
+ | [en_GB](/f30/language/en_GB) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/en_GB.po | 
+ | [es](/f30/language/es) | 127 | 127 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/es.po | 
+ | [fi](/f30/language/fi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/fi.po | 
+ | [fr](/f30/language/fr) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/fr.po | 
+ | [hu](/f30/language/hu) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/hu.po | 
+ | [it](/f30/language/it) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/it.po | 
+ | [ja](/f30/language/ja) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/ja.po | 
+ | [mk](/f30/language/mk) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/mk.po | 
+ | [pt_BR](/f30/language/pt_BR) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/pt_BR.po | 
+ | [vi](/f30/language/vi) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/vi.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/zh_CN.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 106 | 106 | 100.0 | /mnt/stockage/packages/f30/resapplet/po/zh_TW.po | 
+ | [pl](/f30/language/pl) | 72 | 106 | 67.9 | /mnt/stockage/packages/f30/resapplet/po/pl.po | 
+ | [sk](/f30/language/sk) | 6 | 106 | 5.7 | /mnt/stockage/packages/f30/resapplet/po/sk.po | 
+ | [ar](/f30/language/ar) | 0 | 106 | 0.0 | /mnt/stockage/packages/f30/resapplet/po/ar.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package jbigkit (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f20/jbigkit/libjbig/po/de.po | 
+ | [de](/f20/language/de) | 44 | 44 | 100.0 | /mnt/stockage/packages/f20/jbigkit/libjbig/po/de.po | 
 {.sortable}
 
 

@@ -18,28 +18,28 @@ The package cross-gcc (version 4.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/pt_BR.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 80406 | 80406 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/sv.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/sv.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/uk.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 72515 | 80411 | 90.2 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/de.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/de.po/mnt/stockage/packages/f21/cross-gcc/libstdc++-v3/po/de.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 66860 | 80406 | 83.2 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/es.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/es.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 989 | 1230 | 80.4 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/ca.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 52606 | 80406 | 65.4 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/zh_CN.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 41453 | 80406 | 51.6 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/id.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 32175 | 80406 | 40.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/sr.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/sr.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 28516 | 80406 | 35.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/tr.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/tr.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 25905 | 80406 | 32.2 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/ja.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/ja.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 25419 | 80406 | 31.6 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/zh_TW.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 24909 | 80406 | 31.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/vi.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/vi.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 22744 | 80406 | 28.3 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/ru.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/ru.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 15628 | 80406 | 19.4 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/fi.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 11570 | 80411 | 14.4 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/fr.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/fr.po/mnt/stockage/packages/f21/cross-gcc/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 8470 | 80406 | 10.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/da.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/da.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 6421 | 80406 | 8.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/nl.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/nl.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 779 | 79176 | 1.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/hr.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 431 | 80406 | 0.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/be.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 417 | 80406 | 0.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/el.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/el.po | 
+ | [eo](/f21/language/eo) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/eo.po | 
+ | [pt_BR](/f21/language/pt_BR) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/pt_BR.po | 
+ | [sv](/f21/language/sv) | 80406 | 80406 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/sv.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/sv.po | 
+ | [uk](/f21/language/uk) | 1230 | 1230 | 100.0 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/uk.po | 
+ | [de](/f21/language/de) | 72515 | 80411 | 90.2 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/de.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/de.po/mnt/stockage/packages/f21/cross-gcc/libstdc++-v3/po/de.po | 
+ | [es](/f21/language/es) | 66860 | 80406 | 83.2 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/es.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/es.po | 
+ | [ca](/f21/language/ca) | 989 | 1230 | 80.4 | /mnt/stockage/packages/f21/cross-gcc/libcpp/po/ca.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 52606 | 80406 | 65.4 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/zh_CN.po | 
+ | [id](/f21/language/id) | 41453 | 80406 | 51.6 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/id.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/id.po | 
+ | [sr](/f21/language/sr) | 32175 | 80406 | 40.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/sr.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/sr.po | 
+ | [tr](/f21/language/tr) | 28516 | 80406 | 35.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/tr.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/tr.po | 
+ | [ja](/f21/language/ja) | 25905 | 80406 | 32.2 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/ja.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/ja.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 25419 | 80406 | 31.6 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/zh_TW.po | 
+ | [vi](/f21/language/vi) | 24909 | 80406 | 31.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/vi.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/vi.po | 
+ | [ru](/f21/language/ru) | 22744 | 80406 | 28.3 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/ru.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/ru.po | 
+ | [fi](/f21/language/fi) | 15628 | 80406 | 19.4 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/fi.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/fi.po | 
+ | [fr](/f21/language/fr) | 11570 | 80411 | 14.4 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/fr.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/fr.po/mnt/stockage/packages/f21/cross-gcc/libstdc++-v3/po/fr.po | 
+ | [da](/f21/language/da) | 8470 | 80406 | 10.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/da.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/da.po | 
+ | [nl](/f21/language/nl) | 6421 | 80406 | 8.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/nl.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/nl.po | 
+ | [hr](/f21/language/hr) | 779 | 79176 | 1.0 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/hr.po | 
+ | [be](/f21/language/be) | 431 | 80406 | 0.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/be.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/be.po | 
+ | [el](/f21/language/el) | 417 | 80406 | 0.5 | /mnt/stockage/packages/f21/cross-gcc/gcc/po/el.po/mnt/stockage/packages/f21/cross-gcc/libcpp/po/el.po | 
 {.sortable}
 
 

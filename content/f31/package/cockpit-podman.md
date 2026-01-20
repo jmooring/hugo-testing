@@ -18,17 +18,17 @@ The package cockpit-podman (version 23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/cs.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/fr.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/pl.po | 
- | [pt_PT]({{< ref "/f31/language/pt_PT.md" >}}) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/pt_PT.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/uk.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 291 | 463 | 62.9 | /mnt/stockage/packages/f31/cockpit-podman/po/sk.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 251 | 463 | 54.2 | /mnt/stockage/packages/f31/cockpit-podman/po/es.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 245 | 463 | 52.9 | /mnt/stockage/packages/f31/cockpit-podman/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 226 | 463 | 48.8 | /mnt/stockage/packages/f31/cockpit-podman/po/pt_BR.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 217 | 463 | 46.9 | /mnt/stockage/packages/f31/cockpit-podman/po/de.po | 
+ | [cs](/f31/language/cs) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/cs.po | 
+ | [fr](/f31/language/fr) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/fr.po | 
+ | [pl](/f31/language/pl) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/pl.po | 
+ | [pt_PT](/f31/language/pt_PT) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/pt_PT.po | 
+ | [tr](/f31/language/tr) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/tr.po | 
+ | [uk](/f31/language/uk) | 463 | 463 | 100.0 | /mnt/stockage/packages/f31/cockpit-podman/po/uk.po | 
+ | [sk](/f31/language/sk) | 291 | 463 | 62.9 | /mnt/stockage/packages/f31/cockpit-podman/po/sk.po | 
+ | [es](/f31/language/es) | 251 | 463 | 54.2 | /mnt/stockage/packages/f31/cockpit-podman/po/es.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 245 | 463 | 52.9 | /mnt/stockage/packages/f31/cockpit-podman/po/zh_CN.po | 
+ | [pt_BR](/f31/language/pt_BR) | 226 | 463 | 48.8 | /mnt/stockage/packages/f31/cockpit-podman/po/pt_BR.po | 
+ | [de](/f31/language/de) | 217 | 463 | 46.9 | /mnt/stockage/packages/f31/cockpit-podman/po/de.po | 
 {.sortable}
 
 

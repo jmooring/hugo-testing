@@ -18,9 +18,9 @@ The package postr (version 0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f7/postr/po/sv.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 79 | 81 | 97.5 | /mnt/stockage/packages/f7/postr/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 79 | 81 | 97.5 | /mnt/stockage/packages/f7/postr/po/it.po | 
+ | [sv](/f7/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f7/postr/po/sv.po | 
+ | [fr](/f7/language/fr) | 79 | 81 | 97.5 | /mnt/stockage/packages/f7/postr/po/fr.po | 
+ | [it](/f7/language/it) | 79 | 81 | 97.5 | /mnt/stockage/packages/f7/postr/po/it.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package oggconvert (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f9/oggconvert/po/nl.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 139 | 152 | 91.4 | /mnt/stockage/packages/f9/oggconvert/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 139 | 152 | 91.4 | /mnt/stockage/packages/f9/oggconvert/po/es.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 139 | 152 | 91.4 | /mnt/stockage/packages/f9/oggconvert/po/sv.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 124 | 152 | 81.6 | /mnt/stockage/packages/f9/oggconvert/po/fr.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 113 | 152 | 74.3 | /mnt/stockage/packages/f9/oggconvert/po/ru.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 108 | 152 | 71.1 | /mnt/stockage/packages/f9/oggconvert/po/it.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 106 | 152 | 69.7 | /mnt/stockage/packages/f9/oggconvert/po/pt_BR.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 104 | 152 | 68.4 | /mnt/stockage/packages/f9/oggconvert/po/bg.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 86 | 152 | 56.6 | /mnt/stockage/packages/f9/oggconvert/po/pl.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 54 | 152 | 35.5 | /mnt/stockage/packages/f9/oggconvert/po/ko.po | 
+ | [nl](/f9/language/nl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f9/oggconvert/po/nl.po | 
+ | [de](/f9/language/de) | 139 | 152 | 91.4 | /mnt/stockage/packages/f9/oggconvert/po/de.po | 
+ | [es](/f9/language/es) | 139 | 152 | 91.4 | /mnt/stockage/packages/f9/oggconvert/po/es.po | 
+ | [sv](/f9/language/sv) | 139 | 152 | 91.4 | /mnt/stockage/packages/f9/oggconvert/po/sv.po | 
+ | [fr](/f9/language/fr) | 124 | 152 | 81.6 | /mnt/stockage/packages/f9/oggconvert/po/fr.po | 
+ | [ru](/f9/language/ru) | 113 | 152 | 74.3 | /mnt/stockage/packages/f9/oggconvert/po/ru.po | 
+ | [it](/f9/language/it) | 108 | 152 | 71.1 | /mnt/stockage/packages/f9/oggconvert/po/it.po | 
+ | [pt_BR](/f9/language/pt_BR) | 106 | 152 | 69.7 | /mnt/stockage/packages/f9/oggconvert/po/pt_BR.po | 
+ | [bg](/f9/language/bg) | 104 | 152 | 68.4 | /mnt/stockage/packages/f9/oggconvert/po/bg.po | 
+ | [pl](/f9/language/pl) | 86 | 152 | 56.6 | /mnt/stockage/packages/f9/oggconvert/po/pl.po | 
+ | [ko](/f9/language/ko) | 54 | 152 | 35.5 | /mnt/stockage/packages/f9/oggconvert/po/ko.po | 
 {.sortable}
 
 

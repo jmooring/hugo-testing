@@ -18,87 +18,87 @@ The package mingw-gtksourceview3 (version 3.20.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/cs.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/el.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/eu.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/gl.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/he.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/hu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/it.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/lv.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ru.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sr@latin.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/tr.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/vi.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/zh_TW.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 1113 | 1118 | 99.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/id.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 1112 | 1118 | 99.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sk.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 1105 | 1118 | 98.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bs.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1101 | 1118 | 98.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ja.po | 
- | [as]({{< ref "/f24/language/as.md" >}}) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/as.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ca@valencia.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/zh_HK.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 1084 | 1118 | 97.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/nb.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 1082 | 1118 | 96.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/oc.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 1017 | 1118 | 91.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/be.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 894 | 1118 | 80.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pa.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 860 | 1118 | 76.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/gu.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 855 | 1118 | 76.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/hi.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 855 | 1118 | 76.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ta.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 855 | 1118 | 76.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ug.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 848 | 1118 | 75.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bg.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 843 | 1118 | 75.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/en_GB.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 820 | 1118 | 73.3 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/th.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 803 | 1118 | 71.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/fi.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 797 | 1118 | 71.3 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/uk.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 796 | 1118 | 71.2 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/nl.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 796 | 1118 | 71.2 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/te.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 791 | 1118 | 70.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ast.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 790 | 1118 | 70.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mk.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 720 | 1118 | 64.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ro.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 719 | 1118 | 64.3 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/kn.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 676 | 1118 | 60.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/or.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 671 | 1118 | 60.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bn.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 651 | 1118 | 58.2 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/nn.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ar.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bn_IN.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ml.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mr.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 556 | 1118 | 49.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/et.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 533 | 1118 | 47.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/dz.po | 
- | [error]({{< ref "/f24/language/error.md" >}}) | 496 | 1118 | 44.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/en@shaw.po | 
- | [en_CA]({{< ref "/f24/language/en_CA.md" >}}) | 493 | 1118 | 44.1 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/en_CA.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 493 | 1118 | 44.1 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ne.po | 
- | [kk]({{< ref "/f24/language/kk.md" >}}) | 267 | 1118 | 23.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/kk.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 244 | 1118 | 21.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/eo.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 174 | 1118 | 15.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mai.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 168 | 1118 | 15.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ga.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 119 | 1118 | 10.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/cy.po | 
- | [mg]({{< ref "/f24/language/mg.md" >}}) | 117 | 1118 | 10.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mg.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 116 | 1118 | 10.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sq.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 110 | 1118 | 9.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/fa.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 109 | 1118 | 9.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/xh.po | 
- | [tg]({{< ref "/f24/language/tg.md" >}}) | 105 | 1118 | 9.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/tg.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 88 | 1118 | 7.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/si.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 86 | 1118 | 7.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ms.po | 
- | [az]({{< ref "/f24/language/az.md" >}}) | 65 | 1118 | 5.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/az.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 65 | 1118 | 5.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mn.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 62 | 1118 | 5.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/hr.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 29 | 1118 | 2.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/rw.po | 
+ | [cs](/f24/language/cs) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/cs.po | 
+ | [da](/f24/language/da) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/da.po | 
+ | [de](/f24/language/de) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/de.po | 
+ | [el](/f24/language/el) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/el.po | 
+ | [es](/f24/language/es) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/es.po | 
+ | [eu](/f24/language/eu) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/eu.po | 
+ | [fr](/f24/language/fr) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/fr.po | 
+ | [gl](/f24/language/gl) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/gl.po | 
+ | [he](/f24/language/he) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/he.po | 
+ | [hu](/f24/language/hu) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/hu.po | 
+ | [it](/f24/language/it) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/it.po | 
+ | [ko](/f24/language/ko) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ko.po | 
+ | [lt](/f24/language/lt) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/lt.po | 
+ | [lv](/f24/language/lv) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/lv.po | 
+ | [pl](/f24/language/pl) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pl.po | 
+ | [pt](/f24/language/pt) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ru.po | 
+ | [sl](/f24/language/sl) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sl.po | 
+ | [sr](/f24/language/sr) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sr@latin.po | 
+ | [sv](/f24/language/sv) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sv.po | 
+ | [tr](/f24/language/tr) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/tr.po | 
+ | [vi](/f24/language/vi) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/vi.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/zh_CN.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 1118 | 1118 | 100.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/zh_TW.po | 
+ | [id](/f24/language/id) | 1113 | 1118 | 99.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/id.po | 
+ | [sk](/f24/language/sk) | 1112 | 1118 | 99.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sk.po | 
+ | [bs](/f24/language/bs) | 1105 | 1118 | 98.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bs.po | 
+ | [ja](/f24/language/ja) | 1101 | 1118 | 98.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ja.po | 
+ | [as](/f24/language/as) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/as.po | 
+ | [ca](/f24/language/ca) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ca@valencia.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 1090 | 1118 | 97.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/zh_HK.po | 
+ | [nb_NO](/f24/language/nb_NO) | 1084 | 1118 | 97.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/nb.po | 
+ | [oc](/f24/language/oc) | 1082 | 1118 | 96.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/oc.po | 
+ | [be](/f24/language/be) | 1017 | 1118 | 91.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/be.po | 
+ | [pa](/f24/language/pa) | 894 | 1118 | 80.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/pa.po | 
+ | [gu](/f24/language/gu) | 860 | 1118 | 76.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/gu.po | 
+ | [hi](/f24/language/hi) | 855 | 1118 | 76.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/hi.po | 
+ | [ta](/f24/language/ta) | 855 | 1118 | 76.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ta.po | 
+ | [ug](/f24/language/ug) | 855 | 1118 | 76.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ug.po | 
+ | [bg](/f24/language/bg) | 848 | 1118 | 75.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bg.po | 
+ | [en_GB](/f24/language/en_GB) | 843 | 1118 | 75.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/en_GB.po | 
+ | [th](/f24/language/th) | 820 | 1118 | 73.3 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/th.po | 
+ | [fi](/f24/language/fi) | 803 | 1118 | 71.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/fi.po | 
+ | [uk](/f24/language/uk) | 797 | 1118 | 71.3 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/uk.po | 
+ | [nl](/f24/language/nl) | 796 | 1118 | 71.2 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/nl.po | 
+ | [te](/f24/language/te) | 796 | 1118 | 71.2 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/te.po | 
+ | [ast](/f24/language/ast) | 791 | 1118 | 70.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ast.po | 
+ | [mk](/f24/language/mk) | 790 | 1118 | 70.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mk.po | 
+ | [ro](/f24/language/ro) | 720 | 1118 | 64.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ro.po | 
+ | [kn](/f24/language/kn) | 719 | 1118 | 64.3 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/kn.po | 
+ | [or](/f24/language/or) | 676 | 1118 | 60.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/or.po | 
+ | [bn](/f24/language/bn) | 671 | 1118 | 60.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bn.po | 
+ | [nn](/f24/language/nn) | 651 | 1118 | 58.2 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/nn.po | 
+ | [ar](/f24/language/ar) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ar.po | 
+ | [bn_IN](/f24/language/bn_IN) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/bn_IN.po | 
+ | [ml](/f24/language/ml) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ml.po | 
+ | [mr](/f24/language/mr) | 625 | 1118 | 55.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mr.po | 
+ | [et](/f24/language/et) | 556 | 1118 | 49.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/et.po | 
+ | [dz](/f24/language/dz) | 533 | 1118 | 47.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/dz.po | 
+ | [error](/f24/language/error) | 496 | 1118 | 44.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/en@shaw.po | 
+ | [en_CA](/f24/language/en_CA) | 493 | 1118 | 44.1 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/en_CA.po | 
+ | [ne](/f24/language/ne) | 493 | 1118 | 44.1 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ne.po | 
+ | [kk](/f24/language/kk) | 267 | 1118 | 23.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/kk.po | 
+ | [eo](/f24/language/eo) | 244 | 1118 | 21.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/eo.po | 
+ | [mai](/f24/language/mai) | 174 | 1118 | 15.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mai.po | 
+ | [ga](/f24/language/ga) | 168 | 1118 | 15.0 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ga.po | 
+ | [cy](/f24/language/cy) | 119 | 1118 | 10.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/cy.po | 
+ | [mg](/f24/language/mg) | 117 | 1118 | 10.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mg.po | 
+ | [sq](/f24/language/sq) | 116 | 1118 | 10.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/sq.po | 
+ | [fa](/f24/language/fa) | 110 | 1118 | 9.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/fa.po | 
+ | [xh](/f24/language/xh) | 109 | 1118 | 9.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/xh.po | 
+ | [tg](/f24/language/tg) | 105 | 1118 | 9.4 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/tg.po | 
+ | [si](/f24/language/si) | 88 | 1118 | 7.9 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/si.po | 
+ | [ms](/f24/language/ms) | 86 | 1118 | 7.7 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/ms.po | 
+ | [az](/f24/language/az) | 65 | 1118 | 5.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/az.po | 
+ | [mn](/f24/language/mn) | 65 | 1118 | 5.8 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/mn.po | 
+ | [hr](/f24/language/hr) | 62 | 1118 | 5.5 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/hr.po | 
+ | [rw](/f24/language/rw) | 29 | 1118 | 2.6 | /mnt/stockage/packages/f24/mingw-gtksourceview3/po/rw.po | 
 {.sortable}
 
 

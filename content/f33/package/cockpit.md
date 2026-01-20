@@ -18,27 +18,27 @@ The package cockpit (version 252):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/ko.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/nl.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/tr.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/uk.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 6731 | 6925 | 97.2 | /mnt/stockage/packages/f33/cockpit/po/pl.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 6680 | 6925 | 96.5 | /mnt/stockage/packages/f33/cockpit/po/fi.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 6366 | 6926 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/zh_CN.po/mnt/stockage/packages/f33/cockpit/src/common/mock-locale/zh_CN/LC_MESSAGES/test.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 6365 | 6925 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/fr.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 6365 | 6925 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/he.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 6365 | 6925 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/ja.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 6218 | 6925 | 89.8 | /mnt/stockage/packages/f33/cockpit/po/it.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 6061 | 6925 | 87.5 | /mnt/stockage/packages/f33/cockpit/po/nb_NO.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 5730 | 6925 | 82.7 | /mnt/stockage/packages/f33/cockpit/po/cs.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 5112 | 6925 | 73.8 | /mnt/stockage/packages/f33/cockpit/po/es.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 5081 | 6925 | 73.4 | /mnt/stockage/packages/f33/cockpit/po/ru.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 4870 | 6926 | 70.3 | /mnt/stockage/packages/f33/cockpit/po/de.po/mnt/stockage/packages/f33/cockpit/src/common/mock-locale/de_DE/LC_MESSAGES/test.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 4282 | 6925 | 61.8 | /mnt/stockage/packages/f33/cockpit/po/sv.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 3972 | 6925 | 57.4 | /mnt/stockage/packages/f33/cockpit/po/sk.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 3861 | 6925 | 55.8 | /mnt/stockage/packages/f33/cockpit/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 3798 | 6925 | 54.8 | /mnt/stockage/packages/f33/cockpit/po/zh_TW.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 2811 | 6925 | 40.6 | /mnt/stockage/packages/f33/cockpit/po/ca.po | 
+ | [ko](/f33/language/ko) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/ko.po | 
+ | [nl](/f33/language/nl) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/nl.po | 
+ | [tr](/f33/language/tr) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/tr.po | 
+ | [uk](/f33/language/uk) | 6925 | 6925 | 100.0 | /mnt/stockage/packages/f33/cockpit/po/uk.po | 
+ | [pl](/f33/language/pl) | 6731 | 6925 | 97.2 | /mnt/stockage/packages/f33/cockpit/po/pl.po | 
+ | [fi](/f33/language/fi) | 6680 | 6925 | 96.5 | /mnt/stockage/packages/f33/cockpit/po/fi.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 6366 | 6926 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/zh_CN.po/mnt/stockage/packages/f33/cockpit/src/common/mock-locale/zh_CN/LC_MESSAGES/test.po | 
+ | [fr](/f33/language/fr) | 6365 | 6925 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/fr.po | 
+ | [he](/f33/language/he) | 6365 | 6925 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/he.po | 
+ | [ja](/f33/language/ja) | 6365 | 6925 | 91.9 | /mnt/stockage/packages/f33/cockpit/po/ja.po | 
+ | [it](/f33/language/it) | 6218 | 6925 | 89.8 | /mnt/stockage/packages/f33/cockpit/po/it.po | 
+ | [nb_NO](/f33/language/nb_NO) | 6061 | 6925 | 87.5 | /mnt/stockage/packages/f33/cockpit/po/nb_NO.po | 
+ | [cs](/f33/language/cs) | 5730 | 6925 | 82.7 | /mnt/stockage/packages/f33/cockpit/po/cs.po | 
+ | [es](/f33/language/es) | 5112 | 6925 | 73.8 | /mnt/stockage/packages/f33/cockpit/po/es.po | 
+ | [ru](/f33/language/ru) | 5081 | 6925 | 73.4 | /mnt/stockage/packages/f33/cockpit/po/ru.po | 
+ | [de](/f33/language/de) | 4870 | 6926 | 70.3 | /mnt/stockage/packages/f33/cockpit/po/de.po/mnt/stockage/packages/f33/cockpit/src/common/mock-locale/de_DE/LC_MESSAGES/test.po | 
+ | [sv](/f33/language/sv) | 4282 | 6925 | 61.8 | /mnt/stockage/packages/f33/cockpit/po/sv.po | 
+ | [sk](/f33/language/sk) | 3972 | 6925 | 57.4 | /mnt/stockage/packages/f33/cockpit/po/sk.po | 
+ | [pt_BR](/f33/language/pt_BR) | 3861 | 6925 | 55.8 | /mnt/stockage/packages/f33/cockpit/po/pt_BR.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 3798 | 6925 | 54.8 | /mnt/stockage/packages/f33/cockpit/po/zh_TW.po | 
+ | [ca](/f33/language/ca) | 2811 | 6925 | 40.6 | /mnt/stockage/packages/f33/cockpit/po/ca.po | 
 {.sortable}
 
 

@@ -18,22 +18,22 @@ The package gnome-web-photo (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/he.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/ja.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/pt_BR.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/zh_CN.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 102 | 168 | 60.7 | /mnt/stockage/packages/f15/gnome-web-photo/po/pa.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 19 | 168 | 11.3 | /mnt/stockage/packages/f15/gnome-web-photo/po/nb.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/oc.po | 
+ | [cs](/f15/language/cs) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/cs.po | 
+ | [da](/f15/language/da) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/da.po | 
+ | [de](/f15/language/de) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/de.po | 
+ | [es](/f15/language/es) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/es.po | 
+ | [fr](/f15/language/fr) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/fr.po | 
+ | [gl](/f15/language/gl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/gl.po | 
+ | [he](/f15/language/he) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/he.po | 
+ | [ja](/f15/language/ja) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/ja.po | 
+ | [pl](/f15/language/pl) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 168 | 168 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/pt_BR.po | 
+ | [sl](/f15/language/sl) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/sl.po | 
+ | [sv](/f15/language/sv) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 330 | 330 | 100.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/zh_CN.po | 
+ | [pa](/f15/language/pa) | 102 | 168 | 60.7 | /mnt/stockage/packages/f15/gnome-web-photo/po/pa.po | 
+ | [nb_NO](/f15/language/nb_NO) | 19 | 168 | 11.3 | /mnt/stockage/packages/f15/gnome-web-photo/po/nb.po | 
+ | [oc](/f15/language/oc) | 0 | 26 | 0.0 | /mnt/stockage/packages/f15/gnome-web-photo/po/oc.po | 
 {.sortable}
 
 

@@ -18,53 +18,53 @@ The package clamtk (version 4.45):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f18/language/af.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/af.po | 
- | [ast]({{< ref "/f18/language/ast.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ast.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/bg.po | 
- | [bs]({{< ref "/f18/language/bs.md" >}}) | 769 | 769 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/bs.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/cs.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/el_GR.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/es.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/eu.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/gl.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/he.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/hr.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/hu.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 774 | 774 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ja.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ko.po | 
- | [ms]({{< ref "/f18/language/ms.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ms.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 805 | 805 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/nb.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/nl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ru.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/sk.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/tr.po | 
- | [ug]({{< ref "/f18/language/ug.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ug.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/uk.po | 
- | [uz]({{< ref "/f18/language/uz.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/uz.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/zh_TW.po | 
- | [nl_BE]({{< ref "/f18/language/nl_BE.md" >}}) | 677 | 688 | 98.4 | /mnt/stockage/packages/f18/clamtk/po/nl_BE.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 756 | 769 | 98.3 | /mnt/stockage/packages/f18/clamtk/po/sl.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 749 | 796 | 94.1 | /mnt/stockage/packages/f18/clamtk/po/id.po | 
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 756 | 805 | 93.9 | /mnt/stockage/packages/f18/clamtk/po/ar.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 755 | 805 | 93.8 | /mnt/stockage/packages/f18/clamtk/po/ca.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 746 | 796 | 93.7 | /mnt/stockage/packages/f18/clamtk/po/pl.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 745 | 796 | 93.6 | /mnt/stockage/packages/f18/clamtk/po/fi.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 718 | 796 | 90.2 | /mnt/stockage/packages/f18/clamtk/po/lt.po | 
- | [fo]({{< ref "/f18/language/fo.md" >}}) | 699 | 796 | 87.8 | /mnt/stockage/packages/f18/clamtk/po/fo.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 666 | 805 | 82.7 | /mnt/stockage/packages/f18/clamtk/po/ro.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 589 | 805 | 73.2 | /mnt/stockage/packages/f18/clamtk/po/sv.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 572 | 796 | 71.9 | /mnt/stockage/packages/f18/clamtk/po/th.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 557 | 805 | 69.2 | /mnt/stockage/packages/f18/clamtk/po/pt.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 374 | 805 | 46.5 | /mnt/stockage/packages/f18/clamtk/po/nn.po | 
- | [te]({{< ref "/f18/language/te.md" >}}) | 184 | 757 | 24.3 | /mnt/stockage/packages/f18/clamtk/po/te.po | 
- | [mr]({{< ref "/f18/language/mr.md" >}}) | 21 | 796 | 2.6 | /mnt/stockage/packages/f18/clamtk/po/mr.po | 
+ | [af](/f18/language/af) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/af.po | 
+ | [ast](/f18/language/ast) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ast.po | 
+ | [bg](/f18/language/bg) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/bg.po | 
+ | [bs](/f18/language/bs) | 769 | 769 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/bs.po | 
+ | [cs](/f18/language/cs) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/cs.po | 
+ | [da](/f18/language/da) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/da.po | 
+ | [de](/f18/language/de) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/de.po | 
+ | [el](/f18/language/el) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/el_GR.po | 
+ | [en_GB](/f18/language/en_GB) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/en_GB.po | 
+ | [es](/f18/language/es) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/es.po | 
+ | [eu](/f18/language/eu) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/eu.po | 
+ | [fr](/f18/language/fr) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/fr.po | 
+ | [gl](/f18/language/gl) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/gl.po | 
+ | [he](/f18/language/he) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/he.po | 
+ | [hr](/f18/language/hr) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/hr.po | 
+ | [hu](/f18/language/hu) | 805 | 805 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/hu.po | 
+ | [it](/f18/language/it) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/it.po | 
+ | [ja](/f18/language/ja) | 774 | 774 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ja.po | 
+ | [ko](/f18/language/ko) | 778 | 778 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ko.po | 
+ | [ms](/f18/language/ms) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ms.po | 
+ | [nb_NO](/f18/language/nb_NO) | 805 | 805 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/nb.po | 
+ | [nl](/f18/language/nl) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/nl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ru.po | 
+ | [sk](/f18/language/sk) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/sk.po | 
+ | [tr](/f18/language/tr) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/tr.po | 
+ | [ug](/f18/language/ug) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/ug.po | 
+ | [uk](/f18/language/uk) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/uk.po | 
+ | [uz](/f18/language/uz) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/uz.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 796 | 796 | 100.0 | /mnt/stockage/packages/f18/clamtk/po/zh_TW.po | 
+ | [nl_BE](/f18/language/nl_BE) | 677 | 688 | 98.4 | /mnt/stockage/packages/f18/clamtk/po/nl_BE.po | 
+ | [sl](/f18/language/sl) | 756 | 769 | 98.3 | /mnt/stockage/packages/f18/clamtk/po/sl.po | 
+ | [id](/f18/language/id) | 749 | 796 | 94.1 | /mnt/stockage/packages/f18/clamtk/po/id.po | 
+ | [ar](/f18/language/ar) | 756 | 805 | 93.9 | /mnt/stockage/packages/f18/clamtk/po/ar.po | 
+ | [ca](/f18/language/ca) | 755 | 805 | 93.8 | /mnt/stockage/packages/f18/clamtk/po/ca.po | 
+ | [pl](/f18/language/pl) | 746 | 796 | 93.7 | /mnt/stockage/packages/f18/clamtk/po/pl.po | 
+ | [fi](/f18/language/fi) | 745 | 796 | 93.6 | /mnt/stockage/packages/f18/clamtk/po/fi.po | 
+ | [lt](/f18/language/lt) | 718 | 796 | 90.2 | /mnt/stockage/packages/f18/clamtk/po/lt.po | 
+ | [fo](/f18/language/fo) | 699 | 796 | 87.8 | /mnt/stockage/packages/f18/clamtk/po/fo.po | 
+ | [ro](/f18/language/ro) | 666 | 805 | 82.7 | /mnt/stockage/packages/f18/clamtk/po/ro.po | 
+ | [sv](/f18/language/sv) | 589 | 805 | 73.2 | /mnt/stockage/packages/f18/clamtk/po/sv.po | 
+ | [th](/f18/language/th) | 572 | 796 | 71.9 | /mnt/stockage/packages/f18/clamtk/po/th.po | 
+ | [pt](/f18/language/pt) | 557 | 805 | 69.2 | /mnt/stockage/packages/f18/clamtk/po/pt.po | 
+ | [nn](/f18/language/nn) | 374 | 805 | 46.5 | /mnt/stockage/packages/f18/clamtk/po/nn.po | 
+ | [te](/f18/language/te) | 184 | 757 | 24.3 | /mnt/stockage/packages/f18/clamtk/po/te.po | 
+ | [mr](/f18/language/mr) | 21 | 796 | 2.6 | /mnt/stockage/packages/f18/clamtk/po/mr.po | 
 {.sortable}
 
 

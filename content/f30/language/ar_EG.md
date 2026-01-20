@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f30/package/slick-greeter.md" >}}) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [blueberry]({{< ref "/f30/package/blueberry.md" >}}) | 144 | 148 | 97.3 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xreader]({{< ref "/f30/package/xreader.md" >}}) | 1623 | 1669 | 97.2 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [xed]({{< ref "/f30/package/xed.md" >}}) | 4351 | 4625 | 94.1 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 20965 | 22901 | 91.5 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
- | [lightdm-settings]({{< ref "/f30/package/lightdm-settings.md" >}}) | 271 | 305 | 88.9 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
- | [wicd]({{< ref "/f30/package/wicd.md" >}}) | 807 | 1138 | 70.9 | ar_EG <LL@li.org> | 
+ | [slick-greeter](/f30/package/slick-greeter) | 211 | 211 | 100.0 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [blueberry](/f30/package/blueberry) | 144 | 148 | 97.3 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xreader](/f30/package/xreader) | 1623 | 1669 | 97.2 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [xed](/f30/package/xed) | 4351 | 4625 | 94.1 | anwar AL_iskandrany <anwareleskndrany13@gmail.com> | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 20965 | 22901 | 91.5 | انور الاسكندرانى <anwareleskndrany13@gmail.com> | 
+ | [lightdm-settings](/f30/package/lightdm-settings) | 271 | 305 | 88.9 | anwar AL_iskandrany <anwar eleskndrany13@gmail.com> | 
+ | [wicd](/f30/package/wicd) | 807 | 1138 | 70.9 | ar_EG <LL@li.org> | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package yp-tools (version 2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f17/yp-tools/po/de.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 869 | 869 | 100.0 | /mnt/stockage/packages/f17/yp-tools/po/sv.po | 
+ | [de](/f17/language/de) | 869 | 869 | 100.0 | /mnt/stockage/packages/f17/yp-tools/po/de.po | 
+ | [sv](/f17/language/sv) | 869 | 869 | 100.0 | /mnt/stockage/packages/f17/yp-tools/po/sv.po | 
 {.sortable}
 
 

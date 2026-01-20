@@ -18,86 +18,86 @@ The package libbonobo (version 2.24.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ar.po | 
- | [as]({{< ref "/f10/language/as.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/as.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/bg.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/bn.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/bn_IN.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/de.po | 
- | [dz]({{< ref "/f10/language/dz.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/dz.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/el.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/es.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/eu.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/fr.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/gl.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/gu.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/he.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/hi.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/hr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/hu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ja.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ka.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ko.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/lt.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 524 | 524 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/lv.po | 
- | [mai]({{< ref "/f10/language/mai.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mai.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mk.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ml.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mn.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mr.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/nb.po | 
- | [ne]({{< ref "/f10/language/ne.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ne.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/nl.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/nn.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ru.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sq.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/te.po | 
- | [th]({{< ref "/f10/language/th.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/th.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/uk.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/vi.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f10/language/zh_Hant_HK.md" >}}) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/zh_HK.po | 
- | [mg]({{< ref "/f10/language/mg.md" >}}) | 508 | 524 | 96.9 | /mnt/stockage/packages/f10/libbonobo/po/mg.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 500 | 524 | 95.4 | /mnt/stockage/packages/f10/libbonobo/po/be.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 494 | 524 | 94.3 | /mnt/stockage/packages/f10/libbonobo/po/id.po | 
- | [az]({{< ref "/f10/language/az.md" >}}) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/az.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/bs.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/ms.po | 
- | [xh]({{< ref "/f10/language/xh.md" >}}) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/xh.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 489 | 547 | 89.4 | /mnt/stockage/packages/f10/libbonobo/po/et.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 468 | 524 | 89.3 | /mnt/stockage/packages/f10/libbonobo/po/is.po | 
- | [eo]({{< ref "/f10/language/eo.md" >}}) | 464 | 524 | 88.5 | /mnt/stockage/packages/f10/libbonobo/po/eo.po | 
- | [li]({{< ref "/f10/language/li.md" >}}) | 464 | 524 | 88.5 | /mnt/stockage/packages/f10/libbonobo/po/li.po | 
- | [yi]({{< ref "/f10/language/yi.md" >}}) | 460 | 524 | 87.8 | /mnt/stockage/packages/f10/libbonobo/po/yi.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 307 | 524 | 58.6 | /mnt/stockage/packages/f10/libbonobo/po/fa.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 163 | 524 | 31.1 | /mnt/stockage/packages/f10/libbonobo/po/wa.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 37 | 524 | 7.1 | /mnt/stockage/packages/f10/libbonobo/po/ga.po | 
- | [am]({{< ref "/f10/language/am.md" >}}) | 13 | 524 | 2.5 | /mnt/stockage/packages/f10/libbonobo/po/am.po | 
- | [oc]({{< ref "/f10/language/oc.md" >}}) | 8 | 543 | 1.5 | /mnt/stockage/packages/f10/libbonobo/po/oc.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 1 | 524 | 0.2 | /mnt/stockage/packages/f10/libbonobo/po/ku.po | 
- | [rw]({{< ref "/f10/language/rw.md" >}}) | 1 | 524 | 0.2 | /mnt/stockage/packages/f10/libbonobo/po/rw.po | 
+ | [ar](/f10/language/ar) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ar.po | 
+ | [as](/f10/language/as) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/as.po | 
+ | [bg](/f10/language/bg) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/bg.po | 
+ | [bn](/f10/language/bn) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/bn.po | 
+ | [bn_IN](/f10/language/bn_IN) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/bn_IN.po | 
+ | [ca](/f10/language/ca) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ca.po | 
+ | [cs](/f10/language/cs) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/cs.po | 
+ | [cy](/f10/language/cy) | 524 | 524 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/cy.po | 
+ | [da](/f10/language/da) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/da.po | 
+ | [de](/f10/language/de) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/de.po | 
+ | [dz](/f10/language/dz) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/dz.po | 
+ | [el](/f10/language/el) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/el.po | 
+ | [en_CA](/f10/language/en_CA) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/en_GB.po | 
+ | [es](/f10/language/es) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/es.po | 
+ | [eu](/f10/language/eu) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/eu.po | 
+ | [fi](/f10/language/fi) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/fi.po | 
+ | [fr](/f10/language/fr) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/fr.po | 
+ | [gl](/f10/language/gl) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/gl.po | 
+ | [gu](/f10/language/gu) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/gu.po | 
+ | [he](/f10/language/he) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/he.po | 
+ | [hi](/f10/language/hi) | 524 | 524 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/hi.po | 
+ | [hr](/f10/language/hr) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/hr.po | 
+ | [hu](/f10/language/hu) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/hu.po | 
+ | [it](/f10/language/it) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/it.po | 
+ | [ja](/f10/language/ja) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ja.po | 
+ | [ka](/f10/language/ka) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ka.po | 
+ | [ko](/f10/language/ko) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ko.po | 
+ | [lt](/f10/language/lt) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/lt.po | 
+ | [lv](/f10/language/lv) | 524 | 524 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/lv.po | 
+ | [mai](/f10/language/mai) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mai.po | 
+ | [mk](/f10/language/mk) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mk.po | 
+ | [ml](/f10/language/ml) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ml.po | 
+ | [mn](/f10/language/mn) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mn.po | 
+ | [mr](/f10/language/mr) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/mr.po | 
+ | [nb_NO](/f10/language/nb_NO) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/nb.po | 
+ | [ne](/f10/language/ne) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ne.po | 
+ | [nl](/f10/language/nl) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/nl.po | 
+ | [nn](/f10/language/nn) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/nn.po | 
+ | [or](/f10/language/or) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/or.po | 
+ | [pa](/f10/language/pa) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pa.po | 
+ | [pl](/f10/language/pl) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pl.po | 
+ | [pt](/f10/language/pt) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ro.po | 
+ | [ru](/f10/language/ru) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ru.po | 
+ | [sk](/f10/language/sk) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sk.po | 
+ | [sl](/f10/language/sl) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sl.po | 
+ | [sq](/f10/language/sq) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sq.po | 
+ | [sr](/f10/language/sr) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/sv.po | 
+ | [ta](/f10/language/ta) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/ta.po | 
+ | [te](/f10/language/te) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/te.po | 
+ | [th](/f10/language/th) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/th.po | 
+ | [tr](/f10/language/tr) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/tr.po | 
+ | [uk](/f10/language/uk) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/uk.po | 
+ | [vi](/f10/language/vi) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/vi.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 543 | 543 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/zh_TW.po | 
+ | [zh_Hant_HK](/f10/language/zh_Hant_HK) | 547 | 547 | 100.0 | /mnt/stockage/packages/f10/libbonobo/po/zh_HK.po | 
+ | [mg](/f10/language/mg) | 508 | 524 | 96.9 | /mnt/stockage/packages/f10/libbonobo/po/mg.po | 
+ | [be](/f10/language/be) | 500 | 524 | 95.4 | /mnt/stockage/packages/f10/libbonobo/po/be.po | 
+ | [id](/f10/language/id) | 494 | 524 | 94.3 | /mnt/stockage/packages/f10/libbonobo/po/id.po | 
+ | [az](/f10/language/az) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/az.po | 
+ | [bs](/f10/language/bs) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/bs.po | 
+ | [ms](/f10/language/ms) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/ms.po | 
+ | [xh](/f10/language/xh) | 485 | 524 | 92.6 | /mnt/stockage/packages/f10/libbonobo/po/xh.po | 
+ | [et](/f10/language/et) | 489 | 547 | 89.4 | /mnt/stockage/packages/f10/libbonobo/po/et.po | 
+ | [is](/f10/language/is) | 468 | 524 | 89.3 | /mnt/stockage/packages/f10/libbonobo/po/is.po | 
+ | [eo](/f10/language/eo) | 464 | 524 | 88.5 | /mnt/stockage/packages/f10/libbonobo/po/eo.po | 
+ | [li](/f10/language/li) | 464 | 524 | 88.5 | /mnt/stockage/packages/f10/libbonobo/po/li.po | 
+ | [yi](/f10/language/yi) | 460 | 524 | 87.8 | /mnt/stockage/packages/f10/libbonobo/po/yi.po | 
+ | [fa](/f10/language/fa) | 307 | 524 | 58.6 | /mnt/stockage/packages/f10/libbonobo/po/fa.po | 
+ | [wa](/f10/language/wa) | 163 | 524 | 31.1 | /mnt/stockage/packages/f10/libbonobo/po/wa.po | 
+ | [ga](/f10/language/ga) | 37 | 524 | 7.1 | /mnt/stockage/packages/f10/libbonobo/po/ga.po | 
+ | [am](/f10/language/am) | 13 | 524 | 2.5 | /mnt/stockage/packages/f10/libbonobo/po/am.po | 
+ | [oc](/f10/language/oc) | 8 | 543 | 1.5 | /mnt/stockage/packages/f10/libbonobo/po/oc.po | 
+ | [ku](/f10/language/ku) | 1 | 524 | 0.2 | /mnt/stockage/packages/f10/libbonobo/po/ku.po | 
+ | [rw](/f10/language/rw) | 1 | 524 | 0.2 | /mnt/stockage/packages/f10/libbonobo/po/rw.po | 
 {.sortable}
 
 

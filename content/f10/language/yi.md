@@ -41,28 +41,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgnomecanvas]({{< ref "/f10/package/libgnomecanvas.md" >}}) | 339 | 357 | 95.0 | Yiddish <raphael@cs.uky.edu> | 
- | [libbonobo]({{< ref "/f10/package/libbonobo.md" >}}) | 460 | 524 | 87.8 | Yiddish <raphael@cs.uky.edu> | 
- | [libbonoboui]({{< ref "/f10/package/libbonoboui.md" >}}) | 282 | 360 | 78.3 | Yiddish <raphael@cs.uky.edu> | 
- | [mingw32-gtk2]({{< ref "/f10/package/mingw32-gtk2.md" >}}) | 5262 | 12400 | 42.4 | None <> | 
- | [gtk2]({{< ref "/f10/package/gtk2.md" >}}) | 5326 | 12760 | 41.7 | None <> | 
- | [glib2]({{< ref "/f10/package/glib2.md" >}}) | 711 | 2197 | 32.4 | Yiddish <raphael@cs.uky.edu> | 
- | [mingw32-glib2]({{< ref "/f10/package/mingw32-glib2.md" >}}) | 711 | 2325 | 30.6 | Yiddish <raphael@cs.uky.edu> | 
- | [libgnome]({{< ref "/f10/package/libgnome.md" >}}) | 401 | 1407 | 28.5 | Yiddish <raphael@cs.uky.edu> | 
- | [gnome-vfs2]({{< ref "/f10/package/gnome-vfs2.md" >}}) | 209 | 1282 | 16.3 | Yiddish <raphael@cs.uky.edu> | 
- | [mingw32-atk]({{< ref "/f10/package/mingw32-atk.md" >}}) | 31 | 375 | 8.3 | Yiddish <raphael@cs.uky.edu> | 
- | [atk]({{< ref "/f10/package/atk.md" >}}) | 30 | 370 | 8.1 | Yiddish <raphael@cs.uky.edu> | 
- | [glade2]({{< ref "/f10/package/glade2.md" >}}) | 399 | 5840 | 6.8 | Yiddish <> | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 40 | 1419 | 2.8 | Yiddish <raphael@cs.uky.edu> | 
- | [gnome-panel]({{< ref "/f10/package/gnome-panel.md" >}}) | 77 | 3937 | 2.0 | Yiddish <raphael@cs.uky.edu> | 
- | [gimp]({{< ref "/f10/package/gimp.md" >}}) | 145 | 19780 | 0.7 | Yiddish <raphael@cs.uky.edu> | 
- | [gnome-desktop]({{< ref "/f10/package/gnome-desktop.md" >}}) | 2 | 320 | 0.6 | Yiddish <raphael@cs.uky.edu> | 
- | [nautilus]({{< ref "/f10/package/nautilus.md" >}}) | 31 | 6976 | 0.4 | Yiddish <raphael@cs.uky.edu> | 
- | [gnome-mime-data]({{< ref "/f10/package/gnome-mime-data.md" >}}) | 1 | 827 | 0.1 | Yiddish <raphael@cs.uky.edu> | 
- | [GConf2]({{< ref "/f10/package/GConf2.md" >}}) | 1 | 3954 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
- | [gnomebaker]({{< ref "/f10/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Yiddish <yi@li.org> | 
- | [gourmet]({{< ref "/f10/package/gourmet.md" >}}) | 0 | 3526 | 0.0 | Yiddish <yi@li.org> | 
- | [pmount]({{< ref "/f10/package/pmount.md" >}}) | 0 | 723 | 0.0 | Yiddish <yi@li.org> | 
+ | [libgnomecanvas](/f10/package/libgnomecanvas) | 339 | 357 | 95.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [libbonobo](/f10/package/libbonobo) | 460 | 524 | 87.8 | Yiddish <raphael@cs.uky.edu> | 
+ | [libbonoboui](/f10/package/libbonoboui) | 282 | 360 | 78.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [mingw32-gtk2](/f10/package/mingw32-gtk2) | 5262 | 12400 | 42.4 | None <> | 
+ | [gtk2](/f10/package/gtk2) | 5326 | 12760 | 41.7 | None <> | 
+ | [glib2](/f10/package/glib2) | 711 | 2197 | 32.4 | Yiddish <raphael@cs.uky.edu> | 
+ | [mingw32-glib2](/f10/package/mingw32-glib2) | 711 | 2325 | 30.6 | Yiddish <raphael@cs.uky.edu> | 
+ | [libgnome](/f10/package/libgnome) | 401 | 1407 | 28.5 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnome-vfs2](/f10/package/gnome-vfs2) | 209 | 1282 | 16.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [mingw32-atk](/f10/package/mingw32-atk) | 31 | 375 | 8.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [atk](/f10/package/atk) | 30 | 370 | 8.1 | Yiddish <raphael@cs.uky.edu> | 
+ | [glade2](/f10/package/glade2) | 399 | 5840 | 6.8 | Yiddish <> | 
+ | [libgnomeui](/f10/package/libgnomeui) | 40 | 1419 | 2.8 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnome-panel](/f10/package/gnome-panel) | 77 | 3937 | 2.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [gimp](/f10/package/gimp) | 145 | 19780 | 0.7 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnome-desktop](/f10/package/gnome-desktop) | 2 | 320 | 0.6 | Yiddish <raphael@cs.uky.edu> | 
+ | [nautilus](/f10/package/nautilus) | 31 | 6976 | 0.4 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnome-mime-data](/f10/package/gnome-mime-data) | 1 | 827 | 0.1 | Yiddish <raphael@cs.uky.edu> | 
+ | [GConf2](/f10/package/GConf2) | 1 | 3954 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnomebaker](/f10/package/gnomebaker) | 0 | 1186 | 0.0 | Yiddish <yi@li.org> | 
+ | [gourmet](/f10/package/gourmet) | 0 | 3526 | 0.0 | Yiddish <yi@li.org> | 
+ | [pmount](/f10/package/pmount) | 0 | 723 | 0.0 | Yiddish <yi@li.org> | 
 {.sortable}
 
 

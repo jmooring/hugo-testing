@@ -18,24 +18,24 @@ The package whaawmp (version 0.2.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 685 | 757 | 90.5 | /mnt/stockage/packages/f13/whaawmp/po/fr.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 660 | 757 | 87.2 | /mnt/stockage/packages/f13/whaawmp/po/cs.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 648 | 757 | 85.6 | /mnt/stockage/packages/f13/whaawmp/po/es.po | 
- | [he]({{< ref "/f13/language/he.md" >}}) | 648 | 757 | 85.6 | /mnt/stockage/packages/f13/whaawmp/po/he.po | 
- | [en_GB]({{< ref "/f13/language/en_GB.md" >}}) | 580 | 757 | 76.6 | /mnt/stockage/packages/f13/whaawmp/po/en_GB.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 544 | 757 | 71.9 | /mnt/stockage/packages/f13/whaawmp/po/zh_TW.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 523 | 757 | 69.1 | /mnt/stockage/packages/f13/whaawmp/po/de.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 509 | 757 | 67.2 | /mnt/stockage/packages/f13/whaawmp/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 375 | 757 | 49.5 | /mnt/stockage/packages/f13/whaawmp/po/ru.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 267 | 757 | 35.3 | /mnt/stockage/packages/f13/whaawmp/po/zh_CN.po | 
- | [en_US]({{< ref "/f13/language/en_US.md" >}}) | 132 | 757 | 17.4 | /mnt/stockage/packages/f13/whaawmp/po/en_US.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 45 | 757 | 5.9 | /mnt/stockage/packages/f13/whaawmp/po/da.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 33 | 757 | 4.4 | /mnt/stockage/packages/f13/whaawmp/po/tr.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 32 | 757 | 4.2 | /mnt/stockage/packages/f13/whaawmp/po/pt.po | 
- | [fa]({{< ref "/f13/language/fa.md" >}}) | 28 | 757 | 3.7 | /mnt/stockage/packages/f13/whaawmp/po/fa.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 12 | 757 | 1.6 | /mnt/stockage/packages/f13/whaawmp/po/ja.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 4 | 757 | 0.5 | /mnt/stockage/packages/f13/whaawmp/po/uk.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 0 | 757 | 0.0 | /mnt/stockage/packages/f13/whaawmp/po/pt_BR.po | 
+ | [fr](/f13/language/fr) | 685 | 757 | 90.5 | /mnt/stockage/packages/f13/whaawmp/po/fr.po | 
+ | [cs](/f13/language/cs) | 660 | 757 | 87.2 | /mnt/stockage/packages/f13/whaawmp/po/cs.po | 
+ | [es](/f13/language/es) | 648 | 757 | 85.6 | /mnt/stockage/packages/f13/whaawmp/po/es.po | 
+ | [he](/f13/language/he) | 648 | 757 | 85.6 | /mnt/stockage/packages/f13/whaawmp/po/he.po | 
+ | [en_GB](/f13/language/en_GB) | 580 | 757 | 76.6 | /mnt/stockage/packages/f13/whaawmp/po/en_GB.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 544 | 757 | 71.9 | /mnt/stockage/packages/f13/whaawmp/po/zh_TW.po | 
+ | [de](/f13/language/de) | 523 | 757 | 69.1 | /mnt/stockage/packages/f13/whaawmp/po/de.po | 
+ | [it](/f13/language/it) | 509 | 757 | 67.2 | /mnt/stockage/packages/f13/whaawmp/po/it.po | 
+ | [ru](/f13/language/ru) | 375 | 757 | 49.5 | /mnt/stockage/packages/f13/whaawmp/po/ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 267 | 757 | 35.3 | /mnt/stockage/packages/f13/whaawmp/po/zh_CN.po | 
+ | [en_US](/f13/language/en_US) | 132 | 757 | 17.4 | /mnt/stockage/packages/f13/whaawmp/po/en_US.po | 
+ | [da](/f13/language/da) | 45 | 757 | 5.9 | /mnt/stockage/packages/f13/whaawmp/po/da.po | 
+ | [tr](/f13/language/tr) | 33 | 757 | 4.4 | /mnt/stockage/packages/f13/whaawmp/po/tr.po | 
+ | [pt](/f13/language/pt) | 32 | 757 | 4.2 | /mnt/stockage/packages/f13/whaawmp/po/pt.po | 
+ | [fa](/f13/language/fa) | 28 | 757 | 3.7 | /mnt/stockage/packages/f13/whaawmp/po/fa.po | 
+ | [ja](/f13/language/ja) | 12 | 757 | 1.6 | /mnt/stockage/packages/f13/whaawmp/po/ja.po | 
+ | [uk](/f13/language/uk) | 4 | 757 | 0.5 | /mnt/stockage/packages/f13/whaawmp/po/uk.po | 
+ | [pt_BR](/f13/language/pt_BR) | 0 | 757 | 0.0 | /mnt/stockage/packages/f13/whaawmp/po/pt_BR.po | 
 {.sortable}
 
 

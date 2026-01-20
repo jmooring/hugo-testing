@@ -18,91 +18,91 @@ The package pantheon-greeter (version 3.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ak]({{< ref "/f25/language/ak.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ak.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/am.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/bg.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ca.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/cs.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/de.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/en_GB.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/es.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/et.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/fr.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/he.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/hr.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ja.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ko.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/lt.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ms.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/nb.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/nl.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/nn.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/pl.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sl.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sv.po | 
- | [tl]({{< ref "/f25/language/tl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/tl.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/tr.po | 
- | [ug]({{< ref "/f25/language/ug.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ug.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/uk.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/zh_TW.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 23 | 29 | 79.3 | /mnt/stockage/packages/f25/pantheon-greeter/po/sq.po | 
- | [en_AU]({{< ref "/f25/language/en_AU.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/en_AU.po | 
- | [en_CA]({{< ref "/f25/language/en_CA.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/en_CA.po | 
- | [fr_CA]({{< ref "/f25/language/fr_CA.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/fr_CA.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/hi.po | 
- | [ia]({{< ref "/f25/language/ia.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/ia.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/lv.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/mn.po | 
- | [my]({{< ref "/f25/language/my.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/my.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/th.po | 
- | [ur]({{< ref "/f25/language/ur.md" >}}) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/ur.po | 
- | [ku]({{< ref "/f25/language/ku.md" >}}) | 9 | 29 | 31.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ku.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 8 | 29 | 27.6 | /mnt/stockage/packages/f25/pantheon-greeter/po/be.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 8 | 29 | 27.6 | /mnt/stockage/packages/f25/pantheon-greeter/po/hu.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 8 | 29 | 27.6 | /mnt/stockage/packages/f25/pantheon-greeter/po/ka.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 7 | 29 | 24.1 | /mnt/stockage/packages/f25/pantheon-greeter/po/ga.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/bs.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/eo.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/fa.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/gl.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/ta.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 5 | 29 | 17.2 | /mnt/stockage/packages/f25/pantheon-greeter/po/sr@latin.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/af.po | 
- | [an]({{< ref "/f25/language/an.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/an.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/ar.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/ast.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/eu.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/gu.po | 
- | [hy]({{< ref "/f25/language/hy.md" >}}) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/hy.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/bn.po | 
- | [rue]({{< ref "/f25/language/rue.md" >}}) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/rue.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/vi.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/zh_HK.po | 
- | [ace]({{< ref "/f25/language/ace.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ace.po | 
- | [az]({{< ref "/f25/language/az.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/az.po | 
- | [ckb]({{< ref "/f25/language/ckb.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ckb.po | 
- | [fil]({{< ref "/f25/language/fil.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/fil.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ky.po | 
- | [lb]({{< ref "/f25/language/lb.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/lb.po | 
- | [lo]({{< ref "/f25/language/lo.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/lo.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ml.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/mr.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/si.po | 
- | [sma]({{< ref "/f25/language/sma.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sma.po | 
- | [sw]({{< ref "/f25/language/sw.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sw.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/te.po | 
+ | [ak](/f25/language/ak) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ak.po | 
+ | [am](/f25/language/am) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/am.po | 
+ | [bg](/f25/language/bg) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/bg.po | 
+ | [ca](/f25/language/ca) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ca.po | 
+ | [cs](/f25/language/cs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/cs.po | 
+ | [da](/f25/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/da.po | 
+ | [de](/f25/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/de.po | 
+ | [el](/f25/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/en_GB.po | 
+ | [es](/f25/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/es.po | 
+ | [et](/f25/language/et) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/et.po | 
+ | [fi](/f25/language/fi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/fi.po | 
+ | [fr](/f25/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/fr.po | 
+ | [he](/f25/language/he) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/he.po | 
+ | [hr](/f25/language/hr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/hr.po | 
+ | [id](/f25/language/id) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/id.po | 
+ | [it](/f25/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/it.po | 
+ | [ja](/f25/language/ja) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ja.po | 
+ | [ko](/f25/language/ko) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ko.po | 
+ | [lt](/f25/language/lt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/lt.po | 
+ | [ms](/f25/language/ms) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ms.po | 
+ | [nb_NO](/f25/language/nb_NO) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/nb.po | 
+ | [nl](/f25/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/nl.po | 
+ | [nn](/f25/language/nn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/nn.po | 
+ | [pl](/f25/language/pl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/pl.po | 
+ | [pt](/f25/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ro.po | 
+ | [ru](/f25/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ru.po | 
+ | [sk](/f25/language/sk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sk.po | 
+ | [sl](/f25/language/sl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sl.po | 
+ | [sr](/f25/language/sr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sr.po | 
+ | [sv](/f25/language/sv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sv.po | 
+ | [tl](/f25/language/tl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/tl.po | 
+ | [tr](/f25/language/tr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/tr.po | 
+ | [ug](/f25/language/ug) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ug.po | 
+ | [uk](/f25/language/uk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/uk.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 29 | 29 | 100.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/zh_TW.po | 
+ | [sq](/f25/language/sq) | 23 | 29 | 79.3 | /mnt/stockage/packages/f25/pantheon-greeter/po/sq.po | 
+ | [en_AU](/f25/language/en_AU) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/en_AU.po | 
+ | [en_CA](/f25/language/en_CA) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/en_CA.po | 
+ | [fr_CA](/f25/language/fr_CA) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/fr_CA.po | 
+ | [hi](/f25/language/hi) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/hi.po | 
+ | [ia](/f25/language/ia) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/ia.po | 
+ | [lv](/f25/language/lv) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/lv.po | 
+ | [mn](/f25/language/mn) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/mn.po | 
+ | [my](/f25/language/my) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/my.po | 
+ | [th](/f25/language/th) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/th.po | 
+ | [ur](/f25/language/ur) | 11 | 29 | 37.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/ur.po | 
+ | [ku](/f25/language/ku) | 9 | 29 | 31.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ku.po | 
+ | [be](/f25/language/be) | 8 | 29 | 27.6 | /mnt/stockage/packages/f25/pantheon-greeter/po/be.po | 
+ | [hu](/f25/language/hu) | 8 | 29 | 27.6 | /mnt/stockage/packages/f25/pantheon-greeter/po/hu.po | 
+ | [ka](/f25/language/ka) | 8 | 29 | 27.6 | /mnt/stockage/packages/f25/pantheon-greeter/po/ka.po | 
+ | [ga](/f25/language/ga) | 7 | 29 | 24.1 | /mnt/stockage/packages/f25/pantheon-greeter/po/ga.po | 
+ | [bs](/f25/language/bs) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/bs.po | 
+ | [eo](/f25/language/eo) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/eo.po | 
+ | [fa](/f25/language/fa) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/fa.po | 
+ | [gl](/f25/language/gl) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/gl.po | 
+ | [ta](/f25/language/ta) | 6 | 29 | 20.7 | /mnt/stockage/packages/f25/pantheon-greeter/po/ta.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 5 | 29 | 17.2 | /mnt/stockage/packages/f25/pantheon-greeter/po/sr@latin.po | 
+ | [af](/f25/language/af) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/af.po | 
+ | [an](/f25/language/an) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/an.po | 
+ | [ar](/f25/language/ar) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/ar.po | 
+ | [ast](/f25/language/ast) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/ast.po | 
+ | [eu](/f25/language/eu) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/eu.po | 
+ | [gu](/f25/language/gu) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/gu.po | 
+ | [hy](/f25/language/hy) | 4 | 29 | 13.8 | /mnt/stockage/packages/f25/pantheon-greeter/po/hy.po | 
+ | [bn](/f25/language/bn) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/bn.po | 
+ | [rue](/f25/language/rue) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/rue.po | 
+ | [vi](/f25/language/vi) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/vi.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 2 | 29 | 6.9 | /mnt/stockage/packages/f25/pantheon-greeter/po/zh_HK.po | 
+ | [ace](/f25/language/ace) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ace.po | 
+ | [az](/f25/language/az) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/az.po | 
+ | [ckb](/f25/language/ckb) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ckb.po | 
+ | [fil](/f25/language/fil) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/fil.po | 
+ | [ky](/f25/language/ky) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ky.po | 
+ | [lb](/f25/language/lb) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/lb.po | 
+ | [lo](/f25/language/lo) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/lo.po | 
+ | [ml](/f25/language/ml) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/ml.po | 
+ | [mr](/f25/language/mr) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/mr.po | 
+ | [si](/f25/language/si) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/si.po | 
+ | [sma](/f25/language/sma) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sma.po | 
+ | [sw](/f25/language/sw) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/sw.po | 
+ | [te](/f25/language/te) | 0 | 29 | 0.0 | /mnt/stockage/packages/f25/pantheon-greeter/po/te.po | 
 {.sortable}
 
 

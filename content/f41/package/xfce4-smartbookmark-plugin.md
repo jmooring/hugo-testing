@@ -18,58 +18,58 @@ The package xfce4-smartbookmark-plugin (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ar.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ast.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/bg.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ca.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/de.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/el.po | 
- | [en_AU]({{< ref "/f41/language/en_AU.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/en_AU.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/en_CA.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/eu.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hu.po | 
- | [hy]({{< ref "/f41/language/hy.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hye.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/lt.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/nb.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/nl.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/oc.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sv.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/tr.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ug.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/zh_TW.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/en_GB.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/lv.po | 
- | [ur]({{< ref "/f41/language/ur.md" >}}) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f41/language/ur_PK.md" >}}) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ur_PK.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 13 | 22 | 59.1 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ku.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 12 | 22 | 54.5 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/fi.po | 
+ | [ar](/f41/language/ar) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ar.po | 
+ | [ast](/f41/language/ast) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ast.po | 
+ | [be](/f41/language/be) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/be.po | 
+ | [bg](/f41/language/bg) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/bg.po | 
+ | [ca](/f41/language/ca) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ca.po | 
+ | [cs](/f41/language/cs) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/cs.po | 
+ | [da](/f41/language/da) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/da.po | 
+ | [de](/f41/language/de) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/de.po | 
+ | [el](/f41/language/el) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/el.po | 
+ | [en_AU](/f41/language/en_AU) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/en_AU.po | 
+ | [en_CA](/f41/language/en_CA) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/en_CA.po | 
+ | [es](/f41/language/es) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/es.po | 
+ | [et](/f41/language/et) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/et.po | 
+ | [eu](/f41/language/eu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/eu.po | 
+ | [fr](/f41/language/fr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/fr.po | 
+ | [gl](/f41/language/gl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/gl.po | 
+ | [he](/f41/language/he) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/he.po | 
+ | [hi](/f41/language/hi) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hi.po | 
+ | [hr](/f41/language/hr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hr.po | 
+ | [hu](/f41/language/hu) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hu.po | 
+ | [hy](/f41/language/hy) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/hye.po | 
+ | [id](/f41/language/id) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/id.po | 
+ | [is](/f41/language/is) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/is.po | 
+ | [it](/f41/language/it) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/it.po | 
+ | [ja](/f41/language/ja) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ja.po | 
+ | [ko](/f41/language/ko) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ko.po | 
+ | [lt](/f41/language/lt) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/lt.po | 
+ | [ms](/f41/language/ms) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/nb.po | 
+ | [nl](/f41/language/nl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/nl.po | 
+ | [oc](/f41/language/oc) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/oc.po | 
+ | [pl](/f41/language/pl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/pl.po | 
+ | [pt](/f41/language/pt) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ru.po | 
+ | [sk](/f41/language/sk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sk.po | 
+ | [sl](/f41/language/sl) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sl.po | 
+ | [sq](/f41/language/sq) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sq.po | 
+ | [sr](/f41/language/sr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sr.po | 
+ | [sv](/f41/language/sv) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/sv.po | 
+ | [th](/f41/language/th) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/th.po | 
+ | [tr](/f41/language/tr) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/tr.po | 
+ | [ug](/f41/language/ug) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ug.po | 
+ | [uk](/f41/language/uk) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/uk.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 22 | 22 | 100.0 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/zh_TW.po | 
+ | [en_GB](/f41/language/en_GB) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/en_GB.po | 
+ | [lv](/f41/language/lv) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/lv.po | 
+ | [ur](/f41/language/ur) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ur.po | 
+ | [ur_PK](/f41/language/ur_PK) | 14 | 22 | 63.6 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ur_PK.po | 
+ | [ku](/f41/language/ku) | 13 | 22 | 59.1 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/ku.po | 
+ | [fi](/f41/language/fi) | 12 | 22 | 54.5 | /mnt/stockage/packages/f41/xfce4-smartbookmark-plugin/po/fi.po | 
 {.sortable}
 
 

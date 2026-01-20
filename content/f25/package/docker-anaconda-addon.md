@@ -18,100 +18,100 @@ The package docker-anaconda-addon (version 0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ca.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/es.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pl.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/uk.po | 
- | [af]({{< ref "/f25/language/af.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/af.po | 
- | [am]({{< ref "/f25/language/am.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/am.po | 
- | [anp]({{< ref "/f25/language/anp.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/anp.po | 
- | [ar]({{< ref "/f25/language/ar.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ar.po | 
- | [as]({{< ref "/f25/language/as.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/as.po | 
- | [ast]({{< ref "/f25/language/ast.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ast.po | 
- | [bal]({{< ref "/f25/language/bal.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bal.po | 
- | [be]({{< ref "/f25/language/be.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/be.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bg.po | 
- | [bn]({{< ref "/f25/language/bn.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bn.po | 
- | [bn_IN]({{< ref "/f25/language/bn_IN.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bn_IN.po | 
- | [bo]({{< ref "/f25/language/bo.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bo.po | 
- | [br]({{< ref "/f25/language/br.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/br.po | 
- | [brx]({{< ref "/f25/language/brx.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/brx.po | 
- | [bs]({{< ref "/f25/language/bs.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bs.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/cs.po | 
- | [cy]({{< ref "/f25/language/cy.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/cy.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/de.po | 
- | [de_CH]({{< ref "/f25/language/de_CH.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/de_CH.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/el.po | 
- | [en_GB]({{< ref "/f25/language/en_GB.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/en_GB.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/eo.po | 
- | [error]({{< ref "/f25/language/error.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kw@uccor.po/mnt/stockage/packages/f25/docker-anaconda-addon/po/wba.po/mnt/stockage/packages/f25/docker-anaconda-addon/po/kw@kkcor.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/et.po | 
- | [eu]({{< ref "/f25/language/eu.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/eu.po | 
- | [fa]({{< ref "/f25/language/fa.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/fa.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/fi.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/fr.po | 
- | [ga]({{< ref "/f25/language/ga.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ga.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/gl.po | 
- | [gu]({{< ref "/f25/language/gu.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/gu.po | 
- | [he]({{< ref "/f25/language/he.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/he.po | 
- | [hi]({{< ref "/f25/language/hi.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/hi.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/hu.po | 
- | [ia]({{< ref "/f25/language/ia.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ia.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/id.po | 
- | [ilo]({{< ref "/f25/language/ilo.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ilo.po | 
- | [is]({{< ref "/f25/language/is.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/is.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/it.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ja.po | 
- | [ka]({{< ref "/f25/language/ka.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ka.po | 
- | [kk]({{< ref "/f25/language/kk.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kk.po | 
- | [km]({{< ref "/f25/language/km.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/km.po | 
- | [kn]({{< ref "/f25/language/kn.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kn.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ko.po | 
- | [kw]({{< ref "/f25/language/kw.md" >}}) | 0 | 54 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kw.po/mnt/stockage/packages/f25/docker-anaconda-addon/po/kw_GB.po | 
- | [ky]({{< ref "/f25/language/ky.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ky.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/lt.po | 
- | [lv]({{< ref "/f25/language/lv.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/lv.po | 
- | [mai]({{< ref "/f25/language/mai.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mai.po | 
- | [mk]({{< ref "/f25/language/mk.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mk.po | 
- | [ml]({{< ref "/f25/language/ml.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ml.po | 
- | [mn]({{< ref "/f25/language/mn.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mn.po | 
- | [mr]({{< ref "/f25/language/mr.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mr.po | 
- | [ms]({{< ref "/f25/language/ms.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ms.po | 
- | [my]({{< ref "/f25/language/my.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/my.po | 
- | [nb_NO]({{< ref "/f25/language/nb_NO.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nb.po | 
- | [nds]({{< ref "/f25/language/nds.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nds.po | 
- | [ne]({{< ref "/f25/language/ne.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ne.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nl.po | 
- | [nn]({{< ref "/f25/language/nn.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nn.po | 
- | [nso]({{< ref "/f25/language/nso.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nso.po | 
- | [or]({{< ref "/f25/language/or.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/or.po | 
- | [pa]({{< ref "/f25/language/pa.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pa.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pt.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pt_BR.po | 
- | [ro]({{< ref "/f25/language/ro.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ro.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ru.po | 
- | [si]({{< ref "/f25/language/si.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/si.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sk.po | 
- | [sl]({{< ref "/f25/language/sl.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sl.po | 
- | [sq]({{< ref "/f25/language/sq.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sq.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sr.po | 
- | [sr_Latn]({{< ref "/f25/language/sr_Latn.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sr@latin.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sv.po | 
- | [ta]({{< ref "/f25/language/ta.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ta.po | 
- | [te]({{< ref "/f25/language/te.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/te.po | 
- | [tg]({{< ref "/f25/language/tg.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/tg.po | 
- | [th]({{< ref "/f25/language/th.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/th.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/tr.po | 
- | [tw]({{< ref "/f25/language/tw.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/tw.po | 
- | [ur]({{< ref "/f25/language/ur.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ur.po | 
- | [vi]({{< ref "/f25/language/vi.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/vi.po | 
- | [yo]({{< ref "/f25/language/yo.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/yo.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f25/language/zh_Hant_HK.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zh_HK.po | 
- | [zu]({{< ref "/f25/language/zu.md" >}}) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zu.po | 
+ | [ca](/f25/language/ca) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ca.po | 
+ | [es](/f25/language/es) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/es.po | 
+ | [pl](/f25/language/pl) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pl.po | 
+ | [uk](/f25/language/uk) | 27 | 27 | 100.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/uk.po | 
+ | [af](/f25/language/af) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/af.po | 
+ | [am](/f25/language/am) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/am.po | 
+ | [anp](/f25/language/anp) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/anp.po | 
+ | [ar](/f25/language/ar) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ar.po | 
+ | [as](/f25/language/as) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/as.po | 
+ | [ast](/f25/language/ast) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ast.po | 
+ | [bal](/f25/language/bal) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bal.po | 
+ | [be](/f25/language/be) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/be.po | 
+ | [bg](/f25/language/bg) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bg.po | 
+ | [bn](/f25/language/bn) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bn.po | 
+ | [bn_IN](/f25/language/bn_IN) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bn_IN.po | 
+ | [bo](/f25/language/bo) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bo.po | 
+ | [br](/f25/language/br) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/br.po | 
+ | [brx](/f25/language/brx) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/brx.po | 
+ | [bs](/f25/language/bs) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/bs.po | 
+ | [cs](/f25/language/cs) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/cs.po | 
+ | [cy](/f25/language/cy) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/cy.po | 
+ | [da](/f25/language/da) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/da.po | 
+ | [de](/f25/language/de) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/de.po | 
+ | [de_CH](/f25/language/de_CH) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/de_CH.po | 
+ | [el](/f25/language/el) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/el.po | 
+ | [en_GB](/f25/language/en_GB) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/en_GB.po | 
+ | [eo](/f25/language/eo) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/eo.po | 
+ | [error](/f25/language/error) | 0 | 81 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kw@uccor.po/mnt/stockage/packages/f25/docker-anaconda-addon/po/wba.po/mnt/stockage/packages/f25/docker-anaconda-addon/po/kw@kkcor.po | 
+ | [et](/f25/language/et) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/et.po | 
+ | [eu](/f25/language/eu) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/eu.po | 
+ | [fa](/f25/language/fa) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/fa.po | 
+ | [fi](/f25/language/fi) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/fi.po | 
+ | [fr](/f25/language/fr) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/fr.po | 
+ | [ga](/f25/language/ga) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ga.po | 
+ | [gl](/f25/language/gl) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/gl.po | 
+ | [gu](/f25/language/gu) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/gu.po | 
+ | [he](/f25/language/he) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/he.po | 
+ | [hi](/f25/language/hi) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/hi.po | 
+ | [hr](/f25/language/hr) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/hr.po | 
+ | [hu](/f25/language/hu) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/hu.po | 
+ | [ia](/f25/language/ia) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ia.po | 
+ | [id](/f25/language/id) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/id.po | 
+ | [ilo](/f25/language/ilo) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ilo.po | 
+ | [is](/f25/language/is) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/is.po | 
+ | [it](/f25/language/it) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/it.po | 
+ | [ja](/f25/language/ja) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ja.po | 
+ | [ka](/f25/language/ka) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ka.po | 
+ | [kk](/f25/language/kk) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kk.po | 
+ | [km](/f25/language/km) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/km.po | 
+ | [kn](/f25/language/kn) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kn.po | 
+ | [ko](/f25/language/ko) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ko.po | 
+ | [kw](/f25/language/kw) | 0 | 54 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/kw.po/mnt/stockage/packages/f25/docker-anaconda-addon/po/kw_GB.po | 
+ | [ky](/f25/language/ky) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ky.po | 
+ | [lt](/f25/language/lt) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/lt.po | 
+ | [lv](/f25/language/lv) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/lv.po | 
+ | [mai](/f25/language/mai) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mai.po | 
+ | [mk](/f25/language/mk) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mk.po | 
+ | [ml](/f25/language/ml) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ml.po | 
+ | [mn](/f25/language/mn) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mn.po | 
+ | [mr](/f25/language/mr) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/mr.po | 
+ | [ms](/f25/language/ms) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ms.po | 
+ | [my](/f25/language/my) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/my.po | 
+ | [nb_NO](/f25/language/nb_NO) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nb.po | 
+ | [nds](/f25/language/nds) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nds.po | 
+ | [ne](/f25/language/ne) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ne.po | 
+ | [nl](/f25/language/nl) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nl.po | 
+ | [nn](/f25/language/nn) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nn.po | 
+ | [nso](/f25/language/nso) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/nso.po | 
+ | [or](/f25/language/or) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/or.po | 
+ | [pa](/f25/language/pa) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pa.po | 
+ | [pt](/f25/language/pt) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pt.po | 
+ | [pt_BR](/f25/language/pt_BR) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/pt_BR.po | 
+ | [ro](/f25/language/ro) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ro.po | 
+ | [ru](/f25/language/ru) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ru.po | 
+ | [si](/f25/language/si) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/si.po | 
+ | [sk](/f25/language/sk) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sk.po | 
+ | [sl](/f25/language/sl) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sl.po | 
+ | [sq](/f25/language/sq) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sq.po | 
+ | [sr](/f25/language/sr) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sr.po | 
+ | [sr_Latn](/f25/language/sr_Latn) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sr@latin.po | 
+ | [sv](/f25/language/sv) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/sv.po | 
+ | [ta](/f25/language/ta) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ta.po | 
+ | [te](/f25/language/te) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/te.po | 
+ | [tg](/f25/language/tg) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/tg.po | 
+ | [th](/f25/language/th) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/th.po | 
+ | [tr](/f25/language/tr) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/tr.po | 
+ | [tw](/f25/language/tw) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/tw.po | 
+ | [ur](/f25/language/ur) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/ur.po | 
+ | [vi](/f25/language/vi) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/vi.po | 
+ | [yo](/f25/language/yo) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/yo.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f25/language/zh_Hant_HK) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zh_HK.po | 
+ | [zu](/f25/language/zu) | 0 | 27 | 0.0 | /mnt/stockage/packages/f25/docker-anaconda-addon/po/zu.po | 
 {.sortable}
 
 

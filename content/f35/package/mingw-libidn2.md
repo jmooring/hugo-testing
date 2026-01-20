@@ -18,31 +18,31 @@ The package mingw-libidn2 (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/de.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/eo.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/fr.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ko.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/pl.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/sv.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/zh_CN.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 315 | 322 | 97.8 | /mnt/stockage/packages/f35/mingw-libidn2/po/id.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 315 | 322 | 97.8 | /mnt/stockage/packages/f35/mingw-libidn2/po/ka.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 315 | 322 | 97.8 | /mnt/stockage/packages/f35/mingw-libidn2/po/pt_BR.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 250 | 322 | 77.6 | /mnt/stockage/packages/f35/mingw-libidn2/po/da.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 250 | 322 | 77.6 | /mnt/stockage/packages/f35/mingw-libidn2/po/hu.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 226 | 322 | 70.2 | /mnt/stockage/packages/f35/mingw-libidn2/po/fur.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/fi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/hr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/it.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/vi.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 16 | 322 | 5.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ja.po | 
+ | [cs](/f35/language/cs) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/cs.po | 
+ | [de](/f35/language/de) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/de.po | 
+ | [eo](/f35/language/eo) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/eo.po | 
+ | [es](/f35/language/es) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/es.po | 
+ | [fr](/f35/language/fr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/fr.po | 
+ | [ko](/f35/language/ko) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ko.po | 
+ | [nl](/f35/language/nl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/nl.po | 
+ | [pl](/f35/language/pl) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/pl.po | 
+ | [ro](/f35/language/ro) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ro.po | 
+ | [ru](/f35/language/ru) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ru.po | 
+ | [sr](/f35/language/sr) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/sr.po | 
+ | [sv](/f35/language/sv) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/sv.po | 
+ | [uk](/f35/language/uk) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 322 | 322 | 100.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/zh_CN.po | 
+ | [id](/f35/language/id) | 315 | 322 | 97.8 | /mnt/stockage/packages/f35/mingw-libidn2/po/id.po | 
+ | [ka](/f35/language/ka) | 315 | 322 | 97.8 | /mnt/stockage/packages/f35/mingw-libidn2/po/ka.po | 
+ | [pt_BR](/f35/language/pt_BR) | 315 | 322 | 97.8 | /mnt/stockage/packages/f35/mingw-libidn2/po/pt_BR.po | 
+ | [da](/f35/language/da) | 250 | 322 | 77.6 | /mnt/stockage/packages/f35/mingw-libidn2/po/da.po | 
+ | [hu](/f35/language/hu) | 250 | 322 | 77.6 | /mnt/stockage/packages/f35/mingw-libidn2/po/hu.po | 
+ | [fur](/f35/language/fur) | 226 | 322 | 70.2 | /mnt/stockage/packages/f35/mingw-libidn2/po/fur.po | 
+ | [fi](/f35/language/fi) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/fi.po | 
+ | [hr](/f35/language/hr) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/hr.po | 
+ | [it](/f35/language/it) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/it.po | 
+ | [vi](/f35/language/vi) | 28 | 322 | 8.7 | /mnt/stockage/packages/f35/mingw-libidn2/po/vi.po | 
+ | [ja](/f35/language/ja) | 16 | 322 | 5.0 | /mnt/stockage/packages/f35/mingw-libidn2/po/ja.po | 
 {.sortable}
 
 

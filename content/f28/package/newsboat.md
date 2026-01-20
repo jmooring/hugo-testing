@@ -18,24 +18,24 @@ The package newsboat (version 2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f28/language/it.md" >}}) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f28/newsboat/po/it.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f28/newsboat/po/ru.po | 
- | [uk]({{< ref "/f28/language/uk.md" >}}) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f28/newsboat/po/uk.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 1358 | 1420 | 95.6 | /mnt/stockage/packages/f28/newsboat/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1358 | 1420 | 95.6 | /mnt/stockage/packages/f28/newsboat/po/fr.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 1358 | 1420 | 95.6 | /mnt/stockage/packages/f28/newsboat/po/pt_BR.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 1327 | 1420 | 93.5 | /mnt/stockage/packages/f28/newsboat/po/sk.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 2463 | 2840 | 86.7 | /mnt/stockage/packages/f28/newsboat/po/es_ES.po/mnt/stockage/packages/f28/newsboat/po/es.po | 
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 1196 | 1420 | 84.2 | /mnt/stockage/packages/f28/newsboat/po/nl.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 1136 | 1420 | 80.0 | /mnt/stockage/packages/f28/newsboat/po/nb.po | 
- | [ca]({{< ref "/f28/language/ca.md" >}}) | 1128 | 1420 | 79.4 | /mnt/stockage/packages/f28/newsboat/po/ca.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1124 | 1420 | 79.2 | /mnt/stockage/packages/f28/newsboat/po/pl.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 1095 | 1420 | 77.1 | /mnt/stockage/packages/f28/newsboat/po/hu.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1095 | 1420 | 77.1 | /mnt/stockage/packages/f28/newsboat/po/zh_TW.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1054 | 1420 | 74.2 | /mnt/stockage/packages/f28/newsboat/po/sv.po | 
- | [tr]({{< ref "/f28/language/tr.md" >}}) | 937 | 1420 | 66.0 | /mnt/stockage/packages/f28/newsboat/po/tr.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 805 | 1420 | 56.7 | /mnt/stockage/packages/f28/newsboat/po/zh.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 240 | 1420 | 16.9 | /mnt/stockage/packages/f28/newsboat/po/ja.po | 
+ | [it](/f28/language/it) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f28/newsboat/po/it.po | 
+ | [ru](/f28/language/ru) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f28/newsboat/po/ru.po | 
+ | [uk](/f28/language/uk) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f28/newsboat/po/uk.po | 
+ | [de](/f28/language/de) | 1358 | 1420 | 95.6 | /mnt/stockage/packages/f28/newsboat/po/de.po | 
+ | [fr](/f28/language/fr) | 1358 | 1420 | 95.6 | /mnt/stockage/packages/f28/newsboat/po/fr.po | 
+ | [pt_BR](/f28/language/pt_BR) | 1358 | 1420 | 95.6 | /mnt/stockage/packages/f28/newsboat/po/pt_BR.po | 
+ | [sk](/f28/language/sk) | 1327 | 1420 | 93.5 | /mnt/stockage/packages/f28/newsboat/po/sk.po | 
+ | [es](/f28/language/es) | 2463 | 2840 | 86.7 | /mnt/stockage/packages/f28/newsboat/po/es_ES.po/mnt/stockage/packages/f28/newsboat/po/es.po | 
+ | [nl](/f28/language/nl) | 1196 | 1420 | 84.2 | /mnt/stockage/packages/f28/newsboat/po/nl.po | 
+ | [nb_NO](/f28/language/nb_NO) | 1136 | 1420 | 80.0 | /mnt/stockage/packages/f28/newsboat/po/nb.po | 
+ | [ca](/f28/language/ca) | 1128 | 1420 | 79.4 | /mnt/stockage/packages/f28/newsboat/po/ca.po | 
+ | [pl](/f28/language/pl) | 1124 | 1420 | 79.2 | /mnt/stockage/packages/f28/newsboat/po/pl.po | 
+ | [hu](/f28/language/hu) | 1095 | 1420 | 77.1 | /mnt/stockage/packages/f28/newsboat/po/hu.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1095 | 1420 | 77.1 | /mnt/stockage/packages/f28/newsboat/po/zh_TW.po | 
+ | [sv](/f28/language/sv) | 1054 | 1420 | 74.2 | /mnt/stockage/packages/f28/newsboat/po/sv.po | 
+ | [tr](/f28/language/tr) | 937 | 1420 | 66.0 | /mnt/stockage/packages/f28/newsboat/po/tr.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 805 | 1420 | 56.7 | /mnt/stockage/packages/f28/newsboat/po/zh.po | 
+ | [ja](/f28/language/ja) | 240 | 1420 | 16.9 | /mnt/stockage/packages/f28/newsboat/po/ja.po | 
 {.sortable}
 
 

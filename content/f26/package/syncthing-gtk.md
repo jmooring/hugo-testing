@@ -18,21 +18,21 @@ The package syncthing-gtk (version 0.9.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/cs/LC_MESSAGES/syncthing-gtk.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/de/LC_MESSAGES/syncthing-gtk.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/hu/LC_MESSAGES/syncthing-gtk.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/lt/LC_MESSAGES/syncthing-gtk.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/pl/LC_MESSAGES/syncthing-gtk.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/sk/LC_MESSAGES/syncthing-gtk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/zh/LC_MESSAGES/syncthing-gtk.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 1745 | 1800 | 96.9 | /mnt/stockage/packages/f26/syncthing-gtk/locale/es/LC_MESSAGES/syncthing-gtk.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 1745 | 1800 | 96.9 | /mnt/stockage/packages/f26/syncthing-gtk/locale/pt/LC_MESSAGES/syncthing-gtk.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 1745 | 1800 | 96.9 | /mnt/stockage/packages/f26/syncthing-gtk/locale/ru/LC_MESSAGES/syncthing-gtk.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1748 | 1807 | 96.7 | /mnt/stockage/packages/f26/syncthing-gtk/locale/fr/LC_MESSAGES/syncthing-gtk.po | 
- | [vi]({{< ref "/f26/language/vi.md" >}}) | 1571 | 1800 | 87.3 | /mnt/stockage/packages/f26/syncthing-gtk/locale/vi/LC_MESSAGES/syncthing-gtk.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1092 | 1800 | 60.7 | /mnt/stockage/packages/f26/syncthing-gtk/locale/nl/LC_MESSAGES/syncthing-gtk.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 96 | 1800 | 5.3 | /mnt/stockage/packages/f26/syncthing-gtk/locale/it/LC_MESSAGES/syncthing-gtk.po | 
- | [en]({{< ref "/f26/language/en.md" >}}) | 0 | 1800 | 0.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/en/LC_MESSAGES/syncthing-gtk.po | 
+ | [cs](/f26/language/cs) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/cs/LC_MESSAGES/syncthing-gtk.po | 
+ | [de](/f26/language/de) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/de/LC_MESSAGES/syncthing-gtk.po | 
+ | [hu](/f26/language/hu) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/hu/LC_MESSAGES/syncthing-gtk.po | 
+ | [lt](/f26/language/lt) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/lt/LC_MESSAGES/syncthing-gtk.po | 
+ | [pl](/f26/language/pl) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/pl/LC_MESSAGES/syncthing-gtk.po | 
+ | [sk](/f26/language/sk) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/sk/LC_MESSAGES/syncthing-gtk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1800 | 1800 | 100.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/zh/LC_MESSAGES/syncthing-gtk.po | 
+ | [es](/f26/language/es) | 1745 | 1800 | 96.9 | /mnt/stockage/packages/f26/syncthing-gtk/locale/es/LC_MESSAGES/syncthing-gtk.po | 
+ | [pt_BR](/f26/language/pt_BR) | 1745 | 1800 | 96.9 | /mnt/stockage/packages/f26/syncthing-gtk/locale/pt/LC_MESSAGES/syncthing-gtk.po | 
+ | [ru](/f26/language/ru) | 1745 | 1800 | 96.9 | /mnt/stockage/packages/f26/syncthing-gtk/locale/ru/LC_MESSAGES/syncthing-gtk.po | 
+ | [fr](/f26/language/fr) | 1748 | 1807 | 96.7 | /mnt/stockage/packages/f26/syncthing-gtk/locale/fr/LC_MESSAGES/syncthing-gtk.po | 
+ | [vi](/f26/language/vi) | 1571 | 1800 | 87.3 | /mnt/stockage/packages/f26/syncthing-gtk/locale/vi/LC_MESSAGES/syncthing-gtk.po | 
+ | [nl](/f26/language/nl) | 1092 | 1800 | 60.7 | /mnt/stockage/packages/f26/syncthing-gtk/locale/nl/LC_MESSAGES/syncthing-gtk.po | 
+ | [it](/f26/language/it) | 96 | 1800 | 5.3 | /mnt/stockage/packages/f26/syncthing-gtk/locale/it/LC_MESSAGES/syncthing-gtk.po | 
+ | [en](/f26/language/en) | 0 | 1800 | 0.0 | /mnt/stockage/packages/f26/syncthing-gtk/locale/en/LC_MESSAGES/syncthing-gtk.po | 
 {.sortable}
 
 

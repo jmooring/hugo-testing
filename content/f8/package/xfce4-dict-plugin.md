@@ -18,12 +18,12 @@ The package xfce4-dict-plugin (version 0.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 135 | 154 | 87.7 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/hu.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 99 | 154 | 64.3 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/ca.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 99 | 154 | 64.3 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/pt_BR.po | 
+ | [cs](/f8/language/cs) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/cs.po | 
+ | [de](/f8/language/de) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/de.po | 
+ | [fr](/f8/language/fr) | 154 | 154 | 100.0 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/fr.po | 
+ | [hu](/f8/language/hu) | 135 | 154 | 87.7 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/hu.po | 
+ | [ca](/f8/language/ca) | 99 | 154 | 64.3 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/ca.po | 
+ | [pt_BR](/f8/language/pt_BR) | 99 | 154 | 64.3 | /mnt/stockage/packages/f8/xfce4-dict-plugin/po/pt_BR.po | 
 {.sortable}
 
 

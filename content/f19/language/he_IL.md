@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f19/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [mingw-boost]({{< ref "/f19/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [konversation]({{< ref "/f19/package/konversation.md" >}}) | 6202 | 10922 | 56.8 | Hebrew <kde-i18n-doc@kde.org> | 
- | [squirrelmail]({{< ref "/f19/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [horde]({{< ref "/f19/package/horde.md" >}}) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
- | [imp]({{< ref "/f19/package/imp.md" >}}) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
- | [clementine]({{< ref "/f19/package/clementine.md" >}}) | 0 | 4861 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/) | 
- | [publican-fedora]({{< ref "/f19/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [boost](/f19/package/boost) | 1 | 1 | 100.0 |  | 
+ | [mingw-boost](/f19/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [konversation](/f19/package/konversation) | 6202 | 10922 | 56.8 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [squirrelmail](/f19/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [horde](/f19/package/horde) | 209 | 7103 | 2.9 | i18n@lists.horde.org | 
+ | [imp](/f19/package/imp) | 73 | 5647 | 1.3 | i18n@lists.horde.org | 
+ | [clementine](/f19/package/clementine) | 0 | 4861 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/) | 
+ | [publican-fedora](/f19/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

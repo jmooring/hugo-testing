@@ -18,13 +18,13 @@ The package klear (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f7/language/it.md" >}}) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/klear/po/it.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1317 | 1339 | 98.4 | /mnt/stockage/packages/f7/klear/po/es.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 1178 | 1339 | 88.0 | /mnt/stockage/packages/f7/klear/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1153 | 1339 | 86.1 | /mnt/stockage/packages/f7/klear/po/de.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 1137 | 1339 | 84.9 | /mnt/stockage/packages/f7/klear/po/it_old.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1112 | 1339 | 83.0 | /mnt/stockage/packages/f7/klear/po/fr.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1008 | 1339 | 75.3 | /mnt/stockage/packages/f7/klear/po/ru.po | 
+ | [it](/f7/language/it) | 1306 | 1306 | 100.0 | /mnt/stockage/packages/f7/klear/po/it.po | 
+ | [es](/f7/language/es) | 1317 | 1339 | 98.4 | /mnt/stockage/packages/f7/klear/po/es.po | 
+ | [ca](/f7/language/ca) | 1178 | 1339 | 88.0 | /mnt/stockage/packages/f7/klear/po/ca.po | 
+ | [de](/f7/language/de) | 1153 | 1339 | 86.1 | /mnt/stockage/packages/f7/klear/po/de.po | 
+ | [error](/f7/language/error) | 1137 | 1339 | 84.9 | /mnt/stockage/packages/f7/klear/po/it_old.po | 
+ | [fr](/f7/language/fr) | 1112 | 1339 | 83.0 | /mnt/stockage/packages/f7/klear/po/fr.po | 
+ | [ru](/f7/language/ru) | 1008 | 1339 | 75.3 | /mnt/stockage/packages/f7/klear/po/ru.po | 
 {.sortable}
 
 

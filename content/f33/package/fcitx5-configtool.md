@@ -18,17 +18,17 @@ The package fcitx5-configtool (version 5.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 736 | 736 | 100.0 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ja.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ja.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 735 | 736 | 99.9 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/zh_CN.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/zh_CN.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 645 | 736 | 87.6 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/da.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/da.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 634 | 736 | 86.1 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/zh_TW.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/zh_TW.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 632 | 736 | 85.9 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ko.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ko.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 255 | 736 | 34.6 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/de.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/de.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 148 | 736 | 20.1 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ru.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ru.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 147 | 736 | 20.0 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ca.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ca.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 89 | 736 | 12.1 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/tr.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/tr.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 57 | 736 | 7.7 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/he.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/he.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 14 | 736 | 1.9 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/vi.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/vi.po | 
+ | [ja](/f33/language/ja) | 736 | 736 | 100.0 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ja.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ja.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 735 | 736 | 99.9 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/zh_CN.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/zh_CN.po | 
+ | [da](/f33/language/da) | 645 | 736 | 87.6 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/da.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/da.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 634 | 736 | 86.1 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/zh_TW.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/zh_TW.po | 
+ | [ko](/f33/language/ko) | 632 | 736 | 85.9 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ko.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ko.po | 
+ | [de](/f33/language/de) | 255 | 736 | 34.6 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/de.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/de.po | 
+ | [ru](/f33/language/ru) | 148 | 736 | 20.1 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ru.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ru.po | 
+ | [ca](/f33/language/ca) | 147 | 736 | 20.0 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/ca.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/ca.po | 
+ | [tr](/f33/language/tr) | 89 | 736 | 12.1 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/tr.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/tr.po | 
+ | [he](/f33/language/he) | 57 | 736 | 7.7 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/he.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/he.po | 
+ | [vi](/f33/language/vi) | 14 | 736 | 1.9 | /mnt/stockage/packages/f33/fcitx5-configtool/po/fcitx5-configtool/vi.po/mnt/stockage/packages/f33/fcitx5-configtool/po/org.fcitx.fcitx5.kcm/vi.po | 
 {.sortable}
 
 

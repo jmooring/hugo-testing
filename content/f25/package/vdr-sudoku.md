@@ -18,11 +18,11 @@ The package vdr-sudoku (version 0.3.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/de_DE.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/es_ES.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/fi_FI.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/fr_FR.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/it_IT.po | 
+ | [de](/f25/language/de) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/de_DE.po | 
+ | [es](/f25/language/es) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/es_ES.po | 
+ | [fi](/f25/language/fi) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/fi_FI.po | 
+ | [fr](/f25/language/fr) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/fr_FR.po | 
+ | [it](/f25/language/it) | 105 | 105 | 100.0 | /mnt/stockage/packages/f25/vdr-sudoku/po/it_IT.po | 
 {.sortable}
 
 

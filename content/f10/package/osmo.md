@@ -18,20 +18,20 @@ The package osmo (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/es.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/ja.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/pl.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 1310 | 1405 | 93.2 | /mnt/stockage/packages/f10/osmo/po/tr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1296 | 1405 | 92.2 | /mnt/stockage/packages/f10/osmo/po/nl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 1290 | 1405 | 91.8 | /mnt/stockage/packages/f10/osmo/po/it.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 1169 | 1405 | 83.2 | /mnt/stockage/packages/f10/osmo/po/hu.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1100 | 1405 | 78.3 | /mnt/stockage/packages/f10/osmo/po/ru.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 1096 | 1405 | 78.0 | /mnt/stockage/packages/f10/osmo/po/lt.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1069 | 1405 | 76.1 | /mnt/stockage/packages/f10/osmo/po/fr.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 1034 | 1405 | 73.6 | /mnt/stockage/packages/f10/osmo/po/pt.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 792 | 1405 | 56.4 | /mnt/stockage/packages/f10/osmo/po/zh.po | 
+ | [cs](/f10/language/cs) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/cs.po | 
+ | [de](/f10/language/de) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/de.po | 
+ | [es](/f10/language/es) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/es.po | 
+ | [ja](/f10/language/ja) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/ja.po | 
+ | [pl](/f10/language/pl) | 1405 | 1405 | 100.0 | /mnt/stockage/packages/f10/osmo/po/pl.po | 
+ | [tr](/f10/language/tr) | 1310 | 1405 | 93.2 | /mnt/stockage/packages/f10/osmo/po/tr.po | 
+ | [nl](/f10/language/nl) | 1296 | 1405 | 92.2 | /mnt/stockage/packages/f10/osmo/po/nl.po | 
+ | [it](/f10/language/it) | 1290 | 1405 | 91.8 | /mnt/stockage/packages/f10/osmo/po/it.po | 
+ | [hu](/f10/language/hu) | 1169 | 1405 | 83.2 | /mnt/stockage/packages/f10/osmo/po/hu.po | 
+ | [ru](/f10/language/ru) | 1100 | 1405 | 78.3 | /mnt/stockage/packages/f10/osmo/po/ru.po | 
+ | [lt](/f10/language/lt) | 1096 | 1405 | 78.0 | /mnt/stockage/packages/f10/osmo/po/lt.po | 
+ | [fr](/f10/language/fr) | 1069 | 1405 | 76.1 | /mnt/stockage/packages/f10/osmo/po/fr.po | 
+ | [pt](/f10/language/pt) | 1034 | 1405 | 73.6 | /mnt/stockage/packages/f10/osmo/po/pt.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 792 | 1405 | 56.4 | /mnt/stockage/packages/f10/osmo/po/zh.po | 
 {.sortable}
 
 

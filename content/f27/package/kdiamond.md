@@ -18,55 +18,55 @@ The package kdiamond (version 17.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/bg/kdiamond.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/bs/kdiamond.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ca/kdiamond.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ca@valencia/kdiamond.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/cs/kdiamond.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/da/kdiamond.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/de/kdiamond.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/el/kdiamond.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/en_GB/kdiamond.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/es/kdiamond.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/et/kdiamond.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/eu/kdiamond.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/fi/kdiamond.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/fr/kdiamond.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ga/kdiamond.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/gl/kdiamond.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/hu/kdiamond.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/it/kdiamond.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ja/kdiamond.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/kk/kdiamond.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/km/kdiamond.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ko/kdiamond.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/lt/kdiamond.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nb/kdiamond.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nds/kdiamond.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nl/kdiamond.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nn/kdiamond.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/pl/kdiamond.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/pt/kdiamond.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/pt_BR/kdiamond.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ru/kdiamond.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sk/kdiamond.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sl/kdiamond.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sr/kdiamond.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sv/kdiamond.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/tr/kdiamond.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/uk/kdiamond.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/zh_CN/kdiamond.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/zh_TW/kdiamond.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f27/kdiamond/po/ar/kdiamond.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f27/kdiamond/po/lv/kdiamond.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 116 | 122 | 95.1 | /mnt/stockage/packages/f27/kdiamond/po/ro/kdiamond.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 87 | 122 | 71.3 | /mnt/stockage/packages/f27/kdiamond/po/hi/kdiamond.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 50 | 122 | 41.0 | /mnt/stockage/packages/f27/kdiamond/po/mr/kdiamond.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 32 | 122 | 26.2 | /mnt/stockage/packages/f27/kdiamond/po/ug/kdiamond.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 28 | 122 | 23.0 | /mnt/stockage/packages/f27/kdiamond/po/eo/kdiamond.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 4 | 122 | 3.3 | /mnt/stockage/packages/f27/kdiamond/po/ast/kdiamond.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f27/kdiamond/po/hr/kdiamond.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 0 | 122 | 0.0 | /mnt/stockage/packages/f27/kdiamond/po/is/kdiamond.po | 
+ | [bg](/f27/language/bg) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/bg/kdiamond.po | 
+ | [bs](/f27/language/bs) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/bs/kdiamond.po | 
+ | [ca](/f27/language/ca) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ca/kdiamond.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ca@valencia/kdiamond.po | 
+ | [cs](/f27/language/cs) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/cs/kdiamond.po | 
+ | [da](/f27/language/da) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/da/kdiamond.po | 
+ | [de](/f27/language/de) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/de/kdiamond.po | 
+ | [el](/f27/language/el) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/el/kdiamond.po | 
+ | [en_GB](/f27/language/en_GB) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/en_GB/kdiamond.po | 
+ | [es](/f27/language/es) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/es/kdiamond.po | 
+ | [et](/f27/language/et) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/et/kdiamond.po | 
+ | [eu](/f27/language/eu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/eu/kdiamond.po | 
+ | [fi](/f27/language/fi) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/fi/kdiamond.po | 
+ | [fr](/f27/language/fr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/fr/kdiamond.po | 
+ | [ga](/f27/language/ga) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ga/kdiamond.po | 
+ | [gl](/f27/language/gl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/gl/kdiamond.po | 
+ | [hu](/f27/language/hu) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/hu/kdiamond.po | 
+ | [it](/f27/language/it) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/it/kdiamond.po | 
+ | [ja](/f27/language/ja) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ja/kdiamond.po | 
+ | [kk](/f27/language/kk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/kk/kdiamond.po | 
+ | [km](/f27/language/km) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/km/kdiamond.po | 
+ | [ko](/f27/language/ko) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ko/kdiamond.po | 
+ | [lt](/f27/language/lt) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/lt/kdiamond.po | 
+ | [nb_NO](/f27/language/nb_NO) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nb/kdiamond.po | 
+ | [nds](/f27/language/nds) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nds/kdiamond.po | 
+ | [nl](/f27/language/nl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nl/kdiamond.po | 
+ | [nn](/f27/language/nn) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/nn/kdiamond.po | 
+ | [pl](/f27/language/pl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/pl/kdiamond.po | 
+ | [pt](/f27/language/pt) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/pt/kdiamond.po | 
+ | [pt_BR](/f27/language/pt_BR) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/pt_BR/kdiamond.po | 
+ | [ru](/f27/language/ru) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/ru/kdiamond.po | 
+ | [sk](/f27/language/sk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sk/kdiamond.po | 
+ | [sl](/f27/language/sl) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sl/kdiamond.po | 
+ | [sr](/f27/language/sr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sr/kdiamond.po | 
+ | [sv](/f27/language/sv) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/sv/kdiamond.po | 
+ | [tr](/f27/language/tr) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/tr/kdiamond.po | 
+ | [uk](/f27/language/uk) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/uk/kdiamond.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/zh_CN/kdiamond.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 122 | 122 | 100.0 | /mnt/stockage/packages/f27/kdiamond/po/zh_TW/kdiamond.po | 
+ | [ar](/f27/language/ar) | 116 | 122 | 95.1 | /mnt/stockage/packages/f27/kdiamond/po/ar/kdiamond.po | 
+ | [lv](/f27/language/lv) | 116 | 122 | 95.1 | /mnt/stockage/packages/f27/kdiamond/po/lv/kdiamond.po | 
+ | [ro](/f27/language/ro) | 116 | 122 | 95.1 | /mnt/stockage/packages/f27/kdiamond/po/ro/kdiamond.po | 
+ | [hi](/f27/language/hi) | 87 | 122 | 71.3 | /mnt/stockage/packages/f27/kdiamond/po/hi/kdiamond.po | 
+ | [mr](/f27/language/mr) | 50 | 122 | 41.0 | /mnt/stockage/packages/f27/kdiamond/po/mr/kdiamond.po | 
+ | [ug](/f27/language/ug) | 32 | 122 | 26.2 | /mnt/stockage/packages/f27/kdiamond/po/ug/kdiamond.po | 
+ | [eo](/f27/language/eo) | 28 | 122 | 23.0 | /mnt/stockage/packages/f27/kdiamond/po/eo/kdiamond.po | 
+ | [ast](/f27/language/ast) | 4 | 122 | 3.3 | /mnt/stockage/packages/f27/kdiamond/po/ast/kdiamond.po | 
+ | [hr](/f27/language/hr) | 0 | 122 | 0.0 | /mnt/stockage/packages/f27/kdiamond/po/hr/kdiamond.po | 
+ | [is](/f27/language/is) | 0 | 122 | 0.0 | /mnt/stockage/packages/f27/kdiamond/po/is/kdiamond.po | 
 {.sortable}
 
 

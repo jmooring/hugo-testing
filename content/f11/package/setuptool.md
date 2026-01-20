@@ -18,76 +18,76 @@ The package setuptool (version 1.19.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f11/language/as.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/as.po | 
- | [bal]({{< ref "/f11/language/bal.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bal.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bg.po | 
- | [bn_IN]({{< ref "/f11/language/bn_IN.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bn_IN.po | 
- | [bs]({{< ref "/f11/language/bs.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bs.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ca.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/cs.po | 
- | [cy]({{< ref "/f11/language/cy.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/cy.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/el.po | 
- | [en_GB]({{< ref "/f11/language/en_GB.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/en_GB.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/es.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/fi.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/fr.po | 
- | [gu]({{< ref "/f11/language/gu.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/gu.po | 
- | [hi]({{< ref "/f11/language/hi.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/hi.po | 
- | [hr]({{< ref "/f11/language/hr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/hr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/hu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/id.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/is.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/it.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ja.po | 
- | [kn]({{< ref "/f11/language/kn.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/kn.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ko.po | 
- | [lv]({{< ref "/f11/language/lv.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/lv.po | 
- | [mai]({{< ref "/f11/language/mai.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/mai.po | 
- | [mk]({{< ref "/f11/language/mk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/mk.po | 
- | [ml]({{< ref "/f11/language/ml.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ml.po | 
- | [mr]({{< ref "/f11/language/mr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/mr.po | 
- | [ms]({{< ref "/f11/language/ms.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ms.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/nb.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/nl.po | 
- | [or]({{< ref "/f11/language/or.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/or.po | 
- | [pa]({{< ref "/f11/language/pa.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pa.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pl.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pt_BR.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ro.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ru.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sk.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sr@latin.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sv.po | 
- | [ta]({{< ref "/f11/language/ta.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ta.po | 
- | [te]({{< ref "/f11/language/te.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/te.po | 
- | [th]({{< ref "/f11/language/th.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/th.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/uk.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/zh_TW.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/ar.po | 
- | [be]({{< ref "/f11/language/be.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/be.po | 
- | [bn]({{< ref "/f11/language/bn.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/bn.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/et.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/gl.po | 
- | [he]({{< ref "/f11/language/he.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/he.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/lt.po | 
- | [mn]({{< ref "/f11/language/mn.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/mn.po | 
- | [sl]({{< ref "/f11/language/sl.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/sl.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/vi.po | 
- | [ka]({{< ref "/f11/language/ka.md" >}}) | 20 | 60 | 33.3 | /mnt/stockage/packages/f11/setuptool/po/ka.po | 
- | [fa]({{< ref "/f11/language/fa.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/fa.po | 
- | [hy]({{< ref "/f11/language/hy.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/hy.po | 
- | [ku]({{< ref "/f11/language/ku.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/ku.po | 
- | [lo]({{< ref "/f11/language/lo.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/lo.po | 
- | [my]({{< ref "/f11/language/my.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/my.po | 
- | [si]({{< ref "/f11/language/si.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/si.po | 
- | [sq]({{< ref "/f11/language/sq.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/sq.po | 
- | [ur]({{< ref "/f11/language/ur.md" >}}) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/ur.po | 
+ | [as](/f11/language/as) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/as.po | 
+ | [bal](/f11/language/bal) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bal.po | 
+ | [bg](/f11/language/bg) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bg.po | 
+ | [bn_IN](/f11/language/bn_IN) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bn_IN.po | 
+ | [bs](/f11/language/bs) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/bs.po | 
+ | [ca](/f11/language/ca) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ca.po | 
+ | [cs](/f11/language/cs) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/cs.po | 
+ | [cy](/f11/language/cy) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/cy.po | 
+ | [da](/f11/language/da) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/da.po | 
+ | [de](/f11/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/de.po | 
+ | [el](/f11/language/el) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/el.po | 
+ | [en_GB](/f11/language/en_GB) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/en_GB.po | 
+ | [es](/f11/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/es.po | 
+ | [fi](/f11/language/fi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/fi.po | 
+ | [fr](/f11/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/fr.po | 
+ | [gu](/f11/language/gu) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/gu.po | 
+ | [hi](/f11/language/hi) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/hi.po | 
+ | [hr](/f11/language/hr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/hr.po | 
+ | [hu](/f11/language/hu) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/hu.po | 
+ | [id](/f11/language/id) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/id.po | 
+ | [is](/f11/language/is) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/is.po | 
+ | [it](/f11/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/it.po | 
+ | [ja](/f11/language/ja) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ja.po | 
+ | [kn](/f11/language/kn) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/kn.po | 
+ | [ko](/f11/language/ko) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ko.po | 
+ | [lv](/f11/language/lv) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/lv.po | 
+ | [mai](/f11/language/mai) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/mai.po | 
+ | [mk](/f11/language/mk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/mk.po | 
+ | [ml](/f11/language/ml) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ml.po | 
+ | [mr](/f11/language/mr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/mr.po | 
+ | [ms](/f11/language/ms) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ms.po | 
+ | [nb_NO](/f11/language/nb_NO) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/nb.po | 
+ | [nl](/f11/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/nl.po | 
+ | [or](/f11/language/or) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/or.po | 
+ | [pa](/f11/language/pa) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pa.po | 
+ | [pl](/f11/language/pl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pl.po | 
+ | [pt](/f11/language/pt) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/pt_BR.po | 
+ | [ro](/f11/language/ro) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ro.po | 
+ | [ru](/f11/language/ru) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ru.po | 
+ | [sk](/f11/language/sk) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sk.po | 
+ | [sr](/f11/language/sr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sr@latin.po | 
+ | [sv](/f11/language/sv) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/sv.po | 
+ | [ta](/f11/language/ta) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/ta.po | 
+ | [te](/f11/language/te) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/te.po | 
+ | [th](/f11/language/th) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/th.po | 
+ | [tr](/f11/language/tr) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/tr.po | 
+ | [uk](/f11/language/uk) | 60 | 60 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/uk.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 73 | 73 | 100.0 | /mnt/stockage/packages/f11/setuptool/po/zh_TW.po | 
+ | [ar](/f11/language/ar) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/ar.po | 
+ | [be](/f11/language/be) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/be.po | 
+ | [bn](/f11/language/bn) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/bn.po | 
+ | [et](/f11/language/et) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/et.po | 
+ | [gl](/f11/language/gl) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/gl.po | 
+ | [he](/f11/language/he) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/he.po | 
+ | [lt](/f11/language/lt) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/lt.po | 
+ | [mn](/f11/language/mn) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/mn.po | 
+ | [sl](/f11/language/sl) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/sl.po | 
+ | [vi](/f11/language/vi) | 54 | 60 | 90.0 | /mnt/stockage/packages/f11/setuptool/po/vi.po | 
+ | [ka](/f11/language/ka) | 20 | 60 | 33.3 | /mnt/stockage/packages/f11/setuptool/po/ka.po | 
+ | [fa](/f11/language/fa) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/fa.po | 
+ | [hy](/f11/language/hy) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/hy.po | 
+ | [ku](/f11/language/ku) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/ku.po | 
+ | [lo](/f11/language/lo) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/lo.po | 
+ | [my](/f11/language/my) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/my.po | 
+ | [si](/f11/language/si) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/si.po | 
+ | [sq](/f11/language/sq) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/sq.po | 
+ | [ur](/f11/language/ur) | 0 | 60 | 0.0 | /mnt/stockage/packages/f11/setuptool/po/ur.po | 
 {.sortable}
 
 

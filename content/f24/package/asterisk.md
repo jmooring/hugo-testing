@@ -18,9 +18,9 @@ The package asterisk (version 13.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 130 | 134 | 97.0 | /mnt/stockage/packages/f24/asterisk/contrib/unistimLang/en.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 130 | 134 | 97.0 | /mnt/stockage/packages/f24/asterisk/contrib/unistimLang/fr.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/asterisk/contrib/unistimLang/ru.po | 
+ | [en](/f24/language/en) | 130 | 134 | 97.0 | /mnt/stockage/packages/f24/asterisk/contrib/unistimLang/en.po | 
+ | [fr](/f24/language/fr) | 130 | 134 | 97.0 | /mnt/stockage/packages/f24/asterisk/contrib/unistimLang/fr.po | 
+ | [ru](/f24/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f24/asterisk/contrib/unistimLang/ru.po | 
 {.sortable}
 
 

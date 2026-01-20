@@ -18,30 +18,30 @@ The package xfce4-screenshooter-plugin (version 1.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/cs.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/el.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/id.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/nl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f10/language/pt_PT.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/pt_PT.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/uk.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 91 | 94 | 96.8 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/fr.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 43 | 94 | 45.7 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/es.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 43 | 94 | 45.7 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/hr.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/ca.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f10/language/eu.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/eu.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/nb_NO.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/pl.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/sq.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/ur.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/zh_TW.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 5 | 94 | 5.3 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/gl.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 0 | 64 | 0.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/ar.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/da.po | 
+ | [cs](/f10/language/cs) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/cs.po | 
+ | [de](/f10/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/de.po | 
+ | [el](/f10/language/el) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/el.po | 
+ | [hu](/f10/language/hu) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/hu.po | 
+ | [id](/f10/language/id) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/id.po | 
+ | [nl](/f10/language/nl) | 64 | 64 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/nl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/pt_BR.po | 
+ | [pt_PT](/f10/language/pt_PT) | 64 | 64 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/pt_PT.po | 
+ | [uk](/f10/language/uk) | 94 | 94 | 100.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/uk.po | 
+ | [fr](/f10/language/fr) | 91 | 94 | 96.8 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/fr.po | 
+ | [es](/f10/language/es) | 43 | 94 | 45.7 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/es.po | 
+ | [hr](/f10/language/hr) | 43 | 94 | 45.7 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/hr.po | 
+ | [ca](/f10/language/ca) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/ca.po | 
+ | [en_GB](/f10/language/en_GB) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/en_GB.po | 
+ | [eu](/f10/language/eu) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/eu.po | 
+ | [lv](/f10/language/lv) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/lv.po | 
+ | [nb_NO](/f10/language/nb_NO) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/nb_NO.po | 
+ | [pl](/f10/language/pl) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/pl.po | 
+ | [sq](/f10/language/sq) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/sq.po | 
+ | [ur](/f10/language/ur) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/ur.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 7 | 94 | 7.4 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/zh_TW.po | 
+ | [gl](/f10/language/gl) | 5 | 94 | 5.3 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/gl.po | 
+ | [ar](/f10/language/ar) | 0 | 64 | 0.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/ar.po | 
+ | [da](/f10/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f10/xfce4-screenshooter-plugin/po/da.po | 
 {.sortable}
 
 

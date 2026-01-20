@@ -18,81 +18,81 @@ The package kdenetwork-filesharing (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/bg/kfileshare.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ca/kfileshare.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ca@valencia/kfileshare.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/eo/kfileshare.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/es/kfileshare.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/eu/kfileshare.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/fi/kfileshare.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/fr/kfileshare.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/gl/kfileshare.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ia/kfileshare.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/it/kfileshare.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ka/kfileshare.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ko/kfileshare.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nl/kfileshare.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pl/kfileshare.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pt/kfileshare.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ru/kfileshare.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sl/kfileshare.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sv/kfileshare.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/tr/kfileshare.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/uk/kfileshare.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/zh_CN/kfileshare.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 947 | 992 | 95.5 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/en_GB/kfileshare.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 947 | 992 | 95.5 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/id/kfileshare.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 547 | 992 | 55.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pt_BR/kfileshare.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 502 | 992 | 50.6 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ro/kfileshare.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 460 | 992 | 46.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/de/kfileshare.po | 
- | [az]({{< ref "/f38/language/az.md" >}}) | 457 | 992 | 46.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/az/kfileshare.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr/kfileshare.po | 
- | [sr@ijekavian]({{< ref "/f38/language/sr@ijekavian.md" >}}) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr@ijekavian/kfileshare.po | 
- | [sr@ijekavian_Latn]({{< ref "/f38/language/sr@ijekavian_Latn.md" >}}) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr@ijekavianlatin/kfileshare.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr@latin/kfileshare.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 388 | 992 | 39.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/el/kfileshare.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 388 | 992 | 39.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hu/kfileshare.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 349 | 992 | 35.2 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nn/kfileshare.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 256 | 992 | 25.8 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/cs/kfileshare.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 106 | 992 | 10.7 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sk/kfileshare.po | 
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 32 | 992 | 3.2 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ar/kfileshare.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 6 | 992 | 0.6 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ta/kfileshare.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/be/kfileshare.po | 
- | [br]({{< ref "/f38/language/br.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/br/kfileshare.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/bs/kfileshare.po | 
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/cy/kfileshare.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/da/kfileshare.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/et/kfileshare.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/fa/kfileshare.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ga/kfileshare.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/he/kfileshare.po | 
- | [hi]({{< ref "/f38/language/hi.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hi/kfileshare.po | 
- | [hne]({{< ref "/f38/language/hne.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hne/kfileshare.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hr/kfileshare.po | 
- | [hsb]({{< ref "/f38/language/hsb.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hsb/kfileshare.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/is/kfileshare.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ja/kfileshare.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/kk/kfileshare.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/km/kfileshare.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/lt/kfileshare.po | 
- | [lv]({{< ref "/f38/language/lv.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/lv/kfileshare.po | 
- | [mai]({{< ref "/f38/language/mai.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/mai/kfileshare.po | 
- | [mk]({{< ref "/f38/language/mk.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/mk/kfileshare.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/mr/kfileshare.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ms/kfileshare.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nb/kfileshare.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nds/kfileshare.po | 
- | [ne]({{< ref "/f38/language/ne.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ne/kfileshare.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/oc/kfileshare.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pa/kfileshare.po | 
- | [se]({{< ref "/f38/language/se.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/se/kfileshare.po | 
- | [sq]({{< ref "/f38/language/sq.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sq/kfileshare.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/tg/kfileshare.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/th/kfileshare.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ug/kfileshare.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/vi/kfileshare.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/zh_TW/kfileshare.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/zh_HK/kfileshare.po | 
+ | [bg](/f38/language/bg) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/bg/kfileshare.po | 
+ | [ca](/f38/language/ca) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ca/kfileshare.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ca@valencia/kfileshare.po | 
+ | [eo](/f38/language/eo) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/eo/kfileshare.po | 
+ | [es](/f38/language/es) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/es/kfileshare.po | 
+ | [eu](/f38/language/eu) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/eu/kfileshare.po | 
+ | [fi](/f38/language/fi) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/fi/kfileshare.po | 
+ | [fr](/f38/language/fr) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/fr/kfileshare.po | 
+ | [gl](/f38/language/gl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/gl/kfileshare.po | 
+ | [ia](/f38/language/ia) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ia/kfileshare.po | 
+ | [it](/f38/language/it) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/it/kfileshare.po | 
+ | [ka](/f38/language/ka) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ka/kfileshare.po | 
+ | [ko](/f38/language/ko) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ko/kfileshare.po | 
+ | [nl](/f38/language/nl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nl/kfileshare.po | 
+ | [pl](/f38/language/pl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pl/kfileshare.po | 
+ | [pt](/f38/language/pt) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pt/kfileshare.po | 
+ | [ru](/f38/language/ru) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ru/kfileshare.po | 
+ | [sl](/f38/language/sl) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sl/kfileshare.po | 
+ | [sv](/f38/language/sv) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sv/kfileshare.po | 
+ | [tr](/f38/language/tr) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/tr/kfileshare.po | 
+ | [uk](/f38/language/uk) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/uk/kfileshare.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 992 | 992 | 100.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/zh_CN/kfileshare.po | 
+ | [en_GB](/f38/language/en_GB) | 947 | 992 | 95.5 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/en_GB/kfileshare.po | 
+ | [id](/f38/language/id) | 947 | 992 | 95.5 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/id/kfileshare.po | 
+ | [pt_BR](/f38/language/pt_BR) | 547 | 992 | 55.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pt_BR/kfileshare.po | 
+ | [ro](/f38/language/ro) | 502 | 992 | 50.6 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ro/kfileshare.po | 
+ | [de](/f38/language/de) | 460 | 992 | 46.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/de/kfileshare.po | 
+ | [az](/f38/language/az) | 457 | 992 | 46.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/az/kfileshare.po | 
+ | [sr](/f38/language/sr) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr/kfileshare.po | 
+ | [sr@ijekavian](/f38/language/sr@ijekavian) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr@ijekavian/kfileshare.po | 
+ | [sr@ijekavian_Latn](/f38/language/sr@ijekavian_Latn) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr@ijekavianlatin/kfileshare.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 28 | 63 | 44.4 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sr@latin/kfileshare.po | 
+ | [el](/f38/language/el) | 388 | 992 | 39.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/el/kfileshare.po | 
+ | [hu](/f38/language/hu) | 388 | 992 | 39.1 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hu/kfileshare.po | 
+ | [nn](/f38/language/nn) | 349 | 992 | 35.2 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nn/kfileshare.po | 
+ | [cs](/f38/language/cs) | 256 | 992 | 25.8 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/cs/kfileshare.po | 
+ | [sk](/f38/language/sk) | 106 | 992 | 10.7 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sk/kfileshare.po | 
+ | [ar](/f38/language/ar) | 32 | 992 | 3.2 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ar/kfileshare.po | 
+ | [ta](/f38/language/ta) | 6 | 992 | 0.6 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ta/kfileshare.po | 
+ | [be](/f38/language/be) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/be/kfileshare.po | 
+ | [br](/f38/language/br) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/br/kfileshare.po | 
+ | [bs](/f38/language/bs) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/bs/kfileshare.po | 
+ | [cy](/f38/language/cy) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/cy/kfileshare.po | 
+ | [da](/f38/language/da) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/da/kfileshare.po | 
+ | [et](/f38/language/et) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/et/kfileshare.po | 
+ | [fa](/f38/language/fa) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/fa/kfileshare.po | 
+ | [ga](/f38/language/ga) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ga/kfileshare.po | 
+ | [he](/f38/language/he) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/he/kfileshare.po | 
+ | [hi](/f38/language/hi) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hi/kfileshare.po | 
+ | [hne](/f38/language/hne) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hne/kfileshare.po | 
+ | [hr](/f38/language/hr) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hr/kfileshare.po | 
+ | [hsb](/f38/language/hsb) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/hsb/kfileshare.po | 
+ | [is](/f38/language/is) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/is/kfileshare.po | 
+ | [ja](/f38/language/ja) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ja/kfileshare.po | 
+ | [kk](/f38/language/kk) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/kk/kfileshare.po | 
+ | [km](/f38/language/km) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/km/kfileshare.po | 
+ | [lt](/f38/language/lt) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/lt/kfileshare.po | 
+ | [lv](/f38/language/lv) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/lv/kfileshare.po | 
+ | [mai](/f38/language/mai) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/mai/kfileshare.po | 
+ | [mk](/f38/language/mk) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/mk/kfileshare.po | 
+ | [mr](/f38/language/mr) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/mr/kfileshare.po | 
+ | [ms](/f38/language/ms) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ms/kfileshare.po | 
+ | [nb_NO](/f38/language/nb_NO) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nb/kfileshare.po | 
+ | [nds](/f38/language/nds) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/nds/kfileshare.po | 
+ | [ne](/f38/language/ne) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ne/kfileshare.po | 
+ | [oc](/f38/language/oc) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/oc/kfileshare.po | 
+ | [pa](/f38/language/pa) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/pa/kfileshare.po | 
+ | [se](/f38/language/se) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/se/kfileshare.po | 
+ | [sq](/f38/language/sq) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/sq/kfileshare.po | 
+ | [tg](/f38/language/tg) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/tg/kfileshare.po | 
+ | [th](/f38/language/th) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/th/kfileshare.po | 
+ | [ug](/f38/language/ug) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/ug/kfileshare.po | 
+ | [vi](/f38/language/vi) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/vi/kfileshare.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/zh_TW/kfileshare.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 0 | 992 | 0.0 | /mnt/stockage/packages/f38/kdenetwork-filesharing/po/zh_HK/kfileshare.po | 
 {.sortable}
 
 

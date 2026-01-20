@@ -18,53 +18,53 @@ The package blogilo (version 17.08.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ca/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ca/libcomposereditorwebengine.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ca@valencia/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ca@valencia/libcomposereditorwebengine.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/de/blogilo.po/mnt/stockage/packages/f27/blogilo/po/de/libcomposereditorwebengine.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/en_GB/blogilo.po/mnt/stockage/packages/f27/blogilo/po/en_GB/libcomposereditorwebengine.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/es/blogilo.po/mnt/stockage/packages/f27/blogilo/po/es/libcomposereditorwebengine.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/fr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/fr/libcomposereditorwebengine.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/it/blogilo.po/mnt/stockage/packages/f27/blogilo/po/it/libcomposereditorwebengine.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 204 | 204 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ko/libcomposereditorwebengine.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/nl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/nl/libcomposereditorwebengine.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/pl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/pl/libcomposereditorwebengine.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/pt/blogilo.po/mnt/stockage/packages/f27/blogilo/po/pt/libcomposereditorwebengine.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ru/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ru/libcomposereditorwebengine.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sk/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sk/libcomposereditorwebengine.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sl/libcomposereditorwebengine.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sr/libcomposereditorwebengine.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sv/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sv/libcomposereditorwebengine.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/uk/blogilo.po/mnt/stockage/packages/f27/blogilo/po/uk/libcomposereditorwebengine.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/zh_CN/blogilo.po/mnt/stockage/packages/f27/blogilo/po/zh_CN/libcomposereditorwebengine.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 1391 | 1392 | 99.9 | /mnt/stockage/packages/f27/blogilo/po/tr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/tr/libcomposereditorwebengine.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 1388 | 1392 | 99.7 | /mnt/stockage/packages/f27/blogilo/po/da/blogilo.po/mnt/stockage/packages/f27/blogilo/po/da/libcomposereditorwebengine.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 1388 | 1392 | 99.7 | /mnt/stockage/packages/f27/blogilo/po/et/blogilo.po/mnt/stockage/packages/f27/blogilo/po/et/libcomposereditorwebengine.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 1388 | 1392 | 99.7 | /mnt/stockage/packages/f27/blogilo/po/fi/blogilo.po/mnt/stockage/packages/f27/blogilo/po/fi/libcomposereditorwebengine.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 1376 | 1392 | 98.9 | /mnt/stockage/packages/f27/blogilo/po/gl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/gl/libcomposereditorwebengine.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 1376 | 1392 | 98.9 | /mnt/stockage/packages/f27/blogilo/po/pt_BR/blogilo.po/mnt/stockage/packages/f27/blogilo/po/pt_BR/libcomposereditorwebengine.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/hu/blogilo.po/mnt/stockage/packages/f27/blogilo/po/hu/libcomposereditorwebengine.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/nb/blogilo.po/mnt/stockage/packages/f27/blogilo/po/nb/libcomposereditorwebengine.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/nds/blogilo.po/mnt/stockage/packages/f27/blogilo/po/nds/libcomposereditorwebengine.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/zh_TW/blogilo.po/mnt/stockage/packages/f27/blogilo/po/zh_TW/libcomposereditorwebengine.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 1157 | 1188 | 97.4 | /mnt/stockage/packages/f27/blogilo/po/el/blogilo.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 1351 | 1392 | 97.1 | /mnt/stockage/packages/f27/blogilo/po/bs/blogilo.po/mnt/stockage/packages/f27/blogilo/po/bs/libcomposereditorwebengine.po | 
- | [ia]({{< ref "/f27/language/ia.md" >}}) | 1351 | 1392 | 97.1 | /mnt/stockage/packages/f27/blogilo/po/ia/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ia/libcomposereditorwebengine.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 1327 | 1392 | 95.3 | /mnt/stockage/packages/f27/blogilo/po/kk/blogilo.po/mnt/stockage/packages/f27/blogilo/po/kk/libcomposereditorwebengine.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 1117 | 1188 | 94.0 | /mnt/stockage/packages/f27/blogilo/po/nn/blogilo.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 933 | 1188 | 78.5 | /mnt/stockage/packages/f27/blogilo/po/lv/blogilo.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 1071 | 1392 | 76.9 | /mnt/stockage/packages/f27/blogilo/po/ar/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ar/libcomposereditorwebengine.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 661 | 1392 | 47.5 | /mnt/stockage/packages/f27/blogilo/po/ga/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ga/libcomposereditorwebengine.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 471 | 1392 | 33.8 | /mnt/stockage/packages/f27/blogilo/po/lt/blogilo.po/mnt/stockage/packages/f27/blogilo/po/lt/libcomposereditorwebengine.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 401 | 1188 | 33.8 | /mnt/stockage/packages/f27/blogilo/po/bg/blogilo.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 382 | 1392 | 27.4 | /mnt/stockage/packages/f27/blogilo/po/cs/blogilo.po/mnt/stockage/packages/f27/blogilo/po/cs/libcomposereditorwebengine.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 373 | 1392 | 26.8 | /mnt/stockage/packages/f27/blogilo/po/ro/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ro/libcomposereditorwebengine.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 298 | 1188 | 25.1 | /mnt/stockage/packages/f27/blogilo/po/pa/blogilo.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 214 | 1392 | 15.4 | /mnt/stockage/packages/f27/blogilo/po/ug/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ug/libcomposereditorwebengine.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 195 | 1392 | 14.0 | /mnt/stockage/packages/f27/blogilo/po/ja/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ja/libcomposereditorwebengine.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 163 | 1392 | 11.7 | /mnt/stockage/packages/f27/blogilo/po/mr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/mr/libcomposereditorwebengine.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 50 | 1188 | 4.2 | /mnt/stockage/packages/f27/blogilo/po/eo/blogilo.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 6 | 1392 | 0.4 | /mnt/stockage/packages/f27/blogilo/po/ast/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ast/libcomposereditorwebengine.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 1 | 1188 | 0.1 | /mnt/stockage/packages/f27/blogilo/po/hr/blogilo.po | 
+ | [ca](/f27/language/ca) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ca/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ca/libcomposereditorwebengine.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ca@valencia/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ca@valencia/libcomposereditorwebengine.po | 
+ | [de](/f27/language/de) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/de/blogilo.po/mnt/stockage/packages/f27/blogilo/po/de/libcomposereditorwebengine.po | 
+ | [en_GB](/f27/language/en_GB) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/en_GB/blogilo.po/mnt/stockage/packages/f27/blogilo/po/en_GB/libcomposereditorwebengine.po | 
+ | [es](/f27/language/es) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/es/blogilo.po/mnt/stockage/packages/f27/blogilo/po/es/libcomposereditorwebengine.po | 
+ | [fr](/f27/language/fr) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/fr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/fr/libcomposereditorwebengine.po | 
+ | [it](/f27/language/it) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/it/blogilo.po/mnt/stockage/packages/f27/blogilo/po/it/libcomposereditorwebengine.po | 
+ | [ko](/f27/language/ko) | 204 | 204 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ko/libcomposereditorwebengine.po | 
+ | [nl](/f27/language/nl) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/nl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/nl/libcomposereditorwebengine.po | 
+ | [pl](/f27/language/pl) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/pl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/pl/libcomposereditorwebengine.po | 
+ | [pt](/f27/language/pt) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/pt/blogilo.po/mnt/stockage/packages/f27/blogilo/po/pt/libcomposereditorwebengine.po | 
+ | [ru](/f27/language/ru) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/ru/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ru/libcomposereditorwebengine.po | 
+ | [sk](/f27/language/sk) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sk/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sk/libcomposereditorwebengine.po | 
+ | [sl](/f27/language/sl) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sl/libcomposereditorwebengine.po | 
+ | [sr](/f27/language/sr) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sr/libcomposereditorwebengine.po | 
+ | [sv](/f27/language/sv) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/sv/blogilo.po/mnt/stockage/packages/f27/blogilo/po/sv/libcomposereditorwebengine.po | 
+ | [uk](/f27/language/uk) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/uk/blogilo.po/mnt/stockage/packages/f27/blogilo/po/uk/libcomposereditorwebengine.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f27/blogilo/po/zh_CN/blogilo.po/mnt/stockage/packages/f27/blogilo/po/zh_CN/libcomposereditorwebengine.po | 
+ | [tr](/f27/language/tr) | 1391 | 1392 | 99.9 | /mnt/stockage/packages/f27/blogilo/po/tr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/tr/libcomposereditorwebengine.po | 
+ | [da](/f27/language/da) | 1388 | 1392 | 99.7 | /mnt/stockage/packages/f27/blogilo/po/da/blogilo.po/mnt/stockage/packages/f27/blogilo/po/da/libcomposereditorwebengine.po | 
+ | [et](/f27/language/et) | 1388 | 1392 | 99.7 | /mnt/stockage/packages/f27/blogilo/po/et/blogilo.po/mnt/stockage/packages/f27/blogilo/po/et/libcomposereditorwebengine.po | 
+ | [fi](/f27/language/fi) | 1388 | 1392 | 99.7 | /mnt/stockage/packages/f27/blogilo/po/fi/blogilo.po/mnt/stockage/packages/f27/blogilo/po/fi/libcomposereditorwebengine.po | 
+ | [gl](/f27/language/gl) | 1376 | 1392 | 98.9 | /mnt/stockage/packages/f27/blogilo/po/gl/blogilo.po/mnt/stockage/packages/f27/blogilo/po/gl/libcomposereditorwebengine.po | 
+ | [pt_BR](/f27/language/pt_BR) | 1376 | 1392 | 98.9 | /mnt/stockage/packages/f27/blogilo/po/pt_BR/blogilo.po/mnt/stockage/packages/f27/blogilo/po/pt_BR/libcomposereditorwebengine.po | 
+ | [hu](/f27/language/hu) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/hu/blogilo.po/mnt/stockage/packages/f27/blogilo/po/hu/libcomposereditorwebengine.po | 
+ | [nb_NO](/f27/language/nb_NO) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/nb/blogilo.po/mnt/stockage/packages/f27/blogilo/po/nb/libcomposereditorwebengine.po | 
+ | [nds](/f27/language/nds) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/nds/blogilo.po/mnt/stockage/packages/f27/blogilo/po/nds/libcomposereditorwebengine.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 1364 | 1392 | 98.0 | /mnt/stockage/packages/f27/blogilo/po/zh_TW/blogilo.po/mnt/stockage/packages/f27/blogilo/po/zh_TW/libcomposereditorwebengine.po | 
+ | [el](/f27/language/el) | 1157 | 1188 | 97.4 | /mnt/stockage/packages/f27/blogilo/po/el/blogilo.po | 
+ | [bs](/f27/language/bs) | 1351 | 1392 | 97.1 | /mnt/stockage/packages/f27/blogilo/po/bs/blogilo.po/mnt/stockage/packages/f27/blogilo/po/bs/libcomposereditorwebengine.po | 
+ | [ia](/f27/language/ia) | 1351 | 1392 | 97.1 | /mnt/stockage/packages/f27/blogilo/po/ia/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ia/libcomposereditorwebengine.po | 
+ | [kk](/f27/language/kk) | 1327 | 1392 | 95.3 | /mnt/stockage/packages/f27/blogilo/po/kk/blogilo.po/mnt/stockage/packages/f27/blogilo/po/kk/libcomposereditorwebengine.po | 
+ | [nn](/f27/language/nn) | 1117 | 1188 | 94.0 | /mnt/stockage/packages/f27/blogilo/po/nn/blogilo.po | 
+ | [lv](/f27/language/lv) | 933 | 1188 | 78.5 | /mnt/stockage/packages/f27/blogilo/po/lv/blogilo.po | 
+ | [ar](/f27/language/ar) | 1071 | 1392 | 76.9 | /mnt/stockage/packages/f27/blogilo/po/ar/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ar/libcomposereditorwebengine.po | 
+ | [ga](/f27/language/ga) | 661 | 1392 | 47.5 | /mnt/stockage/packages/f27/blogilo/po/ga/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ga/libcomposereditorwebengine.po | 
+ | [lt](/f27/language/lt) | 471 | 1392 | 33.8 | /mnt/stockage/packages/f27/blogilo/po/lt/blogilo.po/mnt/stockage/packages/f27/blogilo/po/lt/libcomposereditorwebengine.po | 
+ | [bg](/f27/language/bg) | 401 | 1188 | 33.8 | /mnt/stockage/packages/f27/blogilo/po/bg/blogilo.po | 
+ | [cs](/f27/language/cs) | 382 | 1392 | 27.4 | /mnt/stockage/packages/f27/blogilo/po/cs/blogilo.po/mnt/stockage/packages/f27/blogilo/po/cs/libcomposereditorwebengine.po | 
+ | [ro](/f27/language/ro) | 373 | 1392 | 26.8 | /mnt/stockage/packages/f27/blogilo/po/ro/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ro/libcomposereditorwebengine.po | 
+ | [pa](/f27/language/pa) | 298 | 1188 | 25.1 | /mnt/stockage/packages/f27/blogilo/po/pa/blogilo.po | 
+ | [ug](/f27/language/ug) | 214 | 1392 | 15.4 | /mnt/stockage/packages/f27/blogilo/po/ug/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ug/libcomposereditorwebengine.po | 
+ | [ja](/f27/language/ja) | 195 | 1392 | 14.0 | /mnt/stockage/packages/f27/blogilo/po/ja/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ja/libcomposereditorwebengine.po | 
+ | [mr](/f27/language/mr) | 163 | 1392 | 11.7 | /mnt/stockage/packages/f27/blogilo/po/mr/blogilo.po/mnt/stockage/packages/f27/blogilo/po/mr/libcomposereditorwebengine.po | 
+ | [eo](/f27/language/eo) | 50 | 1188 | 4.2 | /mnt/stockage/packages/f27/blogilo/po/eo/blogilo.po | 
+ | [ast](/f27/language/ast) | 6 | 1392 | 0.4 | /mnt/stockage/packages/f27/blogilo/po/ast/blogilo.po/mnt/stockage/packages/f27/blogilo/po/ast/libcomposereditorwebengine.po | 
+ | [hr](/f27/language/hr) | 1 | 1188 | 0.1 | /mnt/stockage/packages/f27/blogilo/po/hr/blogilo.po | 
 {.sortable}
 
 

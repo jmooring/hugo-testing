@@ -18,15 +18,15 @@ The package xfce4-wavelan-plugin (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eu]({{< ref "/f7/language/eu.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/eu.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/fr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/hu.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/pl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/de.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/ja.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/ko.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/vi.po | 
+ | [eu](/f7/language/eu) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/eu.po | 
+ | [fr](/f7/language/fr) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/fr.po | 
+ | [hu](/f7/language/hu) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/hu.po | 
+ | [pl](/f7/language/pl) | 37 | 37 | 100.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/pl.po | 
+ | [de](/f7/language/de) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/de.po | 
+ | [it](/f7/language/it) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/it.po | 
+ | [ja](/f7/language/ja) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/ja.po | 
+ | [ko](/f7/language/ko) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/ko.po | 
+ | [vi](/f7/language/vi) | 10 | 37 | 27.0 | /mnt/stockage/packages/f7/xfce4-wavelan-plugin/po/vi.po | 
 {.sortable}
 
 

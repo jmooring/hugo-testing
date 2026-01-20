@@ -18,11 +18,11 @@ The package gnomescan (version 0.4.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 158 | 158 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/ar.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/ca.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/fr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/sv.po | 
+ | [ar](/f7/language/ar) | 158 | 158 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/ar.po | 
+ | [ca](/f7/language/ca) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/ca.po | 
+ | [de](/f7/language/de) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/de.po | 
+ | [fr](/f7/language/fr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/fr.po | 
+ | [sv](/f7/language/sv) | 152 | 152 | 100.0 | /mnt/stockage/packages/f7/gnomescan/po/sv.po | 
 {.sortable}
 
 

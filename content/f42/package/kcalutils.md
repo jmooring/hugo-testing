@@ -18,65 +18,65 @@ The package kcalutils (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ar/libkcalutils6.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/az/libkcalutils6.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/bg/libkcalutils6.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ca/libkcalutils6.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ca@valencia/libkcalutils6.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/de/libkcalutils6.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/eo/libkcalutils6.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/es/libkcalutils6.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/eu/libkcalutils6.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/fi/libkcalutils6.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/fr/libkcalutils6.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/gl/libkcalutils6.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/he/libkcalutils6.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/hu/libkcalutils6.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ia/libkcalutils6.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/it/libkcalutils6.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ka/libkcalutils6.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ko/libkcalutils6.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/nl/libkcalutils6.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/pl/libkcalutils6.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/pt_BR/libkcalutils6.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ru/libkcalutils6.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/sl/libkcalutils6.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/sv/libkcalutils6.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/tr/libkcalutils6.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/uk/libkcalutils6.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/zh_CN/libkcalutils6.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/zh_TW/libkcalutils6.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/en_GB/libkcalutils6.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/hi/libkcalutils6.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/pt/libkcalutils6.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/sa/libkcalutils6.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/sk/libkcalutils6.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 1435 | 1439 | 99.7 | /mnt/stockage/packages/f42/kcalutils/po/et/libkcalutils6.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr/libkcalutils6.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr@ijekavian/libkcalutils6.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr@ijekavianlatin/libkcalutils6.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr@latin/libkcalutils6.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 1397 | 1439 | 97.1 | /mnt/stockage/packages/f42/kcalutils/po/da/libkcalutils6.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1391 | 1439 | 96.7 | /mnt/stockage/packages/f42/kcalutils/po/cs/libkcalutils6.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 1352 | 1439 | 94.0 | /mnt/stockage/packages/f42/kcalutils/po/el/libkcalutils6.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 807 | 1439 | 56.1 | /mnt/stockage/packages/f42/kcalutils/po/ta/libkcalutils6.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 776 | 1439 | 53.9 | /mnt/stockage/packages/f42/kcalutils/po/nb/libkcalutils6.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 767 | 1439 | 53.3 | /mnt/stockage/packages/f42/kcalutils/po/nds/libkcalutils6.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 660 | 1439 | 45.9 | /mnt/stockage/packages/f42/kcalutils/po/ja/libkcalutils6.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 657 | 1439 | 45.7 | /mnt/stockage/packages/f42/kcalutils/po/bs/libkcalutils6.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 657 | 1439 | 45.7 | /mnt/stockage/packages/f42/kcalutils/po/kk/libkcalutils6.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 625 | 1439 | 43.4 | /mnt/stockage/packages/f42/kcalutils/po/km/libkcalutils6.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 581 | 1439 | 40.4 | /mnt/stockage/packages/f42/kcalutils/po/nn/libkcalutils6.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 520 | 1439 | 36.1 | /mnt/stockage/packages/f42/kcalutils/po/ug/libkcalutils6.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 501 | 1439 | 34.8 | /mnt/stockage/packages/f42/kcalutils/po/ga/libkcalutils6.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 446 | 1439 | 31.0 | /mnt/stockage/packages/f42/kcalutils/po/lt/libkcalutils6.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 320 | 1439 | 22.2 | /mnt/stockage/packages/f42/kcalutils/po/ro/libkcalutils6.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 97 | 1439 | 6.7 | /mnt/stockage/packages/f42/kcalutils/po/pa/libkcalutils6.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 61 | 1439 | 4.2 | /mnt/stockage/packages/f42/kcalutils/po/mai/libkcalutils6.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 54 | 1439 | 3.8 | /mnt/stockage/packages/f42/kcalutils/po/mr/libkcalutils6.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 5 | 1439 | 0.3 | /mnt/stockage/packages/f42/kcalutils/po/se/libkcalutils6.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 1 | 1439 | 0.1 | /mnt/stockage/packages/f42/kcalutils/po/ast/libkcalutils6.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 1 | 1439 | 0.1 | /mnt/stockage/packages/f42/kcalutils/po/hr/libkcalutils6.po | 
+ | [ar](/f42/language/ar) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ar/libkcalutils6.po | 
+ | [az](/f42/language/az) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/az/libkcalutils6.po | 
+ | [bg](/f42/language/bg) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/bg/libkcalutils6.po | 
+ | [ca](/f42/language/ca) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ca/libkcalutils6.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ca@valencia/libkcalutils6.po | 
+ | [de](/f42/language/de) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/de/libkcalutils6.po | 
+ | [eo](/f42/language/eo) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/eo/libkcalutils6.po | 
+ | [es](/f42/language/es) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/es/libkcalutils6.po | 
+ | [eu](/f42/language/eu) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/eu/libkcalutils6.po | 
+ | [fi](/f42/language/fi) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/fi/libkcalutils6.po | 
+ | [fr](/f42/language/fr) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/fr/libkcalutils6.po | 
+ | [gl](/f42/language/gl) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/gl/libkcalutils6.po | 
+ | [he](/f42/language/he) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/he/libkcalutils6.po | 
+ | [hu](/f42/language/hu) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/hu/libkcalutils6.po | 
+ | [ia](/f42/language/ia) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ia/libkcalutils6.po | 
+ | [it](/f42/language/it) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/it/libkcalutils6.po | 
+ | [ka](/f42/language/ka) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ka/libkcalutils6.po | 
+ | [ko](/f42/language/ko) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ko/libkcalutils6.po | 
+ | [nl](/f42/language/nl) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/nl/libkcalutils6.po | 
+ | [pl](/f42/language/pl) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/pl/libkcalutils6.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/pt_BR/libkcalutils6.po | 
+ | [ru](/f42/language/ru) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/ru/libkcalutils6.po | 
+ | [sl](/f42/language/sl) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/sl/libkcalutils6.po | 
+ | [sv](/f42/language/sv) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/sv/libkcalutils6.po | 
+ | [tr](/f42/language/tr) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/tr/libkcalutils6.po | 
+ | [uk](/f42/language/uk) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/uk/libkcalutils6.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/zh_CN/libkcalutils6.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1439 | 1439 | 100.0 | /mnt/stockage/packages/f42/kcalutils/po/zh_TW/libkcalutils6.po | 
+ | [en_GB](/f42/language/en_GB) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/en_GB/libkcalutils6.po | 
+ | [hi](/f42/language/hi) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/hi/libkcalutils6.po | 
+ | [pt](/f42/language/pt) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/pt/libkcalutils6.po | 
+ | [sa](/f42/language/sa) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/sa/libkcalutils6.po | 
+ | [sk](/f42/language/sk) | 1437 | 1439 | 99.9 | /mnt/stockage/packages/f42/kcalutils/po/sk/libkcalutils6.po | 
+ | [et](/f42/language/et) | 1435 | 1439 | 99.7 | /mnt/stockage/packages/f42/kcalutils/po/et/libkcalutils6.po | 
+ | [sr](/f42/language/sr) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr/libkcalutils6.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr@ijekavian/libkcalutils6.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr@ijekavianlatin/libkcalutils6.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 1423 | 1439 | 98.9 | /mnt/stockage/packages/f42/kcalutils/po/sr@latin/libkcalutils6.po | 
+ | [da](/f42/language/da) | 1397 | 1439 | 97.1 | /mnt/stockage/packages/f42/kcalutils/po/da/libkcalutils6.po | 
+ | [cs](/f42/language/cs) | 1391 | 1439 | 96.7 | /mnt/stockage/packages/f42/kcalutils/po/cs/libkcalutils6.po | 
+ | [el](/f42/language/el) | 1352 | 1439 | 94.0 | /mnt/stockage/packages/f42/kcalutils/po/el/libkcalutils6.po | 
+ | [ta](/f42/language/ta) | 807 | 1439 | 56.1 | /mnt/stockage/packages/f42/kcalutils/po/ta/libkcalutils6.po | 
+ | [nb_NO](/f42/language/nb_NO) | 776 | 1439 | 53.9 | /mnt/stockage/packages/f42/kcalutils/po/nb/libkcalutils6.po | 
+ | [nds](/f42/language/nds) | 767 | 1439 | 53.3 | /mnt/stockage/packages/f42/kcalutils/po/nds/libkcalutils6.po | 
+ | [ja](/f42/language/ja) | 660 | 1439 | 45.9 | /mnt/stockage/packages/f42/kcalutils/po/ja/libkcalutils6.po | 
+ | [bs](/f42/language/bs) | 657 | 1439 | 45.7 | /mnt/stockage/packages/f42/kcalutils/po/bs/libkcalutils6.po | 
+ | [kk](/f42/language/kk) | 657 | 1439 | 45.7 | /mnt/stockage/packages/f42/kcalutils/po/kk/libkcalutils6.po | 
+ | [km](/f42/language/km) | 625 | 1439 | 43.4 | /mnt/stockage/packages/f42/kcalutils/po/km/libkcalutils6.po | 
+ | [nn](/f42/language/nn) | 581 | 1439 | 40.4 | /mnt/stockage/packages/f42/kcalutils/po/nn/libkcalutils6.po | 
+ | [ug](/f42/language/ug) | 520 | 1439 | 36.1 | /mnt/stockage/packages/f42/kcalutils/po/ug/libkcalutils6.po | 
+ | [ga](/f42/language/ga) | 501 | 1439 | 34.8 | /mnt/stockage/packages/f42/kcalutils/po/ga/libkcalutils6.po | 
+ | [lt](/f42/language/lt) | 446 | 1439 | 31.0 | /mnt/stockage/packages/f42/kcalutils/po/lt/libkcalutils6.po | 
+ | [ro](/f42/language/ro) | 320 | 1439 | 22.2 | /mnt/stockage/packages/f42/kcalutils/po/ro/libkcalutils6.po | 
+ | [pa](/f42/language/pa) | 97 | 1439 | 6.7 | /mnt/stockage/packages/f42/kcalutils/po/pa/libkcalutils6.po | 
+ | [mai](/f42/language/mai) | 61 | 1439 | 4.2 | /mnt/stockage/packages/f42/kcalutils/po/mai/libkcalutils6.po | 
+ | [mr](/f42/language/mr) | 54 | 1439 | 3.8 | /mnt/stockage/packages/f42/kcalutils/po/mr/libkcalutils6.po | 
+ | [se](/f42/language/se) | 5 | 1439 | 0.3 | /mnt/stockage/packages/f42/kcalutils/po/se/libkcalutils6.po | 
+ | [ast](/f42/language/ast) | 1 | 1439 | 0.1 | /mnt/stockage/packages/f42/kcalutils/po/ast/libkcalutils6.po | 
+ | [hr](/f42/language/hr) | 1 | 1439 | 0.1 | /mnt/stockage/packages/f42/kcalutils/po/hr/libkcalutils6.po | 
 {.sortable}
 
 

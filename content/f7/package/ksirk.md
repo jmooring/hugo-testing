@@ -18,10 +18,10 @@ The package ksirk (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1331 | 1331 | 100.0 | /mnt/stockage/packages/f7/ksirk/po/fr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1294 | 1331 | 97.2 | /mnt/stockage/packages/f7/ksirk/po/pl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 875 | 1331 | 65.7 | /mnt/stockage/packages/f7/ksirk/po/de.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 203 | 1331 | 15.3 | /mnt/stockage/packages/f7/ksirk/po/it.po | 
+ | [fr](/f7/language/fr) | 1331 | 1331 | 100.0 | /mnt/stockage/packages/f7/ksirk/po/fr.po | 
+ | [pl](/f7/language/pl) | 1294 | 1331 | 97.2 | /mnt/stockage/packages/f7/ksirk/po/pl.po | 
+ | [de](/f7/language/de) | 875 | 1331 | 65.7 | /mnt/stockage/packages/f7/ksirk/po/de.po | 
+ | [it](/f7/language/it) | 203 | 1331 | 15.3 | /mnt/stockage/packages/f7/ksirk/po/it.po | 
 {.sortable}
 
 

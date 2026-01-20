@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [android-tools]({{< ref "/f35/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [initial-setup]({{< ref "/f35/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/) | 
- | [policycoreutils]({{< ref "/f35/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
- | [python-meh]({{< ref "/f35/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/) | 
+ | [android-tools](/f35/package/android-tools) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [initial-setup](/f35/package/initial-setup) | 0 | 33 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/initial-setup/language/aln/) | 
+ | [policycoreutils](/f35/package/policycoreutils) | 0 | 7678 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/fedora/language/aln/) | 
+ | [python-meh](/f35/package/python-meh) | 0 | 109 | 0.0 | Albanian Gheg (http://www.transifex.com/projects/p/python-meh/language/aln/) | 
 {.sortable}
 
 

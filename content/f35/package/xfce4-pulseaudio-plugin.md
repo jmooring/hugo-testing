@@ -18,50 +18,50 @@ The package xfce4-pulseaudio-plugin (version 0.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f35/language/be.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/bg.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/el.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/en_AU.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/eu.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/fr.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/gl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/he.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/hu.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/hy_AM.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ie.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/is.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/it.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ja.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/kk.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ko.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/lt.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ms.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/nb.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ru.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sk.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sl.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sq.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/th.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/zh_TW.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 122 | 148 | 82.4 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ga.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 111 | 148 | 75.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/id.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 98 | 148 | 66.2 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/oc.po | 
+ | [be](/f35/language/be) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/be.po | 
+ | [bg](/f35/language/bg) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/bg.po | 
+ | [ca](/f35/language/ca) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ca.po | 
+ | [cs](/f35/language/cs) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/cs.po | 
+ | [da](/f35/language/da) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/da.po | 
+ | [de](/f35/language/de) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/de.po | 
+ | [el](/f35/language/el) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/el.po | 
+ | [en_AU](/f35/language/en_AU) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/en_AU.po | 
+ | [es](/f35/language/es) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/es.po | 
+ | [eu](/f35/language/eu) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/eu.po | 
+ | [fi](/f35/language/fi) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/fi.po | 
+ | [fr](/f35/language/fr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/fr.po | 
+ | [gl](/f35/language/gl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/gl.po | 
+ | [he](/f35/language/he) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/he.po | 
+ | [hr](/f35/language/hr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/hr.po | 
+ | [hu](/f35/language/hu) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/hu.po | 
+ | [hy](/f35/language/hy) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/hy_AM.po | 
+ | [ie](/f35/language/ie) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ie.po | 
+ | [is](/f35/language/is) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/is.po | 
+ | [it](/f35/language/it) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/it.po | 
+ | [ja](/f35/language/ja) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ja.po | 
+ | [kk](/f35/language/kk) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/kk.po | 
+ | [ko](/f35/language/ko) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ko.po | 
+ | [lt](/f35/language/lt) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/lt.po | 
+ | [ms](/f35/language/ms) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ms.po | 
+ | [nb_NO](/f35/language/nb_NO) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/nb.po | 
+ | [nl](/f35/language/nl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/nl.po | 
+ | [pl](/f35/language/pl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/pl.po | 
+ | [pt](/f35/language/pt) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ru.po | 
+ | [sk](/f35/language/sk) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sk.po | 
+ | [sl](/f35/language/sl) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sl.po | 
+ | [sq](/f35/language/sq) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sq.po | 
+ | [sr](/f35/language/sr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sr.po | 
+ | [sv](/f35/language/sv) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/sv.po | 
+ | [th](/f35/language/th) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/th.po | 
+ | [tr](/f35/language/tr) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/tr.po | 
+ | [uk](/f35/language/uk) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 148 | 148 | 100.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/zh_TW.po | 
+ | [ga](/f35/language/ga) | 122 | 148 | 82.4 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/ga.po | 
+ | [id](/f35/language/id) | 111 | 148 | 75.0 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/id.po | 
+ | [oc](/f35/language/oc) | 98 | 148 | 66.2 | /mnt/stockage/packages/f35/xfce4-pulseaudio-plugin/po/oc.po | 
 {.sortable}
 
 

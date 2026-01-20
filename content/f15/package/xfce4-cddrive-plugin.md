@@ -18,7 +18,7 @@ The package xfce4-cddrive-plugin (version 0.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 318 | 318 | 100.0 | /mnt/stockage/packages/f15/xfce4-cddrive-plugin/po/fr.po | 
+ | [fr](/f15/language/fr) | 318 | 318 | 100.0 | /mnt/stockage/packages/f15/xfce4-cddrive-plugin/po/fr.po | 
 {.sortable}
 
 

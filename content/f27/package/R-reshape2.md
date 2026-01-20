@@ -18,7 +18,7 @@ The package R-reshape2 (version 1.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f27/R-reshape2/po/R-ko.po | 
+ | [ko](/f27/language/ko) | 46 | 46 | 100.0 | /mnt/stockage/packages/f27/R-reshape2/po/R-ko.po | 
 {.sortable}
 
 

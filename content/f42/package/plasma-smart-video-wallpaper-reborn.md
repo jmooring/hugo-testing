@@ -18,11 +18,11 @@ The package plasma-smart-video-wallpaper-reborn (version 2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/nl.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/ru.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 271 | 299 | 90.6 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/el_GR.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 186 | 299 | 62.2 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/pt_BR.po | 
- | [en_US]({{< ref "/f42/language/en_US.md" >}}) | 174 | 299 | 58.2 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/es.po | 
+ | [nl](/f42/language/nl) | 299 | 299 | 100.0 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/nl.po | 
+ | [ru](/f42/language/ru) | 299 | 299 | 100.0 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/ru.po | 
+ | [el](/f42/language/el) | 271 | 299 | 90.6 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/el_GR.po | 
+ | [pt_BR](/f42/language/pt_BR) | 186 | 299 | 62.2 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/pt_BR.po | 
+ | [en_US](/f42/language/en_US) | 174 | 299 | 58.2 | /mnt/stockage/packages/f42/plasma-smart-video-wallpaper-reborn/package/translate/es.po | 
 {.sortable}
 
 

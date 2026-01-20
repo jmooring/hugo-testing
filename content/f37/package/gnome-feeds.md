@@ -18,14 +18,14 @@ The package gnome-feeds (version 0.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 450 | 450 | 100.0 | /mnt/stockage/packages/f37/gnome-feeds/po/nl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 692 | 692 | 100.0 | /mnt/stockage/packages/f37/gnome-feeds/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 672 | 672 | 100.0 | /mnt/stockage/packages/f37/gnome-feeds/po/ru.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 925 | 933 | 99.1 | /mnt/stockage/packages/f37/gnome-feeds/po/it.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 426 | 435 | 97.9 | /mnt/stockage/packages/f37/gnome-feeds/po/pl.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 441 | 451 | 97.8 | /mnt/stockage/packages/f37/gnome-feeds/po/de.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 754 | 816 | 92.4 | /mnt/stockage/packages/f37/gnome-feeds/po/fr.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 420 | 720 | 58.3 | /mnt/stockage/packages/f37/gnome-feeds/po/es.po | 
+ | [nl](/f37/language/nl) | 450 | 450 | 100.0 | /mnt/stockage/packages/f37/gnome-feeds/po/nl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 692 | 692 | 100.0 | /mnt/stockage/packages/f37/gnome-feeds/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 672 | 672 | 100.0 | /mnt/stockage/packages/f37/gnome-feeds/po/ru.po | 
+ | [it](/f37/language/it) | 925 | 933 | 99.1 | /mnt/stockage/packages/f37/gnome-feeds/po/it.po | 
+ | [pl](/f37/language/pl) | 426 | 435 | 97.9 | /mnt/stockage/packages/f37/gnome-feeds/po/pl.po | 
+ | [de](/f37/language/de) | 441 | 451 | 97.8 | /mnt/stockage/packages/f37/gnome-feeds/po/de.po | 
+ | [fr](/f37/language/fr) | 754 | 816 | 92.4 | /mnt/stockage/packages/f37/gnome-feeds/po/fr.po | 
+ | [es](/f37/language/es) | 420 | 720 | 58.3 | /mnt/stockage/packages/f37/gnome-feeds/po/es.po | 
 {.sortable}
 
 

@@ -18,23 +18,23 @@ The package cockpit-podman (version 119.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/ar.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/de.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/es.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/fi.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/fr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/ka.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/ko.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/pt_BR.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/zh_Hant.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 1105 | 1121 | 98.6 | /mnt/stockage/packages/f42/cockpit-podman/po/ja.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 1048 | 1121 | 93.5 | /mnt/stockage/packages/f42/cockpit-podman/po/pl.po | 
+ | [ar](/f42/language/ar) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/ar.po | 
+ | [cs](/f42/language/cs) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/cs.po | 
+ | [de](/f42/language/de) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/de.po | 
+ | [es](/f42/language/es) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/es.po | 
+ | [fi](/f42/language/fi) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/fi.po | 
+ | [fr](/f42/language/fr) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/fr.po | 
+ | [it](/f42/language/it) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/it.po | 
+ | [ka](/f42/language/ka) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/ka.po | 
+ | [ko](/f42/language/ko) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/ko.po | 
+ | [pt_BR](/f42/language/pt_BR) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/pt_BR.po | 
+ | [sv](/f42/language/sv) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/sv.po | 
+ | [tr](/f42/language/tr) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/tr.po | 
+ | [uk](/f42/language/uk) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1121 | 1121 | 100.0 | /mnt/stockage/packages/f42/cockpit-podman/po/zh_Hant.po | 
+ | [ja](/f42/language/ja) | 1105 | 1121 | 98.6 | /mnt/stockage/packages/f42/cockpit-podman/po/ja.po | 
+ | [pl](/f42/language/pl) | 1048 | 1121 | 93.5 | /mnt/stockage/packages/f42/cockpit-podman/po/pl.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package naev-data (version 0.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 178469 | 236255 | 75.5 | /mnt/stockage/packages/f34/naev-data/po/de.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 107957 | 236255 | 45.7 | /mnt/stockage/packages/f34/naev-data/po/ja.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 11940 | 236255 | 5.1 | /mnt/stockage/packages/f34/naev-data/po/cs.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 11419 | 236255 | 4.8 | /mnt/stockage/packages/f34/naev-data/po/ko.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 6294 | 236255 | 2.7 | /mnt/stockage/packages/f34/naev-data/po/fr.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 3091 | 236255 | 1.3 | /mnt/stockage/packages/f34/naev-data/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f34/language/pt_PT.md" >}}) | 716 | 236255 | 0.3 | /mnt/stockage/packages/f34/naev-data/po/pt_PT.po | 
+ | [de](/f34/language/de) | 178469 | 236255 | 75.5 | /mnt/stockage/packages/f34/naev-data/po/de.po | 
+ | [ja](/f34/language/ja) | 107957 | 236255 | 45.7 | /mnt/stockage/packages/f34/naev-data/po/ja.po | 
+ | [cs](/f34/language/cs) | 11940 | 236255 | 5.1 | /mnt/stockage/packages/f34/naev-data/po/cs.po | 
+ | [ko](/f34/language/ko) | 11419 | 236255 | 4.8 | /mnt/stockage/packages/f34/naev-data/po/ko.po | 
+ | [fr](/f34/language/fr) | 6294 | 236255 | 2.7 | /mnt/stockage/packages/f34/naev-data/po/fr.po | 
+ | [pt_BR](/f34/language/pt_BR) | 3091 | 236255 | 1.3 | /mnt/stockage/packages/f34/naev-data/po/pt_BR.po | 
+ | [pt_PT](/f34/language/pt_PT) | 716 | 236255 | 0.3 | /mnt/stockage/packages/f34/naev-data/po/pt_PT.po | 
 {.sortable}
 
 

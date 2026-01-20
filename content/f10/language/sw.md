@@ -46,22 +46,22 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-update-control]({{< ref "/f10/package/sugar-update-control.md" >}}) | 128 | 159 | 80.5 | LANGUAGE <LL@li.org> | 
- | [tuxtype2]({{< ref "/f10/package/tuxtype2.md" >}}) | 63 | 79 | 79.7 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f10/package/tuxpaint.md" >}}) | 343 | 761 | 45.1 | Swahili | 
- | [tuxpaint-stamps]({{< ref "/f10/package/tuxpaint-stamps.md" >}}) | 721 | 2617 | 27.6 | Swahili | 
- | [virtaal]({{< ref "/f10/package/virtaal.md" >}}) | 155 | 675 | 23.0 | tzLUG Translators | 
- | [blueman]({{< ref "/f10/package/blueman.md" >}}) | 139 | 1034 | 13.4 | Swahili <sw@li.org> | 
- | [iso-codes]({{< ref "/f10/package/iso-codes.md" >}}) | 129 | 1077 | 12.0 | Swahili | 
- | [pidgin]({{< ref "/f10/package/pidgin.md" >}}) | 185 | 17989 | 1.0 | American English <kde-i18n-doc@lists.kde.org> | 
- | [sugar-finance]({{< ref "/f10/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f10/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f10/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f10/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f10/package/sugar-memorize.md" >}}) | 0 | 50 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f10/package/sugar-pippy.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f10/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f10/package/sugar-record.md" >}}) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-update-control](/f10/package/sugar-update-control) | 128 | 159 | 80.5 | LANGUAGE <LL@li.org> | 
+ | [tuxtype2](/f10/package/tuxtype2) | 63 | 79 | 79.7 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f10/package/tuxpaint) | 343 | 761 | 45.1 | Swahili | 
+ | [tuxpaint-stamps](/f10/package/tuxpaint-stamps) | 721 | 2617 | 27.6 | Swahili | 
+ | [virtaal](/f10/package/virtaal) | 155 | 675 | 23.0 | tzLUG Translators | 
+ | [blueman](/f10/package/blueman) | 139 | 1034 | 13.4 | Swahili <sw@li.org> | 
+ | [iso-codes](/f10/package/iso-codes) | 129 | 1077 | 12.0 | Swahili | 
+ | [pidgin](/f10/package/pidgin) | 185 | 17989 | 1.0 | American English <kde-i18n-doc@lists.kde.org> | 
+ | [sugar-finance](/f10/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f10/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f10/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f10/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f10/package/sugar-memorize) | 0 | 50 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f10/package/sugar-pippy) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f10/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f10/package/sugar-record) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

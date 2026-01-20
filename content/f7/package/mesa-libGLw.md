@@ -18,10 +18,10 @@ The package mesa-libGLw (version 6.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [de](/f7/language/de) | 270 | 270 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f7/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f7/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f7/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f7/mesa-libGLw/src/mesa/drivers/dri/common/xmlpool/nl.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package jalv_select (version 1.3.0^20231220gitaab00aa):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/jalv_select/po/fr_FR.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 0 | 69 | 0.0 | /mnt/stockage/packages/f41/jalv_select/po/de_DE.po | 
+ | [fr](/f41/language/fr) | 69 | 69 | 100.0 | /mnt/stockage/packages/f41/jalv_select/po/fr_FR.po | 
+ | [de](/f41/language/de) | 0 | 69 | 0.0 | /mnt/stockage/packages/f41/jalv_select/po/de_DE.po | 
 {.sortable}
 
 

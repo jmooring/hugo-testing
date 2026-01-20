@@ -18,14 +18,14 @@ The package seahorse-sharing (version 3.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/es.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/gl.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/lv.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/pl.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/sl.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 194 | 194 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/sr.po/mnt/stockage/packages/f18/seahorse-sharing/po/sr@latin.po | 
+ | [cs](/f18/language/cs) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/cs.po | 
+ | [de](/f18/language/de) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/de.po | 
+ | [es](/f18/language/es) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/es.po | 
+ | [gl](/f18/language/gl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/gl.po | 
+ | [lv](/f18/language/lv) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/lv.po | 
+ | [pl](/f18/language/pl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/pl.po | 
+ | [sl](/f18/language/sl) | 97 | 97 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/sl.po | 
+ | [sr](/f18/language/sr) | 194 | 194 | 100.0 | /mnt/stockage/packages/f18/seahorse-sharing/po/sr.po/mnt/stockage/packages/f18/seahorse-sharing/po/sr@latin.po | 
 {.sortable}
 
 

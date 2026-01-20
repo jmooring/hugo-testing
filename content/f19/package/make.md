@@ -18,30 +18,30 @@ The package make (version 3.82):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/fr.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/nl.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/pl.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/ru.po | 
- | [ga]({{< ref "/f19/language/ga.md" >}}) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/ga.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/id.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/sv.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/tr.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/vi.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/zh_CN.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 1569 | 2047 | 76.6 | /mnt/stockage/packages/f19/make/po/es.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 1556 | 2047 | 76.0 | /mnt/stockage/packages/f19/make/po/it.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 1508 | 2047 | 73.7 | /mnt/stockage/packages/f19/make/po/fi.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/da.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/gl.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/hr.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/ja.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 1463 | 2047 | 71.5 | /mnt/stockage/packages/f19/make/po/pt_BR.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 1260 | 2047 | 61.6 | /mnt/stockage/packages/f19/make/po/de.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 1168 | 2047 | 57.1 | /mnt/stockage/packages/f19/make/po/he.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 1168 | 2047 | 57.1 | /mnt/stockage/packages/f19/make/po/ko.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 847 | 2047 | 41.4 | /mnt/stockage/packages/f19/make/po/uk.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 596 | 2047 | 29.1 | /mnt/stockage/packages/f19/make/po/lt.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 467 | 2047 | 22.8 | /mnt/stockage/packages/f19/make/po/be.po | 
+ | [fr](/f19/language/fr) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/fr.po | 
+ | [nl](/f19/language/nl) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/nl.po | 
+ | [pl](/f19/language/pl) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/pl.po | 
+ | [ru](/f19/language/ru) | 2047 | 2047 | 100.0 | /mnt/stockage/packages/f19/make/po/ru.po | 
+ | [ga](/f19/language/ga) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/ga.po | 
+ | [id](/f19/language/id) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/id.po | 
+ | [sv](/f19/language/sv) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/sv.po | 
+ | [tr](/f19/language/tr) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/tr.po | 
+ | [vi](/f19/language/vi) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/vi.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 1592 | 2047 | 77.8 | /mnt/stockage/packages/f19/make/po/zh_CN.po | 
+ | [es](/f19/language/es) | 1569 | 2047 | 76.6 | /mnt/stockage/packages/f19/make/po/es.po | 
+ | [it](/f19/language/it) | 1556 | 2047 | 76.0 | /mnt/stockage/packages/f19/make/po/it.po | 
+ | [fi](/f19/language/fi) | 1508 | 2047 | 73.7 | /mnt/stockage/packages/f19/make/po/fi.po | 
+ | [da](/f19/language/da) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/da.po | 
+ | [gl](/f19/language/gl) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/gl.po | 
+ | [hr](/f19/language/hr) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/hr.po | 
+ | [ja](/f19/language/ja) | 1467 | 2047 | 71.7 | /mnt/stockage/packages/f19/make/po/ja.po | 
+ | [pt_BR](/f19/language/pt_BR) | 1463 | 2047 | 71.5 | /mnt/stockage/packages/f19/make/po/pt_BR.po | 
+ | [de](/f19/language/de) | 1260 | 2047 | 61.6 | /mnt/stockage/packages/f19/make/po/de.po | 
+ | [he](/f19/language/he) | 1168 | 2047 | 57.1 | /mnt/stockage/packages/f19/make/po/he.po | 
+ | [ko](/f19/language/ko) | 1168 | 2047 | 57.1 | /mnt/stockage/packages/f19/make/po/ko.po | 
+ | [uk](/f19/language/uk) | 847 | 2047 | 41.4 | /mnt/stockage/packages/f19/make/po/uk.po | 
+ | [lt](/f19/language/lt) | 596 | 2047 | 29.1 | /mnt/stockage/packages/f19/make/po/lt.po | 
+ | [be](/f19/language/be) | 467 | 2047 | 22.8 | /mnt/stockage/packages/f19/make/po/be.po | 
 {.sortable}
 
 

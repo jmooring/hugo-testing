@@ -18,16 +18,16 @@ The package eject (version 2.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/cs.po/mnt/stockage/packages/f12/eject/po/cs_CZ.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/de.po/mnt/stockage/packages/f12/eject/po/de_DE.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f12/eject/po/ja_JP.eucJP.po/mnt/stockage/packages/f12/eject/po/zh_TW.UTF-8.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 498 | 498 | 100.0 | /mnt/stockage/packages/f12/eject/po/es_ES.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 504 | 504 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/fr.po/mnt/stockage/packages/f12/eject/po/fr_FR.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/it.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/ja.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/nl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/pt_BR.po/mnt/stockage/packages/f12/eject/po/pt_BR.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 592 | 592 | 100.0 | /mnt/stockage/packages/f12/eject/po/tr_TR.po | 
+ | [cs](/f12/language/cs) | 521 | 521 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/cs.po/mnt/stockage/packages/f12/eject/po/cs_CZ.po | 
+ | [de](/f12/language/de) | 521 | 521 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/de.po/mnt/stockage/packages/f12/eject/po/de_DE.po | 
+ | [error](/f12/language/error) | 1013 | 1013 | 100.0 | /mnt/stockage/packages/f12/eject/po/ja_JP.eucJP.po/mnt/stockage/packages/f12/eject/po/zh_TW.UTF-8.po | 
+ | [es](/f12/language/es) | 498 | 498 | 100.0 | /mnt/stockage/packages/f12/eject/po/es_ES.po | 
+ | [fr](/f12/language/fr) | 504 | 504 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/fr.po/mnt/stockage/packages/f12/eject/po/fr_FR.po | 
+ | [it](/f12/language/it) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/it.po | 
+ | [ja](/f12/language/ja) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/ja.po | 
+ | [nl](/f12/language/nl) | 6 | 6 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/nl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 521 | 521 | 100.0 | /mnt/stockage/packages/f12/eject/debian/po/pt_BR.po/mnt/stockage/packages/f12/eject/po/pt_BR.po | 
+ | [tr](/f12/language/tr) | 592 | 592 | 100.0 | /mnt/stockage/packages/f12/eject/po/tr_TR.po | 
 {.sortable}
 
 

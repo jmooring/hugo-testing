@@ -18,12 +18,12 @@ The package freedink-dfarc (version 3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/it.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/mk.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 740 | 741 | 99.9 | /mnt/stockage/packages/f12/freedink-dfarc/po/de.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 721 | 730 | 98.8 | /mnt/stockage/packages/f12/freedink-dfarc/po/pl.po | 
+ | [fi](/f12/language/fi) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/fi.po | 
+ | [fr](/f12/language/fr) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/fr.po | 
+ | [it](/f12/language/it) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/it.po | 
+ | [mk](/f12/language/mk) | 741 | 741 | 100.0 | /mnt/stockage/packages/f12/freedink-dfarc/po/mk.po | 
+ | [de](/f12/language/de) | 740 | 741 | 99.9 | /mnt/stockage/packages/f12/freedink-dfarc/po/de.po | 
+ | [pl](/f12/language/pl) | 721 | 730 | 98.8 | /mnt/stockage/packages/f12/freedink-dfarc/po/pl.po | 
 {.sortable}
 
 

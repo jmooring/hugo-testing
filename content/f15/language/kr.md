@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gettext]({{< ref "/f15/package/gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [mingw32-gettext]({{< ref "/f15/package/mingw32-gettext.md" >}}) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
- | [askbot]({{< ref "/f15/package/askbot.md" >}}) | 655 | 5947 | 11.0 | LANGUAGE <LL@li.org> | 
- | [liblicense]({{< ref "/f15/package/liblicense.md" >}}) | 2 | 66 | 3.0 | LANGUAGE <LL@li.org> | 
+ | [gettext](/f15/package/gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [mingw32-gettext](/f15/package/mingw32-gettext) | 328 | 1714 | 19.1 | LANGUAGE <LL@li.org> | 
+ | [askbot](/f15/package/askbot) | 655 | 5947 | 11.0 | LANGUAGE <LL@li.org> | 
+ | [liblicense](/f15/package/liblicense) | 2 | 66 | 3.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

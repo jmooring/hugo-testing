@@ -18,11 +18,11 @@ The package aeskulap (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f23/aeskulap/po/pt.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 265 | 313 | 84.7 | /mnt/stockage/packages/f23/aeskulap/po/de.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 70 | 313 | 22.4 | /mnt/stockage/packages/f23/aeskulap/po/hu.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 0 | 313 | 0.0 | /mnt/stockage/packages/f23/aeskulap/po/en.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 0 | 313 | 0.0 | /mnt/stockage/packages/f23/aeskulap/po/es.po | 
+ | [pt](/f23/language/pt) | 313 | 313 | 100.0 | /mnt/stockage/packages/f23/aeskulap/po/pt.po | 
+ | [de](/f23/language/de) | 265 | 313 | 84.7 | /mnt/stockage/packages/f23/aeskulap/po/de.po | 
+ | [hu](/f23/language/hu) | 70 | 313 | 22.4 | /mnt/stockage/packages/f23/aeskulap/po/hu.po | 
+ | [en](/f23/language/en) | 0 | 313 | 0.0 | /mnt/stockage/packages/f23/aeskulap/po/en.po | 
+ | [es](/f23/language/es) | 0 | 313 | 0.0 | /mnt/stockage/packages/f23/aeskulap/po/es.po | 
 {.sortable}
 
 

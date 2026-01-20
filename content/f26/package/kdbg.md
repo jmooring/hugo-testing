@@ -18,26 +18,26 @@ The package kdbg (version 2.5.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 855 | 855 | 100.0 | /mnt/stockage/packages/f26/kdbg/po/de.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 855 | 855 | 100.0 | /mnt/stockage/packages/f26/kdbg/po/hr.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 835 | 855 | 97.7 | /mnt/stockage/packages/f26/kdbg/po/ru.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 818 | 855 | 95.7 | /mnt/stockage/packages/f26/kdbg/po/zh_CN.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 739 | 855 | 86.4 | /mnt/stockage/packages/f26/kdbg/po/es.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 396 | 855 | 46.3 | /mnt/stockage/packages/f26/kdbg/po/hu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 370 | 855 | 43.3 | /mnt/stockage/packages/f26/kdbg/po/fr.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 281 | 855 | 32.9 | /mnt/stockage/packages/f26/kdbg/po/cs.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 145 | 855 | 17.0 | /mnt/stockage/packages/f26/kdbg/po/sv.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/it.po | 
- | [nn]({{< ref "/f26/language/nn.md" >}}) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/nn.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/sr.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/tr.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 133 | 855 | 15.6 | /mnt/stockage/packages/f26/kdbg/po/pl.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 128 | 855 | 15.0 | /mnt/stockage/packages/f26/kdbg/po/ja.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 87 | 855 | 10.2 | /mnt/stockage/packages/f26/kdbg/po/da.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 77 | 855 | 9.0 | /mnt/stockage/packages/f26/kdbg/po/sk.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 70 | 855 | 8.2 | /mnt/stockage/packages/f26/kdbg/po/nb.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 50 | 855 | 5.8 | /mnt/stockage/packages/f26/kdbg/po/pt.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 50 | 855 | 5.8 | /mnt/stockage/packages/f26/kdbg/po/ro.po | 
+ | [de](/f26/language/de) | 855 | 855 | 100.0 | /mnt/stockage/packages/f26/kdbg/po/de.po | 
+ | [hr](/f26/language/hr) | 855 | 855 | 100.0 | /mnt/stockage/packages/f26/kdbg/po/hr.po | 
+ | [ru](/f26/language/ru) | 835 | 855 | 97.7 | /mnt/stockage/packages/f26/kdbg/po/ru.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 818 | 855 | 95.7 | /mnt/stockage/packages/f26/kdbg/po/zh_CN.po | 
+ | [es](/f26/language/es) | 739 | 855 | 86.4 | /mnt/stockage/packages/f26/kdbg/po/es.po | 
+ | [hu](/f26/language/hu) | 396 | 855 | 46.3 | /mnt/stockage/packages/f26/kdbg/po/hu.po | 
+ | [fr](/f26/language/fr) | 370 | 855 | 43.3 | /mnt/stockage/packages/f26/kdbg/po/fr.po | 
+ | [cs](/f26/language/cs) | 281 | 855 | 32.9 | /mnt/stockage/packages/f26/kdbg/po/cs.po | 
+ | [sv](/f26/language/sv) | 145 | 855 | 17.0 | /mnt/stockage/packages/f26/kdbg/po/sv.po | 
+ | [it](/f26/language/it) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/it.po | 
+ | [nn](/f26/language/nn) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/nn.po | 
+ | [sr](/f26/language/sr) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/sr.po | 
+ | [tr](/f26/language/tr) | 144 | 855 | 16.8 | /mnt/stockage/packages/f26/kdbg/po/tr.po | 
+ | [pl](/f26/language/pl) | 133 | 855 | 15.6 | /mnt/stockage/packages/f26/kdbg/po/pl.po | 
+ | [ja](/f26/language/ja) | 128 | 855 | 15.0 | /mnt/stockage/packages/f26/kdbg/po/ja.po | 
+ | [da](/f26/language/da) | 87 | 855 | 10.2 | /mnt/stockage/packages/f26/kdbg/po/da.po | 
+ | [sk](/f26/language/sk) | 77 | 855 | 9.0 | /mnt/stockage/packages/f26/kdbg/po/sk.po | 
+ | [nb_NO](/f26/language/nb_NO) | 70 | 855 | 8.2 | /mnt/stockage/packages/f26/kdbg/po/nb.po | 
+ | [pt](/f26/language/pt) | 50 | 855 | 5.8 | /mnt/stockage/packages/f26/kdbg/po/pt.po | 
+ | [ro](/f26/language/ro) | 50 | 855 | 5.8 | /mnt/stockage/packages/f26/kdbg/po/ro.po | 
 {.sortable}
 
 

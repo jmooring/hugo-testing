@@ -18,31 +18,31 @@ The package xfce4-wmdock-plugin (version 0.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ast.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/cs.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/de.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/eu.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ja.po | 
- | [kk]({{< ref "/f15/language/kk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/kk.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/lv.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/pt.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/sv.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/uk.po | 
- | [ur]({{< ref "/f15/language/ur.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ur.po | 
- | [ur_PK]({{< ref "/f15/language/ur_PK.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ur_PK.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/zh_CN.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 45 | 52 | 86.5 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/pt_BR.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 33 | 52 | 63.5 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ug.po | 
+ | [ast](/f15/language/ast) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ast.po | 
+ | [ca](/f15/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ca.po | 
+ | [cs](/f15/language/cs) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/cs.po | 
+ | [da](/f15/language/da) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/da.po | 
+ | [de](/f15/language/de) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/de.po | 
+ | [el](/f15/language/el) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/en_GB.po | 
+ | [eu](/f15/language/eu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/eu.po | 
+ | [fr](/f15/language/fr) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/fr.po | 
+ | [gl](/f15/language/gl) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/gl.po | 
+ | [hu](/f15/language/hu) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/hu.po | 
+ | [id](/f15/language/id) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/id.po | 
+ | [it](/f15/language/it) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/it.po | 
+ | [ja](/f15/language/ja) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ja.po | 
+ | [kk](/f15/language/kk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/kk.po | 
+ | [lv](/f15/language/lv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/lv.po | 
+ | [pt](/f15/language/pt) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/pt.po | 
+ | [ru](/f15/language/ru) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ru.po | 
+ | [sv](/f15/language/sv) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/sv.po | 
+ | [uk](/f15/language/uk) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/uk.po | 
+ | [ur](/f15/language/ur) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ur.po | 
+ | [ur_PK](/f15/language/ur_PK) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ur_PK.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/zh_CN.po | 
+ | [pt_BR](/f15/language/pt_BR) | 45 | 52 | 86.5 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/pt_BR.po | 
+ | [ug](/f15/language/ug) | 33 | 52 | 63.5 | /mnt/stockage/packages/f15/xfce4-wmdock-plugin/po/ug.po | 
 {.sortable}
 
 

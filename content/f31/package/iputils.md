@@ -18,7 +18,7 @@ The package iputils (version 20190515):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 1212 | 1317 | 92.0 | /mnt/stockage/packages/f31/iputils/po/ja.po | 
+ | [ja](/f31/language/ja) | 1212 | 1317 | 92.0 | /mnt/stockage/packages/f31/iputils/po/ja.po | 
 {.sortable}
 
 

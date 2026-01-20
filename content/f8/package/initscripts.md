@@ -18,72 +18,72 @@ The package initscripts (version 8.60):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f8/language/as.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/as.po | 
- | [bg]({{< ref "/f8/language/bg.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/bg.po | 
- | [bn_IN]({{< ref "/f8/language/bn_IN.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/bn_IN.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/de.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/sr@Latn.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/es.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/gu.po | 
- | [hi]({{< ref "/f8/language/hi.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/hi.po | 
- | [hr]({{< ref "/f8/language/hr.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/hr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/it.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ja.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ko.po | 
- | [ml]({{< ref "/f8/language/ml.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ml.po | 
- | [mr]({{< ref "/f8/language/mr.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/mr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/nl.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pa.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pt.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pt_BR.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/sl.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/sr.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ta.po | 
- | [te]({{< ref "/f8/language/te.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/te.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/zh_CN.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 3728 | 3733 | 99.9 | /mnt/stockage/packages/f8/initscripts/po/ca.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 3716 | 3733 | 99.5 | /mnt/stockage/packages/f8/initscripts/po/nb.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 3622 | 3733 | 97.0 | /mnt/stockage/packages/f8/initscripts/po/fi.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 3485 | 3733 | 93.4 | /mnt/stockage/packages/f8/initscripts/po/el.po | 
- | [kn]({{< ref "/f8/language/kn.md" >}}) | 3427 | 3733 | 91.8 | /mnt/stockage/packages/f8/initscripts/po/kn.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 3413 | 3733 | 91.4 | /mnt/stockage/packages/f8/initscripts/po/sv.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 3344 | 3733 | 89.6 | /mnt/stockage/packages/f8/initscripts/po/ru.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 3283 | 3733 | 87.9 | /mnt/stockage/packages/f8/initscripts/po/uk.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/da.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/en_GB.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/hu.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/mk.po | 
- | [or]({{< ref "/f8/language/or.md" >}}) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/or.po | 
- | [is]({{< ref "/f8/language/is.md" >}}) | 3058 | 3733 | 81.9 | /mnt/stockage/packages/f8/initscripts/po/is.po | 
- | [bs]({{< ref "/f8/language/bs.md" >}}) | 2870 | 3733 | 76.9 | /mnt/stockage/packages/f8/initscripts/po/bs.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 2870 | 3733 | 76.9 | /mnt/stockage/packages/f8/initscripts/po/zh_TW.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 2550 | 3733 | 68.3 | /mnt/stockage/packages/f8/initscripts/po/ro.po | 
- | [bn]({{< ref "/f8/language/bn.md" >}}) | 2482 | 3733 | 66.5 | /mnt/stockage/packages/f8/initscripts/po/bn.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 2474 | 3733 | 66.3 | /mnt/stockage/packages/f8/initscripts/po/cy.po | 
- | [ms]({{< ref "/f8/language/ms.md" >}}) | 2311 | 3733 | 61.9 | /mnt/stockage/packages/f8/initscripts/po/ms.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 2193 | 3733 | 58.7 | /mnt/stockage/packages/f8/initscripts/po/tr.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 2041 | 3733 | 54.7 | /mnt/stockage/packages/f8/initscripts/po/et.po | 
- | [id]({{< ref "/f8/language/id.md" >}}) | 1996 | 3733 | 53.5 | /mnt/stockage/packages/f8/initscripts/po/id.po | 
- | [ar]({{< ref "/f8/language/ar.md" >}}) | 1962 | 3733 | 52.6 | /mnt/stockage/packages/f8/initscripts/po/ar.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 1648 | 3733 | 44.1 | /mnt/stockage/packages/f8/initscripts/po/sk.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 1277 | 3733 | 34.2 | /mnt/stockage/packages/f8/initscripts/po/lt.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 1243 | 3733 | 33.3 | /mnt/stockage/packages/f8/initscripts/po/vi.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 776 | 3733 | 20.8 | /mnt/stockage/packages/f8/initscripts/po/gl.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 228 | 3733 | 6.1 | /mnt/stockage/packages/f8/initscripts/po/ka.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 53 | 3733 | 1.4 | /mnt/stockage/packages/f8/initscripts/po/nn.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/eu_ES.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/he.po | 
- | [hy]({{< ref "/f8/language/hy.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/hy.po | 
- | [ku]({{< ref "/f8/language/ku.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/ku.po | 
- | [lo]({{< ref "/f8/language/lo.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/lo.po | 
- | [my]({{< ref "/f8/language/my.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/my.po | 
- | [si]({{< ref "/f8/language/si.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/si.po | 
- | [sq]({{< ref "/f8/language/sq.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/sq.po | 
- | [ur]({{< ref "/f8/language/ur.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/ur.po | 
- | [wa]({{< ref "/f8/language/wa.md" >}}) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/wa.po | 
+ | [as](/f8/language/as) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/as.po | 
+ | [bg](/f8/language/bg) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/bg.po | 
+ | [bn_IN](/f8/language/bn_IN) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/bn_IN.po | 
+ | [cs](/f8/language/cs) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/cs.po | 
+ | [de](/f8/language/de) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/de.po | 
+ | [error](/f8/language/error) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/sr@Latn.po | 
+ | [es](/f8/language/es) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/es.po | 
+ | [gu](/f8/language/gu) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/gu.po | 
+ | [hi](/f8/language/hi) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/hi.po | 
+ | [hr](/f8/language/hr) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/hr.po | 
+ | [it](/f8/language/it) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/it.po | 
+ | [ja](/f8/language/ja) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ja.po | 
+ | [ko](/f8/language/ko) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ko.po | 
+ | [ml](/f8/language/ml) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ml.po | 
+ | [mr](/f8/language/mr) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/mr.po | 
+ | [nl](/f8/language/nl) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/nl.po | 
+ | [pa](/f8/language/pa) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pa.po | 
+ | [pl](/f8/language/pl) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pl.po | 
+ | [pt](/f8/language/pt) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pt.po | 
+ | [pt_BR](/f8/language/pt_BR) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/pt_BR.po | 
+ | [sl](/f8/language/sl) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/sl.po | 
+ | [sr](/f8/language/sr) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/sr.po | 
+ | [ta](/f8/language/ta) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/ta.po | 
+ | [te](/f8/language/te) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/te.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 3733 | 3733 | 100.0 | /mnt/stockage/packages/f8/initscripts/po/zh_CN.po | 
+ | [ca](/f8/language/ca) | 3728 | 3733 | 99.9 | /mnt/stockage/packages/f8/initscripts/po/ca.po | 
+ | [nb_NO](/f8/language/nb_NO) | 3716 | 3733 | 99.5 | /mnt/stockage/packages/f8/initscripts/po/nb.po | 
+ | [fi](/f8/language/fi) | 3622 | 3733 | 97.0 | /mnt/stockage/packages/f8/initscripts/po/fi.po | 
+ | [el](/f8/language/el) | 3485 | 3733 | 93.4 | /mnt/stockage/packages/f8/initscripts/po/el.po | 
+ | [kn](/f8/language/kn) | 3427 | 3733 | 91.8 | /mnt/stockage/packages/f8/initscripts/po/kn.po | 
+ | [sv](/f8/language/sv) | 3413 | 3733 | 91.4 | /mnt/stockage/packages/f8/initscripts/po/sv.po | 
+ | [ru](/f8/language/ru) | 3344 | 3733 | 89.6 | /mnt/stockage/packages/f8/initscripts/po/ru.po | 
+ | [uk](/f8/language/uk) | 3283 | 3733 | 87.9 | /mnt/stockage/packages/f8/initscripts/po/uk.po | 
+ | [da](/f8/language/da) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/da.po | 
+ | [en_GB](/f8/language/en_GB) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/en_GB.po | 
+ | [fr](/f8/language/fr) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/fr.po | 
+ | [hu](/f8/language/hu) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/hu.po | 
+ | [mk](/f8/language/mk) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/mk.po | 
+ | [or](/f8/language/or) | 3260 | 3733 | 87.3 | /mnt/stockage/packages/f8/initscripts/po/or.po | 
+ | [is](/f8/language/is) | 3058 | 3733 | 81.9 | /mnt/stockage/packages/f8/initscripts/po/is.po | 
+ | [bs](/f8/language/bs) | 2870 | 3733 | 76.9 | /mnt/stockage/packages/f8/initscripts/po/bs.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 2870 | 3733 | 76.9 | /mnt/stockage/packages/f8/initscripts/po/zh_TW.po | 
+ | [ro](/f8/language/ro) | 2550 | 3733 | 68.3 | /mnt/stockage/packages/f8/initscripts/po/ro.po | 
+ | [bn](/f8/language/bn) | 2482 | 3733 | 66.5 | /mnt/stockage/packages/f8/initscripts/po/bn.po | 
+ | [cy](/f8/language/cy) | 2474 | 3733 | 66.3 | /mnt/stockage/packages/f8/initscripts/po/cy.po | 
+ | [ms](/f8/language/ms) | 2311 | 3733 | 61.9 | /mnt/stockage/packages/f8/initscripts/po/ms.po | 
+ | [tr](/f8/language/tr) | 2193 | 3733 | 58.7 | /mnt/stockage/packages/f8/initscripts/po/tr.po | 
+ | [et](/f8/language/et) | 2041 | 3733 | 54.7 | /mnt/stockage/packages/f8/initscripts/po/et.po | 
+ | [id](/f8/language/id) | 1996 | 3733 | 53.5 | /mnt/stockage/packages/f8/initscripts/po/id.po | 
+ | [ar](/f8/language/ar) | 1962 | 3733 | 52.6 | /mnt/stockage/packages/f8/initscripts/po/ar.po | 
+ | [sk](/f8/language/sk) | 1648 | 3733 | 44.1 | /mnt/stockage/packages/f8/initscripts/po/sk.po | 
+ | [lt](/f8/language/lt) | 1277 | 3733 | 34.2 | /mnt/stockage/packages/f8/initscripts/po/lt.po | 
+ | [vi](/f8/language/vi) | 1243 | 3733 | 33.3 | /mnt/stockage/packages/f8/initscripts/po/vi.po | 
+ | [gl](/f8/language/gl) | 776 | 3733 | 20.8 | /mnt/stockage/packages/f8/initscripts/po/gl.po | 
+ | [ka](/f8/language/ka) | 228 | 3733 | 6.1 | /mnt/stockage/packages/f8/initscripts/po/ka.po | 
+ | [nn](/f8/language/nn) | 53 | 3733 | 1.4 | /mnt/stockage/packages/f8/initscripts/po/nn.po | 
+ | [eu](/f8/language/eu) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/eu_ES.po | 
+ | [he](/f8/language/he) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/he.po | 
+ | [hy](/f8/language/hy) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/hy.po | 
+ | [ku](/f8/language/ku) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/ku.po | 
+ | [lo](/f8/language/lo) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/lo.po | 
+ | [my](/f8/language/my) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/my.po | 
+ | [si](/f8/language/si) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/si.po | 
+ | [sq](/f8/language/sq) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/sq.po | 
+ | [ur](/f8/language/ur) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/ur.po | 
+ | [wa](/f8/language/wa) | 0 | 3733 | 0.0 | /mnt/stockage/packages/f8/initscripts/po/wa.po | 
 {.sortable}
 
 

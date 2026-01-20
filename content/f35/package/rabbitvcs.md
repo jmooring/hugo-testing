@@ -18,32 +18,32 @@ The package rabbitvcs (version 0.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 931 | 931 | 100.0 | /mnt/stockage/packages/f35/rabbitvcs/po/de.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1729 | 1729 | 100.0 | /mnt/stockage/packages/f35/rabbitvcs/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f35/rabbitvcs/po/hu.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1480 | 1524 | 97.1 | /mnt/stockage/packages/f35/rabbitvcs/po/nl.po | 
- | [es_CL]({{< ref "/f35/language/es_CL.md" >}}) | 859 | 931 | 92.3 | /mnt/stockage/packages/f35/rabbitvcs/po/es_CL.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1335 | 1524 | 87.6 | /mnt/stockage/packages/f35/rabbitvcs/po/pt_BR.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/es.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/hr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/it.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/nb.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1283 | 1524 | 84.2 | /mnt/stockage/packages/f35/rabbitvcs/po/zh_CN.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 993 | 1524 | 65.2 | /mnt/stockage/packages/f35/rabbitvcs/po/sv.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 939 | 1524 | 61.6 | /mnt/stockage/packages/f35/rabbitvcs/po/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 912 | 1524 | 59.8 | /mnt/stockage/packages/f35/rabbitvcs/po/ru.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 826 | 1524 | 54.2 | /mnt/stockage/packages/f35/rabbitvcs/po/ja.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 672 | 1524 | 44.1 | /mnt/stockage/packages/f35/rabbitvcs/po/sk.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 340 | 931 | 36.5 | /mnt/stockage/packages/f35/rabbitvcs/po/cs.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 348 | 1524 | 22.8 | /mnt/stockage/packages/f35/rabbitvcs/po/ro.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 179 | 1524 | 11.7 | /mnt/stockage/packages/f35/rabbitvcs/po/he.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 163 | 1524 | 10.7 | /mnt/stockage/packages/f35/rabbitvcs/po/zh_TW.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 150 | 1524 | 9.8 | /mnt/stockage/packages/f35/rabbitvcs/po/oc.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 139 | 1524 | 9.1 | /mnt/stockage/packages/f35/rabbitvcs/po/sl.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 53 | 1524 | 3.5 | /mnt/stockage/packages/f35/rabbitvcs/po/fi.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 20 | 1524 | 1.3 | /mnt/stockage/packages/f35/rabbitvcs/po/fa.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 18 | 1524 | 1.2 | /mnt/stockage/packages/f35/rabbitvcs/po/sr.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 0 | 1524 | 0.0 | /mnt/stockage/packages/f35/rabbitvcs/po/th.po | 
+ | [de](/f35/language/de) | 931 | 931 | 100.0 | /mnt/stockage/packages/f35/rabbitvcs/po/de.po | 
+ | [fr](/f35/language/fr) | 1729 | 1729 | 100.0 | /mnt/stockage/packages/f35/rabbitvcs/po/fr.po | 
+ | [hu](/f35/language/hu) | 1205 | 1205 | 100.0 | /mnt/stockage/packages/f35/rabbitvcs/po/hu.po | 
+ | [nl](/f35/language/nl) | 1480 | 1524 | 97.1 | /mnt/stockage/packages/f35/rabbitvcs/po/nl.po | 
+ | [es_CL](/f35/language/es_CL) | 859 | 931 | 92.3 | /mnt/stockage/packages/f35/rabbitvcs/po/es_CL.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1335 | 1524 | 87.6 | /mnt/stockage/packages/f35/rabbitvcs/po/pt_BR.po | 
+ | [es](/f35/language/es) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/es.po | 
+ | [hr](/f35/language/hr) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/hr.po | 
+ | [it](/f35/language/it) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/it.po | 
+ | [nb_NO](/f35/language/nb_NO) | 1284 | 1524 | 84.3 | /mnt/stockage/packages/f35/rabbitvcs/po/nb.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1283 | 1524 | 84.2 | /mnt/stockage/packages/f35/rabbitvcs/po/zh_CN.po | 
+ | [sv](/f35/language/sv) | 993 | 1524 | 65.2 | /mnt/stockage/packages/f35/rabbitvcs/po/sv.po | 
+ | [pl](/f35/language/pl) | 939 | 1524 | 61.6 | /mnt/stockage/packages/f35/rabbitvcs/po/pl.po | 
+ | [ru](/f35/language/ru) | 912 | 1524 | 59.8 | /mnt/stockage/packages/f35/rabbitvcs/po/ru.po | 
+ | [ja](/f35/language/ja) | 826 | 1524 | 54.2 | /mnt/stockage/packages/f35/rabbitvcs/po/ja.po | 
+ | [sk](/f35/language/sk) | 672 | 1524 | 44.1 | /mnt/stockage/packages/f35/rabbitvcs/po/sk.po | 
+ | [cs](/f35/language/cs) | 340 | 931 | 36.5 | /mnt/stockage/packages/f35/rabbitvcs/po/cs.po | 
+ | [ro](/f35/language/ro) | 348 | 1524 | 22.8 | /mnt/stockage/packages/f35/rabbitvcs/po/ro.po | 
+ | [he](/f35/language/he) | 179 | 1524 | 11.7 | /mnt/stockage/packages/f35/rabbitvcs/po/he.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 163 | 1524 | 10.7 | /mnt/stockage/packages/f35/rabbitvcs/po/zh_TW.po | 
+ | [oc](/f35/language/oc) | 150 | 1524 | 9.8 | /mnt/stockage/packages/f35/rabbitvcs/po/oc.po | 
+ | [sl](/f35/language/sl) | 139 | 1524 | 9.1 | /mnt/stockage/packages/f35/rabbitvcs/po/sl.po | 
+ | [fi](/f35/language/fi) | 53 | 1524 | 3.5 | /mnt/stockage/packages/f35/rabbitvcs/po/fi.po | 
+ | [fa](/f35/language/fa) | 20 | 1524 | 1.3 | /mnt/stockage/packages/f35/rabbitvcs/po/fa.po | 
+ | [sr](/f35/language/sr) | 18 | 1524 | 1.2 | /mnt/stockage/packages/f35/rabbitvcs/po/sr.po | 
+ | [th](/f35/language/th) | 0 | 1524 | 0.0 | /mnt/stockage/packages/f35/rabbitvcs/po/th.po | 
 {.sortable}
 
 

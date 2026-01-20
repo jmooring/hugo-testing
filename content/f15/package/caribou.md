@@ -18,42 +18,42 @@ The package caribou (version 0.2.00):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ast.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/bg.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f15/caribou/po/de.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/es.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 176 | 176 | 100.0 | /mnt/stockage/packages/f15/caribou/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/id.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ja.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ml.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ms.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/nl.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/caribou/po/nn.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/caribou/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ru.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sl.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sr@latin.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ta.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ug.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/zh_HK.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 42 | 46 | 91.3 | /mnt/stockage/packages/f15/caribou/po/ca.po/mnt/stockage/packages/f15/caribou/po/ca@valencia.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 128 | 176 | 72.7 | /mnt/stockage/packages/f15/caribou/po/cs.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 106 | 176 | 60.2 | /mnt/stockage/packages/f15/caribou/po/zh_CN.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 93 | 182 | 51.1 | /mnt/stockage/packages/f15/caribou/po/it.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 63 | 182 | 34.6 | /mnt/stockage/packages/f15/caribou/po/nb.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 15 | 182 | 8.2 | /mnt/stockage/packages/f15/caribou/po/ar.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 8 | 182 | 4.4 | /mnt/stockage/packages/f15/caribou/po/el.po | 
+ | [ast](/f15/language/ast) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ast.po | 
+ | [bg](/f15/language/bg) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/bg.po | 
+ | [da](/f15/language/da) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/da.po | 
+ | [de](/f15/language/de) | 176 | 176 | 100.0 | /mnt/stockage/packages/f15/caribou/po/de.po | 
+ | [en_GB](/f15/language/en_GB) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/en_GB.po | 
+ | [es](/f15/language/es) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/es.po | 
+ | [fr](/f15/language/fr) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/fr.po | 
+ | [gl](/f15/language/gl) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/gl.po | 
+ | [he](/f15/language/he) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/he.po | 
+ | [hu](/f15/language/hu) | 176 | 176 | 100.0 | /mnt/stockage/packages/f15/caribou/po/hu.po | 
+ | [id](/f15/language/id) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/id.po | 
+ | [ja](/f15/language/ja) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ja.po | 
+ | [ml](/f15/language/ml) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ml.po | 
+ | [ms](/f15/language/ms) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ms.po | 
+ | [nl](/f15/language/nl) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/nl.po | 
+ | [nn](/f15/language/nn) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/caribou/po/nn.po | 
+ | [pa](/f15/language/pa) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/caribou/po/pa.po | 
+ | [pl](/f15/language/pl) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ro.po | 
+ | [ru](/f15/language/ru) | 16 | 16 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ru.po | 
+ | [sl](/f15/language/sl) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sl.po | 
+ | [sr](/f15/language/sr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sr@latin.po | 
+ | [sv](/f15/language/sv) | 182 | 182 | 100.0 | /mnt/stockage/packages/f15/caribou/po/sv.po | 
+ | [ta](/f15/language/ta) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ta.po | 
+ | [ug](/f15/language/ug) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/ug.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/zh_TW.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/caribou/po/zh_HK.po | 
+ | [ca](/f15/language/ca) | 42 | 46 | 91.3 | /mnt/stockage/packages/f15/caribou/po/ca.po/mnt/stockage/packages/f15/caribou/po/ca@valencia.po | 
+ | [cs](/f15/language/cs) | 128 | 176 | 72.7 | /mnt/stockage/packages/f15/caribou/po/cs.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 106 | 176 | 60.2 | /mnt/stockage/packages/f15/caribou/po/zh_CN.po | 
+ | [it](/f15/language/it) | 93 | 182 | 51.1 | /mnt/stockage/packages/f15/caribou/po/it.po | 
+ | [nb_NO](/f15/language/nb_NO) | 63 | 182 | 34.6 | /mnt/stockage/packages/f15/caribou/po/nb.po | 
+ | [ar](/f15/language/ar) | 15 | 182 | 8.2 | /mnt/stockage/packages/f15/caribou/po/ar.po | 
+ | [el](/f15/language/el) | 8 | 182 | 4.4 | /mnt/stockage/packages/f15/caribou/po/el.po | 
 {.sortable}
 
 

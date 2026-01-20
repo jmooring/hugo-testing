@@ -18,31 +18,31 @@ The package eiciel (version 0.9.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/ar.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/es.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/id.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/ja.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/nl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/zh_CN.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 165 | 192 | 85.9 | /mnt/stockage/packages/f35/eiciel/po/it.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 160 | 192 | 83.3 | /mnt/stockage/packages/f35/eiciel/po/sv.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/fa.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/fr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/hu.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/ko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/ru.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/uk.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/zh_TW.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 12 | 192 | 6.2 | /mnt/stockage/packages/f35/eiciel/po/hi.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 9 | 192 | 4.7 | /mnt/stockage/packages/f35/eiciel/po/en_GB.po | 
- | [en_US]({{< ref "/f35/language/en_US.md" >}}) | 3 | 192 | 1.6 | /mnt/stockage/packages/f35/eiciel/po/en_US.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 0 | 192 | 0.0 | /mnt/stockage/packages/f35/eiciel/po/nn.po | 
+ | [ar](/f35/language/ar) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/ar.po | 
+ | [ca](/f35/language/ca) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/ca.po | 
+ | [cs](/f35/language/cs) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/cs.po | 
+ | [da](/f35/language/da) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/da.po | 
+ | [de](/f35/language/de) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/de.po | 
+ | [es](/f35/language/es) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/es.po | 
+ | [id](/f35/language/id) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/id.po | 
+ | [ja](/f35/language/ja) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/ja.po | 
+ | [nl](/f35/language/nl) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/nl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/pt_BR.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 192 | 192 | 100.0 | /mnt/stockage/packages/f35/eiciel/po/zh_CN.po | 
+ | [it](/f35/language/it) | 165 | 192 | 85.9 | /mnt/stockage/packages/f35/eiciel/po/it.po | 
+ | [sv](/f35/language/sv) | 160 | 192 | 83.3 | /mnt/stockage/packages/f35/eiciel/po/sv.po | 
+ | [fa](/f35/language/fa) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/fa.po | 
+ | [fr](/f35/language/fr) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/fr.po | 
+ | [hu](/f35/language/hu) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/hu.po | 
+ | [ko](/f35/language/ko) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/ko.po | 
+ | [pl](/f35/language/pl) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/pl.po | 
+ | [ru](/f35/language/ru) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/ru.po | 
+ | [uk](/f35/language/uk) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/uk.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 158 | 192 | 82.3 | /mnt/stockage/packages/f35/eiciel/po/zh_TW.po | 
+ | [hi](/f35/language/hi) | 12 | 192 | 6.2 | /mnt/stockage/packages/f35/eiciel/po/hi.po | 
+ | [en_GB](/f35/language/en_GB) | 9 | 192 | 4.7 | /mnt/stockage/packages/f35/eiciel/po/en_GB.po | 
+ | [en_US](/f35/language/en_US) | 3 | 192 | 1.6 | /mnt/stockage/packages/f35/eiciel/po/en_US.po | 
+ | [nn](/f35/language/nn) | 0 | 192 | 0.0 | /mnt/stockage/packages/f35/eiciel/po/nn.po | 
 {.sortable}
 
 

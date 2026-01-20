@@ -18,15 +18,15 @@ The package specto (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/cs/specto.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/es/specto.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/fr/specto.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/it/specto.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/pt_BR/specto.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/sv/specto.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 617 | 675 | 91.4 | /mnt/stockage/packages/f9/specto/po/tr/specto.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 568 | 675 | 84.1 | /mnt/stockage/packages/f9/specto/po/de/specto.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 325 | 675 | 48.1 | /mnt/stockage/packages/f9/specto/po/ro/specto.po | 
+ | [cs](/f9/language/cs) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/cs/specto.po | 
+ | [es](/f9/language/es) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/es/specto.po | 
+ | [fr](/f9/language/fr) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/fr/specto.po | 
+ | [it](/f9/language/it) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/it/specto.po | 
+ | [pt_BR](/f9/language/pt_BR) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/pt_BR/specto.po | 
+ | [sv](/f9/language/sv) | 675 | 675 | 100.0 | /mnt/stockage/packages/f9/specto/po/sv/specto.po | 
+ | [tr](/f9/language/tr) | 617 | 675 | 91.4 | /mnt/stockage/packages/f9/specto/po/tr/specto.po | 
+ | [de](/f9/language/de) | 568 | 675 | 84.1 | /mnt/stockage/packages/f9/specto/po/de/specto.po | 
+ | [ro](/f9/language/ro) | 325 | 675 | 48.1 | /mnt/stockage/packages/f9/specto/po/ro/specto.po | 
 {.sortable}
 
 

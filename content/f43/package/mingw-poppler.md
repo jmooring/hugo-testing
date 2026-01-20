@@ -18,7 +18,7 @@ The package mingw-poppler (version 25.07.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 6 | 6 | 100.0 | /mnt/stockage/packages/f43/mingw-poppler/utils/po/ca/pdfsig.po | 
+ | [ca](/f43/language/ca) | 6 | 6 | 100.0 | /mnt/stockage/packages/f43/mingw-poppler/utils/po/ca/pdfsig.po | 
 {.sortable}
 
 

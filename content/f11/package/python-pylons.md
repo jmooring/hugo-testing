@@ -18,7 +18,7 @@ The package python-pylons (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f11/python-pylons/tests/test_webapps/filestotest/messages.ja.po | 
+ | [ja](/f11/language/ja) | 13 | 13 | 100.0 | /mnt/stockage/packages/f11/python-pylons/tests/test_webapps/filestotest/messages.ja.po | 
 {.sortable}
 
 

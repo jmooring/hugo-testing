@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [elementary-greeter]({{< ref "/f33/package/elementary-greeter.md" >}}) | 0 | 88 | 0.0 | Acehnese <ace@li.org> | 
- | [iso-codes]({{< ref "/f33/package/iso-codes.md" >}}) | 0 | 982 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
- | [onboard]({{< ref "/f33/package/onboard.md" >}}) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
+ | [elementary-greeter](/f33/package/elementary-greeter) | 0 | 88 | 0.0 | Acehnese <ace@li.org> | 
+ | [iso-codes](/f33/package/iso-codes) | 0 | 982 | 0.0 | Acehnese <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ace/> | 
+ | [onboard](/f33/package/onboard) | 0 | 2318 | 0.0 | Acehnese <ace@li.org> | 
 {.sortable}
 
 

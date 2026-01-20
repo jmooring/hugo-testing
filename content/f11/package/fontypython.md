@@ -18,7 +18,7 @@ The package fontypython (version 0.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f11/language/it.md" >}}) | 1663 | 2203 | 75.5 | /mnt/stockage/packages/f11/fontypython/fontypythonmodules/pofiles/it_all.merged.po | 
+ | [it](/f11/language/it) | 1663 | 2203 | 75.5 | /mnt/stockage/packages/f11/fontypython/fontypythonmodules/pofiles/it_all.merged.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package gmpc (version 0.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 889 | 889 | 100.0 | /mnt/stockage/packages/f10/gmpc/po/pl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 848 | 889 | 95.4 | /mnt/stockage/packages/f10/gmpc/po/it.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 867 | 943 | 91.9 | /mnt/stockage/packages/f10/gmpc/po/hu.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 815 | 889 | 91.7 | /mnt/stockage/packages/f10/gmpc/po/cs.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 636 | 889 | 71.5 | /mnt/stockage/packages/f10/gmpc/po/ru.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 623 | 889 | 70.1 | /mnt/stockage/packages/f10/gmpc/po/es.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 591 | 889 | 66.5 | /mnt/stockage/packages/f10/gmpc/po/nb.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 580 | 889 | 65.2 | /mnt/stockage/packages/f10/gmpc/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 567 | 889 | 63.8 | /mnt/stockage/packages/f10/gmpc/po/fr.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 527 | 889 | 59.3 | /mnt/stockage/packages/f10/gmpc/po/nl.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 446 | 889 | 50.2 | /mnt/stockage/packages/f10/gmpc/po/gl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 89 | 889 | 10.0 | /mnt/stockage/packages/f10/gmpc/po/sv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 53 | 889 | 6.0 | /mnt/stockage/packages/f10/gmpc/po/zh_CN.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 11 | 889 | 1.2 | /mnt/stockage/packages/f10/gmpc/po/bg.po | 
+ | [pl](/f10/language/pl) | 889 | 889 | 100.0 | /mnt/stockage/packages/f10/gmpc/po/pl.po | 
+ | [it](/f10/language/it) | 848 | 889 | 95.4 | /mnt/stockage/packages/f10/gmpc/po/it.po | 
+ | [hu](/f10/language/hu) | 867 | 943 | 91.9 | /mnt/stockage/packages/f10/gmpc/po/hu.po | 
+ | [cs](/f10/language/cs) | 815 | 889 | 91.7 | /mnt/stockage/packages/f10/gmpc/po/cs.po | 
+ | [ru](/f10/language/ru) | 636 | 889 | 71.5 | /mnt/stockage/packages/f10/gmpc/po/ru.po | 
+ | [es](/f10/language/es) | 623 | 889 | 70.1 | /mnt/stockage/packages/f10/gmpc/po/es.po | 
+ | [nb_NO](/f10/language/nb_NO) | 591 | 889 | 66.5 | /mnt/stockage/packages/f10/gmpc/po/nb.po | 
+ | [de](/f10/language/de) | 580 | 889 | 65.2 | /mnt/stockage/packages/f10/gmpc/po/de.po | 
+ | [fr](/f10/language/fr) | 567 | 889 | 63.8 | /mnt/stockage/packages/f10/gmpc/po/fr.po | 
+ | [nl](/f10/language/nl) | 527 | 889 | 59.3 | /mnt/stockage/packages/f10/gmpc/po/nl.po | 
+ | [gl](/f10/language/gl) | 446 | 889 | 50.2 | /mnt/stockage/packages/f10/gmpc/po/gl.po | 
+ | [sv](/f10/language/sv) | 89 | 889 | 10.0 | /mnt/stockage/packages/f10/gmpc/po/sv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 53 | 889 | 6.0 | /mnt/stockage/packages/f10/gmpc/po/zh_CN.po | 
+ | [bg](/f10/language/bg) | 11 | 889 | 1.2 | /mnt/stockage/packages/f10/gmpc/po/bg.po | 
 {.sortable}
 
 

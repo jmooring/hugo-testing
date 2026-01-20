@@ -18,13 +18,13 @@ The package openscad (version 2019.05):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 992 | 1366 | 72.6 | /mnt/stockage/packages/f30/openscad/locale/uk.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 939 | 1366 | 68.7 | /mnt/stockage/packages/f30/openscad/locale/de.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 804 | 1366 | 58.9 | /mnt/stockage/packages/f30/openscad/locale/pl.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 711 | 1366 | 52.0 | /mnt/stockage/packages/f30/openscad/locale/ru.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 601 | 1366 | 44.0 | /mnt/stockage/packages/f30/openscad/locale/fr.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 580 | 1366 | 42.5 | /mnt/stockage/packages/f30/openscad/locale/cs.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 539 | 1366 | 39.5 | /mnt/stockage/packages/f30/openscad/locale/es.po | 
+ | [uk](/f30/language/uk) | 992 | 1366 | 72.6 | /mnt/stockage/packages/f30/openscad/locale/uk.po | 
+ | [de](/f30/language/de) | 939 | 1366 | 68.7 | /mnt/stockage/packages/f30/openscad/locale/de.po | 
+ | [pl](/f30/language/pl) | 804 | 1366 | 58.9 | /mnt/stockage/packages/f30/openscad/locale/pl.po | 
+ | [ru](/f30/language/ru) | 711 | 1366 | 52.0 | /mnt/stockage/packages/f30/openscad/locale/ru.po | 
+ | [fr](/f30/language/fr) | 601 | 1366 | 44.0 | /mnt/stockage/packages/f30/openscad/locale/fr.po | 
+ | [cs](/f30/language/cs) | 580 | 1366 | 42.5 | /mnt/stockage/packages/f30/openscad/locale/cs.po | 
+ | [es](/f30/language/es) | 539 | 1366 | 39.5 | /mnt/stockage/packages/f30/openscad/locale/es.po | 
 {.sortable}
 
 

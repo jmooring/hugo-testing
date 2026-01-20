@@ -18,18 +18,18 @@ The package datamash (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/de.po | 
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/eo.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/fr.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/nb.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/nl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/pt_BR.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/uk.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/da.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/es.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/sv.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 429 | 876 | 49.0 | /mnt/stockage/packages/f34/datamash/po/vi.po | 
+ | [de](/f34/language/de) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/de.po | 
+ | [eo](/f34/language/eo) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/eo.po | 
+ | [fr](/f34/language/fr) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/fr.po | 
+ | [nb_NO](/f34/language/nb_NO) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/nb.po | 
+ | [nl](/f34/language/nl) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/nl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/pt_BR.po | 
+ | [uk](/f34/language/uk) | 876 | 876 | 100.0 | /mnt/stockage/packages/f34/datamash/po/uk.po | 
+ | [da](/f34/language/da) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/da.po | 
+ | [es](/f34/language/es) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/es.po | 
+ | [sr](/f34/language/sr) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/sr.po | 
+ | [sv](/f34/language/sv) | 735 | 876 | 83.9 | /mnt/stockage/packages/f34/datamash/po/sv.po | 
+ | [vi](/f34/language/vi) | 429 | 876 | 49.0 | /mnt/stockage/packages/f34/datamash/po/vi.po | 
 {.sortable}
 
 

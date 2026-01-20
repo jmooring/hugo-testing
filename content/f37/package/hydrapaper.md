@@ -18,12 +18,12 @@ The package hydrapaper (version 3.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 829 | 829 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 856 | 856 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/es.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 605 | 605 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 500 | 500 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 283 | 283 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/sv.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 855 | 861 | 99.3 | /mnt/stockage/packages/f37/hydrapaper/po/it.po | 
+ | [de](/f37/language/de) | 829 | 829 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/de.po | 
+ | [es](/f37/language/es) | 856 | 856 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/es.po | 
+ | [pt_BR](/f37/language/pt_BR) | 605 | 605 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 500 | 500 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/ru.po | 
+ | [sv](/f37/language/sv) | 283 | 283 | 100.0 | /mnt/stockage/packages/f37/hydrapaper/po/sv.po | 
+ | [it](/f37/language/it) | 855 | 861 | 99.3 | /mnt/stockage/packages/f37/hydrapaper/po/it.po | 
 {.sortable}
 
 

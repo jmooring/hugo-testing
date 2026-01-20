@@ -18,15 +18,15 @@ The package labwc (version 0.6.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/es.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/it.po | 
- | [ka]({{< ref "/f37/language/ka.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/ka.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/pl.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/ru.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/tr.po | 
+ | [de](/f37/language/de) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/de.po | 
+ | [es](/f37/language/es) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/es.po | 
+ | [id](/f37/language/id) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/id.po | 
+ | [it](/f37/language/it) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/it.po | 
+ | [ka](/f37/language/ka) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/ka.po | 
+ | [pl](/f37/language/pl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/pl.po | 
+ | [ru](/f37/language/ru) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/ru.po | 
+ | [sv](/f37/language/sv) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/sv.po | 
+ | [tr](/f37/language/tr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f37/labwc/po/tr.po | 
 {.sortable}
 
 

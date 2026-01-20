@@ -18,25 +18,25 @@ The package foliate (version 2.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/cs.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/it.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/ko.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/nl.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 3206 | 3216 | 99.7 | /mnt/stockage/packages/f37/foliate/po/pt_BR.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 3191 | 3216 | 99.2 | /mnt/stockage/packages/f37/foliate/po/sv.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 3140 | 3216 | 97.6 | /mnt/stockage/packages/f37/foliate/po/es.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 3094 | 3216 | 96.2 | /mnt/stockage/packages/f37/foliate/po/zh_CN.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 3010 | 3216 | 93.6 | /mnt/stockage/packages/f37/foliate/po/de.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 2843 | 3216 | 88.4 | /mnt/stockage/packages/f37/foliate/po/zh_TW.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 2594 | 3216 | 80.7 | /mnt/stockage/packages/f37/foliate/po/ru.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 2577 | 3216 | 80.1 | /mnt/stockage/packages/f37/foliate/po/eu.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 2449 | 3216 | 76.2 | /mnt/stockage/packages/f37/foliate/po/fr.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 2157 | 3216 | 67.1 | /mnt/stockage/packages/f37/foliate/po/nn.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 2155 | 3216 | 67.0 | /mnt/stockage/packages/f37/foliate/po/nb.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 1357 | 3216 | 42.2 | /mnt/stockage/packages/f37/foliate/po/uk.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1022 | 2471 | 41.4 | /mnt/stockage/packages/f37/foliate/po/tr.po | 
- | [ie]({{< ref "/f37/language/ie.md" >}}) | 1198 | 3216 | 37.3 | /mnt/stockage/packages/f37/foliate/po/ie.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 523 | 3216 | 16.3 | /mnt/stockage/packages/f37/foliate/po/id.po | 
+ | [cs](/f37/language/cs) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/cs.po | 
+ | [it](/f37/language/it) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/it.po | 
+ | [ko](/f37/language/ko) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/ko.po | 
+ | [nl](/f37/language/nl) | 3216 | 3216 | 100.0 | /mnt/stockage/packages/f37/foliate/po/nl.po | 
+ | [pt_BR](/f37/language/pt_BR) | 3206 | 3216 | 99.7 | /mnt/stockage/packages/f37/foliate/po/pt_BR.po | 
+ | [sv](/f37/language/sv) | 3191 | 3216 | 99.2 | /mnt/stockage/packages/f37/foliate/po/sv.po | 
+ | [es](/f37/language/es) | 3140 | 3216 | 97.6 | /mnt/stockage/packages/f37/foliate/po/es.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 3094 | 3216 | 96.2 | /mnt/stockage/packages/f37/foliate/po/zh_CN.po | 
+ | [de](/f37/language/de) | 3010 | 3216 | 93.6 | /mnt/stockage/packages/f37/foliate/po/de.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 2843 | 3216 | 88.4 | /mnt/stockage/packages/f37/foliate/po/zh_TW.po | 
+ | [ru](/f37/language/ru) | 2594 | 3216 | 80.7 | /mnt/stockage/packages/f37/foliate/po/ru.po | 
+ | [eu](/f37/language/eu) | 2577 | 3216 | 80.1 | /mnt/stockage/packages/f37/foliate/po/eu.po | 
+ | [fr](/f37/language/fr) | 2449 | 3216 | 76.2 | /mnt/stockage/packages/f37/foliate/po/fr.po | 
+ | [nn](/f37/language/nn) | 2157 | 3216 | 67.1 | /mnt/stockage/packages/f37/foliate/po/nn.po | 
+ | [nb_NO](/f37/language/nb_NO) | 2155 | 3216 | 67.0 | /mnt/stockage/packages/f37/foliate/po/nb.po | 
+ | [uk](/f37/language/uk) | 1357 | 3216 | 42.2 | /mnt/stockage/packages/f37/foliate/po/uk.po | 
+ | [tr](/f37/language/tr) | 1022 | 2471 | 41.4 | /mnt/stockage/packages/f37/foliate/po/tr.po | 
+ | [ie](/f37/language/ie) | 1198 | 3216 | 37.3 | /mnt/stockage/packages/f37/foliate/po/ie.po | 
+ | [id](/f37/language/id) | 523 | 3216 | 16.3 | /mnt/stockage/packages/f37/foliate/po/id.po | 
 {.sortable}
 
 

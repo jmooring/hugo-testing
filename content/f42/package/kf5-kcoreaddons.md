@@ -18,112 +18,112 @@ The package kf5-kcoreaddons (version 5.116.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ar/kcoreaddons5_qt.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/az/kcoreaddons5_qt.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/be/kcoreaddons5_qt.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bg/kcoreaddons5_qt.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ca/kcoreaddons5_qt.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ca@valencia/kcoreaddons5_qt.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/cs/kcoreaddons5_qt.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/de/kcoreaddons5_qt.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/el/kcoreaddons5_qt.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/en/kcoreaddons5_qt.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/en_GB/kcoreaddons5_qt.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/eo/kcoreaddons5_qt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/es/kcoreaddons5_qt.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/eu/kcoreaddons5_qt.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fi/kcoreaddons5_qt.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fr/kcoreaddons5_qt.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/gl/kcoreaddons5_qt.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ia/kcoreaddons5_qt.po | 
- | [is]({{< ref "/f42/language/is.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/is/kcoreaddons5_qt.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/it/kcoreaddons5_qt.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ka/kcoreaddons5_qt.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ko/kcoreaddons5_qt.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nl/kcoreaddons5_qt.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nn/kcoreaddons5_qt.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pl/kcoreaddons5_qt.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pt/kcoreaddons5_qt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pt_BR/kcoreaddons5_qt.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ro/kcoreaddons5_qt.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ru/kcoreaddons5_qt.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sk/kcoreaddons5_qt.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sl/kcoreaddons5_qt.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sv/kcoreaddons5_qt.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ta/kcoreaddons5_qt.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tr/kcoreaddons5_qt.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/uk/kcoreaddons5_qt.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/vi/kcoreaddons5_qt.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/zh_CN/kcoreaddons5_qt.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/zh_TW/kcoreaddons5_qt.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 376 | 382 | 98.4 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pa/kcoreaddons5_qt.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 374 | 382 | 97.9 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ast/kcoreaddons5_qt.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 369 | 382 | 96.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ie/kcoreaddons5_qt.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 368 | 382 | 96.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/cy/kcoreaddons5_qt.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 368 | 382 | 96.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/id/kcoreaddons5_qt.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 368 | 382 | 96.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ja/kcoreaddons5_qt.po | 
- | [be_Latn]({{< ref "/f42/language/be_Latn.md" >}}) | 362 | 382 | 94.8 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/be@latin/kcoreaddons5_qt.po | 
- | [sw]({{< ref "/f42/language/sw.md" >}}) | 362 | 382 | 94.8 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sw/kcoreaddons5_qt.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 352 | 382 | 92.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hu/kcoreaddons5_qt.po | 
- | [tok]({{< ref "/f42/language/tok.md" >}}) | 352 | 382 | 92.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tok/kcoreaddons5_qt.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 348 | 382 | 91.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fa/kcoreaddons5_qt.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 344 | 382 | 90.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bs/kcoreaddons5_qt.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/da/kcoreaddons5_qt.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/et/kcoreaddons5_qt.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hi/kcoreaddons5_qt.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/lt/kcoreaddons5_qt.po | 
- | [ml]({{< ref "/f42/language/ml.md" >}}) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ml/kcoreaddons5_qt.po | 
- | [my]({{< ref "/f42/language/my.md" >}}) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/my/kcoreaddons5_qt.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 321 | 382 | 84.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ms/kcoreaddons5_qt.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr/kcoreaddons5_qt.po | 
- | [sr@ijekavian]({{< ref "/f42/language/sr@ijekavian.md" >}}) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr@ijekavian/kcoreaddons5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f42/language/sr@ijekavian_Latn.md" >}}) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr@ijekavianlatin/kcoreaddons5_qt.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr@latin/kcoreaddons5_qt.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 313 | 382 | 81.9 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tg/kcoreaddons5_qt.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 299 | 382 | 78.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/te/kcoreaddons5_qt.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 236 | 382 | 61.8 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/kab/kcoreaddons5_qt.po | 
- | [gd]({{< ref "/f42/language/gd.md" >}}) | 204 | 382 | 53.4 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/gd/kcoreaddons5_qt.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 182 | 382 | 47.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/mr/kcoreaddons5_qt.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 182 | 382 | 47.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nb/kcoreaddons5_qt.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 182 | 382 | 47.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nds/kcoreaddons5_qt.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 62 | 382 | 16.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/he/kcoreaddons5_qt.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/af/kcoreaddons5_qt.po | 
- | [as]({{< ref "/f42/language/as.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/as/kcoreaddons5_qt.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bn/kcoreaddons5_qt.po | 
- | [bn_IN]({{< ref "/f42/language/bn_IN.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bn_IN/kcoreaddons5_qt.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/br/kcoreaddons5_qt.po | 
- | [crh]({{< ref "/f42/language/crh.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/crh/kcoreaddons5_qt.po | 
- | [csb]({{< ref "/f42/language/csb.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/csb/kcoreaddons5_qt.po | 
- | [fy]({{< ref "/f42/language/fy.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fy/kcoreaddons5_qt.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ga/kcoreaddons5_qt.po | 
- | [gu]({{< ref "/f42/language/gu.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/gu/kcoreaddons5_qt.po | 
- | [ha]({{< ref "/f42/language/ha.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ha/kcoreaddons5_qt.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hne/kcoreaddons5_qt.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hr/kcoreaddons5_qt.po | 
- | [hsb]({{< ref "/f42/language/hsb.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hsb/kcoreaddons5_qt.po | 
- | [hy]({{< ref "/f42/language/hy.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hy/kcoreaddons5_qt.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/kk/kcoreaddons5_qt.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/km/kcoreaddons5_qt.po | 
- | [kn]({{< ref "/f42/language/kn.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/kn/kcoreaddons5_qt.po | 
- | [ku]({{< ref "/f42/language/ku.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ku/kcoreaddons5_qt.po | 
- | [lb]({{< ref "/f42/language/lb.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/lb/kcoreaddons5_qt.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/lv/kcoreaddons5_qt.po | 
- | [mai]({{< ref "/f42/language/mai.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/mai/kcoreaddons5_qt.po | 
- | [mk]({{< ref "/f42/language/mk.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/mk/kcoreaddons5_qt.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ne/kcoreaddons5_qt.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/oc/kcoreaddons5_qt.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/or/kcoreaddons5_qt.po | 
- | [ps]({{< ref "/f42/language/ps.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ps/kcoreaddons5_qt.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/se/kcoreaddons5_qt.po | 
- | [si]({{< ref "/f42/language/si.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/si/kcoreaddons5_qt.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sq/kcoreaddons5_qt.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/th/kcoreaddons5_qt.po | 
- | [tt]({{< ref "/f42/language/tt.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tt/kcoreaddons5_qt.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ug/kcoreaddons5_qt.po | 
- | [uz]({{< ref "/f42/language/uz.md" >}}) | 0 | 764 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/uz@cyrillic/kcoreaddons5_qt.po/mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/uz/kcoreaddons5_qt.po | 
- | [wa]({{< ref "/f42/language/wa.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/wa/kcoreaddons5_qt.po | 
- | [xh]({{< ref "/f42/language/xh.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/xh/kcoreaddons5_qt.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/zh_HK/kcoreaddons5_qt.po | 
+ | [ar](/f42/language/ar) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ar/kcoreaddons5_qt.po | 
+ | [az](/f42/language/az) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/az/kcoreaddons5_qt.po | 
+ | [be](/f42/language/be) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/be/kcoreaddons5_qt.po | 
+ | [bg](/f42/language/bg) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bg/kcoreaddons5_qt.po | 
+ | [ca](/f42/language/ca) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ca/kcoreaddons5_qt.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ca@valencia/kcoreaddons5_qt.po | 
+ | [cs](/f42/language/cs) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/cs/kcoreaddons5_qt.po | 
+ | [de](/f42/language/de) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/de/kcoreaddons5_qt.po | 
+ | [el](/f42/language/el) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/el/kcoreaddons5_qt.po | 
+ | [en](/f42/language/en) | 26 | 26 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/en/kcoreaddons5_qt.po | 
+ | [en_GB](/f42/language/en_GB) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/en_GB/kcoreaddons5_qt.po | 
+ | [eo](/f42/language/eo) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/eo/kcoreaddons5_qt.po | 
+ | [es](/f42/language/es) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/es/kcoreaddons5_qt.po | 
+ | [eu](/f42/language/eu) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/eu/kcoreaddons5_qt.po | 
+ | [fi](/f42/language/fi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fi/kcoreaddons5_qt.po | 
+ | [fr](/f42/language/fr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fr/kcoreaddons5_qt.po | 
+ | [gl](/f42/language/gl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/gl/kcoreaddons5_qt.po | 
+ | [ia](/f42/language/ia) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ia/kcoreaddons5_qt.po | 
+ | [is](/f42/language/is) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/is/kcoreaddons5_qt.po | 
+ | [it](/f42/language/it) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/it/kcoreaddons5_qt.po | 
+ | [ka](/f42/language/ka) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ka/kcoreaddons5_qt.po | 
+ | [ko](/f42/language/ko) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ko/kcoreaddons5_qt.po | 
+ | [nl](/f42/language/nl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nl/kcoreaddons5_qt.po | 
+ | [nn](/f42/language/nn) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nn/kcoreaddons5_qt.po | 
+ | [pl](/f42/language/pl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pl/kcoreaddons5_qt.po | 
+ | [pt](/f42/language/pt) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pt/kcoreaddons5_qt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pt_BR/kcoreaddons5_qt.po | 
+ | [ro](/f42/language/ro) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ro/kcoreaddons5_qt.po | 
+ | [ru](/f42/language/ru) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ru/kcoreaddons5_qt.po | 
+ | [sk](/f42/language/sk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sk/kcoreaddons5_qt.po | 
+ | [sl](/f42/language/sl) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sl/kcoreaddons5_qt.po | 
+ | [sv](/f42/language/sv) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sv/kcoreaddons5_qt.po | 
+ | [ta](/f42/language/ta) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ta/kcoreaddons5_qt.po | 
+ | [tr](/f42/language/tr) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tr/kcoreaddons5_qt.po | 
+ | [uk](/f42/language/uk) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/uk/kcoreaddons5_qt.po | 
+ | [vi](/f42/language/vi) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/vi/kcoreaddons5_qt.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/zh_CN/kcoreaddons5_qt.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 382 | 382 | 100.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/zh_TW/kcoreaddons5_qt.po | 
+ | [pa](/f42/language/pa) | 376 | 382 | 98.4 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/pa/kcoreaddons5_qt.po | 
+ | [ast](/f42/language/ast) | 374 | 382 | 97.9 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ast/kcoreaddons5_qt.po | 
+ | [ie](/f42/language/ie) | 369 | 382 | 96.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ie/kcoreaddons5_qt.po | 
+ | [cy](/f42/language/cy) | 368 | 382 | 96.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/cy/kcoreaddons5_qt.po | 
+ | [id](/f42/language/id) | 368 | 382 | 96.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/id/kcoreaddons5_qt.po | 
+ | [ja](/f42/language/ja) | 368 | 382 | 96.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ja/kcoreaddons5_qt.po | 
+ | [be_Latn](/f42/language/be_Latn) | 362 | 382 | 94.8 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/be@latin/kcoreaddons5_qt.po | 
+ | [sw](/f42/language/sw) | 362 | 382 | 94.8 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sw/kcoreaddons5_qt.po | 
+ | [hu](/f42/language/hu) | 352 | 382 | 92.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hu/kcoreaddons5_qt.po | 
+ | [tok](/f42/language/tok) | 352 | 382 | 92.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tok/kcoreaddons5_qt.po | 
+ | [fa](/f42/language/fa) | 348 | 382 | 91.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fa/kcoreaddons5_qt.po | 
+ | [bs](/f42/language/bs) | 344 | 382 | 90.1 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bs/kcoreaddons5_qt.po | 
+ | [da](/f42/language/da) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/da/kcoreaddons5_qt.po | 
+ | [et](/f42/language/et) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/et/kcoreaddons5_qt.po | 
+ | [hi](/f42/language/hi) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hi/kcoreaddons5_qt.po | 
+ | [lt](/f42/language/lt) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/lt/kcoreaddons5_qt.po | 
+ | [ml](/f42/language/ml) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ml/kcoreaddons5_qt.po | 
+ | [my](/f42/language/my) | 337 | 382 | 88.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/my/kcoreaddons5_qt.po | 
+ | [ms](/f42/language/ms) | 321 | 382 | 84.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ms/kcoreaddons5_qt.po | 
+ | [sr](/f42/language/sr) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr/kcoreaddons5_qt.po | 
+ | [sr@ijekavian](/f42/language/sr@ijekavian) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr@ijekavian/kcoreaddons5_qt.po | 
+ | [sr@ijekavian_Latn](/f42/language/sr@ijekavian_Latn) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr@ijekavianlatin/kcoreaddons5_qt.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 273 | 328 | 83.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sr@latin/kcoreaddons5_qt.po | 
+ | [tg](/f42/language/tg) | 313 | 382 | 81.9 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tg/kcoreaddons5_qt.po | 
+ | [te](/f42/language/te) | 299 | 382 | 78.3 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/te/kcoreaddons5_qt.po | 
+ | [kab](/f42/language/kab) | 236 | 382 | 61.8 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/kab/kcoreaddons5_qt.po | 
+ | [gd](/f42/language/gd) | 204 | 382 | 53.4 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/gd/kcoreaddons5_qt.po | 
+ | [mr](/f42/language/mr) | 182 | 382 | 47.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/mr/kcoreaddons5_qt.po | 
+ | [nb_NO](/f42/language/nb_NO) | 182 | 382 | 47.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nb/kcoreaddons5_qt.po | 
+ | [nds](/f42/language/nds) | 182 | 382 | 47.6 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/nds/kcoreaddons5_qt.po | 
+ | [he](/f42/language/he) | 62 | 382 | 16.2 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/he/kcoreaddons5_qt.po | 
+ | [af](/f42/language/af) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/af/kcoreaddons5_qt.po | 
+ | [as](/f42/language/as) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/as/kcoreaddons5_qt.po | 
+ | [bn](/f42/language/bn) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bn/kcoreaddons5_qt.po | 
+ | [bn_IN](/f42/language/bn_IN) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/bn_IN/kcoreaddons5_qt.po | 
+ | [br](/f42/language/br) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/br/kcoreaddons5_qt.po | 
+ | [crh](/f42/language/crh) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/crh/kcoreaddons5_qt.po | 
+ | [csb](/f42/language/csb) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/csb/kcoreaddons5_qt.po | 
+ | [fy](/f42/language/fy) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/fy/kcoreaddons5_qt.po | 
+ | [ga](/f42/language/ga) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ga/kcoreaddons5_qt.po | 
+ | [gu](/f42/language/gu) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/gu/kcoreaddons5_qt.po | 
+ | [ha](/f42/language/ha) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ha/kcoreaddons5_qt.po | 
+ | [hne](/f42/language/hne) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hne/kcoreaddons5_qt.po | 
+ | [hr](/f42/language/hr) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hr/kcoreaddons5_qt.po | 
+ | [hsb](/f42/language/hsb) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hsb/kcoreaddons5_qt.po | 
+ | [hy](/f42/language/hy) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/hy/kcoreaddons5_qt.po | 
+ | [kk](/f42/language/kk) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/kk/kcoreaddons5_qt.po | 
+ | [km](/f42/language/km) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/km/kcoreaddons5_qt.po | 
+ | [kn](/f42/language/kn) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/kn/kcoreaddons5_qt.po | 
+ | [ku](/f42/language/ku) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ku/kcoreaddons5_qt.po | 
+ | [lb](/f42/language/lb) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/lb/kcoreaddons5_qt.po | 
+ | [lv](/f42/language/lv) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/lv/kcoreaddons5_qt.po | 
+ | [mai](/f42/language/mai) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/mai/kcoreaddons5_qt.po | 
+ | [mk](/f42/language/mk) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/mk/kcoreaddons5_qt.po | 
+ | [ne](/f42/language/ne) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ne/kcoreaddons5_qt.po | 
+ | [oc](/f42/language/oc) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/oc/kcoreaddons5_qt.po | 
+ | [or](/f42/language/or) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/or/kcoreaddons5_qt.po | 
+ | [ps](/f42/language/ps) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ps/kcoreaddons5_qt.po | 
+ | [se](/f42/language/se) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/se/kcoreaddons5_qt.po | 
+ | [si](/f42/language/si) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/si/kcoreaddons5_qt.po | 
+ | [sq](/f42/language/sq) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/sq/kcoreaddons5_qt.po | 
+ | [th](/f42/language/th) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/th/kcoreaddons5_qt.po | 
+ | [tt](/f42/language/tt) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/tt/kcoreaddons5_qt.po | 
+ | [ug](/f42/language/ug) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/ug/kcoreaddons5_qt.po | 
+ | [uz](/f42/language/uz) | 0 | 764 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/uz@cyrillic/kcoreaddons5_qt.po/mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/uz/kcoreaddons5_qt.po | 
+ | [wa](/f42/language/wa) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/wa/kcoreaddons5_qt.po | 
+ | [xh](/f42/language/xh) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/xh/kcoreaddons5_qt.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 0 | 382 | 0.0 | /mnt/stockage/packages/f42/kf5-kcoreaddons/poqm/zh_HK/kcoreaddons5_qt.po | 
 {.sortable}
 
 

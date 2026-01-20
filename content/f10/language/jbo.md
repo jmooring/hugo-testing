@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xchat-gnome]({{< ref "/f10/package/xchat-gnome.md" >}}) | 0 | 3901 | 0.0 | Lojban <jbo@li.org> | 
+ | [xchat-gnome](/f10/package/xchat-gnome) | 0 | 3901 | 0.0 | Lojban <jbo@li.org> | 
 {.sortable}
 
 

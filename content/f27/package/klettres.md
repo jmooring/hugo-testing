@@ -18,57 +18,57 @@ The package klettres (version 17.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/ca/klettres.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/ca@valencia/klettres.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/cs/klettres.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/de/klettres.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/el/klettres.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/en_GB/klettres.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/es/klettres.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/et/klettres.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/fi/klettres.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/gl/klettres.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/nl/klettres.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/nn/klettres.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/pl/klettres.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/pt/klettres.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/pt_BR/klettres.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/sk/klettres.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/sl/klettres.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/sv/klettres.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/tr/klettres.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/uk/klettres.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/zh_CN/klettres.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/zh_TW/klettres.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 421 | 436 | 96.6 | /mnt/stockage/packages/f27/klettres/po/da/klettres.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/bs/klettres.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/hu/klettres.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/it/klettres.po | 
- | [nds]({{< ref "/f27/language/nds.md" >}}) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/nds/klettres.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/fr/klettres.po | 
- | [ga]({{< ref "/f27/language/ga.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/ga/klettres.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/kk/klettres.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/km/klettres.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/lv/klettres.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/nb/klettres.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/ru/klettres.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 403 | 436 | 92.4 | /mnt/stockage/packages/f27/klettres/po/ar/klettres.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 388 | 436 | 89.0 | /mnt/stockage/packages/f27/klettres/po/hr/klettres.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 388 | 436 | 89.0 | /mnt/stockage/packages/f27/klettres/po/ro/klettres.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 387 | 436 | 88.8 | /mnt/stockage/packages/f27/klettres/po/eu/klettres.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 387 | 436 | 88.8 | /mnt/stockage/packages/f27/klettres/po/ja/klettres.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 378 | 436 | 86.7 | /mnt/stockage/packages/f27/klettres/po/bg/klettres.po | 
- | [is]({{< ref "/f27/language/is.md" >}}) | 330 | 436 | 75.7 | /mnt/stockage/packages/f27/klettres/po/is/klettres.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 299 | 436 | 68.6 | /mnt/stockage/packages/f27/klettres/po/fa/klettres.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 268 | 436 | 61.5 | /mnt/stockage/packages/f27/klettres/po/he/klettres.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 217 | 436 | 49.8 | /mnt/stockage/packages/f27/klettres/po/hi/klettres.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 64 | 436 | 14.7 | /mnt/stockage/packages/f27/klettres/po/lt/klettres.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 48 | 436 | 11.0 | /mnt/stockage/packages/f27/klettres/po/pa/klettres.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 47 | 436 | 10.8 | /mnt/stockage/packages/f27/klettres/po/ug/klettres.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 45 | 436 | 10.3 | /mnt/stockage/packages/f27/klettres/po/mr/klettres.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 33 | 436 | 7.6 | /mnt/stockage/packages/f27/klettres/po/eo/klettres.po | 
- | [wa]({{< ref "/f27/language/wa.md" >}}) | 30 | 436 | 6.9 | /mnt/stockage/packages/f27/klettres/po/wa/klettres.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 4 | 436 | 0.9 | /mnt/stockage/packages/f27/klettres/po/ast/klettres.po | 
+ | [ca](/f27/language/ca) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/ca/klettres.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/ca@valencia/klettres.po | 
+ | [cs](/f27/language/cs) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/cs/klettres.po | 
+ | [de](/f27/language/de) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/de/klettres.po | 
+ | [el](/f27/language/el) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/el/klettres.po | 
+ | [en_GB](/f27/language/en_GB) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/en_GB/klettres.po | 
+ | [es](/f27/language/es) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/es/klettres.po | 
+ | [et](/f27/language/et) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/et/klettres.po | 
+ | [fi](/f27/language/fi) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/fi/klettres.po | 
+ | [gl](/f27/language/gl) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/gl/klettres.po | 
+ | [nl](/f27/language/nl) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/nl/klettres.po | 
+ | [nn](/f27/language/nn) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/nn/klettres.po | 
+ | [pl](/f27/language/pl) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/pl/klettres.po | 
+ | [pt](/f27/language/pt) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/pt/klettres.po | 
+ | [pt_BR](/f27/language/pt_BR) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/pt_BR/klettres.po | 
+ | [sk](/f27/language/sk) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/sk/klettres.po | 
+ | [sl](/f27/language/sl) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/sl/klettres.po | 
+ | [sv](/f27/language/sv) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/sv/klettres.po | 
+ | [tr](/f27/language/tr) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/tr/klettres.po | 
+ | [uk](/f27/language/uk) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/uk/klettres.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/zh_CN/klettres.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 436 | 436 | 100.0 | /mnt/stockage/packages/f27/klettres/po/zh_TW/klettres.po | 
+ | [da](/f27/language/da) | 421 | 436 | 96.6 | /mnt/stockage/packages/f27/klettres/po/da/klettres.po | 
+ | [bs](/f27/language/bs) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/bs/klettres.po | 
+ | [hu](/f27/language/hu) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/hu/klettres.po | 
+ | [it](/f27/language/it) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/it/klettres.po | 
+ | [nds](/f27/language/nds) | 420 | 436 | 96.3 | /mnt/stockage/packages/f27/klettres/po/nds/klettres.po | 
+ | [fr](/f27/language/fr) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/fr/klettres.po | 
+ | [ga](/f27/language/ga) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/ga/klettres.po | 
+ | [kk](/f27/language/kk) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/kk/klettres.po | 
+ | [km](/f27/language/km) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/km/klettres.po | 
+ | [lv](/f27/language/lv) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/lv/klettres.po | 
+ | [nb_NO](/f27/language/nb_NO) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/nb/klettres.po | 
+ | [ru](/f27/language/ru) | 419 | 436 | 96.1 | /mnt/stockage/packages/f27/klettres/po/ru/klettres.po | 
+ | [ar](/f27/language/ar) | 403 | 436 | 92.4 | /mnt/stockage/packages/f27/klettres/po/ar/klettres.po | 
+ | [hr](/f27/language/hr) | 388 | 436 | 89.0 | /mnt/stockage/packages/f27/klettres/po/hr/klettres.po | 
+ | [ro](/f27/language/ro) | 388 | 436 | 89.0 | /mnt/stockage/packages/f27/klettres/po/ro/klettres.po | 
+ | [eu](/f27/language/eu) | 387 | 436 | 88.8 | /mnt/stockage/packages/f27/klettres/po/eu/klettres.po | 
+ | [ja](/f27/language/ja) | 387 | 436 | 88.8 | /mnt/stockage/packages/f27/klettres/po/ja/klettres.po | 
+ | [bg](/f27/language/bg) | 378 | 436 | 86.7 | /mnt/stockage/packages/f27/klettres/po/bg/klettres.po | 
+ | [is](/f27/language/is) | 330 | 436 | 75.7 | /mnt/stockage/packages/f27/klettres/po/is/klettres.po | 
+ | [fa](/f27/language/fa) | 299 | 436 | 68.6 | /mnt/stockage/packages/f27/klettres/po/fa/klettres.po | 
+ | [he](/f27/language/he) | 268 | 436 | 61.5 | /mnt/stockage/packages/f27/klettres/po/he/klettres.po | 
+ | [hi](/f27/language/hi) | 217 | 436 | 49.8 | /mnt/stockage/packages/f27/klettres/po/hi/klettres.po | 
+ | [lt](/f27/language/lt) | 64 | 436 | 14.7 | /mnt/stockage/packages/f27/klettres/po/lt/klettres.po | 
+ | [pa](/f27/language/pa) | 48 | 436 | 11.0 | /mnt/stockage/packages/f27/klettres/po/pa/klettres.po | 
+ | [ug](/f27/language/ug) | 47 | 436 | 10.8 | /mnt/stockage/packages/f27/klettres/po/ug/klettres.po | 
+ | [mr](/f27/language/mr) | 45 | 436 | 10.3 | /mnt/stockage/packages/f27/klettres/po/mr/klettres.po | 
+ | [eo](/f27/language/eo) | 33 | 436 | 7.6 | /mnt/stockage/packages/f27/klettres/po/eo/klettres.po | 
+ | [wa](/f27/language/wa) | 30 | 436 | 6.9 | /mnt/stockage/packages/f27/klettres/po/wa/klettres.po | 
+ | [ast](/f27/language/ast) | 4 | 436 | 0.9 | /mnt/stockage/packages/f27/klettres/po/ast/klettres.po | 
 {.sortable}
 
 

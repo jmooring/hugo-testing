@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f26/package/mintmenu.md" >}}) | 4 | 50 | 8.0 | Klingon <tlh@li.org> | 
- | [tuxpaint]({{< ref "/f26/package/tuxpaint.md" >}}) | 34 | 1591 | 2.1 | Bill Kendrick <nbs@sonic.net> | 
- | [pantheon-terminal]({{< ref "/f26/package/pantheon-terminal.md" >}}) | 2 | 188 | 1.1 | Klingon <tlh@li.org> | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 63 | 12130 | 0.5 | Klingon <tlh@li.org> | 
- | [deluge]({{< ref "/f26/package/deluge.md" >}}) | 3 | 2644 | 0.1 | Klingon; tlhIngan-Hol <tlh@li.org> | 
- | [openerp7]({{< ref "/f26/package/openerp7.md" >}}) | 2 | 44414 | 0.0 | Klingon <tlh@li.org> | 
- | [openerp]({{< ref "/f26/package/openerp.md" >}}) | 2 | 45885 | 0.0 |  | 
- | [geeqie]({{< ref "/f26/package/geeqie.md" >}}) | 0 | 3784 | 0.0 |  | 
+ | [mintmenu](/f26/package/mintmenu) | 4 | 50 | 8.0 | Klingon <tlh@li.org> | 
+ | [tuxpaint](/f26/package/tuxpaint) | 34 | 1591 | 2.1 | Bill Kendrick <nbs@sonic.net> | 
+ | [pantheon-terminal](/f26/package/pantheon-terminal) | 2 | 188 | 1.1 | Klingon <tlh@li.org> | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 63 | 12130 | 0.5 | Klingon <tlh@li.org> | 
+ | [deluge](/f26/package/deluge) | 3 | 2644 | 0.1 | Klingon; tlhIngan-Hol <tlh@li.org> | 
+ | [openerp7](/f26/package/openerp7) | 2 | 44414 | 0.0 | Klingon <tlh@li.org> | 
+ | [openerp](/f26/package/openerp) | 2 | 45885 | 0.0 |  | 
+ | [geeqie](/f26/package/geeqie) | 0 | 3784 | 0.0 |  | 
 {.sortable}
 
 

@@ -39,40 +39,40 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-desktop]({{< ref "/f11/package/gnome-desktop.md" >}}) | 328 | 364 | 90.1 | amo@wazobiasoft.org | 
- | [gnome-menus]({{< ref "/f11/package/gnome-menus.md" >}}) | 116 | 157 | 73.9 | Yoruba | 
- | [gnome-panel]({{< ref "/f11/package/gnome-panel.md" >}}) | 3229 | 4505 | 71.7 | Yoruba | 
- | [metacity]({{< ref "/f11/package/metacity.md" >}}) | 2294 | 3808 | 60.2 | Yoruba | 
- | [nautilus]({{< ref "/f11/package/nautilus.md" >}}) | 3745 | 8144 | 46.0 | Yoruba | 
- | [gnome-session]({{< ref "/f11/package/gnome-session.md" >}}) | 117 | 722 | 16.2 |  | 
- | [sugar-turtleart]({{< ref "/f11/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f11/package/sugar.md" >}}) | 2 | 772 | 0.3 | Yoruba | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f11/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f11/package/sugar-browse.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f11/package/sugar-calculator.md" >}}) | 0 | 627 | 0.0 |  | 
- | [sugar-chat]({{< ref "/f11/package/sugar-chat.md" >}}) | 0 | 21 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-connect]({{< ref "/f11/package/sugar-connect.md" >}}) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f11/package/sugar-distance.md" >}}) | 0 | 79 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f11/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f11/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f11/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-journal]({{< ref "/f11/package/sugar-journal.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f11/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f11/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f11/package/sugar-memorize.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f11/package/sugar-moon.md" >}}) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f11/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f11/package/sugar-pippy.md" >}}) | 0 | 40 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f11/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f11/package/sugar-read.md" >}}) | 0 | 27 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f11/package/sugar-record.md" >}}) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f11/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f11/package/sugar-toolkit.md" >}}) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-update-control]({{< ref "/f11/package/sugar-update-control.md" >}}) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f11/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f11/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f11/package/sugar-write.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnome-desktop](/f11/package/gnome-desktop) | 328 | 364 | 90.1 | amo@wazobiasoft.org | 
+ | [gnome-menus](/f11/package/gnome-menus) | 116 | 157 | 73.9 | Yoruba | 
+ | [gnome-panel](/f11/package/gnome-panel) | 3229 | 4505 | 71.7 | Yoruba | 
+ | [metacity](/f11/package/metacity) | 2294 | 3808 | 60.2 | Yoruba | 
+ | [nautilus](/f11/package/nautilus) | 3745 | 8144 | 46.0 | Yoruba | 
+ | [gnome-session](/f11/package/gnome-session) | 117 | 722 | 16.2 |  | 
+ | [sugar-turtleart](/f11/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f11/package/sugar) | 2 | 772 | 0.3 | Yoruba | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f11/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f11/package/sugar-browse) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f11/package/sugar-calculator) | 0 | 627 | 0.0 |  | 
+ | [sugar-chat](/f11/package/sugar-chat) | 0 | 21 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-connect](/f11/package/sugar-connect) | 0 | 31 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f11/package/sugar-distance) | 0 | 79 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f11/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f11/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f11/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-journal](/f11/package/sugar-journal) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f11/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f11/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f11/package/sugar-memorize) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f11/package/sugar-moon) | 0 | 90 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f11/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f11/package/sugar-pippy) | 0 | 40 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f11/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f11/package/sugar-read) | 0 | 27 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f11/package/sugar-record) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f11/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f11/package/sugar-toolkit) | 0 | 59 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-update-control](/f11/package/sugar-update-control) | 0 | 159 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f11/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f11/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f11/package/sugar-write) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -84,7 +84,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [sugar-calculator]({{< ref "/f11/package/sugar-calculator.md" >}}) | /mnt/stockage/packages/f11/sugar-calculator/po/yo.po | error-os |  | 
+ | [sugar-calculator](/f11/package/sugar-calculator) | /mnt/stockage/packages/f11/sugar-calculator/po/yo.po | error-os |  | 
 {.sortable}
 
 

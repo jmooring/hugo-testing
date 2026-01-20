@@ -18,25 +18,25 @@ The package enigma (version 1.21):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f25/language/be.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/be.po | 
- | [cs]({{< ref "/f25/language/cs.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/cs.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/es.po | 
- | [gd]({{< ref "/f25/language/gd.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/gd.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/nl.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/pl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/ru.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/sk.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 7478 | 9031 | 82.8 | /mnt/stockage/packages/f25/enigma/po/fr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 7230 | 9031 | 80.1 | /mnt/stockage/packages/f25/enigma/po/uk.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 5340 | 9031 | 59.1 | /mnt/stockage/packages/f25/enigma/po/el.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 4888 | 9031 | 54.1 | /mnt/stockage/packages/f25/enigma/po/pt.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 4797 | 9031 | 53.1 | /mnt/stockage/packages/f25/enigma/po/hu.po | 
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 3976 | 9031 | 44.0 | /mnt/stockage/packages/f25/enigma/po/fi.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 3451 | 9031 | 38.2 | /mnt/stockage/packages/f25/enigma/po/it.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 3379 | 9031 | 37.4 | /mnt/stockage/packages/f25/enigma/po/da.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 1992 | 9031 | 22.1 | /mnt/stockage/packages/f25/enigma/po/hr.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 1832 | 9031 | 20.3 | /mnt/stockage/packages/f25/enigma/po/sv.po | 
+ | [be](/f25/language/be) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/be.po | 
+ | [cs](/f25/language/cs) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/cs.po | 
+ | [de](/f25/language/de) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/de.po | 
+ | [es](/f25/language/es) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/es.po | 
+ | [gd](/f25/language/gd) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/gd.po | 
+ | [nl](/f25/language/nl) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/nl.po | 
+ | [pl](/f25/language/pl) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/pl.po | 
+ | [ru](/f25/language/ru) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/ru.po | 
+ | [sk](/f25/language/sk) | 8927 | 9031 | 98.8 | /mnt/stockage/packages/f25/enigma/po/sk.po | 
+ | [fr](/f25/language/fr) | 7478 | 9031 | 82.8 | /mnt/stockage/packages/f25/enigma/po/fr.po | 
+ | [uk](/f25/language/uk) | 7230 | 9031 | 80.1 | /mnt/stockage/packages/f25/enigma/po/uk.po | 
+ | [el](/f25/language/el) | 5340 | 9031 | 59.1 | /mnt/stockage/packages/f25/enigma/po/el.po | 
+ | [pt](/f25/language/pt) | 4888 | 9031 | 54.1 | /mnt/stockage/packages/f25/enigma/po/pt.po | 
+ | [hu](/f25/language/hu) | 4797 | 9031 | 53.1 | /mnt/stockage/packages/f25/enigma/po/hu.po | 
+ | [fi](/f25/language/fi) | 3976 | 9031 | 44.0 | /mnt/stockage/packages/f25/enigma/po/fi.po | 
+ | [it](/f25/language/it) | 3451 | 9031 | 38.2 | /mnt/stockage/packages/f25/enigma/po/it.po | 
+ | [da](/f25/language/da) | 3379 | 9031 | 37.4 | /mnt/stockage/packages/f25/enigma/po/da.po | 
+ | [hr](/f25/language/hr) | 1992 | 9031 | 22.1 | /mnt/stockage/packages/f25/enigma/po/hr.po | 
+ | [sv](/f25/language/sv) | 1832 | 9031 | 20.3 | /mnt/stockage/packages/f25/enigma/po/sv.po | 
 {.sortable}
 
 

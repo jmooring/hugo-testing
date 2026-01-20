@@ -18,8 +18,8 @@ The package soundmodem (version 0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f15/soundmodem/po/fr.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f15/soundmodem/po/sv.po | 
+ | [fr](/f15/language/fr) | 91 | 91 | 100.0 | /mnt/stockage/packages/f15/soundmodem/po/fr.po | 
+ | [sv](/f15/language/sv) | 91 | 91 | 100.0 | /mnt/stockage/packages/f15/soundmodem/po/sv.po | 
 {.sortable}
 
 

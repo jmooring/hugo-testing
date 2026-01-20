@@ -18,7 +18,7 @@ The package ms-sys (version 2.1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 967 | 974 | 99.3 | /mnt/stockage/packages/f10/ms-sys/po/sv.po | 
+ | [sv](/f10/language/sv) | 967 | 974 | 99.3 | /mnt/stockage/packages/f10/ms-sys/po/sv.po | 
 {.sortable}
 
 

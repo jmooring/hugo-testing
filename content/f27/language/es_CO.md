@@ -38,79 +38,79 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libmateweather]({{< ref "/f27/package/libmateweather.md" >}}) | 499 | 499 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-backgrounds]({{< ref "/f27/package/mate-backgrounds.md" >}}) | 30 | 30 | 100.0 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
- | [mate-icon-theme]({{< ref "/f27/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-menus]({{< ref "/f27/package/mate-menus.md" >}}) | 97 | 97 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-notification-daemon]({{< ref "/f27/package/mate-notification-daemon.md" >}}) | 139 | 139 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-polkit]({{< ref "/f27/package/mate-polkit.md" >}}) | 122 | 122 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mozo]({{< ref "/f27/package/mozo.md" >}}) | 42 | 42 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [python-caja]({{< ref "/f27/package/python-caja.md" >}}) | 6 | 6 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [tryton]({{< ref "/f27/package/tryton.md" >}}) | 1574 | 1574 | 100.0 |  | 
- | [trytond]({{< ref "/f27/package/trytond.md" >}}) | 2648 | 2648 | 100.0 |  | 
- | [trytond-account]({{< ref "/f27/package/trytond-account.md" >}}) | 2743 | 2743 | 100.0 |  | 
- | [trytond-account-invoice]({{< ref "/f27/package/trytond-account-invoice.md" >}}) | 1028 | 1028 | 100.0 |  | 
- | [trytond-account-invoice-history]({{< ref "/f27/package/trytond-account-invoice-history.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-account-invoice-line-standalone]({{< ref "/f27/package/trytond-account-invoice-line-standalone.md" >}}) | 10 | 10 | 100.0 |  | 
- | [trytond-account-product]({{< ref "/f27/package/trytond-account-product.md" >}}) | 296 | 296 | 100.0 |  | 
- | [trytond-account-statement]({{< ref "/f27/package/trytond-account-statement.md" >}}) | 231 | 231 | 100.0 |  | 
- | [trytond-account-stock-anglo-saxon]({{< ref "/f27/package/trytond-account-stock-anglo-saxon.md" >}}) | 74 | 74 | 100.0 |  | 
- | [trytond-account-stock-continental]({{< ref "/f27/package/trytond-account-stock-continental.md" >}}) | 325 | 325 | 100.0 |  | 
- | [trytond-analytic-account]({{< ref "/f27/package/trytond-analytic-account.md" >}}) | 184 | 184 | 100.0 |  | 
- | [trytond-analytic-invoice]({{< ref "/f27/package/trytond-analytic-invoice.md" >}}) | 13 | 13 | 100.0 |  | 
- | [trytond-analytic-purchase]({{< ref "/f27/package/trytond-analytic-purchase.md" >}}) | 22 | 22 | 100.0 |  | 
- | [trytond-analytic-sale]({{< ref "/f27/package/trytond-analytic-sale.md" >}}) | 13 | 13 | 100.0 |  | 
- | [trytond-calendar]({{< ref "/f27/package/trytond-calendar.md" >}}) | 621 | 621 | 100.0 |  | 
- | [trytond-calendar-classification]({{< ref "/f27/package/trytond-calendar-classification.md" >}}) | 2 | 2 | 100.0 |  | 
- | [trytond-calendar-scheduling]({{< ref "/f27/package/trytond-calendar-scheduling.md" >}}) | 100 | 100 | 100.0 |  | 
- | [trytond-sale]({{< ref "/f27/package/trytond-sale.md" >}}) | 536 | 536 | 100.0 |  | 
- | [trytond-sale-opportunity]({{< ref "/f27/package/trytond-sale-opportunity.md" >}}) | 320 | 320 | 100.0 |  | 
- | [trytond-sale-price-list]({{< ref "/f27/package/trytond-sale-price-list.md" >}}) | 5 | 5 | 100.0 |  | 
- | [trytond-stock]({{< ref "/f27/package/trytond-stock.md" >}}) | 1203 | 1203 | 100.0 |  | 
- | [trytond-stock-forecast]({{< ref "/f27/package/trytond-stock-forecast.md" >}}) | 174 | 174 | 100.0 |  | 
- | [trytond-stock-inventory-location]({{< ref "/f27/package/trytond-stock-inventory-location.md" >}}) | 17 | 17 | 100.0 |  | 
- | [trytond-stock-location-sequence]({{< ref "/f27/package/trytond-stock-location-sequence.md" >}}) | 1 | 1 | 100.0 |  | 
- | [trytond-stock-product-location]({{< ref "/f27/package/trytond-stock-product-location.md" >}}) | 23 | 23 | 100.0 |  | 
- | [trytond-stock-supply]({{< ref "/f27/package/trytond-stock-supply.md" >}}) | 147 | 147 | 100.0 |  | 
- | [trytond-stock-supply-day]({{< ref "/f27/package/trytond-stock-supply-day.md" >}}) | 27 | 27 | 100.0 |  | 
- | [trytond-timesheet]({{< ref "/f27/package/trytond-timesheet.md" >}}) | 278 | 278 | 100.0 |  | 
- | [glpi]({{< ref "/f27/package/glpi.md" >}}) | 11258 | 11284 | 99.8 | Spanish (Colombia) (http://www.transifex.com/glpi/GLPI/language/es_CO/) | 
- | [libgweather]({{< ref "/f27/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmatekbd]({{< ref "/f27/package/libmatekbd.md" >}}) | 243 | 251 | 96.8 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-themes]({{< ref "/f27/package/mate-themes.md" >}}) | 58 | 60 | 96.7 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
- | [python-django]({{< ref "/f27/package/python-django.md" >}}) | 3401 | 3590 | 94.7 | Spanish (Colombia) (http://www.transifex.com/django/django/language/es_CO/) | 
- | [caja]({{< ref "/f27/package/caja.md" >}}) | 8407 | 9356 | 89.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [openerp7]({{< ref "/f27/package/openerp7.md" >}}) | 270 | 312 | 86.5 | Spanish (Colombia) <es_CO@li.org> | 
- | [mate-applets]({{< ref "/f27/package/mate-applets.md" >}}) | 2137 | 2489 | 85.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [gnomebaker]({{< ref "/f27/package/gnomebaker.md" >}}) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
- | [xfe]({{< ref "/f27/package/xfe.md" >}}) | 2749 | 5954 | 46.2 | Spanish | 
- | [python-django-helpdesk]({{< ref "/f27/package/python-django-helpdesk.md" >}}) | 1121 | 3241 | 34.6 | Spanish (Colombia) (http://www.transifex.com/projects/p/django-helpdesk/language/es_CO/) | 
- | [mate-terminal]({{< ref "/f27/package/mate-terminal.md" >}}) | 1033 | 4649 | 22.2 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-menu]({{< ref "/f27/package/mate-menu.md" >}}) | 50 | 316 | 15.8 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
- | [atril]({{< ref "/f27/package/atril.md" >}}) | 267 | 1792 | 14.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [csound]({{< ref "/f27/package/csound.md" >}}) | 2557 | 17244 | 14.8 |  | 
- | [mate-session-manager]({{< ref "/f27/package/mate-session-manager.md" >}}) | 74 | 681 | 10.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-settings-daemon]({{< ref "/f27/package/mate-settings-daemon.md" >}}) | 179 | 1764 | 10.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-panel]({{< ref "/f27/package/mate-panel.md" >}}) | 413 | 4364 | 9.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [pluma]({{< ref "/f27/package/pluma.md" >}}) | 437 | 5068 | 8.6 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [caja-extensions]({{< ref "/f27/package/caja-extensions.md" >}}) | 43 | 570 | 7.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [engrampa]({{< ref "/f27/package/engrampa.md" >}}) | 144 | 1945 | 7.4 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-sensors-applet]({{< ref "/f27/package/mate-sensors-applet.md" >}}) | 20 | 306 | 6.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-media]({{< ref "/f27/package/mate-media.md" >}}) | 14 | 226 | 6.2 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-utils]({{< ref "/f27/package/mate-utils.md" >}}) | 221 | 3677 | 6.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-system-monitor]({{< ref "/f27/package/mate-system-monitor.md" >}}) | 50 | 1333 | 3.8 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [eom]({{< ref "/f27/package/eom.md" >}}) | 60 | 1717 | 3.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-control-center]({{< ref "/f27/package/mate-control-center.md" >}}) | 83 | 2658 | 3.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-desktop]({{< ref "/f27/package/mate-desktop.md" >}}) | 68 | 2305 | 3.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [libmatemixer]({{< ref "/f27/package/libmatemixer.md" >}}) | 6 | 242 | 2.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-screensaver]({{< ref "/f27/package/mate-screensaver.md" >}}) | 17 | 983 | 1.7 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-calc]({{< ref "/f27/package/mate-calc.md" >}}) | 23 | 1371 | 1.7 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [wicd]({{< ref "/f27/package/wicd.md" >}}) | 13 | 1138 | 1.1 | es_CO <LL@li.org> | 
- | [marco]({{< ref "/f27/package/marco.md" >}}) | 46 | 4148 | 1.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [mate-power-manager]({{< ref "/f27/package/mate-power-manager.md" >}}) | 29 | 2724 | 1.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [xreader]({{< ref "/f27/package/xreader.md" >}}) | 11 | 1642 | 0.7 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
- | [mate-user-guide]({{< ref "/f27/package/mate-user-guide.md" >}}) | 73 | 40821 | 0.2 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
- | [openerp]({{< ref "/f27/package/openerp.md" >}}) | 0 | 0 | 0.0 | Spanish (Colombia) <es_CO@li.org> | 
+ | [libmateweather](/f27/package/libmateweather) | 499 | 499 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-backgrounds](/f27/package/mate-backgrounds) | 30 | 30 | 100.0 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
+ | [mate-icon-theme](/f27/package/mate-icon-theme) | 4 | 4 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-menus](/f27/package/mate-menus) | 97 | 97 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-notification-daemon](/f27/package/mate-notification-daemon) | 139 | 139 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-polkit](/f27/package/mate-polkit) | 122 | 122 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mozo](/f27/package/mozo) | 42 | 42 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [python-caja](/f27/package/python-caja) | 6 | 6 | 100.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [tryton](/f27/package/tryton) | 1574 | 1574 | 100.0 |  | 
+ | [trytond](/f27/package/trytond) | 2648 | 2648 | 100.0 |  | 
+ | [trytond-account](/f27/package/trytond-account) | 2743 | 2743 | 100.0 |  | 
+ | [trytond-account-invoice](/f27/package/trytond-account-invoice) | 1028 | 1028 | 100.0 |  | 
+ | [trytond-account-invoice-history](/f27/package/trytond-account-invoice-history) | 2 | 2 | 100.0 |  | 
+ | [trytond-account-invoice-line-standalone](/f27/package/trytond-account-invoice-line-standalone) | 10 | 10 | 100.0 |  | 
+ | [trytond-account-product](/f27/package/trytond-account-product) | 296 | 296 | 100.0 |  | 
+ | [trytond-account-statement](/f27/package/trytond-account-statement) | 231 | 231 | 100.0 |  | 
+ | [trytond-account-stock-anglo-saxon](/f27/package/trytond-account-stock-anglo-saxon) | 74 | 74 | 100.0 |  | 
+ | [trytond-account-stock-continental](/f27/package/trytond-account-stock-continental) | 325 | 325 | 100.0 |  | 
+ | [trytond-analytic-account](/f27/package/trytond-analytic-account) | 184 | 184 | 100.0 |  | 
+ | [trytond-analytic-invoice](/f27/package/trytond-analytic-invoice) | 13 | 13 | 100.0 |  | 
+ | [trytond-analytic-purchase](/f27/package/trytond-analytic-purchase) | 22 | 22 | 100.0 |  | 
+ | [trytond-analytic-sale](/f27/package/trytond-analytic-sale) | 13 | 13 | 100.0 |  | 
+ | [trytond-calendar](/f27/package/trytond-calendar) | 621 | 621 | 100.0 |  | 
+ | [trytond-calendar-classification](/f27/package/trytond-calendar-classification) | 2 | 2 | 100.0 |  | 
+ | [trytond-calendar-scheduling](/f27/package/trytond-calendar-scheduling) | 100 | 100 | 100.0 |  | 
+ | [trytond-sale](/f27/package/trytond-sale) | 536 | 536 | 100.0 |  | 
+ | [trytond-sale-opportunity](/f27/package/trytond-sale-opportunity) | 320 | 320 | 100.0 |  | 
+ | [trytond-sale-price-list](/f27/package/trytond-sale-price-list) | 5 | 5 | 100.0 |  | 
+ | [trytond-stock](/f27/package/trytond-stock) | 1203 | 1203 | 100.0 |  | 
+ | [trytond-stock-forecast](/f27/package/trytond-stock-forecast) | 174 | 174 | 100.0 |  | 
+ | [trytond-stock-inventory-location](/f27/package/trytond-stock-inventory-location) | 17 | 17 | 100.0 |  | 
+ | [trytond-stock-location-sequence](/f27/package/trytond-stock-location-sequence) | 1 | 1 | 100.0 |  | 
+ | [trytond-stock-product-location](/f27/package/trytond-stock-product-location) | 23 | 23 | 100.0 |  | 
+ | [trytond-stock-supply](/f27/package/trytond-stock-supply) | 147 | 147 | 100.0 |  | 
+ | [trytond-stock-supply-day](/f27/package/trytond-stock-supply-day) | 27 | 27 | 100.0 |  | 
+ | [trytond-timesheet](/f27/package/trytond-timesheet) | 278 | 278 | 100.0 |  | 
+ | [glpi](/f27/package/glpi) | 11258 | 11284 | 99.8 | Spanish (Colombia) (http://www.transifex.com/glpi/GLPI/language/es_CO/) | 
+ | [libgweather](/f27/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmatekbd](/f27/package/libmatekbd) | 243 | 251 | 96.8 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-themes](/f27/package/mate-themes) | 58 | 60 | 96.7 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
+ | [python-django](/f27/package/python-django) | 3401 | 3590 | 94.7 | Spanish (Colombia) (http://www.transifex.com/django/django/language/es_CO/) | 
+ | [caja](/f27/package/caja) | 8407 | 9356 | 89.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [openerp7](/f27/package/openerp7) | 270 | 312 | 86.5 | Spanish (Colombia) <es_CO@li.org> | 
+ | [mate-applets](/f27/package/mate-applets) | 2137 | 2489 | 85.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [gnomebaker](/f27/package/gnomebaker) | 757 | 1186 | 63.8 | Spanish (Colombia) <es_CO@li.org> | 
+ | [xfe](/f27/package/xfe) | 2749 | 5954 | 46.2 | Spanish | 
+ | [python-django-helpdesk](/f27/package/python-django-helpdesk) | 1121 | 3241 | 34.6 | Spanish (Colombia) (http://www.transifex.com/projects/p/django-helpdesk/language/es_CO/) | 
+ | [mate-terminal](/f27/package/mate-terminal) | 1033 | 4649 | 22.2 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-menu](/f27/package/mate-menu) | 50 | 316 | 15.8 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
+ | [atril](/f27/package/atril) | 267 | 1792 | 14.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [csound](/f27/package/csound) | 2557 | 17244 | 14.8 |  | 
+ | [mate-session-manager](/f27/package/mate-session-manager) | 74 | 681 | 10.9 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-settings-daemon](/f27/package/mate-settings-daemon) | 179 | 1764 | 10.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-panel](/f27/package/mate-panel) | 413 | 4364 | 9.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [pluma](/f27/package/pluma) | 437 | 5068 | 8.6 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [caja-extensions](/f27/package/caja-extensions) | 43 | 570 | 7.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [engrampa](/f27/package/engrampa) | 144 | 1945 | 7.4 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-sensors-applet](/f27/package/mate-sensors-applet) | 20 | 306 | 6.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-media](/f27/package/mate-media) | 14 | 226 | 6.2 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-utils](/f27/package/mate-utils) | 221 | 3677 | 6.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-system-monitor](/f27/package/mate-system-monitor) | 50 | 1333 | 3.8 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [eom](/f27/package/eom) | 60 | 1717 | 3.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-control-center](/f27/package/mate-control-center) | 83 | 2658 | 3.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-desktop](/f27/package/mate-desktop) | 68 | 2305 | 3.0 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [libmatemixer](/f27/package/libmatemixer) | 6 | 242 | 2.5 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-screensaver](/f27/package/mate-screensaver) | 17 | 983 | 1.7 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-calc](/f27/package/mate-calc) | 23 | 1371 | 1.7 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [wicd](/f27/package/wicd) | 13 | 1138 | 1.1 | es_CO <LL@li.org> | 
+ | [marco](/f27/package/marco) | 46 | 4148 | 1.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [mate-power-manager](/f27/package/mate-power-manager) | 29 | 2724 | 1.1 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [xreader](/f27/package/xreader) | 11 | 1642 | 0.7 | Spanish (Colombia) (http://www.transifex.com/mate/MATE/language/es_CO/) | 
+ | [mate-user-guide](/f27/package/mate-user-guide) | 73 | 40821 | 0.2 | Spanish (Colombia) (https://www.transifex.com/mate/teams/13566/es_CO/) | 
+ | [openerp](/f27/package/openerp) | 0 | 0 | 0.0 | Spanish (Colombia) <es_CO@li.org> | 
 {.sortable}
 
 

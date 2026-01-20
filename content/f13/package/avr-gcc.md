@@ -18,25 +18,25 @@ The package avr-gcc (version 4.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 59095 | 59095 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/es.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/es.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 59095 | 59095 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/sv.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/sv.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/libcpp/po/vi.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 59095 | 59095 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/zh_CN.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1104 | 1261 | 87.5 | /mnt/stockage/packages/f13/avr-gcc/libcpp/po/uk.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 1036 | 1261 | 82.2 | /mnt/stockage/packages/f13/avr-gcc/libcpp/po/ca.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 48148 | 59095 | 81.5 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/id.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/id.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 43283 | 59100 | 73.2 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/de.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/de.po/mnt/stockage/packages/f13/avr-gcc/libstdc++-v3/po/de.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 34711 | 57834 | 60.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/sr.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 31684 | 59095 | 53.6 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/tr.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 28100 | 59095 | 47.6 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/zh_TW.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 23945 | 57834 | 41.4 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/ru.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 12605 | 59100 | 21.3 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/fr.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/fr.po/mnt/stockage/packages/f13/avr-gcc/libstdc++-v3/po/fr.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 9247 | 59095 | 15.6 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/da.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/da.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 8575 | 59095 | 14.5 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/fi.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/fi.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 5313 | 59095 | 9.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/nl.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/nl.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 5230 | 59095 | 8.9 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/ja.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/ja.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 436 | 59095 | 0.7 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/el.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/el.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 425 | 59095 | 0.7 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/be.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/be.po | 
+ | [es](/f13/language/es) | 59095 | 59095 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/es.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/es.po | 
+ | [sv](/f13/language/sv) | 59095 | 59095 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/sv.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/sv.po | 
+ | [vi](/f13/language/vi) | 1261 | 1261 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/libcpp/po/vi.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 59095 | 59095 | 100.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/zh_CN.po | 
+ | [uk](/f13/language/uk) | 1104 | 1261 | 87.5 | /mnt/stockage/packages/f13/avr-gcc/libcpp/po/uk.po | 
+ | [ca](/f13/language/ca) | 1036 | 1261 | 82.2 | /mnt/stockage/packages/f13/avr-gcc/libcpp/po/ca.po | 
+ | [id](/f13/language/id) | 48148 | 59095 | 81.5 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/id.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/id.po | 
+ | [de](/f13/language/de) | 43283 | 59100 | 73.2 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/de.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/de.po/mnt/stockage/packages/f13/avr-gcc/libstdc++-v3/po/de.po | 
+ | [sr](/f13/language/sr) | 34711 | 57834 | 60.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/sr.po | 
+ | [tr](/f13/language/tr) | 31684 | 59095 | 53.6 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/tr.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 28100 | 59095 | 47.6 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/zh_TW.po | 
+ | [ru](/f13/language/ru) | 23945 | 57834 | 41.4 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/ru.po | 
+ | [fr](/f13/language/fr) | 12605 | 59100 | 21.3 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/fr.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/fr.po/mnt/stockage/packages/f13/avr-gcc/libstdc++-v3/po/fr.po | 
+ | [da](/f13/language/da) | 9247 | 59095 | 15.6 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/da.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/da.po | 
+ | [fi](/f13/language/fi) | 8575 | 59095 | 14.5 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/fi.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/fi.po | 
+ | [nl](/f13/language/nl) | 5313 | 59095 | 9.0 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/nl.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/nl.po | 
+ | [ja](/f13/language/ja) | 5230 | 59095 | 8.9 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/ja.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/ja.po | 
+ | [el](/f13/language/el) | 436 | 59095 | 0.7 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/el.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/el.po | 
+ | [be](/f13/language/be) | 425 | 59095 | 0.7 | /mnt/stockage/packages/f13/avr-gcc/gcc/po/be.po/mnt/stockage/packages/f13/avr-gcc/libcpp/po/be.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package ibus-pinyin (version 1.3.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f13/ibus-pinyin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f13/ibus-pinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f13/language/zh_Hant_HK.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f13/ibus-pinyin/po/zh_HK.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 63 | 157 | 40.1 | /mnt/stockage/packages/f13/ibus-pinyin/po/ru.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 157 | 157 | 100.0 | /mnt/stockage/packages/f13/ibus-pinyin/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 157 | 157 | 100.0 | /mnt/stockage/packages/f13/ibus-pinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f13/language/zh_Hant_HK) | 157 | 157 | 100.0 | /mnt/stockage/packages/f13/ibus-pinyin/po/zh_HK.po | 
+ | [ru](/f13/language/ru) | 63 | 157 | 40.1 | /mnt/stockage/packages/f13/ibus-pinyin/po/ru.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package help2man (version 1.36.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f8/help2man/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f8/help2man/po/pl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 284 | 284 | 100.0 | /mnt/stockage/packages/f8/help2man/po/sv.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 236 | 284 | 83.1 | /mnt/stockage/packages/f8/help2man/po/fi.po | 
+ | [fr](/f8/language/fr) | 284 | 284 | 100.0 | /mnt/stockage/packages/f8/help2man/po/fr.po | 
+ | [pl](/f8/language/pl) | 284 | 284 | 100.0 | /mnt/stockage/packages/f8/help2man/po/pl.po | 
+ | [sv](/f8/language/sv) | 284 | 284 | 100.0 | /mnt/stockage/packages/f8/help2man/po/sv.po | 
+ | [fi](/f8/language/fi) | 236 | 284 | 83.1 | /mnt/stockage/packages/f8/help2man/po/fi.po | 
 {.sortable}
 
 

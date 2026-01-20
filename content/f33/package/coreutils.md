@@ -18,49 +18,49 @@ The package coreutils (version 8.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/bg.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/cs.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/fr.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/hr.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/pl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/pt.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/ru.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/uk.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 20687 | 21194 | 97.6 | /mnt/stockage/packages/f33/coreutils/po/da.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 20687 | 21194 | 97.6 | /mnt/stockage/packages/f33/coreutils/po/nb.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 20009 | 21194 | 94.4 | /mnt/stockage/packages/f33/coreutils/po/zh_TW.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 19924 | 21194 | 94.0 | /mnt/stockage/packages/f33/coreutils/po/et.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 19924 | 21194 | 94.0 | /mnt/stockage/packages/f33/coreutils/po/vi.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 19558 | 21194 | 92.3 | /mnt/stockage/packages/f33/coreutils/po/ca.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 19558 | 21194 | 92.3 | /mnt/stockage/packages/f33/coreutils/po/hu.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 19410 | 21194 | 91.6 | /mnt/stockage/packages/f33/coreutils/po/nl.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 18583 | 21194 | 87.7 | /mnt/stockage/packages/f33/coreutils/po/sr.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 17998 | 21194 | 84.9 | /mnt/stockage/packages/f33/coreutils/po/sl.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 17822 | 21194 | 84.1 | /mnt/stockage/packages/f33/coreutils/po/zh_CN.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 14297 | 21194 | 67.5 | /mnt/stockage/packages/f33/coreutils/po/es.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 9884 | 21194 | 46.6 | /mnt/stockage/packages/f33/coreutils/po/eo.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 9652 | 21194 | 45.5 | /mnt/stockage/packages/f33/coreutils/po/ja.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 9375 | 21194 | 44.2 | /mnt/stockage/packages/f33/coreutils/po/it.po | 
- | [lg]({{< ref "/f33/language/lg.md" >}}) | 8865 | 21194 | 41.8 | /mnt/stockage/packages/f33/coreutils/po/lg.po | 
- | [id]({{< ref "/f33/language/id.md" >}}) | 8186 | 21194 | 38.6 | /mnt/stockage/packages/f33/coreutils/po/id.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 8071 | 21194 | 38.1 | /mnt/stockage/packages/f33/coreutils/po/tr.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 6382 | 21194 | 30.1 | /mnt/stockage/packages/f33/coreutils/po/ga.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 6157 | 21194 | 29.1 | /mnt/stockage/packages/f33/coreutils/po/fi.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 3774 | 21194 | 17.8 | /mnt/stockage/packages/f33/coreutils/po/sk.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 2615 | 21194 | 12.3 | /mnt/stockage/packages/f33/coreutils/po/be.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 2481 | 21194 | 11.7 | /mnt/stockage/packages/f33/coreutils/po/ro.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 1639 | 21194 | 7.7 | /mnt/stockage/packages/f33/coreutils/po/lt.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 1537 | 21194 | 7.3 | /mnt/stockage/packages/f33/coreutils/po/gl.po | 
- | [af]({{< ref "/f33/language/af.md" >}}) | 1519 | 21194 | 7.2 | /mnt/stockage/packages/f33/coreutils/po/af.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1329 | 21194 | 6.3 | /mnt/stockage/packages/f33/coreutils/po/eu.po | 
- | [ko]({{< ref "/f33/language/ko.md" >}}) | 1298 | 21194 | 6.1 | /mnt/stockage/packages/f33/coreutils/po/ko.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 1260 | 21194 | 5.9 | /mnt/stockage/packages/f33/coreutils/po/ms.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 948 | 21194 | 4.5 | /mnt/stockage/packages/f33/coreutils/po/el.po | 
- | [ia]({{< ref "/f33/language/ia.md" >}}) | 270 | 21194 | 1.3 | /mnt/stockage/packages/f33/coreutils/po/ia.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 36 | 21194 | 0.2 | /mnt/stockage/packages/f33/coreutils/po/kk.po | 
+ | [bg](/f33/language/bg) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/bg.po | 
+ | [cs](/f33/language/cs) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/cs.po | 
+ | [de](/f33/language/de) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/de.po | 
+ | [fr](/f33/language/fr) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/fr.po | 
+ | [hr](/f33/language/hr) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/hr.po | 
+ | [pl](/f33/language/pl) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/pl.po | 
+ | [pt](/f33/language/pt) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/pt.po | 
+ | [pt_BR](/f33/language/pt_BR) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/pt_BR.po | 
+ | [ru](/f33/language/ru) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/ru.po | 
+ | [sv](/f33/language/sv) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/sv.po | 
+ | [uk](/f33/language/uk) | 21194 | 21194 | 100.0 | /mnt/stockage/packages/f33/coreutils/po/uk.po | 
+ | [da](/f33/language/da) | 20687 | 21194 | 97.6 | /mnt/stockage/packages/f33/coreutils/po/da.po | 
+ | [nb_NO](/f33/language/nb_NO) | 20687 | 21194 | 97.6 | /mnt/stockage/packages/f33/coreutils/po/nb.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 20009 | 21194 | 94.4 | /mnt/stockage/packages/f33/coreutils/po/zh_TW.po | 
+ | [et](/f33/language/et) | 19924 | 21194 | 94.0 | /mnt/stockage/packages/f33/coreutils/po/et.po | 
+ | [vi](/f33/language/vi) | 19924 | 21194 | 94.0 | /mnt/stockage/packages/f33/coreutils/po/vi.po | 
+ | [ca](/f33/language/ca) | 19558 | 21194 | 92.3 | /mnt/stockage/packages/f33/coreutils/po/ca.po | 
+ | [hu](/f33/language/hu) | 19558 | 21194 | 92.3 | /mnt/stockage/packages/f33/coreutils/po/hu.po | 
+ | [nl](/f33/language/nl) | 19410 | 21194 | 91.6 | /mnt/stockage/packages/f33/coreutils/po/nl.po | 
+ | [sr](/f33/language/sr) | 18583 | 21194 | 87.7 | /mnt/stockage/packages/f33/coreutils/po/sr.po | 
+ | [sl](/f33/language/sl) | 17998 | 21194 | 84.9 | /mnt/stockage/packages/f33/coreutils/po/sl.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 17822 | 21194 | 84.1 | /mnt/stockage/packages/f33/coreutils/po/zh_CN.po | 
+ | [es](/f33/language/es) | 14297 | 21194 | 67.5 | /mnt/stockage/packages/f33/coreutils/po/es.po | 
+ | [eo](/f33/language/eo) | 9884 | 21194 | 46.6 | /mnt/stockage/packages/f33/coreutils/po/eo.po | 
+ | [ja](/f33/language/ja) | 9652 | 21194 | 45.5 | /mnt/stockage/packages/f33/coreutils/po/ja.po | 
+ | [it](/f33/language/it) | 9375 | 21194 | 44.2 | /mnt/stockage/packages/f33/coreutils/po/it.po | 
+ | [lg](/f33/language/lg) | 8865 | 21194 | 41.8 | /mnt/stockage/packages/f33/coreutils/po/lg.po | 
+ | [id](/f33/language/id) | 8186 | 21194 | 38.6 | /mnt/stockage/packages/f33/coreutils/po/id.po | 
+ | [tr](/f33/language/tr) | 8071 | 21194 | 38.1 | /mnt/stockage/packages/f33/coreutils/po/tr.po | 
+ | [ga](/f33/language/ga) | 6382 | 21194 | 30.1 | /mnt/stockage/packages/f33/coreutils/po/ga.po | 
+ | [fi](/f33/language/fi) | 6157 | 21194 | 29.1 | /mnt/stockage/packages/f33/coreutils/po/fi.po | 
+ | [sk](/f33/language/sk) | 3774 | 21194 | 17.8 | /mnt/stockage/packages/f33/coreutils/po/sk.po | 
+ | [be](/f33/language/be) | 2615 | 21194 | 12.3 | /mnt/stockage/packages/f33/coreutils/po/be.po | 
+ | [ro](/f33/language/ro) | 2481 | 21194 | 11.7 | /mnt/stockage/packages/f33/coreutils/po/ro.po | 
+ | [lt](/f33/language/lt) | 1639 | 21194 | 7.7 | /mnt/stockage/packages/f33/coreutils/po/lt.po | 
+ | [gl](/f33/language/gl) | 1537 | 21194 | 7.3 | /mnt/stockage/packages/f33/coreutils/po/gl.po | 
+ | [af](/f33/language/af) | 1519 | 21194 | 7.2 | /mnt/stockage/packages/f33/coreutils/po/af.po | 
+ | [eu](/f33/language/eu) | 1329 | 21194 | 6.3 | /mnt/stockage/packages/f33/coreutils/po/eu.po | 
+ | [ko](/f33/language/ko) | 1298 | 21194 | 6.1 | /mnt/stockage/packages/f33/coreutils/po/ko.po | 
+ | [ms](/f33/language/ms) | 1260 | 21194 | 5.9 | /mnt/stockage/packages/f33/coreutils/po/ms.po | 
+ | [el](/f33/language/el) | 948 | 21194 | 4.5 | /mnt/stockage/packages/f33/coreutils/po/el.po | 
+ | [ia](/f33/language/ia) | 270 | 21194 | 1.3 | /mnt/stockage/packages/f33/coreutils/po/ia.po | 
+ | [kk](/f33/language/kk) | 36 | 21194 | 0.2 | /mnt/stockage/packages/f33/coreutils/po/kk.po | 
 {.sortable}
 
 

@@ -18,45 +18,45 @@ The package grub-customizer (version 5.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ca.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-en_GB.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-es.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-hr.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-it.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-lt.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-nl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-sv.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1292 | 1295 | 99.8 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-de.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1180 | 1295 | 91.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-cs.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 1180 | 1295 | 91.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-sk.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 1160 | 1295 | 89.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ko.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1137 | 1295 | 87.8 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-fi.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 1129 | 1295 | 87.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-hu.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 1064 | 1295 | 82.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-uk.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 888 | 1295 | 68.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-fr.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 849 | 1295 | 65.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-pt.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 844 | 1295 | 65.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-zh_TW.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 755 | 1295 | 58.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-pl.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 651 | 1295 | 50.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-gl.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 640 | 1295 | 49.4 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-el.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 576 | 1295 | 44.5 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ja.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 573 | 1295 | 44.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-zh_CN.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 561 | 1295 | 43.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-tr.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 545 | 1295 | 42.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-bs.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 443 | 1295 | 34.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-eu.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 415 | 1295 | 32.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-th.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 352 | 1295 | 27.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ast.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 303 | 1295 | 23.4 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-vi.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 283 | 1295 | 21.9 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-bg.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 198 | 1295 | 15.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ar.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 190 | 1295 | 14.7 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-kk.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 48 | 1295 | 3.7 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-cy.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 46 | 1295 | 3.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ro.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 1 | 1295 | 0.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ta.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 0 | 1295 | 0.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-et.po | 
+ | [ca](/f40/language/ca) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ca.po | 
+ | [en_GB](/f40/language/en_GB) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-en_GB.po | 
+ | [es](/f40/language/es) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-es.po | 
+ | [hr](/f40/language/hr) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-hr.po | 
+ | [it](/f40/language/it) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-it.po | 
+ | [lt](/f40/language/lt) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-lt.po | 
+ | [nl](/f40/language/nl) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-nl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-pt_BR.po | 
+ | [ru](/f40/language/ru) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ru.po | 
+ | [sr](/f40/language/sr) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-sr.po | 
+ | [sv](/f40/language/sv) | 1295 | 1295 | 100.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-sv.po | 
+ | [de](/f40/language/de) | 1292 | 1295 | 99.8 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-de.po | 
+ | [cs](/f40/language/cs) | 1180 | 1295 | 91.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-cs.po | 
+ | [sk](/f40/language/sk) | 1180 | 1295 | 91.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-sk.po | 
+ | [ko](/f40/language/ko) | 1160 | 1295 | 89.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ko.po | 
+ | [fi](/f40/language/fi) | 1137 | 1295 | 87.8 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-fi.po | 
+ | [hu](/f40/language/hu) | 1129 | 1295 | 87.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-hu.po | 
+ | [uk](/f40/language/uk) | 1064 | 1295 | 82.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-uk.po | 
+ | [fr](/f40/language/fr) | 888 | 1295 | 68.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-fr.po | 
+ | [pt](/f40/language/pt) | 849 | 1295 | 65.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-pt.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 844 | 1295 | 65.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-zh_TW.po | 
+ | [pl](/f40/language/pl) | 755 | 1295 | 58.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-pl.po | 
+ | [gl](/f40/language/gl) | 651 | 1295 | 50.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-gl.po | 
+ | [el](/f40/language/el) | 640 | 1295 | 49.4 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-el.po | 
+ | [ja](/f40/language/ja) | 576 | 1295 | 44.5 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ja.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 573 | 1295 | 44.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-zh_CN.po | 
+ | [tr](/f40/language/tr) | 561 | 1295 | 43.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-tr.po | 
+ | [bs](/f40/language/bs) | 545 | 1295 | 42.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-bs.po | 
+ | [eu](/f40/language/eu) | 443 | 1295 | 34.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-eu.po | 
+ | [th](/f40/language/th) | 415 | 1295 | 32.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-th.po | 
+ | [ast](/f40/language/ast) | 352 | 1295 | 27.2 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ast.po | 
+ | [vi](/f40/language/vi) | 303 | 1295 | 23.4 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-vi.po | 
+ | [bg](/f40/language/bg) | 283 | 1295 | 21.9 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-bg.po | 
+ | [ar](/f40/language/ar) | 198 | 1295 | 15.3 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ar.po | 
+ | [kk](/f40/language/kk) | 190 | 1295 | 14.7 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-kk.po | 
+ | [cy](/f40/language/cy) | 48 | 1295 | 3.7 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-cy.po | 
+ | [ro](/f40/language/ro) | 46 | 1295 | 3.6 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ro.po | 
+ | [ta](/f40/language/ta) | 1 | 1295 | 0.1 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-ta.po | 
+ | [et](/f40/language/et) | 0 | 1295 | 0.0 | /mnt/stockage/packages/f40/grub-customizer/translation/translation-et.po | 
 {.sortable}
 
 

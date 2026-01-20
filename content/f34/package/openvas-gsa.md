@@ -18,14 +18,14 @@ The package openvas-gsa (version 9.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 6651 | 6651 | 100.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-de.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 174 | 292 | 59.6 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-pt_BR.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 85 | 292 | 29.1 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-ar.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 1168 | 5999 | 19.5 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-zh_TW.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 0 | 292 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-fr.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-ru.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 0 | 292 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 0 | 181 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-zh_CN.po | 
+ | [de](/f34/language/de) | 6651 | 6651 | 100.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-de.po | 
+ | [pt_BR](/f34/language/pt_BR) | 174 | 292 | 59.6 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-pt_BR.po | 
+ | [ar](/f34/language/ar) | 85 | 292 | 29.1 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-ar.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 1168 | 5999 | 19.5 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-zh_TW.po | 
+ | [fr](/f34/language/fr) | 0 | 292 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-fr.po | 
+ | [ru](/f34/language/ru) | 0 | 181 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-ru.po | 
+ | [tr](/f34/language/tr) | 0 | 292 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 0 | 181 | 0.0 | /mnt/stockage/packages/f34/openvas-gsa/gsa/po/gsa-zh_CN.po | 
 {.sortable}
 
 

@@ -18,44 +18,44 @@ The package mediawriter (version 5.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_cs.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fr.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fur.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_it.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ko.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pt-BR.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ru.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_uk.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 840 | 845 | 99.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_he.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 840 | 845 | 99.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_zh-CN.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 834 | 845 | 98.7 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_de.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 829 | 845 | 98.1 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_zh-TW.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 764 | 845 | 90.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ar.po | 
- | [fil]({{< ref "/f36/language/fil.md" >}}) | 749 | 845 | 88.6 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fil.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 700 | 845 | 82.8 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ja.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 565 | 845 | 66.9 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_id.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 483 | 845 | 57.2 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fa.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 434 | 845 | 51.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_da.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 434 | 845 | 51.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_hr.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 434 | 845 | 51.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sk.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 423 | 845 | 50.1 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_hu.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 418 | 845 | 49.5 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_nl.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 411 | 845 | 48.6 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ca.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 411 | 845 | 48.6 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sr.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 401 | 845 | 47.5 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pa.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 293 | 845 | 34.7 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_bg.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 275 | 845 | 32.5 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sq.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 221 | 845 | 26.2 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ml.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 195 | 845 | 23.1 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ta.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 10 | 845 | 1.2 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_eu.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 3 | 845 | 0.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_kn.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 0 | 845 | 0.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ka.po | 
+ | [cs](/f36/language/cs) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_cs.po | 
+ | [es](/f36/language/es) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_es.po | 
+ | [fi](/f36/language/fi) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fi.po | 
+ | [fr](/f36/language/fr) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fr.po | 
+ | [fur](/f36/language/fur) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fur.po | 
+ | [it](/f36/language/it) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_it.po | 
+ | [ko](/f36/language/ko) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ko.po | 
+ | [pl](/f36/language/pl) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pl.po | 
+ | [pt](/f36/language/pt) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pt-BR.po | 
+ | [ru](/f36/language/ru) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ru.po | 
+ | [sv](/f36/language/sv) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sv.po | 
+ | [tr](/f36/language/tr) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_tr.po | 
+ | [uk](/f36/language/uk) | 845 | 845 | 100.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_uk.po | 
+ | [he](/f36/language/he) | 840 | 845 | 99.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_he.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 840 | 845 | 99.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_zh-CN.po | 
+ | [de](/f36/language/de) | 834 | 845 | 98.7 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_de.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 829 | 845 | 98.1 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_zh-TW.po | 
+ | [ar](/f36/language/ar) | 764 | 845 | 90.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ar.po | 
+ | [fil](/f36/language/fil) | 749 | 845 | 88.6 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fil.po | 
+ | [ja](/f36/language/ja) | 700 | 845 | 82.8 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ja.po | 
+ | [id](/f36/language/id) | 565 | 845 | 66.9 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_id.po | 
+ | [fa](/f36/language/fa) | 483 | 845 | 57.2 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_fa.po | 
+ | [da](/f36/language/da) | 434 | 845 | 51.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_da.po | 
+ | [hr](/f36/language/hr) | 434 | 845 | 51.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_hr.po | 
+ | [sk](/f36/language/sk) | 434 | 845 | 51.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sk.po | 
+ | [hu](/f36/language/hu) | 423 | 845 | 50.1 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_hu.po | 
+ | [nl](/f36/language/nl) | 418 | 845 | 49.5 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_nl.po | 
+ | [ca](/f36/language/ca) | 411 | 845 | 48.6 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ca.po | 
+ | [sr](/f36/language/sr) | 411 | 845 | 48.6 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sr.po | 
+ | [pa](/f36/language/pa) | 401 | 845 | 47.5 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_pa.po | 
+ | [bg](/f36/language/bg) | 293 | 845 | 34.7 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_bg.po | 
+ | [sq](/f36/language/sq) | 275 | 845 | 32.5 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_sq.po | 
+ | [ml](/f36/language/ml) | 221 | 845 | 26.2 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ml.po | 
+ | [ta](/f36/language/ta) | 195 | 845 | 23.1 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ta.po | 
+ | [eu](/f36/language/eu) | 10 | 845 | 1.2 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_eu.po | 
+ | [kn](/f36/language/kn) | 3 | 845 | 0.4 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_kn.po | 
+ | [ka](/f36/language/ka) | 0 | 845 | 0.0 | /mnt/stockage/packages/f36/mediawriter/po/mediawriter_ka.po | 
 {.sortable}
 
 

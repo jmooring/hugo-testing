@@ -18,7 +18,7 @@ The package aqbanking (version 2.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f8/aqbanking/po/de.po | 
+ | [de](/f8/language/de) | 5904 | 5904 | 100.0 | /mnt/stockage/packages/f8/aqbanking/po/de.po | 
 {.sortable}
 
 

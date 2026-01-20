@@ -18,22 +18,22 @@ The package gnutls (version 3.6.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/cs.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/eo.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/it.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/pl.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/pt_BR.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/uk.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/es.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/fi.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/nl.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/sr.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/sv.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/vi.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/zh_CN.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 756 | 1812 | 41.7 | /mnt/stockage/packages/f30/gnutls/po/ms.po | 
+ | [cs](/f30/language/cs) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/cs.po | 
+ | [eo](/f30/language/eo) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/eo.po | 
+ | [fr](/f30/language/fr) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/fr.po | 
+ | [it](/f30/language/it) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/it.po | 
+ | [pl](/f30/language/pl) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/pl.po | 
+ | [pt_BR](/f30/language/pt_BR) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/pt_BR.po | 
+ | [uk](/f30/language/uk) | 1787 | 1812 | 98.6 | /mnt/stockage/packages/f30/gnutls/po/uk.po | 
+ | [de](/f30/language/de) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/de.po | 
+ | [es](/f30/language/es) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/es.po | 
+ | [fi](/f30/language/fi) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/fi.po | 
+ | [nl](/f30/language/nl) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/nl.po | 
+ | [sr](/f30/language/sr) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/sr.po | 
+ | [sv](/f30/language/sv) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/sv.po | 
+ | [vi](/f30/language/vi) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/vi.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 1247 | 1812 | 68.8 | /mnt/stockage/packages/f30/gnutls/po/zh_CN.po | 
+ | [ms](/f30/language/ms) | 756 | 1812 | 41.7 | /mnt/stockage/packages/f30/gnutls/po/ms.po | 
 {.sortable}
 
 

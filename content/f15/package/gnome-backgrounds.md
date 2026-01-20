@@ -18,93 +18,93 @@ The package gnome-backgrounds (version 3.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f15/language/af.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/af.po | 
- | [an]({{< ref "/f15/language/an.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/an.po | 
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ar.po | 
- | [as]({{< ref "/f15/language/as.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/as.po | 
- | [ast]({{< ref "/f15/language/ast.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ast.po | 
- | [be]({{< ref "/f15/language/be.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/be.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/bg.po | 
- | [bn]({{< ref "/f15/language/bn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/bn.po | 
- | [bn_IN]({{< ref "/f15/language/bn_IN.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/bn_IN.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ca@valencia.po/mnt/stockage/packages/f15/gnome-backgrounds/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/cs.po | 
- | [cy]({{< ref "/f15/language/cy.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/cy.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/da.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/de.po | 
- | [dz]({{< ref "/f15/language/dz.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/dz.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/el.po | 
- | [en_CA]({{< ref "/f15/language/en_CA.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/en_CA.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/en_GB.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/en@shaw.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/es.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/et.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/eu.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fa.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fr.po | 
- | [fur]({{< ref "/f15/language/fur.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fur.po | 
- | [fy]({{< ref "/f15/language/fy.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fy.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ga.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/gl.po | 
- | [gu]({{< ref "/f15/language/gu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/gu.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/he.po | 
- | [hi]({{< ref "/f15/language/hi.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/hi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/hu.po | 
- | [hy]({{< ref "/f15/language/hy.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/hy.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ja.po | 
- | [ka]({{< ref "/f15/language/ka.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ka.po | 
- | [kk]({{< ref "/f15/language/kk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/kk.po | 
- | [kn]({{< ref "/f15/language/kn.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/kn.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ko.po | 
- | [ku]({{< ref "/f15/language/ku.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ku.po | 
- | [ky]({{< ref "/f15/language/ky.md" >}}) | 35 | 35 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ky.po | 
- | [lt]({{< ref "/f15/language/lt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/lt.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/lv.po | 
- | [mg]({{< ref "/f15/language/mg.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mg.po | 
- | [mk]({{< ref "/f15/language/mk.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mk.po | 
- | [ml]({{< ref "/f15/language/ml.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ml.po | 
- | [mn]({{< ref "/f15/language/mn.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mn.po | 
- | [mr]({{< ref "/f15/language/mr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mr.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nb.po | 
- | [nds]({{< ref "/f15/language/nds.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nds.po | 
- | [ne]({{< ref "/f15/language/ne.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ne.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nl.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nn.po | 
- | [or]({{< ref "/f15/language/or.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/or.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pa.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pl.po | 
- | [ps]({{< ref "/f15/language/ps.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ps.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pt_BR.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ro.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ru.po | 
- | [si]({{< ref "/f15/language/si.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/si.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sk.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sl.po | 
- | [sq]({{< ref "/f15/language/sq.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sq.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sr@latin.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sv.po | 
- | [ta]({{< ref "/f15/language/ta.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ta.po | 
- | [te]({{< ref "/f15/language/te.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/te.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/th.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/tr.po | 
- | [ug]({{< ref "/f15/language/ug.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ug.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f15/language/zh_Hant_HK.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/zh_HK.po | 
- | [be_Latn]({{< ref "/f15/language/be_Latn.md" >}}) | 22 | 23 | 95.7 | /mnt/stockage/packages/f15/gnome-backgrounds/po/be@latin.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 21 | 23 | 91.3 | /mnt/stockage/packages/f15/gnome-backgrounds/po/eo.po | 
- | [mai]({{< ref "/f15/language/mai.md" >}}) | 16 | 18 | 88.9 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mai.po | 
- | [ms]({{< ref "/f15/language/ms.md" >}}) | 20 | 23 | 87.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ms.po | 
- | [uz]({{< ref "/f15/language/uz.md" >}}) | 28 | 36 | 77.8 | /mnt/stockage/packages/f15/gnome-backgrounds/po/uz.po/mnt/stockage/packages/f15/gnome-backgrounds/po/uz@cyrillic.po | 
- | [oc]({{< ref "/f15/language/oc.md" >}}) | 17 | 23 | 73.9 | /mnt/stockage/packages/f15/gnome-backgrounds/po/oc.po | 
- | [rw]({{< ref "/f15/language/rw.md" >}}) | 0 | 35 | 0.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/rw.po | 
+ | [af](/f15/language/af) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/af.po | 
+ | [an](/f15/language/an) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/an.po | 
+ | [ar](/f15/language/ar) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ar.po | 
+ | [as](/f15/language/as) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/as.po | 
+ | [ast](/f15/language/ast) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ast.po | 
+ | [be](/f15/language/be) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/be.po | 
+ | [bg](/f15/language/bg) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/bg.po | 
+ | [bn](/f15/language/bn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/bn.po | 
+ | [bn_IN](/f15/language/bn_IN) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/bn_IN.po | 
+ | [ca](/f15/language/ca) | 52 | 52 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ca@valencia.po/mnt/stockage/packages/f15/gnome-backgrounds/po/ca.po | 
+ | [cs](/f15/language/cs) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/cs.po | 
+ | [cy](/f15/language/cy) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/cy.po | 
+ | [da](/f15/language/da) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/da.po | 
+ | [de](/f15/language/de) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/de.po | 
+ | [dz](/f15/language/dz) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/dz.po | 
+ | [el](/f15/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/el.po | 
+ | [en_CA](/f15/language/en_CA) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/en_CA.po | 
+ | [en_GB](/f15/language/en_GB) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/en_GB.po | 
+ | [error](/f15/language/error) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/en@shaw.po | 
+ | [es](/f15/language/es) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/es.po | 
+ | [et](/f15/language/et) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/et.po | 
+ | [eu](/f15/language/eu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/eu.po | 
+ | [fa](/f15/language/fa) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fa.po | 
+ | [fi](/f15/language/fi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fi.po | 
+ | [fr](/f15/language/fr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fr.po | 
+ | [fur](/f15/language/fur) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fur.po | 
+ | [fy](/f15/language/fy) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/fy.po | 
+ | [ga](/f15/language/ga) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ga.po | 
+ | [gl](/f15/language/gl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/gl.po | 
+ | [gu](/f15/language/gu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/gu.po | 
+ | [he](/f15/language/he) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/he.po | 
+ | [hi](/f15/language/hi) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/hi.po | 
+ | [hu](/f15/language/hu) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/hu.po | 
+ | [hy](/f15/language/hy) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/hy.po | 
+ | [id](/f15/language/id) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/id.po | 
+ | [it](/f15/language/it) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/it.po | 
+ | [ja](/f15/language/ja) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ja.po | 
+ | [ka](/f15/language/ka) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ka.po | 
+ | [kk](/f15/language/kk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/kk.po | 
+ | [kn](/f15/language/kn) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/kn.po | 
+ | [ko](/f15/language/ko) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ko.po | 
+ | [ku](/f15/language/ku) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ku.po | 
+ | [ky](/f15/language/ky) | 35 | 35 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ky.po | 
+ | [lt](/f15/language/lt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/lt.po | 
+ | [lv](/f15/language/lv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/lv.po | 
+ | [mg](/f15/language/mg) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mg.po | 
+ | [mk](/f15/language/mk) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mk.po | 
+ | [ml](/f15/language/ml) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ml.po | 
+ | [mn](/f15/language/mn) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mn.po | 
+ | [mr](/f15/language/mr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mr.po | 
+ | [nb_NO](/f15/language/nb_NO) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nb.po | 
+ | [nds](/f15/language/nds) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nds.po | 
+ | [ne](/f15/language/ne) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ne.po | 
+ | [nl](/f15/language/nl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nl.po | 
+ | [nn](/f15/language/nn) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/nn.po | 
+ | [or](/f15/language/or) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/or.po | 
+ | [pa](/f15/language/pa) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pa.po | 
+ | [pl](/f15/language/pl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pl.po | 
+ | [ps](/f15/language/ps) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ps.po | 
+ | [pt](/f15/language/pt) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/pt_BR.po | 
+ | [ro](/f15/language/ro) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ro.po | 
+ | [ru](/f15/language/ru) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ru.po | 
+ | [si](/f15/language/si) | 18 | 18 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/si.po | 
+ | [sk](/f15/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sk.po | 
+ | [sl](/f15/language/sl) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sl.po | 
+ | [sq](/f15/language/sq) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sq.po | 
+ | [sr](/f15/language/sr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sr@latin.po | 
+ | [sv](/f15/language/sv) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/sv.po | 
+ | [ta](/f15/language/ta) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ta.po | 
+ | [te](/f15/language/te) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/te.po | 
+ | [th](/f15/language/th) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/th.po | 
+ | [tr](/f15/language/tr) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/tr.po | 
+ | [ug](/f15/language/ug) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ug.po | 
+ | [uk](/f15/language/uk) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/uk.po | 
+ | [vi](/f15/language/vi) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 23 | 23 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/zh_TW.po | 
+ | [zh_Hant_HK](/f15/language/zh_Hant_HK) | 29 | 29 | 100.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/zh_HK.po | 
+ | [be_Latn](/f15/language/be_Latn) | 22 | 23 | 95.7 | /mnt/stockage/packages/f15/gnome-backgrounds/po/be@latin.po | 
+ | [eo](/f15/language/eo) | 21 | 23 | 91.3 | /mnt/stockage/packages/f15/gnome-backgrounds/po/eo.po | 
+ | [mai](/f15/language/mai) | 16 | 18 | 88.9 | /mnt/stockage/packages/f15/gnome-backgrounds/po/mai.po | 
+ | [ms](/f15/language/ms) | 20 | 23 | 87.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/ms.po | 
+ | [uz](/f15/language/uz) | 28 | 36 | 77.8 | /mnt/stockage/packages/f15/gnome-backgrounds/po/uz.po/mnt/stockage/packages/f15/gnome-backgrounds/po/uz@cyrillic.po | 
+ | [oc](/f15/language/oc) | 17 | 23 | 73.9 | /mnt/stockage/packages/f15/gnome-backgrounds/po/oc.po | 
+ | [rw](/f15/language/rw) | 0 | 35 | 0.0 | /mnt/stockage/packages/f15/gnome-backgrounds/po/rw.po | 
 {.sortable}
 
 

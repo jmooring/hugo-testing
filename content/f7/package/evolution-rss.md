@@ -18,9 +18,9 @@ The package evolution-rss (version 0.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 216 | 216 | 100.0 | /mnt/stockage/packages/f7/evolution-rss/po/sv.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 92 | 288 | 31.9 | /mnt/stockage/packages/f7/evolution-rss/po/ro.po | 
- | [en_AU]({{< ref "/f7/language/en_AU.md" >}}) | 0 | 41 | 0.0 | /mnt/stockage/packages/f7/evolution-rss/po/en_AU.po | 
+ | [sv](/f7/language/sv) | 216 | 216 | 100.0 | /mnt/stockage/packages/f7/evolution-rss/po/sv.po | 
+ | [ro](/f7/language/ro) | 92 | 288 | 31.9 | /mnt/stockage/packages/f7/evolution-rss/po/ro.po | 
+ | [en_AU](/f7/language/en_AU) | 0 | 41 | 0.0 | /mnt/stockage/packages/f7/evolution-rss/po/en_AU.po | 
 {.sortable}
 
 

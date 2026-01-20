@@ -18,69 +18,69 @@ The package kimagemapeditor (version 25.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ar/kimagemapeditor.po | 
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/bg/kimagemapeditor.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ca/kimagemapeditor.po | 
- | [ca@valencia]({{< ref "/f42/language/ca@valencia.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ca@valencia/kimagemapeditor.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/da/kimagemapeditor.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/de/kimagemapeditor.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/el/kimagemapeditor.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/en_GB/kimagemapeditor.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/eo/kimagemapeditor.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/es/kimagemapeditor.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/eu/kimagemapeditor.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/fi/kimagemapeditor.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/fr/kimagemapeditor.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/gl/kimagemapeditor.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/he/kimagemapeditor.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/hi/kimagemapeditor.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/hu/kimagemapeditor.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ia/kimagemapeditor.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/it/kimagemapeditor.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ka/kimagemapeditor.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ko/kimagemapeditor.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/lv/kimagemapeditor.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/nl/kimagemapeditor.po | 
- | [nn]({{< ref "/f42/language/nn.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/nn/kimagemapeditor.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/pl/kimagemapeditor.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/pt/kimagemapeditor.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/pt_BR/kimagemapeditor.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ru/kimagemapeditor.po | 
- | [sa]({{< ref "/f42/language/sa.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sa/kimagemapeditor.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sk/kimagemapeditor.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sl/kimagemapeditor.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sv/kimagemapeditor.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/tr/kimagemapeditor.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/uk/kimagemapeditor.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/zh_CN/kimagemapeditor.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/zh_TW/kimagemapeditor.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 610 | 620 | 98.4 | /mnt/stockage/packages/f42/kimagemapeditor/po/et/kimagemapeditor.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 597 | 620 | 96.3 | /mnt/stockage/packages/f42/kimagemapeditor/po/cs/kimagemapeditor.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 571 | 620 | 92.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/nb/kimagemapeditor.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 566 | 620 | 91.3 | /mnt/stockage/packages/f42/kimagemapeditor/po/ja/kimagemapeditor.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/bs/kimagemapeditor.po | 
- | [hne]({{< ref "/f42/language/hne.md" >}}) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/hne/kimagemapeditor.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/kk/kimagemapeditor.po | 
- | [nds]({{< ref "/f42/language/nds.md" >}}) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/nds/kimagemapeditor.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 545 | 620 | 87.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/fa/kimagemapeditor.po | 
- | [ne]({{< ref "/f42/language/ne.md" >}}) | 536 | 620 | 86.5 | /mnt/stockage/packages/f42/kimagemapeditor/po/ne/kimagemapeditor.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 508 | 620 | 81.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/ta/kimagemapeditor.po | 
- | [zh_Hant_HK]({{< ref "/f42/language/zh_Hant_HK.md" >}}) | 508 | 620 | 81.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/zh_HK/kimagemapeditor.po | 
- | [tg]({{< ref "/f42/language/tg.md" >}}) | 502 | 620 | 81.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/tg/kimagemapeditor.po | 
- | [ga]({{< ref "/f42/language/ga.md" >}}) | 392 | 620 | 63.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/ga/kimagemapeditor.po | 
- | [br]({{< ref "/f42/language/br.md" >}}) | 219 | 620 | 35.3 | /mnt/stockage/packages/f42/kimagemapeditor/po/br/kimagemapeditor.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 93 | 620 | 15.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ro/kimagemapeditor.po | 
- | [ug]({{< ref "/f42/language/ug.md" >}}) | 88 | 620 | 14.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/ug/kimagemapeditor.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 78 | 620 | 12.6 | /mnt/stockage/packages/f42/kimagemapeditor/po/pa/kimagemapeditor.po | 
- | [cy]({{< ref "/f42/language/cy.md" >}}) | 74 | 620 | 11.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/cy/kimagemapeditor.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 62 | 620 | 10.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/lt/kimagemapeditor.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 52 | 620 | 8.4 | /mnt/stockage/packages/f42/kimagemapeditor/po/ms/kimagemapeditor.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 51 | 620 | 8.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/oc/kimagemapeditor.po | 
- | [mr]({{< ref "/f42/language/mr.md" >}}) | 37 | 620 | 6.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/mr/kimagemapeditor.po | 
- | [be]({{< ref "/f42/language/be.md" >}}) | 4 | 620 | 0.6 | /mnt/stockage/packages/f42/kimagemapeditor/po/be/kimagemapeditor.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 4 | 620 | 0.6 | /mnt/stockage/packages/f42/kimagemapeditor/po/km/kimagemapeditor.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 1 | 620 | 0.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/hr/kimagemapeditor.po | 
- | [se]({{< ref "/f42/language/se.md" >}}) | 0 | 620 | 0.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/se/kimagemapeditor.po | 
+ | [ar](/f42/language/ar) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ar/kimagemapeditor.po | 
+ | [bg](/f42/language/bg) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/bg/kimagemapeditor.po | 
+ | [ca](/f42/language/ca) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ca/kimagemapeditor.po | 
+ | [ca@valencia](/f42/language/ca@valencia) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ca@valencia/kimagemapeditor.po | 
+ | [da](/f42/language/da) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/da/kimagemapeditor.po | 
+ | [de](/f42/language/de) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/de/kimagemapeditor.po | 
+ | [el](/f42/language/el) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/el/kimagemapeditor.po | 
+ | [en_GB](/f42/language/en_GB) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/en_GB/kimagemapeditor.po | 
+ | [eo](/f42/language/eo) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/eo/kimagemapeditor.po | 
+ | [es](/f42/language/es) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/es/kimagemapeditor.po | 
+ | [eu](/f42/language/eu) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/eu/kimagemapeditor.po | 
+ | [fi](/f42/language/fi) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/fi/kimagemapeditor.po | 
+ | [fr](/f42/language/fr) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/fr/kimagemapeditor.po | 
+ | [gl](/f42/language/gl) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/gl/kimagemapeditor.po | 
+ | [he](/f42/language/he) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/he/kimagemapeditor.po | 
+ | [hi](/f42/language/hi) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/hi/kimagemapeditor.po | 
+ | [hu](/f42/language/hu) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/hu/kimagemapeditor.po | 
+ | [ia](/f42/language/ia) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ia/kimagemapeditor.po | 
+ | [it](/f42/language/it) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/it/kimagemapeditor.po | 
+ | [ka](/f42/language/ka) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ka/kimagemapeditor.po | 
+ | [ko](/f42/language/ko) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ko/kimagemapeditor.po | 
+ | [lv](/f42/language/lv) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/lv/kimagemapeditor.po | 
+ | [nl](/f42/language/nl) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/nl/kimagemapeditor.po | 
+ | [nn](/f42/language/nn) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/nn/kimagemapeditor.po | 
+ | [pl](/f42/language/pl) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/pl/kimagemapeditor.po | 
+ | [pt](/f42/language/pt) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/pt/kimagemapeditor.po | 
+ | [pt_BR](/f42/language/pt_BR) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/pt_BR/kimagemapeditor.po | 
+ | [ru](/f42/language/ru) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ru/kimagemapeditor.po | 
+ | [sa](/f42/language/sa) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sa/kimagemapeditor.po | 
+ | [sk](/f42/language/sk) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sk/kimagemapeditor.po | 
+ | [sl](/f42/language/sl) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sl/kimagemapeditor.po | 
+ | [sv](/f42/language/sv) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/sv/kimagemapeditor.po | 
+ | [tr](/f42/language/tr) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/tr/kimagemapeditor.po | 
+ | [uk](/f42/language/uk) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/uk/kimagemapeditor.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/zh_CN/kimagemapeditor.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 620 | 620 | 100.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/zh_TW/kimagemapeditor.po | 
+ | [et](/f42/language/et) | 610 | 620 | 98.4 | /mnt/stockage/packages/f42/kimagemapeditor/po/et/kimagemapeditor.po | 
+ | [cs](/f42/language/cs) | 597 | 620 | 96.3 | /mnt/stockage/packages/f42/kimagemapeditor/po/cs/kimagemapeditor.po | 
+ | [nb_NO](/f42/language/nb_NO) | 571 | 620 | 92.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/nb/kimagemapeditor.po | 
+ | [ja](/f42/language/ja) | 566 | 620 | 91.3 | /mnt/stockage/packages/f42/kimagemapeditor/po/ja/kimagemapeditor.po | 
+ | [bs](/f42/language/bs) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/bs/kimagemapeditor.po | 
+ | [hne](/f42/language/hne) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/hne/kimagemapeditor.po | 
+ | [kk](/f42/language/kk) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/kk/kimagemapeditor.po | 
+ | [nds](/f42/language/nds) | 565 | 620 | 91.1 | /mnt/stockage/packages/f42/kimagemapeditor/po/nds/kimagemapeditor.po | 
+ | [fa](/f42/language/fa) | 545 | 620 | 87.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/fa/kimagemapeditor.po | 
+ | [ne](/f42/language/ne) | 536 | 620 | 86.5 | /mnt/stockage/packages/f42/kimagemapeditor/po/ne/kimagemapeditor.po | 
+ | [ta](/f42/language/ta) | 508 | 620 | 81.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/ta/kimagemapeditor.po | 
+ | [zh_Hant_HK](/f42/language/zh_Hant_HK) | 508 | 620 | 81.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/zh_HK/kimagemapeditor.po | 
+ | [tg](/f42/language/tg) | 502 | 620 | 81.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/tg/kimagemapeditor.po | 
+ | [ga](/f42/language/ga) | 392 | 620 | 63.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/ga/kimagemapeditor.po | 
+ | [br](/f42/language/br) | 219 | 620 | 35.3 | /mnt/stockage/packages/f42/kimagemapeditor/po/br/kimagemapeditor.po | 
+ | [ro](/f42/language/ro) | 93 | 620 | 15.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/ro/kimagemapeditor.po | 
+ | [ug](/f42/language/ug) | 88 | 620 | 14.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/ug/kimagemapeditor.po | 
+ | [pa](/f42/language/pa) | 78 | 620 | 12.6 | /mnt/stockage/packages/f42/kimagemapeditor/po/pa/kimagemapeditor.po | 
+ | [cy](/f42/language/cy) | 74 | 620 | 11.9 | /mnt/stockage/packages/f42/kimagemapeditor/po/cy/kimagemapeditor.po | 
+ | [lt](/f42/language/lt) | 62 | 620 | 10.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/lt/kimagemapeditor.po | 
+ | [ms](/f42/language/ms) | 52 | 620 | 8.4 | /mnt/stockage/packages/f42/kimagemapeditor/po/ms/kimagemapeditor.po | 
+ | [oc](/f42/language/oc) | 51 | 620 | 8.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/oc/kimagemapeditor.po | 
+ | [mr](/f42/language/mr) | 37 | 620 | 6.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/mr/kimagemapeditor.po | 
+ | [be](/f42/language/be) | 4 | 620 | 0.6 | /mnt/stockage/packages/f42/kimagemapeditor/po/be/kimagemapeditor.po | 
+ | [km](/f42/language/km) | 4 | 620 | 0.6 | /mnt/stockage/packages/f42/kimagemapeditor/po/km/kimagemapeditor.po | 
+ | [hr](/f42/language/hr) | 1 | 620 | 0.2 | /mnt/stockage/packages/f42/kimagemapeditor/po/hr/kimagemapeditor.po | 
+ | [se](/f42/language/se) | 0 | 620 | 0.0 | /mnt/stockage/packages/f42/kimagemapeditor/po/se/kimagemapeditor.po | 
 {.sortable}
 
 

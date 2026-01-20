@@ -18,45 +18,45 @@ The package findutils (version 4.5.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/cs.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/et.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/fi.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/fr.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/pl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/ru.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/vi.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/zh_CN.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 2086 | 2511 | 83.1 | /mnt/stockage/packages/f21/findutils/po/el.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/da.po | 
- | [hr]({{< ref "/f21/language/hr.md" >}}) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/hr.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/it.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/ja.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/sl.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 1724 | 2511 | 68.7 | /mnt/stockage/packages/f21/findutils/po/gl.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 1509 | 2511 | 60.1 | /mnt/stockage/packages/f21/findutils/po/hu.po | 
- | [ga]({{< ref "/f21/language/ga.md" >}}) | 1486 | 2511 | 59.2 | /mnt/stockage/packages/f21/findutils/po/ga.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 1486 | 2511 | 59.2 | /mnt/stockage/packages/f21/findutils/po/id.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 1486 | 2511 | 59.2 | /mnt/stockage/packages/f21/findutils/po/sv.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1442 | 2511 | 57.4 | /mnt/stockage/packages/f21/findutils/po/de.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 1235 | 2511 | 49.2 | /mnt/stockage/packages/f21/findutils/po/bg.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 1235 | 2511 | 49.2 | /mnt/stockage/packages/f21/findutils/po/tr.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 1098 | 2511 | 43.7 | /mnt/stockage/packages/f21/findutils/po/pt.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 591 | 2511 | 23.5 | /mnt/stockage/packages/f21/findutils/po/ca.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 523 | 2511 | 20.8 | /mnt/stockage/packages/f21/findutils/po/ro.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 516 | 2511 | 20.5 | /mnt/stockage/packages/f21/findutils/po/sk.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 455 | 2511 | 18.1 | /mnt/stockage/packages/f21/findutils/po/zh_TW.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 409 | 2511 | 16.3 | /mnt/stockage/packages/f21/findutils/po/lt.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 264 | 2511 | 10.5 | /mnt/stockage/packages/f21/findutils/po/es.po | 
- | [sr]({{< ref "/f21/language/sr.md" >}}) | 264 | 2511 | 10.5 | /mnt/stockage/packages/f21/findutils/po/sr.po | 
- | [eo]({{< ref "/f21/language/eo.md" >}}) | 103 | 2511 | 4.1 | /mnt/stockage/packages/f21/findutils/po/eo.po | 
- | [lg]({{< ref "/f21/language/lg.md" >}}) | 103 | 2511 | 4.1 | /mnt/stockage/packages/f21/findutils/po/lg.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 103 | 2511 | 4.1 | /mnt/stockage/packages/f21/findutils/po/pt_BR.po | 
- | [ko]({{< ref "/f21/language/ko.md" >}}) | 86 | 2511 | 3.4 | /mnt/stockage/packages/f21/findutils/po/ko.po | 
- | [be]({{< ref "/f21/language/be.md" >}}) | 82 | 2511 | 3.3 | /mnt/stockage/packages/f21/findutils/po/be.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 55 | 2511 | 2.2 | /mnt/stockage/packages/f21/findutils/po/ms.po | 
- | [rw]({{< ref "/f21/language/rw.md" >}}) | 2 | 2511 | 0.1 | /mnt/stockage/packages/f21/findutils/po/rw.po | 
+ | [cs](/f21/language/cs) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/cs.po | 
+ | [et](/f21/language/et) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/et.po | 
+ | [fi](/f21/language/fi) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/fi.po | 
+ | [fr](/f21/language/fr) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/fr.po | 
+ | [nl](/f21/language/nl) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/nl.po | 
+ | [pl](/f21/language/pl) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/pl.po | 
+ | [ru](/f21/language/ru) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/ru.po | 
+ | [uk](/f21/language/uk) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/uk.po | 
+ | [vi](/f21/language/vi) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/vi.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 2105 | 2511 | 83.8 | /mnt/stockage/packages/f21/findutils/po/zh_CN.po | 
+ | [el](/f21/language/el) | 2086 | 2511 | 83.1 | /mnt/stockage/packages/f21/findutils/po/el.po | 
+ | [da](/f21/language/da) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/da.po | 
+ | [hr](/f21/language/hr) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/hr.po | 
+ | [it](/f21/language/it) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/it.po | 
+ | [ja](/f21/language/ja) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/ja.po | 
+ | [sl](/f21/language/sl) | 1886 | 2511 | 75.1 | /mnt/stockage/packages/f21/findutils/po/sl.po | 
+ | [gl](/f21/language/gl) | 1724 | 2511 | 68.7 | /mnt/stockage/packages/f21/findutils/po/gl.po | 
+ | [hu](/f21/language/hu) | 1509 | 2511 | 60.1 | /mnt/stockage/packages/f21/findutils/po/hu.po | 
+ | [ga](/f21/language/ga) | 1486 | 2511 | 59.2 | /mnt/stockage/packages/f21/findutils/po/ga.po | 
+ | [id](/f21/language/id) | 1486 | 2511 | 59.2 | /mnt/stockage/packages/f21/findutils/po/id.po | 
+ | [sv](/f21/language/sv) | 1486 | 2511 | 59.2 | /mnt/stockage/packages/f21/findutils/po/sv.po | 
+ | [de](/f21/language/de) | 1442 | 2511 | 57.4 | /mnt/stockage/packages/f21/findutils/po/de.po | 
+ | [bg](/f21/language/bg) | 1235 | 2511 | 49.2 | /mnt/stockage/packages/f21/findutils/po/bg.po | 
+ | [tr](/f21/language/tr) | 1235 | 2511 | 49.2 | /mnt/stockage/packages/f21/findutils/po/tr.po | 
+ | [pt](/f21/language/pt) | 1098 | 2511 | 43.7 | /mnt/stockage/packages/f21/findutils/po/pt.po | 
+ | [ca](/f21/language/ca) | 591 | 2511 | 23.5 | /mnt/stockage/packages/f21/findutils/po/ca.po | 
+ | [ro](/f21/language/ro) | 523 | 2511 | 20.8 | /mnt/stockage/packages/f21/findutils/po/ro.po | 
+ | [sk](/f21/language/sk) | 516 | 2511 | 20.5 | /mnt/stockage/packages/f21/findutils/po/sk.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 455 | 2511 | 18.1 | /mnt/stockage/packages/f21/findutils/po/zh_TW.po | 
+ | [lt](/f21/language/lt) | 409 | 2511 | 16.3 | /mnt/stockage/packages/f21/findutils/po/lt.po | 
+ | [es](/f21/language/es) | 264 | 2511 | 10.5 | /mnt/stockage/packages/f21/findutils/po/es.po | 
+ | [sr](/f21/language/sr) | 264 | 2511 | 10.5 | /mnt/stockage/packages/f21/findutils/po/sr.po | 
+ | [eo](/f21/language/eo) | 103 | 2511 | 4.1 | /mnt/stockage/packages/f21/findutils/po/eo.po | 
+ | [lg](/f21/language/lg) | 103 | 2511 | 4.1 | /mnt/stockage/packages/f21/findutils/po/lg.po | 
+ | [pt_BR](/f21/language/pt_BR) | 103 | 2511 | 4.1 | /mnt/stockage/packages/f21/findutils/po/pt_BR.po | 
+ | [ko](/f21/language/ko) | 86 | 2511 | 3.4 | /mnt/stockage/packages/f21/findutils/po/ko.po | 
+ | [be](/f21/language/be) | 82 | 2511 | 3.3 | /mnt/stockage/packages/f21/findutils/po/be.po | 
+ | [ms](/f21/language/ms) | 55 | 2511 | 2.2 | /mnt/stockage/packages/f21/findutils/po/ms.po | 
+ | [rw](/f21/language/rw) | 2 | 2511 | 0.1 | /mnt/stockage/packages/f21/findutils/po/rw.po | 
 {.sortable}
 
 

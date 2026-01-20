@@ -18,9 +18,9 @@ The package perl (version 5.38.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f40/language/error.md" >}}) | 16 | 16 | 100.0 | /mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_with_i_default/i_default.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 10 | 32 | 31.2 | /mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_with_i_default/en.po/mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_without_i_default/en.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 10 | 32 | 31.2 | /mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_with_i_default/fr.po/mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_without_i_default/fr.po | 
+ | [error](/f40/language/error) | 16 | 16 | 100.0 | /mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_with_i_default/i_default.po | 
+ | [en](/f40/language/en) | 10 | 32 | 31.2 | /mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_with_i_default/en.po/mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_without_i_default/en.po | 
+ | [fr](/f40/language/fr) | 10 | 32 | 31.2 | /mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_with_i_default/fr.po/mnt/stockage/packages/f40/perl/cpan/Locale-Maketext-Simple/t/po_without_i_default/fr.po | 
 {.sortable}
 
 

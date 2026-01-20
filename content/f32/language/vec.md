@@ -42,9 +42,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint-stamps]({{< ref "/f32/package/tuxpaint-stamps.md" >}}) | 3220 | 3249 | 99.1 | none | 
- | [slick-greeter]({{< ref "/f32/package/slick-greeter.md" >}}) | 197 | 211 | 93.4 | Venetian <vec@li.org> | 
- | [tuxpaint]({{< ref "/f32/package/tuxpaint.md" >}}) | 1198 | 1662 | 72.1 | none | 
+ | [tuxpaint-stamps](/f32/package/tuxpaint-stamps) | 3220 | 3249 | 99.1 | none | 
+ | [slick-greeter](/f32/package/slick-greeter) | 197 | 211 | 93.4 | Venetian <vec@li.org> | 
+ | [tuxpaint](/f32/package/tuxpaint) | 1198 | 1662 | 72.1 | none | 
 {.sortable}
 
 

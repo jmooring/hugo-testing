@@ -18,95 +18,95 @@ The package libgnomecanvas (version 2.30.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ar.po | 
- | [as]({{< ref "/f41/language/as.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/as.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ast.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/az.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/be.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bg.po | 
- | [bn]({{< ref "/f41/language/bn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bn.po | 
- | [bn_IN]({{< ref "/f41/language/bn_IN.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bn_IN.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bs.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 756 | 756 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ca.po/mnt/stockage/packages/f41/libgnomecanvas/po/ca@valencia.po | 
- | [crh]({{< ref "/f41/language/crh.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/crh.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/cs.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/cy.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/de.po | 
- | [dz]({{< ref "/f41/language/dz.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/dz.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/el.po | 
- | [en_CA]({{< ref "/f41/language/en_CA.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/en_CA.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/en_GB.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/es.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/et.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/eu.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/fr.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/gl.po | 
- | [gu]({{< ref "/f41/language/gu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/gu.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/he.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/hi.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/hr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/hu.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/id.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ja.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ka.po | 
- | [kn]({{< ref "/f41/language/kn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/kn.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ko.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/lt.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/lv.po | 
- | [mai]({{< ref "/f41/language/mai.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mai.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mk.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ml.po | 
- | [mn]({{< ref "/f41/language/mn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mn.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mr.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ms.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/nb.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ne.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/nl.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/nn.po | 
- | [or]({{< ref "/f41/language/or.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/or.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pt_BR.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ro.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sk.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sl.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sq.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sr@ije.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sr@latin.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sv.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ta.po | 
- | [te]({{< ref "/f41/language/te.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/te.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/th.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/tr.po | 
- | [tt]({{< ref "/f41/language/tt.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/tt.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ug.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/vi.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/xh.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/zh_HK.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 344 | 357 | 96.4 | /mnt/stockage/packages/f41/libgnomecanvas/po/fa.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 339 | 357 | 95.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/is.po | 
- | [li]({{< ref "/f41/language/li.md" >}}) | 339 | 357 | 95.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/li.po | 
- | [yi]({{< ref "/f41/language/yi.md" >}}) | 339 | 357 | 95.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/yi.po | 
- | [mg]({{< ref "/f41/language/mg.md" >}}) | 356 | 378 | 94.2 | /mnt/stockage/packages/f41/libgnomecanvas/po/mg.po | 
- | [wa]({{< ref "/f41/language/wa.md" >}}) | 328 | 357 | 91.9 | /mnt/stockage/packages/f41/libgnomecanvas/po/wa.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 318 | 378 | 84.1 | /mnt/stockage/packages/f41/libgnomecanvas/po/en@shaw.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 132 | 357 | 37.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ga.po | 
- | [am]({{< ref "/f41/language/am.md" >}}) | 45 | 357 | 12.6 | /mnt/stockage/packages/f41/libgnomecanvas/po/am.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 30 | 378 | 7.9 | /mnt/stockage/packages/f41/libgnomecanvas/po/br.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 29 | 378 | 7.7 | /mnt/stockage/packages/f41/libgnomecanvas/po/oc.po | 
- | [rw]({{< ref "/f41/language/rw.md" >}}) | 23 | 357 | 6.4 | /mnt/stockage/packages/f41/libgnomecanvas/po/rw.po | 
- | [ku]({{< ref "/f41/language/ku.md" >}}) | 16 | 357 | 4.5 | /mnt/stockage/packages/f41/libgnomecanvas/po/ku.po | 
- | [ang]({{< ref "/f41/language/ang.md" >}}) | 14 | 357 | 3.9 | /mnt/stockage/packages/f41/libgnomecanvas/po/ang.po | 
+ | [ar](/f41/language/ar) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ar.po | 
+ | [as](/f41/language/as) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/as.po | 
+ | [ast](/f41/language/ast) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ast.po | 
+ | [az](/f41/language/az) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/az.po | 
+ | [be](/f41/language/be) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/be.po | 
+ | [bg](/f41/language/bg) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bg.po | 
+ | [bn](/f41/language/bn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bn.po | 
+ | [bn_IN](/f41/language/bn_IN) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bn_IN.po | 
+ | [bs](/f41/language/bs) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/bs.po | 
+ | [ca](/f41/language/ca) | 756 | 756 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ca.po/mnt/stockage/packages/f41/libgnomecanvas/po/ca@valencia.po | 
+ | [crh](/f41/language/crh) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/crh.po | 
+ | [cs](/f41/language/cs) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/cs.po | 
+ | [cy](/f41/language/cy) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/cy.po | 
+ | [da](/f41/language/da) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/da.po | 
+ | [de](/f41/language/de) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/de.po | 
+ | [dz](/f41/language/dz) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/dz.po | 
+ | [el](/f41/language/el) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/el.po | 
+ | [en_CA](/f41/language/en_CA) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/en_CA.po | 
+ | [en_GB](/f41/language/en_GB) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/en_GB.po | 
+ | [eo](/f41/language/eo) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/eo.po | 
+ | [es](/f41/language/es) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/es.po | 
+ | [et](/f41/language/et) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/et.po | 
+ | [eu](/f41/language/eu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/eu.po | 
+ | [fi](/f41/language/fi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/fi.po | 
+ | [fr](/f41/language/fr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/fr.po | 
+ | [gl](/f41/language/gl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/gl.po | 
+ | [gu](/f41/language/gu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/gu.po | 
+ | [he](/f41/language/he) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/he.po | 
+ | [hi](/f41/language/hi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/hi.po | 
+ | [hr](/f41/language/hr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/hr.po | 
+ | [hu](/f41/language/hu) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/hu.po | 
+ | [id](/f41/language/id) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/id.po | 
+ | [it](/f41/language/it) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/it.po | 
+ | [ja](/f41/language/ja) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ja.po | 
+ | [ka](/f41/language/ka) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ka.po | 
+ | [kn](/f41/language/kn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/kn.po | 
+ | [ko](/f41/language/ko) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ko.po | 
+ | [lt](/f41/language/lt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/lt.po | 
+ | [lv](/f41/language/lv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/lv.po | 
+ | [mai](/f41/language/mai) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mai.po | 
+ | [mk](/f41/language/mk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mk.po | 
+ | [ml](/f41/language/ml) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ml.po | 
+ | [mn](/f41/language/mn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mn.po | 
+ | [mr](/f41/language/mr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/mr.po | 
+ | [ms](/f41/language/ms) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ms.po | 
+ | [nb_NO](/f41/language/nb_NO) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/nb.po | 
+ | [ne](/f41/language/ne) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ne.po | 
+ | [nl](/f41/language/nl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/nl.po | 
+ | [nn](/f41/language/nn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/nn.po | 
+ | [or](/f41/language/or) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/or.po | 
+ | [pa](/f41/language/pa) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pa.po | 
+ | [pl](/f41/language/pl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pl.po | 
+ | [pt](/f41/language/pt) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/pt_BR.po | 
+ | [ro](/f41/language/ro) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ro.po | 
+ | [ru](/f41/language/ru) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ru.po | 
+ | [sk](/f41/language/sk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sk.po | 
+ | [sl](/f41/language/sl) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sl.po | 
+ | [sq](/f41/language/sq) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sq.po | 
+ | [sr](/f41/language/sr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sr.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sr@ije.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sr@latin.po | 
+ | [sv](/f41/language/sv) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/sv.po | 
+ | [ta](/f41/language/ta) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ta.po | 
+ | [te](/f41/language/te) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/te.po | 
+ | [th](/f41/language/th) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/th.po | 
+ | [tr](/f41/language/tr) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/tr.po | 
+ | [tt](/f41/language/tt) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/tt.po | 
+ | [ug](/f41/language/ug) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ug.po | 
+ | [uk](/f41/language/uk) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/uk.po | 
+ | [vi](/f41/language/vi) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/vi.po | 
+ | [xh](/f41/language/xh) | 357 | 357 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/xh.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/zh_CN.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/zh_TW.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 378 | 378 | 100.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/zh_HK.po | 
+ | [fa](/f41/language/fa) | 344 | 357 | 96.4 | /mnt/stockage/packages/f41/libgnomecanvas/po/fa.po | 
+ | [is](/f41/language/is) | 339 | 357 | 95.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/is.po | 
+ | [li](/f41/language/li) | 339 | 357 | 95.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/li.po | 
+ | [yi](/f41/language/yi) | 339 | 357 | 95.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/yi.po | 
+ | [mg](/f41/language/mg) | 356 | 378 | 94.2 | /mnt/stockage/packages/f41/libgnomecanvas/po/mg.po | 
+ | [wa](/f41/language/wa) | 328 | 357 | 91.9 | /mnt/stockage/packages/f41/libgnomecanvas/po/wa.po | 
+ | [error](/f41/language/error) | 318 | 378 | 84.1 | /mnt/stockage/packages/f41/libgnomecanvas/po/en@shaw.po | 
+ | [ga](/f41/language/ga) | 132 | 357 | 37.0 | /mnt/stockage/packages/f41/libgnomecanvas/po/ga.po | 
+ | [am](/f41/language/am) | 45 | 357 | 12.6 | /mnt/stockage/packages/f41/libgnomecanvas/po/am.po | 
+ | [br](/f41/language/br) | 30 | 378 | 7.9 | /mnt/stockage/packages/f41/libgnomecanvas/po/br.po | 
+ | [oc](/f41/language/oc) | 29 | 378 | 7.7 | /mnt/stockage/packages/f41/libgnomecanvas/po/oc.po | 
+ | [rw](/f41/language/rw) | 23 | 357 | 6.4 | /mnt/stockage/packages/f41/libgnomecanvas/po/rw.po | 
+ | [ku](/f41/language/ku) | 16 | 357 | 4.5 | /mnt/stockage/packages/f41/libgnomecanvas/po/ku.po | 
+ | [ang](/f41/language/ang) | 14 | 357 | 3.9 | /mnt/stockage/packages/f41/libgnomecanvas/po/ang.po | 
 {.sortable}
 
 

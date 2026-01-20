@@ -18,8 +18,8 @@ The package python-pyramid (version 1.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale/de_DE/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale/de/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale2/de/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale3/de/LC_MESSAGES/deformsite.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale/en/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale2/en/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale3/en/LC_MESSAGES/deformsite.po | 
+ | [de](/f36/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale/de_DE/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale/de/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale2/de/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale3/de/LC_MESSAGES/deformsite.po | 
+ | [en](/f36/language/en) | 12 | 12 | 100.0 | /mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale/en/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale2/en/LC_MESSAGES/deformsite.po/mnt/stockage/packages/f36/python-pyramid/tests/pkgs/localeapp/locale3/en/LC_MESSAGES/deformsite.po | 
 {.sortable}
 
 

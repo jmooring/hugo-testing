@@ -18,15 +18,15 @@ The package galculator (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 683 | 779 | 87.7 | /mnt/stockage/packages/f10/galculator/po/de.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 654 | 779 | 84.0 | /mnt/stockage/packages/f10/galculator/po/ja.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 614 | 779 | 78.8 | /mnt/stockage/packages/f10/galculator/po/pt_BR.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 611 | 779 | 78.4 | /mnt/stockage/packages/f10/galculator/po/pl.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 492 | 779 | 63.2 | /mnt/stockage/packages/f10/galculator/po/fr.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 492 | 779 | 63.2 | /mnt/stockage/packages/f10/galculator/po/ro.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 362 | 779 | 46.5 | /mnt/stockage/packages/f10/galculator/po/sk.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 340 | 779 | 43.6 | /mnt/stockage/packages/f10/galculator/po/ru.po | 
- | [es_MX]({{< ref "/f10/language/es_MX.md" >}}) | 91 | 779 | 11.7 | /mnt/stockage/packages/f10/galculator/po/es_MX.po | 
+ | [de](/f10/language/de) | 683 | 779 | 87.7 | /mnt/stockage/packages/f10/galculator/po/de.po | 
+ | [ja](/f10/language/ja) | 654 | 779 | 84.0 | /mnt/stockage/packages/f10/galculator/po/ja.po | 
+ | [pt_BR](/f10/language/pt_BR) | 614 | 779 | 78.8 | /mnt/stockage/packages/f10/galculator/po/pt_BR.po | 
+ | [pl](/f10/language/pl) | 611 | 779 | 78.4 | /mnt/stockage/packages/f10/galculator/po/pl.po | 
+ | [fr](/f10/language/fr) | 492 | 779 | 63.2 | /mnt/stockage/packages/f10/galculator/po/fr.po | 
+ | [ro](/f10/language/ro) | 492 | 779 | 63.2 | /mnt/stockage/packages/f10/galculator/po/ro.po | 
+ | [sk](/f10/language/sk) | 362 | 779 | 46.5 | /mnt/stockage/packages/f10/galculator/po/sk.po | 
+ | [ru](/f10/language/ru) | 340 | 779 | 43.6 | /mnt/stockage/packages/f10/galculator/po/ru.po | 
+ | [es_MX](/f10/language/es_MX) | 91 | 779 | 11.7 | /mnt/stockage/packages/f10/galculator/po/es_MX.po | 
 {.sortable}
 
 

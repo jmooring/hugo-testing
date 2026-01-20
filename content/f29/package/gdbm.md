@@ -18,19 +18,19 @@ The package gdbm (version 1.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/pt_BR.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/vi.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/da.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/eo.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/fr.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/sv.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 582 | 813 | 71.6 | /mnt/stockage/packages/f29/gdbm/po/de.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 582 | 813 | 71.6 | /mnt/stockage/packages/f29/gdbm/po/fi.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 246 | 813 | 30.3 | /mnt/stockage/packages/f29/gdbm/po/ja.po | 
+ | [pl](/f29/language/pl) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/pt_BR.po | 
+ | [uk](/f29/language/uk) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/uk.po | 
+ | [vi](/f29/language/vi) | 800 | 813 | 98.4 | /mnt/stockage/packages/f29/gdbm/po/vi.po | 
+ | [da](/f29/language/da) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/da.po | 
+ | [eo](/f29/language/eo) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/eo.po | 
+ | [es](/f29/language/es) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/es.po | 
+ | [fr](/f29/language/fr) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/fr.po | 
+ | [sr](/f29/language/sr) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/sr.po | 
+ | [sv](/f29/language/sv) | 739 | 813 | 90.9 | /mnt/stockage/packages/f29/gdbm/po/sv.po | 
+ | [de](/f29/language/de) | 582 | 813 | 71.6 | /mnt/stockage/packages/f29/gdbm/po/de.po | 
+ | [fi](/f29/language/fi) | 582 | 813 | 71.6 | /mnt/stockage/packages/f29/gdbm/po/fi.po | 
+ | [ja](/f29/language/ja) | 246 | 813 | 30.3 | /mnt/stockage/packages/f29/gdbm/po/ja.po | 
 {.sortable}
 
 

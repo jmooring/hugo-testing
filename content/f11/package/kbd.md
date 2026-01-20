@@ -18,21 +18,21 @@ The package kbd (version 1.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/cs.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/da.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/de.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 3695 | 3695 | 100.0 | /mnt/stockage/packages/f11/kbd/po/el.po/mnt/stockage/packages/f11/kbd/po/gr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/fr.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/id.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/nl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/pl.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f11/kbd/po/ro.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 1660 | 1660 | 100.0 | /mnt/stockage/packages/f11/kbd/po/sv.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f11/kbd/po/tr.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 1660 | 1660 | 100.0 | /mnt/stockage/packages/f11/kbd/po/uk.po | 
- | [vi]({{< ref "/f11/language/vi.md" >}}) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/vi.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1150 | 1806 | 63.7 | /mnt/stockage/packages/f11/kbd/po/ru.po | 
+ | [cs](/f11/language/cs) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/cs.po | 
+ | [da](/f11/language/da) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/da.po | 
+ | [de](/f11/language/de) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/de.po | 
+ | [el](/f11/language/el) | 3695 | 3695 | 100.0 | /mnt/stockage/packages/f11/kbd/po/el.po/mnt/stockage/packages/f11/kbd/po/gr.po | 
+ | [es](/f11/language/es) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/es.po | 
+ | [fr](/f11/language/fr) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/fr.po | 
+ | [id](/f11/language/id) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/id.po | 
+ | [nl](/f11/language/nl) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/nl.po | 
+ | [pl](/f11/language/pl) | 2054 | 2054 | 100.0 | /mnt/stockage/packages/f11/kbd/po/pl.po | 
+ | [ro](/f11/language/ro) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f11/kbd/po/ro.po | 
+ | [sv](/f11/language/sv) | 1660 | 1660 | 100.0 | /mnt/stockage/packages/f11/kbd/po/sv.po | 
+ | [tr](/f11/language/tr) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f11/kbd/po/tr.po | 
+ | [uk](/f11/language/uk) | 1660 | 1660 | 100.0 | /mnt/stockage/packages/f11/kbd/po/uk.po | 
+ | [vi](/f11/language/vi) | 1733 | 1733 | 100.0 | /mnt/stockage/packages/f11/kbd/po/vi.po | 
+ | [ru](/f11/language/ru) | 1150 | 1806 | 63.7 | /mnt/stockage/packages/f11/kbd/po/ru.po | 
 {.sortable}
 
 

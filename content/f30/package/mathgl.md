@@ -18,9 +18,9 @@ The package mathgl (version 2.4.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f30/language/es.md" >}}) | 6174 | 6174 | 100.0 | /mnt/stockage/packages/f30/mathgl/mathgl_es.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 6146 | 6174 | 99.5 | /mnt/stockage/packages/f30/mathgl/mathgl_ru.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 1 | 6103 | 0.0 | /mnt/stockage/packages/f30/mathgl/mathgl_en.po | 
+ | [es](/f30/language/es) | 6174 | 6174 | 100.0 | /mnt/stockage/packages/f30/mathgl/mathgl_es.po | 
+ | [ru](/f30/language/ru) | 6146 | 6174 | 99.5 | /mnt/stockage/packages/f30/mathgl/mathgl_ru.po | 
+ | [en](/f30/language/en) | 1 | 6103 | 0.0 | /mnt/stockage/packages/f30/mathgl/mathgl_en.po | 
 {.sortable}
 
 

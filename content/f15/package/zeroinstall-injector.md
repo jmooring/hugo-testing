@@ -18,9 +18,9 @@ The package zeroinstall-injector (version 1.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 5785 | 5785 | 100.0 | /mnt/stockage/packages/f15/zeroinstall-injector/share/locale/de/LC_MESSAGES/zero-install.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 5736 | 5736 | 100.0 | /mnt/stockage/packages/f15/zeroinstall-injector/share/locale/sv/LC_MESSAGES/zero-install.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 4560 | 5736 | 79.5 | /mnt/stockage/packages/f15/zeroinstall-injector/share/locale/es/LC_MESSAGES/zero-install.po | 
+ | [de](/f15/language/de) | 5785 | 5785 | 100.0 | /mnt/stockage/packages/f15/zeroinstall-injector/share/locale/de/LC_MESSAGES/zero-install.po | 
+ | [sv](/f15/language/sv) | 5736 | 5736 | 100.0 | /mnt/stockage/packages/f15/zeroinstall-injector/share/locale/sv/LC_MESSAGES/zero-install.po | 
+ | [es](/f15/language/es) | 4560 | 5736 | 79.5 | /mnt/stockage/packages/f15/zeroinstall-injector/share/locale/es/LC_MESSAGES/zero-install.po | 
 {.sortable}
 
 

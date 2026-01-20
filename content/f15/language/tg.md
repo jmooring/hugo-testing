@@ -39,27 +39,27 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [konq-plugins]({{< ref "/f15/package/konq-plugins.md" >}}) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
- | [kiconedit]({{< ref "/f15/package/kiconedit.md" >}}) | 678 | 726 | 93.4 | Tajik | 
- | [ksig]({{< ref "/f15/package/ksig.md" >}}) | 68 | 85 | 80.0 | Tajik | 
- | [xmms]({{< ref "/f15/package/xmms.md" >}}) | 2590 | 3443 | 75.2 | Tajik | 
- | [kpilot]({{< ref "/f15/package/kpilot.md" >}}) | 4818 | 7156 | 67.3 | Tajik | 
- | [koffice-kivio]({{< ref "/f15/package/koffice-kivio.md" >}}) | 5218 | 8417 | 62.0 | Tajik | 
- | [chkconfig]({{< ref "/f15/package/chkconfig.md" >}}) | 182 | 487 | 37.4 | LANGUAGE <LL@li.org> | 
- | [kaudiocreator]({{< ref "/f15/package/kaudiocreator.md" >}}) | 418 | 1136 | 36.8 | <tajik> | 
- | [audacity]({{< ref "/f15/package/audacity.md" >}}) | 3724 | 10643 | 35.0 | Tajik Language | 
- | [aspell]({{< ref "/f15/package/aspell.md" >}}) | 600 | 1726 | 34.8 | Tajik | 
- | [kdiff3]({{< ref "/f15/package/kdiff3.md" >}}) | 1054 | 3517 | 30.0 | Tajik | 
- | [usermode]({{< ref "/f15/package/usermode.md" >}}) | 123 | 566 | 21.7 | LANGUAGE <LL@li.org> | 
- | [yelp]({{< ref "/f15/package/yelp.md" >}}) | 92 | 606 | 15.2 | Tajik | 
- | [system-config-language]({{< ref "/f15/package/system-config-language.md" >}}) | 47 | 323 | 14.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
- | [firstboot]({{< ref "/f15/package/firstboot.md" >}}) | 75 | 654 | 11.5 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
- | [anaconda]({{< ref "/f15/package/anaconda.md" >}}) | 626 | 9446 | 6.6 | LANGUAGE <LL@li.org> | 
- | [ibus]({{< ref "/f15/package/ibus.md" >}}) | 32 | 612 | 5.2 | Tajik (http://www.transifex.net/projects/p/fedora/team/tg/) | 
- | [kcoloredit]({{< ref "/f15/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Tajik | 
- | [sssd]({{< ref "/f15/package/sssd.md" >}}) | 23 | 1599 | 1.4 | Tajik (http://www.transifex.net/projects/p/fedora/team/tg/) | 
- | [authconfig]({{< ref "/f15/package/authconfig.md" >}}) | 14 | 1340 | 1.0 | Tajik KDE & Software Localization http://www.kde.tj <victor.ibragimov@gmail.com> | 
- | [vidalia]({{< ref "/f15/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [konq-plugins](/f15/package/konq-plugins) | 1645 | 1692 | 97.2 | Tajik <kde-i18n-doc@kde.org> | 
+ | [kiconedit](/f15/package/kiconedit) | 678 | 726 | 93.4 | Tajik | 
+ | [ksig](/f15/package/ksig) | 68 | 85 | 80.0 | Tajik | 
+ | [xmms](/f15/package/xmms) | 2590 | 3443 | 75.2 | Tajik | 
+ | [kpilot](/f15/package/kpilot) | 4818 | 7156 | 67.3 | Tajik | 
+ | [koffice-kivio](/f15/package/koffice-kivio) | 5218 | 8417 | 62.0 | Tajik | 
+ | [chkconfig](/f15/package/chkconfig) | 182 | 487 | 37.4 | LANGUAGE <LL@li.org> | 
+ | [kaudiocreator](/f15/package/kaudiocreator) | 418 | 1136 | 36.8 | <tajik> | 
+ | [audacity](/f15/package/audacity) | 3724 | 10643 | 35.0 | Tajik Language | 
+ | [aspell](/f15/package/aspell) | 600 | 1726 | 34.8 | Tajik | 
+ | [kdiff3](/f15/package/kdiff3) | 1054 | 3517 | 30.0 | Tajik | 
+ | [usermode](/f15/package/usermode) | 123 | 566 | 21.7 | LANGUAGE <LL@li.org> | 
+ | [yelp](/f15/package/yelp) | 92 | 606 | 15.2 | Tajik | 
+ | [system-config-language](/f15/package/system-config-language) | 47 | 323 | 14.6 | Victor Ibragimov <victor.ibragimov@gmail.com> | 
+ | [firstboot](/f15/package/firstboot) | 75 | 654 | 11.5 | Tajik Fedora & Software Localization Team <victor.ibragimov@gmail.com> | 
+ | [anaconda](/f15/package/anaconda) | 626 | 9446 | 6.6 | LANGUAGE <LL@li.org> | 
+ | [ibus](/f15/package/ibus) | 32 | 612 | 5.2 | Tajik (http://www.transifex.net/projects/p/fedora/team/tg/) | 
+ | [kcoloredit](/f15/package/kcoloredit) | 8 | 278 | 2.9 | Tajik | 
+ | [sssd](/f15/package/sssd) | 23 | 1599 | 1.4 | Tajik (http://www.transifex.net/projects/p/fedora/team/tg/) | 
+ | [authconfig](/f15/package/authconfig) | 14 | 1340 | 1.0 | Tajik KDE & Software Localization http://www.kde.tj <victor.ibragimov@gmail.com> | 
+ | [vidalia](/f15/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

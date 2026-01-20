@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-characters]({{< ref "/f42/package/gnome-characters.md" >}}) | 161 | 161 | 100.0 | Santali | 
- | [gnome-desktop3]({{< ref "/f42/package/gnome-desktop3.md" >}}) | 193 | 193 | 100.0 | Santali | 
- | [phosh]({{< ref "/f42/package/phosh.md" >}}) | 399 | 399 | 100.0 | Santali <sat@li.org> | 
- | [libreoffice]({{< ref "/f42/package/libreoffice.md" >}}) | 53419 | 175879 | 30.4 | LANGUAGE <LL@li.org> | 
- | [inkscape]({{< ref "/f42/package/inkscape.md" >}}) | 15383 | 51528 | 29.9 | LANGUAGE <LL@li.org> | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1148 | 5355 | 21.4 | none | 
- | [gimagereader]({{< ref "/f42/package/gimagereader.md" >}}) | 183 | 1817 | 10.1 | Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/> | 
+ | [gnome-characters](/f42/package/gnome-characters) | 161 | 161 | 100.0 | Santali | 
+ | [gnome-desktop3](/f42/package/gnome-desktop3) | 193 | 193 | 100.0 | Santali | 
+ | [phosh](/f42/package/phosh) | 399 | 399 | 100.0 | Santali <sat@li.org> | 
+ | [libreoffice](/f42/package/libreoffice) | 53419 | 175879 | 30.4 | LANGUAGE <LL@li.org> | 
+ | [inkscape](/f42/package/inkscape) | 15383 | 51528 | 29.9 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1148 | 5355 | 21.4 | none | 
+ | [gimagereader](/f42/package/gimagereader) | 183 | 1817 | 10.1 | Santali <https://hosted.weblate.org/projects/gimagereader/translations/sat/> | 
 {.sortable}
 
 

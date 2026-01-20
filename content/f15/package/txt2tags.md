@@ -18,14 +18,14 @@ The package txt2tags (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 595 | 595 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/._fi.po/mnt/stockage/packages/f15/txt2tags/po/fi.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/it.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/zh_CN.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 573 | 596 | 96.1 | /mnt/stockage/packages/f15/txt2tags/po/fr.po | 
+ | [de](/f15/language/de) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/de.po | 
+ | [es](/f15/language/es) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/es.po | 
+ | [fi](/f15/language/fi) | 595 | 595 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/._fi.po/mnt/stockage/packages/f15/txt2tags/po/fi.po | 
+ | [hu](/f15/language/hu) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/hu.po | 
+ | [it](/f15/language/it) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/it.po | 
+ | [pt_BR](/f15/language/pt_BR) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/pt_BR.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 596 | 596 | 100.0 | /mnt/stockage/packages/f15/txt2tags/po/zh_CN.po | 
+ | [fr](/f15/language/fr) | 573 | 596 | 96.1 | /mnt/stockage/packages/f15/txt2tags/po/fr.po | 
 {.sortable}
 
 

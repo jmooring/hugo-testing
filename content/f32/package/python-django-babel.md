@@ -18,7 +18,7 @@ The package python-django-babel (version 0.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/python-django-babel/tests/testproject/locale/fi/LC_MESSAGES/django.po | 
+ | [fi](/f32/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f32/python-django-babel/tests/testproject/locale/fi/LC_MESSAGES/django.po | 
 {.sortable}
 
 

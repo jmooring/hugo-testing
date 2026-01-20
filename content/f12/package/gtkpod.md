@@ -18,16 +18,16 @@ The package gtkpod (version 0.99.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 6809 | 6813 | 99.9 | /mnt/stockage/packages/f12/gtkpod/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 6583 | 6813 | 96.6 | /mnt/stockage/packages/f12/gtkpod/po/it.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 6583 | 6813 | 96.6 | /mnt/stockage/packages/f12/gtkpod/po/sv.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 6580 | 6813 | 96.6 | /mnt/stockage/packages/f12/gtkpod/po/zh_CN.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 6575 | 6813 | 96.5 | /mnt/stockage/packages/f12/gtkpod/po/de.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 6572 | 6813 | 96.5 | /mnt/stockage/packages/f12/gtkpod/po/es.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 6470 | 6813 | 95.0 | /mnt/stockage/packages/f12/gtkpod/po/he.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 5419 | 6813 | 79.5 | /mnt/stockage/packages/f12/gtkpod/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 4675 | 6813 | 68.6 | /mnt/stockage/packages/f12/gtkpod/po/ru.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 2843 | 6813 | 41.7 | /mnt/stockage/packages/f12/gtkpod/po/ja.po | 
+ | [fr](/f12/language/fr) | 6809 | 6813 | 99.9 | /mnt/stockage/packages/f12/gtkpod/po/fr.po | 
+ | [it](/f12/language/it) | 6583 | 6813 | 96.6 | /mnt/stockage/packages/f12/gtkpod/po/it.po | 
+ | [sv](/f12/language/sv) | 6583 | 6813 | 96.6 | /mnt/stockage/packages/f12/gtkpod/po/sv.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 6580 | 6813 | 96.6 | /mnt/stockage/packages/f12/gtkpod/po/zh_CN.po | 
+ | [de](/f12/language/de) | 6575 | 6813 | 96.5 | /mnt/stockage/packages/f12/gtkpod/po/de.po | 
+ | [es](/f12/language/es) | 6572 | 6813 | 96.5 | /mnt/stockage/packages/f12/gtkpod/po/es.po | 
+ | [he](/f12/language/he) | 6470 | 6813 | 95.0 | /mnt/stockage/packages/f12/gtkpod/po/he.po | 
+ | [ro](/f12/language/ro) | 5419 | 6813 | 79.5 | /mnt/stockage/packages/f12/gtkpod/po/ro.po | 
+ | [ru](/f12/language/ru) | 4675 | 6813 | 68.6 | /mnt/stockage/packages/f12/gtkpod/po/ru.po | 
+ | [ja](/f12/language/ja) | 2843 | 6813 | 41.7 | /mnt/stockage/packages/f12/gtkpod/po/ja.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package clutter-gtk (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f17/clutter-gtk/po/pl.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f17/clutter-gtk/po/zh_CN.po | 
+ | [pl](/f17/language/pl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f17/clutter-gtk/po/pl.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 5 | 5 | 100.0 | /mnt/stockage/packages/f17/clutter-gtk/po/zh_CN.po | 
 {.sortable}
 
 

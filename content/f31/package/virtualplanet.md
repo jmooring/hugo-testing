@@ -18,16 +18,16 @@ The package virtualplanet (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f31/language/el.md" >}}) | 377 | 491 | 76.8 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.el.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 377 | 491 | 76.8 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.it.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 376 | 491 | 76.6 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.ca.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 339 | 491 | 69.0 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.hu.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 339 | 491 | 69.0 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.nl.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 338 | 491 | 68.8 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.es.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 337 | 491 | 68.6 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.sk.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 336 | 491 | 68.4 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.lt.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 303 | 491 | 61.7 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.cs.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 872 | 1473 | 59.2 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.en.po/mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.de.po/mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.fr.po | 
+ | [el](/f31/language/el) | 377 | 491 | 76.8 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.el.po | 
+ | [it](/f31/language/it) | 377 | 491 | 76.8 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.it.po | 
+ | [ca](/f31/language/ca) | 376 | 491 | 76.6 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.ca.po | 
+ | [hu](/f31/language/hu) | 339 | 491 | 69.0 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.hu.po | 
+ | [nl](/f31/language/nl) | 339 | 491 | 69.0 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.nl.po | 
+ | [es](/f31/language/es) | 338 | 491 | 68.8 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.es.po | 
+ | [sk](/f31/language/sk) | 337 | 491 | 68.6 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.sk.po | 
+ | [lt](/f31/language/lt) | 336 | 491 | 68.4 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.lt.po | 
+ | [cs](/f31/language/cs) | 303 | 491 | 61.7 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.cs.po | 
+ | [fr](/f31/language/fr) | 872 | 1473 | 59.2 | /mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.en.po/mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.de.po/mnt/stockage/packages/f31/virtualplanet/vpa/language/vpa.fr.po | 
 {.sortable}
 
 

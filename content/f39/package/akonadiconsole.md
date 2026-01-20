@@ -18,32 +18,32 @@ The package akonadiconsole (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ca/akonadiconsole.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ca@valencia/akonadiconsole.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/en_GB/akonadiconsole.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/es/akonadiconsole.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/eu/akonadiconsole.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/fr/akonadiconsole.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/hu/akonadiconsole.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ia/akonadiconsole.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/it/akonadiconsole.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ka/akonadiconsole.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ko/akonadiconsole.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/nl/akonadiconsole.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/pl/akonadiconsole.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/pt/akonadiconsole.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ru/akonadiconsole.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/sl/akonadiconsole.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/sv/akonadiconsole.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/tr/akonadiconsole.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/uk/akonadiconsole.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 723 | 791 | 91.4 | /mnt/stockage/packages/f39/akonadiconsole/po/fi/akonadiconsole.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 637 | 791 | 80.5 | /mnt/stockage/packages/f39/akonadiconsole/po/zh_CN/akonadiconsole.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 315 | 791 | 39.8 | /mnt/stockage/packages/f39/akonadiconsole/po/de/akonadiconsole.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 271 | 791 | 34.3 | /mnt/stockage/packages/f39/akonadiconsole/po/cs/akonadiconsole.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 171 | 791 | 21.6 | /mnt/stockage/packages/f39/akonadiconsole/po/sk/akonadiconsole.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 791 | 0.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ja/akonadiconsole.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 0 | 791 | 0.0 | /mnt/stockage/packages/f39/akonadiconsole/po/lt/akonadiconsole.po | 
+ | [ca](/f39/language/ca) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ca/akonadiconsole.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ca@valencia/akonadiconsole.po | 
+ | [en_GB](/f39/language/en_GB) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/en_GB/akonadiconsole.po | 
+ | [es](/f39/language/es) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/es/akonadiconsole.po | 
+ | [eu](/f39/language/eu) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/eu/akonadiconsole.po | 
+ | [fr](/f39/language/fr) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/fr/akonadiconsole.po | 
+ | [hu](/f39/language/hu) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/hu/akonadiconsole.po | 
+ | [ia](/f39/language/ia) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ia/akonadiconsole.po | 
+ | [it](/f39/language/it) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/it/akonadiconsole.po | 
+ | [ka](/f39/language/ka) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ka/akonadiconsole.po | 
+ | [ko](/f39/language/ko) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ko/akonadiconsole.po | 
+ | [nl](/f39/language/nl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/nl/akonadiconsole.po | 
+ | [pl](/f39/language/pl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/pl/akonadiconsole.po | 
+ | [pt](/f39/language/pt) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/pt/akonadiconsole.po | 
+ | [ru](/f39/language/ru) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ru/akonadiconsole.po | 
+ | [sl](/f39/language/sl) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/sl/akonadiconsole.po | 
+ | [sv](/f39/language/sv) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/sv/akonadiconsole.po | 
+ | [tr](/f39/language/tr) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/tr/akonadiconsole.po | 
+ | [uk](/f39/language/uk) | 791 | 791 | 100.0 | /mnt/stockage/packages/f39/akonadiconsole/po/uk/akonadiconsole.po | 
+ | [fi](/f39/language/fi) | 723 | 791 | 91.4 | /mnt/stockage/packages/f39/akonadiconsole/po/fi/akonadiconsole.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 637 | 791 | 80.5 | /mnt/stockage/packages/f39/akonadiconsole/po/zh_CN/akonadiconsole.po | 
+ | [de](/f39/language/de) | 315 | 791 | 39.8 | /mnt/stockage/packages/f39/akonadiconsole/po/de/akonadiconsole.po | 
+ | [cs](/f39/language/cs) | 271 | 791 | 34.3 | /mnt/stockage/packages/f39/akonadiconsole/po/cs/akonadiconsole.po | 
+ | [sk](/f39/language/sk) | 171 | 791 | 21.6 | /mnt/stockage/packages/f39/akonadiconsole/po/sk/akonadiconsole.po | 
+ | [ja](/f39/language/ja) | 0 | 791 | 0.0 | /mnt/stockage/packages/f39/akonadiconsole/po/ja/akonadiconsole.po | 
+ | [lt](/f39/language/lt) | 0 | 791 | 0.0 | /mnt/stockage/packages/f39/akonadiconsole/po/lt/akonadiconsole.po | 
 {.sortable}
 
 

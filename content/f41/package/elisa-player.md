@@ -18,56 +18,56 @@ The package elisa-player (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ar/elisa.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/bg/elisa.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ca/elisa.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ca@valencia/elisa.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/de/elisa.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/eo/elisa.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/es/elisa.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/eu/elisa.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/fi/elisa.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/fr/elisa.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/gl/elisa.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/he/elisa.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/hu/elisa.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ia/elisa.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/it/elisa.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ka/elisa.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ko/elisa.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/lt/elisa.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/lv/elisa.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/nl/elisa.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/nn/elisa.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/pl/elisa.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/pt_BR/elisa.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ru/elisa.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/sl/elisa.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/sv/elisa.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ta/elisa.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/th/elisa.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/tr/elisa.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/uk/elisa.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/zh_CN/elisa.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/zh_TW/elisa.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 808 | 814 | 99.3 | /mnt/stockage/packages/f41/elisa-player/po/be/elisa.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 808 | 814 | 99.3 | /mnt/stockage/packages/f41/elisa-player/po/en_GB/elisa.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 808 | 814 | 99.3 | /mnt/stockage/packages/f41/elisa-player/po/sa/elisa.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 806 | 814 | 99.0 | /mnt/stockage/packages/f41/elisa-player/po/da/elisa.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 806 | 814 | 99.0 | /mnt/stockage/packages/f41/elisa-player/po/id/elisa.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 773 | 814 | 95.0 | /mnt/stockage/packages/f41/elisa-player/po/ja/elisa.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 766 | 814 | 94.1 | /mnt/stockage/packages/f41/elisa-player/po/cs/elisa.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 722 | 814 | 88.7 | /mnt/stockage/packages/f41/elisa-player/po/sk/elisa.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 687 | 814 | 84.4 | /mnt/stockage/packages/f41/elisa-player/po/el/elisa.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 654 | 814 | 80.3 | /mnt/stockage/packages/f41/elisa-player/po/is/elisa.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 654 | 814 | 80.3 | /mnt/stockage/packages/f41/elisa-player/po/ro/elisa.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 609 | 814 | 74.8 | /mnt/stockage/packages/f41/elisa-player/po/az/elisa.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 609 | 814 | 74.8 | /mnt/stockage/packages/f41/elisa-player/po/pt/elisa.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 602 | 814 | 74.0 | /mnt/stockage/packages/f41/elisa-player/po/hi/elisa.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 495 | 814 | 60.8 | /mnt/stockage/packages/f41/elisa-player/po/pa/elisa.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 10 | 814 | 1.2 | /mnt/stockage/packages/f41/elisa-player/po/et/elisa.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 814 | 0.5 | /mnt/stockage/packages/f41/elisa-player/po/ast/elisa.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 0 | 814 | 0.0 | /mnt/stockage/packages/f41/elisa-player/po/bs/elisa.po | 
+ | [ar](/f41/language/ar) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ar/elisa.po | 
+ | [bg](/f41/language/bg) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/bg/elisa.po | 
+ | [ca](/f41/language/ca) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ca/elisa.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ca@valencia/elisa.po | 
+ | [de](/f41/language/de) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/de/elisa.po | 
+ | [eo](/f41/language/eo) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/eo/elisa.po | 
+ | [es](/f41/language/es) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/es/elisa.po | 
+ | [eu](/f41/language/eu) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/eu/elisa.po | 
+ | [fi](/f41/language/fi) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/fi/elisa.po | 
+ | [fr](/f41/language/fr) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/fr/elisa.po | 
+ | [gl](/f41/language/gl) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/gl/elisa.po | 
+ | [he](/f41/language/he) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/he/elisa.po | 
+ | [hu](/f41/language/hu) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/hu/elisa.po | 
+ | [ia](/f41/language/ia) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ia/elisa.po | 
+ | [it](/f41/language/it) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/it/elisa.po | 
+ | [ka](/f41/language/ka) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ka/elisa.po | 
+ | [ko](/f41/language/ko) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ko/elisa.po | 
+ | [lt](/f41/language/lt) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/lt/elisa.po | 
+ | [lv](/f41/language/lv) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/lv/elisa.po | 
+ | [nl](/f41/language/nl) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/nl/elisa.po | 
+ | [nn](/f41/language/nn) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/nn/elisa.po | 
+ | [pl](/f41/language/pl) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/pl/elisa.po | 
+ | [pt_BR](/f41/language/pt_BR) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/pt_BR/elisa.po | 
+ | [ru](/f41/language/ru) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ru/elisa.po | 
+ | [sl](/f41/language/sl) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/sl/elisa.po | 
+ | [sv](/f41/language/sv) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/sv/elisa.po | 
+ | [ta](/f41/language/ta) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/ta/elisa.po | 
+ | [th](/f41/language/th) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/th/elisa.po | 
+ | [tr](/f41/language/tr) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/tr/elisa.po | 
+ | [uk](/f41/language/uk) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/uk/elisa.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/zh_CN/elisa.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 814 | 814 | 100.0 | /mnt/stockage/packages/f41/elisa-player/po/zh_TW/elisa.po | 
+ | [be](/f41/language/be) | 808 | 814 | 99.3 | /mnt/stockage/packages/f41/elisa-player/po/be/elisa.po | 
+ | [en_GB](/f41/language/en_GB) | 808 | 814 | 99.3 | /mnt/stockage/packages/f41/elisa-player/po/en_GB/elisa.po | 
+ | [sa](/f41/language/sa) | 808 | 814 | 99.3 | /mnt/stockage/packages/f41/elisa-player/po/sa/elisa.po | 
+ | [da](/f41/language/da) | 806 | 814 | 99.0 | /mnt/stockage/packages/f41/elisa-player/po/da/elisa.po | 
+ | [id](/f41/language/id) | 806 | 814 | 99.0 | /mnt/stockage/packages/f41/elisa-player/po/id/elisa.po | 
+ | [ja](/f41/language/ja) | 773 | 814 | 95.0 | /mnt/stockage/packages/f41/elisa-player/po/ja/elisa.po | 
+ | [cs](/f41/language/cs) | 766 | 814 | 94.1 | /mnt/stockage/packages/f41/elisa-player/po/cs/elisa.po | 
+ | [sk](/f41/language/sk) | 722 | 814 | 88.7 | /mnt/stockage/packages/f41/elisa-player/po/sk/elisa.po | 
+ | [el](/f41/language/el) | 687 | 814 | 84.4 | /mnt/stockage/packages/f41/elisa-player/po/el/elisa.po | 
+ | [is](/f41/language/is) | 654 | 814 | 80.3 | /mnt/stockage/packages/f41/elisa-player/po/is/elisa.po | 
+ | [ro](/f41/language/ro) | 654 | 814 | 80.3 | /mnt/stockage/packages/f41/elisa-player/po/ro/elisa.po | 
+ | [az](/f41/language/az) | 609 | 814 | 74.8 | /mnt/stockage/packages/f41/elisa-player/po/az/elisa.po | 
+ | [pt](/f41/language/pt) | 609 | 814 | 74.8 | /mnt/stockage/packages/f41/elisa-player/po/pt/elisa.po | 
+ | [hi](/f41/language/hi) | 602 | 814 | 74.0 | /mnt/stockage/packages/f41/elisa-player/po/hi/elisa.po | 
+ | [pa](/f41/language/pa) | 495 | 814 | 60.8 | /mnt/stockage/packages/f41/elisa-player/po/pa/elisa.po | 
+ | [et](/f41/language/et) | 10 | 814 | 1.2 | /mnt/stockage/packages/f41/elisa-player/po/et/elisa.po | 
+ | [ast](/f41/language/ast) | 4 | 814 | 0.5 | /mnt/stockage/packages/f41/elisa-player/po/ast/elisa.po | 
+ | [bs](/f41/language/bs) | 0 | 814 | 0.0 | /mnt/stockage/packages/f41/elisa-player/po/bs/elisa.po | 
 {.sortable}
 
 

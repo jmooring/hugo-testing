@@ -18,25 +18,25 @@ The package python-django-reversion (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/ar/LC_MESSAGES/django.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/cs/LC_MESSAGES/django.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/da/LC_MESSAGES/django.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/es/LC_MESSAGES/django.po | 
- | [es_AR]({{< ref "/f39/language/es_AR.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/es_AR/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/fr/LC_MESSAGES/django.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/he/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/it/LC_MESSAGES/django.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/nb/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/pl/LC_MESSAGES/django.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/pt_BR/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/ru/LC_MESSAGES/django.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/sk/LC_MESSAGES/django.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/sl_SI/LC_MESSAGES/django.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 120 | 120 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/sv/LC_MESSAGES/django.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 128 | 128 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/uk/LC_MESSAGES/django.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f39/python-django-reversion/reversion/locale/zh_CN/LC_MESSAGES/django.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 118 | 119 | 99.2 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/nl/LC_MESSAGES/django.po | 
+ | [ar](/f39/language/ar) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/ar/LC_MESSAGES/django.po | 
+ | [cs](/f39/language/cs) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/cs/LC_MESSAGES/django.po | 
+ | [da](/f39/language/da) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/da/LC_MESSAGES/django.po | 
+ | [de](/f39/language/de) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f39/language/es) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/es/LC_MESSAGES/django.po | 
+ | [es_AR](/f39/language/es_AR) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/es_AR/LC_MESSAGES/django.po | 
+ | [fr](/f39/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/fr/LC_MESSAGES/django.po | 
+ | [he](/f39/language/he) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/he/LC_MESSAGES/django.po | 
+ | [it](/f39/language/it) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/it/LC_MESSAGES/django.po | 
+ | [nb_NO](/f39/language/nb_NO) | 116 | 116 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/nb/LC_MESSAGES/django.po | 
+ | [pl](/f39/language/pl) | 121 | 121 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/pl/LC_MESSAGES/django.po | 
+ | [pt_BR](/f39/language/pt_BR) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/pt_BR/LC_MESSAGES/django.po | 
+ | [ru](/f39/language/ru) | 119 | 119 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/ru/LC_MESSAGES/django.po | 
+ | [sk](/f39/language/sk) | 117 | 117 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/sk/LC_MESSAGES/django.po | 
+ | [sl](/f39/language/sl) | 128 | 128 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/sl_SI/LC_MESSAGES/django.po | 
+ | [sv](/f39/language/sv) | 120 | 120 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/sv/LC_MESSAGES/django.po | 
+ | [uk](/f39/language/uk) | 128 | 128 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/uk/LC_MESSAGES/django.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 234 | 234 | 100.0 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/zh_Hans/LC_MESSAGES/django.po/mnt/stockage/packages/f39/python-django-reversion/reversion/locale/zh_CN/LC_MESSAGES/django.po | 
+ | [nl](/f39/language/nl) | 118 | 119 | 99.2 | /mnt/stockage/packages/f39/python-django-reversion/reversion/locale/nl/LC_MESSAGES/django.po | 
 {.sortable}
 
 

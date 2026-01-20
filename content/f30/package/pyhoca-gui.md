@@ -18,124 +18,124 @@ The package pyhoca-gui (version 0.6.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1865 | 1865 | 100.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/de.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/en.po | 
- | [en_AU]({{< ref "/f30/language/en_AU.md" >}}) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/en_AU.po | 
- | [en_CA]({{< ref "/f30/language/en_CA.md" >}}) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/en_CA.po | 
- | [en_GB]({{< ref "/f30/language/en_GB.md" >}}) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/en_GB.po | 
- | [nb_NO]({{< ref "/f30/language/nb_NO.md" >}}) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/nb_NO.po | 
- | [da]({{< ref "/f30/language/da.md" >}}) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/da.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/es.po | 
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/fi.po | 
- | [nl]({{< ref "/f30/language/nl.md" >}}) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/nl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/sv.po | 
- | [tr]({{< ref "/f30/language/tr.md" >}}) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/tr.po | 
- | [et]({{< ref "/f30/language/et.md" >}}) | 1745 | 1865 | 93.6 | /mnt/stockage/packages/f30/pyhoca-gui/po/et.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 1468 | 1865 | 78.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/ru.po | 
- | [zh_Hant]({{< ref "/f30/language/zh_Hant.md" >}}) | 9 | 1865 | 0.5 | /mnt/stockage/packages/f30/pyhoca-gui/po/zh_TW.po | 
- | [af]({{< ref "/f30/language/af.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/af.po | 
- | [am]({{< ref "/f30/language/am.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/am.po | 
- | [an]({{< ref "/f30/language/an.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/an.po | 
- | [ar]({{< ref "/f30/language/ar.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ar.po | 
- | [ast]({{< ref "/f30/language/ast.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ast.po | 
- | [az]({{< ref "/f30/language/az.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/az.po | 
- | [be]({{< ref "/f30/language/be.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/be.po | 
- | [bem]({{< ref "/f30/language/bem.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bem.po | 
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bg.po | 
- | [bn]({{< ref "/f30/language/bn.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bn.po | 
- | [bo]({{< ref "/f30/language/bo.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bo.po | 
- | [br]({{< ref "/f30/language/br.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/br.po | 
- | [bs]({{< ref "/f30/language/bs.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bs.po | 
- | [ca]({{< ref "/f30/language/ca.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ca.po | 
- | [ca@valencia]({{< ref "/f30/language/ca@valencia.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ca@valencia.po | 
- | [ce]({{< ref "/f30/language/ce.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ce.po | 
- | [ckb]({{< ref "/f30/language/ckb.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ckb.po | 
- | [co]({{< ref "/f30/language/co.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/co.po | 
- | [crh]({{< ref "/f30/language/crh.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/crh.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/cs.po | 
- | [cv]({{< ref "/f30/language/cv.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/cv.po | 
- | [cy]({{< ref "/f30/language/cy.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/cy.po | 
- | [el]({{< ref "/f30/language/el.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/el.po | 
- | [eo]({{< ref "/f30/language/eo.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/eo.po | 
- | [eu]({{< ref "/f30/language/eu.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/eu.po | 
- | [fa]({{< ref "/f30/language/fa.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fa.po | 
- | [fil]({{< ref "/f30/language/fil.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fil.po | 
- | [fo]({{< ref "/f30/language/fo.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fo.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fr.po | 
- | [fr_CA]({{< ref "/f30/language/fr_CA.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fr_CA.po | 
- | [frp]({{< ref "/f30/language/frp.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/frp.po | 
- | [fy]({{< ref "/f30/language/fy.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fy.po | 
- | [ga]({{< ref "/f30/language/ga.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ga.po | 
- | [gd]({{< ref "/f30/language/gd.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/gd.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/gl.po | 
- | [gu]({{< ref "/f30/language/gu.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/gu.po | 
- | [he]({{< ref "/f30/language/he.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/he.po | 
- | [hi]({{< ref "/f30/language/hi.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hi.po | 
- | [hr]({{< ref "/f30/language/hr.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hr.po | 
- | [ht]({{< ref "/f30/language/ht.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ht.po | 
- | [hu]({{< ref "/f30/language/hu.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hu.po | 
- | [hy]({{< ref "/f30/language/hy.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hy.po | 
- | [ia]({{< ref "/f30/language/ia.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ia.po | 
- | [id]({{< ref "/f30/language/id.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/id.po | 
- | [is]({{< ref "/f30/language/is.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/is.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/it.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ja.po | 
- | [ka]({{< ref "/f30/language/ka.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ka.po | 
- | [kk]({{< ref "/f30/language/kk.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kk.po | 
- | [kl]({{< ref "/f30/language/kl.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kl.po | 
- | [km]({{< ref "/f30/language/km.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/km.po | 
- | [kn]({{< ref "/f30/language/kn.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kn.po | 
- | [ko]({{< ref "/f30/language/ko.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ko.po | 
- | [ku]({{< ref "/f30/language/ku.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ku.po | 
- | [kw]({{< ref "/f30/language/kw.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kw.po | 
- | [ky]({{< ref "/f30/language/ky.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ky.po | 
- | [la]({{< ref "/f30/language/la.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/la.po | 
- | [lb]({{< ref "/f30/language/lb.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lb.po | 
- | [lo]({{< ref "/f30/language/lo.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lo.po | 
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lt.po | 
- | [lv]({{< ref "/f30/language/lv.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lv.po | 
- | [mg]({{< ref "/f30/language/mg.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mg.po | 
- | [mhr]({{< ref "/f30/language/mhr.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mhr.po | 
- | [mi]({{< ref "/f30/language/mi.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mi.po | 
- | [ml]({{< ref "/f30/language/ml.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ml.po | 
- | [mr]({{< ref "/f30/language/mr.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mr.po | 
- | [ms]({{< ref "/f30/language/ms.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ms.po | 
- | [my]({{< ref "/f30/language/my.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/my.po | 
- | [ne]({{< ref "/f30/language/ne.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ne.po | 
- | [nn]({{< ref "/f30/language/nn.md" >}}) | 0 | 3730 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/nn.po/mnt/stockage/packages/f30/pyhoca-gui/po/nn_NO.po | 
- | [oc]({{< ref "/f30/language/oc.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/oc.po | 
- | [os]({{< ref "/f30/language/os.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/os.po | 
- | [pa]({{< ref "/f30/language/pa.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pa.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pl.po | 
- | [ps]({{< ref "/f30/language/ps.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ps.po | 
- | [pt]({{< ref "/f30/language/pt.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pt.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pt_BR.po | 
- | [ro]({{< ref "/f30/language/ro.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ro.po | 
- | [sa]({{< ref "/f30/language/sa.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sa.po | 
- | [sc]({{< ref "/f30/language/sc.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sc.po | 
- | [sd]({{< ref "/f30/language/sd.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sd.po | 
- | [se]({{< ref "/f30/language/se.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/se.po | 
- | [shn]({{< ref "/f30/language/shn.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/shn.po | 
- | [si]({{< ref "/f30/language/si.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/si.po | 
- | [sk]({{< ref "/f30/language/sk.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sk.po | 
- | [sl]({{< ref "/f30/language/sl.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sl.po | 
- | [sq]({{< ref "/f30/language/sq.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sq.po | 
- | [sr]({{< ref "/f30/language/sr.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sr.po | 
- | [sw]({{< ref "/f30/language/sw.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sw.po | 
- | [szl]({{< ref "/f30/language/szl.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/szl.po | 
- | [ta]({{< ref "/f30/language/ta.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ta.po | 
- | [te]({{< ref "/f30/language/te.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/te.po | 
- | [tg]({{< ref "/f30/language/tg.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/tg.po | 
- | [th]({{< ref "/f30/language/th.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/th.po | 
- | [ti]({{< ref "/f30/language/ti.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ti.po | 
- | [ug]({{< ref "/f30/language/ug.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ug.po | 
- | [uk]({{< ref "/f30/language/uk.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/uk.po | 
- | [ur]({{< ref "/f30/language/ur.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ur.po | 
- | [uz]({{< ref "/f30/language/uz.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/uz.po | 
- | [vi]({{< ref "/f30/language/vi.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/vi.po | 
- | [wae]({{< ref "/f30/language/wae.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/wae.po | 
- | [zh_Hans]({{< ref "/f30/language/zh_Hans.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/zh_CN.po | 
- | [zh_Hant_HK]({{< ref "/f30/language/zh_Hant_HK.md" >}}) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/zh_HK.po | 
+ | [de](/f30/language/de) | 1865 | 1865 | 100.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/de.po | 
+ | [en](/f30/language/en) | 1838 | 1838 | 100.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/en.po | 
+ | [en_AU](/f30/language/en_AU) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/en_AU.po | 
+ | [en_CA](/f30/language/en_CA) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/en_CA.po | 
+ | [en_GB](/f30/language/en_GB) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/en_GB.po | 
+ | [nb_NO](/f30/language/nb_NO) | 1859 | 1865 | 99.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/nb_NO.po | 
+ | [da](/f30/language/da) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/da.po | 
+ | [es](/f30/language/es) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/es.po | 
+ | [fi](/f30/language/fi) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/fi.po | 
+ | [nl](/f30/language/nl) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/nl.po | 
+ | [sv](/f30/language/sv) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/sv.po | 
+ | [tr](/f30/language/tr) | 1812 | 1865 | 97.2 | /mnt/stockage/packages/f30/pyhoca-gui/po/tr.po | 
+ | [et](/f30/language/et) | 1745 | 1865 | 93.6 | /mnt/stockage/packages/f30/pyhoca-gui/po/et.po | 
+ | [ru](/f30/language/ru) | 1468 | 1865 | 78.7 | /mnt/stockage/packages/f30/pyhoca-gui/po/ru.po | 
+ | [zh_Hant](/f30/language/zh_Hant) | 9 | 1865 | 0.5 | /mnt/stockage/packages/f30/pyhoca-gui/po/zh_TW.po | 
+ | [af](/f30/language/af) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/af.po | 
+ | [am](/f30/language/am) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/am.po | 
+ | [an](/f30/language/an) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/an.po | 
+ | [ar](/f30/language/ar) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ar.po | 
+ | [ast](/f30/language/ast) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ast.po | 
+ | [az](/f30/language/az) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/az.po | 
+ | [be](/f30/language/be) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/be.po | 
+ | [bem](/f30/language/bem) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bem.po | 
+ | [bg](/f30/language/bg) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bg.po | 
+ | [bn](/f30/language/bn) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bn.po | 
+ | [bo](/f30/language/bo) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bo.po | 
+ | [br](/f30/language/br) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/br.po | 
+ | [bs](/f30/language/bs) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/bs.po | 
+ | [ca](/f30/language/ca) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ca.po | 
+ | [ca@valencia](/f30/language/ca@valencia) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ca@valencia.po | 
+ | [ce](/f30/language/ce) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ce.po | 
+ | [ckb](/f30/language/ckb) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ckb.po | 
+ | [co](/f30/language/co) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/co.po | 
+ | [crh](/f30/language/crh) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/crh.po | 
+ | [cs](/f30/language/cs) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/cs.po | 
+ | [cv](/f30/language/cv) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/cv.po | 
+ | [cy](/f30/language/cy) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/cy.po | 
+ | [el](/f30/language/el) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/el.po | 
+ | [eo](/f30/language/eo) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/eo.po | 
+ | [eu](/f30/language/eu) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/eu.po | 
+ | [fa](/f30/language/fa) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fa.po | 
+ | [fil](/f30/language/fil) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fil.po | 
+ | [fo](/f30/language/fo) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fo.po | 
+ | [fr](/f30/language/fr) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fr.po | 
+ | [fr_CA](/f30/language/fr_CA) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fr_CA.po | 
+ | [frp](/f30/language/frp) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/frp.po | 
+ | [fy](/f30/language/fy) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/fy.po | 
+ | [ga](/f30/language/ga) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ga.po | 
+ | [gd](/f30/language/gd) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/gd.po | 
+ | [gl](/f30/language/gl) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/gl.po | 
+ | [gu](/f30/language/gu) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/gu.po | 
+ | [he](/f30/language/he) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/he.po | 
+ | [hi](/f30/language/hi) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hi.po | 
+ | [hr](/f30/language/hr) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hr.po | 
+ | [ht](/f30/language/ht) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ht.po | 
+ | [hu](/f30/language/hu) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hu.po | 
+ | [hy](/f30/language/hy) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/hy.po | 
+ | [ia](/f30/language/ia) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ia.po | 
+ | [id](/f30/language/id) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/id.po | 
+ | [is](/f30/language/is) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/is.po | 
+ | [it](/f30/language/it) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/it.po | 
+ | [ja](/f30/language/ja) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ja.po | 
+ | [ka](/f30/language/ka) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ka.po | 
+ | [kk](/f30/language/kk) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kk.po | 
+ | [kl](/f30/language/kl) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kl.po | 
+ | [km](/f30/language/km) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/km.po | 
+ | [kn](/f30/language/kn) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kn.po | 
+ | [ko](/f30/language/ko) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ko.po | 
+ | [ku](/f30/language/ku) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ku.po | 
+ | [kw](/f30/language/kw) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/kw.po | 
+ | [ky](/f30/language/ky) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ky.po | 
+ | [la](/f30/language/la) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/la.po | 
+ | [lb](/f30/language/lb) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lb.po | 
+ | [lo](/f30/language/lo) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lo.po | 
+ | [lt](/f30/language/lt) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lt.po | 
+ | [lv](/f30/language/lv) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/lv.po | 
+ | [mg](/f30/language/mg) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mg.po | 
+ | [mhr](/f30/language/mhr) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mhr.po | 
+ | [mi](/f30/language/mi) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mi.po | 
+ | [ml](/f30/language/ml) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ml.po | 
+ | [mr](/f30/language/mr) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/mr.po | 
+ | [ms](/f30/language/ms) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ms.po | 
+ | [my](/f30/language/my) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/my.po | 
+ | [ne](/f30/language/ne) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ne.po | 
+ | [nn](/f30/language/nn) | 0 | 3730 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/nn.po/mnt/stockage/packages/f30/pyhoca-gui/po/nn_NO.po | 
+ | [oc](/f30/language/oc) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/oc.po | 
+ | [os](/f30/language/os) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/os.po | 
+ | [pa](/f30/language/pa) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pa.po | 
+ | [pl](/f30/language/pl) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pl.po | 
+ | [ps](/f30/language/ps) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ps.po | 
+ | [pt](/f30/language/pt) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pt.po | 
+ | [pt_BR](/f30/language/pt_BR) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/pt_BR.po | 
+ | [ro](/f30/language/ro) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ro.po | 
+ | [sa](/f30/language/sa) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sa.po | 
+ | [sc](/f30/language/sc) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sc.po | 
+ | [sd](/f30/language/sd) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sd.po | 
+ | [se](/f30/language/se) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/se.po | 
+ | [shn](/f30/language/shn) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/shn.po | 
+ | [si](/f30/language/si) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/si.po | 
+ | [sk](/f30/language/sk) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sk.po | 
+ | [sl](/f30/language/sl) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sl.po | 
+ | [sq](/f30/language/sq) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sq.po | 
+ | [sr](/f30/language/sr) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sr.po | 
+ | [sw](/f30/language/sw) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/sw.po | 
+ | [szl](/f30/language/szl) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/szl.po | 
+ | [ta](/f30/language/ta) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ta.po | 
+ | [te](/f30/language/te) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/te.po | 
+ | [tg](/f30/language/tg) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/tg.po | 
+ | [th](/f30/language/th) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/th.po | 
+ | [ti](/f30/language/ti) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ti.po | 
+ | [ug](/f30/language/ug) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ug.po | 
+ | [uk](/f30/language/uk) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/uk.po | 
+ | [ur](/f30/language/ur) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/ur.po | 
+ | [uz](/f30/language/uz) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/uz.po | 
+ | [vi](/f30/language/vi) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/vi.po | 
+ | [wae](/f30/language/wae) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/wae.po | 
+ | [zh_Hans](/f30/language/zh_Hans) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/zh_CN.po | 
+ | [zh_Hant_HK](/f30/language/zh_Hant_HK) | 0 | 1865 | 0.0 | /mnt/stockage/packages/f30/pyhoca-gui/po/zh_HK.po | 
 {.sortable}
 
 

@@ -18,34 +18,34 @@ The package gnome-getting-started-docs (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ca/ca.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 2505 | 2505 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/cs/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2505 | 2505 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/de/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/el/el.po | 
- | [en_US]({{< ref "/f24/language/en_US.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/as/as.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/es/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2529 | 2529 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/fr/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/gl/gl.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/hi/hi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/hu/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/id/id.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ja/ja.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/kn/kn.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ko/ko.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/lv/lv.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/mr/mr.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/pa/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2505 | 2505 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/pl/pl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/pt_BR/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 2569 | 2569 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ru/ru.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/sv/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ta/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/te/te.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 5278 | 5278 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/zh_HK/zh_HK.po/mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/zh_TW/zh_TW.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 2463 | 2510 | 98.1 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/sk/sk.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 2301 | 2639 | 87.2 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/gu/gu.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1709 | 2493 | 68.6 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/it/it.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 774 | 2507 | 30.9 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/fi/fi.po | 
+ | [ca](/f24/language/ca) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ca/ca.po | 
+ | [cs](/f24/language/cs) | 2505 | 2505 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/cs/cs.po | 
+ | [de](/f24/language/de) | 2505 | 2505 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/de/de.po | 
+ | [el](/f24/language/el) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/el/el.po | 
+ | [en_US](/f24/language/en_US) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/as/as.po | 
+ | [es](/f24/language/es) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/es/es.po | 
+ | [fr](/f24/language/fr) | 2529 | 2529 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/fr/fr.po | 
+ | [gl](/f24/language/gl) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/gl/gl.po | 
+ | [hi](/f24/language/hi) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/hi/hi.po | 
+ | [hu](/f24/language/hu) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/hu/hu.po | 
+ | [id](/f24/language/id) | 2715 | 2715 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/id/id.po | 
+ | [ja](/f24/language/ja) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ja/ja.po | 
+ | [kn](/f24/language/kn) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/kn/kn.po | 
+ | [ko](/f24/language/ko) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ko/ko.po | 
+ | [lv](/f24/language/lv) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/lv/lv.po | 
+ | [mr](/f24/language/mr) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/mr/mr.po | 
+ | [pa](/f24/language/pa) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/pa/pa.po | 
+ | [pl](/f24/language/pl) | 2505 | 2505 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/pl/pl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/pt_BR/pt_BR.po | 
+ | [ru](/f24/language/ru) | 2569 | 2569 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ru/ru.po | 
+ | [sv](/f24/language/sv) | 2501 | 2501 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/sv/sv.po | 
+ | [ta](/f24/language/ta) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/ta/ta.po | 
+ | [te](/f24/language/te) | 2639 | 2639 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/te/te.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 5278 | 5278 | 100.0 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/zh_HK/zh_HK.po/mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/zh_TW/zh_TW.po | 
+ | [sk](/f24/language/sk) | 2463 | 2510 | 98.1 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/sk/sk.po | 
+ | [gu](/f24/language/gu) | 2301 | 2639 | 87.2 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/gu/gu.po | 
+ | [it](/f24/language/it) | 1709 | 2493 | 68.6 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/it/it.po | 
+ | [fi](/f24/language/fi) | 774 | 2507 | 30.9 | /mnt/stockage/packages/f24/gnome-getting-started-docs/gnome-help/fi/fi.po | 
 {.sortable}
 
 

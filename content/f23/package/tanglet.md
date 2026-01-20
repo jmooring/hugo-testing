@@ -18,23 +18,23 @@ The package tanglet (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/cs.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/de.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/fr.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/lt.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/ms.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/ro.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 9 | 125 | 7.2 | /mnt/stockage/packages/f23/tanglet/icons/po/hu.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 9 | 125 | 7.2 | /mnt/stockage/packages/f23/tanglet/icons/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 9 | 125 | 7.2 | /mnt/stockage/packages/f23/tanglet/icons/po/pl.po | 
- | [csb]({{< ref "/f23/language/csb.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/csb.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/es.po | 
- | [es_CL]({{< ref "/f23/language/es_CL.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/es_CL.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/he.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/it.po | 
- | [szl]({{< ref "/f23/language/szl.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/szl.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/tr.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/uk.po | 
+ | [cs](/f23/language/cs) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/cs.po | 
+ | [de](/f23/language/de) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/de.po | 
+ | [fr](/f23/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/fr.po | 
+ | [lt](/f23/language/lt) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/lt.po | 
+ | [ms](/f23/language/ms) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/ms.po | 
+ | [ro](/f23/language/ro) | 125 | 125 | 100.0 | /mnt/stockage/packages/f23/tanglet/icons/po/ro.po | 
+ | [hu](/f23/language/hu) | 9 | 125 | 7.2 | /mnt/stockage/packages/f23/tanglet/icons/po/hu.po | 
+ | [nl](/f23/language/nl) | 9 | 125 | 7.2 | /mnt/stockage/packages/f23/tanglet/icons/po/nl.po | 
+ | [pl](/f23/language/pl) | 9 | 125 | 7.2 | /mnt/stockage/packages/f23/tanglet/icons/po/pl.po | 
+ | [csb](/f23/language/csb) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/csb.po | 
+ | [es](/f23/language/es) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/es.po | 
+ | [es_CL](/f23/language/es_CL) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/es_CL.po | 
+ | [he](/f23/language/he) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/he.po | 
+ | [it](/f23/language/it) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/it.po | 
+ | [szl](/f23/language/szl) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/szl.po | 
+ | [tr](/f23/language/tr) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/tr.po | 
+ | [uk](/f23/language/uk) | 0 | 125 | 0.0 | /mnt/stockage/packages/f23/tanglet/icons/po/uk.po | 
 {.sortable}
 
 

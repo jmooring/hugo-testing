@@ -18,9 +18,9 @@ The package R-RODBC (version 1.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f17/language/en.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f17/R-RODBC/po/en@quot.po/mnt/stockage/packages/f17/R-RODBC/po/R-en@quot.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 283 | 323 | 87.6 | /mnt/stockage/packages/f17/R-RODBC/po/da.po/mnt/stockage/packages/f17/R-RODBC/po/R-da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 276 | 323 | 85.4 | /mnt/stockage/packages/f17/R-RODBC/po/de.po/mnt/stockage/packages/f17/R-RODBC/po/R-de.po | 
+ | [en](/f17/language/en) | 323 | 323 | 100.0 | /mnt/stockage/packages/f17/R-RODBC/po/en@quot.po/mnt/stockage/packages/f17/R-RODBC/po/R-en@quot.po | 
+ | [da](/f17/language/da) | 283 | 323 | 87.6 | /mnt/stockage/packages/f17/R-RODBC/po/da.po/mnt/stockage/packages/f17/R-RODBC/po/R-da.po | 
+ | [de](/f17/language/de) | 276 | 323 | 85.4 | /mnt/stockage/packages/f17/R-RODBC/po/de.po/mnt/stockage/packages/f17/R-RODBC/po/R-de.po | 
 {.sortable}
 
 

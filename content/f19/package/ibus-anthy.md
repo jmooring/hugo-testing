@@ -18,10 +18,10 @@ The package ibus-anthy (version 1.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 693 | 693 | 100.0 | /mnt/stockage/packages/f19/ibus-anthy/po/ja.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 692 | 693 | 99.9 | /mnt/stockage/packages/f19/ibus-anthy/po/fr.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 141 | 693 | 20.3 | /mnt/stockage/packages/f19/ibus-anthy/po/el.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 29 | 693 | 4.2 | /mnt/stockage/packages/f19/ibus-anthy/po/zh_CN.po | 
+ | [ja](/f19/language/ja) | 693 | 693 | 100.0 | /mnt/stockage/packages/f19/ibus-anthy/po/ja.po | 
+ | [fr](/f19/language/fr) | 692 | 693 | 99.9 | /mnt/stockage/packages/f19/ibus-anthy/po/fr.po | 
+ | [el](/f19/language/el) | 141 | 693 | 20.3 | /mnt/stockage/packages/f19/ibus-anthy/po/el.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 29 | 693 | 4.2 | /mnt/stockage/packages/f19/ibus-anthy/po/zh_CN.po | 
 {.sortable}
 
 

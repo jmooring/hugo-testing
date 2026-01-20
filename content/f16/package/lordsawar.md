@@ -18,10 +18,10 @@ The package lordsawar (version 0.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f16/language/da.md" >}}) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f16/lordsawar/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f16/lordsawar/po/de.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f16/lordsawar/po/nl.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 2589 | 5677 | 45.6 | /mnt/stockage/packages/f16/lordsawar/po/ca.po | 
+ | [da](/f16/language/da) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f16/lordsawar/po/da.po | 
+ | [de](/f16/language/de) | 5718 | 5718 | 100.0 | /mnt/stockage/packages/f16/lordsawar/po/de.po | 
+ | [nl](/f16/language/nl) | 1618 | 3178 | 50.9 | /mnt/stockage/packages/f16/lordsawar/po/nl.po | 
+ | [ca](/f16/language/ca) | 2589 | 5677 | 45.6 | /mnt/stockage/packages/f16/lordsawar/po/ca.po | 
 {.sortable}
 
 

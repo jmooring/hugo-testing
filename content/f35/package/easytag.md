@@ -18,41 +18,41 @@ The package easytag (version 2.4.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 5310 | 5310 | 100.0 | /mnt/stockage/packages/f35/easytag/po/bs.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 7780 | 7780 | 100.0 | /mnt/stockage/packages/f35/easytag/help/cs/cs.po/mnt/stockage/packages/f35/easytag/po/cs.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 7763 | 7763 | 100.0 | /mnt/stockage/packages/f35/easytag/help/de/de.po/mnt/stockage/packages/f35/easytag/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 7660 | 7660 | 100.0 | /mnt/stockage/packages/f35/easytag/help/el/el.po/mnt/stockage/packages/f35/easytag/po/el.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/en_GB.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 7738 | 7738 | 100.0 | /mnt/stockage/packages/f35/easytag/help/es/es.po/mnt/stockage/packages/f35/easytag/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 7780 | 7780 | 100.0 | /mnt/stockage/packages/f35/easytag/help/fr/fr.po/mnt/stockage/packages/f35/easytag/po/fr.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/hr.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 7780 | 7780 | 100.0 | /mnt/stockage/packages/f35/easytag/help/hu/hu.po/mnt/stockage/packages/f35/easytag/po/hu.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 5281 | 5281 | 100.0 | /mnt/stockage/packages/f35/easytag/po/it.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/ko.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/nb.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/pt_BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 5558 | 5558 | 100.0 | /mnt/stockage/packages/f35/easytag/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/sr.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 7763 | 7763 | 100.0 | /mnt/stockage/packages/f35/easytag/help/sv/sv.po/mnt/stockage/packages/f35/easytag/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 5281 | 5281 | 100.0 | /mnt/stockage/packages/f35/easytag/po/tr.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 7500 | 7650 | 98.0 | /mnt/stockage/packages/f35/easytag/help/ca/ca.po/mnt/stockage/packages/f35/easytag/po/ca.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 4165 | 5507 | 75.6 | /mnt/stockage/packages/f35/easytag/po/ja.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 3953 | 5281 | 74.9 | /mnt/stockage/packages/f35/easytag/po/sl.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 4094 | 5507 | 74.3 | /mnt/stockage/packages/f35/easytag/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 3801 | 5239 | 72.6 | /mnt/stockage/packages/f35/easytag/po/zh_TW.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 3558 | 5507 | 64.6 | /mnt/stockage/packages/f35/easytag/po/da.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 2769 | 5507 | 50.3 | /mnt/stockage/packages/f35/easytag/po/bg.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 2602 | 5507 | 47.2 | /mnt/stockage/packages/f35/easytag/po/nl.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 2519 | 5510 | 45.7 | /mnt/stockage/packages/f35/easytag/po/he.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 1916 | 5239 | 36.6 | /mnt/stockage/packages/f35/easytag/po/oc.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 1572 | 5243 | 30.0 | /mnt/stockage/packages/f35/easytag/po/lt.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1406 | 5507 | 25.5 | /mnt/stockage/packages/f35/easytag/po/uk.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 1309 | 5400 | 24.2 | /mnt/stockage/packages/f35/easytag/po/id.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 688 | 5261 | 13.1 | /mnt/stockage/packages/f35/easytag/po/ro.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 584 | 5281 | 11.1 | /mnt/stockage/packages/f35/easytag/po/te.po | 
+ | [bs](/f35/language/bs) | 5310 | 5310 | 100.0 | /mnt/stockage/packages/f35/easytag/po/bs.po | 
+ | [cs](/f35/language/cs) | 7780 | 7780 | 100.0 | /mnt/stockage/packages/f35/easytag/help/cs/cs.po/mnt/stockage/packages/f35/easytag/po/cs.po | 
+ | [de](/f35/language/de) | 7763 | 7763 | 100.0 | /mnt/stockage/packages/f35/easytag/help/de/de.po/mnt/stockage/packages/f35/easytag/po/de.po | 
+ | [el](/f35/language/el) | 7660 | 7660 | 100.0 | /mnt/stockage/packages/f35/easytag/help/el/el.po/mnt/stockage/packages/f35/easytag/po/el.po | 
+ | [en_GB](/f35/language/en_GB) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/en_GB.po | 
+ | [es](/f35/language/es) | 7738 | 7738 | 100.0 | /mnt/stockage/packages/f35/easytag/help/es/es.po/mnt/stockage/packages/f35/easytag/po/es.po | 
+ | [fr](/f35/language/fr) | 7780 | 7780 | 100.0 | /mnt/stockage/packages/f35/easytag/help/fr/fr.po/mnt/stockage/packages/f35/easytag/po/fr.po | 
+ | [hr](/f35/language/hr) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/hr.po | 
+ | [hu](/f35/language/hu) | 7780 | 7780 | 100.0 | /mnt/stockage/packages/f35/easytag/help/hu/hu.po/mnt/stockage/packages/f35/easytag/po/hu.po | 
+ | [it](/f35/language/it) | 5281 | 5281 | 100.0 | /mnt/stockage/packages/f35/easytag/po/it.po | 
+ | [ko](/f35/language/ko) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/ko.po | 
+ | [nb_NO](/f35/language/nb_NO) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/nb.po | 
+ | [pl](/f35/language/pl) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/pl.po | 
+ | [pt](/f35/language/pt) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 5239 | 5239 | 100.0 | /mnt/stockage/packages/f35/easytag/po/pt_BR.po | 
+ | [ru](/f35/language/ru) | 5558 | 5558 | 100.0 | /mnt/stockage/packages/f35/easytag/po/ru.po | 
+ | [sr](/f35/language/sr) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/sr.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 5264 | 5264 | 100.0 | /mnt/stockage/packages/f35/easytag/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 7763 | 7763 | 100.0 | /mnt/stockage/packages/f35/easytag/help/sv/sv.po/mnt/stockage/packages/f35/easytag/po/sv.po | 
+ | [tr](/f35/language/tr) | 5281 | 5281 | 100.0 | /mnt/stockage/packages/f35/easytag/po/tr.po | 
+ | [ca](/f35/language/ca) | 7500 | 7650 | 98.0 | /mnt/stockage/packages/f35/easytag/help/ca/ca.po/mnt/stockage/packages/f35/easytag/po/ca.po | 
+ | [ja](/f35/language/ja) | 4165 | 5507 | 75.6 | /mnt/stockage/packages/f35/easytag/po/ja.po | 
+ | [sl](/f35/language/sl) | 3953 | 5281 | 74.9 | /mnt/stockage/packages/f35/easytag/po/sl.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 4094 | 5507 | 74.3 | /mnt/stockage/packages/f35/easytag/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 3801 | 5239 | 72.6 | /mnt/stockage/packages/f35/easytag/po/zh_TW.po | 
+ | [da](/f35/language/da) | 3558 | 5507 | 64.6 | /mnt/stockage/packages/f35/easytag/po/da.po | 
+ | [bg](/f35/language/bg) | 2769 | 5507 | 50.3 | /mnt/stockage/packages/f35/easytag/po/bg.po | 
+ | [nl](/f35/language/nl) | 2602 | 5507 | 47.2 | /mnt/stockage/packages/f35/easytag/po/nl.po | 
+ | [he](/f35/language/he) | 2519 | 5510 | 45.7 | /mnt/stockage/packages/f35/easytag/po/he.po | 
+ | [oc](/f35/language/oc) | 1916 | 5239 | 36.6 | /mnt/stockage/packages/f35/easytag/po/oc.po | 
+ | [lt](/f35/language/lt) | 1572 | 5243 | 30.0 | /mnt/stockage/packages/f35/easytag/po/lt.po | 
+ | [uk](/f35/language/uk) | 1406 | 5507 | 25.5 | /mnt/stockage/packages/f35/easytag/po/uk.po | 
+ | [id](/f35/language/id) | 1309 | 5400 | 24.2 | /mnt/stockage/packages/f35/easytag/po/id.po | 
+ | [ro](/f35/language/ro) | 688 | 5261 | 13.1 | /mnt/stockage/packages/f35/easytag/po/ro.po | 
+ | [te](/f35/language/te) | 584 | 5281 | 11.1 | /mnt/stockage/packages/f35/easytag/po/te.po | 
 {.sortable}
 
 

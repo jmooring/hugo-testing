@@ -18,21 +18,21 @@ The package cryptsetup (version 1.6.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/fr.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/pl.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/vi.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 2427 | 2436 | 99.6 | /mnt/stockage/packages/f22/cryptsetup/po/da.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2427 | 2436 | 99.6 | /mnt/stockage/packages/f22/cryptsetup/po/it.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 2427 | 2436 | 99.6 | /mnt/stockage/packages/f22/cryptsetup/po/sr.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2093 | 2436 | 85.9 | /mnt/stockage/packages/f22/cryptsetup/po/zh_CN.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 703 | 2436 | 28.9 | /mnt/stockage/packages/f22/cryptsetup/po/id.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 703 | 2436 | 28.9 | /mnt/stockage/packages/f22/cryptsetup/po/sv.po | 
+ | [cs](/f22/language/cs) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/cs.po | 
+ | [de](/f22/language/de) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/de.po | 
+ | [es](/f22/language/es) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/es.po | 
+ | [fi](/f22/language/fi) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/fi.po | 
+ | [fr](/f22/language/fr) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/fr.po | 
+ | [nl](/f22/language/nl) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/nl.po | 
+ | [pl](/f22/language/pl) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/pl.po | 
+ | [uk](/f22/language/uk) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/uk.po | 
+ | [vi](/f22/language/vi) | 2436 | 2436 | 100.0 | /mnt/stockage/packages/f22/cryptsetup/po/vi.po | 
+ | [da](/f22/language/da) | 2427 | 2436 | 99.6 | /mnt/stockage/packages/f22/cryptsetup/po/da.po | 
+ | [it](/f22/language/it) | 2427 | 2436 | 99.6 | /mnt/stockage/packages/f22/cryptsetup/po/it.po | 
+ | [sr](/f22/language/sr) | 2427 | 2436 | 99.6 | /mnt/stockage/packages/f22/cryptsetup/po/sr.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2093 | 2436 | 85.9 | /mnt/stockage/packages/f22/cryptsetup/po/zh_CN.po | 
+ | [id](/f22/language/id) | 703 | 2436 | 28.9 | /mnt/stockage/packages/f22/cryptsetup/po/id.po | 
+ | [sv](/f22/language/sv) | 703 | 2436 | 28.9 | /mnt/stockage/packages/f22/cryptsetup/po/sv.po | 
 {.sortable}
 
 

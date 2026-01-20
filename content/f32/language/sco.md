@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f32/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [blueberry]({{< ref "/f32/package/blueberry.md" >}}) | 138 | 162 | 85.2 | Scots <sco@li.org> | 
- | [cinnamon-translations]({{< ref "/f32/package/cinnamon-translations.md" >}}) | 998 | 8906 | 11.2 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f32/package/picard.md" >}}) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [supertuxkart]({{< ref "/f32/package/supertuxkart.md" >}}) | 14 | 5556 | 0.3 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
- | [breezy]({{< ref "/f32/package/breezy.md" >}}) | 0 | 33704 | 0.0 |  | 
- | [libmatekbd]({{< ref "/f32/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-menu]({{< ref "/f32/package/mate-menu.md" >}}) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [mate-themes]({{< ref "/f32/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
- | [sugar]({{< ref "/f32/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f32/package/sugar-toolkit-gtk3.md" >}}) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gnomad2](/f32/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [blueberry](/f32/package/blueberry) | 138 | 162 | 85.2 | Scots <sco@li.org> | 
+ | [cinnamon-translations](/f32/package/cinnamon-translations) | 998 | 8906 | 11.2 | Scots <sco@li.org> | 
+ | [picard](/f32/package/picard) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [supertuxkart](/f32/package/supertuxkart) | 14 | 5556 | 0.3 | Scots (http://www.transifex.com/supertuxkart/supertuxkart/language/sco/) | 
+ | [breezy](/f32/package/breezy) | 0 | 33704 | 0.0 |  | 
+ | [libmatekbd](/f32/package/libmatekbd) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-menu](/f32/package/mate-menu) | 0 | 308 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [mate-themes](/f32/package/mate-themes) | 0 | 74 | 0.0 | Scots (http://www.transifex.com/mate/MATE/language/sco/) | 
+ | [sugar](/f32/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f32/package/sugar-toolkit-gtk3) | 0 | 213 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package ceelog (version 0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f21/language/de.md" >}}) | 57 | 179 | 31.8 | /mnt/stockage/packages/f21/ceelog/po/de.po | 
+ | [de](/f21/language/de) | 57 | 179 | 31.8 | /mnt/stockage/packages/f21/ceelog/po/de.po | 
 {.sortable}
 
 

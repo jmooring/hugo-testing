@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [poedit]({{< ref "/f30/package/poedit.md" >}}) | 2801 | 2813 | 99.6 | Arabic | 
- | [python-flask-admin]({{< ref "/f30/package/python-flask-admin.md" >}}) | 320 | 367 | 87.2 | Arabic | 
- | [childsplay]({{< ref "/f30/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [gimagereader]({{< ref "/f30/package/gimagereader.md" >}}) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
- | [texi2html]({{< ref "/f30/package/texi2html.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [texinfo]({{< ref "/f30/package/texinfo.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [glpi]({{< ref "/f30/package/glpi.md" >}}) | 3834 | 14162 | 27.1 | Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/) | 
- | [gnome-shell-extension-gsconnect]({{< ref "/f30/package/gnome-shell-extension-gsconnect.md" >}}) | 124 | 530 | 23.4 | Arabic | 
- | [electrum]({{< ref "/f30/package/electrum.md" >}}) | 978 | 6886 | 14.2 | Arabic | 
- | [cacti]({{< ref "/f30/package/cacti.md" >}}) | 396 | 28465 | 1.4 |  | 
- | [publican-fedora]({{< ref "/f30/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [poedit](/f30/package/poedit) | 2801 | 2813 | 99.6 | Arabic | 
+ | [python-flask-admin](/f30/package/python-flask-admin) | 320 | 367 | 87.2 | Arabic | 
+ | [childsplay](/f30/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [gimagereader](/f30/package/gimagereader) | 1305 | 1561 | 83.6 | Arabic <https://hosted.weblate.org/projects/gimagereader/translations/ar_SA/> | 
+ | [texi2html](/f30/package/texi2html) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [texinfo](/f30/package/texinfo) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [glpi](/f30/package/glpi) | 3834 | 14162 | 27.1 | Arabic (Saudi Arabia) (https://www.transifex.com/glpi/teams/1637/ar_SA/) | 
+ | [gnome-shell-extension-gsconnect](/f30/package/gnome-shell-extension-gsconnect) | 124 | 530 | 23.4 | Arabic | 
+ | [electrum](/f30/package/electrum) | 978 | 6886 | 14.2 | Arabic | 
+ | [cacti](/f30/package/cacti) | 396 | 28465 | 1.4 |  | 
+ | [publican-fedora](/f30/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

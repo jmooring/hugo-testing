@@ -18,10 +18,10 @@ The package pv (version 1.8.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 387 | 496 | 78.0 | /mnt/stockage/packages/f40/pv/po/fr.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 377 | 496 | 76.0 | /mnt/stockage/packages/f40/pv/po/pt.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 371 | 496 | 74.8 | /mnt/stockage/packages/f40/pv/po/de.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 185 | 496 | 37.3 | /mnt/stockage/packages/f40/pv/po/pl.po | 
+ | [fr](/f40/language/fr) | 387 | 496 | 78.0 | /mnt/stockage/packages/f40/pv/po/fr.po | 
+ | [pt](/f40/language/pt) | 377 | 496 | 76.0 | /mnt/stockage/packages/f40/pv/po/pt.po | 
+ | [de](/f40/language/de) | 371 | 496 | 74.8 | /mnt/stockage/packages/f40/pv/po/de.po | 
+ | [pl](/f40/language/pl) | 185 | 496 | 37.3 | /mnt/stockage/packages/f40/pv/po/pl.po | 
 {.sortable}
 
 

@@ -18,33 +18,33 @@ The package video-downloader (version 0.12.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f37/language/be.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/be.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ca.po | 
- | [ckb]({{< ref "/f37/language/ckb.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ckb.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/cs.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/de.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/es.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/fa.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/fr.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/he.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/hr.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ja.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ko.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/nb_NO.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/nl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/pt.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/sk.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/sv.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/tr.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/uk.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/zh_Hans.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/zh_Hant.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 119 | 160 | 74.4 | /mnt/stockage/packages/f37/video-downloader/po/uz.po | 
+ | [be](/f37/language/be) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/be.po | 
+ | [ca](/f37/language/ca) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ca.po | 
+ | [ckb](/f37/language/ckb) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ckb.po | 
+ | [cs](/f37/language/cs) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/cs.po | 
+ | [de](/f37/language/de) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/de.po | 
+ | [es](/f37/language/es) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/es.po | 
+ | [fa](/f37/language/fa) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/fa.po | 
+ | [fr](/f37/language/fr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/fr.po | 
+ | [he](/f37/language/he) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/he.po | 
+ | [hr](/f37/language/hr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/hr.po | 
+ | [hu](/f37/language/hu) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/hu.po | 
+ | [id](/f37/language/id) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/id.po | 
+ | [it](/f37/language/it) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/it.po | 
+ | [ja](/f37/language/ja) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ja.po | 
+ | [ko](/f37/language/ko) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ko.po | 
+ | [nb_NO](/f37/language/nb_NO) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/nb_NO.po | 
+ | [nl](/f37/language/nl) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/nl.po | 
+ | [pt](/f37/language/pt) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/pt.po | 
+ | [ro](/f37/language/ro) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ro.po | 
+ | [ru](/f37/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/ru.po | 
+ | [sk](/f37/language/sk) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/sk.po | 
+ | [sv](/f37/language/sv) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/sv.po | 
+ | [tr](/f37/language/tr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/tr.po | 
+ | [uk](/f37/language/uk) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/uk.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/zh_Hans.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 160 | 160 | 100.0 | /mnt/stockage/packages/f37/video-downloader/po/zh_Hant.po | 
+ | [uz](/f37/language/uz) | 119 | 160 | 74.4 | /mnt/stockage/packages/f37/video-downloader/po/uz.po | 
 {.sortable}
 
 

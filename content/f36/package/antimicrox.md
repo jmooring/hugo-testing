@@ -18,7 +18,7 @@ The package antimicrox (version 3.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f36/language/en.md" >}}) | 0 | 108 | 0.0 | /mnt/stockage/packages/f36/antimicrox/other/appdata/PO_files/en.po | 
+ | [en](/f36/language/en) | 0 | 108 | 0.0 | /mnt/stockage/packages/f36/antimicrox/other/appdata/PO_files/en.po | 
 {.sortable}
 
 

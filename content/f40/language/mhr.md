@@ -38,18 +38,18 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f40/package/pidgin.md" >}}) | 12499 | 13994 | 89.3 | Mari <muter@lists.linux-ink.ru> | 
- | [iso-codes]({{< ref "/f40/package/iso-codes.md" >}}) | 128 | 989 | 12.9 | Meadow Mari <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mhr/> | 
- | [lightdm-gtk]({{< ref "/f40/package/lightdm-gtk.md" >}}) | 10 | 89 | 11.2 | Mari (Meadow) <mhr@li.org> | 
- | [slick-greeter]({{< ref "/f40/package/slick-greeter.md" >}}) | 17 | 216 | 7.9 | Mari (Meadow) <mhr@li.org> | 
- | [simple-scan]({{< ref "/f40/package/simple-scan.md" >}}) | 34 | 589 | 5.8 | Mari (Meadow) <mhr@li.org> | 
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 18 | 993 | 1.8 | Meadow Mari <mhr@li.org> | 
- | [deja-dup]({{< ref "/f40/package/deja-dup.md" >}}) | 7 | 1623 | 0.4 | Mari (Meadow) <mhr@li.org> | 
- | [lightdm]({{< ref "/f40/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Mari (Meadow) <mhr@li.org> | 
- | [pyhoca-gui]({{< ref "/f40/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f40/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f40/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f40/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pidgin](/f40/package/pidgin) | 12499 | 13994 | 89.3 | Mari <muter@lists.linux-ink.ru> | 
+ | [iso-codes](/f40/package/iso-codes) | 128 | 989 | 12.9 | Meadow Mari <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mhr/> | 
+ | [lightdm-gtk](/f40/package/lightdm-gtk) | 10 | 89 | 11.2 | Mari (Meadow) <mhr@li.org> | 
+ | [slick-greeter](/f40/package/slick-greeter) | 17 | 216 | 7.9 | Mari (Meadow) <mhr@li.org> | 
+ | [simple-scan](/f40/package/simple-scan) | 34 | 589 | 5.8 | Mari (Meadow) <mhr@li.org> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 18 | 993 | 1.8 | Meadow Mari <mhr@li.org> | 
+ | [deja-dup](/f40/package/deja-dup) | 7 | 1623 | 0.4 | Mari (Meadow) <mhr@li.org> | 
+ | [lightdm](/f40/package/lightdm) | 0 | 163 | 0.0 | Mari (Meadow) <mhr@li.org> | 
+ | [pyhoca-gui](/f40/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f40/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f40/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f40/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package volumeicon (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [id]({{< ref "/f41/language/id.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/id.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/ka.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/lt.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/uk.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 87 | 92 | 94.6 | /mnt/stockage/packages/f41/volumeicon/po/fr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 86 | 92 | 93.5 | /mnt/stockage/packages/f41/volumeicon/po/ru.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 74 | 92 | 80.4 | /mnt/stockage/packages/f41/volumeicon/po/es.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/bs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/de.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/hr.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/pl.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/sr.po | 
+ | [id](/f41/language/id) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/id.po | 
+ | [ka](/f41/language/ka) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/ka.po | 
+ | [lt](/f41/language/lt) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/lt.po | 
+ | [tr](/f41/language/tr) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/tr.po | 
+ | [uk](/f41/language/uk) | 92 | 92 | 100.0 | /mnt/stockage/packages/f41/volumeicon/po/uk.po | 
+ | [fr](/f41/language/fr) | 87 | 92 | 94.6 | /mnt/stockage/packages/f41/volumeicon/po/fr.po | 
+ | [ru](/f41/language/ru) | 86 | 92 | 93.5 | /mnt/stockage/packages/f41/volumeicon/po/ru.po | 
+ | [es](/f41/language/es) | 74 | 92 | 80.4 | /mnt/stockage/packages/f41/volumeicon/po/es.po | 
+ | [bs](/f41/language/bs) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/bs.po | 
+ | [de](/f41/language/de) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/de.po | 
+ | [hr](/f41/language/hr) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/hr.po | 
+ | [pl](/f41/language/pl) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/pl.po | 
+ | [sr](/f41/language/sr) | 54 | 92 | 58.7 | /mnt/stockage/packages/f41/volumeicon/po/sr.po | 
 {.sortable}
 
 

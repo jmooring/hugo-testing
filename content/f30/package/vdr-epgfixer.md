@@ -18,8 +18,8 @@ The package vdr-epgfixer (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f30/language/fi.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f30/vdr-epgfixer/po/fi_FI.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 357 | 357 | 100.0 | /mnt/stockage/packages/f30/vdr-epgfixer/po/pl_PL.po | 
+ | [fi](/f30/language/fi) | 357 | 357 | 100.0 | /mnt/stockage/packages/f30/vdr-epgfixer/po/fi_FI.po | 
+ | [pl](/f30/language/pl) | 357 | 357 | 100.0 | /mnt/stockage/packages/f30/vdr-epgfixer/po/pl_PL.po | 
 {.sortable}
 
 

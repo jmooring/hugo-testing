@@ -18,21 +18,21 @@ The package bygfoot (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 9433 | 9433 | 100.0 | /mnt/stockage/packages/f36/bygfoot/po/pt_BR.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 3630 | 3661 | 99.2 | /mnt/stockage/packages/f36/bygfoot/po/tr.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 9292 | 9433 | 98.5 | /mnt/stockage/packages/f36/bygfoot/po/el.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 3504 | 9433 | 37.1 | /mnt/stockage/packages/f36/bygfoot/po/nl.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 3503 | 9433 | 37.1 | /mnt/stockage/packages/f36/bygfoot/po/da.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 3503 | 9433 | 37.1 | /mnt/stockage/packages/f36/bygfoot/po/ro.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 3485 | 9433 | 36.9 | /mnt/stockage/packages/f36/bygfoot/po/it.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 3485 | 9433 | 36.9 | /mnt/stockage/packages/f36/bygfoot/po/zh.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 3472 | 9433 | 36.8 | /mnt/stockage/packages/f36/bygfoot/po/de.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 3472 | 9433 | 36.8 | /mnt/stockage/packages/f36/bygfoot/po/sv.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/fr.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/pt_PT.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 3123 | 9433 | 33.1 | /mnt/stockage/packages/f36/bygfoot/po/bg.po | 
+ | [pt_BR](/f36/language/pt_BR) | 9433 | 9433 | 100.0 | /mnt/stockage/packages/f36/bygfoot/po/pt_BR.po | 
+ | [tr](/f36/language/tr) | 3630 | 3661 | 99.2 | /mnt/stockage/packages/f36/bygfoot/po/tr.po | 
+ | [el](/f36/language/el) | 9292 | 9433 | 98.5 | /mnt/stockage/packages/f36/bygfoot/po/el.po | 
+ | [nl](/f36/language/nl) | 3504 | 9433 | 37.1 | /mnt/stockage/packages/f36/bygfoot/po/nl.po | 
+ | [da](/f36/language/da) | 3503 | 9433 | 37.1 | /mnt/stockage/packages/f36/bygfoot/po/da.po | 
+ | [ro](/f36/language/ro) | 3503 | 9433 | 37.1 | /mnt/stockage/packages/f36/bygfoot/po/ro.po | 
+ | [it](/f36/language/it) | 3485 | 9433 | 36.9 | /mnt/stockage/packages/f36/bygfoot/po/it.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 3485 | 9433 | 36.9 | /mnt/stockage/packages/f36/bygfoot/po/zh.po | 
+ | [de](/f36/language/de) | 3472 | 9433 | 36.8 | /mnt/stockage/packages/f36/bygfoot/po/de.po | 
+ | [sv](/f36/language/sv) | 3472 | 9433 | 36.8 | /mnt/stockage/packages/f36/bygfoot/po/sv.po | 
+ | [es](/f36/language/es) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/es.po | 
+ | [fr](/f36/language/fr) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/fr.po | 
+ | [pl](/f36/language/pl) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/pl.po | 
+ | [pt](/f36/language/pt) | 3437 | 9433 | 36.4 | /mnt/stockage/packages/f36/bygfoot/po/pt_PT.po | 
+ | [bg](/f36/language/bg) | 3123 | 9433 | 33.1 | /mnt/stockage/packages/f36/bygfoot/po/bg.po | 
 {.sortable}
 
 

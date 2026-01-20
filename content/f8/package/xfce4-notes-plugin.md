@@ -18,15 +18,15 @@ The package xfce4-notes-plugin (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/cs.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/de.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/eu.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/hu.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 39 | 42 | 92.9 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/nl.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 34 | 42 | 81.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/ca.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 34 | 42 | 81.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/pl.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 7 | 42 | 16.7 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/zh_TW.po | 
+ | [cs](/f8/language/cs) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/cs.po | 
+ | [de](/f8/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/de.po | 
+ | [eu](/f8/language/eu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/eu.po | 
+ | [fr](/f8/language/fr) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/fr.po | 
+ | [hu](/f8/language/hu) | 42 | 42 | 100.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/hu.po | 
+ | [nl](/f8/language/nl) | 39 | 42 | 92.9 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/nl.po | 
+ | [ca](/f8/language/ca) | 34 | 42 | 81.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/ca.po | 
+ | [pl](/f8/language/pl) | 34 | 42 | 81.0 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/pl.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 7 | 42 | 16.7 | /mnt/stockage/packages/f8/xfce4-notes-plugin/po/zh_TW.po | 
 {.sortable}
 
 

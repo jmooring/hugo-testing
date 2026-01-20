@@ -18,65 +18,65 @@ The package kpilot (version 5.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/ca/kpilot.po | 
- | [ca@valencia]({{< ref "/f33/language/ca@valencia.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/ca@valencia/kpilot.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/da/kpilot.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/de/kpilot.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/en_GB/kpilot.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/es/kpilot.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/et/kpilot.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/fr/kpilot.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/gl/kpilot.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/hu/kpilot.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/it/kpilot.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nb/kpilot.po | 
- | [nds]({{< ref "/f33/language/nds.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nds/kpilot.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nl/kpilot.po | 
- | [nn]({{< ref "/f33/language/nn.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nn/kpilot.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/pl/kpilot.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/pt/kpilot.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/pt_BR/kpilot.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/sv/kpilot.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/uk/kpilot.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/zh_TW/kpilot.po | 
- | [sk]({{< ref "/f33/language/sk.md" >}}) | 5393 | 7156 | 75.4 | /mnt/stockage/packages/f33/kpilot/po/sk/kpilot.po | 
- | [fy]({{< ref "/f33/language/fy.md" >}}) | 5392 | 7156 | 75.3 | /mnt/stockage/packages/f33/kpilot/po/fy/kpilot.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 5362 | 7156 | 74.9 | /mnt/stockage/packages/f33/kpilot/po/bg/kpilot.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 5258 | 7156 | 73.5 | /mnt/stockage/packages/f33/kpilot/po/ru/kpilot.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 5176 | 7156 | 72.3 | /mnt/stockage/packages/f33/kpilot/po/eu/kpilot.po | 
- | [ms]({{< ref "/f33/language/ms.md" >}}) | 5140 | 7156 | 71.8 | /mnt/stockage/packages/f33/kpilot/po/ms/kpilot.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 4982 | 7156 | 69.6 | /mnt/stockage/packages/f33/kpilot/po/el/kpilot.po | 
- | [tg]({{< ref "/f33/language/tg.md" >}}) | 4818 | 7156 | 67.3 | /mnt/stockage/packages/f33/kpilot/po/tg/kpilot.po | 
- | [kk]({{< ref "/f33/language/kk.md" >}}) | 4560 | 7156 | 63.7 | /mnt/stockage/packages/f33/kpilot/po/kk/kpilot.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 3926 | 7156 | 54.9 | /mnt/stockage/packages/f33/kpilot/po/zh_CN/kpilot.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 3460 | 7156 | 48.4 | /mnt/stockage/packages/f33/kpilot/po/ja/kpilot.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 2424 | 7156 | 33.9 | /mnt/stockage/packages/f33/kpilot/po/cs/kpilot.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 2420 | 7156 | 33.8 | /mnt/stockage/packages/f33/kpilot/po/ta/kpilot.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 2383 | 7156 | 33.3 | /mnt/stockage/packages/f33/kpilot/po/sl/kpilot.po | 
- | [ne]({{< ref "/f33/language/ne.md" >}}) | 2309 | 7156 | 32.3 | /mnt/stockage/packages/f33/kpilot/po/ne/kpilot.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 2142 | 7156 | 29.9 | /mnt/stockage/packages/f33/kpilot/po/fi/kpilot.po | 
- | [fa]({{< ref "/f33/language/fa.md" >}}) | 1854 | 7156 | 25.9 | /mnt/stockage/packages/f33/kpilot/po/fa/kpilot.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1473 | 7156 | 20.6 | /mnt/stockage/packages/f33/kpilot/po/tr/kpilot.po | 
- | [is]({{< ref "/f33/language/is.md" >}}) | 1242 | 7156 | 17.4 | /mnt/stockage/packages/f33/kpilot/po/is/kpilot.po | 
- | [mk]({{< ref "/f33/language/mk.md" >}}) | 972 | 7156 | 13.6 | /mnt/stockage/packages/f33/kpilot/po/mk/kpilot.po | 
- | [ga]({{< ref "/f33/language/ga.md" >}}) | 906 | 7156 | 12.7 | /mnt/stockage/packages/f33/kpilot/po/ga/kpilot.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 733 | 7156 | 10.2 | /mnt/stockage/packages/f33/kpilot/po/ar/kpilot.po | 
- | [br]({{< ref "/f33/language/br.md" >}}) | 564 | 7156 | 7.9 | /mnt/stockage/packages/f33/kpilot/po/br/kpilot.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 521 | 7156 | 7.3 | /mnt/stockage/packages/f33/kpilot/po/he/kpilot.po | 
- | [xh]({{< ref "/f33/language/xh.md" >}}) | 521 | 7156 | 7.3 | /mnt/stockage/packages/f33/kpilot/po/xh/kpilot.po | 
- | [af]({{< ref "/f33/language/af.md" >}}) | 417 | 7156 | 5.8 | /mnt/stockage/packages/f33/kpilot/po/af/kpilot.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 176 | 7156 | 2.5 | /mnt/stockage/packages/f33/kpilot/po/ro/kpilot.po | 
- | [cy]({{< ref "/f33/language/cy.md" >}}) | 123 | 7156 | 1.7 | /mnt/stockage/packages/f33/kpilot/po/cy/kpilot.po | 
- | [mai]({{< ref "/f33/language/mai.md" >}}) | 117 | 7156 | 1.6 | /mnt/stockage/packages/f33/kpilot/po/mai/kpilot.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 104 | 7156 | 1.5 | /mnt/stockage/packages/f33/kpilot/po/hr/kpilot.po | 
- | [pa]({{< ref "/f33/language/pa.md" >}}) | 84 | 7156 | 1.2 | /mnt/stockage/packages/f33/kpilot/po/pa/kpilot.po | 
- | [lv]({{< ref "/f33/language/lv.md" >}}) | 79 | 7156 | 1.1 | /mnt/stockage/packages/f33/kpilot/po/lv/kpilot.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 64 | 7156 | 0.9 | /mnt/stockage/packages/f33/kpilot/po/lt/kpilot.po | 
- | [oc]({{< ref "/f33/language/oc.md" >}}) | 43 | 7156 | 0.6 | /mnt/stockage/packages/f33/kpilot/po/oc/kpilot.po | 
- | [km]({{< ref "/f33/language/km.md" >}}) | 39 | 7156 | 0.5 | /mnt/stockage/packages/f33/kpilot/po/km/kpilot.po | 
- | [se]({{< ref "/f33/language/se.md" >}}) | 31 | 7156 | 0.4 | /mnt/stockage/packages/f33/kpilot/po/se/kpilot.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 28 | 7156 | 0.4 | /mnt/stockage/packages/f33/kpilot/po/be/kpilot.po | 
- | [uz]({{< ref "/f33/language/uz.md" >}}) | 28 | 14312 | 0.2 | /mnt/stockage/packages/f33/kpilot/po/uz@cyrillic/kpilot.po/mnt/stockage/packages/f33/kpilot/po/uz/kpilot.po | 
+ | [ca](/f33/language/ca) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/ca/kpilot.po | 
+ | [ca@valencia](/f33/language/ca@valencia) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/ca@valencia/kpilot.po | 
+ | [da](/f33/language/da) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/da/kpilot.po | 
+ | [de](/f33/language/de) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/de/kpilot.po | 
+ | [en_GB](/f33/language/en_GB) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/en_GB/kpilot.po | 
+ | [es](/f33/language/es) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/es/kpilot.po | 
+ | [et](/f33/language/et) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/et/kpilot.po | 
+ | [fr](/f33/language/fr) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/fr/kpilot.po | 
+ | [gl](/f33/language/gl) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/gl/kpilot.po | 
+ | [hu](/f33/language/hu) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/hu/kpilot.po | 
+ | [it](/f33/language/it) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/it/kpilot.po | 
+ | [nb_NO](/f33/language/nb_NO) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nb/kpilot.po | 
+ | [nds](/f33/language/nds) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nds/kpilot.po | 
+ | [nl](/f33/language/nl) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nl/kpilot.po | 
+ | [nn](/f33/language/nn) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/nn/kpilot.po | 
+ | [pl](/f33/language/pl) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/pl/kpilot.po | 
+ | [pt](/f33/language/pt) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/pt/kpilot.po | 
+ | [pt_BR](/f33/language/pt_BR) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/pt_BR/kpilot.po | 
+ | [sv](/f33/language/sv) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/sv/kpilot.po | 
+ | [uk](/f33/language/uk) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/uk/kpilot.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 7156 | 7156 | 100.0 | /mnt/stockage/packages/f33/kpilot/po/zh_TW/kpilot.po | 
+ | [sk](/f33/language/sk) | 5393 | 7156 | 75.4 | /mnt/stockage/packages/f33/kpilot/po/sk/kpilot.po | 
+ | [fy](/f33/language/fy) | 5392 | 7156 | 75.3 | /mnt/stockage/packages/f33/kpilot/po/fy/kpilot.po | 
+ | [bg](/f33/language/bg) | 5362 | 7156 | 74.9 | /mnt/stockage/packages/f33/kpilot/po/bg/kpilot.po | 
+ | [ru](/f33/language/ru) | 5258 | 7156 | 73.5 | /mnt/stockage/packages/f33/kpilot/po/ru/kpilot.po | 
+ | [eu](/f33/language/eu) | 5176 | 7156 | 72.3 | /mnt/stockage/packages/f33/kpilot/po/eu/kpilot.po | 
+ | [ms](/f33/language/ms) | 5140 | 7156 | 71.8 | /mnt/stockage/packages/f33/kpilot/po/ms/kpilot.po | 
+ | [el](/f33/language/el) | 4982 | 7156 | 69.6 | /mnt/stockage/packages/f33/kpilot/po/el/kpilot.po | 
+ | [tg](/f33/language/tg) | 4818 | 7156 | 67.3 | /mnt/stockage/packages/f33/kpilot/po/tg/kpilot.po | 
+ | [kk](/f33/language/kk) | 4560 | 7156 | 63.7 | /mnt/stockage/packages/f33/kpilot/po/kk/kpilot.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 3926 | 7156 | 54.9 | /mnt/stockage/packages/f33/kpilot/po/zh_CN/kpilot.po | 
+ | [ja](/f33/language/ja) | 3460 | 7156 | 48.4 | /mnt/stockage/packages/f33/kpilot/po/ja/kpilot.po | 
+ | [cs](/f33/language/cs) | 2424 | 7156 | 33.9 | /mnt/stockage/packages/f33/kpilot/po/cs/kpilot.po | 
+ | [ta](/f33/language/ta) | 2420 | 7156 | 33.8 | /mnt/stockage/packages/f33/kpilot/po/ta/kpilot.po | 
+ | [sl](/f33/language/sl) | 2383 | 7156 | 33.3 | /mnt/stockage/packages/f33/kpilot/po/sl/kpilot.po | 
+ | [ne](/f33/language/ne) | 2309 | 7156 | 32.3 | /mnt/stockage/packages/f33/kpilot/po/ne/kpilot.po | 
+ | [fi](/f33/language/fi) | 2142 | 7156 | 29.9 | /mnt/stockage/packages/f33/kpilot/po/fi/kpilot.po | 
+ | [fa](/f33/language/fa) | 1854 | 7156 | 25.9 | /mnt/stockage/packages/f33/kpilot/po/fa/kpilot.po | 
+ | [tr](/f33/language/tr) | 1473 | 7156 | 20.6 | /mnt/stockage/packages/f33/kpilot/po/tr/kpilot.po | 
+ | [is](/f33/language/is) | 1242 | 7156 | 17.4 | /mnt/stockage/packages/f33/kpilot/po/is/kpilot.po | 
+ | [mk](/f33/language/mk) | 972 | 7156 | 13.6 | /mnt/stockage/packages/f33/kpilot/po/mk/kpilot.po | 
+ | [ga](/f33/language/ga) | 906 | 7156 | 12.7 | /mnt/stockage/packages/f33/kpilot/po/ga/kpilot.po | 
+ | [ar](/f33/language/ar) | 733 | 7156 | 10.2 | /mnt/stockage/packages/f33/kpilot/po/ar/kpilot.po | 
+ | [br](/f33/language/br) | 564 | 7156 | 7.9 | /mnt/stockage/packages/f33/kpilot/po/br/kpilot.po | 
+ | [he](/f33/language/he) | 521 | 7156 | 7.3 | /mnt/stockage/packages/f33/kpilot/po/he/kpilot.po | 
+ | [xh](/f33/language/xh) | 521 | 7156 | 7.3 | /mnt/stockage/packages/f33/kpilot/po/xh/kpilot.po | 
+ | [af](/f33/language/af) | 417 | 7156 | 5.8 | /mnt/stockage/packages/f33/kpilot/po/af/kpilot.po | 
+ | [ro](/f33/language/ro) | 176 | 7156 | 2.5 | /mnt/stockage/packages/f33/kpilot/po/ro/kpilot.po | 
+ | [cy](/f33/language/cy) | 123 | 7156 | 1.7 | /mnt/stockage/packages/f33/kpilot/po/cy/kpilot.po | 
+ | [mai](/f33/language/mai) | 117 | 7156 | 1.6 | /mnt/stockage/packages/f33/kpilot/po/mai/kpilot.po | 
+ | [hr](/f33/language/hr) | 104 | 7156 | 1.5 | /mnt/stockage/packages/f33/kpilot/po/hr/kpilot.po | 
+ | [pa](/f33/language/pa) | 84 | 7156 | 1.2 | /mnt/stockage/packages/f33/kpilot/po/pa/kpilot.po | 
+ | [lv](/f33/language/lv) | 79 | 7156 | 1.1 | /mnt/stockage/packages/f33/kpilot/po/lv/kpilot.po | 
+ | [lt](/f33/language/lt) | 64 | 7156 | 0.9 | /mnt/stockage/packages/f33/kpilot/po/lt/kpilot.po | 
+ | [oc](/f33/language/oc) | 43 | 7156 | 0.6 | /mnt/stockage/packages/f33/kpilot/po/oc/kpilot.po | 
+ | [km](/f33/language/km) | 39 | 7156 | 0.5 | /mnt/stockage/packages/f33/kpilot/po/km/kpilot.po | 
+ | [se](/f33/language/se) | 31 | 7156 | 0.4 | /mnt/stockage/packages/f33/kpilot/po/se/kpilot.po | 
+ | [be](/f33/language/be) | 28 | 7156 | 0.4 | /mnt/stockage/packages/f33/kpilot/po/be/kpilot.po | 
+ | [uz](/f33/language/uz) | 28 | 14312 | 0.2 | /mnt/stockage/packages/f33/kpilot/po/uz@cyrillic/kpilot.po/mnt/stockage/packages/f33/kpilot/po/uz/kpilot.po | 
 {.sortable}
 
 

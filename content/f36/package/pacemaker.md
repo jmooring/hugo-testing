@@ -18,7 +18,7 @@ The package pacemaker (version 2.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 2072 | 2105 | 98.4 | /mnt/stockage/packages/f36/pacemaker/po/zh_CN.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 2072 | 2105 | 98.4 | /mnt/stockage/packages/f36/pacemaker/po/zh_CN.po | 
 {.sortable}
 
 

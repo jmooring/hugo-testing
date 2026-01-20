@@ -18,8 +18,8 @@ The package libosinfo (version 0.2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f19/libosinfo/po/uk.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 1490 | 1561 | 95.5 | /mnt/stockage/packages/f19/libosinfo/po/pl.po | 
+ | [uk](/f19/language/uk) | 1494 | 1494 | 100.0 | /mnt/stockage/packages/f19/libosinfo/po/uk.po | 
+ | [pl](/f19/language/pl) | 1490 | 1561 | 95.5 | /mnt/stockage/packages/f19/libosinfo/po/pl.po | 
 {.sortable}
 
 

@@ -18,73 +18,73 @@ The package glib-networking (version 2.54.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f27/language/an.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/an.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ar.po | 
- | [as]({{< ref "/f27/language/as.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/as.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/be.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/bg.po | 
- | [bn_IN]({{< ref "/f27/language/bn_IN.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/bn_IN.po | 
- | [bs]({{< ref "/f27/language/bs.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/bs.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ca.po | 
- | [ca@valencia]({{< ref "/f27/language/ca@valencia.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ca@valencia.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/de.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/el.po | 
- | [en_CA]({{< ref "/f27/language/en_CA.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/en_CA.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/en_GB.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/es.po | 
- | [et]({{< ref "/f27/language/et.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/et.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/eu.po | 
- | [fa]({{< ref "/f27/language/fa.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/fa.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/fr.po | 
- | [fur]({{< ref "/f27/language/fur.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/fur.po | 
- | [gd]({{< ref "/f27/language/gd.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/gd.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/gl.po | 
- | [gu]({{< ref "/f27/language/gu.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/gu.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/he.po | 
- | [hi]({{< ref "/f27/language/hi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/hi.po | 
- | [hr]({{< ref "/f27/language/hr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/hr.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/hu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/id.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ja.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/kk.po | 
- | [km]({{< ref "/f27/language/km.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/km.po | 
- | [kn]({{< ref "/f27/language/kn.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/kn.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/lt.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/lv.po | 
- | [ml]({{< ref "/f27/language/ml.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ml.po | 
- | [mr]({{< ref "/f27/language/mr.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/mr.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/nb.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/nl.po | 
- | [oc]({{< ref "/f27/language/oc.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/oc.po | 
- | [or]({{< ref "/f27/language/or.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/or.po | 
- | [pa]({{< ref "/f27/language/pa.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pa.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ro.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ru.po | 
- | [sk]({{< ref "/f27/language/sk.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sk.po | 
- | [sl]({{< ref "/f27/language/sl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sl.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 326 | 326 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sr.po/mnt/stockage/packages/f27/glib-networking/po/sr@latin.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sv.po | 
- | [ta]({{< ref "/f27/language/ta.md" >}}) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ta.po | 
- | [te]({{< ref "/f27/language/te.md" >}}) | 153 | 153 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/te.po | 
- | [tg]({{< ref "/f27/language/tg.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/tg.po | 
- | [th]({{< ref "/f27/language/th.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/th.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/tr.po | 
- | [ug]({{< ref "/f27/language/ug.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ug.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/uk.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/vi.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f27/language/zh_Hant_HK.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/zh_HK.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 155 | 161 | 96.3 | /mnt/stockage/packages/f27/glib-networking/po/fi.po | 
- | [ne]({{< ref "/f27/language/ne.md" >}}) | 139 | 163 | 85.3 | /mnt/stockage/packages/f27/glib-networking/po/ne.po | 
- | [eo]({{< ref "/f27/language/eo.md" >}}) | 123 | 163 | 75.5 | /mnt/stockage/packages/f27/glib-networking/po/eo.po | 
+ | [an](/f27/language/an) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/an.po | 
+ | [ar](/f27/language/ar) | 153 | 153 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ar.po | 
+ | [as](/f27/language/as) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/as.po | 
+ | [be](/f27/language/be) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/be.po | 
+ | [bg](/f27/language/bg) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/bg.po | 
+ | [bn_IN](/f27/language/bn_IN) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/bn_IN.po | 
+ | [bs](/f27/language/bs) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/bs.po | 
+ | [ca](/f27/language/ca) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ca.po | 
+ | [ca@valencia](/f27/language/ca@valencia) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ca@valencia.po | 
+ | [cs](/f27/language/cs) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/cs.po | 
+ | [da](/f27/language/da) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/da.po | 
+ | [de](/f27/language/de) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/de.po | 
+ | [el](/f27/language/el) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/el.po | 
+ | [en_CA](/f27/language/en_CA) | 4 | 4 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/en_CA.po | 
+ | [en_GB](/f27/language/en_GB) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/en_GB.po | 
+ | [es](/f27/language/es) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/es.po | 
+ | [et](/f27/language/et) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/et.po | 
+ | [eu](/f27/language/eu) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/eu.po | 
+ | [fa](/f27/language/fa) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/fa.po | 
+ | [fr](/f27/language/fr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/fr.po | 
+ | [fur](/f27/language/fur) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/fur.po | 
+ | [gd](/f27/language/gd) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/gd.po | 
+ | [gl](/f27/language/gl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/gl.po | 
+ | [gu](/f27/language/gu) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/gu.po | 
+ | [he](/f27/language/he) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/he.po | 
+ | [hi](/f27/language/hi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/hi.po | 
+ | [hr](/f27/language/hr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/hr.po | 
+ | [hu](/f27/language/hu) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/hu.po | 
+ | [id](/f27/language/id) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/id.po | 
+ | [it](/f27/language/it) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/it.po | 
+ | [ja](/f27/language/ja) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ja.po | 
+ | [kk](/f27/language/kk) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/kk.po | 
+ | [km](/f27/language/km) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/km.po | 
+ | [kn](/f27/language/kn) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/kn.po | 
+ | [ko](/f27/language/ko) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ko.po | 
+ | [lt](/f27/language/lt) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/lt.po | 
+ | [lv](/f27/language/lv) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/lv.po | 
+ | [ml](/f27/language/ml) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ml.po | 
+ | [mr](/f27/language/mr) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/mr.po | 
+ | [nb_NO](/f27/language/nb_NO) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/nb.po | 
+ | [nl](/f27/language/nl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/nl.po | 
+ | [oc](/f27/language/oc) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/oc.po | 
+ | [or](/f27/language/or) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/or.po | 
+ | [pa](/f27/language/pa) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pa.po | 
+ | [pl](/f27/language/pl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pl.po | 
+ | [pt](/f27/language/pt) | 157 | 157 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ro.po | 
+ | [ru](/f27/language/ru) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ru.po | 
+ | [sk](/f27/language/sk) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sk.po | 
+ | [sl](/f27/language/sl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sl.po | 
+ | [sr](/f27/language/sr) | 326 | 326 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sr.po/mnt/stockage/packages/f27/glib-networking/po/sr@latin.po | 
+ | [sv](/f27/language/sv) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/sv.po | 
+ | [ta](/f27/language/ta) | 86 | 86 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ta.po | 
+ | [te](/f27/language/te) | 153 | 153 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/te.po | 
+ | [tg](/f27/language/tg) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/tg.po | 
+ | [th](/f27/language/th) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/th.po | 
+ | [tr](/f27/language/tr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/tr.po | 
+ | [ug](/f27/language/ug) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/ug.po | 
+ | [uk](/f27/language/uk) | 135 | 135 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/uk.po | 
+ | [vi](/f27/language/vi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/vi.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 163 | 163 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/zh_TW.po | 
+ | [zh_Hant_HK](/f27/language/zh_Hant_HK) | 161 | 161 | 100.0 | /mnt/stockage/packages/f27/glib-networking/po/zh_HK.po | 
+ | [fi](/f27/language/fi) | 155 | 161 | 96.3 | /mnt/stockage/packages/f27/glib-networking/po/fi.po | 
+ | [ne](/f27/language/ne) | 139 | 163 | 85.3 | /mnt/stockage/packages/f27/glib-networking/po/ne.po | 
+ | [eo](/f27/language/eo) | 123 | 163 | 75.5 | /mnt/stockage/packages/f27/glib-networking/po/eo.po | 
 {.sortable}
 
 

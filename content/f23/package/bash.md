@@ -18,41 +18,41 @@ The package bash (version 4.3.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 11178 | 11178 | 100.0 | /mnt/stockage/packages/f23/bash/po/._bg.po/mnt/stockage/packages/f23/bash/po/bg.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 22356 | 22356 | 100.0 | /mnt/stockage/packages/f23/bash/po/en@quot.po/mnt/stockage/packages/f23/bash/po/en@boldquot.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/cs.po | 
- | [eo]({{< ref "/f23/language/eo.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/eo.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/nl.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/pl.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/sv.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/uk.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/vi.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/ja.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/sk.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/sl.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 6968 | 11178 | 62.3 | /mnt/stockage/packages/f23/bash/po/zh_CN.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f23/bash/po/hu.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f23/bash/po/id.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 6634 | 11178 | 59.3 | /mnt/stockage/packages/f23/bash/po/fi.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 6504 | 11178 | 58.2 | /mnt/stockage/packages/f23/bash/po/da.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 5448 | 11178 | 48.7 | /mnt/stockage/packages/f23/bash/po/tr.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 5397 | 11178 | 48.3 | /mnt/stockage/packages/f23/bash/po/de.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 3652 | 11178 | 32.7 | /mnt/stockage/packages/f23/bash/po/gl.po | 
- | [ga]({{< ref "/f23/language/ga.md" >}}) | 3268 | 11178 | 29.2 | /mnt/stockage/packages/f23/bash/po/ga.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 1832 | 11178 | 16.4 | /mnt/stockage/packages/f23/bash/po/hr.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 1652 | 11178 | 14.8 | /mnt/stockage/packages/f23/bash/po/el.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 1515 | 11178 | 13.6 | /mnt/stockage/packages/f23/bash/po/lt.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 660 | 11178 | 5.9 | /mnt/stockage/packages/f23/bash/po/et.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 461 | 11178 | 4.1 | /mnt/stockage/packages/f23/bash/po/ru.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 432 | 11178 | 3.9 | /mnt/stockage/packages/f23/bash/po/ro.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f23/bash/po/ca.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f23/bash/po/pt_BR.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 315 | 11178 | 2.8 | /mnt/stockage/packages/f23/bash/po/zh_TW.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 45 | 11178 | 0.4 | /mnt/stockage/packages/f23/bash/po/af.po | 
+ | [bg](/f23/language/bg) | 11178 | 11178 | 100.0 | /mnt/stockage/packages/f23/bash/po/._bg.po/mnt/stockage/packages/f23/bash/po/bg.po | 
+ | [en](/f23/language/en) | 22356 | 22356 | 100.0 | /mnt/stockage/packages/f23/bash/po/en@quot.po/mnt/stockage/packages/f23/bash/po/en@boldquot.po | 
+ | [cs](/f23/language/cs) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/cs.po | 
+ | [eo](/f23/language/eo) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/eo.po | 
+ | [nl](/f23/language/nl) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/nl.po | 
+ | [pl](/f23/language/pl) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/pl.po | 
+ | [sr](/f23/language/sr) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/sr.po | 
+ | [sv](/f23/language/sv) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/sv.po | 
+ | [uk](/f23/language/uk) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/uk.po | 
+ | [vi](/f23/language/vi) | 11062 | 11178 | 99.0 | /mnt/stockage/packages/f23/bash/po/vi.po | 
+ | [es](/f23/language/es) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/es.po | 
+ | [fr](/f23/language/fr) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/fr.po | 
+ | [it](/f23/language/it) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/it.po | 
+ | [ja](/f23/language/ja) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/ja.po | 
+ | [sk](/f23/language/sk) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/sk.po | 
+ | [sl](/f23/language/sl) | 7752 | 11178 | 69.4 | /mnt/stockage/packages/f23/bash/po/sl.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 6968 | 11178 | 62.3 | /mnt/stockage/packages/f23/bash/po/zh_CN.po | 
+ | [hu](/f23/language/hu) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f23/bash/po/hu.po | 
+ | [id](/f23/language/id) | 6943 | 11178 | 62.1 | /mnt/stockage/packages/f23/bash/po/id.po | 
+ | [fi](/f23/language/fi) | 6634 | 11178 | 59.3 | /mnt/stockage/packages/f23/bash/po/fi.po | 
+ | [da](/f23/language/da) | 6504 | 11178 | 58.2 | /mnt/stockage/packages/f23/bash/po/da.po | 
+ | [tr](/f23/language/tr) | 5448 | 11178 | 48.7 | /mnt/stockage/packages/f23/bash/po/tr.po | 
+ | [de](/f23/language/de) | 5397 | 11178 | 48.3 | /mnt/stockage/packages/f23/bash/po/de.po | 
+ | [gl](/f23/language/gl) | 3652 | 11178 | 32.7 | /mnt/stockage/packages/f23/bash/po/gl.po | 
+ | [ga](/f23/language/ga) | 3268 | 11178 | 29.2 | /mnt/stockage/packages/f23/bash/po/ga.po | 
+ | [hr](/f23/language/hr) | 1832 | 11178 | 16.4 | /mnt/stockage/packages/f23/bash/po/hr.po | 
+ | [el](/f23/language/el) | 1652 | 11178 | 14.8 | /mnt/stockage/packages/f23/bash/po/el.po | 
+ | [lt](/f23/language/lt) | 1515 | 11178 | 13.6 | /mnt/stockage/packages/f23/bash/po/lt.po | 
+ | [et](/f23/language/et) | 660 | 11178 | 5.9 | /mnt/stockage/packages/f23/bash/po/et.po | 
+ | [ru](/f23/language/ru) | 461 | 11178 | 4.1 | /mnt/stockage/packages/f23/bash/po/ru.po | 
+ | [ro](/f23/language/ro) | 432 | 11178 | 3.9 | /mnt/stockage/packages/f23/bash/po/ro.po | 
+ | [ca](/f23/language/ca) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f23/bash/po/ca.po | 
+ | [pt_BR](/f23/language/pt_BR) | 428 | 11178 | 3.8 | /mnt/stockage/packages/f23/bash/po/pt_BR.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 315 | 11178 | 2.8 | /mnt/stockage/packages/f23/bash/po/zh_TW.po | 
+ | [af](/f23/language/af) | 45 | 11178 | 0.4 | /mnt/stockage/packages/f23/bash/po/af.po | 
 {.sortable}
 
 

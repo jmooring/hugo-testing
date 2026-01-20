@@ -39,19 +39,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [whaawmp]({{< ref "/f17/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
- | [terminator]({{< ref "/f17/package/terminator.md" >}}) | 270 | 726 | 37.2 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f17/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [cinnamon]({{< ref "/f17/package/cinnamon.md" >}}) | 52 | 1696 | 3.1 | Javanese <jv@li.org> | 
- | [pychess]({{< ref "/f17/package/pychess.md" >}}) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f17/package/gmpc.md" >}}) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
- | [widelands]({{< ref "/f17/package/widelands.md" >}}) | 38 | 2080 | 1.8 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f17/package/backintime.md" >}}) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
- | [tortoisehg]({{< ref "/f17/package/tortoisehg.md" >}}) | 39 | 10495 | 0.4 | Javanese <jv@li.org> | 
- | [calibre]({{< ref "/f17/package/calibre.md" >}}) | 105 | 39559 | 0.3 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f17/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [vidalia]({{< ref "/f17/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f17/package/viking.md" >}}) | 0 | 3389 | 0.0 | Javanese <jv@li.org> | 
+ | [whaawmp](/f17/package/whaawmp) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
+ | [terminator](/f17/package/terminator) | 270 | 726 | 37.2 | Javanese <jv@li.org> | 
+ | [gnome-do](/f17/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [cinnamon](/f17/package/cinnamon) | 52 | 1696 | 3.1 | Javanese <jv@li.org> | 
+ | [pychess](/f17/package/pychess) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
+ | [gmpc](/f17/package/gmpc) | 29 | 1444 | 2.0 | Javanese <jv@li.org> | 
+ | [widelands](/f17/package/widelands) | 38 | 2080 | 1.8 | Javanese <jv@li.org> | 
+ | [backintime](/f17/package/backintime) | 15 | 919 | 1.6 | Javanese <jv@li.org> | 
+ | [tortoisehg](/f17/package/tortoisehg) | 39 | 10495 | 0.4 | Javanese <jv@li.org> | 
+ | [calibre](/f17/package/calibre) | 105 | 39559 | 0.3 | Javanese <jv@li.org> | 
+ | [ailurus](/f17/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [vidalia](/f17/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f17/package/viking) | 0 | 3389 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

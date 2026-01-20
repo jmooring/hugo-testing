@@ -18,70 +18,70 @@ The package clutter (version 1.26.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f26/language/be.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/be.po | 
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/bg.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/de.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/el.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/en_GB.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/es.po | 
- | [eu]({{< ref "/f26/language/eu.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/eu.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/he.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/hu.po | 
- | [id]({{< ref "/f26/language/id.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/id.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/it.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/lt.po | 
- | [lv]({{< ref "/f26/language/lv.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/lv.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/oc.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/pt.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/pt_BR.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sk.po | 
- | [sl]({{< ref "/f26/language/sl.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sl.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sr.po | 
- | [sr_Latn]({{< ref "/f26/language/sr_Latn.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sr@latin.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sv.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/zh_TW.po | 
- | [an]({{< ref "/f26/language/an.md" >}}) | 3030 | 3057 | 99.1 | /mnt/stockage/packages/f26/clutter/po/an.po | 
- | [bs]({{< ref "/f26/language/bs.md" >}}) | 3030 | 3057 | 99.1 | /mnt/stockage/packages/f26/clutter/po/bs.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 3030 | 3057 | 99.1 | /mnt/stockage/packages/f26/clutter/po/uk.po | 
- | [as]({{< ref "/f26/language/as.md" >}}) | 3022 | 3057 | 98.9 | /mnt/stockage/packages/f26/clutter/po/as.po | 
- | [ca@valencia]({{< ref "/f26/language/ca@valencia.md" >}}) | 3022 | 3057 | 98.9 | /mnt/stockage/packages/f26/clutter/po/ca@valencia.po | 
- | [zh_Hant_HK]({{< ref "/f26/language/zh_Hant_HK.md" >}}) | 3022 | 3057 | 98.9 | /mnt/stockage/packages/f26/clutter/po/zh_HK.po | 
- | [hi]({{< ref "/f26/language/hi.md" >}}) | 2947 | 3057 | 96.4 | /mnt/stockage/packages/f26/clutter/po/hi.po | 
- | [ja]({{< ref "/f26/language/ja.md" >}}) | 2947 | 3057 | 96.4 | /mnt/stockage/packages/f26/clutter/po/ja.po | 
- | [te]({{< ref "/f26/language/te.md" >}}) | 2947 | 3057 | 96.4 | /mnt/stockage/packages/f26/clutter/po/te.po | 
- | [km]({{< ref "/f26/language/km.md" >}}) | 2389 | 3057 | 78.1 | /mnt/stockage/packages/f26/clutter/po/km.po | 
- | [mk]({{< ref "/f26/language/mk.md" >}}) | 2366 | 3057 | 77.4 | /mnt/stockage/packages/f26/clutter/po/mk.po | 
- | [ro]({{< ref "/f26/language/ro.md" >}}) | 2335 | 3057 | 76.4 | /mnt/stockage/packages/f26/clutter/po/ro.po | 
- | [ast]({{< ref "/f26/language/ast.md" >}}) | 2319 | 3057 | 75.9 | /mnt/stockage/packages/f26/clutter/po/ast.po | 
- | [ta]({{< ref "/f26/language/ta.md" >}}) | 2319 | 3057 | 75.9 | /mnt/stockage/packages/f26/clutter/po/ta.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 2223 | 3057 | 72.7 | /mnt/stockage/packages/f26/clutter/po/tr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1893 | 3057 | 61.9 | /mnt/stockage/packages/f26/clutter/po/nl.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 1069 | 3057 | 35.0 | /mnt/stockage/packages/f26/clutter/po/nb.po | 
- | [eo]({{< ref "/f26/language/eo.md" >}}) | 983 | 3057 | 32.2 | /mnt/stockage/packages/f26/clutter/po/eo.po | 
- | [or]({{< ref "/f26/language/or.md" >}}) | 945 | 3057 | 30.9 | /mnt/stockage/packages/f26/clutter/po/or.po | 
- | [kn]({{< ref "/f26/language/kn.md" >}}) | 928 | 3057 | 30.4 | /mnt/stockage/packages/f26/clutter/po/kn.po | 
- | [fur]({{< ref "/f26/language/fur.md" >}}) | 587 | 3057 | 19.2 | /mnt/stockage/packages/f26/clutter/po/fur.po | 
- | [ug]({{< ref "/f26/language/ug.md" >}}) | 372 | 3057 | 12.2 | /mnt/stockage/packages/f26/clutter/po/ug.po | 
- | [ml]({{< ref "/f26/language/ml.md" >}}) | 296 | 3057 | 9.7 | /mnt/stockage/packages/f26/clutter/po/ml.po | 
- | [pa]({{< ref "/f26/language/pa.md" >}}) | 142 | 3057 | 4.6 | /mnt/stockage/packages/f26/clutter/po/pa.po | 
- | [fi]({{< ref "/f26/language/fi.md" >}}) | 122 | 3057 | 4.0 | /mnt/stockage/packages/f26/clutter/po/fi.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 113 | 3057 | 3.7 | /mnt/stockage/packages/f26/clutter/po/kk.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 58 | 3057 | 1.9 | /mnt/stockage/packages/f26/clutter/po/hr.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 50 | 3057 | 1.6 | /mnt/stockage/packages/f26/clutter/po/ko.po | 
- | [ar]({{< ref "/f26/language/ar.md" >}}) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/ar.po | 
- | [azb]({{< ref "/f26/language/azb.md" >}}) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/az_IR.po | 
- | [fa]({{< ref "/f26/language/fa.md" >}}) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/fa.po | 
- | [ps]({{< ref "/f26/language/ps.md" >}}) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/ps.po | 
- | [ur]({{< ref "/f26/language/ur.md" >}}) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/ur.po | 
- | [yi]({{< ref "/f26/language/yi.md" >}}) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/yi.po | 
+ | [be](/f26/language/be) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/be.po | 
+ | [bg](/f26/language/bg) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/bg.po | 
+ | [ca](/f26/language/ca) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/ca.po | 
+ | [cs](/f26/language/cs) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/cs.po | 
+ | [da](/f26/language/da) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/da.po | 
+ | [de](/f26/language/de) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/de.po | 
+ | [el](/f26/language/el) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/el.po | 
+ | [en_GB](/f26/language/en_GB) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/en_GB.po | 
+ | [es](/f26/language/es) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/es.po | 
+ | [eu](/f26/language/eu) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/eu.po | 
+ | [fr](/f26/language/fr) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/fr.po | 
+ | [gl](/f26/language/gl) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/gl.po | 
+ | [he](/f26/language/he) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/he.po | 
+ | [hu](/f26/language/hu) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/hu.po | 
+ | [id](/f26/language/id) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/id.po | 
+ | [it](/f26/language/it) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/it.po | 
+ | [lt](/f26/language/lt) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/lt.po | 
+ | [lv](/f26/language/lv) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/lv.po | 
+ | [oc](/f26/language/oc) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/oc.po | 
+ | [pl](/f26/language/pl) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/pl.po | 
+ | [pt](/f26/language/pt) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/pt.po | 
+ | [pt_BR](/f26/language/pt_BR) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/pt_BR.po | 
+ | [ru](/f26/language/ru) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/ru.po | 
+ | [sk](/f26/language/sk) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sk.po | 
+ | [sl](/f26/language/sl) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sl.po | 
+ | [sr](/f26/language/sr) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sr.po | 
+ | [sr_Latn](/f26/language/sr_Latn) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sr@latin.po | 
+ | [sv](/f26/language/sv) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/sv.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/zh_CN.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 3057 | 3057 | 100.0 | /mnt/stockage/packages/f26/clutter/po/zh_TW.po | 
+ | [an](/f26/language/an) | 3030 | 3057 | 99.1 | /mnt/stockage/packages/f26/clutter/po/an.po | 
+ | [bs](/f26/language/bs) | 3030 | 3057 | 99.1 | /mnt/stockage/packages/f26/clutter/po/bs.po | 
+ | [uk](/f26/language/uk) | 3030 | 3057 | 99.1 | /mnt/stockage/packages/f26/clutter/po/uk.po | 
+ | [as](/f26/language/as) | 3022 | 3057 | 98.9 | /mnt/stockage/packages/f26/clutter/po/as.po | 
+ | [ca@valencia](/f26/language/ca@valencia) | 3022 | 3057 | 98.9 | /mnt/stockage/packages/f26/clutter/po/ca@valencia.po | 
+ | [zh_Hant_HK](/f26/language/zh_Hant_HK) | 3022 | 3057 | 98.9 | /mnt/stockage/packages/f26/clutter/po/zh_HK.po | 
+ | [hi](/f26/language/hi) | 2947 | 3057 | 96.4 | /mnt/stockage/packages/f26/clutter/po/hi.po | 
+ | [ja](/f26/language/ja) | 2947 | 3057 | 96.4 | /mnt/stockage/packages/f26/clutter/po/ja.po | 
+ | [te](/f26/language/te) | 2947 | 3057 | 96.4 | /mnt/stockage/packages/f26/clutter/po/te.po | 
+ | [km](/f26/language/km) | 2389 | 3057 | 78.1 | /mnt/stockage/packages/f26/clutter/po/km.po | 
+ | [mk](/f26/language/mk) | 2366 | 3057 | 77.4 | /mnt/stockage/packages/f26/clutter/po/mk.po | 
+ | [ro](/f26/language/ro) | 2335 | 3057 | 76.4 | /mnt/stockage/packages/f26/clutter/po/ro.po | 
+ | [ast](/f26/language/ast) | 2319 | 3057 | 75.9 | /mnt/stockage/packages/f26/clutter/po/ast.po | 
+ | [ta](/f26/language/ta) | 2319 | 3057 | 75.9 | /mnt/stockage/packages/f26/clutter/po/ta.po | 
+ | [tr](/f26/language/tr) | 2223 | 3057 | 72.7 | /mnt/stockage/packages/f26/clutter/po/tr.po | 
+ | [nl](/f26/language/nl) | 1893 | 3057 | 61.9 | /mnt/stockage/packages/f26/clutter/po/nl.po | 
+ | [nb_NO](/f26/language/nb_NO) | 1069 | 3057 | 35.0 | /mnt/stockage/packages/f26/clutter/po/nb.po | 
+ | [eo](/f26/language/eo) | 983 | 3057 | 32.2 | /mnt/stockage/packages/f26/clutter/po/eo.po | 
+ | [or](/f26/language/or) | 945 | 3057 | 30.9 | /mnt/stockage/packages/f26/clutter/po/or.po | 
+ | [kn](/f26/language/kn) | 928 | 3057 | 30.4 | /mnt/stockage/packages/f26/clutter/po/kn.po | 
+ | [fur](/f26/language/fur) | 587 | 3057 | 19.2 | /mnt/stockage/packages/f26/clutter/po/fur.po | 
+ | [ug](/f26/language/ug) | 372 | 3057 | 12.2 | /mnt/stockage/packages/f26/clutter/po/ug.po | 
+ | [ml](/f26/language/ml) | 296 | 3057 | 9.7 | /mnt/stockage/packages/f26/clutter/po/ml.po | 
+ | [pa](/f26/language/pa) | 142 | 3057 | 4.6 | /mnt/stockage/packages/f26/clutter/po/pa.po | 
+ | [fi](/f26/language/fi) | 122 | 3057 | 4.0 | /mnt/stockage/packages/f26/clutter/po/fi.po | 
+ | [kk](/f26/language/kk) | 113 | 3057 | 3.7 | /mnt/stockage/packages/f26/clutter/po/kk.po | 
+ | [hr](/f26/language/hr) | 58 | 3057 | 1.9 | /mnt/stockage/packages/f26/clutter/po/hr.po | 
+ | [ko](/f26/language/ko) | 50 | 3057 | 1.6 | /mnt/stockage/packages/f26/clutter/po/ko.po | 
+ | [ar](/f26/language/ar) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/ar.po | 
+ | [azb](/f26/language/azb) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/az_IR.po | 
+ | [fa](/f26/language/fa) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/fa.po | 
+ | [ps](/f26/language/ps) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/ps.po | 
+ | [ur](/f26/language/ur) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/ur.po | 
+ | [yi](/f26/language/yi) | 1 | 3057 | 0.0 | /mnt/stockage/packages/f26/clutter/po/yi.po | 
 {.sortable}
 
 

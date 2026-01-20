@@ -18,7 +18,7 @@ The package mlmmj (version 1.2.18.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/mlmmj/contrib/web/php-moderation/translations/fr_FR.po | 
+ | [fr](/f20/language/fr) | 59 | 59 | 100.0 | /mnt/stockage/packages/f20/mlmmj/contrib/web/php-moderation/translations/fr_FR.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package pulsecaster (version 0.1.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/de_DE.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/el.po | 
- | [es_MX]({{< ref "/f16/language/es_MX.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/es_MX.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/gl.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/hu.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/pl.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/uk.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 11 | 15 | 73.3 | /mnt/stockage/packages/f16/pulsecaster/po/ru.po | 
+ | [de](/f16/language/de) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/de_DE.po | 
+ | [el](/f16/language/el) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/el.po | 
+ | [es_MX](/f16/language/es_MX) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/es_MX.po | 
+ | [gl](/f16/language/gl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/gl.po | 
+ | [hu](/f16/language/hu) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/hu.po | 
+ | [pl](/f16/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/pl.po | 
+ | [uk](/f16/language/uk) | 15 | 15 | 100.0 | /mnt/stockage/packages/f16/pulsecaster/po/uk.po | 
+ | [ru](/f16/language/ru) | 11 | 15 | 73.3 | /mnt/stockage/packages/f16/pulsecaster/po/ru.po | 
 {.sortable}
 
 

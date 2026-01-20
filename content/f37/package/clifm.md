@@ -18,9 +18,9 @@ The package clifm (version 1.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f37/language/error.md" >}}) | 0 | 16446 | 0.0 | /mnt/stockage/packages/f37/clifm/translations/spanish/clifm.po/mnt/stockage/packages/f37/clifm/translations/portuguese/clifm.po/mnt/stockage/packages/f37/clifm/translations/japanese/clifm.po/mnt/stockage/packages/f37/clifm/translations/italian/clifm.po/mnt/stockage/packages/f37/clifm/translations/german/clifm.po/mnt/stockage/packages/f37/clifm/translations/french/clifm.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f37/clifm/translations/norwegian/clifm.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f37/clifm/translations/chinese/clifm.po | 
+ | [error](/f37/language/error) | 0 | 16446 | 0.0 | /mnt/stockage/packages/f37/clifm/translations/spanish/clifm.po/mnt/stockage/packages/f37/clifm/translations/portuguese/clifm.po/mnt/stockage/packages/f37/clifm/translations/japanese/clifm.po/mnt/stockage/packages/f37/clifm/translations/italian/clifm.po/mnt/stockage/packages/f37/clifm/translations/german/clifm.po/mnt/stockage/packages/f37/clifm/translations/french/clifm.po | 
+ | [nb_NO](/f37/language/nb_NO) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f37/clifm/translations/norwegian/clifm.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 0 | 2741 | 0.0 | /mnt/stockage/packages/f37/clifm/translations/chinese/clifm.po | 
 {.sortable}
 
 

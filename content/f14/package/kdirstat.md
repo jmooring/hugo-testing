@@ -18,11 +18,11 @@ The package kdirstat (version 2.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/de.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/fr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 702 | 702 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 926 | 926 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 927 | 927 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/ja.po | 
+ | [de](/f14/language/de) | 923 | 923 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/de.po | 
+ | [fr](/f14/language/fr) | 702 | 702 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/fr.po | 
+ | [hu](/f14/language/hu) | 702 | 702 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/hu.po | 
+ | [it](/f14/language/it) | 926 | 926 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/it.po | 
+ | [ja](/f14/language/ja) | 927 | 927 | 100.0 | /mnt/stockage/packages/f14/kdirstat/po/ja.po | 
 {.sortable}
 
 

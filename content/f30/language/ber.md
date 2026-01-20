@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [blueberry]({{< ref "/f30/package/blueberry.md" >}}) | 13 | 148 | 8.8 | Berber (Other) <ber@li.org> | 
- | [shutter]({{< ref "/f30/package/shutter.md" >}}) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
- | [cinnamon-translations]({{< ref "/f30/package/cinnamon-translations.md" >}}) | 4 | 775 | 0.5 | Berber (Other) <ber@li.org> | 
- | [stellarium]({{< ref "/f30/package/stellarium.md" >}}) | 0 | 19772 | 0.0 | Berber (Other) <ber@li.org> | 
+ | [blueberry](/f30/package/blueberry) | 13 | 148 | 8.8 | Berber (Other) <ber@li.org> | 
+ | [shutter](/f30/package/shutter) | 62 | 2448 | 2.5 | Berber (Other) <ber@li.org> | 
+ | [cinnamon-translations](/f30/package/cinnamon-translations) | 4 | 775 | 0.5 | Berber (Other) <ber@li.org> | 
+ | [stellarium](/f30/package/stellarium) | 0 | 19772 | 0.0 | Berber (Other) <ber@li.org> | 
 {.sortable}
 
 

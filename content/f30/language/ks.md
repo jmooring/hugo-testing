@@ -39,87 +39,87 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [eog]({{< ref "/f30/package/eog.md" >}}) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [evince]({{< ref "/f30/package/evince.md" >}}) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [yelp]({{< ref "/f30/package/yelp.md" >}}) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
- | [gnucash]({{< ref "/f30/package/gnucash.md" >}}) | 25381 | 35986 | 70.5 | NONE | 
- | [libreoffice]({{< ref "/f30/package/libreoffice.md" >}}) | 38692 | 99359 | 38.9 | LANGUAGE <LL@li.org> | 
- | [eom]({{< ref "/f30/package/eom.md" >}}) | 686 | 1780 | 38.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [xreader]({{< ref "/f30/package/xreader.md" >}}) | 474 | 1669 | 28.4 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [atril]({{< ref "/f30/package/atril.md" >}}) | 510 | 3842 | 13.3 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-utils]({{< ref "/f30/package/mate-utils.md" >}}) | 54 | 3783 | 1.4 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-media]({{< ref "/f30/package/mate-media.md" >}}) | 3 | 238 | 1.3 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-sensors-applet]({{< ref "/f30/package/mate-sensors-applet.md" >}}) | 4 | 321 | 1.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-session-manager]({{< ref "/f30/package/mate-session-manager.md" >}}) | 8 | 705 | 1.1 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-menus]({{< ref "/f30/package/mate-menus.md" >}}) | 1 | 97 | 1.0 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-polkit]({{< ref "/f30/package/mate-polkit.md" >}}) | 1 | 122 | 0.8 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [pluma]({{< ref "/f30/package/pluma.md" >}}) | 43 | 5292 | 0.8 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-control-center]({{< ref "/f30/package/mate-control-center.md" >}}) | 20 | 2704 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [engrampa]({{< ref "/f30/package/engrampa.md" >}}) | 14 | 2015 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-system-monitor]({{< ref "/f30/package/mate-system-monitor.md" >}}) | 10 | 1468 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-terminal]({{< ref "/f30/package/mate-terminal.md" >}}) | 30 | 4625 | 0.6 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-calc]({{< ref "/f30/package/mate-calc.md" >}}) | 8 | 1380 | 0.6 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [caja]({{< ref "/f30/package/caja.md" >}}) | 43 | 9523 | 0.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-power-manager]({{< ref "/f30/package/mate-power-manager.md" >}}) | 8 | 2724 | 0.3 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-panel]({{< ref "/f30/package/mate-panel.md" >}}) | 12 | 5316 | 0.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [mate-applets]({{< ref "/f30/package/mate-applets.md" >}}) | 2 | 1515 | 0.1 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
- | [certmonger]({{< ref "/f30/package/certmonger.md" >}}) | 0 | 2831 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/) | 
- | [coin]({{< ref "/f30/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f30/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [elementary-capnet-assist]({{< ref "/f30/package/elementary-capnet-assist.md" >}}) | 0 | 82 | 0.0 | none | 
- | [elementary-code]({{< ref "/f30/package/elementary-code.md" >}}) | 0 | 1095 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f30/package/elementary-files.md" >}}) | 0 | 2652 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-greeter]({{< ref "/f30/package/elementary-greeter.md" >}}) | 0 | 76 | 0.0 |  | 
- | [elementary-music]({{< ref "/f30/package/elementary-music.md" >}}) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-photos]({{< ref "/f30/package/elementary-photos.md" >}}) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot-tool]({{< ref "/f30/package/elementary-screenshot-tool.md" >}}) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-shortcut-overlay]({{< ref "/f30/package/elementary-shortcut-overlay.md" >}}) | 0 | 95 | 0.0 | none | 
- | [elementary-sideload]({{< ref "/f30/package/elementary-sideload.md" >}}) | 0 | 224 | 0.0 | none | 
- | [elementary-terminal]({{< ref "/f30/package/elementary-terminal.md" >}}) | 0 | 442 | 0.0 |  | 
- | [elementary-videos]({{< ref "/f30/package/elementary-videos.md" >}}) | 0 | 322 | 0.0 |  | 
- | [gala]({{< ref "/f30/package/gala.md" >}}) | 0 | 140 | 0.0 | none | 
- | [granite]({{< ref "/f30/package/granite.md" >}}) | 0 | 250 | 0.0 |  | 
- | [harvey]({{< ref "/f30/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [initial-setup]({{< ref "/f30/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/) | 
- | [initscripts]({{< ref "/f30/package/initscripts.md" >}}) | 0 | 1001 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [libmatekbd]({{< ref "/f30/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [mate-themes]({{< ref "/f30/package/mate-themes.md" >}}) | 0 | 70 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
- | [nutty]({{< ref "/f30/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f30/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pantheon-agent-geoclue2]({{< ref "/f30/package/pantheon-agent-geoclue2.md" >}}) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f30/package/pantheon-agent-polkit.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pidgin]({{< ref "/f30/package/pidgin.md" >}}) | 0 | 15756 | 0.0 | Kashmiri (http://www.transifex.com/pidgin/pidgin/language/ks/) | 
- | [policycoreutils]({{< ref "/f30/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [python-meh]({{< ref "/f30/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/) | 
- | [setroubleshoot]({{< ref "/f30/package/setroubleshoot.md" >}}) | 0 | 660 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [setroubleshoot-plugins]({{< ref "/f30/package/setroubleshoot-plugins.md" >}}) | 0 | 6208 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
- | [switchboard]({{< ref "/f30/package/switchboard.md" >}}) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f30/package/switchboard-plug-a11y.md" >}}) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f30/package/switchboard-plug-about.md" >}}) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-applications]({{< ref "/f30/package/switchboard-plug-applications.md" >}}) | 0 | 95 | 0.0 | none | 
- | [switchboard-plug-bluetooth]({{< ref "/f30/package/switchboard-plug-bluetooth.md" >}}) | 0 | 147 | 0.0 | none | 
- | [switchboard-plug-display]({{< ref "/f30/package/switchboard-plug-display.md" >}}) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-keyboard]({{< ref "/f30/package/switchboard-plug-keyboard.md" >}}) | 0 | 440 | 0.0 | none | 
- | [switchboard-plug-mouse-touchpad]({{< ref "/f30/package/switchboard-plug-mouse-touchpad.md" >}}) | 0 | 232 | 0.0 | none | 
- | [switchboard-plug-networking]({{< ref "/f30/package/switchboard-plug-networking.md" >}}) | 0 | 456 | 0.0 |  | 
- | [switchboard-plug-notifications]({{< ref "/f30/package/switchboard-plug-notifications.md" >}}) | 0 | 141 | 0.0 | none | 
- | [switchboard-plug-onlineaccounts]({{< ref "/f30/package/switchboard-plug-onlineaccounts.md" >}}) | 0 | 160 | 0.0 | none | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f30/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 181 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f30/package/switchboard-plug-printers.md" >}}) | 0 | 359 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-sharing]({{< ref "/f30/package/switchboard-plug-sharing.md" >}}) | 0 | 140 | 0.0 | none | 
- | [switchboard-plug-sound]({{< ref "/f30/package/switchboard-plug-sound.md" >}}) | 0 | 142 | 0.0 |  | 
- | [vocal]({{< ref "/f30/package/vocal.md" >}}) | 0 | 377 | 0.0 | Kashmiri <ks@li.org> | 
- | [wingpanel]({{< ref "/f30/package/wingpanel.md" >}}) | 0 | 19 | 0.0 | none | 
- | [wingpanel-applications-menu]({{< ref "/f30/package/wingpanel-applications-menu.md" >}}) | 0 | 261 | 0.0 |  | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f30/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 27 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f30/package/wingpanel-indicator-datetime.md" >}}) | 0 | 101 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f30/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 24 | 0.0 |  | 
- | [wingpanel-indicator-network]({{< ref "/f30/package/wingpanel-indicator-network.md" >}}) | 0 | 97 | 0.0 | none | 
- | [wingpanel-indicator-nightlight]({{< ref "/f30/package/wingpanel-indicator-nightlight.md" >}}) | 0 | 30 | 0.0 |  | 
- | [wingpanel-indicator-notifications]({{< ref "/f30/package/wingpanel-indicator-notifications.md" >}}) | 0 | 38 | 0.0 | none | 
- | [wingpanel-indicator-power]({{< ref "/f30/package/wingpanel-indicator-power.md" >}}) | 0 | 112 | 0.0 | none | 
- | [wingpanel-indicator-session]({{< ref "/f30/package/wingpanel-indicator-session.md" >}}) | 0 | 81 | 0.0 | none | 
- | [wingpanel-indicator-sound]({{< ref "/f30/package/wingpanel-indicator-sound.md" >}}) | 0 | 44 | 0.0 | none | 
+ | [eog](/f30/package/eog) | 953 | 1193 | 79.9 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [evince](/f30/package/evince) | 789 | 989 | 79.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [yelp](/f30/package/yelp) | 753 | 1035 | 72.8 | Kashmiri <ks-gnome-trans-commits@lists.code.indlinux.net> | 
+ | [gnucash](/f30/package/gnucash) | 25381 | 35986 | 70.5 | NONE | 
+ | [libreoffice](/f30/package/libreoffice) | 38692 | 99359 | 38.9 | LANGUAGE <LL@li.org> | 
+ | [eom](/f30/package/eom) | 686 | 1780 | 38.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [xreader](/f30/package/xreader) | 474 | 1669 | 28.4 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [atril](/f30/package/atril) | 510 | 3842 | 13.3 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-utils](/f30/package/mate-utils) | 54 | 3783 | 1.4 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-media](/f30/package/mate-media) | 3 | 238 | 1.3 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-sensors-applet](/f30/package/mate-sensors-applet) | 4 | 321 | 1.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-session-manager](/f30/package/mate-session-manager) | 8 | 705 | 1.1 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-menus](/f30/package/mate-menus) | 1 | 97 | 1.0 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-polkit](/f30/package/mate-polkit) | 1 | 122 | 0.8 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [pluma](/f30/package/pluma) | 43 | 5292 | 0.8 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-control-center](/f30/package/mate-control-center) | 20 | 2704 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [engrampa](/f30/package/engrampa) | 14 | 2015 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-system-monitor](/f30/package/mate-system-monitor) | 10 | 1468 | 0.7 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-terminal](/f30/package/mate-terminal) | 30 | 4625 | 0.6 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-calc](/f30/package/mate-calc) | 8 | 1380 | 0.6 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [caja](/f30/package/caja) | 43 | 9523 | 0.5 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-power-manager](/f30/package/mate-power-manager) | 8 | 2724 | 0.3 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-panel](/f30/package/mate-panel) | 12 | 5316 | 0.2 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [mate-applets](/f30/package/mate-applets) | 2 | 1515 | 0.1 | Kashmiri (https://www.transifex.com/mate/teams/13566/ks/) | 
+ | [certmonger](/f30/package/certmonger) | 0 | 2831 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/certmonger/language/ks/) | 
+ | [coin](/f30/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f30/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [elementary-capnet-assist](/f30/package/elementary-capnet-assist) | 0 | 82 | 0.0 | none | 
+ | [elementary-code](/f30/package/elementary-code) | 0 | 1095 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f30/package/elementary-files) | 0 | 2652 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-greeter](/f30/package/elementary-greeter) | 0 | 76 | 0.0 |  | 
+ | [elementary-music](/f30/package/elementary-music) | 0 | 1308 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-photos](/f30/package/elementary-photos) | 0 | 3910 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot-tool](/f30/package/elementary-screenshot-tool) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-shortcut-overlay](/f30/package/elementary-shortcut-overlay) | 0 | 95 | 0.0 | none | 
+ | [elementary-sideload](/f30/package/elementary-sideload) | 0 | 224 | 0.0 | none | 
+ | [elementary-terminal](/f30/package/elementary-terminal) | 0 | 442 | 0.0 |  | 
+ | [elementary-videos](/f30/package/elementary-videos) | 0 | 322 | 0.0 |  | 
+ | [gala](/f30/package/gala) | 0 | 140 | 0.0 | none | 
+ | [granite](/f30/package/granite) | 0 | 250 | 0.0 |  | 
+ | [harvey](/f30/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [initial-setup](/f30/package/initial-setup) | 0 | 33 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/initial-setup/language/ks/) | 
+ | [initscripts](/f30/package/initscripts) | 0 | 1001 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [libmatekbd](/f30/package/libmatekbd) | 0 | 251 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [mate-themes](/f30/package/mate-themes) | 0 | 70 | 0.0 | Kashmiri (http://www.transifex.com/mate/MATE/language/ks/) | 
+ | [nutty](/f30/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f30/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pantheon-agent-geoclue2](/f30/package/pantheon-agent-geoclue2) | 0 | 101 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f30/package/pantheon-agent-polkit) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pidgin](/f30/package/pidgin) | 0 | 15756 | 0.0 | Kashmiri (http://www.transifex.com/pidgin/pidgin/language/ks/) | 
+ | [policycoreutils](/f30/package/policycoreutils) | 0 | 7678 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [python-meh](/f30/package/python-meh) | 0 | 109 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/python-meh/language/ks/) | 
+ | [setroubleshoot](/f30/package/setroubleshoot) | 0 | 660 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [setroubleshoot-plugins](/f30/package/setroubleshoot-plugins) | 0 | 6208 | 0.0 | Kashmiri (http://www.transifex.com/projects/p/fedora/language/ks/) | 
+ | [switchboard](/f30/package/switchboard) | 0 | 124 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f30/package/switchboard-plug-a11y) | 0 | 125 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f30/package/switchboard-plug-about) | 0 | 96 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-applications](/f30/package/switchboard-plug-applications) | 0 | 95 | 0.0 | none | 
+ | [switchboard-plug-bluetooth](/f30/package/switchboard-plug-bluetooth) | 0 | 147 | 0.0 | none | 
+ | [switchboard-plug-display](/f30/package/switchboard-plug-display) | 0 | 139 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-keyboard](/f30/package/switchboard-plug-keyboard) | 0 | 440 | 0.0 | none | 
+ | [switchboard-plug-mouse-touchpad](/f30/package/switchboard-plug-mouse-touchpad) | 0 | 232 | 0.0 | none | 
+ | [switchboard-plug-networking](/f30/package/switchboard-plug-networking) | 0 | 456 | 0.0 |  | 
+ | [switchboard-plug-notifications](/f30/package/switchboard-plug-notifications) | 0 | 141 | 0.0 | none | 
+ | [switchboard-plug-onlineaccounts](/f30/package/switchboard-plug-onlineaccounts) | 0 | 160 | 0.0 | none | 
+ | [switchboard-plug-pantheon-shell](/f30/package/switchboard-plug-pantheon-shell) | 0 | 181 | 0.0 |  | 
+ | [switchboard-plug-printers](/f30/package/switchboard-plug-printers) | 0 | 359 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-sharing](/f30/package/switchboard-plug-sharing) | 0 | 140 | 0.0 | none | 
+ | [switchboard-plug-sound](/f30/package/switchboard-plug-sound) | 0 | 142 | 0.0 |  | 
+ | [vocal](/f30/package/vocal) | 0 | 377 | 0.0 | Kashmiri <ks@li.org> | 
+ | [wingpanel](/f30/package/wingpanel) | 0 | 19 | 0.0 | none | 
+ | [wingpanel-applications-menu](/f30/package/wingpanel-applications-menu) | 0 | 261 | 0.0 |  | 
+ | [wingpanel-indicator-bluetooth](/f30/package/wingpanel-indicator-bluetooth) | 0 | 27 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f30/package/wingpanel-indicator-datetime) | 0 | 101 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f30/package/wingpanel-indicator-keyboard) | 0 | 24 | 0.0 |  | 
+ | [wingpanel-indicator-network](/f30/package/wingpanel-indicator-network) | 0 | 97 | 0.0 | none | 
+ | [wingpanel-indicator-nightlight](/f30/package/wingpanel-indicator-nightlight) | 0 | 30 | 0.0 |  | 
+ | [wingpanel-indicator-notifications](/f30/package/wingpanel-indicator-notifications) | 0 | 38 | 0.0 | none | 
+ | [wingpanel-indicator-power](/f30/package/wingpanel-indicator-power) | 0 | 112 | 0.0 | none | 
+ | [wingpanel-indicator-session](/f30/package/wingpanel-indicator-session) | 0 | 81 | 0.0 | none | 
+ | [wingpanel-indicator-sound](/f30/package/wingpanel-indicator-sound) | 0 | 44 | 0.0 | none | 
 {.sortable}
 
 

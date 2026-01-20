@@ -41,9 +41,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f22/package/openerp.md" >}}) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
- | [openerp7]({{< ref "/f22/package/openerp7.md" >}}) | 38 | 1127 | 3.4 | Lingala <ln@li.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [openerp](/f22/package/openerp) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
+ | [openerp7](/f22/package/openerp7) | 38 | 1127 | 3.4 | Lingala <ln@li.org> | 
+ | [vidalia](/f22/package/vidalia) | 0 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

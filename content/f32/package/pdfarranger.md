@@ -18,27 +18,27 @@ The package pdfarranger (version 1.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f32/language/de.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/fr.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/hr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/ja.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/pt_BR.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 325 | 325 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/tr.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 323 | 325 | 99.4 | /mnt/stockage/packages/f32/pdfarranger/po/cs.po | 
- | [pt_PT]({{< ref "/f32/language/pt_PT.md" >}}) | 317 | 323 | 98.1 | /mnt/stockage/packages/f32/pdfarranger/po/pt_PT.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 318 | 325 | 97.8 | /mnt/stockage/packages/f32/pdfarranger/po/nl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 185 | 325 | 56.9 | /mnt/stockage/packages/f32/pdfarranger/po/ru.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 105 | 325 | 32.3 | /mnt/stockage/packages/f32/pdfarranger/po/pl_PL.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 51 | 325 | 15.7 | /mnt/stockage/packages/f32/pdfarranger/po/id.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 49 | 325 | 15.1 | /mnt/stockage/packages/f32/pdfarranger/po/ca@valencia.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 45 | 323 | 13.9 | /mnt/stockage/packages/f32/pdfarranger/po/el.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 45 | 323 | 13.9 | /mnt/stockage/packages/f32/pdfarranger/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 44 | 323 | 13.6 | /mnt/stockage/packages/f32/pdfarranger/po/zh_TW.po | 
+ | [de](/f32/language/de) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/de.po | 
+ | [es](/f32/language/es) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/es.po | 
+ | [fi](/f32/language/fi) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/fi.po | 
+ | [fr](/f32/language/fr) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/fr.po | 
+ | [hr](/f32/language/hr) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/hr.po | 
+ | [hu](/f32/language/hu) | 325 | 325 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/hu.po | 
+ | [it](/f32/language/it) | 325 | 325 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/it.po | 
+ | [ja](/f32/language/ja) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/ja.po | 
+ | [pt_BR](/f32/language/pt_BR) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/pt_BR.po | 
+ | [sv](/f32/language/sv) | 323 | 323 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/sv.po | 
+ | [tr](/f32/language/tr) | 325 | 325 | 100.0 | /mnt/stockage/packages/f32/pdfarranger/po/tr.po | 
+ | [cs](/f32/language/cs) | 323 | 325 | 99.4 | /mnt/stockage/packages/f32/pdfarranger/po/cs.po | 
+ | [pt_PT](/f32/language/pt_PT) | 317 | 323 | 98.1 | /mnt/stockage/packages/f32/pdfarranger/po/pt_PT.po | 
+ | [nl](/f32/language/nl) | 318 | 325 | 97.8 | /mnt/stockage/packages/f32/pdfarranger/po/nl.po | 
+ | [ru](/f32/language/ru) | 185 | 325 | 56.9 | /mnt/stockage/packages/f32/pdfarranger/po/ru.po | 
+ | [pl](/f32/language/pl) | 105 | 325 | 32.3 | /mnt/stockage/packages/f32/pdfarranger/po/pl_PL.po | 
+ | [id](/f32/language/id) | 51 | 325 | 15.7 | /mnt/stockage/packages/f32/pdfarranger/po/id.po | 
+ | [ca](/f32/language/ca) | 49 | 325 | 15.1 | /mnt/stockage/packages/f32/pdfarranger/po/ca@valencia.po | 
+ | [el](/f32/language/el) | 45 | 323 | 13.9 | /mnt/stockage/packages/f32/pdfarranger/po/el.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 45 | 323 | 13.9 | /mnt/stockage/packages/f32/pdfarranger/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 44 | 323 | 13.6 | /mnt/stockage/packages/f32/pdfarranger/po/zh_TW.po | 
 {.sortable}
 
 

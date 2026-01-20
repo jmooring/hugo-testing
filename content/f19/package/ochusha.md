@@ -18,7 +18,7 @@ The package ochusha (version 0.6.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 2908 | 2922 | 99.5 | /mnt/stockage/packages/f19/ochusha/po/ja.po/mnt/stockage/packages/f19/ochusha/po-properties/ja.po | 
+ | [ja](/f19/language/ja) | 2908 | 2922 | 99.5 | /mnt/stockage/packages/f19/ochusha/po/ja.po/mnt/stockage/packages/f19/ochusha/po-properties/ja.po | 
 {.sortable}
 
 

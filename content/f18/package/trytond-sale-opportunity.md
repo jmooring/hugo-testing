@@ -18,16 +18,16 @@ The package trytond-sale-opportunity (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f18/language/de.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/es_ES.po | 
- | [es_AR]({{< ref "/f18/language/es_AR.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/es_AR.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/fr_FR.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 334 | 347 | 96.3 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/bg_BG.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 0 | 344 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/ca_ES.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/cs_CZ.po | 
- | [es_CO]({{< ref "/f18/language/es_CO.md" >}}) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/es_CO.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/nl_NL.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/ru_RU.po | 
+ | [de](/f18/language/de) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/de_DE.po | 
+ | [es](/f18/language/es) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/es_ES.po | 
+ | [es_AR](/f18/language/es_AR) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/es_AR.po | 
+ | [fr](/f18/language/fr) | 347 | 347 | 100.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/fr_FR.po | 
+ | [bg](/f18/language/bg) | 334 | 347 | 96.3 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/bg_BG.po | 
+ | [ca](/f18/language/ca) | 0 | 344 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/ca_ES.po | 
+ | [cs](/f18/language/cs) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/cs_CZ.po | 
+ | [es_CO](/f18/language/es_CO) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/es_CO.po | 
+ | [nl](/f18/language/nl) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/nl_NL.po | 
+ | [ru](/f18/language/ru) | 0 | 347 | 0.0 | /mnt/stockage/packages/f18/trytond-sale-opportunity/locale/ru_RU.po | 
 {.sortable}
 
 

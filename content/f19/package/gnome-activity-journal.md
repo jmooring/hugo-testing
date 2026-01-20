@@ -18,46 +18,46 @@ The package gnome-activity-journal (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/bg.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 396 | 396 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ca.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/de.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/en_GB.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/eu.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/fr.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/it.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/pt_BR.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sl.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sv.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 303 | 316 | 95.9 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ru.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 278 | 316 | 88.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/hu.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ast.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/es.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/lt.po | 
- | [sq]({{< ref "/f19/language/sq.md" >}}) | 264 | 316 | 83.5 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sq.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 247 | 316 | 78.2 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ro.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 240 | 316 | 75.9 | /mnt/stockage/packages/f19/gnome-activity-journal/po/uk.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 235 | 316 | 74.4 | /mnt/stockage/packages/f19/gnome-activity-journal/po/zh_CN.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 223 | 316 | 70.6 | /mnt/stockage/packages/f19/gnome-activity-journal/po/tr.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 206 | 316 | 65.2 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ml.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 180 | 316 | 57.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ko.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 178 | 316 | 56.3 | /mnt/stockage/packages/f19/gnome-activity-journal/po/cs.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 148 | 316 | 46.8 | /mnt/stockage/packages/f19/gnome-activity-journal/po/nl.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 140 | 316 | 44.3 | /mnt/stockage/packages/f19/gnome-activity-journal/po/vi.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 93 | 316 | 29.4 | /mnt/stockage/packages/f19/gnome-activity-journal/po/eo.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 67 | 316 | 21.2 | /mnt/stockage/packages/f19/gnome-activity-journal/po/et.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 38 | 316 | 12.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/fi.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 34 | 316 | 10.8 | /mnt/stockage/packages/f19/gnome-activity-journal/po/id.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 31 | 316 | 9.8 | /mnt/stockage/packages/f19/gnome-activity-journal/po/zh_TW.po | 
- | [hr]({{< ref "/f19/language/hr.md" >}}) | 5 | 316 | 1.6 | /mnt/stockage/packages/f19/gnome-activity-journal/po/hr.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/da.po | 
- | [en_AU]({{< ref "/f19/language/en_AU.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/en_AU.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/hi.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ja.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/pt.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sr.po | 
+ | [bg](/f19/language/bg) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/bg.po | 
+ | [ca](/f19/language/ca) | 396 | 396 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ca.po | 
+ | [de](/f19/language/de) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/de.po | 
+ | [en_GB](/f19/language/en_GB) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/en_GB.po | 
+ | [eu](/f19/language/eu) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/eu.po | 
+ | [fr](/f19/language/fr) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/fr.po | 
+ | [it](/f19/language/it) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/it.po | 
+ | [pl](/f19/language/pl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/pt_BR.po | 
+ | [sl](/f19/language/sl) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sl.po | 
+ | [sv](/f19/language/sv) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sv.po | 
+ | [ru](/f19/language/ru) | 303 | 316 | 95.9 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ru.po | 
+ | [hu](/f19/language/hu) | 278 | 316 | 88.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/hu.po | 
+ | [ast](/f19/language/ast) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ast.po | 
+ | [el](/f19/language/el) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/el.po | 
+ | [es](/f19/language/es) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/es.po | 
+ | [lt](/f19/language/lt) | 272 | 316 | 86.1 | /mnt/stockage/packages/f19/gnome-activity-journal/po/lt.po | 
+ | [sq](/f19/language/sq) | 264 | 316 | 83.5 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sq.po | 
+ | [ro](/f19/language/ro) | 247 | 316 | 78.2 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ro.po | 
+ | [uk](/f19/language/uk) | 240 | 316 | 75.9 | /mnt/stockage/packages/f19/gnome-activity-journal/po/uk.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 235 | 316 | 74.4 | /mnt/stockage/packages/f19/gnome-activity-journal/po/zh_CN.po | 
+ | [tr](/f19/language/tr) | 223 | 316 | 70.6 | /mnt/stockage/packages/f19/gnome-activity-journal/po/tr.po | 
+ | [ml](/f19/language/ml) | 206 | 316 | 65.2 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ml.po | 
+ | [ko](/f19/language/ko) | 180 | 316 | 57.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ko.po | 
+ | [cs](/f19/language/cs) | 178 | 316 | 56.3 | /mnt/stockage/packages/f19/gnome-activity-journal/po/cs.po | 
+ | [nl](/f19/language/nl) | 148 | 316 | 46.8 | /mnt/stockage/packages/f19/gnome-activity-journal/po/nl.po | 
+ | [vi](/f19/language/vi) | 140 | 316 | 44.3 | /mnt/stockage/packages/f19/gnome-activity-journal/po/vi.po | 
+ | [eo](/f19/language/eo) | 93 | 316 | 29.4 | /mnt/stockage/packages/f19/gnome-activity-journal/po/eo.po | 
+ | [et](/f19/language/et) | 67 | 316 | 21.2 | /mnt/stockage/packages/f19/gnome-activity-journal/po/et.po | 
+ | [fi](/f19/language/fi) | 38 | 316 | 12.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/fi.po | 
+ | [id](/f19/language/id) | 34 | 316 | 10.8 | /mnt/stockage/packages/f19/gnome-activity-journal/po/id.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 31 | 316 | 9.8 | /mnt/stockage/packages/f19/gnome-activity-journal/po/zh_TW.po | 
+ | [hr](/f19/language/hr) | 5 | 316 | 1.6 | /mnt/stockage/packages/f19/gnome-activity-journal/po/hr.po | 
+ | [da](/f19/language/da) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/da.po | 
+ | [en_AU](/f19/language/en_AU) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/en_AU.po | 
+ | [he](/f19/language/he) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/he.po | 
+ | [hi](/f19/language/hi) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/hi.po | 
+ | [ja](/f19/language/ja) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/ja.po | 
+ | [pt](/f19/language/pt) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/pt.po | 
+ | [sr](/f19/language/sr) | 0 | 316 | 0.0 | /mnt/stockage/packages/f19/gnome-activity-journal/po/sr.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package grig (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 1098 | 2137 | 51.4 | /mnt/stockage/packages/f22/grig/po/fr.po | 
+ | [fr](/f22/language/fr) | 1098 | 2137 | 51.4 | /mnt/stockage/packages/f22/grig/po/fr.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package mingw-spice-gtk (version 0.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 339 | 339 | 100.0 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/ka.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 314 | 339 | 92.6 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/it.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 311 | 339 | 91.7 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/cs.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 303 | 339 | 89.4 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/ru.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 240 | 339 | 70.8 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/de.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2 | 339 | 0.6 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/fr.po | 
+ | [ka](/f38/language/ka) | 339 | 339 | 100.0 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/ka.po | 
+ | [it](/f38/language/it) | 314 | 339 | 92.6 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/it.po | 
+ | [cs](/f38/language/cs) | 311 | 339 | 91.7 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/cs.po | 
+ | [ru](/f38/language/ru) | 303 | 339 | 89.4 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/ru.po | 
+ | [de](/f38/language/de) | 240 | 339 | 70.8 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/de.po | 
+ | [fr](/f38/language/fr) | 2 | 339 | 0.6 | /mnt/stockage/packages/f38/mingw-spice-gtk/po/fr.po | 
 {.sortable}
 
 

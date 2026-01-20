@@ -18,16 +18,16 @@ The package mingw-goocanvas2 (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/cs.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/es.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/id.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/pl.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/pt_BR.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/sv.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 1234 | 1730 | 71.3 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/ja.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 0 | 1730 | 0.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/en_GB.po | 
+ | [cs](/f40/language/cs) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/cs.po | 
+ | [de](/f40/language/de) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/de.po | 
+ | [es](/f40/language/es) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/es.po | 
+ | [id](/f40/language/id) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/id.po | 
+ | [pl](/f40/language/pl) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/pl.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/pt_BR.po | 
+ | [sr](/f40/language/sr) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/sr.po | 
+ | [sv](/f40/language/sv) | 1864 | 1864 | 100.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/sv.po | 
+ | [ja](/f40/language/ja) | 1234 | 1730 | 71.3 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/ja.po | 
+ | [en_GB](/f40/language/en_GB) | 0 | 1730 | 0.0 | /mnt/stockage/packages/f40/mingw-goocanvas2/po/en_GB.po | 
 {.sortable}
 
 

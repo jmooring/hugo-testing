@@ -18,48 +18,48 @@ The package synfig (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f43/language/it.md" >}}) | 4854 | 4879 | 99.5 | /mnt/stockage/packages/f43/synfig/po/it.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 4425 | 4879 | 90.7 | /mnt/stockage/packages/f43/synfig/po/pt_BR.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 4353 | 4879 | 89.2 | /mnt/stockage/packages/f43/synfig/po/ko_KR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 4322 | 4879 | 88.6 | /mnt/stockage/packages/f43/synfig/po/ru.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 4320 | 4879 | 88.5 | /mnt/stockage/packages/f43/synfig/po/ar.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 4242 | 4879 | 86.9 | /mnt/stockage/packages/f43/synfig/po/fr.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 4136 | 4879 | 84.8 | /mnt/stockage/packages/f43/synfig/po/pt.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 4132 | 4879 | 84.7 | /mnt/stockage/packages/f43/synfig/po/es.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 4086 | 4879 | 83.7 | /mnt/stockage/packages/f43/synfig/po/de.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 4071 | 4879 | 83.4 | /mnt/stockage/packages/f43/synfig/po/pl_PL.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 4059 | 4879 | 83.2 | /mnt/stockage/packages/f43/synfig/po/ca@valencia.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 4059 | 4879 | 83.2 | /mnt/stockage/packages/f43/synfig/po/sr_RS.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 3438 | 4879 | 70.5 | /mnt/stockage/packages/f43/synfig/po/zh_CN.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 3394 | 4879 | 69.6 | /mnt/stockage/packages/f43/synfig/po/nl.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 2952 | 4879 | 60.5 | /mnt/stockage/packages/f43/synfig/po/en_GB.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 2952 | 4879 | 60.5 | /mnt/stockage/packages/f43/synfig/po/hu.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 2594 | 4879 | 53.2 | /mnt/stockage/packages/f43/synfig/po/sv_SE.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 1587 | 4879 | 32.5 | /mnt/stockage/packages/f43/synfig/po/lt.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 1338 | 4879 | 27.4 | /mnt/stockage/packages/f43/synfig/po/gl.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 1296 | 4879 | 26.6 | /mnt/stockage/packages/f43/synfig/po/sl.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 894 | 4879 | 18.3 | /mnt/stockage/packages/f43/synfig/po/fa_IR.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 777 | 4879 | 15.9 | /mnt/stockage/packages/f43/synfig/po/zh_TW.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 548 | 4879 | 11.2 | /mnt/stockage/packages/f43/synfig/po/ja_JP.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 332 | 4879 | 6.8 | /mnt/stockage/packages/f43/synfig/po/kab.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 223 | 4879 | 4.6 | /mnt/stockage/packages/f43/synfig/po/cs.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 196 | 4879 | 4.0 | /mnt/stockage/packages/f43/synfig/po/ro.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 153 | 4879 | 3.1 | /mnt/stockage/packages/f43/synfig/po/nb.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 139 | 4879 | 2.8 | /mnt/stockage/packages/f43/synfig/po/da.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 109 | 4879 | 2.2 | /mnt/stockage/packages/f43/synfig/po/tr.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 99 | 4879 | 2.0 | /mnt/stockage/packages/f43/synfig/po/he.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 163 | 9758 | 1.7 | /mnt/stockage/packages/f43/synfig/po/eu_ES.po/mnt/stockage/packages/f43/synfig/po/eu.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 163 | 9758 | 1.7 | /mnt/stockage/packages/f43/synfig/po/sk_SK.po/mnt/stockage/packages/f43/synfig/po/sk.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 65 | 4879 | 1.3 | /mnt/stockage/packages/f43/synfig/po/ca.po | 
- | [uz_Latn]({{< ref "/f43/language/uz_Latn.md" >}}) | 58 | 4879 | 1.2 | /mnt/stockage/packages/f43/synfig/po/uz@Latn.po | 
- | [bs]({{< ref "/f43/language/bs.md" >}}) | 36 | 4879 | 0.7 | /mnt/stockage/packages/f43/synfig/po/bs.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 36 | 4879 | 0.7 | /mnt/stockage/packages/f43/synfig/po/uk.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 35 | 4879 | 0.7 | /mnt/stockage/packages/f43/synfig/po/el_GR.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 31 | 4879 | 0.6 | /mnt/stockage/packages/f43/synfig/po/hi.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 15 | 4879 | 0.3 | /mnt/stockage/packages/f43/synfig/po/lv.po | 
- | [si]({{< ref "/f43/language/si.md" >}}) | 5 | 4879 | 0.1 | /mnt/stockage/packages/f43/synfig/po/si.po | 
- | [error]({{< ref "/f43/language/error.md" >}}) | 0 | 4879 | 0.0 | /mnt/stockage/packages/f43/synfig/po/es_PY.po | 
- | [ur]({{< ref "/f43/language/ur.md" >}}) | 0 | 4879 | 0.0 | /mnt/stockage/packages/f43/synfig/po/ur.po | 
+ | [it](/f43/language/it) | 4854 | 4879 | 99.5 | /mnt/stockage/packages/f43/synfig/po/it.po | 
+ | [pt_BR](/f43/language/pt_BR) | 4425 | 4879 | 90.7 | /mnt/stockage/packages/f43/synfig/po/pt_BR.po | 
+ | [ko](/f43/language/ko) | 4353 | 4879 | 89.2 | /mnt/stockage/packages/f43/synfig/po/ko_KR.po | 
+ | [ru](/f43/language/ru) | 4322 | 4879 | 88.6 | /mnt/stockage/packages/f43/synfig/po/ru.po | 
+ | [ar](/f43/language/ar) | 4320 | 4879 | 88.5 | /mnt/stockage/packages/f43/synfig/po/ar.po | 
+ | [fr](/f43/language/fr) | 4242 | 4879 | 86.9 | /mnt/stockage/packages/f43/synfig/po/fr.po | 
+ | [pt](/f43/language/pt) | 4136 | 4879 | 84.8 | /mnt/stockage/packages/f43/synfig/po/pt.po | 
+ | [es](/f43/language/es) | 4132 | 4879 | 84.7 | /mnt/stockage/packages/f43/synfig/po/es.po | 
+ | [de](/f43/language/de) | 4086 | 4879 | 83.7 | /mnt/stockage/packages/f43/synfig/po/de.po | 
+ | [pl](/f43/language/pl) | 4071 | 4879 | 83.4 | /mnt/stockage/packages/f43/synfig/po/pl_PL.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 4059 | 4879 | 83.2 | /mnt/stockage/packages/f43/synfig/po/ca@valencia.po | 
+ | [sr](/f43/language/sr) | 4059 | 4879 | 83.2 | /mnt/stockage/packages/f43/synfig/po/sr_RS.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 3438 | 4879 | 70.5 | /mnt/stockage/packages/f43/synfig/po/zh_CN.po | 
+ | [nl](/f43/language/nl) | 3394 | 4879 | 69.6 | /mnt/stockage/packages/f43/synfig/po/nl.po | 
+ | [en_GB](/f43/language/en_GB) | 2952 | 4879 | 60.5 | /mnt/stockage/packages/f43/synfig/po/en_GB.po | 
+ | [hu](/f43/language/hu) | 2952 | 4879 | 60.5 | /mnt/stockage/packages/f43/synfig/po/hu.po | 
+ | [sv](/f43/language/sv) | 2594 | 4879 | 53.2 | /mnt/stockage/packages/f43/synfig/po/sv_SE.po | 
+ | [lt](/f43/language/lt) | 1587 | 4879 | 32.5 | /mnt/stockage/packages/f43/synfig/po/lt.po | 
+ | [gl](/f43/language/gl) | 1338 | 4879 | 27.4 | /mnt/stockage/packages/f43/synfig/po/gl.po | 
+ | [sl](/f43/language/sl) | 1296 | 4879 | 26.6 | /mnt/stockage/packages/f43/synfig/po/sl.po | 
+ | [fa](/f43/language/fa) | 894 | 4879 | 18.3 | /mnt/stockage/packages/f43/synfig/po/fa_IR.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 777 | 4879 | 15.9 | /mnt/stockage/packages/f43/synfig/po/zh_TW.po | 
+ | [ja](/f43/language/ja) | 548 | 4879 | 11.2 | /mnt/stockage/packages/f43/synfig/po/ja_JP.po | 
+ | [kab](/f43/language/kab) | 332 | 4879 | 6.8 | /mnt/stockage/packages/f43/synfig/po/kab.po | 
+ | [cs](/f43/language/cs) | 223 | 4879 | 4.6 | /mnt/stockage/packages/f43/synfig/po/cs.po | 
+ | [ro](/f43/language/ro) | 196 | 4879 | 4.0 | /mnt/stockage/packages/f43/synfig/po/ro.po | 
+ | [nb_NO](/f43/language/nb_NO) | 153 | 4879 | 3.1 | /mnt/stockage/packages/f43/synfig/po/nb.po | 
+ | [da](/f43/language/da) | 139 | 4879 | 2.8 | /mnt/stockage/packages/f43/synfig/po/da.po | 
+ | [tr](/f43/language/tr) | 109 | 4879 | 2.2 | /mnt/stockage/packages/f43/synfig/po/tr.po | 
+ | [he](/f43/language/he) | 99 | 4879 | 2.0 | /mnt/stockage/packages/f43/synfig/po/he.po | 
+ | [eu](/f43/language/eu) | 163 | 9758 | 1.7 | /mnt/stockage/packages/f43/synfig/po/eu_ES.po/mnt/stockage/packages/f43/synfig/po/eu.po | 
+ | [sk](/f43/language/sk) | 163 | 9758 | 1.7 | /mnt/stockage/packages/f43/synfig/po/sk_SK.po/mnt/stockage/packages/f43/synfig/po/sk.po | 
+ | [ca](/f43/language/ca) | 65 | 4879 | 1.3 | /mnt/stockage/packages/f43/synfig/po/ca.po | 
+ | [uz_Latn](/f43/language/uz_Latn) | 58 | 4879 | 1.2 | /mnt/stockage/packages/f43/synfig/po/uz@Latn.po | 
+ | [bs](/f43/language/bs) | 36 | 4879 | 0.7 | /mnt/stockage/packages/f43/synfig/po/bs.po | 
+ | [uk](/f43/language/uk) | 36 | 4879 | 0.7 | /mnt/stockage/packages/f43/synfig/po/uk.po | 
+ | [el](/f43/language/el) | 35 | 4879 | 0.7 | /mnt/stockage/packages/f43/synfig/po/el_GR.po | 
+ | [hi](/f43/language/hi) | 31 | 4879 | 0.6 | /mnt/stockage/packages/f43/synfig/po/hi.po | 
+ | [lv](/f43/language/lv) | 15 | 4879 | 0.3 | /mnt/stockage/packages/f43/synfig/po/lv.po | 
+ | [si](/f43/language/si) | 5 | 4879 | 0.1 | /mnt/stockage/packages/f43/synfig/po/si.po | 
+ | [error](/f43/language/error) | 0 | 4879 | 0.0 | /mnt/stockage/packages/f43/synfig/po/es_PY.po | 
+ | [ur](/f43/language/ur) | 0 | 4879 | 0.0 | /mnt/stockage/packages/f43/synfig/po/ur.po | 
 {.sortable}
 
 

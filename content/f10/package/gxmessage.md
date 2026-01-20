@@ -18,12 +18,12 @@ The package gxmessage (version 2.12.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 243 | 243 | 100.0 | /mnt/stockage/packages/f10/gxmessage/po/sv.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 177 | 243 | 72.8 | /mnt/stockage/packages/f10/gxmessage/po/sk.po | 
- | [en_AU]({{< ref "/f10/language/en_AU.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_AU.po | 
- | [en_CA]({{< ref "/f10/language/en_CA.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_CA.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_GB.po | 
- | [en_NZ]({{< ref "/f10/language/en_NZ.md" >}}) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_NZ.po | 
+ | [sv](/f10/language/sv) | 243 | 243 | 100.0 | /mnt/stockage/packages/f10/gxmessage/po/sv.po | 
+ | [sk](/f10/language/sk) | 177 | 243 | 72.8 | /mnt/stockage/packages/f10/gxmessage/po/sk.po | 
+ | [en_AU](/f10/language/en_AU) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_AU.po | 
+ | [en_CA](/f10/language/en_CA) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_CA.po | 
+ | [en_GB](/f10/language/en_GB) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_GB.po | 
+ | [en_NZ](/f10/language/en_NZ) | 12 | 245 | 4.9 | /mnt/stockage/packages/f10/gxmessage/po/en_NZ.po | 
 {.sortable}
 
 

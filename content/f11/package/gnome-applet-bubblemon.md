@@ -18,25 +18,25 @@ The package gnome-applet-bubblemon (version 2.0.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/fr.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/sv.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/it.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/nl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/pt_BR.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ru.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 18 | 38 | 47.4 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/pl.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ca.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/da.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 17 | 38 | 44.7 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/es.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/de.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/fi.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/hu.po | 
- | [is]({{< ref "/f11/language/is.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/is.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/no.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/pt.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ro.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 10 | 38 | 26.3 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ko.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 4 | 38 | 10.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/sh.po | 
+ | [fr](/f11/language/fr) | 38 | 38 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/fr.po | 
+ | [sv](/f11/language/sv) | 38 | 38 | 100.0 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/sv.po | 
+ | [it](/f11/language/it) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/it.po | 
+ | [nl](/f11/language/nl) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/nl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/pt_BR.po | 
+ | [ru](/f11/language/ru) | 34 | 38 | 89.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ru.po | 
+ | [pl](/f11/language/pl) | 18 | 38 | 47.4 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/pl.po | 
+ | [ca](/f11/language/ca) | 17 | 38 | 44.7 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ca.po | 
+ | [da](/f11/language/da) | 17 | 38 | 44.7 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/da.po | 
+ | [es](/f11/language/es) | 17 | 38 | 44.7 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/es.po | 
+ | [de](/f11/language/de) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/de.po | 
+ | [fi](/f11/language/fi) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/fi.po | 
+ | [hu](/f11/language/hu) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/hu.po | 
+ | [is](/f11/language/is) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/is.po | 
+ | [nb_NO](/f11/language/nb_NO) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/no.po | 
+ | [pt](/f11/language/pt) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/pt.po | 
+ | [ro](/f11/language/ro) | 11 | 38 | 28.9 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ro.po | 
+ | [ko](/f11/language/ko) | 10 | 38 | 26.3 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/ko.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 4 | 38 | 10.5 | /mnt/stockage/packages/f11/gnome-applet-bubblemon/po/sh.po | 
 {.sortable}
 
 

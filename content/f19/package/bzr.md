@@ -18,35 +18,35 @@ The package bzr (version 2.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 8296 | 33099 | 25.1 | /mnt/stockage/packages/f19/bzr/po/ja.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 7021 | 33099 | 21.2 | /mnt/stockage/packages/f19/bzr/po/ru.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 7000 | 33099 | 21.1 | /mnt/stockage/packages/f19/bzr/po/es.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 6122 | 33099 | 18.5 | /mnt/stockage/packages/f19/bzr/po/pt_BR.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2766 | 33099 | 8.4 | /mnt/stockage/packages/f19/bzr/po/de.po | 
- | [en_AU]({{< ref "/f19/language/en_AU.md" >}}) | 1677 | 33099 | 5.1 | /mnt/stockage/packages/f19/bzr/po/en_AU.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 862 | 33099 | 2.6 | /mnt/stockage/packages/f19/bzr/po/en_GB.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 198 | 33099 | 0.6 | /mnt/stockage/packages/f19/bzr/po/cs.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 190 | 33099 | 0.6 | /mnt/stockage/packages/f19/bzr/po/gl.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 165 | 33099 | 0.5 | /mnt/stockage/packages/f19/bzr/po/fr.po | 
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 105 | 33099 | 0.3 | /mnt/stockage/packages/f19/bzr/po/ast.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 93 | 33099 | 0.3 | /mnt/stockage/packages/f19/bzr/po/sv.po | 
- | [sco]({{< ref "/f19/language/sco.md" >}}) | 23 | 33099 | 0.1 | /mnt/stockage/packages/f19/bzr/po/sco.po | 
- | [ms]({{< ref "/f19/language/ms.md" >}}) | 18 | 33099 | 0.1 | /mnt/stockage/packages/f19/bzr/po/ms.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 3 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/nl.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 2 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ug.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ar.po | 
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/bs.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ca.po | 
- | [fo]({{< ref "/f19/language/fo.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/fo.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/he.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/it.po | 
- | [my]({{< ref "/f19/language/my.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/my.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/nb.po | 
- | [oc]({{< ref "/f19/language/oc.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/oc.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/pl.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ro.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/tr.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/vi.po | 
+ | [ja](/f19/language/ja) | 8296 | 33099 | 25.1 | /mnt/stockage/packages/f19/bzr/po/ja.po | 
+ | [ru](/f19/language/ru) | 7021 | 33099 | 21.2 | /mnt/stockage/packages/f19/bzr/po/ru.po | 
+ | [es](/f19/language/es) | 7000 | 33099 | 21.1 | /mnt/stockage/packages/f19/bzr/po/es.po | 
+ | [pt_BR](/f19/language/pt_BR) | 6122 | 33099 | 18.5 | /mnt/stockage/packages/f19/bzr/po/pt_BR.po | 
+ | [de](/f19/language/de) | 2766 | 33099 | 8.4 | /mnt/stockage/packages/f19/bzr/po/de.po | 
+ | [en_AU](/f19/language/en_AU) | 1677 | 33099 | 5.1 | /mnt/stockage/packages/f19/bzr/po/en_AU.po | 
+ | [en_GB](/f19/language/en_GB) | 862 | 33099 | 2.6 | /mnt/stockage/packages/f19/bzr/po/en_GB.po | 
+ | [cs](/f19/language/cs) | 198 | 33099 | 0.6 | /mnt/stockage/packages/f19/bzr/po/cs.po | 
+ | [gl](/f19/language/gl) | 190 | 33099 | 0.6 | /mnt/stockage/packages/f19/bzr/po/gl.po | 
+ | [fr](/f19/language/fr) | 165 | 33099 | 0.5 | /mnt/stockage/packages/f19/bzr/po/fr.po | 
+ | [ast](/f19/language/ast) | 105 | 33099 | 0.3 | /mnt/stockage/packages/f19/bzr/po/ast.po | 
+ | [sv](/f19/language/sv) | 93 | 33099 | 0.3 | /mnt/stockage/packages/f19/bzr/po/sv.po | 
+ | [sco](/f19/language/sco) | 23 | 33099 | 0.1 | /mnt/stockage/packages/f19/bzr/po/sco.po | 
+ | [ms](/f19/language/ms) | 18 | 33099 | 0.1 | /mnt/stockage/packages/f19/bzr/po/ms.po | 
+ | [nl](/f19/language/nl) | 3 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/nl.po | 
+ | [ug](/f19/language/ug) | 2 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ug.po | 
+ | [ar](/f19/language/ar) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ar.po | 
+ | [bs](/f19/language/bs) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/bs.po | 
+ | [ca](/f19/language/ca) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ca.po | 
+ | [fo](/f19/language/fo) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/fo.po | 
+ | [he](/f19/language/he) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/he.po | 
+ | [it](/f19/language/it) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/it.po | 
+ | [my](/f19/language/my) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/my.po | 
+ | [nb_NO](/f19/language/nb_NO) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/nb.po | 
+ | [oc](/f19/language/oc) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/oc.po | 
+ | [pl](/f19/language/pl) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/pl.po | 
+ | [ro](/f19/language/ro) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/ro.po | 
+ | [tr](/f19/language/tr) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/tr.po | 
+ | [vi](/f19/language/vi) | 0 | 33099 | 0.0 | /mnt/stockage/packages/f19/bzr/po/vi.po | 
 {.sortable}
 
 

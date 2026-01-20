@@ -18,17 +18,17 @@ The package kicad (version 2007.07.09):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 5471 | 5471 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/de/kicad.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 4651 | 4651 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/es/kicad.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 5189 | 5189 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/hu/kicad.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 4722 | 4722 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/it/kicad.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 5814 | 5814 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/ko/kicad.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 5480 | 5480 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/pt/kicad.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 6028 | 6029 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/pl/kicad.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 6060 | 6062 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/fr/kicad.po | 
- | [sl]({{< ref "/f8/language/sl.md" >}}) | 4522 | 4527 | 99.9 | /mnt/stockage/packages/f8/kicad/locale/sl/kicad.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 2518 | 6060 | 41.6 | /mnt/stockage/packages/f8/kicad/locale/ru/kicad.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 0 | 5966 | 0.0 | /mnt/stockage/packages/f8/kicad/locale/cs/kicad.po | 
+ | [de](/f8/language/de) | 5471 | 5471 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/de/kicad.po | 
+ | [es](/f8/language/es) | 4651 | 4651 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/es/kicad.po | 
+ | [hu](/f8/language/hu) | 5189 | 5189 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/hu/kicad.po | 
+ | [it](/f8/language/it) | 4722 | 4722 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/it/kicad.po | 
+ | [ko](/f8/language/ko) | 5814 | 5814 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/ko/kicad.po | 
+ | [pt](/f8/language/pt) | 5480 | 5480 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/pt/kicad.po | 
+ | [pl](/f8/language/pl) | 6028 | 6029 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/pl/kicad.po | 
+ | [fr](/f8/language/fr) | 6060 | 6062 | 100.0 | /mnt/stockage/packages/f8/kicad/locale/fr/kicad.po | 
+ | [sl](/f8/language/sl) | 4522 | 4527 | 99.9 | /mnt/stockage/packages/f8/kicad/locale/sl/kicad.po | 
+ | [ru](/f8/language/ru) | 2518 | 6060 | 41.6 | /mnt/stockage/packages/f8/kicad/locale/ru/kicad.po | 
+ | [cs](/f8/language/cs) | 0 | 5966 | 0.0 | /mnt/stockage/packages/f8/kicad/locale/cs/kicad.po | 
 {.sortable}
 
 

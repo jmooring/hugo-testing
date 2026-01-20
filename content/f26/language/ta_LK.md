@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [squirrelmail]({{< ref "/f26/package/squirrelmail.md" >}}) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
- | [transmission]({{< ref "/f26/package/transmission.md" >}}) | 329 | 1809 | 18.2 | Tamil (Sri-Lanka) <ta_LK@li.org> | 
+ | [squirrelmail](/f26/package/squirrelmail) | 5012 | 5942 | 84.3 | LAKapps <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [transmission](/f26/package/transmission) | 329 | 1809 | 18.2 | Tamil (Sri-Lanka) <ta_LK@li.org> | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package purple-discord (version 0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f25/language/it.md" >}}) | 155 | 157 | 98.7 | /mnt/stockage/packages/f25/purple-discord/po/it.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 153 | 157 | 97.5 | /mnt/stockage/packages/f25/purple-discord/po/es.po | 
+ | [it](/f25/language/it) | 155 | 157 | 98.7 | /mnt/stockage/packages/f25/purple-discord/po/it.po | 
+ | [es](/f25/language/es) | 153 | 157 | 97.5 | /mnt/stockage/packages/f25/purple-discord/po/es.po | 
 {.sortable}
 
 

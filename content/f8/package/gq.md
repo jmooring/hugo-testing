@@ -18,10 +18,10 @@ The package gq (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 2634 | 2660 | 99.0 | /mnt/stockage/packages/f8/gq/po/ja.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1972 | 2660 | 74.1 | /mnt/stockage/packages/f8/gq/po/de.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 854 | 1937 | 44.1 | /mnt/stockage/packages/f8/gq/po/zh_CN.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 461 | 1937 | 23.8 | /mnt/stockage/packages/f8/gq/po/cs.po | 
+ | [ja](/f8/language/ja) | 2634 | 2660 | 99.0 | /mnt/stockage/packages/f8/gq/po/ja.po | 
+ | [de](/f8/language/de) | 1972 | 2660 | 74.1 | /mnt/stockage/packages/f8/gq/po/de.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 854 | 1937 | 44.1 | /mnt/stockage/packages/f8/gq/po/zh_CN.po | 
+ | [cs](/f8/language/cs) | 461 | 1937 | 23.8 | /mnt/stockage/packages/f8/gq/po/cs.po | 
 {.sortable}
 
 

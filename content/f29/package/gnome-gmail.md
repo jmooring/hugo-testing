@@ -18,35 +18,35 @@ The package gnome-gmail (version 2.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/gnome-gmail/po/pl.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/gnome-gmail/po/ru.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 180 | 187 | 96.3 | /mnt/stockage/packages/f29/gnome-gmail/po/fr.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 136 | 187 | 72.7 | /mnt/stockage/packages/f29/gnome-gmail/po/de.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 136 | 187 | 72.7 | /mnt/stockage/packages/f29/gnome-gmail/po/pt_BR.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 111 | 187 | 59.4 | /mnt/stockage/packages/f29/gnome-gmail/po/es.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 90 | 187 | 48.1 | /mnt/stockage/packages/f29/gnome-gmail/po/it.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 61 | 187 | 32.6 | /mnt/stockage/packages/f29/gnome-gmail/po/id.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 61 | 187 | 32.6 | /mnt/stockage/packages/f29/gnome-gmail/po/ms.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 61 | 187 | 32.6 | /mnt/stockage/packages/f29/gnome-gmail/po/sv.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 45 | 187 | 24.1 | /mnt/stockage/packages/f29/gnome-gmail/po/hu.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 45 | 187 | 24.1 | /mnt/stockage/packages/f29/gnome-gmail/po/zh_TW.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 39 | 187 | 20.9 | /mnt/stockage/packages/f29/gnome-gmail/po/pt.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/hr.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/ta.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/vi.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 27 | 187 | 14.4 | /mnt/stockage/packages/f29/gnome-gmail/po/cs.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 21 | 187 | 11.2 | /mnt/stockage/packages/f29/gnome-gmail/po/el.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 15 | 187 | 8.0 | /mnt/stockage/packages/f29/gnome-gmail/po/fa.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 14 | 187 | 7.5 | /mnt/stockage/packages/f29/gnome-gmail/po/ro.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 12 | 187 | 6.4 | /mnt/stockage/packages/f29/gnome-gmail/po/et.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 10 | 187 | 5.3 | /mnt/stockage/packages/f29/gnome-gmail/po/hy.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 7 | 187 | 3.7 | /mnt/stockage/packages/f29/gnome-gmail/po/zh_CN.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 5 | 187 | 2.7 | /mnt/stockage/packages/f29/gnome-gmail/po/ps.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 2 | 187 | 1.1 | /mnt/stockage/packages/f29/gnome-gmail/po/ja.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/gnome-gmail/po/si.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/gnome-gmail/po/ug.po | 
+ | [pl](/f29/language/pl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/gnome-gmail/po/pl.po | 
+ | [ru](/f29/language/ru) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/gnome-gmail/po/ru.po | 
+ | [fr](/f29/language/fr) | 180 | 187 | 96.3 | /mnt/stockage/packages/f29/gnome-gmail/po/fr.po | 
+ | [de](/f29/language/de) | 136 | 187 | 72.7 | /mnt/stockage/packages/f29/gnome-gmail/po/de.po | 
+ | [pt_BR](/f29/language/pt_BR) | 136 | 187 | 72.7 | /mnt/stockage/packages/f29/gnome-gmail/po/pt_BR.po | 
+ | [es](/f29/language/es) | 111 | 187 | 59.4 | /mnt/stockage/packages/f29/gnome-gmail/po/es.po | 
+ | [it](/f29/language/it) | 90 | 187 | 48.1 | /mnt/stockage/packages/f29/gnome-gmail/po/it.po | 
+ | [id](/f29/language/id) | 61 | 187 | 32.6 | /mnt/stockage/packages/f29/gnome-gmail/po/id.po | 
+ | [ms](/f29/language/ms) | 61 | 187 | 32.6 | /mnt/stockage/packages/f29/gnome-gmail/po/ms.po | 
+ | [sv](/f29/language/sv) | 61 | 187 | 32.6 | /mnt/stockage/packages/f29/gnome-gmail/po/sv.po | 
+ | [hu](/f29/language/hu) | 45 | 187 | 24.1 | /mnt/stockage/packages/f29/gnome-gmail/po/hu.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 45 | 187 | 24.1 | /mnt/stockage/packages/f29/gnome-gmail/po/zh_TW.po | 
+ | [pt](/f29/language/pt) | 39 | 187 | 20.9 | /mnt/stockage/packages/f29/gnome-gmail/po/pt.po | 
+ | [hr](/f29/language/hr) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/hr.po | 
+ | [ta](/f29/language/ta) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/ta.po | 
+ | [tr](/f29/language/tr) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/tr.po | 
+ | [uk](/f29/language/uk) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/uk.po | 
+ | [vi](/f29/language/vi) | 36 | 187 | 19.3 | /mnt/stockage/packages/f29/gnome-gmail/po/vi.po | 
+ | [cs](/f29/language/cs) | 27 | 187 | 14.4 | /mnt/stockage/packages/f29/gnome-gmail/po/cs.po | 
+ | [el](/f29/language/el) | 21 | 187 | 11.2 | /mnt/stockage/packages/f29/gnome-gmail/po/el.po | 
+ | [fa](/f29/language/fa) | 15 | 187 | 8.0 | /mnt/stockage/packages/f29/gnome-gmail/po/fa.po | 
+ | [ro](/f29/language/ro) | 14 | 187 | 7.5 | /mnt/stockage/packages/f29/gnome-gmail/po/ro.po | 
+ | [et](/f29/language/et) | 12 | 187 | 6.4 | /mnt/stockage/packages/f29/gnome-gmail/po/et.po | 
+ | [hy](/f29/language/hy) | 10 | 187 | 5.3 | /mnt/stockage/packages/f29/gnome-gmail/po/hy.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 7 | 187 | 3.7 | /mnt/stockage/packages/f29/gnome-gmail/po/zh_CN.po | 
+ | [ps](/f29/language/ps) | 5 | 187 | 2.7 | /mnt/stockage/packages/f29/gnome-gmail/po/ps.po | 
+ | [ja](/f29/language/ja) | 2 | 187 | 1.1 | /mnt/stockage/packages/f29/gnome-gmail/po/ja.po | 
+ | [si](/f29/language/si) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/gnome-gmail/po/si.po | 
+ | [ug](/f29/language/ug) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/gnome-gmail/po/ug.po | 
 {.sortable}
 
 

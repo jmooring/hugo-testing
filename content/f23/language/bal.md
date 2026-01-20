@@ -41,45 +41,45 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f23/package/newt.md" >}}) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [pessulus]({{< ref "/f23/package/pessulus.md" >}}) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
- | [setuptool]({{< ref "/f23/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [system-switch-mail]({{< ref "/f23/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
- | [chkconfig]({{< ref "/f23/package/chkconfig.md" >}}) | 423 | 513 | 82.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [authconfig]({{< ref "/f23/package/authconfig.md" >}}) | 915 | 1715 | 53.4 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [abrt]({{< ref "/f23/package/abrt.md" >}}) | 0 | 3230 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora-abrt/language/bal/) | 
- | [blivet-gui]({{< ref "/f23/package/blivet-gui.md" >}}) | 0 | 713 | 0.0 | Baluchi | 
- | [certmonger]({{< ref "/f23/package/certmonger.md" >}}) | 0 | 2478 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
- | [dnf-plugin-system-upgrade]({{< ref "/f23/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 211 | 0.0 | Baluchi | 
- | [dnf-plugins-extras]({{< ref "/f23/package/dnf-plugins-extras.md" >}}) | 0 | 375 | 0.0 | Baluchi | 
- | [entangle]({{< ref "/f23/package/entangle.md" >}}) | 0 | 934 | 0.0 | Baluchi | 
- | [initial-setup]({{< ref "/f23/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Baluchi | 
- | [initscripts]({{< ref "/f23/package/initscripts.md" >}}) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [libosinfo]({{< ref "/f23/package/libosinfo.md" >}}) | 0 | 1871 | 0.0 | Baluchi | 
- | [libreport]({{< ref "/f23/package/libreport.md" >}}) | 0 | 3501 | 0.0 | Balochi (http://www.transifex.com/projects/p/libreport/language/bal/) | 
- | [libvirt-glib]({{< ref "/f23/package/libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [libvirt-sandbox]({{< ref "/f23/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [mingw-libvirt-glib]({{< ref "/f23/package/mingw-libvirt-glib.md" >}}) | 0 | 138 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
- | [oscap-anaconda-addon]({{< ref "/f23/package/oscap-anaconda-addon.md" >}}) | 0 | 194 | 0.0 | Balochi (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bal/) | 
- | [pam]({{< ref "/f23/package/pam.md" >}}) | 0 | 606 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [policycoreutils]({{< ref "/f23/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [pykickstart]({{< ref "/f23/package/pykickstart.md" >}}) | 0 | 1276 | 0.0 | Baluchi | 
- | [python-blivet]({{< ref "/f23/package/python-blivet.md" >}}) | 0 | 696 | 0.0 | Baluchi | 
- | [python-fedora]({{< ref "/f23/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Baluchi | 
- | [python-meh]({{< ref "/f23/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Baluchi | 
- | [rhnsd]({{< ref "/f23/package/rhnsd.md" >}}) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [setroubleshoot]({{< ref "/f23/package/setroubleshoot.md" >}}) | 0 | 656 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [setroubleshoot-plugins]({{< ref "/f23/package/setroubleshoot-plugins.md" >}}) | 0 | 9830 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [system-config-date]({{< ref "/f23/package/system-config-date.md" >}}) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-date-docs]({{< ref "/f23/package/system-config-date-docs.md" >}}) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-kickstart]({{< ref "/f23/package/system-config-kickstart.md" >}}) | 0 | 1144 | 0.0 | Balochi (http://www.transifex.com/projects/p/system-config-kickstart/language/bal/) | 
- | [system-config-network]({{< ref "/f23/package/system-config-network.md" >}}) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
- | [system-config-nfs-docs]({{< ref "/f23/package/system-config-nfs-docs.md" >}}) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f23/package/system-config-samba-docs.md" >}}) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services]({{< ref "/f23/package/system-config-services.md" >}}) | 0 | 534 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
- | [system-config-services-docs]({{< ref "/f23/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f23/package/system-config-users-docs.md" >}}) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
- | [virt-viewer]({{< ref "/f23/package/virt-viewer.md" >}}) | 0 | 692 | 0.0 | Baluchi | 
+ | [newt](/f23/package/newt) | 4 | 4 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [pessulus](/f23/package/pessulus) | 88 | 88 | 100.0 | Balochi <mostafa@daneshvar.org.uk> | 
+ | [setuptool](/f23/package/setuptool) | 55 | 55 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [system-switch-mail](/f23/package/system-switch-mail) | 158 | 158 | 100.0 | Balochi <fedora-trans-bal@redhat.com> | 
+ | [chkconfig](/f23/package/chkconfig) | 423 | 513 | 82.5 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [authconfig](/f23/package/authconfig) | 915 | 1715 | 53.4 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [abrt](/f23/package/abrt) | 0 | 3230 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora-abrt/language/bal/) | 
+ | [blivet-gui](/f23/package/blivet-gui) | 0 | 713 | 0.0 | Baluchi | 
+ | [certmonger](/f23/package/certmonger) | 0 | 2478 | 0.0 | Balochi (http://www.transifex.com/projects/p/certmonger/language/bal/) | 
+ | [dnf-plugin-system-upgrade](/f23/package/dnf-plugin-system-upgrade) | 0 | 211 | 0.0 | Baluchi | 
+ | [dnf-plugins-extras](/f23/package/dnf-plugins-extras) | 0 | 375 | 0.0 | Baluchi | 
+ | [entangle](/f23/package/entangle) | 0 | 934 | 0.0 | Baluchi | 
+ | [initial-setup](/f23/package/initial-setup) | 0 | 33 | 0.0 | Baluchi | 
+ | [initscripts](/f23/package/initscripts) | 0 | 1003 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [libosinfo](/f23/package/libosinfo) | 0 | 1871 | 0.0 | Baluchi | 
+ | [libreport](/f23/package/libreport) | 0 | 3501 | 0.0 | Balochi (http://www.transifex.com/projects/p/libreport/language/bal/) | 
+ | [libvirt-glib](/f23/package/libvirt-glib) | 0 | 138 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [libvirt-sandbox](/f23/package/libvirt-sandbox) | 0 | 617 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [mingw-libvirt-glib](/f23/package/mingw-libvirt-glib) | 0 | 138 | 0.0 | Balochi (http://www.transifex.com/projects/p/libvirt-glib/language/bal/) | 
+ | [oscap-anaconda-addon](/f23/package/oscap-anaconda-addon) | 0 | 194 | 0.0 | Balochi (http://www.transifex.com/projects/p/oscap-anaconda-addon/language/bal/) | 
+ | [pam](/f23/package/pam) | 0 | 606 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [policycoreutils](/f23/package/policycoreutils) | 0 | 7678 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [pykickstart](/f23/package/pykickstart) | 0 | 1276 | 0.0 | Baluchi | 
+ | [python-blivet](/f23/package/python-blivet) | 0 | 696 | 0.0 | Baluchi | 
+ | [python-fedora](/f23/package/python-fedora) | 0 | 214 | 0.0 | Baluchi | 
+ | [python-meh](/f23/package/python-meh) | 0 | 109 | 0.0 | Baluchi | 
+ | [rhnsd](/f23/package/rhnsd) | 0 | 37 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [setroubleshoot](/f23/package/setroubleshoot) | 0 | 656 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [setroubleshoot-plugins](/f23/package/setroubleshoot-plugins) | 0 | 9830 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [system-config-date](/f23/package/system-config-date) | 0 | 503 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-date-docs](/f23/package/system-config-date-docs) | 0 | 761 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-kickstart](/f23/package/system-config-kickstart) | 0 | 1144 | 0.0 | Balochi (http://www.transifex.com/projects/p/system-config-kickstart/language/bal/) | 
+ | [system-config-network](/f23/package/system-config-network) | 0 | 3032 | 0.0 | Balochi <trans-bal@lists.fedoraproject.org> | 
+ | [system-config-nfs-docs](/f23/package/system-config-nfs-docs) | 0 | 1192 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f23/package/system-config-samba-docs) | 0 | 1195 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services](/f23/package/system-config-services) | 0 | 534 | 0.0 | Balochi (http://www.transifex.com/projects/p/fedora/language/bal/) | 
+ | [system-config-services-docs](/f23/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f23/package/system-config-users-docs) | 0 | 1061 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [virt-viewer](/f23/package/virt-viewer) | 0 | 692 | 0.0 | Baluchi | 
 {.sortable}
 
 

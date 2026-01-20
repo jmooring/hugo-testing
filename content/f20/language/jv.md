@@ -39,24 +39,24 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [islamic-menus]({{< ref "/f20/package/islamic-menus.md" >}}) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
- | [whaawmp]({{< ref "/f20/package/whaawmp.md" >}}) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
- | [mintmenu]({{< ref "/f20/package/mintmenu.md" >}}) | 2655 | 4540 | 58.5 | Javanese <jv@li.org> | 
- | [terminator]({{< ref "/f20/package/terminator.md" >}}) | 270 | 726 | 37.2 | Javanese <jv@li.org> | 
- | [jmol]({{< ref "/f20/package/jmol.md" >}}) | 155 | 1712 | 9.1 | Javanese <jv@li.org> | 
- | [gnome-do]({{< ref "/f20/package/gnome-do.md" >}}) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
- | [cinnamon-translations]({{< ref "/f20/package/cinnamon-translations.md" >}}) | 516 | 11139 | 4.6 | Javanese <jv@li.org> | 
- | [pychess]({{< ref "/f20/package/pychess.md" >}}) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
- | [gmpc]({{< ref "/f20/package/gmpc.md" >}}) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
- | [widelands]({{< ref "/f20/package/widelands.md" >}}) | 38 | 2637 | 1.4 | Javanese <jv@li.org> | 
- | [backintime]({{< ref "/f20/package/backintime.md" >}}) | 13 | 1492 | 0.9 | Javanese <jv@li.org> | 
- | [tortoisehg]({{< ref "/f20/package/tortoisehg.md" >}}) | 30 | 11954 | 0.3 | Javanese <jv@li.org> | 
- | [calibre]({{< ref "/f20/package/calibre.md" >}}) | 211 | 118729 | 0.2 | Javanese <jv@li.org> | 
- | [edgar]({{< ref "/f20/package/edgar.md" >}}) | 1 | 11475 | 0.0 | Javanese <jv@li.org> | 
- | [ailurus]({{< ref "/f20/package/ailurus.md" >}}) | 0 | 8446 | 0.0 | none | 
- | [libreoffice]({{< ref "/f20/package/libreoffice.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f20/package/vidalia.md" >}}) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
- | [viking]({{< ref "/f20/package/viking.md" >}}) | 0 | 4135 | 0.0 | Javanese <jv@li.org> | 
+ | [islamic-menus](/f20/package/islamic-menus) | 5 | 5 | 100.0 | Javanese <jv@li.org> | 
+ | [whaawmp](/f20/package/whaawmp) | 799 | 799 | 100.0 | Javanese <jv@li.org> | 
+ | [mintmenu](/f20/package/mintmenu) | 2655 | 4540 | 58.5 | Javanese <jv@li.org> | 
+ | [terminator](/f20/package/terminator) | 270 | 726 | 37.2 | Javanese <jv@li.org> | 
+ | [jmol](/f20/package/jmol) | 155 | 1712 | 9.1 | Javanese <jv@li.org> | 
+ | [gnome-do](/f20/package/gnome-do) | 29 | 612 | 4.7 | Javanese <jv@li.org> | 
+ | [cinnamon-translations](/f20/package/cinnamon-translations) | 516 | 11139 | 4.6 | Javanese <jv@li.org> | 
+ | [pychess](/f20/package/pychess) | 89 | 3091 | 2.9 | Javanese <jv@li.org> | 
+ | [gmpc](/f20/package/gmpc) | 23 | 1478 | 1.6 | Javanese <jv@li.org> | 
+ | [widelands](/f20/package/widelands) | 38 | 2637 | 1.4 | Javanese <jv@li.org> | 
+ | [backintime](/f20/package/backintime) | 13 | 1492 | 0.9 | Javanese <jv@li.org> | 
+ | [tortoisehg](/f20/package/tortoisehg) | 30 | 11954 | 0.3 | Javanese <jv@li.org> | 
+ | [calibre](/f20/package/calibre) | 211 | 118729 | 0.2 | Javanese <jv@li.org> | 
+ | [edgar](/f20/package/edgar) | 1 | 11475 | 0.0 | Javanese <jv@li.org> | 
+ | [ailurus](/f20/package/ailurus) | 0 | 8446 | 0.0 | none | 
+ | [libreoffice](/f20/package/libreoffice) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f20/package/vidalia) | 0 | 10377 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [viking](/f20/package/viking) | 0 | 4135 | 0.0 | Javanese <jv@li.org> | 
 {.sortable}
 
 

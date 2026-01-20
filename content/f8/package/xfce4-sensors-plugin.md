@@ -18,17 +18,17 @@ The package xfce4-sensors-plugin (version 0.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/de.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 65 | 94 | 69.1 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/ko.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/eu.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/hu.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/ja.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/pl.po | 
- | [vi]({{< ref "/f8/language/vi.md" >}}) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/vi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 54 | 94 | 57.4 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/fr.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 39 | 94 | 41.5 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/ru.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 34 | 94 | 36.2 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/el.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 12 | 94 | 12.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/lt.po | 
+ | [de](/f8/language/de) | 94 | 94 | 100.0 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/de.po | 
+ | [ko](/f8/language/ko) | 65 | 94 | 69.1 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/ko.po | 
+ | [eu](/f8/language/eu) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/eu.po | 
+ | [hu](/f8/language/hu) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/hu.po | 
+ | [ja](/f8/language/ja) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/ja.po | 
+ | [pl](/f8/language/pl) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/pl.po | 
+ | [vi](/f8/language/vi) | 59 | 94 | 62.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/vi.po | 
+ | [fr](/f8/language/fr) | 54 | 94 | 57.4 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/fr.po | 
+ | [ru](/f8/language/ru) | 39 | 94 | 41.5 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/ru.po | 
+ | [el](/f8/language/el) | 34 | 94 | 36.2 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/el.po | 
+ | [lt](/f8/language/lt) | 12 | 94 | 12.8 | /mnt/stockage/packages/f8/xfce4-sensors-plugin/po/lt.po | 
 {.sortable}
 
 

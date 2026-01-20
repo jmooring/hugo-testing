@@ -18,11 +18,11 @@ The package kernel (version 4.18.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f27/language/de.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/fr.po | 
+ | [de](/f27/language/de) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f27/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f27/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f27/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f27/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f27/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

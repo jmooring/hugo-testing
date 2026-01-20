@@ -18,20 +18,20 @@ The package lutris (version 0.5.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 7618 | 7618 | 100.0 | /mnt/stockage/packages/f37/lutris/po/ar.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 7722 | 7722 | 100.0 | /mnt/stockage/packages/f37/lutris/po/el.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 8231 | 8231 | 100.0 | /mnt/stockage/packages/f37/lutris/po/es.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 7938 | 7938 | 100.0 | /mnt/stockage/packages/f37/lutris/po/nl.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 8133 | 8318 | 97.8 | /mnt/stockage/packages/f37/lutris/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 7060 | 7718 | 91.5 | /mnt/stockage/packages/f37/lutris/po/it.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 6721 | 7618 | 88.2 | /mnt/stockage/packages/f37/lutris/po/zh_CN.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 6489 | 7618 | 85.2 | /mnt/stockage/packages/f37/lutris/po/hr.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 6068 | 7618 | 79.7 | /mnt/stockage/packages/f37/lutris/po/de.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 5692 | 7618 | 74.7 | /mnt/stockage/packages/f37/lutris/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 4577 | 7618 | 60.1 | /mnt/stockage/packages/f37/lutris/po/ru.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 1947 | 7618 | 25.6 | /mnt/stockage/packages/f37/lutris/po/tr.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 123 | 7618 | 1.6 | /mnt/stockage/packages/f37/lutris/po/fi.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 115 | 7618 | 1.5 | /mnt/stockage/packages/f37/lutris/po/ko.po | 
+ | [ar](/f37/language/ar) | 7618 | 7618 | 100.0 | /mnt/stockage/packages/f37/lutris/po/ar.po | 
+ | [el](/f37/language/el) | 7722 | 7722 | 100.0 | /mnt/stockage/packages/f37/lutris/po/el.po | 
+ | [es](/f37/language/es) | 8231 | 8231 | 100.0 | /mnt/stockage/packages/f37/lutris/po/es.po | 
+ | [nl](/f37/language/nl) | 7938 | 7938 | 100.0 | /mnt/stockage/packages/f37/lutris/po/nl.po | 
+ | [fr](/f37/language/fr) | 8133 | 8318 | 97.8 | /mnt/stockage/packages/f37/lutris/po/fr.po | 
+ | [it](/f37/language/it) | 7060 | 7718 | 91.5 | /mnt/stockage/packages/f37/lutris/po/it.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 6721 | 7618 | 88.2 | /mnt/stockage/packages/f37/lutris/po/zh_CN.po | 
+ | [hr](/f37/language/hr) | 6489 | 7618 | 85.2 | /mnt/stockage/packages/f37/lutris/po/hr.po | 
+ | [de](/f37/language/de) | 6068 | 7618 | 79.7 | /mnt/stockage/packages/f37/lutris/po/de.po | 
+ | [pt_BR](/f37/language/pt_BR) | 5692 | 7618 | 74.7 | /mnt/stockage/packages/f37/lutris/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 4577 | 7618 | 60.1 | /mnt/stockage/packages/f37/lutris/po/ru.po | 
+ | [tr](/f37/language/tr) | 1947 | 7618 | 25.6 | /mnt/stockage/packages/f37/lutris/po/tr.po | 
+ | [fi](/f37/language/fi) | 123 | 7618 | 1.6 | /mnt/stockage/packages/f37/lutris/po/fi.po | 
+ | [ko](/f37/language/ko) | 115 | 7618 | 1.5 | /mnt/stockage/packages/f37/lutris/po/ko.po | 
 {.sortable}
 
 

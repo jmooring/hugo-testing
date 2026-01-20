@@ -18,19 +18,19 @@ The package pinot (version 0.97):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f16/language/es.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/it.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/nl.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/ru.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 580 | 593 | 97.8 | /mnt/stockage/packages/f16/pinot/po/he.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 577 | 593 | 97.3 | /mnt/stockage/packages/f16/pinot/po/de.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 575 | 593 | 97.0 | /mnt/stockage/packages/f16/pinot/po/pt.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 573 | 593 | 96.6 | /mnt/stockage/packages/f16/pinot/po/ja.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 565 | 593 | 95.3 | /mnt/stockage/packages/f16/pinot/po/sv.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 400 | 593 | 67.5 | /mnt/stockage/packages/f16/pinot/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 395 | 593 | 66.6 | /mnt/stockage/packages/f16/pinot/po/zh_TW.po | 
+ | [es](/f16/language/es) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/es.po | 
+ | [fr](/f16/language/fr) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/fr.po | 
+ | [it](/f16/language/it) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/it.po | 
+ | [nl](/f16/language/nl) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/nl.po | 
+ | [pt_BR](/f16/language/pt_BR) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 593 | 593 | 100.0 | /mnt/stockage/packages/f16/pinot/po/ru.po | 
+ | [he](/f16/language/he) | 580 | 593 | 97.8 | /mnt/stockage/packages/f16/pinot/po/he.po | 
+ | [de](/f16/language/de) | 577 | 593 | 97.3 | /mnt/stockage/packages/f16/pinot/po/de.po | 
+ | [pt](/f16/language/pt) | 575 | 593 | 97.0 | /mnt/stockage/packages/f16/pinot/po/pt.po | 
+ | [ja](/f16/language/ja) | 573 | 593 | 96.6 | /mnt/stockage/packages/f16/pinot/po/ja.po | 
+ | [sv](/f16/language/sv) | 565 | 593 | 95.3 | /mnt/stockage/packages/f16/pinot/po/sv.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 400 | 593 | 67.5 | /mnt/stockage/packages/f16/pinot/po/zh_CN.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 395 | 593 | 66.6 | /mnt/stockage/packages/f16/pinot/po/zh_TW.po | 
 {.sortable}
 
 

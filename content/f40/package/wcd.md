@@ -18,21 +18,21 @@ The package wcd (version 6.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f40/language/da.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/de.po/mnt/stockage/packages/f40/wcd/src/po-man/de.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/eo.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/fr.po/mnt/stockage/packages/f40/wcd/src/po-man/fr.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/fur.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/pt_BR.po/mnt/stockage/packages/f40/wcd/src/po-man/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/ro.po/mnt/stockage/packages/f40/wcd/src/po-man/ro.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/sr.po/mnt/stockage/packages/f40/wcd/src/po-man/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/sv.po/mnt/stockage/packages/f40/wcd/src/po-man/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/uk.po/mnt/stockage/packages/f40/wcd/src/po-man/uk.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/vi.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 8116 | 8133 | 99.8 | /mnt/stockage/packages/f40/wcd/src/po/nl.po/mnt/stockage/packages/f40/wcd/src/po-man/nl.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1392 | 1425 | 97.7 | /mnt/stockage/packages/f40/wcd/src/po/fi.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1315 | 1425 | 92.3 | /mnt/stockage/packages/f40/wcd/src/po/zh_CN.po | 
+ | [da](/f40/language/da) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/da.po | 
+ | [de](/f40/language/de) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/de.po/mnt/stockage/packages/f40/wcd/src/po-man/de.po | 
+ | [eo](/f40/language/eo) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/eo.po | 
+ | [es](/f40/language/es) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/es.po | 
+ | [fr](/f40/language/fr) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/fr.po/mnt/stockage/packages/f40/wcd/src/po-man/fr.po | 
+ | [fur](/f40/language/fur) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/fur.po | 
+ | [pt_BR](/f40/language/pt_BR) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/pt_BR.po/mnt/stockage/packages/f40/wcd/src/po-man/pt_BR.po | 
+ | [ro](/f40/language/ro) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/ro.po/mnt/stockage/packages/f40/wcd/src/po-man/ro.po | 
+ | [sr](/f40/language/sr) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/sr.po/mnt/stockage/packages/f40/wcd/src/po-man/sr.po | 
+ | [sv](/f40/language/sv) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/sv.po/mnt/stockage/packages/f40/wcd/src/po-man/sv.po | 
+ | [uk](/f40/language/uk) | 8133 | 8133 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/uk.po/mnt/stockage/packages/f40/wcd/src/po-man/uk.po | 
+ | [vi](/f40/language/vi) | 1425 | 1425 | 100.0 | /mnt/stockage/packages/f40/wcd/src/po/vi.po | 
+ | [nl](/f40/language/nl) | 8116 | 8133 | 99.8 | /mnt/stockage/packages/f40/wcd/src/po/nl.po/mnt/stockage/packages/f40/wcd/src/po-man/nl.po | 
+ | [fi](/f40/language/fi) | 1392 | 1425 | 97.7 | /mnt/stockage/packages/f40/wcd/src/po/fi.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1315 | 1425 | 92.3 | /mnt/stockage/packages/f40/wcd/src/po/zh_CN.po | 
 {.sortable}
 
 

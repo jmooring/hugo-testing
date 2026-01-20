@@ -18,19 +18,19 @@ The package sssd (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f13/language/es.md" >}}) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/sssd/src/po/es.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/sssd/src/po/pl.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/sssd/src/po/uk.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 1156 | 1276 | 90.6 | /mnt/stockage/packages/f13/sssd/src/po/pt.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 1062 | 1276 | 83.2 | /mnt/stockage/packages/f13/sssd/src/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1048 | 1276 | 82.1 | /mnt/stockage/packages/f13/sssd/src/po/ru.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 826 | 1276 | 64.7 | /mnt/stockage/packages/f13/sssd/src/po/sv.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 674 | 1276 | 52.8 | /mnt/stockage/packages/f13/sssd/src/po/zh_TW.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 656 | 1276 | 51.4 | /mnt/stockage/packages/f13/sssd/src/po/id.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 36 | 1276 | 2.8 | /mnt/stockage/packages/f13/sssd/src/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 10 | 1276 | 0.8 | /mnt/stockage/packages/f13/sssd/src/po/fr.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 10 | 1276 | 0.8 | /mnt/stockage/packages/f13/sssd/src/po/nl.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 0 | 1276 | 0.0 | /mnt/stockage/packages/f13/sssd/src/po/ja.po | 
+ | [es](/f13/language/es) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/sssd/src/po/es.po | 
+ | [pl](/f13/language/pl) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/sssd/src/po/pl.po | 
+ | [uk](/f13/language/uk) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f13/sssd/src/po/uk.po | 
+ | [pt](/f13/language/pt) | 1156 | 1276 | 90.6 | /mnt/stockage/packages/f13/sssd/src/po/pt.po | 
+ | [it](/f13/language/it) | 1062 | 1276 | 83.2 | /mnt/stockage/packages/f13/sssd/src/po/it.po | 
+ | [ru](/f13/language/ru) | 1048 | 1276 | 82.1 | /mnt/stockage/packages/f13/sssd/src/po/ru.po | 
+ | [sv](/f13/language/sv) | 826 | 1276 | 64.7 | /mnt/stockage/packages/f13/sssd/src/po/sv.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 674 | 1276 | 52.8 | /mnt/stockage/packages/f13/sssd/src/po/zh_TW.po | 
+ | [id](/f13/language/id) | 656 | 1276 | 51.4 | /mnt/stockage/packages/f13/sssd/src/po/id.po | 
+ | [de](/f13/language/de) | 36 | 1276 | 2.8 | /mnt/stockage/packages/f13/sssd/src/po/de.po | 
+ | [fr](/f13/language/fr) | 10 | 1276 | 0.8 | /mnt/stockage/packages/f13/sssd/src/po/fr.po | 
+ | [nl](/f13/language/nl) | 10 | 1276 | 0.8 | /mnt/stockage/packages/f13/sssd/src/po/nl.po | 
+ | [ja](/f13/language/ja) | 0 | 1276 | 0.0 | /mnt/stockage/packages/f13/sssd/src/po/ja.po | 
 {.sortable}
 
 

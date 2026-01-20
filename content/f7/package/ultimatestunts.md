@@ -18,11 +18,11 @@ The package ultimatestunts (version 0.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/ultimatestunts/po/fr_FR.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/ultimatestunts/po/hu.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/ultimatestunts/po/nl.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 419 | 423 | 99.1 | /mnt/stockage/packages/f7/ultimatestunts/po/de.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 372 | 423 | 87.9 | /mnt/stockage/packages/f7/ultimatestunts/po/pt_BR.po | 
+ | [fr](/f7/language/fr) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/ultimatestunts/po/fr_FR.po | 
+ | [hu](/f7/language/hu) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/ultimatestunts/po/hu.po | 
+ | [nl](/f7/language/nl) | 423 | 423 | 100.0 | /mnt/stockage/packages/f7/ultimatestunts/po/nl.po | 
+ | [de](/f7/language/de) | 419 | 423 | 99.1 | /mnt/stockage/packages/f7/ultimatestunts/po/de.po | 
+ | [pt_BR](/f7/language/pt_BR) | 372 | 423 | 87.9 | /mnt/stockage/packages/f7/ultimatestunts/po/pt_BR.po | 
 {.sortable}
 
 

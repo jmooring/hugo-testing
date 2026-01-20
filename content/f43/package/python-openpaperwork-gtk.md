@@ -18,14 +18,14 @@ The package python-openpaperwork-gtk (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 177 | 177 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/ca.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/de.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 190 | 190 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/fr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/sv.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 167 | 167 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/zh_Hans.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 177 | 190 | 93.2 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/oc.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 108 | 190 | 56.8 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/es.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 0 | 190 | 0.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/uk.po | 
+ | [ca](/f43/language/ca) | 177 | 177 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/ca.po | 
+ | [de](/f43/language/de) | 190 | 190 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/de.po | 
+ | [fr](/f43/language/fr) | 190 | 190 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/fr.po | 
+ | [sv](/f43/language/sv) | 167 | 167 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/sv.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 167 | 167 | 100.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/zh_Hans.po | 
+ | [oc](/f43/language/oc) | 177 | 190 | 93.2 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/oc.po | 
+ | [es](/f43/language/es) | 108 | 190 | 56.8 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/es.po | 
+ | [uk](/f43/language/uk) | 0 | 190 | 0.0 | /mnt/stockage/packages/f43/python-openpaperwork-gtk/l10n/uk.po | 
 {.sortable}
 
 

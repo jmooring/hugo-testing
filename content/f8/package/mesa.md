@@ -18,11 +18,11 @@ The package mesa (version 7.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [de](/f8/language/de) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f8/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f8/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f8/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f8/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f8/mesa/src/mesa/drivers/dri/common/xmlpool/sv.po | 
 {.sortable}
 
 

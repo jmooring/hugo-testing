@@ -18,10 +18,10 @@ The package dos2unix (version 5.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f17/dos2unix/po/de.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 932 | 1356 | 68.7 | /mnt/stockage/packages/f17/dos2unix/po/eo.po/mnt/stockage/packages/f17/dos2unix/po/eo-x.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 466 | 678 | 68.7 | /mnt/stockage/packages/f17/dos2unix/po/es.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 466 | 678 | 68.7 | /mnt/stockage/packages/f17/dos2unix/po/nl.po | 
+ | [de](/f17/language/de) | 678 | 678 | 100.0 | /mnt/stockage/packages/f17/dos2unix/po/de.po | 
+ | [eo](/f17/language/eo) | 932 | 1356 | 68.7 | /mnt/stockage/packages/f17/dos2unix/po/eo.po/mnt/stockage/packages/f17/dos2unix/po/eo-x.po | 
+ | [es](/f17/language/es) | 466 | 678 | 68.7 | /mnt/stockage/packages/f17/dos2unix/po/es.po | 
+ | [nl](/f17/language/nl) | 466 | 678 | 68.7 | /mnt/stockage/packages/f17/dos2unix/po/nl.po | 
 {.sortable}
 
 

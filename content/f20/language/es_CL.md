@@ -38,25 +38,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [0ad]({{< ref "/f20/package/0ad.md" >}}) | 17 | 17 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/0ad/language/es_CL/) | 
- | [libmatekeyring]({{< ref "/f20/package/libmatekeyring.md" >}}) | 44 | 44 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [mate-file-manager-image-converter]({{< ref "/f20/package/mate-file-manager-image-converter.md" >}}) | 74 | 74 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [mate-icon-theme]({{< ref "/f20/package/mate-icon-theme.md" >}}) | 4 | 4 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [mate-menu-editor]({{< ref "/f20/package/mate-menu-editor.md" >}}) | 42 | 42 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [mozo]({{< ref "/f20/package/mozo.md" >}}) | 42 | 42 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [libgweather]({{< ref "/f20/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [rabbitvcs]({{< ref "/f20/package/rabbitvcs.md" >}}) | 859 | 931 | 92.3 | Spanish | 
- | [python-kiwi]({{< ref "/f20/package/python-kiwi.md" >}}) | 208 | 230 | 90.4 | Español/Chile <es@li.org> | 
- | [mate-applets]({{< ref "/f20/package/mate-applets.md" >}}) | 1906 | 2283 | 83.5 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [libmateweather]({{< ref "/f20/package/libmateweather.md" >}}) | 384 | 487 | 78.9 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [mate-notification-daemon]({{< ref "/f20/package/mate-notification-daemon.md" >}}) | 114 | 152 | 75.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
- | [zif]({{< ref "/f20/package/zif.md" >}}) | 602 | 920 | 65.4 | LANGUAGE <LL@li.org> | 
- | [zathura]({{< ref "/f20/package/zathura.md" >}}) | 242 | 540 | 44.8 | Spanish (Chile) (http://www.transifex.net/projects/p/zathura/language/es_CL/) | 
- | [wicd]({{< ref "/f20/package/wicd.md" >}}) | 285 | 1138 | 25.0 | es_CL <LL@li.org> | 
- | [openerp]({{< ref "/f20/package/openerp.md" >}}) | 7505 | 36251 | 20.7 | Spanish (Chile) <es_CL@li.org> | 
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 5068 | 35618 | 14.2 | Spanish (Chile) <es_CL@li.org> | 
- | [mingw-p11-kit]({{< ref "/f20/package/mingw-p11-kit.md" >}}) | 0 | 476 | 0.0 | Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/) | 
- | [p11-kit]({{< ref "/f20/package/p11-kit.md" >}}) | 0 | 476 | 0.0 | Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/) | 
+ | [0ad](/f20/package/0ad) | 17 | 17 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/0ad/language/es_CL/) | 
+ | [libmatekeyring](/f20/package/libmatekeyring) | 44 | 44 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [mate-file-manager-image-converter](/f20/package/mate-file-manager-image-converter) | 74 | 74 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [mate-icon-theme](/f20/package/mate-icon-theme) | 4 | 4 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [mate-menu-editor](/f20/package/mate-menu-editor) | 42 | 42 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [mozo](/f20/package/mozo) | 42 | 42 | 100.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [libgweather](/f20/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [rabbitvcs](/f20/package/rabbitvcs) | 859 | 931 | 92.3 | Spanish | 
+ | [python-kiwi](/f20/package/python-kiwi) | 208 | 230 | 90.4 | Español/Chile <es@li.org> | 
+ | [mate-applets](/f20/package/mate-applets) | 1906 | 2283 | 83.5 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [libmateweather](/f20/package/libmateweather) | 384 | 487 | 78.9 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [mate-notification-daemon](/f20/package/mate-notification-daemon) | 114 | 152 | 75.0 | Spanish (Chile) (http://www.transifex.com/projects/p/MATE/language/es_CL/) | 
+ | [zif](/f20/package/zif) | 602 | 920 | 65.4 | LANGUAGE <LL@li.org> | 
+ | [zathura](/f20/package/zathura) | 242 | 540 | 44.8 | Spanish (Chile) (http://www.transifex.net/projects/p/zathura/language/es_CL/) | 
+ | [wicd](/f20/package/wicd) | 285 | 1138 | 25.0 | es_CL <LL@li.org> | 
+ | [openerp](/f20/package/openerp) | 7505 | 36251 | 20.7 | Spanish (Chile) <es_CL@li.org> | 
+ | [openerp7](/f20/package/openerp7) | 5068 | 35618 | 14.2 | Spanish (Chile) <es_CL@li.org> | 
+ | [mingw-p11-kit](/f20/package/mingw-p11-kit) | 0 | 476 | 0.0 | Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/) | 
+ | [p11-kit](/f20/package/p11-kit) | 0 | 476 | 0.0 | Spanish (Chile) (http://www.transifex.com/projects/p/freedesktop/language/es_CL/) | 
 {.sortable}
 
 

@@ -18,29 +18,29 @@ The package mcomix (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f23/language/de.md" >}}) | 2545 | 2567 | 99.1 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/de/LC_MESSAGES/mcomix.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 2545 | 2567 | 99.1 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/fr/LC_MESSAGES/mcomix.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 2483 | 2567 | 96.7 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/zh_TW/LC_MESSAGES/mcomix.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 2413 | 2567 | 94.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/it/LC_MESSAGES/mcomix.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 2206 | 2567 | 85.9 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/es/LC_MESSAGES/mcomix.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 1941 | 2567 | 75.6 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ja/LC_MESSAGES/mcomix.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 1936 | 2567 | 75.4 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/he/LC_MESSAGES/mcomix.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1823 | 2567 | 71.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/zh_CN/LC_MESSAGES/mcomix.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 1630 | 2567 | 63.5 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ru/LC_MESSAGES/mcomix.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 1033 | 2567 | 40.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/sv/LC_MESSAGES/mcomix.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 859 | 2567 | 33.5 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ko/LC_MESSAGES/mcomix.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 566 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/uk/LC_MESSAGES/mcomix.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ca/LC_MESSAGES/mcomix.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/cs/LC_MESSAGES/mcomix.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/gl/LC_MESSAGES/mcomix.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/hu/LC_MESSAGES/mcomix.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/pl/LC_MESSAGES/mcomix.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 545 | 2567 | 21.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/hr/LC_MESSAGES/mcomix.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 545 | 2567 | 21.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/id/LC_MESSAGES/mcomix.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 545 | 2567 | 21.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/pt_BR/LC_MESSAGES/mcomix.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 171 | 2567 | 6.7 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/fa/LC_MESSAGES/mcomix.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 163 | 2567 | 6.3 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/el/LC_MESSAGES/mcomix.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 163 | 2567 | 6.3 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/nl/LC_MESSAGES/mcomix.po | 
+ | [de](/f23/language/de) | 2545 | 2567 | 99.1 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/de/LC_MESSAGES/mcomix.po | 
+ | [fr](/f23/language/fr) | 2545 | 2567 | 99.1 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/fr/LC_MESSAGES/mcomix.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 2483 | 2567 | 96.7 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/zh_TW/LC_MESSAGES/mcomix.po | 
+ | [it](/f23/language/it) | 2413 | 2567 | 94.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/it/LC_MESSAGES/mcomix.po | 
+ | [es](/f23/language/es) | 2206 | 2567 | 85.9 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/es/LC_MESSAGES/mcomix.po | 
+ | [ja](/f23/language/ja) | 1941 | 2567 | 75.6 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ja/LC_MESSAGES/mcomix.po | 
+ | [he](/f23/language/he) | 1936 | 2567 | 75.4 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/he/LC_MESSAGES/mcomix.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1823 | 2567 | 71.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/zh_CN/LC_MESSAGES/mcomix.po | 
+ | [ru](/f23/language/ru) | 1630 | 2567 | 63.5 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ru/LC_MESSAGES/mcomix.po | 
+ | [sv](/f23/language/sv) | 1033 | 2567 | 40.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/sv/LC_MESSAGES/mcomix.po | 
+ | [ko](/f23/language/ko) | 859 | 2567 | 33.5 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ko/LC_MESSAGES/mcomix.po | 
+ | [uk](/f23/language/uk) | 566 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/uk/LC_MESSAGES/mcomix.po | 
+ | [ca](/f23/language/ca) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/ca/LC_MESSAGES/mcomix.po | 
+ | [cs](/f23/language/cs) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/cs/LC_MESSAGES/mcomix.po | 
+ | [gl](/f23/language/gl) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/gl/LC_MESSAGES/mcomix.po | 
+ | [hu](/f23/language/hu) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/hu/LC_MESSAGES/mcomix.po | 
+ | [pl](/f23/language/pl) | 564 | 2567 | 22.0 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/pl/LC_MESSAGES/mcomix.po | 
+ | [hr](/f23/language/hr) | 545 | 2567 | 21.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/hr/LC_MESSAGES/mcomix.po | 
+ | [id](/f23/language/id) | 545 | 2567 | 21.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/id/LC_MESSAGES/mcomix.po | 
+ | [pt_BR](/f23/language/pt_BR) | 545 | 2567 | 21.2 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/pt_BR/LC_MESSAGES/mcomix.po | 
+ | [fa](/f23/language/fa) | 171 | 2567 | 6.7 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/fa/LC_MESSAGES/mcomix.po | 
+ | [el](/f23/language/el) | 163 | 2567 | 6.3 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/el/LC_MESSAGES/mcomix.po | 
+ | [nl](/f23/language/nl) | 163 | 2567 | 6.3 | /mnt/stockage/packages/f23/mcomix/mcomix/messages/nl/LC_MESSAGES/mcomix.po | 
 {.sortable}
 
 

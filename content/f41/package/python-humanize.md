@@ -18,38 +18,38 @@ The package python-humanize (version 4.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f41/language/da.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/da_DK/LC_MESSAGES/humanize.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/es_ES/LC_MESSAGES/humanize.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/he_IL/LC_MESSAGES/humanize.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/nb/LC_MESSAGES/humanize.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/pl_PL/LC_MESSAGES/humanize.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ru_RU/LC_MESSAGES/humanize.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/sl_SI/LC_MESSAGES/humanize.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/sv_SE/LC_MESSAGES/humanize.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/tr_TR/LC_MESSAGES/humanize.po | 
- | [zh_Hant_HK]({{< ref "/f41/language/zh_Hant_HK.md" >}}) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/zh_HK/LC_MESSAGES/humanize.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 130 | 132 | 98.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ar/LC_MESSAGES/humanize.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 130 | 132 | 98.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ca_ES/LC_MESSAGES/humanize.po | 
- | [pt_PT]({{< ref "/f41/language/pt_PT.md" >}}) | 130 | 132 | 98.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/pt_PT/LC_MESSAGES/humanize.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 256 | 264 | 97.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/fa_IR/LC_MESSAGES/humanize.po/mnt/stockage/packages/f41/python-humanize/src/humanize/locale/de_DE/LC_MESSAGES/humanize.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 128 | 132 | 97.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/eo/LC_MESSAGES/humanize.po | 
- | [bn_BD]({{< ref "/f41/language/bn_BD.md" >}}) | 124 | 130 | 95.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/bn_BD/LC_MESSAGES/humanize.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/fi_FI/LC_MESSAGES/humanize.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/hu_HU/LC_MESSAGES/humanize.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/it_IT/LC_MESSAGES/humanize.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/uk_UA/LC_MESSAGES/humanize.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 122 | 132 | 92.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/id_ID/LC_MESSAGES/humanize.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 122 | 132 | 92.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/nl_NL/LC_MESSAGES/humanize.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 122 | 132 | 92.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/pt_BR/LC_MESSAGES/humanize.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 120 | 132 | 90.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/eu/LC_MESSAGES/humanize.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 120 | 132 | 90.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/zh_CN/LC_MESSAGES/humanize.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 119 | 132 | 90.2 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/sk_SK/LC_MESSAGES/humanize.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 118 | 132 | 89.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/vi_VN/LC_MESSAGES/humanize.po | 
- | [tlh]({{< ref "/f41/language/tlh.md" >}}) | 114 | 132 | 86.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/tlh/LC_MESSAGES/humanize.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 104 | 132 | 78.8 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/el_GR/LC_MESSAGES/humanize.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 102 | 132 | 77.3 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/fr_FR/LC_MESSAGES/humanize.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 97 | 132 | 73.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ja_JP/LC_MESSAGES/humanize.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 88 | 132 | 66.7 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ko_KR/LC_MESSAGES/humanize.po | 
+ | [da](/f41/language/da) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/da_DK/LC_MESSAGES/humanize.po | 
+ | [es](/f41/language/es) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/es_ES/LC_MESSAGES/humanize.po | 
+ | [he](/f41/language/he) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/he_IL/LC_MESSAGES/humanize.po | 
+ | [nb_NO](/f41/language/nb_NO) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/nb/LC_MESSAGES/humanize.po | 
+ | [pl](/f41/language/pl) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/pl_PL/LC_MESSAGES/humanize.po | 
+ | [ru](/f41/language/ru) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ru_RU/LC_MESSAGES/humanize.po | 
+ | [sl](/f41/language/sl) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/sl_SI/LC_MESSAGES/humanize.po | 
+ | [sv](/f41/language/sv) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/sv_SE/LC_MESSAGES/humanize.po | 
+ | [tr](/f41/language/tr) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/tr_TR/LC_MESSAGES/humanize.po | 
+ | [zh_Hant_HK](/f41/language/zh_Hant_HK) | 132 | 132 | 100.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/zh_HK/LC_MESSAGES/humanize.po | 
+ | [ar](/f41/language/ar) | 130 | 132 | 98.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ar/LC_MESSAGES/humanize.po | 
+ | [ca](/f41/language/ca) | 130 | 132 | 98.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ca_ES/LC_MESSAGES/humanize.po | 
+ | [pt_PT](/f41/language/pt_PT) | 130 | 132 | 98.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/pt_PT/LC_MESSAGES/humanize.po | 
+ | [de](/f41/language/de) | 256 | 264 | 97.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/fa_IR/LC_MESSAGES/humanize.po/mnt/stockage/packages/f41/python-humanize/src/humanize/locale/de_DE/LC_MESSAGES/humanize.po | 
+ | [eo](/f41/language/eo) | 128 | 132 | 97.0 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/eo/LC_MESSAGES/humanize.po | 
+ | [bn_BD](/f41/language/bn_BD) | 124 | 130 | 95.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/bn_BD/LC_MESSAGES/humanize.po | 
+ | [fi](/f41/language/fi) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/fi_FI/LC_MESSAGES/humanize.po | 
+ | [hu](/f41/language/hu) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/hu_HU/LC_MESSAGES/humanize.po | 
+ | [it](/f41/language/it) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/it_IT/LC_MESSAGES/humanize.po | 
+ | [uk](/f41/language/uk) | 124 | 132 | 93.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/uk_UA/LC_MESSAGES/humanize.po | 
+ | [id](/f41/language/id) | 122 | 132 | 92.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/id_ID/LC_MESSAGES/humanize.po | 
+ | [nl](/f41/language/nl) | 122 | 132 | 92.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/nl_NL/LC_MESSAGES/humanize.po | 
+ | [pt_BR](/f41/language/pt_BR) | 122 | 132 | 92.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/pt_BR/LC_MESSAGES/humanize.po | 
+ | [eu](/f41/language/eu) | 120 | 132 | 90.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/eu/LC_MESSAGES/humanize.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 120 | 132 | 90.9 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/zh_CN/LC_MESSAGES/humanize.po | 
+ | [sk](/f41/language/sk) | 119 | 132 | 90.2 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/sk_SK/LC_MESSAGES/humanize.po | 
+ | [vi](/f41/language/vi) | 118 | 132 | 89.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/vi_VN/LC_MESSAGES/humanize.po | 
+ | [tlh](/f41/language/tlh) | 114 | 132 | 86.4 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/tlh/LC_MESSAGES/humanize.po | 
+ | [el](/f41/language/el) | 104 | 132 | 78.8 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/el_GR/LC_MESSAGES/humanize.po | 
+ | [fr](/f41/language/fr) | 102 | 132 | 77.3 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/fr_FR/LC_MESSAGES/humanize.po | 
+ | [ja](/f41/language/ja) | 97 | 132 | 73.5 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ja_JP/LC_MESSAGES/humanize.po | 
+ | [ko](/f41/language/ko) | 88 | 132 | 66.7 | /mnt/stockage/packages/f41/python-humanize/src/humanize/locale/ko_KR/LC_MESSAGES/humanize.po | 
 {.sortable}
 
 

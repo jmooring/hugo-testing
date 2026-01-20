@@ -18,63 +18,63 @@ The package kdnssd (version 21.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ar/kio5_zeroconf.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/bg/kio5_zeroconf.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ca/kio5_zeroconf.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ca@valencia/kio5_zeroconf.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/cs/kio5_zeroconf.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/da/kio5_zeroconf.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/de/kio5_zeroconf.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/el/kio5_zeroconf.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/en_GB/kio5_zeroconf.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/es/kio5_zeroconf.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/et/kio5_zeroconf.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/eu/kio5_zeroconf.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/fi/kio5_zeroconf.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/fr/kio5_zeroconf.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/gl/kio5_zeroconf.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/hi/kio5_zeroconf.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/hu/kio5_zeroconf.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ia/kio5_zeroconf.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/it/kio5_zeroconf.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ko/kio5_zeroconf.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/lt/kio5_zeroconf.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/nl/kio5_zeroconf.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/nn/kio5_zeroconf.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/pl/kio5_zeroconf.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/pt/kio5_zeroconf.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/pt_BR/kio5_zeroconf.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ro/kio5_zeroconf.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ru/kio5_zeroconf.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sk/kio5_zeroconf.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sl/kio5_zeroconf.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sr/kio5_zeroconf.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sv/kio5_zeroconf.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/tr/kio5_zeroconf.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/uk/kio5_zeroconf.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/zh_CN/kio5_zeroconf.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/zh_TW/kio5_zeroconf.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/bs/kio5_zeroconf.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/ga/kio5_zeroconf.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/hr/kio5_zeroconf.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/is/kio5_zeroconf.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/ja/kio5_zeroconf.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/kk/kio5_zeroconf.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/km/kio5_zeroconf.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/lv/kio5_zeroconf.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/ml/kio5_zeroconf.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/mr/kio5_zeroconf.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/nb/kio5_zeroconf.po | 
- | [nds]({{< ref "/f35/language/nds.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/nds/kio5_zeroconf.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/pa/kio5_zeroconf.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/sq/kio5_zeroconf.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 14 | 30 | 46.7 | /mnt/stockage/packages/f35/kdnssd/po/ug/kio5_zeroconf.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 7 | 30 | 23.3 | /mnt/stockage/packages/f35/kdnssd/po/fa/kio5_zeroconf.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 7 | 30 | 23.3 | /mnt/stockage/packages/f35/kdnssd/po/vi/kio5_zeroconf.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/be/kio5_zeroconf.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/eo/kio5_zeroconf.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/se/kio5_zeroconf.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/ta/kio5_zeroconf.po | 
+ | [ar](/f35/language/ar) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ar/kio5_zeroconf.po | 
+ | [bg](/f35/language/bg) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/bg/kio5_zeroconf.po | 
+ | [ca](/f35/language/ca) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ca/kio5_zeroconf.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ca@valencia/kio5_zeroconf.po | 
+ | [cs](/f35/language/cs) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/cs/kio5_zeroconf.po | 
+ | [da](/f35/language/da) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/da/kio5_zeroconf.po | 
+ | [de](/f35/language/de) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/de/kio5_zeroconf.po | 
+ | [el](/f35/language/el) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/el/kio5_zeroconf.po | 
+ | [en_GB](/f35/language/en_GB) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/en_GB/kio5_zeroconf.po | 
+ | [es](/f35/language/es) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/es/kio5_zeroconf.po | 
+ | [et](/f35/language/et) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/et/kio5_zeroconf.po | 
+ | [eu](/f35/language/eu) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/eu/kio5_zeroconf.po | 
+ | [fi](/f35/language/fi) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/fi/kio5_zeroconf.po | 
+ | [fr](/f35/language/fr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/fr/kio5_zeroconf.po | 
+ | [gl](/f35/language/gl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/gl/kio5_zeroconf.po | 
+ | [hi](/f35/language/hi) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/hi/kio5_zeroconf.po | 
+ | [hu](/f35/language/hu) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/hu/kio5_zeroconf.po | 
+ | [ia](/f35/language/ia) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ia/kio5_zeroconf.po | 
+ | [it](/f35/language/it) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/it/kio5_zeroconf.po | 
+ | [ko](/f35/language/ko) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ko/kio5_zeroconf.po | 
+ | [lt](/f35/language/lt) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/lt/kio5_zeroconf.po | 
+ | [nl](/f35/language/nl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/nl/kio5_zeroconf.po | 
+ | [nn](/f35/language/nn) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/nn/kio5_zeroconf.po | 
+ | [pl](/f35/language/pl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/pl/kio5_zeroconf.po | 
+ | [pt](/f35/language/pt) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/pt/kio5_zeroconf.po | 
+ | [pt_BR](/f35/language/pt_BR) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/pt_BR/kio5_zeroconf.po | 
+ | [ro](/f35/language/ro) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ro/kio5_zeroconf.po | 
+ | [ru](/f35/language/ru) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/ru/kio5_zeroconf.po | 
+ | [sk](/f35/language/sk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sk/kio5_zeroconf.po | 
+ | [sl](/f35/language/sl) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sl/kio5_zeroconf.po | 
+ | [sr](/f35/language/sr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sr/kio5_zeroconf.po | 
+ | [sv](/f35/language/sv) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/sv/kio5_zeroconf.po | 
+ | [tr](/f35/language/tr) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/tr/kio5_zeroconf.po | 
+ | [uk](/f35/language/uk) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/uk/kio5_zeroconf.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/zh_CN/kio5_zeroconf.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 30 | 30 | 100.0 | /mnt/stockage/packages/f35/kdnssd/po/zh_TW/kio5_zeroconf.po | 
+ | [bs](/f35/language/bs) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/bs/kio5_zeroconf.po | 
+ | [ga](/f35/language/ga) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/ga/kio5_zeroconf.po | 
+ | [hr](/f35/language/hr) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/hr/kio5_zeroconf.po | 
+ | [is](/f35/language/is) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/is/kio5_zeroconf.po | 
+ | [ja](/f35/language/ja) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/ja/kio5_zeroconf.po | 
+ | [kk](/f35/language/kk) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/kk/kio5_zeroconf.po | 
+ | [km](/f35/language/km) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/km/kio5_zeroconf.po | 
+ | [lv](/f35/language/lv) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/lv/kio5_zeroconf.po | 
+ | [ml](/f35/language/ml) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/ml/kio5_zeroconf.po | 
+ | [mr](/f35/language/mr) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/mr/kio5_zeroconf.po | 
+ | [nb_NO](/f35/language/nb_NO) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/nb/kio5_zeroconf.po | 
+ | [nds](/f35/language/nds) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/nds/kio5_zeroconf.po | 
+ | [pa](/f35/language/pa) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/pa/kio5_zeroconf.po | 
+ | [sq](/f35/language/sq) | 21 | 30 | 70.0 | /mnt/stockage/packages/f35/kdnssd/po/sq/kio5_zeroconf.po | 
+ | [ug](/f35/language/ug) | 14 | 30 | 46.7 | /mnt/stockage/packages/f35/kdnssd/po/ug/kio5_zeroconf.po | 
+ | [fa](/f35/language/fa) | 7 | 30 | 23.3 | /mnt/stockage/packages/f35/kdnssd/po/fa/kio5_zeroconf.po | 
+ | [vi](/f35/language/vi) | 7 | 30 | 23.3 | /mnt/stockage/packages/f35/kdnssd/po/vi/kio5_zeroconf.po | 
+ | [be](/f35/language/be) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/be/kio5_zeroconf.po | 
+ | [eo](/f35/language/eo) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/eo/kio5_zeroconf.po | 
+ | [se](/f35/language/se) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/se/kio5_zeroconf.po | 
+ | [ta](/f35/language/ta) | 0 | 30 | 0.0 | /mnt/stockage/packages/f35/kdnssd/po/ta/kio5_zeroconf.po | 
 {.sortable}
 
 

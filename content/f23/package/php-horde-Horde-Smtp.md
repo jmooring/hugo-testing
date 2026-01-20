@@ -18,10 +18,10 @@ The package php-horde-Horde-Smtp (version 1.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f23/language/da.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/da/LC_MESSAGES/Horde_Smtp.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/es/LC_MESSAGES/Horde_Smtp.po/mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/el/LC_MESSAGES/Horde_Smtp.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/hu/LC_MESSAGES/Horde_Smtp.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/ja/LC_MESSAGES/Horde_Smtp.po | 
+ | [da](/f23/language/da) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/da/LC_MESSAGES/Horde_Smtp.po | 
+ | [es](/f23/language/es) | 154 | 154 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/es/LC_MESSAGES/Horde_Smtp.po/mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/el/LC_MESSAGES/Horde_Smtp.po | 
+ | [hu](/f23/language/hu) | 51 | 51 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/hu/LC_MESSAGES/Horde_Smtp.po | 
+ | [ja](/f23/language/ja) | 77 | 77 | 100.0 | /mnt/stockage/packages/f23/php-horde-Horde-Smtp/Horde_Smtp-1.9.3/locale/ja/LC_MESSAGES/Horde_Smtp.po | 
 {.sortable}
 
 

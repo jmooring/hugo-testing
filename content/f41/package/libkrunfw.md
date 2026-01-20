@@ -18,12 +18,12 @@ The package libkrunfw (version 4.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/cs.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/de.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/fr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/it.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/ka.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/pt.po | 
+ | [cs](/f41/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/cs.po | 
+ | [de](/f41/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/de.po | 
+ | [fr](/f41/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/fr.po | 
+ | [it](/f41/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/it.po | 
+ | [ka](/f41/language/ka) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/ka.po | 
+ | [pt](/f41/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f41/libkrunfw/tools/power/cpupower/po/pt.po | 
 {.sortable}
 
 

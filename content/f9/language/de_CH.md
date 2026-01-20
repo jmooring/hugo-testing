@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnucash]({{< ref "/f9/package/gnucash.md" >}}) | 24163 | 24163 | 100.0 | Swiss German <de_CH@li.org> | 
- | [abiword]({{< ref "/f9/package/abiword.md" >}}) | 3127 | 4644 | 67.3 | unknown <email@address> | 
- | [pgadmin3]({{< ref "/f9/package/pgadmin3.md" >}}) | 2152 | 7331 | 29.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
- | [gnomebaker]({{< ref "/f9/package/gnomebaker.md" >}}) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
- | [fuse-encfs]({{< ref "/f9/package/fuse-encfs.md" >}}) | 265 | 1310 | 20.2 | German (Switzerland) <de_CH@li.org> | 
+ | [gnucash](/f9/package/gnucash) | 24163 | 24163 | 100.0 | Swiss German <de_CH@li.org> | 
+ | [abiword](/f9/package/abiword) | 3127 | 4644 | 67.3 | unknown <email@address> | 
+ | [pgadmin3](/f9/package/pgadmin3) | 2152 | 7331 | 29.4 | pgAdmin Developers <pgadmin-hackers@postgresql.org> | 
+ | [gnomebaker](/f9/package/gnomebaker) | 271 | 1186 | 22.8 | German (Switzerland) <de_CH@li.org> | 
+ | [fuse-encfs](/f9/package/fuse-encfs) | 265 | 1310 | 20.2 | German (Switzerland) <de_CH@li.org> | 
 {.sortable}
 
 

@@ -18,34 +18,34 @@ The package squeekboard (version 1.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ca.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 2 | 2 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/de.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/el.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/es.po | 
- | [fa]({{< ref "/f38/language/fa.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fa.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fi.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fr.po | 
- | [fur]({{< ref "/f38/language/fur.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fur.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/gl.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/he.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/hr.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/hu.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/it.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ka.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ko.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/nl.po | 
- | [oc]({{< ref "/f38/language/oc.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/oc.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/pt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/pt_BR.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ro.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ru.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/sl.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/sr.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/tr.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/zh_CN.po | 
+ | [ca](/f38/language/ca) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ca.po | 
+ | [de](/f38/language/de) | 2 | 2 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/de.po | 
+ | [el](/f38/language/el) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/el.po | 
+ | [es](/f38/language/es) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/es.po | 
+ | [fa](/f38/language/fa) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fa.po | 
+ | [fi](/f38/language/fi) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fi.po | 
+ | [fr](/f38/language/fr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fr.po | 
+ | [fur](/f38/language/fur) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/fur.po | 
+ | [gl](/f38/language/gl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/gl.po | 
+ | [he](/f38/language/he) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/he.po | 
+ | [hr](/f38/language/hr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/hr.po | 
+ | [hu](/f38/language/hu) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/hu.po | 
+ | [it](/f38/language/it) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/it.po | 
+ | [ka](/f38/language/ka) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ka.po | 
+ | [ko](/f38/language/ko) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ko.po | 
+ | [nl](/f38/language/nl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/nl.po | 
+ | [oc](/f38/language/oc) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/oc.po | 
+ | [pl](/f38/language/pl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/pl.po | 
+ | [pt](/f38/language/pt) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/pt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/pt_BR.po | 
+ | [ro](/f38/language/ro) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ro.po | 
+ | [ru](/f38/language/ru) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/ru.po | 
+ | [sl](/f38/language/sl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/sl.po | 
+ | [sr](/f38/language/sr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/sr.po | 
+ | [sv](/f38/language/sv) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/sv.po | 
+ | [tr](/f38/language/tr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/tr.po | 
+ | [uk](/f38/language/uk) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 13 | 13 | 100.0 | /mnt/stockage/packages/f38/squeekboard/po/zh_CN.po | 
 {.sortable}
 
 

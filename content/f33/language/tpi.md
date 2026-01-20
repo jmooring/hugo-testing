@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mate-menu]({{< ref "/f33/package/mate-menu.md" >}}) | 34 | 308 | 11.0 | Tok Pisin <tpi@li.org> | 
- | [cinnamon-translations]({{< ref "/f33/package/cinnamon-translations.md" >}}) | 83 | 9072 | 0.9 | Tok Pisin <tpi@li.org> | 
- | [sugar-view-slides]({{< ref "/f33/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f33/package/sugar-visualmatch.md" >}}) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menu](/f33/package/mate-menu) | 34 | 308 | 11.0 | Tok Pisin <tpi@li.org> | 
+ | [cinnamon-translations](/f33/package/cinnamon-translations) | 83 | 9072 | 0.9 | Tok Pisin <tpi@li.org> | 
+ | [sugar-view-slides](/f33/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f33/package/sugar-visualmatch) | 0 | 131 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

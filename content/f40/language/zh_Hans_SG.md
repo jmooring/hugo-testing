@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mkvtoolnix]({{< ref "/f40/package/mkvtoolnix.md" >}}) | 24747 | 25532 | 96.9 | Chinese (Singapore) (http://app.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
- | [duplicity]({{< ref "/f40/package/duplicity.md" >}}) | 0 | 2377 | 0.0 | Chinese Traditional, Singapore | 
+ | [mkvtoolnix](/f40/package/mkvtoolnix) | 24747 | 25532 | 96.9 | Chinese (Singapore) (http://app.transifex.com/moritz-bunkus/mkvtoolnix/language/zh_SG/) | 
+ | [duplicity](/f40/package/duplicity) | 0 | 2377 | 0.0 | Chinese Traditional, Singapore | 
 {.sortable}
 
 

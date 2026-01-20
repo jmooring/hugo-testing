@@ -18,12 +18,12 @@ The package piklab (version 0.14.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 6048 | 6126 | 98.7 | /mnt/stockage/packages/f8/piklab/po/fr.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 5874 | 6126 | 95.9 | /mnt/stockage/packages/f8/piklab/po/cs.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 2274 | 6126 | 37.1 | /mnt/stockage/packages/f8/piklab/po/hu.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1751 | 6126 | 28.6 | /mnt/stockage/packages/f8/piklab/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1270 | 6126 | 20.7 | /mnt/stockage/packages/f8/piklab/po/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1143 | 6126 | 18.7 | /mnt/stockage/packages/f8/piklab/po/it.po | 
+ | [fr](/f8/language/fr) | 6048 | 6126 | 98.7 | /mnt/stockage/packages/f8/piklab/po/fr.po | 
+ | [cs](/f8/language/cs) | 5874 | 6126 | 95.9 | /mnt/stockage/packages/f8/piklab/po/cs.po | 
+ | [hu](/f8/language/hu) | 2274 | 6126 | 37.1 | /mnt/stockage/packages/f8/piklab/po/hu.po | 
+ | [de](/f8/language/de) | 1751 | 6126 | 28.6 | /mnt/stockage/packages/f8/piklab/po/de.po | 
+ | [es](/f8/language/es) | 1270 | 6126 | 20.7 | /mnt/stockage/packages/f8/piklab/po/es.po | 
+ | [it](/f8/language/it) | 1143 | 6126 | 18.7 | /mnt/stockage/packages/f8/piklab/po/it.po | 
 {.sortable}
 
 

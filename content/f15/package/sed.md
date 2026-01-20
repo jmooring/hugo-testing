@@ -18,42 +18,42 @@ The package sed (version 4.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/ca.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/cs.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/el.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/eo.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/es.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/fi.po | 
- | [ga]({{< ref "/f15/language/ga.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/ga.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/gl.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/it.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/pl.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/sk.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/sv.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/vi.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/zh_CN.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 457 | 581 | 78.7 | /mnt/stockage/packages/f15/sed/po/sr.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/de.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/et.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/fr.po | 
- | [ro]({{< ref "/f15/language/ro.md" >}}) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/ro.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/zh_TW.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 445 | 581 | 76.6 | /mnt/stockage/packages/f15/sed/po/hu.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 445 | 581 | 76.6 | /mnt/stockage/packages/f15/sed/po/ja.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 445 | 581 | 76.6 | /mnt/stockage/packages/f15/sed/po/tr.po | 
- | [af]({{< ref "/f15/language/af.md" >}}) | 156 | 581 | 26.9 | /mnt/stockage/packages/f15/sed/po/af.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 156 | 581 | 26.9 | /mnt/stockage/packages/f15/sed/po/da.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 137 | 581 | 23.6 | /mnt/stockage/packages/f15/sed/po/uk.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 79 | 581 | 13.6 | /mnt/stockage/packages/f15/sed/po/eu.po | 
- | [hr]({{< ref "/f15/language/hr.md" >}}) | 62 | 581 | 10.7 | /mnt/stockage/packages/f15/sed/po/hr.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 58 | 581 | 10.0 | /mnt/stockage/packages/f15/sed/po/he.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 58 | 581 | 10.0 | /mnt/stockage/packages/f15/sed/po/ko.po | 
+ | [ca](/f15/language/ca) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/ca.po | 
+ | [cs](/f15/language/cs) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/cs.po | 
+ | [el](/f15/language/el) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/el.po | 
+ | [eo](/f15/language/eo) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/eo.po | 
+ | [es](/f15/language/es) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/es.po | 
+ | [fi](/f15/language/fi) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/fi.po | 
+ | [ga](/f15/language/ga) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/ga.po | 
+ | [gl](/f15/language/gl) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/gl.po | 
+ | [id](/f15/language/id) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/id.po | 
+ | [it](/f15/language/it) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/it.po | 
+ | [nl](/f15/language/nl) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/nl.po | 
+ | [pl](/f15/language/pl) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/pl.po | 
+ | [pt](/f15/language/pt) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/ru.po | 
+ | [sk](/f15/language/sk) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/sk.po | 
+ | [sl](/f15/language/sl) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/sl.po | 
+ | [sv](/f15/language/sv) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/sv.po | 
+ | [vi](/f15/language/vi) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/vi.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 490 | 581 | 84.3 | /mnt/stockage/packages/f15/sed/po/zh_CN.po | 
+ | [sr](/f15/language/sr) | 457 | 581 | 78.7 | /mnt/stockage/packages/f15/sed/po/sr.po | 
+ | [de](/f15/language/de) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/de.po | 
+ | [et](/f15/language/et) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/et.po | 
+ | [fr](/f15/language/fr) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/fr.po | 
+ | [ro](/f15/language/ro) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/ro.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 454 | 581 | 78.1 | /mnt/stockage/packages/f15/sed/po/zh_TW.po | 
+ | [hu](/f15/language/hu) | 445 | 581 | 76.6 | /mnt/stockage/packages/f15/sed/po/hu.po | 
+ | [ja](/f15/language/ja) | 445 | 581 | 76.6 | /mnt/stockage/packages/f15/sed/po/ja.po | 
+ | [tr](/f15/language/tr) | 445 | 581 | 76.6 | /mnt/stockage/packages/f15/sed/po/tr.po | 
+ | [af](/f15/language/af) | 156 | 581 | 26.9 | /mnt/stockage/packages/f15/sed/po/af.po | 
+ | [da](/f15/language/da) | 156 | 581 | 26.9 | /mnt/stockage/packages/f15/sed/po/da.po | 
+ | [uk](/f15/language/uk) | 137 | 581 | 23.6 | /mnt/stockage/packages/f15/sed/po/uk.po | 
+ | [eu](/f15/language/eu) | 79 | 581 | 13.6 | /mnt/stockage/packages/f15/sed/po/eu.po | 
+ | [hr](/f15/language/hr) | 62 | 581 | 10.7 | /mnt/stockage/packages/f15/sed/po/hr.po | 
+ | [he](/f15/language/he) | 58 | 581 | 10.0 | /mnt/stockage/packages/f15/sed/po/he.po | 
+ | [ko](/f15/language/ko) | 58 | 581 | 10.0 | /mnt/stockage/packages/f15/sed/po/ko.po | 
 {.sortable}
 
 

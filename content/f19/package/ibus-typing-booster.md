@@ -18,7 +18,7 @@ The package ibus-typing-booster (version 1.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 145 | 153 | 94.8 | /mnt/stockage/packages/f19/ibus-typing-booster/po/de.po | 
+ | [de](/f19/language/de) | 145 | 153 | 94.8 | /mnt/stockage/packages/f19/ibus-typing-booster/po/de.po | 
 {.sortable}
 
 

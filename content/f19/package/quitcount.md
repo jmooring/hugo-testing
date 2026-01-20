@@ -18,16 +18,16 @@ The package quitcount (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f19/language/ast.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/ast.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/fr.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/he.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/hu.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/it.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/ro.po | 
+ | [ast](/f19/language/ast) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/ast.po | 
+ | [cs](/f19/language/cs) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/cs.po | 
+ | [de](/f19/language/de) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/de.po | 
+ | [el](/f19/language/el) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/el.po | 
+ | [es](/f19/language/es) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/es.po | 
+ | [fr](/f19/language/fr) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/fr.po | 
+ | [he](/f19/language/he) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/he.po | 
+ | [hu](/f19/language/hu) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/hu.po | 
+ | [it](/f19/language/it) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/it.po | 
+ | [ro](/f19/language/ro) | 166 | 166 | 100.0 | /mnt/stockage/packages/f19/quitcount/po/ro.po | 
 {.sortable}
 
 

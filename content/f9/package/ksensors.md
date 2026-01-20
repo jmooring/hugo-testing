@@ -18,11 +18,11 @@ The package ksensors (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 158 | 164 | 96.3 | /mnt/stockage/packages/f9/ksensors/po/fr.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 155 | 164 | 94.5 | /mnt/stockage/packages/f9/ksensors/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 126 | 164 | 76.8 | /mnt/stockage/packages/f9/ksensors/po/es.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 95 | 160 | 59.4 | /mnt/stockage/packages/f9/ksensors/po/nl.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 57 | 164 | 34.8 | /mnt/stockage/packages/f9/ksensors/po/cs.po | 
+ | [fr](/f9/language/fr) | 158 | 164 | 96.3 | /mnt/stockage/packages/f9/ksensors/po/fr.po | 
+ | [de](/f9/language/de) | 155 | 164 | 94.5 | /mnt/stockage/packages/f9/ksensors/po/de.po | 
+ | [es](/f9/language/es) | 126 | 164 | 76.8 | /mnt/stockage/packages/f9/ksensors/po/es.po | 
+ | [nl](/f9/language/nl) | 95 | 160 | 59.4 | /mnt/stockage/packages/f9/ksensors/po/nl.po | 
+ | [cs](/f9/language/cs) | 57 | 164 | 34.8 | /mnt/stockage/packages/f9/ksensors/po/cs.po | 
 {.sortable}
 
 

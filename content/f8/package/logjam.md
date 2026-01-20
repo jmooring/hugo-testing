@@ -18,14 +18,14 @@ The package logjam (version 4.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 2154 | 2169 | 99.3 | /mnt/stockage/packages/f8/logjam/po/ja.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 2154 | 2169 | 99.3 | /mnt/stockage/packages/f8/logjam/po/uk_UA.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 2144 | 2169 | 98.8 | /mnt/stockage/packages/f8/logjam/po/ru_RU.po | 
- | [error]({{< ref "/f8/language/error.md" >}}) | 2000 | 2169 | 92.2 | /mnt/stockage/packages/f8/logjam/po/en_US.UTF-8.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 1998 | 2169 | 92.1 | /mnt/stockage/packages/f8/logjam/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1991 | 2169 | 91.8 | /mnt/stockage/packages/f8/logjam/po/es.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 1920 | 2169 | 88.5 | /mnt/stockage/packages/f8/logjam/po/he.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 10 | 2169 | 0.5 | /mnt/stockage/packages/f8/logjam/po/en_GB.po | 
+ | [ja](/f8/language/ja) | 2154 | 2169 | 99.3 | /mnt/stockage/packages/f8/logjam/po/ja.po | 
+ | [uk](/f8/language/uk) | 2154 | 2169 | 99.3 | /mnt/stockage/packages/f8/logjam/po/uk_UA.po | 
+ | [ru](/f8/language/ru) | 2144 | 2169 | 98.8 | /mnt/stockage/packages/f8/logjam/po/ru_RU.po | 
+ | [error](/f8/language/error) | 2000 | 2169 | 92.2 | /mnt/stockage/packages/f8/logjam/po/en_US.UTF-8.po | 
+ | [de](/f8/language/de) | 1998 | 2169 | 92.1 | /mnt/stockage/packages/f8/logjam/po/de.po | 
+ | [es](/f8/language/es) | 1991 | 2169 | 91.8 | /mnt/stockage/packages/f8/logjam/po/es.po | 
+ | [he](/f8/language/he) | 1920 | 2169 | 88.5 | /mnt/stockage/packages/f8/logjam/po/he.po | 
+ | [en_GB](/f8/language/en_GB) | 10 | 2169 | 0.5 | /mnt/stockage/packages/f8/logjam/po/en_GB.po | 
 {.sortable}
 
 

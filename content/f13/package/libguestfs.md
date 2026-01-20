@@ -18,19 +18,19 @@ The package libguestfs (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 3727 | 4347 | 85.7 | /mnt/stockage/packages/f13/libguestfs/po/pl.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 3700 | 4347 | 85.1 | /mnt/stockage/packages/f13/libguestfs/po/es.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 3374 | 4347 | 77.6 | /mnt/stockage/packages/f13/libguestfs/po/nl.po | 
- | [hi]({{< ref "/f13/language/hi.md" >}}) | 1944 | 4347 | 44.7 | /mnt/stockage/packages/f13/libguestfs/po/hi.po | 
- | [kn]({{< ref "/f13/language/kn.md" >}}) | 1941 | 4347 | 44.7 | /mnt/stockage/packages/f13/libguestfs/po/kn.po | 
- | [gu]({{< ref "/f13/language/gu.md" >}}) | 1913 | 4347 | 44.0 | /mnt/stockage/packages/f13/libguestfs/po/gu.po | 
- | [mr]({{< ref "/f13/language/mr.md" >}}) | 1913 | 4347 | 44.0 | /mnt/stockage/packages/f13/libguestfs/po/mr.po | 
- | [or]({{< ref "/f13/language/or.md" >}}) | 1913 | 4347 | 44.0 | /mnt/stockage/packages/f13/libguestfs/po/or.po | 
- | [ml]({{< ref "/f13/language/ml.md" >}}) | 1898 | 4347 | 43.7 | /mnt/stockage/packages/f13/libguestfs/po/ml.po | 
- | [pa]({{< ref "/f13/language/pa.md" >}}) | 1881 | 4347 | 43.3 | /mnt/stockage/packages/f13/libguestfs/po/pa.po | 
- | [ta]({{< ref "/f13/language/ta.md" >}}) | 1881 | 4347 | 43.3 | /mnt/stockage/packages/f13/libguestfs/po/ta.po | 
- | [te]({{< ref "/f13/language/te.md" >}}) | 1881 | 4347 | 43.3 | /mnt/stockage/packages/f13/libguestfs/po/te.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 1 | 46937 | 0.0 | /mnt/stockage/packages/f13/libguestfs/po-docs/ja.po | 
+ | [pl](/f13/language/pl) | 3727 | 4347 | 85.7 | /mnt/stockage/packages/f13/libguestfs/po/pl.po | 
+ | [es](/f13/language/es) | 3700 | 4347 | 85.1 | /mnt/stockage/packages/f13/libguestfs/po/es.po | 
+ | [nl](/f13/language/nl) | 3374 | 4347 | 77.6 | /mnt/stockage/packages/f13/libguestfs/po/nl.po | 
+ | [hi](/f13/language/hi) | 1944 | 4347 | 44.7 | /mnt/stockage/packages/f13/libguestfs/po/hi.po | 
+ | [kn](/f13/language/kn) | 1941 | 4347 | 44.7 | /mnt/stockage/packages/f13/libguestfs/po/kn.po | 
+ | [gu](/f13/language/gu) | 1913 | 4347 | 44.0 | /mnt/stockage/packages/f13/libguestfs/po/gu.po | 
+ | [mr](/f13/language/mr) | 1913 | 4347 | 44.0 | /mnt/stockage/packages/f13/libguestfs/po/mr.po | 
+ | [or](/f13/language/or) | 1913 | 4347 | 44.0 | /mnt/stockage/packages/f13/libguestfs/po/or.po | 
+ | [ml](/f13/language/ml) | 1898 | 4347 | 43.7 | /mnt/stockage/packages/f13/libguestfs/po/ml.po | 
+ | [pa](/f13/language/pa) | 1881 | 4347 | 43.3 | /mnt/stockage/packages/f13/libguestfs/po/pa.po | 
+ | [ta](/f13/language/ta) | 1881 | 4347 | 43.3 | /mnt/stockage/packages/f13/libguestfs/po/ta.po | 
+ | [te](/f13/language/te) | 1881 | 4347 | 43.3 | /mnt/stockage/packages/f13/libguestfs/po/te.po | 
+ | [ja](/f13/language/ja) | 1 | 46937 | 0.0 | /mnt/stockage/packages/f13/libguestfs/po-docs/ja.po | 
 {.sortable}
 
 

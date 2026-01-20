@@ -18,41 +18,41 @@ The package soundconverter (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 430 | 450 | 95.6 | /mnt/stockage/packages/f12/soundconverter/po/nl.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 415 | 450 | 92.2 | /mnt/stockage/packages/f12/soundconverter/po/fr.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 396 | 450 | 88.0 | /mnt/stockage/packages/f12/soundconverter/po/de.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 396 | 450 | 88.0 | /mnt/stockage/packages/f12/soundconverter/po/sv.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 377 | 450 | 83.8 | /mnt/stockage/packages/f12/soundconverter/po/pl.po | 
- | [sr_Latn]({{< ref "/f12/language/sr_Latn.md" >}}) | 377 | 450 | 83.8 | /mnt/stockage/packages/f12/soundconverter/po/sr@latin.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/bg.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/da.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/el.po | 
- | [en_AU]({{< ref "/f12/language/en_AU.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/en_AU.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/es.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/it.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/ms.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/pt_BR.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/ru.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/vi.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 365 | 450 | 81.1 | /mnt/stockage/packages/f12/soundconverter/po/sr.po | 
- | [he]({{< ref "/f12/language/he.md" >}}) | 363 | 450 | 80.7 | /mnt/stockage/packages/f12/soundconverter/po/he.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 362 | 450 | 80.4 | /mnt/stockage/packages/f12/soundconverter/po/ja.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 342 | 450 | 76.0 | /mnt/stockage/packages/f12/soundconverter/po/fi.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 308 | 450 | 68.4 | /mnt/stockage/packages/f12/soundconverter/po/hu.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 279 | 450 | 62.0 | /mnt/stockage/packages/f12/soundconverter/po/sk.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 172 | 450 | 38.2 | /mnt/stockage/packages/f12/soundconverter/po/ca.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 83 | 450 | 18.4 | /mnt/stockage/packages/f12/soundconverter/po/et.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 83 | 450 | 18.4 | /mnt/stockage/packages/f12/soundconverter/po/tr.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 65 | 450 | 14.4 | /mnt/stockage/packages/f12/soundconverter/po/ar.po | 
- | [te]({{< ref "/f12/language/te.md" >}}) | 65 | 450 | 14.4 | /mnt/stockage/packages/f12/soundconverter/po/te.po | 
- | [hi]({{< ref "/f12/language/hi.md" >}}) | 48 | 450 | 10.7 | /mnt/stockage/packages/f12/soundconverter/po/hi.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 48 | 450 | 10.7 | /mnt/stockage/packages/f12/soundconverter/po/zh_CN.po | 
- | [br]({{< ref "/f12/language/br.md" >}}) | 46 | 450 | 10.2 | /mnt/stockage/packages/f12/soundconverter/po/br.po | 
- | [fa]({{< ref "/f12/language/fa.md" >}}) | 23 | 450 | 5.1 | /mnt/stockage/packages/f12/soundconverter/po/fa.po | 
- | [eo]({{< ref "/f12/language/eo.md" >}}) | 17 | 450 | 3.8 | /mnt/stockage/packages/f12/soundconverter/po/eo.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 3 | 450 | 0.7 | /mnt/stockage/packages/f12/soundconverter/po/eu.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 0 | 450 | 0.0 | /mnt/stockage/packages/f12/soundconverter/po/en_GB.po | 
+ | [nl](/f12/language/nl) | 430 | 450 | 95.6 | /mnt/stockage/packages/f12/soundconverter/po/nl.po | 
+ | [fr](/f12/language/fr) | 415 | 450 | 92.2 | /mnt/stockage/packages/f12/soundconverter/po/fr.po | 
+ | [de](/f12/language/de) | 396 | 450 | 88.0 | /mnt/stockage/packages/f12/soundconverter/po/de.po | 
+ | [sv](/f12/language/sv) | 396 | 450 | 88.0 | /mnt/stockage/packages/f12/soundconverter/po/sv.po | 
+ | [pl](/f12/language/pl) | 377 | 450 | 83.8 | /mnt/stockage/packages/f12/soundconverter/po/pl.po | 
+ | [sr_Latn](/f12/language/sr_Latn) | 377 | 450 | 83.8 | /mnt/stockage/packages/f12/soundconverter/po/sr@latin.po | 
+ | [bg](/f12/language/bg) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/bg.po | 
+ | [cs](/f12/language/cs) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/cs.po | 
+ | [da](/f12/language/da) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/da.po | 
+ | [el](/f12/language/el) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/el.po | 
+ | [en_AU](/f12/language/en_AU) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/en_AU.po | 
+ | [es](/f12/language/es) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/es.po | 
+ | [it](/f12/language/it) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/it.po | 
+ | [ms](/f12/language/ms) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/ms.po | 
+ | [pt_BR](/f12/language/pt_BR) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/pt_BR.po | 
+ | [ru](/f12/language/ru) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/ru.po | 
+ | [vi](/f12/language/vi) | 368 | 450 | 81.8 | /mnt/stockage/packages/f12/soundconverter/po/vi.po | 
+ | [sr](/f12/language/sr) | 365 | 450 | 81.1 | /mnt/stockage/packages/f12/soundconverter/po/sr.po | 
+ | [he](/f12/language/he) | 363 | 450 | 80.7 | /mnt/stockage/packages/f12/soundconverter/po/he.po | 
+ | [ja](/f12/language/ja) | 362 | 450 | 80.4 | /mnt/stockage/packages/f12/soundconverter/po/ja.po | 
+ | [fi](/f12/language/fi) | 342 | 450 | 76.0 | /mnt/stockage/packages/f12/soundconverter/po/fi.po | 
+ | [hu](/f12/language/hu) | 308 | 450 | 68.4 | /mnt/stockage/packages/f12/soundconverter/po/hu.po | 
+ | [sk](/f12/language/sk) | 279 | 450 | 62.0 | /mnt/stockage/packages/f12/soundconverter/po/sk.po | 
+ | [ca](/f12/language/ca) | 172 | 450 | 38.2 | /mnt/stockage/packages/f12/soundconverter/po/ca.po | 
+ | [et](/f12/language/et) | 83 | 450 | 18.4 | /mnt/stockage/packages/f12/soundconverter/po/et.po | 
+ | [tr](/f12/language/tr) | 83 | 450 | 18.4 | /mnt/stockage/packages/f12/soundconverter/po/tr.po | 
+ | [ar](/f12/language/ar) | 65 | 450 | 14.4 | /mnt/stockage/packages/f12/soundconverter/po/ar.po | 
+ | [te](/f12/language/te) | 65 | 450 | 14.4 | /mnt/stockage/packages/f12/soundconverter/po/te.po | 
+ | [hi](/f12/language/hi) | 48 | 450 | 10.7 | /mnt/stockage/packages/f12/soundconverter/po/hi.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 48 | 450 | 10.7 | /mnt/stockage/packages/f12/soundconverter/po/zh_CN.po | 
+ | [br](/f12/language/br) | 46 | 450 | 10.2 | /mnt/stockage/packages/f12/soundconverter/po/br.po | 
+ | [fa](/f12/language/fa) | 23 | 450 | 5.1 | /mnt/stockage/packages/f12/soundconverter/po/fa.po | 
+ | [eo](/f12/language/eo) | 17 | 450 | 3.8 | /mnt/stockage/packages/f12/soundconverter/po/eo.po | 
+ | [eu](/f12/language/eu) | 3 | 450 | 0.7 | /mnt/stockage/packages/f12/soundconverter/po/eu.po | 
+ | [en_GB](/f12/language/en_GB) | 0 | 450 | 0.0 | /mnt/stockage/packages/f12/soundconverter/po/en_GB.po | 
 {.sortable}
 
 

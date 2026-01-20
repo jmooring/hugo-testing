@@ -18,7 +18,7 @@ The package audit (version 1.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 876 | 1139 | 76.9 | /mnt/stockage/packages/f8/audit/system-config-audit/po/cs.po | 
+ | [cs](/f8/language/cs) | 876 | 1139 | 76.9 | /mnt/stockage/packages/f8/audit/system-config-audit/po/cs.po | 
 {.sortable}
 
 

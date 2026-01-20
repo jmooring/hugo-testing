@@ -18,9 +18,9 @@ The package systemtap (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1938 | 7487 | 25.9 | /mnt/stockage/packages/f18/systemtap/po/fr.po | 
- | [en]({{< ref "/f18/language/en.md" >}}) | 471 | 7487 | 6.3 | /mnt/stockage/packages/f18/systemtap/po/en.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1 | 7487 | 0.0 | /mnt/stockage/packages/f18/systemtap/po/pl.po | 
+ | [fr](/f18/language/fr) | 1938 | 7487 | 25.9 | /mnt/stockage/packages/f18/systemtap/po/fr.po | 
+ | [en](/f18/language/en) | 471 | 7487 | 6.3 | /mnt/stockage/packages/f18/systemtap/po/en.po | 
+ | [pl](/f18/language/pl) | 1 | 7487 | 0.0 | /mnt/stockage/packages/f18/systemtap/po/pl.po | 
 {.sortable}
 
 

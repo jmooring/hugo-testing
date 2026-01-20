@@ -18,8 +18,8 @@ The package lvm2 (version 2.03.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/lvm2/po/de.po | 
- | [error]({{< ref "/f35/language/error.md" >}}) | 0 | 9826 | 0.0 | /mnt/stockage/packages/f35/lvm2/po/lvm2.po | 
+ | [de](/f35/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f35/lvm2/po/de.po | 
+ | [error](/f35/language/error) | 0 | 9826 | 0.0 | /mnt/stockage/packages/f35/lvm2/po/lvm2.po | 
 {.sortable}
 
 

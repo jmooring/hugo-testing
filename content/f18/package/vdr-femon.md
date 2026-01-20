@@ -18,17 +18,17 @@ The package vdr-femon (version 1.7.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f18/vdr-femon/po/fi_FI.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 312 | 313 | 99.7 | /mnt/stockage/packages/f18/vdr-femon/po/et_EE.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 312 | 313 | 99.7 | /mnt/stockage/packages/f18/vdr-femon/po/hu_HU.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 312 | 313 | 99.7 | /mnt/stockage/packages/f18/vdr-femon/po/it_IT.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 302 | 313 | 96.5 | /mnt/stockage/packages/f18/vdr-femon/po/lt_LT.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 302 | 313 | 96.5 | /mnt/stockage/packages/f18/vdr-femon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 302 | 313 | 96.5 | /mnt/stockage/packages/f18/vdr-femon/po/zh_TW.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 266 | 313 | 85.0 | /mnt/stockage/packages/f18/vdr-femon/po/fr_FR.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 149 | 313 | 47.6 | /mnt/stockage/packages/f18/vdr-femon/po/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 138 | 313 | 44.1 | /mnt/stockage/packages/f18/vdr-femon/po/es_ES.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 56 | 313 | 17.9 | /mnt/stockage/packages/f18/vdr-femon/po/ru_RU.po | 
+ | [fi](/f18/language/fi) | 313 | 313 | 100.0 | /mnt/stockage/packages/f18/vdr-femon/po/fi_FI.po | 
+ | [et](/f18/language/et) | 312 | 313 | 99.7 | /mnt/stockage/packages/f18/vdr-femon/po/et_EE.po | 
+ | [hu](/f18/language/hu) | 312 | 313 | 99.7 | /mnt/stockage/packages/f18/vdr-femon/po/hu_HU.po | 
+ | [it](/f18/language/it) | 312 | 313 | 99.7 | /mnt/stockage/packages/f18/vdr-femon/po/it_IT.po | 
+ | [lt](/f18/language/lt) | 302 | 313 | 96.5 | /mnt/stockage/packages/f18/vdr-femon/po/lt_LT.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 302 | 313 | 96.5 | /mnt/stockage/packages/f18/vdr-femon/po/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 302 | 313 | 96.5 | /mnt/stockage/packages/f18/vdr-femon/po/zh_TW.po | 
+ | [fr](/f18/language/fr) | 266 | 313 | 85.0 | /mnt/stockage/packages/f18/vdr-femon/po/fr_FR.po | 
+ | [de](/f18/language/de) | 149 | 313 | 47.6 | /mnt/stockage/packages/f18/vdr-femon/po/de_DE.po | 
+ | [es](/f18/language/es) | 138 | 313 | 44.1 | /mnt/stockage/packages/f18/vdr-femon/po/es_ES.po | 
+ | [ru](/f18/language/ru) | 56 | 313 | 17.9 | /mnt/stockage/packages/f18/vdr-femon/po/ru_RU.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package gnue-common (version 0.6.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 2132 | 2132 | 100.0 | /mnt/stockage/packages/f11/gnue-common/po/fr.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 2108 | 2132 | 98.9 | /mnt/stockage/packages/f11/gnue-common/po/de.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 2108 | 2132 | 98.9 | /mnt/stockage/packages/f11/gnue-common/po/hu.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1454 | 2132 | 68.2 | /mnt/stockage/packages/f11/gnue-common/po/nl.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 1069 | 2132 | 50.1 | /mnt/stockage/packages/f11/gnue-common/po/it.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 425 | 2132 | 19.9 | /mnt/stockage/packages/f11/gnue-common/po/es_ES.po | 
- | [ro]({{< ref "/f11/language/ro.md" >}}) | 403 | 2132 | 18.9 | /mnt/stockage/packages/f11/gnue-common/po/ro.po | 
- | [es_MX]({{< ref "/f11/language/es_MX.md" >}}) | 153 | 2132 | 7.2 | /mnt/stockage/packages/f11/gnue-common/po/es_MX.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 148 | 2132 | 6.9 | /mnt/stockage/packages/f11/gnue-common/po/lt.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 97 | 2132 | 4.5 | /mnt/stockage/packages/f11/gnue-common/po/ru.po | 
+ | [fr](/f11/language/fr) | 2132 | 2132 | 100.0 | /mnt/stockage/packages/f11/gnue-common/po/fr.po | 
+ | [de](/f11/language/de) | 2108 | 2132 | 98.9 | /mnt/stockage/packages/f11/gnue-common/po/de.po | 
+ | [hu](/f11/language/hu) | 2108 | 2132 | 98.9 | /mnt/stockage/packages/f11/gnue-common/po/hu.po | 
+ | [nl](/f11/language/nl) | 1454 | 2132 | 68.2 | /mnt/stockage/packages/f11/gnue-common/po/nl.po | 
+ | [it](/f11/language/it) | 1069 | 2132 | 50.1 | /mnt/stockage/packages/f11/gnue-common/po/it.po | 
+ | [es](/f11/language/es) | 425 | 2132 | 19.9 | /mnt/stockage/packages/f11/gnue-common/po/es_ES.po | 
+ | [ro](/f11/language/ro) | 403 | 2132 | 18.9 | /mnt/stockage/packages/f11/gnue-common/po/ro.po | 
+ | [es_MX](/f11/language/es_MX) | 153 | 2132 | 7.2 | /mnt/stockage/packages/f11/gnue-common/po/es_MX.po | 
+ | [lt](/f11/language/lt) | 148 | 2132 | 6.9 | /mnt/stockage/packages/f11/gnue-common/po/lt.po | 
+ | [ru](/f11/language/ru) | 97 | 2132 | 4.5 | /mnt/stockage/packages/f11/gnue-common/po/ru.po | 
 {.sortable}
 
 

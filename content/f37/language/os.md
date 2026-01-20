@@ -39,25 +39,25 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 161 | 211 | 76.3 | Ossetian <os@li.org> | 
- | [python-django]({{< ref "/f37/package/python-django.md" >}}) | 2078 | 3516 | 59.1 | Ossetic (http://www.transifex.com/django/django/language/os/) | 
- | [python-django3]({{< ref "/f37/package/python-django3.md" >}}) | 2078 | 3516 | 59.1 | Ossetic (http://www.transifex.com/django/django/language/os/) | 
- | [python-django-formtools]({{< ref "/f37/package/python-django-formtools.md" >}}) | 5 | 32 | 15.6 | Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/) | 
- | [gnome-extensions-app]({{< ref "/f37/package/gnome-extensions-app.md" >}}) | 295 | 2584 | 11.4 | Ossetian; Ossetic <soslanx@gmail.com> | 
- | [gnome-shell]({{< ref "/f37/package/gnome-shell.md" >}}) | 295 | 2584 | 11.4 | Ossetian; Ossetic <soslanx@gmail.com> | 
- | [exaile]({{< ref "/f37/package/exaile.md" >}}) | 1 | 4168 | 0.0 | Ossetian <os@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [supertuxkart]({{< ref "/f37/package/supertuxkart.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [slick-greeter](/f37/package/slick-greeter) | 161 | 211 | 76.3 | Ossetian <os@li.org> | 
+ | [python-django](/f37/package/python-django) | 2078 | 3516 | 59.1 | Ossetic (http://www.transifex.com/django/django/language/os/) | 
+ | [python-django3](/f37/package/python-django3) | 2078 | 3516 | 59.1 | Ossetic (http://www.transifex.com/django/django/language/os/) | 
+ | [python-django-formtools](/f37/package/python-django-formtools) | 5 | 32 | 15.6 | Ossetic (http://www.transifex.com/projects/p/django-formtools/language/os/) | 
+ | [gnome-extensions-app](/f37/package/gnome-extensions-app) | 295 | 2584 | 11.4 | Ossetian; Ossetic <soslanx@gmail.com> | 
+ | [gnome-shell](/f37/package/gnome-shell) | 295 | 2584 | 11.4 | Ossetian; Ossetic <soslanx@gmail.com> | 
+ | [exaile](/f37/package/exaile) | 1 | 4168 | 0.0 | Ossetian <os@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [supertuxkart](/f37/package/supertuxkart) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

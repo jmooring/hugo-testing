@@ -39,8 +39,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f13/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
- | [avant-window-navigator]({{< ref "/f13/package/avant-window-navigator.md" >}}) | 0 | 1052 | 0.0 | Divehi <dv@li.org> | 
+ | [gnome-menus](/f13/package/gnome-menus) | 157 | 157 | 100.0 | Divehi <dv@li.org> | 
+ | [avant-window-navigator](/f13/package/avant-window-navigator) | 0 | 1052 | 0.0 | Divehi <dv@li.org> | 
 {.sortable}
 
 

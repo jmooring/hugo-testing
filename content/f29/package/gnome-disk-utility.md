@@ -18,81 +18,81 @@ The package gnome-disk-utility (version 3.30.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f29/language/as.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ast.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/be.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bg.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bn.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bn_IN.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 3435 | 3435 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bs.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 3820 | 3820 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ca.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ca@valencia.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/es.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/et.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/eu.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fr.po | 
- | [fur]({{< ref "/f29/language/fur.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fur.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 3820 | 3820 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/gd.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/gl.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 3533 | 3533 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/gu.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hi.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hu.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hy.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/id.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/it.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/km.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ko.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/lt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/mk.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 3863 | 3863 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/mr.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/nl.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 3543 | 3543 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/oc.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 3535 | 3535 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pt_BR.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ro.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 3820 | 3820 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sk.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 3822 | 3822 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 7693 | 7693 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sr@latin.po/mnt/stockage/packages/f29/gnome-disk-utility/po/sr.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/te.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 3543 | 3543 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/th.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 3873 | 3873 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 2229 | 2229 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/uk.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/vi.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 3822 | 3822 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/zh_HK.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 3519 | 3533 | 99.6 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ja.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 3522 | 3543 | 99.4 | /mnt/stockage/packages/f29/gnome-disk-utility/po/he.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 3775 | 3863 | 97.7 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ug.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 3765 | 3887 | 96.9 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fi.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 3489 | 3718 | 93.8 | /mnt/stockage/packages/f29/gnome-disk-utility/po/nb.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 3061 | 3805 | 80.4 | /mnt/stockage/packages/f29/gnome-disk-utility/po/tg.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 1227 | 2309 | 53.1 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fa.po | 
- | [error]({{< ref "/f29/language/error.md" >}}) | 1944 | 4544 | 42.8 | /mnt/stockage/packages/f29/gnome-disk-utility/po/en@shaw.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 1639 | 3887 | 42.2 | /mnt/stockage/packages/f29/gnome-disk-utility/po/kk.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 1288 | 4544 | 28.3 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ms.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 995 | 3802 | 26.2 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ar.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 817 | 3505 | 23.3 | /mnt/stockage/packages/f29/gnome-disk-utility/po/is.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 699 | 3435 | 20.3 | /mnt/stockage/packages/f29/gnome-disk-utility/po/eo.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 389 | 3423 | 11.4 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ne.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 416 | 3909 | 10.6 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ga.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 475 | 4544 | 10.5 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ku.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 148 | 4042 | 3.7 | /mnt/stockage/packages/f29/gnome-disk-utility/po/mai.po | 
+ | [as](/f29/language/as) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/as.po | 
+ | [ast](/f29/language/ast) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ast.po | 
+ | [be](/f29/language/be) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/be.po | 
+ | [bg](/f29/language/bg) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bg.po | 
+ | [bn](/f29/language/bn) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bn.po | 
+ | [bn_IN](/f29/language/bn_IN) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bn_IN.po | 
+ | [bs](/f29/language/bs) | 3435 | 3435 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/bs.po | 
+ | [ca](/f29/language/ca) | 3820 | 3820 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ca.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ca@valencia.po | 
+ | [cs](/f29/language/cs) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/cs.po | 
+ | [da](/f29/language/da) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/da.po | 
+ | [de](/f29/language/de) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/de.po | 
+ | [el](/f29/language/el) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/en_GB.po | 
+ | [es](/f29/language/es) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/es.po | 
+ | [et](/f29/language/et) | 3026 | 3026 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/et.po | 
+ | [eu](/f29/language/eu) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/eu.po | 
+ | [fr](/f29/language/fr) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fr.po | 
+ | [fur](/f29/language/fur) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fur.po | 
+ | [gd](/f29/language/gd) | 3820 | 3820 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/gd.po | 
+ | [gl](/f29/language/gl) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/gl.po | 
+ | [gu](/f29/language/gu) | 3533 | 3533 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/gu.po | 
+ | [hi](/f29/language/hi) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hi.po | 
+ | [hr](/f29/language/hr) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hr.po | 
+ | [hu](/f29/language/hu) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hu.po | 
+ | [hy](/f29/language/hy) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/hy.po | 
+ | [id](/f29/language/id) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/id.po | 
+ | [it](/f29/language/it) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/it.po | 
+ | [km](/f29/language/km) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/km.po | 
+ | [kn](/f29/language/kn) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/kn.po | 
+ | [ko](/f29/language/ko) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ko.po | 
+ | [lt](/f29/language/lt) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/lt.po | 
+ | [lv](/f29/language/lv) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/lv.po | 
+ | [mk](/f29/language/mk) | 4544 | 4544 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/mk.po | 
+ | [ml](/f29/language/ml) | 3863 | 3863 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ml.po | 
+ | [mr](/f29/language/mr) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/mr.po | 
+ | [nl](/f29/language/nl) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/nl.po | 
+ | [oc](/f29/language/oc) | 3543 | 3543 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/oc.po | 
+ | [or](/f29/language/or) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/or.po | 
+ | [pa](/f29/language/pa) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pa.po | 
+ | [pl](/f29/language/pl) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pl.po | 
+ | [pt](/f29/language/pt) | 3535 | 3535 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/pt_BR.po | 
+ | [ro](/f29/language/ro) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ro.po | 
+ | [ru](/f29/language/ru) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ru.po | 
+ | [sk](/f29/language/sk) | 3820 | 3820 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sk.po | 
+ | [sl](/f29/language/sl) | 3822 | 3822 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sl.po | 
+ | [sr](/f29/language/sr) | 7693 | 7693 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sr@latin.po/mnt/stockage/packages/f29/gnome-disk-utility/po/sr.po | 
+ | [sv](/f29/language/sv) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/sv.po | 
+ | [ta](/f29/language/ta) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ta.po | 
+ | [te](/f29/language/te) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/te.po | 
+ | [th](/f29/language/th) | 3543 | 3543 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/th.po | 
+ | [tr](/f29/language/tr) | 3873 | 3873 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/tr.po | 
+ | [uk](/f29/language/uk) | 2229 | 2229 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/uk.po | 
+ | [vi](/f29/language/vi) | 3718 | 3718 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/vi.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 3822 | 3822 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 3887 | 3887 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/zh_TW.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 3423 | 3423 | 100.0 | /mnt/stockage/packages/f29/gnome-disk-utility/po/zh_HK.po | 
+ | [ja](/f29/language/ja) | 3519 | 3533 | 99.6 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ja.po | 
+ | [he](/f29/language/he) | 3522 | 3543 | 99.4 | /mnt/stockage/packages/f29/gnome-disk-utility/po/he.po | 
+ | [ug](/f29/language/ug) | 3775 | 3863 | 97.7 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ug.po | 
+ | [fi](/f29/language/fi) | 3765 | 3887 | 96.9 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fi.po | 
+ | [nb_NO](/f29/language/nb_NO) | 3489 | 3718 | 93.8 | /mnt/stockage/packages/f29/gnome-disk-utility/po/nb.po | 
+ | [tg](/f29/language/tg) | 3061 | 3805 | 80.4 | /mnt/stockage/packages/f29/gnome-disk-utility/po/tg.po | 
+ | [fa](/f29/language/fa) | 1227 | 2309 | 53.1 | /mnt/stockage/packages/f29/gnome-disk-utility/po/fa.po | 
+ | [error](/f29/language/error) | 1944 | 4544 | 42.8 | /mnt/stockage/packages/f29/gnome-disk-utility/po/en@shaw.po | 
+ | [kk](/f29/language/kk) | 1639 | 3887 | 42.2 | /mnt/stockage/packages/f29/gnome-disk-utility/po/kk.po | 
+ | [ms](/f29/language/ms) | 1288 | 4544 | 28.3 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ms.po | 
+ | [ar](/f29/language/ar) | 995 | 3802 | 26.2 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ar.po | 
+ | [is](/f29/language/is) | 817 | 3505 | 23.3 | /mnt/stockage/packages/f29/gnome-disk-utility/po/is.po | 
+ | [eo](/f29/language/eo) | 699 | 3435 | 20.3 | /mnt/stockage/packages/f29/gnome-disk-utility/po/eo.po | 
+ | [ne](/f29/language/ne) | 389 | 3423 | 11.4 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ne.po | 
+ | [ga](/f29/language/ga) | 416 | 3909 | 10.6 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ga.po | 
+ | [ku](/f29/language/ku) | 475 | 4544 | 10.5 | /mnt/stockage/packages/f29/gnome-disk-utility/po/ku.po | 
+ | [mai](/f29/language/mai) | 148 | 4042 | 3.7 | /mnt/stockage/packages/f29/gnome-disk-utility/po/mai.po | 
 {.sortable}
 
 

@@ -18,37 +18,37 @@ The package video-downloader (version 0.12.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/cs.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/es.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/et.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/fi.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/fr.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/hi.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/hr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/hu.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/ja.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/nl.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/sk.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/uk.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 154 | 155 | 99.4 | /mnt/stockage/packages/f39/video-downloader/po/de.po | 
- | [be]({{< ref "/f39/language/be.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/be.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ca.po | 
- | [ckb]({{< ref "/f39/language/ckb.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ckb.po | 
- | [fa]({{< ref "/f39/language/fa.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/fa.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/he.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/id.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ko.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/nb_NO.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/pt.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ro.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/zh_Hans.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/zh_Hant.po | 
- | [uz]({{< ref "/f39/language/uz.md" >}}) | 145 | 155 | 93.5 | /mnt/stockage/packages/f39/video-downloader/po/uz.po | 
- | [az]({{< ref "/f39/language/az.md" >}}) | 0 | 155 | 0.0 | /mnt/stockage/packages/f39/video-downloader/po/az.po | 
+ | [cs](/f39/language/cs) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/cs.po | 
+ | [es](/f39/language/es) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/es.po | 
+ | [et](/f39/language/et) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/et.po | 
+ | [fi](/f39/language/fi) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/fi.po | 
+ | [fr](/f39/language/fr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/fr.po | 
+ | [hi](/f39/language/hi) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/hi.po | 
+ | [hr](/f39/language/hr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/hr.po | 
+ | [hu](/f39/language/hu) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/hu.po | 
+ | [it](/f39/language/it) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/it.po | 
+ | [ja](/f39/language/ja) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/ja.po | 
+ | [nl](/f39/language/nl) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/nl.po | 
+ | [ru](/f39/language/ru) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/ru.po | 
+ | [sk](/f39/language/sk) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/sk.po | 
+ | [sv](/f39/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/sv.po | 
+ | [tr](/f39/language/tr) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/tr.po | 
+ | [uk](/f39/language/uk) | 155 | 155 | 100.0 | /mnt/stockage/packages/f39/video-downloader/po/uk.po | 
+ | [de](/f39/language/de) | 154 | 155 | 99.4 | /mnt/stockage/packages/f39/video-downloader/po/de.po | 
+ | [be](/f39/language/be) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/be.po | 
+ | [ca](/f39/language/ca) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ca.po | 
+ | [ckb](/f39/language/ckb) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ckb.po | 
+ | [fa](/f39/language/fa) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/fa.po | 
+ | [he](/f39/language/he) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/he.po | 
+ | [id](/f39/language/id) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/id.po | 
+ | [ko](/f39/language/ko) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ko.po | 
+ | [nb_NO](/f39/language/nb_NO) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/nb_NO.po | 
+ | [pt](/f39/language/pt) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/pt.po | 
+ | [ro](/f39/language/ro) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/ro.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/zh_Hans.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 151 | 155 | 97.4 | /mnt/stockage/packages/f39/video-downloader/po/zh_Hant.po | 
+ | [uz](/f39/language/uz) | 145 | 155 | 93.5 | /mnt/stockage/packages/f39/video-downloader/po/uz.po | 
+ | [az](/f39/language/az) | 0 | 155 | 0.0 | /mnt/stockage/packages/f39/video-downloader/po/az.po | 
 {.sortable}
 
 

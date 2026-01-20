@@ -18,8 +18,8 @@ The package ffgtk (version 0.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f15/language/de.md" >}}) | 2363 | 2363 | 100.0 | /mnt/stockage/packages/f15/ffgtk/po/de.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 2363 | 2363 | 100.0 | /mnt/stockage/packages/f15/ffgtk/po/nl.po | 
+ | [de](/f15/language/de) | 2363 | 2363 | 100.0 | /mnt/stockage/packages/f15/ffgtk/po/de.po | 
+ | [nl](/f15/language/nl) | 2363 | 2363 | 100.0 | /mnt/stockage/packages/f15/ffgtk/po/nl.po | 
 {.sortable}
 
 

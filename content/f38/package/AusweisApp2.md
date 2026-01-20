@@ -18,7 +18,7 @@ The package AusweisApp2 (version 2.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 2453 | 2597 | 94.5 | /mnt/stockage/packages/f38/AusweisApp2/docs/failurecodes/locales/de/LC_MESSAGES/failurecodes.po/mnt/stockage/packages/f38/AusweisApp2/docs/failurecodes/locales/de/LC_MESSAGES/index.po/mnt/stockage/packages/f38/AusweisApp2/docs/failurecodes/locales/de/LC_MESSAGES/intro.po | 
+ | [de](/f38/language/de) | 2453 | 2597 | 94.5 | /mnt/stockage/packages/f38/AusweisApp2/docs/failurecodes/locales/de/LC_MESSAGES/failurecodes.po/mnt/stockage/packages/f38/AusweisApp2/docs/failurecodes/locales/de/LC_MESSAGES/index.po/mnt/stockage/packages/f38/AusweisApp2/docs/failurecodes/locales/de/LC_MESSAGES/intro.po | 
 {.sortable}
 
 

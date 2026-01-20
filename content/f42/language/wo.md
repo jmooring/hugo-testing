@@ -39,41 +39,41 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [newt]({{< ref "/f42/package/newt.md" >}}) | 4 | 4 | 100.0 | Wolof | 
- | [debconf]({{< ref "/f42/package/debconf.md" >}}) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
- | [iso-codes]({{< ref "/f42/package/iso-codes.md" >}}) | 985 | 1093 | 90.1 | Wolof <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/wo/> | 
- | [tuxtype2]({{< ref "/f42/package/tuxtype2.md" >}}) | 71 | 80 | 88.8 |  | 
- | [klavaro]({{< ref "/f42/package/klavaro.md" >}}) | 1599 | 1893 | 84.5 | Wolof <wo@li.org> | 
- | [abiword]({{< ref "/f42/package/abiword.md" >}}) | 4444 | 5508 | 80.7 | Ousmane Faty Ndongo, Dominique Rochefort, Cheikh Tidiane Guèye <direction@anafa.org> | 
- | [ccsm]({{< ref "/f42/package/ccsm.md" >}}) | 399 | 591 | 67.5 | Wolof <wo@li.org> | 
- | [tuxpaint]({{< ref "/f42/package/tuxpaint.md" >}}) | 1148 | 5355 | 21.4 |  | 
- | [isomaster]({{< ref "/f42/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [asunder]({{< ref "/f42/package/asunder.md" >}}) | 4 | 493 | 0.8 | http://littlesvr.ca/ostd/ | 
- | [android-tools]({{< ref "/f42/package/android-tools.md" >}}) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [bookworm]({{< ref "/f42/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [dippi]({{< ref "/f42/package/dippi.md" >}}) | 0 | 1537 | 0.0 | none | 
- | [elementary-code]({{< ref "/f42/package/elementary-code.md" >}}) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f42/package/elementary-files.md" >}}) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f42/package/elementary-icon-theme.md" >}}) | 0 | 349 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f42/package/elementary-mail.md" >}}) | 0 | 861 | 0.0 |  | 
- | [elementary-music]({{< ref "/f42/package/elementary-music.md" >}}) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f42/package/elementary-notifications.md" >}}) | 0 | 42 | 0.0 | none | 
- | [elementary-onboarding]({{< ref "/f42/package/elementary-onboarding.md" >}}) | 0 | 317 | 0.0 | none | 
- | [elementary-photos]({{< ref "/f42/package/elementary-photos.md" >}}) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-screenshot]({{< ref "/f42/package/elementary-screenshot.md" >}}) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-settings-daemon]({{< ref "/f42/package/elementary-settings-daemon.md" >}}) | 0 | 303 | 0.0 | none | 
- | [gala]({{< ref "/f42/package/gala.md" >}}) | 0 | 319 | 0.0 | none | 
- | [granite]({{< ref "/f42/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f42/package/granite-7.md" >}}) | 0 | 596 | 0.0 |  | 
- | [initial-setup]({{< ref "/f42/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Wolof (http://www.transifex.com/projects/p/initial-setup/language/wo/) | 
- | [policycoreutils]({{< ref "/f42/package/policycoreutils.md" >}}) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
- | [python-meh]({{< ref "/f42/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Wolof (http://www.transifex.com/projects/p/python-meh/language/wo/) | 
- | [regextester]({{< ref "/f42/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f42/package/wingpanel.md" >}}) | 0 | 57 | 0.0 | none | 
- | [wingpanel-indicator-a11y]({{< ref "/f42/package/wingpanel-indicator-a11y.md" >}}) | 0 | 55 | 0.0 | none | 
- | [wingpanel-indicator-bluetooth]({{< ref "/f42/package/wingpanel-indicator-bluetooth.md" >}}) | 0 | 80 | 0.0 | none | 
- | [wingpanel-indicator-datetime]({{< ref "/f42/package/wingpanel-indicator-datetime.md" >}}) | 0 | 103 | 0.0 |  | 
- | [wingpanel-indicator-keyboard]({{< ref "/f42/package/wingpanel-indicator-keyboard.md" >}}) | 0 | 56 | 0.0 |  | 
+ | [newt](/f42/package/newt) | 4 | 4 | 100.0 | Wolof | 
+ | [debconf](/f42/package/debconf) | 189 | 191 | 99.0 | Wolof <debian-boot@lists.debian.org> | 
+ | [iso-codes](/f42/package/iso-codes) | 985 | 1093 | 90.1 | Wolof <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/wo/> | 
+ | [tuxtype2](/f42/package/tuxtype2) | 71 | 80 | 88.8 |  | 
+ | [klavaro](/f42/package/klavaro) | 1599 | 1893 | 84.5 | Wolof <wo@li.org> | 
+ | [abiword](/f42/package/abiword) | 4444 | 5508 | 80.7 | Ousmane Faty Ndongo, Dominique Rochefort, Cheikh Tidiane Guèye <direction@anafa.org> | 
+ | [ccsm](/f42/package/ccsm) | 399 | 591 | 67.5 | Wolof <wo@li.org> | 
+ | [tuxpaint](/f42/package/tuxpaint) | 1148 | 5355 | 21.4 |  | 
+ | [isomaster](/f42/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [asunder](/f42/package/asunder) | 4 | 493 | 0.8 | http://littlesvr.ca/ostd/ | 
+ | [android-tools](/f42/package/android-tools) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [bookworm](/f42/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [dippi](/f42/package/dippi) | 0 | 1537 | 0.0 | none | 
+ | [elementary-code](/f42/package/elementary-code) | 0 | 2228 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f42/package/elementary-files) | 0 | 2656 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f42/package/elementary-icon-theme) | 0 | 349 | 0.0 | none | 
+ | [elementary-mail](/f42/package/elementary-mail) | 0 | 861 | 0.0 |  | 
+ | [elementary-music](/f42/package/elementary-music) | 0 | 231 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f42/package/elementary-notifications) | 0 | 42 | 0.0 | none | 
+ | [elementary-onboarding](/f42/package/elementary-onboarding) | 0 | 317 | 0.0 | none | 
+ | [elementary-photos](/f42/package/elementary-photos) | 0 | 2862 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-screenshot](/f42/package/elementary-screenshot) | 0 | 128 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-settings-daemon](/f42/package/elementary-settings-daemon) | 0 | 303 | 0.0 | none | 
+ | [gala](/f42/package/gala) | 0 | 319 | 0.0 | none | 
+ | [granite](/f42/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f42/package/granite-7) | 0 | 596 | 0.0 |  | 
+ | [initial-setup](/f42/package/initial-setup) | 0 | 33 | 0.0 | Wolof (http://www.transifex.com/projects/p/initial-setup/language/wo/) | 
+ | [policycoreutils](/f42/package/policycoreutils) | 0 | 7678 | 0.0 | Wolof (http://www.transifex.com/projects/p/fedora/language/wo/) | 
+ | [python-meh](/f42/package/python-meh) | 0 | 109 | 0.0 | Wolof (http://www.transifex.com/projects/p/python-meh/language/wo/) | 
+ | [regextester](/f42/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f42/package/wingpanel) | 0 | 57 | 0.0 | none | 
+ | [wingpanel-indicator-a11y](/f42/package/wingpanel-indicator-a11y) | 0 | 55 | 0.0 | none | 
+ | [wingpanel-indicator-bluetooth](/f42/package/wingpanel-indicator-bluetooth) | 0 | 80 | 0.0 | none | 
+ | [wingpanel-indicator-datetime](/f42/package/wingpanel-indicator-datetime) | 0 | 103 | 0.0 |  | 
+ | [wingpanel-indicator-keyboard](/f42/package/wingpanel-indicator-keyboard) | 0 | 56 | 0.0 |  | 
 {.sortable}
 
 

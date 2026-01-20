@@ -18,14 +18,14 @@ The package golang-k8s-kubectl (version 1.22.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 1056 | 1056 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/de_DE/LC_MESSAGES/k8s.po | 
- | [en]({{< ref "/f34/language/en.md" >}}) | 20768 | 20768 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/test/default/LC_MESSAGES/k8s.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/it_IT/LC_MESSAGES/k8s.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 43 | 43 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/ko_KR/LC_MESSAGES/k8s.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/pt_BR/LC_MESSAGES/k8s.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
+ | [de](/f34/language/de) | 1056 | 1056 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/de_DE/LC_MESSAGES/k8s.po | 
+ | [en](/f34/language/en) | 20768 | 20768 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/test/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/test/default/LC_MESSAGES/k8s.po | 
+ | [fr](/f34/language/fr) | 43 | 43 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
+ | [it](/f34/language/it) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/it_IT/LC_MESSAGES/k8s.po | 
+ | [ja](/f34/language/ja) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/ja_JP/LC_MESSAGES/k8s.po | 
+ | [ko](/f34/language/ko) | 43 | 43 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/ko_KR/LC_MESSAGES/k8s.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1228 | 1228 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/pt_BR/LC_MESSAGES/k8s.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/zh_TW/LC_MESSAGES/k8s.po/mnt/stockage/packages/f34/golang-k8s-kubectl/pkg/util/i18n/translations/kubectl/zh_CN/LC_MESSAGES/k8s.po | 
 {.sortable}
 
 

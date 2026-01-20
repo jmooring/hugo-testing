@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [switchboard]({{< ref "/f29/package/switchboard.md" >}}) | 1 | 41 | 2.4 | Cebuano <ceb@li.org> | 
- | [transmission]({{< ref "/f29/package/transmission.md" >}}) | 19 | 1809 | 1.1 | Cebuano <ceb@li.org> | 
- | [bibletime]({{< ref "/f29/package/bibletime.md" >}}) | 0 | 9720 | 0.0 | Cebuano (http://www.transifex.com/bibletime/bibletime/language/ceb/) | 
+ | [switchboard](/f29/package/switchboard) | 1 | 41 | 2.4 | Cebuano <ceb@li.org> | 
+ | [transmission](/f29/package/transmission) | 19 | 1809 | 1.1 | Cebuano <ceb@li.org> | 
+ | [bibletime](/f29/package/bibletime) | 0 | 9720 | 0.0 | Cebuano (http://www.transifex.com/bibletime/bibletime/language/ceb/) | 
 {.sortable}
 
 

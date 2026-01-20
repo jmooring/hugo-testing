@@ -18,19 +18,19 @@ The package weechat (version 4.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 37130 | 37130 | 100.0 | /mnt/stockage/packages/f42/weechat/po/fr.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 37090 | 37130 | 99.9 | /mnt/stockage/packages/f42/weechat/po/sr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 37086 | 37130 | 99.9 | /mnt/stockage/packages/f42/weechat/po/de.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 34415 | 37130 | 92.7 | /mnt/stockage/packages/f42/weechat/po/pl.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 22447 | 37130 | 60.5 | /mnt/stockage/packages/f42/weechat/po/tr.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 15700 | 37130 | 42.3 | /mnt/stockage/packages/f42/weechat/po/ja.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 12323 | 37130 | 33.2 | /mnt/stockage/packages/f42/weechat/po/pt.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 8165 | 37130 | 22.0 | /mnt/stockage/packages/f42/weechat/po/es.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 8013 | 37130 | 21.6 | /mnt/stockage/packages/f42/weechat/po/it.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 6897 | 37130 | 18.6 | /mnt/stockage/packages/f42/weechat/po/cs.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 5173 | 37130 | 13.9 | /mnt/stockage/packages/f42/weechat/po/pt_BR.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 551 | 37130 | 1.5 | /mnt/stockage/packages/f42/weechat/po/ru.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 419 | 37130 | 1.1 | /mnt/stockage/packages/f42/weechat/po/hu.po | 
+ | [fr](/f42/language/fr) | 37130 | 37130 | 100.0 | /mnt/stockage/packages/f42/weechat/po/fr.po | 
+ | [sr](/f42/language/sr) | 37090 | 37130 | 99.9 | /mnt/stockage/packages/f42/weechat/po/sr.po | 
+ | [de](/f42/language/de) | 37086 | 37130 | 99.9 | /mnt/stockage/packages/f42/weechat/po/de.po | 
+ | [pl](/f42/language/pl) | 34415 | 37130 | 92.7 | /mnt/stockage/packages/f42/weechat/po/pl.po | 
+ | [tr](/f42/language/tr) | 22447 | 37130 | 60.5 | /mnt/stockage/packages/f42/weechat/po/tr.po | 
+ | [ja](/f42/language/ja) | 15700 | 37130 | 42.3 | /mnt/stockage/packages/f42/weechat/po/ja.po | 
+ | [pt](/f42/language/pt) | 12323 | 37130 | 33.2 | /mnt/stockage/packages/f42/weechat/po/pt.po | 
+ | [es](/f42/language/es) | 8165 | 37130 | 22.0 | /mnt/stockage/packages/f42/weechat/po/es.po | 
+ | [it](/f42/language/it) | 8013 | 37130 | 21.6 | /mnt/stockage/packages/f42/weechat/po/it.po | 
+ | [cs](/f42/language/cs) | 6897 | 37130 | 18.6 | /mnt/stockage/packages/f42/weechat/po/cs.po | 
+ | [pt_BR](/f42/language/pt_BR) | 5173 | 37130 | 13.9 | /mnt/stockage/packages/f42/weechat/po/pt_BR.po | 
+ | [ru](/f42/language/ru) | 551 | 37130 | 1.5 | /mnt/stockage/packages/f42/weechat/po/ru.po | 
+ | [hu](/f42/language/hu) | 419 | 37130 | 1.1 | /mnt/stockage/packages/f42/weechat/po/hu.po | 
 {.sortable}
 
 

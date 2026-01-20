@@ -18,40 +18,40 @@ The package icewm (version 1.3.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 1327 | 1346 | 98.6 | /mnt/stockage/packages/f22/icewm/po/ko.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 1313 | 1346 | 97.5 | /mnt/stockage/packages/f22/icewm/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 1313 | 1346 | 97.5 | /mnt/stockage/packages/f22/icewm/po/zh_TW.po | 
- | [en]({{< ref "/f22/language/en.md" >}}) | 1 | 1346 | 0.1 | /mnt/stockage/packages/f22/icewm/po/en.po | 
- | [be]({{< ref "/f22/language/be.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/be.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/bg.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ca.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/cs.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/es.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/fr.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/hr.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/hu.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/id.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ja.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/lt.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/lv.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/mk.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/nb.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/nl.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/pt_BR.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ro.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ru.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/sk.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/sl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/tr.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/uk.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/vi.po | 
+ | [ko](/f22/language/ko) | 1327 | 1346 | 98.6 | /mnt/stockage/packages/f22/icewm/po/ko.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 1313 | 1346 | 97.5 | /mnt/stockage/packages/f22/icewm/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 1313 | 1346 | 97.5 | /mnt/stockage/packages/f22/icewm/po/zh_TW.po | 
+ | [en](/f22/language/en) | 1 | 1346 | 0.1 | /mnt/stockage/packages/f22/icewm/po/en.po | 
+ | [be](/f22/language/be) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/be.po | 
+ | [bg](/f22/language/bg) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/bg.po | 
+ | [ca](/f22/language/ca) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ca.po | 
+ | [cs](/f22/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/cs.po | 
+ | [da](/f22/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/da.po | 
+ | [de](/f22/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/de.po | 
+ | [el](/f22/language/el) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/el.po | 
+ | [es](/f22/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/es.po | 
+ | [fi](/f22/language/fi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/fi.po | 
+ | [fr](/f22/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/fr.po | 
+ | [hr](/f22/language/hr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/hr.po | 
+ | [hu](/f22/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/hu.po | 
+ | [id](/f22/language/id) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/id.po | 
+ | [it](/f22/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/it.po | 
+ | [ja](/f22/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ja.po | 
+ | [lt](/f22/language/lt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/lt.po | 
+ | [lv](/f22/language/lv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/lv.po | 
+ | [mk](/f22/language/mk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/mk.po | 
+ | [nb_NO](/f22/language/nb_NO) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/nb.po | 
+ | [nl](/f22/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/nl.po | 
+ | [pl](/f22/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/pt_BR.po | 
+ | [ro](/f22/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ro.po | 
+ | [ru](/f22/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/ru.po | 
+ | [sk](/f22/language/sk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/sk.po | 
+ | [sl](/f22/language/sl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/sl.po | 
+ | [sv](/f22/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/sv.po | 
+ | [tr](/f22/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/tr.po | 
+ | [uk](/f22/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/uk.po | 
+ | [vi](/f22/language/vi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f22/icewm/po/vi.po | 
 {.sortable}
 
 

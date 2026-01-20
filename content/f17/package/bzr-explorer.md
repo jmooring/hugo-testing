@@ -18,44 +18,44 @@ The package bzr-explorer (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f17/language/en.md" >}}) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1600 | 1656 | 96.6 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-de.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en_GB.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-fr.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ru.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-zh_CN.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1543 | 1656 | 93.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-es.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 1540 | 1656 | 93.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-sk.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1514 | 1656 | 91.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ja.po | 
- | [en_AU]({{< ref "/f17/language/en_AU.md" >}}) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en_AU.po | 
- | [en_CA]({{< ref "/f17/language/en_CA.md" >}}) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en_CA.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-et.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-lt.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 1507 | 1656 | 91.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-gl.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1503 | 1656 | 90.8 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-nl.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1477 | 1656 | 89.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-pt_BR.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1088 | 1656 | 65.7 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-it.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1041 | 1656 | 62.9 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-pl.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 819 | 1656 | 49.5 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-sv.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 739 | 1656 | 44.6 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-hu.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 490 | 1656 | 29.6 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-tr.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 464 | 1656 | 28.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-uk.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 402 | 1656 | 24.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-da.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 283 | 1656 | 17.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-bg.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 268 | 1656 | 16.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-fi.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 251 | 1656 | 15.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-fa.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 220 | 1656 | 13.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-cs.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 193 | 1656 | 11.7 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-oc.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 122 | 1656 | 7.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ar.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 104 | 1656 | 6.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-zh_TW.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 56 | 1656 | 3.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-he.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 39 | 1656 | 2.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-id.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 33 | 1656 | 2.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-th.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 22 | 1656 | 1.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-sr.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 18 | 1656 | 1.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-el.po | 
- | [lo]({{< ref "/f17/language/lo.md" >}}) | 1 | 1656 | 0.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-lo.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 0 | 1656 | 0.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ca.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 0 | 1656 | 0.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-pt.po | 
+ | [en](/f17/language/en) | 1656 | 1656 | 100.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en.po | 
+ | [de](/f17/language/de) | 1600 | 1656 | 96.6 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-de.po | 
+ | [en_GB](/f17/language/en_GB) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en_GB.po | 
+ | [fr](/f17/language/fr) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-fr.po | 
+ | [ru](/f17/language/ru) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ru.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 1560 | 1656 | 94.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-zh_CN.po | 
+ | [es](/f17/language/es) | 1543 | 1656 | 93.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-es.po | 
+ | [sk](/f17/language/sk) | 1540 | 1656 | 93.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-sk.po | 
+ | [ja](/f17/language/ja) | 1514 | 1656 | 91.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ja.po | 
+ | [en_AU](/f17/language/en_AU) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en_AU.po | 
+ | [en_CA](/f17/language/en_CA) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-en_CA.po | 
+ | [et](/f17/language/et) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-et.po | 
+ | [lt](/f17/language/lt) | 1509 | 1656 | 91.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-lt.po | 
+ | [gl](/f17/language/gl) | 1507 | 1656 | 91.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-gl.po | 
+ | [nl](/f17/language/nl) | 1503 | 1656 | 90.8 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-nl.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1477 | 1656 | 89.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-pt_BR.po | 
+ | [it](/f17/language/it) | 1088 | 1656 | 65.7 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-it.po | 
+ | [pl](/f17/language/pl) | 1041 | 1656 | 62.9 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-pl.po | 
+ | [sv](/f17/language/sv) | 819 | 1656 | 49.5 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-sv.po | 
+ | [hu](/f17/language/hu) | 739 | 1656 | 44.6 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-hu.po | 
+ | [tr](/f17/language/tr) | 490 | 1656 | 29.6 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-tr.po | 
+ | [uk](/f17/language/uk) | 464 | 1656 | 28.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-uk.po | 
+ | [da](/f17/language/da) | 402 | 1656 | 24.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-da.po | 
+ | [bg](/f17/language/bg) | 283 | 1656 | 17.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-bg.po | 
+ | [fi](/f17/language/fi) | 268 | 1656 | 16.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-fi.po | 
+ | [fa](/f17/language/fa) | 251 | 1656 | 15.2 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-fa.po | 
+ | [cs](/f17/language/cs) | 220 | 1656 | 13.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-cs.po | 
+ | [oc](/f17/language/oc) | 193 | 1656 | 11.7 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-oc.po | 
+ | [ar](/f17/language/ar) | 122 | 1656 | 7.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ar.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 104 | 1656 | 6.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-zh_TW.po | 
+ | [he](/f17/language/he) | 56 | 1656 | 3.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-he.po | 
+ | [id](/f17/language/id) | 39 | 1656 | 2.4 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-id.po | 
+ | [th](/f17/language/th) | 33 | 1656 | 2.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-th.po | 
+ | [sr](/f17/language/sr) | 22 | 1656 | 1.3 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-sr.po | 
+ | [el](/f17/language/el) | 18 | 1656 | 1.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-el.po | 
+ | [lo](/f17/language/lo) | 1 | 1656 | 0.1 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-lo.po | 
+ | [ca](/f17/language/ca) | 0 | 1656 | 0.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-ca.po | 
+ | [pt](/f17/language/pt) | 0 | 1656 | 0.0 | /mnt/stockage/packages/f17/bzr-explorer/po/explorer-pt.po | 
 {.sortable}
 
 

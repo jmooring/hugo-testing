@@ -18,15 +18,15 @@ The package fcitx-m17n (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ca.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/da.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/de.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ko.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ru.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/tr.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/zh_TW.po | 
+ | [ca](/f34/language/ca) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ca.po | 
+ | [da](/f34/language/da) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/da.po | 
+ | [de](/f34/language/de) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/de.po | 
+ | [ja](/f34/language/ja) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ja.po | 
+ | [ko](/f34/language/ko) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ko.po | 
+ | [ru](/f34/language/ru) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/ru.po | 
+ | [tr](/f34/language/tr) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/tr.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/zh_CN.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 45 | 45 | 100.0 | /mnt/stockage/packages/f34/fcitx-m17n/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,50 +18,50 @@ The package gstreamer1-plugins-bad-free (version 1.26.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f42/language/bg.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/bg.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/de.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/eo.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/fur.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/it.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ka.po | 
- | [lv]({{< ref "/f42/language/lv.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/lv.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/nb.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/pl.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ru.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sk.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/zh_TW.po | 
- | [ast]({{< ref "/f42/language/ast.md" >}}) | 194 | 197 | 98.5 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ast.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 194 | 197 | 98.5 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/cs.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 194 | 197 | 98.5 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/vi.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ca.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/el.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/gl.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ja.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 49 | 197 | 24.9 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/eu.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 49 | 197 | 24.9 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/fi.po | 
- | [mt]({{< ref "/f42/language/mt.md" >}}) | 43 | 197 | 21.8 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/mt.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 30 | 197 | 15.2 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/lt.po | 
- | [sq]({{< ref "/f42/language/sq.md" >}}) | 30 | 197 | 15.2 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sq.po | 
- | [ky]({{< ref "/f42/language/ky.md" >}}) | 26 | 197 | 13.2 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ky.po | 
- | [af]({{< ref "/f42/language/af.md" >}}) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/af.po | 
- | [az]({{< ref "/f42/language/az.md" >}}) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/az.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/en_GB.po | 
- | [or]({{< ref "/f42/language/or.md" >}}) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/or.po | 
+ | [bg](/f42/language/bg) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/bg.po | 
+ | [da](/f42/language/da) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/da.po | 
+ | [de](/f42/language/de) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/de.po | 
+ | [eo](/f42/language/eo) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/eo.po | 
+ | [es](/f42/language/es) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/es.po | 
+ | [fr](/f42/language/fr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/fr.po | 
+ | [fur](/f42/language/fur) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/fur.po | 
+ | [hr](/f42/language/hr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/hr.po | 
+ | [hu](/f42/language/hu) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/hu.po | 
+ | [id](/f42/language/id) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/id.po | 
+ | [it](/f42/language/it) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/it.po | 
+ | [ka](/f42/language/ka) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ka.po | 
+ | [lv](/f42/language/lv) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/lv.po | 
+ | [nb_NO](/f42/language/nb_NO) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/nb.po | 
+ | [nl](/f42/language/nl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/nl.po | 
+ | [pl](/f42/language/pl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/pl.po | 
+ | [pt_BR](/f42/language/pt_BR) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ro.po | 
+ | [ru](/f42/language/ru) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ru.po | 
+ | [sk](/f42/language/sk) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sk.po | 
+ | [sl](/f42/language/sl) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sl.po | 
+ | [sr](/f42/language/sr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sr.po | 
+ | [sv](/f42/language/sv) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sv.po | 
+ | [tr](/f42/language/tr) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/tr.po | 
+ | [uk](/f42/language/uk) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 197 | 197 | 100.0 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/zh_TW.po | 
+ | [ast](/f42/language/ast) | 194 | 197 | 98.5 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ast.po | 
+ | [cs](/f42/language/cs) | 194 | 197 | 98.5 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/cs.po | 
+ | [vi](/f42/language/vi) | 194 | 197 | 98.5 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/vi.po | 
+ | [ca](/f42/language/ca) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ca.po | 
+ | [el](/f42/language/el) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/el.po | 
+ | [gl](/f42/language/gl) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/gl.po | 
+ | [ja](/f42/language/ja) | 73 | 197 | 37.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ja.po | 
+ | [eu](/f42/language/eu) | 49 | 197 | 24.9 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/eu.po | 
+ | [fi](/f42/language/fi) | 49 | 197 | 24.9 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/fi.po | 
+ | [mt](/f42/language/mt) | 43 | 197 | 21.8 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/mt.po | 
+ | [lt](/f42/language/lt) | 30 | 197 | 15.2 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/lt.po | 
+ | [sq](/f42/language/sq) | 30 | 197 | 15.2 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/sq.po | 
+ | [ky](/f42/language/ky) | 26 | 197 | 13.2 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/ky.po | 
+ | [af](/f42/language/af) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/af.po | 
+ | [az](/f42/language/az) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/az.po | 
+ | [en_GB](/f42/language/en_GB) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/en_GB.po | 
+ | [or](/f42/language/or) | 12 | 197 | 6.1 | /mnt/stockage/packages/f42/gstreamer1-plugins-bad-free/po/or.po | 
 {.sortable}
 
 

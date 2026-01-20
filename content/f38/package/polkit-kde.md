@@ -18,69 +18,69 @@ The package polkit-kde (version 5.27.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ar/polkit-kde-authentication-agent-1.po | 
- | [be]({{< ref "/f38/language/be.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/be/polkit-kde-authentication-agent-1.po | 
- | [bg]({{< ref "/f38/language/bg.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/bg/polkit-kde-authentication-agent-1.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ca/polkit-kde-authentication-agent-1.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ca@valencia/polkit-kde-authentication-agent-1.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/cs/polkit-kde-authentication-agent-1.po | 
- | [da]({{< ref "/f38/language/da.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/da/polkit-kde-authentication-agent-1.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/de/polkit-kde-authentication-agent-1.po | 
- | [el]({{< ref "/f38/language/el.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/el/polkit-kde-authentication-agent-1.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/en_GB/polkit-kde-authentication-agent-1.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/es/polkit-kde-authentication-agent-1.po | 
- | [et]({{< ref "/f38/language/et.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/et/polkit-kde-authentication-agent-1.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/eu/polkit-kde-authentication-agent-1.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/fi/polkit-kde-authentication-agent-1.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/fr/polkit-kde-authentication-agent-1.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/gl/polkit-kde-authentication-agent-1.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/hu/polkit-kde-authentication-agent-1.po | 
- | [ia]({{< ref "/f38/language/ia.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ia/polkit-kde-authentication-agent-1.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/id/polkit-kde-authentication-agent-1.po | 
- | [ie]({{< ref "/f38/language/ie.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ie/polkit-kde-authentication-agent-1.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/it/polkit-kde-authentication-agent-1.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ja/polkit-kde-authentication-agent-1.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ka/polkit-kde-authentication-agent-1.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ko/polkit-kde-authentication-agent-1.po | 
- | [lt]({{< ref "/f38/language/lt.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/lt/polkit-kde-authentication-agent-1.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/nl/polkit-kde-authentication-agent-1.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/nn/polkit-kde-authentication-agent-1.po | 
- | [pa]({{< ref "/f38/language/pa.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pa/polkit-kde-authentication-agent-1.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pl/polkit-kde-authentication-agent-1.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pt/polkit-kde-authentication-agent-1.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pt_BR/polkit-kde-authentication-agent-1.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ro/polkit-kde-authentication-agent-1.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ru/polkit-kde-authentication-agent-1.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/sk/polkit-kde-authentication-agent-1.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/sl/polkit-kde-authentication-agent-1.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/sv/polkit-kde-authentication-agent-1.po | 
- | [tg]({{< ref "/f38/language/tg.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/tg/polkit-kde-authentication-agent-1.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/tr/polkit-kde-authentication-agent-1.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/uk/polkit-kde-authentication-agent-1.po | 
- | [vi]({{< ref "/f38/language/vi.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/vi/polkit-kde-authentication-agent-1.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/zh_CN/polkit-kde-authentication-agent-1.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/zh_TW/polkit-kde-authentication-agent-1.po | 
- | [hsb]({{< ref "/f38/language/hsb.md" >}}) | 94 | 95 | 98.9 | /mnt/stockage/packages/f38/polkit-kde/po/hsb/polkit-kde-authentication-agent-1.po | 
- | [he]({{< ref "/f38/language/he.md" >}}) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/he/polkit-kde-authentication-agent-1.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/nb/polkit-kde-authentication-agent-1.po | 
- | [sr]({{< ref "/f38/language/sr.md" >}}) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr/polkit-kde-authentication-agent-1.po | 
- | [sr@ijekavian]({{< ref "/f38/language/sr@ijekavian.md" >}}) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr@ijekavian/polkit-kde-authentication-agent-1.po | 
- | [sr@ijekavian_Latn]({{< ref "/f38/language/sr@ijekavian_Latn.md" >}}) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr@ijekavianlatin/polkit-kde-authentication-agent-1.po | 
- | [sr_Latn]({{< ref "/f38/language/sr_Latn.md" >}}) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr@latin/polkit-kde-authentication-agent-1.po | 
- | [bs]({{< ref "/f38/language/bs.md" >}}) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/bs/polkit-kde-authentication-agent-1.po | 
- | [ga]({{< ref "/f38/language/ga.md" >}}) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/ga/polkit-kde-authentication-agent-1.po | 
- | [kk]({{< ref "/f38/language/kk.md" >}}) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/kk/polkit-kde-authentication-agent-1.po | 
- | [km]({{< ref "/f38/language/km.md" >}}) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/km/polkit-kde-authentication-agent-1.po | 
- | [nds]({{< ref "/f38/language/nds.md" >}}) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/nds/polkit-kde-authentication-agent-1.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 76 | 95 | 80.0 | /mnt/stockage/packages/f38/polkit-kde/po/hr/polkit-kde-authentication-agent-1.po | 
- | [th]({{< ref "/f38/language/th.md" >}}) | 76 | 95 | 80.0 | /mnt/stockage/packages/f38/polkit-kde/po/th/polkit-kde-authentication-agent-1.po | 
- | [ug]({{< ref "/f38/language/ug.md" >}}) | 57 | 95 | 60.0 | /mnt/stockage/packages/f38/polkit-kde/po/ug/polkit-kde-authentication-agent-1.po | 
- | [eo]({{< ref "/f38/language/eo.md" >}}) | 33 | 95 | 34.7 | /mnt/stockage/packages/f38/polkit-kde/po/eo/polkit-kde-authentication-agent-1.po | 
- | [mr]({{< ref "/f38/language/mr.md" >}}) | 27 | 95 | 28.4 | /mnt/stockage/packages/f38/polkit-kde/po/mr/polkit-kde-authentication-agent-1.po | 
- | [is]({{< ref "/f38/language/is.md" >}}) | 23 | 95 | 24.2 | /mnt/stockage/packages/f38/polkit-kde/po/is/polkit-kde-authentication-agent-1.po | 
- | [ms]({{< ref "/f38/language/ms.md" >}}) | 19 | 95 | 20.0 | /mnt/stockage/packages/f38/polkit-kde/po/ms/polkit-kde-authentication-agent-1.po | 
- | [mai]({{< ref "/f38/language/mai.md" >}}) | 11 | 95 | 11.6 | /mnt/stockage/packages/f38/polkit-kde/po/mai/polkit-kde-authentication-agent-1.po | 
- | [ml]({{< ref "/f38/language/ml.md" >}}) | 4 | 95 | 4.2 | /mnt/stockage/packages/f38/polkit-kde/po/ml/polkit-kde-authentication-agent-1.po | 
+ | [ar](/f38/language/ar) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ar/polkit-kde-authentication-agent-1.po | 
+ | [be](/f38/language/be) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/be/polkit-kde-authentication-agent-1.po | 
+ | [bg](/f38/language/bg) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/bg/polkit-kde-authentication-agent-1.po | 
+ | [ca](/f38/language/ca) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ca/polkit-kde-authentication-agent-1.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ca@valencia/polkit-kde-authentication-agent-1.po | 
+ | [cs](/f38/language/cs) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/cs/polkit-kde-authentication-agent-1.po | 
+ | [da](/f38/language/da) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/da/polkit-kde-authentication-agent-1.po | 
+ | [de](/f38/language/de) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/de/polkit-kde-authentication-agent-1.po | 
+ | [el](/f38/language/el) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/el/polkit-kde-authentication-agent-1.po | 
+ | [en_GB](/f38/language/en_GB) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/en_GB/polkit-kde-authentication-agent-1.po | 
+ | [es](/f38/language/es) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/es/polkit-kde-authentication-agent-1.po | 
+ | [et](/f38/language/et) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/et/polkit-kde-authentication-agent-1.po | 
+ | [eu](/f38/language/eu) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/eu/polkit-kde-authentication-agent-1.po | 
+ | [fi](/f38/language/fi) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/fi/polkit-kde-authentication-agent-1.po | 
+ | [fr](/f38/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/fr/polkit-kde-authentication-agent-1.po | 
+ | [gl](/f38/language/gl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/gl/polkit-kde-authentication-agent-1.po | 
+ | [hu](/f38/language/hu) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/hu/polkit-kde-authentication-agent-1.po | 
+ | [ia](/f38/language/ia) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ia/polkit-kde-authentication-agent-1.po | 
+ | [id](/f38/language/id) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/id/polkit-kde-authentication-agent-1.po | 
+ | [ie](/f38/language/ie) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ie/polkit-kde-authentication-agent-1.po | 
+ | [it](/f38/language/it) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/it/polkit-kde-authentication-agent-1.po | 
+ | [ja](/f38/language/ja) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ja/polkit-kde-authentication-agent-1.po | 
+ | [ka](/f38/language/ka) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ka/polkit-kde-authentication-agent-1.po | 
+ | [ko](/f38/language/ko) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ko/polkit-kde-authentication-agent-1.po | 
+ | [lt](/f38/language/lt) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/lt/polkit-kde-authentication-agent-1.po | 
+ | [nl](/f38/language/nl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/nl/polkit-kde-authentication-agent-1.po | 
+ | [nn](/f38/language/nn) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/nn/polkit-kde-authentication-agent-1.po | 
+ | [pa](/f38/language/pa) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pa/polkit-kde-authentication-agent-1.po | 
+ | [pl](/f38/language/pl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pl/polkit-kde-authentication-agent-1.po | 
+ | [pt](/f38/language/pt) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pt/polkit-kde-authentication-agent-1.po | 
+ | [pt_BR](/f38/language/pt_BR) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/pt_BR/polkit-kde-authentication-agent-1.po | 
+ | [ro](/f38/language/ro) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ro/polkit-kde-authentication-agent-1.po | 
+ | [ru](/f38/language/ru) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/ru/polkit-kde-authentication-agent-1.po | 
+ | [sk](/f38/language/sk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/sk/polkit-kde-authentication-agent-1.po | 
+ | [sl](/f38/language/sl) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/sl/polkit-kde-authentication-agent-1.po | 
+ | [sv](/f38/language/sv) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/sv/polkit-kde-authentication-agent-1.po | 
+ | [tg](/f38/language/tg) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/tg/polkit-kde-authentication-agent-1.po | 
+ | [tr](/f38/language/tr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/tr/polkit-kde-authentication-agent-1.po | 
+ | [uk](/f38/language/uk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/uk/polkit-kde-authentication-agent-1.po | 
+ | [vi](/f38/language/vi) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/vi/polkit-kde-authentication-agent-1.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/zh_CN/polkit-kde-authentication-agent-1.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 95 | 95 | 100.0 | /mnt/stockage/packages/f38/polkit-kde/po/zh_TW/polkit-kde-authentication-agent-1.po | 
+ | [hsb](/f38/language/hsb) | 94 | 95 | 98.9 | /mnt/stockage/packages/f38/polkit-kde/po/hsb/polkit-kde-authentication-agent-1.po | 
+ | [he](/f38/language/he) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/he/polkit-kde-authentication-agent-1.po | 
+ | [nb_NO](/f38/language/nb_NO) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/nb/polkit-kde-authentication-agent-1.po | 
+ | [sr](/f38/language/sr) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr/polkit-kde-authentication-agent-1.po | 
+ | [sr@ijekavian](/f38/language/sr@ijekavian) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr@ijekavian/polkit-kde-authentication-agent-1.po | 
+ | [sr@ijekavian_Latn](/f38/language/sr@ijekavian_Latn) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr@ijekavianlatin/polkit-kde-authentication-agent-1.po | 
+ | [sr_Latn](/f38/language/sr_Latn) | 89 | 95 | 93.7 | /mnt/stockage/packages/f38/polkit-kde/po/sr@latin/polkit-kde-authentication-agent-1.po | 
+ | [bs](/f38/language/bs) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/bs/polkit-kde-authentication-agent-1.po | 
+ | [ga](/f38/language/ga) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/ga/polkit-kde-authentication-agent-1.po | 
+ | [kk](/f38/language/kk) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/kk/polkit-kde-authentication-agent-1.po | 
+ | [km](/f38/language/km) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/km/polkit-kde-authentication-agent-1.po | 
+ | [nds](/f38/language/nds) | 78 | 95 | 82.1 | /mnt/stockage/packages/f38/polkit-kde/po/nds/polkit-kde-authentication-agent-1.po | 
+ | [hr](/f38/language/hr) | 76 | 95 | 80.0 | /mnt/stockage/packages/f38/polkit-kde/po/hr/polkit-kde-authentication-agent-1.po | 
+ | [th](/f38/language/th) | 76 | 95 | 80.0 | /mnt/stockage/packages/f38/polkit-kde/po/th/polkit-kde-authentication-agent-1.po | 
+ | [ug](/f38/language/ug) | 57 | 95 | 60.0 | /mnt/stockage/packages/f38/polkit-kde/po/ug/polkit-kde-authentication-agent-1.po | 
+ | [eo](/f38/language/eo) | 33 | 95 | 34.7 | /mnt/stockage/packages/f38/polkit-kde/po/eo/polkit-kde-authentication-agent-1.po | 
+ | [mr](/f38/language/mr) | 27 | 95 | 28.4 | /mnt/stockage/packages/f38/polkit-kde/po/mr/polkit-kde-authentication-agent-1.po | 
+ | [is](/f38/language/is) | 23 | 95 | 24.2 | /mnt/stockage/packages/f38/polkit-kde/po/is/polkit-kde-authentication-agent-1.po | 
+ | [ms](/f38/language/ms) | 19 | 95 | 20.0 | /mnt/stockage/packages/f38/polkit-kde/po/ms/polkit-kde-authentication-agent-1.po | 
+ | [mai](/f38/language/mai) | 11 | 95 | 11.6 | /mnt/stockage/packages/f38/polkit-kde/po/mai/polkit-kde-authentication-agent-1.po | 
+ | [ml](/f38/language/ml) | 4 | 95 | 4.2 | /mnt/stockage/packages/f38/polkit-kde/po/ml/polkit-kde-authentication-agent-1.po | 
 {.sortable}
 
 

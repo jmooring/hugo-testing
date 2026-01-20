@@ -18,7 +18,7 @@ The package phosh-mobile-settings (version 0.29.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 54 | 166 | 32.5 | /mnt/stockage/packages/f39/phosh-mobile-settings/po/de.po | 
+ | [de](/f39/language/de) | 54 | 166 | 32.5 | /mnt/stockage/packages/f39/phosh-mobile-settings/po/de.po | 
 {.sortable}
 
 

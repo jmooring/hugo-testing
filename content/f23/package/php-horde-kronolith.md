@@ -18,40 +18,40 @@ The package php-horde-kronolith (version 4.2.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 766 | 766 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ar/LC_MESSAGES/kronolith.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 919 | 919 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/bg/LC_MESSAGES/kronolith.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 3859 | 3859 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ca/LC_MESSAGES/kronolith.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/da/LC_MESSAGES/kronolith.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 3864 | 3864 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/de/LC_MESSAGES/kronolith.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 3855 | 3855 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/el/LC_MESSAGES/kronolith.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 3852 | 3852 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/es/LC_MESSAGES/kronolith.po | 
- | [et]({{< ref "/f23/language/et.md" >}}) | 3633 | 3633 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/et/LC_MESSAGES/kronolith.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 3858 | 3858 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/eu/LC_MESSAGES/kronolith.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 3653 | 3653 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/fi/LC_MESSAGES/kronolith.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 3633 | 3633 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/hr/LC_MESSAGES/kronolith.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 3852 | 3852 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/hu/LC_MESSAGES/kronolith.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ja/LC_MESSAGES/kronolith.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 3581 | 3581 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/lt/LC_MESSAGES/kronolith.po | 
- | [lv]({{< ref "/f23/language/lv.md" >}}) | 3653 | 3653 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/lv/LC_MESSAGES/kronolith.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 867 | 867 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/nb/LC_MESSAGES/kronolith.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 3726 | 3726 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/nl/LC_MESSAGES/kronolith.po | 
- | [nn]({{< ref "/f23/language/nn.md" >}}) | 658 | 658 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/nn/LC_MESSAGES/kronolith.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/pl/LC_MESSAGES/kronolith.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/pt/LC_MESSAGES/kronolith.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 3858 | 3858 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/pt_BR/LC_MESSAGES/kronolith.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 401 | 401 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ro/LC_MESSAGES/kronolith.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 658 | 658 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ru/LC_MESSAGES/kronolith.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 3581 | 3581 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/sk/LC_MESSAGES/kronolith.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 1720 | 1720 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/sl/LC_MESSAGES/kronolith.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 3649 | 3649 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/sv/LC_MESSAGES/kronolith.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 1852 | 1852 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/zh_CN/LC_MESSAGES/kronolith.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 3836 | 3855 | 99.5 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/it/LC_MESSAGES/kronolith.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 3834 | 3855 | 99.5 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/fr/LC_MESSAGES/kronolith.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 2179 | 2193 | 99.4 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/zh_TW/LC_MESSAGES/kronolith.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 3550 | 3639 | 97.6 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/tr/LC_MESSAGES/kronolith.po | 
- | [uk]({{< ref "/f23/language/uk.md" >}}) | 2966 | 3651 | 81.2 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/uk/LC_MESSAGES/kronolith.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 2665 | 3852 | 69.2 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/cs/LC_MESSAGES/kronolith.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 1201 | 3790 | 31.7 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ko/LC_MESSAGES/kronolith.po | 
+ | [ar](/f23/language/ar) | 766 | 766 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ar/LC_MESSAGES/kronolith.po | 
+ | [bg](/f23/language/bg) | 919 | 919 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/bg/LC_MESSAGES/kronolith.po | 
+ | [ca](/f23/language/ca) | 3859 | 3859 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ca/LC_MESSAGES/kronolith.po | 
+ | [da](/f23/language/da) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/da/LC_MESSAGES/kronolith.po | 
+ | [de](/f23/language/de) | 3864 | 3864 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/de/LC_MESSAGES/kronolith.po | 
+ | [el](/f23/language/el) | 3855 | 3855 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/el/LC_MESSAGES/kronolith.po | 
+ | [es](/f23/language/es) | 3852 | 3852 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/es/LC_MESSAGES/kronolith.po | 
+ | [et](/f23/language/et) | 3633 | 3633 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/et/LC_MESSAGES/kronolith.po | 
+ | [eu](/f23/language/eu) | 3858 | 3858 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/eu/LC_MESSAGES/kronolith.po | 
+ | [fi](/f23/language/fi) | 3653 | 3653 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/fi/LC_MESSAGES/kronolith.po | 
+ | [hr](/f23/language/hr) | 3633 | 3633 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/hr/LC_MESSAGES/kronolith.po | 
+ | [hu](/f23/language/hu) | 3852 | 3852 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/hu/LC_MESSAGES/kronolith.po | 
+ | [ja](/f23/language/ja) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ja/LC_MESSAGES/kronolith.po | 
+ | [lt](/f23/language/lt) | 3581 | 3581 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/lt/LC_MESSAGES/kronolith.po | 
+ | [lv](/f23/language/lv) | 3653 | 3653 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/lv/LC_MESSAGES/kronolith.po | 
+ | [nb_NO](/f23/language/nb_NO) | 867 | 867 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/nb/LC_MESSAGES/kronolith.po | 
+ | [nl](/f23/language/nl) | 3726 | 3726 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/nl/LC_MESSAGES/kronolith.po | 
+ | [nn](/f23/language/nn) | 658 | 658 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/nn/LC_MESSAGES/kronolith.po | 
+ | [pl](/f23/language/pl) | 3790 | 3790 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/pl/LC_MESSAGES/kronolith.po | 
+ | [pt](/f23/language/pt) | 1597 | 1597 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/pt/LC_MESSAGES/kronolith.po | 
+ | [pt_BR](/f23/language/pt_BR) | 3858 | 3858 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/pt_BR/LC_MESSAGES/kronolith.po | 
+ | [ro](/f23/language/ro) | 401 | 401 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ro/LC_MESSAGES/kronolith.po | 
+ | [ru](/f23/language/ru) | 658 | 658 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ru/LC_MESSAGES/kronolith.po | 
+ | [sk](/f23/language/sk) | 3581 | 3581 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/sk/LC_MESSAGES/kronolith.po | 
+ | [sl](/f23/language/sl) | 1720 | 1720 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/sl/LC_MESSAGES/kronolith.po | 
+ | [sv](/f23/language/sv) | 3649 | 3649 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/sv/LC_MESSAGES/kronolith.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 1852 | 1852 | 100.0 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/zh_CN/LC_MESSAGES/kronolith.po | 
+ | [it](/f23/language/it) | 3836 | 3855 | 99.5 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/it/LC_MESSAGES/kronolith.po | 
+ | [fr](/f23/language/fr) | 3834 | 3855 | 99.5 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/fr/LC_MESSAGES/kronolith.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 2179 | 2193 | 99.4 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/zh_TW/LC_MESSAGES/kronolith.po | 
+ | [tr](/f23/language/tr) | 3550 | 3639 | 97.6 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/tr/LC_MESSAGES/kronolith.po | 
+ | [uk](/f23/language/uk) | 2966 | 3651 | 81.2 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/uk/LC_MESSAGES/kronolith.po | 
+ | [cs](/f23/language/cs) | 2665 | 3852 | 69.2 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/cs/LC_MESSAGES/kronolith.po | 
+ | [ko](/f23/language/ko) | 1201 | 3790 | 31.7 | /mnt/stockage/packages/f23/php-horde-kronolith/kronolith-4.2.18/locale/ko/LC_MESSAGES/kronolith.po | 
 {.sortable}
 
 

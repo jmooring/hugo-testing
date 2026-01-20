@@ -18,12 +18,12 @@ The package ecore (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/cs.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/it.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/pt.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 55 | 110 | 50.0 | /mnt/stockage/packages/f15/ecore/po/el.po | 
+ | [cs](/f15/language/cs) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/cs.po | 
+ | [de](/f15/language/de) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/de.po | 
+ | [fr](/f15/language/fr) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/fr.po | 
+ | [it](/f15/language/it) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/it.po | 
+ | [pt](/f15/language/pt) | 110 | 110 | 100.0 | /mnt/stockage/packages/f15/ecore/po/pt.po | 
+ | [el](/f15/language/el) | 55 | 110 | 50.0 | /mnt/stockage/packages/f15/ecore/po/el.po | 
 {.sortable}
 
 

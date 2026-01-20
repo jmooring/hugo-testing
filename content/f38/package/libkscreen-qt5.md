@@ -18,35 +18,35 @@ The package libkscreen-qt5 (version 5.27.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ca/libkscreen5_qt.po | 
- | [ca@valencia]({{< ref "/f38/language/ca@valencia.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ca@valencia/libkscreen5_qt.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/de/libkscreen5_qt.po | 
- | [en_GB]({{< ref "/f38/language/en_GB.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/en_GB/libkscreen5_qt.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/es/libkscreen5_qt.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/eu/libkscreen5_qt.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/fi/libkscreen5_qt.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/fr/libkscreen5_qt.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/gl/libkscreen5_qt.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/id/libkscreen5_qt.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/it/libkscreen5_qt.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ka/libkscreen5_qt.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ko/libkscreen5_qt.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/nl/libkscreen5_qt.po | 
- | [nn]({{< ref "/f38/language/nn.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/nn/libkscreen5_qt.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/pl/libkscreen5_qt.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/pt/libkscreen5_qt.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/pt_BR/libkscreen5_qt.po | 
- | [ro]({{< ref "/f38/language/ro.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ro/libkscreen5_qt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ru/libkscreen5_qt.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/sk/libkscreen5_qt.po | 
- | [sl]({{< ref "/f38/language/sl.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/sl/libkscreen5_qt.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/sv/libkscreen5_qt.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/tr/libkscreen5_qt.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/uk/libkscreen5_qt.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/zh_CN/libkscreen5_qt.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/zh_TW/libkscreen5_qt.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 8 | 24 | 33.3 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/cs/libkscreen5_qt.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 24 | 0.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ja/libkscreen5_qt.po | 
+ | [ca](/f38/language/ca) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ca/libkscreen5_qt.po | 
+ | [ca@valencia](/f38/language/ca@valencia) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ca@valencia/libkscreen5_qt.po | 
+ | [de](/f38/language/de) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/de/libkscreen5_qt.po | 
+ | [en_GB](/f38/language/en_GB) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/en_GB/libkscreen5_qt.po | 
+ | [es](/f38/language/es) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/es/libkscreen5_qt.po | 
+ | [eu](/f38/language/eu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/eu/libkscreen5_qt.po | 
+ | [fi](/f38/language/fi) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/fi/libkscreen5_qt.po | 
+ | [fr](/f38/language/fr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/fr/libkscreen5_qt.po | 
+ | [gl](/f38/language/gl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/gl/libkscreen5_qt.po | 
+ | [id](/f38/language/id) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/id/libkscreen5_qt.po | 
+ | [it](/f38/language/it) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/it/libkscreen5_qt.po | 
+ | [ka](/f38/language/ka) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ka/libkscreen5_qt.po | 
+ | [ko](/f38/language/ko) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ko/libkscreen5_qt.po | 
+ | [nl](/f38/language/nl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/nl/libkscreen5_qt.po | 
+ | [nn](/f38/language/nn) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/nn/libkscreen5_qt.po | 
+ | [pl](/f38/language/pl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/pl/libkscreen5_qt.po | 
+ | [pt](/f38/language/pt) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/pt/libkscreen5_qt.po | 
+ | [pt_BR](/f38/language/pt_BR) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/pt_BR/libkscreen5_qt.po | 
+ | [ro](/f38/language/ro) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ro/libkscreen5_qt.po | 
+ | [ru](/f38/language/ru) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ru/libkscreen5_qt.po | 
+ | [sk](/f38/language/sk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/sk/libkscreen5_qt.po | 
+ | [sl](/f38/language/sl) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/sl/libkscreen5_qt.po | 
+ | [sv](/f38/language/sv) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/sv/libkscreen5_qt.po | 
+ | [tr](/f38/language/tr) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/tr/libkscreen5_qt.po | 
+ | [uk](/f38/language/uk) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/uk/libkscreen5_qt.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/zh_CN/libkscreen5_qt.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/zh_TW/libkscreen5_qt.po | 
+ | [cs](/f38/language/cs) | 8 | 24 | 33.3 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/cs/libkscreen5_qt.po | 
+ | [ja](/f38/language/ja) | 0 | 24 | 0.0 | /mnt/stockage/packages/f38/libkscreen-qt5/poqm/ja/libkscreen5_qt.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [stellarium]({{< ref "/f21/package/stellarium.md" >}}) | 1 | 15825 | 0.0 | Chechen <ce@li.org> | 
- | [simple-scan]({{< ref "/f21/package/simple-scan.md" >}}) | 0 | 577 | 0.0 | Chechen <ce@li.org> | 
+ | [stellarium](/f21/package/stellarium) | 1 | 15825 | 0.0 | Chechen <ce@li.org> | 
+ | [simple-scan](/f21/package/simple-scan) | 0 | 577 | 0.0 | Chechen <ce@li.org> | 
 {.sortable}
 
 

@@ -18,39 +18,39 @@ The package mod_cluster (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/de.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/eo.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ga.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/vi.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/af.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ca.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/da.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/es.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/et.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/fr.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/gl.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/hr.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/it.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/nl.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/pl.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/pt_BR.po | 
- | [rm]({{< ref "/f14/language/rm.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/rm.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sk.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sl.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sq.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sr.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sv.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/tr.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/uk.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/wa.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/zh_TW.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 15 | 327 | 4.6 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ro.po | 
+ | [de](/f14/language/de) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/de.po | 
+ | [eo](/f14/language/eo) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/eo.po | 
+ | [ga](/f14/language/ga) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ga.po | 
+ | [vi](/f14/language/vi) | 287 | 327 | 87.8 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/vi.po | 
+ | [af](/f14/language/af) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/af.po | 
+ | [ca](/f14/language/ca) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ca.po | 
+ | [da](/f14/language/da) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/da.po | 
+ | [el](/f14/language/el) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/el.po | 
+ | [es](/f14/language/es) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/es.po | 
+ | [et](/f14/language/et) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/et.po | 
+ | [fi](/f14/language/fi) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/fi.po | 
+ | [fr](/f14/language/fr) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/fr.po | 
+ | [gl](/f14/language/gl) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/gl.po | 
+ | [hr](/f14/language/hr) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/hr.po | 
+ | [hu](/f14/language/hu) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/hu.po | 
+ | [id](/f14/language/id) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/id.po | 
+ | [it](/f14/language/it) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/it.po | 
+ | [nl](/f14/language/nl) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/nl.po | 
+ | [pl](/f14/language/pl) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/pl.po | 
+ | [pt_BR](/f14/language/pt_BR) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/pt_BR.po | 
+ | [rm](/f14/language/rm) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/rm.po | 
+ | [ru](/f14/language/ru) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ru.po | 
+ | [sk](/f14/language/sk) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sk.po | 
+ | [sl](/f14/language/sl) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sl.po | 
+ | [sq](/f14/language/sq) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sq.po | 
+ | [sr](/f14/language/sr) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sr.po | 
+ | [sv](/f14/language/sv) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/sv.po | 
+ | [tr](/f14/language/tr) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/tr.po | 
+ | [uk](/f14/language/uk) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/uk.po | 
+ | [wa](/f14/language/wa) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/wa.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 39 | 327 | 11.9 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/zh_TW.po | 
+ | [ro](/f14/language/ro) | 15 | 327 | 4.6 | /mnt/stockage/packages/f14/mod_cluster/srclib/libiconv-1.11/po/ro.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package qalculate-kde (version 0.9.7.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f26/qalculate-kde/po/nl.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 1399 | 1420 | 98.5 | /mnt/stockage/packages/f26/qalculate-kde/po/zh_CN.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1385 | 1420 | 97.5 | /mnt/stockage/packages/f26/qalculate-kde/po/fr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 1378 | 1420 | 97.0 | /mnt/stockage/packages/f26/qalculate-kde/po/sv.po | 
+ | [nl](/f26/language/nl) | 1420 | 1420 | 100.0 | /mnt/stockage/packages/f26/qalculate-kde/po/nl.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 1399 | 1420 | 98.5 | /mnt/stockage/packages/f26/qalculate-kde/po/zh_CN.po | 
+ | [fr](/f26/language/fr) | 1385 | 1420 | 97.5 | /mnt/stockage/packages/f26/qalculate-kde/po/fr.po | 
+ | [sv](/f26/language/sv) | 1378 | 1420 | 97.0 | /mnt/stockage/packages/f26/qalculate-kde/po/sv.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package python-oslo-log (version 6.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/de/LC_MESSAGES/oslo_log.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 682 | 682 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/en_GB/LC_MESSAGES/oslo_log.po/mnt/stockage/packages/f43/python-oslo-log/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/es/LC_MESSAGES/oslo_log.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 38 | 38 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/ja/LC_MESSAGES/oslo_log.po | 
+ | [de](/f43/language/de) | 75 | 75 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/de/LC_MESSAGES/oslo_log.po | 
+ | [en_GB](/f43/language/en_GB) | 682 | 682 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/en_GB/LC_MESSAGES/oslo_log.po/mnt/stockage/packages/f43/python-oslo-log/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [es](/f43/language/es) | 75 | 75 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/es/LC_MESSAGES/oslo_log.po | 
+ | [fr](/f43/language/fr) | 38 | 38 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [ja](/f43/language/ja) | 75 | 75 | 100.0 | /mnt/stockage/packages/f43/python-oslo-log/oslo_log/locale/ja/LC_MESSAGES/oslo_log.po | 
 {.sortable}
 
 

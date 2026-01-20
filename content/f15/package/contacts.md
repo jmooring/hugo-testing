@@ -18,37 +18,37 @@ The package contacts (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f15/language/ar.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/ar.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f15/contacts/po/de.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 287 | 287 | 100.0 | /mnt/stockage/packages/f15/contacts/po/es.po | 
- | [eu]({{< ref "/f15/language/eu.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/eu.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/fi.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/fr.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/gl.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/id.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/ja.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/ko.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/pl.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/pt_BR.po | 
- | [sl]({{< ref "/f15/language/sl.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/sl.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/sv.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/zh_TW.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/cs.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/en_GB.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/pa.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/pt.po | 
- | [th]({{< ref "/f15/language/th.md" >}}) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/th.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 279 | 285 | 97.9 | /mnt/stockage/packages/f15/contacts/po/ru.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 238 | 285 | 83.5 | /mnt/stockage/packages/f15/contacts/po/nb.po | 
- | [da]({{< ref "/f15/language/da.md" >}}) | 236 | 285 | 82.8 | /mnt/stockage/packages/f15/contacts/po/da.po | 
- | [bg]({{< ref "/f15/language/bg.md" >}}) | 107 | 285 | 37.5 | /mnt/stockage/packages/f15/contacts/po/bg.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 96 | 285 | 33.7 | /mnt/stockage/packages/f15/contacts/po/ca.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 85 | 285 | 29.8 | /mnt/stockage/packages/f15/contacts/po/et.po | 
+ | [ar](/f15/language/ar) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/ar.po | 
+ | [de](/f15/language/de) | 287 | 287 | 100.0 | /mnt/stockage/packages/f15/contacts/po/de.po | 
+ | [es](/f15/language/es) | 287 | 287 | 100.0 | /mnt/stockage/packages/f15/contacts/po/es.po | 
+ | [eu](/f15/language/eu) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/eu.po | 
+ | [fi](/f15/language/fi) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/fi.po | 
+ | [fr](/f15/language/fr) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/fr.po | 
+ | [gl](/f15/language/gl) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/gl.po | 
+ | [hu](/f15/language/hu) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/hu.po | 
+ | [id](/f15/language/id) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/id.po | 
+ | [it](/f15/language/it) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/it.po | 
+ | [ja](/f15/language/ja) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/ja.po | 
+ | [ko](/f15/language/ko) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/ko.po | 
+ | [nl](/f15/language/nl) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/nl.po | 
+ | [pl](/f15/language/pl) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/pl.po | 
+ | [pt_BR](/f15/language/pt_BR) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/pt_BR.po | 
+ | [sl](/f15/language/sl) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/sl.po | 
+ | [sv](/f15/language/sv) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/sv.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 285 | 285 | 100.0 | /mnt/stockage/packages/f15/contacts/po/zh_TW.po | 
+ | [cs](/f15/language/cs) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/cs.po | 
+ | [el](/f15/language/el) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/en_GB.po | 
+ | [pa](/f15/language/pa) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/pa.po | 
+ | [pt](/f15/language/pt) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/pt.po | 
+ | [th](/f15/language/th) | 284 | 285 | 99.6 | /mnt/stockage/packages/f15/contacts/po/th.po | 
+ | [ru](/f15/language/ru) | 279 | 285 | 97.9 | /mnt/stockage/packages/f15/contacts/po/ru.po | 
+ | [nb_NO](/f15/language/nb_NO) | 238 | 285 | 83.5 | /mnt/stockage/packages/f15/contacts/po/nb.po | 
+ | [da](/f15/language/da) | 236 | 285 | 82.8 | /mnt/stockage/packages/f15/contacts/po/da.po | 
+ | [bg](/f15/language/bg) | 107 | 285 | 37.5 | /mnt/stockage/packages/f15/contacts/po/bg.po | 
+ | [ca](/f15/language/ca) | 96 | 285 | 33.7 | /mnt/stockage/packages/f15/contacts/po/ca.po | 
+ | [et](/f15/language/et) | 85 | 285 | 29.8 | /mnt/stockage/packages/f15/contacts/po/et.po | 
 {.sortable}
 
 

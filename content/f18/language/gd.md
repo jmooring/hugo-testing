@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [freeciv]({{< ref "/f18/package/freeciv.md" >}}) | 70240 | 70240 | 100.0 | Akerbeltz | 
- | [libreoffice]({{< ref "/f18/package/libreoffice.md" >}}) | 91859 | 91859 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f18/package/lightdm-gtk.md" >}}) | 56 | 57 | 98.2 | Gaelic; Scottish <gd@li.org> | 
- | [gallery2]({{< ref "/f18/package/gallery2.md" >}}) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
- | [stellarium]({{< ref "/f18/package/stellarium.md" >}}) | 2478 | 11181 | 22.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [wesnoth]({{< ref "/f18/package/wesnoth.md" >}}) | 42134 | 245378 | 17.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
- | [docky]({{< ref "/f18/package/docky.md" >}}) | 199 | 1757 | 11.3 | Gaelic; Scottish <gd@li.org> | 
- | [tuxpaint-stamps]({{< ref "/f18/package/tuxpaint-stamps.md" >}}) | 178 | 2711 | 6.6 |  | 
- | [tuxpaint]({{< ref "/f18/package/tuxpaint.md" >}}) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
- | [deja-dup]({{< ref "/f18/package/deja-dup.md" >}}) | 0 | 1756 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [gambas]({{< ref "/f18/package/gambas.md" >}}) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
- | [gwibber]({{< ref "/f18/package/gwibber.md" >}}) | 0 | 769 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [lightdm]({{< ref "/f18/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Gaelic; Scottish <gd@li.org> | 
- | [openconnect]({{< ref "/f18/package/openconnect.md" >}}) | 0 | 2573 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
+ | [freeciv](/f18/package/freeciv) | 70240 | 70240 | 100.0 | Akerbeltz | 
+ | [libreoffice](/f18/package/libreoffice) | 91859 | 91859 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f18/package/lightdm-gtk) | 56 | 57 | 98.2 | Gaelic; Scottish <gd@li.org> | 
+ | [gallery2](/f18/package/gallery2) | 188 | 202 | 93.1 | Afrikaans <gallery-translations@lists.sourceforge.net> | 
+ | [stellarium](/f18/package/stellarium) | 2478 | 11181 | 22.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [wesnoth](/f18/package/wesnoth) | 42134 | 245378 | 17.2 | Fòram na Gàidhlig http://www.foramnagaidhlig.net | 
+ | [docky](/f18/package/docky) | 199 | 1757 | 11.3 | Gaelic; Scottish <gd@li.org> | 
+ | [tuxpaint-stamps](/f18/package/tuxpaint-stamps) | 178 | 2711 | 6.6 |  | 
+ | [tuxpaint](/f18/package/tuxpaint) | 51 | 1247 | 4.1 | <internationiall@hotmail.com> | 
+ | [deja-dup](/f18/package/deja-dup) | 0 | 1756 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [gambas](/f18/package/gambas) | 0 | 1891 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [gwibber](/f18/package/gwibber) | 0 | 769 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [lightdm](/f18/package/lightdm) | 0 | 79 | 0.0 | Gaelic; Scottish <gd@li.org> | 
+ | [openconnect](/f18/package/openconnect) | 0 | 2573 | 0.0 | Gaelic, Scottish (http://www.transifex.net/projects/p/meego/team/gd/) | 
 {.sortable}
 
 

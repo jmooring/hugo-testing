@@ -18,15 +18,15 @@ The package gsynaptics (version 0.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f8/language/es.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/es.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/hu.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/ja.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/pl.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 64 | 65 | 98.5 | /mnt/stockage/packages/f8/gsynaptics/po/zh_CN.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 44 | 65 | 67.7 | /mnt/stockage/packages/f8/gsynaptics/po/ru.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 43 | 65 | 66.2 | /mnt/stockage/packages/f8/gsynaptics/po/fr.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 31 | 65 | 47.7 | /mnt/stockage/packages/f8/gsynaptics/po/nb.po | 
+ | [es](/f8/language/es) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/es.po | 
+ | [hu](/f8/language/hu) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/hu.po | 
+ | [ja](/f8/language/ja) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/ja.po | 
+ | [pl](/f8/language/pl) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/pl.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 65 | 65 | 100.0 | /mnt/stockage/packages/f8/gsynaptics/po/zh_TW.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 64 | 65 | 98.5 | /mnt/stockage/packages/f8/gsynaptics/po/zh_CN.po | 
+ | [ru](/f8/language/ru) | 44 | 65 | 67.7 | /mnt/stockage/packages/f8/gsynaptics/po/ru.po | 
+ | [fr](/f8/language/fr) | 43 | 65 | 66.2 | /mnt/stockage/packages/f8/gsynaptics/po/fr.po | 
+ | [nb_NO](/f8/language/nb_NO) | 31 | 65 | 47.7 | /mnt/stockage/packages/f8/gsynaptics/po/nb.po | 
 {.sortable}
 
 

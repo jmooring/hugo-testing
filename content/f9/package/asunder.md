@@ -18,28 +18,28 @@ The package asunder (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be_Latn]({{< ref "/f9/language/be_Latn.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/be@latin.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/cs.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/de.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/el.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/fr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/hu.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/ja.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/ru.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/sq.po | 
- | [sr]({{< ref "/f9/language/sr.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/sr.po | 
- | [sr_Latn]({{< ref "/f9/language/sr_Latn.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/zh_TW.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 310 | 330 | 93.9 | /mnt/stockage/packages/f9/asunder/po/it.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/es.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/nl.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/pt_BR.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/sv.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 123 | 330 | 37.3 | /mnt/stockage/packages/f9/asunder/po/nb.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 123 | 330 | 37.3 | /mnt/stockage/packages/f9/asunder/po/nn.po | 
+ | [be_Latn](/f9/language/be_Latn) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/be@latin.po | 
+ | [ca](/f9/language/ca) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/ca.po | 
+ | [cs](/f9/language/cs) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/cs.po | 
+ | [de](/f9/language/de) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/de.po | 
+ | [el](/f9/language/el) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/el.po | 
+ | [fi](/f9/language/fi) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/fi.po | 
+ | [fr](/f9/language/fr) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/fr.po | 
+ | [hu](/f9/language/hu) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/hu.po | 
+ | [ja](/f9/language/ja) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/ja.po | 
+ | [pl](/f9/language/pl) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/pl.po | 
+ | [ru](/f9/language/ru) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/ru.po | 
+ | [sq](/f9/language/sq) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/sq.po | 
+ | [sr](/f9/language/sr) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/sr.po | 
+ | [sr_Latn](/f9/language/sr_Latn) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/sr@latin.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 330 | 330 | 100.0 | /mnt/stockage/packages/f9/asunder/po/zh_TW.po | 
+ | [it](/f9/language/it) | 310 | 330 | 93.9 | /mnt/stockage/packages/f9/asunder/po/it.po | 
+ | [es](/f9/language/es) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/es.po | 
+ | [nl](/f9/language/nl) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/nl.po | 
+ | [pt_BR](/f9/language/pt_BR) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/pt_BR.po | 
+ | [sv](/f9/language/sv) | 298 | 330 | 90.3 | /mnt/stockage/packages/f9/asunder/po/sv.po | 
+ | [nb_NO](/f9/language/nb_NO) | 123 | 330 | 37.3 | /mnt/stockage/packages/f9/asunder/po/nb.po | 
+ | [nn](/f9/language/nn) | 123 | 330 | 37.3 | /mnt/stockage/packages/f9/asunder/po/nn.po | 
 {.sortable}
 
 

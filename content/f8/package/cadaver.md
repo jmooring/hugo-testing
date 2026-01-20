@@ -18,9 +18,9 @@ The package cadaver (version 0.23.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f8/language/error.md" >}}) | 1473 | 1473 | 100.0 | /mnt/stockage/packages/f8/cadaver/po/en@quot.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 668 | 1473 | 45.3 | /mnt/stockage/packages/f8/cadaver/po/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 668 | 1473 | 45.3 | /mnt/stockage/packages/f8/cadaver/po/it.po | 
+ | [error](/f8/language/error) | 1473 | 1473 | 100.0 | /mnt/stockage/packages/f8/cadaver/po/en@quot.po | 
+ | [es](/f8/language/es) | 668 | 1473 | 45.3 | /mnt/stockage/packages/f8/cadaver/po/es.po | 
+ | [it](/f8/language/it) | 668 | 1473 | 45.3 | /mnt/stockage/packages/f8/cadaver/po/it.po | 
 {.sortable}
 
 

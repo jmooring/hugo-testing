@@ -18,13 +18,13 @@ The package gammu (version 1.22.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f10/language/es.md" >}}) | 3731 | 3731 | 100.0 | /mnt/stockage/packages/f10/gammu/locale/es/gammu.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 3290 | 3731 | 88.2 | /mnt/stockage/packages/f10/gammu/locale/de/gammu.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1719 | 3731 | 46.1 | /mnt/stockage/packages/f10/gammu/locale/cs/gammu.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 1262 | 3731 | 33.8 | /mnt/stockage/packages/f10/gammu/locale/ru/gammu.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 896 | 3731 | 24.0 | /mnt/stockage/packages/f10/gammu/locale/it/gammu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 623 | 3731 | 16.7 | /mnt/stockage/packages/f10/gammu/locale/pl/gammu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 0 | 3731 | 0.0 | /mnt/stockage/packages/f10/gammu/locale/id/gammu.po | 
+ | [es](/f10/language/es) | 3731 | 3731 | 100.0 | /mnt/stockage/packages/f10/gammu/locale/es/gammu.po | 
+ | [de](/f10/language/de) | 3290 | 3731 | 88.2 | /mnt/stockage/packages/f10/gammu/locale/de/gammu.po | 
+ | [cs](/f10/language/cs) | 1719 | 3731 | 46.1 | /mnt/stockage/packages/f10/gammu/locale/cs/gammu.po | 
+ | [ru](/f10/language/ru) | 1262 | 3731 | 33.8 | /mnt/stockage/packages/f10/gammu/locale/ru/gammu.po | 
+ | [it](/f10/language/it) | 896 | 3731 | 24.0 | /mnt/stockage/packages/f10/gammu/locale/it/gammu.po | 
+ | [pl](/f10/language/pl) | 623 | 3731 | 16.7 | /mnt/stockage/packages/f10/gammu/locale/pl/gammu.po | 
+ | [id](/f10/language/id) | 0 | 3731 | 0.0 | /mnt/stockage/packages/f10/gammu/locale/id/gammu.po | 
 {.sortable}
 
 

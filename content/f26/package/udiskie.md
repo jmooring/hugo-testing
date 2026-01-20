@@ -18,8 +18,8 @@ The package udiskie (version 1.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f26/language/en_US.md" >}}) | 274 | 533 | 51.4 | /mnt/stockage/packages/f26/udiskie/lang/en_US.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 239 | 533 | 44.8 | /mnt/stockage/packages/f26/udiskie/lang/es_ES.po | 
+ | [en_US](/f26/language/en_US) | 274 | 533 | 51.4 | /mnt/stockage/packages/f26/udiskie/lang/en_US.po | 
+ | [es](/f26/language/es) | 239 | 533 | 44.8 | /mnt/stockage/packages/f26/udiskie/lang/es_ES.po | 
 {.sortable}
 
 

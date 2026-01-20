@@ -18,9 +18,9 @@ The package rmlint (version 2.9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f30/language/de.md" >}}) | 1017 | 1266 | 80.3 | /mnt/stockage/packages/f30/rmlint/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 837 | 1266 | 66.1 | /mnt/stockage/packages/f30/rmlint/po/es.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 739 | 1266 | 58.4 | /mnt/stockage/packages/f30/rmlint/po/fr.po | 
+ | [de](/f30/language/de) | 1017 | 1266 | 80.3 | /mnt/stockage/packages/f30/rmlint/po/de.po | 
+ | [es](/f30/language/es) | 837 | 1266 | 66.1 | /mnt/stockage/packages/f30/rmlint/po/es.po | 
+ | [fr](/f30/language/fr) | 739 | 1266 | 58.4 | /mnt/stockage/packages/f30/rmlint/po/fr.po | 
 {.sortable}
 
 

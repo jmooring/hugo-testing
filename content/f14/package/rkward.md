@@ -18,18 +18,18 @@ The package rkward (version 0.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 4501 | 4501 | 100.0 | /mnt/stockage/packages/f14/rkward/po/cs.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 4501 | 4501 | 100.0 | /mnt/stockage/packages/f14/rkward/po/es.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 4464 | 4501 | 99.2 | /mnt/stockage/packages/f14/rkward/po/de.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 3526 | 4501 | 78.3 | /mnt/stockage/packages/f14/rkward/po/ca.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 3208 | 4501 | 71.3 | /mnt/stockage/packages/f14/rkward/po/lt.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 2496 | 4501 | 55.5 | /mnt/stockage/packages/f14/rkward/po/el.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 2477 | 4501 | 55.0 | /mnt/stockage/packages/f14/rkward/po/da.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 2477 | 4501 | 55.0 | /mnt/stockage/packages/f14/rkward/po/zh_CN.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 1955 | 4501 | 43.4 | /mnt/stockage/packages/f14/rkward/po/tr.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1891 | 4501 | 42.0 | /mnt/stockage/packages/f14/rkward/po/fr.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 521 | 4501 | 11.6 | /mnt/stockage/packages/f14/rkward/po/it.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 173 | 4501 | 3.8 | /mnt/stockage/packages/f14/rkward/po/pl.po | 
+ | [cs](/f14/language/cs) | 4501 | 4501 | 100.0 | /mnt/stockage/packages/f14/rkward/po/cs.po | 
+ | [es](/f14/language/es) | 4501 | 4501 | 100.0 | /mnt/stockage/packages/f14/rkward/po/es.po | 
+ | [de](/f14/language/de) | 4464 | 4501 | 99.2 | /mnt/stockage/packages/f14/rkward/po/de.po | 
+ | [ca](/f14/language/ca) | 3526 | 4501 | 78.3 | /mnt/stockage/packages/f14/rkward/po/ca.po | 
+ | [lt](/f14/language/lt) | 3208 | 4501 | 71.3 | /mnt/stockage/packages/f14/rkward/po/lt.po | 
+ | [el](/f14/language/el) | 2496 | 4501 | 55.5 | /mnt/stockage/packages/f14/rkward/po/el.po | 
+ | [da](/f14/language/da) | 2477 | 4501 | 55.0 | /mnt/stockage/packages/f14/rkward/po/da.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 2477 | 4501 | 55.0 | /mnt/stockage/packages/f14/rkward/po/zh_CN.po | 
+ | [tr](/f14/language/tr) | 1955 | 4501 | 43.4 | /mnt/stockage/packages/f14/rkward/po/tr.po | 
+ | [fr](/f14/language/fr) | 1891 | 4501 | 42.0 | /mnt/stockage/packages/f14/rkward/po/fr.po | 
+ | [it](/f14/language/it) | 521 | 4501 | 11.6 | /mnt/stockage/packages/f14/rkward/po/it.po | 
+ | [pl](/f14/language/pl) | 173 | 4501 | 3.8 | /mnt/stockage/packages/f14/rkward/po/pl.po | 
 {.sortable}
 
 

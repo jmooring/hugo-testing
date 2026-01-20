@@ -18,10 +18,10 @@ The package python-django-post_office (version 3.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 80 | 80 | 100.0 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/de/LC_MESSAGES/django.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/pl/LC_MESSAGES/django.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/ru_RU/LC_MESSAGES/django.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 43 | 49 | 87.8 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/it/LC_MESSAGES/django.po | 
+ | [de](/f31/language/de) | 80 | 80 | 100.0 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/de/LC_MESSAGES/django.po | 
+ | [pl](/f31/language/pl) | 77 | 77 | 100.0 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/pl/LC_MESSAGES/django.po | 
+ | [ru](/f31/language/ru) | 79 | 79 | 100.0 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/ru_RU/LC_MESSAGES/django.po | 
+ | [it](/f31/language/it) | 43 | 49 | 87.8 | /mnt/stockage/packages/f31/python-django-post_office/post_office/locale/it/LC_MESSAGES/django.po | 
 {.sortable}
 
 

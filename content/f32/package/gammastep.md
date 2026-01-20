@@ -18,42 +18,42 @@ The package gammastep (version 2.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 945 | 945 | 100.0 | /mnt/stockage/packages/f32/gammastep/po/pt_BR.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 930 | 955 | 97.4 | /mnt/stockage/packages/f32/gammastep/po/tr.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 882 | 945 | 93.3 | /mnt/stockage/packages/f32/gammastep/po/es.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/be.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/de.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/en_GB.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/ja.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/uk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/zh_TW.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 571 | 945 | 60.4 | /mnt/stockage/packages/f32/gammastep/po/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 415 | 945 | 43.9 | /mnt/stockage/packages/f32/gammastep/po/hu.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 411 | 945 | 43.5 | /mnt/stockage/packages/f32/gammastep/po/pl.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 389 | 945 | 41.2 | /mnt/stockage/packages/f32/gammastep/po/nl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 386 | 945 | 40.8 | /mnt/stockage/packages/f32/gammastep/po/sv.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 386 | 945 | 40.8 | /mnt/stockage/packages/f32/gammastep/po/zh_CN.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 321 | 945 | 34.0 | /mnt/stockage/packages/f32/gammastep/po/it.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 266 | 945 | 28.1 | /mnt/stockage/packages/f32/gammastep/po/pt.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 256 | 945 | 27.1 | /mnt/stockage/packages/f32/gammastep/po/nb.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 254 | 945 | 26.9 | /mnt/stockage/packages/f32/gammastep/po/ru.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 250 | 945 | 26.5 | /mnt/stockage/packages/f32/gammastep/po/lt.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 160 | 945 | 16.9 | /mnt/stockage/packages/f32/gammastep/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 160 | 945 | 16.9 | /mnt/stockage/packages/f32/gammastep/po/fi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 160 | 945 | 16.9 | /mnt/stockage/packages/f32/gammastep/po/hr.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 147 | 945 | 15.6 | /mnt/stockage/packages/f32/gammastep/po/sr.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 101 | 945 | 10.7 | /mnt/stockage/packages/f32/gammastep/po/he.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 82 | 945 | 8.7 | /mnt/stockage/packages/f32/gammastep/po/gl.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 28 | 945 | 3.0 | /mnt/stockage/packages/f32/gammastep/po/hi.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 17 | 945 | 1.8 | /mnt/stockage/packages/f32/gammastep/po/ro.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 13 | 945 | 1.4 | /mnt/stockage/packages/f32/gammastep/po/ar.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 10 | 945 | 1.1 | /mnt/stockage/packages/f32/gammastep/po/el.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 5 | 945 | 0.5 | /mnt/stockage/packages/f32/gammastep/po/et.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 1 | 945 | 0.1 | /mnt/stockage/packages/f32/gammastep/po/ka.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 0 | 945 | 0.0 | /mnt/stockage/packages/f32/gammastep/po/bg.po | 
+ | [pt_BR](/f32/language/pt_BR) | 945 | 945 | 100.0 | /mnt/stockage/packages/f32/gammastep/po/pt_BR.po | 
+ | [tr](/f32/language/tr) | 930 | 955 | 97.4 | /mnt/stockage/packages/f32/gammastep/po/tr.po | 
+ | [es](/f32/language/es) | 882 | 945 | 93.3 | /mnt/stockage/packages/f32/gammastep/po/es.po | 
+ | [be](/f32/language/be) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/be.po | 
+ | [ca](/f32/language/ca) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/ca.po | 
+ | [cs](/f32/language/cs) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/cs.po | 
+ | [da](/f32/language/da) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/da.po | 
+ | [de](/f32/language/de) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/de.po | 
+ | [en_GB](/f32/language/en_GB) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/en_GB.po | 
+ | [ja](/f32/language/ja) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/ja.po | 
+ | [uk](/f32/language/uk) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/uk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 595 | 945 | 63.0 | /mnt/stockage/packages/f32/gammastep/po/zh_TW.po | 
+ | [fr](/f32/language/fr) | 571 | 945 | 60.4 | /mnt/stockage/packages/f32/gammastep/po/fr.po | 
+ | [hu](/f32/language/hu) | 415 | 945 | 43.9 | /mnt/stockage/packages/f32/gammastep/po/hu.po | 
+ | [pl](/f32/language/pl) | 411 | 945 | 43.5 | /mnt/stockage/packages/f32/gammastep/po/pl.po | 
+ | [nl](/f32/language/nl) | 389 | 945 | 41.2 | /mnt/stockage/packages/f32/gammastep/po/nl.po | 
+ | [sv](/f32/language/sv) | 386 | 945 | 40.8 | /mnt/stockage/packages/f32/gammastep/po/sv.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 386 | 945 | 40.8 | /mnt/stockage/packages/f32/gammastep/po/zh_CN.po | 
+ | [it](/f32/language/it) | 321 | 945 | 34.0 | /mnt/stockage/packages/f32/gammastep/po/it.po | 
+ | [pt](/f32/language/pt) | 266 | 945 | 28.1 | /mnt/stockage/packages/f32/gammastep/po/pt.po | 
+ | [nb_NO](/f32/language/nb_NO) | 256 | 945 | 27.1 | /mnt/stockage/packages/f32/gammastep/po/nb.po | 
+ | [ru](/f32/language/ru) | 254 | 945 | 26.9 | /mnt/stockage/packages/f32/gammastep/po/ru.po | 
+ | [lt](/f32/language/lt) | 250 | 945 | 26.5 | /mnt/stockage/packages/f32/gammastep/po/lt.po | 
+ | [eu](/f32/language/eu) | 160 | 945 | 16.9 | /mnt/stockage/packages/f32/gammastep/po/eu.po | 
+ | [fi](/f32/language/fi) | 160 | 945 | 16.9 | /mnt/stockage/packages/f32/gammastep/po/fi.po | 
+ | [hr](/f32/language/hr) | 160 | 945 | 16.9 | /mnt/stockage/packages/f32/gammastep/po/hr.po | 
+ | [sr](/f32/language/sr) | 147 | 945 | 15.6 | /mnt/stockage/packages/f32/gammastep/po/sr.po | 
+ | [he](/f32/language/he) | 101 | 945 | 10.7 | /mnt/stockage/packages/f32/gammastep/po/he.po | 
+ | [gl](/f32/language/gl) | 82 | 945 | 8.7 | /mnt/stockage/packages/f32/gammastep/po/gl.po | 
+ | [hi](/f32/language/hi) | 28 | 945 | 3.0 | /mnt/stockage/packages/f32/gammastep/po/hi.po | 
+ | [ro](/f32/language/ro) | 17 | 945 | 1.8 | /mnt/stockage/packages/f32/gammastep/po/ro.po | 
+ | [ar](/f32/language/ar) | 13 | 945 | 1.4 | /mnt/stockage/packages/f32/gammastep/po/ar.po | 
+ | [el](/f32/language/el) | 10 | 945 | 1.1 | /mnt/stockage/packages/f32/gammastep/po/el.po | 
+ | [et](/f32/language/et) | 5 | 945 | 0.5 | /mnt/stockage/packages/f32/gammastep/po/et.po | 
+ | [ka](/f32/language/ka) | 1 | 945 | 0.1 | /mnt/stockage/packages/f32/gammastep/po/ka.po | 
+ | [bg](/f32/language/bg) | 0 | 945 | 0.0 | /mnt/stockage/packages/f32/gammastep/po/bg.po | 
 {.sortable}
 
 

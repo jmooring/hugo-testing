@@ -18,37 +18,37 @@ The package elinks (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 12234 | 12234 | 100.0 | /mnt/stockage/packages/f12/elinks/po/pl.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 12053 | 12234 | 98.5 | /mnt/stockage/packages/f12/elinks/po/fr.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 6174 | 12234 | 50.5 | /mnt/stockage/packages/f12/elinks/po/da.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 5377 | 12234 | 44.0 | /mnt/stockage/packages/f12/elinks/po/sr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 5287 | 12234 | 43.2 | /mnt/stockage/packages/f12/elinks/po/hu.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 4804 | 12234 | 39.3 | /mnt/stockage/packages/f12/elinks/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 4065 | 12234 | 33.2 | /mnt/stockage/packages/f12/elinks/po/de.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 3683 | 12234 | 30.1 | /mnt/stockage/packages/f12/elinks/po/fi.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 3293 | 12234 | 26.9 | /mnt/stockage/packages/f12/elinks/po/it.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 2832 | 12234 | 23.1 | /mnt/stockage/packages/f12/elinks/po/sk.po | 
- | [af]({{< ref "/f12/language/af.md" >}}) | 2443 | 12234 | 20.0 | /mnt/stockage/packages/f12/elinks/po/af.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 772 | 12234 | 6.3 | /mnt/stockage/packages/f12/elinks/po/uk.po | 
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 611 | 12234 | 5.0 | /mnt/stockage/packages/f12/elinks/po/bg.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 479 | 12234 | 3.9 | /mnt/stockage/packages/f12/elinks/po/pt.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 423 | 12234 | 3.5 | /mnt/stockage/packages/f12/elinks/po/es.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 411 | 12234 | 3.4 | /mnt/stockage/packages/f12/elinks/po/ru.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 405 | 12234 | 3.3 | /mnt/stockage/packages/f12/elinks/po/pt_BR.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/hr.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/id.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/nb.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/nl.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/ro.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/el.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/et.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/gl.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/sv.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 354 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/ca.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 351 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/lt.po | 
- | [is]({{< ref "/f12/language/is.md" >}}) | 349 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/is.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 349 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/tr.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f12/elinks/po/be.po | 
+ | [pl](/f12/language/pl) | 12234 | 12234 | 100.0 | /mnt/stockage/packages/f12/elinks/po/pl.po | 
+ | [fr](/f12/language/fr) | 12053 | 12234 | 98.5 | /mnt/stockage/packages/f12/elinks/po/fr.po | 
+ | [da](/f12/language/da) | 6174 | 12234 | 50.5 | /mnt/stockage/packages/f12/elinks/po/da.po | 
+ | [sr](/f12/language/sr) | 5377 | 12234 | 44.0 | /mnt/stockage/packages/f12/elinks/po/sr.po | 
+ | [hu](/f12/language/hu) | 5287 | 12234 | 43.2 | /mnt/stockage/packages/f12/elinks/po/hu.po | 
+ | [cs](/f12/language/cs) | 4804 | 12234 | 39.3 | /mnt/stockage/packages/f12/elinks/po/cs.po | 
+ | [de](/f12/language/de) | 4065 | 12234 | 33.2 | /mnt/stockage/packages/f12/elinks/po/de.po | 
+ | [fi](/f12/language/fi) | 3683 | 12234 | 30.1 | /mnt/stockage/packages/f12/elinks/po/fi.po | 
+ | [it](/f12/language/it) | 3293 | 12234 | 26.9 | /mnt/stockage/packages/f12/elinks/po/it.po | 
+ | [sk](/f12/language/sk) | 2832 | 12234 | 23.1 | /mnt/stockage/packages/f12/elinks/po/sk.po | 
+ | [af](/f12/language/af) | 2443 | 12234 | 20.0 | /mnt/stockage/packages/f12/elinks/po/af.po | 
+ | [uk](/f12/language/uk) | 772 | 12234 | 6.3 | /mnt/stockage/packages/f12/elinks/po/uk.po | 
+ | [bg](/f12/language/bg) | 611 | 12234 | 5.0 | /mnt/stockage/packages/f12/elinks/po/bg.po | 
+ | [pt](/f12/language/pt) | 479 | 12234 | 3.9 | /mnt/stockage/packages/f12/elinks/po/pt.po | 
+ | [es](/f12/language/es) | 423 | 12234 | 3.5 | /mnt/stockage/packages/f12/elinks/po/es.po | 
+ | [ru](/f12/language/ru) | 411 | 12234 | 3.4 | /mnt/stockage/packages/f12/elinks/po/ru.po | 
+ | [pt_BR](/f12/language/pt_BR) | 405 | 12234 | 3.3 | /mnt/stockage/packages/f12/elinks/po/pt_BR.po | 
+ | [hr](/f12/language/hr) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/hr.po | 
+ | [id](/f12/language/id) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/id.po | 
+ | [nb_NO](/f12/language/nb_NO) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/nb.po | 
+ | [nl](/f12/language/nl) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/nl.po | 
+ | [ro](/f12/language/ro) | 359 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/ro.po | 
+ | [el](/f12/language/el) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/el.po | 
+ | [et](/f12/language/et) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/et.po | 
+ | [gl](/f12/language/gl) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/gl.po | 
+ | [sv](/f12/language/sv) | 357 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/sv.po | 
+ | [ca](/f12/language/ca) | 354 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/ca.po | 
+ | [lt](/f12/language/lt) | 351 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/lt.po | 
+ | [is](/f12/language/is) | 349 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/is.po | 
+ | [tr](/f12/language/tr) | 349 | 12234 | 2.9 | /mnt/stockage/packages/f12/elinks/po/tr.po | 
+ | [be](/f12/language/be) | 0 | 0 | 0.0 | /mnt/stockage/packages/f12/elinks/po/be.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package nmap (version 6.40):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 3518 | 3519 | 100.0 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/pl.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 3508 | 3519 | 99.7 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 3505 | 3519 | 99.6 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/ja.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 3256 | 3519 | 92.5 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/fr.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1197 | 3519 | 34.0 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/de.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 1165 | 3519 | 33.1 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/hr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 1131 | 3519 | 32.1 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/ru.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 184 | 3519 | 5.2 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
+ | [pl](/f18/language/pl) | 3518 | 3519 | 100.0 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/pl.po | 
+ | [it](/f18/language/it) | 3508 | 3519 | 99.7 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/it.po | 
+ | [ja](/f18/language/ja) | 3505 | 3519 | 99.6 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/ja.po | 
+ | [fr](/f18/language/fr) | 3256 | 3519 | 92.5 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/fr.po | 
+ | [de](/f18/language/de) | 1197 | 3519 | 34.0 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/de.po | 
+ | [hr](/f18/language/hr) | 1165 | 3519 | 33.1 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/hr.po | 
+ | [ru](/f18/language/ru) | 1131 | 3519 | 32.1 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/ru.po | 
+ | [pt_BR](/f18/language/pt_BR) | 184 | 3519 | 5.2 | /mnt/stockage/packages/f18/nmap/zenmap/share/zenmap/locale/pt_BR.po | 
 {.sortable}
 
 

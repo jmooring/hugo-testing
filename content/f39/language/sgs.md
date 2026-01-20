@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lagrange]({{< ref "/f39/package/lagrange.md" >}}) | 1745 | 1748 | 99.8 | Samogitian <http://weblate.skyjake.fi/projects/lagrange/ui/sgs/> | 
+ | [lagrange](/f39/package/lagrange) | 1745 | 1748 | 99.8 | Samogitian <http://weblate.skyjake.fi/projects/lagrange/ui/sgs/> | 
 {.sortable}
 
 

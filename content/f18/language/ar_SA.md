@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [childsplay]({{< ref "/f18/package/childsplay.md" >}}) | 1065 | 1226 | 86.9 | Arabic <> | 
- | [perl-libintl]({{< ref "/f18/package/perl-libintl.md" >}}) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
- | [publican]({{< ref "/f18/package/publican.md" >}}) | 353 | 1094 | 32.3 | ar <core@ojuba.org> | 
- | [owncloud]({{< ref "/f18/package/owncloud.md" >}}) | 0 | 2577 | 0.0 | Arabic (Saudi Arabia) (http://www.transifex.com/projects/p/owncloud/language/ar_SA/) | 
- | [publican-fedora]({{< ref "/f18/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [childsplay](/f18/package/childsplay) | 1065 | 1226 | 86.9 | Arabic <> | 
+ | [perl-libintl](/f18/package/perl-libintl) | 12 | 19 | 63.2 | Arabic <guido@imperia.net> | 
+ | [publican](/f18/package/publican) | 353 | 1094 | 32.3 | ar <core@ojuba.org> | 
+ | [owncloud](/f18/package/owncloud) | 0 | 2577 | 0.0 | Arabic (Saudi Arabia) (http://www.transifex.com/projects/p/owncloud/language/ar_SA/) | 
+ | [publican-fedora](/f18/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

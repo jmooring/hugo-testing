@@ -18,8 +18,8 @@ The package kmix (version 16.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f24/kmix/l10n/kmix-controls-de.po | 
- | [en]({{< ref "/f24/language/en.md" >}}) | 22 | 23 | 95.7 | /mnt/stockage/packages/f24/kmix/l10n/kmix-controls-en.po | 
+ | [de](/f24/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f24/kmix/l10n/kmix-controls-de.po | 
+ | [en](/f24/language/en) | 22 | 23 | 95.7 | /mnt/stockage/packages/f24/kmix/l10n/kmix-controls-en.po | 
 {.sortable}
 
 

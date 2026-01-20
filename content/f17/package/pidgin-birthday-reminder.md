@@ -18,19 +18,19 @@ The package pidgin-birthday-reminder (version 1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/cs.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/de.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/es.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/fr.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/gl.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/he.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/nl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/ru.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/sk.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 57 | 240 | 23.8 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/ta.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 11 | 240 | 4.6 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/tr.po | 
+ | [cs](/f17/language/cs) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/cs.po | 
+ | [de](/f17/language/de) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/de.po | 
+ | [es](/f17/language/es) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/es.po | 
+ | [fr](/f17/language/fr) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/fr.po | 
+ | [gl](/f17/language/gl) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/gl.po | 
+ | [he](/f17/language/he) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/he.po | 
+ | [nl](/f17/language/nl) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/nl.po | 
+ | [pt](/f17/language/pt) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/ru.po | 
+ | [sk](/f17/language/sk) | 240 | 240 | 100.0 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/sk.po | 
+ | [ta](/f17/language/ta) | 57 | 240 | 23.8 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/ta.po | 
+ | [tr](/f17/language/tr) | 11 | 240 | 4.6 | /mnt/stockage/packages/f17/pidgin-birthday-reminder/po/tr.po | 
 {.sortable}
 
 

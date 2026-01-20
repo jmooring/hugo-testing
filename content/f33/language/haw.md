@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [iso-codes]({{< ref "/f33/package/iso-codes.md" >}}) | 22 | 1086 | 2.0 | Hawaiian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/haw/> | 
- | [visualboyadvance-m]({{< ref "/f33/package/visualboyadvance-m.md" >}}) | 0 | 2393 | 0.0 | Hawaiian (http://www.transifex.com/bgk/vba-m/language/haw/) | 
+ | [iso-codes](/f33/package/iso-codes) | 22 | 1086 | 2.0 | Hawaiian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/haw/> | 
+ | [visualboyadvance-m](/f33/package/visualboyadvance-m) | 0 | 2393 | 0.0 | Hawaiian (http://www.transifex.com/bgk/vba-m/language/haw/) | 
 {.sortable}
 
 

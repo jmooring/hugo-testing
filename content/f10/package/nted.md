@@ -18,13 +18,13 @@ The package nted (version 1.4.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 1217 | 1227 | 99.2 | /mnt/stockage/packages/f10/nted/po/nl.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 11064 | 11491 | 96.3 | /mnt/stockage/packages/f10/nted/doc/it/it.po/mnt/stockage/packages/f10/nted/po/it.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 1154 | 1227 | 94.1 | /mnt/stockage/packages/f10/nted/po/fr.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 10680 | 11491 | 92.9 | /mnt/stockage/packages/f10/nted/doc/de/de.po/mnt/stockage/packages/f10/nted/po/de.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 704 | 1227 | 57.4 | /mnt/stockage/packages/f10/nted/po/sv.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 642 | 1227 | 52.3 | /mnt/stockage/packages/f10/nted/po/es.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 430 | 1227 | 35.0 | /mnt/stockage/packages/f10/nted/po/hu.po | 
+ | [nl](/f10/language/nl) | 1217 | 1227 | 99.2 | /mnt/stockage/packages/f10/nted/po/nl.po | 
+ | [it](/f10/language/it) | 11064 | 11491 | 96.3 | /mnt/stockage/packages/f10/nted/doc/it/it.po/mnt/stockage/packages/f10/nted/po/it.po | 
+ | [fr](/f10/language/fr) | 1154 | 1227 | 94.1 | /mnt/stockage/packages/f10/nted/po/fr.po | 
+ | [de](/f10/language/de) | 10680 | 11491 | 92.9 | /mnt/stockage/packages/f10/nted/doc/de/de.po/mnt/stockage/packages/f10/nted/po/de.po | 
+ | [sv](/f10/language/sv) | 704 | 1227 | 57.4 | /mnt/stockage/packages/f10/nted/po/sv.po | 
+ | [es](/f10/language/es) | 642 | 1227 | 52.3 | /mnt/stockage/packages/f10/nted/po/es.po | 
+ | [hu](/f10/language/hu) | 430 | 1227 | 35.0 | /mnt/stockage/packages/f10/nted/po/hu.po | 
 {.sortable}
 
 

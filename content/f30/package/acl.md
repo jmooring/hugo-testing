@@ -18,13 +18,13 @@ The package acl (version 2.2.53):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f30/language/error.md" >}}) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f30/acl/po/en@boldquot.po/mnt/stockage/packages/f30/acl/po/en@quot.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/de.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/es.po | 
- | [gl]({{< ref "/f30/language/gl.md" >}}) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/gl.po | 
- | [pl]({{< ref "/f30/language/pl.md" >}}) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/pl.po | 
- | [sv]({{< ref "/f30/language/sv.md" >}}) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/sv.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 370 | 500 | 74.0 | /mnt/stockage/packages/f30/acl/po/fr.po | 
+ | [error](/f30/language/error) | 1000 | 1000 | 100.0 | /mnt/stockage/packages/f30/acl/po/en@boldquot.po/mnt/stockage/packages/f30/acl/po/en@quot.po | 
+ | [de](/f30/language/de) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/de.po | 
+ | [es](/f30/language/es) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/es.po | 
+ | [gl](/f30/language/gl) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/gl.po | 
+ | [pl](/f30/language/pl) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/pl.po | 
+ | [sv](/f30/language/sv) | 395 | 500 | 79.0 | /mnt/stockage/packages/f30/acl/po/sv.po | 
+ | [fr](/f30/language/fr) | 370 | 500 | 74.0 | /mnt/stockage/packages/f30/acl/po/fr.po | 
 {.sortable}
 
 

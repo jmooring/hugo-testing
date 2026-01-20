@@ -18,30 +18,30 @@ The package plasma-mediacenter (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/ca/plasma-mediacenter.po | 
- | [ca@valencia]({{< ref "/f21/language/ca@valencia.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/ca@valencia/plasma-mediacenter.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/cs/plasma-mediacenter.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/da/plasma-mediacenter.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/de/plasma-mediacenter.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/es/plasma-mediacenter.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/fi/plasma-mediacenter.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/fr/plasma-mediacenter.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/hu/plasma-mediacenter.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/it/plasma-mediacenter.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/nl/plasma-mediacenter.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/pl/plasma-mediacenter.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/pt/plasma-mediacenter.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/pt_BR/plasma-mediacenter.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/sk/plasma-mediacenter.po | 
- | [sl]({{< ref "/f21/language/sl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/sl/plasma-mediacenter.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/sv/plasma-mediacenter.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/uk/plasma-mediacenter.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/zh_TW/plasma-mediacenter.po | 
- | [gl]({{< ref "/f21/language/gl.md" >}}) | 97 | 99 | 98.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/gl/plasma-mediacenter.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 97 | 99 | 98.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/tr/plasma-mediacenter.po | 
- | [bs]({{< ref "/f21/language/bs.md" >}}) | 94 | 99 | 94.9 | /mnt/stockage/packages/f21/plasma-mediacenter/po/bs/plasma-mediacenter.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 90 | 99 | 90.9 | /mnt/stockage/packages/f21/plasma-mediacenter/po/el/plasma-mediacenter.po | 
- | [lv]({{< ref "/f21/language/lv.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/plasma-mediacenter/po/lv/plasma-mediacenter.po | 
+ | [ca](/f21/language/ca) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/ca/plasma-mediacenter.po | 
+ | [ca@valencia](/f21/language/ca@valencia) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/ca@valencia/plasma-mediacenter.po | 
+ | [cs](/f21/language/cs) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/cs/plasma-mediacenter.po | 
+ | [da](/f21/language/da) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/da/plasma-mediacenter.po | 
+ | [de](/f21/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/de/plasma-mediacenter.po | 
+ | [es](/f21/language/es) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/es/plasma-mediacenter.po | 
+ | [fi](/f21/language/fi) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/fi/plasma-mediacenter.po | 
+ | [fr](/f21/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/fr/plasma-mediacenter.po | 
+ | [hu](/f21/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/hu/plasma-mediacenter.po | 
+ | [it](/f21/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/it/plasma-mediacenter.po | 
+ | [nl](/f21/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/nl/plasma-mediacenter.po | 
+ | [pl](/f21/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/pl/plasma-mediacenter.po | 
+ | [pt](/f21/language/pt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/pt/plasma-mediacenter.po | 
+ | [pt_BR](/f21/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/pt_BR/plasma-mediacenter.po | 
+ | [sk](/f21/language/sk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/sk/plasma-mediacenter.po | 
+ | [sl](/f21/language/sl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/sl/plasma-mediacenter.po | 
+ | [sv](/f21/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/sv/plasma-mediacenter.po | 
+ | [uk](/f21/language/uk) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/uk/plasma-mediacenter.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 99 | 99 | 100.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/zh_TW/plasma-mediacenter.po | 
+ | [gl](/f21/language/gl) | 97 | 99 | 98.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/gl/plasma-mediacenter.po | 
+ | [tr](/f21/language/tr) | 97 | 99 | 98.0 | /mnt/stockage/packages/f21/plasma-mediacenter/po/tr/plasma-mediacenter.po | 
+ | [bs](/f21/language/bs) | 94 | 99 | 94.9 | /mnt/stockage/packages/f21/plasma-mediacenter/po/bs/plasma-mediacenter.po | 
+ | [el](/f21/language/el) | 90 | 99 | 90.9 | /mnt/stockage/packages/f21/plasma-mediacenter/po/el/plasma-mediacenter.po | 
+ | [lv](/f21/language/lv) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/plasma-mediacenter/po/lv/plasma-mediacenter.po | 
 {.sortable}
 
 

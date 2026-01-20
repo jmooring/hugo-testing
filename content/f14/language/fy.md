@@ -38,29 +38,29 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f14/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Frisian <fy@li.org> | 
- | [gnome-backgrounds]({{< ref "/f14/package/gnome-backgrounds.md" >}}) | 23 | 23 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [gnome-icon-theme]({{< ref "/f14/package/gnome-icon-theme.md" >}}) | 4 | 4 | 100.0 | Frisian <fy@li.org> | 
- | [gnome-menus]({{< ref "/f14/package/gnome-menus.md" >}}) | 125 | 125 | 100.0 | Frisian <fy@li.org> | 
- | [gnome-session]({{< ref "/f14/package/gnome-session.md" >}}) | 622 | 622 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [koffice-kivio]({{< ref "/f14/package/koffice-kivio.md" >}}) | 8417 | 8417 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [ksig]({{< ref "/f14/package/ksig.md" >}}) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [squirrelmail]({{< ref "/f14/package/squirrelmail.md" >}}) | 16391 | 16391 | 100.0 | <kde-i18n-nl@kde.org> | 
- | [konq-plugins]({{< ref "/f14/package/konq-plugins.md" >}}) | 1404 | 1598 | 87.9 | Frysk <kde-i18n-fry@kde.org> | 
- | [kpilot]({{< ref "/f14/package/kpilot.md" >}}) | 5392 | 7156 | 75.3 | Frysk <kde-i18n-fry@kde.org> | 
- | [file-roller]({{< ref "/f14/package/file-roller.md" >}}) | 470 | 1383 | 34.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [gnome-panel]({{< ref "/f14/package/gnome-panel.md" >}}) | 1234 | 4504 | 27.4 | Frisian <gnome-fy-list@gnome.org> | 
- | [gdm]({{< ref "/f14/package/gdm.md" >}}) | 313 | 1306 | 24.0 | Frisian <gnome-fy-list@gnome.org> | 
- | [gnome-do]({{< ref "/f14/package/gnome-do.md" >}}) | 136 | 612 | 22.2 | Frisian <fy@li.org> | 
- | [Miro]({{< ref "/f14/package/Miro.md" >}}) | 521 | 3336 | 15.6 | Frisian <fy@li.org> | 
- | [nautilus]({{< ref "/f14/package/nautilus.md" >}}) | 946 | 8884 | 10.6 | Frisian <gnome-fy-list@gnome.org> | 
- | [phatch]({{< ref "/f14/package/phatch.md" >}}) | 172 | 2553 | 6.7 | Frisian <fy@li.org> | 
- | [warzone2100]({{< ref "/f14/package/warzone2100.md" >}}) | 561 | 12782 | 4.4 | Frisian <fy@li.org> | 
- | [picard]({{< ref "/f14/package/picard.md" >}}) | 44 | 1311 | 3.4 | Frisian <fy@li.org> | 
- | [gnome-bluetooth]({{< ref "/f14/package/gnome-bluetooth.md" >}}) | 15 | 514 | 2.9 | Frisian <fy@li.org> | 
- | [stellarium]({{< ref "/f14/package/stellarium.md" >}}) | 26 | 1744 | 1.5 | Frisian <fy@li.org> | 
- | [terminator]({{< ref "/f14/package/terminator.md" >}}) | 5 | 339 | 1.5 | Frisian <fy@li.org> | 
- | [vidalia]({{< ref "/f14/package/vidalia.md" >}}) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [alacarte](/f14/package/alacarte) | 42 | 42 | 100.0 | Frisian <fy@li.org> | 
+ | [gnome-backgrounds](/f14/package/gnome-backgrounds) | 23 | 23 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gnome-icon-theme](/f14/package/gnome-icon-theme) | 4 | 4 | 100.0 | Frisian <fy@li.org> | 
+ | [gnome-menus](/f14/package/gnome-menus) | 125 | 125 | 100.0 | Frisian <fy@li.org> | 
+ | [gnome-session](/f14/package/gnome-session) | 622 | 622 | 100.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [koffice-kivio](/f14/package/koffice-kivio) | 8417 | 8417 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [ksig](/f14/package/ksig) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [squirrelmail](/f14/package/squirrelmail) | 16391 | 16391 | 100.0 | <kde-i18n-nl@kde.org> | 
+ | [konq-plugins](/f14/package/konq-plugins) | 1404 | 1598 | 87.9 | Frysk <kde-i18n-fry@kde.org> | 
+ | [kpilot](/f14/package/kpilot) | 5392 | 7156 | 75.3 | Frysk <kde-i18n-fry@kde.org> | 
+ | [file-roller](/f14/package/file-roller) | 470 | 1383 | 34.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gnome-panel](/f14/package/gnome-panel) | 1234 | 4504 | 27.4 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gdm](/f14/package/gdm) | 313 | 1306 | 24.0 | Frisian <gnome-fy-list@gnome.org> | 
+ | [gnome-do](/f14/package/gnome-do) | 136 | 612 | 22.2 | Frisian <fy@li.org> | 
+ | [Miro](/f14/package/Miro) | 521 | 3336 | 15.6 | Frisian <fy@li.org> | 
+ | [nautilus](/f14/package/nautilus) | 946 | 8884 | 10.6 | Frisian <gnome-fy-list@gnome.org> | 
+ | [phatch](/f14/package/phatch) | 172 | 2553 | 6.7 | Frisian <fy@li.org> | 
+ | [warzone2100](/f14/package/warzone2100) | 561 | 12782 | 4.4 | Frisian <fy@li.org> | 
+ | [picard](/f14/package/picard) | 44 | 1311 | 3.4 | Frisian <fy@li.org> | 
+ | [gnome-bluetooth](/f14/package/gnome-bluetooth) | 15 | 514 | 2.9 | Frisian <fy@li.org> | 
+ | [stellarium](/f14/package/stellarium) | 26 | 1744 | 1.5 | Frisian <fy@li.org> | 
+ | [terminator](/f14/package/terminator) | 5 | 339 | 1.5 | Frisian <fy@li.org> | 
+ | [vidalia](/f14/package/vidalia) | 0 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

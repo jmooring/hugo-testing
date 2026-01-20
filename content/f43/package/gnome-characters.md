@@ -18,76 +18,76 @@ The package gnome-characters (version 49.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [af]({{< ref "/f43/language/af.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/af.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ar.po | 
- | [az]({{< ref "/f43/language/az.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/az.po | 
- | [be]({{< ref "/f43/language/be.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/be.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/bg.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/bn.po | 
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ca.po | 
- | [ca@valencia]({{< ref "/f43/language/ca@valencia.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ca@valencia.po | 
- | [ckb]({{< ref "/f43/language/ckb.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ckb.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/cs.po | 
- | [da]({{< ref "/f43/language/da.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/da.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/el.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/en_GB.po | 
- | [eo]({{< ref "/f43/language/eo.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/eo.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/eu.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fa.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fi.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fr.po | 
- | [fur]({{< ref "/f43/language/fur.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fur.po | 
- | [fy]({{< ref "/f43/language/fy.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fy.po | 
- | [gd]({{< ref "/f43/language/gd.md" >}}) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/gd.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/gl.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/gu.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/he.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/hi.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/hr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/hu.po | 
- | [ia]({{< ref "/f43/language/ia.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ia.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/id.po | 
- | [is]({{< ref "/f43/language/is.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/is.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ja.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ka.po | 
- | [kab]({{< ref "/f43/language/kab.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/kab.po | 
- | [kk]({{< ref "/f43/language/kk.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/kk.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ko.po | 
- | [ln]({{< ref "/f43/language/ln.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ln.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/lt.po | 
- | [lv]({{< ref "/f43/language/lv.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/lv.po | 
- | [ms]({{< ref "/f43/language/ms.md" >}}) | 188 | 188 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ms.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/nb.po | 
- | [ne]({{< ref "/f43/language/ne.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ne.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/nl.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/oc.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pa.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pt_BR.po | 
- | [ro]({{< ref "/f43/language/ro.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ro.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ru.po | 
- | [rw]({{< ref "/f43/language/rw.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/rw.po | 
- | [sat]({{< ref "/f43/language/sat.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sat.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sk.po | 
- | [sl]({{< ref "/f43/language/sl.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sl.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 347 | 347 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sr@latin.po/mnt/stockage/packages/f43/gnome-characters/po/sr.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sv.po | 
- | [th]({{< ref "/f43/language/th.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/th.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/tr.po | 
- | [ug]({{< ref "/f43/language/ug.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ug.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/uk.po | 
- | [uz]({{< ref "/f43/language/uz.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/uz.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/zh_TW.po | 
- | [ab]({{< ref "/f43/language/ab.md" >}}) | 148 | 157 | 94.3 | /mnt/stockage/packages/f43/gnome-characters/po/ab.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 150 | 160 | 93.8 | /mnt/stockage/packages/f43/gnome-characters/po/ml.po | 
- | [ie]({{< ref "/f43/language/ie.md" >}}) | 112 | 152 | 73.7 | /mnt/stockage/packages/f43/gnome-characters/po/ie.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 124 | 181 | 68.5 | /mnt/stockage/packages/f43/gnome-characters/po/ta.po | 
- | [tg]({{< ref "/f43/language/tg.md" >}}) | 49 | 161 | 30.4 | /mnt/stockage/packages/f43/gnome-characters/po/tg.po | 
+ | [af](/f43/language/af) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/af.po | 
+ | [ar](/f43/language/ar) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ar.po | 
+ | [az](/f43/language/az) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/az.po | 
+ | [be](/f43/language/be) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/be.po | 
+ | [bg](/f43/language/bg) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/bg.po | 
+ | [bn](/f43/language/bn) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/bn.po | 
+ | [ca](/f43/language/ca) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ca.po | 
+ | [ca@valencia](/f43/language/ca@valencia) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ca@valencia.po | 
+ | [ckb](/f43/language/ckb) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ckb.po | 
+ | [cs](/f43/language/cs) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/cs.po | 
+ | [da](/f43/language/da) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/da.po | 
+ | [de](/f43/language/de) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/de.po | 
+ | [el](/f43/language/el) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/el.po | 
+ | [en_GB](/f43/language/en_GB) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/en_GB.po | 
+ | [eo](/f43/language/eo) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/eo.po | 
+ | [es](/f43/language/es) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/es.po | 
+ | [eu](/f43/language/eu) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/eu.po | 
+ | [fa](/f43/language/fa) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fa.po | 
+ | [fi](/f43/language/fi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fi.po | 
+ | [fr](/f43/language/fr) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fr.po | 
+ | [fur](/f43/language/fur) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fur.po | 
+ | [fy](/f43/language/fy) | 181 | 181 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/fy.po | 
+ | [gd](/f43/language/gd) | 186 | 186 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/gd.po | 
+ | [gl](/f43/language/gl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/gl.po | 
+ | [gu](/f43/language/gu) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/gu.po | 
+ | [he](/f43/language/he) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/he.po | 
+ | [hi](/f43/language/hi) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/hi.po | 
+ | [hr](/f43/language/hr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/hr.po | 
+ | [hu](/f43/language/hu) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/hu.po | 
+ | [ia](/f43/language/ia) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ia.po | 
+ | [id](/f43/language/id) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/id.po | 
+ | [is](/f43/language/is) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/is.po | 
+ | [it](/f43/language/it) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/it.po | 
+ | [ja](/f43/language/ja) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ja.po | 
+ | [ka](/f43/language/ka) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ka.po | 
+ | [kab](/f43/language/kab) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/kab.po | 
+ | [kk](/f43/language/kk) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/kk.po | 
+ | [ko](/f43/language/ko) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ko.po | 
+ | [ln](/f43/language/ln) | 155 | 155 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ln.po | 
+ | [lt](/f43/language/lt) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/lt.po | 
+ | [lv](/f43/language/lv) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/lv.po | 
+ | [ms](/f43/language/ms) | 188 | 188 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ms.po | 
+ | [nb_NO](/f43/language/nb_NO) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/nb.po | 
+ | [ne](/f43/language/ne) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ne.po | 
+ | [nl](/f43/language/nl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/nl.po | 
+ | [oc](/f43/language/oc) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/oc.po | 
+ | [pa](/f43/language/pa) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pa.po | 
+ | [pl](/f43/language/pl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pl.po | 
+ | [pt](/f43/language/pt) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/pt_BR.po | 
+ | [ro](/f43/language/ro) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ro.po | 
+ | [ru](/f43/language/ru) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ru.po | 
+ | [rw](/f43/language/rw) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/rw.po | 
+ | [sat](/f43/language/sat) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sat.po | 
+ | [sk](/f43/language/sk) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sk.po | 
+ | [sl](/f43/language/sl) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sl.po | 
+ | [sr](/f43/language/sr) | 347 | 347 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sr@latin.po/mnt/stockage/packages/f43/gnome-characters/po/sr.po | 
+ | [sv](/f43/language/sv) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/sv.po | 
+ | [th](/f43/language/th) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/th.po | 
+ | [tr](/f43/language/tr) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/tr.po | 
+ | [ug](/f43/language/ug) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/ug.po | 
+ | [uk](/f43/language/uk) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/uk.po | 
+ | [uz](/f43/language/uz) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/uz.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 161 | 161 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/zh_CN.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 160 | 160 | 100.0 | /mnt/stockage/packages/f43/gnome-characters/po/zh_TW.po | 
+ | [ab](/f43/language/ab) | 148 | 157 | 94.3 | /mnt/stockage/packages/f43/gnome-characters/po/ab.po | 
+ | [ml](/f43/language/ml) | 150 | 160 | 93.8 | /mnt/stockage/packages/f43/gnome-characters/po/ml.po | 
+ | [ie](/f43/language/ie) | 112 | 152 | 73.7 | /mnt/stockage/packages/f43/gnome-characters/po/ie.po | 
+ | [ta](/f43/language/ta) | 124 | 181 | 68.5 | /mnt/stockage/packages/f43/gnome-characters/po/ta.po | 
+ | [tg](/f43/language/tg) | 49 | 161 | 30.4 | /mnt/stockage/packages/f43/gnome-characters/po/tg.po | 
 {.sortable}
 
 

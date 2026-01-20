@@ -18,15 +18,15 @@ The package teg (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f31/language/es.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/es.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/gl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/pt.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 2363 | 2378 | 99.4 | /mnt/stockage/packages/f31/teg/po/it.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 2312 | 2378 | 97.2 | /mnt/stockage/packages/f31/teg/po/hu_HU.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 2304 | 2378 | 96.9 | /mnt/stockage/packages/f31/teg/po/de.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 2278 | 2378 | 95.8 | /mnt/stockage/packages/f31/teg/po/pt_BR.po | 
+ | [es](/f31/language/es) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/es.po | 
+ | [fr](/f31/language/fr) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/fr.po | 
+ | [gl](/f31/language/gl) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/gl.po | 
+ | [pl](/f31/language/pl) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/pl.po | 
+ | [pt](/f31/language/pt) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f31/teg/po/pt.po | 
+ | [it](/f31/language/it) | 2363 | 2378 | 99.4 | /mnt/stockage/packages/f31/teg/po/it.po | 
+ | [hu](/f31/language/hu) | 2312 | 2378 | 97.2 | /mnt/stockage/packages/f31/teg/po/hu_HU.po | 
+ | [de](/f31/language/de) | 2304 | 2378 | 96.9 | /mnt/stockage/packages/f31/teg/po/de.po | 
+ | [pt_BR](/f31/language/pt_BR) | 2278 | 2378 | 95.8 | /mnt/stockage/packages/f31/teg/po/pt_BR.po | 
 {.sortable}
 
 

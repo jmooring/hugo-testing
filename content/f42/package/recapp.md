@@ -18,12 +18,12 @@ The package recapp (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/de.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/it.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/nl.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/ru.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/tr.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 148 | 156 | 94.9 | /mnt/stockage/packages/f42/recapp/po/es.po | 
+ | [de](/f42/language/de) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/de.po | 
+ | [it](/f42/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/it.po | 
+ | [nl](/f42/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/nl.po | 
+ | [ru](/f42/language/ru) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/ru.po | 
+ | [tr](/f42/language/tr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f42/recapp/po/tr.po | 
+ | [es](/f42/language/es) | 148 | 156 | 94.9 | /mnt/stockage/packages/f42/recapp/po/es.po | 
 {.sortable}
 
 

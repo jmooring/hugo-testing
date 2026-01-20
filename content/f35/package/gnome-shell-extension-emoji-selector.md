@@ -18,15 +18,15 @@ The package gnome-shell-extension-emoji-selector (version 20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/ar/LC_MESSAGES/emoji-selector.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 179 | 179 | 100.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/nl/LC_MESSAGES/emoji-selector.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 173 | 179 | 96.6 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/it/LC_MESSAGES/emoji-selector.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 154 | 179 | 86.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/pl/LC_MESSAGES/emoji-selector.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 154 | 179 | 86.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/zh_Hans/LC_MESSAGES/emoji-selector.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 130 | 179 | 72.6 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/es_ES/LC_MESSAGES/emoji-selector.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 208 | 358 | 58.1 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/fr/LC_MESSAGES/emoji-selector.po/mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/eo/LC_MESSAGES/emoji-selector.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 46 | 179 | 25.7 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/pt_BR/LC_MESSAGES/emoji-selector.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 37 | 179 | 20.7 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/de/LC_MESSAGES/emoji-selector.po | 
+ | [ar](/f35/language/ar) | 179 | 179 | 100.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/ar/LC_MESSAGES/emoji-selector.po | 
+ | [nl](/f35/language/nl) | 179 | 179 | 100.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/nl/LC_MESSAGES/emoji-selector.po | 
+ | [it](/f35/language/it) | 173 | 179 | 96.6 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/it/LC_MESSAGES/emoji-selector.po | 
+ | [pl](/f35/language/pl) | 154 | 179 | 86.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/pl/LC_MESSAGES/emoji-selector.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 154 | 179 | 86.0 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/zh_Hans/LC_MESSAGES/emoji-selector.po | 
+ | [es](/f35/language/es) | 130 | 179 | 72.6 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/es_ES/LC_MESSAGES/emoji-selector.po | 
+ | [fr](/f35/language/fr) | 208 | 358 | 58.1 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/fr/LC_MESSAGES/emoji-selector.po/mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/eo/LC_MESSAGES/emoji-selector.po | 
+ | [pt_BR](/f35/language/pt_BR) | 46 | 179 | 25.7 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/pt_BR/LC_MESSAGES/emoji-selector.po | 
+ | [de](/f35/language/de) | 37 | 179 | 20.7 | /mnt/stockage/packages/f35/gnome-shell-extension-emoji-selector/emoji-selector@maestroschan.fr/locale/de/LC_MESSAGES/emoji-selector.po | 
 {.sortable}
 
 

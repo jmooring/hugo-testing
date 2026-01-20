@@ -18,15 +18,15 @@ The package gamehub (version 0.13.1.96):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f29/gamehub/po/ru.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 721 | 729 | 98.9 | /mnt/stockage/packages/f29/gamehub/po/de.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 721 | 729 | 98.9 | /mnt/stockage/packages/f29/gamehub/po/nl.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 698 | 729 | 95.7 | /mnt/stockage/packages/f29/gamehub/po/nb_NO.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 643 | 729 | 88.2 | /mnt/stockage/packages/f29/gamehub/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 531 | 729 | 72.8 | /mnt/stockage/packages/f29/gamehub/po/pt_BR.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 429 | 729 | 58.8 | /mnt/stockage/packages/f29/gamehub/po/id.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 416 | 729 | 57.1 | /mnt/stockage/packages/f29/gamehub/po/fr.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 96 | 729 | 13.2 | /mnt/stockage/packages/f29/gamehub/po/tr.po | 
+ | [ru](/f29/language/ru) | 729 | 729 | 100.0 | /mnt/stockage/packages/f29/gamehub/po/ru.po | 
+ | [de](/f29/language/de) | 721 | 729 | 98.9 | /mnt/stockage/packages/f29/gamehub/po/de.po | 
+ | [nl](/f29/language/nl) | 721 | 729 | 98.9 | /mnt/stockage/packages/f29/gamehub/po/nl.po | 
+ | [nb_NO](/f29/language/nb_NO) | 698 | 729 | 95.7 | /mnt/stockage/packages/f29/gamehub/po/nb_NO.po | 
+ | [pl](/f29/language/pl) | 643 | 729 | 88.2 | /mnt/stockage/packages/f29/gamehub/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 531 | 729 | 72.8 | /mnt/stockage/packages/f29/gamehub/po/pt_BR.po | 
+ | [id](/f29/language/id) | 429 | 729 | 58.8 | /mnt/stockage/packages/f29/gamehub/po/id.po | 
+ | [fr](/f29/language/fr) | 416 | 729 | 57.1 | /mnt/stockage/packages/f29/gamehub/po/fr.po | 
+ | [tr](/f29/language/tr) | 96 | 729 | 13.2 | /mnt/stockage/packages/f29/gamehub/po/tr.po | 
 {.sortable}
 
 

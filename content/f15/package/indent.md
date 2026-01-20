@@ -18,26 +18,26 @@ The package indent (version 2.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/da.po | 
- | [eo]({{< ref "/f15/language/eo.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/eo.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/fi.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/nl.po | 
- | [pl]({{< ref "/f15/language/pl.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/pl.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/ru.po | 
- | [sk]({{< ref "/f15/language/sk.md" >}}) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/sk.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/de.po | 
- | [et]({{< ref "/f15/language/et.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/et.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/fr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/hu.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/it.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/ja.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/pt_BR.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/tr.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 203 | 272 | 74.6 | /mnt/stockage/packages/f15/indent/po/ca.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 203 | 272 | 74.6 | /mnt/stockage/packages/f15/indent/po/gl.po | 
- | [error]({{< ref "/f15/language/error.md" >}}) | 186 | 272 | 68.4 | /mnt/stockage/packages/f15/indent/po/zh_TW.Big5.po | 
- | [ko]({{< ref "/f15/language/ko.md" >}}) | 60 | 272 | 22.1 | /mnt/stockage/packages/f15/indent/po/ko.po | 
+ | [da](/f15/language/da) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/da.po | 
+ | [eo](/f15/language/eo) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/eo.po | 
+ | [fi](/f15/language/fi) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/fi.po | 
+ | [nl](/f15/language/nl) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/nl.po | 
+ | [pl](/f15/language/pl) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/pl.po | 
+ | [ru](/f15/language/ru) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/ru.po | 
+ | [sk](/f15/language/sk) | 258 | 272 | 94.9 | /mnt/stockage/packages/f15/indent/po/sk.po | 
+ | [de](/f15/language/de) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/de.po | 
+ | [et](/f15/language/et) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/et.po | 
+ | [fr](/f15/language/fr) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/fr.po | 
+ | [hu](/f15/language/hu) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/hu.po | 
+ | [it](/f15/language/it) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/it.po | 
+ | [ja](/f15/language/ja) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/ja.po | 
+ | [pt_BR](/f15/language/pt_BR) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/pt_BR.po | 
+ | [sv](/f15/language/sv) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/sv.po | 
+ | [tr](/f15/language/tr) | 210 | 272 | 77.2 | /mnt/stockage/packages/f15/indent/po/tr.po | 
+ | [ca](/f15/language/ca) | 203 | 272 | 74.6 | /mnt/stockage/packages/f15/indent/po/ca.po | 
+ | [gl](/f15/language/gl) | 203 | 272 | 74.6 | /mnt/stockage/packages/f15/indent/po/gl.po | 
+ | [error](/f15/language/error) | 186 | 272 | 68.4 | /mnt/stockage/packages/f15/indent/po/zh_TW.Big5.po | 
+ | [ko](/f15/language/ko) | 60 | 272 | 22.1 | /mnt/stockage/packages/f15/indent/po/ko.po | 
 {.sortable}
 
 

@@ -18,19 +18,19 @@ The package geany-plugins (version 0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 3371 | 3371 | 100.0 | /mnt/stockage/packages/f13/geany-plugins/po/de.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 3377 | 3377 | 100.0 | /mnt/stockage/packages/f13/geany-plugins/po/pt.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 3377 | 3377 | 100.0 | /mnt/stockage/packages/f13/geany-plugins/po/pt_BR.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 2989 | 3377 | 88.5 | /mnt/stockage/packages/f13/geany-plugins/po/gl.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 2625 | 3332 | 78.8 | /mnt/stockage/packages/f13/geany-plugins/po/ja.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 2270 | 3377 | 67.2 | /mnt/stockage/packages/f13/geany-plugins/po/zh_CN.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 1758 | 3371 | 52.2 | /mnt/stockage/packages/f13/geany-plugins/po/tr.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 554 | 3377 | 16.4 | /mnt/stockage/packages/f13/geany-plugins/po/ru.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 433 | 3377 | 12.8 | /mnt/stockage/packages/f13/geany-plugins/po/ca.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 320 | 3377 | 9.5 | /mnt/stockage/packages/f13/geany-plugins/po/fr.po | 
- | [be]({{< ref "/f13/language/be.md" >}}) | 139 | 3377 | 4.1 | /mnt/stockage/packages/f13/geany-plugins/po/be.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 55 | 3377 | 1.6 | /mnt/stockage/packages/f13/geany-plugins/po/es.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 12 | 3377 | 0.4 | /mnt/stockage/packages/f13/geany-plugins/po/da.po | 
+ | [de](/f13/language/de) | 3371 | 3371 | 100.0 | /mnt/stockage/packages/f13/geany-plugins/po/de.po | 
+ | [pt](/f13/language/pt) | 3377 | 3377 | 100.0 | /mnt/stockage/packages/f13/geany-plugins/po/pt.po | 
+ | [pt_BR](/f13/language/pt_BR) | 3377 | 3377 | 100.0 | /mnt/stockage/packages/f13/geany-plugins/po/pt_BR.po | 
+ | [gl](/f13/language/gl) | 2989 | 3377 | 88.5 | /mnt/stockage/packages/f13/geany-plugins/po/gl.po | 
+ | [ja](/f13/language/ja) | 2625 | 3332 | 78.8 | /mnt/stockage/packages/f13/geany-plugins/po/ja.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 2270 | 3377 | 67.2 | /mnt/stockage/packages/f13/geany-plugins/po/zh_CN.po | 
+ | [tr](/f13/language/tr) | 1758 | 3371 | 52.2 | /mnt/stockage/packages/f13/geany-plugins/po/tr.po | 
+ | [ru](/f13/language/ru) | 554 | 3377 | 16.4 | /mnt/stockage/packages/f13/geany-plugins/po/ru.po | 
+ | [ca](/f13/language/ca) | 433 | 3377 | 12.8 | /mnt/stockage/packages/f13/geany-plugins/po/ca.po | 
+ | [fr](/f13/language/fr) | 320 | 3377 | 9.5 | /mnt/stockage/packages/f13/geany-plugins/po/fr.po | 
+ | [be](/f13/language/be) | 139 | 3377 | 4.1 | /mnt/stockage/packages/f13/geany-plugins/po/be.po | 
+ | [es](/f13/language/es) | 55 | 3377 | 1.6 | /mnt/stockage/packages/f13/geany-plugins/po/es.po | 
+ | [da](/f13/language/da) | 12 | 3377 | 0.4 | /mnt/stockage/packages/f13/geany-plugins/po/da.po | 
 {.sortable}
 
 

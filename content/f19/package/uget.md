@@ -18,26 +18,26 @@ The package uget (version 1.10.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/ar.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/be.po | 
- | [bn_BD]({{< ref "/f19/language/bn_BD.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/bn_BD.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/da.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/es.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/it.po | 
- | [ka]({{< ref "/f19/language/ka.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/ka_GE.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/pt_BR.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/tr.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 673 | 682 | 98.7 | /mnt/stockage/packages/f19/uget/po/cs.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 655 | 682 | 96.0 | /mnt/stockage/packages/f19/uget/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 655 | 682 | 96.0 | /mnt/stockage/packages/f19/uget/po/zh_TW.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 649 | 682 | 95.2 | /mnt/stockage/packages/f19/uget/po/hu.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 639 | 682 | 93.7 | /mnt/stockage/packages/f19/uget/po/uk.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 621 | 682 | 91.1 | /mnt/stockage/packages/f19/uget/po/ru.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 621 | 682 | 91.1 | /mnt/stockage/packages/f19/uget/po/vi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 602 | 682 | 88.3 | /mnt/stockage/packages/f19/uget/po/fr.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 587 | 682 | 86.1 | /mnt/stockage/packages/f19/uget/po/id.po | 
+ | [ar](/f19/language/ar) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/ar.po | 
+ | [be](/f19/language/be) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/be.po | 
+ | [bn_BD](/f19/language/bn_BD) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/bn_BD.po | 
+ | [da](/f19/language/da) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/da.po | 
+ | [de](/f19/language/de) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/de.po | 
+ | [es](/f19/language/es) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/es.po | 
+ | [it](/f19/language/it) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/it.po | 
+ | [ka](/f19/language/ka) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/ka_GE.po | 
+ | [pl](/f19/language/pl) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/pt_BR.po | 
+ | [tr](/f19/language/tr) | 675 | 682 | 99.0 | /mnt/stockage/packages/f19/uget/po/tr.po | 
+ | [cs](/f19/language/cs) | 673 | 682 | 98.7 | /mnt/stockage/packages/f19/uget/po/cs.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 655 | 682 | 96.0 | /mnt/stockage/packages/f19/uget/po/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 655 | 682 | 96.0 | /mnt/stockage/packages/f19/uget/po/zh_TW.po | 
+ | [hu](/f19/language/hu) | 649 | 682 | 95.2 | /mnt/stockage/packages/f19/uget/po/hu.po | 
+ | [uk](/f19/language/uk) | 639 | 682 | 93.7 | /mnt/stockage/packages/f19/uget/po/uk.po | 
+ | [ru](/f19/language/ru) | 621 | 682 | 91.1 | /mnt/stockage/packages/f19/uget/po/ru.po | 
+ | [vi](/f19/language/vi) | 621 | 682 | 91.1 | /mnt/stockage/packages/f19/uget/po/vi.po | 
+ | [fr](/f19/language/fr) | 602 | 682 | 88.3 | /mnt/stockage/packages/f19/uget/po/fr.po | 
+ | [id](/f19/language/id) | 587 | 682 | 86.1 | /mnt/stockage/packages/f19/uget/po/id.po | 
 {.sortable}
 
 

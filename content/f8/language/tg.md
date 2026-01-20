@@ -39,12 +39,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [xmms]({{< ref "/f8/package/xmms.md" >}}) | 2636 | 3245 | 81.2 | Tajik | 
- | [kdiff3]({{< ref "/f8/package/kdiff3.md" >}}) | 1103 | 2961 | 37.3 | Tajik | 
- | [aspell]({{< ref "/f8/package/aspell.md" >}}) | 600 | 1726 | 34.8 | Tajik | 
- | [kaffeine]({{< ref "/f8/package/kaffeine.md" >}}) | 468 | 2354 | 19.9 | Tajik Language | 
- | [yelp]({{< ref "/f8/package/yelp.md" >}}) | 92 | 606 | 15.2 | Tajik | 
- | [amarok]({{< ref "/f8/package/amarok.md" >}}) | 865 | 13192 | 6.6 | Tajik Language | 
+ | [xmms](/f8/package/xmms) | 2636 | 3245 | 81.2 | Tajik | 
+ | [kdiff3](/f8/package/kdiff3) | 1103 | 2961 | 37.3 | Tajik | 
+ | [aspell](/f8/package/aspell) | 600 | 1726 | 34.8 | Tajik | 
+ | [kaffeine](/f8/package/kaffeine) | 468 | 2354 | 19.9 | Tajik Language | 
+ | [yelp](/f8/package/yelp) | 92 | 606 | 15.2 | Tajik | 
+ | [amarok](/f8/package/amarok) | 865 | 13192 | 6.6 | Tajik Language | 
 {.sortable}
 
 

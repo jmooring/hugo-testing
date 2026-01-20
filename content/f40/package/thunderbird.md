@@ -18,26 +18,26 @@ The package thunderbird (version 128.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/de.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/eo.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/es.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/fr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/hu.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/ja.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/pt.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/ru.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/sv.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/uk.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/vi.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/zh_TW.po | 
+ | [cs](/f40/language/cs) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/cs.po | 
+ | [da](/f40/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/da.po | 
+ | [de](/f40/language/de) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/de.po | 
+ | [eo](/f40/language/eo) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/eo.po | 
+ | [es](/f40/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/es.po | 
+ | [fr](/f40/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/fr.po | 
+ | [hu](/f40/language/hu) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/hu.po | 
+ | [it](/f40/language/it) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/it.po | 
+ | [ja](/f40/language/ja) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/ja.po | 
+ | [nl](/f40/language/nl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/nl.po | 
+ | [pl](/f40/language/pl) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/pl.po | 
+ | [pt](/f40/language/pt) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/pt.po | 
+ | [ro](/f40/language/ro) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/ro.po | 
+ | [ru](/f40/language/ru) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/ru.po | 
+ | [sr](/f40/language/sr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/sr.po | 
+ | [sv](/f40/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/sv.po | 
+ | [uk](/f40/language/uk) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/uk.po | 
+ | [vi](/f40/language/vi) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/vi.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/thunderbird/thunderbird-128.10.0/comm/third_party/libgpg-error/po/zh_TW.po | 
 {.sortable}
 
 

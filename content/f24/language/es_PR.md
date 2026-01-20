@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f24/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f24/package/libmateweather.md" >}}) | 363 | 499 | 72.7 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-applets]({{< ref "/f24/package/mate-applets.md" >}}) | 1604 | 2621 | 61.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [libgweather](/f24/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f24/package/libmateweather) | 363 | 499 | 72.7 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-applets](/f24/package/mate-applets) | 1604 | 2621 | 61.2 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Spanish (Puerto Rico) (http://www.transifex.com/mate/MATE/language/es_PR/) | 
 {.sortable}
 
 

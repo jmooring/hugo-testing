@@ -18,48 +18,48 @@ The package php-horde-Horde-Alarm (version 2.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/cs/LC_MESSAGES/Horde_Alarm.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/da/LC_MESSAGES/Horde_Alarm.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/de/LC_MESSAGES/Horde_Alarm.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/el/LC_MESSAGES/Horde_Alarm.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/es/LC_MESSAGES/Horde_Alarm.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/et/LC_MESSAGES/Horde_Alarm.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/eu/LC_MESSAGES/Horde_Alarm.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/fi/LC_MESSAGES/Horde_Alarm.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/fr/LC_MESSAGES/Horde_Alarm.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/hr/LC_MESSAGES/Horde_Alarm.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/hu/LC_MESSAGES/Horde_Alarm.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ja/LC_MESSAGES/Horde_Alarm.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/lt/LC_MESSAGES/Horde_Alarm.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/lv/LC_MESSAGES/Horde_Alarm.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/nl/LC_MESSAGES/Horde_Alarm.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/pl/LC_MESSAGES/Horde_Alarm.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/pt_BR/LC_MESSAGES/Horde_Alarm.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/sk/LC_MESSAGES/Horde_Alarm.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/uk/LC_MESSAGES/Horde_Alarm.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 6 | 13 | 46.2 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ko/LC_MESSAGES/Horde_Alarm.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 4 | 13 | 30.8 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ru/LC_MESSAGES/Horde_Alarm.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ar/LC_MESSAGES/Horde_Alarm.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/bg/LC_MESSAGES/Horde_Alarm.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ca/LC_MESSAGES/Horde_Alarm.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/fa/LC_MESSAGES/Horde_Alarm.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/gl/LC_MESSAGES/Horde_Alarm.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/it/LC_MESSAGES/Horde_Alarm.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/km/LC_MESSAGES/Horde_Alarm.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/mk/LC_MESSAGES/Horde_Alarm.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/nb/LC_MESSAGES/Horde_Alarm.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/nn/LC_MESSAGES/Horde_Alarm.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/pt/LC_MESSAGES/Horde_Alarm.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ro/LC_MESSAGES/Horde_Alarm.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/sl/LC_MESSAGES/Horde_Alarm.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/sv/LC_MESSAGES/Horde_Alarm.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/tr/LC_MESSAGES/Horde_Alarm.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/zh_CN/LC_MESSAGES/Horde_Alarm.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/zh_TW/LC_MESSAGES/Horde_Alarm.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/bs/LC_MESSAGES/Horde_Alarm.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/he/LC_MESSAGES/Horde_Alarm.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/id/LC_MESSAGES/Horde_Alarm.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/is/LC_MESSAGES/Horde_Alarm.po | 
+ | [cs](/f29/language/cs) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/cs/LC_MESSAGES/Horde_Alarm.po | 
+ | [da](/f29/language/da) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/da/LC_MESSAGES/Horde_Alarm.po | 
+ | [de](/f29/language/de) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/de/LC_MESSAGES/Horde_Alarm.po | 
+ | [el](/f29/language/el) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/el/LC_MESSAGES/Horde_Alarm.po | 
+ | [es](/f29/language/es) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/es/LC_MESSAGES/Horde_Alarm.po | 
+ | [et](/f29/language/et) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/et/LC_MESSAGES/Horde_Alarm.po | 
+ | [eu](/f29/language/eu) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/eu/LC_MESSAGES/Horde_Alarm.po | 
+ | [fi](/f29/language/fi) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/fi/LC_MESSAGES/Horde_Alarm.po | 
+ | [fr](/f29/language/fr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/fr/LC_MESSAGES/Horde_Alarm.po | 
+ | [hr](/f29/language/hr) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/hr/LC_MESSAGES/Horde_Alarm.po | 
+ | [hu](/f29/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/hu/LC_MESSAGES/Horde_Alarm.po | 
+ | [ja](/f29/language/ja) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ja/LC_MESSAGES/Horde_Alarm.po | 
+ | [lt](/f29/language/lt) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/lt/LC_MESSAGES/Horde_Alarm.po | 
+ | [lv](/f29/language/lv) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/lv/LC_MESSAGES/Horde_Alarm.po | 
+ | [nl](/f29/language/nl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/nl/LC_MESSAGES/Horde_Alarm.po | 
+ | [pl](/f29/language/pl) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/pl/LC_MESSAGES/Horde_Alarm.po | 
+ | [pt_BR](/f29/language/pt_BR) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/pt_BR/LC_MESSAGES/Horde_Alarm.po | 
+ | [sk](/f29/language/sk) | 13 | 13 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/sk/LC_MESSAGES/Horde_Alarm.po | 
+ | [uk](/f29/language/uk) | 18 | 18 | 100.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/uk/LC_MESSAGES/Horde_Alarm.po | 
+ | [ko](/f29/language/ko) | 6 | 13 | 46.2 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ko/LC_MESSAGES/Horde_Alarm.po | 
+ | [ru](/f29/language/ru) | 4 | 13 | 30.8 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ru/LC_MESSAGES/Horde_Alarm.po | 
+ | [ar](/f29/language/ar) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ar/LC_MESSAGES/Horde_Alarm.po | 
+ | [bg](/f29/language/bg) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/bg/LC_MESSAGES/Horde_Alarm.po | 
+ | [ca](/f29/language/ca) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ca/LC_MESSAGES/Horde_Alarm.po | 
+ | [fa](/f29/language/fa) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/fa/LC_MESSAGES/Horde_Alarm.po | 
+ | [gl](/f29/language/gl) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/gl/LC_MESSAGES/Horde_Alarm.po | 
+ | [it](/f29/language/it) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/it/LC_MESSAGES/Horde_Alarm.po | 
+ | [km](/f29/language/km) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/km/LC_MESSAGES/Horde_Alarm.po | 
+ | [mk](/f29/language/mk) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/mk/LC_MESSAGES/Horde_Alarm.po | 
+ | [nb_NO](/f29/language/nb_NO) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/nb/LC_MESSAGES/Horde_Alarm.po | 
+ | [nn](/f29/language/nn) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/nn/LC_MESSAGES/Horde_Alarm.po | 
+ | [pt](/f29/language/pt) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/pt/LC_MESSAGES/Horde_Alarm.po | 
+ | [ro](/f29/language/ro) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/ro/LC_MESSAGES/Horde_Alarm.po | 
+ | [sl](/f29/language/sl) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/sl/LC_MESSAGES/Horde_Alarm.po | 
+ | [sv](/f29/language/sv) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/sv/LC_MESSAGES/Horde_Alarm.po | 
+ | [tr](/f29/language/tr) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/tr/LC_MESSAGES/Horde_Alarm.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/zh_CN/LC_MESSAGES/Horde_Alarm.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 1 | 13 | 7.7 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/zh_TW/LC_MESSAGES/Horde_Alarm.po | 
+ | [bs](/f29/language/bs) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/bs/LC_MESSAGES/Horde_Alarm.po | 
+ | [he](/f29/language/he) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/he/LC_MESSAGES/Horde_Alarm.po | 
+ | [id](/f29/language/id) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/id/LC_MESSAGES/Horde_Alarm.po | 
+ | [is](/f29/language/is) | 0 | 13 | 0.0 | /mnt/stockage/packages/f29/php-horde-Horde-Alarm/Horde_Alarm-2.2.10/locale/is/LC_MESSAGES/Horde_Alarm.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | N'ko (http://www.transifex.com/projects/p/MATE/language/nqo/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 0 | 5 | 0.0 | N'ko (http://www.transifex.com/mate/MATE/language/nqo/) | 
 {.sortable}
 
 

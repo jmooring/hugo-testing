@@ -18,7 +18,7 @@ The package unicap (version 0.2.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 99 | 100 | 99.0 | /mnt/stockage/packages/f9/unicap/po/de.po | 
+ | [de](/f9/language/de) | 99 | 100 | 99.0 | /mnt/stockage/packages/f9/unicap/po/de.po | 
 {.sortable}
 
 

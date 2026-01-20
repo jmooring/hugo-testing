@@ -18,23 +18,23 @@ The package gnome-shell-extension-appindicator (version 57):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/cs.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/fr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/hu.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ko.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/oc.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/pl.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/sk.po | 
- | [ta]({{< ref "/f39/language/ta.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ta.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/tr.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/zh_CN.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 64 | 190 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/nl.po/mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/de.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ja.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/pt_BR.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/sr.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/sr@latin.po | 
+ | [cs](/f39/language/cs) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/cs.po | 
+ | [fr](/f39/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/fr.po | 
+ | [hu](/f39/language/hu) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/hu.po | 
+ | [ko](/f39/language/ko) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ko.po | 
+ | [oc](/f39/language/oc) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/oc.po | 
+ | [pl](/f39/language/pl) | 105 | 105 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/pl.po | 
+ | [ru](/f39/language/ru) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ru.po | 
+ | [sk](/f39/language/sk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/sk.po | 
+ | [ta](/f39/language/ta) | 95 | 95 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ta.po | 
+ | [tr](/f39/language/tr) | 105 | 105 | 100.0 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/tr.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 102 | 105 | 97.1 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/zh_CN.po | 
+ | [de](/f39/language/de) | 64 | 190 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/nl.po/mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/de.po | 
+ | [it](/f39/language/it) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/it.po | 
+ | [ja](/f39/language/ja) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/ja.po | 
+ | [pt_BR](/f39/language/pt_BR) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/pt_BR.po | 
+ | [sr](/f39/language/sr) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/sr.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 32 | 95 | 33.7 | /mnt/stockage/packages/f39/gnome-shell-extension-appindicator/locale/sr@latin.po | 
 {.sortable}
 
 

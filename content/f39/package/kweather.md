@@ -18,40 +18,40 @@ The package kweather (version 23.08.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [az]({{< ref "/f39/language/az.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/az/kweather.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ca/kweather.po | 
- | [ca@valencia]({{< ref "/f39/language/ca@valencia.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ca@valencia/kweather.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/de/kweather.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/el/kweather.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/en_GB/kweather.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/es/kweather.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/eu/kweather.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/fi/kweather.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/fr/kweather.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/gl/kweather.po | 
- | [ia]({{< ref "/f39/language/ia.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ia/kweather.po | 
- | [is]({{< ref "/f39/language/is.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/is/kweather.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/it/kweather.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ka/kweather.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ko/kweather.po | 
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/nl/kweather.po | 
- | [nn]({{< ref "/f39/language/nn.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/nn/kweather.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/pl/kweather.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/pt/kweather.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/pt_BR/kweather.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ru/kweather.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/sl/kweather.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/sv/kweather.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/tr/kweather.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/uk/kweather.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/zh_CN/kweather.po | 
- | [pa]({{< ref "/f39/language/pa.md" >}}) | 143 | 163 | 87.7 | /mnt/stockage/packages/f39/kweather/po/pa/kweather.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 137 | 163 | 84.0 | /mnt/stockage/packages/f39/kweather/po/lt/kweather.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 136 | 163 | 83.4 | /mnt/stockage/packages/f39/kweather/po/cs/kweather.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 88 | 163 | 54.0 | /mnt/stockage/packages/f39/kweather/po/et/kweather.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 26 | 163 | 16.0 | /mnt/stockage/packages/f39/kweather/po/sk/kweather.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 0 | 163 | 0.0 | /mnt/stockage/packages/f39/kweather/po/ja/kweather.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 0 | 163 | 0.0 | /mnt/stockage/packages/f39/kweather/po/zh_TW/kweather.po | 
+ | [az](/f39/language/az) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/az/kweather.po | 
+ | [ca](/f39/language/ca) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ca/kweather.po | 
+ | [ca@valencia](/f39/language/ca@valencia) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ca@valencia/kweather.po | 
+ | [de](/f39/language/de) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/de/kweather.po | 
+ | [el](/f39/language/el) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/el/kweather.po | 
+ | [en_GB](/f39/language/en_GB) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/en_GB/kweather.po | 
+ | [es](/f39/language/es) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/es/kweather.po | 
+ | [eu](/f39/language/eu) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/eu/kweather.po | 
+ | [fi](/f39/language/fi) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/fi/kweather.po | 
+ | [fr](/f39/language/fr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/fr/kweather.po | 
+ | [gl](/f39/language/gl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/gl/kweather.po | 
+ | [ia](/f39/language/ia) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ia/kweather.po | 
+ | [is](/f39/language/is) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/is/kweather.po | 
+ | [it](/f39/language/it) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/it/kweather.po | 
+ | [ka](/f39/language/ka) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ka/kweather.po | 
+ | [ko](/f39/language/ko) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ko/kweather.po | 
+ | [nl](/f39/language/nl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/nl/kweather.po | 
+ | [nn](/f39/language/nn) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/nn/kweather.po | 
+ | [pl](/f39/language/pl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/pl/kweather.po | 
+ | [pt](/f39/language/pt) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/pt/kweather.po | 
+ | [pt_BR](/f39/language/pt_BR) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/pt_BR/kweather.po | 
+ | [ru](/f39/language/ru) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/ru/kweather.po | 
+ | [sl](/f39/language/sl) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/sl/kweather.po | 
+ | [sv](/f39/language/sv) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/sv/kweather.po | 
+ | [tr](/f39/language/tr) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/tr/kweather.po | 
+ | [uk](/f39/language/uk) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/uk/kweather.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 163 | 163 | 100.0 | /mnt/stockage/packages/f39/kweather/po/zh_CN/kweather.po | 
+ | [pa](/f39/language/pa) | 143 | 163 | 87.7 | /mnt/stockage/packages/f39/kweather/po/pa/kweather.po | 
+ | [lt](/f39/language/lt) | 137 | 163 | 84.0 | /mnt/stockage/packages/f39/kweather/po/lt/kweather.po | 
+ | [cs](/f39/language/cs) | 136 | 163 | 83.4 | /mnt/stockage/packages/f39/kweather/po/cs/kweather.po | 
+ | [et](/f39/language/et) | 88 | 163 | 54.0 | /mnt/stockage/packages/f39/kweather/po/et/kweather.po | 
+ | [sk](/f39/language/sk) | 26 | 163 | 16.0 | /mnt/stockage/packages/f39/kweather/po/sk/kweather.po | 
+ | [ja](/f39/language/ja) | 0 | 163 | 0.0 | /mnt/stockage/packages/f39/kweather/po/ja/kweather.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 0 | 163 | 0.0 | /mnt/stockage/packages/f39/kweather/po/zh_TW/kweather.po | 
 {.sortable}
 
 

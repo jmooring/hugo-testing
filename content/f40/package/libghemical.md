@@ -18,12 +18,12 @@ The package libghemical (version 3.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 892 | 892 | 100.0 | /mnt/stockage/packages/f40/libghemical/po/de.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 878 | 892 | 98.4 | /mnt/stockage/packages/f40/libghemical/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 845 | 892 | 94.7 | /mnt/stockage/packages/f40/libghemical/po/ru.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 752 | 892 | 84.3 | /mnt/stockage/packages/f40/libghemical/po/mk.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 752 | 892 | 84.3 | /mnt/stockage/packages/f40/libghemical/po/sq.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 637 | 892 | 71.4 | /mnt/stockage/packages/f40/libghemical/po/fi.po | 
+ | [de](/f40/language/de) | 892 | 892 | 100.0 | /mnt/stockage/packages/f40/libghemical/po/de.po | 
+ | [pt_BR](/f40/language/pt_BR) | 878 | 892 | 98.4 | /mnt/stockage/packages/f40/libghemical/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 845 | 892 | 94.7 | /mnt/stockage/packages/f40/libghemical/po/ru.po | 
+ | [mk](/f40/language/mk) | 752 | 892 | 84.3 | /mnt/stockage/packages/f40/libghemical/po/mk.po | 
+ | [sq](/f40/language/sq) | 752 | 892 | 84.3 | /mnt/stockage/packages/f40/libghemical/po/sq.po | 
+ | [fi](/f40/language/fi) | 637 | 892 | 71.4 | /mnt/stockage/packages/f40/libghemical/po/fi.po | 
 {.sortable}
 
 

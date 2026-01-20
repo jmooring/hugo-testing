@@ -18,11 +18,11 @@ The package qt5-qtwebengine (version 5.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 349 | 349 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/fr.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/nl.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 270 | 270 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/sv.po | 
+ | [de](/f25/language/de) | 349 | 349 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/de.po | 
+ | [es](/f25/language/es) | 258 | 258 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/es.po | 
+ | [fr](/f25/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/fr.po | 
+ | [nl](/f25/language/nl) | 258 | 258 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/nl.po | 
+ | [sv](/f25/language/sv) | 270 | 270 | 100.0 | /mnt/stockage/packages/f25/qt5-qtwebengine/src/3rdparty/chromium/third_party/mesa/src/src/mesa/drivers/dri/common/xmlpool/sv.po | 
 {.sortable}
 
 

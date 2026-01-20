@@ -18,17 +18,17 @@ The package txt2regex (version 0.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 250 | 250 | 100.0 | /mnt/stockage/packages/f35/txt2regex/po/pt_BR.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 215 | 250 | 86.0 | /mnt/stockage/packages/f35/txt2regex/po/ca.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 215 | 250 | 86.0 | /mnt/stockage/packages/f35/txt2regex/po/fr_FR.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 213 | 250 | 85.2 | /mnt/stockage/packages/f35/txt2regex/po/pl_PL.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 210 | 250 | 84.0 | /mnt/stockage/packages/f35/txt2regex/po/it_IT.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 201 | 250 | 80.4 | /mnt/stockage/packages/f35/txt2regex/po/ro_RO.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 199 | 250 | 79.6 | /mnt/stockage/packages/f35/txt2regex/po/es_ES.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 176 | 250 | 70.4 | /mnt/stockage/packages/f35/txt2regex/po/de_DE.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 164 | 250 | 65.6 | /mnt/stockage/packages/f35/txt2regex/po/tr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 138 | 250 | 55.2 | /mnt/stockage/packages/f35/txt2regex/po/id_ID.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 115 | 250 | 46.0 | /mnt/stockage/packages/f35/txt2regex/po/ja.po | 
+ | [pt_BR](/f35/language/pt_BR) | 250 | 250 | 100.0 | /mnt/stockage/packages/f35/txt2regex/po/pt_BR.po | 
+ | [ca](/f35/language/ca) | 215 | 250 | 86.0 | /mnt/stockage/packages/f35/txt2regex/po/ca.po | 
+ | [fr](/f35/language/fr) | 215 | 250 | 86.0 | /mnt/stockage/packages/f35/txt2regex/po/fr_FR.po | 
+ | [pl](/f35/language/pl) | 213 | 250 | 85.2 | /mnt/stockage/packages/f35/txt2regex/po/pl_PL.po | 
+ | [it](/f35/language/it) | 210 | 250 | 84.0 | /mnt/stockage/packages/f35/txt2regex/po/it_IT.po | 
+ | [ro](/f35/language/ro) | 201 | 250 | 80.4 | /mnt/stockage/packages/f35/txt2regex/po/ro_RO.po | 
+ | [es](/f35/language/es) | 199 | 250 | 79.6 | /mnt/stockage/packages/f35/txt2regex/po/es_ES.po | 
+ | [de](/f35/language/de) | 176 | 250 | 70.4 | /mnt/stockage/packages/f35/txt2regex/po/de_DE.po | 
+ | [tr](/f35/language/tr) | 164 | 250 | 65.6 | /mnt/stockage/packages/f35/txt2regex/po/tr.po | 
+ | [id](/f35/language/id) | 138 | 250 | 55.2 | /mnt/stockage/packages/f35/txt2regex/po/id_ID.po | 
+ | [ja](/f35/language/ja) | 115 | 250 | 46.0 | /mnt/stockage/packages/f35/txt2regex/po/ja.po | 
 {.sortable}
 
 

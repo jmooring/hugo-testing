@@ -18,8 +18,8 @@ The package mpdris2 (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/mpdris2/po/fr.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/mpdris2/po/nl.po | 
+ | [fr](/f34/language/fr) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/mpdris2/po/fr.po | 
+ | [nl](/f34/language/nl) | 7 | 7 | 100.0 | /mnt/stockage/packages/f34/mpdris2/po/nl.po | 
 {.sortable}
 
 

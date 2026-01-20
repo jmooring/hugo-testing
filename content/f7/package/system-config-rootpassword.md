@@ -18,72 +18,72 @@ The package system-config-rootpassword (version 1.1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ar.po | 
- | [as]({{< ref "/f7/language/as.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/as.po | 
- | [be]({{< ref "/f7/language/be.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/be.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/bg.po | 
- | [bn]({{< ref "/f7/language/bn.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/bn.po | 
- | [bn_IN]({{< ref "/f7/language/bn_IN.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/bn_IN.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ca.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/cs.po | 
- | [cy]({{< ref "/f7/language/cy.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/cy.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/el.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/en_GB.po | 
- | [error]({{< ref "/f7/language/error.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sr@Latn.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/es.po | 
- | [et]({{< ref "/f7/language/et.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/et.po | 
- | [fa]({{< ref "/f7/language/fa.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/fa.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/fr.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/gl.po | 
- | [gu]({{< ref "/f7/language/gu.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/gu.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/he.po | 
- | [hi]({{< ref "/f7/language/hi.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hi.po | 
- | [hr]({{< ref "/f7/language/hr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hr.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hu.po | 
- | [id]({{< ref "/f7/language/id.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/id.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/is.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/it.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ja.po | 
- | [ka]({{< ref "/f7/language/ka.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ka.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ko.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/lt.po | 
- | [lv]({{< ref "/f7/language/lv.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/lv.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/mk.po | 
- | [ml]({{< ref "/f7/language/ml.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ml.po | 
- | [mr]({{< ref "/f7/language/mr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/mr.po | 
- | [ms]({{< ref "/f7/language/ms.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ms.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/nb.po/mnt/stockage/packages/f7/system-config-rootpassword/po/no.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/nl.po | 
- | [or]({{< ref "/f7/language/or.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/or.po | 
- | [pa]({{< ref "/f7/language/pa.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pa.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pt_BR.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ro.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ru.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sk.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sl.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sv.po | 
- | [ta]({{< ref "/f7/language/ta.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ta.po | 
- | [te]({{< ref "/f7/language/te.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/te.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/tr.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/uk.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/zh_TW.po | 
- | [zu]({{< ref "/f7/language/zu.md" >}}) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/zu.po | 
- | [mn]({{< ref "/f7/language/mn.md" >}}) | 37 | 50 | 74.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/mn.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 37 | 50 | 74.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/vi.po | 
- | [hy]({{< ref "/f7/language/hy.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hy.po | 
- | [kn]({{< ref "/f7/language/kn.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/kn.po | 
- | [ku]({{< ref "/f7/language/ku.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ku.po | 
- | [lo]({{< ref "/f7/language/lo.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/lo.po | 
- | [my]({{< ref "/f7/language/my.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/my.po | 
- | [si]({{< ref "/f7/language/si.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/si.po | 
- | [ur]({{< ref "/f7/language/ur.md" >}}) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ur.po | 
+ | [ar](/f7/language/ar) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ar.po | 
+ | [as](/f7/language/as) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/as.po | 
+ | [be](/f7/language/be) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/be.po | 
+ | [bg](/f7/language/bg) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/bg.po | 
+ | [bn](/f7/language/bn) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/bn.po | 
+ | [bn_IN](/f7/language/bn_IN) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/bn_IN.po | 
+ | [ca](/f7/language/ca) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ca.po | 
+ | [cs](/f7/language/cs) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/cs.po | 
+ | [cy](/f7/language/cy) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/cy.po | 
+ | [da](/f7/language/da) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/da.po | 
+ | [de](/f7/language/de) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/de.po | 
+ | [el](/f7/language/el) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/el.po | 
+ | [en_GB](/f7/language/en_GB) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/en_GB.po | 
+ | [error](/f7/language/error) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sr@Latn.po | 
+ | [es](/f7/language/es) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/es.po | 
+ | [et](/f7/language/et) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/et.po | 
+ | [fa](/f7/language/fa) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/fa.po | 
+ | [fi](/f7/language/fi) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/fi.po | 
+ | [fr](/f7/language/fr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/fr.po | 
+ | [gl](/f7/language/gl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/gl.po | 
+ | [gu](/f7/language/gu) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/gu.po | 
+ | [he](/f7/language/he) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/he.po | 
+ | [hi](/f7/language/hi) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hi.po | 
+ | [hr](/f7/language/hr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hr.po | 
+ | [hu](/f7/language/hu) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hu.po | 
+ | [id](/f7/language/id) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/id.po | 
+ | [is](/f7/language/is) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/is.po | 
+ | [it](/f7/language/it) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/it.po | 
+ | [ja](/f7/language/ja) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ja.po | 
+ | [ka](/f7/language/ka) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ka.po | 
+ | [ko](/f7/language/ko) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ko.po | 
+ | [lt](/f7/language/lt) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/lt.po | 
+ | [lv](/f7/language/lv) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/lv.po | 
+ | [mk](/f7/language/mk) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/mk.po | 
+ | [ml](/f7/language/ml) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ml.po | 
+ | [mr](/f7/language/mr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/mr.po | 
+ | [ms](/f7/language/ms) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ms.po | 
+ | [nb_NO](/f7/language/nb_NO) | 100 | 100 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/nb.po/mnt/stockage/packages/f7/system-config-rootpassword/po/no.po | 
+ | [nl](/f7/language/nl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/nl.po | 
+ | [or](/f7/language/or) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/or.po | 
+ | [pa](/f7/language/pa) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pa.po | 
+ | [pl](/f7/language/pl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pl.po | 
+ | [pt](/f7/language/pt) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/pt_BR.po | 
+ | [ro](/f7/language/ro) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ro.po | 
+ | [ru](/f7/language/ru) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ru.po | 
+ | [sk](/f7/language/sk) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sk.po | 
+ | [sl](/f7/language/sl) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sl.po | 
+ | [sr](/f7/language/sr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sr.po | 
+ | [sv](/f7/language/sv) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/sv.po | 
+ | [ta](/f7/language/ta) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ta.po | 
+ | [te](/f7/language/te) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/te.po | 
+ | [tr](/f7/language/tr) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/tr.po | 
+ | [uk](/f7/language/uk) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/uk.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/zh_CN.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/zh_TW.po | 
+ | [zu](/f7/language/zu) | 50 | 50 | 100.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/zu.po | 
+ | [mn](/f7/language/mn) | 37 | 50 | 74.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/mn.po | 
+ | [vi](/f7/language/vi) | 37 | 50 | 74.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/vi.po | 
+ | [hy](/f7/language/hy) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/hy.po | 
+ | [kn](/f7/language/kn) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/kn.po | 
+ | [ku](/f7/language/ku) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ku.po | 
+ | [lo](/f7/language/lo) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/lo.po | 
+ | [my](/f7/language/my) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/my.po | 
+ | [si](/f7/language/si) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/si.po | 
+ | [ur](/f7/language/ur) | 0 | 50 | 0.0 | /mnt/stockage/packages/f7/system-config-rootpassword/po/ur.po | 
 {.sortable}
 
 

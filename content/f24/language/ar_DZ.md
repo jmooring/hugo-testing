@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [siril]({{< ref "/f24/package/siril.md" >}}) | 7969 | 8411 | 94.7 |  | 
+ | [siril](/f24/package/siril) | 7969 | 8411 | 94.7 |  | 
 {.sortable}
 
 

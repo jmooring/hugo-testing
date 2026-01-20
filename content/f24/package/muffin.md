@@ -18,97 +18,97 @@ The package muffin (version 3.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f24/language/as.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/as.po | 
- | [ast]({{< ref "/f24/language/ast.md" >}}) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ast.po | 
- | [bg]({{< ref "/f24/language/bg.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/bg.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ca.po | 
- | [ca@valencia]({{< ref "/f24/language/ca@valencia.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ca@valencia.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/cs.po | 
- | [cy]({{< ref "/f24/language/cy.md" >}}) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f24/muffin/po/cy.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/da.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/de.po | 
- | [dz]({{< ref "/f24/language/dz.md" >}}) | 7931 | 7931 | 100.0 | /mnt/stockage/packages/f24/muffin/po/dz.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 2446 | 2446 | 100.0 | /mnt/stockage/packages/f24/muffin/po/el.po | 
- | [en_CA]({{< ref "/f24/language/en_CA.md" >}}) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f24/muffin/po/en_CA.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/en_GB.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/es.po | 
- | [et]({{< ref "/f24/language/et.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/et.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 2043 | 2043 | 100.0 | /mnt/stockage/packages/f24/muffin/po/eu.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/gl.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/he.po | 
- | [hi]({{< ref "/f24/language/hi.md" >}}) | 3864 | 3864 | 100.0 | /mnt/stockage/packages/f24/muffin/po/hi.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/hu.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/id.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ja.po | 
- | [ko]({{< ref "/f24/language/ko.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ko.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/lt.po | 
- | [lv]({{< ref "/f24/language/lv.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/lv.po | 
- | [mk]({{< ref "/f24/language/mk.md" >}}) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f24/muffin/po/mk.po | 
- | [mr]({{< ref "/f24/language/mr.md" >}}) | 3864 | 3864 | 100.0 | /mnt/stockage/packages/f24/muffin/po/mr.po | 
- | [nb_NO]({{< ref "/f24/language/nb_NO.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/nb.po | 
- | [ne]({{< ref "/f24/language/ne.md" >}}) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ne.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 8049 | 8049 | 100.0 | /mnt/stockage/packages/f24/muffin/po/nn.po | 
- | [pa]({{< ref "/f24/language/pa.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pa.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pt.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pt_BR.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ru.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sk.po | 
- | [sl]({{< ref "/f24/language/sl.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sl.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 4142 | 4142 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sr@latin.po/mnt/stockage/packages/f24/muffin/po/sr.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sv.po | 
- | [ta]({{< ref "/f24/language/ta.md" >}}) | 2043 | 2043 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ta.po | 
- | [te]({{< ref "/f24/language/te.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/te.po | 
- | [th]({{< ref "/f24/language/th.md" >}}) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/th.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/tr.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/vi.po | 
- | [zh_Hant]({{< ref "/f24/language/zh_Hant.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f24/language/zh_Hant_HK.md" >}}) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/zh_HK.po | 
- | [mg]({{< ref "/f24/language/mg.md" >}}) | 7261 | 7264 | 100.0 | /mnt/stockage/packages/f24/muffin/po/mg.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 2392 | 2399 | 99.7 | /mnt/stockage/packages/f24/muffin/po/ro.po | 
- | [xh]({{< ref "/f24/language/xh.md" >}}) | 6893 | 6919 | 99.6 | /mnt/stockage/packages/f24/muffin/po/xh.po | 
- | [ug]({{< ref "/f24/language/ug.md" >}}) | 2485 | 2511 | 99.0 | /mnt/stockage/packages/f24/muffin/po/ug.po | 
- | [az]({{< ref "/f24/language/az.md" >}}) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f24/muffin/po/az.po | 
- | [bs]({{< ref "/f24/language/bs.md" >}}) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f24/muffin/po/bs.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1972 | 2038 | 96.8 | /mnt/stockage/packages/f24/muffin/po/zh_CN.po | 
- | [fa]({{< ref "/f24/language/fa.md" >}}) | 6867 | 7128 | 96.3 | /mnt/stockage/packages/f24/muffin/po/fa.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 1958 | 2043 | 95.8 | /mnt/stockage/packages/f24/muffin/po/fi.po | 
- | [ar]({{< ref "/f24/language/ar.md" >}}) | 2253 | 2399 | 93.9 | /mnt/stockage/packages/f24/muffin/po/ar.po | 
- | [hr]({{< ref "/f24/language/hr.md" >}}) | 7585 | 8082 | 93.9 | /mnt/stockage/packages/f24/muffin/po/hr.po | 
- | [sq]({{< ref "/f24/language/sq.md" >}}) | 8009 | 8587 | 93.3 | /mnt/stockage/packages/f24/muffin/po/sq.po | 
- | [be]({{< ref "/f24/language/be.md" >}}) | 1896 | 2043 | 92.8 | /mnt/stockage/packages/f24/muffin/po/be.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1870 | 2038 | 91.8 | /mnt/stockage/packages/f24/muffin/po/nl.po | 
- | [be_Latn]({{< ref "/f24/language/be_Latn.md" >}}) | 3503 | 3864 | 90.7 | /mnt/stockage/packages/f24/muffin/po/be@latin.po | 
- | [or]({{< ref "/f24/language/or.md" >}}) | 3318 | 3864 | 85.9 | /mnt/stockage/packages/f24/muffin/po/or.po | 
- | [gu]({{< ref "/f24/language/gu.md" >}}) | 1677 | 2038 | 82.3 | /mnt/stockage/packages/f24/muffin/po/gu.po | 
- | [bn]({{< ref "/f24/language/bn.md" >}}) | 5430 | 6919 | 78.5 | /mnt/stockage/packages/f24/muffin/po/bn.po | 
- | [bn_IN]({{< ref "/f24/language/bn_IN.md" >}}) | 2919 | 3864 | 75.5 | /mnt/stockage/packages/f24/muffin/po/bn_IN.po | 
- | [mai]({{< ref "/f24/language/mai.md" >}}) | 2817 | 3864 | 72.9 | /mnt/stockage/packages/f24/muffin/po/mai.po | 
- | [ig]({{< ref "/f24/language/ig.md" >}}) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f24/muffin/po/ig.po | 
- | [yo]({{< ref "/f24/language/yo.md" >}}) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f24/muffin/po/yo.po | 
- | [ha]({{< ref "/f24/language/ha.md" >}}) | 2219 | 3808 | 58.3 | /mnt/stockage/packages/f24/muffin/po/ha.po | 
- | [kn]({{< ref "/f24/language/kn.md" >}}) | 1143 | 2422 | 47.2 | /mnt/stockage/packages/f24/muffin/po/kn.po | 
- | [mn]({{< ref "/f24/language/mn.md" >}}) | 3177 | 6919 | 45.9 | /mnt/stockage/packages/f24/muffin/po/mn.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 792 | 2422 | 32.7 | /mnt/stockage/packages/f24/muffin/po/eo.po | 
- | [ms]({{< ref "/f24/language/ms.md" >}}) | 2010 | 6919 | 29.1 | /mnt/stockage/packages/f24/muffin/po/ms.po | 
- | [hy]({{< ref "/f24/language/hy.md" >}}) | 1858 | 6919 | 26.9 | /mnt/stockage/packages/f24/muffin/po/hy.po | 
- | [br]({{< ref "/f24/language/br.md" >}}) | 628 | 2437 | 25.8 | /mnt/stockage/packages/f24/muffin/po/br.po | 
- | [nds]({{< ref "/f24/language/nds.md" >}}) | 348 | 2437 | 14.3 | /mnt/stockage/packages/f24/muffin/po/nds.po | 
- | [ku]({{< ref "/f24/language/ku.md" >}}) | 1015 | 7838 | 12.9 | /mnt/stockage/packages/f24/muffin/po/ku.po | 
- | [ml]({{< ref "/f24/language/ml.md" >}}) | 921 | 8059 | 11.4 | /mnt/stockage/packages/f24/muffin/po/ml.po | 
- | [wa]({{< ref "/f24/language/wa.md" >}}) | 604 | 6919 | 8.7 | /mnt/stockage/packages/f24/muffin/po/wa.po | 
- | [is]({{< ref "/f24/language/is.md" >}}) | 599 | 6919 | 8.7 | /mnt/stockage/packages/f24/muffin/po/is.po | 
- | [oc]({{< ref "/f24/language/oc.md" >}}) | 410 | 8049 | 5.1 | /mnt/stockage/packages/f24/muffin/po/oc.po | 
- | [ga]({{< ref "/f24/language/ga.md" >}}) | 400 | 8082 | 4.9 | /mnt/stockage/packages/f24/muffin/po/ga.po | 
- | [ka]({{< ref "/f24/language/ka.md" >}}) | 375 | 8059 | 4.7 | /mnt/stockage/packages/f24/muffin/po/ka.po | 
- | [am]({{< ref "/f24/language/am.md" >}}) | 162 | 6919 | 2.3 | /mnt/stockage/packages/f24/muffin/po/am.po | 
- | [la]({{< ref "/f24/language/la.md" >}}) | 80 | 3819 | 2.1 | /mnt/stockage/packages/f24/muffin/po/la.po | 
- | [si]({{< ref "/f24/language/si.md" >}}) | 75 | 8059 | 0.9 | /mnt/stockage/packages/f24/muffin/po/si.po | 
- | [tk]({{< ref "/f24/language/tk.md" >}}) | 49 | 6919 | 0.7 | /mnt/stockage/packages/f24/muffin/po/tk.po | 
- | [rw]({{< ref "/f24/language/rw.md" >}}) | 17 | 6919 | 0.2 | /mnt/stockage/packages/f24/muffin/po/rw.po | 
+ | [as](/f24/language/as) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/as.po | 
+ | [ast](/f24/language/ast) | 2423 | 2423 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ast.po | 
+ | [bg](/f24/language/bg) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/bg.po | 
+ | [ca](/f24/language/ca) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ca.po | 
+ | [ca@valencia](/f24/language/ca@valencia) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ca@valencia.po | 
+ | [cs](/f24/language/cs) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/cs.po | 
+ | [cy](/f24/language/cy) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f24/muffin/po/cy.po | 
+ | [da](/f24/language/da) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/da.po | 
+ | [de](/f24/language/de) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/de.po | 
+ | [dz](/f24/language/dz) | 7931 | 7931 | 100.0 | /mnt/stockage/packages/f24/muffin/po/dz.po | 
+ | [el](/f24/language/el) | 2446 | 2446 | 100.0 | /mnt/stockage/packages/f24/muffin/po/el.po | 
+ | [en_CA](/f24/language/en_CA) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f24/muffin/po/en_CA.po | 
+ | [en_GB](/f24/language/en_GB) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/en_GB.po | 
+ | [es](/f24/language/es) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/es.po | 
+ | [et](/f24/language/et) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/et.po | 
+ | [eu](/f24/language/eu) | 2043 | 2043 | 100.0 | /mnt/stockage/packages/f24/muffin/po/eu.po | 
+ | [fr](/f24/language/fr) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/fr.po | 
+ | [gl](/f24/language/gl) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/gl.po | 
+ | [he](/f24/language/he) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/he.po | 
+ | [hi](/f24/language/hi) | 3864 | 3864 | 100.0 | /mnt/stockage/packages/f24/muffin/po/hi.po | 
+ | [hu](/f24/language/hu) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/hu.po | 
+ | [id](/f24/language/id) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/id.po | 
+ | [it](/f24/language/it) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/it.po | 
+ | [ja](/f24/language/ja) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ja.po | 
+ | [ko](/f24/language/ko) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ko.po | 
+ | [lt](/f24/language/lt) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/lt.po | 
+ | [lv](/f24/language/lv) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/lv.po | 
+ | [mk](/f24/language/mk) | 7924 | 7924 | 100.0 | /mnt/stockage/packages/f24/muffin/po/mk.po | 
+ | [mr](/f24/language/mr) | 3864 | 3864 | 100.0 | /mnt/stockage/packages/f24/muffin/po/mr.po | 
+ | [nb_NO](/f24/language/nb_NO) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/nb.po | 
+ | [ne](/f24/language/ne) | 8059 | 8059 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ne.po | 
+ | [nn](/f24/language/nn) | 8049 | 8049 | 100.0 | /mnt/stockage/packages/f24/muffin/po/nn.po | 
+ | [pa](/f24/language/pa) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pa.po | 
+ | [pl](/f24/language/pl) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pl.po | 
+ | [pt](/f24/language/pt) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pt.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/pt_BR.po | 
+ | [ru](/f24/language/ru) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ru.po | 
+ | [sk](/f24/language/sk) | 3798 | 3798 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sk.po | 
+ | [sl](/f24/language/sl) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sl.po | 
+ | [sr](/f24/language/sr) | 4142 | 4142 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sr@latin.po/mnt/stockage/packages/f24/muffin/po/sr.po | 
+ | [sv](/f24/language/sv) | 2071 | 2071 | 100.0 | /mnt/stockage/packages/f24/muffin/po/sv.po | 
+ | [ta](/f24/language/ta) | 2043 | 2043 | 100.0 | /mnt/stockage/packages/f24/muffin/po/ta.po | 
+ | [te](/f24/language/te) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/te.po | 
+ | [th](/f24/language/th) | 2511 | 2511 | 100.0 | /mnt/stockage/packages/f24/muffin/po/th.po | 
+ | [tr](/f24/language/tr) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/tr.po | 
+ | [uk](/f24/language/uk) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/uk.po | 
+ | [vi](/f24/language/vi) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/vi.po | 
+ | [zh_Hant](/f24/language/zh_Hant) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f24/language/zh_Hant_HK) | 2038 | 2038 | 100.0 | /mnt/stockage/packages/f24/muffin/po/zh_HK.po | 
+ | [mg](/f24/language/mg) | 7261 | 7264 | 100.0 | /mnt/stockage/packages/f24/muffin/po/mg.po | 
+ | [ro](/f24/language/ro) | 2392 | 2399 | 99.7 | /mnt/stockage/packages/f24/muffin/po/ro.po | 
+ | [xh](/f24/language/xh) | 6893 | 6919 | 99.6 | /mnt/stockage/packages/f24/muffin/po/xh.po | 
+ | [ug](/f24/language/ug) | 2485 | 2511 | 99.0 | /mnt/stockage/packages/f24/muffin/po/ug.po | 
+ | [az](/f24/language/az) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f24/muffin/po/az.po | 
+ | [bs](/f24/language/bs) | 6709 | 6919 | 97.0 | /mnt/stockage/packages/f24/muffin/po/bs.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1972 | 2038 | 96.8 | /mnt/stockage/packages/f24/muffin/po/zh_CN.po | 
+ | [fa](/f24/language/fa) | 6867 | 7128 | 96.3 | /mnt/stockage/packages/f24/muffin/po/fa.po | 
+ | [fi](/f24/language/fi) | 1958 | 2043 | 95.8 | /mnt/stockage/packages/f24/muffin/po/fi.po | 
+ | [ar](/f24/language/ar) | 2253 | 2399 | 93.9 | /mnt/stockage/packages/f24/muffin/po/ar.po | 
+ | [hr](/f24/language/hr) | 7585 | 8082 | 93.9 | /mnt/stockage/packages/f24/muffin/po/hr.po | 
+ | [sq](/f24/language/sq) | 8009 | 8587 | 93.3 | /mnt/stockage/packages/f24/muffin/po/sq.po | 
+ | [be](/f24/language/be) | 1896 | 2043 | 92.8 | /mnt/stockage/packages/f24/muffin/po/be.po | 
+ | [nl](/f24/language/nl) | 1870 | 2038 | 91.8 | /mnt/stockage/packages/f24/muffin/po/nl.po | 
+ | [be_Latn](/f24/language/be_Latn) | 3503 | 3864 | 90.7 | /mnt/stockage/packages/f24/muffin/po/be@latin.po | 
+ | [or](/f24/language/or) | 3318 | 3864 | 85.9 | /mnt/stockage/packages/f24/muffin/po/or.po | 
+ | [gu](/f24/language/gu) | 1677 | 2038 | 82.3 | /mnt/stockage/packages/f24/muffin/po/gu.po | 
+ | [bn](/f24/language/bn) | 5430 | 6919 | 78.5 | /mnt/stockage/packages/f24/muffin/po/bn.po | 
+ | [bn_IN](/f24/language/bn_IN) | 2919 | 3864 | 75.5 | /mnt/stockage/packages/f24/muffin/po/bn_IN.po | 
+ | [mai](/f24/language/mai) | 2817 | 3864 | 72.9 | /mnt/stockage/packages/f24/muffin/po/mai.po | 
+ | [ig](/f24/language/ig) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f24/muffin/po/ig.po | 
+ | [yo](/f24/language/yo) | 2294 | 3808 | 60.2 | /mnt/stockage/packages/f24/muffin/po/yo.po | 
+ | [ha](/f24/language/ha) | 2219 | 3808 | 58.3 | /mnt/stockage/packages/f24/muffin/po/ha.po | 
+ | [kn](/f24/language/kn) | 1143 | 2422 | 47.2 | /mnt/stockage/packages/f24/muffin/po/kn.po | 
+ | [mn](/f24/language/mn) | 3177 | 6919 | 45.9 | /mnt/stockage/packages/f24/muffin/po/mn.po | 
+ | [eo](/f24/language/eo) | 792 | 2422 | 32.7 | /mnt/stockage/packages/f24/muffin/po/eo.po | 
+ | [ms](/f24/language/ms) | 2010 | 6919 | 29.1 | /mnt/stockage/packages/f24/muffin/po/ms.po | 
+ | [hy](/f24/language/hy) | 1858 | 6919 | 26.9 | /mnt/stockage/packages/f24/muffin/po/hy.po | 
+ | [br](/f24/language/br) | 628 | 2437 | 25.8 | /mnt/stockage/packages/f24/muffin/po/br.po | 
+ | [nds](/f24/language/nds) | 348 | 2437 | 14.3 | /mnt/stockage/packages/f24/muffin/po/nds.po | 
+ | [ku](/f24/language/ku) | 1015 | 7838 | 12.9 | /mnt/stockage/packages/f24/muffin/po/ku.po | 
+ | [ml](/f24/language/ml) | 921 | 8059 | 11.4 | /mnt/stockage/packages/f24/muffin/po/ml.po | 
+ | [wa](/f24/language/wa) | 604 | 6919 | 8.7 | /mnt/stockage/packages/f24/muffin/po/wa.po | 
+ | [is](/f24/language/is) | 599 | 6919 | 8.7 | /mnt/stockage/packages/f24/muffin/po/is.po | 
+ | [oc](/f24/language/oc) | 410 | 8049 | 5.1 | /mnt/stockage/packages/f24/muffin/po/oc.po | 
+ | [ga](/f24/language/ga) | 400 | 8082 | 4.9 | /mnt/stockage/packages/f24/muffin/po/ga.po | 
+ | [ka](/f24/language/ka) | 375 | 8059 | 4.7 | /mnt/stockage/packages/f24/muffin/po/ka.po | 
+ | [am](/f24/language/am) | 162 | 6919 | 2.3 | /mnt/stockage/packages/f24/muffin/po/am.po | 
+ | [la](/f24/language/la) | 80 | 3819 | 2.1 | /mnt/stockage/packages/f24/muffin/po/la.po | 
+ | [si](/f24/language/si) | 75 | 8059 | 0.9 | /mnt/stockage/packages/f24/muffin/po/si.po | 
+ | [tk](/f24/language/tk) | 49 | 6919 | 0.7 | /mnt/stockage/packages/f24/muffin/po/tk.po | 
+ | [rw](/f24/language/rw) | 17 | 6919 | 0.2 | /mnt/stockage/packages/f24/muffin/po/rw.po | 
 {.sortable}
 
 

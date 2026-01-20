@@ -18,7 +18,7 @@ The package dar (version 2.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 14601 | 14601 | 100.0 | /mnt/stockage/packages/f42/dar/po/fr.po | 
+ | [fr](/f42/language/fr) | 14601 | 14601 | 100.0 | /mnt/stockage/packages/f42/dar/po/fr.po | 
 {.sortable}
 
 

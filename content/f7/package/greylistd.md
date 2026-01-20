@@ -18,11 +18,11 @@ The package greylistd (version 0.8.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/cs.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/ja.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/nb.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/vi.po | 
+ | [cs](/f7/language/cs) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/cs.po | 
+ | [fr](/f7/language/fr) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/fr.po | 
+ | [ja](/f7/language/ja) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/ja.po | 
+ | [nb_NO](/f7/language/nb_NO) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/nb.po | 
+ | [vi](/f7/language/vi) | 350 | 350 | 100.0 | /mnt/stockage/packages/f7/greylistd/debian/po/vi.po | 
 {.sortable}
 
 

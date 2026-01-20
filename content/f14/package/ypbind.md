@@ -18,8 +18,8 @@ The package ypbind (version 1.32):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 378 | 393 | 96.2 | /mnt/stockage/packages/f14/ypbind/po/sv.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 321 | 393 | 81.7 | /mnt/stockage/packages/f14/ypbind/po/de.po | 
+ | [sv](/f14/language/sv) | 378 | 393 | 96.2 | /mnt/stockage/packages/f14/ypbind/po/sv.po | 
+ | [de](/f14/language/de) | 321 | 393 | 81.7 | /mnt/stockage/packages/f14/ypbind/po/de.po | 
 {.sortable}
 
 

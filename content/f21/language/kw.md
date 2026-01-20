@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [warmux]({{< ref "/f21/package/warmux.md" >}}) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
- | [isomaster]({{< ref "/f21/package/isomaster.md" >}}) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [dnf-plugin-system-upgrade]({{< ref "/f21/package/dnf-plugin-system-upgrade.md" >}}) | 0 | 406 | 0.0 | Cornish (United Kingdom) | 
- | [entangle]({{< ref "/f21/package/entangle.md" >}}) | 0 | 1868 | 0.0 | Cornish | 
- | [vidalia]({{< ref "/f21/package/vidalia.md" >}}) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [warmux](/f21/package/warmux) | 1273 | 2744 | 46.4 | Treylyansow <treylyansow@kernewegva.com> | 
+ | [isomaster](/f21/package/isomaster) | 11 | 674 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [dnf-plugin-system-upgrade](/f21/package/dnf-plugin-system-upgrade) | 0 | 406 | 0.0 | Cornish (United Kingdom) | 
+ | [entangle](/f21/package/entangle) | 0 | 1868 | 0.0 | Cornish | 
+ | [vidalia](/f21/package/vidalia) | 0 | 10373 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

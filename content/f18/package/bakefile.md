@@ -18,9 +18,9 @@ The package bakefile (version 0.2.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f18/bakefile/tests/gettext/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f18/bakefile/tests/gettext/de.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 1 | 1 | 100.0 | /mnt/stockage/packages/f18/bakefile/tests/gettext/zh_CN.po | 
+ | [cs](/f18/language/cs) | 1 | 1 | 100.0 | /mnt/stockage/packages/f18/bakefile/tests/gettext/cs.po | 
+ | [de](/f18/language/de) | 1 | 1 | 100.0 | /mnt/stockage/packages/f18/bakefile/tests/gettext/de.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 1 | 1 | 100.0 | /mnt/stockage/packages/f18/bakefile/tests/gettext/zh_CN.po | 
 {.sortable}
 
 

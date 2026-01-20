@@ -18,13 +18,13 @@ The package kernel (version 6.17.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/ka.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/zh_CN.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/de.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/it.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/pt.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/cs.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/fr.po | 
+ | [ka](/f41/language/ka) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/ka.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/zh_CN.po | 
+ | [de](/f41/language/de) | 997 | 1149 | 86.8 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/de.po | 
+ | [it](/f41/language/it) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/it.po | 
+ | [pt](/f41/language/pt) | 473 | 1149 | 41.2 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/pt.po | 
+ | [cs](/f41/language/cs) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/cs.po | 
+ | [fr](/f41/language/fr) | 394 | 1149 | 34.3 | /mnt/stockage/packages/f41/kernel/tools/power/cpupower/po/fr.po | 
 {.sortable}
 
 

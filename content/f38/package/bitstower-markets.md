@@ -18,25 +18,25 @@ The package bitstower-markets (version 0.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/cs.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/de.po | 
- | [en]({{< ref "/f38/language/en.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/en.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/es.po | 
- | [eu]({{< ref "/f38/language/eu.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/eu.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/fr.po | 
- | [hr]({{< ref "/f38/language/hr.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/hr.po | 
- | [id]({{< ref "/f38/language/id.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/id.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/it.po | 
- | [sk]({{< ref "/f38/language/sk.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/sk.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/sv.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/tr.po | 
- | [gl]({{< ref "/f38/language/gl.md" >}}) | 199 | 232 | 85.8 | /mnt/stockage/packages/f38/bitstower-markets/po/gl.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 199 | 232 | 85.8 | /mnt/stockage/packages/f38/bitstower-markets/po/pt_BR.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 192 | 232 | 82.8 | /mnt/stockage/packages/f38/bitstower-markets/po/nl.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 191 | 232 | 82.3 | /mnt/stockage/packages/f38/bitstower-markets/po/nb_NO.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 19 | 232 | 8.2 | /mnt/stockage/packages/f38/bitstower-markets/po/ru.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 0 | 232 | 0.0 | /mnt/stockage/packages/f38/bitstower-markets/po/ja.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 0 | 232 | 0.0 | /mnt/stockage/packages/f38/bitstower-markets/po/pl.po | 
+ | [cs](/f38/language/cs) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/cs.po | 
+ | [de](/f38/language/de) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/de.po | 
+ | [en](/f38/language/en) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/en.po | 
+ | [es](/f38/language/es) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/es.po | 
+ | [eu](/f38/language/eu) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/eu.po | 
+ | [fr](/f38/language/fr) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/fr.po | 
+ | [hr](/f38/language/hr) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/hr.po | 
+ | [id](/f38/language/id) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/id.po | 
+ | [it](/f38/language/it) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/it.po | 
+ | [sk](/f38/language/sk) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/sk.po | 
+ | [sv](/f38/language/sv) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/sv.po | 
+ | [tr](/f38/language/tr) | 232 | 232 | 100.0 | /mnt/stockage/packages/f38/bitstower-markets/po/tr.po | 
+ | [gl](/f38/language/gl) | 199 | 232 | 85.8 | /mnt/stockage/packages/f38/bitstower-markets/po/gl.po | 
+ | [pt_BR](/f38/language/pt_BR) | 199 | 232 | 85.8 | /mnt/stockage/packages/f38/bitstower-markets/po/pt_BR.po | 
+ | [nl](/f38/language/nl) | 192 | 232 | 82.8 | /mnt/stockage/packages/f38/bitstower-markets/po/nl.po | 
+ | [nb_NO](/f38/language/nb_NO) | 191 | 232 | 82.3 | /mnt/stockage/packages/f38/bitstower-markets/po/nb_NO.po | 
+ | [ru](/f38/language/ru) | 19 | 232 | 8.2 | /mnt/stockage/packages/f38/bitstower-markets/po/ru.po | 
+ | [ja](/f38/language/ja) | 0 | 232 | 0.0 | /mnt/stockage/packages/f38/bitstower-markets/po/ja.po | 
+ | [pl](/f38/language/pl) | 0 | 232 | 0.0 | /mnt/stockage/packages/f38/bitstower-markets/po/pl.po | 
 {.sortable}
 
 

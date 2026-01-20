@@ -18,9 +18,9 @@ The package pidgin-save-conv-order (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f33/pidgin-save-conv-order/po/de.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 22 | 26 | 84.6 | /mnt/stockage/packages/f33/pidgin-save-conv-order/po/sr.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3 | 26 | 11.5 | /mnt/stockage/packages/f33/pidgin-save-conv-order/po/fr.po | 
+ | [de](/f33/language/de) | 26 | 26 | 100.0 | /mnt/stockage/packages/f33/pidgin-save-conv-order/po/de.po | 
+ | [sr](/f33/language/sr) | 22 | 26 | 84.6 | /mnt/stockage/packages/f33/pidgin-save-conv-order/po/sr.po | 
+ | [fr](/f33/language/fr) | 3 | 26 | 11.5 | /mnt/stockage/packages/f33/pidgin-save-conv-order/po/fr.po | 
 {.sortable}
 
 

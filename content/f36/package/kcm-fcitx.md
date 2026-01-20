@@ -18,16 +18,16 @@ The package kcm-fcitx (version 0.5.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/ca.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/de.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/zh_TW.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 216 | 251 | 86.1 | /mnt/stockage/packages/f36/kcm-fcitx/po/ja.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 206 | 251 | 82.1 | /mnt/stockage/packages/f36/kcm-fcitx/po/tr.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 57 | 251 | 22.7 | /mnt/stockage/packages/f36/kcm-fcitx/po/vi.po | 
+ | [ca](/f36/language/ca) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/ca.po | 
+ | [da](/f36/language/da) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/da.po | 
+ | [de](/f36/language/de) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/de.po | 
+ | [ko](/f36/language/ko) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/ko.po | 
+ | [ru](/f36/language/ru) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 251 | 251 | 100.0 | /mnt/stockage/packages/f36/kcm-fcitx/po/zh_TW.po | 
+ | [ja](/f36/language/ja) | 216 | 251 | 86.1 | /mnt/stockage/packages/f36/kcm-fcitx/po/ja.po | 
+ | [tr](/f36/language/tr) | 206 | 251 | 82.1 | /mnt/stockage/packages/f36/kcm-fcitx/po/tr.po | 
+ | [vi](/f36/language/vi) | 57 | 251 | 22.7 | /mnt/stockage/packages/f36/kcm-fcitx/po/vi.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package python-ase (version 3.19.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1408 | 1414 | 99.6 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/fr/LC_MESSAGES/ag.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 1318 | 1404 | 93.9 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/eu/LC_MESSAGES/ag.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 1295 | 1452 | 89.2 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1280 | 1452 | 88.2 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 977 | 1414 | 69.1 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/de/LC_MESSAGES/ag.po | 
+ | [da](/f33/language/da) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
+ | [en_GB](/f33/language/en_GB) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
+ | [es](/f33/language/es) | 1271 | 1271 | 100.0 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
+ | [fr](/f33/language/fr) | 1408 | 1414 | 99.6 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/fr/LC_MESSAGES/ag.po | 
+ | [eu](/f33/language/eu) | 1318 | 1404 | 93.9 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/eu/LC_MESSAGES/ag.po | 
+ | [gl](/f33/language/gl) | 1295 | 1452 | 89.2 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1280 | 1452 | 88.2 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
+ | [de](/f33/language/de) | 977 | 1414 | 69.1 | /mnt/stockage/packages/f33/python-ase/ase/gui/po/de/LC_MESSAGES/ag.po | 
 {.sortable}
 
 

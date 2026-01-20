@@ -18,29 +18,29 @@ The package libgovirt (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/bs.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/el.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/eu.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/fr.po | 
- | [fur]({{< ref "/f32/language/fur.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/fur.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/it.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/lt.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/nl.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/oc.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/pt.po/mnt/stockage/packages/f32/libgovirt/po/pt_BR.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 205 | 205 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/sr@latin.po/mnt/stockage/packages/f32/libgovirt/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/tr.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/zh_CN.po | 
+ | [bs](/f32/language/bs) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/bs.po | 
+ | [cs](/f32/language/cs) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/cs.po | 
+ | [da](/f32/language/da) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/da.po | 
+ | [de](/f32/language/de) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/de.po | 
+ | [el](/f32/language/el) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/el.po | 
+ | [es](/f32/language/es) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/es.po | 
+ | [eu](/f32/language/eu) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/eu.po | 
+ | [fr](/f32/language/fr) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/fr.po | 
+ | [fur](/f32/language/fur) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/fur.po | 
+ | [hu](/f32/language/hu) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/hu.po | 
+ | [id](/f32/language/id) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/id.po | 
+ | [it](/f32/language/it) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/it.po | 
+ | [lt](/f32/language/lt) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/lt.po | 
+ | [nl](/f32/language/nl) | 91 | 91 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/nl.po | 
+ | [oc](/f32/language/oc) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/oc.po | 
+ | [pl](/f32/language/pl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 205 | 205 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/pt.po/mnt/stockage/packages/f32/libgovirt/po/pt_BR.po | 
+ | [ru](/f32/language/ru) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/ru.po | 
+ | [sl](/f32/language/sl) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/sl.po | 
+ | [sr](/f32/language/sr) | 205 | 205 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/sr@latin.po/mnt/stockage/packages/f32/libgovirt/po/sr.po | 
+ | [sv](/f32/language/sv) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/sv.po | 
+ | [tr](/f32/language/tr) | 103 | 103 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/tr.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 102 | 102 | 100.0 | /mnt/stockage/packages/f32/libgovirt/po/zh_CN.po | 
 {.sortable}
 
 

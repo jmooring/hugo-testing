@@ -18,7 +18,7 @@ The package braille-printer-app (version 2.0~b0^386eea385f):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f39/braille-printer-app/driver/common/fr-braille.po | 
+ | [fr](/f39/language/fr) | 203 | 203 | 100.0 | /mnt/stockage/packages/f39/braille-printer-app/driver/common/fr-braille.po | 
 {.sortable}
 
 

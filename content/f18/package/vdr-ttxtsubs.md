@@ -18,16 +18,16 @@ The package vdr-ttxtsubs (version 0.2.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [et]({{< ref "/f18/language/et.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/et_EE.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/fi_FI.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/fr_FR.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/it_IT.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 61 | 67 | 91.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/ru_RU.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 61 | 67 | 91.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/uk_UA.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 58 | 67 | 86.6 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/ca_ES.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 58 | 67 | 86.6 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/de_DE.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 58 | 67 | 86.6 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/es_ES.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 25 | 67 | 37.3 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/sv_SE.po | 
+ | [et](/f18/language/et) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/et_EE.po | 
+ | [fi](/f18/language/fi) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/fi_FI.po | 
+ | [fr](/f18/language/fr) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/fr_FR.po | 
+ | [it](/f18/language/it) | 67 | 67 | 100.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/it_IT.po | 
+ | [ru](/f18/language/ru) | 61 | 67 | 91.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/ru_RU.po | 
+ | [uk](/f18/language/uk) | 61 | 67 | 91.0 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/uk_UA.po | 
+ | [ca](/f18/language/ca) | 58 | 67 | 86.6 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/ca_ES.po | 
+ | [de](/f18/language/de) | 58 | 67 | 86.6 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/de_DE.po | 
+ | [es](/f18/language/es) | 58 | 67 | 86.6 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/es_ES.po | 
+ | [sv](/f18/language/sv) | 25 | 67 | 37.3 | /mnt/stockage/packages/f18/vdr-ttxtsubs/po/sv_SE.po | 
 {.sortable}
 
 

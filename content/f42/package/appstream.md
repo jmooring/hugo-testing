@@ -18,55 +18,55 @@ The package appstream (version 1.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/fr.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sl.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/zh_CN.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/en_GB.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/es.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/id.po | 
- | [ta]({{< ref "/f42/language/ta.md" >}}) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ta.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 6931 | 7085 | 97.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ca.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 6931 | 7085 | 97.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/hi.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 6874 | 7085 | 97.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/de.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 5898 | 7085 | 83.2 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/gl.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 5855 | 7085 | 82.6 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/hr.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 5389 | 7085 | 76.1 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ko.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 4859 | 7085 | 68.6 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/hu.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 4487 | 7085 | 63.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/eo.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 4177 | 7085 | 59.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/nl.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 3815 | 7085 | 53.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/da.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 3762 | 7085 | 53.1 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 3392 | 7085 | 47.9 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/it.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 3211 | 7085 | 45.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ja.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 2127 | 7085 | 30.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/fi.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 1690 | 7085 | 23.9 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1535 | 7085 | 21.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/nb.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 1357 | 7085 | 19.2 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/cs.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 1262 | 7085 | 17.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sk.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 1205 | 7085 | 17.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/lt.po | 
- | [sr_Latn]({{< ref "/f42/language/sr_Latn.md" >}}) | 1087 | 7085 | 15.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sr@latin.po | 
- | [bn_BD]({{< ref "/f42/language/bn_BD.md" >}}) | 1055 | 7085 | 14.9 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/bn_BD.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 1051 | 7085 | 14.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ka.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 810 | 7085 | 11.4 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/oc.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 802 | 7085 | 11.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/et.po | 
- | [gd]({{< ref "/f42/language/gd.md" >}}) | 754 | 7085 | 10.6 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/gd.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 307 | 7085 | 4.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ar.po | 
- | [ckb]({{< ref "/f42/language/ckb.md" >}}) | 225 | 7085 | 3.2 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ckb.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 193 | 7085 | 2.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/he.po | 
- | [bn]({{< ref "/f42/language/bn.md" >}}) | 163 | 7085 | 2.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/bn.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 109 | 7085 | 1.5 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/eu.po | 
- | [th]({{< ref "/f42/language/th.md" >}}) | 95 | 7085 | 1.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/th.po | 
- | [rom]({{< ref "/f42/language/rom.md" >}}) | 2 | 7085 | 0.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/rom.po | 
- | [ain]({{< ref "/f42/language/ain.md" >}}) | 0 | 7085 | 0.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ain.po | 
- | [ia]({{< ref "/f42/language/ia.md" >}}) | 0 | 7085 | 0.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ia.po | 
+ | [fr](/f42/language/fr) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/fr.po | 
+ | [pl](/f42/language/pl) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/pl.po | 
+ | [pt](/f42/language/pt) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ro.po | 
+ | [ru](/f42/language/ru) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ru.po | 
+ | [sl](/f42/language/sl) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sl.po | 
+ | [sv](/f42/language/sv) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sv.po | 
+ | [tr](/f42/language/tr) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/tr.po | 
+ | [uk](/f42/language/uk) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 7064 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/zh_CN.po | 
+ | [en_GB](/f42/language/en_GB) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/en_GB.po | 
+ | [es](/f42/language/es) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/es.po | 
+ | [id](/f42/language/id) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/id.po | 
+ | [ta](/f42/language/ta) | 7062 | 7085 | 99.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ta.po | 
+ | [ca](/f42/language/ca) | 6931 | 7085 | 97.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ca.po | 
+ | [hi](/f42/language/hi) | 6931 | 7085 | 97.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/hi.po | 
+ | [de](/f42/language/de) | 6874 | 7085 | 97.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/de.po | 
+ | [gl](/f42/language/gl) | 5898 | 7085 | 83.2 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/gl.po | 
+ | [hr](/f42/language/hr) | 5855 | 7085 | 82.6 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/hr.po | 
+ | [ko](/f42/language/ko) | 5389 | 7085 | 76.1 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ko.po | 
+ | [hu](/f42/language/hu) | 4859 | 7085 | 68.6 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/hu.po | 
+ | [eo](/f42/language/eo) | 4487 | 7085 | 63.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/eo.po | 
+ | [nl](/f42/language/nl) | 4177 | 7085 | 59.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/nl.po | 
+ | [da](/f42/language/da) | 3815 | 7085 | 53.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/da.po | 
+ | [sr](/f42/language/sr) | 3762 | 7085 | 53.1 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sr.po | 
+ | [it](/f42/language/it) | 3392 | 7085 | 47.9 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/it.po | 
+ | [ja](/f42/language/ja) | 3211 | 7085 | 45.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ja.po | 
+ | [fi](/f42/language/fi) | 2127 | 7085 | 30.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/fi.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 1690 | 7085 | 23.9 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/zh_TW.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1535 | 7085 | 21.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/nb.po | 
+ | [cs](/f42/language/cs) | 1357 | 7085 | 19.2 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/cs.po | 
+ | [sk](/f42/language/sk) | 1262 | 7085 | 17.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sk.po | 
+ | [lt](/f42/language/lt) | 1205 | 7085 | 17.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/lt.po | 
+ | [sr_Latn](/f42/language/sr_Latn) | 1087 | 7085 | 15.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/sr@latin.po | 
+ | [bn_BD](/f42/language/bn_BD) | 1055 | 7085 | 14.9 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/bn_BD.po | 
+ | [ka](/f42/language/ka) | 1051 | 7085 | 14.8 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ka.po | 
+ | [oc](/f42/language/oc) | 810 | 7085 | 11.4 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/oc.po | 
+ | [et](/f42/language/et) | 802 | 7085 | 11.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/et.po | 
+ | [gd](/f42/language/gd) | 754 | 7085 | 10.6 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/gd.po | 
+ | [ar](/f42/language/ar) | 307 | 7085 | 4.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ar.po | 
+ | [ckb](/f42/language/ckb) | 225 | 7085 | 3.2 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ckb.po | 
+ | [he](/f42/language/he) | 193 | 7085 | 2.7 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/he.po | 
+ | [bn](/f42/language/bn) | 163 | 7085 | 2.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/bn.po | 
+ | [eu](/f42/language/eu) | 109 | 7085 | 1.5 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/eu.po | 
+ | [th](/f42/language/th) | 95 | 7085 | 1.3 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/th.po | 
+ | [rom](/f42/language/rom) | 2 | 7085 | 0.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/rom.po | 
+ | [ain](/f42/language/ain) | 0 | 7085 | 0.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ain.po | 
+ | [ia](/f42/language/ia) | 0 | 7085 | 0.0 | /mnt/stockage/packages/f42/appstream/AppStream-1.1.0/po/ia.po | 
 {.sortable}
 
 

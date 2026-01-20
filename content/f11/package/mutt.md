@@ -18,35 +18,35 @@ The package mutt (version 1.5.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 5273 | 5276 | 99.9 | /mnt/stockage/packages/f11/mutt/po/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 5273 | 5276 | 99.9 | /mnt/stockage/packages/f11/mutt/po/fr.po | 
- | [ja]({{< ref "/f11/language/ja.md" >}}) | 5152 | 5276 | 97.6 | /mnt/stockage/packages/f11/mutt/po/ja.po | 
- | [ca]({{< ref "/f11/language/ca.md" >}}) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/ca.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/de.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/nl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/ru.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 5051 | 5276 | 95.7 | /mnt/stockage/packages/f11/mutt/po/sv.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 5046 | 5276 | 95.6 | /mnt/stockage/packages/f11/mutt/po/pl.po | 
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 5033 | 5276 | 95.4 | /mnt/stockage/packages/f11/mutt/po/eo.po | 
- | [eu]({{< ref "/f11/language/eu.md" >}}) | 4947 | 5276 | 93.8 | /mnt/stockage/packages/f11/mutt/po/eu.po | 
- | [id]({{< ref "/f11/language/id.md" >}}) | 4914 | 5276 | 93.1 | /mnt/stockage/packages/f11/mutt/po/id.po | 
- | [ga]({{< ref "/f11/language/ga.md" >}}) | 4852 | 5276 | 92.0 | /mnt/stockage/packages/f11/mutt/po/ga.po | 
- | [tr]({{< ref "/f11/language/tr.md" >}}) | 4806 | 5276 | 91.1 | /mnt/stockage/packages/f11/mutt/po/tr.po | 
- | [da]({{< ref "/f11/language/da.md" >}}) | 3810 | 5276 | 72.2 | /mnt/stockage/packages/f11/mutt/po/da.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 3788 | 5276 | 71.8 | /mnt/stockage/packages/f11/mutt/po/el.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 3722 | 5276 | 70.5 | /mnt/stockage/packages/f11/mutt/po/it.po | 
- | [ko]({{< ref "/f11/language/ko.md" >}}) | 3704 | 5276 | 70.2 | /mnt/stockage/packages/f11/mutt/po/ko.po | 
- | [bg]({{< ref "/f11/language/bg.md" >}}) | 3675 | 5276 | 69.7 | /mnt/stockage/packages/f11/mutt/po/bg.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 3674 | 5276 | 69.6 | /mnt/stockage/packages/f11/mutt/po/hu.po | 
- | [et]({{< ref "/f11/language/et.md" >}}) | 3571 | 5276 | 67.7 | /mnt/stockage/packages/f11/mutt/po/et.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 3309 | 5276 | 62.7 | /mnt/stockage/packages/f11/mutt/po/uk.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 3231 | 5276 | 61.2 | /mnt/stockage/packages/f11/mutt/po/zh_TW.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 3189 | 5276 | 60.4 | /mnt/stockage/packages/f11/mutt/po/es.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 3138 | 5276 | 59.5 | /mnt/stockage/packages/f11/mutt/po/gl.po | 
- | [lt]({{< ref "/f11/language/lt.md" >}}) | 3076 | 5276 | 58.3 | /mnt/stockage/packages/f11/mutt/po/lt.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 2784 | 5276 | 52.8 | /mnt/stockage/packages/f11/mutt/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 2485 | 5276 | 47.1 | /mnt/stockage/packages/f11/mutt/po/zh_CN.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 2268 | 5276 | 43.0 | /mnt/stockage/packages/f11/mutt/po/sk.po | 
+ | [cs](/f11/language/cs) | 5273 | 5276 | 99.9 | /mnt/stockage/packages/f11/mutt/po/cs.po | 
+ | [fr](/f11/language/fr) | 5273 | 5276 | 99.9 | /mnt/stockage/packages/f11/mutt/po/fr.po | 
+ | [ja](/f11/language/ja) | 5152 | 5276 | 97.6 | /mnt/stockage/packages/f11/mutt/po/ja.po | 
+ | [ca](/f11/language/ca) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/ca.po | 
+ | [de](/f11/language/de) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/de.po | 
+ | [nl](/f11/language/nl) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/nl.po | 
+ | [ru](/f11/language/ru) | 5060 | 5276 | 95.9 | /mnt/stockage/packages/f11/mutt/po/ru.po | 
+ | [sv](/f11/language/sv) | 5051 | 5276 | 95.7 | /mnt/stockage/packages/f11/mutt/po/sv.po | 
+ | [pl](/f11/language/pl) | 5046 | 5276 | 95.6 | /mnt/stockage/packages/f11/mutt/po/pl.po | 
+ | [eo](/f11/language/eo) | 5033 | 5276 | 95.4 | /mnt/stockage/packages/f11/mutt/po/eo.po | 
+ | [eu](/f11/language/eu) | 4947 | 5276 | 93.8 | /mnt/stockage/packages/f11/mutt/po/eu.po | 
+ | [id](/f11/language/id) | 4914 | 5276 | 93.1 | /mnt/stockage/packages/f11/mutt/po/id.po | 
+ | [ga](/f11/language/ga) | 4852 | 5276 | 92.0 | /mnt/stockage/packages/f11/mutt/po/ga.po | 
+ | [tr](/f11/language/tr) | 4806 | 5276 | 91.1 | /mnt/stockage/packages/f11/mutt/po/tr.po | 
+ | [da](/f11/language/da) | 3810 | 5276 | 72.2 | /mnt/stockage/packages/f11/mutt/po/da.po | 
+ | [el](/f11/language/el) | 3788 | 5276 | 71.8 | /mnt/stockage/packages/f11/mutt/po/el.po | 
+ | [it](/f11/language/it) | 3722 | 5276 | 70.5 | /mnt/stockage/packages/f11/mutt/po/it.po | 
+ | [ko](/f11/language/ko) | 3704 | 5276 | 70.2 | /mnt/stockage/packages/f11/mutt/po/ko.po | 
+ | [bg](/f11/language/bg) | 3675 | 5276 | 69.7 | /mnt/stockage/packages/f11/mutt/po/bg.po | 
+ | [hu](/f11/language/hu) | 3674 | 5276 | 69.6 | /mnt/stockage/packages/f11/mutt/po/hu.po | 
+ | [et](/f11/language/et) | 3571 | 5276 | 67.7 | /mnt/stockage/packages/f11/mutt/po/et.po | 
+ | [uk](/f11/language/uk) | 3309 | 5276 | 62.7 | /mnt/stockage/packages/f11/mutt/po/uk.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 3231 | 5276 | 61.2 | /mnt/stockage/packages/f11/mutt/po/zh_TW.po | 
+ | [es](/f11/language/es) | 3189 | 5276 | 60.4 | /mnt/stockage/packages/f11/mutt/po/es.po | 
+ | [gl](/f11/language/gl) | 3138 | 5276 | 59.5 | /mnt/stockage/packages/f11/mutt/po/gl.po | 
+ | [lt](/f11/language/lt) | 3076 | 5276 | 58.3 | /mnt/stockage/packages/f11/mutt/po/lt.po | 
+ | [pt_BR](/f11/language/pt_BR) | 2784 | 5276 | 52.8 | /mnt/stockage/packages/f11/mutt/po/pt_BR.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 2485 | 5276 | 47.1 | /mnt/stockage/packages/f11/mutt/po/zh_CN.po | 
+ | [sk](/f11/language/sk) | 2268 | 5276 | 43.0 | /mnt/stockage/packages/f11/mutt/po/sk.po | 
 {.sortable}
 
 

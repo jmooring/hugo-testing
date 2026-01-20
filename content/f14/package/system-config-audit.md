@@ -18,42 +18,42 @@ The package system-config-audit (version 0.4.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f14/language/as.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/as.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/bn_IN.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/bs.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/de.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/fr.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/gu.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/hi.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/hu.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ja.po | 
- | [kn]({{< ref "/f14/language/kn.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/kn.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ko.po | 
- | [mai]({{< ref "/f14/language/mai.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/mai.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ml.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/mr.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/nl.po | 
- | [or]({{< ref "/f14/language/or.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/or.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sk.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sv.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/te.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/zh_TW.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 1167 | 1241 | 94.0 | /mnt/stockage/packages/f14/system-config-audit/po/el.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 449 | 1241 | 36.2 | /mnt/stockage/packages/f14/system-config-audit/po/ca.po | 
+ | [as](/f14/language/as) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/as.po | 
+ | [bn_IN](/f14/language/bn_IN) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/bn_IN.po | 
+ | [bs](/f14/language/bs) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/bs.po | 
+ | [cs](/f14/language/cs) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/cs.po | 
+ | [da](/f14/language/da) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/da.po | 
+ | [de](/f14/language/de) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/de.po | 
+ | [es](/f14/language/es) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/es.po | 
+ | [fr](/f14/language/fr) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/fr.po | 
+ | [gu](/f14/language/gu) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/gu.po | 
+ | [hi](/f14/language/hi) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/hi.po | 
+ | [hu](/f14/language/hu) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/hu.po | 
+ | [it](/f14/language/it) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/it.po | 
+ | [ja](/f14/language/ja) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ja.po | 
+ | [kn](/f14/language/kn) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/kn.po | 
+ | [ko](/f14/language/ko) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ko.po | 
+ | [mai](/f14/language/mai) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/mai.po | 
+ | [ml](/f14/language/ml) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ml.po | 
+ | [mr](/f14/language/mr) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/mr.po | 
+ | [nl](/f14/language/nl) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/nl.po | 
+ | [or](/f14/language/or) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/or.po | 
+ | [pa](/f14/language/pa) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pa.po | 
+ | [pl](/f14/language/pl) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pl.po | 
+ | [pt](/f14/language/pt) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ru.po | 
+ | [sk](/f14/language/sk) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sk.po | 
+ | [sr](/f14/language/sr) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/sv.po | 
+ | [ta](/f14/language/ta) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/ta.po | 
+ | [te](/f14/language/te) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/te.po | 
+ | [uk](/f14/language/uk) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 1241 | 1241 | 100.0 | /mnt/stockage/packages/f14/system-config-audit/po/zh_TW.po | 
+ | [el](/f14/language/el) | 1167 | 1241 | 94.0 | /mnt/stockage/packages/f14/system-config-audit/po/el.po | 
+ | [ca](/f14/language/ca) | 449 | 1241 | 36.2 | /mnt/stockage/packages/f14/system-config-audit/po/ca.po | 
 {.sortable}
 
 

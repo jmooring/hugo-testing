@@ -18,7 +18,7 @@ The package ibus-array (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f41/ibus-array/po/zh_TW.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 74 | 74 | 100.0 | /mnt/stockage/packages/f41/ibus-array/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package xlog (version 2.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f16/xlog/po/nl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1435 | 1441 | 99.6 | /mnt/stockage/packages/f16/xlog/po/sv.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1359 | 1441 | 94.3 | /mnt/stockage/packages/f16/xlog/po/fr.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/de.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/es.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/it.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/pt.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/sk.po | 
+ | [nl](/f16/language/nl) | 1441 | 1441 | 100.0 | /mnt/stockage/packages/f16/xlog/po/nl.po | 
+ | [sv](/f16/language/sv) | 1435 | 1441 | 99.6 | /mnt/stockage/packages/f16/xlog/po/sv.po | 
+ | [fr](/f16/language/fr) | 1359 | 1441 | 94.3 | /mnt/stockage/packages/f16/xlog/po/fr.po | 
+ | [cs](/f16/language/cs) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/cs.po | 
+ | [de](/f16/language/de) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/de.po | 
+ | [es](/f16/language/es) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/es.po | 
+ | [it](/f16/language/it) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/it.po | 
+ | [pl](/f16/language/pl) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/pl.po | 
+ | [pt](/f16/language/pt) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/pt.po | 
+ | [sk](/f16/language/sk) | 1358 | 1441 | 94.2 | /mnt/stockage/packages/f16/xlog/po/sk.po | 
 {.sortable}
 
 

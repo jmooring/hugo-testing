@@ -18,8 +18,8 @@ The package mpop (version 1.0.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f11/mpop/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 1355 | 1690 | 80.2 | /mnt/stockage/packages/f11/mpop/po/es.po | 
+ | [de](/f11/language/de) | 1690 | 1690 | 100.0 | /mnt/stockage/packages/f11/mpop/po/de.po | 
+ | [es](/f11/language/es) | 1355 | 1690 | 80.2 | /mnt/stockage/packages/f11/mpop/po/es.po | 
 {.sortable}
 
 

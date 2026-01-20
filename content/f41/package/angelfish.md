@@ -18,50 +18,50 @@ The package angelfish (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ar/angelfish.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ca/angelfish.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ca@valencia/angelfish.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/es/angelfish.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/eu/angelfish.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/fi/angelfish.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/fr/angelfish.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/gl/angelfish.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/he/angelfish.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/hu/angelfish.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ia/angelfish.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/it/angelfish.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ka/angelfish.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ko/angelfish.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/nl/angelfish.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/pl/angelfish.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ru/angelfish.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/sl/angelfish.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/sv/angelfish.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/tr/angelfish.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/uk/angelfish.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/zh_TW/angelfish.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 736 | 744 | 98.9 | /mnt/stockage/packages/f41/angelfish/po/lt/angelfish.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 736 | 744 | 98.9 | /mnt/stockage/packages/f41/angelfish/po/lv/angelfish.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 728 | 744 | 97.8 | /mnt/stockage/packages/f41/angelfish/po/eo/angelfish.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 689 | 744 | 92.6 | /mnt/stockage/packages/f41/angelfish/po/zh_CN/angelfish.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 538 | 744 | 72.3 | /mnt/stockage/packages/f41/angelfish/po/el/angelfish.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 340 | 744 | 45.7 | /mnt/stockage/packages/f41/angelfish/po/cs/angelfish.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 270 | 744 | 36.3 | /mnt/stockage/packages/f41/angelfish/po/ta/angelfish.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 238 | 744 | 32.0 | /mnt/stockage/packages/f41/angelfish/po/en_GB/angelfish.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 238 | 744 | 32.0 | /mnt/stockage/packages/f41/angelfish/po/hi/angelfish.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 238 | 744 | 32.0 | /mnt/stockage/packages/f41/angelfish/po/sa/angelfish.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 126 | 744 | 16.9 | /mnt/stockage/packages/f41/angelfish/po/pt/angelfish.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 126 | 744 | 16.9 | /mnt/stockage/packages/f41/angelfish/po/pt_BR/angelfish.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 126 | 744 | 16.9 | /mnt/stockage/packages/f41/angelfish/po/sk/angelfish.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 60 | 744 | 8.1 | /mnt/stockage/packages/f41/angelfish/po/pa/angelfish.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 54 | 744 | 7.3 | /mnt/stockage/packages/f41/angelfish/po/az/angelfish.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 54 | 744 | 7.3 | /mnt/stockage/packages/f41/angelfish/po/de/angelfish.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 52 | 744 | 7.0 | /mnt/stockage/packages/f41/angelfish/po/id/angelfish.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 52 | 744 | 7.0 | /mnt/stockage/packages/f41/angelfish/po/nn/angelfish.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 44 | 744 | 5.9 | /mnt/stockage/packages/f41/angelfish/po/da/angelfish.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 44 | 744 | 5.9 | /mnt/stockage/packages/f41/angelfish/po/et/angelfish.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 744 | 0.5 | /mnt/stockage/packages/f41/angelfish/po/ast/angelfish.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 0 | 744 | 0.0 | /mnt/stockage/packages/f41/angelfish/po/ja/angelfish.po | 
+ | [ar](/f41/language/ar) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ar/angelfish.po | 
+ | [ca](/f41/language/ca) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ca/angelfish.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ca@valencia/angelfish.po | 
+ | [es](/f41/language/es) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/es/angelfish.po | 
+ | [eu](/f41/language/eu) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/eu/angelfish.po | 
+ | [fi](/f41/language/fi) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/fi/angelfish.po | 
+ | [fr](/f41/language/fr) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/fr/angelfish.po | 
+ | [gl](/f41/language/gl) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/gl/angelfish.po | 
+ | [he](/f41/language/he) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/he/angelfish.po | 
+ | [hu](/f41/language/hu) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/hu/angelfish.po | 
+ | [ia](/f41/language/ia) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ia/angelfish.po | 
+ | [it](/f41/language/it) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/it/angelfish.po | 
+ | [ka](/f41/language/ka) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ka/angelfish.po | 
+ | [ko](/f41/language/ko) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ko/angelfish.po | 
+ | [nl](/f41/language/nl) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/nl/angelfish.po | 
+ | [pl](/f41/language/pl) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/pl/angelfish.po | 
+ | [ru](/f41/language/ru) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/ru/angelfish.po | 
+ | [sl](/f41/language/sl) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/sl/angelfish.po | 
+ | [sv](/f41/language/sv) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/sv/angelfish.po | 
+ | [tr](/f41/language/tr) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/tr/angelfish.po | 
+ | [uk](/f41/language/uk) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/uk/angelfish.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 744 | 744 | 100.0 | /mnt/stockage/packages/f41/angelfish/po/zh_TW/angelfish.po | 
+ | [lt](/f41/language/lt) | 736 | 744 | 98.9 | /mnt/stockage/packages/f41/angelfish/po/lt/angelfish.po | 
+ | [lv](/f41/language/lv) | 736 | 744 | 98.9 | /mnt/stockage/packages/f41/angelfish/po/lv/angelfish.po | 
+ | [eo](/f41/language/eo) | 728 | 744 | 97.8 | /mnt/stockage/packages/f41/angelfish/po/eo/angelfish.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 689 | 744 | 92.6 | /mnt/stockage/packages/f41/angelfish/po/zh_CN/angelfish.po | 
+ | [el](/f41/language/el) | 538 | 744 | 72.3 | /mnt/stockage/packages/f41/angelfish/po/el/angelfish.po | 
+ | [cs](/f41/language/cs) | 340 | 744 | 45.7 | /mnt/stockage/packages/f41/angelfish/po/cs/angelfish.po | 
+ | [ta](/f41/language/ta) | 270 | 744 | 36.3 | /mnt/stockage/packages/f41/angelfish/po/ta/angelfish.po | 
+ | [en_GB](/f41/language/en_GB) | 238 | 744 | 32.0 | /mnt/stockage/packages/f41/angelfish/po/en_GB/angelfish.po | 
+ | [hi](/f41/language/hi) | 238 | 744 | 32.0 | /mnt/stockage/packages/f41/angelfish/po/hi/angelfish.po | 
+ | [sa](/f41/language/sa) | 238 | 744 | 32.0 | /mnt/stockage/packages/f41/angelfish/po/sa/angelfish.po | 
+ | [pt](/f41/language/pt) | 126 | 744 | 16.9 | /mnt/stockage/packages/f41/angelfish/po/pt/angelfish.po | 
+ | [pt_BR](/f41/language/pt_BR) | 126 | 744 | 16.9 | /mnt/stockage/packages/f41/angelfish/po/pt_BR/angelfish.po | 
+ | [sk](/f41/language/sk) | 126 | 744 | 16.9 | /mnt/stockage/packages/f41/angelfish/po/sk/angelfish.po | 
+ | [pa](/f41/language/pa) | 60 | 744 | 8.1 | /mnt/stockage/packages/f41/angelfish/po/pa/angelfish.po | 
+ | [az](/f41/language/az) | 54 | 744 | 7.3 | /mnt/stockage/packages/f41/angelfish/po/az/angelfish.po | 
+ | [de](/f41/language/de) | 54 | 744 | 7.3 | /mnt/stockage/packages/f41/angelfish/po/de/angelfish.po | 
+ | [id](/f41/language/id) | 52 | 744 | 7.0 | /mnt/stockage/packages/f41/angelfish/po/id/angelfish.po | 
+ | [nn](/f41/language/nn) | 52 | 744 | 7.0 | /mnt/stockage/packages/f41/angelfish/po/nn/angelfish.po | 
+ | [da](/f41/language/da) | 44 | 744 | 5.9 | /mnt/stockage/packages/f41/angelfish/po/da/angelfish.po | 
+ | [et](/f41/language/et) | 44 | 744 | 5.9 | /mnt/stockage/packages/f41/angelfish/po/et/angelfish.po | 
+ | [ast](/f41/language/ast) | 4 | 744 | 0.5 | /mnt/stockage/packages/f41/angelfish/po/ast/angelfish.po | 
+ | [ja](/f41/language/ja) | 0 | 744 | 0.0 | /mnt/stockage/packages/f41/angelfish/po/ja/angelfish.po | 
 {.sortable}
 
 

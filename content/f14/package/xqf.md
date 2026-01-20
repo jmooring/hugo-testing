@@ -18,14 +18,14 @@ The package xqf (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 1504 | 1504 | 100.0 | /mnt/stockage/packages/f14/xqf/po/ca.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1482 | 1504 | 98.5 | /mnt/stockage/packages/f14/xqf/po/de.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 1482 | 1504 | 98.5 | /mnt/stockage/packages/f14/xqf/po/pl.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 1452 | 1504 | 96.5 | /mnt/stockage/packages/f14/xqf/po/fi.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1417 | 1504 | 94.2 | /mnt/stockage/packages/f14/xqf/po/es.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 1349 | 1504 | 89.7 | /mnt/stockage/packages/f14/xqf/po/da.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 1274 | 1504 | 84.7 | /mnt/stockage/packages/f14/xqf/po/ru.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1207 | 1504 | 80.3 | /mnt/stockage/packages/f14/xqf/po/fr.po | 
+ | [ca](/f14/language/ca) | 1504 | 1504 | 100.0 | /mnt/stockage/packages/f14/xqf/po/ca.po | 
+ | [de](/f14/language/de) | 1482 | 1504 | 98.5 | /mnt/stockage/packages/f14/xqf/po/de.po | 
+ | [pl](/f14/language/pl) | 1482 | 1504 | 98.5 | /mnt/stockage/packages/f14/xqf/po/pl.po | 
+ | [fi](/f14/language/fi) | 1452 | 1504 | 96.5 | /mnt/stockage/packages/f14/xqf/po/fi.po | 
+ | [es](/f14/language/es) | 1417 | 1504 | 94.2 | /mnt/stockage/packages/f14/xqf/po/es.po | 
+ | [da](/f14/language/da) | 1349 | 1504 | 89.7 | /mnt/stockage/packages/f14/xqf/po/da.po | 
+ | [ru](/f14/language/ru) | 1274 | 1504 | 84.7 | /mnt/stockage/packages/f14/xqf/po/ru.po | 
+ | [fr](/f14/language/fr) | 1207 | 1504 | 80.3 | /mnt/stockage/packages/f14/xqf/po/fr.po | 
 {.sortable}
 
 

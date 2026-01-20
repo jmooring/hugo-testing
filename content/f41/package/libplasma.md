@@ -18,67 +18,67 @@ The package libplasma (version 6.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ar/libplasma6.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/be/libplasma6.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/bg/libplasma6.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ca/libplasma6.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ca@valencia/libplasma6.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/de/libplasma6.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/el/libplasma6.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/en_GB/libplasma6.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/eo/libplasma6.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/es/libplasma6.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/eu/libplasma6.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/fi/libplasma6.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/fr/libplasma6.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/gl/libplasma6.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/he/libplasma6.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/hi/libplasma6.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/hu/libplasma6.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ia/libplasma6.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/it/libplasma6.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ja/libplasma6.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ka/libplasma6.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ko/libplasma6.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/lt/libplasma6.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/lv/libplasma6.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/nb/libplasma6.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/nl/libplasma6.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/nn/libplasma6.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/pl/libplasma6.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/pt_BR/libplasma6.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ru/libplasma6.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/sa/libplasma6.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/sl/libplasma6.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/sv/libplasma6.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ta/libplasma6.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/tr/libplasma6.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/uk/libplasma6.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/zh_CN/libplasma6.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/zh_TW/libplasma6.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 223 | 227 | 98.2 | /mnt/stockage/packages/f41/libplasma/po/da/libplasma6.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 223 | 227 | 98.2 | /mnt/stockage/packages/f41/libplasma/po/ro/libplasma6.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 215 | 227 | 94.7 | /mnt/stockage/packages/f41/libplasma/po/is/libplasma6.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 183 | 227 | 80.6 | /mnt/stockage/packages/f41/libplasma/po/sk/libplasma6.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 123 | 227 | 54.2 | /mnt/stockage/packages/f41/libplasma/po/cs/libplasma6.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 112 | 227 | 49.3 | /mnt/stockage/packages/f41/libplasma/po/vi/libplasma6.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 102 | 227 | 44.9 | /mnt/stockage/packages/f41/libplasma/po/az/libplasma6.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 102 | 227 | 44.9 | /mnt/stockage/packages/f41/libplasma/po/pt/libplasma6.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 100 | 227 | 44.1 | /mnt/stockage/packages/f41/libplasma/po/id/libplasma6.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 97 | 227 | 42.7 | /mnt/stockage/packages/f41/libplasma/po/et/libplasma6.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 95 | 227 | 41.9 | /mnt/stockage/packages/f41/libplasma/po/pa/libplasma6.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 87 | 227 | 38.3 | /mnt/stockage/packages/f41/libplasma/po/tg/libplasma6.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 81 | 227 | 35.7 | /mnt/stockage/packages/f41/libplasma/po/ml/libplasma6.po | 
- | [gd]({{< ref "/f41/language/gd.md" >}}) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/gd/libplasma6.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr/libplasma6.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr@ijekavian/libplasma6.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr@ijekavianlatin/libplasma6.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr@latin/libplasma6.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 53 | 227 | 23.3 | /mnt/stockage/packages/f41/libplasma/po/ast/libplasma6.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 31 | 227 | 13.7 | /mnt/stockage/packages/f41/libplasma/po/nds/libplasma6.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 27 | 227 | 11.9 | /mnt/stockage/packages/f41/libplasma/po/bs/libplasma6.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 27 | 227 | 11.9 | /mnt/stockage/packages/f41/libplasma/po/ug/libplasma6.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 3 | 227 | 1.3 | /mnt/stockage/packages/f41/libplasma/po/mr/libplasma6.po | 
+ | [ar](/f41/language/ar) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ar/libplasma6.po | 
+ | [be](/f41/language/be) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/be/libplasma6.po | 
+ | [bg](/f41/language/bg) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/bg/libplasma6.po | 
+ | [ca](/f41/language/ca) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ca/libplasma6.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ca@valencia/libplasma6.po | 
+ | [de](/f41/language/de) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/de/libplasma6.po | 
+ | [el](/f41/language/el) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/el/libplasma6.po | 
+ | [en_GB](/f41/language/en_GB) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/en_GB/libplasma6.po | 
+ | [eo](/f41/language/eo) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/eo/libplasma6.po | 
+ | [es](/f41/language/es) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/es/libplasma6.po | 
+ | [eu](/f41/language/eu) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/eu/libplasma6.po | 
+ | [fi](/f41/language/fi) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/fi/libplasma6.po | 
+ | [fr](/f41/language/fr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/fr/libplasma6.po | 
+ | [gl](/f41/language/gl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/gl/libplasma6.po | 
+ | [he](/f41/language/he) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/he/libplasma6.po | 
+ | [hi](/f41/language/hi) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/hi/libplasma6.po | 
+ | [hu](/f41/language/hu) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/hu/libplasma6.po | 
+ | [ia](/f41/language/ia) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ia/libplasma6.po | 
+ | [it](/f41/language/it) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/it/libplasma6.po | 
+ | [ja](/f41/language/ja) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ja/libplasma6.po | 
+ | [ka](/f41/language/ka) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ka/libplasma6.po | 
+ | [ko](/f41/language/ko) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ko/libplasma6.po | 
+ | [lt](/f41/language/lt) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/lt/libplasma6.po | 
+ | [lv](/f41/language/lv) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/lv/libplasma6.po | 
+ | [nb_NO](/f41/language/nb_NO) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/nb/libplasma6.po | 
+ | [nl](/f41/language/nl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/nl/libplasma6.po | 
+ | [nn](/f41/language/nn) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/nn/libplasma6.po | 
+ | [pl](/f41/language/pl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/pl/libplasma6.po | 
+ | [pt_BR](/f41/language/pt_BR) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/pt_BR/libplasma6.po | 
+ | [ru](/f41/language/ru) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ru/libplasma6.po | 
+ | [sa](/f41/language/sa) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/sa/libplasma6.po | 
+ | [sl](/f41/language/sl) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/sl/libplasma6.po | 
+ | [sv](/f41/language/sv) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/sv/libplasma6.po | 
+ | [ta](/f41/language/ta) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/ta/libplasma6.po | 
+ | [tr](/f41/language/tr) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/tr/libplasma6.po | 
+ | [uk](/f41/language/uk) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/uk/libplasma6.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/zh_CN/libplasma6.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 227 | 227 | 100.0 | /mnt/stockage/packages/f41/libplasma/po/zh_TW/libplasma6.po | 
+ | [da](/f41/language/da) | 223 | 227 | 98.2 | /mnt/stockage/packages/f41/libplasma/po/da/libplasma6.po | 
+ | [ro](/f41/language/ro) | 223 | 227 | 98.2 | /mnt/stockage/packages/f41/libplasma/po/ro/libplasma6.po | 
+ | [is](/f41/language/is) | 215 | 227 | 94.7 | /mnt/stockage/packages/f41/libplasma/po/is/libplasma6.po | 
+ | [sk](/f41/language/sk) | 183 | 227 | 80.6 | /mnt/stockage/packages/f41/libplasma/po/sk/libplasma6.po | 
+ | [cs](/f41/language/cs) | 123 | 227 | 54.2 | /mnt/stockage/packages/f41/libplasma/po/cs/libplasma6.po | 
+ | [vi](/f41/language/vi) | 112 | 227 | 49.3 | /mnt/stockage/packages/f41/libplasma/po/vi/libplasma6.po | 
+ | [az](/f41/language/az) | 102 | 227 | 44.9 | /mnt/stockage/packages/f41/libplasma/po/az/libplasma6.po | 
+ | [pt](/f41/language/pt) | 102 | 227 | 44.9 | /mnt/stockage/packages/f41/libplasma/po/pt/libplasma6.po | 
+ | [id](/f41/language/id) | 100 | 227 | 44.1 | /mnt/stockage/packages/f41/libplasma/po/id/libplasma6.po | 
+ | [et](/f41/language/et) | 97 | 227 | 42.7 | /mnt/stockage/packages/f41/libplasma/po/et/libplasma6.po | 
+ | [pa](/f41/language/pa) | 95 | 227 | 41.9 | /mnt/stockage/packages/f41/libplasma/po/pa/libplasma6.po | 
+ | [tg](/f41/language/tg) | 87 | 227 | 38.3 | /mnt/stockage/packages/f41/libplasma/po/tg/libplasma6.po | 
+ | [ml](/f41/language/ml) | 81 | 227 | 35.7 | /mnt/stockage/packages/f41/libplasma/po/ml/libplasma6.po | 
+ | [gd](/f41/language/gd) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/gd/libplasma6.po | 
+ | [sr](/f41/language/sr) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr/libplasma6.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr@ijekavian/libplasma6.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr@ijekavianlatin/libplasma6.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 69 | 227 | 30.4 | /mnt/stockage/packages/f41/libplasma/po/sr@latin/libplasma6.po | 
+ | [ast](/f41/language/ast) | 53 | 227 | 23.3 | /mnt/stockage/packages/f41/libplasma/po/ast/libplasma6.po | 
+ | [nds](/f41/language/nds) | 31 | 227 | 13.7 | /mnt/stockage/packages/f41/libplasma/po/nds/libplasma6.po | 
+ | [bs](/f41/language/bs) | 27 | 227 | 11.9 | /mnt/stockage/packages/f41/libplasma/po/bs/libplasma6.po | 
+ | [ug](/f41/language/ug) | 27 | 227 | 11.9 | /mnt/stockage/packages/f41/libplasma/po/ug/libplasma6.po | 
+ | [mr](/f41/language/mr) | 3 | 227 | 1.3 | /mnt/stockage/packages/f41/libplasma/po/mr/libplasma6.po | 
 {.sortable}
 
 

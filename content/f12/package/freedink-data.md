@@ -18,9 +18,9 @@ The package freedink-data (version 1.08.20090706):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 13831 | 13831 | 100.0 | /mnt/stockage/packages/f12/freedink-data/dink/l10n/fr.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 13616 | 13768 | 98.9 | /mnt/stockage/packages/f12/freedink-data/dink/l10n/nl.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 2614 | 13822 | 18.9 | /mnt/stockage/packages/f12/freedink-data/dink/l10n/mk.po | 
+ | [fr](/f12/language/fr) | 13831 | 13831 | 100.0 | /mnt/stockage/packages/f12/freedink-data/dink/l10n/fr.po | 
+ | [nl](/f12/language/nl) | 13616 | 13768 | 98.9 | /mnt/stockage/packages/f12/freedink-data/dink/l10n/nl.po | 
+ | [mk](/f12/language/mk) | 2614 | 13822 | 18.9 | /mnt/stockage/packages/f12/freedink-data/dink/l10n/mk.po | 
 {.sortable}
 
 

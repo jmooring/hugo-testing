@@ -18,14 +18,14 @@ The package sugar-starchart (version 15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f20/language/da.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/da.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/en.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/en_GB.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/en_US.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 311 | 311 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/es.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 308 | 308 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/zh_CN.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 267 | 308 | 86.7 | /mnt/stockage/packages/f20/sugar-starchart/po/pl.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 258 | 308 | 83.8 | /mnt/stockage/packages/f20/sugar-starchart/po/hy.po | 
+ | [da](/f20/language/da) | 308 | 308 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/da.po | 
+ | [en](/f20/language/en) | 311 | 311 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/en.po | 
+ | [en_GB](/f20/language/en_GB) | 308 | 308 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/en_GB.po | 
+ | [en_US](/f20/language/en_US) | 311 | 311 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/en_US.po | 
+ | [es](/f20/language/es) | 311 | 311 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/es.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 308 | 308 | 100.0 | /mnt/stockage/packages/f20/sugar-starchart/po/zh_CN.po | 
+ | [pl](/f20/language/pl) | 267 | 308 | 86.7 | /mnt/stockage/packages/f20/sugar-starchart/po/pl.po | 
+ | [hy](/f20/language/hy) | 258 | 308 | 83.8 | /mnt/stockage/packages/f20/sugar-starchart/po/hy.po | 
 {.sortable}
 
 

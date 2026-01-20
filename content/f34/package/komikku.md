@@ -18,15 +18,15 @@ The package komikku (version 0.35.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f34/language/de.md" >}}) | 2551 | 2551 | 100.0 | /mnt/stockage/packages/f34/komikku/po/de.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 2551 | 2551 | 100.0 | /mnt/stockage/packages/f34/komikku/po/pl.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 2190 | 2551 | 85.8 | /mnt/stockage/packages/f34/komikku/po/es.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 1734 | 2551 | 68.0 | /mnt/stockage/packages/f34/komikku/po/it.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1426 | 2551 | 55.9 | /mnt/stockage/packages/f34/komikku/po/fr.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 296 | 2551 | 11.6 | /mnt/stockage/packages/f34/komikku/po/pt_BR.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 293 | 2551 | 11.5 | /mnt/stockage/packages/f34/komikku/po/tr.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 240 | 2551 | 9.4 | /mnt/stockage/packages/f34/komikku/po/nl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 240 | 2551 | 9.4 | /mnt/stockage/packages/f34/komikku/po/ru.po | 
+ | [de](/f34/language/de) | 2551 | 2551 | 100.0 | /mnt/stockage/packages/f34/komikku/po/de.po | 
+ | [pl](/f34/language/pl) | 2551 | 2551 | 100.0 | /mnt/stockage/packages/f34/komikku/po/pl.po | 
+ | [es](/f34/language/es) | 2190 | 2551 | 85.8 | /mnt/stockage/packages/f34/komikku/po/es.po | 
+ | [it](/f34/language/it) | 1734 | 2551 | 68.0 | /mnt/stockage/packages/f34/komikku/po/it.po | 
+ | [fr](/f34/language/fr) | 1426 | 2551 | 55.9 | /mnt/stockage/packages/f34/komikku/po/fr.po | 
+ | [pt_BR](/f34/language/pt_BR) | 296 | 2551 | 11.6 | /mnt/stockage/packages/f34/komikku/po/pt_BR.po | 
+ | [tr](/f34/language/tr) | 293 | 2551 | 11.5 | /mnt/stockage/packages/f34/komikku/po/tr.po | 
+ | [nl](/f34/language/nl) | 240 | 2551 | 9.4 | /mnt/stockage/packages/f34/komikku/po/nl.po | 
+ | [ru](/f34/language/ru) | 240 | 2551 | 9.4 | /mnt/stockage/packages/f34/komikku/po/ru.po | 
 {.sortable}
 
 

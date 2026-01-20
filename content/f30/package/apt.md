@@ -18,13 +18,13 @@ The package apt (version 0.5.15lorg3.95):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_PT]({{< ref "/f30/language/pt_PT.md" >}}) | 3701 | 4103 | 90.2 | /mnt/stockage/packages/f30/apt/po/pt_PT.po | 
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 3464 | 4103 | 84.4 | /mnt/stockage/packages/f30/apt/po/ru.po | 
- | [ja]({{< ref "/f30/language/ja.md" >}}) | 3424 | 4103 | 83.5 | /mnt/stockage/packages/f30/apt/po/ja.po | 
- | [pt_BR]({{< ref "/f30/language/pt_BR.md" >}}) | 2889 | 4103 | 70.4 | /mnt/stockage/packages/f30/apt/po/pt_BR.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 2243 | 4103 | 54.7 | /mnt/stockage/packages/f30/apt/po/de_DE.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 534 | 4103 | 13.0 | /mnt/stockage/packages/f30/apt/po/es_ES.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 534 | 4103 | 13.0 | /mnt/stockage/packages/f30/apt/po/it_IT.po | 
+ | [pt_PT](/f30/language/pt_PT) | 3701 | 4103 | 90.2 | /mnt/stockage/packages/f30/apt/po/pt_PT.po | 
+ | [ru](/f30/language/ru) | 3464 | 4103 | 84.4 | /mnt/stockage/packages/f30/apt/po/ru.po | 
+ | [ja](/f30/language/ja) | 3424 | 4103 | 83.5 | /mnt/stockage/packages/f30/apt/po/ja.po | 
+ | [pt_BR](/f30/language/pt_BR) | 2889 | 4103 | 70.4 | /mnt/stockage/packages/f30/apt/po/pt_BR.po | 
+ | [de](/f30/language/de) | 2243 | 4103 | 54.7 | /mnt/stockage/packages/f30/apt/po/de_DE.po | 
+ | [es](/f30/language/es) | 534 | 4103 | 13.0 | /mnt/stockage/packages/f30/apt/po/es_ES.po | 
+ | [it](/f30/language/it) | 534 | 4103 | 13.0 | /mnt/stockage/packages/f30/apt/po/it_IT.po | 
 {.sortable}
 
 

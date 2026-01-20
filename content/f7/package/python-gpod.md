@@ -18,13 +18,13 @@ The package python-gpod (version 0.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 823 | 823 | 100.0 | /mnt/stockage/packages/f7/python-gpod/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 814 | 823 | 98.9 | /mnt/stockage/packages/f7/python-gpod/po/es.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 814 | 823 | 98.9 | /mnt/stockage/packages/f7/python-gpod/po/sv.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 798 | 823 | 97.0 | /mnt/stockage/packages/f7/python-gpod/po/ja.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 578 | 823 | 70.2 | /mnt/stockage/packages/f7/python-gpod/po/fr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 227 | 823 | 27.6 | /mnt/stockage/packages/f7/python-gpod/po/it.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 222 | 823 | 27.0 | /mnt/stockage/packages/f7/python-gpod/po/he.po | 
+ | [de](/f7/language/de) | 823 | 823 | 100.0 | /mnt/stockage/packages/f7/python-gpod/po/de.po | 
+ | [es](/f7/language/es) | 814 | 823 | 98.9 | /mnt/stockage/packages/f7/python-gpod/po/es.po | 
+ | [sv](/f7/language/sv) | 814 | 823 | 98.9 | /mnt/stockage/packages/f7/python-gpod/po/sv.po | 
+ | [ja](/f7/language/ja) | 798 | 823 | 97.0 | /mnt/stockage/packages/f7/python-gpod/po/ja.po | 
+ | [fr](/f7/language/fr) | 578 | 823 | 70.2 | /mnt/stockage/packages/f7/python-gpod/po/fr.po | 
+ | [it](/f7/language/it) | 227 | 823 | 27.6 | /mnt/stockage/packages/f7/python-gpod/po/it.po | 
+ | [he](/f7/language/he) | 222 | 823 | 27.0 | /mnt/stockage/packages/f7/python-gpod/po/he.po | 
 {.sortable}
 
 

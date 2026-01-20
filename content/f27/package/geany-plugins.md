@@ -18,23 +18,23 @@ The package geany-plugins (version 1.33):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f27/language/es.md" >}}) | 8469 | 8469 | 100.0 | /mnt/stockage/packages/f27/geany-plugins/po/es.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 8469 | 8469 | 100.0 | /mnt/stockage/packages/f27/geany-plugins/po/pt.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 7810 | 8469 | 92.2 | /mnt/stockage/packages/f27/geany-plugins/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 7629 | 8484 | 89.9 | /mnt/stockage/packages/f27/geany-plugins/po/fr.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 7502 | 8469 | 88.6 | /mnt/stockage/packages/f27/geany-plugins/po/ru.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 6084 | 8469 | 71.8 | /mnt/stockage/packages/f27/geany-plugins/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 5695 | 8469 | 67.2 | /mnt/stockage/packages/f27/geany-plugins/po/ja.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 2967 | 8469 | 35.0 | /mnt/stockage/packages/f27/geany-plugins/po/tr.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 2542 | 8469 | 30.0 | /mnt/stockage/packages/f27/geany-plugins/po/pt_BR.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 2177 | 8469 | 25.7 | /mnt/stockage/packages/f27/geany-plugins/po/gl.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 1760 | 8469 | 20.8 | /mnt/stockage/packages/f27/geany-plugins/po/nl.po | 
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 1634 | 8469 | 19.3 | /mnt/stockage/packages/f27/geany-plugins/po/ca.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 1523 | 8469 | 18.0 | /mnt/stockage/packages/f27/geany-plugins/po/zh_CN.po | 
- | [kk]({{< ref "/f27/language/kk.md" >}}) | 444 | 8469 | 5.2 | /mnt/stockage/packages/f27/geany-plugins/po/kk.po | 
- | [be]({{< ref "/f27/language/be.md" >}}) | 94 | 8469 | 1.1 | /mnt/stockage/packages/f27/geany-plugins/po/be.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 6 | 8469 | 0.1 | /mnt/stockage/packages/f27/geany-plugins/po/da.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 0 | 8469 | 0.0 | /mnt/stockage/packages/f27/geany-plugins/po/el.po | 
+ | [es](/f27/language/es) | 8469 | 8469 | 100.0 | /mnt/stockage/packages/f27/geany-plugins/po/es.po | 
+ | [pt](/f27/language/pt) | 8469 | 8469 | 100.0 | /mnt/stockage/packages/f27/geany-plugins/po/pt.po | 
+ | [de](/f27/language/de) | 7810 | 8469 | 92.2 | /mnt/stockage/packages/f27/geany-plugins/po/de.po | 
+ | [fr](/f27/language/fr) | 7629 | 8484 | 89.9 | /mnt/stockage/packages/f27/geany-plugins/po/fr.po | 
+ | [ru](/f27/language/ru) | 7502 | 8469 | 88.6 | /mnt/stockage/packages/f27/geany-plugins/po/ru.po | 
+ | [it](/f27/language/it) | 6084 | 8469 | 71.8 | /mnt/stockage/packages/f27/geany-plugins/po/it.po | 
+ | [ja](/f27/language/ja) | 5695 | 8469 | 67.2 | /mnt/stockage/packages/f27/geany-plugins/po/ja.po | 
+ | [tr](/f27/language/tr) | 2967 | 8469 | 35.0 | /mnt/stockage/packages/f27/geany-plugins/po/tr.po | 
+ | [pt_BR](/f27/language/pt_BR) | 2542 | 8469 | 30.0 | /mnt/stockage/packages/f27/geany-plugins/po/pt_BR.po | 
+ | [gl](/f27/language/gl) | 2177 | 8469 | 25.7 | /mnt/stockage/packages/f27/geany-plugins/po/gl.po | 
+ | [nl](/f27/language/nl) | 1760 | 8469 | 20.8 | /mnt/stockage/packages/f27/geany-plugins/po/nl.po | 
+ | [ca](/f27/language/ca) | 1634 | 8469 | 19.3 | /mnt/stockage/packages/f27/geany-plugins/po/ca.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 1523 | 8469 | 18.0 | /mnt/stockage/packages/f27/geany-plugins/po/zh_CN.po | 
+ | [kk](/f27/language/kk) | 444 | 8469 | 5.2 | /mnt/stockage/packages/f27/geany-plugins/po/kk.po | 
+ | [be](/f27/language/be) | 94 | 8469 | 1.1 | /mnt/stockage/packages/f27/geany-plugins/po/be.po | 
+ | [da](/f27/language/da) | 6 | 8469 | 0.1 | /mnt/stockage/packages/f27/geany-plugins/po/da.po | 
+ | [el](/f27/language/el) | 0 | 8469 | 0.0 | /mnt/stockage/packages/f27/geany-plugins/po/el.po | 
 {.sortable}
 
 

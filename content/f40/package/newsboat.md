@@ -18,24 +18,24 @@ The package newsboat (version 2.38):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f40/language/de.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/de.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/es.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/it.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/nl.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/pl.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/ru.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1949 | 2098 | 92.9 | /mnt/stockage/packages/f40/newsboat/po/zh.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1901 | 2098 | 90.6 | /mnt/stockage/packages/f40/newsboat/po/fr.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 1532 | 2098 | 73.0 | /mnt/stockage/packages/f40/newsboat/po/pt_BR.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 1130 | 2098 | 53.9 | /mnt/stockage/packages/f40/newsboat/po/sk.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 957 | 2098 | 45.6 | /mnt/stockage/packages/f40/newsboat/po/ca.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 950 | 2098 | 45.3 | /mnt/stockage/packages/f40/newsboat/po/nb.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 936 | 2098 | 44.6 | /mnt/stockage/packages/f40/newsboat/po/hu.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 924 | 2098 | 44.0 | /mnt/stockage/packages/f40/newsboat/po/zh_TW.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 165 | 2098 | 7.9 | /mnt/stockage/packages/f40/newsboat/po/ja.po | 
+ | [de](/f40/language/de) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/de.po | 
+ | [es](/f40/language/es) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/es.po | 
+ | [it](/f40/language/it) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/it.po | 
+ | [nl](/f40/language/nl) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/nl.po | 
+ | [pl](/f40/language/pl) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/pl.po | 
+ | [ru](/f40/language/ru) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/ru.po | 
+ | [sv](/f40/language/sv) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/sv.po | 
+ | [tr](/f40/language/tr) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/tr.po | 
+ | [uk](/f40/language/uk) | 2098 | 2098 | 100.0 | /mnt/stockage/packages/f40/newsboat/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1949 | 2098 | 92.9 | /mnt/stockage/packages/f40/newsboat/po/zh.po | 
+ | [fr](/f40/language/fr) | 1901 | 2098 | 90.6 | /mnt/stockage/packages/f40/newsboat/po/fr.po | 
+ | [pt_BR](/f40/language/pt_BR) | 1532 | 2098 | 73.0 | /mnt/stockage/packages/f40/newsboat/po/pt_BR.po | 
+ | [sk](/f40/language/sk) | 1130 | 2098 | 53.9 | /mnt/stockage/packages/f40/newsboat/po/sk.po | 
+ | [ca](/f40/language/ca) | 957 | 2098 | 45.6 | /mnt/stockage/packages/f40/newsboat/po/ca.po | 
+ | [nb_NO](/f40/language/nb_NO) | 950 | 2098 | 45.3 | /mnt/stockage/packages/f40/newsboat/po/nb.po | 
+ | [hu](/f40/language/hu) | 936 | 2098 | 44.6 | /mnt/stockage/packages/f40/newsboat/po/hu.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 924 | 2098 | 44.0 | /mnt/stockage/packages/f40/newsboat/po/zh_TW.po | 
+ | [ja](/f40/language/ja) | 165 | 2098 | 7.9 | /mnt/stockage/packages/f40/newsboat/po/ja.po | 
 {.sortable}
 
 

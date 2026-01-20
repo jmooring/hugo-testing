@@ -18,14 +18,14 @@ The package udiskie (version 2.5.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_US]({{< ref "/f41/language/en_US.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/udiskie/lang/en_US.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/udiskie/lang/zh_CN.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 613 | 651 | 94.2 | /mnt/stockage/packages/f41/udiskie/lang/de.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 613 | 651 | 94.2 | /mnt/stockage/packages/f41/udiskie/lang/tr_TR.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 573 | 651 | 88.0 | /mnt/stockage/packages/f41/udiskie/lang/it_IT.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 468 | 651 | 71.9 | /mnt/stockage/packages/f41/udiskie/lang/ru_RU.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 374 | 651 | 57.5 | /mnt/stockage/packages/f41/udiskie/lang/sk_SK.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 224 | 651 | 34.4 | /mnt/stockage/packages/f41/udiskie/lang/es_ES.po | 
+ | [en_US](/f41/language/en_US) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/udiskie/lang/en_US.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/udiskie/lang/zh_CN.po | 
+ | [de](/f41/language/de) | 613 | 651 | 94.2 | /mnt/stockage/packages/f41/udiskie/lang/de.po | 
+ | [tr](/f41/language/tr) | 613 | 651 | 94.2 | /mnt/stockage/packages/f41/udiskie/lang/tr_TR.po | 
+ | [it](/f41/language/it) | 573 | 651 | 88.0 | /mnt/stockage/packages/f41/udiskie/lang/it_IT.po | 
+ | [ru](/f41/language/ru) | 468 | 651 | 71.9 | /mnt/stockage/packages/f41/udiskie/lang/ru_RU.po | 
+ | [sk](/f41/language/sk) | 374 | 651 | 57.5 | /mnt/stockage/packages/f41/udiskie/lang/sk_SK.po | 
+ | [es](/f41/language/es) | 224 | 651 | 34.4 | /mnt/stockage/packages/f41/udiskie/lang/es_ES.po | 
 {.sortable}
 
 

@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f16/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [lxsession]({{< ref "/f16/package/lxsession.md" >}}) | 36 | 36 | 100.0 | Spanish <es@li.org> | 
- | [turpial]({{< ref "/f16/package/turpial.md" >}}) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
- | [libgweather]({{< ref "/f16/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [lxmusic]({{< ref "/f16/package/lxmusic.md" >}}) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
- | [libmateweather]({{< ref "/f16/package/libmateweather.md" >}}) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f16/package/lxinput.md" >}}) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
- | [openerp]({{< ref "/f16/package/openerp.md" >}}) | 20997 | 31218 | 67.3 | Spanish (Venezuela) <es_VE@li.org> | 
- | [lxdm]({{< ref "/f16/package/lxdm.md" >}}) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
- | [libfm]({{< ref "/f16/package/libfm.md" >}}) | 0 | 859 | 0.0 |  | 
- | [lxpolkit]({{< ref "/f16/package/lxpolkit.md" >}}) | 0 | 15 | 0.0 | Spanish | 
+ | [gnome-applets](/f16/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [lxsession](/f16/package/lxsession) | 36 | 36 | 100.0 | Spanish <es@li.org> | 
+ | [turpial](/f16/package/turpial) | 569 | 569 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [libgweather](/f16/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [lxmusic](/f16/package/lxmusic) | 196 | 203 | 96.6 | pcman.tw@gmail.com | 
+ | [libmateweather](/f16/package/libmateweather) | 395 | 465 | 84.9 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f16/package/lxinput) | 60 | 72 | 83.3 | LANGUAGE <LL@li.org> | 
+ | [openerp](/f16/package/openerp) | 20997 | 31218 | 67.3 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [lxdm](/f16/package/lxdm) | 11 | 30 | 36.7 | LANGUAGE <LL@li.org> | 
+ | [libfm](/f16/package/libfm) | 0 | 859 | 0.0 |  | 
+ | [lxpolkit](/f16/package/lxpolkit) | 0 | 15 | 0.0 | Spanish | 
 {.sortable}
 
 

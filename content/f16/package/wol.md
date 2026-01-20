@@ -18,11 +18,11 @@ The package wol (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/wol/po/de.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/wol/po/sv.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 293 | 298 | 98.3 | /mnt/stockage/packages/f16/wol/po/es.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 175 | 298 | 58.7 | /mnt/stockage/packages/f16/wol/po/fr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 175 | 298 | 58.7 | /mnt/stockage/packages/f16/wol/po/it.po | 
+ | [de](/f16/language/de) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/wol/po/de.po | 
+ | [sv](/f16/language/sv) | 298 | 298 | 100.0 | /mnt/stockage/packages/f16/wol/po/sv.po | 
+ | [es](/f16/language/es) | 293 | 298 | 98.3 | /mnt/stockage/packages/f16/wol/po/es.po | 
+ | [fr](/f16/language/fr) | 175 | 298 | 58.7 | /mnt/stockage/packages/f16/wol/po/fr.po | 
+ | [it](/f16/language/it) | 175 | 298 | 58.7 | /mnt/stockage/packages/f16/wol/po/it.po | 
 {.sortable}
 
 

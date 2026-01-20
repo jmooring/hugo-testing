@@ -18,204 +18,204 @@ The package wingpanel-indicator-sound (version 6.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ca.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ca.po | 
- | [en_GB]({{< ref "/f35/language/en_GB.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/en_GB.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/en_GB.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fr.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/he.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/he.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ja.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ja.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ru.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/uk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/uk.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ar.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ar.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/de.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/de.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pt.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sk.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 66 | 96 | 68.8 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/es.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/es.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 64 | 96 | 66.7 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pt_BR.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pt_BR.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 64 | 96 | 66.7 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sr.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 50 | 96 | 52.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/it.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/it.po | 
- | [mr]({{< ref "/f35/language/mr.md" >}}) | 50 | 96 | 52.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mr.po | 
- | [uz]({{< ref "/f35/language/uz.md" >}}) | 44 | 96 | 45.8 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/uz.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/uz.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 42 | 96 | 43.8 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cs.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cs.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 39 | 96 | 40.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fi.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/da.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/da.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nl.po | 
- | [nn]({{< ref "/f35/language/nn.md" >}}) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nn.po | 
- | [szl]({{< ref "/f35/language/szl.md" >}}) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/szl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/szl.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 26 | 96 | 27.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hu.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 52 | 192 | 27.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/no.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nb.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/no.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nb.po | 
- | [en_AU]({{< ref "/f35/language/en_AU.md" >}}) | 23 | 96 | 24.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/en_AU.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/en_AU.po | 
- | [en_CA]({{< ref "/f35/language/en_CA.md" >}}) | 23 | 96 | 24.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/en_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/en_CA.po | 
- | [eo]({{< ref "/f35/language/eo.md" >}}) | 23 | 96 | 24.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/eo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/eo.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 16 | 96 | 16.7 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pa.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 22 | 192 | 11.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 6 | 96 | 6.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 6 | 96 | 6.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/oc.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/oc.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 6 | 96 | 6.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sl.po | 
- | [ak]({{< ref "/f35/language/ak.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ak.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ak.po | 
- | [am]({{< ref "/f35/language/am.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/am.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/am.po | 
- | [az]({{< ref "/f35/language/az.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/az.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/az.po | 
- | [be]({{< ref "/f35/language/be.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/be.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/be.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bg.po | 
- | [bn]({{< ref "/f35/language/bn.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bn.po | 
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bs.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bs.po | 
- | [ckb]({{< ref "/f35/language/ckb.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ckb.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ckb.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/el.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/el.po | 
- | [et]({{< ref "/f35/language/et.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/et.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/et.po | 
- | [fr_CA]({{< ref "/f35/language/fr_CA.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fr_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fr_CA.po | 
- | [hi]({{< ref "/f35/language/hi.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hi.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hr.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/id.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/id.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ka.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ka.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ko.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ko.po | 
- | [ku]({{< ref "/f35/language/ku.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ku.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ku.po | 
- | [lb]({{< ref "/f35/language/lb.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lb.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lb.po | 
- | [lt]({{< ref "/f35/language/lt.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lt.po | 
- | [lv]({{< ref "/f35/language/lv.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lv.po | 
- | [ms]({{< ref "/f35/language/ms.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ms.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ms.po | 
- | [my]({{< ref "/f35/language/my.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/my.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/my.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ro.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ro.po | 
- | [ro_MD]({{< ref "/f35/language/ro_MD.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mo.po | 
- | [si]({{< ref "/f35/language/si.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/si.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/si.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sv.po | 
- | [th]({{< ref "/f35/language/th.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/th.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/th.po | 
- | [tl]({{< ref "/f35/language/tl.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tl.po | 
- | [ug]({{< ref "/f35/language/ug.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ug.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ug.po | 
- | [ur]({{< ref "/f35/language/ur.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ur.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ur.po | 
- | [vi]({{< ref "/f35/language/vi.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/vi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/vi.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh_TW.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh_TW.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 2 | 96 | 2.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sq.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sq.po | 
- | [aa]({{< ref "/f35/language/aa.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/aa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/aa.po | 
- | [ab]({{< ref "/f35/language/ab.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ab.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ab.po | 
- | [ae]({{< ref "/f35/language/ae.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ae.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ae.po | 
- | [af]({{< ref "/f35/language/af.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/af.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/af.po | 
- | [an]({{< ref "/f35/language/an.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/an.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/an.po | 
- | [as]({{< ref "/f35/language/as.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/as.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/as.po | 
- | [ast]({{< ref "/f35/language/ast.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ast.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ast.po | 
- | [av]({{< ref "/f35/language/av.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/av.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/av.po | 
- | [ay]({{< ref "/f35/language/ay.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ay.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ay.po | 
- | [ba]({{< ref "/f35/language/ba.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ba.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ba.po | 
- | [bh]({{< ref "/f35/language/bh.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bh.po | 
- | [bi]({{< ref "/f35/language/bi.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bi.po | 
- | [bm]({{< ref "/f35/language/bm.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bm.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bm.po | 
- | [bo]({{< ref "/f35/language/bo.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bo.po | 
- | [br]({{< ref "/f35/language/br.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/br.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/br.po | 
- | [ca@valencia]({{< ref "/f35/language/ca@valencia.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ca@valencia.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ca@valencia.po | 
- | [ce]({{< ref "/f35/language/ce.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ce.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ce.po | 
- | [ch]({{< ref "/f35/language/ch.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ch.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ch.po | 
- | [co]({{< ref "/f35/language/co.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/co.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/co.po | 
- | [cr]({{< ref "/f35/language/cr.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cr.po | 
- | [cu]({{< ref "/f35/language/cu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cu.po | 
- | [cv]({{< ref "/f35/language/cv.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cv.po | 
- | [cy]({{< ref "/f35/language/cy.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cy.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cy.po | 
- | [dv]({{< ref "/f35/language/dv.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/dv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/dv.po | 
- | [dz]({{< ref "/f35/language/dz.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/dz.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/dz.po | 
- | [ee]({{< ref "/f35/language/ee.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ee.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ee.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/eu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/eu.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fa.po | 
- | [ff]({{< ref "/f35/language/ff.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ff.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ff.po | 
- | [fil]({{< ref "/f35/language/fil.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fil.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fil.po | 
- | [fj]({{< ref "/f35/language/fj.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fj.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fj.po | 
- | [fo]({{< ref "/f35/language/fo.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fo.po | 
- | [fy]({{< ref "/f35/language/fy.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fy.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fy.po | 
- | [ga]({{< ref "/f35/language/ga.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ga.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ga.po | 
- | [gd]({{< ref "/f35/language/gd.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gd.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gd.po | 
- | [gn]({{< ref "/f35/language/gn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gn.po | 
- | [gu]({{< ref "/f35/language/gu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gu.po | 
- | [gv]({{< ref "/f35/language/gv.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gv.po | 
- | [ha]({{< ref "/f35/language/ha.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ha.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ha.po | 
- | [ho]({{< ref "/f35/language/ho.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ho.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ho.po | 
- | [ht]({{< ref "/f35/language/ht.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ht.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ht.po | 
- | [hy]({{< ref "/f35/language/hy.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hy.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hy.po | 
- | [hz]({{< ref "/f35/language/hz.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hz.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hz.po | 
- | [ia]({{< ref "/f35/language/ia.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ia.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ia.po | 
- | [ie]({{< ref "/f35/language/ie.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ie.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ie.po | 
- | [ig]({{< ref "/f35/language/ig.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ig.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ig.po | 
- | [ii]({{< ref "/f35/language/ii.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ii.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ii.po | 
- | [ik]({{< ref "/f35/language/ik.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ik.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ik.po | 
- | [io]({{< ref "/f35/language/io.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/io.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/io.po | 
- | [is]({{< ref "/f35/language/is.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/is.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/is.po | 
- | [iu]({{< ref "/f35/language/iu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/iu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/iu.po | 
- | [jv]({{< ref "/f35/language/jv.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/jv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/jv.po | 
- | [kg]({{< ref "/f35/language/kg.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kg.po | 
- | [ki]({{< ref "/f35/language/ki.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ki.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ki.po | 
- | [kj]({{< ref "/f35/language/kj.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kj.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kj.po | 
- | [kk]({{< ref "/f35/language/kk.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kk.po | 
- | [kl]({{< ref "/f35/language/kl.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kl.po | 
- | [km]({{< ref "/f35/language/km.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/km.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/km.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kn.po | 
- | [kr]({{< ref "/f35/language/kr.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kr.po | 
- | [ks]({{< ref "/f35/language/ks.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ks.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ks.po | 
- | [kv]({{< ref "/f35/language/kv.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kv.po | 
- | [kw]({{< ref "/f35/language/kw.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kw.po | 
- | [ky]({{< ref "/f35/language/ky.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ky.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ky.po | 
- | [la]({{< ref "/f35/language/la.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/la.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/la.po | 
- | [lg]({{< ref "/f35/language/lg.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lg.po | 
- | [li]({{< ref "/f35/language/li.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/li.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/li.po | 
- | [ln]({{< ref "/f35/language/ln.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ln.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ln.po | 
- | [lo]({{< ref "/f35/language/lo.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lo.po | 
- | [lu]({{< ref "/f35/language/lu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lu.po | 
- | [mg]({{< ref "/f35/language/mg.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mg.po | 
- | [mh]({{< ref "/f35/language/mh.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mh.po | 
- | [mi]({{< ref "/f35/language/mi.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mi.po | 
- | [mk]({{< ref "/f35/language/mk.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mk.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ml.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ml.po | 
- | [mn]({{< ref "/f35/language/mn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mn.po | 
- | [mt]({{< ref "/f35/language/mt.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mt.po | 
- | [na]({{< ref "/f35/language/na.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/na.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/na.po | 
- | [nd]({{< ref "/f35/language/nd.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nd.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nd.po | 
- | [ne]({{< ref "/f35/language/ne.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ne.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ne.po | 
- | [ng]({{< ref "/f35/language/ng.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ng.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ng.po | 
- | [nr]({{< ref "/f35/language/nr.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nr.po | 
- | [nv]({{< ref "/f35/language/nv.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nv.po | 
- | [ny]({{< ref "/f35/language/ny.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ny.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ny.po | 
- | [oj]({{< ref "/f35/language/oj.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/oj.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/oj.po | 
- | [om]({{< ref "/f35/language/om.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/om.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/om.po | 
- | [or]({{< ref "/f35/language/or.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/or.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/or.po | 
- | [os]({{< ref "/f35/language/os.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/os.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/os.po | 
- | [pi]({{< ref "/f35/language/pi.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pi.po | 
- | [ps]({{< ref "/f35/language/ps.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ps.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ps.po | 
- | [qu]({{< ref "/f35/language/qu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/qu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/qu.po | 
- | [rm]({{< ref "/f35/language/rm.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rm.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rm.po | 
- | [rn]({{< ref "/f35/language/rn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rn.po | 
- | [rue]({{< ref "/f35/language/rue.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rue.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rue.po | 
- | [rw]({{< ref "/f35/language/rw.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rw.po | 
- | [sa]({{< ref "/f35/language/sa.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sa.po | 
- | [sc]({{< ref "/f35/language/sc.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sc.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sc.po | 
- | [sd]({{< ref "/f35/language/sd.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sd.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sd.po | 
- | [se]({{< ref "/f35/language/se.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/se.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/se.po | 
- | [sg]({{< ref "/f35/language/sg.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sg.po | 
- | [sm]({{< ref "/f35/language/sm.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sm.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sm.po | 
- | [sma]({{< ref "/f35/language/sma.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sma.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sma.po | 
- | [sn]({{< ref "/f35/language/sn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sn.po | 
- | [so]({{< ref "/f35/language/so.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/so.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/so.po | 
- | [sr_Latn]({{< ref "/f35/language/sr_Latn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sr@latin.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sr@latin.po | 
- | [ss]({{< ref "/f35/language/ss.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ss.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ss.po | 
- | [st]({{< ref "/f35/language/st.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/st.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/st.po | 
- | [su]({{< ref "/f35/language/su.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/su.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/su.po | 
- | [sw]({{< ref "/f35/language/sw.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sw.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ta.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ta.po | 
- | [te]({{< ref "/f35/language/te.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/te.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/te.po | 
- | [tg]({{< ref "/f35/language/tg.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tg.po | 
- | [ti]({{< ref "/f35/language/ti.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ti.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ti.po | 
- | [tk]({{< ref "/f35/language/tk.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tk.po | 
- | [tn]({{< ref "/f35/language/tn.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tn.po | 
- | [to]({{< ref "/f35/language/to.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/to.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/to.po | 
- | [ts]({{< ref "/f35/language/ts.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ts.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ts.po | 
- | [tt]({{< ref "/f35/language/tt.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tt.po | 
- | [tw]({{< ref "/f35/language/tw.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tw.po | 
- | [ty]({{< ref "/f35/language/ty.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ty.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ty.po | 
- | [ve]({{< ref "/f35/language/ve.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ve.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ve.po | 
- | [vo]({{< ref "/f35/language/vo.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/vo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/vo.po | 
- | [wa]({{< ref "/f35/language/wa.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/wa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/wa.po | 
- | [wo]({{< ref "/f35/language/wo.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/wo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/wo.po | 
- | [xh]({{< ref "/f35/language/xh.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/xh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/xh.po | 
- | [yi]({{< ref "/f35/language/yi.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/yi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/yi.po | 
- | [yo]({{< ref "/f35/language/yo.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/yo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/yo.po | 
- | [za]({{< ref "/f35/language/za.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/za.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/za.po | 
- | [zh_Hant_HK]({{< ref "/f35/language/zh_Hant_HK.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh_HK.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh_HK.po | 
- | [zu]({{< ref "/f35/language/zu.md" >}}) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zu.po | 
+ | [ca](/f35/language/ca) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ca.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ca.po | 
+ | [en_GB](/f35/language/en_GB) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/en_GB.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/en_GB.po | 
+ | [fr](/f35/language/fr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fr.po | 
+ | [he](/f35/language/he) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/he.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/he.po | 
+ | [ja](/f35/language/ja) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ja.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ja.po | 
+ | [pl](/f35/language/pl) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pl.po | 
+ | [ru](/f35/language/ru) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ru.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ru.po | 
+ | [tr](/f35/language/tr) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tr.po | 
+ | [uk](/f35/language/uk) | 96 | 96 | 100.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/uk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/uk.po | 
+ | [ar](/f35/language/ar) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ar.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ar.po | 
+ | [de](/f35/language/de) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/de.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/de.po | 
+ | [pt](/f35/language/pt) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pt.po | 
+ | [sk](/f35/language/sk) | 87 | 96 | 90.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sk.po | 
+ | [es](/f35/language/es) | 66 | 96 | 68.8 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/es.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/es.po | 
+ | [pt_BR](/f35/language/pt_BR) | 64 | 96 | 66.7 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pt_BR.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pt_BR.po | 
+ | [sr](/f35/language/sr) | 64 | 96 | 66.7 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sr.po | 
+ | [it](/f35/language/it) | 50 | 96 | 52.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/it.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/it.po | 
+ | [mr](/f35/language/mr) | 50 | 96 | 52.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mr.po | 
+ | [uz](/f35/language/uz) | 44 | 96 | 45.8 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/uz.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/uz.po | 
+ | [cs](/f35/language/cs) | 42 | 96 | 43.8 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cs.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cs.po | 
+ | [fi](/f35/language/fi) | 39 | 96 | 40.6 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fi.po | 
+ | [da](/f35/language/da) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/da.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/da.po | 
+ | [nl](/f35/language/nl) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nl.po | 
+ | [nn](/f35/language/nn) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nn.po | 
+ | [szl](/f35/language/szl) | 36 | 96 | 37.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/szl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/szl.po | 
+ | [hu](/f35/language/hu) | 26 | 96 | 27.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hu.po | 
+ | [nb_NO](/f35/language/nb_NO) | 52 | 192 | 27.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/no.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nb.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/no.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nb.po | 
+ | [en_AU](/f35/language/en_AU) | 23 | 96 | 24.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/en_AU.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/en_AU.po | 
+ | [en_CA](/f35/language/en_CA) | 23 | 96 | 24.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/en_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/en_CA.po | 
+ | [eo](/f35/language/eo) | 23 | 96 | 24.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/eo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/eo.po | 
+ | [pa](/f35/language/pa) | 16 | 96 | 16.7 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pa.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 22 | 192 | 11.5 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh_CN.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh.po | 
+ | [gl](/f35/language/gl) | 6 | 96 | 6.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gl.po | 
+ | [oc](/f35/language/oc) | 6 | 96 | 6.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/oc.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/oc.po | 
+ | [sl](/f35/language/sl) | 6 | 96 | 6.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sl.po | 
+ | [ak](/f35/language/ak) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ak.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ak.po | 
+ | [am](/f35/language/am) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/am.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/am.po | 
+ | [az](/f35/language/az) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/az.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/az.po | 
+ | [be](/f35/language/be) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/be.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/be.po | 
+ | [bg](/f35/language/bg) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bg.po | 
+ | [bn](/f35/language/bn) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bn.po | 
+ | [bs](/f35/language/bs) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bs.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bs.po | 
+ | [ckb](/f35/language/ckb) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ckb.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ckb.po | 
+ | [el](/f35/language/el) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/el.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/el.po | 
+ | [et](/f35/language/et) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/et.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/et.po | 
+ | [fr_CA](/f35/language/fr_CA) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fr_CA.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fr_CA.po | 
+ | [hi](/f35/language/hi) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hi.po | 
+ | [hr](/f35/language/hr) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hr.po | 
+ | [id](/f35/language/id) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/id.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/id.po | 
+ | [ka](/f35/language/ka) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ka.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ka.po | 
+ | [ko](/f35/language/ko) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ko.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ko.po | 
+ | [ku](/f35/language/ku) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ku.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ku.po | 
+ | [lb](/f35/language/lb) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lb.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lb.po | 
+ | [lt](/f35/language/lt) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lt.po | 
+ | [lv](/f35/language/lv) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lv.po | 
+ | [ms](/f35/language/ms) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ms.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ms.po | 
+ | [my](/f35/language/my) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/my.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/my.po | 
+ | [ro](/f35/language/ro) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ro.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ro.po | 
+ | [ro_MD](/f35/language/ro_MD) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mo.po | 
+ | [si](/f35/language/si) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/si.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/si.po | 
+ | [sv](/f35/language/sv) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sv.po | 
+ | [th](/f35/language/th) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/th.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/th.po | 
+ | [tl](/f35/language/tl) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tl.po | 
+ | [ug](/f35/language/ug) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ug.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ug.po | 
+ | [ur](/f35/language/ur) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ur.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ur.po | 
+ | [vi](/f35/language/vi) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/vi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/vi.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 4 | 96 | 4.2 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh_TW.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh_TW.po | 
+ | [sq](/f35/language/sq) | 2 | 96 | 2.1 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sq.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sq.po | 
+ | [aa](/f35/language/aa) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/aa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/aa.po | 
+ | [ab](/f35/language/ab) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ab.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ab.po | 
+ | [ae](/f35/language/ae) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ae.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ae.po | 
+ | [af](/f35/language/af) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/af.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/af.po | 
+ | [an](/f35/language/an) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/an.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/an.po | 
+ | [as](/f35/language/as) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/as.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/as.po | 
+ | [ast](/f35/language/ast) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ast.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ast.po | 
+ | [av](/f35/language/av) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/av.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/av.po | 
+ | [ay](/f35/language/ay) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ay.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ay.po | 
+ | [ba](/f35/language/ba) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ba.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ba.po | 
+ | [bh](/f35/language/bh) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bh.po | 
+ | [bi](/f35/language/bi) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bi.po | 
+ | [bm](/f35/language/bm) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bm.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bm.po | 
+ | [bo](/f35/language/bo) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/bo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/bo.po | 
+ | [br](/f35/language/br) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/br.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/br.po | 
+ | [ca@valencia](/f35/language/ca@valencia) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ca@valencia.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ca@valencia.po | 
+ | [ce](/f35/language/ce) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ce.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ce.po | 
+ | [ch](/f35/language/ch) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ch.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ch.po | 
+ | [co](/f35/language/co) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/co.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/co.po | 
+ | [cr](/f35/language/cr) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cr.po | 
+ | [cu](/f35/language/cu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cu.po | 
+ | [cv](/f35/language/cv) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cv.po | 
+ | [cy](/f35/language/cy) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/cy.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/cy.po | 
+ | [dv](/f35/language/dv) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/dv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/dv.po | 
+ | [dz](/f35/language/dz) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/dz.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/dz.po | 
+ | [ee](/f35/language/ee) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ee.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ee.po | 
+ | [eu](/f35/language/eu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/eu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/eu.po | 
+ | [fa](/f35/language/fa) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fa.po | 
+ | [ff](/f35/language/ff) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ff.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ff.po | 
+ | [fil](/f35/language/fil) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fil.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fil.po | 
+ | [fj](/f35/language/fj) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fj.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fj.po | 
+ | [fo](/f35/language/fo) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fo.po | 
+ | [fy](/f35/language/fy) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/fy.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/fy.po | 
+ | [ga](/f35/language/ga) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ga.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ga.po | 
+ | [gd](/f35/language/gd) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gd.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gd.po | 
+ | [gn](/f35/language/gn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gn.po | 
+ | [gu](/f35/language/gu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gu.po | 
+ | [gv](/f35/language/gv) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/gv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/gv.po | 
+ | [ha](/f35/language/ha) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ha.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ha.po | 
+ | [ho](/f35/language/ho) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ho.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ho.po | 
+ | [ht](/f35/language/ht) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ht.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ht.po | 
+ | [hy](/f35/language/hy) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hy.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hy.po | 
+ | [hz](/f35/language/hz) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/hz.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/hz.po | 
+ | [ia](/f35/language/ia) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ia.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ia.po | 
+ | [ie](/f35/language/ie) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ie.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ie.po | 
+ | [ig](/f35/language/ig) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ig.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ig.po | 
+ | [ii](/f35/language/ii) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ii.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ii.po | 
+ | [ik](/f35/language/ik) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ik.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ik.po | 
+ | [io](/f35/language/io) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/io.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/io.po | 
+ | [is](/f35/language/is) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/is.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/is.po | 
+ | [iu](/f35/language/iu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/iu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/iu.po | 
+ | [jv](/f35/language/jv) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/jv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/jv.po | 
+ | [kg](/f35/language/kg) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kg.po | 
+ | [ki](/f35/language/ki) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ki.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ki.po | 
+ | [kj](/f35/language/kj) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kj.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kj.po | 
+ | [kk](/f35/language/kk) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kk.po | 
+ | [kl](/f35/language/kl) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kl.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kl.po | 
+ | [km](/f35/language/km) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/km.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/km.po | 
+ | [kn](/f35/language/kn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kn.po | 
+ | [kr](/f35/language/kr) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kr.po | 
+ | [ks](/f35/language/ks) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ks.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ks.po | 
+ | [kv](/f35/language/kv) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kv.po | 
+ | [kw](/f35/language/kw) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/kw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/kw.po | 
+ | [ky](/f35/language/ky) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ky.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ky.po | 
+ | [la](/f35/language/la) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/la.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/la.po | 
+ | [lg](/f35/language/lg) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lg.po | 
+ | [li](/f35/language/li) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/li.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/li.po | 
+ | [ln](/f35/language/ln) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ln.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ln.po | 
+ | [lo](/f35/language/lo) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lo.po | 
+ | [lu](/f35/language/lu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/lu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/lu.po | 
+ | [mg](/f35/language/mg) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mg.po | 
+ | [mh](/f35/language/mh) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mh.po | 
+ | [mi](/f35/language/mi) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mi.po | 
+ | [mk](/f35/language/mk) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mk.po | 
+ | [ml](/f35/language/ml) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ml.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ml.po | 
+ | [mn](/f35/language/mn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mn.po | 
+ | [mt](/f35/language/mt) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/mt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/mt.po | 
+ | [na](/f35/language/na) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/na.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/na.po | 
+ | [nd](/f35/language/nd) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nd.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nd.po | 
+ | [ne](/f35/language/ne) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ne.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ne.po | 
+ | [ng](/f35/language/ng) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ng.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ng.po | 
+ | [nr](/f35/language/nr) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nr.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nr.po | 
+ | [nv](/f35/language/nv) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/nv.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/nv.po | 
+ | [ny](/f35/language/ny) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ny.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ny.po | 
+ | [oj](/f35/language/oj) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/oj.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/oj.po | 
+ | [om](/f35/language/om) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/om.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/om.po | 
+ | [or](/f35/language/or) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/or.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/or.po | 
+ | [os](/f35/language/os) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/os.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/os.po | 
+ | [pi](/f35/language/pi) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/pi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/pi.po | 
+ | [ps](/f35/language/ps) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ps.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ps.po | 
+ | [qu](/f35/language/qu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/qu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/qu.po | 
+ | [rm](/f35/language/rm) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rm.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rm.po | 
+ | [rn](/f35/language/rn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rn.po | 
+ | [rue](/f35/language/rue) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rue.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rue.po | 
+ | [rw](/f35/language/rw) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/rw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/rw.po | 
+ | [sa](/f35/language/sa) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sa.po | 
+ | [sc](/f35/language/sc) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sc.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sc.po | 
+ | [sd](/f35/language/sd) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sd.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sd.po | 
+ | [se](/f35/language/se) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/se.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/se.po | 
+ | [sg](/f35/language/sg) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sg.po | 
+ | [sm](/f35/language/sm) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sm.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sm.po | 
+ | [sma](/f35/language/sma) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sma.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sma.po | 
+ | [sn](/f35/language/sn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sn.po | 
+ | [so](/f35/language/so) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/so.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/so.po | 
+ | [sr_Latn](/f35/language/sr_Latn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sr@latin.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sr@latin.po | 
+ | [ss](/f35/language/ss) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ss.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ss.po | 
+ | [st](/f35/language/st) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/st.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/st.po | 
+ | [su](/f35/language/su) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/su.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/su.po | 
+ | [sw](/f35/language/sw) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/sw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/sw.po | 
+ | [ta](/f35/language/ta) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ta.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ta.po | 
+ | [te](/f35/language/te) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/te.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/te.po | 
+ | [tg](/f35/language/tg) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tg.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tg.po | 
+ | [ti](/f35/language/ti) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ti.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ti.po | 
+ | [tk](/f35/language/tk) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tk.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tk.po | 
+ | [tn](/f35/language/tn) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tn.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tn.po | 
+ | [to](/f35/language/to) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/to.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/to.po | 
+ | [ts](/f35/language/ts) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ts.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ts.po | 
+ | [tt](/f35/language/tt) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tt.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tt.po | 
+ | [tw](/f35/language/tw) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/tw.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/tw.po | 
+ | [ty](/f35/language/ty) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ty.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ty.po | 
+ | [ve](/f35/language/ve) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/ve.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/ve.po | 
+ | [vo](/f35/language/vo) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/vo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/vo.po | 
+ | [wa](/f35/language/wa) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/wa.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/wa.po | 
+ | [wo](/f35/language/wo) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/wo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/wo.po | 
+ | [xh](/f35/language/xh) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/xh.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/xh.po | 
+ | [yi](/f35/language/yi) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/yi.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/yi.po | 
+ | [yo](/f35/language/yo) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/yo.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/yo.po | 
+ | [za](/f35/language/za) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/za.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/za.po | 
+ | [zh_Hant_HK](/f35/language/zh_Hant_HK) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zh_HK.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zh_HK.po | 
+ | [zu](/f35/language/zu) | 0 | 96 | 0.0 | /mnt/stockage/packages/f35/wingpanel-indicator-sound/po/zu.po/mnt/stockage/packages/f35/wingpanel-indicator-sound/po/extra/zu.po | 
 {.sortable}
 
 

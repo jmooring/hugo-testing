@@ -18,11 +18,11 @@ The package gjots2 (version 2.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 906 | 906 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 909 | 909 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/it.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 1812 | 1812 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/nb.po/mnt/stockage/packages/f9/gjots2/po/no.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 906 | 906 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/ru.po | 
- | [en_US]({{< ref "/f9/language/en_US.md" >}}) | 837 | 906 | 92.4 | /mnt/stockage/packages/f9/gjots2/po/en_US.po | 
+ | [fr](/f9/language/fr) | 906 | 906 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/fr.po | 
+ | [it](/f9/language/it) | 909 | 909 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/it.po | 
+ | [nb_NO](/f9/language/nb_NO) | 1812 | 1812 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/nb.po/mnt/stockage/packages/f9/gjots2/po/no.po | 
+ | [ru](/f9/language/ru) | 906 | 906 | 100.0 | /mnt/stockage/packages/f9/gjots2/po/ru.po | 
+ | [en_US](/f9/language/en_US) | 837 | 906 | 92.4 | /mnt/stockage/packages/f9/gjots2/po/en_US.po | 
 {.sortable}
 
 

@@ -18,46 +18,46 @@ The package duplicity (version 0.8.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 2215 | 2215 | 100.0 | /mnt/stockage/packages/f31/duplicity/po/de.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 2215 | 2215 | 100.0 | /mnt/stockage/packages/f31/duplicity/po/en_GB.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 2214 | 2215 | 100.0 | /mnt/stockage/packages/f31/duplicity/po/cs.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 2147 | 2215 | 96.9 | /mnt/stockage/packages/f31/duplicity/po/es.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 1874 | 2215 | 84.6 | /mnt/stockage/packages/f31/duplicity/po/nb.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 1852 | 2215 | 83.6 | /mnt/stockage/packages/f31/duplicity/po/fr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 1839 | 2215 | 83.0 | /mnt/stockage/packages/f31/duplicity/po/ms.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 1839 | 2215 | 83.0 | /mnt/stockage/packages/f31/duplicity/po/zh_CN.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 1683 | 2215 | 76.0 | /mnt/stockage/packages/f31/duplicity/po/pl.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 1663 | 2215 | 75.1 | /mnt/stockage/packages/f31/duplicity/po/en_AU.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 1652 | 2215 | 74.6 | /mnt/stockage/packages/f31/duplicity/po/sv.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 1605 | 2215 | 72.5 | /mnt/stockage/packages/f31/duplicity/po/it.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 1590 | 2215 | 71.8 | /mnt/stockage/packages/f31/duplicity/po/uk.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 1574 | 2215 | 71.1 | /mnt/stockage/packages/f31/duplicity/po/hu.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 1570 | 2215 | 70.9 | /mnt/stockage/packages/f31/duplicity/po/ru.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 1570 | 2215 | 70.9 | /mnt/stockage/packages/f31/duplicity/po/sl.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 1525 | 2215 | 68.8 | /mnt/stockage/packages/f31/duplicity/po/id.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 1525 | 2215 | 68.8 | /mnt/stockage/packages/f31/duplicity/po/pt_BR.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 962 | 2215 | 43.4 | /mnt/stockage/packages/f31/duplicity/po/gl.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 656 | 2215 | 29.6 | /mnt/stockage/packages/f31/duplicity/po/bs.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 571 | 2215 | 25.8 | /mnt/stockage/packages/f31/duplicity/po/bg.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 548 | 2215 | 24.7 | /mnt/stockage/packages/f31/duplicity/po/pt.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 404 | 2215 | 18.2 | /mnt/stockage/packages/f31/duplicity/po/oc.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 230 | 2215 | 10.4 | /mnt/stockage/packages/f31/duplicity/po/tr.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 58 | 2215 | 2.6 | /mnt/stockage/packages/f31/duplicity/po/eo.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 44 | 2215 | 2.0 | /mnt/stockage/packages/f31/duplicity/po/ug.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 36 | 2215 | 1.6 | /mnt/stockage/packages/f31/duplicity/po/km.po | 
- | [io]({{< ref "/f31/language/io.md" >}}) | 34 | 2215 | 1.5 | /mnt/stockage/packages/f31/duplicity/po/io.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 33 | 2215 | 1.5 | /mnt/stockage/packages/f31/duplicity/po/el.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 33 | 2215 | 1.5 | /mnt/stockage/packages/f31/duplicity/po/sq.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 19 | 2215 | 0.9 | /mnt/stockage/packages/f31/duplicity/po/he.po | 
- | [bo]({{< ref "/f31/language/bo.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/bo.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ca.po | 
- | [ca@valencia]({{< ref "/f31/language/ca@valencia.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ca@valencia.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/fi.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ja.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/nl.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ro.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/sr.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/zh_TW.po | 
+ | [de](/f31/language/de) | 2215 | 2215 | 100.0 | /mnt/stockage/packages/f31/duplicity/po/de.po | 
+ | [en_GB](/f31/language/en_GB) | 2215 | 2215 | 100.0 | /mnt/stockage/packages/f31/duplicity/po/en_GB.po | 
+ | [cs](/f31/language/cs) | 2214 | 2215 | 100.0 | /mnt/stockage/packages/f31/duplicity/po/cs.po | 
+ | [es](/f31/language/es) | 2147 | 2215 | 96.9 | /mnt/stockage/packages/f31/duplicity/po/es.po | 
+ | [nb_NO](/f31/language/nb_NO) | 1874 | 2215 | 84.6 | /mnt/stockage/packages/f31/duplicity/po/nb.po | 
+ | [fr](/f31/language/fr) | 1852 | 2215 | 83.6 | /mnt/stockage/packages/f31/duplicity/po/fr.po | 
+ | [ms](/f31/language/ms) | 1839 | 2215 | 83.0 | /mnt/stockage/packages/f31/duplicity/po/ms.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 1839 | 2215 | 83.0 | /mnt/stockage/packages/f31/duplicity/po/zh_CN.po | 
+ | [pl](/f31/language/pl) | 1683 | 2215 | 76.0 | /mnt/stockage/packages/f31/duplicity/po/pl.po | 
+ | [en_AU](/f31/language/en_AU) | 1663 | 2215 | 75.1 | /mnt/stockage/packages/f31/duplicity/po/en_AU.po | 
+ | [sv](/f31/language/sv) | 1652 | 2215 | 74.6 | /mnt/stockage/packages/f31/duplicity/po/sv.po | 
+ | [it](/f31/language/it) | 1605 | 2215 | 72.5 | /mnt/stockage/packages/f31/duplicity/po/it.po | 
+ | [uk](/f31/language/uk) | 1590 | 2215 | 71.8 | /mnt/stockage/packages/f31/duplicity/po/uk.po | 
+ | [hu](/f31/language/hu) | 1574 | 2215 | 71.1 | /mnt/stockage/packages/f31/duplicity/po/hu.po | 
+ | [ru](/f31/language/ru) | 1570 | 2215 | 70.9 | /mnt/stockage/packages/f31/duplicity/po/ru.po | 
+ | [sl](/f31/language/sl) | 1570 | 2215 | 70.9 | /mnt/stockage/packages/f31/duplicity/po/sl.po | 
+ | [id](/f31/language/id) | 1525 | 2215 | 68.8 | /mnt/stockage/packages/f31/duplicity/po/id.po | 
+ | [pt_BR](/f31/language/pt_BR) | 1525 | 2215 | 68.8 | /mnt/stockage/packages/f31/duplicity/po/pt_BR.po | 
+ | [gl](/f31/language/gl) | 962 | 2215 | 43.4 | /mnt/stockage/packages/f31/duplicity/po/gl.po | 
+ | [bs](/f31/language/bs) | 656 | 2215 | 29.6 | /mnt/stockage/packages/f31/duplicity/po/bs.po | 
+ | [bg](/f31/language/bg) | 571 | 2215 | 25.8 | /mnt/stockage/packages/f31/duplicity/po/bg.po | 
+ | [pt](/f31/language/pt) | 548 | 2215 | 24.7 | /mnt/stockage/packages/f31/duplicity/po/pt.po | 
+ | [oc](/f31/language/oc) | 404 | 2215 | 18.2 | /mnt/stockage/packages/f31/duplicity/po/oc.po | 
+ | [tr](/f31/language/tr) | 230 | 2215 | 10.4 | /mnt/stockage/packages/f31/duplicity/po/tr.po | 
+ | [eo](/f31/language/eo) | 58 | 2215 | 2.6 | /mnt/stockage/packages/f31/duplicity/po/eo.po | 
+ | [ug](/f31/language/ug) | 44 | 2215 | 2.0 | /mnt/stockage/packages/f31/duplicity/po/ug.po | 
+ | [km](/f31/language/km) | 36 | 2215 | 1.6 | /mnt/stockage/packages/f31/duplicity/po/km.po | 
+ | [io](/f31/language/io) | 34 | 2215 | 1.5 | /mnt/stockage/packages/f31/duplicity/po/io.po | 
+ | [el](/f31/language/el) | 33 | 2215 | 1.5 | /mnt/stockage/packages/f31/duplicity/po/el.po | 
+ | [sq](/f31/language/sq) | 33 | 2215 | 1.5 | /mnt/stockage/packages/f31/duplicity/po/sq.po | 
+ | [he](/f31/language/he) | 19 | 2215 | 0.9 | /mnt/stockage/packages/f31/duplicity/po/he.po | 
+ | [bo](/f31/language/bo) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/bo.po | 
+ | [ca](/f31/language/ca) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ca.po | 
+ | [ca@valencia](/f31/language/ca@valencia) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ca@valencia.po | 
+ | [fi](/f31/language/fi) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/fi.po | 
+ | [ja](/f31/language/ja) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ja.po | 
+ | [nl](/f31/language/nl) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/nl.po | 
+ | [ro](/f31/language/ro) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/ro.po | 
+ | [sr](/f31/language/sr) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/sr.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 0 | 2215 | 0.0 | /mnt/stockage/packages/f31/duplicity/po/zh_TW.po | 
 {.sortable}
 
 

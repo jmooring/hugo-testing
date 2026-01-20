@@ -18,44 +18,44 @@ The package liveusb-creator (version 3.11.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ar.po | 
- | [ast]({{< ref "/f14/language/ast.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ast.po | 
- | [bs]({{< ref "/f14/language/bs.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/bs.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ca.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/cs.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/el.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/es.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/fa.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/fi.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 680 | 680 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/fr.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/he.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/id.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ja.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ko.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/nds.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/nl.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pa.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 673 | 673 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ru.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sk.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sr.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sv.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/th.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/uk.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 111 | 480 | 23.1 | /mnt/stockage/packages/f14/liveusb-creator/po/nb.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 94 | 480 | 19.6 | /mnt/stockage/packages/f14/liveusb-creator/po/bn_IN.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 19 | 480 | 4.0 | /mnt/stockage/packages/f14/liveusb-creator/po/is.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 9 | 290 | 3.1 | /mnt/stockage/packages/f14/liveusb-creator/po/ms.po | 
+ | [ar](/f14/language/ar) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ar.po | 
+ | [ast](/f14/language/ast) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ast.po | 
+ | [bs](/f14/language/bs) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/bs.po | 
+ | [ca](/f14/language/ca) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ca.po | 
+ | [cs](/f14/language/cs) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/cs.po | 
+ | [da](/f14/language/da) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/da.po | 
+ | [de](/f14/language/de) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/de.po | 
+ | [el](/f14/language/el) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/el.po | 
+ | [en_GB](/f14/language/en_GB) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/en_GB.po | 
+ | [es](/f14/language/es) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/es.po | 
+ | [fa](/f14/language/fa) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/fa.po | 
+ | [fi](/f14/language/fi) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/fi.po | 
+ | [fr](/f14/language/fr) | 680 | 680 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/fr.po | 
+ | [he](/f14/language/he) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/he.po | 
+ | [hu](/f14/language/hu) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/hu.po | 
+ | [id](/f14/language/id) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/id.po | 
+ | [it](/f14/language/it) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/it.po | 
+ | [ja](/f14/language/ja) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ja.po | 
+ | [ko](/f14/language/ko) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ko.po | 
+ | [nds](/f14/language/nds) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/nds.po | 
+ | [nl](/f14/language/nl) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/nl.po | 
+ | [pa](/f14/language/pa) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pa.po | 
+ | [pl](/f14/language/pl) | 673 | 673 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pl.po | 
+ | [pt](/f14/language/pt) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/ru.po | 
+ | [sk](/f14/language/sk) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sk.po | 
+ | [sr](/f14/language/sr) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sr.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/sv.po | 
+ | [th](/f14/language/th) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/th.po | 
+ | [uk](/f14/language/uk) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/uk.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/zh_CN.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 480 | 480 | 100.0 | /mnt/stockage/packages/f14/liveusb-creator/po/zh_TW.po | 
+ | [nb_NO](/f14/language/nb_NO) | 111 | 480 | 23.1 | /mnt/stockage/packages/f14/liveusb-creator/po/nb.po | 
+ | [bn_IN](/f14/language/bn_IN) | 94 | 480 | 19.6 | /mnt/stockage/packages/f14/liveusb-creator/po/bn_IN.po | 
+ | [is](/f14/language/is) | 19 | 480 | 4.0 | /mnt/stockage/packages/f14/liveusb-creator/po/is.po | 
+ | [ms](/f14/language/ms) | 9 | 290 | 3.1 | /mnt/stockage/packages/f14/liveusb-creator/po/ms.po | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package recapp (version 1.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/de.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/nl.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/ru.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/tr.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 148 | 156 | 94.9 | /mnt/stockage/packages/f33/recapp/po/es.po | 
+ | [de](/f33/language/de) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/de.po | 
+ | [it](/f33/language/it) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/it.po | 
+ | [nl](/f33/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/nl.po | 
+ | [ru](/f33/language/ru) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/ru.po | 
+ | [tr](/f33/language/tr) | 156 | 156 | 100.0 | /mnt/stockage/packages/f33/recapp/po/tr.po | 
+ | [es](/f33/language/es) | 148 | 156 | 94.9 | /mnt/stockage/packages/f33/recapp/po/es.po | 
 {.sortable}
 
 

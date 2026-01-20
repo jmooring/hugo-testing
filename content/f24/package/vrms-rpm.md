@@ -18,8 +18,8 @@ The package vrms-rpm (version 1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f24/language/en.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f24/vrms-rpm/lang/en.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 15 | 15 | 100.0 | /mnt/stockage/packages/f24/vrms-rpm/lang/pl.po | 
+ | [en](/f24/language/en) | 15 | 15 | 100.0 | /mnt/stockage/packages/f24/vrms-rpm/lang/en.po | 
+ | [pl](/f24/language/pl) | 15 | 15 | 100.0 | /mnt/stockage/packages/f24/vrms-rpm/lang/pl.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package git-cola (version 1.4.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f12/language/de.md" >}}) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/de.po/mnt/stockage/packages/f12/git-cola/share/git-cola/po/glossary/de.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/fr.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/hu.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/ja.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/sv.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/it.po/mnt/stockage/packages/f12/git-cola/share/git-cola/po/glossary/it.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 1837 | 1842 | 99.7 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/ru.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 1834 | 1912 | 95.9 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/zh_cn.po/mnt/stockage/packages/f12/git-cola/share/git-cola/po/glossary/zh_cn.po | 
+ | [de](/f12/language/de) | 1916 | 1916 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/de.po/mnt/stockage/packages/f12/git-cola/share/git-cola/po/glossary/de.po | 
+ | [fr](/f12/language/fr) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/fr.po | 
+ | [hu](/f12/language/hu) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/hu.po | 
+ | [ja](/f12/language/ja) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/ja.po | 
+ | [sv](/f12/language/sv) | 1842 | 1842 | 100.0 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/sv.po | 
+ | [it](/f12/language/it) | 1915 | 1916 | 99.9 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/it.po/mnt/stockage/packages/f12/git-cola/share/git-cola/po/glossary/it.po | 
+ | [ru](/f12/language/ru) | 1837 | 1842 | 99.7 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/ru.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 1834 | 1912 | 95.9 | /mnt/stockage/packages/f12/git-cola/share/git-cola/po/zh_cn.po/mnt/stockage/packages/f12/git-cola/share/git-cola/po/glossary/zh_cn.po | 
 {.sortable}
 
 

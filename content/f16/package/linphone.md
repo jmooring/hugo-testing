@@ -18,21 +18,21 @@ The package linphone (version 3.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 1591 | 1628 | 97.7 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/de.po/mnt/stockage/packages/f16/linphone/po/de.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 1483 | 1628 | 91.1 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/cs.po/mnt/stockage/packages/f16/linphone/po/cs.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 1053 | 1178 | 89.4 | /mnt/stockage/packages/f16/linphone/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 1051 | 1178 | 89.2 | /mnt/stockage/packages/f16/linphone/po/nb_NO.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 1281 | 1628 | 78.7 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/zh_CN.po/mnt/stockage/packages/f16/linphone/po/zh_CN.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 1150 | 1628 | 70.6 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/sv.po/mnt/stockage/packages/f16/linphone/po/sv.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1027 | 1628 | 63.1 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/it.po/mnt/stockage/packages/f16/linphone/po/it.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1023 | 1628 | 62.8 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/ru.po/mnt/stockage/packages/f16/linphone/po/ru.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1012 | 1628 | 62.2 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/fr.po/mnt/stockage/packages/f16/linphone/po/fr.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 198 | 1628 | 12.2 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/hu.po/mnt/stockage/packages/f16/linphone/po/hu.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 187 | 1628 | 11.5 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/nl.po/mnt/stockage/packages/f16/linphone/po/nl.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 124 | 1628 | 7.6 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/ja.po/mnt/stockage/packages/f16/linphone/po/ja.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 119 | 1628 | 7.3 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/pl.po/mnt/stockage/packages/f16/linphone/po/pl.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 116 | 1628 | 7.1 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/es.po/mnt/stockage/packages/f16/linphone/po/es.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 55 | 1628 | 3.4 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/pt_BR.po/mnt/stockage/packages/f16/linphone/po/pt_BR.po | 
+ | [de](/f16/language/de) | 1591 | 1628 | 97.7 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/de.po/mnt/stockage/packages/f16/linphone/po/de.po | 
+ | [cs](/f16/language/cs) | 1483 | 1628 | 91.1 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/cs.po/mnt/stockage/packages/f16/linphone/po/cs.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 1053 | 1178 | 89.4 | /mnt/stockage/packages/f16/linphone/po/zh_TW.po | 
+ | [nb_NO](/f16/language/nb_NO) | 1051 | 1178 | 89.2 | /mnt/stockage/packages/f16/linphone/po/nb_NO.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 1281 | 1628 | 78.7 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/zh_CN.po/mnt/stockage/packages/f16/linphone/po/zh_CN.po | 
+ | [sv](/f16/language/sv) | 1150 | 1628 | 70.6 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/sv.po/mnt/stockage/packages/f16/linphone/po/sv.po | 
+ | [it](/f16/language/it) | 1027 | 1628 | 63.1 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/it.po/mnt/stockage/packages/f16/linphone/po/it.po | 
+ | [ru](/f16/language/ru) | 1023 | 1628 | 62.8 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/ru.po/mnt/stockage/packages/f16/linphone/po/ru.po | 
+ | [fr](/f16/language/fr) | 1012 | 1628 | 62.2 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/fr.po/mnt/stockage/packages/f16/linphone/po/fr.po | 
+ | [hu](/f16/language/hu) | 198 | 1628 | 12.2 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/hu.po/mnt/stockage/packages/f16/linphone/po/hu.po | 
+ | [nl](/f16/language/nl) | 187 | 1628 | 11.5 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/nl.po/mnt/stockage/packages/f16/linphone/po/nl.po | 
+ | [ja](/f16/language/ja) | 124 | 1628 | 7.6 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/ja.po/mnt/stockage/packages/f16/linphone/po/ja.po | 
+ | [pl](/f16/language/pl) | 119 | 1628 | 7.3 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/pl.po/mnt/stockage/packages/f16/linphone/po/pl.po | 
+ | [es](/f16/language/es) | 116 | 1628 | 7.1 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/es.po/mnt/stockage/packages/f16/linphone/po/es.po | 
+ | [pt_BR](/f16/language/pt_BR) | 55 | 1628 | 3.4 | /mnt/stockage/packages/f16/linphone/mediastreamer2/po/pt_BR.po/mnt/stockage/packages/f16/linphone/po/pt_BR.po | 
 {.sortable}
 
 

@@ -18,15 +18,15 @@ The package foliate (version 1.5.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 829 | 935 | 88.7 | /mnt/stockage/packages/f29/foliate/po/fr_FR.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 829 | 935 | 88.7 | /mnt/stockage/packages/f29/foliate/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 829 | 935 | 88.7 | /mnt/stockage/packages/f29/foliate/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 699 | 935 | 74.8 | /mnt/stockage/packages/f29/foliate/po/ru_RU.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 614 | 935 | 65.7 | /mnt/stockage/packages/f29/foliate/po/zh_TW.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 418 | 935 | 44.7 | /mnt/stockage/packages/f29/foliate/po/es.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 383 | 935 | 41.0 | /mnt/stockage/packages/f29/foliate/po/id_ID.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 307 | 935 | 32.8 | /mnt/stockage/packages/f29/foliate/po/it.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 203 | 935 | 21.7 | /mnt/stockage/packages/f29/foliate/po/cs_CS.po | 
+ | [fr](/f29/language/fr) | 829 | 935 | 88.7 | /mnt/stockage/packages/f29/foliate/po/fr_FR.po | 
+ | [nl](/f29/language/nl) | 829 | 935 | 88.7 | /mnt/stockage/packages/f29/foliate/po/nl_NL.po | 
+ | [pt_BR](/f29/language/pt_BR) | 829 | 935 | 88.7 | /mnt/stockage/packages/f29/foliate/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 699 | 935 | 74.8 | /mnt/stockage/packages/f29/foliate/po/ru_RU.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 614 | 935 | 65.7 | /mnt/stockage/packages/f29/foliate/po/zh_TW.po | 
+ | [es](/f29/language/es) | 418 | 935 | 44.7 | /mnt/stockage/packages/f29/foliate/po/es.po | 
+ | [id](/f29/language/id) | 383 | 935 | 41.0 | /mnt/stockage/packages/f29/foliate/po/id_ID.po | 
+ | [it](/f29/language/it) | 307 | 935 | 32.8 | /mnt/stockage/packages/f29/foliate/po/it.po | 
+ | [cs](/f29/language/cs) | 203 | 935 | 21.7 | /mnt/stockage/packages/f29/foliate/po/cs_CS.po | 
 {.sortable}
 
 

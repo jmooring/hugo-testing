@@ -18,14 +18,14 @@ The package alsa-utils (version 1.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 1986 | 2464 | 80.6 | /mnt/stockage/packages/f39/alsa-utils/alsaconf/po/ka.po/mnt/stockage/packages/f39/alsa-utils/po/ka.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 407 | 538 | 75.7 | /mnt/stockage/packages/f39/alsa-utils/alsaconf/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 1385 | 1928 | 71.8 | /mnt/stockage/packages/f39/alsa-utils/po/sk.po | 
- | [eu]({{< ref "/f39/language/eu.md" >}}) | 1367 | 1928 | 70.9 | /mnt/stockage/packages/f39/alsa-utils/po/eu.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 1367 | 1928 | 70.9 | /mnt/stockage/packages/f39/alsa-utils/po/ko.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 1332 | 1928 | 69.1 | /mnt/stockage/packages/f39/alsa-utils/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 1586 | 2466 | 64.3 | /mnt/stockage/packages/f39/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f39/alsa-utils/po/ja.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 1229 | 1928 | 63.7 | /mnt/stockage/packages/f39/alsa-utils/po/de.po | 
+ | [ka](/f39/language/ka) | 1986 | 2464 | 80.6 | /mnt/stockage/packages/f39/alsa-utils/alsaconf/po/ka.po/mnt/stockage/packages/f39/alsa-utils/po/ka.po | 
+ | [ru](/f39/language/ru) | 407 | 538 | 75.7 | /mnt/stockage/packages/f39/alsa-utils/alsaconf/po/ru.po | 
+ | [sk](/f39/language/sk) | 1385 | 1928 | 71.8 | /mnt/stockage/packages/f39/alsa-utils/po/sk.po | 
+ | [eu](/f39/language/eu) | 1367 | 1928 | 70.9 | /mnt/stockage/packages/f39/alsa-utils/po/eu.po | 
+ | [ko](/f39/language/ko) | 1367 | 1928 | 70.9 | /mnt/stockage/packages/f39/alsa-utils/po/ko.po | 
+ | [fr](/f39/language/fr) | 1332 | 1928 | 69.1 | /mnt/stockage/packages/f39/alsa-utils/po/fr.po | 
+ | [ja](/f39/language/ja) | 1586 | 2466 | 64.3 | /mnt/stockage/packages/f39/alsa-utils/alsaconf/po/ja.po/mnt/stockage/packages/f39/alsa-utils/po/ja.po | 
+ | [de](/f39/language/de) | 1229 | 1928 | 63.7 | /mnt/stockage/packages/f39/alsa-utils/po/de.po | 
 {.sortable}
 
 

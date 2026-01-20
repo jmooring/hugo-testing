@@ -18,7 +18,7 @@ The package kcemirror (version 0.1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 113 | 113 | 100.0 | /mnt/stockage/packages/f30/kcemirror/po/fr.po | 
+ | [fr](/f30/language/fr) | 113 | 113 | 100.0 | /mnt/stockage/packages/f30/kcemirror/po/fr.po | 
 {.sortable}
 
 

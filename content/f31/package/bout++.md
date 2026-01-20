@@ -18,11 +18,11 @@ The package bout++ (version 4.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 831 | 831 | 100.0 | /mnt/stockage/packages/f31/bout++/locale/de/libbout.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 835 | 835 | 100.0 | /mnt/stockage/packages/f31/bout++/locale/es/libbout.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 49 | 49 | 100.0 | /mnt/stockage/packages/f31/bout++/locale/zh_CN/libbout.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 169 | 175 | 96.6 | /mnt/stockage/packages/f31/bout++/locale/zh_TW/libbout.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 71 | 79 | 89.9 | /mnt/stockage/packages/f31/bout++/locale/fr/libbout.po | 
+ | [de](/f31/language/de) | 831 | 831 | 100.0 | /mnt/stockage/packages/f31/bout++/locale/de/libbout.po | 
+ | [es](/f31/language/es) | 835 | 835 | 100.0 | /mnt/stockage/packages/f31/bout++/locale/es/libbout.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 49 | 49 | 100.0 | /mnt/stockage/packages/f31/bout++/locale/zh_CN/libbout.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 169 | 175 | 96.6 | /mnt/stockage/packages/f31/bout++/locale/zh_TW/libbout.po | 
+ | [fr](/f31/language/fr) | 71 | 79 | 89.9 | /mnt/stockage/packages/f31/bout++/locale/fr/libbout.po | 
 {.sortable}
 
 

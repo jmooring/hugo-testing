@@ -18,29 +18,29 @@ The package mingw-gcc (version 12.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 126081 | 126081 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/de.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/de.po/mnt/stockage/packages/f37/mingw-gcc/libstdc++-v3/po/de.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 126081 | 126081 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/fr.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/fr.po/mnt/stockage/packages/f37/mingw-gcc/libstdc++-v3/po/fr.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 1548 | 1548 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ro.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 126076 | 126076 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/sv.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/sv.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 1448 | 1548 | 93.5 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/eo.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 1448 | 1548 | 93.5 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/pt_BR.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 77895 | 126076 | 61.8 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/ru.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ru.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 921 | 1548 | 59.5 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ca.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 63832 | 126076 | 50.6 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/es.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/es.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 28924 | 126076 | 22.9 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/zh_CN.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 25837 | 126076 | 20.5 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/vi.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/vi.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 20228 | 126076 | 16.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/id.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/id.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 17401 | 126076 | 13.8 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/sr.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/sr.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 15430 | 126076 | 12.2 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/tr.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/tr.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 15120 | 126076 | 12.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/zh_TW.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 14943 | 126076 | 11.9 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/fi.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/fi.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 14062 | 126076 | 11.2 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/ja.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ja.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 11323 | 126076 | 9.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/da.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/da.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 10690 | 126076 | 8.5 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/uk.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/uk.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 5068 | 126076 | 4.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/nl.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/nl.po | 
- | [hr]({{< ref "/f37/language/hr.md" >}}) | 4402 | 124528 | 3.5 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/hr.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 227 | 126076 | 0.2 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/be.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/be.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 176 | 126076 | 0.1 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/el.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/el.po | 
+ | [de](/f37/language/de) | 126081 | 126081 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/de.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/de.po/mnt/stockage/packages/f37/mingw-gcc/libstdc++-v3/po/de.po | 
+ | [fr](/f37/language/fr) | 126081 | 126081 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/fr.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/fr.po/mnt/stockage/packages/f37/mingw-gcc/libstdc++-v3/po/fr.po | 
+ | [ro](/f37/language/ro) | 1548 | 1548 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ro.po | 
+ | [sv](/f37/language/sv) | 126076 | 126076 | 100.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/sv.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/sv.po | 
+ | [eo](/f37/language/eo) | 1448 | 1548 | 93.5 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/eo.po | 
+ | [pt_BR](/f37/language/pt_BR) | 1448 | 1548 | 93.5 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/pt_BR.po | 
+ | [ru](/f37/language/ru) | 77895 | 126076 | 61.8 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/ru.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ru.po | 
+ | [ca](/f37/language/ca) | 921 | 1548 | 59.5 | /mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ca.po | 
+ | [es](/f37/language/es) | 63832 | 126076 | 50.6 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/es.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/es.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 28924 | 126076 | 22.9 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/zh_CN.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/zh_CN.po | 
+ | [vi](/f37/language/vi) | 25837 | 126076 | 20.5 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/vi.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/vi.po | 
+ | [id](/f37/language/id) | 20228 | 126076 | 16.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/id.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/id.po | 
+ | [sr](/f37/language/sr) | 17401 | 126076 | 13.8 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/sr.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/sr.po | 
+ | [tr](/f37/language/tr) | 15430 | 126076 | 12.2 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/tr.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/tr.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 15120 | 126076 | 12.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/zh_TW.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/zh_TW.po | 
+ | [fi](/f37/language/fi) | 14943 | 126076 | 11.9 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/fi.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/fi.po | 
+ | [ja](/f37/language/ja) | 14062 | 126076 | 11.2 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/ja.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/ja.po | 
+ | [da](/f37/language/da) | 11323 | 126076 | 9.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/da.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/da.po | 
+ | [uk](/f37/language/uk) | 10690 | 126076 | 8.5 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/uk.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/uk.po | 
+ | [nl](/f37/language/nl) | 5068 | 126076 | 4.0 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/nl.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/nl.po | 
+ | [hr](/f37/language/hr) | 4402 | 124528 | 3.5 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/hr.po | 
+ | [be](/f37/language/be) | 227 | 126076 | 0.2 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/be.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/be.po | 
+ | [el](/f37/language/el) | 176 | 126076 | 0.1 | /mnt/stockage/packages/f37/mingw-gcc/gcc/po/el.po/mnt/stockage/packages/f37/mingw-gcc/libcpp/po/el.po | 
 {.sortable}
 
 

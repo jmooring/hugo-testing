@@ -18,19 +18,19 @@ The package meteo (version 0.9.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f36/language/es.md" >}}) | 520 | 520 | 100.0 | /mnt/stockage/packages/f36/meteo/po/es_ES.po/mnt/stockage/packages/f36/meteo/po/es.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/ca.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/de.po | 
- | [en]({{< ref "/f36/language/en.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/en.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/fr.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/lt.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/nb.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/nl.po | 
- | [oc]({{< ref "/f36/language/oc.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/oc.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 669 | 780 | 85.8 | /mnt/stockage/packages/f36/meteo/po/pt_PT.po/mnt/stockage/packages/f36/meteo/po/pt_BR.po/mnt/stockage/packages/f36/meteo/po/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/ru.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/sr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/uk.po | 
+ | [es](/f36/language/es) | 520 | 520 | 100.0 | /mnt/stockage/packages/f36/meteo/po/es_ES.po/mnt/stockage/packages/f36/meteo/po/es.po | 
+ | [ca](/f36/language/ca) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/ca.po | 
+ | [de](/f36/language/de) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/de.po | 
+ | [en](/f36/language/en) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/en.po | 
+ | [fr](/f36/language/fr) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/fr.po | 
+ | [lt](/f36/language/lt) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/lt.po | 
+ | [nb_NO](/f36/language/nb_NO) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/nb.po | 
+ | [nl](/f36/language/nl) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/nl.po | 
+ | [oc](/f36/language/oc) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/oc.po | 
+ | [pt](/f36/language/pt) | 669 | 780 | 85.8 | /mnt/stockage/packages/f36/meteo/po/pt_PT.po/mnt/stockage/packages/f36/meteo/po/pt_BR.po/mnt/stockage/packages/f36/meteo/po/pt.po | 
+ | [ru](/f36/language/ru) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/ru.po | 
+ | [sr](/f36/language/sr) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/sr.po | 
+ | [uk](/f36/language/uk) | 223 | 260 | 85.8 | /mnt/stockage/packages/f36/meteo/po/uk.po | 
 {.sortable}
 
 

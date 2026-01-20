@@ -18,24 +18,24 @@ The package ibus-anthy (version 1.5.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/ca.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/de.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/fr.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/ja.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/ko.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 740 | 740 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/pt_BR.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/sv.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/uk.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 564 | 705 | 80.0 | /mnt/stockage/packages/f39/ibus-anthy/po/hu.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 169 | 705 | 24.0 | /mnt/stockage/packages/f39/ibus-anthy/po/fi.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 141 | 740 | 19.1 | /mnt/stockage/packages/f39/ibus-anthy/po/el.po | 
- | [pt_PT]({{< ref "/f39/language/pt_PT.md" >}}) | 122 | 705 | 17.3 | /mnt/stockage/packages/f39/ibus-anthy/po/pt_PT.po | 
- | [ka]({{< ref "/f39/language/ka.md" >}}) | 93 | 705 | 13.2 | /mnt/stockage/packages/f39/ibus-anthy/po/ka.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 73 | 740 | 9.9 | /mnt/stockage/packages/f39/ibus-anthy/po/zh_CN.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 37 | 740 | 5.0 | /mnt/stockage/packages/f39/ibus-anthy/po/cs.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 22 | 705 | 3.1 | /mnt/stockage/packages/f39/ibus-anthy/po/si.po | 
+ | [ca](/f39/language/ca) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/ca.po | 
+ | [de](/f39/language/de) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/de.po | 
+ | [es](/f39/language/es) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/es.po | 
+ | [fr](/f39/language/fr) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/fr.po | 
+ | [ja](/f39/language/ja) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/ja.po | 
+ | [ko](/f39/language/ko) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/ko.po | 
+ | [pt_BR](/f39/language/pt_BR) | 740 | 740 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/pt_BR.po | 
+ | [sv](/f39/language/sv) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/sv.po | 
+ | [tr](/f39/language/tr) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/tr.po | 
+ | [uk](/f39/language/uk) | 705 | 705 | 100.0 | /mnt/stockage/packages/f39/ibus-anthy/po/uk.po | 
+ | [hu](/f39/language/hu) | 564 | 705 | 80.0 | /mnt/stockage/packages/f39/ibus-anthy/po/hu.po | 
+ | [fi](/f39/language/fi) | 169 | 705 | 24.0 | /mnt/stockage/packages/f39/ibus-anthy/po/fi.po | 
+ | [el](/f39/language/el) | 141 | 740 | 19.1 | /mnt/stockage/packages/f39/ibus-anthy/po/el.po | 
+ | [pt_PT](/f39/language/pt_PT) | 122 | 705 | 17.3 | /mnt/stockage/packages/f39/ibus-anthy/po/pt_PT.po | 
+ | [ka](/f39/language/ka) | 93 | 705 | 13.2 | /mnt/stockage/packages/f39/ibus-anthy/po/ka.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 73 | 740 | 9.9 | /mnt/stockage/packages/f39/ibus-anthy/po/zh_CN.po | 
+ | [cs](/f39/language/cs) | 37 | 740 | 5.0 | /mnt/stockage/packages/f39/ibus-anthy/po/cs.po | 
+ | [si](/f39/language/si) | 22 | 705 | 3.1 | /mnt/stockage/packages/f39/ibus-anthy/po/si.po | 
 {.sortable}
 
 

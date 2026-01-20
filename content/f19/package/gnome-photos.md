@@ -18,23 +18,23 @@ The package gnome-photos (version 3.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/ar.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/cs.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/de.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 75 | 75 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/el.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/es.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/gl.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/hu.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 210 | 210 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/pl.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/pt_BR.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 384 | 384 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/sr@latin.po/mnt/stockage/packages/f19/gnome-photos/po/sr.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 192 | 192 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/zh_CN.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 178 | 210 | 84.8 | /mnt/stockage/packages/f19/gnome-photos/po/ru.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 175 | 214 | 81.8 | /mnt/stockage/packages/f19/gnome-photos/po/fi.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 49 | 209 | 23.4 | /mnt/stockage/packages/f19/gnome-photos/po/nb.po | 
+ | [ar](/f19/language/ar) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/ar.po | 
+ | [cs](/f19/language/cs) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/cs.po | 
+ | [de](/f19/language/de) | 210 | 210 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/de.po | 
+ | [el](/f19/language/el) | 75 | 75 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/el.po | 
+ | [es](/f19/language/es) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/es.po | 
+ | [fr](/f19/language/fr) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/fr.po | 
+ | [gl](/f19/language/gl) | 210 | 210 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/gl.po | 
+ | [hu](/f19/language/hu) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/hu.po | 
+ | [pa](/f19/language/pa) | 210 | 210 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/pa.po | 
+ | [pl](/f19/language/pl) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/pl.po | 
+ | [pt_BR](/f19/language/pt_BR) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/pt_BR.po | 
+ | [sl](/f19/language/sl) | 198 | 198 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/sl.po | 
+ | [sr](/f19/language/sr) | 384 | 384 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/sr@latin.po/mnt/stockage/packages/f19/gnome-photos/po/sr.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 192 | 192 | 100.0 | /mnt/stockage/packages/f19/gnome-photos/po/zh_CN.po | 
+ | [ru](/f19/language/ru) | 178 | 210 | 84.8 | /mnt/stockage/packages/f19/gnome-photos/po/ru.po | 
+ | [fi](/f19/language/fi) | 175 | 214 | 81.8 | /mnt/stockage/packages/f19/gnome-photos/po/fi.po | 
+ | [nb_NO](/f19/language/nb_NO) | 49 | 209 | 23.4 | /mnt/stockage/packages/f19/gnome-photos/po/nb.po | 
 {.sortable}
 
 

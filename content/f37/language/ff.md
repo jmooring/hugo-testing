@@ -49,30 +49,30 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint-stamps]({{< ref "/f37/package/tuxpaint-stamps.md" >}}) | 3246 | 3249 | 99.9 | FULAH LOCALIZATION | 
- | [gtkspell3]({{< ref "/f37/package/gtkspell3.md" >}}) | 10 | 16 | 62.5 | Fula <LL@li.org> | 
- | [tuxpaint]({{< ref "/f37/package/tuxpaint.md" >}}) | 1517 | 3763 | 40.3 | FULAH LOCALIZATION | 
- | [sugar-write]({{< ref "/f37/package/sugar-write.md" >}}) | 45 | 121 | 37.2 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 47 | 213 | 22.1 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f37/package/sugar-chat.md" >}}) | 25 | 137 | 18.2 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 96 | 986 | 9.7 | Fulah <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ff/> | 
- | [sugar-terminal]({{< ref "/f37/package/sugar-terminal.md" >}}) | 5 | 121 | 4.1 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f37/package/sugar.md" >}}) | 80 | 2305 | 3.5 | LANGUAGE <LL@li.org> | 
- | [isomaster]({{< ref "/f37/package/isomaster.md" >}}) | 15 | 674 | 2.2 | http://littlesvr.ca/ostd/ | 
- | [sugar-fototoon]({{< ref "/f37/package/sugar-fototoon.md" >}}) | 3 | 139 | 2.2 | LANGUAGE <LL@li.org> | 
- | [asunder]({{< ref "/f37/package/asunder.md" >}}) | 8 | 492 | 1.6 | http://littlesvr.ca/ostd/ | 
- | [sugar-calculator]({{< ref "/f37/package/sugar-calculator.md" >}}) | 11 | 866 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f37/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint-stamps](/f37/package/tuxpaint-stamps) | 3246 | 3249 | 99.9 | FULAH LOCALIZATION | 
+ | [gtkspell3](/f37/package/gtkspell3) | 10 | 16 | 62.5 | Fula <LL@li.org> | 
+ | [tuxpaint](/f37/package/tuxpaint) | 1517 | 3763 | 40.3 | FULAH LOCALIZATION | 
+ | [sugar-write](/f37/package/sugar-write) | 45 | 121 | 37.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 47 | 213 | 22.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f37/package/sugar-chat) | 25 | 137 | 18.2 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f37/package/iso-codes) | 96 | 986 | 9.7 | Fulah <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ff/> | 
+ | [sugar-terminal](/f37/package/sugar-terminal) | 5 | 121 | 4.1 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f37/package/sugar) | 80 | 2305 | 3.5 | LANGUAGE <LL@li.org> | 
+ | [isomaster](/f37/package/isomaster) | 15 | 674 | 2.2 | http://littlesvr.ca/ostd/ | 
+ | [sugar-fototoon](/f37/package/sugar-fototoon) | 3 | 139 | 2.2 | LANGUAGE <LL@li.org> | 
+ | [asunder](/f37/package/asunder) | 8 | 492 | 1.6 | http://littlesvr.ca/ostd/ | 
+ | [sugar-calculator](/f37/package/sugar-calculator) | 11 | 866 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f37/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-clock](/f37/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

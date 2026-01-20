@@ -18,16 +18,16 @@ The package python-sphinx (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/fr/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 414 | 414 | 100.0 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/sl/LC_MESSAGES/sphinx.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 397 | 414 | 95.9 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/de/LC_MESSAGES/sphinx.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 388 | 414 | 93.7 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/ja/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 388 | 414 | 93.7 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 388 | 414 | 93.7 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/pl/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 368 | 414 | 88.9 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/es/LC_MESSAGES/sphinx.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 347 | 414 | 83.8 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/cs/LC_MESSAGES/sphinx.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 176 | 414 | 42.5 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/zh_TW/LC_MESSAGES/sphinx.po | 
+ | [fr](/f10/language/fr) | 414 | 414 | 100.0 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f10/language/pt_BR) | 414 | 414 | 100.0 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [sl](/f10/language/sl) | 414 | 414 | 100.0 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/sl/LC_MESSAGES/sphinx.po | 
+ | [de](/f10/language/de) | 397 | 414 | 95.9 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/de/LC_MESSAGES/sphinx.po | 
+ | [ja](/f10/language/ja) | 388 | 414 | 93.7 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/ja/LC_MESSAGES/sphinx.po | 
+ | [nl](/f10/language/nl) | 388 | 414 | 93.7 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pl](/f10/language/pl) | 388 | 414 | 93.7 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [es](/f10/language/es) | 368 | 414 | 88.9 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/es/LC_MESSAGES/sphinx.po | 
+ | [cs](/f10/language/cs) | 347 | 414 | 83.8 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/cs/LC_MESSAGES/sphinx.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 176 | 414 | 42.5 | /mnt/stockage/packages/f10/python-sphinx/sphinx/locale/zh_TW/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

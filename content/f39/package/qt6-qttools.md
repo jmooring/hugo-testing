@@ -18,8 +18,8 @@ The package qt6-qttools (version 6.6.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f39/language/de.md" >}}) | 48 | 48 | 100.0 | /mnt/stockage/packages/f39/qt6-qttools/tests/auto/linguist/lconvert/data/test1-de.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f39/qt6-qttools/tests/auto/linguist/lconvert/data/test1-cn.po | 
+ | [de](/f39/language/de) | 48 | 48 | 100.0 | /mnt/stockage/packages/f39/qt6-qttools/tests/auto/linguist/lconvert/data/test1-de.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 44 | 44 | 100.0 | /mnt/stockage/packages/f39/qt6-qttools/tests/auto/linguist/lconvert/data/test1-cn.po | 
 {.sortable}
 
 

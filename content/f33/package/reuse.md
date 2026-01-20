@@ -18,15 +18,15 @@ The package reuse (version 0.11.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/de.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/eo.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 1062 | 1062 | 100.0 | /mnt/stockage/packages/f33/reuse/po/fr.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/gl.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/it.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/nl.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/pt.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/tr.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 1029 | 1066 | 96.5 | /mnt/stockage/packages/f33/reuse/po/es.po | 
+ | [de](/f33/language/de) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/de.po | 
+ | [eo](/f33/language/eo) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/eo.po | 
+ | [fr](/f33/language/fr) | 1062 | 1062 | 100.0 | /mnt/stockage/packages/f33/reuse/po/fr.po | 
+ | [gl](/f33/language/gl) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/gl.po | 
+ | [it](/f33/language/it) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/it.po | 
+ | [nl](/f33/language/nl) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/nl.po | 
+ | [pt](/f33/language/pt) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/pt.po | 
+ | [tr](/f33/language/tr) | 1066 | 1066 | 100.0 | /mnt/stockage/packages/f33/reuse/po/tr.po | 
+ | [es](/f33/language/es) | 1029 | 1066 | 96.5 | /mnt/stockage/packages/f33/reuse/po/es.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package fvkbd (version 0.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f20/fvkbd/po/zh_CN.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 11 | 11 | 100.0 | /mnt/stockage/packages/f20/fvkbd/po/zh_CN.po | 
 {.sortable}
 
 

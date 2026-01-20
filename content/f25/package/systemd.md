@@ -18,29 +18,29 @@ The package systemd (version 231):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f25/language/be.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/be.po | 
- | [be_Latn]({{< ref "/f25/language/be_Latn.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/be@latin.po | 
- | [bg]({{< ref "/f25/language/bg.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/bg.po | 
- | [da]({{< ref "/f25/language/da.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/da.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/de.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/fr.po | 
- | [gl]({{< ref "/f25/language/gl.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/gl.po | 
- | [hr]({{< ref "/f25/language/hr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/hr.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/hu.po | 
- | [id]({{< ref "/f25/language/id.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/id.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/it.po | 
- | [ko]({{< ref "/f25/language/ko.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/ko.po | 
- | [pl]({{< ref "/f25/language/pl.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/pl.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/ru.po | 
- | [sr]({{< ref "/f25/language/sr.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/sr.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/tr.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/uk.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 950 | 968 | 98.1 | /mnt/stockage/packages/f25/systemd/po/zh_CN.po | 
- | [sv]({{< ref "/f25/language/sv.md" >}}) | 795 | 968 | 82.1 | /mnt/stockage/packages/f25/systemd/po/sv.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 636 | 968 | 65.7 | /mnt/stockage/packages/f25/systemd/po/pt_BR.po | 
- | [el]({{< ref "/f25/language/el.md" >}}) | 603 | 968 | 62.3 | /mnt/stockage/packages/f25/systemd/po/el.po | 
+ | [be](/f25/language/be) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/be.po | 
+ | [be_Latn](/f25/language/be_Latn) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/be@latin.po | 
+ | [bg](/f25/language/bg) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/bg.po | 
+ | [da](/f25/language/da) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/da.po | 
+ | [de](/f25/language/de) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/de.po | 
+ | [es](/f25/language/es) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/es.po | 
+ | [fr](/f25/language/fr) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/fr.po | 
+ | [gl](/f25/language/gl) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/gl.po | 
+ | [hr](/f25/language/hr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/hr.po | 
+ | [hu](/f25/language/hu) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/hu.po | 
+ | [id](/f25/language/id) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/id.po | 
+ | [it](/f25/language/it) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/it.po | 
+ | [ko](/f25/language/ko) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/ko.po | 
+ | [pl](/f25/language/pl) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/pl.po | 
+ | [ru](/f25/language/ru) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/ru.po | 
+ | [sr](/f25/language/sr) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/sr.po | 
+ | [tr](/f25/language/tr) | 985 | 985 | 100.0 | /mnt/stockage/packages/f25/systemd/po/tr.po | 
+ | [uk](/f25/language/uk) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/uk.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 968 | 968 | 100.0 | /mnt/stockage/packages/f25/systemd/po/zh_TW.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 950 | 968 | 98.1 | /mnt/stockage/packages/f25/systemd/po/zh_CN.po | 
+ | [sv](/f25/language/sv) | 795 | 968 | 82.1 | /mnt/stockage/packages/f25/systemd/po/sv.po | 
+ | [pt_BR](/f25/language/pt_BR) | 636 | 968 | 65.7 | /mnt/stockage/packages/f25/systemd/po/pt_BR.po | 
+ | [el](/f25/language/el) | 603 | 968 | 62.3 | /mnt/stockage/packages/f25/systemd/po/el.po | 
 {.sortable}
 
 

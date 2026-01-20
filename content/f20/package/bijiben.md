@@ -18,45 +18,45 @@ The package bijiben (version 3.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f20/language/as.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/as.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ca.po | 
- | [ca@valencia]({{< ref "/f20/language/ca@valencia.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ca@valencia.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/cs.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/da.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/de.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/el.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/es.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/et.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/eu.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/fr.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ga.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/gl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/he.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/hu.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/id.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ja.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ko.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/lt.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/lv.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/nb.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/nl.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pa.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pl.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pt.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/sl.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/sr.po/mnt/stockage/packages/f20/bijiben/po/sr@latin.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/tg.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/tr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/uk.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 173 | 173 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/zh_HK.po/mnt/stockage/packages/f20/bijiben/po/zh_TW.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 195 | 203 | 96.1 | /mnt/stockage/packages/f20/bijiben/po/fi.po | 
- | [fur]({{< ref "/f20/language/fur.md" >}}) | 156 | 179 | 87.2 | /mnt/stockage/packages/f20/bijiben/po/fur.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 173 | 200 | 86.5 | /mnt/stockage/packages/f20/bijiben/po/ml.po | 
+ | [as](/f20/language/as) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/as.po | 
+ | [ca](/f20/language/ca) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ca.po | 
+ | [ca@valencia](/f20/language/ca@valencia) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ca@valencia.po | 
+ | [cs](/f20/language/cs) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/cs.po | 
+ | [da](/f20/language/da) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/da.po | 
+ | [de](/f20/language/de) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/de.po | 
+ | [el](/f20/language/el) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/el.po | 
+ | [es](/f20/language/es) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/es.po | 
+ | [et](/f20/language/et) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/et.po | 
+ | [eu](/f20/language/eu) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/eu.po | 
+ | [fr](/f20/language/fr) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/fr.po | 
+ | [ga](/f20/language/ga) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ga.po | 
+ | [gl](/f20/language/gl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/gl.po | 
+ | [he](/f20/language/he) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/he.po | 
+ | [hu](/f20/language/hu) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/hu.po | 
+ | [id](/f20/language/id) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/id.po | 
+ | [it](/f20/language/it) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/it.po | 
+ | [ja](/f20/language/ja) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ja.po | 
+ | [ko](/f20/language/ko) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ko.po | 
+ | [lt](/f20/language/lt) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/lt.po | 
+ | [lv](/f20/language/lv) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/lv.po | 
+ | [nb_NO](/f20/language/nb_NO) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/nb.po | 
+ | [nl](/f20/language/nl) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/nl.po | 
+ | [pa](/f20/language/pa) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pa.po | 
+ | [pl](/f20/language/pl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pl.po | 
+ | [pt](/f20/language/pt) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pt.po | 
+ | [pt_BR](/f20/language/pt_BR) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/ru.po | 
+ | [sk](/f20/language/sk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/sk.po | 
+ | [sl](/f20/language/sl) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/sl.po | 
+ | [sr](/f20/language/sr) | 406 | 406 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/sr.po/mnt/stockage/packages/f20/bijiben/po/sr@latin.po | 
+ | [tg](/f20/language/tg) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/tg.po | 
+ | [tr](/f20/language/tr) | 200 | 200 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/tr.po | 
+ | [uk](/f20/language/uk) | 203 | 203 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/uk.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 173 | 173 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/zh_CN.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 406 | 406 | 100.0 | /mnt/stockage/packages/f20/bijiben/po/zh_HK.po/mnt/stockage/packages/f20/bijiben/po/zh_TW.po | 
+ | [fi](/f20/language/fi) | 195 | 203 | 96.1 | /mnt/stockage/packages/f20/bijiben/po/fi.po | 
+ | [fur](/f20/language/fur) | 156 | 179 | 87.2 | /mnt/stockage/packages/f20/bijiben/po/fur.po | 
+ | [ml](/f20/language/ml) | 173 | 200 | 86.5 | /mnt/stockage/packages/f20/bijiben/po/ml.po | 
 {.sortable}
 
 

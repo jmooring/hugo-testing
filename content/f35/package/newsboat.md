@@ -18,24 +18,24 @@ The package newsboat (version 2.29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/de.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/es.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/it.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/pl.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/ru.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/uk.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1969 | 1975 | 99.7 | /mnt/stockage/packages/f35/newsboat/po/fr.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1241 | 1975 | 62.8 | /mnt/stockage/packages/f35/newsboat/po/sv.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1202 | 1975 | 60.9 | /mnt/stockage/packages/f35/newsboat/po/pt_BR.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1169 | 1975 | 59.2 | /mnt/stockage/packages/f35/newsboat/po/sk.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 992 | 1975 | 50.2 | /mnt/stockage/packages/f35/newsboat/po/ca.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 985 | 1975 | 49.9 | /mnt/stockage/packages/f35/newsboat/po/nb.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 971 | 1975 | 49.2 | /mnt/stockage/packages/f35/newsboat/po/hu.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 959 | 1975 | 48.6 | /mnt/stockage/packages/f35/newsboat/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 696 | 1975 | 35.2 | /mnt/stockage/packages/f35/newsboat/po/zh.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 194 | 1975 | 9.8 | /mnt/stockage/packages/f35/newsboat/po/ja.po | 
+ | [de](/f35/language/de) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/de.po | 
+ | [es](/f35/language/es) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/es.po | 
+ | [it](/f35/language/it) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/it.po | 
+ | [nl](/f35/language/nl) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/nl.po | 
+ | [pl](/f35/language/pl) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/pl.po | 
+ | [ru](/f35/language/ru) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/ru.po | 
+ | [tr](/f35/language/tr) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/tr.po | 
+ | [uk](/f35/language/uk) | 1975 | 1975 | 100.0 | /mnt/stockage/packages/f35/newsboat/po/uk.po | 
+ | [fr](/f35/language/fr) | 1969 | 1975 | 99.7 | /mnt/stockage/packages/f35/newsboat/po/fr.po | 
+ | [sv](/f35/language/sv) | 1241 | 1975 | 62.8 | /mnt/stockage/packages/f35/newsboat/po/sv.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1202 | 1975 | 60.9 | /mnt/stockage/packages/f35/newsboat/po/pt_BR.po | 
+ | [sk](/f35/language/sk) | 1169 | 1975 | 59.2 | /mnt/stockage/packages/f35/newsboat/po/sk.po | 
+ | [ca](/f35/language/ca) | 992 | 1975 | 50.2 | /mnt/stockage/packages/f35/newsboat/po/ca.po | 
+ | [nb_NO](/f35/language/nb_NO) | 985 | 1975 | 49.9 | /mnt/stockage/packages/f35/newsboat/po/nb.po | 
+ | [hu](/f35/language/hu) | 971 | 1975 | 49.2 | /mnt/stockage/packages/f35/newsboat/po/hu.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 959 | 1975 | 48.6 | /mnt/stockage/packages/f35/newsboat/po/zh_TW.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 696 | 1975 | 35.2 | /mnt/stockage/packages/f35/newsboat/po/zh.po | 
+ | [ja](/f35/language/ja) | 194 | 1975 | 9.8 | /mnt/stockage/packages/f35/newsboat/po/ja.po | 
 {.sortable}
 
 

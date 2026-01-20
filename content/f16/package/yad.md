@@ -18,11 +18,11 @@ The package yad (version 0.16.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f16/yad/po/ru.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f16/yad/po/uk.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1068 | 1149 | 93.0 | /mnt/stockage/packages/f16/yad/po/fr.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 1022 | 1149 | 88.9 | /mnt/stockage/packages/f16/yad/po/sk.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 396 | 1149 | 34.5 | /mnt/stockage/packages/f16/yad/po/de.po | 
+ | [ru](/f16/language/ru) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f16/yad/po/ru.po | 
+ | [uk](/f16/language/uk) | 1149 | 1149 | 100.0 | /mnt/stockage/packages/f16/yad/po/uk.po | 
+ | [fr](/f16/language/fr) | 1068 | 1149 | 93.0 | /mnt/stockage/packages/f16/yad/po/fr.po | 
+ | [sk](/f16/language/sk) | 1022 | 1149 | 88.9 | /mnt/stockage/packages/f16/yad/po/sk.po | 
+ | [de](/f16/language/de) | 396 | 1149 | 34.5 | /mnt/stockage/packages/f16/yad/po/de.po | 
 {.sortable}
 
 

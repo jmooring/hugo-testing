@@ -18,13 +18,13 @@ The package ddccontrol (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/cs.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/fr.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/pl.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 1327 | 1559 | 85.1 | /mnt/stockage/packages/f38/ddccontrol/po/ru.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 1153 | 1547 | 74.5 | /mnt/stockage/packages/f38/ddccontrol/po/zh_CN.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 22 | 1547 | 1.4 | /mnt/stockage/packages/f38/ddccontrol/po/de.po | 
+ | [cs](/f38/language/cs) | 1576 | 1576 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/cs.po | 
+ | [es](/f38/language/es) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/es.po | 
+ | [fr](/f38/language/fr) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/fr.po | 
+ | [pl](/f38/language/pl) | 1547 | 1547 | 100.0 | /mnt/stockage/packages/f38/ddccontrol/po/pl.po | 
+ | [ru](/f38/language/ru) | 1327 | 1559 | 85.1 | /mnt/stockage/packages/f38/ddccontrol/po/ru.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 1153 | 1547 | 74.5 | /mnt/stockage/packages/f38/ddccontrol/po/zh_CN.po | 
+ | [de](/f38/language/de) | 22 | 1547 | 1.4 | /mnt/stockage/packages/f38/ddccontrol/po/de.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f22/package/gnome-menus.md" >}}) | 95 | 103 | 92.2 | Silesian <szl@li.org> | 
- | [mc]({{< ref "/f22/package/mc.md" >}}) | 0 | 4053 | 0.0 | Silesian (http://www.transifex.com/projects/p/mc/language/szl/) | 
- | [tanglet]({{< ref "/f22/package/tanglet.md" >}}) | 0 | 125 | 0.0 | Silesian (http://www.transifex.com/projects/p/tanglet/language/szl/) | 
+ | [gnome-menus](/f22/package/gnome-menus) | 95 | 103 | 92.2 | Silesian <szl@li.org> | 
+ | [mc](/f22/package/mc) | 0 | 4053 | 0.0 | Silesian (http://www.transifex.com/projects/p/mc/language/szl/) | 
+ | [tanglet](/f22/package/tanglet) | 0 | 125 | 0.0 | Silesian (http://www.transifex.com/projects/p/tanglet/language/szl/) | 
 {.sortable}
 
 

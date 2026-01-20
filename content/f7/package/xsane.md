@@ -18,28 +18,28 @@ The package xsane (version 0.994):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 3217 | 3222 | 99.8 | /mnt/stockage/packages/f7/xsane/backend-po/umax.de.po/mnt/stockage/packages/f7/xsane/po/de.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 2831 | 3222 | 87.9 | /mnt/stockage/packages/f7/xsane/po/ca.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 2831 | 3222 | 87.9 | /mnt/stockage/packages/f7/xsane/po/it.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/cs.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/da.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/hu.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/ru.po | 
- | [sl]({{< ref "/f7/language/sl.md" >}}) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/sl.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 2778 | 3222 | 86.2 | /mnt/stockage/packages/f7/xsane/po/nl.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 2778 | 3222 | 86.2 | /mnt/stockage/packages/f7/xsane/po/tr.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2776 | 3222 | 86.2 | /mnt/stockage/packages/f7/xsane/po/pl.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 2453 | 3222 | 76.1 | /mnt/stockage/packages/f7/xsane/po/sk.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/po/es.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/backend-po/umax.ja.po/mnt/stockage/packages/f7/xsane/po/ja.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/po/ro.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/po/vi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 2419 | 3222 | 75.1 | /mnt/stockage/packages/f7/xsane/po/fr.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 2418 | 3222 | 75.0 | /mnt/stockage/packages/f7/xsane/po/pt.po | 
- | [pt_BR]({{< ref "/f7/language/pt_BR.md" >}}) | 2418 | 3222 | 75.0 | /mnt/stockage/packages/f7/xsane/po/pt_BR.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 2299 | 3222 | 71.4 | /mnt/stockage/packages/f7/xsane/po/sv.po | 
- | [sr]({{< ref "/f7/language/sr.md" >}}) | 2429 | 3911 | 62.1 | /mnt/stockage/packages/f7/xsane/backend-po/umax1220u.sr.po/mnt/stockage/packages/f7/xsane/po/sr.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 2608 | 6444 | 40.5 | /mnt/stockage/packages/f7/xsane/po/zh_CN.po/mnt/stockage/packages/f7/xsane/po/zh.po | 
+ | [de](/f7/language/de) | 3217 | 3222 | 99.8 | /mnt/stockage/packages/f7/xsane/backend-po/umax.de.po/mnt/stockage/packages/f7/xsane/po/de.po | 
+ | [ca](/f7/language/ca) | 2831 | 3222 | 87.9 | /mnt/stockage/packages/f7/xsane/po/ca.po | 
+ | [it](/f7/language/it) | 2831 | 3222 | 87.9 | /mnt/stockage/packages/f7/xsane/po/it.po | 
+ | [cs](/f7/language/cs) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/cs.po | 
+ | [da](/f7/language/da) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/da.po | 
+ | [hu](/f7/language/hu) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/hu.po | 
+ | [ru](/f7/language/ru) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/ru.po | 
+ | [sl](/f7/language/sl) | 2811 | 3222 | 87.2 | /mnt/stockage/packages/f7/xsane/po/sl.po | 
+ | [nl](/f7/language/nl) | 2778 | 3222 | 86.2 | /mnt/stockage/packages/f7/xsane/po/nl.po | 
+ | [tr](/f7/language/tr) | 2778 | 3222 | 86.2 | /mnt/stockage/packages/f7/xsane/po/tr.po | 
+ | [pl](/f7/language/pl) | 2776 | 3222 | 86.2 | /mnt/stockage/packages/f7/xsane/po/pl.po | 
+ | [sk](/f7/language/sk) | 2453 | 3222 | 76.1 | /mnt/stockage/packages/f7/xsane/po/sk.po | 
+ | [es](/f7/language/es) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/po/es.po | 
+ | [ja](/f7/language/ja) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/backend-po/umax.ja.po/mnt/stockage/packages/f7/xsane/po/ja.po | 
+ | [ro](/f7/language/ro) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/po/ro.po | 
+ | [vi](/f7/language/vi) | 2447 | 3222 | 75.9 | /mnt/stockage/packages/f7/xsane/po/vi.po | 
+ | [fr](/f7/language/fr) | 2419 | 3222 | 75.1 | /mnt/stockage/packages/f7/xsane/po/fr.po | 
+ | [pt](/f7/language/pt) | 2418 | 3222 | 75.0 | /mnt/stockage/packages/f7/xsane/po/pt.po | 
+ | [pt_BR](/f7/language/pt_BR) | 2418 | 3222 | 75.0 | /mnt/stockage/packages/f7/xsane/po/pt_BR.po | 
+ | [sv](/f7/language/sv) | 2299 | 3222 | 71.4 | /mnt/stockage/packages/f7/xsane/po/sv.po | 
+ | [sr](/f7/language/sr) | 2429 | 3911 | 62.1 | /mnt/stockage/packages/f7/xsane/backend-po/umax1220u.sr.po/mnt/stockage/packages/f7/xsane/po/sr.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 2608 | 6444 | 40.5 | /mnt/stockage/packages/f7/xsane/po/zh_CN.po/mnt/stockage/packages/f7/xsane/po/zh.po | 
 {.sortable}
 
 

@@ -18,44 +18,44 @@ The package mingw-gstreamer (version 0.10.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/bg.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/cs.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/gl.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/id.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/pl.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ru.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sl.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/uk.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ca.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/da.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/el.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/fi.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/hu.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/it.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/pt_BR.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sv.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 1875 | 1917 | 97.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sk.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 1829 | 1917 | 95.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/lt.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 1829 | 1917 | 95.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/vi.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 1828 | 1917 | 95.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ro.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 1697 | 1917 | 88.5 | /mnt/stockage/packages/f32/mingw-gstreamer/po/eu.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1603 | 1917 | 83.6 | /mnt/stockage/packages/f32/mingw-gstreamer/po/zh_CN.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 863 | 1917 | 45.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/af.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 697 | 1917 | 36.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sq.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 685 | 1917 | 35.7 | /mnt/stockage/packages/f32/mingw-gstreamer/po/en_GB.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 685 | 1917 | 35.7 | /mnt/stockage/packages/f32/mingw-gstreamer/po/tr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 646 | 1917 | 33.7 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ja.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 480 | 1917 | 25.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/nb.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 405 | 1917 | 21.1 | /mnt/stockage/packages/f32/mingw-gstreamer/po/zh_TW.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 190 | 1917 | 9.9 | /mnt/stockage/packages/f32/mingw-gstreamer/po/be.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 168 | 1917 | 8.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/eo.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 43 | 1917 | 2.2 | /mnt/stockage/packages/f32/mingw-gstreamer/po/az.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 5 | 1917 | 0.3 | /mnt/stockage/packages/f32/mingw-gstreamer/po/rw.po | 
+ | [bg](/f32/language/bg) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/bg.po | 
+ | [cs](/f32/language/cs) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/cs.po | 
+ | [de](/f32/language/de) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/de.po | 
+ | [es](/f32/language/es) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/es.po | 
+ | [fr](/f32/language/fr) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/fr.po | 
+ | [gl](/f32/language/gl) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/gl.po | 
+ | [id](/f32/language/id) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/id.po | 
+ | [nl](/f32/language/nl) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/nl.po | 
+ | [pl](/f32/language/pl) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/pl.po | 
+ | [ru](/f32/language/ru) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ru.po | 
+ | [sl](/f32/language/sl) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sl.po | 
+ | [sr](/f32/language/sr) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sr.po | 
+ | [uk](/f32/language/uk) | 1914 | 1917 | 99.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/uk.po | 
+ | [ca](/f32/language/ca) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ca.po | 
+ | [da](/f32/language/da) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/da.po | 
+ | [el](/f32/language/el) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/el.po | 
+ | [fi](/f32/language/fi) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/fi.po | 
+ | [hu](/f32/language/hu) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/hu.po | 
+ | [it](/f32/language/it) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/it.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/pt_BR.po | 
+ | [sv](/f32/language/sv) | 1898 | 1917 | 99.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sv.po | 
+ | [sk](/f32/language/sk) | 1875 | 1917 | 97.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sk.po | 
+ | [lt](/f32/language/lt) | 1829 | 1917 | 95.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/lt.po | 
+ | [vi](/f32/language/vi) | 1829 | 1917 | 95.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/vi.po | 
+ | [ro](/f32/language/ro) | 1828 | 1917 | 95.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ro.po | 
+ | [eu](/f32/language/eu) | 1697 | 1917 | 88.5 | /mnt/stockage/packages/f32/mingw-gstreamer/po/eu.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1603 | 1917 | 83.6 | /mnt/stockage/packages/f32/mingw-gstreamer/po/zh_CN.po | 
+ | [af](/f32/language/af) | 863 | 1917 | 45.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/af.po | 
+ | [sq](/f32/language/sq) | 697 | 1917 | 36.4 | /mnt/stockage/packages/f32/mingw-gstreamer/po/sq.po | 
+ | [en_GB](/f32/language/en_GB) | 685 | 1917 | 35.7 | /mnt/stockage/packages/f32/mingw-gstreamer/po/en_GB.po | 
+ | [tr](/f32/language/tr) | 685 | 1917 | 35.7 | /mnt/stockage/packages/f32/mingw-gstreamer/po/tr.po | 
+ | [ja](/f32/language/ja) | 646 | 1917 | 33.7 | /mnt/stockage/packages/f32/mingw-gstreamer/po/ja.po | 
+ | [nb_NO](/f32/language/nb_NO) | 480 | 1917 | 25.0 | /mnt/stockage/packages/f32/mingw-gstreamer/po/nb.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 405 | 1917 | 21.1 | /mnt/stockage/packages/f32/mingw-gstreamer/po/zh_TW.po | 
+ | [be](/f32/language/be) | 190 | 1917 | 9.9 | /mnt/stockage/packages/f32/mingw-gstreamer/po/be.po | 
+ | [eo](/f32/language/eo) | 168 | 1917 | 8.8 | /mnt/stockage/packages/f32/mingw-gstreamer/po/eo.po | 
+ | [az](/f32/language/az) | 43 | 1917 | 2.2 | /mnt/stockage/packages/f32/mingw-gstreamer/po/az.po | 
+ | [rw](/f32/language/rw) | 5 | 1917 | 0.3 | /mnt/stockage/packages/f32/mingw-gstreamer/po/rw.po | 
 {.sortable}
 
 

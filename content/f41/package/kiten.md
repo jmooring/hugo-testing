@@ -18,75 +18,75 @@ The package kiten (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ca/kiten.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ca@valencia/kiten.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/es/kiten.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/eu/kiten.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/fr/kiten.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/gl/kiten.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/he/kiten.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/hu/kiten.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/it/kiten.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ka/kiten.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ko/kiten.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/lv/kiten.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/nl/kiten.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/nn/kiten.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/pl/kiten.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ru/kiten.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/sl/kiten.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/sv/kiten.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/tr/kiten.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/uk/kiten.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/zh_TW/kiten.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/en_GB/kiten.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/eo/kiten.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/fi/kiten.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/pt_BR/kiten.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/sa/kiten.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/zh_CN/kiten.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 616 | 651 | 94.6 | /mnt/stockage/packages/f41/kiten/po/sk/kiten.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 614 | 651 | 94.3 | /mnt/stockage/packages/f41/kiten/po/el/kiten.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 612 | 651 | 94.0 | /mnt/stockage/packages/f41/kiten/po/da/kiten.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 612 | 651 | 94.0 | /mnt/stockage/packages/f41/kiten/po/de/kiten.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 612 | 651 | 94.0 | /mnt/stockage/packages/f41/kiten/po/pt/kiten.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/bs/kiten.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/et/kiten.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/kk/kiten.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/km/kiten.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/nb/kiten.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/nds/kiten.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 439 | 651 | 67.4 | /mnt/stockage/packages/f41/kiten/po/cs/kiten.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 399 | 651 | 61.3 | /mnt/stockage/packages/f41/kiten/po/ga/kiten.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 343 | 651 | 52.7 | /mnt/stockage/packages/f41/kiten/po/lt/kiten.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 286 | 651 | 43.9 | /mnt/stockage/packages/f41/kiten/po/ja/kiten.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 278 | 651 | 42.7 | /mnt/stockage/packages/f41/kiten/po/ro/kiten.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 276 | 651 | 42.4 | /mnt/stockage/packages/f41/kiten/po/bg/kiten.po | 
- | [hne]({{< ref "/f41/language/hne.md" >}}) | 261 | 651 | 40.1 | /mnt/stockage/packages/f41/kiten/po/hne/kiten.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 245 | 651 | 37.6 | /mnt/stockage/packages/f41/kiten/po/ne/kiten.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 220 | 651 | 33.8 | /mnt/stockage/packages/f41/kiten/po/hi/kiten.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 205 | 651 | 31.5 | /mnt/stockage/packages/f41/kiten/po/ia/kiten.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 160 | 651 | 24.6 | /mnt/stockage/packages/f41/kiten/po/fa/kiten.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 96 | 651 | 14.7 | /mnt/stockage/packages/f41/kiten/po/ta/kiten.po | 
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 89 | 651 | 13.7 | /mnt/stockage/packages/f41/kiten/po/ar/kiten.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 87 | 651 | 13.4 | /mnt/stockage/packages/f41/kiten/po/is/kiten.po | 
- | [xh]({{< ref "/f41/language/xh.md" >}}) | 82 | 651 | 12.6 | /mnt/stockage/packages/f41/kiten/po/xh/kiten.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 75 | 651 | 11.5 | /mnt/stockage/packages/f41/kiten/po/mk/kiten.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 68 | 651 | 10.4 | /mnt/stockage/packages/f41/kiten/po/ug/kiten.po | 
- | [tg]({{< ref "/f41/language/tg.md" >}}) | 63 | 651 | 9.7 | /mnt/stockage/packages/f41/kiten/po/tg/kiten.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 58 | 651 | 8.9 | /mnt/stockage/packages/f41/kiten/po/sq/kiten.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 46 | 651 | 7.1 | /mnt/stockage/packages/f41/kiten/po/br/kiten.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 32 | 651 | 4.9 | /mnt/stockage/packages/f41/kiten/po/ms/kiten.po | 
- | [af]({{< ref "/f41/language/af.md" >}}) | 26 | 651 | 4.0 | /mnt/stockage/packages/f41/kiten/po/af/kiten.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 25 | 651 | 3.8 | /mnt/stockage/packages/f41/kiten/po/mr/kiten.po | 
- | [oc]({{< ref "/f41/language/oc.md" >}}) | 25 | 651 | 3.8 | /mnt/stockage/packages/f41/kiten/po/oc/kiten.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 19 | 651 | 2.9 | /mnt/stockage/packages/f41/kiten/po/be/kiten.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 15 | 651 | 2.3 | /mnt/stockage/packages/f41/kiten/po/hr/kiten.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 14 | 651 | 2.2 | /mnt/stockage/packages/f41/kiten/po/cy/kiten.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 6 | 651 | 0.9 | /mnt/stockage/packages/f41/kiten/po/ast/kiten.po | 
- | [ml]({{< ref "/f41/language/ml.md" >}}) | 5 | 651 | 0.8 | /mnt/stockage/packages/f41/kiten/po/ml/kiten.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 3 | 651 | 0.5 | /mnt/stockage/packages/f41/kiten/po/se/kiten.po | 
- | [si]({{< ref "/f41/language/si.md" >}}) | 1 | 651 | 0.2 | /mnt/stockage/packages/f41/kiten/po/si/kiten.po | 
+ | [ca](/f41/language/ca) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ca/kiten.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ca@valencia/kiten.po | 
+ | [es](/f41/language/es) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/es/kiten.po | 
+ | [eu](/f41/language/eu) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/eu/kiten.po | 
+ | [fr](/f41/language/fr) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/fr/kiten.po | 
+ | [gl](/f41/language/gl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/gl/kiten.po | 
+ | [he](/f41/language/he) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/he/kiten.po | 
+ | [hu](/f41/language/hu) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/hu/kiten.po | 
+ | [it](/f41/language/it) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/it/kiten.po | 
+ | [ka](/f41/language/ka) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ka/kiten.po | 
+ | [ko](/f41/language/ko) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ko/kiten.po | 
+ | [lv](/f41/language/lv) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/lv/kiten.po | 
+ | [nl](/f41/language/nl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/nl/kiten.po | 
+ | [nn](/f41/language/nn) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/nn/kiten.po | 
+ | [pl](/f41/language/pl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/pl/kiten.po | 
+ | [ru](/f41/language/ru) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/ru/kiten.po | 
+ | [sl](/f41/language/sl) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/sl/kiten.po | 
+ | [sv](/f41/language/sv) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/sv/kiten.po | 
+ | [tr](/f41/language/tr) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/tr/kiten.po | 
+ | [uk](/f41/language/uk) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/uk/kiten.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 651 | 651 | 100.0 | /mnt/stockage/packages/f41/kiten/po/zh_TW/kiten.po | 
+ | [en_GB](/f41/language/en_GB) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/en_GB/kiten.po | 
+ | [eo](/f41/language/eo) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/eo/kiten.po | 
+ | [fi](/f41/language/fi) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/fi/kiten.po | 
+ | [pt_BR](/f41/language/pt_BR) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/pt_BR/kiten.po | 
+ | [sa](/f41/language/sa) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/sa/kiten.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 632 | 651 | 97.1 | /mnt/stockage/packages/f41/kiten/po/zh_CN/kiten.po | 
+ | [sk](/f41/language/sk) | 616 | 651 | 94.6 | /mnt/stockage/packages/f41/kiten/po/sk/kiten.po | 
+ | [el](/f41/language/el) | 614 | 651 | 94.3 | /mnt/stockage/packages/f41/kiten/po/el/kiten.po | 
+ | [da](/f41/language/da) | 612 | 651 | 94.0 | /mnt/stockage/packages/f41/kiten/po/da/kiten.po | 
+ | [de](/f41/language/de) | 612 | 651 | 94.0 | /mnt/stockage/packages/f41/kiten/po/de/kiten.po | 
+ | [pt](/f41/language/pt) | 612 | 651 | 94.0 | /mnt/stockage/packages/f41/kiten/po/pt/kiten.po | 
+ | [bs](/f41/language/bs) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/bs/kiten.po | 
+ | [et](/f41/language/et) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/et/kiten.po | 
+ | [kk](/f41/language/kk) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/kk/kiten.po | 
+ | [km](/f41/language/km) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/km/kiten.po | 
+ | [nb_NO](/f41/language/nb_NO) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/nb/kiten.po | 
+ | [nds](/f41/language/nds) | 538 | 651 | 82.6 | /mnt/stockage/packages/f41/kiten/po/nds/kiten.po | 
+ | [cs](/f41/language/cs) | 439 | 651 | 67.4 | /mnt/stockage/packages/f41/kiten/po/cs/kiten.po | 
+ | [ga](/f41/language/ga) | 399 | 651 | 61.3 | /mnt/stockage/packages/f41/kiten/po/ga/kiten.po | 
+ | [lt](/f41/language/lt) | 343 | 651 | 52.7 | /mnt/stockage/packages/f41/kiten/po/lt/kiten.po | 
+ | [ja](/f41/language/ja) | 286 | 651 | 43.9 | /mnt/stockage/packages/f41/kiten/po/ja/kiten.po | 
+ | [ro](/f41/language/ro) | 278 | 651 | 42.7 | /mnt/stockage/packages/f41/kiten/po/ro/kiten.po | 
+ | [bg](/f41/language/bg) | 276 | 651 | 42.4 | /mnt/stockage/packages/f41/kiten/po/bg/kiten.po | 
+ | [hne](/f41/language/hne) | 261 | 651 | 40.1 | /mnt/stockage/packages/f41/kiten/po/hne/kiten.po | 
+ | [ne](/f41/language/ne) | 245 | 651 | 37.6 | /mnt/stockage/packages/f41/kiten/po/ne/kiten.po | 
+ | [hi](/f41/language/hi) | 220 | 651 | 33.8 | /mnt/stockage/packages/f41/kiten/po/hi/kiten.po | 
+ | [ia](/f41/language/ia) | 205 | 651 | 31.5 | /mnt/stockage/packages/f41/kiten/po/ia/kiten.po | 
+ | [fa](/f41/language/fa) | 160 | 651 | 24.6 | /mnt/stockage/packages/f41/kiten/po/fa/kiten.po | 
+ | [ta](/f41/language/ta) | 96 | 651 | 14.7 | /mnt/stockage/packages/f41/kiten/po/ta/kiten.po | 
+ | [ar](/f41/language/ar) | 89 | 651 | 13.7 | /mnt/stockage/packages/f41/kiten/po/ar/kiten.po | 
+ | [is](/f41/language/is) | 87 | 651 | 13.4 | /mnt/stockage/packages/f41/kiten/po/is/kiten.po | 
+ | [xh](/f41/language/xh) | 82 | 651 | 12.6 | /mnt/stockage/packages/f41/kiten/po/xh/kiten.po | 
+ | [mk](/f41/language/mk) | 75 | 651 | 11.5 | /mnt/stockage/packages/f41/kiten/po/mk/kiten.po | 
+ | [ug](/f41/language/ug) | 68 | 651 | 10.4 | /mnt/stockage/packages/f41/kiten/po/ug/kiten.po | 
+ | [tg](/f41/language/tg) | 63 | 651 | 9.7 | /mnt/stockage/packages/f41/kiten/po/tg/kiten.po | 
+ | [sq](/f41/language/sq) | 58 | 651 | 8.9 | /mnt/stockage/packages/f41/kiten/po/sq/kiten.po | 
+ | [br](/f41/language/br) | 46 | 651 | 7.1 | /mnt/stockage/packages/f41/kiten/po/br/kiten.po | 
+ | [ms](/f41/language/ms) | 32 | 651 | 4.9 | /mnt/stockage/packages/f41/kiten/po/ms/kiten.po | 
+ | [af](/f41/language/af) | 26 | 651 | 4.0 | /mnt/stockage/packages/f41/kiten/po/af/kiten.po | 
+ | [mr](/f41/language/mr) | 25 | 651 | 3.8 | /mnt/stockage/packages/f41/kiten/po/mr/kiten.po | 
+ | [oc](/f41/language/oc) | 25 | 651 | 3.8 | /mnt/stockage/packages/f41/kiten/po/oc/kiten.po | 
+ | [be](/f41/language/be) | 19 | 651 | 2.9 | /mnt/stockage/packages/f41/kiten/po/be/kiten.po | 
+ | [hr](/f41/language/hr) | 15 | 651 | 2.3 | /mnt/stockage/packages/f41/kiten/po/hr/kiten.po | 
+ | [cy](/f41/language/cy) | 14 | 651 | 2.2 | /mnt/stockage/packages/f41/kiten/po/cy/kiten.po | 
+ | [ast](/f41/language/ast) | 6 | 651 | 0.9 | /mnt/stockage/packages/f41/kiten/po/ast/kiten.po | 
+ | [ml](/f41/language/ml) | 5 | 651 | 0.8 | /mnt/stockage/packages/f41/kiten/po/ml/kiten.po | 
+ | [se](/f41/language/se) | 3 | 651 | 0.5 | /mnt/stockage/packages/f41/kiten/po/se/kiten.po | 
+ | [si](/f41/language/si) | 1 | 651 | 0.2 | /mnt/stockage/packages/f41/kiten/po/si/kiten.po | 
 {.sortable}
 
 

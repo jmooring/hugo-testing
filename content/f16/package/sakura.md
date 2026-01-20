@@ -18,20 +18,20 @@ The package sakura (version 2.4.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f16/language/es.md" >}}) | 164 | 164 | 100.0 | /mnt/stockage/packages/f16/sakura/po/es.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 164 | 164 | 100.0 | /mnt/stockage/packages/f16/sakura/po/ja.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 164 | 164 | 100.0 | /mnt/stockage/packages/f16/sakura/po/ru.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 149 | 164 | 90.9 | /mnt/stockage/packages/f16/sakura/po/cs.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 149 | 164 | 90.9 | /mnt/stockage/packages/f16/sakura/po/de.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 147 | 164 | 89.6 | /mnt/stockage/packages/f16/sakura/po/zh_CN.po | 
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/ca.po | 
- | [hr]({{< ref "/f16/language/hr.md" >}}) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/hr.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/it.po | 
- | [ko]({{< ref "/f16/language/ko.md" >}}) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/ko.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/pl.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 137 | 164 | 83.5 | /mnt/stockage/packages/f16/sakura/po/fr.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 81 | 164 | 49.4 | /mnt/stockage/packages/f16/sakura/po/pt_BR.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 34 | 164 | 20.7 | /mnt/stockage/packages/f16/sakura/po/hu.po | 
+ | [es](/f16/language/es) | 164 | 164 | 100.0 | /mnt/stockage/packages/f16/sakura/po/es.po | 
+ | [ja](/f16/language/ja) | 164 | 164 | 100.0 | /mnt/stockage/packages/f16/sakura/po/ja.po | 
+ | [ru](/f16/language/ru) | 164 | 164 | 100.0 | /mnt/stockage/packages/f16/sakura/po/ru.po | 
+ | [cs](/f16/language/cs) | 149 | 164 | 90.9 | /mnt/stockage/packages/f16/sakura/po/cs.po | 
+ | [de](/f16/language/de) | 149 | 164 | 90.9 | /mnt/stockage/packages/f16/sakura/po/de.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 147 | 164 | 89.6 | /mnt/stockage/packages/f16/sakura/po/zh_CN.po | 
+ | [ca](/f16/language/ca) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/ca.po | 
+ | [hr](/f16/language/hr) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/hr.po | 
+ | [it](/f16/language/it) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/it.po | 
+ | [ko](/f16/language/ko) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/ko.po | 
+ | [pl](/f16/language/pl) | 143 | 164 | 87.2 | /mnt/stockage/packages/f16/sakura/po/pl.po | 
+ | [fr](/f16/language/fr) | 137 | 164 | 83.5 | /mnt/stockage/packages/f16/sakura/po/fr.po | 
+ | [pt_BR](/f16/language/pt_BR) | 81 | 164 | 49.4 | /mnt/stockage/packages/f16/sakura/po/pt_BR.po | 
+ | [hu](/f16/language/hu) | 34 | 164 | 20.7 | /mnt/stockage/packages/f16/sakura/po/hu.po | 
 {.sortable}
 
 

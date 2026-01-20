@@ -18,10 +18,10 @@ The package vdr-tvguide (version 1.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 952 | 954 | 99.8 | /mnt/stockage/packages/f24/vdr-tvguide/po/de_DE.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 584 | 954 | 61.2 | /mnt/stockage/packages/f24/vdr-tvguide/po/ca_ES.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 584 | 954 | 61.2 | /mnt/stockage/packages/f24/vdr-tvguide/po/ru_RU.po | 
- | [sk]({{< ref "/f24/language/sk.md" >}}) | 584 | 954 | 61.2 | /mnt/stockage/packages/f24/vdr-tvguide/po/sk_SK.po | 
+ | [de](/f24/language/de) | 952 | 954 | 99.8 | /mnt/stockage/packages/f24/vdr-tvguide/po/de_DE.po | 
+ | [ca](/f24/language/ca) | 584 | 954 | 61.2 | /mnt/stockage/packages/f24/vdr-tvguide/po/ca_ES.po | 
+ | [ru](/f24/language/ru) | 584 | 954 | 61.2 | /mnt/stockage/packages/f24/vdr-tvguide/po/ru_RU.po | 
+ | [sk](/f24/language/sk) | 584 | 954 | 61.2 | /mnt/stockage/packages/f24/vdr-tvguide/po/sk_SK.po | 
 {.sortable}
 
 

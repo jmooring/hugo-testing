@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-write]({{< ref "/f42/package/sugar-write.md" >}}) | 20 | 121 | 16.5 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f42/package/sugar-chat.md" >}}) | 1 | 55 | 1.8 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f42/package/sugar-read.md" >}}) | 1 | 114 | 0.9 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f42/package/sugar-calculator.md" >}}) | 1 | 871 | 0.1 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f42/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f42/package/sugar-terminal.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f42/package/sugar-turtleart.md" >}}) | 0 | 1459 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f42/package/sugar-write) | 20 | 121 | 16.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f42/package/sugar-chat) | 1 | 55 | 1.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f42/package/sugar-read) | 1 | 114 | 0.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f42/package/sugar-calculator) | 1 | 871 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f42/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f42/package/sugar-terminal) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f42/package/sugar-turtleart) | 0 | 1459 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package googsystray (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f15/language/it.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/it.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/ru.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/zh_TW.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 552 | 556 | 99.3 | /mnt/stockage/packages/f15/googsystray/googsystray/po/de.po | 
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 552 | 556 | 99.3 | /mnt/stockage/packages/f15/googsystray/googsystray/po/nl.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 542 | 556 | 97.5 | /mnt/stockage/packages/f15/googsystray/googsystray/po/es.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 516 | 556 | 92.8 | /mnt/stockage/packages/f15/googsystray/googsystray/po/ja.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 483 | 556 | 86.9 | /mnt/stockage/packages/f15/googsystray/googsystray/po/fr.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 3 | 556 | 0.5 | /mnt/stockage/packages/f15/googsystray/googsystray/po/hu.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 0 | 556 | 0.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/pt.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 0 | 556 | 0.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/tr.po | 
+ | [it](/f15/language/it) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/it.po | 
+ | [ru](/f15/language/ru) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/ru.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 556 | 556 | 100.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/zh_TW.po | 
+ | [de](/f15/language/de) | 552 | 556 | 99.3 | /mnt/stockage/packages/f15/googsystray/googsystray/po/de.po | 
+ | [nl](/f15/language/nl) | 552 | 556 | 99.3 | /mnt/stockage/packages/f15/googsystray/googsystray/po/nl.po | 
+ | [es](/f15/language/es) | 542 | 556 | 97.5 | /mnt/stockage/packages/f15/googsystray/googsystray/po/es.po | 
+ | [ja](/f15/language/ja) | 516 | 556 | 92.8 | /mnt/stockage/packages/f15/googsystray/googsystray/po/ja.po | 
+ | [fr](/f15/language/fr) | 483 | 556 | 86.9 | /mnt/stockage/packages/f15/googsystray/googsystray/po/fr.po | 
+ | [hu](/f15/language/hu) | 3 | 556 | 0.5 | /mnt/stockage/packages/f15/googsystray/googsystray/po/hu.po | 
+ | [pt](/f15/language/pt) | 0 | 556 | 0.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/pt.po | 
+ | [tr](/f15/language/tr) | 0 | 556 | 0.0 | /mnt/stockage/packages/f15/googsystray/googsystray/po/tr.po | 
 {.sortable}
 
 

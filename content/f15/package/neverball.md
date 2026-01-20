@@ -18,15 +18,15 @@ The package neverball (version 1.5.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 2580 | 2671 | 96.6 | /mnt/stockage/packages/f15/neverball/po/pt_BR.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 2566 | 2671 | 96.1 | /mnt/stockage/packages/f15/neverball/po/es.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 2564 | 2671 | 96.0 | /mnt/stockage/packages/f15/neverball/po/de.po | 
- | [nn]({{< ref "/f15/language/nn.md" >}}) | 2538 | 2671 | 95.0 | /mnt/stockage/packages/f15/neverball/po/nn.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 2512 | 2671 | 94.0 | /mnt/stockage/packages/f15/neverball/po/fr.po | 
- | [fi]({{< ref "/f15/language/fi.md" >}}) | 655 | 2671 | 24.5 | /mnt/stockage/packages/f15/neverball/po/fi.po | 
- | [ca]({{< ref "/f15/language/ca.md" >}}) | 617 | 2671 | 23.1 | /mnt/stockage/packages/f15/neverball/po/ca.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 493 | 2671 | 18.5 | /mnt/stockage/packages/f15/neverball/po/zh_CN.po | 
- | [lv]({{< ref "/f15/language/lv.md" >}}) | 441 | 2671 | 16.5 | /mnt/stockage/packages/f15/neverball/po/lv.po | 
+ | [pt_BR](/f15/language/pt_BR) | 2580 | 2671 | 96.6 | /mnt/stockage/packages/f15/neverball/po/pt_BR.po | 
+ | [es](/f15/language/es) | 2566 | 2671 | 96.1 | /mnt/stockage/packages/f15/neverball/po/es.po | 
+ | [de](/f15/language/de) | 2564 | 2671 | 96.0 | /mnt/stockage/packages/f15/neverball/po/de.po | 
+ | [nn](/f15/language/nn) | 2538 | 2671 | 95.0 | /mnt/stockage/packages/f15/neverball/po/nn.po | 
+ | [fr](/f15/language/fr) | 2512 | 2671 | 94.0 | /mnt/stockage/packages/f15/neverball/po/fr.po | 
+ | [fi](/f15/language/fi) | 655 | 2671 | 24.5 | /mnt/stockage/packages/f15/neverball/po/fi.po | 
+ | [ca](/f15/language/ca) | 617 | 2671 | 23.1 | /mnt/stockage/packages/f15/neverball/po/ca.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 493 | 2671 | 18.5 | /mnt/stockage/packages/f15/neverball/po/zh_CN.po | 
+ | [lv](/f15/language/lv) | 441 | 2671 | 16.5 | /mnt/stockage/packages/f15/neverball/po/lv.po | 
 {.sortable}
 
 

@@ -18,9 +18,9 @@ The package python-oslo-utils (version 3.40.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f31/language/de.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f31/python-oslo-utils/oslo_utils/locale/de/LC_MESSAGES/oslo_utils.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f31/python-oslo-utils/oslo_utils/locale/en_GB/LC_MESSAGES/oslo_utils.po/mnt/stockage/packages/f31/python-oslo-utils/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 70 | 70 | 100.0 | /mnt/stockage/packages/f31/python-oslo-utils/oslo_utils/locale/fr/LC_MESSAGES/oslo_utils.po | 
+ | [de](/f31/language/de) | 70 | 70 | 100.0 | /mnt/stockage/packages/f31/python-oslo-utils/oslo_utils/locale/de/LC_MESSAGES/oslo_utils.po | 
+ | [en_GB](/f31/language/en_GB) | 152 | 152 | 100.0 | /mnt/stockage/packages/f31/python-oslo-utils/oslo_utils/locale/en_GB/LC_MESSAGES/oslo_utils.po/mnt/stockage/packages/f31/python-oslo-utils/releasenotes/source/locale/en_GB/LC_MESSAGES/releasenotes.po | 
+ | [fr](/f31/language/fr) | 70 | 70 | 100.0 | /mnt/stockage/packages/f31/python-oslo-utils/oslo_utils/locale/fr/LC_MESSAGES/oslo_utils.po | 
 {.sortable}
 
 

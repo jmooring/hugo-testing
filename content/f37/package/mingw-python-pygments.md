@@ -18,7 +18,7 @@ The package mingw-python-pygments (version 2.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 3442 | 3442 | 100.0 | /mnt/stockage/packages/f37/mingw-python-pygments/tests/examplefiles/pot/de.MoinMoin.po | 
+ | [de](/f37/language/de) | 3442 | 3442 | 100.0 | /mnt/stockage/packages/f37/mingw-python-pygments/tests/examplefiles/pot/de.MoinMoin.po | 
 {.sortable}
 
 

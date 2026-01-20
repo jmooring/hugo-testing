@@ -18,10 +18,10 @@ The package rmlint (version 2.10.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f42/language/de.md" >}}) | 1017 | 1266 | 80.3 | /mnt/stockage/packages/f42/rmlint/po/de.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 963 | 1431 | 67.3 | /mnt/stockage/packages/f42/rmlint/po/fr.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 837 | 1266 | 66.1 | /mnt/stockage/packages/f42/rmlint/po/es.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 86 | 1431 | 6.0 | /mnt/stockage/packages/f42/rmlint/po/ru.po | 
+ | [de](/f42/language/de) | 1017 | 1266 | 80.3 | /mnt/stockage/packages/f42/rmlint/po/de.po | 
+ | [fr](/f42/language/fr) | 963 | 1431 | 67.3 | /mnt/stockage/packages/f42/rmlint/po/fr.po | 
+ | [es](/f42/language/es) | 837 | 1266 | 66.1 | /mnt/stockage/packages/f42/rmlint/po/es.po | 
+ | [ru](/f42/language/ru) | 86 | 1431 | 6.0 | /mnt/stockage/packages/f42/rmlint/po/ru.po | 
 {.sortable}
 
 

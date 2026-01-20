@@ -38,16 +38,16 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [dopewars]({{< ref "/f19/package/dopewars.md" >}}) | 5286 | 5286 | 100.0 | French | 
- | [scratch]({{< ref "/f19/package/scratch.md" >}}) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
- | [soundconverter]({{< ref "/f19/package/soundconverter.md" >}}) | 459 | 462 | 99.4 | French (Canada) <fr_CA@li.org> | 
- | [cinnamon-translations]({{< ref "/f19/package/cinnamon-translations.md" >}}) | 2382 | 11146 | 21.4 | French (Canada) <fr_CA@li.org> | 
- | [picard]({{< ref "/f19/package/picard.md" >}}) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
- | [supertuxkart]({{< ref "/f19/package/supertuxkart.md" >}}) | 67 | 2112 | 3.2 |  | 
- | [calibre]({{< ref "/f19/package/calibre.md" >}}) | 646 | 51101 | 1.3 | French (Canada) <fr_CA@li.org> | 
- | [openerp7]({{< ref "/f19/package/openerp7.md" >}}) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
- | [owncloud]({{< ref "/f19/package/owncloud.md" >}}) | 0 | 7225 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/owncloud/language/fr_CA/) | 
- | [pidgin-sipe]({{< ref "/f19/package/pidgin-sipe.md" >}}) | 0 | 892 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/pidgin-sipe/language/fr_CA/) | 
+ | [dopewars](/f19/package/dopewars) | 5286 | 5286 | 100.0 | French | 
+ | [scratch](/f19/package/scratch) | 1467 | 1470 | 99.8 | LANGUAGE <LL@li.org> | 
+ | [soundconverter](/f19/package/soundconverter) | 459 | 462 | 99.4 | French (Canada) <fr_CA@li.org> | 
+ | [cinnamon-translations](/f19/package/cinnamon-translations) | 2382 | 11146 | 21.4 | French (Canada) <fr_CA@li.org> | 
+ | [picard](/f19/package/picard) | 157 | 1681 | 9.3 | French (Canada) (http://www.transifex.com/projects/p/musicbrainz/language/fr_CA/) | 
+ | [supertuxkart](/f19/package/supertuxkart) | 67 | 2112 | 3.2 |  | 
+ | [calibre](/f19/package/calibre) | 646 | 51101 | 1.3 | French (Canada) <fr_CA@li.org> | 
+ | [openerp7](/f19/package/openerp7) | 19 | 22614 | 0.1 | French (Canada) <fr_CA@li.org> | 
+ | [owncloud](/f19/package/owncloud) | 0 | 7225 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/owncloud/language/fr_CA/) | 
+ | [pidgin-sipe](/f19/package/pidgin-sipe) | 0 | 892 | 0.0 | French (Canada) (http://www.transifex.com/projects/p/pidgin-sipe/language/fr_CA/) | 
 {.sortable}
 
 

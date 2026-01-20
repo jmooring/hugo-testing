@@ -18,53 +18,53 @@ The package playonlinux (version 4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f39/language/nl.md" >}}) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/nl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/pt.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 2721 | 2728 | 99.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/de.po | 
- | [bg]({{< ref "/f39/language/bg.md" >}}) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/bg.po | 
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/cs.po | 
- | [en_GB]({{< ref "/f39/language/en_GB.md" >}}) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/en_GB.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 2482 | 2728 | 91.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/sv.po | 
- | [ms]({{< ref "/f39/language/ms.md" >}}) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/ms.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/pl.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/es.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/zh_CN.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 2430 | 2728 | 89.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/uk.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 2372 | 2728 | 87.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/it.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 2312 | 2728 | 84.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/ru.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 2238 | 2728 | 82.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/pt_BR.po | 
- | [fi]({{< ref "/f39/language/fi.md" >}}) | 2194 | 2728 | 80.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/fi.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 2054 | 2728 | 75.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/ro.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 2034 | 2728 | 74.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/fr.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 1949 | 2728 | 71.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/sk.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1816 | 2728 | 66.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/zh_TW.po | 
- | [sr]({{< ref "/f39/language/sr.md" >}}) | 1566 | 2728 | 57.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/sr.po | 
- | [hr]({{< ref "/f39/language/hr.md" >}}) | 1537 | 2728 | 56.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/hr.po | 
- | [nb_NO]({{< ref "/f39/language/nb_NO.md" >}}) | 1235 | 2728 | 45.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/nb.po | 
- | [et]({{< ref "/f39/language/et.md" >}}) | 1116 | 2728 | 40.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/et.po | 
- | [he]({{< ref "/f39/language/he.md" >}}) | 965 | 2728 | 35.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/he.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 888 | 2728 | 32.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/ja.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 869 | 2728 | 31.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/tr.po | 
- | [da]({{< ref "/f39/language/da.md" >}}) | 633 | 2728 | 23.2 | /mnt/stockage/packages/f39/playonlinux/lang/po/da.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 589 | 2728 | 21.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/gl.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 449 | 2728 | 16.5 | /mnt/stockage/packages/f39/playonlinux/lang/po/lt.po | 
- | [ko]({{< ref "/f39/language/ko.md" >}}) | 448 | 2728 | 16.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/ko.po | 
- | [sr_Latn]({{< ref "/f39/language/sr_Latn.md" >}}) | 337 | 2728 | 12.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/sr@latin.po | 
- | [jv]({{< ref "/f39/language/jv.md" >}}) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/jv.po | 
- | [th]({{< ref "/f39/language/th.md" >}}) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/th.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 293 | 2728 | 10.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/id.po | 
- | [bn]({{< ref "/f39/language/bn.md" >}}) | 259 | 2728 | 9.5 | /mnt/stockage/packages/f39/playonlinux/lang/po/bn.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 223 | 2728 | 8.2 | /mnt/stockage/packages/f39/playonlinux/lang/po/el.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 191 | 2728 | 7.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/hu.po | 
- | [ast]({{< ref "/f39/language/ast.md" >}}) | 179 | 2728 | 6.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/ast.po | 
- | [sl]({{< ref "/f39/language/sl.md" >}}) | 131 | 2728 | 4.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/sl.po | 
- | [ar]({{< ref "/f39/language/ar.md" >}}) | 113 | 2728 | 4.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/ar.po | 
- | [oc]({{< ref "/f39/language/oc.md" >}}) | 89 | 2728 | 3.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/oc.po | 
- | [bs]({{< ref "/f39/language/bs.md" >}}) | 32 | 2728 | 1.2 | /mnt/stockage/packages/f39/playonlinux/lang/po/bs.po | 
- | [si]({{< ref "/f39/language/si.md" >}}) | 7 | 2728 | 0.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/si.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 3 | 2728 | 0.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/hi.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/ca.po | 
- | [te]({{< ref "/f39/language/te.md" >}}) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/te.po | 
+ | [nl](/f39/language/nl) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/nl.po | 
+ | [pt](/f39/language/pt) | 2728 | 2728 | 100.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/pt.po | 
+ | [de](/f39/language/de) | 2721 | 2728 | 99.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/de.po | 
+ | [bg](/f39/language/bg) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/bg.po | 
+ | [cs](/f39/language/cs) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/cs.po | 
+ | [en_GB](/f39/language/en_GB) | 2694 | 2728 | 98.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/en_GB.po | 
+ | [sv](/f39/language/sv) | 2482 | 2728 | 91.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/sv.po | 
+ | [ms](/f39/language/ms) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/ms.po | 
+ | [pl](/f39/language/pl) | 2459 | 2728 | 90.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/pl.po | 
+ | [es](/f39/language/es) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/es.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 2453 | 2728 | 89.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/zh_CN.po | 
+ | [uk](/f39/language/uk) | 2430 | 2728 | 89.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/uk.po | 
+ | [it](/f39/language/it) | 2372 | 2728 | 87.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/it.po | 
+ | [ru](/f39/language/ru) | 2312 | 2728 | 84.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/ru.po | 
+ | [pt_BR](/f39/language/pt_BR) | 2238 | 2728 | 82.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/pt_BR.po | 
+ | [fi](/f39/language/fi) | 2194 | 2728 | 80.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/fi.po | 
+ | [ro](/f39/language/ro) | 2054 | 2728 | 75.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/ro.po | 
+ | [fr](/f39/language/fr) | 2034 | 2728 | 74.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/fr.po | 
+ | [sk](/f39/language/sk) | 1949 | 2728 | 71.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/sk.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1816 | 2728 | 66.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/zh_TW.po | 
+ | [sr](/f39/language/sr) | 1566 | 2728 | 57.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/sr.po | 
+ | [hr](/f39/language/hr) | 1537 | 2728 | 56.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/hr.po | 
+ | [nb_NO](/f39/language/nb_NO) | 1235 | 2728 | 45.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/nb.po | 
+ | [et](/f39/language/et) | 1116 | 2728 | 40.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/et.po | 
+ | [he](/f39/language/he) | 965 | 2728 | 35.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/he.po | 
+ | [ja](/f39/language/ja) | 888 | 2728 | 32.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/ja.po | 
+ | [tr](/f39/language/tr) | 869 | 2728 | 31.9 | /mnt/stockage/packages/f39/playonlinux/lang/po/tr.po | 
+ | [da](/f39/language/da) | 633 | 2728 | 23.2 | /mnt/stockage/packages/f39/playonlinux/lang/po/da.po | 
+ | [gl](/f39/language/gl) | 589 | 2728 | 21.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/gl.po | 
+ | [lt](/f39/language/lt) | 449 | 2728 | 16.5 | /mnt/stockage/packages/f39/playonlinux/lang/po/lt.po | 
+ | [ko](/f39/language/ko) | 448 | 2728 | 16.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/ko.po | 
+ | [sr_Latn](/f39/language/sr_Latn) | 337 | 2728 | 12.4 | /mnt/stockage/packages/f39/playonlinux/lang/po/sr@latin.po | 
+ | [jv](/f39/language/jv) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/jv.po | 
+ | [th](/f39/language/th) | 320 | 2728 | 11.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/th.po | 
+ | [id](/f39/language/id) | 293 | 2728 | 10.7 | /mnt/stockage/packages/f39/playonlinux/lang/po/id.po | 
+ | [bn](/f39/language/bn) | 259 | 2728 | 9.5 | /mnt/stockage/packages/f39/playonlinux/lang/po/bn.po | 
+ | [el](/f39/language/el) | 223 | 2728 | 8.2 | /mnt/stockage/packages/f39/playonlinux/lang/po/el.po | 
+ | [hu](/f39/language/hu) | 191 | 2728 | 7.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/hu.po | 
+ | [ast](/f39/language/ast) | 179 | 2728 | 6.6 | /mnt/stockage/packages/f39/playonlinux/lang/po/ast.po | 
+ | [sl](/f39/language/sl) | 131 | 2728 | 4.8 | /mnt/stockage/packages/f39/playonlinux/lang/po/sl.po | 
+ | [ar](/f39/language/ar) | 113 | 2728 | 4.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/ar.po | 
+ | [oc](/f39/language/oc) | 89 | 2728 | 3.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/oc.po | 
+ | [bs](/f39/language/bs) | 32 | 2728 | 1.2 | /mnt/stockage/packages/f39/playonlinux/lang/po/bs.po | 
+ | [si](/f39/language/si) | 7 | 2728 | 0.3 | /mnt/stockage/packages/f39/playonlinux/lang/po/si.po | 
+ | [hi](/f39/language/hi) | 3 | 2728 | 0.1 | /mnt/stockage/packages/f39/playonlinux/lang/po/hi.po | 
+ | [ca](/f39/language/ca) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/ca.po | 
+ | [te](/f39/language/te) | 0 | 2728 | 0.0 | /mnt/stockage/packages/f39/playonlinux/lang/po/te.po | 
 {.sortable}
 
 

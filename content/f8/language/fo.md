@@ -39,11 +39,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tuxpaint]({{< ref "/f8/package/tuxpaint.md" >}}) | 587 | 591 | 99.3 | Faroese <morshus@morshus.com> | 
- | [squirrelmail]({{< ref "/f8/package/squirrelmail.md" >}}) | 7735 | 7899 | 97.9 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
- | [gwenview]({{< ref "/f8/package/gwenview.md" >}}) | 44 | 1321 | 3.3 | føroyskt <cvsuser@flug.fo> | 
- | [iso-codes]({{< ref "/f8/package/iso-codes.md" >}}) | 151 | 12174 | 1.2 | Faroese | 
- | [apcupsd]({{< ref "/f8/package/apcupsd.md" >}}) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [tuxpaint](/f8/package/tuxpaint) | 587 | 591 | 99.3 | Faroese <morshus@morshus.com> | 
+ | [squirrelmail](/f8/package/squirrelmail) | 7735 | 7899 | 97.9 | Faroese <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [gwenview](/f8/package/gwenview) | 44 | 1321 | 3.3 | føroyskt <cvsuser@flug.fo> | 
+ | [iso-codes](/f8/package/iso-codes) | 151 | 12174 | 1.2 | Faroese | 
+ | [apcupsd](/f8/package/apcupsd) | 0 | 647 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

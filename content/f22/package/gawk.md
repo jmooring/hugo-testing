@@ -18,19 +18,19 @@ The package gawk (version 4.1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/ca.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/fi.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/fr.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/it.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/nl.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/sv.po | 
- | [vi]({{< ref "/f22/language/vi.md" >}}) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/vi.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 3886 | 4574 | 85.0 | /mnt/stockage/packages/f22/gawk/po/pl.po | 
- | [da]({{< ref "/f22/language/da.md" >}}) | 2511 | 4574 | 54.9 | /mnt/stockage/packages/f22/gawk/po/da.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 2511 | 4574 | 54.9 | /mnt/stockage/packages/f22/gawk/po/de.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 2511 | 4574 | 54.9 | /mnt/stockage/packages/f22/gawk/po/es.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 2500 | 4574 | 54.7 | /mnt/stockage/packages/f22/gawk/po/ja.po | 
- | [ms]({{< ref "/f22/language/ms.md" >}}) | 43 | 4574 | 0.9 | /mnt/stockage/packages/f22/gawk/po/ms.po | 
+ | [ca](/f22/language/ca) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/ca.po | 
+ | [fi](/f22/language/fi) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/fi.po | 
+ | [fr](/f22/language/fr) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/fr.po | 
+ | [it](/f22/language/it) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/it.po | 
+ | [nl](/f22/language/nl) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/nl.po | 
+ | [sv](/f22/language/sv) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/sv.po | 
+ | [vi](/f22/language/vi) | 4574 | 4574 | 100.0 | /mnt/stockage/packages/f22/gawk/po/vi.po | 
+ | [pl](/f22/language/pl) | 3886 | 4574 | 85.0 | /mnt/stockage/packages/f22/gawk/po/pl.po | 
+ | [da](/f22/language/da) | 2511 | 4574 | 54.9 | /mnt/stockage/packages/f22/gawk/po/da.po | 
+ | [de](/f22/language/de) | 2511 | 4574 | 54.9 | /mnt/stockage/packages/f22/gawk/po/de.po | 
+ | [es](/f22/language/es) | 2511 | 4574 | 54.9 | /mnt/stockage/packages/f22/gawk/po/es.po | 
+ | [ja](/f22/language/ja) | 2500 | 4574 | 54.7 | /mnt/stockage/packages/f22/gawk/po/ja.po | 
+ | [ms](/f22/language/ms) | 43 | 4574 | 0.9 | /mnt/stockage/packages/f22/gawk/po/ms.po | 
 {.sortable}
 
 

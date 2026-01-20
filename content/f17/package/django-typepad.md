@@ -18,8 +18,8 @@ The package django-typepad (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 74 | 74 | 100.0 | /mnt/stockage/packages/f17/django-typepad/typepadapp/conf/locale/fr/LC_MESSAGES/django.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 0 | 74 | 0.0 | /mnt/stockage/packages/f17/django-typepad/typepadapp/conf/locale/en/LC_MESSAGES/django.po | 
+ | [fr](/f17/language/fr) | 74 | 74 | 100.0 | /mnt/stockage/packages/f17/django-typepad/typepadapp/conf/locale/fr/LC_MESSAGES/django.po | 
+ | [en](/f17/language/en) | 0 | 74 | 0.0 | /mnt/stockage/packages/f17/django-typepad/typepadapp/conf/locale/en/LC_MESSAGES/django.po | 
 {.sortable}
 
 

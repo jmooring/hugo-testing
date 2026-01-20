@@ -18,51 +18,51 @@ The package akonadi-import-wizard (version 22.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ar/akonadiimportwizard.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/az/akonadiimportwizard.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/bg/akonadiimportwizard.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ca/akonadiimportwizard.po | 
- | [ca@valencia]({{< ref "/f36/language/ca@valencia.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ca@valencia/akonadiimportwizard.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/da/akonadiimportwizard.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/de/akonadiimportwizard.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/en_GB/akonadiimportwizard.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/es/akonadiimportwizard.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/eu/akonadiimportwizard.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/fi/akonadiimportwizard.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/fr/akonadiimportwizard.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/hu/akonadiimportwizard.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ia/akonadiimportwizard.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/it/akonadiimportwizard.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ka/akonadiimportwizard.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ko/akonadiimportwizard.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nl/akonadiimportwizard.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nn/akonadiimportwizard.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/pl/akonadiimportwizard.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/pt/akonadiimportwizard.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/pt_BR/akonadiimportwizard.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ru/akonadiimportwizard.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/sk/akonadiimportwizard.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/sl/akonadiimportwizard.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/sv/akonadiimportwizard.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/tr/akonadiimportwizard.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/uk/akonadiimportwizard.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/zh_CN/akonadiimportwizard.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 390 | 394 | 99.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/el/akonadiimportwizard.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 390 | 394 | 99.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/et/akonadiimportwizard.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 390 | 394 | 99.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/zh_TW/akonadiimportwizard.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 384 | 394 | 97.5 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/gl/akonadiimportwizard.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 285 | 394 | 72.3 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/cs/akonadiimportwizard.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 260 | 394 | 66.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nb/akonadiimportwizard.po | 
- | [nds]({{< ref "/f36/language/nds.md" >}}) | 252 | 394 | 64.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nds/akonadiimportwizard.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 240 | 394 | 60.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/bs/akonadiimportwizard.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 240 | 394 | 60.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/kk/akonadiimportwizard.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 240 | 394 | 60.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/lt/akonadiimportwizard.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 232 | 394 | 58.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ro/akonadiimportwizard.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 220 | 394 | 55.8 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/km/akonadiimportwizard.po | 
- | [ga]({{< ref "/f36/language/ga.md" >}}) | 42 | 394 | 10.7 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ga/akonadiimportwizard.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 38 | 394 | 9.6 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ug/akonadiimportwizard.po | 
- | [mr]({{< ref "/f36/language/mr.md" >}}) | 31 | 394 | 7.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/mr/akonadiimportwizard.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 0 | 394 | 0.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ja/akonadiimportwizard.po | 
+ | [ar](/f36/language/ar) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ar/akonadiimportwizard.po | 
+ | [az](/f36/language/az) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/az/akonadiimportwizard.po | 
+ | [bg](/f36/language/bg) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/bg/akonadiimportwizard.po | 
+ | [ca](/f36/language/ca) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ca/akonadiimportwizard.po | 
+ | [ca@valencia](/f36/language/ca@valencia) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ca@valencia/akonadiimportwizard.po | 
+ | [da](/f36/language/da) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/da/akonadiimportwizard.po | 
+ | [de](/f36/language/de) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/de/akonadiimportwizard.po | 
+ | [en_GB](/f36/language/en_GB) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/en_GB/akonadiimportwizard.po | 
+ | [es](/f36/language/es) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/es/akonadiimportwizard.po | 
+ | [eu](/f36/language/eu) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/eu/akonadiimportwizard.po | 
+ | [fi](/f36/language/fi) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/fi/akonadiimportwizard.po | 
+ | [fr](/f36/language/fr) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/fr/akonadiimportwizard.po | 
+ | [hu](/f36/language/hu) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/hu/akonadiimportwizard.po | 
+ | [ia](/f36/language/ia) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ia/akonadiimportwizard.po | 
+ | [it](/f36/language/it) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/it/akonadiimportwizard.po | 
+ | [ka](/f36/language/ka) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ka/akonadiimportwizard.po | 
+ | [ko](/f36/language/ko) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ko/akonadiimportwizard.po | 
+ | [nl](/f36/language/nl) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nl/akonadiimportwizard.po | 
+ | [nn](/f36/language/nn) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nn/akonadiimportwizard.po | 
+ | [pl](/f36/language/pl) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/pl/akonadiimportwizard.po | 
+ | [pt](/f36/language/pt) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/pt/akonadiimportwizard.po | 
+ | [pt_BR](/f36/language/pt_BR) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/pt_BR/akonadiimportwizard.po | 
+ | [ru](/f36/language/ru) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ru/akonadiimportwizard.po | 
+ | [sk](/f36/language/sk) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/sk/akonadiimportwizard.po | 
+ | [sl](/f36/language/sl) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/sl/akonadiimportwizard.po | 
+ | [sv](/f36/language/sv) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/sv/akonadiimportwizard.po | 
+ | [tr](/f36/language/tr) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/tr/akonadiimportwizard.po | 
+ | [uk](/f36/language/uk) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/uk/akonadiimportwizard.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 394 | 394 | 100.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/zh_CN/akonadiimportwizard.po | 
+ | [el](/f36/language/el) | 390 | 394 | 99.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/el/akonadiimportwizard.po | 
+ | [et](/f36/language/et) | 390 | 394 | 99.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/et/akonadiimportwizard.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 390 | 394 | 99.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/zh_TW/akonadiimportwizard.po | 
+ | [gl](/f36/language/gl) | 384 | 394 | 97.5 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/gl/akonadiimportwizard.po | 
+ | [cs](/f36/language/cs) | 285 | 394 | 72.3 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/cs/akonadiimportwizard.po | 
+ | [nb_NO](/f36/language/nb_NO) | 260 | 394 | 66.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nb/akonadiimportwizard.po | 
+ | [nds](/f36/language/nds) | 252 | 394 | 64.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/nds/akonadiimportwizard.po | 
+ | [bs](/f36/language/bs) | 240 | 394 | 60.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/bs/akonadiimportwizard.po | 
+ | [kk](/f36/language/kk) | 240 | 394 | 60.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/kk/akonadiimportwizard.po | 
+ | [lt](/f36/language/lt) | 240 | 394 | 60.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/lt/akonadiimportwizard.po | 
+ | [ro](/f36/language/ro) | 232 | 394 | 58.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ro/akonadiimportwizard.po | 
+ | [km](/f36/language/km) | 220 | 394 | 55.8 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/km/akonadiimportwizard.po | 
+ | [ga](/f36/language/ga) | 42 | 394 | 10.7 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ga/akonadiimportwizard.po | 
+ | [ug](/f36/language/ug) | 38 | 394 | 9.6 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ug/akonadiimportwizard.po | 
+ | [mr](/f36/language/mr) | 31 | 394 | 7.9 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/mr/akonadiimportwizard.po | 
+ | [ja](/f36/language/ja) | 0 | 394 | 0.0 | /mnt/stockage/packages/f36/akonadi-import-wizard/po/ja/akonadiimportwizard.po | 
 {.sortable}
 
 

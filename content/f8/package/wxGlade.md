@@ -18,10 +18,10 @@ The package wxGlade (version 0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f8/language/it.md" >}}) | 197 | 284 | 69.4 | /mnt/stockage/packages/f8/wxGlade/po/it.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f8/wxGlade/po/de.po | 
- | [en]({{< ref "/f8/language/en.md" >}}) | 0 | 284 | 0.0 | /mnt/stockage/packages/f8/wxGlade/po/en.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f8/wxGlade/po/fr.po | 
+ | [it](/f8/language/it) | 197 | 284 | 69.4 | /mnt/stockage/packages/f8/wxGlade/po/it.po | 
+ | [de](/f8/language/de) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f8/wxGlade/po/de.po | 
+ | [en](/f8/language/en) | 0 | 284 | 0.0 | /mnt/stockage/packages/f8/wxGlade/po/en.po | 
+ | [fr](/f8/language/fr) | 0 | 1406 | 0.0 | /mnt/stockage/packages/f8/wxGlade/po/fr.po | 
 {.sortable}
 
 

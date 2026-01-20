@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-applets]({{< ref "/f11/package/gnome-applets.md" >}}) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
- | [libgweather]({{< ref "/f11/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [python-kiwi]({{< ref "/f11/package/python-kiwi.md" >}}) | 209 | 228 | 91.7 | Español/Chile <es@li.org> | 
- | [liblicense]({{< ref "/f11/package/liblicense.md" >}}) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [gnome-applets](/f11/package/gnome-applets) | 3858 | 3858 | 100.0 | Spanish <traductores@es.gnome.org> | 
+ | [libgweather](/f11/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [python-kiwi](/f11/package/python-kiwi) | 209 | 228 | 91.7 | Español/Chile <es@li.org> | 
+ | [liblicense](/f11/package/liblicense) | 44 | 66 | 66.7 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

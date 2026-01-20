@@ -18,10 +18,10 @@ The package quilt (version 0.66):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/de.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/fr.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/ja.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/ru.po | 
+ | [de](/f33/language/de) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/de.po | 
+ | [fr](/f33/language/fr) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/fr.po | 
+ | [ja](/f33/language/ja) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/ja.po | 
+ | [ru](/f33/language/ru) | 3613 | 3613 | 100.0 | /mnt/stockage/packages/f33/quilt/po/ru.po | 
 {.sortable}
 
 

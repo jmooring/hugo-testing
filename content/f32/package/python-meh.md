@@ -18,115 +18,115 @@ The package python-meh (version 0.48):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f32/language/be.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/be.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/da.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/de.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/es.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/fr.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/id.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/ja.po | 
- | [km]({{< ref "/f32/language/km.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/km.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/ko.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/pl.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/pt_BR.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sk.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sq.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sr.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sv.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/uk.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 83 | 109 | 76.1 | /mnt/stockage/packages/f32/python-meh/po/af.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 83 | 109 | 76.1 | /mnt/stockage/packages/f32/python-meh/po/ar.po | 
- | [ia]({{< ref "/f32/language/ia.md" >}}) | 83 | 109 | 76.1 | /mnt/stockage/packages/f32/python-meh/po/ia.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 65 | 109 | 59.6 | /mnt/stockage/packages/f32/python-meh/po/it.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 109 | 218 | 50.0 | /mnt/stockage/packages/f32/python-meh/po/ru_RU.po/mnt/stockage/packages/f32/python-meh/po/ru.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 109 | 218 | 50.0 | /mnt/stockage/packages/f32/python-meh/po/zh_CN.GB2312.po/mnt/stockage/packages/f32/python-meh/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 109 | 218 | 50.0 | /mnt/stockage/packages/f32/python-meh/po/zh_TW.Big5.po/mnt/stockage/packages/f32/python-meh/po/zh_TW.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 23 | 109 | 21.1 | /mnt/stockage/packages/f32/python-meh/po/bg.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 13 | 109 | 11.9 | /mnt/stockage/packages/f32/python-meh/po/eu.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 2 | 109 | 1.8 | /mnt/stockage/packages/f32/python-meh/po/bn.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/as.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/ast.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/bn_IN.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/bs.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/el.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/gu.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/hi.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/kn.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/lv.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/ml.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/mr.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/nds.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/or.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/pa.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/pt.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/sr@latin.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/ta.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/te.po | 
- | [ach]({{< ref "/f32/language/ach.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ach.po | 
- | [aln]({{< ref "/f32/language/aln.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/aln.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/am.po | 
- | [anp]({{< ref "/f32/language/anp.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/anp.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/az.po | 
- | [bal]({{< ref "/f32/language/bal.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/bal.po | 
- | [bo]({{< ref "/f32/language/bo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/bo.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/br.po | 
- | [brx]({{< ref "/f32/language/brx.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/brx.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/cy.po | 
- | [de_CH]({{< ref "/f32/language/de_CH.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/de_CH.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/dz.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/en_GB.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/en_US.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/eo.po | 
- | [error]({{< ref "/f32/language/error.md" >}}) | 0 | 327 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/kw@kkcor.po/mnt/stockage/packages/f32/python-meh/po/wba.po/mnt/stockage/packages/f32/python-meh/po/kw@uccor.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/et.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/fa.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ga.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/he.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/hr.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/hy.po | 
- | [ilo]({{< ref "/f32/language/ilo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ilo.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/is.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ka.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/kk.po | 
- | [ks]({{< ref "/f32/language/ks.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ks.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ku.po | 
- | [kw]({{< ref "/f32/language/kw.md" >}}) | 0 | 218 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/kw.po/mnt/stockage/packages/f32/python-meh/po/kw_GB.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ky.po | 
- | [la]({{< ref "/f32/language/la.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/la.po | 
- | [lo]({{< ref "/f32/language/lo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/lo.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/lt.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mai.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mg.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mk.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mn.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ms.po | 
- | [my]({{< ref "/f32/language/my.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/my.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 0 | 218 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/nb.po/mnt/stockage/packages/f32/python-meh/po/no.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ne.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/nn.po | 
- | [nso]({{< ref "/f32/language/nso.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/nso.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ro.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/si.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/sl.po | 
- | [tg]({{< ref "/f32/language/tg.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/tg.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/th.po | 
- | [tl]({{< ref "/f32/language/tl.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/tl.po | 
- | [tw]({{< ref "/f32/language/tw.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/tw.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ur.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/uz.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/vi.po | 
- | [wo]({{< ref "/f32/language/wo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/wo.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/xh.po | 
- | [yo]({{< ref "/f32/language/yo.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/zh_HK.po | 
- | [zu]({{< ref "/f32/language/zu.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/zu.po | 
+ | [be](/f32/language/be) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/be.po | 
+ | [ca](/f32/language/ca) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/ca.po | 
+ | [cs](/f32/language/cs) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/cs.po | 
+ | [da](/f32/language/da) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/da.po | 
+ | [de](/f32/language/de) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/de.po | 
+ | [es](/f32/language/es) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/es.po | 
+ | [fi](/f32/language/fi) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/fi.po | 
+ | [fr](/f32/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/fr.po | 
+ | [hu](/f32/language/hu) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/hu.po | 
+ | [id](/f32/language/id) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/id.po | 
+ | [ja](/f32/language/ja) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/ja.po | 
+ | [km](/f32/language/km) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/km.po | 
+ | [ko](/f32/language/ko) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/ko.po | 
+ | [nl](/f32/language/nl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/nl.po | 
+ | [pl](/f32/language/pl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/pl.po | 
+ | [pt_BR](/f32/language/pt_BR) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/pt_BR.po | 
+ | [sk](/f32/language/sk) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sk.po | 
+ | [sq](/f32/language/sq) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sq.po | 
+ | [sr](/f32/language/sr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sr.po | 
+ | [sv](/f32/language/sv) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/sv.po | 
+ | [tr](/f32/language/tr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/tr.po | 
+ | [uk](/f32/language/uk) | 109 | 109 | 100.0 | /mnt/stockage/packages/f32/python-meh/po/uk.po | 
+ | [af](/f32/language/af) | 83 | 109 | 76.1 | /mnt/stockage/packages/f32/python-meh/po/af.po | 
+ | [ar](/f32/language/ar) | 83 | 109 | 76.1 | /mnt/stockage/packages/f32/python-meh/po/ar.po | 
+ | [ia](/f32/language/ia) | 83 | 109 | 76.1 | /mnt/stockage/packages/f32/python-meh/po/ia.po | 
+ | [it](/f32/language/it) | 65 | 109 | 59.6 | /mnt/stockage/packages/f32/python-meh/po/it.po | 
+ | [ru](/f32/language/ru) | 109 | 218 | 50.0 | /mnt/stockage/packages/f32/python-meh/po/ru_RU.po/mnt/stockage/packages/f32/python-meh/po/ru.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 109 | 218 | 50.0 | /mnt/stockage/packages/f32/python-meh/po/zh_CN.GB2312.po/mnt/stockage/packages/f32/python-meh/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 109 | 218 | 50.0 | /mnt/stockage/packages/f32/python-meh/po/zh_TW.Big5.po/mnt/stockage/packages/f32/python-meh/po/zh_TW.po | 
+ | [bg](/f32/language/bg) | 23 | 109 | 21.1 | /mnt/stockage/packages/f32/python-meh/po/bg.po | 
+ | [eu](/f32/language/eu) | 13 | 109 | 11.9 | /mnt/stockage/packages/f32/python-meh/po/eu.po | 
+ | [bn](/f32/language/bn) | 2 | 109 | 1.8 | /mnt/stockage/packages/f32/python-meh/po/bn.po | 
+ | [as](/f32/language/as) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/as.po | 
+ | [ast](/f32/language/ast) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/ast.po | 
+ | [bn_IN](/f32/language/bn_IN) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/bn_IN.po | 
+ | [bs](/f32/language/bs) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/bs.po | 
+ | [el](/f32/language/el) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/el.po | 
+ | [gu](/f32/language/gu) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/gu.po | 
+ | [hi](/f32/language/hi) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/hi.po | 
+ | [kn](/f32/language/kn) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/kn.po | 
+ | [lv](/f32/language/lv) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/lv.po | 
+ | [ml](/f32/language/ml) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/ml.po | 
+ | [mr](/f32/language/mr) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/mr.po | 
+ | [nds](/f32/language/nds) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/nds.po | 
+ | [or](/f32/language/or) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/or.po | 
+ | [pa](/f32/language/pa) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/pa.po | 
+ | [pt](/f32/language/pt) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/pt.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/sr@latin.po | 
+ | [ta](/f32/language/ta) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/ta.po | 
+ | [te](/f32/language/te) | 1 | 109 | 0.9 | /mnt/stockage/packages/f32/python-meh/po/te.po | 
+ | [ach](/f32/language/ach) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ach.po | 
+ | [aln](/f32/language/aln) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/aln.po | 
+ | [am](/f32/language/am) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/am.po | 
+ | [anp](/f32/language/anp) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/anp.po | 
+ | [az](/f32/language/az) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/az.po | 
+ | [bal](/f32/language/bal) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/bal.po | 
+ | [bo](/f32/language/bo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/bo.po | 
+ | [br](/f32/language/br) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/br.po | 
+ | [brx](/f32/language/brx) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/brx.po | 
+ | [cy](/f32/language/cy) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/cy.po | 
+ | [de_CH](/f32/language/de_CH) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/de_CH.po | 
+ | [dz](/f32/language/dz) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/dz.po | 
+ | [en_GB](/f32/language/en_GB) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/en_GB.po | 
+ | [en_US](/f32/language/en_US) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/en_US.po | 
+ | [eo](/f32/language/eo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/eo.po | 
+ | [error](/f32/language/error) | 0 | 327 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/kw@kkcor.po/mnt/stockage/packages/f32/python-meh/po/wba.po/mnt/stockage/packages/f32/python-meh/po/kw@uccor.po | 
+ | [et](/f32/language/et) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/et.po | 
+ | [fa](/f32/language/fa) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/fa.po | 
+ | [ga](/f32/language/ga) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ga.po | 
+ | [gl](/f32/language/gl) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/gl.po | 
+ | [he](/f32/language/he) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/he.po | 
+ | [hr](/f32/language/hr) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/hr.po | 
+ | [hy](/f32/language/hy) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/hy.po | 
+ | [ilo](/f32/language/ilo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ilo.po | 
+ | [is](/f32/language/is) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/is.po | 
+ | [ka](/f32/language/ka) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ka.po | 
+ | [kk](/f32/language/kk) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/kk.po | 
+ | [ks](/f32/language/ks) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ks.po | 
+ | [ku](/f32/language/ku) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ku.po | 
+ | [kw](/f32/language/kw) | 0 | 218 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/kw.po/mnt/stockage/packages/f32/python-meh/po/kw_GB.po | 
+ | [ky](/f32/language/ky) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ky.po | 
+ | [la](/f32/language/la) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/la.po | 
+ | [lo](/f32/language/lo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/lo.po | 
+ | [lt](/f32/language/lt) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/lt.po | 
+ | [mai](/f32/language/mai) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mai.po | 
+ | [mg](/f32/language/mg) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mg.po | 
+ | [mk](/f32/language/mk) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mk.po | 
+ | [mn](/f32/language/mn) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/mn.po | 
+ | [ms](/f32/language/ms) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ms.po | 
+ | [my](/f32/language/my) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/my.po | 
+ | [nb_NO](/f32/language/nb_NO) | 0 | 218 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/nb.po/mnt/stockage/packages/f32/python-meh/po/no.po | 
+ | [ne](/f32/language/ne) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ne.po | 
+ | [nn](/f32/language/nn) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/nn.po | 
+ | [nso](/f32/language/nso) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/nso.po | 
+ | [ro](/f32/language/ro) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ro.po | 
+ | [si](/f32/language/si) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/si.po | 
+ | [sl](/f32/language/sl) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/sl.po | 
+ | [tg](/f32/language/tg) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/tg.po | 
+ | [th](/f32/language/th) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/th.po | 
+ | [tl](/f32/language/tl) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/tl.po | 
+ | [tw](/f32/language/tw) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/tw.po | 
+ | [ur](/f32/language/ur) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/ur.po | 
+ | [uz](/f32/language/uz) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/uz.po | 
+ | [vi](/f32/language/vi) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/vi.po | 
+ | [wo](/f32/language/wo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/wo.po | 
+ | [xh](/f32/language/xh) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/xh.po | 
+ | [yo](/f32/language/yo) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/yo.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/zh_HK.po | 
+ | [zu](/f32/language/zu) | 0 | 109 | 0.0 | /mnt/stockage/packages/f32/python-meh/po/zu.po | 
 {.sortable}
 
 

@@ -18,40 +18,40 @@ The package mousepad (version 0.2.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f8/language/be.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/be.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/cs.po | 
- | [cy]({{< ref "/f8/language/cy.md" >}}) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/cy.po | 
- | [de]({{< ref "/f8/language/de.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/de.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/fr.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/hu.po | 
- | [mk]({{< ref "/f8/language/mk.md" >}}) | 133 | 133 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/mk.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/pl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 134 | 135 | 99.3 | /mnt/stockage/packages/f8/mousepad/po/sv.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/ca.po | 
- | [el]({{< ref "/f8/language/el.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/el.po | 
- | [eu]({{< ref "/f8/language/eu.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/eu.po | 
- | [he]({{< ref "/f8/language/he.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/he.po | 
- | [ko]({{< ref "/f8/language/ko.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/ko.po | 
- | [lt]({{< ref "/f8/language/lt.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/lt.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/nl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/pt_BR.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/ru.po | 
- | [dz]({{< ref "/f8/language/dz.md" >}}) | 121 | 135 | 89.6 | /mnt/stockage/packages/f8/mousepad/po/dz.po | 
- | [eo]({{< ref "/f8/language/eo.md" >}}) | 121 | 135 | 89.6 | /mnt/stockage/packages/f8/mousepad/po/eo.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 121 | 135 | 89.6 | /mnt/stockage/packages/f8/mousepad/po/zh_TW.po | 
- | [et]({{< ref "/f8/language/et.md" >}}) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/et.po | 
- | [ja]({{< ref "/f8/language/ja.md" >}}) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/ja.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/sk.po | 
- | [uk]({{< ref "/f8/language/uk.md" >}}) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/uk.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/zh_CN.po | 
- | [gu]({{< ref "/f8/language/gu.md" >}}) | 113 | 135 | 83.7 | /mnt/stockage/packages/f8/mousepad/po/gu.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 111 | 135 | 82.2 | /mnt/stockage/packages/f8/mousepad/po/it.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 105 | 135 | 77.8 | /mnt/stockage/packages/f8/mousepad/po/es.po | 
- | [ta]({{< ref "/f8/language/ta.md" >}}) | 95 | 135 | 70.4 | /mnt/stockage/packages/f8/mousepad/po/ta.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 47 | 133 | 35.3 | /mnt/stockage/packages/f8/mousepad/po/pa.po | 
- | [gl]({{< ref "/f8/language/gl.md" >}}) | 37 | 135 | 27.4 | /mnt/stockage/packages/f8/mousepad/po/gl.po | 
- | [ka]({{< ref "/f8/language/ka.md" >}}) | 2 | 135 | 1.5 | /mnt/stockage/packages/f8/mousepad/po/ka.po | 
+ | [be](/f8/language/be) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/be.po | 
+ | [cs](/f8/language/cs) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/cs.po | 
+ | [cy](/f8/language/cy) | 121 | 121 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/cy.po | 
+ | [de](/f8/language/de) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/de.po | 
+ | [fi](/f8/language/fi) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/fi.po | 
+ | [fr](/f8/language/fr) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/fr.po | 
+ | [hu](/f8/language/hu) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/hu.po | 
+ | [mk](/f8/language/mk) | 133 | 133 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/mk.po | 
+ | [pl](/f8/language/pl) | 135 | 135 | 100.0 | /mnt/stockage/packages/f8/mousepad/po/pl.po | 
+ | [sv](/f8/language/sv) | 134 | 135 | 99.3 | /mnt/stockage/packages/f8/mousepad/po/sv.po | 
+ | [ca](/f8/language/ca) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/ca.po | 
+ | [el](/f8/language/el) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/el.po | 
+ | [eu](/f8/language/eu) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/eu.po | 
+ | [he](/f8/language/he) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/he.po | 
+ | [ko](/f8/language/ko) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/ko.po | 
+ | [lt](/f8/language/lt) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/lt.po | 
+ | [nl](/f8/language/nl) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/nl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/pt_BR.po | 
+ | [ru](/f8/language/ru) | 133 | 135 | 98.5 | /mnt/stockage/packages/f8/mousepad/po/ru.po | 
+ | [dz](/f8/language/dz) | 121 | 135 | 89.6 | /mnt/stockage/packages/f8/mousepad/po/dz.po | 
+ | [eo](/f8/language/eo) | 121 | 135 | 89.6 | /mnt/stockage/packages/f8/mousepad/po/eo.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 121 | 135 | 89.6 | /mnt/stockage/packages/f8/mousepad/po/zh_TW.po | 
+ | [et](/f8/language/et) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/et.po | 
+ | [ja](/f8/language/ja) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/ja.po | 
+ | [sk](/f8/language/sk) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/sk.po | 
+ | [uk](/f8/language/uk) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/uk.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 119 | 135 | 88.1 | /mnt/stockage/packages/f8/mousepad/po/zh_CN.po | 
+ | [gu](/f8/language/gu) | 113 | 135 | 83.7 | /mnt/stockage/packages/f8/mousepad/po/gu.po | 
+ | [it](/f8/language/it) | 111 | 135 | 82.2 | /mnt/stockage/packages/f8/mousepad/po/it.po | 
+ | [es](/f8/language/es) | 105 | 135 | 77.8 | /mnt/stockage/packages/f8/mousepad/po/es.po | 
+ | [ta](/f8/language/ta) | 95 | 135 | 70.4 | /mnt/stockage/packages/f8/mousepad/po/ta.po | 
+ | [pa](/f8/language/pa) | 47 | 133 | 35.3 | /mnt/stockage/packages/f8/mousepad/po/pa.po | 
+ | [gl](/f8/language/gl) | 37 | 135 | 27.4 | /mnt/stockage/packages/f8/mousepad/po/gl.po | 
+ | [ka](/f8/language/ka) | 2 | 135 | 1.5 | /mnt/stockage/packages/f8/mousepad/po/ka.po | 
 {.sortable}
 
 

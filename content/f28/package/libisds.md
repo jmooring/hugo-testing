@@ -18,7 +18,7 @@ The package libisds (version 0.10.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f28/language/cs.md" >}}) | 3137 | 3137 | 100.0 | /mnt/stockage/packages/f28/libisds/po/cs.po | 
+ | [cs](/f28/language/cs) | 3137 | 3137 | 100.0 | /mnt/stockage/packages/f28/libisds/po/cs.po | 
 {.sortable}
 
 

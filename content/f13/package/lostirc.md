@@ -18,8 +18,8 @@ The package lostirc (version 0.4.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f13/language/da.md" >}}) | 752 | 752 | 100.0 | /mnt/stockage/packages/f13/lostirc/po/da.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 620 | 752 | 82.4 | /mnt/stockage/packages/f13/lostirc/po/fr.po | 
+ | [da](/f13/language/da) | 752 | 752 | 100.0 | /mnt/stockage/packages/f13/lostirc/po/da.po | 
+ | [fr](/f13/language/fr) | 620 | 752 | 82.4 | /mnt/stockage/packages/f13/lostirc/po/fr.po | 
 {.sortable}
 
 

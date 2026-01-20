@@ -39,9 +39,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [openerp]({{< ref "/f17/package/openerp.md" >}}) | 3 | 23720 | 0.0 |  | 
- | [gscan2pdf]({{< ref "/f17/package/gscan2pdf.md" >}}) | 0 | 1548 | 0.0 | Abkhazian <ab@li.org> | 
- | [stellarium]({{< ref "/f17/package/stellarium.md" >}}) | 0 | 9286 | 0.0 | Abkhazian <ab@li.org> | 
+ | [openerp](/f17/package/openerp) | 3 | 23720 | 0.0 |  | 
+ | [gscan2pdf](/f17/package/gscan2pdf) | 0 | 1548 | 0.0 | Abkhazian <ab@li.org> | 
+ | [stellarium](/f17/package/stellarium) | 0 | 9286 | 0.0 | Abkhazian <ab@li.org> | 
 {.sortable}
 
 

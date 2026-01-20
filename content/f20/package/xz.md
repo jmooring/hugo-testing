@@ -18,11 +18,11 @@ The package xz (version 5.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f20/xz/po/fr.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f20/xz/po/pl.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1186 | 1241 | 95.6 | /mnt/stockage/packages/f20/xz/po/it.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1181 | 1241 | 95.2 | /mnt/stockage/packages/f20/xz/po/de.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 1130 | 1241 | 91.1 | /mnt/stockage/packages/f20/xz/po/cs.po | 
+ | [fr](/f20/language/fr) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f20/xz/po/fr.po | 
+ | [pl](/f20/language/pl) | 1201 | 1241 | 96.8 | /mnt/stockage/packages/f20/xz/po/pl.po | 
+ | [it](/f20/language/it) | 1186 | 1241 | 95.6 | /mnt/stockage/packages/f20/xz/po/it.po | 
+ | [de](/f20/language/de) | 1181 | 1241 | 95.2 | /mnt/stockage/packages/f20/xz/po/de.po | 
+ | [cs](/f20/language/cs) | 1130 | 1241 | 91.1 | /mnt/stockage/packages/f20/xz/po/cs.po | 
 {.sortable}
 
 

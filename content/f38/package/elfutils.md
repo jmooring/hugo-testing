@@ -18,12 +18,12 @@ The package elfutils (version 0.191):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f38/language/error.md" >}}) | 18496 | 18496 | 100.0 | /mnt/stockage/packages/f38/elfutils/po/en@quot.po/mnt/stockage/packages/f38/elfutils/po/en@boldquot.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 9048 | 9248 | 97.8 | /mnt/stockage/packages/f38/elfutils/po/pl.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 8190 | 9248 | 88.6 | /mnt/stockage/packages/f38/elfutils/po/uk.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 5708 | 9248 | 61.7 | /mnt/stockage/packages/f38/elfutils/po/es.po | 
- | [ja]({{< ref "/f38/language/ja.md" >}}) | 4435 | 9248 | 48.0 | /mnt/stockage/packages/f38/elfutils/po/ja.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 866 | 9248 | 9.4 | /mnt/stockage/packages/f38/elfutils/po/de.po | 
+ | [error](/f38/language/error) | 18496 | 18496 | 100.0 | /mnt/stockage/packages/f38/elfutils/po/en@quot.po/mnt/stockage/packages/f38/elfutils/po/en@boldquot.po | 
+ | [pl](/f38/language/pl) | 9048 | 9248 | 97.8 | /mnt/stockage/packages/f38/elfutils/po/pl.po | 
+ | [uk](/f38/language/uk) | 8190 | 9248 | 88.6 | /mnt/stockage/packages/f38/elfutils/po/uk.po | 
+ | [es](/f38/language/es) | 5708 | 9248 | 61.7 | /mnt/stockage/packages/f38/elfutils/po/es.po | 
+ | [ja](/f38/language/ja) | 4435 | 9248 | 48.0 | /mnt/stockage/packages/f38/elfutils/po/ja.po | 
+ | [de](/f38/language/de) | 866 | 9248 | 9.4 | /mnt/stockage/packages/f38/elfutils/po/de.po | 
 {.sortable}
 
 

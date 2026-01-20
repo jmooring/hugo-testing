@@ -18,56 +18,56 @@ The package geary (version 46.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f42/language/be.md" >}}) | 2585 | 2585 | 100.0 | /mnt/stockage/packages/f42/geary/po/be.po | 
- | [bs]({{< ref "/f42/language/bs.md" >}}) | 1536 | 1536 | 100.0 | /mnt/stockage/packages/f42/geary/po/bs.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 5780 | 5780 | 100.0 | /mnt/stockage/packages/f42/geary/help/ca/ca.po/mnt/stockage/packages/f42/geary/po/ca.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 5872 | 5872 | 100.0 | /mnt/stockage/packages/f42/geary/help/cs/cs.po/mnt/stockage/packages/f42/geary/po/cs.po | 
- | [da]({{< ref "/f42/language/da.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/da.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 4857 | 4857 | 100.0 | /mnt/stockage/packages/f42/geary/help/de/de.po/mnt/stockage/packages/f42/geary/po/de.po | 
- | [en_GB]({{< ref "/f42/language/en_GB.md" >}}) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f42/geary/po/en_GB.po | 
- | [fa]({{< ref "/f42/language/fa.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/fa.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 5850 | 5850 | 100.0 | /mnt/stockage/packages/f42/geary/help/fr/fr.po/mnt/stockage/packages/f42/geary/po/fr.po | 
- | [fur]({{< ref "/f42/language/fur.md" >}}) | 2611 | 2611 | 100.0 | /mnt/stockage/packages/f42/geary/po/fur.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/he.po | 
- | [hr]({{< ref "/f42/language/hr.md" >}}) | 2615 | 2615 | 100.0 | /mnt/stockage/packages/f42/geary/po/hr.po | 
- | [hu]({{< ref "/f42/language/hu.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/hu.po | 
- | [id]({{< ref "/f42/language/id.md" >}}) | 5872 | 5872 | 100.0 | /mnt/stockage/packages/f42/geary/help/id/id.po/mnt/stockage/packages/f42/geary/po/id.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 5851 | 5851 | 100.0 | /mnt/stockage/packages/f42/geary/help/it/it.po/mnt/stockage/packages/f42/geary/po/it.po | 
- | [lt]({{< ref "/f42/language/lt.md" >}}) | 1713 | 1713 | 100.0 | /mnt/stockage/packages/f42/geary/po/lt.po | 
- | [ms]({{< ref "/f42/language/ms.md" >}}) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f42/geary/po/ms.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/nl.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 5850 | 5850 | 100.0 | /mnt/stockage/packages/f42/geary/help/pl/pl.po/mnt/stockage/packages/f42/geary/po/pl.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 4857 | 4857 | 100.0 | /mnt/stockage/packages/f42/geary/help/pt_BR/pt_BR.po/mnt/stockage/packages/f42/geary/po/pt_BR.po | 
- | [ro]({{< ref "/f42/language/ro.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/ro.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/ru/ru.po/mnt/stockage/packages/f42/geary/po/ru.po | 
- | [sl]({{< ref "/f42/language/sl.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/sl.po | 
- | [sr]({{< ref "/f42/language/sr.md" >}}) | 4616 | 4616 | 100.0 | /mnt/stockage/packages/f42/geary/po/sr@latin.po/mnt/stockage/packages/f42/geary/po/sr.po | 
- | [sv]({{< ref "/f42/language/sv.md" >}}) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/sv/sv.po/mnt/stockage/packages/f42/geary/po/sv.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/tr/tr.po/mnt/stockage/packages/f42/geary/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/uk/uk.po/mnt/stockage/packages/f42/geary/po/uk.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/zh_TW.po | 
- | [sk]({{< ref "/f42/language/sk.md" >}}) | 2534 | 2617 | 96.8 | /mnt/stockage/packages/f42/geary/po/sk.po | 
- | [nb_NO]({{< ref "/f42/language/nb_NO.md" >}}) | 1934 | 2001 | 96.7 | /mnt/stockage/packages/f42/geary/po/nb.po | 
- | [fi]({{< ref "/f42/language/fi.md" >}}) | 2446 | 2613 | 93.6 | /mnt/stockage/packages/f42/geary/po/fi.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 2453 | 2685 | 91.4 | /mnt/stockage/packages/f42/geary/po/ja.po | 
- | [gl]({{< ref "/f42/language/gl.md" >}}) | 2326 | 2624 | 88.6 | /mnt/stockage/packages/f42/geary/po/gl.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 4560 | 5781 | 78.9 | /mnt/stockage/packages/f42/geary/help/es/es.po/mnt/stockage/packages/f42/geary/po/es.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 3307 | 4685 | 70.6 | /mnt/stockage/packages/f42/geary/help/el/el.po/mnt/stockage/packages/f42/geary/po/el.po | 
- | [kk]({{< ref "/f42/language/kk.md" >}}) | 1630 | 2613 | 62.4 | /mnt/stockage/packages/f42/geary/po/kk.po | 
- | [et]({{< ref "/f42/language/et.md" >}}) | 626 | 1101 | 56.9 | /mnt/stockage/packages/f42/geary/po/et.po | 
- | [eu]({{< ref "/f42/language/eu.md" >}}) | 2647 | 5884 | 45.0 | /mnt/stockage/packages/f42/geary/help/eu/eu.po/mnt/stockage/packages/f42/geary/po/eu.po | 
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 486 | 1101 | 44.1 | /mnt/stockage/packages/f42/geary/po/ar.po | 
- | [en_CA]({{< ref "/f42/language/en_CA.md" >}}) | 398 | 1101 | 36.1 | /mnt/stockage/packages/f42/geary/po/en_CA.po | 
- | [km]({{< ref "/f42/language/km.md" >}}) | 346 | 1101 | 31.4 | /mnt/stockage/packages/f42/geary/po/km.po | 
- | [oc]({{< ref "/f42/language/oc.md" >}}) | 751 | 2624 | 28.6 | /mnt/stockage/packages/f42/geary/po/oc.po | 
- | [ka]({{< ref "/f42/language/ka.md" >}}) | 703 | 2613 | 26.9 | /mnt/stockage/packages/f42/geary/po/ka.po | 
- | [ie]({{< ref "/f42/language/ie.md" >}}) | 527 | 2615 | 20.2 | /mnt/stockage/packages/f42/geary/po/ie.po | 
- | [vi]({{< ref "/f42/language/vi.md" >}}) | 209 | 1101 | 19.0 | /mnt/stockage/packages/f42/geary/po/vi.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 137 | 1101 | 12.4 | /mnt/stockage/packages/f42/geary/po/hi.po | 
- | [eo]({{< ref "/f42/language/eo.md" >}}) | 299 | 2570 | 11.6 | /mnt/stockage/packages/f42/geary/po/eo.po | 
- | [te]({{< ref "/f42/language/te.md" >}}) | 117 | 1101 | 10.6 | /mnt/stockage/packages/f42/geary/po/te.po | 
+ | [be](/f42/language/be) | 2585 | 2585 | 100.0 | /mnt/stockage/packages/f42/geary/po/be.po | 
+ | [bs](/f42/language/bs) | 1536 | 1536 | 100.0 | /mnt/stockage/packages/f42/geary/po/bs.po | 
+ | [ca](/f42/language/ca) | 5780 | 5780 | 100.0 | /mnt/stockage/packages/f42/geary/help/ca/ca.po/mnt/stockage/packages/f42/geary/po/ca.po | 
+ | [cs](/f42/language/cs) | 5872 | 5872 | 100.0 | /mnt/stockage/packages/f42/geary/help/cs/cs.po/mnt/stockage/packages/f42/geary/po/cs.po | 
+ | [da](/f42/language/da) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/da.po | 
+ | [de](/f42/language/de) | 4857 | 4857 | 100.0 | /mnt/stockage/packages/f42/geary/help/de/de.po/mnt/stockage/packages/f42/geary/po/de.po | 
+ | [en_GB](/f42/language/en_GB) | 2677 | 2677 | 100.0 | /mnt/stockage/packages/f42/geary/po/en_GB.po | 
+ | [fa](/f42/language/fa) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/fa.po | 
+ | [fr](/f42/language/fr) | 5850 | 5850 | 100.0 | /mnt/stockage/packages/f42/geary/help/fr/fr.po/mnt/stockage/packages/f42/geary/po/fr.po | 
+ | [fur](/f42/language/fur) | 2611 | 2611 | 100.0 | /mnt/stockage/packages/f42/geary/po/fur.po | 
+ | [he](/f42/language/he) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/he.po | 
+ | [hr](/f42/language/hr) | 2615 | 2615 | 100.0 | /mnt/stockage/packages/f42/geary/po/hr.po | 
+ | [hu](/f42/language/hu) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/hu.po | 
+ | [id](/f42/language/id) | 5872 | 5872 | 100.0 | /mnt/stockage/packages/f42/geary/help/id/id.po/mnt/stockage/packages/f42/geary/po/id.po | 
+ | [it](/f42/language/it) | 5851 | 5851 | 100.0 | /mnt/stockage/packages/f42/geary/help/it/it.po/mnt/stockage/packages/f42/geary/po/it.po | 
+ | [lt](/f42/language/lt) | 1713 | 1713 | 100.0 | /mnt/stockage/packages/f42/geary/po/lt.po | 
+ | [ms](/f42/language/ms) | 1101 | 1101 | 100.0 | /mnt/stockage/packages/f42/geary/po/ms.po | 
+ | [nl](/f42/language/nl) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/nl.po | 
+ | [pl](/f42/language/pl) | 5850 | 5850 | 100.0 | /mnt/stockage/packages/f42/geary/help/pl/pl.po/mnt/stockage/packages/f42/geary/po/pl.po | 
+ | [pt](/f42/language/pt) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 4857 | 4857 | 100.0 | /mnt/stockage/packages/f42/geary/help/pt_BR/pt_BR.po/mnt/stockage/packages/f42/geary/po/pt_BR.po | 
+ | [ro](/f42/language/ro) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/ro.po | 
+ | [ru](/f42/language/ru) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/ru/ru.po/mnt/stockage/packages/f42/geary/po/ru.po | 
+ | [sl](/f42/language/sl) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/sl.po | 
+ | [sr](/f42/language/sr) | 4616 | 4616 | 100.0 | /mnt/stockage/packages/f42/geary/po/sr@latin.po/mnt/stockage/packages/f42/geary/po/sr.po | 
+ | [sv](/f42/language/sv) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/sv/sv.po/mnt/stockage/packages/f42/geary/po/sv.po | 
+ | [tr](/f42/language/tr) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/tr/tr.po/mnt/stockage/packages/f42/geary/po/tr.po | 
+ | [uk](/f42/language/uk) | 5839 | 5839 | 100.0 | /mnt/stockage/packages/f42/geary/help/uk/uk.po/mnt/stockage/packages/f42/geary/po/uk.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 2613 | 2613 | 100.0 | /mnt/stockage/packages/f42/geary/po/zh_CN.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 2617 | 2617 | 100.0 | /mnt/stockage/packages/f42/geary/po/zh_TW.po | 
+ | [sk](/f42/language/sk) | 2534 | 2617 | 96.8 | /mnt/stockage/packages/f42/geary/po/sk.po | 
+ | [nb_NO](/f42/language/nb_NO) | 1934 | 2001 | 96.7 | /mnt/stockage/packages/f42/geary/po/nb.po | 
+ | [fi](/f42/language/fi) | 2446 | 2613 | 93.6 | /mnt/stockage/packages/f42/geary/po/fi.po | 
+ | [ja](/f42/language/ja) | 2453 | 2685 | 91.4 | /mnt/stockage/packages/f42/geary/po/ja.po | 
+ | [gl](/f42/language/gl) | 2326 | 2624 | 88.6 | /mnt/stockage/packages/f42/geary/po/gl.po | 
+ | [es](/f42/language/es) | 4560 | 5781 | 78.9 | /mnt/stockage/packages/f42/geary/help/es/es.po/mnt/stockage/packages/f42/geary/po/es.po | 
+ | [el](/f42/language/el) | 3307 | 4685 | 70.6 | /mnt/stockage/packages/f42/geary/help/el/el.po/mnt/stockage/packages/f42/geary/po/el.po | 
+ | [kk](/f42/language/kk) | 1630 | 2613 | 62.4 | /mnt/stockage/packages/f42/geary/po/kk.po | 
+ | [et](/f42/language/et) | 626 | 1101 | 56.9 | /mnt/stockage/packages/f42/geary/po/et.po | 
+ | [eu](/f42/language/eu) | 2647 | 5884 | 45.0 | /mnt/stockage/packages/f42/geary/help/eu/eu.po/mnt/stockage/packages/f42/geary/po/eu.po | 
+ | [ar](/f42/language/ar) | 486 | 1101 | 44.1 | /mnt/stockage/packages/f42/geary/po/ar.po | 
+ | [en_CA](/f42/language/en_CA) | 398 | 1101 | 36.1 | /mnt/stockage/packages/f42/geary/po/en_CA.po | 
+ | [km](/f42/language/km) | 346 | 1101 | 31.4 | /mnt/stockage/packages/f42/geary/po/km.po | 
+ | [oc](/f42/language/oc) | 751 | 2624 | 28.6 | /mnt/stockage/packages/f42/geary/po/oc.po | 
+ | [ka](/f42/language/ka) | 703 | 2613 | 26.9 | /mnt/stockage/packages/f42/geary/po/ka.po | 
+ | [ie](/f42/language/ie) | 527 | 2615 | 20.2 | /mnt/stockage/packages/f42/geary/po/ie.po | 
+ | [vi](/f42/language/vi) | 209 | 1101 | 19.0 | /mnt/stockage/packages/f42/geary/po/vi.po | 
+ | [hi](/f42/language/hi) | 137 | 1101 | 12.4 | /mnt/stockage/packages/f42/geary/po/hi.po | 
+ | [eo](/f42/language/eo) | 299 | 2570 | 11.6 | /mnt/stockage/packages/f42/geary/po/eo.po | 
+ | [te](/f42/language/te) | 117 | 1101 | 10.6 | /mnt/stockage/packages/f42/geary/po/te.po | 
 {.sortable}
 
 

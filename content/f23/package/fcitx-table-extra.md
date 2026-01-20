@@ -18,10 +18,10 @@ The package fcitx-table-extra (version 0.3.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-extra/po/ja.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-extra/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-extra/po/zh_TW.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 22 | 24 | 91.7 | /mnt/stockage/packages/f23/fcitx-table-extra/po/de.po | 
+ | [ja](/f23/language/ja) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-extra/po/ja.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-extra/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 24 | 24 | 100.0 | /mnt/stockage/packages/f23/fcitx-table-extra/po/zh_TW.po | 
+ | [de](/f23/language/de) | 22 | 24 | 91.7 | /mnt/stockage/packages/f23/fcitx-table-extra/po/de.po | 
 {.sortable}
 
 

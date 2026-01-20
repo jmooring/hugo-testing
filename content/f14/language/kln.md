@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kde-i18n]({{< ref "/f14/package/kde-i18n.md" >}}) | 22 | 22 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
- | [kde-l10n]({{< ref "/f14/package/kde-l10n.md" >}}) | 14 | 14 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
+ | [kde-i18n](/f14/package/kde-i18n) | 22 | 22 | 100.0 | Traditional Chinese <zh_l10n@linux.org.tw> | 
+ | [kde-l10n](/f14/package/kde-l10n) | 14 | 14 | 100.0 | Chinese Traditional <zh-l10n@linux.org.tw> | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package PySolFC (version 2.14.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2979 | 2990 | 99.6 | /mnt/stockage/packages/f33/PySolFC/po/fr_pysol.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 9265 | 10801 | 85.8 | /mnt/stockage/packages/f33/PySolFC/po/de_pysol.po/mnt/stockage/packages/f33/PySolFC/po/de_games.po/mnt/stockage/packages/f33/PySolFC/po/de.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 9130 | 10801 | 84.5 | /mnt/stockage/packages/f33/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f33/PySolFC/po/ru_games.po/mnt/stockage/packages/f33/PySolFC/po/ru.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 5758 | 10801 | 53.3 | /mnt/stockage/packages/f33/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f33/PySolFC/po/pl_games.po/mnt/stockage/packages/f33/PySolFC/po/pl.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 5376 | 10801 | 49.8 | /mnt/stockage/packages/f33/PySolFC/po/it_pysol.po/mnt/stockage/packages/f33/PySolFC/po/it_games.po/mnt/stockage/packages/f33/PySolFC/po/it.po | 
- | [error]({{< ref "/f33/language/error.md" >}}) | 0 | 2431 | 0.0 | /mnt/stockage/packages/f33/PySolFC/po/fr_games.po | 
+ | [fr](/f33/language/fr) | 2979 | 2990 | 99.6 | /mnt/stockage/packages/f33/PySolFC/po/fr_pysol.po | 
+ | [de](/f33/language/de) | 9265 | 10801 | 85.8 | /mnt/stockage/packages/f33/PySolFC/po/de_pysol.po/mnt/stockage/packages/f33/PySolFC/po/de_games.po/mnt/stockage/packages/f33/PySolFC/po/de.po | 
+ | [ru](/f33/language/ru) | 9130 | 10801 | 84.5 | /mnt/stockage/packages/f33/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f33/PySolFC/po/ru_games.po/mnt/stockage/packages/f33/PySolFC/po/ru.po | 
+ | [pl](/f33/language/pl) | 5758 | 10801 | 53.3 | /mnt/stockage/packages/f33/PySolFC/po/pl_pysol.po/mnt/stockage/packages/f33/PySolFC/po/pl_games.po/mnt/stockage/packages/f33/PySolFC/po/pl.po | 
+ | [it](/f33/language/it) | 5376 | 10801 | 49.8 | /mnt/stockage/packages/f33/PySolFC/po/it_pysol.po/mnt/stockage/packages/f33/PySolFC/po/it_games.po/mnt/stockage/packages/f33/PySolFC/po/it.po | 
+ | [error](/f33/language/error) | 0 | 2431 | 0.0 | /mnt/stockage/packages/f33/PySolFC/po/fr_games.po | 
 {.sortable}
 
 

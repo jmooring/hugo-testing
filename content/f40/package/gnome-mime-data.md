@@ -18,79 +18,79 @@ The package gnome-mime-data (version 2.18.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ar.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/az.po | 
- | [be]({{< ref "/f40/language/be.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/be.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/bg.po | 
- | [bn]({{< ref "/f40/language/bn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/bn.po | 
- | [bs]({{< ref "/f40/language/bs.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/bs.po | 
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/cs.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/cy.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/el.po | 
- | [en_CA]({{< ref "/f40/language/en_CA.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/en_CA.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/en_GB.po | 
- | [error]({{< ref "/f40/language/error.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sr@Latn.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/es.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/et.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/eu.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/fr.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/gl.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/gu.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/hi.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/hr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ko.po | 
- | [li]({{< ref "/f40/language/li.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/li.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/lt.po | 
- | [mk]({{< ref "/f40/language/mk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/mk.po | 
- | [mn]({{< ref "/f40/language/mn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/mn.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ms.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nb.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nl.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nn.po | 
- | [nso]({{< ref "/f40/language/nso.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nso.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pa.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pt_BR.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ro.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sl.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sq.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f40/language/sr@ijekavian.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sr@ije.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 888 | 888 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sv.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ta.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/uk.po | 
- | [xh]({{< ref "/f40/language/xh.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/xh.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/zh_TW.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 851 | 854 | 99.6 | /mnt/stockage/packages/f40/gnome-mime-data/po/eo.po | 
- | [af]({{< ref "/f40/language/af.md" >}}) | 883 | 887 | 99.5 | /mnt/stockage/packages/f40/gnome-mime-data/po/af.po | 
- | [ne]({{< ref "/f40/language/ne.md" >}}) | 860 | 887 | 97.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ne.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 860 | 887 | 97.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/th.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 845 | 873 | 96.8 | /mnt/stockage/packages/f40/gnome-mime-data/po/vi.po | 
- | [is]({{< ref "/f40/language/is.md" >}}) | 857 | 887 | 96.6 | /mnt/stockage/packages/f40/gnome-mime-data/po/is.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 797 | 827 | 96.4 | /mnt/stockage/packages/f40/gnome-mime-data/po/lv.po | 
- | [zu]({{< ref "/f40/language/zu.md" >}}) | 834 | 887 | 94.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/zu.po | 
- | [wa]({{< ref "/f40/language/wa.md" >}}) | 790 | 887 | 89.1 | /mnt/stockage/packages/f40/gnome-mime-data/po/wa.po | 
- | [tk]({{< ref "/f40/language/tk.md" >}}) | 625 | 887 | 70.5 | /mnt/stockage/packages/f40/gnome-mime-data/po/tk.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 573 | 877 | 65.3 | /mnt/stockage/packages/f40/gnome-mime-data/po/ga.po | 
- | [am]({{< ref "/f40/language/am.md" >}}) | 460 | 827 | 55.6 | /mnt/stockage/packages/f40/gnome-mime-data/po/am.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 355 | 827 | 42.9 | /mnt/stockage/packages/f40/gnome-mime-data/po/fa.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 18 | 850 | 2.1 | /mnt/stockage/packages/f40/gnome-mime-data/po/ml.po | 
- | [rw]({{< ref "/f40/language/rw.md" >}}) | 12 | 887 | 1.4 | /mnt/stockage/packages/f40/gnome-mime-data/po/rw.po | 
- | [yi]({{< ref "/f40/language/yi.md" >}}) | 1 | 827 | 0.1 | /mnt/stockage/packages/f40/gnome-mime-data/po/yi.po | 
+ | [ar](/f40/language/ar) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ar.po | 
+ | [az](/f40/language/az) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/az.po | 
+ | [be](/f40/language/be) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/be.po | 
+ | [bg](/f40/language/bg) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/bg.po | 
+ | [bn](/f40/language/bn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/bn.po | 
+ | [bs](/f40/language/bs) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/bs.po | 
+ | [ca](/f40/language/ca) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ca.po | 
+ | [cs](/f40/language/cs) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/cs.po | 
+ | [cy](/f40/language/cy) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/cy.po | 
+ | [da](/f40/language/da) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/da.po | 
+ | [de](/f40/language/de) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/de.po | 
+ | [el](/f40/language/el) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/el.po | 
+ | [en_CA](/f40/language/en_CA) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/en_CA.po | 
+ | [en_GB](/f40/language/en_GB) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/en_GB.po | 
+ | [error](/f40/language/error) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sr@Latn.po | 
+ | [es](/f40/language/es) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/es.po | 
+ | [et](/f40/language/et) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/et.po | 
+ | [eu](/f40/language/eu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/eu.po | 
+ | [fi](/f40/language/fi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/fi.po | 
+ | [fr](/f40/language/fr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/fr.po | 
+ | [gl](/f40/language/gl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/gl.po | 
+ | [gu](/f40/language/gu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/gu.po | 
+ | [he](/f40/language/he) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/he.po | 
+ | [hi](/f40/language/hi) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/hi.po | 
+ | [hr](/f40/language/hr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/hr.po | 
+ | [hu](/f40/language/hu) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/hu.po | 
+ | [id](/f40/language/id) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/id.po | 
+ | [it](/f40/language/it) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/it.po | 
+ | [ja](/f40/language/ja) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ja.po | 
+ | [ko](/f40/language/ko) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ko.po | 
+ | [li](/f40/language/li) | 850 | 850 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/li.po | 
+ | [lt](/f40/language/lt) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/lt.po | 
+ | [mk](/f40/language/mk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/mk.po | 
+ | [mn](/f40/language/mn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/mn.po | 
+ | [ms](/f40/language/ms) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ms.po | 
+ | [nb_NO](/f40/language/nb_NO) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nb.po | 
+ | [nl](/f40/language/nl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nl.po | 
+ | [nn](/f40/language/nn) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nn.po | 
+ | [nso](/f40/language/nso) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/nso.po | 
+ | [pa](/f40/language/pa) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pa.po | 
+ | [pl](/f40/language/pl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pl.po | 
+ | [pt](/f40/language/pt) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/pt_BR.po | 
+ | [ro](/f40/language/ro) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ro.po | 
+ | [ru](/f40/language/ru) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ru.po | 
+ | [sk](/f40/language/sk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sk.po | 
+ | [sl](/f40/language/sl) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sl.po | 
+ | [sq](/f40/language/sq) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sq.po | 
+ | [sr](/f40/language/sr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sr.po | 
+ | [sr@ijekavian](/f40/language/sr@ijekavian) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sr@ije.po | 
+ | [sv](/f40/language/sv) | 888 | 888 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/sv.po | 
+ | [ta](/f40/language/ta) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ta.po | 
+ | [tr](/f40/language/tr) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/tr.po | 
+ | [uk](/f40/language/uk) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/uk.po | 
+ | [xh](/f40/language/xh) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/xh.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/zh_CN.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 887 | 887 | 100.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/zh_TW.po | 
+ | [eo](/f40/language/eo) | 851 | 854 | 99.6 | /mnt/stockage/packages/f40/gnome-mime-data/po/eo.po | 
+ | [af](/f40/language/af) | 883 | 887 | 99.5 | /mnt/stockage/packages/f40/gnome-mime-data/po/af.po | 
+ | [ne](/f40/language/ne) | 860 | 887 | 97.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/ne.po | 
+ | [th](/f40/language/th) | 860 | 887 | 97.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/th.po | 
+ | [vi](/f40/language/vi) | 845 | 873 | 96.8 | /mnt/stockage/packages/f40/gnome-mime-data/po/vi.po | 
+ | [is](/f40/language/is) | 857 | 887 | 96.6 | /mnt/stockage/packages/f40/gnome-mime-data/po/is.po | 
+ | [lv](/f40/language/lv) | 797 | 827 | 96.4 | /mnt/stockage/packages/f40/gnome-mime-data/po/lv.po | 
+ | [zu](/f40/language/zu) | 834 | 887 | 94.0 | /mnt/stockage/packages/f40/gnome-mime-data/po/zu.po | 
+ | [wa](/f40/language/wa) | 790 | 887 | 89.1 | /mnt/stockage/packages/f40/gnome-mime-data/po/wa.po | 
+ | [tk](/f40/language/tk) | 625 | 887 | 70.5 | /mnt/stockage/packages/f40/gnome-mime-data/po/tk.po | 
+ | [ga](/f40/language/ga) | 573 | 877 | 65.3 | /mnt/stockage/packages/f40/gnome-mime-data/po/ga.po | 
+ | [am](/f40/language/am) | 460 | 827 | 55.6 | /mnt/stockage/packages/f40/gnome-mime-data/po/am.po | 
+ | [fa](/f40/language/fa) | 355 | 827 | 42.9 | /mnt/stockage/packages/f40/gnome-mime-data/po/fa.po | 
+ | [ml](/f40/language/ml) | 18 | 850 | 2.1 | /mnt/stockage/packages/f40/gnome-mime-data/po/ml.po | 
+ | [rw](/f40/language/rw) | 12 | 887 | 1.4 | /mnt/stockage/packages/f40/gnome-mime-data/po/rw.po | 
+ | [yi](/f40/language/yi) | 1 | 827 | 0.1 | /mnt/stockage/packages/f40/gnome-mime-data/po/yi.po | 
 {.sortable}
 
 

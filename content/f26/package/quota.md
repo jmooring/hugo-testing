@@ -18,10 +18,10 @@ The package quota (version 4.03):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 4058 | 4596 | 88.3 | /mnt/stockage/packages/f26/quota/po/cs.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 4058 | 4596 | 88.3 | /mnt/stockage/packages/f26/quota/po/pl.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 3567 | 4596 | 77.6 | /mnt/stockage/packages/f26/quota/po/de.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1564 | 4596 | 34.0 | /mnt/stockage/packages/f26/quota/po/fr.po | 
+ | [cs](/f26/language/cs) | 4058 | 4596 | 88.3 | /mnt/stockage/packages/f26/quota/po/cs.po | 
+ | [pl](/f26/language/pl) | 4058 | 4596 | 88.3 | /mnt/stockage/packages/f26/quota/po/pl.po | 
+ | [de](/f26/language/de) | 3567 | 4596 | 77.6 | /mnt/stockage/packages/f26/quota/po/de.po | 
+ | [fr](/f26/language/fr) | 1564 | 4596 | 34.0 | /mnt/stockage/packages/f26/quota/po/fr.po | 
 {.sortable}
 
 

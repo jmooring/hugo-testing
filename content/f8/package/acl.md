@@ -18,10 +18,10 @@ The package acl (version 2.2.39):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/fr.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/pl.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/sv.po | 
+ | [de](/f8/language/de) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/de.po | 
+ | [fr](/f8/language/fr) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/fr.po | 
+ | [pl](/f8/language/pl) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/pl.po | 
+ | [sv](/f8/language/sv) | 484 | 484 | 100.0 | /mnt/stockage/packages/f8/acl/po/sv.po | 
 {.sortable}
 
 

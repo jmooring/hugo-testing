@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [fonts-tweak-tool]({{< ref "/f41/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Angika | 
- | [initial-setup]({{< ref "/f41/package/initial-setup.md" >}}) | 0 | 33 | 0.0 | Angika | 
- | [libvirt-sandbox]({{< ref "/f41/package/libvirt-sandbox.md" >}}) | 0 | 617 | 0.0 | Angika | 
- | [python-fedora]({{< ref "/f41/package/python-fedora.md" >}}) | 0 | 214 | 0.0 | Angika | 
- | [python-meh]({{< ref "/f41/package/python-meh.md" >}}) | 0 | 109 | 0.0 | Angika | 
+ | [fonts-tweak-tool](/f41/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Angika | 
+ | [initial-setup](/f41/package/initial-setup) | 0 | 33 | 0.0 | Angika | 
+ | [libvirt-sandbox](/f41/package/libvirt-sandbox) | 0 | 617 | 0.0 | Angika | 
+ | [python-fedora](/f41/package/python-fedora) | 0 | 214 | 0.0 | Angika | 
+ | [python-meh](/f41/package/python-meh) | 0 | 109 | 0.0 | Angika | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package libloc (version 0.9.17):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 260 | 260 | 100.0 | /mnt/stockage/packages/f38/libloc/po/ka.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 0 | 260 | 0.0 | /mnt/stockage/packages/f38/libloc/po/de.po | 
+ | [ka](/f38/language/ka) | 260 | 260 | 100.0 | /mnt/stockage/packages/f38/libloc/po/ka.po | 
+ | [de](/f38/language/de) | 0 | 260 | 0.0 | /mnt/stockage/packages/f38/libloc/po/de.po | 
 {.sortable}
 
 

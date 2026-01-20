@@ -18,20 +18,20 @@ The package nautilus-image-converter (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/bg.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 115 | 115 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/ca.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/fr.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 21 | 21 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/it.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/ja.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/nl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/pl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/pt_BR.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/sv.po | 
+ | [bg](/f18/language/bg) | 42 | 42 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/bg.po | 
+ | [ca](/f18/language/ca) | 115 | 115 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/ca.po | 
+ | [cs](/f18/language/cs) | 81 | 81 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/cs.po | 
+ | [de](/f18/language/de) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/de.po | 
+ | [es](/f18/language/es) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/es.po | 
+ | [fi](/f18/language/fi) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/fi.po | 
+ | [fr](/f18/language/fr) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/fr.po | 
+ | [it](/f18/language/it) | 21 | 21 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/it.po | 
+ | [ja](/f18/language/ja) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/ja.po | 
+ | [nl](/f18/language/nl) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/nl.po | 
+ | [pl](/f18/language/pl) | 42 | 42 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/pl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 64 | 64 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/pt_BR.po | 
+ | [ru](/f18/language/ru) | 42 | 42 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/ru.po | 
+ | [sv](/f18/language/sv) | 79 | 79 | 100.0 | /mnt/stockage/packages/f18/nautilus-image-converter/po/sv.po | 
 {.sortable}
 
 

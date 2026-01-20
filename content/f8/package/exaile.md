@@ -18,26 +18,26 @@ The package exaile (version 0.2.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f8/exaile/po/de.po | 
- | [en_GB]({{< ref "/f8/language/en_GB.md" >}}) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f8/exaile/po/en_GB.po | 
- | [es_AR]({{< ref "/f8/language/es_AR.md" >}}) | 664 | 664 | 100.0 | /mnt/stockage/packages/f8/exaile/po/es_AR.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f8/exaile/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f8/exaile/po/it_IT.po | 
- | [pl]({{< ref "/f8/language/pl.md" >}}) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f8/exaile/po/pl.po | 
- | [pt_BR]({{< ref "/f8/language/pt_BR.md" >}}) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f8/exaile/po/pt_BR.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f8/exaile/po/sv.po | 
- | [ro]({{< ref "/f8/language/ro.md" >}}) | 1014 | 1027 | 98.7 | /mnt/stockage/packages/f8/exaile/po/ro.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 1226 | 1329 | 92.2 | /mnt/stockage/packages/f8/exaile/po/nn.po | 
- | [hu]({{< ref "/f8/language/hu.md" >}}) | 1191 | 1329 | 89.6 | /mnt/stockage/packages/f8/exaile/po/hu.po | 
- | [he_IL]({{< ref "/f8/language/he_IL.md" >}}) | 1165 | 1333 | 87.4 | /mnt/stockage/packages/f8/exaile/po/he_IL.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1138 | 1313 | 86.7 | /mnt/stockage/packages/f8/exaile/po/es_ES.po | 
- | [zh_Hant]({{< ref "/f8/language/zh_Hant.md" >}}) | 1051 | 1329 | 79.1 | /mnt/stockage/packages/f8/exaile/po/zh_TW.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 889 | 1329 | 66.9 | /mnt/stockage/packages/f8/exaile/po/tr_TR.po | 
- | [ca]({{< ref "/f8/language/ca.md" >}}) | 535 | 1329 | 40.3 | /mnt/stockage/packages/f8/exaile/po/ca.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 468 | 1183 | 39.6 | /mnt/stockage/packages/f8/exaile/po/cs.po | 
- | [zh_Hans]({{< ref "/f8/language/zh_Hans.md" >}}) | 437 | 1329 | 32.9 | /mnt/stockage/packages/f8/exaile/po/zh_CN.po | 
- | [pa]({{< ref "/f8/language/pa.md" >}}) | 329 | 1329 | 24.8 | /mnt/stockage/packages/f8/exaile/po/pa.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 178 | 1329 | 13.4 | /mnt/stockage/packages/f8/exaile/po/ru.po | 
+ | [de](/f8/language/de) | 1326 | 1326 | 100.0 | /mnt/stockage/packages/f8/exaile/po/de.po | 
+ | [en_GB](/f8/language/en_GB) | 1313 | 1313 | 100.0 | /mnt/stockage/packages/f8/exaile/po/en_GB.po | 
+ | [es_AR](/f8/language/es_AR) | 664 | 664 | 100.0 | /mnt/stockage/packages/f8/exaile/po/es_AR.po | 
+ | [fr](/f8/language/fr) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f8/exaile/po/fr.po | 
+ | [it](/f8/language/it) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f8/exaile/po/it_IT.po | 
+ | [pl](/f8/language/pl) | 1119 | 1119 | 100.0 | /mnt/stockage/packages/f8/exaile/po/pl.po | 
+ | [pt_BR](/f8/language/pt_BR) | 1329 | 1329 | 100.0 | /mnt/stockage/packages/f8/exaile/po/pt_BR.po | 
+ | [sv](/f8/language/sv) | 1276 | 1276 | 100.0 | /mnt/stockage/packages/f8/exaile/po/sv.po | 
+ | [ro](/f8/language/ro) | 1014 | 1027 | 98.7 | /mnt/stockage/packages/f8/exaile/po/ro.po | 
+ | [nn](/f8/language/nn) | 1226 | 1329 | 92.2 | /mnt/stockage/packages/f8/exaile/po/nn.po | 
+ | [hu](/f8/language/hu) | 1191 | 1329 | 89.6 | /mnt/stockage/packages/f8/exaile/po/hu.po | 
+ | [he_IL](/f8/language/he_IL) | 1165 | 1333 | 87.4 | /mnt/stockage/packages/f8/exaile/po/he_IL.po | 
+ | [es](/f8/language/es) | 1138 | 1313 | 86.7 | /mnt/stockage/packages/f8/exaile/po/es_ES.po | 
+ | [zh_Hant](/f8/language/zh_Hant) | 1051 | 1329 | 79.1 | /mnt/stockage/packages/f8/exaile/po/zh_TW.po | 
+ | [tr](/f8/language/tr) | 889 | 1329 | 66.9 | /mnt/stockage/packages/f8/exaile/po/tr_TR.po | 
+ | [ca](/f8/language/ca) | 535 | 1329 | 40.3 | /mnt/stockage/packages/f8/exaile/po/ca.po | 
+ | [cs](/f8/language/cs) | 468 | 1183 | 39.6 | /mnt/stockage/packages/f8/exaile/po/cs.po | 
+ | [zh_Hans](/f8/language/zh_Hans) | 437 | 1329 | 32.9 | /mnt/stockage/packages/f8/exaile/po/zh_CN.po | 
+ | [pa](/f8/language/pa) | 329 | 1329 | 24.8 | /mnt/stockage/packages/f8/exaile/po/pa.po | 
+ | [ru](/f8/language/ru) | 178 | 1329 | 13.4 | /mnt/stockage/packages/f8/exaile/po/ru.po | 
 {.sortable}
 
 

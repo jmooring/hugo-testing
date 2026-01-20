@@ -18,10 +18,10 @@ The package lbrickbuster2 (version 2.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f37/language/da.md" >}}) | 4334 | 4334 | 100.0 | /mnt/stockage/packages/f37/lbrickbuster2/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 3897 | 4334 | 89.9 | /mnt/stockage/packages/f37/lbrickbuster2/po/de.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 3875 | 4334 | 89.4 | /mnt/stockage/packages/f37/lbrickbuster2/po/fr.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 3864 | 4334 | 89.2 | /mnt/stockage/packages/f37/lbrickbuster2/po/tr.po | 
+ | [da](/f37/language/da) | 4334 | 4334 | 100.0 | /mnt/stockage/packages/f37/lbrickbuster2/po/da.po | 
+ | [de](/f37/language/de) | 3897 | 4334 | 89.9 | /mnt/stockage/packages/f37/lbrickbuster2/po/de.po | 
+ | [fr](/f37/language/fr) | 3875 | 4334 | 89.4 | /mnt/stockage/packages/f37/lbrickbuster2/po/fr.po | 
+ | [tr](/f37/language/tr) | 3864 | 4334 | 89.2 | /mnt/stockage/packages/f37/lbrickbuster2/po/tr.po | 
 {.sortable}
 
 

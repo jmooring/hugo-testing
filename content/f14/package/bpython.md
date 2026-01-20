@@ -18,9 +18,9 @@ The package bpython (version 0.10.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/bpython/bpython/translations/nl_NL/LC_MESSAGES/bpython.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 40 | 44 | 90.9 | /mnt/stockage/packages/f14/bpython/bpython/translations/it_IT/LC_MESSAGES/bpython.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 26 | 44 | 59.1 | /mnt/stockage/packages/f14/bpython/bpython/translations/es_ES/LC_MESSAGES/bpython.po | 
+ | [nl](/f14/language/nl) | 44 | 44 | 100.0 | /mnt/stockage/packages/f14/bpython/bpython/translations/nl_NL/LC_MESSAGES/bpython.po | 
+ | [it](/f14/language/it) | 40 | 44 | 90.9 | /mnt/stockage/packages/f14/bpython/bpython/translations/it_IT/LC_MESSAGES/bpython.po | 
+ | [es](/f14/language/es) | 26 | 44 | 59.1 | /mnt/stockage/packages/f14/bpython/bpython/translations/es_ES/LC_MESSAGES/bpython.po | 
 {.sortable}
 
 

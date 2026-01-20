@@ -18,23 +18,23 @@ The package ibus-chewing (version 2.1.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/es.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/it.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/ko.po | 
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/pl.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/tr.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 225 | 304 | 74.0 | /mnt/stockage/packages/f42/ibus-chewing/po/pt_BR.po | 
- | [el]({{< ref "/f42/language/el.md" >}}) | 59 | 304 | 19.4 | /mnt/stockage/packages/f42/ibus-chewing/po/el.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 33 | 304 | 10.9 | /mnt/stockage/packages/f42/ibus-chewing/po/kab.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 20 | 304 | 6.6 | /mnt/stockage/packages/f42/ibus-chewing/po/fr.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 19 | 304 | 6.2 | /mnt/stockage/packages/f42/ibus-chewing/po/de.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 9 | 304 | 3.0 | /mnt/stockage/packages/f42/ibus-chewing/po/cs.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 9 | 304 | 3.0 | /mnt/stockage/packages/f42/ibus-chewing/po/uk.po | 
- | [ca]({{< ref "/f42/language/ca.md" >}}) | 5 | 304 | 1.6 | /mnt/stockage/packages/f42/ibus-chewing/po/ca.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 5 | 304 | 1.6 | /mnt/stockage/packages/f42/ibus-chewing/po/ja.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 5 | 304 | 1.6 | /mnt/stockage/packages/f42/ibus-chewing/po/zh_CN.po | 
- | [pa]({{< ref "/f42/language/pa.md" >}}) | 2 | 304 | 0.7 | /mnt/stockage/packages/f42/ibus-chewing/po/pa.po | 
+ | [es](/f42/language/es) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/es.po | 
+ | [it](/f42/language/it) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/it.po | 
+ | [ko](/f42/language/ko) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/ko.po | 
+ | [pl](/f42/language/pl) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/pl.po | 
+ | [tr](/f42/language/tr) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/tr.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 304 | 304 | 100.0 | /mnt/stockage/packages/f42/ibus-chewing/po/zh_TW.po | 
+ | [pt_BR](/f42/language/pt_BR) | 225 | 304 | 74.0 | /mnt/stockage/packages/f42/ibus-chewing/po/pt_BR.po | 
+ | [el](/f42/language/el) | 59 | 304 | 19.4 | /mnt/stockage/packages/f42/ibus-chewing/po/el.po | 
+ | [kab](/f42/language/kab) | 33 | 304 | 10.9 | /mnt/stockage/packages/f42/ibus-chewing/po/kab.po | 
+ | [fr](/f42/language/fr) | 20 | 304 | 6.6 | /mnt/stockage/packages/f42/ibus-chewing/po/fr.po | 
+ | [de](/f42/language/de) | 19 | 304 | 6.2 | /mnt/stockage/packages/f42/ibus-chewing/po/de.po | 
+ | [cs](/f42/language/cs) | 9 | 304 | 3.0 | /mnt/stockage/packages/f42/ibus-chewing/po/cs.po | 
+ | [uk](/f42/language/uk) | 9 | 304 | 3.0 | /mnt/stockage/packages/f42/ibus-chewing/po/uk.po | 
+ | [ca](/f42/language/ca) | 5 | 304 | 1.6 | /mnt/stockage/packages/f42/ibus-chewing/po/ca.po | 
+ | [ja](/f42/language/ja) | 5 | 304 | 1.6 | /mnt/stockage/packages/f42/ibus-chewing/po/ja.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 5 | 304 | 1.6 | /mnt/stockage/packages/f42/ibus-chewing/po/zh_CN.po | 
+ | [pa](/f42/language/pa) | 2 | 304 | 0.7 | /mnt/stockage/packages/f42/ibus-chewing/po/pa.po | 
 {.sortable}
 
 

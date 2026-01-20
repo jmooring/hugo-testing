@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lollypop]({{< ref "/f24/package/lollypop.md" >}}) | 361 | 889 | 40.6 | English (Ireland) (http://www.transifex.com/gnumdk/lollypop/language/en_IE/) | 
+ | [lollypop](/f24/package/lollypop) | 361 | 889 | 40.6 | English (Ireland) (http://www.transifex.com/gnumdk/lollypop/language/en_IE/) | 
 {.sortable}
 
 

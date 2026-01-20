@@ -18,112 +18,112 @@ The package mate-notification-daemon (version 1.24.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ca.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/cs.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/da.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es.po | 
- | [eu]({{< ref "/f32/language/eu.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/eu.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fi.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fr.po | 
- | [gl]({{< ref "/f32/language/gl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/gl.po | 
- | [he]({{< ref "/f32/language/he.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/he.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hu.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/id.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/it.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/lt.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ms.po | 
- | [nb_NO]({{< ref "/f32/language/nb_NO.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nb.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nl.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pl.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pt.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ru.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/uk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/zh_TW.po | 
- | [sl]({{< ref "/f32/language/sl.md" >}}) | 151 | 152 | 99.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sl.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 146 | 152 | 96.1 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sv.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 268 | 304 | 88.2 | /mnt/stockage/packages/f32/mate-notification-daemon/po/zh_CN.po/mnt/stockage/packages/f32/mate-notification-daemon/po/cmn.po | 
- | [am]({{< ref "/f32/language/am.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/am.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ar.po | 
- | [bg]({{< ref "/f32/language/bg.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bg.po | 
- | [ca@valencia]({{< ref "/f32/language/ca@valencia.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ca@valencia.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/de.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/el.po | 
- | [en_AU]({{< ref "/f32/language/en_AU.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/en_AU.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/en_GB.po | 
- | [es_AR]({{< ref "/f32/language/es_AR.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_AR.po | 
- | [es_CO]({{< ref "/f32/language/es_CO.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_CO.po | 
- | [et]({{< ref "/f32/language/et.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/et.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hy.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ja.po | 
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/kk.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ko.po | 
- | [nds]({{< ref "/f32/language/nds.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nds.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pt_BR.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sk.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/tr.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/vi.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 129 | 152 | 84.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hr.po | 
- | [es_CL]({{< ref "/f32/language/es_CL.md" >}}) | 126 | 152 | 82.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_CL.po | 
- | [is]({{< ref "/f32/language/is.md" >}}) | 123 | 152 | 80.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/is.po | 
- | [ro]({{< ref "/f32/language/ro.md" >}}) | 123 | 152 | 80.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ro.po | 
- | [zh_Hant_HK]({{< ref "/f32/language/zh_Hant_HK.md" >}}) | 123 | 152 | 80.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/zh_HK.po | 
- | [hi]({{< ref "/f32/language/hi.md" >}}) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hi.po | 
- | [lv]({{< ref "/f32/language/lv.md" >}}) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/lv.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mk.po | 
- | [sc]({{< ref "/f32/language/sc.md" >}}) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sc.po | 
- | [oc]({{< ref "/f32/language/oc.md" >}}) | 113 | 152 | 74.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/oc.po | 
- | [es_MX]({{< ref "/f32/language/es_MX.md" >}}) | 110 | 152 | 72.4 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_MX.po | 
- | [sq]({{< ref "/f32/language/sq.md" >}}) | 101 | 152 | 66.4 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sq.po | 
- | [ie]({{< ref "/f32/language/ie.md" >}}) | 94 | 152 | 61.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ie.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 85 | 152 | 55.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/be.po | 
- | [ur]({{< ref "/f32/language/ur.md" >}}) | 81 | 152 | 53.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ur.po | 
- | [pa]({{< ref "/f32/language/pa.md" >}}) | 79 | 152 | 52.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pa.po | 
- | [mr]({{< ref "/f32/language/mr.md" >}}) | 75 | 152 | 49.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mr.po | 
- | [uz]({{< ref "/f32/language/uz.md" >}}) | 67 | 152 | 44.1 | /mnt/stockage/packages/f32/mate-notification-daemon/po/uz.po | 
- | [eo]({{< ref "/f32/language/eo.md" >}}) | 60 | 152 | 39.5 | /mnt/stockage/packages/f32/mate-notification-daemon/po/eo.po | 
- | [af]({{< ref "/f32/language/af.md" >}}) | 54 | 152 | 35.5 | /mnt/stockage/packages/f32/mate-notification-daemon/po/af.po | 
- | [ast]({{< ref "/f32/language/ast.md" >}}) | 51 | 152 | 33.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ast.po | 
- | [ky]({{< ref "/f32/language/ky.md" >}}) | 29 | 152 | 19.1 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ky.po | 
- | [bs]({{< ref "/f32/language/bs.md" >}}) | 11 | 152 | 7.2 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bs.po | 
- | [cy]({{< ref "/f32/language/cy.md" >}}) | 10 | 152 | 6.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/cy.po | 
- | [kn]({{< ref "/f32/language/kn.md" >}}) | 10 | 152 | 6.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/kn.po | 
- | [te]({{< ref "/f32/language/te.md" >}}) | 10 | 152 | 6.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/te.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 8 | 152 | 5.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/th.po | 
- | [kmr]({{< ref "/f32/language/kmr.md" >}}) | 7 | 152 | 4.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ku_IQ.po | 
- | [as]({{< ref "/f32/language/as.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/as.po | 
- | [bn]({{< ref "/f32/language/bn.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bn.po | 
- | [bn_IN]({{< ref "/f32/language/bn_IN.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bn_IN.po | 
- | [br]({{< ref "/f32/language/br.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/br.po | 
- | [crh]({{< ref "/f32/language/crh.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/crh.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ga.po | 
- | [gu]({{< ref "/f32/language/gu.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/gu.po | 
- | [kab]({{< ref "/f32/language/kab.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/kab.po | 
- | [ml]({{< ref "/f32/language/ml.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ml.po | 
- | [nn]({{< ref "/f32/language/nn.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nn.po | 
- | [or]({{< ref "/f32/language/or.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/or.po | 
- | [sr_Latn]({{< ref "/f32/language/sr_Latn.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sr@latin.po | 
- | [ta]({{< ref "/f32/language/ta.md" >}}) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ta.po | 
- | [dz]({{< ref "/f32/language/dz.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/dz.po | 
- | [fa]({{< ref "/f32/language/fa.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fa.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ku.po | 
- | [mai]({{< ref "/f32/language/mai.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mai.po | 
- | [mg]({{< ref "/f32/language/mg.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mg.po | 
- | [mn]({{< ref "/f32/language/mn.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mn.po | 
- | [ne]({{< ref "/f32/language/ne.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ne.po | 
- | [si]({{< ref "/f32/language/si.md" >}}) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/si.po | 
- | [az]({{< ref "/f32/language/az.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/az.po | 
- | [en_CA]({{< ref "/f32/language/en_CA.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/en_CA.po | 
- | [fr_CA]({{< ref "/f32/language/fr_CA.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fr_CA.po | 
- | [frp]({{< ref "/f32/language/frp.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/frp.po | 
- | [ha]({{< ref "/f32/language/ha.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ha.po | 
- | [ig]({{< ref "/f32/language/ig.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ig.po | 
- | [wa]({{< ref "/f32/language/wa.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/wa.po | 
- | [xh]({{< ref "/f32/language/xh.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/xh.po | 
- | [yo]({{< ref "/f32/language/yo.md" >}}) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/yo.po | 
- | [ka]({{< ref "/f32/language/ka.md" >}}) | 1 | 152 | 0.7 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ka.po | 
- | [ps]({{< ref "/f32/language/ps.md" >}}) | 1 | 152 | 0.7 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ps.po | 
- | [ug]({{< ref "/f32/language/ug.md" >}}) | 1 | 152 | 0.7 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ug.po | 
+ | [ca](/f32/language/ca) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ca.po | 
+ | [cs](/f32/language/cs) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/cs.po | 
+ | [da](/f32/language/da) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/da.po | 
+ | [es](/f32/language/es) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es.po | 
+ | [eu](/f32/language/eu) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/eu.po | 
+ | [fi](/f32/language/fi) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fi.po | 
+ | [fr](/f32/language/fr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fr.po | 
+ | [gl](/f32/language/gl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/gl.po | 
+ | [he](/f32/language/he) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/he.po | 
+ | [hu](/f32/language/hu) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hu.po | 
+ | [id](/f32/language/id) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/id.po | 
+ | [it](/f32/language/it) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/it.po | 
+ | [lt](/f32/language/lt) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/lt.po | 
+ | [ms](/f32/language/ms) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ms.po | 
+ | [nb_NO](/f32/language/nb_NO) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nb.po | 
+ | [nl](/f32/language/nl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nl.po | 
+ | [pl](/f32/language/pl) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pl.po | 
+ | [pt](/f32/language/pt) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pt.po | 
+ | [ru](/f32/language/ru) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ru.po | 
+ | [sr](/f32/language/sr) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sr.po | 
+ | [uk](/f32/language/uk) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/uk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 152 | 152 | 100.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/zh_TW.po | 
+ | [sl](/f32/language/sl) | 151 | 152 | 99.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sl.po | 
+ | [sv](/f32/language/sv) | 146 | 152 | 96.1 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sv.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 268 | 304 | 88.2 | /mnt/stockage/packages/f32/mate-notification-daemon/po/zh_CN.po/mnt/stockage/packages/f32/mate-notification-daemon/po/cmn.po | 
+ | [am](/f32/language/am) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/am.po | 
+ | [ar](/f32/language/ar) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ar.po | 
+ | [bg](/f32/language/bg) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bg.po | 
+ | [ca@valencia](/f32/language/ca@valencia) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ca@valencia.po | 
+ | [de](/f32/language/de) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/de.po | 
+ | [el](/f32/language/el) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/el.po | 
+ | [en_AU](/f32/language/en_AU) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/en_AU.po | 
+ | [en_GB](/f32/language/en_GB) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/en_GB.po | 
+ | [es_AR](/f32/language/es_AR) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_AR.po | 
+ | [es_CO](/f32/language/es_CO) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_CO.po | 
+ | [et](/f32/language/et) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/et.po | 
+ | [hy](/f32/language/hy) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hy.po | 
+ | [ja](/f32/language/ja) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ja.po | 
+ | [kk](/f32/language/kk) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/kk.po | 
+ | [ko](/f32/language/ko) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ko.po | 
+ | [nds](/f32/language/nds) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nds.po | 
+ | [pt_BR](/f32/language/pt_BR) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pt_BR.po | 
+ | [sk](/f32/language/sk) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sk.po | 
+ | [tr](/f32/language/tr) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/tr.po | 
+ | [vi](/f32/language/vi) | 132 | 152 | 86.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/vi.po | 
+ | [hr](/f32/language/hr) | 129 | 152 | 84.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hr.po | 
+ | [es_CL](/f32/language/es_CL) | 126 | 152 | 82.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_CL.po | 
+ | [is](/f32/language/is) | 123 | 152 | 80.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/is.po | 
+ | [ro](/f32/language/ro) | 123 | 152 | 80.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ro.po | 
+ | [zh_Hant_HK](/f32/language/zh_Hant_HK) | 123 | 152 | 80.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/zh_HK.po | 
+ | [hi](/f32/language/hi) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/hi.po | 
+ | [lv](/f32/language/lv) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/lv.po | 
+ | [mk](/f32/language/mk) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mk.po | 
+ | [sc](/f32/language/sc) | 116 | 152 | 76.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sc.po | 
+ | [oc](/f32/language/oc) | 113 | 152 | 74.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/oc.po | 
+ | [es_MX](/f32/language/es_MX) | 110 | 152 | 72.4 | /mnt/stockage/packages/f32/mate-notification-daemon/po/es_MX.po | 
+ | [sq](/f32/language/sq) | 101 | 152 | 66.4 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sq.po | 
+ | [ie](/f32/language/ie) | 94 | 152 | 61.8 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ie.po | 
+ | [be](/f32/language/be) | 85 | 152 | 55.9 | /mnt/stockage/packages/f32/mate-notification-daemon/po/be.po | 
+ | [ur](/f32/language/ur) | 81 | 152 | 53.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ur.po | 
+ | [pa](/f32/language/pa) | 79 | 152 | 52.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/pa.po | 
+ | [mr](/f32/language/mr) | 75 | 152 | 49.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mr.po | 
+ | [uz](/f32/language/uz) | 67 | 152 | 44.1 | /mnt/stockage/packages/f32/mate-notification-daemon/po/uz.po | 
+ | [eo](/f32/language/eo) | 60 | 152 | 39.5 | /mnt/stockage/packages/f32/mate-notification-daemon/po/eo.po | 
+ | [af](/f32/language/af) | 54 | 152 | 35.5 | /mnt/stockage/packages/f32/mate-notification-daemon/po/af.po | 
+ | [ast](/f32/language/ast) | 51 | 152 | 33.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ast.po | 
+ | [ky](/f32/language/ky) | 29 | 152 | 19.1 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ky.po | 
+ | [bs](/f32/language/bs) | 11 | 152 | 7.2 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bs.po | 
+ | [cy](/f32/language/cy) | 10 | 152 | 6.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/cy.po | 
+ | [kn](/f32/language/kn) | 10 | 152 | 6.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/kn.po | 
+ | [te](/f32/language/te) | 10 | 152 | 6.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/te.po | 
+ | [th](/f32/language/th) | 8 | 152 | 5.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/th.po | 
+ | [kmr](/f32/language/kmr) | 7 | 152 | 4.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ku_IQ.po | 
+ | [as](/f32/language/as) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/as.po | 
+ | [bn](/f32/language/bn) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bn.po | 
+ | [bn_IN](/f32/language/bn_IN) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/bn_IN.po | 
+ | [br](/f32/language/br) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/br.po | 
+ | [crh](/f32/language/crh) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/crh.po | 
+ | [ga](/f32/language/ga) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ga.po | 
+ | [gu](/f32/language/gu) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/gu.po | 
+ | [kab](/f32/language/kab) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/kab.po | 
+ | [ml](/f32/language/ml) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ml.po | 
+ | [nn](/f32/language/nn) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/nn.po | 
+ | [or](/f32/language/or) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/or.po | 
+ | [sr_Latn](/f32/language/sr_Latn) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/sr@latin.po | 
+ | [ta](/f32/language/ta) | 4 | 152 | 2.6 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ta.po | 
+ | [dz](/f32/language/dz) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/dz.po | 
+ | [fa](/f32/language/fa) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fa.po | 
+ | [ku](/f32/language/ku) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ku.po | 
+ | [mai](/f32/language/mai) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mai.po | 
+ | [mg](/f32/language/mg) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mg.po | 
+ | [mn](/f32/language/mn) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/mn.po | 
+ | [ne](/f32/language/ne) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ne.po | 
+ | [si](/f32/language/si) | 3 | 152 | 2.0 | /mnt/stockage/packages/f32/mate-notification-daemon/po/si.po | 
+ | [az](/f32/language/az) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/az.po | 
+ | [en_CA](/f32/language/en_CA) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/en_CA.po | 
+ | [fr_CA](/f32/language/fr_CA) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/fr_CA.po | 
+ | [frp](/f32/language/frp) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/frp.po | 
+ | [ha](/f32/language/ha) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ha.po | 
+ | [ig](/f32/language/ig) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ig.po | 
+ | [wa](/f32/language/wa) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/wa.po | 
+ | [xh](/f32/language/xh) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/xh.po | 
+ | [yo](/f32/language/yo) | 2 | 152 | 1.3 | /mnt/stockage/packages/f32/mate-notification-daemon/po/yo.po | 
+ | [ka](/f32/language/ka) | 1 | 152 | 0.7 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ka.po | 
+ | [ps](/f32/language/ps) | 1 | 152 | 0.7 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ps.po | 
+ | [ug](/f32/language/ug) | 1 | 152 | 0.7 | /mnt/stockage/packages/f32/mate-notification-daemon/po/ug.po | 
 {.sortable}
 
 

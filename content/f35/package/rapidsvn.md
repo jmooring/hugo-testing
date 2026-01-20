@@ -18,16 +18,16 @@ The package rapidsvn (version 0.13.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f35/language/de.md" >}}) | 1695 | 1695 | 100.0 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/de/rapidsvn.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 1317 | 1385 | 95.1 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/ja/rapidsvn.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 1284 | 1385 | 92.7 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/fr/rapidsvn.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1202 | 1385 | 86.8 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/ru/rapidsvn.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1200 | 1385 | 86.6 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/hu/rapidsvn.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1055 | 1385 | 76.2 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/zh_CN/rapidsvn.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1007 | 1385 | 72.7 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/it_IT/rapidsvn.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 991 | 1385 | 71.6 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/es/rapidsvn.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 966 | 1385 | 69.7 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/uk/rapidsvn.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 964 | 1385 | 69.6 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/pt_BR/rapidsvn.po | 
+ | [de](/f35/language/de) | 1695 | 1695 | 100.0 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/de/rapidsvn.po | 
+ | [ja](/f35/language/ja) | 1317 | 1385 | 95.1 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/ja/rapidsvn.po | 
+ | [fr](/f35/language/fr) | 1284 | 1385 | 92.7 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/fr/rapidsvn.po | 
+ | [ru](/f35/language/ru) | 1202 | 1385 | 86.8 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/ru/rapidsvn.po | 
+ | [hu](/f35/language/hu) | 1200 | 1385 | 86.6 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/hu/rapidsvn.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1055 | 1385 | 76.2 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/zh_CN/rapidsvn.po | 
+ | [it](/f35/language/it) | 1007 | 1385 | 72.7 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/it_IT/rapidsvn.po | 
+ | [es](/f35/language/es) | 991 | 1385 | 71.6 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/es/rapidsvn.po | 
+ | [uk](/f35/language/uk) | 966 | 1385 | 69.7 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/uk/rapidsvn.po | 
+ | [pt_BR](/f35/language/pt_BR) | 964 | 1385 | 69.6 | /mnt/stockage/packages/f35/rapidsvn/librapidsvn/src/locale/pt_BR/rapidsvn.po | 
 {.sortable}
 
 

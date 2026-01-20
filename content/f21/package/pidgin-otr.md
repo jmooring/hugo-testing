@@ -18,23 +18,23 @@ The package pidgin-otr (version 4.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f21/language/ar.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/ar.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/de.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/el.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/es.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/hu.po | 
- | [it]({{< ref "/f21/language/it.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/it.po | 
- | [my]({{< ref "/f21/language/my.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/my_MM.po | 
- | [nn]({{< ref "/f21/language/nn.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/nn.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 686 | 686 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/pl.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 550 | 550 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/ru.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 625 | 625 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/sv.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 625 | 625 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/vi.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/zh_CN.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 1063 | 1064 | 99.9 | /mnt/stockage/packages/f21/pidgin-otr/po/fa.po | 
- | [sk]({{< ref "/f21/language/sk.md" >}}) | 755 | 758 | 99.6 | /mnt/stockage/packages/f21/pidgin-otr/po/sk.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 1054 | 1064 | 99.1 | /mnt/stockage/packages/f21/pidgin-otr/po/nl.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 1042 | 1064 | 97.9 | /mnt/stockage/packages/f21/pidgin-otr/po/fr.po | 
+ | [ar](/f21/language/ar) | 550 | 550 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/ar.po | 
+ | [de](/f21/language/de) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/de.po | 
+ | [el](/f21/language/el) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/el.po | 
+ | [es](/f21/language/es) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/es.po | 
+ | [hu](/f21/language/hu) | 686 | 686 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/hu.po | 
+ | [it](/f21/language/it) | 550 | 550 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/it.po | 
+ | [my](/f21/language/my) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/my_MM.po | 
+ | [nn](/f21/language/nn) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/nn.po | 
+ | [pl](/f21/language/pl) | 686 | 686 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/pl.po | 
+ | [ru](/f21/language/ru) | 550 | 550 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/ru.po | 
+ | [sv](/f21/language/sv) | 625 | 625 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/sv.po | 
+ | [vi](/f21/language/vi) | 625 | 625 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/vi.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 1064 | 1064 | 100.0 | /mnt/stockage/packages/f21/pidgin-otr/po/zh_CN.po | 
+ | [fa](/f21/language/fa) | 1063 | 1064 | 99.9 | /mnt/stockage/packages/f21/pidgin-otr/po/fa.po | 
+ | [sk](/f21/language/sk) | 755 | 758 | 99.6 | /mnt/stockage/packages/f21/pidgin-otr/po/sk.po | 
+ | [nl](/f21/language/nl) | 1054 | 1064 | 99.1 | /mnt/stockage/packages/f21/pidgin-otr/po/nl.po | 
+ | [fr](/f21/language/fr) | 1042 | 1064 | 97.9 | /mnt/stockage/packages/f21/pidgin-otr/po/fr.po | 
 {.sortable}
 
 

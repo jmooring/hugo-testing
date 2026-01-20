@@ -18,7 +18,7 @@ The package fourterm (version 1.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/fourterm/po/fr.po | 
+ | [fr](/f20/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f20/fourterm/po/fr.po | 
 {.sortable}
 
 

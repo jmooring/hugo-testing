@@ -18,7 +18,7 @@ The package nautilus-search-tool (version 0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f7/language/it.md" >}}) | 11 | 11 | 100.0 | /mnt/stockage/packages/f7/nautilus-search-tool/po/it.po | 
+ | [it](/f7/language/it) | 11 | 11 | 100.0 | /mnt/stockage/packages/f7/nautilus-search-tool/po/it.po | 
 {.sortable}
 
 

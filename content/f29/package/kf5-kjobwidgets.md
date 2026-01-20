@@ -18,101 +18,101 @@ The package kf5-kjobwidgets (version 5.59.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ar/kjobwidgets5_qt.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ca/kjobwidgets5_qt.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ca@valencia/kjobwidgets5_qt.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/da/kjobwidgets5_qt.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/de/kjobwidgets5_qt.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/el/kjobwidgets5_qt.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/en_GB/kjobwidgets5_qt.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/es/kjobwidgets5_qt.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/et/kjobwidgets5_qt.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/eu/kjobwidgets5_qt.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fi/kjobwidgets5_qt.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fr/kjobwidgets5_qt.po | 
- | [gd]({{< ref "/f29/language/gd.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/gd/kjobwidgets5_qt.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/gl/kjobwidgets5_qt.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hu/kjobwidgets5_qt.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ia/kjobwidgets5_qt.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/id/kjobwidgets5_qt.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/it/kjobwidgets5_qt.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ja/kjobwidgets5_qt.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ko/kjobwidgets5_qt.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/lt/kjobwidgets5_qt.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/mr/kjobwidgets5_qt.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nb/kjobwidgets5_qt.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nds/kjobwidgets5_qt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nl/kjobwidgets5_qt.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nn/kjobwidgets5_qt.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pa/kjobwidgets5_qt.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pl/kjobwidgets5_qt.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pt/kjobwidgets5_qt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pt_BR/kjobwidgets5_qt.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ru/kjobwidgets5_qt.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sk/kjobwidgets5_qt.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sl/kjobwidgets5_qt.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr/kjobwidgets5_qt.po | 
- | [sr@ijekavian]({{< ref "/f29/language/sr@ijekavian.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr@ijekavian/kjobwidgets5_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f29/language/sr@ijekavian_Latn.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr@ijekavianlatin/kjobwidgets5_qt.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr@latin/kjobwidgets5_qt.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sv/kjobwidgets5_qt.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/tr/kjobwidgets5_qt.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/uk/kjobwidgets5_qt.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/zh_CN/kjobwidgets5_qt.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/zh_TW/kjobwidgets5_qt.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 117 | 123 | 95.1 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/he/kjobwidgets5_qt.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 105 | 123 | 85.4 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/eo/kjobwidgets5_qt.po | 
- | [en]({{< ref "/f29/language/en.md" >}}) | 58 | 123 | 47.2 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/en/kjobwidgets5_qt.po | 
- | [en_US]({{< ref "/f29/language/en_US.md" >}}) | 123 | 369 | 33.3 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/cs/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/bn/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/vi/kjobwidgets5_qt.po | 
- | [af]({{< ref "/f29/language/af.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/af/kjobwidgets5_qt.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/as/kjobwidgets5_qt.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/be/kjobwidgets5_qt.po | 
- | [be_Latn]({{< ref "/f29/language/be_Latn.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/be@latin/kjobwidgets5_qt.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/bg/kjobwidgets5_qt.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/bn_IN/kjobwidgets5_qt.po | 
- | [br]({{< ref "/f29/language/br.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/br/kjobwidgets5_qt.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/bs/kjobwidgets5_qt.po | 
- | [crh]({{< ref "/f29/language/crh.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/crh/kjobwidgets5_qt.po | 
- | [csb]({{< ref "/f29/language/csb.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/csb/kjobwidgets5_qt.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/cy/kjobwidgets5_qt.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fa/kjobwidgets5_qt.po | 
- | [fy]({{< ref "/f29/language/fy.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fy/kjobwidgets5_qt.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ga/kjobwidgets5_qt.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/gu/kjobwidgets5_qt.po | 
- | [ha]({{< ref "/f29/language/ha.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ha/kjobwidgets5_qt.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 0 | 369 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/mai/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/hne/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/hi/kjobwidgets5_qt.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hr/kjobwidgets5_qt.po | 
- | [hsb]({{< ref "/f29/language/hsb.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hsb/kjobwidgets5_qt.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hy/kjobwidgets5_qt.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/is/kjobwidgets5_qt.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ka/kjobwidgets5_qt.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/kk/kjobwidgets5_qt.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/km/kjobwidgets5_qt.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/kn/kjobwidgets5_qt.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ku/kjobwidgets5_qt.po | 
- | [lb]({{< ref "/f29/language/lb.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/lb/kjobwidgets5_qt.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/lv/kjobwidgets5_qt.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/mk/kjobwidgets5_qt.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ml/kjobwidgets5_qt.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ms/kjobwidgets5_qt.po | 
- | [ne]({{< ref "/f29/language/ne.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ne/kjobwidgets5_qt.po | 
- | [oc]({{< ref "/f29/language/oc.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/oc/kjobwidgets5_qt.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/or/kjobwidgets5_qt.po | 
- | [ps]({{< ref "/f29/language/ps.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ps/kjobwidgets5_qt.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ro/kjobwidgets5_qt.po | 
- | [se]({{< ref "/f29/language/se.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/se/kjobwidgets5_qt.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/si/kjobwidgets5_qt.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sq/kjobwidgets5_qt.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ta/kjobwidgets5_qt.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/te/kjobwidgets5_qt.po | 
- | [tg]({{< ref "/f29/language/tg.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/tg/kjobwidgets5_qt.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/th/kjobwidgets5_qt.po | 
- | [tt]({{< ref "/f29/language/tt.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/tt/kjobwidgets5_qt.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ug/kjobwidgets5_qt.po | 
- | [uz]({{< ref "/f29/language/uz.md" >}}) | 0 | 246 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/uz@cyrillic/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/uz/kjobwidgets5_qt.po | 
- | [wa]({{< ref "/f29/language/wa.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/wa/kjobwidgets5_qt.po | 
- | [xh]({{< ref "/f29/language/xh.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/xh/kjobwidgets5_qt.po | 
- | [zh_Hant_HK]({{< ref "/f29/language/zh_Hant_HK.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/zh_HK/kjobwidgets5_qt.po | 
+ | [ar](/f29/language/ar) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ar/kjobwidgets5_qt.po | 
+ | [ca](/f29/language/ca) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ca/kjobwidgets5_qt.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ca@valencia/kjobwidgets5_qt.po | 
+ | [da](/f29/language/da) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/da/kjobwidgets5_qt.po | 
+ | [de](/f29/language/de) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/de/kjobwidgets5_qt.po | 
+ | [el](/f29/language/el) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/el/kjobwidgets5_qt.po | 
+ | [en_GB](/f29/language/en_GB) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/en_GB/kjobwidgets5_qt.po | 
+ | [es](/f29/language/es) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/es/kjobwidgets5_qt.po | 
+ | [et](/f29/language/et) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/et/kjobwidgets5_qt.po | 
+ | [eu](/f29/language/eu) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/eu/kjobwidgets5_qt.po | 
+ | [fi](/f29/language/fi) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fi/kjobwidgets5_qt.po | 
+ | [fr](/f29/language/fr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fr/kjobwidgets5_qt.po | 
+ | [gd](/f29/language/gd) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/gd/kjobwidgets5_qt.po | 
+ | [gl](/f29/language/gl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/gl/kjobwidgets5_qt.po | 
+ | [hu](/f29/language/hu) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hu/kjobwidgets5_qt.po | 
+ | [ia](/f29/language/ia) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ia/kjobwidgets5_qt.po | 
+ | [id](/f29/language/id) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/id/kjobwidgets5_qt.po | 
+ | [it](/f29/language/it) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/it/kjobwidgets5_qt.po | 
+ | [ja](/f29/language/ja) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ja/kjobwidgets5_qt.po | 
+ | [ko](/f29/language/ko) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ko/kjobwidgets5_qt.po | 
+ | [lt](/f29/language/lt) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/lt/kjobwidgets5_qt.po | 
+ | [mr](/f29/language/mr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/mr/kjobwidgets5_qt.po | 
+ | [nb_NO](/f29/language/nb_NO) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nb/kjobwidgets5_qt.po | 
+ | [nds](/f29/language/nds) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nds/kjobwidgets5_qt.po | 
+ | [nl](/f29/language/nl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nl/kjobwidgets5_qt.po | 
+ | [nn](/f29/language/nn) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/nn/kjobwidgets5_qt.po | 
+ | [pa](/f29/language/pa) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pa/kjobwidgets5_qt.po | 
+ | [pl](/f29/language/pl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pl/kjobwidgets5_qt.po | 
+ | [pt](/f29/language/pt) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pt/kjobwidgets5_qt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/pt_BR/kjobwidgets5_qt.po | 
+ | [ru](/f29/language/ru) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ru/kjobwidgets5_qt.po | 
+ | [sk](/f29/language/sk) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sk/kjobwidgets5_qt.po | 
+ | [sl](/f29/language/sl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sl/kjobwidgets5_qt.po | 
+ | [sr](/f29/language/sr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr/kjobwidgets5_qt.po | 
+ | [sr@ijekavian](/f29/language/sr@ijekavian) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr@ijekavian/kjobwidgets5_qt.po | 
+ | [sr@ijekavian_Latn](/f29/language/sr@ijekavian_Latn) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr@ijekavianlatin/kjobwidgets5_qt.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sr@latin/kjobwidgets5_qt.po | 
+ | [sv](/f29/language/sv) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sv/kjobwidgets5_qt.po | 
+ | [tr](/f29/language/tr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/tr/kjobwidgets5_qt.po | 
+ | [uk](/f29/language/uk) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/uk/kjobwidgets5_qt.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/zh_CN/kjobwidgets5_qt.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 123 | 123 | 100.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/zh_TW/kjobwidgets5_qt.po | 
+ | [he](/f29/language/he) | 117 | 123 | 95.1 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/he/kjobwidgets5_qt.po | 
+ | [eo](/f29/language/eo) | 105 | 123 | 85.4 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/eo/kjobwidgets5_qt.po | 
+ | [en](/f29/language/en) | 58 | 123 | 47.2 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/en/kjobwidgets5_qt.po | 
+ | [en_US](/f29/language/en_US) | 123 | 369 | 33.3 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/cs/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/bn/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/vi/kjobwidgets5_qt.po | 
+ | [af](/f29/language/af) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/af/kjobwidgets5_qt.po | 
+ | [as](/f29/language/as) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/as/kjobwidgets5_qt.po | 
+ | [be](/f29/language/be) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/be/kjobwidgets5_qt.po | 
+ | [be_Latn](/f29/language/be_Latn) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/be@latin/kjobwidgets5_qt.po | 
+ | [bg](/f29/language/bg) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/bg/kjobwidgets5_qt.po | 
+ | [bn_IN](/f29/language/bn_IN) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/bn_IN/kjobwidgets5_qt.po | 
+ | [br](/f29/language/br) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/br/kjobwidgets5_qt.po | 
+ | [bs](/f29/language/bs) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/bs/kjobwidgets5_qt.po | 
+ | [crh](/f29/language/crh) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/crh/kjobwidgets5_qt.po | 
+ | [csb](/f29/language/csb) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/csb/kjobwidgets5_qt.po | 
+ | [cy](/f29/language/cy) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/cy/kjobwidgets5_qt.po | 
+ | [fa](/f29/language/fa) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fa/kjobwidgets5_qt.po | 
+ | [fy](/f29/language/fy) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/fy/kjobwidgets5_qt.po | 
+ | [ga](/f29/language/ga) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ga/kjobwidgets5_qt.po | 
+ | [gu](/f29/language/gu) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/gu/kjobwidgets5_qt.po | 
+ | [ha](/f29/language/ha) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ha/kjobwidgets5_qt.po | 
+ | [hi](/f29/language/hi) | 0 | 369 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/mai/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/hne/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/hi/kjobwidgets5_qt.po | 
+ | [hr](/f29/language/hr) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hr/kjobwidgets5_qt.po | 
+ | [hsb](/f29/language/hsb) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hsb/kjobwidgets5_qt.po | 
+ | [hy](/f29/language/hy) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/hy/kjobwidgets5_qt.po | 
+ | [is](/f29/language/is) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/is/kjobwidgets5_qt.po | 
+ | [ka](/f29/language/ka) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ka/kjobwidgets5_qt.po | 
+ | [kk](/f29/language/kk) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/kk/kjobwidgets5_qt.po | 
+ | [km](/f29/language/km) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/km/kjobwidgets5_qt.po | 
+ | [kn](/f29/language/kn) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/kn/kjobwidgets5_qt.po | 
+ | [ku](/f29/language/ku) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ku/kjobwidgets5_qt.po | 
+ | [lb](/f29/language/lb) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/lb/kjobwidgets5_qt.po | 
+ | [lv](/f29/language/lv) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/lv/kjobwidgets5_qt.po | 
+ | [mk](/f29/language/mk) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/mk/kjobwidgets5_qt.po | 
+ | [ml](/f29/language/ml) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ml/kjobwidgets5_qt.po | 
+ | [ms](/f29/language/ms) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ms/kjobwidgets5_qt.po | 
+ | [ne](/f29/language/ne) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ne/kjobwidgets5_qt.po | 
+ | [oc](/f29/language/oc) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/oc/kjobwidgets5_qt.po | 
+ | [or](/f29/language/or) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/or/kjobwidgets5_qt.po | 
+ | [ps](/f29/language/ps) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ps/kjobwidgets5_qt.po | 
+ | [ro](/f29/language/ro) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ro/kjobwidgets5_qt.po | 
+ | [se](/f29/language/se) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/se/kjobwidgets5_qt.po | 
+ | [si](/f29/language/si) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/si/kjobwidgets5_qt.po | 
+ | [sq](/f29/language/sq) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/sq/kjobwidgets5_qt.po | 
+ | [ta](/f29/language/ta) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ta/kjobwidgets5_qt.po | 
+ | [te](/f29/language/te) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/te/kjobwidgets5_qt.po | 
+ | [tg](/f29/language/tg) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/tg/kjobwidgets5_qt.po | 
+ | [th](/f29/language/th) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/th/kjobwidgets5_qt.po | 
+ | [tt](/f29/language/tt) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/tt/kjobwidgets5_qt.po | 
+ | [ug](/f29/language/ug) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/ug/kjobwidgets5_qt.po | 
+ | [uz](/f29/language/uz) | 0 | 246 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/uz@cyrillic/kjobwidgets5_qt.po/mnt/stockage/packages/f29/kf5-kjobwidgets/po/uz/kjobwidgets5_qt.po | 
+ | [wa](/f29/language/wa) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/wa/kjobwidgets5_qt.po | 
+ | [xh](/f29/language/xh) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/xh/kjobwidgets5_qt.po | 
+ | [zh_Hant_HK](/f29/language/zh_Hant_HK) | 0 | 123 | 0.0 | /mnt/stockage/packages/f29/kf5-kjobwidgets/po/zh_HK/kjobwidgets5_qt.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package pidgin-birthday-reminder (version 1.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/fr.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/ru.po | 
+ | [de](/f11/language/de) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/de.po | 
+ | [es](/f11/language/es) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/es.po | 
+ | [fr](/f11/language/fr) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/fr.po | 
+ | [ru](/f11/language/ru) | 234 | 234 | 100.0 | /mnt/stockage/packages/f11/pidgin-birthday-reminder/po/ru.po | 
 {.sortable}
 
 

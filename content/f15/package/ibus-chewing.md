@@ -18,8 +18,8 @@ The package ibus-chewing (version 1.3.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 252 | 267 | 94.4 | /mnt/stockage/packages/f15/ibus-chewing/po/zh_TW.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 18 | 267 | 6.7 | /mnt/stockage/packages/f15/ibus-chewing/po/zh_CN.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 252 | 267 | 94.4 | /mnt/stockage/packages/f15/ibus-chewing/po/zh_TW.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 18 | 267 | 6.7 | /mnt/stockage/packages/f15/ibus-chewing/po/zh_CN.po | 
 {.sortable}
 
 

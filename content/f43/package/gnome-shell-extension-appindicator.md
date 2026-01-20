@@ -18,27 +18,27 @@ The package gnome-shell-extension-appindicator (version 61):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ar.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/cs.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/fr.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/hu.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ka.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ko.po | 
- | [oc]({{< ref "/f43/language/oc.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/oc.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/pl.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ru.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/sk.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ta.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/tr.po | 
- | [uk]({{< ref "/f43/language/uk.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/uk.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/zh_TW.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 102 | 105 | 97.1 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/zh_CN.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 64 | 190 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/nl.po/mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/de.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ja.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/pt_BR.po | 
- | [sr]({{< ref "/f43/language/sr.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/sr.po | 
- | [sr_Latn]({{< ref "/f43/language/sr_Latn.md" >}}) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/sr@latin.po | 
+ | [ar](/f43/language/ar) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ar.po | 
+ | [cs](/f43/language/cs) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/cs.po | 
+ | [fr](/f43/language/fr) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/fr.po | 
+ | [hu](/f43/language/hu) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/hu.po | 
+ | [ka](/f43/language/ka) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ka.po | 
+ | [ko](/f43/language/ko) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ko.po | 
+ | [oc](/f43/language/oc) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/oc.po | 
+ | [pl](/f43/language/pl) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/pl.po | 
+ | [ru](/f43/language/ru) | 91 | 91 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ru.po | 
+ | [sk](/f43/language/sk) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/sk.po | 
+ | [ta](/f43/language/ta) | 95 | 95 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ta.po | 
+ | [tr](/f43/language/tr) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/tr.po | 
+ | [uk](/f43/language/uk) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/uk.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 105 | 105 | 100.0 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/zh_TW.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 102 | 105 | 97.1 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/zh_CN.po | 
+ | [de](/f43/language/de) | 64 | 190 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/nl.po/mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/de.po | 
+ | [it](/f43/language/it) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/it.po | 
+ | [ja](/f43/language/ja) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/ja.po | 
+ | [pt_BR](/f43/language/pt_BR) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/pt_BR.po | 
+ | [sr](/f43/language/sr) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/sr.po | 
+ | [sr_Latn](/f43/language/sr_Latn) | 32 | 95 | 33.7 | /mnt/stockage/packages/f43/gnome-shell-extension-appindicator/locale/sr@latin.po | 
 {.sortable}
 
 

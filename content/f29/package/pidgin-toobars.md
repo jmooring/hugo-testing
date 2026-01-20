@@ -18,12 +18,12 @@ The package pidgin-toobars (version 1.14):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/cs.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/de.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 232 | 232 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/fr.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/pl.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 459 | 459 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/ru.po | 
+ | [cs](/f29/language/cs) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/cs.po | 
+ | [de](/f29/language/de) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/de.po | 
+ | [es](/f29/language/es) | 232 | 232 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/es.po | 
+ | [fr](/f29/language/fr) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/fr.po | 
+ | [pl](/f29/language/pl) | 299 | 299 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/pl.po | 
+ | [ru](/f29/language/ru) | 459 | 459 | 100.0 | /mnt/stockage/packages/f29/pidgin-toobars/po/ru.po | 
 {.sortable}
 
 

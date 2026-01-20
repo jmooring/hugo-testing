@@ -18,44 +18,44 @@ The package mingw-mediawriter (version 5.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_cs.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_es.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fi.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fr.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fur.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_it.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ko.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pt-BR.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ru.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_uk.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 840 | 845 | 99.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_he.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 840 | 845 | 99.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_zh-CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 834 | 845 | 98.7 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_de.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 829 | 845 | 98.1 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_zh-TW.po | 
- | [ar]({{< ref "/f35/language/ar.md" >}}) | 764 | 845 | 90.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ar.po | 
- | [fil]({{< ref "/f35/language/fil.md" >}}) | 749 | 845 | 88.6 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fil.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 700 | 845 | 82.8 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ja.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 565 | 845 | 66.9 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_id.po | 
- | [fa]({{< ref "/f35/language/fa.md" >}}) | 483 | 845 | 57.2 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fa.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 434 | 845 | 51.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_da.po | 
- | [hr]({{< ref "/f35/language/hr.md" >}}) | 434 | 845 | 51.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_hr.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 434 | 845 | 51.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sk.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 423 | 845 | 50.1 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_hu.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 418 | 845 | 49.5 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_nl.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 411 | 845 | 48.6 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ca.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 411 | 845 | 48.6 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sr.po | 
- | [pa]({{< ref "/f35/language/pa.md" >}}) | 401 | 845 | 47.5 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pa.po | 
- | [bg]({{< ref "/f35/language/bg.md" >}}) | 293 | 845 | 34.7 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_bg.po | 
- | [sq]({{< ref "/f35/language/sq.md" >}}) | 275 | 845 | 32.5 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sq.po | 
- | [ml]({{< ref "/f35/language/ml.md" >}}) | 221 | 845 | 26.2 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ml.po | 
- | [ta]({{< ref "/f35/language/ta.md" >}}) | 195 | 845 | 23.1 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ta.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 10 | 845 | 1.2 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_eu.po | 
- | [kn]({{< ref "/f35/language/kn.md" >}}) | 3 | 845 | 0.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_kn.po | 
- | [ka]({{< ref "/f35/language/ka.md" >}}) | 0 | 845 | 0.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ka.po | 
+ | [cs](/f35/language/cs) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_cs.po | 
+ | [es](/f35/language/es) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_es.po | 
+ | [fi](/f35/language/fi) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fi.po | 
+ | [fr](/f35/language/fr) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fr.po | 
+ | [fur](/f35/language/fur) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fur.po | 
+ | [it](/f35/language/it) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_it.po | 
+ | [ko](/f35/language/ko) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ko.po | 
+ | [pl](/f35/language/pl) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pl.po | 
+ | [pt](/f35/language/pt) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pt-BR.po | 
+ | [ru](/f35/language/ru) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ru.po | 
+ | [sv](/f35/language/sv) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sv.po | 
+ | [tr](/f35/language/tr) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_tr.po | 
+ | [uk](/f35/language/uk) | 845 | 845 | 100.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_uk.po | 
+ | [he](/f35/language/he) | 840 | 845 | 99.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_he.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 840 | 845 | 99.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_zh-CN.po | 
+ | [de](/f35/language/de) | 834 | 845 | 98.7 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_de.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 829 | 845 | 98.1 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_zh-TW.po | 
+ | [ar](/f35/language/ar) | 764 | 845 | 90.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ar.po | 
+ | [fil](/f35/language/fil) | 749 | 845 | 88.6 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fil.po | 
+ | [ja](/f35/language/ja) | 700 | 845 | 82.8 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ja.po | 
+ | [id](/f35/language/id) | 565 | 845 | 66.9 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_id.po | 
+ | [fa](/f35/language/fa) | 483 | 845 | 57.2 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_fa.po | 
+ | [da](/f35/language/da) | 434 | 845 | 51.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_da.po | 
+ | [hr](/f35/language/hr) | 434 | 845 | 51.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_hr.po | 
+ | [sk](/f35/language/sk) | 434 | 845 | 51.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sk.po | 
+ | [hu](/f35/language/hu) | 423 | 845 | 50.1 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_hu.po | 
+ | [nl](/f35/language/nl) | 418 | 845 | 49.5 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_nl.po | 
+ | [ca](/f35/language/ca) | 411 | 845 | 48.6 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ca.po | 
+ | [sr](/f35/language/sr) | 411 | 845 | 48.6 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sr.po | 
+ | [pa](/f35/language/pa) | 401 | 845 | 47.5 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_pa.po | 
+ | [bg](/f35/language/bg) | 293 | 845 | 34.7 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_bg.po | 
+ | [sq](/f35/language/sq) | 275 | 845 | 32.5 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_sq.po | 
+ | [ml](/f35/language/ml) | 221 | 845 | 26.2 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ml.po | 
+ | [ta](/f35/language/ta) | 195 | 845 | 23.1 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ta.po | 
+ | [eu](/f35/language/eu) | 10 | 845 | 1.2 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_eu.po | 
+ | [kn](/f35/language/kn) | 3 | 845 | 0.4 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_kn.po | 
+ | [ka](/f35/language/ka) | 0 | 845 | 0.0 | /mnt/stockage/packages/f35/mingw-mediawriter/po/mediawriter_ka.po | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package gretl (version 1.9.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 14251 | 14251 | 100.0 | /mnt/stockage/packages/f18/gretl/po/tr.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 14249 | 14251 | 100.0 | /mnt/stockage/packages/f18/gretl/po/pl.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 14197 | 14251 | 99.6 | /mnt/stockage/packages/f18/gretl/po/de.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 28394 | 28502 | 99.6 | /mnt/stockage/packages/f18/gretl/po/pt_BR.po/mnt/stockage/packages/f18/gretl/po/pt.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 27996 | 28502 | 98.2 | /mnt/stockage/packages/f18/gretl/po/es.po/mnt/stockage/packages/f18/gretl/po/cs.po | 
- | [sq]({{< ref "/f18/language/sq.md" >}}) | 13741 | 14251 | 96.4 | /mnt/stockage/packages/f18/gretl/po/sq.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 13658 | 14251 | 95.8 | /mnt/stockage/packages/f18/gretl/po/it.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 13620 | 14251 | 95.6 | /mnt/stockage/packages/f18/gretl/po/fr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 12646 | 14251 | 88.7 | /mnt/stockage/packages/f18/gretl/po/ru.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 12210 | 14251 | 85.7 | /mnt/stockage/packages/f18/gretl/po/el.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 11271 | 14251 | 79.1 | /mnt/stockage/packages/f18/gretl/po/eu.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 8105 | 14251 | 56.9 | /mnt/stockage/packages/f18/gretl/po/zh_TW.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 85 | 12610 | 0.7 | /mnt/stockage/packages/f18/gretl/po/rw.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 9 | 12610 | 0.1 | /mnt/stockage/packages/f18/gretl/po/ja.po | 
+ | [tr](/f18/language/tr) | 14251 | 14251 | 100.0 | /mnt/stockage/packages/f18/gretl/po/tr.po | 
+ | [pl](/f18/language/pl) | 14249 | 14251 | 100.0 | /mnt/stockage/packages/f18/gretl/po/pl.po | 
+ | [de](/f18/language/de) | 14197 | 14251 | 99.6 | /mnt/stockage/packages/f18/gretl/po/de.po | 
+ | [pt](/f18/language/pt) | 28394 | 28502 | 99.6 | /mnt/stockage/packages/f18/gretl/po/pt_BR.po/mnt/stockage/packages/f18/gretl/po/pt.po | 
+ | [es](/f18/language/es) | 27996 | 28502 | 98.2 | /mnt/stockage/packages/f18/gretl/po/es.po/mnt/stockage/packages/f18/gretl/po/cs.po | 
+ | [sq](/f18/language/sq) | 13741 | 14251 | 96.4 | /mnt/stockage/packages/f18/gretl/po/sq.po | 
+ | [it](/f18/language/it) | 13658 | 14251 | 95.8 | /mnt/stockage/packages/f18/gretl/po/it.po | 
+ | [fr](/f18/language/fr) | 13620 | 14251 | 95.6 | /mnt/stockage/packages/f18/gretl/po/fr.po | 
+ | [ru](/f18/language/ru) | 12646 | 14251 | 88.7 | /mnt/stockage/packages/f18/gretl/po/ru.po | 
+ | [el](/f18/language/el) | 12210 | 14251 | 85.7 | /mnt/stockage/packages/f18/gretl/po/el.po | 
+ | [eu](/f18/language/eu) | 11271 | 14251 | 79.1 | /mnt/stockage/packages/f18/gretl/po/eu.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 8105 | 14251 | 56.9 | /mnt/stockage/packages/f18/gretl/po/zh_TW.po | 
+ | [rw](/f18/language/rw) | 85 | 12610 | 0.7 | /mnt/stockage/packages/f18/gretl/po/rw.po | 
+ | [ja](/f18/language/ja) | 9 | 12610 | 0.1 | /mnt/stockage/packages/f18/gretl/po/ja.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package postr (version 0.12.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/postr/po/sv.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 79 | 81 | 97.5 | /mnt/stockage/packages/f15/postr/po/de.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 79 | 81 | 97.5 | /mnt/stockage/packages/f15/postr/po/fr.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 79 | 81 | 97.5 | /mnt/stockage/packages/f15/postr/po/it.po | 
+ | [sv](/f15/language/sv) | 81 | 81 | 100.0 | /mnt/stockage/packages/f15/postr/po/sv.po | 
+ | [de](/f15/language/de) | 79 | 81 | 97.5 | /mnt/stockage/packages/f15/postr/po/de.po | 
+ | [fr](/f15/language/fr) | 79 | 81 | 97.5 | /mnt/stockage/packages/f15/postr/po/fr.po | 
+ | [it](/f15/language/it) | 79 | 81 | 97.5 | /mnt/stockage/packages/f15/postr/po/it.po | 
 {.sortable}
 
 

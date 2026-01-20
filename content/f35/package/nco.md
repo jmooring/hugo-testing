@@ -18,8 +18,8 @@ The package nco (version 5.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f35/language/es.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f35/nco/po/es/nco.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f35/nco/po/fr/nco.po | 
+ | [es](/f35/language/es) | 34 | 34 | 100.0 | /mnt/stockage/packages/f35/nco/po/es/nco.po | 
+ | [fr](/f35/language/fr) | 34 | 34 | 100.0 | /mnt/stockage/packages/f35/nco/po/fr/nco.po | 
 {.sortable}
 
 

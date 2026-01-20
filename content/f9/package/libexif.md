@@ -18,14 +18,14 @@ The package libexif (version 0.6.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 5391 | 5406 | 99.7 | /mnt/stockage/packages/f9/libexif/po/pl.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 5391 | 5406 | 99.7 | /mnt/stockage/packages/f9/libexif/po/vi.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 4989 | 5406 | 92.3 | /mnt/stockage/packages/f9/libexif/po/de.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 3411 | 5406 | 63.1 | /mnt/stockage/packages/f9/libexif/po/es.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 2547 | 5406 | 47.1 | /mnt/stockage/packages/f9/libexif/po/ru.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 2429 | 5406 | 44.9 | /mnt/stockage/packages/f9/libexif/po/cs.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 1570 | 5406 | 29.0 | /mnt/stockage/packages/f9/libexif/po/sk.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1377 | 5406 | 25.5 | /mnt/stockage/packages/f9/libexif/po/fr.po | 
+ | [pl](/f9/language/pl) | 5391 | 5406 | 99.7 | /mnt/stockage/packages/f9/libexif/po/pl.po | 
+ | [vi](/f9/language/vi) | 5391 | 5406 | 99.7 | /mnt/stockage/packages/f9/libexif/po/vi.po | 
+ | [de](/f9/language/de) | 4989 | 5406 | 92.3 | /mnt/stockage/packages/f9/libexif/po/de.po | 
+ | [es](/f9/language/es) | 3411 | 5406 | 63.1 | /mnt/stockage/packages/f9/libexif/po/es.po | 
+ | [ru](/f9/language/ru) | 2547 | 5406 | 47.1 | /mnt/stockage/packages/f9/libexif/po/ru.po | 
+ | [cs](/f9/language/cs) | 2429 | 5406 | 44.9 | /mnt/stockage/packages/f9/libexif/po/cs.po | 
+ | [sk](/f9/language/sk) | 1570 | 5406 | 29.0 | /mnt/stockage/packages/f9/libexif/po/sk.po | 
+ | [fr](/f9/language/fr) | 1377 | 5406 | 25.5 | /mnt/stockage/packages/f9/libexif/po/fr.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package turpial (version 3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/ca/LC_MESSAGES/turpial.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/de/LC_MESSAGES/turpial.po | 
- | [eo]({{< ref "/f25/language/eo.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/eo/LC_MESSAGES/turpial.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/es/LC_MESSAGES/turpial.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/fr/LC_MESSAGES/turpial.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/it/LC_MESSAGES/turpial.po | 
- | [ja]({{< ref "/f25/language/ja.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/ja/LC_MESSAGES/turpial.po | 
- | [pt_BR]({{< ref "/f25/language/pt_BR.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/pt_BR/LC_MESSAGES/turpial.po | 
- | [pt_PT]({{< ref "/f25/language/pt_PT.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/pt_PT/LC_MESSAGES/turpial.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/ru_RU/LC_MESSAGES/turpial.po | 
- | [tr]({{< ref "/f25/language/tr.md" >}}) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/tr/LC_MESSAGES/turpial.po | 
+ | [ca](/f25/language/ca) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/ca/LC_MESSAGES/turpial.po | 
+ | [de](/f25/language/de) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/de/LC_MESSAGES/turpial.po | 
+ | [eo](/f25/language/eo) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/eo/LC_MESSAGES/turpial.po | 
+ | [es](/f25/language/es) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/es/LC_MESSAGES/turpial.po | 
+ | [fr](/f25/language/fr) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/fr/LC_MESSAGES/turpial.po | 
+ | [it](/f25/language/it) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/it/LC_MESSAGES/turpial.po | 
+ | [ja](/f25/language/ja) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/ja/LC_MESSAGES/turpial.po | 
+ | [pt_BR](/f25/language/pt_BR) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/pt_BR/LC_MESSAGES/turpial.po | 
+ | [pt_PT](/f25/language/pt_PT) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/pt_PT/LC_MESSAGES/turpial.po | 
+ | [ru](/f25/language/ru) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/ru_RU/LC_MESSAGES/turpial.po | 
+ | [tr](/f25/language/tr) | 858 | 858 | 100.0 | /mnt/stockage/packages/f25/turpial/turpial/i18n/tr/LC_MESSAGES/turpial.po | 
 {.sortable}
 
 

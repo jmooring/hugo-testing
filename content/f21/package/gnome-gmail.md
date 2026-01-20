@@ -18,33 +18,33 @@ The package gnome-gmail (version 1.9.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f21/language/it.md" >}}) | 83 | 99 | 83.8 | /mnt/stockage/packages/f21/gnome-gmail/po/it.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/de.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/fr.po | 
- | [id]({{< ref "/f21/language/id.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/id.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/ms.po | 
- | [pt_BR]({{< ref "/f21/language/pt_BR.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/pt_BR.po | 
- | [sv]({{< ref "/f21/language/sv.md" >}}) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/sv.po | 
- | [pt]({{< ref "/f21/language/pt.md" >}}) | 54 | 99 | 54.5 | /mnt/stockage/packages/f21/gnome-gmail/po/pt.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/es.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/pl.po | 
- | [ta]({{< ref "/f21/language/ta.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/ta.po | 
- | [ta_LK]({{< ref "/f21/language/ta_LK.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/ta_LK.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/uk.po | 
- | [vi]({{< ref "/f21/language/vi.md" >}}) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/vi.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 50 | 99 | 50.5 | /mnt/stockage/packages/f21/gnome-gmail/po/hu.po | 
- | [zh_Hant]({{< ref "/f21/language/zh_Hant.md" >}}) | 45 | 99 | 45.5 | /mnt/stockage/packages/f21/gnome-gmail/po/zh_TW.po | 
- | [el]({{< ref "/f21/language/el.md" >}}) | 21 | 99 | 21.2 | /mnt/stockage/packages/f21/gnome-gmail/po/el_GR.po | 
- | [fa]({{< ref "/f21/language/fa.md" >}}) | 15 | 99 | 15.2 | /mnt/stockage/packages/f21/gnome-gmail/po/fa.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 14 | 99 | 14.1 | /mnt/stockage/packages/f21/gnome-gmail/po/ro.po | 
- | [et]({{< ref "/f21/language/et.md" >}}) | 12 | 99 | 12.1 | /mnt/stockage/packages/f21/gnome-gmail/po/et.po | 
- | [hy]({{< ref "/f21/language/hy.md" >}}) | 10 | 99 | 10.1 | /mnt/stockage/packages/f21/gnome-gmail/po/hy.po | 
- | [zh_Hans]({{< ref "/f21/language/zh_Hans.md" >}}) | 7 | 99 | 7.1 | /mnt/stockage/packages/f21/gnome-gmail/po/zh_CN.po | 
- | [ps]({{< ref "/f21/language/ps.md" >}}) | 5 | 99 | 5.1 | /mnt/stockage/packages/f21/gnome-gmail/po/ps.po | 
- | [ja]({{< ref "/f21/language/ja.md" >}}) | 2 | 99 | 2.0 | /mnt/stockage/packages/f21/gnome-gmail/po/ja.po | 
- | [da]({{< ref "/f21/language/da.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f21/gnome-gmail/po/da.po | 
- | [fi]({{< ref "/f21/language/fi.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f21/gnome-gmail/po/fi.po | 
+ | [it](/f21/language/it) | 83 | 99 | 83.8 | /mnt/stockage/packages/f21/gnome-gmail/po/it.po | 
+ | [de](/f21/language/de) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/de.po | 
+ | [fr](/f21/language/fr) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/fr.po | 
+ | [id](/f21/language/id) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/id.po | 
+ | [ms](/f21/language/ms) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/ms.po | 
+ | [pt_BR](/f21/language/pt_BR) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/pt_BR.po | 
+ | [sv](/f21/language/sv) | 76 | 99 | 76.8 | /mnt/stockage/packages/f21/gnome-gmail/po/sv.po | 
+ | [pt](/f21/language/pt) | 54 | 99 | 54.5 | /mnt/stockage/packages/f21/gnome-gmail/po/pt.po | 
+ | [es](/f21/language/es) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/es.po | 
+ | [pl](/f21/language/pl) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/pl.po | 
+ | [ta](/f21/language/ta) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/ta.po | 
+ | [ta_LK](/f21/language/ta_LK) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/ta_LK.po | 
+ | [tr](/f21/language/tr) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/tr.po | 
+ | [uk](/f21/language/uk) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/uk.po | 
+ | [vi](/f21/language/vi) | 51 | 99 | 51.5 | /mnt/stockage/packages/f21/gnome-gmail/po/vi.po | 
+ | [hu](/f21/language/hu) | 50 | 99 | 50.5 | /mnt/stockage/packages/f21/gnome-gmail/po/hu.po | 
+ | [zh_Hant](/f21/language/zh_Hant) | 45 | 99 | 45.5 | /mnt/stockage/packages/f21/gnome-gmail/po/zh_TW.po | 
+ | [el](/f21/language/el) | 21 | 99 | 21.2 | /mnt/stockage/packages/f21/gnome-gmail/po/el_GR.po | 
+ | [fa](/f21/language/fa) | 15 | 99 | 15.2 | /mnt/stockage/packages/f21/gnome-gmail/po/fa.po | 
+ | [ro](/f21/language/ro) | 14 | 99 | 14.1 | /mnt/stockage/packages/f21/gnome-gmail/po/ro.po | 
+ | [et](/f21/language/et) | 12 | 99 | 12.1 | /mnt/stockage/packages/f21/gnome-gmail/po/et.po | 
+ | [hy](/f21/language/hy) | 10 | 99 | 10.1 | /mnt/stockage/packages/f21/gnome-gmail/po/hy.po | 
+ | [zh_Hans](/f21/language/zh_Hans) | 7 | 99 | 7.1 | /mnt/stockage/packages/f21/gnome-gmail/po/zh_CN.po | 
+ | [ps](/f21/language/ps) | 5 | 99 | 5.1 | /mnt/stockage/packages/f21/gnome-gmail/po/ps.po | 
+ | [ja](/f21/language/ja) | 2 | 99 | 2.0 | /mnt/stockage/packages/f21/gnome-gmail/po/ja.po | 
+ | [da](/f21/language/da) | 0 | 99 | 0.0 | /mnt/stockage/packages/f21/gnome-gmail/po/da.po | 
+ | [fi](/f21/language/fi) | 0 | 99 | 0.0 | /mnt/stockage/packages/f21/gnome-gmail/po/fi.po | 
 {.sortable}
 
 

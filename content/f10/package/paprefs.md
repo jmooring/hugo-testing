@@ -18,14 +18,14 @@ The package paprefs (version 0.9.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/fr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/hu.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/pt_BR.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/sv.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 91 | 91 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/tr.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 15 | 99 | 15.2 | /mnt/stockage/packages/f10/paprefs/po/el.po | 
+ | [de](/f10/language/de) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/de.po | 
+ | [fr](/f10/language/fr) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/fr.po | 
+ | [hu](/f10/language/hu) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/hu.po | 
+ | [pl](/f10/language/pl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 91 | 91 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/pt_BR.po | 
+ | [sv](/f10/language/sv) | 99 | 99 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/sv.po | 
+ | [tr](/f10/language/tr) | 91 | 91 | 100.0 | /mnt/stockage/packages/f10/paprefs/po/tr.po | 
+ | [el](/f10/language/el) | 15 | 99 | 15.2 | /mnt/stockage/packages/f10/paprefs/po/el.po | 
 {.sortable}
 
 

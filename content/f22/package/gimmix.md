@@ -18,12 +18,12 @@ The package gimmix (version 0.5.7.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 533 | 533 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/de.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/fr.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/sv.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 534 | 534 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/tr.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 678 | 678 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/zh_TW.po | 
+ | [cs](/f22/language/cs) | 534 | 534 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/cs.po | 
+ | [de](/f22/language/de) | 533 | 533 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/de.po | 
+ | [fr](/f22/language/fr) | 521 | 521 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/fr.po | 
+ | [sv](/f22/language/sv) | 534 | 534 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/sv.po | 
+ | [tr](/f22/language/tr) | 534 | 534 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/tr.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 678 | 678 | 100.0 | /mnt/stockage/packages/f22/gimmix/po/zh_TW.po | 
 {.sortable}
 
 

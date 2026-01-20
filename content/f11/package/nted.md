@@ -18,15 +18,15 @@ The package nted (version 1.9.19):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f11/nted/po/nl.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 1240 | 1292 | 96.0 | /mnt/stockage/packages/f11/nted/po/zh_CN.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 1229 | 1292 | 95.1 | /mnt/stockage/packages/f11/nted/po/ru.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 12987 | 13897 | 93.5 | /mnt/stockage/packages/f11/nted/doc/de/de.po/mnt/stockage/packages/f11/nted/po/de.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 12952 | 13897 | 93.2 | /mnt/stockage/packages/f11/nted/doc/es/es.po/mnt/stockage/packages/f11/nted/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 10711 | 13897 | 77.1 | /mnt/stockage/packages/f11/nted/doc/it/it.po/mnt/stockage/packages/f11/nted/po/it.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 681 | 1292 | 52.7 | /mnt/stockage/packages/f11/nted/po/sv.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 413 | 1292 | 32.0 | /mnt/stockage/packages/f11/nted/po/hu.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 1182 | 13897 | 8.5 | /mnt/stockage/packages/f11/nted/doc/fr/fr.po/mnt/stockage/packages/f11/nted/po/fr.po | 
+ | [nl](/f11/language/nl) | 1292 | 1292 | 100.0 | /mnt/stockage/packages/f11/nted/po/nl.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 1240 | 1292 | 96.0 | /mnt/stockage/packages/f11/nted/po/zh_CN.po | 
+ | [ru](/f11/language/ru) | 1229 | 1292 | 95.1 | /mnt/stockage/packages/f11/nted/po/ru.po | 
+ | [de](/f11/language/de) | 12987 | 13897 | 93.5 | /mnt/stockage/packages/f11/nted/doc/de/de.po/mnt/stockage/packages/f11/nted/po/de.po | 
+ | [es](/f11/language/es) | 12952 | 13897 | 93.2 | /mnt/stockage/packages/f11/nted/doc/es/es.po/mnt/stockage/packages/f11/nted/po/es.po | 
+ | [it](/f11/language/it) | 10711 | 13897 | 77.1 | /mnt/stockage/packages/f11/nted/doc/it/it.po/mnt/stockage/packages/f11/nted/po/it.po | 
+ | [sv](/f11/language/sv) | 681 | 1292 | 52.7 | /mnt/stockage/packages/f11/nted/po/sv.po | 
+ | [hu](/f11/language/hu) | 413 | 1292 | 32.0 | /mnt/stockage/packages/f11/nted/po/hu.po | 
+ | [fr](/f11/language/fr) | 1182 | 13897 | 8.5 | /mnt/stockage/packages/f11/nted/doc/fr/fr.po/mnt/stockage/packages/f11/nted/po/fr.po | 
 {.sortable}
 
 

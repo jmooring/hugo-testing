@@ -189,144 +189,144 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [accountsservice]({{< ref "/f35/package/accountsservice.md" >}}) | 59 | 59 | 100.0 | English (http://www.transifex.com/freedesktop/accountsservice/language/en/) | 
- | [bash]({{< ref "/f35/package/bash.md" >}}) | 23398 | 23398 | 100.0 | none | 
- | [bustle]({{< ref "/f35/package/bustle.md" >}}) | 119 | 119 | 100.0 | English | 
- | [cairo-dock]({{< ref "/f35/package/cairo-dock.md" >}}) | 7464 | 7464 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
- | [cairo-dock-plug-ins]({{< ref "/f35/package/cairo-dock-plug-ins.md" >}}) | 10203 | 10203 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
- | [celestia]({{< ref "/f35/package/celestia.md" >}}) | 102 | 102 | 100.0 | English | 
- | [clisp]({{< ref "/f35/package/clisp.md" >}}) | 13781 | 13781 | 100.0 | English <en@li.org> | 
- | [cups-pk-helper]({{< ref "/f35/package/cups-pk-helper.md" >}}) | 149 | 149 | 100.0 | English (http://www.transifex.com/freedesktop/cups-pk-helper/language/en/) | 
- | [dvdbackup]({{< ref "/f35/package/dvdbackup.md" >}}) | 2048 | 2048 | 100.0 | none | 
- | [extra-cmake-modules]({{< ref "/f35/package/extra-cmake-modules.md" >}}) | 16 | 16 | 100.0 |  | 
- | [falkon]({{< ref "/f35/package/falkon.md" >}}) | 54 | 54 | 100.0 |  | 
- | [gauche]({{< ref "/f35/package/gauche.md" >}}) | 82 | 82 | 100.0 |  | 
- | [gcompris-qt]({{< ref "/f35/package/gcompris-qt.md" >}}) | 48 | 48 | 100.0 |  | 
- | [gnome-desktop3]({{< ref "/f35/package/gnome-desktop3.md" >}}) | 34 | 34 | 100.0 | English <en@li.org> | 
- | [gnupg2]({{< ref "/f35/package/gnupg2.md" >}}) | 27266 | 27266 | 100.0 | none | 
- | [golang-github-ojii-gettext]({{< ref "/f35/package/golang-github-ojii-gettext.md" >}}) | 14 | 14 | 100.0 |  | 
- | [golang-github-snapcore-gettext]({{< ref "/f35/package/golang-github-snapcore-gettext.md" >}}) | 14 | 14 | 100.0 |  | 
- | [golang-k8s-kubectl]({{< ref "/f35/package/golang-k8s-kubectl.md" >}}) | 20768 | 20768 | 100.0 |  | 
- | [golang-k8s-kubernetes]({{< ref "/f35/package/golang-k8s-kubernetes.md" >}}) | 20768 | 20768 | 100.0 |  | 
- | [groonga]({{< ref "/f35/package/groonga.md" >}}) | 109551 | 109551 | 100.0 | none | 
- | [kf5-kcoreaddons]({{< ref "/f35/package/kf5-kcoreaddons.md" >}}) | 20 | 20 | 100.0 |  | 
- | [kf5-kjobwidgets]({{< ref "/f35/package/kf5-kjobwidgets.md" >}}) | 68 | 68 | 100.0 |  | 
- | [kf5-kwidgetsaddons]({{< ref "/f35/package/kf5-kwidgetsaddons.md" >}}) | 16 | 16 | 100.0 |  | 
- | [kid3]({{< ref "/f35/package/kid3.md" >}}) | 12 | 12 | 100.0 |  | 
- | [kubernetes]({{< ref "/f35/package/kubernetes.md" >}}) | 20768 | 20768 | 100.0 |  | 
- | [lagrange]({{< ref "/f35/package/lagrange.md" >}}) | 2012 | 2012 | 100.0 |  | 
- | [langpacks-install]({{< ref "/f35/package/langpacks-install.md" >}}) | 9 | 9 | 100.0 | English | 
- | [lazarus]({{< ref "/f35/package/lazarus.md" >}}) | 54 | 54 | 100.0 |  | 
- | [lmms]({{< ref "/f35/package/lmms.md" >}}) | 16 | 16 | 100.0 |  | 
- | [olpc-switch-desktop]({{< ref "/f35/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [openbox]({{< ref "/f35/package/openbox.md" >}}) | 1012 | 1012 | 100.0 | none | 
- | [origin]({{< ref "/f35/package/origin.md" >}}) | 13598 | 13598 | 100.0 |  | 
- | [perl-Locale-Maketext-Lexicon]({{< ref "/f35/package/perl-Locale-Maketext-Lexicon.md" >}}) | 3 | 3 | 100.0 | Italian <cosimo@cpan.org> | 
- | [php-laminas-i18n]({{< ref "/f35/package/php-laminas-i18n.md" >}}) | 25 | 25 | 100.0 |  | 
- | [poweradmin]({{< ref "/f35/package/poweradmin.md" >}}) | 1878 | 1878 | 100.0 | LANGUAGE <LL@li.org> | 
- | [prusa-slicer]({{< ref "/f35/package/prusa-slicer.md" >}}) | 899 | 899 | 100.0 |  | 
- | [puppet]({{< ref "/f35/package/puppet.md" >}}) | 4 | 4 | 100.0 | none | 
- | [pyhoca-gui]({{< ref "/f35/package/pyhoca-gui.md" >}}) | 1838 | 1838 | 100.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
- | [python-django-rest-framework]({{< ref "/f35/package/python-django-rest-framework.md" >}}) | 702 | 702 | 100.0 | English (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en/) | 
- | [python-nikola]({{< ref "/f35/package/python-nikola.md" >}}) | 94 | 94 | 100.0 | English (http://www.transifex.com/projects/p/nikola/language/en/) | 
- | [python-pyramid]({{< ref "/f35/package/python-pyramid.md" >}}) | 12 | 12 | 100.0 | de <LL@li.org> | 
- | [python-sphinx]({{< ref "/f35/package/python-sphinx.md" >}}) | 4 | 4 | 100.0 |  | 
- | [python-wtforms]({{< ref "/f35/package/python-wtforms.md" >}}) | 202 | 202 | 100.0 | en_US <james+i18n@simplecodes.com> | 
- | [qt3]({{< ref "/f35/package/qt3.md" >}}) | 482 | 482 | 100.0 |  | 
- | [qtwebkit]({{< ref "/f35/package/qtwebkit.md" >}}) | 1472 | 1472 | 100.0 | Canadian English | 
- | [quarry]({{< ref "/f35/package/quarry.md" >}}) | 1807 | 1807 | 100.0 |  | 
- | [ravada]({{< ref "/f35/package/ravada.md" >}}) | 2639 | 2639 | 100.0 | English <https://hosted.weblate.org/projects/ravada/translation/en/> | 
- | [rt]({{< ref "/f35/package/rt.md" >}}) | 3 | 3 | 100.0 | English <en@li.org> | 
- | [sakura]({{< ref "/f35/package/sakura.md" >}}) | 208 | 208 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
- | [schroot]({{< ref "/f35/package/schroot.md" >}}) | 1665 | 1665 | 100.0 | English <rleigh@debian.org> | 
- | [shared-mime-info]({{< ref "/f35/package/shared-mime-info.md" >}}) | 3 | 3 | 100.0 | English <en@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f35/package/sugar-typing-turtle.md" >}}) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f35/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f35/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f35/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [supertuxkart]({{< ref "/f35/package/supertuxkart.md" >}}) | 5918 | 5918 | 100.0 | English (http://www.transifex.com/supertuxkart/supertuxkart/language/en/) | 
- | [swappy]({{< ref "/f35/package/swappy.md" >}}) | 19 | 19 | 100.0 | none | 
- | [wapiti]({{< ref "/f35/package/wapiti.md" >}}) | 1580 | 1580 | 100.0 | LANGUAGE <LL@li.org> | 
- | [wine]({{< ref "/f35/package/wine.md" >}}) | 19046 | 19046 | 100.0 | English | 
- | [xfburn]({{< ref "/f35/package/xfburn.md" >}}) | 1329 | 1329 | 100.0 | LANGUAGE <LL@li.org> | 
- | [zvbi]({{< ref "/f35/package/zvbi.md" >}}) | 1328 | 1328 | 100.0 | none | 
- | [cups]({{< ref "/f35/package/cups.md" >}}) | 12877 | 12903 | 99.8 | English | 
- | [geomorph]({{< ref "/f35/package/geomorph.md" >}}) | 1500 | 1508 | 99.5 | ... | 
- | [mailman3]({{< ref "/f35/package/mailman3.md" >}}) | 4417 | 4477 | 98.7 | none | 
- | [ncmpc]({{< ref "/f35/package/ncmpc.md" >}}) | 702 | 713 | 98.5 | none | 
- | [visualboyadvance-m]({{< ref "/f35/package/visualboyadvance-m.md" >}}) | 2216 | 2253 | 98.4 | English (http://www.transifex.com/bgk/vba-m/language/en/) | 
- | [asterisk]({{< ref "/f35/package/asterisk.md" >}}) | 130 | 134 | 97.0 |  | 
- | [kmix]({{< ref "/f35/package/kmix.md" >}}) | 22 | 23 | 95.7 | German <kde-i18n-de@kde.org> | 
- | [python-django-contrib-comments]({{< ref "/f35/package/python-django-contrib-comments.md" >}}) | 234 | 250 | 93.6 | English <en@li.org> | 
- | [mate-menu]({{< ref "/f35/package/mate-menu.md" >}}) | 285 | 308 | 92.5 | Mike Gabriel <mike.gabriel@das-netzwerkteam.de> | 
- | [trafficserver]({{< ref "/f35/package/trafficserver.md" >}}) | 5268 | 5877 | 89.6 |  | 
- | [meteo]({{< ref "/f35/package/meteo.md" >}}) | 223 | 260 | 85.8 |  | 
- | [duff]({{< ref "/f35/package/duff.md" >}}) | 197 | 232 | 84.9 |  | 
- | [rawstudio]({{< ref "/f35/package/rawstudio.md" >}}) | 1315 | 1606 | 81.9 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
- | [rhash]({{< ref "/f35/package/rhash.md" >}}) | 380 | 465 | 81.7 | English (Australia) <en_AU@li.org> | 
- | [bluefish]({{< ref "/f35/package/bluefish.md" >}}) | 4003 | 4945 | 81.0 | none | 
- | [libsmbios]({{< ref "/f35/package/libsmbios.md" >}}) | 4462 | 6561 | 68.0 | none | 
- | [ndisc6]({{< ref "/f35/package/ndisc6.md" >}}) | 525 | 1016 | 51.7 | English <en@li.org> | 
- | [stellarium]({{< ref "/f35/package/stellarium.md" >}}) | 26973 | 53796 | 50.1 | English | 
- | [iso-codes]({{< ref "/f35/package/iso-codes.md" >}}) | 3312 | 6798 | 48.7 | English <https://hosted.weblate.org/projects/iso-codes/iso-3166-2/en/> | 
- | [mono]({{< ref "/f35/package/mono.md" >}}) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
- | [wine-mono]({{< ref "/f35/package/wine-mono.md" >}}) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
- | [sos]({{< ref "/f35/package/sos.md" >}}) | 54 | 137 | 39.4 | none | 
- | [giac]({{< ref "/f35/package/giac.md" >}}) | 2860 | 8239 | 34.7 | English | 
- | [gambas3]({{< ref "/f35/package/gambas3.md" >}}) | 187 | 570 | 32.8 | LANGUAGE <LL@li.org> | 
- | [perl]({{< ref "/f35/package/perl.md" >}}) | 10 | 32 | 31.2 | English <en@li.org> | 
- | [gajim]({{< ref "/f35/package/gajim.md" >}}) | 2018 | 9627 | 21.0 | English <en_gb@li.org> | 
- | [fish]({{< ref "/f35/package/fish.md" >}}) | 16832 | 97825 | 17.2 | English <fish-users@lists.sourceforge.net> | 
- | [valyriatear]({{< ref "/f35/package/valyriatear.md" >}}) | 514 | 9163 | 5.6 | none | 
- | [nagios-plugins]({{< ref "/f35/package/nagios-plugins.md" >}}) | 362 | 10763 | 3.4 | English <en@li.org> | 
- | [kdb]({{< ref "/f35/package/kdb.md" >}}) | 42 | 1401 | 3.0 |  | 
- | [calcurse]({{< ref "/f35/package/calcurse.md" >}}) | 81 | 2873 | 2.8 | English/GB <en_GB@li.org> | 
- | [picard]({{< ref "/f35/package/picard.md" >}}) | 54 | 2370 | 2.3 | English <en@li.org> | 
- | [systemtap]({{< ref "/f35/package/systemtap.md" >}}) | 224 | 10052 | 2.2 | English | 
- | [gtimelog]({{< ref "/f35/package/gtimelog.md" >}}) | 6 | 437 | 1.4 | <marius@gedmin.as> | 
- | [gnome-control-center]({{< ref "/f35/package/gnome-control-center.md" >}}) | 17 | 2260 | 0.8 | LANGUAGE <LL@li.org> | 
- | [clementine]({{< ref "/f35/package/clementine.md" >}}) | 21 | 3803 | 0.6 | LANGUAGE <LL@li.org> | 
- | [python-django]({{< ref "/f35/package/python-django.md" >}}) | 18 | 3817 | 0.5 | English <en@li.org> | 
- | [chromium]({{< ref "/f35/package/chromium.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [gtk3]({{< ref "/f35/package/gtk3.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [gtk4]({{< ref "/f35/package/gtk4.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [mingw-gtk3]({{< ref "/f35/package/mingw-gtk3.md" >}}) | 49 | 12551 | 0.4 |  | 
- | [snapper]({{< ref "/f35/package/snapper.md" >}}) | 3 | 1095 | 0.3 | English <i18n@suse.de> | 
- | [R]({{< ref "/f35/package/R.md" >}}) | 25 | 10348 | 0.2 | R-core <R-core@R-project.org> | 
- | [prewikka]({{< ref "/f35/package/prewikka.md" >}}) | 4 | 2270 | 0.2 | English | 
- | [lyx]({{< ref "/f35/package/lyx.md" >}}) | 18 | 25702 | 0.1 | German <lyx-docs@lists.lyx.org> | 
- | [icewm]({{< ref "/f35/package/icewm.md" >}}) | 1 | 2255 | 0.0 | English | 
- | [mathgl]({{< ref "/f35/package/mathgl.md" >}}) | 1 | 6103 | 0.0 |  | 
- | [GMT]({{< ref "/f35/package/GMT.md" >}}) | 0 | 84 | 0.0 | en <LL@li.org> | 
- | [R-scatterplot3d]({{< ref "/f35/package/R-scatterplot3d.md" >}}) | 0 | 20 | 0.0 |  | 
- | [antimicroX]({{< ref "/f35/package/antimicroX.md" >}}) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
- | [antimicrox]({{< ref "/f35/package/antimicrox.md" >}}) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
- | [dino]({{< ref "/f35/package/dino.md" >}}) | 0 | 979 | 0.0 |  | 
- | [eiskaltdcpp]({{< ref "/f35/package/eiskaltdcpp.md" >}}) | 0 | 3626 | 0.0 | LANGUAGE <LL@li.org> | 
- | [lammps]({{< ref "/f35/package/lammps.md" >}}) | 0 | 84 | 0.0 | en <LL@li.org> | 
- | [mame]({{< ref "/f35/package/mame.md" >}}) | 0 | 3749 | 0.0 | en <LL@li.org> | 
- | [nghttp2]({{< ref "/f35/package/nghttp2.md" >}}) | 0 | 84 | 0.0 | en <LL@li.org> | 
- | [onionshare]({{< ref "/f35/package/onionshare.md" >}}) | 0 | 4844 | 0.0 | LANGUAGE <LL@li.org> | 
- | [plasma-applet-redshift-control]({{< ref "/f35/package/plasma-applet-redshift-control.md" >}}) | 0 | 62 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
- | [plasma-applet-weather-widget]({{< ref "/f35/package/plasma-applet-weather-widget.md" >}}) | 0 | 166 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
- | [pmount]({{< ref "/f35/package/pmount.md" >}}) | 0 | 723 | 0.0 | English <en@li.org> | 
- | [python-apprise]({{< ref "/f35/package/python-apprise.md" >}}) | 0 | 170 | 0.0 | en <LL@li.org> | 
- | [python-django-allauth]({{< ref "/f35/package/python-django-allauth.md" >}}) | 0 | 922 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-debug-toolbar]({{< ref "/f35/package/python-django-debug-toolbar.md" >}}) | 0 | 370 | 0.0 |  | 
- | [python-django-extensions]({{< ref "/f35/package/python-django-extensions.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-formtools]({{< ref "/f35/package/python-django-formtools.md" >}}) | 0 | 32 | 0.0 | English <en@li.org> | 
- | [python-django-markdownx]({{< ref "/f35/package/python-django-markdownx.md" >}}) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-robots]({{< ref "/f35/package/python-django-robots.md" >}}) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-django-taggit]({{< ref "/f35/package/python-django-taggit.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-pycryptodomex]({{< ref "/f35/package/python-pycryptodomex.md" >}}) | 0 | 99 | 0.0 | en <LL@li.org> | 
- | [python-pygit2]({{< ref "/f35/package/python-pygit2.md" >}}) | 0 | 88 | 0.0 | en <LL@li.org> | 
- | [python-pytelegrambotapi]({{< ref "/f35/package/python-pytelegrambotapi.md" >}}) | 0 | 128 | 0.0 | en <LL@li.org> | 
- | [python-sphinx_rtd_theme]({{< ref "/f35/package/python-sphinx_rtd_theme.md" >}}) | 0 | 99 | 0.0 | en <LL@li.org> | 
- | [renderdoc]({{< ref "/f35/package/renderdoc.md" >}}) | 0 | 88 | 0.0 | en <LL@li.org> | 
- | [scummvm]({{< ref "/f35/package/scummvm.md" >}}) | 0 | 0 | 0.0 |  | 
- | [skychart]({{< ref "/f35/package/skychart.md" >}}) | 0 | 1702 | 0.0 |  | 
- | [transifex-client]({{< ref "/f35/package/transifex-client.md" >}}) | 0 | 0 | 0.0 |  | 
- | [wxMaxima]({{< ref "/f35/package/wxMaxima.md" >}}) | 0 | 21044 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [accountsservice](/f35/package/accountsservice) | 59 | 59 | 100.0 | English (http://www.transifex.com/freedesktop/accountsservice/language/en/) | 
+ | [bash](/f35/package/bash) | 23398 | 23398 | 100.0 | none | 
+ | [bustle](/f35/package/bustle) | 119 | 119 | 100.0 | English | 
+ | [cairo-dock](/f35/package/cairo-dock) | 7464 | 7464 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
+ | [cairo-dock-plug-ins](/f35/package/cairo-dock-plug-ins) | 10203 | 10203 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
+ | [celestia](/f35/package/celestia) | 102 | 102 | 100.0 | English | 
+ | [clisp](/f35/package/clisp) | 13781 | 13781 | 100.0 | English <en@li.org> | 
+ | [cups-pk-helper](/f35/package/cups-pk-helper) | 149 | 149 | 100.0 | English (http://www.transifex.com/freedesktop/cups-pk-helper/language/en/) | 
+ | [dvdbackup](/f35/package/dvdbackup) | 2048 | 2048 | 100.0 | none | 
+ | [extra-cmake-modules](/f35/package/extra-cmake-modules) | 16 | 16 | 100.0 |  | 
+ | [falkon](/f35/package/falkon) | 54 | 54 | 100.0 |  | 
+ | [gauche](/f35/package/gauche) | 82 | 82 | 100.0 |  | 
+ | [gcompris-qt](/f35/package/gcompris-qt) | 48 | 48 | 100.0 |  | 
+ | [gnome-desktop3](/f35/package/gnome-desktop3) | 34 | 34 | 100.0 | English <en@li.org> | 
+ | [gnupg2](/f35/package/gnupg2) | 27266 | 27266 | 100.0 | none | 
+ | [golang-github-ojii-gettext](/f35/package/golang-github-ojii-gettext) | 14 | 14 | 100.0 |  | 
+ | [golang-github-snapcore-gettext](/f35/package/golang-github-snapcore-gettext) | 14 | 14 | 100.0 |  | 
+ | [golang-k8s-kubectl](/f35/package/golang-k8s-kubectl) | 20768 | 20768 | 100.0 |  | 
+ | [golang-k8s-kubernetes](/f35/package/golang-k8s-kubernetes) | 20768 | 20768 | 100.0 |  | 
+ | [groonga](/f35/package/groonga) | 109551 | 109551 | 100.0 | none | 
+ | [kf5-kcoreaddons](/f35/package/kf5-kcoreaddons) | 20 | 20 | 100.0 |  | 
+ | [kf5-kjobwidgets](/f35/package/kf5-kjobwidgets) | 68 | 68 | 100.0 |  | 
+ | [kf5-kwidgetsaddons](/f35/package/kf5-kwidgetsaddons) | 16 | 16 | 100.0 |  | 
+ | [kid3](/f35/package/kid3) | 12 | 12 | 100.0 |  | 
+ | [kubernetes](/f35/package/kubernetes) | 20768 | 20768 | 100.0 |  | 
+ | [lagrange](/f35/package/lagrange) | 2012 | 2012 | 100.0 |  | 
+ | [langpacks-install](/f35/package/langpacks-install) | 9 | 9 | 100.0 | English | 
+ | [lazarus](/f35/package/lazarus) | 54 | 54 | 100.0 |  | 
+ | [lmms](/f35/package/lmms) | 16 | 16 | 100.0 |  | 
+ | [olpc-switch-desktop](/f35/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [openbox](/f35/package/openbox) | 1012 | 1012 | 100.0 | none | 
+ | [origin](/f35/package/origin) | 13598 | 13598 | 100.0 |  | 
+ | [perl-Locale-Maketext-Lexicon](/f35/package/perl-Locale-Maketext-Lexicon) | 3 | 3 | 100.0 | Italian <cosimo@cpan.org> | 
+ | [php-laminas-i18n](/f35/package/php-laminas-i18n) | 25 | 25 | 100.0 |  | 
+ | [poweradmin](/f35/package/poweradmin) | 1878 | 1878 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [prusa-slicer](/f35/package/prusa-slicer) | 899 | 899 | 100.0 |  | 
+ | [puppet](/f35/package/puppet) | 4 | 4 | 100.0 | none | 
+ | [pyhoca-gui](/f35/package/pyhoca-gui) | 1838 | 1838 | 100.0 | X2Go i18n <x2go-i18n@lists.x2go.org> | 
+ | [python-django-rest-framework](/f35/package/python-django-rest-framework) | 702 | 702 | 100.0 | English (http://www.transifex.com/django-rest-framework-1/django-rest-framework/language/en/) | 
+ | [python-nikola](/f35/package/python-nikola) | 94 | 94 | 100.0 | English (http://www.transifex.com/projects/p/nikola/language/en/) | 
+ | [python-pyramid](/f35/package/python-pyramid) | 12 | 12 | 100.0 | de <LL@li.org> | 
+ | [python-sphinx](/f35/package/python-sphinx) | 4 | 4 | 100.0 |  | 
+ | [python-wtforms](/f35/package/python-wtforms) | 202 | 202 | 100.0 | en_US <james+i18n@simplecodes.com> | 
+ | [qt3](/f35/package/qt3) | 482 | 482 | 100.0 |  | 
+ | [qtwebkit](/f35/package/qtwebkit) | 1472 | 1472 | 100.0 | Canadian English | 
+ | [quarry](/f35/package/quarry) | 1807 | 1807 | 100.0 |  | 
+ | [ravada](/f35/package/ravada) | 2639 | 2639 | 100.0 | English <https://hosted.weblate.org/projects/ravada/translation/en/> | 
+ | [rt](/f35/package/rt) | 3 | 3 | 100.0 | English <en@li.org> | 
+ | [sakura](/f35/package/sakura) | 208 | 208 | 100.0 | English (United Kingdom) <en_GB@li.org> | 
+ | [schroot](/f35/package/schroot) | 1665 | 1665 | 100.0 | English <rleigh@debian.org> | 
+ | [shared-mime-info](/f35/package/shared-mime-info) | 3 | 3 | 100.0 | English <en@li.org> | 
+ | [sugar-typing-turtle](/f35/package/sugar-typing-turtle) | 599 | 599 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f35/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f35/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f35/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [supertuxkart](/f35/package/supertuxkart) | 5918 | 5918 | 100.0 | English (http://www.transifex.com/supertuxkart/supertuxkart/language/en/) | 
+ | [swappy](/f35/package/swappy) | 19 | 19 | 100.0 | none | 
+ | [wapiti](/f35/package/wapiti) | 1580 | 1580 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [wine](/f35/package/wine) | 19046 | 19046 | 100.0 | English | 
+ | [xfburn](/f35/package/xfburn) | 1329 | 1329 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [zvbi](/f35/package/zvbi) | 1328 | 1328 | 100.0 | none | 
+ | [cups](/f35/package/cups) | 12877 | 12903 | 99.8 | English | 
+ | [geomorph](/f35/package/geomorph) | 1500 | 1508 | 99.5 | ... | 
+ | [mailman3](/f35/package/mailman3) | 4417 | 4477 | 98.7 | none | 
+ | [ncmpc](/f35/package/ncmpc) | 702 | 713 | 98.5 | none | 
+ | [visualboyadvance-m](/f35/package/visualboyadvance-m) | 2216 | 2253 | 98.4 | English (http://www.transifex.com/bgk/vba-m/language/en/) | 
+ | [asterisk](/f35/package/asterisk) | 130 | 134 | 97.0 |  | 
+ | [kmix](/f35/package/kmix) | 22 | 23 | 95.7 | German <kde-i18n-de@kde.org> | 
+ | [python-django-contrib-comments](/f35/package/python-django-contrib-comments) | 234 | 250 | 93.6 | English <en@li.org> | 
+ | [mate-menu](/f35/package/mate-menu) | 285 | 308 | 92.5 | Mike Gabriel <mike.gabriel@das-netzwerkteam.de> | 
+ | [trafficserver](/f35/package/trafficserver) | 5268 | 5877 | 89.6 |  | 
+ | [meteo](/f35/package/meteo) | 223 | 260 | 85.8 |  | 
+ | [duff](/f35/package/duff) | 197 | 232 | 84.9 |  | 
+ | [rawstudio](/f35/package/rawstudio) | 1315 | 1606 | 81.9 | Rawstudio development <rawstudio-dev@rawstudio.org> | 
+ | [rhash](/f35/package/rhash) | 380 | 465 | 81.7 | English (Australia) <en_AU@li.org> | 
+ | [bluefish](/f35/package/bluefish) | 4003 | 4945 | 81.0 | none | 
+ | [libsmbios](/f35/package/libsmbios) | 4462 | 6561 | 68.0 | none | 
+ | [ndisc6](/f35/package/ndisc6) | 525 | 1016 | 51.7 | English <en@li.org> | 
+ | [stellarium](/f35/package/stellarium) | 26973 | 53796 | 50.1 | English | 
+ | [iso-codes](/f35/package/iso-codes) | 3312 | 6798 | 48.7 | English <https://hosted.weblate.org/projects/iso-codes/iso-3166-2/en/> | 
+ | [mono](/f35/package/mono) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
+ | [wine-mono](/f35/package/wine-mono) | 17 | 36 | 47.2 | http://translate.google.com/translate_t?langpair=en|es | 
+ | [sos](/f35/package/sos) | 54 | 137 | 39.4 | none | 
+ | [giac](/f35/package/giac) | 2860 | 8239 | 34.7 | English | 
+ | [gambas3](/f35/package/gambas3) | 187 | 570 | 32.8 | LANGUAGE <LL@li.org> | 
+ | [perl](/f35/package/perl) | 10 | 32 | 31.2 | English <en@li.org> | 
+ | [gajim](/f35/package/gajim) | 2018 | 9627 | 21.0 | English <en_gb@li.org> | 
+ | [fish](/f35/package/fish) | 16832 | 97825 | 17.2 | English <fish-users@lists.sourceforge.net> | 
+ | [valyriatear](/f35/package/valyriatear) | 514 | 9163 | 5.6 | none | 
+ | [nagios-plugins](/f35/package/nagios-plugins) | 362 | 10763 | 3.4 | English <en@li.org> | 
+ | [kdb](/f35/package/kdb) | 42 | 1401 | 3.0 |  | 
+ | [calcurse](/f35/package/calcurse) | 81 | 2873 | 2.8 | English/GB <en_GB@li.org> | 
+ | [picard](/f35/package/picard) | 54 | 2370 | 2.3 | English <en@li.org> | 
+ | [systemtap](/f35/package/systemtap) | 224 | 10052 | 2.2 | English | 
+ | [gtimelog](/f35/package/gtimelog) | 6 | 437 | 1.4 | <marius@gedmin.as> | 
+ | [gnome-control-center](/f35/package/gnome-control-center) | 17 | 2260 | 0.8 | LANGUAGE <LL@li.org> | 
+ | [clementine](/f35/package/clementine) | 21 | 3803 | 0.6 | LANGUAGE <LL@li.org> | 
+ | [python-django](/f35/package/python-django) | 18 | 3817 | 0.5 | English <en@li.org> | 
+ | [chromium](/f35/package/chromium) | 49 | 12551 | 0.4 |  | 
+ | [gtk3](/f35/package/gtk3) | 49 | 12551 | 0.4 |  | 
+ | [gtk4](/f35/package/gtk4) | 49 | 12551 | 0.4 |  | 
+ | [mingw-gtk3](/f35/package/mingw-gtk3) | 49 | 12551 | 0.4 |  | 
+ | [snapper](/f35/package/snapper) | 3 | 1095 | 0.3 | English <i18n@suse.de> | 
+ | [R](/f35/package/R) | 25 | 10348 | 0.2 | R-core <R-core@R-project.org> | 
+ | [prewikka](/f35/package/prewikka) | 4 | 2270 | 0.2 | English | 
+ | [lyx](/f35/package/lyx) | 18 | 25702 | 0.1 | German <lyx-docs@lists.lyx.org> | 
+ | [icewm](/f35/package/icewm) | 1 | 2255 | 0.0 | English | 
+ | [mathgl](/f35/package/mathgl) | 1 | 6103 | 0.0 |  | 
+ | [GMT](/f35/package/GMT) | 0 | 84 | 0.0 | en <LL@li.org> | 
+ | [R-scatterplot3d](/f35/package/R-scatterplot3d) | 0 | 20 | 0.0 |  | 
+ | [antimicroX](/f35/package/antimicroX) | 0 | 91 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [antimicrox](/f35/package/antimicrox) | 0 | 108 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [dino](/f35/package/dino) | 0 | 979 | 0.0 |  | 
+ | [eiskaltdcpp](/f35/package/eiskaltdcpp) | 0 | 3626 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lammps](/f35/package/lammps) | 0 | 84 | 0.0 | en <LL@li.org> | 
+ | [mame](/f35/package/mame) | 0 | 3749 | 0.0 | en <LL@li.org> | 
+ | [nghttp2](/f35/package/nghttp2) | 0 | 84 | 0.0 | en <LL@li.org> | 
+ | [onionshare](/f35/package/onionshare) | 0 | 4844 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [plasma-applet-redshift-control](/f35/package/plasma-applet-redshift-control) | 0 | 62 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
+ | [plasma-applet-weather-widget](/f35/package/plasma-applet-weather-widget) | 0 | 166 | 0.0 | Martin Kotelnik <clearmartin@seznam.cz> | 
+ | [pmount](/f35/package/pmount) | 0 | 723 | 0.0 | English <en@li.org> | 
+ | [python-apprise](/f35/package/python-apprise) | 0 | 170 | 0.0 | en <LL@li.org> | 
+ | [python-django-allauth](/f35/package/python-django-allauth) | 0 | 922 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-debug-toolbar](/f35/package/python-django-debug-toolbar) | 0 | 370 | 0.0 |  | 
+ | [python-django-extensions](/f35/package/python-django-extensions) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-formtools](/f35/package/python-django-formtools) | 0 | 32 | 0.0 | English <en@li.org> | 
+ | [python-django-markdownx](/f35/package/python-django-markdownx) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-robots](/f35/package/python-django-robots) | 0 | 212 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-django-taggit](/f35/package/python-django-taggit) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-pycryptodomex](/f35/package/python-pycryptodomex) | 0 | 99 | 0.0 | en <LL@li.org> | 
+ | [python-pygit2](/f35/package/python-pygit2) | 0 | 88 | 0.0 | en <LL@li.org> | 
+ | [python-pytelegrambotapi](/f35/package/python-pytelegrambotapi) | 0 | 128 | 0.0 | en <LL@li.org> | 
+ | [python-sphinx_rtd_theme](/f35/package/python-sphinx_rtd_theme) | 0 | 99 | 0.0 | en <LL@li.org> | 
+ | [renderdoc](/f35/package/renderdoc) | 0 | 88 | 0.0 | en <LL@li.org> | 
+ | [scummvm](/f35/package/scummvm) | 0 | 0 | 0.0 |  | 
+ | [skychart](/f35/package/skychart) | 0 | 1702 | 0.0 |  | 
+ | [transifex-client](/f35/package/transifex-client) | 0 | 0 | 0.0 |  | 
+ | [wxMaxima](/f35/package/wxMaxima) | 0 | 21044 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -338,9 +338,9 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [qt3]({{< ref "/f35/package/qt3.md" >}}) | /mnt/stockage/packages/f35/qt3/examples/demo/i18n/en.po | error-os |  | 
- | [scummvm]({{< ref "/f35/package/scummvm.md" >}}) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings1-en.po | error-unicode |  | 
- | [scummvm]({{< ref "/f35/package/scummvm.md" >}}) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings2-en.po | error-unicode |  | 
+ | [qt3](/f35/package/qt3) | /mnt/stockage/packages/f35/qt3/examples/demo/i18n/en.po | error-os |  | 
+ | [scummvm](/f35/package/scummvm) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings1-en.po | error-unicode |  | 
+ | [scummvm](/f35/package/scummvm) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings2-en.po | error-unicode |  | 
 {.sortable}
 
 
@@ -351,8 +351,8 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [scummvm]({{< ref "/f35/package/scummvm.md" >}}) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings1-en.po |  | 
- | [scummvm]({{< ref "/f35/package/scummvm.md" >}}) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings2-en.po |  | 
+ | [scummvm](/f35/package/scummvm) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings1-en.po |  | 
+ | [scummvm](/f35/package/scummvm) | /mnt/stockage/packages/f35/scummvm/devtools/create_supernova/strings2-en.po |  | 
 {.sortable}
 
 

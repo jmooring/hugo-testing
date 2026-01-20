@@ -18,21 +18,21 @@ The package root (version 6.10.02):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/es.po | 
- | [eu]({{< ref "/f24/language/eu.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/eu.po | 
- | [fi]({{< ref "/f24/language/fi.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/fi.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/gl.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/it.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/ja.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/pt.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/ru.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/sv.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/vi.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 4 | 211 | 1.9 | /mnt/stockage/packages/f24/root/build/package/debian/po/pt_BR.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 0 | 211 | 0.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/da.po | 
+ | [cs](/f24/language/cs) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/cs.po | 
+ | [de](/f24/language/de) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/de.po | 
+ | [es](/f24/language/es) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/es.po | 
+ | [eu](/f24/language/eu) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/eu.po | 
+ | [fi](/f24/language/fi) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/fi.po | 
+ | [fr](/f24/language/fr) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/fr.po | 
+ | [gl](/f24/language/gl) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/gl.po | 
+ | [it](/f24/language/it) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/it.po | 
+ | [ja](/f24/language/ja) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/ja.po | 
+ | [pt](/f24/language/pt) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/pt.po | 
+ | [ru](/f24/language/ru) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/ru.po | 
+ | [sv](/f24/language/sv) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/sv.po | 
+ | [vi](/f24/language/vi) | 211 | 211 | 100.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/vi.po | 
+ | [pt_BR](/f24/language/pt_BR) | 4 | 211 | 1.9 | /mnt/stockage/packages/f24/root/build/package/debian/po/pt_BR.po | 
+ | [da](/f24/language/da) | 0 | 211 | 0.0 | /mnt/stockage/packages/f24/root/build/package/debian/po/da.po | 
 {.sortable}
 
 

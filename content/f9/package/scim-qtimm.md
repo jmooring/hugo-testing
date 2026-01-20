@@ -18,10 +18,10 @@ The package scim-qtimm (version 0.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/de.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/fr.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/it.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/zh_CN.po | 
+ | [de](/f9/language/de) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/de.po | 
+ | [fr](/f9/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/fr.po | 
+ | [it](/f9/language/it) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/it.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 23 | 23 | 100.0 | /mnt/stockage/packages/f9/scim-qtimm/po/zh_CN.po | 
 {.sortable}
 
 

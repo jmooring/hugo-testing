@@ -18,23 +18,23 @@ The package gimmie (version 0.2.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f7/language/da.md" >}}) | 440 | 440 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/da.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/de.po | 
- | [dz]({{< ref "/f7/language/dz.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/dz.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/el.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 646 | 646 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/en_GB.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/fr.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/ja.po | 
- | [mk]({{< ref "/f7/language/mk.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/mk.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/nb.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 646 | 646 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/sv.po | 
- | [vi]({{< ref "/f7/language/vi.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/vi.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 450 | 452 | 99.6 | /mnt/stockage/packages/f7/gimmie/po/ru.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 583 | 646 | 90.2 | /mnt/stockage/packages/f7/gimmie/po/es.po | 
- | [ca]({{< ref "/f7/language/ca.md" >}}) | 463 | 631 | 73.4 | /mnt/stockage/packages/f7/gimmie/po/ca.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 373 | 645 | 57.8 | /mnt/stockage/packages/f7/gimmie/po/gl.po | 
- | [ar]({{< ref "/f7/language/ar.md" >}}) | 145 | 645 | 22.5 | /mnt/stockage/packages/f7/gimmie/po/ar.po | 
+ | [da](/f7/language/da) | 440 | 440 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/da.po | 
+ | [de](/f7/language/de) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/de.po | 
+ | [dz](/f7/language/dz) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/dz.po | 
+ | [el](/f7/language/el) | 446 | 446 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/el.po | 
+ | [en_GB](/f7/language/en_GB) | 646 | 646 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/en_GB.po | 
+ | [fi](/f7/language/fi) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/fi.po | 
+ | [fr](/f7/language/fr) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/fr.po | 
+ | [ja](/f7/language/ja) | 645 | 645 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/ja.po | 
+ | [mk](/f7/language/mk) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/mk.po | 
+ | [nb_NO](/f7/language/nb_NO) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/nb.po | 
+ | [sv](/f7/language/sv) | 646 | 646 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/sv.po | 
+ | [vi](/f7/language/vi) | 452 | 452 | 100.0 | /mnt/stockage/packages/f7/gimmie/po/vi.po | 
+ | [ru](/f7/language/ru) | 450 | 452 | 99.6 | /mnt/stockage/packages/f7/gimmie/po/ru.po | 
+ | [es](/f7/language/es) | 583 | 646 | 90.2 | /mnt/stockage/packages/f7/gimmie/po/es.po | 
+ | [ca](/f7/language/ca) | 463 | 631 | 73.4 | /mnt/stockage/packages/f7/gimmie/po/ca.po | 
+ | [gl](/f7/language/gl) | 373 | 645 | 57.8 | /mnt/stockage/packages/f7/gimmie/po/gl.po | 
+ | [ar](/f7/language/ar) | 145 | 645 | 22.5 | /mnt/stockage/packages/f7/gimmie/po/ar.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package gimmage (version 0.2.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 248 | 259 | 95.8 | /mnt/stockage/packages/f7/gimmage/po/de.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 248 | 259 | 95.8 | /mnt/stockage/packages/f7/gimmage/po/fr.po | 
+ | [de](/f7/language/de) | 248 | 259 | 95.8 | /mnt/stockage/packages/f7/gimmage/po/de.po | 
+ | [fr](/f7/language/fr) | 248 | 259 | 95.8 | /mnt/stockage/packages/f7/gimmage/po/fr.po | 
 {.sortable}
 
 

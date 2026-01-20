@@ -18,23 +18,23 @@ The package lincity-ng (version 2.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f24/language/el.md" >}}) | 1898 | 1898 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/el.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/el.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 1889 | 1889 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/fr.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/fr.po | 
- | [gd]({{< ref "/f24/language/gd.md" >}}) | 1578 | 1578 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/gd.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/gd.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 1923 | 1923 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/nl.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/nl.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 1895 | 1895 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/pt_BR.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/pt_BR.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 1895 | 1895 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/sv.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/sv.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/tr.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/tr.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1885 | 1885 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/zh_CN.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/zh_CN.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 1911 | 1913 | 99.9 | /mnt/stockage/packages/f24/lincity-ng/data/locale/ca.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/ca.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 1937 | 1943 | 99.7 | /mnt/stockage/packages/f24/lincity-ng/data/locale/gl.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/gl.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 809 | 829 | 97.6 | /mnt/stockage/packages/f24/lincity-ng/data/locale/da.po | 
- | [ja]({{< ref "/f24/language/ja.md" >}}) | 1807 | 1923 | 94.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/ja.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/ja.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 1648 | 1760 | 93.6 | /mnt/stockage/packages/f24/lincity-ng/data/locale/de.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/de.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 1607 | 1767 | 90.9 | /mnt/stockage/packages/f24/lincity-ng/data/locale/ru.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/ru.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1666 | 1923 | 86.6 | /mnt/stockage/packages/f24/lincity-ng/data/locale/es.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/es.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1612 | 1923 | 83.8 | /mnt/stockage/packages/f24/lincity-ng/data/locale/pl.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/pl.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 1205 | 1923 | 62.7 | /mnt/stockage/packages/f24/lincity-ng/data/locale/cs.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/cs.po | 
+ | [el](/f24/language/el) | 1898 | 1898 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/el.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/el.po | 
+ | [fr](/f24/language/fr) | 1889 | 1889 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/fr.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/fr.po | 
+ | [gd](/f24/language/gd) | 1578 | 1578 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/gd.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/gd.po | 
+ | [nl](/f24/language/nl) | 1923 | 1923 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/nl.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/nl.po | 
+ | [pt_BR](/f24/language/pt_BR) | 1895 | 1895 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/pt_BR.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/pt_BR.po | 
+ | [sv](/f24/language/sv) | 1895 | 1895 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/sv.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/sv.po | 
+ | [tr](/f24/language/tr) | 1696 | 1696 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/tr.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/tr.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1885 | 1885 | 100.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/zh_CN.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/zh_CN.po | 
+ | [ca](/f24/language/ca) | 1911 | 1913 | 99.9 | /mnt/stockage/packages/f24/lincity-ng/data/locale/ca.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/ca.po | 
+ | [gl](/f24/language/gl) | 1937 | 1943 | 99.7 | /mnt/stockage/packages/f24/lincity-ng/data/locale/gl.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/gl.po | 
+ | [da](/f24/language/da) | 809 | 829 | 97.6 | /mnt/stockage/packages/f24/lincity-ng/data/locale/da.po | 
+ | [ja](/f24/language/ja) | 1807 | 1923 | 94.0 | /mnt/stockage/packages/f24/lincity-ng/data/locale/ja.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/ja.po | 
+ | [de](/f24/language/de) | 1648 | 1760 | 93.6 | /mnt/stockage/packages/f24/lincity-ng/data/locale/de.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/de.po | 
+ | [ru](/f24/language/ru) | 1607 | 1767 | 90.9 | /mnt/stockage/packages/f24/lincity-ng/data/locale/ru.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/ru.po | 
+ | [es](/f24/language/es) | 1666 | 1923 | 86.6 | /mnt/stockage/packages/f24/lincity-ng/data/locale/es.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/es.po | 
+ | [pl](/f24/language/pl) | 1612 | 1923 | 83.8 | /mnt/stockage/packages/f24/lincity-ng/data/locale/pl.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/pl.po | 
+ | [cs](/f24/language/cs) | 1205 | 1923 | 62.7 | /mnt/stockage/packages/f24/lincity-ng/data/locale/cs.po/mnt/stockage/packages/f24/lincity-ng/data/locale/gui/cs.po | 
 {.sortable}
 
 

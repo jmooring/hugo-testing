@@ -18,101 +18,101 @@ The package kf5-knotifyconfig (version 5.10.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ca/knotifyconfig5.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/da/knotifyconfig5.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/de/knotifyconfig5.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/en_GB/knotifyconfig5.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/es/knotifyconfig5.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fi/knotifyconfig5.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/gl/knotifyconfig5.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/it/knotifyconfig5.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ko/knotifyconfig5.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nb/knotifyconfig5.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nl/knotifyconfig5.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pl/knotifyconfig5.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pt/knotifyconfig5.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pt_BR/knotifyconfig5.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ru/knotifyconfig5.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sk/knotifyconfig5.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sl/knotifyconfig5.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr/knotifyconfig5.po | 
- | [sr@ijekavian]({{< ref "/f20/language/sr@ijekavian.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr@ijekavian/knotifyconfig5.po | 
- | [sr@ijekavian_Latn]({{< ref "/f20/language/sr@ijekavian_Latn.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr@ijekavianlatin/knotifyconfig5.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr@latin/knotifyconfig5.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sv/knotifyconfig5.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/uk/knotifyconfig5.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/zh_CN/knotifyconfig5.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/zh_TW/knotifyconfig5.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bs/knotifyconfig5.po | 
- | [ca@valencia]({{< ref "/f20/language/ca@valencia.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ca@valencia/knotifyconfig5.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/el/knotifyconfig5.po | 
- | [en_US]({{< ref "/f20/language/en_US.md" >}}) | 258 | 387 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bn/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/cs/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/vi/knotifyconfig5.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/eo/knotifyconfig5.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/et/knotifyconfig5.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/eu/knotifyconfig5.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fr/knotifyconfig5.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ga/knotifyconfig5.po | 
- | [gd]({{< ref "/f20/language/gd.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/gd/knotifyconfig5.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/he/knotifyconfig5.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hr/knotifyconfig5.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hu/knotifyconfig5.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hy/knotifyconfig5.po | 
- | [ia]({{< ref "/f20/language/ia.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ia/knotifyconfig5.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/id/knotifyconfig5.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/is/knotifyconfig5.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ja/knotifyconfig5.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/kk/knotifyconfig5.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/km/knotifyconfig5.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/lt/knotifyconfig5.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/lv/knotifyconfig5.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ms/knotifyconfig5.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nds/knotifyconfig5.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nn/knotifyconfig5.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pa/knotifyconfig5.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ro/knotifyconfig5.po | 
- | [se]({{< ref "/f20/language/se.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/se/knotifyconfig5.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ta/knotifyconfig5.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/th/knotifyconfig5.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/tr/knotifyconfig5.po | 
- | [tt]({{< ref "/f20/language/tt.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/tt/knotifyconfig5.po | 
- | [ug]({{< ref "/f20/language/ug.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ug/knotifyconfig5.po | 
- | [wa]({{< ref "/f20/language/wa.md" >}}) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/wa/knotifyconfig5.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ar/knotifyconfig5.po | 
- | [be_Latn]({{< ref "/f20/language/be_Latn.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/be@latin/knotifyconfig5.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bn_IN/knotifyconfig5.po | 
- | [csb]({{< ref "/f20/language/csb.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/csb/knotifyconfig5.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fa/knotifyconfig5.po | 
- | [fy]({{< ref "/f20/language/fy.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fy/knotifyconfig5.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/gu/knotifyconfig5.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/kn/knotifyconfig5.po | 
- | [ku]({{< ref "/f20/language/ku.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ku/knotifyconfig5.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/mk/knotifyconfig5.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ml/knotifyconfig5.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/mr/knotifyconfig5.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/si/knotifyconfig5.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/te/knotifyconfig5.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/tg/knotifyconfig5.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 40 | 129 | 31.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bg/knotifyconfig5.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 120 | 387 | 31.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hi/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/mai/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/hne/knotifyconfig5.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/as/knotifyconfig5.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/be/knotifyconfig5.po | 
- | [crh]({{< ref "/f20/language/crh.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/crh/knotifyconfig5.po | 
- | [hsb]({{< ref "/f20/language/hsb.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hsb/knotifyconfig5.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/or/knotifyconfig5.po | 
- | [ps]({{< ref "/f20/language/ps.md" >}}) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ps/knotifyconfig5.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 29 | 129 | 22.5 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sq/knotifyconfig5.po | 
- | [ne]({{< ref "/f20/language/ne.md" >}}) | 28 | 129 | 21.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ne/knotifyconfig5.po | 
- | [uz]({{< ref "/f20/language/uz.md" >}}) | 22 | 258 | 8.5 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/uz/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/uz@cyrillic/knotifyconfig5.po | 
- | [br]({{< ref "/f20/language/br.md" >}}) | 10 | 129 | 7.8 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/br/knotifyconfig5.po | 
- | [oc]({{< ref "/f20/language/oc.md" >}}) | 3 | 129 | 2.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/oc/knotifyconfig5.po | 
- | [ha]({{< ref "/f20/language/ha.md" >}}) | 2 | 129 | 1.6 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ha/knotifyconfig5.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/af/knotifyconfig5.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ast/knotifyconfig5.po | 
- | [cy]({{< ref "/f20/language/cy.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/cy/knotifyconfig5.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ka/knotifyconfig5.po | 
- | [lb]({{< ref "/f20/language/lb.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/lb/knotifyconfig5.po | 
- | [xh]({{< ref "/f20/language/xh.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/xh/knotifyconfig5.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/zh_HK/knotifyconfig5.po | 
+ | [ca](/f20/language/ca) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ca/knotifyconfig5.po | 
+ | [da](/f20/language/da) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/da/knotifyconfig5.po | 
+ | [de](/f20/language/de) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/de/knotifyconfig5.po | 
+ | [en_GB](/f20/language/en_GB) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/en_GB/knotifyconfig5.po | 
+ | [es](/f20/language/es) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/es/knotifyconfig5.po | 
+ | [fi](/f20/language/fi) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fi/knotifyconfig5.po | 
+ | [gl](/f20/language/gl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/gl/knotifyconfig5.po | 
+ | [it](/f20/language/it) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/it/knotifyconfig5.po | 
+ | [ko](/f20/language/ko) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ko/knotifyconfig5.po | 
+ | [nb_NO](/f20/language/nb_NO) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nb/knotifyconfig5.po | 
+ | [nl](/f20/language/nl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nl/knotifyconfig5.po | 
+ | [pl](/f20/language/pl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pl/knotifyconfig5.po | 
+ | [pt](/f20/language/pt) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pt/knotifyconfig5.po | 
+ | [pt_BR](/f20/language/pt_BR) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pt_BR/knotifyconfig5.po | 
+ | [ru](/f20/language/ru) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ru/knotifyconfig5.po | 
+ | [sk](/f20/language/sk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sk/knotifyconfig5.po | 
+ | [sl](/f20/language/sl) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sl/knotifyconfig5.po | 
+ | [sr](/f20/language/sr) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr/knotifyconfig5.po | 
+ | [sr@ijekavian](/f20/language/sr@ijekavian) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr@ijekavian/knotifyconfig5.po | 
+ | [sr@ijekavian_Latn](/f20/language/sr@ijekavian_Latn) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr@ijekavianlatin/knotifyconfig5.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sr@latin/knotifyconfig5.po | 
+ | [sv](/f20/language/sv) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sv/knotifyconfig5.po | 
+ | [uk](/f20/language/uk) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/uk/knotifyconfig5.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/zh_CN/knotifyconfig5.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 129 | 129 | 100.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/zh_TW/knotifyconfig5.po | 
+ | [bs](/f20/language/bs) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bs/knotifyconfig5.po | 
+ | [ca@valencia](/f20/language/ca@valencia) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ca@valencia/knotifyconfig5.po | 
+ | [el](/f20/language/el) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/el/knotifyconfig5.po | 
+ | [en_US](/f20/language/en_US) | 258 | 387 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bn/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/cs/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/vi/knotifyconfig5.po | 
+ | [eo](/f20/language/eo) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/eo/knotifyconfig5.po | 
+ | [et](/f20/language/et) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/et/knotifyconfig5.po | 
+ | [eu](/f20/language/eu) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/eu/knotifyconfig5.po | 
+ | [fr](/f20/language/fr) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fr/knotifyconfig5.po | 
+ | [ga](/f20/language/ga) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ga/knotifyconfig5.po | 
+ | [gd](/f20/language/gd) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/gd/knotifyconfig5.po | 
+ | [he](/f20/language/he) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/he/knotifyconfig5.po | 
+ | [hr](/f20/language/hr) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hr/knotifyconfig5.po | 
+ | [hu](/f20/language/hu) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hu/knotifyconfig5.po | 
+ | [hy](/f20/language/hy) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hy/knotifyconfig5.po | 
+ | [ia](/f20/language/ia) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ia/knotifyconfig5.po | 
+ | [id](/f20/language/id) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/id/knotifyconfig5.po | 
+ | [is](/f20/language/is) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/is/knotifyconfig5.po | 
+ | [ja](/f20/language/ja) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ja/knotifyconfig5.po | 
+ | [kk](/f20/language/kk) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/kk/knotifyconfig5.po | 
+ | [km](/f20/language/km) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/km/knotifyconfig5.po | 
+ | [lt](/f20/language/lt) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/lt/knotifyconfig5.po | 
+ | [lv](/f20/language/lv) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/lv/knotifyconfig5.po | 
+ | [ms](/f20/language/ms) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ms/knotifyconfig5.po | 
+ | [nds](/f20/language/nds) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nds/knotifyconfig5.po | 
+ | [nn](/f20/language/nn) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/nn/knotifyconfig5.po | 
+ | [pa](/f20/language/pa) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/pa/knotifyconfig5.po | 
+ | [ro](/f20/language/ro) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ro/knotifyconfig5.po | 
+ | [se](/f20/language/se) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/se/knotifyconfig5.po | 
+ | [ta](/f20/language/ta) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ta/knotifyconfig5.po | 
+ | [th](/f20/language/th) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/th/knotifyconfig5.po | 
+ | [tr](/f20/language/tr) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/tr/knotifyconfig5.po | 
+ | [tt](/f20/language/tt) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/tt/knotifyconfig5.po | 
+ | [ug](/f20/language/ug) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ug/knotifyconfig5.po | 
+ | [wa](/f20/language/wa) | 86 | 129 | 66.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/wa/knotifyconfig5.po | 
+ | [ar](/f20/language/ar) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ar/knotifyconfig5.po | 
+ | [be_Latn](/f20/language/be_Latn) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/be@latin/knotifyconfig5.po | 
+ | [bn_IN](/f20/language/bn_IN) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bn_IN/knotifyconfig5.po | 
+ | [csb](/f20/language/csb) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/csb/knotifyconfig5.po | 
+ | [fa](/f20/language/fa) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fa/knotifyconfig5.po | 
+ | [fy](/f20/language/fy) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/fy/knotifyconfig5.po | 
+ | [gu](/f20/language/gu) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/gu/knotifyconfig5.po | 
+ | [kn](/f20/language/kn) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/kn/knotifyconfig5.po | 
+ | [ku](/f20/language/ku) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ku/knotifyconfig5.po | 
+ | [mk](/f20/language/mk) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/mk/knotifyconfig5.po | 
+ | [ml](/f20/language/ml) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ml/knotifyconfig5.po | 
+ | [mr](/f20/language/mr) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/mr/knotifyconfig5.po | 
+ | [si](/f20/language/si) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/si/knotifyconfig5.po | 
+ | [te](/f20/language/te) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/te/knotifyconfig5.po | 
+ | [tg](/f20/language/tg) | 43 | 129 | 33.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/tg/knotifyconfig5.po | 
+ | [bg](/f20/language/bg) | 40 | 129 | 31.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/bg/knotifyconfig5.po | 
+ | [hi](/f20/language/hi) | 120 | 387 | 31.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hi/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/mai/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/hne/knotifyconfig5.po | 
+ | [as](/f20/language/as) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/as/knotifyconfig5.po | 
+ | [be](/f20/language/be) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/be/knotifyconfig5.po | 
+ | [crh](/f20/language/crh) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/crh/knotifyconfig5.po | 
+ | [hsb](/f20/language/hsb) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/hsb/knotifyconfig5.po | 
+ | [or](/f20/language/or) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/or/knotifyconfig5.po | 
+ | [ps](/f20/language/ps) | 34 | 129 | 26.4 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ps/knotifyconfig5.po | 
+ | [sq](/f20/language/sq) | 29 | 129 | 22.5 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/sq/knotifyconfig5.po | 
+ | [ne](/f20/language/ne) | 28 | 129 | 21.7 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ne/knotifyconfig5.po | 
+ | [uz](/f20/language/uz) | 22 | 258 | 8.5 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/uz/knotifyconfig5.po/mnt/stockage/packages/f20/kf5-knotifyconfig/po/uz@cyrillic/knotifyconfig5.po | 
+ | [br](/f20/language/br) | 10 | 129 | 7.8 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/br/knotifyconfig5.po | 
+ | [oc](/f20/language/oc) | 3 | 129 | 2.3 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/oc/knotifyconfig5.po | 
+ | [ha](/f20/language/ha) | 2 | 129 | 1.6 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ha/knotifyconfig5.po | 
+ | [af](/f20/language/af) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/af/knotifyconfig5.po | 
+ | [ast](/f20/language/ast) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ast/knotifyconfig5.po | 
+ | [cy](/f20/language/cy) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/cy/knotifyconfig5.po | 
+ | [ka](/f20/language/ka) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/ka/knotifyconfig5.po | 
+ | [lb](/f20/language/lb) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/lb/knotifyconfig5.po | 
+ | [xh](/f20/language/xh) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/xh/knotifyconfig5.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 0 | 129 | 0.0 | /mnt/stockage/packages/f20/kf5-knotifyconfig/po/zh_HK/knotifyconfig5.po | 
 {.sortable}
 
 

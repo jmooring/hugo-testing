@@ -18,24 +18,24 @@ The package gaupol (version 1.15):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/fi.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/nl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/pt_BR.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/cs.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/es.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/pl.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/zh_CN.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 2049 | 2076 | 98.7 | /mnt/stockage/packages/f41/gaupol/po/tr.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 2041 | 2076 | 98.3 | /mnt/stockage/packages/f41/gaupol/po/ru.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 2010 | 2076 | 96.8 | /mnt/stockage/packages/f41/gaupol/po/fr.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 1814 | 2076 | 87.4 | /mnt/stockage/packages/f41/gaupol/po/hu.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 1814 | 2076 | 87.4 | /mnt/stockage/packages/f41/gaupol/po/sr.po | 
- | [ie]({{< ref "/f41/language/ie.md" >}}) | 1719 | 2076 | 82.8 | /mnt/stockage/packages/f41/gaupol/po/ie.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 1631 | 2076 | 78.6 | /mnt/stockage/packages/f41/gaupol/po/is.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 1620 | 2076 | 78.0 | /mnt/stockage/packages/f41/gaupol/po/de.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 1559 | 2076 | 75.1 | /mnt/stockage/packages/f41/gaupol/po/gl.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 1483 | 2076 | 71.4 | /mnt/stockage/packages/f41/gaupol/po/he.po | 
+ | [fi](/f41/language/fi) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/fi.po | 
+ | [nl](/f41/language/nl) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/nl.po | 
+ | [pt](/f41/language/pt) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 2076 | 2076 | 100.0 | /mnt/stockage/packages/f41/gaupol/po/pt_BR.po | 
+ | [cs](/f41/language/cs) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/cs.po | 
+ | [es](/f41/language/es) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/es.po | 
+ | [pl](/f41/language/pl) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/pl.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 2057 | 2076 | 99.1 | /mnt/stockage/packages/f41/gaupol/po/zh_CN.po | 
+ | [tr](/f41/language/tr) | 2049 | 2076 | 98.7 | /mnt/stockage/packages/f41/gaupol/po/tr.po | 
+ | [ru](/f41/language/ru) | 2041 | 2076 | 98.3 | /mnt/stockage/packages/f41/gaupol/po/ru.po | 
+ | [fr](/f41/language/fr) | 2010 | 2076 | 96.8 | /mnt/stockage/packages/f41/gaupol/po/fr.po | 
+ | [hu](/f41/language/hu) | 1814 | 2076 | 87.4 | /mnt/stockage/packages/f41/gaupol/po/hu.po | 
+ | [sr](/f41/language/sr) | 1814 | 2076 | 87.4 | /mnt/stockage/packages/f41/gaupol/po/sr.po | 
+ | [ie](/f41/language/ie) | 1719 | 2076 | 82.8 | /mnt/stockage/packages/f41/gaupol/po/ie.po | 
+ | [is](/f41/language/is) | 1631 | 2076 | 78.6 | /mnt/stockage/packages/f41/gaupol/po/is.po | 
+ | [de](/f41/language/de) | 1620 | 2076 | 78.0 | /mnt/stockage/packages/f41/gaupol/po/de.po | 
+ | [gl](/f41/language/gl) | 1559 | 2076 | 75.1 | /mnt/stockage/packages/f41/gaupol/po/gl.po | 
+ | [he](/f41/language/he) | 1483 | 2076 | 71.4 | /mnt/stockage/packages/f41/gaupol/po/he.po | 
 {.sortable}
 
 

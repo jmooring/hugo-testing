@@ -18,35 +18,35 @@ The package clapper (version 0.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f34/language/ca.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/ca.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/cs.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/es.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/hu.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/pl.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/pt_BR.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/ru.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 271 | 272 | 99.6 | /mnt/stockage/packages/f34/clapper/po/de.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 271 | 272 | 99.6 | /mnt/stockage/packages/f34/clapper/po/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 223 | 272 | 82.0 | /mnt/stockage/packages/f34/clapper/po/nl.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 104 | 272 | 38.2 | /mnt/stockage/packages/f34/clapper/po/zh_CN.po | 
- | [pt_PT]({{< ref "/f34/language/pt_PT.md" >}}) | 40 | 272 | 14.7 | /mnt/stockage/packages/f34/clapper/po/pt.po | 
- | [af]({{< ref "/f34/language/af.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/af.po | 
- | [ar_SA]({{< ref "/f34/language/ar_SA.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ar.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/da.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/el.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/fr.po | 
- | [he_IL]({{< ref "/f34/language/he_IL.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/he.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ja.po | 
- | [ko]({{< ref "/f34/language/ko.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ko.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/no.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ro.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/sr.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/sv.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/tr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/uk.po | 
- | [vi]({{< ref "/f34/language/vi.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/vi.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/zh_TW.po | 
+ | [ca](/f34/language/ca) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/ca.po | 
+ | [cs](/f34/language/cs) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/cs.po | 
+ | [es](/f34/language/es) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/es.po | 
+ | [hu](/f34/language/hu) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/hu.po | 
+ | [pl](/f34/language/pl) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/pl.po | 
+ | [pt_BR](/f34/language/pt_BR) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/pt_BR.po | 
+ | [ru](/f34/language/ru) | 272 | 272 | 100.0 | /mnt/stockage/packages/f34/clapper/po/ru.po | 
+ | [de](/f34/language/de) | 271 | 272 | 99.6 | /mnt/stockage/packages/f34/clapper/po/de.po | 
+ | [it](/f34/language/it) | 271 | 272 | 99.6 | /mnt/stockage/packages/f34/clapper/po/it.po | 
+ | [nl](/f34/language/nl) | 223 | 272 | 82.0 | /mnt/stockage/packages/f34/clapper/po/nl.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 104 | 272 | 38.2 | /mnt/stockage/packages/f34/clapper/po/zh_CN.po | 
+ | [pt_PT](/f34/language/pt_PT) | 40 | 272 | 14.7 | /mnt/stockage/packages/f34/clapper/po/pt.po | 
+ | [af](/f34/language/af) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/af.po | 
+ | [ar_SA](/f34/language/ar_SA) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ar.po | 
+ | [da](/f34/language/da) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/da.po | 
+ | [el](/f34/language/el) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/el.po | 
+ | [fi](/f34/language/fi) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/fi.po | 
+ | [fr](/f34/language/fr) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/fr.po | 
+ | [he_IL](/f34/language/he_IL) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/he.po | 
+ | [ja](/f34/language/ja) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ja.po | 
+ | [ko](/f34/language/ko) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ko.po | 
+ | [nb_NO](/f34/language/nb_NO) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/no.po | 
+ | [ro](/f34/language/ro) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/ro.po | 
+ | [sr](/f34/language/sr) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/sr.po | 
+ | [sv](/f34/language/sv) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/sv.po | 
+ | [tr](/f34/language/tr) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/tr.po | 
+ | [uk](/f34/language/uk) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/uk.po | 
+ | [vi](/f34/language/vi) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/vi.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 0 | 272 | 0.0 | /mnt/stockage/packages/f34/clapper/po/zh_TW.po | 
 {.sortable}
 
 

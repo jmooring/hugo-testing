@@ -18,21 +18,21 @@ The package gnome-text-editor (version 41.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/cs.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/es.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/id.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/nl.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/pt_BR.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1462 | 1462 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/help/sv/sv.po/mnt/stockage/packages/f35/gnome-text-editor/po/sv.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1462 | 1462 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/help/uk/uk.po/mnt/stockage/packages/f35/gnome-text-editor/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 758 | 758 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/zh_CN.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 677 | 772 | 87.7 | /mnt/stockage/packages/f35/gnome-text-editor/po/de.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 652 | 777 | 83.9 | /mnt/stockage/packages/f35/gnome-text-editor/po/fi.po | 
- | [gl]({{< ref "/f35/language/gl.md" >}}) | 613 | 772 | 79.4 | /mnt/stockage/packages/f35/gnome-text-editor/po/gl.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 430 | 772 | 55.7 | /mnt/stockage/packages/f35/gnome-text-editor/po/eu.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 416 | 778 | 53.5 | /mnt/stockage/packages/f35/gnome-text-editor/po/sl.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 55 | 772 | 7.1 | /mnt/stockage/packages/f35/gnome-text-editor/po/oc.po | 
+ | [ca](/f35/language/ca) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/ca.po | 
+ | [cs](/f35/language/cs) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/cs.po | 
+ | [es](/f35/language/es) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/es.po | 
+ | [id](/f35/language/id) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/id.po | 
+ | [nl](/f35/language/nl) | 772 | 772 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/nl.po | 
+ | [pt_BR](/f35/language/pt_BR) | 778 | 778 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/pt_BR.po | 
+ | [sv](/f35/language/sv) | 1462 | 1462 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/help/sv/sv.po/mnt/stockage/packages/f35/gnome-text-editor/po/sv.po | 
+ | [uk](/f35/language/uk) | 1462 | 1462 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/help/uk/uk.po/mnt/stockage/packages/f35/gnome-text-editor/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 758 | 758 | 100.0 | /mnt/stockage/packages/f35/gnome-text-editor/po/zh_CN.po | 
+ | [de](/f35/language/de) | 677 | 772 | 87.7 | /mnt/stockage/packages/f35/gnome-text-editor/po/de.po | 
+ | [fi](/f35/language/fi) | 652 | 777 | 83.9 | /mnt/stockage/packages/f35/gnome-text-editor/po/fi.po | 
+ | [gl](/f35/language/gl) | 613 | 772 | 79.4 | /mnt/stockage/packages/f35/gnome-text-editor/po/gl.po | 
+ | [eu](/f35/language/eu) | 430 | 772 | 55.7 | /mnt/stockage/packages/f35/gnome-text-editor/po/eu.po | 
+ | [sl](/f35/language/sl) | 416 | 778 | 53.5 | /mnt/stockage/packages/f35/gnome-text-editor/po/sl.po | 
+ | [oc](/f35/language/oc) | 55 | 772 | 7.1 | /mnt/stockage/packages/f35/gnome-text-editor/po/oc.po | 
 {.sortable}
 
 

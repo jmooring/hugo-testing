@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-menus]({{< ref "/f19/package/gnome-menus.md" >}}) | 95 | 103 | 92.2 | Silesian <szl@li.org> | 
+ | [gnome-menus](/f19/package/gnome-menus) | 95 | 103 | 92.2 | Silesian <szl@li.org> | 
 {.sortable}
 
 

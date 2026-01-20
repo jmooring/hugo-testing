@@ -18,41 +18,41 @@ The package gnome-phone-manager (version 0.68):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f16/language/ca.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ca.po | 
- | [cs]({{< ref "/f16/language/cs.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/cs.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/da.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/de.po | 
- | [dz]({{< ref "/f16/language/dz.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/dz.po | 
- | [en_CA]({{< ref "/f16/language/en_CA.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/en_CA.po | 
- | [en_GB]({{< ref "/f16/language/en_GB.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/en_GB.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/es.po | 
- | [fi]({{< ref "/f16/language/fi.md" >}}) | 521 | 521 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/fi.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/fr.po | 
- | [gl]({{< ref "/f16/language/gl.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/gl.po | 
- | [he]({{< ref "/f16/language/he.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/he.po | 
- | [hu]({{< ref "/f16/language/hu.md" >}}) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/hu.po | 
- | [id]({{< ref "/f16/language/id.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/id.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/it.po | 
- | [lv]({{< ref "/f16/language/lv.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/lv.po | 
- | [nb_NO]({{< ref "/f16/language/nb_NO.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/nb.po | 
- | [ne]({{< ref "/f16/language/ne.md" >}}) | 508 | 508 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ne.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 513 | 513 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/nl.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pl.po | 
- | [pt]({{< ref "/f16/language/pt.md" >}}) | 390 | 390 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pt.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pt_BR.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ru.po | 
- | [sk]({{< ref "/f16/language/sk.md" >}}) | 508 | 508 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/sk.po | 
- | [sl]({{< ref "/f16/language/sl.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/sl.po | 
- | [sv]({{< ref "/f16/language/sv.md" >}}) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/sv.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/uk.po | 
- | [vi]({{< ref "/f16/language/vi.md" >}}) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/vi.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 552 | 559 | 98.7 | /mnt/stockage/packages/f16/gnome-phone-manager/po/zh_CN.po | 
- | [gu]({{< ref "/f16/language/gu.md" >}}) | 327 | 390 | 83.8 | /mnt/stockage/packages/f16/gnome-phone-manager/po/gu.po | 
- | [el]({{< ref "/f16/language/el.md" >}}) | 399 | 513 | 77.8 | /mnt/stockage/packages/f16/gnome-phone-manager/po/el.po | 
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 334 | 553 | 60.4 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ar.po | 
- | [pa]({{< ref "/f16/language/pa.md" >}}) | 119 | 390 | 30.5 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pa.po | 
- | [oc]({{< ref "/f16/language/oc.md" >}}) | 82 | 521 | 15.7 | /mnt/stockage/packages/f16/gnome-phone-manager/po/oc.po | 
- | [rw]({{< ref "/f16/language/rw.md" >}}) | 19 | 390 | 4.9 | /mnt/stockage/packages/f16/gnome-phone-manager/po/rw.po | 
+ | [ca](/f16/language/ca) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ca.po | 
+ | [cs](/f16/language/cs) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/cs.po | 
+ | [da](/f16/language/da) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/da.po | 
+ | [de](/f16/language/de) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/de.po | 
+ | [dz](/f16/language/dz) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/dz.po | 
+ | [en_CA](/f16/language/en_CA) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/en_CA.po | 
+ | [en_GB](/f16/language/en_GB) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/en_GB.po | 
+ | [es](/f16/language/es) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/es.po | 
+ | [fi](/f16/language/fi) | 521 | 521 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/fi.po | 
+ | [fr](/f16/language/fr) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/fr.po | 
+ | [gl](/f16/language/gl) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/gl.po | 
+ | [he](/f16/language/he) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/he.po | 
+ | [hu](/f16/language/hu) | 553 | 553 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/hu.po | 
+ | [id](/f16/language/id) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/id.po | 
+ | [it](/f16/language/it) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/it.po | 
+ | [lv](/f16/language/lv) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/lv.po | 
+ | [nb_NO](/f16/language/nb_NO) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/nb.po | 
+ | [ne](/f16/language/ne) | 508 | 508 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ne.po | 
+ | [nl](/f16/language/nl) | 513 | 513 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/nl.po | 
+ | [pl](/f16/language/pl) | 552 | 552 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pl.po | 
+ | [pt](/f16/language/pt) | 390 | 390 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pt.po | 
+ | [pt_BR](/f16/language/pt_BR) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pt_BR.po | 
+ | [ru](/f16/language/ru) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ru.po | 
+ | [sk](/f16/language/sk) | 508 | 508 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/sk.po | 
+ | [sl](/f16/language/sl) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/sl.po | 
+ | [sv](/f16/language/sv) | 559 | 559 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/sv.po | 
+ | [uk](/f16/language/uk) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/uk.po | 
+ | [vi](/f16/language/vi) | 502 | 502 | 100.0 | /mnt/stockage/packages/f16/gnome-phone-manager/po/vi.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 552 | 559 | 98.7 | /mnt/stockage/packages/f16/gnome-phone-manager/po/zh_CN.po | 
+ | [gu](/f16/language/gu) | 327 | 390 | 83.8 | /mnt/stockage/packages/f16/gnome-phone-manager/po/gu.po | 
+ | [el](/f16/language/el) | 399 | 513 | 77.8 | /mnt/stockage/packages/f16/gnome-phone-manager/po/el.po | 
+ | [ar](/f16/language/ar) | 334 | 553 | 60.4 | /mnt/stockage/packages/f16/gnome-phone-manager/po/ar.po | 
+ | [pa](/f16/language/pa) | 119 | 390 | 30.5 | /mnt/stockage/packages/f16/gnome-phone-manager/po/pa.po | 
+ | [oc](/f16/language/oc) | 82 | 521 | 15.7 | /mnt/stockage/packages/f16/gnome-phone-manager/po/oc.po | 
+ | [rw](/f16/language/rw) | 19 | 390 | 4.9 | /mnt/stockage/packages/f16/gnome-phone-manager/po/rw.po | 
 {.sortable}
 
 

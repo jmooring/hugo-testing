@@ -18,78 +18,78 @@ The package system-config-keyboard (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ar.po | 
- | [as]({{< ref "/f29/language/as.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/as.po | 
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ast.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/bg.po | 
- | [bn_IN]({{< ref "/f29/language/bn_IN.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/bn_IN.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/cs.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/da.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/de.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/el.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/en_GB.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/es.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/fa.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/fi.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/fr.po | 
- | [gu]({{< ref "/f29/language/gu.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/gu.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/hi.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/hu.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/id.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/is.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/it.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ja.po | 
- | [kn]({{< ref "/f29/language/kn.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/kn.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ko.po | 
- | [mai]({{< ref "/f29/language/mai.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/mai.po | 
- | [ml]({{< ref "/f29/language/ml.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ml.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/mr.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/nb.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/nl.po | 
- | [or]({{< ref "/f29/language/or.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/or.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pa.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pl.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ru.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sk.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sr@latin.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sv.po | 
- | [ta]({{< ref "/f29/language/ta.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ta.po | 
- | [te]({{< ref "/f29/language/te.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/te.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/tr.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/uk.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/zh_TW.po | 
- | [bn]({{< ref "/f29/language/bn.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/bn.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/bs.po | 
- | [cy]({{< ref "/f29/language/cy.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/cy.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/hr.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/lv.po | 
- | [mk]({{< ref "/f29/language/mk.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/mk.po | 
- | [ms]({{< ref "/f29/language/ms.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ms.po | 
- | [si]({{< ref "/f29/language/si.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/si.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/sl.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 168 | 187 | 89.8 | /mnt/stockage/packages/f29/system-config-keyboard/po/et.po | 
- | [zu]({{< ref "/f29/language/zu.md" >}}) | 141 | 187 | 75.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/zu.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 135 | 187 | 72.2 | /mnt/stockage/packages/f29/system-config-keyboard/po/gl.po | 
- | [be]({{< ref "/f29/language/be.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/be.po | 
- | [ka]({{< ref "/f29/language/ka.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ka.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/lt.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ro.po | 
- | [sq]({{< ref "/f29/language/sq.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/sq.po | 
- | [th]({{< ref "/f29/language/th.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/th.po | 
- | [ur]({{< ref "/f29/language/ur.md" >}}) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ur.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 48 | 187 | 25.7 | /mnt/stockage/packages/f29/system-config-keyboard/po/he.po | 
- | [mn]({{< ref "/f29/language/mn.md" >}}) | 25 | 187 | 13.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/mn.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 25 | 187 | 13.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/vi.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 5 | 187 | 2.7 | /mnt/stockage/packages/f29/system-config-keyboard/po/nds.po | 
- | [hy]({{< ref "/f29/language/hy.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/hy.po | 
- | [ku]({{< ref "/f29/language/ku.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ku.po | 
- | [lo]({{< ref "/f29/language/lo.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/lo.po | 
- | [my]({{< ref "/f29/language/my.md" >}}) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/my.po | 
+ | [ar](/f29/language/ar) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ar.po | 
+ | [as](/f29/language/as) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/as.po | 
+ | [ast](/f29/language/ast) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ast.po | 
+ | [bg](/f29/language/bg) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/bg.po | 
+ | [bn_IN](/f29/language/bn_IN) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/bn_IN.po | 
+ | [ca](/f29/language/ca) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ca.po | 
+ | [cs](/f29/language/cs) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/cs.po | 
+ | [da](/f29/language/da) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/da.po | 
+ | [de](/f29/language/de) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/de.po | 
+ | [el](/f29/language/el) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/el.po | 
+ | [en_GB](/f29/language/en_GB) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/en_GB.po | 
+ | [es](/f29/language/es) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/es.po | 
+ | [fa](/f29/language/fa) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/fa.po | 
+ | [fi](/f29/language/fi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/fi.po | 
+ | [fr](/f29/language/fr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/fr.po | 
+ | [gu](/f29/language/gu) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/gu.po | 
+ | [hi](/f29/language/hi) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/hi.po | 
+ | [hu](/f29/language/hu) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/hu.po | 
+ | [id](/f29/language/id) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/id.po | 
+ | [is](/f29/language/is) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/is.po | 
+ | [it](/f29/language/it) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/it.po | 
+ | [ja](/f29/language/ja) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ja.po | 
+ | [kn](/f29/language/kn) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/kn.po | 
+ | [ko](/f29/language/ko) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ko.po | 
+ | [mai](/f29/language/mai) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/mai.po | 
+ | [ml](/f29/language/ml) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ml.po | 
+ | [mr](/f29/language/mr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/mr.po | 
+ | [nb_NO](/f29/language/nb_NO) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/nb.po | 
+ | [nl](/f29/language/nl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/nl.po | 
+ | [or](/f29/language/or) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/or.po | 
+ | [pa](/f29/language/pa) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pa.po | 
+ | [pl](/f29/language/pl) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pl.po | 
+ | [pt](/f29/language/pt) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ru.po | 
+ | [sk](/f29/language/sk) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sk.po | 
+ | [sr](/f29/language/sr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sr@latin.po | 
+ | [sv](/f29/language/sv) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/sv.po | 
+ | [ta](/f29/language/ta) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ta.po | 
+ | [te](/f29/language/te) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/te.po | 
+ | [tr](/f29/language/tr) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/tr.po | 
+ | [uk](/f29/language/uk) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/uk.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/zh_CN.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 187 | 187 | 100.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/zh_TW.po | 
+ | [bn](/f29/language/bn) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/bn.po | 
+ | [bs](/f29/language/bs) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/bs.po | 
+ | [cy](/f29/language/cy) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/cy.po | 
+ | [hr](/f29/language/hr) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/hr.po | 
+ | [lv](/f29/language/lv) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/lv.po | 
+ | [mk](/f29/language/mk) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/mk.po | 
+ | [ms](/f29/language/ms) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ms.po | 
+ | [si](/f29/language/si) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/si.po | 
+ | [sl](/f29/language/sl) | 169 | 187 | 90.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/sl.po | 
+ | [et](/f29/language/et) | 168 | 187 | 89.8 | /mnt/stockage/packages/f29/system-config-keyboard/po/et.po | 
+ | [zu](/f29/language/zu) | 141 | 187 | 75.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/zu.po | 
+ | [gl](/f29/language/gl) | 135 | 187 | 72.2 | /mnt/stockage/packages/f29/system-config-keyboard/po/gl.po | 
+ | [be](/f29/language/be) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/be.po | 
+ | [ka](/f29/language/ka) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ka.po | 
+ | [lt](/f29/language/lt) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/lt.po | 
+ | [ro](/f29/language/ro) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ro.po | 
+ | [sq](/f29/language/sq) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/sq.po | 
+ | [th](/f29/language/th) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/th.po | 
+ | [ur](/f29/language/ur) | 70 | 187 | 37.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/ur.po | 
+ | [he](/f29/language/he) | 48 | 187 | 25.7 | /mnt/stockage/packages/f29/system-config-keyboard/po/he.po | 
+ | [mn](/f29/language/mn) | 25 | 187 | 13.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/mn.po | 
+ | [vi](/f29/language/vi) | 25 | 187 | 13.4 | /mnt/stockage/packages/f29/system-config-keyboard/po/vi.po | 
+ | [nds](/f29/language/nds) | 5 | 187 | 2.7 | /mnt/stockage/packages/f29/system-config-keyboard/po/nds.po | 
+ | [hy](/f29/language/hy) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/hy.po | 
+ | [ku](/f29/language/ku) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/ku.po | 
+ | [lo](/f29/language/lo) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/lo.po | 
+ | [my](/f29/language/my) | 0 | 187 | 0.0 | /mnt/stockage/packages/f29/system-config-keyboard/po/my.po | 
 {.sortable}
 
 

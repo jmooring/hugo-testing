@@ -18,12 +18,12 @@ The package 7kaa (version 2.15.4p1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f34/language/es.md" >}}) | 20623 | 20623 | 100.0 | /mnt/stockage/packages/f34/7kaa/po/es.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 20603 | 20623 | 99.9 | /mnt/stockage/packages/f34/7kaa/po/pl.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 19889 | 20623 | 96.4 | /mnt/stockage/packages/f34/7kaa/po/ru.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 2367 | 17367 | 13.6 | /mnt/stockage/packages/f34/7kaa/po/fr.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1897 | 20623 | 9.2 | /mnt/stockage/packages/f34/7kaa/po/de.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 944 | 20623 | 4.6 | /mnt/stockage/packages/f34/7kaa/po/pt_BR.po | 
+ | [es](/f34/language/es) | 20623 | 20623 | 100.0 | /mnt/stockage/packages/f34/7kaa/po/es.po | 
+ | [pl](/f34/language/pl) | 20603 | 20623 | 99.9 | /mnt/stockage/packages/f34/7kaa/po/pl.po | 
+ | [ru](/f34/language/ru) | 19889 | 20623 | 96.4 | /mnt/stockage/packages/f34/7kaa/po/ru.po | 
+ | [fr](/f34/language/fr) | 2367 | 17367 | 13.6 | /mnt/stockage/packages/f34/7kaa/po/fr.po | 
+ | [de](/f34/language/de) | 1897 | 20623 | 9.2 | /mnt/stockage/packages/f34/7kaa/po/de.po | 
+ | [pt_BR](/f34/language/pt_BR) | 944 | 20623 | 4.6 | /mnt/stockage/packages/f34/7kaa/po/pt_BR.po | 
 {.sortable}
 
 

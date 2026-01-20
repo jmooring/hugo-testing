@@ -18,7 +18,7 @@ The package pnmixer (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 62 | 62 | 100.0 | /mnt/stockage/packages/f16/pnmixer/po/de.po | 
+ | [de](/f16/language/de) | 62 | 62 | 100.0 | /mnt/stockage/packages/f16/pnmixer/po/de.po | 
 {.sortable}
 
 

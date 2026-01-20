@@ -18,62 +18,62 @@ The package thunar-volman (version 0.9.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f31/language/be.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/bg.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/cs.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/de.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/en_AU.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/es.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/fi.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/fr.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/gl.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/he.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/hu.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/hy_AM.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/is.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ja.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/kk.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/lt.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ms.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/nb.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/nl.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/pt_BR.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ru.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sk.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sq.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sr.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sv.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/th.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/uk.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/zh_TW.po | 
- | [ie]({{< ref "/f31/language/ie.md" >}}) | 494 | 499 | 99.0 | /mnt/stockage/packages/f31/thunar-volman/po/ie.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/ar.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/el.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/en_GB.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/eu.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/hr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/id.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/nn.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/oc.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/ro.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/sl.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 481 | 499 | 96.4 | /mnt/stockage/packages/f31/thunar-volman/po/ast.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 481 | 499 | 96.4 | /mnt/stockage/packages/f31/thunar-volman/po/ug.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 481 | 499 | 96.4 | /mnt/stockage/packages/f31/thunar-volman/po/zh_HK.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 335 | 499 | 67.1 | /mnt/stockage/packages/f31/thunar-volman/po/te.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 302 | 499 | 60.5 | /mnt/stockage/packages/f31/thunar-volman/po/vi.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 299 | 499 | 59.9 | /mnt/stockage/packages/f31/thunar-volman/po/am.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 252 | 499 | 50.5 | /mnt/stockage/packages/f31/thunar-volman/po/lv.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 252 | 499 | 50.5 | /mnt/stockage/packages/f31/thunar-volman/po/ur.po | 
- | [ur_PK]({{< ref "/f31/language/ur_PK.md" >}}) | 252 | 499 | 50.5 | /mnt/stockage/packages/f31/thunar-volman/po/ur_PK.po | 
+ | [be](/f31/language/be) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/be.po | 
+ | [bg](/f31/language/bg) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/bg.po | 
+ | [ca](/f31/language/ca) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ca.po | 
+ | [cs](/f31/language/cs) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/cs.po | 
+ | [da](/f31/language/da) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/da.po | 
+ | [de](/f31/language/de) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/de.po | 
+ | [en_AU](/f31/language/en_AU) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/en_AU.po | 
+ | [es](/f31/language/es) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/es.po | 
+ | [fi](/f31/language/fi) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/fi.po | 
+ | [fr](/f31/language/fr) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/fr.po | 
+ | [gl](/f31/language/gl) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/gl.po | 
+ | [he](/f31/language/he) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/he.po | 
+ | [hu](/f31/language/hu) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/hu.po | 
+ | [hy](/f31/language/hy) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/hy_AM.po | 
+ | [is](/f31/language/is) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/is.po | 
+ | [it](/f31/language/it) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/it.po | 
+ | [ja](/f31/language/ja) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ja.po | 
+ | [kk](/f31/language/kk) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/kk.po | 
+ | [ko](/f31/language/ko) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ko.po | 
+ | [lt](/f31/language/lt) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/lt.po | 
+ | [ms](/f31/language/ms) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ms.po | 
+ | [nb_NO](/f31/language/nb_NO) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/nb.po | 
+ | [nl](/f31/language/nl) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/nl.po | 
+ | [pl](/f31/language/pl) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/pl.po | 
+ | [pt](/f31/language/pt) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/pt_BR.po | 
+ | [ru](/f31/language/ru) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/ru.po | 
+ | [sk](/f31/language/sk) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sk.po | 
+ | [sq](/f31/language/sq) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sq.po | 
+ | [sr](/f31/language/sr) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sr.po | 
+ | [sv](/f31/language/sv) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/sv.po | 
+ | [th](/f31/language/th) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/th.po | 
+ | [tr](/f31/language/tr) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/tr.po | 
+ | [uk](/f31/language/uk) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/uk.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/zh_CN.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 499 | 499 | 100.0 | /mnt/stockage/packages/f31/thunar-volman/po/zh_TW.po | 
+ | [ie](/f31/language/ie) | 494 | 499 | 99.0 | /mnt/stockage/packages/f31/thunar-volman/po/ie.po | 
+ | [ar](/f31/language/ar) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/ar.po | 
+ | [el](/f31/language/el) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/el.po | 
+ | [en_GB](/f31/language/en_GB) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/en_GB.po | 
+ | [eu](/f31/language/eu) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/eu.po | 
+ | [hr](/f31/language/hr) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/hr.po | 
+ | [id](/f31/language/id) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/id.po | 
+ | [nn](/f31/language/nn) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/nn.po | 
+ | [oc](/f31/language/oc) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/oc.po | 
+ | [ro](/f31/language/ro) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/ro.po | 
+ | [sl](/f31/language/sl) | 482 | 499 | 96.6 | /mnt/stockage/packages/f31/thunar-volman/po/sl.po | 
+ | [ast](/f31/language/ast) | 481 | 499 | 96.4 | /mnt/stockage/packages/f31/thunar-volman/po/ast.po | 
+ | [ug](/f31/language/ug) | 481 | 499 | 96.4 | /mnt/stockage/packages/f31/thunar-volman/po/ug.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 481 | 499 | 96.4 | /mnt/stockage/packages/f31/thunar-volman/po/zh_HK.po | 
+ | [te](/f31/language/te) | 335 | 499 | 67.1 | /mnt/stockage/packages/f31/thunar-volman/po/te.po | 
+ | [vi](/f31/language/vi) | 302 | 499 | 60.5 | /mnt/stockage/packages/f31/thunar-volman/po/vi.po | 
+ | [am](/f31/language/am) | 299 | 499 | 59.9 | /mnt/stockage/packages/f31/thunar-volman/po/am.po | 
+ | [lv](/f31/language/lv) | 252 | 499 | 50.5 | /mnt/stockage/packages/f31/thunar-volman/po/lv.po | 
+ | [ur](/f31/language/ur) | 252 | 499 | 50.5 | /mnt/stockage/packages/f31/thunar-volman/po/ur.po | 
+ | [ur_PK](/f31/language/ur_PK) | 252 | 499 | 50.5 | /mnt/stockage/packages/f31/thunar-volman/po/ur_PK.po | 
 {.sortable}
 
 

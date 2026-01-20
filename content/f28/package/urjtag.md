@@ -18,9 +18,9 @@ The package urjtag (version 2018.06):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 1164 | 4814 | 24.2 | /mnt/stockage/packages/f28/urjtag/po/fr.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 1164 | 4814 | 24.2 | /mnt/stockage/packages/f28/urjtag/po/sk.po | 
- | [rw]({{< ref "/f28/language/rw.md" >}}) | 3 | 4814 | 0.1 | /mnt/stockage/packages/f28/urjtag/po/rw.po | 
+ | [fr](/f28/language/fr) | 1164 | 4814 | 24.2 | /mnt/stockage/packages/f28/urjtag/po/fr.po | 
+ | [sk](/f28/language/sk) | 1164 | 4814 | 24.2 | /mnt/stockage/packages/f28/urjtag/po/sk.po | 
+ | [rw](/f28/language/rw) | 3 | 4814 | 0.1 | /mnt/stockage/packages/f28/urjtag/po/rw.po | 
 {.sortable}
 
 

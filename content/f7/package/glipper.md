@@ -18,9 +18,9 @@ The package glipper (version 0.95.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1097 | 1099 | 99.8 | /mnt/stockage/packages/f7/glipper/help/fr/fr.po/mnt/stockage/packages/f7/glipper/po/fr.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1093 | 1099 | 99.5 | /mnt/stockage/packages/f7/glipper/help/de/de.po/mnt/stockage/packages/f7/glipper/po/de.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 123 | 129 | 95.3 | /mnt/stockage/packages/f7/glipper/po/ru.po | 
+ | [fr](/f7/language/fr) | 1097 | 1099 | 99.8 | /mnt/stockage/packages/f7/glipper/help/fr/fr.po/mnt/stockage/packages/f7/glipper/po/fr.po | 
+ | [de](/f7/language/de) | 1093 | 1099 | 99.5 | /mnt/stockage/packages/f7/glipper/help/de/de.po/mnt/stockage/packages/f7/glipper/po/de.po | 
+ | [ru](/f7/language/ru) | 123 | 129 | 95.3 | /mnt/stockage/packages/f7/glipper/po/ru.po | 
 {.sortable}
 
 

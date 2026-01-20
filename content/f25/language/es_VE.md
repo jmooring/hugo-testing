@@ -38,20 +38,20 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f25/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [glpi]({{< ref "/f25/package/glpi.md" >}}) | 10617 | 11276 | 94.2 | Spanish (Venezuela) (http://www.transifex.com/glpi/GLPI/language/es_VE/) | 
- | [python-django]({{< ref "/f25/package/python-django.md" >}}) | 3067 | 3385 | 90.6 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
- | [wicd]({{< ref "/f25/package/wicd.md" >}}) | 851 | 1138 | 74.8 | es_VE <LL@li.org> | 
- | [libmateweather]({{< ref "/f25/package/libmateweather.md" >}}) | 361 | 499 | 72.3 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [mate-applets]({{< ref "/f25/package/mate-applets.md" >}}) | 1635 | 2618 | 62.5 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [corebird]({{< ref "/f25/package/corebird.md" >}}) | 301 | 548 | 54.9 | Spanish (Venezuela) (http://www.transifex.com/corebird/corebird/language/es_VE/) | 
- | [mozo]({{< ref "/f25/package/mozo.md" >}}) | 17 | 42 | 40.5 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [openerp]({{< ref "/f25/package/openerp.md" >}}) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
- | [openerp7]({{< ref "/f25/package/openerp7.md" >}}) | 16650 | 49560 | 33.6 | Spanish (Venezuela) <es_VE@li.org> | 
- | [xreader]({{< ref "/f25/package/xreader.md" >}}) | 28 | 1653 | 1.7 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [atril]({{< ref "/f25/package/atril.md" >}}) | 28 | 1724 | 1.6 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [libmatekbd]({{< ref "/f25/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [mate-menu]({{< ref "/f25/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
+ | [libgweather](/f25/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [glpi](/f25/package/glpi) | 10617 | 11276 | 94.2 | Spanish (Venezuela) (http://www.transifex.com/glpi/GLPI/language/es_VE/) | 
+ | [python-django](/f25/package/python-django) | 3067 | 3385 | 90.6 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
+ | [wicd](/f25/package/wicd) | 851 | 1138 | 74.8 | es_VE <LL@li.org> | 
+ | [libmateweather](/f25/package/libmateweather) | 361 | 499 | 72.3 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [mate-applets](/f25/package/mate-applets) | 1635 | 2618 | 62.5 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [corebird](/f25/package/corebird) | 301 | 548 | 54.9 | Spanish (Venezuela) (http://www.transifex.com/corebird/corebird/language/es_VE/) | 
+ | [mozo](/f25/package/mozo) | 17 | 42 | 40.5 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [openerp](/f25/package/openerp) | 21309 | 54680 | 39.0 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [openerp7](/f25/package/openerp7) | 16650 | 49560 | 33.6 | Spanish (Venezuela) <es_VE@li.org> | 
+ | [xreader](/f25/package/xreader) | 28 | 1653 | 1.7 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [atril](/f25/package/atril) | 28 | 1724 | 1.6 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [libmatekbd](/f25/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [mate-menu](/f25/package/mate-menu) | 0 | 300 | 0.0 | Spanish (Venezuela) (http://www.transifex.com/projects/p/MATE/language/es_VE/) | 
 {.sortable}
 
 

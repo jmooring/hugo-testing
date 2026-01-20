@@ -18,8 +18,8 @@ The package gtimelog (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [lt]({{< ref "/f30/language/lt.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f30/gtimelog/src/gtimelog/po/lt.po | 
- | [en]({{< ref "/f30/language/en.md" >}}) | 6 | 434 | 1.4 | /mnt/stockage/packages/f30/gtimelog/src/gtimelog/po/en.po | 
+ | [lt](/f30/language/lt) | 434 | 434 | 100.0 | /mnt/stockage/packages/f30/gtimelog/src/gtimelog/po/lt.po | 
+ | [en](/f30/language/en) | 6 | 434 | 1.4 | /mnt/stockage/packages/f30/gtimelog/src/gtimelog/po/en.po | 
 {.sortable}
 
 

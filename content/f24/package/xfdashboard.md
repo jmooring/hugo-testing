@@ -18,12 +18,12 @@ The package xfdashboard (version 0.6.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 4684 | 5914 | 79.2 | /mnt/stockage/packages/f24/xfdashboard/po/fr.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 4251 | 5914 | 71.9 | /mnt/stockage/packages/f24/xfdashboard/po/sr.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 1391 | 5914 | 23.5 | /mnt/stockage/packages/f24/xfdashboard/po/lt.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 1068 | 5914 | 18.1 | /mnt/stockage/packages/f24/xfdashboard/po/es.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 100 | 5914 | 1.7 | /mnt/stockage/packages/f24/xfdashboard/po/he.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 1 | 5914 | 0.0 | /mnt/stockage/packages/f24/xfdashboard/po/it_IT.po | 
+ | [fr](/f24/language/fr) | 4684 | 5914 | 79.2 | /mnt/stockage/packages/f24/xfdashboard/po/fr.po | 
+ | [sr](/f24/language/sr) | 4251 | 5914 | 71.9 | /mnt/stockage/packages/f24/xfdashboard/po/sr.po | 
+ | [lt](/f24/language/lt) | 1391 | 5914 | 23.5 | /mnt/stockage/packages/f24/xfdashboard/po/lt.po | 
+ | [es](/f24/language/es) | 1068 | 5914 | 18.1 | /mnt/stockage/packages/f24/xfdashboard/po/es.po | 
+ | [he](/f24/language/he) | 100 | 5914 | 1.7 | /mnt/stockage/packages/f24/xfdashboard/po/he.po | 
+ | [it](/f24/language/it) | 1 | 5914 | 0.0 | /mnt/stockage/packages/f24/xfdashboard/po/it_IT.po | 
 {.sortable}
 
 

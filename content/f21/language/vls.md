@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [manaplus]({{< ref "/f21/package/manaplus.md" >}}) | 0 | 4384 | 0.0 | Vlaams (http://www.transifex.com/projects/p/manaplus/language/vls/) | 
+ | [manaplus](/f21/package/manaplus) | 0 | 4384 | 0.0 | Vlaams (http://www.transifex.com/projects/p/manaplus/language/vls/) | 
 {.sortable}
 
 

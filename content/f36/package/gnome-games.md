@@ -18,37 +18,37 @@ The package gnome-games (version 40.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/de.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/en_GB.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/eu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/fr.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/fur.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/hr.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/it.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 923 | 923 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/ko.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 635 | 635 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/ro.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 924 | 924 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/ru.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 854 | 854 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/sk.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 1680 | 1680 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/sr@latin.po/mnt/stockage/packages/f36/gnome-games/po/sr.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 729 | 729 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/uk.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 215 | 215 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/zh_CN.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 714 | 833 | 85.7 | /mnt/stockage/packages/f36/gnome-games/po/gl.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 671 | 845 | 79.4 | /mnt/stockage/packages/f36/gnome-games/po/ca.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 171 | 849 | 20.1 | /mnt/stockage/packages/f36/gnome-games/po/nb.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 178 | 923 | 19.3 | /mnt/stockage/packages/f36/gnome-games/po/el.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 153 | 924 | 16.6 | /mnt/stockage/packages/f36/gnome-games/po/sl.po | 
+ | [cs](/f36/language/cs) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/cs.po | 
+ | [da](/f36/language/da) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/da.po | 
+ | [de](/f36/language/de) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/de.po | 
+ | [en_GB](/f36/language/en_GB) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/en_GB.po | 
+ | [es](/f36/language/es) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/es.po | 
+ | [eu](/f36/language/eu) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/eu.po | 
+ | [fi](/f36/language/fi) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/fi.po | 
+ | [fr](/f36/language/fr) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/fr.po | 
+ | [fur](/f36/language/fur) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/fur.po | 
+ | [hr](/f36/language/hr) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/hr.po | 
+ | [hu](/f36/language/hu) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/hu.po | 
+ | [id](/f36/language/id) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/id.po | 
+ | [it](/f36/language/it) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/it.po | 
+ | [ko](/f36/language/ko) | 923 | 923 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/ko.po | 
+ | [nl](/f36/language/nl) | 857 | 857 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/nl.po | 
+ | [pl](/f36/language/pl) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/pl.po | 
+ | [pt](/f36/language/pt) | 635 | 635 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/ro.po | 
+ | [ru](/f36/language/ru) | 924 | 924 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/ru.po | 
+ | [sk](/f36/language/sk) | 854 | 854 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/sk.po | 
+ | [sr](/f36/language/sr) | 1680 | 1680 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/sr@latin.po/mnt/stockage/packages/f36/gnome-games/po/sr.po | 
+ | [sv](/f36/language/sv) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/sv.po | 
+ | [tr](/f36/language/tr) | 729 | 729 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/tr.po | 
+ | [uk](/f36/language/uk) | 833 | 833 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/uk.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 215 | 215 | 100.0 | /mnt/stockage/packages/f36/gnome-games/po/zh_CN.po | 
+ | [gl](/f36/language/gl) | 714 | 833 | 85.7 | /mnt/stockage/packages/f36/gnome-games/po/gl.po | 
+ | [ca](/f36/language/ca) | 671 | 845 | 79.4 | /mnt/stockage/packages/f36/gnome-games/po/ca.po | 
+ | [nb_NO](/f36/language/nb_NO) | 171 | 849 | 20.1 | /mnt/stockage/packages/f36/gnome-games/po/nb.po | 
+ | [el](/f36/language/el) | 178 | 923 | 19.3 | /mnt/stockage/packages/f36/gnome-games/po/el.po | 
+ | [sl](/f36/language/sl) | 153 | 924 | 16.6 | /mnt/stockage/packages/f36/gnome-games/po/sl.po | 
 {.sortable}
 
 

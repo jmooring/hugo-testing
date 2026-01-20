@@ -18,12 +18,12 @@ The package emelfm2 (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 5846 | 5985 | 97.7 | /mnt/stockage/packages/f19/emelfm2/po/fr.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 5843 | 5985 | 97.6 | /mnt/stockage/packages/f19/emelfm2/po/ru.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 5816 | 5985 | 97.2 | /mnt/stockage/packages/f19/emelfm2/po/de.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 5591 | 5985 | 93.4 | /mnt/stockage/packages/f19/emelfm2/po/pl.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 5558 | 5985 | 92.9 | /mnt/stockage/packages/f19/emelfm2/po/zh_CN.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 4602 | 5985 | 76.9 | /mnt/stockage/packages/f19/emelfm2/po/ja.po | 
+ | [fr](/f19/language/fr) | 5846 | 5985 | 97.7 | /mnt/stockage/packages/f19/emelfm2/po/fr.po | 
+ | [ru](/f19/language/ru) | 5843 | 5985 | 97.6 | /mnt/stockage/packages/f19/emelfm2/po/ru.po | 
+ | [de](/f19/language/de) | 5816 | 5985 | 97.2 | /mnt/stockage/packages/f19/emelfm2/po/de.po | 
+ | [pl](/f19/language/pl) | 5591 | 5985 | 93.4 | /mnt/stockage/packages/f19/emelfm2/po/pl.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 5558 | 5985 | 92.9 | /mnt/stockage/packages/f19/emelfm2/po/zh_CN.po | 
+ | [ja](/f19/language/ja) | 4602 | 5985 | 76.9 | /mnt/stockage/packages/f19/emelfm2/po/ja.po | 
 {.sortable}
 
 

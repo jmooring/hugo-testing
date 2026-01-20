@@ -18,8 +18,8 @@ The package PySolFC (version 1.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 4593 | 4967 | 92.5 | /mnt/stockage/packages/f9/PySolFC/po/ru.po | 
- | [error]({{< ref "/f9/language/error.md" >}}) | 4609 | 5008 | 92.0 | /mnt/stockage/packages/f9/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f9/PySolFC/po/ru_games.po | 
+ | [ru](/f9/language/ru) | 4593 | 4967 | 92.5 | /mnt/stockage/packages/f9/PySolFC/po/ru.po | 
+ | [error](/f9/language/error) | 4609 | 5008 | 92.0 | /mnt/stockage/packages/f9/PySolFC/po/ru_pysol.po/mnt/stockage/packages/f9/PySolFC/po/ru_games.po | 
 {.sortable}
 
 

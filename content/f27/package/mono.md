@@ -18,11 +18,11 @@ The package mono (version 4.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 4664 | 7723 | 60.4 | /mnt/stockage/packages/f27/mono/po/mcs/pt_BR.po | 
- | [en]({{< ref "/f27/language/en.md" >}}) | 17 | 36 | 47.2 | /mnt/stockage/packages/f27/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 1113 | 7723 | 14.4 | /mnt/stockage/packages/f27/mono/po/mcs/ja.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 936 | 7723 | 12.1 | /mnt/stockage/packages/f27/mono/po/mcs/es.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 269 | 7723 | 3.5 | /mnt/stockage/packages/f27/mono/po/mcs/de.po | 
+ | [pt_BR](/f27/language/pt_BR) | 4664 | 7723 | 60.4 | /mnt/stockage/packages/f27/mono/po/mcs/pt_BR.po | 
+ | [en](/f27/language/en) | 17 | 36 | 47.2 | /mnt/stockage/packages/f27/mono/mcs/class/Mono.Options/Documentation/en/examples/localization-es.po | 
+ | [ja](/f27/language/ja) | 1113 | 7723 | 14.4 | /mnt/stockage/packages/f27/mono/po/mcs/ja.po | 
+ | [es](/f27/language/es) | 936 | 7723 | 12.1 | /mnt/stockage/packages/f27/mono/po/mcs/es.po | 
+ | [de](/f27/language/de) | 269 | 7723 | 3.5 | /mnt/stockage/packages/f27/mono/po/mcs/de.po | 
 {.sortable}
 
 

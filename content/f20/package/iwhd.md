@@ -18,13 +18,13 @@ The package iwhd (version 1.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/de.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/fi.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/sr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/uk.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 822 | 957 | 85.9 | /mnt/stockage/packages/f20/iwhd/po/es.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 822 | 957 | 85.9 | /mnt/stockage/packages/f20/iwhd/po/ja.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 7 | 957 | 0.7 | /mnt/stockage/packages/f20/iwhd/po/fr.po | 
+ | [de](/f20/language/de) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/de.po | 
+ | [fi](/f20/language/fi) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/fi.po | 
+ | [sr](/f20/language/sr) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/sr.po | 
+ | [uk](/f20/language/uk) | 957 | 957 | 100.0 | /mnt/stockage/packages/f20/iwhd/po/uk.po | 
+ | [es](/f20/language/es) | 822 | 957 | 85.9 | /mnt/stockage/packages/f20/iwhd/po/es.po | 
+ | [ja](/f20/language/ja) | 822 | 957 | 85.9 | /mnt/stockage/packages/f20/iwhd/po/ja.po | 
+ | [fr](/f20/language/fr) | 7 | 957 | 0.7 | /mnt/stockage/packages/f20/iwhd/po/fr.po | 
 {.sortable}
 
 

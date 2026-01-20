@@ -18,23 +18,23 @@ The package avr-gdb (version 7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f18/language/da.md" >}}) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/da.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/da.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 863 | 863 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/de.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/es.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/es.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/fi.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/fi.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 5490 | 5490 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/fr.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/fr.po | 
- | [ga]({{< ref "/f18/language/ga.md" >}}) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/ga.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/id.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/id.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/nl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 434 | 434 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/ro.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 6373 | 6373 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/ru.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/sv.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/sv.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/tr.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/tr.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/vi.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/vi.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/ja.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/zh_CN.po | 
- | [rw]({{< ref "/f18/language/rw.md" >}}) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/rw.po | 
+ | [da](/f18/language/da) | 4129 | 4129 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/da.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/da.po | 
+ | [de](/f18/language/de) | 863 | 863 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/de.po | 
+ | [es](/f18/language/es) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/es.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/es.po | 
+ | [fi](/f18/language/fi) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/fi.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/fi.po | 
+ | [fr](/f18/language/fr) | 5490 | 5490 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/fr.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/fr.po | 
+ | [ga](/f18/language/ga) | 1297 | 1297 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/ga.po | 
+ | [id](/f18/language/id) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/id.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/id.po | 
+ | [nl](/f18/language/nl) | 1392 | 1392 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/nl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 434 | 434 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/opcodes/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/ro.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/ro.po | 
+ | [ru](/f18/language/ru) | 6373 | 6373 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/ru.po | 
+ | [sv](/f18/language/sv) | 4964 | 4964 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/sv.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/sv.po | 
+ | [tr](/f18/language/tr) | 4961 | 4961 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/tr.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/tr.po | 
+ | [vi](/f18/language/vi) | 7765 | 7765 | 100.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/vi.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/vi.po | 
+ | [ja](/f18/language/ja) | 2156 | 3375 | 63.9 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/ja.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 2316 | 4561 | 50.8 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/zh_CN.po/mnt/stockage/packages/f18/avr-gdb/opcodes/po/zh_CN.po | 
+ | [rw](/f18/language/rw) | 2 | 4098 | 0.0 | /mnt/stockage/packages/f18/avr-gdb/bfd/po/rw.po | 
 {.sortable}
 
 

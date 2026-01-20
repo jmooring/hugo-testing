@@ -18,19 +18,19 @@ The package gnome-applet-sensors (version 2.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 298 | 298 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/pt_BR.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 294 | 298 | 98.7 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/ru.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 231 | 298 | 77.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/fr.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 222 | 298 | 74.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 222 | 298 | 74.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/de.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 222 | 298 | 74.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/hu.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 186 | 298 | 62.4 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/zh_CN.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 163 | 298 | 54.7 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/pl.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 150 | 298 | 50.3 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/sv.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 59 | 298 | 19.8 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/fi.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 56 | 298 | 18.8 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/es.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 51 | 298 | 17.1 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/it.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 51 | 298 | 17.1 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/ro.po | 
+ | [pt_BR](/f14/language/pt_BR) | 298 | 298 | 100.0 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/pt_BR.po | 
+ | [ru](/f14/language/ru) | 294 | 298 | 98.7 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/ru.po | 
+ | [fr](/f14/language/fr) | 231 | 298 | 77.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/fr.po | 
+ | [cs](/f14/language/cs) | 222 | 298 | 74.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/cs.po | 
+ | [de](/f14/language/de) | 222 | 298 | 74.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/de.po | 
+ | [hu](/f14/language/hu) | 222 | 298 | 74.5 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/hu.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 186 | 298 | 62.4 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/zh_CN.po | 
+ | [pl](/f14/language/pl) | 163 | 298 | 54.7 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/pl.po | 
+ | [sv](/f14/language/sv) | 150 | 298 | 50.3 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/sv.po | 
+ | [fi](/f14/language/fi) | 59 | 298 | 19.8 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/fi.po | 
+ | [es](/f14/language/es) | 56 | 298 | 18.8 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/es.po | 
+ | [it](/f14/language/it) | 51 | 298 | 17.1 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/it.po | 
+ | [ro](/f14/language/ro) | 51 | 298 | 17.1 | /mnt/stockage/packages/f14/gnome-applet-sensors/po/ro.po | 
 {.sortable}
 
 

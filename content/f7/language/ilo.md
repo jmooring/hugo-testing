@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [kudzu]({{< ref "/f7/package/kudzu.md" >}}) | 73 | 73 | 100.0 |  | 
- | [firstboot]({{< ref "/f7/package/firstboot.md" >}}) | 499 | 598 | 83.4 |  | 
- | [rhgb]({{< ref "/f7/package/rhgb.md" >}}) | 95 | 121 | 78.5 |  | 
- | [anaconda]({{< ref "/f7/package/anaconda.md" >}}) | 7920 | 10112 | 78.3 | Joseph Maza <joemaza@comcast.net> | 
- | [redhat-menus]({{< ref "/f7/package/redhat-menus.md" >}}) | 106 | 261 | 40.6 |  | 
- | [specspo]({{< ref "/f7/package/specspo.md" >}}) | 7 | 78167 | 0.0 |  | 
- | [system-config-date]({{< ref "/f7/package/system-config-date.md" >}}) | 0 | 551 | 0.0 |  | 
+ | [kudzu](/f7/package/kudzu) | 73 | 73 | 100.0 |  | 
+ | [firstboot](/f7/package/firstboot) | 499 | 598 | 83.4 |  | 
+ | [rhgb](/f7/package/rhgb) | 95 | 121 | 78.5 |  | 
+ | [anaconda](/f7/package/anaconda) | 7920 | 10112 | 78.3 | Joseph Maza <joemaza@comcast.net> | 
+ | [redhat-menus](/f7/package/redhat-menus) | 106 | 261 | 40.6 |  | 
+ | [specspo](/f7/package/specspo) | 7 | 78167 | 0.0 |  | 
+ | [system-config-date](/f7/package/system-config-date) | 0 | 551 | 0.0 |  | 
 {.sortable}
 
 

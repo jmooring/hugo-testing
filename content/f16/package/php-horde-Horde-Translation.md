@@ -18,7 +18,7 @@ The package php-horde-Horde-Translation (version 2.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/php-horde-Horde-Translation/Horde_Translation-2.0.1/test/Horde/Translation/locale/de/LC_MESSAGES/Horde_Other.po/mnt/stockage/packages/f16/php-horde-Horde-Translation/Horde_Translation-2.0.1/test/Horde/Translation/locale/de/LC_MESSAGES/Horde_Translation.po | 
+ | [de](/f16/language/de) | 9 | 9 | 100.0 | /mnt/stockage/packages/f16/php-horde-Horde-Translation/Horde_Translation-2.0.1/test/Horde/Translation/locale/de/LC_MESSAGES/Horde_Other.po/mnt/stockage/packages/f16/php-horde-Horde-Translation/Horde_Translation-2.0.1/test/Horde/Translation/locale/de/LC_MESSAGES/Horde_Translation.po | 
 {.sortable}
 
 

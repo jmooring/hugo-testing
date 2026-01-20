@@ -18,7 +18,7 @@ The package scim-chewing (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 241 | 241 | 100.0 | /mnt/stockage/packages/f7/scim-chewing/po/zh_TW.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 241 | 241 | 100.0 | /mnt/stockage/packages/f7/scim-chewing/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package librsvg2 (version 2.48.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f32/language/es.md" >}}) | 67 | 67 | 100.0 | /mnt/stockage/packages/f32/librsvg2/po/es.po | 
+ | [es](/f32/language/es) | 67 | 67 | 100.0 | /mnt/stockage/packages/f32/librsvg2/po/es.po | 
 {.sortable}
 
 

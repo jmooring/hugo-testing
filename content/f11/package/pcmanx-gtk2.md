@@ -18,8 +18,8 @@ The package pcmanx-gtk2 (version 0.3.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 493 | 493 | 100.0 | /mnt/stockage/packages/f11/pcmanx-gtk2/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f11/language/zh_Hant.md" >}}) | 483 | 493 | 98.0 | /mnt/stockage/packages/f11/pcmanx-gtk2/po/zh_TW.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 493 | 493 | 100.0 | /mnt/stockage/packages/f11/pcmanx-gtk2/po/zh_CN.po | 
+ | [zh_Hant](/f11/language/zh_Hant) | 483 | 493 | 98.0 | /mnt/stockage/packages/f11/pcmanx-gtk2/po/zh_TW.po | 
 {.sortable}
 
 

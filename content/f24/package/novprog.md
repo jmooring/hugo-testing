@@ -18,17 +18,17 @@ The package novprog (version 3.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/de.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/el.po | 
- | [lt]({{< ref "/f24/language/lt.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/lt.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/pl.po | 
- | [ro]({{< ref "/f24/language/ro.md" >}}) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/ro.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/es.po | 
- | [he]({{< ref "/f24/language/he.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/he.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/nl.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/ru.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/tr.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 0 | 71 | 0.0 | /mnt/stockage/packages/f24/novprog/icons/po/fr.po | 
+ | [de](/f24/language/de) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/de.po | 
+ | [el](/f24/language/el) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/el.po | 
+ | [lt](/f24/language/lt) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/lt.po | 
+ | [pl](/f24/language/pl) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/pl.po | 
+ | [ro](/f24/language/ro) | 71 | 71 | 100.0 | /mnt/stockage/packages/f24/novprog/icons/po/ro.po | 
+ | [es](/f24/language/es) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/es.po | 
+ | [he](/f24/language/he) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/he.po | 
+ | [nl](/f24/language/nl) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/nl.po | 
+ | [ru](/f24/language/ru) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/ru.po | 
+ | [tr](/f24/language/tr) | 4 | 71 | 5.6 | /mnt/stockage/packages/f24/novprog/icons/po/tr.po | 
+ | [fr](/f24/language/fr) | 0 | 71 | 0.0 | /mnt/stockage/packages/f24/novprog/icons/po/fr.po | 
 {.sortable}
 
 

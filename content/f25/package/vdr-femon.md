@@ -18,19 +18,19 @@ The package vdr-femon (version 2.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f25/language/fi.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/fi_FI.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/fr_FR.po | 
- | [lt]({{< ref "/f25/language/lt.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/lt_LT.po | 
- | [sk]({{< ref "/f25/language/sk.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/sk_SK.po | 
- | [uk]({{< ref "/f25/language/uk.md" >}}) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/uk_UA.po | 
- | [et]({{< ref "/f25/language/et.md" >}}) | 312 | 313 | 99.7 | /mnt/stockage/packages/f25/vdr-femon/po/et_EE.po | 
- | [hu]({{< ref "/f25/language/hu.md" >}}) | 312 | 313 | 99.7 | /mnt/stockage/packages/f25/vdr-femon/po/hu_HU.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 312 | 313 | 99.7 | /mnt/stockage/packages/f25/vdr-femon/po/it_IT.po | 
- | [zh_Hans]({{< ref "/f25/language/zh_Hans.md" >}}) | 302 | 313 | 96.5 | /mnt/stockage/packages/f25/vdr-femon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f25/language/zh_Hant.md" >}}) | 302 | 313 | 96.5 | /mnt/stockage/packages/f25/vdr-femon/po/zh_TW.po | 
- | [de]({{< ref "/f25/language/de.md" >}}) | 149 | 313 | 47.6 | /mnt/stockage/packages/f25/vdr-femon/po/de_DE.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 138 | 313 | 44.1 | /mnt/stockage/packages/f25/vdr-femon/po/es_ES.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 56 | 313 | 17.9 | /mnt/stockage/packages/f25/vdr-femon/po/ru_RU.po | 
+ | [fi](/f25/language/fi) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/fi_FI.po | 
+ | [fr](/f25/language/fr) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/fr_FR.po | 
+ | [lt](/f25/language/lt) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/lt_LT.po | 
+ | [sk](/f25/language/sk) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/sk_SK.po | 
+ | [uk](/f25/language/uk) | 313 | 313 | 100.0 | /mnt/stockage/packages/f25/vdr-femon/po/uk_UA.po | 
+ | [et](/f25/language/et) | 312 | 313 | 99.7 | /mnt/stockage/packages/f25/vdr-femon/po/et_EE.po | 
+ | [hu](/f25/language/hu) | 312 | 313 | 99.7 | /mnt/stockage/packages/f25/vdr-femon/po/hu_HU.po | 
+ | [it](/f25/language/it) | 312 | 313 | 99.7 | /mnt/stockage/packages/f25/vdr-femon/po/it_IT.po | 
+ | [zh_Hans](/f25/language/zh_Hans) | 302 | 313 | 96.5 | /mnt/stockage/packages/f25/vdr-femon/po/zh_CN.po | 
+ | [zh_Hant](/f25/language/zh_Hant) | 302 | 313 | 96.5 | /mnt/stockage/packages/f25/vdr-femon/po/zh_TW.po | 
+ | [de](/f25/language/de) | 149 | 313 | 47.6 | /mnt/stockage/packages/f25/vdr-femon/po/de_DE.po | 
+ | [es](/f25/language/es) | 138 | 313 | 44.1 | /mnt/stockage/packages/f25/vdr-femon/po/es_ES.po | 
+ | [ru](/f25/language/ru) | 56 | 313 | 17.9 | /mnt/stockage/packages/f25/vdr-femon/po/ru_RU.po | 
 {.sortable}
 
 

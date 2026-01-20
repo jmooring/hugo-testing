@@ -18,24 +18,24 @@ The package simsu (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f21/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/el.po | 
- | [fr]({{< ref "/f21/language/fr.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/fr.po | 
- | [lt]({{< ref "/f21/language/lt.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/lt.po | 
- | [ms]({{< ref "/f21/language/ms.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/ms.po | 
- | [ro]({{< ref "/f21/language/ro.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/ro.po | 
- | [cs]({{< ref "/f21/language/cs.md" >}}) | 9 | 81 | 11.1 | /mnt/stockage/packages/f21/simsu/icons/po/cs.po | 
- | [de]({{< ref "/f21/language/de.md" >}}) | 3 | 81 | 3.7 | /mnt/stockage/packages/f21/simsu/icons/po/de.po | 
- | [nl]({{< ref "/f21/language/nl.md" >}}) | 3 | 81 | 3.7 | /mnt/stockage/packages/f21/simsu/icons/po/nl.po | 
- | [pl]({{< ref "/f21/language/pl.md" >}}) | 3 | 81 | 3.7 | /mnt/stockage/packages/f21/simsu/icons/po/pl.po | 
- | [he]({{< ref "/f21/language/he.md" >}}) | 2 | 81 | 2.5 | /mnt/stockage/packages/f21/simsu/icons/po/he.po | 
- | [bg]({{< ref "/f21/language/bg.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/bg.po | 
- | [ca]({{< ref "/f21/language/ca.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/ca.po | 
- | [es]({{< ref "/f21/language/es.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/es.po | 
- | [es_CL]({{< ref "/f21/language/es_CL.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/es_CL.po | 
- | [hu]({{< ref "/f21/language/hu.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/hu.po | 
- | [ru]({{< ref "/f21/language/ru.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/ru.po | 
- | [tr]({{< ref "/f21/language/tr.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/tr.po | 
- | [uk]({{< ref "/f21/language/uk.md" >}}) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/uk.po | 
+ | [el](/f21/language/el) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/el.po | 
+ | [fr](/f21/language/fr) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/fr.po | 
+ | [lt](/f21/language/lt) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/lt.po | 
+ | [ms](/f21/language/ms) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/ms.po | 
+ | [ro](/f21/language/ro) | 81 | 81 | 100.0 | /mnt/stockage/packages/f21/simsu/icons/po/ro.po | 
+ | [cs](/f21/language/cs) | 9 | 81 | 11.1 | /mnt/stockage/packages/f21/simsu/icons/po/cs.po | 
+ | [de](/f21/language/de) | 3 | 81 | 3.7 | /mnt/stockage/packages/f21/simsu/icons/po/de.po | 
+ | [nl](/f21/language/nl) | 3 | 81 | 3.7 | /mnt/stockage/packages/f21/simsu/icons/po/nl.po | 
+ | [pl](/f21/language/pl) | 3 | 81 | 3.7 | /mnt/stockage/packages/f21/simsu/icons/po/pl.po | 
+ | [he](/f21/language/he) | 2 | 81 | 2.5 | /mnt/stockage/packages/f21/simsu/icons/po/he.po | 
+ | [bg](/f21/language/bg) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/bg.po | 
+ | [ca](/f21/language/ca) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/ca.po | 
+ | [es](/f21/language/es) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/es.po | 
+ | [es_CL](/f21/language/es_CL) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/es_CL.po | 
+ | [hu](/f21/language/hu) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/hu.po | 
+ | [ru](/f21/language/ru) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/ru.po | 
+ | [tr](/f21/language/tr) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/tr.po | 
+ | [uk](/f21/language/uk) | 0 | 81 | 0.0 | /mnt/stockage/packages/f21/simsu/icons/po/uk.po | 
 {.sortable}
 
 

@@ -18,79 +18,79 @@ The package console-setup (version 1.76):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ar.po | 
- | [ast]({{< ref "/f17/language/ast.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ast.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/be.po | 
- | [bg]({{< ref "/f17/language/bg.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/bg.po | 
- | [bn]({{< ref "/f17/language/bn.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/bn.po | 
- | [bs]({{< ref "/f17/language/bs.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/bs.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ca.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/cs.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/da.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/de.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/el.po | 
- | [en_US]({{< ref "/f17/language/en_US.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/hi.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/eo.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/es.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/et.po | 
- | [eu]({{< ref "/f17/language/eu.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/eu.po | 
- | [fa]({{< ref "/f17/language/fa.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/fa.po | 
- | [fi]({{< ref "/f17/language/fi.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/fi.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/fr.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ga.po | 
- | [gu]({{< ref "/f17/language/gu.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/gu.po | 
- | [id]({{< ref "/f17/language/id.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/id.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/is.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/it.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ja.po | 
- | [kk]({{< ref "/f17/language/kk.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/kk.po | 
- | [km]({{< ref "/f17/language/km.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/km.po | 
- | [kn]({{< ref "/f17/language/kn.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/kn.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ko.po | 
- | [mk]({{< ref "/f17/language/mk.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/mk.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/nb.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/nl.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/pl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/pt_BR.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ru.po | 
- | [si]({{< ref "/f17/language/si.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/si.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/sk.po | 
- | [sr]({{< ref "/f17/language/sr.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/sr.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/sv.po | 
- | [te]({{< ref "/f17/language/te.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/te.po | 
- | [th]({{< ref "/f17/language/th.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/th.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/tr.po | 
- | [ug]({{< ref "/f17/language/ug.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ug.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/uk.po | 
- | [vi]({{< ref "/f17/language/vi.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/vi.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/zh_TW.po | 
- | [mr]({{< ref "/f17/language/mr.md" >}}) | 976 | 979 | 99.7 | /mnt/stockage/packages/f17/console-setup/debian/po/mr.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 976 | 979 | 99.7 | /mnt/stockage/packages/f17/console-setup/debian/po/ro.po | 
- | [ta]({{< ref "/f17/language/ta.md" >}}) | 976 | 979 | 99.7 | /mnt/stockage/packages/f17/console-setup/debian/po/ta.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 967 | 979 | 98.8 | /mnt/stockage/packages/f17/console-setup/debian/po/gl.po | 
- | [dz]({{< ref "/f17/language/dz.md" >}}) | 920 | 979 | 94.0 | /mnt/stockage/packages/f17/console-setup/debian/po/dz.po | 
- | [pa]({{< ref "/f17/language/pa.md" >}}) | 911 | 979 | 93.1 | /mnt/stockage/packages/f17/console-setup/debian/po/pa.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 907 | 979 | 92.6 | /mnt/stockage/packages/f17/console-setup/debian/po/hu.po | 
- | [lo]({{< ref "/f17/language/lo.md" >}}) | 903 | 979 | 92.2 | /mnt/stockage/packages/f17/console-setup/debian/po/lo.po | 
- | [sl]({{< ref "/f17/language/sl.md" >}}) | 898 | 979 | 91.7 | /mnt/stockage/packages/f17/console-setup/debian/po/sl.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 876 | 979 | 89.5 | /mnt/stockage/packages/f17/console-setup/debian/po/hr.po | 
- | [ku]({{< ref "/f17/language/ku.md" >}}) | 874 | 979 | 89.3 | /mnt/stockage/packages/f17/console-setup/debian/po/ku.po | 
- | [lv]({{< ref "/f17/language/lv.md" >}}) | 854 | 979 | 87.2 | /mnt/stockage/packages/f17/console-setup/debian/po/lv.po | 
- | [sr_Latn]({{< ref "/f17/language/sr_Latn.md" >}}) | 809 | 979 | 82.6 | /mnt/stockage/packages/f17/console-setup/debian/po/sr@latin.po | 
- | [he]({{< ref "/f17/language/he.md" >}}) | 569 | 979 | 58.1 | /mnt/stockage/packages/f17/console-setup/debian/po/he.po | 
- | [bo]({{< ref "/f17/language/bo.md" >}}) | 501 | 979 | 51.2 | /mnt/stockage/packages/f17/console-setup/debian/po/bo.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 469 | 979 | 47.9 | /mnt/stockage/packages/f17/console-setup/debian/po/ml.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 310 | 979 | 31.7 | /mnt/stockage/packages/f17/console-setup/debian/po/lt.po | 
- | [am]({{< ref "/f17/language/am.md" >}}) | 296 | 979 | 30.2 | /mnt/stockage/packages/f17/console-setup/debian/po/am.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 282 | 979 | 28.8 | /mnt/stockage/packages/f17/console-setup/debian/po/nn.po | 
- | [ka]({{< ref "/f17/language/ka.md" >}}) | 257 | 979 | 26.3 | /mnt/stockage/packages/f17/console-setup/debian/po/ka.po | 
- | [sq]({{< ref "/f17/language/sq.md" >}}) | 256 | 979 | 26.1 | /mnt/stockage/packages/f17/console-setup/debian/po/sq.po | 
- | [ne]({{< ref "/f17/language/ne.md" >}}) | 135 | 979 | 13.8 | /mnt/stockage/packages/f17/console-setup/debian/po/ne.po | 
- | [tl]({{< ref "/f17/language/tl.md" >}}) | 60 | 979 | 6.1 | /mnt/stockage/packages/f17/console-setup/debian/po/tl.po | 
- | [hy]({{< ref "/f17/language/hy.md" >}}) | 10 | 979 | 1.0 | /mnt/stockage/packages/f17/console-setup/debian/po/hy.po | 
- | [se]({{< ref "/f17/language/se.md" >}}) | 0 | 979 | 0.0 | /mnt/stockage/packages/f17/console-setup/debian/po/se.po | 
+ | [ar](/f17/language/ar) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ar.po | 
+ | [ast](/f17/language/ast) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ast.po | 
+ | [be](/f17/language/be) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/be.po | 
+ | [bg](/f17/language/bg) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/bg.po | 
+ | [bn](/f17/language/bn) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/bn.po | 
+ | [bs](/f17/language/bs) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/bs.po | 
+ | [ca](/f17/language/ca) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ca.po | 
+ | [cs](/f17/language/cs) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/cs.po | 
+ | [da](/f17/language/da) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/da.po | 
+ | [de](/f17/language/de) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/de.po | 
+ | [el](/f17/language/el) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/el.po | 
+ | [en_US](/f17/language/en_US) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/hi.po | 
+ | [eo](/f17/language/eo) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/eo.po | 
+ | [es](/f17/language/es) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/es.po | 
+ | [et](/f17/language/et) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/et.po | 
+ | [eu](/f17/language/eu) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/eu.po | 
+ | [fa](/f17/language/fa) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/fa.po | 
+ | [fi](/f17/language/fi) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/fi.po | 
+ | [fr](/f17/language/fr) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/fr.po | 
+ | [ga](/f17/language/ga) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ga.po | 
+ | [gu](/f17/language/gu) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/gu.po | 
+ | [id](/f17/language/id) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/id.po | 
+ | [is](/f17/language/is) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/is.po | 
+ | [it](/f17/language/it) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/it.po | 
+ | [ja](/f17/language/ja) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ja.po | 
+ | [kk](/f17/language/kk) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/kk.po | 
+ | [km](/f17/language/km) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/km.po | 
+ | [kn](/f17/language/kn) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/kn.po | 
+ | [ko](/f17/language/ko) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ko.po | 
+ | [mk](/f17/language/mk) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/mk.po | 
+ | [nb_NO](/f17/language/nb_NO) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/nb.po | 
+ | [nl](/f17/language/nl) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/nl.po | 
+ | [pl](/f17/language/pl) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/pl.po | 
+ | [pt](/f17/language/pt) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/pt.po | 
+ | [pt_BR](/f17/language/pt_BR) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/pt_BR.po | 
+ | [ru](/f17/language/ru) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ru.po | 
+ | [si](/f17/language/si) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/si.po | 
+ | [sk](/f17/language/sk) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/sk.po | 
+ | [sr](/f17/language/sr) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/sr.po | 
+ | [sv](/f17/language/sv) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/sv.po | 
+ | [te](/f17/language/te) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/te.po | 
+ | [th](/f17/language/th) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/th.po | 
+ | [tr](/f17/language/tr) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/tr.po | 
+ | [ug](/f17/language/ug) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/ug.po | 
+ | [uk](/f17/language/uk) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/uk.po | 
+ | [vi](/f17/language/vi) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/vi.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/zh_CN.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 979 | 979 | 100.0 | /mnt/stockage/packages/f17/console-setup/debian/po/zh_TW.po | 
+ | [mr](/f17/language/mr) | 976 | 979 | 99.7 | /mnt/stockage/packages/f17/console-setup/debian/po/mr.po | 
+ | [ro](/f17/language/ro) | 976 | 979 | 99.7 | /mnt/stockage/packages/f17/console-setup/debian/po/ro.po | 
+ | [ta](/f17/language/ta) | 976 | 979 | 99.7 | /mnt/stockage/packages/f17/console-setup/debian/po/ta.po | 
+ | [gl](/f17/language/gl) | 967 | 979 | 98.8 | /mnt/stockage/packages/f17/console-setup/debian/po/gl.po | 
+ | [dz](/f17/language/dz) | 920 | 979 | 94.0 | /mnt/stockage/packages/f17/console-setup/debian/po/dz.po | 
+ | [pa](/f17/language/pa) | 911 | 979 | 93.1 | /mnt/stockage/packages/f17/console-setup/debian/po/pa.po | 
+ | [hu](/f17/language/hu) | 907 | 979 | 92.6 | /mnt/stockage/packages/f17/console-setup/debian/po/hu.po | 
+ | [lo](/f17/language/lo) | 903 | 979 | 92.2 | /mnt/stockage/packages/f17/console-setup/debian/po/lo.po | 
+ | [sl](/f17/language/sl) | 898 | 979 | 91.7 | /mnt/stockage/packages/f17/console-setup/debian/po/sl.po | 
+ | [hr](/f17/language/hr) | 876 | 979 | 89.5 | /mnt/stockage/packages/f17/console-setup/debian/po/hr.po | 
+ | [ku](/f17/language/ku) | 874 | 979 | 89.3 | /mnt/stockage/packages/f17/console-setup/debian/po/ku.po | 
+ | [lv](/f17/language/lv) | 854 | 979 | 87.2 | /mnt/stockage/packages/f17/console-setup/debian/po/lv.po | 
+ | [sr_Latn](/f17/language/sr_Latn) | 809 | 979 | 82.6 | /mnt/stockage/packages/f17/console-setup/debian/po/sr@latin.po | 
+ | [he](/f17/language/he) | 569 | 979 | 58.1 | /mnt/stockage/packages/f17/console-setup/debian/po/he.po | 
+ | [bo](/f17/language/bo) | 501 | 979 | 51.2 | /mnt/stockage/packages/f17/console-setup/debian/po/bo.po | 
+ | [ml](/f17/language/ml) | 469 | 979 | 47.9 | /mnt/stockage/packages/f17/console-setup/debian/po/ml.po | 
+ | [lt](/f17/language/lt) | 310 | 979 | 31.7 | /mnt/stockage/packages/f17/console-setup/debian/po/lt.po | 
+ | [am](/f17/language/am) | 296 | 979 | 30.2 | /mnt/stockage/packages/f17/console-setup/debian/po/am.po | 
+ | [nn](/f17/language/nn) | 282 | 979 | 28.8 | /mnt/stockage/packages/f17/console-setup/debian/po/nn.po | 
+ | [ka](/f17/language/ka) | 257 | 979 | 26.3 | /mnt/stockage/packages/f17/console-setup/debian/po/ka.po | 
+ | [sq](/f17/language/sq) | 256 | 979 | 26.1 | /mnt/stockage/packages/f17/console-setup/debian/po/sq.po | 
+ | [ne](/f17/language/ne) | 135 | 979 | 13.8 | /mnt/stockage/packages/f17/console-setup/debian/po/ne.po | 
+ | [tl](/f17/language/tl) | 60 | 979 | 6.1 | /mnt/stockage/packages/f17/console-setup/debian/po/tl.po | 
+ | [hy](/f17/language/hy) | 10 | 979 | 1.0 | /mnt/stockage/packages/f17/console-setup/debian/po/hy.po | 
+ | [se](/f17/language/se) | 0 | 979 | 0.0 | /mnt/stockage/packages/f17/console-setup/debian/po/se.po | 
 {.sortable}
 
 

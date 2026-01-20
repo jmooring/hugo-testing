@@ -18,42 +18,42 @@ The package corebird (version 1.7.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f29/language/ast.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/ast.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/de.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/eo.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/fi.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/gl.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/lt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/nl.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/pl.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/sr.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/sr@latin.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 583 | 586 | 99.5 | /mnt/stockage/packages/f29/corebird/po/zh_TW.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 564 | 586 | 96.2 | /mnt/stockage/packages/f29/corebird/po/it.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 552 | 586 | 94.2 | /mnt/stockage/packages/f29/corebird/po/nb.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 542 | 586 | 92.5 | /mnt/stockage/packages/f29/corebird/po/fr.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 542 | 586 | 92.5 | /mnt/stockage/packages/f29/corebird/po/id.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 484 | 586 | 82.6 | /mnt/stockage/packages/f29/corebird/po/pt_BR.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 435 | 586 | 74.2 | /mnt/stockage/packages/f29/corebird/po/ru.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 428 | 586 | 73.0 | /mnt/stockage/packages/f29/corebird/po/ca.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 428 | 586 | 73.0 | /mnt/stockage/packages/f29/corebird/po/es.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 428 | 586 | 73.0 | /mnt/stockage/packages/f29/corebird/po/zh_CN.po | 
- | [pt_PT]({{< ref "/f29/language/pt_PT.md" >}}) | 425 | 586 | 72.5 | /mnt/stockage/packages/f29/corebird/po/pt.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 412 | 586 | 70.3 | /mnt/stockage/packages/f29/corebird/po/ko.po | 
- | [es_MX]({{< ref "/f29/language/es_MX.md" >}}) | 339 | 586 | 57.8 | /mnt/stockage/packages/f29/corebird/po/es_MX.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 330 | 586 | 56.3 | /mnt/stockage/packages/f29/corebird/po/uk_UA.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 329 | 586 | 56.1 | /mnt/stockage/packages/f29/corebird/po/ja.po | 
- | [es_VE]({{< ref "/f29/language/es_VE.md" >}}) | 295 | 586 | 50.3 | /mnt/stockage/packages/f29/corebird/po/es_VE.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 295 | 586 | 50.3 | /mnt/stockage/packages/f29/corebird/po/tr.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 256 | 586 | 43.7 | /mnt/stockage/packages/f29/corebird/po/ro.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 203 | 586 | 34.6 | /mnt/stockage/packages/f29/corebird/po/ca@valencia.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 153 | 586 | 26.1 | /mnt/stockage/packages/f29/corebird/po/ar.po | 
- | [es_419]({{< ref "/f29/language/es_419.md" >}}) | 138 | 586 | 23.5 | /mnt/stockage/packages/f29/corebird/po/es_419.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 120 | 586 | 20.5 | /mnt/stockage/packages/f29/corebird/po/fa.po | 
- | [en_AU]({{< ref "/f29/language/en_AU.md" >}}) | 99 | 586 | 16.9 | /mnt/stockage/packages/f29/corebird/po/en_AU.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 88 | 586 | 15.0 | /mnt/stockage/packages/f29/corebird/po/hu.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 67 | 586 | 11.4 | /mnt/stockage/packages/f29/corebird/po/hi.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 28 | 586 | 4.8 | /mnt/stockage/packages/f29/corebird/po/ga.po | 
+ | [ast](/f29/language/ast) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/ast.po | 
+ | [de](/f29/language/de) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/de.po | 
+ | [eo](/f29/language/eo) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/eo.po | 
+ | [fi](/f29/language/fi) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/fi.po | 
+ | [gl](/f29/language/gl) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/gl.po | 
+ | [lt](/f29/language/lt) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/lt.po | 
+ | [nl](/f29/language/nl) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/nl.po | 
+ | [pl](/f29/language/pl) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/pl.po | 
+ | [sr](/f29/language/sr) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/sr.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 586 | 586 | 100.0 | /mnt/stockage/packages/f29/corebird/po/sr@latin.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 583 | 586 | 99.5 | /mnt/stockage/packages/f29/corebird/po/zh_TW.po | 
+ | [it](/f29/language/it) | 564 | 586 | 96.2 | /mnt/stockage/packages/f29/corebird/po/it.po | 
+ | [nb_NO](/f29/language/nb_NO) | 552 | 586 | 94.2 | /mnt/stockage/packages/f29/corebird/po/nb.po | 
+ | [fr](/f29/language/fr) | 542 | 586 | 92.5 | /mnt/stockage/packages/f29/corebird/po/fr.po | 
+ | [id](/f29/language/id) | 542 | 586 | 92.5 | /mnt/stockage/packages/f29/corebird/po/id.po | 
+ | [pt_BR](/f29/language/pt_BR) | 484 | 586 | 82.6 | /mnt/stockage/packages/f29/corebird/po/pt_BR.po | 
+ | [ru](/f29/language/ru) | 435 | 586 | 74.2 | /mnt/stockage/packages/f29/corebird/po/ru.po | 
+ | [ca](/f29/language/ca) | 428 | 586 | 73.0 | /mnt/stockage/packages/f29/corebird/po/ca.po | 
+ | [es](/f29/language/es) | 428 | 586 | 73.0 | /mnt/stockage/packages/f29/corebird/po/es.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 428 | 586 | 73.0 | /mnt/stockage/packages/f29/corebird/po/zh_CN.po | 
+ | [pt_PT](/f29/language/pt_PT) | 425 | 586 | 72.5 | /mnt/stockage/packages/f29/corebird/po/pt.po | 
+ | [ko](/f29/language/ko) | 412 | 586 | 70.3 | /mnt/stockage/packages/f29/corebird/po/ko.po | 
+ | [es_MX](/f29/language/es_MX) | 339 | 586 | 57.8 | /mnt/stockage/packages/f29/corebird/po/es_MX.po | 
+ | [uk](/f29/language/uk) | 330 | 586 | 56.3 | /mnt/stockage/packages/f29/corebird/po/uk_UA.po | 
+ | [ja](/f29/language/ja) | 329 | 586 | 56.1 | /mnt/stockage/packages/f29/corebird/po/ja.po | 
+ | [es_VE](/f29/language/es_VE) | 295 | 586 | 50.3 | /mnt/stockage/packages/f29/corebird/po/es_VE.po | 
+ | [tr](/f29/language/tr) | 295 | 586 | 50.3 | /mnt/stockage/packages/f29/corebird/po/tr.po | 
+ | [ro](/f29/language/ro) | 256 | 586 | 43.7 | /mnt/stockage/packages/f29/corebird/po/ro.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 203 | 586 | 34.6 | /mnt/stockage/packages/f29/corebird/po/ca@valencia.po | 
+ | [ar](/f29/language/ar) | 153 | 586 | 26.1 | /mnt/stockage/packages/f29/corebird/po/ar.po | 
+ | [es_419](/f29/language/es_419) | 138 | 586 | 23.5 | /mnt/stockage/packages/f29/corebird/po/es_419.po | 
+ | [fa](/f29/language/fa) | 120 | 586 | 20.5 | /mnt/stockage/packages/f29/corebird/po/fa.po | 
+ | [en_AU](/f29/language/en_AU) | 99 | 586 | 16.9 | /mnt/stockage/packages/f29/corebird/po/en_AU.po | 
+ | [hu](/f29/language/hu) | 88 | 586 | 15.0 | /mnt/stockage/packages/f29/corebird/po/hu.po | 
+ | [hi](/f29/language/hi) | 67 | 586 | 11.4 | /mnt/stockage/packages/f29/corebird/po/hi.po | 
+ | [ga](/f29/language/ga) | 28 | 586 | 4.8 | /mnt/stockage/packages/f29/corebird/po/ga.po | 
 {.sortable}
 
 

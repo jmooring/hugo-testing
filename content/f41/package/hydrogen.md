@@ -18,7 +18,7 @@ The package hydrogen (version 1.2.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f41/language/de.md" >}}) | 613 | 647 | 94.7 | /mnt/stockage/packages/f41/hydrogen/linux/po/de.po | 
+ | [de](/f41/language/de) | 613 | 647 | 94.7 | /mnt/stockage/packages/f41/hydrogen/linux/po/de.po | 
 {.sortable}
 
 

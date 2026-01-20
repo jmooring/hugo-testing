@@ -39,7 +39,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-desktop]({{< ref "/f8/package/gnome-desktop.md" >}}) | 288 | 320 | 90.0 | amo@wazobiasoft.org | 
+ | [gnome-desktop](/f8/package/gnome-desktop) | 288 | 320 | 90.0 | amo@wazobiasoft.org | 
 {.sortable}
 
 

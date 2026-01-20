@@ -18,77 +18,77 @@ The package mingw-p11-kit (version 0.23.16.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f40/language/ca.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ca.po | 
- | [cs]({{< ref "/f40/language/cs.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/cs.po | 
- | [da]({{< ref "/f40/language/da.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/da.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/de.po | 
- | [el]({{< ref "/f40/language/el.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/el.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/en_GB.po | 
- | [error]({{< ref "/f40/language/error.md" >}}) | 952 | 952 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/en@quot.po/mnt/stockage/packages/f40/mingw-p11-kit/po/en@boldquot.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/es.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fi.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fr.po | 
- | [fur]({{< ref "/f40/language/fur.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fur.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/gl.po | 
- | [hr]({{< ref "/f40/language/hr.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/hr.po | 
- | [hu]({{< ref "/f40/language/hu.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/hu.po | 
- | [id]({{< ref "/f40/language/id.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/id.po | 
- | [it]({{< ref "/f40/language/it.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/it.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ja.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ko.po | 
- | [oc]({{< ref "/f40/language/oc.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/oc.po | 
- | [pl]({{< ref "/f40/language/pl.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pl.po | 
- | [pt]({{< ref "/f40/language/pt.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pt.po | 
- | [pt_BR]({{< ref "/f40/language/pt_BR.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pt_BR.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ru.po | 
- | [sk]({{< ref "/f40/language/sk.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sk.po | 
- | [sl]({{< ref "/f40/language/sl.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sl.po | 
- | [sr]({{< ref "/f40/language/sr.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sr.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sv.po | 
- | [tr]({{< ref "/f40/language/tr.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/tr.po | 
- | [uk]({{< ref "/f40/language/uk.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/uk.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/zh_CN.po | 
- | [lv]({{< ref "/f40/language/lv.md" >}}) | 469 | 476 | 98.5 | /mnt/stockage/packages/f40/mingw-p11-kit/po/lv.po | 
- | [nl]({{< ref "/f40/language/nl.md" >}}) | 469 | 476 | 98.5 | /mnt/stockage/packages/f40/mingw-p11-kit/po/nl.po | 
- | [pa]({{< ref "/f40/language/pa.md" >}}) | 425 | 476 | 89.3 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pa.po | 
- | [ka]({{< ref "/f40/language/ka.md" >}}) | 156 | 476 | 32.8 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ka.po | 
- | [eo]({{< ref "/f40/language/eo.md" >}}) | 58 | 476 | 12.2 | /mnt/stockage/packages/f40/mingw-p11-kit/po/eo.po | 
- | [kk]({{< ref "/f40/language/kk.md" >}}) | 12 | 476 | 2.5 | /mnt/stockage/packages/f40/mingw-p11-kit/po/kk.po | 
- | [zh_Hant]({{< ref "/f40/language/zh_Hant.md" >}}) | 2 | 476 | 0.4 | /mnt/stockage/packages/f40/mingw-p11-kit/po/zh_TW.po | 
- | [ar]({{< ref "/f40/language/ar.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ar.po | 
- | [as]({{< ref "/f40/language/as.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/as.po | 
- | [ast]({{< ref "/f40/language/ast.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ast.po | 
- | [az]({{< ref "/f40/language/az.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/az.po | 
- | [bg]({{< ref "/f40/language/bg.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/bg.po | 
- | [bn_IN]({{< ref "/f40/language/bn_IN.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/bn_IN.po | 
- | [ca@valencia]({{< ref "/f40/language/ca@valencia.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ca@valencia.po | 
- | [cy]({{< ref "/f40/language/cy.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/cy.po | 
- | [et]({{< ref "/f40/language/et.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/et.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/eu.po | 
- | [fa]({{< ref "/f40/language/fa.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fa.po | 
- | [fo]({{< ref "/f40/language/fo.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fo.po | 
- | [ga]({{< ref "/f40/language/ga.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ga.po | 
- | [gu]({{< ref "/f40/language/gu.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/gu.po | 
- | [he]({{< ref "/f40/language/he.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/he.po | 
- | [hi]({{< ref "/f40/language/hi.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/hi.po | 
- | [ia]({{< ref "/f40/language/ia.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ia.po | 
- | [kn]({{< ref "/f40/language/kn.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/kn.po | 
- | [lt]({{< ref "/f40/language/lt.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/lt.po | 
- | [ml]({{< ref "/f40/language/ml.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ml.po | 
- | [mr]({{< ref "/f40/language/mr.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/mr.po | 
- | [ms]({{< ref "/f40/language/ms.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ms.po | 
- | [nb_NO]({{< ref "/f40/language/nb_NO.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/nb.po | 
- | [nn]({{< ref "/f40/language/nn.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/nn.po | 
- | [or]({{< ref "/f40/language/or.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/or.po | 
- | [ro]({{< ref "/f40/language/ro.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ro.po | 
- | [sq]({{< ref "/f40/language/sq.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sq.po | 
- | [sr_Latn]({{< ref "/f40/language/sr_Latn.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sr@latin.po | 
- | [ta]({{< ref "/f40/language/ta.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ta.po | 
- | [te]({{< ref "/f40/language/te.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/te.po | 
- | [th]({{< ref "/f40/language/th.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/th.po | 
- | [vi]({{< ref "/f40/language/vi.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/vi.po | 
- | [wa]({{< ref "/f40/language/wa.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/wa.po | 
- | [zh_Hant_HK]({{< ref "/f40/language/zh_Hant_HK.md" >}}) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/zh_HK.po | 
+ | [ca](/f40/language/ca) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ca.po | 
+ | [cs](/f40/language/cs) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/cs.po | 
+ | [da](/f40/language/da) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/da.po | 
+ | [de](/f40/language/de) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/de.po | 
+ | [el](/f40/language/el) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/el.po | 
+ | [en_GB](/f40/language/en_GB) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/en_GB.po | 
+ | [error](/f40/language/error) | 952 | 952 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/en@quot.po/mnt/stockage/packages/f40/mingw-p11-kit/po/en@boldquot.po | 
+ | [es](/f40/language/es) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/es.po | 
+ | [fi](/f40/language/fi) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fi.po | 
+ | [fr](/f40/language/fr) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fr.po | 
+ | [fur](/f40/language/fur) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fur.po | 
+ | [gl](/f40/language/gl) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/gl.po | 
+ | [hr](/f40/language/hr) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/hr.po | 
+ | [hu](/f40/language/hu) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/hu.po | 
+ | [id](/f40/language/id) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/id.po | 
+ | [it](/f40/language/it) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/it.po | 
+ | [ja](/f40/language/ja) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ja.po | 
+ | [ko](/f40/language/ko) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ko.po | 
+ | [oc](/f40/language/oc) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/oc.po | 
+ | [pl](/f40/language/pl) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pl.po | 
+ | [pt](/f40/language/pt) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pt.po | 
+ | [pt_BR](/f40/language/pt_BR) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pt_BR.po | 
+ | [ru](/f40/language/ru) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ru.po | 
+ | [sk](/f40/language/sk) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sk.po | 
+ | [sl](/f40/language/sl) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sl.po | 
+ | [sr](/f40/language/sr) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sr.po | 
+ | [sv](/f40/language/sv) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sv.po | 
+ | [tr](/f40/language/tr) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/tr.po | 
+ | [uk](/f40/language/uk) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/uk.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 476 | 476 | 100.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/zh_CN.po | 
+ | [lv](/f40/language/lv) | 469 | 476 | 98.5 | /mnt/stockage/packages/f40/mingw-p11-kit/po/lv.po | 
+ | [nl](/f40/language/nl) | 469 | 476 | 98.5 | /mnt/stockage/packages/f40/mingw-p11-kit/po/nl.po | 
+ | [pa](/f40/language/pa) | 425 | 476 | 89.3 | /mnt/stockage/packages/f40/mingw-p11-kit/po/pa.po | 
+ | [ka](/f40/language/ka) | 156 | 476 | 32.8 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ka.po | 
+ | [eo](/f40/language/eo) | 58 | 476 | 12.2 | /mnt/stockage/packages/f40/mingw-p11-kit/po/eo.po | 
+ | [kk](/f40/language/kk) | 12 | 476 | 2.5 | /mnt/stockage/packages/f40/mingw-p11-kit/po/kk.po | 
+ | [zh_Hant](/f40/language/zh_Hant) | 2 | 476 | 0.4 | /mnt/stockage/packages/f40/mingw-p11-kit/po/zh_TW.po | 
+ | [ar](/f40/language/ar) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ar.po | 
+ | [as](/f40/language/as) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/as.po | 
+ | [ast](/f40/language/ast) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ast.po | 
+ | [az](/f40/language/az) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/az.po | 
+ | [bg](/f40/language/bg) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/bg.po | 
+ | [bn_IN](/f40/language/bn_IN) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/bn_IN.po | 
+ | [ca@valencia](/f40/language/ca@valencia) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ca@valencia.po | 
+ | [cy](/f40/language/cy) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/cy.po | 
+ | [et](/f40/language/et) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/et.po | 
+ | [eu](/f40/language/eu) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/eu.po | 
+ | [fa](/f40/language/fa) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fa.po | 
+ | [fo](/f40/language/fo) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/fo.po | 
+ | [ga](/f40/language/ga) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ga.po | 
+ | [gu](/f40/language/gu) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/gu.po | 
+ | [he](/f40/language/he) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/he.po | 
+ | [hi](/f40/language/hi) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/hi.po | 
+ | [ia](/f40/language/ia) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ia.po | 
+ | [kn](/f40/language/kn) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/kn.po | 
+ | [lt](/f40/language/lt) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/lt.po | 
+ | [ml](/f40/language/ml) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ml.po | 
+ | [mr](/f40/language/mr) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/mr.po | 
+ | [ms](/f40/language/ms) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ms.po | 
+ | [nb_NO](/f40/language/nb_NO) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/nb.po | 
+ | [nn](/f40/language/nn) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/nn.po | 
+ | [or](/f40/language/or) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/or.po | 
+ | [ro](/f40/language/ro) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ro.po | 
+ | [sq](/f40/language/sq) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sq.po | 
+ | [sr_Latn](/f40/language/sr_Latn) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/sr@latin.po | 
+ | [ta](/f40/language/ta) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/ta.po | 
+ | [te](/f40/language/te) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/te.po | 
+ | [th](/f40/language/th) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/th.po | 
+ | [vi](/f40/language/vi) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/vi.po | 
+ | [wa](/f40/language/wa) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/wa.po | 
+ | [zh_Hant_HK](/f40/language/zh_Hant_HK) | 0 | 476 | 0.0 | /mnt/stockage/packages/f40/mingw-p11-kit/po/zh_HK.po | 
 {.sortable}
 
 

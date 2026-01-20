@@ -18,29 +18,29 @@ The package guake (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/ca.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/cs_CZ.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f20/guake/po/el.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/es.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f20/guake/po/fa.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/fr.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/gl.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/hr.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/hu.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/it.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/nb_NO.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 523 | 523 | 100.0 | /mnt/stockage/packages/f20/guake/po/pl.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/sv.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/tr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/uk_UA.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/zh_CN.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 507 | 512 | 99.0 | /mnt/stockage/packages/f20/guake/po/de.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 409 | 519 | 78.8 | /mnt/stockage/packages/f20/guake/po/ja.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 270 | 523 | 51.6 | /mnt/stockage/packages/f20/guake/po/pa.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 198 | 519 | 38.2 | /mnt/stockage/packages/f20/guake/po/id.po | 
+ | [ca](/f20/language/ca) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/ca.po | 
+ | [cs](/f20/language/cs) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/cs_CZ.po | 
+ | [el](/f20/language/el) | 481 | 481 | 100.0 | /mnt/stockage/packages/f20/guake/po/el.po | 
+ | [es](/f20/language/es) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/es.po | 
+ | [fa](/f20/language/fa) | 523 | 523 | 100.0 | /mnt/stockage/packages/f20/guake/po/fa.po | 
+ | [fr](/f20/language/fr) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/fr.po | 
+ | [gl](/f20/language/gl) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/gl.po | 
+ | [hr](/f20/language/hr) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/hr.po | 
+ | [hu](/f20/language/hu) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/hu.po | 
+ | [it](/f20/language/it) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/it.po | 
+ | [nb_NO](/f20/language/nb_NO) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/nb_NO.po | 
+ | [nl](/f20/language/nl) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/nl.po | 
+ | [pl](/f20/language/pl) | 523 | 523 | 100.0 | /mnt/stockage/packages/f20/guake/po/pl.po | 
+ | [pt_BR](/f20/language/pt_BR) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/ru.po | 
+ | [sv](/f20/language/sv) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/sv.po | 
+ | [tr](/f20/language/tr) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/tr.po | 
+ | [uk](/f20/language/uk) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/uk_UA.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 519 | 519 | 100.0 | /mnt/stockage/packages/f20/guake/po/zh_CN.po | 
+ | [de](/f20/language/de) | 507 | 512 | 99.0 | /mnt/stockage/packages/f20/guake/po/de.po | 
+ | [ja](/f20/language/ja) | 409 | 519 | 78.8 | /mnt/stockage/packages/f20/guake/po/ja.po | 
+ | [pa](/f20/language/pa) | 270 | 523 | 51.6 | /mnt/stockage/packages/f20/guake/po/pa.po | 
+ | [id](/f20/language/id) | 198 | 519 | 38.2 | /mnt/stockage/packages/f20/guake/po/id.po | 
 {.sortable}
 
 

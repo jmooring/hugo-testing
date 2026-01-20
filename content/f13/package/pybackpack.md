@@ -18,13 +18,13 @@ The package pybackpack (version 0.5.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f13/language/it.md" >}}) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f13/pybackpack/po/it.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 1113 | 1115 | 99.8 | /mnt/stockage/packages/f13/pybackpack/po/ru.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 931 | 1115 | 83.5 | /mnt/stockage/packages/f13/pybackpack/po/cs.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 918 | 1115 | 82.3 | /mnt/stockage/packages/f13/pybackpack/po/es_ES.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 918 | 1115 | 82.3 | /mnt/stockage/packages/f13/pybackpack/po/sv.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 898 | 1115 | 80.5 | /mnt/stockage/packages/f13/pybackpack/po/fr.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 642 | 1115 | 57.6 | /mnt/stockage/packages/f13/pybackpack/po/ja.po | 
+ | [it](/f13/language/it) | 1115 | 1115 | 100.0 | /mnt/stockage/packages/f13/pybackpack/po/it.po | 
+ | [ru](/f13/language/ru) | 1113 | 1115 | 99.8 | /mnt/stockage/packages/f13/pybackpack/po/ru.po | 
+ | [cs](/f13/language/cs) | 931 | 1115 | 83.5 | /mnt/stockage/packages/f13/pybackpack/po/cs.po | 
+ | [es](/f13/language/es) | 918 | 1115 | 82.3 | /mnt/stockage/packages/f13/pybackpack/po/es_ES.po | 
+ | [sv](/f13/language/sv) | 918 | 1115 | 82.3 | /mnt/stockage/packages/f13/pybackpack/po/sv.po | 
+ | [fr](/f13/language/fr) | 898 | 1115 | 80.5 | /mnt/stockage/packages/f13/pybackpack/po/fr.po | 
+ | [ja](/f13/language/ja) | 642 | 1115 | 57.6 | /mnt/stockage/packages/f13/pybackpack/po/ja.po | 
 {.sortable}
 
 

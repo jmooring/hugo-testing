@@ -18,21 +18,21 @@ The package wxMaxima (version 13.04.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/ca.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/de.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/es.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 2908 | 2908 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/gl.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/it.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/pt_BR.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 2934 | 2934 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/zh_CN.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 2897 | 2897 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/zh_TW.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 2837 | 2887 | 98.3 | /mnt/stockage/packages/f19/wxMaxima/locales/._pl.po/mnt/stockage/packages/f19/wxMaxima/locales/pl.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 2647 | 2887 | 91.7 | /mnt/stockage/packages/f19/wxMaxima/locales/el.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 2520 | 2887 | 87.3 | /mnt/stockage/packages/f19/wxMaxima/locales/cs.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 2354 | 2857 | 82.4 | /mnt/stockage/packages/f19/wxMaxima/locales/fr.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 2352 | 2887 | 81.5 | /mnt/stockage/packages/f19/wxMaxima/locales/ja.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 2169 | 2887 | 75.1 | /mnt/stockage/packages/f19/wxMaxima/locales/da.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 1127 | 2887 | 39.0 | /mnt/stockage/packages/f19/wxMaxima/locales/ru.po | 
+ | [ca](/f19/language/ca) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/ca.po | 
+ | [de](/f19/language/de) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/de.po | 
+ | [es](/f19/language/es) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/es.po | 
+ | [gl](/f19/language/gl) | 2908 | 2908 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/gl.po | 
+ | [it](/f19/language/it) | 2887 | 2887 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/it.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2909 | 2909 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/pt_BR.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 2934 | 2934 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/zh_CN.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 2897 | 2897 | 100.0 | /mnt/stockage/packages/f19/wxMaxima/locales/zh_TW.po | 
+ | [pl](/f19/language/pl) | 2837 | 2887 | 98.3 | /mnt/stockage/packages/f19/wxMaxima/locales/._pl.po/mnt/stockage/packages/f19/wxMaxima/locales/pl.po | 
+ | [el](/f19/language/el) | 2647 | 2887 | 91.7 | /mnt/stockage/packages/f19/wxMaxima/locales/el.po | 
+ | [cs](/f19/language/cs) | 2520 | 2887 | 87.3 | /mnt/stockage/packages/f19/wxMaxima/locales/cs.po | 
+ | [fr](/f19/language/fr) | 2354 | 2857 | 82.4 | /mnt/stockage/packages/f19/wxMaxima/locales/fr.po | 
+ | [ja](/f19/language/ja) | 2352 | 2887 | 81.5 | /mnt/stockage/packages/f19/wxMaxima/locales/ja.po | 
+ | [da](/f19/language/da) | 2169 | 2887 | 75.1 | /mnt/stockage/packages/f19/wxMaxima/locales/da.po | 
+ | [ru](/f19/language/ru) | 1127 | 2887 | 39.0 | /mnt/stockage/packages/f19/wxMaxima/locales/ru.po | 
 {.sortable}
 
 

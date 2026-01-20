@@ -18,21 +18,21 @@ The package basket (version 1.0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f10/language/da.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/de.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/ja.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/nn.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/pt.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/ru.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/tr.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2746 | 4581 | 59.9 | /mnt/stockage/packages/f10/basket/po/pl_PL.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 2396 | 4581 | 52.3 | /mnt/stockage/packages/f10/basket/po/zh_CN.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 2079 | 4581 | 45.4 | /mnt/stockage/packages/f10/basket/po/cs.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 44 | 4581 | 1.0 | /mnt/stockage/packages/f10/basket/po/nl.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 44 | 4581 | 1.0 | /mnt/stockage/packages/f10/basket/po/zh_TW.po | 
+ | [da](/f10/language/da) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/da.po | 
+ | [de](/f10/language/de) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/de.po | 
+ | [es](/f10/language/es) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/es.po | 
+ | [fr](/f10/language/fr) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/fr.po | 
+ | [it](/f10/language/it) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/it.po | 
+ | [ja](/f10/language/ja) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/ja.po | 
+ | [nn](/f10/language/nn) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/nn.po | 
+ | [pt](/f10/language/pt) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/pt.po | 
+ | [ru](/f10/language/ru) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/ru.po | 
+ | [tr](/f10/language/tr) | 4581 | 4581 | 100.0 | /mnt/stockage/packages/f10/basket/po/tr.po | 
+ | [pl](/f10/language/pl) | 2746 | 4581 | 59.9 | /mnt/stockage/packages/f10/basket/po/pl_PL.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 2396 | 4581 | 52.3 | /mnt/stockage/packages/f10/basket/po/zh_CN.po | 
+ | [cs](/f10/language/cs) | 2079 | 4581 | 45.4 | /mnt/stockage/packages/f10/basket/po/cs.po | 
+ | [nl](/f10/language/nl) | 44 | 4581 | 1.0 | /mnt/stockage/packages/f10/basket/po/nl.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 44 | 4581 | 1.0 | /mnt/stockage/packages/f10/basket/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,50 +18,50 @@ The package knemo (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f14/language/da.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/da/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/da/knemo.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/en_GB/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/en_GB/knemo.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/es/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/es/knemo.po | 
- | [et]({{< ref "/f14/language/et.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/et/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/et/knemo.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/fr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/fr/knemo.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/it/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/it/knemo.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/nb/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/nb/knemo.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/nl/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/nl/knemo.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/pt/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/pt/knemo.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/pt_BR/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/pt_BR/knemo.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/sv/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sv/knemo.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/uk/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/uk/knemo.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/zh_TW/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/zh_TW/knemo.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 1107 | 1186 | 93.3 | /mnt/stockage/packages/f14/knemo/po/de/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/de/knemo.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 940 | 1186 | 79.3 | /mnt/stockage/packages/f14/knemo/po/tr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/tr/knemo.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 931 | 1186 | 78.5 | /mnt/stockage/packages/f14/knemo/po/fi/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/fi/knemo.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 919 | 1186 | 77.5 | /mnt/stockage/packages/f14/knemo/po/hu/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/hu/knemo.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr/knemo.po | 
- | [sr@ijekavian]({{< ref "/f14/language/sr@ijekavian.md" >}}) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr@ijekavian/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr@ijekavian/knemo.po | 
- | [sr@ijekavian_Latn]({{< ref "/f14/language/sr@ijekavian_Latn.md" >}}) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr@ijekavianlatin/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr@ijekavianlatin/knemo.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr@latin/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr@latin/knemo.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 892 | 1186 | 75.2 | /mnt/stockage/packages/f14/knemo/po/ja/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ja/knemo.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 610 | 1186 | 51.4 | /mnt/stockage/packages/f14/knemo/po/km/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/km/knemo.po | 
- | [nds]({{< ref "/f14/language/nds.md" >}}) | 582 | 1186 | 49.1 | /mnt/stockage/packages/f14/knemo/po/nds/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/nds/knemo.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 494 | 1186 | 41.7 | /mnt/stockage/packages/f14/knemo/po/ru/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ru/knemo.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 460 | 1186 | 38.8 | /mnt/stockage/packages/f14/knemo/po/gl/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/gl/knemo.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 356 | 1186 | 30.0 | /mnt/stockage/packages/f14/knemo/po/cs/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/cs/knemo.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 349 | 1186 | 29.4 | /mnt/stockage/packages/f14/knemo/po/zh_CN/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/zh_CN/knemo.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 342 | 1186 | 28.8 | /mnt/stockage/packages/f14/knemo/po/pl/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/pl/knemo.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 225 | 1186 | 19.0 | /mnt/stockage/packages/f14/knemo/po/bg/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/bg/knemo.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 220 | 1186 | 18.5 | /mnt/stockage/packages/f14/knemo/po/el/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/el/knemo.po | 
- | [ga]({{< ref "/f14/language/ga.md" >}}) | 206 | 1186 | 17.4 | /mnt/stockage/packages/f14/knemo/po/ga/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ga/knemo.po | 
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 167 | 1186 | 14.1 | /mnt/stockage/packages/f14/knemo/po/ar/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ar/knemo.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 154 | 1186 | 13.0 | /mnt/stockage/packages/f14/knemo/po/ro/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ro/knemo.po | 
- | [ka]({{< ref "/f14/language/ka.md" >}}) | 144 | 1186 | 12.1 | /mnt/stockage/packages/f14/knemo/po/ka/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ka/knemo.po | 
- | [eo]({{< ref "/f14/language/eo.md" >}}) | 126 | 1186 | 10.6 | /mnt/stockage/packages/f14/knemo/po/eo/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/eo/knemo.po | 
- | [lt]({{< ref "/f14/language/lt.md" >}}) | 126 | 1186 | 10.6 | /mnt/stockage/packages/f14/knemo/po/lt/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/lt/knemo.po | 
- | [br]({{< ref "/f14/language/br.md" >}}) | 102 | 1186 | 8.6 | /mnt/stockage/packages/f14/knemo/po/br/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/br/knemo.po | 
- | [cy]({{< ref "/f14/language/cy.md" >}}) | 46 | 1186 | 3.9 | /mnt/stockage/packages/f14/knemo/po/cy/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/cy/knemo.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 16 | 1186 | 1.3 | /mnt/stockage/packages/f14/knemo/po/rw/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/rw/knemo.po | 
- | [hr]({{< ref "/f14/language/hr.md" >}}) | 5 | 1186 | 0.4 | /mnt/stockage/packages/f14/knemo/po/hr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/hr/knemo.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 2 | 832 | 0.2 | /mnt/stockage/packages/f14/knemo/po/ms/kcm_knemo.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f14/knemo/po/is/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/is/knemo.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f14/knemo/po/sk/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sk/knemo.po | 
+ | [da](/f14/language/da) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/da/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/da/knemo.po | 
+ | [en_GB](/f14/language/en_GB) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/en_GB/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/en_GB/knemo.po | 
+ | [es](/f14/language/es) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/es/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/es/knemo.po | 
+ | [et](/f14/language/et) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/et/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/et/knemo.po | 
+ | [fr](/f14/language/fr) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/fr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/fr/knemo.po | 
+ | [it](/f14/language/it) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/it/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/it/knemo.po | 
+ | [nb_NO](/f14/language/nb_NO) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/nb/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/nb/knemo.po | 
+ | [nl](/f14/language/nl) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/nl/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/nl/knemo.po | 
+ | [pt](/f14/language/pt) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/pt/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/pt/knemo.po | 
+ | [pt_BR](/f14/language/pt_BR) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/pt_BR/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/pt_BR/knemo.po | 
+ | [sv](/f14/language/sv) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/sv/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sv/knemo.po | 
+ | [uk](/f14/language/uk) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/uk/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/uk/knemo.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 1186 | 1186 | 100.0 | /mnt/stockage/packages/f14/knemo/po/zh_TW/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/zh_TW/knemo.po | 
+ | [de](/f14/language/de) | 1107 | 1186 | 93.3 | /mnt/stockage/packages/f14/knemo/po/de/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/de/knemo.po | 
+ | [tr](/f14/language/tr) | 940 | 1186 | 79.3 | /mnt/stockage/packages/f14/knemo/po/tr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/tr/knemo.po | 
+ | [fi](/f14/language/fi) | 931 | 1186 | 78.5 | /mnt/stockage/packages/f14/knemo/po/fi/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/fi/knemo.po | 
+ | [hu](/f14/language/hu) | 919 | 1186 | 77.5 | /mnt/stockage/packages/f14/knemo/po/hu/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/hu/knemo.po | 
+ | [sr](/f14/language/sr) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr/knemo.po | 
+ | [sr@ijekavian](/f14/language/sr@ijekavian) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr@ijekavian/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr@ijekavian/knemo.po | 
+ | [sr@ijekavian_Latn](/f14/language/sr@ijekavian_Latn) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr@ijekavianlatin/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr@ijekavianlatin/knemo.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 912 | 1186 | 76.9 | /mnt/stockage/packages/f14/knemo/po/sr@latin/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sr@latin/knemo.po | 
+ | [ja](/f14/language/ja) | 892 | 1186 | 75.2 | /mnt/stockage/packages/f14/knemo/po/ja/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ja/knemo.po | 
+ | [km](/f14/language/km) | 610 | 1186 | 51.4 | /mnt/stockage/packages/f14/knemo/po/km/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/km/knemo.po | 
+ | [nds](/f14/language/nds) | 582 | 1186 | 49.1 | /mnt/stockage/packages/f14/knemo/po/nds/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/nds/knemo.po | 
+ | [ru](/f14/language/ru) | 494 | 1186 | 41.7 | /mnt/stockage/packages/f14/knemo/po/ru/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ru/knemo.po | 
+ | [gl](/f14/language/gl) | 460 | 1186 | 38.8 | /mnt/stockage/packages/f14/knemo/po/gl/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/gl/knemo.po | 
+ | [cs](/f14/language/cs) | 356 | 1186 | 30.0 | /mnt/stockage/packages/f14/knemo/po/cs/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/cs/knemo.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 349 | 1186 | 29.4 | /mnt/stockage/packages/f14/knemo/po/zh_CN/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/zh_CN/knemo.po | 
+ | [pl](/f14/language/pl) | 342 | 1186 | 28.8 | /mnt/stockage/packages/f14/knemo/po/pl/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/pl/knemo.po | 
+ | [bg](/f14/language/bg) | 225 | 1186 | 19.0 | /mnt/stockage/packages/f14/knemo/po/bg/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/bg/knemo.po | 
+ | [el](/f14/language/el) | 220 | 1186 | 18.5 | /mnt/stockage/packages/f14/knemo/po/el/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/el/knemo.po | 
+ | [ga](/f14/language/ga) | 206 | 1186 | 17.4 | /mnt/stockage/packages/f14/knemo/po/ga/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ga/knemo.po | 
+ | [ar](/f14/language/ar) | 167 | 1186 | 14.1 | /mnt/stockage/packages/f14/knemo/po/ar/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ar/knemo.po | 
+ | [ro](/f14/language/ro) | 154 | 1186 | 13.0 | /mnt/stockage/packages/f14/knemo/po/ro/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ro/knemo.po | 
+ | [ka](/f14/language/ka) | 144 | 1186 | 12.1 | /mnt/stockage/packages/f14/knemo/po/ka/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/ka/knemo.po | 
+ | [eo](/f14/language/eo) | 126 | 1186 | 10.6 | /mnt/stockage/packages/f14/knemo/po/eo/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/eo/knemo.po | 
+ | [lt](/f14/language/lt) | 126 | 1186 | 10.6 | /mnt/stockage/packages/f14/knemo/po/lt/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/lt/knemo.po | 
+ | [br](/f14/language/br) | 102 | 1186 | 8.6 | /mnt/stockage/packages/f14/knemo/po/br/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/br/knemo.po | 
+ | [cy](/f14/language/cy) | 46 | 1186 | 3.9 | /mnt/stockage/packages/f14/knemo/po/cy/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/cy/knemo.po | 
+ | [rw](/f14/language/rw) | 16 | 1186 | 1.3 | /mnt/stockage/packages/f14/knemo/po/rw/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/rw/knemo.po | 
+ | [hr](/f14/language/hr) | 5 | 1186 | 0.4 | /mnt/stockage/packages/f14/knemo/po/hr/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/hr/knemo.po | 
+ | [ms](/f14/language/ms) | 2 | 832 | 0.2 | /mnt/stockage/packages/f14/knemo/po/ms/kcm_knemo.po | 
+ | [is](/f14/language/is) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f14/knemo/po/is/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/is/knemo.po | 
+ | [sk](/f14/language/sk) | 0 | 1186 | 0.0 | /mnt/stockage/packages/f14/knemo/po/sk/kcm_knemo.po/mnt/stockage/packages/f14/knemo/po/sk/knemo.po | 
 {.sortable}
 
 

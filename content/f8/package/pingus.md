@@ -18,20 +18,20 @@ The package pingus (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 2076 | 2260 | 91.9 | /mnt/stockage/packages/f8/pingus/data/po/de.po | 
- | [nn]({{< ref "/f8/language/nn.md" >}}) | 1951 | 2260 | 86.3 | /mnt/stockage/packages/f8/pingus/data/po/nn.po | 
- | [cs]({{< ref "/f8/language/cs.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/cs.po | 
- | [da]({{< ref "/f8/language/da.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/da.po | 
- | [fi]({{< ref "/f8/language/fi.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/fi.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/it.po | 
- | [nb_NO]({{< ref "/f8/language/nb_NO.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/nb.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/nl.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/pt.po | 
- | [sr]({{< ref "/f8/language/sr.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/sr.po | 
- | [tr]({{< ref "/f8/language/tr.md" >}}) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/tr.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 1320 | 2260 | 58.4 | /mnt/stockage/packages/f8/pingus/data/po/es.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 325 | 2260 | 14.4 | /mnt/stockage/packages/f8/pingus/data/po/sv.po | 
+ | [de](/f8/language/de) | 2076 | 2260 | 91.9 | /mnt/stockage/packages/f8/pingus/data/po/de.po | 
+ | [nn](/f8/language/nn) | 1951 | 2260 | 86.3 | /mnt/stockage/packages/f8/pingus/data/po/nn.po | 
+ | [cs](/f8/language/cs) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/cs.po | 
+ | [da](/f8/language/da) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/da.po | 
+ | [fi](/f8/language/fi) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/fi.po | 
+ | [fr](/f8/language/fr) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/fr.po | 
+ | [it](/f8/language/it) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/it.po | 
+ | [nb_NO](/f8/language/nb_NO) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/nb.po | 
+ | [nl](/f8/language/nl) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/nl.po | 
+ | [pt](/f8/language/pt) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/pt.po | 
+ | [sr](/f8/language/sr) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/sr.po | 
+ | [tr](/f8/language/tr) | 1321 | 2260 | 58.5 | /mnt/stockage/packages/f8/pingus/data/po/tr.po | 
+ | [es](/f8/language/es) | 1320 | 2260 | 58.4 | /mnt/stockage/packages/f8/pingus/data/po/es.po | 
+ | [sv](/f8/language/sv) | 325 | 2260 | 14.4 | /mnt/stockage/packages/f8/pingus/data/po/sv.po | 
 {.sortable}
 
 

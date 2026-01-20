@@ -18,12 +18,12 @@ The package twitux (version 0.69):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f13/language/de.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f13/twitux/po/de.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 297 | 297 | 100.0 | /mnt/stockage/packages/f13/twitux/po/fr.po | 
- | [pt]({{< ref "/f13/language/pt.md" >}}) | 383 | 383 | 100.0 | /mnt/stockage/packages/f13/twitux/po/pt.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 407 | 575 | 70.8 | /mnt/stockage/packages/f13/twitux/po/ja.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 153 | 297 | 51.5 | /mnt/stockage/packages/f13/twitux/po/sv.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 264 | 575 | 45.9 | /mnt/stockage/packages/f13/twitux/po/es.po | 
+ | [de](/f13/language/de) | 297 | 297 | 100.0 | /mnt/stockage/packages/f13/twitux/po/de.po | 
+ | [fr](/f13/language/fr) | 297 | 297 | 100.0 | /mnt/stockage/packages/f13/twitux/po/fr.po | 
+ | [pt](/f13/language/pt) | 383 | 383 | 100.0 | /mnt/stockage/packages/f13/twitux/po/pt.po | 
+ | [ja](/f13/language/ja) | 407 | 575 | 70.8 | /mnt/stockage/packages/f13/twitux/po/ja.po | 
+ | [sv](/f13/language/sv) | 153 | 297 | 51.5 | /mnt/stockage/packages/f13/twitux/po/sv.po | 
+ | [es](/f13/language/es) | 264 | 575 | 45.9 | /mnt/stockage/packages/f13/twitux/po/es.po | 
 {.sortable}
 
 

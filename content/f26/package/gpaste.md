@@ -18,11 +18,11 @@ The package gpaste (version 3.24.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 1020 | 1022 | 99.8 | /mnt/stockage/packages/f26/gpaste/po/fr.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 1019 | 1022 | 99.7 | /mnt/stockage/packages/f26/gpaste/po/nl_NL.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 776 | 1022 | 75.9 | /mnt/stockage/packages/f26/gpaste/po/pt_BR.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 505 | 1022 | 49.4 | /mnt/stockage/packages/f26/gpaste/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 386 | 1022 | 37.8 | /mnt/stockage/packages/f26/gpaste/po/es.po | 
+ | [fr](/f26/language/fr) | 1020 | 1022 | 99.8 | /mnt/stockage/packages/f26/gpaste/po/fr.po | 
+ | [nl](/f26/language/nl) | 1019 | 1022 | 99.7 | /mnt/stockage/packages/f26/gpaste/po/nl_NL.po | 
+ | [pt_BR](/f26/language/pt_BR) | 776 | 1022 | 75.9 | /mnt/stockage/packages/f26/gpaste/po/pt_BR.po | 
+ | [de](/f26/language/de) | 505 | 1022 | 49.4 | /mnt/stockage/packages/f26/gpaste/po/de.po | 
+ | [es](/f26/language/es) | 386 | 1022 | 37.8 | /mnt/stockage/packages/f26/gpaste/po/es.po | 
 {.sortable}
 
 

@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [wormux]({{< ref "/f13/package/wormux.md" >}}) | 940 | 1916 | 49.1 | <fr@li.org> | 
+ | [wormux](/f13/package/wormux) | 940 | 1916 | 49.1 | <fr@li.org> | 
 {.sortable}
 
 

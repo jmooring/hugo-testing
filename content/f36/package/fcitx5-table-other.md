@@ -18,30 +18,30 @@ The package fcitx5-table-other (version 5.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f36/language/da.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/da.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/fr.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ja.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ru.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/zh_TW.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 24 | 100 | 24.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/de.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 6 | 100 | 6.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/he.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/am.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ar.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/bn.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ca.po | 
- | [gu]({{< ref "/f36/language/gu.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/gu.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/hi.po | 
- | [kn]({{< ref "/f36/language/kn.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/kn.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ml.po | 
- | [ne]({{< ref "/f36/language/ne.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ne.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/pa.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ta.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/te.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/th.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/uk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/vi.po | 
+ | [da](/f36/language/da) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/da.po | 
+ | [fr](/f36/language/fr) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/fr.po | 
+ | [ja](/f36/language/ja) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ja.po | 
+ | [ko](/f36/language/ko) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ko.po | 
+ | [ru](/f36/language/ru) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ru.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 100 | 100 | 100.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/zh_TW.po | 
+ | [de](/f36/language/de) | 24 | 100 | 24.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/de.po | 
+ | [he](/f36/language/he) | 6 | 100 | 6.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/he.po | 
+ | [am](/f36/language/am) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/am.po | 
+ | [ar](/f36/language/ar) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ar.po | 
+ | [bn](/f36/language/bn) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/bn.po | 
+ | [ca](/f36/language/ca) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ca.po | 
+ | [gu](/f36/language/gu) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/gu.po | 
+ | [hi](/f36/language/hi) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/hi.po | 
+ | [kn](/f36/language/kn) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/kn.po | 
+ | [ml](/f36/language/ml) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ml.po | 
+ | [ne](/f36/language/ne) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ne.po | 
+ | [pa](/f36/language/pa) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/pa.po | 
+ | [ta](/f36/language/ta) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/ta.po | 
+ | [te](/f36/language/te) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/te.po | 
+ | [th](/f36/language/th) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/th.po | 
+ | [uk](/f36/language/uk) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/uk.po | 
+ | [vi](/f36/language/vi) | 0 | 100 | 0.0 | /mnt/stockage/packages/f36/fcitx5-table-other/po/vi.po | 
 {.sortable}
 
 

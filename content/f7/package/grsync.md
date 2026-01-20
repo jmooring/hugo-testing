@@ -18,15 +18,15 @@ The package grsync (version 0.6.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/de_DE.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/fr_FR.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/it_IT.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/ru_RU.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 613 | 665 | 92.2 | /mnt/stockage/packages/f7/grsync/po/tr_TR.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 473 | 665 | 71.1 | /mnt/stockage/packages/f7/grsync/po/nb_NO.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 89 | 665 | 13.4 | /mnt/stockage/packages/f7/grsync/po/nl_NL.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 89 | 665 | 13.4 | /mnt/stockage/packages/f7/grsync/po/sv_SE.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 89 | 665 | 13.4 | /mnt/stockage/packages/f7/grsync/po/zh_CN.po | 
+ | [de](/f7/language/de) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/de_DE.po | 
+ | [fr](/f7/language/fr) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/fr_FR.po | 
+ | [it](/f7/language/it) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/it_IT.po | 
+ | [ru](/f7/language/ru) | 665 | 665 | 100.0 | /mnt/stockage/packages/f7/grsync/po/ru_RU.po | 
+ | [tr](/f7/language/tr) | 613 | 665 | 92.2 | /mnt/stockage/packages/f7/grsync/po/tr_TR.po | 
+ | [nb_NO](/f7/language/nb_NO) | 473 | 665 | 71.1 | /mnt/stockage/packages/f7/grsync/po/nb_NO.po | 
+ | [nl](/f7/language/nl) | 89 | 665 | 13.4 | /mnt/stockage/packages/f7/grsync/po/nl_NL.po | 
+ | [sv](/f7/language/sv) | 89 | 665 | 13.4 | /mnt/stockage/packages/f7/grsync/po/sv_SE.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 89 | 665 | 13.4 | /mnt/stockage/packages/f7/grsync/po/zh_CN.po | 
 {.sortable}
 
 

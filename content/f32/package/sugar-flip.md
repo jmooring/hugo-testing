@@ -18,20 +18,20 @@ The package sugar-flip (version 9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ayc]({{< ref "/f32/language/ayc.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/ayc.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/da.po | 
- | [en]({{< ref "/f32/language/en.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/en.po | 
- | [en_GB]({{< ref "/f32/language/en_GB.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/en_GB.po | 
- | [en_US]({{< ref "/f32/language/en_US.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/en_US.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/es.po | 
- | [hy]({{< ref "/f32/language/hy.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/hy.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/nl.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/zh_CN.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 16 | 17 | 94.1 | /mnt/stockage/packages/f32/sugar-flip/po/pl.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f32/sugar-flip/po/de.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f32/sugar-flip/po/pt.po | 
- | [th]({{< ref "/f32/language/th.md" >}}) | 13 | 17 | 76.5 | /mnt/stockage/packages/f32/sugar-flip/po/th.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 10 | 17 | 58.8 | /mnt/stockage/packages/f32/sugar-flip/po/rw.po | 
+ | [ayc](/f32/language/ayc) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/ayc.po | 
+ | [da](/f32/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/da.po | 
+ | [en](/f32/language/en) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/en.po | 
+ | [en_GB](/f32/language/en_GB) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/en_GB.po | 
+ | [en_US](/f32/language/en_US) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/en_US.po | 
+ | [es](/f32/language/es) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/es.po | 
+ | [hy](/f32/language/hy) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/hy.po | 
+ | [nl](/f32/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/nl.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 17 | 17 | 100.0 | /mnt/stockage/packages/f32/sugar-flip/po/zh_CN.po | 
+ | [pl](/f32/language/pl) | 16 | 17 | 94.1 | /mnt/stockage/packages/f32/sugar-flip/po/pl.po | 
+ | [de](/f32/language/de) | 13 | 17 | 76.5 | /mnt/stockage/packages/f32/sugar-flip/po/de.po | 
+ | [pt](/f32/language/pt) | 13 | 17 | 76.5 | /mnt/stockage/packages/f32/sugar-flip/po/pt.po | 
+ | [th](/f32/language/th) | 13 | 17 | 76.5 | /mnt/stockage/packages/f32/sugar-flip/po/th.po | 
+ | [rw](/f32/language/rw) | 10 | 17 | 58.8 | /mnt/stockage/packages/f32/sugar-flip/po/rw.po | 
 {.sortable}
 
 

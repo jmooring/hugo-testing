@@ -18,37 +18,37 @@ The package exif (version 0.6.22):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ast.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/cs.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/da.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/de.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/eo.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/es.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/fi.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/fr.po | 
- | [fur]({{< ref "/f41/language/fur.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/fur.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/gl.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/hr.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/id.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/is.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/it.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ja.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ko.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/lv.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/nl.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/pl.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/pt.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/pt_BR.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ru.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/sk.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/sr.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/sv.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/tr.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/uk.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/vi.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/zh_CN.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 204 | 273 | 74.7 | /mnt/stockage/packages/f41/exif/po/ro.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 154 | 296 | 52.0 | /mnt/stockage/packages/f41/exif/po/ms.po | 
+ | [ast](/f41/language/ast) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ast.po | 
+ | [cs](/f41/language/cs) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/cs.po | 
+ | [da](/f41/language/da) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/da.po | 
+ | [de](/f41/language/de) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/de.po | 
+ | [eo](/f41/language/eo) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/eo.po | 
+ | [es](/f41/language/es) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/es.po | 
+ | [fi](/f41/language/fi) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/fi.po | 
+ | [fr](/f41/language/fr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/fr.po | 
+ | [fur](/f41/language/fur) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/fur.po | 
+ | [gl](/f41/language/gl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/gl.po | 
+ | [hr](/f41/language/hr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/hr.po | 
+ | [id](/f41/language/id) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/id.po | 
+ | [is](/f41/language/is) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/is.po | 
+ | [it](/f41/language/it) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/it.po | 
+ | [ja](/f41/language/ja) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ja.po | 
+ | [ko](/f41/language/ko) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ko.po | 
+ | [lv](/f41/language/lv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/lv.po | 
+ | [nl](/f41/language/nl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/nl.po | 
+ | [pl](/f41/language/pl) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/pl.po | 
+ | [pt](/f41/language/pt) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/pt.po | 
+ | [pt_BR](/f41/language/pt_BR) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/pt_BR.po | 
+ | [ru](/f41/language/ru) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/ru.po | 
+ | [sk](/f41/language/sk) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/sk.po | 
+ | [sr](/f41/language/sr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/sr.po | 
+ | [sv](/f41/language/sv) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/sv.po | 
+ | [tr](/f41/language/tr) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/tr.po | 
+ | [uk](/f41/language/uk) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/uk.po | 
+ | [vi](/f41/language/vi) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/vi.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 296 | 296 | 100.0 | /mnt/stockage/packages/f41/exif/po/zh_CN.po | 
+ | [ro](/f41/language/ro) | 204 | 273 | 74.7 | /mnt/stockage/packages/f41/exif/po/ro.po | 
+ | [ms](/f41/language/ms) | 154 | 296 | 52.0 | /mnt/stockage/packages/f41/exif/po/ms.po | 
 {.sortable}
 
 

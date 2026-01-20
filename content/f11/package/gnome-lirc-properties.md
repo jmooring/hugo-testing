@@ -18,17 +18,17 @@ The package gnome-lirc-properties (version 0.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f11/language/es.md" >}}) | 1484 | 1484 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/help/es/es.po/mnt/stockage/packages/f11/gnome-lirc-properties/po/es.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/fr.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/gl.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/pt_BR.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 1412 | 1484 | 95.1 | /mnt/stockage/packages/f11/gnome-lirc-properties/help/de/de.po/mnt/stockage/packages/f11/gnome-lirc-properties/po/de.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 438 | 654 | 67.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/fi.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 706 | 1484 | 47.6 | /mnt/stockage/packages/f11/gnome-lirc-properties/help/sv/sv.po/mnt/stockage/packages/f11/gnome-lirc-properties/po/sv.po | 
- | [nl]({{< ref "/f11/language/nl.md" >}}) | 286 | 660 | 43.3 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/nl.po | 
- | [nb_NO]({{< ref "/f11/language/nb_NO.md" >}}) | 48 | 654 | 7.3 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/nb.po | 
- | [ar]({{< ref "/f11/language/ar.md" >}}) | 34 | 654 | 5.2 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/ar.po | 
+ | [es](/f11/language/es) | 1484 | 1484 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/help/es/es.po/mnt/stockage/packages/f11/gnome-lirc-properties/po/es.po | 
+ | [fr](/f11/language/fr) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/fr.po | 
+ | [gl](/f11/language/gl) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/gl.po | 
+ | [pl](/f11/language/pl) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 654 | 654 | 100.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/pt_BR.po | 
+ | [de](/f11/language/de) | 1412 | 1484 | 95.1 | /mnt/stockage/packages/f11/gnome-lirc-properties/help/de/de.po/mnt/stockage/packages/f11/gnome-lirc-properties/po/de.po | 
+ | [fi](/f11/language/fi) | 438 | 654 | 67.0 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/fi.po | 
+ | [sv](/f11/language/sv) | 706 | 1484 | 47.6 | /mnt/stockage/packages/f11/gnome-lirc-properties/help/sv/sv.po/mnt/stockage/packages/f11/gnome-lirc-properties/po/sv.po | 
+ | [nl](/f11/language/nl) | 286 | 660 | 43.3 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/nl.po | 
+ | [nb_NO](/f11/language/nb_NO) | 48 | 654 | 7.3 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/nb.po | 
+ | [ar](/f11/language/ar) | 34 | 654 | 5.2 | /mnt/stockage/packages/f11/gnome-lirc-properties/po/ar.po | 
 {.sortable}
 
 

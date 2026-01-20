@@ -18,82 +18,82 @@ The package midori (version 9.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [be]({{< ref "/f36/language/be.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/be.po | 
- | [bg]({{< ref "/f36/language/bg.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/bg.po | 
- | [en_AU]({{< ref "/f36/language/en_AU.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/en_AU.po | 
- | [en_CA]({{< ref "/f36/language/en_CA.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/en_CA.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/en_GB.po | 
- | [et]({{< ref "/f36/language/et.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/et.po | 
- | [hr]({{< ref "/f36/language/hr.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/hr.po | 
- | [ia]({{< ref "/f36/language/ia.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ia.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ko.po | 
- | [ms]({{< ref "/f36/language/ms.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ms.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f36/language/pt_PT.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/pt.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ru.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/sr.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f36/language/zh_Hant.md" >}}) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/zh_TW.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 3539 | 3541 | 99.9 | /mnt/stockage/packages/f36/midori/po/it.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 3539 | 3541 | 99.9 | /mnt/stockage/packages/f36/midori/po/lt.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 3535 | 3541 | 99.8 | /mnt/stockage/packages/f36/midori/po/fr.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 3428 | 3541 | 96.8 | /mnt/stockage/packages/f36/midori/po/es.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 3294 | 3541 | 93.0 | /mnt/stockage/packages/f36/midori/po/sk.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 3200 | 3541 | 90.4 | /mnt/stockage/packages/f36/midori/po/gl.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 3200 | 3541 | 90.4 | /mnt/stockage/packages/f36/midori/po/ro.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 3200 | 3541 | 90.4 | /mnt/stockage/packages/f36/midori/po/sv.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 3192 | 3541 | 90.1 | /mnt/stockage/packages/f36/midori/po/ja.po | 
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 3103 | 3541 | 87.6 | /mnt/stockage/packages/f36/midori/po/ca.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 3066 | 3541 | 86.6 | /mnt/stockage/packages/f36/midori/po/fi.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 3006 | 3541 | 84.9 | /mnt/stockage/packages/f36/midori/po/el.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 2950 | 3541 | 83.3 | /mnt/stockage/packages/f36/midori/po/uk.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 5845 | 7082 | 82.5 | /mnt/stockage/packages/f36/midori/po/gd.po/mnt/stockage/packages/f36/midori/po/de.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 2841 | 3541 | 80.2 | /mnt/stockage/packages/f36/midori/po/nl.po | 
- | [bs]({{< ref "/f36/language/bs.md" >}}) | 2833 | 3541 | 80.0 | /mnt/stockage/packages/f36/midori/po/bs.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 2779 | 3541 | 78.5 | /mnt/stockage/packages/f36/midori/po/hu.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 2666 | 3541 | 75.3 | /mnt/stockage/packages/f36/midori/po/cs.po | 
- | [ar]({{< ref "/f36/language/ar.md" >}}) | 2638 | 3541 | 74.5 | /mnt/stockage/packages/f36/midori/po/ar.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 2396 | 3541 | 67.7 | /mnt/stockage/packages/f36/midori/po/id.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 2378 | 3541 | 67.2 | /mnt/stockage/packages/f36/midori/po/da.po | 
- | [ug]({{< ref "/f36/language/ug.md" >}}) | 2312 | 3541 | 65.3 | /mnt/stockage/packages/f36/midori/po/ug.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 2302 | 3541 | 65.0 | /mnt/stockage/packages/f36/midori/po/tr.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 4410 | 7082 | 62.3 | /mnt/stockage/packages/f36/midori/po/no.po/mnt/stockage/packages/f36/midori/po/nb.po | 
- | [he]({{< ref "/f36/language/he.md" >}}) | 2129 | 3541 | 60.1 | /mnt/stockage/packages/f36/midori/po/he.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 1760 | 3541 | 49.7 | /mnt/stockage/packages/f36/midori/po/eu.po | 
- | [fa]({{< ref "/f36/language/fa.md" >}}) | 1051 | 3541 | 29.7 | /mnt/stockage/packages/f36/midori/po/fa.po | 
- | [ast]({{< ref "/f36/language/ast.md" >}}) | 1032 | 3541 | 29.1 | /mnt/stockage/packages/f36/midori/po/ast.po | 
- | [eo]({{< ref "/f36/language/eo.md" >}}) | 966 | 3541 | 27.3 | /mnt/stockage/packages/f36/midori/po/eo.po | 
- | [sr_Latn]({{< ref "/f36/language/sr_Latn.md" >}}) | 892 | 3541 | 25.2 | /mnt/stockage/packages/f36/midori/po/sr@latin.po | 
- | [sq]({{< ref "/f36/language/sq.md" >}}) | 612 | 3541 | 17.3 | /mnt/stockage/packages/f36/midori/po/sq.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 533 | 3541 | 15.1 | /mnt/stockage/packages/f36/midori/po/sl.po | 
- | [tl]({{< ref "/f36/language/tl.md" >}}) | 490 | 3541 | 13.8 | /mnt/stockage/packages/f36/midori/po/tl.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 461 | 3541 | 13.0 | /mnt/stockage/packages/f36/midori/po/vi.po | 
- | [nap]({{< ref "/f36/language/nap.md" >}}) | 429 | 3541 | 12.1 | /mnt/stockage/packages/f36/midori/po/nap.po | 
- | [nn]({{< ref "/f36/language/nn.md" >}}) | 363 | 3541 | 10.3 | /mnt/stockage/packages/f36/midori/po/nn.po | 
- | [lv]({{< ref "/f36/language/lv.md" >}}) | 329 | 3541 | 9.3 | /mnt/stockage/packages/f36/midori/po/lv.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 316 | 3541 | 8.9 | /mnt/stockage/packages/f36/midori/po/kk.po | 
- | [pa]({{< ref "/f36/language/pa.md" >}}) | 306 | 3541 | 8.6 | /mnt/stockage/packages/f36/midori/po/pa.po | 
- | [ckb]({{< ref "/f36/language/ckb.md" >}}) | 289 | 3541 | 8.2 | /mnt/stockage/packages/f36/midori/po/ckb.po | 
- | [af]({{< ref "/f36/language/af.md" >}}) | 287 | 3541 | 8.1 | /mnt/stockage/packages/f36/midori/po/af.po | 
- | [ku]({{< ref "/f36/language/ku.md" >}}) | 273 | 3541 | 7.7 | /mnt/stockage/packages/f36/midori/po/ku.po | 
- | [km]({{< ref "/f36/language/km.md" >}}) | 222 | 3541 | 6.3 | /mnt/stockage/packages/f36/midori/po/km.po | 
- | [bn]({{< ref "/f36/language/bn.md" >}}) | 177 | 3541 | 5.0 | /mnt/stockage/packages/f36/midori/po/bn.po | 
- | [th]({{< ref "/f36/language/th.md" >}}) | 146 | 3541 | 4.1 | /mnt/stockage/packages/f36/midori/po/th.po | 
- | [lb]({{< ref "/f36/language/lb.md" >}}) | 81 | 3541 | 2.3 | /mnt/stockage/packages/f36/midori/po/lb.po | 
- | [ky]({{< ref "/f36/language/ky.md" >}}) | 80 | 3541 | 2.3 | /mnt/stockage/packages/f36/midori/po/ky.po | 
- | [ta]({{< ref "/f36/language/ta.md" >}}) | 66 | 3541 | 1.9 | /mnt/stockage/packages/f36/midori/po/ta.po | 
- | [ur]({{< ref "/f36/language/ur.md" >}}) | 63 | 3541 | 1.8 | /mnt/stockage/packages/f36/midori/po/ur.po | 
- | [ka]({{< ref "/f36/language/ka.md" >}}) | 35 | 3541 | 1.0 | /mnt/stockage/packages/f36/midori/po/ka.po | 
- | [ml]({{< ref "/f36/language/ml.md" >}}) | 33 | 3541 | 0.9 | /mnt/stockage/packages/f36/midori/po/ml.po | 
- | [hi]({{< ref "/f36/language/hi.md" >}}) | 31 | 3541 | 0.9 | /mnt/stockage/packages/f36/midori/po/hi.po | 
- | [uz]({{< ref "/f36/language/uz.md" >}}) | 28 | 3541 | 0.8 | /mnt/stockage/packages/f36/midori/po/uz.po | 
- | [te]({{< ref "/f36/language/te.md" >}}) | 15 | 3541 | 0.4 | /mnt/stockage/packages/f36/midori/po/te.po | 
- | [az]({{< ref "/f36/language/az.md" >}}) | 12 | 3541 | 0.3 | /mnt/stockage/packages/f36/midori/po/az.po | 
- | [cy]({{< ref "/f36/language/cy.md" >}}) | 11 | 3541 | 0.3 | /mnt/stockage/packages/f36/midori/po/cy.po | 
- | [am]({{< ref "/f36/language/am.md" >}}) | 1 | 3541 | 0.0 | /mnt/stockage/packages/f36/midori/po/am.po | 
- | [zh_Hant_HK]({{< ref "/f36/language/zh_Hant_HK.md" >}}) | 1 | 3541 | 0.0 | /mnt/stockage/packages/f36/midori/po/zh_HK.po | 
- | [szl]({{< ref "/f36/language/szl.md" >}}) | 0 | 3541 | 0.0 | /mnt/stockage/packages/f36/midori/po/szl.po | 
+ | [be](/f36/language/be) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/be.po | 
+ | [bg](/f36/language/bg) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/bg.po | 
+ | [en_AU](/f36/language/en_AU) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/en_AU.po | 
+ | [en_CA](/f36/language/en_CA) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/en_CA.po | 
+ | [en_GB](/f36/language/en_GB) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/en_GB.po | 
+ | [et](/f36/language/et) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/et.po | 
+ | [hr](/f36/language/hr) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/hr.po | 
+ | [ia](/f36/language/ia) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ia.po | 
+ | [ko](/f36/language/ko) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ko.po | 
+ | [ms](/f36/language/ms) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ms.po | 
+ | [pl](/f36/language/pl) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/pt_BR.po | 
+ | [pt_PT](/f36/language/pt_PT) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/pt.po | 
+ | [ru](/f36/language/ru) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/ru.po | 
+ | [sr](/f36/language/sr) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/sr.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/zh_CN.po | 
+ | [zh_Hant](/f36/language/zh_Hant) | 3541 | 3541 | 100.0 | /mnt/stockage/packages/f36/midori/po/zh_TW.po | 
+ | [it](/f36/language/it) | 3539 | 3541 | 99.9 | /mnt/stockage/packages/f36/midori/po/it.po | 
+ | [lt](/f36/language/lt) | 3539 | 3541 | 99.9 | /mnt/stockage/packages/f36/midori/po/lt.po | 
+ | [fr](/f36/language/fr) | 3535 | 3541 | 99.8 | /mnt/stockage/packages/f36/midori/po/fr.po | 
+ | [es](/f36/language/es) | 3428 | 3541 | 96.8 | /mnt/stockage/packages/f36/midori/po/es.po | 
+ | [sk](/f36/language/sk) | 3294 | 3541 | 93.0 | /mnt/stockage/packages/f36/midori/po/sk.po | 
+ | [gl](/f36/language/gl) | 3200 | 3541 | 90.4 | /mnt/stockage/packages/f36/midori/po/gl.po | 
+ | [ro](/f36/language/ro) | 3200 | 3541 | 90.4 | /mnt/stockage/packages/f36/midori/po/ro.po | 
+ | [sv](/f36/language/sv) | 3200 | 3541 | 90.4 | /mnt/stockage/packages/f36/midori/po/sv.po | 
+ | [ja](/f36/language/ja) | 3192 | 3541 | 90.1 | /mnt/stockage/packages/f36/midori/po/ja.po | 
+ | [ca](/f36/language/ca) | 3103 | 3541 | 87.6 | /mnt/stockage/packages/f36/midori/po/ca.po | 
+ | [fi](/f36/language/fi) | 3066 | 3541 | 86.6 | /mnt/stockage/packages/f36/midori/po/fi.po | 
+ | [el](/f36/language/el) | 3006 | 3541 | 84.9 | /mnt/stockage/packages/f36/midori/po/el.po | 
+ | [uk](/f36/language/uk) | 2950 | 3541 | 83.3 | /mnt/stockage/packages/f36/midori/po/uk.po | 
+ | [de](/f36/language/de) | 5845 | 7082 | 82.5 | /mnt/stockage/packages/f36/midori/po/gd.po/mnt/stockage/packages/f36/midori/po/de.po | 
+ | [nl](/f36/language/nl) | 2841 | 3541 | 80.2 | /mnt/stockage/packages/f36/midori/po/nl.po | 
+ | [bs](/f36/language/bs) | 2833 | 3541 | 80.0 | /mnt/stockage/packages/f36/midori/po/bs.po | 
+ | [hu](/f36/language/hu) | 2779 | 3541 | 78.5 | /mnt/stockage/packages/f36/midori/po/hu.po | 
+ | [cs](/f36/language/cs) | 2666 | 3541 | 75.3 | /mnt/stockage/packages/f36/midori/po/cs.po | 
+ | [ar](/f36/language/ar) | 2638 | 3541 | 74.5 | /mnt/stockage/packages/f36/midori/po/ar.po | 
+ | [id](/f36/language/id) | 2396 | 3541 | 67.7 | /mnt/stockage/packages/f36/midori/po/id.po | 
+ | [da](/f36/language/da) | 2378 | 3541 | 67.2 | /mnt/stockage/packages/f36/midori/po/da.po | 
+ | [ug](/f36/language/ug) | 2312 | 3541 | 65.3 | /mnt/stockage/packages/f36/midori/po/ug.po | 
+ | [tr](/f36/language/tr) | 2302 | 3541 | 65.0 | /mnt/stockage/packages/f36/midori/po/tr.po | 
+ | [nb_NO](/f36/language/nb_NO) | 4410 | 7082 | 62.3 | /mnt/stockage/packages/f36/midori/po/no.po/mnt/stockage/packages/f36/midori/po/nb.po | 
+ | [he](/f36/language/he) | 2129 | 3541 | 60.1 | /mnt/stockage/packages/f36/midori/po/he.po | 
+ | [eu](/f36/language/eu) | 1760 | 3541 | 49.7 | /mnt/stockage/packages/f36/midori/po/eu.po | 
+ | [fa](/f36/language/fa) | 1051 | 3541 | 29.7 | /mnt/stockage/packages/f36/midori/po/fa.po | 
+ | [ast](/f36/language/ast) | 1032 | 3541 | 29.1 | /mnt/stockage/packages/f36/midori/po/ast.po | 
+ | [eo](/f36/language/eo) | 966 | 3541 | 27.3 | /mnt/stockage/packages/f36/midori/po/eo.po | 
+ | [sr_Latn](/f36/language/sr_Latn) | 892 | 3541 | 25.2 | /mnt/stockage/packages/f36/midori/po/sr@latin.po | 
+ | [sq](/f36/language/sq) | 612 | 3541 | 17.3 | /mnt/stockage/packages/f36/midori/po/sq.po | 
+ | [sl](/f36/language/sl) | 533 | 3541 | 15.1 | /mnt/stockage/packages/f36/midori/po/sl.po | 
+ | [tl](/f36/language/tl) | 490 | 3541 | 13.8 | /mnt/stockage/packages/f36/midori/po/tl.po | 
+ | [vi](/f36/language/vi) | 461 | 3541 | 13.0 | /mnt/stockage/packages/f36/midori/po/vi.po | 
+ | [nap](/f36/language/nap) | 429 | 3541 | 12.1 | /mnt/stockage/packages/f36/midori/po/nap.po | 
+ | [nn](/f36/language/nn) | 363 | 3541 | 10.3 | /mnt/stockage/packages/f36/midori/po/nn.po | 
+ | [lv](/f36/language/lv) | 329 | 3541 | 9.3 | /mnt/stockage/packages/f36/midori/po/lv.po | 
+ | [kk](/f36/language/kk) | 316 | 3541 | 8.9 | /mnt/stockage/packages/f36/midori/po/kk.po | 
+ | [pa](/f36/language/pa) | 306 | 3541 | 8.6 | /mnt/stockage/packages/f36/midori/po/pa.po | 
+ | [ckb](/f36/language/ckb) | 289 | 3541 | 8.2 | /mnt/stockage/packages/f36/midori/po/ckb.po | 
+ | [af](/f36/language/af) | 287 | 3541 | 8.1 | /mnt/stockage/packages/f36/midori/po/af.po | 
+ | [ku](/f36/language/ku) | 273 | 3541 | 7.7 | /mnt/stockage/packages/f36/midori/po/ku.po | 
+ | [km](/f36/language/km) | 222 | 3541 | 6.3 | /mnt/stockage/packages/f36/midori/po/km.po | 
+ | [bn](/f36/language/bn) | 177 | 3541 | 5.0 | /mnt/stockage/packages/f36/midori/po/bn.po | 
+ | [th](/f36/language/th) | 146 | 3541 | 4.1 | /mnt/stockage/packages/f36/midori/po/th.po | 
+ | [lb](/f36/language/lb) | 81 | 3541 | 2.3 | /mnt/stockage/packages/f36/midori/po/lb.po | 
+ | [ky](/f36/language/ky) | 80 | 3541 | 2.3 | /mnt/stockage/packages/f36/midori/po/ky.po | 
+ | [ta](/f36/language/ta) | 66 | 3541 | 1.9 | /mnt/stockage/packages/f36/midori/po/ta.po | 
+ | [ur](/f36/language/ur) | 63 | 3541 | 1.8 | /mnt/stockage/packages/f36/midori/po/ur.po | 
+ | [ka](/f36/language/ka) | 35 | 3541 | 1.0 | /mnt/stockage/packages/f36/midori/po/ka.po | 
+ | [ml](/f36/language/ml) | 33 | 3541 | 0.9 | /mnt/stockage/packages/f36/midori/po/ml.po | 
+ | [hi](/f36/language/hi) | 31 | 3541 | 0.9 | /mnt/stockage/packages/f36/midori/po/hi.po | 
+ | [uz](/f36/language/uz) | 28 | 3541 | 0.8 | /mnt/stockage/packages/f36/midori/po/uz.po | 
+ | [te](/f36/language/te) | 15 | 3541 | 0.4 | /mnt/stockage/packages/f36/midori/po/te.po | 
+ | [az](/f36/language/az) | 12 | 3541 | 0.3 | /mnt/stockage/packages/f36/midori/po/az.po | 
+ | [cy](/f36/language/cy) | 11 | 3541 | 0.3 | /mnt/stockage/packages/f36/midori/po/cy.po | 
+ | [am](/f36/language/am) | 1 | 3541 | 0.0 | /mnt/stockage/packages/f36/midori/po/am.po | 
+ | [zh_Hant_HK](/f36/language/zh_Hant_HK) | 1 | 3541 | 0.0 | /mnt/stockage/packages/f36/midori/po/zh_HK.po | 
+ | [szl](/f36/language/szl) | 0 | 3541 | 0.0 | /mnt/stockage/packages/f36/midori/po/szl.po | 
 {.sortable}
 
 

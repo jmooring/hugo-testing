@@ -18,17 +18,17 @@ The package xfce4-modemlights-plugin (version 0.1.3.99):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 136 | 136 | 100.0 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/fr.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/ca.po | 
- | [cs]({{< ref "/f13/language/cs.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/cs.po | 
- | [eu]({{< ref "/f13/language/eu.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/eu.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/hu.po | 
- | [ja]({{< ref "/f13/language/ja.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/ja.po | 
- | [ko]({{< ref "/f13/language/ko.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/ko.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/nl.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/pl.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/vi.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/zh_TW.po | 
+ | [fr](/f13/language/fr) | 136 | 136 | 100.0 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/fr.po | 
+ | [ca](/f13/language/ca) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/ca.po | 
+ | [cs](/f13/language/cs) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/cs.po | 
+ | [eu](/f13/language/eu) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/eu.po | 
+ | [hu](/f13/language/hu) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/hu.po | 
+ | [ja](/f13/language/ja) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/ja.po | 
+ | [ko](/f13/language/ko) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/ko.po | 
+ | [nl](/f13/language/nl) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/nl.po | 
+ | [pl](/f13/language/pl) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/pl.po | 
+ | [vi](/f13/language/vi) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/vi.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 22 | 136 | 16.2 | /mnt/stockage/packages/f13/xfce4-modemlights-plugin/po/zh_TW.po | 
 {.sortable}
 
 

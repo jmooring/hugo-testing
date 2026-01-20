@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mingw32-gtk2]({{< ref "/f12/package/mingw32-gtk2.md" >}}) | 7 | 13351 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
- | [gtk2]({{< ref "/f12/package/gtk2.md" >}}) | 7 | 13358 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [mingw32-gtk2](/f12/package/mingw32-gtk2) | 7 | 13351 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
+ | [gtk2](/f12/package/gtk2) | 7 | 13358 | 0.1 | Iranian Azerbaijani <az-ir@lists.sharif.edu> | 
 {.sortable}
 
 

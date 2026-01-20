@@ -18,42 +18,42 @@ The package gammastep (version 2.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 945 | 945 | 100.0 | /mnt/stockage/packages/f33/gammastep/po/pt_BR.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 930 | 955 | 97.4 | /mnt/stockage/packages/f33/gammastep/po/tr.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 882 | 945 | 93.3 | /mnt/stockage/packages/f33/gammastep/po/es.po | 
- | [be]({{< ref "/f33/language/be.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/be.po | 
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/ca.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/cs.po | 
- | [da]({{< ref "/f33/language/da.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/de.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/en_GB.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/ja.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/uk.po | 
- | [zh_Hant]({{< ref "/f33/language/zh_Hant.md" >}}) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/zh_TW.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 571 | 945 | 60.4 | /mnt/stockage/packages/f33/gammastep/po/fr.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 415 | 945 | 43.9 | /mnt/stockage/packages/f33/gammastep/po/hu.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 411 | 945 | 43.5 | /mnt/stockage/packages/f33/gammastep/po/pl.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 389 | 945 | 41.2 | /mnt/stockage/packages/f33/gammastep/po/nl.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 386 | 945 | 40.8 | /mnt/stockage/packages/f33/gammastep/po/sv.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 386 | 945 | 40.8 | /mnt/stockage/packages/f33/gammastep/po/zh_CN.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 321 | 945 | 34.0 | /mnt/stockage/packages/f33/gammastep/po/it.po | 
- | [pt]({{< ref "/f33/language/pt.md" >}}) | 266 | 945 | 28.1 | /mnt/stockage/packages/f33/gammastep/po/pt.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 256 | 945 | 27.1 | /mnt/stockage/packages/f33/gammastep/po/nb.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 254 | 945 | 26.9 | /mnt/stockage/packages/f33/gammastep/po/ru.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 250 | 945 | 26.5 | /mnt/stockage/packages/f33/gammastep/po/lt.po | 
- | [eu]({{< ref "/f33/language/eu.md" >}}) | 160 | 945 | 16.9 | /mnt/stockage/packages/f33/gammastep/po/eu.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 160 | 945 | 16.9 | /mnt/stockage/packages/f33/gammastep/po/fi.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 160 | 945 | 16.9 | /mnt/stockage/packages/f33/gammastep/po/hr.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 147 | 945 | 15.6 | /mnt/stockage/packages/f33/gammastep/po/sr.po | 
- | [he]({{< ref "/f33/language/he.md" >}}) | 101 | 945 | 10.7 | /mnt/stockage/packages/f33/gammastep/po/he.po | 
- | [gl]({{< ref "/f33/language/gl.md" >}}) | 82 | 945 | 8.7 | /mnt/stockage/packages/f33/gammastep/po/gl.po | 
- | [hi]({{< ref "/f33/language/hi.md" >}}) | 28 | 945 | 3.0 | /mnt/stockage/packages/f33/gammastep/po/hi.po | 
- | [ro]({{< ref "/f33/language/ro.md" >}}) | 17 | 945 | 1.8 | /mnt/stockage/packages/f33/gammastep/po/ro.po | 
- | [ar]({{< ref "/f33/language/ar.md" >}}) | 13 | 945 | 1.4 | /mnt/stockage/packages/f33/gammastep/po/ar.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 10 | 945 | 1.1 | /mnt/stockage/packages/f33/gammastep/po/el.po | 
- | [et]({{< ref "/f33/language/et.md" >}}) | 5 | 945 | 0.5 | /mnt/stockage/packages/f33/gammastep/po/et.po | 
- | [ka]({{< ref "/f33/language/ka.md" >}}) | 1 | 945 | 0.1 | /mnt/stockage/packages/f33/gammastep/po/ka.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 0 | 945 | 0.0 | /mnt/stockage/packages/f33/gammastep/po/bg.po | 
+ | [pt_BR](/f33/language/pt_BR) | 945 | 945 | 100.0 | /mnt/stockage/packages/f33/gammastep/po/pt_BR.po | 
+ | [tr](/f33/language/tr) | 930 | 955 | 97.4 | /mnt/stockage/packages/f33/gammastep/po/tr.po | 
+ | [es](/f33/language/es) | 882 | 945 | 93.3 | /mnt/stockage/packages/f33/gammastep/po/es.po | 
+ | [be](/f33/language/be) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/be.po | 
+ | [ca](/f33/language/ca) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/ca.po | 
+ | [cs](/f33/language/cs) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/cs.po | 
+ | [da](/f33/language/da) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/da.po | 
+ | [de](/f33/language/de) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/de.po | 
+ | [en_GB](/f33/language/en_GB) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/en_GB.po | 
+ | [ja](/f33/language/ja) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/ja.po | 
+ | [uk](/f33/language/uk) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/uk.po | 
+ | [zh_Hant](/f33/language/zh_Hant) | 595 | 945 | 63.0 | /mnt/stockage/packages/f33/gammastep/po/zh_TW.po | 
+ | [fr](/f33/language/fr) | 571 | 945 | 60.4 | /mnt/stockage/packages/f33/gammastep/po/fr.po | 
+ | [hu](/f33/language/hu) | 415 | 945 | 43.9 | /mnt/stockage/packages/f33/gammastep/po/hu.po | 
+ | [pl](/f33/language/pl) | 411 | 945 | 43.5 | /mnt/stockage/packages/f33/gammastep/po/pl.po | 
+ | [nl](/f33/language/nl) | 389 | 945 | 41.2 | /mnt/stockage/packages/f33/gammastep/po/nl.po | 
+ | [sv](/f33/language/sv) | 386 | 945 | 40.8 | /mnt/stockage/packages/f33/gammastep/po/sv.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 386 | 945 | 40.8 | /mnt/stockage/packages/f33/gammastep/po/zh_CN.po | 
+ | [it](/f33/language/it) | 321 | 945 | 34.0 | /mnt/stockage/packages/f33/gammastep/po/it.po | 
+ | [pt](/f33/language/pt) | 266 | 945 | 28.1 | /mnt/stockage/packages/f33/gammastep/po/pt.po | 
+ | [nb_NO](/f33/language/nb_NO) | 256 | 945 | 27.1 | /mnt/stockage/packages/f33/gammastep/po/nb.po | 
+ | [ru](/f33/language/ru) | 254 | 945 | 26.9 | /mnt/stockage/packages/f33/gammastep/po/ru.po | 
+ | [lt](/f33/language/lt) | 250 | 945 | 26.5 | /mnt/stockage/packages/f33/gammastep/po/lt.po | 
+ | [eu](/f33/language/eu) | 160 | 945 | 16.9 | /mnt/stockage/packages/f33/gammastep/po/eu.po | 
+ | [fi](/f33/language/fi) | 160 | 945 | 16.9 | /mnt/stockage/packages/f33/gammastep/po/fi.po | 
+ | [hr](/f33/language/hr) | 160 | 945 | 16.9 | /mnt/stockage/packages/f33/gammastep/po/hr.po | 
+ | [sr](/f33/language/sr) | 147 | 945 | 15.6 | /mnt/stockage/packages/f33/gammastep/po/sr.po | 
+ | [he](/f33/language/he) | 101 | 945 | 10.7 | /mnt/stockage/packages/f33/gammastep/po/he.po | 
+ | [gl](/f33/language/gl) | 82 | 945 | 8.7 | /mnt/stockage/packages/f33/gammastep/po/gl.po | 
+ | [hi](/f33/language/hi) | 28 | 945 | 3.0 | /mnt/stockage/packages/f33/gammastep/po/hi.po | 
+ | [ro](/f33/language/ro) | 17 | 945 | 1.8 | /mnt/stockage/packages/f33/gammastep/po/ro.po | 
+ | [ar](/f33/language/ar) | 13 | 945 | 1.4 | /mnt/stockage/packages/f33/gammastep/po/ar.po | 
+ | [el](/f33/language/el) | 10 | 945 | 1.1 | /mnt/stockage/packages/f33/gammastep/po/el.po | 
+ | [et](/f33/language/et) | 5 | 945 | 0.5 | /mnt/stockage/packages/f33/gammastep/po/et.po | 
+ | [ka](/f33/language/ka) | 1 | 945 | 0.1 | /mnt/stockage/packages/f33/gammastep/po/ka.po | 
+ | [bg](/f33/language/bg) | 0 | 945 | 0.0 | /mnt/stockage/packages/f33/gammastep/po/bg.po | 
 {.sortable}
 
 

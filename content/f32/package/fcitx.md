@@ -18,16 +18,16 @@ The package fcitx (version 4.2.9.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f32/language/da.md" >}}) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/da.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/ko.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/zh_TW.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 3295 | 3303 | 99.8 | /mnt/stockage/packages/f32/fcitx/po/ca.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3295 | 3303 | 99.8 | /mnt/stockage/packages/f32/fcitx/po/ru.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 3221 | 3303 | 97.5 | /mnt/stockage/packages/f32/fcitx/po/de.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 3037 | 3303 | 91.9 | /mnt/stockage/packages/f32/fcitx/po/ja.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 188 | 3303 | 5.7 | /mnt/stockage/packages/f32/fcitx/po/es.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 32 | 3303 | 1.0 | /mnt/stockage/packages/f32/fcitx/po/fr.po | 
+ | [da](/f32/language/da) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/da.po | 
+ | [ko](/f32/language/ko) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/ko.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 3303 | 3303 | 100.0 | /mnt/stockage/packages/f32/fcitx/po/zh_TW.po | 
+ | [ca](/f32/language/ca) | 3295 | 3303 | 99.8 | /mnt/stockage/packages/f32/fcitx/po/ca.po | 
+ | [ru](/f32/language/ru) | 3295 | 3303 | 99.8 | /mnt/stockage/packages/f32/fcitx/po/ru.po | 
+ | [de](/f32/language/de) | 3221 | 3303 | 97.5 | /mnt/stockage/packages/f32/fcitx/po/de.po | 
+ | [ja](/f32/language/ja) | 3037 | 3303 | 91.9 | /mnt/stockage/packages/f32/fcitx/po/ja.po | 
+ | [es](/f32/language/es) | 188 | 3303 | 5.7 | /mnt/stockage/packages/f32/fcitx/po/es.po | 
+ | [fr](/f32/language/fr) | 32 | 3303 | 1.0 | /mnt/stockage/packages/f32/fcitx/po/fr.po | 
 {.sortable}
 
 

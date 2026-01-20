@@ -18,15 +18,15 @@ The package drupal-views (version 6.x.2.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f11/language/eo.md" >}}) | 6486 | 6486 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/eo.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 6194 | 6194 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/fr.po | 
- | [hu]({{< ref "/f11/language/hu.md" >}}) | 8392 | 8392 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/hu.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 6849 | 6849 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 6194 | 6194 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/pl.po | 
- | [sv]({{< ref "/f11/language/sv.md" >}}) | 8753 | 8753 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/sv.po | 
- | [uk]({{< ref "/f11/language/uk.md" >}}) | 12866 | 12866 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/uk.po/mnt/stockage/packages/f11/drupal-views/translations/uk-ua.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 7792 | 8392 | 92.9 | /mnt/stockage/packages/f11/drupal-views/translations/pt-br.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 4823 | 6907 | 69.8 | /mnt/stockage/packages/f11/drupal-views/translations/de.po | 
+ | [eo](/f11/language/eo) | 6486 | 6486 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/eo.po | 
+ | [fr](/f11/language/fr) | 6194 | 6194 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/fr.po | 
+ | [hu](/f11/language/hu) | 8392 | 8392 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/hu.po | 
+ | [it](/f11/language/it) | 6849 | 6849 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/it.po | 
+ | [pl](/f11/language/pl) | 6194 | 6194 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/pl.po | 
+ | [sv](/f11/language/sv) | 8753 | 8753 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/sv.po | 
+ | [uk](/f11/language/uk) | 12866 | 12866 | 100.0 | /mnt/stockage/packages/f11/drupal-views/translations/uk.po/mnt/stockage/packages/f11/drupal-views/translations/uk-ua.po | 
+ | [pt_BR](/f11/language/pt_BR) | 7792 | 8392 | 92.9 | /mnt/stockage/packages/f11/drupal-views/translations/pt-br.po | 
+ | [de](/f11/language/de) | 4823 | 6907 | 69.8 | /mnt/stockage/packages/f11/drupal-views/translations/de.po | 
 {.sortable}
 
 

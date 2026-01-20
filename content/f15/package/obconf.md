@@ -18,18 +18,18 @@ The package obconf (version 2.0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f15/obconf/po/fr.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f15/obconf/po/pt_BR.po | 
- | [zh_Hans]({{< ref "/f15/language/zh_Hans.md" >}}) | 633 | 641 | 98.8 | /mnt/stockage/packages/f15/obconf/po/zh_CN.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 648 | 688 | 94.2 | /mnt/stockage/packages/f15/obconf/po/ru.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 641 | 688 | 93.2 | /mnt/stockage/packages/f15/obconf/po/de.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 624 | 688 | 90.7 | /mnt/stockage/packages/f15/obconf/po/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 580 | 688 | 84.3 | /mnt/stockage/packages/f15/obconf/po/tr.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 580 | 688 | 84.3 | /mnt/stockage/packages/f15/obconf/po/zh_TW.po | 
- | [cs]({{< ref "/f15/language/cs.md" >}}) | 578 | 688 | 84.0 | /mnt/stockage/packages/f15/obconf/po/cs.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 498 | 688 | 72.4 | /mnt/stockage/packages/f15/obconf/po/it.po | 
- | [nb_NO]({{< ref "/f15/language/nb_NO.md" >}}) | 493 | 688 | 71.7 | /mnt/stockage/packages/f15/obconf/po/no.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 467 | 688 | 67.9 | /mnt/stockage/packages/f15/obconf/po/es.po | 
+ | [fr](/f15/language/fr) | 688 | 688 | 100.0 | /mnt/stockage/packages/f15/obconf/po/fr.po | 
+ | [pt_BR](/f15/language/pt_BR) | 688 | 688 | 100.0 | /mnt/stockage/packages/f15/obconf/po/pt_BR.po | 
+ | [zh_Hans](/f15/language/zh_Hans) | 633 | 641 | 98.8 | /mnt/stockage/packages/f15/obconf/po/zh_CN.po | 
+ | [ru](/f15/language/ru) | 648 | 688 | 94.2 | /mnt/stockage/packages/f15/obconf/po/ru.po | 
+ | [de](/f15/language/de) | 641 | 688 | 93.2 | /mnt/stockage/packages/f15/obconf/po/de.po | 
+ | [sv](/f15/language/sv) | 624 | 688 | 90.7 | /mnt/stockage/packages/f15/obconf/po/sv.po | 
+ | [tr](/f15/language/tr) | 580 | 688 | 84.3 | /mnt/stockage/packages/f15/obconf/po/tr.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 580 | 688 | 84.3 | /mnt/stockage/packages/f15/obconf/po/zh_TW.po | 
+ | [cs](/f15/language/cs) | 578 | 688 | 84.0 | /mnt/stockage/packages/f15/obconf/po/cs.po | 
+ | [it](/f15/language/it) | 498 | 688 | 72.4 | /mnt/stockage/packages/f15/obconf/po/it.po | 
+ | [nb_NO](/f15/language/nb_NO) | 493 | 688 | 71.7 | /mnt/stockage/packages/f15/obconf/po/no.po | 
+ | [es](/f15/language/es) | 467 | 688 | 67.9 | /mnt/stockage/packages/f15/obconf/po/es.po | 
 {.sortable}
 
 

@@ -18,36 +18,36 @@ The package gnome-flashback (version 3.42.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f35/language/bs.md" >}}) | 567 | 567 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/bs.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/ca.po | 
- | [cs]({{< ref "/f35/language/cs.md" >}}) | 1418 | 1418 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/cs.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 1287 | 1287 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/da.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/de.po | 
- | [el]({{< ref "/f35/language/el.md" >}}) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/el.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/es.po | 
- | [eu]({{< ref "/f35/language/eu.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/eu.po | 
- | [fur]({{< ref "/f35/language/fur.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/fur.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 814 | 814 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/he.po | 
- | [hu]({{< ref "/f35/language/hu.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/hu.po | 
- | [id]({{< ref "/f35/language/id.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/id.po | 
- | [it]({{< ref "/f35/language/it.md" >}}) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/it.po | 
- | [nl]({{< ref "/f35/language/nl.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/nl.po | 
- | [pl]({{< ref "/f35/language/pl.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/pl.po | 
- | [pt]({{< ref "/f35/language/pt.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/pt.po | 
- | [pt_BR]({{< ref "/f35/language/pt_BR.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/pt_BR.po | 
- | [ro]({{< ref "/f35/language/ro.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/ro.po | 
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/ru.po | 
- | [sr]({{< ref "/f35/language/sr.md" >}}) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/sr.po/mnt/stockage/packages/f35/gnome-flashback/po/sr@latin.po | 
- | [sv]({{< ref "/f35/language/sv.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/sv.po | 
- | [tr]({{< ref "/f35/language/tr.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/tr.po | 
- | [uk]({{< ref "/f35/language/uk.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/uk.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 1134 | 1134 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/zh_HK.po/mnt/stockage/packages/f35/gnome-flashback/po/zh_TW.po | 
- | [sk]({{< ref "/f35/language/sk.md" >}}) | 1196 | 1302 | 91.9 | /mnt/stockage/packages/f35/gnome-flashback/po/sk.po | 
- | [oc]({{< ref "/f35/language/oc.md" >}}) | 606 | 1302 | 46.5 | /mnt/stockage/packages/f35/gnome-flashback/po/oc.po | 
- | [sl]({{< ref "/f35/language/sl.md" >}}) | 531 | 1302 | 40.8 | /mnt/stockage/packages/f35/gnome-flashback/po/sl.po | 
- | [fi]({{< ref "/f35/language/fi.md" >}}) | 508 | 1302 | 39.0 | /mnt/stockage/packages/f35/gnome-flashback/po/fi.po | 
- | [nb_NO]({{< ref "/f35/language/nb_NO.md" >}}) | 100 | 906 | 11.0 | /mnt/stockage/packages/f35/gnome-flashback/po/nb.po | 
+ | [bs](/f35/language/bs) | 567 | 567 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/bs.po | 
+ | [ca](/f35/language/ca) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/ca.po | 
+ | [cs](/f35/language/cs) | 1418 | 1418 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/cs.po | 
+ | [da](/f35/language/da) | 1287 | 1287 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/da.po | 
+ | [de](/f35/language/de) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/de.po | 
+ | [el](/f35/language/el) | 1088 | 1088 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/el.po | 
+ | [es](/f35/language/es) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/es.po | 
+ | [eu](/f35/language/eu) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/eu.po | 
+ | [fur](/f35/language/fur) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/fur.po | 
+ | [he](/f35/language/he) | 814 | 814 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/he.po | 
+ | [hu](/f35/language/hu) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/hu.po | 
+ | [id](/f35/language/id) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/id.po | 
+ | [it](/f35/language/it) | 1073 | 1073 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/it.po | 
+ | [nl](/f35/language/nl) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/nl.po | 
+ | [pl](/f35/language/pl) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/pl.po | 
+ | [pt](/f35/language/pt) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/pt.po | 
+ | [pt_BR](/f35/language/pt_BR) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/pt_BR.po | 
+ | [ro](/f35/language/ro) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/ro.po | 
+ | [ru](/f35/language/ru) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/ru.po | 
+ | [sr](/f35/language/sr) | 2372 | 2372 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/sr.po/mnt/stockage/packages/f35/gnome-flashback/po/sr@latin.po | 
+ | [sv](/f35/language/sv) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/sv.po | 
+ | [tr](/f35/language/tr) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/tr.po | 
+ | [uk](/f35/language/uk) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/uk.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 1302 | 1302 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/zh_CN.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 1134 | 1134 | 100.0 | /mnt/stockage/packages/f35/gnome-flashback/po/zh_HK.po/mnt/stockage/packages/f35/gnome-flashback/po/zh_TW.po | 
+ | [sk](/f35/language/sk) | 1196 | 1302 | 91.9 | /mnt/stockage/packages/f35/gnome-flashback/po/sk.po | 
+ | [oc](/f35/language/oc) | 606 | 1302 | 46.5 | /mnt/stockage/packages/f35/gnome-flashback/po/oc.po | 
+ | [sl](/f35/language/sl) | 531 | 1302 | 40.8 | /mnt/stockage/packages/f35/gnome-flashback/po/sl.po | 
+ | [fi](/f35/language/fi) | 508 | 1302 | 39.0 | /mnt/stockage/packages/f35/gnome-flashback/po/fi.po | 
+ | [nb_NO](/f35/language/nb_NO) | 100 | 906 | 11.0 | /mnt/stockage/packages/f35/gnome-flashback/po/nb.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package udev-hid-bpf (version 2.1.0.20240704):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f42/language/pl.md" >}}) | 9058 | 9216 | 98.3 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/pl.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 8200 | 9216 | 89.0 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/uk.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 5718 | 9216 | 62.0 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/es.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 4445 | 9216 | 48.2 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/ja.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 866 | 9216 | 9.4 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/de.po | 
+ | [pl](/f42/language/pl) | 9058 | 9216 | 98.3 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/pl.po | 
+ | [uk](/f42/language/uk) | 8200 | 9216 | 89.0 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/uk.po | 
+ | [es](/f42/language/es) | 5718 | 9216 | 62.0 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/es.po | 
+ | [ja](/f42/language/ja) | 4445 | 9216 | 48.2 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/ja.po | 
+ | [de](/f42/language/de) | 866 | 9216 | 9.4 | /mnt/stockage/packages/f42/udev-hid-bpf/libbpf-sys/elfutils/po/de.po | 
 {.sortable}
 
 

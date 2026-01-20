@@ -44,7 +44,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [video-downloader]({{< ref "/f43/package/video-downloader.md" >}}) | 0 | 155 | 0.0 | none | 
+ | [video-downloader](/f43/package/video-downloader) | 0 | 155 | 0.0 | none | 
 {.sortable}
 
 

@@ -18,20 +18,20 @@ The package ardour5 (version 5.12.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 20809 | 20810 | 100.0 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/ja.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/ja.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/ja.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/ja.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 20590 | 20594 | 100.0 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/de.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/de.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/de.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/de.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 28692 | 28928 | 99.2 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/cs.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/cs.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/cs.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 20010 | 20639 | 97.0 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/zh.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/zh.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/zh.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/zh.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 17821 | 20616 | 86.4 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/ru.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/ru.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/ru.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 14710 | 19908 | 73.9 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/fr.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/fr.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/fr.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/fr.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 11187 | 18816 | 59.5 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/es.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/es.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/es.po | 
- | [nn]({{< ref "/f27/language/nn.md" >}}) | 10552 | 19602 | 53.8 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/nn.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/nn.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/nn.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 8445 | 19496 | 43.3 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/it.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/it.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 3036 | 19502 | 15.6 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/sv.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/sv.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 2015 | 19602 | 10.3 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/el.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/el.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/el.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 2234 | 29353 | 7.6 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/pt_PT.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/pt.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/pt.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 1491 | 19602 | 7.6 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/pl.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/pl.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/pl.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 792 | 19496 | 4.1 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/en_GB.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/en_GB.po | 
+ | [ja](/f27/language/ja) | 20809 | 20810 | 100.0 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/ja.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/ja.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/ja.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/ja.po | 
+ | [de](/f27/language/de) | 20590 | 20594 | 100.0 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/de.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/de.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/de.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/de.po | 
+ | [cs](/f27/language/cs) | 28692 | 28928 | 99.2 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/cs.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/cs.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/cs.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 20010 | 20639 | 97.0 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/zh.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/zh.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/zh.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/zh.po | 
+ | [ru](/f27/language/ru) | 17821 | 20616 | 86.4 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/ru.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/ru.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/ru.po | 
+ | [fr](/f27/language/fr) | 14710 | 19908 | 73.9 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/appdata/po/fr.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/fr.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/fr.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/fr.po | 
+ | [es](/f27/language/es) | 11187 | 18816 | 59.5 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/es.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/es.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/es.po | 
+ | [nn](/f27/language/nn) | 10552 | 19602 | 53.8 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/nn.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/nn.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/nn.po | 
+ | [it](/f27/language/it) | 8445 | 19496 | 43.3 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/it.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/it.po | 
+ | [sv](/f27/language/sv) | 3036 | 19502 | 15.6 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/sv.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/sv.po | 
+ | [el](/f27/language/el) | 2015 | 19602 | 10.3 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/el.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/el.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/el.po | 
+ | [pt](/f27/language/pt) | 2234 | 29353 | 7.6 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/pt_PT.po/mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/pt.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/pt.po | 
+ | [pl](/f27/language/pl) | 1491 | 19602 | 7.6 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/pl.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/pl.po/mnt/stockage/packages/f27/ardour5/libs/gtkmm2ext/po/pl.po | 
+ | [en_GB](/f27/language/en_GB) | 792 | 19496 | 4.1 | /mnt/stockage/packages/f27/ardour5/gtk2_ardour/po/en_GB.po/mnt/stockage/packages/f27/ardour5/libs/ardour/po/en_GB.po | 
 {.sortable}
 
 

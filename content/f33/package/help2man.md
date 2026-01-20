@@ -18,27 +18,27 @@ The package help2man (version 1.48.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f33/language/da.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/da.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/de.po/mnt/stockage/packages/f33/help2man/po-texi/de.po | 
- | [eo]({{< ref "/f33/language/eo.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/eo.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/es.po/mnt/stockage/packages/f33/help2man/po-texi/es.po | 
- | [fi]({{< ref "/f33/language/fi.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/fi.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/fr.po/mnt/stockage/packages/f33/help2man/po-texi/fr.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/ja.po | 
- | [nb_NO]({{< ref "/f33/language/nb_NO.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/nb.po | 
- | [pl]({{< ref "/f33/language/pl.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/pl.po/mnt/stockage/packages/f33/help2man/po-texi/pl.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/pt_BR.po/mnt/stockage/packages/f33/help2man/po-texi/pt_BR.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/ru.po | 
- | [sr]({{< ref "/f33/language/sr.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/sr.po/mnt/stockage/packages/f33/help2man/po-texi/sr.po | 
- | [sv]({{< ref "/f33/language/sv.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/sv.po/mnt/stockage/packages/f33/help2man/po-texi/sv.po | 
- | [uk]({{< ref "/f33/language/uk.md" >}}) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/uk.po/mnt/stockage/packages/f33/help2man/po-texi/uk.po | 
- | [vi]({{< ref "/f33/language/vi.md" >}}) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/vi.po | 
- | [el]({{< ref "/f33/language/el.md" >}}) | 531 | 569 | 93.3 | /mnt/stockage/packages/f33/help2man/po/el.po | 
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 531 | 569 | 93.3 | /mnt/stockage/packages/f33/help2man/po/hr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 531 | 569 | 93.3 | /mnt/stockage/packages/f33/help2man/po/it.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 1418 | 2675 | 53.0 | /mnt/stockage/packages/f33/help2man/po/zh_CN.po/mnt/stockage/packages/f33/help2man/po-texi/zh_CN.po | 
- | [ta]({{< ref "/f33/language/ta.md" >}}) | 189 | 569 | 33.2 | /mnt/stockage/packages/f33/help2man/po/ta.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 174 | 569 | 30.6 | /mnt/stockage/packages/f33/help2man/po/hu.po | 
+ | [da](/f33/language/da) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/da.po | 
+ | [de](/f33/language/de) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/de.po/mnt/stockage/packages/f33/help2man/po-texi/de.po | 
+ | [eo](/f33/language/eo) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/eo.po | 
+ | [es](/f33/language/es) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/es.po/mnt/stockage/packages/f33/help2man/po-texi/es.po | 
+ | [fi](/f33/language/fi) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/fi.po | 
+ | [fr](/f33/language/fr) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/fr.po/mnt/stockage/packages/f33/help2man/po-texi/fr.po | 
+ | [ja](/f33/language/ja) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/ja.po | 
+ | [nb_NO](/f33/language/nb_NO) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/nb.po | 
+ | [pl](/f33/language/pl) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/pl.po/mnt/stockage/packages/f33/help2man/po-texi/pl.po | 
+ | [pt_BR](/f33/language/pt_BR) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/pt_BR.po/mnt/stockage/packages/f33/help2man/po-texi/pt_BR.po | 
+ | [ru](/f33/language/ru) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/ru.po | 
+ | [sr](/f33/language/sr) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/sr.po/mnt/stockage/packages/f33/help2man/po-texi/sr.po | 
+ | [sv](/f33/language/sv) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/sv.po/mnt/stockage/packages/f33/help2man/po-texi/sv.po | 
+ | [uk](/f33/language/uk) | 2675 | 2675 | 100.0 | /mnt/stockage/packages/f33/help2man/po/uk.po/mnt/stockage/packages/f33/help2man/po-texi/uk.po | 
+ | [vi](/f33/language/vi) | 569 | 569 | 100.0 | /mnt/stockage/packages/f33/help2man/po/vi.po | 
+ | [el](/f33/language/el) | 531 | 569 | 93.3 | /mnt/stockage/packages/f33/help2man/po/el.po | 
+ | [hr](/f33/language/hr) | 531 | 569 | 93.3 | /mnt/stockage/packages/f33/help2man/po/hr.po | 
+ | [it](/f33/language/it) | 531 | 569 | 93.3 | /mnt/stockage/packages/f33/help2man/po/it.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 1418 | 2675 | 53.0 | /mnt/stockage/packages/f33/help2man/po/zh_CN.po/mnt/stockage/packages/f33/help2man/po-texi/zh_CN.po | 
+ | [ta](/f33/language/ta) | 189 | 569 | 33.2 | /mnt/stockage/packages/f33/help2man/po/ta.po | 
+ | [hu](/f33/language/hu) | 174 | 569 | 30.6 | /mnt/stockage/packages/f33/help2man/po/hu.po | 
 {.sortable}
 
 

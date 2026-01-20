@@ -18,24 +18,24 @@ The package kmid2 (version 2.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/ca.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/da.po | 
- | [en_GB]({{< ref "/f14/language/en_GB.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/en_GB.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/es.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/nb.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/pt.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/pt_BR.po | 
- | [sr]({{< ref "/f14/language/sr.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr.po | 
- | [sr@ijekavian]({{< ref "/f14/language/sr@ijekavian.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr@ijekavian.po | 
- | [sr@ijekavian_Latn]({{< ref "/f14/language/sr@ijekavian_Latn.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr@ijekavianlatin.po | 
- | [sr_Latn]({{< ref "/f14/language/sr_Latn.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr@latin.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sv.po | 
- | [uk]({{< ref "/f14/language/uk.md" >}}) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/uk.po | 
- | [ca@valencia]({{< ref "/f14/language/ca@valencia.md" >}}) | 934 | 947 | 98.6 | /mnt/stockage/packages/f14/kmid2/po/ca@valencia.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 785 | 947 | 82.9 | /mnt/stockage/packages/f14/kmid2/po/fr.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 778 | 947 | 82.2 | /mnt/stockage/packages/f14/kmid2/po/cs.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 777 | 947 | 82.0 | /mnt/stockage/packages/f14/kmid2/po/de.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 772 | 947 | 81.5 | /mnt/stockage/packages/f14/kmid2/po/gl.po | 
+ | [ca](/f14/language/ca) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/ca.po | 
+ | [da](/f14/language/da) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/da.po | 
+ | [en_GB](/f14/language/en_GB) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/en_GB.po | 
+ | [es](/f14/language/es) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/es.po | 
+ | [nb_NO](/f14/language/nb_NO) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/nb.po | 
+ | [pt](/f14/language/pt) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/pt.po | 
+ | [pt_BR](/f14/language/pt_BR) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/pt_BR.po | 
+ | [sr](/f14/language/sr) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr.po | 
+ | [sr@ijekavian](/f14/language/sr@ijekavian) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr@ijekavian.po | 
+ | [sr@ijekavian_Latn](/f14/language/sr@ijekavian_Latn) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr@ijekavianlatin.po | 
+ | [sr_Latn](/f14/language/sr_Latn) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sr@latin.po | 
+ | [sv](/f14/language/sv) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/sv.po | 
+ | [uk](/f14/language/uk) | 947 | 947 | 100.0 | /mnt/stockage/packages/f14/kmid2/po/uk.po | 
+ | [ca@valencia](/f14/language/ca@valencia) | 934 | 947 | 98.6 | /mnt/stockage/packages/f14/kmid2/po/ca@valencia.po | 
+ | [fr](/f14/language/fr) | 785 | 947 | 82.9 | /mnt/stockage/packages/f14/kmid2/po/fr.po | 
+ | [cs](/f14/language/cs) | 778 | 947 | 82.2 | /mnt/stockage/packages/f14/kmid2/po/cs.po | 
+ | [de](/f14/language/de) | 777 | 947 | 82.0 | /mnt/stockage/packages/f14/kmid2/po/de.po | 
+ | [gl](/f14/language/gl) | 772 | 947 | 81.5 | /mnt/stockage/packages/f14/kmid2/po/gl.po | 
 {.sortable}
 
 

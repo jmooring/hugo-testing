@@ -18,18 +18,18 @@ The package kbd (version 1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/de.po | 
- | [el]({{< ref "/f7/language/el.md" >}}) | 3295 | 3295 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/gr.po/mnt/stockage/packages/f7/kbd/kbd-1.12/po/el.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/es.po | 
- | [kbd]({{< ref "/f7/language/kbd.md" >}}) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/cs.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/pl.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/ro.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1651 | 1654 | 99.8 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/nl.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1150 | 1806 | 63.7 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/ru.po | 
- | [da]({{< ref "/f7/language/da.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/da.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/fr.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/tr.po | 
+ | [de](/f7/language/de) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/de.po | 
+ | [el](/f7/language/el) | 3295 | 3295 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/gr.po/mnt/stockage/packages/f7/kbd/kbd-1.12/po/el.po | 
+ | [es](/f7/language/es) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/es.po | 
+ | [kbd](/f7/language/kbd) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/cs.po | 
+ | [pl](/f7/language/pl) | 1654 | 1654 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/pl.po | 
+ | [ro](/f7/language/ro) | 1641 | 1641 | 100.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/ro.po | 
+ | [nl](/f7/language/nl) | 1651 | 1654 | 99.8 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/nl.po | 
+ | [ru](/f7/language/ru) | 1150 | 1806 | 63.7 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/ru.po | 
+ | [da](/f7/language/da) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/da.po | 
+ | [fr](/f7/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/fr.po | 
+ | [sv](/f7/language/sv) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/sv.po | 
+ | [tr](/f7/language/tr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/kbd/kbd-1.12/po/tr.po | 
 {.sortable}
 
 

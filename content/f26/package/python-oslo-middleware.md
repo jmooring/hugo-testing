@@ -18,9 +18,9 @@ The package python-oslo-middleware (version 3.23.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f26/language/de.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/de/LC_MESSAGES/oslo_middleware-log-error.po/mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/de/LC_MESSAGES/oslo_middleware.po | 
- | [en_GB]({{< ref "/f26/language/en_GB.md" >}}) | 12 | 12 | 100.0 | /mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware-log-error.po/mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 28 | 28 | 100.0 | /mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/fr/LC_MESSAGES/oslo_middleware-log-error.po/mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/fr/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f26/python-oslo-middleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
+ | [de](/f26/language/de) | 12 | 12 | 100.0 | /mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/de/LC_MESSAGES/oslo_middleware-log-error.po/mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/de/LC_MESSAGES/oslo_middleware.po | 
+ | [en_GB](/f26/language/en_GB) | 12 | 12 | 100.0 | /mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware-log-error.po/mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/en_GB/LC_MESSAGES/oslo_middleware.po | 
+ | [fr](/f26/language/fr) | 28 | 28 | 100.0 | /mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/fr/LC_MESSAGES/oslo_middleware-log-error.po/mnt/stockage/packages/f26/python-oslo-middleware/oslo_middleware/locale/fr/LC_MESSAGES/oslo_middleware.po/mnt/stockage/packages/f26/python-oslo-middleware/releasenotes/source/locale/fr/LC_MESSAGES/releasenotes.po | 
 {.sortable}
 
 

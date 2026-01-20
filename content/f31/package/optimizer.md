@@ -18,200 +18,200 @@ The package optimizer (version 1.2.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 282 | 282 | 100.0 | /mnt/stockage/packages/f31/optimizer/po/nl.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 171 | 282 | 60.6 | /mnt/stockage/packages/f31/optimizer/po/es.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 171 | 282 | 60.6 | /mnt/stockage/packages/f31/optimizer/po/lt.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 158 | 282 | 56.0 | /mnt/stockage/packages/f31/optimizer/po/fr.po | 
- | [en_AU]({{< ref "/f31/language/en_AU.md" >}}) | 69 | 282 | 24.5 | /mnt/stockage/packages/f31/optimizer/po/en_AU.po | 
- | [en_CA]({{< ref "/f31/language/en_CA.md" >}}) | 69 | 282 | 24.5 | /mnt/stockage/packages/f31/optimizer/po/en_CA.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 69 | 282 | 24.5 | /mnt/stockage/packages/f31/optimizer/po/en_GB.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 129 | 564 | 22.9 | /mnt/stockage/packages/f31/optimizer/ru.po/mnt/stockage/packages/f31/optimizer/po/ru.po | 
- | [aa]({{< ref "/f31/language/aa.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/aa.po | 
- | [ab]({{< ref "/f31/language/ab.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ab.po | 
- | [ae]({{< ref "/f31/language/ae.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ae.po | 
- | [af]({{< ref "/f31/language/af.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/af.po | 
- | [ak]({{< ref "/f31/language/ak.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ak.po | 
- | [am]({{< ref "/f31/language/am.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/am.po | 
- | [an]({{< ref "/f31/language/an.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/an.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ar.po | 
- | [as]({{< ref "/f31/language/as.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/as.po | 
- | [ast]({{< ref "/f31/language/ast.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ast.po | 
- | [av]({{< ref "/f31/language/av.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/av.po | 
- | [ay]({{< ref "/f31/language/ay.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ay.po | 
- | [az]({{< ref "/f31/language/az.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/az.po | 
- | [ba]({{< ref "/f31/language/ba.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ba.po | 
- | [be]({{< ref "/f31/language/be.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/be.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bg.po | 
- | [bh]({{< ref "/f31/language/bh.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bh.po | 
- | [bi]({{< ref "/f31/language/bi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bi.po | 
- | [bm]({{< ref "/f31/language/bm.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bm.po | 
- | [bn]({{< ref "/f31/language/bn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bn.po | 
- | [bo]({{< ref "/f31/language/bo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bo.po | 
- | [br]({{< ref "/f31/language/br.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/br.po | 
- | [bs]({{< ref "/f31/language/bs.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bs.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ca.po | 
- | [ce]({{< ref "/f31/language/ce.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ce.po | 
- | [ch]({{< ref "/f31/language/ch.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ch.po | 
- | [ckb]({{< ref "/f31/language/ckb.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ckb.po | 
- | [co]({{< ref "/f31/language/co.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/co.po | 
- | [cr]({{< ref "/f31/language/cr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cr.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cs.po | 
- | [cu]({{< ref "/f31/language/cu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cu.po | 
- | [cv]({{< ref "/f31/language/cv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cv.po | 
- | [cy]({{< ref "/f31/language/cy.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cy.po | 
- | [da]({{< ref "/f31/language/da.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/da.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/de.po | 
- | [dv]({{< ref "/f31/language/dv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/dv.po | 
- | [dz]({{< ref "/f31/language/dz.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/dz.po | 
- | [ee]({{< ref "/f31/language/ee.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ee.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/el.po | 
- | [eo]({{< ref "/f31/language/eo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/eo.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/et.po | 
- | [eu]({{< ref "/f31/language/eu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/eu.po | 
- | [fa]({{< ref "/f31/language/fa.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fa.po | 
- | [ff]({{< ref "/f31/language/ff.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ff.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fi.po | 
- | [fj]({{< ref "/f31/language/fj.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fj.po | 
- | [fo]({{< ref "/f31/language/fo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fo.po | 
- | [fr_CA]({{< ref "/f31/language/fr_CA.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fr_CA.po | 
- | [fy]({{< ref "/f31/language/fy.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fy.po | 
- | [ga]({{< ref "/f31/language/ga.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ga.po | 
- | [gd]({{< ref "/f31/language/gd.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gd.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gl.po | 
- | [gn]({{< ref "/f31/language/gn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gn.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gu.po | 
- | [gv]({{< ref "/f31/language/gv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gv.po | 
- | [ha]({{< ref "/f31/language/ha.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ha.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/he.po | 
- | [hi]({{< ref "/f31/language/hi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hi.po | 
- | [ho]({{< ref "/f31/language/ho.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ho.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hr.po | 
- | [ht]({{< ref "/f31/language/ht.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ht.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hu.po | 
- | [hy]({{< ref "/f31/language/hy.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hy.po | 
- | [hz]({{< ref "/f31/language/hz.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hz.po | 
- | [ia]({{< ref "/f31/language/ia.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ia.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/id.po | 
- | [ie]({{< ref "/f31/language/ie.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ie.po | 
- | [ig]({{< ref "/f31/language/ig.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ig.po | 
- | [ii]({{< ref "/f31/language/ii.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ii.po | 
- | [ik]({{< ref "/f31/language/ik.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ik.po | 
- | [io]({{< ref "/f31/language/io.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/io.po | 
- | [is]({{< ref "/f31/language/is.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/is.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/it.po | 
- | [iu]({{< ref "/f31/language/iu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/iu.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ja.po | 
- | [jv]({{< ref "/f31/language/jv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/jv.po | 
- | [ka]({{< ref "/f31/language/ka.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ka.po | 
- | [kg]({{< ref "/f31/language/kg.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kg.po | 
- | [ki]({{< ref "/f31/language/ki.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ki.po | 
- | [kj]({{< ref "/f31/language/kj.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kj.po | 
- | [kk]({{< ref "/f31/language/kk.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kk.po | 
- | [kl]({{< ref "/f31/language/kl.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kl.po | 
- | [km]({{< ref "/f31/language/km.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/km.po | 
- | [kn]({{< ref "/f31/language/kn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kn.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ko.po | 
- | [kr]({{< ref "/f31/language/kr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kr.po | 
- | [ks]({{< ref "/f31/language/ks.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ks.po | 
- | [ku]({{< ref "/f31/language/ku.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ku.po | 
- | [kv]({{< ref "/f31/language/kv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kv.po | 
- | [kw]({{< ref "/f31/language/kw.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kw.po | 
- | [ky]({{< ref "/f31/language/ky.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ky.po | 
- | [la]({{< ref "/f31/language/la.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/la.po | 
- | [lb]({{< ref "/f31/language/lb.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lb.po | 
- | [lg]({{< ref "/f31/language/lg.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lg.po | 
- | [li]({{< ref "/f31/language/li.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/li.po | 
- | [ln]({{< ref "/f31/language/ln.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ln.po | 
- | [lo]({{< ref "/f31/language/lo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lo.po | 
- | [lu]({{< ref "/f31/language/lu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lu.po | 
- | [lv]({{< ref "/f31/language/lv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lv.po | 
- | [mg]({{< ref "/f31/language/mg.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mg.po | 
- | [mh]({{< ref "/f31/language/mh.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mh.po | 
- | [mi]({{< ref "/f31/language/mi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mi.po | 
- | [mk]({{< ref "/f31/language/mk.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mk.po | 
- | [ml]({{< ref "/f31/language/ml.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ml.po | 
- | [mn]({{< ref "/f31/language/mn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mn.po | 
- | [mr]({{< ref "/f31/language/mr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mr.po | 
- | [ms]({{< ref "/f31/language/ms.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ms.po | 
- | [mt]({{< ref "/f31/language/mt.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mt.po | 
- | [my]({{< ref "/f31/language/my.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/my.po | 
- | [na]({{< ref "/f31/language/na.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/na.po | 
- | [nb_NO]({{< ref "/f31/language/nb_NO.md" >}}) | 0 | 564 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/no.po/mnt/stockage/packages/f31/optimizer/po/nb.po | 
- | [nd]({{< ref "/f31/language/nd.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nd.po | 
- | [ne]({{< ref "/f31/language/ne.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ne.po | 
- | [ng]({{< ref "/f31/language/ng.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ng.po | 
- | [nn]({{< ref "/f31/language/nn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nn.po | 
- | [nr]({{< ref "/f31/language/nr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nr.po | 
- | [nv]({{< ref "/f31/language/nv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nv.po | 
- | [ny]({{< ref "/f31/language/ny.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ny.po | 
- | [oc]({{< ref "/f31/language/oc.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/oc.po | 
- | [oj]({{< ref "/f31/language/oj.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/oj.po | 
- | [om]({{< ref "/f31/language/om.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/om.po | 
- | [or]({{< ref "/f31/language/or.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/or.po | 
- | [os]({{< ref "/f31/language/os.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/os.po | 
- | [pa]({{< ref "/f31/language/pa.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pa.po | 
- | [pi]({{< ref "/f31/language/pi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pi.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pl.po | 
- | [ps]({{< ref "/f31/language/ps.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ps.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pt_BR.po | 
- | [qu]({{< ref "/f31/language/qu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/qu.po | 
- | [rm]({{< ref "/f31/language/rm.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rm.po | 
- | [rn]({{< ref "/f31/language/rn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rn.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ro.po | 
- | [ro_MD]({{< ref "/f31/language/ro_MD.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mo.po | 
- | [rue]({{< ref "/f31/language/rue.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rue.po | 
- | [rw]({{< ref "/f31/language/rw.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rw.po | 
- | [sa]({{< ref "/f31/language/sa.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sa.po | 
- | [sc]({{< ref "/f31/language/sc.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sc.po | 
- | [sd]({{< ref "/f31/language/sd.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sd.po | 
- | [se]({{< ref "/f31/language/se.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/se.po | 
- | [sg]({{< ref "/f31/language/sg.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sg.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/si.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sl.po | 
- | [sm]({{< ref "/f31/language/sm.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sm.po | 
- | [sma]({{< ref "/f31/language/sma.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sma.po | 
- | [sn]({{< ref "/f31/language/sn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sn.po | 
- | [so]({{< ref "/f31/language/so.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/so.po | 
- | [sq]({{< ref "/f31/language/sq.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sq.po | 
- | [sr]({{< ref "/f31/language/sr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sr.po | 
- | [ss]({{< ref "/f31/language/ss.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ss.po | 
- | [st]({{< ref "/f31/language/st.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/st.po | 
- | [su]({{< ref "/f31/language/su.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/su.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sv.po | 
- | [sw]({{< ref "/f31/language/sw.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sw.po | 
- | [ta]({{< ref "/f31/language/ta.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ta.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/te.po | 
- | [tg]({{< ref "/f31/language/tg.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tg.po | 
- | [th]({{< ref "/f31/language/th.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/th.po | 
- | [ti]({{< ref "/f31/language/ti.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ti.po | 
- | [tk]({{< ref "/f31/language/tk.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tk.po | 
- | [tl]({{< ref "/f31/language/tl.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tl.po | 
- | [tn]({{< ref "/f31/language/tn.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tn.po | 
- | [to]({{< ref "/f31/language/to.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/to.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tr.po | 
- | [ts]({{< ref "/f31/language/ts.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ts.po | 
- | [tt]({{< ref "/f31/language/tt.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tt.po | 
- | [tw]({{< ref "/f31/language/tw.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tw.po | 
- | [ty]({{< ref "/f31/language/ty.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ty.po | 
- | [ug]({{< ref "/f31/language/ug.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ug.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/uk.po | 
- | [ur]({{< ref "/f31/language/ur.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ur.po | 
- | [uz]({{< ref "/f31/language/uz.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/uz.po | 
- | [ve]({{< ref "/f31/language/ve.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ve.po | 
- | [vi]({{< ref "/f31/language/vi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/vi.po | 
- | [vo]({{< ref "/f31/language/vo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/vo.po | 
- | [wa]({{< ref "/f31/language/wa.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/wa.po | 
- | [wo]({{< ref "/f31/language/wo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/wo.po | 
- | [xh]({{< ref "/f31/language/xh.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/xh.po | 
- | [yi]({{< ref "/f31/language/yi.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/yi.po | 
- | [yo]({{< ref "/f31/language/yo.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/yo.po | 
- | [za]({{< ref "/f31/language/za.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/za.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 0 | 564 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zh_CN.po/mnt/stockage/packages/f31/optimizer/po/zh.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f31/language/zh_Hant_HK.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zh_HK.po | 
- | [zu]({{< ref "/f31/language/zu.md" >}}) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zu.po | 
+ | [nl](/f31/language/nl) | 282 | 282 | 100.0 | /mnt/stockage/packages/f31/optimizer/po/nl.po | 
+ | [es](/f31/language/es) | 171 | 282 | 60.6 | /mnt/stockage/packages/f31/optimizer/po/es.po | 
+ | [lt](/f31/language/lt) | 171 | 282 | 60.6 | /mnt/stockage/packages/f31/optimizer/po/lt.po | 
+ | [fr](/f31/language/fr) | 158 | 282 | 56.0 | /mnt/stockage/packages/f31/optimizer/po/fr.po | 
+ | [en_AU](/f31/language/en_AU) | 69 | 282 | 24.5 | /mnt/stockage/packages/f31/optimizer/po/en_AU.po | 
+ | [en_CA](/f31/language/en_CA) | 69 | 282 | 24.5 | /mnt/stockage/packages/f31/optimizer/po/en_CA.po | 
+ | [en_GB](/f31/language/en_GB) | 69 | 282 | 24.5 | /mnt/stockage/packages/f31/optimizer/po/en_GB.po | 
+ | [ru](/f31/language/ru) | 129 | 564 | 22.9 | /mnt/stockage/packages/f31/optimizer/ru.po/mnt/stockage/packages/f31/optimizer/po/ru.po | 
+ | [aa](/f31/language/aa) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/aa.po | 
+ | [ab](/f31/language/ab) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ab.po | 
+ | [ae](/f31/language/ae) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ae.po | 
+ | [af](/f31/language/af) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/af.po | 
+ | [ak](/f31/language/ak) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ak.po | 
+ | [am](/f31/language/am) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/am.po | 
+ | [an](/f31/language/an) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/an.po | 
+ | [ar](/f31/language/ar) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ar.po | 
+ | [as](/f31/language/as) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/as.po | 
+ | [ast](/f31/language/ast) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ast.po | 
+ | [av](/f31/language/av) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/av.po | 
+ | [ay](/f31/language/ay) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ay.po | 
+ | [az](/f31/language/az) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/az.po | 
+ | [ba](/f31/language/ba) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ba.po | 
+ | [be](/f31/language/be) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/be.po | 
+ | [bg](/f31/language/bg) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bg.po | 
+ | [bh](/f31/language/bh) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bh.po | 
+ | [bi](/f31/language/bi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bi.po | 
+ | [bm](/f31/language/bm) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bm.po | 
+ | [bn](/f31/language/bn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bn.po | 
+ | [bo](/f31/language/bo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bo.po | 
+ | [br](/f31/language/br) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/br.po | 
+ | [bs](/f31/language/bs) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/bs.po | 
+ | [ca](/f31/language/ca) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ca.po | 
+ | [ce](/f31/language/ce) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ce.po | 
+ | [ch](/f31/language/ch) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ch.po | 
+ | [ckb](/f31/language/ckb) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ckb.po | 
+ | [co](/f31/language/co) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/co.po | 
+ | [cr](/f31/language/cr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cr.po | 
+ | [cs](/f31/language/cs) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cs.po | 
+ | [cu](/f31/language/cu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cu.po | 
+ | [cv](/f31/language/cv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cv.po | 
+ | [cy](/f31/language/cy) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/cy.po | 
+ | [da](/f31/language/da) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/da.po | 
+ | [de](/f31/language/de) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/de.po | 
+ | [dv](/f31/language/dv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/dv.po | 
+ | [dz](/f31/language/dz) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/dz.po | 
+ | [ee](/f31/language/ee) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ee.po | 
+ | [el](/f31/language/el) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/el.po | 
+ | [eo](/f31/language/eo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/eo.po | 
+ | [et](/f31/language/et) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/et.po | 
+ | [eu](/f31/language/eu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/eu.po | 
+ | [fa](/f31/language/fa) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fa.po | 
+ | [ff](/f31/language/ff) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ff.po | 
+ | [fi](/f31/language/fi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fi.po | 
+ | [fj](/f31/language/fj) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fj.po | 
+ | [fo](/f31/language/fo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fo.po | 
+ | [fr_CA](/f31/language/fr_CA) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fr_CA.po | 
+ | [fy](/f31/language/fy) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/fy.po | 
+ | [ga](/f31/language/ga) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ga.po | 
+ | [gd](/f31/language/gd) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gd.po | 
+ | [gl](/f31/language/gl) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gl.po | 
+ | [gn](/f31/language/gn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gn.po | 
+ | [gu](/f31/language/gu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gu.po | 
+ | [gv](/f31/language/gv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/gv.po | 
+ | [ha](/f31/language/ha) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ha.po | 
+ | [he](/f31/language/he) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/he.po | 
+ | [hi](/f31/language/hi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hi.po | 
+ | [ho](/f31/language/ho) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ho.po | 
+ | [hr](/f31/language/hr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hr.po | 
+ | [ht](/f31/language/ht) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ht.po | 
+ | [hu](/f31/language/hu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hu.po | 
+ | [hy](/f31/language/hy) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hy.po | 
+ | [hz](/f31/language/hz) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/hz.po | 
+ | [ia](/f31/language/ia) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ia.po | 
+ | [id](/f31/language/id) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/id.po | 
+ | [ie](/f31/language/ie) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ie.po | 
+ | [ig](/f31/language/ig) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ig.po | 
+ | [ii](/f31/language/ii) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ii.po | 
+ | [ik](/f31/language/ik) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ik.po | 
+ | [io](/f31/language/io) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/io.po | 
+ | [is](/f31/language/is) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/is.po | 
+ | [it](/f31/language/it) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/it.po | 
+ | [iu](/f31/language/iu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/iu.po | 
+ | [ja](/f31/language/ja) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ja.po | 
+ | [jv](/f31/language/jv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/jv.po | 
+ | [ka](/f31/language/ka) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ka.po | 
+ | [kg](/f31/language/kg) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kg.po | 
+ | [ki](/f31/language/ki) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ki.po | 
+ | [kj](/f31/language/kj) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kj.po | 
+ | [kk](/f31/language/kk) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kk.po | 
+ | [kl](/f31/language/kl) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kl.po | 
+ | [km](/f31/language/km) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/km.po | 
+ | [kn](/f31/language/kn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kn.po | 
+ | [ko](/f31/language/ko) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ko.po | 
+ | [kr](/f31/language/kr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kr.po | 
+ | [ks](/f31/language/ks) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ks.po | 
+ | [ku](/f31/language/ku) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ku.po | 
+ | [kv](/f31/language/kv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kv.po | 
+ | [kw](/f31/language/kw) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/kw.po | 
+ | [ky](/f31/language/ky) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ky.po | 
+ | [la](/f31/language/la) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/la.po | 
+ | [lb](/f31/language/lb) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lb.po | 
+ | [lg](/f31/language/lg) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lg.po | 
+ | [li](/f31/language/li) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/li.po | 
+ | [ln](/f31/language/ln) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ln.po | 
+ | [lo](/f31/language/lo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lo.po | 
+ | [lu](/f31/language/lu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lu.po | 
+ | [lv](/f31/language/lv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/lv.po | 
+ | [mg](/f31/language/mg) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mg.po | 
+ | [mh](/f31/language/mh) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mh.po | 
+ | [mi](/f31/language/mi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mi.po | 
+ | [mk](/f31/language/mk) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mk.po | 
+ | [ml](/f31/language/ml) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ml.po | 
+ | [mn](/f31/language/mn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mn.po | 
+ | [mr](/f31/language/mr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mr.po | 
+ | [ms](/f31/language/ms) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ms.po | 
+ | [mt](/f31/language/mt) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mt.po | 
+ | [my](/f31/language/my) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/my.po | 
+ | [na](/f31/language/na) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/na.po | 
+ | [nb_NO](/f31/language/nb_NO) | 0 | 564 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/no.po/mnt/stockage/packages/f31/optimizer/po/nb.po | 
+ | [nd](/f31/language/nd) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nd.po | 
+ | [ne](/f31/language/ne) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ne.po | 
+ | [ng](/f31/language/ng) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ng.po | 
+ | [nn](/f31/language/nn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nn.po | 
+ | [nr](/f31/language/nr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nr.po | 
+ | [nv](/f31/language/nv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/nv.po | 
+ | [ny](/f31/language/ny) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ny.po | 
+ | [oc](/f31/language/oc) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/oc.po | 
+ | [oj](/f31/language/oj) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/oj.po | 
+ | [om](/f31/language/om) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/om.po | 
+ | [or](/f31/language/or) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/or.po | 
+ | [os](/f31/language/os) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/os.po | 
+ | [pa](/f31/language/pa) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pa.po | 
+ | [pi](/f31/language/pi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pi.po | 
+ | [pl](/f31/language/pl) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pl.po | 
+ | [ps](/f31/language/ps) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ps.po | 
+ | [pt](/f31/language/pt) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/pt_BR.po | 
+ | [qu](/f31/language/qu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/qu.po | 
+ | [rm](/f31/language/rm) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rm.po | 
+ | [rn](/f31/language/rn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rn.po | 
+ | [ro](/f31/language/ro) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ro.po | 
+ | [ro_MD](/f31/language/ro_MD) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/mo.po | 
+ | [rue](/f31/language/rue) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rue.po | 
+ | [rw](/f31/language/rw) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/rw.po | 
+ | [sa](/f31/language/sa) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sa.po | 
+ | [sc](/f31/language/sc) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sc.po | 
+ | [sd](/f31/language/sd) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sd.po | 
+ | [se](/f31/language/se) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/se.po | 
+ | [sg](/f31/language/sg) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sg.po | 
+ | [si](/f31/language/si) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/si.po | 
+ | [sk](/f31/language/sk) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sk.po | 
+ | [sl](/f31/language/sl) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sl.po | 
+ | [sm](/f31/language/sm) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sm.po | 
+ | [sma](/f31/language/sma) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sma.po | 
+ | [sn](/f31/language/sn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sn.po | 
+ | [so](/f31/language/so) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/so.po | 
+ | [sq](/f31/language/sq) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sq.po | 
+ | [sr](/f31/language/sr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sr.po | 
+ | [ss](/f31/language/ss) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ss.po | 
+ | [st](/f31/language/st) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/st.po | 
+ | [su](/f31/language/su) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/su.po | 
+ | [sv](/f31/language/sv) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sv.po | 
+ | [sw](/f31/language/sw) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/sw.po | 
+ | [ta](/f31/language/ta) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ta.po | 
+ | [te](/f31/language/te) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/te.po | 
+ | [tg](/f31/language/tg) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tg.po | 
+ | [th](/f31/language/th) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/th.po | 
+ | [ti](/f31/language/ti) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ti.po | 
+ | [tk](/f31/language/tk) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tk.po | 
+ | [tl](/f31/language/tl) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tl.po | 
+ | [tn](/f31/language/tn) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tn.po | 
+ | [to](/f31/language/to) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/to.po | 
+ | [tr](/f31/language/tr) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tr.po | 
+ | [ts](/f31/language/ts) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ts.po | 
+ | [tt](/f31/language/tt) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tt.po | 
+ | [tw](/f31/language/tw) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/tw.po | 
+ | [ty](/f31/language/ty) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ty.po | 
+ | [ug](/f31/language/ug) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ug.po | 
+ | [uk](/f31/language/uk) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/uk.po | 
+ | [ur](/f31/language/ur) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ur.po | 
+ | [uz](/f31/language/uz) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/uz.po | 
+ | [ve](/f31/language/ve) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/ve.po | 
+ | [vi](/f31/language/vi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/vi.po | 
+ | [vo](/f31/language/vo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/vo.po | 
+ | [wa](/f31/language/wa) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/wa.po | 
+ | [wo](/f31/language/wo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/wo.po | 
+ | [xh](/f31/language/xh) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/xh.po | 
+ | [yi](/f31/language/yi) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/yi.po | 
+ | [yo](/f31/language/yo) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/yo.po | 
+ | [za](/f31/language/za) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/za.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 0 | 564 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zh_CN.po/mnt/stockage/packages/f31/optimizer/po/zh.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zh_TW.po | 
+ | [zh_Hant_HK](/f31/language/zh_Hant_HK) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zh_HK.po | 
+ | [zu](/f31/language/zu) | 0 | 282 | 0.0 | /mnt/stockage/packages/f31/optimizer/po/zu.po | 
 {.sortable}
 
 

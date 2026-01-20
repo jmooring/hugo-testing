@@ -18,8 +18,8 @@ The package xfbib (version 0.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 216 | 224 | 96.4 | /mnt/stockage/packages/f15/xfbib/po/sv.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 33 | 224 | 14.7 | /mnt/stockage/packages/f15/xfbib/po/hu.po | 
+ | [sv](/f15/language/sv) | 216 | 224 | 96.4 | /mnt/stockage/packages/f15/xfbib/po/sv.po | 
+ | [hu](/f15/language/hu) | 33 | 224 | 14.7 | /mnt/stockage/packages/f15/xfbib/po/hu.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package gmfsk (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 1267 | 1340 | 94.6 | /mnt/stockage/packages/f11/gmfsk/po/fi.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 811 | 1340 | 60.5 | /mnt/stockage/packages/f11/gmfsk/po/sk.po | 
+ | [fi](/f11/language/fi) | 1267 | 1340 | 94.6 | /mnt/stockage/packages/f11/gmfsk/po/fi.po | 
+ | [sk](/f11/language/sk) | 811 | 1340 | 60.5 | /mnt/stockage/packages/f11/gmfsk/po/sk.po | 
 {.sortable}
 
 

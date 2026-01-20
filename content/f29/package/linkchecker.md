@@ -18,9 +18,9 @@ The package linkchecker (version 9.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 5172 | 6560 | 78.8 | /mnt/stockage/packages/f29/linkchecker/doc/de.po/mnt/stockage/packages/f29/linkchecker/po/de.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 677 | 4403 | 15.4 | /mnt/stockage/packages/f29/linkchecker/doc/fr.po/mnt/stockage/packages/f29/linkchecker/po/fr.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 314 | 2777 | 11.3 | /mnt/stockage/packages/f29/linkchecker/po/es.po | 
+ | [de](/f29/language/de) | 5172 | 6560 | 78.8 | /mnt/stockage/packages/f29/linkchecker/doc/de.po/mnt/stockage/packages/f29/linkchecker/po/de.po | 
+ | [fr](/f29/language/fr) | 677 | 4403 | 15.4 | /mnt/stockage/packages/f29/linkchecker/doc/fr.po/mnt/stockage/packages/f29/linkchecker/po/fr.po | 
+ | [es](/f29/language/es) | 314 | 2777 | 11.3 | /mnt/stockage/packages/f29/linkchecker/po/es.po | 
 {.sortable}
 
 

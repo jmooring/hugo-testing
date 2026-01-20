@@ -18,24 +18,24 @@ The package openstack-glance (version 2013.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bs]({{< ref "/f19/language/bs.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/bs/LC_MESSAGES/glance.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/cs/LC_MESSAGES/glance.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/da/LC_MESSAGES/glance.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/de/LC_MESSAGES/glance.po | 
- | [en_AU]({{< ref "/f19/language/en_AU.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/en_AU/LC_MESSAGES/glance.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/en_GB/LC_MESSAGES/glance.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/es/LC_MESSAGES/glance.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/fr/LC_MESSAGES/glance.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/it/LC_MESSAGES/glance.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/ja/LC_MESSAGES/glance.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/ko/LC_MESSAGES/glance.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/pt_BR/LC_MESSAGES/glance.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/ru/LC_MESSAGES/glance.po | 
- | [tl]({{< ref "/f19/language/tl.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/tl/LC_MESSAGES/glance.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/tr/LC_MESSAGES/glance.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/uk/LC_MESSAGES/glance.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/zh_CN/LC_MESSAGES/glance.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/zh_TW/LC_MESSAGES/glance.po | 
+ | [bs](/f19/language/bs) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/bs/LC_MESSAGES/glance.po | 
+ | [cs](/f19/language/cs) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/cs/LC_MESSAGES/glance.po | 
+ | [da](/f19/language/da) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/da/LC_MESSAGES/glance.po | 
+ | [de](/f19/language/de) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/de/LC_MESSAGES/glance.po | 
+ | [en_AU](/f19/language/en_AU) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/en_AU/LC_MESSAGES/glance.po | 
+ | [en_GB](/f19/language/en_GB) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/en_GB/LC_MESSAGES/glance.po | 
+ | [es](/f19/language/es) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/es/LC_MESSAGES/glance.po | 
+ | [fr](/f19/language/fr) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/fr/LC_MESSAGES/glance.po | 
+ | [it](/f19/language/it) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/it/LC_MESSAGES/glance.po | 
+ | [ja](/f19/language/ja) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/ja/LC_MESSAGES/glance.po | 
+ | [ko](/f19/language/ko) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/ko/LC_MESSAGES/glance.po | 
+ | [pt_BR](/f19/language/pt_BR) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/pt_BR/LC_MESSAGES/glance.po | 
+ | [ru](/f19/language/ru) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/ru/LC_MESSAGES/glance.po | 
+ | [tl](/f19/language/tl) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/tl/LC_MESSAGES/glance.po | 
+ | [tr](/f19/language/tr) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/tr/LC_MESSAGES/glance.po | 
+ | [uk](/f19/language/uk) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/uk/LC_MESSAGES/glance.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/zh_CN/LC_MESSAGES/glance.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 0 | 1711 | 0.0 | /mnt/stockage/packages/f19/openstack-glance/glance/locale/zh_TW/LC_MESSAGES/glance.po | 
 {.sortable}
 
 

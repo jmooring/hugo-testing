@@ -18,19 +18,19 @@ The package cadaver (version 0.28):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f43/language/error.md" >}}) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f43/cadaver/po/en@quot.po | 
- | [ka]({{< ref "/f43/language/ka.md" >}}) | 739 | 796 | 92.8 | /mnt/stockage/packages/f43/cadaver/neon/po/ka.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 656 | 796 | 82.4 | /mnt/stockage/packages/f43/cadaver/neon/po/pl.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 470 | 796 | 59.0 | /mnt/stockage/packages/f43/cadaver/neon/po/zh_CN.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 598 | 1258 | 47.5 | /mnt/stockage/packages/f43/cadaver/po/es.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 664 | 1757 | 37.8 | /mnt/stockage/packages/f43/cadaver/po/it.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/cs.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/de.po | 
- | [nn]({{< ref "/f43/language/nn.md" >}}) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/nn.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/tr.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 32 | 796 | 4.0 | /mnt/stockage/packages/f43/cadaver/neon/po/ja.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 0 | 796 | 0.0 | /mnt/stockage/packages/f43/cadaver/neon/po/fr.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 0 | 796 | 0.0 | /mnt/stockage/packages/f43/cadaver/neon/po/ru.po | 
+ | [error](/f43/language/error) | 1258 | 1258 | 100.0 | /mnt/stockage/packages/f43/cadaver/po/en@quot.po | 
+ | [ka](/f43/language/ka) | 739 | 796 | 92.8 | /mnt/stockage/packages/f43/cadaver/neon/po/ka.po | 
+ | [pl](/f43/language/pl) | 656 | 796 | 82.4 | /mnt/stockage/packages/f43/cadaver/neon/po/pl.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 470 | 796 | 59.0 | /mnt/stockage/packages/f43/cadaver/neon/po/zh_CN.po | 
+ | [es](/f43/language/es) | 598 | 1258 | 47.5 | /mnt/stockage/packages/f43/cadaver/po/es.po | 
+ | [it](/f43/language/it) | 664 | 1757 | 37.8 | /mnt/stockage/packages/f43/cadaver/po/it.po | 
+ | [cs](/f43/language/cs) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/cs.po | 
+ | [de](/f43/language/de) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/de.po | 
+ | [nn](/f43/language/nn) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/nn.po | 
+ | [tr](/f43/language/tr) | 76 | 796 | 9.5 | /mnt/stockage/packages/f43/cadaver/neon/po/tr.po | 
+ | [ja](/f43/language/ja) | 32 | 796 | 4.0 | /mnt/stockage/packages/f43/cadaver/neon/po/ja.po | 
+ | [fr](/f43/language/fr) | 0 | 796 | 0.0 | /mnt/stockage/packages/f43/cadaver/neon/po/fr.po | 
+ | [ru](/f43/language/ru) | 0 | 796 | 0.0 | /mnt/stockage/packages/f43/cadaver/neon/po/ru.po | 
 {.sortable}
 
 

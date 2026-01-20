@@ -18,40 +18,40 @@ The package xfce4-pulseaudio-plugin (version 0.2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f26/language/bg.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/bg.po | 
- | [ca]({{< ref "/f26/language/ca.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ca.po | 
- | [cs]({{< ref "/f26/language/cs.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/cs.po | 
- | [da]({{< ref "/f26/language/da.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/da.po | 
- | [de]({{< ref "/f26/language/de.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/de.po | 
- | [es]({{< ref "/f26/language/es.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/es.po | 
- | [fr]({{< ref "/f26/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/fr.po | 
- | [gl]({{< ref "/f26/language/gl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/gl.po | 
- | [he]({{< ref "/f26/language/he.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/he.po | 
- | [hr]({{< ref "/f26/language/hr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/hr.po | 
- | [lt]({{< ref "/f26/language/lt.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f26/language/nb_NO.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/nb.po | 
- | [nl]({{< ref "/f26/language/nl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/nl.po | 
- | [pl]({{< ref "/f26/language/pl.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/pl.po | 
- | [pt]({{< ref "/f26/language/pt.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/pt.po | 
- | [ru]({{< ref "/f26/language/ru.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ru.po | 
- | [sk]({{< ref "/f26/language/sk.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/sk.po | 
- | [zh_Hant]({{< ref "/f26/language/zh_Hant.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/zh_TW.po | 
- | [el]({{< ref "/f26/language/el.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/el.po | 
- | [en_AU]({{< ref "/f26/language/en_AU.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/en_AU.po | 
- | [it]({{< ref "/f26/language/it.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/it.po | 
- | [kk]({{< ref "/f26/language/kk.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/kk.po | 
- | [ko]({{< ref "/f26/language/ko.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ko.po | 
- | [ms]({{< ref "/f26/language/ms.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ms.po | 
- | [oc]({{< ref "/f26/language/oc.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/oc.po | 
- | [pt_BR]({{< ref "/f26/language/pt_BR.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/pt_BR.po | 
- | [sr]({{< ref "/f26/language/sr.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/sr.po | 
- | [sv]({{< ref "/f26/language/sv.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/sv.po | 
- | [th]({{< ref "/f26/language/th.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/th.po | 
- | [tr]({{< ref "/f26/language/tr.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/tr.po | 
- | [uk]({{< ref "/f26/language/uk.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f26/language/zh_Hans.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/zh_CN.po | 
- | [hu]({{< ref "/f26/language/hu.md" >}}) | 68 | 108 | 63.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/hu.po | 
- | [is]({{< ref "/f26/language/is.md" >}}) | 35 | 108 | 32.4 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/is.po | 
+ | [bg](/f26/language/bg) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/bg.po | 
+ | [ca](/f26/language/ca) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ca.po | 
+ | [cs](/f26/language/cs) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/cs.po | 
+ | [da](/f26/language/da) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/da.po | 
+ | [de](/f26/language/de) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/de.po | 
+ | [es](/f26/language/es) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/es.po | 
+ | [fr](/f26/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/fr.po | 
+ | [gl](/f26/language/gl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/gl.po | 
+ | [he](/f26/language/he) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/he.po | 
+ | [hr](/f26/language/hr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/hr.po | 
+ | [lt](/f26/language/lt) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/lt.po | 
+ | [nb_NO](/f26/language/nb_NO) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/nb.po | 
+ | [nl](/f26/language/nl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/nl.po | 
+ | [pl](/f26/language/pl) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/pl.po | 
+ | [pt](/f26/language/pt) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/pt.po | 
+ | [ru](/f26/language/ru) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ru.po | 
+ | [sk](/f26/language/sk) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/sk.po | 
+ | [zh_Hant](/f26/language/zh_Hant) | 108 | 108 | 100.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/zh_TW.po | 
+ | [el](/f26/language/el) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/el.po | 
+ | [en_AU](/f26/language/en_AU) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/en_AU.po | 
+ | [it](/f26/language/it) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/it.po | 
+ | [kk](/f26/language/kk) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/kk.po | 
+ | [ko](/f26/language/ko) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ko.po | 
+ | [ms](/f26/language/ms) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/ms.po | 
+ | [oc](/f26/language/oc) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/oc.po | 
+ | [pt_BR](/f26/language/pt_BR) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/pt_BR.po | 
+ | [sr](/f26/language/sr) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/sr.po | 
+ | [sv](/f26/language/sv) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/sv.po | 
+ | [th](/f26/language/th) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/th.po | 
+ | [tr](/f26/language/tr) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/tr.po | 
+ | [uk](/f26/language/uk) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/uk.po | 
+ | [zh_Hans](/f26/language/zh_Hans) | 104 | 108 | 96.3 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/zh_CN.po | 
+ | [hu](/f26/language/hu) | 68 | 108 | 63.0 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/hu.po | 
+ | [is](/f26/language/is) | 35 | 108 | 32.4 | /mnt/stockage/packages/f26/xfce4-pulseaudio-plugin/po/is.po | 
 {.sortable}
 
 

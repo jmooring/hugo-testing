@@ -18,7 +18,7 @@ The package python-oslo-reports (version 1.17.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/python-oslo-reports/oslo_reports/locale/en_GB/LC_MESSAGES/oslo_reports.po | 
+ | [en_GB](/f27/language/en_GB) | 10 | 10 | 100.0 | /mnt/stockage/packages/f27/python-oslo-reports/oslo_reports/locale/en_GB/LC_MESSAGES/oslo_reports.po | 
 {.sortable}
 
 

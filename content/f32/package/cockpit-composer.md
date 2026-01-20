@@ -18,18 +18,18 @@ The package cockpit-composer (version 29):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1640 | 1708 | 96.0 | /mnt/stockage/packages/f32/cockpit-composer/po/tr.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 1640 | 1708 | 96.0 | /mnt/stockage/packages/f32/cockpit-composer/po/uk.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 1277 | 1708 | 74.8 | /mnt/stockage/packages/f32/cockpit-composer/po/cs.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 1277 | 1708 | 74.8 | /mnt/stockage/packages/f32/cockpit-composer/po/fr.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 1275 | 1708 | 74.6 | /mnt/stockage/packages/f32/cockpit-composer/po/ja.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 1275 | 1708 | 74.6 | /mnt/stockage/packages/f32/cockpit-composer/po/zh_CN.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 919 | 1708 | 53.8 | /mnt/stockage/packages/f32/cockpit-composer/po/ko.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 807 | 1708 | 47.2 | /mnt/stockage/packages/f32/cockpit-composer/po/es.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 682 | 1708 | 39.9 | /mnt/stockage/packages/f32/cockpit-composer/po/ru.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 659 | 1658 | 39.7 | /mnt/stockage/packages/f32/cockpit-composer/po/hu.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 671 | 1708 | 39.3 | /mnt/stockage/packages/f32/cockpit-composer/po/pt_BR.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 467 | 1708 | 27.3 | /mnt/stockage/packages/f32/cockpit-composer/po/sk.po | 
+ | [tr](/f32/language/tr) | 1640 | 1708 | 96.0 | /mnt/stockage/packages/f32/cockpit-composer/po/tr.po | 
+ | [uk](/f32/language/uk) | 1640 | 1708 | 96.0 | /mnt/stockage/packages/f32/cockpit-composer/po/uk.po | 
+ | [cs](/f32/language/cs) | 1277 | 1708 | 74.8 | /mnt/stockage/packages/f32/cockpit-composer/po/cs.po | 
+ | [fr](/f32/language/fr) | 1277 | 1708 | 74.8 | /mnt/stockage/packages/f32/cockpit-composer/po/fr.po | 
+ | [ja](/f32/language/ja) | 1275 | 1708 | 74.6 | /mnt/stockage/packages/f32/cockpit-composer/po/ja.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 1275 | 1708 | 74.6 | /mnt/stockage/packages/f32/cockpit-composer/po/zh_CN.po | 
+ | [ko](/f32/language/ko) | 919 | 1708 | 53.8 | /mnt/stockage/packages/f32/cockpit-composer/po/ko.po | 
+ | [es](/f32/language/es) | 807 | 1708 | 47.2 | /mnt/stockage/packages/f32/cockpit-composer/po/es.po | 
+ | [ru](/f32/language/ru) | 682 | 1708 | 39.9 | /mnt/stockage/packages/f32/cockpit-composer/po/ru.po | 
+ | [hu](/f32/language/hu) | 659 | 1658 | 39.7 | /mnt/stockage/packages/f32/cockpit-composer/po/hu.po | 
+ | [pt_BR](/f32/language/pt_BR) | 671 | 1708 | 39.3 | /mnt/stockage/packages/f32/cockpit-composer/po/pt_BR.po | 
+ | [sk](/f32/language/sk) | 467 | 1708 | 27.3 | /mnt/stockage/packages/f32/cockpit-composer/po/sk.po | 
 {.sortable}
 
 

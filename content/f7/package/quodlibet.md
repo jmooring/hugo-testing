@@ -18,30 +18,30 @@ The package quodlibet (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_CA]({{< ref "/f7/language/en_CA.md" >}}) | 1824 | 1824 | 100.0 | /mnt/stockage/packages/f7/quodlibet/po/en_CA.po | 
- | [en_GB]({{< ref "/f7/language/en_GB.md" >}}) | 1824 | 1824 | 100.0 | /mnt/stockage/packages/f7/quodlibet/po/en_GB.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 1824 | 1824 | 100.0 | /mnt/stockage/packages/f7/quodlibet/po/nl.po | 
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 1821 | 1824 | 99.8 | /mnt/stockage/packages/f7/quodlibet/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1819 | 1824 | 99.7 | /mnt/stockage/packages/f7/quodlibet/po/fr.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/es.po | 
- | [gl]({{< ref "/f7/language/gl.md" >}}) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/gl.po | 
- | [pt]({{< ref "/f7/language/pt.md" >}}) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/pt.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/zh_TW.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 1807 | 1824 | 99.1 | /mnt/stockage/packages/f7/quodlibet/po/pl.po | 
- | [ro]({{< ref "/f7/language/ro.md" >}}) | 1806 | 1824 | 99.0 | /mnt/stockage/packages/f7/quodlibet/po/ro.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 1792 | 1824 | 98.2 | /mnt/stockage/packages/f7/quodlibet/po/de.po | 
- | [hu]({{< ref "/f7/language/hu.md" >}}) | 1788 | 1824 | 98.0 | /mnt/stockage/packages/f7/quodlibet/po/hu.po | 
- | [sk]({{< ref "/f7/language/sk.md" >}}) | 1703 | 1824 | 93.4 | /mnt/stockage/packages/f7/quodlibet/po/sk.po | 
- | [ko]({{< ref "/f7/language/ko.md" >}}) | 1689 | 1824 | 92.6 | /mnt/stockage/packages/f7/quodlibet/po/ko.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 1688 | 1824 | 92.5 | /mnt/stockage/packages/f7/quodlibet/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 1681 | 1824 | 92.2 | /mnt/stockage/packages/f7/quodlibet/po/sv.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 1637 | 1824 | 89.7 | /mnt/stockage/packages/f7/quodlibet/po/ja.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 1627 | 1824 | 89.2 | /mnt/stockage/packages/f7/quodlibet/po/nb.po | 
- | [lt]({{< ref "/f7/language/lt.md" >}}) | 1592 | 1824 | 87.3 | /mnt/stockage/packages/f7/quodlibet/po/lt.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1574 | 1824 | 86.3 | /mnt/stockage/packages/f7/quodlibet/po/it.po | 
- | [he]({{< ref "/f7/language/he.md" >}}) | 1549 | 1824 | 84.9 | /mnt/stockage/packages/f7/quodlibet/po/he.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1516 | 1824 | 83.1 | /mnt/stockage/packages/f7/quodlibet/po/bg.po | 
- | [zh_Hans]({{< ref "/f7/language/zh_Hans.md" >}}) | 1097 | 1824 | 60.1 | /mnt/stockage/packages/f7/quodlibet/po/zh_CN.po | 
+ | [en_CA](/f7/language/en_CA) | 1824 | 1824 | 100.0 | /mnt/stockage/packages/f7/quodlibet/po/en_CA.po | 
+ | [en_GB](/f7/language/en_GB) | 1824 | 1824 | 100.0 | /mnt/stockage/packages/f7/quodlibet/po/en_GB.po | 
+ | [nl](/f7/language/nl) | 1824 | 1824 | 100.0 | /mnt/stockage/packages/f7/quodlibet/po/nl.po | 
+ | [fi](/f7/language/fi) | 1821 | 1824 | 99.8 | /mnt/stockage/packages/f7/quodlibet/po/fi.po | 
+ | [fr](/f7/language/fr) | 1819 | 1824 | 99.7 | /mnt/stockage/packages/f7/quodlibet/po/fr.po | 
+ | [es](/f7/language/es) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/es.po | 
+ | [gl](/f7/language/gl) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/gl.po | 
+ | [pt](/f7/language/pt) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/pt.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1811 | 1824 | 99.3 | /mnt/stockage/packages/f7/quodlibet/po/zh_TW.po | 
+ | [pl](/f7/language/pl) | 1807 | 1824 | 99.1 | /mnt/stockage/packages/f7/quodlibet/po/pl.po | 
+ | [ro](/f7/language/ro) | 1806 | 1824 | 99.0 | /mnt/stockage/packages/f7/quodlibet/po/ro.po | 
+ | [de](/f7/language/de) | 1792 | 1824 | 98.2 | /mnt/stockage/packages/f7/quodlibet/po/de.po | 
+ | [hu](/f7/language/hu) | 1788 | 1824 | 98.0 | /mnt/stockage/packages/f7/quodlibet/po/hu.po | 
+ | [sk](/f7/language/sk) | 1703 | 1824 | 93.4 | /mnt/stockage/packages/f7/quodlibet/po/sk.po | 
+ | [ko](/f7/language/ko) | 1689 | 1824 | 92.6 | /mnt/stockage/packages/f7/quodlibet/po/ko.po | 
+ | [ru](/f7/language/ru) | 1688 | 1824 | 92.5 | /mnt/stockage/packages/f7/quodlibet/po/ru.po | 
+ | [sv](/f7/language/sv) | 1681 | 1824 | 92.2 | /mnt/stockage/packages/f7/quodlibet/po/sv.po | 
+ | [ja](/f7/language/ja) | 1637 | 1824 | 89.7 | /mnt/stockage/packages/f7/quodlibet/po/ja.po | 
+ | [nb_NO](/f7/language/nb_NO) | 1627 | 1824 | 89.2 | /mnt/stockage/packages/f7/quodlibet/po/nb.po | 
+ | [lt](/f7/language/lt) | 1592 | 1824 | 87.3 | /mnt/stockage/packages/f7/quodlibet/po/lt.po | 
+ | [it](/f7/language/it) | 1574 | 1824 | 86.3 | /mnt/stockage/packages/f7/quodlibet/po/it.po | 
+ | [he](/f7/language/he) | 1549 | 1824 | 84.9 | /mnt/stockage/packages/f7/quodlibet/po/he.po | 
+ | [bg](/f7/language/bg) | 1516 | 1824 | 83.1 | /mnt/stockage/packages/f7/quodlibet/po/bg.po | 
+ | [zh_Hans](/f7/language/zh_Hans) | 1097 | 1824 | 60.1 | /mnt/stockage/packages/f7/quodlibet/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,7 +18,7 @@ The package tryton (version 1.6.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 4615 | 4615 | 100.0 | /mnt/stockage/packages/f14/tryton/doc/de_DE/glossary.po/mnt/stockage/packages/f14/tryton/doc/de_DE/index.po/mnt/stockage/packages/f14/tryton/doc/de_DE/installation.po/mnt/stockage/packages/f14/tryton/doc/de_DE/introduction.po/mnt/stockage/packages/f14/tryton/doc/de_DE/usage.po | 
+ | [de](/f14/language/de) | 4615 | 4615 | 100.0 | /mnt/stockage/packages/f14/tryton/doc/de_DE/glossary.po/mnt/stockage/packages/f14/tryton/doc/de_DE/index.po/mnt/stockage/packages/f14/tryton/doc/de_DE/installation.po/mnt/stockage/packages/f14/tryton/doc/de_DE/introduction.po/mnt/stockage/packages/f14/tryton/doc/de_DE/usage.po | 
 {.sortable}
 
 

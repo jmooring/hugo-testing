@@ -38,28 +38,28 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [boost]({{< ref "/f21/package/boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [gnome-clocks]({{< ref "/f21/package/gnome-clocks.md" >}}) | 223 | 223 | 100.0 | עברית <> | 
- | [gnome-color-manager]({{< ref "/f21/package/gnome-color-manager.md" >}}) | 1792 | 1792 | 100.0 | עברית <> | 
- | [gnome-contacts]({{< ref "/f21/package/gnome-contacts.md" >}}) | 405 | 405 | 100.0 | עברית <> | 
- | [mingw-boost]({{< ref "/f21/package/mingw-boost.md" >}}) | 1 | 1 | 100.0 |  | 
- | [rygel]({{< ref "/f21/package/rygel.md" >}}) | 971 | 1140 | 85.2 | עברית <> | 
- | [konversation]({{< ref "/f21/package/konversation.md" >}}) | 6202 | 10922 | 56.8 | Hebrew <kde-i18n-doc@kde.org> | 
- | [poedit]({{< ref "/f21/package/poedit.md" >}}) | 1185 | 2461 | 48.2 | Hebrew | 
- | [glpi]({{< ref "/f21/package/glpi.md" >}}) | 4441 | 9435 | 47.1 | Hebrew (Israel) (http://www.transifex.com/projects/p/GLPI/language/he_IL/) | 
- | [squirrelmail]({{< ref "/f21/package/squirrelmail.md" >}}) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
- | [clementine]({{< ref "/f21/package/clementine.md" >}}) | 0 | 4861 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/) | 
- | [openstack-ceilometer]({{< ref "/f21/package/openstack-ceilometer.md" >}}) | 0 | 2280 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-cinder]({{< ref "/f21/package/openstack-cinder.md" >}}) | 0 | 15470 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-glance]({{< ref "/f21/package/openstack-glance.md" >}}) | 0 | 6659 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-heat]({{< ref "/f21/package/openstack-heat.md" >}}) | 0 | 10215 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-ironic]({{< ref "/f21/package/openstack-ironic.md" >}}) | 0 | 2966 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-keystone]({{< ref "/f21/package/openstack-keystone.md" >}}) | 0 | 2659 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-neutron]({{< ref "/f21/package/openstack-neutron.md" >}}) | 0 | 21722 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-nova]({{< ref "/f21/package/openstack-nova.md" >}}) | 0 | 17432 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-sahara]({{< ref "/f21/package/openstack-sahara.md" >}}) | 0 | 373 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [openstack-trove]({{< ref "/f21/package/openstack-trove.md" >}}) | 0 | 3988 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
- | [publican-fedora]({{< ref "/f21/package/publican-fedora.md" >}}) | 0 | 1 | 0.0 | None | 
+ | [boost](/f21/package/boost) | 1 | 1 | 100.0 |  | 
+ | [gnome-clocks](/f21/package/gnome-clocks) | 223 | 223 | 100.0 | עברית <> | 
+ | [gnome-color-manager](/f21/package/gnome-color-manager) | 1792 | 1792 | 100.0 | עברית <> | 
+ | [gnome-contacts](/f21/package/gnome-contacts) | 405 | 405 | 100.0 | עברית <> | 
+ | [mingw-boost](/f21/package/mingw-boost) | 1 | 1 | 100.0 |  | 
+ | [rygel](/f21/package/rygel) | 971 | 1140 | 85.2 | עברית <> | 
+ | [konversation](/f21/package/konversation) | 6202 | 10922 | 56.8 | Hebrew <kde-i18n-doc@kde.org> | 
+ | [poedit](/f21/package/poedit) | 1185 | 2461 | 48.2 | Hebrew | 
+ | [glpi](/f21/package/glpi) | 4441 | 9435 | 47.1 | Hebrew (Israel) (http://www.transifex.com/projects/p/GLPI/language/he_IL/) | 
+ | [squirrelmail](/f21/package/squirrelmail) | 2440 | 6878 | 35.5 | HEBREW <squirrelmail-i18n@lists.sourceforge.net> | 
+ | [clementine](/f21/package/clementine) | 0 | 4861 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/clementine/language/he_IL/) | 
+ | [openstack-ceilometer](/f21/package/openstack-ceilometer) | 0 | 2280 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-cinder](/f21/package/openstack-cinder) | 0 | 15470 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-glance](/f21/package/openstack-glance) | 0 | 6659 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-heat](/f21/package/openstack-heat) | 0 | 10215 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-ironic](/f21/package/openstack-ironic) | 0 | 2966 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-keystone](/f21/package/openstack-keystone) | 0 | 2659 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-neutron](/f21/package/openstack-neutron) | 0 | 21722 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-nova](/f21/package/openstack-nova) | 0 | 17432 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-sahara](/f21/package/openstack-sahara) | 0 | 373 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [openstack-trove](/f21/package/openstack-trove) | 0 | 3988 | 0.0 | Hebrew (Israel) (http://www.transifex.com/projects/p/openstack/language/he_IL/) | 
+ | [publican-fedora](/f21/package/publican-fedora) | 0 | 1 | 0.0 | None | 
 {.sortable}
 
 

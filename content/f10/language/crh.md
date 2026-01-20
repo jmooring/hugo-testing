@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-netstatus]({{< ref "/f10/package/gnome-netstatus.md" >}}) | 418 | 418 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
- | [libgnomeui]({{< ref "/f10/package/libgnomeui.md" >}}) | 1204 | 1309 | 92.0 | Qırımtatarca (Qırım Türkçesi) | 
+ | [gnome-netstatus](/f10/package/gnome-netstatus) | 418 | 418 | 100.0 | Qırımtatarca (Qırım Türkçesi) | 
+ | [libgnomeui](/f10/package/libgnomeui) | 1204 | 1309 | 92.0 | Qırımtatarca (Qırım Türkçesi) | 
 {.sortable}
 
 

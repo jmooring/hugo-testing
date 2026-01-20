@@ -18,58 +18,58 @@ The package filezilla (version 3.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f18/language/ar.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/ar.po | 
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 9247 | 9247 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/cs_CZ.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/da_DK.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/de.po | 
- | [el]({{< ref "/f18/language/el.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/el.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/fr.po | 
- | [he]({{< ref "/f18/language/he.md" >}}) | 9399 | 9399 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/he_IL.po | 
- | [hy]({{< ref "/f18/language/hy.md" >}}) | 9544 | 9544 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/hy.po | 
- | [id]({{< ref "/f18/language/id.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/id_ID.po | 
- | [it]({{< ref "/f18/language/it.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/it.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/nb_NO.po | 
- | [pt_PT]({{< ref "/f18/language/pt_PT.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/pt_PT.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/ro_RO.po | 
- | [sk]({{< ref "/f18/language/sk.md" >}}) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/sk_SK.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/sv.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/vi_VN.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/zh_CN.po | 
- | [zh_Hant]({{< ref "/f18/language/zh_Hant.md" >}}) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/zh_TW.po | 
- | [fi]({{< ref "/f18/language/fi.md" >}}) | 9544 | 9546 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/fi_FI.po | 
- | [pt]({{< ref "/f18/language/pt.md" >}}) | 9544 | 9546 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/pt_BR.po | 
- | [tr]({{< ref "/f18/language/tr.md" >}}) | 9543 | 9546 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/tr.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 9557 | 9565 | 99.9 | /mnt/stockage/packages/f18/filezilla/locales/ru.po | 
- | [bg]({{< ref "/f18/language/bg.md" >}}) | 9536 | 9546 | 99.9 | /mnt/stockage/packages/f18/filezilla/locales/bg_BG.po | 
- | [sr]({{< ref "/f18/language/sr.md" >}}) | 9128 | 9145 | 99.8 | /mnt/stockage/packages/f18/filezilla/locales/sr.po | 
- | [eu]({{< ref "/f18/language/eu.md" >}}) | 19056 | 19092 | 99.8 | /mnt/stockage/packages/f18/filezilla/locales/eu.po/mnt/stockage/packages/f18/filezilla/locales/eu_ES.po | 
- | [an]({{< ref "/f18/language/an.md" >}}) | 9544 | 9565 | 99.8 | /mnt/stockage/packages/f18/filezilla/locales/an.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 9493 | 9544 | 99.5 | /mnt/stockage/packages/f18/filezilla/locales/pl_PL.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 9254 | 9366 | 98.8 | /mnt/stockage/packages/f18/filezilla/locales/gl_ES.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 9254 | 9366 | 98.8 | /mnt/stockage/packages/f18/filezilla/locales/ja_JP.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 9052 | 9190 | 98.5 | /mnt/stockage/packages/f18/filezilla/locales/sl_SI.po | 
- | [ko]({{< ref "/f18/language/ko.md" >}}) | 9112 | 9254 | 98.5 | /mnt/stockage/packages/f18/filezilla/locales/ko_KR.po | 
- | [nn]({{< ref "/f18/language/nn.md" >}}) | 9371 | 9546 | 98.2 | /mnt/stockage/packages/f18/filezilla/locales/nn_NO.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 9141 | 9565 | 95.6 | /mnt/stockage/packages/f18/filezilla/locales/es.po | 
- | [lt]({{< ref "/f18/language/lt.md" >}}) | 9122 | 9546 | 95.6 | /mnt/stockage/packages/f18/filezilla/locales/lt_LT.po | 
- | [nl]({{< ref "/f18/language/nl.md" >}}) | 9104 | 9546 | 95.4 | /mnt/stockage/packages/f18/filezilla/locales/nl.po | 
- | [hr]({{< ref "/f18/language/hr.md" >}}) | 8270 | 9102 | 90.9 | /mnt/stockage/packages/f18/filezilla/locales/hr.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f18/filezilla/locales/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f18/filezilla/locales/ca_ES@valencia.po | 
- | [fa]({{< ref "/f18/language/fa.md" >}}) | 7788 | 9102 | 85.6 | /mnt/stockage/packages/f18/filezilla/locales/fa_IR.po | 
- | [et]({{< ref "/f18/language/et.md" >}}) | 7976 | 9394 | 84.9 | /mnt/stockage/packages/f18/filezilla/locales/et_EE.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 7609 | 9366 | 81.2 | /mnt/stockage/packages/f18/filezilla/locales/hu_HU.po | 
- | [th]({{< ref "/f18/language/th.md" >}}) | 7565 | 9366 | 80.8 | /mnt/stockage/packages/f18/filezilla/locales/th_TH.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 6781 | 9366 | 72.4 | /mnt/stockage/packages/f18/filezilla/locales/uk_UA.po | 
- | [oc]({{< ref "/f18/language/oc.md" >}}) | 5976 | 9102 | 65.7 | /mnt/stockage/packages/f18/filezilla/locales/oc.po | 
- | [lv]({{< ref "/f18/language/lv.md" >}}) | 5466 | 9366 | 58.4 | /mnt/stockage/packages/f18/filezilla/locales/lv_LV.po | 
- | [mk]({{< ref "/f18/language/mk.md" >}}) | 4595 | 9102 | 50.5 | /mnt/stockage/packages/f18/filezilla/locales/mk_MK.po | 
- | [ne]({{< ref "/f18/language/ne.md" >}}) | 3324 | 9102 | 36.5 | /mnt/stockage/packages/f18/filezilla/locales/ne.po | 
- | [is]({{< ref "/f18/language/is.md" >}}) | 2101 | 9190 | 22.9 | /mnt/stockage/packages/f18/filezilla/locales/is.po | 
- | [ky]({{< ref "/f18/language/ky.md" >}}) | 1472 | 9399 | 15.7 | /mnt/stockage/packages/f18/filezilla/locales/ky.po | 
- | [ka]({{< ref "/f18/language/ka.md" >}}) | 1237 | 9102 | 13.6 | /mnt/stockage/packages/f18/filezilla/locales/ka.po | 
- | [ku]({{< ref "/f18/language/ku.md" >}}) | 895 | 9366 | 9.6 | /mnt/stockage/packages/f18/filezilla/locales/ku.po | 
- | [km]({{< ref "/f18/language/km.md" >}}) | 85 | 9102 | 0.9 | /mnt/stockage/packages/f18/filezilla/locales/km_KH.po | 
+ | [ar](/f18/language/ar) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/ar.po | 
+ | [cs](/f18/language/cs) | 9247 | 9247 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/cs_CZ.po | 
+ | [da](/f18/language/da) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/da_DK.po | 
+ | [de](/f18/language/de) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/de.po | 
+ | [el](/f18/language/el) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/el.po | 
+ | [fr](/f18/language/fr) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/fr.po | 
+ | [he](/f18/language/he) | 9399 | 9399 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/he_IL.po | 
+ | [hy](/f18/language/hy) | 9544 | 9544 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/hy.po | 
+ | [id](/f18/language/id) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/id_ID.po | 
+ | [it](/f18/language/it) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/it.po | 
+ | [nb_NO](/f18/language/nb_NO) | 9248 | 9248 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/nb_NO.po | 
+ | [pt_PT](/f18/language/pt_PT) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/pt_PT.po | 
+ | [ro](/f18/language/ro) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/ro_RO.po | 
+ | [sk](/f18/language/sk) | 9254 | 9254 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/sk_SK.po | 
+ | [sv](/f18/language/sv) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/sv.po | 
+ | [vi](/f18/language/vi) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/vi_VN.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/zh_CN.po | 
+ | [zh_Hant](/f18/language/zh_Hant) | 9565 | 9565 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/zh_TW.po | 
+ | [fi](/f18/language/fi) | 9544 | 9546 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/fi_FI.po | 
+ | [pt](/f18/language/pt) | 9544 | 9546 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/pt_BR.po | 
+ | [tr](/f18/language/tr) | 9543 | 9546 | 100.0 | /mnt/stockage/packages/f18/filezilla/locales/tr.po | 
+ | [ru](/f18/language/ru) | 9557 | 9565 | 99.9 | /mnt/stockage/packages/f18/filezilla/locales/ru.po | 
+ | [bg](/f18/language/bg) | 9536 | 9546 | 99.9 | /mnt/stockage/packages/f18/filezilla/locales/bg_BG.po | 
+ | [sr](/f18/language/sr) | 9128 | 9145 | 99.8 | /mnt/stockage/packages/f18/filezilla/locales/sr.po | 
+ | [eu](/f18/language/eu) | 19056 | 19092 | 99.8 | /mnt/stockage/packages/f18/filezilla/locales/eu.po/mnt/stockage/packages/f18/filezilla/locales/eu_ES.po | 
+ | [an](/f18/language/an) | 9544 | 9565 | 99.8 | /mnt/stockage/packages/f18/filezilla/locales/an.po | 
+ | [pl](/f18/language/pl) | 9493 | 9544 | 99.5 | /mnt/stockage/packages/f18/filezilla/locales/pl_PL.po | 
+ | [gl](/f18/language/gl) | 9254 | 9366 | 98.8 | /mnt/stockage/packages/f18/filezilla/locales/gl_ES.po | 
+ | [ja](/f18/language/ja) | 9254 | 9366 | 98.8 | /mnt/stockage/packages/f18/filezilla/locales/ja_JP.po | 
+ | [sl](/f18/language/sl) | 9052 | 9190 | 98.5 | /mnt/stockage/packages/f18/filezilla/locales/sl_SI.po | 
+ | [ko](/f18/language/ko) | 9112 | 9254 | 98.5 | /mnt/stockage/packages/f18/filezilla/locales/ko_KR.po | 
+ | [nn](/f18/language/nn) | 9371 | 9546 | 98.2 | /mnt/stockage/packages/f18/filezilla/locales/nn_NO.po | 
+ | [es](/f18/language/es) | 9141 | 9565 | 95.6 | /mnt/stockage/packages/f18/filezilla/locales/es.po | 
+ | [lt](/f18/language/lt) | 9122 | 9546 | 95.6 | /mnt/stockage/packages/f18/filezilla/locales/lt_LT.po | 
+ | [nl](/f18/language/nl) | 9104 | 9546 | 95.4 | /mnt/stockage/packages/f18/filezilla/locales/nl.po | 
+ | [hr](/f18/language/hr) | 8270 | 9102 | 90.9 | /mnt/stockage/packages/f18/filezilla/locales/hr.po | 
+ | [ca](/f18/language/ca) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f18/filezilla/locales/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 8149 | 9102 | 89.5 | /mnt/stockage/packages/f18/filezilla/locales/ca_ES@valencia.po | 
+ | [fa](/f18/language/fa) | 7788 | 9102 | 85.6 | /mnt/stockage/packages/f18/filezilla/locales/fa_IR.po | 
+ | [et](/f18/language/et) | 7976 | 9394 | 84.9 | /mnt/stockage/packages/f18/filezilla/locales/et_EE.po | 
+ | [hu](/f18/language/hu) | 7609 | 9366 | 81.2 | /mnt/stockage/packages/f18/filezilla/locales/hu_HU.po | 
+ | [th](/f18/language/th) | 7565 | 9366 | 80.8 | /mnt/stockage/packages/f18/filezilla/locales/th_TH.po | 
+ | [uk](/f18/language/uk) | 6781 | 9366 | 72.4 | /mnt/stockage/packages/f18/filezilla/locales/uk_UA.po | 
+ | [oc](/f18/language/oc) | 5976 | 9102 | 65.7 | /mnt/stockage/packages/f18/filezilla/locales/oc.po | 
+ | [lv](/f18/language/lv) | 5466 | 9366 | 58.4 | /mnt/stockage/packages/f18/filezilla/locales/lv_LV.po | 
+ | [mk](/f18/language/mk) | 4595 | 9102 | 50.5 | /mnt/stockage/packages/f18/filezilla/locales/mk_MK.po | 
+ | [ne](/f18/language/ne) | 3324 | 9102 | 36.5 | /mnt/stockage/packages/f18/filezilla/locales/ne.po | 
+ | [is](/f18/language/is) | 2101 | 9190 | 22.9 | /mnt/stockage/packages/f18/filezilla/locales/is.po | 
+ | [ky](/f18/language/ky) | 1472 | 9399 | 15.7 | /mnt/stockage/packages/f18/filezilla/locales/ky.po | 
+ | [ka](/f18/language/ka) | 1237 | 9102 | 13.6 | /mnt/stockage/packages/f18/filezilla/locales/ka.po | 
+ | [ku](/f18/language/ku) | 895 | 9366 | 9.6 | /mnt/stockage/packages/f18/filezilla/locales/ku.po | 
+ | [km](/f18/language/km) | 85 | 9102 | 0.9 | /mnt/stockage/packages/f18/filezilla/locales/km_KH.po | 
 {.sortable}
 
 

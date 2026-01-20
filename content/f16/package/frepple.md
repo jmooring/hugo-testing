@@ -18,10 +18,10 @@ The package frepple (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 1492 | 1742 | 85.6 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/djangojs.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 1487 | 1742 | 85.4 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1163 | 1742 | 66.8 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 297 | 1742 | 17.0 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
+ | [fr](/f16/language/fr) | 1492 | 1742 | 85.6 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/fr/LC_MESSAGES/djangojs.po | 
+ | [nl](/f16/language/nl) | 1487 | 1742 | 85.4 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/nl/LC_MESSAGES/djangojs.po | 
+ | [it](/f16/language/it) | 1163 | 1742 | 66.8 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/it/LC_MESSAGES/djangojs.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 297 | 1742 | 17.0 | /mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/django.po/mnt/stockage/packages/f16/frepple/contrib/django/freppledb/locale/zh_TW/LC_MESSAGES/djangojs.po | 
 {.sortable}
 
 

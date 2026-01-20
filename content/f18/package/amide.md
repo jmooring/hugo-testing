@@ -18,8 +18,8 @@ The package amide (version 1.0.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f18/language/es.md" >}}) | 8511 | 9542 | 89.2 | /mnt/stockage/packages/f18/amide/help/es/es.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 575 | 5576 | 10.3 | /mnt/stockage/packages/f18/amide/po/zh_CN.po | 
+ | [es](/f18/language/es) | 8511 | 9542 | 89.2 | /mnt/stockage/packages/f18/amide/help/es/es.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 575 | 5576 | 10.3 | /mnt/stockage/packages/f18/amide/po/zh_CN.po | 
 {.sortable}
 
 

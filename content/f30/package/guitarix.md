@@ -18,9 +18,9 @@ The package guitarix (version 0.37.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 2718 | 2718 | 100.0 | /mnt/stockage/packages/f30/guitarix/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 743 | 2084 | 35.7 | /mnt/stockage/packages/f30/guitarix/po/it.po | 
- | [es]({{< ref "/f30/language/es.md" >}}) | 742 | 2084 | 35.6 | /mnt/stockage/packages/f30/guitarix/po/es.po | 
+ | [fr](/f30/language/fr) | 2718 | 2718 | 100.0 | /mnt/stockage/packages/f30/guitarix/po/fr.po | 
+ | [it](/f30/language/it) | 743 | 2084 | 35.7 | /mnt/stockage/packages/f30/guitarix/po/it.po | 
+ | [es](/f30/language/es) | 742 | 2084 | 35.6 | /mnt/stockage/packages/f30/guitarix/po/es.po | 
 {.sortable}
 
 

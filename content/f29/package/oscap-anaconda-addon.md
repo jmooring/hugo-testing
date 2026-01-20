@@ -18,17 +18,17 @@ The package oscap-anaconda-addon (version 1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 337 | 391 | 86.2 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/uk.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/ca.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/cs.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/es.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/fr.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/pl.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/pt_BR.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/sr.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 158 | 391 | 40.4 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/hu.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 77 | 391 | 19.7 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/pt.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 11 | 391 | 2.8 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/ja.po | 
+ | [uk](/f29/language/uk) | 337 | 391 | 86.2 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/uk.po | 
+ | [ca](/f29/language/ca) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/ca.po | 
+ | [cs](/f29/language/cs) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/cs.po | 
+ | [es](/f29/language/es) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/es.po | 
+ | [fr](/f29/language/fr) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/fr.po | 
+ | [pl](/f29/language/pl) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/pl.po | 
+ | [pt_BR](/f29/language/pt_BR) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/pt_BR.po | 
+ | [sr](/f29/language/sr) | 166 | 391 | 42.5 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/sr.po | 
+ | [hu](/f29/language/hu) | 158 | 391 | 40.4 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/hu.po | 
+ | [pt](/f29/language/pt) | 77 | 391 | 19.7 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/pt.po | 
+ | [ja](/f29/language/ja) | 11 | 391 | 2.8 | /mnt/stockage/packages/f29/oscap-anaconda-addon/po/ja.po | 
 {.sortable}
 
 

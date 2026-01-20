@@ -18,7 +18,7 @@ The package gmixer (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 39 | 51 | 76.5 | /mnt/stockage/packages/f11/gmixer/po/fr.po | 
+ | [fr](/f11/language/fr) | 39 | 51 | 76.5 | /mnt/stockage/packages/f11/gmixer/po/fr.po | 
 {.sortable}
 
 

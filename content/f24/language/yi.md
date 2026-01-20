@@ -41,47 +41,47 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgnomecanvas]({{< ref "/f24/package/libgnomecanvas.md" >}}) | 339 | 357 | 95.0 | Yiddish <raphael@cs.uky.edu> | 
- | [libbonobo]({{< ref "/f24/package/libbonobo.md" >}}) | 460 | 524 | 87.8 | Yiddish <raphael@cs.uky.edu> | 
- | [libbonoboui]({{< ref "/f24/package/libbonoboui.md" >}}) | 282 | 360 | 78.3 | Yiddish <raphael@cs.uky.edu> | 
- | [gdk-pixbuf2]({{< ref "/f24/package/gdk-pixbuf2.md" >}}) | 792 | 1348 | 58.8 | None <> | 
- | [mingw-gdk-pixbuf]({{< ref "/f24/package/mingw-gdk-pixbuf.md" >}}) | 792 | 1348 | 58.8 | None <> | 
- | [gtk2]({{< ref "/f24/package/gtk2.md" >}}) | 5223 | 13704 | 38.1 | None <> | 
- | [mingw-gtk2]({{< ref "/f24/package/mingw-gtk2.md" >}}) | 5223 | 13704 | 38.1 | None <> | 
- | [gtk3]({{< ref "/f24/package/gtk3.md" >}}) | 3879 | 11853 | 32.7 | None <> | 
- | [mingw-gtk3]({{< ref "/f24/package/mingw-gtk3.md" >}}) | 3879 | 11853 | 32.7 | None <> | 
- | [libgnome]({{< ref "/f24/package/libgnome.md" >}}) | 401 | 1407 | 28.5 | Yiddish <raphael@cs.uky.edu> | 
- | [gnome-vfs2]({{< ref "/f24/package/gnome-vfs2.md" >}}) | 209 | 1282 | 16.3 | Yiddish <raphael@cs.uky.edu> | 
- | [glib2]({{< ref "/f24/package/glib2.md" >}}) | 688 | 4777 | 14.4 | Yiddish <raphael@cs.uky.edu> | 
- | [mingw-glib2]({{< ref "/f24/package/mingw-glib2.md" >}}) | 688 | 4777 | 14.4 | Yiddish <raphael@cs.uky.edu> | 
- | [atk]({{< ref "/f24/package/atk.md" >}}) | 31 | 375 | 8.3 | Yiddish <raphael@cs.uky.edu> | 
- | [mingw-atk]({{< ref "/f24/package/mingw-atk.md" >}}) | 31 | 375 | 8.3 | Yiddish <raphael@cs.uky.edu> | 
- | [glade2]({{< ref "/f24/package/glade2.md" >}}) | 399 | 5840 | 6.8 | Yiddish <> | 
- | [mintmenu]({{< ref "/f24/package/mintmenu.md" >}}) | 69 | 1987 | 3.5 | Yiddish <yi@li.org> | 
- | [libgnomeui]({{< ref "/f24/package/libgnomeui.md" >}}) | 40 | 1419 | 2.8 | Yiddish <raphael@cs.uky.edu> | 
- | [librfm]({{< ref "/f24/package/librfm.md" >}}) | 49 | 2397 | 2.0 | Yiddish <raphael@cs.uky.edu> | 
- | [mate-panel]({{< ref "/f24/package/mate-panel.md" >}}) | 54 | 4387 | 1.2 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
- | [isomaster]({{< ref "/f24/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [asunder]({{< ref "/f24/package/asunder.md" >}}) | 4 | 480 | 0.8 | http://littlesvr.ca/ostd/ | 
- | [elementary]({{< ref "/f24/package/elementary.md" >}}) | 1 | 146 | 0.7 | General | 
- | [cinnamon-translations]({{< ref "/f24/package/cinnamon-translations.md" >}}) | 38 | 5655 | 0.7 | Yiddish <yi@li.org> | 
- | [gnome-desktop]({{< ref "/f24/package/gnome-desktop.md" >}}) | 2 | 320 | 0.6 | Yiddish <raphael@cs.uky.edu> | 
- | [gnome-desktop3]({{< ref "/f24/package/gnome-desktop3.md" >}}) | 2 | 320 | 0.6 | Yiddish <raphael@cs.uky.edu> | 
- | [gimp]({{< ref "/f24/package/gimp.md" >}}) | 123 | 24473 | 0.5 | Yiddish <raphael@cs.uky.edu> | 
- | [nautilus]({{< ref "/f24/package/nautilus.md" >}}) | 31 | 6976 | 0.4 | Yiddish <raphael@cs.uky.edu> | 
- | [rodent]({{< ref "/f24/package/rodent.md" >}}) | 39 | 9634 | 0.4 | Yiddish <raphael@cs.uky.edu> | 
- | [caja]({{< ref "/f24/package/caja.md" >}}) | 27 | 9198 | 0.3 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
- | [gnome-mime-data]({{< ref "/f24/package/gnome-mime-data.md" >}}) | 1 | 827 | 0.1 | Yiddish <raphael@cs.uky.edu> | 
- | [clutter]({{< ref "/f24/package/clutter.md" >}}) | 1 | 3057 | 0.0 | None <> | 
- | [gourmet]({{< ref "/f24/package/gourmet.md" >}}) | 1 | 3939 | 0.0 | Yiddish <yi@li.org> | 
- | [GConf2]({{< ref "/f24/package/GConf2.md" >}}) | 1 | 3954 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
- | [mingw-GConf2]({{< ref "/f24/package/mingw-GConf2.md" >}}) | 1 | 3954 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
- | [calibre]({{< ref "/f24/package/calibre.md" >}}) | 3 | 152264 | 0.0 | Yiddish (http://www.transifex.com/calibre/calibre/language/yi/) | 
- | [cinnamon-desktop]({{< ref "/f24/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
- | [gnomebaker]({{< ref "/f24/package/gnomebaker.md" >}}) | 0 | 1186 | 0.0 | Yiddish <yi@li.org> | 
- | [libmatekbd]({{< ref "/f24/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
- | [mate-user-guide]({{< ref "/f24/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
- | [pmount]({{< ref "/f24/package/pmount.md" >}}) | 0 | 723 | 0.0 | Yiddish <yi@li.org> | 
+ | [libgnomecanvas](/f24/package/libgnomecanvas) | 339 | 357 | 95.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [libbonobo](/f24/package/libbonobo) | 460 | 524 | 87.8 | Yiddish <raphael@cs.uky.edu> | 
+ | [libbonoboui](/f24/package/libbonoboui) | 282 | 360 | 78.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [gdk-pixbuf2](/f24/package/gdk-pixbuf2) | 792 | 1348 | 58.8 | None <> | 
+ | [mingw-gdk-pixbuf](/f24/package/mingw-gdk-pixbuf) | 792 | 1348 | 58.8 | None <> | 
+ | [gtk2](/f24/package/gtk2) | 5223 | 13704 | 38.1 | None <> | 
+ | [mingw-gtk2](/f24/package/mingw-gtk2) | 5223 | 13704 | 38.1 | None <> | 
+ | [gtk3](/f24/package/gtk3) | 3879 | 11853 | 32.7 | None <> | 
+ | [mingw-gtk3](/f24/package/mingw-gtk3) | 3879 | 11853 | 32.7 | None <> | 
+ | [libgnome](/f24/package/libgnome) | 401 | 1407 | 28.5 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnome-vfs2](/f24/package/gnome-vfs2) | 209 | 1282 | 16.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [glib2](/f24/package/glib2) | 688 | 4777 | 14.4 | Yiddish <raphael@cs.uky.edu> | 
+ | [mingw-glib2](/f24/package/mingw-glib2) | 688 | 4777 | 14.4 | Yiddish <raphael@cs.uky.edu> | 
+ | [atk](/f24/package/atk) | 31 | 375 | 8.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [mingw-atk](/f24/package/mingw-atk) | 31 | 375 | 8.3 | Yiddish <raphael@cs.uky.edu> | 
+ | [glade2](/f24/package/glade2) | 399 | 5840 | 6.8 | Yiddish <> | 
+ | [mintmenu](/f24/package/mintmenu) | 69 | 1987 | 3.5 | Yiddish <yi@li.org> | 
+ | [libgnomeui](/f24/package/libgnomeui) | 40 | 1419 | 2.8 | Yiddish <raphael@cs.uky.edu> | 
+ | [librfm](/f24/package/librfm) | 49 | 2397 | 2.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [mate-panel](/f24/package/mate-panel) | 54 | 4387 | 1.2 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
+ | [isomaster](/f24/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [asunder](/f24/package/asunder) | 4 | 480 | 0.8 | http://littlesvr.ca/ostd/ | 
+ | [elementary](/f24/package/elementary) | 1 | 146 | 0.7 | General | 
+ | [cinnamon-translations](/f24/package/cinnamon-translations) | 38 | 5655 | 0.7 | Yiddish <yi@li.org> | 
+ | [gnome-desktop](/f24/package/gnome-desktop) | 2 | 320 | 0.6 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnome-desktop3](/f24/package/gnome-desktop3) | 2 | 320 | 0.6 | Yiddish <raphael@cs.uky.edu> | 
+ | [gimp](/f24/package/gimp) | 123 | 24473 | 0.5 | Yiddish <raphael@cs.uky.edu> | 
+ | [nautilus](/f24/package/nautilus) | 31 | 6976 | 0.4 | Yiddish <raphael@cs.uky.edu> | 
+ | [rodent](/f24/package/rodent) | 39 | 9634 | 0.4 | Yiddish <raphael@cs.uky.edu> | 
+ | [caja](/f24/package/caja) | 27 | 9198 | 0.3 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
+ | [gnome-mime-data](/f24/package/gnome-mime-data) | 1 | 827 | 0.1 | Yiddish <raphael@cs.uky.edu> | 
+ | [clutter](/f24/package/clutter) | 1 | 3057 | 0.0 | None <> | 
+ | [gourmet](/f24/package/gourmet) | 1 | 3939 | 0.0 | Yiddish <yi@li.org> | 
+ | [GConf2](/f24/package/GConf2) | 1 | 3954 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [mingw-GConf2](/f24/package/mingw-GConf2) | 1 | 3954 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [calibre](/f24/package/calibre) | 3 | 152264 | 0.0 | Yiddish (http://www.transifex.com/calibre/calibre/language/yi/) | 
+ | [cinnamon-desktop](/f24/package/cinnamon-desktop) | 0 | 231 | 0.0 | Yiddish <raphael@cs.uky.edu> | 
+ | [gnomebaker](/f24/package/gnomebaker) | 0 | 1186 | 0.0 | Yiddish <yi@li.org> | 
+ | [libmatekbd](/f24/package/libmatekbd) | 0 | 251 | 0.0 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
+ | [mate-user-guide](/f24/package/mate-user-guide) | 0 | 5 | 0.0 | Yiddish (http://www.transifex.com/mate/MATE/language/yi/) | 
+ | [pmount](/f24/package/pmount) | 0 | 723 | 0.0 | Yiddish <yi@li.org> | 
 {.sortable}
 
 

@@ -18,62 +18,62 @@ The package newt (version 0.52.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f9/language/ar.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ar.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/bg.po | 
- | [bn]({{< ref "/f9/language/bn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/bn.po | 
- | [bs]({{< ref "/f9/language/bs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/bs.po | 
- | [ca]({{< ref "/f9/language/ca.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ca.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/cs.po | 
- | [cy]({{< ref "/f9/language/cy.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/cy.po | 
- | [da]({{< ref "/f9/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/de.po | 
- | [dz]({{< ref "/f9/language/dz.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/dz.po | 
- | [el]({{< ref "/f9/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/el.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/eo.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/es.po | 
- | [et]({{< ref "/f9/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/et.po | 
- | [eu]({{< ref "/f9/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/eu.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/fi.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/fr.po | 
- | [ga]({{< ref "/f9/language/ga.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ga.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/gl.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/he.po | 
- | [hi]({{< ref "/f9/language/hi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/hi.po | 
- | [hr]({{< ref "/f9/language/hr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/hr.po | 
- | [hu]({{< ref "/f9/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/hu.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/id.po | 
- | [it]({{< ref "/f9/language/it.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/it.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ja.po | 
- | [km]({{< ref "/f9/language/km.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/km.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ko.po | 
- | [ku]({{< ref "/f9/language/ku.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ku.po | 
- | [lt]({{< ref "/f9/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/lt.po | 
- | [mg]({{< ref "/f9/language/mg.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/mg.po | 
- | [mk]({{< ref "/f9/language/mk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/mk.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/nb.po | 
- | [ne]({{< ref "/f9/language/ne.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ne.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/nl.po | 
- | [nn]({{< ref "/f9/language/nn.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/nn.po | 
- | [pa]({{< ref "/f9/language/pa.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pa.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pt.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pt_BR.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ro.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ru.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sk.po | 
- | [sl]({{< ref "/f9/language/sl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sl.po | 
- | [sq]({{< ref "/f9/language/sq.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sq.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sv.po | 
- | [ta]({{< ref "/f9/language/ta.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ta.po | 
- | [th]({{< ref "/f9/language/th.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/th.po | 
- | [tl]({{< ref "/f9/language/tl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/tl.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/tr.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/uk.po | 
- | [vi]({{< ref "/f9/language/vi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/vi.po | 
- | [wo]({{< ref "/f9/language/wo.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/wo.po | 
- | [xh]({{< ref "/f9/language/xh.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/xh.po | 
- | [zh_Hans]({{< ref "/f9/language/zh_Hans.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/zh_TW.po | 
+ | [ar](/f9/language/ar) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ar.po | 
+ | [bg](/f9/language/bg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/bg.po | 
+ | [bn](/f9/language/bn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/bn.po | 
+ | [bs](/f9/language/bs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/bs.po | 
+ | [ca](/f9/language/ca) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ca.po | 
+ | [cs](/f9/language/cs) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/cs.po | 
+ | [cy](/f9/language/cy) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/cy.po | 
+ | [da](/f9/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/da.po | 
+ | [de](/f9/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/de.po | 
+ | [dz](/f9/language/dz) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/dz.po | 
+ | [el](/f9/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/el.po | 
+ | [eo](/f9/language/eo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/eo.po | 
+ | [es](/f9/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/es.po | 
+ | [et](/f9/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/et.po | 
+ | [eu](/f9/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/eu.po | 
+ | [fi](/f9/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/fi.po | 
+ | [fr](/f9/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/fr.po | 
+ | [ga](/f9/language/ga) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ga.po | 
+ | [gl](/f9/language/gl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/gl.po | 
+ | [he](/f9/language/he) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/he.po | 
+ | [hi](/f9/language/hi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/hi.po | 
+ | [hr](/f9/language/hr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/hr.po | 
+ | [hu](/f9/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/hu.po | 
+ | [id](/f9/language/id) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/id.po | 
+ | [it](/f9/language/it) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/it.po | 
+ | [ja](/f9/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ja.po | 
+ | [km](/f9/language/km) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/km.po | 
+ | [ko](/f9/language/ko) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ko.po | 
+ | [ku](/f9/language/ku) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ku.po | 
+ | [lt](/f9/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/lt.po | 
+ | [mg](/f9/language/mg) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/mg.po | 
+ | [mk](/f9/language/mk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/mk.po | 
+ | [nb_NO](/f9/language/nb_NO) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/nb.po | 
+ | [ne](/f9/language/ne) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ne.po | 
+ | [nl](/f9/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/nl.po | 
+ | [nn](/f9/language/nn) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/nn.po | 
+ | [pa](/f9/language/pa) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pa.po | 
+ | [pl](/f9/language/pl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pl.po | 
+ | [pt](/f9/language/pt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pt.po | 
+ | [pt_BR](/f9/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/pt_BR.po | 
+ | [ro](/f9/language/ro) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ro.po | 
+ | [ru](/f9/language/ru) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ru.po | 
+ | [sk](/f9/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sk.po | 
+ | [sl](/f9/language/sl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sl.po | 
+ | [sq](/f9/language/sq) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sq.po | 
+ | [sv](/f9/language/sv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/sv.po | 
+ | [ta](/f9/language/ta) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/ta.po | 
+ | [th](/f9/language/th) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/th.po | 
+ | [tl](/f9/language/tl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/tl.po | 
+ | [tr](/f9/language/tr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/tr.po | 
+ | [uk](/f9/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/uk.po | 
+ | [vi](/f9/language/vi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/vi.po | 
+ | [wo](/f9/language/wo) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/wo.po | 
+ | [xh](/f9/language/xh) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/xh.po | 
+ | [zh_Hans](/f9/language/zh_Hans) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/zh_CN.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 4 | 4 | 100.0 | /mnt/stockage/packages/f9/newt/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package python-oslo-messaging (version 4.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-error.po/mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-info.po/mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-warning.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 13 | 13 | 100.0 | /mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/es/LC_MESSAGES/oslo_messaging-log-error.po | 
+ | [en_GB](/f24/language/en_GB) | 26 | 26 | 100.0 | /mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-error.po/mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-info.po/mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/en_GB/LC_MESSAGES/oslo_messaging-log-warning.po | 
+ | [es](/f24/language/es) | 13 | 13 | 100.0 | /mnt/stockage/packages/f24/python-oslo-messaging/oslo_messaging/locale/es/LC_MESSAGES/oslo_messaging-log-error.po | 
 {.sortable}
 
 

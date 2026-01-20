@@ -18,7 +18,7 @@ The package gst-vosk (version 0.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 23 | 23 | 100.0 | /mnt/stockage/packages/f42/gst-vosk/po/fr.po | 
+ | [fr](/f42/language/fr) | 23 | 23 | 100.0 | /mnt/stockage/packages/f42/gst-vosk/po/fr.po | 
 {.sortable}
 
 

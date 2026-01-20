@@ -18,7 +18,7 @@ The package isight-firmware-tools (version 1.0.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f11/isight-firmware-tools/po/fr_FR.po | 
+ | [fr](/f11/language/fr) | 279 | 279 | 100.0 | /mnt/stockage/packages/f11/isight-firmware-tools/po/fr_FR.po | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package ddccontrol-db (version 20061014):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f20/language/es.md" >}}) | 393 | 393 | 100.0 | /mnt/stockage/packages/f20/ddccontrol-db/po/es.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 379 | 379 | 100.0 | /mnt/stockage/packages/f20/ddccontrol-db/po/fr.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 367 | 379 | 96.8 | /mnt/stockage/packages/f20/ddccontrol-db/po/pl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 303 | 379 | 79.9 | /mnt/stockage/packages/f20/ddccontrol-db/po/ru.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 293 | 379 | 77.3 | /mnt/stockage/packages/f20/ddccontrol-db/po/zh_CN.po | 
+ | [es](/f20/language/es) | 393 | 393 | 100.0 | /mnt/stockage/packages/f20/ddccontrol-db/po/es.po | 
+ | [fr](/f20/language/fr) | 379 | 379 | 100.0 | /mnt/stockage/packages/f20/ddccontrol-db/po/fr.po | 
+ | [pl](/f20/language/pl) | 367 | 379 | 96.8 | /mnt/stockage/packages/f20/ddccontrol-db/po/pl.po | 
+ | [ru](/f20/language/ru) | 303 | 379 | 79.9 | /mnt/stockage/packages/f20/ddccontrol-db/po/ru.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 293 | 379 | 77.3 | /mnt/stockage/packages/f20/ddccontrol-db/po/zh_CN.po | 
 {.sortable}
 
 

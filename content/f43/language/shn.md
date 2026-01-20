@@ -45,17 +45,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f43/package/slick-greeter.md" >}}) | 60 | 216 | 27.8 | Shan <shn@li.org> | 
- | [shutter]({{< ref "/f43/package/shutter.md" >}}) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
- | [simple-scan]({{< ref "/f43/package/simple-scan.md" >}}) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
- | [cinnamon-translations]({{< ref "/f43/package/cinnamon-translations.md" >}}) | 48 | 19315 | 0.2 | Shan <shn@li.org> | 
- | [remmina]({{< ref "/f43/package/remmina.md" >}}) | 3 | 5407 | 0.1 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
- | [deja-dup]({{< ref "/f43/package/deja-dup.md" >}}) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
- | [lightdm]({{< ref "/f43/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
- | [pyhoca-gui]({{< ref "/f43/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f43/package/python-django-mailman3.md" >}}) | 0 | 467 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f43/package/python-hyperkitty.md" >}}) | 0 | 937 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f43/package/python-postorius.md" >}}) | 0 | 5165 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f43/package/slick-greeter) | 60 | 216 | 27.8 | Shan <shn@li.org> | 
+ | [shutter](/f43/package/shutter) | 361 | 2614 | 13.8 | Shan <shn@li.org> | 
+ | [simple-scan](/f43/package/simple-scan) | 4 | 589 | 0.7 | Shan <shn@li.org> | 
+ | [cinnamon-translations](/f43/package/cinnamon-translations) | 48 | 19315 | 0.2 | Shan <shn@li.org> | 
+ | [remmina](/f43/package/remmina) | 3 | 5407 | 0.1 | Shan <https://hosted.weblate.org/projects/remmina/remmina/shn/> | 
+ | [deja-dup](/f43/package/deja-dup) | 0 | 1623 | 0.0 | Shan <shn@li.org> | 
+ | [lightdm](/f43/package/lightdm) | 0 | 163 | 0.0 | Shan <shn@li.org> | 
+ | [pyhoca-gui](/f43/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f43/package/python-django-mailman3) | 0 | 467 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f43/package/python-hyperkitty) | 0 | 937 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f43/package/python-postorius) | 0 | 5165 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

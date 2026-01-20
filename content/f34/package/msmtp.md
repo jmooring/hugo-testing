@@ -18,13 +18,13 @@ The package msmtp (version 1.8.20):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f34/language/eo.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/eo.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/fr.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/sr.po | 
- | [uk]({{< ref "/f34/language/uk.md" >}}) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/uk.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 1761 | 1829 | 96.3 | /mnt/stockage/packages/f34/msmtp/po/pt_BR.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 1756 | 1829 | 96.0 | /mnt/stockage/packages/f34/msmtp/po/de.po | 
- | [ta]({{< ref "/f34/language/ta.md" >}}) | 407 | 1829 | 22.3 | /mnt/stockage/packages/f34/msmtp/po/ta.po | 
+ | [eo](/f34/language/eo) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/eo.po | 
+ | [fr](/f34/language/fr) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/fr.po | 
+ | [sr](/f34/language/sr) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/sr.po | 
+ | [uk](/f34/language/uk) | 1829 | 1829 | 100.0 | /mnt/stockage/packages/f34/msmtp/po/uk.po | 
+ | [pt_BR](/f34/language/pt_BR) | 1761 | 1829 | 96.3 | /mnt/stockage/packages/f34/msmtp/po/pt_BR.po | 
+ | [de](/f34/language/de) | 1756 | 1829 | 96.0 | /mnt/stockage/packages/f34/msmtp/po/de.po | 
+ | [ta](/f34/language/ta) | 407 | 1829 | 22.3 | /mnt/stockage/packages/f34/msmtp/po/ta.po | 
 {.sortable}
 
 

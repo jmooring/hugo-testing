@@ -18,15 +18,15 @@ The package zvbi (version 0.2.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 664 | 664 | 100.0 | /mnt/stockage/packages/f41/zvbi/po/ka.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 659 | 664 | 99.2 | /mnt/stockage/packages/f41/zvbi/po/de.po | 
- | [error]({{< ref "/f41/language/error.md" >}}) | 1318 | 1328 | 99.2 | /mnt/stockage/packages/f41/zvbi/po/en@quot.po/mnt/stockage/packages/f41/zvbi/po/en@boldquot.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 619 | 664 | 93.2 | /mnt/stockage/packages/f41/zvbi/po/nl.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 616 | 664 | 92.8 | /mnt/stockage/packages/f41/zvbi/po/fr.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 603 | 664 | 90.8 | /mnt/stockage/packages/f41/zvbi/po/it.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 558 | 664 | 84.0 | /mnt/stockage/packages/f41/zvbi/po/es.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 515 | 664 | 77.6 | /mnt/stockage/packages/f41/zvbi/po/pl.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 236 | 587 | 40.2 | /mnt/stockage/packages/f41/zvbi/po/sv.po | 
+ | [ka](/f41/language/ka) | 664 | 664 | 100.0 | /mnt/stockage/packages/f41/zvbi/po/ka.po | 
+ | [de](/f41/language/de) | 659 | 664 | 99.2 | /mnt/stockage/packages/f41/zvbi/po/de.po | 
+ | [error](/f41/language/error) | 1318 | 1328 | 99.2 | /mnt/stockage/packages/f41/zvbi/po/en@quot.po/mnt/stockage/packages/f41/zvbi/po/en@boldquot.po | 
+ | [nl](/f41/language/nl) | 619 | 664 | 93.2 | /mnt/stockage/packages/f41/zvbi/po/nl.po | 
+ | [fr](/f41/language/fr) | 616 | 664 | 92.8 | /mnt/stockage/packages/f41/zvbi/po/fr.po | 
+ | [it](/f41/language/it) | 603 | 664 | 90.8 | /mnt/stockage/packages/f41/zvbi/po/it.po | 
+ | [es](/f41/language/es) | 558 | 664 | 84.0 | /mnt/stockage/packages/f41/zvbi/po/es.po | 
+ | [pl](/f41/language/pl) | 515 | 664 | 77.6 | /mnt/stockage/packages/f41/zvbi/po/pl.po | 
+ | [sv](/f41/language/sv) | 236 | 587 | 40.2 | /mnt/stockage/packages/f41/zvbi/po/sv.po | 
 {.sortable}
 
 

@@ -18,43 +18,43 @@ The package radiotray (version 0.7.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/ca.po | 
- | [cs]({{< ref "/f31/language/cs.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/cs.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/de.po | 
- | [es_MX]({{< ref "/f31/language/es_MX.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/es_MX.po | 
- | [et]({{< ref "/f31/language/et.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/et.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/fr.po | 
- | [he]({{< ref "/f31/language/he.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/he.po | 
- | [hu]({{< ref "/f31/language/hu.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/hu.po | 
- | [it]({{< ref "/f31/language/it.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/it.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/ja.po | 
- | [pl]({{< ref "/f31/language/pl.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/pl.po | 
- | [pt]({{< ref "/f31/language/pt.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/pt.po | 
- | [ru]({{< ref "/f31/language/ru.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/ru.po | 
- | [tr]({{< ref "/f31/language/tr.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/tr.po | 
- | [uk]({{< ref "/f31/language/uk.md" >}}) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/uk.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/el.po | 
- | [es]({{< ref "/f31/language/es.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/es.po | 
- | [gl]({{< ref "/f31/language/gl.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/gl.po | 
- | [hr]({{< ref "/f31/language/hr.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/hr.po | 
- | [id]({{< ref "/f31/language/id.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/id.po | 
- | [ko]({{< ref "/f31/language/ko.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/ko.po | 
- | [lt]({{< ref "/f31/language/lt.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/lt.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/pt_BR.po | 
- | [ro]({{< ref "/f31/language/ro.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/ro.po | 
- | [sk]({{< ref "/f31/language/sk.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/sk.po | 
- | [sl]({{< ref "/f31/language/sl.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/sl.po | 
- | [zh_Hans]({{< ref "/f31/language/zh_Hans.md" >}}) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/zh_CN.po | 
- | [nl]({{< ref "/f31/language/nl.md" >}}) | 70 | 130 | 53.8 | /mnt/stockage/packages/f31/radiotray/po/nl.po | 
- | [fi]({{< ref "/f31/language/fi.md" >}}) | 61 | 130 | 46.9 | /mnt/stockage/packages/f31/radiotray/po/fi.po | 
- | [bg]({{< ref "/f31/language/bg.md" >}}) | 58 | 130 | 44.6 | /mnt/stockage/packages/f31/radiotray/po/bg.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 57 | 130 | 43.8 | /mnt/stockage/packages/f31/radiotray/po/zh_TW.po | 
- | [ar]({{< ref "/f31/language/ar.md" >}}) | 53 | 130 | 40.8 | /mnt/stockage/packages/f31/radiotray/po/ar.po | 
- | [si]({{< ref "/f31/language/si.md" >}}) | 26 | 130 | 20.0 | /mnt/stockage/packages/f31/radiotray/po/si.po | 
- | [sv]({{< ref "/f31/language/sv.md" >}}) | 26 | 130 | 20.0 | /mnt/stockage/packages/f31/radiotray/po/sv.po | 
- | [te]({{< ref "/f31/language/te.md" >}}) | 24 | 130 | 18.5 | /mnt/stockage/packages/f31/radiotray/po/te.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 23 | 130 | 17.7 | /mnt/stockage/packages/f31/radiotray/po/en_GB.po | 
- | [gu]({{< ref "/f31/language/gu.md" >}}) | 2 | 130 | 1.5 | /mnt/stockage/packages/f31/radiotray/po/gu.po | 
+ | [ca](/f31/language/ca) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/ca.po | 
+ | [cs](/f31/language/cs) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/cs.po | 
+ | [de](/f31/language/de) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/de.po | 
+ | [es_MX](/f31/language/es_MX) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/es_MX.po | 
+ | [et](/f31/language/et) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/et.po | 
+ | [fr](/f31/language/fr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/fr.po | 
+ | [he](/f31/language/he) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/he.po | 
+ | [hu](/f31/language/hu) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/hu.po | 
+ | [it](/f31/language/it) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/it.po | 
+ | [ja](/f31/language/ja) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/ja.po | 
+ | [pl](/f31/language/pl) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/pl.po | 
+ | [pt](/f31/language/pt) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/pt.po | 
+ | [ru](/f31/language/ru) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/ru.po | 
+ | [tr](/f31/language/tr) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/tr.po | 
+ | [uk](/f31/language/uk) | 130 | 130 | 100.0 | /mnt/stockage/packages/f31/radiotray/po/uk.po | 
+ | [el](/f31/language/el) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/el.po | 
+ | [es](/f31/language/es) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/es.po | 
+ | [gl](/f31/language/gl) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/gl.po | 
+ | [hr](/f31/language/hr) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/hr.po | 
+ | [id](/f31/language/id) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/id.po | 
+ | [ko](/f31/language/ko) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/ko.po | 
+ | [lt](/f31/language/lt) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/lt.po | 
+ | [pt_BR](/f31/language/pt_BR) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/pt_BR.po | 
+ | [ro](/f31/language/ro) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/ro.po | 
+ | [sk](/f31/language/sk) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/sk.po | 
+ | [sl](/f31/language/sl) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/sl.po | 
+ | [zh_Hans](/f31/language/zh_Hans) | 117 | 130 | 90.0 | /mnt/stockage/packages/f31/radiotray/po/zh_CN.po | 
+ | [nl](/f31/language/nl) | 70 | 130 | 53.8 | /mnt/stockage/packages/f31/radiotray/po/nl.po | 
+ | [fi](/f31/language/fi) | 61 | 130 | 46.9 | /mnt/stockage/packages/f31/radiotray/po/fi.po | 
+ | [bg](/f31/language/bg) | 58 | 130 | 44.6 | /mnt/stockage/packages/f31/radiotray/po/bg.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 57 | 130 | 43.8 | /mnt/stockage/packages/f31/radiotray/po/zh_TW.po | 
+ | [ar](/f31/language/ar) | 53 | 130 | 40.8 | /mnt/stockage/packages/f31/radiotray/po/ar.po | 
+ | [si](/f31/language/si) | 26 | 130 | 20.0 | /mnt/stockage/packages/f31/radiotray/po/si.po | 
+ | [sv](/f31/language/sv) | 26 | 130 | 20.0 | /mnt/stockage/packages/f31/radiotray/po/sv.po | 
+ | [te](/f31/language/te) | 24 | 130 | 18.5 | /mnt/stockage/packages/f31/radiotray/po/te.po | 
+ | [en_GB](/f31/language/en_GB) | 23 | 130 | 17.7 | /mnt/stockage/packages/f31/radiotray/po/en_GB.po | 
+ | [gu](/f31/language/gu) | 2 | 130 | 1.5 | /mnt/stockage/packages/f31/radiotray/po/gu.po | 
 {.sortable}
 
 

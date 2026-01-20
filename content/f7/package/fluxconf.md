@@ -18,8 +18,8 @@ The package fluxconf (version 0.9.9):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fi]({{< ref "/f7/language/fi.md" >}}) | 419 | 419 | 100.0 | /mnt/stockage/packages/f7/fluxconf/po/fi.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/fluxconf/po/fr.po | 
+ | [fi](/f7/language/fi) | 419 | 419 | 100.0 | /mnt/stockage/packages/f7/fluxconf/po/fi.po | 
+ | [fr](/f7/language/fr) | 0 | 0 | 0.0 | /mnt/stockage/packages/f7/fluxconf/po/fr.po | 
 {.sortable}
 
 

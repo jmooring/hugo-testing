@@ -18,9 +18,9 @@ The package invulgotracker (version 1.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f16/language/ar.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f16/invulgotracker/po/ar.po | 
- | [es_CL]({{< ref "/f16/language/es_CL.md" >}}) | 410 | 410 | 100.0 | /mnt/stockage/packages/f16/invulgotracker/po/es_CL.po | 
- | [da]({{< ref "/f16/language/da.md" >}}) | 403 | 410 | 98.3 | /mnt/stockage/packages/f16/invulgotracker/po/da.po | 
+ | [ar](/f16/language/ar) | 410 | 410 | 100.0 | /mnt/stockage/packages/f16/invulgotracker/po/ar.po | 
+ | [es_CL](/f16/language/es_CL) | 410 | 410 | 100.0 | /mnt/stockage/packages/f16/invulgotracker/po/es_CL.po | 
+ | [da](/f16/language/da) | 403 | 410 | 98.3 | /mnt/stockage/packages/f16/invulgotracker/po/da.po | 
 {.sortable}
 
 

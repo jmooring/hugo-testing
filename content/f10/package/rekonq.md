@@ -18,19 +18,19 @@ The package rekonq (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_en_GB.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_pt.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_sv.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_uk.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 810 | 813 | 99.6 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_da.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 735 | 813 | 90.4 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_es.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 735 | 813 | 90.4 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_sr.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 720 | 813 | 88.6 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_ru.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 711 | 813 | 87.5 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_de.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 639 | 813 | 78.6 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_fr.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 635 | 813 | 78.1 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_it.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 612 | 813 | 75.3 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_pt_BR.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 451 | 813 | 55.5 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_tr.po | 
+ | [en_GB](/f10/language/en_GB) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_en_GB.po | 
+ | [pt](/f10/language/pt) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_pt.po | 
+ | [sv](/f10/language/sv) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_sv.po | 
+ | [uk](/f10/language/uk) | 813 | 813 | 100.0 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_uk.po | 
+ | [da](/f10/language/da) | 810 | 813 | 99.6 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_da.po | 
+ | [es](/f10/language/es) | 735 | 813 | 90.4 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_es.po | 
+ | [sr](/f10/language/sr) | 735 | 813 | 90.4 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_sr.po | 
+ | [ru](/f10/language/ru) | 720 | 813 | 88.6 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_ru.po | 
+ | [de](/f10/language/de) | 711 | 813 | 87.5 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_de.po | 
+ | [fr](/f10/language/fr) | 639 | 813 | 78.6 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_fr.po | 
+ | [it](/f10/language/it) | 635 | 813 | 78.1 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_it.po | 
+ | [pt_BR](/f10/language/pt_BR) | 612 | 813 | 75.3 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_pt_BR.po | 
+ | [tr](/f10/language/tr) | 451 | 813 | 55.5 | /mnt/stockage/packages/f10/rekonq/i18n/rekonq_tr.po | 
 {.sortable}
 
 

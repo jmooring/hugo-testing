@@ -18,14 +18,14 @@ The package sugar-turtleart (version 23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 78 | 78 | 100.0 | /mnt/stockage/packages/f10/sugar-turtleart/po/ru.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 76 | 78 | 97.4 | /mnt/stockage/packages/f10/sugar-turtleart/po/es.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 76 | 78 | 97.4 | /mnt/stockage/packages/f10/sugar-turtleart/po/pt.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 75 | 78 | 96.2 | /mnt/stockage/packages/f10/sugar-turtleart/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 73 | 76 | 96.1 | /mnt/stockage/packages/f10/sugar-turtleart/po/fr.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 70 | 78 | 89.7 | /mnt/stockage/packages/f10/sugar-turtleart/po/tr.po | 
- | [mn]({{< ref "/f10/language/mn.md" >}}) | 68 | 76 | 89.5 | /mnt/stockage/packages/f10/sugar-turtleart/po/mn.po | 
- | [en]({{< ref "/f10/language/en.md" >}}) | 2 | 78 | 2.6 | /mnt/stockage/packages/f10/sugar-turtleart/po/en.po | 
+ | [ru](/f10/language/ru) | 78 | 78 | 100.0 | /mnt/stockage/packages/f10/sugar-turtleart/po/ru.po | 
+ | [es](/f10/language/es) | 76 | 78 | 97.4 | /mnt/stockage/packages/f10/sugar-turtleart/po/es.po | 
+ | [pt](/f10/language/pt) | 76 | 78 | 97.4 | /mnt/stockage/packages/f10/sugar-turtleart/po/pt.po | 
+ | [fi](/f10/language/fi) | 75 | 78 | 96.2 | /mnt/stockage/packages/f10/sugar-turtleart/po/fi.po | 
+ | [fr](/f10/language/fr) | 73 | 76 | 96.1 | /mnt/stockage/packages/f10/sugar-turtleart/po/fr.po | 
+ | [tr](/f10/language/tr) | 70 | 78 | 89.7 | /mnt/stockage/packages/f10/sugar-turtleart/po/tr.po | 
+ | [mn](/f10/language/mn) | 68 | 76 | 89.5 | /mnt/stockage/packages/f10/sugar-turtleart/po/mn.po | 
+ | [en](/f10/language/en) | 2 | 78 | 2.6 | /mnt/stockage/packages/f10/sugar-turtleart/po/en.po | 
 {.sortable}
 
 

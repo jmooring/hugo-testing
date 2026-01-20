@@ -38,19 +38,19 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgnomecanvas]({{< ref "/f11/package/libgnomecanvas.md" >}}) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
- | [atk]({{< ref "/f11/package/atk.md" >}}) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-atk]({{< ref "/f11/package/mingw32-atk.md" >}}) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
- | [poedit]({{< ref "/f11/package/poedit.md" >}}) | 1017 | 1162 | 87.5 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libgnomeui]({{< ref "/f11/package/libgnomeui.md" >}}) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [stardict]({{< ref "/f11/package/stardict.md" >}}) | 891 | 2440 | 36.5 | tt <tatarish.l10n@gmail.com> | 
- | [gimp]({{< ref "/f11/package/gimp.md" >}}) | 1781 | 9929 | 17.9 | Tatarish <tatarish.l10n@gmail.com> | 
- | [glib2]({{< ref "/f11/package/glib2.md" >}}) | 310 | 2350 | 13.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-glib2]({{< ref "/f11/package/mingw32-glib2.md" >}}) | 310 | 2350 | 13.2 | Tatarish <tatarish.l10n@gmail.com> | 
- | [libgnome]({{< ref "/f11/package/libgnome.md" >}}) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
- | [gtk2]({{< ref "/f11/package/gtk2.md" >}}) | 1142 | 12928 | 8.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [mingw32-gtk2]({{< ref "/f11/package/mingw32-gtk2.md" >}}) | 1142 | 12928 | 8.8 | Tatarish <tatarish.l10n@gmail.com> | 
- | [iso-codes]({{< ref "/f11/package/iso-codes.md" >}}) | 1066 | 12287 | 8.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnomecanvas](/f11/package/libgnomecanvas) | 357 | 357 | 100.0 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [atk](/f11/package/atk) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-atk](/f11/package/mingw32-atk) | 359 | 375 | 95.7 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [poedit](/f11/package/poedit) | 1017 | 1162 | 87.5 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnomeui](/f11/package/libgnomeui) | 536 | 1419 | 37.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [stardict](/f11/package/stardict) | 891 | 2440 | 36.5 | tt <tatarish.l10n@gmail.com> | 
+ | [gimp](/f11/package/gimp) | 1781 | 9929 | 17.9 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [glib2](/f11/package/glib2) | 310 | 2350 | 13.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-glib2](/f11/package/mingw32-glib2) | 310 | 2350 | 13.2 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [libgnome](/f11/package/libgnome) | 156 | 1494 | 10.4 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [gtk2](/f11/package/gtk2) | 1142 | 12928 | 8.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [mingw32-gtk2](/f11/package/mingw32-gtk2) | 1142 | 12928 | 8.8 | Tatarish <tatarish.l10n@gmail.com> | 
+ | [iso-codes](/f11/package/iso-codes) | 1066 | 12287 | 8.7 | Tatarish <tatarish.l10n@gmail.com> | 
 {.sortable}
 
 

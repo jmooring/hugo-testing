@@ -38,112 +38,112 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-nikola]({{< ref "/f38/package/python-nikola.md" >}}) | 94 | 94 | 100.0 | Maori (http://app.transifex.com/ralsina/nikola/language/mi/) | 
- | [sugar-distance]({{< ref "/f38/package/sugar-distance.md" >}}) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f38/package/sugar-implode.md" >}}) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f38/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f38/package/sugar-stopwatch.md" >}}) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f38/package/sugar-story.md" >}}) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f38/package/sugar-turtleart.md" >}}) | 1368 | 1459 | 93.8 | LANGUAGE <walter@sugarlabs.org> | 
- | [sugar-dimensions]({{< ref "/f38/package/sugar-dimensions.md" >}}) | 165 | 176 | 93.8 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f38/package/sugar-calculator.md" >}}) | 774 | 866 | 89.4 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f38/package/sugar-memorize.md" >}}) | 114 | 142 | 80.3 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f38/package/sugar-abacus.md" >}}) | 22 | 28 | 78.6 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f38/package/sugar-log.md" >}}) | 77 | 98 | 78.6 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f38/package/sugar-view-slides.md" >}}) | 43 | 60 | 71.7 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f38/package/sugar-read.md" >}}) | 98 | 137 | 71.5 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f38/package/sugar-write.md" >}}) | 86 | 121 | 71.1 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f38/package/sugar.md" >}}) | 1513 | 2305 | 65.6 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f38/package/sugar-speak.md" >}}) | 147 | 227 | 64.8 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f38/package/sugar-finance.md" >}}) | 162 | 258 | 62.8 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f38/package/sugar-physics.md" >}}) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f38/package/gdk-pixbuf2.md" >}}) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gdk-pixbuf]({{< ref "/f38/package/mingw-gdk-pixbuf.md" >}}) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [sugar-record]({{< ref "/f38/package/sugar-record.md" >}}) | 31 | 62 | 50.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f38/package/sugar-clock.md" >}}) | 29 | 66 | 43.9 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f38/package/sugar-chat.md" >}}) | 56 | 137 | 40.9 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f38/package/sugar-toolkit-gtk3.md" >}}) | 76 | 213 | 35.7 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f38/package/sugar-pippy.md" >}}) | 99 | 282 | 35.1 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f38/package/sugar-imageviewer.md" >}}) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f38/package/slick-greeter.md" >}}) | 55 | 216 | 25.5 | Maori <mi@li.org> | 
- | [sugar-browse]({{< ref "/f38/package/sugar-browse.md" >}}) | 82 | 334 | 24.6 | LANGUAGE <LL@li.org> | 
- | [mozo]({{< ref "/f38/package/mozo.md" >}}) | 7 | 46 | 15.2 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [gtk4]({{< ref "/f38/package/gtk4.md" >}}) | 211 | 2432 | 8.7 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gtk4]({{< ref "/f38/package/mingw-gtk4.md" >}}) | 211 | 2432 | 8.7 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gtk2]({{< ref "/f38/package/gtk2.md" >}}) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gtk2]({{< ref "/f38/package/mingw-gtk2.md" >}}) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-desktop3]({{< ref "/f38/package/gnome-desktop3.md" >}}) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
- | [libgnomeui]({{< ref "/f38/package/libgnomeui.md" >}}) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
- | [sugar-terminal]({{< ref "/f38/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [epiphany]({{< ref "/f38/package/epiphany.md" >}}) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mate-menu]({{< ref "/f38/package/mate-menu.md" >}}) | 11 | 308 | 3.6 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [nautilus]({{< ref "/f38/package/nautilus.md" >}}) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [iso-codes]({{< ref "/f38/package/iso-codes.md" >}}) | 449 | 15908 | 2.8 | Maori <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mi/> | 
- | [onboard]({{< ref "/f38/package/onboard.md" >}}) | 51 | 2318 | 2.2 | Maori <mi@li.org> | 
- | [caja]({{< ref "/f38/package/caja.md" >}}) | 188 | 9675 | 1.9 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-menus]({{< ref "/f38/package/mate-menus.md" >}}) | 2 | 103 | 1.9 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [gtk3]({{< ref "/f38/package/gtk3.md" >}}) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [mingw-gtk3]({{< ref "/f38/package/mingw-gtk3.md" >}}) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [engrampa]({{< ref "/f38/package/engrampa.md" >}}) | 35 | 2049 | 1.7 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [atril]({{< ref "/f38/package/atril.md" >}}) | 39 | 2326 | 1.7 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [gedit]({{< ref "/f38/package/gedit.md" >}}) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [gnome-session]({{< ref "/f38/package/gnome-session.md" >}}) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
- | [eom]({{< ref "/f38/package/eom.md" >}}) | 26 | 1779 | 1.5 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-session-manager]({{< ref "/f38/package/mate-session-manager.md" >}}) | 9 | 715 | 1.3 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-media]({{< ref "/f38/package/mate-media.md" >}}) | 3 | 239 | 1.3 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [isomaster]({{< ref "/f38/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [pluma]({{< ref "/f38/package/pluma.md" >}}) | 66 | 5707 | 1.2 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-system-monitor]({{< ref "/f38/package/mate-system-monitor.md" >}}) | 16 | 1558 | 1.0 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-control-center]({{< ref "/f38/package/mate-control-center.md" >}}) | 29 | 3331 | 0.9 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-polkit]({{< ref "/f38/package/mate-polkit.md" >}}) | 1 | 123 | 0.8 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [xed]({{< ref "/f38/package/xed.md" >}}) | 30 | 3759 | 0.8 | MATE Māori Team <maori@nzlinux.org.nz> | 
- | [mate-utils]({{< ref "/f38/package/mate-utils.md" >}}) | 56 | 7039 | 0.8 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-calc]({{< ref "/f38/package/mate-calc.md" >}}) | 12 | 1578 | 0.8 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [sugar-flipsticks]({{< ref "/f38/package/sugar-flipsticks.md" >}}) | 1 | 151 | 0.7 | LANGUAGE <LL@li.org> | 
- | [mate-terminal]({{< ref "/f38/package/mate-terminal.md" >}}) | 27 | 4719 | 0.6 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-user-admin]({{< ref "/f38/package/mate-user-admin.md" >}}) | 3 | 605 | 0.5 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [mate-panel]({{< ref "/f38/package/mate-panel.md" >}}) | 25 | 5557 | 0.4 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
- | [mate-sensors-applet]({{< ref "/f38/package/mate-sensors-applet.md" >}}) | 7 | 2222 | 0.3 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [mate-applets]({{< ref "/f38/package/mate-applets.md" >}}) | 28 | 11631 | 0.2 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [caja-actions]({{< ref "/f38/package/caja-actions.md" >}}) | 17 | 7082 | 0.2 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [mate-desktop]({{< ref "/f38/package/mate-desktop.md" >}}) | 4 | 2376 | 0.2 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [mate-power-manager]({{< ref "/f38/package/mate-power-manager.md" >}}) | 3 | 2460 | 0.1 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
- | [gnome-panel]({{< ref "/f38/package/gnome-panel.md" >}}) | 3 | 3520 | 0.1 | Māori <maori@nzlinux.org.nz> | 
- | [gedit-plugins]({{< ref "/f38/package/gedit-plugins.md" >}}) | 1 | 1205 | 0.1 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [calibre]({{< ref "/f38/package/calibre.md" >}}) | 31 | 170967 | 0.0 | Maori (http://www.transifex.com/calibre/calibre/language/mi/) | 
- | [bookworm]({{< ref "/f38/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [cinnamon-desktop]({{< ref "/f38/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Māori <maori@nzlinux.org.nz> | 
- | [cinnamon-translations]({{< ref "/f38/package/cinnamon-translations.md" >}}) | 0 | 187 | 0.0 | Māori <maori@nzlinux.org.nz> | 
- | [coin]({{< ref "/f38/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f38/package/dippi.md" >}}) | 0 | 1425 | 0.0 | none | 
- | [elementary-code]({{< ref "/f38/package/elementary-code.md" >}}) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-files]({{< ref "/f38/package/elementary-files.md" >}}) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-icon-theme]({{< ref "/f38/package/elementary-icon-theme.md" >}}) | 0 | 394 | 0.0 | none | 
- | [elementary-mail]({{< ref "/f38/package/elementary-mail.md" >}}) | 0 | 788 | 0.0 |  | 
- | [elementary-music]({{< ref "/f38/package/elementary-music.md" >}}) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
- | [elementary-notifications]({{< ref "/f38/package/elementary-notifications.md" >}}) | 0 | 44 | 0.0 | none | 
- | [gala]({{< ref "/f38/package/gala.md" >}}) | 0 | 249 | 0.0 | none | 
- | [gdm]({{< ref "/f38/package/gdm.md" >}}) | 0 | 650 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [granite]({{< ref "/f38/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [granite-7]({{< ref "/f38/package/granite-7.md" >}}) | 0 | 300 | 0.0 |  | 
- | [gucharmap]({{< ref "/f38/package/gucharmap.md" >}}) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [harvey]({{< ref "/f38/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [libgtop2]({{< ref "/f38/package/libgtop2.md" >}}) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libmatekbd]({{< ref "/f38/package/libmatekbd.md" >}}) | 0 | 308 | 0.0 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
- | [libwnck]({{< ref "/f38/package/libwnck.md" >}}) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [libwnck3]({{< ref "/f38/package/libwnck3.md" >}}) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
- | [lightdm]({{< ref "/f38/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Maori <mi@li.org> | 
- | [mate-themes]({{< ref "/f38/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Maori (http://app.transifex.com/mate/MATE/language/mi/) | 
- | [nutty]({{< ref "/f38/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f38/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pluma-plugins]({{< ref "/f38/package/pluma-plugins.md" >}}) | 0 | 624 | 0.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
- | [pyhoca-gui]({{< ref "/f38/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f38/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-hyperkitty]({{< ref "/f38/package/python-hyperkitty.md" >}}) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f38/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f38/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [wingpanel]({{< ref "/f38/package/wingpanel.md" >}}) | 0 | 16 | 0.0 | none | 
- | [zenity]({{< ref "/f38/package/zenity.md" >}}) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [python-nikola](/f38/package/python-nikola) | 94 | 94 | 100.0 | Maori (http://app.transifex.com/ralsina/nikola/language/mi/) | 
+ | [sugar-distance](/f38/package/sugar-distance) | 99 | 99 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f38/package/sugar-implode) | 77 | 77 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f38/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f38/package/sugar-stopwatch) | 5 | 5 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f38/package/sugar-story) | 24 | 24 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f38/package/sugar-turtleart) | 1368 | 1459 | 93.8 | LANGUAGE <walter@sugarlabs.org> | 
+ | [sugar-dimensions](/f38/package/sugar-dimensions) | 165 | 176 | 93.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f38/package/sugar-calculator) | 774 | 866 | 89.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f38/package/sugar-memorize) | 114 | 142 | 80.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f38/package/sugar-abacus) | 22 | 28 | 78.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f38/package/sugar-log) | 77 | 98 | 78.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f38/package/sugar-view-slides) | 43 | 60 | 71.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f38/package/sugar-read) | 98 | 137 | 71.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f38/package/sugar-write) | 86 | 121 | 71.1 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f38/package/sugar) | 1513 | 2305 | 65.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f38/package/sugar-speak) | 147 | 227 | 64.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f38/package/sugar-finance) | 162 | 258 | 62.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f38/package/sugar-physics) | 28 | 48 | 58.3 | LANGUAGE <LL@li.org> | 
+ | [gdk-pixbuf2](/f38/package/gdk-pixbuf2) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gdk-pixbuf](/f38/package/mingw-gdk-pixbuf) | 741 | 1348 | 55.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [sugar-record](/f38/package/sugar-record) | 31 | 62 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f38/package/sugar-clock) | 29 | 66 | 43.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f38/package/sugar-chat) | 56 | 137 | 40.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f38/package/sugar-toolkit-gtk3) | 76 | 213 | 35.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f38/package/sugar-pippy) | 99 | 282 | 35.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f38/package/sugar-imageviewer) | 16 | 58 | 27.6 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f38/package/slick-greeter) | 55 | 216 | 25.5 | Maori <mi@li.org> | 
+ | [sugar-browse](/f38/package/sugar-browse) | 82 | 334 | 24.6 | LANGUAGE <LL@li.org> | 
+ | [mozo](/f38/package/mozo) | 7 | 46 | 15.2 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [gtk4](/f38/package/gtk4) | 211 | 2432 | 8.7 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gtk4](/f38/package/mingw-gtk4) | 211 | 2432 | 8.7 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gtk2](/f38/package/gtk2) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gtk2](/f38/package/mingw-gtk2) | 1019 | 13704 | 7.4 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-desktop3](/f38/package/gnome-desktop3) | 20 | 320 | 6.2 | Māori <maori@nzlinux.org.nz> | 
+ | [libgnomeui](/f38/package/libgnomeui) | 80 | 1419 | 5.6 | Māori <maori@nzlinux.org.nz> | 
+ | [sugar-terminal](/f38/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [epiphany](/f38/package/epiphany) | 114 | 2732 | 4.2 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mate-menu](/f38/package/mate-menu) | 11 | 308 | 3.6 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [nautilus](/f38/package/nautilus) | 244 | 6976 | 3.5 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [iso-codes](/f38/package/iso-codes) | 449 | 15908 | 2.8 | Maori <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/mi/> | 
+ | [onboard](/f38/package/onboard) | 51 | 2318 | 2.2 | Maori <mi@li.org> | 
+ | [caja](/f38/package/caja) | 188 | 9675 | 1.9 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-menus](/f38/package/mate-menus) | 2 | 103 | 1.9 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [gtk3](/f38/package/gtk3) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [mingw-gtk3](/f38/package/mingw-gtk3) | 212 | 11853 | 1.8 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [engrampa](/f38/package/engrampa) | 35 | 2049 | 1.7 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [atril](/f38/package/atril) | 39 | 2326 | 1.7 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [gedit](/f38/package/gedit) | 68 | 4206 | 1.6 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [gnome-session](/f38/package/gnome-session) | 8 | 516 | 1.6 | Māori <maori@nzlinux.org.nz> | 
+ | [eom](/f38/package/eom) | 26 | 1779 | 1.5 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-session-manager](/f38/package/mate-session-manager) | 9 | 715 | 1.3 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-media](/f38/package/mate-media) | 3 | 239 | 1.3 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [isomaster](/f38/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [pluma](/f38/package/pluma) | 66 | 5707 | 1.2 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-system-monitor](/f38/package/mate-system-monitor) | 16 | 1558 | 1.0 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-control-center](/f38/package/mate-control-center) | 29 | 3331 | 0.9 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-polkit](/f38/package/mate-polkit) | 1 | 123 | 0.8 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [xed](/f38/package/xed) | 30 | 3759 | 0.8 | MATE Māori Team <maori@nzlinux.org.nz> | 
+ | [mate-utils](/f38/package/mate-utils) | 56 | 7039 | 0.8 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-calc](/f38/package/mate-calc) | 12 | 1578 | 0.8 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [sugar-flipsticks](/f38/package/sugar-flipsticks) | 1 | 151 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [mate-terminal](/f38/package/mate-terminal) | 27 | 4719 | 0.6 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-user-admin](/f38/package/mate-user-admin) | 3 | 605 | 0.5 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-panel](/f38/package/mate-panel) | 25 | 5557 | 0.4 | Maori (https://app.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-sensors-applet](/f38/package/mate-sensors-applet) | 7 | 2222 | 0.3 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-applets](/f38/package/mate-applets) | 28 | 11631 | 0.2 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [caja-actions](/f38/package/caja-actions) | 17 | 7082 | 0.2 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [mate-desktop](/f38/package/mate-desktop) | 4 | 2376 | 0.2 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [mate-power-manager](/f38/package/mate-power-manager) | 3 | 2460 | 0.1 | Maori (https://www.transifex.com/mate/teams/13566/mi/) | 
+ | [gnome-panel](/f38/package/gnome-panel) | 3 | 3520 | 0.1 | Māori <maori@nzlinux.org.nz> | 
+ | [gedit-plugins](/f38/package/gedit-plugins) | 1 | 1205 | 0.1 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [calibre](/f38/package/calibre) | 31 | 170967 | 0.0 | Maori (http://www.transifex.com/calibre/calibre/language/mi/) | 
+ | [bookworm](/f38/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [cinnamon-desktop](/f38/package/cinnamon-desktop) | 0 | 231 | 0.0 | Māori <maori@nzlinux.org.nz> | 
+ | [cinnamon-translations](/f38/package/cinnamon-translations) | 0 | 187 | 0.0 | Māori <maori@nzlinux.org.nz> | 
+ | [coin](/f38/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f38/package/dippi) | 0 | 1425 | 0.0 | none | 
+ | [elementary-code](/f38/package/elementary-code) | 0 | 1614 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-files](/f38/package/elementary-files) | 0 | 2490 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-icon-theme](/f38/package/elementary-icon-theme) | 0 | 394 | 0.0 | none | 
+ | [elementary-mail](/f38/package/elementary-mail) | 0 | 788 | 0.0 |  | 
+ | [elementary-music](/f38/package/elementary-music) | 0 | 205 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [elementary-notifications](/f38/package/elementary-notifications) | 0 | 44 | 0.0 | none | 
+ | [gala](/f38/package/gala) | 0 | 249 | 0.0 | none | 
+ | [gdm](/f38/package/gdm) | 0 | 650 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [granite](/f38/package/granite) | 0 | 498 | 0.0 |  | 
+ | [granite-7](/f38/package/granite-7) | 0 | 300 | 0.0 |  | 
+ | [gucharmap](/f38/package/gucharmap) | 0 | 507 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [harvey](/f38/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [libgtop2](/f38/package/libgtop2) | 0 | 134 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libmatekbd](/f38/package/libmatekbd) | 0 | 308 | 0.0 | Maori (http://www.transifex.com/mate/MATE/language/mi/) | 
+ | [libwnck](/f38/package/libwnck) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [libwnck3](/f38/package/libwnck3) | 0 | 73 | 0.0 | Maori <maori@nzlinux.org.nz> | 
+ | [lightdm](/f38/package/lightdm) | 0 | 163 | 0.0 | Maori <mi@li.org> | 
+ | [mate-themes](/f38/package/mate-themes) | 0 | 74 | 0.0 | Maori (http://app.transifex.com/mate/MATE/language/mi/) | 
+ | [nutty](/f38/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f38/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pluma-plugins](/f38/package/pluma-plugins) | 0 | 624 | 0.0 | GNOME Māori Team <maori@nzlinux.org.nz> | 
+ | [pyhoca-gui](/f38/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f38/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-hyperkitty](/f38/package/python-hyperkitty) | 0 | 951 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f38/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f38/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [wingpanel](/f38/package/wingpanel) | 0 | 16 | 0.0 | none | 
+ | [zenity](/f38/package/zenity) | 0 | 394 | 0.0 | Maori <maori@nzlinux.org.nz> | 
 {.sortable}
 
 

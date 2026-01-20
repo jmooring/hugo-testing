@@ -18,15 +18,15 @@ The package gobby05 (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f31/language/it.md" >}}) | 1473 | 1473 | 100.0 | /mnt/stockage/packages/f31/gobby05/po/it_IT.po | 
- | [de]({{< ref "/f31/language/de.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/de.po | 
- | [el]({{< ref "/f31/language/el.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/el_GR.po | 
- | [en_GB]({{< ref "/f31/language/en_GB.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/en_GB.po | 
- | [fr]({{< ref "/f31/language/fr.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/fr.po | 
- | [ja]({{< ref "/f31/language/ja.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/ja.po | 
- | [zh_Hant]({{< ref "/f31/language/zh_Hant.md" >}}) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/zh_TW.po | 
- | [pt_BR]({{< ref "/f31/language/pt_BR.md" >}}) | 625 | 1473 | 42.4 | /mnt/stockage/packages/f31/gobby05/po/pt_BR.po | 
- | [ca]({{< ref "/f31/language/ca.md" >}}) | 100 | 1473 | 6.8 | /mnt/stockage/packages/f31/gobby05/po/ca.po | 
+ | [it](/f31/language/it) | 1473 | 1473 | 100.0 | /mnt/stockage/packages/f31/gobby05/po/it_IT.po | 
+ | [de](/f31/language/de) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/de.po | 
+ | [el](/f31/language/el) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/el_GR.po | 
+ | [en_GB](/f31/language/en_GB) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/en_GB.po | 
+ | [fr](/f31/language/fr) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/fr.po | 
+ | [ja](/f31/language/ja) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/ja.po | 
+ | [zh_Hant](/f31/language/zh_Hant) | 922 | 1473 | 62.6 | /mnt/stockage/packages/f31/gobby05/po/zh_TW.po | 
+ | [pt_BR](/f31/language/pt_BR) | 625 | 1473 | 42.4 | /mnt/stockage/packages/f31/gobby05/po/pt_BR.po | 
+ | [ca](/f31/language/ca) | 100 | 1473 | 6.8 | /mnt/stockage/packages/f31/gobby05/po/ca.po | 
 {.sortable}
 
 

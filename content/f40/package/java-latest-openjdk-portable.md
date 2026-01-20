@@ -18,7 +18,7 @@ The package java-latest-openjdk-portable (version 22.0.0.0.36):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [su]({{< ref "/f40/language/su.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
+ | [su](/f40/language/su) | 0 | 0 | 0.0 | /mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.po/mnt/stockage/packages/f40/java-latest-openjdk-portable/test/jdk/sun/nio/cs/tradChinese.win.po | 
 {.sortable}
 
 

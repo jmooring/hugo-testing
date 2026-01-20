@@ -18,7 +18,7 @@ The package recapp (version 1.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f30/language/ru.md" >}}) | 143 | 143 | 100.0 | /mnt/stockage/packages/f30/recapp/po/ru.po | 
+ | [ru](/f30/language/ru) | 143 | 143 | 100.0 | /mnt/stockage/packages/f30/recapp/po/ru.po | 
 {.sortable}
 
 

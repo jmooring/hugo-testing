@@ -18,83 +18,83 @@ The package sugar-base (version 0.92.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f14/language/ar.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ar.po | 
- | [ay]({{< ref "/f14/language/ay.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ay.po | 
- | [da]({{< ref "/f14/language/da.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/da.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/de.po | 
- | [el]({{< ref "/f14/language/el.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/el.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/es.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/fr.po | 
- | [hi]({{< ref "/f14/language/hi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/hi.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/it.po | 
- | [ja]({{< ref "/f14/language/ja.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ja.po | 
- | [mg]({{< ref "/f14/language/mg.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/mg.po | 
- | [mn]({{< ref "/f14/language/mn.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/mn.po | 
- | [mr]({{< ref "/f14/language/mr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/mr.po | 
- | [nb_NO]({{< ref "/f14/language/nb_NO.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/nb.po | 
- | [ne]({{< ref "/f14/language/ne.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ne.po | 
- | [nl]({{< ref "/f14/language/nl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/nl.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/pt.po | 
- | [rw]({{< ref "/f14/language/rw.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/rw.po | 
- | [si]({{< ref "/f14/language/si.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/si.po | 
- | [sl]({{< ref "/f14/language/sl.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sl.po | 
- | [sq]({{< ref "/f14/language/sq.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sq.po | 
- | [sv]({{< ref "/f14/language/sv.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sv.po | 
- | [sw]({{< ref "/f14/language/sw.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sw.po | 
- | [ta]({{< ref "/f14/language/ta.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ta.po | 
- | [te]({{< ref "/f14/language/te.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/te.po | 
- | [tr]({{< ref "/f14/language/tr.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/tr.po | 
- | [ur]({{< ref "/f14/language/ur.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ur.po | 
- | [vi]({{< ref "/f14/language/vi.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/vi.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/zh_TW.po | 
- | [af]({{< ref "/f14/language/af.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/af.po | 
- | [am]({{< ref "/f14/language/am.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/am.po | 
- | [bg]({{< ref "/f14/language/bg.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bg.po | 
- | [bi]({{< ref "/f14/language/bi.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bi.po | 
- | [bn]({{< ref "/f14/language/bn.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bn.po | 
- | [bn_IN]({{< ref "/f14/language/bn_IN.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bn_IN.po | 
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ca.po | 
- | [cpp]({{< ref "/f14/language/cpp.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/cpp.po | 
- | [cs]({{< ref "/f14/language/cs.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/cs.po | 
- | [dz]({{< ref "/f14/language/dz.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/dz.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/en.po | 
- | [error]({{< ref "/f14/language/error.md" >}}) | 0 | 20 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/mvo.po/mnt/stockage/packages/f14/sugar-base/po/tzo.po/mnt/stockage/packages/f14/sugar-base/po/pseudo.po/mnt/stockage/packages/f14/sugar-base/po/pis.po | 
- | [fa]({{< ref "/f14/language/fa.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/fa.po | 
- | [ff]({{< ref "/f14/language/ff.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ff.po | 
- | [fil]({{< ref "/f14/language/fil.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/fil.po | 
- | [gu]({{< ref "/f14/language/gu.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/gu.po | 
- | [ha]({{< ref "/f14/language/ha.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ha.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/he.po | 
- | [ht]({{< ref "/f14/language/ht.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ht.po | 
- | [hu]({{< ref "/f14/language/hu.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/hu.po | 
- | [id]({{< ref "/f14/language/id.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/id.po | 
- | [ig]({{< ref "/f14/language/ig.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ig.po | 
- | [is]({{< ref "/f14/language/is.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/is.po | 
- | [km]({{< ref "/f14/language/km.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/km.po | 
- | [ko]({{< ref "/f14/language/ko.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ko.po | 
- | [kos]({{< ref "/f14/language/kos.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/kos.po | 
- | [mi]({{< ref "/f14/language/mi.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/mi.po | 
- | [mk]({{< ref "/f14/language/mk.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/mk.po | 
- | [ml]({{< ref "/f14/language/ml.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ml.po | 
- | [ms]({{< ref "/f14/language/ms.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ms.po | 
- | [pa]({{< ref "/f14/language/pa.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pa.po | 
- | [pap]({{< ref "/f14/language/pap.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pap.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pl.po | 
- | [prs]({{< ref "/f14/language/prs.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/fa_AF.po | 
- | [ps]({{< ref "/f14/language/ps.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ps.po | 
- | [pt_BR]({{< ref "/f14/language/pt_BR.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pt_BR.po | 
- | [qu]({{< ref "/f14/language/qu.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/qu.po | 
- | [ro]({{< ref "/f14/language/ro.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ro.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ru.po | 
- | [sd]({{< ref "/f14/language/sd.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/sd.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/sk.po | 
- | [th]({{< ref "/f14/language/th.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/th.po | 
- | [tpi]({{< ref "/f14/language/tpi.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/tpi.po | 
- | [tvl]({{< ref "/f14/language/tvl.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/tvl.po | 
- | [ug]({{< ref "/f14/language/ug.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ug.po | 
- | [wa]({{< ref "/f14/language/wa.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/wa.po | 
- | [yo]({{< ref "/f14/language/yo.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/yo.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/zh_CN.po | 
+ | [ar](/f14/language/ar) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ar.po | 
+ | [ay](/f14/language/ay) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ay.po | 
+ | [da](/f14/language/da) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/da.po | 
+ | [de](/f14/language/de) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/de.po | 
+ | [el](/f14/language/el) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/el.po | 
+ | [es](/f14/language/es) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/es.po | 
+ | [fr](/f14/language/fr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/fr.po | 
+ | [hi](/f14/language/hi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/hi.po | 
+ | [it](/f14/language/it) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/it.po | 
+ | [ja](/f14/language/ja) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ja.po | 
+ | [mg](/f14/language/mg) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/mg.po | 
+ | [mn](/f14/language/mn) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/mn.po | 
+ | [mr](/f14/language/mr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/mr.po | 
+ | [nb_NO](/f14/language/nb_NO) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/nb.po | 
+ | [ne](/f14/language/ne) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ne.po | 
+ | [nl](/f14/language/nl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/nl.po | 
+ | [pt](/f14/language/pt) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/pt.po | 
+ | [rw](/f14/language/rw) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/rw.po | 
+ | [si](/f14/language/si) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/si.po | 
+ | [sl](/f14/language/sl) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sl.po | 
+ | [sq](/f14/language/sq) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sq.po | 
+ | [sv](/f14/language/sv) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sv.po | 
+ | [sw](/f14/language/sw) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/sw.po | 
+ | [ta](/f14/language/ta) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ta.po | 
+ | [te](/f14/language/te) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/te.po | 
+ | [tr](/f14/language/tr) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/tr.po | 
+ | [ur](/f14/language/ur) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/ur.po | 
+ | [vi](/f14/language/vi) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/vi.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 5 | 5 | 100.0 | /mnt/stockage/packages/f14/sugar-base/po/zh_TW.po | 
+ | [af](/f14/language/af) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/af.po | 
+ | [am](/f14/language/am) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/am.po | 
+ | [bg](/f14/language/bg) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bg.po | 
+ | [bi](/f14/language/bi) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bi.po | 
+ | [bn](/f14/language/bn) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bn.po | 
+ | [bn_IN](/f14/language/bn_IN) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/bn_IN.po | 
+ | [ca](/f14/language/ca) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ca.po | 
+ | [cpp](/f14/language/cpp) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/cpp.po | 
+ | [cs](/f14/language/cs) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/cs.po | 
+ | [dz](/f14/language/dz) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/dz.po | 
+ | [en](/f14/language/en) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/en.po | 
+ | [error](/f14/language/error) | 0 | 20 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/mvo.po/mnt/stockage/packages/f14/sugar-base/po/tzo.po/mnt/stockage/packages/f14/sugar-base/po/pseudo.po/mnt/stockage/packages/f14/sugar-base/po/pis.po | 
+ | [fa](/f14/language/fa) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/fa.po | 
+ | [ff](/f14/language/ff) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ff.po | 
+ | [fil](/f14/language/fil) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/fil.po | 
+ | [gu](/f14/language/gu) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/gu.po | 
+ | [ha](/f14/language/ha) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ha.po | 
+ | [he](/f14/language/he) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/he.po | 
+ | [ht](/f14/language/ht) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ht.po | 
+ | [hu](/f14/language/hu) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/hu.po | 
+ | [id](/f14/language/id) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/id.po | 
+ | [ig](/f14/language/ig) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ig.po | 
+ | [is](/f14/language/is) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/is.po | 
+ | [km](/f14/language/km) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/km.po | 
+ | [ko](/f14/language/ko) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ko.po | 
+ | [kos](/f14/language/kos) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/kos.po | 
+ | [mi](/f14/language/mi) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/mi.po | 
+ | [mk](/f14/language/mk) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/mk.po | 
+ | [ml](/f14/language/ml) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ml.po | 
+ | [ms](/f14/language/ms) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ms.po | 
+ | [pa](/f14/language/pa) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pa.po | 
+ | [pap](/f14/language/pap) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pap.po | 
+ | [pl](/f14/language/pl) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pl.po | 
+ | [prs](/f14/language/prs) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/fa_AF.po | 
+ | [ps](/f14/language/ps) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ps.po | 
+ | [pt_BR](/f14/language/pt_BR) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/pt_BR.po | 
+ | [qu](/f14/language/qu) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/qu.po | 
+ | [ro](/f14/language/ro) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ro.po | 
+ | [ru](/f14/language/ru) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ru.po | 
+ | [sd](/f14/language/sd) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/sd.po | 
+ | [sk](/f14/language/sk) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/sk.po | 
+ | [th](/f14/language/th) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/th.po | 
+ | [tpi](/f14/language/tpi) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/tpi.po | 
+ | [tvl](/f14/language/tvl) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/tvl.po | 
+ | [ug](/f14/language/ug) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/ug.po | 
+ | [wa](/f14/language/wa) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/wa.po | 
+ | [yo](/f14/language/yo) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/yo.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 0 | 5 | 0.0 | /mnt/stockage/packages/f14/sugar-base/po/zh_CN.po | 
 {.sortable}
 
 

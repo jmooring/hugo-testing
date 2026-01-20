@@ -38,10 +38,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-toolkit-gtk3]({{< ref "/f28/package/sugar-toolkit-gtk3.md" >}}) | 30 | 159 | 18.9 | LANGUAGE <LL@li.org> | 
- | [stellarium]({{< ref "/f28/package/stellarium.md" >}}) | 124 | 68196 | 0.2 | Sakha (Yakut) (https://www.transifex.com/stellarium/teams/80998/sah/) | 
- | [libreoffice]({{< ref "/f28/package/libreoffice.md" >}}) | 72 | 98080 | 0.1 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f28/package/sugar.md" >}}) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f28/package/sugar-toolkit-gtk3) | 30 | 159 | 18.9 | LANGUAGE <LL@li.org> | 
+ | [stellarium](/f28/package/stellarium) | 124 | 68196 | 0.2 | Sakha (Yakut) (https://www.transifex.com/stellarium/teams/80998/sah/) | 
+ | [libreoffice](/f28/package/libreoffice) | 72 | 98080 | 0.1 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f28/package/sugar) | 0 | 2305 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

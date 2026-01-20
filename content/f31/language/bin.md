@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [lazpaint]({{< ref "/f31/package/lazpaint.md" >}}) | 2215 | 7149 | 31.0 |  | 
- | [wine-docs]({{< ref "/f31/package/wine-docs.md" >}}) | 182 | 1206 | 15.1 | AF | 
- | [libreoffice]({{< ref "/f31/package/libreoffice.md" >}}) | 0 | 0 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [lazpaint](/f31/package/lazpaint) | 2215 | 7149 | 31.0 |  | 
+ | [wine-docs](/f31/package/wine-docs) | 182 | 1206 | 15.1 | AF | 
+ | [libreoffice](/f31/package/libreoffice) | 0 | 0 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

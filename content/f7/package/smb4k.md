@@ -18,20 +18,20 @@ The package smb4k (version 0.8.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f7/language/de.md" >}}) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/de.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/es.po | 
- | [ja]({{< ref "/f7/language/ja.md" >}}) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/ja.po | 
- | [pl]({{< ref "/f7/language/pl.md" >}}) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/pl.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/tr.po | 
- | [nl]({{< ref "/f7/language/nl.md" >}}) | 2074 | 2124 | 97.6 | /mnt/stockage/packages/f7/smb4k/po/nl.po | 
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 1981 | 2124 | 93.3 | /mnt/stockage/packages/f7/smb4k/po/bg.po | 
- | [uk]({{< ref "/f7/language/uk.md" >}}) | 1446 | 2124 | 68.1 | /mnt/stockage/packages/f7/smb4k/po/uk.po | 
- | [cs]({{< ref "/f7/language/cs.md" >}}) | 1119 | 2124 | 52.7 | /mnt/stockage/packages/f7/smb4k/po/cs.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 1112 | 2124 | 52.4 | /mnt/stockage/packages/f7/smb4k/po/it.po | 
- | [zh_Hant]({{< ref "/f7/language/zh_Hant.md" >}}) | 1097 | 2124 | 51.6 | /mnt/stockage/packages/f7/smb4k/po/zh_TW.po | 
- | [is]({{< ref "/f7/language/is.md" >}}) | 1081 | 2124 | 50.9 | /mnt/stockage/packages/f7/smb4k/po/is.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 1073 | 2124 | 50.5 | /mnt/stockage/packages/f7/smb4k/po/fr.po | 
- | [nb_NO]({{< ref "/f7/language/nb_NO.md" >}}) | 756 | 2124 | 35.6 | /mnt/stockage/packages/f7/smb4k/po/nb.po | 
+ | [de](/f7/language/de) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/de.po | 
+ | [es](/f7/language/es) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/es.po | 
+ | [ja](/f7/language/ja) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/ja.po | 
+ | [pl](/f7/language/pl) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/pl.po | 
+ | [tr](/f7/language/tr) | 2124 | 2124 | 100.0 | /mnt/stockage/packages/f7/smb4k/po/tr.po | 
+ | [nl](/f7/language/nl) | 2074 | 2124 | 97.6 | /mnt/stockage/packages/f7/smb4k/po/nl.po | 
+ | [bg](/f7/language/bg) | 1981 | 2124 | 93.3 | /mnt/stockage/packages/f7/smb4k/po/bg.po | 
+ | [uk](/f7/language/uk) | 1446 | 2124 | 68.1 | /mnt/stockage/packages/f7/smb4k/po/uk.po | 
+ | [cs](/f7/language/cs) | 1119 | 2124 | 52.7 | /mnt/stockage/packages/f7/smb4k/po/cs.po | 
+ | [it](/f7/language/it) | 1112 | 2124 | 52.4 | /mnt/stockage/packages/f7/smb4k/po/it.po | 
+ | [zh_Hant](/f7/language/zh_Hant) | 1097 | 2124 | 51.6 | /mnt/stockage/packages/f7/smb4k/po/zh_TW.po | 
+ | [is](/f7/language/is) | 1081 | 2124 | 50.9 | /mnt/stockage/packages/f7/smb4k/po/is.po | 
+ | [fr](/f7/language/fr) | 1073 | 2124 | 50.5 | /mnt/stockage/packages/f7/smb4k/po/fr.po | 
+ | [nb_NO](/f7/language/nb_NO) | 756 | 2124 | 35.6 | /mnt/stockage/packages/f7/smb4k/po/nb.po | 
 {.sortable}
 
 

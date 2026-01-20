@@ -18,18 +18,18 @@ The package fotoxx (version 13.04):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 2857 | 2857 | 100.0 | /mnt/stockage/packages/f20/fotoxx/locales/translate-de.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 2857 | 2857 | 100.0 | /mnt/stockage/packages/f20/fotoxx/locales/translate-en.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-ca.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-nl.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 2739 | 2857 | 95.9 | /mnt/stockage/packages/f20/fotoxx/locales/translate-ru.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 2730 | 2857 | 95.6 | /mnt/stockage/packages/f20/fotoxx/locales/translate-sv.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 2675 | 2857 | 93.6 | /mnt/stockage/packages/f20/fotoxx/locales/translate-fr.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 2229 | 2857 | 78.0 | /mnt/stockage/packages/f20/fotoxx/locales/translate-pt.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 1455 | 2857 | 50.9 | /mnt/stockage/packages/f20/fotoxx/locales/translate-gl.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 705 | 2857 | 24.7 | /mnt/stockage/packages/f20/fotoxx/locales/translate-zh_CN.po | 
+ | [de](/f20/language/de) | 2857 | 2857 | 100.0 | /mnt/stockage/packages/f20/fotoxx/locales/translate-de.po | 
+ | [en](/f20/language/en) | 2857 | 2857 | 100.0 | /mnt/stockage/packages/f20/fotoxx/locales/translate-en.po | 
+ | [ca](/f20/language/ca) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-ca.po | 
+ | [es](/f20/language/es) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-es.po | 
+ | [it](/f20/language/it) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-it.po | 
+ | [nl](/f20/language/nl) | 2841 | 2857 | 99.4 | /mnt/stockage/packages/f20/fotoxx/locales/translate-nl.po | 
+ | [ru](/f20/language/ru) | 2739 | 2857 | 95.9 | /mnt/stockage/packages/f20/fotoxx/locales/translate-ru.po | 
+ | [sv](/f20/language/sv) | 2730 | 2857 | 95.6 | /mnt/stockage/packages/f20/fotoxx/locales/translate-sv.po | 
+ | [fr](/f20/language/fr) | 2675 | 2857 | 93.6 | /mnt/stockage/packages/f20/fotoxx/locales/translate-fr.po | 
+ | [pt](/f20/language/pt) | 2229 | 2857 | 78.0 | /mnt/stockage/packages/f20/fotoxx/locales/translate-pt.po | 
+ | [gl](/f20/language/gl) | 1455 | 2857 | 50.9 | /mnt/stockage/packages/f20/fotoxx/locales/translate-gl.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 705 | 2857 | 24.7 | /mnt/stockage/packages/f20/fotoxx/locales/translate-zh_CN.po | 
 {.sortable}
 
 

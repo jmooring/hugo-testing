@@ -18,10 +18,10 @@ The package python-pygit2 (version 1.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f33/language/es.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/es/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/nl/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f33/language/en.md" >}}) | 0 | 88 | 0.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/en/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 0 | 88 | 0.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [es](/f33/language/es) | 88 | 88 | 100.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/es/LC_MESSAGES/sphinx.po | 
+ | [nl](/f33/language/nl) | 88 | 88 | 100.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [en](/f33/language/en) | 0 | 88 | 0.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/en/LC_MESSAGES/sphinx.po | 
+ | [ru](/f33/language/ru) | 0 | 88 | 0.0 | /mnt/stockage/packages/f33/python-pygit2/docs/_themes/sphinx_rtd_theme/locale/ru/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

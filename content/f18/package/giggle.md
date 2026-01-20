@@ -18,28 +18,28 @@ The package giggle (version 0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f18/language/cs.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/cs/cs.po/mnt/stockage/packages/f18/giggle/po/cs.po | 
- | [de]({{< ref "/f18/language/de.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/de/de.po/mnt/stockage/packages/f18/giggle/po/de.po | 
- | [en_GB]({{< ref "/f18/language/en_GB.md" >}}) | 481 | 481 | 100.0 | /mnt/stockage/packages/f18/giggle/po/en_GB.po | 
- | [es]({{< ref "/f18/language/es.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/es/es.po/mnt/stockage/packages/f18/giggle/po/es.po | 
- | [fr]({{< ref "/f18/language/fr.md" >}}) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/fr/fr.po/mnt/stockage/packages/f18/giggle/po/fr.po | 
- | [gl]({{< ref "/f18/language/gl.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f18/giggle/po/gl.po | 
- | [pt_BR]({{< ref "/f18/language/pt_BR.md" >}}) | 688 | 688 | 100.0 | /mnt/stockage/packages/f18/giggle/po/pt_BR.po | 
- | [ro]({{< ref "/f18/language/ro.md" >}}) | 556 | 556 | 100.0 | /mnt/stockage/packages/f18/giggle/po/ro.po | 
- | [ru]({{< ref "/f18/language/ru.md" >}}) | 515 | 515 | 100.0 | /mnt/stockage/packages/f18/giggle/po/ru.po | 
- | [vi]({{< ref "/f18/language/vi.md" >}}) | 312 | 312 | 100.0 | /mnt/stockage/packages/f18/giggle/po/vi.po | 
- | [sl]({{< ref "/f18/language/sl.md" >}}) | 1201 | 1205 | 99.7 | /mnt/stockage/packages/f18/giggle/help/sl/sl.po/mnt/stockage/packages/f18/giggle/po/sl.po | 
- | [pl]({{< ref "/f18/language/pl.md" >}}) | 1197 | 1205 | 99.3 | /mnt/stockage/packages/f18/giggle/help/pl/pl.po/mnt/stockage/packages/f18/giggle/po/pl.po | 
- | [ja]({{< ref "/f18/language/ja.md" >}}) | 536 | 563 | 95.2 | /mnt/stockage/packages/f18/giggle/po/ja.po | 
- | [zh_Hans]({{< ref "/f18/language/zh_Hans.md" >}}) | 528 | 556 | 95.0 | /mnt/stockage/packages/f18/giggle/po/zh_CN.po | 
- | [sv]({{< ref "/f18/language/sv.md" >}}) | 297 | 316 | 94.0 | /mnt/stockage/packages/f18/giggle/po/sv.po | 
- | [da]({{< ref "/f18/language/da.md" >}}) | 617 | 688 | 89.7 | /mnt/stockage/packages/f18/giggle/po/da.po | 
- | [uk]({{< ref "/f18/language/uk.md" >}}) | 497 | 556 | 89.4 | /mnt/stockage/packages/f18/giggle/po/uk.po | 
- | [ca]({{< ref "/f18/language/ca.md" >}}) | 497 | 688 | 72.2 | /mnt/stockage/packages/f18/giggle/po/ca.po | 
- | [ca@valencia]({{< ref "/f18/language/ca@valencia.md" >}}) | 497 | 688 | 72.2 | /mnt/stockage/packages/f18/giggle/po/ca@valencia.po | 
- | [pa]({{< ref "/f18/language/pa.md" >}}) | 296 | 556 | 53.2 | /mnt/stockage/packages/f18/giggle/po/pa.po | 
- | [hu]({{< ref "/f18/language/hu.md" >}}) | 106 | 515 | 20.6 | /mnt/stockage/packages/f18/giggle/po/hu.po | 
- | [nb_NO]({{< ref "/f18/language/nb_NO.md" >}}) | 110 | 556 | 19.8 | /mnt/stockage/packages/f18/giggle/po/nb.po | 
+ | [cs](/f18/language/cs) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/cs/cs.po/mnt/stockage/packages/f18/giggle/po/cs.po | 
+ | [de](/f18/language/de) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/de/de.po/mnt/stockage/packages/f18/giggle/po/de.po | 
+ | [en_GB](/f18/language/en_GB) | 481 | 481 | 100.0 | /mnt/stockage/packages/f18/giggle/po/en_GB.po | 
+ | [es](/f18/language/es) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/es/es.po/mnt/stockage/packages/f18/giggle/po/es.po | 
+ | [fr](/f18/language/fr) | 1204 | 1204 | 100.0 | /mnt/stockage/packages/f18/giggle/help/fr/fr.po/mnt/stockage/packages/f18/giggle/po/fr.po | 
+ | [gl](/f18/language/gl) | 688 | 688 | 100.0 | /mnt/stockage/packages/f18/giggle/po/gl.po | 
+ | [pt_BR](/f18/language/pt_BR) | 688 | 688 | 100.0 | /mnt/stockage/packages/f18/giggle/po/pt_BR.po | 
+ | [ro](/f18/language/ro) | 556 | 556 | 100.0 | /mnt/stockage/packages/f18/giggle/po/ro.po | 
+ | [ru](/f18/language/ru) | 515 | 515 | 100.0 | /mnt/stockage/packages/f18/giggle/po/ru.po | 
+ | [vi](/f18/language/vi) | 312 | 312 | 100.0 | /mnt/stockage/packages/f18/giggle/po/vi.po | 
+ | [sl](/f18/language/sl) | 1201 | 1205 | 99.7 | /mnt/stockage/packages/f18/giggle/help/sl/sl.po/mnt/stockage/packages/f18/giggle/po/sl.po | 
+ | [pl](/f18/language/pl) | 1197 | 1205 | 99.3 | /mnt/stockage/packages/f18/giggle/help/pl/pl.po/mnt/stockage/packages/f18/giggle/po/pl.po | 
+ | [ja](/f18/language/ja) | 536 | 563 | 95.2 | /mnt/stockage/packages/f18/giggle/po/ja.po | 
+ | [zh_Hans](/f18/language/zh_Hans) | 528 | 556 | 95.0 | /mnt/stockage/packages/f18/giggle/po/zh_CN.po | 
+ | [sv](/f18/language/sv) | 297 | 316 | 94.0 | /mnt/stockage/packages/f18/giggle/po/sv.po | 
+ | [da](/f18/language/da) | 617 | 688 | 89.7 | /mnt/stockage/packages/f18/giggle/po/da.po | 
+ | [uk](/f18/language/uk) | 497 | 556 | 89.4 | /mnt/stockage/packages/f18/giggle/po/uk.po | 
+ | [ca](/f18/language/ca) | 497 | 688 | 72.2 | /mnt/stockage/packages/f18/giggle/po/ca.po | 
+ | [ca@valencia](/f18/language/ca@valencia) | 497 | 688 | 72.2 | /mnt/stockage/packages/f18/giggle/po/ca@valencia.po | 
+ | [pa](/f18/language/pa) | 296 | 556 | 53.2 | /mnt/stockage/packages/f18/giggle/po/pa.po | 
+ | [hu](/f18/language/hu) | 106 | 515 | 20.6 | /mnt/stockage/packages/f18/giggle/po/hu.po | 
+ | [nb_NO](/f18/language/nb_NO) | 110 | 556 | 19.8 | /mnt/stockage/packages/f18/giggle/po/nb.po | 
 {.sortable}
 
 

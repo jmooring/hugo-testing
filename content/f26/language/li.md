@@ -38,66 +38,66 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-mime-data]({{< ref "/f26/package/gnome-mime-data.md" >}}) | 850 | 850 | 100.0 | Limburgish <li.org> | 
- | [libgnomecanvas]({{< ref "/f26/package/libgnomecanvas.md" >}}) | 339 | 357 | 95.0 | Limburgish <li@li.org> | 
- | [gnome-themes]({{< ref "/f26/package/gnome-themes.md" >}}) | 95 | 101 | 94.1 | Limburgish | 
- | [libbonobo]({{< ref "/f26/package/libbonobo.md" >}}) | 464 | 524 | 88.5 | Limburgish | 
- | [libbonoboui]({{< ref "/f26/package/libbonoboui.md" >}}) | 314 | 360 | 87.2 | Limburgish <li@li.org> | 
- | [vte]({{< ref "/f26/package/vte.md" >}}) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
- | [vte291]({{< ref "/f26/package/vte291.md" >}}) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
- | [vte3]({{< ref "/f26/package/vte3.md" >}}) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
- | [libgnomeui]({{< ref "/f26/package/libgnomeui.md" >}}) | 1136 | 1419 | 80.1 | Limburgish <li.org> | 
- | [gnome-system-monitor]({{< ref "/f26/package/gnome-system-monitor.md" >}}) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
- | [gdk-pixbuf2]({{< ref "/f26/package/gdk-pixbuf2.md" >}}) | 792 | 1348 | 58.8 | Limburgish <li.org> | 
- | [mingw-gdk-pixbuf]({{< ref "/f26/package/mingw-gdk-pixbuf.md" >}}) | 792 | 1348 | 58.8 | Limburgish <li.org> | 
- | [nautilus]({{< ref "/f26/package/nautilus.md" >}}) | 3450 | 7205 | 47.9 | Limburgish <li@li.org> | 
- | [gnome-icon-theme]({{< ref "/f26/package/gnome-icon-theme.md" >}}) | 22 | 52 | 42.3 | Limburgish | 
- | [mate-icon-theme]({{< ref "/f26/package/mate-icon-theme.md" >}}) | 22 | 52 | 42.3 | Limburgish | 
- | [libwnck]({{< ref "/f26/package/libwnck.md" >}}) | 30 | 73 | 41.1 | Limburgish | 
- | [libwnck3]({{< ref "/f26/package/libwnck3.md" >}}) | 30 | 73 | 41.1 | Limburgish | 
- | [epiphany]({{< ref "/f26/package/epiphany.md" >}}) | 1057 | 2732 | 38.7 | Dutch <vertaling@nl.linux.org> | 
- | [gtk2]({{< ref "/f26/package/gtk2.md" >}}) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
- | [mingw-gtk2]({{< ref "/f26/package/mingw-gtk2.md" >}}) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
- | [transmission]({{< ref "/f26/package/transmission.md" >}}) | 652 | 1809 | 36.0 | Limburgian <li@li.org> | 
- | [gtk3]({{< ref "/f26/package/gtk3.md" >}}) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
- | [mingw-gtk3]({{< ref "/f26/package/mingw-gtk3.md" >}}) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
- | [gconf-editor]({{< ref "/f26/package/gconf-editor.md" >}}) | 101 | 320 | 31.6 | Limburgish | 
- | [gnome-desktop]({{< ref "/f26/package/gnome-desktop.md" >}}) | 96 | 320 | 30.0 | Limburgish <li.org> | 
- | [gnome-desktop3]({{< ref "/f26/package/gnome-desktop3.md" >}}) | 96 | 320 | 30.0 | Limburgish <li.org> | 
- | [caja]({{< ref "/f26/package/caja.md" >}}) | 1832 | 9313 | 19.7 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
- | [gnome-vfs2]({{< ref "/f26/package/gnome-vfs2.md" >}}) | 225 | 1282 | 17.6 | Limburgish | 
- | [mate-themes]({{< ref "/f26/package/mate-themes.md" >}}) | 7 | 58 | 12.1 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
- | [yelp]({{< ref "/f26/package/yelp.md" >}}) | 51 | 606 | 8.4 | Limburgish <li.org> | 
- | [atk]({{< ref "/f26/package/atk.md" >}}) | 31 | 375 | 8.3 | Limburgish | 
- | [mingw-atk]({{< ref "/f26/package/mingw-atk.md" >}}) | 31 | 375 | 8.3 | Limburgish | 
- | [mate-panel]({{< ref "/f26/package/mate-panel.md" >}}) | 313 | 4353 | 7.2 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
- | [mate-system-monitor]({{< ref "/f26/package/mate-system-monitor.md" >}}) | 79 | 1307 | 6.0 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
- | [cinnamon-translations]({{< ref "/f26/package/cinnamon-translations.md" >}}) | 199 | 5934 | 3.4 | Limburgian <li@li.org> | 
- | [mate-desktop]({{< ref "/f26/package/mate-desktop.md" >}}) | 50 | 2346 | 2.1 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
- | [isomaster]({{< ref "/f26/package/isomaster.md" >}}) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [appcenter]({{< ref "/f26/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f26/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [cinnamon-desktop]({{< ref "/f26/package/cinnamon-desktop.md" >}}) | 0 | 231 | 0.0 | Limburgish <li.org> | 
- | [dippi]({{< ref "/f26/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [harvey]({{< ref "/f26/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [libmatekbd]({{< ref "/f26/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
- | [mate-menu]({{< ref "/f26/package/mate-menu.md" >}}) | 0 | 300 | 0.0 | Limburgian (http://www.transifex.com/projects/p/MATE/language/li/) | 
- | [maya-calendar]({{< ref "/f26/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f26/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f26/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f26/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f26/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f26/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [php-phpmyadmin-sql-parser]({{< ref "/f26/package/php-phpmyadmin-sql-parser.md" >}}) | 0 | 227 | 0.0 | Limburgish <https://hosted.weblate.org/projects/phpmyadmin/master/li/> | 
- | [scratch-text-editor]({{< ref "/f26/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f26/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f26/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f26/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f26/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f26/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f26/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f26/package/vocal.md" >}}) | 0 | 377 | 0.0 | Limburgian <li@li.org> | 
+ | [gnome-mime-data](/f26/package/gnome-mime-data) | 850 | 850 | 100.0 | Limburgish <li.org> | 
+ | [libgnomecanvas](/f26/package/libgnomecanvas) | 339 | 357 | 95.0 | Limburgish <li@li.org> | 
+ | [gnome-themes](/f26/package/gnome-themes) | 95 | 101 | 94.1 | Limburgish | 
+ | [libbonobo](/f26/package/libbonobo) | 464 | 524 | 88.5 | Limburgish | 
+ | [libbonoboui](/f26/package/libbonoboui) | 314 | 360 | 87.2 | Limburgish <li@li.org> | 
+ | [vte](/f26/package/vte) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
+ | [vte291](/f26/package/vte291) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
+ | [vte3](/f26/package/vte3) | 81 | 96 | 84.4 | Limburgish <li@gnome.org> | 
+ | [libgnomeui](/f26/package/libgnomeui) | 1136 | 1419 | 80.1 | Limburgish <li.org> | 
+ | [gnome-system-monitor](/f26/package/gnome-system-monitor) | 388 | 502 | 77.3 | Limburgish <li@li.org> | 
+ | [gdk-pixbuf2](/f26/package/gdk-pixbuf2) | 792 | 1348 | 58.8 | Limburgish <li.org> | 
+ | [mingw-gdk-pixbuf](/f26/package/mingw-gdk-pixbuf) | 792 | 1348 | 58.8 | Limburgish <li.org> | 
+ | [nautilus](/f26/package/nautilus) | 3450 | 7205 | 47.9 | Limburgish <li@li.org> | 
+ | [gnome-icon-theme](/f26/package/gnome-icon-theme) | 22 | 52 | 42.3 | Limburgish | 
+ | [mate-icon-theme](/f26/package/mate-icon-theme) | 22 | 52 | 42.3 | Limburgish | 
+ | [libwnck](/f26/package/libwnck) | 30 | 73 | 41.1 | Limburgish | 
+ | [libwnck3](/f26/package/libwnck3) | 30 | 73 | 41.1 | Limburgish | 
+ | [epiphany](/f26/package/epiphany) | 1057 | 2732 | 38.7 | Dutch <vertaling@nl.linux.org> | 
+ | [gtk2](/f26/package/gtk2) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
+ | [mingw-gtk2](/f26/package/mingw-gtk2) | 5223 | 13704 | 38.1 | Limburgish <li.org> | 
+ | [transmission](/f26/package/transmission) | 652 | 1809 | 36.0 | Limburgian <li@li.org> | 
+ | [gtk3](/f26/package/gtk3) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
+ | [mingw-gtk3](/f26/package/mingw-gtk3) | 3879 | 11853 | 32.7 | Limburgish <li.org> | 
+ | [gconf-editor](/f26/package/gconf-editor) | 101 | 320 | 31.6 | Limburgish | 
+ | [gnome-desktop](/f26/package/gnome-desktop) | 96 | 320 | 30.0 | Limburgish <li.org> | 
+ | [gnome-desktop3](/f26/package/gnome-desktop3) | 96 | 320 | 30.0 | Limburgish <li.org> | 
+ | [caja](/f26/package/caja) | 1832 | 9313 | 19.7 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
+ | [gnome-vfs2](/f26/package/gnome-vfs2) | 225 | 1282 | 17.6 | Limburgish | 
+ | [mate-themes](/f26/package/mate-themes) | 7 | 58 | 12.1 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
+ | [yelp](/f26/package/yelp) | 51 | 606 | 8.4 | Limburgish <li.org> | 
+ | [atk](/f26/package/atk) | 31 | 375 | 8.3 | Limburgish | 
+ | [mingw-atk](/f26/package/mingw-atk) | 31 | 375 | 8.3 | Limburgish | 
+ | [mate-panel](/f26/package/mate-panel) | 313 | 4353 | 7.2 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
+ | [mate-system-monitor](/f26/package/mate-system-monitor) | 79 | 1307 | 6.0 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
+ | [cinnamon-translations](/f26/package/cinnamon-translations) | 199 | 5934 | 3.4 | Limburgian <li@li.org> | 
+ | [mate-desktop](/f26/package/mate-desktop) | 50 | 2346 | 2.1 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
+ | [isomaster](/f26/package/isomaster) | 8 | 674 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [appcenter](/f26/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f26/package/audience) | 0 | 106 | 0.0 |  | 
+ | [cinnamon-desktop](/f26/package/cinnamon-desktop) | 0 | 231 | 0.0 | Limburgish <li.org> | 
+ | [dippi](/f26/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [harvey](/f26/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [libmatekbd](/f26/package/libmatekbd) | 0 | 251 | 0.0 | Limburgian (http://www.transifex.com/mate/MATE/language/li/) | 
+ | [mate-menu](/f26/package/mate-menu) | 0 | 300 | 0.0 | Limburgian (http://www.transifex.com/projects/p/MATE/language/li/) | 
+ | [maya-calendar](/f26/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f26/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f26/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f26/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f26/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f26/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [php-phpmyadmin-sql-parser](/f26/package/php-phpmyadmin-sql-parser) | 0 | 227 | 0.0 | Limburgish <https://hosted.weblate.org/projects/phpmyadmin/master/li/> | 
+ | [scratch-text-editor](/f26/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f26/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f26/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f26/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f26/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f26/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f26/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f26/package/vocal) | 0 | 377 | 0.0 | Limburgian <li@li.org> | 
 {.sortable}
 
 

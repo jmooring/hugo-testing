@@ -18,9 +18,9 @@ The package xmms-sid (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f11/language/error.md" >}}) | 1784 | 1784 | 100.0 | /mnt/stockage/packages/f11/xmms-sid/po/en@boldquot.po/mnt/stockage/packages/f11/xmms-sid/po/en@quot.po | 
- | [de]({{< ref "/f11/language/de.md" >}}) | 794 | 892 | 89.0 | /mnt/stockage/packages/f11/xmms-sid/po/de.po | 
- | [fi]({{< ref "/f11/language/fi.md" >}}) | 598 | 892 | 67.0 | /mnt/stockage/packages/f11/xmms-sid/po/fi.po | 
+ | [error](/f11/language/error) | 1784 | 1784 | 100.0 | /mnt/stockage/packages/f11/xmms-sid/po/en@boldquot.po/mnt/stockage/packages/f11/xmms-sid/po/en@quot.po | 
+ | [de](/f11/language/de) | 794 | 892 | 89.0 | /mnt/stockage/packages/f11/xmms-sid/po/de.po | 
+ | [fi](/f11/language/fi) | 598 | 892 | 67.0 | /mnt/stockage/packages/f11/xmms-sid/po/fi.po | 
 {.sortable}
 
 

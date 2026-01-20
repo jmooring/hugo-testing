@@ -18,30 +18,30 @@ The package gcolor3 (version 2.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/da.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/es.po | 
- | [fur]({{< ref "/f36/language/fur.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/fur.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 223 | 223 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/gl.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/id.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 431 | 431 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/it.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/pl.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/pt_BR.po | 
- | [ro]({{< ref "/f36/language/ro.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/ro.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/sv.po | 
- | [tr]({{< ref "/f36/language/tr.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/tr.po | 
- | [uk]({{< ref "/f36/language/uk.md" >}}) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/uk.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 614 | 619 | 99.2 | /mnt/stockage/packages/f36/gcolor3/po/fr.po | 
- | [en_GB]({{< ref "/f36/language/en_GB.md" >}}) | 608 | 619 | 98.2 | /mnt/stockage/packages/f36/gcolor3/po/en_GB.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 583 | 619 | 94.2 | /mnt/stockage/packages/f36/gcolor3/po/ru.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 567 | 619 | 91.6 | /mnt/stockage/packages/f36/gcolor3/po/sr.po | 
- | [nb_NO]({{< ref "/f36/language/nb_NO.md" >}}) | 223 | 278 | 80.2 | /mnt/stockage/packages/f36/gcolor3/po/nb.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 331 | 429 | 77.2 | /mnt/stockage/packages/f36/gcolor3/po/eu.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 288 | 423 | 68.1 | /mnt/stockage/packages/f36/gcolor3/po/fi.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 40 | 60 | 66.7 | /mnt/stockage/packages/f36/gcolor3/po/el.po | 
+ | [cs](/f36/language/cs) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/cs.po | 
+ | [da](/f36/language/da) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/da.po | 
+ | [de](/f36/language/de) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/de.po | 
+ | [es](/f36/language/es) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/es.po | 
+ | [fur](/f36/language/fur) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/fur.po | 
+ | [gl](/f36/language/gl) | 223 | 223 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/gl.po | 
+ | [hu](/f36/language/hu) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/hu.po | 
+ | [id](/f36/language/id) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/id.po | 
+ | [it](/f36/language/it) | 431 | 431 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/it.po | 
+ | [nl](/f36/language/nl) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/nl.po | 
+ | [pl](/f36/language/pl) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/pl.po | 
+ | [pt_BR](/f36/language/pt_BR) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/pt_BR.po | 
+ | [ro](/f36/language/ro) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/ro.po | 
+ | [sv](/f36/language/sv) | 432 | 432 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/sv.po | 
+ | [tr](/f36/language/tr) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/tr.po | 
+ | [uk](/f36/language/uk) | 423 | 423 | 100.0 | /mnt/stockage/packages/f36/gcolor3/po/uk.po | 
+ | [fr](/f36/language/fr) | 614 | 619 | 99.2 | /mnt/stockage/packages/f36/gcolor3/po/fr.po | 
+ | [en_GB](/f36/language/en_GB) | 608 | 619 | 98.2 | /mnt/stockage/packages/f36/gcolor3/po/en_GB.po | 
+ | [ru](/f36/language/ru) | 583 | 619 | 94.2 | /mnt/stockage/packages/f36/gcolor3/po/ru.po | 
+ | [sr](/f36/language/sr) | 567 | 619 | 91.6 | /mnt/stockage/packages/f36/gcolor3/po/sr.po | 
+ | [nb_NO](/f36/language/nb_NO) | 223 | 278 | 80.2 | /mnt/stockage/packages/f36/gcolor3/po/nb.po | 
+ | [eu](/f36/language/eu) | 331 | 429 | 77.2 | /mnt/stockage/packages/f36/gcolor3/po/eu.po | 
+ | [fi](/f36/language/fi) | 288 | 423 | 68.1 | /mnt/stockage/packages/f36/gcolor3/po/fi.po | 
+ | [el](/f36/language/el) | 40 | 60 | 66.7 | /mnt/stockage/packages/f36/gcolor3/po/el.po | 
 {.sortable}
 
 

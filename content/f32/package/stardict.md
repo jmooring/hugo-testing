@@ -18,31 +18,31 @@ The package stardict (version 3.0.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [kk]({{< ref "/f32/language/kk.md" >}}) | 2974 | 3035 | 98.0 | /mnt/stockage/packages/f32/stardict/dict/po/kk.po | 
- | [lt]({{< ref "/f32/language/lt.md" >}}) | 2392 | 3035 | 78.8 | /mnt/stockage/packages/f32/stardict/dict/po/lt.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 2200 | 3035 | 72.5 | /mnt/stockage/packages/f32/stardict/dict/po/vi.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2198 | 3035 | 72.4 | /mnt/stockage/packages/f32/stardict/dict/po/de.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4396 | 6070 | 72.4 | /mnt/stockage/packages/f32/stardict/dict/po/fr.po/mnt/stockage/packages/f32/stardict/dict/po/es.po | 
- | [sk]({{< ref "/f32/language/sk.md" >}}) | 2193 | 3035 | 72.3 | /mnt/stockage/packages/f32/stardict/dict/po/sk.po | 
- | [be]({{< ref "/f32/language/be.md" >}}) | 2192 | 3035 | 72.2 | /mnt/stockage/packages/f32/stardict/dict/po/be.po | 
- | [hu]({{< ref "/f32/language/hu.md" >}}) | 1804 | 3035 | 59.4 | /mnt/stockage/packages/f32/stardict/dict/po/hu.po | 
- | [ga]({{< ref "/f32/language/ga.md" >}}) | 1715 | 3035 | 56.5 | /mnt/stockage/packages/f32/stardict/dict/po/ga.po | 
- | [el]({{< ref "/f32/language/el.md" >}}) | 1184 | 3035 | 39.0 | /mnt/stockage/packages/f32/stardict/dict/po/el.po | 
- | [hr]({{< ref "/f32/language/hr.md" >}}) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/hr.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/pt_BR.po | 
- | [tr]({{< ref "/f32/language/tr.md" >}}) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/tr.po | 
- | [tt]({{< ref "/f32/language/tt.md" >}}) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/tt.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 3640 | 11078 | 32.9 | /mnt/stockage/packages/f32/stardict/dict/help/zh_CN/zh_CN.po/mnt/stockage/packages/f32/stardict/dict/po/zh_CN.po | 
- | [ru]({{< ref "/f32/language/ru.md" >}}) | 3360 | 11078 | 30.3 | /mnt/stockage/packages/f32/stardict/dict/help/ru/ru.po/mnt/stockage/packages/f32/stardict/dict/po/ru.po | 
- | [uk]({{< ref "/f32/language/uk.md" >}}) | 2789 | 11078 | 25.2 | /mnt/stockage/packages/f32/stardict/dict/help/uk/uk.po/mnt/stockage/packages/f32/stardict/dict/po/uk.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 702 | 3035 | 23.1 | /mnt/stockage/packages/f32/stardict/dict/po/sv.po | 
- | [cs]({{< ref "/f32/language/cs.md" >}}) | 696 | 3035 | 22.9 | /mnt/stockage/packages/f32/stardict/dict/po/cs.po | 
- | [ar]({{< ref "/f32/language/ar.md" >}}) | 695 | 3035 | 22.9 | /mnt/stockage/packages/f32/stardict/dict/po/ar.po | 
- | [mk]({{< ref "/f32/language/mk.md" >}}) | 2522 | 11078 | 22.8 | /mnt/stockage/packages/f32/stardict/dict/help/mk/mk.po/mnt/stockage/packages/f32/stardict/dict/po/mk.po | 
- | [zh_Hant]({{< ref "/f32/language/zh_Hant.md" >}}) | 2320 | 11078 | 20.9 | /mnt/stockage/packages/f32/stardict/dict/help/zh_TW/zh_TW.po/mnt/stockage/packages/f32/stardict/dict/po/zh_TW.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1290 | 11078 | 11.6 | /mnt/stockage/packages/f32/stardict/dict/help/nl/nl.po/mnt/stockage/packages/f32/stardict/dict/po/nl.po | 
- | [ku]({{< ref "/f32/language/ku.md" >}}) | 71 | 3035 | 2.3 | /mnt/stockage/packages/f32/stardict/dict/po/ku.po | 
- | [rw]({{< ref "/f32/language/rw.md" >}}) | 20 | 3035 | 0.7 | /mnt/stockage/packages/f32/stardict/dict/po/rw.po | 
+ | [kk](/f32/language/kk) | 2974 | 3035 | 98.0 | /mnt/stockage/packages/f32/stardict/dict/po/kk.po | 
+ | [lt](/f32/language/lt) | 2392 | 3035 | 78.8 | /mnt/stockage/packages/f32/stardict/dict/po/lt.po | 
+ | [vi](/f32/language/vi) | 2200 | 3035 | 72.5 | /mnt/stockage/packages/f32/stardict/dict/po/vi.po | 
+ | [de](/f32/language/de) | 2198 | 3035 | 72.4 | /mnt/stockage/packages/f32/stardict/dict/po/de.po | 
+ | [fr](/f32/language/fr) | 4396 | 6070 | 72.4 | /mnt/stockage/packages/f32/stardict/dict/po/fr.po/mnt/stockage/packages/f32/stardict/dict/po/es.po | 
+ | [sk](/f32/language/sk) | 2193 | 3035 | 72.3 | /mnt/stockage/packages/f32/stardict/dict/po/sk.po | 
+ | [be](/f32/language/be) | 2192 | 3035 | 72.2 | /mnt/stockage/packages/f32/stardict/dict/po/be.po | 
+ | [hu](/f32/language/hu) | 1804 | 3035 | 59.4 | /mnt/stockage/packages/f32/stardict/dict/po/hu.po | 
+ | [ga](/f32/language/ga) | 1715 | 3035 | 56.5 | /mnt/stockage/packages/f32/stardict/dict/po/ga.po | 
+ | [el](/f32/language/el) | 1184 | 3035 | 39.0 | /mnt/stockage/packages/f32/stardict/dict/po/el.po | 
+ | [hr](/f32/language/hr) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/hr.po | 
+ | [pt_BR](/f32/language/pt_BR) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/pt_BR.po | 
+ | [tr](/f32/language/tr) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/tr.po | 
+ | [tt](/f32/language/tt) | 1118 | 3035 | 36.8 | /mnt/stockage/packages/f32/stardict/dict/po/tt.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 3640 | 11078 | 32.9 | /mnt/stockage/packages/f32/stardict/dict/help/zh_CN/zh_CN.po/mnt/stockage/packages/f32/stardict/dict/po/zh_CN.po | 
+ | [ru](/f32/language/ru) | 3360 | 11078 | 30.3 | /mnt/stockage/packages/f32/stardict/dict/help/ru/ru.po/mnt/stockage/packages/f32/stardict/dict/po/ru.po | 
+ | [uk](/f32/language/uk) | 2789 | 11078 | 25.2 | /mnt/stockage/packages/f32/stardict/dict/help/uk/uk.po/mnt/stockage/packages/f32/stardict/dict/po/uk.po | 
+ | [sv](/f32/language/sv) | 702 | 3035 | 23.1 | /mnt/stockage/packages/f32/stardict/dict/po/sv.po | 
+ | [cs](/f32/language/cs) | 696 | 3035 | 22.9 | /mnt/stockage/packages/f32/stardict/dict/po/cs.po | 
+ | [ar](/f32/language/ar) | 695 | 3035 | 22.9 | /mnt/stockage/packages/f32/stardict/dict/po/ar.po | 
+ | [mk](/f32/language/mk) | 2522 | 11078 | 22.8 | /mnt/stockage/packages/f32/stardict/dict/help/mk/mk.po/mnt/stockage/packages/f32/stardict/dict/po/mk.po | 
+ | [zh_Hant](/f32/language/zh_Hant) | 2320 | 11078 | 20.9 | /mnt/stockage/packages/f32/stardict/dict/help/zh_TW/zh_TW.po/mnt/stockage/packages/f32/stardict/dict/po/zh_TW.po | 
+ | [nl](/f32/language/nl) | 1290 | 11078 | 11.6 | /mnt/stockage/packages/f32/stardict/dict/help/nl/nl.po/mnt/stockage/packages/f32/stardict/dict/po/nl.po | 
+ | [ku](/f32/language/ku) | 71 | 3035 | 2.3 | /mnt/stockage/packages/f32/stardict/dict/po/ku.po | 
+ | [rw](/f32/language/rw) | 20 | 3035 | 0.7 | /mnt/stockage/packages/f32/stardict/dict/po/rw.po | 
 {.sortable}
 
 

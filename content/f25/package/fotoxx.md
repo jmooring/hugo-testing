@@ -18,15 +18,15 @@ The package fotoxx (version 16.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f25/language/de.md" >}}) | 3975 | 3975 | 100.0 | /mnt/stockage/packages/f25/fotoxx/locales/translate-de.po | 
- | [en]({{< ref "/f25/language/en.md" >}}) | 3975 | 3975 | 100.0 | /mnt/stockage/packages/f25/fotoxx/locales/translate-en.po | 
- | [it]({{< ref "/f25/language/it.md" >}}) | 3885 | 3975 | 97.7 | /mnt/stockage/packages/f25/fotoxx/locales/translate-it.po | 
- | [pt]({{< ref "/f25/language/pt.md" >}}) | 3883 | 3975 | 97.7 | /mnt/stockage/packages/f25/fotoxx/locales/translate-pt.po | 
- | [ca]({{< ref "/f25/language/ca.md" >}}) | 3879 | 3975 | 97.6 | /mnt/stockage/packages/f25/fotoxx/locales/translate-ca.po | 
- | [es]({{< ref "/f25/language/es.md" >}}) | 3879 | 3975 | 97.6 | /mnt/stockage/packages/f25/fotoxx/locales/translate-es.po | 
- | [fr]({{< ref "/f25/language/fr.md" >}}) | 3653 | 3975 | 91.9 | /mnt/stockage/packages/f25/fotoxx/locales/translate-fr.po | 
- | [ru]({{< ref "/f25/language/ru.md" >}}) | 3019 | 3975 | 75.9 | /mnt/stockage/packages/f25/fotoxx/locales/translate-ru.po | 
- | [nl]({{< ref "/f25/language/nl.md" >}}) | 2715 | 3975 | 68.3 | /mnt/stockage/packages/f25/fotoxx/locales/translate-nl.po | 
+ | [de](/f25/language/de) | 3975 | 3975 | 100.0 | /mnt/stockage/packages/f25/fotoxx/locales/translate-de.po | 
+ | [en](/f25/language/en) | 3975 | 3975 | 100.0 | /mnt/stockage/packages/f25/fotoxx/locales/translate-en.po | 
+ | [it](/f25/language/it) | 3885 | 3975 | 97.7 | /mnt/stockage/packages/f25/fotoxx/locales/translate-it.po | 
+ | [pt](/f25/language/pt) | 3883 | 3975 | 97.7 | /mnt/stockage/packages/f25/fotoxx/locales/translate-pt.po | 
+ | [ca](/f25/language/ca) | 3879 | 3975 | 97.6 | /mnt/stockage/packages/f25/fotoxx/locales/translate-ca.po | 
+ | [es](/f25/language/es) | 3879 | 3975 | 97.6 | /mnt/stockage/packages/f25/fotoxx/locales/translate-es.po | 
+ | [fr](/f25/language/fr) | 3653 | 3975 | 91.9 | /mnt/stockage/packages/f25/fotoxx/locales/translate-fr.po | 
+ | [ru](/f25/language/ru) | 3019 | 3975 | 75.9 | /mnt/stockage/packages/f25/fotoxx/locales/translate-ru.po | 
+ | [nl](/f25/language/nl) | 2715 | 3975 | 68.3 | /mnt/stockage/packages/f25/fotoxx/locales/translate-nl.po | 
 {.sortable}
 
 

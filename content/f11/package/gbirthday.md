@@ -18,16 +18,16 @@ The package gbirthday (version 0.6.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/gbirthday/po/de.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/gbirthday/po/pl.po | 
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/gbirthday/po/ru.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 27 | 122 | 22.1 | /mnt/stockage/packages/f11/gbirthday/po/fr.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/es.po | 
- | [gl]({{< ref "/f11/language/gl.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/gl.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/it.po | 
- | [pt]({{< ref "/f11/language/pt.md" >}}) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/pt.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 19 | 122 | 15.6 | /mnt/stockage/packages/f11/gbirthday/po/sk.po | 
- | [en]({{< ref "/f11/language/en.md" >}}) | 0 | 100 | 0.0 | /mnt/stockage/packages/f11/gbirthday/po/en.po | 
+ | [de](/f11/language/de) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/gbirthday/po/de.po | 
+ | [pl](/f11/language/pl) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/gbirthday/po/pl.po | 
+ | [ru](/f11/language/ru) | 127 | 127 | 100.0 | /mnt/stockage/packages/f11/gbirthday/po/ru.po | 
+ | [fr](/f11/language/fr) | 27 | 122 | 22.1 | /mnt/stockage/packages/f11/gbirthday/po/fr.po | 
+ | [es](/f11/language/es) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/es.po | 
+ | [gl](/f11/language/gl) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/gl.po | 
+ | [it](/f11/language/it) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/it.po | 
+ | [pt](/f11/language/pt) | 24 | 122 | 19.7 | /mnt/stockage/packages/f11/gbirthday/po/pt.po | 
+ | [sk](/f11/language/sk) | 19 | 122 | 15.6 | /mnt/stockage/packages/f11/gbirthday/po/sk.po | 
+ | [en](/f11/language/en) | 0 | 100 | 0.0 | /mnt/stockage/packages/f11/gbirthday/po/en.po | 
 {.sortable}
 
 

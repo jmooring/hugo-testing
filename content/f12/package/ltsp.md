@@ -18,21 +18,21 @@ The package ltsp (version 5.1.95):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 446 | 446 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/fr.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/it.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/pt.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 472 | 472 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/ru.po/mnt/stockage/packages/f12/ltsp/server/configs/ALTLinux/po/ltsp-login.ru.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/sv.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/ltsp/server/configs/ALTLinux/po/ltsp-login.uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 452 | 452 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/vi.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 263 | 454 | 57.9 | /mnt/stockage/packages/f12/ltsp/po/pt_BR.po | 
+ | [ca](/f12/language/ca) | 446 | 446 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/ca.po | 
+ | [cs](/f12/language/cs) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/cs.po | 
+ | [de](/f12/language/de) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/de.po | 
+ | [el](/f12/language/el) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/el.po | 
+ | [es](/f12/language/es) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/es.po | 
+ | [fi](/f12/language/fi) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/fi.po | 
+ | [fr](/f12/language/fr) | 446 | 446 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/fr.po | 
+ | [it](/f12/language/it) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/it.po | 
+ | [pl](/f12/language/pl) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/pl.po | 
+ | [pt](/f12/language/pt) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/pt.po | 
+ | [ru](/f12/language/ru) | 472 | 472 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/ru.po/mnt/stockage/packages/f12/ltsp/server/configs/ALTLinux/po/ltsp-login.ru.po | 
+ | [sv](/f12/language/sv) | 462 | 462 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/sv.po | 
+ | [uk](/f12/language/uk) | 10 | 10 | 100.0 | /mnt/stockage/packages/f12/ltsp/server/configs/ALTLinux/po/ltsp-login.uk.po | 
+ | [vi](/f12/language/vi) | 452 | 452 | 100.0 | /mnt/stockage/packages/f12/ltsp/po/vi.po | 
+ | [pt_BR](/f12/language/pt_BR) | 263 | 454 | 57.9 | /mnt/stockage/packages/f12/ltsp/po/pt_BR.po | 
 {.sortable}
 
 

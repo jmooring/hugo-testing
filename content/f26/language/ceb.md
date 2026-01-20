@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 1 | 41 | 2.4 | Cebuano <ceb@li.org> | 
- | [transmission]({{< ref "/f26/package/transmission.md" >}}) | 19 | 1809 | 1.1 | Cebuano <ceb@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 1 | 41 | 2.4 | Cebuano <ceb@li.org> | 
+ | [transmission](/f26/package/transmission) | 19 | 1809 | 1.1 | Cebuano <ceb@li.org> | 
 {.sortable}
 
 

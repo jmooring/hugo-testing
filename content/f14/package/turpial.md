@@ -18,20 +18,20 @@ The package turpial (version 1.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f14/language/ca.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/ca/LC_MESSAGES/turpial.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/ru/LC_MESSAGES/turpial.po | 
- | [zh_Hans]({{< ref "/f14/language/zh_Hans.md" >}}) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/zh_CN/LC_MESSAGES/turpial.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 507 | 510 | 99.4 | /mnt/stockage/packages/f14/turpial/turpial/i18n/es/LC_MESSAGES/turpial.po | 
- | [de]({{< ref "/f14/language/de.md" >}}) | 493 | 510 | 96.7 | /mnt/stockage/packages/f14/turpial/turpial/i18n/de/LC_MESSAGES/turpial.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 493 | 510 | 96.7 | /mnt/stockage/packages/f14/turpial/turpial/i18n/fr/LC_MESSAGES/turpial.po | 
- | [gl]({{< ref "/f14/language/gl.md" >}}) | 493 | 510 | 96.7 | /mnt/stockage/packages/f14/turpial/turpial/i18n/gl/LC_MESSAGES/turpial.po | 
- | [pt]({{< ref "/f14/language/pt.md" >}}) | 246 | 510 | 48.2 | /mnt/stockage/packages/f14/turpial/turpial/i18n/pt/LC_MESSAGES/turpial.po | 
- | [zh_Hant]({{< ref "/f14/language/zh_Hant.md" >}}) | 246 | 510 | 48.2 | /mnt/stockage/packages/f14/turpial/turpial/i18n/zh_TW/LC_MESSAGES/turpial.po | 
- | [it]({{< ref "/f14/language/it.md" >}}) | 134 | 510 | 26.3 | /mnt/stockage/packages/f14/turpial/turpial/i18n/it/LC_MESSAGES/turpial.po | 
- | [nn]({{< ref "/f14/language/nn.md" >}}) | 83 | 510 | 16.3 | /mnt/stockage/packages/f14/turpial/turpial/i18n/nn/LC_MESSAGES/turpial.po | 
- | [en]({{< ref "/f14/language/en.md" >}}) | 0 | 491 | 0.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/en/LC_MESSAGES/turpial.po | 
- | [eu]({{< ref "/f14/language/eu.md" >}}) | 0 | 510 | 0.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/eu/LC_MESSAGES/turpial.po | 
- | [he]({{< ref "/f14/language/he.md" >}}) | 0 | 510 | 0.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/he/LC_MESSAGES/turpial.po | 
+ | [ca](/f14/language/ca) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/ca/LC_MESSAGES/turpial.po | 
+ | [ru](/f14/language/ru) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/ru/LC_MESSAGES/turpial.po | 
+ | [zh_Hans](/f14/language/zh_Hans) | 510 | 510 | 100.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/zh_CN/LC_MESSAGES/turpial.po | 
+ | [es](/f14/language/es) | 507 | 510 | 99.4 | /mnt/stockage/packages/f14/turpial/turpial/i18n/es/LC_MESSAGES/turpial.po | 
+ | [de](/f14/language/de) | 493 | 510 | 96.7 | /mnt/stockage/packages/f14/turpial/turpial/i18n/de/LC_MESSAGES/turpial.po | 
+ | [fr](/f14/language/fr) | 493 | 510 | 96.7 | /mnt/stockage/packages/f14/turpial/turpial/i18n/fr/LC_MESSAGES/turpial.po | 
+ | [gl](/f14/language/gl) | 493 | 510 | 96.7 | /mnt/stockage/packages/f14/turpial/turpial/i18n/gl/LC_MESSAGES/turpial.po | 
+ | [pt](/f14/language/pt) | 246 | 510 | 48.2 | /mnt/stockage/packages/f14/turpial/turpial/i18n/pt/LC_MESSAGES/turpial.po | 
+ | [zh_Hant](/f14/language/zh_Hant) | 246 | 510 | 48.2 | /mnt/stockage/packages/f14/turpial/turpial/i18n/zh_TW/LC_MESSAGES/turpial.po | 
+ | [it](/f14/language/it) | 134 | 510 | 26.3 | /mnt/stockage/packages/f14/turpial/turpial/i18n/it/LC_MESSAGES/turpial.po | 
+ | [nn](/f14/language/nn) | 83 | 510 | 16.3 | /mnt/stockage/packages/f14/turpial/turpial/i18n/nn/LC_MESSAGES/turpial.po | 
+ | [en](/f14/language/en) | 0 | 491 | 0.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/en/LC_MESSAGES/turpial.po | 
+ | [eu](/f14/language/eu) | 0 | 510 | 0.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/eu/LC_MESSAGES/turpial.po | 
+ | [he](/f14/language/he) | 0 | 510 | 0.0 | /mnt/stockage/packages/f14/turpial/turpial/i18n/he/LC_MESSAGES/turpial.po | 
 {.sortable}
 
 

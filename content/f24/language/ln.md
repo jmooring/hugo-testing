@@ -41,12 +41,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnome-calendar]({{< ref "/f24/package/gnome-calendar.md" >}}) | 361 | 361 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [gnome-user-share]({{< ref "/f24/package/gnome-user-share.md" >}}) | 52 | 52 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [nautilus]({{< ref "/f24/package/nautilus.md" >}}) | 5489 | 5489 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [nautilus-sendto]({{< ref "/f24/package/nautilus-sendto.md" >}}) | 45 | 45 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
- | [openerp]({{< ref "/f24/package/openerp.md" >}}) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
- | [openerp7]({{< ref "/f24/package/openerp7.md" >}}) | 38 | 1127 | 3.4 | Lingala <ln@li.org> | 
+ | [gnome-calendar](/f24/package/gnome-calendar) | 361 | 361 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [gnome-user-share](/f24/package/gnome-user-share) | 52 | 52 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [nautilus](/f24/package/nautilus) | 5489 | 5489 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [nautilus-sendto](/f24/package/nautilus-sendto) | 45 | 45 | 100.0 | Lingala <ubuntu-cd@lists.ubuntu.com> | 
+ | [openerp](/f24/package/openerp) | 57 | 851 | 6.7 | Lingala <ln@li.org> | 
+ | [openerp7](/f24/package/openerp7) | 38 | 1127 | 3.4 | Lingala <ln@li.org> | 
 {.sortable}
 
 

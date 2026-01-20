@@ -18,14 +18,14 @@ The package ufraw (version 0.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/da.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/fr.po | 
- | [ko]({{< ref "/f9/language/ko.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/ko.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/pl.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/ru.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1381 | 1675 | 82.4 | /mnt/stockage/packages/f9/ufraw/po/pt.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1222 | 1675 | 73.0 | /mnt/stockage/packages/f9/ufraw/po/ja.po | 
+ | [da](/f9/language/da) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/da.po | 
+ | [es](/f9/language/es) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/es.po | 
+ | [fr](/f9/language/fr) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/fr.po | 
+ | [ko](/f9/language/ko) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/ko.po | 
+ | [pl](/f9/language/pl) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/pl.po | 
+ | [ru](/f9/language/ru) | 1675 | 1675 | 100.0 | /mnt/stockage/packages/f9/ufraw/po/ru.po | 
+ | [pt](/f9/language/pt) | 1381 | 1675 | 82.4 | /mnt/stockage/packages/f9/ufraw/po/pt.po | 
+ | [ja](/f9/language/ja) | 1222 | 1675 | 73.0 | /mnt/stockage/packages/f9/ufraw/po/ja.po | 
 {.sortable}
 
 

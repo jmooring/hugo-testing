@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 24 | 70 | 34.3 | Rusyn <rue@li.org> | 
- | [cinnamon-translations]({{< ref "/f22/package/cinnamon-translations.md" >}}) | 119 | 4946 | 2.4 | Rusyn <rue@li.org> | 
- | [feedreader]({{< ref "/f22/package/feedreader.md" >}}) | 0 | 0 | 0.0 |  | 
+ | [mintmenu](/f22/package/mintmenu) | 24 | 70 | 34.3 | Rusyn <rue@li.org> | 
+ | [cinnamon-translations](/f22/package/cinnamon-translations) | 119 | 4946 | 2.4 | Rusyn <rue@li.org> | 
+ | [feedreader](/f22/package/feedreader) | 0 | 0 | 0.0 |  | 
 {.sortable}
 
 

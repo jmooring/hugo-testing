@@ -18,10 +18,10 @@ The package butt (version 0.1.37):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 2418 | 2419 | 100.0 | /mnt/stockage/packages/f38/butt/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 2418 | 2419 | 100.0 | /mnt/stockage/packages/f38/butt/po/es.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 2418 | 2419 | 100.0 | /mnt/stockage/packages/f38/butt/po/pt_BR.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 2101 | 2419 | 86.9 | /mnt/stockage/packages/f38/butt/po/fr.po | 
+ | [de](/f38/language/de) | 2418 | 2419 | 100.0 | /mnt/stockage/packages/f38/butt/po/de.po | 
+ | [es](/f38/language/es) | 2418 | 2419 | 100.0 | /mnt/stockage/packages/f38/butt/po/es.po | 
+ | [pt_BR](/f38/language/pt_BR) | 2418 | 2419 | 100.0 | /mnt/stockage/packages/f38/butt/po/pt_BR.po | 
+ | [fr](/f38/language/fr) | 2101 | 2419 | 86.9 | /mnt/stockage/packages/f38/butt/po/fr.po | 
 {.sortable}
 
 

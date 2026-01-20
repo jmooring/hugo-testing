@@ -18,7 +18,7 @@ The package bootconf (version 1.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f11/language/ru.md" >}}) | 27 | 27 | 100.0 | /mnt/stockage/packages/f11/bootconf/ru.po | 
+ | [ru](/f11/language/ru) | 27 | 27 | 100.0 | /mnt/stockage/packages/f11/bootconf/ru.po | 
 {.sortable}
 
 

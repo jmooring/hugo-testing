@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [pidgin]({{< ref "/f22/package/pidgin.md" >}}) | 16414 | 18558 | 88.4 | Mari <muter@lists.linux-ink.ru> | 
- | [lightdm-gtk]({{< ref "/f22/package/lightdm-gtk.md" >}}) | 17 | 84 | 20.2 | Mari (Meadow) <mhr@li.org> | 
- | [simple-scan]({{< ref "/f22/package/simple-scan.md" >}}) | 36 | 580 | 6.2 | Mari (Meadow) <mhr@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 26 | 932 | 2.8 | Meadow Mari <mhr@li.org> | 
- | [deja-dup]({{< ref "/f22/package/deja-dup.md" >}}) | 12 | 2011 | 0.6 | Mari (Meadow) <mhr@li.org> | 
- | [lightdm]({{< ref "/f22/package/lightdm.md" >}}) | 0 | 79 | 0.0 | Mari (Meadow) <mhr@li.org> | 
+ | [pidgin](/f22/package/pidgin) | 16414 | 18558 | 88.4 | Mari <muter@lists.linux-ink.ru> | 
+ | [lightdm-gtk](/f22/package/lightdm-gtk) | 17 | 84 | 20.2 | Mari (Meadow) <mhr@li.org> | 
+ | [simple-scan](/f22/package/simple-scan) | 36 | 580 | 6.2 | Mari (Meadow) <mhr@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 26 | 932 | 2.8 | Meadow Mari <mhr@li.org> | 
+ | [deja-dup](/f22/package/deja-dup) | 12 | 2011 | 0.6 | Mari (Meadow) <mhr@li.org> | 
+ | [lightdm](/f22/package/lightdm) | 0 | 79 | 0.0 | Mari (Meadow) <mhr@li.org> | 
 {.sortable}
 
 

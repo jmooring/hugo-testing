@@ -18,9 +18,9 @@ The package openvas-gsa (version 6.0.10):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f22/language/de.md" >}}) | 6404 | 6404 | 100.0 | /mnt/stockage/packages/f22/openvas-gsa/src/po/gsad_xsl-de.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 6404 | 6404 | 100.0 | /mnt/stockage/packages/f22/openvas-gsa/src/po/gsad_xsl-zh_CN.po | 
- | [error]({{< ref "/f22/language/error.md" >}}) | 1508 | 6404 | 23.5 | /mnt/stockage/packages/f22/openvas-gsa/src/po/gsad_xsl-ru.po | 
+ | [de](/f22/language/de) | 6404 | 6404 | 100.0 | /mnt/stockage/packages/f22/openvas-gsa/src/po/gsad_xsl-de.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 6404 | 6404 | 100.0 | /mnt/stockage/packages/f22/openvas-gsa/src/po/gsad_xsl-zh_CN.po | 
+ | [error](/f22/language/error) | 1508 | 6404 | 23.5 | /mnt/stockage/packages/f22/openvas-gsa/src/po/gsad_xsl-ru.po | 
 {.sortable}
 
 

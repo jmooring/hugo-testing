@@ -38,12 +38,12 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [cinnamon-translations]({{< ref "/f40/package/cinnamon-translations.md" >}}) | 2743 | 9521 | 28.8 | Neapolitan <nap@li.org> | 
- | [slick-greeter]({{< ref "/f40/package/slick-greeter.md" >}}) | 35 | 216 | 16.2 | Neapolitan <nap@li.org> | 
- | [lightdm-settings]({{< ref "/f40/package/lightdm-settings.md" >}}) | 36 | 355 | 10.1 | Neapolitan <nap@li.org> | 
- | [gnome-do]({{< ref "/f40/package/gnome-do.md" >}}) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
- | [peek]({{< ref "/f40/package/peek.md" >}}) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
- | [deluge]({{< ref "/f40/package/deluge.md" >}}) | 62 | 4340 | 1.4 | Neapolitan <nap@li.org> | 
+ | [cinnamon-translations](/f40/package/cinnamon-translations) | 2743 | 9521 | 28.8 | Neapolitan <nap@li.org> | 
+ | [slick-greeter](/f40/package/slick-greeter) | 35 | 216 | 16.2 | Neapolitan <nap@li.org> | 
+ | [lightdm-settings](/f40/package/lightdm-settings) | 36 | 355 | 10.1 | Neapolitan <nap@li.org> | 
+ | [gnome-do](/f40/package/gnome-do) | 37 | 612 | 6.0 | Neapolitan <nap@li.org> | 
+ | [peek](/f40/package/peek) | 33 | 564 | 5.9 | Neapolitan <https://hosted.weblate.org/projects/peek/translations/nap/> | 
+ | [deluge](/f40/package/deluge) | 62 | 4340 | 1.4 | Neapolitan <nap@li.org> | 
 {.sortable}
 
 

@@ -18,11 +18,11 @@ The package photocollage (version 1.4.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f30/language/bg.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/bg.po | 
- | [cs]({{< ref "/f30/language/cs.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/cs.po | 
- | [de]({{< ref "/f30/language/de.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/de.po | 
- | [fr]({{< ref "/f30/language/fr.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/fr.po | 
- | [it]({{< ref "/f30/language/it.md" >}}) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/it.po | 
+ | [bg](/f30/language/bg) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/bg.po | 
+ | [cs](/f30/language/cs) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/cs.po | 
+ | [de](/f30/language/de) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/de.po | 
+ | [fr](/f30/language/fr) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/fr.po | 
+ | [it](/f30/language/it) | 46 | 46 | 100.0 | /mnt/stockage/packages/f30/photocollage/po/it.po | 
 {.sortable}
 
 

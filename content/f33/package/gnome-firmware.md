@@ -18,10 +18,10 @@ The package gnome-firmware (version 3.36.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [hr]({{< ref "/f33/language/hr.md" >}}) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/gnome-firmware/po/hr.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/gnome-firmware/po/it.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/gnome-firmware/po/tr.po | 
- | [en_GB]({{< ref "/f33/language/en_GB.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/gnome-firmware/po/en_GB.po | 
+ | [hr](/f33/language/hr) | 279 | 279 | 100.0 | /mnt/stockage/packages/f33/gnome-firmware/po/hr.po | 
+ | [it](/f33/language/it) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/gnome-firmware/po/it.po | 
+ | [tr](/f33/language/tr) | 214 | 214 | 100.0 | /mnt/stockage/packages/f33/gnome-firmware/po/tr.po | 
+ | [en_GB](/f33/language/en_GB) | 0 | 0 | 0.0 | /mnt/stockage/packages/f33/gnome-firmware/po/en_GB.po | 
 {.sortable}
 
 

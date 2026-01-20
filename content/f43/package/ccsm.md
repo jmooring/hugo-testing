@@ -18,46 +18,46 @@ The package ccsm (version 0.8.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f43/language/ca.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f43/ccsm/po/ca.po | 
- | [en_GB]({{< ref "/f43/language/en_GB.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f43/ccsm/po/en_GB.po | 
- | [hr]({{< ref "/f43/language/hr.md" >}}) | 591 | 591 | 100.0 | /mnt/stockage/packages/f43/ccsm/po/hr.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 575 | 591 | 97.3 | /mnt/stockage/packages/f43/ccsm/po/ru.po | 
- | [ar]({{< ref "/f43/language/ar.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/ar.po | 
- | [de]({{< ref "/f43/language/de.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/de.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/el.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/es.po | 
- | [eu]({{< ref "/f43/language/eu.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/eu.po | 
- | [fi]({{< ref "/f43/language/fi.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/fi.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/gl.po | 
- | [hu]({{< ref "/f43/language/hu.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/hu.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/it.po | 
- | [ja]({{< ref "/f43/language/ja.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/ja.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/pt_BR.po | 
- | [sv]({{< ref "/f43/language/sv.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/sv.po | 
- | [zh_Hans]({{< ref "/f43/language/zh_Hans.md" >}}) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/zh_CN.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 560 | 591 | 94.8 | /mnt/stockage/packages/f43/ccsm/po/he.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 560 | 591 | 94.8 | /mnt/stockage/packages/f43/ccsm/po/sk.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 558 | 591 | 94.4 | /mnt/stockage/packages/f43/ccsm/po/fr.po | 
- | [ko]({{< ref "/f43/language/ko.md" >}}) | 558 | 591 | 94.4 | /mnt/stockage/packages/f43/ccsm/po/ko.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 558 | 591 | 94.4 | /mnt/stockage/packages/f43/ccsm/po/pl.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 556 | 591 | 94.1 | /mnt/stockage/packages/f43/ccsm/po/tr.po | 
- | [nb_NO]({{< ref "/f43/language/nb_NO.md" >}}) | 536 | 591 | 90.7 | /mnt/stockage/packages/f43/ccsm/po/nb.po | 
- | [hi]({{< ref "/f43/language/hi.md" >}}) | 510 | 591 | 86.3 | /mnt/stockage/packages/f43/ccsm/po/hi.po | 
- | [pa]({{< ref "/f43/language/pa.md" >}}) | 510 | 591 | 86.3 | /mnt/stockage/packages/f43/ccsm/po/pa.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 509 | 591 | 86.1 | /mnt/stockage/packages/f43/ccsm/po/cs.po | 
- | [bn_IN]({{< ref "/f43/language/bn_IN.md" >}}) | 502 | 591 | 84.9 | /mnt/stockage/packages/f43/ccsm/po/bn_IN.po | 
- | [bn]({{< ref "/f43/language/bn.md" >}}) | 487 | 591 | 82.4 | /mnt/stockage/packages/f43/ccsm/po/bn.po | 
- | [id]({{< ref "/f43/language/id.md" >}}) | 401 | 591 | 67.9 | /mnt/stockage/packages/f43/ccsm/po/id.po | 
- | [mnk]({{< ref "/f43/language/mnk.md" >}}) | 399 | 591 | 67.5 | /mnt/stockage/packages/f43/ccsm/po/mnk.po | 
- | [wo]({{< ref "/f43/language/wo.md" >}}) | 399 | 591 | 67.5 | /mnt/stockage/packages/f43/ccsm/po/wo.po | 
- | [or]({{< ref "/f43/language/or.md" >}}) | 360 | 591 | 60.9 | /mnt/stockage/packages/f43/ccsm/po/or.po | 
- | [gu]({{< ref "/f43/language/gu.md" >}}) | 310 | 591 | 52.5 | /mnt/stockage/packages/f43/ccsm/po/gu.po | 
- | [bg]({{< ref "/f43/language/bg.md" >}}) | 306 | 591 | 51.8 | /mnt/stockage/packages/f43/ccsm/po/bg.po | 
- | [ml]({{< ref "/f43/language/ml.md" >}}) | 295 | 591 | 49.9 | /mnt/stockage/packages/f43/ccsm/po/ml_IN.po | 
- | [fa]({{< ref "/f43/language/fa.md" >}}) | 196 | 591 | 33.2 | /mnt/stockage/packages/f43/ccsm/po/fa.po | 
- | [as]({{< ref "/f43/language/as.md" >}}) | 115 | 591 | 19.5 | /mnt/stockage/packages/f43/ccsm/po/as.po | 
+ | [ca](/f43/language/ca) | 591 | 591 | 100.0 | /mnt/stockage/packages/f43/ccsm/po/ca.po | 
+ | [en_GB](/f43/language/en_GB) | 591 | 591 | 100.0 | /mnt/stockage/packages/f43/ccsm/po/en_GB.po | 
+ | [hr](/f43/language/hr) | 591 | 591 | 100.0 | /mnt/stockage/packages/f43/ccsm/po/hr.po | 
+ | [ru](/f43/language/ru) | 575 | 591 | 97.3 | /mnt/stockage/packages/f43/ccsm/po/ru.po | 
+ | [ar](/f43/language/ar) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/ar.po | 
+ | [de](/f43/language/de) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/de.po | 
+ | [el](/f43/language/el) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/el.po | 
+ | [es](/f43/language/es) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/es.po | 
+ | [eu](/f43/language/eu) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/eu.po | 
+ | [fi](/f43/language/fi) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/fi.po | 
+ | [gl](/f43/language/gl) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/gl.po | 
+ | [hu](/f43/language/hu) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/hu.po | 
+ | [it](/f43/language/it) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/it.po | 
+ | [ja](/f43/language/ja) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/ja.po | 
+ | [nl](/f43/language/nl) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/nl.po | 
+ | [pt](/f43/language/pt) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/pt_BR.po | 
+ | [sv](/f43/language/sv) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/sv.po | 
+ | [zh_Hans](/f43/language/zh_Hans) | 561 | 591 | 94.9 | /mnt/stockage/packages/f43/ccsm/po/zh_CN.po | 
+ | [he](/f43/language/he) | 560 | 591 | 94.8 | /mnt/stockage/packages/f43/ccsm/po/he.po | 
+ | [sk](/f43/language/sk) | 560 | 591 | 94.8 | /mnt/stockage/packages/f43/ccsm/po/sk.po | 
+ | [fr](/f43/language/fr) | 558 | 591 | 94.4 | /mnt/stockage/packages/f43/ccsm/po/fr.po | 
+ | [ko](/f43/language/ko) | 558 | 591 | 94.4 | /mnt/stockage/packages/f43/ccsm/po/ko.po | 
+ | [pl](/f43/language/pl) | 558 | 591 | 94.4 | /mnt/stockage/packages/f43/ccsm/po/pl.po | 
+ | [tr](/f43/language/tr) | 556 | 591 | 94.1 | /mnt/stockage/packages/f43/ccsm/po/tr.po | 
+ | [nb_NO](/f43/language/nb_NO) | 536 | 591 | 90.7 | /mnt/stockage/packages/f43/ccsm/po/nb.po | 
+ | [hi](/f43/language/hi) | 510 | 591 | 86.3 | /mnt/stockage/packages/f43/ccsm/po/hi.po | 
+ | [pa](/f43/language/pa) | 510 | 591 | 86.3 | /mnt/stockage/packages/f43/ccsm/po/pa.po | 
+ | [cs](/f43/language/cs) | 509 | 591 | 86.1 | /mnt/stockage/packages/f43/ccsm/po/cs.po | 
+ | [bn_IN](/f43/language/bn_IN) | 502 | 591 | 84.9 | /mnt/stockage/packages/f43/ccsm/po/bn_IN.po | 
+ | [bn](/f43/language/bn) | 487 | 591 | 82.4 | /mnt/stockage/packages/f43/ccsm/po/bn.po | 
+ | [id](/f43/language/id) | 401 | 591 | 67.9 | /mnt/stockage/packages/f43/ccsm/po/id.po | 
+ | [mnk](/f43/language/mnk) | 399 | 591 | 67.5 | /mnt/stockage/packages/f43/ccsm/po/mnk.po | 
+ | [wo](/f43/language/wo) | 399 | 591 | 67.5 | /mnt/stockage/packages/f43/ccsm/po/wo.po | 
+ | [or](/f43/language/or) | 360 | 591 | 60.9 | /mnt/stockage/packages/f43/ccsm/po/or.po | 
+ | [gu](/f43/language/gu) | 310 | 591 | 52.5 | /mnt/stockage/packages/f43/ccsm/po/gu.po | 
+ | [bg](/f43/language/bg) | 306 | 591 | 51.8 | /mnt/stockage/packages/f43/ccsm/po/bg.po | 
+ | [ml](/f43/language/ml) | 295 | 591 | 49.9 | /mnt/stockage/packages/f43/ccsm/po/ml_IN.po | 
+ | [fa](/f43/language/fa) | 196 | 591 | 33.2 | /mnt/stockage/packages/f43/ccsm/po/fa.po | 
+ | [as](/f43/language/as) | 115 | 591 | 19.5 | /mnt/stockage/packages/f43/ccsm/po/as.po | 
 {.sortable}
 
 

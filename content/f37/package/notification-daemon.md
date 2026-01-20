@@ -18,74 +18,74 @@ The package notification-daemon (version 3.20.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f37/language/an.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/an.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ar.po | 
- | [as]({{< ref "/f37/language/as.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/as.po | 
- | [ast]({{< ref "/f37/language/ast.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ast.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/be.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/bg.po | 
- | [bn]({{< ref "/f37/language/bn.md" >}}) | 34 | 34 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/bn_IN.po/mnt/stockage/packages/f37/notification-daemon/po/bn.po | 
- | [bs]({{< ref "/f37/language/bs.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/bs.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ca.po | 
- | [ca@valencia]({{< ref "/f37/language/ca@valencia.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ca@valencia.po | 
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/cs.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/da.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/de.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 29 | 29 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/el.po | 
- | [en_GB]({{< ref "/f37/language/en_GB.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/en_GB.po | 
- | [eo]({{< ref "/f37/language/eo.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/eo.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/es.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/et.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/eu.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fa.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fi.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fr.po | 
- | [fur]({{< ref "/f37/language/fur.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fur.po | 
- | [gl]({{< ref "/f37/language/gl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/gl.po | 
- | [gu]({{< ref "/f37/language/gu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/gu.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/he.po | 
- | [hi]({{< ref "/f37/language/hi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/hi.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/hu.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/id.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/it.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ja.po | 
- | [km]({{< ref "/f37/language/km.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/km.po | 
- | [kn]({{< ref "/f37/language/kn.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/kn.po | 
- | [ko]({{< ref "/f37/language/ko.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ko.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/lt.po | 
- | [lv]({{< ref "/f37/language/lv.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/lv.po | 
- | [ml]({{< ref "/f37/language/ml.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ml.po | 
- | [mr]({{< ref "/f37/language/mr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/mr.po | 
- | [ms]({{< ref "/f37/language/ms.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ms.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/nb.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/nl.po | 
- | [nn]({{< ref "/f37/language/nn.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/nn.po | 
- | [oc]({{< ref "/f37/language/oc.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/oc.po | 
- | [or]({{< ref "/f37/language/or.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/or.po | 
- | [pa]({{< ref "/f37/language/pa.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pa.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pl.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pt.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pt_BR.po | 
- | [qu]({{< ref "/f37/language/qu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/quz.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ro.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ru.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sk.po | 
- | [sl]({{< ref "/f37/language/sl.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sl.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 66 | 66 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sr.po/mnt/stockage/packages/f37/notification-daemon/po/sr@latin.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sv.po | 
- | [ta]({{< ref "/f37/language/ta.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ta.po | 
- | [te]({{< ref "/f37/language/te.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/te.po | 
- | [th]({{< ref "/f37/language/th.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/th.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/tr.po | 
- | [ug]({{< ref "/f37/language/ug.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ug.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/uk.po | 
- | [uz]({{< ref "/f37/language/uz.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/uz@cyrillic.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/vi.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f37/language/zh_Hant_HK.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zh_HK.po | 
- | [zu]({{< ref "/f37/language/zu.md" >}}) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zu.po | 
- | [af]({{< ref "/f37/language/af.md" >}}) | 15 | 17 | 88.2 | /mnt/stockage/packages/f37/notification-daemon/po/af.po | 
+ | [an](/f37/language/an) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/an.po | 
+ | [ar](/f37/language/ar) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ar.po | 
+ | [as](/f37/language/as) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/as.po | 
+ | [ast](/f37/language/ast) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ast.po | 
+ | [be](/f37/language/be) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/be.po | 
+ | [bg](/f37/language/bg) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/bg.po | 
+ | [bn](/f37/language/bn) | 34 | 34 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/bn_IN.po/mnt/stockage/packages/f37/notification-daemon/po/bn.po | 
+ | [bs](/f37/language/bs) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/bs.po | 
+ | [ca](/f37/language/ca) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ca.po | 
+ | [ca@valencia](/f37/language/ca@valencia) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ca@valencia.po | 
+ | [cs](/f37/language/cs) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/cs.po | 
+ | [da](/f37/language/da) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/da.po | 
+ | [de](/f37/language/de) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/de.po | 
+ | [el](/f37/language/el) | 29 | 29 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/el.po | 
+ | [en_GB](/f37/language/en_GB) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/en_GB.po | 
+ | [eo](/f37/language/eo) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/eo.po | 
+ | [es](/f37/language/es) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/es.po | 
+ | [et](/f37/language/et) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/et.po | 
+ | [eu](/f37/language/eu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/eu.po | 
+ | [fa](/f37/language/fa) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fa.po | 
+ | [fi](/f37/language/fi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fi.po | 
+ | [fr](/f37/language/fr) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fr.po | 
+ | [fur](/f37/language/fur) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/fur.po | 
+ | [gl](/f37/language/gl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/gl.po | 
+ | [gu](/f37/language/gu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/gu.po | 
+ | [he](/f37/language/he) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/he.po | 
+ | [hi](/f37/language/hi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/hi.po | 
+ | [hu](/f37/language/hu) | 24 | 24 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/hu.po | 
+ | [id](/f37/language/id) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/id.po | 
+ | [it](/f37/language/it) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/it.po | 
+ | [ja](/f37/language/ja) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ja.po | 
+ | [km](/f37/language/km) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/km.po | 
+ | [kn](/f37/language/kn) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/kn.po | 
+ | [ko](/f37/language/ko) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ko.po | 
+ | [lt](/f37/language/lt) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/lt.po | 
+ | [lv](/f37/language/lv) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/lv.po | 
+ | [ml](/f37/language/ml) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ml.po | 
+ | [mr](/f37/language/mr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/mr.po | 
+ | [ms](/f37/language/ms) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ms.po | 
+ | [nb_NO](/f37/language/nb_NO) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/nb.po | 
+ | [nl](/f37/language/nl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/nl.po | 
+ | [nn](/f37/language/nn) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/nn.po | 
+ | [oc](/f37/language/oc) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/oc.po | 
+ | [or](/f37/language/or) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/or.po | 
+ | [pa](/f37/language/pa) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pa.po | 
+ | [pl](/f37/language/pl) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pl.po | 
+ | [pt](/f37/language/pt) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pt.po | 
+ | [pt_BR](/f37/language/pt_BR) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/pt_BR.po | 
+ | [qu](/f37/language/qu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/quz.po | 
+ | [ro](/f37/language/ro) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ro.po | 
+ | [ru](/f37/language/ru) | 26 | 26 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ru.po | 
+ | [sk](/f37/language/sk) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sk.po | 
+ | [sl](/f37/language/sl) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sl.po | 
+ | [sr](/f37/language/sr) | 66 | 66 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sr.po/mnt/stockage/packages/f37/notification-daemon/po/sr@latin.po | 
+ | [sv](/f37/language/sv) | 33 | 33 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/sv.po | 
+ | [ta](/f37/language/ta) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ta.po | 
+ | [te](/f37/language/te) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/te.po | 
+ | [th](/f37/language/th) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/th.po | 
+ | [tr](/f37/language/tr) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/tr.po | 
+ | [ug](/f37/language/ug) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/ug.po | 
+ | [uk](/f37/language/uk) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/uk.po | 
+ | [uz](/f37/language/uz) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/uz@cyrillic.po | 
+ | [vi](/f37/language/vi) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/vi.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zh_CN.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f37/language/zh_Hant_HK) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zh_HK.po | 
+ | [zu](/f37/language/zu) | 17 | 17 | 100.0 | /mnt/stockage/packages/f37/notification-daemon/po/zu.po | 
+ | [af](/f37/language/af) | 15 | 17 | 88.2 | /mnt/stockage/packages/f37/notification-daemon/po/af.po | 
 {.sortable}
 
 

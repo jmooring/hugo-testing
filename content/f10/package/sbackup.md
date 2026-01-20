@@ -18,28 +18,28 @@ The package sbackup (version 0.10.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 707 | 713 | 99.2 | /mnt/stockage/packages/f10/sbackup/po/pt_BR.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 695 | 713 | 97.5 | /mnt/stockage/packages/f10/sbackup/po/es.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 694 | 713 | 97.3 | /mnt/stockage/packages/f10/sbackup/po/fr.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/en_GB.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/it.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/nl.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/sv.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/uk.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 683 | 713 | 95.8 | /mnt/stockage/packages/f10/sbackup/po/pl.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 652 | 713 | 91.4 | /mnt/stockage/packages/f10/sbackup/po/lv.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 601 | 713 | 84.3 | /mnt/stockage/packages/f10/sbackup/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 500 | 713 | 70.1 | /mnt/stockage/packages/f10/sbackup/po/nb.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 385 | 713 | 54.0 | /mnt/stockage/packages/f10/sbackup/po/ca.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 297 | 713 | 41.7 | /mnt/stockage/packages/f10/sbackup/po/de.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 247 | 713 | 34.6 | /mnt/stockage/packages/f10/sbackup/po/gl.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 247 | 713 | 34.6 | /mnt/stockage/packages/f10/sbackup/po/hu.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 180 | 713 | 25.2 | /mnt/stockage/packages/f10/sbackup/po/tr.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 130 | 713 | 18.2 | /mnt/stockage/packages/f10/sbackup/po/cs.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 128 | 713 | 18.0 | /mnt/stockage/packages/f10/sbackup/po/id.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 71 | 713 | 10.0 | /mnt/stockage/packages/f10/sbackup/po/pt.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 34 | 713 | 4.8 | /mnt/stockage/packages/f10/sbackup/po/zh_TW.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 11 | 713 | 1.5 | /mnt/stockage/packages/f10/sbackup/po/ms.po | 
+ | [pt_BR](/f10/language/pt_BR) | 707 | 713 | 99.2 | /mnt/stockage/packages/f10/sbackup/po/pt_BR.po | 
+ | [es](/f10/language/es) | 695 | 713 | 97.5 | /mnt/stockage/packages/f10/sbackup/po/es.po | 
+ | [fr](/f10/language/fr) | 694 | 713 | 97.3 | /mnt/stockage/packages/f10/sbackup/po/fr.po | 
+ | [en_GB](/f10/language/en_GB) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/en_GB.po | 
+ | [it](/f10/language/it) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/it.po | 
+ | [nl](/f10/language/nl) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/nl.po | 
+ | [sv](/f10/language/sv) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/sv.po | 
+ | [uk](/f10/language/uk) | 688 | 713 | 96.5 | /mnt/stockage/packages/f10/sbackup/po/uk.po | 
+ | [pl](/f10/language/pl) | 683 | 713 | 95.8 | /mnt/stockage/packages/f10/sbackup/po/pl.po | 
+ | [lv](/f10/language/lv) | 652 | 713 | 91.4 | /mnt/stockage/packages/f10/sbackup/po/lv.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 601 | 713 | 84.3 | /mnt/stockage/packages/f10/sbackup/po/zh_CN.po | 
+ | [nb_NO](/f10/language/nb_NO) | 500 | 713 | 70.1 | /mnt/stockage/packages/f10/sbackup/po/nb.po | 
+ | [ca](/f10/language/ca) | 385 | 713 | 54.0 | /mnt/stockage/packages/f10/sbackup/po/ca.po | 
+ | [de](/f10/language/de) | 297 | 713 | 41.7 | /mnt/stockage/packages/f10/sbackup/po/de.po | 
+ | [gl](/f10/language/gl) | 247 | 713 | 34.6 | /mnt/stockage/packages/f10/sbackup/po/gl.po | 
+ | [hu](/f10/language/hu) | 247 | 713 | 34.6 | /mnt/stockage/packages/f10/sbackup/po/hu.po | 
+ | [tr](/f10/language/tr) | 180 | 713 | 25.2 | /mnt/stockage/packages/f10/sbackup/po/tr.po | 
+ | [cs](/f10/language/cs) | 130 | 713 | 18.2 | /mnt/stockage/packages/f10/sbackup/po/cs.po | 
+ | [id](/f10/language/id) | 128 | 713 | 18.0 | /mnt/stockage/packages/f10/sbackup/po/id.po | 
+ | [pt](/f10/language/pt) | 71 | 713 | 10.0 | /mnt/stockage/packages/f10/sbackup/po/pt.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 34 | 713 | 4.8 | /mnt/stockage/packages/f10/sbackup/po/zh_TW.po | 
+ | [ms](/f10/language/ms) | 11 | 713 | 1.5 | /mnt/stockage/packages/f10/sbackup/po/ms.po | 
 {.sortable}
 
 

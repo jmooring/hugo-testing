@@ -18,43 +18,43 @@ The package kf5-kirigami2 (version 5.59.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ca/libkirigami2plugin_qt.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ca@valencia/libkirigami2plugin_qt.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/da/libkirigami2plugin_qt.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/de/libkirigami2plugin_qt.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/en_GB/libkirigami2plugin_qt.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/es/libkirigami2plugin_qt.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/eu/libkirigami2plugin_qt.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/fi/libkirigami2plugin_qt.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/fr/libkirigami2plugin_qt.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/gl/libkirigami2plugin_qt.po | 
- | [id]({{< ref "/f29/language/id.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/id/libkirigami2plugin_qt.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/it/libkirigami2plugin_qt.po | 
- | [ko]({{< ref "/f29/language/ko.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ko/libkirigami2plugin_qt.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/nl/libkirigami2plugin_qt.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/nn/libkirigami2plugin_qt.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/pl/libkirigami2plugin_qt.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/pt/libkirigami2plugin_qt.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/pt_BR/libkirigami2plugin_qt.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ru/libkirigami2plugin_qt.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sv/libkirigami2plugin_qt.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/uk/libkirigami2plugin_qt.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/zh_CN/libkirigami2plugin_qt.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/zh_TW/libkirigami2plugin_qt.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 24 | 26 | 92.3 | /mnt/stockage/packages/f29/kf5-kirigami2/po/cs/libkirigami2plugin_qt.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 23 | 26 | 88.5 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sk/libkirigami2plugin_qt.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 10 | 26 | 38.5 | /mnt/stockage/packages/f29/kf5-kirigami2/po/hu/libkirigami2plugin_qt.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 8 | 26 | 30.8 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ar/libkirigami2plugin_qt.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sl/libkirigami2plugin_qt.po | 
- | [sr]({{< ref "/f29/language/sr.md" >}}) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr/libkirigami2plugin_qt.po | 
- | [sr@ijekavian]({{< ref "/f29/language/sr@ijekavian.md" >}}) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr@ijekavian/libkirigami2plugin_qt.po | 
- | [sr@ijekavian_Latn]({{< ref "/f29/language/sr@ijekavian_Latn.md" >}}) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr@ijekavianlatin/libkirigami2plugin_qt.po | 
- | [sr_Latn]({{< ref "/f29/language/sr_Latn.md" >}}) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr@latin/libkirigami2plugin_qt.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/tr/libkirigami2plugin_qt.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 2 | 26 | 7.7 | /mnt/stockage/packages/f29/kf5-kirigami2/po/el/libkirigami2plugin_qt.po | 
- | [ia]({{< ref "/f29/language/ia.md" >}}) | 2 | 26 | 7.7 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ia/libkirigami2plugin_qt.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ja/libkirigami2plugin_qt.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 0 | 26 | 0.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/lt/libkirigami2plugin_qt.po | 
+ | [ca](/f29/language/ca) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ca/libkirigami2plugin_qt.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ca@valencia/libkirigami2plugin_qt.po | 
+ | [da](/f29/language/da) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/da/libkirigami2plugin_qt.po | 
+ | [de](/f29/language/de) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/de/libkirigami2plugin_qt.po | 
+ | [en_GB](/f29/language/en_GB) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/en_GB/libkirigami2plugin_qt.po | 
+ | [es](/f29/language/es) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/es/libkirigami2plugin_qt.po | 
+ | [eu](/f29/language/eu) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/eu/libkirigami2plugin_qt.po | 
+ | [fi](/f29/language/fi) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/fi/libkirigami2plugin_qt.po | 
+ | [fr](/f29/language/fr) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/fr/libkirigami2plugin_qt.po | 
+ | [gl](/f29/language/gl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/gl/libkirigami2plugin_qt.po | 
+ | [id](/f29/language/id) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/id/libkirigami2plugin_qt.po | 
+ | [it](/f29/language/it) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/it/libkirigami2plugin_qt.po | 
+ | [ko](/f29/language/ko) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ko/libkirigami2plugin_qt.po | 
+ | [nl](/f29/language/nl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/nl/libkirigami2plugin_qt.po | 
+ | [nn](/f29/language/nn) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/nn/libkirigami2plugin_qt.po | 
+ | [pl](/f29/language/pl) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/pl/libkirigami2plugin_qt.po | 
+ | [pt](/f29/language/pt) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/pt/libkirigami2plugin_qt.po | 
+ | [pt_BR](/f29/language/pt_BR) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/pt_BR/libkirigami2plugin_qt.po | 
+ | [ru](/f29/language/ru) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ru/libkirigami2plugin_qt.po | 
+ | [sv](/f29/language/sv) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sv/libkirigami2plugin_qt.po | 
+ | [uk](/f29/language/uk) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/uk/libkirigami2plugin_qt.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/zh_CN/libkirigami2plugin_qt.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 26 | 26 | 100.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/zh_TW/libkirigami2plugin_qt.po | 
+ | [cs](/f29/language/cs) | 24 | 26 | 92.3 | /mnt/stockage/packages/f29/kf5-kirigami2/po/cs/libkirigami2plugin_qt.po | 
+ | [sk](/f29/language/sk) | 23 | 26 | 88.5 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sk/libkirigami2plugin_qt.po | 
+ | [hu](/f29/language/hu) | 10 | 26 | 38.5 | /mnt/stockage/packages/f29/kf5-kirigami2/po/hu/libkirigami2plugin_qt.po | 
+ | [ar](/f29/language/ar) | 8 | 26 | 30.8 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ar/libkirigami2plugin_qt.po | 
+ | [sl](/f29/language/sl) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sl/libkirigami2plugin_qt.po | 
+ | [sr](/f29/language/sr) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr/libkirigami2plugin_qt.po | 
+ | [sr@ijekavian](/f29/language/sr@ijekavian) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr@ijekavian/libkirigami2plugin_qt.po | 
+ | [sr@ijekavian_Latn](/f29/language/sr@ijekavian_Latn) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr@ijekavianlatin/libkirigami2plugin_qt.po | 
+ | [sr_Latn](/f29/language/sr_Latn) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/sr@latin/libkirigami2plugin_qt.po | 
+ | [tr](/f29/language/tr) | 6 | 26 | 23.1 | /mnt/stockage/packages/f29/kf5-kirigami2/po/tr/libkirigami2plugin_qt.po | 
+ | [el](/f29/language/el) | 2 | 26 | 7.7 | /mnt/stockage/packages/f29/kf5-kirigami2/po/el/libkirigami2plugin_qt.po | 
+ | [ia](/f29/language/ia) | 2 | 26 | 7.7 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ia/libkirigami2plugin_qt.po | 
+ | [ja](/f29/language/ja) | 0 | 26 | 0.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/ja/libkirigami2plugin_qt.po | 
+ | [lt](/f29/language/lt) | 0 | 26 | 0.0 | /mnt/stockage/packages/f29/kf5-kirigami2/po/lt/libkirigami2plugin_qt.po | 
 {.sortable}
 
 

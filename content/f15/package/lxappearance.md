@@ -18,31 +18,31 @@ The package lxappearance (version 0.5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f15/language/da.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/da.po | 
- | [el]({{< ref "/f15/language/el.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/el.po | 
- | [en_GB]({{< ref "/f15/language/en_GB.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/en_GB.po | 
- | [es]({{< ref "/f15/language/es.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/es.po | 
- | [fa]({{< ref "/f15/language/fa.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/fa.po | 
- | [gl]({{< ref "/f15/language/gl.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/gl.po | 
- | [he]({{< ref "/f15/language/he.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/he.po | 
- | [hu]({{< ref "/f15/language/hu.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/hu.po | 
- | [id]({{< ref "/f15/language/id.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/id.po | 
- | [ja]({{< ref "/f15/language/ja.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/ja.po | 
- | [pt]({{< ref "/f15/language/pt.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/pt.po | 
- | [pt_BR]({{< ref "/f15/language/pt_BR.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/pt_BR.po | 
- | [ru]({{< ref "/f15/language/ru.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/ru.po | 
- | [sv]({{< ref "/f15/language/sv.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/sv.po | 
- | [tr]({{< ref "/f15/language/tr.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/tr.po | 
- | [uk]({{< ref "/f15/language/uk.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/uk.po | 
- | [vi]({{< ref "/f15/language/vi.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/vi.po | 
- | [zh_Hant]({{< ref "/f15/language/zh_Hant.md" >}}) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/zh_TW.po | 
- | [de]({{< ref "/f15/language/de.md" >}}) | 187 | 191 | 97.9 | /mnt/stockage/packages/f15/lxappearance/po/de.po | 
- | [sr]({{< ref "/f15/language/sr.md" >}}) | 183 | 191 | 95.8 | /mnt/stockage/packages/f15/lxappearance/po/sr.po | 
- | [sr_Latn]({{< ref "/f15/language/sr_Latn.md" >}}) | 183 | 191 | 95.8 | /mnt/stockage/packages/f15/lxappearance/po/sr@latin.po | 
- | [pa]({{< ref "/f15/language/pa.md" >}}) | 154 | 191 | 80.6 | /mnt/stockage/packages/f15/lxappearance/po/pa.po | 
- | [it]({{< ref "/f15/language/it.md" >}}) | 135 | 191 | 70.7 | /mnt/stockage/packages/f15/lxappearance/po/it.po | 
- | [fo]({{< ref "/f15/language/fo.md" >}}) | 132 | 191 | 69.1 | /mnt/stockage/packages/f15/lxappearance/po/fo.po | 
- | [fr]({{< ref "/f15/language/fr.md" >}}) | 105 | 191 | 55.0 | /mnt/stockage/packages/f15/lxappearance/po/fr.po | 
+ | [da](/f15/language/da) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/da.po | 
+ | [el](/f15/language/el) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/el.po | 
+ | [en_GB](/f15/language/en_GB) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/en_GB.po | 
+ | [es](/f15/language/es) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/es.po | 
+ | [fa](/f15/language/fa) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/fa.po | 
+ | [gl](/f15/language/gl) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/gl.po | 
+ | [he](/f15/language/he) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/he.po | 
+ | [hu](/f15/language/hu) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/hu.po | 
+ | [id](/f15/language/id) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/id.po | 
+ | [ja](/f15/language/ja) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/ja.po | 
+ | [pt](/f15/language/pt) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/pt.po | 
+ | [pt_BR](/f15/language/pt_BR) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/pt_BR.po | 
+ | [ru](/f15/language/ru) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/ru.po | 
+ | [sv](/f15/language/sv) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/sv.po | 
+ | [tr](/f15/language/tr) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/tr.po | 
+ | [uk](/f15/language/uk) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/uk.po | 
+ | [vi](/f15/language/vi) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/vi.po | 
+ | [zh_Hant](/f15/language/zh_Hant) | 191 | 191 | 100.0 | /mnt/stockage/packages/f15/lxappearance/po/zh_TW.po | 
+ | [de](/f15/language/de) | 187 | 191 | 97.9 | /mnt/stockage/packages/f15/lxappearance/po/de.po | 
+ | [sr](/f15/language/sr) | 183 | 191 | 95.8 | /mnt/stockage/packages/f15/lxappearance/po/sr.po | 
+ | [sr_Latn](/f15/language/sr_Latn) | 183 | 191 | 95.8 | /mnt/stockage/packages/f15/lxappearance/po/sr@latin.po | 
+ | [pa](/f15/language/pa) | 154 | 191 | 80.6 | /mnt/stockage/packages/f15/lxappearance/po/pa.po | 
+ | [it](/f15/language/it) | 135 | 191 | 70.7 | /mnt/stockage/packages/f15/lxappearance/po/it.po | 
+ | [fo](/f15/language/fo) | 132 | 191 | 69.1 | /mnt/stockage/packages/f15/lxappearance/po/fo.po | 
+ | [fr](/f15/language/fr) | 105 | 191 | 55.0 | /mnt/stockage/packages/f15/lxappearance/po/fr.po | 
 {.sortable}
 
 

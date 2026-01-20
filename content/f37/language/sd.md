@@ -39,36 +39,36 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-jukebox]({{< ref "/f37/package/sugar-jukebox.md" >}}) | 65 | 69 | 94.2 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 121 | 211 | 57.3 | Sindhi <sd@li.org> | 
- | [inkscape]({{< ref "/f37/package/inkscape.md" >}}) | 20462 | 40929 | 50.0 | Hindi <Indlinux> | 
- | [tuxpaint]({{< ref "/f37/package/tuxpaint.md" >}}) | 1120 | 3763 | 29.8 | Sindhi-PA | 
- | [libreoffice]({{< ref "/f37/package/libreoffice.md" >}}) | 46129 | 168400 | 27.4 | LANGUAGE <LL@li.org> | 
- | [lightdm-gtk]({{< ref "/f37/package/lightdm-gtk.md" >}}) | 23 | 89 | 25.8 | Sindhi <sd@li.org> | 
- | [simple-scan]({{< ref "/f37/package/simple-scan.md" >}}) | 121 | 589 | 20.5 | Sindhi <sd@li.org> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 87 | 986 | 8.8 | Sindhi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/sd/> | 
- | [sugar-chat]({{< ref "/f37/package/sugar-chat.md" >}}) | 1 | 137 | 0.7 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f37/package/sugar-read.md" >}}) | 1 | 137 | 0.7 | LANGUAGE <LL@li.org> | 
- | [onboard]({{< ref "/f37/package/onboard.md" >}}) | 4 | 2318 | 0.2 | Sindhi <sd@li.org> | 
- | [sugar-turtleart]({{< ref "/f37/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [deja-dup]({{< ref "/f37/package/deja-dup.md" >}}) | 1 | 1623 | 0.1 | Sindhi <sd@li.org> | 
- | [snapd]({{< ref "/f37/package/snapd.md" >}}) | 2 | 4307 | 0.0 | Sindhi <sd@li.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [lightdm]({{< ref "/f37/package/lightdm.md" >}}) | 0 | 163 | 0.0 | Sindhi <sd@li.org> | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pidgin]({{< ref "/f37/package/pidgin.md" >}}) | 0 | 14009 | 0.0 | Sindhi (http://www.transifex.com/pidgin/pidgin/language/sd/) | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f37/package/sugar-terminal.md" >}}) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f37/package/sugar-jukebox) | 65 | 69 | 94.2 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 121 | 211 | 57.3 | Sindhi <sd@li.org> | 
+ | [inkscape](/f37/package/inkscape) | 20462 | 40929 | 50.0 | Hindi <Indlinux> | 
+ | [tuxpaint](/f37/package/tuxpaint) | 1120 | 3763 | 29.8 | Sindhi-PA | 
+ | [libreoffice](/f37/package/libreoffice) | 46129 | 168400 | 27.4 | LANGUAGE <LL@li.org> | 
+ | [lightdm-gtk](/f37/package/lightdm-gtk) | 23 | 89 | 25.8 | Sindhi <sd@li.org> | 
+ | [simple-scan](/f37/package/simple-scan) | 121 | 589 | 20.5 | Sindhi <sd@li.org> | 
+ | [iso-codes](/f37/package/iso-codes) | 87 | 986 | 8.8 | Sindhi <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/sd/> | 
+ | [sugar-chat](/f37/package/sugar-chat) | 1 | 137 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f37/package/sugar-read) | 1 | 137 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [onboard](/f37/package/onboard) | 4 | 2318 | 0.2 | Sindhi <sd@li.org> | 
+ | [sugar-turtleart](/f37/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [deja-dup](/f37/package/deja-dup) | 1 | 1623 | 0.1 | Sindhi <sd@li.org> | 
+ | [snapd](/f37/package/snapd) | 2 | 4307 | 0.0 | Sindhi <sd@li.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [lightdm](/f37/package/lightdm) | 0 | 163 | 0.0 | Sindhi <sd@li.org> | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pidgin](/f37/package/pidgin) | 0 | 14009 | 0.0 | Sindhi (http://www.transifex.com/pidgin/pidgin/language/sd/) | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-clock](/f37/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f37/package/sugar-terminal) | 0 | 121 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

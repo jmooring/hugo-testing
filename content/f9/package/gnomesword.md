@@ -18,20 +18,20 @@ The package gnomesword (version 2.3.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 8632 | 8632 | 100.0 | /mnt/stockage/packages/f9/gnomesword/help/fr/fr.po/mnt/stockage/packages/f9/gnomesword/po/fr.po | 
- | [nb_NO]({{< ref "/f9/language/nb_NO.md" >}}) | 1972 | 1983 | 99.4 | /mnt/stockage/packages/f9/gnomesword/po/nb_NO.po | 
- | [fi]({{< ref "/f9/language/fi.md" >}}) | 1409 | 1442 | 97.7 | /mnt/stockage/packages/f9/gnomesword/po/fi.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1651 | 1731 | 95.4 | /mnt/stockage/packages/f9/gnomesword/po/cs.po | 
- | [nl]({{< ref "/f9/language/nl.md" >}}) | 1850 | 1983 | 93.3 | /mnt/stockage/packages/f9/gnomesword/po/nl.po | 
- | [pt]({{< ref "/f9/language/pt.md" >}}) | 1704 | 2008 | 84.9 | /mnt/stockage/packages/f9/gnomesword/po/pt.po | 
- | [uk]({{< ref "/f9/language/uk.md" >}}) | 913 | 1442 | 63.3 | /mnt/stockage/packages/f9/gnomesword/po/uk.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 764 | 1442 | 53.0 | /mnt/stockage/packages/f9/gnomesword/po/ru.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1837 | 6645 | 27.6 | /mnt/stockage/packages/f9/gnomesword/help/de/de.po/mnt/stockage/packages/f9/gnomesword/po/de.po | 
- | [fa]({{< ref "/f9/language/fa.md" >}}) | 237 | 1731 | 13.7 | /mnt/stockage/packages/f9/gnomesword/po/fa.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 159 | 1633 | 9.7 | /mnt/stockage/packages/f9/gnomesword/po/es.po | 
- | [sk]({{< ref "/f9/language/sk.md" >}}) | 101 | 1442 | 7.0 | /mnt/stockage/packages/f9/gnomesword/po/sk.po | 
- | [bg]({{< ref "/f9/language/bg.md" >}}) | 96 | 1442 | 6.7 | /mnt/stockage/packages/f9/gnomesword/po/bg.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 2 | 1442 | 0.1 | /mnt/stockage/packages/f9/gnomesword/po/en_GB.po | 
+ | [fr](/f9/language/fr) | 8632 | 8632 | 100.0 | /mnt/stockage/packages/f9/gnomesword/help/fr/fr.po/mnt/stockage/packages/f9/gnomesword/po/fr.po | 
+ | [nb_NO](/f9/language/nb_NO) | 1972 | 1983 | 99.4 | /mnt/stockage/packages/f9/gnomesword/po/nb_NO.po | 
+ | [fi](/f9/language/fi) | 1409 | 1442 | 97.7 | /mnt/stockage/packages/f9/gnomesword/po/fi.po | 
+ | [cs](/f9/language/cs) | 1651 | 1731 | 95.4 | /mnt/stockage/packages/f9/gnomesword/po/cs.po | 
+ | [nl](/f9/language/nl) | 1850 | 1983 | 93.3 | /mnt/stockage/packages/f9/gnomesword/po/nl.po | 
+ | [pt](/f9/language/pt) | 1704 | 2008 | 84.9 | /mnt/stockage/packages/f9/gnomesword/po/pt.po | 
+ | [uk](/f9/language/uk) | 913 | 1442 | 63.3 | /mnt/stockage/packages/f9/gnomesword/po/uk.po | 
+ | [ru](/f9/language/ru) | 764 | 1442 | 53.0 | /mnt/stockage/packages/f9/gnomesword/po/ru.po | 
+ | [de](/f9/language/de) | 1837 | 6645 | 27.6 | /mnt/stockage/packages/f9/gnomesword/help/de/de.po/mnt/stockage/packages/f9/gnomesword/po/de.po | 
+ | [fa](/f9/language/fa) | 237 | 1731 | 13.7 | /mnt/stockage/packages/f9/gnomesword/po/fa.po | 
+ | [es](/f9/language/es) | 159 | 1633 | 9.7 | /mnt/stockage/packages/f9/gnomesword/po/es.po | 
+ | [sk](/f9/language/sk) | 101 | 1442 | 7.0 | /mnt/stockage/packages/f9/gnomesword/po/sk.po | 
+ | [bg](/f9/language/bg) | 96 | 1442 | 6.7 | /mnt/stockage/packages/f9/gnomesword/po/bg.po | 
+ | [en_GB](/f9/language/en_GB) | 2 | 1442 | 0.1 | /mnt/stockage/packages/f9/gnomesword/po/en_GB.po | 
 {.sortable}
 
 

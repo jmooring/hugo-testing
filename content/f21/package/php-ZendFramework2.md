@@ -18,8 +18,8 @@ The package php-ZendFramework2 (version 2.4.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f21/language/en.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework2/ZendTest/I18n/Translator/_files/translation_en.po | 
- | [error]({{< ref "/f21/language/error.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f21/php-ZendFramework2/ZendTest/I18n/Translator/_files/translation_empty.po | 
+ | [en](/f21/language/en) | 25 | 25 | 100.0 | /mnt/stockage/packages/f21/php-ZendFramework2/ZendTest/I18n/Translator/_files/translation_en.po | 
+ | [error](/f21/language/error) | 0 | 0 | 0.0 | /mnt/stockage/packages/f21/php-ZendFramework2/ZendTest/I18n/Translator/_files/translation_empty.po | 
 {.sortable}
 
 

@@ -18,18 +18,18 @@ The package mkvtoolnix (version 4.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f16/language/de.md" >}}) | 17328 | 17328 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/po/de.po | 
- | [uk]({{< ref "/f16/language/uk.md" >}}) | 17328 | 17328 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/po/uk.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 29816 | 29817 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f16/mkvtoolnix/po/zh_CN.po | 
- | [man]({{< ref "/f16/language/man.md" >}}) | 12488 | 12489 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/doc/man/po4a/po/ja.po | 
- | [ja]({{< ref "/f16/language/ja.md" >}}) | 17279 | 17328 | 99.7 | /mnt/stockage/packages/f16/mkvtoolnix/po/ja.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 17271 | 17328 | 99.7 | /mnt/stockage/packages/f16/mkvtoolnix/po/ru.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 17218 | 17328 | 99.4 | /mnt/stockage/packages/f16/mkvtoolnix/po/es.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 17218 | 17328 | 99.4 | /mnt/stockage/packages/f16/mkvtoolnix/po/zh_TW.po | 
- | [nl]({{< ref "/f16/language/nl.md" >}}) | 29461 | 29817 | 98.8 | /mnt/stockage/packages/f16/mkvtoolnix/doc/man/po4a/po/nl.po/mnt/stockage/packages/f16/mkvtoolnix/po/nl.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 8123 | 17328 | 46.9 | /mnt/stockage/packages/f16/mkvtoolnix/po/it.po | 
- | [tr]({{< ref "/f16/language/tr.md" >}}) | 6542 | 17328 | 37.8 | /mnt/stockage/packages/f16/mkvtoolnix/po/tr.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 2092 | 17328 | 12.1 | /mnt/stockage/packages/f16/mkvtoolnix/po/fr.po | 
+ | [de](/f16/language/de) | 17328 | 17328 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/po/de.po | 
+ | [uk](/f16/language/uk) | 17328 | 17328 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/po/uk.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 29816 | 29817 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/doc/man/po4a/po/zh_CN.po/mnt/stockage/packages/f16/mkvtoolnix/po/zh_CN.po | 
+ | [man](/f16/language/man) | 12488 | 12489 | 100.0 | /mnt/stockage/packages/f16/mkvtoolnix/doc/man/po4a/po/ja.po | 
+ | [ja](/f16/language/ja) | 17279 | 17328 | 99.7 | /mnt/stockage/packages/f16/mkvtoolnix/po/ja.po | 
+ | [ru](/f16/language/ru) | 17271 | 17328 | 99.7 | /mnt/stockage/packages/f16/mkvtoolnix/po/ru.po | 
+ | [es](/f16/language/es) | 17218 | 17328 | 99.4 | /mnt/stockage/packages/f16/mkvtoolnix/po/es.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 17218 | 17328 | 99.4 | /mnt/stockage/packages/f16/mkvtoolnix/po/zh_TW.po | 
+ | [nl](/f16/language/nl) | 29461 | 29817 | 98.8 | /mnt/stockage/packages/f16/mkvtoolnix/doc/man/po4a/po/nl.po/mnt/stockage/packages/f16/mkvtoolnix/po/nl.po | 
+ | [it](/f16/language/it) | 8123 | 17328 | 46.9 | /mnt/stockage/packages/f16/mkvtoolnix/po/it.po | 
+ | [tr](/f16/language/tr) | 6542 | 17328 | 37.8 | /mnt/stockage/packages/f16/mkvtoolnix/po/tr.po | 
+ | [fr](/f16/language/fr) | 2092 | 17328 | 12.1 | /mnt/stockage/packages/f16/mkvtoolnix/po/fr.po | 
 {.sortable}
 
 

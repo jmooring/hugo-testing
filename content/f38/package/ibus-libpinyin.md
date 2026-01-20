@@ -18,18 +18,18 @@ The package ibus-libpinyin (version 1.15.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f38/language/de.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f38/ibus-libpinyin/po/de.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f38/ibus-libpinyin/po/uk.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 460 | 460 | 100.0 | /mnt/stockage/packages/f38/ibus-libpinyin/po/zh_CN.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/fr.po | 
- | [zh_Hant]({{< ref "/f38/language/zh_Hant.md" >}}) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f38/language/zh_Hant_HK.md" >}}) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/zh_HK.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 360 | 460 | 78.3 | /mnt/stockage/packages/f38/ibus-libpinyin/po/ca.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 314 | 460 | 68.3 | /mnt/stockage/packages/f38/ibus-libpinyin/po/cs.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 66 | 460 | 14.3 | /mnt/stockage/packages/f38/ibus-libpinyin/po/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 42 | 460 | 9.1 | /mnt/stockage/packages/f38/ibus-libpinyin/po/ru.po | 
- | [si]({{< ref "/f38/language/si.md" >}}) | 4 | 460 | 0.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/si.po | 
+ | [de](/f38/language/de) | 460 | 460 | 100.0 | /mnt/stockage/packages/f38/ibus-libpinyin/po/de.po | 
+ | [uk](/f38/language/uk) | 460 | 460 | 100.0 | /mnt/stockage/packages/f38/ibus-libpinyin/po/uk.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 460 | 460 | 100.0 | /mnt/stockage/packages/f38/ibus-libpinyin/po/zh_CN.po | 
+ | [es](/f38/language/es) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/es.po | 
+ | [fr](/f38/language/fr) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/fr.po | 
+ | [zh_Hant](/f38/language/zh_Hant) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/zh_TW.po | 
+ | [zh_Hant_HK](/f38/language/zh_Hant_HK) | 418 | 460 | 90.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/zh_HK.po | 
+ | [ca](/f38/language/ca) | 360 | 460 | 78.3 | /mnt/stockage/packages/f38/ibus-libpinyin/po/ca.po | 
+ | [cs](/f38/language/cs) | 314 | 460 | 68.3 | /mnt/stockage/packages/f38/ibus-libpinyin/po/cs.po | 
+ | [pt_BR](/f38/language/pt_BR) | 66 | 460 | 14.3 | /mnt/stockage/packages/f38/ibus-libpinyin/po/pt_BR.po | 
+ | [ru](/f38/language/ru) | 42 | 460 | 9.1 | /mnt/stockage/packages/f38/ibus-libpinyin/po/ru.po | 
+ | [si](/f38/language/si) | 4 | 460 | 0.9 | /mnt/stockage/packages/f38/ibus-libpinyin/po/si.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [gnomad2]({{< ref "/f22/package/gnomad2.md" >}}) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
- | [pyroom]({{< ref "/f22/package/pyroom.md" >}}) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
- | [mintmenu]({{< ref "/f22/package/mintmenu.md" >}}) | 15 | 862 | 1.7 | Scots <sco@li.org> | 
- | [picard]({{< ref "/f22/package/picard.md" >}}) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
- | [stellarium]({{< ref "/f22/package/stellarium.md" >}}) | 53 | 15825 | 0.3 | Scots <sco@li.org> | 
- | [bzr]({{< ref "/f22/package/bzr.md" >}}) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
- | [vidalia]({{< ref "/f22/package/vidalia.md" >}}) | 2 | 10369 | 0.0 | translations@vidalia-project.net | 
+ | [gnomad2](/f22/package/gnomad2) | 697 | 697 | 100.0 | Scots <sco@li.org> | 
+ | [pyroom](/f22/package/pyroom) | 21 | 411 | 5.1 | Scots <sco@li.org> | 
+ | [mintmenu](/f22/package/mintmenu) | 15 | 862 | 1.7 | Scots <sco@li.org> | 
+ | [picard](/f22/package/picard) | 29 | 1681 | 1.7 | Scots (http://www.transifex.com/projects/p/musicbrainz/language/sco/) | 
+ | [stellarium](/f22/package/stellarium) | 53 | 15825 | 0.3 | Scots <sco@li.org> | 
+ | [bzr](/f22/package/bzr) | 23 | 33249 | 0.1 | Scots <sco@li.org> | 
+ | [vidalia](/f22/package/vidalia) | 2 | 10369 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

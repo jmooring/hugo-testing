@@ -18,8 +18,8 @@ The package heketi (version 5.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f27/language/en.md" >}}) | 2850 | 2850 | 100.0 | /mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/test/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 125 | 125 | 100.0 | /mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
+ | [en](/f27/language/en) | 2850 | 2850 | 100.0 | /mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/kubectl/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/kubectl/en_US/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/test/default/LC_MESSAGES/k8s.po/mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/test/en_US/LC_MESSAGES/k8s.po | 
+ | [fr](/f27/language/fr) | 125 | 125 | 100.0 | /mnt/stockage/packages/f27/heketi/k8s.io/kubernetes/translations/kubectl/fr_FR/LC_MESSAGES/k8s.po | 
 {.sortable}
 
 

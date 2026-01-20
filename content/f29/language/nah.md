@@ -38,44 +38,44 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f29/package/olpc-switch-desktop.md" >}}) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f29/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f29/package/sugar-maze.md" >}}) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f29/package/sugar-memorize.md" >}}) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f29/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f29/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f29/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f29/package/sugar-clock.md" >}}) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f29/package/sugar-typing-turtle.md" >}}) | 491 | 599 | 82.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f29/package/sugar-getiabooks.md" >}}) | 102 | 150 | 68.0 | LANGUAGE <LL@li.org> | 
- | [sugar-stopwatch]({{< ref "/f29/package/sugar-stopwatch.md" >}}) | 3 | 5 | 60.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f29/package/sugar-distance.md" >}}) | 57 | 99 | 57.6 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f29/package/sugar-paint.md" >}}) | 56 | 106 | 52.8 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f29/package/sugar-browse.md" >}}) | 167 | 334 | 50.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f29/package/sugar-physics.md" >}}) | 24 | 48 | 50.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f29/package/sugar-toolkit-gtk3.md" >}}) | 70 | 159 | 44.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f29/package/sugar-fototoon.md" >}}) | 45 | 121 | 37.2 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f29/package/iso-codes.md" >}}) | 235 | 986 | 23.8 | Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/> | 
- | [sugar-finance]({{< ref "/f29/package/sugar-finance.md" >}}) | 39 | 258 | 15.1 | LANGUAGE <LL@li.org> | 
- | [sugar-measure]({{< ref "/f29/package/sugar-measure.md" >}}) | 12 | 162 | 7.4 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f29/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [mate-system-monitor]({{< ref "/f29/package/mate-system-monitor.md" >}}) | 206 | 4479 | 4.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [sugar-visualmatch]({{< ref "/f29/package/sugar-visualmatch.md" >}}) | 4 | 158 | 2.5 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f29/package/sugar.md" >}}) | 46 | 2305 | 2.0 | LANGUAGE <LL@li.org> | 
- | [mate-menus]({{< ref "/f29/package/mate-menus.md" >}}) | 1 | 97 | 1.0 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [mate-sensors-applet]({{< ref "/f29/package/mate-sensors-applet.md" >}}) | 2 | 309 | 0.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
- | [libmatekbd]({{< ref "/f29/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
- | [mate-menu]({{< ref "/f29/package/mate-menu.md" >}}) | 0 | 316 | 0.0 | Nahuatl (http://www.transifex.com/projects/p/MATE/language/nah/) | 
- | [mate-themes]({{< ref "/f29/package/mate-themes.md" >}}) | 0 | 60 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
- | [sugar-deducto]({{< ref "/f29/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f29/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-implode]({{< ref "/f29/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f29/package/sugar-infoslicer.md" >}}) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f29/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f29/package/sugar-record.md" >}}) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f29/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-speak]({{< ref "/f29/package/sugar-speak.md" >}}) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-story]({{< ref "/f29/package/sugar-story.md" >}}) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [olpc-switch-desktop](/f29/package/olpc-switch-desktop) | 158 | 158 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f29/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f29/package/sugar-maze) | 7 | 7 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f29/package/sugar-memorize) | 142 | 142 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f29/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f29/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f29/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f29/package/sugar-clock) | 59 | 66 | 89.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f29/package/sugar-typing-turtle) | 491 | 599 | 82.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f29/package/sugar-getiabooks) | 102 | 150 | 68.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-stopwatch](/f29/package/sugar-stopwatch) | 3 | 5 | 60.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f29/package/sugar-distance) | 57 | 99 | 57.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f29/package/sugar-paint) | 56 | 106 | 52.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f29/package/sugar-browse) | 167 | 334 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f29/package/sugar-physics) | 24 | 48 | 50.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f29/package/sugar-toolkit-gtk3) | 70 | 159 | 44.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f29/package/sugar-fototoon) | 45 | 121 | 37.2 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f29/package/iso-codes) | 235 | 986 | 23.8 | Nahuatl languages <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/nah/> | 
+ | [sugar-finance](/f29/package/sugar-finance) | 39 | 258 | 15.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-measure](/f29/package/sugar-measure) | 12 | 162 | 7.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f29/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [mate-system-monitor](/f29/package/mate-system-monitor) | 206 | 4479 | 4.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [sugar-visualmatch](/f29/package/sugar-visualmatch) | 4 | 158 | 2.5 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f29/package/sugar) | 46 | 2305 | 2.0 | LANGUAGE <LL@li.org> | 
+ | [mate-menus](/f29/package/mate-menus) | 1 | 97 | 1.0 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [mate-sensors-applet](/f29/package/mate-sensors-applet) | 2 | 309 | 0.6 | Nahuatl (https://www.transifex.com/mate/teams/13566/nah/) | 
+ | [libmatekbd](/f29/package/libmatekbd) | 0 | 251 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
+ | [mate-menu](/f29/package/mate-menu) | 0 | 316 | 0.0 | Nahuatl (http://www.transifex.com/projects/p/MATE/language/nah/) | 
+ | [mate-themes](/f29/package/mate-themes) | 0 | 60 | 0.0 | Nahuatl (http://www.transifex.com/mate/MATE/language/nah/) | 
+ | [sugar-deducto](/f29/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f29/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-implode](/f29/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f29/package/sugar-infoslicer) | 0 | 236 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f29/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f29/package/sugar-record) | 0 | 62 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f29/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-speak](/f29/package/sugar-speak) | 0 | 227 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-story](/f29/package/sugar-story) | 0 | 24 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,26 +18,26 @@ The package trytond-country (version 4.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f33/language/ca.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/ca_ES.po | 
- | [de]({{< ref "/f33/language/de.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/de_DE.po | 
- | [es]({{< ref "/f33/language/es.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_ES.po | 
- | [es_AR]({{< ref "/f33/language/es_AR.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_AR.po | 
- | [es_CO]({{< ref "/f33/language/es_CO.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_CO.po | 
- | [es_EC]({{< ref "/f33/language/es_EC.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_EC.po | 
- | [fr]({{< ref "/f33/language/fr.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/fr_FR.po | 
- | [sl]({{< ref "/f33/language/sl.md" >}}) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/sl_SI.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 7507 | 7539 | 99.6 | /mnt/stockage/packages/f33/trytond-country/locale/pt_BR.po | 
- | [es_MX]({{< ref "/f33/language/es_MX.md" >}}) | 7502 | 7539 | 99.5 | /mnt/stockage/packages/f33/trytond-country/locale/es_MX.po | 
- | [bg]({{< ref "/f33/language/bg.md" >}}) | 7427 | 7539 | 98.5 | /mnt/stockage/packages/f33/trytond-country/locale/bg_BG.po | 
- | [hu]({{< ref "/f33/language/hu.md" >}}) | 7375 | 7539 | 97.8 | /mnt/stockage/packages/f33/trytond-country/locale/hu_HU.po | 
- | [it]({{< ref "/f33/language/it.md" >}}) | 7282 | 7539 | 96.6 | /mnt/stockage/packages/f33/trytond-country/locale/it_IT.po | 
- | [cs]({{< ref "/f33/language/cs.md" >}}) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/cs_CZ.po | 
- | [ja]({{< ref "/f33/language/ja.md" >}}) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/ja_JP.po | 
- | [lt]({{< ref "/f33/language/lt.md" >}}) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/lt_LT.po | 
- | [nl]({{< ref "/f33/language/nl.md" >}}) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/nl_NL.po | 
- | [zh_Hans]({{< ref "/f33/language/zh_Hans.md" >}}) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/zh_CN.po | 
- | [ru]({{< ref "/f33/language/ru.md" >}}) | 847 | 7539 | 11.2 | /mnt/stockage/packages/f33/trytond-country/locale/ru_RU.po | 
- | [lo]({{< ref "/f33/language/lo.md" >}}) | 721 | 7539 | 9.6 | /mnt/stockage/packages/f33/trytond-country/locale/lo_LA.po | 
+ | [ca](/f33/language/ca) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/ca_ES.po | 
+ | [de](/f33/language/de) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/de_DE.po | 
+ | [es](/f33/language/es) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_ES.po | 
+ | [es_AR](/f33/language/es_AR) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_AR.po | 
+ | [es_CO](/f33/language/es_CO) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_CO.po | 
+ | [es_EC](/f33/language/es_EC) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/es_EC.po | 
+ | [fr](/f33/language/fr) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/fr_FR.po | 
+ | [sl](/f33/language/sl) | 7539 | 7539 | 100.0 | /mnt/stockage/packages/f33/trytond-country/locale/sl_SI.po | 
+ | [pt_BR](/f33/language/pt_BR) | 7507 | 7539 | 99.6 | /mnt/stockage/packages/f33/trytond-country/locale/pt_BR.po | 
+ | [es_MX](/f33/language/es_MX) | 7502 | 7539 | 99.5 | /mnt/stockage/packages/f33/trytond-country/locale/es_MX.po | 
+ | [bg](/f33/language/bg) | 7427 | 7539 | 98.5 | /mnt/stockage/packages/f33/trytond-country/locale/bg_BG.po | 
+ | [hu](/f33/language/hu) | 7375 | 7539 | 97.8 | /mnt/stockage/packages/f33/trytond-country/locale/hu_HU.po | 
+ | [it](/f33/language/it) | 7282 | 7539 | 96.6 | /mnt/stockage/packages/f33/trytond-country/locale/it_IT.po | 
+ | [cs](/f33/language/cs) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/cs_CZ.po | 
+ | [ja](/f33/language/ja) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/ja_JP.po | 
+ | [lt](/f33/language/lt) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/lt_LT.po | 
+ | [nl](/f33/language/nl) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/nl_NL.po | 
+ | [zh_Hans](/f33/language/zh_Hans) | 7252 | 7539 | 96.2 | /mnt/stockage/packages/f33/trytond-country/locale/zh_CN.po | 
+ | [ru](/f33/language/ru) | 847 | 7539 | 11.2 | /mnt/stockage/packages/f33/trytond-country/locale/ru_RU.po | 
+ | [lo](/f33/language/lo) | 721 | 7539 | 9.6 | /mnt/stockage/packages/f33/trytond-country/locale/lo_LA.po | 
 {.sortable}
 
 

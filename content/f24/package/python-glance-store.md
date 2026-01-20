@@ -18,8 +18,8 @@ The package python-glance-store (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f24/python-glance-store/glance_store/locale/es/LC_MESSAGES/glance_store-log-warning.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 9 | 9 | 100.0 | /mnt/stockage/packages/f24/python-glance-store/glance_store/locale/fr/LC_MESSAGES/glance_store-log-warning.po | 
+ | [es](/f24/language/es) | 9 | 9 | 100.0 | /mnt/stockage/packages/f24/python-glance-store/glance_store/locale/es/LC_MESSAGES/glance_store-log-warning.po | 
+ | [fr](/f24/language/fr) | 9 | 9 | 100.0 | /mnt/stockage/packages/f24/python-glance-store/glance_store/locale/fr/LC_MESSAGES/glance_store-log-warning.po | 
 {.sortable}
 
 

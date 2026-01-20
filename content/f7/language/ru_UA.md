@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [aquamarine]({{< ref "/f7/package/aquamarine.md" >}}) | 60 | 61 | 98.4 |  | 
+ | [aquamarine](/f7/package/aquamarine) | 60 | 61 | 98.4 |  | 
 {.sortable}
 
 

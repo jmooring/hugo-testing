@@ -38,23 +38,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [deluge]({{< ref "/f7/package/deluge.md" >}}) | 2352 | 2352 | 100.0 | English (Australia) <en_AU@li.org> | 
- | [xchat-gnome]({{< ref "/f7/package/xchat-gnome.md" >}}) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
- | [pidgin-guifications]({{< ref "/f7/package/pidgin-guifications.md" >}}) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
- | [pidgin]({{< ref "/f7/package/pidgin.md" >}}) | 7347 | 15654 | 46.9 | English/AU <trans@six-by-nine.com.au> | 
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | 1468 | 3616 | 40.6 |  | 
- | [ntfs-config]({{< ref "/f7/package/ntfs-config.md" >}}) | 29 | 455 | 6.4 | English (Australia) <en_AU@li.org> | 
- | [orage]({{< ref "/f7/package/orage.md" >}}) | 36 | 864 | 4.2 | Australian English <en_gb@li.org> | 
- | [Democracy]({{< ref "/f7/package/Democracy.md" >}}) | 117 | 3102 | 3.8 | English (Australia) <en_AU@li.org> | 
- | [evolution-data-server]({{< ref "/f7/package/evolution-data-server.md" >}}) | 166 | 4501 | 3.7 |  | 
- | [gourmet]({{< ref "/f7/package/gourmet.md" >}}) | 110 | 3526 | 3.1 | English (Australia) <en_AU@li.org> | 
- | [abiword]({{< ref "/f7/package/abiword.md" >}}) | 102 | 4644 | 2.2 | unknown <email@address> | 
- | [bazaar]({{< ref "/f7/package/bazaar.md" >}}) | 129 | 6524 | 2.0 | English (Australia) <en_AU@li.org> | 
- | [gnomebaker]({{< ref "/f7/package/gnomebaker.md" >}}) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
- | [evolution]({{< ref "/f7/package/evolution.md" >}}) | 65 | 17202 | 0.4 |  | 
- | [sweep]({{< ref "/f7/package/sweep.md" >}}) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
- | [evolution-rss]({{< ref "/f7/package/evolution-rss.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [purple-plugin_pack]({{< ref "/f7/package/purple-plugin_pack.md" >}}) | 0 | 2606 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
+ | [deluge](/f7/package/deluge) | 2352 | 2352 | 100.0 | English (Australia) <en_AU@li.org> | 
+ | [xchat-gnome](/f7/package/xchat-gnome) | 3618 | 3901 | 92.7 | English (Australia) <en_AU@li.org> | 
+ | [pidgin-guifications](/f7/package/pidgin-guifications) | 442 | 505 | 87.5 | English (Australian) <trans@six-by-nine.com.au> | 
+ | [pidgin](/f7/package/pidgin) | 7347 | 15654 | 46.9 | English/AU <trans@six-by-nine.com.au> | 
+ | [Miro](/f7/package/Miro) | 1468 | 3616 | 40.6 |  | 
+ | [ntfs-config](/f7/package/ntfs-config) | 29 | 455 | 6.4 | English (Australia) <en_AU@li.org> | 
+ | [orage](/f7/package/orage) | 36 | 864 | 4.2 | Australian English <en_gb@li.org> | 
+ | [Democracy](/f7/package/Democracy) | 117 | 3102 | 3.8 | English (Australia) <en_AU@li.org> | 
+ | [evolution-data-server](/f7/package/evolution-data-server) | 166 | 4501 | 3.7 |  | 
+ | [gourmet](/f7/package/gourmet) | 110 | 3526 | 3.1 | English (Australia) <en_AU@li.org> | 
+ | [abiword](/f7/package/abiword) | 102 | 4644 | 2.2 | unknown <email@address> | 
+ | [bazaar](/f7/package/bazaar) | 129 | 6524 | 2.0 | English (Australia) <en_AU@li.org> | 
+ | [gnomebaker](/f7/package/gnomebaker) | 21 | 1186 | 1.8 | English (Australia) <en_AU@li.org> | 
+ | [evolution](/f7/package/evolution) | 65 | 17202 | 0.4 |  | 
+ | [sweep](/f7/package/sweep) | 2 | 2399 | 0.1 | English/Australia <LL@li.org> | 
+ | [evolution-rss](/f7/package/evolution-rss) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [purple-plugin_pack](/f7/package/purple-plugin_pack) | 0 | 2606 | 0.0 | English/AU <trans@six-by-nine.com.au> | 
 {.sortable}
 
 
@@ -66,7 +66,7 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [Miro]({{< ref "/f7/package/Miro.md" >}}) | /mnt/stockage/packages/f7/Miro/resources/locale/en_AU.po | error-os |  | 
+ | [Miro](/f7/package/Miro) | /mnt/stockage/packages/f7/Miro/resources/locale/en_AU.po | error-os |  | 
 {.sortable}
 
 

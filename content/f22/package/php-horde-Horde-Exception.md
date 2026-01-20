@@ -18,48 +18,48 @@ The package php-horde-Horde-Exception (version 2.0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f22/language/da.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/da/LC_MESSAGES/Horde_Exception.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/de/LC_MESSAGES/Horde_Exception.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/el/LC_MESSAGES/Horde_Exception.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/es/LC_MESSAGES/Horde_Exception.po | 
- | [et]({{< ref "/f22/language/et.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/et/LC_MESSAGES/Horde_Exception.po | 
- | [eu]({{< ref "/f22/language/eu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/eu/LC_MESSAGES/Horde_Exception.po | 
- | [fi]({{< ref "/f22/language/fi.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/fi/LC_MESSAGES/Horde_Exception.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/fr/LC_MESSAGES/Horde_Exception.po | 
- | [hr]({{< ref "/f22/language/hr.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/hr/LC_MESSAGES/Horde_Exception.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/hu/LC_MESSAGES/Horde_Exception.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ja/LC_MESSAGES/Horde_Exception.po | 
- | [lt]({{< ref "/f22/language/lt.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/lt/LC_MESSAGES/Horde_Exception.po | 
- | [lv]({{< ref "/f22/language/lv.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/lv/LC_MESSAGES/Horde_Exception.po | 
- | [nl]({{< ref "/f22/language/nl.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/nl/LC_MESSAGES/Horde_Exception.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/pt_BR/LC_MESSAGES/Horde_Exception.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/sk/LC_MESSAGES/Horde_Exception.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/uk/LC_MESSAGES/Horde_Exception.po | 
- | [ca]({{< ref "/f22/language/ca.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ca/LC_MESSAGES/Horde_Exception.po | 
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/cs/LC_MESSAGES/Horde_Exception.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/it/LC_MESSAGES/Horde_Exception.po | 
- | [pt]({{< ref "/f22/language/pt.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/pt/LC_MESSAGES/Horde_Exception.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/sl/LC_MESSAGES/Horde_Exception.po | 
- | [tr]({{< ref "/f22/language/tr.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/tr/LC_MESSAGES/Horde_Exception.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/zh_CN/LC_MESSAGES/Horde_Exception.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/zh_TW/LC_MESSAGES/Horde_Exception.po | 
- | [ar]({{< ref "/f22/language/ar.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ar/LC_MESSAGES/Horde_Exception.po | 
- | [bg]({{< ref "/f22/language/bg.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/bg/LC_MESSAGES/Horde_Exception.po | 
- | [bs]({{< ref "/f22/language/bs.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/bs/LC_MESSAGES/Horde_Exception.po | 
- | [fa]({{< ref "/f22/language/fa.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/fa/LC_MESSAGES/Horde_Exception.po | 
- | [gl]({{< ref "/f22/language/gl.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/gl/LC_MESSAGES/Horde_Exception.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/he/LC_MESSAGES/Horde_Exception.po | 
- | [id]({{< ref "/f22/language/id.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/id/LC_MESSAGES/Horde_Exception.po | 
- | [is]({{< ref "/f22/language/is.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/is/LC_MESSAGES/Horde_Exception.po | 
- | [km]({{< ref "/f22/language/km.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/km/LC_MESSAGES/Horde_Exception.po | 
- | [ko]({{< ref "/f22/language/ko.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ko/LC_MESSAGES/Horde_Exception.po | 
- | [mk]({{< ref "/f22/language/mk.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/mk/LC_MESSAGES/Horde_Exception.po | 
- | [nb_NO]({{< ref "/f22/language/nb_NO.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/nb/LC_MESSAGES/Horde_Exception.po | 
- | [nn]({{< ref "/f22/language/nn.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/nn/LC_MESSAGES/Horde_Exception.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/pl/LC_MESSAGES/Horde_Exception.po | 
- | [ro]({{< ref "/f22/language/ro.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ro/LC_MESSAGES/Horde_Exception.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ru/LC_MESSAGES/Horde_Exception.po | 
- | [sv]({{< ref "/f22/language/sv.md" >}}) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/sv/LC_MESSAGES/Horde_Exception.po | 
+ | [da](/f22/language/da) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/da/LC_MESSAGES/Horde_Exception.po | 
+ | [de](/f22/language/de) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/de/LC_MESSAGES/Horde_Exception.po | 
+ | [el](/f22/language/el) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/el/LC_MESSAGES/Horde_Exception.po | 
+ | [es](/f22/language/es) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/es/LC_MESSAGES/Horde_Exception.po | 
+ | [et](/f22/language/et) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/et/LC_MESSAGES/Horde_Exception.po | 
+ | [eu](/f22/language/eu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/eu/LC_MESSAGES/Horde_Exception.po | 
+ | [fi](/f22/language/fi) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/fi/LC_MESSAGES/Horde_Exception.po | 
+ | [fr](/f22/language/fr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/fr/LC_MESSAGES/Horde_Exception.po | 
+ | [hr](/f22/language/hr) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/hr/LC_MESSAGES/Horde_Exception.po | 
+ | [hu](/f22/language/hu) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/hu/LC_MESSAGES/Horde_Exception.po | 
+ | [ja](/f22/language/ja) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ja/LC_MESSAGES/Horde_Exception.po | 
+ | [lt](/f22/language/lt) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/lt/LC_MESSAGES/Horde_Exception.po | 
+ | [lv](/f22/language/lv) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/lv/LC_MESSAGES/Horde_Exception.po | 
+ | [nl](/f22/language/nl) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/nl/LC_MESSAGES/Horde_Exception.po | 
+ | [pt_BR](/f22/language/pt_BR) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/pt_BR/LC_MESSAGES/Horde_Exception.po | 
+ | [sk](/f22/language/sk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/sk/LC_MESSAGES/Horde_Exception.po | 
+ | [uk](/f22/language/uk) | 4 | 4 | 100.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/uk/LC_MESSAGES/Horde_Exception.po | 
+ | [ca](/f22/language/ca) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ca/LC_MESSAGES/Horde_Exception.po | 
+ | [cs](/f22/language/cs) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/cs/LC_MESSAGES/Horde_Exception.po | 
+ | [it](/f22/language/it) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/it/LC_MESSAGES/Horde_Exception.po | 
+ | [pt](/f22/language/pt) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/pt/LC_MESSAGES/Horde_Exception.po | 
+ | [sl](/f22/language/sl) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/sl/LC_MESSAGES/Horde_Exception.po | 
+ | [tr](/f22/language/tr) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/tr/LC_MESSAGES/Horde_Exception.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/zh_CN/LC_MESSAGES/Horde_Exception.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 2 | 4 | 50.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/zh_TW/LC_MESSAGES/Horde_Exception.po | 
+ | [ar](/f22/language/ar) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ar/LC_MESSAGES/Horde_Exception.po | 
+ | [bg](/f22/language/bg) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/bg/LC_MESSAGES/Horde_Exception.po | 
+ | [bs](/f22/language/bs) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/bs/LC_MESSAGES/Horde_Exception.po | 
+ | [fa](/f22/language/fa) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/fa/LC_MESSAGES/Horde_Exception.po | 
+ | [gl](/f22/language/gl) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/gl/LC_MESSAGES/Horde_Exception.po | 
+ | [he](/f22/language/he) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/he/LC_MESSAGES/Horde_Exception.po | 
+ | [id](/f22/language/id) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/id/LC_MESSAGES/Horde_Exception.po | 
+ | [is](/f22/language/is) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/is/LC_MESSAGES/Horde_Exception.po | 
+ | [km](/f22/language/km) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/km/LC_MESSAGES/Horde_Exception.po | 
+ | [ko](/f22/language/ko) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ko/LC_MESSAGES/Horde_Exception.po | 
+ | [mk](/f22/language/mk) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/mk/LC_MESSAGES/Horde_Exception.po | 
+ | [nb_NO](/f22/language/nb_NO) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/nb/LC_MESSAGES/Horde_Exception.po | 
+ | [nn](/f22/language/nn) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/nn/LC_MESSAGES/Horde_Exception.po | 
+ | [pl](/f22/language/pl) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/pl/LC_MESSAGES/Horde_Exception.po | 
+ | [ro](/f22/language/ro) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ro/LC_MESSAGES/Horde_Exception.po | 
+ | [ru](/f22/language/ru) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/ru/LC_MESSAGES/Horde_Exception.po | 
+ | [sv](/f22/language/sv) | 0 | 4 | 0.0 | /mnt/stockage/packages/f22/php-horde-Horde-Exception/Horde_Exception-2.0.8/locale/sv/LC_MESSAGES/Horde_Exception.po | 
 {.sortable}
 
 

@@ -38,11 +38,11 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f20/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [mate-applets]({{< ref "/f20/package/mate-applets.md" >}}) | 1814 | 2283 | 79.5 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
- | [libmateweather]({{< ref "/f20/package/libmateweather.md" >}}) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
- | [openerp7]({{< ref "/f20/package/openerp7.md" >}}) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
- | [openerp]({{< ref "/f20/package/openerp.md" >}}) | 7202 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [libgweather](/f20/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [mate-applets](/f20/package/mate-applets) | 1814 | 2283 | 79.5 | Spanish (Dominican Republic) (http://www.transifex.com/projects/p/MATE/language/es_DO/) | 
+ | [libmateweather](/f20/package/libmateweather) | 361 | 487 | 74.1 | LANGUAGE <LL@li.org> | 
+ | [openerp7](/f20/package/openerp7) | 12123 | 33274 | 36.4 | Spanish (Dominican Republic) <es_DO@li.org> | 
+ | [openerp](/f20/package/openerp) | 7202 | 33919 | 21.2 | Spanish (Dominican Republic) <es_DO@li.org> | 
 {.sortable}
 
 

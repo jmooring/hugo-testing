@@ -18,7 +18,7 @@ The package trac-mercurial-plugin (version 0.12.0.23):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 91 | 104 | 87.5 | /mnt/stockage/packages/f16/trac-mercurial-plugin/tracext/hg/locale/fr/LC_MESSAGES/tracmercurial.po | 
+ | [fr](/f16/language/fr) | 91 | 104 | 87.5 | /mnt/stockage/packages/f16/trac-mercurial-plugin/tracext/hg/locale/fr/LC_MESSAGES/tracmercurial.po | 
 {.sortable}
 
 

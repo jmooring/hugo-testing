@@ -18,17 +18,17 @@ The package fcitx5-qt (version 5.0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f35/language/ru.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/ru.po | 
- | [zh_Hans]({{< ref "/f35/language/zh_Hans.md" >}}) | 160 | 160 | 100.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/zh_CN.po | 
- | [da]({{< ref "/f35/language/da.md" >}}) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/da.po | 
- | [ja]({{< ref "/f35/language/ja.md" >}}) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/ja.po | 
- | [ko]({{< ref "/f35/language/ko.md" >}}) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/ko.po | 
- | [zh_Hant]({{< ref "/f35/language/zh_Hant.md" >}}) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/zh_TW.po | 
- | [de]({{< ref "/f35/language/de.md" >}}) | 131 | 160 | 81.9 | /mnt/stockage/packages/f35/fcitx5-qt/po/de.po | 
- | [ca]({{< ref "/f35/language/ca.md" >}}) | 118 | 160 | 73.8 | /mnt/stockage/packages/f35/fcitx5-qt/po/ca.po | 
- | [he]({{< ref "/f35/language/he.md" >}}) | 10 | 160 | 6.2 | /mnt/stockage/packages/f35/fcitx5-qt/po/he.po | 
- | [es]({{< ref "/f35/language/es.md" >}}) | 0 | 160 | 0.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/es.po | 
- | [fr]({{< ref "/f35/language/fr.md" >}}) | 0 | 160 | 0.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/fr.po | 
+ | [ru](/f35/language/ru) | 160 | 160 | 100.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/ru.po | 
+ | [zh_Hans](/f35/language/zh_Hans) | 160 | 160 | 100.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/zh_CN.po | 
+ | [da](/f35/language/da) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/da.po | 
+ | [ja](/f35/language/ja) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/ja.po | 
+ | [ko](/f35/language/ko) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/ko.po | 
+ | [zh_Hant](/f35/language/zh_Hant) | 145 | 160 | 90.6 | /mnt/stockage/packages/f35/fcitx5-qt/po/zh_TW.po | 
+ | [de](/f35/language/de) | 131 | 160 | 81.9 | /mnt/stockage/packages/f35/fcitx5-qt/po/de.po | 
+ | [ca](/f35/language/ca) | 118 | 160 | 73.8 | /mnt/stockage/packages/f35/fcitx5-qt/po/ca.po | 
+ | [he](/f35/language/he) | 10 | 160 | 6.2 | /mnt/stockage/packages/f35/fcitx5-qt/po/he.po | 
+ | [es](/f35/language/es) | 0 | 160 | 0.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/es.po | 
+ | [fr](/f35/language/fr) | 0 | 160 | 0.0 | /mnt/stockage/packages/f35/fcitx5-qt/po/fr.po | 
 {.sortable}
 
 

@@ -38,176 +38,176 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [GConf2]({{< ref "/f11/package/GConf2.md" >}}) | 4044 | 4044 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [GConf2-dbus]({{< ref "/f11/package/GConf2-dbus.md" >}}) | 4017 | 4017 | 100.0 | Chinese (Taiwan) <community@linuxhall.org> | 
- | [NetworkManager-openconnect]({{< ref "/f11/package/NetworkManager-openconnect.md" >}}) | 52 | 52 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [NetworkManager-openvpn]({{< ref "/f11/package/NetworkManager-openvpn.md" >}}) | 185 | 185 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [NetworkManager-pptp]({{< ref "/f11/package/NetworkManager-pptp.md" >}}) | 115 | 115 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [alacarte]({{< ref "/f11/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [at-spi]({{< ref "/f11/package/at-spi.md" >}}) | 20 | 20 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [atomix]({{< ref "/f11/package/atomix.md" >}}) | 146 | 146 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [beagle]({{< ref "/f11/package/beagle.md" >}}) | 1238 | 1238 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [blam]({{< ref "/f11/package/blam.md" >}}) | 330 | 330 | 100.0 | Chinese (Traditional) <community@linuxhall.org> | 
- | [bug-buddy]({{< ref "/f11/package/bug-buddy.md" >}}) | 1010 | 1010 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [cheese]({{< ref "/f11/package/cheese.md" >}}) | 527 | 527 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [contact-lookup-applet]({{< ref "/f11/package/contact-lookup-applet.md" >}}) | 259 | 259 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [control-center]({{< ref "/f11/package/control-center.md" >}}) | 3185 | 3185 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [dasher]({{< ref "/f11/package/dasher.md" >}}) | 526 | 526 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [deskbar-applet]({{< ref "/f11/package/deskbar-applet.md" >}}) | 1654 | 1654 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [devhelp]({{< ref "/f11/package/devhelp.md" >}}) | 360 | 360 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [eel2]({{< ref "/f11/package/eel2.md" >}}) | 161 | 161 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [ekiga]({{< ref "/f11/package/ekiga.md" >}}) | 4043 | 4043 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [empathy]({{< ref "/f11/package/empathy.md" >}}) | 1866 | 1866 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [eog]({{< ref "/f11/package/eog.md" >}}) | 1255 | 1255 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [epiphany]({{< ref "/f11/package/epiphany.md" >}}) | 4239 | 4239 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [epiphany-extensions]({{< ref "/f11/package/epiphany-extensions.md" >}}) | 802 | 802 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [evince]({{< ref "/f11/package/evince.md" >}}) | 1155 | 1155 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [evolution-data-server]({{< ref "/f11/package/evolution-data-server.md" >}}) | 5101 | 5101 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [evolution-exchange]({{< ref "/f11/package/evolution-exchange.md" >}}) | 1339 | 1339 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [evolution-mapi]({{< ref "/f11/package/evolution-mapi.md" >}}) | 284 | 284 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [file-roller]({{< ref "/f11/package/file-roller.md" >}}) | 1193 | 1193 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [galeon]({{< ref "/f11/package/galeon.md" >}}) | 6001 | 6001 | 100.0 | Chinese (traditional) <community@linuxhall.org> | 
- | [gcompris]({{< ref "/f11/package/gcompris.md" >}}) | 10877 | 10877 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gconf-editor]({{< ref "/f11/package/gconf-editor.md" >}}) | 336 | 336 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gdm]({{< ref "/f11/package/gdm.md" >}}) | 1311 | 1311 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gedit]({{< ref "/f11/package/gedit.md" >}}) | 10338 | 10338 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gedit-plugins]({{< ref "/f11/package/gedit-plugins.md" >}}) | 3 | 3 | 100.0 | Chinese (traditional) <community@linuxhall.org> | 
- | [ggz-base-libs]({{< ref "/f11/package/ggz-base-libs.md" >}}) | 72 | 72 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [ggz-gtk-client]({{< ref "/f11/package/ggz-gtk-client.md" >}}) | 759 | 759 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gimp]({{< ref "/f11/package/gimp.md" >}}) | 12099 | 12099 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-applets]({{< ref "/f11/package/gnome-applets.md" >}}) | 3374 | 3374 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-desktop]({{< ref "/f11/package/gnome-desktop.md" >}}) | 349 | 349 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-doc-utils]({{< ref "/f11/package/gnome-doc-utils.md" >}}) | 238 | 238 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-icon-theme]({{< ref "/f11/package/gnome-icon-theme.md" >}}) | 20 | 20 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-mag]({{< ref "/f11/package/gnome-mag.md" >}}) | 298 | 298 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-media]({{< ref "/f11/package/gnome-media.md" >}}) | 1190 | 1190 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-menus]({{< ref "/f11/package/gnome-menus.md" >}}) | 157 | 157 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-netstatus]({{< ref "/f11/package/gnome-netstatus.md" >}}) | 418 | 418 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-nettool]({{< ref "/f11/package/gnome-nettool.md" >}}) | 523 | 523 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-panel]({{< ref "/f11/package/gnome-panel.md" >}}) | 4487 | 4487 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-pilot]({{< ref "/f11/package/gnome-pilot.md" >}}) | 1545 | 1545 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [gnome-screensaver]({{< ref "/f11/package/gnome-screensaver.md" >}}) | 975 | 975 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-session]({{< ref "/f11/package/gnome-session.md" >}}) | 679 | 679 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-settings-daemon]({{< ref "/f11/package/gnome-settings-daemon.md" >}}) | 1313 | 1313 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-system-monitor]({{< ref "/f11/package/gnome-system-monitor.md" >}}) | 918 | 918 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-terminal]({{< ref "/f11/package/gnome-terminal.md" >}}) | 3885 | 3885 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-themes]({{< ref "/f11/package/gnome-themes.md" >}}) | 109 | 109 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-user-share]({{< ref "/f11/package/gnome-user-share.md" >}}) | 289 | 289 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-vfs2]({{< ref "/f11/package/gnome-vfs2.md" >}}) | 1508 | 1508 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gok]({{< ref "/f11/package/gok.md" >}}) | 1954 | 1954 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gparted]({{< ref "/f11/package/gparted.md" >}}) | 1470 | 1470 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gst-mixer]({{< ref "/f11/package/gst-mixer.md" >}}) | 2109 | 2109 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gthumb]({{< ref "/f11/package/gthumb.md" >}}) | 2567 | 2567 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gtk2-engines]({{< ref "/f11/package/gtk2-engines.md" >}}) | 119 | 119 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gtksourceview]({{< ref "/f11/package/gtksourceview.md" >}}) | 891 | 891 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gtkspell]({{< ref "/f11/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gucharmap]({{< ref "/f11/package/gucharmap.md" >}}) | 803 | 803 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gwget]({{< ref "/f11/package/gwget.md" >}}) | 507 | 507 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [hamster-applet]({{< ref "/f11/package/hamster-applet.md" >}}) | 250 | 250 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libbonobo]({{< ref "/f11/package/libbonobo.md" >}}) | 547 | 547 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libbonoboui]({{< ref "/f11/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgdl]({{< ref "/f11/package/libgdl.md" >}}) | 613 | 613 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnome]({{< ref "/f11/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomecanvas]({{< ref "/f11/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomecups]({{< ref "/f11/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomekbd]({{< ref "/f11/package/libgnomekbd.md" >}}) | 235 | 235 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomeprint22]({{< ref "/f11/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomeprintui22]({{< ref "/f11/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomeui]({{< ref "/f11/package/libgnomeui.md" >}}) | 1226 | 1226 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgtop2]({{< ref "/f11/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libwnck]({{< ref "/f11/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [lxmenu-data]({{< ref "/f11/package/lxmenu-data.md" >}}) | 97 | 97 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [metacity]({{< ref "/f11/package/metacity.md" >}}) | 3864 | 3864 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [mingw32-gtkhtml3]({{< ref "/f11/package/mingw32-gtkhtml3.md" >}}) | 695 | 695 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [mousetweaks]({{< ref "/f11/package/mousetweaks.md" >}}) | 638 | 638 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [nautilus]({{< ref "/f11/package/nautilus.md" >}}) | 8196 | 8196 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [nautilus-cd-burner]({{< ref "/f11/package/nautilus-cd-burner.md" >}}) | 1315 | 1315 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [pessulus]({{< ref "/f11/package/pessulus.md" >}}) | 124 | 124 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [sabayon]({{< ref "/f11/package/sabayon.md" >}}) | 1178 | 1178 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [seahorse]({{< ref "/f11/package/seahorse.md" >}}) | 3046 | 3046 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [seahorse-plugins]({{< ref "/f11/package/seahorse-plugins.md" >}}) | 1159 | 1159 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [sound-juicer]({{< ref "/f11/package/sound-juicer.md" >}}) | 1024 | 1024 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [swfdec-gnome]({{< ref "/f11/package/swfdec-gnome.md" >}}) | 101 | 101 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [tomboy]({{< ref "/f11/package/tomboy.md" >}}) | 2650 | 2650 | 100.0 | Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>net/ <zh-l10n@linux.org.tw> | 
- | [totem-pl-parser]({{< ref "/f11/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [vinagre]({{< ref "/f11/package/vinagre.md" >}}) | 938 | 938 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [vino]({{< ref "/f11/package/vino.md" >}}) | 1054 | 1054 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [vte]({{< ref "/f11/package/vte.md" >}}) | 89 | 89 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [xdg-user-dirs]({{< ref "/f11/package/xdg-user-dirs.md" >}}) | 26 | 26 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [yelp]({{< ref "/f11/package/yelp.md" >}}) | 1035 | 1035 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [zenity]({{< ref "/f11/package/zenity.md" >}}) | 582 | 582 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [evolution]({{< ref "/f11/package/evolution.md" >}}) | 22130 | 22132 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [balsa]({{< ref "/f11/package/balsa.md" >}}) | 5623 | 5626 | 99.9 | Chinese (traditional) <community@linuxhall.org> | 
- | [NetworkManager]({{< ref "/f11/package/NetworkManager.md" >}}) | 1676 | 1677 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-power-manager]({{< ref "/f11/package/gnome-power-manager.md" >}}) | 3291 | 3293 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gtkhtml3]({{< ref "/f11/package/gtkhtml3.md" >}}) | 1260 | 1261 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gtksourceview2]({{< ref "/f11/package/gtksourceview2.md" >}}) | 1098 | 1099 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [brasero]({{< ref "/f11/package/brasero.md" >}}) | 5274 | 5279 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [regexxer]({{< ref "/f11/package/regexxer.md" >}}) | 466 | 467 | 99.8 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gtk2]({{< ref "/f11/package/gtk2.md" >}}) | 12894 | 12928 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [mingw32-gtk2]({{< ref "/f11/package/mingw32-gtk2.md" >}}) | 12894 | 12928 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gvfs]({{< ref "/f11/package/gvfs.md" >}}) | 1350 | 1354 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-keyring]({{< ref "/f11/package/gnome-keyring.md" >}}) | 1817 | 1823 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [pidgin]({{< ref "/f11/package/pidgin.md" >}}) | 18161 | 18264 | 99.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [glib2]({{< ref "/f11/package/glib2.md" >}}) | 2334 | 2350 | 99.3 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [mingw32-glib2]({{< ref "/f11/package/mingw32-glib2.md" >}}) | 2334 | 2350 | 99.3 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [atk]({{< ref "/f11/package/atk.md" >}}) | 370 | 375 | 98.7 | Chinese (Taiwan) <community@linuxhall.org> | 
- | [mingw32-atk]({{< ref "/f11/package/mingw32-atk.md" >}}) | 370 | 375 | 98.7 | Chinese (Taiwan) <community@linuxhall.org> | 
- | [NetworkManager-vpnc]({{< ref "/f11/package/NetworkManager-vpnc.md" >}}) | 137 | 139 | 98.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [conduit]({{< ref "/f11/package/conduit.md" >}}) | 562 | 571 | 98.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [planner]({{< ref "/f11/package/planner.md" >}}) | 1763 | 1796 | 98.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [ibus-table]({{< ref "/f11/package/ibus-table.md" >}}) | 85 | 87 | 97.7 | Caius 'kaio' Chance <k@kaio.me> | 
- | [emerald]({{< ref "/f11/package/emerald.md" >}}) | 739 | 774 | 95.5 | beryl-project <LL@li.org> | 
- | [gettext]({{< ref "/f11/package/gettext.md" >}}) | 831 | 871 | 95.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [mingw32-gettext]({{< ref "/f11/package/mingw32-gettext.md" >}}) | 831 | 871 | 95.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-pilot-conduits]({{< ref "/f11/package/gnome-pilot-conduits.md" >}}) | 196 | 209 | 93.8 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [dia]({{< ref "/f11/package/dia.md" >}}) | 5648 | 6032 | 93.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-mount]({{< ref "/f11/package/gnome-mount.md" >}}) | 737 | 792 | 93.1 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [banshee]({{< ref "/f11/package/banshee.md" >}}) | 3475 | 3745 | 92.8 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [lftp]({{< ref "/f11/package/lftp.md" >}}) | 3382 | 3667 | 92.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gftp]({{< ref "/f11/package/gftp.md" >}}) | 3096 | 3375 | 91.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gcalctool]({{< ref "/f11/package/gcalctool.md" >}}) | 6318 | 6896 | 91.6 | LANGUAGE <LL@li.org> | 
- | [libgweather]({{< ref "/f11/package/libgweather.md" >}}) | 5501 | 6048 | 91.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gourmet]({{< ref "/f11/package/gourmet.md" >}}) | 3197 | 3526 | 90.7 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [libgsf]({{< ref "/f11/package/libgsf.md" >}}) | 647 | 715 | 90.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [glade3]({{< ref "/f11/package/glade3.md" >}}) | 3009 | 3326 | 90.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-games]({{< ref "/f11/package/gnome-games.md" >}}) | 7554 | 8386 | 90.1 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [orca]({{< ref "/f11/package/orca.md" >}}) | 3276 | 3707 | 88.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [totem]({{< ref "/f11/package/totem.md" >}}) | 4760 | 5407 | 88.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-backgrounds]({{< ref "/f11/package/gnome-backgrounds.md" >}}) | 20 | 23 | 87.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [kiconedit]({{< ref "/f11/package/kiconedit.md" >}}) | 629 | 726 | 86.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-utils]({{< ref "/f11/package/gnome-utils.md" >}}) | 5177 | 6214 | 83.3 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [libgnomedb]({{< ref "/f11/package/libgnomedb.md" >}}) | 1688 | 2029 | 83.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [compat-libgda]({{< ref "/f11/package/compat-libgda.md" >}}) | 4374 | 5435 | 80.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [olpc-switch-desktop]({{< ref "/f11/package/olpc-switch-desktop.md" >}}) | 126 | 158 | 79.7 | LANGUAGE <LL@li.org> | 
- | [gdesklets]({{< ref "/f11/package/gdesklets.md" >}}) | 1053 | 1404 | 75.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [iso-codes]({{< ref "/f11/package/iso-codes.md" >}}) | 1975 | 2678 | 73.7 | Chinese (Hong Kong) | 
- | [f-spot]({{< ref "/f11/package/f-spot.md" >}}) | 2159 | 2935 | 73.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [grip]({{< ref "/f11/package/grip.md" >}}) | 753 | 1047 | 71.9 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [libgdata]({{< ref "/f11/package/libgdata.md" >}}) | 238 | 371 | 64.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [anjuta]({{< ref "/f11/package/anjuta.md" >}}) | 3940 | 6450 | 61.1 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [xchat-gnome]({{< ref "/f11/package/xchat-gnome.md" >}}) | 2318 | 3901 | 59.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [goffice]({{< ref "/f11/package/goffice.md" >}}) | 2283 | 4071 | 56.1 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [gossip]({{< ref "/f11/package/gossip.md" >}}) | 1097 | 1966 | 55.8 | Chinese (traditional) <community@linuxhall.org> | 
- | [ibus]({{< ref "/f11/package/ibus.md" >}}) | 248 | 449 | 55.2 | Caius 'kaio' Chance <k@kaio.me> | 
- | [nautilus-actions]({{< ref "/f11/package/nautilus-actions.md" >}}) | 846 | 1554 | 54.4 | Chinese (traditional) <community@linuxhall.org> | 
- | [stellarium]({{< ref "/f11/package/stellarium.md" >}}) | 1250 | 2439 | 51.3 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [ntfs-config]({{< ref "/f11/package/ntfs-config.md" >}}) | 175 | 357 | 49.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [gnome-schedule]({{< ref "/f11/package/gnome-schedule.md" >}}) | 511 | 1156 | 44.2 | Chinese (Taiwan) <zh-l10n@linux.org.tw> | 
- | [fuse-encfs]({{< ref "/f11/package/fuse-encfs.md" >}}) | 540 | 1311 | 41.2 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [terminator]({{< ref "/f11/package/terminator.md" >}}) | 109 | 269 | 40.5 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [avant-window-navigator]({{< ref "/f11/package/avant-window-navigator.md" >}}) | 172 | 593 | 29.0 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [gnomebaker]({{< ref "/f11/package/gnomebaker.md" >}}) | 336 | 1186 | 28.3 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [libgda]({{< ref "/f11/package/libgda.md" >}}) | 1127 | 5237 | 21.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [Miro]({{< ref "/f11/package/Miro.md" >}}) | 490 | 2774 | 17.7 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [gnome-do]({{< ref "/f11/package/gnome-do.md" >}}) | 52 | 470 | 11.1 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [synaptic]({{< ref "/f11/package/synaptic.md" >}}) | 178 | 3231 | 5.5 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
- | [po4a]({{< ref "/f11/package/po4a.md" >}}) | 69 | 1726 | 4.0 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [gstreamer-plugins-good]({{< ref "/f11/package/gstreamer-plugins-good.md" >}}) | 14 | 481 | 2.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [kcoloredit]({{< ref "/f11/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
- | [deluge]({{< ref "/f11/package/deluge.md" >}}) | 27 | 1998 | 1.4 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [blueman]({{< ref "/f11/package/blueman.md" >}}) | 1 | 1376 | 0.1 | Chinese (Hong Kong) <zh_HK@li.org> | 
- | [vidalia]({{< ref "/f11/package/vidalia.md" >}}) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [GConf2](/f11/package/GConf2) | 4044 | 4044 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [GConf2-dbus](/f11/package/GConf2-dbus) | 4017 | 4017 | 100.0 | Chinese (Taiwan) <community@linuxhall.org> | 
+ | [NetworkManager-openconnect](/f11/package/NetworkManager-openconnect) | 52 | 52 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [NetworkManager-openvpn](/f11/package/NetworkManager-openvpn) | 185 | 185 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [NetworkManager-pptp](/f11/package/NetworkManager-pptp) | 115 | 115 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [alacarte](/f11/package/alacarte) | 42 | 42 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [at-spi](/f11/package/at-spi) | 20 | 20 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [atomix](/f11/package/atomix) | 146 | 146 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [beagle](/f11/package/beagle) | 1238 | 1238 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [blam](/f11/package/blam) | 330 | 330 | 100.0 | Chinese (Traditional) <community@linuxhall.org> | 
+ | [bug-buddy](/f11/package/bug-buddy) | 1010 | 1010 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [cheese](/f11/package/cheese) | 527 | 527 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [contact-lookup-applet](/f11/package/contact-lookup-applet) | 259 | 259 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [control-center](/f11/package/control-center) | 3185 | 3185 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [dasher](/f11/package/dasher) | 526 | 526 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [deskbar-applet](/f11/package/deskbar-applet) | 1654 | 1654 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [devhelp](/f11/package/devhelp) | 360 | 360 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [eel2](/f11/package/eel2) | 161 | 161 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [ekiga](/f11/package/ekiga) | 4043 | 4043 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [empathy](/f11/package/empathy) | 1866 | 1866 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [eog](/f11/package/eog) | 1255 | 1255 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [epiphany](/f11/package/epiphany) | 4239 | 4239 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [epiphany-extensions](/f11/package/epiphany-extensions) | 802 | 802 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [evince](/f11/package/evince) | 1155 | 1155 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [evolution-data-server](/f11/package/evolution-data-server) | 5101 | 5101 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [evolution-exchange](/f11/package/evolution-exchange) | 1339 | 1339 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [evolution-mapi](/f11/package/evolution-mapi) | 284 | 284 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [file-roller](/f11/package/file-roller) | 1193 | 1193 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [galeon](/f11/package/galeon) | 6001 | 6001 | 100.0 | Chinese (traditional) <community@linuxhall.org> | 
+ | [gcompris](/f11/package/gcompris) | 10877 | 10877 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gconf-editor](/f11/package/gconf-editor) | 336 | 336 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gdm](/f11/package/gdm) | 1311 | 1311 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gedit](/f11/package/gedit) | 10338 | 10338 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gedit-plugins](/f11/package/gedit-plugins) | 3 | 3 | 100.0 | Chinese (traditional) <community@linuxhall.org> | 
+ | [ggz-base-libs](/f11/package/ggz-base-libs) | 72 | 72 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [ggz-gtk-client](/f11/package/ggz-gtk-client) | 759 | 759 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gimp](/f11/package/gimp) | 12099 | 12099 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-applets](/f11/package/gnome-applets) | 3374 | 3374 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-desktop](/f11/package/gnome-desktop) | 349 | 349 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-doc-utils](/f11/package/gnome-doc-utils) | 238 | 238 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-icon-theme](/f11/package/gnome-icon-theme) | 20 | 20 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-mag](/f11/package/gnome-mag) | 298 | 298 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-media](/f11/package/gnome-media) | 1190 | 1190 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-menus](/f11/package/gnome-menus) | 157 | 157 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-netstatus](/f11/package/gnome-netstatus) | 418 | 418 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-nettool](/f11/package/gnome-nettool) | 523 | 523 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-panel](/f11/package/gnome-panel) | 4487 | 4487 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-pilot](/f11/package/gnome-pilot) | 1545 | 1545 | 100.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [gnome-screensaver](/f11/package/gnome-screensaver) | 975 | 975 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-session](/f11/package/gnome-session) | 679 | 679 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-settings-daemon](/f11/package/gnome-settings-daemon) | 1313 | 1313 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-system-monitor](/f11/package/gnome-system-monitor) | 918 | 918 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-terminal](/f11/package/gnome-terminal) | 3885 | 3885 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-themes](/f11/package/gnome-themes) | 109 | 109 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-user-share](/f11/package/gnome-user-share) | 289 | 289 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-vfs2](/f11/package/gnome-vfs2) | 1508 | 1508 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gok](/f11/package/gok) | 1954 | 1954 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gparted](/f11/package/gparted) | 1470 | 1470 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gst-mixer](/f11/package/gst-mixer) | 2109 | 2109 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gthumb](/f11/package/gthumb) | 2567 | 2567 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gtk2-engines](/f11/package/gtk2-engines) | 119 | 119 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gtksourceview](/f11/package/gtksourceview) | 891 | 891 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gtkspell](/f11/package/gtkspell) | 11 | 11 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gucharmap](/f11/package/gucharmap) | 803 | 803 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gwget](/f11/package/gwget) | 507 | 507 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [hamster-applet](/f11/package/hamster-applet) | 250 | 250 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libbonobo](/f11/package/libbonobo) | 547 | 547 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libbonoboui](/f11/package/libbonoboui) | 368 | 368 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgdl](/f11/package/libgdl) | 613 | 613 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnome](/f11/package/libgnome) | 1772 | 1772 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomecanvas](/f11/package/libgnomecanvas) | 378 | 378 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomecups](/f11/package/libgnomecups) | 11 | 11 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomekbd](/f11/package/libgnomekbd) | 235 | 235 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomeprint22](/f11/package/libgnomeprint22) | 168 | 168 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomeprintui22](/f11/package/libgnomeprintui22) | 481 | 481 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomeui](/f11/package/libgnomeui) | 1226 | 1226 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgtop2](/f11/package/libgtop2) | 126 | 126 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libwnck](/f11/package/libwnck) | 1124 | 1124 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [lxmenu-data](/f11/package/lxmenu-data) | 97 | 97 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [metacity](/f11/package/metacity) | 3864 | 3864 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [mingw32-gtkhtml3](/f11/package/mingw32-gtkhtml3) | 695 | 695 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [mousetweaks](/f11/package/mousetweaks) | 638 | 638 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [nautilus](/f11/package/nautilus) | 8196 | 8196 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [nautilus-cd-burner](/f11/package/nautilus-cd-burner) | 1315 | 1315 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [pessulus](/f11/package/pessulus) | 124 | 124 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [sabayon](/f11/package/sabayon) | 1178 | 1178 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [seahorse](/f11/package/seahorse) | 3046 | 3046 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [seahorse-plugins](/f11/package/seahorse-plugins) | 1159 | 1159 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [sound-juicer](/f11/package/sound-juicer) | 1024 | 1024 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [swfdec-gnome](/f11/package/swfdec-gnome) | 101 | 101 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [tomboy](/f11/package/tomboy) | 2650 | 2650 | 100.0 | Chinese (Taiwan) <zh-l10n@lists.linux.org.tw>net/ <zh-l10n@linux.org.tw> | 
+ | [totem-pl-parser](/f11/package/totem-pl-parser) | 28 | 28 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [vinagre](/f11/package/vinagre) | 938 | 938 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [vino](/f11/package/vino) | 1054 | 1054 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [vte](/f11/package/vte) | 89 | 89 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [xdg-user-dirs](/f11/package/xdg-user-dirs) | 26 | 26 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [yelp](/f11/package/yelp) | 1035 | 1035 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [zenity](/f11/package/zenity) | 582 | 582 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [evolution](/f11/package/evolution) | 22130 | 22132 | 100.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [balsa](/f11/package/balsa) | 5623 | 5626 | 99.9 | Chinese (traditional) <community@linuxhall.org> | 
+ | [NetworkManager](/f11/package/NetworkManager) | 1676 | 1677 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-power-manager](/f11/package/gnome-power-manager) | 3291 | 3293 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gtkhtml3](/f11/package/gtkhtml3) | 1260 | 1261 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gtksourceview2](/f11/package/gtksourceview2) | 1098 | 1099 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [brasero](/f11/package/brasero) | 5274 | 5279 | 99.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [regexxer](/f11/package/regexxer) | 466 | 467 | 99.8 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gtk2](/f11/package/gtk2) | 12894 | 12928 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [mingw32-gtk2](/f11/package/mingw32-gtk2) | 12894 | 12928 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gvfs](/f11/package/gvfs) | 1350 | 1354 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-keyring](/f11/package/gnome-keyring) | 1817 | 1823 | 99.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [pidgin](/f11/package/pidgin) | 18161 | 18264 | 99.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [glib2](/f11/package/glib2) | 2334 | 2350 | 99.3 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [mingw32-glib2](/f11/package/mingw32-glib2) | 2334 | 2350 | 99.3 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [atk](/f11/package/atk) | 370 | 375 | 98.7 | Chinese (Taiwan) <community@linuxhall.org> | 
+ | [mingw32-atk](/f11/package/mingw32-atk) | 370 | 375 | 98.7 | Chinese (Taiwan) <community@linuxhall.org> | 
+ | [NetworkManager-vpnc](/f11/package/NetworkManager-vpnc) | 137 | 139 | 98.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [conduit](/f11/package/conduit) | 562 | 571 | 98.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [planner](/f11/package/planner) | 1763 | 1796 | 98.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [ibus-table](/f11/package/ibus-table) | 85 | 87 | 97.7 | Caius 'kaio' Chance <k@kaio.me> | 
+ | [emerald](/f11/package/emerald) | 739 | 774 | 95.5 | beryl-project <LL@li.org> | 
+ | [gettext](/f11/package/gettext) | 831 | 871 | 95.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [mingw32-gettext](/f11/package/mingw32-gettext) | 831 | 871 | 95.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-pilot-conduits](/f11/package/gnome-pilot-conduits) | 196 | 209 | 93.8 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [dia](/f11/package/dia) | 5648 | 6032 | 93.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-mount](/f11/package/gnome-mount) | 737 | 792 | 93.1 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [banshee](/f11/package/banshee) | 3475 | 3745 | 92.8 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [lftp](/f11/package/lftp) | 3382 | 3667 | 92.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gftp](/f11/package/gftp) | 3096 | 3375 | 91.7 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gcalctool](/f11/package/gcalctool) | 6318 | 6896 | 91.6 | LANGUAGE <LL@li.org> | 
+ | [libgweather](/f11/package/libgweather) | 5501 | 6048 | 91.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gourmet](/f11/package/gourmet) | 3197 | 3526 | 90.7 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [libgsf](/f11/package/libgsf) | 647 | 715 | 90.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [glade3](/f11/package/glade3) | 3009 | 3326 | 90.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-games](/f11/package/gnome-games) | 7554 | 8386 | 90.1 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [orca](/f11/package/orca) | 3276 | 3707 | 88.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [totem](/f11/package/totem) | 4760 | 5407 | 88.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-backgrounds](/f11/package/gnome-backgrounds) | 20 | 23 | 87.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [kiconedit](/f11/package/kiconedit) | 629 | 726 | 86.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-utils](/f11/package/gnome-utils) | 5177 | 6214 | 83.3 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [libgnomedb](/f11/package/libgnomedb) | 1688 | 2029 | 83.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [compat-libgda](/f11/package/compat-libgda) | 4374 | 5435 | 80.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [olpc-switch-desktop](/f11/package/olpc-switch-desktop) | 126 | 158 | 79.7 | LANGUAGE <LL@li.org> | 
+ | [gdesklets](/f11/package/gdesklets) | 1053 | 1404 | 75.0 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [iso-codes](/f11/package/iso-codes) | 1975 | 2678 | 73.7 | Chinese (Hong Kong) | 
+ | [f-spot](/f11/package/f-spot) | 2159 | 2935 | 73.6 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [grip](/f11/package/grip) | 753 | 1047 | 71.9 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [libgdata](/f11/package/libgdata) | 238 | 371 | 64.2 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [anjuta](/f11/package/anjuta) | 3940 | 6450 | 61.1 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [xchat-gnome](/f11/package/xchat-gnome) | 2318 | 3901 | 59.4 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [goffice](/f11/package/goffice) | 2283 | 4071 | 56.1 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [gossip](/f11/package/gossip) | 1097 | 1966 | 55.8 | Chinese (traditional) <community@linuxhall.org> | 
+ | [ibus](/f11/package/ibus) | 248 | 449 | 55.2 | Caius 'kaio' Chance <k@kaio.me> | 
+ | [nautilus-actions](/f11/package/nautilus-actions) | 846 | 1554 | 54.4 | Chinese (traditional) <community@linuxhall.org> | 
+ | [stellarium](/f11/package/stellarium) | 1250 | 2439 | 51.3 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [ntfs-config](/f11/package/ntfs-config) | 175 | 357 | 49.0 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [gnome-schedule](/f11/package/gnome-schedule) | 511 | 1156 | 44.2 | Chinese (Taiwan) <zh-l10n@linux.org.tw> | 
+ | [fuse-encfs](/f11/package/fuse-encfs) | 540 | 1311 | 41.2 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [terminator](/f11/package/terminator) | 109 | 269 | 40.5 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [avant-window-navigator](/f11/package/avant-window-navigator) | 172 | 593 | 29.0 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [gnomebaker](/f11/package/gnomebaker) | 336 | 1186 | 28.3 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [libgda](/f11/package/libgda) | 1127 | 5237 | 21.5 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [Miro](/f11/package/Miro) | 490 | 2774 | 17.7 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [gnome-do](/f11/package/gnome-do) | 52 | 470 | 11.1 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [synaptic](/f11/package/synaptic) | 178 | 3231 | 5.5 | Chinese (traditional) <zh-l10n@linux.org.tw> | 
+ | [po4a](/f11/package/po4a) | 69 | 1726 | 4.0 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [gstreamer-plugins-good](/f11/package/gstreamer-plugins-good) | 14 | 481 | 2.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [kcoloredit](/f11/package/kcoloredit) | 8 | 278 | 2.9 | Chinese (Hong Kong) <community@linuxhall.org> | 
+ | [deluge](/f11/package/deluge) | 27 | 1998 | 1.4 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [blueman](/f11/package/blueman) | 1 | 1376 | 0.1 | Chinese (Hong Kong) <zh_HK@li.org> | 
+ | [vidalia](/f11/package/vidalia) | 0 | 2927 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

@@ -18,12 +18,12 @@ The package xtrkcad (version 5.2.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cy]({{< ref "/f38/language/cy.md" >}}) | 20445 | 20445 | 100.0 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/cy_GB.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 20445 | 20445 | 100.0 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/de_DE.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 20445 | 20445 | 100.0 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/fr_FR.po | 
- | [fi]({{< ref "/f38/language/fi.md" >}}) | 12154 | 19828 | 61.3 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/fi.po | 
- | [pt_BR]({{< ref "/f38/language/pt_BR.md" >}}) | 3644 | 19828 | 18.4 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/pt_BR.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 3158 | 19910 | 15.9 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/ru.po | 
+ | [cy](/f38/language/cy) | 20445 | 20445 | 100.0 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/cy_GB.po | 
+ | [de](/f38/language/de) | 20445 | 20445 | 100.0 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/de_DE.po | 
+ | [fr](/f38/language/fr) | 20445 | 20445 | 100.0 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/fr_FR.po | 
+ | [fi](/f38/language/fi) | 12154 | 19828 | 61.3 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/fi.po | 
+ | [pt_BR](/f38/language/pt_BR) | 3644 | 19828 | 18.4 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/pt_BR.po | 
+ | [ru](/f38/language/ru) | 3158 | 19910 | 15.9 | /mnt/stockage/packages/f38/xtrkcad/app/i18n/ru.po | 
 {.sortable}
 
 

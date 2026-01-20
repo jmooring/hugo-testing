@@ -18,28 +18,28 @@ The package xfce4-battery-plugin (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/cs.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/el.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/en_GB.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/fr.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/id.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/it.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/lv.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/nb_NO.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/pl.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f12/language/pt_PT.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/pt_PT.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/sq.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/uk.po | 
- | [ur]({{< ref "/f12/language/ur.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/ur.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/zh_TW.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 27 | 123 | 22.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/gl.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 0 | 123 | 0.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/ar.po | 
+ | [ca](/f12/language/ca) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/ca.po | 
+ | [cs](/f12/language/cs) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/cs.po | 
+ | [da](/f12/language/da) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/da.po | 
+ | [de](/f12/language/de) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/de.po | 
+ | [el](/f12/language/el) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/el.po | 
+ | [en_GB](/f12/language/en_GB) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/en_GB.po | 
+ | [eu](/f12/language/eu) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/eu.po | 
+ | [fi](/f12/language/fi) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/fi.po | 
+ | [fr](/f12/language/fr) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/fr.po | 
+ | [id](/f12/language/id) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/id.po | 
+ | [it](/f12/language/it) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/it.po | 
+ | [lv](/f12/language/lv) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/lv.po | 
+ | [nb_NO](/f12/language/nb_NO) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/nb_NO.po | 
+ | [pl](/f12/language/pl) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/pl.po | 
+ | [pt_BR](/f12/language/pt_BR) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/pt_BR.po | 
+ | [pt_PT](/f12/language/pt_PT) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/pt_PT.po | 
+ | [sq](/f12/language/sq) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/sq.po | 
+ | [uk](/f12/language/uk) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/uk.po | 
+ | [ur](/f12/language/ur) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/ur.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 123 | 123 | 100.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/zh_TW.po | 
+ | [gl](/f12/language/gl) | 27 | 123 | 22.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/gl.po | 
+ | [ar](/f12/language/ar) | 0 | 123 | 0.0 | /mnt/stockage/packages/f12/xfce4-battery-plugin/po/ar.po | 
 {.sortable}
 
 

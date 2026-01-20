@@ -38,48 +38,48 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [sugar-distance]({{< ref "/f26/package/sugar-distance.md" >}}) | 70 | 99 | 70.7 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit-gtk3]({{< ref "/f26/package/sugar-toolkit-gtk3.md" >}}) | 104 | 156 | 66.7 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f26/package/sugar-pippy.md" >}}) | 55 | 109 | 50.5 | LANGUAGE <LL@li.org> | 
- | [sugar-abacus]({{< ref "/f26/package/sugar-abacus.md" >}}) | 11 | 34 | 32.4 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f26/package/sugar.md" >}}) | 73 | 1625 | 4.5 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f26/package/sugar-fototoon.md" >}}) | 1 | 77 | 1.3 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f26/package/sugar-browse.md" >}}) | 2 | 189 | 1.1 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f26/package/sugar-memorize.md" >}}) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f26/package/sugar-finance.md" >}}) | 1 | 189 | 0.5 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f26/package/sugar-infoslicer.md" >}}) | 1 | 236 | 0.4 | LANGUAGE <LL@li.org> | 
- | [appcenter]({{< ref "/f26/package/appcenter.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [audience]({{< ref "/f26/package/audience.md" >}}) | 0 | 106 | 0.0 |  | 
- | [dippi]({{< ref "/f26/package/dippi.md" >}}) | 0 | 397 | 0.0 | none | 
- | [harvey]({{< ref "/f26/package/harvey.md" >}}) | 0 | 57 | 0.0 | none | 
- | [maya-calendar]({{< ref "/f26/package/maya-calendar.md" >}}) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
- | [noise]({{< ref "/f26/package/noise.md" >}}) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-agent-polkit]({{< ref "/f26/package/pantheon-agent-polkit.md" >}}) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-calculator]({{< ref "/f26/package/pantheon-calculator.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-files]({{< ref "/f26/package/pantheon-files.md" >}}) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
- | [pantheon-photos]({{< ref "/f26/package/pantheon-photos.md" >}}) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
- | [scratch-text-editor]({{< ref "/f26/package/scratch-text-editor.md" >}}) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
- | [screenshot-tool]({{< ref "/f26/package/screenshot-tool.md" >}}) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calendario]({{< ref "/f26/package/sugar-calendario.md" >}}) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f26/package/sugar-clock.md" >}}) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-deducto]({{< ref "/f26/package/sugar-deducto.md" >}}) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-fractionbounce]({{< ref "/f26/package/sugar-fractionbounce.md" >}}) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-getiabooks]({{< ref "/f26/package/sugar-getiabooks.md" >}}) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-labyrinth]({{< ref "/f26/package/sugar-labyrinth.md" >}}) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-maze]({{< ref "/f26/package/sugar-maze.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-moon]({{< ref "/f26/package/sugar-moon.md" >}}) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f26/package/sugar-physics.md" >}}) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-ruler]({{< ref "/f26/package/sugar-ruler.md" >}}) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f26/package/sugar-typing-turtle.md" >}}) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f26/package/sugar-visualmatch.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f26/package/sugar-words.md" >}}) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard]({{< ref "/f26/package/switchboard.md" >}}) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-a11y]({{< ref "/f26/package/switchboard-plug-a11y.md" >}}) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-about]({{< ref "/f26/package/switchboard-plug-about.md" >}}) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-display]({{< ref "/f26/package/switchboard-plug-display.md" >}}) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
- | [switchboard-plug-pantheon-shell]({{< ref "/f26/package/switchboard-plug-pantheon-shell.md" >}}) | 0 | 132 | 0.0 |  | 
- | [switchboard-plug-printers]({{< ref "/f26/package/switchboard-plug-printers.md" >}}) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vocal]({{< ref "/f26/package/vocal.md" >}}) | 0 | 377 | 0.0 | Tonga (Tonga Islands) <to@li.org> | 
+ | [sugar-distance](/f26/package/sugar-distance) | 70 | 99 | 70.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit-gtk3](/f26/package/sugar-toolkit-gtk3) | 104 | 156 | 66.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f26/package/sugar-pippy) | 55 | 109 | 50.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-abacus](/f26/package/sugar-abacus) | 11 | 34 | 32.4 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f26/package/sugar) | 73 | 1625 | 4.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f26/package/sugar-fototoon) | 1 | 77 | 1.3 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f26/package/sugar-browse) | 2 | 189 | 1.1 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f26/package/sugar-memorize) | 1 | 142 | 0.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f26/package/sugar-finance) | 1 | 189 | 0.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f26/package/sugar-infoslicer) | 1 | 236 | 0.4 | LANGUAGE <LL@li.org> | 
+ | [appcenter](/f26/package/appcenter) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [audience](/f26/package/audience) | 0 | 106 | 0.0 |  | 
+ | [dippi](/f26/package/dippi) | 0 | 397 | 0.0 | none | 
+ | [harvey](/f26/package/harvey) | 0 | 57 | 0.0 | none | 
+ | [maya-calendar](/f26/package/maya-calendar) | 0 | 394 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [noise](/f26/package/noise) | 0 | 1322 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-agent-polkit](/f26/package/pantheon-agent-polkit) | 0 | 15 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-calculator](/f26/package/pantheon-calculator) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-files](/f26/package/pantheon-files) | 0 | 2487 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [pantheon-photos](/f26/package/pantheon-photos) | 0 | 3977 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [scratch-text-editor](/f26/package/scratch-text-editor) | 0 | 681 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [screenshot-tool](/f26/package/screenshot-tool) | 0 | 146 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calendario](/f26/package/sugar-calendario) | 0 | 43 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f26/package/sugar-clock) | 0 | 66 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-deducto](/f26/package/sugar-deducto) | 0 | 109 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-fractionbounce](/f26/package/sugar-fractionbounce) | 0 | 68 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-getiabooks](/f26/package/sugar-getiabooks) | 0 | 119 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-labyrinth](/f26/package/sugar-labyrinth) | 0 | 281 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-maze](/f26/package/sugar-maze) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-moon](/f26/package/sugar-moon) | 0 | 117 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f26/package/sugar-physics) | 0 | 48 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-ruler](/f26/package/sugar-ruler) | 0 | 29 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f26/package/sugar-typing-turtle) | 0 | 599 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f26/package/sugar-visualmatch) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f26/package/sugar-words) | 0 | 3 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard](/f26/package/switchboard) | 0 | 41 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-a11y](/f26/package/switchboard-plug-a11y) | 0 | 210 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-about](/f26/package/switchboard-plug-about) | 0 | 72 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-display](/f26/package/switchboard-plug-display) | 0 | 33 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [switchboard-plug-pantheon-shell](/f26/package/switchboard-plug-pantheon-shell) | 0 | 132 | 0.0 |  | 
+ | [switchboard-plug-printers](/f26/package/switchboard-plug-printers) | 0 | 288 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vocal](/f26/package/vocal) | 0 | 377 | 0.0 | Tonga (Tonga Islands) <to@li.org> | 
 {.sortable}
 
 

@@ -18,24 +18,24 @@ The package gawk (version 5.0.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/fr.po | 
- | [ko]({{< ref "/f32/language/ko.md" >}}) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/ko.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/pt.po | 
- | [pt_BR]({{< ref "/f32/language/pt_BR.md" >}}) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/pt_BR.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/sv.po | 
- | [zh_Hans]({{< ref "/f32/language/zh_Hans.md" >}}) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/zh_CN.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 4917 | 4999 | 98.4 | /mnt/stockage/packages/f32/gawk/po/it.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4507 | 4999 | 90.2 | /mnt/stockage/packages/f32/gawk/po/es.po | 
- | [vi]({{< ref "/f32/language/vi.md" >}}) | 4507 | 4999 | 90.2 | /mnt/stockage/packages/f32/gawk/po/vi.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 4499 | 4999 | 90.0 | /mnt/stockage/packages/f32/gawk/po/de.po | 
- | [fi]({{< ref "/f32/language/fi.md" >}}) | 4386 | 4999 | 87.7 | /mnt/stockage/packages/f32/gawk/po/fi.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 4131 | 4999 | 82.6 | /mnt/stockage/packages/f32/gawk/po/nl.po | 
- | [ca]({{< ref "/f32/language/ca.md" >}}) | 4098 | 4999 | 82.0 | /mnt/stockage/packages/f32/gawk/po/ca.po | 
- | [id]({{< ref "/f32/language/id.md" >}}) | 3928 | 4999 | 78.6 | /mnt/stockage/packages/f32/gawk/po/id.po | 
- | [pl]({{< ref "/f32/language/pl.md" >}}) | 3253 | 4999 | 65.1 | /mnt/stockage/packages/f32/gawk/po/pl.po | 
- | [da]({{< ref "/f32/language/da.md" >}}) | 2775 | 4999 | 55.5 | /mnt/stockage/packages/f32/gawk/po/da.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 2475 | 4999 | 49.5 | /mnt/stockage/packages/f32/gawk/po/ja.po | 
- | [ms]({{< ref "/f32/language/ms.md" >}}) | 36 | 4999 | 0.7 | /mnt/stockage/packages/f32/gawk/po/ms.po | 
+ | [fr](/f32/language/fr) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/fr.po | 
+ | [ko](/f32/language/ko) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/ko.po | 
+ | [pt](/f32/language/pt) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/pt.po | 
+ | [pt_BR](/f32/language/pt_BR) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/pt_BR.po | 
+ | [sv](/f32/language/sv) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/sv.po | 
+ | [zh_Hans](/f32/language/zh_Hans) | 4925 | 4999 | 98.5 | /mnt/stockage/packages/f32/gawk/po/zh_CN.po | 
+ | [it](/f32/language/it) | 4917 | 4999 | 98.4 | /mnt/stockage/packages/f32/gawk/po/it.po | 
+ | [es](/f32/language/es) | 4507 | 4999 | 90.2 | /mnt/stockage/packages/f32/gawk/po/es.po | 
+ | [vi](/f32/language/vi) | 4507 | 4999 | 90.2 | /mnt/stockage/packages/f32/gawk/po/vi.po | 
+ | [de](/f32/language/de) | 4499 | 4999 | 90.0 | /mnt/stockage/packages/f32/gawk/po/de.po | 
+ | [fi](/f32/language/fi) | 4386 | 4999 | 87.7 | /mnt/stockage/packages/f32/gawk/po/fi.po | 
+ | [nl](/f32/language/nl) | 4131 | 4999 | 82.6 | /mnt/stockage/packages/f32/gawk/po/nl.po | 
+ | [ca](/f32/language/ca) | 4098 | 4999 | 82.0 | /mnt/stockage/packages/f32/gawk/po/ca.po | 
+ | [id](/f32/language/id) | 3928 | 4999 | 78.6 | /mnt/stockage/packages/f32/gawk/po/id.po | 
+ | [pl](/f32/language/pl) | 3253 | 4999 | 65.1 | /mnt/stockage/packages/f32/gawk/po/pl.po | 
+ | [da](/f32/language/da) | 2775 | 4999 | 55.5 | /mnt/stockage/packages/f32/gawk/po/da.po | 
+ | [ja](/f32/language/ja) | 2475 | 4999 | 49.5 | /mnt/stockage/packages/f32/gawk/po/ja.po | 
+ | [ms](/f32/language/ms) | 36 | 4999 | 0.7 | /mnt/stockage/packages/f32/gawk/po/ms.po | 
 {.sortable}
 
 

@@ -18,42 +18,42 @@ The package skanlite (version 0.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ca/skanlite.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/da/skanlite.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/de/skanlite.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/el/skanlite.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/en_GB/skanlite.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/et/skanlite.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/fr/skanlite.po | 
- | [ga]({{< ref "/f10/language/ga.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ga/skanlite.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/gl/skanlite.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/is/skanlite.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/it/skanlite.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ko/skanlite.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/nb/skanlite.po | 
- | [nds]({{< ref "/f10/language/nds.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/nds/skanlite.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/nl/skanlite.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/pa/skanlite.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/pt/skanlite.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/pt_BR/skanlite.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ro/skanlite.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ru/skanlite.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/sv/skanlite.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/tr/skanlite.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/uk/skanlite.po | 
- | [wa]({{< ref "/f10/language/wa.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/wa/skanlite.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/zh_CN/skanlite.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/zh_TW/skanlite.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 104 | 109 | 95.4 | /mnt/stockage/packages/f10/skanlite/po/ja/skanlite.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 104 | 109 | 95.4 | /mnt/stockage/packages/f10/skanlite/po/lt/skanlite.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 88 | 109 | 80.7 | /mnt/stockage/packages/f10/skanlite/po/es/skanlite.po | 
- | [km]({{< ref "/f10/language/km.md" >}}) | 88 | 109 | 80.7 | /mnt/stockage/packages/f10/skanlite/po/km/skanlite.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 88 | 109 | 80.7 | /mnt/stockage/packages/f10/skanlite/po/lv/skanlite.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 84 | 109 | 77.1 | /mnt/stockage/packages/f10/skanlite/po/cs/skanlite.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 20 | 109 | 18.3 | /mnt/stockage/packages/f10/skanlite/po/pl/skanlite.po | 
- | [be]({{< ref "/f10/language/be.md" >}}) | 5 | 109 | 4.6 | /mnt/stockage/packages/f10/skanlite/po/be/skanlite.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f10/skanlite/po/nn/skanlite.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 0 | 109 | 0.0 | /mnt/stockage/packages/f10/skanlite/po/sk/skanlite.po | 
+ | [ca](/f10/language/ca) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ca/skanlite.po | 
+ | [da](/f10/language/da) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/da/skanlite.po | 
+ | [de](/f10/language/de) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/de/skanlite.po | 
+ | [el](/f10/language/el) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/el/skanlite.po | 
+ | [en_GB](/f10/language/en_GB) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/en_GB/skanlite.po | 
+ | [et](/f10/language/et) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/et/skanlite.po | 
+ | [fr](/f10/language/fr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/fr/skanlite.po | 
+ | [ga](/f10/language/ga) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ga/skanlite.po | 
+ | [gl](/f10/language/gl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/gl/skanlite.po | 
+ | [is](/f10/language/is) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/is/skanlite.po | 
+ | [it](/f10/language/it) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/it/skanlite.po | 
+ | [ko](/f10/language/ko) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ko/skanlite.po | 
+ | [nb_NO](/f10/language/nb_NO) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/nb/skanlite.po | 
+ | [nds](/f10/language/nds) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/nds/skanlite.po | 
+ | [nl](/f10/language/nl) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/nl/skanlite.po | 
+ | [pa](/f10/language/pa) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/pa/skanlite.po | 
+ | [pt](/f10/language/pt) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/pt/skanlite.po | 
+ | [pt_BR](/f10/language/pt_BR) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/pt_BR/skanlite.po | 
+ | [ro](/f10/language/ro) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ro/skanlite.po | 
+ | [ru](/f10/language/ru) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/ru/skanlite.po | 
+ | [sv](/f10/language/sv) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/sv/skanlite.po | 
+ | [tr](/f10/language/tr) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/tr/skanlite.po | 
+ | [uk](/f10/language/uk) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/uk/skanlite.po | 
+ | [wa](/f10/language/wa) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/wa/skanlite.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/zh_CN/skanlite.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 109 | 109 | 100.0 | /mnt/stockage/packages/f10/skanlite/po/zh_TW/skanlite.po | 
+ | [ja](/f10/language/ja) | 104 | 109 | 95.4 | /mnt/stockage/packages/f10/skanlite/po/ja/skanlite.po | 
+ | [lt](/f10/language/lt) | 104 | 109 | 95.4 | /mnt/stockage/packages/f10/skanlite/po/lt/skanlite.po | 
+ | [es](/f10/language/es) | 88 | 109 | 80.7 | /mnt/stockage/packages/f10/skanlite/po/es/skanlite.po | 
+ | [km](/f10/language/km) | 88 | 109 | 80.7 | /mnt/stockage/packages/f10/skanlite/po/km/skanlite.po | 
+ | [lv](/f10/language/lv) | 88 | 109 | 80.7 | /mnt/stockage/packages/f10/skanlite/po/lv/skanlite.po | 
+ | [cs](/f10/language/cs) | 84 | 109 | 77.1 | /mnt/stockage/packages/f10/skanlite/po/cs/skanlite.po | 
+ | [pl](/f10/language/pl) | 20 | 109 | 18.3 | /mnt/stockage/packages/f10/skanlite/po/pl/skanlite.po | 
+ | [be](/f10/language/be) | 5 | 109 | 4.6 | /mnt/stockage/packages/f10/skanlite/po/be/skanlite.po | 
+ | [nn](/f10/language/nn) | 0 | 109 | 0.0 | /mnt/stockage/packages/f10/skanlite/po/nn/skanlite.po | 
+ | [sk](/f10/language/sk) | 0 | 109 | 0.0 | /mnt/stockage/packages/f10/skanlite/po/sk/skanlite.po | 
 {.sortable}
 
 

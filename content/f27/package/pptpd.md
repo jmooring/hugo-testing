@@ -18,8 +18,8 @@ The package pptpd (version 1.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/pptpd/debian/po/fr.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 429 | 429 | 100.0 | /mnt/stockage/packages/f27/pptpd/debian/po/pt_BR.po | 
+ | [fr](/f27/language/fr) | 425 | 425 | 100.0 | /mnt/stockage/packages/f27/pptpd/debian/po/fr.po | 
+ | [pt_BR](/f27/language/pt_BR) | 429 | 429 | 100.0 | /mnt/stockage/packages/f27/pptpd/debian/po/pt_BR.po | 
 {.sortable}
 
 

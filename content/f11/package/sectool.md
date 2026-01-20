@@ -18,19 +18,19 @@ The package sectool (version 0.9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f11/language/de.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/de.po | 
- | [de_CH]({{< ref "/f11/language/de_CH.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/de_CH.po | 
- | [es]({{< ref "/f11/language/es.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/es.po | 
- | [it]({{< ref "/f11/language/it.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/it.po | 
- | [pl]({{< ref "/f11/language/pl.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/pl.po | 
- | [pt_BR]({{< ref "/f11/language/pt_BR.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/pt_BR.po | 
- | [sr]({{< ref "/f11/language/sr.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/sr.po | 
- | [sr_Latn]({{< ref "/f11/language/sr_Latn.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/sr@latin.po | 
- | [cs]({{< ref "/f11/language/cs.md" >}}) | 1810 | 2411 | 75.1 | /mnt/stockage/packages/f11/sectool/po/cs.po | 
- | [fr]({{< ref "/f11/language/fr.md" >}}) | 294 | 2411 | 12.2 | /mnt/stockage/packages/f11/sectool/po/fr.po | 
- | [zh_Hans]({{< ref "/f11/language/zh_Hans.md" >}}) | 178 | 2411 | 7.4 | /mnt/stockage/packages/f11/sectool/po/zh_CN.po | 
- | [el]({{< ref "/f11/language/el.md" >}}) | 8 | 2411 | 0.3 | /mnt/stockage/packages/f11/sectool/po/el.po | 
- | [sk]({{< ref "/f11/language/sk.md" >}}) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f11/sectool/po/sk.po | 
+ | [de](/f11/language/de) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/de.po | 
+ | [de_CH](/f11/language/de_CH) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/de_CH.po | 
+ | [es](/f11/language/es) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/es.po | 
+ | [it](/f11/language/it) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/it.po | 
+ | [pl](/f11/language/pl) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/pl.po | 
+ | [pt_BR](/f11/language/pt_BR) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/pt_BR.po | 
+ | [sr](/f11/language/sr) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/sr.po | 
+ | [sr_Latn](/f11/language/sr_Latn) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f11/sectool/po/sr@latin.po | 
+ | [cs](/f11/language/cs) | 1810 | 2411 | 75.1 | /mnt/stockage/packages/f11/sectool/po/cs.po | 
+ | [fr](/f11/language/fr) | 294 | 2411 | 12.2 | /mnt/stockage/packages/f11/sectool/po/fr.po | 
+ | [zh_Hans](/f11/language/zh_Hans) | 178 | 2411 | 7.4 | /mnt/stockage/packages/f11/sectool/po/zh_CN.po | 
+ | [el](/f11/language/el) | 8 | 2411 | 0.3 | /mnt/stockage/packages/f11/sectool/po/el.po | 
+ | [sk](/f11/language/sk) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f11/sectool/po/sk.po | 
 {.sortable}
 
 

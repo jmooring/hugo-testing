@@ -18,9 +18,9 @@ The package python-django-angular (version 0.7.16):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f24/python-django-angular/djangular/locale/de/LC_MESSAGES/django.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f24/python-django-angular/djangular/locale/es/LC_MESSAGES/django.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 40 | 40 | 100.0 | /mnt/stockage/packages/f24/python-django-angular/djangular/locale/fr/LC_MESSAGES/django.po | 
+ | [de](/f24/language/de) | 40 | 40 | 100.0 | /mnt/stockage/packages/f24/python-django-angular/djangular/locale/de/LC_MESSAGES/django.po | 
+ | [es](/f24/language/es) | 40 | 40 | 100.0 | /mnt/stockage/packages/f24/python-django-angular/djangular/locale/es/LC_MESSAGES/django.po | 
+ | [fr](/f24/language/fr) | 40 | 40 | 100.0 | /mnt/stockage/packages/f24/python-django-angular/djangular/locale/fr/LC_MESSAGES/django.po | 
 {.sortable}
 
 

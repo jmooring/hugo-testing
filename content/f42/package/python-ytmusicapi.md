@@ -18,22 +18,22 @@ The package python-ytmusicapi (version 1.10.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f42/language/ar.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ar/LC_MESSAGES/base.po | 
- | [es]({{< ref "/f42/language/es.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/es/LC_MESSAGES/base.po | 
- | [hi]({{< ref "/f42/language/hi.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/hi/LC_MESSAGES/base.po | 
- | [ja]({{< ref "/f42/language/ja.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ja/LC_MESSAGES/base.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ko/LC_MESSAGES/base.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ru/LC_MESSAGES/base.po | 
- | [ur]({{< ref "/f42/language/ur.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ur/LC_MESSAGES/base.po | 
- | [zh_Hans]({{< ref "/f42/language/zh_Hans.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/zh_CN/LC_MESSAGES/base.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/de/LC_MESSAGES/base.po | 
- | [nl]({{< ref "/f42/language/nl.md" >}}) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/nl/LC_MESSAGES/base.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/pt/LC_MESSAGES/base.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/tr/LC_MESSAGES/base.po | 
- | [zh_Hant]({{< ref "/f42/language/zh_Hant.md" >}}) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/zh_TW/LC_MESSAGES/base.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 16 | 19 | 84.2 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/it/LC_MESSAGES/base.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 14 | 19 | 73.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/fr/LC_MESSAGES/base.po | 
- | [en]({{< ref "/f42/language/en.md" >}}) | 6 | 19 | 31.6 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/en/LC_MESSAGES/base.po | 
+ | [ar](/f42/language/ar) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ar/LC_MESSAGES/base.po | 
+ | [es](/f42/language/es) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/es/LC_MESSAGES/base.po | 
+ | [hi](/f42/language/hi) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/hi/LC_MESSAGES/base.po | 
+ | [ja](/f42/language/ja) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ja/LC_MESSAGES/base.po | 
+ | [ko](/f42/language/ko) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ko/LC_MESSAGES/base.po | 
+ | [ru](/f42/language/ru) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ru/LC_MESSAGES/base.po | 
+ | [ur](/f42/language/ur) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/ur/LC_MESSAGES/base.po | 
+ | [zh_Hans](/f42/language/zh_Hans) | 19 | 19 | 100.0 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/zh_CN/LC_MESSAGES/base.po | 
+ | [de](/f42/language/de) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/de/LC_MESSAGES/base.po | 
+ | [nl](/f42/language/nl) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/nl/LC_MESSAGES/base.po | 
+ | [pt](/f42/language/pt) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/pt/LC_MESSAGES/base.po | 
+ | [tr](/f42/language/tr) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/tr/LC_MESSAGES/base.po | 
+ | [zh_Hant](/f42/language/zh_Hant) | 18 | 19 | 94.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/zh_TW/LC_MESSAGES/base.po | 
+ | [it](/f42/language/it) | 16 | 19 | 84.2 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/it/LC_MESSAGES/base.po | 
+ | [fr](/f42/language/fr) | 14 | 19 | 73.7 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/fr/LC_MESSAGES/base.po | 
+ | [en](/f42/language/en) | 6 | 19 | 31.6 | /mnt/stockage/packages/f42/python-ytmusicapi/ytmusicapi/locales/en/LC_MESSAGES/base.po | 
 {.sortable}
 
 

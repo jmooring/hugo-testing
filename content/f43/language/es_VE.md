@@ -44,31 +44,31 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [aegisub]({{< ref "/f43/package/aegisub.md" >}}) | 5923 | 5923 | 100.0 | TSDX Dubs LTDA. <tomman@tsdx.net.ve> | 
- | [libgweather]({{< ref "/f43/package/libgweather.md" >}}) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
- | [python-django5]({{< ref "/f43/package/python-django5.md" >}}) | 2753 | 3529 | 78.0 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
- | [lxmenu-data]({{< ref "/f43/package/lxmenu-data.md" >}}) | 56 | 100 | 56.0 | Spanish <traductores@es.gnome.org> | 
- | [remmina]({{< ref "/f43/package/remmina.md" >}}) | 1006 | 5407 | 18.6 | Spanish (Venezuela) <https://hosted.weblate.org/projects/remmina/remmina/es_VE/> | 
- | [mate-applets]({{< ref "/f43/package/mate-applets.md" >}}) | 1632 | 12211 | 13.4 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [easyeffects]({{< ref "/f43/package/easyeffects.md" >}}) | 276 | 5197 | 5.3 | Spanish (Venezuela) <https://hosted.weblate.org/projects/easyeffects/main/es_VE/> | 
- | [mate-sensors-applet]({{< ref "/f43/package/mate-sensors-applet.md" >}}) | 11 | 313 | 3.5 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [caja-extensions]({{< ref "/f43/package/caja-extensions.md" >}}) | 18 | 845 | 2.1 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-media]({{< ref "/f43/package/mate-media.md" >}}) | 5 | 244 | 2.0 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-settings-daemon]({{< ref "/f43/package/mate-settings-daemon.md" >}}) | 43 | 2203 | 2.0 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [xreader]({{< ref "/f43/package/xreader.md" >}}) | 28 | 1625 | 1.7 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [mate-menu]({{< ref "/f43/package/mate-menu.md" >}}) | 5 | 308 | 1.6 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
- | [mate-system-monitor]({{< ref "/f43/package/mate-system-monitor.md" >}}) | 17 | 1559 | 1.1 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [atril]({{< ref "/f43/package/atril.md" >}}) | 21 | 2325 | 0.9 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [eom]({{< ref "/f43/package/eom.md" >}}) | 14 | 1779 | 0.8 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-session-manager]({{< ref "/f43/package/mate-session-manager.md" >}}) | 5 | 717 | 0.7 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-panel]({{< ref "/f43/package/mate-panel.md" >}}) | 39 | 6879 | 0.6 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-control-center]({{< ref "/f43/package/mate-control-center.md" >}}) | 18 | 3338 | 0.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [engrampa]({{< ref "/f43/package/engrampa.md" >}}) | 10 | 2026 | 0.5 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-calc]({{< ref "/f43/package/mate-calc.md" >}}) | 7 | 1582 | 0.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-power-manager]({{< ref "/f43/package/mate-power-manager.md" >}}) | 9 | 2660 | 0.3 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-utils]({{< ref "/f43/package/mate-utils.md" >}}) | 6 | 2467 | 0.2 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
- | [pluma-plugins]({{< ref "/f43/package/pluma-plugins.md" >}}) | 1 | 510 | 0.2 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
- | [mate-themes]({{< ref "/f43/package/mate-themes.md" >}}) | 0 | 74 | 0.0 | Spanish (Venezuela) (http://app.transifex.com/mate/MATE/language/es_VE/) | 
+ | [aegisub](/f43/package/aegisub) | 5923 | 5923 | 100.0 | TSDX Dubs LTDA. <tomman@tsdx.net.ve> | 
+ | [libgweather](/f43/package/libgweather) | 664 | 664 | 100.0 | Spanish <gnome-es-list@gnome.org> | 
+ | [python-django5](/f43/package/python-django5) | 2753 | 3529 | 78.0 | Spanish (Venezuela) (http://www.transifex.com/django/django/language/es_VE/) | 
+ | [lxmenu-data](/f43/package/lxmenu-data) | 56 | 100 | 56.0 | Spanish <traductores@es.gnome.org> | 
+ | [remmina](/f43/package/remmina) | 1006 | 5407 | 18.6 | Spanish (Venezuela) <https://hosted.weblate.org/projects/remmina/remmina/es_VE/> | 
+ | [mate-applets](/f43/package/mate-applets) | 1632 | 12211 | 13.4 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [easyeffects](/f43/package/easyeffects) | 276 | 5197 | 5.3 | Spanish (Venezuela) <https://hosted.weblate.org/projects/easyeffects/main/es_VE/> | 
+ | [mate-sensors-applet](/f43/package/mate-sensors-applet) | 11 | 313 | 3.5 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [caja-extensions](/f43/package/caja-extensions) | 18 | 845 | 2.1 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-media](/f43/package/mate-media) | 5 | 244 | 2.0 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-settings-daemon](/f43/package/mate-settings-daemon) | 43 | 2203 | 2.0 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [xreader](/f43/package/xreader) | 28 | 1625 | 1.7 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [mate-menu](/f43/package/mate-menu) | 5 | 308 | 1.6 | Spanish (Venezuela) (http://www.transifex.com/mate/MATE/language/es_VE/) | 
+ | [mate-system-monitor](/f43/package/mate-system-monitor) | 17 | 1559 | 1.1 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [atril](/f43/package/atril) | 21 | 2325 | 0.9 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [eom](/f43/package/eom) | 14 | 1779 | 0.8 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-session-manager](/f43/package/mate-session-manager) | 5 | 717 | 0.7 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-panel](/f43/package/mate-panel) | 39 | 6879 | 0.6 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-control-center](/f43/package/mate-control-center) | 18 | 3338 | 0.5 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [engrampa](/f43/package/engrampa) | 10 | 2026 | 0.5 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-calc](/f43/package/mate-calc) | 7 | 1582 | 0.4 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-power-manager](/f43/package/mate-power-manager) | 9 | 2660 | 0.3 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-utils](/f43/package/mate-utils) | 6 | 2467 | 0.2 | Spanish (Venezuela) (https://app.transifex.com/mate/teams/13566/es_VE/) | 
+ | [pluma-plugins](/f43/package/pluma-plugins) | 1 | 510 | 0.2 | Spanish (Venezuela) (https://www.transifex.com/mate/teams/13566/es_VE/) | 
+ | [mate-themes](/f43/package/mate-themes) | 0 | 74 | 0.0 | Spanish (Venezuela) (http://app.transifex.com/mate/MATE/language/es_VE/) | 
 {.sortable}
 
 

@@ -39,10 +39,10 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [slick-greeter]({{< ref "/f27/package/slick-greeter.md" >}}) | 129 | 211 | 61.1 | Walser <wae@li.org> | 
- | [lightdm-gtk]({{< ref "/f27/package/lightdm-gtk.md" >}}) | 28 | 87 | 32.2 | Walser <wae@li.org> | 
- | [lightdm]({{< ref "/f27/package/lightdm.md" >}}) | 40 | 163 | 24.5 | Walser <wae@li.org> | 
- | [rednotebook]({{< ref "/f27/package/rednotebook.md" >}}) | 275 | 1147 | 24.0 | Walser <wae@li.org> | 
+ | [slick-greeter](/f27/package/slick-greeter) | 129 | 211 | 61.1 | Walser <wae@li.org> | 
+ | [lightdm-gtk](/f27/package/lightdm-gtk) | 28 | 87 | 32.2 | Walser <wae@li.org> | 
+ | [lightdm](/f27/package/lightdm) | 40 | 163 | 24.5 | Walser <wae@li.org> | 
+ | [rednotebook](/f27/package/rednotebook) | 275 | 1147 | 24.0 | Walser <wae@li.org> | 
 {.sortable}
 
 

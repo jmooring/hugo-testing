@@ -18,22 +18,22 @@ The package e2fsprogs (version 1.42.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/cs.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/de.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/fr.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/nl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/pl.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/sv.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/uk.po | 
- | [vi]({{< ref "/f24/language/vi.md" >}}) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/vi.po | 
- | [ca]({{< ref "/f24/language/ca.md" >}}) | 6684 | 8487 | 78.8 | /mnt/stockage/packages/f24/e2fsprogs/po/ca.po | 
- | [eo]({{< ref "/f24/language/eo.md" >}}) | 5424 | 8487 | 63.9 | /mnt/stockage/packages/f24/e2fsprogs/po/eo.po | 
- | [id]({{< ref "/f24/language/id.md" >}}) | 5175 | 8487 | 61.0 | /mnt/stockage/packages/f24/e2fsprogs/po/id.po | 
- | [da]({{< ref "/f24/language/da.md" >}}) | 4519 | 8487 | 53.2 | /mnt/stockage/packages/f24/e2fsprogs/po/da.po | 
- | [tr]({{< ref "/f24/language/tr.md" >}}) | 3889 | 8487 | 45.8 | /mnt/stockage/packages/f24/e2fsprogs/po/tr.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 3214 | 8487 | 37.9 | /mnt/stockage/packages/f24/e2fsprogs/po/it.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 1224 | 8487 | 14.4 | /mnt/stockage/packages/f24/e2fsprogs/po/zh_CN.po | 
+ | [cs](/f24/language/cs) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/cs.po | 
+ | [de](/f24/language/de) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/de.po | 
+ | [es](/f24/language/es) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/es.po | 
+ | [fr](/f24/language/fr) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/fr.po | 
+ | [nl](/f24/language/nl) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/nl.po | 
+ | [pl](/f24/language/pl) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/pl.po | 
+ | [sv](/f24/language/sv) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/sv.po | 
+ | [uk](/f24/language/uk) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/uk.po | 
+ | [vi](/f24/language/vi) | 8429 | 8487 | 99.3 | /mnt/stockage/packages/f24/e2fsprogs/po/vi.po | 
+ | [ca](/f24/language/ca) | 6684 | 8487 | 78.8 | /mnt/stockage/packages/f24/e2fsprogs/po/ca.po | 
+ | [eo](/f24/language/eo) | 5424 | 8487 | 63.9 | /mnt/stockage/packages/f24/e2fsprogs/po/eo.po | 
+ | [id](/f24/language/id) | 5175 | 8487 | 61.0 | /mnt/stockage/packages/f24/e2fsprogs/po/id.po | 
+ | [da](/f24/language/da) | 4519 | 8487 | 53.2 | /mnt/stockage/packages/f24/e2fsprogs/po/da.po | 
+ | [tr](/f24/language/tr) | 3889 | 8487 | 45.8 | /mnt/stockage/packages/f24/e2fsprogs/po/tr.po | 
+ | [it](/f24/language/it) | 3214 | 8487 | 37.9 | /mnt/stockage/packages/f24/e2fsprogs/po/it.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 1224 | 8487 | 14.4 | /mnt/stockage/packages/f24/e2fsprogs/po/zh_CN.po | 
 {.sortable}
 
 

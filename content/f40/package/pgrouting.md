@@ -18,12 +18,12 @@ The package pgrouting (version 3.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 38838 | 40340 | 96.3 | /mnt/stockage/packages/f40/pgrouting/locale/zh_Hans/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/zh_Hans/LC_MESSAGES/pgrouting_doc_strings.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 37538 | 40293 | 93.2 | /mnt/stockage/packages/f40/pgrouting/locale/es/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/es/LC_MESSAGES/pgrouting_doc_strings.po | 
- | [ko]({{< ref "/f40/language/ko.md" >}}) | 843 | 40340 | 2.1 | /mnt/stockage/packages/f40/pgrouting/locale/ko/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/ko/LC_MESSAGES/pgrouting_doc_strings.po | 
- | [ja]({{< ref "/f40/language/ja.md" >}}) | 794 | 40340 | 2.0 | /mnt/stockage/packages/f40/pgrouting/locale/ja/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/ja/LC_MESSAGES/pgrouting_doc_strings.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 0 | 40340 | 0.0 | /mnt/stockage/packages/f40/pgrouting/locale/de/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/de/LC_MESSAGES/pgrouting_doc_strings.po | 
- | [en]({{< ref "/f40/language/en.md" >}}) | 0 | 40340 | 0.0 | /mnt/stockage/packages/f40/pgrouting/locale/en/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/en/LC_MESSAGES/pgrouting_doc_strings.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 38838 | 40340 | 96.3 | /mnt/stockage/packages/f40/pgrouting/locale/zh_Hans/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/zh_Hans/LC_MESSAGES/pgrouting_doc_strings.po | 
+ | [es](/f40/language/es) | 37538 | 40293 | 93.2 | /mnt/stockage/packages/f40/pgrouting/locale/es/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/es/LC_MESSAGES/pgrouting_doc_strings.po | 
+ | [ko](/f40/language/ko) | 843 | 40340 | 2.1 | /mnt/stockage/packages/f40/pgrouting/locale/ko/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/ko/LC_MESSAGES/pgrouting_doc_strings.po | 
+ | [ja](/f40/language/ja) | 794 | 40340 | 2.0 | /mnt/stockage/packages/f40/pgrouting/locale/ja/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/ja/LC_MESSAGES/pgrouting_doc_strings.po | 
+ | [de](/f40/language/de) | 0 | 40340 | 0.0 | /mnt/stockage/packages/f40/pgrouting/locale/de/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/de/LC_MESSAGES/pgrouting_doc_strings.po | 
+ | [en](/f40/language/en) | 0 | 40340 | 0.0 | /mnt/stockage/packages/f40/pgrouting/locale/en/LC_MESSAGES/index.po/mnt/stockage/packages/f40/pgrouting/locale/en/LC_MESSAGES/pgrouting_doc_strings.po | 
 {.sortable}
 
 

@@ -38,9 +38,9 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [zarafa]({{< ref "/f15/package/zarafa.md" >}}) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
- | [intltool]({{< ref "/f15/package/intltool.md" >}}) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
- | [jpoker]({{< ref "/f15/package/jpoker.md" >}}) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
+ | [zarafa](/f15/package/zarafa) | 3199 | 3383 | 94.6 | fr_FR <fr@li.org> | 
+ | [intltool](/f15/package/intltool) | 9 | 10 | 90.0 | NONE <kenneth@gnu.org> | 
+ | [jpoker](/f15/package/jpoker) | 256 | 357 | 71.7 | <pokersource-users@gna.org> | 
 {.sortable}
 
 

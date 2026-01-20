@@ -18,39 +18,39 @@ The package mingw32-iconv (version 1.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [eo]({{< ref "/f13/language/eo.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/eo.po | 
- | [fi]({{< ref "/f13/language/fi.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/fi.po | 
- | [ga]({{< ref "/f13/language/ga.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/ga.po | 
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/nl.po | 
- | [sl]({{< ref "/f13/language/sl.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/sl.po | 
- | [sv]({{< ref "/f13/language/sv.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/sv.po | 
- | [vi]({{< ref "/f13/language/vi.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/vi.po | 
- | [wa]({{< ref "/f13/language/wa.md" >}}) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/wa.po | 
- | [de]({{< ref "/f13/language/de.md" >}}) | 263 | 336 | 78.3 | /mnt/stockage/packages/f13/mingw32-iconv/po/de.po | 
- | [et]({{< ref "/f13/language/et.md" >}}) | 263 | 336 | 78.3 | /mnt/stockage/packages/f13/mingw32-iconv/po/et.po | 
- | [sr]({{< ref "/f13/language/sr.md" >}}) | 263 | 336 | 78.3 | /mnt/stockage/packages/f13/mingw32-iconv/po/sr.po | 
- | [af]({{< ref "/f13/language/af.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/af.po | 
- | [ca]({{< ref "/f13/language/ca.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/ca.po | 
- | [da]({{< ref "/f13/language/da.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/da.po | 
- | [el]({{< ref "/f13/language/el.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/el.po | 
- | [es]({{< ref "/f13/language/es.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/es.po | 
- | [fr]({{< ref "/f13/language/fr.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/fr.po | 
- | [gl]({{< ref "/f13/language/gl.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/gl.po | 
- | [hr]({{< ref "/f13/language/hr.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/hr.po | 
- | [hu]({{< ref "/f13/language/hu.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/hu.po | 
- | [id]({{< ref "/f13/language/id.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/id.po | 
- | [it]({{< ref "/f13/language/it.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/it.po | 
- | [pl]({{< ref "/f13/language/pl.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/pl.po | 
- | [pt_BR]({{< ref "/f13/language/pt_BR.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/pt_BR.po | 
- | [rm]({{< ref "/f13/language/rm.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/rm.po | 
- | [ro]({{< ref "/f13/language/ro.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/ro.po | 
- | [ru]({{< ref "/f13/language/ru.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/ru.po | 
- | [sk]({{< ref "/f13/language/sk.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/sk.po | 
- | [sq]({{< ref "/f13/language/sq.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/sq.po | 
- | [tr]({{< ref "/f13/language/tr.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/tr.po | 
- | [uk]({{< ref "/f13/language/uk.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/uk.po | 
- | [zh_Hans]({{< ref "/f13/language/zh_Hans.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f13/language/zh_Hant.md" >}}) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/zh_TW.po | 
+ | [eo](/f13/language/eo) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/eo.po | 
+ | [fi](/f13/language/fi) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/fi.po | 
+ | [ga](/f13/language/ga) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/ga.po | 
+ | [nl](/f13/language/nl) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/nl.po | 
+ | [sl](/f13/language/sl) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/sl.po | 
+ | [sv](/f13/language/sv) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/sv.po | 
+ | [vi](/f13/language/vi) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/vi.po | 
+ | [wa](/f13/language/wa) | 303 | 336 | 90.2 | /mnt/stockage/packages/f13/mingw32-iconv/po/wa.po | 
+ | [de](/f13/language/de) | 263 | 336 | 78.3 | /mnt/stockage/packages/f13/mingw32-iconv/po/de.po | 
+ | [et](/f13/language/et) | 263 | 336 | 78.3 | /mnt/stockage/packages/f13/mingw32-iconv/po/et.po | 
+ | [sr](/f13/language/sr) | 263 | 336 | 78.3 | /mnt/stockage/packages/f13/mingw32-iconv/po/sr.po | 
+ | [af](/f13/language/af) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/af.po | 
+ | [ca](/f13/language/ca) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/ca.po | 
+ | [da](/f13/language/da) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/da.po | 
+ | [el](/f13/language/el) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/el.po | 
+ | [es](/f13/language/es) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/es.po | 
+ | [fr](/f13/language/fr) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/fr.po | 
+ | [gl](/f13/language/gl) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/gl.po | 
+ | [hr](/f13/language/hr) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/hr.po | 
+ | [hu](/f13/language/hu) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/hu.po | 
+ | [id](/f13/language/id) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/id.po | 
+ | [it](/f13/language/it) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/it.po | 
+ | [pl](/f13/language/pl) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/pl.po | 
+ | [pt_BR](/f13/language/pt_BR) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/pt_BR.po | 
+ | [rm](/f13/language/rm) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/rm.po | 
+ | [ro](/f13/language/ro) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/ro.po | 
+ | [ru](/f13/language/ru) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/ru.po | 
+ | [sk](/f13/language/sk) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/sk.po | 
+ | [sq](/f13/language/sq) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/sq.po | 
+ | [tr](/f13/language/tr) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/tr.po | 
+ | [uk](/f13/language/uk) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/uk.po | 
+ | [zh_Hans](/f13/language/zh_Hans) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/zh_CN.po | 
+ | [zh_Hant](/f13/language/zh_Hant) | 15 | 336 | 4.5 | /mnt/stockage/packages/f13/mingw32-iconv/po/zh_TW.po | 
 {.sortable}
 
 

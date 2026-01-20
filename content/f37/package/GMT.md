@@ -18,22 +18,22 @@ The package GMT (version 6.4.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f37/language/de.md" >}}) | 79 | 79 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/de/LC_MESSAGES/sphinx.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/es/LC_MESSAGES/sphinx.po | 
- | [et]({{< ref "/f37/language/et.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/et/LC_MESSAGES/sphinx.po | 
- | [fa]({{< ref "/f37/language/fa.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/fa_IR/LC_MESSAGES/sphinx.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 89 | 89 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/fr/LC_MESSAGES/sphinx.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/it/LC_MESSAGES/sphinx.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/lt/LC_MESSAGES/sphinx.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/nl/LC_MESSAGES/sphinx.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/pl/LC_MESSAGES/sphinx.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 88 | 88 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/pt/LC_MESSAGES/sphinx.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/pt_BR/LC_MESSAGES/sphinx.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/ru/LC_MESSAGES/sphinx.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/sv/LC_MESSAGES/sphinx.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 77 | 77 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/tr/LC_MESSAGES/sphinx.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/zh_CN/LC_MESSAGES/sphinx.po | 
- | [en]({{< ref "/f37/language/en.md" >}}) | 0 | 99 | 0.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/en/LC_MESSAGES/sphinx.po | 
+ | [de](/f37/language/de) | 79 | 79 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/de/LC_MESSAGES/sphinx.po | 
+ | [es](/f37/language/es) | 89 | 89 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/es/LC_MESSAGES/sphinx.po | 
+ | [et](/f37/language/et) | 89 | 89 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/et/LC_MESSAGES/sphinx.po | 
+ | [fa](/f37/language/fa) | 88 | 88 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/fa_IR/LC_MESSAGES/sphinx.po | 
+ | [fr](/f37/language/fr) | 89 | 89 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/fr/LC_MESSAGES/sphinx.po | 
+ | [it](/f37/language/it) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/it/LC_MESSAGES/sphinx.po | 
+ | [lt](/f37/language/lt) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/lt/LC_MESSAGES/sphinx.po | 
+ | [nl](/f37/language/nl) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/nl/LC_MESSAGES/sphinx.po | 
+ | [pl](/f37/language/pl) | 83 | 83 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/pl/LC_MESSAGES/sphinx.po | 
+ | [pt](/f37/language/pt) | 88 | 88 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/pt/LC_MESSAGES/sphinx.po | 
+ | [pt_BR](/f37/language/pt_BR) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/pt_BR/LC_MESSAGES/sphinx.po | 
+ | [ru](/f37/language/ru) | 99 | 99 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/ru/LC_MESSAGES/sphinx.po | 
+ | [sv](/f37/language/sv) | 82 | 82 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/sv/LC_MESSAGES/sphinx.po | 
+ | [tr](/f37/language/tr) | 77 | 77 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/tr/LC_MESSAGES/sphinx.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 82 | 82 | 100.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/zh_CN/LC_MESSAGES/sphinx.po | 
+ | [en](/f37/language/en) | 0 | 99 | 0.0 | /mnt/stockage/packages/f37/GMT/doc/rst/themes/rtd/locale/en/LC_MESSAGES/sphinx.po | 
 {.sortable}
 
 

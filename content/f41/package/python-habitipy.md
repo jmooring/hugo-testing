@@ -18,7 +18,7 @@ The package python-habitipy (version 0.3.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 470 | 470 | 100.0 | /mnt/stockage/packages/f41/python-habitipy/habitipy/i18n/ru.po | 
+ | [ru](/f41/language/ru) | 470 | 470 | 100.0 | /mnt/stockage/packages/f41/python-habitipy/habitipy/i18n/ru.po | 
 {.sortable}
 
 

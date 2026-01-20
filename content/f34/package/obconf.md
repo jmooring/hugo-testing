@@ -18,36 +18,36 @@ The package obconf (version 2.0.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt]({{< ref "/f34/language/pt.md" >}}) | 732 | 738 | 99.2 | /mnt/stockage/packages/f34/obconf/po/pt.po | 
- | [es]({{< ref "/f34/language/es.md" >}}) | 731 | 738 | 99.1 | /mnt/stockage/packages/f34/obconf/po/es.po | 
- | [de]({{< ref "/f34/language/de.md" >}}) | 723 | 738 | 98.0 | /mnt/stockage/packages/f34/obconf/po/de.po | 
- | [lt]({{< ref "/f34/language/lt.md" >}}) | 723 | 738 | 98.0 | /mnt/stockage/packages/f34/obconf/po/lt.po | 
- | [pt_BR]({{< ref "/f34/language/pt_BR.md" >}}) | 723 | 738 | 98.0 | /mnt/stockage/packages/f34/obconf/po/pt_BR.po | 
- | [be]({{< ref "/f34/language/be.md" >}}) | 692 | 738 | 93.8 | /mnt/stockage/packages/f34/obconf/po/be.po | 
- | [cs]({{< ref "/f34/language/cs.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/cs.po | 
- | [da]({{< ref "/f34/language/da.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/da.po | 
- | [el]({{< ref "/f34/language/el.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/el.po | 
- | [et]({{< ref "/f34/language/et.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/et.po | 
- | [fi]({{< ref "/f34/language/fi.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/fi.po | 
- | [fr]({{< ref "/f34/language/fr.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/fr.po | 
- | [hr]({{< ref "/f34/language/hr.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/hr.po | 
- | [hu]({{< ref "/f34/language/hu.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/hu.po | 
- | [it]({{< ref "/f34/language/it.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/it.po | 
- | [nl]({{< ref "/f34/language/nl.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/nl.po | 
- | [pl]({{< ref "/f34/language/pl.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/pl.po | 
- | [ro]({{< ref "/f34/language/ro.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/ro.po | 
- | [sr]({{< ref "/f34/language/sr.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/sr.po | 
- | [sr_Latn]({{< ref "/f34/language/sr_Latn.md" >}}) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/sr@latin.po | 
- | [tr]({{< ref "/f34/language/tr.md" >}}) | 670 | 738 | 90.8 | /mnt/stockage/packages/f34/obconf/po/tr.po | 
- | [lv]({{< ref "/f34/language/lv.md" >}}) | 669 | 738 | 90.7 | /mnt/stockage/packages/f34/obconf/po/lv.po | 
- | [he]({{< ref "/f34/language/he.md" >}}) | 650 | 738 | 88.1 | /mnt/stockage/packages/f34/obconf/po/he.po | 
- | [zh_Hans]({{< ref "/f34/language/zh_Hans.md" >}}) | 639 | 738 | 86.6 | /mnt/stockage/packages/f34/obconf/po/zh_CN.po | 
- | [sv]({{< ref "/f34/language/sv.md" >}}) | 622 | 738 | 84.3 | /mnt/stockage/packages/f34/obconf/po/sv.po | 
- | [ru]({{< ref "/f34/language/ru.md" >}}) | 621 | 738 | 84.1 | /mnt/stockage/packages/f34/obconf/po/ru.po | 
- | [zh_Hant]({{< ref "/f34/language/zh_Hant.md" >}}) | 578 | 738 | 78.3 | /mnt/stockage/packages/f34/obconf/po/zh_TW.po | 
- | [nb_NO]({{< ref "/f34/language/nb_NO.md" >}}) | 491 | 738 | 66.5 | /mnt/stockage/packages/f34/obconf/po/no.po | 
- | [ar]({{< ref "/f34/language/ar.md" >}}) | 311 | 738 | 42.1 | /mnt/stockage/packages/f34/obconf/po/ar.po | 
- | [ja]({{< ref "/f34/language/ja.md" >}}) | 175 | 738 | 23.7 | /mnt/stockage/packages/f34/obconf/po/ja.po | 
+ | [pt](/f34/language/pt) | 732 | 738 | 99.2 | /mnt/stockage/packages/f34/obconf/po/pt.po | 
+ | [es](/f34/language/es) | 731 | 738 | 99.1 | /mnt/stockage/packages/f34/obconf/po/es.po | 
+ | [de](/f34/language/de) | 723 | 738 | 98.0 | /mnt/stockage/packages/f34/obconf/po/de.po | 
+ | [lt](/f34/language/lt) | 723 | 738 | 98.0 | /mnt/stockage/packages/f34/obconf/po/lt.po | 
+ | [pt_BR](/f34/language/pt_BR) | 723 | 738 | 98.0 | /mnt/stockage/packages/f34/obconf/po/pt_BR.po | 
+ | [be](/f34/language/be) | 692 | 738 | 93.8 | /mnt/stockage/packages/f34/obconf/po/be.po | 
+ | [cs](/f34/language/cs) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/cs.po | 
+ | [da](/f34/language/da) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/da.po | 
+ | [el](/f34/language/el) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/el.po | 
+ | [et](/f34/language/et) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/et.po | 
+ | [fi](/f34/language/fi) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/fi.po | 
+ | [fr](/f34/language/fr) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/fr.po | 
+ | [hr](/f34/language/hr) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/hr.po | 
+ | [hu](/f34/language/hu) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/hu.po | 
+ | [it](/f34/language/it) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/it.po | 
+ | [nl](/f34/language/nl) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/nl.po | 
+ | [pl](/f34/language/pl) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/pl.po | 
+ | [ro](/f34/language/ro) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/ro.po | 
+ | [sr](/f34/language/sr) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/sr.po | 
+ | [sr_Latn](/f34/language/sr_Latn) | 686 | 738 | 93.0 | /mnt/stockage/packages/f34/obconf/po/sr@latin.po | 
+ | [tr](/f34/language/tr) | 670 | 738 | 90.8 | /mnt/stockage/packages/f34/obconf/po/tr.po | 
+ | [lv](/f34/language/lv) | 669 | 738 | 90.7 | /mnt/stockage/packages/f34/obconf/po/lv.po | 
+ | [he](/f34/language/he) | 650 | 738 | 88.1 | /mnt/stockage/packages/f34/obconf/po/he.po | 
+ | [zh_Hans](/f34/language/zh_Hans) | 639 | 738 | 86.6 | /mnt/stockage/packages/f34/obconf/po/zh_CN.po | 
+ | [sv](/f34/language/sv) | 622 | 738 | 84.3 | /mnt/stockage/packages/f34/obconf/po/sv.po | 
+ | [ru](/f34/language/ru) | 621 | 738 | 84.1 | /mnt/stockage/packages/f34/obconf/po/ru.po | 
+ | [zh_Hant](/f34/language/zh_Hant) | 578 | 738 | 78.3 | /mnt/stockage/packages/f34/obconf/po/zh_TW.po | 
+ | [nb_NO](/f34/language/nb_NO) | 491 | 738 | 66.5 | /mnt/stockage/packages/f34/obconf/po/no.po | 
+ | [ar](/f34/language/ar) | 311 | 738 | 42.1 | /mnt/stockage/packages/f34/obconf/po/ar.po | 
+ | [ja](/f34/language/ja) | 175 | 738 | 23.7 | /mnt/stockage/packages/f34/obconf/po/ja.po | 
 {.sortable}
 
 

@@ -18,65 +18,65 @@ The package gnome-initial-setup (version 0.12):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [an]({{< ref "/f19/language/an.md" >}}) | 288 | 288 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/an.po | 
- | [ar]({{< ref "/f19/language/ar.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ar.po | 
- | [as]({{< ref "/f19/language/as.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/as.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/be.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ca.po | 
- | [ca@valencia]({{< ref "/f19/language/ca@valencia.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ca@valencia.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/cs.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/da.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/el.po | 
- | [en_GB]({{< ref "/f19/language/en_GB.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/en_GB.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/es.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/et.po | 
- | [eu]({{< ref "/f19/language/eu.md" >}}) | 318 | 318 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/eu.po | 
- | [fa]({{< ref "/f19/language/fa.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fa.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fi.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fr.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/gl.po | 
- | [gu]({{< ref "/f19/language/gu.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/gu.po | 
- | [he]({{< ref "/f19/language/he.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/he.po | 
- | [hi]({{< ref "/f19/language/hi.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/hi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/hu.po | 
- | [ia]({{< ref "/f19/language/ia.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ia.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/it.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ja.po | 
- | [kk]({{< ref "/f19/language/kk.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/kk.po | 
- | [kn]({{< ref "/f19/language/kn.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/kn.po | 
- | [ko]({{< ref "/f19/language/ko.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ko.po | 
- | [lt]({{< ref "/f19/language/lt.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/lt.po | 
- | [lv]({{< ref "/f19/language/lv.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/lv.po | 
- | [ml]({{< ref "/f19/language/ml.md" >}}) | 314 | 314 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ml.po | 
- | [mr]({{< ref "/f19/language/mr.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/mr.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/nb.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 318 | 318 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/nl.po | 
- | [or]({{< ref "/f19/language/or.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/or.po | 
- | [pa]({{< ref "/f19/language/pa.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pa.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pt.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pt_BR.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 302 | 302 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ru.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sk.po | 
- | [sl]({{< ref "/f19/language/sl.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sl.po | 
- | [sr]({{< ref "/f19/language/sr.md" >}}) | 604 | 604 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sr@latin.po/mnt/stockage/packages/f19/gnome-initial-setup/po/sr.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sv.po | 
- | [ta]({{< ref "/f19/language/ta.md" >}}) | 310 | 310 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ta.po | 
- | [te]({{< ref "/f19/language/te.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/te.po | 
- | [tg]({{< ref "/f19/language/tg.md" >}}) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/tg.po | 
- | [th]({{< ref "/f19/language/th.md" >}}) | 234 | 234 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/th.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/tr.po | 
- | [ug]({{< ref "/f19/language/ug.md" >}}) | 318 | 318 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ug.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/uk.po | 
- | [bg]({{< ref "/f19/language/bg.md" >}}) | 352 | 362 | 97.2 | /mnt/stockage/packages/f19/gnome-initial-setup/po/bg.po | 
- | [vi]({{< ref "/f19/language/vi.md" >}}) | 292 | 303 | 96.4 | /mnt/stockage/packages/f19/gnome-initial-setup/po/vi.po | 
- | [fur]({{< ref "/f19/language/fur.md" >}}) | 221 | 234 | 94.4 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fur.po | 
- | [de]({{< ref "/f19/language/de.md" >}}) | 328 | 362 | 90.6 | /mnt/stockage/packages/f19/gnome-initial-setup/po/de.po | 
- | [bn]({{< ref "/f19/language/bn.md" >}}) | 254 | 288 | 88.2 | /mnt/stockage/packages/f19/gnome-initial-setup/po/bn_IN.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 303 | 362 | 83.7 | /mnt/stockage/packages/f19/gnome-initial-setup/po/zh_CN.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 237 | 288 | 82.3 | /mnt/stockage/packages/f19/gnome-initial-setup/po/eo.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 564 | 724 | 77.9 | /mnt/stockage/packages/f19/gnome-initial-setup/po/zh_HK.po/mnt/stockage/packages/f19/gnome-initial-setup/po/zh_TW.po | 
+ | [an](/f19/language/an) | 288 | 288 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/an.po | 
+ | [ar](/f19/language/ar) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ar.po | 
+ | [as](/f19/language/as) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/as.po | 
+ | [be](/f19/language/be) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/be.po | 
+ | [ca](/f19/language/ca) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ca.po | 
+ | [ca@valencia](/f19/language/ca@valencia) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ca@valencia.po | 
+ | [cs](/f19/language/cs) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/cs.po | 
+ | [da](/f19/language/da) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/da.po | 
+ | [el](/f19/language/el) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/el.po | 
+ | [en_GB](/f19/language/en_GB) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/en_GB.po | 
+ | [es](/f19/language/es) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/es.po | 
+ | [et](/f19/language/et) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/et.po | 
+ | [eu](/f19/language/eu) | 318 | 318 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/eu.po | 
+ | [fa](/f19/language/fa) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fa.po | 
+ | [fi](/f19/language/fi) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fi.po | 
+ | [fr](/f19/language/fr) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fr.po | 
+ | [gl](/f19/language/gl) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/gl.po | 
+ | [gu](/f19/language/gu) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/gu.po | 
+ | [he](/f19/language/he) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/he.po | 
+ | [hi](/f19/language/hi) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/hi.po | 
+ | [hu](/f19/language/hu) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/hu.po | 
+ | [ia](/f19/language/ia) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ia.po | 
+ | [id](/f19/language/id) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/id.po | 
+ | [it](/f19/language/it) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/it.po | 
+ | [ja](/f19/language/ja) | 316 | 316 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ja.po | 
+ | [kk](/f19/language/kk) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/kk.po | 
+ | [kn](/f19/language/kn) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/kn.po | 
+ | [ko](/f19/language/ko) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ko.po | 
+ | [lt](/f19/language/lt) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/lt.po | 
+ | [lv](/f19/language/lv) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/lv.po | 
+ | [ml](/f19/language/ml) | 314 | 314 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ml.po | 
+ | [mr](/f19/language/mr) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/mr.po | 
+ | [nb_NO](/f19/language/nb_NO) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/nb.po | 
+ | [nl](/f19/language/nl) | 318 | 318 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/nl.po | 
+ | [or](/f19/language/or) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/or.po | 
+ | [pa](/f19/language/pa) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pa.po | 
+ | [pl](/f19/language/pl) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pl.po | 
+ | [pt](/f19/language/pt) | 303 | 303 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pt.po | 
+ | [pt_BR](/f19/language/pt_BR) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/pt_BR.po | 
+ | [ru](/f19/language/ru) | 302 | 302 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ru.po | 
+ | [sk](/f19/language/sk) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sk.po | 
+ | [sl](/f19/language/sl) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sl.po | 
+ | [sr](/f19/language/sr) | 604 | 604 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sr@latin.po/mnt/stockage/packages/f19/gnome-initial-setup/po/sr.po | 
+ | [sv](/f19/language/sv) | 234 | 234 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/sv.po | 
+ | [ta](/f19/language/ta) | 310 | 310 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ta.po | 
+ | [te](/f19/language/te) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/te.po | 
+ | [tg](/f19/language/tg) | 362 | 362 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/tg.po | 
+ | [th](/f19/language/th) | 234 | 234 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/th.po | 
+ | [tr](/f19/language/tr) | 328 | 328 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/tr.po | 
+ | [ug](/f19/language/ug) | 318 | 318 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/ug.po | 
+ | [uk](/f19/language/uk) | 301 | 301 | 100.0 | /mnt/stockage/packages/f19/gnome-initial-setup/po/uk.po | 
+ | [bg](/f19/language/bg) | 352 | 362 | 97.2 | /mnt/stockage/packages/f19/gnome-initial-setup/po/bg.po | 
+ | [vi](/f19/language/vi) | 292 | 303 | 96.4 | /mnt/stockage/packages/f19/gnome-initial-setup/po/vi.po | 
+ | [fur](/f19/language/fur) | 221 | 234 | 94.4 | /mnt/stockage/packages/f19/gnome-initial-setup/po/fur.po | 
+ | [de](/f19/language/de) | 328 | 362 | 90.6 | /mnt/stockage/packages/f19/gnome-initial-setup/po/de.po | 
+ | [bn](/f19/language/bn) | 254 | 288 | 88.2 | /mnt/stockage/packages/f19/gnome-initial-setup/po/bn_IN.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 303 | 362 | 83.7 | /mnt/stockage/packages/f19/gnome-initial-setup/po/zh_CN.po | 
+ | [eo](/f19/language/eo) | 237 | 288 | 82.3 | /mnt/stockage/packages/f19/gnome-initial-setup/po/eo.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 564 | 724 | 77.9 | /mnt/stockage/packages/f19/gnome-initial-setup/po/zh_HK.po/mnt/stockage/packages/f19/gnome-initial-setup/po/zh_TW.po | 
 {.sortable}
 
 

@@ -18,32 +18,32 @@ The package galculator (version 2.1.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f39/language/cs.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/cs.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/de.po | 
- | [en_AU]({{< ref "/f39/language/en_AU.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/en_AU.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/fr.po | 
- | [gl]({{< ref "/f39/language/gl.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/gl.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/id.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/it.po | 
- | [ja]({{< ref "/f39/language/ja.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/ja.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/lt.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/ru.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/sk.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/zh_TW.po | 
- | [sv]({{< ref "/f39/language/sv.md" >}}) | 916 | 935 | 98.0 | /mnt/stockage/packages/f39/galculator/po/sv.po | 
- | [mr]({{< ref "/f39/language/mr.md" >}}) | 806 | 935 | 86.2 | /mnt/stockage/packages/f39/galculator/po/mr.po | 
- | [hu]({{< ref "/f39/language/hu.md" >}}) | 764 | 935 | 81.7 | /mnt/stockage/packages/f39/galculator/po/hu.po | 
- | [ro]({{< ref "/f39/language/ro.md" >}}) | 466 | 935 | 49.8 | /mnt/stockage/packages/f39/galculator/po/ro.po | 
- | [el]({{< ref "/f39/language/el.md" >}}) | 454 | 935 | 48.6 | /mnt/stockage/packages/f39/galculator/po/el.po | 
- | [kk]({{< ref "/f39/language/kk.md" >}}) | 408 | 935 | 43.6 | /mnt/stockage/packages/f39/galculator/po/kk.po | 
- | [es_MX]({{< ref "/f39/language/es_MX.md" >}}) | 101 | 935 | 10.8 | /mnt/stockage/packages/f39/galculator/po/es_MX.po | 
+ | [cs](/f39/language/cs) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/cs.po | 
+ | [de](/f39/language/de) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/de.po | 
+ | [en_AU](/f39/language/en_AU) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/en_AU.po | 
+ | [es](/f39/language/es) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/es.po | 
+ | [fr](/f39/language/fr) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/fr.po | 
+ | [gl](/f39/language/gl) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/gl.po | 
+ | [id](/f39/language/id) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/id.po | 
+ | [it](/f39/language/it) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/it.po | 
+ | [ja](/f39/language/ja) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/ja.po | 
+ | [lt](/f39/language/lt) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/lt.po | 
+ | [pl](/f39/language/pl) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/pl.po | 
+ | [pt](/f39/language/pt) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/ru.po | 
+ | [sk](/f39/language/sk) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/sk.po | 
+ | [tr](/f39/language/tr) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/tr.po | 
+ | [uk](/f39/language/uk) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/zh_CN.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 935 | 935 | 100.0 | /mnt/stockage/packages/f39/galculator/po/zh_TW.po | 
+ | [sv](/f39/language/sv) | 916 | 935 | 98.0 | /mnt/stockage/packages/f39/galculator/po/sv.po | 
+ | [mr](/f39/language/mr) | 806 | 935 | 86.2 | /mnt/stockage/packages/f39/galculator/po/mr.po | 
+ | [hu](/f39/language/hu) | 764 | 935 | 81.7 | /mnt/stockage/packages/f39/galculator/po/hu.po | 
+ | [ro](/f39/language/ro) | 466 | 935 | 49.8 | /mnt/stockage/packages/f39/galculator/po/ro.po | 
+ | [el](/f39/language/el) | 454 | 935 | 48.6 | /mnt/stockage/packages/f39/galculator/po/el.po | 
+ | [kk](/f39/language/kk) | 408 | 935 | 43.6 | /mnt/stockage/packages/f39/galculator/po/kk.po | 
+ | [es_MX](/f39/language/es_MX) | 101 | 935 | 10.8 | /mnt/stockage/packages/f39/galculator/po/es_MX.po | 
 {.sortable}
 
 

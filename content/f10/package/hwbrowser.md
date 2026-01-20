@@ -18,71 +18,71 @@ The package hwbrowser (version 0.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [as]({{< ref "/f10/language/as.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/as.po | 
- | [bg]({{< ref "/f10/language/bg.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/bg.po | 
- | [bn_IN]({{< ref "/f10/language/bn_IN.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/bn_IN.po | 
- | [bs]({{< ref "/f10/language/bs.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/bs.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ca.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/cs.po | 
- | [cy]({{< ref "/f10/language/cy.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/cy.po | 
- | [da]({{< ref "/f10/language/da.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/da.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/de.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/el.po | 
- | [en_GB]({{< ref "/f10/language/en_GB.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/en_GB.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/es.po | 
- | [fi]({{< ref "/f10/language/fi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/fi.po | 
- | [fr]({{< ref "/f10/language/fr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/fr.po | 
- | [gu]({{< ref "/f10/language/gu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/gu.po | 
- | [hi]({{< ref "/f10/language/hi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/hi.po | 
- | [hr]({{< ref "/f10/language/hr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/hr.po | 
- | [hu]({{< ref "/f10/language/hu.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/hu.po | 
- | [id]({{< ref "/f10/language/id.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/id.po | 
- | [is]({{< ref "/f10/language/is.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/is.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/it.po | 
- | [ja]({{< ref "/f10/language/ja.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ja.po | 
- | [kn]({{< ref "/f10/language/kn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/kn.po | 
- | [ko]({{< ref "/f10/language/ko.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ko.po | 
- | [ml]({{< ref "/f10/language/ml.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ml.po | 
- | [mr]({{< ref "/f10/language/mr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/mr.po | 
- | [ms]({{< ref "/f10/language/ms.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ms.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/nb.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/nl.po | 
- | [or]({{< ref "/f10/language/or.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/or.po | 
- | [pa]({{< ref "/f10/language/pa.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pa.po | 
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pl.po | 
- | [pt]({{< ref "/f10/language/pt.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pt.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pt_BR.po | 
- | [ro]({{< ref "/f10/language/ro.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ro.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ru.po | 
- | [si]({{< ref "/f10/language/si.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/si.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sk.po | 
- | [sl]({{< ref "/f10/language/sl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sl.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sr@latin.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sv.po | 
- | [ta]({{< ref "/f10/language/ta.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ta.po | 
- | [te]({{< ref "/f10/language/te.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/te.po | 
- | [tr]({{< ref "/f10/language/tr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/tr.po | 
- | [uk]({{< ref "/f10/language/uk.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/uk.po | 
- | [zh_Hans]({{< ref "/f10/language/zh_Hans.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f10/language/zh_Hant.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/zh_TW.po | 
- | [lv]({{< ref "/f10/language/lv.md" >}}) | 111 | 116 | 95.7 | /mnt/stockage/packages/f10/hwbrowser/po/lv.po | 
- | [ar]({{< ref "/f10/language/ar.md" >}}) | 110 | 116 | 94.8 | /mnt/stockage/packages/f10/hwbrowser/po/ar.po | 
- | [bn]({{< ref "/f10/language/bn.md" >}}) | 108 | 116 | 93.1 | /mnt/stockage/packages/f10/hwbrowser/po/bn.po | 
- | [he]({{< ref "/f10/language/he.md" >}}) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/he.po | 
- | [hy]({{< ref "/f10/language/hy.md" >}}) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/hy.po | 
- | [lt]({{< ref "/f10/language/lt.md" >}}) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/lt.po | 
- | [mk]({{< ref "/f10/language/mk.md" >}}) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/mk.po | 
- | [et]({{< ref "/f10/language/et.md" >}}) | 105 | 116 | 90.5 | /mnt/stockage/packages/f10/hwbrowser/po/et.po | 
- | [fa]({{< ref "/f10/language/fa.md" >}}) | 95 | 116 | 81.9 | /mnt/stockage/packages/f10/hwbrowser/po/fa.po | 
- | [vi]({{< ref "/f10/language/vi.md" >}}) | 94 | 116 | 81.0 | /mnt/stockage/packages/f10/hwbrowser/po/vi.po | 
- | [gl]({{< ref "/f10/language/gl.md" >}}) | 69 | 116 | 59.5 | /mnt/stockage/packages/f10/hwbrowser/po/gl.po | 
- | [ka]({{< ref "/f10/language/ka.md" >}}) | 69 | 116 | 59.5 | /mnt/stockage/packages/f10/hwbrowser/po/ka.po | 
- | [ku]({{< ref "/f10/language/ku.md" >}}) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/ku.po | 
- | [lo]({{< ref "/f10/language/lo.md" >}}) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/lo.po | 
- | [my]({{< ref "/f10/language/my.md" >}}) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/my.po | 
- | [sq]({{< ref "/f10/language/sq.md" >}}) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/sq.po | 
- | [ur]({{< ref "/f10/language/ur.md" >}}) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/ur.po | 
+ | [as](/f10/language/as) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/as.po | 
+ | [bg](/f10/language/bg) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/bg.po | 
+ | [bn_IN](/f10/language/bn_IN) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/bn_IN.po | 
+ | [bs](/f10/language/bs) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/bs.po | 
+ | [ca](/f10/language/ca) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ca.po | 
+ | [cs](/f10/language/cs) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/cs.po | 
+ | [cy](/f10/language/cy) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/cy.po | 
+ | [da](/f10/language/da) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/da.po | 
+ | [de](/f10/language/de) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/de.po | 
+ | [el](/f10/language/el) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/el.po | 
+ | [en_GB](/f10/language/en_GB) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/en_GB.po | 
+ | [es](/f10/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/es.po | 
+ | [fi](/f10/language/fi) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/fi.po | 
+ | [fr](/f10/language/fr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/fr.po | 
+ | [gu](/f10/language/gu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/gu.po | 
+ | [hi](/f10/language/hi) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/hi.po | 
+ | [hr](/f10/language/hr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/hr.po | 
+ | [hu](/f10/language/hu) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/hu.po | 
+ | [id](/f10/language/id) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/id.po | 
+ | [is](/f10/language/is) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/is.po | 
+ | [it](/f10/language/it) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/it.po | 
+ | [ja](/f10/language/ja) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ja.po | 
+ | [kn](/f10/language/kn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/kn.po | 
+ | [ko](/f10/language/ko) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ko.po | 
+ | [ml](/f10/language/ml) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ml.po | 
+ | [mr](/f10/language/mr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/mr.po | 
+ | [ms](/f10/language/ms) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ms.po | 
+ | [nb_NO](/f10/language/nb_NO) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/nb.po | 
+ | [nl](/f10/language/nl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/nl.po | 
+ | [or](/f10/language/or) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/or.po | 
+ | [pa](/f10/language/pa) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pa.po | 
+ | [pl](/f10/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pl.po | 
+ | [pt](/f10/language/pt) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pt.po | 
+ | [pt_BR](/f10/language/pt_BR) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/pt_BR.po | 
+ | [ro](/f10/language/ro) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ro.po | 
+ | [ru](/f10/language/ru) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ru.po | 
+ | [si](/f10/language/si) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/si.po | 
+ | [sk](/f10/language/sk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sk.po | 
+ | [sl](/f10/language/sl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sl.po | 
+ | [sr](/f10/language/sr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sr@latin.po | 
+ | [sv](/f10/language/sv) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/sv.po | 
+ | [ta](/f10/language/ta) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/ta.po | 
+ | [te](/f10/language/te) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/te.po | 
+ | [tr](/f10/language/tr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/tr.po | 
+ | [uk](/f10/language/uk) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/uk.po | 
+ | [zh_Hans](/f10/language/zh_Hans) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/zh_CN.po | 
+ | [zh_Hant](/f10/language/zh_Hant) | 116 | 116 | 100.0 | /mnt/stockage/packages/f10/hwbrowser/po/zh_TW.po | 
+ | [lv](/f10/language/lv) | 111 | 116 | 95.7 | /mnt/stockage/packages/f10/hwbrowser/po/lv.po | 
+ | [ar](/f10/language/ar) | 110 | 116 | 94.8 | /mnt/stockage/packages/f10/hwbrowser/po/ar.po | 
+ | [bn](/f10/language/bn) | 108 | 116 | 93.1 | /mnt/stockage/packages/f10/hwbrowser/po/bn.po | 
+ | [he](/f10/language/he) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/he.po | 
+ | [hy](/f10/language/hy) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/hy.po | 
+ | [lt](/f10/language/lt) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/lt.po | 
+ | [mk](/f10/language/mk) | 107 | 116 | 92.2 | /mnt/stockage/packages/f10/hwbrowser/po/mk.po | 
+ | [et](/f10/language/et) | 105 | 116 | 90.5 | /mnt/stockage/packages/f10/hwbrowser/po/et.po | 
+ | [fa](/f10/language/fa) | 95 | 116 | 81.9 | /mnt/stockage/packages/f10/hwbrowser/po/fa.po | 
+ | [vi](/f10/language/vi) | 94 | 116 | 81.0 | /mnt/stockage/packages/f10/hwbrowser/po/vi.po | 
+ | [gl](/f10/language/gl) | 69 | 116 | 59.5 | /mnt/stockage/packages/f10/hwbrowser/po/gl.po | 
+ | [ka](/f10/language/ka) | 69 | 116 | 59.5 | /mnt/stockage/packages/f10/hwbrowser/po/ka.po | 
+ | [ku](/f10/language/ku) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/ku.po | 
+ | [lo](/f10/language/lo) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/lo.po | 
+ | [my](/f10/language/my) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/my.po | 
+ | [sq](/f10/language/sq) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/sq.po | 
+ | [ur](/f10/language/ur) | 0 | 117 | 0.0 | /mnt/stockage/packages/f10/hwbrowser/po/ur.po | 
 {.sortable}
 
 

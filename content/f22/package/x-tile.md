@@ -18,15 +18,15 @@ The package x-tile (version 2.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/de.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/it.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/pl.po | 
- | [ru]({{< ref "/f22/language/ru.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/ru.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/zh_TW.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 728 | 732 | 99.5 | /mnt/stockage/packages/f22/x-tile/locale/fr.po | 
- | [es_AR]({{< ref "/f22/language/es_AR.md" >}}) | 652 | 732 | 89.1 | /mnt/stockage/packages/f22/x-tile/locale/es_AR.po | 
+ | [cs](/f22/language/cs) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/cs.po | 
+ | [de](/f22/language/de) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/de.po | 
+ | [it](/f22/language/it) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/it.po | 
+ | [pl](/f22/language/pl) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/pl.po | 
+ | [ru](/f22/language/ru) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/ru.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 732 | 732 | 100.0 | /mnt/stockage/packages/f22/x-tile/locale/zh_TW.po | 
+ | [fr](/f22/language/fr) | 728 | 732 | 99.5 | /mnt/stockage/packages/f22/x-tile/locale/fr.po | 
+ | [es_AR](/f22/language/es_AR) | 652 | 732 | 89.1 | /mnt/stockage/packages/f22/x-tile/locale/es_AR.po | 
 {.sortable}
 
 

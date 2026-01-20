@@ -18,9 +18,9 @@ The package cpufreq-utils (version 002):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/cpufreq-utils/po/de.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/cpufreq-utils/po/fr.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/cpufreq-utils/po/it.po | 
+ | [de](/f8/language/de) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/cpufreq-utils/po/de.po | 
+ | [fr](/f8/language/fr) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/cpufreq-utils/po/fr.po | 
+ | [it](/f8/language/it) | 528 | 528 | 100.0 | /mnt/stockage/packages/f8/cpufreq-utils/po/it.po | 
 {.sortable}
 
 

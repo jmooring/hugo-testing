@@ -18,8 +18,8 @@ The package usbauth (version 1.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f43/usbauth/usbauth-notifier/po/de.po | 
- | [zh_Hant]({{< ref "/f43/language/zh_Hant.md" >}}) | 42 | 42 | 100.0 | /mnt/stockage/packages/f43/usbauth/usbauth-notifier/po/zh_TW.po | 
+ | [de](/f43/language/de) | 42 | 42 | 100.0 | /mnt/stockage/packages/f43/usbauth/usbauth-notifier/po/de.po | 
+ | [zh_Hant](/f43/language/zh_Hant) | 42 | 42 | 100.0 | /mnt/stockage/packages/f43/usbauth/usbauth-notifier/po/zh_TW.po | 
 {.sortable}
 
 

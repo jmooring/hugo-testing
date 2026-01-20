@@ -18,16 +18,16 @@ The package fcitx (version 4.2.9.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/ca.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/ko.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/ru.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 3278 | 3393 | 96.6 | /mnt/stockage/packages/f27/fcitx/po/zh_TW.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 3247 | 3393 | 95.7 | /mnt/stockage/packages/f27/fcitx/po/de.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 2889 | 3393 | 85.1 | /mnt/stockage/packages/f27/fcitx/po/ja.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 734 | 3393 | 21.6 | /mnt/stockage/packages/f27/fcitx/po/da.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 188 | 3393 | 5.5 | /mnt/stockage/packages/f27/fcitx/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 32 | 3393 | 0.9 | /mnt/stockage/packages/f27/fcitx/po/fr.po | 
+ | [ca](/f27/language/ca) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/ca.po | 
+ | [ko](/f27/language/ko) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/ko.po | 
+ | [ru](/f27/language/ru) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/ru.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 3393 | 3393 | 100.0 | /mnt/stockage/packages/f27/fcitx/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 3278 | 3393 | 96.6 | /mnt/stockage/packages/f27/fcitx/po/zh_TW.po | 
+ | [de](/f27/language/de) | 3247 | 3393 | 95.7 | /mnt/stockage/packages/f27/fcitx/po/de.po | 
+ | [ja](/f27/language/ja) | 2889 | 3393 | 85.1 | /mnt/stockage/packages/f27/fcitx/po/ja.po | 
+ | [da](/f27/language/da) | 734 | 3393 | 21.6 | /mnt/stockage/packages/f27/fcitx/po/da.po | 
+ | [es](/f27/language/es) | 188 | 3393 | 5.5 | /mnt/stockage/packages/f27/fcitx/po/es.po | 
+ | [fr](/f27/language/fr) | 32 | 3393 | 0.9 | /mnt/stockage/packages/f27/fcitx/po/fr.po | 
 {.sortable}
 
 

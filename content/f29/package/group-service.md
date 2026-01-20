@@ -18,7 +18,7 @@ The package group-service (version 1.2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 24 | 24 | 100.0 | /mnt/stockage/packages/f29/group-service/po/zh_CN.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 24 | 24 | 100.0 | /mnt/stockage/packages/f29/group-service/po/zh_CN.po | 
 {.sortable}
 
 

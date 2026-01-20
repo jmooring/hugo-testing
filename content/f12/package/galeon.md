@@ -18,63 +18,63 @@ The package galeon (version 2.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f12/language/bg.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/bg.po | 
- | [bs]({{< ref "/f12/language/bs.md" >}}) | 5461 | 5461 | 100.0 | /mnt/stockage/packages/f12/galeon/po/bs.po | 
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ca.po | 
- | [cs]({{< ref "/f12/language/cs.md" >}}) | 5974 | 5974 | 100.0 | /mnt/stockage/packages/f12/galeon/po/cs.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/de.po | 
- | [en_CA]({{< ref "/f12/language/en_CA.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/en_CA.po | 
- | [en_GB]({{< ref "/f12/language/en_GB.md" >}}) | 6006 | 6006 | 100.0 | /mnt/stockage/packages/f12/galeon/po/en_GB.po | 
- | [error]({{< ref "/f12/language/error.md" >}}) | 5965 | 5965 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sr@Latn.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 5994 | 5994 | 100.0 | /mnt/stockage/packages/f12/galeon/po/es.po | 
- | [eu]({{< ref "/f12/language/eu.md" >}}) | 5974 | 5974 | 100.0 | /mnt/stockage/packages/f12/galeon/po/eu.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/fr.po | 
- | [hr]({{< ref "/f12/language/hr.md" >}}) | 5286 | 5286 | 100.0 | /mnt/stockage/packages/f12/galeon/po/hr.po | 
- | [ja]({{< ref "/f12/language/ja.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ja.po | 
- | [lv]({{< ref "/f12/language/lv.md" >}}) | 4441 | 4441 | 100.0 | /mnt/stockage/packages/f12/galeon/po/lv.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/nl.po | 
- | [nn]({{< ref "/f12/language/nn.md" >}}) | 3830 | 3830 | 100.0 | /mnt/stockage/packages/f12/galeon/po/nn.po | 
- | [pl]({{< ref "/f12/language/pl.md" >}}) | 5495 | 5495 | 100.0 | /mnt/stockage/packages/f12/galeon/po/pl.po | 
- | [pt]({{< ref "/f12/language/pt.md" >}}) | 5737 | 5737 | 100.0 | /mnt/stockage/packages/f12/galeon/po/pt.po | 
- | [pt_BR]({{< ref "/f12/language/pt_BR.md" >}}) | 5965 | 5965 | 100.0 | /mnt/stockage/packages/f12/galeon/po/pt_BR.po | 
- | [ro]({{< ref "/f12/language/ro.md" >}}) | 5575 | 5575 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ro.po | 
- | [ru]({{< ref "/f12/language/ru.md" >}}) | 5735 | 5735 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ru.po | 
- | [sk]({{< ref "/f12/language/sk.md" >}}) | 4980 | 4980 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sk.po | 
- | [sl]({{< ref "/f12/language/sl.md" >}}) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sl.po | 
- | [sr]({{< ref "/f12/language/sr.md" >}}) | 5965 | 5965 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sr.po | 
- | [sv]({{< ref "/f12/language/sv.md" >}}) | 5994 | 5994 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sv.po | 
- | [uk]({{< ref "/f12/language/uk.md" >}}) | 4725 | 4725 | 100.0 | /mnt/stockage/packages/f12/galeon/po/uk.po | 
- | [vi]({{< ref "/f12/language/vi.md" >}}) | 5994 | 5994 | 100.0 | /mnt/stockage/packages/f12/galeon/po/vi.po | 
- | [zh_Hant]({{< ref "/f12/language/zh_Hant.md" >}}) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f12/galeon/po/zh_TW.po | 
- | [zh_Hant_HK]({{< ref "/f12/language/zh_Hant_HK.md" >}}) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f12/galeon/po/zh_HK.po | 
- | [zh_Hans]({{< ref "/f12/language/zh_Hans.md" >}}) | 5458 | 5461 | 99.9 | /mnt/stockage/packages/f12/galeon/po/zh_CN.po | 
- | [hu]({{< ref "/f12/language/hu.md" >}}) | 5945 | 5996 | 99.1 | /mnt/stockage/packages/f12/galeon/po/hu.po | 
- | [dz]({{< ref "/f12/language/dz.md" >}}) | 5925 | 5996 | 98.8 | /mnt/stockage/packages/f12/galeon/po/dz.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 5871 | 5996 | 97.9 | /mnt/stockage/packages/f12/galeon/po/nb.po | 
- | [lt]({{< ref "/f12/language/lt.md" >}}) | 5536 | 5996 | 92.3 | /mnt/stockage/packages/f12/galeon/po/lt.po | 
- | [ms]({{< ref "/f12/language/ms.md" >}}) | 4387 | 5297 | 82.8 | /mnt/stockage/packages/f12/galeon/po/ms.po | 
- | [et]({{< ref "/f12/language/et.md" >}}) | 4161 | 5286 | 78.7 | /mnt/stockage/packages/f12/galeon/po/et.po | 
- | [wa]({{< ref "/f12/language/wa.md" >}}) | 3814 | 5737 | 66.5 | /mnt/stockage/packages/f12/galeon/po/wa.po | 
- | [mn]({{< ref "/f12/language/mn.md" >}}) | 3037 | 4898 | 62.0 | /mnt/stockage/packages/f12/galeon/po/mn.po | 
- | [mk]({{< ref "/f12/language/mk.md" >}}) | 2809 | 4951 | 56.7 | /mnt/stockage/packages/f12/galeon/po/mk.po | 
- | [ko]({{< ref "/f12/language/ko.md" >}}) | 2250 | 4092 | 55.0 | /mnt/stockage/packages/f12/galeon/po/ko.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 2947 | 5386 | 54.7 | /mnt/stockage/packages/f12/galeon/po/da.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 3381 | 6401 | 52.8 | /mnt/stockage/packages/f12/galeon/po/tr.po | 
- | [be]({{< ref "/f12/language/be.md" >}}) | 2326 | 4931 | 47.2 | /mnt/stockage/packages/f12/galeon/po/be.po | 
- | [ml]({{< ref "/f12/language/ml.md" >}}) | 1759 | 4951 | 35.5 | /mnt/stockage/packages/f12/galeon/po/ml.po | 
- | [it]({{< ref "/f12/language/it.md" >}}) | 1728 | 4938 | 35.0 | /mnt/stockage/packages/f12/galeon/po/it.po | 
- | [az]({{< ref "/f12/language/az.md" >}}) | 1446 | 5021 | 28.8 | /mnt/stockage/packages/f12/galeon/po/az.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 1266 | 5461 | 23.2 | /mnt/stockage/packages/f12/galeon/po/sq.po | 
- | [ga]({{< ref "/f12/language/ga.md" >}}) | 1091 | 5329 | 20.5 | /mnt/stockage/packages/f12/galeon/po/ga.po | 
- | [am]({{< ref "/f12/language/am.md" >}}) | 860 | 4218 | 20.4 | /mnt/stockage/packages/f12/galeon/po/am.po | 
- | [oc]({{< ref "/f12/language/oc.md" >}}) | 926 | 5974 | 15.5 | /mnt/stockage/packages/f12/galeon/po/oc.po | 
- | [ar]({{< ref "/f12/language/ar.md" >}}) | 906 | 5996 | 15.1 | /mnt/stockage/packages/f12/galeon/po/ar.po | 
- | [gl]({{< ref "/f12/language/gl.md" >}}) | 180 | 1403 | 12.8 | /mnt/stockage/packages/f12/galeon/po/gl.po | 
- | [rw]({{< ref "/f12/language/rw.md" >}}) | 539 | 5735 | 9.4 | /mnt/stockage/packages/f12/galeon/po/rw.po | 
- | [pa]({{< ref "/f12/language/pa.md" >}}) | 234 | 5302 | 4.4 | /mnt/stockage/packages/f12/galeon/po/pa.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 222 | 5996 | 3.7 | /mnt/stockage/packages/f12/galeon/po/el.po | 
- | [ta]({{< ref "/f12/language/ta.md" >}}) | 24 | 4052 | 0.6 | /mnt/stockage/packages/f12/galeon/po/ta.po | 
+ | [bg](/f12/language/bg) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/bg.po | 
+ | [bs](/f12/language/bs) | 5461 | 5461 | 100.0 | /mnt/stockage/packages/f12/galeon/po/bs.po | 
+ | [ca](/f12/language/ca) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ca.po | 
+ | [cs](/f12/language/cs) | 5974 | 5974 | 100.0 | /mnt/stockage/packages/f12/galeon/po/cs.po | 
+ | [de](/f12/language/de) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/de.po | 
+ | [en_CA](/f12/language/en_CA) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/en_CA.po | 
+ | [en_GB](/f12/language/en_GB) | 6006 | 6006 | 100.0 | /mnt/stockage/packages/f12/galeon/po/en_GB.po | 
+ | [error](/f12/language/error) | 5965 | 5965 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sr@Latn.po | 
+ | [es](/f12/language/es) | 5994 | 5994 | 100.0 | /mnt/stockage/packages/f12/galeon/po/es.po | 
+ | [eu](/f12/language/eu) | 5974 | 5974 | 100.0 | /mnt/stockage/packages/f12/galeon/po/eu.po | 
+ | [fi](/f12/language/fi) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/fi.po | 
+ | [fr](/f12/language/fr) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/fr.po | 
+ | [hr](/f12/language/hr) | 5286 | 5286 | 100.0 | /mnt/stockage/packages/f12/galeon/po/hr.po | 
+ | [ja](/f12/language/ja) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ja.po | 
+ | [lv](/f12/language/lv) | 4441 | 4441 | 100.0 | /mnt/stockage/packages/f12/galeon/po/lv.po | 
+ | [nl](/f12/language/nl) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/nl.po | 
+ | [nn](/f12/language/nn) | 3830 | 3830 | 100.0 | /mnt/stockage/packages/f12/galeon/po/nn.po | 
+ | [pl](/f12/language/pl) | 5495 | 5495 | 100.0 | /mnt/stockage/packages/f12/galeon/po/pl.po | 
+ | [pt](/f12/language/pt) | 5737 | 5737 | 100.0 | /mnt/stockage/packages/f12/galeon/po/pt.po | 
+ | [pt_BR](/f12/language/pt_BR) | 5965 | 5965 | 100.0 | /mnt/stockage/packages/f12/galeon/po/pt_BR.po | 
+ | [ro](/f12/language/ro) | 5575 | 5575 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ro.po | 
+ | [ru](/f12/language/ru) | 5735 | 5735 | 100.0 | /mnt/stockage/packages/f12/galeon/po/ru.po | 
+ | [sk](/f12/language/sk) | 4980 | 4980 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sk.po | 
+ | [sl](/f12/language/sl) | 5996 | 5996 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sl.po | 
+ | [sr](/f12/language/sr) | 5965 | 5965 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sr.po | 
+ | [sv](/f12/language/sv) | 5994 | 5994 | 100.0 | /mnt/stockage/packages/f12/galeon/po/sv.po | 
+ | [uk](/f12/language/uk) | 4725 | 4725 | 100.0 | /mnt/stockage/packages/f12/galeon/po/uk.po | 
+ | [vi](/f12/language/vi) | 5994 | 5994 | 100.0 | /mnt/stockage/packages/f12/galeon/po/vi.po | 
+ | [zh_Hant](/f12/language/zh_Hant) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f12/galeon/po/zh_TW.po | 
+ | [zh_Hant_HK](/f12/language/zh_Hant_HK) | 6001 | 6001 | 100.0 | /mnt/stockage/packages/f12/galeon/po/zh_HK.po | 
+ | [zh_Hans](/f12/language/zh_Hans) | 5458 | 5461 | 99.9 | /mnt/stockage/packages/f12/galeon/po/zh_CN.po | 
+ | [hu](/f12/language/hu) | 5945 | 5996 | 99.1 | /mnt/stockage/packages/f12/galeon/po/hu.po | 
+ | [dz](/f12/language/dz) | 5925 | 5996 | 98.8 | /mnt/stockage/packages/f12/galeon/po/dz.po | 
+ | [nb_NO](/f12/language/nb_NO) | 5871 | 5996 | 97.9 | /mnt/stockage/packages/f12/galeon/po/nb.po | 
+ | [lt](/f12/language/lt) | 5536 | 5996 | 92.3 | /mnt/stockage/packages/f12/galeon/po/lt.po | 
+ | [ms](/f12/language/ms) | 4387 | 5297 | 82.8 | /mnt/stockage/packages/f12/galeon/po/ms.po | 
+ | [et](/f12/language/et) | 4161 | 5286 | 78.7 | /mnt/stockage/packages/f12/galeon/po/et.po | 
+ | [wa](/f12/language/wa) | 3814 | 5737 | 66.5 | /mnt/stockage/packages/f12/galeon/po/wa.po | 
+ | [mn](/f12/language/mn) | 3037 | 4898 | 62.0 | /mnt/stockage/packages/f12/galeon/po/mn.po | 
+ | [mk](/f12/language/mk) | 2809 | 4951 | 56.7 | /mnt/stockage/packages/f12/galeon/po/mk.po | 
+ | [ko](/f12/language/ko) | 2250 | 4092 | 55.0 | /mnt/stockage/packages/f12/galeon/po/ko.po | 
+ | [da](/f12/language/da) | 2947 | 5386 | 54.7 | /mnt/stockage/packages/f12/galeon/po/da.po | 
+ | [tr](/f12/language/tr) | 3381 | 6401 | 52.8 | /mnt/stockage/packages/f12/galeon/po/tr.po | 
+ | [be](/f12/language/be) | 2326 | 4931 | 47.2 | /mnt/stockage/packages/f12/galeon/po/be.po | 
+ | [ml](/f12/language/ml) | 1759 | 4951 | 35.5 | /mnt/stockage/packages/f12/galeon/po/ml.po | 
+ | [it](/f12/language/it) | 1728 | 4938 | 35.0 | /mnt/stockage/packages/f12/galeon/po/it.po | 
+ | [az](/f12/language/az) | 1446 | 5021 | 28.8 | /mnt/stockage/packages/f12/galeon/po/az.po | 
+ | [sq](/f12/language/sq) | 1266 | 5461 | 23.2 | /mnt/stockage/packages/f12/galeon/po/sq.po | 
+ | [ga](/f12/language/ga) | 1091 | 5329 | 20.5 | /mnt/stockage/packages/f12/galeon/po/ga.po | 
+ | [am](/f12/language/am) | 860 | 4218 | 20.4 | /mnt/stockage/packages/f12/galeon/po/am.po | 
+ | [oc](/f12/language/oc) | 926 | 5974 | 15.5 | /mnt/stockage/packages/f12/galeon/po/oc.po | 
+ | [ar](/f12/language/ar) | 906 | 5996 | 15.1 | /mnt/stockage/packages/f12/galeon/po/ar.po | 
+ | [gl](/f12/language/gl) | 180 | 1403 | 12.8 | /mnt/stockage/packages/f12/galeon/po/gl.po | 
+ | [rw](/f12/language/rw) | 539 | 5735 | 9.4 | /mnt/stockage/packages/f12/galeon/po/rw.po | 
+ | [pa](/f12/language/pa) | 234 | 5302 | 4.4 | /mnt/stockage/packages/f12/galeon/po/pa.po | 
+ | [el](/f12/language/el) | 222 | 5996 | 3.7 | /mnt/stockage/packages/f12/galeon/po/el.po | 
+ | [ta](/f12/language/ta) | 24 | 4052 | 0.6 | /mnt/stockage/packages/f12/galeon/po/ta.po | 
 {.sortable}
 
 

@@ -18,8 +18,8 @@ The package ibus-m17n (version 1.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f29/language/de.md" >}}) | 56 | 56 | 100.0 | /mnt/stockage/packages/f29/ibus-m17n/po/de.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 0 | 56 | 0.0 | /mnt/stockage/packages/f29/ibus-m17n/po/zh_CN.po | 
+ | [de](/f29/language/de) | 56 | 56 | 100.0 | /mnt/stockage/packages/f29/ibus-m17n/po/de.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 0 | 56 | 0.0 | /mnt/stockage/packages/f29/ibus-m17n/po/zh_CN.po | 
 {.sortable}
 
 

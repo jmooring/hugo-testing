@@ -38,17 +38,17 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [ksig]({{< ref "/f10/package/ksig.md" >}}) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
- | [squirrelmail]({{< ref "/f10/package/squirrelmail.md" >}}) | 16319 | 16319 | 100.0 | <kde-i18n-nl@kde.org> | 
- | [konq-plugins]({{< ref "/f10/package/konq-plugins.md" >}}) | 1404 | 1598 | 87.9 | Frysk <kde-i18n-fry@kde.org> | 
- | [terminator]({{< ref "/f10/package/terminator.md" >}}) | 44 | 230 | 19.1 | Frisian <fy@li.org> | 
- | [phatch]({{< ref "/f10/package/phatch.md" >}}) | 234 | 1493 | 15.7 | Frisian <fy@li.org> | 
- | [Miro]({{< ref "/f10/package/Miro.md" >}}) | 414 | 2661 | 15.6 | Frisian <fy@li.org> | 
- | [bluez-gnome]({{< ref "/f10/package/bluez-gnome.md" >}}) | 46 | 631 | 7.3 | Frisian <fy@li.org> | 
- | [warzone2100]({{< ref "/f10/package/warzone2100.md" >}}) | 634 | 9234 | 6.9 | Frisian <fy@li.org> | 
- | [picard]({{< ref "/f10/package/picard.md" >}}) | 20 | 593 | 3.4 | Frisian <fy@li.org> | 
- | [stellarium]({{< ref "/f10/package/stellarium.md" >}}) | 34 | 1447 | 2.3 | Frisian <fy@li.org> | 
- | [deluge]({{< ref "/f10/package/deluge.md" >}}) | 46 | 1998 | 2.3 | Frisian <fy@li.org> | 
+ | [ksig](/f10/package/ksig) | 85 | 85 | 100.0 | Frysk <kde-i18n-fry@kde.org> | 
+ | [squirrelmail](/f10/package/squirrelmail) | 16319 | 16319 | 100.0 | <kde-i18n-nl@kde.org> | 
+ | [konq-plugins](/f10/package/konq-plugins) | 1404 | 1598 | 87.9 | Frysk <kde-i18n-fry@kde.org> | 
+ | [terminator](/f10/package/terminator) | 44 | 230 | 19.1 | Frisian <fy@li.org> | 
+ | [phatch](/f10/package/phatch) | 234 | 1493 | 15.7 | Frisian <fy@li.org> | 
+ | [Miro](/f10/package/Miro) | 414 | 2661 | 15.6 | Frisian <fy@li.org> | 
+ | [bluez-gnome](/f10/package/bluez-gnome) | 46 | 631 | 7.3 | Frisian <fy@li.org> | 
+ | [warzone2100](/f10/package/warzone2100) | 634 | 9234 | 6.9 | Frisian <fy@li.org> | 
+ | [picard](/f10/package/picard) | 20 | 593 | 3.4 | Frisian <fy@li.org> | 
+ | [stellarium](/f10/package/stellarium) | 34 | 1447 | 2.3 | Frisian <fy@li.org> | 
+ | [deluge](/f10/package/deluge) | 46 | 1998 | 2.3 | Frisian <fy@li.org> | 
 {.sortable}
 
 

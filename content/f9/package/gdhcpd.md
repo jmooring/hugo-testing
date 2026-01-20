@@ -18,8 +18,8 @@ The package gdhcpd (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1193 | 1211 | 98.5 | /mnt/stockage/packages/f9/gdhcpd/po/sv.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 785 | 844 | 93.0 | /mnt/stockage/packages/f9/gdhcpd/po/de.po | 
+ | [sv](/f9/language/sv) | 1193 | 1211 | 98.5 | /mnt/stockage/packages/f9/gdhcpd/po/sv.po | 
+ | [de](/f9/language/de) | 785 | 844 | 93.0 | /mnt/stockage/packages/f9/gdhcpd/po/de.po | 
 {.sortable}
 
 

@@ -38,55 +38,55 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [chatty]({{< ref "/f37/package/chatty.md" >}}) | 620 | 620 | 100.0 |  | 
- | [mousetweaks]({{< ref "/f37/package/mousetweaks.md" >}}) | 114 | 114 | 100.0 | GNOME Haitian Creole Team <augustinpierremichel@hotmail.com> | 
- | [phosh]({{< ref "/f37/package/phosh.md" >}}) | 122 | 122 | 100.0 |  | 
- | [sugar-abacus]({{< ref "/f37/package/sugar-abacus.md" >}}) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f37/package/sugar-view-slides.md" >}}) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-words]({{< ref "/f37/package/sugar-words.md" >}}) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f37/package/sugar-write.md" >}}) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
- | [sugar-xoeditor]({{< ref "/f37/package/sugar-xoeditor.md" >}}) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
- | [calls]({{< ref "/f37/package/calls.md" >}}) | 147 | 153 | 96.1 |  | 
- | [sugar-toolkit-gtk3]({{< ref "/f37/package/sugar-toolkit-gtk3.md" >}}) | 156 | 213 | 73.2 | LANGUAGE <LL@li.org> | 
- | [sugar-typing-turtle]({{< ref "/f37/package/sugar-typing-turtle.md" >}}) | 389 | 599 | 64.9 | LANGUAGE <LL@li.org> | 
- | [scratch]({{< ref "/f37/package/scratch.md" >}}) | 949 | 1470 | 64.6 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f37/package/sugar-browse.md" >}}) | 213 | 334 | 63.8 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f37/package/sugar-distance.md" >}}) | 59 | 99 | 59.6 | LANGUAGE <LL@li.org> | 
- | [sugar-clock]({{< ref "/f37/package/sugar-clock.md" >}}) | 36 | 66 | 54.5 | LANGUAGE <LL@li.org> | 
- | [sugar-flipsticks]({{< ref "/f37/package/sugar-flipsticks.md" >}}) | 66 | 151 | 43.7 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f37/package/sugar-log.md" >}}) | 41 | 98 | 41.8 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f37/package/sugar-calculator.md" >}}) | 352 | 866 | 40.6 | LANGUAGE <LL@li.org> | 
- | [sugar-paint]({{< ref "/f37/package/sugar-paint.md" >}}) | 37 | 106 | 34.9 | LANGUAGE <LL@li.org> | 
- | [sugar]({{< ref "/f37/package/sugar.md" >}}) | 743 | 2305 | 32.2 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f37/package/sugar-physics.md" >}}) | 13 | 48 | 27.1 | LANGUAGE <LL@li.org> | 
- | [iso-codes]({{< ref "/f37/package/iso-codes.md" >}}) | 217 | 986 | 22.0 | Haitian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ht/> | 
- | [sugar-chat]({{< ref "/f37/package/sugar-chat.md" >}}) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f37/package/sugar-record.md" >}}) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f37/package/sugar-finance.md" >}}) | 47 | 258 | 18.2 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f37/package/sugar-read.md" >}}) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f37/package/sugar-memorize.md" >}}) | 24 | 142 | 16.9 | LANGUAGE <LL@li.org> | 
- | [sugar-fototoon]({{< ref "/f37/package/sugar-fototoon.md" >}}) | 22 | 139 | 15.8 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f37/package/sugar-pippy.md" >}}) | 37 | 275 | 13.5 | LANGUAGE <LL@li.org> | 
- | [slick-greeter]({{< ref "/f37/package/slick-greeter.md" >}}) | 14 | 211 | 6.6 | Haitian; Haitian Creole <ht@li.org> | 
- | [sugar-terminal]({{< ref "/f37/package/sugar-terminal.md" >}}) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
- | [asunder]({{< ref "/f37/package/asunder.md" >}}) | 6 | 492 | 1.2 | http://littlesvr.ca/ostd/ | 
- | [isomaster]({{< ref "/f37/package/isomaster.md" >}}) | 5 | 674 | 0.7 | http://littlesvr.ca/ostd/ | 
- | [sugar-turtleart]({{< ref "/f37/package/sugar-turtleart.md" >}}) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
- | [bookworm]({{< ref "/f37/package/bookworm.md" >}}) | 0 | 795 | 0.0 |  | 
- | [coin]({{< ref "/f37/package/coin.md" >}}) | 0 | 252 | 0.0 | none | 
- | [dippi]({{< ref "/f37/package/dippi.md" >}}) | 0 | 1183 | 0.0 | none | 
- | [fonts-tweak-tool]({{< ref "/f37/package/fonts-tweak-tool.md" >}}) | 0 | 195 | 0.0 | Haitian Creole | 
- | [granite]({{< ref "/f37/package/granite.md" >}}) | 0 | 498 | 0.0 |  | 
- | [harvey]({{< ref "/f37/package/harvey.md" >}}) | 0 | 182 | 0.0 | none | 
- | [lightdm]({{< ref "/f37/package/lightdm.md" >}}) | 0 | 84 | 0.0 | Haitian; Haitian Creole <ht@li.org> | 
- | [nutty]({{< ref "/f37/package/nutty.md" >}}) | 0 | 608 | 0.0 |  | 
- | [optimizer]({{< ref "/f37/package/optimizer.md" >}}) | 0 | 282 | 0.0 | none | 
- | [pyhoca-gui]({{< ref "/f37/package/pyhoca-gui.md" >}}) | 0 | 1865 | 0.0 | none | 
- | [python-django-mailman3]({{< ref "/f37/package/python-django-mailman3.md" >}}) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
- | [python-postorius]({{< ref "/f37/package/python-postorius.md" >}}) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [regextester]({{< ref "/f37/package/regextester.md" >}}) | 0 | 104 | 0.0 | none | 
- | [sugar-implode]({{< ref "/f37/package/sugar-implode.md" >}}) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-portfolio]({{< ref "/f37/package/sugar-portfolio.md" >}}) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [chatty](/f37/package/chatty) | 620 | 620 | 100.0 |  | 
+ | [mousetweaks](/f37/package/mousetweaks) | 114 | 114 | 100.0 | GNOME Haitian Creole Team <augustinpierremichel@hotmail.com> | 
+ | [phosh](/f37/package/phosh) | 122 | 122 | 100.0 |  | 
+ | [sugar-abacus](/f37/package/sugar-abacus) | 28 | 28 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f37/package/sugar-view-slides) | 60 | 60 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-words](/f37/package/sugar-words) | 3 | 3 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f37/package/sugar-write) | 121 | 121 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-xoeditor](/f37/package/sugar-xoeditor) | 29 | 29 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [calls](/f37/package/calls) | 147 | 153 | 96.1 |  | 
+ | [sugar-toolkit-gtk3](/f37/package/sugar-toolkit-gtk3) | 156 | 213 | 73.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-typing-turtle](/f37/package/sugar-typing-turtle) | 389 | 599 | 64.9 | LANGUAGE <LL@li.org> | 
+ | [scratch](/f37/package/scratch) | 949 | 1470 | 64.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f37/package/sugar-browse) | 213 | 334 | 63.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f37/package/sugar-distance) | 59 | 99 | 59.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-clock](/f37/package/sugar-clock) | 36 | 66 | 54.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-flipsticks](/f37/package/sugar-flipsticks) | 66 | 151 | 43.7 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f37/package/sugar-log) | 41 | 98 | 41.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f37/package/sugar-calculator) | 352 | 866 | 40.6 | LANGUAGE <LL@li.org> | 
+ | [sugar-paint](/f37/package/sugar-paint) | 37 | 106 | 34.9 | LANGUAGE <LL@li.org> | 
+ | [sugar](/f37/package/sugar) | 743 | 2305 | 32.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f37/package/sugar-physics) | 13 | 48 | 27.1 | LANGUAGE <LL@li.org> | 
+ | [iso-codes](/f37/package/iso-codes) | 217 | 986 | 22.0 | Haitian <https://hosted.weblate.org/projects/iso-codes/iso-3166-1/ht/> | 
+ | [sugar-chat](/f37/package/sugar-chat) | 30 | 137 | 21.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f37/package/sugar-record) | 12 | 62 | 19.4 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f37/package/sugar-finance) | 47 | 258 | 18.2 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f37/package/sugar-read) | 24 | 137 | 17.5 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f37/package/sugar-memorize) | 24 | 142 | 16.9 | LANGUAGE <LL@li.org> | 
+ | [sugar-fototoon](/f37/package/sugar-fototoon) | 22 | 139 | 15.8 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f37/package/sugar-pippy) | 37 | 275 | 13.5 | LANGUAGE <LL@li.org> | 
+ | [slick-greeter](/f37/package/slick-greeter) | 14 | 211 | 6.6 | Haitian; Haitian Creole <ht@li.org> | 
+ | [sugar-terminal](/f37/package/sugar-terminal) | 6 | 121 | 5.0 | LANGUAGE <LL@li.org> | 
+ | [asunder](/f37/package/asunder) | 6 | 492 | 1.2 | http://littlesvr.ca/ostd/ | 
+ | [isomaster](/f37/package/isomaster) | 5 | 674 | 0.7 | http://littlesvr.ca/ostd/ | 
+ | [sugar-turtleart](/f37/package/sugar-turtleart) | 2 | 1459 | 0.1 | LANGUAGE <walter@sugarlabs.org> | 
+ | [bookworm](/f37/package/bookworm) | 0 | 795 | 0.0 |  | 
+ | [coin](/f37/package/coin) | 0 | 252 | 0.0 | none | 
+ | [dippi](/f37/package/dippi) | 0 | 1183 | 0.0 | none | 
+ | [fonts-tweak-tool](/f37/package/fonts-tweak-tool) | 0 | 195 | 0.0 | Haitian Creole | 
+ | [granite](/f37/package/granite) | 0 | 498 | 0.0 |  | 
+ | [harvey](/f37/package/harvey) | 0 | 182 | 0.0 | none | 
+ | [lightdm](/f37/package/lightdm) | 0 | 84 | 0.0 | Haitian; Haitian Creole <ht@li.org> | 
+ | [nutty](/f37/package/nutty) | 0 | 608 | 0.0 |  | 
+ | [optimizer](/f37/package/optimizer) | 0 | 282 | 0.0 | none | 
+ | [pyhoca-gui](/f37/package/pyhoca-gui) | 0 | 1865 | 0.0 | none | 
+ | [python-django-mailman3](/f37/package/python-django-mailman3) | 0 | 355 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [python-postorius](/f37/package/python-postorius) | 0 | 5054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [regextester](/f37/package/regextester) | 0 | 104 | 0.0 | none | 
+ | [sugar-implode](/f37/package/sugar-implode) | 0 | 77 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-portfolio](/f37/package/sugar-portfolio) | 0 | 73 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 

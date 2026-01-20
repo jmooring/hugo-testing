@@ -18,10 +18,10 @@ The package fcitx-cloudpinyin (version 0.3.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 65 | 65 | 100.0 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/zh_CN.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 57 | 65 | 87.7 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/de.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 57 | 65 | 87.7 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/zh_TW.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 45 | 65 | 69.2 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/ja.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 65 | 65 | 100.0 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/zh_CN.po | 
+ | [de](/f20/language/de) | 57 | 65 | 87.7 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/de.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 57 | 65 | 87.7 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/zh_TW.po | 
+ | [ja](/f20/language/ja) | 45 | 65 | 69.2 | /mnt/stockage/packages/f20/fcitx-cloudpinyin/po/ja.po | 
 {.sortable}
 
 

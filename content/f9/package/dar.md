@@ -18,9 +18,9 @@ The package dar (version 2.3.6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 5701 | 5701 | 100.0 | /mnt/stockage/packages/f9/dar/po/fr.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 5695 | 5701 | 99.9 | /mnt/stockage/packages/f9/dar/po/sv.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 3923 | 5701 | 68.8 | /mnt/stockage/packages/f9/dar/po/de.po | 
+ | [fr](/f9/language/fr) | 5701 | 5701 | 100.0 | /mnt/stockage/packages/f9/dar/po/fr.po | 
+ | [sv](/f9/language/sv) | 5695 | 5701 | 99.9 | /mnt/stockage/packages/f9/dar/po/sv.po | 
+ | [de](/f9/language/de) | 3923 | 5701 | 68.8 | /mnt/stockage/packages/f9/dar/po/de.po | 
 {.sortable}
 
 

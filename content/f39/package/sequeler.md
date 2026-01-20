@@ -18,24 +18,24 @@ The package sequeler (version 0.8.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar_EG]({{< ref "/f39/language/ar_EG.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/ar_EG.po | 
- | [ca]({{< ref "/f39/language/ca.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/ca.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/es.po | 
- | [hi]({{< ref "/f39/language/hi.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/hi.po | 
- | [it]({{< ref "/f39/language/it.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/it.po | 
- | [pl]({{< ref "/f39/language/pl.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/pl.po | 
- | [pt]({{< ref "/f39/language/pt.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/pt.po | 
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/ru.po | 
- | [tr]({{< ref "/f39/language/tr.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/tr.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/uk.po | 
- | [zh_Hans]({{< ref "/f39/language/zh_Hans.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f39/sequeler/po/zh_Hans.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 401 | 406 | 98.8 | /mnt/stockage/packages/f39/sequeler/po/zh_Hant.po | 
- | [id]({{< ref "/f39/language/id.md" >}}) | 239 | 406 | 58.9 | /mnt/stockage/packages/f39/sequeler/po/id.po | 
- | [lt]({{< ref "/f39/language/lt.md" >}}) | 448 | 1430 | 31.3 | /mnt/stockage/packages/f39/sequeler/po/lt.po/mnt/stockage/packages/f39/sequeler/po/extra/lt.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 435 | 1430 | 30.4 | /mnt/stockage/packages/f39/sequeler/po/fr.po/mnt/stockage/packages/f39/sequeler/po/extra/fr.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 407 | 1430 | 28.5 | /mnt/stockage/packages/f39/sequeler/po/de.po/mnt/stockage/packages/f39/sequeler/po/extra/de.po | 
- | [lg]({{< ref "/f39/language/lg.md" >}}) | 39 | 406 | 9.6 | /mnt/stockage/packages/f39/sequeler/po/lg.po | 
+ | [ar_EG](/f39/language/ar_EG) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/ar_EG.po | 
+ | [ca](/f39/language/ca) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/ca.po | 
+ | [es](/f39/language/es) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/es.po | 
+ | [hi](/f39/language/hi) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/hi.po | 
+ | [it](/f39/language/it) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/it.po | 
+ | [pl](/f39/language/pl) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/pl.po | 
+ | [pt](/f39/language/pt) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/pt.po | 
+ | [pt_BR](/f39/language/pt_BR) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/ru.po | 
+ | [tr](/f39/language/tr) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/tr.po | 
+ | [uk](/f39/language/uk) | 406 | 406 | 100.0 | /mnt/stockage/packages/f39/sequeler/po/uk.po | 
+ | [zh_Hans](/f39/language/zh_Hans) | 401 | 406 | 98.8 | /mnt/stockage/packages/f39/sequeler/po/zh_Hans.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 401 | 406 | 98.8 | /mnt/stockage/packages/f39/sequeler/po/zh_Hant.po | 
+ | [id](/f39/language/id) | 239 | 406 | 58.9 | /mnt/stockage/packages/f39/sequeler/po/id.po | 
+ | [lt](/f39/language/lt) | 448 | 1430 | 31.3 | /mnt/stockage/packages/f39/sequeler/po/lt.po/mnt/stockage/packages/f39/sequeler/po/extra/lt.po | 
+ | [fr](/f39/language/fr) | 435 | 1430 | 30.4 | /mnt/stockage/packages/f39/sequeler/po/fr.po/mnt/stockage/packages/f39/sequeler/po/extra/fr.po | 
+ | [de](/f39/language/de) | 407 | 1430 | 28.5 | /mnt/stockage/packages/f39/sequeler/po/de.po/mnt/stockage/packages/f39/sequeler/po/extra/de.po | 
+ | [lg](/f39/language/lg) | 39 | 406 | 9.6 | /mnt/stockage/packages/f39/sequeler/po/lg.po | 
 {.sortable}
 
 

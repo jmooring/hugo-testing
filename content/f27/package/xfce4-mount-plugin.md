@@ -18,40 +18,40 @@ The package xfce4-mount-plugin (version 1.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f27/language/ca.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ca.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/cs.po | 
- | [da]({{< ref "/f27/language/da.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/da.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/de.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/es.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/fr.po | 
- | [it]({{< ref "/f27/language/it.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/it.po | 
- | [ja]({{< ref "/f27/language/ja.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ja.po | 
- | [ko]({{< ref "/f27/language/ko.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ko.po | 
- | [lt]({{< ref "/f27/language/lt.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/lt.po | 
- | [nb_NO]({{< ref "/f27/language/nb_NO.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/nb.po | 
- | [nl]({{< ref "/f27/language/nl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/nl.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/pl.po | 
- | [pt]({{< ref "/f27/language/pt.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/pt.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/pt_BR.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ru.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/tr.po | 
- | [uk]({{< ref "/f27/language/uk.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/uk.po | 
- | [zh_Hans]({{< ref "/f27/language/zh_Hans.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f27/language/zh_Hant.md" >}}) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/zh_TW.po | 
- | [ast]({{< ref "/f27/language/ast.md" >}}) | 339 | 374 | 90.6 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ast.po | 
- | [el]({{< ref "/f27/language/el.md" >}}) | 339 | 374 | 90.6 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/el.po | 
- | [eu]({{< ref "/f27/language/eu.md" >}}) | 326 | 374 | 87.2 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/eu.po | 
- | [id]({{< ref "/f27/language/id.md" >}}) | 278 | 374 | 74.3 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/id.po | 
- | [ar]({{< ref "/f27/language/ar.md" >}}) | 275 | 374 | 73.5 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ar.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 275 | 374 | 73.5 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/hu.po | 
- | [en_GB]({{< ref "/f27/language/en_GB.md" >}}) | 257 | 374 | 68.7 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/en_GB.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 250 | 374 | 66.8 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/fi.po | 
- | [gl]({{< ref "/f27/language/gl.md" >}}) | 249 | 374 | 66.6 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/gl.po | 
- | [lv]({{< ref "/f27/language/lv.md" >}}) | 209 | 374 | 55.9 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/lv.po | 
- | [ur]({{< ref "/f27/language/ur.md" >}}) | 418 | 748 | 55.9 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ur.po/mnt/stockage/packages/f27/xfce4-mount-plugin/po/ur_PK.po | 
- | [sq]({{< ref "/f27/language/sq.md" >}}) | 207 | 374 | 55.3 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/sq.po | 
- | [vi]({{< ref "/f27/language/vi.md" >}}) | 39 | 374 | 10.4 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/vi.po | 
+ | [ca](/f27/language/ca) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ca.po | 
+ | [cs](/f27/language/cs) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/cs.po | 
+ | [da](/f27/language/da) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/da.po | 
+ | [de](/f27/language/de) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/de.po | 
+ | [es](/f27/language/es) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/es.po | 
+ | [fr](/f27/language/fr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/fr.po | 
+ | [it](/f27/language/it) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/it.po | 
+ | [ja](/f27/language/ja) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ja.po | 
+ | [ko](/f27/language/ko) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ko.po | 
+ | [lt](/f27/language/lt) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/lt.po | 
+ | [nb_NO](/f27/language/nb_NO) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/nb.po | 
+ | [nl](/f27/language/nl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/nl.po | 
+ | [pl](/f27/language/pl) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/pl.po | 
+ | [pt](/f27/language/pt) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/pt.po | 
+ | [pt_BR](/f27/language/pt_BR) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/pt_BR.po | 
+ | [ru](/f27/language/ru) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ru.po | 
+ | [sv](/f27/language/sv) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/sv.po | 
+ | [tr](/f27/language/tr) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/tr.po | 
+ | [uk](/f27/language/uk) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/uk.po | 
+ | [zh_Hans](/f27/language/zh_Hans) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/zh_CN.po | 
+ | [zh_Hant](/f27/language/zh_Hant) | 374 | 374 | 100.0 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/zh_TW.po | 
+ | [ast](/f27/language/ast) | 339 | 374 | 90.6 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ast.po | 
+ | [el](/f27/language/el) | 339 | 374 | 90.6 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/el.po | 
+ | [eu](/f27/language/eu) | 326 | 374 | 87.2 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/eu.po | 
+ | [id](/f27/language/id) | 278 | 374 | 74.3 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/id.po | 
+ | [ar](/f27/language/ar) | 275 | 374 | 73.5 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ar.po | 
+ | [hu](/f27/language/hu) | 275 | 374 | 73.5 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/hu.po | 
+ | [en_GB](/f27/language/en_GB) | 257 | 374 | 68.7 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/en_GB.po | 
+ | [fi](/f27/language/fi) | 250 | 374 | 66.8 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/fi.po | 
+ | [gl](/f27/language/gl) | 249 | 374 | 66.6 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/gl.po | 
+ | [lv](/f27/language/lv) | 209 | 374 | 55.9 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/lv.po | 
+ | [ur](/f27/language/ur) | 418 | 748 | 55.9 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/ur.po/mnt/stockage/packages/f27/xfce4-mount-plugin/po/ur_PK.po | 
+ | [sq](/f27/language/sq) | 207 | 374 | 55.3 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/sq.po | 
+ | [vi](/f27/language/vi) | 39 | 374 | 10.4 | /mnt/stockage/packages/f27/xfce4-mount-plugin/po/vi.po | 
 {.sortable}
 
 

@@ -18,16 +18,16 @@ The package gnucobol (version 3.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [error]({{< ref "/f32/language/error.md" >}}) | 17120 | 17120 | 100.0 | /mnt/stockage/packages/f32/gnucobol/po/en@quot.po/mnt/stockage/packages/f32/gnucobol/po/en@boldquot.po | 
- | [fr]({{< ref "/f32/language/fr.md" >}}) | 8513 | 8560 | 99.5 | /mnt/stockage/packages/f32/gnucobol/po/fr.po | 
- | [sr]({{< ref "/f32/language/sr.md" >}}) | 7774 | 8560 | 90.8 | /mnt/stockage/packages/f32/gnucobol/po/sr.po | 
- | [es]({{< ref "/f32/language/es.md" >}}) | 4606 | 8560 | 53.8 | /mnt/stockage/packages/f32/gnucobol/po/es.po | 
- | [sv]({{< ref "/f32/language/sv.md" >}}) | 4606 | 8560 | 53.8 | /mnt/stockage/packages/f32/gnucobol/po/sv.po | 
- | [de]({{< ref "/f32/language/de.md" >}}) | 2337 | 8560 | 27.3 | /mnt/stockage/packages/f32/gnucobol/po/de.po | 
- | [pt]({{< ref "/f32/language/pt.md" >}}) | 2004 | 8560 | 23.4 | /mnt/stockage/packages/f32/gnucobol/po/pt.po | 
- | [nl]({{< ref "/f32/language/nl.md" >}}) | 1020 | 8560 | 11.9 | /mnt/stockage/packages/f32/gnucobol/po/nl.po | 
- | [it]({{< ref "/f32/language/it.md" >}}) | 241 | 8560 | 2.8 | /mnt/stockage/packages/f32/gnucobol/po/it.po | 
- | [ja]({{< ref "/f32/language/ja.md" >}}) | 28 | 8560 | 0.3 | /mnt/stockage/packages/f32/gnucobol/po/ja.po | 
+ | [error](/f32/language/error) | 17120 | 17120 | 100.0 | /mnt/stockage/packages/f32/gnucobol/po/en@quot.po/mnt/stockage/packages/f32/gnucobol/po/en@boldquot.po | 
+ | [fr](/f32/language/fr) | 8513 | 8560 | 99.5 | /mnt/stockage/packages/f32/gnucobol/po/fr.po | 
+ | [sr](/f32/language/sr) | 7774 | 8560 | 90.8 | /mnt/stockage/packages/f32/gnucobol/po/sr.po | 
+ | [es](/f32/language/es) | 4606 | 8560 | 53.8 | /mnt/stockage/packages/f32/gnucobol/po/es.po | 
+ | [sv](/f32/language/sv) | 4606 | 8560 | 53.8 | /mnt/stockage/packages/f32/gnucobol/po/sv.po | 
+ | [de](/f32/language/de) | 2337 | 8560 | 27.3 | /mnt/stockage/packages/f32/gnucobol/po/de.po | 
+ | [pt](/f32/language/pt) | 2004 | 8560 | 23.4 | /mnt/stockage/packages/f32/gnucobol/po/pt.po | 
+ | [nl](/f32/language/nl) | 1020 | 8560 | 11.9 | /mnt/stockage/packages/f32/gnucobol/po/nl.po | 
+ | [it](/f32/language/it) | 241 | 8560 | 2.8 | /mnt/stockage/packages/f32/gnucobol/po/it.po | 
+ | [ja](/f32/language/ja) | 28 | 8560 | 0.3 | /mnt/stockage/packages/f32/gnucobol/po/ja.po | 
 {.sortable}
 
 

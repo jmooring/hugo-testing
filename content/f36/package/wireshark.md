@@ -18,25 +18,25 @@ The package wireshark (version 3.6.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f36/language/de.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/de.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/fr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/it.po | 
- | [ko]({{< ref "/f36/language/ko.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/ko.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/ru.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/sv.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/cs.po | 
- | [da]({{< ref "/f36/language/da.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/da.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/es.po | 
- | [eu]({{< ref "/f36/language/eu.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/eu.po | 
- | [hu]({{< ref "/f36/language/hu.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/hu.po | 
- | [id]({{< ref "/f36/language/id.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/id.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/ja.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/nl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/pt_BR.po | 
- | [sk]({{< ref "/f36/language/sk.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/sk.po | 
- | [vi]({{< ref "/f36/language/vi.md" >}}) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/vi.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 24 | 258 | 9.3 | /mnt/stockage/packages/f36/wireshark/debian/po/fi.po | 
+ | [de](/f36/language/de) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/de.po | 
+ | [fr](/f36/language/fr) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/fr.po | 
+ | [it](/f36/language/it) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/it.po | 
+ | [ko](/f36/language/ko) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/ko.po | 
+ | [ru](/f36/language/ru) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/ru.po | 
+ | [sv](/f36/language/sv) | 258 | 258 | 100.0 | /mnt/stockage/packages/f36/wireshark/debian/po/sv.po | 
+ | [cs](/f36/language/cs) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/cs.po | 
+ | [da](/f36/language/da) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/da.po | 
+ | [es](/f36/language/es) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/es.po | 
+ | [eu](/f36/language/eu) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/eu.po | 
+ | [hu](/f36/language/hu) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/hu.po | 
+ | [id](/f36/language/id) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/id.po | 
+ | [ja](/f36/language/ja) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/ja.po | 
+ | [nl](/f36/language/nl) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/nl.po | 
+ | [pt](/f36/language/pt) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/pt_BR.po | 
+ | [sk](/f36/language/sk) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/sk.po | 
+ | [vi](/f36/language/vi) | 79 | 258 | 30.6 | /mnt/stockage/packages/f36/wireshark/debian/po/vi.po | 
+ | [fi](/f36/language/fi) | 24 | 258 | 9.3 | /mnt/stockage/packages/f36/wireshark/debian/po/fi.po | 
 {.sortable}
 
 

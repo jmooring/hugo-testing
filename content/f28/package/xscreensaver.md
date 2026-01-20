@@ -18,28 +18,28 @@ The package xscreensaver (version 5.42):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f28/language/nl.md" >}}) | 11024 | 11024 | 100.0 | /mnt/stockage/packages/f28/xscreensaver/po/nl.po | 
- | [hu]({{< ref "/f28/language/hu.md" >}}) | 10397 | 11190 | 92.9 | /mnt/stockage/packages/f28/xscreensaver/po/hu.po | 
- | [da]({{< ref "/f28/language/da.md" >}}) | 9770 | 11190 | 87.3 | /mnt/stockage/packages/f28/xscreensaver/po/da.po | 
- | [de]({{< ref "/f28/language/de.md" >}}) | 8106 | 11190 | 72.4 | /mnt/stockage/packages/f28/xscreensaver/po/de.po | 
- | [fr]({{< ref "/f28/language/fr.md" >}}) | 6981 | 9919 | 70.4 | /mnt/stockage/packages/f28/xscreensaver/po/fr.po | 
- | [es]({{< ref "/f28/language/es.md" >}}) | 5945 | 11190 | 53.1 | /mnt/stockage/packages/f28/xscreensaver/po/es.po | 
- | [pt]({{< ref "/f28/language/pt.md" >}}) | 5590 | 11190 | 50.0 | /mnt/stockage/packages/f28/xscreensaver/po/pt.po | 
- | [pt_BR]({{< ref "/f28/language/pt_BR.md" >}}) | 4080 | 10740 | 38.0 | /mnt/stockage/packages/f28/xscreensaver/po/pt_BR.po | 
- | [ru]({{< ref "/f28/language/ru.md" >}}) | 3243 | 11487 | 28.2 | /mnt/stockage/packages/f28/xscreensaver/po/ru.po | 
- | [sv]({{< ref "/f28/language/sv.md" >}}) | 1767 | 11190 | 15.8 | /mnt/stockage/packages/f28/xscreensaver/po/sv.po | 
- | [vi]({{< ref "/f28/language/vi.md" >}}) | 1680 | 11190 | 15.0 | /mnt/stockage/packages/f28/xscreensaver/po/vi.po | 
- | [zh_Hans]({{< ref "/f28/language/zh_Hans.md" >}}) | 1459 | 11190 | 13.0 | /mnt/stockage/packages/f28/xscreensaver/po/zh_CN.po | 
- | [nb_NO]({{< ref "/f28/language/nb_NO.md" >}}) | 1393 | 11190 | 12.4 | /mnt/stockage/packages/f28/xscreensaver/po/nb.po | 
- | [zh_Hant]({{< ref "/f28/language/zh_Hant.md" >}}) | 1207 | 11190 | 10.8 | /mnt/stockage/packages/f28/xscreensaver/po/zh_TW.po | 
- | [pl]({{< ref "/f28/language/pl.md" >}}) | 1089 | 11190 | 9.7 | /mnt/stockage/packages/f28/xscreensaver/po/pl.po | 
- | [ja]({{< ref "/f28/language/ja.md" >}}) | 1066 | 10993 | 9.7 | /mnt/stockage/packages/f28/xscreensaver/po/ja.po | 
- | [ko]({{< ref "/f28/language/ko.md" >}}) | 843 | 11190 | 7.5 | /mnt/stockage/packages/f28/xscreensaver/po/ko.po | 
- | [sk]({{< ref "/f28/language/sk.md" >}}) | 784 | 11190 | 7.0 | /mnt/stockage/packages/f28/xscreensaver/po/sk.po | 
- | [it]({{< ref "/f28/language/it.md" >}}) | 578 | 11190 | 5.2 | /mnt/stockage/packages/f28/xscreensaver/po/it.po | 
- | [wa]({{< ref "/f28/language/wa.md" >}}) | 542 | 11190 | 4.8 | /mnt/stockage/packages/f28/xscreensaver/po/wa.po | 
- | [fi]({{< ref "/f28/language/fi.md" >}}) | 485 | 11190 | 4.3 | /mnt/stockage/packages/f28/xscreensaver/po/fi.po | 
- | [et]({{< ref "/f28/language/et.md" >}}) | 128 | 11190 | 1.1 | /mnt/stockage/packages/f28/xscreensaver/po/et.po | 
+ | [nl](/f28/language/nl) | 11024 | 11024 | 100.0 | /mnt/stockage/packages/f28/xscreensaver/po/nl.po | 
+ | [hu](/f28/language/hu) | 10397 | 11190 | 92.9 | /mnt/stockage/packages/f28/xscreensaver/po/hu.po | 
+ | [da](/f28/language/da) | 9770 | 11190 | 87.3 | /mnt/stockage/packages/f28/xscreensaver/po/da.po | 
+ | [de](/f28/language/de) | 8106 | 11190 | 72.4 | /mnt/stockage/packages/f28/xscreensaver/po/de.po | 
+ | [fr](/f28/language/fr) | 6981 | 9919 | 70.4 | /mnt/stockage/packages/f28/xscreensaver/po/fr.po | 
+ | [es](/f28/language/es) | 5945 | 11190 | 53.1 | /mnt/stockage/packages/f28/xscreensaver/po/es.po | 
+ | [pt](/f28/language/pt) | 5590 | 11190 | 50.0 | /mnt/stockage/packages/f28/xscreensaver/po/pt.po | 
+ | [pt_BR](/f28/language/pt_BR) | 4080 | 10740 | 38.0 | /mnt/stockage/packages/f28/xscreensaver/po/pt_BR.po | 
+ | [ru](/f28/language/ru) | 3243 | 11487 | 28.2 | /mnt/stockage/packages/f28/xscreensaver/po/ru.po | 
+ | [sv](/f28/language/sv) | 1767 | 11190 | 15.8 | /mnt/stockage/packages/f28/xscreensaver/po/sv.po | 
+ | [vi](/f28/language/vi) | 1680 | 11190 | 15.0 | /mnt/stockage/packages/f28/xscreensaver/po/vi.po | 
+ | [zh_Hans](/f28/language/zh_Hans) | 1459 | 11190 | 13.0 | /mnt/stockage/packages/f28/xscreensaver/po/zh_CN.po | 
+ | [nb_NO](/f28/language/nb_NO) | 1393 | 11190 | 12.4 | /mnt/stockage/packages/f28/xscreensaver/po/nb.po | 
+ | [zh_Hant](/f28/language/zh_Hant) | 1207 | 11190 | 10.8 | /mnt/stockage/packages/f28/xscreensaver/po/zh_TW.po | 
+ | [pl](/f28/language/pl) | 1089 | 11190 | 9.7 | /mnt/stockage/packages/f28/xscreensaver/po/pl.po | 
+ | [ja](/f28/language/ja) | 1066 | 10993 | 9.7 | /mnt/stockage/packages/f28/xscreensaver/po/ja.po | 
+ | [ko](/f28/language/ko) | 843 | 11190 | 7.5 | /mnt/stockage/packages/f28/xscreensaver/po/ko.po | 
+ | [sk](/f28/language/sk) | 784 | 11190 | 7.0 | /mnt/stockage/packages/f28/xscreensaver/po/sk.po | 
+ | [it](/f28/language/it) | 578 | 11190 | 5.2 | /mnt/stockage/packages/f28/xscreensaver/po/it.po | 
+ | [wa](/f28/language/wa) | 542 | 11190 | 4.8 | /mnt/stockage/packages/f28/xscreensaver/po/wa.po | 
+ | [fi](/f28/language/fi) | 485 | 11190 | 4.3 | /mnt/stockage/packages/f28/xscreensaver/po/fi.po | 
+ | [et](/f28/language/et) | 128 | 11190 | 1.1 | /mnt/stockage/packages/f28/xscreensaver/po/et.po | 
 {.sortable}
 
 

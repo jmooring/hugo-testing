@@ -18,16 +18,16 @@ The package sectool (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pl]({{< ref "/f10/language/pl.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f10/sectool/po/pl.po | 
- | [pt_BR]({{< ref "/f10/language/pt_BR.md" >}}) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f10/sectool/po/pt_BR.po | 
- | [de]({{< ref "/f10/language/de.md" >}}) | 2397 | 2411 | 99.4 | /mnt/stockage/packages/f10/sectool/po/de.po | 
- | [sr]({{< ref "/f10/language/sr.md" >}}) | 2379 | 2411 | 98.7 | /mnt/stockage/packages/f10/sectool/po/sr.po | 
- | [sr_Latn]({{< ref "/f10/language/sr_Latn.md" >}}) | 2379 | 2411 | 98.7 | /mnt/stockage/packages/f10/sectool/po/sr@latin.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 2115 | 2411 | 87.7 | /mnt/stockage/packages/f10/sectool/po/it.po | 
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 1810 | 2411 | 75.1 | /mnt/stockage/packages/f10/sectool/po/cs.po | 
- | [el]({{< ref "/f10/language/el.md" >}}) | 8 | 2411 | 0.3 | /mnt/stockage/packages/f10/sectool/po/el.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f10/sectool/po/es.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f10/sectool/po/sk.po | 
+ | [pl](/f10/language/pl) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f10/sectool/po/pl.po | 
+ | [pt_BR](/f10/language/pt_BR) | 2411 | 2411 | 100.0 | /mnt/stockage/packages/f10/sectool/po/pt_BR.po | 
+ | [de](/f10/language/de) | 2397 | 2411 | 99.4 | /mnt/stockage/packages/f10/sectool/po/de.po | 
+ | [sr](/f10/language/sr) | 2379 | 2411 | 98.7 | /mnt/stockage/packages/f10/sectool/po/sr.po | 
+ | [sr_Latn](/f10/language/sr_Latn) | 2379 | 2411 | 98.7 | /mnt/stockage/packages/f10/sectool/po/sr@latin.po | 
+ | [it](/f10/language/it) | 2115 | 2411 | 87.7 | /mnt/stockage/packages/f10/sectool/po/it.po | 
+ | [cs](/f10/language/cs) | 1810 | 2411 | 75.1 | /mnt/stockage/packages/f10/sectool/po/cs.po | 
+ | [el](/f10/language/el) | 8 | 2411 | 0.3 | /mnt/stockage/packages/f10/sectool/po/el.po | 
+ | [es](/f10/language/es) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f10/sectool/po/es.po | 
+ | [sk](/f10/language/sk) | 0 | 2411 | 0.0 | /mnt/stockage/packages/f10/sectool/po/sk.po | 
 {.sortable}
 
 

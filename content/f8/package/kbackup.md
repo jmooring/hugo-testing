@@ -18,14 +18,14 @@ The package kbackup (version 0.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/de.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/es.po | 
- | [fr]({{< ref "/f8/language/fr.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/fr.po | 
- | [pt]({{< ref "/f8/language/pt.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/pt.po | 
- | [sk]({{< ref "/f8/language/sk.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/sk.po | 
- | [sv]({{< ref "/f8/language/sv.md" >}}) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/sv.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 341 | 343 | 99.4 | /mnt/stockage/packages/f8/kbackup/po/it.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 224 | 288 | 77.8 | /mnt/stockage/packages/f8/kbackup/po/ru.po | 
+ | [de](/f8/language/de) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/de.po | 
+ | [es](/f8/language/es) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/es.po | 
+ | [fr](/f8/language/fr) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/fr.po | 
+ | [pt](/f8/language/pt) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/pt.po | 
+ | [sk](/f8/language/sk) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/sk.po | 
+ | [sv](/f8/language/sv) | 343 | 343 | 100.0 | /mnt/stockage/packages/f8/kbackup/po/sv.po | 
+ | [it](/f8/language/it) | 341 | 343 | 99.4 | /mnt/stockage/packages/f8/kbackup/po/it.po | 
+ | [ru](/f8/language/ru) | 224 | 288 | 77.8 | /mnt/stockage/packages/f8/kbackup/po/ru.po | 
 {.sortable}
 
 

@@ -18,13 +18,13 @@ The package dayplanner (version 0.9.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f10/language/de.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/de.po | 
- | [it]({{< ref "/f10/language/it.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/it.po | 
- | [nb_NO]({{< ref "/f10/language/nb_NO.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/nb.po | 
- | [nn]({{< ref "/f10/language/nn.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/nn.po | 
- | [sv]({{< ref "/f10/language/sv.md" >}}) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/sv.po | 
- | [nl]({{< ref "/f10/language/nl.md" >}}) | 848 | 890 | 95.3 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/nl.po | 
- | [sk]({{< ref "/f10/language/sk.md" >}}) | 268 | 890 | 30.1 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/sk.po | 
+ | [de](/f10/language/de) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/de.po | 
+ | [it](/f10/language/it) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/it.po | 
+ | [nb_NO](/f10/language/nb_NO) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/nb.po | 
+ | [nn](/f10/language/nn) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/nn.po | 
+ | [sv](/f10/language/sv) | 890 | 890 | 100.0 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/sv.po | 
+ | [nl](/f10/language/nl) | 848 | 890 | 95.3 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/nl.po | 
+ | [sk](/f10/language/sk) | 268 | 890 | 30.1 | /mnt/stockage/packages/f10/dayplanner/dayplanner-0.9.2/po/sk.po | 
 {.sortable}
 
 

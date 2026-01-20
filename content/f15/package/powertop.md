@@ -18,7 +18,7 @@ The package powertop (version 2.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f15/language/nl.md" >}}) | 0 | 417 | 0.0 | /mnt/stockage/packages/f15/powertop/po/nl.po | 
+ | [nl](/f15/language/nl) | 0 | 417 | 0.0 | /mnt/stockage/packages/f15/powertop/po/nl.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package swappy (version 1.3.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f33/language/de.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/de.po | 
- | [en]({{< ref "/f33/language/en.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/en.po | 
- | [pt_BR]({{< ref "/f33/language/pt_BR.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/pt_BR.po | 
- | [tr]({{< ref "/f33/language/tr.md" >}}) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/tr.po | 
+ | [de](/f33/language/de) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/de.po | 
+ | [en](/f33/language/en) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/en.po | 
+ | [pt_BR](/f33/language/pt_BR) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/pt_BR.po | 
+ | [tr](/f33/language/tr) | 19 | 19 | 100.0 | /mnt/stockage/packages/f33/swappy/src/po/tr.po | 
 {.sortable}
 
 

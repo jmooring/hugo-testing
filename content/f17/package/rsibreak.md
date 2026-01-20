@@ -18,49 +18,49 @@ The package rsibreak (version 0.11):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/ca/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ca@valencia/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ca/rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ca@valencia/rsibreak.po | 
- | [da]({{< ref "/f17/language/da.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/da/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/da/rsibreak.po | 
- | [de]({{< ref "/f17/language/de.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/de/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/de/rsibreak.po | 
- | [en_GB]({{< ref "/f17/language/en_GB.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/en_GB/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/en_GB/rsibreak.po | 
- | [et]({{< ref "/f17/language/et.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/et/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/et/rsibreak.po | 
- | [hu]({{< ref "/f17/language/hu.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/hu/plasma_applet_rsibreak.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/it/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/it/rsibreak.po | 
- | [ml]({{< ref "/f17/language/ml.md" >}}) | 18 | 18 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/ml/plasma_applet_rsibreak.po | 
- | [nb_NO]({{< ref "/f17/language/nb_NO.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/nb/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nb/rsibreak.po | 
- | [nds]({{< ref "/f17/language/nds.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/nds/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nds/rsibreak.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/nl/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nl/rsibreak.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/pt/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/pt/rsibreak.po | 
- | [pt_BR]({{< ref "/f17/language/pt_BR.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/pt_BR/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/pt_BR/rsibreak.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/sv/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/sv/rsibreak.po | 
- | [uk]({{< ref "/f17/language/uk.md" >}}) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/uk/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/uk/rsibreak.po | 
- | [cs]({{< ref "/f17/language/cs.md" >}}) | 1285 | 1304 | 98.5 | /mnt/stockage/packages/f17/rsibreak/po/cs/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/cs/rsibreak.po | 
- | [pl]({{< ref "/f17/language/pl.md" >}}) | 1157 | 1304 | 88.7 | /mnt/stockage/packages/f17/rsibreak/po/pl/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/pl/rsibreak.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 1150 | 1304 | 88.2 | /mnt/stockage/packages/f17/rsibreak/po/es/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/es/rsibreak.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 1150 | 1304 | 88.2 | /mnt/stockage/packages/f17/rsibreak/po/fr/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/fr/rsibreak.po | 
- | [tr]({{< ref "/f17/language/tr.md" >}}) | 1150 | 1304 | 88.2 | /mnt/stockage/packages/f17/rsibreak/po/tr/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/tr/rsibreak.po | 
- | [ja]({{< ref "/f17/language/ja.md" >}}) | 1093 | 1304 | 83.8 | /mnt/stockage/packages/f17/rsibreak/po/ja/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ja/rsibreak.po | 
- | [ga]({{< ref "/f17/language/ga.md" >}}) | 1050 | 1304 | 80.5 | /mnt/stockage/packages/f17/rsibreak/po/ga/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ga/rsibreak.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 867 | 1286 | 67.4 | /mnt/stockage/packages/f17/rsibreak/po/ru/rsibreak.po | 
- | [el]({{< ref "/f17/language/el.md" >}}) | 840 | 1304 | 64.4 | /mnt/stockage/packages/f17/rsibreak/po/el/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/el/rsibreak.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 840 | 1304 | 64.4 | /mnt/stockage/packages/f17/rsibreak/po/gl/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/gl/rsibreak.po | 
- | [km]({{< ref "/f17/language/km.md" >}}) | 840 | 1304 | 64.4 | /mnt/stockage/packages/f17/rsibreak/po/km/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/km/rsibreak.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 834 | 1304 | 64.0 | /mnt/stockage/packages/f17/rsibreak/po/zh_CN/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/zh_CN/rsibreak.po | 
- | [hne]({{< ref "/f17/language/hne.md" >}}) | 382 | 1304 | 29.3 | /mnt/stockage/packages/f17/rsibreak/po/hne/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/hne/rsibreak.po | 
- | [hi]({{< ref "/f17/language/hi.md" >}}) | 370 | 1304 | 28.4 | /mnt/stockage/packages/f17/rsibreak/po/hi/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/hi/rsibreak.po | 
- | [zh_Hant]({{< ref "/f17/language/zh_Hant.md" >}}) | 251 | 1304 | 19.2 | /mnt/stockage/packages/f17/rsibreak/po/zh_TW/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/zh_TW/rsibreak.po | 
- | [ko]({{< ref "/f17/language/ko.md" >}}) | 236 | 1304 | 18.1 | /mnt/stockage/packages/f17/rsibreak/po/ko/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ko/rsibreak.po | 
- | [ro]({{< ref "/f17/language/ro.md" >}}) | 88 | 1304 | 6.7 | /mnt/stockage/packages/f17/rsibreak/po/ro/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ro/rsibreak.po | 
- | [be]({{< ref "/f17/language/be.md" >}}) | 44 | 1304 | 3.4 | /mnt/stockage/packages/f17/rsibreak/po/be/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/be/rsibreak.po | 
- | [mai]({{< ref "/f17/language/mai.md" >}}) | 34 | 1286 | 2.6 | /mnt/stockage/packages/f17/rsibreak/po/mai/rsibreak.po | 
- | [oc]({{< ref "/f17/language/oc.md" >}}) | 28 | 1304 | 2.1 | /mnt/stockage/packages/f17/rsibreak/po/oc/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/oc/rsibreak.po | 
- | [eo]({{< ref "/f17/language/eo.md" >}}) | 25 | 1304 | 1.9 | /mnt/stockage/packages/f17/rsibreak/po/eo/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/eo/rsibreak.po | 
- | [nn]({{< ref "/f17/language/nn.md" >}}) | 18 | 1304 | 1.4 | /mnt/stockage/packages/f17/rsibreak/po/nn/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nn/rsibreak.po | 
- | [lt]({{< ref "/f17/language/lt.md" >}}) | 17 | 1304 | 1.3 | /mnt/stockage/packages/f17/rsibreak/po/lt/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/lt/rsibreak.po | 
- | [hr]({{< ref "/f17/language/hr.md" >}}) | 5 | 1304 | 0.4 | /mnt/stockage/packages/f17/rsibreak/po/hr/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/hr/rsibreak.po | 
- | [ar]({{< ref "/f17/language/ar.md" >}}) | 4 | 1304 | 0.3 | /mnt/stockage/packages/f17/rsibreak/po/ar/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ar/rsibreak.po | 
- | [is]({{< ref "/f17/language/is.md" >}}) | 0 | 1304 | 0.0 | /mnt/stockage/packages/f17/rsibreak/po/is/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/is/rsibreak.po | 
- | [se]({{< ref "/f17/language/se.md" >}}) | 0 | 1304 | 0.0 | /mnt/stockage/packages/f17/rsibreak/po/se/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/se/rsibreak.po | 
- | [sk]({{< ref "/f17/language/sk.md" >}}) | 0 | 1304 | 0.0 | /mnt/stockage/packages/f17/rsibreak/po/sk/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/sk/rsibreak.po | 
+ | [ca](/f17/language/ca) | 2608 | 2608 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/ca/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ca@valencia/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ca/rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ca@valencia/rsibreak.po | 
+ | [da](/f17/language/da) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/da/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/da/rsibreak.po | 
+ | [de](/f17/language/de) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/de/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/de/rsibreak.po | 
+ | [en_GB](/f17/language/en_GB) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/en_GB/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/en_GB/rsibreak.po | 
+ | [et](/f17/language/et) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/et/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/et/rsibreak.po | 
+ | [hu](/f17/language/hu) | 18 | 18 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/hu/plasma_applet_rsibreak.po | 
+ | [it](/f17/language/it) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/it/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/it/rsibreak.po | 
+ | [ml](/f17/language/ml) | 18 | 18 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/ml/plasma_applet_rsibreak.po | 
+ | [nb_NO](/f17/language/nb_NO) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/nb/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nb/rsibreak.po | 
+ | [nds](/f17/language/nds) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/nds/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nds/rsibreak.po | 
+ | [nl](/f17/language/nl) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/nl/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nl/rsibreak.po | 
+ | [pt](/f17/language/pt) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/pt/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/pt/rsibreak.po | 
+ | [pt_BR](/f17/language/pt_BR) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/pt_BR/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/pt_BR/rsibreak.po | 
+ | [sv](/f17/language/sv) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/sv/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/sv/rsibreak.po | 
+ | [uk](/f17/language/uk) | 1304 | 1304 | 100.0 | /mnt/stockage/packages/f17/rsibreak/po/uk/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/uk/rsibreak.po | 
+ | [cs](/f17/language/cs) | 1285 | 1304 | 98.5 | /mnt/stockage/packages/f17/rsibreak/po/cs/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/cs/rsibreak.po | 
+ | [pl](/f17/language/pl) | 1157 | 1304 | 88.7 | /mnt/stockage/packages/f17/rsibreak/po/pl/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/pl/rsibreak.po | 
+ | [es](/f17/language/es) | 1150 | 1304 | 88.2 | /mnt/stockage/packages/f17/rsibreak/po/es/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/es/rsibreak.po | 
+ | [fr](/f17/language/fr) | 1150 | 1304 | 88.2 | /mnt/stockage/packages/f17/rsibreak/po/fr/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/fr/rsibreak.po | 
+ | [tr](/f17/language/tr) | 1150 | 1304 | 88.2 | /mnt/stockage/packages/f17/rsibreak/po/tr/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/tr/rsibreak.po | 
+ | [ja](/f17/language/ja) | 1093 | 1304 | 83.8 | /mnt/stockage/packages/f17/rsibreak/po/ja/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ja/rsibreak.po | 
+ | [ga](/f17/language/ga) | 1050 | 1304 | 80.5 | /mnt/stockage/packages/f17/rsibreak/po/ga/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ga/rsibreak.po | 
+ | [ru](/f17/language/ru) | 867 | 1286 | 67.4 | /mnt/stockage/packages/f17/rsibreak/po/ru/rsibreak.po | 
+ | [el](/f17/language/el) | 840 | 1304 | 64.4 | /mnt/stockage/packages/f17/rsibreak/po/el/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/el/rsibreak.po | 
+ | [gl](/f17/language/gl) | 840 | 1304 | 64.4 | /mnt/stockage/packages/f17/rsibreak/po/gl/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/gl/rsibreak.po | 
+ | [km](/f17/language/km) | 840 | 1304 | 64.4 | /mnt/stockage/packages/f17/rsibreak/po/km/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/km/rsibreak.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 834 | 1304 | 64.0 | /mnt/stockage/packages/f17/rsibreak/po/zh_CN/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/zh_CN/rsibreak.po | 
+ | [hne](/f17/language/hne) | 382 | 1304 | 29.3 | /mnt/stockage/packages/f17/rsibreak/po/hne/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/hne/rsibreak.po | 
+ | [hi](/f17/language/hi) | 370 | 1304 | 28.4 | /mnt/stockage/packages/f17/rsibreak/po/hi/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/hi/rsibreak.po | 
+ | [zh_Hant](/f17/language/zh_Hant) | 251 | 1304 | 19.2 | /mnt/stockage/packages/f17/rsibreak/po/zh_TW/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/zh_TW/rsibreak.po | 
+ | [ko](/f17/language/ko) | 236 | 1304 | 18.1 | /mnt/stockage/packages/f17/rsibreak/po/ko/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ko/rsibreak.po | 
+ | [ro](/f17/language/ro) | 88 | 1304 | 6.7 | /mnt/stockage/packages/f17/rsibreak/po/ro/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ro/rsibreak.po | 
+ | [be](/f17/language/be) | 44 | 1304 | 3.4 | /mnt/stockage/packages/f17/rsibreak/po/be/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/be/rsibreak.po | 
+ | [mai](/f17/language/mai) | 34 | 1286 | 2.6 | /mnt/stockage/packages/f17/rsibreak/po/mai/rsibreak.po | 
+ | [oc](/f17/language/oc) | 28 | 1304 | 2.1 | /mnt/stockage/packages/f17/rsibreak/po/oc/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/oc/rsibreak.po | 
+ | [eo](/f17/language/eo) | 25 | 1304 | 1.9 | /mnt/stockage/packages/f17/rsibreak/po/eo/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/eo/rsibreak.po | 
+ | [nn](/f17/language/nn) | 18 | 1304 | 1.4 | /mnt/stockage/packages/f17/rsibreak/po/nn/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/nn/rsibreak.po | 
+ | [lt](/f17/language/lt) | 17 | 1304 | 1.3 | /mnt/stockage/packages/f17/rsibreak/po/lt/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/lt/rsibreak.po | 
+ | [hr](/f17/language/hr) | 5 | 1304 | 0.4 | /mnt/stockage/packages/f17/rsibreak/po/hr/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/hr/rsibreak.po | 
+ | [ar](/f17/language/ar) | 4 | 1304 | 0.3 | /mnt/stockage/packages/f17/rsibreak/po/ar/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/ar/rsibreak.po | 
+ | [is](/f17/language/is) | 0 | 1304 | 0.0 | /mnt/stockage/packages/f17/rsibreak/po/is/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/is/rsibreak.po | 
+ | [se](/f17/language/se) | 0 | 1304 | 0.0 | /mnt/stockage/packages/f17/rsibreak/po/se/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/se/rsibreak.po | 
+ | [sk](/f17/language/sk) | 0 | 1304 | 0.0 | /mnt/stockage/packages/f17/rsibreak/po/sk/plasma_applet_rsibreak.po/mnt/stockage/packages/f17/rsibreak/po/sk/rsibreak.po | 
 {.sortable}
 
 

@@ -38,8 +38,8 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [tigervnc]({{< ref "/f23/package/tigervnc.md" >}}) | 671 | 671 | 100.0 | Russian <gnu@d07.ru> | 
- | [skychart]({{< ref "/f23/package/skychart.md" >}}) | 4639 | 4783 | 97.0 | Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua> | 
+ | [tigervnc](/f23/package/tigervnc) | 671 | 671 | 100.0 | Russian <gnu@d07.ru> | 
+ | [skychart](/f23/package/skychart) | 4639 | 4783 | 97.0 | Zaporozhye Astronomical Club Altair <astroclub@ua.fm, http://astroclub.zp.ua> | 
 {.sortable}
 
 

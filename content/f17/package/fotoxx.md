@@ -18,18 +18,18 @@ The package fotoxx (version 13.01):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f17/language/de.md" >}}) | 2759 | 2759 | 100.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-de.po | 
- | [en]({{< ref "/f17/language/en.md" >}}) | 2759 | 2759 | 100.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-en.po | 
- | [fr]({{< ref "/f17/language/fr.md" >}}) | 2756 | 2759 | 99.9 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-fr.po | 
- | [ca]({{< ref "/f17/language/ca.md" >}}) | 2747 | 2759 | 99.6 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-ca.po | 
- | [es]({{< ref "/f17/language/es.md" >}}) | 2747 | 2759 | 99.6 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-es.po | 
- | [ru]({{< ref "/f17/language/ru.md" >}}) | 2595 | 2759 | 94.1 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-ru.po | 
- | [nl]({{< ref "/f17/language/nl.md" >}}) | 2576 | 2759 | 93.4 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-nl.po | 
- | [pt]({{< ref "/f17/language/pt.md" >}}) | 2302 | 2759 | 83.4 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-pt.po | 
- | [gl]({{< ref "/f17/language/gl.md" >}}) | 1498 | 2759 | 54.3 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-gl.po | 
- | [it]({{< ref "/f17/language/it.md" >}}) | 1352 | 2759 | 49.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-it.po | 
- | [sv]({{< ref "/f17/language/sv.md" >}}) | 1297 | 2759 | 47.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-sv.po | 
- | [zh_Hans]({{< ref "/f17/language/zh_Hans.md" >}}) | 734 | 2759 | 26.6 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-zh_CN.po | 
+ | [de](/f17/language/de) | 2759 | 2759 | 100.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-de.po | 
+ | [en](/f17/language/en) | 2759 | 2759 | 100.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-en.po | 
+ | [fr](/f17/language/fr) | 2756 | 2759 | 99.9 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-fr.po | 
+ | [ca](/f17/language/ca) | 2747 | 2759 | 99.6 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-ca.po | 
+ | [es](/f17/language/es) | 2747 | 2759 | 99.6 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-es.po | 
+ | [ru](/f17/language/ru) | 2595 | 2759 | 94.1 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-ru.po | 
+ | [nl](/f17/language/nl) | 2576 | 2759 | 93.4 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-nl.po | 
+ | [pt](/f17/language/pt) | 2302 | 2759 | 83.4 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-pt.po | 
+ | [gl](/f17/language/gl) | 1498 | 2759 | 54.3 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-gl.po | 
+ | [it](/f17/language/it) | 1352 | 2759 | 49.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-it.po | 
+ | [sv](/f17/language/sv) | 1297 | 2759 | 47.0 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-sv.po | 
+ | [zh_Hans](/f17/language/zh_Hans) | 734 | 2759 | 26.6 | /mnt/stockage/packages/f17/fotoxx/locales/fotoxx-zh_CN.po | 
 {.sortable}
 
 

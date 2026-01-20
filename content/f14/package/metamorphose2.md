@@ -18,9 +18,9 @@ The package metamorphose2 (version 0.7.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 1647 | 1647 | 100.0 | /mnt/stockage/packages/f14/metamorphose2/messages/fr/fr.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 1580 | 1647 | 95.9 | /mnt/stockage/packages/f14/metamorphose2/messages/es/es.po | 
- | [en_US]({{< ref "/f14/language/en_US.md" >}}) | 37 | 1647 | 2.2 | /mnt/stockage/packages/f14/metamorphose2/messages/en_US/en_US.po | 
+ | [fr](/f14/language/fr) | 1647 | 1647 | 100.0 | /mnt/stockage/packages/f14/metamorphose2/messages/fr/fr.po | 
+ | [es](/f14/language/es) | 1580 | 1647 | 95.9 | /mnt/stockage/packages/f14/metamorphose2/messages/es/es.po | 
+ | [en_US](/f14/language/en_US) | 37 | 1647 | 2.2 | /mnt/stockage/packages/f14/metamorphose2/messages/en_US/en_US.po | 
 {.sortable}
 
 

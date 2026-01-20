@@ -18,80 +18,80 @@ The package akregator (version 25.04.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f41/language/ar.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ar/akregator.po | 
- | [bg]({{< ref "/f41/language/bg.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/bg/akregator.po | 
- | [ca]({{< ref "/f41/language/ca.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ca/akregator.po | 
- | [ca@valencia]({{< ref "/f41/language/ca@valencia.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ca@valencia/akregator.po | 
- | [eo]({{< ref "/f41/language/eo.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/eo/akregator.po | 
- | [es]({{< ref "/f41/language/es.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/es/akregator.po | 
- | [eu]({{< ref "/f41/language/eu.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/eu/akregator.po | 
- | [fi]({{< ref "/f41/language/fi.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/fi/akregator.po | 
- | [fr]({{< ref "/f41/language/fr.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/fr/akregator.po | 
- | [gl]({{< ref "/f41/language/gl.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/gl/akregator.po | 
- | [he]({{< ref "/f41/language/he.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/he/akregator.po | 
- | [hu]({{< ref "/f41/language/hu.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/hu/akregator.po | 
- | [ia]({{< ref "/f41/language/ia.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ia/akregator.po | 
- | [it]({{< ref "/f41/language/it.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/it/akregator.po | 
- | [ka]({{< ref "/f41/language/ka.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ka/akregator.po | 
- | [ko]({{< ref "/f41/language/ko.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ko/akregator.po | 
- | [lt]({{< ref "/f41/language/lt.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/lt/akregator.po | 
- | [nl]({{< ref "/f41/language/nl.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/nl/akregator.po | 
- | [pl]({{< ref "/f41/language/pl.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/pl/akregator.po | 
- | [pt_BR]({{< ref "/f41/language/pt_BR.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/pt_BR/akregator.po | 
- | [ru]({{< ref "/f41/language/ru.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ru/akregator.po | 
- | [sl]({{< ref "/f41/language/sl.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/sl/akregator.po | 
- | [sv]({{< ref "/f41/language/sv.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/sv/akregator.po | 
- | [tr]({{< ref "/f41/language/tr.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/tr/akregator.po | 
- | [uk]({{< ref "/f41/language/uk.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/uk/akregator.po | 
- | [zh_Hans]({{< ref "/f41/language/zh_Hans.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/zh_CN/akregator.po | 
- | [zh_Hant]({{< ref "/f41/language/zh_Hant.md" >}}) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/zh_TW/akregator.po | 
- | [en_GB]({{< ref "/f41/language/en_GB.md" >}}) | 1888 | 1893 | 99.7 | /mnt/stockage/packages/f41/akregator/po/en_GB/akregator.po | 
- | [sa]({{< ref "/f41/language/sa.md" >}}) | 1888 | 1893 | 99.7 | /mnt/stockage/packages/f41/akregator/po/sa/akregator.po | 
- | [lv]({{< ref "/f41/language/lv.md" >}}) | 1885 | 1893 | 99.6 | /mnt/stockage/packages/f41/akregator/po/lv/akregator.po | 
- | [el]({{< ref "/f41/language/el.md" >}}) | 1882 | 1893 | 99.4 | /mnt/stockage/packages/f41/akregator/po/el/akregator.po | 
- | [cs]({{< ref "/f41/language/cs.md" >}}) | 1855 | 1893 | 98.0 | /mnt/stockage/packages/f41/akregator/po/cs/akregator.po | 
- | [is]({{< ref "/f41/language/is.md" >}}) | 1807 | 1893 | 95.5 | /mnt/stockage/packages/f41/akregator/po/is/akregator.po | 
- | [sk]({{< ref "/f41/language/sk.md" >}}) | 1662 | 1893 | 87.8 | /mnt/stockage/packages/f41/akregator/po/sk/akregator.po | 
- | [az]({{< ref "/f41/language/az.md" >}}) | 1631 | 1893 | 86.2 | /mnt/stockage/packages/f41/akregator/po/az/akregator.po | 
- | [de]({{< ref "/f41/language/de.md" >}}) | 1631 | 1893 | 86.2 | /mnt/stockage/packages/f41/akregator/po/de/akregator.po | 
- | [pt]({{< ref "/f41/language/pt.md" >}}) | 1631 | 1893 | 86.2 | /mnt/stockage/packages/f41/akregator/po/pt/akregator.po | 
- | [da]({{< ref "/f41/language/da.md" >}}) | 1540 | 1893 | 81.4 | /mnt/stockage/packages/f41/akregator/po/da/akregator.po | 
- | [nn]({{< ref "/f41/language/nn.md" >}}) | 1533 | 1893 | 81.0 | /mnt/stockage/packages/f41/akregator/po/nn/akregator.po | 
- | [et]({{< ref "/f41/language/et.md" >}}) | 1508 | 1893 | 79.7 | /mnt/stockage/packages/f41/akregator/po/et/akregator.po | 
- | [sr]({{< ref "/f41/language/sr.md" >}}) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr/akregator.po | 
- | [sr@ijekavian]({{< ref "/f41/language/sr@ijekavian.md" >}}) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr@ijekavian/akregator.po | 
- | [sr@ijekavian_Latn]({{< ref "/f41/language/sr@ijekavian_Latn.md" >}}) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr@ijekavianlatin/akregator.po | 
- | [sr_Latn]({{< ref "/f41/language/sr_Latn.md" >}}) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr@latin/akregator.po | 
- | [nb_NO]({{< ref "/f41/language/nb_NO.md" >}}) | 1259 | 1893 | 66.5 | /mnt/stockage/packages/f41/akregator/po/nb/akregator.po | 
- | [bs]({{< ref "/f41/language/bs.md" >}}) | 1222 | 1893 | 64.6 | /mnt/stockage/packages/f41/akregator/po/bs/akregator.po | 
- | [nds]({{< ref "/f41/language/nds.md" >}}) | 1222 | 1893 | 64.6 | /mnt/stockage/packages/f41/akregator/po/nds/akregator.po | 
- | [kk]({{< ref "/f41/language/kk.md" >}}) | 1212 | 1893 | 64.0 | /mnt/stockage/packages/f41/akregator/po/kk/akregator.po | 
- | [ja]({{< ref "/f41/language/ja.md" >}}) | 1169 | 1893 | 61.8 | /mnt/stockage/packages/f41/akregator/po/ja/akregator.po | 
- | [ta]({{< ref "/f41/language/ta.md" >}}) | 1165 | 1893 | 61.5 | /mnt/stockage/packages/f41/akregator/po/ta/akregator.po | 
- | [km]({{< ref "/f41/language/km.md" >}}) | 1151 | 1893 | 60.8 | /mnt/stockage/packages/f41/akregator/po/km/akregator.po | 
- | [vi]({{< ref "/f41/language/vi.md" >}}) | 1147 | 1893 | 60.6 | /mnt/stockage/packages/f41/akregator/po/vi/akregator.po | 
- | [se]({{< ref "/f41/language/se.md" >}}) | 1089 | 1893 | 57.5 | /mnt/stockage/packages/f41/akregator/po/se/akregator.po | 
- | [ro]({{< ref "/f41/language/ro.md" >}}) | 950 | 1893 | 50.2 | /mnt/stockage/packages/f41/akregator/po/ro/akregator.po | 
- | [be]({{< ref "/f41/language/be.md" >}}) | 803 | 1893 | 42.4 | /mnt/stockage/packages/f41/akregator/po/be/akregator.po | 
- | [hne]({{< ref "/f41/language/hne.md" >}}) | 793 | 1893 | 41.9 | /mnt/stockage/packages/f41/akregator/po/hne/akregator.po | 
- | [fy]({{< ref "/f41/language/fy.md" >}}) | 780 | 1893 | 41.2 | /mnt/stockage/packages/f41/akregator/po/fy/akregator.po | 
- | [fa]({{< ref "/f41/language/fa.md" >}}) | 776 | 1893 | 41.0 | /mnt/stockage/packages/f41/akregator/po/fa/akregator.po | 
- | [ne]({{< ref "/f41/language/ne.md" >}}) | 774 | 1893 | 40.9 | /mnt/stockage/packages/f41/akregator/po/ne/akregator.po | 
- | [pa]({{< ref "/f41/language/pa.md" >}}) | 748 | 1893 | 39.5 | /mnt/stockage/packages/f41/akregator/po/pa/akregator.po | 
- | [sq]({{< ref "/f41/language/sq.md" >}}) | 748 | 1893 | 39.5 | /mnt/stockage/packages/f41/akregator/po/sq/akregator.po | 
- | [hi]({{< ref "/f41/language/hi.md" >}}) | 737 | 1893 | 38.9 | /mnt/stockage/packages/f41/akregator/po/hi/akregator.po | 
- | [mk]({{< ref "/f41/language/mk.md" >}}) | 736 | 1893 | 38.9 | /mnt/stockage/packages/f41/akregator/po/mk/akregator.po | 
- | [ms]({{< ref "/f41/language/ms.md" >}}) | 580 | 1893 | 30.6 | /mnt/stockage/packages/f41/akregator/po/ms/akregator.po | 
- | [ga]({{< ref "/f41/language/ga.md" >}}) | 513 | 1893 | 27.1 | /mnt/stockage/packages/f41/akregator/po/ga/akregator.po | 
- | [id]({{< ref "/f41/language/id.md" >}}) | 502 | 1893 | 26.5 | /mnt/stockage/packages/f41/akregator/po/id/akregator.po | 
- | [th]({{< ref "/f41/language/th.md" >}}) | 454 | 1893 | 24.0 | /mnt/stockage/packages/f41/akregator/po/th/akregator.po | 
- | [uz]({{< ref "/f41/language/uz.md" >}}) | 510 | 3786 | 13.5 | /mnt/stockage/packages/f41/akregator/po/uz@cyrillic/akregator.po/mnt/stockage/packages/f41/akregator/po/uz/akregator.po | 
- | [br]({{< ref "/f41/language/br.md" >}}) | 203 | 1893 | 10.7 | /mnt/stockage/packages/f41/akregator/po/br/akregator.po | 
- | [ug]({{< ref "/f41/language/ug.md" >}}) | 163 | 1893 | 8.6 | /mnt/stockage/packages/f41/akregator/po/ug/akregator.po | 
- | [mr]({{< ref "/f41/language/mr.md" >}}) | 101 | 1893 | 5.3 | /mnt/stockage/packages/f41/akregator/po/mr/akregator.po | 
- | [cy]({{< ref "/f41/language/cy.md" >}}) | 66 | 1893 | 3.5 | /mnt/stockage/packages/f41/akregator/po/cy/akregator.po | 
- | [ast]({{< ref "/f41/language/ast.md" >}}) | 4 | 1893 | 0.2 | /mnt/stockage/packages/f41/akregator/po/ast/akregator.po | 
- | [hr]({{< ref "/f41/language/hr.md" >}}) | 0 | 1893 | 0.0 | /mnt/stockage/packages/f41/akregator/po/hr/akregator.po | 
+ | [ar](/f41/language/ar) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ar/akregator.po | 
+ | [bg](/f41/language/bg) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/bg/akregator.po | 
+ | [ca](/f41/language/ca) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ca/akregator.po | 
+ | [ca@valencia](/f41/language/ca@valencia) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ca@valencia/akregator.po | 
+ | [eo](/f41/language/eo) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/eo/akregator.po | 
+ | [es](/f41/language/es) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/es/akregator.po | 
+ | [eu](/f41/language/eu) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/eu/akregator.po | 
+ | [fi](/f41/language/fi) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/fi/akregator.po | 
+ | [fr](/f41/language/fr) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/fr/akregator.po | 
+ | [gl](/f41/language/gl) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/gl/akregator.po | 
+ | [he](/f41/language/he) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/he/akregator.po | 
+ | [hu](/f41/language/hu) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/hu/akregator.po | 
+ | [ia](/f41/language/ia) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ia/akregator.po | 
+ | [it](/f41/language/it) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/it/akregator.po | 
+ | [ka](/f41/language/ka) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ka/akregator.po | 
+ | [ko](/f41/language/ko) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ko/akregator.po | 
+ | [lt](/f41/language/lt) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/lt/akregator.po | 
+ | [nl](/f41/language/nl) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/nl/akregator.po | 
+ | [pl](/f41/language/pl) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/pl/akregator.po | 
+ | [pt_BR](/f41/language/pt_BR) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/pt_BR/akregator.po | 
+ | [ru](/f41/language/ru) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/ru/akregator.po | 
+ | [sl](/f41/language/sl) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/sl/akregator.po | 
+ | [sv](/f41/language/sv) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/sv/akregator.po | 
+ | [tr](/f41/language/tr) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/tr/akregator.po | 
+ | [uk](/f41/language/uk) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/uk/akregator.po | 
+ | [zh_Hans](/f41/language/zh_Hans) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/zh_CN/akregator.po | 
+ | [zh_Hant](/f41/language/zh_Hant) | 1893 | 1893 | 100.0 | /mnt/stockage/packages/f41/akregator/po/zh_TW/akregator.po | 
+ | [en_GB](/f41/language/en_GB) | 1888 | 1893 | 99.7 | /mnt/stockage/packages/f41/akregator/po/en_GB/akregator.po | 
+ | [sa](/f41/language/sa) | 1888 | 1893 | 99.7 | /mnt/stockage/packages/f41/akregator/po/sa/akregator.po | 
+ | [lv](/f41/language/lv) | 1885 | 1893 | 99.6 | /mnt/stockage/packages/f41/akregator/po/lv/akregator.po | 
+ | [el](/f41/language/el) | 1882 | 1893 | 99.4 | /mnt/stockage/packages/f41/akregator/po/el/akregator.po | 
+ | [cs](/f41/language/cs) | 1855 | 1893 | 98.0 | /mnt/stockage/packages/f41/akregator/po/cs/akregator.po | 
+ | [is](/f41/language/is) | 1807 | 1893 | 95.5 | /mnt/stockage/packages/f41/akregator/po/is/akregator.po | 
+ | [sk](/f41/language/sk) | 1662 | 1893 | 87.8 | /mnt/stockage/packages/f41/akregator/po/sk/akregator.po | 
+ | [az](/f41/language/az) | 1631 | 1893 | 86.2 | /mnt/stockage/packages/f41/akregator/po/az/akregator.po | 
+ | [de](/f41/language/de) | 1631 | 1893 | 86.2 | /mnt/stockage/packages/f41/akregator/po/de/akregator.po | 
+ | [pt](/f41/language/pt) | 1631 | 1893 | 86.2 | /mnt/stockage/packages/f41/akregator/po/pt/akregator.po | 
+ | [da](/f41/language/da) | 1540 | 1893 | 81.4 | /mnt/stockage/packages/f41/akregator/po/da/akregator.po | 
+ | [nn](/f41/language/nn) | 1533 | 1893 | 81.0 | /mnt/stockage/packages/f41/akregator/po/nn/akregator.po | 
+ | [et](/f41/language/et) | 1508 | 1893 | 79.7 | /mnt/stockage/packages/f41/akregator/po/et/akregator.po | 
+ | [sr](/f41/language/sr) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr/akregator.po | 
+ | [sr@ijekavian](/f41/language/sr@ijekavian) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr@ijekavian/akregator.po | 
+ | [sr@ijekavian_Latn](/f41/language/sr@ijekavian_Latn) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr@ijekavianlatin/akregator.po | 
+ | [sr_Latn](/f41/language/sr_Latn) | 1471 | 1893 | 77.7 | /mnt/stockage/packages/f41/akregator/po/sr@latin/akregator.po | 
+ | [nb_NO](/f41/language/nb_NO) | 1259 | 1893 | 66.5 | /mnt/stockage/packages/f41/akregator/po/nb/akregator.po | 
+ | [bs](/f41/language/bs) | 1222 | 1893 | 64.6 | /mnt/stockage/packages/f41/akregator/po/bs/akregator.po | 
+ | [nds](/f41/language/nds) | 1222 | 1893 | 64.6 | /mnt/stockage/packages/f41/akregator/po/nds/akregator.po | 
+ | [kk](/f41/language/kk) | 1212 | 1893 | 64.0 | /mnt/stockage/packages/f41/akregator/po/kk/akregator.po | 
+ | [ja](/f41/language/ja) | 1169 | 1893 | 61.8 | /mnt/stockage/packages/f41/akregator/po/ja/akregator.po | 
+ | [ta](/f41/language/ta) | 1165 | 1893 | 61.5 | /mnt/stockage/packages/f41/akregator/po/ta/akregator.po | 
+ | [km](/f41/language/km) | 1151 | 1893 | 60.8 | /mnt/stockage/packages/f41/akregator/po/km/akregator.po | 
+ | [vi](/f41/language/vi) | 1147 | 1893 | 60.6 | /mnt/stockage/packages/f41/akregator/po/vi/akregator.po | 
+ | [se](/f41/language/se) | 1089 | 1893 | 57.5 | /mnt/stockage/packages/f41/akregator/po/se/akregator.po | 
+ | [ro](/f41/language/ro) | 950 | 1893 | 50.2 | /mnt/stockage/packages/f41/akregator/po/ro/akregator.po | 
+ | [be](/f41/language/be) | 803 | 1893 | 42.4 | /mnt/stockage/packages/f41/akregator/po/be/akregator.po | 
+ | [hne](/f41/language/hne) | 793 | 1893 | 41.9 | /mnt/stockage/packages/f41/akregator/po/hne/akregator.po | 
+ | [fy](/f41/language/fy) | 780 | 1893 | 41.2 | /mnt/stockage/packages/f41/akregator/po/fy/akregator.po | 
+ | [fa](/f41/language/fa) | 776 | 1893 | 41.0 | /mnt/stockage/packages/f41/akregator/po/fa/akregator.po | 
+ | [ne](/f41/language/ne) | 774 | 1893 | 40.9 | /mnt/stockage/packages/f41/akregator/po/ne/akregator.po | 
+ | [pa](/f41/language/pa) | 748 | 1893 | 39.5 | /mnt/stockage/packages/f41/akregator/po/pa/akregator.po | 
+ | [sq](/f41/language/sq) | 748 | 1893 | 39.5 | /mnt/stockage/packages/f41/akregator/po/sq/akregator.po | 
+ | [hi](/f41/language/hi) | 737 | 1893 | 38.9 | /mnt/stockage/packages/f41/akregator/po/hi/akregator.po | 
+ | [mk](/f41/language/mk) | 736 | 1893 | 38.9 | /mnt/stockage/packages/f41/akregator/po/mk/akregator.po | 
+ | [ms](/f41/language/ms) | 580 | 1893 | 30.6 | /mnt/stockage/packages/f41/akregator/po/ms/akregator.po | 
+ | [ga](/f41/language/ga) | 513 | 1893 | 27.1 | /mnt/stockage/packages/f41/akregator/po/ga/akregator.po | 
+ | [id](/f41/language/id) | 502 | 1893 | 26.5 | /mnt/stockage/packages/f41/akregator/po/id/akregator.po | 
+ | [th](/f41/language/th) | 454 | 1893 | 24.0 | /mnt/stockage/packages/f41/akregator/po/th/akregator.po | 
+ | [uz](/f41/language/uz) | 510 | 3786 | 13.5 | /mnt/stockage/packages/f41/akregator/po/uz@cyrillic/akregator.po/mnt/stockage/packages/f41/akregator/po/uz/akregator.po | 
+ | [br](/f41/language/br) | 203 | 1893 | 10.7 | /mnt/stockage/packages/f41/akregator/po/br/akregator.po | 
+ | [ug](/f41/language/ug) | 163 | 1893 | 8.6 | /mnt/stockage/packages/f41/akregator/po/ug/akregator.po | 
+ | [mr](/f41/language/mr) | 101 | 1893 | 5.3 | /mnt/stockage/packages/f41/akregator/po/mr/akregator.po | 
+ | [cy](/f41/language/cy) | 66 | 1893 | 3.5 | /mnt/stockage/packages/f41/akregator/po/cy/akregator.po | 
+ | [ast](/f41/language/ast) | 4 | 1893 | 0.2 | /mnt/stockage/packages/f41/akregator/po/ast/akregator.po | 
+ | [hr](/f41/language/hr) | 0 | 1893 | 0.0 | /mnt/stockage/packages/f41/akregator/po/hr/akregator.po | 
 {.sortable}
 
 

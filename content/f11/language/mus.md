@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [bluez-gnome]({{< ref "/f11/package/bluez-gnome.md" >}}) | 1 | 631 | 0.2 | Creek <mus@li.org> | 
+ | [bluez-gnome](/f11/package/bluez-gnome) | 1 | 631 | 0.2 | Creek <mus@li.org> | 
 {.sortable}
 
 

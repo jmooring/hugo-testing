@@ -18,15 +18,15 @@ The package teg (version 0.11.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f24/language/es.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/es.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/fr.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/gl.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/pl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/pt.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 2363 | 2378 | 99.4 | /mnt/stockage/packages/f24/teg/po/it.po | 
- | [hu]({{< ref "/f24/language/hu.md" >}}) | 2312 | 2378 | 97.2 | /mnt/stockage/packages/f24/teg/po/hu_HU.po | 
- | [de]({{< ref "/f24/language/de.md" >}}) | 2304 | 2378 | 96.9 | /mnt/stockage/packages/f24/teg/po/de.po | 
- | [pt_BR]({{< ref "/f24/language/pt_BR.md" >}}) | 2278 | 2378 | 95.8 | /mnt/stockage/packages/f24/teg/po/pt_BR.po | 
+ | [es](/f24/language/es) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/es.po | 
+ | [fr](/f24/language/fr) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/fr.po | 
+ | [gl](/f24/language/gl) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/gl.po | 
+ | [pl](/f24/language/pl) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/pl.po | 
+ | [pt](/f24/language/pt) | 2378 | 2378 | 100.0 | /mnt/stockage/packages/f24/teg/po/pt.po | 
+ | [it](/f24/language/it) | 2363 | 2378 | 99.4 | /mnt/stockage/packages/f24/teg/po/it.po | 
+ | [hu](/f24/language/hu) | 2312 | 2378 | 97.2 | /mnt/stockage/packages/f24/teg/po/hu_HU.po | 
+ | [de](/f24/language/de) | 2304 | 2378 | 96.9 | /mnt/stockage/packages/f24/teg/po/de.po | 
+ | [pt_BR](/f24/language/pt_BR) | 2278 | 2378 | 95.8 | /mnt/stockage/packages/f24/teg/po/pt_BR.po | 
 {.sortable}
 
 

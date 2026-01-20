@@ -18,14 +18,14 @@ The package yad (version 9.3):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [pt_BR]({{< ref "/f39/language/pt_BR.md" >}}) | 1676 | 1676 | 100.0 | /mnt/stockage/packages/f39/yad/po/pt_BR.po | 
- | [ru]({{< ref "/f39/language/ru.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f39/yad/po/ru.po | 
- | [uk]({{< ref "/f39/language/uk.md" >}}) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f39/yad/po/uk.po | 
- | [sk]({{< ref "/f39/language/sk.md" >}}) | 1231 | 1329 | 92.6 | /mnt/stockage/packages/f39/yad/po/sk.po | 
- | [es]({{< ref "/f39/language/es.md" >}}) | 1209 | 1329 | 91.0 | /mnt/stockage/packages/f39/yad/po/es.po | 
- | [fr]({{< ref "/f39/language/fr.md" >}}) | 2193 | 2658 | 82.5 | /mnt/stockage/packages/f39/yad/po/fr.po/mnt/stockage/packages/f39/yad/po/it.po | 
- | [zh_Hant]({{< ref "/f39/language/zh_Hant.md" >}}) | 1081 | 1329 | 81.3 | /mnt/stockage/packages/f39/yad/po/zh_TW.po | 
- | [de]({{< ref "/f39/language/de.md" >}}) | 388 | 1329 | 29.2 | /mnt/stockage/packages/f39/yad/po/de.po | 
+ | [pt_BR](/f39/language/pt_BR) | 1676 | 1676 | 100.0 | /mnt/stockage/packages/f39/yad/po/pt_BR.po | 
+ | [ru](/f39/language/ru) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f39/yad/po/ru.po | 
+ | [uk](/f39/language/uk) | 2025 | 2025 | 100.0 | /mnt/stockage/packages/f39/yad/po/uk.po | 
+ | [sk](/f39/language/sk) | 1231 | 1329 | 92.6 | /mnt/stockage/packages/f39/yad/po/sk.po | 
+ | [es](/f39/language/es) | 1209 | 1329 | 91.0 | /mnt/stockage/packages/f39/yad/po/es.po | 
+ | [fr](/f39/language/fr) | 2193 | 2658 | 82.5 | /mnt/stockage/packages/f39/yad/po/fr.po/mnt/stockage/packages/f39/yad/po/it.po | 
+ | [zh_Hant](/f39/language/zh_Hant) | 1081 | 1329 | 81.3 | /mnt/stockage/packages/f39/yad/po/zh_TW.po | 
+ | [de](/f39/language/de) | 388 | 1329 | 29.2 | /mnt/stockage/packages/f39/yad/po/de.po | 
 {.sortable}
 
 

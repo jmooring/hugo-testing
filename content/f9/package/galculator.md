@@ -18,12 +18,12 @@ The package galculator (version 1.2.5.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f9/language/de.md" >}}) | 798 | 836 | 95.5 | /mnt/stockage/packages/f9/galculator/po/de.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 769 | 836 | 92.0 | /mnt/stockage/packages/f9/galculator/po/ja.po | 
- | [pt_BR]({{< ref "/f9/language/pt_BR.md" >}}) | 729 | 836 | 87.2 | /mnt/stockage/packages/f9/galculator/po/pt_BR.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 726 | 836 | 86.8 | /mnt/stockage/packages/f9/galculator/po/pl.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 597 | 836 | 71.4 | /mnt/stockage/packages/f9/galculator/po/fr.po | 
- | [ro]({{< ref "/f9/language/ro.md" >}}) | 597 | 836 | 71.4 | /mnt/stockage/packages/f9/galculator/po/ro.po | 
+ | [de](/f9/language/de) | 798 | 836 | 95.5 | /mnt/stockage/packages/f9/galculator/po/de.po | 
+ | [ja](/f9/language/ja) | 769 | 836 | 92.0 | /mnt/stockage/packages/f9/galculator/po/ja.po | 
+ | [pt_BR](/f9/language/pt_BR) | 729 | 836 | 87.2 | /mnt/stockage/packages/f9/galculator/po/pt_BR.po | 
+ | [pl](/f9/language/pl) | 726 | 836 | 86.8 | /mnt/stockage/packages/f9/galculator/po/pl.po | 
+ | [fr](/f9/language/fr) | 597 | 836 | 71.4 | /mnt/stockage/packages/f9/galculator/po/fr.po | 
+ | [ro](/f9/language/ro) | 597 | 836 | 71.4 | /mnt/stockage/packages/f9/galculator/po/ro.po | 
 {.sortable}
 
 

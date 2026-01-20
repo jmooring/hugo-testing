@@ -18,22 +18,22 @@ The package diffutils (version 2.8.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f9/language/da.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/da.po | 
- | [de]({{< ref "/f9/language/de.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/de.po | 
- | [eo]({{< ref "/f9/language/eo.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/eo.po | 
- | [es]({{< ref "/f9/language/es.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/es.po | 
- | [fr]({{< ref "/f9/language/fr.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/fr.po | 
- | [gl]({{< ref "/f9/language/gl.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/gl.po | 
- | [he]({{< ref "/f9/language/he.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/he.po | 
- | [id]({{< ref "/f9/language/id.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/id.po | 
- | [ja]({{< ref "/f9/language/ja.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/ja.po | 
- | [pl]({{< ref "/f9/language/pl.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/pl.po | 
- | [sv]({{< ref "/f9/language/sv.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/sv.po | 
- | [tr]({{< ref "/f9/language/tr.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/tr.po | 
- | [zh_Hant]({{< ref "/f9/language/zh_Hant.md" >}}) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/zh_TW.po | 
- | [ru]({{< ref "/f9/language/ru.md" >}}) | 1339 | 1342 | 99.8 | /mnt/stockage/packages/f9/diffutils/po/ru.po | 
- | [cs]({{< ref "/f9/language/cs.md" >}}) | 1329 | 1342 | 99.0 | /mnt/stockage/packages/f9/diffutils/po/cs.po | 
- | [en_GB]({{< ref "/f9/language/en_GB.md" >}}) | 12 | 1342 | 0.9 | /mnt/stockage/packages/f9/diffutils/po/en_GB.po | 
+ | [da](/f9/language/da) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/da.po | 
+ | [de](/f9/language/de) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/de.po | 
+ | [eo](/f9/language/eo) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/eo.po | 
+ | [es](/f9/language/es) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/es.po | 
+ | [fr](/f9/language/fr) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/fr.po | 
+ | [gl](/f9/language/gl) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/gl.po | 
+ | [he](/f9/language/he) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/he.po | 
+ | [id](/f9/language/id) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/id.po | 
+ | [ja](/f9/language/ja) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/ja.po | 
+ | [pl](/f9/language/pl) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/pl.po | 
+ | [sv](/f9/language/sv) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/sv.po | 
+ | [tr](/f9/language/tr) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/tr.po | 
+ | [zh_Hant](/f9/language/zh_Hant) | 1342 | 1342 | 100.0 | /mnt/stockage/packages/f9/diffutils/po/zh_TW.po | 
+ | [ru](/f9/language/ru) | 1339 | 1342 | 99.8 | /mnt/stockage/packages/f9/diffutils/po/ru.po | 
+ | [cs](/f9/language/cs) | 1329 | 1342 | 99.0 | /mnt/stockage/packages/f9/diffutils/po/cs.po | 
+ | [en_GB](/f9/language/en_GB) | 12 | 1342 | 0.9 | /mnt/stockage/packages/f9/diffutils/po/en_GB.po | 
 {.sortable}
 
 

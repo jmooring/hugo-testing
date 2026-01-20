@@ -18,17 +18,17 @@ The package python-ase (version 3.23.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [da]({{< ref "/f40/language/da.md" >}}) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
- | [en_GB]({{< ref "/f40/language/en_GB.md" >}}) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
- | [es]({{< ref "/f40/language/es.md" >}}) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
- | [eu]({{< ref "/f40/language/eu.md" >}}) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/eu/LC_MESSAGES/ag.po | 
- | [ru]({{< ref "/f40/language/ru.md" >}}) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/ru/LC_MESSAGES/ag.po | 
- | [sv]({{< ref "/f40/language/sv.md" >}}) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/sv/LC_MESSAGES/ag.po | 
- | [fr]({{< ref "/f40/language/fr.md" >}}) | 1408 | 1414 | 99.6 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/fr/LC_MESSAGES/ag.po | 
- | [gl]({{< ref "/f40/language/gl.md" >}}) | 1295 | 1452 | 89.2 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
- | [zh_Hans]({{< ref "/f40/language/zh_Hans.md" >}}) | 1280 | 1452 | 88.2 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
- | [fi]({{< ref "/f40/language/fi.md" >}}) | 1033 | 1216 | 85.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/fi/LC_MESSAGES/ag.po | 
- | [de]({{< ref "/f40/language/de.md" >}}) | 977 | 1414 | 69.1 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/de/LC_MESSAGES/ag.po | 
+ | [da](/f40/language/da) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/da/LC_MESSAGES/ag.po | 
+ | [en_GB](/f40/language/en_GB) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/en_GB/LC_MESSAGES/ag.po | 
+ | [es](/f40/language/es) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/es/LC_MESSAGES/ag.po | 
+ | [eu](/f40/language/eu) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/eu/LC_MESSAGES/ag.po | 
+ | [ru](/f40/language/ru) | 1272 | 1272 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/ru/LC_MESSAGES/ag.po | 
+ | [sv](/f40/language/sv) | 1216 | 1216 | 100.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/sv/LC_MESSAGES/ag.po | 
+ | [fr](/f40/language/fr) | 1408 | 1414 | 99.6 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/fr/LC_MESSAGES/ag.po | 
+ | [gl](/f40/language/gl) | 1295 | 1452 | 89.2 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/gl/LC_MESSAGES/ag.po | 
+ | [zh_Hans](/f40/language/zh_Hans) | 1280 | 1452 | 88.2 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/zh_CN/LC_MESSAGES/ag.po | 
+ | [fi](/f40/language/fi) | 1033 | 1216 | 85.0 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/fi/LC_MESSAGES/ag.po | 
+ | [de](/f40/language/de) | 977 | 1414 | 69.1 | /mnt/stockage/packages/f40/python-ase/ase/gui/po/de/LC_MESSAGES/ag.po | 
 {.sortable}
 
 

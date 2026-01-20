@@ -18,22 +18,22 @@ The package fontforge (version 20120731b):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 2141 | 2141 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/en_GB.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 12902 | 12902 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/es.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 6827 | 6827 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/it.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 21570 | 21570 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/ja.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 25 | 25 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/ml.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 37846 | 37846 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/vi.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 40256 | 40257 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/uk.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 1190 | 1194 | 99.7 | /mnt/stockage/packages/f20/fontforge/po/mackeys/en.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 39528 | 40284 | 98.1 | /mnt/stockage/packages/f20/fontforge/po/pl.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 786 | 1003 | 78.4 | /mnt/stockage/packages/f20/fontforge/po/de.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 26201 | 39568 | 66.2 | /mnt/stockage/packages/f20/fontforge/po/zh_TW.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 17844 | 28309 | 63.0 | /mnt/stockage/packages/f20/fontforge/po/fr.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 14833 | 40078 | 37.0 | /mnt/stockage/packages/f20/fontforge/po/zh_CN.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 14799 | 40000 | 37.0 | /mnt/stockage/packages/f20/fontforge/po/ca.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 10361 | 40029 | 25.9 | /mnt/stockage/packages/f20/fontforge/po/ru.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 1738 | 21493 | 8.1 | /mnt/stockage/packages/f20/fontforge/po/el.po | 
+ | [en_GB](/f20/language/en_GB) | 2141 | 2141 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/en_GB.po | 
+ | [es](/f20/language/es) | 12902 | 12902 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/es.po | 
+ | [it](/f20/language/it) | 6827 | 6827 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/it.po | 
+ | [ja](/f20/language/ja) | 21570 | 21570 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/ja.po | 
+ | [ml](/f20/language/ml) | 25 | 25 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/ml.po | 
+ | [vi](/f20/language/vi) | 37846 | 37846 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/vi.po | 
+ | [uk](/f20/language/uk) | 40256 | 40257 | 100.0 | /mnt/stockage/packages/f20/fontforge/po/uk.po | 
+ | [en](/f20/language/en) | 1190 | 1194 | 99.7 | /mnt/stockage/packages/f20/fontforge/po/mackeys/en.po | 
+ | [pl](/f20/language/pl) | 39528 | 40284 | 98.1 | /mnt/stockage/packages/f20/fontforge/po/pl.po | 
+ | [de](/f20/language/de) | 786 | 1003 | 78.4 | /mnt/stockage/packages/f20/fontforge/po/de.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 26201 | 39568 | 66.2 | /mnt/stockage/packages/f20/fontforge/po/zh_TW.po | 
+ | [fr](/f20/language/fr) | 17844 | 28309 | 63.0 | /mnt/stockage/packages/f20/fontforge/po/fr.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 14833 | 40078 | 37.0 | /mnt/stockage/packages/f20/fontforge/po/zh_CN.po | 
+ | [ca](/f20/language/ca) | 14799 | 40000 | 37.0 | /mnt/stockage/packages/f20/fontforge/po/ca.po | 
+ | [ru](/f20/language/ru) | 10361 | 40029 | 25.9 | /mnt/stockage/packages/f20/fontforge/po/ru.po | 
+ | [el](/f20/language/el) | 1738 | 21493 | 8.1 | /mnt/stockage/packages/f20/fontforge/po/el.po | 
 {.sortable}
 
 

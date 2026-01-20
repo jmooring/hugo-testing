@@ -41,530 +41,530 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [Django]({{< ref "/f12/package/Django.md" >}}) | 3715 | 3715 | 100.0 | Slovak <> | 
- | [ORBit]({{< ref "/f12/package/ORBit.md" >}}) | 8 | 8 | 100.0 | Slovak <sk-i18n@rak.isternet.sk> | 
- | [PackageKit]({{< ref "/f12/package/PackageKit.md" >}}) | 1590 | 1590 | 100.0 | Fedora Project <fedora-cs-list@redhat.com> | 
- | [alacarte]({{< ref "/f12/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [alleyoop]({{< ref "/f12/package/alleyoop.md" >}}) | 348 | 348 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [arm-gp2x-linux-glibc]({{< ref "/f12/package/arm-gp2x-linux-glibc.md" >}}) | 6326 | 6326 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [aspell]({{< ref "/f12/package/aspell.md" >}}) | 1726 | 1726 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [at-spi]({{< ref "/f12/package/at-spi.md" >}}) | 15 | 15 | 100.0 | Slovak | 
- | [atk]({{< ref "/f12/package/atk.md" >}}) | 375 | 375 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [atomix]({{< ref "/f12/package/atomix.md" >}}) | 146 | 146 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [avr-binutils]({{< ref "/f12/package/avr-binutils.md" >}}) | 7582 | 7582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [backintime]({{< ref "/f12/package/backintime.md" >}}) | 441 | 441 | 100.0 | Tomáš Vadina <kyberdev@gmail.com> | 
- | [bakery]({{< ref "/f12/package/bakery.md" >}}) | 72 | 72 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [balsa]({{< ref "/f12/package/balsa.md" >}}) | 6047 | 6047 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [binutils]({{< ref "/f12/package/binutils.md" >}}) | 7582 | 7582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [blam]({{< ref "/f12/package/blam.md" >}}) | 314 | 314 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ccsm]({{< ref "/f12/package/ccsm.md" >}}) | 549 | 549 | 100.0 | SLOVAK <sk.cfteam@gmail.com> | 
- | [childsplay]({{< ref "/f12/package/childsplay.md" >}}) | 1226 | 1226 | 100.0 | René <watag@centrum.sk> | 
- | [chkconfig]({{< ref "/f12/package/chkconfig.md" >}}) | 448 | 448 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [claws-mail]({{< ref "/f12/package/claws-mail.md" >}}) | 14647 | 14647 | 100.0 | Slovenský <nomail> | 
- | [claws-mail-plugins]({{< ref "/f12/package/claws-mail-plugins.md" >}}) | 3529 | 3529 | 100.0 | Slovenský <nomail> | 
- | [clementine]({{< ref "/f12/package/clementine.md" >}}) | 2111 | 2111 | 100.0 |  | 
- | [contact-lookup-applet]({{< ref "/f12/package/contact-lookup-applet.md" >}}) | 260 | 260 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [control-center]({{< ref "/f12/package/control-center.md" >}}) | 3177 | 3177 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [cracklib]({{< ref "/f12/package/cracklib.md" >}}) | 93 | 93 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [cycle]({{< ref "/f12/package/cycle.md" >}}) | 126 | 126 | 100.0 |  | 
- | [dasher]({{< ref "/f12/package/dasher.md" >}}) | 311 | 311 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [deluge]({{< ref "/f12/package/deluge.md" >}}) | 1998 | 1998 | 100.0 | Slovak <sk@li.org> | 
- | [deskbar-applet]({{< ref "/f12/package/deskbar-applet.md" >}}) | 884 | 884 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [desktop-effects]({{< ref "/f12/package/desktop-effects.md" >}}) | 148 | 148 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [devhelp]({{< ref "/f12/package/devhelp.md" >}}) | 239 | 239 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [eel2]({{< ref "/f12/package/eel2.md" >}}) | 161 | 161 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ejabberd]({{< ref "/f12/package/ejabberd.md" >}}) | 1503 | 1503 | 100.0 |  | 
- | [emerald]({{< ref "/f12/package/emerald.md" >}}) | 774 | 774 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [eog]({{< ref "/f12/package/eog.md" >}}) | 1150 | 1150 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [epiphany]({{< ref "/f12/package/epiphany.md" >}}) | 3497 | 3497 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [epiphany-extensions]({{< ref "/f12/package/epiphany-extensions.md" >}}) | 806 | 806 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [evince]({{< ref "/f12/package/evince.md" >}}) | 1004 | 1004 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [evolution-mapi]({{< ref "/f12/package/evolution-mapi.md" >}}) | 269 | 269 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [file-roller]({{< ref "/f12/package/file-roller.md" >}}) | 1076 | 1076 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [firstboot]({{< ref "/f12/package/firstboot.md" >}}) | 654 | 654 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [fpc]({{< ref "/f12/package/fpc.md" >}}) | 74 | 74 | 100.0 | <dusan.halicky@gmail.com> | 
- | [frozen-bubble]({{< ref "/f12/package/frozen-bubble.md" >}}) | 698 | 698 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [galeon]({{< ref "/f12/package/galeon.md" >}}) | 4980 | 4980 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [gbrainy]({{< ref "/f12/package/gbrainy.md" >}}) | 3050 | 3050 | 100.0 | Slovak <http://telka.sk/linux/sk-l10n/> | 
- | [gdeskcal]({{< ref "/f12/package/gdeskcal.md" >}}) | 74 | 74 | 100.0 | LANGUAGE <LL@li.org> | 
- | [gedit-plugins]({{< ref "/f12/package/gedit-plugins.md" >}}) | 3 | 3 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ggz-gtk-client]({{< ref "/f12/package/ggz-gtk-client.md" >}}) | 5 | 5 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ghex]({{< ref "/f12/package/ghex.md" >}}) | 794 | 794 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [glibc]({{< ref "/f12/package/glibc.md" >}}) | 6327 | 6327 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-applet-timer]({{< ref "/f12/package/gnome-applet-timer.md" >}}) | 283 | 283 | 100.0 | Slovak <sk@li.org> | 
- | [gnome-backgrounds]({{< ref "/f12/package/gnome-backgrounds.md" >}}) | 18 | 18 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-desktop]({{< ref "/f12/package/gnome-desktop.md" >}}) | 283 | 283 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-icon-theme]({{< ref "/f12/package/gnome-icon-theme.md" >}}) | 43 | 43 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-keyring]({{< ref "/f12/package/gnome-keyring.md" >}}) | 661 | 661 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-libs]({{< ref "/f12/package/gnome-libs.md" >}}) | 1085 | 1085 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-mag]({{< ref "/f12/package/gnome-mag.md" >}}) | 5 | 5 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-media]({{< ref "/f12/package/gnome-media.md" >}}) | 1923 | 1923 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-menus]({{< ref "/f12/package/gnome-menus.md" >}}) | 165 | 165 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-mime-data]({{< ref "/f12/package/gnome-mime-data.md" >}}) | 887 | 887 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [gnome-netstatus]({{< ref "/f12/package/gnome-netstatus.md" >}}) | 417 | 417 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-nettool]({{< ref "/f12/package/gnome-nettool.md" >}}) | 545 | 545 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-panel]({{< ref "/f12/package/gnome-panel.md" >}}) | 4487 | 4487 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-phone-manager]({{< ref "/f12/package/gnome-phone-manager.md" >}}) | 508 | 508 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-pilot]({{< ref "/f12/package/gnome-pilot.md" >}}) | 1404 | 1404 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-screensaver]({{< ref "/f12/package/gnome-screensaver.md" >}}) | 955 | 955 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-session]({{< ref "/f12/package/gnome-session.md" >}}) | 899 | 899 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-settings-daemon]({{< ref "/f12/package/gnome-settings-daemon.md" >}}) | 1080 | 1080 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-system-monitor]({{< ref "/f12/package/gnome-system-monitor.md" >}}) | 645 | 645 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-terminal]({{< ref "/f12/package/gnome-terminal.md" >}}) | 3819 | 3819 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-themes]({{< ref "/f12/package/gnome-themes.md" >}}) | 85 | 85 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-user-share]({{< ref "/f12/package/gnome-user-share.md" >}}) | 70 | 70 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gparted]({{< ref "/f12/package/gparted.md" >}}) | 1420 | 1420 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gpicview]({{< ref "/f12/package/gpicview.md" >}}) | 219 | 219 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gpsdrive]({{< ref "/f12/package/gpsdrive.md" >}}) | 1387 | 1387 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [grep]({{< ref "/f12/package/grep.md" >}}) | 827 | 827 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gstreamer-plugins-bad-free]({{< ref "/f12/package/gstreamer-plugins-bad-free.md" >}}) | 72 | 72 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gthumb]({{< ref "/f12/package/gthumb.md" >}}) | 3130 | 3130 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gtk+]({{< ref "/f12/package/gtk+.md" >}}) | 202 | 202 | 100.0 | Slovak <sk@li.org> | 
- | [gtkhtml3]({{< ref "/f12/package/gtkhtml3.md" >}}) | 923 | 923 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gtksourceview]({{< ref "/f12/package/gtksourceview.md" >}}) | 765 | 765 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gtksourceview2]({{< ref "/f12/package/gtksourceview2.md" >}}) | 765 | 765 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gtkspell]({{< ref "/f12/package/gtkspell.md" >}}) | 11 | 11 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gtranslator]({{< ref "/f12/package/gtranslator.md" >}}) | 1136 | 1136 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [gvfs]({{< ref "/f12/package/gvfs.md" >}}) | 1341 | 1341 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [gwget]({{< ref "/f12/package/gwget.md" >}}) | 512 | 512 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gwibber]({{< ref "/f12/package/gwibber.md" >}}) | 45 | 45 | 100.0 | Slovak <sk@li.org> | 
- | [hello]({{< ref "/f12/package/hello.md" >}}) | 174 | 174 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [horde]({{< ref "/f12/package/horde.md" >}}) | 7855 | 7855 | 100.0 | Slovak <vix@vazka.sk> | 
- | [hwbrowser]({{< ref "/f12/package/hwbrowser.md" >}}) | 116 | 116 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [im-chooser]({{< ref "/f12/package/im-chooser.md" >}}) | 152 | 152 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [imp]({{< ref "/f12/package/imp.md" >}}) | 6446 | 6446 | 100.0 | Slovak <vix@vazka.sk> | 
- | [ingo]({{< ref "/f12/package/ingo.md" >}}) | 883 | 883 | 100.0 | i18n@lists.horde.org | 
- | [k3guitune]({{< ref "/f12/package/k3guitune.md" >}}) | 212 | 212 | 100.0 | Slovak <sk@li.org> | 
- | [kde-plasma-networkmanagement]({{< ref "/f12/package/kde-plasma-networkmanagement.md" >}}) | 2120 | 2120 | 100.0 | Slovak <kde-sk@linux.sk> | 
- | [kiconedit]({{< ref "/f12/package/kiconedit.md" >}}) | 726 | 726 | 100.0 | Slovak <kde-sk@linux.sk> | 
- | [kronolith]({{< ref "/f12/package/kronolith.md" >}}) | 2293 | 2293 | 100.0 | Slovak <vix@vazka.sk> | 
- | [kshutdown]({{< ref "/f12/package/kshutdown.md" >}}) | 776 | 776 | 100.0 | <sk@li.org> | 
- | [libbonobo]({{< ref "/f12/package/libbonobo.md" >}}) | 543 | 543 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libbonoboui]({{< ref "/f12/package/libbonoboui.md" >}}) | 368 | 368 | 100.0 | Slovak <sk-l18n@lists.linux.sk> | 
- | [libgnome]({{< ref "/f12/package/libgnome.md" >}}) | 1772 | 1772 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [libgnomecanvas]({{< ref "/f12/package/libgnomecanvas.md" >}}) | 378 | 378 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgnomecups]({{< ref "/f12/package/libgnomecups.md" >}}) | 11 | 11 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgnomeprint22]({{< ref "/f12/package/libgnomeprint22.md" >}}) | 168 | 168 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgnomeprintui22]({{< ref "/f12/package/libgnomeprintui22.md" >}}) | 481 | 481 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgnomeui]({{< ref "/f12/package/libgnomeui.md" >}}) | 1309 | 1309 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgphoto2]({{< ref "/f12/package/libgphoto2.md" >}}) | 587 | 587 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgsasl]({{< ref "/f12/package/libgsasl.md" >}}) | 518 | 518 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libgtop2]({{< ref "/f12/package/libgtop2.md" >}}) | 126 | 126 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libwnck]({{< ref "/f12/package/libwnck.md" >}}) | 1124 | 1124 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [libxfcegui4]({{< ref "/f12/package/libxfcegui4.md" >}}) | 234 | 234 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [licq]({{< ref "/f12/package/licq.md" >}}) | 30 | 30 | 100.0 | Slovak <sk@li.org> | 
- | [liveusb-creator]({{< ref "/f12/package/liveusb-creator.md" >}}) | 480 | 480 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [lxappearance]({{< ref "/f12/package/lxappearance.md" >}}) | 96 | 96 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxdm]({{< ref "/f12/package/lxdm.md" >}}) | 11 | 11 | 100.0 | LANGUAGE <LL@li.org> | 
- | [lxinput]({{< ref "/f12/package/lxinput.md" >}}) | 60 | 60 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxlauncher]({{< ref "/f12/package/lxlauncher.md" >}}) | 51 | 51 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxmusic]({{< ref "/f12/package/lxmusic.md" >}}) | 203 | 203 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxpanel]({{< ref "/f12/package/lxpanel.md" >}}) | 895 | 895 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxrandr]({{< ref "/f12/package/lxrandr.md" >}}) | 102 | 102 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxsession]({{< ref "/f12/package/lxsession.md" >}}) | 37 | 37 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxsession-edit]({{< ref "/f12/package/lxsession-edit.md" >}}) | 58 | 58 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxshortcut]({{< ref "/f12/package/lxshortcut.md" >}}) | 43 | 43 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxtask]({{< ref "/f12/package/lxtask.md" >}}) | 122 | 122 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lxterminal]({{< ref "/f12/package/lxterminal.md" >}}) | 129 | 129 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [lyx]({{< ref "/f12/package/lyx.md" >}}) | 14562 | 14562 | 100.0 | Slovenčina <lyx-docs@lists.lyx.org> | 
- | [metacity]({{< ref "/f12/package/metacity.md" >}}) | 3810 | 3810 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mingw32-atk]({{< ref "/f12/package/mingw32-atk.md" >}}) | 375 | 375 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [mingw32-binutils]({{< ref "/f12/package/mingw32-binutils.md" >}}) | 7582 | 7582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mingw32-gtkhtml3]({{< ref "/f12/package/mingw32-gtkhtml3.md" >}}) | 923 | 923 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mousepad]({{< ref "/f12/package/mousepad.md" >}}) | 135 | 135 | 100.0 | English <en@li.org> | 
- | [msp430-binutils]({{< ref "/f12/package/msp430-binutils.md" >}}) | 7010 | 7010 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [muine]({{< ref "/f12/package/muine.md" >}}) | 474 | 474 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [multimedia-menus]({{< ref "/f12/package/multimedia-menus.md" >}}) | 56 | 56 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [nautilus-open-terminal]({{< ref "/f12/package/nautilus-open-terminal.md" >}}) | 24 | 24 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [nautilus-sendto]({{< ref "/f12/package/nautilus-sendto.md" >}}) | 299 | 299 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ncmpc]({{< ref "/f12/package/ncmpc.md" >}}) | 683 | 683 | 100.0 | sk <sk@li.org> | 
- | [newt]({{< ref "/f12/package/newt.md" >}}) | 4 | 4 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [nicotine+]({{< ref "/f12/package/nicotine+.md" >}}) | 4141 | 4141 | 100.0 | Jozef Riha <jose1711@gmail.com> | 
- | [pam]({{< ref "/f12/package/pam.md" >}}) | 599 | 599 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [paprefs]({{< ref "/f12/package/paprefs.md" >}}) | 131 | 131 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [pessulus]({{< ref "/f12/package/pessulus.md" >}}) | 124 | 124 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [planner]({{< ref "/f12/package/planner.md" >}}) | 1744 | 1744 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pmount]({{< ref "/f12/package/pmount.md" >}}) | 723 | 723 | 100.0 | Slovak <sk@li.org> | 
- | [polkit-gnome]({{< ref "/f12/package/polkit-gnome.md" >}}) | 954 | 954 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pybliographer]({{< ref "/f12/package/pybliographer.md" >}}) | 613 | 613 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pykickstart]({{< ref "/f12/package/pykickstart.md" >}}) | 284 | 284 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [radiotray]({{< ref "/f12/package/radiotray.md" >}}) | 49 | 49 | 100.0 | Slovak | 
- | [redhat-menus]({{< ref "/f12/package/redhat-menus.md" >}}) | 261 | 261 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [rhpl]({{< ref "/f12/package/rhpl.md" >}}) | 185 | 185 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [sagator]({{< ref "/f12/package/sagator.md" >}}) | 147 | 147 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [setuptool]({{< ref "/f12/package/setuptool.md" >}}) | 55 | 55 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [shotwell]({{< ref "/f12/package/shotwell.md" >}}) | 1551 | 1551 | 100.0 | Ubuntu Slovak Translators <ubuntu-i18n@lists.linux.sk> | 
- | [smolt]({{< ref "/f12/package/smolt.md" >}}) | 966 | 966 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [sos]({{< ref "/f12/package/sos.md" >}}) | 267 | 267 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [sound-juicer]({{< ref "/f12/package/sound-juicer.md" >}}) | 704 | 704 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [spu-binutils]({{< ref "/f12/package/spu-binutils.md" >}}) | 7010 | 7010 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [switchdesk]({{< ref "/f12/package/switchdesk.md" >}}) | 139 | 139 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [sysstat]({{< ref "/f12/package/sysstat.md" >}}) | 234 | 234 | 100.0 | Slovak | 
- | [system-config-audit]({{< ref "/f12/package/system-config-audit.md" >}}) | 1241 | 1241 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-date]({{< ref "/f12/package/system-config-date.md" >}}) | 1750 | 1750 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-display]({{< ref "/f12/package/system-config-display.md" >}}) | 415 | 415 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-firewall]({{< ref "/f12/package/system-config-firewall.md" >}}) | 2630 | 2630 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-httpd]({{< ref "/f12/package/system-config-httpd.md" >}}) | 877 | 877 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-kdump]({{< ref "/f12/package/system-config-kdump.md" >}}) | 383 | 383 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-keyboard]({{< ref "/f12/package/system-config-keyboard.md" >}}) | 187 | 187 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-kickstart]({{< ref "/f12/package/system-config-kickstart.md" >}}) | 1039 | 1039 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-netboot]({{< ref "/f12/package/system-config-netboot.md" >}}) | 1135 | 1135 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-network]({{< ref "/f12/package/system-config-network.md" >}}) | 3022 | 3022 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-nfs]({{< ref "/f12/package/system-config-nfs.md" >}}) | 332 | 332 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-rootpassword]({{< ref "/f12/package/system-config-rootpassword.md" >}}) | 116 | 116 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-samba]({{< ref "/f12/package/system-config-samba.md" >}}) | 535 | 535 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-config-services]({{< ref "/f12/package/system-config-services.md" >}}) | 404 | 404 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-switch-java]({{< ref "/f12/package/system-switch-java.md" >}}) | 81 | 81 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [system-switch-mail]({{< ref "/f12/package/system-switch-mail.md" >}}) | 158 | 158 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [tasks]({{< ref "/f12/package/tasks.md" >}}) | 34 | 34 | 100.0 | Slovak <sk-i18n@linux.sk> | 
- | [totem-pl-parser]({{< ref "/f12/package/totem-pl-parser.md" >}}) | 28 | 28 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
- | [tucan]({{< ref "/f12/package/tucan.md" >}}) | 114 | 114 | 100.0 | kyberdev <kyberdev(at)gmail(dot)com> | 
- | [turba]({{< ref "/f12/package/turba.md" >}}) | 1708 | 1708 | 100.0 | Slovak <vix@vazka.sk> | 
- | [usermode]({{< ref "/f12/package/usermode.md" >}}) | 564 | 564 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [vdr-streamdev]({{< ref "/f12/package/vdr-streamdev.md" >}}) | 84 | 84 | 100.0 | Slovak <hrala.milan@gmail.com> | 
- | [vim]({{< ref "/f12/package/vim.md" >}}) | 7899 | 7899 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [vte]({{< ref "/f12/package/vte.md" >}}) | 108 | 108 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [wget]({{< ref "/f12/package/wget.md" >}}) | 2260 | 2260 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xdg-user-dirs-gtk]({{< ref "/f12/package/xdg-user-dirs-gtk.md" >}}) | 81 | 81 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xfce4-appfinder]({{< ref "/f12/package/xfce4-appfinder.md" >}}) | 84 | 84 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xfce4-icon-theme]({{< ref "/f12/package/xfce4-icon-theme.md" >}}) | 8 | 8 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xfce4-panel]({{< ref "/f12/package/xfce4-panel.md" >}}) | 540 | 540 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xfce4-settings]({{< ref "/f12/package/xfce4-settings.md" >}}) | 1138 | 1138 | 100.0 | slovak <sk-i18n@lists.linux.sk> | 
- | [xfdesktop]({{< ref "/f12/package/xfdesktop.md" >}}) | 1004 | 1004 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [yelp]({{< ref "/f12/package/yelp.md" >}}) | 645 | 645 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [zenity]({{< ref "/f12/package/zenity.md" >}}) | 582 | 582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [inkscape]({{< ref "/f12/package/inkscape.md" >}}) | 24019 | 24035 | 99.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gramps]({{< ref "/f12/package/gramps.md" >}}) | 25827 | 25850 | 99.9 | <sk-i18n@linux.sk> | 
- | [anaconda]({{< ref "/f12/package/anaconda.md" >}}) | 8869 | 8877 | 99.9 | Slovak <fedora-trans-sk@redhat.com> | 
- | [xmoto]({{< ref "/f12/package/xmoto.md" >}}) | 3523 | 3529 | 99.8 | <sk@li.org> | 
- | [ganyremote]({{< ref "/f12/package/ganyremote.md" >}}) | 517 | 518 | 99.8 | Slovak | 
- | [kanyremote]({{< ref "/f12/package/kanyremote.md" >}}) | 497 | 498 | 99.8 | Slovak | 
- | [isomaster]({{< ref "/f12/package/isomaster.md" >}}) | 672 | 674 | 99.7 | Slovak <sk@li.org> | 
- | [gconf-editor]({{< ref "/f12/package/gconf-editor.md" >}}) | 334 | 335 | 99.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xmlcopyeditor]({{< ref "/f12/package/xmlcopyeditor.md" >}}) | 2610 | 2618 | 99.7 | Viliam Búr <viliam@bur.sk> | 
- | [xfprint]({{< ref "/f12/package/xfprint.md" >}}) | 321 | 322 | 99.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gucharmap]({{< ref "/f12/package/gucharmap.md" >}}) | 779 | 782 | 99.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pidgin-otr]({{< ref "/f12/package/pidgin-otr.md" >}}) | 755 | 758 | 99.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [WindowMaker]({{< ref "/f12/package/WindowMaker.md" >}}) | 4993 | 5018 | 99.5 | Slovak <sk@li.org> | 
- | [Terminal]({{< ref "/f12/package/Terminal.md" >}}) | 1187 | 1193 | 99.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gcalctool]({{< ref "/f12/package/gcalctool.md" >}}) | 1122 | 1128 | 99.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [wammu]({{< ref "/f12/package/wammu.md" >}}) | 4257 | 4282 | 99.4 | <en@li.org> | 
- | [gnome-vfs2]({{< ref "/f12/package/gnome-vfs2.md" >}}) | 1499 | 1508 | 99.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [rhythmbox]({{< ref "/f12/package/rhythmbox.md" >}}) | 4158 | 4189 | 99.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-applets]({{< ref "/f12/package/gnome-applets.md" >}}) | 3339 | 3365 | 99.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-printer]({{< ref "/f12/package/system-config-printer.md" >}}) | 3003 | 3027 | 99.2 | Slovak <fedora-trans-sk@redhat.com> | 
- | [authconfig]({{< ref "/f12/package/authconfig.md" >}}) | 1345 | 1357 | 99.1 | Slovak <fedora-trans-sk@redhat.com> | 
- | [publican-fedora]({{< ref "/f12/package/publican-fedora.md" >}}) | 106 | 107 | 99.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [tigervnc]({{< ref "/f12/package/tigervnc.md" >}}) | 186 | 188 | 98.9 | Slovak <sk@li.org> | 
- | [GConf2]({{< ref "/f12/package/GConf2.md" >}}) | 3957 | 4004 | 98.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [poedit]({{< ref "/f12/package/poedit.md" >}}) | 1148 | 1162 | 98.8 | Slovak <ski18n@lists.linux.sk> | 
- | [gscan2pdf]({{< ref "/f12/package/gscan2pdf.md" >}}) | 1351 | 1368 | 98.8 | Slovak <sk@li.org> | 
- | [oggconvert]({{< ref "/f12/package/oggconvert.md" >}}) | 150 | 152 | 98.7 | Slovak <sk@li.org> | 
- | [gqview]({{< ref "/f12/package/gqview.md" >}}) | 1698 | 1721 | 98.7 | <sk@li.org> | 
- | [pcmanfm]({{< ref "/f12/package/pcmanfm.md" >}}) | 1499 | 1520 | 98.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gstreamer-plugins-good]({{< ref "/f12/package/gstreamer-plugins-good.md" >}}) | 739 | 750 | 98.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [subdownloader]({{< ref "/f12/package/subdownloader.md" >}}) | 938 | 953 | 98.4 | LANGUAGE <LL@li.org> | 
- | [gdm]({{< ref "/f12/package/gdm.md" >}}) | 1322 | 1344 | 98.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [stellarium]({{< ref "/f12/package/stellarium.md" >}}) | 2364 | 2407 | 98.2 | Slovak <sk@li.org> | 
- | [system-config-bind]({{< ref "/f12/package/system-config-bind.md" >}}) | 9250 | 9419 | 98.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [vodovod]({{< ref "/f12/package/vodovod.md" >}}) | 444 | 453 | 98.0 | Slovak <sk@li.org> | 
- | [xkeyboard-config]({{< ref "/f12/package/xkeyboard-config.md" >}}) | 1913 | 1952 | 98.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pidgin]({{< ref "/f12/package/pidgin.md" >}}) | 18262 | 18654 | 97.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [tomboy]({{< ref "/f12/package/tomboy.md" >}}) | 2551 | 2607 | 97.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [kmid]({{< ref "/f12/package/kmid.md" >}}) | 523 | 535 | 97.8 | Slovak <kde-i18n-doc@kde.org> | 
- | [xsane]({{< ref "/f12/package/xsane.md" >}}) | 3147 | 3224 | 97.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [passwd]({{< ref "/f12/package/passwd.md" >}}) | 291 | 299 | 97.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnomebaker]({{< ref "/f12/package/gnomebaker.md" >}}) | 1154 | 1186 | 97.3 | Slovak <sk@li.org> | 
- | [alexandria]({{< ref "/f12/package/alexandria.md" >}}) | 1149 | 1181 | 97.3 | Slovak <sk@li.org> | 
- | [filezilla]({{< ref "/f12/package/filezilla.md" >}}) | 8850 | 9102 | 97.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [dia]({{< ref "/f12/package/dia.md" >}}) | 6412 | 6606 | 97.1 | Slovenský <sk@li.org> | 
- | [leafpad]({{< ref "/f12/package/leafpad.md" >}}) | 121 | 125 | 96.8 | Slovak <sk-i18n@linux.sk> | 
- | [dpkg]({{< ref "/f12/package/dpkg.md" >}}) | 9685 | 10019 | 96.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [Thunar]({{< ref "/f12/package/Thunar.md" >}}) | 3730 | 3865 | 96.5 | Slovak <xfce-i18n@xfce.org> | 
- | [shutter]({{< ref "/f12/package/shutter.md" >}}) | 2666 | 2763 | 96.5 | Slovak <sk@li.org> | 
- | [kaffeine]({{< ref "/f12/package/kaffeine.md" >}}) | 489 | 507 | 96.4 | Slovak <kde-sk@linux.sk> | 
- | [kmess]({{< ref "/f12/package/kmess.md" >}}) | 7129 | 7402 | 96.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-users]({{< ref "/f12/package/system-config-users.md" >}}) | 1319 | 1370 | 96.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xfce4-clipman-plugin]({{< ref "/f12/package/xfce4-clipman-plugin.md" >}}) | 225 | 234 | 96.2 | slovak <sk-i18n@lists.linux.sk> | 
- | [parted]({{< ref "/f12/package/parted.md" >}}) | 4759 | 4960 | 95.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gstreamer]({{< ref "/f12/package/gstreamer.md" >}}) | 1633 | 1703 | 95.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [trackballs]({{< ref "/f12/package/trackballs.md" >}}) | 913 | 954 | 95.7 | Slovak <LL@li.org> | 
- | [system-config-lvm]({{< ref "/f12/package/system-config-lvm.md" >}}) | 2049 | 2142 | 95.7 | Slovak <sk-i18n@linux.sk> | 
- | [clamtk]({{< ref "/f12/package/clamtk.md" >}}) | 769 | 804 | 95.6 | Tomáš Vadina <kyberdev@gmail.com> | 
- | [libuser]({{< ref "/f12/package/libuser.md" >}}) | 1064 | 1114 | 95.5 | Slovak <fedora-trans-sk@redhat.com> | 
- | [indent]({{< ref "/f12/package/indent.md" >}}) | 258 | 272 | 94.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [soundtracker]({{< ref "/f12/package/soundtracker.md" >}}) | 1560 | 1648 | 94.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [picard]({{< ref "/f12/package/picard.md" >}}) | 1238 | 1310 | 94.5 | Slovak <sk@li.org> | 
- | [xlog]({{< ref "/f12/package/xlog.md" >}}) | 1358 | 1441 | 94.2 | slovak <sk-i18n@lists.linux.sk> | 
- | [bash]({{< ref "/f12/package/bash.md" >}}) | 9890 | 10495 | 94.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [tuxpaint]({{< ref "/f12/package/tuxpaint.md" >}}) | 714 | 761 | 93.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [glunarclock]({{< ref "/f12/package/glunarclock.md" >}}) | 212 | 226 | 93.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [bluefish]({{< ref "/f12/package/bluefish.md" >}}) | 2702 | 2882 | 93.8 | <sk@li.org> | 
- | [gstreamer-plugins-base]({{< ref "/f12/package/gstreamer-plugins-base.md" >}}) | 624 | 667 | 93.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [initscripts]({{< ref "/f12/package/initscripts.md" >}}) | 3962 | 4243 | 93.4 | Slovak <fedora-trans-sk@redhat.com> | 
- | [mingw32-gtk2]({{< ref "/f12/package/mingw32-gtk2.md" >}}) | 12410 | 13351 | 93.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gtk2]({{< ref "/f12/package/gtk2.md" >}}) | 12410 | 13358 | 92.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xdg-user-dirs]({{< ref "/f12/package/xdg-user-dirs.md" >}}) | 26 | 28 | 92.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pavucontrol]({{< ref "/f12/package/pavucontrol.md" >}}) | 219 | 237 | 92.4 | Slovak <fedora-trans-sk@redhat.com> | 
- | [lazarus]({{< ref "/f12/package/lazarus.md" >}}) | 14207 | 15570 | 91.2 | Slovenský <sk@li.org> | 
- | [audacity]({{< ref "/f12/package/audacity.md" >}}) | 8778 | 9628 | 91.2 | SK <martinveselovsky@centrum.sk> | 
- | [xfce-utils]({{< ref "/f12/package/xfce-utils.md" >}}) | 119 | 131 | 90.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [totem]({{< ref "/f12/package/totem.md" >}}) | 2483 | 2734 | 90.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [system-config-language]({{< ref "/f12/package/system-config-language.md" >}}) | 293 | 323 | 90.7 | Slovak <fedora-trans-sk@redhat.com> | 
- | [hugin]({{< ref "/f12/package/hugin.md" >}}) | 4811 | 5329 | 90.3 | Slovak <sk@li.org> | 
- | [gimp]({{< ref "/f12/package/gimp.md" >}}) | 19406 | 21544 | 90.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [asunder]({{< ref "/f12/package/asunder.md" >}}) | 403 | 450 | 89.6 | Tomáš Vadina <kyberdev@gmail.com> | 
- | [xfce4-mpc-plugin]({{< ref "/f12/package/xfce4-mpc-plugin.md" >}}) | 71 | 80 | 88.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [midori]({{< ref "/f12/package/midori.md" >}}) | 2034 | 2292 | 88.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ristretto]({{< ref "/f12/package/ristretto.md" >}}) | 165 | 187 | 88.2 | Slovak <sk-i18n@linux.sk> | 
- | [NetworkManager]({{< ref "/f12/package/NetworkManager.md" >}}) | 1171 | 1334 | 87.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-globalmenu]({{< ref "/f12/package/gnome-globalmenu.md" >}}) | 283 | 325 | 87.1 | Slovak <sk@li.org> | 
- | [kbackup]({{< ref "/f12/package/kbackup.md" >}}) | 462 | 533 | 86.7 | Slovak | 
- | [glade2]({{< ref "/f12/package/glade2.md" >}}) | 5050 | 5840 | 86.5 | Slovak <sk-i18n@linux.sk> | 
- | [krusader]({{< ref "/f12/package/krusader.md" >}}) | 6549 | 7580 | 86.4 | Slovak <kde-sk@linux.sk> | 
- | [gnome-do]({{< ref "/f12/package/gnome-do.md" >}}) | 404 | 470 | 86.0 | Slovak <sk@li.org> | 
- | [kpackagekit]({{< ref "/f12/package/kpackagekit.md" >}}) | 3048 | 3557 | 85.7 | Slovak <kde-sk@linux.sk> | 
- | [gallery2]({{< ref "/f12/package/gallery2.md" >}}) | 15239 | 17793 | 85.6 | Slovak <gallery-devel@lists.sourceforge.net> | 
- | [xmms]({{< ref "/f12/package/xmms.md" >}}) | 2930 | 3443 | 85.1 | Slovak <pcernak@naex.sk> | 
- | [gnome-utils]({{< ref "/f12/package/gnome-utils.md" >}}) | 3670 | 4314 | 85.1 | Slovak <sk-i18n@linux.sk> | 
- | [phatch]({{< ref "/f12/package/phatch.md" >}}) | 2167 | 2553 | 84.9 | Slovak <sk@li.org> | 
- | [gnome-pilot-conduits]({{< ref "/f12/package/gnome-pilot-conduits.md" >}}) | 177 | 209 | 84.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [liferea]({{< ref "/f12/package/liferea.md" >}}) | 2034 | 2411 | 84.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [sed]({{< ref "/f12/package/sed.md" >}}) | 490 | 581 | 84.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xine-ui]({{< ref "/f12/package/xine-ui.md" >}}) | 2507 | 2975 | 84.3 | Slovak <sk-i18n@list.linux.sk> | 
- | [pootle]({{< ref "/f12/package/pootle.md" >}}) | 2981 | 3562 | 83.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [freedink]({{< ref "/f12/package/freedink.md" >}}) | 66 | 79 | 83.5 | Slovak <sk-i18n@rak.isternet.sk> | 
- | [ksig]({{< ref "/f12/package/ksig.md" >}}) | 71 | 85 | 83.5 | Slovak <kde-i18n-doc@kde.org> | 
- | [gettext]({{< ref "/f12/package/gettext.md" >}}) | 5695 | 6844 | 83.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mingw32-gettext]({{< ref "/f12/package/mingw32-gettext.md" >}}) | 5695 | 6844 | 83.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mtpaint]({{< ref "/f12/package/mtpaint.md" >}}) | 2549 | 3065 | 83.2 | Slovak <sk@li.org> | 
- | [vino]({{< ref "/f12/package/vino.md" >}}) | 825 | 993 | 83.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [rabbitvcs]({{< ref "/f12/package/rabbitvcs.md" >}}) | 771 | 931 | 82.8 | Slovak <sk@li.org> | 
- | [Miro]({{< ref "/f12/package/Miro.md" >}}) | 2750 | 3336 | 82.4 | Slovak <sk@li.org> | 
- | [ekiga]({{< ref "/f12/package/ekiga.md" >}}) | 3973 | 4822 | 82.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pidgin-guifications]({{< ref "/f12/package/pidgin-guifications.md" >}}) | 415 | 505 | 82.2 | Slovak | 
- | [workrave]({{< ref "/f12/package/workrave.md" >}}) | 959 | 1175 | 81.6 | Slovak | 
- | [compiz]({{< ref "/f12/package/compiz.md" >}}) | 2668 | 3279 | 81.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [sabayon]({{< ref "/f12/package/sabayon.md" >}}) | 604 | 743 | 81.3 | Slovak <gnome-sk-list@gnome.org> | 
- | [moin]({{< ref "/f12/package/moin.md" >}}) | 3642 | 4526 | 80.5 |  | 
- | [wxPython]({{< ref "/f12/package/wxPython.md" >}}) | 6874 | 8642 | 79.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [sonata]({{< ref "/f12/package/sonata.md" >}}) | 900 | 1136 | 79.2 | Slovak <sk-i18n@linux.sk> | 
- | [mutter]({{< ref "/f12/package/mutter.md" >}}) | 3442 | 4362 | 78.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [openbox]({{< ref "/f12/package/openbox.md" >}}) | 397 | 504 | 78.8 | Slovak <sk@sk.org> | 
- | [quodlibet]({{< ref "/f12/package/quodlibet.md" >}}) | 1546 | 2001 | 77.3 | Slovak <sk@li.org> | 
- | [wesnoth]({{< ref "/f12/package/wesnoth.md" >}}) | 163711 | 212636 | 77.0 | none | 
- | [xchat-gnome]({{< ref "/f12/package/xchat-gnome.md" >}}) | 2993 | 3901 | 76.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gajim]({{< ref "/f12/package/gajim.md" >}}) | 8028 | 10564 | 76.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-applet-window-picker]({{< ref "/f12/package/gnome-applet-window-picker.md" >}}) | 22 | 29 | 75.9 | Slovak | 
- | [policycoreutils]({{< ref "/f12/package/policycoreutils.md" >}}) | 1114 | 1470 | 75.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [kpilot]({{< ref "/f12/package/kpilot.md" >}}) | 5393 | 7156 | 75.4 | Slovak <kde-sk@linux.sk> | 
- | [tracker]({{< ref "/f12/package/tracker.md" >}}) | 1300 | 1728 | 75.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [compat-libgda]({{< ref "/f12/package/compat-libgda.md" >}}) | 1717 | 2287 | 75.1 | Slovak <sk-i18n@linux.sk> | 
- | [bauble]({{< ref "/f12/package/bauble.md" >}}) | 1527 | 2039 | 74.9 | Slovak <sk@li.org> | 
- | [parole]({{< ref "/f12/package/parole.md" >}}) | 327 | 439 | 74.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [wxGTK]({{< ref "/f12/package/wxGTK.md" >}}) | 4749 | 6391 | 74.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xfce4-power-manager]({{< ref "/f12/package/xfce4-power-manager.md" >}}) | 515 | 694 | 74.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mailman]({{< ref "/f12/package/mailman.md" >}}) | 16242 | 21904 | 74.2 | Slovak | 
- | [konq-plugins]({{< ref "/f12/package/konq-plugins.md" >}}) | 1250 | 1692 | 73.9 | Slovak <kde-sk@linux.sk> | 
- | [gcompris]({{< ref "/f12/package/gcompris.md" >}}) | 7131 | 9716 | 73.4 | Slovak | 
- | [amarok]({{< ref "/f12/package/amarok.md" >}}) | 8772 | 12039 | 72.9 | Slovak <kde-sk@linux.sk> | 
- | [gxmessage]({{< ref "/f12/package/gxmessage.md" >}}) | 177 | 243 | 72.8 | slovak <matis@hq.sk> | 
- | [xfwm4]({{< ref "/f12/package/xfwm4.md" >}}) | 580 | 797 | 72.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libktorrent]({{< ref "/f12/package/libktorrent.md" >}}) | 303 | 417 | 72.7 | Slovak <kde-sk@linux.sk> | 
- | [tangogps]({{< ref "/f12/package/tangogps.md" >}}) | 413 | 570 | 72.5 | Slovenský <> | 
- | [shadow-utils]({{< ref "/f12/package/shadow-utils.md" >}}) | 2325 | 3221 | 72.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [libexif]({{< ref "/f12/package/libexif.md" >}}) | 4985 | 6968 | 71.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-power-manager]({{< ref "/f12/package/gnome-power-manager.md" >}}) | 1971 | 2786 | 70.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [k3b]({{< ref "/f12/package/k3b.md" >}}) | 14562 | 20621 | 70.6 | Slovak <sk@li.org> | 
- | [python-formencode]({{< ref "/f12/package/python-formencode.md" >}}) | 540 | 765 | 70.6 | sk <LL@li.org> | 
- | [gnumeric]({{< ref "/f12/package/gnumeric.md" >}}) | 32346 | 46374 | 69.8 | Slovak <sk-i18n@linux.sk> | 
- | [nautilus]({{< ref "/f12/package/nautilus.md" >}}) | 5640 | 8144 | 69.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gliv]({{< ref "/f12/package/gliv.md" >}}) | 688 | 1008 | 68.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ktorrent]({{< ref "/f12/package/ktorrent.md" >}}) | 5145 | 7562 | 68.0 | Slovak <kde-sk@linux.sk> | 
- | [partimage]({{< ref "/f12/package/partimage.md" >}}) | 1955 | 2882 | 67.8 | Slovak <sk@li.org> | 
- | [ailurus]({{< ref "/f12/package/ailurus.md" >}}) | 5340 | 7899 | 67.6 | none | 
- | [evolution-data-server]({{< ref "/f12/package/evolution-data-server.md" >}}) | 2991 | 4501 | 66.5 | Slovak <sk-i18n@linux.sk> | 
- | [jokosher]({{< ref "/f12/package/jokosher.md" >}}) | 1353 | 2059 | 65.7 | Slovak <sk@li.org> | 
- | [xfce4-session]({{< ref "/f12/package/xfce4-session.md" >}}) | 643 | 990 | 64.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [pyroom]({{< ref "/f12/package/pyroom.md" >}}) | 266 | 411 | 64.7 | Slovak <sk@li.org> | 
- | [gnome-hearts]({{< ref "/f12/package/gnome-hearts.md" >}}) | 264 | 409 | 64.5 | Slovak <sk@li.org> | 
- | [gurlchecker]({{< ref "/f12/package/gurlchecker.md" >}}) | 1333 | 2083 | 64.0 | Slovak <sk-i18n@linux.sk> | 
- | [gigolo]({{< ref "/f12/package/gigolo.md" >}}) | 318 | 500 | 63.6 | slovak <sk-i18n@lists.linux.sk> | 
- | [sylpheed]({{< ref "/f12/package/sylpheed.md" >}}) | 4004 | 6326 | 63.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [soundconverter]({{< ref "/f12/package/soundconverter.md" >}}) | 279 | 450 | 62.0 | Slovak <sk@li.org> | 
- | [stardict]({{< ref "/f12/package/stardict.md" >}}) | 1500 | 2440 | 61.5 | <sk-i18n@lists.linux.sk> | 
- | [bittorrent]({{< ref "/f12/package/bittorrent.md" >}}) | 2394 | 3906 | 61.3 | LANGUAGE <LL@li.org> | 
- | [gedit]({{< ref "/f12/package/gedit.md" >}}) | 3018 | 4948 | 61.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [homebank]({{< ref "/f12/package/homebank.md" >}}) | 914 | 1507 | 60.7 | Slovak <sk@li.org> | 
- | [gmfsk]({{< ref "/f12/package/gmfsk.md" >}}) | 811 | 1340 | 60.5 | slovak <sk-i18n@lists.linux.sk> | 
- | [squirrelmail]({{< ref "/f12/package/squirrelmail.md" >}}) | 4123 | 6878 | 59.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xiphos]({{< ref "/f12/package/xiphos.md" >}}) | 2270 | 3815 | 59.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [icewm]({{< ref "/f12/package/icewm.md" >}}) | 818 | 1376 | 59.4 | slovak <sk-i18n@lists.linux.sk> | 
- | [konversation]({{< ref "/f12/package/konversation.md" >}}) | 5844 | 9844 | 59.4 | Slovak <kde-sk@linux.sk> | 
- | [exo]({{< ref "/f12/package/exo.md" >}}) | 939 | 1598 | 58.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [geeqie]({{< ref "/f12/package/geeqie.md" >}}) | 1695 | 2909 | 58.3 | <sk@li.org> | 
- | [xchm]({{< ref "/f12/package/xchm.md" >}}) | 142 | 245 | 58.0 | Slovak <vvasil@post.sk> | 
- | [transmission]({{< ref "/f12/package/transmission.md" >}}) | 944 | 1642 | 57.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [f-spot]({{< ref "/f12/package/f-spot.md" >}}) | 1860 | 3277 | 56.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gphoto2]({{< ref "/f12/package/gphoto2.md" >}}) | 832 | 1486 | 56.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gok]({{< ref "/f12/package/gok.md" >}}) | 1085 | 1942 | 55.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnotime]({{< ref "/f12/package/gnotime.md" >}}) | 1087 | 2008 | 54.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [chmsee]({{< ref "/f12/package/chmsee.md" >}}) | 105 | 194 | 54.1 | Slovak <sk@li.org> | 
- | [digikam]({{< ref "/f12/package/digikam.md" >}}) | 12427 | 23446 | 53.0 | Slovak <kde-sk@linux.sk> | 
- | [mingw32-glib2]({{< ref "/f12/package/mingw32-glib2.md" >}}) | 1302 | 2463 | 52.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [glib2]({{< ref "/f12/package/glib2.md" >}}) | 1296 | 2453 | 52.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xcdroast]({{< ref "/f12/package/xcdroast.md" >}}) | 4191 | 8044 | 52.1 | Slovak | 
- | [gcombust]({{< ref "/f12/package/gcombust.md" >}}) | 2088 | 4009 | 52.1 | Slovak <sk@li.org> | 
- | [gnupg]({{< ref "/f12/package/gnupg.md" >}}) | 4449 | 8623 | 51.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [rednotebook]({{< ref "/f12/package/rednotebook.md" >}}) | 534 | 1044 | 51.1 | Slovak <sk@li.org> | 
- | [exiv2]({{< ref "/f12/package/exiv2.md" >}}) | 9996 | 20011 | 50.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [rapid-photo-downloader]({{< ref "/f12/package/rapid-photo-downloader.md" >}}) | 755 | 1567 | 48.2 | Slovak <sk@li.org> | 
- | [listen]({{< ref "/f12/package/listen.md" >}}) | 855 | 1783 | 48.0 | Slovak <sk@li.org> | 
- | [goffice]({{< ref "/f12/package/goffice.md" >}}) | 1892 | 3990 | 47.4 | Slovak <sk-i18n@linux.sk> | 
- | [scim]({{< ref "/f12/package/scim.md" >}}) | 540 | 1165 | 46.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [exaile]({{< ref "/f12/package/exaile.md" >}}) | 1123 | 2425 | 46.3 | Slovak <sk@li.org> | 
- | [galculator]({{< ref "/f12/package/galculator.md" >}}) | 362 | 798 | 45.4 | Slovak <sk-i18n@linux.sk> | 
- | [xfce4-weather-plugin]({{< ref "/f12/package/xfce4-weather-plugin.md" >}}) | 242 | 555 | 43.6 | Slovak <xfce-i18n@xfce.org> | 
- | [tilda]({{< ref "/f12/package/tilda.md" >}}) | 171 | 396 | 43.2 | Slovak <sk@li.org> | 
- | [avogadro]({{< ref "/f12/package/avogadro.md" >}}) | 1891 | 4418 | 42.8 | Slovak <sk@li.org> | 
- | [me-tv]({{< ref "/f12/package/me-tv.md" >}}) | 839 | 1961 | 42.8 | Slovak <sk@li.org> | 
- | [mutt]({{< ref "/f12/package/mutt.md" >}}) | 2250 | 5353 | 42.0 | Slovak <sk@li.org> | 
- | [system-config-boot]({{< ref "/f12/package/system-config-boot.md" >}}) | 50 | 119 | 42.0 | Slovak <fedora-trans-sk@redhat.com> | 
- | [gnome-bluetooth]({{< ref "/f12/package/gnome-bluetooth.md" >}}) | 215 | 514 | 41.8 | Slovak <sk@li.org> | 
- | [calibre]({{< ref "/f12/package/calibre.md" >}}) | 4907 | 12103 | 40.5 | Slovak <sk@li.org> | 
- | [kBuild]({{< ref "/f12/package/kBuild.md" >}}) | 204 | 505 | 40.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [evolution]({{< ref "/f12/package/evolution.md" >}}) | 8224 | 21955 | 37.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [seahorse]({{< ref "/f12/package/seahorse.md" >}}) | 854 | 2304 | 37.1 | Slovak <sk-i18n@linux.sk> | 
- | [seahorse-plugins]({{< ref "/f12/package/seahorse-plugins.md" >}}) | 854 | 2304 | 37.1 | Slovak <sk-i18n@linux.sk> | 
- | [audacious]({{< ref "/f12/package/audacious.md" >}}) | 479 | 1297 | 36.9 | Default (i18n-default@i18n.atheme.org) | 
- | [dc3dd]({{< ref "/f12/package/dc3dd.md" >}}) | 344 | 932 | 36.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [terminator]({{< ref "/f12/package/terminator.md" >}}) | 80 | 218 | 36.7 | Slovak <sk@li.org> | 
- | [blueman]({{< ref "/f12/package/blueman.md" >}}) | 490 | 1376 | 35.6 | Slovak <sk@li.org> | 
- | [showimg]({{< ref "/f12/package/showimg.md" >}}) | 1452 | 4305 | 33.7 | Slovak | 
- | [gourmet]({{< ref "/f12/package/gourmet.md" >}}) | 1203 | 3647 | 33.0 | Slovak <sk@li.org> | 
- | [pgadmin3]({{< ref "/f12/package/pgadmin3.md" >}}) | 2947 | 9006 | 32.7 | Slovak <sk-i18n@linux.sk> | 
- | [libgdl]({{< ref "/f12/package/libgdl.md" >}}) | 223 | 685 | 32.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [ntfs-config]({{< ref "/f12/package/ntfs-config.md" >}}) | 116 | 357 | 32.5 | Slovak <sk@li.org> | 
- | [findutils]({{< ref "/f12/package/findutils.md" >}}) | 677 | 2105 | 32.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [audacious-plugins]({{< ref "/f12/package/audacious-plugins.md" >}}) | 2842 | 8861 | 32.1 |  | 
- | [anjuta]({{< ref "/f12/package/anjuta.md" >}}) | 2237 | 7069 | 31.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [orage]({{< ref "/f12/package/orage.md" >}}) | 667 | 2110 | 31.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnupg2]({{< ref "/f12/package/gnupg2.md" >}}) | 3266 | 10432 | 31.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [fuse-encfs]({{< ref "/f12/package/fuse-encfs.md" >}}) | 411 | 1315 | 31.3 | Slovak <sk@li.org> | 
- | [publican]({{< ref "/f12/package/publican.md" >}}) | 332 | 1094 | 30.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [coreutils]({{< ref "/f12/package/coreutils.md" >}}) | 5554 | 18344 | 30.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [fetchmail]({{< ref "/f12/package/fetchmail.md" >}}) | 1263 | 4231 | 29.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [evolution-exchange]({{< ref "/f12/package/evolution-exchange.md" >}}) | 580 | 1949 | 29.8 | Slovak <sk-i18n@lists.linux.sk> | 
- | [boinc-client]({{< ref "/f12/package/boinc-client.md" >}}) | 2207 | 7593 | 29.1 | BOINC SK | 
- | [tuxmath]({{< ref "/f12/package/tuxmath.md" >}}) | 288 | 1051 | 27.4 |  | 
- | [notecase]({{< ref "/f12/package/notecase.md" >}}) | 314 | 1156 | 27.2 | slovenčina | 
- | [NetworkManager-openvpn]({{< ref "/f12/package/NetworkManager-openvpn.md" >}}) | 105 | 388 | 27.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnomeradio]({{< ref "/f12/package/gnomeradio.md" >}}) | 118 | 443 | 26.6 | SK <SK@li.org> | 
- | [gftp]({{< ref "/f12/package/gftp.md" >}}) | 898 | 3375 | 26.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [xine-lib]({{< ref "/f12/package/xine-lib.md" >}}) | 3096 | 11725 | 26.4 | Slovak <ski18n@lists.isternet.sk> | 
- | [cinepaint]({{< ref "/f12/package/cinepaint.md" >}}) | 1942 | 7405 | 26.2 | Slovak <sk-i18n@lists.linux.sk> | 
- | [perl-SVK]({{< ref "/f12/package/perl-SVK.md" >}}) | 3437 | 13584 | 25.3 | LANGUAGE <LL@li.org> | 
- | [elinks]({{< ref "/f12/package/elinks.md" >}}) | 2832 | 12234 | 23.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnome-doc-utils]({{< ref "/f12/package/gnome-doc-utils.md" >}}) | 46 | 201 | 22.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [avant-window-navigator]({{< ref "/f12/package/avant-window-navigator.md" >}}) | 378 | 1655 | 22.8 | Slovak <sk@li.org> | 
- | [tar]({{< ref "/f12/package/tar.md" >}}) | 702 | 3247 | 21.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gutenprint]({{< ref "/f12/package/gutenprint.md" >}}) | 1955 | 9349 | 20.9 | Slovak <sk-i18n@lists.linux.sk> | 
- | [abrt]({{< ref "/f12/package/abrt.md" >}}) | 304 | 1588 | 19.1 | Slovak <fedora-trans-sk@redhat.com> | 
- | [dayplanner]({{< ref "/f12/package/dayplanner.md" >}}) | 212 | 1112 | 19.1 | Slovak <sk-i18n@linux.sk> | 
- | [rpm]({{< ref "/f12/package/rpm.md" >}}) | 716 | 3898 | 18.4 | Slovak <sk-i18n@rak.isternet.sk> | 
- | [wormux]({{< ref "/f12/package/wormux.md" >}}) | 319 | 1916 | 16.6 | sk <stryco@gmail.com> | 
- | [griffith]({{< ref "/f12/package/griffith.md" >}}) | 301 | 1876 | 16.0 | Slovak <sk@li.org> | 
- | [kde-plasma-yawp]({{< ref "/f12/package/kde-plasma-yawp.md" >}}) | 629 | 3982 | 15.8 | Slovak <kde-sk@linux.sk> | 
- | [gnome-games]({{< ref "/f12/package/gnome-games.md" >}}) | 1304 | 8291 | 15.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gbirthday]({{< ref "/f12/package/gbirthday.md" >}}) | 19 | 122 | 15.6 |  | 
- | [rhn-client-tools]({{< ref "/f12/package/rhn-client-tools.md" >}}) | 750 | 4820 | 15.6 | Slovak <sk-i18n@lists.linux.sk> | 
- | [nautilus-pastebin]({{< ref "/f12/package/nautilus-pastebin.md" >}}) | 13 | 84 | 15.5 | Slovak <sk@li.org> | 
- | [gnome-commander]({{< ref "/f12/package/gnome-commander.md" >}}) | 1068 | 7896 | 13.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gnokii]({{< ref "/f12/package/gnokii.md" >}}) | 720 | 5326 | 13.5 | gnokii | 
- | [pan]({{< ref "/f12/package/pan.md" >}}) | 304 | 2288 | 13.3 | Slovak <sk-i18n@lists.linux.sk> | 
- | [phpldapadmin]({{< ref "/f12/package/phpldapadmin.md" >}}) | 447 | 3441 | 13.0 | Slovak <sk@li.org> | 
- | [iso-codes]({{< ref "/f12/package/iso-codes.md" >}}) | 2365 | 19375 | 12.2 | Slovak | 
- | [manaworld]({{< ref "/f12/package/manaworld.md" >}}) | 301 | 2484 | 12.1 | Slovak <sk@li.org> | 
- | [e16]({{< ref "/f12/package/e16.md" >}}) | 318 | 2785 | 11.4 | Slovak <sk@li.org> | 
- | [xfce4-eyes-plugin]({{< ref "/f12/package/xfce4-eyes-plugin.md" >}}) | 1 | 9 | 11.1 | Slovak <sk@li.org> | 
- | [kmymoney2]({{< ref "/f12/package/kmymoney2.md" >}}) | 1845 | 16796 | 11.0 | slovenský <sk@li.org> | 
- | [popt]({{< ref "/f12/package/popt.md" >}}) | 8 | 75 | 10.7 | Slovak <sk-i18n@rak.isternet.sk> | 
- | [gnomint]({{< ref "/f12/package/gnomint.md" >}}) | 469 | 4412 | 10.6 | Slovak <sk@li.org> | 
- | [kdbg]({{< ref "/f12/package/kdbg.md" >}}) | 86 | 866 | 9.9 | Slovak <bednar@isternet.sk> | 
- | [qbzr]({{< ref "/f12/package/qbzr.md" >}}) | 127 | 1281 | 9.9 | Slovak <sk@li.org> | 
- | [kipi-plugins]({{< ref "/f12/package/kipi-plugins.md" >}}) | 1267 | 15328 | 8.3 | Slovak <kde-sk@linux.sk> | 
- | [xscreensaver]({{< ref "/f12/package/xscreensaver.md" >}}) | 784 | 11190 | 7.0 | Slovak <sk-i18n@lists.linux.sk> | 
- | [widelands]({{< ref "/f12/package/widelands.md" >}}) | 981 | 17294 | 5.7 | LANGUAGE <LL@li.org> | 
- | [resapplet]({{< ref "/f12/package/resapplet.md" >}}) | 6 | 106 | 5.7 | <LL@li.org> | 
- | [libvirt]({{< ref "/f12/package/libvirt.md" >}}) | 1103 | 20183 | 5.5 | none | 
- | [libgweather]({{< ref "/f12/package/libgweather.md" >}}) | 482 | 10235 | 4.7 | Slovak <sk-i18n@lists.linux.sk> | 
- | [mingw32-iconv]({{< ref "/f12/package/mingw32-iconv.md" >}}) | 15 | 336 | 4.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [tuxpaint-stamps]({{< ref "/f12/package/tuxpaint-stamps.md" >}}) | 116 | 2617 | 4.4 | LANGUAGE <LL@li.org> | 
- | [smb4k]({{< ref "/f12/package/smb4k.md" >}}) | 233 | 6580 | 3.5 | Slovak <sk@li.org> | 
- | [aria2]({{< ref "/f12/package/aria2.md" >}}) | 154 | 4630 | 3.3 | Slovak <sk@li.org> | 
- | [kcoloredit]({{< ref "/f12/package/kcoloredit.md" >}}) | 8 | 278 | 2.9 | Slovak <kde-sk@linux.sk> | 
- | [sugar-turtleart]({{< ref "/f12/package/sugar-turtleart.md" >}}) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
- | [glade3]({{< ref "/f12/package/glade3.md" >}}) | 30 | 1451 | 2.1 | Slovak <sk-i18n@lists.linux.sk> | 
- | [awn-extras-applets]({{< ref "/f12/package/awn-extras-applets.md" >}}) | 148 | 7228 | 2.0 | Slovak <sk@li.org> | 
- | [libgda]({{< ref "/f12/package/libgda.md" >}}) | 98 | 5237 | 1.9 | Slovak <sk-i18n@linux.sk> | 
- | [transifex]({{< ref "/f12/package/transifex.md" >}}) | 28 | 1973 | 1.4 | Slovak <sk-i18n@lists.linux.sk> | 
- | [specspo]({{< ref "/f12/package/specspo.md" >}}) | 1496 | 305294 | 0.5 | Slovak <sk-i18n@lists.linux.sk> | 
- | [gammu]({{< ref "/f12/package/gammu.md" >}}) | 48 | 13273 | 0.4 | none | 
- | [vidalia]({{< ref "/f12/package/vidalia.md" >}}) | 3 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
- | [imsettings]({{< ref "/f12/package/imsettings.md" >}}) | 0 | 979 | 0.0 | none | 
- | [kdissert]({{< ref "/f12/package/kdissert.md" >}}) | 0 | 2027 | 0.0 | Slovak <sk@li.org> | 
- | [kerry]({{< ref "/f12/package/kerry.md" >}}) | 0 | 702 | 0.0 | Slovak <sk@li.org> | 
- | [kexec-tools]({{< ref "/f12/package/kexec-tools.md" >}}) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
- | [kftpgrabber]({{< ref "/f12/package/kftpgrabber.md" >}}) | 0 | 2237 | 0.0 | Slovak <sk@li.org> | 
- | [kgrab]({{< ref "/f12/package/kgrab.md" >}}) | 0 | 370 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [kile]({{< ref "/f12/package/kile.md" >}}) | 0 | 10952 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [kio_gopher]({{< ref "/f12/package/kio_gopher.md" >}}) | 0 | 17 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [kmplayer]({{< ref "/f12/package/kmplayer.md" >}}) | 0 | 1248 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [knemo]({{< ref "/f12/package/knemo.md" >}}) | 0 | 1103 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [knetstats]({{< ref "/f12/package/knetstats.md" >}}) | 0 | 119 | 0.0 | Slovak <sk@li.org> | 
- | [kopete-cryptography]({{< ref "/f12/package/kopete-cryptography.md" >}}) | 0 | 408 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [kphotoalbum]({{< ref "/f12/package/kphotoalbum.md" >}}) | 0 | 6333 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [kst]({{< ref "/f12/package/kst.md" >}}) | 0 | 7446 | 0.0 | Slovak <sk@li.org> | 
- | [kwebkitpart]({{< ref "/f12/package/kwebkitpart.md" >}}) | 0 | 477 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [libgxim]({{< ref "/f12/package/libgxim.md" >}}) | 0 | 130 | 0.0 | none | 
- | [libkexif]({{< ref "/f12/package/libkexif.md" >}}) | 0 | 25 | 0.0 | Slovak <sk@li.org> | 
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | 0 | 0 | 0.0 |  | 
- | [olpc-switch-desktop]({{< ref "/f12/package/olpc-switch-desktop.md" >}}) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
- | [polkit-kde]({{< ref "/f12/package/polkit-kde.md" >}}) | 0 | 82 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [revisor]({{< ref "/f12/package/revisor.md" >}}) | 0 | 4171 | 0.0 |  | 
- | [rhnsd]({{< ref "/f12/package/rhnsd.md" >}}) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
- | [rsibreak]({{< ref "/f12/package/rsibreak.md" >}}) | 0 | 1223 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [sectool]({{< ref "/f12/package/sectool.md" >}}) | 0 | 2411 | 0.0 | none | 
- | [setroubleshoot]({{< ref "/f12/package/setroubleshoot.md" >}}) | 0 | 606 | 0.0 | LANGUAGE <LL@li.org> | 
- | [setroubleshoot-plugins]({{< ref "/f12/package/setroubleshoot-plugins.md" >}}) | 0 | 8755 | 0.0 | LANGUAGE <LL@li.org> | 
- | [skanlite]({{< ref "/f12/package/skanlite.md" >}}) | 0 | 142 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [skrooge]({{< ref "/f12/package/skrooge.md" >}}) | 0 | 5141 | 0.0 | Slovak <kde-sk@linux.sk> | 
- | [sugar-browse]({{< ref "/f12/package/sugar-browse.md" >}}) | 0 | 55 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-calculator]({{< ref "/f12/package/sugar-calculator.md" >}}) | 0 | 565 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-chat]({{< ref "/f12/package/sugar-chat.md" >}}) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-distance]({{< ref "/f12/package/sugar-distance.md" >}}) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-finance]({{< ref "/f12/package/sugar-finance.md" >}}) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-imageviewer]({{< ref "/f12/package/sugar-imageviewer.md" >}}) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-infoslicer]({{< ref "/f12/package/sugar-infoslicer.md" >}}) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f12/package/sugar-jukebox.md" >}}) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-log]({{< ref "/f12/package/sugar-log.md" >}}) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-memorize]({{< ref "/f12/package/sugar-memorize.md" >}}) | 0 | 50 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f12/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-pippy]({{< ref "/f12/package/sugar-pippy.md" >}}) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-playgo]({{< ref "/f12/package/sugar-playgo.md" >}}) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-read]({{< ref "/f12/package/sugar-read.md" >}}) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-record]({{< ref "/f12/package/sugar-record.md" >}}) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-terminal]({{< ref "/f12/package/sugar-terminal.md" >}}) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-view-slides]({{< ref "/f12/package/sugar-view-slides.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f12/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f12/package/sugar-write.md" >}}) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-date-docs]({{< ref "/f12/package/system-config-date-docs.md" >}}) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-nfs-docs]({{< ref "/f12/package/system-config-nfs-docs.md" >}}) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-samba-docs]({{< ref "/f12/package/system-config-samba-docs.md" >}}) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-services-docs]({{< ref "/f12/package/system-config-services-docs.md" >}}) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-users-docs]({{< ref "/f12/package/system-config-users-docs.md" >}}) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
- | [system-config-vsftpd]({{< ref "/f12/package/system-config-vsftpd.md" >}}) | 0 | 16 | 0.0 | Czech <translation-team-cs@lists.sourceforge.net> | 
- | [yum-rhn-plugin]({{< ref "/f12/package/yum-rhn-plugin.md" >}}) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [Django](/f12/package/Django) | 3715 | 3715 | 100.0 | Slovak <> | 
+ | [ORBit](/f12/package/ORBit) | 8 | 8 | 100.0 | Slovak <sk-i18n@rak.isternet.sk> | 
+ | [PackageKit](/f12/package/PackageKit) | 1590 | 1590 | 100.0 | Fedora Project <fedora-cs-list@redhat.com> | 
+ | [alacarte](/f12/package/alacarte) | 42 | 42 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [alleyoop](/f12/package/alleyoop) | 348 | 348 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [arm-gp2x-linux-glibc](/f12/package/arm-gp2x-linux-glibc) | 6326 | 6326 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [aspell](/f12/package/aspell) | 1726 | 1726 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [at-spi](/f12/package/at-spi) | 15 | 15 | 100.0 | Slovak | 
+ | [atk](/f12/package/atk) | 375 | 375 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [atomix](/f12/package/atomix) | 146 | 146 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [avr-binutils](/f12/package/avr-binutils) | 7582 | 7582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [backintime](/f12/package/backintime) | 441 | 441 | 100.0 | Tomáš Vadina <kyberdev@gmail.com> | 
+ | [bakery](/f12/package/bakery) | 72 | 72 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [balsa](/f12/package/balsa) | 6047 | 6047 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [binutils](/f12/package/binutils) | 7582 | 7582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [blam](/f12/package/blam) | 314 | 314 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ccsm](/f12/package/ccsm) | 549 | 549 | 100.0 | SLOVAK <sk.cfteam@gmail.com> | 
+ | [childsplay](/f12/package/childsplay) | 1226 | 1226 | 100.0 | René <watag@centrum.sk> | 
+ | [chkconfig](/f12/package/chkconfig) | 448 | 448 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [claws-mail](/f12/package/claws-mail) | 14647 | 14647 | 100.0 | Slovenský <nomail> | 
+ | [claws-mail-plugins](/f12/package/claws-mail-plugins) | 3529 | 3529 | 100.0 | Slovenský <nomail> | 
+ | [clementine](/f12/package/clementine) | 2111 | 2111 | 100.0 |  | 
+ | [contact-lookup-applet](/f12/package/contact-lookup-applet) | 260 | 260 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [control-center](/f12/package/control-center) | 3177 | 3177 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [cracklib](/f12/package/cracklib) | 93 | 93 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [cycle](/f12/package/cycle) | 126 | 126 | 100.0 |  | 
+ | [dasher](/f12/package/dasher) | 311 | 311 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [deluge](/f12/package/deluge) | 1998 | 1998 | 100.0 | Slovak <sk@li.org> | 
+ | [deskbar-applet](/f12/package/deskbar-applet) | 884 | 884 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [desktop-effects](/f12/package/desktop-effects) | 148 | 148 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [devhelp](/f12/package/devhelp) | 239 | 239 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [eel2](/f12/package/eel2) | 161 | 161 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ejabberd](/f12/package/ejabberd) | 1503 | 1503 | 100.0 |  | 
+ | [emerald](/f12/package/emerald) | 774 | 774 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [eog](/f12/package/eog) | 1150 | 1150 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [epiphany](/f12/package/epiphany) | 3497 | 3497 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [epiphany-extensions](/f12/package/epiphany-extensions) | 806 | 806 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [evince](/f12/package/evince) | 1004 | 1004 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [evolution-mapi](/f12/package/evolution-mapi) | 269 | 269 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [file-roller](/f12/package/file-roller) | 1076 | 1076 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [firstboot](/f12/package/firstboot) | 654 | 654 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [fpc](/f12/package/fpc) | 74 | 74 | 100.0 | <dusan.halicky@gmail.com> | 
+ | [frozen-bubble](/f12/package/frozen-bubble) | 698 | 698 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [galeon](/f12/package/galeon) | 4980 | 4980 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [gbrainy](/f12/package/gbrainy) | 3050 | 3050 | 100.0 | Slovak <http://telka.sk/linux/sk-l10n/> | 
+ | [gdeskcal](/f12/package/gdeskcal) | 74 | 74 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [gedit-plugins](/f12/package/gedit-plugins) | 3 | 3 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ggz-gtk-client](/f12/package/ggz-gtk-client) | 5 | 5 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ghex](/f12/package/ghex) | 794 | 794 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [glibc](/f12/package/glibc) | 6327 | 6327 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-applet-timer](/f12/package/gnome-applet-timer) | 283 | 283 | 100.0 | Slovak <sk@li.org> | 
+ | [gnome-backgrounds](/f12/package/gnome-backgrounds) | 18 | 18 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-desktop](/f12/package/gnome-desktop) | 283 | 283 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-icon-theme](/f12/package/gnome-icon-theme) | 43 | 43 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-keyring](/f12/package/gnome-keyring) | 661 | 661 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-libs](/f12/package/gnome-libs) | 1085 | 1085 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-mag](/f12/package/gnome-mag) | 5 | 5 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-media](/f12/package/gnome-media) | 1923 | 1923 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-menus](/f12/package/gnome-menus) | 165 | 165 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-mime-data](/f12/package/gnome-mime-data) | 887 | 887 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [gnome-netstatus](/f12/package/gnome-netstatus) | 417 | 417 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-nettool](/f12/package/gnome-nettool) | 545 | 545 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-panel](/f12/package/gnome-panel) | 4487 | 4487 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-phone-manager](/f12/package/gnome-phone-manager) | 508 | 508 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-pilot](/f12/package/gnome-pilot) | 1404 | 1404 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-screensaver](/f12/package/gnome-screensaver) | 955 | 955 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-session](/f12/package/gnome-session) | 899 | 899 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-settings-daemon](/f12/package/gnome-settings-daemon) | 1080 | 1080 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-system-monitor](/f12/package/gnome-system-monitor) | 645 | 645 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-terminal](/f12/package/gnome-terminal) | 3819 | 3819 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-themes](/f12/package/gnome-themes) | 85 | 85 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-user-share](/f12/package/gnome-user-share) | 70 | 70 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gparted](/f12/package/gparted) | 1420 | 1420 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gpicview](/f12/package/gpicview) | 219 | 219 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gpsdrive](/f12/package/gpsdrive) | 1387 | 1387 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [grep](/f12/package/grep) | 827 | 827 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gstreamer-plugins-bad-free](/f12/package/gstreamer-plugins-bad-free) | 72 | 72 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gthumb](/f12/package/gthumb) | 3130 | 3130 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gtk+](/f12/package/gtk+) | 202 | 202 | 100.0 | Slovak <sk@li.org> | 
+ | [gtkhtml3](/f12/package/gtkhtml3) | 923 | 923 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gtksourceview](/f12/package/gtksourceview) | 765 | 765 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gtksourceview2](/f12/package/gtksourceview2) | 765 | 765 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gtkspell](/f12/package/gtkspell) | 11 | 11 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gtranslator](/f12/package/gtranslator) | 1136 | 1136 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [gvfs](/f12/package/gvfs) | 1341 | 1341 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [gwget](/f12/package/gwget) | 512 | 512 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gwibber](/f12/package/gwibber) | 45 | 45 | 100.0 | Slovak <sk@li.org> | 
+ | [hello](/f12/package/hello) | 174 | 174 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [horde](/f12/package/horde) | 7855 | 7855 | 100.0 | Slovak <vix@vazka.sk> | 
+ | [hwbrowser](/f12/package/hwbrowser) | 116 | 116 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [im-chooser](/f12/package/im-chooser) | 152 | 152 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [imp](/f12/package/imp) | 6446 | 6446 | 100.0 | Slovak <vix@vazka.sk> | 
+ | [ingo](/f12/package/ingo) | 883 | 883 | 100.0 | i18n@lists.horde.org | 
+ | [k3guitune](/f12/package/k3guitune) | 212 | 212 | 100.0 | Slovak <sk@li.org> | 
+ | [kde-plasma-networkmanagement](/f12/package/kde-plasma-networkmanagement) | 2120 | 2120 | 100.0 | Slovak <kde-sk@linux.sk> | 
+ | [kiconedit](/f12/package/kiconedit) | 726 | 726 | 100.0 | Slovak <kde-sk@linux.sk> | 
+ | [kronolith](/f12/package/kronolith) | 2293 | 2293 | 100.0 | Slovak <vix@vazka.sk> | 
+ | [kshutdown](/f12/package/kshutdown) | 776 | 776 | 100.0 | <sk@li.org> | 
+ | [libbonobo](/f12/package/libbonobo) | 543 | 543 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libbonoboui](/f12/package/libbonoboui) | 368 | 368 | 100.0 | Slovak <sk-l18n@lists.linux.sk> | 
+ | [libgnome](/f12/package/libgnome) | 1772 | 1772 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [libgnomecanvas](/f12/package/libgnomecanvas) | 378 | 378 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgnomecups](/f12/package/libgnomecups) | 11 | 11 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgnomeprint22](/f12/package/libgnomeprint22) | 168 | 168 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgnomeprintui22](/f12/package/libgnomeprintui22) | 481 | 481 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgnomeui](/f12/package/libgnomeui) | 1309 | 1309 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgphoto2](/f12/package/libgphoto2) | 587 | 587 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgsasl](/f12/package/libgsasl) | 518 | 518 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libgtop2](/f12/package/libgtop2) | 126 | 126 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libwnck](/f12/package/libwnck) | 1124 | 1124 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [libxfcegui4](/f12/package/libxfcegui4) | 234 | 234 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [licq](/f12/package/licq) | 30 | 30 | 100.0 | Slovak <sk@li.org> | 
+ | [liveusb-creator](/f12/package/liveusb-creator) | 480 | 480 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [lxappearance](/f12/package/lxappearance) | 96 | 96 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxdm](/f12/package/lxdm) | 11 | 11 | 100.0 | LANGUAGE <LL@li.org> | 
+ | [lxinput](/f12/package/lxinput) | 60 | 60 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxlauncher](/f12/package/lxlauncher) | 51 | 51 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxmusic](/f12/package/lxmusic) | 203 | 203 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxpanel](/f12/package/lxpanel) | 895 | 895 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxrandr](/f12/package/lxrandr) | 102 | 102 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxsession](/f12/package/lxsession) | 37 | 37 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxsession-edit](/f12/package/lxsession-edit) | 58 | 58 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxshortcut](/f12/package/lxshortcut) | 43 | 43 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxtask](/f12/package/lxtask) | 122 | 122 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lxterminal](/f12/package/lxterminal) | 129 | 129 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [lyx](/f12/package/lyx) | 14562 | 14562 | 100.0 | Slovenčina <lyx-docs@lists.lyx.org> | 
+ | [metacity](/f12/package/metacity) | 3810 | 3810 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mingw32-atk](/f12/package/mingw32-atk) | 375 | 375 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [mingw32-binutils](/f12/package/mingw32-binutils) | 7582 | 7582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mingw32-gtkhtml3](/f12/package/mingw32-gtkhtml3) | 923 | 923 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mousepad](/f12/package/mousepad) | 135 | 135 | 100.0 | English <en@li.org> | 
+ | [msp430-binutils](/f12/package/msp430-binutils) | 7010 | 7010 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [muine](/f12/package/muine) | 474 | 474 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [multimedia-menus](/f12/package/multimedia-menus) | 56 | 56 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [nautilus-open-terminal](/f12/package/nautilus-open-terminal) | 24 | 24 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [nautilus-sendto](/f12/package/nautilus-sendto) | 299 | 299 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ncmpc](/f12/package/ncmpc) | 683 | 683 | 100.0 | sk <sk@li.org> | 
+ | [newt](/f12/package/newt) | 4 | 4 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [nicotine+](/f12/package/nicotine+) | 4141 | 4141 | 100.0 | Jozef Riha <jose1711@gmail.com> | 
+ | [pam](/f12/package/pam) | 599 | 599 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [paprefs](/f12/package/paprefs) | 131 | 131 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [pessulus](/f12/package/pessulus) | 124 | 124 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [planner](/f12/package/planner) | 1744 | 1744 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pmount](/f12/package/pmount) | 723 | 723 | 100.0 | Slovak <sk@li.org> | 
+ | [polkit-gnome](/f12/package/polkit-gnome) | 954 | 954 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pybliographer](/f12/package/pybliographer) | 613 | 613 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pykickstart](/f12/package/pykickstart) | 284 | 284 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [radiotray](/f12/package/radiotray) | 49 | 49 | 100.0 | Slovak | 
+ | [redhat-menus](/f12/package/redhat-menus) | 261 | 261 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [rhpl](/f12/package/rhpl) | 185 | 185 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [sagator](/f12/package/sagator) | 147 | 147 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [setuptool](/f12/package/setuptool) | 55 | 55 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [shotwell](/f12/package/shotwell) | 1551 | 1551 | 100.0 | Ubuntu Slovak Translators <ubuntu-i18n@lists.linux.sk> | 
+ | [smolt](/f12/package/smolt) | 966 | 966 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [sos](/f12/package/sos) | 267 | 267 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [sound-juicer](/f12/package/sound-juicer) | 704 | 704 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [spu-binutils](/f12/package/spu-binutils) | 7010 | 7010 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [switchdesk](/f12/package/switchdesk) | 139 | 139 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [sysstat](/f12/package/sysstat) | 234 | 234 | 100.0 | Slovak | 
+ | [system-config-audit](/f12/package/system-config-audit) | 1241 | 1241 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-date](/f12/package/system-config-date) | 1750 | 1750 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-display](/f12/package/system-config-display) | 415 | 415 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-firewall](/f12/package/system-config-firewall) | 2630 | 2630 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-httpd](/f12/package/system-config-httpd) | 877 | 877 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-kdump](/f12/package/system-config-kdump) | 383 | 383 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-keyboard](/f12/package/system-config-keyboard) | 187 | 187 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-kickstart](/f12/package/system-config-kickstart) | 1039 | 1039 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-netboot](/f12/package/system-config-netboot) | 1135 | 1135 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-network](/f12/package/system-config-network) | 3022 | 3022 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-nfs](/f12/package/system-config-nfs) | 332 | 332 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-rootpassword](/f12/package/system-config-rootpassword) | 116 | 116 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-samba](/f12/package/system-config-samba) | 535 | 535 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-config-services](/f12/package/system-config-services) | 404 | 404 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-switch-java](/f12/package/system-switch-java) | 81 | 81 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [system-switch-mail](/f12/package/system-switch-mail) | 158 | 158 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [tasks](/f12/package/tasks) | 34 | 34 | 100.0 | Slovak <sk-i18n@linux.sk> | 
+ | [totem-pl-parser](/f12/package/totem-pl-parser) | 28 | 28 | 100.0 | Slovak <gnome-sk-list@gnome.org> | 
+ | [tucan](/f12/package/tucan) | 114 | 114 | 100.0 | kyberdev <kyberdev(at)gmail(dot)com> | 
+ | [turba](/f12/package/turba) | 1708 | 1708 | 100.0 | Slovak <vix@vazka.sk> | 
+ | [usermode](/f12/package/usermode) | 564 | 564 | 100.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [vdr-streamdev](/f12/package/vdr-streamdev) | 84 | 84 | 100.0 | Slovak <hrala.milan@gmail.com> | 
+ | [vim](/f12/package/vim) | 7899 | 7899 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [vte](/f12/package/vte) | 108 | 108 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [wget](/f12/package/wget) | 2260 | 2260 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xdg-user-dirs-gtk](/f12/package/xdg-user-dirs-gtk) | 81 | 81 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xfce4-appfinder](/f12/package/xfce4-appfinder) | 84 | 84 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xfce4-icon-theme](/f12/package/xfce4-icon-theme) | 8 | 8 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xfce4-panel](/f12/package/xfce4-panel) | 540 | 540 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xfce4-settings](/f12/package/xfce4-settings) | 1138 | 1138 | 100.0 | slovak <sk-i18n@lists.linux.sk> | 
+ | [xfdesktop](/f12/package/xfdesktop) | 1004 | 1004 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [yelp](/f12/package/yelp) | 645 | 645 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [zenity](/f12/package/zenity) | 582 | 582 | 100.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [inkscape](/f12/package/inkscape) | 24019 | 24035 | 99.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gramps](/f12/package/gramps) | 25827 | 25850 | 99.9 | <sk-i18n@linux.sk> | 
+ | [anaconda](/f12/package/anaconda) | 8869 | 8877 | 99.9 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [xmoto](/f12/package/xmoto) | 3523 | 3529 | 99.8 | <sk@li.org> | 
+ | [ganyremote](/f12/package/ganyremote) | 517 | 518 | 99.8 | Slovak | 
+ | [kanyremote](/f12/package/kanyremote) | 497 | 498 | 99.8 | Slovak | 
+ | [isomaster](/f12/package/isomaster) | 672 | 674 | 99.7 | Slovak <sk@li.org> | 
+ | [gconf-editor](/f12/package/gconf-editor) | 334 | 335 | 99.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xmlcopyeditor](/f12/package/xmlcopyeditor) | 2610 | 2618 | 99.7 | Viliam Búr <viliam@bur.sk> | 
+ | [xfprint](/f12/package/xfprint) | 321 | 322 | 99.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gucharmap](/f12/package/gucharmap) | 779 | 782 | 99.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pidgin-otr](/f12/package/pidgin-otr) | 755 | 758 | 99.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [WindowMaker](/f12/package/WindowMaker) | 4993 | 5018 | 99.5 | Slovak <sk@li.org> | 
+ | [Terminal](/f12/package/Terminal) | 1187 | 1193 | 99.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gcalctool](/f12/package/gcalctool) | 1122 | 1128 | 99.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [wammu](/f12/package/wammu) | 4257 | 4282 | 99.4 | <en@li.org> | 
+ | [gnome-vfs2](/f12/package/gnome-vfs2) | 1499 | 1508 | 99.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [rhythmbox](/f12/package/rhythmbox) | 4158 | 4189 | 99.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-applets](/f12/package/gnome-applets) | 3339 | 3365 | 99.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-printer](/f12/package/system-config-printer) | 3003 | 3027 | 99.2 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [authconfig](/f12/package/authconfig) | 1345 | 1357 | 99.1 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [publican-fedora](/f12/package/publican-fedora) | 106 | 107 | 99.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [tigervnc](/f12/package/tigervnc) | 186 | 188 | 98.9 | Slovak <sk@li.org> | 
+ | [GConf2](/f12/package/GConf2) | 3957 | 4004 | 98.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [poedit](/f12/package/poedit) | 1148 | 1162 | 98.8 | Slovak <ski18n@lists.linux.sk> | 
+ | [gscan2pdf](/f12/package/gscan2pdf) | 1351 | 1368 | 98.8 | Slovak <sk@li.org> | 
+ | [oggconvert](/f12/package/oggconvert) | 150 | 152 | 98.7 | Slovak <sk@li.org> | 
+ | [gqview](/f12/package/gqview) | 1698 | 1721 | 98.7 | <sk@li.org> | 
+ | [pcmanfm](/f12/package/pcmanfm) | 1499 | 1520 | 98.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gstreamer-plugins-good](/f12/package/gstreamer-plugins-good) | 739 | 750 | 98.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [subdownloader](/f12/package/subdownloader) | 938 | 953 | 98.4 | LANGUAGE <LL@li.org> | 
+ | [gdm](/f12/package/gdm) | 1322 | 1344 | 98.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [stellarium](/f12/package/stellarium) | 2364 | 2407 | 98.2 | Slovak <sk@li.org> | 
+ | [system-config-bind](/f12/package/system-config-bind) | 9250 | 9419 | 98.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [vodovod](/f12/package/vodovod) | 444 | 453 | 98.0 | Slovak <sk@li.org> | 
+ | [xkeyboard-config](/f12/package/xkeyboard-config) | 1913 | 1952 | 98.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pidgin](/f12/package/pidgin) | 18262 | 18654 | 97.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [tomboy](/f12/package/tomboy) | 2551 | 2607 | 97.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [kmid](/f12/package/kmid) | 523 | 535 | 97.8 | Slovak <kde-i18n-doc@kde.org> | 
+ | [xsane](/f12/package/xsane) | 3147 | 3224 | 97.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [passwd](/f12/package/passwd) | 291 | 299 | 97.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnomebaker](/f12/package/gnomebaker) | 1154 | 1186 | 97.3 | Slovak <sk@li.org> | 
+ | [alexandria](/f12/package/alexandria) | 1149 | 1181 | 97.3 | Slovak <sk@li.org> | 
+ | [filezilla](/f12/package/filezilla) | 8850 | 9102 | 97.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [dia](/f12/package/dia) | 6412 | 6606 | 97.1 | Slovenský <sk@li.org> | 
+ | [leafpad](/f12/package/leafpad) | 121 | 125 | 96.8 | Slovak <sk-i18n@linux.sk> | 
+ | [dpkg](/f12/package/dpkg) | 9685 | 10019 | 96.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [Thunar](/f12/package/Thunar) | 3730 | 3865 | 96.5 | Slovak <xfce-i18n@xfce.org> | 
+ | [shutter](/f12/package/shutter) | 2666 | 2763 | 96.5 | Slovak <sk@li.org> | 
+ | [kaffeine](/f12/package/kaffeine) | 489 | 507 | 96.4 | Slovak <kde-sk@linux.sk> | 
+ | [kmess](/f12/package/kmess) | 7129 | 7402 | 96.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-users](/f12/package/system-config-users) | 1319 | 1370 | 96.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xfce4-clipman-plugin](/f12/package/xfce4-clipman-plugin) | 225 | 234 | 96.2 | slovak <sk-i18n@lists.linux.sk> | 
+ | [parted](/f12/package/parted) | 4759 | 4960 | 95.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gstreamer](/f12/package/gstreamer) | 1633 | 1703 | 95.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [trackballs](/f12/package/trackballs) | 913 | 954 | 95.7 | Slovak <LL@li.org> | 
+ | [system-config-lvm](/f12/package/system-config-lvm) | 2049 | 2142 | 95.7 | Slovak <sk-i18n@linux.sk> | 
+ | [clamtk](/f12/package/clamtk) | 769 | 804 | 95.6 | Tomáš Vadina <kyberdev@gmail.com> | 
+ | [libuser](/f12/package/libuser) | 1064 | 1114 | 95.5 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [indent](/f12/package/indent) | 258 | 272 | 94.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [soundtracker](/f12/package/soundtracker) | 1560 | 1648 | 94.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [picard](/f12/package/picard) | 1238 | 1310 | 94.5 | Slovak <sk@li.org> | 
+ | [xlog](/f12/package/xlog) | 1358 | 1441 | 94.2 | slovak <sk-i18n@lists.linux.sk> | 
+ | [bash](/f12/package/bash) | 9890 | 10495 | 94.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [tuxpaint](/f12/package/tuxpaint) | 714 | 761 | 93.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [glunarclock](/f12/package/glunarclock) | 212 | 226 | 93.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [bluefish](/f12/package/bluefish) | 2702 | 2882 | 93.8 | <sk@li.org> | 
+ | [gstreamer-plugins-base](/f12/package/gstreamer-plugins-base) | 624 | 667 | 93.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [initscripts](/f12/package/initscripts) | 3962 | 4243 | 93.4 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [mingw32-gtk2](/f12/package/mingw32-gtk2) | 12410 | 13351 | 93.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gtk2](/f12/package/gtk2) | 12410 | 13358 | 92.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xdg-user-dirs](/f12/package/xdg-user-dirs) | 26 | 28 | 92.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pavucontrol](/f12/package/pavucontrol) | 219 | 237 | 92.4 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [lazarus](/f12/package/lazarus) | 14207 | 15570 | 91.2 | Slovenský <sk@li.org> | 
+ | [audacity](/f12/package/audacity) | 8778 | 9628 | 91.2 | SK <martinveselovsky@centrum.sk> | 
+ | [xfce-utils](/f12/package/xfce-utils) | 119 | 131 | 90.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [totem](/f12/package/totem) | 2483 | 2734 | 90.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [system-config-language](/f12/package/system-config-language) | 293 | 323 | 90.7 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [hugin](/f12/package/hugin) | 4811 | 5329 | 90.3 | Slovak <sk@li.org> | 
+ | [gimp](/f12/package/gimp) | 19406 | 21544 | 90.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [asunder](/f12/package/asunder) | 403 | 450 | 89.6 | Tomáš Vadina <kyberdev@gmail.com> | 
+ | [xfce4-mpc-plugin](/f12/package/xfce4-mpc-plugin) | 71 | 80 | 88.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [midori](/f12/package/midori) | 2034 | 2292 | 88.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ristretto](/f12/package/ristretto) | 165 | 187 | 88.2 | Slovak <sk-i18n@linux.sk> | 
+ | [NetworkManager](/f12/package/NetworkManager) | 1171 | 1334 | 87.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-globalmenu](/f12/package/gnome-globalmenu) | 283 | 325 | 87.1 | Slovak <sk@li.org> | 
+ | [kbackup](/f12/package/kbackup) | 462 | 533 | 86.7 | Slovak | 
+ | [glade2](/f12/package/glade2) | 5050 | 5840 | 86.5 | Slovak <sk-i18n@linux.sk> | 
+ | [krusader](/f12/package/krusader) | 6549 | 7580 | 86.4 | Slovak <kde-sk@linux.sk> | 
+ | [gnome-do](/f12/package/gnome-do) | 404 | 470 | 86.0 | Slovak <sk@li.org> | 
+ | [kpackagekit](/f12/package/kpackagekit) | 3048 | 3557 | 85.7 | Slovak <kde-sk@linux.sk> | 
+ | [gallery2](/f12/package/gallery2) | 15239 | 17793 | 85.6 | Slovak <gallery-devel@lists.sourceforge.net> | 
+ | [xmms](/f12/package/xmms) | 2930 | 3443 | 85.1 | Slovak <pcernak@naex.sk> | 
+ | [gnome-utils](/f12/package/gnome-utils) | 3670 | 4314 | 85.1 | Slovak <sk-i18n@linux.sk> | 
+ | [phatch](/f12/package/phatch) | 2167 | 2553 | 84.9 | Slovak <sk@li.org> | 
+ | [gnome-pilot-conduits](/f12/package/gnome-pilot-conduits) | 177 | 209 | 84.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [liferea](/f12/package/liferea) | 2034 | 2411 | 84.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [sed](/f12/package/sed) | 490 | 581 | 84.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xine-ui](/f12/package/xine-ui) | 2507 | 2975 | 84.3 | Slovak <sk-i18n@list.linux.sk> | 
+ | [pootle](/f12/package/pootle) | 2981 | 3562 | 83.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [freedink](/f12/package/freedink) | 66 | 79 | 83.5 | Slovak <sk-i18n@rak.isternet.sk> | 
+ | [ksig](/f12/package/ksig) | 71 | 85 | 83.5 | Slovak <kde-i18n-doc@kde.org> | 
+ | [gettext](/f12/package/gettext) | 5695 | 6844 | 83.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mingw32-gettext](/f12/package/mingw32-gettext) | 5695 | 6844 | 83.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mtpaint](/f12/package/mtpaint) | 2549 | 3065 | 83.2 | Slovak <sk@li.org> | 
+ | [vino](/f12/package/vino) | 825 | 993 | 83.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [rabbitvcs](/f12/package/rabbitvcs) | 771 | 931 | 82.8 | Slovak <sk@li.org> | 
+ | [Miro](/f12/package/Miro) | 2750 | 3336 | 82.4 | Slovak <sk@li.org> | 
+ | [ekiga](/f12/package/ekiga) | 3973 | 4822 | 82.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pidgin-guifications](/f12/package/pidgin-guifications) | 415 | 505 | 82.2 | Slovak | 
+ | [workrave](/f12/package/workrave) | 959 | 1175 | 81.6 | Slovak | 
+ | [compiz](/f12/package/compiz) | 2668 | 3279 | 81.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [sabayon](/f12/package/sabayon) | 604 | 743 | 81.3 | Slovak <gnome-sk-list@gnome.org> | 
+ | [moin](/f12/package/moin) | 3642 | 4526 | 80.5 |  | 
+ | [wxPython](/f12/package/wxPython) | 6874 | 8642 | 79.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [sonata](/f12/package/sonata) | 900 | 1136 | 79.2 | Slovak <sk-i18n@linux.sk> | 
+ | [mutter](/f12/package/mutter) | 3442 | 4362 | 78.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [openbox](/f12/package/openbox) | 397 | 504 | 78.8 | Slovak <sk@sk.org> | 
+ | [quodlibet](/f12/package/quodlibet) | 1546 | 2001 | 77.3 | Slovak <sk@li.org> | 
+ | [wesnoth](/f12/package/wesnoth) | 163711 | 212636 | 77.0 | none | 
+ | [xchat-gnome](/f12/package/xchat-gnome) | 2993 | 3901 | 76.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gajim](/f12/package/gajim) | 8028 | 10564 | 76.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-applet-window-picker](/f12/package/gnome-applet-window-picker) | 22 | 29 | 75.9 | Slovak | 
+ | [policycoreutils](/f12/package/policycoreutils) | 1114 | 1470 | 75.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [kpilot](/f12/package/kpilot) | 5393 | 7156 | 75.4 | Slovak <kde-sk@linux.sk> | 
+ | [tracker](/f12/package/tracker) | 1300 | 1728 | 75.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [compat-libgda](/f12/package/compat-libgda) | 1717 | 2287 | 75.1 | Slovak <sk-i18n@linux.sk> | 
+ | [bauble](/f12/package/bauble) | 1527 | 2039 | 74.9 | Slovak <sk@li.org> | 
+ | [parole](/f12/package/parole) | 327 | 439 | 74.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [wxGTK](/f12/package/wxGTK) | 4749 | 6391 | 74.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xfce4-power-manager](/f12/package/xfce4-power-manager) | 515 | 694 | 74.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mailman](/f12/package/mailman) | 16242 | 21904 | 74.2 | Slovak | 
+ | [konq-plugins](/f12/package/konq-plugins) | 1250 | 1692 | 73.9 | Slovak <kde-sk@linux.sk> | 
+ | [gcompris](/f12/package/gcompris) | 7131 | 9716 | 73.4 | Slovak | 
+ | [amarok](/f12/package/amarok) | 8772 | 12039 | 72.9 | Slovak <kde-sk@linux.sk> | 
+ | [gxmessage](/f12/package/gxmessage) | 177 | 243 | 72.8 | slovak <matis@hq.sk> | 
+ | [xfwm4](/f12/package/xfwm4) | 580 | 797 | 72.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libktorrent](/f12/package/libktorrent) | 303 | 417 | 72.7 | Slovak <kde-sk@linux.sk> | 
+ | [tangogps](/f12/package/tangogps) | 413 | 570 | 72.5 | Slovenský <> | 
+ | [shadow-utils](/f12/package/shadow-utils) | 2325 | 3221 | 72.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [libexif](/f12/package/libexif) | 4985 | 6968 | 71.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-power-manager](/f12/package/gnome-power-manager) | 1971 | 2786 | 70.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [k3b](/f12/package/k3b) | 14562 | 20621 | 70.6 | Slovak <sk@li.org> | 
+ | [python-formencode](/f12/package/python-formencode) | 540 | 765 | 70.6 | sk <LL@li.org> | 
+ | [gnumeric](/f12/package/gnumeric) | 32346 | 46374 | 69.8 | Slovak <sk-i18n@linux.sk> | 
+ | [nautilus](/f12/package/nautilus) | 5640 | 8144 | 69.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gliv](/f12/package/gliv) | 688 | 1008 | 68.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ktorrent](/f12/package/ktorrent) | 5145 | 7562 | 68.0 | Slovak <kde-sk@linux.sk> | 
+ | [partimage](/f12/package/partimage) | 1955 | 2882 | 67.8 | Slovak <sk@li.org> | 
+ | [ailurus](/f12/package/ailurus) | 5340 | 7899 | 67.6 | none | 
+ | [evolution-data-server](/f12/package/evolution-data-server) | 2991 | 4501 | 66.5 | Slovak <sk-i18n@linux.sk> | 
+ | [jokosher](/f12/package/jokosher) | 1353 | 2059 | 65.7 | Slovak <sk@li.org> | 
+ | [xfce4-session](/f12/package/xfce4-session) | 643 | 990 | 64.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [pyroom](/f12/package/pyroom) | 266 | 411 | 64.7 | Slovak <sk@li.org> | 
+ | [gnome-hearts](/f12/package/gnome-hearts) | 264 | 409 | 64.5 | Slovak <sk@li.org> | 
+ | [gurlchecker](/f12/package/gurlchecker) | 1333 | 2083 | 64.0 | Slovak <sk-i18n@linux.sk> | 
+ | [gigolo](/f12/package/gigolo) | 318 | 500 | 63.6 | slovak <sk-i18n@lists.linux.sk> | 
+ | [sylpheed](/f12/package/sylpheed) | 4004 | 6326 | 63.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [soundconverter](/f12/package/soundconverter) | 279 | 450 | 62.0 | Slovak <sk@li.org> | 
+ | [stardict](/f12/package/stardict) | 1500 | 2440 | 61.5 | <sk-i18n@lists.linux.sk> | 
+ | [bittorrent](/f12/package/bittorrent) | 2394 | 3906 | 61.3 | LANGUAGE <LL@li.org> | 
+ | [gedit](/f12/package/gedit) | 3018 | 4948 | 61.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [homebank](/f12/package/homebank) | 914 | 1507 | 60.7 | Slovak <sk@li.org> | 
+ | [gmfsk](/f12/package/gmfsk) | 811 | 1340 | 60.5 | slovak <sk-i18n@lists.linux.sk> | 
+ | [squirrelmail](/f12/package/squirrelmail) | 4123 | 6878 | 59.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xiphos](/f12/package/xiphos) | 2270 | 3815 | 59.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [icewm](/f12/package/icewm) | 818 | 1376 | 59.4 | slovak <sk-i18n@lists.linux.sk> | 
+ | [konversation](/f12/package/konversation) | 5844 | 9844 | 59.4 | Slovak <kde-sk@linux.sk> | 
+ | [exo](/f12/package/exo) | 939 | 1598 | 58.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [geeqie](/f12/package/geeqie) | 1695 | 2909 | 58.3 | <sk@li.org> | 
+ | [xchm](/f12/package/xchm) | 142 | 245 | 58.0 | Slovak <vvasil@post.sk> | 
+ | [transmission](/f12/package/transmission) | 944 | 1642 | 57.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [f-spot](/f12/package/f-spot) | 1860 | 3277 | 56.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gphoto2](/f12/package/gphoto2) | 832 | 1486 | 56.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gok](/f12/package/gok) | 1085 | 1942 | 55.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnotime](/f12/package/gnotime) | 1087 | 2008 | 54.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [chmsee](/f12/package/chmsee) | 105 | 194 | 54.1 | Slovak <sk@li.org> | 
+ | [digikam](/f12/package/digikam) | 12427 | 23446 | 53.0 | Slovak <kde-sk@linux.sk> | 
+ | [mingw32-glib2](/f12/package/mingw32-glib2) | 1302 | 2463 | 52.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [glib2](/f12/package/glib2) | 1296 | 2453 | 52.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xcdroast](/f12/package/xcdroast) | 4191 | 8044 | 52.1 | Slovak | 
+ | [gcombust](/f12/package/gcombust) | 2088 | 4009 | 52.1 | Slovak <sk@li.org> | 
+ | [gnupg](/f12/package/gnupg) | 4449 | 8623 | 51.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [rednotebook](/f12/package/rednotebook) | 534 | 1044 | 51.1 | Slovak <sk@li.org> | 
+ | [exiv2](/f12/package/exiv2) | 9996 | 20011 | 50.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [rapid-photo-downloader](/f12/package/rapid-photo-downloader) | 755 | 1567 | 48.2 | Slovak <sk@li.org> | 
+ | [listen](/f12/package/listen) | 855 | 1783 | 48.0 | Slovak <sk@li.org> | 
+ | [goffice](/f12/package/goffice) | 1892 | 3990 | 47.4 | Slovak <sk-i18n@linux.sk> | 
+ | [scim](/f12/package/scim) | 540 | 1165 | 46.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [exaile](/f12/package/exaile) | 1123 | 2425 | 46.3 | Slovak <sk@li.org> | 
+ | [galculator](/f12/package/galculator) | 362 | 798 | 45.4 | Slovak <sk-i18n@linux.sk> | 
+ | [xfce4-weather-plugin](/f12/package/xfce4-weather-plugin) | 242 | 555 | 43.6 | Slovak <xfce-i18n@xfce.org> | 
+ | [tilda](/f12/package/tilda) | 171 | 396 | 43.2 | Slovak <sk@li.org> | 
+ | [avogadro](/f12/package/avogadro) | 1891 | 4418 | 42.8 | Slovak <sk@li.org> | 
+ | [me-tv](/f12/package/me-tv) | 839 | 1961 | 42.8 | Slovak <sk@li.org> | 
+ | [mutt](/f12/package/mutt) | 2250 | 5353 | 42.0 | Slovak <sk@li.org> | 
+ | [system-config-boot](/f12/package/system-config-boot) | 50 | 119 | 42.0 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [gnome-bluetooth](/f12/package/gnome-bluetooth) | 215 | 514 | 41.8 | Slovak <sk@li.org> | 
+ | [calibre](/f12/package/calibre) | 4907 | 12103 | 40.5 | Slovak <sk@li.org> | 
+ | [kBuild](/f12/package/kBuild) | 204 | 505 | 40.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [evolution](/f12/package/evolution) | 8224 | 21955 | 37.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [seahorse](/f12/package/seahorse) | 854 | 2304 | 37.1 | Slovak <sk-i18n@linux.sk> | 
+ | [seahorse-plugins](/f12/package/seahorse-plugins) | 854 | 2304 | 37.1 | Slovak <sk-i18n@linux.sk> | 
+ | [audacious](/f12/package/audacious) | 479 | 1297 | 36.9 | Default (i18n-default@i18n.atheme.org) | 
+ | [dc3dd](/f12/package/dc3dd) | 344 | 932 | 36.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [terminator](/f12/package/terminator) | 80 | 218 | 36.7 | Slovak <sk@li.org> | 
+ | [blueman](/f12/package/blueman) | 490 | 1376 | 35.6 | Slovak <sk@li.org> | 
+ | [showimg](/f12/package/showimg) | 1452 | 4305 | 33.7 | Slovak | 
+ | [gourmet](/f12/package/gourmet) | 1203 | 3647 | 33.0 | Slovak <sk@li.org> | 
+ | [pgadmin3](/f12/package/pgadmin3) | 2947 | 9006 | 32.7 | Slovak <sk-i18n@linux.sk> | 
+ | [libgdl](/f12/package/libgdl) | 223 | 685 | 32.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [ntfs-config](/f12/package/ntfs-config) | 116 | 357 | 32.5 | Slovak <sk@li.org> | 
+ | [findutils](/f12/package/findutils) | 677 | 2105 | 32.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [audacious-plugins](/f12/package/audacious-plugins) | 2842 | 8861 | 32.1 |  | 
+ | [anjuta](/f12/package/anjuta) | 2237 | 7069 | 31.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [orage](/f12/package/orage) | 667 | 2110 | 31.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnupg2](/f12/package/gnupg2) | 3266 | 10432 | 31.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [fuse-encfs](/f12/package/fuse-encfs) | 411 | 1315 | 31.3 | Slovak <sk@li.org> | 
+ | [publican](/f12/package/publican) | 332 | 1094 | 30.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [coreutils](/f12/package/coreutils) | 5554 | 18344 | 30.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [fetchmail](/f12/package/fetchmail) | 1263 | 4231 | 29.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [evolution-exchange](/f12/package/evolution-exchange) | 580 | 1949 | 29.8 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [boinc-client](/f12/package/boinc-client) | 2207 | 7593 | 29.1 | BOINC SK | 
+ | [tuxmath](/f12/package/tuxmath) | 288 | 1051 | 27.4 |  | 
+ | [notecase](/f12/package/notecase) | 314 | 1156 | 27.2 | slovenčina | 
+ | [NetworkManager-openvpn](/f12/package/NetworkManager-openvpn) | 105 | 388 | 27.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnomeradio](/f12/package/gnomeradio) | 118 | 443 | 26.6 | SK <SK@li.org> | 
+ | [gftp](/f12/package/gftp) | 898 | 3375 | 26.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [xine-lib](/f12/package/xine-lib) | 3096 | 11725 | 26.4 | Slovak <ski18n@lists.isternet.sk> | 
+ | [cinepaint](/f12/package/cinepaint) | 1942 | 7405 | 26.2 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [perl-SVK](/f12/package/perl-SVK) | 3437 | 13584 | 25.3 | LANGUAGE <LL@li.org> | 
+ | [elinks](/f12/package/elinks) | 2832 | 12234 | 23.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnome-doc-utils](/f12/package/gnome-doc-utils) | 46 | 201 | 22.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [avant-window-navigator](/f12/package/avant-window-navigator) | 378 | 1655 | 22.8 | Slovak <sk@li.org> | 
+ | [tar](/f12/package/tar) | 702 | 3247 | 21.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gutenprint](/f12/package/gutenprint) | 1955 | 9349 | 20.9 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [abrt](/f12/package/abrt) | 304 | 1588 | 19.1 | Slovak <fedora-trans-sk@redhat.com> | 
+ | [dayplanner](/f12/package/dayplanner) | 212 | 1112 | 19.1 | Slovak <sk-i18n@linux.sk> | 
+ | [rpm](/f12/package/rpm) | 716 | 3898 | 18.4 | Slovak <sk-i18n@rak.isternet.sk> | 
+ | [wormux](/f12/package/wormux) | 319 | 1916 | 16.6 | sk <stryco@gmail.com> | 
+ | [griffith](/f12/package/griffith) | 301 | 1876 | 16.0 | Slovak <sk@li.org> | 
+ | [kde-plasma-yawp](/f12/package/kde-plasma-yawp) | 629 | 3982 | 15.8 | Slovak <kde-sk@linux.sk> | 
+ | [gnome-games](/f12/package/gnome-games) | 1304 | 8291 | 15.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gbirthday](/f12/package/gbirthday) | 19 | 122 | 15.6 |  | 
+ | [rhn-client-tools](/f12/package/rhn-client-tools) | 750 | 4820 | 15.6 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [nautilus-pastebin](/f12/package/nautilus-pastebin) | 13 | 84 | 15.5 | Slovak <sk@li.org> | 
+ | [gnome-commander](/f12/package/gnome-commander) | 1068 | 7896 | 13.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gnokii](/f12/package/gnokii) | 720 | 5326 | 13.5 | gnokii | 
+ | [pan](/f12/package/pan) | 304 | 2288 | 13.3 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [phpldapadmin](/f12/package/phpldapadmin) | 447 | 3441 | 13.0 | Slovak <sk@li.org> | 
+ | [iso-codes](/f12/package/iso-codes) | 2365 | 19375 | 12.2 | Slovak | 
+ | [manaworld](/f12/package/manaworld) | 301 | 2484 | 12.1 | Slovak <sk@li.org> | 
+ | [e16](/f12/package/e16) | 318 | 2785 | 11.4 | Slovak <sk@li.org> | 
+ | [xfce4-eyes-plugin](/f12/package/xfce4-eyes-plugin) | 1 | 9 | 11.1 | Slovak <sk@li.org> | 
+ | [kmymoney2](/f12/package/kmymoney2) | 1845 | 16796 | 11.0 | slovenský <sk@li.org> | 
+ | [popt](/f12/package/popt) | 8 | 75 | 10.7 | Slovak <sk-i18n@rak.isternet.sk> | 
+ | [gnomint](/f12/package/gnomint) | 469 | 4412 | 10.6 | Slovak <sk@li.org> | 
+ | [kdbg](/f12/package/kdbg) | 86 | 866 | 9.9 | Slovak <bednar@isternet.sk> | 
+ | [qbzr](/f12/package/qbzr) | 127 | 1281 | 9.9 | Slovak <sk@li.org> | 
+ | [kipi-plugins](/f12/package/kipi-plugins) | 1267 | 15328 | 8.3 | Slovak <kde-sk@linux.sk> | 
+ | [xscreensaver](/f12/package/xscreensaver) | 784 | 11190 | 7.0 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [widelands](/f12/package/widelands) | 981 | 17294 | 5.7 | LANGUAGE <LL@li.org> | 
+ | [resapplet](/f12/package/resapplet) | 6 | 106 | 5.7 | <LL@li.org> | 
+ | [libvirt](/f12/package/libvirt) | 1103 | 20183 | 5.5 | none | 
+ | [libgweather](/f12/package/libgweather) | 482 | 10235 | 4.7 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [mingw32-iconv](/f12/package/mingw32-iconv) | 15 | 336 | 4.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [tuxpaint-stamps](/f12/package/tuxpaint-stamps) | 116 | 2617 | 4.4 | LANGUAGE <LL@li.org> | 
+ | [smb4k](/f12/package/smb4k) | 233 | 6580 | 3.5 | Slovak <sk@li.org> | 
+ | [aria2](/f12/package/aria2) | 154 | 4630 | 3.3 | Slovak <sk@li.org> | 
+ | [kcoloredit](/f12/package/kcoloredit) | 8 | 278 | 2.9 | Slovak <kde-sk@linux.sk> | 
+ | [sugar-turtleart](/f12/package/sugar-turtleart) | 2 | 78 | 2.6 | LANGUAGE <LL@li.org> | 
+ | [glade3](/f12/package/glade3) | 30 | 1451 | 2.1 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [awn-extras-applets](/f12/package/awn-extras-applets) | 148 | 7228 | 2.0 | Slovak <sk@li.org> | 
+ | [libgda](/f12/package/libgda) | 98 | 5237 | 1.9 | Slovak <sk-i18n@linux.sk> | 
+ | [transifex](/f12/package/transifex) | 28 | 1973 | 1.4 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [specspo](/f12/package/specspo) | 1496 | 305294 | 0.5 | Slovak <sk-i18n@lists.linux.sk> | 
+ | [gammu](/f12/package/gammu) | 48 | 13273 | 0.4 | none | 
+ | [vidalia](/f12/package/vidalia) | 3 | 9310 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [imsettings](/f12/package/imsettings) | 0 | 979 | 0.0 | none | 
+ | [kdissert](/f12/package/kdissert) | 0 | 2027 | 0.0 | Slovak <sk@li.org> | 
+ | [kerry](/f12/package/kerry) | 0 | 702 | 0.0 | Slovak <sk@li.org> | 
+ | [kexec-tools](/f12/package/kexec-tools) | 0 | 132 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [kftpgrabber](/f12/package/kftpgrabber) | 0 | 2237 | 0.0 | Slovak <sk@li.org> | 
+ | [kgrab](/f12/package/kgrab) | 0 | 370 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [kile](/f12/package/kile) | 0 | 10952 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [kio_gopher](/f12/package/kio_gopher) | 0 | 17 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [kmplayer](/f12/package/kmplayer) | 0 | 1248 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [knemo](/f12/package/knemo) | 0 | 1103 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [knetstats](/f12/package/knetstats) | 0 | 119 | 0.0 | Slovak <sk@li.org> | 
+ | [kopete-cryptography](/f12/package/kopete-cryptography) | 0 | 408 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [kphotoalbum](/f12/package/kphotoalbum) | 0 | 6333 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [kst](/f12/package/kst) | 0 | 7446 | 0.0 | Slovak <sk@li.org> | 
+ | [kwebkitpart](/f12/package/kwebkitpart) | 0 | 477 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [libgxim](/f12/package/libgxim) | 0 | 130 | 0.0 | none | 
+ | [libkexif](/f12/package/libkexif) | 0 | 25 | 0.0 | Slovak <sk@li.org> | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | 0 | 0 | 0.0 |  | 
+ | [olpc-switch-desktop](/f12/package/olpc-switch-desktop) | 0 | 158 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [polkit-kde](/f12/package/polkit-kde) | 0 | 82 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [revisor](/f12/package/revisor) | 0 | 4171 | 0.0 |  | 
+ | [rhnsd](/f12/package/rhnsd) | 0 | 42 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [rsibreak](/f12/package/rsibreak) | 0 | 1223 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [sectool](/f12/package/sectool) | 0 | 2411 | 0.0 | none | 
+ | [setroubleshoot](/f12/package/setroubleshoot) | 0 | 606 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [setroubleshoot-plugins](/f12/package/setroubleshoot-plugins) | 0 | 8755 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [skanlite](/f12/package/skanlite) | 0 | 142 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [skrooge](/f12/package/skrooge) | 0 | 5141 | 0.0 | Slovak <kde-sk@linux.sk> | 
+ | [sugar-browse](/f12/package/sugar-browse) | 0 | 55 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-calculator](/f12/package/sugar-calculator) | 0 | 565 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-chat](/f12/package/sugar-chat) | 0 | 26 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-distance](/f12/package/sugar-distance) | 0 | 76 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-finance](/f12/package/sugar-finance) | 0 | 142 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-imageviewer](/f12/package/sugar-imageviewer) | 0 | 17 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-infoslicer](/f12/package/sugar-infoslicer) | 0 | 177 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f12/package/sugar-jukebox) | 0 | 10 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-log](/f12/package/sugar-log) | 0 | 100 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-memorize](/f12/package/sugar-memorize) | 0 | 50 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f12/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-pippy](/f12/package/sugar-pippy) | 0 | 52 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-playgo](/f12/package/sugar-playgo) | 0 | 85 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-read](/f12/package/sugar-read) | 0 | 28 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-record](/f12/package/sugar-record) | 0 | 137 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-terminal](/f12/package/sugar-terminal) | 0 | 6 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-view-slides](/f12/package/sugar-view-slides) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f12/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f12/package/sugar-write) | 0 | 69 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-date-docs](/f12/package/system-config-date-docs) | 0 | 728 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-nfs-docs](/f12/package/system-config-nfs-docs) | 0 | 1185 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-samba-docs](/f12/package/system-config-samba-docs) | 0 | 1188 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-services-docs](/f12/package/system-config-services-docs) | 0 | 638 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-users-docs](/f12/package/system-config-users-docs) | 0 | 1054 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [system-config-vsftpd](/f12/package/system-config-vsftpd) | 0 | 16 | 0.0 | Czech <translation-team-cs@lists.sourceforge.net> | 
+ | [yum-rhn-plugin](/f12/package/yum-rhn-plugin) | 0 | 107 | 0.0 | LANGUAGE <LL@li.org> | 
 {.sortable}
 
 
@@ -576,9 +576,9 @@ We use the po metadata to get the language code and the team, but sometimes it f
 
 | Package | Lang from file path/name | polib error | Team |
 |---------|--------------------------|-------------|------|
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | /mnt/stockage/packages/f12/lxmenu-data/po/sk.po | error-os |  | 
- | [moin]({{< ref "/f12/package/moin.md" >}}) | /mnt/stockage/packages/f12/moin/MoinMoin/i18n/sk.MoinMoin.po | error-os |  | 
- | [tuxmath]({{< ref "/f12/package/tuxmath.md" >}}) | /mnt/stockage/packages/f12/tuxmath/po/sk.po | error-unicode |  | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | /mnt/stockage/packages/f12/lxmenu-data/po/sk.po | error-os |  | 
+ | [moin](/f12/package/moin) | /mnt/stockage/packages/f12/moin/MoinMoin/i18n/sk.MoinMoin.po | error-os |  | 
+ | [tuxmath](/f12/package/tuxmath) | /mnt/stockage/packages/f12/tuxmath/po/sk.po | error-unicode |  | 
 {.sortable}
 
 
@@ -589,7 +589,7 @@ We use the calcstats from translate toolkit to get the translation progress, but
 
 | Package | Lang from file path/name | Team |
 |---------|--------------------------|------|
- | [lxmenu-data]({{< ref "/f12/package/lxmenu-data.md" >}}) | /mnt/stockage/packages/f12/lxmenu-data/po/sk.po |  | 
+ | [lxmenu-data](/f12/package/lxmenu-data) | /mnt/stockage/packages/f12/lxmenu-data/po/sk.po |  | 
 {.sortable}
 
 

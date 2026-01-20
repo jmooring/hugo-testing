@@ -18,19 +18,19 @@ The package 4Pane (version 5.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [it]({{< ref "/f29/language/it.md" >}}) | 12289 | 12300 | 99.9 | /mnt/stockage/packages/f29/4Pane/locale/it/LC_MESSAGES/it.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 10952 | 12575 | 87.1 | /mnt/stockage/packages/f29/4Pane/locale/de/LC_MESSAGES/de.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 9653 | 12575 | 76.8 | /mnt/stockage/packages/f29/4Pane/locale/da/LC_MESSAGES/da.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 4135 | 12575 | 32.9 | /mnt/stockage/packages/f29/4Pane/locale/es/LC_MESSAGES/es.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 1173 | 12575 | 9.3 | /mnt/stockage/packages/f29/4Pane/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 707 | 12575 | 5.6 | /mnt/stockage/packages/f29/4Pane/locale/fr/LC_MESSAGES/fr.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 575 | 12575 | 4.6 | /mnt/stockage/packages/f29/4Pane/locale/ar/LC_MESSAGES/ar.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 558 | 12575 | 4.4 | /mnt/stockage/packages/f29/4Pane/locale/fa/LC_MESSAGES/fa.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 532 | 12575 | 4.2 | /mnt/stockage/packages/f29/4Pane/locale/ja/LC_MESSAGES/ja.po | 
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 486 | 12575 | 3.9 | /mnt/stockage/packages/f29/4Pane/locale/ca/LC_MESSAGES/ca.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 435 | 12575 | 3.5 | /mnt/stockage/packages/f29/4Pane/locale/pl/LC_MESSAGES/pl.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 90 | 12575 | 0.7 | /mnt/stockage/packages/f29/4Pane/locale/et/LC_MESSAGES/et.po | 
- | [vi]({{< ref "/f29/language/vi.md" >}}) | 40 | 12575 | 0.3 | /mnt/stockage/packages/f29/4Pane/locale/vi/LC_MESSAGES/vi.po | 
+ | [it](/f29/language/it) | 12289 | 12300 | 99.9 | /mnt/stockage/packages/f29/4Pane/locale/it/LC_MESSAGES/it.po | 
+ | [de](/f29/language/de) | 10952 | 12575 | 87.1 | /mnt/stockage/packages/f29/4Pane/locale/de/LC_MESSAGES/de.po | 
+ | [da](/f29/language/da) | 9653 | 12575 | 76.8 | /mnt/stockage/packages/f29/4Pane/locale/da/LC_MESSAGES/da.po | 
+ | [es](/f29/language/es) | 4135 | 12575 | 32.9 | /mnt/stockage/packages/f29/4Pane/locale/es/LC_MESSAGES/es.po | 
+ | [pt_BR](/f29/language/pt_BR) | 1173 | 12575 | 9.3 | /mnt/stockage/packages/f29/4Pane/locale/pt_BR/LC_MESSAGES/pt_BR.po | 
+ | [fr](/f29/language/fr) | 707 | 12575 | 5.6 | /mnt/stockage/packages/f29/4Pane/locale/fr/LC_MESSAGES/fr.po | 
+ | [ar](/f29/language/ar) | 575 | 12575 | 4.6 | /mnt/stockage/packages/f29/4Pane/locale/ar/LC_MESSAGES/ar.po | 
+ | [fa](/f29/language/fa) | 558 | 12575 | 4.4 | /mnt/stockage/packages/f29/4Pane/locale/fa/LC_MESSAGES/fa.po | 
+ | [ja](/f29/language/ja) | 532 | 12575 | 4.2 | /mnt/stockage/packages/f29/4Pane/locale/ja/LC_MESSAGES/ja.po | 
+ | [ca](/f29/language/ca) | 486 | 12575 | 3.9 | /mnt/stockage/packages/f29/4Pane/locale/ca/LC_MESSAGES/ca.po | 
+ | [pl](/f29/language/pl) | 435 | 12575 | 3.5 | /mnt/stockage/packages/f29/4Pane/locale/pl/LC_MESSAGES/pl.po | 
+ | [et](/f29/language/et) | 90 | 12575 | 0.7 | /mnt/stockage/packages/f29/4Pane/locale/et/LC_MESSAGES/et.po | 
+ | [vi](/f29/language/vi) | 40 | 12575 | 0.3 | /mnt/stockage/packages/f29/4Pane/locale/vi/LC_MESSAGES/vi.po | 
 {.sortable}
 
 

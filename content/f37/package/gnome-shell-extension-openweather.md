@@ -18,40 +18,40 @@ The package gnome-shell-extension-openweather (version 119):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f37/language/cs.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/cs.po | 
- | [fr]({{< ref "/f37/language/fr.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/fr.po | 
- | [it]({{< ref "/f37/language/it.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/it.po | 
- | [pl]({{< ref "/f37/language/pl.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/pl.po | 
- | [ru]({{< ref "/f37/language/ru.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ru.po | 
- | [tr]({{< ref "/f37/language/tr.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/tr.po | 
- | [zh_Hans]({{< ref "/f37/language/zh_Hans.md" >}}) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/zh_CN.po | 
- | [de]({{< ref "/f37/language/de.md" >}}) | 555 | 850 | 65.3 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/de.po | 
- | [pt_BR]({{< ref "/f37/language/pt_BR.md" >}}) | 290 | 850 | 34.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/pt_BR.po | 
- | [sk]({{< ref "/f37/language/sk.md" >}}) | 279 | 850 | 32.8 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sk.po | 
- | [be]({{< ref "/f37/language/be.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/be.po | 
- | [hu]({{< ref "/f37/language/hu.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/hu.po | 
- | [pt]({{< ref "/f37/language/pt.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/pt.po | 
- | [sr]({{< ref "/f37/language/sr.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sr.po | 
- | [sr_Latn]({{< ref "/f37/language/sr_Latn.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sr@latin.po | 
- | [sv]({{< ref "/f37/language/sv.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sv.po | 
- | [zh_Hant]({{< ref "/f37/language/zh_Hant.md" >}}) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/zh_TW.po | 
- | [uk]({{< ref "/f37/language/uk.md" >}}) | 259 | 850 | 30.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/uk.po | 
- | [bg]({{< ref "/f37/language/bg.md" >}}) | 229 | 850 | 26.9 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/bg.po | 
- | [fi]({{< ref "/f37/language/fi.md" >}}) | 225 | 850 | 26.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/fi.po | 
- | [eu]({{< ref "/f37/language/eu.md" >}}) | 196 | 850 | 23.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/eu.po | 
- | [ar]({{< ref "/f37/language/ar.md" >}}) | 183 | 850 | 21.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ar.po | 
- | [es]({{< ref "/f37/language/es.md" >}}) | 171 | 850 | 20.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/es.po | 
- | [ja]({{< ref "/f37/language/ja.md" >}}) | 165 | 850 | 19.4 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ja.po | 
- | [nl]({{< ref "/f37/language/nl.md" >}}) | 157 | 850 | 18.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/nl.po | 
- | [ca]({{< ref "/f37/language/ca.md" >}}) | 150 | 850 | 17.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ca.po | 
- | [id]({{< ref "/f37/language/id.md" >}}) | 124 | 850 | 14.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/id.po | 
- | [el]({{< ref "/f37/language/el.md" >}}) | 106 | 850 | 12.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/el.po | 
- | [he]({{< ref "/f37/language/he.md" >}}) | 104 | 850 | 12.2 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/he.po | 
- | [ro]({{< ref "/f37/language/ro.md" >}}) | 94 | 850 | 11.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ro.po | 
- | [lt]({{< ref "/f37/language/lt.md" >}}) | 73 | 850 | 8.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/lt.po | 
- | [vi]({{< ref "/f37/language/vi.md" >}}) | 48 | 850 | 5.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/vi.po | 
- | [da]({{< ref "/f37/language/da.md" >}}) | 25 | 850 | 2.9 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/da.po | 
- | [nb_NO]({{< ref "/f37/language/nb_NO.md" >}}) | 22 | 850 | 2.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/nb.po | 
+ | [cs](/f37/language/cs) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/cs.po | 
+ | [fr](/f37/language/fr) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/fr.po | 
+ | [it](/f37/language/it) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/it.po | 
+ | [pl](/f37/language/pl) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/pl.po | 
+ | [ru](/f37/language/ru) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ru.po | 
+ | [tr](/f37/language/tr) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/tr.po | 
+ | [zh_Hans](/f37/language/zh_Hans) | 850 | 850 | 100.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/zh_CN.po | 
+ | [de](/f37/language/de) | 555 | 850 | 65.3 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/de.po | 
+ | [pt_BR](/f37/language/pt_BR) | 290 | 850 | 34.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/pt_BR.po | 
+ | [sk](/f37/language/sk) | 279 | 850 | 32.8 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sk.po | 
+ | [be](/f37/language/be) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/be.po | 
+ | [hu](/f37/language/hu) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/hu.po | 
+ | [pt](/f37/language/pt) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/pt.po | 
+ | [sr](/f37/language/sr) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sr.po | 
+ | [sr_Latn](/f37/language/sr_Latn) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sr@latin.po | 
+ | [sv](/f37/language/sv) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/sv.po | 
+ | [zh_Hant](/f37/language/zh_Hant) | 272 | 850 | 32.0 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/zh_TW.po | 
+ | [uk](/f37/language/uk) | 259 | 850 | 30.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/uk.po | 
+ | [bg](/f37/language/bg) | 229 | 850 | 26.9 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/bg.po | 
+ | [fi](/f37/language/fi) | 225 | 850 | 26.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/fi.po | 
+ | [eu](/f37/language/eu) | 196 | 850 | 23.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/eu.po | 
+ | [ar](/f37/language/ar) | 183 | 850 | 21.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ar.po | 
+ | [es](/f37/language/es) | 171 | 850 | 20.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/es.po | 
+ | [ja](/f37/language/ja) | 165 | 850 | 19.4 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ja.po | 
+ | [nl](/f37/language/nl) | 157 | 850 | 18.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/nl.po | 
+ | [ca](/f37/language/ca) | 150 | 850 | 17.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ca.po | 
+ | [id](/f37/language/id) | 124 | 850 | 14.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/id.po | 
+ | [el](/f37/language/el) | 106 | 850 | 12.5 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/el.po | 
+ | [he](/f37/language/he) | 104 | 850 | 12.2 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/he.po | 
+ | [ro](/f37/language/ro) | 94 | 850 | 11.1 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/ro.po | 
+ | [lt](/f37/language/lt) | 73 | 850 | 8.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/lt.po | 
+ | [vi](/f37/language/vi) | 48 | 850 | 5.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/vi.po | 
+ | [da](/f37/language/da) | 25 | 850 | 2.9 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/da.po | 
+ | [nb_NO](/f37/language/nb_NO) | 22 | 850 | 2.6 | /mnt/stockage/packages/f37/gnome-shell-extension-openweather/po/nb.po | 
 {.sortable}
 
 

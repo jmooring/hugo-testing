@@ -38,14 +38,14 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [libgweather]({{< ref "/f23/package/libgweather.md" >}}) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
- | [libmateweather]({{< ref "/f23/package/libmateweather.md" >}}) | 361 | 499 | 72.3 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
- | [mate-applets]({{< ref "/f23/package/mate-applets.md" >}}) | 1596 | 2621 | 60.9 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
- | [fuse-encfs]({{< ref "/f23/package/fuse-encfs.md" >}}) | 127 | 1289 | 9.9 | Spanish (Peru) <es_PE@li.org> | 
- | [openerp7]({{< ref "/f23/package/openerp7.md" >}}) | 214 | 34312 | 0.6 | Spanish (Peru) <es_PE@li.org> | 
- | [libmatekbd]({{< ref "/f23/package/libmatekbd.md" >}}) | 0 | 251 | 0.0 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
- | [mate-desktop]({{< ref "/f23/package/mate-desktop.md" >}}) | 0 | 2288 | 0.0 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
- | [mate-user-guide]({{< ref "/f23/package/mate-user-guide.md" >}}) | 0 | 5 | 0.0 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
+ | [libgweather](/f23/package/libgweather) | 447 | 460 | 97.2 | Spanish <traductores@es.gnome.org> | 
+ | [libmateweather](/f23/package/libmateweather) | 361 | 499 | 72.3 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
+ | [mate-applets](/f23/package/mate-applets) | 1596 | 2621 | 60.9 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
+ | [fuse-encfs](/f23/package/fuse-encfs) | 127 | 1289 | 9.9 | Spanish (Peru) <es_PE@li.org> | 
+ | [openerp7](/f23/package/openerp7) | 214 | 34312 | 0.6 | Spanish (Peru) <es_PE@li.org> | 
+ | [libmatekbd](/f23/package/libmatekbd) | 0 | 251 | 0.0 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
+ | [mate-desktop](/f23/package/mate-desktop) | 0 | 2288 | 0.0 | Spanish (Peru) (http://www.transifex.com/projects/p/MATE/language/es_PE/) | 
+ | [mate-user-guide](/f23/package/mate-user-guide) | 0 | 5 | 0.0 | Spanish (Peru) (http://www.transifex.com/mate/MATE/language/es_PE/) | 
 {.sortable}
 
 

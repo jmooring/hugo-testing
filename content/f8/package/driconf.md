@@ -18,11 +18,11 @@ The package driconf (version 0.9.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f8/language/de.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f8/driconf/de.po | 
- | [nl]({{< ref "/f8/language/nl.md" >}}) | 512 | 512 | 100.0 | /mnt/stockage/packages/f8/driconf/nl.po | 
- | [ru]({{< ref "/f8/language/ru.md" >}}) | 450 | 512 | 87.9 | /mnt/stockage/packages/f8/driconf/ru.po | 
- | [es]({{< ref "/f8/language/es.md" >}}) | 285 | 512 | 55.7 | /mnt/stockage/packages/f8/driconf/es.po | 
- | [it]({{< ref "/f8/language/it.md" >}}) | 279 | 512 | 54.5 | /mnt/stockage/packages/f8/driconf/it.po | 
+ | [de](/f8/language/de) | 512 | 512 | 100.0 | /mnt/stockage/packages/f8/driconf/de.po | 
+ | [nl](/f8/language/nl) | 512 | 512 | 100.0 | /mnt/stockage/packages/f8/driconf/nl.po | 
+ | [ru](/f8/language/ru) | 450 | 512 | 87.9 | /mnt/stockage/packages/f8/driconf/ru.po | 
+ | [es](/f8/language/es) | 285 | 512 | 55.7 | /mnt/stockage/packages/f8/driconf/es.po | 
+ | [it](/f8/language/it) | 279 | 512 | 54.5 | /mnt/stockage/packages/f8/driconf/it.po | 
 {.sortable}
 
 

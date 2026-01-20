@@ -18,23 +18,23 @@ The package gnome-characters (version 3.16.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f22/language/cs.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/cs.po | 
- | [de]({{< ref "/f22/language/de.md" >}}) | 82 | 82 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/de.po | 
- | [el]({{< ref "/f22/language/el.md" >}}) | 81 | 81 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/el.po | 
- | [es]({{< ref "/f22/language/es.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/es.po | 
- | [fr]({{< ref "/f22/language/fr.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/fr.po | 
- | [he]({{< ref "/f22/language/he.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/he.po | 
- | [hu]({{< ref "/f22/language/hu.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/hu.po | 
- | [it]({{< ref "/f22/language/it.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/it.po | 
- | [ja]({{< ref "/f22/language/ja.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/ja.po | 
- | [pl]({{< ref "/f22/language/pl.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/pl.po | 
- | [pt_BR]({{< ref "/f22/language/pt_BR.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/pt_BR.po | 
- | [sk]({{< ref "/f22/language/sk.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/sk.po | 
- | [sr]({{< ref "/f22/language/sr.md" >}}) | 164 | 164 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/sr.po/mnt/stockage/packages/f22/gnome-characters/po/sr@latin.po | 
- | [uk]({{< ref "/f22/language/uk.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/uk.po | 
- | [zh_Hans]({{< ref "/f22/language/zh_Hans.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f22/language/zh_Hant.md" >}}) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/zh_TW.po | 
- | [sl]({{< ref "/f22/language/sl.md" >}}) | 15 | 146 | 10.3 | /mnt/stockage/packages/f22/gnome-characters/po/sl.po | 
+ | [cs](/f22/language/cs) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/cs.po | 
+ | [de](/f22/language/de) | 82 | 82 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/de.po | 
+ | [el](/f22/language/el) | 81 | 81 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/el.po | 
+ | [es](/f22/language/es) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/es.po | 
+ | [fr](/f22/language/fr) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/fr.po | 
+ | [he](/f22/language/he) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/he.po | 
+ | [hu](/f22/language/hu) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/hu.po | 
+ | [it](/f22/language/it) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/it.po | 
+ | [ja](/f22/language/ja) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/ja.po | 
+ | [pl](/f22/language/pl) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/pl.po | 
+ | [pt_BR](/f22/language/pt_BR) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/pt_BR.po | 
+ | [sk](/f22/language/sk) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/sk.po | 
+ | [sr](/f22/language/sr) | 164 | 164 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/sr.po/mnt/stockage/packages/f22/gnome-characters/po/sr@latin.po | 
+ | [uk](/f22/language/uk) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/uk.po | 
+ | [zh_Hans](/f22/language/zh_Hans) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/zh_CN.po | 
+ | [zh_Hant](/f22/language/zh_Hant) | 146 | 146 | 100.0 | /mnt/stockage/packages/f22/gnome-characters/po/zh_TW.po | 
+ | [sl](/f22/language/sl) | 15 | 146 | 10.3 | /mnt/stockage/packages/f22/gnome-characters/po/sl.po | 
 {.sortable}
 
 

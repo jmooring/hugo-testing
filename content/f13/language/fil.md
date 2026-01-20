@@ -41,23 +41,23 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [olpc-switch-desktop]({{< ref "/f13/package/olpc-switch-desktop.md" >}}) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
- | [phatch]({{< ref "/f13/package/phatch.md" >}}) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
- | [gwibber]({{< ref "/f13/package/gwibber.md" >}}) | 9 | 45 | 20.0 | Filipino <fil@li.org> | 
- | [stellarium]({{< ref "/f13/package/stellarium.md" >}}) | 466 | 2407 | 19.4 | Filipino <fil@li.org> | 
- | [dexter]({{< ref "/f13/package/dexter.md" >}}) | 43 | 228 | 18.9 | Filipino <fil@li.org> | 
- | [Miro]({{< ref "/f13/package/Miro.md" >}}) | 338 | 3336 | 10.1 | Filipino <fil@li.org> | 
- | [transmission]({{< ref "/f13/package/transmission.md" >}}) | 1 | 1642 | 0.1 | Filipino <fil@li.org> | 
- | [sugar]({{< ref "/f13/package/sugar.md" >}}) | 0 | 741 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-base]({{< ref "/f13/package/sugar-base.md" >}}) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-browse]({{< ref "/f13/package/sugar-browse.md" >}}) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-jukebox]({{< ref "/f13/package/sugar-jukebox.md" >}}) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-physics]({{< ref "/f13/package/sugar-physics.md" >}}) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-toolkit]({{< ref "/f13/package/sugar-toolkit.md" >}}) | 0 | 71 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-turtleart]({{< ref "/f13/package/sugar-turtleart.md" >}}) | 0 | 829 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-visualmatch]({{< ref "/f13/package/sugar-visualmatch.md" >}}) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
- | [sugar-write]({{< ref "/f13/package/sugar-write.md" >}}) | 0 | 75 | 0.0 | LANGUAGE <LL@li.org> | 
- | [vidalia]({{< ref "/f13/package/vidalia.md" >}}) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
+ | [olpc-switch-desktop](/f13/package/olpc-switch-desktop) | 153 | 158 | 96.8 | LANGUAGE <LL@li.org> | 
+ | [phatch](/f13/package/phatch) | 1404 | 2553 | 55.0 | Filipino <fil@li.org> | 
+ | [gwibber](/f13/package/gwibber) | 9 | 45 | 20.0 | Filipino <fil@li.org> | 
+ | [stellarium](/f13/package/stellarium) | 466 | 2407 | 19.4 | Filipino <fil@li.org> | 
+ | [dexter](/f13/package/dexter) | 43 | 228 | 18.9 | Filipino <fil@li.org> | 
+ | [Miro](/f13/package/Miro) | 338 | 3336 | 10.1 | Filipino <fil@li.org> | 
+ | [transmission](/f13/package/transmission) | 1 | 1642 | 0.1 | Filipino <fil@li.org> | 
+ | [sugar](/f13/package/sugar) | 0 | 741 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-base](/f13/package/sugar-base) | 0 | 5 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-browse](/f13/package/sugar-browse) | 0 | 53 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-jukebox](/f13/package/sugar-jukebox) | 0 | 7 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-physics](/f13/package/sugar-physics) | 0 | 22 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-toolkit](/f13/package/sugar-toolkit) | 0 | 71 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-turtleart](/f13/package/sugar-turtleart) | 0 | 829 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-visualmatch](/f13/package/sugar-visualmatch) | 0 | 58 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [sugar-write](/f13/package/sugar-write) | 0 | 75 | 0.0 | LANGUAGE <LL@li.org> | 
+ | [vidalia](/f13/package/vidalia) | 0 | 10375 | 0.0 | translations@vidalia-project.net | 
 {.sortable}
 
 

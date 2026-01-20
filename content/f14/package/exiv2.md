@@ -18,13 +18,13 @@ The package exiv2 (version 0.21.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f14/language/de.md" >}}) | 14243 | 25167 | 56.6 | /mnt/stockage/packages/f14/exiv2/po/de.po | 
- | [pl]({{< ref "/f14/language/pl.md" >}}) | 13430 | 25167 | 53.4 | /mnt/stockage/packages/f14/exiv2/po/pl.po | 
- | [sk]({{< ref "/f14/language/sk.md" >}}) | 9941 | 25167 | 39.5 | /mnt/stockage/packages/f14/exiv2/po/sk.po | 
- | [fr]({{< ref "/f14/language/fr.md" >}}) | 5082 | 25167 | 20.2 | /mnt/stockage/packages/f14/exiv2/po/fr.po | 
- | [es]({{< ref "/f14/language/es.md" >}}) | 3936 | 25167 | 15.6 | /mnt/stockage/packages/f14/exiv2/po/es.po | 
- | [ru]({{< ref "/f14/language/ru.md" >}}) | 3836 | 25167 | 15.2 | /mnt/stockage/packages/f14/exiv2/po/ru.po | 
- | [fi]({{< ref "/f14/language/fi.md" >}}) | 850 | 25167 | 3.4 | /mnt/stockage/packages/f14/exiv2/po/fi.po | 
+ | [de](/f14/language/de) | 14243 | 25167 | 56.6 | /mnt/stockage/packages/f14/exiv2/po/de.po | 
+ | [pl](/f14/language/pl) | 13430 | 25167 | 53.4 | /mnt/stockage/packages/f14/exiv2/po/pl.po | 
+ | [sk](/f14/language/sk) | 9941 | 25167 | 39.5 | /mnt/stockage/packages/f14/exiv2/po/sk.po | 
+ | [fr](/f14/language/fr) | 5082 | 25167 | 20.2 | /mnt/stockage/packages/f14/exiv2/po/fr.po | 
+ | [es](/f14/language/es) | 3936 | 25167 | 15.6 | /mnt/stockage/packages/f14/exiv2/po/es.po | 
+ | [ru](/f14/language/ru) | 3836 | 25167 | 15.2 | /mnt/stockage/packages/f14/exiv2/po/ru.po | 
+ | [fi](/f14/language/fi) | 850 | 25167 | 3.4 | /mnt/stockage/packages/f14/exiv2/po/fi.po | 
 {.sortable}
 
 

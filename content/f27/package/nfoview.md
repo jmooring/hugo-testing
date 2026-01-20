@@ -18,23 +18,23 @@ The package nfoview (version 1.24):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [br]({{< ref "/f27/language/br.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/br.po | 
- | [cs]({{< ref "/f27/language/cs.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/cs.po | 
- | [es]({{< ref "/f27/language/es.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/es_ES.po | 
- | [fi]({{< ref "/f27/language/fi.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/fi.po | 
- | [pl]({{< ref "/f27/language/pl.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/pl.po | 
- | [pt_PT]({{< ref "/f27/language/pt_PT.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/pt_PT.po | 
- | [sv]({{< ref "/f27/language/sv.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/sv.po | 
- | [tr]({{< ref "/f27/language/tr.md" >}}) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/tr.po | 
- | [de]({{< ref "/f27/language/de.md" >}}) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/de.po | 
- | [fr]({{< ref "/f27/language/fr.md" >}}) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/fr.po | 
- | [pt_BR]({{< ref "/f27/language/pt_BR.md" >}}) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/pt_BR.po | 
- | [ro]({{< ref "/f27/language/ro.md" >}}) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/ro.po | 
- | [bg]({{< ref "/f27/language/bg.md" >}}) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/bg.po | 
- | [he]({{< ref "/f27/language/he.md" >}}) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/he.po | 
- | [hu]({{< ref "/f27/language/hu.md" >}}) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/hu.po | 
- | [ru]({{< ref "/f27/language/ru.md" >}}) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/ru.po | 
- | [sr]({{< ref "/f27/language/sr.md" >}}) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/sr.po | 
+ | [br](/f27/language/br) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/br.po | 
+ | [cs](/f27/language/cs) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/cs.po | 
+ | [es](/f27/language/es) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/es_ES.po | 
+ | [fi](/f27/language/fi) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/fi.po | 
+ | [pl](/f27/language/pl) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/pl.po | 
+ | [pt_PT](/f27/language/pt_PT) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/pt_PT.po | 
+ | [sv](/f27/language/sv) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/sv.po | 
+ | [tr](/f27/language/tr) | 116 | 116 | 100.0 | /mnt/stockage/packages/f27/nfoview/po/tr.po | 
+ | [de](/f27/language/de) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/de.po | 
+ | [fr](/f27/language/fr) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/fr.po | 
+ | [pt_BR](/f27/language/pt_BR) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/pt_BR.po | 
+ | [ro](/f27/language/ro) | 115 | 116 | 99.1 | /mnt/stockage/packages/f27/nfoview/po/ro.po | 
+ | [bg](/f27/language/bg) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/bg.po | 
+ | [he](/f27/language/he) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/he.po | 
+ | [hu](/f27/language/hu) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/hu.po | 
+ | [ru](/f27/language/ru) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/ru.po | 
+ | [sr](/f27/language/sr) | 64 | 116 | 55.2 | /mnt/stockage/packages/f27/nfoview/po/sr.po | 
 {.sortable}
 
 

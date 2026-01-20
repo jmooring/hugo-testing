@@ -18,7 +18,7 @@ The package diskimage-builder (version 0.0.5):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [en]({{< ref "/f19/language/en.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/diskimage-builder/diskimage_builder/locale/en/LC_MESSAGES/diskimage_builder.po | 
+ | [en](/f19/language/en) | 0 | 0 | 0.0 | /mnt/stockage/packages/f19/diskimage-builder/diskimage_builder/locale/en/LC_MESSAGES/diskimage_builder.po | 
 {.sortable}
 
 

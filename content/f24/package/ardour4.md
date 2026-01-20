@@ -18,20 +18,20 @@ The package ardour4 (version 4.7.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f24/language/de.md" >}}) | 18344 | 18348 | 100.0 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/appdata/po/de.po/mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/de.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/de.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/de.po | 
- | [zh_Hans]({{< ref "/f24/language/zh_Hans.md" >}}) | 24578 | 25046 | 98.1 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/zh.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/zh.po | 
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 16841 | 17667 | 95.3 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/cs.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/cs.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/cs.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 17017 | 18331 | 92.8 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/ru.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/ru.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/ru.po | 
- | [nn]({{< ref "/f24/language/nn.md" >}}) | 11122 | 16734 | 66.5 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/nn.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/nn.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/nn.po | 
- | [fr]({{< ref "/f24/language/fr.md" >}}) | 10401 | 16794 | 61.9 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/appdata/po/fr.po/mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/fr.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/fr.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/fr.po | 
- | [es]({{< ref "/f24/language/es.md" >}}) | 10024 | 16734 | 59.9 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/es.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/es.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/es.po | 
- | [it]({{< ref "/f24/language/it.md" >}}) | 9014 | 16616 | 54.2 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/it.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/it.po | 
- | [sv]({{< ref "/f24/language/sv.md" >}}) | 2755 | 16616 | 16.6 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/sv.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/sv.po | 
- | [el]({{< ref "/f24/language/el.md" >}}) | 2066 | 16734 | 12.3 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/el.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/el.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/el.po | 
- | [pl]({{< ref "/f24/language/pl.md" >}}) | 1546 | 16734 | 9.2 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/pl.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/pl.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/pl.po | 
- | [pt_PT]({{< ref "/f24/language/pt_PT.md" >}}) | 950 | 12523 | 7.6 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/pt_PT.po | 
- | [en_GB]({{< ref "/f24/language/en_GB.md" >}}) | 691 | 16616 | 4.2 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/en_GB.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/en_GB.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 489 | 12641 | 3.9 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/pt.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/pt.po | 
+ | [de](/f24/language/de) | 18344 | 18348 | 100.0 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/appdata/po/de.po/mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/de.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/de.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/de.po | 
+ | [zh_Hans](/f24/language/zh_Hans) | 24578 | 25046 | 98.1 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/zh.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/zh.po | 
+ | [cs](/f24/language/cs) | 16841 | 17667 | 95.3 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/cs.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/cs.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/cs.po | 
+ | [ru](/f24/language/ru) | 17017 | 18331 | 92.8 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/ru.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/ru.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/ru.po | 
+ | [nn](/f24/language/nn) | 11122 | 16734 | 66.5 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/nn.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/nn.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/nn.po | 
+ | [fr](/f24/language/fr) | 10401 | 16794 | 61.9 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/appdata/po/fr.po/mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/fr.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/fr.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/fr.po | 
+ | [es](/f24/language/es) | 10024 | 16734 | 59.9 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/es.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/es.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/es.po | 
+ | [it](/f24/language/it) | 9014 | 16616 | 54.2 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/it.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/it.po | 
+ | [sv](/f24/language/sv) | 2755 | 16616 | 16.6 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/sv.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/sv.po | 
+ | [el](/f24/language/el) | 2066 | 16734 | 12.3 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/el.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/el.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/el.po | 
+ | [pl](/f24/language/pl) | 1546 | 16734 | 9.2 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/pl.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/pl.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/pl.po | 
+ | [pt_PT](/f24/language/pt_PT) | 950 | 12523 | 7.6 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/pt_PT.po | 
+ | [en_GB](/f24/language/en_GB) | 691 | 16616 | 4.2 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/en_GB.po/mnt/stockage/packages/f24/ardour4/libs/ardour/po/en_GB.po | 
+ | [pt](/f24/language/pt) | 489 | 12641 | 3.9 | /mnt/stockage/packages/f24/ardour4/gtk2_ardour/po/pt.po/mnt/stockage/packages/f24/ardour4/libs/gtkmm2ext/po/pt.po | 
 {.sortable}
 
 

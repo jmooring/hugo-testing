@@ -18,15 +18,15 @@ The package gtk-qt-engine (version 0.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [bg]({{< ref "/f7/language/bg.md" >}}) | 181 | 181 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/bg.po | 
- | [de]({{< ref "/f7/language/de.md" >}}) | 165 | 165 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/de.po | 
- | [nn]({{< ref "/f7/language/nn.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/nn.po | 
- | [ru]({{< ref "/f7/language/ru.md" >}}) | 154 | 154 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/ru.po | 
- | [sv]({{< ref "/f7/language/sv.md" >}}) | 155 | 155 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/sv.po | 
- | [tr]({{< ref "/f7/language/tr.md" >}}) | 176 | 181 | 97.2 | /mnt/stockage/packages/f7/gtk-qt-engine/po/tr.po | 
- | [it]({{< ref "/f7/language/it.md" >}}) | 148 | 156 | 94.9 | /mnt/stockage/packages/f7/gtk-qt-engine/po/it.po | 
- | [es]({{< ref "/f7/language/es.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f7/gtk-qt-engine/po/es.po | 
- | [fr]({{< ref "/f7/language/fr.md" >}}) | 139 | 155 | 89.7 | /mnt/stockage/packages/f7/gtk-qt-engine/po/fr.po | 
+ | [bg](/f7/language/bg) | 181 | 181 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/bg.po | 
+ | [de](/f7/language/de) | 165 | 165 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/de.po | 
+ | [nn](/f7/language/nn) | 155 | 155 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/nn.po | 
+ | [ru](/f7/language/ru) | 154 | 154 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/ru.po | 
+ | [sv](/f7/language/sv) | 155 | 155 | 100.0 | /mnt/stockage/packages/f7/gtk-qt-engine/po/sv.po | 
+ | [tr](/f7/language/tr) | 176 | 181 | 97.2 | /mnt/stockage/packages/f7/gtk-qt-engine/po/tr.po | 
+ | [it](/f7/language/it) | 148 | 156 | 94.9 | /mnt/stockage/packages/f7/gtk-qt-engine/po/it.po | 
+ | [es](/f7/language/es) | 139 | 155 | 89.7 | /mnt/stockage/packages/f7/gtk-qt-engine/po/es.po | 
+ | [fr](/f7/language/fr) | 139 | 155 | 89.7 | /mnt/stockage/packages/f7/gtk-qt-engine/po/fr.po | 
 {.sortable}
 
 

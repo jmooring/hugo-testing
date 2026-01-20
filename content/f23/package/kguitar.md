@@ -18,11 +18,11 @@ The package kguitar (version 0.5.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 757 | 757 | 100.0 | /mnt/stockage/packages/f23/kguitar/po/ru.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 990 | 1015 | 97.5 | /mnt/stockage/packages/f23/kguitar/po/fr.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 968 | 1015 | 95.4 | /mnt/stockage/packages/f23/kguitar/po/it.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 957 | 1015 | 94.3 | /mnt/stockage/packages/f23/kguitar/po/de.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/kguitar/po/es.po | 
+ | [ru](/f23/language/ru) | 757 | 757 | 100.0 | /mnt/stockage/packages/f23/kguitar/po/ru.po | 
+ | [fr](/f23/language/fr) | 990 | 1015 | 97.5 | /mnt/stockage/packages/f23/kguitar/po/fr.po | 
+ | [it](/f23/language/it) | 968 | 1015 | 95.4 | /mnt/stockage/packages/f23/kguitar/po/it.po | 
+ | [de](/f23/language/de) | 957 | 1015 | 94.3 | /mnt/stockage/packages/f23/kguitar/po/de.po | 
+ | [es](/f23/language/es) | 0 | 0 | 0.0 | /mnt/stockage/packages/f23/kguitar/po/es.po | 
 {.sortable}
 
 

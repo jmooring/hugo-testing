@@ -18,7 +18,7 @@ The package dos2unix (version 4.1.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f13/language/nl.md" >}}) | 219 | 418 | 52.4 | /mnt/stockage/packages/f13/dos2unix/po/nl.po | 
+ | [nl](/f13/language/nl) | 219 | 418 | 52.4 | /mnt/stockage/packages/f13/dos2unix/po/nl.po | 
 {.sortable}
 
 

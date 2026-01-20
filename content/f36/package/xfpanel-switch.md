@@ -18,25 +18,25 @@ The package xfpanel-switch (version 1.0.7):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/cs.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/de.po | 
- | [el]({{< ref "/f36/language/el.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/el.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/es.po | 
- | [fi]({{< ref "/f36/language/fi.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/fi.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/fr.po | 
- | [gl]({{< ref "/f36/language/gl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/gl.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/it.po | 
- | [ja]({{< ref "/f36/language/ja.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/ja.po | 
- | [kk]({{< ref "/f36/language/kk.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/kk.po | 
- | [lt]({{< ref "/f36/language/lt.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/lt.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/pl.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/pt_BR.po | 
- | [sl]({{< ref "/f36/language/sl.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/sl.po | 
- | [sv]({{< ref "/f36/language/sv.md" >}}) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/sv.po | 
- | [sr]({{< ref "/f36/language/sr.md" >}}) | 58 | 101 | 57.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/sr.po | 
- | [ru]({{< ref "/f36/language/ru.md" >}}) | 38 | 101 | 37.6 | /mnt/stockage/packages/f36/xfpanel-switch/po/ru.po | 
+ | [cs](/f36/language/cs) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/cs.po | 
+ | [de](/f36/language/de) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/de.po | 
+ | [el](/f36/language/el) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/el.po | 
+ | [es](/f36/language/es) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/es.po | 
+ | [fi](/f36/language/fi) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/fi.po | 
+ | [fr](/f36/language/fr) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/fr.po | 
+ | [gl](/f36/language/gl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/gl.po | 
+ | [it](/f36/language/it) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/it.po | 
+ | [ja](/f36/language/ja) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/ja.po | 
+ | [kk](/f36/language/kk) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/kk.po | 
+ | [lt](/f36/language/lt) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/lt.po | 
+ | [nl](/f36/language/nl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/nl.po | 
+ | [pl](/f36/language/pl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/pl.po | 
+ | [pt](/f36/language/pt) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/pt_BR.po | 
+ | [sl](/f36/language/sl) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/sl.po | 
+ | [sv](/f36/language/sv) | 62 | 101 | 61.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/sv.po | 
+ | [sr](/f36/language/sr) | 58 | 101 | 57.4 | /mnt/stockage/packages/f36/xfpanel-switch/po/sr.po | 
+ | [ru](/f36/language/ru) | 38 | 101 | 37.6 | /mnt/stockage/packages/f36/xfpanel-switch/po/ru.po | 
 {.sortable}
 
 

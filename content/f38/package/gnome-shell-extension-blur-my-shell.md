@@ -18,26 +18,26 @@ The package gnome-shell-extension-blur-my-shell (version 46):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f38/language/ar.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ar.po | 
- | [cs]({{< ref "/f38/language/cs.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/cs.po | 
- | [de]({{< ref "/f38/language/de.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/de.po | 
- | [es]({{< ref "/f38/language/es.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/es.po | 
- | [fr]({{< ref "/f38/language/fr.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/fr.po | 
- | [it]({{< ref "/f38/language/it.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/it.po | 
- | [nl]({{< ref "/f38/language/nl.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/nl.po | 
- | [pl]({{< ref "/f38/language/pl.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/pl.po | 
- | [pt]({{< ref "/f38/language/pt.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/pt.po | 
- | [ru]({{< ref "/f38/language/ru.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ru.po | 
- | [ta]({{< ref "/f38/language/ta.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ta.po | 
- | [uk]({{< ref "/f38/language/uk.md" >}}) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/uk.po | 
- | [hu]({{< ref "/f38/language/hu.md" >}}) | 603 | 617 | 97.7 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/hu.po | 
- | [zh_Hans]({{< ref "/f38/language/zh_Hans.md" >}}) | 481 | 617 | 78.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/zh_Hans.po | 
- | [tr]({{< ref "/f38/language/tr.md" >}}) | 349 | 617 | 56.6 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/tr.po | 
- | [ko]({{< ref "/f38/language/ko.md" >}}) | 241 | 617 | 39.1 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ko.po | 
- | [nb_NO]({{< ref "/f38/language/nb_NO.md" >}}) | 183 | 617 | 29.7 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/nb_NO.po | 
- | [sv]({{< ref "/f38/language/sv.md" >}}) | 105 | 617 | 17.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/sv.po | 
- | [ka]({{< ref "/f38/language/ka.md" >}}) | 59 | 617 | 9.6 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ka.po | 
- | [ca]({{< ref "/f38/language/ca.md" >}}) | 0 | 617 | 0.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ca.po | 
+ | [ar](/f38/language/ar) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ar.po | 
+ | [cs](/f38/language/cs) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/cs.po | 
+ | [de](/f38/language/de) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/de.po | 
+ | [es](/f38/language/es) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/es.po | 
+ | [fr](/f38/language/fr) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/fr.po | 
+ | [it](/f38/language/it) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/it.po | 
+ | [nl](/f38/language/nl) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/nl.po | 
+ | [pl](/f38/language/pl) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/pl.po | 
+ | [pt](/f38/language/pt) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/pt.po | 
+ | [ru](/f38/language/ru) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ru.po | 
+ | [ta](/f38/language/ta) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ta.po | 
+ | [uk](/f38/language/uk) | 617 | 617 | 100.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/uk.po | 
+ | [hu](/f38/language/hu) | 603 | 617 | 97.7 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/hu.po | 
+ | [zh_Hans](/f38/language/zh_Hans) | 481 | 617 | 78.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/zh_Hans.po | 
+ | [tr](/f38/language/tr) | 349 | 617 | 56.6 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/tr.po | 
+ | [ko](/f38/language/ko) | 241 | 617 | 39.1 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ko.po | 
+ | [nb_NO](/f38/language/nb_NO) | 183 | 617 | 29.7 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/nb_NO.po | 
+ | [sv](/f38/language/sv) | 105 | 617 | 17.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/sv.po | 
+ | [ka](/f38/language/ka) | 59 | 617 | 9.6 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ka.po | 
+ | [ca](/f38/language/ca) | 0 | 617 | 0.0 | /mnt/stockage/packages/f38/gnome-shell-extension-blur-my-shell/po/ca.po | 
 {.sortable}
 
 

@@ -38,13 +38,13 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [alacarte]({{< ref "/f19/package/alacarte.md" >}}) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
- | [libreoffice]({{< ref "/f19/package/libreoffice.md" >}}) | 54804 | 95195 | 57.6 | LANGUAGE <LL@li.org> | 
- | [iok]({{< ref "/f19/package/iok.md" >}}) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
- | [abrt]({{< ref "/f19/package/abrt.md" >}}) | 0 | 2722 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [fonts-tweak-tool]({{< ref "/f19/package/fonts-tweak-tool.md" >}}) | 0 | 164 | 0.0 | Bodo | 
- | [libreport]({{< ref "/f19/package/libreport.md" >}}) | 0 | 3139 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
- | [liveusb-creator]({{< ref "/f19/package/liveusb-creator.md" >}}) | 0 | 480 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [alacarte](/f19/package/alacarte) | 42 | 42 | 100.0 | Bodo <brx@li.org> | 
+ | [libreoffice](/f19/package/libreoffice) | 54804 | 95195 | 57.6 | LANGUAGE <LL@li.org> | 
+ | [iok](/f19/package/iok) | 87 | 206 | 42.2 | Bodo <LL@li.org> | 
+ | [abrt](/f19/package/abrt) | 0 | 2722 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [fonts-tweak-tool](/f19/package/fonts-tweak-tool) | 0 | 164 | 0.0 | Bodo | 
+ | [libreport](/f19/package/libreport) | 0 | 3139 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
+ | [liveusb-creator](/f19/package/liveusb-creator) | 0 | 480 | 0.0 | Bodo (http://www.transifex.com/projects/p/fedora/language/brx/) | 
 {.sortable}
 
 

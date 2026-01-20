@@ -18,39 +18,39 @@ The package cairo-dock-plug-ins (version 3.4.1):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f20/language/de.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/de.po | 
- | [en]({{< ref "/f20/language/en.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/en.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/en_GB.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/fr.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/it.po | 
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/nl.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sr.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 10181 | 10203 | 99.8 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/uk.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 9238 | 10203 | 90.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ja.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 8819 | 10203 | 86.4 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/pt_BR.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 8616 | 10203 | 84.4 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ru.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 8265 | 10203 | 81.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sk.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 8058 | 10203 | 79.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/es.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 7790 | 10203 | 76.4 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/el.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 7128 | 10203 | 69.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/zh_TW.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 4270 | 10203 | 41.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/hu.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 3283 | 10203 | 32.2 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/pt.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 3219 | 10203 | 31.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/zh_CN.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 3167 | 10203 | 31.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/cs.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 2993 | 10203 | 29.3 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sv.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 2203 | 10203 | 21.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sr@latin.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 2028 | 10203 | 19.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/et.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 1801 | 10203 | 17.7 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ca.po | 
- | [uz]({{< ref "/f20/language/uz.md" >}}) | 1695 | 10203 | 16.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/uz.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 1488 | 10203 | 14.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/hr.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 1423 | 10203 | 13.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/tr.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1211 | 10203 | 11.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/pl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 1169 | 10203 | 11.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/he.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 967 | 10203 | 9.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ko.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 843 | 10203 | 8.3 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ar.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 674 | 10203 | 6.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/eu.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 264 | 10203 | 2.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/lt.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 256 | 10203 | 2.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/id.po | 
+ | [de](/f20/language/de) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/de.po | 
+ | [en](/f20/language/en) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/en.po | 
+ | [en_GB](/f20/language/en_GB) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/en_GB.po | 
+ | [fr](/f20/language/fr) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/fr.po | 
+ | [it](/f20/language/it) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/it.po | 
+ | [nl](/f20/language/nl) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/nl.po | 
+ | [sr](/f20/language/sr) | 10203 | 10203 | 100.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sr.po | 
+ | [uk](/f20/language/uk) | 10181 | 10203 | 99.8 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/uk.po | 
+ | [ja](/f20/language/ja) | 9238 | 10203 | 90.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ja.po | 
+ | [pt_BR](/f20/language/pt_BR) | 8819 | 10203 | 86.4 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/pt_BR.po | 
+ | [ru](/f20/language/ru) | 8616 | 10203 | 84.4 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ru.po | 
+ | [sk](/f20/language/sk) | 8265 | 10203 | 81.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sk.po | 
+ | [es](/f20/language/es) | 8058 | 10203 | 79.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/es.po | 
+ | [el](/f20/language/el) | 7790 | 10203 | 76.4 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/el.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 7128 | 10203 | 69.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/zh_TW.po | 
+ | [hu](/f20/language/hu) | 4270 | 10203 | 41.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/hu.po | 
+ | [pt](/f20/language/pt) | 3283 | 10203 | 32.2 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/pt.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 3219 | 10203 | 31.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/zh_CN.po | 
+ | [cs](/f20/language/cs) | 3167 | 10203 | 31.0 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/cs.po | 
+ | [sv](/f20/language/sv) | 2993 | 10203 | 29.3 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sv.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 2203 | 10203 | 21.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/sr@latin.po | 
+ | [et](/f20/language/et) | 2028 | 10203 | 19.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/et.po | 
+ | [ca](/f20/language/ca) | 1801 | 10203 | 17.7 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ca.po | 
+ | [uz](/f20/language/uz) | 1695 | 10203 | 16.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/uz.po | 
+ | [hr](/f20/language/hr) | 1488 | 10203 | 14.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/hr.po | 
+ | [tr](/f20/language/tr) | 1423 | 10203 | 13.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/tr.po | 
+ | [pl](/f20/language/pl) | 1211 | 10203 | 11.9 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/pl.po | 
+ | [he](/f20/language/he) | 1169 | 10203 | 11.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/he.po | 
+ | [ko](/f20/language/ko) | 967 | 10203 | 9.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ko.po | 
+ | [ar](/f20/language/ar) | 843 | 10203 | 8.3 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/ar.po | 
+ | [eu](/f20/language/eu) | 674 | 10203 | 6.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/eu.po | 
+ | [lt](/f20/language/lt) | 264 | 10203 | 2.6 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/lt.po | 
+ | [id](/f20/language/id) | 256 | 10203 | 2.5 | /mnt/stockage/packages/f20/cairo-dock-plug-ins/po/id.po | 
 {.sortable}
 
 

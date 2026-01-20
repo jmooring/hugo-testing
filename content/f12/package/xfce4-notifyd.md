@@ -18,19 +18,19 @@ The package xfce4-notifyd (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f12/language/ca.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/ca.po | 
- | [da]({{< ref "/f12/language/da.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/da.po | 
- | [de]({{< ref "/f12/language/de.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/de.po | 
- | [el]({{< ref "/f12/language/el.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/el.po | 
- | [es]({{< ref "/f12/language/es.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/es.po | 
- | [fi]({{< ref "/f12/language/fi.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/fi.po | 
- | [fr]({{< ref "/f12/language/fr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/fr.po | 
- | [id]({{< ref "/f12/language/id.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/id.po | 
- | [nb_NO]({{< ref "/f12/language/nb_NO.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/nb.po | 
- | [pt_PT]({{< ref "/f12/language/pt_PT.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/pt_PT.po | 
- | [sq]({{< ref "/f12/language/sq.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/sq.po | 
- | [tr]({{< ref "/f12/language/tr.md" >}}) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/tr.po | 
- | [nl]({{< ref "/f12/language/nl.md" >}}) | 79 | 83 | 95.2 | /mnt/stockage/packages/f12/xfce4-notifyd/po/nl.po | 
+ | [ca](/f12/language/ca) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/ca.po | 
+ | [da](/f12/language/da) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/da.po | 
+ | [de](/f12/language/de) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/de.po | 
+ | [el](/f12/language/el) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/el.po | 
+ | [es](/f12/language/es) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/es.po | 
+ | [fi](/f12/language/fi) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/fi.po | 
+ | [fr](/f12/language/fr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/fr.po | 
+ | [id](/f12/language/id) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/id.po | 
+ | [nb_NO](/f12/language/nb_NO) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/nb.po | 
+ | [pt_PT](/f12/language/pt_PT) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/pt_PT.po | 
+ | [sq](/f12/language/sq) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/sq.po | 
+ | [tr](/f12/language/tr) | 83 | 83 | 100.0 | /mnt/stockage/packages/f12/xfce4-notifyd/po/tr.po | 
+ | [nl](/f12/language/nl) | 79 | 83 | 95.2 | /mnt/stockage/packages/f12/xfce4-notifyd/po/nl.po | 
 {.sortable}
 
 

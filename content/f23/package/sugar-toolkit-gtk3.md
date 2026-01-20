@@ -18,109 +18,109 @@ The package sugar-toolkit-gtk3 (version 0.106.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ar]({{< ref "/f23/language/ar.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ar.po | 
- | [ay]({{< ref "/f23/language/ay.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/aym.po | 
- | [ayc]({{< ref "/f23/language/ayc.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ayc.po | 
- | [bi]({{< ref "/f23/language/bi.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bi.po | 
- | [bn_IN]({{< ref "/f23/language/bn_IN.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bn_IN.po | 
- | [da]({{< ref "/f23/language/da.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/da.po | 
- | [de]({{< ref "/f23/language/de.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/de.po | 
- | [el]({{< ref "/f23/language/el.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/el.po | 
- | [en]({{< ref "/f23/language/en.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/en.po | 
- | [en_GB]({{< ref "/f23/language/en_GB.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/en_GB.po | 
- | [en_US]({{< ref "/f23/language/en_US.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/en_US.po | 
- | [es]({{< ref "/f23/language/es.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/es.po | 
- | [fr]({{< ref "/f23/language/fr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fr.po | 
- | [gn]({{< ref "/f23/language/gn.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/gn.po | 
- | [hi]({{< ref "/f23/language/hi.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hi.po | 
- | [hus]({{< ref "/f23/language/hus.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hus.po | 
- | [hy]({{< ref "/f23/language/hy.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hy.po | 
- | [id]({{< ref "/f23/language/id.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/id.po | 
- | [ig]({{< ref "/f23/language/ig.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ig.po | 
- | [it]({{< ref "/f23/language/it.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/it.po | 
- | [ja]({{< ref "/f23/language/ja.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ja.po | 
- | [km]({{< ref "/f23/language/km.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/km.po | 
- | [mi]({{< ref "/f23/language/mi.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mi.po | 
- | [mn]({{< ref "/f23/language/mn.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mn.po | 
- | [mr]({{< ref "/f23/language/mr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mr.po | 
- | [ms]({{< ref "/f23/language/ms.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ms.po | 
- | [ne]({{< ref "/f23/language/ne.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ne.po | 
- | [nl]({{< ref "/f23/language/nl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/nl.po | 
- | [pap]({{< ref "/f23/language/pap.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pap.po | 
- | [pl]({{< ref "/f23/language/pl.md" >}}) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pl.po | 
- | [pt]({{< ref "/f23/language/pt.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pt.po | 
- | [pt_BR]({{< ref "/f23/language/pt_BR.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pt_BR.po | 
- | [qu]({{< ref "/f23/language/qu.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/quz.po | 
- | [ru]({{< ref "/f23/language/ru.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ru.po | 
- | [rw]({{< ref "/f23/language/rw.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/rw.po | 
- | [si]({{< ref "/f23/language/si.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/si.po | 
- | [sl]({{< ref "/f23/language/sl.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sl.po | 
- | [sq]({{< ref "/f23/language/sq.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sq.po | 
- | [sr]({{< ref "/f23/language/sr.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sr.po | 
- | [sv]({{< ref "/f23/language/sv.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sv.po | 
- | [sw]({{< ref "/f23/language/sw.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sw.po | 
- | [ta]({{< ref "/f23/language/ta.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ta.po | 
- | [te]({{< ref "/f23/language/te.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/te.po | 
- | [th]({{< ref "/f23/language/th.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/th.po | 
- | [vi]({{< ref "/f23/language/vi.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/vi.po | 
- | [zh_Hans]({{< ref "/f23/language/zh_Hans.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zh_CN.po | 
- | [zh_Hant]({{< ref "/f23/language/zh_Hant.md" >}}) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zh_TW.po | 
- | [af]({{< ref "/f23/language/af.md" >}}) | 75 | 76 | 98.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/af.po | 
- | [bn]({{< ref "/f23/language/bn.md" >}}) | 75 | 76 | 98.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bn.po | 
- | [ur]({{< ref "/f23/language/ur.md" >}}) | 75 | 76 | 98.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ur.po | 
- | [fil]({{< ref "/f23/language/fil.md" >}}) | 73 | 76 | 96.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fil.po | 
- | [nah]({{< ref "/f23/language/nah.md" >}}) | 70 | 76 | 92.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/nah.po | 
- | [hr]({{< ref "/f23/language/hr.md" >}}) | 67 | 76 | 88.2 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hr.po | 
- | [ko]({{< ref "/f23/language/ko.md" >}}) | 67 | 76 | 88.2 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ko.po | 
- | [ps]({{< ref "/f23/language/ps.md" >}}) | 65 | 76 | 85.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ps.po | 
- | [bg]({{< ref "/f23/language/bg.md" >}}) | 60 | 76 | 78.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bg.po | 
- | [ht]({{< ref "/f23/language/ht.md" >}}) | 60 | 76 | 78.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ht.po | 
- | [tr]({{< ref "/f23/language/tr.md" >}}) | 60 | 76 | 78.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tr.po | 
- | [mg]({{< ref "/f23/language/mg.md" >}}) | 58 | 76 | 76.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mg.po | 
- | [sk]({{< ref "/f23/language/sk.md" >}}) | 58 | 76 | 76.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sk.po | 
- | [ca]({{< ref "/f23/language/ca.md" >}}) | 57 | 76 | 75.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ca.po | 
- | [bs]({{< ref "/f23/language/bs.md" >}}) | 54 | 76 | 71.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bs.po | 
- | [nb_NO]({{< ref "/f23/language/nb_NO.md" >}}) | 49 | 76 | 64.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/nb.po | 
- | [to]({{< ref "/f23/language/to.md" >}}) | 49 | 76 | 64.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/to.po | 
- | [sm]({{< ref "/f23/language/sm.md" >}}) | 47 | 76 | 61.8 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sm.po | 
- | [prs]({{< ref "/f23/language/prs.md" >}}) | 40 | 76 | 52.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fa_AF.po | 
- | [hu]({{< ref "/f23/language/hu.md" >}}) | 32 | 76 | 42.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hu.po | 
- | [cs]({{< ref "/f23/language/cs.md" >}}) | 30 | 76 | 39.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/cs.po | 
- | [gu]({{< ref "/f23/language/gu.md" >}}) | 28 | 76 | 36.8 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/gu.po | 
- | [error]({{< ref "/f23/language/error.md" >}}) | 64 | 228 | 28.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pbs.po/mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tzo.po/mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mvo.po | 
- | [son]({{< ref "/f23/language/son.md" >}}) | 18 | 76 | 23.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/son.po | 
- | [am]({{< ref "/f23/language/am.md" >}}) | 13 | 76 | 17.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/am.po | 
- | [he]({{< ref "/f23/language/he.md" >}}) | 13 | 76 | 17.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/he.po | 
- | [eu]({{< ref "/f23/language/eu.md" >}}) | 11 | 76 | 14.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/eu.po | 
- | [gl]({{< ref "/f23/language/gl.md" >}}) | 9 | 76 | 11.8 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/gl.po | 
- | [fi]({{< ref "/f23/language/fi.md" >}}) | 8 | 76 | 10.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fi.po | 
- | [kn]({{< ref "/f23/language/kn.md" >}}) | 5 | 76 | 6.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/kn.po | 
- | [tzm]({{< ref "/f23/language/tzm.md" >}}) | 5 | 76 | 6.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tzm.po | 
- | [br]({{< ref "/f23/language/br.md" >}}) | 3 | 76 | 3.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/br.po | 
- | [lt]({{< ref "/f23/language/lt.md" >}}) | 2 | 76 | 2.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/lt.po | 
- | [be]({{< ref "/f23/language/be.md" >}}) | 1 | 76 | 1.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/be.po | 
- | [be_Latn]({{< ref "/f23/language/be_Latn.md" >}}) | 1 | 76 | 1.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/be@latin.po | 
- | [kos]({{< ref "/f23/language/kos.md" >}}) | 1 | 76 | 1.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/kos.po | 
- | [ak]({{< ref "/f23/language/ak.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ak.po | 
- | [cpp]({{< ref "/f23/language/cpp.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/cpp.po | 
- | [dz]({{< ref "/f23/language/dz.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/dz.po | 
- | [fa]({{< ref "/f23/language/fa.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fa.po | 
- | [ff]({{< ref "/f23/language/ff.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ff.po | 
- | [ha]({{< ref "/f23/language/ha.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ha.po | 
- | [is]({{< ref "/f23/language/is.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/is.po | 
- | [ku]({{< ref "/f23/language/ku.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ku.po | 
- | [lg]({{< ref "/f23/language/lg.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/lg.po | 
- | [mk]({{< ref "/f23/language/mk.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mk.po | 
- | [ml]({{< ref "/f23/language/ml.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ml.po | 
- | [pa]({{< ref "/f23/language/pa.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pa.po | 
- | [ro]({{< ref "/f23/language/ro.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ro.po | 
- | [sd]({{< ref "/f23/language/sd.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sd.po | 
- | [tvl]({{< ref "/f23/language/tvl.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tvl.po | 
- | [ug]({{< ref "/f23/language/ug.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ug.po | 
- | [wa]({{< ref "/f23/language/wa.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/wa.po | 
- | [yo]({{< ref "/f23/language/yo.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/yo.po | 
- | [zh_Hant_HK]({{< ref "/f23/language/zh_Hant_HK.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zh_HK.po | 
- | [zu]({{< ref "/f23/language/zu.md" >}}) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zu.po | 
+ | [ar](/f23/language/ar) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ar.po | 
+ | [ay](/f23/language/ay) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/aym.po | 
+ | [ayc](/f23/language/ayc) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ayc.po | 
+ | [bi](/f23/language/bi) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bi.po | 
+ | [bn_IN](/f23/language/bn_IN) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bn_IN.po | 
+ | [da](/f23/language/da) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/da.po | 
+ | [de](/f23/language/de) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/de.po | 
+ | [el](/f23/language/el) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/el.po | 
+ | [en](/f23/language/en) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/en.po | 
+ | [en_GB](/f23/language/en_GB) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/en_GB.po | 
+ | [en_US](/f23/language/en_US) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/en_US.po | 
+ | [es](/f23/language/es) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/es.po | 
+ | [fr](/f23/language/fr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fr.po | 
+ | [gn](/f23/language/gn) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/gn.po | 
+ | [hi](/f23/language/hi) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hi.po | 
+ | [hus](/f23/language/hus) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hus.po | 
+ | [hy](/f23/language/hy) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hy.po | 
+ | [id](/f23/language/id) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/id.po | 
+ | [ig](/f23/language/ig) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ig.po | 
+ | [it](/f23/language/it) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/it.po | 
+ | [ja](/f23/language/ja) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ja.po | 
+ | [km](/f23/language/km) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/km.po | 
+ | [mi](/f23/language/mi) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mi.po | 
+ | [mn](/f23/language/mn) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mn.po | 
+ | [mr](/f23/language/mr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mr.po | 
+ | [ms](/f23/language/ms) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ms.po | 
+ | [ne](/f23/language/ne) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ne.po | 
+ | [nl](/f23/language/nl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/nl.po | 
+ | [pap](/f23/language/pap) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pap.po | 
+ | [pl](/f23/language/pl) | 156 | 156 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pl.po | 
+ | [pt](/f23/language/pt) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pt.po | 
+ | [pt_BR](/f23/language/pt_BR) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pt_BR.po | 
+ | [qu](/f23/language/qu) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/quz.po | 
+ | [ru](/f23/language/ru) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ru.po | 
+ | [rw](/f23/language/rw) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/rw.po | 
+ | [si](/f23/language/si) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/si.po | 
+ | [sl](/f23/language/sl) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sl.po | 
+ | [sq](/f23/language/sq) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sq.po | 
+ | [sr](/f23/language/sr) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sr.po | 
+ | [sv](/f23/language/sv) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sv.po | 
+ | [sw](/f23/language/sw) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sw.po | 
+ | [ta](/f23/language/ta) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ta.po | 
+ | [te](/f23/language/te) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/te.po | 
+ | [th](/f23/language/th) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/th.po | 
+ | [vi](/f23/language/vi) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/vi.po | 
+ | [zh_Hans](/f23/language/zh_Hans) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zh_CN.po | 
+ | [zh_Hant](/f23/language/zh_Hant) | 76 | 76 | 100.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zh_TW.po | 
+ | [af](/f23/language/af) | 75 | 76 | 98.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/af.po | 
+ | [bn](/f23/language/bn) | 75 | 76 | 98.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bn.po | 
+ | [ur](/f23/language/ur) | 75 | 76 | 98.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ur.po | 
+ | [fil](/f23/language/fil) | 73 | 76 | 96.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fil.po | 
+ | [nah](/f23/language/nah) | 70 | 76 | 92.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/nah.po | 
+ | [hr](/f23/language/hr) | 67 | 76 | 88.2 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hr.po | 
+ | [ko](/f23/language/ko) | 67 | 76 | 88.2 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ko.po | 
+ | [ps](/f23/language/ps) | 65 | 76 | 85.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ps.po | 
+ | [bg](/f23/language/bg) | 60 | 76 | 78.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bg.po | 
+ | [ht](/f23/language/ht) | 60 | 76 | 78.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ht.po | 
+ | [tr](/f23/language/tr) | 60 | 76 | 78.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tr.po | 
+ | [mg](/f23/language/mg) | 58 | 76 | 76.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mg.po | 
+ | [sk](/f23/language/sk) | 58 | 76 | 76.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sk.po | 
+ | [ca](/f23/language/ca) | 57 | 76 | 75.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ca.po | 
+ | [bs](/f23/language/bs) | 54 | 76 | 71.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/bs.po | 
+ | [nb_NO](/f23/language/nb_NO) | 49 | 76 | 64.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/nb.po | 
+ | [to](/f23/language/to) | 49 | 76 | 64.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/to.po | 
+ | [sm](/f23/language/sm) | 47 | 76 | 61.8 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sm.po | 
+ | [prs](/f23/language/prs) | 40 | 76 | 52.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fa_AF.po | 
+ | [hu](/f23/language/hu) | 32 | 76 | 42.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/hu.po | 
+ | [cs](/f23/language/cs) | 30 | 76 | 39.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/cs.po | 
+ | [gu](/f23/language/gu) | 28 | 76 | 36.8 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/gu.po | 
+ | [error](/f23/language/error) | 64 | 228 | 28.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pbs.po/mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tzo.po/mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mvo.po | 
+ | [son](/f23/language/son) | 18 | 76 | 23.7 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/son.po | 
+ | [am](/f23/language/am) | 13 | 76 | 17.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/am.po | 
+ | [he](/f23/language/he) | 13 | 76 | 17.1 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/he.po | 
+ | [eu](/f23/language/eu) | 11 | 76 | 14.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/eu.po | 
+ | [gl](/f23/language/gl) | 9 | 76 | 11.8 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/gl.po | 
+ | [fi](/f23/language/fi) | 8 | 76 | 10.5 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fi.po | 
+ | [kn](/f23/language/kn) | 5 | 76 | 6.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/kn.po | 
+ | [tzm](/f23/language/tzm) | 5 | 76 | 6.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tzm.po | 
+ | [br](/f23/language/br) | 3 | 76 | 3.9 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/br.po | 
+ | [lt](/f23/language/lt) | 2 | 76 | 2.6 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/lt.po | 
+ | [be](/f23/language/be) | 1 | 76 | 1.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/be.po | 
+ | [be_Latn](/f23/language/be_Latn) | 1 | 76 | 1.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/be@latin.po | 
+ | [kos](/f23/language/kos) | 1 | 76 | 1.3 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/kos.po | 
+ | [ak](/f23/language/ak) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ak.po | 
+ | [cpp](/f23/language/cpp) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/cpp.po | 
+ | [dz](/f23/language/dz) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/dz.po | 
+ | [fa](/f23/language/fa) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/fa.po | 
+ | [ff](/f23/language/ff) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ff.po | 
+ | [ha](/f23/language/ha) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ha.po | 
+ | [is](/f23/language/is) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/is.po | 
+ | [ku](/f23/language/ku) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ku.po | 
+ | [lg](/f23/language/lg) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/lg.po | 
+ | [mk](/f23/language/mk) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/mk.po | 
+ | [ml](/f23/language/ml) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ml.po | 
+ | [pa](/f23/language/pa) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/pa.po | 
+ | [ro](/f23/language/ro) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ro.po | 
+ | [sd](/f23/language/sd) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/sd.po | 
+ | [tvl](/f23/language/tvl) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/tvl.po | 
+ | [ug](/f23/language/ug) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/ug.po | 
+ | [wa](/f23/language/wa) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/wa.po | 
+ | [yo](/f23/language/yo) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/yo.po | 
+ | [zh_Hant_HK](/f23/language/zh_Hant_HK) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zh_HK.po | 
+ | [zu](/f23/language/zu) | 0 | 76 | 0.0 | /mnt/stockage/packages/f23/sugar-toolkit-gtk3/po/zu.po | 
 {.sortable}
 
 

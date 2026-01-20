@@ -18,36 +18,36 @@ The package gnupg (version 1.4.18):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f19/language/de.md" >}}) | 8595 | 8595 | 100.0 | /mnt/stockage/packages/f19/gnupg/po/de.po | 
- | [error]({{< ref "/f19/language/error.md" >}}) | 17190 | 17190 | 100.0 | /mnt/stockage/packages/f19/gnupg/po/en@boldquot.po/mnt/stockage/packages/f19/gnupg/po/en@quot.po | 
- | [da]({{< ref "/f19/language/da.md" >}}) | 8584 | 8595 | 99.9 | /mnt/stockage/packages/f19/gnupg/po/da.po | 
- | [fr]({{< ref "/f19/language/fr.md" >}}) | 8584 | 8595 | 99.9 | /mnt/stockage/packages/f19/gnupg/po/fr.po | 
- | [uk]({{< ref "/f19/language/uk.md" >}}) | 8584 | 8595 | 99.9 | /mnt/stockage/packages/f19/gnupg/po/uk.po | 
- | [pl]({{< ref "/f19/language/pl.md" >}}) | 8577 | 8595 | 99.8 | /mnt/stockage/packages/f19/gnupg/po/pl.po | 
- | [ro]({{< ref "/f19/language/ro.md" >}}) | 8577 | 8595 | 99.8 | /mnt/stockage/packages/f19/gnupg/po/ro.po | 
- | [zh_Hant]({{< ref "/f19/language/zh_Hant.md" >}}) | 8522 | 8595 | 99.2 | /mnt/stockage/packages/f19/gnupg/po/zh_TW.po | 
- | [sv]({{< ref "/f19/language/sv.md" >}}) | 8318 | 8595 | 96.8 | /mnt/stockage/packages/f19/gnupg/po/sv.po | 
- | [zh_Hans]({{< ref "/f19/language/zh_Hans.md" >}}) | 8296 | 8595 | 96.5 | /mnt/stockage/packages/f19/gnupg/po/zh_CN.po | 
- | [nl]({{< ref "/f19/language/nl.md" >}}) | 7927 | 8595 | 92.2 | /mnt/stockage/packages/f19/gnupg/po/nl.po | 
- | [cs]({{< ref "/f19/language/cs.md" >}}) | 7726 | 8595 | 89.9 | /mnt/stockage/packages/f19/gnupg/po/cs.po | 
- | [ru]({{< ref "/f19/language/ru.md" >}}) | 7603 | 8595 | 88.5 | /mnt/stockage/packages/f19/gnupg/po/ru.po | 
- | [es]({{< ref "/f19/language/es.md" >}}) | 7587 | 8595 | 88.3 | /mnt/stockage/packages/f19/gnupg/po/es.po | 
- | [tr]({{< ref "/f19/language/tr.md" >}}) | 7582 | 8595 | 88.2 | /mnt/stockage/packages/f19/gnupg/po/tr.po | 
- | [ja]({{< ref "/f19/language/ja.md" >}}) | 7135 | 8595 | 83.0 | /mnt/stockage/packages/f19/gnupg/po/ja.po | 
- | [nb_NO]({{< ref "/f19/language/nb_NO.md" >}}) | 5399 | 8595 | 62.8 | /mnt/stockage/packages/f19/gnupg/po/nb.po | 
- | [el]({{< ref "/f19/language/el.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/el.po | 
- | [et]({{< ref "/f19/language/et.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/et.po | 
- | [fi]({{< ref "/f19/language/fi.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/fi.po | 
- | [hu]({{< ref "/f19/language/hu.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/hu.po | 
- | [id]({{< ref "/f19/language/id.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/id.po | 
- | [it]({{< ref "/f19/language/it.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/it.po | 
- | [sk]({{< ref "/f19/language/sk.md" >}}) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/sk.po | 
- | [ca]({{< ref "/f19/language/ca.md" >}}) | 4435 | 8595 | 51.6 | /mnt/stockage/packages/f19/gnupg/po/ca.po | 
- | [gl]({{< ref "/f19/language/gl.md" >}}) | 4406 | 8595 | 51.3 | /mnt/stockage/packages/f19/gnupg/po/gl.po | 
- | [pt]({{< ref "/f19/language/pt.md" >}}) | 3904 | 8595 | 45.4 | /mnt/stockage/packages/f19/gnupg/po/pt.po | 
- | [eo]({{< ref "/f19/language/eo.md" >}}) | 3340 | 8595 | 38.9 | /mnt/stockage/packages/f19/gnupg/po/eo.po | 
- | [pt_BR]({{< ref "/f19/language/pt_BR.md" >}}) | 2167 | 8595 | 25.2 | /mnt/stockage/packages/f19/gnupg/po/pt_BR.po | 
- | [be]({{< ref "/f19/language/be.md" >}}) | 451 | 8595 | 5.2 | /mnt/stockage/packages/f19/gnupg/po/be.po | 
+ | [de](/f19/language/de) | 8595 | 8595 | 100.0 | /mnt/stockage/packages/f19/gnupg/po/de.po | 
+ | [error](/f19/language/error) | 17190 | 17190 | 100.0 | /mnt/stockage/packages/f19/gnupg/po/en@boldquot.po/mnt/stockage/packages/f19/gnupg/po/en@quot.po | 
+ | [da](/f19/language/da) | 8584 | 8595 | 99.9 | /mnt/stockage/packages/f19/gnupg/po/da.po | 
+ | [fr](/f19/language/fr) | 8584 | 8595 | 99.9 | /mnt/stockage/packages/f19/gnupg/po/fr.po | 
+ | [uk](/f19/language/uk) | 8584 | 8595 | 99.9 | /mnt/stockage/packages/f19/gnupg/po/uk.po | 
+ | [pl](/f19/language/pl) | 8577 | 8595 | 99.8 | /mnt/stockage/packages/f19/gnupg/po/pl.po | 
+ | [ro](/f19/language/ro) | 8577 | 8595 | 99.8 | /mnt/stockage/packages/f19/gnupg/po/ro.po | 
+ | [zh_Hant](/f19/language/zh_Hant) | 8522 | 8595 | 99.2 | /mnt/stockage/packages/f19/gnupg/po/zh_TW.po | 
+ | [sv](/f19/language/sv) | 8318 | 8595 | 96.8 | /mnt/stockage/packages/f19/gnupg/po/sv.po | 
+ | [zh_Hans](/f19/language/zh_Hans) | 8296 | 8595 | 96.5 | /mnt/stockage/packages/f19/gnupg/po/zh_CN.po | 
+ | [nl](/f19/language/nl) | 7927 | 8595 | 92.2 | /mnt/stockage/packages/f19/gnupg/po/nl.po | 
+ | [cs](/f19/language/cs) | 7726 | 8595 | 89.9 | /mnt/stockage/packages/f19/gnupg/po/cs.po | 
+ | [ru](/f19/language/ru) | 7603 | 8595 | 88.5 | /mnt/stockage/packages/f19/gnupg/po/ru.po | 
+ | [es](/f19/language/es) | 7587 | 8595 | 88.3 | /mnt/stockage/packages/f19/gnupg/po/es.po | 
+ | [tr](/f19/language/tr) | 7582 | 8595 | 88.2 | /mnt/stockage/packages/f19/gnupg/po/tr.po | 
+ | [ja](/f19/language/ja) | 7135 | 8595 | 83.0 | /mnt/stockage/packages/f19/gnupg/po/ja.po | 
+ | [nb_NO](/f19/language/nb_NO) | 5399 | 8595 | 62.8 | /mnt/stockage/packages/f19/gnupg/po/nb.po | 
+ | [el](/f19/language/el) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/el.po | 
+ | [et](/f19/language/et) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/et.po | 
+ | [fi](/f19/language/fi) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/fi.po | 
+ | [hu](/f19/language/hu) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/hu.po | 
+ | [id](/f19/language/id) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/id.po | 
+ | [it](/f19/language/it) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/it.po | 
+ | [sk](/f19/language/sk) | 4440 | 8595 | 51.7 | /mnt/stockage/packages/f19/gnupg/po/sk.po | 
+ | [ca](/f19/language/ca) | 4435 | 8595 | 51.6 | /mnt/stockage/packages/f19/gnupg/po/ca.po | 
+ | [gl](/f19/language/gl) | 4406 | 8595 | 51.3 | /mnt/stockage/packages/f19/gnupg/po/gl.po | 
+ | [pt](/f19/language/pt) | 3904 | 8595 | 45.4 | /mnt/stockage/packages/f19/gnupg/po/pt.po | 
+ | [eo](/f19/language/eo) | 3340 | 8595 | 38.9 | /mnt/stockage/packages/f19/gnupg/po/eo.po | 
+ | [pt_BR](/f19/language/pt_BR) | 2167 | 8595 | 25.2 | /mnt/stockage/packages/f19/gnupg/po/pt_BR.po | 
+ | [be](/f19/language/be) | 451 | 8595 | 5.2 | /mnt/stockage/packages/f19/gnupg/po/be.po | 
 {.sortable}
 
 

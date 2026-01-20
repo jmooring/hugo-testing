@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [php-phpmyadmin-sql-parser5]({{< ref "/f34/package/php-phpmyadmin-sql-parser5.md" >}}) | 0 | 268 | 0.0 | West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/> | 
+ | [php-phpmyadmin-sql-parser5](/f34/package/php-phpmyadmin-sql-parser5) | 0 | 268 | 0.0 | West Flemish <https://hosted.weblate.org/projects/phpmyadmin/master/vls/> | 
 {.sortable}
 
 

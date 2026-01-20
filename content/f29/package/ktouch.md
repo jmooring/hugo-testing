@@ -18,55 +18,55 @@ The package ktouch (version 18.12.2):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f29/language/ca.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/ca/ktouch.po | 
- | [ca@valencia]({{< ref "/f29/language/ca@valencia.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/ca@valencia/ktouch.po | 
- | [de]({{< ref "/f29/language/de.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/de/ktouch.po | 
- | [el]({{< ref "/f29/language/el.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/el/ktouch.po | 
- | [en_GB]({{< ref "/f29/language/en_GB.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/en_GB/ktouch.po | 
- | [es]({{< ref "/f29/language/es.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/es/ktouch.po | 
- | [eu]({{< ref "/f29/language/eu.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/eu/ktouch.po | 
- | [fi]({{< ref "/f29/language/fi.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/fi/ktouch.po | 
- | [fr]({{< ref "/f29/language/fr.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/fr/ktouch.po | 
- | [gl]({{< ref "/f29/language/gl.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/gl/ktouch.po | 
- | [it]({{< ref "/f29/language/it.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/it/ktouch.po | 
- | [nl]({{< ref "/f29/language/nl.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/nl/ktouch.po | 
- | [pl]({{< ref "/f29/language/pl.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/pl/ktouch.po | 
- | [pt]({{< ref "/f29/language/pt.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/pt/ktouch.po | 
- | [pt_BR]({{< ref "/f29/language/pt_BR.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/pt_BR/ktouch.po | 
- | [sk]({{< ref "/f29/language/sk.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/sk/ktouch.po | 
- | [sl]({{< ref "/f29/language/sl.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/sl/ktouch.po | 
- | [sv]({{< ref "/f29/language/sv.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/sv/ktouch.po | 
- | [tr]({{< ref "/f29/language/tr.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/tr/ktouch.po | 
- | [uk]({{< ref "/f29/language/uk.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/uk/ktouch.po | 
- | [zh_Hans]({{< ref "/f29/language/zh_Hans.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/zh_CN/ktouch.po | 
- | [zh_Hant]({{< ref "/f29/language/zh_Hant.md" >}}) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/zh_TW/ktouch.po | 
- | [et]({{< ref "/f29/language/et.md" >}}) | 860 | 871 | 98.7 | /mnt/stockage/packages/f29/ktouch/po/et/ktouch.po | 
- | [cs]({{< ref "/f29/language/cs.md" >}}) | 850 | 871 | 97.6 | /mnt/stockage/packages/f29/ktouch/po/cs/ktouch.po | 
- | [ru]({{< ref "/f29/language/ru.md" >}}) | 843 | 871 | 96.8 | /mnt/stockage/packages/f29/ktouch/po/ru/ktouch.po | 
- | [bs]({{< ref "/f29/language/bs.md" >}}) | 822 | 871 | 94.4 | /mnt/stockage/packages/f29/ktouch/po/bs/ktouch.po | 
- | [eo]({{< ref "/f29/language/eo.md" >}}) | 822 | 871 | 94.4 | /mnt/stockage/packages/f29/ktouch/po/eo/ktouch.po | 
- | [da]({{< ref "/f29/language/da.md" >}}) | 800 | 871 | 91.8 | /mnt/stockage/packages/f29/ktouch/po/da/ktouch.po | 
- | [nds]({{< ref "/f29/language/nds.md" >}}) | 800 | 871 | 91.8 | /mnt/stockage/packages/f29/ktouch/po/nds/ktouch.po | 
- | [kk]({{< ref "/f29/language/kk.md" >}}) | 785 | 871 | 90.1 | /mnt/stockage/packages/f29/ktouch/po/kk/ktouch.po | 
- | [nb_NO]({{< ref "/f29/language/nb_NO.md" >}}) | 785 | 871 | 90.1 | /mnt/stockage/packages/f29/ktouch/po/nb/ktouch.po | 
- | [hu]({{< ref "/f29/language/hu.md" >}}) | 776 | 871 | 89.1 | /mnt/stockage/packages/f29/ktouch/po/hu/ktouch.po | 
- | [lv]({{< ref "/f29/language/lv.md" >}}) | 755 | 871 | 86.7 | /mnt/stockage/packages/f29/ktouch/po/lv/ktouch.po | 
- | [ar]({{< ref "/f29/language/ar.md" >}}) | 749 | 871 | 86.0 | /mnt/stockage/packages/f29/ktouch/po/ar/ktouch.po | 
- | [km]({{< ref "/f29/language/km.md" >}}) | 742 | 871 | 85.2 | /mnt/stockage/packages/f29/ktouch/po/km/ktouch.po | 
- | [lt]({{< ref "/f29/language/lt.md" >}}) | 715 | 871 | 82.1 | /mnt/stockage/packages/f29/ktouch/po/lt/ktouch.po | 
- | [ga]({{< ref "/f29/language/ga.md" >}}) | 179 | 871 | 20.6 | /mnt/stockage/packages/f29/ktouch/po/ga/ktouch.po | 
- | [pa]({{< ref "/f29/language/pa.md" >}}) | 169 | 871 | 19.4 | /mnt/stockage/packages/f29/ktouch/po/pa/ktouch.po | 
- | [ug]({{< ref "/f29/language/ug.md" >}}) | 101 | 871 | 11.6 | /mnt/stockage/packages/f29/ktouch/po/ug/ktouch.po | 
- | [nn]({{< ref "/f29/language/nn.md" >}}) | 70 | 871 | 8.0 | /mnt/stockage/packages/f29/ktouch/po/nn/ktouch.po | 
- | [hr]({{< ref "/f29/language/hr.md" >}}) | 38 | 871 | 4.4 | /mnt/stockage/packages/f29/ktouch/po/hr/ktouch.po | 
- | [ja]({{< ref "/f29/language/ja.md" >}}) | 38 | 871 | 4.4 | /mnt/stockage/packages/f29/ktouch/po/ja/ktouch.po | 
- | [mr]({{< ref "/f29/language/mr.md" >}}) | 35 | 871 | 4.0 | /mnt/stockage/packages/f29/ktouch/po/mr/ktouch.po | 
- | [hi]({{< ref "/f29/language/hi.md" >}}) | 25 | 871 | 2.9 | /mnt/stockage/packages/f29/ktouch/po/hi/ktouch.po | 
- | [fa]({{< ref "/f29/language/fa.md" >}}) | 17 | 871 | 2.0 | /mnt/stockage/packages/f29/ktouch/po/fa/ktouch.po | 
- | [he]({{< ref "/f29/language/he.md" >}}) | 11 | 871 | 1.3 | /mnt/stockage/packages/f29/ktouch/po/he/ktouch.po | 
- | [bg]({{< ref "/f29/language/bg.md" >}}) | 8 | 871 | 0.9 | /mnt/stockage/packages/f29/ktouch/po/bg/ktouch.po | 
- | [is]({{< ref "/f29/language/is.md" >}}) | 5 | 871 | 0.6 | /mnt/stockage/packages/f29/ktouch/po/is/ktouch.po | 
- | [ro]({{< ref "/f29/language/ro.md" >}}) | 0 | 871 | 0.0 | /mnt/stockage/packages/f29/ktouch/po/ro/ktouch.po | 
+ | [ca](/f29/language/ca) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/ca/ktouch.po | 
+ | [ca@valencia](/f29/language/ca@valencia) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/ca@valencia/ktouch.po | 
+ | [de](/f29/language/de) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/de/ktouch.po | 
+ | [el](/f29/language/el) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/el/ktouch.po | 
+ | [en_GB](/f29/language/en_GB) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/en_GB/ktouch.po | 
+ | [es](/f29/language/es) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/es/ktouch.po | 
+ | [eu](/f29/language/eu) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/eu/ktouch.po | 
+ | [fi](/f29/language/fi) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/fi/ktouch.po | 
+ | [fr](/f29/language/fr) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/fr/ktouch.po | 
+ | [gl](/f29/language/gl) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/gl/ktouch.po | 
+ | [it](/f29/language/it) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/it/ktouch.po | 
+ | [nl](/f29/language/nl) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/nl/ktouch.po | 
+ | [pl](/f29/language/pl) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/pl/ktouch.po | 
+ | [pt](/f29/language/pt) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/pt/ktouch.po | 
+ | [pt_BR](/f29/language/pt_BR) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/pt_BR/ktouch.po | 
+ | [sk](/f29/language/sk) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/sk/ktouch.po | 
+ | [sl](/f29/language/sl) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/sl/ktouch.po | 
+ | [sv](/f29/language/sv) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/sv/ktouch.po | 
+ | [tr](/f29/language/tr) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/tr/ktouch.po | 
+ | [uk](/f29/language/uk) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/uk/ktouch.po | 
+ | [zh_Hans](/f29/language/zh_Hans) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/zh_CN/ktouch.po | 
+ | [zh_Hant](/f29/language/zh_Hant) | 871 | 871 | 100.0 | /mnt/stockage/packages/f29/ktouch/po/zh_TW/ktouch.po | 
+ | [et](/f29/language/et) | 860 | 871 | 98.7 | /mnt/stockage/packages/f29/ktouch/po/et/ktouch.po | 
+ | [cs](/f29/language/cs) | 850 | 871 | 97.6 | /mnt/stockage/packages/f29/ktouch/po/cs/ktouch.po | 
+ | [ru](/f29/language/ru) | 843 | 871 | 96.8 | /mnt/stockage/packages/f29/ktouch/po/ru/ktouch.po | 
+ | [bs](/f29/language/bs) | 822 | 871 | 94.4 | /mnt/stockage/packages/f29/ktouch/po/bs/ktouch.po | 
+ | [eo](/f29/language/eo) | 822 | 871 | 94.4 | /mnt/stockage/packages/f29/ktouch/po/eo/ktouch.po | 
+ | [da](/f29/language/da) | 800 | 871 | 91.8 | /mnt/stockage/packages/f29/ktouch/po/da/ktouch.po | 
+ | [nds](/f29/language/nds) | 800 | 871 | 91.8 | /mnt/stockage/packages/f29/ktouch/po/nds/ktouch.po | 
+ | [kk](/f29/language/kk) | 785 | 871 | 90.1 | /mnt/stockage/packages/f29/ktouch/po/kk/ktouch.po | 
+ | [nb_NO](/f29/language/nb_NO) | 785 | 871 | 90.1 | /mnt/stockage/packages/f29/ktouch/po/nb/ktouch.po | 
+ | [hu](/f29/language/hu) | 776 | 871 | 89.1 | /mnt/stockage/packages/f29/ktouch/po/hu/ktouch.po | 
+ | [lv](/f29/language/lv) | 755 | 871 | 86.7 | /mnt/stockage/packages/f29/ktouch/po/lv/ktouch.po | 
+ | [ar](/f29/language/ar) | 749 | 871 | 86.0 | /mnt/stockage/packages/f29/ktouch/po/ar/ktouch.po | 
+ | [km](/f29/language/km) | 742 | 871 | 85.2 | /mnt/stockage/packages/f29/ktouch/po/km/ktouch.po | 
+ | [lt](/f29/language/lt) | 715 | 871 | 82.1 | /mnt/stockage/packages/f29/ktouch/po/lt/ktouch.po | 
+ | [ga](/f29/language/ga) | 179 | 871 | 20.6 | /mnt/stockage/packages/f29/ktouch/po/ga/ktouch.po | 
+ | [pa](/f29/language/pa) | 169 | 871 | 19.4 | /mnt/stockage/packages/f29/ktouch/po/pa/ktouch.po | 
+ | [ug](/f29/language/ug) | 101 | 871 | 11.6 | /mnt/stockage/packages/f29/ktouch/po/ug/ktouch.po | 
+ | [nn](/f29/language/nn) | 70 | 871 | 8.0 | /mnt/stockage/packages/f29/ktouch/po/nn/ktouch.po | 
+ | [hr](/f29/language/hr) | 38 | 871 | 4.4 | /mnt/stockage/packages/f29/ktouch/po/hr/ktouch.po | 
+ | [ja](/f29/language/ja) | 38 | 871 | 4.4 | /mnt/stockage/packages/f29/ktouch/po/ja/ktouch.po | 
+ | [mr](/f29/language/mr) | 35 | 871 | 4.0 | /mnt/stockage/packages/f29/ktouch/po/mr/ktouch.po | 
+ | [hi](/f29/language/hi) | 25 | 871 | 2.9 | /mnt/stockage/packages/f29/ktouch/po/hi/ktouch.po | 
+ | [fa](/f29/language/fa) | 17 | 871 | 2.0 | /mnt/stockage/packages/f29/ktouch/po/fa/ktouch.po | 
+ | [he](/f29/language/he) | 11 | 871 | 1.3 | /mnt/stockage/packages/f29/ktouch/po/he/ktouch.po | 
+ | [bg](/f29/language/bg) | 8 | 871 | 0.9 | /mnt/stockage/packages/f29/ktouch/po/bg/ktouch.po | 
+ | [is](/f29/language/is) | 5 | 871 | 0.6 | /mnt/stockage/packages/f29/ktouch/po/is/ktouch.po | 
+ | [ro](/f29/language/ro) | 0 | 871 | 0.0 | /mnt/stockage/packages/f29/ktouch/po/ro/ktouch.po | 
 {.sortable}
 
 

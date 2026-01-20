@@ -38,7 +38,7 @@ Packages:
 
 | Name |  Translated words | Total source words | Progress (%) | Language teams |
 |------|------------------:|-------------------:|-------------:|----------------|
- | [python-django]({{< ref "/f32/package/python-django.md" >}}) | 3396 | 3769 | 90.1 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
+ | [python-django](/f32/package/python-django) | 3396 | 3769 | 90.1 | Lower Sorbian (http://www.transifex.com/django/django/language/dsb/) | 
 {.sortable}
 
 

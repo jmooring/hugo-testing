@@ -18,23 +18,23 @@ The package pidgin-birthday-reminder (version 1.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [de]({{< ref "/f43/language/de.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/de.po | 
- | [lt]({{< ref "/f43/language/lt.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/lt.po | 
- | [pl]({{< ref "/f43/language/pl.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/pl.po | 
- | [sk]({{< ref "/f43/language/sk.md" >}}) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/sk.po | 
- | [cs]({{< ref "/f43/language/cs.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/cs.po | 
- | [el]({{< ref "/f43/language/el.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/el.po | 
- | [es]({{< ref "/f43/language/es.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/es.po | 
- | [fr]({{< ref "/f43/language/fr.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/fr.po | 
- | [gl]({{< ref "/f43/language/gl.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/gl.po | 
- | [he]({{< ref "/f43/language/he.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/he.po | 
- | [it]({{< ref "/f43/language/it.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/it.po | 
- | [nl]({{< ref "/f43/language/nl.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/nl.po | 
- | [pt]({{< ref "/f43/language/pt.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/pt.po | 
- | [pt_BR]({{< ref "/f43/language/pt_BR.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/pt_BR.po | 
- | [ru]({{< ref "/f43/language/ru.md" >}}) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/ru.po | 
- | [ta]({{< ref "/f43/language/ta.md" >}}) | 54 | 289 | 18.7 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/ta.po | 
- | [tr]({{< ref "/f43/language/tr.md" >}}) | 20 | 289 | 6.9 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/tr.po | 
+ | [de](/f43/language/de) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/de.po | 
+ | [lt](/f43/language/lt) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/lt.po | 
+ | [pl](/f43/language/pl) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/pl.po | 
+ | [sk](/f43/language/sk) | 289 | 289 | 100.0 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/sk.po | 
+ | [cs](/f43/language/cs) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/cs.po | 
+ | [el](/f43/language/el) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/el.po | 
+ | [es](/f43/language/es) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/es.po | 
+ | [fr](/f43/language/fr) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/fr.po | 
+ | [gl](/f43/language/gl) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/gl.po | 
+ | [he](/f43/language/he) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/he.po | 
+ | [it](/f43/language/it) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/it.po | 
+ | [nl](/f43/language/nl) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/nl.po | 
+ | [pt](/f43/language/pt) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/pt.po | 
+ | [pt_BR](/f43/language/pt_BR) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/pt_BR.po | 
+ | [ru](/f43/language/ru) | 204 | 289 | 70.6 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/ru.po | 
+ | [ta](/f43/language/ta) | 54 | 289 | 18.7 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/ta.po | 
+ | [tr](/f43/language/tr) | 20 | 289 | 6.9 | /mnt/stockage/packages/f43/pidgin-birthday-reminder/po/tr.po | 
 {.sortable}
 
 

@@ -18,10 +18,10 @@ The package eina (version 0.8.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f10/language/cs.md" >}}) | 228 | 319 | 71.5 | /mnt/stockage/packages/f10/eina/po/cs.po | 
- | [es]({{< ref "/f10/language/es.md" >}}) | 196 | 319 | 61.4 | /mnt/stockage/packages/f10/eina/po/es.po | 
- | [ru]({{< ref "/f10/language/ru.md" >}}) | 151 | 319 | 47.3 | /mnt/stockage/packages/f10/eina/po/ru.po | 
- | [ca]({{< ref "/f10/language/ca.md" >}}) | 0 | 319 | 0.0 | /mnt/stockage/packages/f10/eina/po/ca.po | 
+ | [cs](/f10/language/cs) | 228 | 319 | 71.5 | /mnt/stockage/packages/f10/eina/po/cs.po | 
+ | [es](/f10/language/es) | 196 | 319 | 61.4 | /mnt/stockage/packages/f10/eina/po/es.po | 
+ | [ru](/f10/language/ru) | 151 | 319 | 47.3 | /mnt/stockage/packages/f10/eina/po/ru.po | 
+ | [ca](/f10/language/ca) | 0 | 319 | 0.0 | /mnt/stockage/packages/f10/eina/po/ca.po | 
 {.sortable}
 
 

@@ -18,17 +18,17 @@ The package gnome-chemistry-utils (version 0.12.13):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [el]({{< ref "/f16/language/el.md" >}}) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/el.po | 
- | [fr]({{< ref "/f16/language/fr.md" >}}) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/fr.po | 
- | [pl]({{< ref "/f16/language/pl.md" >}}) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/pl.po | 
- | [zh_Hant]({{< ref "/f16/language/zh_Hant.md" >}}) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/zh_TW.po | 
- | [de]({{< ref "/f16/language/de.md" >}}) | 4143 | 4355 | 95.1 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/de.po | 
- | [eu]({{< ref "/f16/language/eu.md" >}}) | 4059 | 4383 | 92.6 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/eu.po | 
- | [es]({{< ref "/f16/language/es.md" >}}) | 3320 | 4318 | 76.9 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/es.po | 
- | [pt_BR]({{< ref "/f16/language/pt_BR.md" >}}) | 2917 | 4355 | 67.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/pt_BR.po | 
- | [it]({{< ref "/f16/language/it.md" >}}) | 1402 | 4355 | 32.2 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/it.po | 
- | [ru]({{< ref "/f16/language/ru.md" >}}) | 793 | 4355 | 18.2 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/ru.po | 
- | [zh_Hans]({{< ref "/f16/language/zh_Hans.md" >}}) | 568 | 4355 | 13.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/zh_CN.po | 
+ | [el](/f16/language/el) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/el.po | 
+ | [fr](/f16/language/fr) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/fr.po | 
+ | [pl](/f16/language/pl) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/pl.po | 
+ | [zh_Hant](/f16/language/zh_Hant) | 4355 | 4355 | 100.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/zh_TW.po | 
+ | [de](/f16/language/de) | 4143 | 4355 | 95.1 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/de.po | 
+ | [eu](/f16/language/eu) | 4059 | 4383 | 92.6 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/eu.po | 
+ | [es](/f16/language/es) | 3320 | 4318 | 76.9 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/es.po | 
+ | [pt_BR](/f16/language/pt_BR) | 2917 | 4355 | 67.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/pt_BR.po | 
+ | [it](/f16/language/it) | 1402 | 4355 | 32.2 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/it.po | 
+ | [ru](/f16/language/ru) | 793 | 4355 | 18.2 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/ru.po | 
+ | [zh_Hans](/f16/language/zh_Hans) | 568 | 4355 | 13.0 | /mnt/stockage/packages/f16/gnome-chemistry-utils/po/zh_CN.po | 
 {.sortable}
 
 

@@ -18,14 +18,14 @@ The package lxhotkey (version 0.1.0):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [cs]({{< ref "/f24/language/cs.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/cs.po | 
- | [gl]({{< ref "/f24/language/gl.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/gl.po | 
- | [nl]({{< ref "/f24/language/nl.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/nl.po | 
- | [pt]({{< ref "/f24/language/pt.md" >}}) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/pt.po | 
- | [ru]({{< ref "/f24/language/ru.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/ru.po | 
- | [uk]({{< ref "/f24/language/uk.md" >}}) | 451 | 451 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/uk.po | 
- | [sr]({{< ref "/f24/language/sr.md" >}}) | 409 | 449 | 91.1 | /mnt/stockage/packages/f24/lxhotkey/po/sr.po | 
- | [sr_Latn]({{< ref "/f24/language/sr_Latn.md" >}}) | 409 | 449 | 91.1 | /mnt/stockage/packages/f24/lxhotkey/po/sr@latin.po | 
+ | [cs](/f24/language/cs) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/cs.po | 
+ | [gl](/f24/language/gl) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/gl.po | 
+ | [nl](/f24/language/nl) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/nl.po | 
+ | [pt](/f24/language/pt) | 449 | 449 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/pt.po | 
+ | [ru](/f24/language/ru) | 451 | 451 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/ru.po | 
+ | [uk](/f24/language/uk) | 451 | 451 | 100.0 | /mnt/stockage/packages/f24/lxhotkey/po/uk.po | 
+ | [sr](/f24/language/sr) | 409 | 449 | 91.1 | /mnt/stockage/packages/f24/lxhotkey/po/sr.po | 
+ | [sr_Latn](/f24/language/sr_Latn) | 409 | 449 | 91.1 | /mnt/stockage/packages/f24/lxhotkey/po/sr@latin.po | 
 {.sortable}
 
 

@@ -18,109 +18,109 @@ The package certmonger (version 0.76.8):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [nl]({{< ref "/f20/language/nl.md" >}}) | 1644 | 1669 | 98.5 | /mnt/stockage/packages/f20/certmonger/po/nl.po | 
- | [pl]({{< ref "/f20/language/pl.md" >}}) | 1644 | 1669 | 98.5 | /mnt/stockage/packages/f20/certmonger/po/pl.po | 
- | [sv]({{< ref "/f20/language/sv.md" >}}) | 1502 | 1669 | 90.0 | /mnt/stockage/packages/f20/certmonger/po/sv.po | 
- | [fr]({{< ref "/f20/language/fr.md" >}}) | 1396 | 1669 | 83.6 | /mnt/stockage/packages/f20/certmonger/po/fr.po | 
- | [pt_BR]({{< ref "/f20/language/pt_BR.md" >}}) | 1385 | 1669 | 83.0 | /mnt/stockage/packages/f20/certmonger/po/pt_BR.po | 
- | [de]({{< ref "/f20/language/de.md" >}}) | 1145 | 1669 | 68.6 | /mnt/stockage/packages/f20/certmonger/po/de.po | 
- | [hu]({{< ref "/f20/language/hu.md" >}}) | 1145 | 1669 | 68.6 | /mnt/stockage/packages/f20/certmonger/po/hu.po | 
- | [lt]({{< ref "/f20/language/lt.md" >}}) | 1145 | 1669 | 68.6 | /mnt/stockage/packages/f20/certmonger/po/lt.po | 
- | [bg]({{< ref "/f20/language/bg.md" >}}) | 1139 | 1669 | 68.2 | /mnt/stockage/packages/f20/certmonger/po/bg.po | 
- | [pt]({{< ref "/f20/language/pt.md" >}}) | 1013 | 1669 | 60.7 | /mnt/stockage/packages/f20/certmonger/po/pt.po | 
- | [da]({{< ref "/f20/language/da.md" >}}) | 883 | 1669 | 52.9 | /mnt/stockage/packages/f20/certmonger/po/da.po | 
- | [es]({{< ref "/f20/language/es.md" >}}) | 1519 | 3338 | 45.5 | /mnt/stockage/packages/f20/certmonger/po/es.po/mnt/stockage/packages/f20/certmonger/po/es_ES.po | 
- | [uk]({{< ref "/f20/language/uk.md" >}}) | 1502 | 3338 | 45.0 | /mnt/stockage/packages/f20/certmonger/po/uk.po/mnt/stockage/packages/f20/certmonger/po/uk_UA.po | 
- | [id]({{< ref "/f20/language/id.md" >}}) | 721 | 1669 | 43.2 | /mnt/stockage/packages/f20/certmonger/po/id.po | 
- | [ja]({{< ref "/f20/language/ja.md" >}}) | 1249 | 3338 | 37.4 | /mnt/stockage/packages/f20/certmonger/po/ja.po/mnt/stockage/packages/f20/certmonger/po/ja_JP.po | 
- | [zh_Hans]({{< ref "/f20/language/zh_Hans.md" >}}) | 1145 | 3338 | 34.3 | /mnt/stockage/packages/f20/certmonger/po/zh_CN.GB2312.po/mnt/stockage/packages/f20/certmonger/po/zh_CN.po | 
- | [it]({{< ref "/f20/language/it.md" >}}) | 1010 | 3338 | 30.3 | /mnt/stockage/packages/f20/certmonger/po/it.po/mnt/stockage/packages/f20/certmonger/po/it_IT.po | 
- | [zh_Hant]({{< ref "/f20/language/zh_Hant.md" >}}) | 535 | 3338 | 16.0 | /mnt/stockage/packages/f20/certmonger/po/zh_TW.Big5.po/mnt/stockage/packages/f20/certmonger/po/zh_TW.po | 
- | [gu]({{< ref "/f20/language/gu.md" >}}) | 120 | 1669 | 7.2 | /mnt/stockage/packages/f20/certmonger/po/gu.po | 
- | [ru]({{< ref "/f20/language/ru.md" >}}) | 221 | 3338 | 6.6 | /mnt/stockage/packages/f20/certmonger/po/ru.po/mnt/stockage/packages/f20/certmonger/po/ru_RU.po | 
- | [tr]({{< ref "/f20/language/tr.md" >}}) | 21 | 1669 | 1.3 | /mnt/stockage/packages/f20/certmonger/po/tr.po | 
- | [nb_NO]({{< ref "/f20/language/nb_NO.md" >}}) | 27 | 3338 | 0.8 | /mnt/stockage/packages/f20/certmonger/po/nb.po/mnt/stockage/packages/f20/certmonger/po/no.po | 
- | [cs]({{< ref "/f20/language/cs.md" >}}) | 18 | 3338 | 0.5 | /mnt/stockage/packages/f20/certmonger/po/cs.po/mnt/stockage/packages/f20/certmonger/po/cs_CZ.po | 
- | [eu]({{< ref "/f20/language/eu.md" >}}) | 18 | 3338 | 0.5 | /mnt/stockage/packages/f20/certmonger/po/eu.po/mnt/stockage/packages/f20/certmonger/po/eu_ES.po | 
- | [ta]({{< ref "/f20/language/ta.md" >}}) | 2 | 3338 | 0.1 | /mnt/stockage/packages/f20/certmonger/po/ta.po/mnt/stockage/packages/f20/certmonger/po/ta_IN.po | 
- | [ach]({{< ref "/f20/language/ach.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ach.po | 
- | [af]({{< ref "/f20/language/af.md" >}}) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/af.po/mnt/stockage/packages/f20/certmonger/po/af_ZA.po | 
- | [aln]({{< ref "/f20/language/aln.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/aln.po | 
- | [am]({{< ref "/f20/language/am.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/am.po | 
- | [ar]({{< ref "/f20/language/ar.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ar.po | 
- | [as]({{< ref "/f20/language/as.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/as.po | 
- | [ast]({{< ref "/f20/language/ast.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ast.po | 
- | [az]({{< ref "/f20/language/az.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/az.po | 
- | [bal]({{< ref "/f20/language/bal.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bal.po | 
- | [be]({{< ref "/f20/language/be.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/be.po | 
- | [bn]({{< ref "/f20/language/bn.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bn.po | 
- | [bn_IN]({{< ref "/f20/language/bn_IN.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bn_IN.po | 
- | [bo]({{< ref "/f20/language/bo.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bo.po | 
- | [br]({{< ref "/f20/language/br.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/br.po | 
- | [brx]({{< ref "/f20/language/brx.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/brx.po | 
- | [bs]({{< ref "/f20/language/bs.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bs.po | 
- | [ca]({{< ref "/f20/language/ca.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ca.po | 
- | [cy]({{< ref "/f20/language/cy.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/cy.po | 
- | [de_CH]({{< ref "/f20/language/de_CH.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/de_CH.po | 
- | [dz]({{< ref "/f20/language/dz.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/dz.po | 
- | [el]({{< ref "/f20/language/el.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/el.po | 
- | [en_GB]({{< ref "/f20/language/en_GB.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/en_GB.po | 
- | [eo]({{< ref "/f20/language/eo.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/eo.po | 
- | [et]({{< ref "/f20/language/et.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/et.po | 
- | [fa]({{< ref "/f20/language/fa.md" >}}) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/fa.po/mnt/stockage/packages/f20/certmonger/po/fa_IR.po | 
- | [fi]({{< ref "/f20/language/fi.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/fi.po | 
- | [ga]({{< ref "/f20/language/ga.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ga.po | 
- | [gl]({{< ref "/f20/language/gl.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/gl.po | 
- | [he]({{< ref "/f20/language/he.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/he.po | 
- | [hi]({{< ref "/f20/language/hi.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/hi.po | 
- | [hr]({{< ref "/f20/language/hr.md" >}}) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/hr.po/mnt/stockage/packages/f20/certmonger/po/hr_HR.po | 
- | [hy]({{< ref "/f20/language/hy.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/hy.po | 
- | [ia]({{< ref "/f20/language/ia.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ia.po | 
- | [ilo]({{< ref "/f20/language/ilo.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ilo.po | 
- | [is]({{< ref "/f20/language/is.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/is.po | 
- | [ka]({{< ref "/f20/language/ka.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ka.po | 
- | [kk]({{< ref "/f20/language/kk.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/kk.po | 
- | [km]({{< ref "/f20/language/km.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/km.po | 
- | [kn]({{< ref "/f20/language/kn.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/kn.po | 
- | [ko]({{< ref "/f20/language/ko.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ko.po | 
- | [ks]({{< ref "/f20/language/ks.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ks.po | 
- | [ku]({{< ref "/f20/language/ku.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ku.po | 
- | [ky]({{< ref "/f20/language/ky.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ky.po | 
- | [la]({{< ref "/f20/language/la.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/la.po | 
- | [lo]({{< ref "/f20/language/lo.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/lo.po | 
- | [lv]({{< ref "/f20/language/lv.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/lv.po | 
- | [mai]({{< ref "/f20/language/mai.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mai.po | 
- | [mg]({{< ref "/f20/language/mg.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mg.po | 
- | [mk]({{< ref "/f20/language/mk.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mk.po | 
- | [ml]({{< ref "/f20/language/ml.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ml.po | 
- | [mn]({{< ref "/f20/language/mn.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mn.po | 
- | [mr]({{< ref "/f20/language/mr.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mr.po | 
- | [ms]({{< ref "/f20/language/ms.md" >}}) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ms.po/mnt/stockage/packages/f20/certmonger/po/ms_MY.po | 
- | [my]({{< ref "/f20/language/my.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/my.po | 
- | [nds]({{< ref "/f20/language/nds.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/nds.po | 
- | [ne]({{< ref "/f20/language/ne.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ne.po | 
- | [nn]({{< ref "/f20/language/nn.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/nn.po | 
- | [nso]({{< ref "/f20/language/nso.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/nso.po | 
- | [or]({{< ref "/f20/language/or.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/or.po | 
- | [pa]({{< ref "/f20/language/pa.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/pa.po | 
- | [ro]({{< ref "/f20/language/ro.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ro.po | 
- | [si]({{< ref "/f20/language/si.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/si.po | 
- | [sk]({{< ref "/f20/language/sk.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sk.po | 
- | [sl]({{< ref "/f20/language/sl.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sl.po | 
- | [sq]({{< ref "/f20/language/sq.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sq.po | 
- | [sr]({{< ref "/f20/language/sr.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sr.po | 
- | [sr_Latn]({{< ref "/f20/language/sr_Latn.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sr@latin.po | 
- | [te]({{< ref "/f20/language/te.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/te.po | 
- | [tg]({{< ref "/f20/language/tg.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/tg.po | 
- | [th]({{< ref "/f20/language/th.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/th.po | 
- | [tl]({{< ref "/f20/language/tl.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/tl.po | 
- | [ur]({{< ref "/f20/language/ur.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ur.po | 
- | [uz]({{< ref "/f20/language/uz.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/uz.po | 
- | [vi]({{< ref "/f20/language/vi.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/vi.po | 
- | [wo]({{< ref "/f20/language/wo.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/wo.po | 
- | [xh]({{< ref "/f20/language/xh.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/xh.po | 
- | [zh_Hant_HK]({{< ref "/f20/language/zh_Hant_HK.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/zh_HK.po | 
- | [zu]({{< ref "/f20/language/zu.md" >}}) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/zu.po | 
+ | [nl](/f20/language/nl) | 1644 | 1669 | 98.5 | /mnt/stockage/packages/f20/certmonger/po/nl.po | 
+ | [pl](/f20/language/pl) | 1644 | 1669 | 98.5 | /mnt/stockage/packages/f20/certmonger/po/pl.po | 
+ | [sv](/f20/language/sv) | 1502 | 1669 | 90.0 | /mnt/stockage/packages/f20/certmonger/po/sv.po | 
+ | [fr](/f20/language/fr) | 1396 | 1669 | 83.6 | /mnt/stockage/packages/f20/certmonger/po/fr.po | 
+ | [pt_BR](/f20/language/pt_BR) | 1385 | 1669 | 83.0 | /mnt/stockage/packages/f20/certmonger/po/pt_BR.po | 
+ | [de](/f20/language/de) | 1145 | 1669 | 68.6 | /mnt/stockage/packages/f20/certmonger/po/de.po | 
+ | [hu](/f20/language/hu) | 1145 | 1669 | 68.6 | /mnt/stockage/packages/f20/certmonger/po/hu.po | 
+ | [lt](/f20/language/lt) | 1145 | 1669 | 68.6 | /mnt/stockage/packages/f20/certmonger/po/lt.po | 
+ | [bg](/f20/language/bg) | 1139 | 1669 | 68.2 | /mnt/stockage/packages/f20/certmonger/po/bg.po | 
+ | [pt](/f20/language/pt) | 1013 | 1669 | 60.7 | /mnt/stockage/packages/f20/certmonger/po/pt.po | 
+ | [da](/f20/language/da) | 883 | 1669 | 52.9 | /mnt/stockage/packages/f20/certmonger/po/da.po | 
+ | [es](/f20/language/es) | 1519 | 3338 | 45.5 | /mnt/stockage/packages/f20/certmonger/po/es.po/mnt/stockage/packages/f20/certmonger/po/es_ES.po | 
+ | [uk](/f20/language/uk) | 1502 | 3338 | 45.0 | /mnt/stockage/packages/f20/certmonger/po/uk.po/mnt/stockage/packages/f20/certmonger/po/uk_UA.po | 
+ | [id](/f20/language/id) | 721 | 1669 | 43.2 | /mnt/stockage/packages/f20/certmonger/po/id.po | 
+ | [ja](/f20/language/ja) | 1249 | 3338 | 37.4 | /mnt/stockage/packages/f20/certmonger/po/ja.po/mnt/stockage/packages/f20/certmonger/po/ja_JP.po | 
+ | [zh_Hans](/f20/language/zh_Hans) | 1145 | 3338 | 34.3 | /mnt/stockage/packages/f20/certmonger/po/zh_CN.GB2312.po/mnt/stockage/packages/f20/certmonger/po/zh_CN.po | 
+ | [it](/f20/language/it) | 1010 | 3338 | 30.3 | /mnt/stockage/packages/f20/certmonger/po/it.po/mnt/stockage/packages/f20/certmonger/po/it_IT.po | 
+ | [zh_Hant](/f20/language/zh_Hant) | 535 | 3338 | 16.0 | /mnt/stockage/packages/f20/certmonger/po/zh_TW.Big5.po/mnt/stockage/packages/f20/certmonger/po/zh_TW.po | 
+ | [gu](/f20/language/gu) | 120 | 1669 | 7.2 | /mnt/stockage/packages/f20/certmonger/po/gu.po | 
+ | [ru](/f20/language/ru) | 221 | 3338 | 6.6 | /mnt/stockage/packages/f20/certmonger/po/ru.po/mnt/stockage/packages/f20/certmonger/po/ru_RU.po | 
+ | [tr](/f20/language/tr) | 21 | 1669 | 1.3 | /mnt/stockage/packages/f20/certmonger/po/tr.po | 
+ | [nb_NO](/f20/language/nb_NO) | 27 | 3338 | 0.8 | /mnt/stockage/packages/f20/certmonger/po/nb.po/mnt/stockage/packages/f20/certmonger/po/no.po | 
+ | [cs](/f20/language/cs) | 18 | 3338 | 0.5 | /mnt/stockage/packages/f20/certmonger/po/cs.po/mnt/stockage/packages/f20/certmonger/po/cs_CZ.po | 
+ | [eu](/f20/language/eu) | 18 | 3338 | 0.5 | /mnt/stockage/packages/f20/certmonger/po/eu.po/mnt/stockage/packages/f20/certmonger/po/eu_ES.po | 
+ | [ta](/f20/language/ta) | 2 | 3338 | 0.1 | /mnt/stockage/packages/f20/certmonger/po/ta.po/mnt/stockage/packages/f20/certmonger/po/ta_IN.po | 
+ | [ach](/f20/language/ach) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ach.po | 
+ | [af](/f20/language/af) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/af.po/mnt/stockage/packages/f20/certmonger/po/af_ZA.po | 
+ | [aln](/f20/language/aln) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/aln.po | 
+ | [am](/f20/language/am) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/am.po | 
+ | [ar](/f20/language/ar) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ar.po | 
+ | [as](/f20/language/as) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/as.po | 
+ | [ast](/f20/language/ast) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ast.po | 
+ | [az](/f20/language/az) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/az.po | 
+ | [bal](/f20/language/bal) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bal.po | 
+ | [be](/f20/language/be) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/be.po | 
+ | [bn](/f20/language/bn) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bn.po | 
+ | [bn_IN](/f20/language/bn_IN) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bn_IN.po | 
+ | [bo](/f20/language/bo) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bo.po | 
+ | [br](/f20/language/br) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/br.po | 
+ | [brx](/f20/language/brx) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/brx.po | 
+ | [bs](/f20/language/bs) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/bs.po | 
+ | [ca](/f20/language/ca) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ca.po | 
+ | [cy](/f20/language/cy) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/cy.po | 
+ | [de_CH](/f20/language/de_CH) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/de_CH.po | 
+ | [dz](/f20/language/dz) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/dz.po | 
+ | [el](/f20/language/el) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/el.po | 
+ | [en_GB](/f20/language/en_GB) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/en_GB.po | 
+ | [eo](/f20/language/eo) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/eo.po | 
+ | [et](/f20/language/et) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/et.po | 
+ | [fa](/f20/language/fa) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/fa.po/mnt/stockage/packages/f20/certmonger/po/fa_IR.po | 
+ | [fi](/f20/language/fi) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/fi.po | 
+ | [ga](/f20/language/ga) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ga.po | 
+ | [gl](/f20/language/gl) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/gl.po | 
+ | [he](/f20/language/he) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/he.po | 
+ | [hi](/f20/language/hi) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/hi.po | 
+ | [hr](/f20/language/hr) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/hr.po/mnt/stockage/packages/f20/certmonger/po/hr_HR.po | 
+ | [hy](/f20/language/hy) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/hy.po | 
+ | [ia](/f20/language/ia) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ia.po | 
+ | [ilo](/f20/language/ilo) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ilo.po | 
+ | [is](/f20/language/is) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/is.po | 
+ | [ka](/f20/language/ka) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ka.po | 
+ | [kk](/f20/language/kk) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/kk.po | 
+ | [km](/f20/language/km) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/km.po | 
+ | [kn](/f20/language/kn) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/kn.po | 
+ | [ko](/f20/language/ko) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ko.po | 
+ | [ks](/f20/language/ks) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ks.po | 
+ | [ku](/f20/language/ku) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ku.po | 
+ | [ky](/f20/language/ky) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ky.po | 
+ | [la](/f20/language/la) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/la.po | 
+ | [lo](/f20/language/lo) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/lo.po | 
+ | [lv](/f20/language/lv) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/lv.po | 
+ | [mai](/f20/language/mai) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mai.po | 
+ | [mg](/f20/language/mg) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mg.po | 
+ | [mk](/f20/language/mk) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mk.po | 
+ | [ml](/f20/language/ml) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ml.po | 
+ | [mn](/f20/language/mn) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mn.po | 
+ | [mr](/f20/language/mr) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/mr.po | 
+ | [ms](/f20/language/ms) | 0 | 3338 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ms.po/mnt/stockage/packages/f20/certmonger/po/ms_MY.po | 
+ | [my](/f20/language/my) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/my.po | 
+ | [nds](/f20/language/nds) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/nds.po | 
+ | [ne](/f20/language/ne) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ne.po | 
+ | [nn](/f20/language/nn) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/nn.po | 
+ | [nso](/f20/language/nso) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/nso.po | 
+ | [or](/f20/language/or) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/or.po | 
+ | [pa](/f20/language/pa) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/pa.po | 
+ | [ro](/f20/language/ro) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ro.po | 
+ | [si](/f20/language/si) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/si.po | 
+ | [sk](/f20/language/sk) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sk.po | 
+ | [sl](/f20/language/sl) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sl.po | 
+ | [sq](/f20/language/sq) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sq.po | 
+ | [sr](/f20/language/sr) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sr.po | 
+ | [sr_Latn](/f20/language/sr_Latn) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/sr@latin.po | 
+ | [te](/f20/language/te) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/te.po | 
+ | [tg](/f20/language/tg) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/tg.po | 
+ | [th](/f20/language/th) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/th.po | 
+ | [tl](/f20/language/tl) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/tl.po | 
+ | [ur](/f20/language/ur) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/ur.po | 
+ | [uz](/f20/language/uz) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/uz.po | 
+ | [vi](/f20/language/vi) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/vi.po | 
+ | [wo](/f20/language/wo) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/wo.po | 
+ | [xh](/f20/language/xh) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/xh.po | 
+ | [zh_Hant_HK](/f20/language/zh_Hant_HK) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/zh_HK.po | 
+ | [zu](/f20/language/zu) | 0 | 1669 | 0.0 | /mnt/stockage/packages/f20/certmonger/po/zu.po | 
 {.sortable}
 
 

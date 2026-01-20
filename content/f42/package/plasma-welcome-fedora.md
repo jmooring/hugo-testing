@@ -18,19 +18,19 @@ The package plasma-welcome-fedora (version 6.3.4):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [es]({{< ref "/f42/language/es.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/es.po | 
- | [fr]({{< ref "/f42/language/fr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/fr.po | 
- | [it]({{< ref "/f42/language/it.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/it.po | 
- | [ko]({{< ref "/f42/language/ko.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/ko.po | 
- | [pt]({{< ref "/f42/language/pt.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/pt.po | 
- | [pt_BR]({{< ref "/f42/language/pt_BR.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/pt_BR.po | 
- | [tr]({{< ref "/f42/language/tr.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/tr.po | 
- | [uk]({{< ref "/f42/language/uk.md" >}}) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/uk.po | 
- | [cs]({{< ref "/f42/language/cs.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/cs.po | 
- | [de]({{< ref "/f42/language/de.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/de.po | 
- | [ru]({{< ref "/f42/language/ru.md" >}}) | 104 | 108 | 96.3 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/ru.po | 
- | [he]({{< ref "/f42/language/he.md" >}}) | 57 | 108 | 52.8 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/he.po | 
- | [kab]({{< ref "/f42/language/kab.md" >}}) | 22 | 108 | 20.4 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/kab.po | 
+ | [es](/f42/language/es) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/es.po | 
+ | [fr](/f42/language/fr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/fr.po | 
+ | [it](/f42/language/it) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/it.po | 
+ | [ko](/f42/language/ko) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/ko.po | 
+ | [pt](/f42/language/pt) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/pt.po | 
+ | [pt_BR](/f42/language/pt_BR) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/pt_BR.po | 
+ | [tr](/f42/language/tr) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/tr.po | 
+ | [uk](/f42/language/uk) | 108 | 108 | 100.0 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/uk.po | 
+ | [cs](/f42/language/cs) | 104 | 108 | 96.3 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/cs.po | 
+ | [de](/f42/language/de) | 104 | 108 | 96.3 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/de.po | 
+ | [ru](/f42/language/ru) | 104 | 108 | 96.3 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/ru.po | 
+ | [he](/f42/language/he) | 57 | 108 | 52.8 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/he.po | 
+ | [kab](/f42/language/kab) | 22 | 108 | 20.4 | /mnt/stockage/packages/f42/plasma-welcome-fedora/po/kab.po | 
 {.sortable}
 
 

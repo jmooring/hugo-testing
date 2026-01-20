@@ -18,18 +18,18 @@ The package gnome-shell-extension-gamemode (version 6):
 
 | Language | Translated words | Total source words | Progress (%) | Files |
 |----------|-----------------:|-------------------:|-------------:|-------|
- | [ca]({{< ref "/f36/language/ca.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/ca.po | 
- | [de]({{< ref "/f36/language/de.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/de.po | 
- | [es]({{< ref "/f36/language/es.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/es.po | 
- | [fr]({{< ref "/f36/language/fr.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/fr.po | 
- | [it]({{< ref "/f36/language/it.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/it.po | 
- | [nl]({{< ref "/f36/language/nl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/nl.po | 
- | [pl]({{< ref "/f36/language/pl.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pl.po | 
- | [zh_Hans]({{< ref "/f36/language/zh_Hans.md" >}}) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/zh_CN.po | 
- | [cs]({{< ref "/f36/language/cs.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/cs.po | 
- | [pt]({{< ref "/f36/language/pt.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pt.po | 
- | [pt_BR]({{< ref "/f36/language/pt_BR.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pt_BR.po | 
- | [pt_PT]({{< ref "/f36/language/pt_PT.md" >}}) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pt_PT.po | 
+ | [ca](/f36/language/ca) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/ca.po | 
+ | [de](/f36/language/de) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/de.po | 
+ | [es](/f36/language/es) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/es.po | 
+ | [fr](/f36/language/fr) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/fr.po | 
+ | [it](/f36/language/it) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/it.po | 
+ | [nl](/f36/language/nl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/nl.po | 
+ | [pl](/f36/language/pl) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pl.po | 
+ | [zh_Hans](/f36/language/zh_Hans) | 73 | 73 | 100.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/zh_CN.po | 
+ | [cs](/f36/language/cs) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/cs.po | 
+ | [pt](/f36/language/pt) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pt.po | 
+ | [pt_BR](/f36/language/pt_BR) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pt_BR.po | 
+ | [pt_PT](/f36/language/pt_PT) | 0 | 73 | 0.0 | /mnt/stockage/packages/f36/gnome-shell-extension-gamemode/po/pt_PT.po | 
 {.sortable}
 
 
